@@ -769,15 +769,15 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 | Tema | Quién | Episodios | Ambiente para la lámina |
 |---|---|---|---|
 | **We Are!** (OP 1) | Hiroshi Kitadani; música de **Kōhei Tanaka**, letra de Shōko Fujibayashi | 1-47 ✅ ([wiki](https://onepiece.fandom.com/wiki/We_Are!)) | El himno de «súbete al barco». **El de #bienvenidas.** Visualmente: pergamino quemado, barcos en carrera y **la carta náutica con los créditos escritos** (§12). |
-| We Are! Straw Hat Pirate Version (OP 7) | los Sombrero de Paja | 279-283 ⚠️ (sólo ANN) | La tripulación cantando junta. |
+| We Are! Straw Hat Pirate Version (OP 7) | los Sombrero de Paja | 279-283 ✅ (ANN + [wiki, «One Piece Music»](https://onepiece.fandom.com/wiki/One_Piece_Music)) | La tripulación cantando junta. |
 | **We Go!** (OP 15) | Hiroshi Kitadani | 517-589 en Japón ✅ ([wiki](https://onepiece.fandom.com/wiki/We_Go!)) | El reencuentro tras 2 años. |
 | memories (ED 1) | Maki Otsuki | 1-30 ✅ ([wiki](https://onepiece.fandom.com/wiki/Memories)) | **Mar dorado al atardecer y siluetas que se van juntando** (§12). Nostalgia. |
 | Dear sunrise (ED 20) | Maki Otsuki | **1089-1122** ✅ ([wiki](https://onepiece.fandom.com/wiki/Dear_sunrise)). *Antes decía «1089 en adelante».* | Luffy de espaldas mira el mar al atardecer, «como en el primer ending». |
 | OVER THE TOP (OP 22) | Hiroshi Kitadani y Kōhei Tanaka | 892-934 ✅ ([wiki, música](https://onepiece.fandom.com/wiki/One_Piece_Music)) | Wano. |
-| Believe, Hikari e, Bon Voyage!, Kokoro no Chizu… | varios | 48-263 ⚠️ (sólo ANN) | Aventura del primer tramo. |
+| Believe (OP 2) · Hikari e (OP 3) · BON VOYAGE! (OP 4) · Kokoro no Chizu (OP 5) | Folder 5 · The Babystars · Bon-Bon Blanco · BOYSTYLE | 48-115 · 116-168 · 169-206 · 207-263 ✅ (ANN + [wiki](https://onepiece.fandom.com/wiki/One_Piece_Music)). *Antes: «48-263», sin repartir.* | Aventura del primer tramo. |
 
 - **En latino los temas se dejan en japonés** (no se redoblaron «We Are» ni «memories» como en 4Kids) ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece), «Sobre la transmisión»; ANMTV dice que los openings y endings llevan **textos localizados**).
-- Compositores de la banda sonora: **Kōhei Tanaka** ✅ (ANN + wiki) y **Shirō Hamaguchi** ⚠️ (sólo ANN). Ficha: [ANN en GitHub](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/836.json).
+- Compositores de la banda sonora: **Kōhei Tanaka** ✅ (ANN + wiki) y **Shirō Hamaguchi** ✅ (ANN + créditos pista a pista de la wiki, p. ej. [«One Piece OST - NEW WORLD»](https://onepiece.fandom.com/wiki/One_Piece_OST_-_NEW_WORLD)). *Antes, Hamaguchi con ⚠️.* Ficha: [ANN en GitHub](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/836.json).
 
 ---
 
