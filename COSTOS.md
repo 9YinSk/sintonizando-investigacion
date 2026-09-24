@@ -24,3 +24,4 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | texto | Sonnet | 21 | 247 258 | 113 acciones, una tanda sin «Sigue:»; 40 ✅ y 10 ⚠️, 27 referencias; corrigió que Murata entinta a mano |
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | video | Sonnet | 28 | 259 901 | 123 acciones, una tanda sin «Sigue:»; 4 vídeos vistos con episodio.py, 11 paletas hex, poses de los 4 personajes |
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | voz, tanda 1 | Sonnet | 30 | 250 521 | 754 líneas, 93 ✅ y 23 ⚠️, 8 muestras del doblaje transcritas; Fubuki 2.ª en la encuesta oficial; dejó «Sigue:» con caras de 8 secundarios |
+| 24-sep | 35 One Punch Man | nueva (económico, en cadena) | voz, tanda 2 | Sonnet | 16 | 167 698 | 39 acciones; caras de 8 secundarios (15 imágenes medidas); lo no encontrado queda ⚠️ |
