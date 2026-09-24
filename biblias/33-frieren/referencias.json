@@ -40,8 +40,8 @@
     "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Frieren and Fern character visual (Season 2).png»",
     "ancho": 3029,
     "alto": 2999,
-    "que_es": "Visual oficial de la T2: Frieren con medio cuerpo dentro del mímico y Fern tirando de ella.",
-    "para_que": "El gag más querido (§14.1); pose de «regañar» para Fern.",
+    "que_es": "Visual oficial de la T2: Fern lleva a Frieren en volandas, sujetándola por la cintura, mientras Frieren estira los brazos hacia un mímico abierto (dientes y lengua) para meterse dentro.",
+    "para_que": "El gag más querido (§14.1); Fern que «rescata» y regaña; diseño exacto del cofre-mímico (sin patas, herrajes grises).",
     "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project. Sólo referencia: no reproducir en la lámina."
   },
   {
@@ -321,5 +321,55 @@
     "licencia": "CC BY 4.0 — crédito: \"Chained (medieval) library book\" by Andywoodhead is licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/)",
     "autor": "Andywoodhead",
     "modelo": "https://sketchfab.com/3d-models/8e4a74f2cb4c4101bb0cd843445ef23e"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FY4Bx2qtkRM&t=86",
+    "fuente": "YouTube, TOHO animation チャンネル: «『葬送のフリーレン』第2期ノンクレジットエンディング映像／ED：「The Story of Us」milet» (título por oEmbed)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Ending sin créditos de la T2, todo a lápiz de color. En 1:26-1:28, un libro cerrado de piel rojiza con pluma y tintero; 0:03-0:16, Himmel escribe con pluma.",
+    "para_que": "El objeto «libro + pluma + tintero» de los conceptos A y B (§19); textura de lápiz de color.",
+    "licencia": "© «Frieren» Project / TOHO animation. Sólo para ver.",
+    "nota_medida": "ancho y alto medidos en la miniatura oficial maxresdefault (1280×720) de YouTube; el vídeo no se pudo bajar desde el contenedor (YouTube pide iniciar sesión), así que su resolución exacta no está medida ⚠️"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=K8XwKilGTg0&t=21",
+    "fuente": "YouTube, Crunchyroll en Español: «Himmel al igual que Coco dijo: Recuérdame | Frieren: Más allá del final del viaje (dob latino)»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Clip doblado al latino (T1-07). 0:21-0:24 Himmel se toca la frente con los ojos cerrados y brillos sobre cian; 0:13-0:39 «esto es para que no te sientas sola».",
+    "para_que": "Pose de Himmel «qué guapo soy» y frase del doblaje latino (§10.4, §15.4).",
+    "licencia": "© Crunchyroll / «Frieren» Project. Sólo para ver: no recortar fotogramas para la lámina.",
+    "nota_medida": "ancho y alto medidos en la miniatura oficial maxresdefault (1280×720) de YouTube; el vídeo no se pudo bajar desde el contenedor (YouTube pide iniciar sesión), así que su resolución exacta no está medida ⚠️"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aIFWMH0dhbA&t=45",
+    "fuente": "YouTube, Crunchyroll en Español: «Ama, no me quiero levantar | Frieren: Más allá del final del viaje (doblaje latino)»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Clip doblado al latino (T1-04). Fern despierta, peina y viste a Frieren. 0:45-1:01 Fern: «prácticamente soy como su propia madre»; 0:00 «Señora Frieren, ya es de día».",
+    "para_que": "Cómo habla Fern en latino (de usted, «Señora Frieren») y pose de «Fern mamá» (§10.4, §15.2).",
+    "licencia": "© Crunchyroll / «Frieren» Project. Sólo para ver: no recortar fotogramas para la lámina.",
+    "nota_medida": "ancho y alto medidos en la miniatura oficial maxresdefault (1280×720) de YouTube; el vídeo no se pudo bajar desde el contenedor (YouTube pide iniciar sesión), así que su resolución exacta no está medida ⚠️"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8",
+    "fuente": "YouTube, Crunchyroll en Español: «Una promesa de 50 años | Frieren: Más allá del final del viaje (doblaje latino)»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Clip doblado al latino (T1-01): la lluvia de meteoros de Era. 0:08 Himmel: «La lluvia de meteoros de Era pasa una vez cada 50 años»; 0:32 Frieren: «Sé de un lugar donde la lluvia de meteoros se puede ver más clara»; 0:17-0:27 el grupo en silueta en un tejado.",
+    "para_que": "Frases textuales y composición del concepto C (#🎟️・eventos, §19).",
+    "licencia": "© Crunchyroll / «Frieren» Project. Sólo para ver: no recortar fotogramas para la lámina.",
+    "nota_medida": "ancho y alto medidos en la miniatura oficial maxresdefault (1280×720) de YouTube; el vídeo no se pudo bajar desde el contenedor (YouTube pide iniciar sesión), así que su resolución exacta no está medida ⚠️"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8lnihm?start=28",
+    "fuente": "Dailymotion (copia de Filmow): «TVアニメ『葬送のフリーレン』PV／2023年秋 日本テレビ系全国放送開始» (PV 1 de TOHO)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "PV 1 de la T1. 0:28-0:30 Frieren asoma los ojos por encima de un grimorio; cartelas blancas con niebla cian en 0:19, 0:24 y 0:31.",
+    "para_que": "La pose principal del concepto A (§19) y el modelo de cartela del tráiler (§7.1 A).",
+    "licencia": "© «Frieren» Project / TOHO animation. Sólo para ver.",
+    "nota_medida": "512×288 es el único formato que sirve Dailymotion (medido con yt-dlp -F); la API de Dailymotion da el original a 720 de alto, 16:9"
   }
 ]

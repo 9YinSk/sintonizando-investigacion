@@ -1,7 +1,7 @@
 ---
 tags: [biblia, serie, laminas, biblioteca]
 serie: "Frieren: Más allá del final del viaje (葬送のフリーレン)"
-canal: "sin canal: propuesta pendiente (ver §0)"
+canal: "sin canal: propuesta #🧰・recursos (alternativas #✍️・poemas y #🎟️・eventos, ver §0)"
 fecha: 2026-09-24
 ---
 
@@ -40,11 +40,67 @@ fecha: 2026-09-24
 
 ## 0 · Frieren no tiene canal: dónde encaja mejor
 
-(pendiente)
+**Recomendación: #🧰・recursos** (concepto A, §19). Segunda opción,
+**#✍️・poemas**; tercera, **#🎟️・eventos**.
+
+Cómo lo decidí, mirando `servidor/inventario.md`:
+
+| Canal o sala | Qué es (inventario) | Encaje con Frieren | ¿Ya tiene lámina? ⚠️ |
+|---|---|---|---|
+| **#🧰・recursos** | «Lo que le sirve a los demás… Un hilo por recurso. NADA pirata» | ⭐⭐⭐ Frieren **colecciona magias** y **cobra en grimorios**; «nada pirata» = **el mímico**, que parece un tesoro y muerde | no consta |
+| **#✍️・poemas** | «Se lee despacio: si comentas, comenta el texto» | ⭐⭐⭐ el **diario de Himmel**; el ED de la T2 a lápiz con pluma y tintero | no consta |
+| **#🎟️・eventos** | «Se convoca con /create y cada uno lo ve en su hora» | ⭐⭐ los **meteoros de Era**, una vez cada 50 años | no consta |
+| #📚・material-de-clase | clases y ejercicios por nivel | ⭐⭐ Frieren **maestra de Fern**; los niveles como **certificados de mago** | sí (`material-de-clase.png`) |
+| #📖・textos | guiones para practicar | ⭐⭐ un guion = un grimorio | sí (`textos.png`) |
+| #🎯・reto-de-la-semana | un reto por semana | ⭐ el **examen de mago de primera clase** | sí (`reto-de-la-semana.png`) |
+| #🙋・dudas | «pregunta sin miedo» | ⭐ Frieren abre el cofre aunque dé miedo | sí (`dudas.png`) |
+
+**⚠️ Supuesto**: leo el adjunto `.png` del hilo fijado de cada foro como
+«ya tiene lámina de otra serie». Si no es así, **#📚・material-de-clase**
+sería un gran sitio también: pose **F2** (Frieren explica tras la mesa con la
+vela, Fern y Stark escuchan) y los niveles de la clase como **certificados
+de maga** (`escenas_01` n.º 9).
+
+**Por qué no un canal «de fiesta»**: la serie es **tranquila y seca**
+(§7, §14.3). Encaja en sitios donde se **lee, se guarda y se consulta**.
 
 ## 1 · Resumen para quien tenga prisa
 
-(pendiente)
+- **La serie**: una elfa maga de más de mil años, **Frieren**, vuelve a
+  viajar tras la muerte del héroe **Himmel** para **conocer mejor a los
+  humanos**. Viaja con su aprendiz **Fern** y el guerrero **Stark**. Anime de
+  **Madhouse**, dos temporadas (2023-24 y 2026); la 3.ª, en **octubre de 2027**.
+  N.º 1 de MyAnimeList (9,26).
+- **El tono**: **tranquilo, luminoso y seco**. Humor sin gritos. Mucha
+  nostalgia. Colores **pálidos**, fondos de **acuarela**, noches **índigo**.
+- **La más querida**: **Frieren** (1.ª en el voto de una persona, un voto,
+  2026). **El secundario más querido: Himmel** (1.º en 2022 y 2024), pero
+  **está muerto**: sale en **recuerdo, estatua o flashback**. El gag que todos
+  reconocen: **el mímico** (el cofre que muerde).
+- **El cuadro de diálogo**: **no hay globos**. La serie habla con
+  **cartelas de tráiler**: blanco que se funde a cian, **mincho gris pizarra
+  muy espaciado**, sin borde ni pico. Títulos en **negro con mincho
+  blanco**. Nombres en **serif teal con una línea fina**. Lo largo, **escrito
+  en un grimorio**.
+- **Letras libres**: **Shippori Mincho** (cartelas), **Zen Old Mincho**
+  (títulos), **IM Fell English / Cormorant Garamond** (grimorio), **Klee
+  One** (a mano). Todas con tildes, ñ, ¿ y ¡ (comprobado con fontTools).
+- **Colores clave**: teal `#24CCCB`, oro viejo `#D5BA7F`, rojo del bastón
+  `#682927`, pelo de Frieren `#E8E6F0`, noche `#202D6D`.
+- **Doblaje latino**: **VSI México**, dirección **Raúl Estrada**. Frieren:
+  **Erika Ugalde**; Fern: **Azucena Estrada**; Stark: **Eduardo Martínez**;
+  Himmel: **Miguel Ángel Leal**. Fern dice «**Señora Frieren**» y la trata de
+  usted.
+- **Canal propuesto**: **#🧰・recursos** («La colección de grimorios»; el
+  mímico dice «nada pirata»). Alternativas: **#✍️・poemas** («El diario de
+  Himmel») y **#🎟️・eventos** («Los meteoros de Era»). Ver §19.
+- **No hacer**: Frieren riendo o gritando; Himmel vivo junto a Fern y
+  Stark; sombrero de bruja o varita; colores de fantasía oscura; **«Aura,
+  suicídate»** (habla de suicidio); fan service.
+- **Hojas**: `hojas/personajes_01.jpg` (28 piezas de arte oficial),
+  `hojas/escenas_01.jpg` (24 fotogramas y bocetos), `hojas/pantalla_01.jpg`
+  (lo que la serie escribe en pantalla y las letras). **40 referencias** en
+  `referencias.json`.
 
 ## 2 · Las escenas que sirven (con minuto)
 
@@ -128,7 +184,7 @@ Episodios: **T1** = temporada 1 (eps. 1-28, sep-2023 a mar-2024).
 | 2 | Frieren con **círculo mágico** detrás (1966×2785) | pose de **presentar**: bastón en diagonal, mira al frente |
 | 3 | Frieren con el bastón, trazo de manga | cabeza del bastón en primer plano |
 | 4 | Frieren **saluda** con la mano (T2, 3030×3009) | pose de **bienvenida** |
-| 5 | **Frieren con la cabeza dentro del mímico**, Fern tira de ella (T2, 3029×2999) | el **gag**; pose de **regañar** para Fern |
+| 5 | **Fern lleva a Frieren en volandas** y Frieren **estira los brazos hacia un mímico abierto** (T2, 3029×2999) | el **gag**; el cofre exacto (sin patas); Fern que **rescata** |
 | 6 | Frieren y un **mímico envuelto para regalo** (Yellow Tanabe, 4093×2894) | cofre como objeto de la lámina |
 | 7 | **Frieren y Fern leyendo sobre pilas de libros gigantes** (PARCO, 2480×2480) | **biblioteca**; pose de **pensar/leer** |
 | 8 | Frieren con una bandeja de **dangos** | pose de **celebrar** |
@@ -203,7 +259,7 @@ pantalla, sacado de los vídeos que miré (§12), y las letras libres (§6).
 | Imagen | Tamaño | URL (original) |
 |---|---|---|
 | Hoja oficial de Frieren | 2718×1920 | `referencias.json` n.º 1 |
-| Frieren y Fern en el mímico (T2) | 3029×2999 | `referencias.json` n.º 5 |
+| Fern sujeta a Frieren ante el mímico (T2) | 3029×2999 | `referencias.json` n.º 5 |
 | Frieren y Fern leen (PARCO) | 2480×2480 | `referencias.json` n.º 6 |
 | Biblioteca con estatua (T2-37) | 1920×1080 | `referencias.json` n.º 12 |
 
@@ -1480,7 +1536,136 @@ chocar con sus condiciones de uso: lo más seguro es usar de referencia
 
 ## 19 · Tres conceptos de lámina
 
-(pendiente)
+Frieren **no tiene canal todavía** (§0). Propongo **tres láminas para tres
+canales distintos**, de más a menos recomendable. Las tres usan el
+**cuadro de diálogo de la serie** (§7.4): la **cartela del tráiler**
+(rectángulo sin borde, blanco que se funde a cian `#FEFEFE`→`#D9FEFE`, texto
+en **Shippori Mincho** gris pizarra `#606A73` con espaciado ancho) y la
+**etiqueta de nombre** en serif teal con una línea fina, como el visual
+oficial del grupo (`referencias.json` n.º 11). **Nada de globos con pico.**
+
+Los textos del canal salen de `servidor/inventario.md`. Los que van en la
+voz de la serie son **propuestas mías**, no frases de la serie, salvo las
+que llevan su fuente.
+
+### Concepto A · #🧰・recursos — «La colección de grimorios» ⭐ recomendado
+
+**Por qué**: Frieren **colecciona magias**, hasta las inútiles, y **cobra en
+grimorios** (§2, n.º 18). Un canal de «lo que le sirve a los demás, un hilo
+por recurso» es su biblioteca. Y la regla «**NADA pirata**» se dice con el
+gag que todo fan conoce: **el mímico** (parece un tesoro y muerde, §14.1).
+
+- **Objeto real en sitio real**: un **atril de madera con un grimorio
+  abierto** (tapas rojo vino, cantoneras doradas) en la **biblioteca circular
+  del monasterio del lago Korridor**, bajo el **rayo de luz cenital**, con la
+  **estatua de Himmel** al fondo (T2-37, `escenas_01` n.º 19;
+  `referencias.json` n.º 12). En Blender: el libro escaneado de Sketchfab
+  (n.º 35, retexturizado con `leather_red_02`), estanterías del escaneo
+  «Gothic library» (n.º 34) y el **cofre** (Poly Haven `treasure_chest` o el
+  «Chest» de Sketchfab, pintado `#6F3230`, con dientes).
+- **Personaje**: **Frieren**, la más querida cuando cada persona vota una vez
+  (§9). Pose: **asoma los ojos por encima del grimorio** (PV1 0:28-0:30,
+  `pantalla_01` n.º 3; fan art de referencia «回忆の魔法书», n.º 31). A su
+  lado, en el suelo, **el mímico** entreabierto; y **Fern**, pequeña al
+  fondo, con la pose **E4** (mofletes, mira de reojo) para la advertencia.
+- **Cómo habla**: cartela del tráiler a la derecha de Frieren, en Shippori
+  Mincho. La información larga va **escrita en las páginas del grimorio**
+  en **IM Fell English** o **Cormorant Garamond**, tinta sepia sobre papel
+  `#E8DCC0`. El título, en **banda negra con mincho blanco** como el título
+  de episodio (§7.1 B).
+- **Dónde va cada texto**:
+  - Banda de título, arriba: «Recursos».
+  - Cartela de Frieren: «Colecciono magias. Hasta las que parecen
+    inútiles.» (tono de «Es sólo un pasatiempo», T1-02 20:35).
+  - Página izquierda: «Lo que le sirve a los demás. Programas, plantillas,
+    pistas sin voz, efectos, tutoriales.» «Un hilo por recurso.»
+  - Página derecha: «Di qué es, para qué sirve y dónde se consigue.»
+    «Etiqueta el precio y dónde funciona.»
+  - **Placa de latón en la tapa del mímico**: «Nada pirata. Ni cracks ni
+    programas crackeados.» Cartelita de Fern: «Eso parece un tesoro. Y
+    muerde.»
+  - Pie, pequeño, como el rótulo de canción (§7.1 D): «Lee el hilo fijado
+    antes de colgar.»
+- **Lámina 2 (las 15 etiquetas)**: una **estantería** vista de frente; cada
+  etiqueta es **el lomo de un libro** con su nombre en dorado. Balda 1, «qué
+  es»: Programa, Plantilla, Pista sin voz, Efectos de sonido, Musica libre,
+  Tutorial, Guion, Banco de voces. Balda 2, «cuánto cuesta»: Gratis, De
+  pago. Balda 3, «dónde funciona»: Windows, Mac, Movil, Online. Aparte, un
+  libro con **cinta dorada**: Verificado. Stark, apoyado en la estantería con
+  el hacha al hombro (**S3**).
+- **Para que no quede plano**: el rayo de luz cenital con **polvo en el
+  aire**; **el cofre y una pila de libros en primer plano**, desenfocados; la
+  estatua de Himmel **en contraluz** al fondo; sombras azules `#1E2B3D`
+  frente a la luz verde-blanca `#E6F4ED` (§5.2).
+
+### Concepto B · #✍️・poemas — «El diario de Himmel»
+
+**Por qué**: el canal dice «**se lee despacio**». Frieren tiene todo el
+tiempo del mundo. En la T2 un pueblo guarda **el diario de Himmel** (T2-37
+15:47), y el ED de la T2 **termina en un libro cerrado con pluma y
+tintero** (1:26, §11.1).
+
+- **Objeto real en sitio real**: **el diario de Himmel** (piel rojiza, pluma
+  y tintero, como el ED de la T2) **abierto sobre una mesa de madera** junto
+  a una ventana, en una casa de pueblo al **atardecer dorado**. En Blender:
+  libro, pluma, tintero y la mesa `wood_table_worn` (§5.4).
+- **Personajes**: **Frieren** lee sentada (pose **F6**, dedo en la barbilla,
+  o los ojos sobre el libro del PV1). **Himmel** aparece **detrás, en luz
+  dorada y medio transparente**, escribiendo con la pluma (pose **H9**,
+  T2-37, `referencias.json` n.º 22). Es un recuerdo: nunca sólido ni junto a
+  Fern y Stark (§14.3).
+- **Cómo habla**: la cartela del tráiler para Frieren; **el texto del canal
+  va a mano en las páginas** en **Klee One** (letra de lápiz, trae tildes,
+  ñ, ¿ y ¡, §6.2). El nombre «HIMMEL» en serif teal claro `#85CBCD`, grande
+  y detrás, como en la guía oficial (§7.4).
+- **Dónde va cada texto**:
+  - Cartela de Frieren: «Lo leo despacio. Tengo tiempo.»
+  - Página izquierda, letra de Himmel: «Un hilo por texto. Poemas, letras,
+    microrrelatos.»
+  - Página derecha: «Se lee despacio. Si comentas, comenta el texto.»
+  - **Cintas de marcapáginas** que cuelgan del diario, una por etiqueta:
+    Poema, Letra de canción, Microrrelato, Frase suelta, En proceso,
+    Terminado, Traducción, Libre para usar, No usar sin permiso. (Si no
+    caben, lámina 2 con las cintas en un cajón.)
+- **Para que no quede plano**: la **pluma y el tintero en primer plano**;
+  luz de ventana lateral dorada `#F2DA7E`; Himmel con un **brillo suave** y
+  menos contraste; **motas de polvo** en el rayo de la ventana.
+
+### Concepto C · #🎟️・eventos — «Los meteoros de Era»
+
+**Por qué**: el evento más famoso de la serie pasa **una vez cada 50 años**,
+y el canal dice «cada uno lo ve **en su hora**»: el tema de la serie es
+justo el tiempo de cada uno.
+
+- **Objeto real en sitio real**: un **tablón de anuncios de madera** en la
+  **plaza de la Capital, de noche, en fiesta**, con **guirnaldas de luces** y
+  puestos (concepto de Seiko Yoshioka, `referencias.json` n.º 26). Clavado en
+  el tablón, **un cartel pintado a mano** del evento. Cielo **índigo** con
+  meteoros (`#2A32A5`, `#202D6D`, T1-01, n.º 16). En Blender: tablón,
+  clavos, papel y las bombillas de la guirnalda.
+- **Personajes**: el **grupo de Himmel en silueta** en un tejado mirando el
+  cielo (clip doblado [3XUKmqUDEZc &t=17](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=17),
+  0:17-0:27): es una escena del pasado entera, así que Himmel está bien.
+  Delante, **Frieren** sentada en los adoquines **mirando de reojo** (mismo
+  clip, 0:28-0:35).
+- **Cómo habla**: aquí sí hay **frases del doblaje latino comprobadas**
+  (§10.4). Van en cartelas del tráiler, una arriba y otra abajo.
+- **Dónde va cada texto**:
+  - Cartela de Himmel, arriba: «La lluvia de meteoros de Era pasa una vez
+    cada 50 años.» (doblaje, [3XUKmqUDEZc &t=8](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8)).
+  - Cartela de Frieren, abajo: «Sé de un lugar donde la lluvia de meteoros
+    se puede ver más clara.» (doblaje, [&t=32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32)).
+  - **Cartel del tablón** (IM Fell English, tinta oscura): «Lo que se
+    viene.» «Se convoca con /create.» «Cada uno lo ve en su hora.»
+- **Para que no quede plano**: **bombillas de la guirnalda desenfocadas en
+  primer plano**; luz cálida de los puestos sobre el tablón frente al azul
+  frío del cielo; meteoros con estela fina.
+
+### Qué concepto elegir
+- **A** si el dueño quiere un canal **de consulta** y que se entienda la
+  regla «nada pirata» con humor de la serie.
+- **B** si prefiere lo **emotivo** (Himmel, el más votado en 2022 y 2024).
+- **C** si quiere usar **frases del doblaje latino** textuales.
 
 ## 20 · Lo que no pude verificar
 
