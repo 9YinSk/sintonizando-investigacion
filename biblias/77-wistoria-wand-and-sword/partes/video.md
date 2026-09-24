@@ -442,7 +442,10 @@ encargo pide empezar por **Will y Elfaria**.
   producción y actividad en TikTok/YouTube, sin poder mirar los vídeos por
   el bloqueo de YouTube.
 
-Sigue: nada obligatorio pendiente de los puntos 2, 4, 9, 10 y 14. Si hay más
-tiempo: buscar un capítulo completo reproducible (no YouTube/Bilibili) para
-sacar más poses de Elfaria con `episodio.py`, y reintentar AnimeThemes por si
-vuelve.
+**Parte terminada**: los puntos 2, 4, 9, 10 y 14 tienen lo obligatorio de
+ENCARGO.md cubierto (con sus avisos ⚠️ donde faltó una segunda fuente o mejor
+resolución, listados en «No encontré»). Si algún día se libera YouTube,
+Bilibili o AnimeThemes, o aparece un capítulo completo reproducible, se
+puede volver a por: opening/ending completos en alta resolución, más poses
+de Elfaria con `episodio.py`, y una captura a color del interior de Mercedes
+Caulis.

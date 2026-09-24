@@ -76,3 +76,116 @@ Tabla completa (más de 40 personajes con voz latina, incluidos alumnos, maestro
 - Clip promocional oficial: **«¡Ovación de pie para Will!»** (título completo: «¡Ovación de pie para Will! - Wistoria: Wand and Sword Temporada 2») — clip de una escena de la 2ª temporada donde el público celebra a Will de pie · https://doblaje.fandom.com/es/wiki/Wistoria:_Wand_and_Sword#Muestras_multimedia · ⚠️ (mismo motivo: no se pudo abrir el vídeo para sacar el minuto).
 - El episodio 1 doblado completo está subido oficialmente por Crunchyroll LATAM a YouTube («Wistoria Wand and Sword | Episodio 1 COMPLETO (Doblaje en español)», con enlace a prueba gratuita `got.cr/WistoriaEp2D-YTLA` en la descripción) — confirma que SÍ existe doblaje completo público, sólo que esta sesión no pudo reproducirlo · https://doblaje.fandom.com/es/wiki/Archivo:Wistoria_Wand_and_Sword_-_Episodio_1_COMPLETO_(Doblaje_en_español) · ⚠️.
 - Recomendación para el redactor/jefe: si otra sesión tiene acceso a YouTube (fuera de este contenedor compartido) puede sacar 5-8 frases textuales del doblaje del episodio 1 con minuto exacto desde ese mismo enlace; aquí queda listo el vídeo y el motivo del bloqueo.
+
+## Punto 12 · Lo que el fandom ama, y qué NO hacer
+
+- Meme/broma recurrente del fandom sobre Elfaria: hilo «That much of obsessed he is» (86 votos, sobre lo obsesiva que es Elfaria con Will) — coincide con lo que dice la propia wiki (Elfaria llama «gatas rompehogares» a cualquier chica que se acerque a Will) · https://www.reddit.com/r/Wistoria/comments/1wn1ma6/ · ✅ (el tono del meme coincide con dos fuentes: el hilo y la sección Trivia de la wiki de personaje).
+- Cita real que circula en el fandom (traducción de fans de la novela ligera 2, monólogo interno de Will sobre Elfaria): *"My precious girl, now gone, who is always with me but now gone far away to a new world. I'm driving mad, strongly yearning for her."* — comentario con 3 votos que la cita completa en el hilo de arriba · https://www.reddit.com/r/Wistoria/comments/1wn1ma6/ (comentario) · ⚠️ (traducción de fans de la novela ligera, no es diálogo del doblaje; útil sólo como referencia de tono, no para citar como frase de anime).
+- Meme/chiste interno: «Most hated boy at the academy btw» (sobre Will, el más odiado en la academia al inicio de la serie — la ironía es que ahora es el favorito de medio fandom) · https://www.reddit.com/r/Wistoria/comments/1wmiw5h/ · ⚠️.
+- Headcanon popular que comenta el diseño de personajes: «I love that Sion has cat eyes and Julius has puppy eyes, which is why they don't get along, because they are opposites» (25 votos) — dato útil para dibujar las miradas de ambos como opuestas a propósito · https://www.reddit.com/r/Wistoria/comments/1msztht/ · ⚠️.
+- El momento que más comenta el fandom en 2026 es la **«escena Ganbare»** de la 2ª temporada, episodio 4: Sion grita para animar a Will mientras pelea contra un Devander; varios espectadores lloran viéndola. Hilo de Reddit: «wow I teared up during the GANBARE SCENE BEST EPISODE TO DATE! Wistoria: Wand and Sword Season 2 Episode 4 Reaction» (28 votos) · https://www.reddit.com/r/Wistoria/comments/1t2fwh6/ · confirmado con una segunda fuente independiente (post de Threads describiendo la misma escena): «I absolutely lost it when Sion started screaming, cheering Will on as he fought the Devander... the helplessness of the mages, knowing all they could do was cheer and lift Will's morale, felt like the most powerful spell of all» · https://www.threads.com/@bakabakashiiiiii/post/DX9pUmQj_Mh/ · ✅ (dos fuentes independientes describen la misma escena del mismo episodio).
+- Queja/opinión de fans sobre el merchandising: «I love everything about Wistoria, but I don't understand why there is so little merchandise for it» (16 votos) — dato útil para el dueño: es una serie con fandom activo pero poco producto oficial, así que las láminas hechas «a mano» pueden llenar un hueco real · https://www.reddit.com/r/Wistoria/comments/1un67gk/ · ⚠️.
+- **Qué NO hacer** (deducido de las reseñas y la propia wiki, con ⚠️ porque no se encontró un hilo dedicado de «pet peeves» del fandom — se buscó «unpopular opinion» e «iconic» en el subreddit y no devolvieron hilos con contenido, ver Bitácora):
+  - No dibujar a Will ya fuerte o usando magia con soltura desde el arranque: el punto entero del personaje (y lo que celebran las reseñas) es que **no puede usar magia** y compensa con espada y cuerpo; una pose «mago poderoso» genérica traiciona el gancho de la serie · fuente de la premisa: ficha de AniList / reseñas (ver punto 21).
+  - No dibujar a Elfaria sólo como «la santa» serena de cara pública: su gracia de «santa» es una fachada que ella misma cultiva; por dentro es infantil, floja y celosa — una lámina que la muestre sólo elegante y perfecta pierde la broma que más cita el fandom · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Personality.
+  - No mezclar a Colette y Elfaria como si fueran amigas cercanas: la wiki es explícita en que hay tensión/celos mutuos por Will entre ellas (cada una envidia el lugar de la otra) · https://wistoria.fandom.com/wiki/Colette_Loire#Relationships.
+
+## Punto 13 · Descripción profunda de personajes
+
+Personajes con ficha propia abajo: **Will** y **Elfaria** (pedidos por el encargo), más los secundarios más queridos según el punto 7 (Colette, Sion, Julius, Lihanna, Wignall, Rosti, Workner). Cada ficha: carácter, historia resumida, qué transmite, cómo se expresa, y dinámica con los demás. Fuente por defecto (si no se dice otra cosa): `https://wistoria.fandom.com/wiki/<Personaje>` (secciones Personality/History/Relationships/Trivia, texto en inglés porque la wiki no tiene versión en español) · ⚠️ = wiki de fans, una sola fuente, salvo que se diga lo contrario.
+
+### Will Serfort (protagonista)
+
+- **Carácter**: trabajador, honesto, bondadoso «hasta un exceso» — no contraataca cuando se burlan de él por no poder usar magia. De niño era tímido e inseguro pero también protector: se arriesgó por sus hermanos adoptivos y cuidó a Elfaria enferma. Nunca sintió celos de ella, pero sí resentimiento contra el mundo por ser el único sin magia entre sus hermanos · ✅ (coincide el resumen de AniList en `datos-voz.md` con el texto largo de la wiki de personaje).
+- **Miedo/inseguridad central**: un complejo profundo por no poder usar magia; se sintió «la sombra de Elfaria» por su talento. Aun así puede ser aterrador cuando se trata de ella: intentó derribar a golpes la puerta de la Torre buscándola y llegó a golpear en el pecho a una Magia Vander (que se lo había pedido) · https://wistoria.fandom.com/wiki/Will_Serfort#Personality.
+- **Historia/arco resumido**: huérfano criado en el orfanato de Ashley Serfort junto a Elfaria; promesa de infancia con ella de llegar juntos a lo alto de la Torre y ver el atardecer; Elfaria es reclutada muy joven como Magia Vander y se separan; Will entra a la Academia Regarden sin poder usar magia, entrena cuerpo y espada en la mazmorra, activa su habilidad única «Wis» (absorbe hechizos y los carga en su espada, cambiándole el color de ojos; dura 50 minutos) · https://wistoria.fandom.com/wiki/Will_Serfort#Abilities y #History.
+- **Qué transmite / cómo se siente verlo**: esfuerzo puro sin atajos — las reseñas en inglés lo describen como lo que separa a la serie de otros isekai/fantasía escolar: «a diferencia de series similares donde el prota nace overpowered, Wistoria hace que Will trabaje duro para mejorar, lo que hace los combates mucho más interesantes» · fuente en «Punto 21» más abajo.
+- **Cómo se expresa**: elogia a los demás sin segundas intenciones (avergüenza a Colette llamándola «linda» sin doble sentido); casi nunca se defiende verbalmente del bullying, pero explota en frases cortas y gritadas en combate — ejemplo real transcrito del japonés del tráiler de temporada 2 (audio original, sin doblar): «私の命は貴様らよりも軽い» ("en este momento, mi vida... es trivial comparada con la vuestra") · minuto 1:01 del tráiler · https://www.dailymotion.com/video/xa5iqfi?t=61 · `partes/episodios.md` (transcripción Whisper del investigador de vídeo, japonés).
+- **Su cara en cada emoción, con fotograma y minuto** (hojas de contacto de los tráilers, ya extraídas por el investigador de vídeo, miradas y comprobadas en esta tanda):
+  - Determinación/foco antes de un combate, ceño fruncido, mirada fija — tráiler T1 (teaser), fotogramas 7-8, min. 0:07-0:08 · https://www.dailymotion.com/video/x8slj34?t=7
+  - De pie con la espada lista tras una caída, postura firme — tráiler T1, fotograma 21, min. 0:26 · https://www.dailymotion.com/video/x8slj34?t=26
+  - Furia/miedo gritando en combate (boca abierta, ojos muy abiertos) — tráiler T2, fotograma 44, min. 1:02 · https://www.dailymotion.com/video/xa5iqfi?t=62
+  - Devastado, llorando («If I can't use Magic...») — tráiler T2, fotograma 50, min. 1:11 · https://www.dailymotion.com/video/xa5iqfi?t=71
+- **Dinámicas**:
+  - Con **Elfaria**: primer amor mutuo desde niños, vínculo «irrompible»; Will la llama «Elfie», ella busca constantemente contacto físico (abrazarlo, dormir en su pecho) · https://wistoria.fandom.com/wiki/Will_Serfort#Relationships.
+  - Con **Colette**: ella tiene sentimientos no correspondidos por Will; Will la ve como una de sus amigas más preciadas. Él la salvó de morir en la mazmorra cuando ella había perdido las ganas de vivir; ese momento fue la primera grieta en la coraza emocional de Colette · misma fuente.
+  - Con **Sion**: rivalidad que nace del desprecio de Sion por no poder usar magia, estalla en el Gran Festival Mágico (Sion rompe el objetivo del torneo para retarlo en duelo); tras perder, Sion empieza a verlo como rival de verdad · misma fuente.
+  - Con **Julius**: desprecio inicial por ser «un estorbo sin magia»; tras perder el duelo del Festival, Julius cumple su apuesta (se disculpa con los enanos y trabaja en la taberna de Gina una semana) y empieza a suavizarse · misma fuente.
+
+### Elfaria Albis Serfort (secundaria, la más querida según el punto 7)
+
+- **Carácter**: líder nata, traviesa, cariñosa, algo infantil; nunca miró a Will por encima del hombro. Es la Magia Vander más joven de la historia y tiene el récord de hechizos creados por una sola maga (doce, el primero a los dos años) · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Abilities.
+- **Fachada vs. verdad**: fuera se ve como una «santa» elegante y refinada — imagen que ella misma cultiva; quienes la conocen bien saben que es una fachada, porque en cuanto se habla de Will hace pataletas, grita «¡Mentiroso!» o «¡Excusas!» desde niña · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Personality.
+- **Miedo/lo que le importa**: el mayor temor de su padre adoptivo Ashley es que, si Will no estuviera, «ella convertiría al mundo entero en su enemigo» — cita textual de Ashley en la wiki: *"I suspect that Elfaria will cause a revolution in our world of magic, but if by chance Will isn't there, then... She'd make the whole world her enemy."* · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Personality · ⚠️ (cita de personaje dentro de la ficción, wiki de fans).
+- **Historia/arco resumido**: huérfana criada junto a Will; prodigio desde niña; sólo pasó 33 días en la academia Evergaden a los 10 años antes de ascender a la Torre; segunda al mando en la Torre es Sarissa, a quien agota con su pereza · misma fuente.
+- **Cómo se expresa**: imagen pública serena y de «voz de mando»; en privado, celos abiertos — «lashed out» (estalla) cuando Iris dice que podría quedarse con Will, o cuando Zeo lo reclama para su facción · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Relationships.
+- **Su cara en cada emoción, con fotograma y minuto** (tráiler S1 teaser, contacto ya extraído):
+  - Elegante, sonrisa leve, postura de «santa» sentada con las manos en el regazo — fotograma 15-16, min. 0:19-0:20 · https://www.dailymotion.com/video/x8slj34?t=19
+- **Dinámicas**: con Will (ver arriba); con **Colette**, rivalidad silenciosa por el tiempo que pasa con Will (cada una envidia el lugar de la otra); con **Sion**, lo tiene en poco pero se burla de él por su enamoramiento no correspondido de Colette; con **Ashley** (padre adoptivo), lo desborda y lo agota, pero él nunca deja de cuidarla · https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Relationships.
+
+### Colette Loire
+
+- **Carácter**: amable con Will pese a su falta de magia, se enfrenta a quien se burle de él. En su primer año estuvo al borde del suicidio por la maldición de su familia (los Loire, antes una línea poderosa de magos de tierra) y su incapacidad de controlar su poder · https://wistoria.fandom.com/wiki/Colette_Loire#Personality y #History.
+- **Objeto icónico**: el «Brazalete Sellasangre» (Bloodseal Bracelet), diseñado por su padre para canalizar el exceso de magia de Colette hacia Will y librarla de ser devorada por el Golem de Tierra familiar; sólo funciona a 10 km de Will · https://wistoria.fandom.com/wiki/Colette_Loire#History.
+- **Qué transmite**: la lucha por salir del fondo — «sabe lo que es tocar fondo y seguir adelante» por estar cerca de Will.
+- **Cómo se expresa**: imaginativa hasta lo cómico (imagina que la clase de refuerzo de Will con el profesor Edward implica azotes); trató de robarle un beso a Will dormido y Rosti se lo impidió · https://wistoria.fandom.com/wiki/Colette_Loire#Trivia.
+- **Dinámicas**: con **Rose Prehnite** (mejor amiga y compañera de cuarto, quien le da consejos de amor y provocó que Colette y Will bailaran juntos en el baile de la academia); con **Sion**, sentimientos no correspondidos de él hacia ella, que Colette usa a su favor para convencerlo de unirse a su equipo; con **Elfaria**, tensión mutua por Will · https://wistoria.fandom.com/wiki/Colette_Loire#Relationships.
+- **Su cara, con fotograma**: perfil suave, mirando a Will, momento tranquilo — tráiler T1 teaser, fotograma 13, min. 0:16 · https://www.dailymotion.com/video/x8slj34?t=16.
+
+### Sion Ulster
+
+- **Carácter**: heredero de una línea de magos de fuego, orgulloso, mira por encima del hombro a quien no puede usar magia — sobre todo a Will, a quien considera una vergüenza para la academia. Tiene una hermana menor · https://wistoria.fandom.com/wiki/Sion_Ulster#Personality.
+- **Arco**: tras perder contra Will en el Gran Festival Mágico (rompe el objetivo del torneo para retarlo en pleno equipo), empieza a verlo como rival de verdad y a esforzarse por ser «visto» por alguien como él.
+- **Dinámica**: siente algo por Colette, que no se lo corresponde pero reconoce que él se preocupa por ella de verdad.
+- **Momento del fandom**: es quien anima a gritos a Will contra un Devander en la «escena Ganbare» (T2E4) que hace llorar al fandom (ver punto 21) — dato clave para una lámina de dupla Will/Sion.
+- **Cara, con fotograma**: postura estirada, seria, de perfil — tráiler T1 teaser, fotograma 14, min. 0:18 · https://www.dailymotion.com/video/x8slj34?t=18.
+
+### Julius Reinberg
+
+- **Carácter inicial**: narcisista, orgulloso, elitista; racista abiertamente contra los enanos. Tras perder contra Will y descubrir que Elfaria creó el hechizo que él se enorgullecía de replicar **a los dos años de edad**, queda «en total incredulidad» · https://wistoria.fandom.com/wiki/Julius_Reinburg#Personality.
+- **Historia emocional**: de joven era mucho más amable; se enamoró de una criada de la casa que se casó con otro hombre y se fue — desde entonces se convenció de que la bondad no vale nada y se forzó a ser egoísta.
+- **Gustos (ficha/trivia)**: cumpleaños 23 de febrero · le gusta la sopa helada de raíz de torta y el sorbete de frambuesa · odia los pimientos · primer amor: la criada de la familia (terminó en desamor) · https://wistoria.fandom.com/wiki/Julius_Reinburg#Trivia.
+
+### Lihanna Owenzaus
+
+- **Carácter**: se toma muy en serio seguir en la Academia Regarden; sintió desesperación al ver el talento de Elfaria de primer año y concluyó que «los inferiores no son nada frente al verdadero talento» — planeaba usar a Wignall y a los demás para graduarse primera de su clase · https://wistoria.fandom.com/wiki/Lihanna_Owenzaus#Personality.
+- **Detalle físico/cómico**: comilona (comió varias manzanas seguidas en la enfermería); algo despistada.
+- **Gustos (ficha/trivia)**: cumpleaños 24 de enero · le gustan las historias del Caballero de Reusche y las crepas de un carrito de comida que aparece al azar en la calle Crowstar · odia a su propia familia Owenzaus · primer amor: un «chico cabeza de calabaza sin nombre» que probablemente sea Will (Will le dice algo parecido a lo que le dijo su primer amor sobre sus ojos azules) · https://wistoria.fandom.com/wiki/Lihanna_Owenzaus#Trivia.
+- **Su cara en varias emociones, con fotograma y minuto** (tráiler T2, es la maga de rayo rubia de ojos azules — coincide su color de pelo/ojos con la ficha):
+  - Determinación en combate, magia de rayo amarilla activa — fotograma 35, min. 0:49 · https://www.dailymotion.com/video/xa5iqfi?t=49
+  - Vulnerable, llorando («To someone like me... Magic is...») — fotograma 37, min. 0:52 · https://www.dailymotion.com/video/xa5iqfi?t=52
+  - Sorpresa («Amazing!») — fotograma 61, min. 1:32 · https://www.dailymotion.com/video/xa5iqfi?t=92
+  - Sonrisa amplia y luego gesto decidido («You already know...») — fotogramas 65-66, min. 1:36-1:37 · https://www.dailymotion.com/video/xa5iqfi?t=96
+  - ⚠️ identificación por color de pelo/ojos (rubia, ojos azules) contra la ficha de personaje, no por confirmación directa de nombre en el fotograma — se recomienda al investigador de vídeo/redactor cruzarlo si tiene acceso a más contexto del tráiler.
+
+### Wignall Lindor
+
+- **Carácter**: elfo que, por costumbre de su pueblo, sólo deja que lo toquen quienes se ha ganado su respeto; mirar por encima del hombro a los demás es, en realidad, su forma de protegerse para no parecer débil · https://wistoria.fandom.com/wiki/Wignall_Lindor#Personality.
+- **Meta**: llegar a Magia Vander, como Ellenor Ljos Alf (a quien quiere proteger); comparte sueño con Will, que se lo hace notar.
+- **Gustos (ficha/trivia)**: cumpleaños 1 de junio · le gustan las leyendas élficas que leía con sus «hermanos de leche», y el té de hierbas de una casa de té que le enseñó Lihanna · antes odiaba a los enanos en general (ya no) · https://wistoria.fandom.com/wiki/Wignall_Lindor#Trivia.
+
+### Rosti Naumann y Workner Norgram (secundarios queridos, resumen corto)
+
+- **Rosti**: compañero de cuarto de Will, artífice mágico sin talento natural que se ha vuelto muy bueno; su cariño por Will «pone nervioso» a Colette. Cumpleaños 10 de julio · odia el fuego y la magia de fuego · primer amor: Will Serfort (literal, según su ficha) · teoría de fans (no confirmada) de que es un clon a control remoto de Elfaria · https://wistoria.fandom.com/wiki/Rosti_Nauman#Trivia · ⚠️.
+- **Workner**: profesor de Magizoología, cuida de Will desde el inicio, apodado «Profesor de Refuerzo del Infierno» y «el Workner Inmortal» por los alumnos. Cumpleaños 25 de diciembre · le gusta la comida picante hasta las lágrimas y el helado de vainilla para «calmarse la lengua» después · casi se sacrifica por salvar a Will durante la invasión criminal · https://wistoria.fandom.com/wiki/Workner_Norgram#Trivia.
+
+## Punto 20 · Gustos y detalles de cada personaje (tabla-resumen, fichas «databook» de la wiki + AniList)
+
+Fuente de altura/edad/cumpleaños: AniList (`datos-voz.md`, ficha de personaje) ✅ cuando coincide con el perfil de Trivia de la wiki de Fandom; ⚠️ cuando sólo aparece en una de las dos.
+
+| Personaje | Altura | Cumpleaños | Le gusta | Odia | Primer amor / objeto que lleva |
+|---|---|---|---|---|---|
+| Will Serfort | 168 cm ✅ (AniList + tono general de la wiki) | 24 de diciembre ✅ (mismo día que Elfaria, dato remarcado en ambas fuentes) | — (no se encontró ficha «Likes/Hates» propia en Trivia, sólo personalidad) | — | Elfaria (implícito en todo su arco) |
+| Elfaria Albis Serfort | 163 cm ✅ | 24 de diciembre ✅ | la ensalada casera de Will, la almohada-regazo de Will, la cara dormida de Will, el olor de Will (lista literal «Will's...» cortada en la wiki) ✅ (coincide el patrón obsesivo con Personality) | comida picante ⚠️ | Will Serfort ⚠️ |
+| Colette Loire | 164 cm ⚠️ (sólo AniList) | 8 de octubre ✅ | platos de frijol enano ⚠️ | su yo del pasado (hasta hace 5 años) ⚠️ | Will Serfort ⚠️ |
+| Sion Ulster | 171 cm ⚠️ | 13 de mayo ⚠️ | — | — | Colette (no correspondido) ⚠️ |
+| Julius Reinberg | 174 cm ⚠️ | 23 de febrero ✅ | sopa helada de raíz de torta, sorbete de frambuesa ⚠️ | pimientos ⚠️ | la criada de la familia (desamor) ⚠️ |
+| Lihanna Owenzaus | 158 cm ⚠️ | 24 de enero ✅ | historias del Caballero de Reusche, crepas del carrito de Queen Gallete ⚠️ | su propia familia Owenzaus ⚠️ | «chico cabeza de calabaza sin nombre» (¿Will?) ⚠️ |
+| Wignall Lindor | 176 cm ⚠️ | 1 de junio ✅ | leyendas élficas, té de una casa de té ⚠️ | (antes) los enanos en general ⚠️ | quiere proteger a Ellenor Ljos Alf ⚠️ |
+| Rosti Naumann | 170 cm ⚠️ | 10 de julio ✅ | «todo lo relacionado con Will Serfort» ⚠️ | el fuego y la magia de fuego ⚠️ | Will Serfort ⚠️ |
+| Workner Norgram | 178 cm ⚠️ | 25 de diciembre ✅ | trabajo de campo en Magizoología, comida muy picante, helado de vainilla ⚠️ | las batallas de cocina entre Clairie y Eliza ⚠️ | «amor de dragón»: el Dragón Demonio Fafnir ⚠️ |
+| Zeo Thorzeus Reinbolt | — | 7 de julio ✅ | carne, alcohol, sabores picantes, la gente que se abre paso desde el fondo ⚠️ | verduras, jugos verdes, sabores dulces, la gente conforme con ser débil ⚠️ | — (equipo: la Varita del Señor del Rayo, Thorzeus Fasce) |
+| Cerridwen / Cauldron Anouve | — | 7 de Carnsmoon (calendario propio de la serie, sin equivalencia exacta dada) ⚠️ | niños que apuntan al futuro ⚠️ | adultos que intentan cerrarle el futuro a otros ⚠️ | «un amigo entrañable, torpe, que no pudo abandonar su dulzura» (dato incompleto en la wiki) ⚠️ |
+
+- Nota sobre el calendario: los cumpleaños de la wiki usan tanto el calendario real (ej. «October 8th») como el calendario propio del mundo de Wistoria (ej. «8th of Luchsmoon»); se dejan ambos donde la wiki los da, útil para el punto 25 (vocabulario del mundo) del investigador de texto.
+- Cómo se ve a sí mismo cada uno (dato narrativo, no de ficha): Will se sentía «la sombra de Elfaria» y sin lugar en el mundo por no tener magia; Elfaria se muestra en público como una «santa» perfecta que en privado no es; Colette se odia a su «yo de hace 5 años» (su ficha de Trivia lo dice literal); Julius se ve a sí mismo como «un sobrante» (leftover) por seguir en Regarden en vez de graduarse · fuentes ya citadas arriba en el punto 13.
