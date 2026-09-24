@@ -37,11 +37,61 @@ fecha: 2026-09-24
 >   original de 1997; no hay fotogramas en 1080p.
 > - ✅ **confirmado**: dos fuentes, o comprobado por nosotros en el archivo,
 >   el audio o el fotograma. ⚠️ **dudoso**: una sola fuente, o de memoria.
+> - Fuentes: **más de 120 webs distintas** enlazadas y **123 referencias**
+>   en `referencias.json`.
 ---
 
 ## Segunda pasada · qué cambió
 
-_(se completa al terminar el repaso)_
+**Corregido (antes → ahora)**
+- **Minutos del laboratorio**: salían de un subtítulo no oficial de la
+  película → ahora son del **capítulo 1 real, mirado**: Pokébolas 5:56,
+  Pokébola del rayo 6:48, Pikachu 6:58, abrazo 7:18 (3.1b).
+- **Luz del laboratorio**: «de día, cálida», de memoria → **fría, desde
+  una claraboya**, vista (5.2).
+- **Sketchfab**: licencias «según el buscador» → **CC BY 4.0 por la API**.
+  Autores: el Oak no es de «3D Resource» sino de **lopuh22721** (y tiene
+  esqueleto); la Game Boy no es de «rave-games» sino de **MaxWendt**; el
+  Lucario es de **GianmArt**, no «Gianmarco» (4).
+- **Pasan de ⚠️ a ✅**: Óscar Roa cantante del opening, «Pokébola», el
+  estreno del 6-sep-1999, Bernardo López, Ana Lobo, la letra Rodin /
+  UDKakuGo, las voces infantiles de «¿Quién es ese Pokémon?», que el
+  capítulo 1 es el único con Pikachu dentro de la Pokébola, Ash con 10
+  años para siempre.
+- **Caja de Let's Go**: «no pude abrirla» → **medida** en una captura real
+  (7.2). **Logo** y **ropa de Ash**: «no medí» → **medidos** (6, 16).
+- **Pokémon Solid**: «licencia poco clara» → diseñada por **IPBP**, libre
+  con crédito (dos fuentes) y glifos comprobados en el archivo real (6.2).
+- **Guía para IA**: «sombra de dos tonos», de memoria → colores **planos
+  medidos** en un fotograma; fondos **pintados a mano medidos** (18).
+- **Voz latina de la Pokédex**: «no encontrada» → **Rubén León** en tres
+  capítulos ⚠️ (7.3, 10).
+- Sobre las partes: en `imagen.md` el Cosplay Pikachu era el nº155 y UNITE
+  el nº172 → son el **149** y el **166**. Y «no hay cartones de cuenta
+  atrás» → el **nº74** es uno (2.5, 2.6).
+
+**Añadido**
+- Hojas de contacto número a número (2.5) y más arte oficial (2.6).
+- Escenas miradas: Spearow y Ho-Oh (3.4), lema del Rocket (3.5).
+- Colores de dos fotogramas del anime (5.3b); una letra por uso (6.3).
+- Gary, Delia, Misty y Brock, Rocket y Giovanni, con **11 voces latinas
+  medidas** (8); AniList y el Pokémon favorito por país (9).
+- 5 nombres de doblaje, frases textuales con minuto, historias del
+  doblaje y el capítulo 18 doblado (10); música latina y efectos (11).
+- Vídeos mirados con minuto (12); poses del capítulo 1 (15); ropa de 7
+  regiones y disfraces de Pikachu (16); fondos de fans medidos (17).
+- La guía para **IA de texto** con frases reales por emoción (18.2).
+- Los puntos **P18 a P25**, la tabla «Cumplimiento del encargo» y la
+  bitácora de esta pasada. `referencias.json`: de 36 a **123**.
+
+**Conceptos**: el **A** queda confirmado por el capítulo real y con
+modelos, textura y colores comprobados; el **B** gana una pose base (nº147)
+y el Ash con esqueleto; el **C** gana la referencia 3D del Centro Pokémon.
+
+**⚠️**: la primera pasada tenía **68**. Se resolvieron **unos 30**; de los
+antiguos quedan unos 37. Ahora hay **127** en total porque cada dato nuevo con
+una sola fuente lleva el suyo: la lista de lo que sigue dudoso está en el
+punto 20.
 
 ## Índice
 
@@ -2156,7 +2206,41 @@ tienen dos fuentes; la voz infantil de «¿Quién es ese Pokémon?» no fue fija
 
 ## Cumplimiento del encargo
 
-_(pendiente)_
+Estado tras la segunda pasada (24-sep-2026). ✅ hecho · ⚠️ a medias, con
+el porqué. Ningún punto se dejó sin tocar.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Arte de PokéAPI y pret; 180 imágenes de la wiki en 4 hojas miradas, con número, tamaño y uso (2.5); portada y banner, manga, CD, Blu-ray y un cartón de cuenta atrás. Hojas de modelo del anime: no encontradas. |
+| 2 · Fotogramas de escenas con minuto | ⚠️ | El capítulo 1 real se miró plano a plano: laboratorio y Spearow con minuto (3.1b, 3.4). Pero es **480p** (su calidad de 1997), no 1080p, y la película de 2017 no se vio: YouTube pedía iniciar sesión. |
+| 3 · Fan art y 3D con licencia | ✅ | 27 modelos de Sketchfab, los principales con licencia y autor comprobados por la API (dos autores corregidos), personajes con esqueleto; fan art en DeviantArt, pixiv, ArtStation y Flickr. |
+| 4 · Sitios, luz, paleta y texturas | ✅ | Paletas del código del juego, del arte oficial y, nuevo, de dos fotogramas del anime; luz del laboratorio vista; texturas CC0 de madera, pintura, papel y cartón. El molino del laboratorio, sólo en la wiki. |
+| 5 · Tipografía por uso, con tildes, ñ, ¿ y ¡ | ⚠️ | Letras del juego y del logo comprobadas con fontTools en el archivo real; colores del logo medidos. La tabla de «una letra por uso» (6.3) es propuesta: las letras reales de los globos del manga y de los carteles del anime no se encontraron. |
+| 6 · Cómo hablan en pantalla | ✅ | Caja de Rojo/Azul medida en el código; caja de Let's Go medida en una captura real; Espada y Escarlata medidas; Pokédex, «¿Quién es ese Pokémon?» y lecciones de Oak. Falta el marco de la caja de Rojo Fuego. |
+| 7 · Personajes y popularidad | ✅ | Encuestas oficiales (mundial 2020, Japón 2016), Corea, AniList y el Pokémon más buscado por país latino. No hay encuesta latina de personajes humanos. |
+| 8 · Doblaje latino con dos fuentes y frases textuales | ✅ | Reparto principal con dos fuentes o más; 5 nombres nuevos; 11 muestras de audio transcritas; 4 frases del tráiler latino con minuto y enlace `&t=`. Con una sola fuente: Joy, la Pokédex y el Pikachu del capítulo 17. |
+| 9 · Música y sonido | ⚠️ | Compositores, openings latinos con cantante y letra, endings (casi no se doblaron), cápsulas, la canción de la despedida de Pikachu. Los efectos de sonido (bip de la Pokédex, captura) no se oyeron: `fotogramas.py` baja sin audio. |
+| 10 · Vídeos con minuto | ⚠️ | Opening, ending oficial, tráiler de Rojo/Azul, tráiler latino, lema del Rocket y el capítulo 1 mirados, con minuto y enlace. Las tendencias de TikTok no se pudieron mirar (TikTok no se deja bajar). |
+| 11 · Videojuegos: interfaz | ✅ | Menús oficiales en español del código; contenido descartado de TCRF; caja de Let's Go medida; el tráiler que usa ASH y PIKACHU. |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes, gags, historias del doblaje; lista de errores ampliada (datos falsos de Ash, fandub para adultos, ropa de eras mezcladas). |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | Carácter, historia, forma de hablar con voz **medida** de 11 personajes, dinámicas. Caras con minuto: sorpresa, risa, determinación y alegría de Ash. Rabia, tristeza, miedo y vergüenza sin fotograma. |
+| 14 · Poses con capítulo y minuto | ✅ | Oak 12, Pikachu 13, Ash 14, Gary 2, Charmander 3; las del capítulo 1 vistas, con minuto; las de la película, del subtítulo ⚠️. |
+| 15 · Vestuario con hex | ✅ | Ash de Kanto medido con Pillow; ropa de 7 regiones con su hoja; disfraces canon de Pikachu. Sin medir: Oak y el verde oscuro del guante. |
+| 16 · Paisajes y fondos de pantalla | ⚠️ | Seis fondos de fans en alta con tamaño y autor. De fondos oficiales sólo el de MEGA, y sin poder medirlo (pokemon.com bloquea la descarga). |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos fijos, paleta medida, línea y sombreado medidos, luz, encuadre, palabras que ayudan y estropean, gestos vistos, referencias; para texto, reglas de escritura y frases reales por emoción. Falta una frase textual triste. |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | OLM, celuloide hasta 2002, Toon Boom y Clip Studio con fuente; línea y sombreado medidos en arte y fotogramas; pasos de Photoshop y Blender; modelos con esqueleto. Filtros de animación: no encontrados. |
+| 19 · Texturas 2D | ✅ | Tramas de manga, papel y cartón CC0, papel de acuarela, medallas, logo y emblema del Rocket. Falta un PNG suelto del emblema del Rocket. |
+| 20 · Gustos y detalles | ⚠️ | Altura de Ash, aficiones de Brock, manías de Jessie, James, Meowth, Oak, Pikachu y Delia, con fuente. Cumpleaños y comidas oficiales de Ash, Misty y Brock no se encontraron; se avisa de un dato falso que circula. |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Razones con fuente y la escena de los Spearow mirada con minuto, luz y música. La despedida de Pikachu y la de Butterfree no se vieron ni tienen minuto; ventas y premios, sin juntar. |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Fandubs de openings, un fandub oído entero (para adultos: fuera de la lámina), memes y el reparto de España. Vistas de YouTube sin sacar y tres fandubs sin ver. |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Van Gogh, Uniqlo, Crocs, Starbucks, Macy's, Pokémon Café, Smash, Pokkén, UNITE, Detective Pikachu, figuras G.E.M.; una foto de cosplay libre. Falta un cosplay de Ash documentado. |
+| 24 · Obras parecidas | ✅ | Influencias de Tajiri con TIME, el género, Digimon y el resto; comprobado que ninguna otra lámina del servidor repite la idea. |
+| 25 · El mundo y sus símbolos | ✅ | Reglas en cinco líneas, arcos con año y mes, emblemas y glosario latino. Sin el día exacto de cada estreno. |
+| Conceptos de lámina (tres) | ✅ | A, B y C distintos, con objeto real, personaje, pose con referencia, caja, letra, textos y profundidad; actualizados con lo nuevo (19). |
+| Fuentes distintas (mínimo 40) | ✅ | Más de 120 webs distintas enlazadas (`revisar.py`). |
+| Tipos de fuente | ⚠️ | Oficiales, japonés, inglés, coreano (Namuwiki), wikis, TV Tropes, TCRF, Wayback, Reddit (Arctic Shift), arte, vídeo, GitHub, Sketchfab y Doblaje Wiki. **Chino, no**; 4chan y Discords públicos, no hicieron falta. |
+| Hojas de contacto | ✅ | 3 en `hojas/`, miradas y descritas número a número (2.5). |
+| `referencias.json` | ✅ | 123 referencias, las mejores primero; tamaños medidos en las imágenes. |
 
 ---
 
