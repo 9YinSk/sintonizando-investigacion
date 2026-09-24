@@ -734,9 +734,10 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
   Reconocimiento»** (así lo llama parte del fandom) ni «Cuerpo de Exploración»
   (la sinopsis de Crunchyroll). ⚠️ Una sola fuente (las muestras de Doblaje
   Wiki), pero cuatro grabaciones. No hallé un texto oficial que lo diga: los
-  clips oficiales de Crunchyroll en Español no dieron subtítulos con yt-dlp, y
-  los títulos de clips latinos subidos por fans dicen «legión de exploración»
-  tres veces y «de reconocimiento» una (búsqueda en YouTube, 24-sep-2026).
+  subtítulos automáticos de los tres clips oficiales de Crunchyroll en Español
+  (§9.4, bajados al cierre) no nombran el cuerpo, y los títulos de clips
+  latinos subidos por fans dicen «legión de exploración» tres veces y «de
+  reconocimiento» una (búsqueda en YouTube, 24-sep-2026).
 - **Otros términos del doblaje** (de las muestras): «tropa de cadetes 104»,
   «Policía Militar», «corte marcial», «muralla Rose», «muralla Sina», «equipo
   de maniobras tridimensional», «titanes». Reiner dice «**amonestación**» en el
@@ -749,7 +750,8 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
   ep. 71, 12:31-12:57: 心臓を捧げよ, dicho por «hombre» y «gente»). Su
   descripción dice «Episodio 71». (En la primera mitad de esta pasada se había
   puesto en el ep. 73, con Keith: no es así.) El título del clip oficial es la **segunda
-  fuente textual** de la frase latina.
+  fuente textual** de la frase latina, y sus subtítulos automáticos la recogen
+  dos veces, mal oída (0:45 y 0:59, §9.4).
 - **La frase de Connie estaba mal.** «¡Las casas están ardiendo! De seguro esa
   es la casa de Eren» es el **chiste japonés traducido** (*Eren no ie ga*). **El
   doblaje dice otra cosa**: «**Si yo fuera Eren, ¡diría que Mikasa está que
@@ -762,11 +764,35 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
 
 Todos son del canal oficial **Crunchyroll en Español** y los miré por su
 *storyboard* (hojas de `fotogramas.py`, ±1 s). En la primera mitad de la
-pasada yt-dlp no encontró subtítulos en ninguno. **En el cierre (24-sep, 16:18)
-sí bajó los subtítulos automáticos en español del clip de Zeke** (sacados por
-YouTube del audio doblado); los otros clips volvieron a pedir «iniciar sesión».
-Así que ya hay **frases latinas textuales de un clip oficial**, aunque no de
-Levi, que no habla en ese clip:
+pasada yt-dlp no encontró subtítulos en ninguno. **En el cierre (24-sep,
+16:18-16:25) sí bajó los subtítulos automáticos en español de los tres clips
+doblados** (YouTube los saca del audio doblado; al segundo o tercer intento,
+porque a ratos pedía «iniciar sesión»). Ya hay **frases latinas textuales de
+clips oficiales**. Levi no habla en ninguno de los tres.
+
+**«¡Consagren sus corazones!»** (ep. 71):
+
+| Minuto del clip | Lo que se oye (subtítulo automático; puntuación nuestra) |
+|---|---|
+| [0:22](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=22) | «¿Estás bien?» |
+| [0:37-0:40](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=37) | «Explotó la oficina del comandante en [jefe]… ¿Dónde se encuentra?» |
+| [0:45-0:46](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=45) | la gente grita la frase; la máquina oye «**pons abren sus corazones**» |
+| [0:47-0:52](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=47) | «**Al fin nuestra ira fue escuchada. Ha llegado la hora de luchar.** ¡Yo también!» |
+| [0:59-1:01](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=59) | otra vez la frase; la máquina oye «**sangre sus corazones**» |
+
+La máquina oye mal «Consagren» dos veces, pero el ritmo y el «sus corazones»
+cuadran con el **título oficial del clip** y con la muestra de Erwin (§9.3).
+
+**«Declaración de Guerra»** (ep. 64), Willy Tybur y Eren:
+
+| Minuto del clip | Frase (subtítulo automático; puntuación nuestra) |
+|---|---|
+| [0:05-0:10](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=5) | Willy: «…todos juntos, sé que podremos superar cualquier obstáculo.» |
+| [0:13](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=13) | Eren a Reiner: «Yo soy igual… igual que tú.» |
+| [0:19-0:26](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=19) | Willy: «Por favor, unamos nuestras fuerzas. Enfrentemos juntos a los demonios de la isla Paradis.» |
+| [0:36-0:43](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=36) | Eren: «**Siempre continúo mi camino. Avanzo hasta matar a mis enemigos.**» (es su «sigo avanzando», 進み続ける) |
+
+**«En ese momento, Zeke sintió el verdadero terror»** (ep. 73):
 
 | Minuto del clip | Frase (Zeke, Ricardo Brust; subtítulo automático, puntuación nuestra) |
 |---|---|

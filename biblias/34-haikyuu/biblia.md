@@ -12,12 +12,12 @@ fecha: 2026-09-24
 >   película (kitsunekko-mirror, GitHub). Usar la columna **«streaming»**
 >   de §2.0: el Blu-ray va ~1:31 antes.
 > - **Vídeos mirados** fotograma a fotograma (👁): opening 2, ending 1,
->   opening de T4, dos tráileres, cinco escenas icónicas y tres vídeos de
->   los juegos, en **Dailymotion** (YouTube pedía «iniciar sesión»). Son
+>   opening de T4, dos tráileres, cinco escenas icónicas, un análisis y
+>   cuatro vídeos de los juegos, en **Dailymotion** (YouTube pedía «iniciar sesión»). Son
 >   de **512×288**: para poses y luz, no para recortar.
 > - **Arte**: 3.943 imágenes indexadas de Haikyuu!! Wiki; unas 90 bajadas
 >   a tamaño original; tres hojas propias en `hojas/`. Tamaños medidos
->   con la API de Fandom.
+>   con la API de Fandom; los de `referencias.json`, también con Pillow.
 > - **Voces latinas**: cada nombre en dos fuentes (Doblaje Wiki por su
 >   API, ANMTV, créditos de Max en pantalla, wiki en español).
 > - ✅ = dos fuentes o visto con minuto; ⚠️ = una sola fuente o sin
