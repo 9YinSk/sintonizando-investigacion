@@ -1,6 +1,6 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 19:45 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 2026-09-24, 20:40 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 ## Cuándo una biblia está completa
@@ -31,25 +31,17 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## En marcha (19:56 UTC, uso normal de la cuenta, tras el reinicio)
+## Parado (20:40 UTC): el dueño reparte el trabajo por cuentas (REPARTO.md)
 
-Prueba en cadena:
-- **One Piece (01): COMPLETA y subida** (19:45; 2 640 líneas, 345 referencias).
-  las 12 partes. Si se cortó: relanzarlo con el mensaje del paso 5 de la skill
-  (modo repaso); sigue desde lo que ya haya en `biblia.md`.
-- **One Punch Man (35): COMPLETA y subida** (20:25; 2 353 líneas, 227 referencias).
-  terminada (`partes/imagen.md`, sin `Sigue:`). Video, voz y texto en marcha: si
-  se cortaron, relanzar cada rol con el mensaje del paso 3 («si tu parte ya
-  existe, sigue desde donde quedó»). Luego su redactor en Opus (modo `nueva`,
-  aprovechando la biblia a medias que ya tiene).
-- **Attack on Titan (02): repaso corto** con 3 investigadores en Sonnet (desde
-  las 19:56): imagen (19, 23), voz (20, 21, 22 y lo nuevo de 9 y 13), texto (18,
-  24, 25 y lo nuevo de 5). Luego su redactor en Opus (modo repaso-corto).
-- **Solo Leveling (03): repaso corto** con 3 investigadores en Sonnet (desde
-  las 20:27), como el de Attack on Titan. Luego su redactor en Opus.
-- Datos ya recolectados por adelantado: 04, 05, 31 y 32.
-- Después: `revisar.py`, `subir.sh 35-one-punch-man`, `subir.sh 02-attack-on-titan repaso`,
-  y seguir en cadena con `siguiente.py`.
+- **Hechas y subidas con las reglas nuevas:** One Piece (01) y One Punch Man (35).
+- **Attack on Titan (02, lote A):** investigadores terminados (imagen, voz, texto,
+  sin `Sigue:`). El **redactor en Opus se paró a medias** (iba por el punto 18):
+  relanzarlo con el mensaje del paso 5 de la skill en modo repaso-corto; sigue
+  desde lo que ya haya en `biblia.md`.
+- **Solo Leveling (03, lote A):** 3 investigadores del repaso corto parados a
+  medias tras unos 10 minutos; sus partes están guardadas. Relanzarlos («si tu
+  parte ya existe, sigue desde donde quedó») y luego su redactor.
+- Datos ya recolectados: 04, 05, 31, 32 (y 13).
 
 ## Mejoras hechas (19:20 UTC), pedidas por el dueño: más rápido sin perder calidad
 
