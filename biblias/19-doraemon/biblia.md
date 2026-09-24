@@ -194,10 +194,10 @@ etiqueta:
 | Por qué Doraemon encaja | Doraemon **es** un canal de recursos con patas: saca de su **bolsillo mágico** la herramienta justa para cada problema. En la película de 2014 lo dice él: «pasé todo lo del cajón a este bolsillo de cuatro dimensiones; **aquí cabe de todo**» (*Stand by Me Doraemon*, 00:06:14) ✅. Y en el opening latino se canta «Doraemon, **con su bolsillo mágico**, los hace realidad por mí» ✅. |
 | De dónde saca los inventos | De una **tienda del futuro**, el **Mirai Depāto** («未来デパート», los Grandes Almacenes del Futuro). Pide por catálogo, mete el pedido en el cajón de Nobita y le llega al momento. **Lo caro no lo compra**: alquila unos dos tercios, y a veces le mandan **muestras gratis** ✅. Es justo el «Gratis / De pago» del foro. |
 | Y lo pirata | En su mundo hay una **Patrulla del Tiempo** (タイムパトロール) que persigue los delitos con el tiempo ✅, y en la película de 2013 el malo es un **ladrón de artilugios**, el «Ladrón DX» (怪盗DX) ✅. Sirve para decir «nada pirata» sin sermón. |
-| Cuadro de diálogo propio | No es un globo. Es **el momento de sacar el invento**: Doraemon mete la mano en el bolsillo, lo levanta y **canta su nombre**. En el subtítulo japonés va entre corchetes: «｢タイムテレビ｣！» ✅. En la serie de 2005 suena un «pua-pua-pua… ¡te-tte-rē!» ⚠️. Ver §7. |
+| Cuadro de diálogo propio | No es un globo. Es **el momento de sacar el invento**: Doraemon mete la mano en el bolsillo, lo levanta y **canta su nombre**. En el subtítulo japonés va entre corchetes: «｢タイムテレビ｣！» ✅. En pantalla sale **una cartela**: el nombre del invento en letra gruesa de color con borde, sobre **rayos de color con destellos** (visto: hoja `objetos_01.jpg` n.º 58) ✅. El sonido de 2005 tiene dos versiones según la fuente ⚠️. Ver §7. |
 | Objeto para la lámina | **El bolsillo mágico** (el del plan) sigue siendo bueno, pero propongo mejorarlo: **el catálogo gigante de los Grandes Almacenes del Futuro, abierto sobre el escritorio de Nobita, con el cajón abierto** (ver §19, concepto A). En Blender: escritorio, cajón, catálogo, tatami. |
 | El más querido | **Doraemon**, primero en todas las encuestas ✅. **Dorami**, su hermana, sale **segunda** entre los de 20 a 30 años, **por delante de Nobita** (Mynavi, 2025) ✅. Buena candidata para una lámina 2. |
-| Voz latina | **Irwin Daayán** (Doraemon, serie de 2005 y películas de Netflix) ✅ · **Laura Torres** (Nobita) ✅. En la serie clásica, la primera voz de Doraemon fue **Ricardo Tejedo** ✅. Ver §10. |
+| Voz latina | **Irwin Daayán** (Doraemon, serie de 2005 y películas de Netflix) ✅ · **Laura Torres** (Nobita) ✅. En la serie clásica, la primera voz de Doraemon fue **Ricardo Tejedo** ✅, y **Irwin Daayán era Suneo** antes de pasar a Doraemon ✅: el dato perfecto para un servidor de doblaje. Ver §10. |
 | Letras | **Fredoka** o **M PLUS Rounded 1c** (redondas como la serie). **Kiwi Maru** o **Zen Maru Gothic** si va algo en japonés. **Klee One** o **Yomogi** para lo escrito a mano. Todas traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
 | Tono | Luminoso, cotidiano, de barrio. Cielo azul, tatami, tarde de colegio. **Nada oscuro ni de terror**: el fandom tiene una «leyenda del final» triste que **no hay que tocar** (ver §14). |
 
@@ -2224,7 +2224,7 @@ hex de ropa y tatami (medidos), fondo del invento (visto en cartelas).
 | Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ✅ | opening latino 1979, ending (de España), tráiler de *Stand by Me*, recital, «El Pueblo de Nobita» y «Un mundo sin dinero», más 7 episodios cada 3 s; con Dailymotion e Internet Archive (plan B) |
 | Frases latinas textuales de clips oficiales | ⚠️ | **no hay clips oficiales doblados** a la vista; las 3 frases salen de una grabación de TV subida a Internet Archive, transcritas con Whisper y revisadas a oído |
 | Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,4-0,8 MB), miradas, con tabla de números (§3.0) |
-| `referencias.json` | ✅ | ver el recuento en «Segunda pasada · qué cambió»: las imágenes medidas primero, luego fotogramas, 3D, fondos, juegos y páginas |
+| `referencias.json` | ✅ | **243 entradas**, **150 con ancho y alto medidos**; primero el bolsillo, los fondos oficiales, los retratos, las cartelas y los fotogramas vistos; luego 3D, fondos de fans, capturas de Steam, fan art, fotos CC y las páginas de consulta |
 
 ---
 
