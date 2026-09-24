@@ -1914,3 +1914,42 @@ imagen lo corrigió y esas imágenes **no** van en `referencias.json`.
 
 ---
 
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 369 imágenes grandes de la wiki en 3 hojas miradas: settei, cartas pintadas, carátulas de LaserDisc, calendarios, arte en acción (Mars saltando), en grupo (`SII.jpg`) y con objeto; museo del 30.º aniversario (§3) |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 30 minutos citados del EP1, EP39, película R y *Cosmos*, todos vistos (§2). Pero a **1280×960**, no 1080p (no hay copia libre mejor), y el cap. 45 no se vio |
+| 3 · Fan art y 3D con licencia | ✅ | 4 modelos CC Attribution con autor (Moon Stick, broche, Cosmic Heart Compact, Luna); fan art de Safebooru con origen; etiquetas de Danbooru (§4). No hay sitios en 3D libres |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 3 luces medidas en fotogramas (18 hex) y el Templo Hikawa; 6 sitios; texturas CC0 de ambientCG (§5). Game Center Crown y cuarto de Usagi sin medir ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | 15 usos con letra real y libre; 20 letras libres comprobadas con fontTools; aviso de Anime Ace sin ¿ ni ¡ (§6). Letra real del grito y del pensamiento sin identificar ⚠️ |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | 5 cuadros propios: globo de manga con trama y brillo, supercomputadora de Ami, HUD del juego de Sailor V, *eyecatch* ⚠️ y ofuda (§7). Sin capturas de las cajas de los juegos |
+| 7 · Personajes y encuestas de popularidad | ✅ | encuesta oficial de NHK y encuesta de Chile, dos fuentes cada una; AniList y Danbooru. La más querida en Latinoamérica: Minako/Venus (§9). Sin encuesta de México o Perú ⚠️ |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | dos doblajes completos; reparto principal con segunda fuente; 7 frases de muestras oficiales y 3 de *Cosmos* con minuto (§10). Secundarios con una fuente y frase de transformación sin oír ⚠️ |
+| 9 · Música y sonido | ✅ | compositor con tres fuentes, openings y endings de las 5 temporadas, «Luz de Luna» latina, «Moon Revenge» en la escena más emotiva (§11). Efectos oídos por una sola persona ⚠️ |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | vídeos completos vistos con minuto y tráiler de *Crystal*; la tendencia de TikTok sólo por resumen y **sin vídeo-ensayo** (YouTube y TikTok bloqueados) (§12) |
+| 11 · Videojuegos: interfaz y cajas | ⚠️ | 12 juegos con plataforma y año; se vio el HUD del juego de dentro de la serie. **No hay capturas de las cajas de diálogo** de los juegos reales: Game UI Database y TCRF dieron 403 (§13) |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | la frase, «Sailor México», los fans y Patricia Acevedo; 7 reglas de qué no hacer (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, arco, voz medida y dinámicas de las 6 del encargo y Mamoru; cara en cada emoción con minuto (§8). La parte de voz dice: **vergüenza sin fotograma real para Ami, Rei, Makoto y Minako** (no sale en el EP1, el EP39 ni la película R) y **tristeza de Makoto sólo en toma de grupo**; agotó sus 2 tandas. Además, sin muletillas ni risa, y Chibiusa, Haruka, Michiru, Hotaru y Setsuna sin ficha |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | 6 poses por personaje para Usagi, Ami, Rei, Makoto, Minako y Luna, con minuto o enlace, y para qué sirve cada una (§15) |
+| 15 · Vestuario con hex | ✅ | 11 hex medidos en los retratos oficiales; guerrera, civil, peinado, accesorios y cambios por temporada (§16). Sailor Jupiter sin hex propio ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ⚠️ | 7 sitios con su hora y luz; 2 fondos de Wallhaven en alta con tamaño, **sin autor** (Wallhaven no lo da) y **sin fondo oficial** (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, encuadre, palabras que ayudan y que estropean, imágenes de referencia, cómo habla cada una, frases reales por emoción y vocabulario visual (§18) |
+| 18 · Estilo, técnica y cómo replicarlo | ⚠️ | materiales de Takeuchi en sus palabras, cómo se hacía un capítulo, Photoshop y Blender (§19). **Sin análisis de encuadres por emoción** con fuente y sin *rigs* libres de las guerreras |
+| 19 · Texturas 2D | ✅ | trama, brillo, papel y tela con licencia (Clip Studio, GraphicsBunker, ambientCG CC0); emblemas descritos (§20). Sin archivo suelto de los símbolos planetarios ⚠️ |
+| 20 · Gustos y detalles | ✅ | tabla de 7 personajes con cumpleaños, sangre, gustos, disgustos y sueño, de la ficha oficial citada por la wiki y AniList (§21) |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | razones con fuentes (feminismo, nostalgia, estudio académico, la voz latina) y 4 escenas (§22). **Sin minuto ni música de la muerte de las guerreras** y sin comentarios ni vídeos de reacción |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs latinos, 5 covers de «Luz de Luna», memes y TikTok (§23). **Sin vistas**: YouTube y TikTok bloquean el conteo |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Uniqlo, Samantha Vega, dos cafés, el museo, la S.H.Figuarts y un cosplay premiado (§24). No existe colaboración con Fortnite o gachas: «no lo encontré» con dos búsquedas |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 10 influencias reconocidas por la autora, 14 recomendaciones de AniList y comprobación de las 41 biblias (§25) |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | reglas en 5 líneas, 5 arcos con villanos y momento clave, objetos y vocabulario (§26) |
+| Tres conceptos de lámina | ✅ | A 🎲 Juegos (recreativa de Sailor V), B #eventos (ofuda del Templo Hikawa), C #general-doblaje (el examen de Usagi), con canal propuesto porque la serie no tiene (§0, §27). Las tres chocan con propuestas de otras biblias: decide el dueño |
+| 40 fuentes distintas | ✅ | más de 45 webs distintas enlazadas (wikis, prensa de 6 países, bancos de recursos, vídeo, arte) |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | ✅ wikis, doblaje latino, arte, vídeo, recursos, prensa en español e inglés. ⚠️ Oficiales sólo indirectos (el sitio oficial no abrió); japonés sólo en títulos y notas de settei; **nada en coreano o chino**; Reddit sin respuesta; TCRF y Wayback sin usar |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas y descritas número a número (§3) |
+| `referencias.json` | ✅ | todas las útiles de las partes, las mejores primero, con tamaño medido en las imágenes (más de 20) |
+| Frases del doblaje latino textuales, con vídeo y minuto | ✅ | §10.4 |
+| Colores medidos, no inventados | ✅ | más de 30 hex, todos de `estilo.py` sobre fotogramas o arte oficial |
+
+---
+
