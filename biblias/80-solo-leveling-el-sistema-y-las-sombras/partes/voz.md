@@ -16,27 +16,315 @@ Kang Tae-shik 98, Igris 86, Beru 40…).
 
 ## Hallazgos · Punto 7 — Personajes principales y secundarios: personalidad y popularidad
 
-(pendiente)
+- **Encuesta de favoritos AniList (id 151807, temporada 2):** 1.º Jin-U Seong/Jinwoo (15 249) · 2.º Hae-In Cha
+  (4726) · 3.º el Narrador (2232) · **4.º Igris (1830), la sombra más querida** · 5.º Ju-Hui Lee (522) ·
+  `partes/datos-voz.md` · https://anilist.co/anime/151807 · ✅ (ficha oficial de AniList, dato ya recolectado).
+- **Beru en AniList (personaje aparte, id 159849, no estaba en el top 25 de `datos-voz.md` porque ese listado es
+  por anime y Beru se cuenta en su propia ficha): 1384 favoritos.** Comprobado que es el Beru correcto (aparece
+  en los tres medios de la franquicia: *Na Honjaman Level Up*, *Season 2 – Arise from the Shadow*, *Ragnarok*) ·
+  https://anilist.co/character/159849 · ✅ (consulta directa a la API de AniList, nueva).
+  **Conclusión: entre las dos sombras del encargo, Igris (1830) le gana a Beru (1384) en AniList**, aunque Beru
+  es quien más memes genera (ver punto 12).
+- **Fan art en Danbooru (919 dibujos con la etiqueta `solo_leveling`, sin contar el cruce de Kim Dokja, ver aviso
+  arriba):** 1.º Sung Jin-Woo (456) · 2.º Cha Hae-In (155) · 3.º Kang Tae-shik (98) · **4.º Igris (86)** ·
+  5.º Esil Radiru (42) · **6.º Beru (40)** · 8.º Iron (33) · `partes/datos-voz.md`, fuente
+  https://danbooru.donmai.us/posts?tags=solo_leveling · ✅. Mismo orden que AniList: Igris > Beru en cariño del
+  fandom dibujante.
+- **Nlab y Dengeki Online (Japón, abril 2024, encuestas oficiales de esos medios):** 1.º Jinwoo, 2.º Cha Hae-In.
+  Cruzado con la biblia general (dos fuentes: nlab, Dengeki) · ya verificado en `biblias/03-solo-leveling/biblia.md`
+  §3 · ✅ (referencia cruzada, mismo dato vale para esta biblia porque es la misma encuesta de la misma serie).
+- **Reddit r/sololeveling, tras el final de la T2 (29-31 mar-2025):** el post con más votos sobre las sombras
+  como grupo es **«The daily life of shadows»** (345 votos), fans dibujando a Igris, Tank e Iron en versión
+  *chibi* como mayordomos de Jinwoo — confirma que el **ejército de sombras como conjunto** (no sólo Beru/Igris
+  por separado) es un tema querido · https://arctic-shift.photon-reddit.com (Arctic Shift, búsqueda por
+  subreddit) · referencia cruzada con `biblias/03-solo-leveling/biblia.md` §16 · ✅.
+- **Personalidad de las sombras según su grado (regla del propio mundo, no opinión de fan):** «A shadow's level
+  of personality depends on its grade. Normal to Elite Grade shadows have little to no personality at all, while
+  Knight and Elite Knight Grade shadows are able to express simple emotions like anxiety and joy. In comparison,
+  General and Marshal Grade shadows have very developed personalities» — cita textual de la página general
+  «Shadows» de la wiki · https://solo-leveling.fandom.com/wiki/Shadows#Personalities · ⚠️ (una fuente, texto de
+  wiki de fans, pero es la explicación canon que usa toda la franquicia y encaja con lo que se ve en pantalla:
+  Beru e Igris — grado Marshal — hablan y tienen manías; Kaisel — grado Knight, dragón montura — casi no
+  interactúa).
+- **Igris, personalidad (wiki, dos veces confirmada: texto de personaje + página general de Shadows):** leal,
+  respetuoso y caballeroso; se arrodilla ante su amo al acabar cada batalla; siempre trae la cabeza de sus
+  presas como trofeo (gag que rompe cuando Iron empieza a copiarlo, lo que le irrita); valora la educación:
+  discute con Bellion para que Suho vaya a la escuela en vez de sólo entrenar · `partes/datos-voz.md`
+  (sección «Igris · Personality») · https://solo-leveling.fandom.com/wiki/Igris#Personality · ✅ (coincide con
+  `biblias/03-solo-leveling/biblia.md` §6.2).
+- **Beru, personalidad:** nació para matar, disfruta el combate y es brutal con sus enemigos; algo desdeñoso con
+  otras sombras (les grita cuando fallan); leal sin fisuras a Jinwoo, con un lado tierno; afición rara: ver
+  doramas históricos coreanos, lo que le dio su forma de hablar arcaica; muy encariñado con Suho (hijo de Jinwoo),
+  casi llora al saber que el niño lo olvidaría con el tiempo · `partes/datos-voz.md` (sección «Beru ·
+  Personality») · https://solo-leveling.fandom.com/wiki/Beru#Personality · ✅.
+- **Iron (la sombra de Kim Chul), personalidad — sombra secundaria útil para variar del dúo Beru/Igris:** «loose
+  cannon», se pasa de la raya en combate causando destrucción excesiva; presume de sus muertes y se frustra
+  cuando un enemigo es inmune a su habilidad «Taunt» (Provocación); Jinwoo lo considera un tonto pero lo
+  mantiene porque siempre cumple en batalla · wikitext de la página «Iron», sección Personality ·
+  https://solo-leveling.fandom.com/wiki/Iron#Personality · ⚠️ (una fuente, texto de wiki; consulta nueva de esta
+  tanda, vía API, sin usar el buscador).
+- **Bellion, el Gran Mariscal (sombra más fuerte, grado Grand-Marshal, sirve de contraste «serio» a Beru):**
+  compuesto, casi sin mostrar emoción, leal sin dudas al Monarca de las Sombras (antes Ashborn, ahora Jinwoo);
+  discute con Igris que Suho debería aprender a pelear en vez de ir a la escuela (el reverso exacto del
+  argumento de Igris); muy encariñado con Suho también, contento cuando el niño lo vence en combate · wikitext
+  de «Bellion», sección Personality · https://solo-leveling.fandom.com/wiki/Bellion#Personality · ⚠️ (una
+  fuente; consulta nueva de esta tanda).
+- **Kaisel, la sombra-montura (wyvern):** casi sin personalidad propia — es la sombra de Kaisellin, la montura
+  de Baran; su ficha no tiene sección de personalidad, sólo apariencia e historia, lo que encaja con la regla
+  de arriba (grado Knight, «little to no personality») · https://solo-leveling.fandom.com/wiki/Kaisel · ⚠️ (una
+  fuente; confirma la regla por ausencia de datos, no es un error de búsqueda).
+- **Cha Hae-In (secundaria más querida entre los humanos, ya cubierta a fondo en `biblias/03-solo-leveling/`):**
+  cazadora rango S, huele el maná, le desagrada el olor de casi todos los cazadores salvo el de Jinwoo · ficha
+  AniList · `partes/datos-voz.md` · https://anilist.co/character/138789 · ✅. Se referencia aquí sólo como
+  contexto: el foco propio de esta biblia son las sombras, así que su ficha completa no se repite (está en
+  `biblias/03-solo-leveling/biblia.md` §6.4).
 
 ## Hallazgos · Punto 8 — Doblaje latino y frases icónicas
 
-(pendiente)
+- **Ficha de producción (Doblaje Wiki, `action=parse`, ya en `datos-voz.md`):** estudio **VSI Mexico City**,
+  colaboración con **Crunchyroll**; dirección **Sofía Huerta**; 2 temporadas, 25 episodios, 2024-2025 ·
+  https://doblaje.fandom.com/es/wiki/Solo_Leveling · ✅ (misma ficha citada por `biblias/03-solo-leveling/`, con
+  segunda fuente ANMTV ya cruzada allí).
+- **Sung Jinwoo → Fernando Moctezuma.** Es su **primer protagónico de anime** y su primer personaje fuera de
+  Audiomaster Candiani · Doblaje Wiki (dato de interés) + confirmado en `biblias/03-solo-leveling/biblia.md` §12.1
+  con Infobae como segunda fuente · ✅.
+- **Beru → Daniel Lacy.** Confirmado en `biblias/03-solo-leveling/biblia.md` §12.2 con dos fuentes (Doblaje Wiki
+  + MAL); en esta tanda se intentó una tercera verificación por Jikan/MAL pero la API devolvió error 504
+  («Jikan failed to connect to MyAnimeList», MAL caído) — se deja con las dos fuentes ya confirmadas, ✅.
+- **Igris → no tiene actor de doblaje, no habla.** Confirmado en Doblaje Wiki (no aparece listado en el reparto,
+  sólo su muestra de audio no existe entre las 397 muestras descargadas en `datos-voz.md`: se buscó «Igris» en
+  la lista completa y no aparece un archivo `Igris (Audio)`, a diferencia de Beru, Kargalgan o Iron/Kim Chul) ·
+  segunda fuente: MAL no lista actor para Igris (dato ya cruzado en `biblias/03-solo-leveling/biblia.md` §12.2) ·
+  ✅. **Por qué no habla (dato nuevo de esta tanda, explica el porqué en vez de sólo constatarlo):** la habilidad
+  «Communication» de Igris sólo la obtiene al llegar a **grado Marshal**, en el capítulo 164 del webtoon /
+  capítulo 221 de la novela — episodios muy posteriores a los 25 emitidos hasta ahora (temporadas 1 y 2 cubren
+  hasta antes del arco de Jeju/monarcas). En pantalla, Igris sigue siendo Knight/Elite Knight, por eso **no
+  tiene diálogo doblado**: se comunica arrodillándose, con la espada y el gesto · ficha «Igris» de la wiki,
+  campo Abilities e infobox de Rank con las tres referencias a capítulo del webtoon/novela ·
+  https://solo-leveling.fandom.com/wiki/Igris · ✅ (dato del propio texto con referencias a capítulo, contrastado
+  con que efectivamente no hay muestra de audio suya en Doblaje Wiki).
+- **Kargalgan (luego «Colmillo»/Tusk) → J Balvin**, en español latino **e inglés** (grabó él mismo las dos
+  versiones, en el estudio de Crunchyroll en Dallas) · confirmado en `biblias/03-solo-leveling/biblia.md` §12.1
+  y 12.3 con ANMTV, SDP Noticias y Excélsior · ✅. Es la sombra con el actor más mediático: se menciona aparte en
+  el punto 21 (por qué la gente la ama, cobertura de prensa).
+- **Iron (sombra de Kim Chul) → Olín Garcés** (temporada 2) · Doblaje Wiki · ⚠️ (una sola fuente, ya así en
+  `biblias/03-solo-leveling/biblia.md` §12.2; no se encontró una segunda fuente en esta tanda tampoco).
+- **Frase de Beru al recibir su nombre (la escena más citada de una sombra en todo el fandom, ep. 25 ·
+  09:04-09:50), transcrita de nuevo esta tanda directamente del audio con `voz.py` (Whisper, español) sobre la
+  muestra oficial de Doblaje Wiki, coincide palabra por palabra con la transcripción ya citada en
+  `biblias/03-solo-leveling/`:** «Mi rey… necesito que usted me dé un nombre. Se equivoca, yo no morí, mi rey.
+  Es gracias a su mano que yo he podido renacer. Todo mi ser se encuentra lleno de júbilo. Juro que voy a
+  servirle por la eternidad. Ahora, por favor, concédame un nombre.» · muestra:
+  https://static.wikia.nocookie.net/doblaje/images/5/57/Beru_%28Sombra%29_%28Audio%29_Solo_Leveling.ogg ·
+  transcripción propia con `voz.py`, guardada en `/tmp/claude-0/trabajo/80-solo-leveling-voz/beru_sombra` ·
+  **cómo suena (medido, no de oído): registro grave (103 Hz), muy expresivo (9.5 semitonos de rango), velocidad
+  lenta (1.8 palabras/s).** Voz sumisa, ceremoniosa, de «usted» — encaja con su gag de doramas de época · ✅
+  (doble verificación: transcripción propia + la ya citada en la otra biblia, coinciden).
+- **Frase de Kargalgan/Colmillo antes de domarlo (nuevo, transcrito esta tanda con `voz.py` sobre otra muestra
+  de Doblaje Wiki):** «Por diversión, uno a uno ser muertos, torturados y devorados. Ser el entretenimiento de
+  mis soldados. […] Las monos imitan, pero nunca ser intimidantes.» — nótese la **gramática rota a propósito**
+  (verbos en infinitivo, sin conjugar, «las monos» en vez de «los monos»): así habla como bestia salvaje antes de
+  volverse sombra leal. **Cómo suena:** registro grave (87 Hz), muy expresivo (33 semitonos de rango, el más
+  amplio de las tres sombras analizadas), velocidad lenta (1.97 palabras/s) · muestra:
+  https://static.wikia.nocookie.net/doblaje/images/d/d8/Kargalgan_%28Audio%29_Solo_Leveling.ogg · guardado en
+  `/tmp/claude-0/trabajo/80-solo-leveling-voz/kargalgan` · ⚠️ (transcripción de Whisper sin corroborar con
+  subtítulos oficiales, pero el sentido es claro y coincide con su personalidad de tirano cruel de la wiki).
+- **Voz de Beru transformado (nuevo, transcrito esta tanda):** muestra «Beru (Transformación)» de Doblaje Wiki,
+  Whisper la transcribe con errores claros de nombres propios/términos de juego («Vime para te guardarlo a
+  todo», «Mi creciente puede adaptar…») — **se marca como ⚠️ sin corregir a mano por falta de subtítulo con el
+  que cruzarla en esta tanda**; lo que sí es fiable es la medición acústica: registro medio (149 Hz, más agudo
+  que su voz «sombra» formal), muy expresivo (22.8 semitonos), velocidad normal (2.23 palabras/s) — su voz sube
+  de tono cuando pelea, comparado con el registro grave y ceremonioso de la escena en que pide su nombre.
+  Guardado en `/tmp/claude-0/trabajo/80-solo-leveling-voz/beru_trans`.
+- **Kim Chul humano (antes de morir y volverse la sombra Iron), voz de referencia para el contraste
+  humano→sombra (nuevo, transcrito esta tanda):** muestra «Kim Chul (temp. 2)», el personaje da órdenes a un
+  grupo de cazadores: «Debido a mi rango, deberán seguir mis indicaciones para que salgan vivos de esta misión.
+  […] Pero les prometo esto. El que esté conmigo sobrevivirá.» **Cómo suena:** registro agudo (226 Hz, el más
+  alto de todos los medidos en esta tanda), muy expresivo (10 semitonos), velocidad normal (2.91 palabras/s) —
+  contrasta con el registro grave que gana Iron después como sombra (según la wiki, «loose cannon» agresivo).
+  Guardado en `/tmp/claude-0/trabajo/80-solo-leveling-voz/iron` · ⚠️ (es la voz de Kim Chul persona, no hay
+  muestra propia de audio de Iron ya sombra en Doblaje Wiki para comparar directamente).
+- **Carteles y subtítulos oficiales latinos con la orden de invocación de sombras** (ya verificado en
+  `biblias/03-solo-leveling/biblia.md` §12.3, se referencia aquí por ser el verbo clave del ejército de
+  sombras): «**Surge.**» es la traducción latina de «Arise» (ep. 14 · 12:48; ep. 18 · 17:49; ep. 21 · 02:33) · ✅.
 
 ## Hallazgos · Punto 12 — Lo que el fandom ama y qué NO hacer
 
-(pendiente)
+- **«Mi rey» de Beru es el meme/cita más repetida de una sombra.** La escena de Beru arrodillado pidiendo un
+  nombre (ep. 25 · 09:04) es la más citada de él; en TikTok circula como «Beru y su rey» · referencia cruzada
+  con `biblias/03-solo-leveling/biblia.md` §16 (fuente TikTok ya verificada allí) · ✅.
+- **Igris arrodillado + Iron copiándole las cabezas de trofeo** es el gag de sombras más repetido en reseñas y
+  wiki (Trivia de ambos personajes) · https://solo-leveling.fandom.com/wiki/Igris#Trivia · ✅ (cruzado con
+  `biblias/03-solo-leveling/`).
+- **«The daily life of shadows» (Reddit, 345 votos tras el final de la T2):** los fans dibujan a Igris, Tank e
+  Iron en versión *chibi* sirviendo a Jinwoo como mayordomos — el ejército de sombras «doméstico» es un ángulo
+  querido por el fandom, más tierno que el de combate · Arctic Shift · referencia cruzada con
+  `biblias/03-solo-leveling/biblia.md` §16 · ✅.
+- **La pelea de invocación de Igris (ep. 12) se considera de lo mejor de la serie**, y dura más en el anime que
+  en el webtoon original — dato de namu.wiki (evaluación) citado en `biblias/03-solo-leveling/` · ⚠️ (una
+  fuente, ya así en la otra biblia).
+- **Qué NO hacer con las sombras (regla concreta para el redactor, basada en todo lo de arriba):**
+  - ❌ Igris hablando con diálogo largo o gritando: en el anime (hasta el ep. 25) **no tiene voz doblada**; su
+    «diálogo» es arrodillarse, la espada y el gesto.
+  - ❌ Beru hablando informal o tuteando: siempre de **usted**, con «mi rey», tono ceremonioso de dorama de
+    época — nunca jerga moderna ni groserías.
+  - ❌ Confundir el registro de Beru con el de Kargalgan/Colmillo: Beru es sumiso y solemne con Jinwoo;
+    Kargalgan **antes de ser domado** es cruel y burlón, con gramática rota a propósito (no es un error, es su
+    diseño de diálogo).
+  - ❌ Tratar a todas las sombras igual: el grado (Normal, Elite, Knight, Elite Knight, General, Marshal,
+    Grand-Marshal) determina cuánta personalidad y habla tiene cada una — Kaisel (montura) casi no tiene
+    diálogo ni gesto propio, Bellion es serio y compuesto, Iron es un bocazas impulsivo.
+- **Qué SÍ funciona (positivo, para la lámina):** un cuadro de diálogo con el registro correcto de cada sombra
+  (formal/arcaico para Beru, silencio + gesto para Igris, sin conjugar para Kargalgan antes de domarlo) es un
+  detalle que un fan reconoce al instante — es justo lo que pide `ENCARGO.md` punto 6 («no una burbuja blanca
+  genérica») aplicado a las sombras.
 
 ## Hallazgos · Punto 13 — Descripción profunda: foco en cómo hablan y suenan las sombras
 
-(pendiente)
+**La regla que organiza todo esto (repetida aquí porque es la clave del punto 13 para las sombras):** el grado
+de una sombra decide cuánta personalidad y habla tiene — de «casi ninguna» (Normal-Elite) a «desarrollada»
+(General-Marshal) · https://solo-leveling.fandom.com/wiki/Shadows#Personalities · ⚠️ (una fuente, texto de wiki,
+pero es la regla canon citada también por reseñas de la serie).
+
+### Igris — el silencio como lenguaje
+- **Quién es:** «Knight of Death», nombre humano Sian Halat, comandante de sangre; guarda un trono vacío cuando
+  Jinwoo lo encuentra (ep. 11) · `partes/datos-voz.md` (AniList) + wiki · ✅ (cruzado con
+  `biblias/03-solo-leveling/biblia.md` §6.2, que ya tiene minuto exacto: ep. 11 · 10:18 y 10:29).
+- **Grado en el anime (hasta el ep. 25): Knight/Elite Knight**, no llega a Marshal Grade (eso ocurre en el
+  capítulo 164 del webtoon, muy por delante de lo animado) — **por eso no tiene diálogo doblado**, sólo la
+  habilidad «Telekinesis» y «Regeneration» en pantalla, sin «Communication» todavía · infobox de la ficha Igris,
+  con referencias a capítulo · https://solo-leveling.fandom.com/wiki/Igris · ✅ (dato nuevo de esta tanda,
+  explica el porqué de la ausencia de voz, no sólo la constata).
+- **Cómo «habla» sin hablar (visto, cruzado con `biblias/03-solo-leveling/`):** se arrodilla ante Jinwoo al
+  terminar cada batalla; presenta las cabezas de sus enemigos como si fueran un informe; su postura —espada
+  lista, cuerpo erguido, cabeza inclinada al recibir una orden— es toda su «línea de diálogo». En el combate de
+  invocación (ep. 12 · 19:08-20:25) Jinwoo tiene que convencerlo con palabras («You are a warrior… Fight for
+  me… Protect me, who stand before you. Arise.») porque Igris no puede responder con las suyas.
+- **Su cara (la única emoción documentada, vía wiki, sin escena de anime con minuto encontrada esta tanda):**
+  irritación cuando Iron se pasa de la raya en combate — gesto contenido, no un grito, coherente con su grado
+  intermedio (expresa «ansiedad y alegría simple», no un rango emocional completo) · regla de Shadows#Personalities
+  aplicada a su caso · ⚠️.
+
+### Beru — la sombra que sí tiene voz (y cómo suena, medido)
+- **Quién es:** la sombra del Rey Hormiga de la isla de Jeju; recibe su nombre en el ep. 25 · 09:56-09:59 ·
+  cruzado con `biblias/03-solo-leveling/biblia.md` §6.3 · ✅. **Nombre real (dato nuevo esta tanda):** «Beru»
+  viene del novelista francés **Bernard Werber**, autor de *Empire of the Ants* (Beru es la sombra del Rey
+  Hormiga, de ahí el guiño) · wikitext de Beru, sección Trivia · https://solo-leveling.fandom.com/wiki/Beru#Trivia
+  · ⚠️ (una fuente, dato curioso de trivia de wiki).
+- **Su registro de habla:** «de usted» siempre con Jinwoo («mi rey»), tono ceremonioso y algo anticuado —
+  causado en la historia por su afición a ver doramas coreanos de época («running gag» que le dio «an amusingly
+  historic way of speech», cita textual de la wiki) · https://solo-leveling.fandom.com/wiki/Beru#Personality ·
+  ✅ (cruzado con `biblias/03-solo-leveling/`).
+- **Cómo suena, medido con `voz.py` (Whisper + análisis de tono, tres muestras oficiales de Doblaje Wiki,
+  trabajo de esta tanda):**
+  | Muestra | Registro | Expresividad | Velocidad | Qué se oye |
+  |---|---|---|---|---|
+  | «Beru (Sombra)» — pide su nombre, ep. 25 | grave, 103 Hz | 9.5 semitonos | lenta, 1.8 pal/s | sumiso, ceremonioso, «mi rey» repetido |
+  | «Beru (Transformación)» — en pelea | medio, 149 Hz | 22.8 semitonos (la más variable) | normal, 2.23 pal/s | sube de tono y de rango al pelear |
+  | «Beru» (muestra corta) | grave, 116 Hz | 31.7 semitonos | lenta, 0.37 pal/s (grito/exclamación) | un grito aislado, muy expresivo |
+
+  Archivos en `/tmp/claude-0/trabajo/80-solo-leveling-voz/beru_sombra`, `beru_trans`, `beru_reg`. **Conclusión
+  para la lámina:** Beru tiene la voz más grave y a la vez más expresiva del reparto de sombras analizado —
+  formal en reposo, pero su tono sube mucho cuando pelea o exclama. Coincide con la doble cara del personaje que
+  describe la wiki: brutal en combate, ceremonioso con su amo.
+- **Su cara/gesto (visto en las capturas oficiales citadas por la wiki, sin minuto de vídeo propio encontrado
+  esta tanda):** en el ep. 25, al recibir su nombre, la postura es de reverencia total (arrodillado, cabeza
+  baja) — coherente con el tono de la transcripción («todo mi ser se encuentra lleno de júbilo»). ⚠️ (postura
+  descrita por el audio y el resumen de la wiki, no confirmada con un fotograma propio en esta tanda: es tarea
+  del investigador de vídeo mirar el fotograma exacto).
+- **Su cariño por Suho (hijo de Jinwoo):** casi llora al saber que el niño lo olvidaría — **dato del
+  webtoon/novela, no del anime emitido** (Suho nace después del arco final, fuera de los 25 episodios de esta
+  biblia); se deja aquí como personalidad del personaje a largo plazo, marcado como material futuro · wikitext
+  Beru#Personality · ⚠️ (una fuente; y aviso de que no es contenido animado todavía).
+- **Fuerza relativa (dato nuevo, aclara la jerarquía Beru/Igris para no inventar cuál es «más fuerte»):**
+  «Beru is the second strongest shadow in Jinwoo's shadow army, only being behind Bellion and rivaled by Igris»
+  — cita textual de la wiki, sección Trivia de Beru · https://solo-leveling.fandom.com/wiki/Beru#Trivia · ⚠️
+  (una fuente; coincide con la ficha de Igris que dice lo mismo al revés: «only rivaled by Beru and surpassed
+  by Bellion», ya en `datos-voz.md`, así que en realidad son dos fuentes que se confirman entre sí → ✅).
+
+### Otras sombras con habla (variedad para no repetir sólo Beru/Igris)
+- **Kargalgan → «Colmillo» (Tusk):** antes de ser domado habla con gramática rota a propósito («ser muertos,
+  torturados y devorados», «las monos imitan») — un recurso de guion para marcar que es una bestia hablando, no
+  una persona; transcrito y medido esta tanda: grave (87 Hz), el más expresivo de todos (33 semitonos), lento
+  (1.97 pal/s) · muestra oficial de Doblaje Wiki, guardado en `/tmp/claude-0/trabajo/80-solo-leveling-voz/kargalgan`
+  · ⚠️ (transcripción propia sin subtítulo oficial que la confirme línea por línea, pero el patrón gramatical es
+  evidente y consistente en las 8 frases de la muestra).
+- **Iron (Kim Chul):** «loose cannon» impulsivo y orgulloso de sus muertes según la wiki (ver punto 7); no se
+  encontró una muestra de audio de Iron ya como sombra en Doblaje Wiki (sólo de Kim Chul humano, antes de morir
+  y convertirse en sombra) — se deja anotado en «No encontré».
+- **Bellion (Gran Mariscal, la sombra más fuerte del ejército):** «comes off as composed and does not show much
+  emotion» — voz que en el juego oficial *Solo Leveling: ARISE* se describe como grave y solemne (no verificado
+  con audio propio esta tanda, sólo texto) · wikitext de Bellion#Personality · ⚠️ (una fuente).
+- **Kaisel (dragón montura):** sin diálogo ni sección de personalidad en la wiki — es la prueba, por ausencia
+  de datos, de que las sombras de grado bajo no «hablan» ni actúan como personaje · ⚠️ (dato por ausencia, no
+  fallo de búsqueda: se revisó su ficha entera).
 
 ## Hallazgos · Punto 20 — Gustos y detalles de cada personaje
 
-(pendiente)
+- **Aviso general (✅, ya confirmado con dos fuentes independientes en `biblias/03-solo-leveling/biblia.md`
+  «Punto 20»):** Solo Leveling **no tiene un databook oficial** con altura/peso/comida favorita de los
+  personajes; las cifras que circulan son estimaciones de fans. Vale también para las sombras: ninguna ficha de
+  Igris, Beru, Iron, Bellion o Kaisel en la wiki (ni en la del juego *ARISE*) trae campos de «Likes/Dislikes»
+  rellenos — se revisaron una por una esta tanda (`solo-leveling.fandom.com` y `solo-leveling-arise.fandom.com`,
+  campos vacíos salvo Rank/Origin/Abilities). ✅.
+- **Beru · afición confirmada: ver doramas coreanos de época.** Le dio su forma de hablar arcaica y formal (ver
+  punto 13) · wiki · ✅.
+- **Beru · de dónde sale su nombre:** el novelista francés Bernard Werber, autor de *Empire of the Ants* — Jinwoo
+  se lo pone porque Beru es la sombra del Rey Hormiga · wiki, Trivia · ⚠️ (una fuente).
+- **Beru · a quién quiere (más allá del combate):** al hijo de Jinwoo, Suho — dato del webtoon/novela, no del
+  anime aún emitido (ver aviso en punto 13) · ⚠️.
+- **Igris · manía/objeto que siempre lleva:** trae de vuelta la cabeza de cada enemigo que mata, como un
+  trofeo/informe — gag que se rompe cuando Iron empieza a copiarlo · wiki, Trivia · ✅ (cruzado con
+  `biblias/03-solo-leveling/`).
+- **Igris · lo que le importa más allá del combate:** valora la educación — discute con Bellion para que Suho
+  vaya a la escuela en vez de sólo entrenar (dato de la novela, posterior a lo animado) · wiki, Personality ·
+  ⚠️.
+- **Iron · manía:** se pasa de la raya en combate por orgullo y se frustra cuando su «Taunt» (Provocación) no
+  funciona contra un enemigo inmune · wiki, Personality (consulta nueva de esta tanda) · ⚠️.
+- **Cómo se ve Jinwoo a sí mismo respecto a sus sombras (dato de personaje, no de sombra, pero explica la
+  relación):** las nombra él mismo tras cada extracción exitosa («Iron», «Beru», «Kaisel»…) — un ritual que
+  funciona como adopción; el nombre casi siempre viene de su origen o de una referencia que a Jinwoo se le
+  ocurre en el momento (p. ej. Beru, por el autor de *Las hormigas*) · wiki, historia de extracción de sombras ·
+  ⚠️ (patrón observado en varias fichas, no una fuente única que lo declare como regla).
+- **El Sistema · «gustos»:** no aplica — es un programa/entidad creado por el arquitecto Kandiaru sólo para que
+  lo usara Ashborn y su vehículo humano; no tiene preferencias propias · wiki, System#Trivia · ⚠️ (cruzado con
+  `biblias/03-solo-leveling/biblia.md` §6.5, mismo dato).
 
 ## Hallazgos · Punto 21 — Por qué la gente la ama
 
-(pendiente)
+- **El debate «¿Igris o Beru?» divide al fandom en dos bandos con nombre propio: «Knight Mains vs. Monster
+  Mains».** Artículo dedicado enteramente a esto, con citas textuales de fans: «Igris has the cool and collected
+  drip. Beru is more dramatic.» (Igris tiene el porte tranquilo y elegante; Beru es más dramático) y «Beru's
+  loyalty knows no bounds. He is the best shadow in my eyes.» (La lealtad de Beru no tiene límites. Es la mejor
+  sombra para mí) · GameRant, Alex Trent, 17-jun-2025 ·
+  https://gamerant.com/solo-leveling-igris-or-beru-fans-attempt-to-settle-rivalry-between-popular-jinwoo-shadows/
+  · ✅ (fecha y autor confirmados al abrir el artículo completo). **Por qué importa para la lámina:** es la
+  prueba de que el fandom **sí distingue el carácter de cada sombra** — Igris = frío y compuesto, Beru = teatral
+  y leal — y eso es justo lo que pide el encargo (personalidad propia, no genérica).
+  - Screen Rant confirma la misma rivalidad desde otro ángulo, con un titular sobre «el verdadero favorito de
+    Jinwoo» (comprobado en la lista de resultados de la búsqueda, sin abrir el artículo completo esta tanda) ·
+    https://screenrant.com/solo-leveling-new-manhwa-karma-igris/ · ⚠️ (una fuente, sólo el titular verificado).
+- **CBR: «Sorry Igris Fans, Solo Leveling's Anime Hasn't Even Introduced Jinwoo's Best Shadow Soldier Yet»** —
+  el propio titular confirma, desde medios de prensa especializada (no sólo fans), que **el anime (25 episodios)
+  todavía no ha llegado a las mejores sombras del cómic/novela** (Bellion y las que vienen después) — encaja con
+  el hallazgo del punto 8 sobre por qué Igris no habla todavía en pantalla · comprobado en la lista de resultados
+  de la búsqueda, titular verificado, artículo completo no abierto esta tanda ·
+  https://www.cbr.com/solo-leveling-beru-best-shadow-soldier/ · ⚠️ (una fuente, titular).
+- **Identificación general con Jinwoo (razón ya verificada con dos fuentes en `biblias/03-solo-leveling/biblia.md`
+  §21):** «power fantasy» de pasar de ser el cazador más débil al más fuerte; aplicado a las sombras, el mismo
+  fenómeno se repite en miniatura — el fandom disfruta ver que un ejército entero de guerreros poderosos elige
+  servir por lealtad, no por miedo, a alguien que empezó siendo débil · referencia cruzada · ✅.
+- **Premios y cifras generales (ya verificados con dos fuentes en la otra biblia, se referencian aquí sin
+  repetir la búsqueda):** Crunchyroll Anime Awards 2025, 9 de 13 categorías ganadas, 51 millones de votos ·
+  `biblias/03-solo-leveling/biblia.md` §21 · ✅.
+- **La escena que hace llorar centrada en una sombra (nueva para esta biblia, distinta a la del hospital de la
+  madre ya cubierta en la otra biblia):** el origen de Beru — el Rey Hormiga pidiendo, ya moribundo, «un nombre»
+  — se cita en foros y reseñas como el momento en que una «sombra sin rostro» se vuelve personaje con quien
+  encariñarse; transcripción propia con `voz.py` (arriba, punto 8) confirma el tono suplicante («todo mi ser se
+  encuentra lleno de júbilo… concédame un nombre»). ⚠️ (no se encontró esta tanda un hilo de Reddit con votos
+  altos específico de esta escena — la búsqueda por `query=Beru` en Arctic Shift no devolvió resultados
+  ordenables por puntuación en esta tanda, ver Bitácora; se deja el dato con la fuente de audio propia, sin
+  inflar con «hace llorar a todos» sin prueba).
 
 ## Hallazgos · Punto 22 — Fan dubs y comunidad hispana
 
