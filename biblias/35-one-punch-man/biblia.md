@@ -1960,9 +1960,97 @@ Fotos con licencia libre de las figuras: [Nendoroid Genos](https://live.staticfl
   autor y actores latinos compartidos; conviene que sus láminas no usen
   el mismo objeto.
 
-## 26 · El mundo y sus símbolos
+## 26 · El mundo, la historia por arcos y sus símbolos
 
-(pendiente)
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. Aparecen cada vez más **«Seres Misteriosos»** (monstruos): cualquier
+   humano puede volverse uno por un deseo obsesivo o por odiarse a sí
+   mismo ([wiki](https://onepunchman.fandom.com/wiki/Mysterious_Beings)).
+2. La **Asociación de Héroes** es **privada**: la fundó el millonario
+   **Agoni** después de que un desconocido salvara a su nieto. Clases
+   **C, B, A y S**, con rango numerado en cada una ([wiki](https://onepunchman.fandom.com/wiki/Heroes/Hero_Association)).
+3. Las amenazas se miden en **Nivel de Desastre**: **Lobo < Tigre <
+   Demonio < Dragón < Dios**. El aviso dice el nivel y qué héroes van
+   ([wiki](https://onepunchman.fandom.com/wiki/Disaster_Level)).
+4. Las ciudades llevan **una letra**. **Z-City** tiene un **barrio
+   fantasma** lleno de monstruos y **sin alquiler**, donde viven Saitama y
+   Genos; **A-City** es la sede ([wiki](https://onepunchman.fandom.com/wiki/Z-City)).
+5. Hay **facciones**: el **Grupo Fubuki** (~35 héroes clase B con traje de
+   oficina) y, más tarde, los **Neo Héroes**, rivales que acusan a la
+   Asociación de corrupta y resultan siniestros ([wiki](https://onepunchman.fandom.com/wiki/Blizzard_Group),
+   [wiki](https://onepunchman.fandom.com/wiki/Heroes/Neo_Heroes)).
+
+### 26.2 La historia por arcos ✅
+
+Nombres de la wiki ([Story Arcs](https://onepunchman.fandom.com/wiki/Story_Arcs));
+la propia wiki avisa de que **no son oficiales**.
+
+**Saga de introducción** (T1)
+- *Saitama Introduction* (ep. 1): derrota al Cangrejo Mutante; aparece
+  Genos. «Soy alguien que es héroe por diversión.»
+- *House of Evolution* (eps. 2-3): **Genos se hace su discípulo**; el
+  Dr. Genus y sus monstruos de laboratorio.
+- *Paradise Group* (ep. 4): una banda de criminales drogados.
+
+**Saga de la Asociación de Héroes** (T1)
+- *National Superhero Registry* (eps. 5-6): **el examen**: Saitama 71/100,
+  **clase C**; Genos, pleno, **clase S**.
+- *Giant Meteor* (ep. 7): lo revienta y **le culpan** de los destrozos.
+- *Sea Monster* (eps. 8-9): **Mumen Rider bajo la lluvia**; Saitama se
+  hace el malo.
+- ***Alien Conquerors*** (eps. 10-12): **Boros** invade; la Luna; el
+  **Golpe Serio**. El clímax de la T1.
+- *King* (OVA / T2): el episodio de la **consola** con King.
+
+**Saga del monstruo humano** (T2 y T3)
+- *Garou Introduction* → *The Blizzard Group* → *Hero Hunt* → *Monster
+  Raid* → *Super Fight* (el **torneo con peluca**) → ***Monster
+  Association***: Garou, «cazador de héroes»; la Asociación de Monstruos
+  secuestra niños; **Tatsumaki levanta su base entera**.
+
+**Saga de los Neo Héroes** (sólo manga, sin animar)
+- *Psychic Sisters* → *Neo Heroes Introduction* → *Cruel Dragon* →
+  *Ninjas* → *Supreme Hero* → *Neo Heroes Uprising* → *Robot Invasion*.
+
+⚠️ La parte de texto sitúa *King* en el «ep. 13»; la T1 tiene 12
+episodios y la T2 empieza en el 13: el arco sale en la frontera entre las
+dos (la wiki no lo aclara en la parte).
+
+### 26.3 Emblemas, objetos y vocabulario
+
+**Emblemas**
+- **La Asociación de Héroes**: insignia **circular con alas** y «HERO»
+  (`Herobadge.png`); marca de agua en las fichas del PV3 y en el juego.
+- **Los Neo Héroes**: **dos emblemas distintos** (webcómic y manga): no
+  mezclarlos.
+- **El Grupo Fubuki**: no tiene emblema; su seña es el **traje de oficina
+  negro con camisa blanca**.
+
+**Objetos icónicos**
+- El **traje de Saitama**, comprado en una tienda **de descuento**.
+- Su **calvicie** (el precio del entrenamiento).
+- La **bolsa del súper**, los **volantes y cupones** de ofertas.
+- El **aviso de resultados «C»**.
+- La **llave con llavero de jirafa**.
+- Los **brazos intercambiables** de Genos y su **libreta**.
+- La **bicicleta** de Mumen Rider.
+- La **consola** de King.
+
+**Vocabulario que un fan reconoce**
+
+| Palabra | Qué es |
+|---|---|
+| **One Punch** | ganar de un golpe |
+| **Golpe Serio** (マジ殴り) | el golpe que usa cuando «va en serio» |
+| **Caped Baldy** (ハゲマント) | el mote que Saitama odia: «calvo con capa» |
+| **Clase S / A / B / C** y **rango** | la jerarquía de la Asociación |
+| **Nivel de Desastre** | Lobo, Tigre, Demonio, Dragón, Dios |
+| **Kaijin** | monstruo (en latino, a veces «kaijin», a veces «monstruo» o «amenaza») |
+| **Sensei** | como llama Genos a Saitama, también en latino |
+| **King Engine** | el latido de King |
+| **Día de oferta** | el motivo de Saitama para darse prisa |
+| **撃目** | «golpe n.º»: así se numeran los capítulos del manga |
 
 ## 27 · Tres conceptos de lámina
 
