@@ -45,7 +45,9 @@ Prueba en cadena:
 - **Attack on Titan (02): repaso corto** con 3 investigadores en Sonnet (desde
   las 19:56): imagen (19, 23), voz (20, 21, 22 y lo nuevo de 9 y 13), texto (18,
   24, 25 y lo nuevo de 5). Luego su redactor en Opus (modo repaso-corto).
-- Recolección por adelantado en marcha para 03, 04, 05, 31, 32 (gratis).
+- **Solo Leveling (03): repaso corto** con 3 investigadores en Sonnet (desde
+  las 20:27), como el de Attack on Titan. Luego su redactor en Opus.
+- Datos ya recolectados por adelantado: 04, 05, 31 y 32.
 - Después: `revisar.py`, `subir.sh 35-one-punch-man`, `subir.sh 02-attack-on-titan repaso`,
   y seguir en cadena con `siguiente.py`.
 
