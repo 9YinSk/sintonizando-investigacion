@@ -45,6 +45,15 @@
     "licencia": "CC Attribution 4.0"
   },
   {
+    "url": "https://sketchfab.com/3d-models/none-302c19719a83454b8a18eb4ef30b9678",
+    "fuente": "Sketchfab (Light.k)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Teoni (arco del Distrito de Entretenimiento), totalmente rigueado",
+    "para_que": "Punto 18 · rig libre de personaje secundario, mismo set técnico que Tanjiro/Rengoku",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
     "url": "https://assets.clip-studio.com/en-us/detail?id=1707223",
     "fuente": "CLIP STUDIO ASSETS",
     "ancho": null,
@@ -63,30 +72,12 @@
     "licencia": "gratis (crédito al autor pedido en la página)"
   },
   {
-    "url": "https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/",
-    "fuente": "Sakuga Blog",
+    "url": "https://www.brusheezy.com/free/manga-ink",
+    "fuente": "Brusheezy",
     "ancho": null,
     "alto": null,
-    "que_es": "Ensayo de análisis de animación: técnica de ufotable, animadores clave y compositing en Kimetsu no Yaiba",
-    "para_que": "Punto 18 · fuente escrita sobre línea variable, sombreado y compositing (no es imagen para pegar)",
-    "licencia": "artículo con derechos de autor del blog; sólo como referencia de lectura, no para reproducir imágenes"
-  },
-  {
-    "url": "https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/",
-    "fuente": "jb siraudin (blog personal)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ensayo de análisis de composición y encuadre en los combates de Demon Slayer",
-    "para_que": "Punto 18 · guía de encuadres/composición típicos por emoción, con ejemplos de combate",
-    "licencia": "artículo con derechos de autor del blog; sólo como referencia de lectura"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/25/Demon_Slayer_Corps_Insignia.png",
-    "fuente": "Kimetsu no Yaiba Wiki (kimetsu-no-yaiba.fandom.com), API imageinfo (ya citada en imagen.json; se repite aquí sólo como referencia cruzada del vocabulario del punto 25, no se descarga dos veces)",
-    "ancho": 559,
-    "alto": 553,
-    "que_es": "Insignia del Cuerpo de Cazadores de Demonios (rama de glicinia sobre el kanji 藤)",
-    "para_que": "Punto 25 · símbolo central del vocabulario del mundo (ya medido por imagen.json, no se repite el trabajo)",
-    "licencia": "captura de wiki de fans; uso como referencia, no como arte final"
+    "que_es": "Colección de 496 pinceles gratis de tinta estilo manga para Photoshop",
+    "para_que": "Punto 18 · alternativa amplia de pinceles de línea libres (revisar licencia por pincel)",
+    "licencia": "variable por pincel, mayoría gratis para uso personal/comercial (comprobar cada uno)"
   }
 ]

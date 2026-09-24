@@ -1,8 +1,9 @@
 # Parte de TEXTO — puntos 18, 24 y 25 (repaso corto) · Demon Slayer (Kimetsu no Yaiba)
 
-La biblia ya está completa en 22 secciones (1-20 + resumen + cumplimiento):
-tipografía (5), cuadro de diálogo (6), videojuegos (11) y obras parecidas de
-AniList ya están cubiertas y **no se tocan**. Este repaso investiga **sólo
+La biblia ya está completa en sus secciones 0-21 más «Cumplimiento del
+encargo»: tipografía (5), cuadro de diálogo (6), videojuegos (11) y obras
+parecidas de AniList ya están cubiertas y **no se tocan**. Este repaso
+investiga **sólo
 los puntos 18 (estilo de dibujo y técnica, y cómo replicarlo), 24 (obras
 parecidas y temas relacionados) y 25 (el mundo, la historia y sus símbolos)**
 de `ENCARGO.md`, nuevos y ausentes en `biblia.md` (comprobado con
@@ -451,7 +452,7 @@ están medidos y con equivalente libre en `partes/imagen.md` §19.1-19.2.
 
 ### Red
 
-- **Funcionó**: WebSearch (16 búsquedas), WebFetch (10 páginas), API de
+- **Funcionó**: WebSearch (14 búsquedas), WebFetch (10 páginas), API de
   Sketchfab (curl directo, 2 consultas), API de Kimetsu no Yaiba Wiki
   (`action=parse` con `curl`, 3 consultas, sin repetir las de
   `datos-texto.md`).
@@ -460,7 +461,7 @@ están medidos y con equivalente libre en `partes/imagen.md` §19.1-19.2.
   AYUDANTE.md); WebFetch no puede leer `web.archive.org` directamente
   (error propio de la herramienta, no del sitio).
 
-### Búsquedas web (16 del cupo de ~50, todas nuevas, no repiten
+### Búsquedas web (14 del cupo de ~50, todas nuevas, no repiten
 `datos-texto.md`)
 
 | # | Idioma | Búsqueda | Qué dio |
@@ -474,13 +475,11 @@ están medidos y con equivalente libre en `partes/imagen.md` §19.1-19.2.
 | 7 | en | Gotouge Koyoharu analog hand-drawn manga no digital interview Weekly Shonen Jump | nada directo (⚠️) |
 | 8 | ja | 鬼滅の刃 吾峠呼世晴 アナログ 原稿 手描き 編集者 | discoverjapan-web.com (原画展), livedoor News (entrevista al editor) |
 | 9 | en | Demon Slayer manga line art brush "Clip Studio" free download ufotable ink style | Clip Studio Assets (Manga Line Brush), DeviantArt |
-| 10 | en | Gotouge Koyoharu influences manga inspirations interview | resultados genéricos, sin la cita concreta |
-| 11 | en | Demon Slayer Total Concentration Breathing inspired by JoJo Hamon Ripple influence Gotouge | ScreenRant (confirma JoJo/Bleach/Naruto) |
-| 12 | en | Photoshop anime manga line art brush free download inking cel shading tutorial | DeviantArt (Pearlpencil), Brusheezy, Creative Bloq |
-| 13 | en | Demon Slayer story arcs in order list Final Selection … Infinity Castle | CBR (lista completa con capítulos) |
-| 14 | en | Demon Slayer glossary terms Nichirin blade Twelve Kizuki Upper Lower Moon Total Concentration explained | CBR, GamesRadar+, wiki |
-| 15 | en | Demon Slayer world rules explained Taisho era demons sunlight regeneration Nichirin sword ore | resumen cruzado con CBR |
-| 16 | ja | 鬼滅の刃 影響を受けた漫画 吾峠 *(no llegó a lanzarse: cubierta por #11)* | — |
+| 10 | en | Demon Slayer Total Concentration Breathing inspired by JoJo Hamon Ripple influence Gotouge | ScreenRant (confirma JoJo/Bleach/Naruto) |
+| 11 | en | Photoshop anime manga line art brush free download inking cel shading tutorial | DeviantArt (Pearlpencil), Brusheezy, Creative Bloq |
+| 12 | en | Demon Slayer story arcs in order list Final Selection … Infinity Castle | CBR (lista completa con capítulos) |
+| 13 | en | Demon Slayer glossary terms Nichirin blade Twelve Kizuki Upper Lower Moon Total Concentration explained | CBR, GamesRadar+, wiki |
+| 14 | en | Demon Slayer world rules explained Taisho era demons sunlight regeneration Nichirin sword ore | resumen cruzado con CBR |
 
 ### Sin cupo (API, curl directo)
 
