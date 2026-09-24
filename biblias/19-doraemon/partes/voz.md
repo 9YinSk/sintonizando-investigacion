@@ -365,6 +365,36 @@ sin abrir el vídeo.
 
 ---
 
+## Punto 13 · «Su cara en cada emoción», con minuto (parcial: reordenado desde lo ya visto, no grabé fotogramas nuevos)
+
+El punto 13 pide la cara de cada personaje en alegría, rabia, tristeza, miedo
+y vergüenza, con fotograma y minuto. La biblia ya tenía minutos comprobados
+(sección 2, con subtítulos vistos) y poses (sección 15), pero sueltos, no
+organizados por emoción. Los reordeno aquí; **no grabé fotogramas nuevos yo**
+(el investigador de vídeo ya está grabando fotogramas de openings, ending,
+tráiler y *Stand by Me* en `/tmp/.../19-doraemon-video/`, así que evito
+duplicar ese trabajo). Cada celda usa un minuto **ya verificado** en la
+biblia; lo que no tiene minuto verificado lo dejo en blanco en vez de
+inventarlo.
+
+| Personaje | Alegría | Rabia/enfado | Miedo/pánico | Vergüenza |
+|---|---|---|---|---|
+| **Doraemon** | risita «nufufu» con picardía, *Stand by Me* 00:14:46 ✅ | — (no documentado con minuto) | «¡Me robaron el cascabel!», se busca por el cuerpo, museo 2013 · 00:03:49 ✅ | — |
+| **Nobita** | «¡Gracias, gracias, Doraemon!», *Stand by Me* 00:42:57 ✅ | «¡Mentira! ¡Vete!», *Stand by Me* 00:07:46 ✅ | llora pidiendo ayuda: «¡Haz algo, Doraemoon!», 2005-08-05 · 00:10:02 ✅ | — |
+| **Shizuka** | «¡Qué divertido!», *Stand by Me* 00:00:45 ✅ | se planta y regaña: «¡Paren los dos!», *Stand by Me* 00:02:35 ✅ (firmeza, no rabia pura) | — | — |
+| **Gigante** | «¡Empieza el recital!», serie 2006-09-08 · 00:11:29 ✅ | «¡Nobita, qué te crees!», serie 2006-11-10 · 00:08:58 ✅ (con un fondo de miedo, según la biblia) | mismo momento anterior, matiz mixto rabia/miedo | — |
+| **Suneo** | presume del filete, *Stand by Me* 00:01:50 ✅ | — | — | ser el más bajo de la clase es su complejo, pero **sin una escena con minuto** que lo muestre; sólo lo dice el rasgo de personaje (ver punto 20) ⚠️ |
+
+**Huecos que quedan** (obligatorio del punto 13, no lo encontré con minuto
+verificado esta tanda): rabia de Doraemon, tristeza de los cinco, vergüenza
+de todos salvo la mención sin escena de Suneo. Para llenarlos hace falta
+mirar más metraje con `fotogramas.py` (candidatos: el arco donde a Nobita se
+le rompen los lentes de la vergüenza, o escenas de regaño de la madre de
+Nobita) — trabajo de vídeo, no de texto/audio, por eso lo dejo señalado en
+vez de inventar un minuto.
+
+---
+
 ## Punto 12/14 · Un dato más para «lo que ama el fandom» (ya cubierto en la biblia, esto lo complementa)
 
 - **«ドラ泣き» (Dora-naki, "llanto de Doraemon")**: es casi un meme oficial
