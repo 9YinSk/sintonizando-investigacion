@@ -332,9 +332,9 @@ Es el rasgo gráfico más propio del manga, y casi nadie lo usa.
 | Tomo | Personaje | Silla | Por qué, según los analistas |
 |---|---|---|---|
 | 1 | Loid | **LC2** de Le Corbusier | se adapta a cualquier espacio, como un espía de mil caras ✅ |
-| 2 | **Anya** ✅ (antes decía «Yor ⚠️») | **Marshmallow Sofa** de George Nelson ✅ | — (P·3 es su arte a color) |
+| 2 | **Anya** ✅ (antes decía «Yor», dudoso) | **Marshmallow Sofa** de George Nelson ✅ | — (P·3 es su arte a color) |
 | 3 | **Yor** ✅ | **La Chaise** de Charles y Ray Eames ✅ | — |
-| 4 | **Bond** ✅ (antes decía «Anya ⚠️») | **Ball Chair** de Eero Aarnio ✅ | — ([PicoN!](https://picon.fun/design/20230426/)) |
+| 4 | **Bond** ✅ (antes decía «Anya», dudoso) | **Ball Chair** de Eero Aarnio ✅ | — ([PicoN!](https://picon.fun/design/20230426/)) |
 | 5 | Yuri | **Barcelona Chair** de Mies van der Rohe | el «enemigo» de Loid, en la silla más solemne |
 | 7 | **Damian** ✅ | **Willow Chair** de Charles Rennie Mackintosh ✅ | respaldo alto de listones: el niño rico (P·29) |
 | 9 | Becky | **Coconut Chair** de George Nelson | cáscara dura, fruta blanda: habla fuerte, es buena ✅ (P·28) |
@@ -748,26 +748,66 @@ discusión» y «muy inesperado»
 
 ## 10 · Doblaje latino
 
-**Sí hay doblaje latino**, de Crunchyroll, estrenado el 24-abr-2022, hecho
-en México ✅ ([ANMTV](https://www.anmtvla.com/2022/04/spy-x-family-crunchyroll-revela-los.html),
-[TierraGamer](https://tierragamer.com/noticias/anime/quienes-son-las-voces-del-doblaje-de-spy-x-family-en-espanol-latino/)).
-Estudio **VSI México**, dirección **Karina Altamirano**, adaptación Cesia
-Estrada ⚠️ (una sola fuente de búsqueda; confírmalo en la
-[nota de Crunchyroll de la temporada 2](https://www.crunchyroll.com/es-es/news/announcements/2023/10/26/elenco-staff-doblaje-latino-spy-x-family-temporada-2)
-o la [de la temporada 3](https://www.crunchyroll.com/es/news/announcements/2025/10/25/elenco-staff-doblaje-latino-spy-x-family-temporada-3)).
+> [!important] Segunda pasada: todo pasado por Doblaje Wiki (API) y una segunda fuente
+> Fuentes abiertas de verdad: la ficha de
+> [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Spy_%C3%97_Family)
+> por su API (reparto de las 3 temporadas, 50 episodios, staff y notas de
+> adaptación); el
+> [anuncio del elenco de la T2 de Crunchyroll](https://www.crunchyroll.com/es/news/announcements/2023/10/26/elenco-staff-doblaje-latino-spy-x-family-temporada-2)
+> leído por la API de noticias de Crunchyroll; el artículo de
+> [ANMTV](https://www.anmtvla.com/2022/04/spy-x-family-crunchyroll-revela-los.html)
+> (13-abr-2022) y el de
+> [TierraGamer](https://tierragamer.com/noticias/anime/quienes-son-las-voces-del-doblaje-de-spy-x-family-en-espanol-latino/)
+> (24-jun-2022). La nota de la T3 que citaba la primera pasada **no
+> existe** en la API de Crunchyroll (sólo está la del doblaje de España).
 
-| Personaje | Voz latina | Fuentes | Estado |
+**Sí hay doblaje latino**, de Crunchyroll, estrenado el **24-abr-2022**,
+hecho en México ✅ (ANMTV + Doblaje Wiki).
+
+| Staff | Nombre | Fuentes | Estado |
 |---|---|---|---|
-| Loid | **Miguel de León** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Loid_Forger), [ANMTV](https://www.anmtvla.com/2022/04/spy-x-family-crunchyroll-revela-los.html), TierraGamer | ✅ |
-| Yor | **Romina Marroquín Payró** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Yor_Forger), ANMTV, TierraGamer | ✅ |
-| Anya | **Elizabeth Infante** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Anya_Forger), ANMTV, TierraGamer | ✅ |
-| Damian | **Ángel Rodríguez** | TierraGamer, Doblaje Wiki | ✅ |
-| Becky | **Susana Moreno** | TierraGamer, Doblaje Wiki, vídeo en vivo | ✅ |
-| Franky | **Miguel Ángel Ruiz** | TierraGamer, Doblaje Wiki | ✅ |
-| Bond | **Brandon Montor** | [Doblaje Wiki (Bond)](https://doblaje.fandom.com/es/wiki/Bond_Forger), [Doblaje Wiki (actor)](https://doblaje.fandom.com/es/wiki/Brandon_Montor) | ⚠️ misma wiki |
-| Sylvia (Handler) | Karina Altamirano | una fuente | ⚠️ |
-| Henderson | Rodrigo Martínez | una fuente | ⚠️ |
-| Yuri | Héctor Mena / Ricardo Bautista | una fuente | ⚠️ |
+| Estudio | **VSI Mexico City** (con MilVox en la T1, parte 1) | Doblaje Wiki + Crunchyroll T2 («VSI Mexico») | ✅ (antes dudoso) |
+| Dirección | **Karina Altamirano** (también es la voz de Sylvia) | Doblaje Wiki + Crunchyroll T2 | ✅ (antes dudoso) |
+| Traducción y adaptación | **Cesia Estrada** | Doblaje Wiki + Crunchyroll T2 | ✅ (antes dudoso) |
+| Producción | Carlos Villasana (T1-T2), Gerardo Torres (T3) | Doblaje Wiki + Crunchyroll T2 (Villasana) | ✅ (Torres: una fuente) |
+| Grabación y mezcla | Eduardo Teja (grabación), Francisco Sánchez (mezcla T2-T3) | Doblaje Wiki + Crunchyroll T2 | ✅ |
+| Narrador | Carlos Torres | Crunchyroll T2 | ⚠️ una fuente |
+
+| Personaje | Voz latina | Voz japonesa | Fuentes | Estado |
+|---|---|---|---|---|
+| Loid | **Miguel de León** | Takuya Eguchi ✅ | Doblaje Wiki, ANMTV, Crunchyroll T2 | ✅ |
+| Yor | **Romina Marroquín Payró** (Angélica Villa en los eps. 42-43, luego regrabados por Romina) | Saori Hayami | Doblaje Wiki, ANMTV, Crunchyroll T2 | ✅ (el cambio de los eps. 42-43: ⚠️ sólo Doblaje Wiki) |
+| Anya | **Elizabeth «Eli» Infante** | Atsumi Tanezaki | Doblaje Wiki, ANMTV, Crunchyroll T2 | ✅ |
+| Bond | **Brandon Montor** (también el jefe de Bondman) | Kenichirō Matsuda | Doblaje Wiki + Crunchyroll T2 | ✅ (antes dudoso) |
+| Damian | **Ángel Rodríguez** | Natsumi Fujiwara | Doblaje Wiki + TierraGamer | ✅ |
+| Becky | **Susana Moreno** | Emiri Katō | Doblaje Wiki + TierraGamer | ✅ |
+| Franky | **Miguel Ángel Ruiz** | Hiroyuki Yoshino | Doblaje Wiki + TierraGamer + Crunchyroll T2 | ✅ |
+| Yuri | **Héctor Mena** (T1-T3); **Ricardo Bautista sólo en el ep. 2**; de niño, Desireé González | Kenshō Ono | Doblaje Wiki + TierraGamer | ✅ (antes «dato confuso») |
+| Sylvia (Administradora) | **Karina Altamirano** | Yūko Kaida | Doblaje Wiki + TierraGamer | ✅ (antes dudoso) |
+| Henderson | **Rodrigo Martínez** | Kazuhiro Yamaji | Doblaje Wiki + TierraGamer | ✅ (antes dudoso) |
+| Emile / Ewen | Araceli Romero / Samanta Figueroa | — | Doblaje Wiki + TierraGamer | ✅ |
+| Fiona Frost | Mariana Ortiz | Ayane Sakura | Doblaje Wiki | ⚠️ una fuente |
+| Martha | Susana Romero | Shōko Tsuda | Doblaje Wiki | ⚠️ una fuente |
+
+**Cómo suena Anya en latino** (Doblaje Wiki): en la T1, parte 1, Eli
+Infante la hacía como niña de primaria que pronuncia bien; **desde la
+parte 2 la hizo más pequeña, de preescolar, arrastrando y pronunciando mal
+las palabras**. Para escribir sus textos, esa es la Anya buena ⚠️ (una
+fuente, pero coincide con lo que se oye en los clips de §10.1).
+
+**La adaptación latina (Doblaje Wiki, «Sobre la traducción y
+adaptación»)**, útil para no escribir nada falso:
+- Sylvia no es «Handler» ni «Mercader»: en latino es **«Administradora»**.
+- Fiona llama a Loid **«Superior»** (no *senpai*).
+- Anya llama a Damian **«Menor»** (ep. 11) y luego **«Segundo»** (ep. 15,
+  como en el manga); a Franky, **«Ricitos»**; Yuri llama a Loid **«Loichi»**.
+- Guiños mexicanos del doblaje: Henderson dice **«Qué elegancia la de
+  Francia»** (ep. 10); Anya canta «Mi muñeca me habló» de *31 minutos*
+  (ep. 16); Yor, borracha, **«¡Dame tu fuerza, alcohol!»** (ep. 24); Damian
+  y Anya discuten con frases del Chavo del Ocho, **«¡Ay, ya cállate que me
+  desesperas!» / «¡Ay, no me tienes paciencia!»** (ep. 46).
+- En el ep. 27 el latino es **el único doblaje que pone voz a los
+  pensamientos de Bond**; los demás usan subtítulos.
 
 **Frases latinas**:
 | Frase | Dónde | Estado |
