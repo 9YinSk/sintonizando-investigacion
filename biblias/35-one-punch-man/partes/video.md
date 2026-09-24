@@ -145,7 +145,7 @@ la wiki. Cito siempre de dónde sale cada paleta.
 
 ---
 
-## Punto 9 · Música y sonido (sección vacía en biblia.md — la lleno)
+### Punto 9 · Música y sonido (sección vacía en biblia.md — la lleno)
 
 **Compositor de toda la serie (T1, T2 y T3): Makoto Miyazaki (宮崎誠)** — lo leí yo
 mismo en los créditos finales del opening T1 («音楽 宮崎誠», fotograma 33 de la hoja de
@@ -208,7 +208,7 @@ original japonés, Whisper no transcribe SFX así que esto es observación direc
 
 ---
 
-## Punto 10 · Vídeos y tendencias (sección vacía en biblia.md — la lleno)
+### Punto 10 · Vídeos y tendencias (sección vacía en biblia.md — la lleno)
 
 - **YouTube pidió «confirma que no eres un bot» / 429 en TODOS los intentos** de esta
   tanda (trailer oficial `RzmFKUDOUgw` de AniList incluido) — igual que la pasada
@@ -242,12 +242,15 @@ original japonés, Whisper no transcribe SFX así que esto es observación direc
 
 ---
 
-## Punto 14 · Poses analizadas por personaje (sección vacía en biblia.md — la lleno)
+### Punto 14 · Poses analizadas por personaje (sección vacía en biblia.md — la lleno)
 
-Todo lo que sigue sale de los 3 clips que miré fotograma a fotograma (no de memoria).
-Cito hoja y minuto del vídeo fuente.
+Las poses de Saitama y Genos salen de los clips que miré fotograma a fotograma esta
+tanda (Boros y el entrenamiento con Genos); las de Tatsumaki, de arte oficial de la
+wiki que también miré yo; las de Mumen Rider, de la cita ya verificada de la pasada
+anterior (mismo clip, sin volver a descargarlo). Nada de memoria: cito hoja/imagen y
+minuto siempre.
 
-### Saitama
+#### Saitama
 
 1. **De pie, quieto, capa al viento**, mirando al horizonte del cañón antes del combate
    — postura relajada, brazos caídos, mirada al frente. Sirve para **presentar**. ·
@@ -278,7 +281,7 @@ Cito hoja y minuto del vídeo fuente.
    win.»), mano en la cara de él tocándole la mejilla — sirve para **celebrar sin
    alardear**. · min. 2:33, [Dailymotion x8raxsq](https://www.dailymotion.com/video/x8raxsq?start=153) · ✅.
 
-### Genos
+#### Genos
 
 1. **Brazo transformado en cañón, cargando energía** con chispas y luz naranja
    saliendo de las juntas — cuerpo echado hacia atrás para amortiguar el disparo.
@@ -289,7 +292,7 @@ Cito hoja y minuto del vídeo fuente.
    explicarle su fuerza — postura recta, brazos a los lados. Sirve para **pensar/
    admirar**. · min. 3:03-3:08, mismo vídeo · ✅.
 
-### Tatsumaki
+#### Tatsumaki
 
 El encargo la pide entre los 4 personajes para empezar; no la vi en vídeo esta tanda
 (no encontré un clip suyo completo y decente en Dailymotion), así que estas 3 poses
@@ -312,7 +315,7 @@ salen de **arte oficial de la wiki, mirado por mí** (no de memoria):
    1568×1145 (medido; página de manga, blanco y negro) · ✅ (ya citada de pasada en
    biblia.md §2, item 20; aquí la describo como pose).
 
-### Mumen Rider
+#### Mumen Rider
 
 No repito el visionado (ya lo hizo a fondo la pasada anterior, biblia.md §2, item 9-11,
 con el mismo clip que cito aquí de nuevo para no perder la referencia): **T1-09,
@@ -329,8 +332,7 @@ de esas citas ya verificadas:
    Sirve para **el momento de rescate/agradecimiento** (Saitama: «You did well. Nice
    fight.»). · min. 5:12 · ✅.
 
-### Boros (de paso, para escenas de villano; no es de los 4 personajes del encargo pero
-sale en la pelea más citada)
+#### Boros (de paso, villano de la pelea más citada; no es de los 4 personajes del encargo)
 
 - **Forma verdadera**, brazos extendidos hacia arriba, boca abierta con dientes
   afilados, ojo único brillando — pose de villano "a punto de soltarlo todo". Sirve

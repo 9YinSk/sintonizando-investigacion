@@ -302,9 +302,13 @@ Datos de la voz: registro (grave/medio/agudo), expresividad en semitonos
 - **Lenguaje corporal / cara**: postura rígida y marcial; su «cara seria»
   tiene nombre propio en la wiki, [«Genos's serious face.png»](https://static.wikia.nocookie.net/onepunchman/images/thumb) (citada en su
   ficha, Personality) ⚠️ no pude comprobar tamaño exacto del archivo esta
-  tanda. No conseguí fotograma con minuto de un enfado o alegría plena de
-  Genos: `Sigue` (candidato: cuando encuentra a Saitama vivo tras el meteorito,
-  T1-07, biblia §2.1 ítem 8, con reacción de alivio).
+  tanda.
+  - **Rabia**: pelo erizado, aura de fuego/energía detrás, otros personajes
+    heridos o encogidos alrededor — imagen del webcomic [«WC Genos rage.png»](https://static.wikia.nocookie.net/onepunchman/images/c/ca/WC_Genos_rage.png)
+    (1200×1696, la vi yo) ✅.
+  - No conseguí fotograma con minuto de una alegría plena de Genos: `Sigue`
+    (candidato: cuando encuentra a Saitama vivo tras el meteorito, T1-07,
+    biblia §2.1 ítem 8, con reacción de alivio).
 - **Dinámicas**: discípulo de Saitama; rival/empate técnico con **Sonic** (el
   propio autor dijo que un combate entre ambos terminaría en empate, ficha de
   Sonic, Trivia) ✅; se mide en madurez con **Amai Mask** al verlo matar sin
