@@ -165,3 +165,43 @@ y deja cada uno en `biblias/<encargo>/`. Marca aquí las que ya estén hechas.
 - [ ] 70-minecraft
 - [ ] 71-five-nights-at-freddy-s
 - [ ] 72-hatsune-miku-vocaloid
+
+# Tandas de temas (de 4 en 4)
+
+Investigación para volverse experto en cada tema, aplicada a sus proyectos.
+
+## Tanda de temas 1
+
+> Haz la tanda de temas 1 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T01-agentes-de-ia.md`, `temas/T02-radio-en-vivo.md`, `temas/T03-locuci-n.md`, `temas/T04-doblaje-latino.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T01-agentes-de-ia
+- [ ] T02-radio-en-vivo
+- [ ] T03-locuci-n
+- [ ] T04-doblaje-latino
+
+## Tanda de temas 2
+
+> Haz la tanda de temas 2 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T05-canto-y-covers.md`, `temas/T06-vtubers.md`, `temas/T07-altiplano-a-asia.md`, `temas/T08-modelado-3d-y-render.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T05-canto-y-covers
+- [ ] T06-vtubers
+- [ ] T07-altiplano-a-asia
+- [ ] T08-modelado-3d-y-render
+
+## Tanda de temas 3
+
+> Haz la tanda de temas 3 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T09-dise-o-gr-fico-e-ilustraci-n.md`, `temas/T10-generaci-n-con-ia.md`, `temas/T11-redes-sociales-y-video-corto.md`, `temas/T12-edici-n-de-video-y-audio.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T09-dise-o-gr-fico-e-ilustraci-n
+- [ ] T10-generaci-n-con-ia
+- [ ] T11-redes-sociales-y-video-corto
+- [ ] T12-edici-n-de-video-y-audio
+
+## Tanda de temas 4
+
+> Haz la tanda de temas 4 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T13-comunidades-de-discord.md`, `temas/T14-skills-y-mcp-de-claude.md`, `temas/T15-servidores-de-minecraft-con-mods.md`, `temas/T16-marketing-para-pymes-peruanas.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T13-comunidades-de-discord
+- [ ] T14-skills-y-mcp-de-claude
+- [ ] T15-servidores-de-minecraft-con-mods
+- [ ] T16-marketing-para-pymes-peruanas
