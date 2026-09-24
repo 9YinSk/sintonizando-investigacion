@@ -334,7 +334,7 @@ animados. Para dibujarlos, los fotogramas 5, 7 y 8 de esta tabla ✅.
 | Personajes en la web oficial | [dr-stone.jp/character](https://dr-stone.jp/character/) | Retratos oficiales ⚠️ (no se abre) |
 | Staff | [dr-stone.jp/staffcast](https://dr-stone.jp/staffcast/) · [ficha de TMS](https://www.tms-e.co.jp/alltitles/2010s/762101.html) | Diseño de personajes **Yuko Iwasa** (岩佐裕子), que también dibuja las carátulas de los Blu-ray; color **中尾総子**; diseño de fondos **青木智由紀**; dirección de arte **吉原俊一郎** ✅ (búsqueda en japonés + ficha de TMS) |
 | **Key visual de *Stone Wars*** (2.ª pasada) | [imagen, 2324×3277](https://static.wikia.nocookie.net/dr-stone/images/9/9f/Dr._Stone_Stone_Wars_Key_Visual_3.png) | Senku de pie con **capa verde**. El más grande de la wiki. Hoja `arte_01` nº1 ✅ |
-| Otra de *Stone Wars* | [imagen, 1830×2529](https://static.wikia.nocookie.net/dr-stone/images/1/1e/Dr._Stone_Stone_Wars_Key_Visual_1.png) | Senku con el puño. Hoja `arte_01` nº14 ⚠️ (el número de la wiki no confirmado) |
+| Otra de *Stone Wars* | [imagen, 1830×2529](https://static.wikia.nocookie.net/dr-stone/images/1/1e/Dr._Stone_Stone_Wars_Key_Visual_1.png) | Cartel «闘戦»: **dos manos que se agarran**, una con vendas (Senku y Tsukasa). Hoja `arte_01` nº14 ✅ (visto en la hoja; nombre del archivo en la wiki) |
 | Key visual de la temporada 1 | hoja `arte_01` nº38 y nº39, 1449×2048 | **Grupo de cuatro**, dos variantes ✅ vistas |
 | Especial *Ryusui* | [imagen, 1420×2000](https://static.wikia.nocookie.net/dr-stone/images/4/4e/Dr._Stone_Ryusui_Key_Visual_1.png) | El más grande de la categoría ✅ |
 | *New World* y *Science Future* | *New World* KV 1 (849×1200) · [*Science Future* KV 1, 849×1200](https://static.wikia.nocookie.net/dr-stone/images/5/5c/Dr._Stone_Science_Future_Key_Visual_1.png) | ✅ medidos. La wiki tiene **22 key visuals** en [Category:Key Visuals](https://dr-stone.fandom.com/wiki/Category:Key_Visuals) |
@@ -806,12 +806,20 @@ en §18.3; caras vistas en vídeo en §15.
   García**.
 - **2.ª pasada**:
   - **Pelo**: según la wiki, «bicolor, mitad izquierda corta y negra,
-    mitad derecha blanca» ✅. Ojo: la parte de imagen lo describe al revés
-    mirando el dibujo (izquierda del que mira). Comprobar en `vestuario_01`
-    nº228 antes de dibujar ⚠️.
-  - **Ropa**: abrigo o capa larga, cuello alto, silueta oscura ✅ (dos
-    imágenes vistas). **El color de la tela no se pudo medir**: las dos
-    imágenes tienen luz de atardecer o violeta ⚠️.
+    mitad derecha blanca, con mechones más largos junto a la cara» ✅. En
+    su retrato (`vestuario_01` nº228) se ve así **desde el que mira**:
+    negro a la izquierda, blanco a la derecha.
+  - **Cicatriz de piedra**: una marca quebrada que baja desde el ojo
+    izquierdo con una cuña como una boca en el pómulo. **Cambia con lo que
+    hace**: parece una flor cuando imita la voz de una mujer y se vuelve
+    más quebrada cuando trama algo ✅ (texto de la wiki, `datos-imagen.md`).
+    Ojos oscuros con ojeras, rasgados hacia arriba; cejas cortas.
+  - **Ropa**: la parte de imagen sólo tenía dos imágenes con luz de
+    atardecer o violeta (abrigo largo, cuello alto, silueta oscura) y **no
+    pudo medir el color** ⚠️. En las hojas, de día (`arte_01` nº5 y nº17,
+    `settei_01` nº271 y nº278, `vestuario_01` nº228), **se ve una túnica
+    lila o violeta claro con ribete de piel blanca** ⚠️ (a ojo en
+    miniaturas, sin medir).
   - **Sólo bebe cola**, nunca alcohol: «strictly a cola man» ✅
     ([Fandom](https://dr-stone.fandom.com/wiki/Gen_Asagiri#Trivia)).
   - Lleva siempre **una baraja de cartas hechas a mano** con **tres
@@ -1388,7 +1396,7 @@ del juego.
 | **Senku**, rasgos fijos | Pelo de punta, **blanco con puntas verdes**, **ojos rojos**, **marcas de petrificación** que suben desde las cejas | ✅ (Fandom y la ficha de Mecha Senku) |
 | **Suika** | **Casco de sandía** con agujeros; después, **gafas** | ✅ |
 | **Kaseki** | Ropa de aldea; al emocionarse, **sin camisa**, con la cuerda de la aldea al cuello | ✅ |
-| **Gen** | Pelo **negro y blanco** (según la wiki, mitad izquierda negra y corta, mitad derecha blanca), abrigo o capa larga oscura con cuello alto | Pelo ✅; **el color de la ropa sin medir** ⚠️ (sólo hay imágenes con luz de atardecer o violeta) |
+| **Gen** | Pelo **negro y blanco** (según la wiki, mitad izquierda negra y corta, mitad derecha blanca). Ropa: con luz dramática parece un abrigo oscuro de cuello alto; **de día, en las hojas, una túnica lila con ribete de piel blanca** (§8) | Pelo ✅; **el color de la ropa sin medir** ⚠️ |
 | **Chrome** | Ropa de aldea, **camisa azul oscuro de manga corta** con el logo del Reino de la Ciencia en las mangas, bolsas de minerales | ✅ (2.ª pasada: imagen + texto de la wiki) |
 | **Invierno** (1×23-1×24, cuando se hace el micro) | **Abrigos de piel** con ribete; Kohaku con capa de ribete de piel y la espada a la espalda | ✅ visto ([1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189), [21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264)) |
 | **Colaboraciones** | Ropa que sólo sale ahí: uniforme de **Lawson**, etiqueta de bar, circo, Navidad (§18.6) | ✅ |
@@ -1934,6 +1942,68 @@ Espacial durante la petrificación (1×24), y el capítulo final «Dr. STONE»
 | **Drago** | ドラゴ | La moneda |
 | **Mecha Senku** | メカ千空 | El robot que explica |
 
+## Las hojas de contacto (2.ª pasada)
+
+Las montó `herramientas/investigar_serie.py` con la wiki de Fandom
+(páginas de Senku, Chrome, Gen, Kaseki y Suika y sus galerías): **449
+imágenes enlazadas, 371 grandes, 8 hojas de 48**. Se miraron las 8 y se
+dejaron **3 en `hojas/`** (2400×1704, JPEG, menos de 1,1 MB cada una). Cada
+miniatura lleva **su número arriba a la izquierda y su tamaño y nombre de
+archivo debajo**: el original se baja con ese nombre de la wiki
+(`https://dr-stone.fandom.com/wiki/File:<nombre>`). Las otras cinco hojas
+(fotogramas sueltos y páginas de manga repetidas) quedan en
+`herramientas/referencias/dr-stone/`, fuera del repositorio.
+
+### `hojas/arte_01.jpg` — arte oficial y portadas (punto 1)
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| **1** | [Key visual de *Stone Wars*](https://static.wikia.nocookie.net/dr-stone/images/9/9f/Dr._Stone_Stone_Wars_Key_Visual_3.png), 2324×3277 | **Estilo** general; la capa verde |
+| **5** | «Senku and Gen love money», 2880×1619 | **Concepto B**: Senku y Gen con dinero, caras de codicia |
+| **7** | «Manganese Battery», 2880×1618 | Gen con una pila en la mano: **las 800 pilas** |
+| **14** | *Stone Wars* KV 1, «闘戦», 1830×2529 | Dos manos que se agarran |
+| **17** | «"it means liar", in flowers», 1920×2257 | Gen con la flor de «mentiroso» (§8) |
+| **18** | «I'm an insanely smart genius sorcerer», 1920×2075 | **Chrome, pulgar al pecho**: presentar |
+| **24** | «Chrome making sodium hypochlorite», 1920×1916 | Chrome trabajando con las manos |
+| **28-29** | Capítulos 216-217, 2190×1600 | **Trama, rayas de velocidad**, el cohete (§18.1) |
+| **36, 40, 43** | Tomos US 8 y 12, tomo 25 | Portadas: cuerpo entero con objetos, en grupo |
+| **38-39** | Key visuals de la T1, 1449×2048 | **Grupo** de cuatro |
+| **41** | «Senku and Gen samurai», 1918×1517 | Senku y Gen en pareja, ropa distinta |
+| **45-48** | Portadas a color de capítulos (Jump), 1918×1400 | Poses de grupo, títulos grandes |
+
+### `hojas/vestuario_01.jpg` — caras y ropa (puntos 13 y 15)
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| **222** | Retrato de Chrome, 1080×1080 | Cara de frente, sonrisa |
+| **224** | Retrato de Kohaku, 1080×1080 | Cara, ojos turquesa, gargantilla |
+| **225** | [Retrato de Senku](https://static.wikia.nocookie.net/dr-stone/images/8/8b/Senku_Ishigami_Portrait.png), 1080×1080 | **Cara de Senku** y hex del pelo y los ojos (§16) |
+| **228** | Retrato de Gen, 1078×1077 | **Cara de Gen**, cicatriz, pelo bicolor, túnica lila |
+| **205** | Capítulo 123: Gen como **as de picas**, «切り札は、自分。» (el as soy yo) | **Concepto B**: Gen y su baraja |
+| **221** | «Kaseki Face Detail», 1067×1097 | Cara de Kaseki en manga, cejas y barba |
+| **230** | «Calcite Anime», 1440×802 | Chrome mostrando un mineral al sol |
+| **234** | «Ten leaders of KoS», 2000×560 | **Los diez del Reino de la Ciencia** en fila: lámina en grupo |
+| **239** | «Suika's and Kaseki's Fashion Outfits» (manga), 870×1270 | Ropa de Suika y Kaseki |
+
+### `hojas/settei_01.jpg` — hojas de modelo y videojuego (puntos 1, 11 y 15)
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| **246** | Gen, hoja de referencia de la Isla del Tesoro, 1244×860 | Proporciones de Gen, con capucha |
+| **247** | [Chrome, hoja de sombreado](https://static.wikia.nocookie.net/dr-stone/images/b/b5/Chrome_Shading_TV_Animation_Design_Sheet.png), 1200×877 | **Cómo se reparte la sombra** (cel de dos tonos) |
+| **254-255** | Suika con y sin casco (settei), 1200×848 | **Colores medidos** de Suika (§16); caras |
+| **256** | «Radio waves» (manga), 1033×983 | Una página con **«SENKU'S PHONE»** rotulado: el teléfono en el manga |
+| **259-262** | Tarjetas de *Battle Craft*: Chrome, Gen, Kaseki, Suika, 1000×1000 | **Poses de acción oficiales** con su elemento |
+| **263** | «Gen doctor outfit», 816×1224 | Gen de cuerpo entero con bata blanca |
+| **270** | «Copper Tube», 1283×721 | **Gen con abrigo de piel en la nieve**, un tubo de cobre: invierno del micro |
+| **271, 278** | Gen y Chrome en el bosque, de día, 1280×720 | Pareja; ropa con luz neutra |
+| **280** | «Gen drinks the Cola (anime)», 1280×720 | **La cola** de Gen |
+| **287** | «Senku and Gen at the observatory», 1280×720 | Noche, cielo estrellado |
+
+**Lo mejor para #hardware**: `arte_01` nº5 (el dinero, concepto B),
+`settei_01` nº256 (el teléfono en el manga) y nº270 (invierno y cobre), y
+`vestuario_01` nº205 (Gen as de picas) y nº225 (cara de Senku).
+
 ---
 ## 19 · Tres conceptos para la lámina de #hardware
 
@@ -2126,26 +2196,42 @@ cuentagotas es de vídeo. B mejora con las monedas Drago.
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen**: no hay hojas de contacto. Todo lo visual va ⚠️.
-- **La moneda de los rangos** (supongo USD) y **el texto del mensaje
-  fijado** «Cómo se recomienda algo aquí».
-- **Cómo es en pantalla** la hoja de ruta, el micrófono, el teléfono y el
-  billete de Drago.
-- **La frase latina** de «唆るぜ これは» y cómo tradujo el doblaje la
-  jerga de Gen.
-- **Director del doblaje** (Bardo Miranda / Jorge García) y **estudio**
-  (Audiomaster Candiani): una sola búsqueda cada uno. **Tsukasa** (Arturo
-  Cataño): una sola fuente. Voces latinas de **Minami**, **Nikki** y
-  **Lillian**: no las busqué.
-- **Anécdota** del «10 millones por ciento»: sólo Doblaje Wiki.
-- **Doblaje de la 3.ª parte de *Science Future***.
-- Los puestos 3.º a 5.º de la **encuesta de 2023**.
-- **Los endings** de *New World* 2 y los temas de *Science Future*.
-- **La caja de diálogo** de *Battle Craft*.
-- **Colores**: todos los hex son propuesta, sin medir.
-- **Licencias exactas** de los modelos de Sketchfab.
-- **Los minutos** de los vídeos de YouTube y TikTok.
+**2.ª pasada**: lo tachado ya se resolvió; lo demás sigue abierto.
 
+- ~~Ninguna imagen: no hay hojas de contacto~~ → 3 hojas en `hojas/`.
+- **La moneda de los rangos** (supongo USD) y **el texto del mensaje
+  fijado** «Cómo se recomienda algo aquí»: siguen sin estar en el
+  inventario ⚠️. Los decide el dueño.
+- ~~Cómo es en pantalla la hoja de ruta y el billete de Drago~~ → vistos
+  (§3.3). **El micrófono y el teléfono en primer plano**: sin arte fijo;
+  sólo fotogramas de 720p (§2.5) y la página de manga `settei_01` nº256 ⚠️.
+- **La frase latina** de «唆るぜ これは» ⚠️. ~~La jerga de Gen en latino~~
+  → no se adaptó, habla normal (Doblaje Wiki, una fuente).
+- ~~Estudio y directores~~ → ✅ ficha de Doblaje Wiki. ~~Tsukasa~~ → ✅.
+  Voces latinas de **Minami**, **Nikki**, **Byakuya** y **Lillian**: la
+  propia Doblaje Wiki no las identifica ⚠️. Los secundarios de §10.1,
+  una fuente ⚠️.
+- **Anécdota** del «10 millones por ciento»: sólo Doblaje Wiki ⚠️.
+- **Doblaje de la 3.ª parte de *Science Future***: Doblaje Wiki dice 93
+  episodios hasta 2026 y el cambio de Gen «en la tercera parte», pero no
+  se confirmó con Crunchyroll ⚠️.
+- Los puestos 3.º a 5.º de la **encuesta de 2023** y la de **Dengeki
+  (2026)** ⚠️.
+- ~~Los endings de *New World* 2 y los temas de *Science Future*~~ → ✅.
+  **El nombre de la pista** del montaje de fabricación ⚠️.
+- ~~La caja de diálogo de *Battle Craft*~~ → vista y medida.
+- ~~Colores sin medir~~ → medidos (§5.2, §16). **Falta**: la ropa de Gen
+  con luz neutra y el exterior nevado de la aldea ⚠️.
+- ~~Licencias de Sketchfab~~ → CC BY por la API. El megáfono, «Free
+  Standard» ⚠️.
+- **Los minutos de YouTube y TikTok** ⚠️: YouTube pide iniciar sesión.
+  Los tráileres se vieron en Dailymotion (§12).
+- **Frases latinas textuales de clips oficiales con minuto** ⚠️: los clips
+  de Crunchyroll en YouTube no se pudieron bajar. Hay una muestra de audio
+  de Gen sin episodio (§10.3).
+- **Poses de Gen y Kaseki en vídeo** ⚠️: sus episodios no estaban sueltos.
+- **Bandera del Reino de la Ciencia** en imagen oficial ⚠️.
+- **Vistas** de los fandubs y covers ⚠️ (sólo título y canal).
 ---
 
 ## 21 · Bitácora de búsqueda
@@ -2258,6 +2344,89 @@ cuentagotas es de vídeo. B mejora con las monedas Drago.
   busqué (un juego de móvil cerrado rara vez está). Wayback Machine:
   bloqueada.
 - Los colores medidos de cada personaje.
-- Una escena de **tratamiento acústico**: no existe en la serie (lo más
-  cercano es el oído de Ukyo).
+- Una escena de **tratamiento acústico**: no la encontré en los
+  subtítulos de toda la serie (lo más cercano es el oído de Ukyo).
 - Reddit, Arctic Shift, TV Tropes y Doblaje Wiki: bloqueados.
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+Método de equipo (`EQUIPO.md`): el recolector gratuito y cuatro
+investigadores. Sus bitácoras completas están en `partes/*.md`. Resumen:
+
+**Recolector** (`herramientas/recolectar.py --hojas`): AniList (ficha,
+personajes, favoritos, staff, recomendaciones), Doblaje Wiki (ficha y
+datos de interés), Fandom (imágenes y textos de 5 personajes), Danbooru y
+Safebooru, Wallhaven (fondos con tamaño), Sketchfab, Openverse (cosplay),
+Dailymotion, Internet Archive, MusicBrainz (6 bandas sonoras), Steam y
+Reddit. Hojas de contacto: 449 imágenes, 8 hojas.
+
+**Imagen**: API de Fandom (`list=search`, `categorymembers` de Key
+Visuals: 22; `imageinfo` de 15 imágenes); API de Sketchfab (9 modelos, uno
+a uno); API de ambientCG (rope, linen, paper); curl a blu-ray.com,
+goodsmile.info, Google Play, Alpha Coders (bajando y midiendo con Pillow).
+9 búsquedas web en inglés y japonés: cafés colaborativos, Lawson, figuras,
+logo del Reino de la Ciencia, screentone libre, Blu-ray, *Battle Craft*,
+cuenta atrás. `estilo.py` en 11 imágenes; 15 imágenes miradas con Read.
+
+**Vídeo**: `fotogramas.py` en 11 vídeos (unos 90 fotogramas en hojas y 14
+en grande); `estilo.py` en 8 paletas. Dailymotion (español «Dr Stone
+opening», «capitulo 1 español»; francés «Bande Annonce»), Internet Archive
+(`advancedsearch` de episodios, Ryusui y endings). Web: japonés «Dr Stone
+アニメ 2期 エンディング 夢のような 佐伯ユウスケ», «Science Future
+オープニング エンディング 主題歌»; inglés «New World part 2 ending
+theme», «Suki ni Shinayo Anly», «Where Do We Go? OKAMOTO'S». Descartado un
+vídeo mal titulado (era otra serie, comprobado mirándolo).
+
+**Voz**: API de Doblaje Wiki (wikitext de la serie, 32.300 caracteres, y
+páginas de Alejandro Orozco, Brandon Santini y Óscar Rangel); API de
+Fandom (trivia de 8 personajes); Jikan (MAL); Arctic Shift (r/DrStone:
+llorar, identificarse, favoritos); `oembed` de YouTube (8 fandubs y
+covers). Web: español «Dr Stone fandub español latino», «opening cover
+español latino», «meme 10 mil millones por ciento tiktok»; inglés «manga
+sales million copies», «Crunchyroll Anime Awards», «Senku Best
+Protagonist 2020», «why fans love reddit». `voz.py` en 2 muestras.
+
+**Texto, juegos y técnica**: inglés «Boichi Dr. Stone art style
+interview», «TMS animation technique interview», «Riichiro Inagaki
+influences», «Kingdom of Science flag emblem», «Battle Craft gameplay
+dialogue box», «episode title card font», «compared to Cells at Work»,
+«TV Tropes Dr Stone», «site:tcrf.net Dr. Stone», «Jump Assemble OR Jump
+Force roster», «chromatic aberration OR film grain»; japonés «ボイチ
+Dr.STONE 作画 CG 3D インタビュー», «ドクターストーン アニメ 背景美術 セルルック
+撮影», «Dr. Stone 新作 ゲーム 2026 後継». Ficha de TMS, Google Play
+(capturas de *Battle Craft*), `estilo.py` en el cartel del ep. 1 y en la
+caja de diálogo. Revisión de los encargos de `encargos/` (obras del
+servidor que se parecen).
+
+**Redactor**: miró las 3 hojas de `hojas/` (números en «Las hojas de
+contacto») y juntó `referencias.json`.
+
+**Fuentes nuevas de la 2.ª pasada, por tipo**
+
+- **Oficiales**: ficha de TMS Entertainment, TMS USA (X), Google Play y
+  App Store (*Battle Craft*), Good Smile Company, entrevista a Matsushita
+  (J:COM), X de Boichi, Animate Times, SPICE, BARKS, Apple Music.
+- **Otros idiomas**: japonés (collabo-cafe, Togetter, animatetimes,
+  anime-song-info), francés (tráileres con subtítulos de Crunchyroll FR).
+- **Wikis**: Fandom por su API, Doblaje Wiki por su API, Wikipedia, TV
+  Tropes. **The Cutting Room Floor**: bloquea a los robots; no hay página
+  del juego (no la encontré). **Wayback Machine**: sin copia de
+  dr-stone.jp/character/.
+- **Foros**: Reddit por Arctic Shift, befonts, hilos de X.
+- **Arte**: DeviantArt, Wallhaven, Alpha Coders, Openverse/Flickr.
+- **Vídeo**: Dailymotion, Internet Archive, YouTube (sólo `oembed`),
+  TikTok (sólo la etiqueta).
+- **Código y recursos**: Sketchfab (API), ambientCG, Poly Haven, Clip
+  Studio Assets, MusicBrainz.
+- **Doblaje latino**: Doblaje Wiki (API y muestras de audio), canales de
+  fandub en YouTube.
+- **Prensa**: ANN, Anime Corner, CBR, The Fandom Post, Essential Japan,
+  Have a Good Holiday, SLJ, Dualshockers.
+
+**Lo que NO se encontró en la 2.ª pasada**: el micrófono y el teléfono en
+arte fijo; la bandera oficial del Reino de la Ciencia; cruces con gachas;
+vistas de fandubs; minutos de YouTube y TikTok; frases latinas textuales de
+clips oficiales con minuto; poses de Gen y Kaseki en vídeo; el nombre de
+la pista del montaje; filtros de posproducción; el sucesor de *Battle
+Craft*; la parodia hispana larga; la categoría de la nominación de Suika;
+la encuesta de Dengeki 2026.

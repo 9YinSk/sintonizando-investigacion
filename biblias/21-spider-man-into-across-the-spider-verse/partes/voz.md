@@ -381,7 +381,10 @@ señala como las más citadas ✅:
 - **Un cover cantado real** (no sólo traducción de letra) de «Sunflower» o
   «What's Up Danger» por una voz latina identificable: encontré vídeos con
   subtítulos/letra en español pero no una interpretación cantada propia
-  con canal verificable ⚠️ (dos búsquedas, en español e inglés).
+  con canal verificable ⚠️ (tres búsquedas, en español e inglés).
+- **Comida favorita** de Miles, Gwen y Hobie: las fichas de personaje no la
+  dan (sólo la de Miguel, las empanadas, ya en biblia §8). No la inventé;
+  queda como hueco real de la tabla de §20 ⚠️.
 
 ## Bitácora de búsqueda
 
@@ -420,3 +423,12 @@ señala como las más citadas ✅:
   no insistí más); `youtube.com/oembed` en un intento anterior a un vídeo
   de fandub de Dr. Stone en otra sesión no aplica aquí, mencionado sólo
   como referencia de método.
+
+Sigue: punto 13 de ENCARGO.md pide «su cara en cada emoción (alegría,
+rabia, tristeza, miedo, vergüenza) con fotograma y minuto» para Miles,
+Gwen, Peter B., Miguel y Hobie. Es obligatorio y no está hecho de forma
+sistemática (ni en la biblia ni en esta parte): necesita `fotogramas.py`
+sobre UNU y ATSV, minuto a minuto, cosa que no entra en el alcance/tiempo
+de este rol de voz (no vi los vídeos yo mismo). Que lo tome el investigador
+de vídeo o una tanda con `fotogramas.py` para las 5×5 combinaciones,
+cruzando con los minutos ya listados en biblia §15 (poses) donde coincidan.
