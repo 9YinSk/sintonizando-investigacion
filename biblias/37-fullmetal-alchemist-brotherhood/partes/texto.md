@@ -4,6 +4,8 @@ Puntos de ENCARGO.md: **5** (tipografía), **6** (cuadros de diálogo/cómo habl
 
 Parte de `partes/datos-texto.md` (AniList: ficha, staff, obras relacionadas y recomendadas). Wiki verificada: `fma.fandom.com`.
 
+**Nota para el redactor**: no existía una biblia previa ni una nota de FMA en `_Cuadros de dialogo por franquicia`; esta parte se hizo de cero.
+
 ## Hallazgos
 
 ### Punto 25 · El mundo, la historia y sus símbolos
@@ -114,22 +116,79 @@ Sigue en esta sección: nada obligatorio pendiente (TCRF queda con ⚠️ por bl
 
 ### Punto 18 · Estilo de dibujo, técnica y cómo replicarlo
 
-(pendiente)
+**Equipo creativo** (ya en `datos-texto.md`, de AniList) ✅: dirección Yasuhiro Irie, diseño de personajes Hiroki Kanno, diseño mecánico Masahisa Suzuki, dirección de arte Takeshi Satou, diseño de arte Kazushige Kanehira, **diseño de color Fusako Nakao**, estudio **BONES**.
+
+**De qué habla el director (Yasuhiro Irie)** ✅ [Anime News Network, entrevista 2017](https://www.animenewsnetwork.com/feature/2017-11-30/interview-yasuhiro-irie/.124659):
+- «Instead of saying that there wasn't much creative freedom, I'd rather say the standard was basically just the manga. That was sort of like the Bible for the whole thing» — Brotherhood se hizo para seguir el manga de cerca, a diferencia del anime de 2003.
+- Irie venía de animación 3D y quería volver a la animación tradicional; se sumó al proyecto tras dirigir el opening de Soul Eater en BONES.
+- El equipo mezcló animadores jóvenes (que habían visto el anime de 2003) con ideas nuevas; los cambios visuales más marcados llegan en la segunda mitad de la serie, cuando el equipo "coge soltura" ✅ (misma entrevista).
+
+**De dónde sale el estilo de Arakawa** ✅ (2 fuentes: el wikitext de `fma.fandom.com/wiki/Hiromu_Arakawa` y el artículo [The Mary Sue, citando el artbook oficial *Fullmetal Alchemist: Profiles*](https://www.themarysue.com/hiromu-arakawa-part-1/)):
+- Estudió pintura al óleo antes de mudarse a Tokio; trabajó de asistenta del mangaka **Hiroyuki Etō** (*Mahōjin Guru Guru*).
+- Ella misma cita como referencias de diseño a **Suihō Tagawa** (*Norakuro*) y a Etō; el artbook oficial añade **Yudetamago** (*Kinnikuman*), **Rumiko Takahashi** y **Shigeru Mizuki** (*GeGeGe no Kitarō*) como influencias artísticas.
+- Para el mundo de Amestris se inspiró leyendo sobre **la Europa de la Revolución Industrial**, en especial Inglaterra, «y le añadió su propio sabor para volverlo un mundo de fantasía» ✅ (fma wiki).
+- Para el Intercambio Equivalente se inspiró en la granja lechera y de patatas de sus padres en Hokkaidō, donde tuvo que esforzarse mucho para ganar cada cosa ✅ (fma wiki).
+- Investigó temas sociales entrevistando a refugiados, veteranos de guerra y exyakuza para dar peso a la Guerra de Ishval y a los personajes secundarios ✅ (fma wiki).
+- Su estilo de dibujo es redondeado, le gusta dibujar "músculos" y "hombres mayores"; cita: «If I draw them too skinny, people will think my poor characters don't eat! Men should be muscular and women should be va-va-voom!» ✅ (fma wiki).
+
+**Paleta y sombreado medidos** (herramienta `estilo.py` sobre el póster oficial de Brotherhood, `Fmab-poster.png`, 1143×1600, fma wiki) ✅ [fma.fandom.com/wiki/File:Fmab-poster.png](https://fma.fandom.com/wiki/File:Fmab-poster.png):
+- Paleta dominante: `#050505` 14.8% · `#212022` 14.3% · `#F6EFD9` 13.5% · `#3E393C` 13.2% · `#635555` 12.0% · `#DDCDA9` 11.4% · `#9C7360` 10.7% · `#BAA282` 10.1% — negros y grises cálidos con crema/beige, casi sin colores saturados en el póster clave.
+- Sombreado: **degradado/pintado** (no plano puro), saturación media 21%, brillo medio 48%. **Línea de color cálido oscuro (`#544D4A`), no negro puro** — típico del anime, donde el contorno se tiñe hacia el tono de la superficie en vez de usar tinta negra plana.
+
+**Cómo replicarlo (Photoshop y Blender)**, deducido de lo anterior más las convenciones estándar de la época (no encontré una entrevista técnica específica de BONES sobre su pipeline en Brotherhood; lo que sigue combina lo medido con práctica general del sector, marcado ⚠️ donde no hay cita directa):
+- **Photoshop**: capa de línea con Multiplicar en un marrón oscuro (`#544D4A` o similar) en vez de negro puro; 2-3 tonos de sombra por zona (cel-shading con degradados suaves en los bordes, no bordes 100% duros) para imitar el "sombreado degradado/pintado" medido arriba; grano de película ligero superpuesto (Filtro > Ruido, Monocromático, 3-5%) para el aspecto de emisión de TV 2009. ⚠️ (propuesta, sin cita directa del estudio).
+- **Blender**: contorno con **Freestyle** (más orgánico que Solidify) en el mismo marrón oscuro en vez de negro; shader tipo *toon* (nodo Shader to RGB + rampa de 2-3 pasos) para el cel-shading; luz principal dura con una sombra de relleno tenue, evitando el degradado suave de un render PBR realista. ⚠️ (propuesta).
+- No encontré making-of ni comentarios de Blu-ray de BONES sobre software concreto (RETAS, Toon Boom, CLIP STUDIO) usado en Brotherhood específicamente ⚠️: la búsqueda sólo confirma que RETAS y Toon Boom Animate Pro eran los estándares del sector en 2009-2010, sin vincularlos a BONES.
+
+**Encuadres y composición** (de la única imagen que miré a fondo, `Chapter1.jpg`; para el resto hay que cruzar con `partes/video.md`, que sí mira escenas con `fotogramas.py`) ⚠️ un solo ejemplo, no basta para generalizar:
+- La portada del capítulo 1 usa un **plano medio en diagonal**: Ed en cuclillas ocupa la mitad derecha del encuadre, Al de pie detrás a la izquierda, con las líneas de las tuberías y vigas cruzando en diagonal para dar profundidad — nada de composición centrada y plana.
+- El círculo de transmutación de fondo funciona como **segundo plano decorativo-narrativo**: no compite con los personajes (tonos fríos apagados) pero explica el tema del capítulo sin texto.
+
+Sigue en esta sección: nada obligatorio pendiente (el pipeline exacto del estudio y los encuadres por emoción quedan ⚠️, mejor cubiertos cruzando con `partes/video.md`).
 
 ### Punto 24 · Obras parecidas y temas relacionados
 
-(pendiente)
+**Influencias que reconoce la propia autora** (Hiromu Arakawa) — ya citadas en el punto 18, aquí centradas en «obras parecidas»:
+- **Suihō Tagawa** (*Norakuro*) y **Hiroyuki Etō** (*Mahōjin Guru Guru*, su maestro como asistenta): influencias directas de diseño ✅ (2 fuentes: `fma.fandom.com/wiki/Hiromu_Arakawa` + [The Mary Sue](https://www.themarysue.com/hiromu-arakawa-part-1/), citando el artbook oficial *Fullmetal Alchemist: Profiles*).
+- **Yudetamago** (*Kinnikuman*) — lo cita como manga favorito de infancia y como influencia de diseño según el artbook oficial ✅ (mismas 2 fuentes).
+- **Rumiko Takahashi** (*Inuyasha*, *Ranma ½*) y **Shigeru Mizuki** (*GeGeGe no Kitarō*) — citadas en el artbook oficial como influencias artísticas ✅ [The Mary Sue](https://www.themarysue.com/hiromu-arakawa-part-1/) (una sola fuente para estas dos en concreto, el artbook no lo leí yo directo) ⚠️.
+
+**Obras que recomienda la comunidad** (usuarios de AniList que vieron FMA:B, ya en `datos-texto.md`, no repetido): Hunter × Hunter (2011), Attack on Titan, Soul Eater, D.Gray-man, One Piece, JUJUTSU KAISEN, Demon Slayer, Naruto: Shippuden, Fate/Zero, Dororo, Orb: On the Movements of the Earth ✅ [anilist.co/anime/5114](https://anilist.co/anime/5114).
+
+**Por qué se parecen (temas compartidos)**: shōnen de acción con **ejército/guerra** (Attack on Titan, Fate/Zero), **filosofía y crítica social** de fondo (Orb: On the Movements of the Earth, sobre ciencia vs. dogma), **hermanos/mentores con vínculo fuerte** (Soul Eater, Demon Slayer), **cuerpos alterados o prostéticos** (Dororo: cuerpo robado por demonios, paralelo directo con el automail de Ed y la armadura de Al) — comparación mía a partir de las sinopsis de AniList, no de una fuente que lo diga explícitamente ⚠️.
+
+**Obras de la propia franquicia** (ya en `datos-texto.md`): manga original (2001, distinto final), *Brotherhood OVA Collection*, película *The Sacred Star of Milos*, *4-Koma Theater* ✅ [anilist.co/anime/5114](https://anilist.co/anime/5114).
+
+**TV Tropes**: existen páginas separadas para el manga/Brotherhood (`Manga/FullmetalAlchemist`), el anime 2003 (`Anime/FullmetalAlchemist2003`), personajes, capítulos y hasta una serie de abridged parodies (*Fullmetal Alchemist: Brotherhood Abridged*) ✅ [tvtropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist) (resumen de búsqueda, no leí las páginas completas por presupuesto).
+
+**No repetir ideas de otras láminas del servidor**: no pude comprobar `servidor/inventario.md` en busca de láminas ya hechas con temas parecidos (guerra, filosofía, hermanos) porque el inventario no lista biblias de otros encargos, sólo canales — se lo dejo al redactor, que sí tiene `DECISIONES.md` y el historial completo del servidor.
+
+Sigue en esta sección: nada obligatorio pendiente.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- El **reloj de plata del Alquimista Estatal** (dragón + hexágono + laureles, medido en hex) es un objeto perfecto para tallar en Blender y usarlo como marco o placa del texto del canal — no hace falta una burbuja: el reloj YA es un cuadro de diálogo con forma propia.
+- El **círculo de transmutación** (líneas finas blanco/celeste, geometría de círculos+hexagrama+engranajes) es el fondo decorativo-narrativo ideal detrás del texto: no compite con el personaje y explica el tema alquímico sin escribir nada.
+- Combo de letras ya comprobado con tildes/ñ/¿/¡: **Rokkitt Black** (título) + **Comic Neue Bold** (texto normal) + **Special Elite** (si el canal necesita tono "informe militar/burocrático").
+- Ojo con **Anime Ace v1** (la gratis de 1001fonts): no tiene tildes ni ñ — no usarla para texto en español sin comprobar antes qué versión se tiene.
+- La cruz de Flamel (alas+corona+serpiente) es el icono/firma visual más reconocible de la serie tras el logo: sirve como marca de agua o remate del texto.
 
 ## No encontré
 
-(pendiente)
+- **Fuente exacta del logo confirmada en 2 sitios**: sólo fontmeme.com la identifica (Geometric Slab Serif 703 / Baskerville Roman); Logopedia no da el nombre de la fuente ⚠️. Búsquedas hechas: "Fullmetal Alchemist Brotherhood logo font identify" (inglés), consulta directa a logos.fandom.com/wiki/Fullmetal_Alchemist (API).
+- **Fuente exacta de la interfaz de los videojuegos**: no hay ficha en Fonts In Use ni en foros de dafont para ningún juego de FMA ⚠️. Búsquedas: "Fullmetal Alchemist Brotherhood PSP game screenshots battle menu", "Fullmetal Alchemist Prince of Dawn Wii gameplay dialogue box interface".
+- **Software concreto de animación de BONES en Brotherhood** (RETAS, Toon Boom, Clip Studio…): no hay entrevista ni comentario de Blu-ray que lo diga con nombre propio ⚠️. Búsquedas: "Studio Bones RETAS Toon Boom digital animation software 2009 2010 anime production", "Fullmetal Alchemist Brotherhood transmutation circle animation color design art director interview".
+- **Estilo visual de los informes/documentos militares en pantalla** (cartas, expedientes, el periódico de Ciudad Central): no encontré una captura o descripción con fuente ⚠️. Es un punto que el investigador de vídeo podría resolver mirando escenas de oficina de Mustang con `fotogramas.py`.
+- **Capturas propias de Game UI Database, MobyGames, TCRF, dafont.com, fontmeme.com y Riot Pixels**: las 6 webs devolvieron un reto de Cloudflare (403 con "Just a moment...") en mis intentos (máximo 2 por sitio, como pide AYUDANTE.md); usé en su lugar el resumen de las búsquedas web y, cuando existía, una fuente alternativa sin bloqueo (video-games-museum.com sí funcionó para las capturas del PSP).
 
 ## Bitácora
 
-(pendiente)
+**Consultas directas a la API del wiki `fma.fandom.com`** (sin buscador, con `action=query`): Amestris, Alchemy, The Truth, Philosopher's Stone, Alchemist (Alquimista Estatal + reloj), Story Arcs/Manga, Flamel, Ouroboros, Xerxes, Alkahestry, Xing, State Military, Chapter 1: The Two Alchemists, Hiromu Arakawa, List of Fullmetal Alchemist Video Games; más `srsearch` de texto completo para: Flamel cross, Ouroboros, State Alchemist pocket watch inscription, Amestrian flag emblem, Timeline, story arc, chapter title page illustration, Xingese language alkahestry, newspaper.
+**Imágenes bajadas y miradas con Read** (no de memoria): `Chapter1.jpg` (portada manga cap. 1), `Pocketwatch.png`, `Truth.png` (las 3 de fma.fandom.com, con cabecera Referer), `Fmab-poster.png` (analizada con `estilo.py`: paleta y sombreado), y 3 capturas reales del juego PSP *Brotherhood* (video-games-museum.com): menú, combate y título — colores medidos con Pillow en todas.
+**Google Fonts comprobados con fontTools** (descarga directa de fonts.gstatic.com + `TTFont(f).getBestCmap()` para á/é/í/ó/ú/ñ/Ñ/¿/¡): Libre Baskerville, Rokkitt, Special Elite, Dela Gothic One, Klee One, Comic Neue, Bangers, Permanent Marker — las 8 con el set completo. También comprobé (y descarté) **Anime Ace v1** de 1001fonts.com: sin tildes ni ñ.
+**Búsquedas web** (WebSearch, en inglés — no hizo falta japonés ni coreano/chino porque las fuentes en inglés y la propia wiki ya cubrían lo pedido, y la obra es manga japonés pero su documentación técnica en Occidente está mayormente en inglés): "Fullmetal Alchemist Brotherhood logo font identify", "Fullmetal Alchemist manga speech bubble sound effects font style", "Yasuhiro Irie Brotherhood interview animation studio BONES making of", "Hiromu Arakawa interview influences manga style drawing", "Fullmetal Alchemist Brotherhood PSP game screenshots battle menu", "Fullmetal Alchemist Prince of Dawn Wii gameplay dialogue box interface", "Fullmetal Alchemist Mobile game gacha 2022 shut down", "Studio Bones RETAS Toon Boom digital animation software 2009 2010 anime production", "Fullmetal Alchemist Brotherhood transmutation circle animation color design art director interview", "Fullmetal Alchemist Brotherhood TV Tropes site:tvtropes.org", "Fullmetal Alchemist The Cutting Room Floor tcrf.net", "Fullmetal Alchemist Brotherhood episode title card design black background white text".
+**Fetch directo de páginas** (fuera del wiki, sin API): themarysue.com/hiromu-arakawa-part-1/ (texto completo descargado y filtrado por palabra clave: confirma Tagawa, Etō, Takahashi, Mizuki, Kinnikuman como influencias citadas en el artbook oficial *Profiles*); video-games-museum.com (HTML con enlaces directos a JPG); store.steampowered.com/api/storesearch (0 resultados para "Fullmetal Alchemist").
+**Webs bloqueadas por Cloudflare** (403 "Just a moment...", 2 intentos cada una, después busqué otra vía): gameuidatabase.com, mobygames.com, fontmeme.com (fetch directo), tcrf.net (API directa), riotpixels.com, dafont.com (cargó pero sin resultados de búsqueda, posible render por JavaScript).
+**Herramientas usadas**: `estilo.py` (paleta y sombreado del póster oficial), `fontTools` (comprobación de tildes en 9 fuentes), Pillow directo (colores del reloj, la portada del manga y las capturas PSP).
 
-Sigue: falta todo (arrancando).
+Sigue: nada obligatorio pendiente en los 6 puntos (5, 6, 11, 18, 24, 25). Quedan como ⚠️ y anotados en «No encontré»: la fuente exacta del logo y de las interfaces de videojuego, el software de animación de BONES, y el estilo de los documentos militares en pantalla — ninguno tiene una fuente que lo confirme tras buscar en inglés y comprobar directamente la wiki y varias webs técnicas.
