@@ -149,10 +149,22 @@ fecha: 2026-09-24
 - **Doblaje P5**: estudio **DAT** ✅ (Wikipedia + Doblaje Wiki). La
   dirección no cuadra: Herman López (Doblaje Wiki) o Helgar Pedrini
   (Wikipedia): sigue dudosa.
+- **Los enlaces a archivos de Doblaje Wiki** (muestras de audio y
+  créditos) **daban 404**: a esa wiki le falta el `/es/` en la ruta. Ahora
+  van a `static.wikia.nocookie.net/doblaje/es/images/…` y los 36
+  responden (comprobados uno a uno, también los 130 enlaces de imágenes de
+  la wiki y de `referencias.json`).
 - **Nick Casi Decapitado en Hogwarts Legacy es Álvaro Sarlich**, no
   «Salarich» ([ANMTV](https://www.anmtvla.com/2023/02/hogwarts-legacy-warner-bros-games.html)).
 - **Logo de Hogwarts Legacy**: «Customized from the typeface Tongari»,
   lo dice **Pentagram**, el estudio que lo diseñó ✅ (antes sólo FontBolt).
+- **Pasan de dudoso a ✅** (segunda fuente encontrada): las voces de
+  Hermione en P3 (Priscila Reyes), McGonagall en P1 (Magda Giner), Snape en
+  P3 y P8 (César Monroy, Sebastián Llapur), Umbridge (Ruth Toscano) y Molly
+  en P2 (Carmen Martínez); el redoblaje argentino; Hermione levantando la
+  mano; Luna repartiendo El Quisquilloso; los gorros de Dobby (HP Lexicon);
+  Caxambu en El Profeta (O Tempo); la encuesta de MTV y la coreana; el
+  vídeo de Bilibili y el TikTok; las capturas de *Hogwarts Mystery*.
 
 **Tercer ayudante: añadido**
 - **La voz de los insertos del doblaje latino**: un narrador **lee en voz
@@ -168,7 +180,7 @@ fecha: 2026-09-24
   *Hogwarts Mystery* medida (§7.2).
 
 **Marcas de duda:** había **55** antes de la segunda pasada; **38** cuando
-cerró el segundo ayudante; quedan **31** (contadas con `grep -o`; el número
+cerró el segundo ayudante; quedan **22** (contadas con `grep -o`; el número
 incluye la leyenda). Lo que sigue dudoso y por qué: §20.
 
 ---
@@ -658,10 +670,10 @@ a propósito**, para que no parecieran cortados a máquina
   latino oficial ✅. Oro medido en el comienzo: `#B19F72` sobre `#3A3331`.
 - **Los logos latinos de cine** (fotos de la pantalla en Doblaje Wiki,
   miradas): P1 «Harry Potter **Y LA PIEDRA FILOSOFAL**» en oro sobre nubes
-  ([imagen](https://static.wikia.nocookie.net/doblaje/images/c/cc/Harry_Potter_y_la_Piedra_Filosofal_Logo_Espa%C3%B1ol_para_Cines.png), 1342×622);
-  P3 «Y EL PRISIONERO DE AZKABAN» en acero ([imagen](https://static.wikia.nocookie.net/doblaje/images/5/54/Harry_Potter_y_el_prisionero_de_Azkaban_-_Logo_cine.png), 1886×881);
+  ([imagen](https://static.wikia.nocookie.net/doblaje/es/images/c/cc/Harry_Potter_y_la_Piedra_Filosofal_Logo_Espa%C3%B1ol_para_Cines.png), 1342×622);
+  P3 «Y EL PRISIONERO DE AZKABAN» en acero ([imagen](https://static.wikia.nocookie.net/doblaje/es/images/5/54/Harry_Potter_y_el_prisionero_de_Azkaban_-_Logo_cine.png), 1886×881);
   P4 «**Y EL CÁLIZ DE FUEGO**» en plata, **con la tilde en la Á**
-  ([imagen](https://static.wikia.nocookie.net/doblaje/images/0/02/Harry_Potter_y_el_C%C3%A1liz_de_Fuego_Logo_Espa%C3%B1ol_para_Cines.png), 1548×1045) ✅.
+  ([imagen](https://static.wikia.nocookie.net/doblaje/es/images/0/02/Harry_Potter_y_el_C%C3%A1liz_de_Fuego_Logo_Espa%C3%B1ol_para_Cines.png), 1548×1045) ✅.
   El subtítulo va en **versalitas con serifa en cuña**, la «Y» y el «EL»
   pequeños y montados. Prueba de que en español el logo lleva tildes: la
   letra que se use tiene que traerlas.
@@ -922,7 +934,8 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   agua rojas y collar de corchos de cerveza de mantequilla.
 - **En latino** (Lu Leal, P5-P8): voz suave, frases cortas y raras dichas
   con calma. «Hola, Harry. **Torposoplos. Tienes la cabeza llena**» (P6;
-  Whisper oyó «torposolos»: en los libros en español son «torposoplos» ⚠️).
+  Whisper *medium* oyó «torposolos» y *large-v3* «por posolos»: en los
+  libros en español son «torposoplos» ⚠️).
   «Fue como estar con un amigo» (P6). «Excepcionalmente ordinaria» (P6).
   Y habla de la prensa: «**el Ministerio y El Profeta conspiran contra ti y
   Dumbledore**» (P5).
@@ -1070,8 +1083,8 @@ y las fuentes de la 1.ª pasada.
 
 | Peli | Estudio | Dirección | Grabación | Fuentes |
 |---|---|---|---|---|
-| P1 | **Audiomaster 3000** | **Javier Rivero**; loops de Jorge Roig y Herman López. Traducción: Jesús Vallejo | nov-2001 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_piedra_filosofal), [La Prensa de Panamá / El Universal, 21-dic-2001](https://www.prensa.com/impresa/opinion/Harry-Potter-hablara-espanol_0_539946170.html) y [el blog del propio Javier Rivero, 2007](http://javodubb.blogspot.com/2007/05/harry-potter.html); **los créditos de cine**, «Recording Studio: AUDIOMASTER MEXICO» ([foto](https://static.wikia.nocookie.net/doblaje/images/1/12/CR%C3%89DITOSHARRYPOTTERYLAPIEDRAFILOSOFAL.png)) ✅ |
-| P2 | **Audiopost** | **Roberto Molina** | 2002 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) y **los créditos de cine**: «Director de Doblaje: Roberto Molina · Doblaje y Post Producción: SPG Studios - Audio Post, Los Angeles - México» ([foto](https://static.wikia.nocookie.net/doblaje/images/0/06/Harry_Potter_y_la_Camara_Secreta_Creditos_de_Doblaje_en_Cines.png)) ✅ |
+| P1 | **Audiomaster 3000** | **Javier Rivero**; loops de Jorge Roig y Herman López. Traducción: Jesús Vallejo | nov-2001 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_piedra_filosofal), [La Prensa de Panamá / El Universal, 21-dic-2001](https://www.prensa.com/impresa/opinion/Harry-Potter-hablara-espanol_0_539946170.html) y [el blog del propio Javier Rivero, 2007](http://javodubb.blogspot.com/2007/05/harry-potter.html); **los créditos de cine**, «Recording Studio: AUDIOMASTER MEXICO» ([foto](https://static.wikia.nocookie.net/doblaje/es/images/1/12/CR%C3%89DITOSHARRYPOTTERYLAPIEDRAFILOSOFAL.png)) ✅ |
+| P2 | **Audiopost** | **Roberto Molina** | 2002 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) y **los créditos de cine**: «Director de Doblaje: Roberto Molina · Doblaje y Post Producción: SPG Studios - Audio Post, Los Angeles - México» ([foto](https://static.wikia.nocookie.net/doblaje/es/images/0/06/Harry_Potter_y_la_Camara_Secreta_Creditos_de_Doblaje_en_Cines.png)) ✅ |
 | P3 | Audiopost | **José Luis García Agraz**; Vicky Burgoa (incidentales); Molina (escenas añadidas) | 2004 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_prisionero_de_Azkaban), [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(Latin_American_Spanish,_Audio_Post)) (estudio Audio Post), [El Siglo de Durango (agencias), 2004](https://www.elsiglodedurango.com.mx/noticia/2004/breves-del-cine.39317.html): Cuarón invitó a su amigo García Agraz a dirigir el doblaje ✅. **Ojo**: la [Wikipedia en español](https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(pel%C3%ADcula)) dice «Art Sound, dirección de Helgar Pedrini» (cita una web de 2009 ya caída); las otras dos ponen a Pedrini como director creativo |
 | P4 | Audiopost | Roberto Molina | 2005 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_c%C3%A1liz_de_fuego) ⚠️ |
 | P5 | **DAT Doblaje Audio Traducción** | **Herman López** | may-2007 | Estudio ✅: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_orden_del_F%C3%A9nix) y [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_Orden_del_F%C3%A9nix_(pel%C3%ADcula)). Dirección ⚠️: Wikipedia pone a Helgar Pedrini |
@@ -1176,26 +1189,26 @@ Latinoamérica** no tiene subtítulos y YouTube no deja bajar su audio.
 
 | Personaje | Frase del doblaje latino | Dónde | Estado |
 |---|---|---|---|
-| **Dumbledore** (César Arias) | «Siempre se ayudará en Hogwarts, Harry, a quienes lo pidan. Siempre me he vanagloriado de mi habilidad para las frases. **Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia**, capaces tanto de ocasionar dolor como de remediarlo.» | P8 01:34:46-01:35:00 ([muestra](https://static.wikia.nocookie.net/doblaje/images/e/e5/HP8AlbusDumbledore-1.ogg)) | ✅ |
-| Dumbledore | «Tiempos difíciles y oscuros nos aguardan. Pronto deberemos elegir entre lo que es correcto y lo que es fácil.» | P4, final ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/36/HP4AlbusDumbledore-1.ogg)) | ✅ sentido |
-| Dumbledore | «Sin embargo, es imperioso que ambos reciban el Premio Especial por Servicios al Colegio. Ahora, señor Weasley, envíe una lechuza con esta orden de libertad a Azkaban. Me parece que queremos que Hagrid vuelva.» | P2 02:18:22-02:18:50 ([muestra](https://static.wikia.nocookie.net/doblaje/images/7/79/HP2AlbusDumbledore-1.ogg)) | ✅ (Whisper oyó «Whistley»; el inglés dice «Mr. Weasley») |
-| **McGonagall** (Keta Leonel) | «La víspera de Navidad, junto con nuestros invitados, nos reunimos en el gran salón para **una noche de recatada frivolidad**. Como representantes del colegio sede, espero que todos y cada uno de ustedes se esfuerce por dar un buen paso. Y lo digo literalmente, porque el baile de Navidad es eso, justamente: un baile.» | P4 01:06:47-01:07:20 ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/01/HP4MinervaMcGonagall-1.ogg)) | ✅ **un aviso oficial** |
-| McGonagall (Magda Giner) | «Nada. Repito. Nada. Justifica que un estudiante camine por la escuela en la noche.» · «Recibió una lechuza urgente del Ministerio de Magia y salió de inmediato a Londres.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/3a/HP1MinervaMcGonagall-1.ogg)) | ✅ sentido |
-| **Hermione** (Leyla Rangel) | «**Ya saben a qué vinieron. Por un maestro, un maestro de verdad.** Alguien con experiencia en defensa contra las artes oscuras.» · «Es porque tienes tanta sensibilidad como una piedra.» | P5 00:54:01 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/26/HP5HermioneGranger-1.ogg)) | ✅ |
-| Hermione (Mitzy Corona) | «Nicolás Flamel es el único que ha podido crear la piedra filosofal… Transforma la materia en oro macizo y produce el elixir de la vida.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/d/dd/HP1HermioneGranger-1.ogg)) | ✅ sentido |
-| **Luna** (Lu Leal) | «Hola, Harry. **Torposoplos. Tienes la cabeza llena.** … Fue como estar con un amigo. … Excepcionalmente ordinaria.» | P6 00:27:24-00:27:40 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/ad/HP6LunaLovegood-1.ogg)) | ✅ (la palabra «torposoplos», ⚠️: Whisper oyó «torposolos») |
-| Luna | «Por cierto, los dos te creemos. Que volvió el que no debe ser nombrado, y que pelearon, **y que el Ministerio y El Profeta conspiran contra ti y Dumbledore**.» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/images/c/cc/HP5LunaLovegood-1.ogg)) | ✅ sentido |
-| Luna | «Hola, Harry. Interrumpí un pensamiento, ¿verdad? Vi que se hacía pequeño en tus ojos.» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/0c/HP7LunaLovegood-1.ogg)) | ✅ sentido |
-| **Dobby** (Ismael Castro) | «Dobby nunca ha querido matar. Dobby sólo quería mutilar o lesionar de gravedad. **Dobby no tiene amo. Dobby es un elfo libre.** Y Dobby vino a salvar a Harry Potter y a sus amigos.» · «Qué playa tan hermosa para estar con amigos.» | P7 02:08:59-02:10:48 ([muestra](https://static.wikia.nocookie.net/doblaje/images/e/ed/HP7Dobby-1.ogg)) | ✅ |
-| Dobby | «Harry Potter debió escuchar a Dobby. … A Dobby siempre lo amenazan. **A Dobby lo amenazan cinco veces al día en casa.**» | P2 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/2b/HP2Dobby-1.ogg)) | ✅ sentido |
-| **Snape** (Sebastián Llapur) | «Si cualquiera, estudiante o maestro, pretendiera ayudar al señor Potter, será castigado de una manera consistente con la severidad de su infracción… **Lo invito a que pase al frente, ahora.**» | P8 00:35:29-00:36:33 ([muestra](https://static.wikia.nocookie.net/doblaje/images/9/9d/HP8SeverusSnape-1.ogg)) | ✅ aviso oficial (oscuro) |
-| Ron (Luis Daniel Ramírez) | «**Ay, diablos, ahí va.**» (el «Bloody hell, here we go») | P8 00:33:45 ([muestra](https://static.wikia.nocookie.net/doblaje/images/8/8f/HP8RonWeasley-1.ogg)) | ✅ |
-| Harry (Víctor Ugarte) | «Y no sé qué, pero lo quiere con desesperación… **Me ponen los pelos de punta.**» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/32/HP7HarryPotter-1.ogg)) | ✅ sentido |
+| **Dumbledore** (César Arias) | «Siempre se ayudará en Hogwarts, Harry, a quienes lo pidan. Siempre me he vanagloriado de mi habilidad para las frases. **Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia**, capaces tanto de ocasionar dolor como de remediarlo.» | P8 01:34:46-01:35:00 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/e/e5/HP8AlbusDumbledore-1.ogg)) | ✅ |
+| Dumbledore | «Tiempos difíciles y oscuros nos aguardan. Pronto deberemos elegir entre lo que es correcto y lo que es fácil.» | P4, final ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/3/36/HP4AlbusDumbledore-1.ogg)) | ✅ sentido |
+| Dumbledore | «Sin embargo, es imperioso que ambos reciban el Premio Especial por Servicios al Colegio. Ahora, señor Weasley, envíe una lechuza con esta orden de libertad a Azkaban. Me parece que queremos que Hagrid vuelva.» | P2 02:18:22-02:18:50 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/7/79/HP2AlbusDumbledore-1.ogg)) | ✅ (Whisper oyó «Whistley»; el inglés dice «Mr. Weasley») |
+| **McGonagall** (Keta Leonel) | «La víspera de Navidad, junto con nuestros invitados, nos reunimos en el gran salón para **una noche de recatada frivolidad**. Como representantes del colegio sede, espero que todos y cada uno de ustedes se esfuerce por dar un buen paso. Y lo digo literalmente, porque el baile de Navidad es eso, justamente: un baile.» | P4 01:06:47-01:07:20 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/0/01/HP4MinervaMcGonagall-1.ogg)) | ✅ **un aviso oficial** |
+| McGonagall (Magda Giner) | «Nada. Repito. Nada. Justifica que un estudiante camine por la escuela en la noche.» · «Recibió una lechuza urgente del Ministerio de Magia y salió de inmediato a Londres.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/3/3a/HP1MinervaMcGonagall-1.ogg)) | ✅ sentido |
+| **Hermione** (Leyla Rangel) | «**Ya saben a qué vinieron. Por un maestro, un maestro de verdad.** Alguien con experiencia en defensa contra las artes oscuras.» · «Es porque tienes tanta sensibilidad como una piedra.» | P5 00:54:01 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/2/26/HP5HermioneGranger-1.ogg)) | ✅ |
+| Hermione (Mitzy Corona) | «Nicolás Flamel es el único que ha podido crear la piedra filosofal… Transforma la materia en oro macizo y produce el elixir de la vida.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/d/dd/HP1HermioneGranger-1.ogg)) | ✅ sentido |
+| **Luna** (Lu Leal) | «Hola, Harry. **Torposoplos. Tienes la cabeza llena.** … Fue como estar con un amigo. … Excepcionalmente ordinaria.» | P6 00:27:24-00:27:40 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/a/ad/HP6LunaLovegood-1.ogg)) | ✅ (la palabra «torposoplos», ⚠️: Whisper oyó «torposolos») |
+| Luna | «Por cierto, los dos te creemos. Que volvió el que no debe ser nombrado, y que pelearon, **y que el Ministerio y El Profeta conspiran contra ti y Dumbledore**.» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/c/cc/HP5LunaLovegood-1.ogg)) | ✅ sentido |
+| Luna | «Hola, Harry. Interrumpí un pensamiento, ¿verdad? Vi que se hacía pequeño en tus ojos.» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/0/0c/HP7LunaLovegood-1.ogg)) | ✅ sentido |
+| **Dobby** (Ismael Castro) | «Dobby nunca ha querido matar. Dobby sólo quería mutilar o lesionar de gravedad. **Dobby no tiene amo. Dobby es un elfo libre.** Y Dobby vino a salvar a Harry Potter y a sus amigos.» · «Qué playa tan hermosa para estar con amigos.» | P7 02:08:59-02:10:48 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/e/ed/HP7Dobby-1.ogg)) | ✅ |
+| Dobby | «Harry Potter debió escuchar a Dobby. … A Dobby siempre lo amenazan. **A Dobby lo amenazan cinco veces al día en casa.**» | P2 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/2/2b/HP2Dobby-1.ogg)) | ✅ sentido |
+| **Snape** (Sebastián Llapur) | «Si cualquiera, estudiante o maestro, pretendiera ayudar al señor Potter, será castigado de una manera consistente con la severidad de su infracción… **Lo invito a que pase al frente, ahora.**» | P8 00:35:29-00:36:33 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/9/9d/HP8SeverusSnape-1.ogg)) | ✅ aviso oficial (oscuro) |
+| Ron (Luis Daniel Ramírez) | «**Ay, diablos, ahí va.**» (el «Bloody hell, here we go») | P8 00:33:45 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/8/8f/HP8RonWeasley-1.ogg)) | ✅ |
+| Harry (Víctor Ugarte) | «Y no sé qué, pero lo quiere con desesperación… **Me ponen los pelos de punta.**» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/3/32/HP7HarryPotter-1.ogg)) | ✅ sentido |
 | **El vociferador** (Molly: Carmen Martínez) | «**¡Ronald Weasley! ¡Cómo osaste robar el auto! ¡Estoy verdaderamente enojada!** ¡Ahora tu padre enfrenta una averiguación y tienes toda la culpa! ¡Si te atreves una vez más a desobedecer, te regresaré a casa!» … «Ginny, cariño, felicidades por entrar a Gryffindor. **Estamos muy orgullosos.**» | P2 00:34:28 · vídeo [«Howler in different languages», 15:55-16:26](https://www.youtube.com/watch?v=3KNNglv24a0&t=955) (tramo «Latin Spanish») | ✅ oído (Whisper *medium*; escribió «Wisley» y «Chini»). El sentido coincide con el inglés. **Es el grito y la posdata amable en un solo aviso** |
 | Alumnos, en el desayuno | «¡Ay, no! **¡Miren nada más! ¡Weasley recibió un vociferador!**» · Neville: «¡Ábrela, Ronald! Una vez no abrí una de la abuela. ¡Fue horrible!» | P2 00:34:11 · mismo vídeo, [15:35-15:48](https://www.youtube.com/watch?v=3KNNglv24a0&t=935) | ✅ oído. En latino es **«vociferador»** |
-| Molly (Carmen Martínez) | «Camas vacías, ninguna nota, ni el auto. Pudieron haber muerto…» · «**Ven, Harry, vamos a almorzar.**» | P2 ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/01/HP2MollyWeasley-1.ogg)) | ✅ sentido |
-| Hagrid (Humberto Solórzano) | «**Ahora escúchenme, esto es serio.** … Es peligroso. … No debí decirlo. No debí decir eso.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/8/83/HP1RubeusHagrid-1.ogg)) | ✅ sentido. Su manía: se le escapa algo y se arrepiente |
-| Harry (Arturo Castañeda) | «¿No lo ven? **¡Nos equivocamos!** Snape no quiere la piedra para él mismo. Quiere la piedra para Voldemort.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/a9/HP1HarryPotter-1.ogg)) | ✅ sentido |
+| Molly (Carmen Martínez) | «Camas vacías, ninguna nota, ni el auto. Pudieron haber muerto…» · «**Ven, Harry, vamos a almorzar.**» | P2 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/0/01/HP2MollyWeasley-1.ogg)) | ✅ sentido |
+| Hagrid (Humberto Solórzano) | «**Ahora escúchenme, esto es serio.** … Es peligroso. … No debí decirlo. No debí decir eso.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/8/83/HP1RubeusHagrid-1.ogg)) | ✅ sentido. Su manía: se le escapa algo y se arrepiente |
+| Harry (Arturo Castañeda) | «¿No lo ven? **¡Nos equivocamos!** Snape no quiere la piedra para él mismo. Quiere la piedra para Voldemort.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/a/a9/HP1HarryPotter-1.ogg)) | ✅ sentido |
 
 **La voz de los insertos: El Profeta leído en voz alta** (cierre, 24-sep-2026).
 En el doblaje latino, cuando sale texto en pantalla (títulos, titulares,
@@ -1205,22 +1218,22 @@ sale de los subtítulos en inglés que rodean la escena.
 
 | Qué se lee | Texto del doblaje latino | Dónde | Estado |
 |---|---|---|---|
-| **Cartel del examen** (P5) | «**Silencio. TIMOS en progreso.** Examen de teoría de encantamientos. Comienza a las 16 horas, termina a las 18.» | P5 ≈01:34:20 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/2b/HP5Logo-1.ogg), 0:00-0:05) | ✅ oído. **Un aviso oficial, tal cual** |
+| **Cartel del examen** (P5) | «**Silencio. TIMOS en progreso.** Examen de teoría de encantamientos. Comienza a las 16 horas, termina a las 18.» | P5 ≈01:34:20 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/2/2b/HP5Logo-1.ogg), 0:00-0:05) | ✅ oído. **Un aviso oficial, tal cual** |
 | **Titulares de El Profeta** (P5, final) | «**Dumbledore y Potter reivindicados.** ¿Renunciará el ministro? Nuevo residente de Azkaban. Umbridge suspendida. Investigación pendiente. El que no debe ser nombrado, regresa. **Director de Hogwarts, restituido.**» | P5 02:03:25-02:04:35 (misma muestra, 0:06-0:21) | ✅ oído. Voz: Helgar Pedrini (Doblaje Wiki) |
-| **Titular de El Profeta** (P6, inicio) | «**Harry Potter, el elegido.** Se derrumba puente. Aumenta el número de muertos.» · y el libro: «Recetas de pociones avanzadas» | P6 ≈00:03:15 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/a8/HP6Insertos-2.ogg)) | ✅ oído |
-| Cartel y cierre (P8) | «Indeseable número 1, Harry Potter.» · «**19 años después.**» | P8, cartel y rótulo del epílogo ≈01:54 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/5c/HP8Insertos-1.ogg)) | ✅ oído |
-| Título (P1) | «Harry Potter y la piedra filosofal.» (Francisco Colmenero; hay otra versión de TV con Pedrini) | P1, [muestra](https://static.wikia.nocookie.net/doblaje/images/9/96/HP1Logo-1.ogg) | ✅ oído; los dos narradores, Doblaje Wiki y [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_la_piedra_filosofal_(Latin_American_Spanish)) (dos versiones del título) |
-| Tráileres doblados | P3: «**Este año** la hechicería se desencadenará y una fuerza siniestra llegará. Todo lo que esperabas se transformará.» · P4: «Este año, su mayor desafío será su momento más sombrío.» · P5: «Este año, la tiranía llegará y la rebelión comenzará.» · P6: «Este año la maldad pasará de su mundo hacia el nuestro y la hora más oscura está a punto de llegar.» | muestras [P3](https://static.wikia.nocookie.net/doblaje/images/d/db/HP3NarradorT.ogg), [P4](https://static.wikia.nocookie.net/doblaje/images/f/f2/HP4NarracionT.ogg), [P5](https://static.wikia.nocookie.net/doblaje/images/5/57/HP5LogoT-1.ogg), [P6](https://static.wikia.nocookie.net/doblaje/images/1/18/HP6InsertosT-1.ogg) | ✅ oído. La fórmula «**Este año…**» es la voz de los anuncios de la saga |
+| **Titular de El Profeta** (P6, inicio) | «**Harry Potter, el elegido.** Se derrumba puente. Aumenta el número de muertos.» · y el libro: «Recetas de pociones avanzadas» | P6 ≈00:03:15 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/a/a8/HP6Insertos-2.ogg)) | ✅ oído |
+| Cartel y cierre (P8) | «Indeseable número 1, Harry Potter.» · «**19 años después.**» | P8, cartel y rótulo del epílogo ≈01:54 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/5/5c/HP8Insertos-1.ogg)) | ✅ oído |
+| Título (P1) | «Harry Potter y la piedra filosofal.» (Francisco Colmenero; hay otra versión de TV con Pedrini) | P1, [muestra](https://static.wikia.nocookie.net/doblaje/es/images/9/96/HP1Logo-1.ogg) | ✅ oído; los dos narradores, Doblaje Wiki y [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_la_piedra_filosofal_(Latin_American_Spanish)) (dos versiones del título) |
+| Tráileres doblados | P3: «**Este año** la hechicería se desencadenará y una fuerza siniestra llegará. Todo lo que esperabas se transformará.» · P4: «Este año, su mayor desafío será su momento más sombrío.» · P5: «Este año, la tiranía llegará y la rebelión comenzará.» · P6: «Este año la maldad pasará de su mundo hacia el nuestro y la hora más oscura está a punto de llegar.» | muestras [P3](https://static.wikia.nocookie.net/doblaje/es/images/d/db/HP3NarradorT.ogg), [P4](https://static.wikia.nocookie.net/doblaje/es/images/f/f2/HP4NarracionT.ogg), [P5](https://static.wikia.nocookie.net/doblaje/es/images/5/57/HP5LogoT-1.ogg), [P6](https://static.wikia.nocookie.net/doblaje/es/images/1/18/HP6InsertosT-1.ogg) | ✅ oído. La fórmula «**Este año…**» es la voz de los anuncios de la saga |
 
 **Más frases de personajes** (muestras nuevas, Whisper *medium*):
 
 | Personaje | Frase del doblaje latino | Dónde | Estado |
 |---|---|---|---|
-| **Flitwick** (Jorge Roig) | «Una de las habilidades más rudimentarias de los magos es la levitación… ¿Todos tienen sus plumas? Bien. Ahora, no olviden el movimiento de muñeca que practicamos… Y digan lo siguiente: *Wingardium leviosa*. **¡Miren todos! La señorita Granger lo hizo. ¡Espléndido!**» | P1 01:05:57 ([muestra](https://static.wikia.nocookie.net/doblaje/images/6/67/HP1FiliusFlitwick-1.ogg)) | ✅ sentido (igual que el guion inglés; Whisper escribió «evitación» y no entendió el «swish and flick») |
-| **Dumbledore** (César Arias) | «Te prometí que podrías acompañarme y me apego a esa promesa, pero con una condición. Debes obedecer sin cuestionar cualquier orden que te dé. **Si te digo que te escondas, te escondes. Si te digo que corras, corres.**» | P6 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/aa/HP6AlbusDumbledore-1.ogg)) | ✅ sentido. Una norma dicha con calma |
-| Dumbledore | «Entiendo cómo te sientes, Harry. No, es mi culpa…» | P5 02:04:35 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/51/HP5AlbusDumbledore-1.ogg)) | ✅ (coincide con «I know how you feel, Harry», 02:04:35) |
-| Dumbledore | «Tú, Harry, que no conociste a tu familia, los ves a tu lado… Esta es la razón por la que mañana cambiará de hogar.» (el espejo de Oesed) | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/51/HP1AlbusDumbledore-1.ogg)) | ✅ sentido |
-| McGonagall (Keta Leonel) | «Sólo le pido que lo que respecta a mis alumnos se conforme con las prácticas disciplinarias tradicionales… **cuestiono sus métodos medievales.**» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/images/7/75/HP5MinervaMcGonagall-1.ogg)) | ✅ sentido |
+| **Flitwick** (Jorge Roig) | «Una de las habilidades más rudimentarias de los magos es la levitación… ¿Todos tienen sus plumas? Bien. Ahora, no olviden el movimiento de muñeca que practicamos… Y digan lo siguiente: *Wingardium leviosa*. **¡Miren todos! La señorita Granger lo hizo. ¡Espléndido!**» | P1 01:05:57 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/6/67/HP1FiliusFlitwick-1.ogg)) | ✅ sentido (igual que el guion inglés; Whisper escribió «evitación» y no entendió el «swish and flick») |
+| **Dumbledore** (César Arias) | «Te prometí que podrías acompañarme y me apego a esa promesa, pero con una condición. Debes obedecer sin cuestionar cualquier orden que te dé. **Si te digo que te escondas, te escondes. Si te digo que corras, corres.**» | P6 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/a/aa/HP6AlbusDumbledore-1.ogg)) | ✅ sentido. Una norma dicha con calma |
+| Dumbledore | «Entiendo cómo te sientes, Harry. No, es mi culpa…» | P5 02:04:35 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/5/51/HP5AlbusDumbledore-1.ogg)) | ✅ (coincide con «I know how you feel, Harry», 02:04:35) |
+| Dumbledore | «Tú, Harry, que no conociste a tu familia, los ves a tu lado… Esta es la razón por la que mañana cambiará de hogar.» (el espejo de Oesed) | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/5/51/HP1AlbusDumbledore-1.ogg)) | ✅ sentido |
+| McGonagall (Keta Leonel) | «Sólo le pido que lo que respecta a mis alumnos se conforme con las prácticas disciplinarias tradicionales… **cuestiono sus métodos medievales.**» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/es/images/7/75/HP5MinervaMcGonagall-1.ogg)) | ✅ sentido |
 
 **Latino frente a España, la misma escena** (vociferador, mismo vídeo):
 España dice «Weasley ha recibido un **Howler**», «¿cómo te atreves a robar
@@ -1828,7 +1841,8 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
   P6 y P8; la dirección de P5 (Wikipedia dice otra cosa); Snape en P7;
   parte del reparto de Hogwarts Legacy; los datos de interés de §10.1.
 - **«Torposoplos»** en el audio de Luna: Whisper *medium* oye «torpo
-  solos» dos veces; la palabra de los libros sí existe en la wiki en español.
+  solos» dos veces y *large-v3* «por posolos»; la palabra de los libros sí
+  existe en la wiki en español. Hace falta oírlo una persona.
 - **«Eres un mago, Harry»** en el audio latino: no hay muestra ni clip.
 - **Una sola fuente**: El Profeta y El Quisquilloso clavados cada día en el
   tablón (la wiki no lo cita), la herramienta de MinaLima para cortar los bordes (Steps to Magic), la
@@ -1846,36 +1860,36 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 | Punto de `ENCARGO.md` | Estado | Por qué |
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | 601 imágenes de la wiki miradas; 100 elegidas en 3 hojas (§2.0): promos, renders del juego, figurines, Pottermore, props de papel, láminas de MinaLima (§2.1), Jim Kay y portadas de Salamandra (§2.5) |
-| 2 · Fotogramas con capítulo y minuto | ✅ | minutos de los subtítulos ingleses (§3) y fotogramas 1080p del vociferador; fotogramas de wiki a 1920×800. El resto de clips, a 160-320 px |
+| 2 · Fotogramas con capítulo y minuto | ✅ | minutos de los subtítulos ingleses (§3); fotogramas 1080p del vociferador y de la sala común de P1 (el tablón), 720p del tráiler de P1; fotogramas de wiki a 1920×800. Los clips de YouTube, sólo a 160-320 px |
 | 3 · Fan art y 3D con licencia | ✅ | 17 modelos de Sketchfab con licencia por la API (§4); fan art de ArtStation y DeviantArt, sólo enlazado |
 | 4 · Fondos, luz, paleta, texturas | ✅ | hex medidos en clips y arte (§5); texturas CC0 de Poly Haven y ambientCG. Texturelabs, licencia sin leer |
 | 5 · Tipografía con tildes | ✅ | 12 letras libres y 6 de fans abiertas con fontTools (§6) |
 | 6 · Cómo hablan en pantalla | ✅ | 9 «cuadros» del mundo (§7.1), juegos (§7.2) y qué NO (§7.3) |
 | 7 · Personajes y popularidad | ✅ | 5 encuestas, fuentes en inglés, japonés y coreano (§9): gana Snape; Hermione siempre arriba |
-| 8 · Doblaje latino con dos fuentes | ⚠️ | reparto principal ✅ con dos fuentes; P1 y P3 ahora con prensa. P4, P5, P6, P8 y 6 voces secundarias, sólo Doblaje Wiki (§10) |
-| 8b · Frases latinas textuales | ✅ | 20 frases (§10.3): muestras de Doblaje Wiki y el vociferador con minuto exacto en vídeo. No hay clips oficiales doblados con subtítulos |
+| 8 · Doblaje latino con dos fuentes | ⚠️ | reparto principal ✅ con dos fuentes; P1 y P2 con sus **créditos de cine**, P3 y P5 (estudio) con Wikipedia y DubDB; 6 voces más pasan a ✅. Siguen con una sola web: estudio y dirección de P4, P6 y P8, la dirección de P5, Snape en P7 (§10) |
+| 8b · Frases latinas textuales | ✅ | unas 30 frases (§10.3): muestras de Doblaje Wiki, el vociferador con minuto exacto en vídeo y **la voz de los insertos** (titulares de El Profeta y carteles leídos en voz alta). No hay clips oficiales doblados que se puedan bajar |
 | 9 · Música | ✅ | compositores con fuente; el coro de ranas visto en el clip de P3 (§11) |
-| 10 · Vídeos con minuto | ✅ | 28 vídeos comprobados, casi todos con enlace `&t=` (§12); 2 mirados con `fotogramas.py` en vídeo real, el resto por *storyboard*. TikTok sin abrir |
-| 11 · Videojuegos: interfaz y diálogo | ✅ | 6 juegos (§13, §7.2); *Hogwarts Mystery* sin capturas |
+| 10 · Vídeos con minuto | ✅ | 33 vídeos, casi todos con enlace al segundo (§12); **7 mirados con `fotogramas.py` en vídeo real**: tráiler y *teaser* de P1, tráiler de P6 (tema principal y tráileres), vociferador, sala común de P1, Dobby libre y Luna (escenas); el resto por *storyboard*. De TikTok, sólo los datos |
+| 11 · Videojuegos: interfaz y diálogo | ✅ | 6 juegos (§13, §7.2); la caja de diálogo de *Hogwarts Mystery* vista y medida |
 | 12 · Lo que ama el fandom y qué NO | ✅ | Reddit por Arctic Shift con votos (§14); 12 «qué NO» |
 | 13 · Descripción profunda y forma de hablar | ✅ | 6 personajes + Snape y McGonagall (§8), con cuerpo visto y voz latina transcrita |
-| 14 · Poses con minuto | ✅ | 6 tablas, 7-11 poses cada una (§15); casi todas vistas en clip u hoja; 3 gestos sin ver |
+| 14 · Poses con minuto | ✅ | 6 tablas, 7-15 poses cada una (§15); casi todas vistas en vídeo, clip u hoja; 2 gestos sin ver (Harry P1, Ron P8) |
 | 15 · Vestuario con hex | ✅ | hex medidos en figurines y promos (§16) |
-| 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta, no |
+| 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta: buscados en DeviantArt, no hay que valgan |
 | 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18) |
-| 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19) |
-| 40 fuentes distintas | ✅ | unas 70 webs distintas enlazadas |
-| Oficiales | ✅ | harrypotter.com, MinaLima, Warner Bros. Games, canales oficiales de YouTube, soporte de Portkey |
+| 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19); el C copia ahora el tablón de la película 1 |
+| 40 fuentes distintas | ✅ | unas 80 webs distintas enlazadas (el cierre añadió Pentagram, DubDB, Moviepedia, Wikipedia en español, O Tempo, IBTimes, IMDb News, ANMTV, Looper, TECHNÈS y Dailymotion) |
+| Oficiales | ✅ | harrypotter.com, MinaLima, Warner Bros. Games, Pentagram (estudio del logo de Hogwarts Legacy), canales oficiales de YouTube, tráileres oficiales en el Internet Archive, créditos de cine del doblaje, soporte de Portkey |
 | Entrevistas al staff | ✅ | MinaLima, Magic Awakened, Hogwarts Legacy, Javier Rivero (su blog), Cuarón (prensa) |
-| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2) |
-| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, doblaje), HP Lexicon, TCRF ✅; TV Tropes da 403; Wayback: la API de disponibilidad responde, las páginas guardadas no bajan |
+| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2, §12.2) y portugués (O Tempo, sobre Eduardo Lima) |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, doblaje), Wikipedia en español, DubDB, Moviepedia (guiones), HP Lexicon, TCRF ✅; TV Tropes sigue en 403 (Cloudflare); Wayback: la API de disponibilidad responde, las páginas guardadas no bajan |
 | Foros y comunidades | ✅ | Reddit por Arctic Shift, foro de dafont |
 | Arte | ✅ | ArtStation, DeviantArt (ArtStation da 403 a la API) |
-| Vídeo | ✅ | YouTube (oficial y análisis), Internet Archive; TikTok sin abrir |
+| Vídeo | ✅ | YouTube (oficial y análisis, por *storyboard*), Internet Archive y Dailymotion (vídeo real), Bilibili y TikTok (datos) |
 | Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab, Poly Haven, ambientCG |
 | Doblaje latino | ✅ | Doblaje Wiki (API y audios), prensa mexicana, entrevistas en YouTube |
 | Hojas (`hojas/`) | ✅ | 3 JPEG de menos de 1 MB, numeradas y descritas (§2.0) |
-| `referencias.json` | ✅ | 40 entradas: la imagen misma (o el vídeo), con ancho y alto medidos, uso y licencia |
+| `referencias.json` | ✅ | 40 entradas: la imagen misma (o el vídeo con su segundo), con ancho y alto medidos, uso y licencia; 3 cambiadas en el cierre (tablón de P1, tráiler de P1, logo latino de P4) |
 
 ---
 
@@ -1883,7 +1897,7 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 
 ### Segunda pasada (24-sep-2026, red abierta)
 
-La hicieron dos ayudantes seguidos. Del primero quedó el texto (§2-§14
+La hicieron tres ayudantes seguidos. Del primero quedó el texto (§2-§14
 corregidos y ampliados) pero se perdió su carpeta de trabajo y **no quedó
 registro de sus búsquedas web**; lo que usó se lee en cada sección y se
 resume aquí.
@@ -1947,19 +1961,65 @@ resume aquí.
   condiciones), `web.archive.org` (el túnel se corta; la API de
   disponibilidad sí confirma que el artículo de Blog Hogwarts está guardado).
 
+**Tercer ayudante (cierre, tarde del 24-sep-2026)**
+- Encontré la biblia más avanzada de lo que decía `ESTADO.md` (1882
+  líneas y 38 marcas de duda, no 1725 y 45): seguí desde ahí.
+- **YouTube**: `fotogramas.py` otra vez («This video is not available») y
+  yt-dlp con `web_safari`, `mweb` y `tv_embedded`: sólo *storyboards* o
+  «Sign in». No insistí más.
+- **Internet Archive** (búsqueda avanzada): «harry potter clip / scene /
+  extrait», «opening / intro / hedwig», «trailer stone / sorcerer»,
+  «trailer azkaban / goblet / phoenix», «latino / doblaje», «dumbledore»,
+  «dobby», «luna lovegood». Sirvieron el tráiler oficial de P1 en 720p, el
+  *teaser* y el fragmento de TECHNÈS (1920×796). Pasados por
+  `fotogramas.py`, fotogramas grandes mirados, colores medidos con Pillow.
+- **Dailymotion** (API de búsqueda: «harry potter leviosa / dumbledore
+  speech / luna lovegood / dobby / escena latino»): sólo copias de fan;
+  bajan a 512 px como mucho. Usé dos (Dobby libre y Luna).
+- **Doblaje Wiki**: lista de sus 637 audios «HP…» por la API; bajé 23 y
+  los pasé por Whisper *medium* (insertos de P1, P3-P6 y P8; Dumbledore de
+  P1, P3, P5 y P6; Flitwick, Filch, Neville, McGonagall, Hagrid, Luna).
+  Búsqueda en su espacio de archivos: «Créditos Harry Potter», «Harry
+  Potter Logo Español» → **créditos de cine de P1 y P2** y logos latinos de
+  P1, P2, P3 y P4, mirados.
+- **Wikipedia en español por su API** (con el título bien codificado ya
+  responde; a ratos 429): P1-P8 y el anexo de reparto. Doblaje Latino Wiki:
+  casi vacía. **DubDB** (dubdb.fandom.com): fichas de P1, P2 y P3.
+- **Harry Potter Wiki**: búsquedas de texto («Quibbler upside down»,
+  «notice board Daily Prophet Quibbler», «raised her hand», «Dobby hats»),
+  archivos de *Hogwarts Mystery* y «Hermione with her Hand Up».
+  **Moviepedia**: guiones transcritos de P1 y P6.
+- **Subtítulos ingleses** (raw de GitHub; la API de GitHub no está
+  habilitada en esta sesión): P1-P8, para los minutos nuevos.
+- **Buscador web** (8 búsquedas): «MTV "Harry Potter World Cup" Snape wins
+  2011» (inglés); «Harry Potter redoblaje argentino 2019 Caja de Ruidos
+  Alejandro Bono» (español); «"Caxambu" "Daily Prophet" MinaLima weather»
+  (inglés); «Eduardo Lima Caxambu Profeta Diário Harry Potter cidade»
+  (portugués); «Hogwarts Legacy doblaje latino voces Jaime Vega…»
+  (español); «Hogwarts Legacy logo font Tongari Tautz» (inglés);
+  «"Somebody broke into Gringotts. Listen" Harry transcript» (inglés);
+  «Fanpop poll saddest Harry Potter death Fred Weasley percent» (inglés).
+- **Leído con curl**: Pentagram, ANMTV, O Tempo, Rede NoticiaZ, IBTimes,
+  Dispatch, Looper, HP Lexicon, Bilibili (datos con yt-dlp), TikTok
+  (*oEmbed*), DeviantArt (RSS). **fontTools** sobre Cinzel.
+- **Fallan**: Fanpop y TV Tropes (403, Cloudflare), Texturelabs (202),
+  `web.archive.org` (el túnel se corta), WebFetch (bloqueado; usé curl).
+
 **Lo que sigue sin encontrarse (2.ª pasada)**
 - Un clip oficial doblado al latino con subtítulos o audio que se pueda
   bajar.
-- Segunda fuente para el estudio y la dirección de P4, P5, P6 y P8.
+- Segunda fuente para el estudio y la dirección de P4, P6 y P8, y para la
+  dirección de P5 (créditos de cine sólo encontré de P1 y P2).
 - La letra de los menús de Hogwarts Legacy y un modelo 3D libre de El
   Profeta o del atril.
 - Una encuesta de popularidad hecha en Latinoamérica.
-- El clip oficial del desayuno de P1 (quién lee El Profeta sale sólo de la
-  wiki).
+- El clip oficial del desayuno de P1 (quién lee El Profeta ya está
+  confirmado por el guion; el gesto, sin ver).
 
 **Marcas de duda** (contadas con `grep -o` sobre el símbolo en
 `biblia.md`; el número incluye la leyenda): **55 antes de la segunda pasada → 57 cuando se
-cortó el primer ayudante → 38 al cerrar**.
+cortó el primer ayudante → 38 al cerrar el segundo → 22 al cerrar el
+tercero**.
 
 ### Primera pasada (24-sep-2026, red cerrada)
 
