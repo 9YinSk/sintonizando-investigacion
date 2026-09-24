@@ -16,6 +16,7 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
 - Ningún encargo del lote F trae wiki de Fandom: las encontré a mano (lista en este archivo, abajo).
+- **Aviso a `recolectar.py`** (bug real, puede afectar a otras series con nombre ambiguo): en 79-demon-slayer-paisajes-y-auras, el AniList y los juegos de Steam que trajo `--hojas` correspondían a otra obra («Onigiri», AniList id 21612), no a Kimetsu no Yaiba. El investigador de texto lo detectó, lo anotó y repitió las consultas a mano con el id correcto (101922). No toqué el script; lo dejo anotado por si el dueño quiere que alguien lo arregle.
 
 ## Wikis de Fandom del lote
 
@@ -54,3 +55,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 78-vinland-saga | video | sonnet | 19 | 222410 |
 | 77-wistoria-wand-and-sword | redactor (opus) | opus | 19 | 339142 |
 | 78-vinland-saga | video (relanzo) | sonnet | 7 | 116043 |
+| 79-demon-slayer-paisajes-y-auras | texto | sonnet | 11 | (pendiente) |
