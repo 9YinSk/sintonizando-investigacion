@@ -6,7 +6,7 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 ## Estado
 
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
-- 77 Wistoria: 4 investigadores (Sonnet) en marcha desde 21:55 UTC.
+- 77 Wistoria: 4 investigadores (Sonnet) COMPLETOS (imagen, video, voz, texto), nada obligatorio pendiente. Redactor (Opus) lanzado 22:10 UTC.
 - 78-82: recolectando datos (gratis), con su wiki de Fandom.
 
 ## Avisos para el dueño
@@ -44,3 +44,5 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 |---|---|---|---|---|
 | 77-wistoria-wand-and-sword | video | sonnet | 13 | 177307 |
 | 77-wistoria-wand-and-sword | texto | sonnet | 13 | 255268 |
+| 77-wistoria-wand-and-sword | imagen | sonnet | 16 | 217946 |
+| 77-wistoria-wand-and-sword | voz | sonnet | 16 | 235722 |
