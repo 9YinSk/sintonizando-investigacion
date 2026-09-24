@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/174576_
@@ -145,6 +145,26 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Wistoria%3A_Wand_and_Sword#Datos%20d
 
 - Para la segunda temporada, el filtro de voz del Decapitado es más alterado.
 
+## Will Serfort · Personality (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Will_Serfort#Personality_
+
+"Tenderhearted and hardworking, he is the oldest at the orphanage and often required to practice self-restraint, but he never shows disgruntlement. On the one hand, that's extremely helpful, but on the other, it makes me feel like a failure as an adult. He seems to have developed a complex about being unable to use magic. But, and I feel bad for Will for saying this, I simply don't think he has that special power in him. That boy is far too different. If it were possible, I'd like to stay by his side to watch over him forever. May the blessing of the Mage Queen be with him." — Will in his youth according with Ashley Serfort. Will is a hardworking, honest and diligent young man who is far too kind. He desperately tries to not fail in the academy due to his childhood promise with Elfaria of becoming Magia Vander and seeing the sunset atop the tower. Although he doesn't fight back when…
+
+## Will Serfort · Abilities (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Will_Serfort#Abilities_
+
+Wis (): Will has a unique ability known as Wis, that allows him to absorb spells and load them into his sword, turning it into a magical sword, his eyes change color whenever he absorbs a spell from its perspective element. He can only maintain this state for 50 minutes. It was later revealed that his body hoards and stores up magic but is unable to release it normally. *Fully Charged: After training with Cerridwen, Will is now able to load spells from thoughts, emotions, feelings, and memories, although this consumes more magic power and is harder to maintain as it is coming from him rather than an outside source. The Wis activated this way have the word "Reloaded" added at the end of the name. **Feelings Charged: Following his training with Zeo Thorzeus Reinbolt, Will can switch the spells that have been loaded via Prime Pathos. When activated, the word "Tactical Reload" is added at…
+
+## Elfaria Albis Serfort · Personality (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Personality_
+
+"A mischievous natural-born leader, she is infatuated with Will, and I can never predict what she might get up to. On top of that, her magical skill already easily exceeds my own, so I cannot control her at all. I suspect that Elfaria will cause a revolution in our world of magic, but if by chance Will isn't there, then... She'd make the whole world her enemy. I have no doubt about that. Will, please look after her. I beg you. I'm sorry I'm such a powerless foster father." — Ashley Serfort on Elfaria. Elfaria is a kind, loving, yet slightly childish young woman who has never looked down on Will. Ever since their days at the orphanage, she has believed that he was kind and braver than most others. In fact, she displays an inseparable and unwavering affection toward him; Elfaria has seen Will as the exact other half needed to complete her life. Her love for Will is still very much intact…
+
+## Elfaria Albis Serfort · Abilities (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Abilities_
+
+Elfaria is a talented and prodigious mage. Aside from being the youngest Magia Vander in history, she also holds the record for the most spells created by a single mage (a total of twelve, the first of which she created at the age of two) having etched her name in history in such a early age . Her magical power was so immense from childhood that Ashley admitted being unable to contain her, having been overpowered by her when she was just five years old. Not to mention that she only spent a year at the academy until she was immediately sent to the Tower around the age of ten. Elfaria has apparently managed to defeat another one of the Magia Vander, Ellenor Ljos Alf in a magic duel, albeit it was limited to Elfaria's specialty of an duel using only ice magic. She also managed to fight Zeo Thorzeus Reinbolt, another one of the Magia Vander, on equal terms. Sarissa adds that she is also the…
+
 ## Los personajes más dibujados por los fans (Danbooru, 86 dibujos de «tsue_to_tsurugi_no_wistoria»)
 _Fuente: https://danbooru.donmai.us/posts?tags=tsue_to_tsurugi_no_wistoria_
 
@@ -201,3 +221,26 @@ _Fuente: https://api.dailymotion.com_
 - Wistoria: Wand and Sword - Der offizielle Trailer zum Anime · 0:34 · MeinMMO · 1377 vistas · https://www.dailymotion.com/video/x911e0u
 - In Wistoria: Wand and Sword Season 2 muss Will seine Grenzen übersteigen, um seine… · 2:14 · GamePro · 1044 vistas · https://www.dailymotion.com/video/xa40wf2
 - Wistoria: Wand and Sword Saison 1 - Official Trailer [Subtitled] (EN) · 0:44 · BetaSeries · 654 vistas · https://www.dailymotion.com/video/x90wqa6
+
+## Reddit r/Wistoria: lo que ama y discute el fandom (títulos de hilos)
+_Fuente: https://www.reddit.com/r/Wistoria_
+
+**«favorite character»**
+- (221 votos, 79 comentarios) Which character is your least favorite in Will’s group? · https://www.reddit.com/r/Wistoria/comments/1v85jxs/which_character_is_your_least_favorite_in_wills/
+- (220 votos, 20 comentarios) Which character from Wistoria is your favorite? · https://www.reddit.com/r/Wistoria/comments/1r3gf1r/which_character_from_wistoria_is_your_favorite/
+- (142 votos, 55 comentarios) Who’s your favorite character in Will’s group? · https://www.reddit.com/r/Wistoria/comments/1v6pdeo/whos_your_favorite_character_in_wills_group/
+- (134 votos, 17 comentarios) Who is your favorite character from wistaria? · https://www.reddit.com/r/Wistoria/comments/1kopzli/who_is_your_favorite_character_from_wistaria/
+- (126 votos, 11 comentarios) What do you guys think of this Team and who is your favorite character from here · https://www.reddit.com/r/Wistoria/comments/1rnttz8/what_do_you_guys_think_of_this_team_and_who_is/
+- (61 votos, 12 comentarios) 🏆 Summer 2024 Anime Awards 🏆 Results for Favorite Supporting Female Character Polls · https://www.reddit.com/r/Wistoria/comments/1g11ski/summer_2024_anime_awards_results_for_favorite/
+**«why I love»**
+- (25 votos, 0 comentarios) I love that Sion has cat eyes and Julius has puppy eyes, which is why they don't get along, because they are opposites,… · https://www.reddit.com/r/Wistoria/comments/1msztht/i_love_that_sion_has_cat_eyes_and_julius_has/
+- (16 votos, 7 comentarios) I love everything about Wistoria, but I don’t understand why there is so little merchandise for it. I’d love to see an… · https://www.reddit.com/r/Wistoria/comments/1un67gk/i_love_everything_about_wistoria_but_i_dont/
+- (14 votos, 0 comentarios) I love how Will recognizes the real Julius, even at his toughest and most arrogant. Will tells him he's kind, and… · https://www.reddit.com/r/Wistoria/comments/1ungdsa/i_love_how_will_recognizes_the_real_julius_even/
+- (5 votos, 0 comentarios) I love how they all embody imperfection, but that's what makes them perfect. They all understand that even with a great… · https://www.reddit.com/r/Wistoria/comments/1u0c9il/i_love_how_they_all_embody_imperfection_but_thats/
+- (1 votos, 0 comentarios) This is why I believe their love has gone beyond the boundaries of pure love. · https://www.reddit.com/r/Wistoria/comments/1whm5ln/this_is_why_i_believe_their_love_has_gone_beyond/
+- (1 votos, 0 comentarios) This is why I believe their love has gone beyond the boundaries of pure love. · https://www.reddit.com/r/Wistoria/comments/1whm3ht/this_is_why_i_believe_their_love_has_gone_beyond/
+**«best scene»**
+- (28 votos, 2 comentarios) wow I teared up during the GANBARE SCENE BEST EPISODE TO DATE ! Wistoria: Wand and Sword Season 2 Episode 4 Reaction… · https://www.reddit.com/r/Wistoria/comments/1t2fwh6/wow_i_teared_up_during_the_ganbare_scene_best/
+- (5 votos, 5 comentarios) This scene is so lovely! Also Lihanna is the best girl！ · https://www.reddit.com/r/Wistoria/comments/1t9hd1f/this_scene_is_so_lovely_also_lihanna_is_the_best/
+**«unpopular opinion»**
+**«iconic»**

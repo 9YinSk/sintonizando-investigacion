@@ -4,13 +4,55 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/174576_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/174576-6stJnscy5rCi.jpg
+
+## Will Serfort: las imágenes más grandes de la wiki (17 en total)
+_Fuente: https://wistoria.fandom.com/wiki/Will_Serfort_
+
+- 2230×1600 · Zephros Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/6/69/Zephros_Wis.png
+- 2230×1600 · Melgitor.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c1/Melgitor.png
+- 2230×1600 · Ignis Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c0/Ignis_Wis.png
+- 2230×1600 · Glauss Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/30/Glauss_Wis.png
+- 2230×1600 · Fulbeth Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/a4/Fulbeth_Wis.png
+- 2230×1600 · Dax Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/Dax_Wis.png
+- 780×1600 · Will Serfort - Anime Design.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c6/Will_Serfort_-_Anime_Design.png
+- 780×1600 · Will Serfort (Thorzeus Fasce) - Anime Design.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Will_Serfort_%28Thorzeus_Fasce%29_-_Anime_Design.png
+- 748×1384 · Will Serfort (High Mage) - Anime Design.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/0/0d/Will_Serfort_%28High_Mage%29_-_Anime_Design.png
+- 836×1200 · Albis Wis.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/5b/Albis_Wis.png
+
+## Will Serfort · Appearance (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Will_Serfort#Appearance_
+
+Will has purple/blue eyes and messy black hair with a long ahoge. Though he looks thin, he is actually quite muscular with numerous scars from battles in the dungeon. He usually wears his uniform consisting of a white shirt, black pants, a bolo tie, and black student robe with gold accents along with his glasses. When he goes to the dungeon, he wears clothes made by Rosti consisting of a striped shirt, black pants, two belts, black gloves, a shorter robe than his usual one, and the goggles given to him by his childhood friend Elfaria. Whenever he fights, he pulls down the goggles over his eyes. === Gallery === Will Serfort - Anime Design.png|Student Uniform Will Serfort (High Mage) - Anime Design.png|High Mage Outfit
+
+## Elfaria Albis Serfort: las imágenes más grandes de la wiki (5 en total)
+_Fuente: https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort_
+
+- 1304×1719 · Elfaria Alvis Serholt.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/b/ba/Elfaria_Alvis_Serholt.png
+- 780×1600 · Elfaria Albis Serfort - Anime Design.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/7/7f/Elfaria_Albis_Serfort_-_Anime_Design.png
+- 1179×654 · Elfie and Will.jpg.jpg · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Elfie_and_Will.jpg.jpg
+- 891×633 · Little Elfaria.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/3f/Little_Elfaria.png
+- 430×478 · Little Elfie and Will.png · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/4/45/Little_Elfie_and_Will.png
+
+## Elfaria Albis Serfort · Appearance (texto de la wiki)
+_Fuente: https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort#Appearance_
+
+Elfaria is an extremely beautiful young woman with blue eyes and long light blue hair with light blue long eyelashes - which causes people to compare her to a saint or a ethereal beauty with a very voluptuous body that contrasts her delicate face Will describes her eyes as jewels from the sea and her hair as silky and smooth he also stated she has a striking beautiful face. She wears the Holy Shroud of Diamond Dust, a gold trimmed white dress consisting of the main dress with a diamond shaped crystal above her chest, knee covers, and a cloak that stretches down from her upper arms. When she was a child Elfaria had short, shoulder-length hair,and a cyan blue dress with some ruffles and sandals, Young Will says she looks like a young fairy-tale princess, thanks to her angelic appearance that contrasts with her mischievous personality.. As a student, she wore her uniform consisting of a…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de wistoria.fandom.com (2 páginas y sus galerías)…
+  20 imágenes enlazadas, 14 grandes → 1 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/wistoria-wand-and-sword
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
