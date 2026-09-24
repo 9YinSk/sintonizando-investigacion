@@ -1594,11 +1594,11 @@ hay de imagen está en los vídeos de §2.
 
 | Escena | Capítulo | Qué pasa y por qué duele | Fuente |
 |---|---|---|---|
-| **La transmutación humana** | ⚠️ sin confirmar: la parte de voz dice ep. 1; el listado de música, ep. 4 (18:29-20:57); el ep. 1 abre con McDougal (§12.3) | los niños intentan revivir a su madre; Ed pierde la pierna y Al el cuerpo; Ed da su brazo para atar el alma de Al a la armadura | Univision; wiki ✅ (el episodio, ⚠️) |
+| **La transmutación humana** | ⚠️ sin confirmar: la parte de voz dice ep. 1; el listado de música, ep. 4 (18:29-20:57); el ep. 1 abre con McDougal (§12.3) | los niños intentan revivir a su madre; Ed pierde la pierna y luego el brazo, Al el cuerpo entero; Ed ata el alma de Al a una armadura (AniList) | Univision; wiki ✅ (el episodio, ⚠️) |
 | **Nina Tucker** | **ep. 4** | su padre la convierte en quimera; «el momento más triste y horrible que pueda existir» | Univision + wiki + Doblaje Wiki ✅ |
 | **La muerte de Hughes** | **ep. 10** «Separate Destinations» | Envidia, disfrazado de su esposa, le dispara en una cabina de teléfono; suena «Requiem for the Brigadier General» (16:45-18:49 ⚠️) | CBR + OtakuKart ✅ |
 | **Elicia en el entierro** | ep. 10-11 ⚠️ | explicarle a la niña pequeña que su papá ha muerto | Univision ⚠️ |
-| **Al se sacrifica** | final ⚠️ | da su alma para devolverle el brazo a Ed; la armadura queda tendida (E8, blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435)) | Univision ✅ |
+| **Al se sacrifica** | final ⚠️ | se sacrifica por Ed; la armadura queda tendida (E8, blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435)) | Univision ✅ |
 | **Hohenheim muere** | final ⚠️ | por fin su hijo le mira con respeto | Univision ⚠️ |
 | **El final** | ep. 64 | Ed se declara a Winry; toda la «familia» reunida; los hermanos de espaldas ante Resembool (E22, [1:51](https://archive.org/download/turner_video_11409/11409.mp4?t=111)) | Univision ✅ |
 
