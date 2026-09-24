@@ -38,7 +38,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 > Haz la tanda S4 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/13-rick-and-morty.md`, `encargos/14-adventure-time-hora-de-aventura.md`, `encargos/15-spongebob-bob-esponja.md`, `encargos/16-neon-genesis-evangelion.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 13-rick-and-morty
-- [ ] 14-adventure-time-hora-de-aventura
+- [x] 14-adventure-time-hora-de-aventura
 - [ ] 15-spongebob-bob-esponja
 - [ ] 16-neon-genesis-evangelion
 
