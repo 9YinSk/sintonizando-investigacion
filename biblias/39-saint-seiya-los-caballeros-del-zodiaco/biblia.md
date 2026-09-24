@@ -771,3 +771,107 @@ del clip clásico se lee «Athena».
 - No hay clips oficiales del doblaje clásico en Dailymotion o Archive:
   sólo subidas de fans. YouTube estaba bloqueado.
 
+## 11 · Música y sonido
+
+### 11.1 Openings y endings
+
+| Tema | Quién | Fuente |
+|---|---|---|
+| **«ペガサス幻想» (Pegasus Fantasy)**, opening 1 de 1986 | voz y arreglo **MAKE UP** (Columbia); letra **Machiko Ryū**; composición **Hiroaki Matsuzawa** y **Nobuo Yamada**; música de la serie **Seiji Yokoyama** | ✅ cartela del propio opening ([0:39](https://www.dailymotion.com/video/x8ckt3d?t=39)) y [MusicBrainz](https://musicbrainz.org/ws/2/recording?query=title:ペガサス幻想) (covers de ANIMETAL y 石原慎一) |
+| Opening 2 y ending 2 de la serie clásica | **Hironobu Kageyama** y **Broadway** | ⚠️ sólo AniList (títulos no están en las partes) |
+| Opening y ending 1 | MAKE UP | ✅ AniList + cartela |
+| **«Pegasus Seiya»**, opening de Netflix 2019 (en inglés) | **THE STRUTS** (Universal); letra Machiko Ryu, letra inglesa **Tim Jensen**; música Matsuzawa y Yamada | ✅ cartela a la 1:35 de los ep. 1 y 6 |
+| **«約束の明日へ» (Hacia el mañana prometido)**, ending de *Soul of Gold* (2015) | **√5 (ROOT FIVE)**; letra Mio Aoyama | ✅ cartela ([x33qu48, 1:03](https://www.dailymotion.com/video/x33qu48?t=63)) y [MusicBrainz](https://musicbrainz.org/ws/2/recording?query=title:約束の明日へ) |
+| Versiones de fuera | Francia, **Bernard Minet**; Brasil, **Edu Falaschi**; canción de inserto, **Mitsuko Horie** | ⚠️ AniList |
+
+El **ending de 1986** con su título japonés **no se encontró** ⚠️
+(ja.wikipedia dio límite de peticiones, ANN bloqueó, Jikan caído).
+
+**En latino**: el opening se cantó en español (clips en Dailymotion:
+[HobbyConsolas](https://www.dailymotion.com/video/x40b8i1), «SAINt SEIYA
+OPENING MEXICO» [x1mjv7](https://www.dailymotion.com/video/x1mjv7)). La
+adaptación musical la firmó **Mauren Mendo** (Doblaje Wiki, parte de
+voz) ⚠️; el texto de la letra latina no está en las partes.
+
+### 11.2 La banda sonora ✅
+
+- **Seiji Yokoyama** (横山菁児): más de 15 discos «聖闘士星矢 音楽集»
+  en MusicBrainz, desde el [primero (1987)](https://musicbrainz.org/release-group/7153d9e7-8d2d-4d27-9211-ea80de20494e)
+  hasta el de Hades (1990) y *Heaven Chapter* (2004).
+- Suena a **orquesta sinfónica con coros y sintetizador**, muy dramática;
+  compases lentos y solemnes en los sacrificios (oído en las escenas).
+- *The Lost Canvas*: **Kaoru Wada** (和田薫); *Saintia Shō*: **Toshihiko
+  Sahashi** (佐橋俊彦) (MusicBrainz).
+- La caja **SAINT SEIYA ETERNAL CD-BOX** y un archivo de música de la
+  serie están en [Internet Archive](https://archive.org/details/cocx-35079-91).
+
+### 11.3 La música de la escena más emotiva ⚠️
+
+En «Dohko rejuvenece» suenan **cuerdas lentas en crescendo** mientras el
+anciano se transforma. **El título de la pista no se sabe** (no hay
+cartela a mitad de episodio) y no se inventa.
+
+### 11.4 Efectos que todos reconocen
+
+- **El grito del nombre de la técnica** antes de golpear («¡Meteoro de
+  Pegaso!»); oído en el clip de las Doce Casas ✅ (audio malo).
+- **El Cosmos que se enciende**: un **crujido de energía** con un **grito
+  largo**, aura alrededor y **grietas en el suelo**; visto en el opening
+  ([0:15](https://www.dailymotion.com/video/x8ckt3d?t=15),
+  [0:33](https://www.dailymotion.com/video/x8ckt3d?t=33)) y en la escena
+  de Dohko (0:24-0:48) ✅.
+- Efectos de sonido de la serie: **Yasuyuki Konno** (AniList) ⚠️.
+
+## 12 · Vídeos y tendencias
+
+### 12.1 Mirados de verdad (con `fotogramas.py` o `episodio.py`)
+
+| Vídeo | Enlace | Qué sirve |
+|---|---|---|
+| Opening 1986 (Espinof, 147 061 vistas) | [x8ckt3d](https://www.dailymotion.com/video/x8ckt3d) | logo 0:09, créditos 0:39, Seiya 1:00 y 1:09 |
+| Ending de *Soul of Gold* | [x33qu48](https://www.dailymotion.com/video/x33qu48) | dorado sobre azul noche, siluetas de fénix y paloma, los 12 dorados en procesión al final: tono **solemne, de despedida** |
+| **Tráiler oficial doblado** de la película de Sony (2023) | [x8k6gzh, 1:40-1:44](https://www.dailymotion.com/video/x8k6gzh?t=100) | tono frío, casa junto al mar, amanecer gris; «MUY PRONTO» y los hashtags #LosCaballerosDelZodiaco #SaintSeiya |
+| Tráiler en versión original (Sensacine, 56 291 vistas) | [x88pdxw](https://www.dailymotion.com/video/x88pdxw) | — |
+| 3 escenas clásicas | §2.1 y §2.2 | Doce Casas, muerte de Athena, Dohko |
+| Netflix 2019, ep. 1, 2, 4 (15 min) y 6 | [Internet Archive](https://archive.org/details/knights-of-the-zodiac-saint-seiya-episode-12) | §2.3 y la ficha de `partes/episodios.md` |
+| Gameplay de *Soldiers' Soul* | [x38o16p](https://www.dailymotion.com/video/x38o16p) | HUD y texto (§7) |
+
+### 12.2 Otros útiles, sin mirar
+
+- Canal **Universo Saint Seiya** en [YouTube](https://www.youtube.com/c/UniversoSaintSeiya),
+  también podcast en [Internet Archive](https://archive.org/details/UniversoSaintSeiya3x02) ✅.
+- «La HISTORIA de SAINT SEIYA | RESUMEN | ¿CÓMO TERMINÓ?»:
+  [youtube.com/watch?v=kAzm9FeWd6Y](https://www.youtube.com/watch?v=kAzm9FeWd6Y)
+  ⚠️ sin minuto (YouTube pidió iniciar sesión).
+- *Legend of Sanctuary* (2014) a 480p en [Internet Archive](https://archive.org/details/SaintSeiyaLegendOfSanctuary2014480p) (14 119 descargas).
+- «Discovering The Lost Saint Seiya Cartoon» en [Internet Archive](https://archive.org/details/youtube-EALBe_cxoDI).
+
+### 12.3 Tendencias ⚠️
+
+En TikTok hay **edits constantes por personaje** («Saint Seiya edit»,
+«Ikki edit», montajes con música, sin voz), pero **no una tendencia
+única** medible. Sin cifras de vistas: TikTok y YouTube no se pudieron
+abrir desde aquí.
+
+## 13 · Videojuegos de la franquicia
+
+Lista de [Wikipedia](https://en.wikipedia.org/wiki/List_of_Saint_Seiya_video_games) ✅.
+
+| Juego | Plataforma y año | Interfaz vista |
+|---|---|---|
+| *Ōgon Densetsu* | Famicom, 1987 (salió antes en Francia) | — |
+| *The Hades* | PS2 | — |
+| *Sanctuary Battle* | PS3, 2011 (Japón) / 2012 (PAL), Dimps y Namco Bandai | — |
+| *Brave Soldiers* | PS3 | — |
+| ***Soldiers' Soul*** («Alma de soldados») | PS3/PS4/**Steam** (app [348710](https://store.steampowered.com/app/348710)), 2015; **doblado al latino** (§10.2) | ✅ **HUD** con medallón dorado y barra negro-rojo-naranja-dorado; **texto flotante sin caja** (§7.1-7.2). Modo **«Batalla de Oro»** (cada dorado juega su historia) y **Torneo Galáctico** |
+| *Omega Ultimate Cosmo* | PSP/Vita | — |
+| ***Saint Seiya Awakening: Knights of the Zodiac*** | móvil, gacha; Tencent Timi Studio y Yoozoo Games, con licencia del equipo Kurumada; global desde junio de 2019 | ✅ equipo con 6 huecos numerados y cartas abajo; modos en **tarjetas grandes** («Jamir Championship», «Saint Arena», «Field of Honor»); invocación con **retículo sobre un cielo de constelaciones**; títulos dorados (§7.4) |
+| Pachinko, pachislot y juegos LCD | Japón | — |
+
+- *Soldiers' Soul* en Steam: [carátula](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348710/header.jpg)
+  460×215 y [captura de combate](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348710/ss_701fa8a22646cc854d6c02a74f3c8ccb9db70be1.1920x1080.jpg)
+  1920×1080 ✅.
+- **No se vio** la caja de diálogo de *Sanctuary Battle*, *Brave
+  Soldiers* ni de los juegos antiguos; tampoco su contenido descartado
+  (TCRF no se consultó) ⚠️.
+
