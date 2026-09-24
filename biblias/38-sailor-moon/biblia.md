@@ -1953,3 +1953,134 @@ imagen lo corrigió y esas imágenes **no** van en `referencias.json`.
 
 ---
 
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y lo que hizo el redactor.
+✅ = confirmado con dos fuentes o visto; ⚠️ = una fuente o por comprobar.
+
+### 29.1 Recolector gratuito (`herramientas/recolectar.py`, 24-sep-2026)
+
+- AniList (ficha, staff, personajes, recomendaciones, enlaces), Doblaje
+  Wiki (ficha y «Datos de interés», por su API), Fandom (páginas y
+  texto), Danbooru (dibujos y etiquetas), Safebooru (fan art), Openverse
+  (fotos libres), Dailymotion, Internet Archive y MusicBrainz.
+- **Fallaron:** AnimeThemes (522), Reddit (no encontró el subreddit),
+  Wallhaven y Sketchfab (vacíos; los rehízo a mano el investigador de
+  imagen). La búsqueda automática de la wiki eligió **páginas
+  equivocadas** («Ami Jr.», «Rei Jr.», «Makoto Hanmatsuura», «Act 47»).
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **Fandom API** (inglés): `list=search` y `action=parse` para Usagi, Ami,
+  Rei, Makoto, Minako, Luna, Tuxedo Mask, Queen Beryl, Chibiusa, Hikawa
+  Shrine, Game Center Crown, Juban.
+- **`investigar_serie.py`** con las 9 páginas correctas: 369 imágenes, 8
+  hojas (7 completas); 3 copiadas a `hojas/`.
+- **Sketchfab API** (inglés): «sailor moon», «moon stick sailor moon»,
+  «sailor moon compact», «luna cat sailor moon», «sailor moon tiara»,
+  «hikawa shrine», «crystal tokyo».
+- **Wallhaven API**: «sailor moon», «sailor moon aesthetic».
+- **ambientCG API**: «fabric», «paper», «marble».
+- **WebSearch** (español e inglés, unas 8): Uniqlo, Samantha Vega,
+  Bandai, cafés de Harajuku, S.H.Figuarts, Fortnite y gachas, «Redraw
+  Challenge», cosplay, World Cosplay Summit, museo del 30.º aniversario.
+- **Mirado con Read:** las 3 hojas, el settei de Serenity, los 6
+  retratos y la carta de Sailor Mars. **Medido con `estilo.py`:** 11
+  imágenes.
+- **No encontró:** sitios en 3D libres; fondo de pantalla oficial;
+  estampado del pijama; detalle técnico de los cosplays; colaboración con
+  un juego externo.
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- **YouTube bloqueado** («Sign in to confirm you're not a bot») todo el
+  día. AnimeThemes: 522, dos veces.
+- **Internet Archive** (`advancedsearch` y `metadata`): «Sailor Moon»,
+  «Sailor Moon Cosmos»; 8 ítems comprobados. Elegidos: EP1 del DVD DiC,
+  película R (VHS) y *Cosmos* parte 2 (latino).
+- **`episodio.py`** sobre los tres (fichas en `partes/episodios.md`);
+  **`fotogramas.py`** para 3 fotogramas del EP1 y 19 del EP39 (1280 px),
+  comprobados en grande; dos identificaciones corregidas por él mismo
+  (una Mercury era Venus).
+- **`estilo.py`** sobre los 3 fotogramas del EP1. **No midió** la copia
+  VHS (color corrido).
+- **Dailymotion API** (español e inglés): opening japonés, opening,
+  transformación y ending latinos, capítulo final latino, tráiler de
+  *Crystal*.
+- **Fandom API**: «opening theme», «Hikawa Shrine», «Crown Game Center»,
+  «Dark Kingdom», «Moon Kingdom», «Silver Millennium», «Takanori
+  Arisawa»; wikitext de canciones, serie y sitios; `imageinfo` de 6
+  sitios y 13 archivos de personajes.
+- **WebSearch** (5, inglés): la escena de Fiore, la tendencia de TikTok,
+  Arisawa.
+- **No encontró:** vídeo-ensayo descargable; TikTok con vistas; el cartel
+  de créditos de T2-T4; el título del EP39 de DiC. ⚠️
+
+### 29.4 Investigador de voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Doblaje Wiki API** (español): Sailor_Moon, Sailor_Moon_R,
+  Sailor_Moon_S, Sailor_Moon_SuperS, Sailor_Moon_Sailor_Stars,
+  Sailor_Moon_Crystal y la película R; búsqueda «Sailor Moon película».
+- **Sailor Moon Wiki API** (inglés): Ami, Minako, Luna, Mamoru, Artemis
+  y Makoto (anime).
+- **7 muestras `.ogg`** de Doblaje Wiki pasadas por `voz.py` (Whisper y
+  Parselmouth).
+- **Fotogramas de emociones:** `fotogramas.py --cortes` sobre el EP1 y el
+  EP39 completos (hojas y comprobaciones propias).
+- **WebSearch** (español e inglés, 16): ANMTV y el elenco de *Crystal*;
+  entrevistas de Patricia Acevedo; Mario Castañeda como Neflyte; fandubs
+  y covers de «Luz de Luna»; encuesta oficial en Japón; *databook*; la
+  frase «en el nombre de la Luna»; feminismo y nostalgia; Reddit y la
+  escena que hace llorar; el cap. 45; memes latinos y qué no hacer;
+  encuesta en México y Perú; cosplay y parodias en TikTok.
+- **Reddit por Arctic Shift:** sin respuesta (dos intentos).
+- **curl directo:** chilevision.cl, pagina7.cl, somoskudasai.com,
+  tododesailormoon.blogspot.com. **Bloqueados:** xiahpop.com
+  (Cloudflare) y aweita.larepublica.pe (política de red).
+- **No encontró:** minuto y música del cap. 45; vistas de fandubs;
+  muestra del doblaje clásico; ficha oficial directa; encuesta de México
+  o Perú; fichas de las Guerreras Externas y Chibiusa; vergüenza de cuatro
+  de ellas y tristeza de Makoto en primer plano (agotó sus 2 tandas).
+
+### 29.5 Investigador de texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **Wiki por su API** (wikitext crudo): Silver Crystal, Moon Stick,
+  Cutie Moon Rod, Spiral Heart Moon Rod, Dark Kingdom, Black Moon Clan,
+  Death Busters, Dead Moon Circus, Shadow Galactica, Silver Millennium,
+  Transformation Brooch, Super Computer, Mercury Visor, Sailor V (video
+  game), Game Center Crown, Influences…
+- **Imágenes propias** medidas y miradas: `Sailorvgame.jpg`,
+  `Sm.gamecentercrown.manga.png`, `M_minisupercomputer.gif`; `imageinfo`
+  de `A_mercurygoggles.jpg` y `Crystal_Brooch.png`.
+- **WebSearch** (inglés, 16): globos del manga; letra del logo; Anime
+  Ace; Heatwave; *eyecatch*; lista de juegos; supercomputadora; juego de
+  Sailor V; influencias de Takeuchi; materiales de Takeuchi; el 3D de
+  *Crystal*; Studio Deen; producción de Toei en cel; TCRF; arcos; planos.
+- **WebFetch:** DeviantArt (el cuadro de letras), CBR (3 artículos),
+  Wikipedia (Takeuchi, juegos), brickme.tumblr.com (entrevista),
+  tuxedounmasked.com (producción), moonkitty.net.
+- **fontTools** sobre 20 letras libres (todas completas) y Anime Ace 2.0
+  BB (sin ¿ ni ¡).
+- **Bloqueados (403, dos intentos cada uno):** wikimoon.org, tcrf.net,
+  gameuidatabase.com; TV Tropes por curl.
+- **No encontró:** letra del logo japonés; capturas de las cajas de los
+  juegos; la letra «OH-no.2»; análisis de encuadres.
+
+### 29.6 Redactor
+
+- Leyó `PETICIONES.md`, `EQUIPO.md`, `ENCARGO.md`, `AYUDANTE.md`, el
+  encargo 38, `servidor/reglas_del_dueno.md`, `servidor/inventario.md`
+  entero (la serie no tiene canal), `DECISIONES.md`, `lotes/D.md`, las
+  cuatro partes, `episodios.md` y los `datos-*.md`.
+- Para proponer canal, miró las funciones de los encargos 01-29 y las
+  propuestas de las biblias 29 a 37 (§0.2).
+- **Miró** las 3 hojas de `hojas/`, la hoja 6 del EP1 (planos 241-288) y
+  8 fotogramas del EP39 (16:52 a 18:51) en una hoja de comprobación
+  propia (fuera del repositorio). De ahí salen las correcciones de §28.2
+  y los detalles del cuarto de Usagi, la silueta de las 16:46 y el Tokio
+  de las 16:20.
+- Midió con Pillow el tamaño de las imágenes de `referencias.json` que
+  no lo tenían. **No hizo búsquedas nuevas.**
+- Juntó las referencias de `partes/*.json`, `partes/datos.json` y el
+  índice de las hojas en `referencias.json`, sin las de las páginas
+  equivocadas.
