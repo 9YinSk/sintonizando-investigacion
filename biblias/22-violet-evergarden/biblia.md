@@ -651,9 +651,27 @@ sólo como contraste: [Adobe Color](https://color.adobe.com/Violet-Evergarden-an
 
 - **El logo**: hay una versión vectorial en
   [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Violet_Evergarden_logo.svg).
-  No encontré qué letra es: los buscadores de fuentes sólo dan letras de
-  fans con ese nombre ⚠️. De memoria es una **romana fina y elegante**,
-  de trazo contrastado ⚠️.
+  El logo es **bilingüe**: katakana arriba y «VIOLET EVERGARDEN» en
+  versalitas muy espaciadas debajo (visto en el tráiler
+  [0:16](https://www.dailymotion.com/video/x7t0he2?t=16) y 1:26 y en el
+  opening 1:24) ✅. **La parte en katakana** usa **本明朝 小がな
+  (Honmincho Komana)**, un mincho comercial de Morisawa «de trazos que
+  fluyen», según el análisis del CSS de la web oficial ⚠️ (una fuente:
+  [わくぱく](https://wakupaku.hmup.jp/blog/blog/design-anime-violetevergarden)).
+  Su equivalente libre: **Shippori Mincho** o **Zen Old Mincho** (OFL).
+  **La parte latina** sigue sin identificar ⚠️: la aproximación libre es
+  Cormorant Garamond o Playfair Display.
+- **La web oficial** usa **Special Elite** en los títulos de página y
+  **Merriweather** en el menú (misma fuente, わくぱく) ✅: Special Elite
+  deja de ser «parecida a ojo» y pasa a ser **la letra real** de la
+  franquicia para lo tecleado. Colores de esa web: fondo `#EFEED9`, texto
+  `#B4832F`.
+- **Cartelas de los tráileres**: frase en japonés en mincho blanco muy
+  espaciado sobre negro, y la traducción en versalitas pequeñas debajo
+  («ERA UN INSTRUMENTO / SIN CORAZÓN», tráiler [0:12](https://www.dailymotion.com/video/x7t0he2?t=12);
+  «AÚN NO CONOCE / EL SIGNIFICADO DE "TE QUIERO"», 1:02 a 1:04) ✅.
+  **Nombre de cada personaje** en pantalla: katakana en mincho con «cv» y
+  el actor debajo, pegado a un lado del plano (tráiler 0:22 a 0:36) ✅.
 - **Las cartas en pantalla**: se ven **escritas a máquina, en el
   alfabeto inventado** de la serie (§6.3), no en letras latinas.
 - **Subtítulos oficiales**: Netflix, letra de sistema. No sirven de estilo.
@@ -676,7 +694,9 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 | **Italiana** | OFL | Rótulo fino de una línea | Letras altas y delgadas |
 | **Pinyon Script** | OFL | **Firmas** («Violet Evergarden») | Caligrafía de pluma |
 | **Great Vibes** / **Lavishly Yours** | OFL | Dirección escrita a mano en un sobre | Letra inglesa de pluma |
-| **Shippori Mincho** | OFL | Algún japonés (自動手記人形) | Mincho clásico, trae también las tildes |
+| **Shippori Mincho** | OFL | Algún japonés (自動手記人形) | Mincho clásico, trae también las tildes; equivalente libre del logo en katakana |
+| **Merriweather** | OFL | Texto largo impreso, alternativa a EB Garamond | **La usa la web oficial** en el menú; tildes, ñ, ¿ y ¡ comprobados con fontTools ✅ (2.ª pasada) |
+| **Zen Old Mincho** | OFL | Japonés de título | Mincho clásico, alternativa a Shippori ⚠️ (tildes sin comprobar) |
 
 ### 6.3 El alfabeto inventado de la serie
 
@@ -689,7 +709,13 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
   [GamezaVon/NunkishTranslation](https://github.com/GamezaVon/NunkishTranslation),
   [Pawitsapak/Conlang-Nunkish](https://github.com/Pawitsapak/Conlang-Nunkish)).
 - En Bilibili hay un artículo que traduce **lo que Violet escribe de
-  verdad** en las cartas: [«薇尔莉特到底写了什么？»](http://www.bilibili.com/read/cv142910) ⚠️ (sin abrir).
+  verdad** en las cartas: [«薇尔莉特到底写了什么？»](http://www.bilibili.com/read/cv142910) ⚠️ (en la 2.ª pasada tampoco cargó: dos intentos).
+- En el opening el alfabeto sale **como tiza clara sobre negro**,
+  flotando (0:09 a 0:12 y 1:21 a 1:24, hoja escenas nº6), y en el ep. 1 la
+  pluma de Violet lo escribe temblando (hoja escenas nº16) ✅.
+- Los fans que lo tratan como idioma lo escriben **Tellsis** (el
+  continente se llama テルシス): [traductor de Kairi003](https://kairi003.github.io/tellsis-translator/)
+  y la letra [«テルシス大陸フォント»](https://www.pixiv.net/en/artworks/76979667) en Pixiv ✅.
 - **Letra de fans**: [JxpoemYui/violet-evergarden-font](https://github.com/JxpoemYui/violet-evergarden-font),
   hecha por 汐月Jxpoem (Bilibili). **Sólo trae A-Z, a-z y 0-9**: **sin
   tildes, sin ñ, sin signos**. Licencia del README: uso libre, pero **no
@@ -697,8 +723,12 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
   lámina de un servidor sin ánimo de lucro vale **como adorno**
   (la cabecera de la carta, el rótulo de una tecla), **nunca para el
   texto que hay que leer**.
-- Otra letra citada en el foro de la wiki: `kkyane.booth.pm/items/1979406`
-  ⚠️ (la vi escrita en un resultado, no la abrí).
+- Otra letra citada en el foro de la wiki, **abierta en la 2.ª pasada**:
+  [«テルシス語フォント (ブロック体＋筆記体)»](https://booth.pm/ja/items/1979406)
+  en booth.pm ✅. **Gratis (¥0)**, hecha a mano copiando el cuadernillo
+  del Blu-ray, con versión de bloque y otra cursiva. **No dice licencia**:
+  igual que la de JxpoemYui, **sólo de adorno**, nunca para texto que haya
+  que leer ni para redistribuir.
 
 ---
 
@@ -706,8 +736,9 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 
 ### 7.1 Lo que la serie pone en pantalla
 
-- **No hay globos.** La obra es novela ligera y anime; no encontré un
-  manga oficial ⚠️ (la novela es de Kana Akatsuki con ilustraciones de Akiko
+- **No hay globos.** La obra es novela ligera y anime; **no hay manga
+  oficial** ✅ (2.ª pasada: las tres entradas «manga» de AniList tienen
+  `format: NOVEL`; la novela es de Kana Akatsuki con ilustraciones de Akiko
   Takase, en KA Esuma Bunko: [KyoAni](https://www.kyotoanimation.co.jp/books/violet/books/)).
 - **La carta es el cuadro de diálogo.** Cuando alguien escribe, **se oye
   su voz leyendo la carta** mientras se ven imágenes. En los subtítulos
@@ -716,10 +747,17 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 - La hoja **en la máquina**: papel crema, texto tecleado con tinta
   oscura, en el alfabeto inventado ✅.
 - **El sobre**: se ven sellos de lacre y la saca del cartero ⚠️ (de
-  memoria).
+  memoria). En la 2.ª pasada sólo se halló una pista indirecta: sellos de
+  lacre de «Violet Evergarden» vendidos como merchandising
+  ([Etsy](https://www.etsy.com/listing/775900036/30mm-violet-evergarden-wax-seal-stamp)).
+  En el vídeo del ending, la carta se cierra con **lacre rojo** (§11), pero
+  es acción real, no la serie ⚠️.
 - Los **pensamientos** de Violet no salen en recuadro: se dicen en voz en
   off o no se dicen. Su cara casi no se mueve; la emoción va en **los
-  ojos y las manos** ⚠️.
+  ojos y las manos** ✅ (2.ª pasada): el director Taichi Ishidate decidió
+  que **Violet no parpadee** («parpadear la haría parecer tonta, porque
+  casi no tiene expresión») y que **mire a la gente de frente**, no de
+  reojo ([entrevista del Fanbook, ATMA & Funomena](https://atmafunomena.wordpress.com/2018/08/26/violet-evergarden-interviews-taichi-ishidate-earnestness-immersion-subtlety/)).
 
 ### 7.2 Cómo hablan (según el subtítulo)
 
@@ -755,7 +793,9 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 
 ### 7.4 En los videojuegos de la franquicia
 
-**No hay videojuego oficial** ✅ (no aparece ninguno en la búsqueda; sólo
+**No hay videojuego oficial** ✅ (no aparece ninguno en la búsqueda; en la
+2.ª pasada tampoco en japonés «公式ゲーム アプリ ノベルゲーム» ni en The
+Cutting Room Floor, que no tiene página de la serie; sólo
 modelos de fans en [VRoid Hub](https://hub.vroid.com/en/characters/7071143261300970946),
 un [mundo de VRChat](https://en.vrcw.net/world/detail/wrld_0cb37037-834e-413a-bc9a-6b9d1537a7eb),
 una [novela visual de fans](https://gbatemp.net/threads/project-violet-evergarden-vn-game-fan-made.504221/)
