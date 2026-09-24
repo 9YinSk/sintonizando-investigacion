@@ -214,7 +214,7 @@ incluye la leyenda). Lo que sigue dudoso y por qué: §20.
   (punto 23).
 - **Marcas de duda**: de **22 a 63**. Las 41 nuevas son de los puntos
   18-25 (una sola fuente o no encontrado), listadas en §20. `revisar.py`:
-  **COMPLETA**, 144 webs distintas, tabla con 36 ✅, 3 ⚠️ y ningún ❌.
+  **COMPLETA**, 144 webs distintas, tabla con 36 hechos, 3 a medias y ninguno sin hacer.
 
 ---
 
