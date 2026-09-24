@@ -6,7 +6,7 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 
 - ✅ 06-spy-x-family: COMPLETA (21:57 UTC). 2420 líneas, 183 referencias, tabla ✅24 ⚠️13 ❌0. Equipo: 1 h de principio a fin.
 - ✅ 07-pok-mon: COMPLETA (22:15 UTC). 2460 líneas, 123 referencias, tabla ✅20 ⚠️10 ❌0. Equipo: 1 h.
-- En marcha: 08-big-hero-6 (redactor, Opus), 09-mafalda (voz; lo demás listo) y 10-k-on (texto, vídeo y voz; imagen lista).
+- En marcha: 08-big-hero-6 y 09-mafalda (redactores, Opus) y 10-k-on (texto, vídeo y voz; imagen lista).
 
 ## Avisos para el dueño
 
@@ -37,3 +37,4 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 | 09-mafalda | texto | sonnet | 24 | 216347 |
 | 09-mafalda | video | sonnet | 19 | 193952 |
 | 10-k-on | imagen | sonnet | 13 | 187907 |
+| 09-mafalda | voz | sonnet | 20 | 219550 |
