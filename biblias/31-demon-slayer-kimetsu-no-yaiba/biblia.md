@@ -884,7 +884,7 @@ HBO Max el 29-sep-2026 (Doblaje Wiki): **justo esta semana**.
 | **Muichiro Tokito** | **Armando Corona** | Kengo Kawanishi | ✅ Doblaje Wiki + resumen de Xataka/Geekmi |
 | Obanai Iguro | Arturo Cataño | Kenichi Suzumura | ⚠️ sólo Doblaje Wiki |
 | Sanemi Shinazugawa | Galo Balcázar | Tomokazu Seki | ⚠️ sólo Doblaje Wiki |
-| Akaza | José Antonio Toledano | Akira Ishida | ⚠️ sólo Doblaje Wiki |
+| Akaza | José Antonio Toledano | Akira Ishida | ✅ Doblaje Wiki + [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/): ganó el Crunchyroll Anime Award 2026 a la mejor voz en español latino por Akaza (§22.1; segunda pasada) |
 | Doma | Alan Fernando Velázquez | Mamoru Miyano | ⚠️ sólo Doblaje Wiki |
 | Aoi Kanzaki | Miriam Aceves | Yuri Ehara | ⚠️ |
 | Sumi / Kiyo / Naho | Rosa Obdulia / **Elizabeth Infante** (la Anya latina) / Jocelyn Meneses | — | ⚠️ |
@@ -1491,14 +1491,16 @@ comprobada con la API de Sketchfab ✅; crédito obligatorio al autor):
 | Tanjiro | Light.k | 33.764 | [Sketchfab](https://sketchfab.com/3d-models/none-0ab5b317b7654fd29255d22182537ded) |
 | Rengoku | Light.k | 59.528 | [Sketchfab](https://sketchfab.com/3d-models/none-91a0c5978dd74ca5a0d4747c89270f99) |
 | Akaza | Light.k | 45.629 | [Sketchfab](https://sketchfab.com/3d-models/none-327741c265db45c1b92ca9f1aeb57e99) |
-| Nezuko (con *shapekeys* de expresión) | AikoX | 122.561 | [Sketchfab](https://sketchfab.com/3d-models/none-c57b6393ddee4c86b28a26c26d7a7a8f) |
-| Tanjiro, Danza del Dios del Fuego | K- | — | [Sketchfab](https://sketchfab.com/3d-models/none-dfebaddf7ec442cc8cf81f561fcb465b) |
-| Tanjiro, uniforme de la Selección Final (con `.blend`) | K- | — | [Sketchfab](https://sketchfab.com/3d-models/none-50ba553d376e45e596eace02e9779c38) |
-| Teoni | Light.k | — | [Sketchfab](https://sketchfab.com/3d-models/none-302c19719a83454b8a18eb4ef30b9678) |
+| Nezuko (con *shapekeys* de expresión) | AikoX («Snow») | 122.561 | [Sketchfab](https://sketchfab.com/3d-models/none-c57b6393ddee4c86b28a26c26d7a7a8f) |
+| Tanjiro, Danza del Dios del Fuego | K- | 1.222.678 (pesado) | [Sketchfab](https://sketchfab.com/3d-models/none-dfebaddf7ec442cc8cf81f561fcb465b) |
+| Tanjiro, uniforme de la Selección Final (con `.blend`; en Sketchfab se llama «Tanjiro Constant Flux») | K- | 2.636.714 (pesado) | [Sketchfab](https://sketchfab.com/3d-models/none-50ba553d376e45e596eace02e9779c38) |
+| Teoni | Light.k | 93.745 | [Sketchfab](https://sketchfab.com/3d-models/none-302c19719a83454b8a18eb4ef30b9678) |
 
 Light.k tiene también **Inosuke, Giyu y Rui** (mismo autor, mismo
 buscador) ⚠️ sin enlace propio en las partes. **No hay Shinobu con *rig***
-entre los encontrados: para ella, recorte de arte oficial (§18).
+entre los encontrados: para ella, recorte de arte oficial (§18). Los de
+**más de un millón de caras** (K-) pueden saturar la PC del dueño (regla
+9): mejor los de Light.k. Caras y autor, leídos en la API de Sketchfab.
 
 ### 19.5 Cómo replicarlo en Photoshop (o Clip Studio)
 
@@ -2192,18 +2194,42 @@ canal **sin serie asignada**.
   un nombre a algo del ep. 7 de los Herreros; no lo comprobé ⚠️.
 - **La caja de diálogo del modo historia** de los juegos *Hinokami*: las
   capturas oficiales vienen sin interfaz ⚠️.
-- **Obanai, Sanemi, Akaza, Doma** y otros secundarios: sus voces latinas
-  sólo están en Doblaje Wiki (una fuente) ⚠️.
+- **Obanai, Sanemi, Doma** y otros secundarios: sus voces latinas
+  sólo están en Doblaje Wiki (una fuente) ⚠️. (Akaza ya tiene dos: §22.1.)
 - **El «escuadrón Kamaboko»** como nombre de fans del trío: de memoria ⚠️.
 - **Los pendientes de Tanjiro cambiados en Asia**: de memoria ⚠️.
 - **La vena de Shinobu** cuando se enfada sonriendo: de memoria ⚠️.
 - **Globos del manga y ediciones latinas** (Panini México, Ivrea): no
   revisé páginas ⚠️.
 - **TikTok**: no se abre desde aquí; sólo títulos de búsqueda ⚠️.
-- **Pixiv y DeviantArt**: sin búsqueda propia ⚠️.
+- **Pixiv y DeviantArt**: sin búsqueda propia ⚠️. (Segunda pasada: DeviantArt
+  sólo para pinceles, §19.5; Pixiv sólo como origen de fan art de Safebooru.)
 - El minuto de los vídeos mirados por **storyboard** puede moverse ±1-2 s.
 - El **Aula** no tiene descripción en el inventario: los textos de §0 son
   una **propuesta** y hay que confirmarlos con el dueño.
+
+**Segunda pasada (puntos 18-25)**, lo que sigue sin confirmar:
+
+- **Filtros de la animación** (grano, aberración, *bloom*): ninguna
+  entrevista los nombra ⚠️ (§19.2).
+- **Plumilla o tableta de Gotouge**: no lo encontré (buscado «吾峠呼世晴
+  Gペン», «吾峠呼世晴 使用画材») ⚠️.
+- **El *twitcast* de 2016** con sus influencias: la página original dio
+  403 y su copia en Wayback se cortó dos veces; sólo por prensa ⚠️.
+- **Gintama, Hunter x Hunter y los cambios de diseño de Giyu y Rengoku**:
+  una sola entrevista (el editor, livedoor) ⚠️.
+- **Encuadres por emoción** fuera del combate: sin fuente del estudio ⚠️.
+- **Patrón libre del *haori* de Giyu** y de las **polainas de Shinobu**:
+  no encontré ninguno (Wikimedia Commons dio 429 varias veces) ⚠️.
+- **Tramas oficiales del manga**: no se pueden bajar ⚠️.
+- **Comida favorita de Inosuke** y gustos de **Giyu, Tengen, Mitsuri,
+  Kanao y Muichiro**: no revisados ⚠️.
+- **Newtype Awards 2019** (mejor director): sólo un agregador ⚠️.
+- **Vistas de los fandubs de TikTok y Facebook**: dan 403 sin sesión ⚠️.
+- **Shironeko Project, Kotodaman y Nichirin Battle Slash**: sin fecha ni
+  imagen ⚠️.
+- **Las 18 fotos CC de Flickr** (17 de cosplay y un fan art, `referencias.json`): no las
+  miré una a una ⚠️.
 
 ---
 

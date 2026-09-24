@@ -111,7 +111,7 @@ sólo aporta lo que falta: **punto 19 (texturas 2D)** y **punto 23
   n.º 8 (mirar ese número, no hace falta bajar de nuevo) ✅.
 - No encontré un **emblema propio de un gremio o país** aparte del Emblema
   Sagrado y el escudo/insignia de la Asociación Mágica Continental (sale
-  como el edificio, no until un escudo aislado): busqué «guild mark»,
+  como el edificio, no como un escudo aislado): busqué «guild mark»,
   «crest», «emblem» en el buscador de texto de la wiki (`srwhat=text`) y
   reviso «Northern Magic Corps» — es un grupo militar, no tiene insignia
   gráfica documentada aparte del uniforme ⚠️.
@@ -164,7 +164,7 @@ un profesional, sirve de referencia de volumen):
 | **Nendoroid Frieren** | ~100 mm | 3 caras (neutra, «pilla», *chibi*); accesorios: bastón, grimorio, hierba de luna azul | [goodsmile.com/en/product/56111](https://www.goodsmile.com/en/product/56111) ✅ |
 | **Nendoroid Stark** | ~100 mm | 3 caras (sonrisa, decisión, llanto); arma; extra de tienda oficial: **«hamburguesa absurdamente grande» + mango** (el gag del cumpleaños, T1-12) | [hobby.dengeki.com/news/2362750](https://hobby.dengeki.com/news/2362750/) ✅ |
 | **Nendoroid Himmel** | ~100 mm | 3 caras (decisión, etérea, ojos cerrados); espada; **corona de flor de loto azul** (la escena del ep. 2); extra: anillo espejo de loto | [hobby.dengeki.com/news/2362750](https://hobby.dengeki.com/news/2362750/) ✅ |
-| **POP UP PARADE Frieren: Blow Kiss Ver.** | 165 mm | Frieren con **abrigo blanco de invierno cruzado (botones marrones), bufanda azul, botas marrás**, mandando un beso, mano libre extendida; escultor Daigaku, pintura Tomofumi (WATANA BOX) | [goodsmile.com/en/product/60707](https://www.goodsmile.com/en/product/60707) ✅ **visto** con Read (foto de producto 750×1050) |
+| **POP UP PARADE Frieren: Blow Kiss Ver.** | 165 mm | Frieren con **abrigo blanco de invierno cruzado (botones marrones), bufanda azul, botas marrones**, mandando un beso, mano libre extendida; escultor Daigaku, pintura Tomofumi (WATANA BOX) | [goodsmile.com/en/product/60707](https://www.goodsmile.com/en/product/60707) ✅ **visto** con Read (foto de producto 750×1050) |
 | **POP UP PARADE Frieren** (estándar) y **Braids Ver.** | 160-165 mm | de pie con el bastón / con trenzas | `datos-imagen.md` (ya recolectado, no repito la búsqueda) ✅ |
 | **POP UP PARADE Himmel** | (mm no confirmado) | **espada clavada en el suelo, sonriendo** — pose heroica/de presentación | [natalie.mu/comic/news/671304](https://natalie.mu/comic/news/671304) ⚠️ (la web dio 403 al reabrir; título del artículo describe la pose) |
 | **Figura a escala 1/7 «Fern ～追憶のひととき～» (Un momento de nostalgia)** | escala 1/7, ¥22.000, ago-2026 | Fern con el bastón al hombro y una **mariposa azul posándose en su mano libre**, capa negra abierta, base tipo viñeta | [hobby.watch.impress.co.jp/docs/news/2035669](https://hobby.watch.impress.co.jp/docs/news/2035669.html) ✅ **vista** con Read (foto de producto) |
@@ -202,3 +202,112 @@ un profesional, sirve de referencia de volumen):
   de pasillo al azar ✅ (dato del propio nombre de archivo, dos o más
   fotos por cosplay).
 
+## Lo mejor para la lámina
+
+- El **Emblema Sagrado** (§19.5): un colgante metálico real, con historia
+  dentro de la serie («insignia de gran mago»), perfecto como icono de
+  medalla o botón de un canal.
+- Las **ilustraciones de colaboración «社交界ver.»** y **Sweets Paradise**
+  (§23.1): dan ropa y poses que la serie nunca mostró (gala, repostero) —
+  útiles si se quiere una lámina «especial» sin inventar de la nada, todo
+  con fuente oficial.
+- La **Nendoroid de Stark con la hamburguesa gigante** y el **Funko Pop de
+  Frieren en el Mimic** (§23.2): confirman que los propios gags de fan
+  (§14 de la biblia) ya son mercancía oficial — se pueden usar sin miedo
+  a que «no sea canon».
+- Las **rayas negras y blancas gruesas** de la camisa de Frieren (§19.4),
+  medidas de verdad: un detalle fácil de olvidar (tapado por la chaqueta)
+  pero reconocible si se ve el cuello.
+- **Paper 006 + Fabric 019 + Leather 037 + Metal 034** de ambientcg
+  (§19.2, 19.5, 19.6): cuatro texturas CC0 sin crédito obligatorio, listas
+  para capas de Photoshop.
+
+## No encontré
+
+- ⚠️ **Tela ni costura de las fotos de cosplay a simple vista**:
+  `upload.wikimedia.org` dio 429 en los 3 intentos que hice (con esperas
+  entre medias); quedan las 17 fotos con su ficha (autor, licencia,
+  tamaño) en `datos-imagen.md`, pero no las miré una a una. Búsquedas
+  hechas: descarga directa con `curl -A "Mozilla/5.0"` y con cabecera de
+  navegador distinta, y por la página de archivo de Commons (esta sí
+  respondió 200, pero es la página, no la imagen).
+- ⚠️ **Ninguna entrevista o *making of*** que diga qué marca de tono usa
+  Tsukasa Abe, ni qué pinceles concretos, en la parte de manga (sí está
+  documentado el estilo de fondos del anime por Yoshioka, ya en la
+  biblia). Busqué en japonés («作画 インタビュー», «トーン») y en inglés
+  («art style screentone hatching»): salen artículos generales sobre el
+  manga, ninguno técnico. El artbook oficial («FRIEREN ART WORKS»,
+  Kioon éditions en Francia) podría tenerlo, pero no vi su contenido, sólo
+  su existencia.
+- ⚠️ **Licencia exacta del patrón de rayas de freesvg.org** y del
+  generador **HalftoneDots**: sus páginas no dejan clara la licencia
+  archivo por archivo; anoté ambos con esa reserva.
+- ⚠️ **La colaboración Uniqlo/GU** no la pude confirmar en una fuente
+  oficial de Uniqlo o GU (sólo redes de terceros la mencionan): dejarla
+  como «por confirmar», no como dato firme.
+- ⚠️ **Poses una a una de la serie POP MART** y **tamaño en mm de POP UP
+  PARADE Himmel**: sus páginas no las detallan en el resumen que pude
+  leer; `natalie.mu` y `funko.com` dieron 403 al reabrir (2 intentos cada
+  una, no insistí más).
+- ⚠️ **Textura de acuarela libre y descargable directa**: probé
+  `publicdomainpictures.net` (no respondió al pedir la imagen, 2
+  intentos) y Rawpixel/Freepik (piden cuenta): dejo la alternativa de
+  pincel de Photoshop en su lugar (§19.3).
+
+
+## Bitácora de búsqueda
+
+Partí de `partes/datos-imagen.md` (no repetí esas consultas de AniList,
+Fandom, Danbooru, Safebooru, Wallhaven, Sketchfab ni Openverse) y de
+`herramientas/seccion.py 33-frieren --indice` para ver qué faltaba.
+
+**Buscador web** (13 búsquedas de mi cupo de ~50):
+- Inglés: «Frieren manga Kanehito Yamada Tsukasa Abe art style screentone
+  hatching linework»; «free manga screentone halftone brush pack Procreate
+  Clip Studio CC0»; «free seamless stripe pattern SVG CC0 fabric texture
+  generator»; «open source halftone dot pattern generator SVG free CC0
+  comic manga»; «Frieren art book making of interview brush pencil
+  watercolor paper texture»; «free watercolor paper texture CC0 public
+  domain high resolution wet-on-wet bleed»; «Frieren official figure Good
+  Smile Company Nendoroid POP UP PARADE»; «"Frieren" Uniqlo UT
+  collaboration t-shirt»; «Frieren Funko Pop official figure release»;
+  «Frieren Loungefly bag Crunchyroll store exclusive collaboration».
+- Japonés: «葬送のフリーレン 漫画 トーン 作画 インタビュー»; «Frieren コラボ
+  カフェ 期間限定 ポップアップストア 2026»; «グッドスマイルカンパニー
+  フェルン シュタルク ヒンメル フィギュア 葬送のフリーレン».
+
+**Red directa** (API y descargas, sin gastar buscador):
+- **Frieren Wiki (Fandom)**: `api.php?action=query&list=search` para
+  «emblem», «crest», «guild mark», «Continental Magic Association»;
+  `action=parse&prop=wikitext` y `action=query&prop=imageinfo` para
+  **Holy Emblem**, **Continental Magic Association** y **Northern Magic
+  Corps** (imágenes e info de tamaño).
+- **ambientcg.com API** (`/api/v2/full_json`): texturas CC0 de **paper**,
+  **fabric**, **leather**, **glass**, **gold**, **wool**, **linen**;
+  medidas las miniaturas 1024×1024 de Paper006, Fabric019, Leather037 y
+  Metal034 con Pillow.
+- **Openverse API**: «halftone screentone pattern» y «old paper texture
+  grain» — sin resultados útiles con licencia clara.
+- **GitHub**: encontrado `evestera/svg-halftone` (MIT) por el buscador,
+  no lo cloné (no hacía falta, es una web tool también).
+- **collabo-cafe.com** (listado y fichas de eventos), **goodsmile.com**,
+  **hobby.dengeki.com**, **hobby.watch.impress.co.jp**, **collider.com**:
+  leídos con WebFetch.
+- **Descargas directas con `curl`** (medidas con Pillow y con
+  `herramientas/estilo.py`): hoja oficial de Frieren (recortes de cuello y
+  camisa), Holy Emblem, Northern Magic Corps (panel de manga, con zoom
+  x3), figura Blow Kiss Ver., visual Sweets Paradise, visual «社交界ver.»,
+  foto de la figura a escala 1/7 de Fern, 4 miniaturas CC0 de ambientcg.
+
+**Fallos y cómo los resolví**:
+- `frieren-anime.jp` y `natalie.mu`: **403** al reabrir (funcionaron por
+  snippet de búsqueda la primera vez) — usé el snippet, no insistí una
+  tercera vez.
+- `funko.com`: **403** en las dos fichas que probé — me quedé con
+  `collider.com` como fuente (dos fuentes igualmente, por `popshopguide.com`
+  citado dentro del resumen).
+- `upload.wikimedia.org`: **429** (límite compartido entre ayudantes) en
+  3 intentos con esperas crecientes — anotado en «No encontré», no
+  reintenté una cuarta vez.
+- `publicdomainpictures.net`: sin respuesta al pedir la imagen — 2
+  intentos, cambié de estrategia (§19.3).
