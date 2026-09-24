@@ -1,6 +1,6 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 18:45 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 2026-09-24, 19:05 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 ## Cuándo una biblia está completa
@@ -31,7 +31,28 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## El sistema nuevo (18:45 UTC)
+## Dónde se cortó (19:05 UTC, cuenta sin saldo)
+
+**One Piece (01), a un paso de terminar.** Las 4 partes del método económico
+están hechas y guardadas en `biblias/01-one-piece/partes/`: imagen, voz y texto
+cerradas; **video** con una línea `Sigue:` (poses de Zoro, Sanji y Chopper
+explicando, regañando o animando, y el doblaje latino de los eps. 53 y 483). Su
+segunda tanda se paró sin escribir nada.
+
+**Lo siguiente:** o bien relanzar sólo esa tanda de video (Sonnet, 50 acciones)
+o pasar directo al **redactor en Opus, modo repaso** (paso 5 de la skill
+`serie-en-equipo`), que lee `imagen.md`, `video.md`, `voz.md`, `texto.md` y las
+partes del piloto (arte, fanart-3d, escenas, musica-videos, doblaje, personajes,
+dialogos, tecnica-mundo). Después `revisar.py`, `subir.sh 01-one-piece repaso` y
+seguir con `siguiente.py`.
+
+**Costo medido** (detalle en `COSTOS.md`): 6 tandas de investigadores en Sonnet,
+de 10 a 18 minutos cada una, unos 1,2 millones de tokens en total. En esta
+cuenta se gastaron unos 33 dólares desde el piloto, pero incluyen construir el
+sistema (recolector, reglas, pruebas) en la sesión principal con Opus; la
+próxima serie dará el costo limpio de una biblia.
+
+## El sistema (18:45 UTC)
 
 Tras el piloto caro (8 investigadores, 25 minutos, unos 65 dólares, ninguno
 terminó), el trabajo va con el **método económico** de `EQUIPO.md` y la skill
@@ -39,13 +60,6 @@ terminó), el trabajo va con el **método económico** de `EQUIPO.md` y la skill
 `recolectar.py` junta gratis los datos (13 fuentes), 4 investigadores en Sonnet
 parten de esos datos y leen sólo su parte de la biblia (`seccion.py`), un
 redactor en Opus escribe, `revisar.py` exige los 25 puntos y `subir.sh` sube.
-Lo que cuesta cada una, en `COSTOS.md`.
-
-One Piece: las 8 partes del piloto están guardadas en
-`biblias/01-one-piece/partes/` y ya tiene sus `datos-*.md` recolectados.
-Sigue en modo `seguir`: con los 4 roles del método económico, que leen también
-las partes del piloto (arte y fanart-3d → imagen; escenas y musica-videos →
-video; doblaje y personajes → voz; dialogos y tecnica-mundo → texto).
 
 Parados a medias (guardado, sin marcar): repaso 06-spy-x-family, 35-one-punch-man
 (≈450 líneas) y 36-hunter-x-hunter (esqueleto). Rehacerlos con el equipo.
