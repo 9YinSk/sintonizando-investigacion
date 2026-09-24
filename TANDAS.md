@@ -55,7 +55,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S6 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/21-spider-man-into-across-the-spider-verse.md`, `encargos/22-violet-evergarden.md`, `encargos/23-lilo-stitch.md`, `encargos/24-assassination-classroom.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 21-spider-man-into-across-the-spider-verse
+- [x] 21-spider-man-into-across-the-spider-verse
 - [x] 22-violet-evergarden
 - [x] 23-lilo-stitch
 - [x] 24-assassination-classroom

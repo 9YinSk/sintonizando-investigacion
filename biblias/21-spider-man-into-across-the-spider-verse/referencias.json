@@ -1,0 +1,335 @@
+[
+  {
+    "url": "https://github.com/Bisbilge/subtitles",
+    "fuente": "GitHub (Bisbilge/subtitles)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos en inglés de Spider-Man: Un nuevo universo con tiempos (archivo «Spider-Man: Into the Spider-Verse.en.srt», de explosiveskull).",
+    "para_que": "Dan el minuto de cada escena de UNU en §2 y §15. Base de la biblia.",
+    "licencia": "Subtítulos de fans subidos por terceros. Sólo consulta."
+  },
+  {
+    "url": "https://github.com/sydney-machine-learning/sentimentanalysis-Hollywood",
+    "fuente": "GitHub (sydney-machine-learning)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos en inglés de A través del Spider-Verso con tiempos (data/2023/Spider-Man Across the Spider-Verse.srt).",
+    "para_que": "Minutos de Hobie, Miguel, Lyla y Gwen en ATSV (§2, §7, §15).",
+    "licencia": "Datos de un proyecto de investigación. Sólo consulta."
+  },
+  {
+    "url": "https://github.com/PrayerVoid/color_of_movies",
+    "fuente": "GitHub (PrayerVoid/color_of_movies)",
+    "ancho": 1200,
+    "alto": 500,
+    "que_es": "Código de barras de color de UNU (assets/barcodes/tt4633694.png) y JSON con color medio por tramos.",
+    "para_que": "Medir cuánta luz tiene cada escena (§5.2): el túnel es casi negro, el final azul.",
+    "licencia": "Proyecto de fans. Sólo consulta."
+  },
+  {
+    "url": "https://www.awn.com/news/character-posters-released-spider-man-across-spider-verse",
+    "fuente": "Animation World Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Los pósters de personaje de ATSV (Miles, Gwen, Peter B., Miguel, Jessica, Pavitr, Hobie, Ben Reilly, Spider-Cat, la Mancha).",
+    "para_que": "Referencia de estilo por personaje: cada póster lleva la técnica de su mundo. Pose y color de Hobie y Gwen.",
+    "licencia": "© Sony Pictures Animation / Marvel. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://www.krisanka.com/work/atvs",
+    "fuente": "Web de Kris Anka (diseñador de personajes de ATSV)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Diseños de personajes de A través del Spider-Verso.",
+    "para_que": "Trajes, siluetas y detalles de Hobie y los demás (§8, §16).",
+    "licencia": "© Sony Pictures Animation. Sólo referencia."
+  },
+  {
+    "url": "https://www.tumblr.com/spiderverseconceptart/tagged/nueva%20york",
+    "fuente": "Tumblr «Spider-Verse Concept Art Archive»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Arte conceptual oficial de Nueva York 2099 recopilado.",
+    "para_que": "Fondo y paleta del mundo de Miguel (§5.1).",
+    "licencia": "© Sony Pictures Animation. Sólo referencia."
+  },
+  {
+    "url": "https://www.artstation.com/artwork/8bR9kR",
+    "fuente": "ArtStation (Mack Sztaba)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Horizonte de Nueva York para ATSV.",
+    "para_que": "Fondo retrofuturista, luz de día azul.",
+    "licencia": "© del autor / Sony. Sólo referencia."
+  },
+  {
+    "url": "https://jessica-rossier.artstation.com/projects/XBJX03",
+    "fuente": "ArtStation (Jessica Rossier)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Arte conceptual de UNU (con Bastien Grivet, bajo Alberto Mielgo).",
+    "para_que": "Luz y color de la Nueva York de Miles.",
+    "licencia": "© de la autora / Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.tumblr.com/chuwenjie/720485703016923136/i-painted-these-color-keys-for-this-scene-in",
+    "fuente": "Tumblr (@chuwenjie, artista del equipo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Color keys de la escena de Gwen y su papá en ATSV.",
+    "para_que": "Paleta de Tierra-65 y cómo cambia con el ánimo (§5.3, §18).",
+    "licencia": "© de la autora / Sony. Sólo referencia."
+  },
+  {
+    "url": "https://x.com/SpiderVerse/status/1727044559665004549",
+    "fuente": "X oficial @SpiderVerse (#CreatingTheSpiderVerse)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo oficial sobre la acuarela de Tierra-65 («anillo del humor», Rebelle + Houdini).",
+    "para_que": "Explicar el estilo de Gwen y usarlo en la guía de IA.",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.tiktok.com/@spiderversemovie/video/7294411001653579054",
+    "fuente": "TikTok oficial @spiderversemovie",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«We salute you, Hobie. What's your favorite Spider-Punk quote?»",
+    "para_que": "Prueba de que Hobie es el secundario favorito (§9).",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://devastudios.com/work/titles/spider-man-into-the-spider-verse/",
+    "fuente": "Devastudios",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Secuencia de logos de UNU: Columbia con glitch, Ben-Day, neón.",
+    "para_que": "Referencia exacta del glitch para la etiqueta Efectos.",
+    "licencia": "© Sony / Devastudios. Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MV2Xutd3BM8",
+    "fuente": "YouTube",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Logos de apertura de UNU en 4K 60 fps.",
+    "para_que": "Sacar fotogramas del glitch de la dama de Columbia.",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4WKHNNtVbUM",
+    "fuente": "YouTube (Sony Animation)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial 2 de ATSV.",
+    "para_que": "Fotogramas de Miles, Gwen, Miguel y la Spider-Society.",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tg52up16eq0",
+    "fuente": "YouTube (Sony Pictures)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial 2 de UNU.",
+    "para_que": "Fotogramas de Miles, Gwen, Noir y Ham.",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=u7OpYJFQXms",
+    "fuente": "YouTube (Sony, oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Beyond The Screen: The Creators Behind Spider-Man: Across the Spider-Verse».",
+    "para_que": "Making of: cómo se hizo cada mundo. Para el mensaje fijado o la etiqueta Proceso.",
+    "licencia": "© Sony. Sólo referencia."
+  },
+  {
+    "url": "https://www.thewrap.com/across-the-spider-verse-lego/",
+    "fuente": "TheWrap",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El chico de 14 años que rehízo el tráiler en LEGO con Blender y animó la escena LEGO de ATSV.",
+    "para_que": "Historia inspiradora para #edicion (§2.7).",
+    "licencia": "Artículo de prensa. Citar con enlace."
+  },
+  {
+    "url": "https://www.looper.com/207630/the-self-imposed-rule-spider-man-into-the-spider-verse-had-to-follow/",
+    "fuente": "Looper",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La regla del equipo: nada de cajas de diálogo antes de la picadura (Christopher Miller).",
+    "para_que": "Fundamenta el uso de las cajas amarillas (§7).",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://nofilmschool.com/comic-panels-in-spiderverse-movies",
+    "fuente": "No Film School",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recursos de cómic en la saga: onomatopeyas, Ben-Day, viñetas partidas, papel rasgado.",
+    "para_que": "Lista de recursos para la lámina 2 y los conceptos.",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://www.cartoonbrew.com/feature-film/spider-man-into-the-spider-verse-production-design-is-about-character-not-style-168137.html",
+    "fuente": "Cartoon Brew",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Justin K. Thompson sobre el desfase de impresión y los Ben-Day.",
+    "para_que": "Explicar el «desenfoque» con tintas desplazadas.",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://beforesandafters.com/2023/06/17/the-across-the-spider-verse-spider-punk-character-hobie-was-animated-with-different-frame-rates-for-different-parts-of-his-own-body-and-accessories/",
+    "fuente": "befores & afters",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hobie animado con distintos fotogramas por segundo en cada parte (chaqueta a cuatros, guitarra más lenta); estilo fanzine.",
+    "para_que": "Estilo de Hobie para el concepto C.",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://knowyourmeme.com/memes/canon-events-spider-verse",
+    "fuente": "Know Your Meme",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El meme «canon event» (junio de 2023).",
+    "para_que": "Chistes que el fandom reconoce (§14).",
+    "licencia": "Página de referencia."
+  },
+  {
+    "url": "https://www.imdb.com/poll/T4YMIpvxSW0/results",
+    "fuente": "IMDb",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta del póster de personaje favorito de ATSV (1.º Gwen, 2.º Miles, 6.º Hobie).",
+    "para_que": "Decidir personaje (§9).",
+    "licencia": "Página de encuesta."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Spider-Man:_Un_nuevo_universo",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del doblaje latino de UNU (Emilio Treviño, Alondra Hidalgo, Miguel Ángel Ruiz, Óscar Flores).",
+    "para_que": "Voces latinas (§10). Confirmar por la API desde el PC del dueño.",
+    "licencia": "CC BY-SA (texto de Fandom)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Spider-Man:_A_trav%C3%A9s_del_Spider-Verso",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del doblaje latino de ATSV.",
+    "para_que": "Voces de Miguel (José Luis Rivera), Hobie (Óscar Garibay) y la Mancha.",
+    "licencia": "CC BY-SA (texto de Fandom)."
+  },
+  {
+    "url": "https://www.sinembargo.mx/4369345/emilio-trevino-presta-su-voz-a-miles-morales-lo-mas-complicado-es-mantenerlo-real/",
+    "fuente": "SinEmbargo",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Emilio Treviño, voz latina de Miles.",
+    "para_que": "Segunda fuente de la voz de Miles y cómo la trabajó.",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://www.elfinanciero.com.mx/entretenimiento/2023/05/20/spider-man-a-traves-del-spider-verso-tendra-funciones-con-subtitulos-tras-criticas-a-doblaje-de-influencers/",
+    "fuente": "El Financiero",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Funciones subtituladas tras las críticas al doblaje con influencers.",
+    "para_que": "Contexto del doblaje latino de ATSV (§10).",
+    "licencia": "Artículo de prensa."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/spray-can-graffiti-low-poly-by-smakologg-bd4f3e7d509f4fd691d9ee6def794f19",
+    "fuente": "Sketchfab (smakologg)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bote de espray de grafiti, low poly, hecho en Blender.",
+    "para_que": "Primer plano del concepto A.",
+    "licencia": "CC BY. Crédito: «Spray can graffiti [Low-poly]» by smakologg (sketchfab.com)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/spray-paint-can-360f6ce433894dc3baaa7e035b617aac",
+    "fuente": "Sketchfab (Shara Ritchey)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bote de pintura en espray.",
+    "para_que": "Segundo bote del concepto A.",
+    "licencia": "CC BY. Crédito: «Spray Paint Can» by Shara Ritchey (@SharaSchool)."
+  },
+  {
+    "url": "https://polyhaven.com/a/wall_bricks_plaster",
+    "fuente": "Poly Haven",
+    "ancho": 8192,
+    "alto": null,
+    "que_es": "Textura de pared de ladrillo con yeso desconchado (8K).",
+    "para_que": "La pared del túnel del concepto A.",
+    "licencia": "CC0."
+  },
+  {
+    "url": "https://polyhaven.com/a/concrete_tunnel",
+    "fuente": "Poly Haven",
+    "ancho": 16384,
+    "alto": 8192,
+    "que_es": "HDRI de túnel de hormigón con lámparas cálidas y sombras duras (16K).",
+    "para_que": "Luz del túnel del concepto A.",
+    "licencia": "CC0."
+  },
+  {
+    "url": "https://polyhaven.com/a/mosaic_tunnel",
+    "fuente": "Poly Haven",
+    "ancho": 16384,
+    "alto": 8192,
+    "que_es": "HDRI de túnel con azulejo azul, fluorescente frío y lámparas cálidas (16K).",
+    "para_que": "Contraluz frío al fondo del túnel.",
+    "licencia": "CC0."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de papel.",
+    "para_que": "Papel del cómic (concepto B) y de los carteles (concepto C).",
+    "licencia": "CC0."
+  },
+  {
+    "url": "https://github.com/aniketrajnish/SpiderVersePostProcess-Unreal-Unity",
+    "fuente": "GitHub (Aniket Rajnish)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Post-proceso estilo Spider-Verse: Ben-Day y rayado en sombras.",
+    "para_que": "Entender qué capas lleva el estilo y copiarlo en el compositor de Blender.",
+    "licencia": "MIT."
+  },
+  {
+    "url": "https://github.com/nmagarino/Spiderverse-Styled-Rendering",
+    "fuente": "GitHub (nmagarino)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Render estilo Spider-Verse: bandas de color, aberración cromática por distancia, Ben-Day con desfase CMYK, contorno.",
+    "para_que": "Receta del desfase de impresión (§4.4).",
+    "licencia": "Sin licencia: sólo mirar."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=977082",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo 4K de Miles y Spider-Gwen (UNU).",
+    "para_que": "Mirar luz y encuadre.",
+    "licencia": "Autor no indicado. Sólo referencia."
+  },
+  {
+    "url": "https://www.artstation.com/artwork/BXVyml",
+    "fuente": "ArtStation (Ivan Shavrin)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art de Hobie / Spider-Punk.",
+    "para_que": "Ver cómo se reparte el collage (concepto C).",
+    "licencia": "© del autor. Mirar, nunca pegar."
+  }
+]
