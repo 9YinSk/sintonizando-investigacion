@@ -4,6 +4,36 @@ En una sesión nueva en la nube, con este repositorio, pega la frase de la tanda
 La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**.
 Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
+## Segunda pasada · red completa
+
+Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda web y GitHub): sin hojas de contacto, sin Doblaje Wiki, sin minutos de YouTube. Esta pasada las corrige y completa con la red abierta, sin rehacerlas.
+
+- [ ] repaso 01-one-piece
+- [ ] repaso 02-attack-on-titan
+- [ ] repaso 03-solo-leveling
+- [ ] repaso 04-harry-potter
+- [ ] repaso 05-oshi-no-ko
+- [ ] repaso 06-spy-x-family
+- [ ] repaso 07-pok-mon
+- [ ] repaso 08-big-hero-6-grandes-h-roes
+- [ ] repaso 09-mafalda
+- [ ] repaso 10-k-on
+- [ ] repaso 11-chainsaw-man
+- [ ] repaso 12-kakegurui
+- [ ] repaso 13-rick-and-morty
+- [ ] repaso 14-adventure-time-hora-de-aventura
+- [ ] repaso 15-spongebob-bob-esponja
+- [ ] repaso 16-neon-genesis-evangelion
+- [ ] repaso 17-arcane
+- [ ] repaso 18-death-note
+- [ ] repaso 19-doraemon
+- [ ] repaso 20-dr-stone
+- [ ] repaso 21-spider-man-into-across-the-spider-verse
+- [ ] repaso 22-violet-evergarden
+- [ ] repaso 23-lilo-stitch
+- [ ] repaso 24-assassination-classroom
+- [ ] repaso 25-my-hero-academia
+
 # Parte 1 · Series, películas y videojuegos
 
 ## Tanda S1
