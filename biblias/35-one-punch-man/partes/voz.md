@@ -411,6 +411,12 @@ Datos de la voz: registro (grave/medio/agudo), expresividad en semitonos
   ofrece consejos genuinos a Saitama; propone jugar videojuegos con un
   hándicap (dos dedos) para parecer humilde sin dejar de aparentar. Fuente:
   ficha de King ✅.
+- **Cara en cada emoción — miedo**: en una tira de 3 viñetas, King (chico,
+  al fondo) palidece y grita con la boca muy abierta y los ojos como platos
+  al ver las fauces de un monstruo gigante, mientras Saitama sigue impasible
+  a su lado — imagen de la wiki [«King scared.jpg»](https://static.wikia.nocookie.net/onepunchman/images/3/37/King_scared.jpg)
+  (2133×1535, la vi yo) ✅. Es el contraste que sostiene todo su personaje:
+  cara de terror real bajo la fama de "más fuerte del mundo".
 - **Dinámica clave**: la partida de videojuegos con Saitama en su cuarto
   (biblia §2.1 ítem 16) es la escena que mejor resume su amistad genuina, sin
   la farsa de por medio.
