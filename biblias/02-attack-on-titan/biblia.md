@@ -264,6 +264,7 @@ Corrí `investigar_serie.py` tres veces sobre `attackontitan.fandom.com`:
 | **Portada del número de los 15 años** de «Shingeki no Kyojin Magazine» | Dibujo nuevo de Isayama | estilo del autor | [Natalie (JA)](https://natalie.mu/comic/news/594324) |
 | **Portada de la 2.ª encuesta** (2015) | Isayama dibujó a los tres primeros: **Levi, Erwin y Eren** | celebrar con Levi | [ANN](https://www.animenewsnetwork.com/interest/2015-04-07/levi-erwin-eren-top-attack-on-titan-popularity-poll/.86828) |
 | **Visual de la temporada 1** | galería de Natalie | estilo WIT | [Natalie (JA)](https://natalie.mu/comic/gallery/news/507886/1973357) |
+| **Artbook oficial *浅野恭司 進撃の巨人 総作監修正集*** (WIT STUDIO, 29-sep-2017; B5, 144 págs., a color) | Las correcciones de **Kyoji Asano** (diseño de personajes y jefe de animación) de la T1 y la T2, **ordenadas por personaje**, con sus comentarios, dibujos promocionales y la competición de diseños. Portada: Eren, dibujado para el libro. **No lo pude hojear**: lo cito por la ficha oficial | el sitio donde está **cómo se dibuja cada cara** según su diseñador; comprarlo si hace falta afinar a Levi | [shingeki.tv](https://shingeki.tv/news/archives/3364) · [ABEMA Times (JA), entrevista a Asano, 2024](https://times.abema.tv/articles/-/10128463) |
 
 ### Copias en alta que sí pude abrir (alojadas en GitHub por un fan)
 
@@ -424,6 +425,14 @@ tono que toca, en tres tramos: sombra, medio y luz. Margen: ±5 por canal.
 | Trost desde el aire (tejados) | `#463C3B` · `#886F5A` · `#A39583` · `#C0C5C8` | E·23 |
 | **Ficha «Información pública»** | papel `#F2F2F2` (gris neutro); tinta `#222222`-`#2E2E2E`; cinta **de un color por episodio** (§7) | F·1-17 |
 | Emblema de la Legión | azul `#162873` · blanco `#E3E3E5` · escudo gris `#AFADAB` | F·19 |
+
+**El cielo es de autor.** El director de arte de la T1 es **Shunichiro
+Yoshihara** (吉原俊一郎; lo acreditan [eiga.com](https://eiga.com/person/196420/)
+en las películas y el blog [OTACTURE (JA)](https://ukkah.hatenadiary.org/entry/20131210/p1)
+en la serie). OTACTURE habla de las **«nubes Yoshihara»**: nubes altas y
+finas, **mucho contraste con el azul** y **nubes que no son de un solo blanco,
+sino de varios blancos**. Se ve en G1 (cielo `#74A9CD`-`#A1CDE5`). En la
+lámina: si hay cielo, que sea alto, con nubes finas y blancos distintos.
 
 **Lo que se ve al medir:**
 - El verde de la Legión **no es verde hierba**. Es un verde oliva frío, casi negro
@@ -608,8 +617,27 @@ Eren, el protagonista, queda cuarto. Para #reglas, Levi es además el que
 **impone el orden**: le pega a Eren para salvarlo y limpia hasta el último rincón.
 
 En coreano hay recopilaciones en [fmkorea](https://www.fmkorea.com/4446340048) y
-[dcinside](https://m.dcinside.com/board/shingeki/979988). **En chino no encontré
-nada.**
+[dcinside](https://m.dcinside.com/board/shingeki/979988).
+
+**En chino** (2.ª pasada): [Bangumi](https://bgm.tv/subject/55770/characters)
+(番组计划, la base de datos china de anime), por su API, 24-sep-2026. La serie
+tiene nota 8,2 con 31 729 votos. Personajes guardados como favoritos (收藏):
+
+| Personaje (nombre chino) | Favoritos | Comentarios |
+|---|---|---|
+| Mikasa (三笠·阿克曼) | **1019** | 151 |
+| **Levi (利威尔)** | **776** | 158 |
+| Eren (艾伦·耶格尔) | 528 | 277 |
+| Krista (克里斯塔·连兹) | 459 | 109 |
+| Erwin (艾尔文·史密斯) | 242 | 48 |
+| Hange (韩吉·佐伊) | 138 | 44 |
+
+**En China gana Mikasa**, no Levi; Levi es el primero de los secundarios y el
+segundo en total. En Japón y en Occidente gana Levi (arriba). Para una lámina
+en español, Levi sigue siendo la apuesta segura. La ficha china de Levi le da
+los apodos **兵长** («el capitán») y **一米六** («uno sesenta», por su
+estatura) y confirma 160 cm y 65 kg ([Bangumi, Levi](https://bgm.tv/character/19546)).
+Moegirl (萌娘百科) y Baidu Baike no dejaron entrar (dos intentos cada una).
 
 ---
 
@@ -733,9 +761,22 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
 ### 9.4 Vídeos del doblaje (comprobados con yt-dlp)
 
 Todos son del canal oficial **Crunchyroll en Español** y los miré por su
-*storyboard* (hojas de `fotogramas.py`, ±1 s). yt-dlp no encontró subtítulos
-ni subtítulos automáticos en ninguno (puede ser por el cliente que respondía):
-la frase textual sale del **título** y de las muestras de audio de §9.3.
+*storyboard* (hojas de `fotogramas.py`, ±1 s). En la primera mitad de la
+pasada yt-dlp no encontró subtítulos en ninguno. **En el cierre (24-sep, 16:18)
+sí bajó los subtítulos automáticos en español del clip de Zeke** (sacados por
+YouTube del audio doblado); los otros clips volvieron a pedir «iniciar sesión».
+Así que ya hay **frases latinas textuales de un clip oficial**, aunque no de
+Levi, que no habla en ese clip:
+
+| Minuto del clip | Frase (Zeke, Ricardo Brust; subtítulo automático, puntuación nuestra) |
+|---|---|
+| [0:00-0:10](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=0) | «Una despedida… Qué mal, al final no pudimos entendernos. No es de extrañar: después de todo, somos de mundos muy diferentes.» |
+| [0:12-0:24](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=12) | «Todos creyeron que tenían poder, más tiempo y otras opciones. Malentendieron completamente su situación… Ese fue su gran error.» |
+| [0:36-0:51](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=36) | «Saldré de este bosque para reunirme contigo. Sin embargo, espero que no olvides el lugar y la hora que acordamos, Eren.» |
+
+Sirven de muestra del **registro del doblaje**: español neutro, «ustedes»,
+frases completas y formales («Sin embargo, espero que…»). No sirven para
+#reglas.
 
 | Vídeo | Qué es (lo que vi) | Datos |
 |---|---|---|
@@ -938,7 +979,8 @@ diálogo; las 5 de *AoT 2* en Steam (app 601050), igual. Ahí sí enseñan que
   Sawney Bean ([Fandom](https://attackontitan.fandom.com/wiki/Bean)).
 - **La estatura de Levi**: 1,60 m, más bajo que casi todos
   ([Wikipedia](https://en.wikipedia.org/wiki/Levi_Ackerman)). Isayama le dio la
-  estatura de Rorschach, y la manía de la limpieza para ser su contrario.
+  estatura de Rorschach, y la manía de la limpieza para ser su contrario. El
+  fandom chino lo llama **一米六**, «uno sesenta» ([Bangumi](https://bgm.tv/character/19546)).
 - **«Tatakae»** («pelea») es palabra de culto; hasta hay bots con ese lema
   ([FoundingTitanRobot](https://github.com/asadali32117/FoundingTitanRobot)).
 - **Reddit confirma que la limpieza es lo más querido de Levi** (r/ShingekiNoKyojin,
@@ -1253,6 +1295,10 @@ encaja como fondo; los demás, sólo como referencia de tono.
 - Paleta apagada (§5): capa `#1E261F`-`#3C4E3A`, chaqueta `#A1865D`, piedra
   `#34362A`-`#595845`, cielo `#74A9CD`, tribunal `#455B5E`, antorcha `#D29258`.
 
+**Cielo**: alto, azul limpio, con nubes finas de varios blancos (las «nubes
+Yoshihara», §5). Palabras: *high thin cirrus clouds, layered whites, strong
+blue contrast*.
+
 **Luz**: tarde dorada con sombras frías (OP 0:20-0:24), antorcha de noche
 (E·14, `#D29258`), luz blanca de ventana sobre piedra (P·10, clip del ep. 15)
 o luz alta y fría del tribunal (E·1).
@@ -1293,14 +1339,24 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
   (y E·18). Encima va una **hoja de papel verjurado clavada**, con las normas,
   con la **orla de enredaderas** de la ficha del ep. 25 (F·10). En Blender es
   fácil: una tabla, un papel con ondas, clavos, el cubo y la escoba de Sketchfab
-  (§4.1).
+  (§4.1). **Lo confirma el juego oficial**: el menú de equipo de *Attack on
+  Titan 3* pone **un pergamino manchado sobre madera oscura, con clavos y un
+  martillo** al lado ([captura de Steam](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/228cc88fa364676b8dfd4a82b7cac9fe578cb8ec/ss_228cc88fa364676b8dfd4a82b7cac9fe578cb8ec.1920x1080.jpg), §12):
+  copiar de ahí el tono del papel (`#7B6953`-`#AD9981`) y de la madera
+  (`#32281F`-`#504742`).
 - **Personaje**: **Levi**, el más querido, con su **ropa de limpiar**: pañuelo
   blanco en la cabeza, el de la boca bajado al cuello. Pose de «regañar con
   humor»: de tres cuartos, **con dos dedos se baja el pañuelo** como en P·10
   ([clip 0:32-0:34](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=32)), la otra
   mano con un trapo; mirada de párpado caído de la puerta del
   [clip 2:24-2:28](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=144) («hazlo
-  todo otra vez»). Alternativa: P·11 (el dedo con polvo).
+  todo otra vez»). Alternativa: P·11 (el dedo con polvo). Otra, oficial y de
+  cuerpo entero: **Levi en *AoT 2* con pañuelo en la cabeza y la mascarilla
+  subida hasta la nariz**, de pie, brazos caídos, mirada de párpado caído
+  ([captura](https://www.gamecity.ne.jp/shingeki2/images/img-system21-1.jpg), §12).
+- **Fondo alternativo**: el patio del juego donde **los cadetes barren con
+  escobas de ramas y Levi los vigila** en el centro ([captura](https://www.gamecity.ne.jp/shingeki2/images/img-system1-4.jpg)).
+  Sirve si se quiere enseñar «qué pasa si no cumples»: te toca barrer.
 - **Cómo habla**: su frase va en una **ficha «Información pública»** pequeña
   clavada en la esquina del tablón: papel `#F2F2F2`, tinta `#222222` y **la
   cinta ocre del ep. 15** (`#948352`, F·5), no la roja. Título en Yuji Boku
@@ -1308,6 +1364,10 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
   cumplir.»** (Levi a Eren, ep. 15 · 05:38, 守るべきルールだ). Otra: «Esto es
   limpiar de verdad. ¿Entendido?» (su aspirador oficial). Las dos son
   **traducción nuestra** del japonés: **no hay muestra latina** de ellas.
+  **Cuadro alternativo, sin ficha**: el de *AoT 2* (§12): «LEVI» pequeño sobre
+  una línea crema fina `#CDC9BE`, la frase debajo en blanco cálido `#FFFDF2`
+  con sombra, y una ✓ al final. Encaja con #reglas: la ✓ es la misma del
+  «reacciona con ✅».
 - **Dónde va cada texto**:
   - En la cinta: «NORMAS DEL CUARTEL».
   - En la hoja grande, las ocho reglas: número en IM Fell English, texto en

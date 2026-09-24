@@ -1265,11 +1265,218 @@ cuello y puños de borrego** (`#AE3A28`).
 
 ## 17 · Paisajes y fondos de pantalla
 
-(pendiente)
+Los sitios con su luz y su paleta medida están en **§5.2**. Aquí van **la
+hora del día** de cada tipo de escena y los **fondos en alta** (oficiales y
+de fans) con tamaño **medido con Pillow** tras bajarlos.
+
+### 17.1 La hora del día manda (lo que vi en los fotogramas)
+
+| Hora | Cómo es en la serie | Ejemplo (ep., imagen) | Para qué lámina |
+|---|---|---|---|
+| **Mañana clara** | cielo cian pálido, sombras cortas, verde claro | T1-02, la región de Turk (`escenas_01` n.º 8); T2-31 Heiß (n.º 21) | reglas, bienvenida |
+| **Tarde dorada / otoño** | amarillos y naranjas, luz de lado | T1-02, estatua con corona (`escenas_01` n.º 7) | recuerdo, homenaje |
+| **Atardecer rosa-violeta** | rosa `#EE98B0`, lila `#B073A3` | T2-31, aguas termales (n.º 22); T1-14, anillo (`H8`, §15) | cierre, despedida |
+| **Noche índigo** | nunca negro: `#2A32A5` `#202D6D` (meteoros, medido) | T1-01, meteoros de Era (n.º 2) | eventos, noches de estreno |
+| **Noche con fuego** | azul muy oscuro + naranja | T1-01, fogata (n.º 3); T2-37, Himmel escribe (`H9`) | reunión, charla, escritura |
+| **Interior con vela o ventana** | madera oscura, un solo foco | T1-04 biblioteca de Strahl (n.º 18); T1-15 (`F2`) | explicar, estudiar |
+| **Rayo de luz cenital** | azul frío + blanco verdoso `#E6F4ED` | T2-37, biblioteca circular (n.º 19) | **biblioteca**: la mejor |
+
+### 17.2 Fondos oficiales en alta (Frieren Wiki, medidos)
+
+Todos © Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project.
+**Sólo referencia**: ni pegar ni recortar en la lámina.
+
+| Imagen | Tamaño | Autor | Qué tiene |
+|---|---|---|---|
+| [Frieren's Party character visual](https://frieren.fandom.com/wiki/File:Frieren%27s_Party_character_visual.png) | **4096×2892** | Reiko Nagasawa | los tres de pie sobre blanco, con su **nombre en serif teal y una línea fina** que apunta a cada uno. **Es un modelo de «etiqueta de personaje»** para la lámina |
+| [Season 1 full key visual](https://frieren.fandom.com/wiki/File:Season_1_full_key_visual.png) | 2048×2066 | Reiko Nagasawa | Frieren y una **luna llena** sobre cielo violeta (`#291E3B` `#56295C` `#EBE1D5`) |
+| [Season 2 key visual 4](https://frieren.fandom.com/wiki/File:Season_2_key_visual_4.png) | 1620×2160 | Keisuke Kojima | Revolte, **atardecer naranja** con árbol seco |
+| [Frieren in a Mimic special visual](https://frieren.fandom.com/wiki/File:Frieren_in_a_Mimic_special_visual.png) | 1280×1280 | Daiki Harashina | Frieren dentro del cofre; detrás, **«KOWAIYO KURAIYO» (怖いよ 暗いよ) repetido en letras grises gigantes**. Idea gráfica para un fondo de texto |
+| [Frieren and Himmel blue-moon weed](https://frieren.fandom.com/wiki/File:Frieren_and_Himmel_blue-moon_weed_special_visual.png) | 1199×815 | Emi Yamasaki | Himmel y Frieren con **corona de hierba luna azul**, pétalos |
+| [Season 2 countdown, 4 días](https://frieren.fandom.com/wiki/File:Season_2_countdown_illustration_by_Seiko_Yoshioka_(4_days).png) | 1879×1310 | **Seiko Yoshioka** | **acuarela**: los tres sentados en la hierba a contraluz, tazas y tetera al fuego. **Marco blanco** y texto en mincho teal abajo («第２期 初回放送まであと４日»). **Es ya una lámina**: imagen + marco + una frase |
+| [Season 1 countdown, 30 min](https://frieren.fandom.com/wiki/File:Season_1_countdown_illustration_by_Keiichiro_Saito_(30_minutes).png) | 1654×2339 | **Keiichiro Saito** (el director) | **dibujo a línea casi sin color**: sólo el rojo de los pendientes; Frieren, el mímico y Himmel al fondo |
+| [First-Class Mage Exam teaser](https://frieren.fandom.com/wiki/File:First-Class_Mage_Exam_teaser_visual.png) | 1458×2048 | — | póster rojo con **todos los aspirantes** y texto vertical: modelo para «reto / examen» |
+| [Frieren x PARCO POPUP](https://frieren.fandom.com/wiki/File:Frieren_x_PARCO_POPUP_promotional_visual.png) | 2480×2480 | — | **Frieren y Fern leen sobre pilas de libros gigantes**, papel pergamino con círculo mágico |
+
+**Arte conceptual de Seiko Yoshioka** (fondos de verdad, sin personajes):
+
+| Imagen | Tamaño | Luz | Paleta medida |
+|---|---|---|---|
+| [Puente a las afueras de la Capital](https://frieren.fandom.com/wiki/File:Royal_Capital_outskirts_bridge_concept_art_by_Seiko_Yoshioka.png) | 1441×844 | día, verde y cian, acuarela | `#87A282` `#55755E` `#A5CDA6` `#D6E2BD` `#F7FCED` |
+| [Plaza de la Capital, de noche](https://frieren.fandom.com/wiki/File:Royal_Capital_plaza_concept_art_by_Seiko_Yoshioka.png) | 1416×813 | noche violeta con estrellas, **puestos con guirnaldas de luces** | `#584755` `#595EA6` `#2F3E65` `#8D779F` `#DFC8C2` |
+| [La estatua del grupo](https://frieren.fandom.com/wiki/File:Royal_Capital_Hero_Party_statue_concept_art_by_Seiko_Yoshioka.png) | 1311×795 | mediodía, banderines | `escenas_01` n.º 23 |
+| Más en la wiki: árbol de Flamme (1333×833), Aureole (1427×798), castillo del Rey Demonio (1024×589), casa de Eisen (1024×639) | — | — | [galería del anime, «Concept Art»](https://frieren.fandom.com/wiki/Frieren:_Beyond_Journey%27s_End_(Anime)/Gallery) |
+
+**La web oficial** (`frieren-anime.jp`) **dio 403** y la Wayback Machine no
+respondió (dos intentos): **no pude ver si reparte fondos de pantalla
+oficiales** ⚠️.
+
+### 17.3 Fondos de fans en alta (sólo referencia; Wallhaven + Pixiv)
+
+Los busqué en **Wallhaven** (API, ordenado por favoritos: 337 fondos de
+Frieren) y comprobé el autor y la marca de IA en la **API de Pixiv**
+(`aiType` 1 = hecho a mano). Bajé y medí los seis de esta tabla.
+
+| Fondo | Tamaño | Autor (fuente) | IA | Qué tiene |
+|---|---|---|---|---|
+| [«回忆の魔法书»](https://w.wallhaven.cc/full/rr/wallhaven-rrz76w.jpg) | **3840×2160** | 猫盒二三 ([Pixiv 114710157](https://www.pixiv.net/artworks/114710157)) | no (1) | **Frieren asoma sobre un libro abierto** que brilla; en las páginas, **el grupo de Himmel en pegatinas chibi**. Luz dorada (`#32211A` `#956656` `#D7B186`). **La mejor referencia para una lámina de biblioteca o escritura** |
+| [«火»](https://w.wallhaven.cc/full/2y/wallhaven-2yw1qx.jpg) | 3000×1308 | 阿没MEInoss ([Pixiv 114336330](https://www.pixiv.net/artworks/114336330)) | no (1) | **Frieren y Fern leen juntas** bajo un árbol, de noche, junto a una **fogata**; el bastón rojo en el suelo. Pincelada suelta |
+| [Camino con charcos](https://w.wallhaven.cc/full/vq/wallhaven-vq27r8.png) | 1920×1080 (y [2480×3508 vertical](https://w.wallhaven.cc/full/85/wallhaven-858vpj.jpg)) | gyoukan000 ([X](https://twitter.com/gyoukan000/status/1723628606033911903)) | ⚠️ no consta | los tres caminan de espaldas por un camino rural con **reflejos en los charcos**, valla blanca, nubes |
+| [Ruinas con flores azules](https://w.wallhaven.cc/full/o5/wallhaven-o5zrj7.jpg) | 4961×2961 | stephen_njoto (Pixiv 118150098) | no (1) | columnas en ruinas, **hierba luna azul**, luz de mañana |
+| [Nieve con farol](https://w.wallhaven.cc/full/og/wallhaven-ogdrk5.png) | 5060×2430 | MORI森 ([Pixiv 129657581](https://www.pixiv.net/artworks/129657581)) | no (1) | Frieren con **farol y bufanda azul** en montañas nevadas al anochecer |
+| [«葬送の花海»](https://w.wallhaven.cc/full/l8/wallhaven-l8o2op.jpg) | 3360×1440 (API) | void_0 ([Pixiv 115738312](https://www.pixiv.net/artworks/115738312)) | no (1) | Frieren con el bastón entre **flores rojas y nubes** |
+
+**Descartados** (vistos en la hoja de Wallhaven): Frieren y Fern con **ropa
+urbana y gafas de sol** (estilo moda), cruces con *Dungeon Meshi*,
+vestidos de verano y besos. No son el tono de la serie ni sirven como
+referencia de mundo.
+
+### 17.4 Qué fondo para qué lámina
+- **Biblioteca / recursos**: la biblioteca circular de T2-37 (luz cenital),
+  o la de Strahl (T1-04), + la idea del **libro que brilla** (fan art
+  «回忆の魔法书»).
+- **Reunión / charla**: la **fogata** (T1-01) o la **plaza de noche con
+  guirnaldas** (concepto de Yoshioka).
+- **Bienvenida**: el **puente del bosque** (concepto de Yoshioka; PV2 0:30).
+- **Reto / examen**: la orilla del lago del 1.er examen (T1-18) o el
+  **teaser rojo del examen**.
 
 ## 18 · Guía para generar con IA
 
-(pendiente)
+**Para qué sí y para qué no.** La IA (Firefly, Canva) sirve para
+**bocetos de pose, fondos y luz**, nunca para la lámina final tal cual. El
+dueño lo pide: «que no parezca hecho por IA». Lo que salga se **redibuja o
+se retoca** encima, con la ropa y los colores de §16.
+
+**Aviso práctico** ⚠️ (de uso, no comprobado aquí): Firefly y Canva suelen
+**bloquear o ignorar nombres de personajes con derechos** («Frieren»). Por
+eso las descripciones de abajo **no dependen del nombre**: describen el
+aspecto.
+
+### 18.1 El estilo de la serie en palabras
+
+- **Línea**: fina, limpia, de grosor casi igual; contorno oscuro pero no
+  negro puro. Nada de trazo grueso de cómic.
+- **Sombreado**: **cel shading** de **una o dos sombras** planas. **Casi sin
+  degradados** en los personajes (lo dice la diseñadora Reiko Nagasawa en la
+  guía oficial, §8). El brillo va sólo en los **ojos** y en el pelo.
+- **Fondos**: **pintados, como acuarela suave**; mucho color, **luz amable**
+  (Seiko Yoshioka, §5.1). Más detalle en el fondo que en el personaje.
+- **Paleta general**: **pálida y luminosa**: blancos cálidos, cian muy claro
+  `#D9FEFE`, verdes suaves; acentos en **teal** `#24CCCB`, **oro viejo**
+  `#D5BA7F` y **rojo vino** `#682927`. Noches **índigo** `#202D6D`, no negras.
+- **Encuadre**: planos **medios y generales tranquilos**; el personaje
+  pequeño en un paisaje grande (PV2, 0:40-0:48). Contrapicado sólo para
+  Himmel (§15.4). Cámara quieta: nada de perspectivas locas.
+- **Luz**: una sola fuente clara (sol de lado, vela, fogata, rayo cenital).
+  **Bruma suave** en el fondo.
+- **Caras**: ojos grandes pero **párpados a media altura** en Frieren;
+  expresiones **pequeñas**.
+
+### 18.2 Rasgos que nunca cambian (si falta uno, ya no es el personaje)
+
+| Personaje | Rasgos fijos | Colores (de §16) |
+|---|---|---|
+| **Frieren** | elfa con **orejas largas y puntiagudas**; pelo **blanco plateado con toque lavanda** en **dos coletas bajas y largas**; ojos verde azulado **entrecerrados**; **pendientes rojos en gota**; capa corta **blanca con ribete dorado**; **camisa de rayas negras y blancas** en el cuello; medias azul marino; **botas marrones altas**; **bastón largo rojo vino** con **cabeza dorada en media luna y gema roja** | pelo `#E8E6F0`, ojos `#45777D`, capa `#F7F8F8`, ribete `#D5BA7F`, medias `#272937`, botas `#7F6853`, asta `#682927`, gema `#AB1416` |
+| **Fern** | pelo **violeta, liso, hasta la cintura**, **flequillo recto**, **media coleta** con **broche de mariposa**; ojos violeta; **abrigo negro largo abierto**; **vestido blanco roto con pechera plisada y cuello alto**; bastón de madera sencillo | pelo `#7A4783`, abrigo `#464140`, vestido `#F7F3ED` |
+| **Stark** | pelo **rojo cobrizo despeinado con una mecha negra**; **chaqueta roja corta** con puños crema; **camisa negra de cuello mao con alamares blancos**; faja crema; **vendas y guante sin dedos**; **hacha enorme de doble filo** | pelo `#B04B34`, chaqueta `#A53F30`, camisa `#3D3D3D`, faja `#E8DCD1` |
+| **Himmel** | pelo **azul claro corto** con flequillo; **lunar bajo el ojo izquierdo**; **túnica azul real con cierres blancos**; **capa crema larga con broche plateado**; espada | pelo `#A9C7E4`, túnica `#475992`, capa `#E7E5DA` |
+
+### 18.3 Descripciones listas (en inglés, que las IA entienden mejor)
+
+**Estilo** (añadir al final de cualquier prompt):
+> clean thin lineart, flat cel shading with one or two shadow tones, no
+> gradients on characters, soft watercolor painted background, pale bright
+> palette, warm white and pale cyan, gentle soft light, calm composition,
+> 2020s TV anime still, Madhouse-like fantasy, Central European medieval
+> town
+
+**Frieren** (sin nombre):
+> petite elf girl with long pointed ears, silver-white hair with a lavender
+> tint in two long low twin tails, half-lidded teal-green eyes, calm
+> expressionless face, red teardrop earrings, short white capelet with
+> antique-gold trim, black and white horizontal striped shirt collar, white
+> dress, dark navy tights, tall brown boots, holding a long dark-red staff
+> with a golden crescent head and a red gem
+
+**Fern**:
+> tall teen girl, very long straight violet hair with blunt bangs and a
+> half-up style with a small silver butterfly clip, violet eyes, serious
+> calm face, long open black coat, long off-white dress with pleated bib
+> and high ruffled collar, simple wooden staff held vertically in both hands
+
+**Stark**:
+> teen boy, messy copper-red hair with one black streak in the middle, red
+> cropped jacket with cream cuffs, black mandarin-collar shirt with white
+> frog fastenings, cream sash, bandaged wrists, fingerless glove, huge
+> double-bladed battle axe on his shoulder, nervous but kind face
+
+**Himmel** (sólo como recuerdo o estatua):
+> young hero with short light-blue hair and a small mole under the left
+> eye, royal-blue tunic with white clasps, long cream hooded cape with a
+> silver brooch, confident gentle smile, warm golden flashback light
+
+**Fondos** (sin personajes):
+> circular medieval library with tall wooden bookshelves, a bronze statue of
+> a young hero on a pedestal in the centre, a single beam of light from a
+> round skylight, cool blue shadows and pale green-white light, dust in the
+> air, watercolor anime background
+
+> night campfire in a pine forest, deep indigo-blue sky (not black), warm
+> orange firelight on the ground, an open old book with red leather cover
+> on a log, watercolor anime background
+
+> Central European medieval square with half-timbered houses, colorful
+> bunting, cobblestones, a green-bronze statue of a hero pointing forward,
+> clear noon light, pale sky
+
+### 18.4 Palabras que ayudan y palabras que lo estropean
+
+| Ayudan | Estropean (y por qué) |
+|---|---|
+| *flat cel shading*, *thin lineart*, *watercolor background*, *pale*, *soft light*, *calm*, *half-lidded eyes*, *antique gold*, *indigo night* | *epic*, *dramatic*, *dark fantasy*, *hyper detailed*, *8k*, *octane render*, *glossy* (dan brillo de plástico y oscuridad: lo contrario de la serie) |
+| *twin tails low*, *long pointed elf ears*, *capelet* | *witch hat*, *wand*, *magical girl* (Frieren no lleva sombrero ni varita, §14.3) |
+| *subtle smile*, *expressionless* | *big smile*, *laughing*, *shouting*, *blushing* (Frieren casi no se ríe) |
+| *wooden staff held vertically* (Fern) | *black dress* entero (Fern lleva **vestido blanco** bajo el abrigo negro) |
+| *bronze statue* (para Himmel en el presente) | Himmel de pie junto a Fern y Stark como vivo (§14.3) |
+| *storybook*, *grimoire with red leather cover* | *pentagram*, *occult*, *skull* (no es de la serie) |
+| — | *sexy*, *swimsuit*, *cleavage* (fan service, fuera de tono) |
+
+### 18.5 Qué imágenes usar de referencia (de las que encontré)
+
+**De estilo** (luz, color, línea):
+1. **Hoja oficial de Frieren** (guía, 2718×1920, `referencias.json` n.º 1): la
+   línea y el color exactos.
+2. **Biblioteca circular** (T2-37, `escenas_01` n.º 19): fondo y luz.
+3. **Cuenta atrás de Seiko Yoshioka** (acuarela, §17.2): el tono amable.
+4. **Concepto de la plaza de noche** (Yoshioka, §17.2): noche violeta con
+   luces cálidas.
+
+**De pose** (encuadre, manos):
+- Presentar: **F1** (bastón en diagonal) o el visual con círculo mágico
+  (`personajes_01` n.º 2).
+- Explicar: **F2** (tras la mesa con la vela).
+- Pensar / leer: los **ojos por encima del grimorio** (PV1 0:28) y `personajes_01`
+  n.º 7 (PARCO).
+- Regañar (Fern): **E4** y **E6**.
+- Animar (Himmel): **H4**.
+- Escribir: **H9** (Himmel con la pluma).
+
+**Cómo**: en Firefly, subir **la imagen de estilo** como «referencia de
+estilo» y **un boceto propio o una pose de muñeco 3D** (Blender) como
+«referencia de composición». ⚠️ Subir arte oficial a un servicio puede
+chocar con sus condiciones de uso: lo más seguro es usar de referencia
+**un dibujo propio** hecho mirando estas imágenes.
+
+### 18.6 Cómo se nota que es IA (y hay que corregir a mano)
+- **Manos**: dedos de más; el bastón que atraviesa la mano.
+- **El bastón de Frieren**: la IA inventa gemas y alas. Es **una media luna
+  dorada, un aro y una gema roja**, nada más.
+- **Las rayas del cuello** de Frieren salen torcidas o en toda la camisa.
+- **Las orejas**: salen cortas. Las de Frieren son **largas y horizontales**.
+- **El texto**: la IA escribe letras falsas. **Todo texto va puesto a mano**
+  con las letras de §6.
+- **Brillo de plástico** en piel y pelo: quitarlo; la serie es mate.
 
 ## 19 · Tres conceptos de lámina
 
