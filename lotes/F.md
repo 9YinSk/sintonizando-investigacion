@@ -6,9 +6,10 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 ## Estado
 
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
-- 77 Wistoria: 4 investigadores (Sonnet) COMPLETOS (imagen, video, voz, texto), nada obligatorio pendiente. Redactor (Opus) lanzado 22:10 UTC.
-- 78 Vinland Saga: 4 investigadores (Sonnet) en marcha desde 22:11 UTC.
-- 79-82: recolectando datos (gratis), con su wiki de Fandom.
+- 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
+- 78 Vinland Saga: imagen/texto/voz listos; vídeo relanzado (faltaban 3 poses de Einar). Redactor en cuanto cierre.
+- 79 Demon Slayer (paisajes y auras): 4 investigadores (Sonnet) en marcha desde 22:30 UTC.
+- 80-82: recolectando datos (gratis), con su wiki de Fandom.
 
 ## Avisos para el dueño
 
@@ -50,3 +51,5 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 78-vinland-saga | imagen | sonnet | 12 | 185385 |
 | 78-vinland-saga | texto | sonnet | 15 | 222527 |
 | 78-vinland-saga | voz | sonnet | 16 | 208945 |
+| 78-vinland-saga | video | sonnet | 19 | 222410 |
+| 77-wistoria-wand-and-sword | redactor (opus) | opus | 19 | 339142 |
