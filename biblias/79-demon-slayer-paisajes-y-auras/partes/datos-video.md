@@ -4,20 +4,14 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Tráiler y enlaces oficiales (AniList)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- Tráiler: https://www.youtube.com/watch?v=6vMuWuWlW4I
-- SOCIAL · Twitter (Japanese): https://twitter.com/kimetsu_off
-- STREAMING · Crunchyroll: https://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba
-- STREAMING · Hulu: https://www.hulu.com/demon-slayer-kimetsu-no-yaiba
-- SOCIAL · Twitter (English): https://twitter.com/DemonSlayerUSA
-- STREAMING · Netflix: https://www.netflix.com/title/81091393
-- INFO · Official Site (Japanese): https://kimetsu.com/anime/risshihen/
-- SOCIAL · Twitter (French): https://twitter.com/kimetsu_fr
-- SOCIAL · Facebook (English): https://www.facebook.com/DemonSlayer.anime
+- Tráiler: https://www.youtube.com/watch?v=O-2TeJ7R8ZM
+- INFO · Official Site: http://www.onigiri-anime.com/
+- SOCIAL · Twitter: https://twitter.com/onigiri_anime
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_

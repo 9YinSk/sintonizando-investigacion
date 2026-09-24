@@ -4,74 +4,34 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## La obra en datos (AniList)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- Títulos: Kimetsu no Yaiba · Demon Slayer: Kimetsu no Yaiba · 鬼滅の刃 · también: KnY, Kimetsu no Yaiba: Kyoudai no Kizuna, Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings, 鬼滅の刃-兄妹の絆-, 鬼灭之刃, הלהב קוטל השדים
-- Formato TV, año 2019, episodios 26, capítulos None, estado FINISHED, nota media 82, popularidad 997230, favoritos 54460
-- Estudio: ufotable · géneros: Action, Adventure, Drama, Fantasy, Supernatural
-- Sinopsis: It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family. · · (Source: Crunchyroll)
-- Temas y rasgos (etiquetas, % de acuerdo): Demons 96%, Shounen 92%, Vampire 90%, Swordplay 88%, Male Protagonist 82%, Travel 76%, Primarily Teen Cast 76%, Revenge 74%, Monster Girl 74%, Orphan 70%, Gore 67%, CGI 66%, Mythology 65%, Primarily Male Cast 65%, Rural 60%, Historical 58%, Rotoscoping 56%, Super Power 56%, Body Horror 55%, Curses 50%, Chibi 49%, Animals 20%, Food 13%
+- Títulos: Onigiri · Onigiri · 鬼斬 · también: Demon Slayer, Demon Cutter
+- Formato TV_SHORT, año 2016, episodios 13, capítulos None, estado FINISHED, nota media 48, popularidad 9026, favoritos 56
+- Estudio: Studio Signpost · géneros: Adventure, Comedy, Fantasy
+- Sinopsis: The MMORPG Onigiri thrusts its players into mystical Japan, a land filled with mythical creatures of Japanese legend. Starting as a lone Oni, players fight against the malevolent influence of the Kamikui as their miasma spreads over the land. 8 NPCS, each with their own distinct personality and skills, ally themselves with the player to help build a legend, and quell the evil that has arisen. As you grow stronger together, so do the bonds binding you to each other. · · (Source: Anime News Network)
+- Temas y rasgos (etiquetas, % de acuerdo): Video Games 80%, Demons 79%, Primarily Female Cast 65%, Parody 60%, Surreal Comedy 50%, Crossdressing 20%, Kemonomimi 20%
 
 ## Equipo creativo (para «estilo y cómo replicarlo»)
-_Fuente: https://anilist.co/anime/101922/staff_
+_Fuente: https://anilist.co/anime/21612/staff_
 
-- Original Creator: Koyoharu Gotouge (吾峠呼世晴 )
-- Director: Haruo Sotozaki (外崎春雄)
-- Character Design: Akira Matsushima (松島晃)
-- Sub Character Design: Youko Kajiyama (梶山庸子)
-- Sub Character Design: Mika Kikuchi (菊池美花)
-- Sub Character Design: Miyuki Satou (佐藤美幸)
-- Prop Design: Masaharu Koyama (小山将治)
-- Assistance: Kazuharu Satou (佐藤和治)
-- Assistance: Akira Hiyama (桧山彬)
-- Assistance: Kumiko Oohori (大堀久美子)
-- Assistance: Masasuke Nakazawa (中澤匡佐)
-- Assistance: So-Dam Jeong (정소담)
-- Assistance: Tetsuhiro Yamaguchi (山口哲弘)
-- Assistance: Yuuto Sugiura (杉浦悠斗)
-- Assistance: Aya Fukuoka (福岡彩)
-- Assistance: Takumi Mochizuki (望月匠)
-- Assistance: Yuuki Sugawara (菅原由騎)
-- Assistance: Ga-Yeong Lee (이가영)
-- Assistance: Masaru Takanaka (高中優)
-- Assistance: Shuuzou Ishikawa (市川修三)
-- Art Design: Masahiro Kimura (木村雅広)
-- Concept Art: Kasumi Takeuchi (竹内香純)
-- Concept Art: Yuuri Kabasawa (樺澤侑里)
-- Concept Art: Masaru Yanaka (矢中勝)
-- Concept Art: Kouji Etou (衛藤功二)
+- Director: Takashi Yamamoto (山本天志)
+- Series Composition: Takamitsu Kouno (鴻野貴光)
+- Character Design: Yukiko Ibe (伊部由起子)
+- Script: Takashi Aoshima (あおしまたかし)
+- Chief Animation Director: Yukiko Ibe (伊部由起子)
 
 ## Obras parecidas (recomendaciones de usuarios de AniList)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- JUJUTSU KAISEN (TV, nota 84) · votos 3343
-- Dororo (TV, nota 81) · votos 1945
-- Bleach (TV, nota 79) · votos 385
-- My Hero Academia Season 4 (TV, nota 78) · votos 335
-- Black Clover (TV, nota 79) · votos 151
-- Hell’s Paradise (TV, nota 80) · votos 148
-- Rurouni Kenshin (2023) (TV, nota 74) · votos 107
-- Hunter x Hunter (2011) (TV, nota 89) · votos 103
-- Fullmetal Alchemist: Brotherhood (TV, nota 90) · votos 101
-- Akame ga Kill! (TV, nota 73) · votos 101
-- Seraph of the End: Vampire Reign (TV, nota 73) · votos 81
-- Naruto (TV, nota 80) · votos 80
-- InuYasha (TV, nota 77) · votos 79
-- JUJUTSU KAISEN 0 (MOVIE, nota 83) · votos 57
-- JUJUTSU KAISEN Season 2 (TV, nota 86) · votos 51
+- Detective Opera Milky Holmes (TV, nota 67) · votos 2
 
 ## Obras relacionadas (películas, juegos, spin-offs)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- ADAPTATION: Demon Slayer: Kimetsu no Yaiba (MANGA MANGA)
-- SEQUEL: Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train (ANIME MOVIE)
-- CHARACTER: Junior High and High School!! Kimetsu Academy Story: Valentine Edition (ANIME ONA)
-- SEQUEL: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc (ANIME TV)
-- CHARACTER: Junior High and High School!! Kimetsu Academy Story: Kimetsu no Utage Special Edition (ANIME SPECIAL)
-- CHARACTER: Kimetsu no Yaiba x MLB Tokyo Series presented by Guggenheim (ANIME ONA)
 
 ## Videojuegos en Steam: interfaz y cuadros de diálogo en capturas 1920×1080
 _Fuente: https://store.steampowered.com_
