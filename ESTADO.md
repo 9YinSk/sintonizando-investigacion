@@ -37,7 +37,7 @@ Prueba en cadena:
 - **One Piece (01): COMPLETA y subida** (19:45; 2 640 líneas, 345 referencias).
   las 12 partes. Si se cortó: relanzarlo con el mensaje del paso 5 de la skill
   (modo repaso); sigue desde lo que ya haya en `biblia.md`.
-- **One Punch Man (35): 4 investigadores en Sonnet** (desde las 19:21). Imagen, video y texto terminados; voz en segunda tanda (caras de 8 secundarios). Antes: imagen
+- **One Punch Man (35): COMPLETA y subida** (20:25; 2 353 líneas, 227 referencias).
   terminada (`partes/imagen.md`, sin `Sigue:`). Video, voz y texto en marcha: si
   se cortaron, relanzar cada rol con el mensaje del paso 3 («si tu parte ya
   existe, sigue desde donde quedó»). Luego su redactor en Opus (modo `nueva`,
