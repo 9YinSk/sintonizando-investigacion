@@ -228,6 +228,18 @@ dos fuentes oficiales de producción, coinciden entre sí:
     «casual», `#777D5A` en la versión con sandalias puestas — son el mismo
     verde-oliva oscuro, coherente entre las dos imágenes).
 
+**Peinado de los 4** (visto en las mismas hojas de modelo, no medido en hex
+por no ser color plano): Edward lleva el pelo largo **trenzado hasta los
+hombros** con un mechón central de punta («ahoge», lo confirma también el
+tag `ahoge` de Danbooru arriba) — en el traje marrón de después de la serie
+lo lleva **suelto en coleta baja**, sin trenza, señal visual de que ya no es
+alquimista estatal. Alphonse no tiene pelo (armadura). Roy lo lleva **corto y
+despeinado hacia delante** en el día a día, pero **peinado hacia atrás** en
+el turnaround oficial (más formal). Winry lleva el pelo largo recogido en
+**una coleta alta sujeta con un pañuelo/bandana verde**, con flequillo
+partido al medio — es el mismo peinado en las 3 fuentes oficiales que usé
+(las dos hojas de modelo y el wallpaper de Mona Finden).
+
 Con esto quedan **≈20 valores hex medidos** de los 4 personajes del encargo,
 todos con imagen y medida citadas (por encima del mínimo de 10 que pide
 `revisar.py`).
