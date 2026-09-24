@@ -123,6 +123,7 @@ Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer rese
 | **Sólo tus secciones de la biblia** | `python3 herramientas/seccion.py <id> --rol <rol>` (`--avisos`, `--indice`) |
 | **Openings y endings sin YouTube** | las URL `.webm` de AnimeThemes (en `datos-video.md` si respondió) valen para `fotogramas.py` |
 | **Frases del doblaje latino** sin YouTube | las muestras `.mp3` de Doblaje Wiki (en `datos-voz.md`) con `voz.py` |
+| **Ver un capítulo entero** barato: ficha minuto a minuto con planos, lo que se dice y lo que se lee | `python3 herramientas/episodio.py "<url o archivo>" --titulo … --idioma ja|es [--ocr] --salida … --id <id>` → `partes/episodios.md` |
 | **Mirar un vídeo** sin perder escenas cortas | `python3 herramientas/fotogramas.py "<url>" --cortes --salida …` (un fotograma por plano) |
 | **Oír una voz**: frase textual con minuto y cómo suena (registro, expresividad en semitonos, velocidad) | `python3 herramientas/voz.py "<url o audio>" [--desde s --hasta s] --salida …` (Whisper en local; revisa nombres propios, se equivoca) |
 | **Colores medidos** (vestuario, fondos) y **cómo está pintado** (plano o degradado, cuánta línea y de qué color) | `python3 herramientas/estilo.py <imágenes o URLs> --salida …` |

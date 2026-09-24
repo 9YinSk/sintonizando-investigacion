@@ -52,23 +52,22 @@ cuenta se gastaron unos 33 dólares desde el piloto, pero incluyen construir el
 sistema (recolector, reglas, pruebas) en la sesión principal con Opus; la
 próxima serie dará el costo limpio de una biblia.
 
-## Mejoras pendientes (pedidas por el dueño: más rápido, sin perder calidad)
+## Mejoras hechas (19:20 UTC), pedidas por el dueño: más rápido sin perder calidad
 
-Hacerlas al empezar en la cuenta nueva, antes de seguir con las series:
-
-1. **En cadena:** mientras el redactor escribe una serie, lanzar ya los
-   investigadores de la siguiente. Y correr `recolectar.py` por adelantado para
-   las 5 siguientes (es gratis). Objetivo: una serie cada 35-40 minutos en vez
-   de una cada hora y cuarto.
-2. **Una sola tanda por investigador:** subir el tope a unas 90 acciones y que lo
-   menor se marque ⚠️ en vez de lanzar segundas tandas (las de One Piece eran
-   detalles).
-3. **`herramientas/episodio.py`** (nuevo): baja un capítulo o clip completo
-   (Internet Archive, Dailymotion, AnimeThemes), saca un fotograma por plano,
-   la transcripción con minuto (Whisper) y el texto en pantalla (tesseract), y
-   deja una ficha del capítulo en texto. El investigador lee la ficha (barato)
-   y abre sólo las hojas de los momentos que cite. 2 o 3 capítulos clave por
-   serie, no todos. Lo corre el jefe en el paso 2, junto al recolector.
+1. **En cadena** (skill): el redactor de una serie y los investigadores de la
+   siguiente trabajan a la vez; `recolectar.py` corre por adelantado para las 5
+   siguientes. Objetivo: una serie cada 35-40 minutos.
+2. **Una tanda por investigador** (hasta ~100 acciones): antes de terminar
+   repasa sus puntos; `Sigue:` sólo para lo obligatorio que falte. Los extras,
+   ⚠️ en «No encontré».
+3. **`herramientas/episodio.py`**: un capítulo entero en una ficha de texto
+   (planos, lo que se dice y lo que se lee, minuto a minuto). 2-3 capítulos
+   clave por serie.
+4. **`revisar.py` mide lo que pidió el dueño**: 40 webs enlazadas, 15 minutos,
+   10 hex, bitácora y conceptos, además de los 25 puntos. Ojo: 31, 32, 33 y 34
+   enlazan sólo 31-38 webs; en su repaso corto hay que completarlas.
+5. **`PETICIONES.md`**: todo lo que pidió el dueño, tal como lo pidió, y dónde
+   se vigila. Lo lee el redactor.
 
 ## El sistema (18:45 UTC)
 
