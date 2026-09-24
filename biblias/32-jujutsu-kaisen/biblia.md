@@ -720,7 +720,7 @@ subtítulo o vídeo. Cuidado con los **spoilers** (§14.2).
   cough syrup»).
 - **Técnica y aparatos**: su voz funciona **con megáfono** (Shibuya,
   T2-13) y **por teléfono**, y **se puede grabar** en una grabadora
-  (manga, cap. 269) ✅ (wiki, «Cursed Speech»).
+  (manga, cap. 262, págs. 20-23) ✅ (wiki, «Cursed Speech»; el 1.er ayudante había puesto 269).
 - **Carácter**: parece distante, pero es **amable y protector**; hace
   el tonto con Panda ✅.
 - **Por qué importa aquí**: es **el personaje de la voz**. Cuida la
