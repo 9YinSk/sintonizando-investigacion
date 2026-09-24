@@ -61,7 +61,7 @@
 | Tashigi | Liliana Barba | DW | ⚠️ |
 | Katakuri | Erick Selim | DW (temp. 19) | ⚠️ |
 | Yamato (Wano) | «Próximamente» | DW | — |
-| «El otro Luffy» (Brûlée transformada) | Ayari Rivera, la que hizo pruebas para Luffy | ANMTV (Whole Cake) + DW («Sobre el reparto») | ✅ |
+| «El otro Luffy»: **Luffy espejo** (el reflejo del mundo de Brûlée, Whole Cake) | **Ayari Rivera**. Es su 3.ª vez como Luffy: fue Luffy en *One Piece Film Gold* y Oars con la sombra de Luffy (Thriller Bark) | [ANMTV, Whole Cake](https://www.anmtvla.com/2025/11/one-piece-netflix-estrena-los-episodios.html) («El otro Luffy: Ayari Rivera») + DW («19ª temporada», curiosidades) | ✅ |
 
 #### 8.4 Cómo suena cada voz (medida con `herramientas/voz.py`)
 
