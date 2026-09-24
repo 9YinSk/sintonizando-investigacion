@@ -33,7 +33,55 @@ fecha: 2026-09-24
 >   de memoria. ❌ = no hecho o no sirve.
 
 > [!note] Segunda pasada · qué cambió
-> (se completa al terminar el repaso)
+> **Corregido (antes → ahora)**
+> - Mochi con Baymax sin batería: «escena de la película» → **corto
+>   *Big Chibi 6: «Low Battery»* (2019)**; en el clip de la película no
+>   sale el gato (§4, §4.1, §14, §15; queda un aviso en §20).
+> - Frase de Baymax: «…satisfecho con **mi** cuidado» (audiofrases) →
+>   **«Puedo desactivarme si dices que estás satisfecho con tu cuidado»**,
+>   oída ([x5hvz3y, 0:55](https://www.dailymotion.com/video/x5hvz3y?t=55)).
+>   La de Hiro al final sigue siendo «Estoy satisfecho con mi cuidado».
+> - Fred, GoGo y Wasabi: «no lo encontré» → **Noé Velázquez Pedroza,
+>   Erika Ugalde y Alan Bravo**, en tres fuentes (§10).
+> - Quién quitó la boca a Baymax: «Kim, Jin o Shiyoon» → **Shiyoon Kim**
+>   (§8).
+> - Hex medidos: vinilo `#F4F3EF` → **`#F2F3F5`**; sombra `#C9CFD6`
+>   (azulada) → **`#DAD5D4`** (cálida); armadura `#C4252B` →
+>   **`#DD4630`-`#ED512D`**; sudadera `#2B3550` → **`#3B3D5C`**; camiseta
+>   `#B83A33` → **`#DB2C2B`**; armadura de Hiro `#1E1E24` → **`#3C355D`**
+>   (§16).
+> - La tabla del dolor: «del 0 al 10» → **del 1 al 10, 10 caritas en 2
+>   filas de 5**, como la de la serie, con sus colores medidos (§1).
+> - El atardecer de la ciudad: «dorado» (de memoria) → **morado azulado**
+>   en la toma medida (§6).
+>
+> **Confirmado** (⚠️ → ✅): la encuesta japonesa (abierta entera), la tía
+> Cass y el estudio del doblaje (tres fuentes), los tomos del manga, los
+> colores de los chips, el mecanismo del vídeo de Tadashi (guion), la
+> lista del disco, el chiste de Fred, «Alguien tiene que ayudar» (sólo
+> en la serie), la cocina del Lucky Cat vista y medida.
+>
+> **Añadido**: hojas de contacto (§3.0, con el **póster latino n.º 44**:
+> Baymax señalando su pecho con un aviso en español), escenas vistas con
+> minuto (§4.1), paleta medida (§6), logo y letras por uso (§7), la
+> pantalla del pecho vista (§8), voces medidas y caras de Hiro (§9), 22
+> frases oídas (§10), sonido y opening de la serie (§11), tráiler latino
+> desglosado (§12.1), poses vistas (§15), vestuario medido (§16),
+> Wallhaven (§17), **los puntos 18 a 25** (§A-§H), la guía para IA de
+> texto (§18.2), 57 fuentes nuevas (§21), la tabla «Cumplimiento del
+> encargo» y la bitácora del equipo. `referencias.json`: de 36 a **156**.
+>
+> **⚠️ antes → después**: había **56**. Se resolvieron **19** y quedan 37
+> de los viejos. Hay **76 nuevos**: 24 en los puntos 18-25, 12 en la
+> tabla (repiten los pendientes), 1 en §20 y 39 en datos nuevos de otras
+> secciones. Casi todos son de una sola fuente, minutos que sólo son del
+> clip o vídeos que YouTube no dejó ver. **Total: 113** (sin contar este
+> recuadro).
+>
+> **Conceptos**: siguen los tres. A: Baymax toma **la pose del póster
+> latino** y la tabla copia la forma de la de la serie. B: se muda **al
+> cuarto de Hiro** (donde de verdad se activa), con su luz medida y la
+> pose de escaneo vista. C: la cocina medida y el choque de puños visto.
 
 > [!tip] Índice
 > 1 El canal · 2 El más querido · 3 Arte oficial y **hojas de contacto**
@@ -499,7 +547,7 @@ Todos: [etiqueta baymax](https://sketchfab.com/tags/baymax).
   Su nombre sale también firmando hojas de modelo oficiales de 2015
   («Modeler Brandon Lawless», §3); el autor del fan art sigue ⚠️ sin
   segunda fuente.
-- **Qué NO calcar**: un «Gundam Baymax» de fans (hoja 06, n.º 245) lo
+- **Qué NO calcar**: un «Gundam Baymax» de fans (hoja 06 de `herramientas/referencias/`, n.º 245) lo
   rediseña como un robot de placas duras. Baymax **no** lleva paneles ni
   detalle mecánico: es vinilo liso ⚠️ (una fuente, sin autor).
 - **Fondos de pantalla** con tamaño y autor: §17.
@@ -1772,7 +1820,7 @@ vídeo de reacción concreto (YouTube pide sesión) ⚠️. En TikTok latino,
   Wonder*, *World of Color* y espectáculos nocturnos con Baymax ✅ (campo
   «rides» de la [ficha](https://disney.fandom.com/wiki/Baymax)).
 - **Fotos reales** de Baymax de parque con visitantes (hoja 02, n.º
-  78-79; hoja 06, n.º 156 y 262, Disneyland Paris) ✅: la proporción de
+  78-79; hoja 06 de `herramientas/referencias/`, n.º 156 y 262, Disneyland Paris) ✅: la proporción de
   Baymax junto a una persona.
 - **Café temático** de Big Hero 6: no encontré ninguno (sólo eventos de
   Disney Store) ⚠️.
@@ -2137,7 +2185,7 @@ un nivel de la tabla.
   mirados con fotograma y 3 clips doblados oídos (§3.0, §4.1, §10).
 - ~~Cómo es la escala en el pecho~~ → vista y medida: 10 caritas, 2 filas
   de 5, del 1 al 10, amarillo → rojo (§1, §8).
-- ~~Frases latinas exactas~~ → 22 frases oídas con minuto (§10).
+- ~~Frases latinas exactas~~ → 23 frases oídas con minuto (§10).
 - ~~Voces de Fred, GoGo y Wasabi~~ → Noé Velázquez, Erika Ugalde y Alan
   Bravo, en tres fuentes (§10).
 - ~~Estudio y director, sólo Doblaje Wiki~~ → también dubdb y CHARGUIGOU.
@@ -2155,8 +2203,12 @@ un nivel de la tabla.
 - **Mochi y Baymax sin batería**: el investigador de vídeo lo atribuye al
   corto *Big Chibi 6: «Low Battery»* (2019), con el guion del corto y el
   clip de la película sin gato. Pero TV Tropes (Memes) pone el «bebé
-  peludo» como de la película y el clip visto sólo dura 1:04. **Antes de
-  usarlo, mirar la secuencia entera** en la película de Internet Archive.
+  peludo» como de la película, el clip visto sólo dura 1:04 y en la wiki
+  hay un arte conceptual de la película llamado «Baymax Hairy Baby
+  Concept Art» (Baymax sentado junto a un gato; hoja 02, n.º 53,
+  [original](https://static.wikia.nocookie.net/disney/images/6/63/Baymax_Hairy_Baby_Concept_Art.jpg)).
+  **Antes de usarlo, mirar la secuencia entera** en la película de
+  Internet Archive.
 - **«Estoy satisfecho con mi cuidado» de Hiro**, de oído: dos fuentes de
   texto, sin clip del clímax doblado.
 - **Tadashi en vídeo**: sin clip propio con cara; sus poses son de
@@ -2387,12 +2439,12 @@ segunda pasada del equipo (24-sep-2026).
 |---|---|---|---|
 | 1 · Arte oficial variado | §3, §3.0 | ✅ | 299 imágenes de la wiki en 7 hojas, todas miradas; 3 elegidas y citadas por número. Pósters de EE. UU., Latinoamérica (el n.º 44, con Baymax dando un aviso), Japón, Corea y China; libros, hojas de modelo firmadas, arte de Shiyoon Kim, manga, parches. Los de IMP Awards siguen sin abrir. |
 | 2 · Fotogramas de escenas icónicas | §4, §4.1 | ⚠️ | 6 escenas de la película y 1 de la serie, vistas con fotograma y minuto, pero en clips de Dailymotion (no 1080p) y con **minuto del clip**, no de la película. Las escenas que hacen llorar no tienen clip. |
-| 3 · Fan art y 3D con licencia | §5 | ✅ | Licencias leídas en la API de Sketchfab (7 modelos CC BY, uno con huesos; 1 NC-SA), BlendSwap, Poly Haven CC0; fan art con autor. Los autores de Pixiv, sin segunda fuente. |
+| 3 · Fan art y 3D con licencia | §5 | ✅ | 3 modelos CC BY leídos en la API de Sketchfab (uno con huesos) más 4 CC BY de la primera pasada; 1 NC-SA y BlendSwap NC, marcados; Poly Haven CC0; fan art con autor. Los autores de Pixiv, sin segunda fuente. |
 | 4 · Sitios, luz, paleta y texturas | §6 | ✅ | 6 tomas medidas con `estilo.py` (cuarto, cocina, ciudad de noche y al atardecer); texturas CC0. Sin toma medida de día ni del garaje. |
 | 5 · Tipografía por uso | §7 | ✅ | Logo visto y medido; 9 letras con fontTools (Kosugi Maru rota); una letra libre para cada uso, todas con tildes, ñ, ¿ y ¡. WildWords en el manga, sin confirmar. |
 | 6 · Cómo hablan en pantalla | §8 | ✅ | La pantalla del pecho, vista: la tabla del dolor de la serie medida, el póster latino n.º 44, la interfaz de escaneo, los vídeos de Tadashi (guion), los chips medidos y los ojos de escaneo. |
 | 7 · Personajes y popularidad | §2, §9 | ✅ | Encuesta japonesa abierta entera (Baymax 1.º, 99 votos; Mochi 5.º), China, taquilla. Encuesta oficial de Disney: buscada, no la encontré. |
-| 8 · Doblaje latino y frases | §10 | ✅ | 18 personajes y todo el equipo en dos o tres fuentes (Fred, GoGo y Wasabi, nuevos); 22 frases oídas con minuto. La frase final de Hiro, sin oír. |
+| 8 · Doblaje latino y frases | §10 | ✅ | 18 personajes y todo el equipo en dos o tres fuentes (Fred, GoGo y Wasabi, nuevos); 23 frases oídas con minuto. La frase final de Hiro, sin oír. |
 | 9 · Música y sonido | §11 | ⚠️ | Disco completo con dos fuentes, «Immortals» en su escena, «Eye of the Tiger», opening de la serie visto. Qué suena en las escenas de llanto se **deduce** por el título de la pista; el sonido de Baymax tiene una fuente. |
 | 10 · Vídeos y tendencias con minuto | §12, §12.1 | ⚠️ | Tráiler latino entero con minuto y rótulos; 9 clips mirados. YouTube y TikTok bloqueados: las tendencias no tienen minuto. |
 | 11 · Videojuegos | §8, §13, §F | ✅ | KH3, Battle in the Bay, Bot Fight, Infinity, Mirrorverse y 20 más; interfaces de Battle Mode y Sorcerer's Arena vistas. Ningún juego tiene caja de diálogo propia. Game UI Database y TCRF sin datos. |
