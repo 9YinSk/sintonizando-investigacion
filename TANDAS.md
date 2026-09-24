@@ -28,7 +28,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S3 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/09-mafalda.md`, `encargos/10-k-on.md`, `encargos/11-chainsaw-man.md`, `encargos/12-kakegurui.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 09-mafalda
+- [x] 09-mafalda
 - [ ] 10-k-on
 - [ ] 11-chainsaw-man
 - [ ] 12-kakegurui
