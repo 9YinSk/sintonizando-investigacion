@@ -24,9 +24,12 @@ tiene que tener una biblia).
 2. **Doblaje latino**: pasa cada nombre de actor, estudio y director por la API
    de Doblaje Wiki y una segunda fuente. Corrige lo que esté mal y pasa a ✅ lo
    confirmado. Añade las «frases propias del doblaje» que salgan.
-3. **Minutos exactos**: con `yt-dlp` (capítulos y subtítulos) o subtítulos de
-   GitHub, pon capítulo y minuto a las escenas y frases que no lo tengan, y
-   comprueba que cada enlace de vídeo existe.
+3. **Mirar los vídeos y poner minutos exactos**: sigue «Mira los vídeos de
+   verdad» de `AYUDANTE.md` (opening, ending, tráiler y 3 escenas con
+   `herramientas/fotogramas.py`, mirando las hojas). Pon capítulo, minuto y
+   enlace `&t=` a las escenas, poses y frases que no lo tengan, y comprueba que
+   cada enlace de vídeo existe. Frases del doblaje latino textuales, sacadas de
+   clips oficiales doblados.
 4. **Tamaños reales**: en `referencias.json`, mide `ancho` y `alto` con la API de
    la wiki (o bajando la imagen); cambia los enlaces muertos y sube las mejores
    imágenes nuevas de las hojas (quedan 20-40 entradas).
@@ -37,6 +40,13 @@ tiene que tener una biblia).
    y di por qué.
 7. **Los conceptos de lámina**: si las imágenes nuevas dan una pose u objeto
    mejor, cámbialo en los 3 conceptos (con el número de hoja o el enlace).
+8. **Los «no encontré»**: vuelve a buscar cada uno con la red abierta (texto
+   de la wiki, idioma original). Varios salieron por la red cerrada, no porque
+   no existan.
+9. **Los puntos que faltan del encargo**: compara la biblia con los 17 puntos de
+   `ENCARGO.md` (sobre todo 13 carácter y forma de hablar, 14 poses con minuto,
+   15 vestuario con hex, 16 fondos de pantalla con tamaño y autor, 17 guía para
+   IA) y complétalos. Añade la tabla «Cumplimiento del encargo» de `AYUDANTE.md`.
 
 ## Cómo dejarlo escrito
 

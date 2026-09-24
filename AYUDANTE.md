@@ -60,13 +60,61 @@ directa para todo lo demás, con `curl` o Python:
 Si una web da 403, anótalo en la bitácora y busca otra vía; no gastes más de
 dos intentos en la misma.
 
+## Mira los vídeos de verdad (obligatorio en series)
+
+Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer reseñas
+**no cuenta** como mirar. Tú puedes ver imágenes: úsalo.
+
+1. Como mínimo mira **el opening, un ending, un tráiler y 3 escenas icónicas**
+   (clips oficiales en YouTube):
+   `python3 herramientas/fotogramas.py "<url>" --cada 3 --salida <tu-carpeta-de-trabajo>/<nombre>`.
+   Saca hojas con el número y el minuto de cada fotograma. **Ábrelas con Read y
+   míralas** (`--fotograma <segundo>` saca uno en grande).
+2. Lo que escribas de poses, gestos, ropa, luz, encuadres y tipografía en
+   pantalla sale de lo que viste, con **minuto y enlace `&t=`**. Las poses del
+   punto 14 salen de aquí y de las hojas de la wiki, no de la memoria.
+3. **Colores medidos**: saca los hex con Pillow de un fotograma o de arte
+   oficial (di de cuál). Las paletas de fans sólo como contraste.
+4. **Frases del doblaje latino, textuales**: busca clips oficiales doblados
+   (Crunchyroll en Español, Netflix Latinoamérica, Disney/Warner Latino, el
+   canal de la distribuidora…) y baja sus subtítulos o subtítulos automáticos
+   en español (`yt-dlp --skip-download --write-subs --write-auto-subs
+   --sub-langs "es.*" <url>`). Cita cada frase con su vídeo y minuto. Si no hay
+   clips doblados oficiales, dilo.
+
+## El encargo manda: no lo «corrijas» sin pruebas
+
+Si el encargo o el dueño nombran algo (un objeto, una escena, un gag) y tú no lo
+encuentras, **lo más probable es que no buscaste bien**. Antes de escribir «no
+existe» o «posible confusión»: búscalo en el texto de la wiki
+(`api.php?action=query&list=search&srwhat=text&srsearch=…`), en inglés y en el
+idioma original, y en el wikitext de las páginas de los personajes. Si aun así
+no aparece, escribe «no lo encontré» con las búsquedas que hiciste, **nunca**
+«no existe». (Caso real: la caja de mangos de Bocchi sale en el episodio 1 y en
+su ficha de la wiki; el ejemplo antiguo dijo que era una confusión.)
+
+## Los ejemplos de `biblias/_ya_hechas/` son antiguos
+
+Se hicieron antes de este encargo y se quedan cortos (vídeos sin mirar, el de
+Attack on Titan tiene 99 líneas). Sirven para ver el tono, no el nivel. El nivel
+lo marca `ENCARGO.md`, punto por punto.
+
+## Cierra con la tabla de cumplimiento (obligatoria)
+
+Antes de la bitácora, añade **«Cumplimiento del encargo»**: una tabla con los
+17 puntos de «Qué investigar», los 3 conceptos, las 40 fuentes, los tipos de
+fuente de «Profundidad exigida», las hojas y `referencias.json`. Para cada uno:
+✅ hecho, ⚠️ a medias o ❌ no hecho, y **por qué**. Nada se omite en silencio:
+si no lo hiciste, se ve en la tabla.
+
 ## Calidad
 
 - Mínimo **40 fuentes distintas**, de todos los tipos que pide `ENCARGO.md`.
 - ✅ = confirmado en dos fuentes; ⚠️ = una sola fuente o de memoria. No
   inventes minutos, tamaños ni nombres: si no lo comprobaste, lleva ⚠️.
 - `referencias.json`: 20-40 entradas con `url`, `fuente`, `ancho`, `alto`
-  (**medidos**), `que_es`, `para_que`, `licencia`.
+  (**medidos**), `que_es`, `para_que`, `licencia`. La `url` es **la imagen**
+  (o el vídeo con `&t=`), no una página donde «hay imágenes».
 - Frases cortas, para leer en el celular. Termina con los 3 conceptos de lámina
   y la «Bitácora de búsqueda».
 
