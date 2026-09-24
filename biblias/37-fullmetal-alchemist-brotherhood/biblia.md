@@ -1019,11 +1019,99 @@ acuarela**, naranja y mostaza, casi sin línea negra ✅.
 
 ## 13 · Videojuegos de la franquicia
 
-(pendiente)
+- **Ningún juego de FMA en Steam** ✅ (API de la tienda: 0 resultados).
+- **La lista** ✅ ([wiki](https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_Video_Games)):
+  - Línea de 2003: *and the Broken Angel* (PS2), *Curse of the Crimson
+    Elixir* (PS2), *The Girl Who Succeeds God* (PS2, sólo Japón), *Dream
+    Carnival* (PS2), *Stray Rondo* y *Sonata of Memories* (GBA), *Dual
+    Sympathy* y un juego de cartas (DS), 4 juegos flash de Adult Swim.
+  - Línea de Brotherhood: ***Prince of the Dawn*** y ***Daughter of the
+    Dusk*** (Wii, sólo Japón), ***Brotherhood*** (PSP, Bandai Namco), ***To
+    the Promised Day*** (PSP) y ***Fullmetal Alchemist Mobile***.
+
+### 13.1 *Brotherhood* (PSP, 2010): la interfaz, vista ✅
+
+Tres capturas reales de [The Video Games Museum](https://www.video-games-museum.com/en/game/Fullmetal-Alchemist-Brotherhood/89/5/43998)
+(480×272), miradas y medidas:
+- **Menú**: panel **granate oscuro translúcido** (`#6B0000`), **cruz de
+  Flamel roja** arriba a la izquierda, opciones en **dorado** («Story
+  Mode», «Free Battle Mode», «Multiplayer», «Gallery Mode», «Options»), la
+  activa con una **barra roja**; retrato de Lan Fan a la derecha; ayudas de
+  botones al pie.
+- **Combate**: nombres flotando sobre las cabezas con un **rombo
+  amarillo**; abajo a la izquierda, aliados con **barra de vida
+  horizontal** (Alphonse en celeste) y un icono redondo verde.
+- Acción cooperativa **hasta 4 jugadores**, misiones por personaje ✅
+  ([GameFAQs](https://gamefaqs.gamespot.com/psp/961552-hagane-no-renkinjutsushi-senaka-o-takuseshimono)).
+
+### 13.2 Los demás
+
+- ***Prince of the Dawn*** (Wii, 2009): aventura por Ciudad Central; Ed y
+  Al hablan con la gente con **«hablar», «mirar» y «tocar»** ✅
+  ([GBAtemp](https://gbatemp.net/threads/fullmetal-alchemist-prince-of-the-dawn-details.139971/),
+  [wiki](https://fma.fandom.com/wiki/Fullmetal_Alchemist:_Prince_of_the_Dawn)).
+  Hoja #84: Ed con el mando de Wii (promoción) ⚠️.
+- ***Fullmetal Alchemist Mobile*** (Square Enix): sólo Japón, del
+  4-ago-2022 al **29-mar-2024**; combate en arena 3D con estrategia por
+  turnos y gacha; cerró tras quejas por un cambio de equilibrio del
+  primer aniversario ✅ ([ANN](https://www.animenewsnetwork.com/news/2023-12-27/fullmetal-alchemist-mobile-end-of-service-notice/),
+  [Pocket Gamer](https://www.pocketgamer.com/fullmetal-alchemist-mobile/shutdown/)).
+- **Contenido descartado** ([TCRF](https://tcrf.net/Category:Fullmetal_Alchemist_series)) ⚠️
+  (Cloudflare; sólo el resumen del buscador): menús de depuración ocultos
+  en *Broken Angel* (con prueba de sonido), *Dual Sympathy* y *Dream
+  Carnival*.
+- ⚠️ No se vio la **caja de diálogo** del modo historia de ningún juego,
+  ni la letra de sus menús (Game UI Database y MobyGames dieron 403).
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
-(pendiente)
+### 14.1 Lo que todo fan reconoce
+
+- **«Intercambio equivalente»**: la ley y la frase de la serie ✅.
+- **La estatura de Ed**: le enfurece que le llamen bajito. Es canon… y el
+  fandom **ya está harto del chiste**: el post «I've Had It Up To Here With
+  The Short Jokes» (meme de Bob Esponja) tiene **1 970 puntos** ✅
+  ([r/FullmetalAlchemist](https://old.reddit.com/r/FullmetalAlchemist/comments/1ustwqy/ive_had_it_up_to_here_with_the_short_jokes/)).
+- **Al y los gatos**: sólo deja entrar **mujeres y gatos** en su armadura;
+  la figura Nendoroid trae **un gato dentro del pecho** ✅ (wiki + §24).
+- **El golpe de llave inglesa** de Winry (tráiler [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54)) ✅ (visto).
+- **«Royai»** (Roy y Riza): el ship más grande. Arakawa dijo en el Artbook
+  3 que no se casan sólo por el reglamento militar. Roy la llama
+  «Elizabeth» en clave y amenaza con quemar a quien se le insinúe ✅.
+- **«Edwin»** (Ed y Winry): canon, acaban con hijos ✅.
+- **El ajedrez de Roy**: su equipo son piezas (Fuery peón, Falman alfil,
+  Havoc caballo, Breda torre, Hawkeye reina, Roy rey) ✅.
+- **Armstrong** sacando músculo (blooper [3:53](https://archive.org/download/turner_video_11409/11409.mp4?t=233))
+  y abrazando a Ed (ED1 0:42) ✅ (visto).
+- **La lluvia de Roy** («Empezó a llover», §10.3) ✅.
+
+### 14.2 Zona delicada
+
+- **Nina Tucker** (ep. 4): «el momento más triste y horrible que pueda
+  existir» para el fandom hispano ✅ ([Univision](https://www.univision.com/entretenimiento/geek/fullmetal-alchemist-los-momentos-de-brotherhood-que-todavia-nos-dan-ganas-de-llorar-y-no-solo-de-tristeza)).
+  **Nunca** en una lámina alegre.
+- **La muerte de Hughes** (ep. 10): duele «todos estos años después».
+  Hughes en la lámina, sí; su muerte, no.
+- **Ishval**: guerra y genocidio. Sus colores (el rojo sangre de §5) sólo
+  para tono dramático.
+
+### 14.3 Qué NO hacer
+
+- Reducir a **Ed al chiste de la estatura**. Como mucho, un guiño sin
+  subrayarlo con texto.
+- Dibujar a **Al** como «el gracioso de la armadura» y nada más: es el más
+  maduro de los dos.
+- **Mezclar la serie de 2003 con Brotherhood**: cambian los uniformes, el
+  color de ojos de Envidia y los nombres ⚠️ (una fuente: Reddit y las
+  diferencias de pronunciación de Doblaje Wiki). La hoja #41 es de 2003.
+- Tratar a **Envidia en femenino** (fue el error de la serie de 2003) ✅.
+- Olvidar que **Riza es la mujer más votada** (3.ª) por encima de Winry.
+- **Una burbuja blanca** o letras redondas infantiles (§7.8).
+- **Colores alegres** en escenas de guerra o de muerte (regla 6 del dueño).
+- Usar en la lámina el **círculo de la transmutación humana**: es el tabú
+  de la serie (el que costó el cuerpo de Al).
+- Poner a **Roy con gafas** o a **Hughes sin ellas**: Roy no las lleva
+  (E9); Hughes sí (E12).
 
 ## 15 · Poses analizadas por personaje
 
