@@ -2160,6 +2160,48 @@ Lo tachado se resolvió en la 2.ª pasada.
 
 ---
 
+## Cumplimiento del encargo
+
+Estado al cerrar la 2.ª pasada (24-sep-2026). ✅ hecho · ⚠️ a medias ·
+❌ no hecho. Cada ⚠️ dice por qué.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 2 hojas de la wiki (69 imágenes), hoja de modelo del databook con cita de Takase, key visuals de AniList y de la película, portada de la novela (§3). No hay videojuego oficial del que sacar arte |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 6 vídeos mirados con minuto y enlace `?t=` (§2.4, §12, hoja escenas). Pero ninguno en 1080p: YouTube pedía iniciar sesión y las copias de Dailymotion son de 512×288 |
+| 3 · Fan art y 3D con licencia | ✅ | Licencias y usuarios de Sketchfab leídos en su API (3 corregidos); fan art con autor; cosplay con licencia libre (§4) |
+| 4 · Sitios, luz, paleta y texturas | ✅ | Luz vista en vídeo; hex medidos con Pillow y `estilo.py`; texturas CC0 de ambientCG y Poly Haven (§5) |
+| 5 · Tipografía por uso, con letra libre y tildes | ✅ | Tabla uso por uso (§6.2b); Special Elite y Merriweather confirmadas como letras reales de la web oficial; tildes comprobadas con fontTools. Falta sólo la letra exacta del logo latino (aproximación libre dada) |
+| 6 · Cómo hablan en pantalla | ✅ | La carta tecleada es el cuadro; no hay manga (comprobado en AniList); Violet no parpadea (entrevista) (§7) |
+| 7 · Personajes y popularidad | ✅ | Dos encuestas de ねとらぼ (2021 y 2022) y conteo de Danbooru; no hay encuesta oficial y se dice (§9) |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Reparto completo (31 papeles) con minuto de la muestra oficial y la ficha de Doblaje Wiki; cambios de voz. Sólo **2 frases textuales**, de un audio oficial de Doblaje Wiki: los clips doblados de YouTube no se pudieron bajar y no hay copias latinas en Dailymotion ni en Internet Archive (§10) |
+| 9 · Música y sonido | ✅ | Opening mirado entero, vídeo del ending con créditos, OST en MusicBrainz, tema por escena (guía de fans ⚠️), el tecleo como efecto que todos reconocen (§11) |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | Los 6 mirados tienen minuto. Los análisis, fandubs y TikTok de YouTube y TikTok siguen sin minuto: no cargaron desde el servidor (§12) |
+| 11 · Videojuegos | ✅ | No hay videojuego oficial: comprobado en inglés, japonés y The Cutting Room Floor (§13) |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Paraguas, tecleo, ep. 10, humor de oficina; qué no hacer ampliado (Violet furiosa, de reojo, repetir la idea de Frieren) (§14) |
+| 13 · Personajes a fondo y su cara en cada emoción | ⚠️ | Carácter, historia, forma de hablar y dinámicas, hecho. Caras de Violet con captura (alegría, tristeza, vergüenza); **miedo y rabia sin captura**, y **ninguna cara por emoción de Gilbert ni Hodgins**: la wiki no las etiqueta y no se pudieron ver los episodios (§8) |
+| 14 · Poses analizadas, 6-10 por personaje | ⚠️ | Violet (20) y Gilbert (4) vistas en vídeo y hojas. Hodgins, Cattleya, Benedict, Iris y Erica tienen escena y minuto del subtítulo, pero **postura de memoria**: no salían en ningún clip accesible (§15) |
+| 15 · Vestuario con hex | ✅ | Traje de Doll y uniforme militar medidos; los demás, vistos en el tráiler (colores de Hodgins e Iris sin medir) (§16) |
+| 16 · Paisajes y fondos de pantalla | ✅ | Sitios con su luz; 8 fondos de Wallhaven con tamaño, autor y origen; key visuals oficiales (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos con hex medidos, etiquetas de Danbooru, técnica, y guía de voz con frases reales por emoción (§18) |
+| 18 · Estilo de dibujo y cómo replicarlo | ✅ | Programas del estudio según el staff; Photoshop y Blender paso a paso; encuadres. No hay *rig* libre del personaje (dicho) |
+| 19 · Texturas 2D | ✅ | Tramas (no aplican: no hay manga), papel, pinceladas, telas CC0, cuadros, emblema de C.H. |
+| 20 · Gustos y detalles | ⚠️ | Altura y grupo de 7 personajes (Starter Book), cumpleaños de Violet, objetos, cómo se ven. **Comida favorita, lo que odian y los demás cumpleaños: no encontrados** |
+| 21 · Por qué la aman | ✅ | Notas, premios, con quién se identifican, escenas que hacen llorar con minuto, música y reacción. Vídeos de reacción con vistas, no (YouTube) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 7 fandubs, reto de TikTok, 4 covers del opening. **Sin vistas ni fechas comprobadas** (YouTube bloqueado); no hay parodias hispanas |
+| 23 · Colaboraciones y cruces | ✅ | Garden Museum Hiei (2022 y 2023) con arte nuevo, figuras, sellos, cosplay; sin videojuegos ni café fijo (dicho) |
+| 24 · Obras parecidas | ✅ | AniList, mismo estudio, y el choque con el concepto de Frieren para este canal |
+| 25 · Mundo, historia y símbolos | ✅ | Cinco reglas, arcos, emblemas y vocabulario (algunos arcos con una fuente ⚠️) |
+| Concepto A · La hoja en la máquina | ✅ | Con hojas, hex y referencias nuevas (§19) |
+| Concepto B · La mesa de las letras | ✅ | Con las caras del tráiler (§19) |
+| Concepto C · El casillero de C.H. | ✅ | Benedict confirmado como secundario más querido (§19) |
+| 40 fuentes distintas | ✅ | Más de 100 webs enlazadas |
+| Tipos de fuente | ⚠️ | Oficiales, staff, japonés, chino y coreano, wikis, Reddit (Arctic Shift), arte, vídeo, GitHub, Sketchfab y doblaje latino, sí. **Wayback Machine bloqueada** por la salida del servidor; **TV Tropes y TCRF dieron 403** (usados por el buscador) |
+| Hojas de contacto | ✅ | 3 en `hojas/`: `personajes_01.jpg`, `personajes_02.jpg`, `escenas_01.jpg` (§3.5) |
+| `referencias.json` | ✅ | 168 referencias, las mejores primero; 89 con tamaño medido |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)

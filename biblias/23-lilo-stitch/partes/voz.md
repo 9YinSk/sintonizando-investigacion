@@ -416,7 +416,7 @@ fecha — datos medidos, no de memoria):
 - Quién dirigió el doblaje de 2002 con certeza (dos fuentes que no coinciden,
   ver tabla 8.1).
 
-## Sigue: fotogramas propios de miedo y vergüenza de Jumba y Pleakley, de rabia y miedo de Lilo, y de miedo/vergüenza de Nani (usar los mismos archive.org ya cachados en /tmp/claude-0/trabajo/23-lilostitch-voz/pelicula/video.mp4 si sigue ahí, si no, volver a bajar); bajar subtítulos en español de un clip oficial doblado para la frase de la pared de fotos («Aren't they beautiful?») del punto 8.3; confirmar quién dirigió el doblaje de 2002 (Ricardo Tejedo vs José Carlos Moreno).
+## Sigue: fotogramas propios de miedo y vergüenza de Jumba y Pleakley, de rabia y miedo de Lilo, y de miedo/vergüenza de Nani (volver a bajar `https://archive.org/details/lilo-stitch-2002_202609` con `fotogramas.py`, el `video.mp4` de esta tanda se borró para no llenar el disco compartido); bajar subtítulos en español de un clip oficial doblado para la frase de la pared de fotos («Aren't they beautiful?») del punto 8.3; confirmar quién dirigió el doblaje de 2002 (Ricardo Tejedo vs José Carlos Moreno).
 
 ---
 
