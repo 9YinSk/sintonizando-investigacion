@@ -169,7 +169,7 @@ El minuto es el de esa copia: puede moverse 1 o 2 minutos.
 | Yor se traba | ep. 4, 14:37 | sonrojada, se atasca al responder ✅ | ídem |
 | **«I'm Anya Forger!»** | ep. 4, **15:49** | primer plano de los ojos verdes muy abiertos justo antes: **nervio y sorpresa, no seguridad** ✅ | ídem |
 | La cara «Heh» | ep. 6, **18:26 a 18:28** | párpados a media altura, sonrisa torcida, barbilla arriba; Damian furioso a 18:30; Becky admirada a 18:40 ✅ | [IA ep. 6](https://archive.org/details/spy-family-06-720p) |
-| Loid disfrazado | ep. 12, 12:45 | mono azul y gorra blanca de cuidador de pingüinos, con el rótulo 「エージェント〈黄昏〉特技：変装」 ✅ | [IA ep. 12](https://archive.org/details/spy-family-12-720p) |
+| Loid disfrazado | ep. 12, 12:45 | mono azul y gorra blanca de cuidador de pingüinos, con el rótulo 「エージェント〈黄昏〉特技：変装」 ✅ | [IA ep. 12](https://archive.org/details/spy-family-12-tvq-720p) |
 
 > [!note] El formato de los rótulos (segunda pasada)
 > Visto: la cartela de misión es **letra blanca sobre negro** (ep. 1, 4:15)
@@ -257,7 +257,7 @@ T2 = 26-37, T3 = 38 en adelante). El enlace del tamaño lleva **al original**.
 | P·27 | Becky, 12 expresiones a color (guía oficial) | [906×685](https://static.wikia.nocookie.net/spy-x-family9171/images/5/57/Becky_Blackbell_Colored_Expressions.png/revision/latest?cb=20240914171622) |
 | P·28 | Tomo 9 (EE. UU.): **Becky en la Coconut Chair** ✅ | [1400×2100](https://static.wikia.nocookie.net/spy-x-family9171/images/f/fd/US_Volume_9.png/revision/latest?cb=20221127233453) |
 | P·29 | Tomo 7: **Damian en la Willow Chair** de Mackintosh ✅ | [1280×2012](https://static.wikia.nocookie.net/spy-x-family9171/images/2/24/Volume_7.png/revision/latest?cb=20210516152858) |
-| P·30 | Póster AEON MALL 2022: la familia paseando por una calle de Berlint, en invierno. Grupo caminando | [1920×1375](https://static.wikia.nocookie.net/spy-x-family9171/images/4/44/AEON_MALL_2022_Poster.png/revision/latest?cb=20250422215449) |
+| P·30 | Póster AEON MALL 2022: la familia paseando por una calle de Berlint, en invierno. Grupo caminando, **con bolsas de la compra frente a escaparates** (segunda pasada): la familia «saliendo a hacer algo» | [1920×1375](https://static.wikia.nocookie.net/spy-x-family9171/images/4/44/AEON_MALL_2022_Poster.png/revision/latest?cb=20250422215449) |
 
 #### `hojas/objetos_01.jpg` (O·1 a O·30)
 
@@ -431,6 +431,7 @@ para mirar.
 | [Anya Forger (SPY x FAMILY)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e) | tonyhoni | figura · **CC BY** (API) |
 | [Yor Forger](https://sketchfab.com/3d-models/none-688f5be5228a41eb9a7cd0817d46b8f3) | Acadd | Yor · **CC BY** (API, segunda pasada) |
 | [Bond Forger](https://sketchfab.com/3d-models/none-481783da76df4e419132062b77c1527b) | won1 | Bond · **CC BY** (API, segunda pasada) |
+| [Spy x Family Anya's bedroom](https://sketchfab.com/3d-models/none-ef354530387548fcb230ff7a86897bad) | hwzzz | **el cuarto de Anya**, descargable · **CC BY** (API, segunda pasada): base para el concepto C |
 | [Etiqueta spyxfamily](https://sketchfab.com/tags/spyxfamily) | varios | todo lo demás |
 
 De **Loid no hay modelo propio** con licencia libre: al buscar «Loid
@@ -1065,6 +1066,11 @@ servidor: la tendencia «mimir» sale de Reddit y títulos.
   juego tranquilo para fans.
 - Resumen de fan del juego con capturas:
   [yumeka-sxf en Tumblr](https://www.tumblr.com/yumeka-sxf/740544535420141568/spy-x-family-operation-diary-video-game-gameplay).
+- **Taiko no Tatsujin: Rhythm Festival, pack de SPY×FAMILY** (Bandai Namco,
+  6-nov-2024) en [Steam](https://store.steampowered.com/app/3068520), con
+  una [captura a 1920×1080](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3068520/ss_665027001661820b7e35bbe636db68d0000497b6.1920x1080.jpg)
+  de su interfaz; trae español de España ✅ (`datos-texto.md`, API de
+  Steam).
 - The Cutting Room Floor: buscado en la segunda pasada
   (`site:tcrf.net spy x family`): **no tiene página** del juego ✅.
 - GitHub: hay juegos de fans, como un «Anya lee tu mente» en Pygame
@@ -1133,8 +1139,8 @@ servidor: la tendencia «mimir» sale de Reddit y títulos.
 > de Internet Archive (T1, eps. 1-12, 1280×720 reales) y el teaser T3 de
 > Dailymotion. Donde pone **visto**, la postura sale del fotograma, con el
 > minuto de esa copia (puede moverse 1-2 minutos frente a Crunchyroll).
-> Enlaces: [IA ep. 1](https://archive.org/details/spy-family-01-720p), [IA ep. 2](https://archive.org/details/spy-family-02-720p), [IA ep. 3](https://archive.org/details/spy-family-03-720p), [IA ep. 4](https://archive.org/details/spy-family-04-720p), [IA ep. 6](https://archive.org/details/spy-family-06-720p), [IA ep. 7](https://archive.org/details/spy-family-07-720p), [IA ep. 10](https://archive.org/details/spy-family-10-720p),
-> [IA ep. 12](https://archive.org/details/spy-family-12-720p). Siguen **sin ver** (⚠️, esos capítulos no están en Internet
+> Enlaces: [IA ep. 1](https://archive.org/details/spy-family-01-720p), [IA ep. 2](https://archive.org/details/spy-family-02-720p), [IA ep. 3](https://archive.org/details/spy-family-03-720p), [IA ep. 4](https://archive.org/details/spy-family-04-720p), [IA ep. 6](https://archive.org/details/spy-family-06-720p), [IA ep. 7](https://archive.org/details/spy-family-07-720p), [IA ep. 10](https://archive.org/details/spy-family-10-tvq-720p),
+> [IA ep. 12](https://archive.org/details/spy-family-12-tvq-720p). Siguen **sin ver** (⚠️, esos capítulos no están en Internet
 > Archive o la escena no salió en el tramo): Loid 3 y 6, Yor 3, 4 y 6,
 > Damian 1 y 3, Bond 2 y 3.
 
@@ -1296,6 +1302,10 @@ queda falso.
 - **El manga**: Endo entinta **a mano** y pasa a digital para tramas y
   color ✅ (misma página + [Fountaindale Public Library](https://www.fountaindale.org/mangaka-showcase-tetsuya-endo-and-spy-x-family/),
   que la resume).
+- Más staff ([AniList](https://anilist.co/anime/140960/staff)): diseño de
+  color **Satoshi Hashimoto**, dirección de fotografía **Akane Fushihara**,
+  CG **Kana Imagaki**, diseño de objetos Yuu Matsuo, Mai Teshima y Seiji
+  Handa, efectos de sonido **Noriko Izumo** ⚠️ (una fuente).
 - **Programa del anime** (RETAS, Toon Boom, Clip Studio): no lo encontré
   en ninguna entrevista, ni en inglés ni en japonés ⚠️. No lo doy por
   sabido.
@@ -1856,6 +1866,8 @@ Berlin street, pink stone buildings, red tram».
 | Anya **triste** | «teary close-up» | tráiler de *CODE: White*, 2:00 |
 
 **Imágenes de referencia**:
+- **Caras por emoción**: **P·26** (Damian) y **P·27** (Becky), 12
+  expresiones a color cada una, de la guía oficial.
 - **Estilo**: hojas de modelo **P·5** (Damian) y **P·6** (Becky); **P·16**
   (Anya y Bond, ep. 15) y **P·19** (Loid y Yor en casa, ep. 21) para
   color; el key visual de la T3 ([spy-family.net](https://spy-family.net/news/?p=2010)).
@@ -1968,6 +1980,20 @@ suena a dibujo animado (§11.1).
   sellos de goma** de pasaporte. Oficio: **seis pestañas de colores** en el
   canto. «Hacer amigos»: una pegatina de Chimera. Texto: «**Ponle a tu hilo
   tus etiquetas**».
+- **Segunda pasada (lo visto cambia esto)**:
+  - La firma real de Loid es **un plano de mano y pluma** escribiendo «Loid
+    Forger» sobre el contrato (ep. 1, 4:36, §2.1). Pon **su mano firmando
+    el campo «Me llamo»** en primer plano: es la pose más fiel que hay, y
+    evita un busto cortado.
+  - WISE le manda la misión con **tinta que aparece con el calor** en un
+    periódico (ep. 1, 2:57): una **taza de café humeante** junto a la ficha,
+    con el borde de la hoja algo tostado, es un guiño que todo fan pilla.
+  - Para el volumen de Loid en 3D: **POP UP PARADE Loid** (§F.4). Para
+    Anya asomada: la **Nendoroid** trae la cara de sonrisa pícara (§F.4).
+  - Las **placas de nombre oficiales** de Tobu Zoo y Nijigen no Mori (O·14,
+    O·15, §F.3) sirven de modelo para la foto con clip.
+  - Otro modelo de hoja: las **«Confidential Files» de Franky**, extra del
+    tomo 2 (764×1198, en `referencias.json`).
 
 ### Concepto B — «La entrevista de Eden» (Anya se presenta)
 
@@ -1978,6 +2004,12 @@ suena a dibujo animado (§11.1).
 - **Personaje**: **Anya**, sentada muy derecha entre Loid y Yor, en el
   momento de «¡Me llamo Anya Forger!» (ep. 4, 00:15:50; §15 Anya 2). Loid y
   Yor con la sonrisa tensa de la entrevista (Loid 2, Yor 2).
+- **Segunda pasada (visto en el ep. 4)**: Anya **no está segura**: justo
+  antes de decir su nombre tiene los ojos verdes **muy abiertos**, de nervio
+  (15:49). Yor, **sonrojada** y trabándose (14:37). La sala es de **madera
+  oscura con sofás de cuero rojo** y apliques dorados. El rótulo de los
+  profesores lleva **foto y datos en columnas** (11:55 y 13:01): cópialo
+  para el rótulo «MISIÓN: PRESENTARSE».
 - **Cómo habla**: **rótulo de ficha del anime** arriba a la izquierda, en
   mayúsculas y caja recta, como «WALTER EVANS, 59»: «**MISIÓN: PRESENTARSE**»
   en Anton. El formulario va en **Playfair Display**; las respuestas de
@@ -2009,6 +2041,13 @@ suena a dibujo animado (§11.1).
   **Chimera** sentado sobre la página, «presentándose» como en el ep. 3,
   00:05:24; **Bond** (5.º en votos) echado al lado, con la cabeza en el
   borde del cuaderno.
+- **Segunda pasada (visto en el ep. 3)**: en la escena real Anya sostiene a
+  Chimera **con las dos manos, en alto, a la altura de la cara** (5:37 a
+  5:44): si Anya está de pie, ésa es la pose. El cuarto, visto: **papel
+  rosa a rayas, muebles blancos con cajones rojos, cartel «ANIA»** y
+  cortinas verde agua. Bond echado junto a Anya es como en el teaser de la
+  T3 (0:03, §15 Bond 5). En Blender, el cuarto se puede partir del modelo
+  **«Spy x Family Anya's bedroom»** de hwzzz (CC BY, §4.1).
 - **Cómo habla**: todo el texto es **letra de Anya** en crayón, en **Caveat**
   negrita, con errores bonitos de niña si se quiere. Una sola frase suya,
   con halo de chispitas: «**¡Qué emoción!**».
@@ -2036,17 +2075,30 @@ la más distinta. **B** es la más fiel a una escena concreta.
 
 ## 20 · Lo que no pude verificar
 
-- **Ningún fotograma mirado**: YouTube, Crunchyroll y Netflix estaban
-  bloqueados. Los minutos salen de subtítulos; las posturas, de memoria ⚠️.
-- **El aspecto de los rótulos** del anime (letra, color, caja).
-- **La caja de diálogo** del videojuego.
+**Resuelto en la segunda pasada** (antes estaba aquí):
+- ~~Ningún fotograma mirado~~ → **16 poses y 13 escenas vistas** en
+  Internet Archive (720p) y 3 tráilers oficiales en Dailymotion (§2.1,
+  §12, §15).
+- ~~Licencias de Sketchfab~~ → leídas en su API (§4).
+- ~~Hex aproximados~~ → medidos con Pillow (§5.3, §16, §B.2).
+- ~~The Cutting Room Floor, Reddit~~ → TCRF no tiene página del juego;
+  Reddit leído por Arctic Shift (§D).
+
+**Sigue sin verificar** ⚠️:
+- **Letra y color exactos de los rótulos**: vistos a 720p, no medibles.
+- **La caja de diálogo** del videojuego: no hay capturas en las reseñas.
 - **La frase completa** de la descripción del canal («nadie comenta…»).
-- **Frases latinas** más allá de las de §10: no oí el audio.
-- **Licencias** exactas de los modelos de Sketchfab.
-- **Hex** de la paleta: todos aproximados.
-- **Cifras de MyAnimeList**: no salieron en la búsqueda.
-- **The Cutting Room Floor, Wayback Machine, Reddit**: sin cuota o
-  bloqueados (Reddit rechazado por la herramienta de búsqueda).
+- **Minuto exacto de las frases latinas** «Papi, quiero mimir», «¡Qué
+  emoción!», «chihuahita», «Segundo», «Loichi»: las muestras de Doblaje
+  Wiki no las traen y YouTube pidió iniciar sesión (§10).
+- **Martha Marriott, Susana Romero**: una sola fuente.
+- **Poses sin ver**: Loid 3 y 6, Yor 3, 4 y 6, Damian 1 y 3, Bond 2 y 3
+  (sus capítulos no están en Internet Archive).
+- **Cómo está dibujado el ep. 40** (pasado de Loid): la T3 sólo está en
+  Crunchyroll de pago.
+- **Vistas** de fandubs y covers en español.
+- **Software** del anime (RETAS, Toon Boom, Clip Studio).
+- **Cifras de MyAnimeList** y **Wayback Machine**: no se usaron.
 
 ---
 
