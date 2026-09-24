@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/101348_
@@ -149,6 +149,46 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Vinland_Saga#Datos%20de%20inter%C3%A
 - Tanto en la versión al español latinoamericano y al inglés por parte de Crunchyroll, el personaje del Rey Canuto es interpretado por mujeres transgénero (Luba Flores y Jessie James Grelle respectivamente)
 - En Prime Video, el anime se encuentra disponible con un doblaje realizado por inteligencia artificial.
 
+## Thorfinn · Personality (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Thorfinn#Personality_
+
+When the series begins, Thorfinn is shown as an innocent and friendly boy who is searching for adventure. He shared a very good relationship with his family and enjoyed stories told by Leif about his adventures. He has a good relationship with his father and looked up to him immensely, shown when he decides to follow Thors by sneaking on his boat to follow him. This would become the foundation of Thorfinn's drive to avenge his father. However, by the time he joins Askeladd's band, he is a cold-blooded individual, hellbent on his goal to avenge his father. He becomes aloof toward others, unmoved by and uninterested in what they do or thinks of him, choosing instead to keep to himself. This is seen when Thorfinn ignores the invitations from his fellow Vikings to join in on the fun and his refusing to eat dinner with the rest of them. His flaws lie in his temper and impulsive nature. This…
+
+## Thorfinn · Abilities (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Thorfinn#Abilities_
+
+Thorfinn grew up on the battlefield, having experienced over countless battles and raids following his father's death since the age of six. As such, he has a wealth of fighting experience. He quickly grew into a highly skilled warrior capable of swiftly killing warriors at least twice his age during his years with Askeladd's band. His fighting style plays focus on striking vital points instead of clashing with blades directly, he developed a nimble style that emphasizes speed after losing his knives and letting go of his thirst for killing. Thorfinn's strength is recognized by some of the greatest amongst both the vikings and mercenaries such as his great-uncle Thorkell the Tall, stating he was capable of becoming the next head of the Jomsvikings. Expert Combatant: Thorfinn is a highly skilled combatant. He can wield daggers and swords with great lethality and is shown to be incredibly…
+
+## Askeladd · Personality (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Askeladd#Personality_
+
+Askeladd is a sly, manipulative, cunning and charismatic man. Being an excellent swordsman, he is a great fighter, his biggest strength however lies in his intelligence and ability to strategize and adapt, a skill bolstered by his ability to know what kind of person someone is simply by looking at their face. He is quick to act and seize what he wants, yet slow to anger. As a captain, his bands look up to him as a bold and lucky person worthy of leading. Askeladd took care of his mother from a very young age, living in squalor and working very hard with no complaint. Witnessing how his mother and her people (the Welsh) were mistreated by the Norse and the English led Askeladd to despise his Scandinavian heritage and to embrace the Romano-Celtic heritage of his mother. He grew up with his mother telling him of their ancestor Artorius and how the great hero would someday come back to save…
+
+## Askeladd · Abilities (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Askeladd#Abilities_
+
+Master swordsman: Askeladd was a highly skilled swordsman, displaying a talent for this at age 11, when he defended his mother from his father Olaf. Despite being middle-aged at the time of his death, he survived combat against multiple opponents at once, including King Sweyn's royal guards. Ranged weapons: Askeladd had skill with throwing hatchets and throwing knives, although they were not his primary weapons. Leadership skills: Askeladd is also a master tactician as well as a skilled politician. His ability to manipulate those around him turned a horde of pirates and raiders into a close-knit group wholly loyal to him. He has shown himself capable of turning enemies into allies, as seen with Thorfinn, Thorkell, and Prince Canute. Intelligence: Askeladd could also instantly read a man just by looking at his face, an ability he claimed to have picked up from living 40 years among…
+
+## Canute · Personality (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Canute#Personality_
+
+Although initially timid, weak and always hiding behind Ragnar, Canute later begins to stick up for himself as Thorfinn constantly puts him down. Wanting revenge on his father for being secretly marked for death, Canute develops a more commanding and demanding personality. This was brought out by Askeladd's assassination of Ragnar, whom he wanted to eliminate as he was standing in the way of Canute's emotional maturity. Even Thorkell once commented on how Canute had the same mysterious eyes as his old comrade Thors, when he finally became a ‘true warrior’. Later on, Canute becomes a clever and manipulative character who doesn't hesitate to get rid of anyone getting into his way of building a paradise on Earth for the Vikings. He even goes as far as poisoning his own brother to rule Denmark, plotting against Ketil to create a pretext to take his lands and increase his profits and even…
+
+## Canute · Abilities (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Canute#Abilities_
+
+Canute is better known as a cunning and charismatic king; his enemies die swiftly and quietly from poison and assassinations due to his clever scheming. Despite his strong hatred for weapons in his youth, Canute takes up sword practice later in the series and becomes a decent and tactical fighter. He has fast reaction when Thorgil tried to assassinate him, It caught Canute offguard but he immediately stopped him with his sword. He also has good aiming in archery. With his North Sea Empire and the vast fleet, he becomes a terrifying force to be reckoned with.
+
+## Einar · Personality (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Einar#Personality_
+
+The events at Ketil's farm revealed Einar to be one of Thorfinn's more straightforward companions. He tends to react emotionally. Although outspoken, he demonstrates a great understanding of the people around him and especially of Thorfinn's struggles. Acknowledging his lack of combat prowess, Einar vows to help Thorfinn in his own way and is an ever welcoming companion. He's kinda fussy and tried to be friendly to Thorfinn. A softer side to Einar is evident as he can easily get embarrassed - noted by his reactions and blushing to whenever Arnheid compliments him.
+
+## Einar · Abilities (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Einar#Abilities_
+
+Einar has few abilities when it comes to combat, but he is quite large in stature and musculature. He also has experience farming and doing various other hands on tasks.
+
 ## Los personajes más dibujados por los fans (Danbooru, 510 dibujos de «vinland_saga»)
 _Fuente: https://danbooru.donmai.us/posts?tags=vinland_saga_
 
@@ -209,17 +249,10 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/VinlandSaga: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/VinlandSaga_
 
-**«favorite character»**
-- (784 votos, 31 comentarios) Askeladd just became my favorite character. · https://www.reddit.com/r/VinlandSaga/comments/1qgnwpb/askeladd_just_became_my_favorite_character/
-- (470 votos, 24 comentarios) (ch. 152) out of all of thorfinns' character development scenes, this HAS to be my favorite. it shows how far he's come… · https://www.reddit.com/r/VinlandSaga/comments/1he8lol/ch_152_out_of_all_of_thorfinns_character/
-- (291 votos, 36 comentarios) After watching S1E18 I can confirm Canute is becoming my favorite character in the series · https://www.reddit.com/r/VinlandSaga/comments/1gljzgg/after_watching_s1e18_i_can_confirm_canute_is/
-- (273 votos, 25 comentarios) he is my favorite character · https://www.reddit.com/r/VinlandSaga/comments/1f9zufo/he_is_my_favorite_character/
-- (227 votos, 70 comentarios) Vinland Saga character and what I think will be their favorite story to consume · https://www.reddit.com/r/VinlandSaga/comments/1etn6av/vinland_saga_character_and_what_i_think_will_be/
-- (193 votos, 33 comentarios) Who is your favorite character in Vinland Saga? Maybe ill get to engrave them next. · https://www.reddit.com/r/VinlandSaga/comments/1nlan4j/who_is_your_favorite_character_in_vinland_saga/
-**«unpopular opinion»**
-- (157 votos, 47 comentarios) Unpopular opinion:if Vinland saga was written as a 19th century novel instead of a 21st century manga it would be… · https://www.reddit.com/r/VinlandSaga/comments/1hoofzb/unpopular_opinionif_vinland_saga_was_written_as_a/
-- (118 votos, 24 comentarios) [Unpopular opinion] Thors' murder was karma for his past · https://www.reddit.com/r/VinlandSaga/comments/1j80pup/unpopular_opinion_thors_murder_was_karma_for_his/
-- (117 votos, 23 comentarios) Unpopular opinion: I like both thorfinns · https://www.reddit.com/r/VinlandSaga/comments/132fil4/unpopular_opinion_i_like_both_thorfinns/
-- (104 votos, 40 comentarios) [Manga] Unpopular Opinion: The prologue is a lot better than the rest of the story and it’s not because of it’s fight… · https://www.reddit.com/r/VinlandSaga/comments/d2cl4v/manga_unpopular_opinion_the_prologue_is_a_lot/
-- (103 votos, 10 comentarios) Unpopular opinion but I wish we could have seen more of Ari · https://www.reddit.com/r/VinlandSaga/comments/15ukz8k/unpopular_opinion_but_i_wish_we_could_have_seen/
-- (87 votos, 22 comentarios) Unpopular opinion here · https://www.reddit.com/r/VinlandSaga/comments/122wvo4/unpopular_opinion_here/
+**«why I love»**
+- (42 votos, 3 comentarios) Heroes and Villains has same origin story but different ways to handle. Thorfinn showed us there is never too late to… · https://www.reddit.com/r/VinlandSaga/comments/14mwg8u/heroes_and_villains_has_same_origin_story_but/
+- (17 votos, 1 comentarios) Idk why but I love this panel · https://www.reddit.com/r/VinlandSaga/comments/ukkgsv/idk_why_but_i_love_this_panel/
+- (12 votos, 1 comentarios) Why I love S2 of Vinland Saga · https://www.reddit.com/r/VinlandSaga/comments/1m8wid0/why_i_love_s2_of_vinland_saga/
+- (10 votos, 3 comentarios) This is why I love Gigguk. I knew he would have Vinland Saga S2 as his number 1 · https://www.reddit.com/r/VinlandSaga/comments/1anap1l/this_is_why_i_love_gigguk_i_knew_he_would_have/
+- (2 votos, 1 comentarios) Why i love Vinland saga season 2 so far · https://www.reddit.com/r/VinlandSaga/comments/12e27rb/why_i_love_vinland_saga_season_2_so_far/
+- (1 votos, 1 comentarios) I don’t know why, I love how Yukimura puts so much emphasis on the characters eyes throughout Vinland Saga. · https://www.reddit.com/r/VinlandSaga/comments/incgly/i_dont_know_why_i_love_how_yukimura_puts_so_much/

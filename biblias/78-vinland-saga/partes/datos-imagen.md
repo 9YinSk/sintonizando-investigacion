@@ -4,13 +4,87 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/101348_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg
+
+## Thorfinn: las imágenes más grandes de la wiki (20 en total)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Thorfinn_
+
+- 1920×1080 · Afternoon 40th Anniversary Exhibition.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/2/20/Afternoon_40th_Anniversary_Exhibition.jpg
+- 1056×1132 · Thorfinnhistory3.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/7/71/Thorfinnhistory3.jpg
+- 1055×821 · Thorfinnhistory4.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/a/a1/Thorfinnhistory4.jpg
+- 1058×813 · Thorfinnhistory5.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/9/9a/Thorfinnhistory5.jpg
+- 1064×745 · Thorfinnhistory6.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/4/4c/Thorfinnhistory6.jpg
+- 875×875 · Thorfinn profile image (1018–1019).png · https://static.wikia.nocookie.net/vinlandsaga/images/d/d0/Thorfinn_profile_image_%281018%E2%80%931019%29.png
+- 873×868 · ThorfinnVinlandArc2.jpeg · https://static.wikia.nocookie.net/vinlandsaga/images/7/7c/ThorfinnVinlandArc2.jpeg
+- 826×701 · Thorfinn 1021.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/c/cb/Thorfinn_1021.jpg
+- 728×790 · Thorfinn SlaveArc.png · https://static.wikia.nocookie.net/vinlandsaga/images/7/7a/Thorfinn_SlaveArc.png
+- 1020×536 · Thorfinnhistory1.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/e/ec/Thorfinnhistory1.jpg
+
+## Thorfinn · Appearance (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Thorfinn#Appearance_
+
+Thorfinn's appearance is consistent throughout the story. He has choppy and messy hair, old clothes and two knives. He is also short, as stated by multiple characters in the story. When Thorfinn was a child, he had a happier face, round with bright, curious eyes, and well-kept hair. He has a somewhat slight build that belies his strength. Thorfinn's entire body is littered with scars, most of which were caused by blades. His face remains unmarred until he gains several obvious scars on his face in adulthood, mostly because he refuses to fight with weapons and tries his best to defend himself and neutralize his opponents without causing any lasting harm. In 1015, an apathetic Thorfinn does not budge when one of Ketil's guests, Fox, goes at him with a sword to try to make him fear for his life, slicing off the tip of his left ear. In 1018, when him and Snake are fighting over Arnheid’s…
+
+## Askeladd: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Askeladd_
+
+- 1239×1270 · Askeladd.png · https://static.wikia.nocookie.net/vinlandsaga/images/9/9c/Askeladd.png
+- 598×854 · Askeladd anime design.png · https://static.wikia.nocookie.net/vinlandsaga/images/9/9b/Askeladd_anime_design.png
+- 568×646 · Askeladd 14.png · https://static.wikia.nocookie.net/vinlandsaga/images/6/62/Askeladd_14.png
+- 403×299 · Askeladd 22.png · https://static.wikia.nocookie.net/vinlandsaga/images/1/11/Askeladd_22.png
+- 313×257 · Askeladd 11.png · https://static.wikia.nocookie.net/vinlandsaga/images/5/55/Askeladd_11.png
+- 225×350 · 309800.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/0/09/309800.jpg
+
+## Askeladd · Appearance (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Askeladd#Appearance_
+
+As a child, Askeladd's chin-length wavy light blond hair was parted in the middle and worn loose. His eyes were light blue. His eyebrows were already rather thick, flicking out upwards at the outer edges. He was always plastered black and white with residue from his various jobs, earning himself the nickname of "the Ashen Lad". Askeladd wore trousers and a short-sleeved tunic belted over a long-sleeved shirt with a piece of fabric. Being very poor, his clothing was frayed and dirty, and he wore no footwear. After being taken in by his father at the age of 11, Askeladd is noticeably cleaner and wears nicer clothing. His appearance is similar when he arrives on the shores of Wales at age fourteen, though his hair is shorter and less noticeably parted. Askeladd in his early 20s can be seen in a very brief flashback, likely at the Battle of Maldon in 991. He looks much the same as he does…
+
+## Canute: las imágenes más grandes de la wiki (24 en total)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Canute_
+
+- 1920×1080 · Moe canute.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/5/54/Moe_canute.jpg
+- 1134×888 · Canute proclaims the merciless actions of his army.png · https://static.wikia.nocookie.net/vinlandsaga/images/e/e6/Canute_proclaims_the_merciless_actions_of_his_army.png
+- 1080×608 · 65390230 346317556058277 6462326304388945630 n.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/d/d7/65390230_346317556058277_6462326304388945630_n.jpg
+- 736×735 · Canute's second appearance in Season 2.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/8/84/Canute%27s_second_appearance_in_Season_2.jpg
+- 655×698 · First time he sees him in four years.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/6/66/First_time_he_sees_him_in_four_years.jpg
+- 558×797 · Canute anime design.png · https://static.wikia.nocookie.net/vinlandsaga/images/a/a6/Canute_anime_design.png
+- 490×880 · Canute S2 anime design.png · https://static.wikia.nocookie.net/vinlandsaga/images/d/db/Canute_S2_anime_design.png
+- 527×695 · Canute 1017.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/8/8c/Canute_1017.jpg
+- 564×564 · Canute1021.png · https://static.wikia.nocookie.net/vinlandsaga/images/6/63/Canute1021.png
+- 507×614 · Canute 1018 post ketil2.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/f/fa/Canute_1018_post_ketil2.jpg
+
+## Canute · Appearance (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Canute#Appearance_
+
+Canute is first introduced with long blond hair, large blue eyes, pouty lips, and a feminine-looking face. Up to his late teens, he is often confused for a girl. His beautiful likeness left many of his men wondering if he was the reincarnation of their goddess Freyja. After becoming king, Canute cut his hair short, forming a bob haircut, and grew some facial hair on his chin. Below his left eye is a scar that was left by Thorfinn. In his next appearance, he cut his hair shorter than before, grew a beard that formed a goatee, and wore a cape and a circlet very often.
+
+## Einar: las imágenes más grandes de la wiki (3 en total)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Einar_
+
+- 1280×720 · Vinland-Saga-24-59.jpg · https://static.wikia.nocookie.net/vinlandsaga/images/e/e9/Vinland-Saga-24-59.jpg
+- 490×880 · Einar S2 anime design.png · https://static.wikia.nocookie.net/vinlandsaga/images/7/74/Einar_S2_anime_design.png
+- 595×638 · EinarVinlandArc.jpeg · https://static.wikia.nocookie.net/vinlandsaga/images/c/cd/EinarVinlandArc.jpeg
+
+## Einar · Appearance (texto de la wiki)
+_Fuente: https://vinlandsaga.fandom.com/wiki/Einar#Appearance_
+
+Einar is a tall man with auburn hair. His eyes are brown in the manga and blue in the anime. He is 20 years old when he is introduced in 1015. After many years of hard labor in the fields, Einar develops a muscular stature. Einar has a mole on the left side of the bridge of his nose. Einar S2 anime design.png| Einar in the anime
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de vinlandsaga.fandom.com (4 páginas y sus galerías)…
+  53 imágenes enlazadas, 17 grandes → 1 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/vinland-saga
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
