@@ -1,16 +1,20 @@
 # Lote A (la central): 02-05 y 31-36
 
-Sesión: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
+Sesión anterior: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
 (parte de `claude/peaceful-maxwell-fklpkp`).
 
-## Estado (21:00 UTC)
+## Estado (22:50 UTC, cuenta nueva)
+
+Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama `claude/optimistic-dirac-jejcgu`.
 
 - 02 Attack on Titan: **COMPLETA** y subida (20:52). ✅33 ⚠️6 ❌0, 218 referencias, 113 webs.
-- 03 Solo Leveling: 3 investigadores (imagen, voz, texto) en marcha desde 20:42; luego redactor.
-- 04 Harry Potter: investigadores de imagen y texto en marcha desde 20:53; falta voz.
-- 05, 31, 32: datos recolectados; falta el repaso corto.
-- 33, 34, 36: recolectando datos (gratis).
+- 03 Solo Leveling: imagen, voz y texto listos; redactor (Opus) en marcha desde 22:48.
+- 04 Harry Potter: imagen, voz y texto listos; redactor en cola.
+- 05 Oshi no Ko: imagen lista; voz y texto (Sonnet) en marcha desde 22:48.
+- 31 Demon Slayer: imagen (Sonnet) en marcha desde 22:48; faltan voz y texto.
+- 32, 33, 34: datos recolectados; falta el repaso corto.
 - 35 One Punch Man: COMPLETA.
+- 36 Hunter x Hunter (nueva): datos y hojas recolectados; reintentando Fandom y AnimeThemes.
 
 ## Avisos para el dueño
 
