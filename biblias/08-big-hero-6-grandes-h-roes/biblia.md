@@ -1279,13 +1279,23 @@ opening de la serie [x7we0ri](https://www.dailymotion.com/video/x7we0ri) (§11).
 ### Lo que todos reconocen
 - **La escala del dolor**: tanto, que hay pines y cordones oficiales
   (punto 2).
-- **«Bebé peludo»**: Baymax sin batería con el gato Mochi en brazos. Y
-  «¡Saltamos por una ventana!» ✅
+- **Baymax con la batería baja**: anda «borracho». Y «¡Saltamos por una
+  ventana!» ✅
   ([TV Tropes, memes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/BigHero6),
   [TV Tropes, momentos graciosos](https://tvtropes.org/pmwiki/pmwiki.php/Funny/BigHero6)).
+  **Corrección:** Mochi ayudando a Baymax sin batería es del corto
+  ***Big Chibi 6: «Low Battery»*** (2019, serie), no de la película
+  ([guion del corto](https://bighero6.fandom.com/wiki/Low_Battery)); en el
+  clip oficial de la película no sale el gato (§4.1). El «bebé peludo»
+  que cita TV Tropes queda ⚠️: si se usa, citarlo como del corto (§20).
+- **Hasta el gato Mochi** es de los favoritos: 5.º en la encuesta
+  japonesa, casi empatado con Tadashi (§2).
+- **El chiste bilingüe de Fred**: «Bienvenidos a **my house**» (en inglés
+  es «Welcome a mi casa») ✅. Se volvió meme hispano en TikTok (§E).
 - **El choque de puños «ba-la-la-la-la»** ([clip oficial](https://www.youtube.com/watch?v=yl8yriCIzCE)).
 - **«Estoy satisfecho con mi cuidado»**: la frase que hace llorar en
-  TikTok latino (punto 12).
+  TikTok latino (punto 12). La de Baymax, oída: «…si dices que estás
+  satisfecho con **tu** cuidado» (§10).
 - **El abrazo del «Gran Blanco»** (大白) en China (punto 2).
 - **La gorra de Tadashi** como recuerdo (punto 9).
 - Más: [TV Tropes, YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/BigHero6),
@@ -1303,7 +1313,18 @@ opening de la serie [x7we0ri](https://www.dailymotion.com/video/x7we0ri) (§11).
   ([TheWrap](https://www.thewrap.com/big-hero-6-the-series-eps-talk-giving-a-beloved-film-a-whole-new-look/)).
 - **Frases de España** («Big Hero 6», «mis cuidados»): el servidor es
   latino.
-- **Bromas con la muerte de Tadashi** o con la voz de Alexis Ortega.
+- **Bromas con la muerte de Tadashi** o con la voz de Alexis Ortega. Ni
+  aligerar **el funeral** ni la escena en que Hiro ve los vídeos de su
+  hermano y dice «Supongo que no soy como mi hermano»: son los momentos
+  más citados como los que hacen llorar ✅ ([TV Tropes, TearJerker](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/BigHero6);
+  403 directo, visto por el buscador).
+- **Doblar todo el chiste de Fred en un solo idioma** («Bienvenidos a mi
+  casa», como en España): pierde la gracia ✅ (Doblaje Wiki).
+- **Atribuir a la película lo que es de la serie o de los cortos** (la
+  tabla del dolor de *Scale_8*, Mochi con Baymax sin batería, el panal
+  hexagonal del opening): decir siempre de dónde sale.
+- **Dibujar a Baymax con placas duras o detalle mecánico** («Gundam
+  Baymax» de fans): es vinilo liso.
 - Poner el café, la ciudad o el garaje **sin mezcla japonesa**: San
   Fransokyo siempre es mitad San Francisco, mitad Tokio.
 
@@ -1311,10 +1332,45 @@ opening de la serie [x7we0ri](https://www.dailymotion.com/video/x7we0ri) (§11).
 
 ## 15 · Poses analizadas, por personaje
 
-> [!warning] No pude ver los vídeos
-> Lo que hace cada personaje en cada escena es **de memoria ⚠️**. El
-> enlace es real; **hay que comprobar la pose en el clip** antes de
-> dibujarla. Minuto sin verificar.
+> [!note] Segunda pasada: poses vistas
+> Las tablas «vistas» de cada personaje salen de clips mirados con
+> `fotogramas.py` (minuto del clip) y de las hojas de contacto. Las
+> tablas de la primera pasada siguen debajo como historial: **eran de
+> memoria** ⚠️ y sus enlaces de YouTube no se pudieron abrir.
+
+### Baymax, vistas ✅
+| # | Clip y minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| 1 | [Meet Baymax, 0:09](https://www.dailymotion.com/video/x2553ox?start=9) | primer plano del botón rojo del pecho | encender, «abre tu ticket» |
+| 2 | [Meet Baymax, 1:02](https://www.dailymotion.com/video/x2553ox?start=62) | de pie, brazos abajo, **pecho encendido** con la escala | **explicar** |
+| 3 | [Meet Baymax, 1:12](https://www.dailymotion.com/video/x2553ox?start=72) | cabeza inclinada hacia Hiro, **una mano en su hombro** | **pensar**, revisar, consolar |
+| 4 | Póster latino n.º 44 (§3.0) | **señala su pecho con el índice**, cabeza de frente | **explicar un aviso** (la mejor para #soporte) |
+| 5 | Hoja `vestuario_concept_01.jpg`, n.º 93 | saluda con una mano levantada | **presentar**, saludar |
+| 6 | [Fist Bump, 0:21](https://www.dailymotion.com/video/x3wn7x2?start=21) | levanta el puño despacio imitando a Hiro, cabeza ladeada | **celebrar** (con armadura) |
+| 7 | [Low Battery, 0:25](https://www.dailymotion.com/video/x283k45?start=25) | pasos torcidos, brazos sueltos, cuerpo inclinado | cómico |
+| 8 | [Low Battery, 0:44](https://www.dailymotion.com/video/x283k45?start=44) | choca con Hiro, brazos hacia delante | gag, disculpa |
+| 9 | [Batalla final, 1:26](https://www.dailymotion.com/video/x7vbgp7?start=86) | de pie firme, puño extendido saludando | **animar**, cerrar |
+| 10 | Hoja `arte_oficial_01.jpg`, n.º 16 | abraza a Hiro | **animar**, consuelo |
+
+### Hiro, vistas ✅
+| # | Clip y minuto | Postura | Sirve para |
+|---|---|---|---|
+| 1 | [Meet Baymax, 0:01-0:07](https://www.dailymotion.com/video/x2553ox?start=1) | junto a la ventana con persiana; se acerca a la cama sorprendido | reacción |
+| 2 | [Meet Baymax, 1:17](https://www.dailymotion.com/video/x2553ox?start=77) | agachado tras la cama, susto | miedo cómico |
+| 3 | [Tráiler latino, 1:14](https://www.dailymotion.com/video/x889whz?t=74) | ante el mostrador de la comisaría, **manos abiertas hacia el policía**, hombros caídos | **pedir ayuda**: el paciente que abre ticket |
+| 4 | [Tráiler latino, 0:48](https://www.dailymotion.com/video/x889whz?t=48) | sentado en su cuarto, sonrisa tranquila | contento, de acuerdo |
+| 5 | [Low Battery, 0:44](https://www.dailymotion.com/video/x283k45?start=44) | sujeta a Baymax del brazo para llevarlo al cargador | guiar, ayudar |
+| 6 | [Fist Bump, 0:21](https://www.dailymotion.com/video/x3wn7x2?start=21) | puño hacia Baymax, torso hacia delante | **celebrar** |
+| 7 | [Batalla final, 0:56-1:06](https://www.dailymotion.com/video/x7vbgp7?start=56) | colgado del brazo del traje, cayendo, mirada abajo | drama (no para #soporte) |
+| 8 | Hoja `arte_oficial_01.jpg`, n.º 19 | señala hacia arriba con el índice | **explicar** |
+
+### El equipo, visto (para láminas de grupo)
+- Fred, [batalla final, 0:24](https://www.dailymotion.com/video/x7vbgp7?start=24): agachado, escupe fuego, brazos atrás: defender.
+- Honey Lemon, 0:30: brazo extendido lanzando la esfera rosa: resolver.
+- Wasabi, [1:26](https://www.dailymotion.com/video/x7vbgp7?start=86): de pie, relajado tras la batalla: descansar.
+- Todos de civil, de pie: hoja `arte_oficial_01.jpg`, n.º 1.
+
+### Primera pasada (de memoria, historial)
 
 ### Baymax
 | # | Escena y enlace | Postura, manos, mirada | Sirve para |
@@ -1323,7 +1379,7 @@ opening de la serie [x7we0ri](https://www.dailymotion.com/video/x7we0ri) (§11).
 | 2 | Escanea a Hiro ([clip](https://www.youtube.com/watch?v=jlY-dEzTl0M)) | quieto, cabeza un poco inclinada, mira al paciente | **pensar** |
 | 3 | La escala en el pecho ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Funny/BigHero6)) | de frente, brazos abajo, el pecho encendido | **explicar** |
 | 4 | Choque de puños ([clip](https://www.youtube.com/watch?v=yl8yriCIzCE)) | puño adelante y luego los dedos abiertos, moviéndose | **celebrar** |
-| 5 | Batería baja con Mochi ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/BigHero6)) | cuerpo caído, el gato en brazos | chiste de lámina 2 |
+| 5 | ~~Batería baja con Mochi~~: es del corto *Big Chibi 6* (2019), no de la película; si se usa, citarlo como corto | — | — |
 | 6 | Abrazo a Hiro | brazos alrededor, cabeza baja | **animar** |
 | 7 | Vuelo con armadura ([clip](https://www.youtube.com/watch?v=HKwkOrFFEpg)) | horizontal, Hiro en la espalda | acción (no para soporte) |
 | 8 | Poses con esqueleto de Kevin Nelson ([blog](http://artofkevinnelson.blogspot.com/2014/11/baymax-poses-with-visible-skeleton-from.html)) | cómo dobla cintura, brazos y cuello | construir cualquier pose |
@@ -1349,23 +1405,51 @@ abajo, sin moverse (como cuando no se desactiva). Usar la pose 3.
 | 3 | Anima a Hiro | mano en el hombro, gorra puesta | **animar** |
 | 4 | Fan art de Brandon Lawless ([ArtStation](https://www.artstation.com/artwork/wPY56)) | con GoGo | referencia de fan |
 
-Las tres de Tadashi son ⚠️ de memoria y no tienen clip.
+Las tres de Tadashi son ⚠️ de memoria y no tienen clip. **Segunda
+pasada**: se buscó en Dailymotion e Internet Archive («Tadashi Hamada
+clip», «Tadashi Baymax lab scene», «Tadashi test video») y sólo salió el
+storyboard de la escena eliminada, **de espaldas** ([0:42](https://archive.org/details/youtube-wnDrECylMOU)).
+Con imagen, sin minuto: Tadashi sonriente con gorra (hoja
+`vestuario_concept_01.jpg`, n.º 89 y 63, serie) y su nota a mano a Hiro
+(n.º 92).
 
 ---
 
 ## 16 · Vestuario
 
-| Personaje | Ropa icónica | Colores (hex aprox., sin medir) | Estado |
+**Hex medidos en la segunda pasada** con Pillow (píxel con máscara alfa)
+y `estilo.py` (paleta por grupos) sobre imágenes oficiales bajadas.
+
+| Personaje y prenda | Hex medido | Cómo y dónde | Estado |
 |---|---|---|---|
-| **Baymax, película** | vinilo blanco, sin nada | `#F4F3EF`, sombra `#C9CFD6`, ojos `#1B1B1B` | ✅ forma; ⚠️ hex |
-| Baymax con armadura | armadura roja, alas, puño cohete | rojo `#C4252B` | ⚠️ de memoria el detalle |
-| **Hiro, de calle** | sudadera azul marino, camiseta roja con robot, cargo beige, zapatillas marrones con cordones amarillos | `#2B3550`, `#B83A33`, `#8C7A5B`, cordones `#E8C547` | ✅ ropa ([wiki](https://disney.fandom.com/wiki/Hiro_Hamada)); ⚠️ hex |
-| Hiro con armadura | morado, rojo y negro, placas magnéticas rojas | `#5B3C8C`, `#C4252B`, `#1E1E24` | ✅ ([wiki](https://bighero6.fandom.com/wiki/Hiro's_Super_Armor)) |
-| **Tadashi** | gorra negra «San Fransokyo Ninja» en rojo y dorado | `#1B1B1B`, `#B8322E`, `#C9A13B` | ✅ gorra ([wiki](https://bighero6.fandom.com/wiki/Tadashi_Hamada)); resto ⚠️ |
+| **Baymax**, vinilo blanco | **`#F2F3F5`** | pecho; 31,8% del render ([Baymax_Render.png, 1280×1403](https://static.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png)) | ✅ dos métodos |
+| Baymax, vinilo en sombra | **`#DAD5D4`** (cálido, beige rosado) | brazo; 15,3% del mismo render | ✅ corrige `#C9CFD6` (azulado) |
+| Baymax, ojos y raya | `#000000` | pupila, negro puro | ✅ |
+| **Armadura de Baymax**, rojo | **`#DD4630` a `#ED512D`** (rojo anaranjado) | [póster](https://static.wikia.nocookie.net/disney/images/c/ca/Big_Hero_6_poster_2.jpg) y [render en vuelo](https://static.wikia.nocookie.net/disney/images/b/b2/Baymax_Inflight_Render.png); 13,6-20,4% | ✅ corrige `#C4252B` (muy oscuro) |
+| Armadura de Baymax, morado (hombro, muslo, puño) | `#8E7380` a `#926996` | mismas dos imágenes | ✅ |
+| **Hiro**, sudadera azul marino | **`#3B3D5C`** | póster, dos zonas, mismo resultado | ✅ corrige `#2B3550` |
+| Hiro, camiseta roja | **`#DB2C2B`** / `#D73B2B` | póster, dos métodos | ✅ corrige `#B83A33` |
+| Hiro, cargo caqui | `#7B5836` | póster | ✅ (antes `#8C7A5B`) |
+| Hiro, zapatillas: cordones amarillos | `#E8C547` | a ojo, de la primera pasada | ⚠️ sin medir |
+| **Hiro con armadura**, traje | `#3C355D` (azul morado oscuro) | 9,3% del [render, 1280×1366](https://static.wikia.nocookie.net/disney/images/7/7d/Hiro_Armor_Render.png) | ✅ corrige `#1E1E24` (casi negro) |
+| Hiro con armadura, casco | ≈ `#8B447A` (violeta; con reflejo, casi magenta) | una zona de sombra del casco | ⚠️ cambia mucho con la luz |
+| **Tadashi**, gorra «San Fransokyo Ninja» | negro con letras rojas y doradas: `#1B1B1B`, `#B8322E`, `#C9A13B` | a ojo, primera pasada | ✅ forma ([wiki](https://bighero6.fandom.com/wiki/Tadashi_Hamada)); ⚠️ hex |
+| Tadashi, **película**: gorra negra y chaqueta verde militar | sin medir: sus escenas son de noche o con luz de color | conceptos de ropa (hoja `colaboraciones_01.jpg`, n.º 236) y [fotograma](https://static.wikia.nocookie.net/disney/images/0/04/Hiro_Tadashi_fist_bump.jpg) | ✅ forma; ⚠️ hex |
+| Tadashi, **hoja de modelo 2015 (serie)** | gorra `#5A5A5A`, chaqueta con capucha `#636C72` / `#6E7266`, playera `#52575C`, bolso granate `#7C595C` | [Tadashi_and_Go_Go_character_model.jpg, 1024×1225](https://static.wikia.nocookie.net/disney/images/3/32/Tadashi_and_Go_Go_character_model.jpg) | ⚠️ es de la serie, no de la película |
+| **Logo de la película** | rojo `#E00318`, negro `#020000`, blanco `#FEFDFE` | §7 | ✅ |
 | Serie 2D | los mismos, dibujo plano | — | no mezclar con la película |
 
 **Lo icónico que todos reconocen:** Baymax blanco sin armadura, Hiro con
-la sudadera, la gorra de Tadashi.
+la sudadera, la gorra de Tadashi (confirmado mirando las hojas, no de
+memoria).
+- **Serie y otros trajes**: en la serie los colores de los trajes son
+  **más saturados** (rojo puro, verde lima, naranja) ✅ (visto, [clip de
+  la serie, 0:01](https://www.dailymotion.com/video/x7x6uz7?start=1));
+  Baymax sale con **armadura verde** en el choque de puños final (§4.1).
+- La ropa **no tiene estampados** (color plano): no hay patrón de tela
+  que copiar, sólo la trama del tejido (§B).
+- En Fortnite, «Hero Baymax» trae mochila «Megabot» y pico «Microbot
+  Mallet» (§F).
 
 ---
 
@@ -1373,9 +1457,29 @@ la sudadera, la gorra de Tadashi.
 
 - **San Fransokyo de día, en cuesta**, con tranvías y rótulos japoneses;
   **de noche**, farolas y neones; **al atardecer**, dorado sobre la bahía
-  ⚠️ (de memoria; la luz real, punto 6).
-- **Fondos de pantalla** (casi todos son fotogramas oficiales; autor sin
-  dato):
+  ⚠️ (de memoria). **Medido en la segunda pasada** (§6): de noche, vuelo
+  entre nubes rojizas `#4C1F25` / `#986461`; al atardecer, cielo
+  **morado azulado** `#6954A7` / `#514B94` ([tráiler latino, 1:55](https://www.dailymotion.com/video/x889whz?t=115)).
+  Arte conceptual de la ciudad de noche: hoja `vestuario_concept_01.jpg`,
+  n.º 94.
+- **Fondos de pantalla de Wallhaven, con tamaño y autor reales** (por su
+  API; todos `sfw`) ✅:
+
+| Fondo | Tamaño | Autor | Favoritos | Enlace |
+|---|---|---|---|---|
+| El equipo sobre la ciudad de noche | 4096×1716 | quanleloi | 48 | [0jojkw](https://wallhaven.cc/w/0jojkw) |
+| Baymax e Hiro | 3000×2084 | quanleloi | 30 | [49yw21](https://wallhaven.cc/w/49yw21) |
+| Baymax, fan art enorme | 16000×9000 | dominomd | 21 | [4yzk7g](https://wallhaven.cc/w/4yzk7g) |
+| Baymax 4K | 3840×2160 | (usuario borrado) | 21 | [0j1qpy](https://wallhaven.cc/w/0j1qpy) |
+
+  El de 16000×9000 es fan art: sólo referencia de composición.
+- **Fondos oficiales anchos** de la wiki: fotograma del abrazo
+  4096×1716 ([archivo](https://static.wikia.nocookie.net/disney/images/4/4d/BH6_still_Baymaxhug.jpg)),
+  equipo 5000×3273 ([archivo](https://static.wikia.nocookie.net/disney/images/b/ba/BigHero6Team2.jpg)),
+  capturas de Disney Infinity 3840×2160 (§3.0).
+- **Otros fondos de pantalla** (casi todos son fotogramas oficiales; esos
+  sitios **no dan autor**, se abrieron en la segunda pasada y siguen
+  activos; tamaño ✅, autor ⚠️):
   - [«Baymax & Hiro», 3840×2160](https://wall.alphacoders.com/big.php?i=1103184)
   - [«Baymax & Hiro», 3840×2160](https://wall.alphacoders.com/big.php?i=1103186)
   - [Baymax, 4K](https://wall.alphacoders.com/big.php?i=555837)
@@ -1390,49 +1494,405 @@ la sudadera, la gorra de Tadashi.
 
 ## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
 
-(pendiente)
+### Cómo se hizo de verdad
+- **Hyperion**, un renderizador propio de Disney hecho para esta
+  película (empezado en 2011, con investigación de Disney Research
+  Zúrich); RenderMan de Pixar era el plan B ✅ ([Wikipedia, producción](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+  [Engadget](https://www.engadget.com/2014-10-18-disney-big-hero-6.html),
+  [fxguide](https://www.fxguide.com/fxfeatured/disneys-new-production-renderer-hyperion-yes-disney/),
+  [AWN, Roy Conli](https://www.awn.com/animationworld/roy-conli-talks-production-disneys-big-hero-6)).
+  Luz rebotada de verdad, sin fondos pintados; el director quería **luz
+  de cine**: distorsión de lente, aberración cromática y desenfoque (§6).
+- **San Fransokyo con datos reales**: los datos catastrales de San
+  Francisco; **83.000 edificios y 100.000 vehículos**. El programa
+  **Denizen** hizo más de 700 personajes de fondo distintos y **Bonsai**
+  250.000 árboles ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film))).
+- **Robert Richardson**, director de fotografía de imagen real, asesoró
+  la luz ✅ (Wikipedia).
+- **Influencias que cita el equipo**: Miyazaki (*El viaje de Chihiro*,
+  *El viento se levanta*), *Pokémon* y los juguetes **Shogun Warriors**.
+  **Shigeto Koyama** (*Gurren Lagann*, *Eureka Seven*, *Evangelion*) hizo
+  diseño de concepto de Baymax ✅ (Wikipedia; §8).
+- **Baymax nace en la Carnegie Mellon**: el equipo conoció a Chris
+  Atkeson y sus robots blandos de vinilo inflable para uso médico ✅ (§9).
+- **Shiyoon Kim**, diseñador principal de personajes, le quitó la boca a
+  Baymax ✅ ([Character Media](https://charactermedia.com/big-hero-6-animators-discuss-their-creative-process/)).
+- Paul Felix, diseñador de producción: el centro de San Fransokyo es
+  «Blade Runner, pero en unas pocas manzanas» ⚠️ (una sola mención, sin
+  la entrevista original).
+- Featurette oficial «Animating Baymax», 104 s ([Internet Archive](https://archive.org/details/youtube-koKlm22FLk0)) ⚠️ anotado, sin mirar.
+
+### El look, medido y visto
+- **Sombreado degradado, suave**, no bandas duras: `estilo.py` lo marca
+  «degradado / pintado» en 4 fotogramas de la serie ([escaneo](https://static.wikia.nocookie.net/bighero6/images/5/59/Baymax_scanning.png),
+  [ojos de escaneo](https://static.wikia.nocookie.net/bighero6/images/c/cc/Baymax_scanning_eyes.png),
+  [escala del dolor](https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png))
+  y en las 6 tomas de la película (§6: saturación 43-50%, **poca línea**) ✅.
+- **Película** (3D de Hyperion): sin contorno; volumen por luz.
+  **Serie** (2D): línea negra de grosor casi constante, algo más gruesa
+  por fuera que en el detalle interior ✅ (visto). No mezclarlas (§14).
+- **Fondos con textura** sutil de grano o papel en paredes y telas, no
+  color liso ✅ (visto en *Baymax_scanning_eyes* y en la manta a
+  cuadros de *Scale_8*).
+- **Grafismos 2D del mundo** (sello del SFIT, chips, iconos): **planos**,
+  sin degradado ✅ (medido).
+- **Desenfoque de fondo** tipo cámara real en muchos fotogramas ✅ (visto).
+
+### Cómo replicarlo en Blender
+- **Modelo de partida**: «Baymax (Rigged)» de DownbeatFusion, **CC
+  Attribution**, ya con huesos ✅ ([Sketchfab](https://sketchfab.com/3d-models/baymax-rigged-be0f190b63d546af8fdd53f49da0e8b6)).
+  Alternativa: [BlendSwap #13951](https://blendswap.com/blend/13951), CC
+  BY-NC ⚠️. Crédito: «"Baymax (Rigged)" por DownbeatFusion, Sketchfab,
+  CC BY 4.0» (§5).
+- **Shader para la película** (Baymax 3D): Principled BSDF blanco
+  `#F2F3F5`, rugosidad media-baja, algo de *sheen* o *coat* para el
+  brillo de vinilo; sombra cálida `#DAD5D4`, no azul. Referencia de
+  brillo real: el cosplay de foam con Plasti Dip (§F).
+- **Shader para la serie** (2D): Diffuse → *Shader to RGB* → *ColorRamp*
+  de 2-3 bandas **muy suaves**, más un poco de *Fresnel* ✅
+  ([manual de Blender, Toon BSDF](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/toon.html)).
+- **Contorno** (sólo para el look de la serie): **Freestyle**, línea
+  fina-media, negro puro; o **Solidify** con normales invertidas y
+  material negro sin sombra ✅ ([tutorial de Freestyle](https://kirill-live.itch.io/tuesday-js/devlog/189455/blender-3d-freestyle-draw-contour-simulation-2d-art)).
+- **Luz**: tres puntos, suave y rebotada, sin sombras duras; HDRI de
+  Poly Haven del sitio (§5). **Cámara un poco baja** para que Baymax se
+  vea grande y blando.
+- **Escala**: Baymax mide **1,88 m** (§C); las fotos de parque (hoja
+  `vestuario_concept_01.jpg`, n.º 78-79) dan la proporción con una
+  persona real.
+- **Encima**: el proyector del pecho como un plano emisivo curvado sobre
+  el vinilo, con el texto en Nunito; bloom suave.
+
+### Cómo replicarlo en Photoshop
+- **Sombra suave** en Multiplicar, pincel grande y blando, 30-40%, de un
+  solo lado.
+- **Luz cálida** en Trama o Superponer para el brillo del vinilo.
+- **Contorno** aparte en Multiplicar, tinta de grosor algo variable,
+  **sólo** si se imita la serie o el manga.
+- **Grano de papel** en Superponer, opacidad baja (§B).
+- **Desenfoque gaussiano** del fondo detrás del personaje.
+- **Trama de manga**: filtro *Semitono de color* o un patrón de puntos (§B).
+
+### Encuadres y composición
+- Cuando Baymax **explica algo** (la escala, el vídeo de Tadashi):
+  **plano medio fijo**, cámara quieta, **centrado en el pecho** para que
+  se lea lo proyectado ✅ (visto en *Scale_8* y en el guion). Es el plano
+  del póster latino n.º 44.
+- **Consuelo**: plano cerrado del abrazo, luz cálida (hoja 01, n.º 16).
+- **Comedia**: plano general, Baymax enorme en un sitio pequeño (puerta
+  del tren, n.º 226; detrás del mostrador de la comisaría, tráiler 1:00-1:16).
+- **Acción**: picado o contrapicado en vuelo, cielo morado (§6); no para
+  #soporte.
 
 ---
 
 ## B · Texturas 2D (punto 19)
 
-(pendiente)
+- **Trama de manga**: en la página de muestra del capítulo 0, el fondo
+  detrás de Baymax es un **degradado de puntos grises** (trama clásica)
+  para dar peso a la viñeta; globos **ovalados con borde negro fino**; la
+  onomatopeya **«ばっ»** (gesto brusco) va a mano con líneas de velocidad
+  ✅ (vista, [archivo, 1000×1436](https://static.wikia.nocookie.net/disney/images/2/22/Baymax-manga-preview-ch-0.jpg)).
+  En Photoshop: filtro *Semitono de color* o un patrón de puntos; la
+  propia página sirve de referencia.
+- **Fieltro y parche cosido**: los parches «Hiro & Baymax» de Disney
+  Store Japón tienen el borde con **puntada en zigzag** visible ✅
+  ([archivo, 800×800](https://static.wikia.nocookie.net/disney/images/2/2d/Wappen_Hiro_and_Baymax.jpg)).
+  Buena idea para una insignia de tela del canal.
+- **Grano de papel en los fondos** de la serie ✅ (§A).
+- **Texturas libres CC0 de ambientCG** (licencia leída en su API; todo el
+  banco es CC0) ✅:
+  - Vinilo o plástico liso de Baymax: [Plastic013A](https://ambientcg.com/view?id=Plastic013A), [Plastic010](https://ambientcg.com/view?id=Plastic010).
+  - Grano de papel (manga, cartelas, la tabla impresa): [Paper006](https://ambientcg.com/view?id=Paper006), [Paper001](https://ambientcg.com/view?id=Paper001).
+  - Tela de la sudadera de Hiro: [Fabric081C](https://ambientcg.com/view?id=Fabric081C), [Fabric061](https://ambientcg.com/view?id=Fabric061).
+  - Metal cepillado (armadura, microbots): [Metal063](https://ambientcg.com/view?id=Metal063), [Metal049A](https://ambientcg.com/view?id=Metal049A).
+- **Patrones de ropa**: no hay. La ropa de Hiro, Baymax y Tadashi es de
+  color plano, sin estampado ni cuadros ✅ (visto). Basta la trama del
+  tejido.
+- **Emblemas y logos** (capa de «marca»), todos medidos:
+  - Logo «BIG HERO 6»: rojo `#E00318`, negro, blanco (§7).
+  - Sello del SFIT: oro `#FDD340`, azul marino `#100730`, rojo `#A82512` (§7, §H).
+  - **Sensor del pecho** de Baymax: un óvalo con una muesca, visible en
+    el [render](https://static.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png) ✅.
+  - Chips: verde con doctor, rojo con calavera (§8).
+  - Kanji **怪獣** («kaiju») en la playera de Fred ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Fred)).
+  - **Panal hexagonal rojo y dorado** del opening de la serie (§11).
+- **Etiquetas redondas de color con flechas de puntos** (revista
+  japonesa, hoja `colaboraciones_01.jpg`, n.º 240): patrón gráfico para
+  la lámina 2.
+- ⚠️ **No encontré** el sello del SFIT como vector descargable suelto
+  ni el escudo en la gorra de Tadashi medible (sale en fotogramas
+  oscuros); el PNG de la wiki (700×700) basta de referencia.
+- Texturas **reales** de los sitios (hormigón, madera, HDRI): §5 y §6.
 
 ---
 
 ## C · Gustos y detalles de cada personaje (punto 20)
 
-(pendiente)
+Fuente: los infobox y la «Trivia» de `bighero6.fandom.com`, que citan el
+**blog oficial de Disney en Tumblr** de 2014 (`disneysbighero6-bh6.tumblr.com`,
+vivo pero cargado por JavaScript; [ficha de Fred](https://disneysbighero6-bh6.tumblr.com/post/101558763514/fred)).
+Oficial + wiki = dos fuentes, salvo lo marcado ⚠️.
+
+| Personaje | Altura | Le gusta | Odia | Detalle |
+|---|---|---|---|---|
+| **Baymax** | 1,88 m | ayudar, la salud y felicidad de sus pacientes, flores, gatos, ajedrez, balones de fútbol, mariposas, abrazos, volar, bailar | que sus amigos corran peligro, la mala salud, **quedarse desinflado**, hacer daño | único personaje en todos los episodios de la franquicia, salvo un corto de *Big Chibi 6* ⚠️ |
+| **Hiro** | 1,52 m; 14 años | peleas de robots, inventar, ositos de goma, **alitas picantes**, paletas heladas, la libertad | el fracaso, que lo regañen, **los cacahuates (es alérgico**: lo detecta el primer escaneo), las restricciones | saca la lengua para sujetar el popote; **hueco entre los dientes**; su color menos favorito es el rosa ⚠️ |
+| **Tadashi** | 1,82 m | ayudar, la robótica, las artes marciales, su familia, Baymax | las peleas de robots, el crimen, **que Hiro desperdicie su talento** | edad: 18 (libros de Disney), 21 (prensa japonesa) o 19-20 (Daniel Henney): **tres versiones** ⚠️ |
+| **Honey Lemon** | 1,77 m (1,88 con tacones) | química, moda, explosiones, té verde, **música latina**, manga, karaoke, grabar vídeos de ciencia | las peleas entre amigos, los hipopótamos, el pesimismo, que le digan «alta» | **de ascendencia hispana** (su actriz y un post de @DisneyTVA); tiene su propia tienda de ropa |
+| **Fred** | 1,82 m | cómics, comida chatarra, coleccionables, **ponerle apodos a todos**, tacos de fideos, voluntariado | los supervillanos, **las arañas**, robar | toca guitarra y sitar; kanji 怪獣 en la playera; su apellido sale en «Baymax Regresa» |
+| **Wasabi** | **1,93 m**, el más alto; 21 años | el verde, tejer, planchar, trenes en miniatura, **el orden**, tai-chi, láseres, máquinas de escribir | el desorden, el polen, los perros (alergia), los gérmenes, **las alturas** | «Wasabi» es un apodo: su nombre real nunca se dice; miedo a hablar en público (serie) ⚠️; cumpleaños ¿un día 15? (deducido por fans) ⚠️ |
+| **GoGo** | 1,62 m | sus amigos, **mascar chicle**, ingeniería, kickboxing, punk rock, gatitos | la cobardía, lo tierno (a veces), las payasadas | pega un chicle a sus vehículos por suerte (homenaje a *The Rocketeer*); **primer personaje coreano de Disney** ✅ |
+| **Tía Cass** | — | hornear, cocinar, **la poesía**, karaoke, gatos | que su familia corra peligro, **comer por estrés**, que insulten su comida | en guiones tempranos iba a ser la madre ⚠️ (una fuente) |
+| **Mochi** | — | — | — | calicó macho (rarísimo) ✅ |
+
+Fuentes: [Hiro](https://bighero6.fandom.com/wiki/Hiro_Hamada),
+[Baymax](https://bighero6.fandom.com/wiki/Baymax),
+[Tadashi](https://bighero6.fandom.com/wiki/Tadashi_Hamada),
+[Honey Lemon](https://bighero6.fandom.com/wiki/Honey_Lemon),
+[Fred](https://bighero6.fandom.com/wiki/Fred),
+[Wasabi](https://bighero6.fandom.com/wiki/Wasabi),
+[GoGo](https://bighero6.fandom.com/wiki/Go_Go_Tomago),
+[Tía Cass](https://bighero6.fandom.com/wiki/Aunt_Cass).
+
+- **Color propio** de cada uno: Wasabi verde, GoGo amarillo, Fred azul
+  (traje de kaiju), Honey Lemon rosa ✅ (fichas).
+- **El objeto que siempre llevan**: Tadashi, la gorra (luego la guarda
+  Hiro, §9); GoGo, el chicle; Baymax, su proyector y sus chips ✅.
+- **Cómo se ven a sí mismos**: Hiro, orgulloso de saberlo todo solo;
+  Tadashi, el que no cree en callejones sin salida (§9).
+- **Nombres cambiados** ⚠️ (una fuente): en coreano, Hiro es «Hero
+  Armada» y Tadashi «Teddy Armada»; los fans llaman «Ethel» a GoGo por
+  sugerencia de Jamie Chung.
+- **Para #soporte**: Baymax odia «hacer daño» y ama «la salud y
+  felicidad de sus pacientes»: la línea del canal.
 
 ---
 
 ## D · Por qué la gente la ama (punto 21)
 
-(pendiente)
+### Las razones, con números
+- **Taquilla**: 222,5 millones en Norteamérica y 435,3 en el resto,
+  **657,8 millones de dólares**: la animada más taquillera de 2014 ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+  [Box Office Mojo](https://www.boxofficemojo.com/release/rl2708621313/)).
+  Japón puso 76 millones (§2).
+- **Crítica**: 90% en Rotten Tomatoes (229 reseñas, media 7,4), 74 en
+  Metacritic, «A» en CinemaScore ✅ (Wikipedia).
+- **Premios**: **Óscar a Mejor Película Animada**; Kids' Choice Award
+  2015; 7 nominaciones a los Annie (ganó 1); nominada al Globo de Oro ✅
+  (Wikipedia y Doblaje Wiki).
+- *The Washington Post* (Michael O'Sullivan, 3,5/4): «El verdadero
+  atractivo de Big Hero 6 no es la acción. Es el corazón del personaje
+  central» ✅.
+- **China y Japón**: el «大白», «大众情人» (el amor de todos); la
+  película se titula «Baymax» en Japón (§2).
+
+### Con quién se identifica el público
+- **Con Hiro, por el duelo**: perder de golpe a un hermano y no saber qué
+  hacer con la rabia. La película «engaña»: empieza como comedia de
+  robots y se vuelve una historia de duelo ✅ (Washington Post, TV Tropes).
+- **Con Baymax, por el consuelo**: el cuidador que nunca juzga y siempre
+  quiere ayudar. Por eso gana la encuesta de lejos (§2).
+
+### Las escenas que hacen llorar
+**Minuto dentro de la película: no lo encontré** ⚠️ (guiones con marca
+de tiempo, la wiki de CinemaSins y clips doblados en Dailymotion e
+Internet Archive: no aparecieron; YouTube pide sesión).
+
+| Escena | Qué pasa y por qué duele | Cómo está hecha |
+|---|---|---|
+| **El incendio** | Tadashi entra corriendo al edificio en llamas por salvar a Callaghan; la explosión pasa **fuera de cámara**, se ve desde donde está Hiro. Duele por lo repentino ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film)), [wiki de BH6](https://bighero6.fandom.com/wiki/Tadashi_Hamada)) | humo negro y sirenas (visto en el [tráiler, 1:00-1:16](https://www.dailymotion.com/video/x889whz?t=60)); música: «Silent Sparrow» ⚠️ (deducido) |
+| **El funeral** | todos destrozados consuelan a Cass; **Hiro solo arriba de la escalera**, sin hablar ✅ ([TV Tropes, TearJerker](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/BigHero6)) | **lluvia y silencio** |
+| **Los vídeos del taller** | Hiro los ve solo: «Supongo que no soy como mi hermano» ✅ (TV Tropes) | sin música grandiosa; el vídeo **en el torso de Baymax** (§8) |
+| **El vídeo n.º 84** | Baymax dice «Tadashi is here» y proyecta las pruebas: «What do you say, big guy?» ✅ ([guion](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)) | plano medio fijo en el pecho (§A) |
+| **El sacrificio de Baymax** | se desactiva para empujar a Hiro fuera del portal: no puede irse hasta que Hiro diga que está satisfecho con su cuidado. **Perder a su hermano dos veces** (Baymax lleva el chip de Tadashi) ✅ | caída al portal, colores morados y rosas ([batalla final, 0:56-1:06](https://www.dailymotion.com/video/x7vbgp7?start=56)); música: «I Am Satisfied with My Care» ⚠️ (por el título) |
+
+**Las que hacen reír**: Baymax sin batería (§4.1), «Estoy abrazando un…
+malvavisco», Baymax detrás del mostrador de la comisaría, la mansión de
+Fred («Bienvenidos a my house»).
+
+**Reacciones de la gente**: no encontré un hilo de Reddit con muchos
+votos de esta escena (Arctic Shift dio «Timeout» varias veces) ni un
+vídeo de reacción concreto (YouTube pide sesión) ⚠️. En TikTok latino,
+«Estoy satisfecho con mi cuidado» es tendencia de llanto (§12).
 
 ---
 
 ## E · Fan dubs y comunidad hispana (punto 22)
 
-(pendiente)
+- **Parodias fandub en latino** (título y canal comprobados con el
+  oEmbed de YouTube, sin sesión):
+  - «6 Grandes Heroes - Parodia Fandub a La Chilena - Español Latino»,
+    canal **RobertMan FANDUBS** ✅ ([YouTube](https://www.youtube.com/watch?v=pBPMBFzKmQ8)).
+  - «Big Hero Sweet - Parodia Grandes Heroes【Fandub Latino】», canal
+    **Ken Asakura** ✅ ([YouTube](https://www.youtube.com/watch?v=jo8Gk5Gt128)).
+  - **Vistas y fecha**: ⚠️ sin ver (oEmbed no las da; YouTube pide sesión).
+- **TikTok**: etiqueta activa «Grandes Héroes Doblaje Latino», con fans
+  imitando o comentando el doblaje ✅ ([TikTok](https://www.tiktok.com/discover/grandes-h%C3%A9roes-doblaje-latino)).
+  Ejemplo: «Saludo de Baymax en Español Latino», de `@paulaalegriat` ✅
+  ([vídeo](https://www.tiktok.com/@paulaalegriat/video/6854733516253433093)).
+- **Retos de doblaje de SDV** contra las voces oficiales (Baymax, Hiro) y
+  el **homenaje a Alexis Ortega** (§12) ✅.
+- **Meme hispano de la mansión de Fred**: «Welcome to mi casa» / «Creí
+  que vivías bajo un puente» ✅ ([TikTok](https://www.tiktok.com/discover/welcome-to-mi-casa-big-hero-6)).
+- **Memedroid** en español tiene la etiqueta «Big Hero 6» ⚠️ (403; sólo
+  el título por el buscador).
+- **Covers del opening en español**: **no aplica** tal cual. Es una
+  película sin opening cantado; lo más cercano es «Immortals», y no
+  encontré cover en español ligado a la película (búsquedas «Immortals
+  Fall Out Boy cover español Big Hero 6», «Immortals versión latina»).
+- **Doblajes de fans completos**: no encontré ninguno, sólo las dos
+  parodias y clips sueltos en TikTok ⚠️ (YouTube pide sesión).
+- **Para el servidor**: el saludo de Baymax («Hola, yo soy Baymax…»)
+  sale en los TikTok de imitación y en los retos de SDV; buena escena
+  para un reto de doblaje.
 
 ---
 
 ## F · Colaboraciones, figuras y cosplay (punto 23)
 
-(pendiente)
+### Juegos y apps (cuadro oficial «games» de la [ficha de Baymax](https://disney.fandom.com/wiki/Baymax))
+
+| Colaboración | Qué trae para la lámina | Estado |
+|---|---|---|
+| **Fortnite, «Hero Baymax»** (capítulo 6, temporada «Hunters», 1-dic-2024) | traje jugable, mochila **«Megabot»**, pico **«Microbot Mallet»**: el cruce más reconocible para los jóvenes del server | ✅ [Fortnite Wiki](https://fortnite.fandom.com/wiki/Hero_Baymax), [GosuGamers](https://www.gosugamers.net/entertainment/news/73869-godzilla-is-stomping-into-fortnite-chapter-6-with-big-hero-6-s-baymax) |
+| **Disney Lorcana, «Azurite Sea»** (nov-2025) | cartas nuevas de Hiro, Baymax (con armadura, «Legendary Rare»), GoGo, Wasabi, Fred y Cass, con frases propias («The treatment is working», «We could be immortals») | ✅ [Bleeding Cool, anuncio](https://bleedingcool.com/collectibles/big-hero-6-arrives-for-disney-lorcana-azurite-sea-exclusive-reveal/), [mazo inicial](https://bleedingcool.com/games/tabletop/card-games/disney-lorcana/disney-lorcana-azurite-sea-big-hero-6-starter-deck-saves-the-day/); vistas en `colaboraciones_01.jpg` (n.º 214-216, 228-229, 232-233) |
+| **Kingdom Hearts III** (2019) | mundo San Fransokyo, Sora vuela sobre Baymax | ✅ §13 |
+| **Disney Infinity 1.0-3.0** | figura física de Baymax con peana redonda | ✅ [ficha](https://disney.fandom.com/wiki/Baymax), [Videogaming Wiki](https://videogaming.fandom.com/wiki/Baymax); capturas 3840×2160 en `arte_oficial_01.jpg` (n.º 4-13) |
+| **Disney Sorcerer's Arena** | Baymax e Hiro jugables | ✅ [wiki del juego](https://disney-sorcerers-arena.fandom.com/wiki/Big_Hero_6), [notas oficiales](https://www.sorcerersarena.com/news/content-update-8-27/) |
+| **Disney Star Smash** (sólo Japón, nov-2020) | juego de romper bloques con manga propio | ✅ [Siliconera](https://www.siliconera.com/new-disney-mobile-game-star-smash-launched-in-japan/) |
+| **Disney Heroes: Battle Mode** | Hiro con iconos de habilidad (n.º 204) | ✅ visto |
+| **Disney Emoji Blitz** | icono chibi de Baymax | ✅ [logo, 1198×732](https://static.wikia.nocookie.net/disney/images/7/74/Emoji_Blitz_Logo.png) |
+| Otros de la misma ficha | *Battle in the Bay*, *Baymax Blast*, *Crossy Road*, *Tsum Tsum*, *Magical Dice*, *Magic Kingdoms*, *Epic Quest*, *Roblox*, *Getaway Blast*, *Mirrorverse*, *Speedstorm*, *Solitaire*, *Pixel RPG*, cameo en *Twisted Wonderland* | ⚠️ una fuente (la ficha), sin abrir cada uno |
+
+### Parques Disney (escala y volumen real)
+- **«The Happy Ride with Baymax»**, atracción giratoria en Disney
+  California Adventure y Shanghai Disneyland; además *Gardens of
+  Wonder*, *World of Color* y espectáculos nocturnos con Baymax ✅ (campo
+  «rides» de la [ficha](https://disney.fandom.com/wiki/Baymax)).
+- **Fotos reales** de Baymax de parque con visitantes (hoja 02, n.º
+  78-79; hoja 06, n.º 156 y 262, Disneyland Paris) ✅: la proporción de
+  Baymax junto a una persona.
+- **Café temático** de Big Hero 6: no encontré ninguno (sólo eventos de
+  Disney Store) ⚠️.
+
+### Figuras oficiales (su pose es referencia 3D)
+- **Funko Pop! Disney #111 y #112**, Baymax de 6″ (oct-2014), con
+  variante perlada, **Nurse Baymax** que brilla en la oscuridad (Amazon)
+  y Diamond Collection (Hot Topic) ✅ ([Funko, Super Baymax with Mochi](https://funko.com/pop-super-baymax-with-mochi/84445.html),
+  [Cardboard Connection](https://www.cardboardconnection.com/2014-funko-pop-disney-big-hero-6-vinyl-figures)).
+- Figuras de Disney Infinity (Hiro, [render 2448×3319](https://static.wikia.nocookie.net/disney/images/8/8c/Hiro_Hamada_DI2.0_Transparent_Figurine.png)),
+  Vinylmation de Hiro y figuras articuladas («Blast Flying Baymax»,
+  «Hiro action figure», n.º 73) ✅ (vistas en las hojas).
+- Baymax «mecha» de POP MART armado pieza a pieza ([YouTube](https://www.youtube.com/watch?v=dyKWzaD1H-8)).
+- **Pines y cordones de la escala del dolor** (§2).
+
+### Cosplay bien hecho (materiales reales)
+- **«Baymax 2.0 Armor — with foam template files»** (The RPF): foam EVA
+  curvado con pistola de calor, pegamento caliente, sellado con PVA y
+  **varias capas de Plasti Dip**, acabado brillante en espray ✅
+  ([The RPF](https://www.therpf.com/forums/threads/baymax-2-0-armor-with-foam-template-files.234327/)).
+- **Traje blanco inflable** de Baymax, 7 pasos, y «Hiro RIDING Baymax»
+  (disfraz de dos personas) ✅ ([Instructables, Baymax](https://www.instructables.com/Baymax-from-Big-Hero-6-Costume/),
+  [Hiro riding Baymax](https://www.instructables.com/Hiro-RIDING-Baymax/)).
+
+### Otros cruces
+- **Promo cruzada con *Zootopia*** en China (póster «大白你好», hoja 02,
+  n.º 68) y con **Stitch** (n.º 39); *Aladdin* en Battle Mode (n.º 202) ✅.
 
 ---
 
 ## G · Obras parecidas y temas relacionados (punto 24)
 
-(pendiente)
+- **El origen, en Marvel** (muy distinto): el equipo nació en **1998**
+  («*Sunfire & Big Hero 6*», 3 números) con Sunfire, Silver Samurai,
+  GoGo, Honey Lemon y Baymax; en **2008** otra serie de 5 números añadió
+  a Wasabi y Fred ⚠️ (una fuente, [wiki de BH6](https://bighero6.fandom.com/wiki/Big_Hero_6_(Marvel_Comics))).
+  En el cómic GoGo es japonesa (Leiko Tanaka); en Disney, coreana.
+  **No usar ese diseño**: sólo explica el nombre.
+- **Según la crítica**: Steven D. Greydanus compara a Baymax con *El
+  gigante de hierro* y el T-800 de *Terminator 2*: robots que superan su
+  programación por un niño. Pero al revés: «Baymax es un cuidador que se
+  vuelve arma» ✅ (reseña leída entera, [decentfilms](https://decentfilms.com/reviews/bighero6)).
+  Y va más lejos que *Frozen* con el duelo ✅ (misma fuente).
+- **Influencias que reconoce el equipo**: Miyazaki, *Pokémon*, Shogun
+  Warriors, Shigeto Koyama (§A); *Blade Runner* para el centro de la
+  ciudad ⚠️.
+- **Dentro de la franquicia** (no confundir): *Big Hero 6: The Series*
+  (2017-2021, 2D), el corto *Baymax Dreams* (2018), los cortos *Big
+  Chibi 6* (2019) y **¡Baymax!** (Disney+, 2022) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film))).
+  Decir siempre de cuál sale cada imagen.
+- **Otras láminas del servidor que se le parecen** (leído en la línea de
+  canal de cada encargo de `encargos/`; la comparación de recursos es
+  lectura del investigador ⚠️):
+  - **My Hero Academia** (#material-de-clase): equipo de jóvenes héroes
+    en una escuela de tecnología. **Big Hero 6 debe evitar el aula** y
+    quedarse con Baymax y la tabla.
+  - **Spider-Verse** (#edicion): adolescente genio con interfaz
+    holográfica. Aquí, mejor **la pantalla física del pecho** que
+    hologramas flotando.
+  - **Lilo & Stitch** (#fotos): mismo estudio y formas blandas, pero
+    isla tropical frente a ciudad tecnológica; poco riesgo.
 
 ---
 
 ## H · El mundo, la historia y sus símbolos (punto 25)
 
-(pendiente)
+### El mundo en cinco líneas
+1. **San Fransokyo** = San Francisco + Tokio en una sola megaciudad de la
+   costa oeste de EE. UU. ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/San_Fransokyo)).
+2. Se reconstruyó tras la «Gran Catástrofe» de 1906, un terremoto que en
+   la ficción causó en secreto la científica Lenore Shimamoto ✅ (wiki, y
+   el [blog de Disney Animation](http://disneyanimation.tumblr.com/post/111288640767/don-wanted-to-figure-out-a-logical-explanation)
+   que cita).
+3. Ingeniería japonesa antisísmica con urbanismo estadounidense; sigue
+   siendo parte de EE. UU. ✅
+4. Shimamoto sale en el **billete de 100 dólares** de la ciudad ✅.
+5. Es un gran polo de tecnología y robótica: por eso el SFIT es el centro
+   de la historia ✅.
+
+### La historia por arcos (película)
+1. **Arranque**: Hiro, 14 años, malgasta su talento en peleas ilegales de
+   robots; Tadashi lo lleva al SFIT y conoce al equipo y a Baymax ✅
+   ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film))).
+2. **La tragedia**: Hiro inventa los microbots para entrar; esa noche un
+   incendio mata, en apariencia, a Tadashi y a Callaghan ✅.
+3. **El misterio**: Hiro activa a Baymax con un «¡ay!»; descubren a
+   **Yokai**, el enmascarado que fabrica microbots robados; el grupo se
+   vuelve equipo de héroes ✅.
+4. **La venganza**: Yokai es **Callaghan**, que perdió a su hija Abigail
+   en un experimento de teletransporte. Hiro ordena a Baymax matarlo; sus
+   amigos le devuelven el chip de cuidados y Baymax le enseña los vídeos
+   de Tadashi ✅.
+5. **El cierre**: rescatan a Abigail a costa del cuerpo de Baymax; Hiro lo
+   reconstruye con el chip recuperado y el equipo sigue defendiendo la
+   ciudad ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+   [ficha de la película](https://bighero6.fandom.com/wiki/Big_Hero_6_(film))).
+
+### Emblemas y objetos icónicos (medidos)
+- **Logo**: rojo `#E00318`, negro `#020000`, blanco `#FEFDFE` (§7).
+- **Sello del SFIT**: oro `#FDD340`, azul marino `#100730`, rojo oscuro
+  `#A82512` (§7).
+- **Chips**: verde de cuidados, rojo de pelea (§8).
+- **Microbots**: robots negros del tamaño de una moneda, en forma de
+  diamante, unidos por electroimanes y guiados con la mente por el
+  **neurotransmisor** de Yokai (su máscara) ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Microbots)).
+- **El botón rojo del pecho**, el **puerto de chips** (pecho izquierdo) y
+  el **puño cohete** de la armadura ✅ (§4.1, §8).
+- **La gorra de Tadashi** y **el Lucky Cat Café** con sus maneki-neko (§6).
+- **La tabla del dolor** del pecho (§1).
+
+### Vocabulario que un fan reconoce al instante
+- **San Fransokyo**, **SFIT**, **microbots**, **nerd lab**, **chip de
+  cuidados** ✅.
+- «**Hola, yo soy Baymax**» · «**¿Del 1 al 10, cuánto te duele?**» ·
+  «**¡Ay!**» · «**ba-la-la-la-la**» ✅.
+- «**Tadashi is here**» (dispara la escena del vídeo) ✅ (guion).
+- «**Woman up**» (GoGo) ✅ (guion).
+- «**Estoy satisfecho con mi cuidado**» (Hiro) y «**…satisfecho con tu
+  cuidado**» (Baymax) (§10).
+- «**Bienvenidos a my house**» (Fred) ✅.
 
 ---
 
