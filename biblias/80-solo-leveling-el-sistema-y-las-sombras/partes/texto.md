@@ -164,12 +164,11 @@ siendo la mejor fuente sobre su interfaz. ⚠️ Sin capturas propias de ARISE (
 > Diablo/Skyrim/WoW. Mismos datos que yo habría sacado de `datos-texto.md` (AniList) — no los repito. Añado lo que
 > falta desde **mi ángulo** (interfaz de Sistema / progresión de niveles como género):
 
-- **TV Tropes**: la página `Solo Leveling` en TV Tropes existe y clasifica la obra dentro de **"LevelUpFantasy"** y
-  **"GameificationAnime"** (el subgénero exacto de «la vida como videojuego», con ventanas de estado, misiones,
-  subida de nivel) ✅ (comprobado por búsqueda en el sitio: `https://tvtropes.org/pmwiki/pmwiki.php/Anime/SoloLeveling`
-  responde 200 y lista tropos como *StatusLine*, *LevelUpFillUp*, *RPGMechanicsVerse*). No abrí la lista completa
-  de tropos por ahorrar cuota; el dato útil para la lámina es el **nombre del subgénero**: sirve para explicar en
-  un texto del bot qué tipo de fantasía es (útil para el hilo «De qué va esto»).
+- **TV Tropes**: **no lo pude leer** ⚠️. La página `Anime/SoloLeveling` da **403 con reto de Cloudflare**
+  (`cf-mitigated: challenge`) tanto por acceso directo como por `www.`; probé también el **Wayback Machine**
+  (`web.archive.org/cdx/search/cdx?url=tvtropes.org/pmwiki/pmwiki.php/*SoloLeveling*`) y **no hay ninguna captura
+  con código 200** guardada de esa página (sólo redirecciones 301/302 sin contenido). Dos vías intentadas, las
+  dos sin resultado: lo dejo pendiente en vez de inventar qué tropos lista.
 - **El gancho concreto que comparte con sus «primos» es la ventana de estado**: *Tower of God*, *The Eminence in
   Shadow* y *God of High School* (ya en `03-solo-leveling`) tienen la misma raíz de «RPG hecho carne», pero
   **Solo Leveling es el que más se apoya en la ventana de notificación como recurso visual constante** (aparece
@@ -245,6 +244,18 @@ nombre de la novela `{{NV}}` del nombre del webtoon `{{WB}}` cuando difieren):
   del Monarca de las Sombras sobre la muerte, la que le permite extraer y controlar sombras — no es lo mismo que
   el «grado» de una sombra concreta.
 
+**Igris y Beru, los dos personajes que pide el encargo, con su grado exacto y capítulo** ✅ (ficha infobox de cada
+uno, leída por API, con las referencias que cita la propia wiki):
+- **Igris**: apodo «Knight of Death». Progresión documentada con cita de capítulo: **Knight** (webtoon cap. 45,
+  cuando Jinwoo lo extrae) → **Elite Knight** (webtoon cap. 84) → **Marshal Grade** (webtoon cap. 164 y novela
+  cap. 221). Su habilidad de **Comunicación** (hablar) se la cita recién en el capítulo 164 — coincide con la
+  regla general de que sólo General/Comandante en adelante pueden hablar.
+- **Beru**: origen, el **Ant King** (Rey Hormiga). Progresión: **General Grade** (webtoon cap. 105, cuando nace
+  como sombra) → **Marshal Grade** (webtoon cap. 164, el mismo capítulo en que Igris también asciende). Ninguno
+  de los dos llega a figurar como «Grand Marshal» en su ficha: ese grado (lugarteniente único del Monarca) no
+  tiene, en lo que pude comprobar, un nombre propio asignado en la wiki en inglés. ⚠️ (no encontré qué sombra, si
+  alguna, ocupa ese puesto tras el desenlace).
+
 **Vocabulario del mundo** (complementa, sin repetir, el que ya reúne `biblias/03-solo-leveling` §25 con fuente en
 los subtítulos latinos de Crunchyroll): *Gate* (portal), *Dungeon* (mazmorra), *Dungeon Break*, *Field-Type
 Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Guild Master*, *False Ranker*,
@@ -283,6 +294,8 @@ Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Gui
 - La comparación de «cuánto pesa la ventana del Sistema frente a otras series del género» (punto 24) es lectura
   propia a partir de las capturas vistas, no un dato con fuente que lo diga explícitamente — lo dejé marcado ⚠️
   en el hallazgo.
+- ⚠️ **TV Tropes** (punto 24): bloqueado por Cloudflare (403) y sin captura utilizable en Wayback Machine (sólo
+  redirecciones). No hay dato de tropos de esta fuente.
 
 ## Bitácora de búsqueda
 
@@ -305,8 +318,9 @@ Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Gui
 - **Fuentes** (`api.fontsource.org`, `cdn.jsdelivr.net/fontsource`): ficha y `.ttf` de Orbitron, Audiowide,
   Electrolize, Exo 2 y Rajdhani; comprobación de glifos con `fontTools.ttLib.TTFont(...).getBestCmap()` para
   á é í ó ú ñ Ñ ¿ ¡ ü; plancha comparativa propia con Pillow (`fuentes/specimen.png`).
-- **TV Tropes** (`tvtropes.org/pmwiki/pmwiki.php/Anime/SoloLeveling`): comprobado que la página responde y
-  clasifica la serie en el subgénero «ventana de estado / subir de nivel» (LevelUpFantasy).
+- **TV Tropes** (`tvtropes.org/pmwiki/pmwiki.php/Anime/SoloLeveling`): 403 con reto de Cloudflare, directo y por
+  `www.`; comprobado también el CDX del Wayback Machine (`web.archive.org/cdx/search/cdx?url=tvtropes.org/...`),
+  sin capturas con código 200. Sin acceso, dos vías intentadas.
 - Google Fonts vía `fonts.googleapis.com/css2` para Orbitron/Audiowide/Electrolize: bloqueado por una página de
   verificación anti-bot (`ppConfig`/reCAPTCHA) en dos de los cinco intentos; cambié a la API de Fontsource, que sí
   respondió, para las cinco.
