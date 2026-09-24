@@ -2234,6 +2234,61 @@ cuentagotas es de vídeo. B mejora con las monedas Drago.
 - **Vistas** de los fandubs y covers ⚠️ (sólo título y canal).
 ---
 
+## Cumplimiento del encargo
+
+Estado tras la 2.ª pasada. ✅ hecho · ⚠️ a medias · ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Key visuals medidos (22 en la wiki), portadas de tomos y de Jump, fanbook, hojas de ruta, monedas Drago, tarjetas del videojuego, Nendoroid (§3, `arte_01`). Falta arte fijo del micro y del teléfono: no existe en la wiki |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 10 escenas miradas con capítulo, minuto y enlace (§2.5) y 30 con minuto de subtítulo (§2.1-2.4). Pero en **720p** (fansub de Internet Archive); sólo el opening está en 1080p. YouTube pide iniciar sesión |
+| 3 · Fan art y 3D con licencia | ✅ | 5 modelos de la serie y 3 de objetos con licencia CC BY leída en la API de Sketchfab; fan art con autor; cosplay mirado (§4) |
+| 4 · Sitios, luz, paleta y texturas | ✅ | 9 sitios con hex medidos en fotogramas (§5.2); texturas CC0 de Poly Haven y ambientCG. Sin medir: el exterior nevado |
+| 5 · Tipografía, una letra por uso | ✅ | Cartel del título medido; 13 letras libres con tildes, ñ, ¿ y ¡ comprobadas con fontTools; tabla por uso (§6.3). La letra del juego y de los créditos no se identificó (propuesta marcada) |
+| 6 · Cómo hablan en pantalla | ✅ | Hoja de ruta vista, «¡…, listo!», Mecha Senku, test de Gen, caja de *Battle Craft* medida (§7) |
+| 7 · Personajes y popularidad | ✅ | 4 encuestas de Jump, VIZ, Nijimen, AniList, MAL, premio de Crunchyroll (§8, §9). Falta Dengeki 2026 |
+| 8 · Doblaje latino y frases | ⚠️ | Reparto principal con dos fuentes, estudio y 4 directores por la API de Doblaje Wiki (§10). Frases latinas: «10 mil millones por ciento» y «¡Qué malote!» ✅; otras, una fuente; **ninguna frase textual de clip oficial con minuto** (YouTube bloqueado). Secundarios, una fuente |
+| 9 · Música y sonido | ✅ | Todos los openings y endings de las 4 temporadas con dos fuentes; «One Small Step»; compositores; acuarela del ending (§11). Falta el nombre de la pista del montaje |
+| 10 · Vídeos con minuto | ⚠️ | 5 tráileres y el OP1 mirados con minuto (§12). Análisis de YouTube y tendencias de TikTok **sin ver** (bloqueo) |
+| 11 · Videojuegos | ✅ | *Battle Craft*: fechas, cierre, caja de diálogo, victoria y HUD medidos; *Jump Force* confirmado sin la serie (§13) |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Memes, gags, identificación de fans con fuente; lista de qué no hacer ampliada con colores y trivia (§14) |
+| 13 · Descripción profunda de cada personaje | ⚠️ | Carácter, historia, forma de hablar, trivia y voces medidas (§8). **Cara en cada emoción con fotograma**: sólo alegría, sorpresa, concentración y asombro (Senku, Suika, Kohaku, Ruri); de Gen y Kaseki, ninguna en vídeo |
+| 14 · Poses analizadas con minuto | ⚠️ | 36 poses con minuto de subtítulo y 11 vistas de verdad (§15). Senku, completo; **Gen y Kaseki sin fotograma** (sus episodios no estaban sueltos) |
+| 15 · Vestuario con hex | ⚠️ | Hex medidos de Senku, Chrome, Suika y Kaseki (§16). **Gen sin medir**: sus imágenes tienen luz de color; en las hojas, a ojo, túnica lila |
+| 16 · Paisajes y fondos de pantalla | ✅ | 2 fondos 4K medidos con Pillow y 7 de Wallhaven con tamaño y autor (§17.2) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos, paleta medida, estilo medido, palabras que ayudan y que estropean, vocabulario de expresiones, voz de cada personaje y frases reales por emoción (§18). Gotas de sudor y fondos de emoción no documentados |
+| 18 · Técnica y cómo replicarla | ✅ | Boichi y TMS con entrevistas, sombreado y línea medidos, Photoshop y Blender paso a paso, encuadres (§18.1). Filtros de posproducción sin fuente |
+| 19 · Texturas 2D | ✅ | Trama, rayas, rayado, papel, cuerda con licencia; emblema y moneda (§18.2). Bandera oficial sin imagen |
+| 20 · Gustos y detalles | ✅ | 10 personajes con cumpleaños, altura, gustos, objeto y cómo se ven (§18.3) |
+| 21 · Por qué la aman | ⚠️ | Números (MAL, ventas, premio), identificación y 7 escenas que hacen llorar con reacción de Reddit (§18.4). **Tres sin minuto** y sin describir música ni encuadre |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs y 5 covers con canal y enlace (§18.5). **Sin vistas ni fecha** (YouTube sólo deja `oembed`); sin parodia larga |
+| 23 · Colaboraciones y cruces | ✅ | 5 cafés, Lawson, 2 museos, 2 figuras, cosplay (§18.6). Cruces con gachas: no encontrados |
+| 24 · Obras parecidas | ✅ | AniList, webs de recomendación, CBR, influencias de Inagaki, TV Tropes y las láminas del servidor (§18.7) |
+| 25 · El mundo y sus símbolos | ✅ | Reglas en cinco líneas, sagas con capítulos, momentos clave, emblemas y vocabulario (§18.8) |
+| Tres conceptos de lámina | ✅ | A, B y C con objeto, sitio, personaje, pose vista, letra, textos y profundidad (§19), actualizados con lo visto |
+| 40 fuentes distintas | ✅ | Más de 90 webs distintas enlazadas |
+| Oficiales | ✅ | dr-stone.jp (1.ª pasada), TMS, X oficial, Shueisha, Good Smile, Google Play, entrevistas de Matsushita y Boichi |
+| Otros idiomas | ✅ | Japonés, inglés, chino, coreano (1.ª pasada) y francés |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki por API, Wikipedia, TV Tropes ✅. TCRF bloquea y no tiene página del juego; Wayback sin copia de dr-stone.jp |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, foros de dafont y befonts, X. Discords y 4chan no hicieron falta |
+| Arte | ✅ | pixiv, DeviantArt, ArtStation, Wallhaven, Alpha Coders, Openverse |
+| Vídeo | ⚠️ | Dailymotion e Internet Archive mirados; YouTube y TikTok bloqueados |
+| Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab, Poly Haven, ambientCG, Clip Studio Assets, MusicBrainz |
+| Doblaje latino (fuentes) | ⚠️ | Doblaje Wiki por API y muestras de audio, ANMTV y prensa (1.ª pasada). Entrevista al reparto de Funianime sin ver; créditos de Crunchyroll sin abrir |
+| Vídeos mirados de verdad (opening, ending, tráiler, 3 escenas) | ✅ | OP1 en 1080p, ending de 1×24, 5 tráileres, 4 episodios (§2.5) |
+| Hojas de contacto | ✅ | 3 en `hojas/`, miradas, con qué número sirve (sección «Las hojas de contacto») |
+| `referencias.json` | ✅ | Todas las útiles de las partes, mejores primero, con tamaños medidos donde los hay |
+
+**Los ⚠️ del texto**: la 1.ª pasada tenía **96**. Se resolvieron unos 25
+(fotos, colores, licencias, música, estudio y directores del doblaje,
+Tsukasa, caja del juego). El total sube a más de 160 porque la 2.ª pasada
+**añadió mucho dato nuevo** y marca con ⚠️ todo lo que tiene una sola
+fuente (sobre todo el reparto secundario del doblaje y los cafés). Lo que
+el dueño tendría que oír o ver: frases latinas con minuto, la ropa de Gen
+de día y las poses de Gen y Kaseki.
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
