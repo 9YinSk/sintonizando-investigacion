@@ -8,26 +8,30 @@ fecha: 2026-09-24
 # Biblia · Doraemon — para #recursos
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (también Doblaje Wiki y la
->   wiki de Doraemon), ANMTV, Desde la Cuna y casi todas las webs daban
->   **bloqueo** por curl y por WebFetch. Por eso **no se pudo correr**
->   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
->   carpeta `hojas/`.
-> - La fuente principal fue la **búsqueda web** (lista completa al final,
->   en la bitácora). De las páginas bloqueadas sólo tengo lo que devuelve
->   el buscador; lo marco así.
-> - GitHub sí respondía. De ahí saqué **los subtítulos japoneses con
->   tiempos** de la película *Stand by Me Doraemon* (2014), de la película
->   *Nobita y el museo de los artilugios secretos* (2013, subtítulo de
->   Netflix) y de **66 episodios** de la serie de 2005-2006, del repositorio
->   [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror).
->   Con ellos doy el **minuto de cada escena**. Es el minuto de ese archivo:
->   puede moverse uno o dos minutos según la plataforma.
-> - También bajé de [google/fonts](https://github.com/google/fonts) las
->   letras propuestas y comprobé con fontTools si traen á é í ó ú ñ ¿ ¡.
-> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
->   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
->   siempre va marcado.
+> - **Primera pasada (24-sep-2026, red cerrada).** Fandom, Doblaje Wiki,
+>   ANMTV y casi todas las webs daban bloqueo. Se trabajó con el buscador
+>   web, con subtítulos japoneses de GitHub
+>   ([Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror):
+>   *Stand by Me Doraemon* 2014, la película del museo 2013 y 66 episodios
+>   de la serie de 2005) y con letras de [google/fonts](https://github.com/google/fonts)
+>   comprobadas con fontTools. Los minutos de esos subtítulos van como
+>   `00:06:14`: es el minuto de ese archivo, puede moverse uno o dos minutos.
+> - **Segunda pasada (24-sep-2026, red abierta, equipo de 4 investigadores
+>   y redactor).** Ya se pudo usar: la API de Doblaje Wiki (4 páginas
+>   completas), la API de Fandom y `investigar_serie.py` (hojas de contacto
+>   miradas), Dailymotion e Internet Archive para **mirar vídeo de verdad**
+>   con `fotogramas.py` (YouTube pedía iniciar sesión), `voz.py` (Whisper)
+>   sobre un episodio con **doblaje latino real**, `estilo.py` y Pillow para
+>   **medir los hex**, la API de Sketchfab para licencias, Arctic Shift para
+>   Reddit, `yt-dlp` para buscar *fandubs* sin sesión y entrevistas japonesas
+>   del estudio (CGWorld, ITmedia). Lo nuevo está en «Segunda pasada · qué
+>   cambió», justo debajo, y en las secciones «Punto 18» a «Punto 25».
+> - Lo que sigue sin poder usarse: YouTube en vídeo (pide sesión),
+>   AnimeThemes (error 522 todo el día), TV Tropes y The Cutting Room Floor
+>   (403), TikTok (sin buscador sin sesión).
+> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto, o
+>   lo vimos en el fotograma. ⚠️ **dudoso**: una sola fuente, o de memoria.
+>   Lo de memoria siempre va marcado.
 
 ---
 
@@ -140,7 +144,7 @@ dirigida por **Takashi Yamazaki y Ryūichi Yagi** ✅
 [eiga.com](https://eiga.com/movie/79515/)). Entrevistas al staff:
 [eiga.com](https://eiga.com/movie/79515/interview/) y, sobre cómo pasaron
 los personajes a 3D, [CGWORLD](https://cgworld.jp/interview/1408-sbmd.html)
-(no pude abrirlas). Sirve para la luz y el cuarto, **no para copiar la
+(en la segunda pasada sí se leyó entera: ver «Punto 18»). Sirve para la luz y el cuarto, **no para copiar la
 línea** de la serie.
 
 | Minuto | Qué pasa | Para qué sirve |
@@ -199,15 +203,101 @@ título del episodio no venía en el subtítulo.
 > corchetes ｢ ｣** (「タイムテレビ」, 「幸運ダイヤ」…) ✅; esos corchetes
 > también marcan cartas y voces de la tele, así que no doy un recuento.
 
+### 2.4 Segunda pasada: escenas **miradas** en vídeo, con minuto real
+
+Lo de arriba sale de subtítulos. Esto se **vio**: fotogramas sacados con
+`fotogramas.py` de Dailymotion e Internet Archive y abiertos uno a uno
+(21 fotogramas; YouTube pedía iniciar sesión). El minuto es el de esa copia.
+
+| Qué | Enlace con minuto | Minuto | Qué se ve | Para qué sirve |
+|---|---|---|---|---|
+| **Opening 1979** «Doraemon no Uta», doblaje latino antiguo, rótulo «Doraemon, el gato cósmico» | [x8k1ck8](https://www.dailymotion.com/video/x8k1ck8?t=5) ✅ | 0:05 · 0:20 · 0:40 | 0:05 Doraemon sale girando de un túnel azul. 0:20 de pie, sonriente, sobre una luna creciente con estrellas. 0:40 vuela con el Takecopter sobre bocetos de máquinas de Leonardo da Vinci; Nobita, Shizuka, Suneo y Gigante lo miran desde abajo | luz del opening; **Doraemon mostrando un invento en el aire** |
+| **Ending** del doblaje de **España** (no latino) | [x2vhonl](https://www.dailymotion.com/video/x2vhonl?t=10) ⚠️ copia descolorida, una fuente | 0:10 | cielo de nubes claras y siluetas de niños en un cerro | sólo el tono pastel del cierre |
+| **Tráiler** en español de *Stand by Me Doraemon* (junta un anuncio «Esta Navidad, Doraemon…» que puede ser de la secuela ⚠️) | [x33a56v](https://www.dailymotion.com/video/x33a56v?t=30) ✅ | 0:03 · 0:30 · 1:00 · 1:20 | 0:30 Nobita en 3D, cabizbajo y con la mochila, choca contra la puerta corredera. 1:00 Doraemon y Nobita gritan abrazados sobre el tatami, de noche. 1:20 primer plano oscuro de un muñeco de Doraemon en la pared | la luz 3D del cuarto, de día y de noche |
+| **Recital de Gigante** en el descampado | [x3402n2](https://www.dailymotion.com/video/x3402n2?t=20) ✅ (es el mismo episodio 2006-09-08 de §2.3) | 0:05 · 0:20 · 0:40 | esmoquin blanco y capa roja, ojos cerrados, boca muy abierta, brazo izquierdo al público, **micrófono en la derecha**, confeti y focos de colores | **presentar o celebrar**; la «Pista sin voz» |
+| Gigante asustado en una cabina o nave (película sin identificar ⚠️) | [x2uugoz](https://www.dailymotion.com/video/x2uugoz?t=25) ⚠️ copia con marca de un canal pirata encima | 0:10 · 0:25 | camiseta turquesa a rayas, ojos redondos, cejas en zigzag, consola verde oscuro | cara de **miedo** de Gigante |
+| **«El Pueblo de Nobita»**, episodio con **doblaje latino real** (grabación de TV de Ecuador) | [Internet Archive](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180) ✅ | 0:30 · 1:30 · 3:00 · 5:00 | 0:30 los dos señalan una placa diminuta en la pared de la casa. 1:30 sentados en el cuarto, **tatami verde**, Nobita tirado quejándose. 3:00 Nobita riega con una regadera **un pueblo en miniatura**. 5:00 plano general del pueblo con ellos al lado | **un invento en uso**: «aquí cabe de todo», a escala |
+| **«Un mundo sin dinero»** (el archivo dice «Episodio 184 - El indicador del desorden», mal nombrado ⚠️) | [Internet Archive](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20184%20-%20El%20indicador%20del%20desorden%20.mp4?t=180) ✅ | 3:00 → 3:09 | Nobita, con la camiseta **roja** de la serie clásica, llora tapándose la cara con las dos manos; su papá lo abraza por los hombros | la única **tristeza** vista con minuto |
+
+> No encontré fuera de YouTube el vídeo del **sonido de sacar un invento**
+> (antes y después) ni un clip limpio de **la boda y el padre de Shizuka**:
+> siguen con el minuto del subtítulo, sin fotograma visto. Búsquedas en la
+> bitácora.
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] No hay hojas de contacto
-> La wiki de Fandom (`doraemon.fandom.com`), la web oficial `dora-world.com`
-> y casi todo lo demás estaba **bloqueado** en esta sesión. No pude bajar ni
-> mirar imágenes. Lo que sigue son **enlaces que vi en el buscador**, con lo
-> que dicen de sí mismos. **Antes de elegir, hay que abrirlos en el PC.**
+> [!note] Segunda pasada
+> Ya hay **3 hojas de contacto** miradas (§3.0) y los fondos oficiales se
+> bajaron y se midieron (§3.1). Lo que sigue sin verse lleva ⚠️.
+
+### 3.0 Las hojas de contacto (qué número sirve) ✅
+
+Las tres están en `hojas/`. Las dos primeras salen de
+`investigar_serie.py` (wiki `doraemon`, página de Gigante, «Takeshi
+Gouda»); la tercera la montó el investigador de imagen con los 5 fondos
+oficiales. **Las miré yo al redactar** y corrijo dos números de la parte de
+imagen (abajo). Bajo cada miniatura va su tamaño real y el nombre del
+archivo en la wiki: el original está en
+`https://doraemon.fandom.com/wiki/File:<nombre>`.
+
+**`hojas/personajes_01.jpg`** (n.º 1-48, 2400×1704, 823 KB)
+
+| N.º | Qué es | Para qué |
+|---|---|---|
+| 1 | «Handsome Gian», cara de Gigante en primer plano, **5016×2822** ([original](https://static.wikia.nocookie.net/doraemon/images/2/24/Handsome_Gian.png)) | el meme del «Gigante guapo»; la cara más grande que hay |
+| 2 | **Cel de producción** pintado a mano: Doraemon al volante de un barco del tiempo, Nobita y una niña de rojo, rayos celestes; se ve la cinta de papel, **2048×1632** ([original](https://static.wikia.nocookie.net/doraemon/images/3/3e/DoraemonTimeMachine.jpg)) | el color plano de producción; hex medidos en §16 |
+| 3 | La máquina del tiempo de Dorami, un tulipán naranja, 1712×1880 | objeto de Dorami |
+| 5 | «All eating Gian»: todos gritando con la boca abierta | reacción de grupo |
+| 15 | Doraemon, Nobita y Gigante abrazados en el bosque, 2048×1536 ([original](https://static.wikia.nocookie.net/doraemon/images/5/50/Doraemon_Nobita_and_Gian.jpg)) | **amistad**; hex de la camiseta en escena |
+| 16 | «Four together happy»: los cuatro niños contentos en la calle | grupo **celebrar** |
+| 17 | «Gian ID card»: **Gigante con una guitarra**, rótulo «GIAN TAKESHI.G.» | con su instrumento. **Corrige** a la parte de imagen: no es un micrófono, es una guitarra |
+| 18 | «Gian and Doraemon fight»: Gigante con gorro de cocinero y la mano de Doraemon | gag de la cocina de Gigante |
+| 21 | Gigante y Suneo con Nobita en **3D** (*Stand by Me*) | contraste 2D/3D |
+| 25 | Gigante con su equipo de béisbol | grupo |
+| 28 | «Gian mad»: puño y dientes, primer plano | **regañar** |
+| 29 | Gigante sale de un agujero blanco y cae en un cuarto con estantería y reloj | un invento en uso |
+| 33 | «Gian smirking deeply»: ríe con los ojos cerrados y un libro en la mano | presumir |
+| 37 | Shizuka le da un regalo a Gigante con gorro de fiesta; Doraemon y Nobita al lado | el cumpleaños de Gigante (15 de junio) |
+| 43 | Nobita, Gigante y Suneo saltando de alegría sobre fondo de rayos | **celebrar** |
+| 44-48 | Shizuka, Gigante y Suneo en la calle, mezclados, chocando, sentados | grupos de 3 |
+
+**`hojas/objetos_01.jpg`** (n.º 49-96, 2400×1704, 770 KB). **La más útil
+para el objeto del encargo.**
+
+| N.º | Qué es | Para qué |
+|---|---|---|
+| 57 | **Hoja de modelo de Gigante de 1973**: 10 caras y cuerpos a línea, 2033×1296 | la única hoja de modelo oficial encontrada |
+| 56 · 83 | Gigante, modelo 2005 limpio (2344×1320) y otra versión 2005 (1600×891) | comparar 1973 con 2005 |
+| **58** | **El bolsillo 4D** (media luna blanca) sobre fondo de rayos azules y estrellas, con la cartela roja «四次元ポケット», **2151×1210** | **la imagen clave del bolsillo**: su forma y cómo se anuncia. **Corrige**: la parte de imagen lo daba como n.º 64 |
+| 59 | «Obtaining Bag»: un monedero rosa acolchado con cadena, sobre los mismos rayos azules, 2100×1181 | otro invento anunciado igual |
+| 60-63 · 65 | Béisbol: gorra blanca con **«G»**, lanzamiento de Gigante | emblema del equipo (Punto 19) |
+| 64 | «YWK last shot»: los cinco juntos sobre amarillo, Doraemon en el centro con los brazos abiertos, 2046×1142 | **presentar en grupo** |
+| 73 | Nobita y Doraemon en la máquina del tiempo, dentro del túnel, 1920×1080 | el cajón y el túnel |
+| 74 | Cartela «Path-Finding Stick / ミチサキステッキ» sobre rayos, 1617×1018 | **cómo se rotula un invento**: letra roja con borde blanco |
+| 75 | Linterna pequeña (Small Light), película de 2021, 1562×1050 | objeto en 3D-look |
+| 76-80 | **Gigante de 1979 volando con el Takecopter**, cinco poses seguidas sobre verde, 1400×1082-1152 | poses de acción recortables |
+| 81 | Página del manga en inglés con la puerta a cualquier lugar, 1440×1024 | cómo es el globo del manga |
+| 82 | Cartela «するとレンズ» (Act Predictor Lens), 1599×899 | otra cartela de invento |
+| **85** | Cartela «**Voice Thickener / コエカタマリン**» (el caramelo que vuelve sólidas las palabras), 1450×954 | **un invento de la voz**: perfecto para un servidor de doblaje |
+| 86 | La **puerta a cualquier lugar en 3D** en una calle, 1066×1067 | el rosa de la puerta en luz real |
+| 95-96 | «Yume wo Kanaete»: los cinco en paneles de colores, 1366×768 | presentación en paneles |
+
+**`hojas/fondos_01.jpg`** (652×2433, 379 KB, montaje propio con Pillow)
+
+| N.º | Qué es | Original |
+|---|---|---|
+| 1 | Cuarto de Nobita, lado del escritorio (cortina verde, estantería, mochila) | [Wallpaper04](https://www.dropbox.com/s/vnho086qmwv4y0v/Wallpaper04.jpg?dl=1), 1280×894 |
+| 2 | Cuarto de Nobita, lado del armario (oshiire) y la puerta naranja | [Wallpaper05](https://www.dropbox.com/s/71u5znm49vhn49w/Wallpaper05.jpg?dl=1), 1280×894 |
+| 3 | El descampado con las tres tuberías, árbol y casas | [Wallpaper03](https://www.dropbox.com/s/uk3juifiwls5geh/Wallpaper03.jpg?dl=1), 1280×894 |
+| 4 | Túnel del tiempo, relojes blandos | [Wallpaper01](https://www.dropbox.com/s/qvquqzlta7m0hp6/Wallpaper01.jpg?dl=1), 1280×929 |
+| 5 | Túnel del tiempo, otro ángulo | [Wallpaper02](https://www.dropbox.com/s/n77qhby5jq9tpfz/Wallpaper02.jpg?dl=1), 1280×905 |
+
+> Ojo: la parte de imagen daba los enlaces de Dropbox cruzados (el 01 como
+> cuarto). **Lo comprobé bajando el 01 y el 04**: el 01 mide 1280×929 y es
+> azul (túnel); el 04 mide 1280×894 y es verde y beige (cuarto). La tabla de
+> arriba ya va bien.
 
 ### 3.1 Fondos oficiales para descargar (lo mejor que hay) ✅
 
@@ -223,9 +313,14 @@ título del episodio no venía en el subtítulo.
   [nota de prensa de Shogakukan](https://prtimes.jp/main/html/rd/p/000000647.000013640.html).
   **Es la base perfecta**: fondo oficial, sin personajes, para meter el
   escritorio en Blender delante.
+  **Segunda pasada: bajados y medidos** ✅. Siguen en Dropbox, enlazados
+  desde la propia página: **1280×894 a 1280×929, JPEG** (tabla de §3.0,
+  hoja `fondos_01.jpg`). Llevan la marca «DORAEMON Channel dora-world.com»
+  arriba a la derecha y «©藤子プロ・小学館・テレビ朝日・シンエイ・ADK» abajo:
+  **hay que taparlas** si se usa el fondo entero. Paleta medida en §5.2.
 - **Página de fondos de pantalla** de la web oficial:
-  [dora-world.com/wallpaper](https://dora-world.com/wallpaper) (no pude ver
-  los tamaños).
+  [dora-world.com/wallpaper](https://dora-world.com/wallpaper) (tamaños
+  sin ver ⚠️).
 
 ### 3.2 Películas: carteles y webs oficiales
 
@@ -275,13 +370,39 @@ título del episodio no venía en el subtítulo.
   [web de la tienda](https://mirai.dora-world.com/),
   [Instagram oficial](https://www.instagram.com/dora_mirai/)).
 
-### 3.5 Lo que falta ⚠️
+### 3.5 Arte oficial nuevo de la segunda pasada ✅
 
-- **No vi ni una imagen**. No sé tamaños ni calidad.
-- **Key visuals de la serie de TV** y **portadas de Blu-ray**: no los
-  encontré enlazados fuera de Fandom.
-- **Hojas de modelo** oficiales (settei de personajes): no encontré ninguna
-  pública.
+Todo visto y medido por el investigador de imagen.
+
+- **Retratos oficiales limpios, modelo 2005, sin fondo** (la mejor base de
+  pose y ropa): [Doraemon](https://static.wikia.nocookie.net/doraemon/images/d/d1/Doraemon_2005_Anime_Remake.png)
+  877×1248 · [Nobita](https://static.wikia.nocookie.net/doraemon/images/6/62/NobitaNobi2005R.png)
+  162×270 · [Shizuka](https://static.wikia.nocookie.net/doraemon/images/7/7c/ShizukaMinamoto2005R.png)
+  153×270 · [Suneo](https://static.wikia.nocookie.net/doraemon/images/8/80/SuneoHonekawa2005R.png)
+  144×270 · [Gigante](https://static.wikia.nocookie.net/doraemon/images/1/1e/TakeshiGouda2005R.png)
+  192×270. Los cuatro niños son pequeños: sirven para el color, no para
+  ampliar.
+- **Cel de producción** del barco del tiempo (hoja personajes n.º 2,
+  2048×1632): la referencia más fiable de **color plano de producción**.
+- **Portadas de los tomos**: el catálogo oficial de Shogakukan tiene **83
+  portadas** (los 45 *Tentōmushi* más los 6 a color y otros). La del tomo 1
+  se bajó: 200×316 px, miniatura ([imagen](https://www.shogakukan.co.jp/pr/tencomi/doraemon/images/cover1_1.png)).
+  Portada clásica: Doraemon de cerca, fondo degradado rosa y morado, título
+  grande en katakana.
+- **Artbook del 50.º aniversario, «THE GENGA ART OF DORAEMON»**
+  (ドラえもん拡大原画美術館): **más de 130 originales** a color y a línea,
+  elegidos por Hashimoto Asari, con una charla de los mangakas **Naoki
+  Urasawa y Shintaro Mugiwara** sobre el trazo de Fujiko F. Fujio ✅
+  ([dora-world](https://dora-world.com/contents/1805),
+  [Amazon.co.jp](https://www.amazon.co.jp/GENGA-ART-DORAEMON-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E6%8B%A1%E5%A4%A7%E5%8E%9F%E7%94%BB%E7%BE%8E%E8%A1%93%E9%A4%A8/dp/409199069X)).
+  No se hojeó por dentro ⚠️.
+- **Hoja de modelo de Gigante de 1973** (hoja objetos n.º 57). Es la única
+  hoja de modelo pública que apareció.
+- **Poses vivas, con objeto**: Gigante con **guitarra** (personajes n.º 17),
+  Gigante **volando** con el Takecopter en cinco poses (objetos n.º 76-80),
+  Gigante de béisbol (objetos n.º 60-65), los cinco juntos (objetos n.º 64).
+- **Sigue faltando** ⚠️: *key visuals* sueltos de la serie de TV (no de
+  película) y portadas de Blu-ray/DVD. No aparecieron fuera de Fandom.
 
 ---
 
@@ -293,9 +414,28 @@ título del episodio no venía en el subtítulo.
 
 ### 4.1 Modelos 3D de sitios y objetos (Sketchfab y otros)
 
-No pude abrir Sketchfab para ver la licencia exacta (bloqueado). Todos
-aparecen en el buscador como «Download Free 3D model», que en Sketchfab
-suele ser **CC BY** (hay que dar crédito). **Comprobar en la ficha** ⚠️.
+**Segunda pasada: licencias comprobadas por la API de Sketchfab** ✅. Todos
+estos son **CC Attribution (CC BY)**: se pueden usar **nombrando al autor**.
+La licencia cubre la malla, no el personaje: sigue siendo de Fujiko Pro.
+
+| Modelo | Autor | Licencia (API) | ♥ | Enlace | Para qué |
+|---|---|---|---|---|---|
+| **Doraemon** | Andy (Pandabox) | CC BY | 355 | [Sketchfab](https://sketchfab.com/3d-models/none-7b1db542a10f40da9a250c33afb5325f) | el más valorado; volumen del cuerpo |
+| Doraemon Lucky Cat | Patrickart.hk | CC BY | 280 | [Sketchfab](https://sketchfab.com/3d-models/none-73672e27df964ebc8bc1d72a639c4896) | figura tipo gato de la suerte |
+| Doraemon (Fan Art) | Takiri Cube | CC BY | 95 | [Sketchfab](https://sketchfab.com/3d-models/none-d60a33c2a0e0487ca13115f04a65e0ee) | otra versión del cuerpo |
+| **Nobita's Room** | Cre8t!ve V!be | CC BY | 77 | [Sketchfab](https://sketchfab.com/3d-models/none-7ac2289be8be408292b29a06f8f40a71) | **medidas del cuarto**: escritorio, estantería, tatami |
+| Doraemon City | Aizen | CC BY | 71 | [Sketchfab](https://sketchfab.com/3d-models/none-1c6ff7650cb5467d9871bffd4030eca1) | barrio |
+| Nobita | hito127 | CC BY | 18 | [Sketchfab](https://sketchfab.com/3d-models/none-1a54ed50a2b24d758c8e14e744a4d637) | Nobita en 3D |
+| Tin Airship (*Nobita and the Tin Labyrinth*) | chemicalX | CC BY | 16 | [Sketchfab](https://sketchfab.com/3d-models/none-54daadccf4434f85b30f6c22bc1830e1) | objeto de una película concreta |
+| Suneo · Dekisugi · 3D Movie Maker Shizuka | dannilloboyy | CC BY | 2-4 | [Suneo](https://sketchfab.com/3d-models/none-e05f60fed1de499eb07dae51fd2d2f70), [Dekisugi](https://sketchfab.com/3d-models/none-8abc15899c494f4f9e1074be465cde8a), [Shizuka](https://sketchfab.com/3d-models/none-521844bf0f7645d792312881dfaa99ba) | secundarios, baja calidad |
+| Shizuka 3D Model For Retopology | Asim-ali | **«Free Standard», no CC** ⚠️ | 4 | [Sketchfab](https://sketchfab.com/3d-models/none-be39bdeddc3647739ba5996a1a8a1e88) | no está claro si se puede reutilizar |
+
+> Choque entre partes: la de texto decía «no hay modelos de Doraemon con
+> licencia libre». La de imagen lo comprobó **por la API** y sí los hay (CC
+> BY). Vale la de imagen. **Rigs** listos para animar: no se confirmó
+> ninguno ⚠️.
+
+Los de la primera pasada (licencia sin comprobar por la API ⚠️):
 
 | Modelo | Autor | Enlace | Para qué |
 |---|---|---|---|
@@ -328,8 +468,39 @@ suele ser **CC BY** (hay que dar crédito). **Comprobar en la ficha** ⚠️.
 
 ### 4.3 Fan art 2D
 
-No pude entrar en Pixiv, DeviantArt ni Pinterest. **No doy nombres de
-artistas** que no haya visto ⚠️.
+Pixiv sigue sin abrirse directo, pero **Safebooru enlaza el origen real**
+(Pixiv o X) de cada dibujo. Sólo para mirar encuadre y color, nunca pegar:
+
+- El mejor valorado: **Doraemon y Suneo**, 2520×2520, de
+  [@totototo0507 en X](https://twitter.com/totototo0507/status/1807802641482985883)
+  ([imagen](https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png)) ✅.
+- Doraemon, 2893×2343, origen Pixiv
+  ([imagen](https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg));
+  Doraemon, 2048×1593, de [@doremifaso64](https://x.com/doremifaso64)
+  ([imagen](https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg)).
+- Shizuka, 1323×1488, origen Pixiv
+  ([imagen](https://safebooru.org/images/2075/25dcb27b778fe410ee77d7797966dfc865a77f9b.jpg));
+  Nobita, 1280×1468, origen Pixiv
+  ([imagen](https://safebooru.org/images/501/7457609beb5a940008f8eb38fd205e38af541888.jpg)).
+- Casi todo es de Pixiv de 2008-2016, de 500 a 1300 px de lado.
+
+**Etiquetas de Danbooru** que más se repiten al dibujar a cada uno (el
+vocabulario que entienden las IA de imagen, ver §18) ✅:
+
+| Personaje | Etiquetas |
+|---|---|
+| `doraemon_(character)` | bell, red_nose, collar, jingle_bell, whiskers, simple_background |
+| `nobi_nobita` | glasses, yellow_shirt, blunt_bangs, shorts, blue_pants |
+| `minamoto_shizuka` | twintails, black_hair, skirt, short_twintails |
+| `honekawa_suneo` | school_uniform, headphones (ojo: mezcla un Suneo DJ de un cruce de fans, no es canon) |
+
+**Fotos con licencia libre** (Openverse, Flickr): una guitarra de Doraemon
+([CC BY 2.0, Adrian F](https://live.staticflickr.com/44/146729298_09935ccd37_b.jpg),
+1024×768), una tarta de Doraemon
+([CC BY 2.0, Cillian Storm](https://live.staticflickr.com/2234/3541290988_99c0ce9945_b.jpg),
+1024×685) y Doraemon junto a la Landmark Tower de Yokohama
+([CC BY-SA 2.0, DocChewbacca](https://live.staticflickr.com/3275/2829786921_7ca2a96e59_b.jpg),
+768×1024). Sirven para ver **merchandising real con luz real**.
 
 ---
 
@@ -339,27 +510,58 @@ artistas** que no haya visto ⚠️.
 
 | Sitio | Qué es | Luz y hora típicas |
 |---|---|---|
-| **El cuarto de Nobita** | 2.º piso de la casa de los Nobi, **unos 6 tatamis**. Sólo hay ese cuarto y **el armario empotrado (oshiire) donde duerme Doraemon** ✅ ([Fandom JP](https://doraemon.fandom.com/ja/wiki/%E3%81%AE%E3%81%B3%E5%A4%AA%E3%81%AE%E9%83%A8%E5%B1%8B), [HOME'S](https://www.homes.co.jp/cont/living/living_00324/)) | tarde después del colegio, luz de ventana ⚠️ |
-| **El cajón del escritorio** | La **entrada de la máquina del tiempo**. Dentro está el **túnel del tiempo** (時空間) ✅ ([pixiv](https://dic.pixiv.net/a/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3(%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93))) | el túnel: colores que se retuercen ⚠️ |
-| **El descampado** | solar vacío con **tres tuberías de cemento** apiladas. Ahí juegan, ahí canta Gigante ✅ (2006-09-08, 00:09:08) | cielo azul de día, atardecer naranja ⚠️ |
+| **El cuarto de Nobita** | 2.º piso de la casa de los Nobi, **unos 6 tatamis**. Sólo hay ese cuarto y **el armario empotrado (oshiire) donde duerme Doraemon** ✅ ([Fandom JP](https://doraemon.fandom.com/ja/wiki/%E3%81%AE%E3%81%B3%E5%A4%AA%E3%81%AE%E9%83%A8%E5%B1%8B), [HOME'S](https://www.homes.co.jp/cont/living/living_00324/)) | **de día**: claro, crema y verde (fondo oficial y tráiler 0:30). **De noche**: casi a oscuras, un solo rayo de ventana (tráiler 1:00). Medido en §5.2 ✅ |
+| **El cajón del escritorio** | La **entrada de la máquina del tiempo**. Dentro está el **túnel del tiempo** (時空間) ✅ ([pixiv](https://dic.pixiv.net/a/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3(%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93))) | el túnel: espiral blanca sobre azul y morado, con **relojes blandos** rojos, verdes y amarillos que caen (fondos oficiales 4 y 5; opening 0:05) ✅ |
+| **El descampado** | solar vacío con **tres tuberías de cemento** apiladas. Ahí juegan, ahí canta Gigante ✅ (2006-09-08, 00:09:08) | de día, cielo celeste y tierra clara (fondo oficial 3) ✅; **de noche con focos** para los recitales (clip 0:20) ✅. El atardecer naranja, sin ver ⚠️ |
 | **La tienda del futuro** | Grandes Almacenes del Futuro (未来デパート), donde Doraemon **compra por catálogo**. El catálogo mide **como dos tatamis** ✅ ([pixiv](https://dic.pixiv.net/a/%E6%9C%AA%E6%9D%A5%E3%83%87%E3%83%91%E3%83%BC%E3%83%88), [numan](https://numan.tokyo/anime/M5OEY)) | no sale casi nunca: se ve el catálogo, no la tienda |
 | **El Museo de los artilugios** | museo del siglo XXII **flotando en la cima de una isla** (2013, 00:13:44) ✅ | luz de exposición ⚠️ |
 
-### 5.2 Paleta ⚠️
+### 5.2 Paleta **medida** (segunda pasada) ✅
 
-No hay colores oficiales publicados. Estos salen de **paletas de fans**,
-que no coinciden entre sí; tómalos como punto de partida:
+Ya no sale de paletas de fans. Se midió con `estilo.py` y Pillow sobre los
+**fondos oficiales** (investigador de imagen) y sobre **fotogramas vistos**
+(investigador de vídeo). El % es la parte de la imagen con ese color.
 
-| Qué | Hex | Fuente |
+**Fondos oficiales de dora-world** (hoja `fondos_01.jpg`):
+
+| Sitio | Hex medidos | Cómo está pintado |
 |---|---|---|
-| Azul de Doraemon | `#18A2E7` o `#03ADF0` | [brandpalettes](https://brandpalettes.com/doraemon-color-codes/) (dos valores) |
-| Rojo de nariz y collar | `#E61737` (RGB 230, 23, 55); la misma página también da `#E60137` | brandpalettes |
-| Amarillo del cascabel | `#FED037` (o `#EDE51F`) | brandpalettes |
-| Blanco de cara, barriga y bolsillo | `#FFFFFF` | — |
-| Rosa de la puerta a cualquier lugar | `#F8AAC0` aprox. | brandpalettes («pink») |
-| Marrón oscuro de línea y madera | `#403C2C` / `#904A30` | brandpalettes |
-| Verde del tatami | `#B9B77A` aprox. | mío, de memoria ⚠️ |
-| Cielo de tarde del barrio | `#8FD0F0` aprox. | mío, de memoria ⚠️ |
+| Cuarto, lado del escritorio (n.º 1) | `#C1DBAA` 18% (tatami) · `#D3B177` 17% (mueble) · `#B09265` 14% (escritorio) · `#E7EBE6` 14% (pared) | brillo 81%, saturación 28% |
+| Cuarto, lado del armario (n.º 2) | `#C1DAAC` 15% · `#E9E3D2` 15% · `#B4986B` 14% · `#E5EDED` 14% · `#97BEAE` 13% | claro, poco saturado |
+| Descampado (n.º 3) | `#E4ECF1` 19% (cielo) · `#D8D69D` 16% (tierra) · `#92C064` 13% (árbol) · `#B1CDDE` 12% · `#67C3EE` 9% | brillo 84%, saturación 28%, línea `#7C8B7B` |
+
+**Fotogramas vistos** (enlaces con minuto en §2.4):
+
+| Sitio y toma | Hex medidos | Cómo está pintado |
+|---|---|---|
+| Túnel del tiempo (opening, [0:05](https://www.dailymotion.com/video/x8k1ck8?t=5)) | `#0F1113` 25% · `#2F4863` 23% · `#3F728B` 17% · `#81947F` 12% · `#173640` 12% | degradado, línea fina `#505F59`, brillo 39% |
+| Luna y cielo de noche (opening, [0:20](https://www.dailymotion.com/video/x8k1ck8?t=20)) | `#101012` 50% · `#1E1F24` 21% · `#908D7A` 13% (luna) | muy oscuro, brillo 20% |
+| Bocetos de Da Vinci (opening, [0:40](https://www.dailymotion.com/video/x8k1ck8?t=40)) | `#8D6E41` 33% · `#9E8359` 30% · `#131112` 23% · `#674B29` 11% | sepia de pergamino, línea `#474032` |
+| **Recital de noche** en el descampado ([0:20](https://www.dailymotion.com/video/x3402n2?t=20)) | `#395A81` 20% (cielo) · `#CA5E41` 16% (foco) · `#F0AD76` 12% (piel con luz cálida) · `#803520` 10% | degradado, brillo 61% por los focos |
+| **Cuarto 3D de día** (tráiler, [0:30](https://www.dailymotion.com/video/x33a56v?t=30)) | `#A09B7F` 47% · `#B8B495` 26% (puertas correderas) · `#70624C` 15% · `#F9F9E1` 5% | crema y beige, brillo 61% |
+| Cuarto 3D de noche (tráiler, [1:00](https://www.dailymotion.com/video/x33a56v?t=60)) | `#0F0905` 35% · `#2F2313` 27% · `#1C0E05` 20% (cómoda) · `#3E372C` 9% | **brillo 13%**, sólo un rayo de ventana |
+| Calle y casa de Nobita, de día (serie clásica, [0:30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30)) | `#8D9679` 22% (arbustos) · `#2B4036` 17% (seto) · `#83B3B2` 13% · `#B4D1C5` 12% (cielo) | línea `#5E665B`, brillo 47% |
+| **Tatami** de la serie clásica ([1:30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=90)) | `#A7A741` 23% · `#658D36` 18% (verde amarillento) · `#07150C` 24% (sombra) · `#DFDEC4` 6% (pared) | saturación 67% |
+| Cielo del ending (España) | `#B6B2B5` 62% · `#96A9B4` 17% · `#67788F` 9% ⚠️ copia descolorida | plano (cel) |
+
+**Lo que cambia respecto a la primera pasada:**
+- Tatami: `#B9B77A` «de memoria» → `#A7A741`/`#658D36` en la serie clásica y
+  `#C1DBAA` en el fondo oficial de 2005. Misma familia verde-amarilla; la
+  serie clásica es más saturada y más oscura.
+- Cielo de tarde `#8FD0F0` «de memoria» → cielo de día medido `#E4ECF1` y
+  `#67C3EE` (fondo oficial). El atardecer sigue sin medir ⚠️.
+- Los colores de los personajes, medidos, están en §16.
+
+**Para #recursos** (canal de día, para consultar): la paleta clara del
+cuarto de día (`#C1DBAA`, `#D3B177`, `#E7EBE6`, o en 3D `#A09B7F`,
+`#F9F9E1`). El azul negro del túnel es para acción, no para leer.
+
+Las paletas de fans de la primera pasada quedan **sólo como contraste**:
+azul `#18A2E7`/`#03ADF0`, rojo `#E61737`, amarillo `#FED037`, rosa de la
+puerta `#F8AAC0`, marrón `#403C2C`/`#904A30`
+([brandpalettes](https://brandpalettes.com/doraemon-color-codes/)). El rosa
+de la puerta tiene ahora el valor de su ficha en la wiki, `#F17BAF`
+(Punto 25).
 
 ### 5.3 Texturas reales equivalentes (libres)
 
@@ -377,7 +579,21 @@ que no coinciden entre sí; tómalos como punto de partida:
 ### 6.1 Lo que usa la franquicia
 
 - **El logo japonés «ドラえもん»**: letras redondas y gruesas, como de
-  rotulador, sin esquinas ⚠️ (descrito de memoria).
+  rotulador, sin esquinas ⚠️. La segunda pasada no encontró una fuente que
+  describa el trazo oficial (búsquedas en japonés en la bitácora). Lo
+  confirma **de forma indirecta** una letra de fan que lo copia (abajo).
+- **「ドラえ文字」 (Dora-e-moji)**, letra japonesa gratuita hecha por un fan
+  a partir del logo ([cute-freefont](https://cute-freefont.flop.jp/tukiakari_doraemoji.html)) ⚠️
+  (una fuente; la web del autor está archivada). **Sólo uso personal.**
+  **Sólo trae hiragana, katakana y números: ni letras latinas, ni tildes,
+  ni ñ, ni ¿ ¡** (lo dice su ficha; el enlace de descarga está roto, no se
+  pudo abrir con fontTools). Sirve de **referencia visual del logo**, nunca
+  para el texto en español.
+- **Las cartelas de invento** (lo vi en la hoja `objetos_01.jpg`, n.º 58,
+  74, 82 y 85): el nombre del invento sale en **letra gruesa y redonda, de
+  color (rojo, amarillo), con borde blanco u oscuro**, sobre un fondo de
+  **rayos azules con destellos**; a veces con el nombre en inglés encima
+  («Path-Finding Stick», «Voice Thickener») ✅.
 - **El logo de *Stand by Me Doraemon***: la letra **Britannic**, que es **de
   pago** ✅ ([fontmeme](https://fontmeme.com/stand-by-me-doraemon-font/)).
 - **Letra «Doraemon»** hecha por fans (fluffyartstudio): gratis **sólo
@@ -404,6 +620,24 @@ fontTools: **todas traen á é í ó ú ñ Ñ ¿ ¡ ü** ✅.
 > **No usar** Bangers ni Dela Gothic One: son de acción y de golpe, no del
 > tono de Doraemon.
 
+### 6.3 Una letra para cada uso (segunda pasada)
+
+Reparto propuesto por el redactor **sólo con las letras ya comprobadas con
+fontTools** (§6.2); todas traen tildes, ñ, ¿ y ¡ salvo donde se dice:
+
+| Uso | Letra | Cómo |
+|---|---|---|
+| Logo o título | **Fredoka** gruesa | azul `#1D99C8` con borde blanco, como las cartelas |
+| Globo normal | **Comic Neue** o **Zen Maru Gothic** | negro sobre blanco, en recuadro redondeado (§7.3) |
+| Grito («¡Chan!», nombre del invento) | **Rammetto One** o **Lilita One** | rojo `#E02333` con borde blanco, como la cartela n.º 58 |
+| Pensamiento | **Zen Maru Gothic** regular | gris oscuro, sin negrita |
+| Onomatopeya | **Lilita One** | inclinada, con borde; en japonés, **Mochiy Pop One** |
+| Cartel del mundo (placas del museo, catálogo) | **M PLUS Rounded 1c** ExtraBold | sobre placa de latón o papel |
+| Interfaz de juego | **Nunito** Bold | como el recuadro blanco de *Story of Seasons* (§13) |
+| Subtítulos o créditos | **Nunito** o **M PLUS Rounded 1c** | blanco con borde oscuro |
+| Lo escrito a mano | **Klee One** o **Yomogi** | lápiz de colegio |
+| Sólo como referencia del logo japonés | **Dora-e-moji** | ⚠️ sin letras latinas; uso personal |
+
 ---
 
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
@@ -416,26 +650,37 @@ fontTools: **todas traen á é í ó ú ñ Ñ ¿ ¡ ü** ✅.
    - **El sonido cambia según la época** ✅
      ([nokikero](https://nokikero.com/dora-gadget-jingle-origin-tidbit/), y un
      vídeo que compara los dos:
-     [YouTube](https://www.youtube.com/watch?v=8PCLcvDnuh0)). Cómo suena
-     cada uno, según nokikero ⚠️:
-     con **Nobuyo Ōyama** (serie de 1979) era «**¡pikon!**» al sacarlo y
-     «pisha-pisha-pisha» al decir el nombre; con **Wasabi Mizuta** (serie de
-     2005) es «**pua-pua-pua…**» (la mano dentro del bolsillo) y
-     «**¡te-tte-rē!**».
+     [YouTube](https://www.youtube.com/watch?v=8PCLcvDnuh0)). Con **Nobuyo
+     Ōyama** (serie de 1979) era «**¡pikon!**» al sacarlo y
+     «pisha-pisha-pisha» al decir el nombre ✅ (segunda pasada: nokikero más
+     una encuesta de [questant](https://questant.jp/q/0EA0ACCN) y una
+     pregunta de [Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1479644414)).
+     Con **Wasabi Mizuta** (serie de 2005) las fuentes **no coinciden** ⚠️:
+     la primera pasada leyó en nokikero «**pua-pua-pua…**» (la mano dentro
+     del bolsillo) y «**¡te-tte-rē!**»; la segunda pasada lo da como
+     «**¡bikān!**» (ビカーン) al anunciar el nombre. Hay que oírlo en un
+     episodio.
    - El famoso «**te-re-re-tte-tere**» que todo el mundo imita **no es el de
      la serie**: es un error popular que viene de los cómicos japoneses ✅
      (nokikero, y lo repite como chiste
      [bokete](https://bokete.jp/boke/67191241)).
    - En la serie de 2005, mientras lo levanta, **el nombre del invento sale
-     escrito en pantalla**, sobre un **fondo de dibujos, colores y motivos**
-     ⚠️ (una fuente: [Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11258732946)).
+     escrito en pantalla**, sobre un **fondo de colores** ✅ ([Yahoo!
+     Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11258732946)
+     y, en la segunda pasada, **visto** en las cartelas de la hoja
+     `objetos_01.jpg`: n.º 58 «四次元ポケット» en rojo con borde blanco sobre
+     **rayos azules con destellos**; n.º 74 y 82 sobre rayos morados y
+     rosas; n.º 85 «Voice Thickener / コエカタマリン» en amarillo sobre
+     rayos verdes).
      **Esto es el «cuadro de diálogo» de Doraemon**: un rótulo con el
      nombre, no un globo.
    - Detrás de Doraemon aparece ese **fondo especial** mientras lo levanta.
      **En enero de 2024 ese fondo cambió de diseño** ⚠️ (una sola fuente, un
      post de X con el antes y el después:
-     [x.com](https://x.com/x3657yama/status/1743585478052581865)). No pude ver
-     cómo es ninguno de los dos: **hay que mirarlo en un episodio**.
+     [x.com](https://x.com/x3657yama/status/1743585478052581865)). La
+     segunda pasada repitió la búsqueda en japonés y todo remite al mismo
+     post. Las cartelas de la hoja no dicen su año, así que **no sé cuál es
+     el fondo de antes y cuál el de después**.
    - En *Stand by Me* dice «**¡Chan!**» (ジャ～ン) antes del nombre ✅
      (00:11:31).
 2. **El grito de Nobita**: «**¡Doraemooon!**» (ドラえも～ん), casi siempre
@@ -466,28 +711,35 @@ La lámina **no lleva un globo blanco**. Tres opciones reales de la serie:
   Letra: Zen Maru Gothic o Nunito, sobre cartón o metal real en Blender.
 - **B · El anuncio del invento**: una línea corta y grande con **corchetes
   japoneses ｢ ｣ y ¡!**, como en el subtítulo: «｢Recursos｣!». Detrás, el
-  **fondo de colores y motivos** del momento de sacar algo ⚠️ (comprobar el diseño
-  real). Letra: Fredoka o Rammetto One.
+  **fondo de rayos de color con destellos** del momento de sacar algo
+  (hoja `objetos_01.jpg`, n.º 58 y 74) ✅. Letra: Fredoka o Rammetto One,
+  de color y con borde blanco.
 - **C · La hoja del pedido**: lo que el usuario tiene que hacer, escrito a
   mano en **el sobre de pedido** de la tienda del futuro. Letra: Klee One.
 
 Si hace falta un globo de manga, que sea **redondo, fino, con la cola
-corta**, como en el manga de Fujiko F. Fujio ⚠️ (de memoria), nunca un
-rectángulo blanco con sombra.
+corta**, como en el manga de Fujiko F. Fujio ⚠️ (sólo visto en miniatura: la
+página de la hoja `objetos_01.jpg` n.º 81, y la línea limpia de
+[«Gian manga.jpg»](https://static.wikia.nocookie.net/doraemon/images/a/a0/Gian_manga.jpg)),
+nunca un rectángulo blanco con sombra.
 
 ### 7.4 En los videojuegos de la franquicia
 
-- ***Doraemon Story of Seasons*** (2019 en Occidente ⚠️): letra blanca sobre
+- ***Doraemon Story of Seasons*** (Steam, **10 de octubre de 2019** ✅, con
+  **español de Hispanoamérica** en la lista de idiomas): letra blanca sobre
   fondo oscuro en casi todo; en las escenas animadas, **letra negra sobre
   blanco**; **el nombre de quien habla siempre va encima** ✅
   ([Can I Play That?](https://caniplaythat.com/2019/10/28/mobility-review-doraemon-story-of-seasons/)).
   Capturas del cuadro de diálogo:
   [Interface In Game](https://interfaceingame.com/screenshots/doraemon-story-of-seasons-dialogue/)
-  (no pude abrirla).
+  (no pude abrirla). En la segunda pasada hay **capturas de Steam en
+  1920×1080** de los tres juegos, enlazadas en §13.
 - ***Doraemon Story of Seasons: Friends of the Great Kingdom*** (2 de
   noviembre de 2022) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Doraemon_Story_of_Seasons),
   [RPGFan](https://www.rpgfan.com/gallery/doraemon-story-of-seasons-friends-of-the-great-kingdom-screenshots/)).
-- ***Doraemon Dorayaki Shop Story*** (Kairosoft, 27 de agosto de 2024):
+- ***Doraemon Dorayaki Shop Story*** (Kairosoft; 27 de agosto de 2024 según
+  la primera pasada, **8 de diciembre de 2024 en Steam** ⚠️ puede ser otra
+  plataforma):
   **una tienda en pixel art** donde los inventos de Doraemon ayudan ✅
   ([Steam](https://store.steampowered.com/app/2934180/Doraemon_Dorayaki_Shop_Story/),
   [wiki de Kairosoft](https://kairosoft.wiki.gg/wiki/Doraemon_Dorayaki_Shop_Story)).
