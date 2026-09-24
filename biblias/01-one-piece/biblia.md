@@ -717,6 +717,24 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 | **Brook** (Óscar Flores) | «**¡Hola! ¿Cómo están?** ¡Yo-ho-ho-ho! Disculpen si los asusté.» · «Siéntanse en casa. ¿Quieren una tacita de café?» | «Brook 1» | ✅ sentido · la risa exacta ⚠️ |
 | **Franky** (Manuel Campuzano) | «¡Bien! ¡Prepárense, cobardes!» · «Tengo una sorpresita muy especial que quiero que vean.» | «Franky 2» | ✅ sentido |
 
+**Con su minuto, de clips oficiales doblados** (segunda tanda de la segunda pasada). YouTube dejó bajar, por ratos, los **subtítulos automáticos en español** (`es-orig`: sacados de la voz latina) de los clips de **Crunchyroll en Español**, aunque no el vídeo. Del tráiler latino de Netflix bajé el audio de una copia en Dailymotion y lo pasé por **Whisper** (modelo *medium*). Los subtítulos automáticos no llevan puntuación: la puse yo.
+
+| Quién | Frase textual | Clip y minuto | Estado |
+|---|---|---|---|
+| Nami (Gina Sánchez) | «¿Qué quieres? No tienes ni idea… no sabes lo que ha pasado en esta isla durante ocho años.» | ep. 37, [0:16](https://www.youtube.com/watch?v=M-jKhyF1q20&t=16) | ✅ (subtítulo automático + muestra «Nami» de Doblaje Wiki) |
+| Luffy (Mireya Mendoza) | «Sí, no lo sé.» · «Sí, eso dijiste.» | ep. 37, [0:22](https://www.youtube.com/watch?v=M-jKhyF1q20&t=22) y [0:32](https://www.youtube.com/watch?v=M-jKhyF1q20&t=32) | ✅ sentido |
+| Nami | «Ni siquiera te incumbe. Te lo dije: vete de esta isla de una vez.» · «¡**Lárgate**! ¡Lárgate! ¡Lárgate!» | ep. 37, [0:27](https://www.youtube.com/watch?v=M-jKhyF1q20&t=27) y [0:36](https://www.youtube.com/watch?v=M-jKhyF1q20&t=36) | ✅ («¡Lárgate!» también en la muestra de Doblaje Wiki) |
+| Nami | «**Ayúdame.**» | ep. 37, [1:08](https://www.youtube.com/watch?v=M-jKhyF1q20&t=68) | ✅ (dos fuentes) |
+| Luffy | «**¡Claro que lo haré!**» (el famoso «¡Por supuesto!» / 当たり前だ!!) | ep. 37, [1:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=85) | ⚠️ sólo el subtítulo automático; en el *storyboard* de 1:22 Luffy grita al cielo |
+| Bon Clay (Mr. 2) | «Así que tú no puedes nadar…» · «Les presento mi poder.» · «Esto es el poder de la fruta Copia Copia.» | ep. 92, [0:00](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=0), [0:17](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=17), [0:45](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=45) | ✅ sentido |
+| Ace | «¡Ay, no puede ser! Me dormí.» · (la gente del bar) «¿Este restaurante hace actuaciones de comedia?» | ep. 94, [1:00](https://www.youtube.com/watch?v=aKJTIxcHKkY&t=60) y [1:18](https://www.youtube.com/watch?v=aKJTIxcHKkY&t=78) | ✅ sentido |
+| Luffy (serie de Netflix, Iñaki Godoy) | «**Soy Monkey D. Luffy. Y yo voy a ser Rey de los Piratas.**» | tráiler oficial latino, [2:20](https://www.dailymotion.com/video/x8njo84?start=140) (copia de 3DJuegos México) | ✅ (Whisper sobre dos copias: 3DJuegos México y [Capsulanet, «Español Latino»](https://www.dailymotion.com/video/x8txohq), que dicen lo mismo) |
+| Luffy (Netflix) | «Nuestra bandera pirata, digna de la tripulación Sombrero de Paja.» · «Nos dirigimos a la Gran Ruta.» · «Este grupo, nuestra tripulación, puede con lo que sea.» · «Voy a hacerte pedazos, porque nadie se mete con mis amigos.» | tráiler latino, [0:43](https://www.dailymotion.com/video/x8njo84?start=43), [0:59](https://www.dailymotion.com/video/x8njo84?start=59), [1:46](https://www.dailymotion.com/video/x8njo84?start=106), [2:03](https://www.dailymotion.com/video/x8njo84?start=123) | ✅ (las dos copias) |
+| Luffy (Netflix, 2.ª temporada) | «Mis amigos… Juntos… podemos contra todo eso.» · (Crocodile) «Con que tú eres el capitán de los Sombreros de Paja. Monkey D. Luffy.» | avance latino de la 2.ª temporada, [Sensacine México, 0:35](https://www.dailymotion.com/video/x9xmbj6?start=35) y [0:44](https://www.dailymotion.com/video/x9xmbj6?start=44) | ✅ sentido (una copia) |
+
+**Ojo con la serie de Netflix:** dice «**Gran Ruta**», no «Gran Ruta Marítima» como el anime. Para la lámina manda el anime.
+**Lo que más sirve para #bienvenidas:** «¡Únete a nosotros!» (muestra «Luffy 3»), «Soy Monkey D. Luffy. Y yo voy a ser Rey de los Piratas» y «Este grupo, nuestra tripulación, puede con lo que sea».
+
 **Palabras del doblaje latino que la lámina debe usar** (Doblaje Wiki, «Sobre la traducción», y la segunda fuente que se indica):
 - **Grand Line = «Gran Ruta Marítima»** ✅ (muestra de Robin + el tuit de Toei Animation Latinoamérica con **#LaGranRutaMaritima**, citado por [ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En 4Kids era «Gran Línea».
 - **Log Pose** y **Eternal Pose** se quedan en inglés ✅ (Doblaje Wiki + muestra de Robin).
