@@ -647,6 +647,22 @@ en su recorte de papel de otro color, un poco torcida.
 **No probadas** (no las pude bajar): **Komika Axis / Komika Title**
 (Apostrophic Labs, dafont) y **Anime Ace 2.0 BB** (Blambot) ⚠️.
 
+### 6.3 Una letra para cada uso (resumen, segunda pasada)
+
+Todas de la tabla de §6.2, ya comprobadas con fontTools (á é í ó ú ñ ¿ ¡).
+
+| Uso | En la saga | Letra libre |
+|---|---|---|
+| Logo o título | rotulación a medida ⚠️ | Anton o Saira Extra Condensed Black |
+| «Globo» normal | no hay globos: **cajas** rectangulares | Comic Neue Bold, mayúsculas |
+| Pensamiento | **caja amarilla** de Miles | Comic Neue Bold |
+| Grito y onomatopeya | letras de cómic dibujadas («THWIP») | Bangers (o Luckiest Guy) |
+| Cartel del mundo | cartelas «Tierra-…»; pegatinas; grafiti | Bebas Neue / Staatliches; Permanent Marker; Rubik Spray Paint |
+| Hobie | letras recortadas y máquina de escribir | mezcla de Archivo Black, Bowlby One, Bungee + Special Elite |
+| 2099 / Lyla | Eurostile y Zephyr en los cómics | Orbitron o Audiowide (Michroma sin comprobar ⚠️) |
+| Interfaz de juego | carta de *Marvel Snap* (§7.4) | letra sin identificar ⚠️ |
+| Subtítulos y créditos | ATSV subtitula en español los letreros (§7.4b); créditos del doblaje en blanco | letra real **sin identificar** ⚠️; propuesta: Comic Neue Bold |
+
 ---
 
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
@@ -1753,11 +1769,285 @@ capa: pared, papel, trama, rayado, desfase, parche y logo.
 
 ---
 
+## Punto 20 · Gustos y detalles de cada personaje
+
+*(Nuevo.)* Fichas de la wiki (`spiderverse` e `intothespiderverse`,
+plantilla de personaje con las películas como fuente) ✅, salvo lo
+marcado.
+
+| Personaje | Cumpleaños · edad · cuerpo | Le gusta, le importa | Odia | Objeto o manía fija | Cómo se ve |
+|---|---|---|---|---|---|
+| **Miles** | **3 de agosto de 2004** · 15 años (UNU) · 172 cm, 58 kg | grafiti y pegatinas por Brooklyn; hip-hop al pintar; una pegatina de campaña de **Michelle Obama** en su cuarto | que lo traten como **«no merecedor»** de su beca | su **libreta y pared de dibujos**; los **cordones sueltos** a propósito | con **ansiedad**; en ATSV, rechazado por la Spider-Society |
+| **Gwen** | «principios de mayo», **probablemente 2003** · 15-16 años · **162 cm, 59 kg** | la **batería** («pegarle a sus sentimientos con palos»); **ballet y gimnasia** de niña, con el apoyo de su papá | que le repitan que «Gwen se enamora de Spider-Man y acaba mal» | sus **tenis turquesa**, siempre | pone **muros**; sólo se le caen con Miles y el Spider-Gang |
+| **Peter B.** | nacido en **1980** · 38 (UNU) / 39 (ATSV) · **1,78 m**, 84 → 77,2 kg | los **caballitos de mar** («se aparean de por vida»); su hija **Mayday**, por la tía May | sentirse un fracaso (divorcio, cuerpo, trabajo) | el **traje ajado** y el **chándal** | un fracaso, hasta que Miles y su hija le devuelven el sentido; en ATSV, **rehecho** (casado otra vez con MJ) |
+| **Miguel** | nacido en **2063-2064** · 35 años · **2,06 m** | el **orden**: que ningún evento canónico se rompa; las **empanadas** de la cafetería | el caos; a Miles lo llama «la anomalía original» | el traje de **nanotecnología**; **colmillos y garras** a la vista | el único que sostiene el multiverso; **marcado** por una dimensión que no salvó |
+| **Hobie** | «años 60 de su Tierra» · **16-17 años** · **1,95 m, 68 kg** | su **guitarra**; el **arte de protesta** (colarse en un desfile de moda para reventarlo) | toda **autoridad** y toda **etiqueta** | **la guitarra a la espalda**; ropa de parches, fotocopias y pines | «no cree en la coherencia»; fue **modelo de pasarela** sólo para protestar |
+
+**No encontré** ⚠️: la **comida favorita** de Miles, Gwen y Hobie (las
+fichas no la dan; sólo la de Miguel, las empanadas). No se inventa.
+
+---
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+*(Nuevo.)*
+
+### Números y premios ✅
+
+- **Taquilla**: UNU, **394,9 millones de dólares** en el mundo (The
+  Numbers, IMDb). ATSV, **más de 690 millones**: la más taquillera de
+  Sony Pictures Animation, con **120,5 millones** en su primer fin de
+  semana en EE. UU., el segundo mejor estreno de 2023 ✅
+  ([Collider](https://collider.com/spider-man-across-the-spider-verse-global-box-office-663-million/),
+  [BoxOfficePro](https://www.boxofficepro.com/weekend-box-office-spider-man-across-the-spider-verse-opening/)).
+- **Crítica**: ATSV, **96 %** en [Rotten Tomatoes](https://www.rottentomatoes.com/m/spider_man_across_the_spider_verse) ✅.
+- **Premios de UNU**: **Óscar** a Mejor Película Animada (2019; **Peter
+  Ramsey**, primer director afroamericano en ganarlo), **Globo de Oro**,
+  **BAFTA**, **Critics Choice** y **siete Annie** (montaje, diseño y
+  animación de personajes, guion, dirección…) ✅✅
+  ([Deadline](https://deadline.com/2019/02/spider-man-into-the-spider-verse-wins-oscar-for-best-animated-feature-marvel-phil-lord-chris-miller-1202563880/),
+  [Variety](https://variety.com/2019/film/news/spider-man-into-the-spider-verse-wins-oscar-best-animated-film-1203145826/), Doblaje Wiki).
+  **Un Annie al mejor montaje**: dato perfecto para #edicion.
+
+### Con quién se identifica el público, y por qué pega en Latinoamérica ✅
+
+- Miles es **«un adolescente negro y puertorriqueño que salva el mundo en
+  sudadera y tenis»**: muchos niños afrolatinos se vieron por primera vez
+  en un Spider-Man ✅✅
+  ([Bustle](https://www.bustle.com/p/miles-morales-in-into-the-spider-verse-is-the-afro-latinx-representation-we-were-missing-not-just-because-hes-a-superhero-14947742),
+  [Hola Cultura, en español](https://holacultura.com/miles-morales-el-impacto-y-evolucion-de-un-fenomeno-afrolatino-de-marvel/)).
+- Es caso de estudio académico de **afrolatinidad en pantalla** ✅
+  ([Oberlin](https://www.oberlin.edu/undergraduate-research/student-projects/750267)),
+  y The Conversation habla del **legado latino** de Spider-Man, con Miles
+  y **Miguel O'Hara** (mexicano-irlandés) ✅
+  ([The Conversation](https://theconversation.com/across-the-spider-verse-and-the-latino-legacy-of-spider-man-205892)).
+- La crítica latina ya lo celebraba en 2018 ✅
+  ([Remezcla](https://remezcla.com/lists/film/latino-critics-review-spider-man-into-spider-verse/)).
+- Rio habla **español** en el original, y el doblaje subió su acento
+  puertorriqueño en ATSV (§10.0).
+
+### Las escenas que hacen llorar
+
+| Escena | Minuto | Qué pasa y por qué duele | Cómo está hecha | Estado |
+|---|---|---|---|---|
+| **Gwen y su papá** | ATSV 00:05:43 a 00:07:41 (subtítulo, §8) | Gwen confiesa a medias; George Stacy, el capitán que persigue a Spider-Woman, **deja su puesto para abrazarla** en vez de detenerla y le dice que es «lo mejor que ha hecho»; ella nota que **adelgazó** de la angustia. En latino: «esta máscara es mi placa… estoy completamente sola» | la voz latina de Gwen es la **más expresiva** medida (30,7 semitonos, §10.3); hay ***color keys*** de la escena de @chuwenjie (§3.2). Plano y música: **sin mirar** ⚠️ | ✅ minuto; lo que pasa, por el resumen de TV Tropes ⚠️ (la página dio 403) |
+| **La muerte del tío Aaron** | UNU, **sin minuto** ⚠️ | Aaron, moribundo, le dice a Miles que es «lo mejor de su papá y de él» y que haga lo correcto; los otros le cuentan sus pérdidas y Spider-Ham dice que «lo más difícil es que no puedes salvar a todos» | la cara de duelo de Miles, vista después en el callejón ([clip, 1:55](https://www.dailymotion.com/video/x87pqho?t=115)) | resumen de TV Tropes ⚠️ |
+| **Peter B. consuela a Miles** con Mayday | ATSV | «Te van a pasar cosas malas… pero también cosas buenas, como tú en mi vida… y ella también» (latino, audio) | voz muy expresiva (19,9 semitonos) | ✅ frase; minuto ⚠️ |
+
+### Las que hacen gritar de emoción o reír
+
+- **El salto de fe** (UNU 01:23:23): tras la charla de su papá por la
+  puerta (01:21:09), Miles pinta su traje y **salta**; suena **«What's Up
+  Danger»** (01:22:56). Visto: **silueta roja plana sobre negro** y picado
+  nocturno azul ✅ (§2.8).
+- **«Anyone can wear the mask»** a cámara (UNU 01:44:43) ✅.
+- **Hobie**: «I don't believe in consistency» (ATSV 01:11:12) ✅; la cuenta
+  oficial pidió «tu frase favorita de Spider-Punk» (§9).
+- **Peter B.**: «Do you wanna hold my baby?» a Miguel (ATSV 01:38:34) ✅.
+- **El meme de señalar** con el Spider-Man del 67 (UNU 01:56:19) ✅.
+
+**Reacciones con votos y vídeos de reacción**: no encontré unos que se
+puedan citar con cifra ⚠️ (YouTube bloqueado; en Reddit, los hilos «best
+scene» del recolector no dicen de qué película son).
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+*(Nuevo.)*
+
+- **Fandub con canal y cifras comprobadas**: «Miles Morales, Gwen Stacy
+  "Hey" - Fandub Español Latino», de **Shadowcaat Dubs**
+  ([YouTube](https://www.youtube.com/watch?v=rwkzupAHHVI)), **1195
+  vistas**, 12-may-2021, una escena de UNU ✅ (`yt-dlp --print` y oEmbed).
+- **Fandubbers en TikTok**: **andiedubs** (Miles, Miguel y la Mancha) y
+  **Nay Metro** (Gwen) ⚠️ (nombrados en búsquedas; **sin enlace directo**
+  ni vistas).
+- **Meme hispano**: el **«evento canónico»** en TikTok en español, con
+  artículo que lo explica ✅
+  ([Androidphoria](https://androidphoria.com/curiosidades/evento-canonico-significado-origen-frase-viral-tiktok)).
+- **Crítica cantada** de **Staryuuki** al doblaje de Juan S. Guarnizo:
+  contenido de la comunidad hispana de doblaje ✅
+  ([SDPnoticias](https://www.sdpnoticias.com/geek/staryuuki-no-miente-e-insulta-a-juan-guarnizo-por-su-doblaje-en-spider-man-a-traves-del-spider-verso/)).
+- **Los propios actores latinos** diciendo frases en TikTok ⚠️ (§12.3,
+  no se pudo ver).
+- **Spider-Fest CDMX 2026**, con actores de doblaje ⚠️ (§10.2).
+- **Covers en español** de «Sunflower» o «What's Up Danger» con voz
+  latina identificable: **no encontré** ⚠️ (tres búsquedas; sólo vídeos
+  con la letra subtitulada).
+- Los clips de Dailymotion del recolector eran **el mismo tráiler subido
+  cuatro veces**, no fandubs: descartados.
+
+**Para #edicion**: el fandub de Shadowcaat es el tipo de hilo que el foro
+quiere (escena corta, voz propia, subtítulo). El caso Guarnizo es el
+contraejemplo.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+*(Nuevo.)* Su arte trae poses y ropa nuevas.
+
+| Qué | Detalle | Fuente |
+|---|---|---|
+| **Fortnite** (mayo de 2023) | trajes de **Miles** y **Spider-Man 2099**, mochila «Spider-Verse Portal», lanzatelarañas «Spider-Verse Web-Shooters», música de lobby «Silk & Cologne (EI8HT version)»; **Spider-Gwen** ya estaba | ✅ [CGMagazine](https://www.cgmagonline.com/news/fortnite-across-the-spider-verse-skins/), [GameSpot](https://www.gamespot.com/articles/fortnite-miles-morales-and-spider-man-2099-skins-debut-alongside-spider-verse-quests/1100-6514447/); skin de Gwen [1024×1024](https://static.wikia.nocookie.net/intothespiderverse/images/1/17/GwenStacyFortnite.png) (hoja 7, casilla 49) |
+| **LEGO** (2023) | set **71050**, 12 minifiguras sorpresa (Miles, Miguel, Gwen, Hobie, Pavitr…); set **76311** «Miles Morales vs. The Spot» | ✅ [LEGO](https://www.lego.com/en-us/product/spider-verse-miles-morales-vs-the-spot-76311), [Brickset](https://brickset.com/sets/subtheme-Spider-Man-Across-the-Spider-Verse-Series) |
+| **Hot Toys** 1/6 «Miles G. Morales» (MMS725, ≈285 USD) | cabeza con **ojos intercambiables**, diorama con cómic, telarañas y fondo del multiverso: **referencia 3D de pose** | ✅ [Sideshow](https://www.sideshow.com/collectibles/marvel-miles-g-morales-hot-toys-912767), [Collider](https://collider.com/spider-man-across-the-spider-verse-hot-toys-figures/) |
+| **Funko Pop** de Gwen | [1300×1300](https://static.wikia.nocookie.net/intothespiderverse/images/5/51/GwenFunkoPop.png) | ✅ wiki (`vestuario_01` 186) |
+| **Bandai S.H.Figuarts** (Japón) | figuras de la saga, incluida **Scarlet Spider**; **Disney Store Japón** (sudadera, pegatinas, llaveros) y **TOHO** (huchas de Miles y Gwen) | ✅ [tamashiiweb](https://tamashiiweb.com/item_character/spiderman_across-the-spiderverse/), [TOHO](https://www.toho.co.jp/goods/cspider-verse) |
+| **Burger King Brasil** | 2 locales de São Paulo con fachada y «portales» en las escaleras; combo «BK Aranhaverso» | ✅ [LatinSpots](https://www.latinspots.com/noticia/spiderman-va-a-comer-con-bk-dm9-y-sony/66129); foto CC BY-SA de la [hamburguesa](https://upload.wikimedia.org/wikipedia/commons/0/03/Spider-verse_Hamburguer.jpg) (4061×3481, Anidae) |
+| **CoCo Tea** (CoCo都可) | vasos de la colaboración, en rojo y azul | fotos de [Flickr, CC BY-NC-ND](https://live.staticflickr.com/65535/53037242497_cfbcb041c1_b.jpg) (1024×768) ⚠️ una fuente |
+| **POP MART** | figuras *blind box* de ATSV | ⚠️ una fuente ([popmart.com](https://www.popmart.com/us/products/1936/marvel-spider-man-across-the-spider-verse-series-figures)) |
+| **Cosplay de Gwen** | spandex, paneles termosellados, máscara con **inserto rígido** para que la capucha no se hunda | ⚠️ [RandomTuesday](https://randomtuesday.com/spidergwen-cosplay-tutorial/) |
+| **Cosplay de Hobie** | chaqueta de cuero, tachuelas, **parches pintados a mano** | ⚠️ [Bell of Lost Souls](https://www.belloflostsouls.net/2023/06/take-a-crap-in-the-establishment-the-spiderman-across-the-spider-verse-spider-punk-closet-cosplay.html) |
+
+- Las **zapatillas «Next Chapter»** de Air Jordan que salen en Openverse
+  son **inspiradas**: no confirmé que sean colaboración con licencia de
+  Sony. Fuera de la lista ⚠️.
+- **Ventas** de figuras y productos: no se publican ⚠️.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+*(Nuevo.)*
+
+### Influencias de cómic que citan los directores ✅
+
+Según [CBR](https://www.cbr.com/across-the-spider-verse-comics-artists-influence/):
+
+| Autor | Qué dejó en la saga |
+|---|---|
+| **Steve Ditko** | el traje rojo y azul original (1962) |
+| **John Romita Sr.** | la máscara icónica |
+| **Gil Kane** | trazo fino en primeros planos |
+| **Jim Steranko** | collage y letras experimentales: **muy cerca de Hobie** |
+| **Bill Sienkiewicz** | expresionismo, color casi abstracto |
+| **Paul Pope** | cyberpunk: **cerca de Miguel y 2099** |
+| **Moebius** | arquitectura futurista: Tierra-928 |
+| **Alex Ross** | fondos en acuarela: **cerca del mundo de Gwen** |
+| **J. Scott Campbell** | caras redondeadas, ojos grandes |
+| **Sara Pichelli** | cocreadora de Miles |
+
+- **Un universo «Kirby» descartado**: el diseñador de producción **Aymeric
+  Kevin** enseñó bocetos de un mundo al estilo de **Jack Kirby** que no
+  salió ✅ ([ComicBook.com](https://comicbook.com/movies/news/spider-man-across-the-spider-verse-jack-kirby-universe/)).
+
+### Influencias del anime (sólo en japonés) ✅
+
+Entrevista a los directores sin traducción a otro idioma
+([Fan's Voice](https://fansvoice.jp/2019/05/14/spiderman-spiderverse-interview/)):
+**Hayao Miyazaki** marcó «el tono general y el aspecto visual» (Bob
+Persichetti); ***AKIRA*** tuvo «mucha influencia» (Peter Ramsey);
+**Satoshi Kon** (*Tokyo Godfathers*, *Paprika*); ***Sailor Moon*** para
+diseñar a **Peni Parker**. Ocho animadores japoneses de Imageworks
+metieron técnicas de anime ✅ (CGWORLD).
+
+### Lo que vino después ✅
+
+*The Mitchells vs. the Machines* (Sony, 2021) reutilizó su tecnología;
+*Puss in Boots: The Last Wish* (2022) y *TMNT: Mutant Mayhem* (2023)
+siguieron la mezcla 2D/3D ([Collider](https://collider.com/movies-similar-animation-spider-man-across-the-spider-verse/)).
+Hay otra lista de 25 títulos, de valor desigual ⚠️
+([Collider](https://collider.com/best-animated-movies-like-spider-man-across-the-spider-verse/)).
+
+### Dentro de Spider-Man
+
+La trama de UNU se parece al final de ***Spider-Man: The Animated
+Series*** (años 90): Kingpin y una máquina para otras realidades, varios
+Spider-Man juntos ⚠️ (una fuente,
+[TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/MythologyGag/SpiderManIntoTheSpiderVerse)).
+
+### Qué lámina del servidor se le parece (para no repetir)
+
+- **Arcane** (encargo 17) es **la más parecida en técnica**: pintura a
+  mano sobre 3D, y el **grafiti en la pared** como cuadro de Jinx. Para
+  no repetir: el grafiti de Miles mejor en un **objeto distinto**
+  (pegatina, libreta, página de cómic), no en un muro liso. Los conceptos
+  de §19 ya lo cumplen: pegatinas en el túnel, cuaderno y fanzine.
+- Ninguna otra biblia (01-20) usa un cuadro de cómic superpuesto; la
+  caja amarilla es propia de esta.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+*(Nuevo.)*
+
+### Las reglas del mundo, en cinco líneas ✅
+
+1. El multiverso son **Tierras numeradas**: 1610 Miles, 65 Gwen, 928
+   Miguel, 138 Hobie, 616 Peter B., 50101 Pavitr…
+2. Quien recibe el poder de una araña es un **«Spider-Totem»**; casi
+   siempre un Peter Parker, no siempre ([Fandom](https://intothespiderverse.fandom.com/wiki/Spider-Totems)).
+3. Cada araña tiene **«eventos canónicos»**, nudos fijos de la **Red de
+   la Vida y el Destino**, como la muerte de alguien cercano; si se
+   rompen, el universo puede colapsar ([Fandom](https://intothespiderverse.fandom.com/wiki/Canon_Events),
+   [ScreenRant](https://screenrant.com/spider-man-spider-verse-canon-events-explained/)).
+4. Quedarse fuera de tu universo te hace **«glitchear»**, y duele; el
+   **reloj** lo evita.
+5. La **Spider-Society** de **Miguel** y **Lyla** vigila los eventos
+   canónicos desde la Nueva York de 2099.
+
+### La historia por arcos ✅
+
+- **UNU (2018)**: Kingpin hace que **Alchemax** construya un
+  **supercolisionador** en Brooklyn para traer a su mujer y su hijo
+  muertos. Arrastra a **Peter B.** y otras arañas al mundo de **Miles**;
+  el Peter de Miles muere. Miles aprende, cierra el colisionador y se
+  presenta como el Spider-Man de su mundo ([Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse)).
+  *Momentos*: túnel del grafiti, muerte del tío Aaron, salto de fe.
+- **ATSV (2023)**. **Acto 1**: Gwen, sola, perseguida por su papá;
+  aparece **la Mancha** (ex científico de Alchemax). **Acto 2**: Mumbattan
+  con **Pavitr** y **Hobie**; la sede en 2099; Miguel explica los eventos
+  canónicos, entre ellos **la muerte del papá de Miles**. **Acto 3**: Miles
+  se niega, Miguel lo encierra, escapa con **Hobie y Spider-Byte**; la
+  araña que lo picó venía de **Tierra-42**, donde el tío Aaron vive y otro
+  Miles es **villano**. Gwen, expulsada; arma **su banda**. Final abierto
+  ([Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse)).
+- ***Beyond the Spider-Verse***: la tercera parte, **25 de junio de 2027**,
+  aplazada desde 2024 (huelgas de 2023) ✅
+  ([Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-release-1236320001/),
+  [Variety AU](https://au.variety.com/2025/film/news/spider-man-beyond-the-spider-verse-release-date-june-2027-25333/)).
+  (Antes, en §1, decía «4 o 18 de junio»: corregido.)
+
+### Emblemas y objetos icónicos ✅
+
+- **Alchemax**: la corporación villana, en varios universos: buen
+  **logo de fondo** en carteles o pantallas ([Fandom](https://intothespiderverse.fandom.com/wiki/Alchemax_(Earth-1610))).
+- **El reloj multiversal** («Multiversal Gizmo» o «Web-Watch»), de Lyla:
+  todos los de la Spider-Society lo llevan en la **muñeca izquierda**
+  ([Fandom](https://intothespiderverse.fandom.com/wiki/Multiversal_Gizmo),
+  [Web-Watch](https://intothespiderverse.fandom.com/wiki/Web-Watch)).
+  Objeto pequeño y real para una **lámina 2** de normas.
+- **El Prowler de Tierra-42**: traje «casero», con descartes en rosa,
+  morado, rojo y verde y **símbolos de espray** (Kris Anka; uno de Evan
+  Monteiro) ([The Direct](https://thedirect.com/article/spider-verse-2-miles-morales-prowler-designs-rejected-photos)).
+- **La araña del pecho** de cada uno, distinta (Punto 19); las
+  **pegatinas «HELLO my name is»** de Miles (§8).
+
+### Vocabulario que un fan reconoce al instante
+
+**«Evento canónico»** · **«Red de la Vida y el Destino»** ·
+**«Spider-Totem»** · **«glitchear»** · **«Spider-Society»** · **«el
+reloj»** · **«Alchemax»** · **«la anomalía original»** · **«salto de
+fe»** · **«Cualquiera puede usar la máscara»** (forma latina sin
+confirmar ⚠️) · **«Un gran poder conlleva una gran responsabilidad»**
+(el audio de Raimi reciclado, §10.3) · **«miércoles»** (el «shoot» del
+doblaje).
+
+La tensión del mundo, en una línea: **la máscara puede ser de
+cualquiera**, pero **el universo exige** que alguien la lleve y pague el
+precio.
+
+---
+
 ## 19 · Tres conceptos para la lámina de #edicion
 
 Los tres usan los textos de §0. Las frases «en la voz de la serie» son
-**traducción mía** del subtítulo inglés, no del doblaje latino (no lo
-encontré). Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
+**traducción mía** del subtítulo inglés, salvo la de Hobie, que en la
+segunda pasada pasa a ser **del doblaje latino** («Fuchis las
+etiquetas», audio de Doblaje Wiki, §10.3). Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
 Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
 **glitch** y **desfase de impresión**.
 
@@ -1775,7 +2065,11 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
 - **Personaje**: **Miles**, el protagonista y el más querido. Pose 3 de
   §15: **pintando con el brazo estirado** (UNU 00:11:37 a 00:12:41), o
   **dando un paso atrás para mirar su pieza** («Is it too crazy?»,
-  00:12:41). Auriculares al cuello y cordones sueltos.
+  00:12:41). Auriculares al cuello y cordones sueltos. **Imagen de la
+  pose** (segunda pasada): `personajes_01` casilla **23**,
+  [Miles tagging](https://static.wikia.nocookie.net/intothespiderverse/images/a/a4/Miles_tagging_001.png)
+  (3840×1608). Traje: rojo y negro **de memoria** ⚠️; recortarlo del
+  fotograma, no pintarlo.
 - **Cómo habla**: **cajas amarillas** de pensamiento, en **Comic Neue
   Bold** mayúsculas, borde negro, **apiladas** como en el pasillo de UNU.
   Frase de gancho: **«Equivocarse es parte de esto.»** (de «Makin'
@@ -1799,7 +2093,11 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
   **niebla de pintura** en el aire, cortada por la luz de la lámpara;
   fondo del túnel en negro con **trama de puntos** en las sombras; luz
   cálida baja por un lado y **fluorescente frío** al fondo (HDRI
-  [mosaic_tunnel](https://polyhaven.com/a/mosaic_tunnel)).
+  [mosaic_tunnel](https://polyhaven.com/a/mosaic_tunnel)). Los botes de
+  primer plano, con el **desfase de canales** de Photoshop o del
+  compositor de Blender (Punto 18).
+- **Para no repetir Arcane** (Punto 24): el texto va en **pegatinas y
+  cajas**, no pintado en el muro liso como el grafiti de Jinx.
 - **Lámina 2**: la misma pared, **diez pegatinas** «HELLO my name is»,
   una por etiqueta, con su línea corta (tabla de §0). La de **Resuelto**
   con una ✓ pintada con espray encima; la de **Efectos**, con **glitch**
@@ -1815,7 +2113,12 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
   Papel: [Paper 001](https://ambientcg.com/view?id=Paper001).
 - **Personaje**: **Gwen**, la más votada en IMDb, **mirando los
   dibujos** (pose 6 de Gwen: «They're good. Wow, there's so many.»).
-  Miles pequeño al lado, **abochornado** (pose 9 de Miles).
+  Miles pequeño al lado, **abochornado** (pose 9 de Miles). **Imágenes**
+  (segunda pasada): los dos sentados en un cuarto con carteles,
+  `personajes_01` **40** ([3840×1606](https://static.wikia.nocookie.net/intothespiderverse/images/2/27/GLerIMiWMAA2XoJ.jpg);
+  que sea el de Miles, sin confirmar ⚠️); el traje de Gwen con sus hex
+  medidos (`#2D2926`, `#E6145A`, `#00FAFA`), `vestuario_01` 133-136. La
+  cara de vergüenza de Miles, vista: [«Missing Class», 0:28](https://www.dailymotion.com/video/x8l15ul?t=28).
 - **Cómo habla**: Gwen en **caja amarilla**: **«Están buenos. ¡Cuántos
   hay!»** (mía). Miles, en otra caja más pequeña y torcida: **«Lo
   terminado, a la galería.»**
@@ -1848,16 +2151,24 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
   grapas, cinta, bordes rotos; un **fanzine** grapado colgado de un
   clavo. En Blender: planos de papel con desplazamiento, grapas, cinta
   ([Cardboard Set 001](https://ambientcg.com/view?id=CardboardSet001)
-  para cartones), **la guitarra** de Hobie apoyada (modelo por buscar ⚠️).
+  para cartones), **la guitarra** de Hobie apoyada (modelo libre: **no
+  lo encontré** en la segunda pasada ⚠️; usar los estudios de guitarra
+  de Jake Panian, `vestuario_01` 163-170, como referencia para
+  modelarla).
 - **Personaje**: **Hobie**, el favorito de las redes. Pose 1 (entra
   con la guitarra a la espalda, 01:09:58) o pose 2 (con el aparato
   arrancado de la pared, «It's propaganda, bruv», 01:22:26): **apoyado
-  en la pared, de lado, sin mirar**.
+  en la pared, de lado, sin mirar** (postura de memoria ⚠️: no hay clip
+  suyo). **Imágenes oficiales** (segunda pasada): cuerpo y caras de
+  Evening Monteiro, `personajes_01` **4-10**; su póster en collage, **1**;
+  la chaqueta de espalda con los parches, `vestuario_01` 163-170.
 - **Cómo habla**: **letras recortadas de revista** (mezcla de Archivo
   Black, Bowlby One, Bungee, Anton y Special Elite, cada una en su
   papelito). Su frase, que es el chiste perfecto para un foro con
-  etiquetas: **«Odio las etiquetas.»** (de «I hate labels», ATSV
-  01:10:49) y debajo, en otra tira: **«Aquí úsalas.»** (mía).
+  etiquetas: **«Fuchis las etiquetas.»** (así lo dice el **doblaje
+  latino** en su presentación, audio de Doblaje Wiki ✅; es su idea de
+  «I hate labels», ATSV 01:10:49) y debajo, en otra tira: **«Aquí
+  úsalas.»** (mía).
 - **Dónde va cada texto**:
   - Cartel grande, letras recortadas: **EDICIÓN**.
   - Tira de máquina de escribir: **Vídeo y arte**.
@@ -1869,7 +2180,11 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
 - **Para que no quede plano**: **flash duro** como de fotocopiadora,
   sombras negras; un **imperdible** enorme en primer plano, fuera de
   foco y con desfase; los colores del fondo **cambian a saltos** de un
-  cartel a otro (como Hobie); grano de fotocopia.
+  cartel a otro (como Hobie); grano de fotocopia. La base visual es
+  real: **fotocopia en blanco y negro, periódico y carteles de los Sex
+  Pistols**, las tres primeras referencias del estudio
+  ([featurette, 0:25](https://www.dailymotion.com/video/x8oez5v?t=25)), y
+  el collage de **Jim Steranko** (Punto 24).
 - **Lámina 2**: **el estuche de la guitarra lleno de pegatinas**, una
   por etiqueta. Encaja con el tono: Hobie «odia las etiquetas» pero las
   lleva todas pegadas.
@@ -1882,8 +2197,13 @@ Los tres cumplen lo que pedía el plan: **cajas amarillas**, **viñetas**,
    localizados.
 2. **C**: el más original y el más querido por el fandom joven, pero
    pide **mucho trabajo de collage** y encontrar la guitarra.
-3. **B**: muy bonito para «galería», pero depende de un fotograma del
-   cuarto que **no he visto**.
+3. **B**: muy bonito para «galería»; en la segunda pasada ya hay una
+   imagen de los dos en un cuarto (`personajes_01` 40), pero **no está
+   confirmado** que sea el de Miles ni su minuto ⚠️.
+
+**¿Cambió algo en la segunda pasada?** El orden, no. Cambian las
+referencias (ahora con número de hoja), los hex del traje de Gwen, y la
+frase de Hobie, que pasa a ser **la del doblaje latino**.
 
 **Idea descartada**: la **línea de tiempo de Lyla** (ATSV 01:26:34).
 Parece una línea de tiempo de edición, pero es **un panel flotante**, y
@@ -1893,19 +2213,37 @@ eso no le gusta al dueño.
 
 ## 20 · Lo que no pude verificar
 
-- **Todas las imágenes**: no bajé ninguna; no hay hojas de contacto.
-- **Posturas** de §15: minuto ✅, postura de memoria ⚠️.
-- **Color exacto** de las cajas amarillas y de los trajes (§5.3).
-- **Estudio y director** de los dos doblajes latinos.
-- **Frases del doblaje latino**: sólo «Es agüita» y «Sayonara», con una
-  fuente cada una. El resto de frases de la lámina son **mías**.
-- **Voces latinas** de Kingpin (Rubén Moya) y Pavitr (Tommy Rojas):
-  una fuente cada una. **Papeles** de los *influencers*.
-- **Fecha exacta** de *Beyond the Spider-Verse*: 4 o 18 de junio de 2027.
-- **Títulos** de los temas de hip-hop de UNU (por la letra).
-- Si el **espray del traje** en UNU ocurre entre 01:21:35 y 01:22:56
-  (hueco sin diálogo) ⚠️.
-- **Licencia** de tres modelos de Sketchfab (§4.1).
+**Resuelto en la segunda pasada** (antes estaba aquí):
+~~imágenes y hojas~~ (9 hojas, 3 en `hojas/`) · ~~estudio y director del
+doblaje~~ (§10.0) · ~~Kingpin y Pavitr con una fuente~~ (✅ dos) ·
+~~fecha de *Beyond*~~ (25-jun-2027) · ~~títulos de los temas de hip-hop~~
+(✅ dos fuentes) · ~~licencias de dos modelos de Sketchfab~~ (CC BY) ·
+~~color de los trajes de Gwen y Miguel~~ (medido) · ~~el salto de fe
+boca abajo~~ (visto).
+
+**Sigue sin verificar** ⚠️:
+- **Posturas** de §15 de Peter B., Miguel, Hobie y Lyla, y la mayoría de
+  Miles y Gwen: minuto ✅, postura de memoria. No hay clips suyos.
+- **Su cara en cada emoción**: 7 de 25 con fotograma; **Miguel y Hobie,
+  ninguna** (§8).
+- **Color exacto** de las cajas amarillas y de los trajes de **Miles** y
+  **Hobie**: todos los fotogramas son de noche o con neón (§5.3).
+- **Frases del doblaje latino** de «Anyone can wear the mask», «leap of
+  faith» e «I'm gonna do my own thing». «Es agüita» y «Sayonara», con una
+  fuente cada una. «Fuchis las etiquetas» no se cruzó línea a línea.
+- **Papeles** de los *influencers* salvo Guarnizo y Andrés Navy; los
+  peruanos Adolfo Aguilar y Jorge Talavera.
+- Si el **espray del traje** en UNU ocurre entre 01:21:35 y 01:22:56.
+- **Licencia** del modelo de ScottPritchard (la API la da vacía).
+- **Minuto** de la muerte del tío Aaron y cómo están filmadas las
+  escenas que hacen llorar (Punto 21).
+- **TV Tropes** (403): sus páginas se citan por el resumen del buscador.
+- **Comida favorita** de Miles, Gwen y Hobie (Punto 20).
+- **Rig libre** de los personajes y **modelo de guitarra** (Punto 18,
+  concepto C).
+- La letra comercial del **logo**; que **Michroma** traiga tildes, ñ, ¿ ¡.
+- **TikToks** (actores latinos, andiedubs, Nay Metro) y **YouTube**
+  (pide iniciar sesión).
 - El final de la descripción del canal («…aquí_») y qué es «galería».
 
 ---
@@ -2040,3 +2378,88 @@ eso no le gusta al dueño.
 - Cajas de diálogo en los videojuegos (no las hay propias).
 - The Cutting Room Floor y Wayback Machine: bloqueados.
 - El guion oficial de ATSV (está en Deadline, bloqueado).
+
+### Segunda pasada (24-sep-2026, red abierta, equipo de 4 + redactor)
+
+**Qué respondió y qué no**
+- Respondieron: API de Fandom (`spiderverse`, `intothespiderverse`,
+  `marvelanimated`, `lego-marvelsuperheroes`), **API de Doblaje Wiki**,
+  Dailymotion (API y descarga), Internet Archive, API de Sketchfab, API
+  de Wallhaven, Poly Haven (200), MusicBrainz, Openverse, oEmbed de
+  YouTube y `yt-dlp --print` (una vez).
+- Siguieron fallando: **YouTube** (pide iniciar sesión, dos momentos
+  distintos), **TV Tropes** (403 con curl y WebFetch; sin copia en
+  Wayback), **The Cutting Room Floor** (403 de Cloudflare), **TikTok**
+  (sin oEmbed fiable), AnimeThemes (no aplica: son películas).
+- Clips de Dailymotion **borrados** (404): `x8jt3ad`, `x8l68ns`, `x8l7ilg`
+  (Guggenheim), `x8l5988`, `x8l2ca2`, `x8l41jm`, `x8l3bsm`, `x8l1bsy`.
+
+**Imagen** (inglés y japonés)
+- Fandom: 6 llamadas para resolver la página de Peter B. (redirección a
+  `Peter Parker (Earth-616)`); `investigar_serie.py` → 7 hojas + 2 de
+  Peter B. (383 imágenes grandes).
+- Sketchfab API: 4 llamadas (licencias). Wallhaven API: 3 consultas.
+- `estilo.py` y Pillow: 9 imágenes medidas.
+- Búsquedas: «Fortnite Spider-Verse skin», «LEGO set official 2023»,
+  «Hot Toys Miles Morales», «Gwen cosplay tutorial materials», «Hobie
+  cosplay build», «halftone brush pack CC0», «café temático colaboración»
+  (español), «McFarlane Toys» (nada), 「スパイダーマン アクロス・ザ・スパイダーバース
+  コラボ 日本 グッズ」 (japonés: Bandai, Disney Store, TOHO).
+
+**Vídeo** (inglés)
+- Dailymotion API: 7 búsquedas; `fotogramas.py`: 15 llamadas; `estilo.py`:
+  11 fotogramas medidos; Internet Archive: 1 búsqueda (los *storyboards*).
+- Wikitext de Marvel Animated Universe Wiki (2 canciones); 2 búsquedas
+  web sobre la música del túnel.
+
+**Voz y personajes** (español e inglés)
+- Español: «fandub español latino Spider-Verse», «evento canónico meme
+  tiktok», «Sunflower cover español latino», «What's Up Danger cover
+  español», «JuanSGuarnizo doblaje parece fandub», «Tommy Rojas Pavitr»,
+  «Gerardo García director doblaje Spider-Man», «Miles Morales
+  representación afrolatino».
+- Inglés: «Miles Morales height birthday favorite food», «Oscar Annie
+  2019», «Peter B sea horses», «Across the Spider-Verse box office rotten
+  tomatoes», «Into the Spider-Verse box office», «George Stacy tear
+  jerker», «andiedubs fandub», «fandub Hobie Gwen».
+- Doblaje Wiki: wikitext de las dos fichas; `voz.py` sobre 5 muestras.
+- Dailymotion API: **18 búsquedas** de caras (Peter B., Miguel, Hobie,
+  Gwen y su papá…); `fotogramas.py --cortes` sobre 8 clips (4 vivos).
+
+**Texto, juegos y técnica** (inglés, japonés y coreano)
+- Inglés: «Spider-Verse hand-paint CG frames», «custom line render tool»,
+  «Blender shader halftone Freestyle», «lens flare Nuke», «Hobie frame
+  rate», «cinematography analysis», «Photoshop brush comic», «movies
+  influenced by Spider-Verse», «directors influences Ditko Kirby»,
+  «Beyond release 2027», «canon event rules», «Spider-Society watch»,
+  «LEGO Marvel 2 Spider-Verse», «Prowler emblem», «Color Halftone CMYK
+  misregistration», «Marvel Snap Contest of Champions Spider-Verse».
+- Japonés: 「スパイダーバース 作画 技法 アニメーション インタビュー」 (CGWORLD ×2,
+  Fan's Voice).
+- Coreano: 「스파이더맨 스파이더버스 세계관 정경 원칙 나무위키」 (nada nuevo).
+
+**Fuentes nuevas por tipo**
+- **Oficiales y staff**: featurette «Designing Spider-Punk» (Sony), arte
+  de Kris Anka, Jesús Alonso Iglesias, Evening Monteiro, Jake Panian y
+  Lena Sayaphoum; Foundry ×3, Toon Boom, CGSpectrum, Marvel.com ×3,
+  LEGO, Sideshow, Bandai, TOHO.
+- **Otros idiomas**: japonés (CGWORLD ×2, Fan's Voice, tamashiiweb,
+  TOHO); portugués (campaña de Burger King Brasil, vía LatinSpots);
+  coreano (sin dato nuevo).
+- **Wikis**: Fandom (5 wikis), Doblaje Wiki por API, Wikipedia, TV Tropes
+  (sólo resumen), Wikimedia Commons.
+- **Foros y comunidades**: Reddit (títulos del recolector),
+  Androidphoria, SDPnoticias.
+- **Vídeo**: Dailymotion (11 clips), Internet Archive, YouTube (oEmbed).
+- **Código y recursos**: Sketchfab API, Wallhaven API, GarageFarm,
+  BlenderNation, CGTrader, Photoshop Essentials, Academy Class,
+  RetroSupply, MusicBrainz, Openverse, Flickr.
+- **Doblaje latino**: Doblaje Wiki (fichas, reparto, audio), StarCon MX,
+  SDPnoticias, Facebook «Yo También Apoyo el Doblaje Mexicano».
+
+**Lo que NO encontré en la segunda pasada**: caras de Miguel y Hobie;
+alegría de Miles sin máscara; rabia, miedo y vergüenza de Gwen en vídeo;
+el Guggenheim en vídeo; la comida favorita de tres personajes; un rig
+libre; un modelo de guitarra; un cover cantado en español; el enlace de
+los TikTok de andiedubs y Nay Metro; la letra del logo; el minuto de la
+muerte del tío Aaron; hojear el *Art of the Movie*.
