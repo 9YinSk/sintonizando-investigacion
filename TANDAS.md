@@ -10,7 +10,7 @@ Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda 
 
 Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja cada ayudante). Se intercala con las tandas nuevas: unos 7 ayudantes a la vez, y cada uno se sube con `herramientas/subir.sh <id>` (o `<id> repaso`).
 
-- [ ] repaso 01-one-piece
+- [x] repaso 01-one-piece
 - [x] repaso 02-attack-on-titan
 - [x] repaso 03-solo-leveling
 - [x] repaso 04-harry-potter
