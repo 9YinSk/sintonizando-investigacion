@@ -1,6 +1,6 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 17:33 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 2026-09-24, 18:45 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 ## Cuándo una biblia está completa
@@ -31,18 +31,21 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## Parado (18:00 UTC): el piloto de One Piece salió carísimo
+## El sistema nuevo (18:45 UTC)
 
-**Medición:** 8 investigadores durante 25 minutos (17:33-17:58 UTC) gastaron
-**unos 65 dólares** (dato del dueño) y ninguno terminó. A ese ritmo, una serie
-con 8 cuesta más de 100 dólares. Se paró todo para no gastar el resto.
+Tras el piloto caro (8 investigadores, 25 minutos, unos 65 dólares, ninguno
+terminó), el trabajo va con el **método económico** de `EQUIPO.md` y la skill
+`serie-en-equipo`, que funciona sola: `siguiente.py` elige la serie,
+`recolectar.py` junta gratis los datos (13 fuentes), 4 investigadores en Sonnet
+parten de esos datos y leen sólo su parte de la biblia (`seccion.py`), un
+redactor en Opus escribe, `revisar.py` exige los 25 puntos y `subir.sh` sube.
+Lo que cuesta cada una, en `COSTOS.md`.
 
-Lo que dejaron (guardado en `biblias/01-one-piece/partes/`, líneas): personajes
-346, doblaje 244, musica-videos 149, arte 133 (60 referencias), fanart-3d 89,
-dialogos 57, tecnica-mundo 30, escenas 29. Para seguir, relanzar cada rol «desde
-donde quedó» y luego el redactor (modo repaso).
-
-**Antes de relanzar, decidir cómo abaratar** (ver `DECISIONES.md` §1).
+One Piece: las 8 partes del piloto están guardadas en
+`biblias/01-one-piece/partes/` y ya tiene sus `datos-*.md` recolectados.
+Sigue en modo `seguir`: con los 4 roles del método económico, que leen también
+las partes del piloto (arte y fanart-3d → imagen; escenas y musica-videos →
+video; doblaje y personajes → voz; dialogos y tecnica-mundo → texto).
 
 Parados a medias (guardado, sin marcar): repaso 06-spy-x-family, 35-one-punch-man
 (≈450 líneas) y 36-hunter-x-hunter (esqueleto). Rehacerlos con el equipo.
@@ -64,10 +67,10 @@ pasos exactos están en la skill `.claude/skills/serie-en-equipo/SKILL.md`.
 
 Pega esto en una sesión nueva en la nube, con este repositorio:
 
-> Trae la rama `claude/peaceful-maxwell-fklpkp` (`git fetch origin claude/peaceful-maxwell-fklpkp && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue con la skill serie-en-equipo: primero los trabajos a medias, luego el orden de ESTADO.md.
+> Trae la rama `claude/peaceful-maxwell-fklpkp` (`git fetch origin claude/peaceful-maxwell-fklpkp && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue con la skill serie-en-equipo.
 
-Orden de trabajo:
-1. Piloto de One Piece (equipo de 8) hasta COMPLETA; anotar la medición.
+Orden de trabajo (`python3 herramientas/siguiente.py` lo calcula):
+1. One Piece hasta COMPLETA, con el método económico.
 2. Puntos 18-25 de las casi completas (02, 03, 04, 05, 31, 32, 33, 34): repaso
    corto con el equipo de 4 (cada investigador sólo sus puntos 18-25).
 3. 35 y 36 con el equipo; el redactor aprovecha lo que ya haya en `biblia.md`.

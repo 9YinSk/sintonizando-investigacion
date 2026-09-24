@@ -5,6 +5,33 @@ suyos en el mismo contenedor. La sesión que te lanzó sube tu trabajo cuando
 termines. Esto complementa `ENCARGO.md` (series) o `TEMA.md` (temas): léelos
 enteros antes de empezar, junto con tu archivo de `encargos/` o `temas/`.
 
+## Ahorra sin recortar (obligatorio)
+
+Cada paso que das vuelve a enviar todo lo que llevas leído: lo caro no es
+buscar, es cargar de más. El equipo de 8 gastó 65 dólares en 25 minutos sin
+terminar. La calidad no se toca (los 25 puntos, 40 fuentes, todo con fuente y
+minuto); se ahorra así:
+
+1. **Empieza por `partes/datos-<tu rol>.md`**: lo dejó `herramientas/recolectar.py`
+   (AniList, Doblaje Wiki con muestras de audio, Fandom, Danbooru, Safebooru,
+   Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz,
+   Steam, Reddit). **No repitas esas consultas**: compruébalas, elige, mira y
+   ve a por lo que falta.
+2. **No leas la biblia entera** (~45 mil tokens): `python3 herramientas/seccion.py
+   <id> --rol <tu rol>` te da tus secciones, `--avisos` sólo sus ⚠️ y
+   `--indice` el mapa.
+3. **Nunca imprimas una respuesta entera** de una API o una web: filtra con
+   Python, `jq`, `grep` o `head` y quédate con lo que sirve (40 líneas como mucho
+   por salida).
+4. **Imágenes**: mira primero hojas de contacto (muchas imágenes en una) y abre
+   en grande sólo la que vas a citar.
+5. **Escribe añadiendo**, no reescribiendo: `Edit` o `cat >> archivo <<'EOF'`.
+   Reescribir un archivo largo entero cuesta cada vez.
+6. **Tandas cortas**: unas **70 acciones** por tanda. Al llegar, guarda, escribe
+   al final de tu parte una línea `Sigue: <lo que falta, en concreto>` y
+   termina. El jefe te relanza limpio (sale mucho más barato que seguir con la
+   memoria llena). Cuando acabes de verdad, borra esa línea.
+
 ## Reglas del contenedor compartido
 
 - **Sólo escribes en tu carpeta**: `biblias/<tu-encargo>/` (series) o
@@ -92,12 +119,17 @@ Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer rese
 
 | Para… | Herramienta |
 |---|---|
+| **Datos de la serie ya juntados** (el jefe lo corre antes de lanzarte) | `python3 herramientas/recolectar.py <id>` → `partes/datos-*.md` y `partes/datos.json` |
+| **Sólo tus secciones de la biblia** | `python3 herramientas/seccion.py <id> --rol <rol>` (`--avisos`, `--indice`) |
+| **Openings y endings sin YouTube** | las URL `.webm` de AnimeThemes (en `datos-video.md` si respondió) valen para `fotogramas.py` |
+| **Frases del doblaje latino** sin YouTube | las muestras `.mp3` de Doblaje Wiki (en `datos-voz.md`) con `voz.py` |
 | **Mirar un vídeo** sin perder escenas cortas | `python3 herramientas/fotogramas.py "<url>" --cortes --salida …` (un fotograma por plano) |
 | **Oír una voz**: frase textual con minuto y cómo suena (registro, expresividad en semitonos, velocidad) | `python3 herramientas/voz.py "<url o audio>" [--desde s --hasta s] --salida …` (Whisper en local; revisa nombres propios, se equivoca) |
 | **Colores medidos** (vestuario, fondos) y **cómo está pintado** (plano o degradado, cuánta línea y de qué color) | `python3 herramientas/estilo.py <imágenes o URLs> --salida …` |
 | **Etiquetas de anime** (pelo, ropa, pose, expresión, personaje) con el vocabulario que entienden las IA de imagen | `python3 herramientas/estilo.py <imagen> --etiquetas --salida …` (modelo WD14 en local) |
 | **Leer texto en una imagen** (cartelas, menús de juegos, carteles, globos) | `tesseract <imagen> - -l spa+jpn+eng` |
-| **Letras**: si traen tildes, ñ, ¿ y ¡ | fontTools (`TTFont(f).getBestCmap()`) |
+| **Letras**: si traen tildes, ñ, ¿ y ¡ | fontTools (`TTFont(f).getBestCmap()`); letras libres con `latin-ext` en `https://api.fontsource.org/v1/fonts?subsets=latin-ext` |
+| **Texturas libres (CC0)** | `https://ambientcg.com/api/v2/full_json?type=Material&q=<paper|fabric|wood>` |
 
 Pon en la biblia de dónde sale cada dato («paleta medida con estilo.py en el
 fotograma 12 de …»). Las herramientas ayudan a describir; las imágenes se miran

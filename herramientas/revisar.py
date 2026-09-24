@@ -15,7 +15,7 @@ import json, os, re, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 
 
-def revisar(id):
+def revisar(id, solo_falta=False):
     d = f"biblias/{id}"
     t = open(f"{d}/biblia.md", encoding="utf-8").read()
     m = re.search(r"^#+ .*Cumplimiento del encargo.*$", t, re.M)
@@ -56,9 +56,12 @@ def revisar(id):
     if hojas != 3: falta.append(f"hojas ({hojas})")
     if num <= 30 and not repaso: falta.append("segunda pasada")
     estado = "COMPLETA" if not falta else "falta: " + ", ".join(falta)
+    if solo_falta:
+        return falta
     return f"{id[:30]:30} {len(t.splitlines()):5} lín  ⚠️{t.count('⚠️'):4}  tabla ✅{ok} ⚠️{wa} ❌{no}  {estado}"
 
 
-ids = sys.argv[1:] or sorted(i for i in os.listdir("biblias") if os.path.exists(f"biblias/{i}/biblia.md"))
-for i in ids:
-    print(revisar(i))
+if __name__ == "__main__":
+    ids = sys.argv[1:] or sorted(i for i in os.listdir("biblias") if os.path.exists(f"biblias/{i}/biblia.md"))
+    for i in ids:
+        print(revisar(i))

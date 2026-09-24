@@ -14,7 +14,16 @@ dossier aquí. Después, un chat en la PC lo junta todo y hace las láminas.
 3. En el entorno (el icono de la nube), pon **Network access → Full**. Sin eso
    no puede entrar a las wikis ni a YouTube.
 
-**Cada encargo:** en una sesión nueva en la nube, con este repositorio, escribe:
+**Lo más fácil (desde el 24-sep-2026):** en una sesión nueva en la nube, con este
+repositorio, escribe:
+
+> Lee ESTADO.md y sigue con la skill serie-en-equipo.
+
+La sesión va sola de serie en serie: el recolector junta los datos gratis, 4
+investigadores (Sonnet) investigan, un redactor (Opus) escribe la biblia, se
+revisa y se sube. Cuánto cuesta cada una queda en `COSTOS.md`.
+
+**Un encargo suelto:** en una sesión nueva en la nube, con este repositorio, escribe:
 
 > Haz el encargo `encargos/05-oshi-no-ko.md` siguiendo `ENCARGO.md`.
 
@@ -41,7 +50,11 @@ ramas, revisa cada dossier y lo copia a la bóveda de Obsidian
 - `ENCARGO.md` — las instrucciones completas para cada sesión.
 - `AYUDANTE.md` — cómo trabaja cada ayudante de una tanda (red, herramientas, guardar por partes).
 - `COMPLEMENTO.md` — la segunda pasada de las biblias 01-25, hechas con la red cerrada.
-- `herramientas/subir.sh` — sube el trabajo de un ayudante y marca su casilla.
+- `EQUIPO.md` — quién hace qué en cada serie y el método económico.
+- `ESTADO.md` — dónde va el trabajo y cómo seguir en otro contenedor; `COSTOS.md`, lo que cuesta cada serie.
+- `herramientas/recolectar.py` — junta gratis los datos de 13 fuentes para una serie.
+- `herramientas/seccion.py` — lee sólo un trozo de una biblia; `siguiente.py` — qué toca ahora.
+- `herramientas/revisar.py` — dice si una biblia está completa; `subir.sh` la sube y marca su casilla.
 - `encargos/` — un encargo por serie (qué canal, qué objeto, qué personajes).
 - `TEMA.md`, `temas/` y `contexto/proyectos.md` — los encargos de temas y el resumen de tus proyectos.
 - `MAPA.md` — todo lo que se investiga, por bloques.
