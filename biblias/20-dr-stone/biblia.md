@@ -41,6 +41,61 @@ fecha: 2026-09-24
 >   doblaje latino. Las frases latinas comprobadas están en §10.
 ---
 
+## Segunda pasada · qué cambió
+
+Repaso del 24-sep-2026 con la red abierta. Sólo con lo que trajeron las
+partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md` y los
+`datos-*.md`). Nada inventado: lo que no se encontró sigue con ⚠️.
+
+**Corregido (antes → ahora)**
+
+- **Pelo de Senku**: `#7DBF4A` verde manzana, de memoria → **`#5D906A`
+  verde salvia** en la luz y **`#2E5538`** en la sombra, medido en el
+  retrato oficial ✅ (§16).
+- **Túnica de Senku**: «blanca» → **crema cálido `#F5EBD6`**, medido en un
+  fotograma y confirmado por un cosplay real ✅ (§16).
+- **El dinero Drago**: «billetes» → **monedas acuñadas** de 500, 1.000,
+  5.000 y 10.000, con un perfil grabado y el nombre de una aleación ✅
+  (`Drago_Coins.png`, §3).
+- **La hoja de ruta**: «existe; el aspecto ⚠️» → vista entera: árbol de
+  habilidades de videojuego, con «START!» y «GOAL», flechas-tubo con trama
+  de puntos ✅ (§3 y §7).
+- **Paleta de los sitios**: 10 hex «de memoria» → **8 sitios medidos** en
+  fotogramas con `estilo.py`, con minuto y enlace (§5).
+- **Música**: el ending 2 y el de *New World* 2.ª parte estaban en ⚠️ o
+  ambiguos → confirmados con dos fuentes; «Haruka» es **opening**, no
+  ending. Añadida toda la música de *Science Future* (§11).
+- **Estudio latino**: Audiomaster Candiani ⚠️ → ✅ (ficha de Doblaje Wiki por
+  la API). Tsukasa = Arturo Cataño pasa a ✅ (§10).
+- **Caja de diálogo del videojuego**: «no encontré capturas» → vista en la
+  ficha de Google Play y medida: bisel turquesa sobre azul verdoso (§7 y
+  §13).
+- **Licencias de Sketchfab**: «no se pudo leer» → **CC BY** comprobada por
+  la API en 8 modelos; el megáfono es «Free Standard» (§4).
+
+**Añadido**
+
+- **Las hojas de contacto** (sección nueva, antes de §19): `arte_01`,
+  `vestuario_01` y `settei_01`, con qué número sirve para qué.
+- **Vídeos mirados de verdad**: opening 1 sin créditos, 5 tráileres y 4
+  episodios, con **fotogramas descritos y minuto `?t=`** (§2, §12, §15).
+- **Reparto latino completo** (secundarios, niños, cambios de voz, los
+  cuatro directores) y **voces medidas** de Gen y Senku con `voz.py` (§10).
+- **Trivia de cada personaje** (muletillas, alergias, objetos) en §8.
+- **Los puntos 18 a 25 del encargo**, que no existían: técnica y cómo
+  replicarla, texturas 2D, gustos y detalles, por qué la aman, fan dubs,
+  colaboraciones, obras parecidas y el mundo con sus símbolos (§18.1 a
+  §18.8, entre la guía para IA y los conceptos).
+- **Tabla «Cumplimiento del encargo»** antes de la bitácora, y un apartado
+  de la segunda pasada en la bitácora.
+- `referencias.json`: de 35 a **todas las útiles de las partes**, con
+  tamaños medidos, las mejores primero.
+
+**Los ⚠️**: había **96**; el recuento final está al pie de la tabla de
+cumplimiento.
+
+---
+
 ## 0 · El canal y lo que tiene que decir
 
 Del inventario (`servidor/inventario.md`, sección EL ESTUDIO):
@@ -116,9 +171,11 @@ La serie da **un objeto real para cada etiqueta** (todo con minuto en §2):
 | Cuadro de diálogo propio | No es un globo. Son **la hoja de ruta de Senku** (科学ロードマップ: cajas unidas por flechas hasta el invento final) y el **«¡…, listo!»** (クリア) que grita cada uno al terminar su pieza (1×23, 00:21:04). Para explicar, **Mecha Senku** (メカ千空), el robot que sale en una esquina a dar recetas (1×04, 00:05:08). Y para las etiquetas, **el test de Gen**: «A… B… C… ¡Correcto! Diez mil millones de puntos» (2×01, 00:15:25). |
 | El más querido | **Gen Asagiri**. Ganó la encuesta oficial de 2023-2024 con **41.317 votos** ✅ (dos fuentes) y la de 2021 (1.º Gen, 2.º Senku, 3.º Ryusui) ⚠️ (una fuente). Senku ganó las dos primeras, 2018 y 2019 ⚠️. En 2021 Chrome fue 7.º, Suika 12.ª y Kaseki no entró en el top 20. |
 | Gen y el doblaje | Gen es **mentalista e imitador de voces**. En *Stone Wars* imita a la cantante Lillian por teléfono y se aprovecha de que **el teléfono suena fatal** (2×01, 00:16:21). Una superfán, Nikki, **le corrige como una directora de doblaje** (2×07, 00:03:06). Para este servidor, es perfecto. |
-| Voz latina | Senku **Alejandro Orozco**, Chrome **José Luis Piedra**, Gen **Brandon Santini**, Kaseki **Óscar Rangel**, Suika **Valeria Mejía** ✅. Estudio **Audiomaster Candiani** (México) ⚠️. Frases: «**10 mil millones por ciento**» (Senku) y «**¡Qué malote!**» (Chrome) ✅. |
+| Voz latina | Senku **Alejandro Orozco**, Chrome **José Luis Piedra**, Gen **Brandon Santini**, Kaseki **Óscar Rangel**, Suika **Valeria Mejía** ✅. Estudio **Audiomaster Candiani** (México) ✅ (2.ª pasada: ficha de Doblaje Wiki por la API). Gen cambia de voz en el ep. 76: **Iván García**. Frases: «**10 mil millones por ciento**» (Senku) y «**¡Qué malote!**» (Chrome) ✅. |
 | Letras | **Kalam** o **Caveat** (notas a mano de Senku), **Anton** o **Rubik Dirt** (título de piedra), **Oswald** (precios), **Yusei Magic** (algún kanji a mano). Todas con tildes, ñ, ¿ y ¡ (comprobado en el archivo). |
+| Colores medidos (2.ª pasada) | Túnica de Senku **`#F5EBD6`** (crema, no blanca), pelo **`#5D906A`**/**`#2E5538`**, ojos **`#59050F`**; camisa de Chrome **`#245E6B`**; poncho de Suika **`#373C42`**; laboratorio en grises piedra **`#B0B1A2`**/**`#848276`**. Detalle en §5 y §16. |
 | Tono | **Alegre, curioso y de taller**: madera, piedra, vidrio soplado, cobre, fuego de horno, verde del bosque. Humor constante. Nada de ciencia de laboratorio blanco y limpio. |
+| Lo que se vio en vídeo (2.ª pasada) | La hoja de ruta del móvil ([1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267)), el laboratorio por dentro ([1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013)), la sal de Rochelle en un vaso ([1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189)) y la torre con la bocina de cobre ([1×24, 2:17](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137)). |
 | Tres conceptos (§19) | **A** «¡Micrófono, listo!» (Senku en el laboratorio). **B** «Grandes Almacenes Senku» (Gen vende, con los precios). **C** «La primera llamada» (Chrome y Suika prueban el teléfono: la reseña honesta). |
 
 ---
@@ -129,8 +186,9 @@ Todo sale de los **subtítulos japoneses de Netflix (con acotaciones de
 sonido y nombre de quien habla)**, del repositorio
 [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Dr.%20STONE).
 El texto y el minuto están comprobados ✅. La traducción al español es mía.
-Lo que **se ve** (postura, luz) lo describo de memoria ⚠️: mira el
-fotograma antes de usarlo. El minuto es el del archivo de Netflix; en
+Lo que **se ve** (postura, luz) lo describí de memoria en la primera
+pasada ⚠️. **2.ª pasada**: diez de estas escenas ya se miraron en vídeo,
+fotograma a fotograma; están en §2.5 con su enlace. El minuto es el del archivo de Netflix; en
 Crunchyroll puede moverse uno o dos minutos.
 
 **Cómo leo los episodios**: «1×23» es temporada 1, episodio 23.
@@ -233,13 +291,38 @@ un servidor de doblaje es oro.
 | Especial | 00:35:46 a 00:35:56 | カネに糸目つけねえ物欲の権化が １人 いんだろうが / お買い上げ ありがとうございます / 龍水「ハッハー！」 | Senku: «Hay uno que es **la codicia en persona** y no mira el precio». Gen: «**Gracias por su compra**». Ryusui: «¡Ja-ja!» | Humor: el que compra lo más caro |
 | 3×05 | 00:04:32 | ゲン「また技術料 100億ドラゴ～とか…」 | Gen: «¿Otra vez **10.000 millones de dragos** por mano de obra?» | Precio exagerado |
 
+### 2.5 Lo que se ve, mirado en vídeo (2.ª pasada)
+
+YouTube pide iniciar sesión desde el servidor. El investigador de vídeo usó
+**Internet Archive**: el opening 1 sin créditos en 1080p y los episodios
+1×11, 1×19, 1×23 y 1×24 (fansub en español), con `fotogramas.py`. Abrió
+cada hoja y la miró. El minuto es **el de ese archivo**: puede moverse uno
+o dos minutos frente al de Netflix de las tablas de arriba.
+
+| # | Vídeo y minuto | Qué se ve (mirado) | Para qué |
+|---|---|---|---|
+| 1 | [1×11, 16:45](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1005) | Suika **sin casco**: pelo claro, ojos muy abiertos, boca abierta, sonrojo de rayitas, junto a un bidón | Cara de sorpresa |
+| 2 | [1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013) | **El laboratorio por dentro**: cortinas de tela blanca de puerta, muros de piedra apilada, estantes de madera con tinajas de barro, mesa con paneles verdes de vidrio. Senku de espaldas; Chrome: «Oye, ¿qué pasa, Senku?» (fansub) | **El sitio del concepto A** |
+| 3 | [1×19, 20:42](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1242) | Senku en primer plano, **sonrisa ladeada**, fondo de bosque: «¡Smartphones!» | Presentar |
+| 4 | [1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267) | **La hoja de ruta del móvil**: nodos redondos 水銀 (mercurio), 金 (oro), プラスチック (plástico, con iconos de bolsa, vaso y pieza de lego), 蜂の巣 (panal), 木炭 y 石炭 (carbón), y un cartel grande **START** | **El cuadro de la lámina 2** |
+| 5 | [1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189) | Kohaku (capa con ribete de piel, espada a la espalda) mira **un vaso con piedritas transparentes: la sal de Rochelle**, boca abierta | El material del micro |
+| 6 | [1×23, 21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264) | Senku con **abrigo de piel**, cejas fruncidas, **gotea con un cuentagotas** sobre un vaso de líquido pálido | Explicar, experimentar |
+| 7 | [1×24, 2:17](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137) | **La torre-vigía**: cabaña de madera y paja en lo alto de un árbol enorme, con **una gran bocina de cobre** en la punta; monos alrededor. «¡Nace el móvil!» | Objeto real en sitio real |
+| 8 | [1×24, 4:34](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=274) | Ruri en primer plano (pelo rubio, ojos turquesa), asombrada; detrás, gente con ropa de invierno en un recinto de cuerdas y madera. Primera prueba del micro | Reacción |
+| 9 | [1×24, 22:10](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=1330) | Senku junto a una hoguera, luz cálida, mirada seria | Cierre nocturno |
+| 10 | [OP1, 0:24](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=24) | Senku camina entre **árboles petrificados que brillan en violeta y azul** | El mundo de piedra |
+
+El micrófono y el teléfono **no tienen arte fijo** en la wiki: sólo salen
+animados. Para dibujarlos, los fotogramas 5, 7 y 8 de esta tabla ✅.
+
 ---
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Ninguna imagen se pudo abrir
-> Todos los enlaces de esta sección salieron en los resultados de búsqueda,
-> pero **no pude ver las imágenes**. Lo que digo de cada una sale del título
-> o del resumen del buscador. Antes de usar una, ábrela.
+> [!note] 2.ª pasada: ahora sí se abrieron
+> En la primera pasada ninguna imagen se pudo abrir. Ahora el investigador
+> de imagen **bajó, midió y miró** las de la wiki (tamaño real por la API
+> de Fandom, `prop=imageinfo`). Lo que sigue en ⚠️ es lo que no se pudo
+> abrir (dr-stone.jp da 403 y no está en la Wayback Machine).
 
 ### 3.1 Key visuals del anime
 
@@ -249,7 +332,13 @@ un servidor de doblaje es oro.
 | Teaser de ese tramo | [SPICE](https://spice.eplus.jp/articles/342538) | Visual previa ⚠️ |
 | Fichas de personaje del anime (settei) | [WebNewtype](https://webnewtype.com/news/article/190514/) | **Hojas de modelo** de la temporada 1 y comentario de **Yuko Iwasa** (diseño de personajes): Kohaku «divertida de dibujar en acción», Chrome «pone muchas caras» ✅ |
 | Personajes en la web oficial | [dr-stone.jp/character](https://dr-stone.jp/character/) | Retratos oficiales ⚠️ (no se abre) |
-| Staff | [dr-stone.jp/staffcast](https://dr-stone.jp/staffcast/) | Diseño de personajes **Yuko Iwasa** (岩佐裕子), color **中尾総子**, diseño de fondos **青木智由紀**, dirección de arte **吉原俊一郎** ✅ (búsqueda en japonés) |
+| Staff | [dr-stone.jp/staffcast](https://dr-stone.jp/staffcast/) · [ficha de TMS](https://www.tms-e.co.jp/alltitles/2010s/762101.html) | Diseño de personajes **Yuko Iwasa** (岩佐裕子), que también dibuja las carátulas de los Blu-ray; color **中尾総子**; diseño de fondos **青木智由紀**; dirección de arte **吉原俊一郎** ✅ (búsqueda en japonés + ficha de TMS) |
+| **Key visual de *Stone Wars*** (2.ª pasada) | [imagen, 2324×3277](https://static.wikia.nocookie.net/dr-stone/images/9/9f/Dr._Stone_Stone_Wars_Key_Visual_3.png) | Senku de pie con **capa verde**. El más grande de la wiki. Hoja `arte_01` nº1 ✅ |
+| Otra de *Stone Wars* | [imagen, 1830×2529](https://static.wikia.nocookie.net/dr-stone/images/1/1e/Dr._Stone_Stone_Wars_Key_Visual_1.png) | Senku con el puño. Hoja `arte_01` nº14 ⚠️ (el número de la wiki no confirmado) |
+| Key visual de la temporada 1 | hoja `arte_01` nº38 y nº39, 1449×2048 | **Grupo de cuatro**, dos variantes ✅ vistas |
+| Especial *Ryusui* | [imagen, 1420×2000](https://static.wikia.nocookie.net/dr-stone/images/4/4e/Dr._Stone_Ryusui_Key_Visual_1.png) | El más grande de la categoría ✅ |
+| *New World* y *Science Future* | *New World* KV 1 (849×1200) · [*Science Future* KV 1, 849×1200](https://static.wikia.nocookie.net/dr-stone/images/5/5c/Dr._Stone_Science_Future_Key_Visual_1.png) | ✅ medidos. La wiki tiene **22 key visuals** en [Category:Key Visuals](https://dr-stone.fandom.com/wiki/Category:Key_Visuals) |
+| Cuenta atrás | [X, «8 Days»](https://x.com/animeupdates/status/2036759330528154071) · [X, «tomorrow»](https://x.com/animeupdates/status/2039517302257856758) | Cartones de *Science Future* 3.ª parte (abril 2026) ⚠️ (una cuenta que republica lo oficial) |
 
 ### 3.2 Manga, libros y fanbook
 
@@ -266,29 +355,49 @@ un servidor de doblaje es oro.
   diagramas son exactos y bonitos ✅ ([Fandom: Boichi](https://dr-stone.fandom.com/wiki/Boichi), [CBR sobre su entintado](https://www.cbr.com/dr-stone-artist-boichi-relaxing-inking-process/)).
 - Entrevista a los autores sobre cómo hacer legible la ciencia:
   [Nikkei xTrend](https://xtrend.nikkei.com/atcl/contents/18/00316/00035/) ⚠️ (no la pude abrir).
+- **Portadas de tomos** (2.ª pasada, vistas en `arte_01`): en inglés (US 8,
+  12, 25…) y japonés (4, 5, 17…). **Nunca de pie sin más**: cuerpo entero
+  con objeto o en grupo. El US 25: Senku, Chrome y Kohaku corriendo con un
+  brazo mecánico detrás ✅.
+- **Portadas de Weekly Shōnen Jump** (2017-40, 2018-51, 2019-31, 2020-48,
+  2021-02, 2021-15), de 1200×480 a 2000×800, vistas en `settei_01` y
+  `vestuario_01` ✅.
+- **«Dr. STONE Speak Towards the Future»** (libro), portada 800×1259,
+  `settei_01` nº258 ✅.
+- **Doble página del capítulo 216** «Z=216 HELLO WORLD», el despegue del
+  cohete SENKU7: [imagen, 2190×1600](https://static.wikia.nocookie.net/dr-stone/images/6/69/Chapter_216.png) ✅. Cómo
+  está tramada, en §18.2.
 
 ### 3.3 Los objetos del canal, tal como salen en la serie
 
-Lo que se ve lo describo **de memoria** ⚠️. Lo que se dice está en el
-subtítulo ✅.
+Lo que se dice está en el subtítulo ✅. Lo que se ve, en la 1.ª pasada era
+de memoria ⚠️; en la **2.ª pasada** se miró en los fotogramas de §2.5 y en
+las imágenes de la wiki.
 
 | Objeto | Cómo es | Estado |
 |---|---|---|
-| **Micrófono** (1×23) | **Cristales de sal de Rochelle** («キラッキラの石», piedras brillantísimas, 00:19:46) pegados a **un megáfono de plástico**. La sal sale de las **bolitas rosas del corcho del vino** y del alga quemada | ✅ lo dicho; la forma ⚠️ |
-| **Teléfono / móvil** (1×23-1×24) | «No es *smart*, sólo *phone*». Lleva **tubos de vacío** (Kaseki), **hilo de oro** (Suika y los niños), **plástico** (Chrome), **800 pilas** (Gen) y el micro (Kohaku). Tiene un **interruptor de llamada que se gira** («通話スイッチを回す音», 2×02, 00:21:38) | ✅ piezas; el aspecto de caja de madera ⚠️ |
+| **Micrófono** (1×23) | **Cristales de sal de Rochelle** («キラッキラの石», piedras brillantísimas, 00:19:46) pegados a **un megáfono de plástico**. La sal sale de las **bolitas rosas del corcho del vino** y del alga quemada | ✅ lo dicho. **Visto** (2.ª pasada): la sal es un vaso de **piedritas transparentes** ([1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189)). El megáfono en primer plano sigue sin fotograma ⚠️ |
+| **Teléfono / móvil** (1×23-1×24) | «No es *smart*, sólo *phone*». Lleva **tubos de vacío** (Kaseki), **hilo de oro** (Suika y los niños), **plástico** (Chrome), **800 pilas** (Gen) y el micro (Kohaku). Tiene un **interruptor de llamada que se gira** («通話スイッチを回す音», 2×02, 00:21:38) | ✅ piezas. La **bocina de cobre** en la torre-vigía, vista ([1×24, 2:17](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137)). La caja del aparato en primer plano ⚠️ |
 | **Tocadiscos** (1×24) | Motor de la **maquinilla de afeitar** de Byakuya (00:11:29), **engranaje de la máquina de algodón de azúcar** (00:11:47), **aguja de hueso** (00:12:23). El disco es **el fondo de una botella** (00:08:08) | ✅ |
 | **Intercomunicador** (3×10) | Un **pendiente**: el aro de cobre es una bobina y el gancho de la oreja lleva sal de Rochelle. Radio de galena: **sin pilas** | ✅ lo dicho |
 | **Cámara** (3×02) | **Daguerrotipo**, «la cámara más antigua». Kaseki fabrica varias: «mis camaritas» (3×03, 00:00:36) | ✅ lo dicho |
-| **Moneda Drago** (especial) | Billete emitido por el grupo de Ryusui | ✅ existe; el dibujo del billete ⚠️ no lo vi |
-| **Hoja de ruta** | Cajas con cada material unidas por flechas hasta el invento. El anime muestra la del móvil en 1×19 ✅ ([Fandom: Roadmap Diagrams](https://dr-stone.fandom.com/wiki/Roadmap_Diagrams), [Tumblr: Cellphone Roadmap](https://www.tumblr.com/omniotaku/189085357014/dr-stone-cellphone-roadmap)) | ✅ existe; el aspecto ⚠️ |
+| **Moneda Drago** (especial) | **Corregido: no son billetes, son monedas acuñadas.** Cuatro: **500, 1.000, 5.000 y 10.000** (ドラゴ). Cada una con **el perfil grabado** de un personaje (la de 500, un anciano de barba larga; la de 10.000, dos cabezas juntas), **orla de perlitas**, trama de puntos en el relieve y el nombre de **una aleación** debajo (フェロクロム ferrocromo, フェロニッケル ferroníquel…): el dinero vale lo que su metal. [Drago_Coins.png, 959×649](https://static.wikia.nocookie.net/dr-stone/images/4/4c/Drago_Coins.png) | ✅ vista entera |
+| **Hoja de ruta** | Cajas con cada material unidas por flechas hasta el invento ([Fandom: Roadmap Diagrams](https://dr-stone.fandom.com/wiki/Roadmap_Diagrams), [Tumblr: Cellphone Roadmap](https://www.tumblr.com/omniotaku/189085357014/dr-stone-cellphone-roadmap)). **Vista en la 2.ª pasada**: la del móvil en el anime ([1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267)), nodos redondos con el material y un cartel **START**; y la del manga, [Roadmap_Senku_Spaceship.png, 1455×1063](https://static.wikia.nocookie.net/dr-stone/images/8/89/Roadmap_Senku_Spaceship.png): **árbol de habilidades de videojuego**, iconos en círculos o cajas de esquinas irregulares con borde grueso («Rare Metals», «Superalloys», «Oil», «Engine», «Computer»), **flechas-tubo gruesas rellenas de trama de puntos**, rayos de velocidad detrás de «START!» y «GOAL», niveles «Level 1» → «LV. 99», y el motor dibujado como maquinaria real, con pernos. Mismo estilo en «Moon Rocket Roadmap» (2036×352) y `settei_01` nº52 | ✅ vista entera |
+| **Nendoroid de Senku** (nº1262) | Tres caras (normal, seria, riendo con picardía) y **objetos fabricados a mano**: tarro de barro, botella de medicina, algodón de azúcar ([Good Smile](https://www.goodsmile.info/en/product/9106/Nendoroid+Senku+Ishigami.html)) | ✅ (imagen sólo de 250×250 ⚠️) |
+| **Tarjetas del videojuego** *Battle Craft* | Cuerpo entero en acción con su elemento, sobre estrellas: Chrome con un rayo azul, Gen con un remolino de agua, **Kaseki envuelto en llamas con un martillo**, Suika saltando. `settei_01` nº259-262. La de Senku: chasquea los dedos sobre un tubo de ensayo, «E=mc²» en la venda ([1000×1000](https://static.wikia.nocookie.net/dr-stone/images/6/66/Battle_Craft_Intro_Card_Senku.png)) | ✅ poses nuevas, oficiales |
 
 ### 3.4 Lo que falta ⚠️
 
-- **Ninguna captura** del micrófono, del teléfono ni de la hoja de ruta.
-  Hace falta sacar fotogramas de 1×19 (00:21:25), 1×23 (00:19:43 a
-  00:21:32) y 1×24 (00:00:03 a 00:05:05) en 1080p.
+- ~~Ninguna captura de la hoja de ruta~~ → vista (1×19, 21:07). ~~El
+  billete de Drago~~ → son monedas, vistas.
+- **El micrófono y el teléfono en primer plano**: no hay arte fijo en la
+  wiki (búsquedas `microphone` y `telephone` en su API, sin imagen de esos
+  objetos solos). Hay fotogramas de 720p (§2.5); en 1080p no se pudo.
 - **Las portadas de los tomos**: no encontré cuál muestra el teléfono.
-- **El billete de Drago**: no vi su diseño.
+- **Carátulas de Blu-ray** en alta: se sabe que las dibuja Yuko Iwasa (dos
+  tiendas), pero no se bajó ninguna.
+- **dr-stone.jp/character/** y la noticia 5824: 403 y sin copia en la
+  Wayback Machine.
 
 ---
 
@@ -296,23 +405,29 @@ subtítulo ✅.
 
 ### 4.1 Modelos 3D de la serie (Sketchfab)
 
-Vistos en la búsqueda; **la licencia exacta no la pude leer** (la página
-no se abre). «Download Free» en Sketchfab significa **alguna licencia
-Creative Commons**: casi siempre CC BY 4.0, a veces CC BY-NC. **Léela
-antes de usarlo** ⚠️. Son personajes con copyright: **sólo para mirar
-poses y volúmenes**, no para pegarlos.
+**2.ª pasada: licencia comprobada** con la API de Sketchfab
+(`api.sketchfab.com/v3/models/<uid>`, campo `license.label`). Los cuatro
+de Senku y el casco de Suika son **CC Attribution (CC BY)** y se pueden
+descargar ✅. Son personajes con copyright: **sólo para mirar poses y
+volúmenes**, no para pegarlos. Si se usara el modelo tal cual, CC BY obliga
+a dar crédito al autor.
 
 | Modelo | Autor | Qué trae | Enlace |
 |---|---|---|---|
 | **Dr. Stone \| Senku 3D Model, Environment & Props** | Jerry Teng | Senku, **el laboratorio**, hacha, poción, **teléfono**, cuchillo y escudo de Kohaku, **bandera del Reino de la Ciencia** | [Sketchfab](https://sketchfab.com/3d-models/dr-stone-senku-3d-model-environment-props-8dc007444003431f80e8ae69b7a0833d) |
 | Senku Ishigami DR Stone | fossyl | Senku | [Sketchfab](https://sketchfab.com/3d-models/senku-ishigami-dr-stone-c1979af69a68490482a99d0a43fcf286) |
-| Senku DR Stone 3d model | Leo Nyanko | Senku (Blender 2.8, 22,7 k triángulos) | [Sketchfab](https://sketchfab.com/3d-models/senku-dr-stone-3d-model-e7436cf85cbd483fa08e9922b69ce5f5) |
+| Senku DR Stone 3d model | Leo Nyanko (leonardo.sensei2) | Senku (Blender 2.8, 22,7 k triángulos): **el mejor para usar de base en Blender** | [Sketchfab](https://sketchfab.com/3d-models/senku-dr-stone-3d-model-e7436cf85cbd483fa08e9922b69ce5f5) |
 | SENKU Dr Stone | HaroldXd | Senku | [Sketchfab](https://sketchfab.com/3d-models/senku-dr-stone-db3599b14a5f4aa2939b8de61e522035) |
+| SUIKA MASK DR STONE (2.ª pasada) | Axel.Slaughter | **El casco de sandía de Suika**, CC BY ✅ | [Sketchfab](https://sketchfab.com/3d-models/suika-mask-dr-stone-dd63b40689b146da9858e2f1af04454e) |
 | Todos los de la etiqueta | — | — | [#senku](https://sketchfab.com/tags/senku) · [#drstone](https://sketchfab.com/tags/drstone) |
 
 ### 4.2 Modelos 3D de objetos para el banco de trabajo
 
-Genéricos, gratis en Sketchfab (licencia ⚠️, léela en cada página):
+Genéricos, gratis en Sketchfab. **2.ª pasada**: el vidrio de laboratorio
+(maxdragon), la radio de los años 40 (ponchoguy) y el tubo de vacío son
+**CC BY** ✅ por la API. El megáfono de Console Art Cybernetic es **«Free
+Standard»**: no es Creative Commons, se usa pero no se redistribuye el
+archivo ⚠️. Los demás de la tabla no se comprobaron uno a uno ⚠️.
 
 | Para qué | Modelo | Enlace |
 |---|---|---|
@@ -322,11 +437,13 @@ Genéricos, gratis en Sketchfab (licencia ⚠️, léela en cada página):
 | Radio y micro antiguos | Old Radio and Microphone (Jekichani) | [Sketchfab](https://sketchfab.com/3d-models/old-radio-and-microphone-bd21f2ff43ff45e0aa94b96021d65b7c) |
 | **Material de laboratorio** (matraces, vasos) | Chemistry Glassware (maxdragonn) · Chemical Flask (BrimstoneAz) · Conical Flask (Naked Singularity) | [1](https://sketchfab.com/3d-models/chemistry-glassware-b8594f7dc7e8442dbaaae7a11da4a962) · [2](https://sketchfab.com/3d-models/chemical-flask-3f762f5dc19844fba49494f69f3b82c8) · [3](https://sketchfab.com/3d-models/free-conical-flask-laboratory-low-poly-f2991abcaaa44616ad5f72d29a3d47b3) |
 
-**Mejor hacerlo a mano en Blender** ⚠️ (propuesta): el megáfono de Senku es
-un cono de plástico marrón oscuro sin pulir (la fenolita, la primera
-plástica, sale marrón); los cristales de Rochelle son prismas
-transparentes; los tubos de vacío son de vidrio soplado a mano, con
-burbujas e irregulares. Un modelo comercial queda demasiado limpio.
+**Mejor hacerlo a mano en Blender** (propuesta, la comparten la 1.ª y la
+2.ª pasada): el megáfono de Senku es un cono de plástico fenólico marrón,
+mate, sin pulir, con vetas de moldeo; los cristales de Rochelle son prismas
+transparentes irregulares (en el anime, piedritas en un vaso: §2.5); los
+tubos de vacío son de vidrio soplado a mano, con burbujas. Un megáfono
+comercial metálico y brillante queda demasiado limpio. La **bocina de
+cobre** de la torre (§2.5, fotograma 7) sí es metálica.
 
 ### 4.3 Fan art 2D (mirar, nunca pegar)
 
@@ -337,8 +454,28 @@ burbujas e irregulares. Un modelo comercial queda demasiado limpio.
   Enciclopedia: [千空](https://dic.pixiv.net/a/%E5%8D%83%E7%A9%BA),
   [クロム](https://dic.pixiv.net/a/%E3%82%AF%E3%83%AD%E3%83%A0(dr.stone)),
   [カセキ](https://dic.pixiv.net/a/%E3%82%AB%E3%82%BB%E3%82%AD(Dr.STONE)).
-- **DeviantArt**: [Senku Ishigami, de Jiance](https://www.deviantart.com/jiance/art/Senku-Ishigami-Dr-Stone-812555318).
-- **ArtStation**: [hoja para colorear de Senku, de Kelvin Ellis](https://www.artstation.com/artwork/aoPzx9) (útil para ver su contorno).
+- **DeviantArt**: [Senku Ishigami, de Jiance](https://www.deviantart.com/jiance/art/Senku-Ishigami-Dr-Stone-812555318)
+  y [Kohaku Wallpaper, de dinocozero](https://www.deviantart.com/dinocozero/art/Kohaku-Wallpaper-812210990)
+  (las dos responden, 2.ª pasada ✅). Licencia por defecto: todos los
+  derechos reservados; sólo para mirar.
+- **ArtStation**: [hoja para colorear de Senku, de Kelvin Ellis](https://www.artstation.com/artwork/aoPzx9) (útil para ver su contorno). Da 403 a los robots ⚠️.
+
+### 4.4 Cosplay (2.ª pasada: materiales reales)
+
+[Foto de un cosplay de Senku](https://live.staticflickr.com/65535/51772988428_88df4b0f8b_b.jpg)
+(767×1024, Openverse, **CC BY-NC-SA 2.0**, esby.photo, Roseraie de la
+Beaujoire, Nantes), mirada ✅:
+
+- Túnica **crema-hueso, no blanca**, con «E=mc²» pintado en el pecho y el
+  cuello levantado.
+- **Vendas de tela** en los antebrazos y una bolsa de tela atada al
+  cinturón.
+- **Botas de dos piezas**: bota alta blanca cosida en zigzag, con refuerzo
+  de cuero marrón en la puntera y el borde.
+- Peluca con el degradado exacto: **raíz crema, puntas verde menta**, y un
+  mechón que cae sobre la cara.
+
+Confirma a ojo el color medido de la túnica, `#F5EBD6` (§16).
 
 ---
 
@@ -348,17 +485,37 @@ burbujas e irregulares. Un modelo comercial queda demasiado limpio.
 
 | Sitio | Cuándo sale | Luz | Estado |
 |---|---|---|---|
-| **El laboratorio** (ラボ) de la aldea Ishigami | Lo consiguen en 1×11, 00:16:49: «¡Por fin tenemos laboratorio!». Mecha Senku enseña el mapa del Reino de la Ciencia a las 00:17:21 | Interior de madera y paja, fuego de horno, luz cálida | ✅ existe; luz ⚠️ |
+| **El laboratorio** (ラボ) de la aldea Ishigami | Lo consiguen en 1×11, 00:16:49: «¡Por fin tenemos laboratorio!». Mecha Senku enseña el mapa del Reino de la Ciencia a las 00:17:21 | Interior de madera y paja, fuego de horno, luz cálida. **Visto** (2.ª pasada, [1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013)): cortinas blancas de puerta, **muros de piedra apilada**, estantes con tinajas, mesa con vidrio verde; luz difusa y neutra en la entrada | ✅ visto; paleta medida en §5.2 |
 | **El almacén y la aldea en invierno** | 1×23: hace frío, Senku pone **estufas de cobre** en las casas (00:17:11 «¡qué calentito está dentro!») mientras queman carbón | Nieve fuera, brasas dentro | ✅ lo dicho |
 | **El taller de Kaseki** | 1×11 (vidrio), 1×23 (tubos de vacío), 3×03 (cámaras) | Horno, chispas | ⚠️ |
 | **Los Grandes Almacenes Senku** | Especial *Ryusui*, 00:33:38 a 00:35:56: puesto de ropa y **desfile** | Día, aire libre | ✅ existe; aspecto ⚠️ |
 | **El barco Perseus** (sala de radio y sonar) | *New World*, 3×04 (radar y sonar) | Madera de barco, noche en el mar | ⚠️ |
 | **La tumba de Byakuya** (la «lápida» que es una cápsula del tiempo) | 1×24, 00:06:34 a 00:08:22 | Exterior, día | ✅ lo dicho |
 
-### 5.2 Paleta ⚠️ (de memoria; muestrear en un fotograma)
+### 5.2 Paleta medida (2.ª pasada)
 
-No pude bajar ninguna imagen para medir colores. Estos hex son **una
-propuesta** para arrancar:
+**Medida con `herramientas/estilo.py`** sobre fotogramas reales (enlace y
+segundo en cada fila). Sustituye a la propuesta de memoria de la 1.ª
+pasada, que queda debajo sólo para lo que no se midió.
+
+| Sitio | Hex medidos | Luz | Fotograma |
+|---|---|---|---|
+| **Laboratorio** (entrada, piedra y madera) | `#B0B1A2` `#848276` `#9B9988` `#EAE2D3` `#6E695E` `#4B4E47` `#CCCCC1` `#2A2B29`; línea `#5C5548` | Interior, luz difusa, tonos neutros | [1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013) |
+| **Bosque petrificado** | `#39313C` `#F4FBFE` `#636C7E` `#BFDDF9` `#9BBCEB` `#7295D0` | Azul violeta frío, contraluz | [OP1, 0:24](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=24) |
+| **Campo de girasoles** (recuerdo) | `#F2DC3C` `#C4F0F9` `#D0A822` `#5DA2EA` `#365A3F` `#807D22` | Sol de mediodía, rayos marcados | [OP1, 1:12](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=72) |
+| **Torre-vigía de la bocina** | `#393934` `#595D5B` `#A3CAEB` `#878B8C` `#D0E8F2` `#73A3E5` | Día claro, bosque y cielo | [1×24, 2:17](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137) |
+| **Interior en invierno** (pieles, abrigos) | `#D1B9A5` `#998773` `#5E5548` `#D8D3C5` `#A8A28F` | Cálido, sombra mixta | [1×23, 21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264) |
+| **Ending nocturno** (luna, estrellas) | `#3E559A` `#352C96` `#28346F` `#E0E0D5` `#7E8DBE` | Noche, **acuarela** | [1×24, 22:40](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=1360) |
+| **Cuartel de Ryusui** (arenisca, arcos) | `#E7DECF` `#847363` `#634D3F` `#A0988A` `#BEBEB8` | Día mediterráneo | [Tráiler *Ryusui*, 0:09](https://www.dailymotion.com/video/x8bnxd8?t=9) |
+| **El barco** (velas) | `#2B3E63` `#D9DAD0` `#6E6D6A` `#9D9E98` `#3779BA` | Cielo azul despejado | [Tráiler *Ryusui*, 0:12](https://www.dailymotion.com/video/x8bnxd8?t=12) |
+| **Cueva de roca** (Senku con la túnica) | `#71655E` piedra media · `#BEB8A6` piedra iluminada | Día difuso desde arriba, sin sombras duras | [`Senku's fearlessness.png`](https://static.wikia.nocookie.net/dr-stone/images/1/12/Senku%27s_fearlessness.png), 1920×1080 |
+
+Lo que se lee de los números: el laboratorio es **gris piedra y neutro**,
+no marrón cálido; el calor lo pone el fuego, no la madera. El exterior de
+la aldea nevada (donde se hace el micro) no tiene paleta propia medida ⚠️.
+
+**Propuesta de la 1.ª pasada** (de memoria ⚠️; sólo para lo que no se
+midió arriba. El pelo y los ojos de Senku están **corregidos** en §16):
 
 | Uso | Hex aprox. | De dónde |
 |---|---|---|
@@ -366,25 +523,29 @@ propuesta** para arrancar:
 | Paja y cuerda | `#C9A86A` | tejados, cuerdas |
 | Piedra del mundo de piedra | `#A8A59B` | estatuas, grietas |
 | Verde bosque | `#4E7A3A` | fondo exterior |
-| Verde del pelo de Senku (puntas) | `#7DBF4A` | pelo |
-| Rojo de los ojos de Senku | `#C8322D` | ojos |
+| ~~Verde del pelo de Senku~~ | ~~`#7DBF4A`~~ → medido `#5D906A` / `#2E5538` | pelo (§16) |
+| ~~Rojo de los ojos~~ | ~~`#C8322D`~~ → medido `#59050F` | ojos (§16) |
 | Brasa del horno | `#F2A541` | luz cálida |
 | Cobre del hilo y la estufa | `#B87333` | cables, bobinas |
 | Vidrio soplado | `#BFD8D2` con 40 % de opacidad | tubos y matraces |
 | Noche de invierno | `#1E2A44` | fuera, por la ventana |
 
-### 5.3 Texturas reales (CC0, Poly Haven)
+### 5.3 Texturas reales (CC0, Poly Haven y ambientCG)
 
-Los enlaces salieron en la búsqueda; la web no se abre desde aquí ⚠️.
+**2.ª pasada**: las tres de Poly Haven responden (HTTP 200) y son CC0 por
+norma del sitio ✅. Las de ambientCG, comprobadas por su API ✅.
 
 | Para qué | Textura | Licencia |
 |---|---|---|
 | Banco de trabajo | [Rough Wood](https://polyhaven.com/a/rough_wood) (madera agrietada y gastada, 8K) | CC0 |
 | Suelo y paredes del laboratorio | [Wood Planks](https://polyhaven.com/a/wood_planks) · [Worn Planks](https://polyhaven.com/a/worn_planks) | CC0 |
 | Postes con corteza | [Poly Haven, cortezas](https://polyhaven.com/textures/wood/bark/natural) | CC0 |
+| **Piedra** de las estatuas y muros del laboratorio (2.ª pasada) | [Rock Cliff](https://polyhaven.com/a/rock_cliff_large_02) (roca agrietada, 8K) | CC0 ✅ |
+| **Cuerda** de la aldea (cinturones, collares, recintos) | [Rope001](https://ambientcg.com/view?id=Rope001) · [Rope002](https://ambientcg.com/view?id=Rope002) | CC0 ✅ |
+| **Papel** (grano de página impresa) | [Paper001](https://ambientcg.com/view?id=Paper001) (y 003, 005, 006) | CC0 ✅ |
 
-Para la **tela de cáñamo** de la ropa y la **piedra** de las estatuas no
-busqué textura concreta ⚠️.
+La **tela de cáñamo** de la ropa sigue sin textura concreta ⚠️ (se buscó
+«linen» en ambientCG; no quedó ninguna elegida).
 
 ---
 
@@ -404,7 +565,23 @@ busqué textura concreta ⚠️.
 - **Los títulos de los episodios** están casi todos **en inglés y en
   mayúsculas**: «STONE WORLD», «CLEAR WORLD», «STONE WARS», «HOT LINE»,
   «SCIENCE IS ELEGANT», «WHOLE NEW WORLD» ✅ (los nombres de los archivos
-  de Netflix). El diseño del rótulo en pantalla ⚠️.
+  de Netflix). **El rótulo en pantalla, visto y medido** (2.ª pasada) en
+  el [cartel del episodio 1](https://static.wikia.nocookie.net/dr-stone/images/b/b8/Episode_1_Title.png/revision/latest?cb=20190705175621)
+  (1920×1080, con `estilo.py`) ✅:
+  - El logo **«Dr.STONE»** y «ドクターストーン» van en **piedra fundida
+    naranja y roja**: `#F29C0F` y `#E74010`, con **grietas** gris casi
+    negro `#272523` que parten cada letra como una placa de roca, sobre
+    **fondo negro puro**.
+  - El número y el título («01.STONE WORLD») usan **la misma letra en
+    piedra gris**: `#A49284` y `#C6C2BE`, sin naranja. Logo naranja,
+    título gris: la 1.ª pasada no lo distinguía.
+  - Dos **líneas horizontales con brillo naranja**, como un destello de
+    lava, a los lados del subtítulo japonés.
+- **Otra pista para el logo** (2.ª pasada): en un hilo de
+  [befonts](https://befonts.com/forum/time-to-lose-our-ship) dos personas
+  proponen **Norwester** (sans gruesa) ⚠️ (comunidad, no oficial; gratis
+  para uso personal, **comprobar la licencia comercial**; sus tildes no se
+  comprobaron con fontTools ⚠️).
 - **Letras del manga**: la imprenta estándar de Jump en los globos; las
   explicaciones científicas llevan **diagramas dibujados por Boichi** ✅
   ([análisis](https://smart.columbus.gov/columbus-news/unveiling-the-genius-boichis-dr-stone-panels-explained-1764798310)).
@@ -434,6 +611,27 @@ miré con fontTools si trae **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü $**. 
 Mi elección ⚠️: **Rubik Dirt** para el nombre del canal, **Kalam** para
 todo lo que «escribe» Senku, **Oswald** para las cifras y **Yusei Magic**
 si va algún kanji.
+
+**2.ª pasada**: las 13 siguen en Google Fonts con licencia OFL ✅
+(comprobado en [fonts.google.com](https://fonts.google.com/) el
+24-sep-2026). No hizo falta repetir el análisis de glifos.
+
+### 6.3 Una letra para cada uso (2.ª pasada)
+
+Todas de la tabla de arriba: todas traen á é í ó ú ñ ¿ ¡ (fontTools).
+
+| Uso | Qué hace la serie | Letra libre | Cómo |
+|---|---|---|---|
+| **Logo o título** | Rotulado de piedra agrietada, naranja lava | **Rubik Dirt** o **Anton** | Relleno `#F29C0F`→`#E74010`, grietas `#272523`, bisel alto, fondo oscuro |
+| **Subtítulo del título** | Misma letra en piedra gris | **Anton** | `#A49284`/`#C6C2BE`, sin naranja |
+| **Globo normal** | Imprenta estándar de Jump | **Patrick Hand** | Negro, mayúsculas y minúsculas |
+| **Grito** | Letras grandes y torcidas | **Bangers** | Contorno grueso, algo inclinado |
+| **Pensamiento o nota a mano** | Senku escribe fórmulas y la hoja de ruta | **Kalam** Bold (o Caveat) | Tinta oscura sobre papel o madera |
+| **Onomatopeya** | Kana dibujados por Boichi | **Dela Gothic One** (japonés) o Bangers | Con rayas de velocidad detrás (§18.2) |
+| **Cartel del mundo** | Tiza, carbón, madera tallada | **Cabin Sketch** | Sobre tabla de madera |
+| **Interfaz de juego** | *Battle Craft*: texto **blanco con borde oscuro** (§7.4) | **Oswald** o **Bungee** ⚠️ (la letra del juego no está identificada) | Blanco + trazo oscuro |
+| **Precios y cifras** | «100 dragos», «10.000 millones de puntos» | **Oswald** | Estrecha, se lee a tamaño pequeño |
+| **Subtítulos o créditos** | Los títulos de episodio en inglés y mayúsculas | **Oswald** ⚠️ (propuesta; no se identificó la letra de los créditos) | Mayúsculas, espaciado amplio |
 
 ---
 
