@@ -996,8 +996,8 @@ y fondos; la lámina final sale de referencias reales** (ENCARGO.md: nada de
 | Quién | Siempre | Nunca |
 |---|---|---|
 | **Tanjiro** | pelo rojo oscuro; **marca de llamas en la frente, lado izquierdo**; **pendientes hanafuda**; haori a cuadros **verde #48704B y negro**; espada **negra** | espada de otro color; haori liso |
-| **Rengoku** | pelo **amarillo con mechones rojos como llamas**; ojos intensos; haori blanco con **llamas en degradado** #4D0E10 → #CC4322 → #F2C483 | marca en la cara; fuego amarillo limón (eso es Zenitsu) |
-| **Muichiro** | pelo largo **negro con puntas turquesa**; haori **negro a turquesa** #374349 / #A3C4BF; **mirada vacía**; marca de **nubes** en mejillas y frente (sólo si ya despertó) | cara decidida por defecto; niebla gris |
+| **Rengoku** | pelo **amarillo con mechones rojos como llamas**; ojos intensos; haori blanco con **llamas en degradado** en el borde (visto en A2) #4D0E10 → #CC4322 → #F2C483 | marca en la cara; fuego amarillo limón (eso es Zenitsu) |
+| **Muichiro** | pelo largo **negro con puntas turquesa** (visto en A7 y F6); haori **negro a turquesa** #374349 / #A3C4BF; **mirada vacía**; marca de **nubes** en mejillas y frente (sólo si ya despertó) | cara decidida por defecto; niebla gris |
 | **Shinobu** | ojos **violeta**, sonrisa de ojos entrecerrados; **horquilla de mariposa**; haori con **alas de mariposa** violeta y borde turquesa; espada fina para estocar | marca; gritar; tajo ancho (ella **pincha**) |
 
 **2. Paleta**: fondo del sitio (§4) + **un solo color de aura** (tabla
