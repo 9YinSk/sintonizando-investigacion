@@ -57,7 +57,9 @@ paleta excluye el fondo transparente/negro cuando domina la imagen.
 ### Punto 16 — Ciudades, paisajes y fondos de pantalla
 
 - **Sitio recurrente: la Casa Maldita (Cursed House)**, escenario del arco inicial (Turbo Granny). Imágenes oficiales del anime en la wiki: fachada de noche, iluminada con luz cálida de linterna, aspecto de casa tradicional japonesa abandonada (1920×1080) y el interior (pasillo con Momo/Okarun, luz fría azulada de linterna de celular, 1920×1080). Fuente: https://static.wikia.nocookie.net/dandadan/images/4/47/Cursed_House_Facade_1.png y https://static.wikia.nocookie.net/dandadan/images/a/a0/Cursed_House_interior_2.png · ✅ (la wiki cataloga 5 fachadas + 3 interiores + el «Secret Room»; sólo miré 2 a fondo).
-- Otros sitios catalogados por nombre en la wiki (categoría «Locations», no mirados imagen por imagen: eso corresponde a vídeo/punto 4 con fotogramas): Byakuja Village, Izumo Taisha (santuario real usado como referencia), Danmara (dimensión), Futakori Barbershop, Abandoned Warehouse. ⚠️ (nombres confirmados por categoría de la wiki; no medí luz/paleta — es tarea del investigador de vídeo).
+- **Instituto Kami High** (donde estudian Momo, Okarun y Aira): fachada moderna de varios pisos, muro de ladrillo perimetral, reja verde-azulada, cielo despejado de día. 1920×1080 · https://static.wikia.nocookie.net/dandadan/images/7/72/High_School_%28Anime%29.png · ✅ (fotograma del anime, mirado con Read).
+- **Daija Town** (el pueblo de Byakuja Village, arco de la Casa Maldita): calle con una gran escalinata de piedra, mezcla de casas tradicionales y edificios modernos, montañas verdes al fondo, luz de día despejada. 1920×1080 · https://static.wikia.nocookie.net/dandadan/images/f/fb/Daija_Town_%28Anime%29.png · ✅ (fotograma del anime, mirado con Read).
+- Otros sitios catalogados por nombre en la wiki (categoría «Locations», sólo el nombre, no revisé su imagen a fondo: eso es más profundo con fotogramas, tarea del investigador de vídeo): Izumo Taisha (santuario real usado como referencia), Danmara (dimensión), Futakori Barbershop, Abandoned Warehouse. ⚠️ (nombres confirmados por categoría de la wiki, sin mirar imagen).
 - **Fondos de pantalla, oficiales y de fans, en alta resolución** (de `datos-imagen.md`, Wallhaven, todos con link+tamaño+autor+origen, ✅ por venir del post original): 1920×1080 hasta 8192×4096; destacan uno de interior nocturno con Momo (8192×4096, autor SagXD, origen pixiv.net/artworks/133070020) y uno de calle/torre eléctrica nocturna (1920×1080, «Moon, electric tower, night», subido por MrPato, fondo de sitio antes que de personaje).
 - Los **key visuals oficiales verticales** (984×1570, fondo transparente) del sitio japonés sirven también como fondo de pantalla para celular si se les pone un fondo de color sólido o degradado: no incluyen sitio de por sí (son sólo el personaje), así que no sustituyen un fondo de paisaje real.
 - ⚠️ No encontré una sección de «wallpapers» oficiales descargables en `anime-dandadan.com` ni en Crunchyroll (revisé el HTML del sitio japonés: no hay enlace de descarga de fondos, sólo noticias, personajes, cómics, música y campaña).
@@ -93,7 +95,7 @@ paleta excluye el fondo transparente/negro cuando domina la imagen.
   - Turbo Granny: peluche (1500×2000), Noodle Stopper (2550×2550), Squeeze Keyring, Daruma Lucky Cat, PLAMAX (kit de modelismo) — línea completa en https://www.goodsmileus.com/collections/dandadan · ✅
   - Figma Okarun (transformado): existe, confirmado por listado de Walmart; ⚠️ una sola fuente (tienda), no verifiqué en la ficha oficial de Good Smile/Max Factory.
 - **Cosplay bien hecho** (con materiales reales, para volumen, nunca para pegar): guía de Momo Ayase con lista concreta de piezas (peluca con flequillo cruzado, pendientes tipo «alien», lazo rojo, gargantilla negra, camisa blanca, suéter rosa, falda azul marino plisada, calcetas holgadas blancas, zapatos escolares marrones) en Carbon Costume — https://carboncostume.com/momo-ayase-from-dandadan/ · ✅ (coincide con el vestuario medido en punto 15). Tutoriales en video de la construcción de la peluca y el traje de Okarun con foam/gomaespuma también documentados (YouTube/TikTok, sin verificar vistas ni canal exacto) · ⚠️.
-- ⚠️ No until ahora encontré un café temático oficial ni un crossover con Fortnite (busqué «Dandadan Fortnite» y sólo hay conceptos de fans en TikTok/Facebook, ninguna colaboración oficial anunciada por Epic Games a la fecha).
+- ⚠️ No encontré, hasta ahora, un café temático oficial ni un crossover con Fortnite (busqué «Dandadan Fortnite» y sólo hay conceptos de fans en TikTok/Facebook, ninguna colaboración oficial anunciada por Epic Games a la fecha).
 
 ## Lo mejor para la lámina
 
@@ -110,6 +112,8 @@ paleta excluye el fondo transparente/negro cuando domina la imagen.
 - ⚠️ Un crossover oficial con Fortnite u otro juego occidental (sólo son ideas de fans en TikTok).
 - ⚠️ Café temático oficial de Dandadan (no lo encontré en español, inglés ni japonés con las búsquedas hechas; puede que no exista aún o que sea muy reciente).
 - ⚠️ Imagen aislada del emblema bordado de Kami High (sólo descrito en texto, no como archivo propio en la wiki).
+- ⚠️ Más sitios de la wiki con imagen propia revisada (sólo miré 4: Casa Maldita ×2, Kami High, Daija Town; el resto de la categoría «Locations» — Izumo Taisha, Danmara, Futakori Barbershop, Abandoned Warehouse — quedó sólo con el nombre confirmado, sin abrir su imagen). Extra si se necesita más variedad de paisajes para la lámina.
+- ⚠️ Confirmación del Ichiban Kuji de Bandai Spirits en su página oficial (sólo lo vi en una reventa de eBay). Extra, no cambia el hallazgo de la colaboración.
 
 ## Cumplimiento del encargo
 
@@ -118,7 +122,7 @@ paleta excluye el fondo transparente/negro cuando domina la imagen.
 | 1. Arte oficial variado | ✅ | Key visuals oficiales (6 personajes + forma yokai), portada/banner AniList, 3 portadas de Blu-ray, 2 portadas de manga (JP+EN), modelo de color oficial, arte de 3 videojuegos crossover ya en la wiki, retratos de 4 secundarios. Todo medido y mirado. |
 | 3. Fan art y 3D con licencia | ✅ | Fan art con autor/origen (Safebooru) para los 4 personajes de partida + Okarun corregido; 8 modelos 3D reales de Sketchfab con licencia CC Attribution (corrigiendo una búsqueda automática que traía objetos sin relación). |
 | 15. Vestuario con hex medidos | ✅ | Los 4 personajes de partida, paleta medida con `estilo.py` sobre arte oficial (no fan art), con accesorios, peinado y outfit «icónico» señalado. |
-| 16. Fondos de pantalla y sitios | ⚠️ | Wallpapers oficiales/fans con link+tamaño+autor: sí (Wallhaven). Sitios con nombre e imagen: sólo profundicé en la Casa Maldita (2 imágenes miradas); el resto de locaciones sólo están listadas por nombre, sin imagen propia revisada — sería tarea adicional si se necesita más variedad de sitios. |
+| 16. Fondos de pantalla y sitios | ✅ | Wallpapers oficiales/fans con link+tamaño+autor: sí (Wallhaven, 15). Sitios con imagen mirada: Casa Maldita (fachada+interior), instituto Kami High (fachada) y Daija Town (el pueblo del arco inicial) — 4 imágenes de sitio en total. El resto de locaciones de la wiki quedan sólo listadas por nombre (serían un extra, no obligatorio). |
 | 19. Texturas 2D | ✅ | Trama de manga señalada en las hojas ya montadas, 3 recursos libres de screentone con licencia comprobada, 2 emblemas/logos propios con imagen y medida. |
 | 23. Colaboraciones y cruces | ✅ | 1 colaboración de videojuego con fecha y fuentes dobles (Honor of Kings), 2 crossovers de videojuego ya documentados por imagen (Jump+, Grand Summoners), colaboración de ropa (Uniqlo, dos lanzamientos), línea completa de figuras oficiales (9 productos, con imagen y medida en varias), guía de cosplay con materiales reales. |
 | Hojas de contacto | ✅ | 3 hojas en `hojas/`: 2 ya hechas por `investigar_serie.py` (87 imágenes de los 4 personajes de partida) + 1 montada a mano con Pillow (28 imágenes: arte oficial, Blu-ray, tomos, 3D, figuras, colaboraciones) para cubrir lo que la automática no traía. |
@@ -135,4 +139,7 @@ paleta excluye el fondo transparente/negro cuando domina la imagen.
 - Medí colores con `herramientas/estilo.py` sobre 8 imágenes oficiales (key visuals + modelo de color + concept art), y medí ancho/alto reales con Pillow en 20+ imágenes que `recolectar.py` había dejado sin medir (retratos de AniList, figuras de Good Smile).
 - No usé YouTube (bloqueado por login en este servidor): no hizo falta para mis puntos, que son de imagen fija.
 
-Sigue: profundizar sitios más allá de la Casa Maldita si se necesita más variedad para la lámina (Byakuja Village, Izumo Taisha, el instituto Kami High por fuera); confirmar en la página oficial de Bandai Spirits el Ichiban Kuji; sería un extra, no obligatorio.
+Los 6 puntos del encargo (1, 3, 15, 16, 19, 23) están completos con lo obligatorio. Quedan como
+extra, no obligatorio (ver «No encontré»): más sitios de la wiki además de los 4 ya mirados
+(Casa Maldita, Kami High, Daija Town), y confirmar el Ichiban Kuji en la página oficial de
+Bandai Spirits.
