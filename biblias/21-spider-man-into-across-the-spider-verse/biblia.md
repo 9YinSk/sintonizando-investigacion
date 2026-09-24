@@ -58,6 +58,79 @@ fecha: 2026-09-24
 
 ---
 
+## Segunda pasada · qué cambió
+
+*24-sep-2026. Equipo de 4 investigadores (imagen, vídeo, voz, texto) y
+redactor. Se editó en su sitio; lo nuevo va marcado «segunda pasada».*
+
+**Corregido (antes → ahora):**
+- **Torre del reloj**: «cielo naranja y morado» → **violeta y azul
+  lavanda**, casi sin naranja; medido en 3 fotogramas (§5.1, §5.3, §17.1).
+- **Tierra-928 de noche**: «azul limpio» → **violeta malva** en la vista
+  aérea del tráiler (1:06); de día sigue el azul (§5.1).
+- **Salto de fe**: «boca abajo con los brazos abiertos» (de memoria) →
+  **piernas juntas, silueta roja plana**; los brazos se abren después
+  (visto, §2, §15).
+- **Gwen en la torre**: «boca abajo junto a Miles» → **de pie contra la
+  pared, cabeza abajo**; Miles, sentado normal; cierra con los dos
+  **sentados de espaldas** (visto, §15).
+- **Hex de trajes**: de memoria o de fans → **medidos**: Gwen `#2D2926`
+  / `#E6145A` / `#00FAFA` (antes `#FF4081`, `#6ACADF`); Miguel `#304080`
+  / `#E80038` (antes `#1B2A5C`, `#FF2B2B`); araña `#BF0001` (antes
+  `#D7262E`) (§5.3, §16).
+- **Doblaje**: «estudio y director, no los encontré» → **New Art Dub**
+  (UNU) y **VSI Mexico City** (ATSV), los dos dirigidos por **Gerardo
+  García**, que además dobla al Peter Parker rubio (§10.0).
+- **Tío Ben**: «es el audio de Raimi» (una fuente) → confirmado con dos
+  (Gizmodo, CBR) y su voz latina de archivo, **Pedro D'Aguillón Jr.**
+- **Frase de Hobie en el concepto C**: «Odio las etiquetas» (traducción
+  mía) → **«Fuchis las etiquetas»**, del audio del doblaje (§19).
+- ***Beyond the Spider-Verse***: «4 o 18 de junio de 2027» → **25 de junio
+  de 2027** (Hollywood Reporter, Variety AU).
+- **Peter B. en la wiki**: la página se llama `Peter Parker (Earth-616)`;
+  por eso no aparecía.
+- **Hoja `colaboraciones_01.jpg`** → sustituida por **`personajes_01.jpg`**
+  (Miles pintando, Gwen y Miles, Hobie a lápiz), más útil para la
+  lámina.
+
+**Añadido:**
+- **Hojas de contacto** (antes, ninguna): 9 miradas, 3 en `hojas/` con su
+  tabla de casillas; arte de producción de 5 artistas (§3.6).
+- **Vídeo mirado de verdad**: 11 clips de Dailymotion y los *storyboards*
+  de Internet Archive, con `&t=` (§2.8, §12.4).
+- **Su cara en cada emoción**: 7 de 25, con fotograma (§8).
+- **Doblaje**: reparto con dos fuentes, **5 frases textuales** del audio
+  latino con su voz medida, y cómo se adaptó (§10.3); letreros
+  **traducidos en UNU y subtitulados en ATSV** (§7.4b).
+- **Juegos**: LEGO Marvel 2, Marvel Snap, Contest of Champions (§13).
+- **Guía para IA**: paleta con hex, encuadre por emoción, **IA de
+  texto** con 14 frases reales por emoción y el vocabulario de
+  expresiones (§18.5-18.8).
+- **Una letra para cada uso** (§6.3) y la letra de Marvel 2099 (§6.1).
+- **Puntos 18 a 25 nuevos**: técnica y cómo replicarla, texturas 2D,
+  gustos, por qué la aman, fan dubs, colaboraciones, obras parecidas y
+  el mundo.
+- **Cumplimiento del encargo** (tabla) y **bitácora** de la segunda
+  pasada.
+- `referencias.json`: **37 → 197** entradas, las mejores primero.
+
+**Los ⚠️: antes 87 → ahora 147.** Se resolvieron **unos 26** de los
+antiguos (voces originales, Kingpin, Pavitr, Rivera, los dos temas de
+hip-hop, los hex de Gwen y Miguel, dos licencias de Sketchfab, la fecha
+de *Beyond*, el salto de fe, la torre del reloj, la edad de Peter B.…).
+Los nuevos no son retrocesos: marcan **datos nuevos con una sola
+fuente** o **huecos declarados** (22 están en la tabla de cumplimiento y 1 en este apartado).
+Los que más pesan:
+- **Punto 13**: Miguel y Hobie **sin ningún fotograma verificado** de su
+  cara; en total, 7 de 25 caras.
+- **Punto 14**: las posturas de Peter B., Miguel, Hobie y Lyla, de
+  memoria.
+- **Punto 15**: los hex de Miles y Hobie, sin medir.
+- Frases latinas de «Anyone can wear the mask», «leap of faith» y «I'm
+  gonna do my own thing»; TV Tropes y YouTube, bloqueados.
+
+---
+
 ## 0 · El canal y lo que tiene que decir
 
 Del inventario (`servidor/inventario.md`, sección **EL TALLER**):
@@ -315,7 +388,7 @@ siendo el del subtítulo ✅.
 
 > [!note] Segunda pasada: ya hay imágenes medidas
 > En la primera pasada no se pudo bajar nada. Ahora hay **9 hojas de
-> contacto** (383 imágenes de la wiki, con tamaño por la API) y **3 en
+> contacto** (376 imágenes grandes de la wiki, con tamaño por la API) y **3 en
 > `hojas/`** (ver §3.6). Guardar las que sirvan en
 > `herramientas/laminas_v2/v3/referencias/spider-verse/`.
 
@@ -2248,6 +2321,52 @@ boca abajo~~ (visto).
 
 ---
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | pósters de personaje, libros de arte (fichas), secuencia de logos (§3); **9 hojas de contacto** (376 imágenes grandes, tamaño por API) y arte de producción de **Kris Anka, Jesús Alonso Iglesias, Evening Monteiro, Jake Panian y Lena Sayaphoum** con tamaño (§3.6). Peter B. ya tiene hoja. Faltan hojas de modelo de Miles y Miguel y hojear el artbook ⚠️ |
+| 2 · Fotogramas de escenas icónicas con minuto | ✅ | 7 escenas con minuto del subtítulo (§2) y **5 miradas en vídeo** con `&t=` (§2.8); fotogramas de la wiki a 3840×1608 en las hojas. Los clips son de 720p; los 4K de la wiki no traen minuto propio. El Guggenheim y el túnel, sin vídeo (404) |
+| 3 · Fan art y 3D con licencia | ✅ | Sketchfab con licencia **CC BY por API** (objetos y 7 modelos más de personajes), texturas CC0, fan art de ArtStation con autor (§4). ScottPritchard sin licencia; **rig libre, no encontrado** ⚠️ |
+| 4 · Sitios, luz, paleta y texturas | ✅ | 10 sitios con minuto; **hex medidos** en torre del reloj, Tierra-928, salto de fe, título y glitch (§5.3); corrige «cielo naranja» → violeta; texturas CC0 (§5.4) |
+| 5 · Tipografía con tildes, ñ, ¿ ¡ | ⚠️ | 19 letras libres comprobadas con fontTools y **una por uso** (§6.3); Marvel 2099 identificada (Zephyr/Eurostile). Sin identificar: la letra del **logo**, la de **subtítulos y créditos** y la de la interfaz de *Marvel Snap*; Michroma sin comprobar |
+| 6 · Cómo hablan en pantalla | ✅ | caja amarilla, regla «ni una caja antes de la picadura», onomatopeyas, viñetas, glitch, desfase (§7.1); **letreros traducidos en UNU y subtitulados en ATSV** (§7.4b). El amarillo exacto de la caja, de memoria ⚠️ |
+| 7 · Personajes y encuestas | ✅ | no hay encuesta oficial (confirmado también en TV Tropes); IMDb, Looper, TikTok oficial, película de Hobie; Miguel **pedido por los fans** (Vanity Fair); representación afrolatina (§9) |
+| 8 · Doblaje latino, dos fuentes | ✅ | **estudio y director** de las dos (New Art Dub / VSI, Gerardo García), reparto con dos fuentes, **5 frases textuales** oídas con `voz.py` y adaptaciones («miércoles», «Sorda Stereo», «Aquí entre latinos») (§10). Una fuente: «Es agüita», «Sayonara»; papeles de peruanos e *influencers* ⚠️ |
+| 9 · Música | ✅ | temas y ambiente; los dos de hip-hop ya con **dos fuentes**; el salto de fe con «What's Up Danger»; discos en MusicBrainz (§11). Qué suena en las escenas que hacen llorar: sin confirmar ⚠️; el popurrí del túnel, una fuente |
+| 10 · Vídeos con minuto | ✅ | **11 clips de Dailymotion** y los *storyboards* de Internet Archive, comprobados hoy y con `&t=` (§12.4); YouTube, sólo enlaces (bloqueado); TikTok sin ver |
+| 11 · Videojuegos: interfaz y cajas | ✅ | no hay juego propio; trajes en Insomniac y Fortnite; **LEGO Marvel 2, Marvel Snap y Contest of Champions** (§13). Ninguno trae caja «de la película», dicho y comprobado; TCRF sin página |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | «evento canónico» (también en español), memes, frases; qué NO hacer, con **Miles «de segunda»** y el doblaje que «parece fandub» (§14) |
+| 13 · Carácter, forma de hablar y cara en cada emoción | ⚠️ | carácter, miedos, ansiedad de Miles, voz medida de los 5 y dinámicas (§8, §10.3). **Cara en cada emoción: sólo 7 de 25** combinaciones con fotograma y minuto verificados (Miles 4, Gwen 2, Peter B. 2). **Miguel y Hobie quedaron sin ningún fotograma verificado**: no hay clips suyos en Dailymotion (18 búsquedas) y YouTube pide iniciar sesión. Hay 3 caras de Gwen en la wiki **sin minuto** |
+| 14 · Poses con minuto | ⚠️ | Miles 12, Gwen 10, Peter B. 8, Miguel 5, Hobie 6, Lyla 3, grupo 3, cada una con su uso (§15). Minuto del subtítulo ✅, pero **sólo 4 posturas vistas en vídeo**; Peter B., Miguel, Hobie y Lyla, de memoria o de arte de producción. Miguel y Lyla no llegan a 6 |
+| 15 · Vestuario con hex | ⚠️ | trajes, accesorios y ropa icónica (§16); **medidos** Gwen (`#2D2926`, `#E6145A`, `#00FAFA`), Miguel (`#304080`, `#E80038`) y la araña (`#BF0001`). **Miles y Hobie sin medir**: todos los fotogramas son de noche o con neón |
+| 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | sitios con luz (§17.1); **13 fondos** con tamaño, **8 medidos por la API de Wallhaven**, uno por mundo (§17.2). Algunos autores de Alpha Coders sin ver ⚠️ |
+| 17 · Guía para IA | ✅ | imagen: rasgos, **paleta con hex medidos**, luz, encuadre por emoción, palabras que ayudan y estropean, referencias con número de hoja (§18.1-18.6); **texto**: reglas de voz por personaje y **14 frases reales por emoción**, 4 del doblaje latino (§18.7); vocabulario de expresiones (§18.8) |
+| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | programas del estudio (Maya, Houdini, Katana, Mari, Nuke y sus 25 herramientas, Toon Boom), en inglés y japonés; receta de nodos de **Blender** y método de **Photoshop** (Punto 18). Rig libre no encontrado; encuadres con una fuente de análisis ⚠️ |
+| 19 · Texturas 2D | ✅ | trama con licencia comercial (RetroSupply), papel y cartón CC0, patrón del traje de Gwen, parches de Hobie, emblemas (Punto 19). Packs de Brusheezy/Pixelbuddha, licencia por comprobar ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | cumpleaños, edad, altura, peso, gustos, odios, objeto y cómo se ve cada uno de los 5 (Punto 20). **No encontré la comida favorita** de Miles, Gwen y Hobie |
+| 21 · Por qué la aman, y las escenas que hacen llorar | ⚠️ | taquilla, 96 % en RT, Óscar y 7 Annie, identificación afrolatina (Punto 21). Escenas que hacen llorar: Gwen y su papá **con minuto**, la del tío Aaron **sin minuto**; su música y encuadre, **sin mirar**; lo de TV Tropes por resumen (403); **reacciones con votos, no encontradas** |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | un fandub con canal, vistas y fecha; meme hispano; Staryuuki (Punto 22). Los TikTok de andiedubs y Nay Metro **sin enlace**; **ningún cover** cantado en español encontrado |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite, LEGO (2 sets), Hot Toys, Funko, Bandai, Disney Store y TOHO (Japón), Burger King Brasil, CoCo Tea, POP MART; cosplay de Gwen y Hobie con materiales (Punto 23). POP MART, CoCo y cosplays con una fuente ⚠️ |
+| 24 · Obras parecidas | ✅ | 10 influencias de cómic, influencias del anime **sólo en japonés**, obras que vinieron después, y la lámina vecina (**Arcane**) y cómo no repetirla (Punto 24) |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, la historia por arcos, *Beyond* el 25-jun-2027, emblemas y vocabulario (Punto 25) |
+| 3 conceptos de lámina | ✅ | pared del túnel, cuarto de Miles, fanzine de Hobie, con objeto en Blender, pose con número de hoja, cuadro, letra y dónde va cada texto (§19). En la segunda pasada: imágenes con número y la frase latina de Hobie |
+| 40 fuentes distintas | ✅ | **137 dominios** enlazados (antes 80) |
+| Fuentes oficiales | ⚠️ | featurette de Sony, arte del equipo con nombre, entrevistas técnicas (Foundry, Toon Boom, CGWORLD), Marvel.com, tiendas oficiales. **Falta**: hojear el artbook y comentarios del Blu-ray |
+| Otros idiomas | ✅ | japonés (CGWORLD, Fan's Voice, Bandai, TOHO, Eiga.com), chino (Beijing News, Zhihu, Douban), coreano (NamuWiki, ExtremeMovie), portugués (Burger King Brasil) |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (5 wikis) y Doblaje Wiki por API ✅; **TV Tropes 403** (se cita por el resumen del buscador); **TCRF** 403 y sin página; **Wayback** sin copia de TV Tropes |
+| Foros y comunidades | ⚠️ | Know Your Meme, The Tab, foro de dafont, Tumblr, títulos de Reddit del recolector; **ningún hilo de Reddit leído a fondo** |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | ArtStation y Tumblr con autor; arte de producción en la wiki. Pixiv y DeviantArt, no usados ⚠️ |
+| Vídeo | ✅ | Dailymotion e Internet Archive mirados; YouTube sólo enlaces; TikTok enlazado sin ver |
+| Código y recursos | ✅ | GitHub (subtítulos, *shaders*, código de barras), Sketchfab API, Poly Haven, ambientCG, Wallhaven API, MusicBrainz, Openverse |
+| Doblaje latino (Doblaje Wiki, ANMTV, entrevistas) | ✅ | Doblaje Wiki por API (fichas, reparto, audio), StarCon MX, SinEmbargo (entrevista a Emilio Treviño), SDPnoticias, El Financiero. Entrevistas en vídeo de YouTube: bloqueadas ⚠️ |
+| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ✅ | no hay opening ni ending (son películas); **2 tráileres** y **5 escenas** mirados con `fotogramas.py` por Dailymotion (plan B de AYUDANTE.md), más 4 clips para las caras. Los logos de apertura, sin ver en vídeo |
+| Frases latinas textuales de clips oficiales | ⚠️ | no hay clips oficiales doblados accesibles (YouTube bloqueado); las **5 frases textuales** salen de las muestras de audio de Doblaje Wiki, con `voz.py`, y su minuto es aproximado |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,6-0,7 MB): `personajes_01` (nueva, en lugar de `colaboraciones_01`), `vestuario_01`, `peterb_01`, miradas y con tabla de casillas (§3.6) |
+| `referencias.json` | ✅ | **197 entradas**, las mejores primero: poses con número de hoja, fotogramas con `&t=`, turnaround y moodboard, audios del doblaje; luego las 37 de antes, las de las partes y las útiles de `datos.json` (sin modelos 3D ajenos a la saga). Las páginas sin imagen propia van sin tamaño |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
@@ -2397,7 +2516,7 @@ boca abajo~~ (visto).
 **Imagen** (inglés y japonés)
 - Fandom: 6 llamadas para resolver la página de Peter B. (redirección a
   `Peter Parker (Earth-616)`); `investigar_serie.py` → 7 hojas + 2 de
-  Peter B. (383 imágenes grandes).
+  Peter B. (376 imágenes grandes).
 - Sketchfab API: 4 llamadas (licencias). Wallhaven API: 3 consultas.
 - `estilo.py` y Pillow: 9 imágenes medidas.
 - Búsquedas: «Fortnite Spider-Verse skin», «LEGO set official 2023»,
