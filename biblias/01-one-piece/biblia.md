@@ -859,27 +859,33 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 ## 15 · Guía para describir el estilo a una IA de imagen
 
 Sólo para probar fondos o poses. **Al personaje final se le recorta del
-arte oficial** (el dueño no quiere que parezca IA).
+arte oficial** (el dueño no quiere que parezca IA). Pixiv marca muchos carteles de fans como hechos con IA (§5): se notan por las letras deformes del cartel. **Las letras siempre a mano, nunca generadas.**
 
-- **Rasgos que nunca cambian de Luffy:** sombrero de paja con cinta roja,
-  pelo negro despeinado, cicatriz bajo el ojo izquierdo, ojos grandes y
-  redondos, sonrisa enorme de dientes; camisa roja abierta, faja
-  amarilla, pantalón azul corto, sandalias.
+- **Rasgos que nunca cambian de Luffy** (P1, P3, P4): sombrero de paja con cinta roja,
+  pelo negro despeinado, **cicatriz bajo el ojo izquierdo**, ojos grandes y
+  redondos, sonrisa enorme de dientes; tras el salto, camisa roja abierta,
+  faja amarilla, pantalón azul corto con borde de pelo blanco, sandalias y cicatriz en X en el pecho.
+- **Zoro** (P13, P14): pelo verde corto, tres espadas, **tres pendientes de oro en la oreja izquierda**, pañuelo negro en el bíceps izquierdo, cicatriz sobre el ojo izquierdo (tras el salto).
+- **Nami** (P8, P9): pelo naranja, tatuaje de molinillo y mandarina en el hombro izquierdo, Log Pose en la muñeca.
+- **Sanji** (P18): pelo rubio que tapa un ojo, ceja en espiral, traje negro, cigarro.
+- **Chopper** (P22, P23): reno pequeño, sombrero rosa con X blanca, nariz azul, astas.
 - **Línea y sombra:** tinta negra que engorda y adelgaza, sombreado de
-  anime en dos tonos, bordes limpios.
-- **Paleta:** la del punto 6. Mar azul saturado `#057FEE`, cielo claro,
-  madera cálida.
-- **Luz:** sol alto de mediodía en el mar, o atardecer naranja.
+  anime en dos tonos (luz y sombra planas), bordes limpios.
+- **Paleta:** la medida en §6. Cielo `#2E84DC`, mar `#51ABE8`, papel de cartel `#DED0BE`,
+  tinta `#35271E`, madera `#85745C`. Para la carta: mar `#B2D8C8`, tierra `#D3D293`.
+- **Luz:** mediodía en el mar con nubes blancas (bienvenida). Atardecer dorado (ending «memories», `#836D2A`) sólo si se quiere nostalgia.
 - **Encuadre:** contrapicado suave, personaje grande en primer plano,
-  barco detrás.
+  barco o muro de madera detrás.
 - **Palabras que ayudan:** «estilo manga de Eiichiro Oda», «anime de
   Toei», «contorno de tinta grueso», «colores saturados», «mar soleado»,
-  «cubierta de barco de madera».
+  «cubierta de barco de madera», «cartel de papel envejecido clavado en tablones»,
+  «carta náutica antigua a la acuarela con rosa de los vientos».
 - **Palabras que lo estropean:** «realista», «render 3D»,
-  «semirrealista», «pastel», «acuarela», «pirata genérico», «dibujo
-  animado occidental».
-- **Referencias de estilo:** 1403 (Luffy y el Sunny), 1365 (Nami),
-  1371 (Zoro). **De pose:** 1022, 2075, 2634.
+  «semirrealista», «pastel», «acuarela» (salvo para la carta), «pirata genérico», «dibujo
+  animado occidental», «Far West» (el cartel no es del Oeste).
+- **Referencias de estilo:** P2, P13, P17, P20 (Color Walk de Oda), P3 (anime tras el salto), F1 (el Sunny).
+  **De pose:** P1 (saludar), P4 (invitar), P5 (celebrar), P9 (explicar con gracia), 1371 (advertir).
+  **De objeto:** O1 y el tráiler de Netflix · 2:43 (muro de carteles), O3-O9 (carteles), opening · 0:48 (carta náutica), O15-O16 (mapa y ruta), O23 (barril).
 
 ---
 

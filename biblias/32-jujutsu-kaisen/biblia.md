@@ -901,7 +901,105 @@ bloqueada por la red del contenedor. ⚠️ No pude mirar contenido descartado.
 
 ## 15 · Poses analizadas por personaje
 
-(pendiente)
+Todas **vistas**: en fotogramas de los vídeos (§12, con minuto de la
+copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
+«Uso» = presentar, explicar, celebrar, regañar, pensar o animar.
+
+### Gojo
+
+| # | Dónde | Postura, manos, mirada | Uso |
+|---|---|---|---|
+| 1 | P1 (#1) | de pie, **mano derecha abierta hacia el espectador**, la otra baja; venda | **presentar** («alto, aquí se hace así») |
+| 2 | T1-7, copia [0:30](https://www.dailymotion.com/video/x7yt0gp?t=30) | **manos juntas** a la altura del pecho, sonrisa ladeada | **explicar** con calma |
+| 3 | T1-7, [1:39](https://www.dailymotion.com/video/x7yt0gp?t=99) | **señala con el índice**, brazo estirado | **explicar** una regla |
+| 4 | T1-7, [2:12](https://www.dailymotion.com/video/x7yt0gp?t=132) | sujeta a Yuji del cuello de la ropa, cara neutra | presentar a otro («él es…») |
+| 5 | T1-7, [3:03](https://www.dailymotion.com/video/x7yt0gp?t=183) | **se tapa la venda con la mano**, cabeza baja | antes de lo importante |
+| 6 | T1-7, [3:39](https://www.dailymotion.com/video/x7yt0gp?t=219) | sin venda, **ojos azules**, sonrisa de lado, mirada al espectador | **el gancho** |
+| 7 | *Cursed Clash*, [0:21](https://www.dailymotion.com/video/x8scngs?t=21) | medio cuerpo, **puntero** en la mano, sonrisa | **explicar** (¡la pizarra!) |
+| 8 | P2 (#18) | **«V» doble**, abraza a Yuji | **celebrar**, saludar |
+| 9 | P3 (#82) | **se levanta las gafas redondas** con las dos manos | «mira esto», animar |
+| 10 | #618 | **brazo por encima del hombro** de Nanami, carcajada; fondo cómico con rayas | presentar a otro en broma |
+
+### Yuji
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | OP1, [1:18](https://www.dailymotion.com/video/x84iff2?t=78) | **carcajada** con los ojos cerrados, sentado en la hierba | **celebrar** |
+| 2 | OP1, [1:12](https://www.dailymotion.com/video/x84iff2?t=72) | **palma abierta** hacia delante, luz naranja | animar, «¡vamos!» |
+| 3 | T1-19, copia [1:42](https://www.dailymotion.com/video/x80pjbn?t=102) | **se sube la capucha** con las dos manos, cejas firmes | prepararse |
+| 4 | T1-19, [2:57](https://www.dailymotion.com/video/x80pjbn?t=177) | **puños arriba**, al lado de Todo | animar |
+| 5 | ED1, [0:10](https://www.dailymotion.com/video/x80jy2b?t=10) | **sale por la puerta**, piernas abiertas, camiseta amarilla | presentar, «¡hola!» |
+| 6 | P27 (#139) | **sentado en una valla**, pierna subida, relajado | charlar |
+| 7 | #707 | mirada de reojo, capucha roja | desconfiar |
+| 8 | P5 (#22) | **manos unidas** frente a la cara, en tensión | pensar |
+
+### Megumi
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | P8 (#71) | **manos en forma de perro**, mirada seria | presentar su técnica |
+| 2 | OP1, [1:06](https://www.dailymotion.com/video/x84iff2?t=66) | el mismo gesto, con sombras | idem |
+| 3 | ED1, [0:28](https://www.dailymotion.com/video/x80jy2b?t=28) | sale por la puerta **con auriculares rojos** y mochila, andar tranquilo | presentar sin ganas |
+| 4 | #785 | **manos entrelazadas** frente a la boca, sonrisa rara | pensar |
+| 5 | #501 | en fila con todos, **manos en los bolsillos** | grupo |
+| 6 | P27 (#139) | de pie junto a Yuji, **mano en el bolsillo**, mira de lado | «no me mires a mí» |
+
+### Nobara
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | P12 (#115, T1-3) | **mano en la cadera**, barbilla alta | **presentar**, **regañar** |
+| 2 | P10 (#87) | **martillo en una mano, clavos entre los dedos** | amenaza cómica |
+| 3 | ED1, [0:40](https://www.dailymotion.com/video/x80jy2b?t=40) | **brazos abiertos con bolsas de compras**, pierna levantada | **celebrar** |
+| 4 | ED1, 0:52 | **bebiendo un batido**, guiño | relajada |
+| 5 | #502 | en ropa de calle, comiendo con los chicos | charla |
+| 6 | P25 (#95) | abrigo de invierno, entre Yuji y Megumi | grupo tranquilo |
+
+### Inumaki
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | #1017 | **cuello subido hasta la nariz**, ojos tranquilos | **presentar** (en silencio) |
+| 2 | P29 (JJK0) | **enseña el espray** para la garganta a la cámara | **cuidar la voz**, explicar |
+| 3 | P30 (manga) | **salta con el megáfono** en alto y hace la **«V»** | **animar**, celebrar |
+| 4 | #974 | **grita con la boca abierta**, se ven los **sellos** en las mejillas | la orden fuerte |
+| 5 | #972 | **se baja el cuello** con un dedo, marca en la mejilla | «voy a hablar» |
+| 6 | #839 | **mano en el hombro** de Megumi, sangre en la boca | proteger, animar |
+| 7 | #973 | (Kasumi) con **el teléfono** en la oreja: Inumaki manda **por teléfono** | la voz a distancia |
+| 8 | P18 (#15) | arte conceptual: **pulgar arriba**, ojos cerrados de gusto | celebrar |
+
+### Nanami
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | P15 (#141) | **mano tapando la boca**, reloj visible | **pensar**, desaprobar |
+| 2 | #923 | de frente, serio, las gafas brillando | **regañar** |
+| 3 | #939 | de lado, **explicando** con la boca abierta | **explicar** |
+| 4 | #948 | **se enrolla la corbata en la mano** | «se acabó el horario» |
+| 5 | #920 | brazo extendido, aura de energía, de pie | animar a la acción |
+| 6 | ED1, [1:18](https://www.dailymotion.com/video/x80jy2b?t=78) | **cenando**, cuchillo y tenedor, copa | descanso |
+| 7 | T2-18, copia [0:18](https://www.dailymotion.com/video/x8upb66?t=18) | sonrisa cansada | despedirse (**spoiler**) |
+
+### Todo
+
+| # | Dónde | Postura | Uso |
+|---|---|---|---|
+| 1 | T1-19, copia [2:48](https://www.dailymotion.com/video/x80pjbn?t=168) | **manos juntas** delante del pecho: «Congratulations, brother» | **celebrar** |
+| 2 | #1085 | **manos abiertas** junto a la cara, sonrisa de loco | presentar con fuerza |
+| 3 | #1095 | **carcajada** enorme | celebrar |
+| 4 | #405 | **brazos cruzados**, camiseta morada, en un cuarto | preguntar («¿qué tipo de chica…?») |
+| 5 | #531 | junto a Yuji, **brazos arriba** | animar |
+
+### Resumen: qué pose para qué
+
+| Uso | Pose recomendada |
+|---|---|
+| **Presentar** | Gojo mano abierta (P1) · Nobara mano en la cadera (P12) · Inumaki con el cuello subido (#1017) |
+| **Explicar** | **Gojo con puntero y pizarra** (*Cursed Clash* 0:21) · Gojo señalando (T1-7 1:39) · Inumaki enseñando el espray (P29) |
+| **Celebrar** | Todo «Congratulations» (T1-19) · Yuji riendo (OP1 1:18) · Nobara con bolsas (ED1 0:40) · Inumaki con megáfono y «V» (P30) |
+| **Regañar** | Nanami de frente (#923) · Nobara con martillo (P10) |
+| **Pensar** | Nanami mano en la boca (P15) · Megumi manos entrelazadas (#785) |
+| **Animar** | Yuji palma abierta (OP1 1:12) · Gojo con las gafas (P3) · Inumaki pulgar arriba (P18) |
 
 ## 16 · Vestuario
 
