@@ -851,3 +851,264 @@ Shinobu, con minuto. Ver biblia 31 §8 para más caras.
 - **Shinobu ↔ Kanao**: hermana mayor que protege en silencio.
 
 ---
+
+## 14 · Poses analizadas por personaje
+
+Todas miradas en los fotogramas, con enlace y minuto del clip ✅.
+
+### Tanjiro (7)
+
+| Minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|
+| [0:20](https://www.dailymotion.com/video/x7ozs2c?t=20) opening | cara decidida, ceño fruncido, ojo rojo | **animar** |
+| [1:16](https://www.dailymotion.com/video/x7ozs2c?t=76) opening | salto en silueta hacia la luna roja, katana en alto | **presentar** |
+| [0:21](https://www.dailymotion.com/video/x89ntsh?t=21) tráiler | postura baja, espada horizontal, mirada fija | **explicar** una técnica |
+| [0:30](https://www.dailymotion.com/video/x89ntsh?t=30) tráiler | giro completo, brazos abiertos, estela de fuego envolviéndolo | **celebrar** |
+| [0:33](https://www.dailymotion.com/video/x89ntsh?t=33) tráiler | grito frontal, arco de fuego en círculo detrás | **regañar**, imponerse |
+| [2:01](https://www.dailymotion.com/video/x8nyhk5?t=121) Rui ⚠️ | furia, Hinokami encendida, remolino rojo detrás | explicar «el despertar» |
+| [0:44](https://www.dailymotion.com/video/x7ozs2c?t=44) opening | Nezuko en brazos, gesto protector, mirada baja | **pensar**, proteger |
+
+Y de las hojas: F3 **mirando hacia arriba, mano alzada tocando un racimo
+de glicina** (*Tanjiro admiring the Wisteria*): la mejor pose para
+**mostrar un paisaje** (concepto A).
+
+### Kyojuro Rengoku (6, clip 4K)
+
+| Minuto | Postura | Sirve para |
+|---|---|---|
+| [0:00](https://www.dailymotion.com/video/x9j447k?t=0) | primer plano, pelo alborotado, mirada intensa | **presentar** |
+| [0:36](https://www.dailymotion.com/video/x9j447k?t=36) | agachado, katana lista, estela de fuego | **explicar**, atacar |
+| [1:12](https://www.dailymotion.com/video/x9j447k?t=72) | remolino de fuego que lo tapa entero | **celebrar**, clímax |
+| [2:00](https://www.dailymotion.com/video/x9j447k?t=120) | de espaldas, haori con bordes de llama, quieto | **pensar**, pausa |
+| [3:12](https://www.dailymotion.com/video/x9j447k?t=192) | herido, lágrima, mirada al cielo | escena de **llanto** |
+| [3:24](https://www.dailymotion.com/video/x9j447k?t=204) | sangre en la boca, sonrisa leve | **despedida**, legado |
+
+### Muichiro Tokito (6)
+
+| Minuto | Postura | Sirve para |
+|---|---|---|
+| [0:10](https://www.dailymotion.com/video/x9iosps?t=10) | cara neutra, mirada perdida, pelo flotando en la niebla | **pensar** |
+| [0:12](https://www.dailymotion.com/video/x9iosps?t=12) | espada en diagonal entera, estela blanca fina | **explicar** |
+| [0:20](https://www.dailymotion.com/video/x9iosps?t=20) | remolino ancho de niebla cian, cuerpo casi oculto | **celebrar** |
+| [0:24](https://www.dailymotion.com/video/x9iosps?t=24) | envainando de espaldas, la niebla se va | **cerrar**, calmar |
+| [0:28](https://www.dailymotion.com/video/x9iosps?t=28) | cartela con su nombre sobre azul oscuro | **presentar** |
+| 0:16 tráiler *Castillo Infinito* | mirando al frente, sin expresión, con la frase «The words "the final phase" keep crossing my mind» | **pensar**, con su frase real |
+
+### Shinobu Kocho (6, tráiler del juego)
+
+| Minuto | Postura | Sirve para |
+|---|---|---|
+| [0:15](https://www.dailymotion.com/video/x816qkg?t=15) | sonrisa, ojos violeta entrecerrados, mariposa detrás | **presentar**, saludar |
+| [0:18](https://www.dailymotion.com/video/x816qkg?t=18) | de perfil, esgrima baja, espada atrás para la estocada | **explicar** |
+| [0:24](https://www.dailymotion.com/video/x816qkg?t=24) | estocada con estela blanca recta | **regañar**, atacar |
+| [0:30](https://www.dailymotion.com/video/x816qkg?t=30) | salto, el haori se abre **como alas de mariposa**, destello morado | **celebrar** |
+| [0:39](https://www.dailymotion.com/video/x816qkg?t=39) | perfil, mirada de reojo, mariposa en la mano | **pensar** |
+| [0:45](https://www.dailymotion.com/video/x816qkg?t=45) | silueta agachada entre árboles nevados | acechar, preparar |
+
+### Qué pose para qué (resumen)
+
+| Para | Tanjiro | Rengoku | Muichiro | Shinobu |
+|---|---|---|---|---|
+| presentar | 1:16 opening | 0:00 | 0:28 | 0:15 |
+| explicar | 0:21 | 0:36 | 0:12 | 0:18 |
+| celebrar | 0:30 | 1:12 | 0:20 | 0:30 |
+| regañar | 0:33 | — | — | 0:24 |
+| pensar | 0:44 opening | 2:00 | 0:10 / 0:16 | 0:39 |
+| animar | 0:20 opening | frase «Enciende tu corazón» (§8) | — | — |
+
+## 15 · Vestuario, con hex medidos
+
+Medido con `estilo.py` sobre arte oficial de la wiki ✅, salvo lo marcado.
+
+| Quién | Prenda icónica | Hex medidos | Fuente |
+|---|---|---|---|
+| **Tanjiro** | haori a cuadros verde y negro (patrón *ichimatsu* 市松, tablero de ajedrez, tela japonesa antigua) | verde **#48704B** (73 % del encuadre) | *Tanjiro Kamado Full Body (Anime)*, 799×1142 + texto de la wiki ✅ |
+| **Muichiro** | haori que va de negro a turquesa | **#374349** gris pizarra · **#A3C4BF** turquesa pálido (borde) | *Muichiro Tokito Full Body (Anime)*, 1281×1830 ✅ |
+| **Kyojuro Rengoku** | haori con **degradado de fuego**; uniforme teñido marrón oscuro en el anime; pelo amarillo con mechones rojos «como llamas» | base **#4D0E10**, #230207 → **#CC4322**, #ED8346 → **#F2C483** | *Story Illustration*, 773×1074 + [Appearance](https://kimetsu-no-yaiba.fandom.com/wiki/Kyojuro_Rengoku#Appearance) ✅ |
+| **Shinobu** | haori negro con **alas de mariposa** violeta y borde turquesa; obi morado oscuro; horquilla de mariposa (visto en hoja n.º 22 y 40) | ⚠️ sin hex propio: la imagen tenía 77 % de fondo blanco. Su paleta medida está en la biblia 31 | texto de la wiki |
+
+- **Accesorio de los cuatro: la espada Nichirin**, del color de su
+  respiración: azul Agua, rojo-naranja Llama, verde Viento, amarillo
+  Trueno, morado Insecto, **negro Tanjiro** ✅ (medido + [guía de
+  animekatana](https://www.animekatana.com/blogs/news/demon-slayer-nichirin-swords-guide-lore-colors-cosplay-explained)).
+  La de un Pilar lleva grabado **惡鬼滅殺** («Destructor de demonios») ✅.
+- **Tanjiro fuera del uniforme**: en Fujikasane lleva **kimono azul con
+  nubes blancas** (visto en F3). Sus **pendientes tipo hanafuda** son de la
+  familia Kamado ([Hinokami Kagura](https://kimetsu-no-yaiba.fandom.com/wiki/Hinokami_Kagura)) ✅.
+- **Uniforme**: `demon_slayer_uniform` es la etiqueta con 9 131 dibujos en
+  Danbooru ✅.
+- ⚠️ Vestuario por temporada con hex: sólo lo de arriba; el resto, en la
+  biblia 31 §16.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Los sitios con luz y paleta están en §4. Aquí, **la hora y el ánimo** de
+cada uno y los fondos en alta.
+
+| Sitio | Hora y luz | Ánimo | Hoja |
+|---|---|---|---|
+| Monte Fujikasane | **anochecer violeta**; glicina que florece en todas las estaciones, de la base a la ladera | belleza que encierra demonios | F3, F8 |
+| Mansión Mariposa | **día claro** | calma, curación | F1 |
+| Monte Natagumo | **noche cerrada**, telarañas, niebla azulada | miedo | F4 |
+| Yoshiwara | **noche con farolillos** | lujo y peligro | F5 |
+| Asakusa | **noche de ciudad**, luces y tranvía | la primera ciudad grande de Tanjiro | F7 |
+| Castillo Infinito | **sin cielo**, sólo faroles | lo imposible, el final | F2, F14 |
+| Aldea de los Herreros | bosque espeso, montes con nieve | escondite | F6 |
+| Cascada y río de entrenamiento | día, agua clara (visto) | esfuerzo | F9, F11 |
+| Amanecer violeta sobre montes | visto en F10 (*Tanjiro sees the sun about to rise*) | esperanza | F10 |
+| Bosque nevado de troncos rectos | visto en F12 | recuerdo, frío | F12 |
+
+**El fondo más citado**: las glicinas de Fujikasane del ep. 4 («Selección
+Final»), pintadas a mano; su director de fondos fue **Kazuo Ebisawa**
+⚠️ (dos notas de prensa según el investigador de imagen, sin enlace
+guardado).
+
+### Fondos de pantalla oficiales en alta (API de Fandom) ✅
+
+- *Infinity Castle Trilogy IMAX Key Visual*, 2898×4096.
+- *Mugen Train Key Visual 2*, 2898×4096.
+- *A World Where the Sun Never Rises*, edición limitada, 3378×3000.
+- *Asakusa Arc Key Visual*, 1358×1920.
+
+### Fondos de fans en alta ([Wallhaven](https://wallhaven.cc/search?q=kimetsu+no+yaiba&categories=010&purity=100&sorting=favorites), sólo aptos, por favoritos) ✅
+
+| Tamaño | ♥ | Autor u origen | Imagen |
+|---|---|---|---|
+| 6344×3480 | 783 | [Pixiv 81680746](https://www.pixiv.net/en/artworks/81680746) | [wallhaven-6oog7q](https://w.wallhaven.cc/full/6o/wallhaven-6oog7q.jpg) |
+| 1920×1080 | 560 | [Pixiv 77441652](https://www.pixiv.net/en/artworks/77441652) | [wallhaven-ymwj9d](https://w.wallhaven.cc/full/ym/wallhaven-ymwj9d.jpg) |
+| 2560×1440 | 376 | [@zero15101991](https://twitter.com/zero15101991) | [wallhaven-pkxwwe](https://w.wallhaven.cc/full/pk/wallhaven-pkxwwe.png) |
+| 3840×2160 | 329 | r/Animewallpaper | [wallhaven-zme9dg](https://w.wallhaven.cc/full/zm/wallhaven-zme9dg.png) |
+
+Sólo como referencia: son de sus autores.
+
+---
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+La escribe el redactor con todo lo de arriba. **La IA ayuda a probar poses
+y fondos; la lámina final sale de referencias reales** (ENCARGO.md: nada de
+«inventar» referencias con IA).
+
+### A. Para una IA de imagen (Firefly, Canva)
+
+**1. Rasgos que nunca cambian**
+
+| Quién | Siempre | Nunca |
+|---|---|---|
+| **Tanjiro** | pelo rojo oscuro; **marca de llamas en la frente, lado izquierdo**; **pendientes hanafuda**; haori a cuadros **verde #48704B y negro**; espada **negra** | espada de otro color; haori liso |
+| **Rengoku** | pelo **amarillo con mechones rojos como llamas**; ojos intensos; haori blanco con **llamas en degradado** #4D0E10 → #CC4322 → #F2C483 | marca en la cara; fuego amarillo limón (eso es Zenitsu) |
+| **Muichiro** | pelo largo **negro con puntas turquesa**; haori **negro a turquesa** #374349 / #A3C4BF; **mirada vacía**; marca de **nubes** en mejillas y frente (sólo si ya despertó) | cara decidida por defecto; niebla gris |
+| **Shinobu** | ojos **violeta**, sonrisa de ojos entrecerrados; **horquilla de mariposa**; haori con **alas de mariposa** violeta y borde turquesa; espada fina para estocar | marca; gritar; tajo ancho (ella **pincha**) |
+
+**2. Paleta**: fondo del sitio (§4) + **un solo color de aura** (tabla
+maestra). Ejemplos listos:
+- Glicinas: cielo #3B2D85, #5666BE · flores #906CE8, #C09CEB · luz #ECD0E1.
+- Castillo Infinito: #140C0D, #673A20 · farol #F1CB86.
+- Noche de Natagumo: #0A1616, #111E1E.
+- Aura de Muichiro: #BDFCFE, #90E1EF sobre #1C4256.
+
+**3. Línea y sombreado** (medido en las 12 *Zenshuchuten*): línea
+**fina, 3-6 px**, que **se aclara u oscurece en degradado**; **sin trama
+de puntos**. Sombreado **degradado, pintado**. «Mucha línea» sólo en Llama
+y Serpiente. De día hay **más línea** que de noche (Mansión Mariposa,
+línea #566245). En las sombras, **línea de color**, no negro puro (§18).
+
+**4. Luz**: **fondo frío y oscuro + una luz cálida puntual**. *Bloom* en
+las luces, **niebla en capas**, **profundidad de campo** (lo de delante,
+desenfocado).
+
+**5. Encuadre**: la acción **al centro**; el personaje **en diagonal**,
+con el efecto **por delante y por detrás** del cuerpo (así son las 12
+*Zenshuchuten*); alternar **plano general** (escala del paisaje) con
+**primer plano muy cerrado** en el clímax emocional.
+
+**6. Palabras que ayudan** (en inglés funcionan mejor):
+`kimetsu no yaiba style`, `ufotable anime style`, `demon slayer uniform`,
+`haori`, `japanese clothes`, `Taisho era Japan`, `hand-painted
+background`, `wisteria at dusk`, `paper lanterns`, `thin lineart`,
+`soft gradient shading`, `cinematic lighting`, `single warm light source`,
+`volumetric mist`, `depth of field`, `bloom`, `ukiyo-e water swirl`
+(para el Agua), `swirling flame gradient` (para la Llama).
+Etiquetas de Danbooru: `kimetsu_no_yaiba`, `demon_slayer_uniform`,
+`haori`, `japanese_clothes`, `scenery`, `water_breathing`.
+
+**7. Palabras que lo estropean**: `glow aura around body`, `neon`,
+`cel shading flat`, `halftone`, `3D render`, `chibi` (salvo que se
+quiera chibi), `bright colorful`, `rainbow`, `sparkles everywhere`,
+`magic circle`. Y cualquier color de aura que no sea el suyo.
+
+**8. Imágenes de referencia**:
+- **De estilo del efecto**: `auras_01.jpg` A1-A12 (una por respiración) y
+  C1-C8 (el mismo efecto en el anime).
+- **De fondo**: `fondos_01.jpg` F1-F5 (medidos) y F8 (Selección Final).
+- **De pose**: las del §14, con su minuto; F3 para «mirar el paisaje».
+- **Del sello y la tinta**: F15 y F16 (cartelas a tinta).
+
+**9. Tres recetas** (para probar; luego se pinta encima):
+- *Paisaje*: `hand-painted anime background, Mount Fujikasane path lined
+  with red wooden pillars, hanging wisteria clusters #906CE8, violet dusk
+  sky #3B2D85, thin mist between trees, single warm paper lantern, depth
+  of field, ufotable style, no characters`.
+- *Aura*: `anime illustration, young swordsman with long black hair with
+  turquoise tips, blank expression, diagonal pose, wide swirl of pale cyan
+  mist following the sword, dark navy background #041226, thin lineart,
+  soft gradient shading, kimetsu no yaiba style`.
+- *Interior*: `endless wooden corridor of an impossible castle, tatami
+  rooms at different angles, warm lanterns #F1CB86 over near-black
+  #140C0D, volumetric haze, cinematic, ufotable style`.
+
+**10. Vocabulario de expresiones de la serie** (para que la IA entienda
+cada gesto):
+- **Ojos**: vacíos y sin brillo (Muichiro antes de recordar) → con brillo
+  (después); **inyectados de sangre** (Tanjiro con rabia); **entrecerrados
+  con sonrisa** (Shinobu).
+- **Lágrima mirando al cielo** (Rengoku, 3:12).
+- **Fondo de emoción**: aquí **es el aura misma**: el arco de fuego detrás
+  de Tanjiro al gritar (0:33), el remolino de niebla detrás de Muichiro.
+- **Cara de apuro con gotita**: visto en la cartela F16 (Tanjiro con el
+  cuervo) ⚠️ miniatura.
+- **Chibi**: oficial y frecuente (cumpleaños, cafés, *Sweep the Board!*,
+  hoja n.º 26, 34, 37-39). Sólo para láminas de tono ligero.
+- **Tinta sumi-e**: las cartelas (F15).
+- **Silueta de impacto**: el fotograma negro del golpe (§9).
+
+### B. Para una IA de texto (diálogos en su voz)
+
+**Reglas de voz**
+
+| Quién | Cómo habla | Puntuación | Nunca |
+|---|---|---|---|
+| **Tanjiro** | amable, frases completas; **metáforas de clima y paisaje** (sol, nieve); habla de la familia | puntos y comas; exclama sólo al pelear | sarcasmo; mentir |
+| **Rengoku** | **todo en exclamación**, frases cortas; **elogia a los demás**; estructura «¡Esto! ¡Pero esto otro!»; remata con «¡Lo respeto!» | ¡…! casi siempre | dudar; hablar bajo |
+| **Muichiro** | **plano, rápido, sin interés**; «se me va a olvidar», «da igual»; responde tarde | **puntos**, nada de ¡! | entusiasmo (salvo con Tanjiro) |
+| **Shinobu** | **cortesía exquisita, de usted** («Le diré algo»); dulce por fuera y **clínica** por dentro; «según una teoría» | frases largas y suaves | gritar |
+| Cuervo | **telegrama**: «¡Orden! ¡Orden!» | ¡! y frases cortadas | frases largas |
+
+**Frases reales, ordenadas por emoción**
+
+| Emoción | Frase real | De dónde |
+|---|---|---|
+| **Alegre, entusiasta** | «¡Tiene más talento del que yo tenía a su edad!» (Rengoku, de Muichiro) | trivia de la wiki, traducida ⚠️ no es doblaje |
+| **Animando** | «Enciende tu corazón» · «Vive con la frente en alto» (Rengoku) | doblaje, *Tren Mugen*, 00:14:26-00:14:44 (biblia 31) ✅ |
+| **Animando** | «¡Ha llegado el momento! […] ¿Están listos?» (Rengoku) | muestra de Doblaje Wiki ✅ |
+| **Explicando** | «Le diré algo. Según una teoría, ves ese tipo de imágenes antes de la muerte…» (Shinobu) | muestra de Doblaje Wiki ✅ |
+| **Triste, reflexivo** | «El sol no puede brillar eternamente y la nieve debe terminar en algún momento.» (Tanjiro) | muestra de Doblaje Wiki ✅ |
+| **Indiferente** | «A mí se me va a olvidar, así que no tengo problemas.» (Muichiro) | muestra de Doblaje Wiki ✅ |
+| **Pensando** | «The words "the final phase" keep crossing my mind» (Muichiro) | tráiler de *Castillo Infinito*, 0:16, en inglés ⚠️ |
+| **Lamento** | «A mí no me odia nadie» (Giyu) | biblia 31 §14 |
+| **Humor** | «¿Qué pashó papu?» (Kotetsu) · «Gonpachiro Kamaboko» (Inosuke) | Doblaje Wiki ⚠️ |
+| **Enfadado** | ⚠️ ninguna frase latina en las partes | ver biblia 31 §8 |
+
+**Vocabulario de la serie** (como lo dice el doblaje): **Pilar** (nunca
+«Hashira»), **respiración** y sus **formas**, **espada Nichirin**,
+**Cuerpo de Cazadores de Demonios**, **Selección Final**, **glicina**,
+**Marca**, **Kizuki Superior / Inferior** (上弦 / 下弦), **Tsuguko**
+(sucesor de un Pilar), **Escuadrón Kamaboko** (apodo de fans).
+
+**Un ejemplo de cómo pasar un texto del canal a su voz** (propuesta, no
+frase real): «Un hilo por foto o por serie» → Muichiro: «Un hilo por foto.
+Si no, se me olvida cuál era.» Rengoku: «¡Un hilo por foto! ¡Así se ve
+bien!». **Revisar siempre**: una idea por texto, sin «·», «—» ni
+paréntesis (regla 4).
+
+---

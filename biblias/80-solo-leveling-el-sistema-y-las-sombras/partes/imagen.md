@@ -266,6 +266,17 @@ otra biblia no midió esto)**
   (el rediseño del anime): ese contraste (cielo tormentoso vs. vacío total)
   es el dato de «fondo» más específico de mi ángulo, más que un paisaje
   turístico de la serie.
+- Busqué un **wallpaper oficial descargable** (de la web oficial del anime o
+  de A-1 Pictures/Crunchyroll) con `WebSearch` («Solo Leveling anime official
+  wallpaper download») y no encontré una página oficial de descargas de
+  fondos de pantalla: sólo aparecen agregadores de terceros (WallpaperBat,
+  Wallpapers.com, 4kwallpapers.com, WallpaperCave, WallpaperAccess), que no
+  son la fuente original. En su lugar, uso como «oficiales en alta» los key
+  visuals y carteles ya citados en el Punto 1 (`Beru_CV.jpg` 906×1280,
+  `System1.jpg`/`Anime System.png`, el cartel Cour 1 1440×2460): son arte
+  promocional real de la editorial/estudio, con la resolución suficiente
+  para funcionar como fondo de pantalla, aunque no estén etiquetados
+  «wallpaper» en su origen.
 
 ## Hallazgos · Punto 19 — Texturas 2D (el Sistema y las sombras)
 
@@ -326,6 +337,19 @@ otra biblia no midió esto)**
   [GosuGamers](https://www.gosugamers.net/entertainment/news/78010-fortnite-teases-solo-leveling-arise-crossover-with-jinwoo-and-igris)
   · ✅ dos fuentes (verificación propia, independiente de la que ya usó
   `03-solo-leveling` para el mismo evento).
+
+**Figura oficial de un soldado sombra (referencia 3D)**
+- **Igris, figura de vinilo Youtooz** (licencia oficial): estilo «chibi»
+  (proporciones grandes de cabeza, no realista), casco con cuernos y la
+  cinta/cabello rojo característico, armadura azul-negra con líneas cian,
+  espada sostenida en vertical frente al cuerpo — USD 29,99 · imagen oficial
+  del producto 676×1000 ·
+  https://youtooz.com/cdn/shop/files/316t2d401i.png?v=1762268922 · medida
+  con Pillow · **la miré**: pose de «presentación» (de pie, arma al frente,
+  mirada al frente) útil de referencia 3D de volumen, aunque el estilo
+  «chibi» no sirve para copiar proporciones realistas · fuente:
+  [Youtooz — Igris](https://youtooz.com/products/igris) (precio y altura
+  comprobados en el JSON de la página) · ✅.
 
 **Cosplay bien hecho, con volumen real (props del Sistema/armas de Jinwoo)**
 - **Sung Jinwoo (cosplayer «osskycos»)**, Japan Expo Sud 2025 (22-feb-2026),
@@ -448,12 +472,16 @@ otra biblia no midió esto)**
   (licencia CC0 de OpenGameArt confirmada en el HTML de la página; precio
   «free» del Magic Circle de Clip Studio; licencia «Free for Commercial Use»
   del pack de humo en el JSON-LD de MyPhotoshopBrushes).
-- WebSearch (inglés, 3 búsquedas): «free sci-fi hologram UI overlay texture
+- WebSearch (inglés, 5 búsquedas): «free sci-fi hologram UI overlay texture
   PNG CC0 license», «magic circle brush free commercial use license Clip
   Studio OR Photoshop», «free smoke brush pack CC0 OR "free for commercial
-  use" Photoshop Procreate», más «Fortnite Igris skin Solo Leveling Arise
+  use" Photoshop Procreate», «Fortnite Igris skin Solo Leveling Arise
   shadow soldier» para verificar la colaboración con una fuente propia
-  (Sportskeeda + GosuGamers) distinta a la que ya citó `03-solo-leveling`.
+  (Sportskeeda + GosuGamers) distinta a la que ya citó `03-solo-leveling`,
+  «Solo Leveling anime official wallpaper download» (sin resultado oficial,
+  sólo agregadores de terceros) y «Igris figure Solo Leveling Good Smile OR
+  Banpresto OR Bandai official» (encontró la figura de vinilo de Youtooz,
+  verificada aparte con curl al JSON de la página del producto).
 - No usé YouTube (no hizo falta para estos 6 puntos; las capturas del
   Sistema y el ejército ya estaban en la wiki y en Sketchfab/Wallhaven/
   Openverse con fuente y tamaño verificables).
