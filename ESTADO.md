@@ -1,10 +1,10 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 15:35 UTC.
+Actualizado: 2026-09-24, retomado en contenedor nuevo (rama claude/optimistic-keller-but3rn).
 
 ## Dónde está guardado
 
-Todo el trabajo está en la rama **`claude/optimistic-edison-gyhtgr`**.
+Todo el trabajo está en la rama **`claude/optimistic-keller-but3rn`**.
 `main` todavía **no** lo tiene. Una sesión nueva empieza desde `main`, así que
 lo primero que tiene que hacer es traer esta rama.
 
@@ -32,7 +32,7 @@ lo primero que tiene que hacer es traer esta rama.
 
 Pega esto en una sesión nueva en la nube, con este repositorio:
 
-> Trae la rama `claude/optimistic-edison-gyhtgr` (`git fetch origin claude/optimistic-edison-gyhtgr && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue: relanza un ayudante por cada trabajo a medias, diciéndole que siga desde lo guardado, sin empezar de cero.
+> Trae la rama `claude/optimistic-keller-but3rn` (`git fetch origin claude/optimistic-keller-but3rn && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue: relanza un ayudante por cada trabajo a medias, diciéndole que siga desde lo guardado, sin empezar de cero.
 
 Lo que tiene que hacer esa sesión:
 
