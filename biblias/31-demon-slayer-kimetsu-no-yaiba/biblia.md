@@ -2252,20 +2252,28 @@ canal **sin serie asignada**.
 | 13 · Descripción profunda de cada personaje | ✅ | 12 personajes, con cómo hablan y minuto (§8) |
 | 14 · Poses analizadas (6-10 por personaje) | ✅ | Shinobu 7, Tanjiro 6, Zenitsu 6, Rengoku 8, más 6 de Mitsuri, Kanao, Aoi y Tengen (§15) |
 | 15 · Vestuario con hex | ✅ | §16 (medidos o marcados ⚠️) |
-| 16 · Paisajes y fondos de pantalla | ⚠️ | sitios con luz ✅; fondos de fans en alta casi no hay (Wallhaven dio 1) (§17) |
-| 17 · Guía para IA | ✅ | §18 |
-| 3 conceptos de lámina | ✅ | §19, con objeto, personaje, cuadro, textos y profundidad |
-| 40 fuentes distintas | ✅ | 52 en la bitácora (§21) |
-| Tipos: oficiales | ✅ | webs oficiales, CSS, manual del juego, Steam, PV de Aniplex, entrevista de ufotable en los Oscars |
-| Tipos: otros idiomas | ⚠️ | japonés (subtítulos, animatetimes, GAME Watch, webs) ✅; chino: Bilibili dio 412 ❌; coreano no ❌ |
-| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki ✅; TV Tropes 403 y por Wayback sólo la portada; TCRF 403 (Cloudflare) |
+| 16 · Paisajes y fondos de pantalla | ⚠️ | sitios con luz ✅; fondos de fans: en la segunda pasada, **15 de Wallhaven** en `referencias.json` (de `datos.json`, tamaño por la API, hasta 6344×3480), pero el «autor» es quien lo subió, no siempre quien lo dibujó (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | §18: imagen (18.1-18.5) y, en la segunda pasada, **texto** (18.6): reglas de voz, cómo habla cada uno, 18 frases reales por emoción con minuto y vocabulario de gestos. Gotas de sudor: no documentadas ⚠️ |
+| 18 · Estilo de dibujo, técnica y cómo replicarlo | ✅ | §19: programas de ufotable en dos entrevistas japonesas (Autodesk, CGWORLD) y Popverse; línea y sombra (Sakuga Blog); encuadres de combate (jb siraudin); Blender y Photoshop con dos fuentes; 7 modelos con *rig* CC BY. Sin fuente: filtros y plumilla de la autora ⚠️ |
+| 19 · Texturas 2D | ✅ | §20: patrones de 7 personajes con nombre japonés; 2 SVG libres (CC BY-SA y dominio público); insignia medida; tramas y pinceles gratis (no CC0). Sin patrón libre de Giyu ni de Shinobu ⚠️ |
+| 20 · Gustos y detalles de cada personaje | ⚠️ | §21: los 6 del encargo con el databook oficial (vía wiki) + AniList ✅; faltan la comida de Inosuke y los gustos de Giyu (2.º en la encuesta), Tengen, Mitsuri, Kanao y Muichiro |
+| 21 · Por qué la aman, escenas que hacen llorar, reír o gritar | ✅ | §22: ventas, taquilla y premios (los clave con dos fuentes); por qué en japonés y coreano; con quién se identifica el público; ep. 19 y muerte de Rengoku con minuto y música; reacciones medidas. Varias cifras con una fuente ⚠️ |
+| 22 · Fan dubs y comunidad hispana | ✅ | §23: 5 fandubs, 7 covers y 5 parodias o memes, con vistas medidas con `yt-dlp`; TikTok y Facebook sin vistas (403) ⚠️ |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | §24: USJ, Lawson, Uniqlo, Puzzle & Dragons y ufotable Cafe con dos fuentes y foto medida; Fortnite comprobado: **no** es oficial; S.H.Figuarts; cosplay con patrones y fotos CC. Las 3 colaboraciones de móvil, sin mirar ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | §25: 13 recomendaciones de AniList; influencias en dos fuentes; cambios de diseño (una fuente ⚠️); comparación con 5 láminas del servidor |
+| 25 · Mundo, historia y símbolos | ✅ | §26: 5 reglas, 12 arcos con capítulos y episodios (corregido el del Tren Mugen), rangos, Doce Kizuki, emblemas y vocabulario |
+| 3 conceptos de lámina | ✅ | §27, con objeto, personaje, cuadro, textos y profundidad; segunda pasada: cómo renderizarlos, sello de glicinia, dato del databook y cartas *hanafuda* |
+| 40 fuentes distintas | ✅ | **84 webs distintas** enlazadas en la biblia (`revisar.py`); antes, 35 webs y 52 fuentes en la bitácora (§29) |
+| Tipos: oficiales | ✅ | webs oficiales, CSS, manual del juego, Steam, PV de Aniplex, entrevista de ufotable en los Oscars; segunda pasada: noticias de kimetsu.com y Aniplex, ufotable Cafe, Tamashii Nations, GungHo, Lawson, Uniqlo, entrevistas técnicas (Autodesk, CGWORLD) |
+| Tipos: otros idiomas | ⚠️ | japonés (subtítulos, animatetimes, GAME Watch, webs; y en la segunda pasada Autodesk, CGWORLD, livedoor, nippon.com, Discover Japan) ✅; **coreano** ✅ en la segunda pasada (Daum / IZE); chino: Bilibili dio 412, sigue sin fuente |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, Wikimedia Commons y Britannica ✅; TV Tropes 403 y por Wayback sólo la portada; TCRF 403 (Cloudflare); atwiki japonesa 403 y su Wayback cortado |
 | Tipos: foros y comunidades | ✅ | Reddit por Arctic Shift |
-| Tipos: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation y Reddit ✅; Pixiv y DeviantArt no |
-| Tipos: vídeo | ✅ | §12 |
-| Tipos: código y recursos | ✅ | GitHub (subtítulos, Google Fonts), Sketchfab, Poly Haven, ambientCG |
-| Tipos: doblaje latino | ✅ | Doblaje Wiki, ANMTV, SensaCine, entrevistas en YouTube (§10.5) |
+| Tipos: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation y Reddit ✅; segunda pasada: DeviantArt (pinceles) ✅ y 33 fan arts de Safebooru con su origen (Pixiv, Twitter) en `referencias.json`; Pixiv directo, no |
+| Tipos: vídeo | ✅ | §12; y fandubs, covers y reacciones medidos (§22-23) |
+| Tipos: código y recursos | ✅ | GitHub (subtítulos, Google Fonts), Sketchfab, Poly Haven, ambientCG; segunda pasada: modelos con *rig* (API de Sketchfab), Clip Studio Assets, Brusheezy, GraphicsBunker, SVG de Wikimedia Commons |
+| Tipos: doblaje latino | ✅ | Doblaje Wiki, ANMTV, SensaCine, entrevistas en YouTube (§10.5); segunda pasada: El Financiero y TV Azteca (premio a José Antonio Toledano, Akaza) |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,98 MB, `objetos_01.jpg` 0,86 MB, `fondos_01.jpg` 0,66 MB |
-| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 36 entradas; 30 URL de imagen comprobadas (HTTP 200); 6 vídeos con `&t=` y el tamaño del fotograma medido |
+| `referencias.json` (mínimo 20, sin máximo, medidos, url = imagen) | ✅ | **252 entradas**, las mejores primero: las 36 de antes y las útiles de `partes/*.json` y `datos.json`. Todas con tamaño medido (API de la wiki, Sketchfab, Wallhaven, Steam, Openverse o Pillow). Los 25 modelos 3D van con su miniatura 1920×1080 y el enlace al modelo en `fuente`. 13 vídeos de fans van enteros, sin `&t=` (sirve el vídeo completo). Corregida una URL de Wikimedia que daba 404 |
 
 ---
 
