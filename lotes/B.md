@@ -33,3 +33,4 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 | 08-big-hero-6 | video | sonnet | 18 | 188117 |
 | 07-pok-mon | redactor | opus | 20 | 336707 |
 | 08-big-hero-6 | voz | sonnet | 26 | 234437 |
+| 09-mafalda | imagen | sonnet | 22 | 223356 |
