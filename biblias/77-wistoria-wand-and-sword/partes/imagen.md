@@ -168,4 +168,4 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - WebFetch directo a `wistoria-anime.com/character/` y `wistoria-anime.com/goods/` (HTML crudo con curl para sacar URLs de imagen reales, ya que el resumen de WebFetch no las daba) y a la noticia de ANN del crossover (403, se usó WebSearch + `luluttolilly.com` en su lugar).
 - Reddit vía Arctic Shift: `subreddit=cosplay&title=wistoria` (sin resultados) y `subreddit=anime&title=wistoria` (hilos generales de opinión, sin dato de imagen útil).
 
-Sigue: si hay más tiempo, sería un extra (no obligatorio) buscar un fotograma a color del Dungeon con fotogramas.py (tarea de vídeo) y confirmar con una segunda fuente el emblema de los Ulster. Todo lo obligatorio de los puntos 1, 3, 15, 16, 19 y 23 está cubierto arriba.
+Parte terminada: los 6 puntos (1, 3, 15, 16, 19, 23) están cubiertos con lo obligatorio del encargo. Lo que falta (figura 3D oficial, cosplay documentado, emblema Ulster en imagen, fotograma a color del dungeon) es extra y queda listado en «No encontré» con ⚠️, no pendiente.
