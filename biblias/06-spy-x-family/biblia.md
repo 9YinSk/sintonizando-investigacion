@@ -8,28 +8,79 @@ fecha: 2026-09-24
 # Biblia · Spy×Family — para #presentaciones
 
 > [!important] Cómo se hizo, y sus límites
-> - **Segunda pasada (24-sep-2026, red abierta), en curso**: hojas de
->   contacto hechas (§3.0). El resumen irá aquí al terminar.
-> - La red de esta sesión estaba cerrada. Fandom, Doblaje Wiki, YouTube,
->   Crunchyroll, la web oficial del juego y Arctic Shift (el archivo de
->   Reddit) daban **403** por curl o por WebFetch; Reddit ni siquiera se deja
->   buscar. Por eso **no se pudo correr**
->   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
->   carpeta `hojas/`.
-> - Hice búsquedas web en español, inglés, japonés, coreano y chino (la lista
->   está al final, en la bitácora).
-> - GitHub sí respondía. De ahí saqué lo más útil de todo el trabajo:
->   **los subtítulos de la temporada 1 en inglés y en japonés, con sus
->   tiempos** (repositorio [Yeniifan/Anime-Japanese](https://github.com/Yeniifan/Anime-Japanese/tree/main/subtitles))
->   y los de la temporada 2 en inglés de Netflix
->   ([foxofice/sub_share](https://github.com/foxofice/sub_share)). Con ellos
->   doy el **minuto de cada escena**. Es el minuto de ese archivo: puede
->   moverse uno o dos minutos según la plataforma.
-> - También bajé de [google/fonts](https://github.com/google/fonts) las
->   letras propuestas y comprobé una a una, con fontTools, si traen
->   á é í ó ú ñ ¿ ¡.
-> - ✅ **confirmado**: dos fuentes. ⚠️ **dudoso**: una sola fuente, o lo
->   describo de memoria. Lo de memoria siempre va marcado.
+> - **Primera pasada (red cerrada)**: sólo buscador web y GitHub. De GitHub
+>   salieron los **subtítulos de la T1 en inglés y japonés**
+>   ([Yeniifan/Anime-Japanese](https://github.com/Yeniifan/Anime-Japanese/tree/main/subtitles))
+>   y los de la T2 de Netflix ([foxofice/sub_share](https://github.com/foxofice/sub_share)):
+>   de ahí los minutos en formato 00:00:00 (puede moverse uno o dos
+>   minutos según la plataforma). Las letras de
+>   [google/fonts](https://github.com/google/fonts) se comprobaron con
+>   fontTools.
+> - **Segunda pasada (24-sep-2026, red abierta)**, en dos tandas: primero
+>   hojas de contacto (§3.0), paleta medida (§5.3, §16), Doblaje Wiki por su
+>   API (§10) y licencias de Sketchfab; luego **un equipo de cuatro
+>   investigadores** (imagen, vídeo, voz, texto) y un redactor. Se pudo usar:
+>   APIs de Fandom, Doblaje Wiki, Sketchfab, Wallhaven, AniList, Steam y
+>   Arctic Shift (Reddit); **capítulos de la T1 en Internet Archive** (720p)
+>   y **tráilers oficiales en Dailymotion**, mirados con `fotogramas.py`;
+>   `voz.py`, `estilo.py` y Pillow.
+> - **Lo que no se pudo**: YouTube pidió iniciar sesión todo el día,
+>   TikTok no deja bajar vídeos, Crunchyroll no se usa (403 y DRM) y la T3
+>   sólo está ahí. Por eso las frases latinas siguen sin minuto exacto y el
+>   ep. 40 no se vio.
+> - Los minutos **vistos** en vídeo van en formato 4:36 y dicen «visto»; son
+>   los de la copia de Internet Archive.
+> - ✅ **confirmado**: dos fuentes o visto. ⚠️ **dudoso**: una sola fuente o
+>   sin mirar. Todo lo dudoso va marcado.
+
+> [!note] Segunda pasada · qué cambió
+> **Corregido (antes → ahora)**
+> - Pose de Anya en «¡Qué emoción!»: «puños cerrados» → **abraza a
+>   Chimera** frente a la tele (ep. 1, 6:46, visto).
+> - Becky admirando a Anya: «aplaude» → **manos juntas bajo la barbilla**
+>   (ep. 6, 18:40).
+> - Firma de Loid: «pluma en mano» → **plano sólo de mano y papel** (ep. 1,
+>   4:36).
+> - Anya en la entrevista: segura → **nerviosa, ojos muy abiertos** (ep. 4,
+>   15:49).
+> - Minutos afinados: Chimera 5:24 → **5:37 a 5:44**; «Heh» 18:12-18:38 →
+>   **18:26 a 18:28**.
+> - Enlaces de Internet Archive de los eps. 10 y 12 → sus nombres reales
+>   (`-tvq-720p`).
+> - El «6 de abril» de AniList no es un cumpleaños oficial: **no se usa**.
+>
+> **Confirmado** (⚠️ → ✅): voz japonesa de Loid; Brandon Montor, Carlos
+> Torres y Mariana Ortiz (segunda fuente: GamerFocus); Yuri (Héctor Mena,
+> Ricardo Bautista en el ep. 2, Desireé González de niño); «Bofu» (es la
+> onomatopeya japonesa); Yor borracha en el ep. 9; «SOUVENIR» y «Shikisai»;
+> 16 poses vistas; el cuarto de Anya; TCRF no tiene página del juego.
+>
+> **Añadido**: §2.1 (13 escenas vistas con minuto), §5.2 (sitios vistos),
+> §11.1 (efectos de sonido), §12 (3 tráilers con minuto), fondos de
+> pantalla con tamaño (§17), la guía para IA de texto con 24 frases por
+> emoción (§18.2), **los puntos 18 a 25** (§A a §H), la tabla
+> «Cumplimiento del encargo», la bitácora del equipo, y `referencias.json`
+> de 35 a **183**.
+>
+> **⚠️ antes → después**: había **65**. Se resolvieron **15** y quedan 50 de
+> los viejos. Hay **71 nuevos**: 41 en los puntos 18-25, 14 en la tabla
+> (sólo repite los pendientes) y 16 en datos nuevos de otras secciones.
+> Casi todos son de una sola fuente o de vídeos que YouTube no dejó ver.
+>
+> **Conceptos**: los tres siguen, mejorados con lo visto: la mano de Loid
+> firmando y la taza de café (A), Anya nerviosa en la sala de cuero rojo
+> (B), Chimera en alto y el cuarto real con su modelo 3D (C).
+
+> [!tip] Índice
+> 0 El canal · 1 Resumen · 2 Escenas con minuto · 3 Arte oficial y hojas ·
+> 4 Fan art y 3D · 5 Sitios, luz y paleta · 6 Tipografía · 7 Cuadros de
+> diálogo · 8 Personajes · 9 El más querido · 10 Doblaje latino · 11 Música
+> · 12 Vídeos · 13 Videojuegos · 14 Fandom y qué no hacer · 15 Poses ·
+> 16 Vestuario · 17 Fondos de pantalla · **A** Técnica (punto 18) · **B**
+> Texturas 2D (19) · **C** Gustos (20) · **D** Por qué la aman (21) · **E**
+> Fan dubs (22) · **F** Colaboraciones (23) · **G** Obras parecidas (24) ·
+> **H** El mundo (25) · 18 Guía para IA (punto 17) · 19 Tres conceptos ·
+> 20 Lo no verificado · Cumplimiento del encargo · 21 Bitácora.
 
 ---
 
@@ -2266,3 +2317,104 @@ segunda pasada del equipo (24-sep-2026).
 - Cifras de favoritos de MyAnimeList.
 - Nada en The Cutting Room Floor ni en Wayback Machine (sin cuota).
 - Subtítulos o guiones en español latino en GitHub.
+
+### Segunda pasada · equipo (24-sep-2026, red abierta)
+
+Cuatro investigadores (imagen, vídeo, voz, texto) partieron de lo que juntó
+`herramientas/recolectar.py` (AniList, Doblaje Wiki, Fandom, Danbooru,
+Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive,
+MusicBrainz, Steam, Reddit) y no repitieron esas consultas. El redactor
+juntó sus partes (`partes/*.md`) en esta biblia.
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- Buscador, inglés: «Good Smile Company Nendoroid Anya Forger», «"Spy x
+  Family" Clip Studio Paint screentone brushes», «Tatsuya Endo interview
+  art style inking screentone», «free CC0 halftone screentone texture
+  pack», «"Yor Forger" cosplay tutorial materials wig makeup dress», «Spy x
+  Family POP UP PARADE Loid Forger».
+- Buscador, japonés: «スパイファミリー 壁紙 配布 2022 公式サイト オープニング
+  壁紙プレゼント».
+- API de Fandom: `categorymembers` de Category:Collaborations (y las de
+  anime, manga y CODE: White: más de 100 páginas); `search` de «Fortnite»,
+  «Universal Studios», «Nendoroid», «Figma»; `parse` de 6 páginas de
+  colaboración; `imageinfo` de 6 carteles y 2 logos.
+- Miradas: `personajes_01.jpg` (P·30 sin citar), `objetos_01.jpg`, el
+  escudo de Eden y WISE.png (hex con Pillow).
+- No encontré: estampados en la ropa; tramas con sello CC0; colaboración
+  con Fortnite. `spy-family.net/tvseries/special/index_season1.php`: 403
+  (Cloudflare), 2 intentos.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- YouTube pidió iniciar sesión toda la tanda (un reintento: 403 y luego 429
+  con «Sign in to confirm you're not a bot»). AnimeThemes: 522, dos veces.
+- Internet Archive: `advancedsearch` (sólo eps. 1-12 de la T1 y el 26),
+  `metadata` de los eps. 1, 2, 3, 4, 6, 7, 10 y 12; tramos recortados con
+  `ffmpeg` y mirados con `fotogramas.py` (y `--cortes`, un fotograma por
+  plano). Se borraron los vídeos.
+- API de Dailymotion, en inglés: «SPY FAMILY Mixed Nuts opening», «Kigeki
+  Gen Hoshino ending», «Anya heh face scene», «Yor cooking disaster», «Yor
+  runs mother becomes the wind», «Bond protects Anya episode 15», «Bond
+  precognition strategy stay alive» → los 3 tráilers oficiales; los
+  «openings» eran covers de fans (descartados tras mirarlos) y la
+  compilación de Yor era de la película.
+- Buscador, japonés: «SPY×FAMILY CODE: White エンディング主題歌 星野源 「光の跡」»,
+  «SPY×FAMILY 二期前半 オープニング BUMP OF CHICKEN SOUVENIR エンディング yama
+  色彩». Inglés: «Gen Hoshino "Hikari no Ato" "Why"», «Spy x Family
+  onomatopoeia iconic sound effect», «Anya telepathy sound effect».
+- `sfx-resource.fandom.com/api.php` (efectos por episodio).
+- No encontré: Bond 2 y 3, Yor 4 y 6 (eps. 15, 16, 19 y 27 no están en
+  Internet Archive); Loid 3 y 6, Damian 1 y 3 (no salieron en el tramo);
+  los análisis de YouTube; OP y ED a 1080p en vídeo.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- API de Fandom: Trivia y Personality de los 6; Popularity Poll; Loid's
+  Past Arc; episodios 9, 11 y 40.
+- Tumblr (@mj-ackerman) y X (@kaikaikitan): traducciones del fanbook.
+- Reddit por Arctic Shift, en inglés: `tears`, `favorite character`,
+  `best girl`, `relate`, `identify with`, `cried`, `sad`, `funny`,
+  `laughed`, `iconic`, `Stella`, `exam`, `poll`, `Jump Festa`.
+- Buscador, español e inglés (unas 17): premios de Crunchyroll, ventas
+  2025-2026, escenas que hacen llorar, fandub latino, covers de «Mixed
+  Nuts», «Shikisai» y T3, parodias, memes «a mimir», traducciones del
+  fanbook, música del ep. 40, encuesta en Latinoamérica.
+- Leídas con curl: CGMagazine, ComicBook.com, Geekzilla, Tumblr.
+  Bloqueadas: Atomix (Cloudflare), Wikipedia (429), YouTube (429), TikTok
+  («Unexpected response»).
+- `voz.py` sobre las muestras de Doblaje Wiki de Anya, Damian, Yuri y Bond:
+  ninguna trae las frases buscadas.
+- Doblaje: segunda fuente en [GamerFocus](https://www.gamerfocus.co/anime/spy-x-family-codigo-blanco-trailer-con-doblaje-de-voces-en-espanol-latino/)
+  para Carlos Torres, Mariana Ortiz y Brandon Montor. Martha (Susana
+  Romero): sin segunda fuente (anibase.net e Instagram no cargaron).
+- No encontré: vistas de fandubs y covers; covers de la T3; la sexta
+  categoría de los Crunchyroll Awards; la taquilla de *CODE: White* en otra
+  fuente; cómo está dibujado el ep. 40.
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25)
+- Buscador, inglés: «Tatsuya Endo interview influences», «CloverWorks WIT
+  Studio making of», «Kazuaki Shimada character design interview», «Kazuo
+  Nagai background art interview», «compared to Mr and Mrs Smith /
+  Incredibles», «story arcs list», «WISE logo Eden crest emblem», «Bond
+  Project Apple», «Tatsuya Endo Tista Gekka Bijin», «Sketchfab Spy x Family
+  rig CC», «Mixed Nuts opening storyboard», `site:tcrf.net spy x family`.
+- Buscador, japonés: 「SPY×FAMILY 制作 クリップスタジオ OR RETAS 作画
+  インタビュー」 (sin resultado).
+- Leídas: Sakuga Blog, The Mary Sue, ComicBook.com.
+- API de Fandom: Story Arcs, Tatsuya Endo/Interviews, Eden Academy,
+  Imperial Scholars, Westalis Intelligence, State Security Service,
+  Garden, Operation Strix, Ostania, Westalis.
+- API de Sketchfab (licencias de Anya, Yor, Bond y Loid); `estilo.py` sobre
+  4 imágenes; `grep` de los 137 encargos.
+- No encontré: el programa del estudio; un modelo libre de Loid; la caja
+  de diálogo del juego; la relación canónica entre el Proyecto Apple y la
+  manzana de Eden.
+
+**Redactor**
+- `referencias.json`: de 35 a **183**. Entraron todas las imágenes y
+  vídeos útiles de `partes/*.json` y de `datos.json`; tamaños que faltaban
+  medidos con Pillow (AniList) y con la API de Sketchfab (miniaturas).
+  Fuera: las notas de prensa y páginas de texto (no son imágenes; están
+  citadas en la biblia), el fan art de otras series que trajo Safebooru
+  (Miku, Lumine, Tifa), 3 fondos de Wallhaven sin etiqueta de la serie, 2
+  modelos de Sketchfab ajenos y 9 retratos pequeños de secundarios.
+- Comprobado con la API de Internet Archive que los eps. 10 y 12 se llaman
+  `spy-family-10-tvq-720p` y `spy-family-12-tvq-720p`.
