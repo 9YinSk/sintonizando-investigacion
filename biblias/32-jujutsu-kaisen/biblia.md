@@ -21,6 +21,10 @@ fecha: 2026-09-24
 > este contenedor («confirma que no eres un bot»): los vídeos se
 > miraron en copias de **Dailymotion** del mismo montaje, a 512×288.
 > Minutos de episodio: subtítulos japoneses con tiempos (±5 s).
+> Un **3.er ayudante** (24-sep) repasó y resolvió ⚠️: las tres imágenes
+> #N sin nombre, el signo del dominio de Sukuna, 6 poses más de Todo, el
+> premio de 2021 en dos fuentes y el tráiler de *Ejecución* con el logo
+> en español (§21.5).
 
 ## Índice
 
@@ -495,6 +499,8 @@ y coolors; no las usé.
 | Logo en el OP1 | trazo **amarillo pálido `#D4D48C`** con relleno casi negro `#142218`, sobre un mapa de Tokio de noche con luces rosas | ✅ medido en el fotograma 0:14 |
 | Logo de la T2 | el mismo, en **dorado sobre negro**, con «渋谷事変» debajo en Mincho | ✅ visto (PV Shibuya, 1:12) |
 | Logo en inglés | «Jujutsu Kaisen» en romaji con **letras que imitan el sello**, bajo el logo japonés | ✅ visto (tráiler 1, 1:10; *Cursed Clash*) |
+| **Logo en español** (película *Ejecución*, 2025) | «JUJUTSU KAISEN» en romaji **blanco, a mano, con trazos de pincel afilados**; debajo, «**— EJECUCIÓN —**» en **serif clásica de mayúsculas** (tipo Trajan) **con tilde**; encima, en la misma serif pequeña, «ESTRENO DE LA TERCERA TEMPORADA EN EXCLUSIVA». Fondo en degradado **morado `#3C005B` → magenta `#5B004A`** → rojo | ✅ visto y medido (3.er ayudante: tráiler subtitulado, [x9s6mua, 1:14](https://www.dailymotion.com/video/x9s6mua?start=74)) |
+| **Cartelas del tráiler en español** | serif de mayúsculas **morado oscuro sobre violeta `#5A10AD`**, dos líneas, la 2.ª más pequeña: «UNA COMPILACIÓN ESPECIAL / DEL INCIDENTE DE SHIBUYA», «REVÍVELO EN LA GRAN PANTALLA»; y sobre negro, en blanco: «SE ABRE EL TELÓN A / UN NUEVO ARCO» | ✅ visto (x9s6mua, [0:14](https://www.dailymotion.com/video/x9s6mua?start=14) y 0:48). **La franquicia rotula en español con serif clásica y tildes**: la Shippori Mincho B1 encaja (§6.2) |
 | **Título de cada episodio** | **Mincho negrita blanca**, abajo a la derecha: «第1話 両面宿儺», «第7話 急襲» | ✅ [título ep. 1](https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/63/Episode_1_Title_Card.png), ep. 7, 9 y 24 (wiki, 1920×1080) |
 | **Hora y lugar** (Shibuya) | igual: Mincho blanca abajo a la derecha, «22:20 井之頭線 渋谷駅 アベニュー口», «同刻 都心メトロ渋谷駅 13番出口側（帳外）» | ✅ #961 y #834 (T6-T7 de la hoja) |
 | **Técnicas en el manga** | kanji **muy gruesos y verticales, entre 「」**: 「黒閃」, 「蒼」, 虚式「茈」; el dominio en **caja vertical** («領域展開 伏魔御廚子») | ✅ T13-T18 de la hoja |
@@ -898,6 +904,13 @@ Database dicen «Anette Ugalde» ⚠️.
 | じゅじゅさんぽ | **Juju-Cortos** (los minicapítulos tras el ending) | Doblaje Wiki |
 | 黒閃 | **Destello Negro** | Doblaje Wiki (errores, ep. 45) |
 
+**Apoyo indirecto** al cambio «Extensión» → «Expansión» (3.er ayudante;
+son **subtítulos** de Crunchyroll, no el doblaje): el clip oficial de la
+T1 se titula «[La Extensión de Dominio de Mahito](https://www.youtube.com/watch?v=quOC25SCykg)
+(sub. español)», y el tráiler de 2025 de *Ejecución* subtitula
+«**Expansión de Dominio.**» ([x9s6mua, 0:12](https://www.dailymotion.com/video/x9s6mua?start=12)).
+Cuadra con Doblaje Wiki, pero el doblaje en sí ⚠️ sigue sin oírse.
+
 ### 10.4 Frases del doblaje, textuales
 
 Cómo las saqué: **subtítulos automáticos de YouTube** de los clips
@@ -1054,6 +1067,7 @@ a bot» a `yt-dlp`, así que no hubo copia oficial.
 | Tráiler 1 (sub. oficial en español, Crunchyroll) | [x88ah25](https://www.dailymotion.com/video/x88ah25) | 55 cada 2 s | ✅ todas las frases de §10.4. Nuevo: Gojo, «**Es un buen momento para enseñarte… qué significa "jujutsu" en realidad**» (1:14-1:20); créditos: Park Sunghoo (0:16), Seko Hiroshi (0:22), Hiramatsu Tadashi (0:28), MAPPA (0:32) |
 | Tráiler de JJK0 (sub. en español, Tomatazos) | [x8x3x96](https://www.dailymotion.com/video/x8x3x96) | 44 cada 3 s | Yuta **en la misma celda de ofuda** (0:45, 0:48); **Panda, Maki e Inumaki** en el aula de madera, Inumaki **subiéndose la bufanda de cuadros** (0:51): «No es un lugar para los malditos»; Geto ante un muro de caligrafía (1:03) |
 | «Yuji Meets Inumaki» | [x9830ho](https://www.dailymotion.com/video/x9830ho) | 29 cada 2 s | **no sirve**: es un montaje vertical de fans con letras rosas y azules. Lo descarto |
+| Tráiler de ***JUJUTSU KAISEN: Ejecución*** (subtítulos en español; 3.er ayudante) | [x9s6mua](https://www.dailymotion.com/video/x9s6mua) (oficial: [Crunchyroll en Español, OknvvwMcXa4](https://www.youtube.com/watch?v=OknvvwMcXa4), 1:26) | 43 cada 2 s + 4 grandes | es la **película recopilatoria de Shibuya + preestreno de la T3** (en Japón, 『劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」』, en cines desde el 7-nov ✅ título del PV en la wiki). Visto: Gojo **se tapa un ojo con la mano** y el subtítulo «**Expansión de Dominio.**» con el crédito «King Gnu「SPECIALZ」» en serif abajo a la derecha ([0:12](https://www.dailymotion.com/video/x9s6mua?start=12)); cartelas en serif sobre violeta (0:14-0:18); Yuji con sangre: «Itadori, encárgate tú desde ahora» (0:34); Yuta: «Vamos, Rika» (1:12); el **logo en español** (1:14, §6.1). ⚠️ El giro «¡Vamos a darle más caña, Itadori!» (0:26) suena a subtítulo **de España**, no latino |
 
 Los `video.mp4` se borraron al terminar las hojas.
 
@@ -1349,10 +1363,10 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 
 | Uso | Pose recomendada |
 |---|---|
-| **Presentar** | Gojo mano abierta (P1) · Nobara mano en la cadera (P12) · Inumaki con el cuello subido (#1017) |
-| **Explicar** | **Gojo con puntero y pizarra** (*Cursed Clash* 0:21 y 3:22) · Gojo señalando (T1-7 1:39) · Inumaki enseñando el espray (P29) · **Panda con su tabla de rangos** |
+| **Presentar** | Gojo mano abierta (P1) · Nobara mano en la cadera (P12) · Inumaki con el cuello subido (#1017) · Todo con el brazo en alto (Todo 6) |
+| **Explicar** | **Gojo con puntero y pizarra** (*Cursed Clash* 0:21 y 3:22) · Gojo señalando (T1-7 1:39) · Inumaki enseñando el espray (P29) · **Panda con su tabla de rangos** · Todo con la palma levantada (Todo 10) |
 | **Celebrar** | Todo «Congratulations» (T1-19) · Yuji riendo (OP1 1:18) · Nobara con bolsas (ED1 0:40) · Inumaki con megáfono y «V» (P30) |
-| **Regañar** | Nanami de frente (#923) · Nobara con martillo (P10) |
+| **Regañar** | Nanami de frente (#923) · Nobara con martillo (P10) · Sukuna con el sello de Enma (Sukuna 9), sólo en lámina de reglas |
 | **Pensar** | Nanami mano en la boca (P15) · Megumi manos entrelazadas (#785) · Panda mano en la barbilla |
 | **Animar** | Yuji palma abierta (OP1 1:12) · Gojo con las gafas (P3) · Inumaki pulgar arriba (P18) |
 
@@ -1646,10 +1660,16 @@ Inumaki.
   automáticos, de **Whisper** sobre las muestras de Doblaje Wiki (que no
   dicen el episodio) y de dos clips de Dailymotion. **Ningún clip oficial
   de YouTube** se pudo bajar desde aquí («confirma que no eres un bot»).
-  Cómo dice el doblaje «kombu», «atún con mayonesa» y el «¿Qué tipo de
-  chica te gusta?» de Todo: ⚠️ sin oír.
+  El 3.er ayudante (24-sep) consiguió metadatos, búsquedas y subtítulos
+  de YouTube a ratos (con `--js-runtimes node`), pero **el audio y el
+  vídeo dan 403** (tres intentos): sin audio no hubo segunda
+  transcripción con Whisper. Cómo dice el doblaje «kombu», «atún con
+  mayonesa» y el «¿Qué tipo de chica te gusta?» de Todo: ⚠️ sin oír.
 - **Los términos del doblaje** («Extensión» en la T1, «Expansión» en la
-  T2; «Hechicería» → «Brujería»): sólo Doblaje Wiki ⚠️.
+  T2; «Hechicería» → «Brujería»): Doblaje Wiki, y los **subtítulos**
+  oficiales de Crunchyroll dicen lo mismo («La Extensión de Dominio de
+  Mahito» en la T1; «Expansión de Dominio» en el tráiler de 2025), pero
+  el doblaje en sí ⚠️ sin oír (§10.3).
 - **Resolución de los vídeos**: Dailymotion sólo sirve 512×288 aquí. Los
   colores medidos en fotogramas son aproximados (±10 por canal).
 - **Web oficial** `jujutsukaisen.jp`: 403 (Cloudflare) con `curl` y con
@@ -1660,14 +1680,16 @@ Inumaki.
 - **La caja de diálogo de *Phantom Parade*** y la del modo historia de
   *Cursed Clash* **en español**: no las vi (sólo la versión inglesa del
   tráiler).
-- **Los gestos del dominio de Sukuna y Megumi**: no los comprobé en vídeo.
-- **Los números «#N»** del 1.er ayudante: su índice se perdió; §3.0 tiene
-  la equivalencia con los nombres de archivo que pude emparejar
-  (#139, #1085 y #1180 no).
+- **El gesto del dominio de Megumi**: visto sólo en un fotograma de la
+  wiki ⚠️ (el de Sukuna ya está confirmado en tres fuentes, §14.2). El
+  vídeo de su dominio en la T3 que había en Dailymotion (xa2smw6) ya no
+  existe.
+- **Los números «#N»** del 1.er ayudante: su índice se perdió. §3.0
+  tiene ya **todas** las equivalencias con el nombre de archivo (el 3.er
+  ayudante encontró #139, #1085 y #1180).
 - **Encuesta latina propia** de popularidad: no la encontré.
 - **Tendencias de TikTok** (el baile del ED1, el gesto del dominio):
   sólo títulos de búsqueda, TikTok no se abre desde aquí ⚠️.
-- **«Anime del Año» en los Crunchyroll Anime Awards 2021**: una fuente ⚠️.
 - **Quién pregunta «¿Y el velo?»** en T2-1 (13:57): el subtítulo no
   marca quién habla ⚠️.
 
@@ -1679,31 +1701,31 @@ Inumaki.
 | 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | minutos de los subtítulos japoneses con tiempos (§2) ✅ y 12 vídeos mirados en fotogramas (§12) ✅; pero los fotogramas propios son de **512×288** (Dailymotion); a 1080p sólo los de la wiki (1920×1080) |
 | 3 · Fan art, renders 3D y modelos libres | ✅ | 15 modelos de Sketchfab con licencia de la API (6 recomprobados el 24-sep, más la pantalla de proyección), 7 obras de fan art con autor, wallhaven (§4, §17) |
 | 4 · Fondos y sitios, paleta y texturas | ✅ | 8 sitios con luz, paleta medida con Pillow (más la de la celda, el picnic y la caja de *Cursed Clash*), texturas CC0 (§5) |
-| 5 · Tipografía y letras libres con tildes | ✅ | 10 letras probadas con fontTools; la trampa de la letra del generador de logos (tildes vacías) (§6) |
+| 5 · Tipografía y letras libres con tildes | ✅ | 10 letras probadas con fontTools; la trampa de la letra del generador de logos (tildes vacías); el **logo oficial en español** de *Ejecución* (serif con tildes) (§6) |
 | 6 · Cómo hablan y piensan en pantalla | ✅ | títulos de episodio, hora y lugar, técnicas verticales, pizarra, **caja del modo historia de *Cursed Clash*** (nueva), tabla de Panda (§7) |
 | 7 · Personajes y encuestas | ✅ | las 4 encuestas oficiales; la 4.ª en dos fuentes (§9) |
 | 8 · Doblaje latino: reparto en dos fuentes y frases | ✅ reparto / ⚠️ frases | 18 voces en dos fuentes; frases textuales de 3 vías (subtítulos automáticos, Whisper sobre muestras de Doblaje Wiki, 3DJuegos). Sin clips oficiales de YouTube (bloqueado) (§10) |
 | 9 · Música | ✅ | los 10 temas de las 3 temporadas y JJK0 (comprobados en la wiki), canciones internas (§11) |
-| 10 · Vídeos con minuto exacto | ✅ | 14 vídeos con enlace y minuto (`?start=` o `&t=`); 10 mirados de nuevo el 24-sep con hojas numeradas, 9 útiles (§12) |
+| 10 · Vídeos con minuto exacto | ✅ | 15 vídeos con enlace y minuto (`?start=` o `&t=`); 11 mirados el 24-sep con hojas numeradas (10 del 2.º ayudante y el tráiler de *Ejecución* del 3.º), 10 útiles (§12) |
 | 11 · Videojuegos: interfaz y cajas | ✅ | *Cursed Clash*: pizarra, HUD hexagonal, lobby, frases rápidas y **caja del modo historia** (vistos y medidos); *Phantom Parade*: sólo arte ⚠️ (§13) |
 | 12 · Lo que ama el fandom y qué NO hacer | ✅ | 13 memes con minuto y fuente, 11 «no hacer» (§14) |
 | 13 · Descripción profunda de cada personaje | ✅ | 12 personajes y 4 de apoyo, con cómo hablan y su minuto (§8) |
-| 14 · Poses analizadas (6-10 por personaje) | ✅ | Gojo 13, Inumaki 10, Yuji 8, Sukuna 8, Panda 8, Nanami 7, Megumi 6, Nobara 6; Todo 5 ⚠️ (§15) |
+| 14 · Poses analizadas (6-10 por personaje) | ✅ | Gojo 13, Todo 11 (6 nuevas del 3.er ayudante), Inumaki 10, Sukuna 9, Yuji 8, Panda 8, Nanami 7, Megumi 6, Nobara 6 (§15) |
 | 15 · Vestuario con hex | ✅ | 10 personajes, colores medidos donde se pudo (§16) |
 | 16 · Paisajes y fondos de pantalla | ✅ | sitios con hora y luz; 8 fondos de fans en alta con autor y tamaño (§17) |
 | 17 · Guía para IA | ✅ | rasgos fijos, estilo, palabras que ayudan y que estropean, referencias con enlace, encuadre (§18) |
 | 3 conceptos de lámina | ✅ | §19: A y B para ➕ CREAR SALA, C para 🍟 General; objeto, personaje, cuadro, textos y profundidad |
-| 40 fuentes distintas | ✅ | 46 en la bitácora (§21.4) |
+| 40 fuentes distintas | ✅ | 47 en la bitácora (§21.4; el 3.er ayudante añadió Wikipedia en inglés) |
 | Tipos: oficiales | ⚠️ | tráileres y clips oficiales (en copias), Steam, web de la Jump ✅; **web oficial 403** y sin entrevistas del staff japonés leídas; sí una del director Sunghoo Park (en coreano) |
 | Tipos: otros idiomas | ✅ | japonés (subtítulos, pixiv百科, ciatr, note, eiga-manga), coreano (Xportsnews), chino (Sohu) |
-| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (JJK, Doblaje, Dubbing Database) y su foro ✅; TV Tropes y TCRF 403; Wayback corta el túnel |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (JJK, Doblaje, Dubbing Database) y su foro ✅; Wikipedia en inglés ✅; TV Tropes y TCRF 403; Wayback corta el túnel (el 3.er ayudante lo probó otra vez: «Connection reset») |
 | Tipos: foros y comunidades | ✅ | Reddit por Arctic Shift, foro de la wiki |
 | Tipos: arte (Pixiv, ArtStation, DeviantArt) | ✅ | ArtStation, X de artistas, DeviantArt (aviso de IA), pixiv百科 |
 | Tipos: vídeo | ✅ | §12 |
 | Tipos: código y recursos | ✅ | kitsunekko-mirror (GitHub), generador de logos (GitHub Pages), Sketchfab, Poly Haven, ambientCG, Google Fonts, dafont |
 | Tipos: doblaje latino | ✅ | Doblaje Wiki (API y audios), Dubbing Database, **ANMTV**, Cine Premiere, Somos Kudasai, Hero Network, Chirchi, Cultura Geek, 3DJuegos LATAM |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,80 MB, `fondos_objetos_01.jpg` 0,70 MB, `pantalla_y_letras_01.jpg` 0,78 MB (2400×1780 cada una) |
-| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 37 entradas: 28 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 9 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe) |
+| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 40 entradas: 30 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 10 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe) |
 
 ## 21 · Bitácora de búsqueda
 
@@ -1761,7 +1783,7 @@ paso a paso, y (b) las fuentes que el 1.º **dejó citadas** en la biblia.
 - Arctic Shift: 15 consultas (la mitad con «Timeout»).
 - `yt-dlp -F` (Dailymotion: un único formato 512×288); `ffprobe`.
 
-### 21.4 Fuentes consultadas (46)
+### 21.4 Fuentes consultadas (47)
 
 **Oficiales (7)**: [Crunchyroll en Español, tráiler 1](https://www.youtube.com/watch?v=aPBUUJbrAWo) ·
 [Crunchyroll en Español, clips doblados](https://www.youtube.com/watch?v=HSZPNTXO-cw) ·
@@ -1771,7 +1793,8 @@ Bandai Namco, tráiler «Special Lecture» de *Cursed Clash* ([copia](https://ww
 [Steam](https://store.steampowered.com/app/1877020/) (3 fichas por la API) ·
 [web de la Jump, votación](https://www.shonenjump.com/j/vote_jujutsu_kaisen/).
 
-**Wikis (5)**: [Jujutsu Kaisen Wiki](https://jujutsu-kaisen.fandom.com/) ·
+**Wikis (6)**: [Jujutsu Kaisen Wiki](https://jujutsu-kaisen.fandom.com/) ·
+[Wikipedia en inglés, «Crunchyroll Anime Awards»](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Awards) (3.er ayudante) ·
 [su foro](https://jujutsu-kaisen.fandom.com/f/p/4400000000000048141) ·
 [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Jujutsu_Kaisen) ·
 [Dubbing Database](https://dubdb.fandom.com/wiki/Jujutsu_Kaisen_(Latin_American_Spanish)) ·
@@ -1813,7 +1836,25 @@ Tomatazos (la copia del tráiler de JJK0, [x8x3x96](https://www.dailymotion.com/
 [ambientCG](https://ambientcg.com/list?q=paper) · Google Fonts ·
 [dafont](https://www.dafont.com/anime-ace-bb.font) · archive.org (API de disponibilidad).
 
-### 21.5 Lo que NO encontré
+### 21.5 Lo que hizo el 3.er ayudante (24-sep-2026, sin cupo de búsquedas web)
+
+Llegó con §0-§21 ya escritas. Repasó y resolvió ⚠️:
+
+| Qué | Cómo | Resultado |
+|---|---|---|
+| «Anime del Año» 2021 | API de Wikipedia (en), «Crunchyroll Anime Awards» (la 1.ª petición dio «too many requests»; con otro agente, bien) | ✅ 5.º premio, 19-feb-2021; también T2 (2024) y *JJK0* película (2023) |
+| #139, #1085, #1180 | API de la wiki (`list=search` en ficheros, `allimages`, `imageinfo`), bajados y comparados a ojo con P27, P20 y F2 | ✅ los tres; F2 era una **vista aérea**, no la entrada (corregido en §3.1 y §5); paleta re-medida |
+| Signos del dominio | wiki: «Malevolent Shrine», «Domain Expansion», «Unlimited Void» (`action=parse`); 8 imágenes miradas | ✅ Sukuna (3 fuentes); ⚠️ Megumi (1) |
+| Poses de Todo | 12 imágenes de la wiki bajadas y **miradas** en una hoja propia | 6 poses nuevas (§15) |
+| Frases del doblaje | `yt-dlp`: búsqueda de clips de Crunchyroll en Español (2 búsquedas), subtítulos del clip de Jogo (iguales a los del 2.º ayudante), audio de Nanami (403, tres intentos); `faster-whisper` instalado en la carpeta de trabajo y **sin usar** | ⚠️ sin segunda transcripción |
+| Dailymotion | API: 5 búsquedas; `fotogramas.py` sobre el tráiler de *Ejecución* (x9s6mua; xacz22o y xa2smw6 «Not found») | tráiler **mirado**: logo en español y cartelas (§6.1, §12.0) |
+| pixiv百科 «嵌合暗翳庭» | `curl` | 403 (un intento) |
+| Wayback Machine | `curl` a `web.archive.org` | «Connection reset» (un intento) |
+
+`referencias.json` pasa de 37 a 40 (logo de *Ejecución*, Sukuna con el
+sello de Enma, Todo de cuerpo entero). El `video.mp4` se borró.
+
+### 21.6 Lo que NO encontré
 
 - **Clips oficiales doblados de Inumaki y de Todo** en un sitio que
   cargue desde aquí (YouTube bloqueado).
@@ -1823,5 +1864,6 @@ Tomatazos (la copia del tráiler de JJK0, [x8x3x96](https://www.dailymotion.com/
 - **La caja de diálogo de *Phantom Parade***.
 - **Cómo funciona el bot de ➕ CREAR SALA** en este servidor (no está en
   el inventario).
-- **Las imágenes #139, #1085 y #1180** del 1.er ayudante por nombre de
-  archivo.
+- **Audio o vídeo de YouTube** (403 al bajar, 24-sep, 3.er ayudante):
+  sin él no pude pasar Whisper a los clips doblados de Crunchyroll.
+- **El dominio de Megumi en vídeo** (la copia de Dailymotion ya no existe).

@@ -1122,6 +1122,7 @@ letra**; el minuto es exacto):
 | **Kiyoko**: su 「がんばれ」 | «**Creo en ustedes**.» | mismo vídeo, **0:13** ⚠️: subtítulo automático + el título del vídeo; en el *storyboard* es el primer plano de Kiyoko sonrojada. **Oírlo antes de usarlo** |
 | **Takeda** se presenta (T1, episodio sin confirmar ⚠️) | «Este año seré el consejero del club de voleibol. Soy Takeda Ittetsu. No tengo experiencia de juego, así que no puedo ayudarles con la técnica, pero para todo lo demás estoy a sus órdenes.» | subida de fan ([Cawita Anime, «Takeda and Ukai's Voices»](https://www.youtube.com/watch?v=nIcNpNmitiE&t=8)), 0:08-0:21 ⚠️ no oficial, subtítulo automático |
 | **Ukai** se niega a entrenar | «Mi abuelo era un entrenador muy respetado, pero yo no estoy hecho para entrenar a esos niños.» | mismo vídeo, [0:34-0:41](https://www.youtube.com/watch?v=nIcNpNmitiE&t=34) ⚠️ |
+| **Nishinoya** llega al club (T1, su primera aparición; episodio ⚠️) | «¡Pero es más bajito que yo!» (0:05, quién ⚠️) · «Un metro con 59» (0:17; es su altura, 159,3 cm) · Nishinoya, por qué eligió Karasuno: «Me gusta mucho el uniforme de las chicas… y sobre todo porque el uniforme de los chicos es negro» | subida de fan ([Cawita Anime, «Voz de Yu Nishinoya»](https://www.youtube.com/watch?v=zNDbnslq8sk&t=30)), 0:30-0:41 ⚠️ subtítulo automático bajado hoy; el vídeo no se dejó bajar, así que **no vi quién habla** |
 | Punto final contra Shiratorizawa (T3) | «El que ríe al último ríe mejor.» · «Balón libre.» | subida de fan ([isra_el_98](https://www.youtube.com/watch?v=3tHfaS79pEQ&t=24)), 0:24-0:27 ⚠️ quién |
 
 **Ojo**: lo de «subida de fan» es el audio del doblaje oficial, pero
@@ -1228,10 +1229,16 @@ s, hojas numeradas con el minuto), y abrí cada hoja. Los enlaces llevan
 - [«¡Así se escucha Haikyu en latino!»](https://www.youtube.com/watch?v=_0dfw978fCA) (1:40) y
   [«Voces en latino de Tsuki y Yamaguchi»](https://www.youtube.com/watch?v=__0Xo2WkT0A) (2:34),
   de **Crunchyroll en Español**: frases en §10.4.
-- Otros clips oficiales doblados que existen (vistos en la búsqueda y
-  en Doblaje Wiki, **no pude bajarlos**): [«¡No vayas a chocar con el techo, Jirafales!»](https://www.youtube.com/watch?v=LAo7Q3nnYZQ) (1:51),
-  [«No me parece que este chico sea muy listo»](https://www.youtube.com/watch?v=k6O6NXXG2Ws) (1:57),
-  [«Un partido de voleibol que da una lección de vida» (*TO THE TOP*)](https://www.youtube.com/watch?v=Ok_yGJ5h0Hk) (2:38; «no disponible en tu país» desde aquí).
+- Otros dos clips oficiales doblados, de los que **leí el subtítulo
+  automático** (frases en §10.4) pero **no vi la imagen**:
+  [«¡No vayas a chocar con el techo, Jirafales!»](https://www.youtube.com/watch?v=LAo7Q3nnYZQ) (1:51; hoy medido
+  con `yt-dlp -j`: 1920×1080, canal Crunchyroll en Español) y
+  [«No me parece que este chico sea muy listo»](https://www.youtube.com/watch?v=k6O6NXXG2Ws) (1:57).
+- [«Un partido de voleibol que da una lección de vida» (*TO THE TOP*)](https://www.youtube.com/watch?v=Ok_yGJ5h0Hk) (2:38): «no disponible en tu país» desde aquí.
+- La búsqueda de hoy en YouTube (`ytsearch`, «Haikyu doblaje latino
+  Crunchyroll Bokuto») **no da ningún clip oficial doblado de Bokuto**;
+  sí subidas de fan con la voz latina de Nishinoya, Oikawa, Daichi,
+  Sugawara y Tanaka (canal Cawita Anime).
 - [Tráiler oficial de Sony Pictures México](https://www.youtube.com/watch?v=Pq-DP6WcvUY) (1:30) y los de
   [Colombia](https://www.youtube.com/watch?v=EzHcteXhDRA) y [Argentina](https://www.youtube.com/watch?v=PYbhJe7uTiI).
 
@@ -1771,12 +1778,219 @@ al fondo.
 
 ## 20 · Lo que no pude verificar
 
-(pendiente)
+Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
+
+**Doblaje latino (lo más urgente antes de hacer una lámina)**
+- **Las frases dobladas de las escenas clave no las oí**: el 「飛べ」
+  (T1-14, *streaming* 19:32), el «¡Hey, hey, heeey!» de Bokuto (T2-04,
+  11:26), el «Su espalda la cuido yo» de Nishinoya (T1-16, 21:39) y el
+  «¡No miren al suelo!» de Ukai (T3-08, 21:51). No hay clip oficial
+  doblado en YouTube. **Oírlas en Crunchyroll** y copiarlas tal cual.
+- El «**Creo en ustedes**» de Kiyoko sale sólo del subtítulo automático
+  de una subida de fan. Oírlo antes de usarlo.
+- Varias frases de §10.4 no tienen **episodio** confirmado o no sé
+  **quién habla** (recopilatorios y subidas de fan).
+- **Satori Tendō = Josué Alher**: sólo Doblaje Wiki lo pone con
+  personaje; en los créditos de Max sale en «voces adicionales».
+- Las **entrevistas a los actores** (Funianime, ANISON USA): no pude
+  bajar sus subtítulos, así que no cito nada de ellas.
+
+**Vídeo e imagen**
+- **YouTube bloqueó la IP** en las dos sesiones (hoy también: «Sign in
+  to confirm you're not a bot»). Sin mirar: el **opening 1 limpio**, el
+  PV de *TOUCH THE DREAM*, los fandubs y las tendencias de TikTok con
+  minuto.
+- Los vídeos de Dailymotion son de **512×288**: sirven para poses, luz y
+  color, **no para recortar**. En alta sólo hay arte y fotogramas de la
+  wiki (§3, `referencias.json`).
+- **Bilibili** no respondió: no vi el clip chino de Nishinoya.
+- **Fondos oficiales**: `haikyu.jp` está detrás de Cloudflare (403); no
+  sé si ofrece fondos de pantalla.
+
+**Tipografía**
+- La letra de los globos de la **edición mexicana de Panini**: no vi
+  páginas por dentro.
+- ✅ **Resuelto hoy**: Anime Ace 2.0 BB **no trae ¿ ni ¡** (§6.2). Se
+  cambia por Comic Neue Bold.
+
+**Videojuegos**
+- **The Cutting Room Floor**: 403 directo y la Wayback Machine cortó la
+  conexión (dos intentos también hoy). No sé si tiene páginas de los
+  juegos de Haikyuu!!.
+- **HAIKYU QUEST**: no sé quién es cada personaje del *pixel art*.
+- **FLY HIGH**: no encontré si trae textos en español.
+
+**Staff y objetos**
+- No encontré entrevista del diseñador de personajes **Takahiro
+  Kishida** sobre la serie.
+- **Yuki Hayashi** no habla de temas concretos de Haikyuu!! en la
+  entrevista que encontré.
+- Que el estandarte 「飛べ」 lo hicieran **los antiguos alumnos**: no lo
+  encontré.
+- Los **marcapáginas-estandarte** del libro *Shōsetsuban!!*: una sola
+  fuente (Nijimen).
+
+**Minutos**
+- Las escenas que **no están en la tabla 2.0** llevan el minuto del
+  Blu-ray: hay que sumar ~1:31 y comprobarlo en el vídeo.
+
+**Canal y herramientas**
+- **#reto-de-la-semana** también lo pide la biblia de Naruto: decide el
+  dueño.
+- **#postulaciones** es privado: la lámina C sólo sirve si la ve quien
+  postula. El texto del foro de #reto-de-la-semana está **cortado** en
+  `servidor/inventario.md`.
+- **Firefly y Canva**: no comprobé qué permite cada una con imágenes de
+  referencia.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+✅ hecho · ⚠️ a medias · ❌ no hecho.
+
+**Los 17 puntos de «Qué investigar»**
+
+| # | Punto | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | 3.943 imágenes indexadas, ~90 bajadas: carteles, calendario de señas, hojas de modelo, portadas de tomos y capítulos, arte de juegos (§3). Faltan portadas de **singles y Blu-ray** |
+| 2 | Fotogramas icónicos en 1080p con minuto | ⚠️ | Los minutos, sí (tabla 2.0). Pero los fotogramas vistos son de Dailymotion, **512×288**. En 1080p sólo los de la wiki (T1-02, 1920×1080) |
+| 3 | Fan art y 3D con licencia | ✅ | 15 modelos de Sketchfab con licencia y autor, Poly Haven CC0, fan art de Pixiv y ArtStation con autor (§4) |
+| 4 | Sitios, paleta y texturas | ✅ | 9 sitios con luz; 25 colores medidos con Pillow; texturas de Poly Haven (§5) |
+| 5 | Tipografía con letra libre y tildes | ✅ | 15 letras abiertas con fontTools. Hoy: **Anime Ace no trae ¿ ni ¡**, sustituida por Comic Neue. Sin ver la letra de Panini (§6) |
+| 6 | Cómo hablan en pantalla | ✅ | Caja del juego de 3DS, pizarra del tutorial, globo del manga, cartelas, HAIKYU QUEST, todo visto con minuto (§7) |
+| 7 | Personajes y encuestas | ✅ | Encuestas de Jump, Japón 2024 y 2026, AniList; confirmadas en coreano y chino (§9). MyAnimeList no respondió |
+| 8 | Frases del doblaje y actores | ⚠️ | 22 voces, cada una en dos fuentes (§10.2). Frases textuales de 5 clips, pero **las de las escenas clave no las oí** (§10.4) |
+| 9 | Música | ✅ | Todos los OP y ED, OST con nombres de escena, qué pega a cada lámina (§11). El audio no lo analicé |
+| 10 | Vídeos con minuto | ✅ | 17 vídeos mirados con `?t=` (§12). TikTok sin minutos (no se deja leer) |
+| 11 | Videojuegos y su interfaz | ⚠️ | 7 juegos; la caja y la pizarra de *Tsunage* vistas. **TCRF bloqueada** (403) y *TOUCH THE DREAM* sin ver (§13) |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 13 cosas con episodio y minuto; 11 «no hacer» (§14) |
+| 13 | Descripción profunda de personajes | ✅ | Los 5 del encargo y 10 secundarios: carácter, miedo, cómo habla, con quién (§8) |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Hinata 8, Kageyama 6, Nishinoya 7, Oikawa 7, Bokuto 7, con su función (§15) |
+| 15 | Vestuario | ✅ | 10 trajes con hex, peinados y accesorios (§16) |
+| 16 | Paisajes y fondos de pantalla | ⚠️ | Sitios por hora del día, sí. Fondos **oficiales** no (haikyu.jp da 403); de fans, 5 de Wallhaven (§17) |
+| 17 | Guía para la IA | ✅ | Estilo, rasgos fijos, paleta, palabras que ayudan y estropean, 3 encargos listos (§18). Sin probar Firefly ni Canva |
+
+**Lo demás que pide el encargo**
+
+| Qué | Estado | Por qué |
+|---|---|---|
+| 3 conceptos de lámina | ✅ | Marcador (A), pizarra (B), formulario (C), cada uno con canal, objeto para Blender, pose, cuadro, textos y profundidad (§19) |
+| Canal propuesto | ✅ | #reto-de-la-semana, con dos reservas; choque con Naruto avisado (§0) |
+| Mínimo 40 fuentes | ✅ | Unas 50 distintas (lista en §21) |
+| Vídeos: opening, ending, tráiler y 3 escenas | ✅ | OP2, ED1, OP de T4, 2 tráileres, 5 escenas y 3 vídeos de juegos, fotograma a fotograma (§12.1) |
+| Colores medidos con Pillow | ✅ | Todos con su fotograma o imagen de origen (§5.2) |
+| Frases latinas textuales con vídeo y minuto | ⚠️ | Sí de los clips de Crunchyroll y de subidas de fan; faltan las escenas clave (§10.4) |
+| Fuentes oficiales (web, staff, artbooks) | ✅ | Entrevistas a Furudate, Mitsunaka y Hayashi en japonés; KLab; TOHO; Crunchyroll; créditos de Max (§3.5). No hay entrevista de Kishida |
+| En otros idiomas | ✅ | Japonés (6 webs), coreano (Ruliweb), chino (Niusnews). Bilibili no abrió |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Haikyuu!! Wiki (inglés y español) y Doblaje Wiki por API, sí. **TV Tropes y TCRF dan 403**; la Wayback cortó la conexión (dos intentos cada una) |
+| Foros y comunidades | ⚠️ | Reddit (Arctic Shift), Wallhaven, meme.com. Sin Discord, 4chan ni Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Los tres, con autor; DeviantArt descartado por estar lleno de IA (§4.3) |
+| Vídeo (análisis, staff, TikTok) | ✅ | WatchMojo, TOHO, Crunchyroll, entrevistas latinas localizadas. TikTok sin minutos |
+| Código y recursos | ✅ | kitsunekko-mirror y google/fonts en GitHub, Sketchfab, Poly Haven, dafont |
+| Doblaje latino (DW, ANMTV, créditos) | ✅ | Doblaje Wiki por API, 2 artículos de ANMTV, Bubbleblabber, wiki en español, créditos de Max leídos |
+| `hojas/` (máx. 3 JPEG < 3 MB) | ✅ | 3 hojas propias: 0,5 MB, 0,6 MB y 1,0 MB, cada número descrito (§3.1) |
+| `referencias.json` (20-40, medidas) | ✅ | 37 entradas; las 24 de la wiki medidas con Pillow tras bajarlas; los vídeos con `yt-dlp -j` |
 
 ## 21 · Bitácora de búsqueda
 
-(pendiente)
+**Aviso.** La biblia se hizo en **dos sesiones**. La primera (S1) se
+cortó por el límite de uso y **no guardó su lista de búsquedas**: lo de
+S1 está reconstruido de las fuentes que cita la biblia. Lo de hoy (S2)
+es exacto. En S2 **no usé el buscador web** (0 de 50): todo fue por API
+o descarga directa.
+
+### Búsquedas y consultas por idioma (S1, reconstruidas)
+
+- **Japonés**: entrevistas a 古舘春一 (Jump Manga-shō vol. 4 y 9;
+  resumen de *Yomiuri* en Nijimen), a 満仲勧 (Animate Times, MANTANWEB),
+  a 林ゆうき (4Gamer); 岸田隆宏 + ハイキュー (**sin resultado útil**);
+  ハイキュー 人気投票 (sagisi4, Anime!Anime!, Animate Times 2026);
+  横断幕しおり (Nijimen); etiqueta de Pixiv 「ハイキュー!!1000users入り」.
+- **Inglés**: *Haikyu character poll* (Anime News Network); r/haikyuu
+  «banner font» y «banner resonate» (Arctic Shift); Sketchfab
+  *volleyball*, *whiteboard*, *banner*, *scoreboard*, *clipboard*,
+  *crow*, *school gym*; Poly Haven (texturas y HDRI); Wallhaven
+  «haikyuu!!» y «karasuno»; ArtStation «haikyuu»; KLab *FLY HIGH*.
+- **Español**: *Haikyu doblaje latino* (ANMTV, Bubbleblabber);
+  Crunchyroll en Español (clips doblados); *Haikyuu Panini México*
+  (Geekmi, Facebook de Panini); entrevistas de Funianime y ANISON USA.
+- **Coreano**: 하이큐 인기투표 (Ruliweb); 하이큐!! TOUCH THE DREAM.
+- **Chino**: 排球少年 人气投票 (Niusnews); 西谷 背后 en Bilibili (no abrió).
+- **Por API**: Haikyuu!! Wiki (fichas, galerías, categorías *Music* y
+  *Games*, `imageinfo`); Doblaje Wiki (`action=parse` de la serie y la
+  película); AniList (GraphQL); Jikan/MyAnimeList (**504**).
+- **Subtítulos**: los 85 episodios y la película del kitsunekko-mirror
+  (Blu-ray, Netflix y Amazon), buscados por frase en japonés.
+- **Vídeo**: 16 vídeos de Dailymotion con `fotogramas.py`; 2 clips de
+  YouTube con subtítulos antes del bloqueo; *storyboard* de una subida
+  de fan.
+
+### Lo que hice hoy (S2, exacto)
+
+| Qué | Resultado |
+|---|---|
+| API de Fandom, `imageinfo` de unos 50 archivos y 9 búsquedas en el espacio `File:` («Hinata model sheet», «Bokuto drama CD», «Chapter 209 color»…) | encontré las hojas de modelo (`Hinata character concept01.jpg`, 2048×1448) y la de Bokuto (`Bokuto CD.jpg`) |
+| Bajé 24 imágenes de la wiki y las **medí con Pillow** | las 24 coinciden con la API; las miré en una hoja de trabajo |
+| `yt-dlp -j` a 11 vídeos de Dailymotion | 10 de 512×288 y 1 de 320×184 |
+| `fotogramas.py`: Best Episode 9 (0:39, 1:39), tutorial (0:15, 0:31), presentación del juego (3:30) 👁 | confirmado; corregí la pose de Bokuto en 1:39 (§3.1, §15) |
+| YouTube: `yt-dlp -j` y subtítulos | 2 intentos «iniciar sesión»; el 3.º funcionó (clip «Jirafales», 1920×1080); luego **429** |
+| Búsqueda en YouTube por `ytsearch` (doblaje latino) | aparecen subidas de fan con la voz latina de Nishinoya y Oikawa (Cawita Anime); sin clip oficial de Bokuto |
+| dafont: Anime Ace 2.0 BB | 1.er enlace dio 404; con el bueno, **no trae ¿ ni ¡** |
+| google/fonts: GitHub directo **403**; por jsDelivr, bien | Comic Neue Bold y M PLUS Rounded 1c: ✅ todo |
+| API de Wallhaven y notas de prensa de KLab | medidas: 2560×1440 y 800×450 |
+| TCRF | **403** directo; la Wayback cortó la conexión |
+| TV Tropes | **403** directo; hay copia en la Wayback (24-jul-2026) pero **cortó la conexión** |
+
+### Fuentes consultadas (unas 50)
+
+- **Oficiales y staff**: [Jump Manga-shō](https://www.jump-mangasho.com/interview/furudate-sensei-vol9/) ·
+  [Animate Times](https://www.animatetimes.com/news/details.php?id=1707793814) ·
+  [MANTANWEB](https://mantan-web.jp/article/20240216dog00m200029000c.html) ·
+  [4Gamer](https://www.4gamer.net/games/991/G999108/20250821048/) ·
+  [KLab](https://www.klab.com/en/press/release/2025/0801/flyhigh.html) ·
+  TOHO animation (YouTube) · Crunchyroll en Español (YouTube) · Sony
+  Pictures México (tráiler) · créditos de Max en pantalla (vía Doblaje Wiki).
+- **En japonés, coreano y chino**: [Nijimen](https://nijimen.kusuguru.co.jp/topics/137872) ·
+  [Anime!Anime!](https://animeanime.jp/article/2024/04/29/84117.html) ·
+  [sagisi4](https://sagisi4.sakura.ne.jp/haguruma/HQ/hq10.html) ·
+  [Ruliweb](https://bbs.ruliweb.com/family/212/board/300277/read/1499237) ·
+  [Niusnews](https://www.niusnews.com/=P2p655s6) ·
+  [Bilibili](https://www.bilibili.com/video/BV1FD4y1E7Mk/) (no abrió) ·
+  [Anime News Network](https://www.animenewsnetwork.com/interest/2014-08-29/hinata-tops-weekly-shonen-jump-haikyu-character-poll/.7813).
+- **Wikis**: [Haikyuu!! Wiki](https://haikyuu.fandom.com/wiki/Haiky%C5%AB!!_(Manga)) ·
+  [Haikyuu!! Wiki en español](https://haikyuu.fandom.com/es/wiki/Actores_de_doblaje_(Latinoamerica)) ·
+  [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Haikyu!) · TV Tropes
+  y TCRF (bloqueadas) · Wayback Machine (cortada).
+- **Foros y comunidades**: Reddit r/haikyuu (Arctic Shift) ·
+  [Wallhaven](https://wallhaven.cc) · [meme.com](https://meme.com/memes/haikyuu) ·
+  [TikTok](https://www.tiktok.com/discover/haikyuu-oya-oya-oya).
+- **Arte**: [Pixiv](https://www.pixiv.net/artworks/146765538) ·
+  [ArtStation](https://www.artstation.com/artwork/wy48g) · DeviantArt
+  (RSS) · X/Twitter ([96yottea](https://twitter.com/96yottea)).
+- **Vídeo**: Dailymotion (Gamekult, HobbyConsolas, WatchMojo, Sensacine
+  México, resubidas de TOHO y de fans) · YouTube (Funianime, ANISON USA,
+  Cawita Anime, isra_el_98, JUST TANAKA, James Mart).
+- **Código y recursos**: [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror) ·
+  [google/fonts](https://github.com/google/fonts) (y su copia en jsDelivr) ·
+  [Sketchfab](https://sketchfab.com) (API) · Poly Haven (API) ·
+  [dafont](https://www.dafont.com/anime-ace-bb.font) · AniList (API) ·
+  Jikan (caída).
+- **Doblaje latino**: Doblaje Wiki (API) ·
+  [ANMTV](https://www.anmtvla.com/2022/09/crunchyroll-estrena-el-doblaje-al.html) ·
+  [Bubbleblabber](https://latam.bubbleblabber.com/2025/04/haikyuu-crunchyroll-lanza-el-doblaje-latino-de-la-cuarta-temporada/) ·
+  Funianime · ANISON USA.
+- **Prensa en español**: [Geekmi](https://www.geekmi.news/comics/-Finalmente-el-manga-de-Haikyuu-llegara-a-Panini-Mexico-20211024-0037.html) ·
+  [Panini Manga MX](https://www.facebook.com/PaniniMangaMx/photos/a.204322466414128/1879176568928701/?type=3).
+
+### Lo que NO encontré
+
+Está entero en §20. Lo principal: las **frases dobladas** de las escenas
+clave, una **entrevista de Takahiro Kishida**, **fondos oficiales**, las
+páginas de **TCRF y TV Tropes**, y la **letra de Panini**.
+
+### Confirmado y dudoso
+
+- ✅ **Confirmado** (dos fuentes o visto con minuto): los minutos de la
+  tabla 2.0, las 22 voces latinas, las encuestas, los colores medidos,
+  las letras comprobadas, los tamaños de `referencias.json`.
+- ⚠️ **Dudoso** (una fuente o sin comprobar): lo marcado con ⚠️ en la
+  biblia, reunido en §20.
