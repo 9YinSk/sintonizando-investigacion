@@ -72,7 +72,9 @@ Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer rese
    míralas** (`--fotograma <segundo>` saca uno en grande).
    Si YouTube da 429 o pide «iniciar sesión» (es por ratos: somos varios
    ayudantes con la misma IP), espera 3-5 minutos y reintenta, de uno en uno.
-   Plan B: los *storyboards* de YouTube, marcando el minuto como ±2 s. Borra el
+   Plan B: el mismo clip oficial en Dailymotion o Internet Archive
+   (fotogramas.py lee cualquier sitio que lea yt-dlp; así lo hizo el repaso
+   de Harry Potter). Plan C: los *storyboards* de YouTube, marcando el minuto como ±2 s. Borra el
    `video.mp4` cuando ya tengas las hojas: el disco es compartido.
 2. Lo que escribas de poses, gestos, ropa, luz, encuadres y tipografía en
    pantalla sale de lo que viste, con **minuto y enlace `&t=`**. Las poses del
