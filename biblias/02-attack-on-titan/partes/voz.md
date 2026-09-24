@@ -255,6 +255,19 @@ la wiki en inglés y digo cuándo es traducción nuestra.
   Dream»](https://attackontitan.fandom.com/wiki/A_Long_Dream_(Episode)).
   Minuto exacto: **no verificado** (⚠️) — es la escena que cierra el
   episodio, tras la pelea final entre el Titán de Ataque y el Colosal.
+- **Minuto exacto, ya verificado ✅** — subtítulos japoneses de Netflix del
+  mismo espejo de kitsunekko en GitHub, archivo
+  [`Shingeki no Kyojin. The Final Season - Kanketsu-hen Kouhen/進撃の巨人.S07E93.長い夢.WEBRip.Netflix.ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin.%20The%20Final%20Season%20-%20Kanketsu-hen%20Kouhen):
+  la fantasía de la cabaña, con Eren pidiéndole «俺が死んだら このマフラーは
+  捨ててくれ… 俺のことは忘れて 自由になってくれ» («si muero, tira esta
+  bufanda… olvídate de mí y sé libre»), va de **16:39 a 17:03**; la respuesta
+  de Mikasa, **17:25-17:29**: «ごめん… できない» («Perdón… no puedo»). Entra
+  por la boca del titán a los **17:32-18:04** («¡Eren está en la boca!»,
+  llama «¡Eren!»). Después no hay ni una línea de diálogo —sólo música— hasta
+  su última frase, a los **18:53-18:57**: «いってらっしゃい、エレン»
+  («Que te vaya bien, Eren» / «Nos vemos, Eren»), la despedida que dice justo
+  al besar la cabeza cortada, antes de que el capítulo salte a la escena de
+  Armin cuatro años después.
 - **Qué pasa**: en pleno combate, Mikasa tiene una visión de una vida junto a
   Eren en una cabaña de montaña; él le pide que, cuando muera, tire la
   bufanda y lo olvide. Ella no puede prometerlo. De vuelta en la batalla, se
@@ -288,6 +301,15 @@ la wiki en inglés y digo cuándo es traducción nuestra.
 - **Capítulo · minuto**: **ep. 67 «Assassin's Bullet»**, estrenado el
   1-feb-2021 ✅ [Fandom, «Assassin's Bullet»](https://attackontitan.fandom.com/wiki/Assassin%27s_Bullet_(Episode)).
   Minuto exacto: **no verificado** (⚠️).
+- **Minuto exacto, ya verificado ✅** — subtítulos japoneses de Netflix del
+  mismo espejo de kitsunekko en GitHub, archivo
+  [`Shingeki no Kyojin. The Final Season/進撃の巨人.S05E67.凶弾.WEBRip.Netflix.ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin.%20The%20Final%20Season):
+  **13:26** el disparo (銃声) y **13:27** el impacto (着弾音); a los 13:29
+  Jean se queda helado, a los 13:32 Sasha cae y a los **13:43** Connie grita
+  «サシャ！» («¡Sasha!»). Ya desangrándose, a los **14:24-14:28** pregunta
+  «ご飯は まだですか…» («¿Ya está lista la comida…?») y su última palabra,
+  a los **14:36-14:37**, es «肉…» («…carne»), tal cual la cita ya la biblia
+  de abajo.
 - **Qué pasa**: Gabi (una niña soldado enemiga) dispara a bocajarro a Sasha
   dentro de un dirigible, en plena celebración por una victoria. Sasha,
   desangrándose, pregunta delirando si van a comer pronto y termina la frase
@@ -536,11 +558,11 @@ pedir «sonriendo mucho» para estos personajes salvo Hange).
   para una ficha tipo «datos curiosos», valdría revisar el *artbook* japonés
   *Character Encyclopedia* directamente (no está indexado en la wiki en
   inglés) o preguntar en foros japoneses de la serie.
-- ⚠️ Minuto exacto (no sólo episodio) de las tres escenas de 21.2-21.4: no
-  tuve subtítulos con marca de tiempo de esos episodios concretos (los que
-  ya usa la biblia son de otros capítulos). Búsquedas: miré si el mismo
-  espejo de kitsunekko (ya usado en la biblia, §3) cubre los eps. 55, 67 y
-  93 — no volví a bajarlo por presupuesto de esta tanda corta.
+- ~~⚠️ Minuto exacto (no sólo episodio) de las tres escenas de 21.2-21.4~~ —
+  **resuelto ✅** en la siguiente tanda: sí bajé (con `git clone
+  --filter=blob:none --sparse`) los subtítulos japoneses de Netflix del
+  mismo espejo de kitsunekko de la biblia (§3) para los eps. 55, 67 y 93, y
+  ya están el minuto y la cita exacta en 21.2, 21.3 y 21.4 de arriba.
 - ⚠️ Fotograma propio de rabia de Hange, miedo de Hange/Mikasa/Eren y
   vergüenza de Hange/Eren (tabla 13.2): busqué en las hojas ya hechas y en
   la wiki (`action=query&list=search`) sin encontrar una imagen clara con
@@ -588,9 +610,19 @@ pedir «sonriendo mucho» para estos personajes salvo Hange).
   `curl -A "Mozilla/5.0" -e "https://www.fandom.com/"` (cabecera Referer
   obligatoria, si no da 403) — las miré con Read antes de citarlas, no las
   supongo por el nombre de archivo.
-
-Sigue: conseguir el **minuto exacto** (no sólo el episodio) de las tres
-escenas que hacen llorar (21.2 Erwin ep. 55, 21.3 Mikasa ep. 93, 21.4 Sasha
-ep. 67) — bajando el espejo de subtítulos japoneses de kitsunekko en GitHub
-para esos tres episodios, igual que ya hizo la biblia en su §3, y cruzándolo
-con el resumen wiki que ya tengo aquí para ubicar la línea exacta.
+- **Espejo de kitsunekko en GitHub** (`Ajatt-Tools/kitsunekko-mirror`, el
+  mismo que la biblia usa en su §3): `git clone --depth 1 --filter=blob:none
+  --sparse` y luego `git sparse-checkout set --no-cone /subtitles/anime_tv`
+  para bajar sólo los subtítulos de anime TV (7.8 GB, sin vídeo). Dentro
+  localicé por nombre de carpeta y de archivo los subtítulos japoneses **de
+  Netflix** (`ja[cc]`, con número de episodio y título japonés en el propio
+  nombre) para los tres capítulos: `Shingeki no Kyojin 3 Part 2` (ep. 55,
+  «白夜» = Midnight Sun), `Shingeki no Kyojin. The Final Season` (ep. 67,
+  «凶弾» = Assassin's Bullet) y `Shingeki no Kyojin. The Final Season -
+  Kanketsu-hen Kouhen` (ep. 93, «長い夢» = A Long Dream) — los tres títulos
+  japoneses coinciden con los títulos en inglés que ya cita la biblia,
+  confirmando el episodio correcto. Leí cada `.srt` completo con Python
+  (nunca de un tirón por pantalla) filtrando por palabra clave (父/壁の外
+  para Erwin, 肉/銃声 para Sasha, マフラー/忘れ para Mikasa) para ubicar el
+  bloque con marca de tiempo; los minutos y las citas japonesas de 21.2,
+  21.3 y 21.4 salen de ahí.
