@@ -104,7 +104,7 @@ Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda 
 > Haz la tanda S8 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/29-por-decidir-seis-canales-sin-serie.md`, `encargos/30-naruto.md`, `encargos/31-demon-slayer-kimetsu-no-yaiba.md`, `encargos/32-jujutsu-kaisen.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 29-por-decidir-seis-canales-sin-serie
-- [ ] 30-naruto
+- [x] 30-naruto
 - [ ] 31-demon-slayer-kimetsu-no-yaiba
 - [ ] 32-jujutsu-kaisen
 
