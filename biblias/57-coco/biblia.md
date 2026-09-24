@@ -615,5 +615,212 @@ Medido con `estilo.py`, recortando antes al personaje para no medir el fondo.
 - **De fans, 3840×1600**, con Dante, 13 favoritos, etiquetas `Coco (movie)` y `Pixar Animation Studios` ✅: https://w.wallhaven.cc/full/m9/wallhaven-m981jm.jpg (ficha: https://wallhaven.cc/w/m981jm). Autor no identificado ⚠️.
 - **Oficiales en alta** que sirven de fondo: el fotograma 4K de Imelda (3840×1600), «Miguel Guitar» (4096×1715), «Coco Balcony» (3000×2119) y el primer still (3863×1715) (§1).
 - ⚠️ **Wallhaven con «Coco» a secas** trae casi sólo a la VTuber Kiryu Coco: buscar «Coco Pixar» o la etiqueta `Coco (movie)`.
-- ❌ No se encontró un pack oficial de fondos de pantalla de Disney o Pixar.
+- ⚠️ No se encontró un pack oficial de fondos de pantalla de Disney o Pixar (búsqueda «wallpaper oficial Pixar»).
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Escrita por el redactor con todo lo anterior. Sirve para Firefly, Canva o una IA de texto.
+
+### 17.1 IA de imagen
+
+**Qué es Coco, en una frase para la IA:** animación 3D de Pixar, sin línea de contorno, sombreado suave con degradado, piel con transluminación, luz de vela cálida contra noche violeta, Día de Muertos mexicano alegre y familiar.
+
+**Rasgos que nunca cambian**
+- **Miguel:** niño mexicano de 12 años, piel morena, pelo negro, ojos marrones, sudadera roja con capucha; de charro rojo con guitarra blanca en el escenario; cara pintada de calavera en el otro mundo. Las etiquetas de Danbooru añaden un lunar sobre la boca (`mole_above_mouth`) ⚠️ comprobar en A4 o A9.
+- **Héctor:** esqueleto flaco, huesos color hueso cálido `#D1AD67`, sombrero de paja, saco malva `#70546C`, pañuelo rojo, tirantes a rayas rojo y blanco, pantalón a rayas marrón y dorado. Vivo (A5, A6): joven, delgado, pelo negro.
+- **Mamá Coco:** anciana muy arrugada, trenzas canas, rebozo naranja `#9E5940`, vestido crema bordado, silla de ruedas de mimbre.
+- **Ernesto:** esqueleto con traje de mariachi blanco y guitarra blanca con calavera.
+- **Imelda:** esqueleto con vestido morado. **Abuelita:** señora mayor con la chancla en la mano (ver 17:56 en la hoja de emociones).
+- **Dante:** xoloitzcuintle sin pelo, lengua colgando de lado. **Pepita:** jaguar alado de alebrije, colores fosforescentes.
+
+**Paleta:** interior cálido `#A13921` `#6C2A18` `#C66F41` `#FEF8DB` · noche violeta `#492D41` `#5D4776` `#7172CA` · pétalo `#D36C2E` · escenario `#282849` `#3F4E90` `#AF3562`.
+
+**Luz y encuadre**
+- Tierra de los Muertos: **luz cálida cerca** (velas, farolas) y **fondo frío y saturado** con ciudad desenfocada (bokeh).
+- Santa Cecilia: **sol duro de mediodía**, sombras marcadas, polvo en el aire, colores apagados.
+- Los stills oficiales son **panorámicos** (1920×800, 4096×1715): plano ancho con el personaje a un lado y el mundo detrás.
+
+**Palabras que ayudan** (en inglés, que es como mejor entienden Firefly y Canva): `Pixar 3D animation style`, `Coco 2017 Pixar film`, `Día de Muertos`, `marigold petals` o `cempasúchil`, `papel picado banners`, `ofrenda altar with candles and old photos`, `alebrije`, `sugar skull face paint`, `charro suit`, `rebozo`, `Guanajuato stacked colorful houses`, `warm candlelight`, `violet night sky`, `soft volumetric light`, `subsurface scattering`, `bokeh city lights`. Etiquetas de Danbooru para Miguel: `dark_skin`, `black_hair`, `brown_eyes`, `hood`, `acoustic_guitar`, `playing_instrument`, `closed_eyes`, `petals`, `marigold`, `cempoalxochitl`, `calavera`, `charro`, `sombrero`, `mexican_clothes`, `glowing`.
+
+**Palabras que lo estropean**
+- `anime`, `manga`, `cel shading`, `toon shader`, `lineart`, `outline`: Coco no tiene línea.
+- `Halloween`, `spooky`, `creepy`, `horror`, `gothic`, `Tim Burton`: los esqueletos de Coco son **creíbles y entrañables, no espeluznantes** (así lo planteó el equipo en SIGGRAPH 2018).
+- `wooden puppet` o «estilo *El libro de la vida*»: es otra película, con otro estilo (§24).
+- **«Coco» a secas**: salen la VTuber Kiryu Coco, Coco Bandicoot, El Coco (el Hombre del Saco) o Coco Chanel.
+
+**Imágenes para dar a la IA**
+- De **estilo y luz:** A4 (Miguel entre pétalos), B5 (Miguel ante la ofrenda), F2 (balcón), «Coco Balcony» y el cuarto de Mamá Coco (hoja de emociones, 1:31:52 y 1:33:07).
+- De **pose:** A2 (Héctor presenta), F3 (dúo en el escenario), B7 y B8 (Miguel de charro con la banda), la tabla de §14.
+- De **personaje en fondo blanco:** A2 (Héctor), B1 (Pepita), `Mamacoco.jpg`.
+
+**Cómo pedir cada gesto** (Coco no usa gotas de sudor, fondos de emoción ni *chibi*: los gestos son de actuación realista de Pixar)
+
+| Emoción | Qué pedir | Fotograma de referencia |
+|---|---|---|
+| Alegría | ojos cerrados tocando la guitarra, o sonrisa grande con ojos brillantes | tráiler doblado 0:22 · Mamá Coco 1:33:07 · Héctor 1:34:29 |
+| Rabia, regaño | dedo señalando, cuerpo hacia delante; o boca abierta con la mano en el pecho | Imelda 33:20 · Abuelita 17:56 |
+| Tristeza | manos en la cara, ojos húmedos; o mirada ausente de perfil | Miguel 1:27:54 · Mamá Coco 1:31:52 |
+| Miedo | manos en la boca, ojos muy abiertos; o manos en alto retrocediendo | Miguel 23:40 · Ernesto 1:26:40 |
+| Vergüenza | mirada baja, hombros hundidos | Miguel 18:14 |
+| Pensar | ceño fruncido mirando un objeto | Mamá Coco 1:29:00-1:29:40 |
+
+### 17.2 IA de texto: sus diálogos, en su voz
+
+**Reglas generales**
+- Es **doblaje mexicano**: ustedes, nunca vosotros. Signos de apertura siempre (¡ ¿).
+- Frases cortas y con emoción. En la lámina, una idea por texto y sin «·», «—» ni paréntesis (regla 4 del dueño).
+- Las exclamaciones se **repiten** cuando alguien manda o se desespera: «¡Sin música! ¡Sin música!».
+- Coco no usa onomatopeyas escritas: la emoción va en la frase, no en un «¡BAM!».
+
+**Cómo habla cada uno**
+- **Miguel:** apasionado y atropellado; suplica a la familia; cuando algo importa, directo y despacio.
+- **Héctor:** labia de vendedor; encadena exclamaciones para convencer; pide favores y promete compensar; apodos y diminutivos; se ríe nervioso si miente; suelta «¡Epa!».
+- **Abuelita:** órdenes cortas y repetidas a gritos; cuida con comida («come más tamales»).
+- **Imelda:** solemne y lenta; cuando se emociona **baja la voz**.
+- **Ernesto:** frases de póster motivador, de ídolo de masas.
+- **Mamá Coco:** muy lenta, entrecortada, repite palabras.
+- **Dante:** no habla. Nunca le pongas texto.
+
+**Frases reales por emoción** (textuales; fuente en §6 y §8)
+
+| Emoción | Frase | Quién |
+|---|---|---|
+| **Alegre** | «¡Epa! Now, THAT'S worth a grito!» · «Showtime!» | Héctor (*Disney Magic Kingdoms*, en inglés) |
+| **Alegre, persuasivo** | «¡Y necesito un amigo justo ahora! ¡Y los amigos tratan bien a sus amigos!» | Héctor |
+| **Enfadado** | «¡Sin música! ¡Sin música!» | Abuelita |
+| **Explicando** | «El Día de Muertos es la única noche del año en que nuestros ancestros nos visitan. Ponemos sus fotos en la ofrenda para que sus espíritus crucen de vuelta.» | Abuelita |
+| **Explicando, firme** | «Nada es más importante que la familia... Héctor debe estar en la ofrenda, es parte de la familia.» | Miguel |
+| **Animando** | «Vive tu momento.» · «hay que estar dispuestos a hacer lo necesario...» | Ernesto |
+| **Animando, con cariño** | «Y nunca olvides lo mucho que tu familia te ama.» | Imelda |
+| **Triste** | «Papá, papá regresó al fin, papá ya vino... Mi papá me cantaba esa canción, conservé sus cartas...» | Mamá Coco |
+| **Triste** | «Sometimes I think I'm cursed 'cause of something that happened before I was even born.» | Miguel (*Disney Heroes*, en inglés) |
+
+**Vocabulario de la película** (lo que un fan reconoce): ofrenda, foto en la ofrenda, puente de cempasúchil, pétalos, Tierra de los Muertos, Tierra de los Vivos, Día de Muertos, **Muerte Final** (el olvido total), la bendición de la familia, alebrije, xoloitzcuintle, papel picado, calavera, mariachi, zapatería Rivera, Santa Cecilia, Sunrise Spectacular, «Recuérdame», «Vive tu momento», «¡Sin música!», la chancla.
+- ⚠️ No se comprobó cómo dice el doblaje latino «the Shallows» (el barrio de los olvidados) ni «Final Death»: el texto de la película está en inglés en las fuentes.
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Cómo está hecha** ✅
+- 3D de Pixar con **Presto** (animación) y **RenderMan** (render). **Sin línea ni cel shading**: el look sale de la luz, el color y los materiales.
+- **Viaje de campo:** desde 2011 el equipo viajó a México (Ciudad de México, Guanajuato, Oaxaca, Morelia) a museos, mercados, iglesias y panteones. Lee Unkrich: *«Within weeks of me first pitching this story to John Lasseter we were all on planes heading down to Mexico»* (VFX Voice y Remezcla).
+- **Arte conceptual:** Huy Nguyen, Armand Baltazar y John Nevarez, con Harley Jessup y Adrian Molina (Remezcla).
+- **Influencias gráficas:** las calaveras de **José Guadalupe Posada** (la Catrina) ✅; y los morados y verdes con luz fluorescente de *Y tu mamá también* (Cuarón, 2001) para las noches ⚠️ (cita del equipo, una fuente).
+
+**La luz, en números** ✅ (fuente oficial de Pixar y Variety)
+- Estación de tren: **29 000 luces**. Cementerio: **18 000**. Ciudad: **2000 luces** y **700 nubes de puntos** que equivalen a **8,2 millones** de luces.
+- El equipo de Renee Tam hizo un sistema que ignora las luces lejanas: el render de los planos más duros bajó de **1000 horas por fotograma a 50**. Tam: *«Holy cow, this is something we have never done before»*.
+- https://renderman.pixar.com/stories/the-world-of-coco · https://www.fxguide.com/fxfeatured/rendermans-visuals-for-coco/
+
+**Telas y esqueletos** ✅
+- Más ropa simulada que en ninguna película anterior de Pixar, por tantos esqueletos: aceleraron el motor de telas **Fizt** para la colisión hueso-tela (SIGGRAPH 2018): https://dl.acm.org/doi/10.1145/3214745.3214801
+- «Bringing skeletons to life for Coco» (Guilherme Jacinto; supervisora de animación Gini Santos): esqueletos **creíbles y entrañables, no espeluznantes**: https://dl.acm.org/doi/10.1145/3214745.3214789 (sólo el resumen es público ⚠️).
+- «Flat Sets»: Presto trata un escenario complejo como una sola pieza para aligerarlo (VFX Voice) ⚠️.
+
+**Cómo replicarlo en Blender** (sin saturar el PC del dueño, regla 9)
+1. **Render:** Cycles con un volumen muy ligero para el aire de la noche. **Nunca** Toon Shader.
+2. **Piel y hueso:** Principled BSDF con *subsurface* suave en la piel de los vivos; hueso con *subsurface* muy bajo, rugosidad alta y tono marfil cálido (`#D1AD67`).
+3. **Ciudad de luces:** pocas **luces de área grandes** con caída ajustada e **instancias de luces** con Geometry Nodes, en vez de cientos de focos sueltos.
+4. **Pétalos de cempasúchil:** Geometry Nodes con planos de pétalo (textura con alfa) sobre una curva (el puente), con algo de ruido en giro y tamaño ⚠️ (no hay tutorial de Pixar).
+5. **Telas:** modificador Cloth con autocolisión **sólo** en la prenda y el cuerpo, no en toda la escena.
+6. **Dante:** partículas de pelo sólo en los mechones; **Pepita:** plumas y pelo en turquesa, magenta y naranja sobre un cuerpo pintado como un alebrije de madera.
+7. **Escena pesada:** colección enlazada con versión ligera para mover la cámara; la alta sólo en el render final.
+8. **Modelos para posar** (nunca para pegar): los de §3 (Héctor, Miguel, guitarra, alebrije, esqueleto *low poly*, xolo).
+
+**Cómo replicarlo en Photoshop**
+- Dos ajustes de color según el mundo: **vivos** = saturación baja, tierra y polvo; **muertos** = saturación alta, naranja contra magenta y turquesa.
+- Noche: equilibrio de color con sombras hacia morado y verde, y un velo cian en las luces artificiales.
+- Recortes por `v3/integrar.py` y luz de la escena (regla 3).
+
+**Encuadres** ✅
+- Las tomas emotivas del otro mundo: **luz cálida en primer término y fondo frío** con ciudad desenfocada.
+- Santa Cecilia: sol duro, sombras duras, polvo («sun-bleached and dusty», VFX Voice).
+- Emoción íntima = primerísimo plano (Mamá Coco, 1:31:00); fiesta = plano general con banda detrás (49:08); asombro = plano general del puente (25:16).
+
+## Punto 19 · Texturas 2D
+
+Coco es 3D: sus «texturas 2D» son patrones que se repiten en la película.
+- **Papel picado** (banderines en casi todas las fiestas; ver B6-B8): vectores gratis con atribución ⚠️ (colección, sin un archivo verificado; Vecteezy dio 403): https://www.vecteezy.com/free-vector/mexican-papel-picado · y el modelo 3D CC BY de §3.
+- **Bordado floral** (vestido de Mamá Coco, manteles): ⚠️ no se encontró un banco libre; pintarlo a mano con un pincel de puntada.
+- **Madera**, **papel** y **cuero**: ambientCG, CC0 (§4).
+- **Calaveras de azúcar y Catrina**: estilo Posada (§18). Sin pincel libre encontrado ⚠️.
+- **Emblemas y logos:** el logo de Coco (§5), la **guitarra blanca con calavera** (roseta pintada), los **letreros de neón «Ernesto»** (F5), el **telón de calavera de flores** del escenario (F3). ✅
+
+## Punto 20 · Gustos y detalles
+
+De las fichas de la Disney Wiki en español y la Pixar Wiki (cajas de «le gusta», «no le gusta», «familia», «parafernalia»). **No existe o no se encontró un *databook*** oficial ⚠️.
+
+| Personaje | Le gusta | No le gusta | Objeto | Datos |
+|---|---|---|---|---|
+| **Miguel** | Día de Muertos, su familia, la música, Ernesto (antes) | que la familia discuta, que le prohíban la música, tocar en público por primera vez | su guitarra; al final, la de Héctor | 12 años, cumple 13. ⚠️ La ficha en español da «nacido el 22-feb-1991 en Tantoyuca»: **imposible**, descartado. Altura: no hay dato |
+| **Héctor** | la música, su familia | que lo envenenaran, que le robaran las canciones | su guitarra; su foto | se ve como un padre que falló |
+| **Mamá Coco** | la música, desde niña, por su padre | — | las cartas de Héctor y el trozo de foto | nacida en 1918 y muere a los 100 años (Lee Unkrich, citado por la wiki) ⚠️ |
+| **Ernesto** | la fama, ser recordado, ser admirado | ser olvidado, arriesgar su reputación | la guitarra blanca con calavera (robada) | se cree «el músico más grande de la historia» |
+| **Imelda** | la zapatería, Día de Muertos, **pan de muerto**, cantar, bailar | la música (antes), el abandono de Héctor | el zapato | **nacida en 1899** en Santa Cecilia, madre a los 19, murió a los 70 ✅; «no le gustan las computadoras» ⚠️ (sin contexto) |
+| **Abuelita** | cuidar a su familia con **tamales** y disciplina | la música sin control, que rompan las reglas de la ofrenda | la chancla | — |
+| **Dante** | **la comida de la ofrenda** (se la come sin permiso) | — | — | unos 53 cm a la cruz ⚠️ |
+
+## Punto 21 · Por qué la aman
+
+**Cifras** ✅
+- Recaudación mundial: **unos 800 millones de dólares** (807-823 según la fecha; Deadline, mayo 2018): https://deadline.com/2018/05/coco-crosses-800-million-global-box-office-disney-pixar-1202380459/
+- En México, récord para una película animada. ⚠️ **Las cifras chocan:** 57,8 millones de dólares (parte de voz) y «más de 48 millones, la más taquillera de la historia del país» (parte de texto, Remezcla y America Magazine).
+- Rotten Tomatoes **96 %**; CinemaScore **A+**.
+- **2 Óscar** (película animada y canción, «Recuérdame»), 11 de 13 Annie, Globo de Oro, BAFTA y más: https://www.hollywoodreporter.com/movies/movie-news/coco-wins-2018-best-animated-feature-oscar-1089884/
+- La emisión más vista de 2020 en Azteca 7 en México: **5,2 millones** de espectadores ⚠️ (un tuit de PRODU citado por Doblaje Wiki).
+
+**Por qué, con sus palabras**
+- Magali Camacho, 25 años: «Rescata mucha esencia de lo que es la tradición, las ofrendas, la importancia de los muertos para los mexicanos.»
+- Francisco Eguren, programación de Cinemex: «Una película que crezca de 170 millones de pesos en el primer fin de semana a 206 en el segundo es histórico.» Lo relacionó con el ánimo del país tras los **sismos de septiembre de 2017**.
+- Fuente (AP en El Universal): https://www.eluniversal.com.mx/espectaculos/cine/por-que-coco-triunfo-en-mexico/
+- La crítica elogia que **evita el estereotipo** de Hollywood sobre el Día de Muertos: personajes auténticos, voces mexicanas, xoloitzcuintle, Frida Kahlo, cempasúchil ✅ https://www.cinepremiere.com.mx/coco-pixar-critica.html · https://www.radionica.rocks/cultura/cine-series/coco-pixar-hizo-del-dia-de-muertos-una-historia-universal
+- **Con quién se identifica el público:** más con **la tradición** (su ofrenda, sus muertos) que con un personaje; muchas reseñas cuentan que la película les hizo pensar en un familiar fallecido ⚠️ (reseñas sueltas, sin un artículo con autor).
+
+**Las escenas que hacen llorar** (minutos vistos en la película entera ✅)
+
+1. **«Recuérdame» a Mamá Coco, 1:29:40-1:33:13.**
+   - 1:29:40 Miguel entra corriendo; 1:30:07-1:30:31 la familia rodea a Coco; desde 1:30:34 Miguel toca y canta.
+   - 1:31:00 primerísimo plano de Coco con los ojos cerrados; 1:32:10 empieza a recordar; **1:32:46-1:33:07 dice «papá»** y enseña la foto de Héctor con ella de bebé.
+   - Por qué duele: está a punto de perder a su padre en la memoria, y con él a Héctor para siempre.
+   - Música: **sólo guitarra y voz**. Luz: la más cálida de la película (`#A13921`, `#FEF8DB`). Es el tramo con más caras llorando: el padre en 1:31:37 y 1:32:04, la madre con las manos en la cara.
+   - Es **la escena más citada** en toda la prensa revisada (NPR y dos reseñas en Substack).
+2. **El casi olvido de Héctor**, ~1:26-1:27: se vuelve transparente; enseña qué es desaparecer. Antes, ve desaparecer a Chicharrón.
+3. **El reencuentro, 1:34:17-1:35:05** (un año después): Héctor aparece junto a la ofrenda, cruza la aduana feliz (1:34:29), pasa por «Departures», **Imelda lo abraza y bailan** (1:34:38-1:34:47), caminan por el puente hacia la fiesta (1:34:50-1:34:59).
+
+**Las que hacen reír o gritar:** Héctor disfrazado de Frida, la chancla de Abuelita (17:56), «Un Poco Loco» (49:00-51:56), Pepita contra Ernesto (1:26:40).
+- ⚠️ Reacciones del público con votos (Reddit, vídeos de reacción): no se pudieron citar; Reddit amplio falló y lo que salió en r/Pixar era de *Coco 2* (2026).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Metadatos sacados con `yt-dlp` (sin iniciar sesión) ✅:
+
+| Vídeo | Canal | Duración | Vistas | Fecha | Enlace |
+|---|---|---|---|---|---|
+| Un poco loco, cover #RossAPiano | **Carolina Ross** | 0:51 | **811 394** | feb-2018 | https://www.youtube.com/watch?v=0uXlNsmKijY |
+| Un Poco Loco, cover en español | dualkeyx | 1:52 | **157 996** | nov-2017 | https://www.youtube.com/watch?v=62BAHOirvTk |
+| «Recuérdame» en **guaraní** (Anike nderesarai) | GuarpaR. | 3:04 | 9611 | may-2018 | https://www.youtube.com/watch?v=TZtPe9zj818 |
+| Un Poco Loco, fandub latino | RobertMan | 0:36 | 5212 | ene-2018 | https://www.youtube.com/watch?v=pkIqmo4RRrc |
+| Un Poco Loco, cover doblaje latino | Hiva | 1:43 | 4028 | mar-2018 | https://www.youtube.com/watch?v=w2QZ2bOYAQI |
+| «Recuérdame» cover latino [FANDUB] | Drann | 2:50 | 1659 | feb-2018 | https://www.youtube.com/watch?v=aVGSkJWAJ94 |
+| Coco «Recuérdame» fandub | RORODEAD | 1:36 | 215 | dic-2017 | https://www.youtube.com/watch?v=TfWEpILOk6Q |
+
+- **Lo que más se dobla y se canta:** «Un Poco Loco» y «Recuérdame». El cover más visto es de una cantante con canal propio, no un fandub.
+- El de **guaraní** muestra que la película llegó a toda Latinoamérica, no sólo en español.
+- Memes hispanos: los de TikTok de §10 ⚠️. No se encontraron parodias con nombre y vistas ❌.
+- ⚠️ No se miraron los vídeos por dentro (sólo sus datos): no hay minuto de la mejor parte.
+
+## Punto 23 · Colaboraciones y cruces
+
+- **Atracción «Coco»** en Disney California Adventure: paseo en barca por los recuerdos de Miguel, con Miguel, Dante y Héctor animatrónicos; la cola es una **casa museo de la música de Héctor**. Anunciada en el D23 de 2024; detalles el 15-ago-2026 (D23). Sin fecha de apertura ✅ https://disneyparksblog.com/dlr/coco-ride-details-disneyland-resort/ · https://disneyparksblog.com/dlr/coco-ride-announced-california-adventure/ · https://pixar.fandom.com/wiki/Untitled_Coco_Attraction
+- **Plaza de la Familia**: fiesta de Día de Muertos en Disney California Adventure, 21-ago a 2-nov-2026, con comida temática y música ✅ https://disneyland.disney.go.com/events-tours/disney-california-adventure/coco-plaza-familia/
+- **Suite «Coco»** en el hotel Pixar Place: dos habitaciones con arte oaxaqueño ✅ https://disneyexperiences.com/disneyland-press/fact/pixar-place-hotel-fact-sheet/
+- **Juegos:** Kingdom Hearts IV, Disney Speedstorm (temporada 22, hoy), Disney Magic Kingdoms, Disney Heroes (§11).
+- **Pixar Popcorn** (cortos con cameos de varias películas) ⚠️: https://pixar.fandom.com/wiki/Pixar_Popcorn
+- **Baraja Bicycle Coco:** J, Q y K dibujadas como esqueletos de Miguel, Héctor y Ernesto ⚠️ (una tienda).
+
+**Figuras oficiales** (su pose es referencia 3D)
+- **Mattel:** Miguel de 5,6″ con Dante de 3,6″, muy articulado ✅ https://www.amazon.com/Mattel-GPF45-Pixar-Miguel/dp/B07Y9FMBWC · Ernesto de unos 6″ ⚠️.
+- **Funko Pop** ✅: Miguel #303 (2017, cara de calavera), Miguel con guitarra #741 (2020), Miguel #303 que brilla (2024), **Héctor #305**, Ernesto #304, Dante alebrije #1086 que brilla y Pepita de 6″. https://www.cardboardconnection.com/funko-pop-coco-figures · https://pops.today/disney/741-miguel-with-guitar · (funko.com dio 403) https://funko.com/miguel---coco/54954b.html
+- **LEGO:** no hay set oficial. «Coco: Crossing the Marigold Bridge» es una **propuesta de fans** en LEGO Ideas ⚠️ https://beta.ideas.lego.com/product-ideas/c833b41e-7b49-4b53-b8c6-82f2e0521fae
+
+**Cosplay** ✅: Miguel de calle (sudadera roja, camiseta blanca, vaqueros, tenis blancos) y Miguel de charro rojo con sombrero; Héctor con saco morado, pañuelo rojo y sombrero de paja (coincide con lo medido en §15). Ejemplo real ⚠️ (Instagram no se pudo abrir): https://www.instagram.com/p/DTusrlUDLaz/
 

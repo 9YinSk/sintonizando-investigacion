@@ -25,6 +25,22 @@ Madrigal`, `Casa Madrigal`).
 
 ## 1. Arte oficial, en cantidad y variado
 
+**Hojas de contacto elegidas** (en `hojas/`, de las 10 que dejó
+`investigar_serie.py` en `herramientas/referencias/encanto/`, 442 imágenes
+numeradas; el número de cada imagen es su posición en
+`herramientas/referencias/encanto/indice.json`):
+- `hojas/personajes_01.jpg` (= hoja_01, imágenes #1-48): arte de grupo y
+  fotogramas de la familia completa, Isabela bailando, portada del sticker
+  book (#8) — mejor hoja para ver poses vivas de conjunto (punto 1).
+- `hojas/objetos_01.jpg` (= hoja_02, imágenes #49-96): merchandising oficial
+  — muñecas Disney Store, LEGO Encanto (#61), figuras, libros ilustrados,
+  minifiguras — mejor hoja para vestuario «icónico» repetido en productos
+  (puntos 15 y 23).
+- `hojas/fondos_01.jpg` (= hoja_09, imágenes #385-432): cartas Disney Lorcana
+  (#385-402), sticker set Disney SpellStruck (#405/407), hojas de expresión y
+  concept art de fondos/paisaje (#409-422) — mejor hoja para colaboraciones y
+  fondos pintados (puntos 16, 19 y 23).
+
 **Renders/perfiles oficiales de personaje** (fondo transparente o estudio, sirven de referencia de pose neutra):
 - Mirabel · 2391×2073 · https://static.wikia.nocookie.net/disney/images/2/2e/Profile_-_Mirabel_Madrigal.png · Fandom (disney.fandom.com) · ✅ (repetido en varias fichas) · CC/uso editorial Disney
 - Isabela · 409×702 · https://static.wikia.nocookie.net/disney/images/4/47/Profile_-_Isabela_Madrigal.png · Fandom · ✅
@@ -234,21 +250,31 @@ del «realismo mágico» del filme, confirmando la elección de Lorelay Bové de
 paletas cálidas para el día y frías/violeta para la noche, ver su entrevista en
 Screen Rant, sección 1) · ✅.
 
-**Fondos de pantalla oficiales/de fans en alta**: **no encontré** un banco de
-"fondos de pantalla" (wallpapers) dedicado y curado; Wallhaven no tiene ningún
-resultado para «encanto», «madrigal» ni «mirabel» (API consultada, 0
-resultados en los tres términos, comprobado por separado). Alternativa
-encontrada por búsqueda web: agregadores de fondos de pantalla no oficiales
-(Wallpapers.com, WallpaperAccess, WallpaperCave, Alphacoders/WallpaperCat)
-tienen colecciones de 40-200+ imágenes «Encanto», pero son recortes de
-fotogramas/pósters sin autor propio, no fuente primaria — se listan como pista,
-no como referencia final:
-- https://wallpaperaccess.com/encanto (colección, sin autor individual) · ⚠️
-- https://wallpapercat.com/encanto-wallpapers (incluye Luisa, Mirabel, Casita) · ⚠️
-Mejor opción real: los fotogramas 4K nativos ya confirmados arriba
-(`4k-encanto-animationscreencaps.com-*.jpg`, 3840×2176, screencaps limpios del
-filme en Blu-ray) sirven directamente como fondo de pantalla en alta sin pasar
-por un agregador de dudosa fuente.
+**Fondos de pantalla oficiales/de fans en alta (enlace, tamaño, autor)**:
+Wallhaven no tiene ningún resultado para «encanto», «madrigal» ni «mirabel»
+(API consultada, 0 resultados en los tres términos). La alternativa real con
+autoría individual es **Wallpaper Abyss/Alphacoders**, que sí tiene una
+categoría dedicada «Encanto Fondos de pantalla» (50+ imágenes, con usuario que
+sube cada una y tamaño exacto):
+- «Encanto Magic: Mirabel Madrigal 4K Ultra HD Movie Wallpaper» · 4050×3375 ·
+  usuario Oreskis · https://wall.alphacoders.com/big.php?i=1179201 · ✅
+  (verificado con WebFetch: título, tamaño y autor confirmados en la propia
+  página)
+- «Luisa Madrigal Isabela Madrigal Mirabel Madrigal Movie Encanto 4k Ultra HD
+  Wallpaper» (fondo de pantalla de las 3 hermanas juntas) · 3840×2160 (a
+  confirmar exacto) · https://wall.alphacoders.com/big.php?i=1208589 · ⚠️
+  (tamaño de la miniatura de búsqueda, falta confirmar en la página como se
+  hizo con el anterior)
+- «Isabela Madrigal Movie Encanto HD Wallpaper» · 1920×1440 ·
+  https://wall.alphacoders.com/big.php?i=1208582 · ⚠️ (tamaño de la miniatura
+  de búsqueda)
+- Categoría completa (50+ fondos, cada uno con su autor): https://wall.alphacoders.com/by_sub_category.php?id=347513&name=Encanto+Fondos+de+pantalla&lang=Spanish
+Otros agregadores sin autor individual (Wallpapers.com, WallpaperAccess,
+WallpaperCave, WallpaperCat) se descartan como fuente citable — son recortes
+sin crédito, sólo pista. Alternativa siempre válida: los fotogramas 4K nativos
+ya confirmados arriba (`4k-encanto-animationscreencaps.com-*.jpg`, 3840×2176,
+screencaps limpios del filme en Blu-ray) sirven directamente como fondo de
+pantalla en alta sin depender de un agregador.
 
 **Texturas reales equivalentes (CC0, AmbientCG, para la arquitectura y objetos
 de Casita)**:

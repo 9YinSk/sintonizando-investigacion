@@ -304,14 +304,34 @@ materiales y color, no por contorno.
   6. **Vestuario**: capas de textura pintada a mano (flores de Isabela, agujeros de rata de
      Bruno) como **máscaras de desgaste** sobre un `Principled BSDF`, no geometría
      adicional — más barato de render y más fácil de ajustar.
-  7. **Encuadres y composición**: sin una fuente que documente esto en detalle técnico
-     (making-of no entra en planificación de plano por plano) ⚠️; a falta de eso, se
-     observa por descripción de crítica especializada (CBR, ScreenRant) que las escenas de
-     tensión familiar usan encuadres cerrados y simétricos dentro de la Casita (la propia
-     arquitectura como "marco dentro del marco"), mientras las visiones y números musicales
-     abren a planos muy amplios y verticales (aprovechando la altura de las montañas/valle)
-     — dato de una sola fuente cualitativa, sin medir en fotograma propio (ese trabajo es
-     del investigador de vídeo, punto 4/9/10/14) ⚠️.
+  7. **Encuadres y composición**: la dirección de fotografía (**Alessandro Jacomini** y
+     **Daniel Rice**, con **Nathan Warner** en layout) definió el estilo como
+     **"romántico"** (en el sentido de "elevado, intenso"): la cámara está pensada para
+     *"amplify, exaggerate, and distort perception"*, en línea con que Mirabel narra la
+     historia en primera persona · Encanto fue la primera película de Disney Animation
+     desde **Tangled (2010)** en usar un **formato de cuadro más alto/vertical** ("tall
+     frame format") para poder acercarse más a los personajes · fuente: **Post Magazine**
+     («Animation: Disney's Encanto») **y** Animation World Network («How Choreography and
+     Color Helped Shape the Vibrant Characters of 'Encanto'»), ambas citando a los mismos
+     directores de fotografía ✅ (dos fuentes) — coincide con lo que describe la crítica
+     especializada (CBR/ScreenRant, ⚠️ una fuente adicional sin cita directa del equipo):
+     encuadres cerrados y simétricos dentro de la Casita en las escenas de tensión
+     familiar (la arquitectura como "marco dentro del marco"), y planos muy abiertos y
+     verticales en visiones/números musicales, aprovechando ese formato alto. Medir esto
+     en fotograma propio es tarea del investigador de vídeo (punto 4/9/10/14); aquí sólo
+     se documenta la intención declarada por el equipo.
+  8. **Guía de color en Photoshop** (a partir de todo lo anterior, para quien monte la
+     lámina): capa de ajuste **Selective Color/Vibrance** empujando el verde de fondo
+     hacia un verde esmeralda saturado si el personaje es Bruno (coherente con el porqué
+     real del color, ver más abajo); para el "brillo del milagro" o cualquier magia, una
+     capa en modo **Screen** con un *glow* suave (Gaussian Blur alto, opacidad 40-60%) en
+     tonos dorados/amarillos sobre el objeto mágico, nunca un blanco puro; para el bordado
+     de Isabela, pincel personalizado de textura de tela (ver texturas ambientCG del punto
+     19) más una capa de **líneas finas doradas** en modo Overlay para simular hilo
+     metálico. No se encontró documentación oficial sobre grano de película, viñeteado o
+     aberración cromática aplicados en post — Encanto no usa esos filtros "de cámara real"
+     de forma marcada (a diferencia de películas con estética más "found footage" o
+     "vintage"); búsqueda específica hecha sin resultado → **No encontré** ⚠️.
   - **Modelos/rigs libres de referencia (Sketchfab, licencia indicada, sólo para estudiar
     forma/proporción, nunca para pegar en un render final)**:
     - **"Encanto Casita"** · https://sketchfab.com/3d-models/b66fe8cece3c4c0c87557dc591f5ed22
@@ -506,8 +526,13 @@ donde se indique):
   completa no está accesible sin acceso a SIGGRAPH. ⚠️ (mismo patrón que con los papers de
   Coco en la biblia gemela).
 - **Encuadres y composición por plano medidos directamente**: no es tarea de este rol
-  (corresponde al investigador de vídeo, puntos 4/9/10/14); aquí sólo se documentó lo que
-  dicen fuentes de crítica especializada, sin medir fotograma propio. ⚠️
+  (corresponde al investigador de vídeo, puntos 4/9/10/14); aquí sólo se documentó la
+  intención declarada por los directores de fotografía (✅ dos fuentes) y lo que dice la
+  crítica especializada, sin medir fotograma propio. ⚠️
+- **Filtros de post-producción tipo cámara real** (grano de película, viñeteado, aberración
+  cromática): no se encontró documentación de que Encanto los use de forma marcada.
+  Buscado: «Encanto film color grading grain bloom cinematography look development Disney
+  Animation» (inglés), sin resultado específico sobre esos filtros. ⚠️
 
 ## Bitácora
 
@@ -573,6 +598,7 @@ por coincidencia). Descartados, no se repitió esa búsqueda.
 21. "Disney Sorcerer's Arena" Encanto Casita "Disney POP TOWN" Encanto
 22. "Dos Oruguitas" Encanto song meaning caterpillars symbolism Oscar
 23. Encanto Isabela embroidered skirt flowers texture design pattern character
+24. Encanto film color grading grain bloom cinematography look development Disney Animation
 
 **Fetch directo (WebFetch, contenido primario resumido con modelo local, no de memoria)**:
 - `en.wikipedia.org/wiki/Bruno_Madrigal` (diseño de la ruana, consultores, actor de voz)
