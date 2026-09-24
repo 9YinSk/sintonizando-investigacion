@@ -38,6 +38,9 @@ relanzar cada rol con el mensaje de la skill `serie-en-equipo` («si tu parte ya
 existe, sigue desde donde quedó») y, cuando estén los 8, el redactor, que
 **edita la biblia que ya hay** y añade los puntos 18-25.
 Medir: hora de inicio y fin de cada uno, para saber cuánto tarda el equipo.
+Se paró a las 17:30 UTC (límite de la cuenta) tras 15 minutos: todas las partes
+están empezadas y guardadas; ninguna terminada. La medición hay que repetirla
+entera en la cuenta nueva (anotar inicio, fin y tokens de cada investigador).
 
 Parados a medias (guardado, sin marcar): repaso 06-spy-x-family, 35-one-punch-man
 (≈450 líneas) y 36-hunter-x-hunter (esqueleto). Rehacerlos con el equipo.
