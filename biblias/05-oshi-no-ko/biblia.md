@@ -678,9 +678,12 @@ con el «color de cada una» en Lawson ([Lawson](https://www.lawson.co.jp/lab/en
 **Segunda pasada:** lo confirman los nombres de las cartas oficiales de
 *IDOLM@STER Shiny Colors*: «**In Red** Ruby», «**In White** Kana»,
 «**In Yellow** MEMCho» (índice sitios n.º 226-231) ✅.
-El color de Ai: sigue sin encontrarse ⚠️ (busqué «image color»,
-«member color», «penlight» y «glow stick» en el texto de la wiki y en la
-ficha de B-Komachi; ninguna le asigna color).
+El color de Ai: ~~sigue sin encontrarse~~ → **rojo**, según el
+**repaso corto** (punto 20): las páginas de Ai y de Ruby de la wiki
+citan el manga cap. 38, pág. 4, donde Ruby elige el rojo **por su
+madre** ⚠️ (una sola web; la segunda pasada lo buscó en la ficha de
+B-Komachi con «image color», «member color», «penlight» y «glow stick»
+sin encontrarlo).
 
 **Colores medidos en la segunda pasada** (Pillow; en *storyboards* de
 320 px, ±10 por canal; en archivos de la wiki, mediana por cuantización):
@@ -2328,7 +2331,83 @@ Revisadas en las biblias del repositorio por el investigador de texto:
 
 ## Punto 25 · El mundo, la historia por arcos y sus símbolos
 
-_(pendiente)_
+> De `partes/texto.md` (repaso corto): wikitext de la wiki, página
+> [«Story Arcs»](https://oshinoko.fandom.com/wiki/Story_Arcs) y la de
+> cada arco. Con `partes/imagen.md` para los emblemas.
+
+### 25.1 · Las reglas del mundo en cinco líneas
+1. Es el **espectáculo japonés de hoy**, real: idols, dramas, cine,
+   teatro, YouTube, tele en directo.
+2. **Una sola regla fantástica:** renacer **con la memoria** (Goro
+   como Aqua, Sarina como Ruby). Nunca se explica; es el detonante, no
+   un sistema de magia.
+3. **Todos mienten para sobrevivir.** Dos frases lo resumen: «**En
+   este mundo, la mentira es un arma**» (Goro, ep. 1, 00:02) y «**La
+   mentira es el amor más grande, ¿sabes?**» (Ai, ep. 1, 09:46) ✅ (§4 +
+   [wiki, «Oshi no Ko (manga)»](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(manga))).
+4. **Los nombres son símbolos:** Hoshino (星野) es «**campo de
+   estrellas**»; sus hijos se llaman **Aquamarine** y **Ruby**, piedras
+   preciosas ✅ ([jisho.org](https://jisho.org/search/%E6%98%9F%E9%87%8E)).
+5. Una **agencia** (Ichigo Production, la fresa coronada) y un
+   **instituto para artistas** (Yōtō) deciden quién entra y cómo.
+
+### 25.2 · La historia por arcos
+Tomos, capítulos y episodios de la wiki ✅ hasta el ep. 24 (fin de la
+T2). Los episodios de la T3 (arcos 7-9) y los resúmenes de esos arcos
+salen sólo de la wiki y no se miraron ⚠️. **No usar nada de los arcos
+10-11** (el final del manga, §16).
+
+| # | Arco | Tomos | Caps. | Eps. | Qué pasa |
+|---|---|---|---|---|---|
+| 1 | Infancia (幼年期) | 1 | 1-10 | 1 | Goro renace como Aqua; Ai muere; 12 años después, los cría Miyako |
+| 2 | El mundo del espectáculo (芸能界) | 2 | 11-20 | 2-5 | Ruby entra de idol en Ichigo Pro; Aqua actúa por primera vez |
+| 3 | *Reality* de citas (恋愛リアリティショー) | 3-4 | 21-32 | 5-9 | Aqua entra en un *reality*; conoce a Akane |
+| 4 | Primer concierto (ファーストステージ) | 4 | 33-40 | 9-11 | Debuta la nueva B小町: Ruby, Kana y MEM. Fin de la T1 |
+| 5 | Obra 2.5D (2.5次元舞台) | 5-7 | 41-66 | 12-20 | Aqua actúa en *Tokyo Blade* para acercarse a Lalalai |
+| 6 | Privado (プライベート) | 7-8 | 67-80 | 20-24 | Aqua descubre que Taiki Himekawa es su medio hermano. Fin de la T2 |
+| 7 | 中堅 («a media carrera») | 9-10 | 81-100 | 25-31 ⚠️ | Aqua y Akane consolidan sus carreras ⚠️ |
+| 8 | Escándalo (スキャンダル) | 11 | 101-108 | 29-33 ⚠️ | fotos filtradas y un romance falso con Kana: la prensa del corazón |
+| 9 | Película (映画) | 11-15 | 109-147 | 32-35+ ⚠️ | se rueda *La mentira de 15 años* (15年の嘘), el guion de Aqua |
+| 10 | Fin de la obra (終劇によせて) | 15 | 148-152 | — | 🚫 no usar |
+| 11 | Hacia las estrellas y los sueños (星に夢に) | 16 | 153-166 | — | 🚫 final del manga, no usar |
+
+Los episodios de los arcos 7, 8 y 9 **se solapan** en la wiki; revisarlo
+antes de citar un episodio de la T3 ⚠️.
+
+### 25.3 · Emblemas, logos y objetos icónicos
+- **Placa de Ichigo Production** con la fresa coronada; **logos de
+  B小町** de 1.ª y 2.ª generación (punto 19.4, medidos) ✅.
+- **La estrella de seis puntas en el ojo:** el símbolo central. Es un
+  rasgo de Ai que heredan Aqua y Ruby: la marca de «ser hijo de tu
+  idol». Negra = venganza (§16, §17) ✅.
+- ***Tokyo Blade*** (東京ブレイド): el manga y la obra 2.5D **de ficción**
+  dentro de la serie. Póster oficial mirado: reparto con **katanas y
+  cuernos de oni**, castillo de neón detrás, estilo *shōnen* de
+  batallas ([992×1401](https://static.wikia.nocookie.net/oshi_no_ko/images/5/54/Tokyo_Blade_Anime_Poster.jpg);
+  obra 2.5D, [501×643](https://static.wikia.nocookie.net/oshi_no_ko/images/6/6f/Tokyo_Blade_2.5D_SP_Poster.png))
+  ✅. **No mezclar** ese estilo con el del reparto normal.
+- ***La mentira de 15 años*** (15年の嘘): la película que escribe Aqua;
+  su guion firmado por todo el reparto es de lo más votado en Reddit
+  (§16).
+- **«45510»**: la clave del blog de B小町 y del móvil de Ai (punto 20);
+  también el relato de Akasaka que inspiró «Idol» (§13).
+- **Las barras de luz** con el color de cada una: rojo (Ai y Ruby),
+  blanco (Kana), amarillo (MEM) (punto 20, §6.2).
+
+### 25.4 · Vocabulario que un fan reconoce al instante
+- **推し (*oshi*)**: «tu favorito»; de 推す, «empujar, apoyar».
+  【推しの子】 = «el hijo de tu *oshi*». Se dice en el minuto 1 del
+  ep. 1: «¡Mi *oshi* es Ai y punto!» (§4).
+- **嘘 (*uso*), «mentira»:** la palabra que más se repite.
+- **2.5次元 (*2.5D*):** teatro musical basado en anime o manga; existe
+  de verdad y es el arco 5.
+- **Spica:** la estrella más brillante de Virgo, título de la novela
+  del pasado de Ai. Con «Hoshino» y el ojo, **estrella** es la palabra
+  clave de toda la franquicia.
+- **Bicarbonato-chan, *Aqu-tan*, *Konmemu~*, *MEMber***: apodos y
+  saludos ya en §9 y §16.
+- **枕営業 (*makura eigyō*):** la acusación falsa del arco 8 contra
+  Kana. Es vocabulario adulto y difamatorio: 🚫 **nunca** en una lámina.
 
 ---
 ## 18 · Tres conceptos de lámina (uno por canal)
@@ -2345,6 +2424,22 @@ _(pendiente)_
 > selfie con el móvil** (key visual principal de la T1, de Crunchyroll);
 > C suma la **Kana gritando con el guion** del mismo visual y la
 > **cabina de doblaje real** como sitio alternativo.
+>
+> **Repaso corto (puntos 18-25):** los tres se quedan; ganan detalles con
+> fuente, sin cambiar la idea.
+> - **A (MEM):** una **pegatina del logo de B小町 de 2.ª generación**
+>   (corazón rojo y burbuja rosa, punto 19.4) en el borde del monitor o
+>   del aro de luz. Guiño opcional en la barra del directo: su Instagram
+>   de la ficción, `memmem_cho_o` (punto 20).
+> - **B (Ruby):** su barra de luz es **roja porque es el color de Ai**
+>   (punto 20): el objeto ya cuenta la historia sin decirla. El monitor,
+>   **desde el público** (focos y barras hacia cámara, punto 18.5).
+> - **C (Kana):** en la mesita, una **barra de luz blanca** apagada: su
+>   color, el de la escena más querida (ep. 11, 07:41; puntos 20 y 21).
+>   Papel con grano de «Paper textures» o Poly Haven (punto 19.2).
+> - **Los tres:** técnica de §18.6-18.7 (más líneas, sombra en 2-3
+>   tonos, grano y degradado azul-magenta al final). Si sale ropa de
+>   idol en 3D, la falda con **enagua** (punto 23.4).
 
 ### Concepto A — #redes-y-novedades · «El directo de noticias de MEM-cho»
 **Objeto y sitio.** La lámina es **la pantalla del directo de MEM**,
@@ -2546,7 +2641,9 @@ Tras la segunda pasada quedan (cada uno va marcado en su sitio):
 - **La letra del logo** (nadie oficial la nombra), **la de los globos**
   del manga de Yen Press y Panini, y si **«推しゴ»** trae ñ (BOOTH pide
   iniciar sesión).
-- **El color de idol de Ai:** ni la wiki ni la ficha de B小町 le dan uno.
+- **El color de idol de Ai:** ~~ni la wiki ni la ficha de B小町 le dan
+  uno~~ → **rojo** según las páginas de Ai y Ruby de la wiki (cap. 38),
+  una sola web (repaso corto, punto 20).
 - **Fotogramas grandes de los vídeos:** YouTube sólo da *storyboards* de
   320×180; sirven para mirar, no para recortar. Para recortar: las
   imágenes de la wiki (§3.0) o el episodio en Crunchyroll.
