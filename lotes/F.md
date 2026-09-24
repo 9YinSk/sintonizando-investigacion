@@ -7,7 +7,7 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
 - 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
-- 78 Vinland Saga: 4 investigadores COMPLETOS. Redactor (Opus) lanzado 22:33 UTC.
+- 78 Vinland Saga: **COMPLETA y subida** (22:52 UTC). ✅23 ⚠️7 ❌0, 162 referencias, 65 webs, 2031 líneas.
 - 79 Demon Slayer (paisajes y auras): 4 investigadores COMPLETOS. Redactor (Opus) lanzado 22:48 UTC.
 - 80 Solo Leveling (el Sistema y las sombras): 4 investigadores (Sonnet) en marcha desde 22:48 UTC.
 - 81, 82: datos recolectados, listos para investigadores.
@@ -18,6 +18,8 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
 - Ningún encargo del lote F trae wiki de Fandom: las encontré a mano (lista en este archivo, abajo).
+- **78 Vinland Saga — canal:** el redactor propone #proyectos para su lámina, pero #proyectos ya lo pidió Arcane (17-arcane). Decide tú: ¿Arcane se queda sólo con #arte y Vinland Saga usa #proyectos, o al revés? Reserva sugerida si prefieres otro: lámina 2 de #textos (ya es de Death Note, 18).
+- **78 Vinland Saga:** ningún vídeo se vio en 1080p (YouTube dio 403 todo el rato); las escenas icónicas sólo se vieron en storyboard de baja resolución. El doblaje latino transcrito es sólo el de Netflix (Eduardo Garza); el de Crunchyroll (Alejandro Eguiza) quedó sin transcribir. No usar el doblaje con IA de Prime Video si aparece por ahí.
 - **Aviso a `recolectar.py`** (bug real, puede afectar a otras series con nombre ambiguo): en 79-demon-slayer-paisajes-y-auras, el AniList y los juegos de Steam que trajo `--hojas` correspondían a otra obra («Onigiri», AniList id 21612), no a Kimetsu no Yaiba. El investigador de texto lo detectó, lo anotó y repitió las consultas a mano con el id correcto (101922). No toqué el script; lo dejo anotado por si el dueño quiere que alguien lo arregle.
 
 ## Wikis de Fandom del lote
@@ -61,3 +63,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 79-demon-slayer-paisajes-y-auras | imagen | sonnet | 14 | 224994 |
 | 79-demon-slayer-paisajes-y-auras | video | sonnet | 16 | 187904 |
 | 79-demon-slayer-paisajes-y-auras | voz | sonnet | 17 | 245351 |
+| 78-vinland-saga | redactor (opus) | opus | 21 | 343246 |
