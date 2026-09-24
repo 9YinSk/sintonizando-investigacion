@@ -1141,8 +1141,9 @@ servidor: la tendencia «mimir» sale de Reddit y títulos.
 > minuto de esa copia (puede moverse 1-2 minutos frente a Crunchyroll).
 > Enlaces: [IA ep. 1](https://archive.org/details/spy-family-01-720p), [IA ep. 2](https://archive.org/details/spy-family-02-720p), [IA ep. 3](https://archive.org/details/spy-family-03-720p), [IA ep. 4](https://archive.org/details/spy-family-04-720p), [IA ep. 6](https://archive.org/details/spy-family-06-720p), [IA ep. 7](https://archive.org/details/spy-family-07-720p), [IA ep. 10](https://archive.org/details/spy-family-10-tvq-720p),
 > [IA ep. 12](https://archive.org/details/spy-family-12-tvq-720p). Siguen **sin ver** (⚠️, esos capítulos no están en Internet
-> Archive o la escena no salió en el tramo): Loid 3 y 6, Yor 3, 4 y 6,
-> Damian 1 y 3, Bond 2 y 3.
+> Archive o la escena no salió en el tramo): Loid 3 y 6, Yor 4 y 6,
+> Damian 1 y 3, Bond 2 y 3. Las demás sin «visto» llevan el minuto de los
+> subtítulos: mira el fotograma antes de dibujarlas.
 
 ### Anya
 | # | Ep. y minuto | Qué hace | Uso |
@@ -2092,7 +2093,7 @@ la más distinta. **B** es la más fiel a una escena concreta.
   emoción!», «chihuahita», «Segundo», «Loichi»: las muestras de Doblaje
   Wiki no las traen y YouTube pidió iniciar sesión (§10).
 - **Martha Marriott, Susana Romero**: una sola fuente.
-- **Poses sin ver**: Loid 3 y 6, Yor 3, 4 y 6, Damian 1 y 3, Bond 2 y 3
+- **Poses sin ver**: Loid 3 y 6, Yor 4 y 6, Damian 1 y 3, Bond 2 y 3
   (sus capítulos no están en Internet Archive).
 - **Cómo está dibujado el ep. 40** (pasado de Loid): la T3 sólo está en
   Crunchyroll de pago.
@@ -2104,7 +2105,48 @@ la más distinta. **B** es la más fiel a una escena concreta.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada del equipo (24-sep-2026).
+
+| Punto de ENCARGO.md | Dónde | Estado | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | §3, §F | ✅ | 90 imágenes numeradas en 3 hojas, key visuals de las 3 temporadas, portadas con sillas de diseño, fanbook, expo, colaboraciones con arte propio. |
+| 2 · Fotogramas de escenas icónicas | §2, §2.1 | ⚠️ | 13 escenas vistas con minuto, pero a **720p** (Internet Archive); los fotogramas a 1080p son los de la wiki, sin minuto. YouTube pidió iniciar sesión. |
+| 3 · Fan art y 3D con licencia | §4 | ✅ | Pixiv, Leyendecker, Wallhaven; 16 modelos de Sketchfab y 3 de Poly Haven con licencia leída en su API, incluido el cuarto de Anya (más en `referencias.json`). |
+| 4 · Sitios, luz, paleta y texturas | §5 | ✅ | Hex medidos con Pillow a 1080p; sitios vistos en vídeo; texturas CC0 de ambientCG. El rojo del cuero de Eden, sin medir. |
+| 5 · Tipografía por uso | §6 | ⚠️ | Letras libres comprobadas con fontTools (tildes, ñ, ¿, ¡) para ficha, sellos, rótulo, notas, diario y Eden. Faltan letra de grito, onomatopeya, interfaz y subtítulos; la letra exacta de los rótulos del anime no está identificada. |
+| 6 · Cómo hablan en pantalla | §7, §2.1 | ✅ | Chispitas de Anya, rótulos de ficha (vistos: foto y datos en columnas), cartela «MISSION» (vista: blanco sobre negro), informes de WISE. Sin recurso propio de Yor. |
+| 7 · Personajes y popularidad | §8, §9 | ✅ | Encuesta oficial de 2025 con votos (Loid 1.º) y AniList (Yor 1.ª en Occidente). |
+| 8 · Doblaje latino y frases | §10 | ⚠️ | Reparto y staff con dos fuentes (menos Martha, una). Frase textual de clip oficial sólo «¡Ay no, me mimí!»; «Papi, quiero mimir» y otras, sin minuto exacto: las muestras de Doblaje Wiki no las traen. |
+| 9 · Música y sonido | §11 | ⚠️ | Openings y endings con dos fuentes y vistos en pantalla; efectos de sonido por episodio. El tema de la escena del pasado de Loid («Lullaby») tiene una sola fuente y no se oyó. |
+| 10 · Vídeos y tendencias con minuto | §12 | ⚠️ | 3 tráilers oficiales vistos enteros con minuto. Los análisis de YouTube y los TikTok no se pudieron ver. |
+| 11 · Videojuegos | §7.3, §13 | ⚠️ | Operation Diary y Taiko documentados; TCRF sin página. La caja de diálogo del juego no se vio. |
+| 12 · Lo que ama el fandom y qué no hacer | §14 | ✅ | Memes con fuente («Heh», «mimir») y lista de errores, ampliada con lo visto (Becky no aplaude, sin cumpleaños, sin contorno negro). |
+| 13 · Descripción profunda y caras por emoción | §8, §15, §18.1 | ⚠️ | Carácter, miedos, dinámicas y forma de hablar de los 6. Caras con minuto: alegría, rabia, vergüenza, tristeza. Falta el **miedo** con fotograma. |
+| 14 · Poses con minuto | §15 | ⚠️ | 39 poses con minuto; 16 vistas en vídeo, el resto con el minuto de los subtítulos. 8 se buscaron y no se pudieron ver (sus capítulos no están en Internet Archive). Bond, Damian y Becky no llegan a 6. |
+| 15 · Vestuario con hex | §16 | ✅ | Hex medidos para los 6; ropa de calle de Damian con una fuente. |
+| 16 · Ciudades y fondos de pantalla | §17 | ✅ | Campaña oficial con dos fuentes; 6 fondos de fans con tamaño real y autor u origen (12 en `referencias.json`). |
+| 17 · Guía para IA de imagen y de texto | §18 | ✅ | Rasgos con hex, estilo medido, palabras sí y no, gestos, referencias por número y 24 frases reales por emoción, con capítulo o minuto. |
+| 18 · Estilo, técnica y cómo replicarlo | §A | ✅ | Línea y sombra medidas, staff, rule book, recetas de Photoshop y Blender. El programa del estudio no está confirmado. |
+| 19 · Texturas 2D | §B | ✅ | Rayado cruzado visto, emblemas con hex, equivalentes libres. No hay tramas con sello CC0 claro. |
+| 20 · Gustos y detalles | §C | ✅ | Fanbook oficial más dos traducciones; aviso de que ningún cumpleaños es oficial. |
+| 21 · Por qué la aman | §D | ⚠️ | Ventas, premios, encuestas, Reddit y la escena que hace llorar (ep. 40). No se vio cómo está dibujada ni su minuto: la T3 sólo está en Crunchyroll de pago. |
+| 22 · Fan dubs y comunidad hispana | §E | ⚠️ | Fandubs, covers y memes localizados, pero **sin vistas** y dos sin enlace: YouTube y TikTok no se dejaron ver. |
+| 23 · Colaboraciones, figuras y cosplay | §F | ✅ | Más de 100 colaboraciones en la wiki; una por tipo con tamaño medido; figuras con dos fuentes; cosplay con licencia CC. |
+| 24 · Obras parecidas | §G | ✅ | Influencias que reconoce Endo, crítica con dos fuentes, AniList y el resto del servidor. |
+| 25 · Mundo, historia y símbolos | §H | ✅ | Reglas en 5 líneas, 21 arcos, emblemas y glosario. |
+| Los 3 conceptos de lámina | §19 | ✅ | Tres objetos distintos (expediente, formulario, diario), mejorados con lo visto en vídeo. |
+| Mínimo 40 fuentes distintas | todo | ✅ | Más de 120 webs distintas enlazadas. |
+| Fuentes oficiales y entrevistas del staff | §3, §A, §G | ⚠️ | Web oficial, fanbook, entrevistas de Endo, making of de The Mary Sue y Sakuga Blog. No hay entrevista del director ni del diseñador sobre el estilo. |
+| Otros idiomas (japonés, coreano, chino) | §9, §11, bitácora | ✅ | MANTANWEB, Natalie, Oricon, lisani, NamuWiki, DC Inside, The Paper, Douban. |
+| Wikis, TV Tropes, TCRF y Wayback | §8, §13 | ⚠️ | Fandom, Doblaje Wiki, TV Tropes, NamuWiki, SFX Resource Wiki; TCRF sin página. **Wayback Machine no se usó** (ni para la página oficial de fondos que da 403). |
+| Foros y comunidades | §D, §E | ✅ | Reddit por Arctic Shift, Tumblr, foro de dafont, X oficial, Memedroid. |
+| Arte (Pixiv, ArtStation, DeviantArt) | §4, §17 | ✅ | Los tres, como origen de fan art y fondos. |
+| Vídeo con minuto | §2.1, §12, §15 | ⚠️ | Internet Archive y Dailymotion con minuto; YouTube y TikTok bloqueados. |
+| Código y recursos (GitHub, Sketchfab, texturas) | §4, §B, bitácora | ✅ | Subtítulos de GitHub, letras de google/fonts, Sketchfab y Poly Haven por API, ambientCG. |
+| Doblaje latino (Doblaje Wiki, ANMTV, Crunchyroll) | §10 | ✅ | Doblaje Wiki por API, ANMTV, Crunchyroll, TierraGamer, GamerFocus. Entrevistas de actores en YouTube, sin ver. |
+| Hojas de contacto | §3.0 | ✅ | 3 JPEG de menos de 800 KB, miradas y citadas por número. |
+| `referencias.json` | archivo | ✅ | 183 referencias con tamaño medido, las mejores primero. |
 
 ---
 
