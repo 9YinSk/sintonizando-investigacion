@@ -824,3 +824,50 @@ Metadatos sacados con `yt-dlp` (sin iniciar sesión) ✅:
 
 **Cosplay** ✅: Miguel de calle (sudadera roja, camiseta blanca, vaqueros, tenis blancos) y Miguel de charro rojo con sombrero; Héctor con saco morado, pañuelo rojo y sombrero de paja (coincide con lo medido en §15). Ejemplo real ⚠️ (Instagram no se pudo abrir): https://www.instagram.com/p/DTusrlUDLaz/
 
+## Punto 24 · Obras parecidas
+
+| Obra | Qué comparte | En qué se diferencia | Estado |
+|---|---|---|---|
+| ***El libro de la vida*** (Fox y Reel FX, 2014, Jorge R. Gutiérrez) | Día de Muertos, un chico que quiere ser músico contra su familia, viaje al mundo de los muertos | estilo de **marionetas de madera**; canciones ya existentes remezcladas; su más allá se divide en Tierra de los Recordados y de los Olvidados. Varios artículos ven planos parecidos | ✅ ScreenRant e InsideHook |
+| ***Soul*** (Pixar, 2020) | música y más allá; un músico con una familia que no lo apoya; una cultura concreta (el jazz) | otro mundo, otras reglas | ✅ ScreenRant o CBR y blogs de análisis de Pixar |
+| ***Encanto*** (Disney, 2021) | familia latinoamericana extendida, un don central, un miembro apartado, paleta cálida y realismo mágico | Colombia, no México | ✅ encargo 58 (el gemelo de éste) |
+| ***Pesadilla antes de Navidad*** (1993) | esqueletos entrañables | Halloween gótico, no Día de Muertos | ⚠️ lista de «parecidas» |
+
+**Influencias que reconoce el equipo:** José Guadalupe Posada (calaveras) ✅; *Y tu mamá también* (color de la noche) ⚠️; la Época de Oro del cine mexicano para Ernesto ⚠️ (§7, §18).
+
+**Contexto que hay que saber** ✅ (Remezcla y America Magazine): en **2013 Disney intentó registrar «Día de los Muertos»** como marca. Hubo una petición con más de 20 000 firmas y el cartel **«Muerto Mouse»** del caricaturista **Lalo Alcaraz**. Disney lo retiró en 12 horas y contrató como consultores a **Lalo Alcaraz**, al dramaturgo **Octavio Solís** y a **Marcela Davison Avilés**. Por eso la película trata el tema con tanto cuidado. (Octavio Solís es además la voz original del agente de ingreso, §8.)
+
+**Láminas del servidor que se le parecen** (para no repetir ideas)
+- `#🎼・demos-canto` (Bocchi) y la propuesta de *Sing* para `#🎵・canto`, `🎶・Karaoke` y `🎭・Escenario` (biblia 29): también de cantar. **Coco no debe ser otro escenario con micrófono**: su diferencia es la **memoria y la familia** (concepto 1).
+- *Monsters, Inc.* propuesta para `#💬・general-doblaje` (biblia 29): comparte estudio (Pixar) y **dos voces latinas** (Víctor Trujillo, Chicharrón; Andrés Bustamante, el gestor).
+- Encanto (58): si acaba en un canal vecino, que una sea la casa y la otra el escenario, no las dos lo mismo.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ (Disney Wiki y resúmenes cruzados)
+1. Al morir, llegas a la **Tierra de los Muertos** como esqueleto vivo, con tu carácter y tu oficio.
+2. Cada Día de Muertos, si tu familia pone **tu foto en la ofrenda**, cruzas el **puente de cempasúchil** para visitar a los vivos; sin foto, no pasas.
+3. Existes mientras alguien vivo te recuerde; si el último te olvida, llega la **Muerte Final** y te desvaneces para siempre.
+4. Los que ya casi nadie recuerda viven en un barrio pobre del fondo («the Shallows»), esperando la Muerte Final.
+5. Los **alebrijes**, criaturas guía, se mueven entre los dos mundos y guían a las almas.
+
+**La historia por arcos** ✅ (ScreenRant e IMDb o TheReviewGeek)
+1. **Santa Cecilia:** los Rivera hacen zapatos; la música está prohibida desde que a Imelda la dejó su marido músico. Miguel toca a escondidas e idolatra a Ernesto.
+2. **El cruce:** en Día de Muertos Miguel toma la guitarra de la tumba de Ernesto para un **concurso de talentos**; queda maldecido y cruza al otro mundo (21:00-25:56).
+3. **La familia y Héctor:** Imelda le da la **bendición** para volver si deja la música; Miguel se niega y huye con Héctor, que lo llevará con Ernesto si Miguel lleva su foto a una ofrenda.
+4. **La revelación:** en la mansión de Ernesto descubren que **Ernesto envenenó a Héctor** para robarle las canciones. Ernesto le quita la foto a Miguel y lo encierra.
+5. **Rescate y clímax:** Imelda y la familia rescatan a Miguel, exponen a Ernesto en pleno **Sunrise Spectacular** y corren contra el amanecer.
+6. **Final:** Miguel vuelve sin la foto; canta «Recuérdame» a **Mamá Coco**, que recuerda y saca el trozo roto que faltaba. La foto de Héctor vuelve a la ofrenda, se levanta la prohibición y, un año después, hay música en casa.
+
+**Símbolos y objetos que un fan reconoce al instante** ✅
+- **El puente de pétalos de cempasúchil:** el paso entre mundos; sólo lo cruzan los recordados.
+- **La ofrenda:** fotos, cempasúchil, comida favorita, papel picado y velas.
+- **La foto familiar rota:** le falta el trozo de Héctor; ese trozo lo guarda Coco y aparece al final (A5).
+- **La guitarra blanca con calavera:** de Héctor, robada por Ernesto; la de Miguel es una copia hecha a mano.
+- **Los alebrijes:** en la vida real, artesanía de madera tallada y pintada, sin papel mitológico; Pixar los hizo guías de almas. **Pepita** (Imelda) y **Dante** (Miguel).
+- **La calavera de azúcar, la Catrina y el papel picado**, en el estilo de Posada.
+- **«Recuérdame»:** en la historia, Héctor la escribió como nana para Coco; Ernesto la hizo himno de estadio.
+- **La ciudad vertical:** casas sobre casas que crecen con cada alma nueva (Guanajuato); el concierto final en el **Sunrise Spectacular**.
+- **El título:** el de trabajo era «Día de los Muertos»; tras lo de la marca se cambió. Unkrich: *«I liked that people wouldn't know what [the title] meant»*: sólo se entiende al final ✅.
+- **La chancla** de Abuelita y el **zapato** de Imelda: la familia de zapateros usa el zapato como arma.
+

@@ -410,6 +410,18 @@ volantes lila, tutorial centrado en el detalle floral (misma fuente) · ⚠️
 
 ## 8. No encontré
 
+- **Encanto en Fortnite**: busqué específicamente («Encanto Disney crossover
+  event "Disney Speedstorm" OR "Fortnite" OR "cafe tematico"», en inglés/
+  español); los resultados sólo confirman colaboraciones Fortnite con Disney
+  Villains, Los Increíbles, Marvel y Toy Story — ninguna con Encanto. No
+  encontré evidencia de que Encanto haya llegado a Fortnite (posible: el
+  filme no tiene un elenco de «villano» ni un gancho de acción típico de esas
+  colaboraciones). No es un punto obligatorio en sí (es un ejemplo del
+  encargo, no un ítem propio), así que no cuenta como pendiente.
+- **Café temático de Encanto**: misma búsqueda, sin resultados de un café
+  oficial con la temática del filme (sí existen para otras franquicias
+  Disney). No encontré ninguno; puede que no exista todavía. No es obligatorio
+  en sí mismo.
 - **Modelo 3D libre y fiel de Casita** (punto 3): todos los resultados de
   Sketchfab con «casita»/«Encanto» son falsos positivos (comprobados uno por
   uno con la API, ver sección 2). No encontré una alternativa real; quedaría
@@ -466,6 +478,7 @@ con ambientación colombiana, no aplica japonés/coreano/chino de origen):
 8. `Encanto fan art Pixiv DeviantArt Isabela Mirabel Luisa alta calidad` (español/inglés)
 9. `Encanto embroidery pattern free vector papel picado Colombian textile texture` (inglés)
 10. `Encanto official poster variants IMAX Dolby Cinema teaser character posters` (inglés)
+11. `site:wall.alphacoders.com Encanto Mirabel wallpaper` (inglés, para el punto 16 con autor confirmado)
 
 **Fuentes consultadas** (además de las ya citadas con enlace en cada
 sección): disney.fandom.com (API + páginas Luisa/Bruno/Alma Madrigal, Casa
@@ -481,9 +494,6 @@ live.staticflickr.com (Openverse).
 deviantart.com con WebFetch (403 Forbidden, dos páginas probadas) · Wallhaven
 (0 resultados en 4 términos, no es fallo técnico sino falta de contenido).
 
-Sigue: falta cubrir con web-search los idiomas «en otros idiomas» sólo si el
-redactor lo pide (Encanto no viene de Japón/Corea/China, así que no aplica esa
-parte del punto «Profundidad exigida»); si se quiere más profundidad, ampliar
-punto 23 con confirmación de personajes exactos en Disney Emoji Blitz y Heroes
-Battle Mode, y opcionalmente medir hex de más concept art de fondos con
-`estilo.py` directamente sobre 2-3 imágenes de paisaje descargadas.
+Los 6 puntos del encargo (1, 3, 15, 16, 19, 23) están cubiertos con lo
+obligatorio; lo que quedó fuera está marcado con ⚠️ en «No encontré» como
+extra, no como pendiente.
