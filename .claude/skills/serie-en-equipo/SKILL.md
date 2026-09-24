@@ -26,13 +26,31 @@ guiándose sólo por las biblias: lo que no esté escrito, no existe.
    con la skill serie-en-equipo: relanza lo cortado y continúa». Vuelve a
    programarla en cada comprobación.
 
+## En cadena (para ir rápido sin gastar más por serie)
+
+Nunca esperes con las manos vacías. En cuanto los investigadores de una serie
+terminan, lanza **a la vez** su redactor y los investigadores de la siguiente;
+cuando un redactor termina, revisa, sube y su hueco lo ocupa el redactor de la
+serie que ya esté lista. Como mucho 5 agentes vivos (4 investigadores + 1
+redactor). Cada serie lleva su redactor nuevo: uno que siguiera con otra serie
+arrastraría la memoria de la anterior y costaría más.
+
+Al empezar, y cada vez que queden menos de 3 listas, recolecta por adelantado
+en segundo plano las 5 siguientes (gratis):
+`for id in $(python3 herramientas/siguiente.py 6 | awk 'NF>1 && $1 ~ /^[0-9]/{print $1}'); do python3 herramientas/recolectar.py $id --hojas; done`
+
+Esta sesión (el jefe) puede ir en Sonnet (`/model sonnet`): sólo lanza, revisa
+y sube. El modelo de cada agente lo fija el `model` al lanzarlo.
+
 ## El bucle (repítelo hasta que no quede nada o el dueño diga basta)
 
-**1. ¿Qué toca?** `python3 herramientas/siguiente.py 5`. Coge la primera
-(modo `seguir`, `repaso-corto`, `nueva` o `repaso`). A la vez, como mucho: una
-serie `nueva`, `repaso` o `seguir` (4 agentes), o dos `repaso-corto` (6).
+**1. ¿Qué toca?** `python3 herramientas/siguiente.py 5`. Coge la primera que
+no esté en marcha (modo `seguir`, `repaso-corto`, `nueva` o `repaso`).
 
-**2. Recolecta (gratis):** `python3 herramientas/recolectar.py <id> --hojas`.
+**2. Recolecta (gratis)**, si no se hizo por adelantado:
+`python3 herramientas/recolectar.py <id> --hojas`, y los capítulos clave con
+`herramientas/episodio.py` (2 o 3 por serie: el 1, el de la escena más icónica y
+uno reciente; ver su ayuda). Deja sus fichas en `partes/episodios.md`.
 Mira la línea «Fallaron». Si AniList o Doblaje Wiki no encontraron la obra,
 repite con `--solo anilist doblaje_wiki --nombres "<título en inglés>" "<título latino>"`.
 En `repaso-corto` basta sin `--hojas`.
@@ -43,14 +61,16 @@ uno por rol. Roles: `imagen`, `video`, `voz`, `texto`; en `repaso-corto` sólo
 
 > Eres el investigador de **<rol>** del equipo de **<id>** en /home/user/sintonizando-investigacion. Lee AYUDANTE.md (sobre todo «Ahorra sin recortar»), EQUIPO.md, ENCARGO.md y encargos/<id>.md. Haz sólo los puntos que EQUIPO.md da a tu rol, a fondo, y escribe sólo en biblias/<id>/partes/<rol>.md y partes/<rol>.json (el de imagen, también hojas/). Empieza por biblias/<id>/partes/datos-<rol>.md: no repitas esas consultas. No toques biblia.md ni uses git. Si tu parte ya existe, sigue desde su línea «Sigue:» o desde lo pendiente. Lo pesado va a /tmp/claude-0/trabajo/<id>-<rol>. Tandas de unas 70 acciones: al llegar, deja «Sigue: …» al final de tu parte y termina. YouTube pide iniciar sesión desde este servidor: usa Dailymotion, Internet Archive, AnimeThemes, las muestras de Doblaje Wiki o los storyboards (±2 s). No instales programas de terceros para saltarte bloqueos. Al terminar, contesta en 3 líneas.
 
+Añade siempre: «Una sola tanda: hasta unas 100 acciones. Antes de terminar, repasa tus puntos contra ENCARGO.md: lo **obligatorio** (lo que pide cada punto) no se deja; si no te da, deja `Sigue:` sólo con lo obligatorio que falte. Lo que sería un extra va en «No encontré» con ⚠️, no en `Sigue:`. Lee también partes/episodios.md si existe.»
+
 Añade según el modo:
 - `repaso` / `seguir`: «Es un repaso: `python3 herramientas/seccion.py <id> --rol <rol>` y `--avisos` te dan lo que ya hay; aporta lo que falta, confirma lo dudoso y ve más hondo (COMPLEMENTO.md).»
 - `repaso-corto`: «Sólo tus puntos <lista>, nuevos en el encargo: no están en la biblia. Mira `seccion.py <id> --indice` para no repetir nada.»
 
-**4. Relanza los cortados.** Cuando un investigador termina, mira el final
-de su parte: si hay `Sigue:`, lánzalo otra vez (nuevo agente, Sonnet, el mismo
-mensaje). Como mucho 4 tandas por rol; si aún queda algo, pasa al redactor y
-que lo marque ⚠️ en la tabla.
+**4. Relanza sólo lo obligatorio.** Si una parte acaba con `Sigue:` (sólo
+lleva lo obligatorio que faltó), relanza ese rol con un mensaje corto que diga
+exactamente eso, hasta 50 acciones. Como mucho 2 tandas por rol; si aún queda
+algo, que el redactor lo marque ⚠️ en la tabla y lo diga.
 
 **5. Redactor** (Agent, **`model: "opus"`**) cuando no quede ningún `Sigue:`:
 
@@ -60,7 +80,8 @@ Añade según el modo:
 - `repaso` / `seguir`: «Es un repaso: **edita en su sitio** la biblia que ya hay (COMPLEMENTO.md); no la leas entera, usa `seccion.py <id> --indice` y lee sólo la sección que vas a tocar. Mete lo nuevo, añade lo que falte y actualiza «Segunda pasada · qué cambió» y la tabla con los 25 puntos.»
 - `repaso-corto`: «Sólo añade las secciones de los puntos 18-25 con lo de las partes, en su sitio (mira `seccion.py <id> --indice`), y actualiza la tabla de cumplimiento con los 25 puntos, «Segunda pasada · qué cambió», los conceptos si mejoran y la bitácora. No reescribas lo demás.»
 
-**6. Revisa:** `python3 herramientas/revisar.py <id>` (exige los 25 puntos) y
+**6. Revisa:** `python3 herramientas/revisar.py <id>` (exige los 25 puntos, 40
+webs distintas enlazadas, 15 minutos, 10 hex, bitácora y conceptos) y
 `grep -n -A45 'Cumplimiento del encargo' biblias/<id>/biblia.md`. Si falta
 algo, SendMessage al investigador de ese punto (o relánzalo con el encargo
 concreto) y luego al redactor. No lances equipos nuevos para arreglos.
