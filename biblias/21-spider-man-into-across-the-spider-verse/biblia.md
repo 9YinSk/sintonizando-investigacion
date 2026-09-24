@@ -1539,6 +1539,217 @@ personajes (la IA mete el traje equivocado o se niega).
   Shavrin (§4.3) sólo para ver cómo se reparte el collage.
 - **Acuarela de Gwen**: hilo #CreatingTheSpiderVerse (§3.2) y los
   *color keys* de @chuwenjie.
+- **Segunda pasada, imágenes con número**: pose de grafiti
+  `personajes_01` 23; Gwen y Miles `personajes_01` 12 y 40; Hobie a lápiz
+  `personajes_01` 4-10 y moodboard 11; traje de Gwen `vestuario_01`
+  133-136; chaqueta de Hobie `vestuario_01` 163-170; Peter B.
+  `peterb_01` 1-9. **Luz**: fotogramas del §2.8 (torre del reloj 0:48,
+  salto de fe 0:10). **Glitch**: tráiler UNU 2:12 y tráiler ATSV 2:06.
+
+### 18.5 Paleta para pedir (hex medidos, §5.3)
+
+- Gwen: `#2D2926` (negro), `#E6145A` (rosa), `#00FAFA` (cian).
+- Miguel: `#304080` (azul), `#E80038` (rojo).
+- Araña roja clásica: `#BF0001`.
+- Noche del salto de fe: `#020210`, `#0B143A`; silueta `#E30014`.
+- Torre del reloj: `#3E2D4F`, `#AE8DAA`, `#5E5FAF`.
+- Glitch: `#D3AE17`, `#BC1B22`, `#3BC7DB` (CMY sin negro).
+- Miles y Hobie: **sin medir** ⚠️; no pedir un hex exacto para ellos.
+
+Para 2099 de noche, añadir `violet mauve night skyline`: el «clean blue
+daylight» sólo vale de día.
+
+### 18.6 Encuadre y cómo se enmarca cada emoción
+
+- **Contrapicado** (cámara abajo): poder, crecer. **Picado**: miedo,
+  vulnerabilidad (al caer). **Plano holandés** (inclinado): confianza en
+  la acción. **Pantalla partida**: dos que hablan a la vez, cada uno en
+  su viñeta. **Congelados** y profundidad de viñeta ⚠️ (una fuente de
+  análisis: [lensviewing](https://lensviewing.com/camera-angle-shots-in-into-the-spiderverse/)).
+- **Destellos de lente distintos por mundo** (2099 no es como India) ✅
+  ([Foundry](https://www.foundry.com/insights/film-tv/graphic-look-in-comp-spiderman)).
+- Palabras: `low angle hero shot`, `dutch angle`, `split screen comic
+  panels`, `freeze frame`.
+
+### 18.7 Para una IA de texto: cómo escriben su voz
+
+**Reglas generales**
+- Frases **cortas**, de conversación, con **chistes que se cortan**.
+- **Nada de tacos**: «shoot» en inglés → **«miércoles»** en el doblaje ✅.
+- **Modismos mexicanos** en las bromas del doblaje ✅; nombres en inglés:
+  **Spider-Man**, **Spider-Woman**, **Spider-Society** ✅.
+- Gritos y sonidos: onomatopeyas dibujadas en mayúsculas («THWIP»).
+- La emoción se exagera **con el dibujo** (glitch, cajas apiladas, color
+  que cambia), no con signos: nada de «!!!» en cadena.
+
+**Por personaje**
+- **Miles**: rápido, se enreda, se justifica («It's a choice.»), bromea
+  para salir del paso; **spanglish** con su mamá; ansioso por dentro.
+- **Gwen**: seca, pocas palabras, ironía; se abre sólo con Miles.
+- **Peter B.**: cansado, sarcástico, se va por las ramas; enseña
+  haciendo.
+- **Miguel**: órdenes cortas, **grave y lento** (99 Hz, 1,98 palabras/s),
+  sin humor.
+- **Hobie**: jerga (**bruv, innit**; en latino, **modismos urbanos**
+  como «**fuchis**»), se contradice a propósito, **el más rápido**.
+
+**Frases reales por emoción** (inglés del subtítulo con su minuto, o
+latino del audio de Doblaje Wiki, §10.3):
+
+| Emoción | Frase real | Quién y dónde |
+|---|---|---|
+| **Alegre** | «Maybe I'm not late. Maybe you guys are early.» | Miles, UNU 00:07:33 |
+| **Alegre** | «Taking a crap on the establishment. I salute you.» | Hobie, ATSV 01:26:25 |
+| **Enfadado** | «¿Entonces debemos dejar morir a la gente porque un algoritmo dice que es lo que debe pasar?» | Miles, **latino** (audio) |
+| **Enfadado** | «You're the original anomaly.» | Miguel, ATSV 01:42:31 |
+| **Enfadado** | «You don't get to like my haircut.» | Gwen, UNU 00:56:20 |
+| **Explicando** | «Esos son el canon: capítulos que forman parte de todas las historias arácnidas, todas las veces…» | Miguel, **latino** (audio) |
+| **Explicando** | «Thwip and release. Feel the rhythm?» | Peter B., UNU 00:53:43 |
+| **Explicando** | «Makin' mistakes is part of it.» | tío Aaron, UNU 00:11:59 |
+| **Animando** | «Te van a pasar cosas malas en la vida, y esas nos hacen lo que somos. Pero también nos pasan cosas buenas, ¿no?» | Peter B., **latino** (audio) |
+| **Animando** | «Anyone can wear the mask. You could wear the mask.» | Miles, UNU 01:44:43 |
+| **Animando** | «Don't enlist till you know what war you're fighting.» | Hobie, ATSV 01:23:31 |
+| **Triste** | «Puedo hacer muchas cosas, pero no puedo ayudar a las personas que amo más… entonces estoy completamente sola.» | Gwen, **latino** (audio) |
+| **Triste** | «Sometimes I just wish I wasn't the only one.» | Miles, ATSV 00:24:42 |
+| **Triste** | «I don't do friends anymore.» | Gwen, UNU 00:55:34 |
+
+Las inglesas, si van a la lámina, se traducen y se marcan como
+**traducción nuestra** (el doblaje de esas líneas no se encontró ⚠️).
+
+### 18.8 El vocabulario de expresiones (para la IA de imagen)
+
+No es anime: **no hay gotas de sudor, venas ni *chibi***. Sus
+equivalentes, todos con fuente en esta biblia:
+- **Glitch** (fragmentos de color desplazado) = «esto no es de aquí»,
+  dolor, angustia (§7.1).
+- **Cajas amarillas apiladas** = agobio, pensamientos que se acumulan
+  (UNU 00:16:14).
+- **Color del fondo que cambia con el ánimo** en el mundo de Gwen
+  («anillo del humor», §5.1).
+- **Líneas de movimiento** y **onomatopeyas** dibujadas = acción.
+- **Pantalla partida** = dos a la vez; **bordes de papel rasgado** =
+  cambio de escena (§7.1).
+- Palabras: `glitch distortion`, `stacked caption boxes`,
+  `mood-colored watercolor background`, `speed lines`,
+  `hand-lettered sound effect`.
+
+---
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+*(Nuevo en la segunda pasada. Del investigador de texto y técnica, con
+entrevistas en inglés y en japonés.)*
+
+### Qué usó el estudio (Sony Pictures Imageworks) ✅
+
+- **Maya**, la herramienta principal de animación ✅
+  ([CGWORLD, en japonés](https://cgworld.jp/interview/201904-spiderverse-01.html)).
+- **Houdini**, con una interfaz propia en Python, para que el **dibujo a
+  mano se ajuste encima** de la animación 3D; humo, chispas y explosiones
+  se dibujaron a mano ✅ ([CGSpectrum](https://www.cgspectrum.com/blog/spider-man-into-the-spider-verse-how-they-got-that-mind-blowing-look)).
+- **Katana** (luz) y **Mari** (texturas), en las dos películas ✅
+  ([Foundry, UNU](https://www.foundry.com/insights/film-tv/into-spiderverse),
+  [Foundry, ATSV](https://www.foundry.com/insights/film-tv/across-the-spider-verse-nuke-mari-katana)).
+- **Nuke** para el acabado, con **más de 25 herramientas propias**
+  (Marco Recuay, jefe de composición) ✅
+  ([Foundry](https://www.foundry.com/insights/film-tv/graphic-look-in-comp-spiderman)):
+  - **Hatcher** y **Thresher**: los **puntos de trama** y el **rayado**;
+    tamaño, ángulo y espacio **a mano, plano a plano**.
+  - **ChromaShifter**: el **desfase de color** (primero para simular
+    profundidad; luego, para las estelas).
+  - **PigmentMerge**: mezcla de color que imita el **desfase CMYK** de
+    imprenta.
+  - **Brush Bomber**: 45 capas de pincel por fotograma.
+  - **Kismet** (ATSV): tinta a mano que deja que la línea **se salga del
+    borde**, para que no sea perfecta.
+  - **MaskToInk**: máscaras que se vuelven **tinta mojada**.
+- **Toon Boom Harmony**, para el **2D a mano** de ATSV: los tentáculos de
+  tinta de **la Mancha**, el «sistema nervioso» de Miles al electrificarse,
+  humo y explosiones con **una línea distinta en cada universo**; cambiaban
+  entre mapa de bits y vector según el mundo ✅
+  ([Toon Boom](https://www.toonboom.com/behind-the-amazing-2dfx-in-spider-man-across-the-spider-verse)).
+- **Incline tool** (líneas y arrugas a mano) y **Pose Stamp tool**
+  (estampa miembros y estelas), del equipo japonés de Imageworks ✅
+  (CGWORLD, **sólo en japonés**).
+- Sony pidió una **patente** en EE. UU. (diciembre de 2018) por el proceso
+  ✅ ([Deadline](https://deadline.com/2018/12/sony-gets-inventive-seeks-patents-for-spider-man-into-the-spider-verse-animation-tech-1202518373/),
+  [CGWORLD](https://cgworld.jp/interview/202006-spi-danny.html)).
+- **No** usaron Clip Studio ni Blender: esos son para la réplica.
+
+### Cómo se ve (para describirlo)
+
+- **Línea**: contorno negro de grosor variable, que **se sale del
+  borde** ✅.
+- **Sombreado**: **plano por bandas**, **puntos Ben-Day** en brillos y
+  medios tonos, **rayado** en las sombras ✅.
+- **Sin desenfoque de cámara**: lo lejano **separa sus tintas** ✅.
+- **Animación a doses** y, en Hobie, a distintos ritmos por parte del
+  cuerpo ✅ (§7.1).
+- **La paleta cambia con la emoción** dentro de una misma escena: rojo
+  → tinta azul → fuego naranja en la pelea final de UNU ✅ (visto, §2.8).
+- **Del boceto al plano**: los *storyboards* a lápiz lado a lado con el
+  fotograma final ([Internet Archive](https://archive.org/details/fz-kuox-0a-yaa-7-hm-7_202405)) ⚠️.
+- **Encuadres**: ver §18.6.
+
+### Cómo reproducirlo en Blender ✅
+
+Receta de **Amiel** ([GarageFarm](https://garagefarm.net/blog/recreating-the-spider-verse-look-in-the-blender-node-editor),
+[CGTrader](https://www.cgtrader.com/tutorials/7012-recreating-the-spider-verse-look-in-the-blender-node-editor));
+la misma en [BlenderNation, «7 steps»](https://www.blendernation.com/2024/01/15/7-steps-to-make-a-spiderverse-shader-in-blender/)
+y en [este vídeo](https://www.youtube.com/watch?v=xzz52hX5rzk). No hay
+*add-on* libre: se monta a mano.
+
+1. **Bandas**: `Shader to RGB` → `ColorRamp` (cuántas bandas de luz).
+2. **Puntos en los brillos**: `Voronoi Texture` en **Smooth F1**,
+   `Randomness` a 0; `Texture Coordinate` → `Mapping` para el tamaño; se
+   multiplica por la máscara de brillo.
+3. **Rayado en sombras**: `Wave Texture` girada, con la máscara de sombra
+   invertida; se suma a lo anterior.
+4. Agrupar con `Ctrl+G` para reusarlo.
+5. **Contorno**: **Freestyle** (Render Properties y View Layer → Line
+   Set), grosor a mano.
+6. **Desfase de impresión** en el compositor: `Separate RGBA` →
+   `Translate` de 1-2 px en rojo y verde → `Combine RGBA`.
+
+Para entender cada capa, los *shaders* de GitHub del §4.4 (MIT y sin
+licencia). **Rig libre** de los personajes: **no lo encontré** ⚠️;
+los modelos CC BY de Sketchfab (§4.2) sólo sirven para mirar poses.
+
+### Cómo reproducirlo en Photoshop ✅
+
+- **Semitono de color** (Filtro → Pixelizar): mejor en **modo CMYK**,
+  con un **ángulo distinto por canal**: eso da la trama real de imprenta
+  ✅ ([Photoshop Essentials](https://www.photoshopessentials.com/photo-effects/get-better-color-halftone-effects-in-photoshop/),
+  [Academy Class](https://www.academyclass.com/blog/colour-halftones-in-photoshop/)).
+- **Desfase**: aplicar el semitono a C, M y Y por separado y mover cada
+  canal **1-3 px**; sobre una copia, **enmascarado sólo en bordes y
+  detalles**, para no perder legibilidad ✅.
+- **Capas**: base abajo; encima, **grano de papel** en Multiplicar o
+  Superponer, opacidad baja; el rayado con pinceles de trama (§Punto 19).
+- Regla del dueño: borrar las capas tras exportar cada recorte; pruebas
+  a ×2.
+
+---
+
+## Punto 19 · Texturas 2D (tramas, papel, pinceladas, patrones y logos)
+
+*(Nuevo en la segunda pasada.)*
+
+| Capa | Qué | Enlace y licencia |
+|---|---|---|
+| **Trama Ben-Day** | pinceles de semitono de **RetroSupply**, «Free Halftone Brush Kit» | [RetroSupply](https://www.retrosupply.co/), listado en [Speckyboy](https://speckyboy.com/halftone-photoshop-brushes/): **«Free for Commercial Use»** ✅ |
+| Trama (alternativas) | sets de **Brusheezy** y **Pixelbuddha** | [Brusheezy](https://www.brusheezy.com/free/spiderman), [Pixelbuddha](https://pixelbuddha.net/effects/halftone-effects-photoshop): **licencia mezclada por archivo**, comprobar cada una ⚠️ |
+| Trama por código | Ben-Day y rayado por brillo | *shaders* del §4.4 (MIT) ✅ |
+| **Papel** del cómic y del fanzine | Paper 001, Paper & Card | [ambientCG](https://ambientcg.com/view?id=Paper001), [Poly Haven](https://polyhaven.com/textures/paper-card): **CC0** ✅ |
+| **Cartón** | Cardboard Set 001 | [ambientCG](https://ambientcg.com/view?id=CardboardSet001), CC0 ✅ |
+| **Patrón del traje de Gwen** | **rejilla diagonal rosa y cian** en brazos y capucha, no la telaraña clásica | turnaround de Kris Anka, `vestuario_01` 133-136 ✅ |
+| **Parches de Hobie** | **pintados a mano**, letras recortadas de fanzine, collage y fotocopia | Jake Panian, `vestuario_01` 163-170; moodboard 11 de `personajes_01` ✅ |
+| **Emblemas** | la araña **cambia de silueta** por personaje: redondeada en Peter B. (`#BF0001`), angulosa en las variantes de Gwen; Hobie usa **flyers y parches** en vez de un logo fijo | asset oficial y turnaround ✅ |
+| **Prowler de Tierra-42** | diseños descartados: rosa, morado, rojo y verde; **símbolos pintados con espray** | [The Direct](https://thedirect.com/article/spider-verse-2-miles-morales-prowler-designs-rejected-photos) ✅ (Punto 25) |
+| **Logos** | logo de ATSV en PNG (1986×658 y blanco 1280×442) | [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/28/Spider-Man_Across_The_Spider-Verse_Logo.png), [blanco](https://upload.wikimedia.org/wikipedia/commons/5/5a/Spider-Man_Across_The_Spider-Verse_Logo_%28White%29.png): la página dice CC BY-SA, pero **es una marca**: sólo referencia ⚠️ |
+
+Junto con las texturas reales (§5.4) y el 3D (§4), no falta ninguna
+capa: pared, papel, trama, rayado, desfase, parche y logo.
 
 ---
 

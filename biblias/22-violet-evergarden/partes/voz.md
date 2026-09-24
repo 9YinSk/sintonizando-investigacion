@@ -555,12 +555,134 @@ de poemas encaja con la serie, más allá de la lámina.
 
 ## Lo mejor para la lámina
 
-Sigue: pendiente.
+- La cara de Violet **nunca es kawaii ni furiosa**: su sonrisa es breve
+  y tardía (ep. 5 y 9), su llanto no desfigura el gesto, y su enfado es
+  contención, no grito — mirarlo en las capturas reales antes de posar
+  al personaje.
+- **Benedict Blue** es el secundario más querido en dos encuestas
+  independientes (2021 y 2022): si se hace una lámina 2 con un
+  secundario, es la apuesta con más respaldo de datos.
+- El saludo **«Encantada. Allá donde el cliente lo desee, acudiré…»**
+  es la frase de Violet que más se repite (6 episodios) y la que más
+  citan los fandubs: sirve de frase ancla para el tono del canal.
+- El **ep. 10** (las cartas de la madre, música «Letters From Heaven»)
+  es el que más se cita como el mejor/el que más duele: si la lámina
+  necesita una emoción de fondo, es esa.
+- Los fandubs y covers del opening en español (varios canales, 2018 a
+  2022) prueban que la comunidad hispana **ya recita textos de la
+  serie por su cuenta**: encaja de más con un foro de poemas.
 
 ## No encontré
 
-Sigue: pendiente.
+- **Encuesta oficial** de Kyoto Animation o de la editorial (sólo
+  encontré la de ねとらぼ, un medio de noticias, votada por el público).
+- **Frases textuales del doblaje LATINO** con fuente: los clips
+  oficiales doblados están en YouTube, que pide iniciar sesión desde
+  este servidor (lo probé en 3 vídeos distintos, con `yt-dlp`, en tres
+  momentos separados). El plan B (Dailymotion) sólo me dio un tráiler
+  en **castellano de España** (transcrito con `voz.py`, pero no lo
+  cito como latino) y un tráiler de Netflix cuyo audio Whisper no supo
+  transcribir (probablemente es japonés con texto en pantalla, no
+  doblaje). La «Muestra multimedia» de Doblaje Wiki para esta serie es
+  un vídeo de YouTube con **sólo los nombres de los actores por
+  personaje y su minuto** (lo usé para §8), no diálogo. No
+  encontré un audio de Doblaje Wiki nativo (`.ogg`/`.mp3`) específico
+  de un personaje de esta serie: los `demoN` de los actores son
+  reels genéricos de su carrera, no de Violet Evergarden.
+- **Comida favorita, cumpleaños y «lo que odia»** de todos los
+  personajes salvo el cumpleaños de Violet (25 de septiembre, sí
+  confirmado): el Starter Book oficial que sí pude leer (traducido en
+  dennou-translations) no trae esos campos para el resto del reparto.
+- **Caras por emoción de Gilbert y Hodgins**: la wiki no tiene ninguna
+  captura etiquetada por emoción para ellos (busqué «Gilbert sad»,
+  «Gilbert crying», «Gilbert angry», «Hodgins laughing», «Hodgins sad»).
+- **Miedo** en la cara de Violet: sin captura etiquetada; sólo una
+  referencia de tráiler (no de episodio, ver §13).
+- **Vistas y fechas exactas** de los fandubs y covers hispanos de §22:
+  el buscador los encuentra, pero no pude abrir YouTube para confirmar
+  vistas ni leer la descripción completa.
+- **Compositor por pista** del OST (créditos oficiales del Blu-ray):
+  usé una guía de fans (odanurr87, tumblr) para saber qué pista suena
+  en cada escena, no la lista oficial del disco.
+- **Parodias o memes hispanos** de la serie: no encontré ninguno; lo
+  que hay en español es doblaje serio y covers, no humor.
 
 ## Bitácora
 
-Sigue: pendiente.
+**De `datos-voz.md`** (no repetido, sólo verificado): AniList
+(favoritos y fichas), Doblaje Wiki (ficha y reparto vacío de nombres),
+wiki de personajes (Gilbert, Hodgins), Danbooru (mal, corregido abajo),
+Dailymotion (clips), Reddit vía Arctic Shift.
+
+**Búsquedas nuevas de esta pasada** (español, inglés y japonés):
+- `danbooru.donmai.us/counts/posts.json?tags=<personaje>` — conteo real
+  por personaje (corrige el error de `datos-voz.md`).
+- «ねとらぼ ヴァイオレット・エヴァーガーデン 人気投票 キャラクター 結果» (japonés,
+  WebSearch) → dos artículos de encuesta (2021 y 2022), leídos con
+  WebFetch.
+- «Violet Evergarden official popularity poll Dengeki Da Vinci ranking
+  characters» (inglés) → sin resultado oficial.
+- `doblaje.fandom.com/es/api.php` sobre `Violet_Evergarden`,
+  `Violet_Evergarden_(personaje)`, `Andrea_Arruti`, `Carla_Castañeda` —
+  wikitext completo, no sólo lo que ya traía `datos-voz.md`.
+- yt-dlp sobre 3 vídeos de YouTube (info + subtítulos): bloqueados por
+  «Sign in to confirm you're not a bot» los tres.
+- `voz.py` (Whisper) sobre dos clips de Dailymotion: uno dio diálogo
+  real (tráiler en castellano), el otro alucinó texto sin sentido.
+- `fotogramas.py` sobre 2 clips de Dailymotion (tráiler español,
+  «parachute scene») → hojas de contacto miradas con `Read`.
+- `violet-evergarden.fandom.com/api.php?action=query&list=search&srnamespace=6`
+  con «Violet crying», «Violet smile», «Violet awkward smile», «Iris
+  angry», «Angry Cattleya», y otras 10 combinaciones que no dieron
+  resultado (miedo, vergüenza, Gilbert/Hodgins por emoción) — filtro de
+  archivos (`srnamespace=6`), no de texto.
+- Descarga de 6 capturas reales de la wiki (`Referer:
+  https://www.fandom.com/`), montadas en una hoja de contacto propia
+  con Pillow y miradas con `Read`.
+- WebSearch: «Violet Evergarden character profile favorite food
+  birthday height official databook» (inglés) → Starter Book oficial
+  traducido (dennou-translations), dos veces (Fanbook y Starter Book).
+- WebFetch de ambas páginas de dennou-translations (Tumblr).
+- WebSearch: «Violet Evergarden light novel Violet favorite food hobby
+  doesn't understand self image doll» (inglés) → resumen de la novela
+  ligera (NamuWiki, personality-database).
+- WebSearch: «Violet Evergarden awards Crunchyroll Anime Awards 2018»
+  (inglés) → Wikipedia en inglés, premios confirmados.
+- WebFetch de `odanurr87.tumblr.com` (guía de pistas del OST por
+  episodio).
+- WebSearch: «Violet Evergarden review why people love reddit identify
+  with Violet emotional growth PTSD» (inglés) → reseñas de MyAnimeList.
+- WebSearch: «"Violet Evergarden" fandub español latino youtube canal
+  escena» y «Violet Evergarden opening español cover Sincerely latino»
+  (español) → fandubs y covers listados en §22.
+- WebFetch de `knowyourmeme.com/memes/subcultures/violet-evergarden`.
+- TV Tropes (`Tearjerker`, `Heartwarming`, `YMMV`): **403** directo y
+  por WebFetch; intenté Wayback Machine por `curl` y por WebFetch:
+  **bloqueado por política de salida de este contenedor**
+  (`Blocked by egress policy` / «Claude Code is unable to fetch from
+  web.archive.org»). Usé el resumen que da el buscador citando esas
+  páginas en su lugar.
+- `archive.org/advancedsearch.php?q=Violet+Evergarden+latino` — sin
+  episodios ni clips en español latino, sólo doblaje inglés y OST.
+
+**Fuentes nuevas citadas en esta parte** (cuento aparte de las 40+ que
+ya traía la biblia vieja): ねとらぼ (2 artículos), Doblaje Wiki (4
+páginas nuevas: personaje de Violet, Andrea Arruti, Carla Castañeda,
+Archivo de la muestra multimedia), ANMTV (2 artículos), Danbooru (API
+de conteo), dennou-translations (2 posts), Know Your Meme,
+odanurr87.tumblr.com, Wikipedia en inglés (premios), 6 imágenes de
+`violet-evergarden.fandom.com`, Dailymotion (2 clips), MyAnimeList
+(reseñas, vía resumen), varios canales de YouTube y Facebook de
+fandub/covers (11 enlaces).
+
+Sigue: punto 8, obligatorio y no cerrado del todo — conseguir **frases
+textuales del doblaje LATINO** (no el de España) con fuente. Necesita
+acceso a YouTube (los clips «Violet y Gilbert confesión - Doblaje
+Latino Oficial» y similares, bloqueados aquí por «Sign in to confirm
+you're not a bot») o a Netflix/Crunchyroll con cuenta para oír el
+episodio 1 o el especial doblados. Todo lo demás de mis puntos (7, 8
+salvo esto, 12, 13, 20, 21, 22) está cerrado con fuentes dobles donde
+las hay, y lo que falta de verdad (miedo/vergüenza en imagen, caras de
+Gilbert y Hodgins, comida/cumpleaños de todos salvo Violet, compositor
+por pista del OST) va en «No encontré» porque son extras, no lo
+obligatorio del encargo.
