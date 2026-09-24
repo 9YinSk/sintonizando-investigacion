@@ -2117,6 +2117,104 @@ de Inumaki y el **picnic de onigiri** (§19).
 - Obras de la propia franquicia (AniList): el manga, *JJK 0*
   (precuela), la T2 y un ONA corto (*PV*) ✅.
 
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+Segunda pasada, del investigador de texto (wiki por la API, 24-sep-2026;
+cada kanji comprobado en el wikitext). Dominio, velo y Destello Negro
+ya están en §0, §2 y §7.
+
+### 25.1 Las reglas del mundo, en cinco líneas
+
+1. La **energía maldita** (呪力) nace de las emociones negativas (miedo,
+   pena, rabia, vergüenza). Donde se acumula (colegios, hospitales)
+   forma **espíritus malditos** ✅ ([wiki, Cursed Energy](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Energy)).
+2. **Sólo una maldición acaba con otra**: por eso hay **hechiceros**, que
+   usan la energía maldita con su **técnica** heredada o innata ✅.
+3. **Votos vinculantes** (縛り): una restricción a cambio de más poder;
+   romperlos se paga caro ✅ ([wiki, Binding Vow](https://jujutsu-kaisen.fandom.com/wiki/Binding_Vow)).
+   La **restricción celestial** (天与呪縛) es un voto de nacimiento:
+   Toji no tiene energía maldita, pero su cuerpo es sobrehumano ✅
+   ([wiki, Heavenly Restriction](https://jujutsu-kaisen.fandom.com/wiki/Heavenly_Restriction)).
+4. Todo se mide en **grados** (especial, del 1 al 4): hechiceros,
+   maldiciones y **herramientas malditas** (呪具), armas que hasta alguien
+   sin poder puede usar ✅ ([wiki, Cursed Tool](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Tool)).
+5. Manda la **Sede de Jujutsu** y, por encima, las **Tres Grandes
+   Familias** (御三家: Zenin, Gojo, Kamo), clanes de más de mil años que
+   heredan técnicas de sangre y deciden en las escuelas de Tokio y Kioto
+   ✅ ([wiki, Sorcerer Clan](https://jujutsu-kaisen.fandom.com/wiki/Sorcerer_Clan)).
+
+### 25.2 La historia por arcos
+
+9 arcos, 275 capítulos, 59 episodios y una película ✅
+([wiki, Story Arcs](https://jujutsu-kaisen.fandom.com/wiki/Story_Arcs)).
+
+| Arco | Capítulos · episodios | Momento clave |
+|---|---|---|
+| **Niño maldito** (*JJK 0*) | 0-1 a 0-4 · película | Yuta acepta que lo ejecuten por un espíritu que no controla; entra en la escuela |
+| **Vientre temible** | 1-18 · ep. 1-8 | Yuji se traga el dedo de Sukuna para salvar a sus amigos |
+| **Contra Mahito** | 19-31 · ep. 9-13 | Nanami y Yuji contra Mahito; muere Junpei (Punto 21.4) |
+| **Evento de intercambio de Kioto** | 32-54 · ep. 14-21 | Tokio contra Kioto; el primer **Destello Negro** de Yuji |
+| **Pinturas de la Muerte** | 55-64 · ep. 22-24 | desapariciones en el antiguo colegio de Megumi |
+| **El pasado de Gojo** | 65-79 · ep. 25-29 | Gojo y Geto jóvenes escoltan a Riko Amanai; su muerte los separa |
+| **Incidente de Shibuya** | 79-137 · ep. 30-47 | sellan a Gojo en la **Prisión Realm**; muere Nanami, Nobara cae herida |
+| **Juego del Sacrificio** (*Culling Game*) | 138-221 · ep. 48-59 (T3) | batalla a muerte por todo Japón en **10 colonias**, del 1-nov al 24-dic |
+| **Choque de Shinjuku** | 222-271 | Sukuna contra todos; el manga termina el 29-sep-2024 |
+
+- La wiki da «ep. 22-24, 30» para Pinturas de la Muerte ⚠️ (el 30 es
+  ya Shibuya; puede ser un solape).
+- Otra fuente cuenta **11 arcos** porque parte el Juego del Sacrificio
+  en tres (137-143, 144-158, 159-221): mismos capítulos, otro nombre ⚠️
+  ([Beebom](https://beebom.com/jujutsu-kaisen-arcs-in-order/)).
+- La T3 (9-ene a 27-mar-2026, §1) adapta el arranque del Juego.
+
+### 25.3 Emblemas, grupos y objetos
+
+- **Emblema de la Escuela de Tokio**: el remolino de cuatro brazos
+  (Punto 19.3) ✅.
+- **Tres Grandes Familias**: **Zenin** (combate puro), **Gojo** (Límite
+  Infinito y Seis Ojos; casi extinta salvo Satoru), **Kamo** (sangre
+  maldita). Zenin y Gojo llevan siglos enfrentados: dos antiguos jefes se
+  mataron entre sí ✅ ([wiki](https://jujutsu-kaisen.fandom.com/wiki/Sorcerer_Clan)).
+- **Sukuna existe en el folclore**: Ryōmen Sukuna (両面宿儺) sale en el
+  *Nihon Shoki* (s. VIII), un ser de Hida (Gifu) con **dos caras, cuatro
+  brazos y cuatro piernas**. Para la crónica imperial, un rebelde; en
+  los templos de Hida (Zenkyūji, Senkōji), **fundador de templos,
+  guardián del budismo** y forma de la Kannon de Once Cabezas ✅
+  ([Yokai.jp](https://yokai.jp/en/yokai/ryomen-sukuna) + [Wikipedia](https://en.wikipedia.org/wiki/Ryomen_Sukuna)).
+  Por eso su dominio es un **santuario budista** (rojo y negro, §5).
+- **Herramientas malditas con nombre** ✅ ([wiki](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Tool),
+  [lista](https://jujutsu-kaisen.fandom.com/wiki/Template:Cursed_Tools)):
+  - **Katana Divide-Almas** (Toji, luego Maki): corta el alma de lo que sea.
+  - **Lanza Invertida del Cielo** (Toji): anula cualquier técnica al tocarla.
+  - **Cadena de las Mil Millas** (Toji): se alarga mientras no se vea el final.
+  - **Nube Juguetona** (Geto, Maki, Megumi, Todo, Toji): bastón de pura fuerza.
+  - **Espada del Exterminio**: la de Mahoraga.
+  - **Demonio Matador**: daga ancha de Maki y Yuji.
+  - El **martillo y los clavos** de Nobara (§15, §16).
+  (Nombres traducidos por mí del inglés de la wiki; el doblaje puede
+  decirlos distinto ⚠️.)
+- El **almacén maldito** de la Escuela de Tokio guardaba las
+  herramientas de las Tres Familias bajo una barrera de Tengen, hasta que
+  Zenin y Kamo las reclamaron tras Shibuya ✅.
+
+### 25.4 Vocabulario que un fan reconoce
+
+| Término | Kanji · romaji | Qué es |
+|---|---|---|
+| Energía maldita | 呪力 · *juryoku* | la «gasolina» de todo |
+| Voto vinculante | 縛り · *shibari* | poder a cambio de una regla |
+| Restricción celestial | 天与呪縛 · *ten'yo jubaku* | un voto de nacimiento (Toji) |
+| Técnica maldita inversa | 反転術式 · *hanten jutsushiki* | energía maldita que cura |
+| Dominio simple | 簡易領域 · *kan'i ryōiki* | una defensa rápida sin abrir un dominio |
+| Juego del Sacrificio | 死滅回遊 · *shimetsu kaiyū* | el torneo a muerte de la T3 |
+| Tres Grandes Familias | 御三家 · *gosanke* | Zenin, Gojo, Kamo |
+| Herramienta maldita | 呪具 · *jugu* | arma cargada de energía maldita |
+| Expansión de Dominio, Destello Negro, velo | 領域展開, 黒閃, 帳 | ya en §2, §7 y §10.3 |
+
+**Para una lámina de evento**: el Juego del Sacrificio tiene fechas
+(1-nov a 24-dic) y 10 colonias; da un **calendario o cartel de cuenta
+atrás** con aire de la serie.
+
 ## 19 · Tres conceptos de lámina
 
 Los tres son **distintos**: sitio, objeto, personaje y cuadro de diálogo
