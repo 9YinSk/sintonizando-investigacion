@@ -57,7 +57,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 - [ ] 21-spider-man-into-across-the-spider-verse
 - [ ] 22-violet-evergarden
-- [ ] 23-lilo-stitch
+- [x] 23-lilo-stitch
 - [ ] 24-assassination-classroom
 
 ## Tanda S7
