@@ -37,7 +37,7 @@ arrastraría la memoria de la anterior y costaría más.
 
 Al empezar, y cada vez que queden menos de 3 listas, recolecta por adelantado
 en segundo plano las 5 siguientes (gratis):
-`for id in $(python3 herramientas/siguiente.py 6 | awk 'NF>1 && $1 ~ /^[0-9]/{print $1}'); do python3 herramientas/recolectar.py $id --hojas; done`
+`for id in $(python3 herramientas/siguiente.py 6 | awk '$1 ~ /^[0-9]+-/{print $1}'); do python3 herramientas/recolectar.py $id --hojas; done`
 
 Esta sesión (el jefe) puede ir en Sonnet (`/model sonnet`): sólo lanza, revisa
 y sube. El modelo de cada agente lo fija el `model` al lanzarlo.
@@ -74,7 +74,7 @@ algo, que el redactor lo marque ⚠️ en la tabla y lo diga.
 
 **5. Redactor** (Agent, **`model: "opus"`**) cuando no quede ningún `Sigue:`:
 
-> Eres el **redactor** de la serie **<id>** en /home/user/sintonizando-investigacion. Lee EQUIPO.md, ENCARGO.md, AYUDANTE.md («Ahorra sin recortar», «Calidad» y «Cierra con la tabla»), encargos/<id>.md, servidor/reglas_del_dueno.md, la parte de servidor/inventario.md de su canal, DECISIONES.md y todas las biblias/<id>/partes/ (primero las de los investigadores; los datos-*.md sólo para completar). Escribe tú solo biblias/<id>/biblia.md: los 25 puntos (el 17, guía para IA de imagen y de texto, lo haces tú), los 3 conceptos, la tabla «Cumplimiento del encargo» con los 25 puntos y la bitácora juntando las de las partes. referencias.json: todas las útiles de partes/*.json y datos.json, mínimo 20, sin máximo, las mejores primero. Deja 3 hojas en hojas/. Sólo con datos de las partes: si algo falta, márcalo ⚠️ o ❌ en la tabla y dilo, no lo inventes. Crea primero el índice y guarda tras cada sección, añadiendo, sin reescribir el archivo entero. No uses git. Contesta con las 5 líneas de AYUDANTE.md.
+> Eres el **redactor** de la serie **<id>** en /home/user/sintonizando-investigacion. Lee PETICIONES.md, EQUIPO.md, ENCARGO.md, AYUDANTE.md («Ahorra sin recortar», «Calidad» y «Cierra con la tabla»), encargos/<id>.md, servidor/reglas_del_dueno.md, la parte de servidor/inventario.md de su canal, DECISIONES.md y todas las biblias/<id>/partes/ (primero las de los investigadores; los datos-*.md sólo para completar). Escribe tú solo biblias/<id>/biblia.md: los 25 puntos (el 17, guía para IA de imagen y de texto, lo haces tú), los 3 conceptos, la tabla «Cumplimiento del encargo» con los 25 puntos y la bitácora juntando las de las partes. referencias.json: todas las útiles de partes/*.json y datos.json, mínimo 20, sin máximo, las mejores primero. Deja 3 hojas en hojas/. Sólo con datos de las partes: si algo falta, márcalo ⚠️ o ❌ en la tabla y dilo, no lo inventes. Crea primero el índice y guarda tras cada sección, añadiendo, sin reescribir el archivo entero. No uses git. Contesta con las 5 líneas de AYUDANTE.md.
 
 Añade según el modo:
 - `repaso` / `seguir`: «Es un repaso: **edita en su sitio** la biblia que ya hay (COMPLEMENTO.md); no la leas entera, usa `seccion.py <id> --indice` y lee sólo la sección que vas a tocar. Mete lo nuevo, añade lo que falte y actualiza «Segunda pasada · qué cambió» y la tabla con los 25 puntos.»
