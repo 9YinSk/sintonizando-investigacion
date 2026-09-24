@@ -30,11 +30,19 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
-19. Tres conceptos de lámina
-20. Lo que no pude verificar
+18. Guía para generar con IA (imagen y texto)
+19. Estilo de dibujo y técnica, y cómo replicarlo
+20. Texturas 2D
+21. Gustos y detalles de cada personaje
+22. Por qué la gente la ama
+23. Fan dubs y comunidad hispana
+24. Colaboraciones y cruces
+25. Obras parecidas y láminas vecinas
+26. El mundo y sus símbolos
+27. Tres conceptos de lámina
+28. Lo que no pude verificar
 - Cumplimiento del encargo
-21. Bitácora de búsqueda
+29. Bitácora de búsqueda
 
 ---
 
@@ -48,7 +56,53 @@ fecha: 2026-09-24
 
 ## 2 · Las escenas que sirven (con minuto)
 
-(pendiente)
+**Cómo leer los minutos**: YouTube no me dejó bajar nada en toda la sesión
+(«429» y «confirma que no eres un bot», 10+ intentos espaciados, §29). Miré
+las escenas en **copias de Dailymotion** y en el **PV2 oficial en 1080p de
+Internet Archive** (subido por Turner/Toonami). Por eso el minuto que doy es
+**el del vídeo que vi** (enlazado), no el del episodio; el episodio sale de la
+wiki (✅). El minuto **dentro del episodio** lleva ⚠️ cuando lo doy.
+
+Episodios: **T1** = temporada 1 (Madhouse, eps. 1-12, oct-dic 2015).
+**T2** = temporada 2 (J.C.Staff, eps. 13-24, abr-jul 2019). **T3** =
+temporada 3 parte 1 (J.C.Staff, eps. 25-36, oct-dic 2025). La **T3 parte 2**
+está anunciada para **2027** (V-STORAGE, may-2026; [Anime Corner](https://animecorner.me/its-official-one-punch-man-season-3-anime-gets-second-part-in-2027/)).
+
+### 2.1 Las escenas que todo fan reconoce
+
+| # | Escena | Episodio (wiki) | Minuto que vi | Por qué sirve |
+|---|---|---|---|---|
+| 1 | **«Soy alguien que es héroe por diversión»** (趣味でヒーローをやっている者だ) a Vaccine Man, y **lo mata de un golpe** | T1-01 «El Hombre Más Fuerte» | latino: 0:34 de [esta recopilación](https://www.dailymotion.com/video/x6t9n9l) ⚠️ no oficial | la frase que define a Saitama; la cita de la wiki abre su ficha: «I'm just a guy who's a hero for fun» |
+| 2 | «**Tener fuerza sobrehumana es bastante aburrido**» | T1-01 | latino: 0:40, misma recopilación | su drama: **aburrirse de ganar** |
+| 3 | **La carne rebajada del súper** con su etiqueta | T1-01 | wiki «S1E1 - Saitama thinking…» (1920×1080) | el súper, desde el primer capítulo |
+| 4 | **«¡Hoy es el día de oferta del súper!»**: mata a Carnage Kabuto porque llega tarde | T1-03 | wiki «Saitama when knowing he will miss a bargain sale» | **gag del súper**; lo usó la exposición oficial del 10.º aniversario (entradas «día de oferta» con 200 ¥ menos, V-STORAGE) |
+| 5 | **Genos pide ser discípulo**; Saitama acepta a desgana | T1-02 «El Cíborg Solitario» | PV2: 0:42 «Take me as your disciple» ([PV2 1080p, Internet Archive](https://archive.org/details/turner_video_135772), 0:42) | la pareja maestro-alumno |
+| 6 | **«En 20 palabras o menos»**: corta la historia de Genos | T1-02 ⚠️ | — (no lo vi) | textos cortos |
+| 7 | **El examen de héroe**: aprueba por **un punto**, clase C, 71/100; Genos, S | T1-05 | wiki «Results.png» | **el papel** del aviso de resultados |
+| 8 | **El meteorito**: Saitama lo revienta y la gente le culpa de los destrozos | T1-07 | wiki «EP7 - Genos visualizes Saitama…» | héroe sin reconocimiento |
+| 9 | **Mumen Rider contra el Rey del Mar Profundo**, bajo la lluvia: lanza la bici, se presenta, cae; el público le anima | T1-09 «Unyielding Justice / Justicia inquebrantable» (不屈の正義) | [copia en Dailymotion](https://www.dailymotion.com/video/x8rl50h): bici 3:00, «The righteous cyclist, Mumen Rider, is here!» 3:08, «I'm weak. I know that much.» 4:00, «And yet, I have to try.» 4:12, «Mumen Rider, you can do it!» 4:32 | **la escena más querida** de Mumen (Dengeki 2025, §9) |
+| 10 | Saitama **coge a Mumen al caer**: «You did well. Nice fight.»; luego «**It's raining, so let's get this over with**» y un golpe | T1-09 | misma copia: 5:12 y 6:00 | felicitar; Saitama tranquilo |
+| 11 | Saitama **se hace el malo** para que la gente no culpe a los otros héroes | T1-09 | wiki «EP9 - Saitama turning the civilians against him» | por qué le quieren |
+| 12 | **«¿Y esta niña perdida tan insolente?»** a Tatsumaki (生意気な迷子) | T1-10 | wiki «Saitama called Tatsumaki a lost child»; meme en [Know Your Meme](https://knowyourmeme.com/memes/whats-with-this-sassy-lost-child) | Tatsumaki furiosa |
+| 13 | **Boros**: «esta armadura sellaba mi poder… ahora está rota» → Saitama: «**OK**» (el meme sale del manga, cap. 34) | T1-12 | latino: 2:38 de la recopilación; manga: [KYM](https://knowyourmeme.com/memes/saitama-ok) | el meme de la serie |
+| 14 | Boros patea a Saitama **a la Luna**; mira la Tierra, aguanta la respiración y salta de vuelta | T1-12 | [copia de aniBattle](https://www.dailymotion.com/video/x9b8564) 4:04-4:20 (⚠️ copia con filtro de color) | imagen épica |
+| 15 | **Golpe Serio** (マジ殴り) contra el Cañón de Estrella que Colapsa | T1-12 | misma copia 5:44-6:20 | clímax |
+| 16 | **King y Saitama juegan a la consola** en el cuarto de King | T2 (eps. 13-14) y manga | wiki «King and Saitama play video games», «King gamerboy» | el cuarto de King |
+| 17 | Saitama en el **torneo de artes marciales con peluca** (se hace pasar por Charanko) | T2-17 a T2-22 | wiki «Saitamaattournament», «Saitama vs Suiryu» | disfraz, gag |
+| 18 | **Garou apalea a Mumen Rider**, que aun así se levanta | T2 | wiki «Garou defeats Mumen Rider» | Mumen otra vez |
+| 19 | **El hot pot** en el apartamento (carne de Kuseno, repollo de Fubuki): todos se lanzan a la olla | manga cap. 90; anime T2 ⚠️ episodio sin comprobar | wiki «Hotpotflyer.png»; plató en la exposición 2026 | reunión, fiesta |
+| 20 | **La redada a la Asociación de Monstruos**: Tatsumaki levanta la base entera | T3 | wiki «Tatsumaki lifts Monster Association base out of ground» (manga) | poder de Tatsumaki |
+
+### 2.2 Tres escenas para cada lámina posible
+
+- **Para un canal de castings o presentaciones** (fichas, rangos, pruebas):
+  el **examen de héroe** (T1-05, el papel «C»), las **fichas del PV3**
+  (0:44-1:45) y Saitama **leyendo su ranking** con disgusto.
+- **Para un canal de ofertas**: el **súper** del PV2 (0:37), la carne
+  rebajada (T1-01) y el grito de «¡la oferta!» (T1-03).
+- **Para un canal de «ánimo» o de retos**: **Mumen Rider bajo la lluvia**
+  (T1-09) con el público gritando «¡tú puedes!».
+- **Para un canal de juegos**: **King y Saitama con la consola** (T2).
 
 ## 3 · Arte oficial y hojas de contacto
 
@@ -285,7 +339,7 @@ ni la ñ**: descartada.
   «PROFILE», «SPECIAL») y letra de máquina: parecen una **revista de
   héroes** (wiki, «Saitama Databook», 1920×1500).
 - **Ediciones en español**: ⚠️ no comprobé la letra de los globos de Ivrea
-  ni de Panini (ver §20).
+  ni de Panini (ver §28).
 
 ### 6.4 Qué NO hacer
 
@@ -537,7 +591,7 @@ ni la ñ**: descartada.
 ### 10.3 Frases del doblaje latino, textuales (con vídeo y minuto)
 
 (pendiente: depende de que YouTube deje bajar los subtítulos de los clips
-de Netflix Latinoamérica; ver §12 y §21)
+de Netflix Latinoamérica; ver §12 y §29)
 
 ## 11 · Música
 
@@ -567,15 +621,47 @@ de Netflix Latinoamérica; ver §12 y §21)
 
 (pendiente)
 
-## 18 · Guía para generar con IA
+## 18 · Guía para generar con IA (imagen y texto)
 
 (pendiente)
 
-## 19 · Tres conceptos de lámina
+## 19 · Estilo de dibujo y técnica, y cómo replicarlo
 
 (pendiente)
 
-## 20 · Lo que no pude verificar
+## 20 · Texturas 2D
+
+(pendiente)
+
+## 21 · Gustos y detalles de cada personaje
+
+(pendiente)
+
+## 22 · Por qué la gente la ama
+
+(pendiente)
+
+## 23 · Fan dubs y comunidad hispana
+
+(pendiente)
+
+## 24 · Colaboraciones y cruces
+
+(pendiente)
+
+## 25 · Obras parecidas y láminas vecinas
+
+(pendiente)
+
+## 26 · El mundo y sus símbolos
+
+(pendiente)
+
+## 27 · Tres conceptos de lámina
+
+(pendiente)
+
+## 28 · Lo que no pude verificar
 
 (pendiente)
 
@@ -583,6 +669,6 @@ de Netflix Latinoamérica; ver §12 y §21)
 
 (pendiente)
 
-## 21 · Bitácora de búsqueda
+## 29 · Bitácora de búsqueda
 
 (pendiente)
