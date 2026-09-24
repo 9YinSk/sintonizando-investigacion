@@ -463,8 +463,8 @@ Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del 
 |---|---|---|---|
 | Logo «ONE PIECE» (estilo manga, con sombra 3D) | rotulado propio | **[One Piece](https://www.dafont.com/one-piece.font) de dafont**, de **The Docallisme (Amry Al Mursalaat)**, *donationware*, gratis para uso personal | **No** ❌: 114 glifos, sin á, ñ, ¿ ni ¡; las cifras son caritas. Sirve para «BIENVENIDO A BORDO» (sin tildes) usando el **.otf** (el .ttf del zip se ve mal en Pillow). La «¡» hay que dibujarla. *Antes decía que era de Phantom King Graphics: es otra letra.* |
 | Logo con calavera en la O (decorativa) | — | **[ONE PIECE](https://www.fontspace.com/one-piece-font-f16014) de FontSpace**, de **Phantom King Graphics** (2006); su `info.txt` dice **dominio público** | **Sí** ✅: 693 glifos, con á é í ó ú ñ ¿ ¡. Ojo: la O es una calavera y la E lleva un hueso; no es el logo, es «de piratas». Para títulos cortos. |
-| «WANTED» y el nombre del cartel | Times New Roman Extra Bold comprimida ⚠️ ([foro de dafont](https://www.dafont.com/forum/read/511025/one-piece-wanted-poster-font-berries-font)) | **Tinos Bold** comprimida, o **Playfair Display** (la usa el generador de PyPI) | Sí ✅ (las dos) |
-| «DEAD OR ALIVE» | Century Old Style ⚠️ (mismo foro) | **Old Standard TT** Bold o **Libre Caslon Text** | Sí ✅ (las dos) |
+| «WANTED» y el nombre del cartel | Times New Roman Extra Bold comprimida ✅ ([foro de dafont](https://www.dafont.com/forum/read/511025/one-piece-wanted-poster-font-berries-font) + **comparación a ojo**: escribí «WANTED» y «MONKEY·D·LUFFY» en Tinos Bold, estrechada al ancho del cartel O3, y coincide letra a letra; el original es sólo un poco más negro) | **Tinos Bold** comprimida (la gemela libre de Times), o **Playfair Display** (la usa el generador de PyPI) | Sí ✅ (las dos) |
+| «DEAD OR ALIVE» | Century Old Style ⚠️ (sólo el mismo foro; a ojo es una serifa **más negra** que las que proponía antes) | **Crimson Pro Black** (Google Fonts, OFL): es la que mejor encaja al compararla sobre el cartel O3; también **Noto Serif ExtraBold**. *Antes: Old Standard TT o Libre Caslon, que salen demasiado finas.* | Sí ✅ (las cuatro, fontTools) |
 | «SE BUSCA / vivo o muerto» (versión de España, hoja O2) | serifa gruesa + cursiva | **Tinos Bold** para «SE BUSCA», **Libre Caslon Text** cursiva para «vivo o muerto» | Sí ✅ |
 | El nombre (otra opción de fans) | — | **Scheherazade New** Bold (la usa el generador de [YuskaWu](https://github.com/YuskaWu/one-piece-wanted-poster)) | Sí ✅ |
 | La recompensa (cifras) | — | **Vertiky** ([1001fonts](https://www.1001fonts.com/vertiky-font.html), licencia «1001Fonts Free For Commercial Use», leída en el zip). Lilly (viene en el paquete de PyPI; © Apostrophic Laboratories, sin archivo de licencia en el paquete: sólo de referencia) | **Sí** ✅ las dos: Vertiky 204 glifos y Lilly 220, con á é í ó ú ñ ¿ ¡ ü y cifras (fontTools). *Antes: «no probadas».* |
@@ -616,7 +616,7 @@ de nombre, no un rectángulo blanco.
 
 ### Sanji — el cocinero (3.º mundial)
 - **Carácter** ✅ ([ficha oficial](https://one-piece.com/character/sanji/index.html)): ex subjefe de cocina del restaurante flotante Baratie. **Boca sucia pero cocina de primera.** Sueño: encontrar el All Blue. **Pelea sólo con las piernas: las manos son la vida de un cocinero.** Durísimo con los hombres, **débil con las mujeres: nunca ataca a una**, ni aunque sea enemiga. Tras dos años en un reino sin mujeres, «se volvió aún más débil con ellas» (dice la ficha).
-- **Cómo habla:** educado y meloso con ellas (ojos de corazón, 1367), borde con Zoro. En latino: «**Me llamo Sanji, soy cocinero** en un barco restaurante llamado Baratie.» «Ah, amor infame…». A Zoro le dice «**cabeza de epazote**» ⚠️ (Doblaje Wiki, ep. 139).
+- **Cómo habla:** educado y meloso con ellas (ojos de corazón, 1367), borde con Zoro. En latino: «**Me llamo Sanji, soy cocinero** en un barco restaurante llamado Baratie.» «Ah, amor infame…». A Zoro le dice «**cabeza de epazote**» ✅ (Doblaje Wiki, ep. 139 + [X, One Piece Doblaje Latino News](https://x.com/onepiecedoblat/status/1538676239560581121); en japonés es «cabeza de musgo»).
 - **Poses analizadas:**
   1. **1367**: ojos de corazón y corazones volando. → **saludar a una recién llegada** (el meme).
   2. **P17**: patada alta con abrigo de plumas y pistola. → acción.
@@ -752,7 +752,7 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 
 **Chistes del doblaje que el fandom latino conoce:**
 - Nami, ep. 351: **«No tengo pruebas, pero tampoco dudas»** (el meme de Elmo) ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece), [TikTok](https://www.tiktok.com/discover/nami-doblaje-latino-no-tengo-pruebas-pero-tampoco-dudas)).
-- Sanji, ep. 139: **«Maldición, ese cabeza de epazote es un inútil»** (a Zoro; el epazote es una hierba mexicana) ⚠️ (Doblaje Wiki).
+- Sanji, ep. 139: **«Maldición, ese cabeza de epazote es un inútil»** (a Zoro; el epazote es una hierba mexicana) ✅ (Doblaje Wiki + [X, One Piece Doblaje Latino News](https://x.com/onepiecedoblat/status/1538676239560581121), que añade otro mexicanismo de Sanji: «y al comal»; hay decenas de reels y un [TikTok con ese nombre](https://www.tiktok.com/discover/cabeza-de-epazote-one-piece)). *Antes, una sola fuente.*
 - Ep. 279: el narrador dice que la banda de Usopp **«¡ha sido vencida otra vez!»**, como el Equipo Rocket ⚠️ (Doblaje Wiki).
 - Error famoso: en los primeros episodios dicen **«Gol D. Roger»** cuando aún debía ser «Gold Roger» (spoiler) ✅ (Doblaje Wiki + [Reddit, ep. 48 · 4:20](https://reddit.com/r/OnePiece/comments/1p0s5bn/alguien_más_notó_este_error_en_el_doblaje_latino/)).
 
@@ -869,7 +869,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 - El **ドン!!** ✅ y el «Roof Piece» ✅.
 - En latino: el meme de **«No tengo pruebas, pero tampoco dudas»** ✅.
 - **Zoro perdido** (la ficha oficial lo llama «desorientado extremo»), **Sanji con ojos de corazón** y que nunca pega a una mujer, **Luffy y la carne** («le encanta cualquier carne», ficha oficial), **Nami y el dinero**, **Chopper que dice «no me alegra» mientras baila** ✅ (fichas de one-piece.com + wiki; se ven en 1367, 0578 y la hoja P24).
-- En latino: Sanji llama a Zoro **«cabeza de epazote»** (ep. 139) ⚠️ (Doblaje Wiki).
+- En latino: Sanji llama a Zoro **«cabeza de epazote»** (ep. 139) ✅ (Doblaje Wiki + X de One Piece Doblaje Latino News, §10.1).
 - Los **barcos también se quieren**: el Going Merry quedó **45.º** en la encuesta mundial de 2026, por delante de muchos personajes ✅ (web oficial).
 - En Reddit (por Arctic Shift) los fans latinos comentan hasta los errores del doblaje: «[¿Alguien más notó este error en el doblaje latino?](https://reddit.com/r/OnePiece/comments/1p0s5bn/alguien_más_notó_este_error_en_el_doblaje_latino/)» (ep. 48 · 4:20, «Gol D. Roger»). Conocen el doblaje al detalle: **los textos tienen que sonar a su doblaje**, no a una traducción del inglés.
 
@@ -958,7 +958,7 @@ sobre una mesa** y un **barril en la cubierta**.
   tripulación!». Comic Neue; ドン!! en Dela Gothic One.
 - **Dónde va cada texto:** título «BIENVENIDO A BORDO» arriba, en la
   letra del logo (sin tildes). Pasos en los carteles: «WANTED» y
-  nombres en Tinos Bold comprimida, «DEAD OR ALIVE» en Old Standard TT.
+  nombres en Tinos Bold comprimida, «DEAD OR ALIVE» en Crimson Pro Black (§7).
   Pie «¡Salúdala!» en un papelito clavado abajo.
 - **Contra lo plano:** luz de atardecer desde la izquierda; la sombra de
   la bandera pirata cruza los carteles; una **cuerda** desenfocada
