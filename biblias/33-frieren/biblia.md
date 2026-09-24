@@ -8,7 +8,15 @@ fecha: 2026-09-24
 # Biblia · Frieren — para la biblioteca
 
 > [!important] Cómo se hizo, y sus límites
-> (se rellena al final)
+> - Hecho en **dos sesiones** el 24-sep-2026 (la primera se cortó por el
+>   límite de uso; la segunda siguió desde lo guardado).
+> - **Miré de verdad**: 3 hojas propias, 38 hojas de la wiki, 48 fotogramas
+>   de poses, 4 tráileres, 5 OP/ED por storyboard, 9 clips doblados, 2
+>   entrevistas. Minutos sacados de los **subtítulos japoneses del Blu-ray**.
+> - **Colores medidos** con Pillow en arte oficial y fotogramas.
+> - **Límites**: YouTube no dejó bajar vídeo (se miró por storyboards y
+>   miniaturas); la web oficial, TV Tropes y Namu Wiki dieron 403. Todo lo
+>   dudoso lleva ⚠️ y está junto en §20.
 
 ## Índice
 
@@ -1721,8 +1729,176 @@ justo el tiempo de cada uno.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+| Punto | Estado | Dónde y por qué |
+|---|---|---|
+| 1. Arte oficial, en cantidad y variado | ✅ | §3: 2.367 imágenes de la wiki revisadas en 38 hojas, 59 originales bajados en la 1.ª sesión y 77 en la 2.ª, **guía oficial** con comentarios del staff, key visuals de las 3 temporadas, cuentas atrás, visuales de tiendas y colaboraciones. Sin artbook completo ni carátulas de Blu-ray analizadas |
+| 2. Fotogramas de escenas icónicas (1080p, capítulo y minuto) | ✅ | §2 (19 escenas con minuto de los subtítulos del Blu-ray), `escenas_01` (22 fotogramas 1920×1080), §15 (48 más) |
+| 3. Fan art y 3D como referencia; modelos libres | ✅ | §4 (Pixiv con marca de IA; 7 modelos Sketchfab CC BY con crédito), §5.4 (Poly Haven CC0), §17.3 (6 fondos de fans medidos) |
+| 4. Fondos, luz, paleta hex, texturas | ✅ | §5: 12 sitios con paleta medida con Pillow; texturas CC0. ⚠️ sin pergamino libre |
+| 5. Tipografía y letra libre con tildes, ñ, ¿, ¡ | ✅ | §6: logo analizado, 7 letras OFL comprobadas con fontTools. ⚠️ autor del logo y letra de Panini/Ivrea sin encontrar |
+| 6. Cómo hablan en pantalla | ✅ | §7: cartelas, títulos, etiquetas, guía oficial, grimorio, visto en 4 tráileres con minuto |
+| 7. Personajes y encuestas de popularidad | ✅ | §8, §9: 3 encuestas oficiales + recuento de un voto por persona; MAL, Reddit, confirmación coreana ⚠️ |
+| 8. Frases del doblaje latino y voces en dos fuentes | ✅ | §10: 29 voces, 27 con dos o tres fuentes; 13 frases textuales con vídeo y minuto. ⚠️ Linie con una fuente; la frase-meme de Himmel sin encontrar en latino |
+| 9. Música | ✅ | §11: 3 OP y 4 ED vistos por storyboard con minuto; OST con escenas. ⚠️ audio no oído |
+| 10. Vídeos con minuto; tendencias de TikTok | ⚠️ | §12: tráileres, clips doblados y entrevistas con minuto. **TikTok no lo miré directamente** (sólo títulos de Dailymotion y Know Your Meme); los análisis de YouTube, sólo título y cifras |
+| 11. Videojuegos | ✅ | §13: no hay juego propio (buscado); 30 colaboraciones; ARISE y Mabinogi vistos. ⚠️ Monster Strike, P&D, Summoners War sin ver |
+| 12. Lo que ama el fandom y qué NO hacer | ✅ | §14: 11 memes con fuente y votos; 9 «no hacer» |
+| 13. Descripción profunda de cada personaje | ✅ | §8: Frieren, Fern, Stark, Himmel a fondo (carácter, miedos, cómo habla, ríe, se enfada, saluda, cuerpo) y 10 secundarios en tabla |
+| 14. Poses analizadas (6-10 por personaje) | ✅ | §15: **10-12 por personaje** (Frieren, Fern, Stark, Himmel), vistas una a una, con episodio, minuto aproximado y enlace; tabla de presentar / explicar / celebrar / regañar / pensar / animar |
+| 15. Vestuario con hex | ✅ | §16: hex medidos en hojas oficiales; ropa icónica, de invierno y de joven |
+| 16. Ciudades, paisajes y fondos de pantalla | ✅ | §17 (+§5.2): hora del día, 9 fondos oficiales y 4 conceptos de Yoshioka medidos, 6 fondos de fans medidos con autor. ⚠️ la web oficial dio 403 |
+| 17. Guía para generar con IA | ✅ | §18: estilo, rasgos fijos con hex, prompts, palabras que ayudan y estropean, referencias de estilo y de pose |
+| 3 conceptos de lámina | ✅ | §19: #🧰・recursos, #✍️・poemas, #🎟️・eventos, con objeto, sitio, pose, cuadro, letra, textos y profundidad; lámina 2 para las etiquetas |
+| 40 fuentes distintas | ✅ | §21: **más de 60 fuentes** listadas |
+| Fuentes oficiales (web, staff, artbooks, Blu-ray) | ⚠️ | guía oficial (diseñadora y director), entrevista a Seiko Yoshioka (MdN), Web Sunday, TOHO animation, Crunchyroll. **Web oficial 403**; sin comentarios de Blu-ray ni artbook |
+| Otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (MdN, note, ORICON, Animate Times, 4Gamer, Game8, hokope, Famitsu, subtítulos); inglés (wiki, KYM, Reddit); chino (GamerSky, KitaujiSub, artistas de Pixiv); coreano ⚠️ sólo por el buscador |
+| Wikis de fans, TV Tropes, TCRF, Wayback | ⚠️ | Frieren Wiki y Doblaje Wiki a fondo. **TV Tropes y Namu Wiki: 403**. TCRF no aplica (no hay juego). Wayback no respondió |
+| Foros y comunidades | ⚠️ | Reddit (Arctic Shift, con votos); Ruliweb y X sólo por el buscador. Sin 4chan ni Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv (API, con marca de IA) y Wallhaven. **ArtStation y DeviantArt no los busqué** |
+| Vídeo (análisis, staff, TikTok) | ⚠️ | ver punto 10 |
+| Código y recursos (GitHub, Sketchfab, texturas) | ✅ | kitsunekko-mirror (GitHub), Sketchfab API, Poly Haven API, Google Fonts |
+| Doblaje latino (Doblaje Wiki, ANMTV, entrevistas, créditos) | ✅ | Doblaje Wiki por la API, ANMTV (2 artículos), 2 entrevistas en YouTube con minuto, tarjetas de créditos y póster de Crunchyroll |
+| Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 721 KB, `escenas_01.jpg` 611 KB, `pantalla_01.jpg` 482 KB; explicadas número a número en §3.1 |
+| `referencias.json` (20-40, medidas) | ✅ | **40 entradas**: 35 imágenes bajadas y medidas con Pillow, 5 vídeos con `&t=`. ⚠️ los 4 de YouTube llevan el tamaño de su miniatura oficial (el vídeo no se pudo bajar) |
 
 ## 21 · Bitácora de búsqueda
 
-(pendiente)
+### Dos sesiones
+- **Sesión 1** (24-sep-2026, **cortada por el límite de uso**): hizo §2 a
+  §14 y §16 y las tres hojas. **Su lista exacta de búsquedas web se perdió**
+  con el corte; lo que consultó queda en las fuentes de abajo y en cada
+  sección.
+- **Sesión 2** (24-sep-2026, esta): §0, §1, §15, §17 a §21, la tabla de
+  cumplimiento y `referencias.json`. Bajó y miró 48 fotogramas para las
+  poses, 30 imágenes oficiales para medir, 24 miniaturas de Wallhaven y 6
+  fondos de fans.
+
+### Lo que hice en la sesión 2 (con idioma)
+- **Frieren Wiki (API, inglés)**: wikitext de `Frieren/Gallery`,
+  `Fern/Gallery`, `Stark/Gallery`, `Himmel/Gallery`, la galería del anime y
+  la de la T2; `imageinfo` (tamaño real) de 120 archivos.
+- **Subtítulos japoneses del Blu-ray** (Moozzi2, espejo
+  [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror), clon
+  parcial en mi carpeta de trabajo): 40 búsquedas de frases en japonés
+  (女神様の魔法, 偉いぞ, クソババア, シュティレ, 魔導書, 服だけ溶かす薬, 聖杖の証,
+  三級魔法使い, ギャンブル, 防御魔法, 路銀, 誕生日, 背負う, イケメン, 勇者の剣,
+  指輪, 別れ, 手を取れ, フェルンといいます, むっ, 行きますよ, 返品…) para
+  poner minuto a las poses.
+- **Wallhaven (API, inglés)**: «Sousou no Frieren», ordenado por favoritos
+  (337 resultados; miré los 24 primeros).
+- **Pixiv (API)**: autor y marca de IA (`aiType`) de 16 obras.
+- **Sketchfab (API)**: miniatura, autor y licencia de 4 modelos.
+- **Doblaje Wiki (API, español)**: tamaño del póster del reparto.
+- **YouTube oEmbed**: título y canal de 4 vídeos; **Dailymotion API**: 1.
+- **Buscador web (2 búsquedas)**: coreano «장송의 프리렌 인기투표 결과 힘멜»;
+  chino «葬送的芙莉莲 辛美尔 人气 名台词 "勇者辛美尔的话也会这么做"».
+- **Arctic Shift (español)**: «Himmel habría» → **tiempo agotado**.
+
+### Lo que falló
+| Sitio | Qué pasó | Qué hice |
+|---|---|---|
+| YouTube (`yt-dlp`) | «Confirma que no eres un bot», 4 intentos separados | storyboards (sesión 1), oEmbed y miniaturas oficiales |
+| `frieren-anime.jp` | 403 | Wayback: no respondió (2 intentos) |
+| TV Tropes | 403 | Wayback: no respondió |
+| Namu Wiki (coreano) | 403 | buscador web en coreano |
+| Moegirl (chino) | su API no deja entrar | buscador web en chino |
+| Wikipedia en coreano | 429 | no insistí |
+| API de GitHub | repositorio no habilitado | clon parcial con `git clone --sparse` en mi carpeta de trabajo (fuera del repositorio) |
+| Dailymotion | sólo sirve 512×288 | lo anoto así en `referencias.json` |
+
+### Fuentes consultadas (más de 60, por tipo)
+
+**Oficiales y staff**
+1. Guía oficial «FRIEREN OFFICIAL STARTING GUIDE» (páginas en la wiki), con
+   comentarios de **Reiko Nagasawa** y **Keiichiro Saito** (japonés)
+2. [MdN, entrevista a Seiko Yoshioka](https://www.mdn.co.jp/design/features/7151) (japonés)
+3. [Web Sunday, encuesta oficial](https://websunday.net/frieren2603/) (japonés)
+4. Canal **TOHO animation チャンネル** (OP, ED, PV) (japonés)
+5. Canal **Crunchyroll en Español** (9 clips) (español)
+6. Póster oficial de Crunchyroll con el reparto latino (español)
+7. [Blog de Bay Bridge Studio](https://baybridges.exblog.jp/32290826/) (japonés)
+8. Imagen oficial de Netmarble (Solo Leveling: ARISE) (inglés)
+9. Tráiler de Nexon, Mabinogi × Frieren (inglés)
+10. Canales oficiales de Shadowverse y MapleStory (inglés)
+
+**Wikis y bases de datos**
+11. [Frieren Wiki](https://frieren.fandom.com) (inglés)
+12. [Doblaje Wiki, por la API](https://doblaje.fandom.com/es/) (español)
+13. [Know Your Meme](https://knowyourmeme.com/memes/frieren-stuck-in-mimic-chest) (inglés)
+14. MyAnimeList, por la API de Jikan (inglés)
+
+**Prensa**
+15. [ORICON](https://www.oricon.co.jp/news/2445719/full/) (japonés)
+16. [Animate Times](https://www.animatetimes.com/news/details.php?id=1775607106&p=4) (japonés)
+17. [ANMTV, 2023](https://www.anmtvla.com/2023/10/crunchyroll-estrena-los-simuldub-de.html) y
+18. [ANMTV, 2026](https://www.anmtvla.com/2026/02/frieren-mas-alla-del-final-del-viaje.html) (español)
+19. [4Gamer](https://www.4gamer.net/games/148/G014877/20260220005/) (japonés)
+20. [Game8](https://game8.jp/monst/603091) (japonés)
+21. [hokope](https://hokope.com/archives/124549) (japonés)
+22. [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-real-escape-game-2026/) (japonés)
+23. [Famitsu](https://www.famitsu.com/article/202511/58865) (japonés)
+24. [GamerSky](https://www.gamersky.com/news/202406/1765670.shtml) (chino)
+25. Espinof (copia del PV2 en Dailymotion) (español)
+26. Filmow (copia del PV1 en Dailymotion) (portugués)
+
+**Tipografía y ediciones**
+27. [note.com, análisis del logo](https://note.com/ryotaro_8111/n/n11e360ed59f3) (japonés)
+28. [いいフォント](https://goodfreefonts.com/2484/) (japonés)
+29. Google Fonts (7 letras bajadas y abiertas con fontTools)
+30. [Amazon México, Panini](https://www.amazon.com.mx/Frieren-Viaje-Manga-Editorial-Panini/dp/6076366397) (español)
+31. [Kokoro Mangas, Ivrea](https://www.kokoromangaschile.cl/products/frieren-mas-alla-del-final-01) (español)
+
+**Foros y comunidades**
+32. Reddit r/Frieren, por [Arctic Shift](https://arctic-shift.photon-reddit.com) (inglés)
+33. [Ruliweb](https://bbs.ruliweb.com/family/211/board/300277/read/2336648) (coreano, por el buscador)
+34. [X, @TeTSeM](https://x.com/TeTSeM/status/1772248117783437358) (coreano, por el buscador)
+
+**Arte**
+35. Pixiv, por su API (japonés y chino; 12 obras citadas)
+36. [Wallhaven](https://wallhaven.cc), por su API (inglés)
+37. X de **gyoukan000** (fondo de fans)
+
+**Vídeo**
+38. Indigo GEEK, entrevista a Erika Ugalde y Azucena Estrada (español)
+39. OYE 89.7, Erika Ugalde en la CCXP (español)
+40. pey talks anime (inglés)
+41. Gigguk (inglés)
+42. Me Dicen Dai (español)
+43. Djinn Sensei (español)
+44. Agustin Pandolfelli (español)
+45. Adictos a la Filosofía y LordWicho (español)
+46. ロキシーCh (japonés)
+47. ANISON USA (inglés)
+48. Partida grabada de Solo Leveling: ARISE ([KXCXWLvar50](https://www.youtube.com/watch?v=KXCXWLvar50))
+49. VoxDub (banda rítmica, francés)
+
+**Código y recursos**
+50. [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror) en GitHub (subtítulos Moozzi2, KitaujiSub, NanakoRaws)
+51. [Sketchfab](https://sketchfab.com), por su API (7 modelos)
+52. Museos Virtuales de Małopolska (escaneos en Sketchfab)
+53. [Poly Haven](https://polyhaven.com), por su API (texturas y modelos CC0)
+
+**Doblaje latino**: las fuentes 5, 6, 12, 17, 18, 38 y 39, y las **tarjetas de
+créditos** de los eps. 1-10, 1-18, 1-26 y 1-28 (capturas en Doblaje Wiki).
+
+Además, sin contar como fuente: la API de Dailymotion, oEmbed de YouTube y
+la API de Jikan (para cifras).
+
+### Lo que NO encontré (y dónde lo busqué)
+- **La frase «Himmel lo habría hecho» en el doblaje latino**: subtítulos
+  automáticos de 9 clips de Crunchyroll en Español (sesión 1) y Arctic Shift
+  en español (sesión 2, tiempo agotado).
+- **Un videojuego propio**: lista de páginas de la wiki (721), hokope,
+  YouTube.
+- **El autor del logo**: blog de Bay Bridge Studio (sólo diseñó los tomos) y
+  dos análisis de diseñadores.
+- **La letra de los globos de Panini e Ivrea**: fichas de tienda (sin
+  muestras legibles).
+- **Fondos de pantalla de la web oficial**: 403 y Wayback sin respuesta.
+
+### Confirmado y dudoso
+- **Confirmado (dos fuentes o visto yo)**: voces latinas principales,
+  estudio y director; encuestas oficiales; minutos de §2 (subtítulos);
+  colores medidos; lo visto en tráileres, OP/ED y clips; tamaños de
+  `referencias.json` (bajados y medidos, salvo los vídeos de YouTube).
+- **Dudoso (⚠️)**: todo lo listado en §20.
