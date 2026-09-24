@@ -20,13 +20,13 @@ fecha: 2026-09-24
 >     Estudio, dirección y reparto **por película**, y **65 muestras de audio
 >     del doblaje**, que pasé por reconocimiento de voz (Whisper) para sacar
 >     frases textuales (§10).
->   - **YouTube con yt-dlp**: 15 vídeos comprobados. YouTube no dejaba bajar
+>   - **YouTube con yt-dlp**: 28 vídeos comprobados. YouTube no dejaba bajar
 >     el vídeo («Sign in to confirm you're not a bot», «This video is not
->     available»; lo intenté con 6 clientes y en 3 momentos distintos).
+>     available»; lo intenté con 6 clientes y en 4 momentos distintos).
 >     **Los miré por sus *storyboards***: fotogramas de 160×90 o 320×180,
->     uno cada 1-2 s, en hojas numeradas con su minuto (±2 s). Opening,
->     ending, 3 tráileres oficiales en español y 6 escenas del canal oficial
->     y de HBO Max Latinoamérica (§12).
+>     uno cada 1-5 s, en hojas numeradas con su minuto (±2 s). Opening,
+>     ending, 3 tráileres oficiales en español y 11 escenas de los canales
+>     oficiales, Movieclips y HBO Max Latinoamérica (§12, §15).
 >   - **`fotogramas.py` sí funcionó con vídeo de verdad** bajado del
 >     **Internet Archive**: la escena del vociferador en 1080p (copia del
 >     vídeo «en 23 idiomas», con el doblaje latino dentro) y el tráiler
@@ -92,8 +92,8 @@ fecha: 2026-09-24
 - **`referencias.json` seguía siendo el de la 1.ª pasada** (páginas web,
   sin tamaños), aunque aquí ya se daba por rehecho. Ahora sí: 40 entradas
   con la imagen o el vídeo y el tamaño medido.
-- **Poses de memoria → vistas** (§15): 50 poses con su clip o su número de
-  hoja. Dobby en P7 no «saca pecho con el dedo en alto»: está **erguido,
+- **Poses de memoria → vistas** (§15): 52 poses; casi todas con su clip o su
+  número de hoja. Dobby en P7 no «saca pecho con el dedo en alto»: está **erguido,
   brazos a los lados, cara alzada** (clip de Movieclips 2:44).
 - **Vestuario a ojo → medido** (§16). Ej.: la corbata de Harry `#740001` →
   `#61121B`; Dumbledore de P1 es **burdeos con oro**, no «ciruela».
@@ -104,13 +104,11 @@ fecha: 2026-09-24
 
 **Añadido**
 - 3 hojas de contacto propias (§2.0), con 100 imágenes elegidas de 601.
-- **Frases textuales del doblaje latino** de 14 personajes (§10.3). Entre
+- **20 frases textuales del doblaje latino** de 11 personajes (§10.3). Entre
   ellas, **dos avisos oficiales** dichos a todo el colegio: el de McGonagall
   del baile (P4) y el de Snape director (P8).
 - Colores **medidos** (§5, §16) y hex de las láminas de MinaLima.
-- Minutos y enlaces `&t=` de 13 vídeos (§12) y poses con clip (§15).
-- `referencias.json` rehecho: **40 entradas**, casi todas la imagen misma
-  con su tamaño medido.
+- Minutos y enlaces `&t=` de 28 vídeos (§12) y poses con clip (§15).
 - **Vídeo real con `fotogramas.py`** (Internet Archive): el vociferador en
   1080p y el tráiler final de P6. Y el **doblaje latino del vociferador,
   con minuto**: «¡Ronald Weasley! ¡Cómo osaste robar el auto!» (§10.3). En
@@ -125,7 +123,7 @@ fecha: 2026-09-24
   filosofal», teaser latino de HBO Max, 2026). No confundir su reparto.
 
 **Marcas de duda:** había **55** antes de la segunda pasada; quedan
-**RECUENTO_FINAL** (contadas con `grep -o`; el número incluye la leyenda).
+**38** (contadas con `grep -o`; el número incluye la leyenda).
 Lo que sigue dudoso y por qué: §20.
 
 ---
@@ -395,11 +393,22 @@ Lo que dice el texto de la wiki y sirve:
   wiki no dice de qué fuente sale esa frase). Sale en las películas 1-6 como
   decorado, en los juegos y en Pottermore.
 
-### 2.5 Lo que sigue faltando ⚠️
-Portadas de los libros (Salamandra, Scholastic), ilustraciones de Jim Kay y
-carteles de cine en alta: no los bajé; la wiki trae pocos y en baja. Es lo
-siguiente si hace falta más arte de personaje.
+### 2.5 Libros ilustrados y portadas (2.ª pasada)
+Buscados en el espacio de archivos de la wiki y **mirados**; tamaño por la
+API. Todo © Bloomsbury / Salamandra / Jim Kay: sólo referencia.
 
+| Qué es | Tamaño | Para qué |
+|---|---|---|
+| [Neville y Luna, de Jim Kay](https://static.wikia.nocookie.net/harrypotter/images/f/fc/OOTPIE_-_Neville_and_Luna.png) (libro 5 ilustrado) | 2000×2362 | **Luna con El Quisquilloso abierto** entre las manos: otro estilo para el concepto A |
+| [Dobby, de Jim Kay](https://static.wikia.nocookie.net/harrypotter/images/b/b5/Dobby_-_Jim_Kay_COS_IE.jpg) (libro 2 ilustrado) | 1330×1571 | Dobby sentado en la cama, funda de almohada |
+| [Hermione con varita y farol, de Jim Kay](https://static.wikia.nocookie.net/harrypotter/images/1/1a/Hermione_Granger_-_PS_IE.jpg) (libro 1 ilustrado) | 4494×5248 | Hermione ilustrada, luz de farol azul |
+| [Dumbledore, de Jim Kay](https://static.wikia.nocookie.net/harrypotter/images/5/5c/Albus_Dumbledore_by_Jim_Kay_-_PS_IE.jpeg) | 527×610 | retrato con cartela «Albus Dumbledore» arriba: un rótulo del mundo |
+| [Portada del libro 2 ilustrado](https://static.wikia.nocookie.net/harrypotter/images/7/7a/Bloomsbury_02_COSIE_cover_-_Jim_Kay.jpg) (Bloomsbury) | 2741×3225 | el Ford Anglia sobre el campo: luz de día |
+| [Portada de Salamandra, libro 1](https://static.wikia.nocookie.net/harrypotter/images/1/1f/Spanish_01_PS.jpg) | 1594×2541 | la portada en español: «Harry Potter y la piedra filosofal» con el logo |
+| [Salamandra, libro 5 (15.º aniversario)](https://static.wikia.nocookie.net/harrypotter/images/e/e4/Spanish_15th_anniversary_05_OOTP.jpg) | 1614×2603 | el trío en azul: tono oscuro, qué NO |
+
+Los carteles de cine en alta no los busqué: los promos de §2.0 cubren lo
+mismo.
 ---
 
 ## 3 · Escenas icónicas con su minuto
@@ -1507,8 +1516,9 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
   - Titular grande, en IM Fell English: «**Solo el staff publica aquí**».
   - Recuadro de columna, tipo «cartas al director»: «¿Quieres comentar? Abre un hilo en el anuncio».
 - **Profundidad**: una lechuza ([modelo CC BY](https://sketchfab.com/3d-models/owl-d177e1fbcce940cba32e434cc5a62f1a))
-  entra batiendo las alas en primer plano, desenfocada. Una copa y un plato
-  de tostadas tapan una esquina del diario. Velas flotando desenfocadas
+  entra batiendo las alas en primer plano, desenfocada. Un cuenco de copos
+  dorados y una jarra de zumo de naranja tapan una esquina del diario (así
+  es la mesa del desayuno en el [fotograma 1080p, 0:00-0:08](https://www.youtube.com/watch?v=3KNNglv24a0&t=0)). Velas flotando desenfocadas
   detrás. Luz de mañana desde los ventanales, fría, contra la cálida de
   las velas.
 
@@ -1584,7 +1594,7 @@ querida por el fan y la más fácil en Blender.
 **Resuelto en la 2.ª pasada** (antes estaba aquí): hojas de contacto e
 imágenes (§2.0), licencias de Sketchfab y Commons (§2.2, §4), hex medidos
 (§5, §16), frases del doblaje latino (§10.3), poses vistas (§15), música
-de P7-P8, Reddit (§14).
+de P7-P8, Reddit (§14), portadas y Jim Kay (§2.5), fondos de pantalla (§17).
 
 **Sigue dudoso, y por qué** (cada uno lleva su marca de duda en su sitio):
 - **Vídeo de YouTube a tamaño real**: YouTube no dejó bajar ni un clip
@@ -1609,8 +1619,8 @@ de P7-P8, Reddit (§14).
 - **Licencia de Texturelabs**: la página de condiciones devuelve un reto
   antibots.
 - **Sin abrir**: TikTok, el vídeo de Bilibili, capturas de *Hogwarts
-  Mystery*, fondos de fans en DeviantArt y ArtStation (403), portadas de
-  los libros y las ilustraciones de Jim Kay.
+  Mystery*, fondos de fans en DeviantArt y ArtStation (403), carteles de
+  cine en alta.
 
 ---
 
@@ -1618,7 +1628,7 @@ de P7-P8, Reddit (§14).
 
 | Punto de `ENCARGO.md` | Estado | Por qué |
 |---|---|---|
-| 1 · Arte oficial variado | ✅ | 601 imágenes de la wiki miradas; 100 elegidas en 3 hojas (§2.0): promos, renders del juego, figurines, Pottermore, props de papel, láminas de MinaLima (§2.1). Faltan portadas de libros y Jim Kay (§2.5) |
+| 1 · Arte oficial variado | ✅ | 601 imágenes de la wiki miradas; 100 elegidas en 3 hojas (§2.0): promos, renders del juego, figurines, Pottermore, props de papel, láminas de MinaLima (§2.1), Jim Kay y portadas de Salamandra (§2.5) |
 | 2 · Fotogramas con capítulo y minuto | ✅ | minutos de los subtítulos ingleses (§3) y fotogramas 1080p del vociferador; fotogramas de wiki a 1920×800. El resto de clips, a 160-320 px |
 | 3 · Fan art y 3D con licencia | ✅ | 17 modelos de Sketchfab con licencia por la API (§4); fan art de ArtStation y DeviantArt, sólo enlazado |
 | 4 · Fondos, luz, paleta, texturas | ✅ | hex medidos en clips y arte (§5); texturas CC0 de Poly Haven y ambientCG. Texturelabs, licencia sin leer |
@@ -1732,7 +1742,7 @@ resume aquí.
 
 **Marcas de duda** (contadas con `grep -o` sobre el símbolo en
 `biblia.md`; el número incluye la leyenda): **55 antes de la segunda pasada → 57 cuando se
-cortó el primer ayudante → RECUENTO_FINAL al cerrar**.
+cortó el primer ayudante → 38 al cerrar**.
 
 ### Primera pasada (24-sep-2026, red cerrada)
 

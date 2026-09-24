@@ -8,19 +8,27 @@ fecha: 2026-09-24
 # Biblia · One Piece — para #bienvenidas
 
 > [!important] Cómo se hizo esta investigación
-> La red del contenedor estaba cerrada: Fandom, Doblaje Wiki, Wikipedia,
-> YouTube, Reddit, TCRF y Game UI Database daban error 403.
-> Se usó el buscador web (45 búsquedas, en español, inglés y japonés) y
-> GitHub, que sí responde.
-> Por GitHub se abrieron de verdad tres cosas muy útiles:
-> - **Arte oficial del juego One Piece Treasure Cruise** (Bandai Namco),
->   guardado en el repositorio de fans *optc-db*. Se miraron 34 imágenes
->   y se midieron colores en ellas.
-> - **La ficha de la Anime News Network** (copia en GitHub): reparto
->   latino, openings, endings y staff.
-> - **Una lista de los 1.176 títulos de episodio** (para los números).
+> **Primera pasada (red cerrada).** Fandom, Doblaje Wiki, YouTube, Reddit y
+> casi todo daban 403. Se usó el buscador (45 búsquedas, en español, inglés y
+> japonés) y GitHub: el arte de *Treasure Cruise* (repositorio *optc-db*), la
+> ficha de la Anime News Network y una lista de 1.176 episodios.
 >
-> Sin red completa **no hay hojas de contacto** ni carpeta `hojas/`.
+> **Segunda pasada (24-sep-2026, red abierta).** La hicieron dos ayudantes
+> seguidos (al primero lo cortó el límite de uso). Se pudo usar:
+> - **La API de la One Piece Wiki** (inglés y español): 3 hojas de contacto
+>   propias en `hojas/` y el tamaño real de cada imagen.
+> - **La API de Doblaje Wiki** y **ANMTV**, para cada voz latina.
+> - **Vídeos mirados de verdad** con `herramientas/fotogramas.py`: opening,
+>   ending, tráiler y 5 escenas (copias en Dailymotion, porque YouTube pedía
+>   «iniciar sesión»). De YouTube salieron, por ratos, **los subtítulos y los
+>   *storyboards*** de los clips oficiales doblados de Crunchyroll.
+> - **Whisper** (reconocimiento de voz) sobre muestras de Doblaje Wiki y sobre
+>   el tráiler latino de Netflix; la web oficial japonesa `one-piece.com`;
+>   la API de Sketchfab; `fontTools` para las letras; Pixiv, ArtStation y
+>   DeviantArt por sus API públicas.
+> - **No se pudo:** bajar vídeo de YouTube (sólo metadatos), TCRF, TV Tropes
+>   y Game UI Database (403 de Cloudflare).
+>
 > ✅ = confirmado en dos fuentes. ⚠️ = dudoso o una sola fuente.
 
 ---
@@ -87,7 +95,7 @@ Nami gana en Europa, Oceanía y Oriente Medio.
 
 ### Encuesta mundial 2026 («WORLD TOP 100» 2.ª) ✅
 - Votos del 4 de marzo al 11 de junio de 2026; 1.567 personajes; **13.086.239 puntos** en total ([wiki](https://onepiece.fandom.com/wiki/Popularity_Polls), que cita a la cuenta oficial del staff). Resultado en el ONE PIECE DAY '26 (22-23 de agosto).
-- **Top 10 mundial, leído en la [web oficial](https://onepiecewt100-2026.com/en/final-rankings/)** ✅ (antes, del 6 al 10 era ⚠️):
+- **Top 10 mundial, leído en la [web oficial](https://onepiecewt100-2026.com/en/final-rankings/)** ✅ (antes, del 6 al 10 era dudoso):
   1 **Luffy** (2.378.519) · 2 **Zoro** (2.148.793) · 3 **Sanji** (1.399.204) · 4 **Nami** (1.007.955) · 5 Law (732.301) · 6 Robin (322.461) · 7 Ace (301.112) · 8 Shanks (204.827) · 9 Mihawk (202.744) · 10 Crocodile (201.971).
   Más abajo: **Chopper 13.º**, Usopp 19.º, Brook 27.º, Franky 29.º, Jinbe 30.º. **El Going Merry sale 45.º** y el Thousand Sunny 90.º: los barcos también se votan.
 - **Por regiones** (misma web oficial, pestañas de cada región) ✅:
@@ -112,17 +120,18 @@ Nami gana en Europa, Oceanía y Oriente Medio.
 ### Encuesta mundial 2021 (1.ª WT100) ✅
 - **1 Luffy (1.637.921), 2 Zoro (1.445.034), 3 Nami (1.085.141), 4 Sanji (970.286)**; Chopper 16.º ✅
   ([MANTANWEB](https://mantan-web.jp/article/20210505dog00m200009000c.html): «ルフィが世界1位に 2位はゾロ、3位はナミ»;
-  tabla de la [One Piece Wiki](https://onepiece.fandom.com/wiki/Popularity_Polls)). *Antes Zoro 2.º y Nami 3.ª eran ⚠️.*
-- En Europa ganó Nami y en África Zoro ⚠️ (sólo el titular de
-  [Oricon](https://www.oricon.co.jp/news/2192510/full/)).
+  tabla de la [One Piece Wiki](https://onepiece.fandom.com/wiki/Popularity_Polls)). *Antes Zoro 2.º y Nami 3.ª eran dudosos.*
+- **Por regiones en 2021** ✅ (tabla de la [wiki](https://onepiece.fandom.com/wiki/Popularity_Polls), leída por la API; Europa y África también en el titular de [Oricon](https://www.oricon.co.jp/news/2192510/full/)):
+  **Latinoamérica y el Caribe: 1.ª Nami (102.220), 2.º Zoro (92.144), 3.º Luffy (75.294).** Europa: Nami y Zoro. África y Oriente Medio: Zoro y Nami. Oceanía: Nami y Robin. Asia y Japón: Luffy y Zoro. *Antes decía «Europa Nami, África Zoro» como dudoso.*
+  **En las dos encuestas Luffy queda 3.º en Latinoamérica**: en 2021 gana Nami y en 2026 Zoro.
 - Más: [Comic Natalie](https://natalie.mu/comic/news/427064) (ahora pide verificación humana), [Animate Times](https://www.animatetimes.com/news/details.php?id=1620269059),
   [Toei, resultados parciales](https://www.toei-animation.com/wt100-one-piece-midterm-ranking/).
 
 **Qué hacer con esto:** en #bienvenidas sigue mandando **Luffy**: es el capitán que recluta
 («¡Únete a nosotros!») y el más votado del mundo. Pero el servidor es latinoamericano:
-**Zoro tiene que estar bien visible** (es el favorito de la región) y **Sanji** también
-(2.º en la región). **Nami** es la navegante: la ruta es suya. Por eso el concepto C
-pasa a tener a Zoro de protagonista (§16).
+**Zoro tiene que estar bien visible** (1.º en la región en 2026, 2.º en 2021), **Nami**
+también (1.ª en la región en 2021, y la ruta es suya) y **Sanji** (2.º en la región en 2026).
+Por eso el concepto B es de Nami y el C tiene a Zoro de protagonista (§16).
 
 ---
 
@@ -259,7 +268,7 @@ Enlace de cada una:
 | **0651** | Nami («sueño: el mapa del mundo») | Tumbada en tesoro, riendo, brazos abiertos. | Celebrar. |
 | **3715** | Nami | Con la nube Zeus y sombrero pirata, en pleno ataque. | Animar. |
 | **3659** | Nami | Tumbada, flores de hibisco, gafas en la cabeza, barbilla en la mano. | Tono relajado. |
-| **4186** | Nami (recuerdos) | **Guiña un ojo** y sujeta su vara; jersey amarillo y peto naranja. Detrás, mandarinos y la gente de su pueblo (parecen Genzo, Bell-mère y Nojiko de niña ⚠️). 640×720. | **Explicar con gracia.** Muy buena para el concepto B. |
+| **4186** | Nami (recuerdos) | **Guiña un ojo** y sujeta su vara; jersey amarillo y peto naranja. Detrás, mandarinos y la gente de su pueblo: **Genzo** (el molinillo en la gorra), **Bell-mère** (pelo rosa, cigarro) y **Nojiko niña** (pelo azul, cinta), reconocibles al abrir la imagen; *optc-db* la titula «Nami - Memories of Straw Hat Pirates». 640×720. | **Explicar con gracia.** Muy buena para el concepto B. |
 | **1371** | Zoro | De pie sobre roca, capa, espadas al cinto, isla con palmeras. | **Serio, advertir** (reglas). |
 | **2634** | Zoro (verano) | Yukata verde, jarra de madera en alto, risa. | **La sala**, fiesta. |
 | **0580** | Zoro («sueño: mejor espadachín») | Jarra de sake en alto, corona, abrigo granate, faja verde. | Celebrar. |
@@ -294,6 +303,7 @@ Los minutos salen de los clips que miré (§12).
 | 45 | Bounty! Straw Hat Luffy Becomes Known to the World! | **Luffy recibe su primer cartel** (30 millones) y la noticia corre: Mihawk, Fullbody, el muro de carteles (hoja O1, O2). | ✅ (one-piece.com + wiki: «Luffy is given a wanted poster») |
 | 53 | The Legend Has Started! Head for the Grand Line! | Loguetown bajo tormenta. **El juramento del barril** al final: «make their vows before setting sail». Emitido el 10-ene-2001; es el cap. 100 del manga (tomo 12). | ✅ (wiki + [one-piece.com](https://one-piece.com/anime/53/index.html); imagen de la wiki «Straw Hats' Vow», hoja O23). *Antes decía «probablemente»* |
 | 90 | Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies! | Kureha hace nevar rosa: los cerezos de Hiluluk despiden a Chopper. | ✅ (one-piece.com + wiki) |
+| 130 | Scent of Danger! The Seventh Member is Nico Robin! (危険な香り！七人目はニコ・ロビン！) | **Robin aparece en el Merry y pide unirse**: «Let me… join your crew» (clip, 2:02). Los cinco, colgados de la baranda, lloran por Vivi (0:18). **Es la escena de «alguien nuevo sube al barco».** | ✅ ([wiki, ep. 130](https://onepiece.fandom.com/wiki/Episode_130) + [clip mirado](https://www.dailymotion.com/video/x61uaq4?start=120), §12) |
 | 278 | Say You Want to Live! We Are Your Friends!! | Robin grita «¡quiero vivir!». | ✅ (one-piece.com + wiki) |
 | 312 | Thank You, Merry! Snow Falls Over the Parting Sea! | Funeral vikingo del Going Merry bajo la nieve. | ✅ (one-piece.com + wiki + [clip de Marca](https://www.dailymotion.com/video/x9kpldw), §12) |
 | 377 | The Pain of My Crewmates Is My Pain! Zoro's Desperate Fight! | Zoro carga el dolor de Luffy: «No pasó nada». | ✅ (one-piece.com + wiki; frase latina en §10.1) |
@@ -416,8 +426,10 @@ Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del 
 | Bandera negra / cielo del anime | `#060606` / `#2E84DC` | O13 |
 | Sunny: melena / cara / casco / mar | `#DA6F33` / `#EDD067` / `#762D26` / `#51ABE8` | F1 |
 | Merry: casco / raya roja de la vela | `#856B54` / `#C05133` | F2 |
-| Logo del anime: letras (oscuro / claro) / Luffy rojo / cuerda / sombrero | `#2E55B0` / `#189FDB` ⚠️ (mezclado con el cielo del fondo) / `#E9312E` / `#A45434` / `#F2C022` | [logo de la wiki](https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png), 1920×1080 |
+| Logo del anime: letras (degradado de arriba `#1BBEED` a abajo `#185CB2`, medido píxel a píxel dentro de los trazos de la N y la E) / Luffy rojo / cuerda / sombrero | `#1BBEED` → `#185CB2` / `#E9312E` / `#A45434` / `#F2C022` · *antes `#2E55B0` / `#189FDB`, mezclado con el cielo* | [logo de la wiki](https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png), 1920×1080 |
 | Ending «memories»: mar dorado / siluetas | `#836D2A` / `#0B0601` | ending, 0:56 |
+| **Baranda del Going Merry** (ep. 130): madera / balaustres / tablones | `#E1B986` a `#D9A76B` / `#9AB1B8` (sombra azulada) / `#CEAA9A` | clip del ep. 130, 0:18 (§12) |
+| Chopper del anime (antes del salto): sombrero luz / ala / X / pelaje / nariz / astas / pantalón | `#B9696D` / `#B0676B` / `#D2D2D2` / `#C6A882` / `#628190` / `#947255` / `#5D2C3F` | hoja P23 (795×847) |
 
 **Comparación:** la plantilla de fans de PyPI (`#C3B69D`) es un poco más oscura y gris que el papel real del anime (`#DED0BE`). **Para la lámina, usa el del anime.**
 
@@ -455,7 +467,7 @@ Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del 
 | «DEAD OR ALIVE» | Century Old Style ⚠️ (mismo foro) | **Old Standard TT** Bold o **Libre Caslon Text** | Sí ✅ (las dos) |
 | «SE BUSCA / vivo o muerto» (versión de España, hoja O2) | serifa gruesa + cursiva | **Tinos Bold** para «SE BUSCA», **Libre Caslon Text** cursiva para «vivo o muerto» | Sí ✅ |
 | El nombre (otra opción de fans) | — | **Scheherazade New** Bold (la usa el generador de [YuskaWu](https://github.com/YuskaWu/one-piece-wanted-poster)) | Sí ✅ |
-| La recompensa (cifras) | — | Vertiky ([1001fonts](https://www.1001fonts.com/vertiky-font.html)) o Lilly (el paquete de PyPI) | sólo cifras (no probadas) ⚠️ |
+| La recompensa (cifras) | — | **Vertiky** ([1001fonts](https://www.1001fonts.com/vertiky-font.html), licencia «1001Fonts Free For Commercial Use», leída en el zip). Lilly (viene en el paquete de PyPI; © Apostrophic Laboratories, sin archivo de licencia en el paquete: sólo de referencia) | **Sí** ✅ las dos: Vertiky 204 glifos y Lilly 220, con á é í ó ú ñ ¿ ¡ ü y cifras (fontTools). *Antes: «no probadas».* |
 | El golpe «ドン!!» | pincel de Oda | **Dela Gothic One** (latín + japonés, 9.030 glifos) | Sí ✅ |
 | Globos del manga | inglés de VIZ: CC Wild Words o Anime Ace (de pago / gratis para uso personal) ⚠️ | **Comic Neue** Bold; para gritos **Bangers**, **Luckiest Guy** o **Bowlby One SC** | Sí ✅ (las cuatro) |
 | Letra a mano de Nami (en la carta) | — | **Caveat**, **Kalam** o **Patrick Hand** | Sí ✅ (las tres) |
@@ -595,7 +607,7 @@ de nombre, no un rectángulo blanco.
   7. **P12**: brazos abiertos en cubierta. → **animar**.
   8. **3715**: nube Zeus y ataque. → **animar**.
   9. **Opening · [1:21](https://www.dailymotion.com/video/x2gldv?start=81)**: sonríe junto a Luffy y Zoro. → grupo.
-  10. **Regañar:** su gesto es el puño en alto para el coscorrón ✅ (wiki), pero **no encontré una imagen buena** en las hojas ⚠️.
+  10. **Regañar** ✅: [«Nami Punishes Luffy for Endangering Crew»](https://static.wikia.nocookie.net/onepiece/images/3/35/Nami_Punishes_Luffy_for_Endangering_Crew.png) (ep. 1086, 1827×1080): **manos en la cadera, ojos blancos que brillan, vena roja en la frente y dientes apretados**; Luffy, castigado dentro de una jaula. Es el «castigo de martillo» de la ficha oficial. → **regañar** (en broma). *Antes: «no encontré una imagen buena».*
 - **Vestuario:** cambia de ropa en cada arco (hay más de 60 trajes en la wiki). Lo fijo: **pelo naranja** `#E1823D` (P8; `#F78204` en 0651), el tatuaje del hombro izquierdo y el **Log Pose en la muñeca**. Tras el salto, pelo largo; antes, corto. Su vara (Clima-Tact) es azul.
 - **Voz latina:** Georgina (Gina) Sánchez ✅.
 
@@ -629,7 +641,7 @@ de nombre, no un rectángulo blanco.
   7. **O9**: su cartel de 50 berries, con la lengua fuera. → humor.
   8. **P24 (SBS 61)**: «¡No me alegra!». → humor.
   9. **ep. 312 · [1:08](https://www.dailymotion.com/video/x9kpldw?start=68)**: llora a mares con la nariz azul. → despedida (no usar aquí).
-- **Vestuario:** sombrero rosa con una X blanca `#B9696D` (en la sombra del anime; `#DA5F5B` en 0596), pelaje `#937555`, nariz azul `#425582` ⚠️ (muestra pequeña), astas. Tras el salto, sombrero rosa y cian (1369).
+- **Vestuario** (medido en la hoja P23, anime antes del salto): sombrero rosa `#B9696D` con una **X blanca** `#D2D2D2` (`#DA5F5B` en el arte del juego, 0596), pelaje `#C6A882`, **nariz azul grisácea** `#628190` (en el manga a color, P22, azul marino `#192B63`), astas `#947255`, pantalón corto granate `#5D2C3F` y **maletín blanco de médico** (P23). Tras el salto, sombrero rosa y cian (1369). *Antes: pelaje `#937555` y nariz `#425582`, de una muestra pequeña y dudosa.*
 - **Voz latina:** Nallely Solís ✅.
 
 ### Recompensas actuales (tras Wano, capítulo 1058) ✅
@@ -678,7 +690,7 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 | Jinbe | **Víctor Hugo Aguilar** | Doblaje Wiki, ANMTV (×2), ANN | ✅ (antes ⚠️) |
 | Shanks | **Raúl Anaya** | ANMTV (×2), ANN | ✅ |
 | Uta (Film Red) | **Azul Valadez**; canta **Aitza Terán** | [ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html), ANN | ✅ (antes ⚠️) |
-| Koby (Film Red) | Angélica Villa | ANMTV | ⚠️ una fuente |
+| Koby (Film Red) | Angélica Villa | ANMTV + [Doblaje Wiki, Film Red](https://doblaje.fandom.com/es/wiki/One_Piece_Film:_Red) | ✅ (antes, una fuente) |
 
 **Film Red:** Audiomaster Candiani, dirige **Daniel Lacy** (su primera vez en la franquicia) ✅ ([ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html), [ficha de ANN](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/24981.json)).
 
@@ -709,9 +721,12 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 - **Grand Line = «Gran Ruta Marítima»** ✅ (muestra de Robin + el tuit de Toei Animation Latinoamérica con **#LaGranRutaMaritima**, citado por [ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En 4Kids era «Gran Línea».
 - **Log Pose** y **Eternal Pose** se quedan en inglés ✅ (Doblaje Wiki + muestra de Robin).
 - **Nakama = «compañero»** ✅ (muestra de Luffy 3 + [One Piece Wiki en español](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)). **En la lámina: «tripulación» o «compañeros», nunca «nakama».**
-- La fruta de Luffy es la **«Fruta Goma-Goma»**; la moneda, **«berry»** (no «mora», como en 4Kids) ⚠️ (Doblaje Wiki).
+- La fruta de Luffy es la **«Fruta Goma Goma»** ✅ (Doblaje Wiki + [One Piece Wiki en español, «One Piece en Latinoamérica»](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)). La moneda, **«berry»** (no «mora», como en 4Kids) ⚠️ (sólo Doblaje Wiki).
+- La fruta de Bon Clay es la **«Fruta Copia Copia»** ✅ (wiki en español + clip oficial de Crunchyroll del ep. 92, [0:48](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=48): «esto es el poder de la fruta Copia Copia»).
+- Su nombre va al revés: **«Zoro Roronoa»** ✅ (wiki en español + muestra «Zoro 1»: «Soy Zoro Roronoa»).
+- El sueño de Sanji, el All Blue, es el **«Azul Infinito»**; la Red Line, la **«Línea Roja»** ⚠️ (sólo la wiki en español).
 - El haramaki de Zoro se llama **«faja»** ⚠️ (Doblaje Wiki).
-- Baroque Works = **«Los Barrocos»** ⚠️ (Doblaje Wiki).
+- Baroque Works = **«Los Barrocos»** ✅ (Doblaje Wiki + wiki en español; también en el avance latino de la 2.ª temporada de Netflix, [Sensacine México, 0:17](https://www.dailymotion.com/video/x9xmbj6?start=17): «se llaman Barrocos»).
 - Koby llama a Luffy **«Don Luffy»**; con Patricia Acevedo pasa a **«Señor Luffy»** ⚠️ (sólo Doblaje Wiki).
 
 **Chistes del doblaje que el fandom latino conoce:**
