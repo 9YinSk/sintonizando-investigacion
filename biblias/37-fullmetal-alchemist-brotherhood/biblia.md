@@ -1620,19 +1620,194 @@ hay de imagen está en los vídeos de §2.
 
 ## 23 · Fan dubs y comunidad hispana
 
-(pendiente)
+⚠️ YouTube pidió iniciar sesión y dio 429 al reintentar: **no se vieron
+ni vistas ni canal**. Son títulos y enlaces que dio el buscador; hay que
+abrirlos antes de citarlos en una lámina.
+
+| Qué | Idioma | Enlace |
+|---|---|---|
+| «Muerte de Van Hohenheim [Fandub Español Latino]» (una de las escenas que hacen llorar) | latino | [YouTube](https://www.youtube.com/watch?v=eDltSfZRzU8) ⚠️ |
+| «Un corazón de acero · Fandub Español Latino + RECAP FIN DE AÑO 2025» (canal activo en 2025-2026) | latino | [YouTube](https://www.youtube.com/watch?v=Sx7lf1Shpf0) ⚠️ |
+| «【Devy】USO · Fandub Español Latino» (cover cantado del ED1) | latino | [YouTube](https://www.youtube.com/watch?v=P4ZK8EMEucg) ⚠️ |
+| «AGAIN · OP1 [Fandub Español] Acoustic ver.» (cover del opening) | español | [YouTube](https://www.youtube.com/watch?v=uByvZPd84OY) ⚠️ |
+| «[Spanish Fandub] Clip en castellano» | **España**, no latino | [YouTube](https://www.youtube.com/watch?v=KWNMuUXxrLA) ⚠️ |
+
+**Lo que circula entre la comunidad de doblaje hispana** (Doblaje Wiki) ✅:
+- Los **guiños latinos** del doblaje: «¡Ahí te voy, San Pedro!» (cap. 53,
+  la frase de Burro en *Shrek*), el «**Sabandija**» de Bradley con tono de
+  Piccolo (cap. 56), el «**Pulgarcito**» de Pinako (cap. 2).
+- Los **errores** documentados: Vieira dobló por error una línea de Olivier
+  (cap. 35); Codicia confunde quién murió (cap. 49); «prócimo episodio»
+  (avance del 58); Hakuro llamado «Haruko».
+- La **pronunciación** que divide a los fans: «Winly» o «Winrry», «Máis» o
+  «Mās» (§10.5).
+- **José Manuel Vieira** y otros actores **subieron a sus redes el proceso
+  de grabación** del redoblaje; el vídeo sigue en YouTube ⚠️ (una fuente,
+  sin enlace).
+
+⚠️ **No encontré** en TikTok vídeos hispanos concretos con vistas (sin
+sesión sólo salen páginas de «descubrir»), ni parodias o memes hispanos con
+enlace propio.
 
 ## 24 · Colaboraciones, figuras y cosplay
 
-(pendiente)
+### 24.1 Juegos y gachas (traen arte y poses nuevas)
+
+- **Puzzle & Dragons × FMA: Brotherhood**: mazmorra y personajes (Ed, Roy,
+  Winry, Riza), **26-feb al 11-mar-2018**; vuelta del **3 al 16-dic-2018**
+  ✅ ([ANN, marzo](https://www.animenewsnetwork.com/press-release/2018-03-07/fullmetal-alchemist-collaboration-in-mobile-game-puzzle-and-dragons/.128607),
+  [ANN, diciembre](https://www.animenewsnetwork.com/press-release/2018-12-03/fullmetal-alchemist-brotherhood-collab-bursts-back-into-puzzle-and-dragons/.140330)).
+- **Monster Strike × FMA**: una primera con **13 personajes**; una segunda
+  del **12-feb al 2-mar-2023** con formas nuevas de Ed, Al, Roy y Ling ✅
+  ([QooApp](https://news.qoo-app.com/en/post/13435/qoo-news-monster-strike-x-fullmetal-alchemist-event-will-start-147),
+  [QooApp, 2.ª](https://news.qoo-app.com/en/post/148995/monster-strike-fullmetal-alchemist2)).
+- ⚠️ **No encontré** colaboración con **Fortnite** ni con otros juegos
+  occidentales (búsqueda en español e inglés).
+
+### 24.2 Ropa, cafés y exposiciones
+
+- **UNIQLO Manga UT** (19-ago-2019): FMA tuvo camiseta propia ✅
+  ([aitaikuji](https://www.aitaikuji.com/series/uniqlo-manga-ut-t-shirts));
+  ⚠️ no se vio el diseño.
+- **Café del 20.º aniversario** (Akihabara): 3-30 sep y 1-28 oct de 2022;
+  otra edición del 21-mar al 7-may-2023 ✅
+  ([QooApp](https://news.qoo-app.com/en/post/111430/fullmetal-alchemist-cafe),
+  [Crunchyroll](https://www.crunchyroll.com/anime-news/2023/03/18-1/torna-il-fullmetal-alchemist-20th-anniversary-caf-in-giappone)).
+- **«FMA × Yomi no Tsugai Cafe»** (Motto Cafe, Tokio, 2025): platos como
+  **«Ed's Curry Pilaf»** y **«Winry's Ajillo»** ✅
+  ([Japan Travel](https://en.japantravel.com/tokyo/fullmetal-alchemist-x-yomi-no-tsugai-cafe/71226),
+  [Tokyo Weekender](https://www.tokyoweekender.com/event/full-metal-alchemist-x-yomi-no-tsugai-cafe/)).
+- **Exposición de Matsuya Ginza** (2026) y **Premiere Tour de USJ** (2005):
+  §3.3.
+
+### 24.3 Figuras oficiales (su pose es una referencia 3D)
+
+| Personaje | Figura | Lo que trae | Fuente |
+|---|---|---|---|
+| Edward | Nendoroid (#788) | 3 caras; brazos para la **pose del aplauso**; automail a la vista | [goodsmile.info](https://www.goodsmile.info/en/product/6519/Nendoroid+Edward+Elric.html) ✅ |
+| Alphonse | Nendoroid | 3 caras; **pecho que se abre con un gato dentro** | [Kahotan's Blog](https://mikatan.goodsmile.info/en/2017/07/18/nendoroid-alphonse-elric-fullmetal-alchemist/) + [goodsmile.info](https://www.goodsmile.info/en/product/6586/Nendoroid+Alphonse+Elric.html) ✅ |
+| Roy | Nendoroid (reedición) | 3 caras; **llama y línea de fuego** para el chasquido | [Good Smile US](https://www.goodsmileus.com/products/fullmetal-alchemist-brotherhood-nendoroid-roy-mustang-figure-rerelease) ✅ |
+| Winry | Nendoroid (#2474, anunciada 23-may-2024) | caras sonriente, enfadada y encantada; **llave inglesa, tarta de manzana y una mano de Ed señalando** | [goodsmile.com](https://www.goodsmile.com/en/product/34673) + [HLJ](https://www.hlj.com/nendoroid-winry-rockbell-fullmetal-alchemist-brotherhood-gsc19495) ✅ |
+| Edward | BUZZmod. (Aniplex, 1/12, articulada) | — | [Aniplex](https://store.aniplexusa.com/fma/edward-elric-buzzmod-ver/) ✅ |
+| Ed y Al | estatua DX (Prime 1 Studio) | pose de combate en pareja | [Prime 1](https://www.prime1studio.com/fma-edward-and-alphonse-elric/CMFMA-01DX.html) ⚠️ |
+| Alphonse | Funko Pop | de pie, faldón blanco | hoja #67 ✅ |
+
+⚠️ No encontré **figma** de los cuatro (sí Nendoroid, BUZZmod, Revoltech y
+la estatua).
+
+### 24.4 Cosplay
+
+- El **automail esculpido** de `_casterclass` (Flickr, CC BY-NC 2.0,
+  §4.4) ✅: volumen real, remaches, dedos por segmentos.
+- ⚠️ No encontré un cosplay de FMA **premiado** (World Cosplay Summit)
+  confirmado en dos fuentes.
 
 ## 25 · Obras parecidas y láminas vecinas
 
-(pendiente)
+### 25.1 Lo que reconoce la autora
+
+- **Hiroyuki Etō** (*Mahōjin Guru Guru*, fue su asistente) y **Suihō
+  Tagawa** (*Norakuro*) ✅ (wiki + The Mary Sue).
+- **Yudetamago** (*Kinnikuman*), su manga de infancia ✅ (mismas dos).
+- **Rumiko Takahashi** y **Shigeru Mizuki** (*GeGeGe no Kitarō*) ⚠️ (sólo
+  The Mary Sue, citando el artbook *Profiles*).
+- Su obra actual, ***Daemons of the Shadow Realm*** (*Yomi no Tsugai*),
+  comparte exposición y café con FMA (§24) ✅ (AniList la relaciona).
+
+### 25.2 Lo que recomienda la comunidad (AniList)
+
+*Hunter x Hunter* (2011, 3 621 votos), *Attack on Titan*, *Soul Eater*,
+*Daemons of the Shadow Realm*, *D.Gray-man*, *One Piece*, *Witch Hat
+Atelier*, *Demon Slayer*, *Naruto Shippuden*, *Orb: On the Movements of
+the Earth*, *Fate/Zero*, *Dororo*, *Jujutsu Kaisen* ✅ ([AniList](https://anilist.co/anime/5114)).
+
+**En qué se parecen** (comparación de las sinopsis, ⚠️ sin fuente que lo
+diga): ejército y guerra (*Attack on Titan*, *Fate/Zero*); ciencia contra
+dogma (*Orb*); hermanos y maestros (*Soul Eater*, *Demon Slayer*); **cuerpos
+robados o de metal** (*Dororo*, paralelo directo con el automail y la
+armadura).
+
+**De la propia franquicia**: el manga (2001), la serie de **2003** (otro
+final), la *OVA Collection*, la película *La estrella sagrada de Milos* y
+el *4-Koma Theater* ✅. En TV Tropes hay páginas del manga, de la serie de
+2003 y hasta de una parodia *Abridged* ⚠️ (sólo el buscador: la web dio 403).
+
+### 25.3 Láminas vecinas del servidor (para no repetir ideas)
+
+| Lámina | Parecido | Cómo no chocar |
+|---|---|---|
+| **Dr. Stone** (#hardware) | ciencia, taller, cacharros | el banco de Winry (§27 B) es **automail y metal**, con luz de pueblo; nada de laboratorio de piedra |
+| **Attack on Titan** (#reglas) | ejército, uniformes, guerra | FMA no va en #reglas; el ajedrez de Roy (§27 C) es un despacho, no un muro |
+| **Violet Evergarden** (#poemas) | posguerra, uniformes, **máquina de escribir** | usar Special Elite sólo en un papel suelto, no una máquina de escribir como objeto |
+| **Evangelion** (#demos) | fichas técnicas | la cartela de FMA es un **marco de filigrana**, no una ficha |
+| **Big Hero 6** (#soporte) | prótesis y robots | el automail es **de metal viejo con remaches**, no plástico blanco |
+| **Monsters, Inc.** (propuesta del encargo 29 para #general-doblaje) | el oficio de la voz | si gana Monsters, FMA pasa a su reserva (§0.2) |
 
 ## 26 · El mundo, la historia por arcos y sus símbolos
 
-(pendiente)
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. **Amestris**: país militar, república de fachada que en la práctica
+   manda el ejército; capital **Ciudad Central**; cinco regiones ([wiki](https://fma.fandom.com/wiki/Amestris)).
+2. **La alquimia** tiene tres pasos: **comprender, descomponer y
+   reconstruir**; y una ley, el **intercambio equivalente**: para obtener
+   algo hay que perder algo de igual valor ([wiki](https://fma.fandom.com/wiki/Alchemy)).
+3. **La Verdad** castiga la **transmutación humana**: quien cruza **la
+   Puerta** pierde algo suyo ([wiki](https://fma.fandom.com/wiki/The_Truth)).
+4. **La Piedra Filosofal** está hecha de **almas humanas**: se salta la
+   ley, pero se gasta ([wiki](https://fma.fandom.com/wiki/Philosopher%27s_Stone)).
+5. **Los Alquimistas Estatales** sirven al ejército con rango de mayor y un
+   **reloj de plata**; tres normas: **obedecer al ejército, no crear oro,
+   no crear humanos** ([wiki](https://fma.fandom.com/wiki/Alchemist)).
+
+### 26.2 La historia por arcos ✅
+
+Los 13 arcos que usa la wiki ([Story Arcs](https://fma.fandom.com/wiki/Story_Arcs/Manga)):
+1. **Primer arco**: Lior y el falso profeta Cornello; termina con **Nina
+   Tucker**.
+2. **Scar**, el asesino de Alquimistas Estatales.
+3. **Laboratorio 5**: aparecen los **homúnculos** y Barry el Carnicero.
+4. **Winry llega a Central** para arreglar el automail de Ed.
+5. **Rush Valley**, la ciudad del automail.
+6. **Dublith**: vuelve **Izumi**, la maestra; el recuerdo de la
+   transmutación fallida.
+7. **Ling**, el príncipe de Xing que busca la inmortalidad.
+8. **Revelaciones**: sale a la luz el plan de **Padre**.
+9. **Regreso de Scar**.
+10. **Envidia**.
+11. **Ishval**: la guerra civil y el genocidio ordenado desde arriba.
+12. **Briggs**, la fortaleza del norte de Olivier Armstrong.
+13. **El Día Prometido**: eclipse y batalla final contra Padre.
+
+### 26.3 Símbolos y objetos (colores en §20.2)
+
+- **La cruz de Flamel**: en la espalda de Ed, en la armadura de Al,
+  tatuada en el pecho de Izumi ✅ ([wiki](https://fma.fandom.com/wiki/Flamel)).
+- **El reloj de plata**: grabado con el **dragón de Amestris en un
+  hexagrama** (el anime lo suaviza a un polígono) ✅.
+- **El uróboros**: cada homúnculo lo lleva en un sitio: **Lujuria** en el
+  pecho, **Gula** en la lengua, **Envidia** en el muslo izquierdo,
+  **Codicia** en el dorso de la mano izquierda, **Ira** en el ojo
+  izquierdo, **Pereza** en el hombro derecho; **Orgullo** y **Padre** no
+  lo llevan ✅ ([wiki](https://fma.fandom.com/wiki/Ouroboros)).
+- **El automail**: prótesis de metal (el brazo y la pierna de Ed); el
+  oficio de Winry.
+- **Los círculos de transmutación**: línea fina, círculos, hexagramas y
+  engranajes.
+- **Xerxes**: civilización que desapareció de golpe hace 400 años
+  (convertida en piedra filosofal) ✅ ([wiki](https://fma.fandom.com/wiki/Xerxes)).
+- **Xing y la alkahestría** (錬丹術): alquimia oriental que usa el **Pulso
+  del Dragón**; la llevó allí Hohenheim ✅ ([wiki](https://fma.fandom.com/wiki/Alkahestry)).
+
+### 26.4 Vocabulario que un fan reconoce al instante
+
+**Intercambio equivalente** · **Alquimista de Acero** · **Alquimista
+Estatal** · **perro del ejército** (mote de los alquimistas del Estado) ·
+**transmutación humana** · **la Puerta** · **la Verdad** · **Piedra
+Filosofal** · **homúnculos** (Lujuria, Gula, Envidia, Codicia, Ira,
+Pereza, Orgullo) · **Padre** · **automail** · **ishvalanos** ·
+**Generalísimo** (el Führer, en el doblaje) · **el Día Prometido** ·
+**«Uno es todo, todo es uno»** (el lema) · **uróboros**.
 
 ## 27 · Tres conceptos de lámina
 
