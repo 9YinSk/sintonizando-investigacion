@@ -375,12 +375,21 @@ dato"; lo saqué del wikitext de la Mafalda Wiki vía su API,
 - ⚠️ **Aval oficial del Concurso Internacional de Ilustración Mafalda** por
   los herederos de Quino: no lo confirmé, sólo vi las bases de la fundación
   organizadora.
+- ⚠️ **Colaboración con videojuegos** (Fortnite, gachas u otros): busqué
+  específicamente ("Mafalda Fortnite OR videojuego colaboración skin gacha")
+  y no hay nada — ni skin, ni evento, ni filtración. Mafalda no tiene
+  colaboraciones de videojuego conocidas.
+- ⚠️ **Café temático o tienda pop-up oficial**: busqué ("Mafalda café
+  temático tienda pop-up") y sólo aparecen tazas y productos de merchandising
+  sueltos (Amazon, Cafebrería El Péndulo) y menciones vagas a "una tienda
+  icónica de Mafalda en Buenos Aires", sin nombre ni dirección verificable.
+  No es lo mismo que un café temático real como los hay de otras franquicias.
 
 ---
 
 ## Bitácora de búsqueda (imagen)
 
-**Búsquedas web (español), 15 en total** — cupo usado: 15/50:
+**Búsquedas web (español), 16 en total** — cupo usado: 16/50:
 "Mafalda colaboración marca campaña oficial 2020 2021 2022" ·
 "Mafalda UNICEF embajadora derechos del niño" ·
 "Mafalda estampilla sello postal Argentina" ·

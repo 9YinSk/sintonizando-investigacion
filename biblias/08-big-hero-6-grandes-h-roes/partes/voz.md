@@ -580,9 +580,9 @@ este servidor). Quedan con la escena descrita y ⚠️ de minuto.
 - YouTube (página normal, no oEmbed): pide iniciar sesión desde este
   servidor, como avisa el mensaje de arranque.
 
-Sigue: nada pendiente de lo obligatorio de mis puntos (7, 8, 12, 13, 20, 21,
-22). Quedan como extra sin cerrar (verlos arriba, en «No encontré»): minuto
-exacto de las escenas que hacen llorar dentro de la película, vídeos de
-reacción con votos, y vistas reales de los fandubs de YouTube — los tres
-dependen de YouTube con sesión o de clips que no están subidos en Dailymotion
-ni Internet Archive.
+**Parte terminada.** Repasada contra `ENCARGO.md`: lo obligatorio de los
+puntos 7, 8, 12, 13, 20, 21 y 22 está cubierto y confirmado en dos fuentes
+donde el encargo lo pide. Lo que queda abierto (minuto exacto de las escenas
+que hacen llorar dentro de la película, vídeos de reacción con votos, y
+vistas reales de los fandubs de YouTube) son extras, no obligatorios, y están
+anotados arriba en «No encontré» con sus búsquedas.
