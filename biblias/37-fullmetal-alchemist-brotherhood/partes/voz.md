@@ -398,6 +398,15 @@ buscador, con su URL para que el redactor los revise cuando el 429 se enfríe:
   (`archive.org/wayback/available`) y no hay snapshot guardado de esa página. Dos
   intentos, sin más (regla del encargo). Se cubrió el hueco con medios hispanos
   (Univision) y con Reddit en su lugar.
+- ⚠️ La rejilla completa de «cara en cada emoción (alegría, rabia, tristeza, miedo,
+  vergüenza) con fotograma y minuto» que pide el punto 13 para cada personaje sólo se
+  cubrió parcialmente (3 fotogramas: Edward en miedo y en rabia, Hughes en alarma,
+  todos del mismo trailer oficial de Internet Archive). Conseguir el resto de la rejilla
+  (alegría, tristeza, vergüenza; y para Alphonse, Roy, Winry, Riza) necesita mirar
+  episodios completos con `episodio.py`/`fotogramas.py`, que es la herramienta y el
+  punto fuerte del investigador de VÍDEO (poses con capítulo y minuto, punto 14) — se
+  avisa aquí para que no se pierda, no se dejó en `Sigue:` porque ya no es tarea
+  pendiente de esta parte sino del rol de vídeo.
 - ⚠️ Encuesta de fans citada en fma.fandom.com como «final fan poll»: la wiki no dice
   quién la organizó ni la fecha exacta, sólo que es la última. Coincide en 4 páginas
   distintas del wiki así que el ORDEN es fiable, pero no pude verificar la fuente

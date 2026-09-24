@@ -16,3 +16,20 @@ _Fuente: https://archive.org/download/turner_video_11409/11409.mp4 · 115 planos
 | [5:00](https://archive.org/download/turner_video_11409/11409.mp4?t=300) | h2 · 70-84 (15) | Chill me. You go by Scar. What's your real name? / My name? / Last one. / I don't need a name. Call me anything. / Fair enough. / Now I'm going to go take the hottest longest f***ing bath in the whole world. / So, I've been thinking about something lately. / Me too. / I think we should try to bring mom back. |  |
 | [6:00](https://archive.org/download/turner_video_11409/11409.mp4?t=360) | h2 · 85-96, h3 · 97-101 (17) | Let's just see how this plays out. / Cameras, huh? / Oh, shit. / A dog? / Stop it! Now, gluttony! / A talking dog? / Within him is a philosopher's stone powered by many thousands of people. / You could say he's used its energy to claim the powers of God for himself. / Now you please put on a f***ing shirt. / Consider the enormity of what was at stake and what I could do. / I relented. I accepted my only choice. / That shake weight you see on TV. / Ten minutes a day, every day. |  |
 | [7:00](https://archive.org/download/turner_video_11409/11409.mp4?t=420) | h3 · 102-115 (14) | Names greed. / No greed! I will not kiss you! / This is what you desperately wanted. / Isn't it? / F*** you, Bob! / Fight on! / Wait, what the? / Does he have his arms and his legs? / Yes, sir. / We'll be there. |  |
+
+## FUNimation — tráiler oficial OVA Collection (escenas icónicas compiladas)
+
+_Fuente: https://archive.org/download/turner_video_134431/134431.mp4 · 38 planos · audio en «en» transcrito con Whisper (small; revisar nombres propios) · hojas en /tmp/claude-0/trabajo/37-fullmetal-alchemist-brotherhood-video/ep_trailer/hojas_
+
+| Minuto | Planos (hoja · n.º) | Se dice | Se lee en pantalla |
+|---|---|---|---|
+| [0:00](https://archive.org/download/turner_video_134431/134431.mp4?t=0) | h1 · 1-38 (38) |  |  |
+
+## Ending 1 «Uso» (SID) — BD creditless
+
+_Fuente: https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4 · 13 planos · audio en «ja» transcrito con Whisper (small; revisar nombres propios) · hojas en /tmp/claude-0/trabajo/37-fullmetal-alchemist-brotherhood-video/ep_ed1/hojas_
+
+| Minuto | Planos (hoja · n.º) | Se dice | Se lee en pantalla |
+|---|---|---|---|
+| [0:00](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=0) | h1 · 1-6 (6) | あの日見た空 赤ね色の空を ねえ 君はずか 約束ちぎり / 消火の風が包む 二人乗り添った |  |
+| [1:00](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=60) | h1 · 7-13 (7) |  |  |
