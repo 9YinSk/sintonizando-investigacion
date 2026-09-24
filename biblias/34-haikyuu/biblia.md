@@ -1861,9 +1861,9 @@ Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
 | 8 | Frases del doblaje y actores | ⚠️ | 22 voces, cada una en dos fuentes (§10.2). Frases textuales de 5 clips, pero **las de las escenas clave no las oí** (§10.4) |
 | 9 | Música | ✅ | Todos los OP y ED, OST con nombres de escena, qué pega a cada lámina (§11). El audio no lo analicé |
 | 10 | Vídeos con minuto | ✅ | 17 vídeos mirados con `?t=` (§12). TikTok sin minutos (no se deja leer) |
-| 11 | Videojuegos y su interfaz | ⚠️ | 7 juegos; la caja y la pizarra de *Tsunage* vistas. **TCRF bloqueada** (403) y *TOUCH THE DREAM* sin ver (§13) |
+| 11 | Videojuegos y su interfaz | ⚠️ | 6 juegos y sus cruces; la caja y la pizarra de *Tsunage* vistas. **TCRF bloqueada** (403) y *TOUCH THE DREAM* sin ver (§13) |
 | 12 | Lo que ama el fandom y qué NO hacer | ✅ | 13 cosas con episodio y minuto; 11 «no hacer» (§14) |
-| 13 | Descripción profunda de personajes | ✅ | Los 5 del encargo y 10 secundarios: carácter, miedo, cómo habla, con quién (§8) |
+| 13 | Descripción profunda de personajes | ✅ | Los 5 del encargo y 12 secundarios: carácter, miedo, cómo habla, con quién (§8) |
 | 14 | Poses analizadas (6-10 por personaje) | ✅ | Hinata 8, Kageyama 6, Nishinoya 7, Oikawa 7, Bokuto 7, con su función (§15) |
 | 15 | Vestuario | ✅ | 10 trajes con hex, peinados y accesorios (§16) |
 | 16 | Paisajes y fondos de pantalla | ⚠️ | Sitios por hora del día, sí. Fondos **oficiales** no (haikyu.jp da 403); de fans, 5 de Wallhaven (§17) |

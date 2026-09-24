@@ -22,25 +22,33 @@ amplia: "biblias/_ya_hechas/Attack on Titan.md"
 >   cerrada**: sólo buscador web (48 búsquedas) y GitHub. Sin hojas de contacto,
 >   sin Doblaje Wiki por su API y sin mirar vídeos.
 > - **Segunda pasada, 24-sep-2026 (tarde), con la red abierta.** Terminada. La
->   hicieron dos ayudantes seguidos (al primero lo cortó el límite de uso). Se
->   pudo usar:
+>   hicieron tres ayudantes seguidos (a los dos primeros los cortó el límite de
+>   uso; el tercero revisó todo contra `COMPLEMENTO.md` y la cerró). Se pudo usar:
 >   - **Wiki de Fandom** (`attackontitan.fandom.com`) por su API: 3 tandas de
 >     `investigar_serie.py` y el tamaño real de cada imagen. Las hojas están en
->     `hojas/` (§2.0).
+>     `hojas/` (§2.0). En el cierre, 18 poses más de Hange, Mikasa y Eren (§15).
 >   - **Doblaje Wiki** por la API (`action=parse`): reparto, equipo técnico,
 >     datos de interés y **muestras de audio del doblaje**, pasadas por
 >     reconocimiento de voz (Whisper) para sacar frases textuales (§9).
 >   - **Subtítulos japoneses de Netflix** (espejo de kitsunekko en GitHub), con
 >     el nombre de quien habla: de ahí salen los **minutos exactos** (§3).
->   - **YouTube con yt-dlp**: datos, títulos y descripciones de cada vídeo. La
->     descarga del vídeo da 403 o pide «iniciar sesión» (somos varios con la
->     misma IP). Plan B de `AYUDANTE.md`: bajé los *storyboards* y los pasé
->     por `herramientas/fotogramas.py` (hojas numeradas con su minuto, ±1-2 s).
->     Miré así el opening, el ending, dos tráileres y cinco escenas (§10, §11).
+>   - **YouTube con yt-dlp**: datos, títulos, descripciones y, en el cierre,
+>     **subtítulos automáticos en español de los 3 clips doblados oficiales**
+>     (§9.4). **La descarga del vídeo** da 403 o pide «iniciar sesión» (somos
+>     varios con la misma IP). Plan B de `AYUDANTE.md`: bajé los *storyboards* y
+>     los pasé por `herramientas/fotogramas.py` (hojas numeradas con su minuto,
+>     ±1-2 s). Miré así el opening, el ending, dos tráileres y cinco escenas
+>     (§10, §11).
+>   - **Juegos**: API de Steam (capturas oficiales de 1920×1080 de *AoT 2*,
+>     *Wings of Freedom* y *AoT 3*) y la web oficial japonesa de *AoT 2*, donde
+>     por fin se ve **su caja de diálogo** (§12).
+>   - **Chino**: Bangumi (API) y la Wikipedia china (§8, §14).
 >   - **Sketchfab** (licencias por su API), FUNiAnime, ANMTV, el portal oficial
->     (imágenes medidas bajándolas), Wallhaven (API), Reddit por Arctic Shift.
->   - **No respondieron**: ArtStation (403) y las páginas de Wayback Machine
->     (conexión cortada dos veces).
+>     (imágenes medidas bajándolas), Wallhaven (API), Reddit por Arctic Shift,
+>     eiga.com y un blog japonés sobre el director de arte (§5).
+>   - **No respondieron**: ArtStation (403), las páginas de Wayback Machine
+>     (conexión cortada), Moegirl y Baidu Baike (acceso denegado), TikTok con
+>     yt-dlp y la Wikipedia japonesa (429).
 
 ## Segunda pasada · qué cambió
 
@@ -75,18 +83,44 @@ amplia: "biblias/_ya_hechas/Attack on Titan.md"
   de Exploración»** en el doblaje (no «de Reconocimiento»); VSI hizo sólo la
   película; Eren sale **de perfil** (no de espaldas) en el visual de *AoT 3*.
 
-**Añadido:** 3 hojas de contacto (P·, E·, F·; 88 imágenes con tamaño medido);
-frases latinas textuales de Levi, Erwin, Hange, Keith, Zackly y Nile (§9.3);
-hojas de fotogramas del opening, el ending, dos tráileres y cinco escenas
-(§10-§11); Sketchfab y Poly Haven con licencia por API; fan art con autor;
-fondos de pantalla de fans con tamaño (§17); Reddit por Arctic Shift (§13);
-`referencias.json` rehecho: 39 entradas, todas con tamaño medido; la tabla
-«Cumplimiento del encargo».
+**Corregido en el cierre (tercer ayudante):**
+- **Caja de diálogo de *AoT 2***: «no la pude ver» → **vista en la web oficial
+  japonesa**: sin caja, nombre pequeño sobre una línea crema, dos líneas de
+  texto blanco con sombra y una ✓ al final (§12). Menús de *AoT 3* en las
+  capturas de Steam: pergamino sobre madera con clavos y martillo (§12).
+- **Frases latinas de clips oficiales**: «los clips no dieron subtítulos» →
+  **subtítulos automáticos en español de los 3 clips doblados**, con minuto y
+  enlace (§9.4).
+- **Chino**: «no encontré nada» → **Bangumi y la Wikipedia china**: en China el
+  personaje favorito es Mikasa y Levi va segundo (§8); Levi coge la taza por el
+  borde (§14, dos fuentes).
+- **Poses de Hange, Mikasa y Eren**: 5 cada uno → **11, 10 y 10**, miradas y
+  con enlace a la imagen (§15).
+- **Entrevistas de arte**: «no se hizo» → identificados el director de arte
+  (Shunichiro Yoshihara y sus «nubes de varios blancos», §5) y el artbook de
+  Kyoji Asano (§2.1).
 
-**Avisos ⚠️**: había **14** antes de esta pasada; ahora `grep` cuenta **12**, pero
-sólo **3 son datos dudosos** (Carlos Monroy, Ivett Toriz y «Legión de
-Exploración», todos con una sola fuente; §20). Los otros son este aviso y los 8
-«a medias» de la tabla «Cumplimiento del encargo», que se marcan así a propósito.
+**Añadido:** 3 hojas de contacto (P·, E·, F·; 88 imágenes con tamaño medido);
+frases latinas textuales de Levi, Erwin, Hange, Keith, Zackly y Nile (§9.3) y
+de los clips oficiales (§9.4); hojas de fotogramas del opening, el ending, dos
+tráileres y cinco escenas (§10-§11); Sketchfab y Poly Haven con licencia por
+API; fan art con autor; fondos de pantalla de fans con tamaño (§17); Reddit por
+Arctic Shift (§13); capturas oficiales de los tres juegos (§12); `referencias.json`
+rehecho: **40 entradas**, todas con tamaño medido; la tabla «Cumplimiento del
+encargo».
+
+**Conceptos de lámina**: el **A** gana referencias oficiales nuevas: el
+pergamino clavado sobre madera del menú de *AoT 3*, **Levi con mascarilla de
+limpiar en *AoT 2*** como pose de cuerpo entero, el patio donde los cadetes
+barren y **la caja de diálogo de *AoT 2*** como cuadro alternativo (§19). B y
+C no cambian.
+
+**Avisos ⚠️**: había **14** antes de esta pasada; ahora `grep` cuenta **8**.
+Sólo **3 son datos dudosos** (Carlos Monroy, Ivett Toriz y «Legión de
+Exploración», todos con una sola fuente; §20). Los otros son este aviso y las
+**4 filas «a medias»** de la tabla «Cumplimiento del encargo» (fuentes
+oficiales, Wayback, entrevistas a los actores latinos y vídeos vistos sólo por
+*storyboard*), que se marcan así a propósito.
 
 ---
 
@@ -652,8 +686,10 @@ Moegirl (萌娘百科) y Baidu Baike no dejaron entrar (dos intentos cada una).
   [ANMTV, 2025][anmtv-film]).
 - **Traducción y adaptación**: Jennifer Medel (que dobla a Sasha); Brenda Nava
   adaptó los eps. 46-49. Mezcla en Cronophonia (Julio Caín). Asistente de
-  dirección: Carlos Monroy ⚠️ (sólo la ficha de Doblaje Wiki; FUNiAnime y
-  ANMTV no lo nombran; en la serie también dobla a Klaus, Gustav y Keiji).
+  dirección: Carlos Monroy ⚠️ (sólo la ficha de Doblaje Wiki; FUNiAnime no lo
+  nombra y [ANMTV, 2020](https://www.anmtvla.com/2020/09/attack-on-titan-artworks-revela-toda-la.html?m=1)
+  sólo como la voz de Samuel en las películas; en la serie también dobla a
+  Klaus, Gustav y Keiji).
 - **Grabación**: de mayo de 2020 (T1-T2) a diciembre de 2023 (T4, parte 3).
   Salió en Funimation (T1 a T4, parte 2) y en Crunchyroll (el final)
   ([Doblaje Wiki][dw-aot]). Antes se doblaron las **tres películas
@@ -1062,6 +1098,13 @@ diálogo; las 5 de *AoT 2* en Steam (app 601050), igual. Ahí sí enseñan que
   vigila y lo protege) y su escuadrón.
 - **Cuerpo**: tieso, brazos cruzados, mirada de párpado caído. Coge la hoja **al
   revés** (G2). Isayama lo volvió a dibujar **de brazos cruzados** en 2026 (§2.1).
+- **La taza de té**: bebe té negro y **coge la taza por el borde, desde
+  arriba, sin tocar el asa**. En el capítulo extra «Bad Boy» explica por qué:
+  de niño se le rompió el asa de la taza de su madre ([wiki, «Bad Boy»](https://attackontitan.fandom.com/wiki/Bad_Boy) ·
+  [Wikipedia en chino, lista de personajes](https://zh.wikipedia.org/wiki/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8):
+  「喜欢喝红茶且持茶杯方式极为特殊」). Es un gesto que el fan reconoce al
+  instante: **sirve para «pensar» o para presentar con calma**, taza en mano,
+  en una mesa como la de [H5](https://static.wikia.nocookie.net/shingekinokyojin/images/e/ed/Hange_and_Levi_have_tea_with_the_reporters.png/revision/latest?cb=20240223053002).
 - **Cómo se expresa, en pantalla** (subtítulos de Netflix; traducción nuestra
   salvo lo marcado como latino):
   - **se queja de la suciedad antes que del peligro**: mata a un titán, se mira
@@ -1303,7 +1346,8 @@ encaja como fondo; los demás, sólo como referencia de tono.
 - **Levi**: pelo negro liso con raya al medio y **nuca rapada**; ojos estrechos
   **gris acero** con **ojeras**; cara joven y seria. **Bajo: 160 cm, 65 kg** ✅
   (ficha de la wiki, del folleto de la película, y Wikipedia). Pañuelo o
-  chorrera blanca al cuello. Coge la hoja al revés. No sonríe.
+  chorrera blanca al cuello. Coge la hoja al revés y **la taza por el borde**
+  (§14). No sonríe.
 - **Erwin**: rubio con raya al lado, **cejas gruesas**, alto y ancho, corbata
   de bolo verde. **Un solo brazo (el izquierdo) desde el ep. 36** ✅.
 - **Hange**: gafas, cola de caballo desordenada; en la temporada final, parche
@@ -1480,7 +1524,7 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
 
 ---
 
-## 20 · Lo que no pude verificar (tras la segunda pasada)
+## 20 · Lo que no pude verificar (tras la segunda pasada y su cierre)
 
 Lo que sigue con aviso en la biblia, y por qué:
 - **Carlos Monroy, asistente de dirección** (§9.1): sólo lo dice la ficha de
@@ -1491,23 +1535,31 @@ Lo que sigue con aviso en la biblia, y por qué:
   Doblaje Wiki, pero no hallé un texto oficial que lo escriba.
 
 Lo que no pude mirar o no existe con la red de hoy:
-- **Los vídeos en movimiento y con sonido**: YouTube no deja bajar el vídeo
-  (403 / «iniciar sesión»). Todo lo visto es por *storyboard* (160×90 o
-  320×180, ±1-2 s). Por eso **no hay frases latinas sacadas de subtítulos de
-  clips**: los clips oficiales de Crunchyroll no dieron subtítulos, y las
-  frases vienen de las muestras de audio de Doblaje Wiki (transcritas con
-  Whisper en la primera mitad de la pasada) y de los títulos de los clips.
+- **Los vídeos en movimiento y con sonido**: YouTube deja leer los datos a
+  ratos, pero **el vídeo da 403** o pide «iniciar sesión» (probé 8 veces en el
+  cierre, con 4 clientes distintos; TikTok tampoco respondió a yt-dlp). Todo lo
+  visto es por *storyboard* (160×90 o 320×180, ±1-2 s).
+- **Frases latinas de Levi sacadas de un clip oficial**: los tres clips
+  doblados de Crunchyroll en Español ya dieron subtítulos automáticos (§9.4),
+  pero **Levi no habla en ninguno**. Sus frases latinas salen de las muestras
+  de audio de Doblaje Wiki (§9.3).
 - **La frase latina de Levi en el ep. 15** («Es una regla que hay que
   cumplir»): no hay muestra de audio; va como traducción nuestra.
 - **Autores de dos fondos de ArtStation** (W9, W12): ArtStation dio 403.
-- **Wayback Machine**: la API dice que hay copia de la web oficial de 2013
-  (`shingeki.tv/character/`, 1-jun-2013), pero la página se cortó dos veces.
-- **Cajas de diálogo de *Wings of Freedom* y *AoT 2***: sin capturas.
+- **Wayback Machine**: su API contesta (hay copia de la web oficial de 2013 y
+  de la traducción de la entrevista de Otomedia a Kyoji Asano), pero **las
+  páginas se cortan** (dos intentos en cada pasada).
+- **Caja de diálogo de *Wings of Freedom***: sus capturas de Steam son de
+  combate. (La de *AoT 2* ya está vista, §12.)
 - **Fuente de la rotulación del manga en inglés** (Kodansha USA).
-- **Entrevistas del diseñador de personajes y del director de arte** (la
-  búsqueda 49-51 de la primera pasada no se hizo; en esta tampoco).
+- **Entrevistas de arte, por dentro**: el director de arte (Shunichiro
+  Yoshihara) y el artbook de Kyoji Asano ya están identificados (§2.1, §5),
+  pero no leí una entrevista suya sobre el diseño: la traducción de Otomedia
+  se borró y la de ABEMA (2024) habla de su carrera, no de AoT.
+- **Comentarios de los Blu-ray**: no encontré transcripciones.
 - **Hex de la bufanda a pleno sol**: sólo medida en G1 y en interior.
-- **Fuentes en chino**: no busqué.
+- **Moegirl y Baidu Baike** (chino): no dejaron entrar. El chino sale de
+  Bangumi y de la Wikipedia china (§8, §14).
 
 ## Cumplimiento del encargo
 
@@ -1519,31 +1571,31 @@ Lo que no pude mirar o no existe con la red de hoy:
 | 4 · Fondos, luz, paleta y texturas | ✅ | hex medidos con Pillow en 20 sitios y prendas (§5), texturas reales (§4.2) |
 | 5 · Tipografía con tildes, ñ, ¿ ¡ | ✅ | 6 letras libres comprobadas con fontTools; créditos latinos vistos (§6). Falta la fuente del manga en inglés |
 | 6 · Cómo hablan en pantalla | ✅ | la ficha «Información pública» medida en sus 54 versiones, globos del manga, cartelas de la T4, interfaz de *AoT 3* (§7, §12) |
-| 7 · Personajes y encuestas | ✅ | 4 encuestas oficiales + Nlab; Levi gana 3 de 4 (§8) |
+| 7 · Personajes y encuestas | ✅ | 4 encuestas oficiales + Nlab; Levi gana 3 de 4; en China (Bangumi) gana Mikasa y Levi es segundo (§8) |
 | 8 · Doblaje latino, dos fuentes | ✅ | reparto y equipo en Doblaje Wiki (API) + FUNiAnime/ANMTV/Crunchyroll; quedan 3 datos con una sola fuente (§20) |
 | 9 · Música | ✅ | openings y endings con intérprete (vídeos oficiales de Pony Canyon), Sawano y Yamamoto; OP 2 y ED 1 mirados (§10) |
 | 10 · Vídeos con minuto | ✅ | 13 vídeos mirados por *storyboard* con minuto y enlace `&t=`; 31 enlaces de YouTube comprobados. Los TikTok van sin minuto |
-| 11 · Videojuegos: interfaz y cajas | ⚠️ | *AoT 3* visto en la demo (borroso); de *Wings of Freedom* y *AoT 2* no hay capturas |
+| 11 · Videojuegos: interfaz y cajas | ✅ | **caja de diálogo de *AoT 2* vista** en la web oficial (nombre sobre línea crema, texto blanco, ✓; respuestas con botones) y Levi limpiando en el juego; menús de *AoT 3* en 10 capturas de Steam de 1920×1080, con hex; demo de *AoT 3*. *Wings of Freedom*: sólo capturas de combate (§12) |
 | 12 · Lo que ama el fandom y qué NO hacer | ✅ | memes con fuente, Reddit (4275 votos a la limpieza de Levi), lista de errores (§13) |
-| 13 · Carácter y forma de hablar | ✅ | Levi, Erwin, Hange con frases y minutos (§14); Eren y Mikasa más breves |
-| 14 · Poses con minuto | ⚠️ | Levi 13 y Erwin 7, con hoja o minuto; Hange, Mikasa y Eren sólo 5 cada uno (§15) |
+| 13 · Carácter y forma de hablar | ✅ | Levi, Erwin, Hange con frases y minutos (§14), y el gesto de la taza de Levi (dos fuentes); Eren y Mikasa más breves |
+| 14 · Poses con minuto | ✅ | Levi 13, Erwin 7, **Hange 11, Mikasa 10 y Eren 10** (las nuevas, miradas en una hoja propia, con enlace a la imagen, tamaño y arco); cada una dice si sirve para presentar, explicar, celebrar, regañar, pensar o animar (§15) |
 | 15 · Vestuario con hex | ✅ | uniforme confirmado en la wiki y en las hojas; hex medidos (§16) |
 | 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | oficiales medidos bajándolos; fans de Wallhaven con tamaño; 2 autores de ArtStation sin ver (403) |
 | 17 · Guía para IA | ✅ | rasgos, paleta con hex, luz, palabras, un ejemplo y las referencias por número (§18) |
 | 3 conceptos de lámina | ✅ | reglamento del cuartel, sentencia, bandera; con cinta del color del episodio y poses con número (§19) |
-| 40 fuentes distintas | ✅ | 63 dominios enlazados, más APIs sin enlace (Arctic Shift, Poly Haven, Wallhaven) |
-| Fuentes oficiales | ⚠️ | web, X y PDF de MAPPA, portal, Koei Tecmo, Crunchyroll, Pony Canyon; **sin** artbooks, comentarios de Blu-ray ni entrevistas de arte |
-| Otros idiomas | ⚠️ | japonés y coreano sí; **chino no** |
-| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, namu.wiki, TV Tropes, TCRF sí; Wayback sólo respondió su API, la página no |
+| 40 fuentes distintas | ✅ | 67 dominios enlazados (en el cierre, nuevos: Steam, Gamecity, Bangumi, Wikipedia china, eiga.com, OTACTURE, ABEMA Times), más APIs sin enlace (Arctic Shift, Poly Haven) |
+| Fuentes oficiales | ⚠️ | web, X y PDF de MAPPA, portal, Koei Tecmo (webs de *AoT 2* y *AoT 3*, Steam), Crunchyroll, Pony Canyon; artbook de Asano y director de arte identificados. **Falta**: hojear el artbook, comentarios de Blu-ray y una entrevista de diseño leída |
+| Otros idiomas | ✅ | japonés, coreano y **chino** (Bangumi por API y Wikipedia china; Moegirl y Baidu no dejaron entrar) |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, namu.wiki, Wikipedia china, Bangumi, TV Tropes, TCRF sí; Wayback sólo respondió su API, las páginas no (dos intentos en cada pasada) |
 | Foros y comunidades | ✅ | Reddit (Arctic Shift), dcinside, fmkorea, ResetEra, Tumblr |
 | Arte (Pixiv, ArtStation, DeviantArt) | ✅ | con autor y tamaño; ArtStation dio 403 en esta mitad |
 | Vídeo | ✅ | YouTube mirado por *storyboard*; TikTok enlazado |
 | Código y recursos | ✅ | GitHub (subtítulos, fuentes, fans), Sketchfab, Poly Haven |
 | Doblaje latino (Doblaje Wiki, ANMTV, Crunchyroll, entrevistas) | ⚠️ | todo salvo las entrevistas a actores en YouTube: no se pudieron ver ni oír |
-| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ⚠️ | hecho por *storyboard* (plan B de `AYUDANTE.md`): OP 2, ED 1, 2 tráileres, eps. 15, 53, 64, 71 y 73. No en movimiento ni con sonido |
-| Frases latinas textuales de clips oficiales | ⚠️ | los clips de Crunchyroll no dieron subtítulos; las frases salen de las muestras de audio de Doblaje Wiki y del título del clip oficial |
+| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ⚠️ | hecho por *storyboard* (plan B de `AYUDANTE.md`): OP 2, ED 1, 2 tráileres, eps. 15, 53, 64, 71 y 73. No en movimiento: en el cierre el vídeo siguió dando 403 o «iniciar sesión» (8 intentos, 4 clientes) |
+| Frases latinas textuales de clips oficiales | ✅ | **subtítulos automáticos en español de los 3 clips doblados de Crunchyroll en Español**, con minuto y `&t=` (§9.4): la gente del ep. 71, Willy y Eren (ep. 64), Zeke (ep. 73). Levi no habla en ninguno: sus frases, de las muestras de Doblaje Wiki (§9.3) |
 | Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,6-0,7 MB), miradas, con tabla de números (§2.0) |
-| `referencias.json` | ✅ | 39 entradas: la URL es la imagen (o el vídeo con `&t=`), tamaño medido, licencia |
+| `referencias.json` | ✅ | 40 entradas: la URL es la imagen (o el vídeo con `&t=`), tamaño medido, licencia (la 40 es Levi limpiando en *AoT 2*, con su caja de diálogo) |
 
 ---
 
@@ -1682,11 +1734,37 @@ esto sale de lo que dejó escrito):
 | Wayback Machine | API de disponibilidad y la página de 2013 | la API dice que hay copia; la página se cortó dos veces |
 | Espejos de YouTube (Piped, Invidious) | API de 7 instancias | ninguna devolvió el vídeo |
 
+**Cierre** (tercer ayudante, 24-sep-2026, tarde). Buscador web: 6
+búsquedas; lo demás, por red directa.
+
+| Qué (idioma) | Cómo | Resultado |
+|---|---|---|
+| YouTube, vídeo (JA, ES) | `fotogramas.py` y yt-dlp a mano: 8 intentos, clientes por defecto, `tv`, `web_safari` y `mweb`, formato 18 | los datos sí; **el vídeo, 403** o «iniciar sesión». Nada en movimiento |
+| YouTube, subtítulos (ES) | `--write-auto-subs --sub-langs "es.*"` en los 3 clips doblados de Crunchyroll en Español (2-3 intentos cada uno) | **los tres bajados** (§9.4) |
+| YouTube, búsqueda (ES) | `ytsearch25` y `ytsearch40`: «Attack on Titan (doblaje en español)» | el canal oficial sólo tiene **3 clips doblados**; el resto son subidas de fans |
+| TikTok (ES) | yt-dlp sobre un vídeo de @crunchyroll_la (CCXP, Ana Lobo y Mike Leal) | error de yt-dlp: no se pudo |
+| Steam (EN) | API `storesearch` y `appdetails` de las apps 601050, 449800 y 2916700 | 20 capturas de 1920×1080, miradas en 2 hojas; menús de *AoT 3* con hex |
+| Web oficial de *AoT 2* (JA) | `gamecity.ne.jp/shingeki2/system.html`, `system2.html`, `system3.html` | 12 capturas de «日常パート» y «交流»: **caja de diálogo**, Levi con mascarilla, cadetes barriendo |
+| Koei Tecmo América (EN) | `koeitecmoamerica.com/aot2/` | 404 |
+| Bangumi (ZH) | API `search/subject`, `v0/subjects/55770/characters`, `v0/characters/<id>` (25 personajes) | nota 8,2; Mikasa 1019 favoritos, Levi 776; apodos 兵长 y 一米六 |
+| Moegirl (ZH) | API y `action=raw` | «未授权操作» (2 intentos) |
+| Baidu Baike (ZH) | página de Levi | 403, «百度安全验证» |
+| Wikipedia china (ZH) | API `prop=extracts` de «進擊的巨人角色列表» | al 2.º intento (el 1.º, 429): la taza, la manía de limpiar |
+| Wikipedia japonesa (JA) | API de 吉原俊一郎 | 429 |
+| Fandom (EN) | galerías «Hange Zoë (Anime)», «Mikasa Ackermann (Anime)», «Eren Jaeger (Anime)» (`/Image Gallery`), `imageinfo` de 18 imágenes; búsqueda de texto «Levi tea cup rim»; páginas «Levi Ackerman» y «Bad Boy» | 18 poses miradas en una hoja; la taza por el borde confirmada en «Bad Boy» |
+| Buscador (JA) · 進撃の巨人 美術監督 吉原俊一郎 インタビュー 背景 | → OTACTURE, eiga.com, WIT STUDIO (404) | director de arte con dos fuentes; «nubes Yoshihara» |
+| Buscador (EN) · Kyoji Asano Attack on Titan character designer interview Levi design | → ANN, recopilación de Tumblr (entrevista de Otomedia) | la traducción de Tumblr ya no existe; Wayback: API sí, página no (2 intentos, curl y WebFetch) |
+| Buscador (JA) · 浅野恭司 インタビュー 進撃の巨人 キャラクターデザイン 線 影 リヴァイ | → shingeki.tv (artbook), ABEMA Times | artbook oficial de 2017; la entrevista de 2024 no habla del diseño |
+| Buscador (EN) · tiktok crunchyroll_la Attack on Titan doblaje latino Levi | → TikTok de @crunchyroll_la y de fans | ver fila de TikTok |
+| Buscador (ES) · «Carlos Monroy» «Attack on Titan» asistente · «Ivett Toriz» Levi niño | → Doblaje Wiki, ANMTV 2020, eldoblaje.com | ANMTV sólo nombra a Monroy como voz de Samuel; Toriz, sólo Doblaje Wiki |
+
 **Lo que NO encontré en esta pasada**: un texto oficial con «Legión de
-Exploración»; subtítulos en español de los clips oficiales; una segunda fuente
-para Monroy y Toriz; los autores de dos fondos de ArtStation; capturas de las
-cajas de diálogo de *Wings of Freedom* y *AoT 2*; fuentes en chino; artbooks o
-entrevistas de arte.
+Exploración»; una segunda fuente para Monroy y Toriz; los autores de dos fondos
+de ArtStation; la caja de diálogo de *Wings of Freedom*; el vídeo de YouTube en
+movimiento; una frase latina de Levi en un clip oficial (no habla en los tres
+que hay); una entrevista de diseño leída por dentro; comentarios de los Blu-ray.
+(Resuelto en el cierre: subtítulos en español de los clips oficiales, la caja
+de diálogo de *AoT 2*, fuentes en chino, el director de arte y el artbook.)
 
 <!-- Enlaces de la segunda pasada (en la vista de lectura no se ven) -->
 [dw-aot]: https://doblaje.fandom.com/es/wiki/Attack_on_Titan
