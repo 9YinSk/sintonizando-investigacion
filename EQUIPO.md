@@ -5,6 +5,25 @@ Siguen valiendo `ENCARGO.md` (qué tiene que tener una biblia), `AYUDANTE.md`
 (reglas del contenedor, herramientas de red, mirar vídeos) y `COMPLEMENTO.md`
 (repasos).
 
+## El método económico (desde el 24-sep-2026)
+
+Misma exigencia de `ENCARGO.md`, bastante menos gasto. Lo lleva la skill
+`serie-en-equipo`, que funciona sola de serie en serie.
+
+| Paso | Quién | Modelo | Qué |
+|---|---|---|---|
+| 0 | `herramientas/recolectar.py <id> --hojas` | ninguno (gratis) | junta los datos de 13 fuentes en `partes/datos-*.md` y `datos.json`, y las hojas de contacto |
+| 1 | 4 investigadores (imagen, video, voz, texto) | **Sonnet** | parten de su `datos-<rol>.md`; leen sólo sus secciones con `seccion.py`; tandas de ~70 acciones con `Sigue:` |
+| 2 | redactor | **Opus** | escribe o edita la biblia con las partes; la calidad final es suya |
+| 3 | jefe | el de la sesión | `revisar.py`; lo que falte, al investigador de ese punto; `subir.sh` |
+
+**Repaso corto** (biblias a las que sólo faltan los puntos 18-25): sólo 3
+investigadores, cada uno con sus puntos nuevos: imagen (19, 23), voz (20, 21,
+22) y texto (18, 24, 25). El de vídeo no hace falta.
+
+**No usar el equipo de 8** salvo que el dueño lo pida: el piloto de One Piece
+gastó unos 65 dólares en 25 minutos sin terminar.
+
 ## Quién hace qué
 
 | Quién | Qué hace | Dónde escribe |
@@ -19,7 +38,7 @@ Siguen valiendo `ENCARGO.md` (qué tiene que tener una biblia), `AYUDANTE.md`
 Cada uno escribe **sólo en sus archivos**. Nadie más que el redactor toca
 `biblia.md`, así nadie pisa el trabajo de otro.
 
-## Equipo de 8 (series grandes o cuando hay prisa)
+## Equipo de 8 (caro: sólo si el dueño lo pide)
 
 Cada rol se parte en dos; cada uno con su archivo `partes/<rol>.md` y `.json`:
 
