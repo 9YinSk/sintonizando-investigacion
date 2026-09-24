@@ -8,15 +8,46 @@ fecha: 2026-09-24
 # Biblia · Solo Leveling — para #guia
 
 > [!important] Cómo se hizo (léelo primero)
-> - La red de este contenedor estaba cerrada: Fandom, Doblaje Wiki, Wikipedia, YouTube, Reddit, Sketchfab y Crunchyroll dan **403**. Por eso **no hay hojas de contacto** (no se creó `hojas/`).
-> - El buscador web sí funcionó, pero el cupo de la sesión se acabó tras unas 40 búsquedas mías. Lo demás salió de **GitHub**, que sí responde: subtítulos con sus tiempos, copias de las fichas de ANN, MyAnimeList y AniList, el texto de Wikipedia, los créditos de modelos de Sketchfab y los archivos de Google Fonts.
-> - Abrí y medí yo mismo las dos *key visual* oficiales (temporada 1 y 2). Los colores en hex salen de ahí.
-> - Las tildes de cada letra libre se comprobaron abriendo el archivo de la fuente (no a ojo).
+> - **Dos pasadas.** La primera (24-sep-2026, mañana) se hizo con la red cerrada: sólo buscador web y **GitHub** (subtítulos con tiempos, fichas de ANN, MAL y AniList, texto de Wikipedia, Google Fonts). Sin hojas de contacto.
+> - **Segunda pasada, 24-sep-2026, con la red abierta.** Se pudo usar:
+>   - **Wiki de Fandom** (`solo-leveling.fandom.com`) por su API: 3 tandas de `investigar_serie.py` (**673 + 305 + 635 imágenes**, 36 hojas numeradas). **Las miré.** Monté 3 hojas propias en `hojas/` (§10.0). Los tamaños son los reales de la API.
+>   - **Doblaje Wiki** por la API (`action=parse`): reparto, equipo técnico, datos de interés y **60 muestras de audio del doblaje**. Pasé 15 por reconocimiento de voz (Whisper) para sacar frases textuales del doblaje (§12).
+>   - **YouTube con yt-dlp**: 21 vídeos comprobados (título, canal, fecha, duración, visitas). YouTube no deja bajar el vídeo (pide iniciar sesión) y `fotogramas.py` falla; **miré los vídeos por sus *storyboards*** (fotogramas de 320×180, uno por segundo): opening, ending, tráiler doblado y 5 escenas (§14).
+>   - **Sketchfab** (licencias por su API), **Poly Haven** y **ambientCG** (texturas CC0), **Arctic Shift** (Reddit), **fontTools** (13 letras más: 12 de Google Fonts y la de dafont) y webs que antes daban 403 (ANMTV, TVLaint, CBR).
+>   - Colores **medidos con Pillow** en capturas de la wiki, *storyboards* y arte oficial.
+> - **Siguen cerradas:** TV Tropes, The Cutting Room Floor y Game UI Database (403 de Cloudflare), Bilibili (412) y la web de noticias de Crunchyroll (sólo carga con JavaScript).
 
 **Leyenda**
 - ✅ **confirmado**: dos fuentes, o un archivo que abrí o medí.
 - ⚠️ **dudoso**: una sola fuente, o lo sé de memoria. Míralo antes de dibujar.
 - «ep. 12 · 17:39» = capítulo y minuto. Los de la temporada 1 salen de los subtítulos de Netflix; los de la 2, de los de Crunchyroll. En otra plataforma el minuto puede moverse unos segundos.
+- «hoja P·7» = número 7 de `hojas/personajes_01.jpg`; «S·3» = `sistema_01.jpg`; «F·5» = `fondos_01.jpg`. La tabla de §10.0 enlaza cada original.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+- **Cha Hae-In:** «armadura clara» (dudoso) → **uniforme rojo `#BC2B47` con blanco, pelo rubio corto y espada negra de guarda plateada** ✅ (wiki + CV oficial, hoja P·17-18).
+- **Igris:** en el anime japonés y en su visual oficial se llama **«IGRIT»** (P·11). Los subtítulos latinos dicen casi siempre «Igris» y una vez «Igrit» (ep. 20 · 09:01). Se mantiene «Igris».
+- **La primera ventana del Sistema (ep. 3)** no es un panel oscuro: es **gris azulada muy clara, casi transparente**, con la cabecera y el icono «!» en dos recuadros (S·1). Las oscuras (`#112A39`) llegan después (S·3, S·10).
+- **Frase «Just open the message box»:** la dice **Sung Jinah** ✅ (subtítulo de Netflix + muestra del doblaje: «Lo normal sería abrir la caja de mensajes»).
+- **Kim Chul (Iron):** «Olin Alejandro Garcés» (dudoso) → **Gamaliel Quintana en la T1 (ep. 5) y Olín Garcés en la T2** (Doblaje Wiki + ANMTV).
+- **Traducción del doblaje:** sólo se citaba a Ilse Santillán → **Ilse Santillán (T1) y Samuel Oseguera (T2)**.
+- **ARISE:** «¿18-mar o 8-may-2024?» → **8 de mayo de 2024** ✅ (wiki + prensa coreana).
+- **Película:** su título latino es **«Solo Leveling: Segundo despertar»** ✅ (Doblaje Wiki).
+- **Licencias de Sketchfab:** «según un README ajeno» (dudoso) → **comprobadas por la API** ✅.
+- **Descripción de «DARK ARIA»:** suena en el ep. 6 **y en el ep. 23** ✅.
+
+**Añadido**
+- 3 hojas de contacto propias (§10.0). `referencias.json` rehecho: **40 entradas**, todas con la imagen misma (o el vídeo con `&t=`) y 37 con tamaño medido; sólo quedan las 2 KV de la primera pasada.
+- La ventana del Sistema **medida en 10 capturas** (§4.2): colores, cabecera, icono, botones, la palabra en rojo.
+- El **vocabulario latino de los carteles** en un clip oficial doblado: «ADVERTENCIA: No cumplir la misión te detendrá el corazón», «[Perjuicio] Parálisis».
+- **Frases textuales del doblaje latino** (§12.3), de las muestras de audio de Doblaje Wiki.
+- Minutos y enlaces `&t=` de opening, ending, tráiler y 5 clips (§14).
+- Modelos 3D nuevos con licencia CC BY: **el salón de Igris**, Cha Hae-In, esfera de cristal, mostrador y tablón (§11).
+- Tabla **«Cumplimiento del encargo»** (antes de la bitácora).
+- Noticia: **«Solo Leveling: Beyond the System»**, película nueva en producción (Crunchyroll, 3-jul-2026).
+
+**Marcas de duda (⚠️):** había **55**; quedan **36**, contadas con `grep` (31 son datos dudosos; 5 son la leyenda, este resumen y la tabla de cumplimiento). El porqué de cada una va a su lado y resumido al final de la bitácora.
 
 ---
 
@@ -24,9 +55,11 @@ fecha: 2026-09-24
 
 - **El más querido es el protagonista, Sung Jinwoo.** Gana todas las encuestas ([§3](#3--quién-es-el-más-querido)).
 - **La secundaria más querida es Cha Hae-In.** Entre las sombras, **Igris** va por delante de **Beru**.
-- **El cuadro de diálogo propio es la ventana del Sistema.** Es un panel oscuro translúcido con doble filete claro y el título en un recuadro (NOTIFICACIÓN, MISIÓN…). Nunca un globo blanco.
-- **La ventana va proyectada sobre un objeto real** (un mostrador, un cristal, un trono), no suelta en el aire.
-- **Vocabulario latino oficial** (subtítulos de Crunchyroll): *portal*, *mazmorra*, *Asociación de Cazadores*, *rango E*, *gremio*, *soldados sombríos*, y **«Surge.»** para el famoso *Arise*.
+- **El cuadro de diálogo propio es la ventana del Sistema.** Es un panel translúcido azul noche con filete fino claro, una barra de luz cian arriba y abajo, y la cabecera en un recuadro con el icono «!» en otro (NOTIFICACIÓN, QUEST INFO…). Nunca un globo blanco. Míralo en la hoja S·1-10.
+- **La palabra que amenaza va en rojo carmesí** (`#9F205C`): «penalización», «te detendrá el corazón» (S·3, [clip del ep. 6 · 0:07](https://www.youtube.com/watch?v=Vzyw9z9F57M&t=7)).
+- **La ventana va proyectada sobre un objeto real** (un mostrador, un cristal, un trono), no suelta en el aire. En la serie Jinwoo la sostiene como una tableta (S·7) o la tiene al lado mientras piensa (S·2).
+- **Vocabulario latino oficial** (subtítulos de Crunchyroll): *portal*, *mazmorra*, *Asociación de Cazadores*, *rango E*, *gremio*, *soldados sombríos*, *Perjuicio* (debuff), y **«Surge.»** para el famoso *Arise*.
+- **En el doblaje, Beru trata a Jinwoo de «mi rey» y de usted** (muestra de audio de Doblaje Wiki, §12.3).
 - **La letra de la ventana:** Lato o Nunito para el texto, Exo 2 u Oxanium para los números. Todas traen tildes, ñ, ¿ y ¡.
 - **La idea para los 14 hilos:** un sitio de la serie por hilo, con la ventana del Sistema dentro ([§19](#19--los-14-hilos-un-sitio-por-hilo)).
 
@@ -37,7 +70,7 @@ fecha: 2026-09-24
 - **Nombre:** `ıı・🗺️・guia` · foro · 14 hilos.
 - **Etiquetas:** Primeros pasos · Roles y zonas · Si te atascas · Bots y comandos · Doblaje · Normas.
 - **Descripción:** «El mapa del servidor. Cada hilo responde una pregunta. Filtra con las etiquetas de arriba o usa el buscador del foro. Si no encuentras lo q…»
-  - ⚠️ El inventario la corta ahí. Hay que copiar el texto entero del Discord antes de maquetar.
+  - ⚠️ El inventario la corta ahí (lo comprobé otra vez en la segunda pasada: `servidor/inventario.md`, línea 83, acaba en «lo q_»). No hay otra copia en el repositorio y no tengo acceso al Discord. Hay que copiar el texto entero antes de maquetar.
 
 | # | Hilo | Adjunto actual |
 |---|---|---|
@@ -69,15 +102,18 @@ Los hilos 2 y 3 comparten hoy `guia.png`. Con Solo Leveling cada uno tendría su
 | Anime T1 | A-1 Pictures, 12 cap., 7-ene a 31-mar-2024 | [ANN][ann-data1], [MAL][jk1] ✅ |
 | Anime T2 | «Arise from the Shadow», 13 cap., 5-ene a 30-mar-2025 | [ANN][ann-data2], [MAL][jk2], [Wikipedia][wp-s2] ✅ |
 | Título latino T2 | «Solo Leveling: **Surge desde las sombras**» | [ANMTV][anmtv-t2], [Arata][arata2], [DroideTV][droidetv] ✅ |
-| Película | «ReAwakening»: resumen de la T1 más los cap. 1-2 de la T2 | [Wikipedia][wp-txt], [Aniplex][aniplex-kv2] ✅ |
+| Película | «ReAwakening»: resumen de la T1 más los cap. 1-2 de la T2. En latino: **«Solo Leveling: Segundo despertar»** (VSI, grabada de agosto a octubre de 2024) | [Wikipedia][wp-txt], [Aniplex][aniplex-kv2], [Doblaje Wiki][dw-film] ✅ |
+| Película nueva | **«Solo Leveling: Beyond the System»**, en producción para cines. Sigue tras la T2. Aniplex, D&C Media y Crunchyroll | [vídeo conceptual de Crunchyroll en Español, 3-jul-2026][yt-beyond], [Variety][variety-beyond] ✅ |
 | Dirección | Shunsuke Nakashige | [ANN][ann-data1], [Wikipedia][wp-s1] ✅ |
 | Diseño de personajes | Tomoko Sudo | [ANN][ann-data1], [Wikipedia][wp-s1] ✅ |
-| Dirección de arte | Yasuhiro Okumura | [ANN][ann-data1] ⚠️ (una fuente) |
+| Dirección de arte | Yasuhiro Okumura (奥村泰浩) | [ANN][ann-data1], [descripción del PV 2 de Aniplex][yt-tr1] ✅ |
+| **Gráficos en movimiento** (las ventanas del Sistema) | **Takemune Ōshiro, de Production I.G** (大城丈宗) | [PV 2 de Aniplex][yt-tr1], [ANMTV][anmtv-24] («gráficos en movimiento de Production I.G») ✅ |
+| Diseño de monstruos · de objetos | Hirotaka Tokuda · Sōtarō Shiraishi | [PV 2 de Aniplex][yt-tr1] ✅, [ANMTV][anmtv-24] (Tokuda) |
 | Música | Hiroyuki Sawano | [ANN][ann-data1], [Wikipedia][wp-txt] ✅ |
 | Juegos | ARISE (Netmarble, 2024) y ARISE OVERDRIVE (Steam, 24-nov-2025) | [Wikipedia][wp-txt], [PC Gamer][pcgamer], [Steam][steam] ✅ |
 | Premios | 9 premios en los Crunchyroll Anime Awards 2025, entre ellos **Anime del Año** y **Mejor Protagonista** (Jinwoo) | [Kakao][kakao], [THR][thr], [Gold Derby][goldderby] ✅ |
 
-**Nombres:** el doblaje japonés usa nombres japoneses (Jinwoo es «Shun Mizushino»). El latino usa los **coreanos**: «Sung Jinwoo», «Cazadora Cha». Así sale en los [subtítulos latinos][es13] ✅. **En la lámina, nunca «Shun».**
+**Nombres:** el doblaje japonés usa nombres japoneses (Jinwoo es «Shun Mizushino», Cha Hae-In es «Shizuku Kōsaka»; así lo escriben sus CV oficiales, hoja P·3 y P·17). El latino usa los **coreanos**: «Sung Jinwoo», «Cazadora Cha». Así sale en los [subtítulos latinos][es13] y lo explica [Doblaje Wiki][dw] ✅. Doblaje Wiki añade dos detalles: el latino pone el nombre antes del apellido, y los personajes menores de la T2 sí llevan nombres japoneses. **En la lámina, nunca «Shun».**
 
 ---
 
@@ -90,12 +126,14 @@ Los hilos 2 y 3 comparten hoy `guia.png`. Con Solo Leveling cada uno tendría su
 | Nlab (Japón, abril 2024) | 1.º Jinwoo · **2.º Cha Hae-In** (向坂雫) | [nlab][nlab-res] ✅ |
 | Dengeki Online (Japón, abril 2024) | 1.º Jinwoo, con cerca de 1,5 veces los votos del 2.º | [Dengeki][dengeki-res], [convocatoria][dengeki-vote] ✅ |
 | Crunchyroll Anime Awards 2025 | Jinwoo, **Mejor Protagonista**. 51 millones de votos | [Wikipedia][wp-awards], [Inquirer][inquirer] ✅ |
-| Otro ranking japonés | Cha Hae-In se quedó fuera del top 10 | [CBR][cbr-cha] ⚠️ (no pude leerlo entero) |
+| Anime!Anime! (Japón, 9-13 ene., 1366 votos): el personaje favorito de **Reina Ueda**, su voz japonesa | Cha Hae-In **no entró en el top 10**; ganaron Reze y Kanao | [CBR][cbr-cha] (leído entero en la 2.ª pasada) ⚠️ (una fuente) |
+| Reddit r/sololeveling, tras el final de la T2 (29-31 mar-2025) | Los posts más votados: la pregunta «¿es más fuerte que Jinwoo?» (6021 votos, 1043 comentarios), el arte de fans de Cha Hae-In y Jinwoo (2257) y «la vida diaria de las sombras» (345) | [Arctic Shift][as-sl] ✅ |
 
 **Conclusión**
 - Aquí el protagonista **sí** es el más querido. Jinwoo narra.
 - La **secundaria** más querida es **Cha Hae-In**. Va para los hilos «sociales» (eventos, reuniones).
 - Entre las sombras gana **Igris** (886 frente a 516 de Beru). Beru llegó al final de la T2, pero es el rey de los memes ([TikTok][tt-king]). Mejor en una lámina 2.
+- Ojo: en Japón la serie gusta menos que fuera. En la encuesta TAAF de fans japoneses la T2 quedó en el puesto 61 ([CBR][cbr-cha] ⚠️). Para un servidor latino da igual: aquí manda Crunchyroll, donde ganó todo.
 
 ---
 
@@ -116,7 +154,21 @@ Datos de la guía del repo, medidos en una captura oficial ✅:
 - **Título dentro de un recuadro** (STATUS, NOTIFICACIÓN…).
 - Texto en blanco, con los números grandes y finos. Las subidas van en **verde** («+55»).
 - Versión «Monarca» (T2): marco de neón violeta `#9229F9` y magenta `#ED77F3`, hecho de líneas de circuito.
-- La ventana de la T1, la de cuando Jinwoo es novato, es **azul**, no violeta ([wiki, cap. 3][wiki-ep3] y guía del repo ✅). Su hex exacto no lo medí.
+
+**Segunda pasada: lo que vi en 10 capturas de la T1** (hoja `sistema_01.jpg`; hex medidos con Pillow) ✅
+- **Quién la hace:** las ventanas son **gráficos en movimiento de Production I.G** (Takemune Ōshiro), no del estudio A-1 ([PV 2][yt-tr1], [ANMTV][anmtv-24]).
+- **La primera (ep. 3, S·1; resumen del capítulo en la [wiki][wiki-ep3]):** «NOTIFICATION» con el texto en espejo, porque la vemos desde detrás. Casi transparente: en el hospital se ve gris azulada (`#5D646C` de media) y deja ver la cama. Encima y debajo, **una barra de luz** blanco-cian (`#D4EDFF`).
+- **La de aviso (ep. 10, S·10):** panel azul noche translúcido (`#112A39`) sobre fondo azul (`#233E53`). Esquinas de circuito cian brillante (`#82F3FA`). Cabecera **«NOTIFICATION»** en blanco (`#E7F5FA`) dentro de un recuadro, y **el icono «!» en un círculo, en otro recuadro a la izquierda**. Texto: «A ***job-change quest*** can now be ordered.»: la palabra clave va en negrita cursiva.
+- **La de misión (ep. 6, S·3):** «QUEST INFO» con el «!» a la izquierda. Debajo, entre corchetes, **[Urgent Quest: Defeat the Enemies.]**, y «GOAL» subrayado. Termina con «WARNING: … you will receive an appropriate **penalty**»: **«penalty» va en rojo carmesí** (`#8B1F5E` en la captura pequeña).
+- **La de estado (ep. 5, S·2):** panel oscuro vertical (`#1E2D37`) de pie junto a Jinwoo, con una barra de luz blanca arriba (`#F0FBFE`). Él la mira **con la mano en la barbilla**: la pose de «pensar».
+- **La de compra (ep. 12, S·6):** negra (`#0B0905`), filete gris fino. «Would you like to purchase?» y el objeto **[Knight Killer]** en negrita cursiva entre corchetes. Botones **CANCEL · BUY** en mayúsculas muy espaciadas, cada uno en su rectángulo. El precio lleva un punto blanco (la moneda).
+- **La tienda (ep. 12, S·7):** Jinwoo la sujeta **como una tableta**, inclinada, con el atardecer detrás. **Esto es lo que pide el dueño: la ventana como objeto que se sostiene.**
+- **El temporizador (ep. 12, S·8):** un rótulo pequeño con marco de pinchos cian flota **sobre la cabeza** de Jinwoo («04:29:16»).
+- **Los estados negativos (ep. 6, S·4):** barras anchas «[Debuff] Paralysis Lv.–» y «[Debuff] Drain». En latino, **«[Perjuicio] Parálisis»** y «[Perjuicio] Drenaje» (cartel del [clip oficial doblado, 0:46][yt-clip6-46]).
+- **La receta (ep. 7, S·5):** «FORMULA: Elixir of Life», con un icono de pergamino en su propio recuadro.
+- **El aviso del mundo real (ep. 8, S·9):** no es el Sistema: es **el móvil de Jinwoo**. Tarjeta blanca «Notice · New message: 1 · From: **Hunter's Association** · Urgent: **Request to Participate in D-rank gate** · Clear | View». Es el otro cuadro de diálogo de la serie: el de la Asociación, blanco y de oficina.
+- **La barra roja del miedo (ep. 6, [clip 0:07-0:15][yt-clip6-7]):** «WARNING: If you do not complete this quest, **YOUR HEART WILL STOP.**» en blanco cian (`#CFF2F9`) y **rojo carmesí** (`#9F205C`). El cartel latino: **«ADVERTENCIA: No cumplir la misión TE DETENDRÁ EL CORAZÓN.»**
+- **Resumen de la paleta de la ventana T1:** fondo `#112A39`, filete y esquinas `#82F3FA`, barra de luz `#D4EDFF`-`#F0FBFE`, texto `#E7F5FA`, amenaza `#9F205C`.
 
 ### 4.3 El vocabulario oficial en español latino
 Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo abierto; traducción de Iris de la Fuente y Nicolás Sepúlveda):
@@ -141,21 +193,24 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
 - *Asociación de Cazadores* y *Supervisión*.
 - *Gremio de Cazadores* y *Gremio Tigre Blanco*.
 - *soldados sombríos* y *Rey de las Sombras* (la clase de Jinwoo, ep. 13 · 01:24).
-- ⚠️ En estos subtítulos, Shadow Monarch se dice «Rey de las Sombras», no «Monarca». Monarca solo aparece en «Monarca Demoníaco Baran».
+- Ojo: en estos subtítulos, Shadow Monarch se dice «Rey de las Sombras», no «Monarca». Monarca solo aparece en «Monarca Demoníaco Baran».
 
 ### 4.4 Cómo hablan los personajes en pantalla
 - **Pensamientos de Jinwoo:** van en **cursiva**, sin globo. Así los marcan los subtítulos (`<i>`) ([subs Netflix][nf12], [subs latinos][es13] ✅). En la lámina, su pensamiento sería una línea en cursiva junto a la ventana.
 - **Las sombras casi no hablan.** Solo las de grado comandante o superior pueden hablar ([Wikipedia][wp-txt] ✅). Igris **no tiene actor de voz** en MAL ([Jikan][jkc1] ✅). Igris «dice» con gestos: se arrodilla ante su amo tras cada batalla ([Wikipedia][wp-txt] ✅).
-- **Beru sí habla.** Su frase famosa en inglés: «My King is the greatest being in this universe…» ([fuente][rslm-beru] ⚠️, una sola).
-- **La orden «Arise»** es una sola palabra, seca. En los subtítulos latinos es **«Surge.»** (ep. 14 · 12:48, ep. 18 · 17:49, ep. 21 · 02:33, [subs][es14] ✅). En los ingleses, «Arise.» en el mismo minuto ([subs EN][en14] ✅).
-  - ⚠️ No pude oír si el **doblaje** dice «Surge» o «Levántate». El título latino de la T2 usa «Surge».
+- **Beru sí habla**, porque es de grado General y esas sombras pueden hablar ([wiki: Shadows][wiki-shadows] ✅). En el ep. 25 (09:04-10:01, [subs VI][vi25] ✅) se arrodilla y pide un nombre. En el doblaje latino dice, textual: **«Mi rey… necesito que usted me dé un nombre. Se equivoca, yo no morí, mi rey. Es gracias a su mano que yo he podido renacer. Todo mi ser se encuentra lleno de júbilo. Juro que voy a servirle por la eternidad. Ahora, por favor, concédame un nombre.»** ([muestra de audio de Doblaje Wiki][dw-beru-sombra], transcrita con Whisper ✅ contenido; ⚠️ alguna palabra puede fallar). Su frase inglesa «My King is the greatest being in this universe…» sigue con [una sola fuente][rslm-beru] ⚠️ (es de la novela o el webtoon, no la oí en el anime).
+- **La orden «Arise»** es una sola palabra, seca. En los subtítulos latinos es **«Surge.»** (ep. 14 · 12:48, ep. 18 · 17:49, ep. 21 · 02:33, [subs][es14] ✅). En los ingleses, «Arise.» en el mismo minuto ([subs EN][en14] ✅). En el ep. 25 · 10:07 vuelve a sonar tras nombrar a Beru ([subs VI][vi25]: «Trỗi dậy đi!»).
+  - ⚠️ Sigo sin poder **oír** si el doblaje dice «Surge» o «Levántate»: YouTube no deja bajar el audio y Doblaje Wiki no tiene muestra de esa escena. Lo que sí es seguro: Crunchyroll Latinoamérica usa **«SURGE»** como verbo de marca («🔥SURGE🔥 con los secretos detrás del doblaje», [descripción del vídeo][yt-bts]) y el título latino de la T2 es «Surge desde las sombras». En la lámina, «Surge.»
 
 ### 4.5 El cuadro para la lámina
-- **Forma:** rectángulo de esquinas rectas, sin cola. El Sistema no «sale» de nadie.
-- **Relleno:** `#211B32` al 70-80 % de opacidad, con un leve degradado hacia `#1C254E` (el azul del abrigo en la KV de la T2).
-- **Borde:** doble filete de 1-2 px en blanco azulado `#C5E8EE`, con un brillo exterior suave cian `#89BAD3`.
-- **Cabecera:** la palabra en MAYÚSCULAS dentro de un recuadro propio (NOTIFICACIÓN, MISIÓN, INVENTARIO). Línea fina debajo.
-- **Texto:** blanco, frases cortas. Los nombres de objeto o de rango van **entre corchetes**: [Rango E], [Colmillo Nv. 1].
+- **Forma:** rectángulo de esquinas rectas, sin cola. El Sistema no «sale» de nadie. Las esquinas llevan **piezas de circuito** cian (S·10), no redondeos.
+- **Relleno:** `#112A39` (T1, medido en S·10) o `#211B32` (guía del repo) al 70-80 % de opacidad, con un leve degradado hacia `#1C254E` (el azul del abrigo en la KV de la T2).
+- **Borde:** doble filete de 1-2 px en blanco azulado `#C5E8EE`, con un brillo exterior suave cian `#89BAD3`. Esquinas en `#82F3FA`.
+- **Barra de luz:** una línea horizontal muy brillante (`#D4EDFF`) que sobresale arriba y abajo del panel (S·1, S·5). Es lo que hace que parezca proyectada.
+- **Cabecera:** la palabra en MAYÚSCULAS dentro de un recuadro propio (NOTIFICACIÓN, MISIÓN, INVENTARIO), y **el icono «!» en un círculo, en su propio recuadro a la izquierda** (S·3, S·10). Línea fina debajo.
+- **Texto:** blanco, frases cortas. Los nombres de objeto o de rango van **entre corchetes y en negrita cursiva**: ***[Rango E]***, ***[Colmillo Nv. 1]***.
+- **La amenaza en rojo:** sólo una palabra o frase por ventana, en carmesí `#9F205C`: «penalización», «te detendrá el corazón». Sirve para las normas.
+- **Botones:** dos rectángulos con MAYÚSCULAS muy espaciadas (CANCELAR · ACEPTAR), como en S·6.
 - **Dos variantes:**
   - **Azul (novato):** para los hilos de primeros pasos.
   - **Violeta Monarca** (`#9229F9` / `#ED77F3`): para staff, roles altos y talentos.
@@ -163,8 +218,8 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
 
 ### 4.6 En los videojuegos
 - **Solo Leveling: ARISE** cuenta la historia con **viñetas del webtoon animadas** (cómic en movimiento) más escenas en 3D. Predominan las viñetas ([Siliconera][silic], [Sportskeeda][sk-review], [CBR][cbr-review] ✅).
-- En el juego repiten las voces del anime. En inglés, Aleks Le hace de Jinwoo ([Siliconera][silic] ⚠️).
-- No pude abrir **Game UI Database** (403). Las cajas de diálogo exactas del juego quedan sin medir.
+- En el juego repiten las voces del anime. En inglés, Aleks Le hace de Jinwoo ([Siliconera][silic]; y la tarjeta oficial de cuenta atrás del anime con su firma, [wiki][wiki-aleks] ✅).
+- **Game UI Database** sigue en 403 (Cloudflare) también con la red abierta. Las cajas de diálogo exactas del juego quedan sin medir ⚠️.
 
 ---
 
@@ -176,12 +231,17 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
 | Títulos del Sistema | **Trueno Round** / **Circe Rounded ExtraBold** ([FontBolt][fontbolt]) ⚠️ | **Nunito** Black o **Varela Round** | ✅ · ✅ |
 | Texto del Sistema | **Lato** ([FontBolt][fontbolt]) ⚠️ | **Lato** (es libre) | ✅ |
 | Números del Sistema | **Caros Soft** ⚠️ | **Exo 2**, **Oxanium** o **Rajdhani** | ✅ · ✅ · ✅ |
-| Logo del juego ARISE | parece **Metal Mania** ([designbeep][designbeep]) ⚠️ | — | sin comprobar |
+| Logo del juego ARISE | parece **Metal Mania** ([designbeep][designbeep]) ⚠️ | **Metal Mania** es libre (OFL) | ✅ (comprobado en la 2.ª pasada) |
+| Logo del anime en pantalla (final del opening, [OP · 1:24][yt-op1-84]; visuales F·18-19) | **serifa clásica en MAYÚSCULAS muy espaciadas**, «S O L O  L E V E L I N G», con un adorno en la V | **Cinzel** o **Marcellus** | ✅ · ✅ |
+| Rótulos del tráiler latino («ESTE INVIERNO», «ENERO DE 2024», [tráiler · 1:29][yt-trailer-89]) | palo seco geométrico, MAYÚSCULAS muy espaciadas, blanco sobre una rejilla azul de interfaz (`#08152E`) | **Michroma** o **Josefin Sans** | ✅ · ✅ |
+| Título del ending de la T2 ([ED · 0:37][yt-ed2-37]) | palo seco muy grueso y estrecho, **rojo `#AA033D`** | **Anton** o **Bebas Neue** | ✅ · ✅ |
 | Letras coreanas (carteles) | — | **Noto Sans KR** | ✅ |
 | Letras coreanas gruesas | — | ❌ **Black Han Sans no trae tildes ni ñ** | ❌ (comprobado) |
-| «Solo Level» (dafont, de Esa Nugroho) | letra de fan inspirada en el logo | solo uso personal ([dafont][dafont-sololevel], [1001 Fonts][1001]) | sin comprobar |
+| «Solo Level» (dafont, de Esa Nugroho) | letra de fan inspirada en el logo | solo uso personal ([dafont][dafont-sololevel], [1001 Fonts][1001]) | **trae tildes y ñ, pero no ¿ ni ¡** (114 glifos; comprobado con el archivo `SoloLevelDemo.otf`) |
 
-**Cómo se comprobó:** cada `.ttf` se bajó del repositorio oficial de Google Fonts ([Lato][gf-lato], [Nunito][gf-nunito], [Exo 2][gf-exo2], [Oxanium][gf-oxanium], [Cinzel][gf-cinzel], [Varela Round][gf-varela], [Noto Sans KR][gf-notokr], [Black Han Sans][gf-bhs]). Luego se buscaron á é í ó ú ñ ¿ ¡ ü en su tabla de caracteres. Black Han Sans dice «latin» en su ficha, pero **no trae** ninguno de esos signos.
+**Cómo se comprobó:** cada `.ttf` se bajó del repositorio oficial de Google Fonts ([Lato][gf-lato], [Nunito][gf-nunito], [Exo 2][gf-exo2], [Oxanium][gf-oxanium], [Cinzel][gf-cinzel], [Varela Round][gf-varela], [Noto Sans KR][gf-notokr], [Black Han Sans][gf-bhs]). Luego se buscaron á é í ó ú ñ ¿ ¡ ü en su tabla de caracteres. Black Han Sans dice «latin» en su ficha, pero **no trae** ninguno de esos signos. En la segunda pasada repetí la prueba con fontTools para **Metal Mania, Anton, Bebas Neue, Michroma, Josefin Sans, Marcellus, Rajdhani, Oxanium, Exo 2, Nunito, Lato y Cinzel: las 12 traen todo**, y todas son SIL Open Font License.
+
+**Por qué siguen dudosas Eternal, Trueno Round, Circe Rounded y Caros Soft:** son letras comerciales que citan los fans. Ni Aniplex ni Production I.G publican qué letra usa la ventana. Lo que sí vi: las cabeceras son **palo seco geométrico en MAYÚSCULAS espaciadas** (S·3, S·10) y los botones igual (S·6). Nunito Black y Michroma encajan.
 
 **Recomendación:** Nunito Black en MAYÚSCULAS para la cabecera, Lato Regular para el texto y Exo 2 para cifras y rangos.
 
@@ -200,7 +260,12 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
   - «Lo siento, tengo planes.» (a Cha Hae-In, ep. 19 · 07:27, [subs][es19] ✅)
   - «Creo que mi lugar está en las mazmorras.» (ep. 16 · 11:46, [subs][es16] ✅)
 - **Cómo convence:** explica con calma y luego ordena. Su discurso a Igris (ep. 12 · 20:00-20:25, [subs][nf12] ✅): «You are a warrior… Fight for me. Don't guard that empty throne. Protect me, who stand before you. **Arise.**»
-- **Cuerpo** ⚠️ (de memoria): casi no sonríe. Mirada fría, manos en los bolsillos o una daga en cada mano. De novato va encorvado. La KV de la T1 lo muestra agachado y tenso ✅.
+- **Cómo habla en el doblaje latino** (muestras de audio de [Doblaje Wiki][dw], transcritas): de novato, cansado y resignado. «Pero este cuchillo barato es lo único que pude comprar.» «Así es como suelo vivir, un día tras otro.» De rango B ya calcula en frío: «Siempre golpean al clavo que sobresale. Mejor lo olvido.»
+- **Cuerpo (visto en la 2.ª pasada):**
+  - De novato va **encorvado, con la mochila a la espalda y la mano en la nuca** (ep. 1, captura de la wiki [P262][w-p262]). Se tapa la cara con vendas y tiritas ([tráiler · 0:39][yt-trailer-39]).
+  - Cuando piensa, **mano en la barbilla y media sonrisa** delante de su ventana (ep. 5, S·2).
+  - Ya fuerte, **mirada fría con la cara en sombra y los ojos encendidos** en azul ([clip ep. 6 · 0:21][yt-clip6-21]) o en violeta en la T2 ([captura oficial del ep. 19][w-e593]). **Casi no sonríe**; cuando lo hace es de lado (CV de la T2, P·3).
+  - En la T2 **ofrece la mano abierta hacia cámara** (P·3) o camina **con una mano en el bolsillo y la daga en la otra** (P·2).
 - **Voz latina:** Fernando Moctezuma ✅ ([§12](#12--doblaje-latino)).
 
 ### 6.2 Igris (el caballero, la sombra más querida)
@@ -208,14 +273,19 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
 - **Cómo se une:** Jinwoo falla dos extracciones y le convence al tercer intento (ep. 12 · 19:08, 19:32 y 20:25, [subs][nf12] ✅, [AniList][anilist] ✅).
 - **Carácter:** leal, gran espadachín, **se arrodilla ante su amo tras cada batalla**. Le molesta la torpeza de Iron. En la novela discute con Bellion sobre la escuela de Suho ([Wikipedia][wp-txt] ✅).
 - **Cómo se expresa:** no habla. Postura, espada y reverencia. Sube de rango en la T2: «Igrit y Tank ascendieron al subir de nivel» (ep. 20 · 09:01, [subs][es20] ✅). El cartel vietnamita dice «Caballero de élite» ([subs VI][vi20] ✅).
+- **Cómo es (visto):** como jefe, **armadura roja sangre con un penacho rojo muy largo** y espada larga de filo dorado, en un salón de columnas violeta con alfombra roja ([clip del ep. 11 · 0:03-0:19][yt-papu-3]). Como sombra, **armadura negra con líneas cian** (`#5DE3EC`, brillo `#AEFDFF`), capa rota y el mismo penacho rojo (P·11, P·20). En el anime la **cicatriz está en el ojo derecho** ([wiki][wiki-igris] ✅).
+- **Su nombre:** en japonés es **Igrit** (イグリット), y así lo rotula su visual oficial (P·11). Los subtítulos latinos dicen «Igris» (ep. 13 · 20:00) y una vez «Igrit» (ep. 20 · 09:01). En la lámina, «Igris».
+- **El chiste de los fans:** Igris siempre le trae a Jinwoo **las cabezas de sus presas** y le molesta que Iron lo copie ([wiki][wiki-igris] ✅, [Wikipedia][wp-txt] ✅). En la novela defiende que Suho **estudie en la escuela** en vez de pelear.
 - **Uso en la guía:** el **staff**. Guarda, sirve y no discute.
 
 ### 6.3 Beru (el Rey Hormiga)
 - **Quién es:** la sombra del **Rey Hormiga** de la isla de Jeju. Fue el jefe final de la incursión y dejó fuera de combate a Cha Hae-In ([Wikipedia][wp-txt], [namu.wiki][namu-beru] ✅).
 - **Cuándo sale:** recibe su nombre en el ep. 25 · 09:56-09:59: «Beru. … Tu nombre es Beru.» El cartel dice «General · Nv. 1» ([subs VI][vi25] ✅).
-- **Carácter:** lealtad exagerada, casi cómica, con Jinwoo ([Wikipedia][wp-txt], [DualShockers][dualshockers] ⚠️). En la novela adora a Suho, el hijo de Jinwoo ([Wikipedia][wp-txt] ✅).
-- **Diseño:** en el anime, A-1 lo mejoró respecto al webtoon ([Sportskeeda][sk-beru] ⚠️).
-- **Voz japonesa:** Akira Ishida ✅ ([Anime Corner][animecorner], [MAL][jkc2]). **Latina:** Daniel Lacy ⚠️ (solo MAL).
+- **Carácter:** lealtad exagerada, casi cómica, con Jinwoo ([Wikipedia][wp-txt], [DualShockers][dualshockers] ✅: las dos lo dicen). En la novela adora a Suho, el hijo de Jinwoo ([Wikipedia][wp-txt] ✅).
+- **Antes de ser sombra** (ep. 24): el Rey Hormiga busca «al rey de los humanos». «¿Eres el rey de los humanos?» (07:58) es el título del capítulo ([subs VI][vi24], traducción mía ✅). A las 19:27 se oye «¡Pero si yo soy el rey!» (⚠️ el subtítulo no dice quién habla; puede ser él o Jinwoo). En el doblaje: «¡Debo vivir! ¡Debo sobrevivir!» ([muestra][dw-beru-trans]).
+- **Cómo habla ya como sombra** (ep. 25 · 09:04-10:47, [subs VI][vi25] + [muestra del doblaje][dw-beru-sombra] ✅): de usted, «mi rey» en cada frase, solemne. Tras recibir el nombre: «Gracias, es un honor.» Ante una orden: «Si es la voluntad de mi rey. Dé la orden.» Jinwoo sólo contesta: «Hazlo.»
+- **Diseño:** en el anime, A-1 lo mejoró respecto al webtoon ([Sportskeeda][sk-beru] ⚠️, una opinión). Como sombra: cuerpo de hormiga negra muy estilizado con **alas de luz azul** (P·16).
+- **Voz japonesa:** Akira Ishida ✅ ([Anime Corner][animecorner], [MAL][jkc2]). **Latina:** **Daniel Lacy** ✅ ([Doblaje Wiki][dw] + [MAL][jkc2]).
 - **Uso en la guía:** «Los talentos», en lámina 2. Es el que presume de su rey.
 
 ### 6.4 Cha Hae-In (la secundaria más querida)
@@ -226,6 +296,10 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
   - «Esa es la sala del jefe. Aléjate.»
   - «Sal cuanto antes.»
   - «Provocar al jefe ahora conllevaría la muerte de todos los mineros.»
+- **Cómo es (visto):** **rubia, melena corta**, ojos grises que brillan en amarillo al pelear. **Uniforme rojo** (`#BC2B47`, sombra `#6D273B`) con blanco (`#F4EFE7`), hombreras doradas y **espada negra de guarda plateada** ([wiki][wiki-cha] ✅, CV oficial P·17 y render P·18 ✅). Pelo medido `#E2D2B4`.
+- **Carácter (wiki):** seria, tranquila y atenta. Patrulla la sala del jefe para que no mueran los mineros. Sigue tomando clases de kendo aunque ya es rango S ([wiki][wiki-cha] ✅).
+- **Cómo habla en el doblaje:** formal, de usted, sin adornos. «Entonces, ¿cómo puedo ayudarle?» «Con permiso.» «Pensé que debería saberlo.» «Le dije que no estaba interesada.» ([muestra de Doblaje Wiki][dw-cha]).
+- **Poses oficiales:** desenvainando con los dos brazos arriba y la mirada de lado (P·17); de pie, espada baja, capa al viento (P·18); de perfil bajo luz azul (P·19, ep. 16).
 - **Relación:** se enamora de Jinwoo. En el webtoon se casan ([Wikipedia][wp-txt] ✅; spoiler, no usar).
 - **Voz latina:** Sofía Huerta, que además dirige el doblaje ✅.
 
@@ -235,59 +309,76 @@ Sale de los carteles de los subtítulos latinos de Crunchyroll, T2 ✅ (archivo 
 - **Voz en la lámina:** sin sujeto, en imperativo o impersonal. Por ejemplo: «Misión aceptada.», «Se ha concedido el rol.», «El incumplimiento conlleva penalización.»
 
 ### 6.6 Secundarios útiles para la guía
-- **Yoo Jinho:** rango D, hijo rico, fiel ayudante de Jinwoo. Siempre con armaduras caras, que es un chiste recurrente ([Wikipedia][wp-txt] ✅). Le llama «**jefe**» y le trata de usted: «¿Qué hará usted, jefe?» (ep. 15 · 03:46, [subs][es15] ✅). Va para «Cómo pedir algo».
-- **Go Gunhee:** presidente de la Asociación de Cazadores, rango S y anciano ([AniList][anilist] ✅). «Soy Go Gunhee, presidente de la Asociación de Cazadores.» (ep. 16 · 09:00, [subs][es16] ✅). Va para «De qué va esto».
-- **Woo Jinchul:** rango A que trabaja para la Asociación ([AniList][anilist] ✅). Que dirige el equipo de **Supervisión** lo sé de memoria ⚠️. Alguien dice: «En Supervisión vigilamos a los Cazadores» (ep. 16 · 08:22, [subs][es16] ✅, ⚠️ no sé si lo dice él). Va para «El staff» y «Normas».
-- **Sung Jinah:** la hermana, que no es cazadora ([Wikipedia][wp-txt] ✅). Es la voz del recién llegado. En el hospital, Jinwoo le pregunta por los videojuegos y la respuesta es «Just open the message box» (ep. 3 · 07:06-07:10, [subs][nf03] ✅; ⚠️ no sé seguro quién dice la última frase).
+- **Yoo Jinho:** rango D, hijo rico, fiel ayudante de Jinwoo. Siempre con armaduras caras, que es un chiste recurrente ([Wikipedia][wp-txt] ✅; «Yoo Jinho shining armor», captura del ep. 5 en la wiki). Le llama «**jefe**» y le trata de usted: «¿Qué hará usted, jefe?» (ep. 15 · 03:46, [subs][es15] ✅). En el doblaje se presenta así (ep. 5 · 09:02, [subs][nf05] ✅): **«Soy Yoo Jinho, 21 años y rango D.»** «No te preocupes, yo voy a mantenerte a salvo.» «Disculpa, es que nunca he sido muy bueno en las cuestiones sociales.» ([muestra][dw-jinho]). Habla mucho y se disculpa. Va para «Cómo pedir algo».
+- **Go Gunhee:** presidente de la Asociación de Cazadores, rango S y anciano ([AniList][anilist] ✅). «Soy Go Gunhee, presidente de la Asociación de Cazadores.» (ep. 16 · 09:00, [subs][es16] ✅). En el doblaje explica como un profesor: «Todos los cazadores vivimos de la venta de los recursos que hay dentro de las mazmorras.» ([muestra][dw-gunhee]). En el opening sale **de brazos cruzados ante una ciudad en ruinas** ([OP · 0:54][yt-op1-54]). Traje negro y corbata (P·22). Va para «De qué va esto».
+- **Woo Jinchul:** rango A. Fue **jefe inspector del equipo de Supervisión** de la Asociación con Go Gunhee, y luego presidente ([wiki][wiki-jinchul] ✅ + la frase «En Supervisión vigilamos a los Cazadores», ep. 16 · 08:22, [subs][es16] ✅). Traje negro, pelo rubio peinado atrás (P·23). En el doblaje, seco y de informe: «El trabajo de un cazador es un trabajo peligroso, pero es raro ver un resultado tan trágico.» ([muestra][dw-jinchul]). Va para «El staff» y «Normas».
+- **Sung Jinah:** la hermana, que no es cazadora ([Wikipedia][wp-txt] ✅). Es la voz del recién llegado. En el hospital (ep. 3 · 07:06-07:12, [subs][nf03] ✅) Jinwoo le pregunta por los videojuegos. **Ella contesta**: «Just open the message box». En el doblaje: **«Sí, es cierto. Lo normal sería abrir la caja de mensajes.»** Antes le riñe: «Oye, necesitas tener más cuidado. ¿Tienes idea de lo preocupada que estaba?» ([muestra][dw-jinah] ✅). Uniforme escolar azul y coleta (P·24).
+- **Song Chiyul:** rango C, el veterano amable del ep. 1. Es **el líder que presenta la incursión**: en el doblaje, «Hola a todos, soy el líder de la incursión del día de hoy… me llamo Song Chiyul. Un gusto conocerlos.» y «¡Entremos!» (ep. 1 · 07:20 y 07:37, [subs][nf01] ✅; [muestra][dw-chiyul]). Luego propone votar (ep. 1 · 12:42). Va perfecto para «Cómo se entra».
 - **Iron, Tank, Colmillo y Kaisel:** sombras con nombre, en el ep. 14 · 13:10, el ep. 15 · 11:32, el ep. 18 · 18:10 y el ep. 20 · 12:57 ([subs][es14], [subs VI][vi20] ✅). Iron copia a Igris y le trae cabezas, para disgusto de Igris ([Wikipedia][wp-txt] ✅). Kaisel es un wyvern (dragón volador) que casi solo sirve de montura ([Wikipedia][wp-txt] ✅).
 
 ---
 
 ## 7 · Poses analizadas
 
-Cada pose lleva capítulo y minuto, o un enlace. «Uso» = presentar, explicar, celebrar, regañar, pensar o animar.
+Cada pose lleva capítulo y minuto, o un enlace. «Uso» = presentar, explicar, celebrar, regañar, pensar o animar. En la segunda pasada **las miré**: en las hojas de la wiki (P·, S·, F·) y en los *storyboards* de los clips oficiales (§14). Los minutos «ep. N · mm:ss» son del capítulo; los de «clip · m:ss» son del vídeo de YouTube enlazado.
 
 ### Jinwoo
 1. **KV T1, arriba** ([imagen][kv1], 948×1280 ✅ medida): de pie sobre ruinas, una pierna flexionada en alto, un brazo extendido con una daga roja, abrigo claro abierto al viento. Mirada al frente, por encima del hombro. → **presentar** (el cazador ya fuerte).
 2. **KV T1, abajo** ([imagen][kv1] ✅): sentado entre monstruos muertos, sudadera azul, cuchillo en una mano y la otra sobre la rodilla, mirada hacia arriba, tenso. → **pensar** (el novato; hilo «Cómo se entra»).
 3. **KV T2** ([imagen][kv2], 1308×1848 ✅): perfil mirando hacia arriba, cuello estirado, ojos violeta, borde de luz roja, abrigo negro. El ejército de sombras sale de su espalda. → **presentar** o **celebrar** (portada de la guía).
-4. **ep. 3 · 07:34-08:07** ([subs][nf03] ✅): en la cama del hospital lee la primera ventana del Sistema. ⚠️ La postura exacta no la vi. → **pensar** / **explicar** («Lo que hay que leer»).
-5. **ep. 6 · 02:47** «The real hunt begins now.» ([subs][nf06] ✅) → **animar** (el cambio de actitud). Minuto de la postura sin verificar.
-6. **ep. 12 · 17:39** primer «Arise» ([subs][nf12] ✅). ⚠️ De memoria: mano extendida hacia abajo y las sombras suben del suelo. → **celebrar**.
-7. **ep. 12 · 20:00-20:25** discurso a Igris ([subs][nf12] ✅): de pie frente al trono vacío, habla de frente. → **explicar** o **regañar** con calma.
-8. **ep. 16 · 03:47** reevaluación en la Asociación: «Ponga la mano sobre ese cristal negro.» El medidor no puede calcular su poder (04:27-04:35) ([subs][es16] ✅). → **explicar** («De dónde sale un rol»).
-9. **ep. 19 · 06:48-07:00** «Aquí tienes tu nueva licencia.» «Ahora eres oficialmente un cazador de rango S.» ([subs][es19] ✅) → **celebrar** («Los roles que se ganan»).
-10. **ep. 22 · 20:29** «Misión diaria completada.» ([subs][es22] ✅) → **animar** (el ritual diario, un guiño para los fans).
+4. **ep. 3 · 07:34-08:07** ([subs][nf03] ✅; visto en S·1 y en el [tráiler · 1:10][yt-trailer-70]): **sentado en la cama del hospital, con bata azul clara, mirando de frente la ventana «NOTIFICATION»** que flota entre él y la cámara; una mano levantada hacia ella. → **pensar** / **explicar** («Lo que hay que leer»).
+5. **ep. 5, captura de la wiki (S·2)**: **de pie, de perfil, camiseta blanca, dos dedos en la barbilla y media sonrisa** frente a su ventana de estado. → **pensar** / **explicar**. Es la mejor pose para una ventana grande al lado.
+6. **ep. 6 · 02:47** «The real hunt begins now.» ([subs][nf06] ✅). En el clip oficial: **de pie en la cueva de cristal azul, sudadera cian abierta, daga en la mano baja, cara en sombra y ojos brillando** ([clip · 0:21-0:27][yt-clip6-21]). → **animar** / **advertir**.
+7. **ep. 12 · 17:39** primer «Arise» ([subs][nf12] ✅). ⚠️ El gesto exacto de la mano no lo vi: la wiki sólo tiene la captura de la extracción de Igris ([índice P 250, «Jinwoo extracts Igris shadow»][w-p250]: agachado, mano hacia el suelo). → **celebrar**.
+8. **ep. 12 · 20:00-20:25** discurso a Igris ([subs][nf12] ✅): de pie frente al trono vacío, habla de frente. Tras vencer: **de pie, sudadera gris, daga baja, Igris derrotado detrás** ([clip ep. 11 · 1:29-1:31][yt-papu-89]). → **explicar** o **regañar** con calma.
+9. **ep. 12, tienda (S·7):** **sujeta la ventana como una tableta** con una mano, inclinada, a contraluz de un atardecer naranja. → **explicar** («Los roles que te pones tú»).
+10. **ep. 16 · 03:47** reevaluación en la Asociación: «Ponga la mano sobre ese cristal negro.» El medidor no puede calcular su poder (04:27-04:35) ([subs][es16] ✅). Oficina con funcionarios de traje (S·15-16). → **explicar** («De dónde sale un rol»).
+11. **ep. 19 · 06:48-07:00** «Aquí tienes tu nueva licencia.» «Ahora eres oficialmente un cazador de rango S.» ([subs][es19] ✅) → **celebrar** («Los roles que se ganan»).
+12. **ep. 22 · 20:29** «Misión diaria completada.» ([subs][es22] ✅) → **animar** (el ritual diario, un guiño para los fans).
+13. **CV de la T2 (P·3):** **brazo estirado hacia cámara, mano abierta**, media sonrisa, abrigo azul noche con capucha. → **presentar** / **invitar** («Cómo se entra», «La guía, de un vistazo»).
+14. **Cuenta atrás de la T2 (P·7, P·8, P·9):** de pie, relajado, **con su sombra detrás** (Igris o Tank) enorme. → **presentar al equipo** («El staff», «Los talentos»).
 
 ### Igris
-1. **ep. 11 · 10:18-10:31** presentación en el salón del trono vacío ([subs][nf11] ✅). → **presentar**.
-2. **ep. 12 · 20:25** acepta a Jinwoo. Se arrodilla ([Wikipedia][wp-txt] ✅ que es su gesto; ⚠️ el minuto exacto del gesto). → **presentar al staff**.
+1. **ep. 11 · 10:18-10:31** presentación en el salón del trono vacío ([subs][nf11] ✅). En el clip: **de pie ante el trono, espada vertical, penacho rojo cayendo** ([clip · 0:03-0:11][yt-papu-3]). → **presentar**.
+2. **ep. 12 · 20:25** acepta a Jinwoo y se arrodilla ([Wikipedia][wp-txt] y [wiki][wiki-igris] ✅ que es su gesto). ⚠️ El minuto exacto del gesto no sale en los subtítulos (no hay diálogo); búscalo entre 20:25 y 20:45.
 3. **KV T2** ([imagen][kv2] ✅): caballero negro de contorno cian, casco con penacho y espadón en vertical. → **guardar** («El staff»).
-4. **ep. 13 · 20:00** invocado por su nombre: «Igris.» ([subs][es13] ✅). → **animar** o **actuar**.
-5. **ep. 20 · 09:01** asciende de rango ([subs][es20] ✅). → **celebrar** («Los roles que se ganan»).
-6. **ep. 20 · 15:28** «¡Tusk! ¡Igris!» en combate ([subs VI][vi20] ✅). → acción.
-7. **Modelo 3D «Igris Solo Leveling»**, de missafe, CC BY 4.0 ([§11](#11--modelos-3d-y-fan-art-solo-referencia)) → para posar en Blender.
+4. **CV «IGRIT» (P·11):** de frente, hombros anchos, **líneas cian por la armadura negra** sobre fondo rojo. → **presentar** (ficha del staff).
+5. **ep. 14, en la nieve (P·20):** **de pie detrás de Jinwoo, como un guardaespaldas**, capa y penacho al viento. → **acompañar**, «El staff».
+6. **ep. 13 · 20:00** invocado por su nombre: «Igris.» ([subs][es13] ✅). → **animar** o **actuar**.
+7. **ep. 20 · 09:01** asciende de rango ([subs][es20] ✅). → **celebrar** («Los roles que se ganan»).
+8. **ep. 20 · 15:28** «¡Colmillo! ¡Igrit!» en combate ([subs latinos][es20] ✅). → acción.
+9. **Modelos 3D CC BY** para posarlo en Blender: [Igris de missafe][sk-igris] y el [salón de Igris de Jp André][sk-igrishall] (§11).
 
 ### Beru
-1. **ep. 25 · 09:56** recibe su nombre ([subs VI][vi25] ✅). → **presentar**.
-2. **Tráiler de Jeju** ([ANN][ann-jeju] ✅). Minuto sin verificar.
-3. **Pelea contra Jinwoo** al final de la T2 ([IMDb][imdb-ep12] ✅). Minuto sin verificar: no encontré los subtítulos de ese capítulo.
-4. ⚠️ No reuní 6 fotogramas con minuto para Beru. Falta el ep. 24.
+1. **ep. 24 · 07:18-07:59** el Rey Hormiga busca «al rey de los humanos» ([subs VI][vi24] ✅). En el clip oficial: **cuerpo de insecto negro de ojos rojos, alas plegadas, en una cueva oscura** ([clip · 2:37][yt-ant-157]). → **amenazar**.
+2. **ep. 24, la pelea** ([clip de 9:41, «Sung Jinwoo vs El rey hormiga»][yt-ant]; [noticia de IMDb][imdb-ep12]): el puño de Jinwoo contra el caparazón ([clip · 1:38][yt-ant-98]), Jinwoo con los ojos encendidos entre llamas ([clip · 8:12-8:32][yt-ant-492]). → acción.
+3. **ep. 25 · 09:04-09:50** **arrodillado**, pide un nombre ([subs VI][vi25] ✅ + [doblaje][dw-beru-sombra]). → **presentar** / **servir**.
+4. **ep. 25 · 09:56** recibe su nombre; cartel «General · Nv. 1» ([subs VI][vi25] ✅). → **celebrar**.
+5. **ep. 25 · 10:42** «Si es la voluntad de mi rey. Dé la orden.» ([subs VI][vi25] ✅). → **esperar órdenes** («Cómo pedir algo», lámina 2).
+6. **Captura de la wiki (P·16):** Beru de sombra con **alas de luz azul abiertas**, de frente. → **presentar** en «Los talentos».
 
 ### Cha Hae-In
 1. **ep. 1 · 15:00** primera aparición como rango S, entre gritos de fans ([subs][nf01] ✅). → **presentar**.
-2. **ep. 16 · 18:42-18:59** sale de la mazmorra: «la segunda al mando… Cha Hae-in, la Bailarina» ([subs][es16] ✅). → **presentar**.
+2. **ep. 16 · 18:42-18:59** sale de la mazmorra: «la segunda al mando… Cha Hae-in, la Bailarina» ([subs][es16] ✅). Captura oficial: **perfil a contraluz azul, pelo al viento** (P·19). → **presentar**.
 3. **ep. 17 · 02:01-02:24** avisa a Jinwoo: «Aléjate» ([subs][es17] ✅). → **regañar** o **advertir**.
 4. **ep. 17 · 21:11-21:26** pregunta por Jinwoo en su día libre ([subs][es17] ✅). → **pensar** o preocuparse.
 5. **ep. 18 · 00:58** «¿De verdad entrará desarmada?» ([subs][es18] ✅). → **animar** o **actuar**.
 6. **ep. 22 · 05:44** combate amistoso entre rangos S ([subs][es22] ✅). → acción.
+7. **CV de la T2 (P·17):** **desenvainando por encima del hombro**, mirada de lado, labios apretados. → **advertir** / **actuar**.
+8. **Render de cazadora (P·18):** de pie, piernas en paso, espada baja en la derecha. → **presentar** (recorte limpio sobre verde).
 
-### Ojo
-Las posturas de manos y mirada de los minutos marcados con ⚠️ hay que **mirarlas en el fotograma** antes de recortar. Sin YouTube ni Crunchyroll no pude ver los vídeos.
+### Resumen: qué pose para qué
+| Uso | La mejor | Dónde |
+|---|---|---|
+| Presentar | Jinwoo con la mano abierta hacia cámara | P·3 |
+| Explicar | Jinwoo con la ventana como tableta | S·7 |
+| Pensar | Jinwoo con dos dedos en la barbilla junto a su ventana | S·2 |
+| Advertir / regañar | Cha Hae-In desenvainando | P·17 |
+| Celebrar | Beru arrodillado recibiendo su nombre | ep. 25 · 09:56 |
+| Guardar / staff | Igris de pie detrás de Jinwoo | P·20 |
+| Animar | Jinwoo novato con la daga cruzada | P·1 |
 
----
-
-## 8 · Vestuario y paleta (hex medidos en las KV oficiales, ±5 por canal)
+## 8 · Vestuario y paleta (hex medidos en arte oficial y capturas, ±5 por canal)
 
 | Qué | Colores | Fuente |
 |---|---|---|
@@ -300,12 +391,21 @@ Las posturas de manos y mirada de los minutos marcados con ⚠️ hay que **mira
 | Fondo KV T2 | blanco lavanda `#F2EEEB`, violeta `#6A5B8F` | [KV T2][kv2] ✅ |
 | Ruinas y cielo T1 | piedra `#626B72` / `#343C48`, noche `#0C1721`, cielo `#68A8C5` / `#295171` | [KV T1][kv1] ✅ |
 | Ventana del Sistema | `#211B32` · marco Monarca `#9229F9` / `#ED77F3` | guía del repo ✅ |
+| Ventana del Sistema T1 (2.ª pasada) | fondo `#112A39`, esquinas `#82F3FA`, barra de luz `#D4EDFF`, texto `#E7F5FA`, amenaza `#9F205C` | capturas S·3, S·10 y [clip ep. 6][yt-clip6-7] ✅ |
+| Jinwoo T2 (render y CV) | abrigo con capucha azul noche `#2C2F4F` / `#303354`, sombra `#1D1E33`, camiseta blanca `#F5F2EA`, pantalón negro azulado | P·2, P·3 ✅ |
+| Cha Hae-In | uniforme rojo `#BC2B47` (CV `#CC2D4B`), sombra `#6D273B`, blanco `#F4EFE7`, pelo rubio `#E2D2B4`, dorados en hombros | P·17, P·18 ✅ |
+| Igris sombra (CV) | negro `#010004`, líneas cian `#5DE3EC` → brillo `#AEFDFF`, fondo rojo `#620001` | P·11 ✅ |
+| Igris jefe (ep. 11) | armadura roja sangre, salón `#242234` con alfombra `#6A232B` | [clip · 0:11][yt-papu-11] ✅ |
 
-**Ropa icónica:**
-- Jinwoo novato: **sudadera con capucha y vaqueros**.
-- Jinwoo fuerte: **abrigo largo** (claro en la T1, negro en la T2) y **dagas**.
-- Igris: armadura con **penacho**. Rojo sangre como jefe («Bloodred») ⚠️ de memoria. Negro con contorno cian como sombra ✅ KV T2.
-- Cha Hae-In: armadura clara y espada ⚠️ de memoria, sin fuente. Mirar una captura.
+**Ropa icónica (vista en la 2.ª pasada):**
+- Jinwoo novato (T1): **sudadera con capucha** (gris en el cartel semanal P·1; azul con cuello naranja en la KV; cian en la cueva del ep. 6), **pantalón negro, zapatillas** y **tiritas en la cara** ([tráiler · 0:39][yt-trailer-39]). A veces **mochila verde** (ep. 1).
+- Jinwoo fuerte (T1, ep. 7-12): **chaqueta abierta, camiseta** y la **daga de Kasaka**, la del veneno.
+- Jinwoo T2: **abrigo largo azul noche con capucha**, camiseta blanca, pantalón negro (P·2, P·3). En la nieve, **chaqueta marrón con cuello de borrego** (P·20).
+- Jinwoo en el ending de la T2: **túnica blanca** en un palacio de mármol ([ED · 0:05-0:58][yt-ed2-5]). Sólo para ambientes, no es su ropa de diario.
+- Igris: armadura con **penacho rojo**. **Roja sangre como jefe** ✅ (visto en el [clip del ep. 11][yt-papu-3]). **Negra con líneas cian** como sombra ✅ (KV T2, P·11).
+- Cha Hae-In: **uniforme rojo y blanco con hombreras doradas** y espada ✅ (wiki, P·17-18).
+- Go Gunhee y Woo Jinchul: **traje negro, camisa blanca, corbata negra** (P·22-23). Es el «uniforme» de la Asociación.
+- Jinah: uniforme escolar **azul con lazo rojo** (P·24).
 
 ---
 
@@ -313,28 +413,129 @@ Las posturas de manos y mirada de los minutos marcados con ⚠️ hay que **mira
 
 | Sitio | Luz y hora | Paleta | Hilo que le va |
 |---|---|---|---|
-| **Portal en la calle** (Seúl) | noche, vórtice azul que ilumina el asfalto mojado ⚠️ | `#0C1721` · `#68A8C5` | Cómo se entra |
-| **Asociación de Cazadores** (sede en Guro, Seúl, [wiki][wiki-kha] ✅) | oficina fría, fluorescentes, cristal negro medidor (ep. 16 · 03:47 ✅) | grises y azul | De qué va esto · De dónde sale un rol · El staff |
-| **Hospital** (ep. 3) | la ventana azul del Sistema junto a la cama; luz ⚠️ sin mirar | blanco y azul | Lo que hay que leer |
-| **Mazmorra doble / templo de Cartenon** (ep. 1-2) | penumbra, estatuas, mandamientos grabados («First, worship the God», ep. 2 · 01:13 ✅) | piedra `#626B72`, antorchas | Normas (lámina 2) |
-| **Salón del trono vacío** (ep. 11-12) | salón alto de columnas, trono al fondo ⚠️ de memoria | penumbra y rojo | Los roles que se ganan · El staff |
-| **Tienda e inventario del Sistema** (ep. 12 · 06:18 «Store.» ✅) | sin sitio físico: ventana sobre la habitación de Jinwoo | violeta | Los roles que te pones tú |
+| **Portal en la calle** (Seúl) | noche; el vórtice azul blanco ilumina a contraluz a los cazadores, que se ven como siluetas ✅ (F·5, F·6). Delante, **cinta amarilla y vallas metálicas de la Asociación** (F·5, F·7). En el ep. 1, **el portal va dentro de una valla de obra roja** con cazadores esperando (F·20) | `#0C1721` · `#56A3D2` · centro `#EFF5FB` (medido en F·6) | Cómo se entra |
+| **Portal rojo** (ep. 13) | vórtice rojo con rayos magenta; siluetas negras delante de una barandilla (F·9) | rojo `#CF5678`, magenta | Normas (lámina 2) · lo prohibido |
+| **Asociación de Cazadores** (sede en Guro, Seúl, [wiki][wiki-kha] ✅) | oficina con fluorescentes, madera y moqueta; funcionarios de traje con papeles (S·15-16). Cristal negro medidor (ep. 16 · 03:47 ✅). Un despacho con sofás de cuero al atardecer (F·12; es el del Gremio de Cazadores, ep. 8) | `#E1D1C4` (pared) · `#452718` (madera) · `#191517` (traje) | De qué va esto · De dónde sale un rol · El staff |
+| **Rascacielos al atardecer** (ep. 8, F·13) | edificio de oficinas, luz rosa y crema | `#EDD8B8` · `#9F7674` · sombra `#4B3435` | La guía, de un vistazo |
+| **Hospital** (ep. 3, F·14) | **habitación de día, blanca y luminosa**, cama con barandilla, luz de ventana. La ventana del Sistema se ve casi transparente (S·1) ✅ | `#E6E6E1` · `#D3CFC3` · pelo y sombras `#464555` | Lo que hay que leer |
+| **Mazmorra doble / templo de Cartenon** (ep. 1-2) | **sala circular azul con un anillo de luces**, niebla a ras del suelo y la **estatua del Dios sonriendo** (F·1, F·2; [clip · 0:03-0:07][yt-templo-3]). Mandamientos grabados («First, worship the God», ep. 2 · 01:13 ✅) | azul `#3F5484` / `#1A2B57`, estatua `#375AAB`, negro `#05101E` | Normas (lámina 2) |
+| **Salón del trono vacío** (ep. 11-12) | **columnas violeta oscuro, arcos góticos, lámparas doradas, alfombra roja**, trono con adorno dorado al fondo ✅ ([clip · 0:01-0:21][yt-papu-1]) | `#1E121B` · `#2C151D` · alfombra `#6A232B` · velas doradas | Los roles que se ganan · El staff |
+| **Mazmorra del cambio de clase** (ep. 11, F·3) | **pasillo infinito de columnas con antorchas**, bóveda de arcos | `#212134` · `#0E121E` y fuego naranja | Lo que hay que leer · Dónde se trabaja |
+| **Cueva de cristales azules** (ep. 6) | cristales cian que brillan solos; es la luz del Sistema hecha sitio ([clip · 0:25-1:10][yt-clip6-25]) | `#2B9DD9` · `#57D9F3` · `#112D50` | Si te atascas |
+| **Zona de Penalización** (ep. 3, F·4) | desierto rojo y naranja bajo un cielo de fuego | rojos y ocres | Normas (lo que pasa si no cumples) |
+| **Castillo del Demonio** (ep. 7, F·15) | fuego y cadenas | naranja, negro | — |
+| **Tienda e inventario del Sistema** (ep. 12 · 06:18 «Store.» ✅) | sin sitio físico: Jinwoo la sujeta al atardecer (S·7) | violeta / naranja | Los roles que te pones tú |
 | **Vestíbulo con cartel de reclutamiento** (ep. 16 · 15:46 ✅) | cartel oficial: «Buscamos mineros para entrar al portal de rango A de la Asociación de Cazadores» | azul institucional | Cómo pedir algo · Reuniones y eventos |
-| **Isla de Jeju** (T2, cuarta incursión, ep. 22 ✅) | mar y costa (subtítulos ✅); nido de hormigas ⚠️ de memoria | ⚠️ sin medir | Reuniones y eventos · Lo que pasa en vivo |
+| **Isla de Jeju** (T2, cuarta incursión, ep. 22-25 ✅) | **isla verde vista desde el aire en un mar azul** («3 YEARS AGO», F·10); dentro, **cuevas oscuras de tierra** donde vive el Rey Hormiga ([clip · 0:19-2:57][yt-ant-19]) | mar `#226A9E` · `#3799C6` · profundo `#091E33`; cueva marrón negra | Reuniones y eventos · Lo que pasa en vivo |
 | **Cámara de prensa de la incursión** (ep. 22 · 16:54 «Como cámara de prensa de los Cazadores» ✅) | transmisión en directo | pantallas | Lo que pasa en vivo |
+| **Palacio blanco del ending T2** ([ED · 0:47-0:54][yt-ed2-47]) | mármol blanco, columnas clásicas, luz de ventanal; ejército de sombras en fila; trono vacío tras una reja | `#545E5F` · `#939891` · `#DDDED5` · rojo `#AA033D` | La guía, de un vistazo (alternativa elegante) |
 
 **Un dato de oro:** en Seúl hay una **exposición oficial** montada como el **«Centro de Entrenamiento de la Asociación de Cazadores de Corea»**. El visitante entra como **cazador de rango E novato** y empieza en la **oficina de registro** ([Trip-cut][expo1], [Trip.com][expo2] ✅). Es justo la idea de #guia: el recién llegado se registra.
 
-**Texturas reales equivalentes** (buscarlas en bancos CC0 como Poly Haven o ambientCG; no puse enlaces concretos porque no pude abrirlos):
-- granito húmedo y piedra tallada (el templo);
-- metal pavonado negro (armadura de sombra);
-- cristal ahumado y acrílico con canto iluminado (el medidor y la mampara);
-- corcho y papel impreso (el tablón);
-- asfalto mojado de noche (el portal).
+**Texturas reales equivalentes** (CC0, comprobadas en la 2.ª pasada con las API de [Poly Haven][ph-api] y [ambientCG][acg-api]):
+- piedra tallada del templo: [Granite Wall](https://polyhaven.com/a/granite_wall), [Castle Wall Slates](https://polyhaven.com/a/castle_wall_slates), [Stone Tiles](https://polyhaven.com/a/stone_tiles);
+- metal pavonado negro (armadura de sombra): [Metal 046 A](https://ambientcg.com/a/Metal046A), [Metal Plate](https://polyhaven.com/a/metal_plate);
+- corcho del tablón: [Cork 004](https://ambientcg.com/a/Cork004), [Cork 002](https://ambientcg.com/a/Cork002);
+- asfalto de la calle del portal: [Asphalt 025 C](https://ambientcg.com/a/Asphalt025C), [Asphalt 02](https://polyhaven.com/a/asphalt_02);
+- suelo de mármol del palacio o la Asociación: [Tiles 074](https://ambientcg.com/a/Tiles074), [Marble 01](https://polyhaven.com/a/marble_01);
+- Ojo, cristal ahumado: ambientCG no dio resultado para «Glass frosted»; se hace con el material de vidrio de Blender (rugosidad 0,3 y tinte gris).
 
 ---
 
 ## 10 · Arte oficial y fondos de pantalla
+
+### 10.0 Las hojas de contacto (lo que vi en la wiki) ✅
+
+Corrí `investigar_serie.py` tres veces sobre `solo-leveling.fandom.com`:
+- `herramientas/referencias/solo-leveling/`: 14 páginas de personajes y sombras, **673 imágenes, 15 hojas**.
+- `herramientas/referencias/solo-leveling-objetos/`: 19 páginas de sitios, objetos y temporadas, **305 imágenes, 7 hojas**.
+- `herramientas/referencias/solo-leveling-episodios/`: los 25 episodios y sus galerías, **635 imágenes, 14 hojas**.
+
+**Las miré.** Mucho no sirve: unas 150 son **storyboards y genga** del ep. 6, 7 y 11 (dibujo a lápiz, «©SLANM»), y unas 250 son **viñetas del webtoon** (otro estilo, no el del anime). Por eso monté **3 hojas propias** con Pillow, con lo mejor de las tres tandas. En cada celda va el tamaño real y el código del índice de origen (P = personajes, O = objetos, E = episodios).
+
+**`hojas/personajes_01.jpg`** (P·): arte oficial y renders
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Jinwoo T1 novato, daga (cartel semanal) | 1440×2460 | Jinwoo novato, **daga cruzada**: animar, «Cómo se entra» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/6a/Sung_Jinwoo_Anime_Season_1_Cour_1_Design.webp) |
+| 2 | Jinwoo T2 render, abrigo y daga | 727×1179 | Jinwoo T2 de cuerpo entero, **mano en el bolsillo y daga**: recorte limpio | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/cc/Sung_Jinwoo_Anime.png) |
+| 3 | Jinwoo T2 CV: mano abierta | 900×1200 | **Mano abierta hacia cámara**: presentar, invitar | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/ba/Sung_Jinwoo_Anime_S2_CV.jpeg) |
+| 4 | Jinwoo T2 ilustración neón | 2304×4096 | Estilo neón de la T2 (sólo referencia) | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/2/23/Season_2_anime_Sung_Jinwoo_illustration.jpg) |
+| 5 | ReAwakening KV 2 | 2434×3440 | Portada de la película: Jinwoo y sombras en diagonal | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/8/8d/Solo_Leveling_ReAwakening_Key_Visual_2.jpeg) |
+| 6 | ReAwakening portada | 2000×3000 | Perfil mirando arriba con abrigo rojo: portada de la guía | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/7/70/Solo_Leveling_ReAwakening_Cover_Visual.jpeg) |
+| 7 | Cuenta atrás 1 día: Jinwoo e Igris | 2000×2248 | **Jinwoo con Igris detrás**: «El staff» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/fa/Season_2_Countdown_1_Day.jpeg) |
+| 8 | Cuenta atrás 2 días: abrigo de piel | 2000×2248 | Jinwoo con abrigo de piel e Igris gigante detrás | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/a/a5/Season_2_Countdown_2_Days.jpeg) |
+| 9 | Cuenta atrás 3 días: Jinwoo y Tank | 2000×2246 | **Jinwoo sonriente con Tank**: «Los talentos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/c4/Season_2_Countdown_3_Days.jpeg) |
+| 10 | Cuenta atrás «hoy»: Jinwoo firma | 2000×2248 | Jinwoo firma el cartel: celebrar | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/5/54/Season_2_Countdown_Anime_Airs_Today.jpeg) |
+| 11 | Igris CV («IGRIT») | 707×999 | Igris de frente, líneas cian: ficha del staff | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/7/73/Igris_CV.jpg) |
+| 12 | Igris sombra, ojos (ep. 12) | 2415×1354 | Los ojos de Igris al despertar: detalle para un fondo | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Anime_Episode_12_Igris_shadow_soldier.jpg) |
+| 13 | Kaisel CV | 1460×2064 | Kaisel: «Tus zonas» (volar de una a otra) | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/a/a5/Kaisel_CV.jpg) |
+| 14 | Tank CV | 1460×2064 | Tank: «Los talentos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/8/8f/Tank_CV.jpg) |
+| 15 | Colmillo (Kiba) CV | 1076×1521 | Colmillo (Kiba): «Los talentos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/5/55/Tusk_CV.jpg) |
+| 16 | Beru (ep. 25) | 1920×1080 | Beru con alas de luz: «Los talentos», lámina 2 | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/fe/Beru_Anime1.png) |
+| 17 | Cha Hae-In CV T2, desenvaina | 900×1200 | **Cha Hae-In desenvainando**: advertir, «Normas», «Reuniones y eventos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/8/8b/Cha_Hae-in_Anime_S2_CV.jpeg) |
+| 18 | Cha Hae-In render cazadora | 816×1073 | Cha Hae-In de cuerpo entero sobre verde: recorte | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/9/97/Cha_Hae-In_%28Hunter%29_Anime_Alt.png) |
+| 19 | Cha Hae-In ep. 16 | 1200×675 | Cha Hae-In de perfil, luz azul: presentar | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/8/84/Solo_Leveling_Anime_Episode_16_Img_1.jpg) |
+| 20 | Jinwoo e Igris en la nieve (ep. 14) | 1200×675 | **Igris como guardaespaldas** en la nieve: «El staff» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/c0/Solo_Leveling_Anime_Episode_14_Img_3.jpg) |
+| 21 | Yoo Jinho (ep. 19) | 1200×675 | Jinho con su mochila, alegre: «Cómo pedir algo» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/62/Solo_Leveling_Anime_Episode_19_Img_5.jpg) |
+| 22 | Go Gunhee render | 494×1526 | Go Gunhee de cuerpo entero: «De qué va esto» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/6f/Go_Gunhee_Anime.png) |
+| 23 | Woo Jinchul render | 425×1510 | Woo Jinchul de cuerpo entero: «El staff», «Normas» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/ca/Woo_Jinchul_Anime.png) |
+| 24 | Sung Jinah render | 470×1460 | Jinah saludando: la recién llegada | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/2/21/Sung_Jinah_Anime.png) |
+
+**`hojas/sistema_01.jpg`** (S·): la ventana del Sistema y los objetos
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | NOTIFICATION en el hospital (ep. 3) | 1196×649 | **La primera ventana**: «Lo que hay que leer» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/b3/Anime_Episode_3_Jinwoo_receives_a_quest_from_the_System.png) |
+| 2 | STATUS: mano en la barbilla (ep. 5) | 1366×768 | **Jinwoo pensando junto a su ventana**: explicar | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/6b/Anime_Episode_5_Jinwoo_increasing_his_stats.png) |
+| 3 | QUEST INFO: WARNING en rojo (ep. 6) | 1366×768 | Ventana de misión con la palabra roja: «Normas» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/d/d3/SoloLeveling_Anime_Episode_6_Picture_22.png) |
+| 4 | [Debuff] Parálisis (ep. 6) | 1366×768 | Barras de estado negativo: lámina 2 de normas | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/fa/SoloLeveling_Anime_Episode_6_Picture_38.png) |
+| 5 | FORMULA: Elixir of Life (ep. 7) | 1366×768 | Ventana con icono en recuadro: plantilla | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/f3/Anime_Episode_7_Screenshot_70.png) |
+| 6 | ¿Comprar? [Knight Killer] (ep. 12) | 1366×768 | **Botones CANCEL · BUY**: «Los roles que te pones tú» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/7/77/Anime_Episode_12_Jinwoo_buys_Knight_Killer.png) |
+| 7 | Tienda como tableta (ep. 12) | 1366×768 | **La ventana sujeta como tableta**: el objeto real | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/bd/Anime_Episode_12_Jinwoo_uses_shop_in_system.png) |
+| 8 | Temporizador sobre Jinwoo (ep. 12) | 1366×768 | Temporizador sobre la cabeza: «Reuniones y eventos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/a/a5/Anime_Episode_12_Jinwoo_finished_job_change_quest.png) |
+| 9 | Móvil: aviso de la Asociación (ep. 8) | 1920×1080 | **El móvil con el aviso de la Asociación**: «Cómo pedir algo» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/fa/Anime_Episode_8_picture_25.png) |
+| 10 | Aviso misión de cambio de clase (ep. 10) | 1366×768 | **La mejor plantilla**: panel, cabecera, «!» y esquinas | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/b4/Anime_Episode_10_notification_for_job_change_quest.png) |
+| 11 | Ventana en el parque (ep. 7) | 1366×768 | Ventana a pleno sol: cómo se ve de día | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/bd/Anime_Episode_7_Screenshot_35.png) |
+| 12 | «Another key?» llave roja (ep. 7) | 1366×768 | Llave roja en la mano: objeto de recompensa | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/1/1f/Anime_Episode_7_Screenshot_38.png) |
+| 13 | Barra del Sistema en la cueva (ep. 6) | 1366×768 | Barra del Sistema a la altura del pecho | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/f8/SoloLeveling_Anime_Episode_6_Picture_10.png) |
+| 14 | El Sistema reflejado en el ojo (ep. 7) | 1366×768 | El Sistema en el ojo: detalle | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/5/55/Anime_Episode_7_Screenshot_43.png) |
+| 15 | Oficina de la Asociación (ep. 16) | 1200×675 | **Funcionario de la Asociación con papeles**: «El staff» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/ce/Solo_Leveling_Anime_Episode_16_Img_5.jpg) |
+| 16 | Asociación: reevaluación (ep. 16) | 1200×675 | Oficina de reevaluación: «De dónde sale un rol» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/9/98/Solo_Leveling_Anime_Episode_16_Img_4.jpg) |
+
+**`hojas/fondos_01.jpg`** (F·): sitios y fondos
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Estatua del Dios, templo (ep. 1) 4K | 3840×2160 | **Estatua del Dios**: lámina 2 de «Normas» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/cb/Statue_of_God_Smile_Anime_Episode_1.png) |
+| 2 | Sala circular del templo (ep. 1) | 1366×768 | Sala circular del templo | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/1/1f/Anime_Episode_1_Screenshot_15.png) |
+| 3 | Mazmorra del cambio de clase (ep. 11) | 1366×768 | Pasillo de antorchas: «Dónde se trabaja» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/0/08/Anime_Episode_11_Job_Change_Quest_Dungeon.png) |
+| 4 | Zona de Penalización (ep. 3) | 1366×768 | Zona de Penalización | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/c/c8/Anime_Episode_3_Penalty_Zone.png) |
+| 5 | Portal con cinta policial (ep. 8) | 1366×768 | **Portal con cinta y cazadores**: «Cómo se entra» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/be/Anime_Episode_8_picture_49.png) |
+| 6 | Portal azul de noche (ep. 8) | 1366×768 | Portal azul de noche con siluetas | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Anime_Episode_8_picture_60.png) |
+| 7 | Valla de la Asociación (ep. 8) | 1366×768 | **Vallas de la Asociación**: «Cómo se entra» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/d/d5/Anime_Episode_8_picture_41.png) |
+| 8 | Portal en la cueva (ep. 5) | 1366×768 | Portal dentro de una cueva | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/b5/Anime_Episode_5_Hwangs_squad_at_the_dungeon_gate1.png) |
+| 9 | Portal rojo (ep. 13) | 1920×1080 | Portal rojo: lo prohibido | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/d/d7/Red_Gate_-_S2_Episode_13.png) |
+| 10 | Isla de Jeju desde el aire | 1920×1080 | Jeju desde el aire: «Reuniones y eventos» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/9/94/Jeju_Island_Anime_-_Episode_1.png) |
+| 11 | Gremio de Cazadores (ep. 11) | 1920×1080 | Gremio de Cazadores: «Los roles que se ganan» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/b/b1/Anime_Episode_11_Hunters_Guild.png) |
+| 12 | Despacho al atardecer (ep. 8) | 1920×1080 | Despacho con sofás: «De qué va esto» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/f/fb/Anime_Episode_8_Baek_and_Choi_meeting.png) |
+| 13 | Rascacielos al atardecer (ep. 8) | 1920×1080 | Rascacielos: «La guía, de un vistazo» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/2/25/Anime_Episode_8_picture_34.png) |
+| 14 | Hospital: Jinah y Jinwoo (ep. 3) | 1366×768 | Habitación del hospital: «Lo que hay que leer» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/5/5a/Anime_Episode_3_Jinha_visits_Jinwoo1.png) |
+| 15 | Castillo del Demonio (ep. 7) | 1366×768 | Castillo en llamas | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/5/52/Anime_Episode_7_Demon_Castle.png) |
+| 16 | Tanque, espada y mago en la cueva (ep. 1) | 1366×768 | **El equipo típico** a contraluz, espada en diagonal: «Dónde se trabaja» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/4/46/Anime_Episode_1_Hunters_Introduction.png) |
+| 17 | El equipo entra a la mazmorra | 1315×738 | El equipo entra: «Dónde se trabaja» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/9/9a/Jinwoo_and_his_squad_enters_the_dungeon_%28Anime%29.png) |
+| 18 | Visual grande T2 | 1920×1080 | Visual grande T2: portada | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/0/0e/Anime_Season_2_large_visual_1.png) |
+| 19 | Visual grande T1 (2) | 1200×675 | Visual grande T1 | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/4/47/Anime_Season_1_Large_Visual_2.jpg) |
+| 20 | Equipo de la mazmorra doble (ep. 1) | 1920×1080 | **Portal dentro de una valla de obra**: «Cómo se entra» | [enlace](https://static.wikia.nocookie.net/solo-leveling/images/1/1e/Anime_Episode_1_Double_Dungeon_Strike_Team.png) |
+
+**Otras joyas de los índices** (no caben en las hojas):
+- **Tarjetas de cuenta atrás de la T1** de Crunchyroll con firmas de los actores (Aleks Le, Michelle Rojas…): índice P 438-450. Llevan el logo «S O L O  L E V E L I N G» en serifa espaciada.
+- **«Special art» de final de capítulo** (1080×1920, P 113-136): mini cómics en blanco y negro dentro de un **marco de circuitos cian**, como una ventana del Sistema. Referencia para el marco de la lámina.
+- **Layouts de Yoshihiro Kanno** (director de acción) y fotogramas clave del ep. 11 (P 68-79, O 5-8, 4096×1156): la pelea con Igris, a lápiz.
+- **La estatua del Dios** en 4K (O 3, 3840×2160; es F·1).
+- **Dibujo de agradecimiento de Yoshihiro Kanno**, director de acción, al acabar la T2: Jinwoo de pie con las manos en los bolsillos y Kaisel detrás, a tinta gris, «ありがとうございました!! Thank you!!» ([imagen, 870×1222][rd-kanno], compartida en Reddit el 30-mar-2025 ✅ medida). Referencia de pose relajada.
+
+### 10.1 Arte oficial fuera de las hojas
 
 - **KV T1** (dos Jinwoo, ruinas): [archivo 948×1280][kv1] ✅. La presentaron [Natalie][natalie-kv1], [Animate Times][animate] y [Collabo Cafe][collabo].
 - **KV T2** (Jinwoo y el ejército de sombras, lema 「覇者の目醒め」): [archivo 1308×1848][kv2] ✅, [Aniplex][aniplex-kv2], [X oficial][x-kv2], [ANN][ann-kv2].
@@ -344,69 +545,149 @@ Las posturas de manos y mirada de los minutos marcados con ⚠️ hay que **mira
 - **Capturas oficiales por capítulo:** la web oficial tiene una página de historia por capítulo, con unas 6 imágenes cada una ([ejemplo][ofi-story21], [scraper que lo documenta][scraper] ✅). Hay además páginas de los 4 tomos de Blu-ray y DVD.
 - **Pósteres en ANN:** [T1 y T2, 550×780][ann-data1] ✅ (medidas según ANN).
 - **Logo en SVG:** [Wikimedia Commons][logo-svg].
-- **Fondos de pantalla de fans en alta:** ⚠️ **no encontrados**. Se acabó el cupo de búsqueda y Pixiv, ArtStation y DeviantArt no responden.
+- **Visuales grandes en horizontal (sirven de fondo de pantalla, 1920×1080):** [Visual grande T2][w-o188] (F·18) y [Visual grande T1 (2)][w-o262] (1200×675, F·19) ✅.
+- **Ilustraciones verticales enormes:** [Jinwoo T2 neón, 2304×4096][w-p003] (P·4), [Igris, 2880×5184][w-p001] y [Igris, 2880×5124][w-p002] (índice P 1-2; ⚠️ la wiki no dice el autor: parecen del webtoon o del juego, no del anime).
+- **Fondos de pantalla de fans en alta (2.ª pasada, por Reddit):** [«The daily life of shadows»][rd-shadows] (2897×4096, cómic de las sombras como criados; autor sin identificar en el post) y el arte de [RichyukiYuki en X][x-richyuki] (1125×1042, Cha Hae-In y Jinwoo; [post de Reddit][rd-richyuki], 2257 votos). **Sólo referencia.**
+- **Fondos de pantalla de fans en DeviantArt** (su RSS público responde; tamaño = el que declara la propia web):
+  - [«Solo Leveling (Sung Jin-Woo) Animated Wallpaper», de Favorisxp][da-favorisxp]: **3840×2160**.
+  - [«Wallpaper (Solo Leveling)», de Renacars][da-renacars]: original de hasta **3840×2160**.
+  - [«Sung Jinwoo Cold Mask Wallpaper», de Antractos][da-antractos]: original muy grande (hasta 9216×6144).
+  - [«Son Jin-Woo and Igris», de Wespion9][da-wespion]: Jinwoo e Igris juntos, 1196×668 de vista previa.
+  - Pixiv y ArtStation: no los probé (Pixiv pide sesión).
 
 ---
 
 ## 11 · Modelos 3D y fan art (solo referencia)
 
-Los créditos salen de un proyecto de fans que usó estos modelos ([codeonym/portfolio][codeonym]). ⚠️ **Hay que comprobar cada licencia en Sketchfab** antes de usarla (no pude abrir Sketchfab).
+**Segunda pasada:** cada licencia se comprobó en la **API de Sketchfab** (`/v3/models/<id>`, campo `license`) el 24-sep-2026 ✅. «CC Attribution» = CC BY 4.0: se puede usar citando al autor. Ojo: los modelos de **personajes** son fan art de una obra con copyright; la licencia CC es la del autor del modelo, no la de la serie. Para el servidor (uso no comercial) vale como apoyo, siempre con crédito.
 
-| Modelo | Autor | Licencia (según ese README) | Sirve para |
+| Modelo | Autor | Licencia (API) | Sirve para |
 |---|---|---|---|
-| [Igris Solo Leveling][sk-igris] | missafe | CC BY 4.0 | Igris arrodillado |
-| [Throne Room][sk-throne] | Uğur Yakışık | CC BY 4.0 | salón del trono vacío |
-| [Stone Book Lectern][sk-lectern] | ambrosia04 | CC BY 4.0 | atril de normas |
-| [Old Roman-style Treasure Chest][sk-chest] | Theo Kain | CC BY 4.0 | cofre = INVENTARIO |
-| [Pile of Coins 3][sk-coins] | SebastianSosnowski | CC BY 4.0 | recompensas |
-| [Sword of the Defeated][sk-sword] | Bunny-HungTD | CC BY 4.0 | espada en primer plano |
-| [sung S solo leveling][sk-sung] | bgang0892 | Sketchfab Standard (no es CC) | solo referencia de pose |
+| [**Hall of Blood-Red Commander Igris**][sk-igrishall] (143 922 caras, 202 me gusta) | Jp André | CC BY ✅ | **El salón del trono de Igris, hecho por un fan de la serie.** Mejor que el genérico para el concepto C |
+| [Igris Solo Leveling][sk-igris] (3944 caras) | missafe | CC BY ✅ | Igris arrodillado (ligero, fácil de posar) |
+| [Igris - Solo Leveling][sk-igris2] (33 970 caras) | shrithik | CC BY ✅ | Igris con más detalle |
+| [Igris broadsword][sk-igrissword] | afonichiev | CC BY ✅ | **La espada de Igris** en primer plano (dice basarse en el diseño del juego ARISE) |
+| [Cha Hae-In - Solo Leveling][sk-cha] (118 me gusta) | Casttelan2 | CC BY ✅ | Volumen y pose de Cha Hae-In |
+| [Epilogue Dagger][sk-dagger] | hudibaba | CC BY ✅ | Una daga de Jinwoo (la del epílogo del webtoon) |
+| [Shadow Dagger Inspired by Solo Leveling][sk-shadowdagger] | sasahhrkv | CC BY ✅ | Daga de sombra |
+| [Throne Room][sk-throne] | Uğur Yakışık | CC BY ✅ | Salón del trono genérico (alternativa) |
+| [Stone Book Lectern][sk-lectern] | ambrosia04 | CC BY ✅ | Atril de normas |
+| [Old Roman-style Treasure Chest][sk-chest] | Theo Kain | CC BY ✅ | Cofre = INVENTARIO |
+| [Pile of Coins 3][sk-coins] | SebastianSosnowski | CC BY ✅ | Recompensas |
+| [Sword of the Defeated][sk-sword] | Bunny-HungTD | CC BY ✅ | Espada en primer plano |
+| [**Crystal Ball**][sk-crystal] (142 me gusta) | Randall_3D | CC BY ✅ | **El cristal medidor** de la Asociación (concepto A); quitar las ramas de la peana |
+| [**Reception Desk**][sk-desk] (207 me gusta, 600 caras) | Yvonne DeBandi | CC BY ✅ | **El mostrador de registro** (concepto A) |
+| [ID Card Model][sk-idcard] | Johana-PS | CC BY ✅ | La **licencia de cazador** (tarjeta) |
+| [**Bulletin Boards + Geometry Node System**][sk-board] | Unreal Designer | CC BY ✅ | **El tablón** con papeles y chinchetas (concepto B) |
+| [Magic Portal][sk-portal] (885 me gusta) | SGTorresJ | CC BY ✅ | Un **portal** en 3D para «Cómo se entra» |
+| [sung S solo leveling][sk-sung] | bgang0892 | Free Standard (no es CC) | solo referencia de pose |
+| [Igris-Boss (Solo Leveling Arise)][sk-igrisboss] | 20062020year | CC BY | ❌ **No usar**: el autor agradece a quien lo sacó, parece extraído del juego |
 
-**Crédito exacto (formato CC BY):** «"Igris Solo Leveling" (https://sketchfab.com/3d-models/igris-solo-leveling-0eeb4795c56d4a5cbca69ba2bd340c6a) by missafe, licensed under CC BY 4.0». Igual para los demás.
+**Crédito exacto (formato CC BY):** «"Hall of Blood-Red Commander Igris" (https://sketchfab.com/3d-models/a3ac78d429f04340937af8e365f4de32) by Jp André, licensed under CC BY 4.0». Igual para los demás.
 
 **Diseños de interfaz de fans** (referencia, no copiar): [Figma Community][figma], [Dribbble][dribbble], [Behance][behance], [tema de Firefox][ffx-theme], [sololevelingsystemui][gh-digi], [keanteng/solo-leveling][gh-kean]. En GitHub hay **unos 492 proyectos** para «solo leveling system» (búsqueda de repositorios de GitHub, 24-sep-2026). El fandom convierte el Sistema en aplicaciones de hábitos ([HabitForge][habitforge], [Notion][notion]).
 
-**Fan art en Pixiv, ArtStation o DeviantArt:** ⚠️ no encontrado (ver bitácora).
+**Fan art con autor (2.ª pasada, por Reddit con Arctic Shift):**
+- [RichyukiYuki][x-richyuki] (X): Cha Hae-In al atardecer y Jinwoo con traje bajo la lluvia, con sus sombras detrás. Estilo muy cinematográfico, buen ejemplo de luz.
+- [«The daily life of shadows»][rd-shadows]: las sombras (Igris con su penacho, Tank, Iron) en versión chibi, de criados de Jinwoo. Muestra cómo las quieren los fans.
+- DeviantArt: ver los fondos de pantalla de §10.1 (Favorisxp, Renacars, Antractos, Wespion9).
 
 ---
 
 ## 12 · Doblaje latino
 
-**Estudio:** VSI México. **Dirección:** Sofía Huerta ✅ ([ANMTV][anmtv-24], [Infobae][infobae-sh], [Crunchyroll][cr-elenco25]).
-**Plataforma:** Crunchyroll. T1 desde el 20-ene-2024 ([TVLaint][tvlaint25]) y T2 desde el 25-ene-2025 ([ANMTV][anmtv-t2], [Doblaje Wiki][dw]) ✅.
+### 12.1 La producción ✅
+
+| Dato | Temporada 1 (2024) | Temporada 2, «Surge desde las sombras» (2025) | Fuentes |
+|---|---|---|---|
+| Estudio | **VSI México** (VSI Mexico City) | VSI México; los diálogos de J Balvin, en **Crunchyroll Dallas** | [Doblaje Wiki][dw], [ANMTV][anmtv-24], [ANMTV T2][anmtv-t2], [TVLaint][tvlaint25] ✅ |
+| Dirección | **Sofía Huerta** | Sofía Huerta | las mismas + [Crunchyroll][cr-elenco25] ✅ |
+| Traducción y adaptación | **Ilse Santillán** | **Samuel Oseguera** | Doblaje Wiki + ANMTV (Santillán) ✅; Oseguera sólo Doblaje Wiki ⚠️ |
+| Grabación | Raúl Martínez | Alejandro Espinosa; Manny Aragon en Dallas | [Doblaje Wiki][dw] ⚠️ (una fuente) |
+| Mezcla | **Óscar Galván** | Mikel (Miguel) Andrade | Galván: Doblaje Wiki + ANMTV ✅; Andrade ⚠️ |
+| Productor ejecutivo | **Carlos Villasana** | Carlos Villasana | Doblaje Wiki + ANMTV ✅ |
+| Guiones base | los de Crunchyroll (inglés), con el audio japonés de referencia | igual | [Doblaje Wiki][dw] |
+| Estreno en Crunchyroll | **20-ene a 20-abr-2024** | **25-ene a 15-feb-2025** (ep. 1-4) y **1-mar a 19-abr-2025** (ep. 5-13) | [Doblaje Wiki][dw], [ANMTV T2][anmtv-t2], [TVLaint][tvlaint25] ✅ |
+| Película | «Solo Leveling: **Segundo despertar**», grabada de agosto a octubre de 2024; traducción de Samuel Oseguera | | [Doblaje Wiki][dw-film] ⚠️ |
+
+**Datos de interés** ([Doblaje Wiki][dw]):
+- VSI dobló también al alemán, italiano y castellano, cada uno en su sede.
+- Es **el primer protagónico de anime de Fernando Moctezuma** ✅ (también [Infobae][infobae-fm]).
+- J Balvin hizo de Kargalgan **en español latino y en inglés** ✅ ([ANMTV][anmtv-balvin]).
+- **Un fallo de adaptación:** el gremio de Baek se llama «**Tigre Blanco**» hasta el ep. 6 y «**Baekho**» desde el ep. 8.
+- **Un error:** ep. 16 · 07:22, Choi Jong-in dice que el gremio Baekho no está muy «lejos» cuando quería decir «cerca».
+
+### 12.2 Las voces (cada nombre con dos fuentes)
 
 | Personaje | Voz latina | Fuentes | Estado |
 |---|---|---|---|
-| Sung Jinwoo | **Fernando Moctezuma** (su primer protagónico) | [ANN][ann-data1], [MAL][jkc1], [Infobae][infobae-fm], [ANMTV][anmtv-24] | ✅ |
-| Cha Hae-In | **Sofía Huerta** | [ANN][ann-data1], [MAL][jkc1], [Infobae][infobae-sh] | ✅ |
-| Yoo Jinho | **Brandon Montor** | [ANN][ann-data1], [MAL][jkc1], [TVLaint][tvlaint25] | ✅ |
-| Woo Jinchul | **Armando Guerrero** | [ANN][ann-data1], [MAL][jkc1], [TVLaint][tvlaint25] | ✅ |
-| Sung Jinah | **Ixchel León** | [ANN][ann-data1], [MAL][jkc1], [TVLaint][tvlaint25] | ✅ |
-| Go Gunhee | **Santos Alberto** | [ANN][ann-data1], [MAL][jkc1], [WDN][wdnes] | ✅ |
-| Lee Joohee | **Gabriela Ortiz** | [ANN][ann-data1], [MAL][jkc1], [TVLaint][tvlaint25] | ✅ |
-| Song Chiyul | **Jorge Badillo** | [ANN][ann-data1], [TVLaint][tvlaint24] | ✅ |
-| Kargalgan (luego Colmillo) | **J Balvin** (grabó en Dallas) | [ANMTV][anmtv-balvin], [SDP Noticias][sdp], [Excélsior][excelsior], [Doblaje Wiki][dw] | ✅ |
-| Choi Jong-in | Erick Selim | [MAL][jkc1]; su ficha sale en [Doblaje Wiki][dw-selim] al buscar la serie | ⚠️ |
-| **Beru** | Daniel Lacy | solo [MAL][jkc2] | ⚠️ |
-| Baek Yoonho | Gamaliel Quintana | solo [MAL][jkc1] | ⚠️ |
-| Han Song-Yi | Vianney Monroy | solo [MAL][jkc1] | ⚠️ |
-| Kim Chul (Iron) | Olin Alejandro Garcés | solo [MAL][jkc1] | ⚠️ |
-| **Igris** | no habla | [MAL][jkc1] sin actor + [Wikipedia][wp-txt] | ✅ |
+| Sung Jinwoo | **Fernando Moctezuma** (de niño: Karina Altamirano, ep. 21) | [Doblaje Wiki][dw], [ANN][ann-data1], [MAL][jkc1], [Infobae][infobae-fm], [ANMTV][anmtv-24] | ✅ |
+| Cha Hae-In | **Sofía Huerta** | Doblaje Wiki, ANN, MAL, [Infobae][infobae-sh] | ✅ |
+| Yoo Jinho | **Brandon Montor** | Doblaje Wiki, ANN, MAL, [TVLaint][tvlaint25] | ✅ |
+| Woo Jinchul | **Armando Guerrero** | Doblaje Wiki, ANN, MAL, TVLaint | ✅ |
+| Sung Jinah | **Ixchel León** | Doblaje Wiki, ANN, MAL, TVLaint | ✅ |
+| Go Gunhee (y el **narrador**) | **Santos Alberto** | Doblaje Wiki, ANN, MAL, [WDN][wdnes] | ✅ |
+| Lee Joohee | **Gabriela Ortiz** | Doblaje Wiki, ANN, MAL, ANMTV | ✅ |
+| Song Chiyul | **Jorge Badillo** | Doblaje Wiki, ANN, [TVLaint][tvlaint24], ANMTV | ✅ |
+| Kargalgan (luego Colmillo) | **J Balvin** (grabó en Dallas) | Doblaje Wiki, [ANMTV][anmtv-balvin], [SDP Noticias][sdp], [Excélsior][excelsior] | ✅ |
+| **Beru** | **Daniel Lacy** | [Doblaje Wiki][dw], [MAL][jkc2] | ✅ (antes dudoso) |
+| Choi Jong-in | **Erick Selim** ([ficha][dw-selim]) | Doblaje Wiki, [ANMTV][anmtv-24], [ANMTV T2][anmtv-t2], MAL | ✅ (antes dudoso) |
+| Baek Yoonho | **Gamaliel Quintana** | Doblaje Wiki, ANMTV, TVLaint, MAL | ✅ (antes dudoso) |
+| Han Song-Yi | **Vianney Monroy** | Doblaje Wiki, ANMTV T2, TVLaint, MAL | ✅ (antes dudoso) |
+| Kim Chul | T1 (ep. 5): **Gamaliel Quintana**; T2: **Olín Garcés** | Doblaje Wiki; ANMTV T2 y TVLaint (Garcés) | ✅ T2 · ⚠️ T1 (sólo Doblaje Wiki) |
+| Iron (Kim Chul como sombra) | **Olín Garcés** | [Doblaje Wiki][dw] | ⚠️ (una fuente) |
+| Tank | sin identificar | [Doblaje Wiki][dw] | — |
+| Baruka | **Óscar Rangel** | Doblaje Wiki, ANMTV T2, TVLaint | ✅ |
+| Hwang Dongsoo | **Jerry Garza** | Doblaje Wiki, ANMTV T2 | ✅ |
+| Park Heejin | T1: Juana Saucedo · T2: **Miriam Aceves** | Doblaje Wiki (y su ficha de la película); ANMTV T2 (Aceves) | ✅ T2 |
+| Esil Radiru | Montserrat Aguilar | [Doblaje Wiki][dw] | ⚠️ (una fuente) |
+| **Igris** | no habla | [MAL][jkc1] sin actor + [Wikipedia][wp-txt]; Doblaje Wiki no lo lista | ✅ |
 
-- **Equipo técnico** según [ANMTV][anmtv-24]: traducción de Ilse Santillán, producción de Carlos Villasana y mezcla de Oscar Galván ⚠️ (una fuente).
-- **Ojo con el castellano:** en España, Jinwoo lo dobla Masumi Mutsuda ([ANN][ann-data1], [MAL][jkc1]). No mezclar.
+- **Ojo con el castellano:** en España, Jinwoo lo dobla Masumi Mutsuda ([ANN][ann-data1], [MAL][jkc1]). No mezclar. Los clips de Crunchyroll en Español marcan cuál es cuál: «(Doblaje **en español**)» = latino; «(Doblaje **castellano**)» = España.
 
-**Frases en español latino** (de los subtítulos latinos, que no son el guion del doblaje):
-- «**Surge.**» (ep. 14 · 12:48; ep. 18 · 17:49; ep. 21 · 02:33) ✅ subtítulo.
-- «Colmillo. Te llamarás Colmillo.» (ep. 18 · 18:10) ✅ subtítulo.
-- «No eres de rango E, ¿verdad?» (ep. 13 · 12:16) ✅ subtítulo. Es el título del capítulo ([Crunchyroll][cr-e13]).
-- «Ahora eres oficialmente un cazador de rango S.» (ep. 19 · 07:00) ✅ subtítulo.
-- «**La presa se convierte en cazador**» es el título del clip oficial del ep. 6 en el canal de Crunchyroll en Español ([YouTube][yt-clip6]; comprobado en la guía de cuadros del repo) ✅.
-- ⚠️ **No encontré ninguna frase del audio doblado** transcrita en dos fuentes. Doblaje Wiki (API) y YouTube están bloqueados.
+### 12.3 Frases propias del doblaje latino (textuales)
 
-**Entrevistas en vídeo:** [IGN Latinoamérica][ign-latam], [«Las voces de Solo Leveling»][voces], y actores diciendo «¡Despierten!» en [TikTok][tt-despierten]. Minutos sin verificar.
+**De dónde salen.** YouTube no deja bajar audio ni subtítulos de los clips oficiales (no tienen subtítulos, lo comprobé con `yt-dlp --list-subs`). Pero **Doblaje Wiki guarda 60 muestras de audio del doblaje**, de 20-40 segundos. Bajé 15 y las pasé por **Whisper** (modelo *small*, en español). Corregí a mano sólo las palabras rotas obvias («masmorra» → «mazmorra»). Cada frase lleva su muestra; el capítulo y minuto sale de cruzarla con los subtítulos ingleses de Netflix o vietnamitas de Crunchyroll. ✅ = el sentido coincide con esos subtítulos.
 
----
+| Personaje | Frase del doblaje latino | Dónde | Estado |
+|---|---|---|---|
+| **Beru** | «**Mi rey**… necesito que usted me dé un nombre. Se equivoca, yo no morí, mi rey. Es gracias a su mano que yo he podido renacer. Todo mi ser se encuentra lleno de júbilo. Juro que voy a servirle por la eternidad. Ahora, por favor, **concédame un nombre**.» | ep. 25 · 09:04-09:50 ([muestra][dw-beru-sombra], [subs VI][vi25]) | ✅ |
+| Beru (Rey Hormiga) | «¡Debo vivir! ¡Debo sobrevivir!» | ep. 24 · 19:38 ([muestra][dw-beru-trans], [subs VI][vi24]: «Để sống sót…») | ✅ |
+| **Sung Jinah** | «Oye, necesitas tener más cuidado. ¿Tienes idea de lo preocupada que estaba?» · «Estuviste fuera tres días. ¿Por qué estás sonriendo?» · «Sí, es cierto. **Lo normal sería abrir la caja de mensajes.**» | ep. 3 · 06:55-07:12 ([muestra][dw-jinah], [subs][nf03]) | ✅ |
+| **Sung Jinwoo** (rango E) | «Ya he estado al borde de la muerte en repetidas ocasiones.» · «Pero este cuchillo barato es lo único que pude comprar.» · «**Así es como suelo vivir, un día tras otro.**» | ep. 1, monólogo inicial ([muestra][dw-jinwoo-e]) | ✅ sentido |
+| **Sung Jinwoo** (rango B) | «Tal vez podría ser reevaluado.» · «**Siempre golpean al clavo que sobresale.** Mejor lo olvido.» | ep. 5 · 06:29 ([muestra][dw-jinwoo-b], [subs][nf05]: «Should I go for a re-evaluation?») | ✅ |
+| **Song Chiyul** | «Hola a todos, soy el líder de la incursión del día de hoy. Para los que no me conocen, me llamo Song Chiyul. **Un gusto conocerlos.**» · «¿Ya están todos listos? **¡Entremos!**» · «Hagamos una votación.» | ep. 1 · 07:20, 07:37 y 12:42 ([muestra][dw-chiyul], [subs][nf01]) | ✅ |
+| **Yoo Jinho** | «**Soy Yoo Jinho, 21 años y rango D.**» · «¿Tu primera vez en una mazmorra C? No te preocupes, yo voy a mantenerte a salvo.» · «Disculpa, es que nunca he sido muy bueno en las cuestiones sociales.» | ep. 5 · 09:02 ([muestra][dw-jinho], [subs][nf05]) | ✅ |
+| **Cha Hae-In** | «Entonces, ¿cómo puedo ayudarle?» · «Con permiso.» · «Pensé que debería saberlo.» · «**Le dije que no estaba interesada.**» | ep. 8 · 13:30-14:20, en el despacho de Choi ([muestra][dw-cha], [subs][nf08]) | ✅ |
+| **Go Gunhee** | «Pues ya sabes, siempre dicen lo mismo. No puede haber brechas en la mazmorra.» · «Todos los cazadores vivimos de la venta de los recursos que hay dentro de las mazmorras.» | ep. 1 · 08:25-08:44 ([muestra][dw-gunhee], [subs][nf01]) | ✅ |
+| **Baek Yoonho** | «Estoy seguro de que no me hiciste venir solamente para escuchar mis quejas, ¿verdad?» | ep. 8 · 11:26 ([muestra][dw-baek], [subs][nf08]) | ✅ |
+| **Woo Jinchul** | «Sólo hubo seis sobrevivientes…» · «El trabajo de un cazador es un trabajo peligroso, pero es raro ver un resultado tan trágico.» | ep. 3, en el hospital ([muestra][dw-jinchul]) | ✅ sentido |
+| **Choi Jong-in** | «Nunca puedo olvidarme de esa isla… Por eso tengo planeado despejar esa isla en un futuro no muy lejano.» | ep. 8 · 14:29-15:05, sobre Jeju ([muestra][dw-choi], [subs][nf08]) | ✅ |
+
+**Carteles en latino** (vistos en el [clip oficial doblado del ep. 6][yt-clip6]):
+- «**ADVERTENCIA: No cumplir la misión TE DETENDRÁ EL CORAZÓN.**» ([0:07-0:15][yt-clip6-7]) ✅.
+- «**[Perjuicio] Parálisis**» y «[Perjuicio] Drenaje» ([0:46][yt-clip6-46]) ✅.
+
+**De los subtítulos latinos** (no son el guion del doblaje, pero son la traducción oficial):
+- «**Surge.**» (ep. 14 · 12:48; ep. 18 · 17:49; ep. 21 · 02:33) ✅.
+- «Colmillo. Te llamarás Colmillo.» (ep. 18 · 18:10) ✅.
+- «No eres de rango E, ¿verdad?» (ep. 13 · 12:16) ✅. Es el título del capítulo ([Crunchyroll][cr-e13]).
+- «Ahora eres oficialmente un cazador de rango S.» (ep. 19 · 07:00) ✅.
+
+**Títulos oficiales de los clips latinos** (canal Crunchyroll en Español, comprobados con yt-dlp): «[La presa se convierte en cazador][yt-clip6]», «[Aquí Sung Jinwoo demuestra quien es el más papu de los papus][yt-papu]» (usa jerga mexicana), «[Eres fuerte… pero no lo suficiente][yt-eresfuerte]», «[SIEMPRE sigue las reglas del templo…][yt-templo]», «[Sung Jinwoo vs El rey hormiga][yt-ant]».
+
+### 12.4 Entrevistas en vídeo (comprobadas con yt-dlp)
+
+| Vídeo | Qué es | Datos |
+|---|---|---|
+| [IGN Latinoamérica: «Conoce a los actores detrás del doblaje latino»][ign-latam] | Reparto | 8:30, 11-abr-2024 ✅ |
+| [Crunchyroll en Español: «El poder oculto de Solo Leveling · Detrás de escenas»][yt-bts] | **El detrás del doblaje, oficial** («SURGE con los secretos detrás del doblaje») | 2:30, 6-abr-2024 ✅ |
+| [Malditos Nerds (Infobae): entrevista a Fernando Moctezuma][yt-fm-infobae] | Doblar un anime de webtoon frente a uno de manga | 15:33, 12-dic-2024 ✅ |
+| [Pratz: «Detrás de la voz de Sung Jinwoo», con Fernando Moctezuma][yt-fm-pratz] | Entrevista | 20:49, 25-may-2025 ✅ |
+| [Antov: «Las voces de Solo Leveling»][voces] | Resumen del reparto | 3:27, 28-mar-2025 ✅ |
+| Actores diciendo «¡Despierten!» ([TikTok][tt-despierten]) | Promo | ⚠️ sin comprobar (TikTok no lo abrí) |
+
+Ninguno de estos vídeos tiene subtítulos ni capítulos (comprobado con yt-dlp): los minutos de lo que dicen quedan sin poner.
 
 ## 13 · Música
 
@@ -416,50 +697,67 @@ Los créditos salen de un proyecto de fans que usó estos modelos ([codeonym/por
 | ED T1 «**request**» | krage | cap. 2-12 | [ANN][ann-data1], [MAL][jk1] ✅ |
 | OP T2 «**ReawakeR**» | LiSA feat. Felix (Stray Kids) | T2 | [ANN][ann-data2], [MAL][jk2], [ANN noticia][ann-kv2] ✅ |
 | ED T2 «**UN-APEX**» | TK from Ling tosite sigure | T2 | [ANN][ann-data2], [MAL][jk2] ✅ |
-| Inserción «DARK ARIA» | XAI | ep. 6 | [anisoncharts][anison] ⚠️ |
-| Inserción «4eVR» | Benjamin & mpi, Laco | ep. 10 | [anisoncharts][anison] ⚠️ |
-| Inserción «SHADOWBORN» | Hiroyuki SAWANO feat. Benjamin & mpi | ep. 13 y 25 | [anisoncharts][anison] ⚠️ |
-| Inserción «REVIVƎЯ» | SAWANO feat. SennaRin | ep. 21 | [anisoncharts][anison] ⚠️ |
-| Inserción «H∅WL» | SAWANO feat. Aimee Blackschleger | ep. 24 | [anisoncharts][anison] ⚠️ |
+| Inserción «DARK ARIA» | SawanoHiroyuki[nZk]:XAI | ep. 6 (la caza en la cueva) y ep. 23 | [anisoncharts][anison], [wiki][wiki-darkaria] ✅ |
+| Inserción «4eVR» | SawanoHiroyuki[nZk]: Laco, Benjamin & mpi | ep. 10 (Jinwoo limpia mazmorras C) | [anisoncharts][anison], [wiki][wiki-4evr] ✅ |
+| Inserción «SHADOWBORN» | Hiroyuki SAWANO feat. Benjamin & mpi | ep. 13 (contra los osos de hielo), 18 (contra Kargalgan) y 25. Estribillo: «Be my Shadowborn» | [anisoncharts][anison], [wiki][wiki-shadowborn] ✅ |
+| Inserción «REVIVƎЯ» | SAWANO feat. SennaRin | ep. 21 | [anisoncharts][anison], [wiki ep. 21][wiki-ep21] ✅ |
+| Inserción «H∅WL» | SAWANO feat. Aimee Blackschleger | ep. 24 | [anisoncharts][anison] ⚠️ (la wiki no lo lista en el ep. 24) |
 
 - La banda sonora salió el 27-mar-2024 (Aniplex; Milan Records en EE. UU.) y en vinilo el 4-oct-2024 ([Wikipedia][wp-txt] ✅).
-- **Ambiente** ⚠️ de memoria: coros épicos, sintetizadores graves y percusión de tráiler. Oscuro y en crescendo. La lámina debe «sonar» así: nada de pastel.
-- ⚠️ «DARK ARIA» suena en el ep. 6, el mismo del «The real hunt begins now» (02:47). No pude confirmar que coincidan en la escena.
+- **Ambiente:** coros épicos, sintetizadores graves y percusión de tráiler, oscuro y en crescendo ⚠️ (de memoria: sin audio no pude oírlo). Lo que sí se ve: el **opening de la T1** va de azul circuito y noche de Seúl a rojo y violeta en la pelea con Igris ([OP · 0:01][yt-op1-1], [0:25][yt-op1-25], [1:06][yt-op1-66]); el **ending de la T2** es un palacio de mármol blanco con rojo ([ED · 0:37][yt-ed2-37]). La lámina debe «sonar» así: nada de pastel.
+- **Otras piezas de la banda sonora** ([wiki][wiki-ost] ✅): «[Solo-Leveling]SymphonicSuite-Lv.1» a «Lv.10», «DunGeoN», «KSK→GATE», «Hunter→Monster», «everydayLV.0». Los títulos juegan con niveles y flechas, como el Sistema.
+- «DARK ARIA» suena en el ep. 6 en la escena «Kill or Be Killed» (la caza en la cueva de cristal, [wiki][wiki-darkaria] ✅), la del «The real hunt begins now». ⚠️ El minuto exacto en que entra la canción no lo sé (no hay audio).
 
 ---
 
 ## 14 · Vídeos
 
-| Vídeo | Qué sirve | Minuto |
-|---|---|---|
-| Tráiler T1 (el que enlaza MAL) [youtube-nocookie 1kQwjK4rGYg][yt-tr1] | movimiento del Sistema | sin verificar |
-| Tráiler T2 [GDMXGzjJzS4][yt-tr2] | ejército de sombras | sin verificar |
-| Tráiler de Jeju ([ANN][ann-jeju]) | Beru y la incursión | sin verificar |
-| Clip ep. 6 «La presa se convierte en cazador» ([YouTube][yt-clip6]) | Jinwoo cazador | sin verificar |
-| Reacción al ep. 3 ([YouTube][yt-react]) | la primera ventana | sin verificar |
-| Entrevista a los desarrolladores de OVERDRIVE ([YouTube][yt-od]) | interfaz del juego | sin verificar |
-| Reto «Daily Quest» en TikTok ([vídeo][tt-daily]) | tendencia: 100/100/100/10 km | — |
-| «Who's my king» en TikTok ([búsqueda][tt-king]) | meme de Beru | — |
+**Cómo los miré (2.ª pasada).** `herramientas/fotogramas.py` no puede bajar de YouTube: pide «iniciar sesión para confirmar que no eres un robot». Con yt-dlp (cliente `mweb`) sí salen los datos y los ***storyboards***: las miniaturas oficiales de YouTube, **un fotograma cada segundo, a 320×180** (en los vídeos largos, uno cada ~5 s). Con Pillow los monté en hojas numeradas con su minuto y **las miré** (quedan en mi carpeta de trabajo, `vid/<nombre>/hoja_01.jpg`). Resolución baja: sirven para pose, encuadre, luz y color; para recortar, las capturas grandes de la wiki (§10.0).
 
-**Minutos exactos dentro de los capítulos** (los más útiles):
-- ep. 3 · 07:34, el Sistema aparece.
+### 14.1 Los que miré fotograma a fotograma
+
+| Vídeo (canal, fecha, duración) | Lo que se ve, con su minuto |
+|---|---|
+| **Opening T1** «LEveL» ([Crunchyroll, 1:40][yt-op1]) | [0:01][yt-op1-1] suelo de **líneas de circuito azules** (el mismo dibujo del marco del Sistema; `#143572` · `#79BAEA`). [0:05-0:07][yt-op1-5] Seúl de noche, trenes. [0:09][yt-op1-9] Jinwoo de espaldas con abrigo en un parque de día. [0:11][yt-op1-11] **Jinah en un columpio**. [0:25][yt-op1-25] Jinwoo cae junto a un rascacielos rojo y rosa. [0:43][yt-op1-43] **coches de policía cortando una calle de noche** (un portal). [0:54][yt-op1-54] **Go Gunhee de brazos cruzados ante la ciudad en ruinas**. [1:06-1:12][yt-op1-66] pelea con Igris rojo. [1:22][yt-op1-82] Jinwoo con ojos violeta, mano en la cara. [1:24][yt-op1-84] **logo «S O L O  L E V E L I N G» en serifa espaciada**, blanco sobre negro violeta |
+| **Ending T2** «UN-APEX» ([Crunchyroll, 1:41][yt-ed2]) | [0:05][yt-ed2-5] Jinwoo de espaldas **con túnica blanca** entre columnas de mármol. [0:11][yt-ed2-11] **trono vacío tras una reja**. [0:17-0:29][yt-ed2-17] mesa de banquete blanca, copa de vino tinto. [0:37][yt-ed2-37] **«SOLO LEVELING» en letras rojas gruesas** (`#AA033D`). [0:49-0:54][yt-ed2-47] **ejército de sombras en fila en el palacio blanco** (`#DDDED5` · `#545E5F`). [1:24][yt-ed2-84] **Jinwoo sentado en el trono**, manos en los brazos |
+| **Tráiler latino** «Solo Leveling en ESPAÑOL» ([Crunchyroll en Español, 2:11, 16-ene-2024][yt-trailer]) | [0:03][yt-trailer-3] **créditos dentro de recuadros blancos** («CHUGONG», «DUBU», «H-GOON») sobre la ciudad. [0:31][yt-trailer-31] Jinwoo novato con la espada al hombro y cielo azul. [0:39][yt-trailer-39] cara con tiritas, apretando los dientes. [0:58][yt-trailer-58] **estatuas con líneas de luz azul** (el templo). [1:10][yt-trailer-70] **la ventana NOTIFICATION en el hospital**. [1:29][yt-trailer-89] **«ESTE INVIERNO»** en mayúsculas espaciadas sobre una **rejilla de interfaz azul** (`#08152E`). [2:09][yt-trailer-129] «ANIME PARA TELEVISIÓN · ESTRENO EN ENERO DE 2024» |
+| **Clip ep. 6** «La presa se convierte en cazador» ([doblaje latino, 1:23, 14-mar-2024][yt-clip6]) | [0:07-0:15][yt-clip6-7] **ventana WARNING en rojo con su cartel latino**. [0:21-0:23][yt-clip6-21] **Jinwoo con la cara en sombra y los ojos azules encendidos**. [0:27][yt-clip6-27] de pie en la cueva de cristal, sudadera cian abierta. [0:46][yt-clip6-46] **[Perjuicio] Parálisis**. [1:06-1:10][yt-clip6-66] **de pie entre los caídos**, de espaldas |
+| **Clip ep. 11** «Aquí Sung Jinwoo demuestra quien es el más papu…» ([doblaje latino, 1:44, 23-abr-2024][yt-papu]) | [0:01][yt-papu-1] **el salón del trono**: columnas violeta, alfombra roja, trono al fondo. [0:03-0:11][yt-papu-3] **Igris rojo con penacho**, espada en alto. [0:27][yt-papu-27] choque de espadas con chispas. [0:55][yt-papu-55] Jinwoo con fuego azul en la mano. [1:31][yt-papu-91] **Jinwoo de pie, sudadera gris, daga baja, Igris vencido detrás** |
+| **Clip ep. 2** «SIEMPRE sigue las reglas del templo…» ([1:35, 4-sep-2025][yt-templo]) | [0:03][yt-templo-3] **la estatua del Dios sonriendo**, ojos blancos. [0:07][yt-templo-7] **la sala circular con anillo de luces azules** y los cazadores diminutos. [0:37][yt-templo-37] manos juntas rezando. [1:19][yt-templo-79] los supervivientes bajo las estatuas |
+| **Clip ep. 24** «Sung Jinwoo vs El rey hormiga» ([9:41, 15-may-2025, 3 millones de visitas][yt-ant]) | [0:19][yt-ant-19] cueva de tierra. [2:37][yt-ant-157] **el Rey Hormiga** de frente, ojos rojos. [3:16][yt-ant-196] Jinwoo con **abrigo azul noche y camiseta blanca**, sereno. [8:12-8:32][yt-ant-492] **ojos azules encendidos entre llamas**. [9:11][yt-ant-551] los cazadores coreanos rango S juntos |
+| **Clip ep. 6** «Eres fuerte… pero no lo suficiente» ([1:26, 26-mar-2024][yt-eresfuerte]) | [0:17-0:21][yt-eresfuerte-17] Jinwoo sangrando, **cara impasible**. [0:53-1:01][yt-eresfuerte-53] **ojos en blanco brillante en la sombra**: la cara de miedo que da |
+
+### 14.2 Otros vídeos (existen: comprobados con yt-dlp el 24-sep-2026)
+
+| Vídeo | Qué sirve | Datos |
+|---|---|---|
+| [PV 2 de Aniplex][yt-tr1] (el que enlaza MAL) | Ficha del staff en la descripción | 2:00, 10-dic-2023, 654 139 visitas ✅ |
+| [PV 2 de la T2, Jeju][yt-tr2] ([noticia de ANN][ann-jeju]) | Beru y la incursión | 1:59, 4-mar-2025 ✅ |
+| [Opening T1 sin créditos, Aniplex][yt-op1-aniplex] | El opening limpio | 1:31, 4 millones de visitas ✅ |
+| [Opening T2 «ReawakeR», Aniplex][yt-op2-aniplex] | El opening de la T2 | 1:31, 14 millones ✅ |
+| [Tráiler oficial de Crunchyroll en Español (2023)][yt-tr-es-2023] | Primer tráiler | 1:36, 906 677 visitas ✅ |
+| [«Solo Leveling: Beyond the System», vídeo conceptual][yt-beyond] | La película nueva | 1:28, 3-jul-2026 ✅ |
+| [«De cazador más débil a ser una leyenda»][yt-leyenda] | Resumen oficial de la T1 | 8:59, 333 333 visitas ✅ |
+| [Reacción al ep. 3][yt-react] | La primera ventana, con capítulos: «Awakening as a player» en [1:20][yt-react-80], «Penalty zone» en [7:24][yt-react-444] | 19:01 ✅ |
+| [Entrevista a los desarrolladores de OVERDRIVE][yt-od] (canal oficial) | Interfaz del juego | 8:11, 15-oct-2025 ✅ |
+| Reto «Daily Quest» en TikTok ([vídeo][tt-daily]) · «Who's my king» ([búsqueda][tt-king]) | Tendencias | ⚠️ TikTok no lo abrí |
+
+**Minutos exactos dentro de los capítulos** (los más útiles, de los subtítulos ✅):
+- ep. 1 · 07:20, Song Chiyul se presenta; 07:37, «¡Entremos!».
+- ep. 3 · 07:10, «Lo normal sería abrir la caja de mensajes»; 07:34, el Sistema aparece.
 - ep. 11 · 10:18, Igris.
 - ep. 12 · 17:39 / 19:08 / 19:32 / 20:25, los cuatro «Arise».
-- ep. 25 · 09:56, Beru recibe su nombre.
-
-Todos salen de los subtítulos enlazados en cada sección ✅.
-
----
+- ep. 25 · 09:04-10:07, Beru pide un nombre, lo recibe y «Surge».
 
 ## 15 · Videojuegos
 
 - **Solo Leveling: ARISE** (Netmarble; móvil y PC). Juegas como Jinwoo, extraes sombras y formas escuadrones ([Netmarble][nm-site], [Google Play][gplay] ✅).
-  - Fecha: Wikipedia dice 18-mar-2024 ([texto][wp-txt]). Las entrevistas coreanas hablan del lanzamiento «el 8» ([The Value News][valuenews], [Nate][nate]) ⚠️. Probablemente el 8 de mayo de 2024 a nivel mundial.
+  - Fecha: **8 de mayo de 2024** en todo el mundo ✅ ([wiki][wiki-arise] + las entrevistas coreanas que hablan del lanzamiento «el 8», [The Value News][valuenews], [Nate][nate]). El 18-mar-2024 que da Wikipedia no lo pude confirmar ⚠️ (quizá una prueba previa).
   - La historia se cuenta con **viñetas del webtoon animadas** ([Siliconera][silic], [CBR][cbr-review] ✅). En el foro oficial hay un hilo sobre la nueva interfaz ([hilo][nm-ui]).
-- **ARISE OVERDRIVE** (Netmarble Neo): salió en Steam y Xbox PC el 24-nov-2025. PS5 y Xbox Series en 2026 ([PC Gamer][pcgamer], [Steam][steam-news] ✅). Es un juego aparte de ARISE ([GameMeca][gamemeca] ⚠️).
+- **ARISE OVERDRIVE** (Netmarble Neo): salió en Steam y Xbox PC el 24-nov-2025. PS5 y Xbox Series en 2026 ([PC Gamer][pcgamer], [Steam][steam-news] ✅). Es un juego aparte de ARISE ✅: tiene su propia ficha de Steam (app 2373990) y su propio canal oficial, con una [entrevista a los desarrolladores][yt-od] sobre combate, narración y sonido ([GameMeca][gamemeca]).
 - **Solo Leveling: Unlimited:** coleccionables Web3, sin interés para la lámina ([Wikipedia][wp-txt]).
 - **Lo que la lámina puede tomar del juego:** las viñetas de webtoon como marco cuando Jinwoo recuerda algo. La ventana del Sistema vale igual que en el anime.
-- ⚠️ No pude medir menús ni cajas del juego: Game UI Database y The Cutting Room Floor no responden.
+- ⚠️ No pude medir menús ni cajas del juego: Game UI Database y The Cutting Room Floor siguen en 403 (Cloudflare) con la red abierta. La portada del juego sí está en la wiki (índice P 428, «Solo Leveling Arise Visual Cover 1», 849×1200).
 
 ---
 
@@ -474,6 +772,10 @@ Todos salen de los subtítulos enlazados en cada sección ✅.
 - **Las armaduras carísimas de Jinho** ([Wikipedia][wp-txt] ✅).
 - **El Sistema en la vida real:** apps y plantillas que te dan «misiones» ([HabitForge][habitforge], [Notion][notion], cientos de repos en GitHub).
 - **J Balvin como Kargalgan:** noticia muy comentada en Latinoamérica ([ANMTV][anmtv-balvin], [Sopitas][sopitas]).
+- **Latinoamérica cuenta:** los productores de Aniplex y Crunchyroll llevaron la serie a **La Mole 2024 (México)** y a la **CCXP24 (Brasil)**, y dicen que el anime crece mucho en Latinoamérica ([entrevista de Cocotame, en japonés][cocotame] ✅).
+- **«Mi rey»:** Beru arrodillado pidiendo un nombre (ep. 25 · 09:04) es la escena que más se cita de él; en latino dice «mi rey» y habla de usted ([§12.3](#123-frases-propias-del-doblaje-latino-textuales)).
+- **Las sombras como criados:** los fans dibujan a Igris, Tank e Iron en versión chibi, como mayordomos de Jinwoo ([«The daily life of shadows»][rd-shadows], 345 votos en Reddit tras el final de la T2 ✅ Arctic Shift).
+- **La pregunta eterna: ¿quién es más fuerte?** El post más votado tras el final de la T2 (6021 votos, 1043 comentarios) es «¿este tipo es más fuerte que Jinwoo?» ([Arctic Shift][as-sl] ✅). Los rangos son tema de charla: sirve para «Los roles que se ganan».
 
 ---
 
@@ -482,7 +784,10 @@ Todos salen de los subtítulos enlazados en cada sección ✅.
 - ❌ **Globo blanco con cola.** El Sistema no sale de la boca de nadie.
 - ❌ **Verde de terminal tipo Matrix** o esquinas redondas y monas. Es una ventana de juego, fría.
 - ❌ **Colores alegres o pastel.** El mundo es noche, piedra y neón azul o violeta.
-- ❌ **Igris hablando.** No habla: gesto y espada.
+- ❌ **Igris hablando.** No habla: gesto y espada. (Beru sí habla: es de grado General.)
+- ❌ **Igris dorado o plateado.** Como sombra es **negro con líneas cian**; como jefe, **rojo**. Nada más.
+- ❌ **Cha Hae-In morena o con armadura plateada.** Es **rubia y va de rojo y blanco** (P·17-18).
+- ❌ **Ventana del Sistema con esquinas redondas o letra de cómic.** Esquinas rectas con piezas de circuito, palo seco en mayúsculas espaciadas (S·10).
 - ❌ **«Shun Mizushino»** u otros nombres japoneses. En latino son coreanos.
 - ❌ **Jinwoo sonriente o haciendo el payaso.** Es contenido y serio. Beru es el exagerado.
 - ❌ **Mezclar la ventana azul del novato con el violeta del Monarca sin lógica.** Azul para quien empieza, violeta para el poder.
@@ -495,9 +800,11 @@ Todos salen de los subtítulos enlazados en cada sección ✅.
 ## 18 · Guía para generar con IA (Firefly, Canva)
 
 **Rasgos que nunca cambian**
-- **Jinwoo:** pelo negro corto y despeinado, flequillo sobre los ojos, cara fina, gesto serio. De novato, sudadera azul gris. De fuerte, abrigo largo negro y ojos violeta brillantes.
-- **Igris:** armadura completa con casco cerrado y penacho. Sin cara visible.
+- **Jinwoo:** pelo negro corto y despeinado, flequillo sobre los ojos, cara fina, gesto serio. De novato, sudadera con capucha (gris o azul), pantalón negro, zapatillas y tiritas en la cara. De fuerte (T2), **abrigo largo azul noche con capucha** (`#2C2F4F`), camiseta blanca y ojos que brillan (azul en la T1, violeta en la T2).
+- **Igris:** armadura completa con casco cerrado y **penacho rojo largo**. Sin cara visible. Sombra: negro con **líneas cian** `#5DE3EC`.
+- **Cha Hae-In:** **rubia, melena corta**, uniforme **rojo `#BC2B47` y blanco** con hombreras doradas, espada negra.
 - **Sombras:** siluetas negras con contorno cian y humo azul.
+- **La ventana del Sistema:** panel azul noche translúcido `#112A39`, esquinas de circuito cian `#82F3FA`, barra de luz arriba, cabecera en recuadro con icono «!».
 
 **Paleta**
 - Noche `#0C1721`, azul `#1C254E`, cian `#89BAD3` y `#C5E8EE`.
@@ -516,10 +823,17 @@ Todos salen de los subtítulos enlazados en cada sección ✅.
 - *cute, chibi, pastel, kawaii, speech bubble, comic balloon, green terminal, cartoon*.
 - También *webtoon* a secas: saca color plano coreano, no el anime.
 
-**Imágenes de referencia:**
-- Estilo: la [KV T2][kv2].
-- Pose del novato y del fuerte: la [KV T1][kv1].
-- Sombras: los visuales de [Kiba][kiba-vis] y [Kaisel][kaisel-vis].
+**Palabras para la ventana:** *translucent navy holographic panel, thin cyan border, circuit-line corners, glowing horizontal light bar, header in a boxed label, exclamation icon in a circle, wide-tracked uppercase sans-serif*.
+
+**Palabras para los sitios:** *blue swirling portal at night behind yellow police tape*; *circular stone temple hall with a ring of blue lights and floor fog*; *gothic throne room, dark violet pillars, red carpet, golden candelabras*; *crystal cave glowing cyan*.
+
+**Imágenes de referencia (de las hojas):**
+- Estilo general: la [KV T2][kv2] y el visual grande de la T2 (F·18).
+- Pose del novato: P·1 y la [KV T1][kv1]. Pose del fuerte: P·2 y P·3.
+- Pose de pensar con la ventana: S·2. La ventana como objeto: S·7.
+- Sombras: P·11 (Igris), P·13-15 (Kaisel, Tank, Colmillo).
+- Luz y paleta de sitio: F·2 (templo azul), F·5-6 (portal), el salón del trono del [clip del ep. 11][yt-papu-1].
+- **No uses** las viñetas del webtoon de la wiki (unas 250 del índice P): son otro estilo, más brillante y de color plano.
 
 **Aviso:** el dueño no quiere que la lámina «parezca IA». La IA solo para bocetos. El personaje final, recortado de arte oficial por `v3/integrar.py`.
 
@@ -531,84 +845,120 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 
 ⚠️ La columna «Etiqueta» es una **propuesta**: el inventario no dice qué etiqueta lleva cada hilo.
 
-| Hilo | Sitio (objeto real) | Personaje | Cabecera | Etiqueta |
+| Hilo | Sitio (objeto real) | Personaje (imagen) | Cabecera | Etiqueta |
 |---|---|---|---|---|
-| Cómo se entra | portal azul en una calle de Seúl, con una valla de la Asociación | Jinwoo novato (KV T1, abajo) | MISIÓN | Primeros pasos |
-| 📌 La guía, de un vistazo | plano del edificio en el vestíbulo de la Asociación | Jinwoo T2 (KV T2) | MAPA | Primeros pasos |
-| 📌 De qué va esto | despacho del presidente | Go Gunhee | NOTIFICACIÓN | Primeros pasos |
-| Los roles que se ganan | escalones del trono vacío, un rango por escalón (E→S) | Igris arrodillado | ASCENSO | Roles y zonas |
-| De dónde sale un rol | mostrador de reevaluación con el **cristal negro** | Jinwoo, mano en el cristal (ep. 16) | [Licencia de Cazador] | Roles y zonas |
-| Reuniones y eventos | sala de mando de la incursión de Jeju | Cha Hae-In | MISIÓN · OPERACIÓN | Si te atascas |
+| Cómo se entra | **portal azul dentro de una valla de obra de la Asociación**, con cinta amarilla (F·20, F·5, F·7) | **Song Chiyul presenta la incursión** («Hola a todos… ¡Entremos!», ep. 1 · 07:20) o Jinwoo novato (P·1) | MISIÓN | Primeros pasos |
+| 📌 La guía, de un vistazo | rascacielos de la Asociación al atardecer (F·13) con un plano en el vestíbulo | Jinwoo T2, **mano abierta a cámara** (P·3) | MAPA | Primeros pasos |
+| 📌 De qué va esto | despacho del presidente (de modelo, el despacho con sofás de F·12, que es el de Choi en el ep. 8) | Go Gunhee de pie, traje negro (P·22) | NOTIFICACIÓN | Primeros pasos |
+| Los roles que se ganan | escalones del trono vacío, un rango por escalón (E→S) | Igris arrodillado ([clip ep. 11 · 1:31][yt-papu-91]) | ASCENSO | Roles y zonas |
+| De dónde sale un rol | mostrador de reevaluación con el **cristal negro** (S·16) | Jinwoo, mano en el cristal (ep. 16 · 03:47) | [Licencia de Cazador] | Roles y zonas |
+| Reuniones y eventos | sala de mando de la incursión de Jeju; la isla en pantalla (F·10) | Cha Hae-In (P·17) | MISIÓN · OPERACIÓN | Si te atascas |
 | Lo que pasa en vivo | monitor de la cámara de prensa (ep. 22) | Jinah viendo a su hermano en la tele (ep. 19 · 07:45) | EN DIRECTO | Bots y comandos |
-| Los roles que te pones tú | cofre = INVENTARIO | Jinwoo equipándose | INVENTARIO | Roles y zonas |
-| El staff | sala de Supervisión de la Asociación | Woo Jinchul + Igris | NOTIFICACIÓN | Normas |
-| Cómo pedir algo | tablón con el cartel de reclutamiento (ep. 16 · 15:46) | Yoo Jinho («¿Qué hará usted, jefe?») | MISIÓN | Si te atascas |
-| Tus zonas: abre y cierra lo que veas | portales que se abren y cierran; Intercambio de sombras | Kaisel sobrevolando | HABILIDADES | Roles y zonas |
-| Los talentos | desfile del ejército de sombras | Beru, Tank, Colmillo, Iron | HABILIDADES | Doblaje |
-| Dónde se trabaja | puerta de la mazmorra con el equipo de ataque | Jinwoo y Jinho | NOTIFICACIÓN | Primeros pasos |
-| Lo que hay que leer | habitación del hospital (ep. 3) | Jinwoo leyendo su primera ventana | «El incumplimiento conlleva penalización» | Normas |
-
----
+| Los roles que te pones tú | **la tienda del Sistema sujeta como tableta** (S·7) y el cofre = INVENTARIO | Jinwoo eligiendo; botones CANCELAR · ACEPTAR (S·6) | INVENTARIO | Roles y zonas |
+| El staff | sala de Supervisión de la Asociación (S·15) | Woo Jinchul (P·23) + Igris de guardaespaldas (P·20) | NOTIFICACIÓN | Normas |
+| Cómo pedir algo | **el móvil con el aviso de la Asociación** (S·9) o el tablón con el cartel de reclutamiento (ep. 16 · 15:46) | Yoo Jinho con su mochila (P·21; «¿Qué hará usted, jefe?») | AVISO | Si te atascas |
+| Tus zonas: abre y cierra lo que veas | portales que se abren y cierran (F·6, F·9); Intercambio de sombras | Kaisel sobrevolando (P·13) | HABILIDADES | Roles y zonas |
+| Los talentos | desfile del ejército de sombras (ED T2 · 0:49) | Beru, Tank, Colmillo, Iron (P·14-16) | HABILIDADES | Doblaje |
+| Dónde se trabaja | puerta de la mazmorra con el equipo de ataque (F·17), pasillo de antorchas (F·3) | Jinwoo y Jinho | NOTIFICACIÓN | Primeros pasos |
+| Lo que hay que leer | habitación del hospital (ep. 3, F·14) | Jinwoo leyendo su primera ventana (S·1) | «ADVERTENCIA: …» con la palabra en rojo | Normas |
 
 ## 20 · Tres conceptos de lámina
 
 ### Concepto A · «El mostrador de registro de la Asociación»
-- **Objeto real y sitio:** el **mostrador de reevaluación** de la Asociación de Cazadores. Sobre la mesa, el **cristal negro** medidor sobre su peana (ep. 16 · 03:47, «Ponga la mano sobre ese cristal negro») y una **licencia de cazador** de plástico. Detrás, una mampara de cristal. Todo modelable en Blender: mesa, esfera, tarjeta y mampara.
-- **Personaje:** Jinwoo T2, de pie, con la mano abierta sobre el cristal. Pose: KV T2 para la cara y el perfil, ep. 16 para la acción. Detrás, fuera de foco, un funcionario de la Asociación.
-- **Cómo habla:** la ventana del Sistema **sale del cristal** como lectura del medidor. Cabecera en Nunito Black: «NOTIFICACIÓN». Texto en Lato. Rangos en Exo 2 entre corchetes: [E] → [S]. El comentario de Jinwoo va en cursiva, sin globo, junto a su hombro: «Aquí te registras. Luego, a subir.»
+- **Objeto real y sitio:** el **mostrador de reevaluación** de la Asociación de Cazadores. Sobre la mesa, el **cristal negro** medidor sobre su peana (ep. 16 · 03:47, «Ponga la mano sobre ese cristal negro») y una **licencia de cazador** de plástico. Detrás, una mampara de cristal. Todo en Blender, **con modelos CC BY comprobados** (§11): [Reception Desk][sk-desk] (Yvonne DeBandi), [Crystal Ball][sk-crystal] (Randall_3D, teñida de negro), [ID Card Model][sk-idcard] (Johana-PS). La oficina real se ve en S·15-16: madera, fluorescentes, gente de traje.
+- **Personaje:** Jinwoo T2, de pie, con la mano abierta sobre el cristal. **Pose: el CV de la T2 (P·3)**, que ya tiene la mano abierta hacia delante; la cara, de la KV T2. Detrás, fuera de foco, **un funcionario con papeles (S·15)**.
+- **Cómo habla:** la ventana del Sistema **sale del cristal** como lectura del medidor, **igual que la de S·10**: panel `#112A39`, esquinas de circuito `#82F3FA`, barra de luz arriba, cabecera «NOTIFICACIÓN» en su recuadro y el «!» en otro. Cabecera en Nunito Black (o Michroma). Texto en Lato. Rangos en Exo 2, **en negrita cursiva y entre corchetes**: ***[E]*** → ***[S]***. El comentario de Jinwoo va en cursiva, sin globo, junto a su hombro: «Aquí te registras. Luego, a subir.»
 - **Dónde va cada texto:**
   - **Título del hilo** en la cabecera de la ventana.
   - **Pasos** como líneas de la ventana (1, 2, 3).
   - **Etiqueta del hilo** impresa en la licencia de cazador.
-  - Aviso de **normas** en el cartel de la mampara.
-- **Para que no quede plano:** la esfera ilumina desde abajo la cara y la mano de Jinwoo (cian `#89BAD3`). La mampara de cristal va **delante**, con reflejos. En primer plano, desenfocada, una segunda licencia sobre la mesa.
+  - Aviso de **normas** en el cartel de la mampara, con la palabra clave en **rojo `#9F205C`**.
+- **Para que no quede plano:** la esfera ilumina desde abajo la cara y la mano de Jinwoo (cian `#89BAD3`). La mampara de cristal va **delante**, con reflejos. En primer plano, desenfocada, una segunda licencia sobre la mesa. La barra de luz de la ventana deja un reflejo en la madera del mostrador.
 - **Hilos que cubre:** Cómo se entra, De dónde sale un rol, Los roles que se ganan, Lo que hay que leer.
 
 ### Concepto B · «El tablón de misiones del vestíbulo»
-- **Objeto real y sitio:** un **tablón de corcho y pantalla** en el vestíbulo de la Asociación, con carteles oficiales como el de ep. 16 · 15:46 («Buscamos mineros para entrar al portal de rango A…»). Al fondo, por las cristaleras, la noche de Seúl. Se hace en Blender: corcho, papeles con chinchetas y una pantalla.
-- **Personaje:** **Cha Hae-In**, la secundaria más querida. Señala un cartel con la mano libre y lleva la espada envainada. Pose de su presentación en ep. 16 · 18:42-18:59 («la Bailarina»). ⚠️ Mirar ese fotograma para mano y mirada.
-- **Cómo habla:** el cartel que señala se «activa» y proyecta una ventana del Sistema **azul**, con cabecera «MISIÓN». Su frase va en una línea corta, en cursiva, estilo subtítulo: «Apúntate aquí. Sal a tiempo.» Es su tono directo del ep. 17.
+- **Objeto real y sitio:** un **tablón de corcho y pantalla** en el vestíbulo de la Asociación, con carteles oficiales como el de ep. 16 · 15:46 («Buscamos mineros para entrar al portal de rango A…»). Al fondo, por las cristaleras, el rascacielos al atardecer (F·13) o la noche de Seúl. Se hace en Blender con [Bulletin Boards + Geometry Nodes][sk-board] (CC BY) y corcho [Cork 004][acg-cork] (CC0). **Variante más fiel:** en vez del tablón, **el móvil con el aviso de la Asociación** (S·9: «From: Hunter's Association · Urgent: Request to Participate…» con los botones Clear | View), en grande, sujeto por una mano.
+- **Personaje:** **Cha Hae-In**, la secundaria más querida. **Rubia, uniforme rojo `#BC2B47` y blanco, espada negra** (no armadura clara: eso era un error de la primera pasada). Pose: **la del render de cazadora (P·18)**, de pie con la espada baja, girada hacia el tablón; o **desenvainando (P·17)** si el hilo avisa de algo. Luz de perfil como en P·19.
+- **Cómo habla:** el cartel que señala se «activa» y proyecta una ventana del Sistema **azul**, con cabecera «MISIÓN». Su frase va en una línea corta, en cursiva, estilo subtítulo, **y de usted**, como habla en el doblaje («Pensé que debería saberlo»): «Apúntese aquí. Salga a tiempo.»
 - **Dónde va cada texto:**
   - **Eventos** = carteles del tablón, uno por evento.
   - **Horarios** en la pantalla.
-  - **Cómo pedir algo** en la ventana.
+  - **Cómo pedir algo** en la ventana (o en la tarjeta del móvil, en la variante).
   - **Etiquetas** como chinchetas de colores.
 - **Para que no quede plano:** papeles sueltos en primer plano, desenfocados. Luz fría del monitor en su perfil y reflejo de la ciudad en el cristal del fondo.
 - **Hilos que cubre:** Reuniones y eventos, Lo que pasa en vivo, Cómo pedir algo, Dónde se trabaja.
 
 ### Concepto C · «El salón del trono vacío»
-- **Objeto real y sitio:** el **salón del trono vacío** de Igris (ep. 11-12). Base en Blender: [Throne Room][sk-throne] (CC BY 4.0). Los **escalones del estrado** llevan grabados los grados de las sombras: Soldado → Élite → Caballero → Caballero de élite → General. Así cada rol del servidor es un escalón.
-- **Personaje:** **Igris arrodillado** ante Jinwoo, con la espada clavada en el suelo ([modelo de missafe][sk-igris], CC BY 4.0, para posarlo). Jinwoo de pie en el escalón alto, de espaldas a medias. Pose del discurso del ep. 12 · 20:00-20:25.
-- **Cómo habla:** ventana **violeta Monarca** (`#9229F9` / `#ED77F3`) proyectada sobre el respaldo del trono. Cabecera «ASCENSO». Igris no habla: su «texto» es el nombre del rol en su placa, entre corchetes: [Igris · Caballero de élite]. Jinwoo cierra con una sola palabra grande: «Surge.»
+- **Objeto real y sitio:** el **salón del trono vacío** de Igris (ep. 11-12). **Base en Blender: [Hall of Blood-Red Commander Igris][sk-igrishall]** (Jp André, CC BY, hecho a propósito de este salón; antes proponía el [Throne Room][sk-throne] genérico). Los colores, medidos en el [clip del ep. 11 · 0:01][yt-papu-1]: columnas `#1E121B`-`#2C151D`, **alfombra roja `#6A232B`**, velas y lámparas doradas. Los **escalones del estrado** llevan grabados los grados de las sombras: Normal → Élite → Caballero → Caballero de élite → General → Mariscal ([wiki: Shadows][wiki-shadows] ✅). Así cada rol del servidor es un escalón.
+- **Personaje:** **Igris arrodillado**, ahora **sombra negra con líneas cian** en el salón donde antes fue rojo: el contraste cuenta su historia. Modelo para posarlo: [Igris de missafe][sk-igris] o [el de shrithik][sk-igris2] (CC BY). Espada: [Igris broadsword][sk-igrissword]. Jinwoo de pie en el escalón alto, **sudadera gris y daga baja, como en el [clip · 1:31][yt-papu-91]**, o con el abrigo de la T2 (P·2).
+- **Cómo habla:** ventana **violeta Monarca** (`#9229F9` / `#ED77F3`) proyectada sobre el respaldo del trono. Cabecera «ASCENSO». Igris no habla: su «texto» es el nombre del rol en su placa, en negrita cursiva y entre corchetes: ***[Igris · Caballero de élite]***. Jinwoo cierra con una sola palabra grande: «Surge.»
 - **Dónde va cada texto:**
   - **Rangos** en los escalones.
   - **Cómo se gana cada uno** en la ventana.
   - **Staff** en placas junto a Igris.
   - **Etiquetas** grabadas en las columnas.
-- **Para que no quede plano:** humo de sombras a ras de suelo, en cian. La **hoja de la espada de Igris en primer plano**, cortando el cuadro. Contraluz violeta desde el trono y antorchas cálidas a los lados, frías contra calientes.
+- **Para que no quede plano:** humo de sombras a ras de suelo, en cian. La **hoja de la espada de Igris en primer plano**, cortando el cuadro. Contraluz violeta desde el trono y velas cálidas a los lados, frías contra calientes.
 - **Hilos que cubre:** Los roles que se ganan, Los roles que te pones tú, El staff, Los talentos.
 
 ### Lámina 2 (si no cabe)
-- **«Los talentos»:** desfile de sombras con nombre (Beru, Tank, Colmillo, Kaisel, Iron), cada una con su ficha [Nombre Nv.]. Beru al frente, presumiendo de su rey.
-- **«Normas»:** los **mandamientos grabados** del templo de Cartenon (ep. 2 · 01:10: «First, worship the God. Second, praise the God…») convertidos en las normas del servidor. Es piedra tallada: no hace falta globo.
+- **«Los talentos»:** desfile de sombras con nombre (Beru, Tank, Colmillo, Kaisel, Iron), cada una con su ficha [Nombre Nv.], usando sus visuales oficiales (P·13-16). **Beru al frente, arrodillado, con su frase del doblaje: «Mi rey… concédame un nombre.»** Fondo: el palacio blanco del ending T2 (ED · 0:49), con el ejército en fila.
+- **«Normas»:** los **mandamientos grabados** del templo de Cartenon (ep. 2 · 01:10: «First, worship the God. Second, praise the God…») convertidos en las normas del servidor, **bajo la estatua del Dios sonriendo** (F·1, 3840×2160) en la sala del anillo de luces azules (F·2). Es piedra tallada: no hace falta globo. El castigo, en una ventana roja: «ADVERTENCIA: no cumplir la norma…» (como en el [clip del ep. 6 · 0:07][yt-clip6-7]).
 
 ---
 
 ## 21 · Lo que no pude verificar
 
-- **Frases del audio doblado al latino:** solo tengo los subtítulos latinos de la T2 (Crunchyroll), no el guion del doblaje.
-- **Voz latina de Beru** (Daniel Lacy): una sola fuente (MAL).
-- **Fotogramas:** ningún fotograma visto. Las posturas exactas marcadas con ⚠️ hay que mirarlas en el vídeo.
-- **Beru:** no reuní 6 fotogramas con minuto; faltan los subtítulos del ep. 24.
-- **La ventana azul de la T1:** no la medí yo (sin capturas). Los hex de la ventana son de la guía del repo.
-- **Licencias de Sketchfab:** vistas en un README ajeno, no en Sketchfab.
-- **Fan art y fondos de fans** (Pixiv, ArtStation, DeviantArt), **TV Tropes**, **The Cutting Room Floor**, **Wayback Machine**, **Reddit** y **Game UI Database:** bloqueados o sin cupo de búsqueda.
-- **Texturas concretas** de Poly Haven o ambientCG: sin enlace, no pude abrirlas.
+Tras la segunda pasada quedan:
+- **Si el doblaje dice «Surge» o «Levántate»** en los «Arise»: YouTube no deja bajar el audio de los clips y Doblaje Wiki no tiene muestra de esas escenas. Todo apunta a «Surge» (título de la T2 y la marca de Crunchyroll LA), pero no lo oí.
+- **Varias frases del doblaje** salen de un reconocimiento de voz automático (Whisper) sobre muestras de 30 s: el sentido está cruzado con subtítulos, pero **alguna palabra puede estar mal**. Antes de rotularlas, escúchalas en la [página de Doblaje Wiki][dw] (tiene reproductor).
+- **El gesto exacto del primer «Arise»** (ep. 12 · 17:39) y **el minuto en que Igris se arrodilla**: no hay clip oficial de esa escena en YouTube y la wiki sólo tiene la captura de la extracción.
+- **Fotogramas grandes de los clips:** los *storyboards* son de 320×180. Sirven para mirar, no para recortar. Para recortar, las capturas de la wiki (§10.0) o el vídeo en Crunchyroll.
+- **Interfaz del juego ARISE:** Game UI Database y The Cutting Room Floor siguen en 403.
+- **TV Tropes:** 403 (Cloudflare).
+- **TikTok** (reto de la misión diaria, «Who's my king»): no lo abrí.
+- **Pixiv y ArtStation:** no probados (DeviantArt y Reddit sí).
 - **Descripción del canal:** está cortada en el inventario.
+- **Letras de la ventana** (Trueno Round, Circe Rounded, Caros Soft, Eternal): nadie oficial dice cuáles son; sólo fans.
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial, en cantidad y variado | ✅ | 1613 imágenes de la wiki revisadas; 60 escogidas en 3 hojas (KV, CV, cuentas atrás, renders, visuales de sombras) (§10) |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ✅ | capturas de la wiki (S·, F·) y *storyboards* de 8 vídeos con minuto y `&t=` (§7, §14). Sólo 320×180 en los clips |
+| 3 · Fan art y 3D con licencia | ✅ | 18 modelos de Sketchfab con licencia por API; fan art de Reddit y DeviantArt con autor (§11) |
+| 4 · Fondos y sitios, luz, paleta, texturas | ✅ | 16 sitios con luz y hex medidos; texturas CC0 con enlace (§9) |
+| 5 · Tipografía con tildes | ✅ | 20 letras comprobadas con fontTools (§5). Falta: la letra real de la ventana no es pública |
+| 6 · Cómo hablan en pantalla | ✅ | la ventana del Sistema medida en 10 capturas, carteles latinos, pensamientos en cursiva, el móvil de la Asociación (§4) |
+| 7 · Personajes y popularidad | ✅ | encuestas de MAL, Nlab, Dengeki, Crunchyroll, Anime!Anime! y Reddit (§3) |
+| 8 · Doblaje latino, dos fuentes | ✅ | 21 personajes; 17 con dos fuentes. Frases textuales de 12 muestras de audio (§12). Falta: oír si dice «Surge» |
+| 9 · Música | ✅ | OP, ED e inserciones con capítulo, confirmadas en la wiki (§13). Falta: oír el audio |
+| 10 · Vídeos con minuto | ✅ | 21 vídeos comprobados; 8 mirados fotograma a fotograma (§14). Falta: TikTok |
+| 11 · Videojuegos: interfaz y cajas | ⚠️ | fechas y formato confirmados; la interfaz no se pudo medir (Game UI Database y TCRF en 403) (§15) |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Reddit por Arctic Shift, memes, chistes internos (§16-17) |
+| 13 · Descripción profunda y forma de hablar | ✅ | carácter de la wiki y frases del doblaje por personaje (§6, §12.3) |
+| 14 · Poses analizadas (6-10 por personaje) | ✅ | Jinwoo 14, Igris 9, Beru 6, Cha Hae-In 8, con minuto o número de hoja (§7) |
+| 15 · Vestuario con hex | ✅ | medido en CV, renders y clips (§8) |
+| 16 · Paisajes y fondos de pantalla con tamaño y autor | ✅ | visuales oficiales 1920×1080 y fondos de fans de DeviantArt con autor y tamaño (§10.1) |
+| 17 · Guía para IA | ✅ | rasgos fijos, paleta medida, palabras, qué hoja usar (§18) |
+| 3 conceptos de lámina | ✅ | actualizados con las imágenes y los modelos nuevos (§20) |
+| 40 fuentes distintas | ✅ | 336 enlaces de 76 sitios distintos (lista de Fuentes) |
+| Tipos de fuente: oficiales | ✅ | Aniplex, web oficial, Crunchyroll, entrevista de Cocotame (Sony Music) |
+| Tipos de fuente: otros idiomas | ✅ | japonés (Aniplex, Natalie, Cocotame), coreano (namu.wiki, prensa), vietnamita (subtítulos) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki sí; TV Tropes, TCRF y Wayback fallaron (403 y conexión cortada) |
+| Tipos de fuente: foros | ✅ | Reddit por Arctic Shift |
+| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | DeviantArt sí (RSS); Pixiv y ArtStation no |
+| Tipos de fuente: vídeo con minuto | ✅ | YouTube por yt-dlp y *storyboards* |
+| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas), Sketchfab, Poly Haven, ambientCG, Google Fonts |
+| Tipos de fuente: doblaje latino | ✅ | Doblaje Wiki (API y audios), ANMTV, TVLaint, Infobae, IGN Latinoamérica |
+| Hojas de contacto | ✅ | 3 hojas propias en `hojas/`, miradas, con tabla y enlaces (§10.0) |
+| `referencias.json` (20-40, medidas) | ✅ | 40 entradas; todas las imágenes con ancho y alto medidos |
 
 ---
 
 ## Bitácora de búsqueda
+
+### Primera pasada (24-sep-2026, red cerrada)
 
 **Red:** `curl community.fandom.com` → 000 (403 del proxy). Respondían solo `raw.githubusercontent.com`, la API de GitLab, PyPI y el MCP de GitHub. WebFetch estaba bloqueado (Infobae y Wikipedia dieron EGRESS_BLOCKED).
 
@@ -633,7 +983,7 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 - web oficial ([anime-web-scraper][scraper]) y KV ([ACGNTaiwan][kv1]);
 - modelos de Sketchfab ([codeonym][codeonym]); fuentes (`google/fonts`, comprobadas con fontTools).
 
-**No encontré:**
+**No encontré (primera pasada; revisado abajo):**
 - el actor latino de Beru en dos fuentes;
 - frases del audio latino;
 - fan art con autor;
@@ -643,11 +993,46 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 - hilos de Reddit;
 - texturas concretas.
 
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+**Herramientas y lo que dieron:**
+- `investigar_serie.py` × 3 sobre `solo-leveling.fandom.com` (personajes, sitios, 25 episodios): 1613 imágenes, 36 hojas. Montaje propio de 3 hojas con Pillow (`hojas.py` en mi carpeta de trabajo).
+- API de la wiki: texto de 30 páginas (System, Shadows, Igris, Cha Hae-In, Beru, Korean Hunters Association, Woo Jinchul, episodios 3, 12, 13, 16, 18, 19, 21, 24, 25, DARK ARIA, 4eVR, SHADOWBORN, UN-APEX, Solo Leveling: ARISE, Original Soundtracks…) y búsqueda de texto (`srwhat=text`) para las canciones.
+- **Doblaje Wiki (API):** «Solo Leveling» y «Solo Leveling: Segundo despertar»; 60 muestras de audio listadas, 15 bajadas y transcritas con **faster-whisper** (modelo *small*, instalado en un entorno aparte de mi carpeta de trabajo).
+- **yt-dlp** (cliente `mweb`): 21 vídeos con título, canal, fecha y visitas; búsquedas `ytsearch` en español, inglés y japonés («ノンクレジットオープニング»). Ningún vídeo tenía subtítulos. `fotogramas.py` falló («Sign in to confirm you're not a bot»); usé los *storyboards* (`sb.py`, en mi carpeta de trabajo).
+- **Subtítulos de GitHub:** Netflix inglés T1 (12 episodios), Crunchyroll latino y en inglés de la T2 (ep. 13-22) y vietnamita de la T2 (ep. 23-25, por un clon parcial de `Senki3567/Drive`).
+- **Sketchfab API:** 7 licencias comprobadas y 12 búsquedas («solo leveling», «igris», «crystal ball stand», «reception desk», «notice board cork», «magic portal», «ID card»…).
+- **Poly Haven y ambientCG (API):** texturas CC0.
+- **fontTools:** 12 letras de Google Fonts y «Solo Level» de dafont.
+- **Arctic Shift:** la búsqueda por texto dio «Timeout»; por fechas (29-31 mar-2025, tras el final de la T2) sí respondió.
+- **DeviantArt:** su RSS público (`backend.deviantart.com/rss.xml`) con «solo leveling igris» y «solo leveling wallpaper».
+- **Webs que antes daban 403 y ahora no:** ANMTV (3 artículos), TVLaint, CBR, Cocotame.
+- **Colores:** Pillow sobre capturas de la wiki, CV oficiales y *storyboards* (mediana o paleta por cuantización; se dice de cuál en cada hex).
+
+**Búsquedas web (2 de ~50):**
+- Español: «Solo Leveling doblaje latino Jinwoo "Levántate" o "Surge" frase Igris» → sólo un fandub y la marca «SURGE» de Crunchyroll LA.
+- Japonés: «俺だけレベルアップな件 アニメ インタビュー システム画面 モーショングラフィックス 大城丈宗» → la entrevista de Cocotame a los productores (hablan de La Mole 2024 en México y de CCXP en Brasil); ninguna entrevista sobre el diseño de la ventana.
+
+**Siguen cerrados o fallan:** Game UI Database, TV Tropes y The Cutting Room Floor (403 de Cloudflare); Wayback Machine (conexión cortada, 2 intentos); Bilibili (412); noticias de Crunchyroll (sólo JavaScript); descarga de vídeo y audio de YouTube.
+
+**Los «no encontré» de la primera pasada, revisados:**
+- el actor latino de Beru en dos fuentes → **encontrado** (Doblaje Wiki + MAL);
+- frases del audio latino → **encontradas** (muestras de Doblaje Wiki);
+- fan art con autor → **encontrado** (Reddit, DeviantArt);
+- hilos de Reddit → **encontrados** (Arctic Shift);
+- texturas concretas → **encontradas** (Poly Haven, ambientCG);
+- interfaz del juego medida → sigue sin encontrar (403);
+- entrevistas japonesas al staff sobre el Sistema → sigue sin encontrar: sólo la ficha (Production I.G hace los gráficos en movimiento) y la entrevista de producción;
+- TV Tropes, TCRF y Wayback → siguen fallando.
+
+**Marcas de duda:** había **55** al empezar. Quedan **36** con `grep` (31 de datos; 5 de la leyenda, el resumen del principio y la tabla de cumplimiento). Los que quedan son, sobre todo: datos con una sola fuente (grabación y mezcla de la T2, Esil, Iron), frases del doblaje sacadas por reconocimiento de voz, lo que no se pudo oír («Surge», la música), la interfaz del juego y las letras comerciales que citan los fans.
+
 ---
 
 ## Fuentes
 
-**143 enlaces distintos de 67 sitios**, citados arriba en cada dato. Aquí están sus direcciones: en la vista de lectura no se ven, pero en el editor sí.
+**336 enlaces distintos de 76 sitios** (143 de la primera pasada; el resto, de la segunda), citados arriba en cada dato. Aquí están sus direcciones: en la vista de lectura no se ven, pero en el editor sí.
 
 [wp]: https://en.wikipedia.org/wiki/Solo_Leveling
 [wp-s1]: https://en.wikipedia.org/wiki/Solo_Leveling_season_1
@@ -759,8 +1144,8 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 [yt-clip6]: https://www.youtube.com/watch?v=Vzyw9z9F57M
 [yt-react]: https://www.youtube.com/watch?v=ypDDBqRB02U
 [yt-od]: https://www.youtube.com/watch?v=K4aM0pBmcrk
-[yt-tr1]: https://www.youtube-nocookie.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1
-[yt-tr2]: https://www.youtube-nocookie.com/embed/GDMXGzjJzS4?enablejsapi=1&wmode=opaque&autoplay=1
+[yt-tr1]: https://www.youtube.com/watch?v=1kQwjK4rGYg
+[yt-tr2]: https://www.youtube.com/watch?v=GDMXGzjJzS4
 [animecorner]: https://animecorner.me/akira-ishida-joins-solo-leveling-voice-cast-as-ant-king-beru/
 [dengeki-vote]: https://dengekionline.com/articles/224920/
 [dengeki-res]: https://dengekionline.com/article/202404/2389
@@ -792,3 +1177,132 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 [arata2]: https://arata.lat/el-doblaje-en-espanol-de-solo-leveling-surge-desde-las-sombras-estrena-su-temporada-2-en-crunchyroll/
 [droidetv]: https://www.droidetv.com/post/solo-leveling-surge-desde-las-sombras-temporada-2-con-doblaje-en-espa%C3%B1ol-en-crunchyroll
 [wiki-ep3]: https://solo-leveling.fandom.com/wiki/Episode_3
+
+**Enlaces añadidos en la segunda pasada:**
+
+[dw-film]: https://doblaje.fandom.com/es/wiki/Solo_Leveling:_Segundo_despertar
+[dw-baek]: https://static.wikia.nocookie.net/doblaje/images/0/0b/Baek_Yoonho_%28Audio%29_Solo_Leveling.ogg
+[dw-beru-sombra]: https://static.wikia.nocookie.net/doblaje/images/5/57/Beru_%28Sombra%29_%28Audio%29_Solo_Leveling.ogg
+[dw-beru-trans]: https://static.wikia.nocookie.net/doblaje/images/e/ed/Beru_%28Transformaci%C3%B3n%29_%28Audio%29_Solo_Leveling.ogg
+[dw-cha]: https://static.wikia.nocookie.net/doblaje/images/9/96/Cha_Hae-In_%28Audio%29_Solo_Leveling.ogg
+[dw-chiyul]: https://static.wikia.nocookie.net/doblaje/images/f/f3/Song_Chiyul_%28Audio%29_Solo_Leveling.ogg
+[dw-choi]: https://static.wikia.nocookie.net/doblaje/images/7/7b/Choi_Jong-In_%28Audio%29_Solo_Leveling.ogg
+[dw-gunhee]: https://static.wikia.nocookie.net/doblaje/images/3/3d/Go_Gunhee_%28Audio%29_Solo_Leveling.ogg
+[dw-jinah]: https://static.wikia.nocookie.net/doblaje/images/5/5b/Sung_Jinah_%28Audio%29_Solo_Leveling.ogg
+[dw-jinchul]: https://static.wikia.nocookie.net/doblaje/images/0/0d/Woo_Jinchul_%28Audio%29_Solo_Leveling.ogg
+[dw-jinho]: https://static.wikia.nocookie.net/doblaje/images/b/bf/Yoo_Jinho_%28Audio%29_Solo_Leveling.ogg
+[dw-jinwoo-b]: https://static.wikia.nocookie.net/doblaje/images/0/08/Sung_Jinwoo_%28Rango_B%29_%28Audio%29_Solo_Leveling.ogg
+[dw-jinwoo-e]: https://static.wikia.nocookie.net/doblaje/images/2/27/Sung_Jinwoo_%28Rango_E%29_%28Audio%29_Solo_Leveling.ogg
+[wiki-shadows]: https://solo-leveling.fandom.com/wiki/Shadows
+[wiki-igris]: https://solo-leveling.fandom.com/wiki/Igris
+[wiki-cha]: https://solo-leveling.fandom.com/wiki/Cha_Hae-In
+[wiki-jinchul]: https://solo-leveling.fandom.com/wiki/Woo_Jinchul
+[wiki-arise]: https://solo-leveling.fandom.com/wiki/Solo_Leveling:_ARISE
+[wiki-darkaria]: https://solo-leveling.fandom.com/wiki/DARK_ARIA
+[wiki-4evr]: https://solo-leveling.fandom.com/wiki/4eVR
+[wiki-shadowborn]: https://solo-leveling.fandom.com/wiki/SHADOWBORN
+[wiki-ep21]: https://solo-leveling.fandom.com/wiki/Episode_21
+[wiki-ost]: https://solo-leveling.fandom.com/wiki/Original_Soundtracks
+[wiki-aleks]: https://solo-leveling.fandom.com/wiki/File:Aleks_Le_Sung_Jinwoo%27s_English_voice_actor%27s_signature_and_drawing.webp
+[w-p001]: https://static.wikia.nocookie.net/solo-leveling/images/a/a9/Igris_2.jpg
+[w-p002]: https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Igris_1.jpg
+[w-p003]: https://static.wikia.nocookie.net/solo-leveling/images/2/23/Season_2_anime_Sung_Jinwoo_illustration.jpg
+[w-p250]: https://static.wikia.nocookie.net/solo-leveling/images/d/de/Anime_Episode_12_Jinwoo_extracts_Igris_shadow.png
+[w-p262]: https://static.wikia.nocookie.net/solo-leveling/images/3/34/Anime_Episode_1_Screenshot_1.png
+[w-e593]: https://static.wikia.nocookie.net/solo-leveling/images/e/e4/Solo_Leveling_Anime_Episode_19_Img_1.jpg
+[w-o188]: https://static.wikia.nocookie.net/solo-leveling/images/0/0e/Anime_Season_2_large_visual_1.png
+[w-o262]: https://static.wikia.nocookie.net/solo-leveling/images/4/47/Anime_Season_1_Large_Visual_2.jpg
+[nf05]: https://raw.githubusercontent.com/foxofice/sub_share/master/subs_list/animation/2024/%282024.1.6%29%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7%20S1/BD/Netflix/en/Ore%20dake%20Level%20Up%20na%20Ken%20-05.Netflix.en.srt
+[nf08]: https://raw.githubusercontent.com/foxofice/sub_share/master/subs_list/animation/2024/%282024.1.6%29%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7%20S1/BD/Netflix/en/Ore%20dake%20Level%20Up%20na%20Ken%20-08.Netflix.en.srt
+[vi24]: https://raw.githubusercontent.com/Senki3567/Drive/main/Crunchyroll/Solo%20Leveling/Solo%20Leveling%20Season%202%20-Arise%20from%20the%20Shadow-/24%20-%20Are%20You%20the%20King%20of%20Humans.vi-VN.ass
+[sk-igrishall]: https://sketchfab.com/3d-models/a3ac78d429f04340937af8e365f4de32
+[sk-igris2]: https://sketchfab.com/3d-models/98c049a047da440b80a45f29f574dc09
+[sk-igrissword]: https://sketchfab.com/3d-models/a915a103299a4613b2235b548a90f81f
+[sk-igrisboss]: https://sketchfab.com/3d-models/ec6c37cb8d31456ea7acaf1a443a73aa
+[sk-cha]: https://sketchfab.com/3d-models/b07a938c74a84bfe8caab58a97e3b305
+[sk-dagger]: https://sketchfab.com/3d-models/bae21ff0300b43b494a9629f048e2f50
+[sk-shadowdagger]: https://sketchfab.com/3d-models/104847cbdc2b469687893443a6d12552
+[sk-crystal]: https://sketchfab.com/3d-models/30618a3f909a4376af013a1d1de1cbba
+[sk-desk]: https://sketchfab.com/3d-models/d23cfdf8128345d7b886ebb9affad2e8
+[sk-idcard]: https://sketchfab.com/3d-models/5addf1256a404b7a82c380bb2d22f186
+[sk-board]: https://sketchfab.com/3d-models/4e2609119dfa478d8b0337b049050d7c
+[sk-portal]: https://sketchfab.com/3d-models/50f5030139de4d94a5adcfe90c0ba1ac
+[ph-api]: https://api.polyhaven.com/assets?t=textures
+[acg-api]: https://ambientcg.com/api/v2/full_json?type=Material&q=Cork
+[acg-cork]: https://ambientcg.com/a/Cork004
+[as-sl]: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=sololeveling&after=2025-03-29&before=2025-03-31&limit=100
+[rd-richyuki]: https://www.reddit.com/r/sololeveling/comments/1jni1q7/
+[rd-shadows]: https://i.redd.it/lgiu97zbuure1.jpeg
+[rd-kanno]: https://i.redd.it/flyseada0ure1.jpeg
+[x-richyuki]: https://x.com/RichyukiYuki/status/1906344318106792372
+[da-favorisxp]: https://www.deviantart.com/favorisxp/art/Solo-Leveling-%28Sung-Jin-Woo%29-Animated-Wallpaper-1182239456
+[da-renacars]: https://www.deviantart.com/renacars/art/Wallpaper-%28Solo-Leveling%29-1280965951
+[da-antractos]: https://www.deviantart.com/antractos/art/Solo-Leveling%3A-Sung-Jinwoo-Cold-Mask-Wallpaper-1362311417
+[da-wespion]: https://www.deviantart.com/wespion9/art/Son-Jin-Woo-and-Igris---Solo-Leveling-1368144060
+[cocotame]: https://cocotame.jp/series/109911/
+[yt-beyond]: https://www.youtube.com/watch?v=J4XD23c8Of8
+[variety-beyond]: https://variety.com/2026/film/news/solo-leveling-movie-beyond-the-system-in-production-1236801606/
+[yt-bts]: https://www.youtube.com/watch?v=eagTHK8pMBs
+[yt-fm-infobae]: https://www.youtube.com/watch?v=UB85ukGDcVA
+[yt-fm-pratz]: https://www.youtube.com/watch?v=PkoPI1GVY-c
+[yt-leyenda]: https://www.youtube.com/watch?v=kiK2C0PwDcw
+[yt-tr-es-2023]: https://www.youtube.com/watch?v=Kjta12rmtkA
+[yt-op1-aniplex]: https://www.youtube.com/watch?v=9KBl_UurkEc
+[yt-op2-aniplex]: https://www.youtube.com/watch?v=sgnYEfM7U2U
+[yt-op1]: https://www.youtube.com/watch?v=XqD0oCHLIF8
+[yt-op1-1]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=1
+[yt-op1-5]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=5
+[yt-op1-9]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=9
+[yt-op1-11]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=11
+[yt-op1-25]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=25
+[yt-op1-43]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=43
+[yt-op1-54]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=54
+[yt-op1-66]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=66
+[yt-op1-82]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=82
+[yt-op1-84]: https://www.youtube.com/watch?v=XqD0oCHLIF8&t=84
+[yt-ed2]: https://www.youtube.com/watch?v=KxeHOxO3A3I
+[yt-ed2-5]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=5
+[yt-ed2-11]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=11
+[yt-ed2-17]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=17
+[yt-ed2-37]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=37
+[yt-ed2-47]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=47
+[yt-ed2-84]: https://www.youtube.com/watch?v=KxeHOxO3A3I&t=84
+[yt-trailer]: https://www.youtube.com/watch?v=dR7DW4ykE8k
+[yt-trailer-3]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=3
+[yt-trailer-31]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=31
+[yt-trailer-39]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=39
+[yt-trailer-58]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=58
+[yt-trailer-70]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=70
+[yt-trailer-89]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=89
+[yt-trailer-129]: https://www.youtube.com/watch?v=dR7DW4ykE8k&t=129
+[yt-clip6-7]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=7
+[yt-clip6-21]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=21
+[yt-clip6-25]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=25
+[yt-clip6-27]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=27
+[yt-clip6-46]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=46
+[yt-clip6-66]: https://www.youtube.com/watch?v=Vzyw9z9F57M&t=66
+[yt-papu]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY
+[yt-papu-1]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=1
+[yt-papu-3]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=3
+[yt-papu-11]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=11
+[yt-papu-27]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=27
+[yt-papu-55]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=55
+[yt-papu-89]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=89
+[yt-papu-91]: https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=91
+[yt-templo]: https://www.youtube.com/watch?v=-O5dX2OdHl0
+[yt-templo-3]: https://www.youtube.com/watch?v=-O5dX2OdHl0&t=3
+[yt-templo-7]: https://www.youtube.com/watch?v=-O5dX2OdHl0&t=7
+[yt-templo-37]: https://www.youtube.com/watch?v=-O5dX2OdHl0&t=37
+[yt-templo-79]: https://www.youtube.com/watch?v=-O5dX2OdHl0&t=79
+[yt-ant]: https://www.youtube.com/watch?v=W2PxXsVM_pY
+[yt-ant-19]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=19
+[yt-ant-98]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=98
+[yt-ant-157]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=157
+[yt-ant-196]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=196
+[yt-ant-492]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=492
+[yt-ant-551]: https://www.youtube.com/watch?v=W2PxXsVM_pY&t=551
+[yt-eresfuerte]: https://www.youtube.com/watch?v=ZHlnSNDpvQs
+[yt-eresfuerte-17]: https://www.youtube.com/watch?v=ZHlnSNDpvQs&t=17
+[yt-eresfuerte-53]: https://www.youtube.com/watch?v=ZHlnSNDpvQs&t=53
+[yt-react-80]: https://www.youtube.com/watch?v=ypDDBqRB02U&t=80
+[yt-react-444]: https://www.youtube.com/watch?v=ypDDBqRB02U&t=444
