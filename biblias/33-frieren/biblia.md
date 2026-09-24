@@ -150,7 +150,7 @@ Episodios: **T1** = temporada 1 (eps. 1-28, sep-2023 a mar-2024).
 
 ### 2.2 Tres escenas para cada lámina posible
 
-- **Para una sala de reunión** (§0): la **fogata** del grupo de Himmel
+- **Para una sala de reunión**: la **fogata** del grupo de Himmel
   (T1-01, «The Hero Party camping», fotograma 653 de la wiki) y los tres en
   la colina al **atardecer violeta** (PV2 de la T2, 0:46).
 - **Para un canal de presentaciones o de aspirantes**: el **examen**
@@ -986,7 +986,7 @@ oídas, pero la idea y el minuto son fiables.)
 |---|---|---|---|
 | [When Frieren broke a rule to make a better story](https://www.youtube.com/watch?v=0GSZpZGZK44) | pey talks anime | 2,79 M | por qué la serie no es «otro shōnen» |
 | [Frieren Changed Me For The Better.](https://www.youtube.com/watch?v=FJ8-7LXa-8A) | Gigguk | 1,25 M | el análisis inglés más visto |
-| [Frieren's mage exam is way more interesting than it seems](https://www.youtube.com/watch?v=ome2N6iYajE) | pey talks anime | 466 k | el examen (útil para la lámina de reto, §19) |
+| [Frieren's mage exam is way more interesting than it seems](https://www.youtube.com/watch?v=ome2N6iYajE) | pey talks anime | 466 k | el examen (útil para una lámina de reto o de examen) |
 | [Frieren: El ANIME que CURÓ MI ALMA](https://www.youtube.com/watch?v=NTJJ8gYwkDc) | Me Dicen Dai | 368 k | el tono emocional, en español |
 | [10 CLICHÉS QUE ROMPE 'FRIEREN'](https://www.youtube.com/watch?v=G0VYW-bRzx4) | Djinn Sensei | 340 k | qué la hace distinta (para el «qué NO hacer») |
 | [Frieren: Comprendió el sentido de la vida…](https://www.youtube.com/watch?v=ouXENtHKNX4) | Agustin Pandolfelli | 294 k | resumen y análisis en español |
@@ -1739,17 +1739,17 @@ justo el tiempo de cada uno.
 | 6. Cómo hablan en pantalla | ✅ | §7: cartelas, títulos, etiquetas, guía oficial, grimorio, visto en 4 tráileres con minuto |
 | 7. Personajes y encuestas de popularidad | ✅ | §8, §9: 3 encuestas oficiales + recuento de un voto por persona; MAL, Reddit, confirmación coreana ⚠️ |
 | 8. Frases del doblaje latino y voces en dos fuentes | ✅ | §10: 29 voces, 27 con dos o tres fuentes; 13 frases textuales con vídeo y minuto. ⚠️ Linie con una fuente; la frase-meme de Himmel sin encontrar en latino |
-| 9. Música | ✅ | §11: 3 OP y 4 ED vistos por storyboard con minuto; OST con escenas. ⚠️ audio no oído |
+| 9. Música | ✅ | §11: 3 OP y 2 ED vistos por storyboard con minuto; OST con escenas. ⚠️ audio no oído; 2 ED especiales sin ver |
 | 10. Vídeos con minuto; tendencias de TikTok | ⚠️ | §12: tráileres, clips doblados y entrevistas con minuto. **TikTok no lo miré directamente** (sólo títulos de Dailymotion y Know Your Meme); los análisis de YouTube, sólo título y cifras |
 | 11. Videojuegos | ✅ | §13: no hay juego propio (buscado); 30 colaboraciones; ARISE y Mabinogi vistos. ⚠️ Monster Strike, P&D, Summoners War sin ver |
-| 12. Lo que ama el fandom y qué NO hacer | ✅ | §14: 11 memes con fuente y votos; 9 «no hacer» |
+| 12. Lo que ama el fandom y qué NO hacer | ✅ | §14: 12 memes con fuente y votos; 9 «no hacer» |
 | 13. Descripción profunda de cada personaje | ✅ | §8: Frieren, Fern, Stark, Himmel a fondo (carácter, miedos, cómo habla, ríe, se enfada, saluda, cuerpo) y 10 secundarios en tabla |
 | 14. Poses analizadas (6-10 por personaje) | ✅ | §15: **10-12 por personaje** (Frieren, Fern, Stark, Himmel), vistas una a una, con episodio, minuto aproximado y enlace; tabla de presentar / explicar / celebrar / regañar / pensar / animar |
 | 15. Vestuario con hex | ✅ | §16: hex medidos en hojas oficiales; ropa icónica, de invierno y de joven |
-| 16. Ciudades, paisajes y fondos de pantalla | ✅ | §17 (+§5.2): hora del día, 9 fondos oficiales y 4 conceptos de Yoshioka medidos, 6 fondos de fans medidos con autor. ⚠️ la web oficial dio 403 |
+| 16. Ciudades, paisajes y fondos de pantalla | ✅ | §17 (+§5.2): hora del día, 9 fondos oficiales y 3 conceptos de Yoshioka medidos, 6 fondos de fans medidos con autor. ⚠️ la web oficial dio 403 |
 | 17. Guía para generar con IA | ✅ | §18: estilo, rasgos fijos con hex, prompts, palabras que ayudan y estropean, referencias de estilo y de pose |
 | 3 conceptos de lámina | ✅ | §19: #🧰・recursos, #✍️・poemas, #🎟️・eventos, con objeto, sitio, pose, cuadro, letra, textos y profundidad; lámina 2 para las etiquetas |
-| 40 fuentes distintas | ✅ | §21: **más de 60 fuentes** listadas |
+| 40 fuentes distintas | ✅ | §21: **53 fuentes distintas** numeradas (y más de 180 enlaces en la biblia) |
 | Fuentes oficiales (web, staff, artbooks, Blu-ray) | ⚠️ | guía oficial (diseñadora y director), entrevista a Seiko Yoshioka (MdN), Web Sunday, TOHO animation, Crunchyroll. **Web oficial 403**; sin comentarios de Blu-ray ni artbook |
 | Otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (MdN, note, ORICON, Animate Times, 4Gamer, Game8, hokope, Famitsu, subtítulos); inglés (wiki, KYM, Reddit); chino (GamerSky, KitaujiSub, artistas de Pixiv); coreano ⚠️ sólo por el buscador |
 | Wikis de fans, TV Tropes, TCRF, Wayback | ⚠️ | Frieren Wiki y Doblaje Wiki a fondo. **TV Tropes y Namu Wiki: 403**. TCRF no aplica (no hay juego). Wayback no respondió |
@@ -1806,7 +1806,7 @@ justo el tiempo de cada uno.
 | API de GitHub | repositorio no habilitado | clon parcial con `git clone --sparse` en mi carpeta de trabajo (fuera del repositorio) |
 | Dailymotion | sólo sirve 512×288 | lo anoto así en `referencias.json` |
 
-### Fuentes consultadas (más de 60, por tipo)
+### Fuentes consultadas (53 distintas, por tipo)
 
 **Oficiales y staff**
 1. Guía oficial «FRIEREN OFFICIAL STARTING GUIDE» (páginas en la wiki), con
