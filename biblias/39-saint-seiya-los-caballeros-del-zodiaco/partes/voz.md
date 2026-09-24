@@ -347,7 +347,15 @@ dinámicas · **cara en cada emoción** (fotograma/minuto o imagen, con fuente).
     Arc-Hades Shun lifts a staff.png», wiki (citada también en
     `partes/video.md`, punto 14) · ⚠️ (hay que aclarar en la lámina que es
     su versión poseída, no él).
-  - Alegría y vergüenza → ⚠️ no encontramos fotograma propio con minuto.
+  - Alegría → primer plano, ojos muy abiertos y sonrisa suave mirando hacia
+    arriba (justo cuando se revela el cofre dorado de Sagitario sobre un
+    pedestal), min. 8:21,
+    https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%204.mp4?t=501
+    · ✅ (hoja 147 de `ep04a`, identificado por el color de su Cloth
+    rosa/blanca de Andrómeda, igual que en la ficha de imágenes de
+    saintseiya.fandom.com).
+  - Vergüenza → ⚠️ seguimos sin fotograma propio con minuto tras ver también
+    el ep.1 completo, el ep.2 completo y los primeros 15 min del ep.4.
     Búsquedas: Dailymotion «Shun sonríe», «Shun feliz», wiki
     (`srsearch=Shun smiling/embarrassed`) sin resultado claro.
 
@@ -409,12 +417,22 @@ dinámicas · **cara en cada emoción** (fotograma/minuto o imagen, con fuente).
   - Miedo → primer plano, ojos muy abiertos, mirando hacia un ataque fuera
     de cuadro, min. 2:17, https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=137
     · ✅.
-  - Alegría, rabia y vergüenza → ⚠️ no encontramos fotograma propio con
-    minuto para ninguna. Encaja con su ficha (arriba): Athena «odia las
-    armas» y es «extremadamente compasiva» — su registro dramático en los
-    clips vistos es solitud/autoridad/tristeza, no ira ni euforia visibles.
-    Búsquedas: Dailymotion «Saori sonríe», «Athena feliz», «Saori enojada»,
-    wiki (`srsearch=Saori/Athena angry/happy`), sin imagen ni clip claro.
+  - Alegría → primer plano, sonrisa suave, ojos entornados mirando hacia
+    arriba con un brillo dorado alrededor (avance de la 2ª temporada
+    insertado tras los créditos, se repite igual en los ep. 1 y 6), min.
+    22:56,
+    https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=1376
+    · ✅ (hoja 244 de `ep06_final`, visto fotograma a fotograma; la misma
+    toma aparece también en el ep.1 al mismo minuto).
+  - Rabia y vergüenza → ⚠️ seguimos sin fotograma propio con minuto para
+    ninguna de las dos, tras ver también los 8-23 min finales de los
+    episodios 1 y 6 completos (antes sólo se habían visto los primeros 7-8
+    min de cada uno) y el episodio 2 completo. Encaja con su ficha: Athena
+    «odia las armas» y es «extremadamente compasiva» — en todo lo visto su
+    registro es solitud/autoridad/tristeza/alegría serena, no ira. Búsquedas:
+    Dailymotion «Saori sonríe», «Athena feliz», «Saori enojada», wiki
+    (`srsearch=Saori/Athena angry/happy`), hojas completas de ep01, ep02 y
+    ep06 (Internet Archive), sin imagen ni clip claro de rabia o vergüenza.
 
 ### Punto 20 — Gustos y detalles de cada personaje
 
@@ -521,9 +539,12 @@ dinámicas · **cara en cada emoción** (fotograma/minuto o imagen, con fuente).
   necesitaría un episodio completo de comedia/relleno, que no se pudo bajar
   con el bloqueo de YouTube en este servidor.
 - ⚠️ Cara de **miedo** propia para Shiryu e Ikki, y de **alegría** propia para
-  Hyoga, Ikki y Saori: no se encontraron con minuto (ver detalle arriba); en
-  Hyoga e Ikki parece un rasgo real de personaje (casi no se les ve reír ni
-  temer en los clips vistos), no sólo un hueco de búsqueda.
+  Hyoga e Ikki: no se encontraron con minuto pese a ver también el ep.1 y el
+  ep.6 completos, el ep.2 completo y los primeros 15 min del ep.4 (ver
+  detalle arriba); en Hyoga e Ikki parece un rasgo real de personaje (casi no
+  se les ve reír ni temer en los clips vistos), no sólo un hueco de búsqueda.
+  (La alegría de Saori y de Shun sí se encontraron en esta tanda, ver punto
+  13 arriba.)
 - ⚠️ Transcripción completa de los podcasts en español de Internet Archive
   (Otacast, Universo Saint Seiya): se confirmó que existen y de qué tratan,
   pero no se transcribieron por el tiempo que llevaría cada uno (varias
@@ -563,15 +584,43 @@ dinámicas · **cara en cada emoción** (fotograma/minuto o imagen, con fuente).
   `escena2_dohko`, `opening`, `trailer` (descartado: es del live-action de
   Sony, no del anime) — todas en
   `/tmp/claude-0/trabajo/39-saint-seiya-video/`.
+- **Segunda tanda (esta sesión)**: con `fotogramas.py --cortes` sobre los
+  mismos vídeos de Internet Archive, se completó lo que faltaba de ver de
+  los episodios 1 y 6 (min 7:50/7:40 hasta el final, ~23:00 — antes sólo se
+  habían mirado los primeros 7-8 min de cada uno) y se miró **por primera
+  vez** el episodio 2 completo (torneo Galaxian Wars) y los primeros 15 min
+  del episodio 4 («Nebula Chain», el episodio centrado en Shun) — hojas en
+  `/tmp/claude-0/trabajo/39-saint-seiya-voz/ep01_final`, `ep06_final`,
+  `ep02` y `ep04a`. De ahí salió la alegría de Saori (avance de temporada 2
+  insertado tras los créditos, se repite igual en ep.1 y ep.6) y la de Shun
+  (ep.4, min 8:21). Se revisó también `saintseiya.fandom.com` (wikitext de
+  «Saint Seiya: Knights of the Zodiac») para los nombres/colores de Cloth en
+  inglés de esta versión (Long=Shiryu, Magnus=Hyoga, Nero=Ikki,
+  Shaun=Shun, Sienna=Saori) y así no confundir personajes secundarios del
+  torneo con los 6 del encargo.
+- Se miró también la pelea de entrenamiento con un rival de larga cabellera
+  oscura y túnica morada en el ep.2 (min 18:15-20:00, hojas 7-8 de `ep02`) y
+  una escena de niños burlándose de un dibujo de Seiya en el ep.1 (min
+  5:42-5:53, hoja 3 de `ep01_final`) como posibles candidatas a
+  Shiryu-rabia (con minuto) y Seiya-vergüenza: en ambos casos la expresión es
+  ambigua (podría leerse como enfado/dolor, no claramente vergüenza o un
+  Shiryu identificable con certeza) y se decidió NO forzarlas — se dejan
+  fuera para no inventar.
 
 Sigue: puntos 7, 8, 12, 20, 21 y 22 están completos. Del punto 13 (obligatorio)
-faltan por confirmar con fotograma+minuto propio (quedaron con ⚠️ y sus
-búsquedas ya hechas, ver arriba): Seiya-vergüenza; Shiryu-rabia (sólo imagen
-fija, sin minuto), miedo y vergüenza; Hyoga-alegría, miedo y vergüenza;
-Shun-alegría y vergüenza (rabia sólo con la imagen de su alter-ego poseído,
-aclarar en el texto); Ikki-alegría, miedo y vergüenza; Saori-alegría, rabia y
-vergüenza. Vía sugerida si se retoma: bajar 1-2 episodios más de
-`archive.org/details/knights-of-the-zodiac-saint-seiya-episode-12` (hay más
-episodios en esa colección, sólo se miraron el 1 y el 6) con `episodio.py`,
-buscando escenas de alivio/celebración en grupo (alegría) y escenas cómicas o
-de calma entre batallas (posible vergüenza), que es donde no se buscó todavía.
+van 16 de 30 casillas con fotograma+minuto propio (antes 14; esta tanda sumó
+Saori-alegría y Shun-alegría). Faltan, con sus búsquedas ya hechas (ver
+arriba, marcadas ⚠️): Seiya-vergüenza; Shiryu-rabia (sólo imagen fija de
+wiki, sin minuto), miedo y vergüenza; Hyoga-alegría, miedo y vergüenza;
+Shun-vergüenza (su rabia sigue sólo con la imagen de su alter-ego poseído);
+Ikki-alegría, miedo y vergüenza; Saori-rabia y vergüenza. Vía sugerida si se
+retoma: de la colección `archive.org/details/knights-of-the-zodiac-saint-seiya-episode-12`
+faltan por mirar el resto del ep.4 (15-23 min) y los episodios 3, 5 y 7-12
+completos (con `fotogramas.py --cortes`, igual que esta tanda) — el ep.3
+(«Enter the Dragon», debut de Shiryu) y el ep.5 («The Black Knights», grupo
+completo) son los más prometedores para Shiryu e Ikki; para vergüenza en
+concreto no ha aparecido en ninguno de los 4 episodios ya vistos por
+completo o en parte (1, 2, 4 parcial, 6), así que puede necesitar
+directamente escenas de comedia/vida diaria fuera de las peleas (el «avance
+de temporada 2» sí dio alegría pero no vergüenza) más que más episodios de
+la misma serie de acción.
