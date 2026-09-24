@@ -60,6 +60,25 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
 11. **Videojuegos de la franquicia**: su interfaz, sus menús, sus cajas de diálogo.
 12. **Lo que el fandom ama**: memes, chistes internos, momentos que todos
     reconocen. Y **qué NO hacer**: lo que a un fan le parecería falso.
+13. **Descripción profunda de cada personaje** (principales y los secundarios
+    más queridos): carácter, historia, miedos, qué le importa, con quién se
+    relaciona y cómo. **Cómo se expresa**: tono, muletillas, cómo se ríe, cómo se
+    enfada, cómo explica algo, cómo saluda; su lenguaje corporal.
+14. **Poses analizadas en varias escenas**: por personaje, 6-10 fotogramas o
+    ilustraciones (con capítulo y minuto o enlace) y qué hace en cada uno:
+    postura, manos, mirada, gesto. Y cuál sirve para **presentar, explicar,
+    celebrar, regañar, pensar, animar**.
+15. **Vestuario**: sus trajes por temporada o arco, colores (hex aproximados),
+    accesorios, peinado; qué ropa es la «icónica» que todos reconocen.
+16. **Ciudades, paisajes y fondos de pantalla**: los sitios de la serie con su
+    luz y su hora del día; fondos de pantalla oficiales y de fans en alta
+    (enlace, tamaño, autor).
+17. **Guía para generar con IA**: con todo lo anterior, cómo describir al
+    personaje y su estilo para que una IA de imagen (Firefly, Canva) genere
+    poses, fondos o escenas coherentes con la serie. Rasgos que nunca cambian,
+    paleta, tipo de línea y sombreado, luz, encuadre, palabras que ayudan y
+    palabras que lo estropean, y qué imágenes de las encontradas usar como
+    referencia de estilo o de pose.
 
 ## Lo que la lámina tiene que decir
 
