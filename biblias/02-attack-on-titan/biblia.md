@@ -1528,6 +1528,47 @@ art, muted palette, no people, no text»*.
 cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo).
 **No usar** como estilo G7-G9 ni el arte de la T4 si la lámina es de T1-T3.
 
+### 18.1 · Caras y encuadre por emoción, y guía para una IA de texto (repaso corto)
+
+**Para la IA de imagen, la cara** (de §14.2): *shadowed eyes, straight
+mouth* (rabia fría, Mikasa M3); *heavy-lidded bored stare* (Levi); *gritted
+teeth* (las caras de figma de Levi, Erwin y Eren, Punto 23); *tears welling,
+small smile* (P·29); *back turned to camera* (Mikasa esconde el dolor). Nunca
+*smiling*, salvo Hange (*wide grin, glasses glinting*, H1). **Encuadre por
+emoción** en el Punto 18.7. Las gotas de sudor y los fondos de emoción no
+salen en lo reunido ⚠️: no pedirlos.
+
+**Para la IA de texto: reglas de voz**
+- **Levi**: frases cortas, órdenes, sarcasmo; «Tch»; casi sin signos de
+  exclamación; remata con una orden. Se queja de la suciedad antes que del
+  peligro.
+- **Erwin**: dato duro → pregunta al grupo → **lema gritado** con «¡!».
+- **Hange**: exclamaciones, explica de más, se presenta con el cargo entero.
+- **Mikasa**: pocas palabras; casi siempre le habla a Eren por su nombre.
+- **Keith** (regañar): a gritos, humilla («ganado»). **Zackly** (sentenciar):
+  formal, cierra con «¿entendido?».
+- En latino se dice **«Legión de Exploración»** (⚠️ §9.3), «tropa de cadetes
+  104», «corte marcial», «amonestación».
+
+**Frases reales por emoción** (latino = doblaje, §9.3; si no, traducción
+nuestra de los subtítulos japoneses de Netflix):
+
+| Emoción | Frase | Quién · dónde |
+|---|---|---|
+| Alegre | «¡Buenas noches, escuadrón Levi! ¿Qué tal se vive en el castillo?» | Hange · ep. 15 · 10:00 |
+| Alegre | «¡De lo más emocionante!» | Hange · ep. 15 · 10:30 |
+| Enfadado | «No sabía que los cerdos podían hablar.» | Levi · **latino** · ep. 14 · 13:50 |
+| Enfadado | «Esto no vale nada. Hazlo todo otra vez.» | Levi · ep. 15 · 07:12 |
+| Enfadado | «No estoy para darles una cálida bienvenida.» | Keith · **latino** · ep. 3 · 01:39 |
+| Explicando | «Yo no planeo estrategias. Eso no me compete.» | Levi · **latino** · ep. 15 · 08:44 |
+| Explicando | «…será una corte marcial. Significa que la decisión final la tomaré yo, ¿entendido?» | Zackly · **latino** · ep. 14 · 10:29 |
+| Explicando | «Es una regla que hay que cumplir.» | Levi · ep. 15 · 05:38 |
+| Animando | «Díganme, cadetes. ¿Morirían si yo les ordenara matarse? … ¡Consagren sus corazones!» | Erwin · **latino** · ep. 16 · 13:52-14:13 |
+| Animando | «Tu determinación me dará fuerza. Eso te lo prometo.» | Levi · **latino** · ep. 9 · 06:57 |
+| Triste | «Perdón… no puedo.» | Mikasa · ep. 93 · 17:25 |
+| Triste | «¿Ya está lista la comida…?» · «…carne.» | Sasha · ep. 67 · 14:24-14:37 |
+| Triste | «Erwin, lo de acabar con el Titán Bestia… parece que tardará más.» | Levi · ep. 55 · 21:31 |
+
 ---
 
 ## 19 · Tres conceptos de lámina (nuevos; la estela ya está hecha)
