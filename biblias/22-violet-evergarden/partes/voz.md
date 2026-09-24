@@ -180,6 +180,69 @@ pantalla, no doblaje): **no lo uso**.
   voz — [«Reto doblaje: sé Violet Evergarden»](https://www.tiktok.com/@_taniadubs_/video/7279503802078743841),
   @_taniadubs_ ✅ (visto en `datos-voz.md`).
 
+**Frase textual del doblaje LATINO — conseguida en esta pasada** ✅
+(plan C, sin YouTube): ni Dailymotion ni Internet Archive tienen clips
+oficiales doblados al latino de esta serie (detalle de las búsquedas
+abajo), así que probé con las **muestras de audio oficiales de Doblaje
+Wiki** (campo `demoN` de la ficha de cada actor — el reel de carrera
+que Fandom aloja como archivo `.ogg`, distinto de la «Muestra
+multimedia» por personaje que ya usé arriba). Revisé los demos de
+**Andrea Arruti** (Violet), Alejandro Orozco (Gilbert), Carla Castañeda
+(Cattleya), Carlos Hernández (Hodgins) e Irwin Daayán (Dietfried); sólo
+el **segundo demo de Andrea Arruti** trae diálogo real de esta serie
+(los demás son reels de otros papeles — Dragon Ball, Glee, The Vampire
+Diaries, X-Men, Akira — sin ninguna línea de Violet Evergarden).
+Transcribí ese archivo con `voz.py` (Whisper) y **lo verifiqué dos
+veces**, con el modelo `small` y otra vez con el `medium` sobre el
+mismo tramo: coinciden palabra por palabra salvo puntuación ✅✅. Entre
+1:14 y 2:06 hay una escena real de Violet hablando de sus órdenes y
+dirigiéndose a «Luculia» (nombre real del reparto, ver tabla arriba):
+
+> «Ya no quiero matar a nadie más. Las órdenes del mayor fueron vivir,
+> nunca fueron matar.» — Violet Evergarden, doblaje latino de **Andrea
+> Arruti**, min. **1:16-1:19** del archivo de audio.
+
+Y, ya en el tono de carta/reporte tan típico del habla de Violet:
+
+> «Ha pasado mucho tiempo, pero no tengo nada que reportar. […] Trabajo
+> con diligencia, estoy saludable y segura. No ha habido ningún
+> problema. Eso es todo, por favor no se preocupen.» — min. **1:45-2:04**.
+
+Por el contenido (menciona a Luculia y al «mayor», y el tema es que
+Violet ya no quiere volver a matar) es casi con toda seguridad una
+escena entre Violet y Luculia del **episodio 3** («Que seas una Auto
+Memory Doll ejemplar»), donde Luculia y su hermano Spencer aparecen por
+primera vez — sinopsis que cruzan Anime News Network e IMDb (WebSearch,
+«Violet Evergarden "my orders were to live" "never to kill" Luculia
+episode»); no pude confirmar el minuto exacto dentro del episodio
+porque no vi el capítulo, sólo el demo de la actriz. Fuente del audio:
+[ficha de Andrea Arruti, Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Andrea_Arruti)
+(campo `demo2`) → archivo
+[Andrea_Arruti_Demo_de_Voz_2.ogg](https://static.wikia.nocookie.net/doblaje/images/0/0a/Andrea_Arruti_Demo_de_Voz_2.ogg/revision/latest?cb=20190805220002&path-prefix=es)
+✅. Esto **sí** cuenta como doblaje latino (no de España): Andrea Arruti
+es mexicana y es la voz latina confirmada de Violet en esta misma
+sección.
+
+**Búsquedas hechas antes de llegar ahí, para que quede constancia**
+(YouTube no se reintentó, como se pidió):
+- Dailymotion, API de búsqueda (`api.dailymotion.com/videos?search=…`,
+  no `ytsearch`), 11 consultas distintas: «Violet Evergarden clip
+  doblaje latino», «...escena español latino», «...Netflix
+  Latinoamerica doblaje», «...Andrea Arruti», «...Nycolle Gonzalez»,
+  «...capitulo 1 español latino», «...mi nombre es Violet Evergarden»,
+  «...gracias Gilbert doblaje», «...te quiero doblaje latino», «...SDI
+  Media doblaje», «...Carla Castañeda doblaje», «...especial doblaje
+  latino Netflix» → sólo tráilers en **español de España** (canales
+  FilmAffinity y HobbyConsolas, que usan «coger las cartas») o en otros
+  idiomas; ningún clip en español latino.
+- Internet Archive (`archive.org/advancedsearch.php`), 6 consultas:
+  «Violet Evergarden doblaje latino», «...español», «...latino»,
+  «...dub», «...Netflix» → 0 resultados en los dos primeros; el resto
+  sólo trae doblaje inglés, el OST, o un podcast en inglés sobre la
+  serie (`VioletEvergardenEp1Mixdown`, comprobado con
+  `archive.org/metadata/…`: es un podcast de análisis, no la serie
+  doblada).
+
 ### 12 · Lo que ama el fandom, y qué NO hacer
 
 **Lo que todos reconocen** (heredado y verificado de nuevo con red
@@ -576,19 +639,14 @@ de poemas encaja con la serie, más allá de la lámina.
 
 - **Encuesta oficial** de Kyoto Animation o de la editorial (sólo
   encontré la de ねとらぼ, un medio de noticias, votada por el público).
-- **Frases textuales del doblaje LATINO** con fuente: los clips
-  oficiales doblados están en YouTube, que pide iniciar sesión desde
-  este servidor (lo probé en 3 vídeos distintos, con `yt-dlp`, en tres
-  momentos separados). El plan B (Dailymotion) sólo me dio un tráiler
-  en **castellano de España** (transcrito con `voz.py`, pero no lo
-  cito como latino) y un tráiler de Netflix cuyo audio Whisper no supo
-  transcribir (probablemente es japonés con texto en pantalla, no
-  doblaje). La «Muestra multimedia» de Doblaje Wiki para esta serie es
-  un vídeo de YouTube con **sólo los nombres de los actores por
-  personaje y su minuto** (lo usé para §8), no diálogo. No
-  encontré un audio de Doblaje Wiki nativo (`.ogg`/`.mp3`) específico
-  de un personaje de esta serie: los `demoN` de los actores son
-  reels genéricos de su carrera, no de Violet Evergarden.
+- ~~Frases textuales del doblaje LATINO con fuente~~ — **conseguida en
+  la pasada siguiente** (ver §8, «Frase textual del doblaje LATINO —
+  conseguida en esta pasada»): YouTube siguió bloqueado y ni Dailymotion
+  ni Internet Archive tenían clips latinos oficiales, pero el segundo
+  demo de voz de Andrea Arruti en Doblaje Wiki sí tenía diálogo real de
+  Violet Evergarden, transcrito con `voz.py`. Dejo esta entrada tachada,
+  no borrada, para que quede el rastro de qué se intentó antes de dar
+  con la fuente buena.
 - **Comida favorita, cumpleaños y «lo que odia»** de todos los
   personajes salvo el cumpleaños de Violet (25 de septiembre, sí
   confirmado): el Starter Book oficial que sí pude leer (traducido en
@@ -675,14 +733,20 @@ odanurr87.tumblr.com, Wikipedia en inglés (premios), 6 imágenes de
 (reseñas, vía resumen), varios canales de YouTube y Facebook de
 fandub/covers (11 enlaces).
 
-Sigue: punto 8, obligatorio y no cerrado del todo — conseguir **frases
-textuales del doblaje LATINO** (no el de España) con fuente. Necesita
-acceso a YouTube (los clips «Violet y Gilbert confesión - Doblaje
-Latino Oficial» y similares, bloqueados aquí por «Sign in to confirm
-you're not a bot») o a Netflix/Crunchyroll con cuenta para oír el
-episodio 1 o el especial doblados. Todo lo demás de mis puntos (7, 8
-salvo esto, 12, 13, 20, 21, 22) está cerrado con fuentes dobles donde
-las hay, y lo que falta de verdad (miedo/vergüenza en imagen, caras de
-Gilbert y Hodgins, comida/cumpleaños de todos salvo Violet, compositor
-por pista del OST) va en «No encontré» porque son extras, no lo
+**Pasada final (cierre del punto 8)**: YouTube seguía bloqueado (no se
+reintentó, como se pidió). Probé Dailymotion por API de búsqueda (11
+consultas) e Internet Archive (`advancedsearch.php`, 6 consultas): ninguna
+de las dos tiene clips oficiales doblados al latino de esta serie. El
+plan C sí funcionó: las **muestras de audio oficiales de Doblaje Wiki**
+(campo `demoN` de la ficha de cada actor, `.ogg` alojado por Fandom)
+tenían diálogo real de Violet Evergarden en el segundo demo de Andrea
+Arruti; lo transcribí con `voz.py` (Whisper, verificado con dos
+modelos) y quedó citado en el punto 8 con minuto exacto y enlace al
+archivo de audio.
+
+No queda «Sigue» pendiente: los puntos 7, 8, 12, 13, 20, 21 y 22 están
+cerrados con fuentes dobles donde las hay. Lo que falta de verdad
+(miedo/vergüenza en imagen, caras de Gilbert y Hodgins, comida/cumpleaños
+de todos salvo Violet, compositor por pista del OST, vistas exactas de
+los fandubs de §22) va en «No encontré» porque son extras, no lo
 obligatorio del encargo.

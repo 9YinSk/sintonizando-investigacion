@@ -88,5 +88,14 @@
     "que_es": "Encuesta de popularidad de personajes 2022 (2310 votos): confirma a Benedict Blue como 2.º más votado.",
     "para_que": "Punto 7: segunda encuesta independiente que confirma el orden de popularidad.",
     "licencia": "Artículo de noticias; no es imagen, sólo dato citado."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/0/0a/Andrea_Arruti_Demo_de_Voz_2.ogg/revision/latest?cb=20190805220002&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), campo demo2 de la ficha de Andrea Arruti (https://doblaje.fandom.com/es/wiki/Andrea_Arruti)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Audio oficial (2:07 min): reel de carrera de Andrea Arruti, voz latina de Violet. Entre 1:14 y 2:06 trae diálogo real de Violet Evergarden (escena con Luculia, menciona al 'mayor'), transcrito con voz.py/Whisper y verificado con dos modelos (small y medium).",
+    "para_que": "Punto 8: única fuente con frase textual del doblaje LATINO (no en YouTube, bloqueado; no en Dailymotion ni en Internet Archive, sin clips latinos).",
+    "licencia": "Archivo de audio alojado por Doblaje Wiki (Fandom, CC BY-SA); es el demo de carrera de la actriz, no el episodio completo; sólo referencia, no redistribuir."
   }
 ]
