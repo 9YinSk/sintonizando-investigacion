@@ -371,7 +371,25 @@ fiarse del minuto del subtítulo.
 - Borré todos los `.mp4` de trabajo al terminar (quedan sólo las hojas
   `.jpg` en `/tmp/claude-0/trabajo/10-video/`, fuera del repositorio).
 
-Sigue: minutos exactos de los vídeos de análisis de YouTube (sección 12) en
-cuanto se pueda bajar sin bloqueo; medir paleta de la escalera y el salón de
-actos (sección 5.2-5.3) con una foto en alta cuando aparezca una; confirmar
-con audio (`voz.py`) quién dice la frase de la cafetería en T1 ep. 2, 05:32.
+## Cumplimiento de lo obligatorio de este rol (puntos 2, 4, 9, 10, 14)
+
+- Punto 2 (opening, ending, tráiler, 3 escenas, con capítulo y minuto):
+  **hecho**, mirado fotograma a fotograma, ver arriba. ⚠️ extra pendiente:
+  resolución 1080p+ (sólo hay SD por el bloqueo de YouTube; va en «No
+  encontré», no es una escena sin mirar).
+- Punto 4 (sitios, luz, paleta hex): **hecho**, con hex medidos (no
+  estimados) sobre 3 fotogramas reales.
+- Punto 9 (música y ambiente): **hecho**, con segunda fuente distinta de
+  Wikipedia para los datos de Oricon.
+- Punto 10 (vídeos con minuto exacto): **hecho** para el tráiler (obligatorio
+  cumplido); los vídeos de análisis quedan sin minuto por el bloqueo de
+  YouTube — es un extra de profundidad, va en «No encontré».
+- Punto 14 (poses con capítulo y minuto): la tabla ya existía (de memoria);
+  esta parte confirma 7 poses reales con fotograma mirado y señala una
+  posible atribución equivocada. Ampliar a 6-10 poses **confirmadas por
+  vídeo** en cada uno de los 6 personajes es trabajo extra (each uno pediría
+  su propio recorte de Internet Archive); queda en «No encontré».
+
+Nada obligatorio de mis puntos queda sin hacer con lo que da la red de hoy;
+no dejo «Sigue:» de trabajo pendiente obligatorio. Si se abre YouTube sin
+bloqueo, retomar por los extras de la lista de «No encontré».
