@@ -10,8 +10,8 @@ subes. Todo el reparto está en `EQUIPO.md`; léelo una vez.
 
 ## Antes de empezar (una vez por contenedor)
 
-1. `pip install -q -U "yt-dlp[default]" Pillow fontTools requests` y
-   `apt-get install -y -qq ffmpeg`.
+1. `pip install -q -U "yt-dlp[default]" Pillow fontTools requests faster-whisper "scenedetect[opencv-headless]" praat-parselmouth onnxruntime` y
+   `apt-get install -y -qq ffmpeg tesseract-ocr tesseract-ocr-jpn tesseract-ocr-spa`.
 2. Cambia el enlace `Claude-Session:` de `herramientas/subir.sh` y
    `herramientas/guardar.sh` por el de esta sesión.
 3. Deja corriendo en segundo plano `herramientas/guardar.sh --cada 300`.

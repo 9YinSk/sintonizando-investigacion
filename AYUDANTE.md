@@ -88,6 +88,21 @@ Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer rese
    --sub-langs "es.*" <url>`). Cita cada frase con su vídeo y minuto. Si no hay
    clips doblados oficiales, dilo.
 
+## Herramientas por tarea (úsalas: dan datos, no impresiones)
+
+| Para… | Herramienta |
+|---|---|
+| **Mirar un vídeo** sin perder escenas cortas | `python3 herramientas/fotogramas.py "<url>" --cortes --salida …` (un fotograma por plano) |
+| **Oír una voz**: frase textual con minuto y cómo suena (registro, expresividad en semitonos, velocidad) | `python3 herramientas/voz.py "<url o audio>" [--desde s --hasta s] --salida …` (Whisper en local; revisa nombres propios, se equivoca) |
+| **Colores medidos** (vestuario, fondos) y **cómo está pintado** (plano o degradado, cuánta línea y de qué color) | `python3 herramientas/estilo.py <imágenes o URLs> --salida …` |
+| **Etiquetas de anime** (pelo, ropa, pose, expresión, personaje) con el vocabulario que entienden las IA de imagen | `python3 herramientas/estilo.py <imagen> --etiquetas --salida …` (modelo WD14 en local) |
+| **Leer texto en una imagen** (cartelas, menús de juegos, carteles, globos) | `tesseract <imagen> - -l spa+jpn+eng` |
+| **Letras**: si traen tildes, ñ, ¿ y ¡ | fontTools (`TTFont(f).getBestCmap()`) |
+
+Pon en la biblia de dónde sale cada dato («paleta medida con estilo.py en el
+fotograma 12 de …»). Las herramientas ayudan a describir; las imágenes se miran
+igual (Read).
+
 ## El encargo manda: no lo «corrijas» sin pruebas
 
 Si el encargo o el dueño nombran algo (un objeto, una escena, un gag) y tú no lo

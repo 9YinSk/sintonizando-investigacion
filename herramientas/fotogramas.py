@@ -10,6 +10,12 @@ y en la biblia se cita el minuto exacto con su enlace `&t=`.
         --cada 4 --salida /ruta/de/trabajo/opening
     python3 herramientas/fotogramas.py video.mp4 --desde 60 --hasta 180 --cada 2 --salida …
     python3 herramientas/fotogramas.py "https://…" --salida … --fotograma 83.5   # uno en grande
+    python3 herramientas/fotogramas.py "https://…" --salida … --cortes   # uno por plano
+
+Con --cortes detecta los cambios de plano (PySceneDetect) y saca un fotograma
+del medio de cada plano: no se pierde ninguna escena corta y no se repiten
+planos largos. Si existe la variable de entorno YT_COOKIES (texto de un
+cookies.txt), se la pasa a yt-dlp para esquivar el «inicia sesión» de YouTube.
 
 Deja en --salida: `hoja_01.jpg`… (48 fotogramas por hoja), `indice.json`
 (número, segundo, minuto y enlace) y, con --fotograma, `fotograma_<seg>.jpg`.
@@ -18,6 +24,7 @@ Necesita yt-dlp, ffmpeg (o imageio-ffmpeg) y Pillow.
 import argparse
 import json
 import math
+import os
 import shutil
 import subprocess
 import sys
@@ -46,12 +53,32 @@ def bajar(url, carpeta):
     if destino.exists():
         return destino
     formato = "bv*[height<=720][vcodec^=avc1]/bv*[height<=720]/b[height<=720]/b"
-    orden = ["yt-dlp", "-q", "--no-warnings", "--js-runtimes", "node", "-f", formato,
+    orden = ["yt-dlp", "-q", "--no-warnings", "--js-runtimes", "node", *galletas(), "-f", formato,
              "-o", str(destino), url]
     r = subprocess.run(orden, capture_output=True, text=True)
     if r.returncode or not destino.exists():
         sys.exit(f"yt-dlp no pudo bajarlo (si dice 429, espera un minuto):\n{r.stderr[-800:]}")
     return destino
+
+
+def galletas():
+    """--cookies para yt-dlp si el entorno trae YT_COOKIES (cuenta secundaria)."""
+    texto = os.environ.get("YT_COOKIES", "").strip()
+    if not texto:
+        return []
+    ruta = Path(os.environ.get("TMPDIR", "/tmp")) / "yt_cookies.txt"
+    if not ruta.exists():
+        ruta.write_text(texto.replace("\\n", "\n") + "\n", encoding="utf-8")
+        ruta.chmod(0o600)
+    return ["--cookies", str(ruta)]
+
+
+def planos(video, desde, hasta):
+    """Segundo del medio de cada plano (cambios de plano con PySceneDetect)."""
+    from scenedetect import ContentDetector, detect
+    escenas = detect(str(video), ContentDetector(threshold=27), start_time=desde or None,
+                     end_time=hasta or None)
+    return [(a.get_seconds() + b.get_seconds()) / 2 for a, b in escenas]
 
 
 def duracion(video):
@@ -76,6 +103,7 @@ def main():
     ap.add_argument("--desde", type=float, default=0)
     ap.add_argument("--hasta", type=float, default=0)
     ap.add_argument("--fotograma", type=float, nargs="*", help="sacar sólo estos segundos, a 1280 px")
+    ap.add_argument("--cortes", action="store_true", help="un fotograma por plano (cambios de plano)")
     a = ap.parse_args()
 
     carpeta = Path(a.salida)
@@ -92,7 +120,9 @@ def main():
         return
 
     fin = a.hasta or duracion(video)
-    tiempos = [a.desde + i * a.cada for i in range(int((fin - a.desde) / a.cada) + 1) if a.desde + i * a.cada < fin]
+    tiempos = planos(video, a.desde, a.hasta) if a.cortes else []
+    if not tiempos:
+        tiempos = [a.desde + i * a.cada for i in range(int((fin - a.desde) / a.cada) + 1) if a.desde + i * a.cada < fin]
     tmp = carpeta / "cuadros"
     tmp.mkdir(exist_ok=True)
     try:
@@ -126,7 +156,8 @@ def main():
         print(ruta)
     (carpeta / "indice.json").write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
     shutil.rmtree(tmp, ignore_errors=True)
-    print(f"{len(indice)} fotogramas de {minuto(a.desde)} a {minuto(fin)}, cada {a.cada} s → {carpeta}")
+    modo = "uno por plano" if a.cortes else f"cada {a.cada} s"
+    print(f"{len(indice)} fotogramas de {minuto(a.desde)} a {minuto(fin)}, {modo} → {carpeta}")
 
 
 if __name__ == "__main__":
