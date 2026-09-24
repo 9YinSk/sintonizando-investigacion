@@ -1465,3 +1465,132 @@ F12, F15, F16). Las 52 hojas completas siguen en
   Shinobu, n.º 30, 43, 45 BD.
 
 ---
+
+## Tres conceptos de lámina
+
+Tres ideas distintas: **un paisaje** (A), **un objeto-mapa** (B) y **un
+interior imposible** (C). Todas cumplen la regla de ufotable: **fondo
+oscuro, una sola luz cálida, un solo color saturado**.
+
+### Concepto A — «Glicinas al anochecer» (#📸・fotos) ⭐
+
+- **El objeto real en el sitio real**: **tablillas de madera colgadas con
+  cordel de un pilar rojo** del camino de la Selección Final, en el **Monte
+  Fujikasane** (el sitio: F8, visto desde arriba: camino de piedra con
+  pilares rojos y glicina a los lados). **Se hace en Blender**: pilar con
+  el *torii* CC BY de Bazylonator (§3), tablillas con `Wood095` (CC0),
+  racimos de glicina instanciados con la foto CC BY de A.Davey como guía.
+  **La tinta sigue la veta** de cada tablilla (regla 1).
+- **Personaje**: **Tanjiro**, con la pose de F3 (*Tanjiro admiring the
+  Wisteria*, 1920×1080, [imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2d/Tanjiro_admiring_the_Wisteria.png/revision/latest?cb=20190508194209)):
+  **mirando hacia arriba, con la mano alzada tocando un racimo**. Es
+  literalmente «lo que ves». Lleva el **kimono azul con nubes** de antes
+  del uniforme, coherente con la Selección Final. El brazo se ve entero
+  hasta la mano (regla 7).
+- **Cómo habla**: su frase va **pintada en una tablilla** que cuelga a la
+  altura de su cara, en **Zen Antique** (cartel de época, ✅ tildes). Su
+  nombre, en una tablilla estrecha, **vertical**, en **Yuji Syuku**. La
+  frase es **real, del doblaje**: «**La vida puede cambiar tan rápido como
+  el clima.**» (muestra de Doblaje Wiki, Iván Bastidas).
+- **Dónde va cada texto**:
+  - «**Fotos**»: tablilla grande, arriba, en el travesaño del pilar.
+  - «Las fotos que haces tú», «Lo que ves, dónde grabas, tu rincón» y «Un
+    hilo por foto o por serie»: **tres tablillas** a distintas alturas en
+    el pilar de la derecha, balanceándose un poco.
+  - «**Ponle su etiqueta**»: la tablilla más baja, girada hacia el camino
+    que se pierde al fondo (lleva a la lámina 2).
+  - La frase de Tanjiro: junto a él, a la izquierda.
+- **Que no quede plano**:
+  - **Delante**: racimos de glicina **desenfocados** colgando del borde de
+    arriba (profundidad de campo, §18).
+  - **En medio**: Tanjiro a la izquierda, en dos tercios; las tablillas a
+    la derecha.
+  - **Detrás**: **pilares rojos repetidos** que se pierden en **niebla
+    fina**, cielo de anochecer #3B2D85 → #5666BE.
+  - **Una sola luz cálida**: un **farolillo de papel** (`Paper006`) junto a
+    las tablillas, que ilumina la madera y la mejilla de Tanjiro.
+  - Paleta: glicina #906CE8 y #C09CEB, rosado #ECD0E1 en los pétalos que
+    caen; sombras en violeta, **no en negro**.
+
+### Concepto B — «El tablero de los paisajes» (lámina 2 de #📸・fotos)
+
+- **El objeto real**: **un tablero de *sugoroku* de madera**, en
+  isométrico, como el de ***Sweep the Board!*** (§11): **un mapa en
+  miniatura del mundo**. **Se hace en Blender** como diorama. Además,
+  **el sugoroku es afición de Zenitsu** (§20).
+- **Las 5 zonas del tablero = las 5 etiquetas de «qué sale»**:
+  - **Paisaje**: el santuario de glicinas con pilares rojos (F8).
+  - **Naturaleza**: la cascada y el río con rocas (F9, F11).
+  - **Ciudad**: el pueblo Taishō con río y puente de madera (el del juego).
+  - **Nocturna**: calles con farolillos, como Yoshiwara (F5).
+  - **Retrato**: una casilla con un **retrato sepia de la familia
+    Kamado**, en el estilo del cierre del ep. 19 (álbum de recuerdos, §9).
+- **Las 6 etiquetas de «con qué» y «cómo»** (Analógica, Con el móvil, Con
+  cámara, Editada, Sin editar, Detrás de cámara): **seis fichas de madera**
+  en fila en el borde del tablero, con la palabra grabada.
+- **Personajes**: **chibis oficiales 2D recortados sobre el tablero 3D**,
+  como hace el juego. Habla **Zenitsu** (1.º en la encuesta de 2020 y
+  jugador de sugoroku), sacado de un chibi de grupo de la hoja
+  `colaboraciones_01` (n.º 3, 12, 14 o 34; elegir el de pose más abierta).
+  Opcional: **Muichiro** chibi (n.º 38) sentado en la zona de Naturaleza.
+- **Cómo habla**: cada zona lleva su **noren** (tela colgante) con la
+  etiqueta **en vertical**, en **Kaisei Decol** o **Yuji Boku**, como los
+  rótulos de tienda del juego. Zenitsu sostiene una **tablilla pequeña** con
+  su frase en **Zen Old Mincho**. ⚠️ No hay frase real de Zenitsu en las
+  partes: proponer una en su voz nerviosa y confirmarla (ver biblia 31 §8
+  para sus frases reales).
+- **Dónde va cada texto**: «**Etiquetas**» tallado en el marco del
+  tablero, arriba; las 5 de «qué sale» en los noren de cada zona; las 6
+  fichas abajo; la frase de Zenitsu abajo a la derecha.
+- **Que no quede plano**: cámara **alta e isométrica** con los bordes
+  desenfocados; **farolillos cálidos** en la zona Nocturna frente a
+  **niebla fría** en la de Naturaleza; **un dado de madera** desenfocado
+  delante; las sombras de los chibis caen de verdad sobre el tablero
+  (`v3/integrar.py`).
+
+### Concepto C — «Las puertas del Castillo Infinito» (🍿 Cine, reserva)
+
+- **El objeto real en el sitio real**: **dos puertas correderas de madera
+  y papel** (*shoji*) **entreabiertas** al final de un pasillo del
+  **Castillo Infinito**. Por la rendija se ve el castillo: **salas de tatami
+  a distintos ángulos, llenas de faroles** (F2, F14). La rendija hace de
+  **pantalla de cine**. **Se hace en Blender**: pasillo con *arrays* de
+  `Wood095` y `WoodFloor051`, papel `Paper006` **iluminado por detrás**, así
+  el texto brilla a través del papel.
+- **Personaje**: **Muichiro** (3.º en 2020, por delante de Tanjiro), **de
+  tres cuartos, mirando hacia la rendija**, con la cara sin expresión del
+  tráiler de *Castillo Infinito* (0:16). Cuerpo: *Muichiro Tokito Full
+  Body (Anime)*, 1281×1830 ([imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4c/Muichiro_Tokito_Full_Body_%28Anime%29.png)).
+  Un hilo de **su niebla** (#BDFCFE, muy suave) se arrastra por el suelo.
+- **Cómo habla**: con un **subtítulo blanco** bajo su figura, como en el
+  tráiler (0:16): aquí vale, porque **el marco es una pantalla** (regla 2).
+  Letra **Zen Old Mincho** (✅ tildes). Su nombre en una cartela
+  **vertical** sobre azul oscuro, como la del tráiler de SEGA (0:28), en
+  **Yuji Syuku**. Frase **propuesta** en su voz, a partir de la real «A mí
+  se me va a olvidar»: «**Silencia el micro. Si hablas, se me olvida la
+  peli.**» (confirmar con el dueño).
+- **Dónde va cada texto**:
+  - «**Cine**»: tablilla vertical colgada junto a las puertas, como un
+    cartel de teatro.
+  - «Aquí vemos pelis juntos» y «La función se avisa en eventos»: **escritos
+    en los dos paneles de papel**, uno en cada puerta, con la luz detrás.
+  - «Entra y silencia el micro»: en una tira de papel en el umbral.
+  - La frase de Muichiro: subtítulo abajo, centrado.
+- **Que no quede plano**:
+  - **Delante**: el borde del marco de la puerta y **un farol colgado,
+    desenfocado**.
+  - **En medio**: Muichiro **recortado a contraluz**, con el borde
+    iluminado por la luz cálida de la rendija.
+  - **Detrás**: las salas imposibles que se alejan, **neblina en capas**
+    («que casi parezca infinito», Terao).
+  - **Luz**: brillo general bajo (el castillo mide 15 %), **una sola fuente
+    cálida** #F1CB86 sobre #140C0D.
+
+### ¿Cuál primero?
+
+- Si #fotos pasa a Demon Slayer: **A** (lámina 1) y **B** (lámina 2).
+- Si #fotos se queda con Lilo & Stitch: **C** para el Cine.
+- En cualquier caso, **los fondos y colores medidos de aquí sirven para
+  las láminas de la biblia 31** (§0).
+
+---
