@@ -1423,7 +1423,185 @@ para ver cómo se compone un fondo limpio.
 
 ## 19 · Tres conceptos de lámina
 
-(pendiente)
+Los tres son distintos: **un marcador** (A), **una pizarra** (B) y **un
+formulario** (C). Cada uno, para un canal. Tamaño base 1200×800.
+Letras de §6.2 (todas con tildes, ñ, ¿ y ¡ comprobadas con fontTools).
+Reglas del dueño: textos cortos, una idea cada uno, sin «·», «—» ni
+paréntesis.
+
+### Concepto A — «El marcador del campamento» → #reto-de-la-semana ⭐
+
+**El objeto y el sitio.** El **marcador de mesa de cartones** con la
+**pizarrita verde de tiza** encima, tal cual el del 3 contra 3 de
+Bokuto (T2-09, [0:39](https://www.dailymotion.com/video/x7og4pm?t=39) 👁;
+hoja `objetos_01.jpg` n.º 8). Tubo metálico `#D8DADB`, pizarra
+`#385950`, cartones naranjas `#E19C52` y uno blanco `#EAEAE6`, cifras
+negras. Va **junto a la red**, dentro del **gimnasio 2 de Karasuno**
+(`fondos_01.jpg` n.º 1: suelo `#A97F45`, ventanales altos) al
+**atardecer**, con la luz naranja entrando rasante por la puerta.
+**Se hace en Blender**: una caja de tubos, dos anillas, cartones de
+cartulina con la esquina doblada y la pizarra con textura de tiza.
+Modelos de apoyo: la red y el balón Mikasa de §4.1 (CC BY, con crédito).
+
+**El personaje.** **Bokuto** de anfitrión (el más *meme*, 1.º de su
+puesto en la BEST ORDER, §9). Pose:
+- para presentar, **manos en la cadera y piernas abiertas** (ficha del
+  manga, `personajes_01.jpg` n.º 15);
+- o, mejor, **ofreciendo el balón al que mira**, desde arriba, con la
+  chaqueta al viento: portada del **tomo 11** ([VIZ, 1500×2250](https://static.wikia.nocookie.net/haikyuu/images/e/ea/Vol_11_eng_cover.jpg)).
+  ⚠️ El logo inglés tapa el balón y el brazo: sirve **de pose**, no de
+  recorte. Para recortar en color, la hoja de modelo del CD (n.º 14).
+- **Hinata** pequeño a la izquierda, con la seña de árbitro **«BALL IN»**
+  (puño arriba, la otra mano señalando abajo), del calendario oficial
+  (n.º 3, 3140×2506): «el balón entra» = **«entregado»**.
+
+**Cómo habla.** La **caja del juego de 3DS** (§7.1 A): negra
+`#14100B`, filete naranja `#E89A30`, **pestaña del nombre** amarilla a
+naranja (`#FFBF13`→`#FF8C1E`), balón pequeño abajo a la derecha. Nombre
+en **M PLUS Rounded 1c Black**, texto en M PLUS Rounded 1c Bold blanco.
+
+**Dónde va cada texto** (los del canal, repartidos):
+
+| Dónde | Texto | Letra |
+|---|---|---|
+| Pizarrita de tiza, arriba | **Reto de la semana** | Yomogi, blanco tiza, con un palote 「正」 al lado |
+| Tres cartones naranjas | **Una línea** / **Una escena** / **Un tono** | Zen Maru Gothic Black, negro |
+| Cartón blanco (el del set) | el **número de la semana** (se cambia cada semana en la lámina 2 o en el hilo) | Zen Maru Gothic Black |
+| Caja 1, pestaña **BOKUTO** | «¡Hey, hey, heeey! Un reto por semana.» | M PLUS Rounded 1c |
+| Caja 2, pestaña **HINATA** | «¿Y dónde lo entrego?» | ídem |
+| Caja 3, pestaña **BOKUTO** | «Dentro del hilo del reto.» | ídem |
+| Caja 4, pestaña **HINATA** | «¿Y qué se gana?» | ídem |
+| Caja 5, pestaña **BOKUTO** | «Nada. ¡Esa es la gracia! Es para grabar.» | ídem |
+
+Si cinco cajas saturan, van **dos**: Bokuto («¡Hey, hey, heeey! Un reto
+por semana. Se entrega en su hilo.») y Hinata («¿Y qué se gana?» →
+respuesta en la pizarrita: «Nada. Esa es la gracia»). ⚠️ Cómo dice
+Bokuto «ヘイヘイヘーイ» en el doblaje **no lo oí** (§10.4): que alguien lo
+compruebe en Crunchyroll, T2-04, *streaming* 11:26.
+
+**Lámina 2 (las 8 etiquetas).** Un segundo marcador, o el mismo de
+lado, con **un cartón por etiqueta**: Reto activo, Cerrado, Doblaje,
+Canto, Locución, Para empezar, Con trampa, Libre. Naranja las de
+estado, blanco las de disciplina. Kuroo al lado con **la palma hacia
+arriba, invitando** (calendario, n.º 7).
+
+**Que no quede plano.**
+- **Delante**: la **red** desenfocada cruzando la esquina de abajo
+  (banda blanca de arriba y malla negra) y un **balón** rodando en el
+  suelo, cortado por el borde.
+- **Luz**: atardecer por la puerta (naranja `#E68843` rasante) y
+  relleno frío de los fluorescentes; sombra larga del marcador sobre la
+  madera.
+- **Profundidad**: el marcador en 3/4, más cerca que Bokuto; la
+  pizarrita con **polvo de tiza** y restos borrados.
+- Mitsunaka pone la cámara **a la altura del jugador** (§3.5): el
+  encuadre, bajo, desde la cancha.
+
+### Concepto B — «La pizarra de Nishinoya» → #general-doblaje
+
+**El objeto y el sitio.** La **pizarra blanca del tutorial** del juego
+de 3DS (`objetos_01.jpg` n.º 10-11; [tutorial, 0:06-0:57](https://www.dailymotion.com/video/x25g4z4?t=6) 👁):
+marco de aluminio, **dos pinzas arriba**, **imanes azules** redondos
+(`#5DA1D2`), **rotuladores rojo y negro** y **borrador azul**
+(`#47CAFB`) en la repisa. En el juego está **dentro del gimnasio**
+(desenfocado detrás). Aquí, apoyada en la pared de madera del
+**gimnasio 2** (`fondos_01.jpg` n.º 1). **Se hace en Blender**: las
+pizarras de Sketchfab de §4.1 (CC BY), corcho y madera de Poly Haven
+(CC0).
+
+**El personaje.** **Nishinoya**, el **secundario más querido de
+Karasuno** (el más votado de toda la alineación ideal, §9) y **el que
+presenta el tutorial** del juego. Pose: **de pie junto a la pizarra,
+mano en la cadera, media sonrisa**, chaqueta negra del club (O-10).
+Cara para la segunda línea: su busto en el **recuadro de marco
+naranja** (tutorial, [0:31](https://www.dailymotion.com/video/x25g4z4?t=31)).
+Para recortar en alta: el calendario (n.º 5, 3138×2510; agachado con la
+**bandera roja** apuntando abajo = «señalar el texto de abajo») y la
+hoja de expresiones (n.º 12).
+
+**Cómo habla.** Dos voces a la vez, como el tutorial:
+- lo **escrito a rotulador** en la pizarra (Kalam Bold negro; «POINT»
+  en **rojo** con **llamadas en zigzag** y subrayado ondulado, como en
+  0:06-0:30);
+- y lo que **dice** Nishinoya, en la **caja del juego** con pestaña
+  **NISHINOYA**.
+- Arriba a la izquierda, la **cartela amarilla de puntos** del
+  tutorial (0:03) con «**Presenta: Nishinoya**» en letra gorda (Dela
+  Gothic One).
+
+**Dónde va cada texto** (#general-doblaje):
+
+| Dónde | Texto |
+|---|---|
+| Cartela amarilla de puntos | **General doblaje** / Presenta: Nishinoya |
+| Pizarra, título a rotulador negro | **Del oficio** |
+| Pizarra, lista | Micros · Voces · Técnica · Dudas de novato → mejor en **cuatro líneas** separadas, sin «·» |
+| Pizarra, «POINT» en rojo | **Tu voz grabada va a #demos** |
+| Pizarra, «POINT» en rojo, más abajo | **Los papeles, a #castings** |
+| Caja del juego, pestaña **NISHINOYA** | «¡Pregunta sin miedo! Aquí se habla del oficio.» |
+
+La frase de la caja **no es del canal**: es un ejemplo de tono. El
+dueño decide si va; si no, la caja dice sólo el primer «POINT».
+
+**Que no quede plano.** La repisa con los rotuladores **sale de la
+pizarra hacia nosotros**; un **balón** en primer plano abajo; Nishinoya
+**tapa un poco el marco** (está delante); luz de ventana desde la
+izquierda, que deja **un brillo** en la melamina. Restos grises de lo
+borrado.
+
+### Concepto C — «El formulario de inscripción» → #postulaciones
+
+**El objeto y el sitio.** **Los formularios de inscripción al club**
+(入部届). Kiyoko se los da a Daichi en la primera escena del club, y
+Daichi, al leer «Hinata», echa a los dos del gimnasio hasta que se
+lleven bien (T1-01 *streaming* 21:48; T1-02 04:37 ✅). Aquí: **una
+tablilla con pinza** con el formulario, en primer plano, sobre el
+**suelo de madera** junto a la **puerta del gimnasio 2** (`fondos_01.jpg`
+n.º 2: patio de cemento, día nublado). **Se hace en Blender**: la
+tablilla de Sketchfab «Document Clipboard with Pen» (kuroderuta, CC BY)
+y una hoja con **casillas impresas** y letra a mano.
+
+**El personaje.** **Daichi Sawamura**, el capitán que **recibe los
+formularios**. Dato de oro para un servidor de doblaje: en el doblaje
+latino lo hace **Sergio Morel, que además es el director del doblaje**
+(créditos de Max ✅). Pose: calendario oficial de enero, **seña de
+«TIME-OUT»** (manos en T, silbato en la boca, serio) —
+[Daichi calendar.jpg](https://static.wikia.nocookie.net/haikyuu/images/6/63/Daichi_calendar.jpg),
+3142×2513 👁 —: «**un momento: lo reviso**». Al fondo, pequeños,
+**Hinata y Kageyama** pegados a la puerta (el chiste de la escena).
+
+**Cómo habla.** El **propio formulario** es el cuadro: las casillas
+llevan los textos, escritos a mano (Kalam) en letra de bolígrafo azul.
+Daichi habla en un **globo de manga** alto y estrecho (§7.1 B), de
+trazo fino, con Anime Ace (⚠️ tildes sin comprobar, §6.2) o M PLUS
+Rounded 1c.
+
+**Dónde va cada texto** (#postulaciones: «Solicitudes de staff y de
+proyectos»):
+
+| Dónde | Texto |
+|---|---|
+| Cabecera impresa del formulario | **Postulaciones** |
+| Casilla 1 | **Staff** |
+| Casilla 2 | **Proyectos** |
+| Globo de Daichi | «Una solicitud cada vez. La leemos entera.» ⚠️ **texto de ejemplo**: cómo se revisa de verdad lo tiene que decir el dueño |
+
+⚠️ **#postulaciones está en 🔒 PRIVADOS**. Esta lámina sólo tiene sentido
+si la ve quien postula. Si sólo la ve el staff, mejor usar la idea en
+un hilo de #guia («Cómo pedir algo», «El staff»).
+
+**Que no quede plano.** La **tablilla, inclinada y muy cerca**, tapando
+la esquina de abajo; la **puerta corredera** como marco; luz fría del
+patio contra luz cálida del gimnasio; Hinata y Kageyama **desenfocados**
+al fondo.
+
+### Qué NO hacer en ninguna de las tres
+
+- Burbuja blanca redonda con colita (§7.5).
+- Hinata alto, Kageyama sonriendo feliz, Nishinoya de negro en la
+  cancha (el líbero va de naranja), Kenma gritando (§14.2).
+- Poner el logo japonés escrito con otra letra (§6.3).
+- Usar capturas de T4 para medir color (filtro cálido, §5.2).
 
 ## 20 · Lo que no pude verificar
 
