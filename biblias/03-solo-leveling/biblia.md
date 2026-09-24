@@ -16,6 +16,7 @@ fecha: 2026-09-24
 >   - **Sketchfab** (licencias por su API), **Poly Haven** y **ambientCG** (texturas CC0), **Arctic Shift** (Reddit), **fontTools** (13 letras más: 12 de Google Fonts y la de dafont) y webs que antes daban 403 (ANMTV, TVLaint, CBR).
 >   - Colores **medidos con Pillow** en capturas de la wiki, *storyboards* y arte oficial.
 > - **Siguen cerradas:** TV Tropes, The Cutting Room Floor y Game UI Database (403 de Cloudflare), Bilibili (412) y la web de noticias de Crunchyroll (sólo carga con JavaScript).
+> - **Repaso corto, 24-sep-2026 (noche): los puntos 18-25 nuevos del encargo.** Tres investigadores (imagen: 19 y 23; voz: 20, 21 y 22; texto: 18, 24 y 25) dejaron sus notas en `partes/`; el redactor las pasó a la biblia, en su sitio (puntos 18-25, después de §18). Se usó: la API de la wiki de la serie y la del juego *ARISE*, *The Dubbing Database*, `estilo.py` sobre dos imágenes, Arctic Shift, `oembed` de YouTube y TikTok, Pillow para medir tamaños, y entrevistas del equipo (VFX Voice, Anime Corner, Sony XYN, CBR). YouTube seguía pidiendo iniciar sesión.
 
 **Leyenda**
 - ✅ **confirmado**: dos fuentes, o un archivo que abrí o medí.
@@ -48,6 +49,28 @@ fecha: 2026-09-24
 - Noticia: **«Solo Leveling: Beyond the System»**, película nueva en producción (Crunchyroll, 3-jul-2026).
 
 **Marcas de duda (⚠️):** había **55**; quedan **36**, contadas con `grep` (31 son datos dudosos; 5 son la leyenda, este resumen y la tabla de cumplimiento). El porqué de cada una va a su lado y resumido al final de la bitácora.
+
+### Repaso corto (puntos 18-25) · qué cambió
+
+**Corregido (antes → ahora)**
+- **Emblema de Ahjin:** «círculo morado con aguijón dorado» (nota de la parte de imagen) → **llama o fénix violeta en círculo, sin dorado** ✅ (mirado en una hoja propia y medido con Pillow, punto 19).
+- **Emblema del Gremio de Cazadores:** «insignia circular dorada» → **escudo blanco y gris con una espada vertical** ✅ (mirado, punto 19).
+- **La guía para IA (§18):** decía «línea fina y limpia» para el anime → **casi sin línea negra, con luz de borde de color y fondo desenfocado**; la línea negra es del webtoon ✅ (medido con `estilo.py`, punto 18). Se añadieron las palabras que lo estropean *super deformed, sweat drop, comedic expression, screentone*.
+
+**Añadido**
+- **Punto 18:** quién lo hizo, la regla del director (nada de gestos de dibujo animado, «como imagen real»), 2D y 3D mezclados, captura de movimiento con mocopi, cómo replicarlo en Photoshop y Blender, y un encuadre por emoción.
+- **Punto 19:** no hay tramas; líneas de velocidad, grabado de metal CC0, grano de papel. **5 emblemas de gremio** con tamaño y color.
+- **Punto 20:** cumpleaños de Jinwoo (8-mar) y Cha Hae-In (24-dic) con dos fuentes; la historia humana de Igris (**Sian Halat**); por qué Beru habla florido (ve doramas de época); Cha Hae-In, atleta retirada por una lesión.
+- **Punto 21:** 9 premios y **51 millones de votos** en los Crunchyroll Anime Awards 2025; la escena del hospital del ep. 21, vista en un fotograma.
+- **Punto 22:** 6 covers latinos de los openings, un meme de TikTok y *The Dubbing Database* como **tercera fuente del reparto** (Daniel Lacy como Beru).
+- **Punto 23:** Fortnite, *ARISE* × *Frieren*, Grand Summoners, la exposición de Seúl, el pop-up «System Sync», el Nendoroid (trae **el panel del Sistema como pieza**) y dos cosplays con tamaño medido.
+- **Punto 24:** obras parecidas (AniList y prensa), la cita de Chugong sobre el Itarim y las láminas vecinas del servidor (el tablón de corcho ya es de Solo Leveling).
+- **Punto 25:** el mundo en cinco líneas, **14 arcos del anime con sus episodios**, objetos icónicos y el vocabulario latino.
+- **Conceptos (§20):** siguen los tres; se añade cómo los mejora el repaso y una **lámina 2 «De qué va esto»** con los 14 arcos.
+- `referencias.json`: **148 entradas** (antes 40): emblemas, colaboraciones, figura, cosplay y lo útil de `datos.json`.
+- La tabla de cumplimiento ya tiene **los 25 puntos**.
+
+**Marcas de duda (⚠️):** eran **36** antes del repaso; ahora **102** con `grep`. Suben porque los puntos nuevos traen muchos datos de una sola fuente (la wiki, un blog, una nota de prensa), marcados uno a uno. Lo que no se pudo cerrar va en §21 y en la tabla.
 
 ---
 
@@ -810,7 +833,7 @@ Ninguno de estos vídeos tiene subtítulos ni capítulos (comprobado con yt-dlp)
 - Noche `#0C1721`, azul `#1C254E`, cian `#89BAD3` y `#C5E8EE`.
 - Violeta `#6A5B8F` / `#9229F9`, acento rojo `#CF5678`.
 
-**Línea y sombreado:** anime de A-1. Línea fina y limpia, sombras duras de dos tonos, luz de borde de color (rim light roja o cian). Mucho contraste.
+**Línea y sombreado:** anime de A-1. **Casi sin contorno negro**: la poca línea es fina y de color (`#693D56` en el fotograma de Igris del ep. 11). Sombras duras de dos tonos y **luz de borde de color** (rim light roja, rosa o cian). Mucho contraste. La línea negra continua es del webtoon, no del anime (punto 18).
 
 **Luz:** fuente fría desde abajo (la ventana del Sistema o el portal), contraluz y humo.
 
@@ -1311,19 +1334,27 @@ Tras la segunda pasada quedan:
 | 14 · Poses analizadas (6-10 por personaje) | ✅ | Jinwoo 14, Igris 9, Beru 6, Cha Hae-In 8, con minuto o número de hoja (§7) |
 | 15 · Vestuario con hex | ✅ | medido en CV, renders y clips (§8) |
 | 16 · Paisajes y fondos de pantalla con tamaño y autor | ✅ | visuales oficiales 1920×1080 y fondos de fans de DeviantArt con autor y tamaño (§10.1) |
-| 17 · Guía para IA | ✅ | rasgos fijos, paleta medida, palabras, qué hoja usar (§18) |
-| 3 conceptos de lámina | ✅ | actualizados con las imágenes y los modelos nuevos (§20) |
-| 40 fuentes distintas | ✅ | 336 enlaces de 76 sitios distintos (lista de Fuentes) |
-| Tipos de fuente: oficiales | ✅ | Aniplex, web oficial, Crunchyroll, entrevista de Cocotame (Sony Music) |
-| Tipos de fuente: otros idiomas | ✅ | japonés (Aniplex, Natalie, Cocotame), coreano (namu.wiki, prensa), vietnamita (subtítulos) |
-| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki sí; TV Tropes, TCRF y Wayback fallaron (403 y conexión cortada) |
+| 17 · Guía para IA | ✅ | imagen: rasgos fijos, paleta medida, línea y luz medidas, palabras que ayudan y que estropean, qué hoja usar; texto: reglas de puntuación y trato, 10 frases reales del doblaje por emoción, vocabulario (§18). Falta: onomatopeyas (no las documenté) |
+| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | staff con fuente, regla del director (CBR, FandomWire), línea y color medidos con `estilo.py` en anime y webtoon, 2D + 3D y mocopi (VFX Voice, Anime Corner, Sony XYN), Photoshop y Blender paso a paso, encuadre por emoción (punto 18). Falta: el programa 2D del estudio y el nombre de sus filtros (sin fuente) |
+| 19 · Texturas 2D | ✅ | no hay tramas (canmom.art); líneas de velocidad (uso comercial con atribución), grabado de metal CC0, tramas gratis de Clip Studio, grano de papel CC0; 5 emblemas mirados y medidos (punto 19). Falta: patrón de tela y emblema de la Asociación (no los encontré) |
+| 20 · Gustos y detalles | ⚠️ | cumpleaños de Jinwoo y Cha Hae-In con dos fuentes; historia de Igris con tres; aficiones, manías y cómo se ven, casi todo de una fuente (wiki) (punto 20). Comidas y alturas oficiales: no las encontré; dos webs de fans dicen que no hay *databook* |
+| 21 · Por qué la aman y la escena que hace llorar | ⚠️ | premios, 51 millones de votos, ventas y razones con fuente; la escena del ep. 21 vista en un fotograma, con reacciones de Reddit; gritar y reír con minuto (punto 21). Falta: **el minuto** de la escena del hospital y si suena «REVIVƎЯ» justo ahí (YouTube pide iniciar sesión) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 6 covers latinos de los openings y 1 meme de TikTok, comprobados por `oembed`; Antov y *The Dubbing Database* (punto 22). Falta: **las vistas** (no las da `oembed`), el enlace de @naruto_dominiicano y un fandub con grupo propio (no lo encontré) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite, *ARISE* × *Frieren*, Grand Summoners, exposición de Seúl, pop-up de Nueva York con dos o tres fuentes; Nendoroid oficial; 2 cosplays mirados con tamaño medido (punto 23). Una fuente: (G)I-DLE, OVERDRIVE, Seven Knights, el café de 2024. Falta: marcas de ropa o bebidas (no las encontré) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | AniList + 3 medios; cita de Chugong (CBR); obras relacionadas; biblias vecinas revisadas por su índice (punto 24). Falta: una entrevista de Chugong sobre sus influencias (sólo un blog) |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | el mundo en 5 líneas, 14 arcos del anime con episodios (wiki + Wikipedia), emblemas (punto 19), objetos icónicos y vocabulario latino (punto 25). Sin nombre latino comprobado: Arquitecto, Monarcas y Gobernantes, Red Gate, piedras de maná |
+| 3 conceptos de lámina | ✅ | actualizados con las imágenes y los modelos nuevos (§20); el repaso añade el acabado del punto 18, el emblema de Ahjin, el modelo de Cha Hae-In, la historia de Igris y una lámina 2 con los 14 arcos |
+| 40 fuentes distintas | ✅ | 436 enlaces de 111 sitios distintos, contados por `revisar.py` (antes del repaso: 336 de 76) |
+| Tipos de fuente: oficiales | ✅ | Aniplex, web oficial, Crunchyroll, entrevista de Cocotame (Sony Music); en el repaso, Sony XYN, Kakao, Good Smile, Yen Press, la tienda de Fortnite y el X de *ARISE* |
+| Tipos de fuente: otros idiomas | ✅ | japonés (Aniplex, Natalie, Cocotame; en el repaso ASCII.jp y eeo Media), coreano (namu.wiki, prensa, Korea Herald), vietnamita (subtítulos), francés (solo-leveling.fr) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (la de la serie y la de *ARISE*), Doblaje Wiki, *The Dubbing Database* y Fandub Database sí; TV Tropes y TCRF en 403; Wayback respondió en el repaso, pero TV Tropes no tiene copia y la de namu.wiki da 403 |
 | Tipos de fuente: foros | ✅ | Reddit por Arctic Shift |
-| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | DeviantArt sí (RSS); Pixiv y ArtStation no |
+| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | DeviantArt sí (RSS), Safebooru y cosplays de Reddit con autor; Pixiv y ArtStation no se probaron |
 | Tipos de fuente: vídeo con minuto | ✅ | YouTube por yt-dlp y *storyboards* |
-| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas), Sketchfab, Poly Haven, ambientCG, Google Fonts |
+| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas), Sketchfab, Poly Haven, ambientCG, Google Fonts; en el repaso, 3dtextures.me, CC0 Textures, Clip Studio Assets y myphotoshopbrushes |
 | Tipos de fuente: doblaje latino | ✅ | Doblaje Wiki (API y audios), ANMTV, TVLaint, Infobae, IGN Latinoamérica |
 | Hojas de contacto | ✅ | 3 hojas propias en `hojas/`, miradas, con tabla y enlaces (§10.0) |
-| `referencias.json` (20-40, medidas) | ✅ | 40 entradas; todas las imágenes con ancho y alto medidos |
+| `referencias.json` (mínimo 20, sin máximo, medidas) | ✅ | 148 entradas, las mejores primero: las de las partes (`imagen.json`, `voz.json`, `texto.json`) y lo útil de `datos.json`. Todas las imágenes con ancho y alto medidos; sin tamaño sólo 3 vídeos con `&t=` y 3 páginas de pinceles y texturas. Fuera: el retrato del «Narrator» de AniList (sin tamaño) y 6 fan arts de Kim Dokja (es de otra obra) |
 
 ---
 
@@ -1399,11 +1430,52 @@ Tras la segunda pasada quedan:
 
 **Marcas de duda:** había **55** al empezar. Quedan **36** con `grep` (31 de datos; 5 de la leyenda, el resumen del principio y la tabla de cumplimiento). Los que quedan son, sobre todo: datos con una sola fuente (grabación y mezcla de la T2, Esil, Iron), frases del doblaje sacadas por reconocimiento de voz, lo que no se pudo oír («Surge», la música), la interfaz del juego y las letras comerciales que citan los fans.
 
+### Repaso corto: puntos 18-25 (24-sep-2026, noche)
+
+Juntado de las bitácoras de `partes/imagen.md`, `partes/voz.md` y `partes/texto.md`. Cada investigador tenía su cupo de ~50 búsquedas web; ninguno lo agotó.
+
+**Imagen (puntos 19 y 23)**
+- **API de la wiki** (inglés): `srsearch` con *collaboration*, *emblem OR logo*, *Ahjin Guild*, *Hunters Association emblem seal*, *magic circle*, *hunter license card*; `imageinfo` de `Ahjin.png`, `Ah-Jin Logo Ch.141.PNG` e `Insignia Hunters.png` ([ficha de Ahjin.png](https://solo-leveling.fandom.com/wiki/File:Ahjin.png), [Hunters Guild](https://solo-leveling.fandom.com/wiki/Hunters_Guild)).
+- **Búsquedas web** (inglés, 11): estilo de DUBU y Redice, técnica de color, pinceles de trama y de líneas de velocidad, papel CC0, tramas gratis de Clip Studio, grabado de metal CC0, colaboraciones de 2026, café y exposición en Corea, Fortnite, cruces de *ARISE*, cosplay.
+- **Páginas leídas:** canmom.art (análisis entero), KoreaLore, Good Smile, IDC Games, Anime Corner. **ANN dio 403**: se usó el resumen del buscador.
+- **Arctic Shift** (r/SoloLeveling): `title=cosplay` (15 posts) y `posts/ids` para sacar el tamaño real de las fotos.
+- **Medido con curl y Pillow:** emblemas, visual de la exposición, imagen de la colaboración con *Frieren*, foto del Nendoroid y dos cosplays; la licencia del pack de líneas de velocidad (JSON-LD de su página) y el precio (0 $) de las tramas de Clip Studio.
+- **No encontré:** entrevista técnica de DUBU o Redice; emblema propio de la Asociación de Cazadores; patrón de tela en la ropa; colaboraciones con marcas de ropa o bebidas (*Solo Leveling brand collaboration fashion*, *Solo Leveling 7-Eleven*).
+
+**Voz y personajes (puntos 20, 21 y 22)**
+- **API de Fandom, sin buscador:** wikitext de Jinwoo, Cha Hae-In, Igris, Beru, Yoo Jinho, el Sistema, Go Gunhee, Jinah y Park Kyung-Hye en la wiki de la serie; Jinwoo, Cha Hae-In, Igris y Beru en la del juego *ARISE* (Dossier, Secret File, Trivia; [Trivia de Cha Hae-In en *ARISE*](https://solo-leveling-arise.fandom.com/wiki/Cha_Hae-In#Trivia)); la ficha latina de *The Dubbing Database*; «Solo Leveling» en Fandub Database (sólo filipino e indonesio).
+- **Búsquedas web:**
+  - Inglés: fichas de personaje, cumpleaños, gustos, *databook*, historia de Igris, premios de Crunchyroll, ventas del webtoon, por qué la aman en Reddit, fandub y covers latinos, memes, Frikidoblaje, SakuraDubs, Kudasai Fandub, AS Fandub, @naruto_dominiicano.
+  - Coreano: «성진우 좋아하는 음식 취미 프로필» (nada útil) y «나 혼자만 레벨업 크런치롤 어워드 수상 한국 애니메이션 최초» (prensa coreana).
+  - Japonés: «俺だけレベルアップな件 クランチロール アワード 受賞 感想» (prensa japonesa).
+- **Páginas leídas:** myanimeguru, readsololevelingmanga.us, DualShockers, Kakao, Atento a Música (español), eeo Media y ASCII.jp (japonés), CBR (Oricon), Sensor Tower. **natalie.mu dio 403.**
+- **curl directo:** `oembed` de YouTube (6 covers y 2 vídeos) y de TikTok (1 de 2); Arctic Shift (posts con *cried* y *relatable*, y los comentarios del post 1j17hlz); el fotograma de ese post, **bajado y mirado**.
+- **Bloqueados:** `yt-dlp` («Sign in to confirm you're not a bot», un intento por vídeo) y reddit.com (403).
+- **No encontré:** comidas, cumpleaños y alturas oficiales de Igris, Beru, Jinho, Go Gunhee y el Sistema (campos vacíos en las dos wikis); el minuto de la escena del hospital; las vistas de covers y meme; un fandub latino con grupo propio.
+
+**Texto, técnica y mundo (puntos 18, 24 y 25)**
+- **API de la wiki:** `Story Arcs`, `Guilds`, `Class Ranks`, `Statue of God`, `Kamish's Wrath`, `Demon King's Longsword`, `Architect` e `imageinfo` de 9 insignias de gremio.
+- **Búsquedas web** (la parte dice 9; lista 12):
+  - Inglés: *making of* de A-1 (3DCG, *toon shader*, ventana del Sistema); entrevistas e influencias de Chugong; obras parecidas; TV Tropes; análisis de encuadres; aberración, grano y *bloom*; entrevista de Dubu; programas de A-1 (RETAS, Toon Boom, Clip Studio).
+  - Japonés: «ソロレベリング アニメ 制作 インタビュー システムウィンドウ CG 監督» y «"Solo Leveling" anime director Nakashige interview 演出 カメラ 構図».
+  - Coreano: «추공 인터뷰 나 혼자만 레벨업 영감 게임» (dos variantes).
+- **Páginas leídas:** Sony XYN, Anime Corner, Awards Radar, VFX Voice, CBR (dos). **namu.wiki y TV Tropes dieron 403.**
+- **Sketchfab API:** `q=solo leveling`, descargables (24 resultados), y licencia de 4 modelos.
+- **Wayback Machine:** TV Tropes sin copia; namu.wiki con copia, pero 403 al leerla.
+- **Medido y mirado:** el fotograma de Igris (ep. 11, 1366×768) y la viñeta del cap. 50 (574×778) con `estilo.py --colores 6`; 4 insignias en una hoja propia.
+- **Biblias vecinas** revisadas por su índice (`seccion.py --indice`): One Piece, Attack on Titan, Jujutsu Kaisen, Demon Slayer, Naruto, My Hero Academia, One Punch Man y Frieren.
+- **No encontré:** entrevista directa de Chugong sobre sus influencias (sólo el blog de solo-leveling.fr); entrevista de Dubu sobre su proceso; el programa 2D de A-1 y el nombre de sus filtros.
+
+**Redactor**
+- Leí las tres partes y pasé cada dato a su punto (18-25, después de §18). Los emblemas de gremio se miraron en una hoja propia (parte de texto y redactor): **se corrigieron los colores** que daba la parte de imagen (no llevan dorado).
+- `referencias.json`: junté `imagen.json`, `voz.json`, `texto.json` y lo útil de `datos.json` (148 entradas). Dejé fuera el retrato de «Narrator» (sin tamaño) y 6 fan arts de Kim Dokja, que es de *Omniscient Reader's Viewpoint*.
+- Las 3 hojas de `hojas/` siguen siendo las de la segunda pasada (§10.0).
+
 ---
 
 ## Fuentes
 
-**336 enlaces distintos de 76 sitios** (143 de la primera pasada; el resto, de la segunda), citados arriba en cada dato. Aquí están sus direcciones: en la vista de lectura no se ven, pero en el editor sí.
+**436 enlaces distintos de 111 sitios** (143 de la primera pasada; 336 tras la segunda; el resto, del repaso de los puntos 18-25), citados arriba en cada dato. Aquí están sus direcciones: en la vista de lectura no se ven, pero en el editor sí.
 
 [wp]: https://en.wikipedia.org/wiki/Solo_Leveling
 [wp-s1]: https://en.wikipedia.org/wiki/Solo_Leveling_season_1
