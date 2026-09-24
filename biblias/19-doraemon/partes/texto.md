@@ -427,7 +427,8 @@ la revista CGWorld al equipo de *Stand By Me Doraemon*, 2014)**
 | 24 · Obras parecidas | ✅ hecho de cero | Obras del mismo autor/estudio, influencia de Tezuka (2 fuentes), 3 láminas ya hechas del servidor con paralelos. |
 | 25 · El mundo, la historia y sus símbolos | ✅ hecho de cero | Reglas del mundo, origen del azul y el cascabel, vocabulario con hex de ficha, cronología con hitos culturales (Kawasaki, TIME, Godzilla). |
 
-Sigue: nada pendiente de mis puntos obligatorios. Quedan dos ⚠️ que ya
-estaban abiertos en la biblia y que intenté cerrar sin éxito (fondo de enero
-2024, software de pintura 2D exacto): los dejo documentados arriba, no son
-tareas a medias sino límites reales de lo que hay publicado.
+Parte de texto terminada: no queda ningún punto obligatorio (5, 6, 11, 18, 24,
+25) pendiente. Quedan dos ⚠️ que ya estaban abiertos en la biblia y que
+intenté cerrar sin éxito (fondo de enero 2024, software de pintura 2D exacto):
+los dejo documentados arriba, no son tareas a medias sino límites reales de lo
+que hay publicado.
