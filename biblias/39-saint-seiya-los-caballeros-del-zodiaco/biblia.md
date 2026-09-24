@@ -875,3 +875,685 @@ Lista de [Wikipedia](https://en.wikipedia.org/wiki/List_of_Saint_Seiya_video_gam
   Soldiers* ni de los juegos antiguos; tampoco su contenido descartado
   (TCRF no se consultó) ⚠️.
 
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### 14.1 Lo que todo fan reconoce ✅
+
+- **Nunca mueren del todo**: los de bronce se levantan más fuertes
+  después de cada golpe casi mortal.
+- **El grito de la técnica** antes de usarla: Meteoro de Pegaso, Cólera
+  del Dragón, Polvo de Diamante, Cadena de Andrómeda, Ave Fénix.
+- **Superar el límite imposible** con el Cosmos («¡Arde, mi Cosmos!»).
+- **La amistad como arma literal** contra villanos que se burlan de ella
+  y pierden.
+- **Shun confundido con una chica** por su cara y su armadura rosa: es un
+  tema real, y Netflix 2019 lo hizo mujer.
+- **Jesús Barrero** como la voz de Seiya para siempre (§22).
+
+Fuentes: los clips doblados vistos y reseñas de fans ([SS Next Dimension](https://www.ssnextdimension.com/el-anime/saint-seiya-clasico/su-exito-en-japon/)).
+
+### 14.2 Qué NO hacer ✅
+
+1. **No burbuja blanca genérica** (§7).
+2. **No poner a Seiya con armadura dorada** por defecto. La icónica es
+   **blanca con traje rojo** (bronce); la dorada de Sagitario es un arco
+   puntual y la de *Omega*. El fandom lo nota enseguida.
+3. **No hacer sonreír fácil a Ikki** ni hacerlo hablar mucho: frases
+   cortas y frías.
+4. **No hacer a Saori una princesa pasiva**: decide ella.
+5. **No dibujar a Shun como mujer** si la lámina es de la serie clásica
+   o el manga; sólo en la de Netflix 2019, y avisando.
+6. **No mezclar actores de doblaje entre versiones**: Mendoza y Patiño
+   repiten en 1992 y 2019, pero no en 2022. En un servidor de doblaje,
+   un error aquí se nota.
+7. **No pintar las Doce Casas de blanco luminoso**: por dentro son negro
+   azulado y rojo (§5).
+8. **No dar armas a los Santos**: Athena odia las armas; sólo Libra, con
+   su permiso (§8.6).
+9. **No dibujar el dragón de Shiryu como tatuaje fijo**: sólo aparece
+   cuando sube su Cosmos (§8.2).
+10. **No inventar una colaboración con Fortnite**: no está confirmada
+    (§24).
+
+## 15 · Poses analizadas por personaje
+
+Formato: qué hace (postura, manos, mirada) · fuente · para qué sirve.
+Las imágenes de la wiki van en [saintseiya.fandom.com](https://saintseiya.fandom.com)
+con su nombre de archivo. El redactor **abrió en grande** las poses 1-6
+de Seiya y corrigió cuatro descripciones de la parte de vídeo (§28).
+
+### 15.1 Seiya
+
+1. **En guardia con la armadura**, puño al frente, piernas abiertas ·
+   [Pegasus Seiya Basic Pic.jpg](https://static.wikia.nocookie.net/saintseiya/images/6/60/Pegasus_Seiya_Basic_Pic.jpg)
+   960×960 (`personajes_01` n.º 21) · **presentar**.
+2. **De espaldas, con la Pandora Box a la espalda** (correas), junto a
+   Marin, entre ruinas · *Seiya's farewell.PNG* 1025×768 (n.º 22) ·
+   **despedirse, llevar la caja**.
+3. **En el centro de un estallido de líneas radiales**, golpeando a
+   varios a la vez (el Meteoro) · *Seiya defeating Shaina's
+   henchmen.PNG* 1024×768 (n.º 23) · **atacar**.
+4. **Con la mano sobre la Pandora Box** en una mesa, ropa de calle, de
+   noche · *Seiya's joy of obtaining the Pegasus Cloth.PNG* 1023×768
+   (n.º 24) · **explicar** (señala el objeto).
+5. **Puño en alto** con la armadura; detrás, la **constelación de
+   Pegaso** en estrellas blancas · *Seiya with the Pegasus Cloth.PNG*
+   1022×768 (n.º 25) · **celebrar, presentar**.
+6. **De espaldas, plantado ante el gigante Cassios** en el coliseo lleno,
+   con ropa de entrenamiento · *Seiya defeated Cassios.PNG* 1023×767
+   (n.º 26) · **animar** (el pequeño contra el grande).
+7. **Corriendo con el brazo extendido**, boca abierta, fondo de galaxia ·
+   opening, [1:00](https://www.dailymotion.com/video/x8ckt3d?t=60) ·
+   **animar**.
+8. **Primer plano sonriendo** · opening, [1:09](https://www.dailymotion.com/video/x8ckt3d?t=69) · **celebrar**.
+9. **Dientes apretados, mano alzada**, gritando · [x3iigt0, 1:30](https://www.dailymotion.com/video/x3iigt0?t=90) · **regañar, decidir**.
+10. **El escudo dorado en alto** sobre la cabeza, luz detrás ·
+    [x3iigt0, 2:24](https://www.dailymotion.com/video/x3iigt0?t=144) ·
+    **presentar, celebrar**.
+
+### 15.2 Shiryu
+
+1. De pie, armadura verde, pose neutra · [Bronze - Dragon Shiryu V1.jpg](https://static.wikia.nocookie.net/saintseiya/images/0/01/Bronze_-_Dragon_Shiryu_V1.jpg) 447×800 · **presentar**.
+2. Puño sobre la cabeza y un **dragón azul** formándose detrás · [Tech-Shiryu-RozansRisingDragon.jpg](https://static.wikia.nocookie.net/saintseiya/images/1/1d/Tech-Shiryu-RozansRisingDragon.jpg) 600×440 · **animar, atacar**.
+3. Ráfaga de puños abstracta, azul y roja (Cien Dragones) · *Tech-Shiryu-Rozans100RisingDragons.jpg* 593×397 · **atacar**.
+4. Viñeta de manga, brazo con líneas de velocidad (Excalibur) · *Dragon Excalibur.jpg* 481×402 · **explicar una técnica**.
+5. Torso desnudo bajo una cascada, entrenando · Netflix ep. 6, [1:06](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=66) ⚠️ (no es seguro que sea él) · **pensar, entrenar**.
+6. Cayendo o flotando, vulnerable (antes de Shura) · *Shura-shiryu.jpg* ⚠️ (sólo 187×141) · **pensar**.
+7. Grito de alegría al ver a su maestro · [x8x2zig, 2:48](https://www.dailymotion.com/video/x8x2zig?t=168) · **celebrar**.
+
+### 15.3 Hyoga
+
+1. Puños al frente, piernas muy abiertas, armadura blanca y azul · [Cygnus Hyoga Basic Pic.jpg](https://static.wikia.nocookie.net/saintseiya/images/b/b0/Cygnus_Hyoga_Basic_Pic.jpg) 800×800 · **presentar, atacar**.
+2. **Ropa de calle, mano en la cintura**, media sonrisa de lado · [Hyoga 2.jpg](https://static.wikia.nocookie.net/saintseiya/images/4/43/Hyoga_2.jpg) 720×720 (abierta en grande) · **explicar**, relajado.
+3. En el espacio, un brazo arriba y otro abierto, aura azul · *Screenshot 9.png* 899×522 · **celebrar**.
+4. Primer plano serio con el casco · *Hyoga Early Bronze Cloth in Sanctuary Arc.png* 720×544 · **pensar, explicar**.
+5. De niño, puño junto a la cara, desafiante, fondo de hielo · *Hyoga Child.png* 720×544 · **animar**.
+6. Volando con alas de cisne y la constelación detrás (Netflix) · [KotZ Netflix Hyoga…Cygnus.jpg](https://static.wikia.nocookie.net/saintseiya/images/b/ba/KotZ_Netflix_Hyoga_with_his_Guardian_Constellation%2C_Cygnus.jpg) 960×511 · **presentar**.
+
+### 15.4 Shun
+
+1. De pie con las **cadenas desplegadas**, fondo de galaxia · [Andromeda Shun wallpaper.jpeg](https://static.wikia.nocookie.net/saintseiya/images/7/73/Andromeda_Shun_wallpaper.jpeg) 1920×1080 · **presentar**.
+2. **Poseído por Hades**, alza un báculo, cara oscura · *Hades Shun lifts a staff.png* 1680×1124 · **amenazar** (avisar que es el poseído).
+3. Retrato de pie, sereno · [Andromeda Shun - ND.jpg](https://static.wikia.nocookie.net/saintseiya/images/7/7d/Andromeda_Shun_-_ND.jpg) 721×861 · **explicar**.
+4. Al aire libre, relajado (*Legend of Sanctuary*) · *Shun in Saint Seiya Legend of Sanctuary.jpg* 960×540 · **pensar**.
+5. Defensiva, capa ondeando, en el desierto · Netflix ep. 6, [2:15](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=135) · **defender, regañar**.
+6. **Brazos abiertos de par en par**, se interpone · ep. 6, [4:50](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=290) · **proteger, animar**.
+
+### 15.5 Ikki
+
+1. Cuerpo entero con **alas de fuego** detrás (Netflix) · *Netflix KotZ Phoenix Nero full body.png* 1597×2892 · **presentar**.
+2. Armadura roja, wallpaper oficial · [Phoenix Ikki wallpaper.jpeg](https://static.wikia.nocookie.net/saintseiya/images/6/69/Phoenix_Ikki_wallpaper.jpeg) 1920×1080 · **presentar**.
+3. **Camina recto entre las llamas**, sin inmutarse · *KotZ Netflix Phoenix Ikki walk through the fire.jpg* 960×540 · **animar** (determinación).
+4. **Puñetazo directo a cámara**, furia · *KotZ Netflix Phoenix Ikki throw a punch.jpg* 960×540 · **regañar, atacar**.
+5. **Brazos cruzados** con la armadura final · [Phoenix ikki final bronze cloth.jpg](https://static.wikia.nocookie.net/saintseiya/images/f/fc/Phoenix_ikki_final_bronze_cloth.jpg) 800×600 · **explicar, poner reglas**.
+6. **Mira el recuerdo dorado de Esmeralda** en la palma, torso desnudo · ep. 6, [3:53](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=233) · **pensar**.
+7. **Puño en alto** con aura de fuego en forma de alas · ep. 6, [4:54](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=294) · **atacar, regañar**.
+8. En guardia con la armadura clásica, un puño al frente y la otra mano junto al casco · [Phoenix Ikki Basic Pic.jpg](https://static.wikia.nocookie.net/saintseiya/images/c/c6/Phoenix_Ikki_Basic_Pic.jpg) 650×650 (abierta en grande) · **presentar**.
+
+### 15.6 Saori / Athena
+
+1. Cuerpo entero, vestido blanco, **báculo dorado** · *Netflix KotZ Sienna Kido or Athena full bdy.png* 2205×2912 · **presentar**.
+2. Wallpaper oficial, serena · [Saori Kido wallpaper.jpeg](https://static.wikia.nocookie.net/saintseiya/images/1/15/Saori_Kido_wallpaper.jpeg) · **explicar**.
+3. **Aura de luz** de diosa, fondo de galaxia · *KotZ Netflix Soari Athena's Cosmo aura.jpg* 1920×1080 · **animar, celebrar**.
+4. Con la **armadura divina y alas doradas** · [Athena God Cloth.png](https://static.wikia.nocookie.net/saintseiya/images/5/5d/Athena_God_Cloth.png) 663×850 · **presentar** (guerrera).
+5. En el desierto, manto y báculo, decidida · *KotZ Netflix Saori Kido as Athena.jpg* 960×540 · **explicar**.
+6. **Sentada en un trono**, báculo en la derecha, mira firme hacia abajo · ep. 6, [1:21](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=81) · **presidir, explicar**.
+
+### 15.7 Qué pose para qué
+
+| Para… | Mejor pose |
+|---|---|
+| **Presentar** | Seiya 1 o 5; Saori 1; Ikki 1 |
+| **Explicar** | Seiya 4 (mano en la caja); Hyoga 2; Ikki 5 (brazos cruzados); Saori 6 (trono) |
+| **Celebrar** | Seiya 10 (escudo en alto); Shiryu 7; Hyoga 3 |
+| **Regañar** | Seiya 9; Ikki 4 |
+| **Pensar** | Ikki 6 (el recuerdo); Hyoga 4 |
+| **Animar** | Seiya 6 y 7; Shun 6 (brazos abiertos); Ikki 3 |
+
+## 16 · Vestuario, con hex medidos
+
+Medido con `estilo.py` sobre la imagen citada (paleta completa en
+`partes/imagen.json`).
+
+### 16.1 Las armaduras de bronce
+
+| Quién | Colores | Medido en | Estado |
+|---|---|---|---|
+| **Seiya, Pegaso** | cuerpo plata y hueso `#C5C0BC`, `#EDEAE3`; acento granate `#533633` (fondo `#121021`). En el anime clásico el **traje de debajo es rojo** y la armadura blanca (visto en la n.º 25) | [Pegasus Seiya (Myth Cloth CG).jpg](https://static.wikia.nocookie.net/saintseiya/images/e/e6/Pegasus_Seiya_%28Myth_Cloth_CG%29.jpg) 720×960 | ✅ coincide con las 5 hojas técnicas |
+| **Ikki, Fénix** | naranja dorado `#EDB045`, `#94662D` / `#CD864A`, `#784313`: la más cálida de las cinco | *Phoenix ikki final bronze cloth.jpg* 800×600 y *Phoenix Ikki Basic Pic.jpg* 650×650 | ✅ dos imágenes |
+| **Shiryu, Dragón** | verde azulado `#45A89A`, `#9EF1DA` | *Bronze - Dragon Shiryu V1.jpg* 447×800 | ⚠️ una imagen |
+| **Shun, Andrómeda** | armadura **rosa o magenta**; pelo y ojos **verdes** en el anime (castaño rojizo y azules en el manga) | etiqueta Danbooru `pink_armor` + wiki | pelo ✅; armadura ⚠️ sin medir (los wallpapers están dominados por el fondo) |
+| **Hyoga, Cisne** | blanca y azul | hojas técnicas n.º 32, 39, 41 | ⚠️ sin hex |
+
+### 16.2 Athena y los dorados, por arco
+
+| Qué | Colores | Medido en |
+|---|---|---|
+| **Vestido de Athena** (armadura divina) | blanco `#FCFBFB`, dorado mostaza `#D8C049`, amarillo pálido `#F5F28E`, lila gris `#AEA4C5` en joyas y báculo | [Athena God Cloth.png](https://static.wikia.nocookie.net/saintseiya/images/5/5d/Athena_God_Cloth.png) 663×850 ✅ |
+| **Gold Cloth clásica** (saga del Santuario) | dorado marrón `#AC7623`, amarillo `#DFC544`, fondo púrpura gris | [Athena and the Gold Saints.PNG](https://static.wikia.nocookie.net/saintseiya/images/2/24/Athena_and_the_Gold_Saints.PNG) 1920×1080 ✅ |
+| **God Cloth** de los dorados (saga de Hades) | más quemada: `#A4893D`, `#D9C53D`, crema `#F4EAB7`, mucha línea `#A18C40` | [God Cloth Gold Saints.png](https://static.wikia.nocookie.net/saintseiya/images/1/1a/God_Cloth_Gold_Saints.png) 1920×1080 ✅ |
+| **Odin Robe** (Asgard, *Soul of Gold*) | **nada de dorado**: marino `#171C26`, `#294373`, `#4165A4`, acento mostaza `#AEAA36` | [Aiolia (Odin Robe and Aiolos).png](https://static.wikia.nocookie.net/saintseiya/images/b/be/Aiolia_%28Odin_Robe_and_Aiolos%29.png) 1920×1080 ✅ |
+| *Soul of Gold* | el mismo dorado con **aura más intensa** | [Gold Saints (Soul of Gold).png](https://static.wikia.nocookie.net/saintseiya/images/e/ee/Gold_Saints_%28Soul_of_Gold%29.png) ⚠️ |
+
+**El hallazgo**: el mismo personaje **cambia de paleta según el arco**
+(Aiolia: dorado en el Santuario, azul marino en Asgard). Sirve para
+fechar una escena sin texto.
+
+### 16.3 Ropa de calle (la de la vida diaria)
+
+- **Seiya**: **camiseta roja sin mangas**, jean claro, tenis blancos,
+  muñequeras rojas y banda roja en el brazo izquierdo ([wiki](https://saintseiya.fandom.com/wiki/Pegasus_Seiya#Appearance)
+  ✅ + visto en `personajes_01` n.º 10, 14, 15 y 24). **Hex sin medir** ⚠️:
+  el n.º 14 (muelle, 1242×932) es el más limpio para medirlo.
+- **Hyoga**: camiseta azul sin mangas, pantalón negro, **calentadores
+  naranja**, zapatos negros; a veces abrigo café ([wiki](https://saintseiya.fandom.com/wiki/Cygnus_Hyoga#Appearance)
+  ✅ + visto en *Hyoga 2.jpg*). Hex sin medir ⚠️.
+- **Saori**: vestido blanco sin mangas, gargantilla, **báculo de Niké**
+  dorado en la mano derecha (Danbooru `white_dress`, `choker`,
+  `holding_staff` + wiki) ✅.
+- En *Legend of Sanctuary*, Seiya lleva sudadera, abrigo y una **placa de
+  identificación** con su constelación (wiki) ✅.
+
+### 16.4 Peinados que se reconocen de lejos ✅
+
+- **Seiya**: castaño, puntas hacia arriba.
+- **Shiryu**: negro, muy largo, liso.
+- **Hyoga**: rubio, ojos azules (herencia rusa).
+- **Shun**: verde en el anime, flequillo lacio.
+- **Ikki**: azul oscuro, alborotado, **cicatriz** en la cara (`scar`).
+- **Saori**: lila o morado, **muy largo**.
+
+### 16.5 La Pandora Box
+
+**Verde azulada con el emblema** en la serie clásica (visto en las n.º
+22 y 24; **sin medir** ⚠️); gris, o dorada en las de oro, según la wiki
+en español ([Pandora Box](https://saintseiya.fandom.com/es/wiki/Pandora_Box)) ✅.
+Se carga **a la espalda con correas** (n.º 22).
+
+## 17 · Paisajes y fondos de pantalla
+
+### 17.1 Sitios con su luz y su hora ✅
+
+| Sitio | Hora y luz | Imagen |
+|---|---|---|
+| Santuario por fuera | **día difuso**, gris mármol, poca saturación | `vestuario_01` n.º 2 (2711×1080) |
+| Coliseo | **día nublado**, beige | `fondos_01` n.º 77 y 66 |
+| Star Hill / pradera | **mediodía**, el más luminoso | `fondos_01` n.º 61 |
+| Templo del zodiaco | **atardecer** cálido | `fondos_01` n.º 62 |
+| Doce Casas por dentro | **interior oscuro**, rojo | clip x3iigt0, 0:18 |
+| Patio de las Doce Casas | **noche**, azul acero | clip x8x3282, 0:30 |
+| Casa de Seiya en Grecia | **noche**, azul frío por la ventana | `personajes_01` n.º 24 |
+| Muelle con veleros (Japón) | **día** de mar, azul turquesa | `personajes_01` n.º 14 |
+| Ruinas del Santuario | **tarde**, sombras largas | `personajes_01` n.º 22 |
+| Isla de la Reina Muerte | lava, luz de fuego desde abajo | opening 0:36 |
+
+### 17.2 Fondos de pantalla oficiales (wiki, 1920×1080) ✅
+
+Wallpapers de personaje con **cielo de constelación nocturno** (paleta en
+§5): Saori, Shun, Ikki (`personajes_01` n.º 4, 8, 9), y de los dorados
+Aiolia, Aiolos, Mu, Shaka y Saga (`vestuario_01` n.º 16, 31, 37, 44;
+`fondos_01` n.º 52). Todos con la **misma fórmula**: el personaje de pie,
+pequeño, en el centro de una galaxia. © Toei, sólo referencia.
+
+### 17.3 Fondos de fans en alta (Wallhaven)
+
+La mayoría de los que llevan la etiqueta son **colajes con Dragon Ball o
+One Piece**: no sirven. Los que son **sólo Saint Seiya**:
+
+| Tamaño | Qué | Autor u origen | ♥ |
+|---|---|---|---|
+| 5496×3000 | reflejo con ballena en el agua | [pixiv 100255153](https://www.pixiv.net/artworks/100255153) ⚠️ autor sin nombre | 43 |
+| 1920×1200 | montañas y luna, de noche | [wallhaven-0p8kkj](https://w.wallhaven.cc/full/0p/wallhaven-0p8kkj.jpg), sin autor | 48 |
+| 1500×1018 | **Mu de Aries**, arte digital | **jNiederauer** ([wallhaven.cc/w/429e1y](https://wallhaven.cc/w/429e1y)) ✅ | — |
+| 1920×1200 | Seiya con alas, estilo manga | [wallhaven-w8x61q](https://w.wallhaven.cc/full/w8/wallhaven-w8x61q.jpg), subido por yiwangguoqu7758 | 21 |
+| 2183×3064 | los cinco de bronce | [wallhaven-572vq8](https://w.wallhaven.cc/full/57/wallhaven-572vq8.jpg), subido por Kraven1 | 21 |
+
+No hay un fondo oficial en 4K en las partes ⚠️.
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Escrita por el redactor con todo lo anterior. Sirve para Firefly, Canva o
+cualquier IA de imagen, y para una IA de texto que escriba los diálogos.
+**Primero decide la versión**: clásica 1986 (cel, 4:3, lo que recuerda
+el público latino) o Netflix 2019 (CG). No se mezclan.
+
+### 18.1 Rasgos que nunca cambian
+
+| Personaje | Siempre | Nunca |
+|---|---|---|
+| **Seiya** | pelo castaño en puntas, ojos castaños; armadura **blanca y plateada** sobre **traje rojo**; hombreras, guanteletes, casco-tiara con alas; puños cerrados | armadura dorada (salvo que sea Sagitario a propósito) |
+| **Shiryu** | pelo **negro muy largo y liso**; armadura **verde** con **escudo redondo en el brazo** y casco con cuernos de dragón | el dragón de la espalda sin Cosmos encendido |
+| **Hyoga** | **rubio**, ojos azules; armadura blanca y azul; en calle, camiseta azul y **calentadores naranja** | sonrisa abierta, gestos grandes |
+| **Shun** | pelo y ojos **verdes** (anime); armadura **rosa**; **cadenas**; cara delicada | armas ofensivas; mujer (salvo Netflix 2019) |
+| **Ikki** | pelo **azul oscuro alborotado**, **cicatriz**, cuerpo musculoso; armadura **naranja dorada** con alas; fuego | sonrisa fácil; ir en grupo |
+| **Saori** | pelo **lila muy largo**, ojos verdes o azules; **vestido blanco sin mangas**; **báculo dorado** en la mano derecha; gargantilla | armas; pose de víctima |
+
+### 18.2 Paleta (medida, §5 y §16)
+
+- Fondos del Santuario: `#8D8D91`, `#5C6269`, cielo `#94B5DB`.
+- Doce Casas por dentro: `#080713`, `#8E0D24`, `#4F101F`, `#0C1F37`.
+- Noche de constelaciones: `#030305`, `#181F37`, `#AFADBC`.
+- Oro de las armaduras: `#AC7623`, `#DFC544`; brillo `#ECBE2D`.
+- Pegaso: `#EDEAE3`, `#C5C0BC`; Fénix: `#EDB045`; Dragón: `#45A89A`.
+
+### 18.3 Línea, sombreado y luz
+
+- **Clásica**: sombra **plana de cel** con algo de degradado; línea
+  **marrón oscura, no negra** (`#483B36`, `#653D36`); grano de película
+  (§19).
+- **Netflix**: degradado suave (64-69 % de la imagen), línea gris azulada
+  `#645A66`.
+- **Luz**: una luz dura desde arriba y de lado que marca hombros y casco;
+  **contraluz** para la entrada de un dorado; **aura** alrededor del
+  cuerpo cuando arde el Cosmos.
+- **Encuadre**: plano bajo contra una nebulosa para el poder; primer
+  plano de ojos apretados para el esfuerzo; silueta a contraluz.
+
+### 18.4 Palabras que ayudan (en inglés, vocabulario de Danbooru)
+
+Plantilla: *«[personaje], Saint Seiya 1986 anime style, cel shading,
+brown line art, [armadura], [pose], cosmos aura, starry nebula
+background, constellation lines behind him, dramatic low angle, film
+grain, 4:3»*.
+
+- **Seiya**: `brown_hair, spiked_hair, brown_eyes, white_armor, red_bodysuit, shoulder_armor, pauldrons, gauntlets, fighting_stance, clenched_hand, star_(sky)`.
+- **Shiryu**: `long_hair, black_hair, green_eyes, green_armor, arm_shield, horned_helmet, dragon`.
+- **Hyoga**: `blonde_hair, blue_eyes, white_and_blue_armor, ice, calm expression`.
+- **Shun**: `male, green_hair, green_eyes, pink_armor, chain, gentle expression`.
+- **Ikki**: `blue_hair, scar, muscular, orange_armor, fire, aura, from_below, arms_crossed`.
+- **Saori**: `purple_hair, very_long_hair, white_dress, sleeveless_dress, choker, holding_staff, golden staff`.
+- Sitios: `greek temple ruins, marble columns, red carpet, dark interior, colosseum, overcast`.
+
+### 18.5 Palabras que lo estropean
+
+- **`Dragon Ball`, `Goku`, `super saiyan`**: en Danbooru la etiqueta de la
+  serie arrastra **7231 dibujos de Goku** por los cruces; la IA los mezcla.
+- `gold armor` para Seiya; `female` o `girl` para Shun; `sword` o `weapon`
+  para los de bronce y Saori.
+- `speech bubble`, `white bubble`; `chibi`, `cute`, `pastel`, `kawaii`.
+- `bright white marble interior` para las Doce Casas.
+- `3D render` si se quiere la clásica; `cel shading` si se quiere Netflix.
+
+### 18.6 Imágenes de referencia
+
+- **Estilo clásico**: `personajes_01` n.º 25 (constelación detrás), 21
+  (pose), 10-15 (arte de 1986 con ropa de calle), 22 y 24 (sitio real
+  con la caja).
+- **Contorno de armadura**: hojas técnicas n.º 29-39 y `fondos_01` 79-80.
+- **Estilo Netflix**: `personajes_01` n.º 1 y 2 (cuerpo entero, fondo
+  liso).
+- **Volumen real**: figura Myth Cloth, n.º 40.
+- **Fondos**: `fondos_01` n.º 61, 62, 77 y el fotograma 0:18 de x3iigt0.
+- **Poses**: §15, con la tabla 15.7.
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Reglas de la serie**
+
+- Frases **cortas y en tono épico**. Nada de chistes modernos ni
+  muletillas: en las partes **no hay muletillas** registradas de nadie.
+- **Gritos con doble signo** y nombre de la técnica: «¡Meteoro de
+  Pegaso!». El grito va **antes** del golpe.
+- **Tuteo**; Seiya tutea hasta a los maestros. Se dice **«Atena»** al
+  oído, «Athena» escrito en pantalla.
+- **Puntos suspensivos** para la pausa dramática: «Patéticos… hoy es el
+  peor día de tu vida».
+- Exagera así: **superar el límite**, la **amistad**, el **sacrificio**,
+  el Cosmos que **arde**. Nunca con risas o bromas.
+
+**Cómo habla cada uno**
+
+- **Seiya**: directo, terco, animoso. «Yo me quedaré. Voy a luchar.»
+- **Shiryu**: respetuoso con su maestro; se acelera al anunciar.
+- **Hyoga**: pausado, frases largas, reflexivo; casi sin exclamaciones.
+- **Shun**: dice lo que siente; prefiere proteger que atacar.
+- **Ikki**: seco, amenaza en pocas palabras, desprecio («Patéticos»).
+- **Saori**: primera persona, decisión, sin dudar.
+
+**Frases reales por emoción** (todas de §10, con su fuente)
+
+| Emoción | Frases reales |
+|---|---|
+| **Alegre / cálido** | Shiryu: «…lo respeto mucho y algún día quiero ser un gran hombre como él.» ⚠️ No hay una frase alegre de verdad en las partes |
+| **Enfadado** | Ikki: «Vienen por mí o vienen por la armadura dorada, no importa, no debieron venir. Patéticos…» · clásico: «¡Me las vas a pagar!» · Seiya: «No pude detenerlo entonces, pero ahora sí puedo.» · clásico: «¿Dónde está Athena?» |
+| **Explicando** | Saori: «Cuando reencarné como Atena, nací con una profecía…» · Shaun: «…en vez de enseñarme a atacar, me enseñó a protegerme sin lastimar a otros.» · Shiryu: «Mi maestro Dohko sugirió que participara en el torneo…» |
+| **Animando** | Seiya: «Hagan lo que quieran. Yo me quedaré. Voy a luchar.» · Shiryu: «¡Ya vieron el escudo indestructible! ¡Ahora contemplen! ¡La furia del dragón!» · Saori: «Ellos no decidirán quién soy y lo que hago.» |
+| **Triste** | Hyoga: «Yo creí conocer el resultado, pero aún hay mucho que no entiendo.» · clásico: «¡Ya es demasiado tarde!» · Shaun: «Solía ser muy inmadura para mi edad…» |
+| **Miedo / urgencia** | clásico: «¡El Sol! ¡Se está ocultando!» |
+
+**Vocabulario propio** (§26): Cosmos, armadura (Cloth), Caballero o
+Santo, Santuario, las Doce Casas, la Pandora Box, el Patriarca (el Papa),
+la Guerra Galáctica, Meteoro de Pegaso, Cólera del Dragón, Polvo de
+Diamante, Cadena Nebular, Ave Fénix, «¡Arde, mi Cosmos!».
+
+### 18.8 Vocabulario visual de las expresiones
+
+Para que la IA de imagen entienda cada gesto:
+
+- **Cosmos encendido**: aura de color alrededor del cuerpo y grietas en
+  el suelo (opening 0:15 y 0:33) (`aura`, `glowing`).
+- **La constelación detrás**: el dibujo de estrellas blancas del animal
+  de su armadura (`constellation`, `star_(sky)`).
+- **Fondo de nebulosa** en vez de paisaje cuando pega (`nebula
+  background`); en el manga eran xerografías de estrellas.
+- **Rabia**: dientes apretados, ojos entrecerrados, puño en alto.
+- **Dolor o esfuerzo**: ojos muy cerrados con líneas de tensión.
+- **Tristeza**: **lágrimas brillantes** (el registro «barroco» de
+  Kurumada, según TCJ), mirada baja.
+- **Humor**: el otro registro de Kurumada, «tipo Tezuka»: **caras
+  redondas, ojos grandes, cuerpos rechonchos** (TCJ). Es su versión del
+  *chibi*; en la lámina, sólo para una broma.
+- **Gotas de sudor** o fondos de emoción de comedia: **no aparecen en las
+  partes** ⚠️; no inventarlos.
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### 19.1 Quién lo hizo ✅
+
+- **Diseño de personajes**: **Shingo Araki** (los chicos y los *layouts*)
+  y **Michi Himeno** (las chicas; pasaba los *layouts* a animación
+  clave). Juntos desde *Cutie Honey* (1973), fundaron **Araki
+  Production** en 1975 ([Wikipedia](https://en.wikipedia.org/wiki/Shingo_Araki),
+  [SaintSeiyaPedia](http://www.saintseiyapedia.com/wiki/Shingo_Araki)).
+- **Dirección**: Kōzō Morishita (ep. 1-47) y Kazuhito Kikuchi (74-114);
+  dirección de arte Tadao Kubota (1-99), Yoshiyuki Shikano, Minoru
+  Ōkouchi; composición Takao Koyama y Yoshiyuki Suga ([AniList staff](https://anilist.co/anime/1254/staff)) ✅.
+- **Kurumada en el manga** usa **dos registros** en el mismo tomo: uno
+  «tipo Tezuka» (ojos grandes, caras redondas, cuerpos rechonchos) para
+  el humor, y otro **«barroco y romántico»** (chicos bellos, lágrimas
+  brillantes, compañeros caídos) para el drama; el crítico lo compara con
+  Riyoko Ikeda y Moto Hagio. **Cada técnica ocupa una página entera o
+  doble**; los fondos de pelea son **xerografías de nebulosas, cuásares
+  y estrellas**: combate «espectacular pero extrañamente sin sangre»
+  ([The Comics Journal](https://www.tcj.com/soldier-dream-saint-seiya/))
+  ✅ (la página doble, ⚠️ una fuente).
+
+### 19.2 Color y línea, medidos con `estilo.py` ✅
+
+| Versión | Sombreado | Línea |
+|---|---|---|
+| **Clásica 1986-89** (Myth Cloth CG, «Seiya & Miho») | mezcla de **cel plano** y degradado | normal, poca densidad (2-11 %); **color marrón o granate oscuro**, no negro: `#483B36`, `#653D36`, `#726449` |
+| **Netflix 2019** (CG) | **degradado** (64-69 % de la imagen): *toon shader* suave | gris azulado `#645A66`, `#686E7E` |
+| **Fondos del Santuario** | degradado (47-54 %), saturación 11-15 % | gris `#6D6C70`, `#7D7C7F`: piedra pintada, sin línea dura |
+
+El **grano de película** y el corrimiento de color del máster de TV se
+ven, pero **no hay entrevista** que diga que fue a propósito ⚠️.
+
+### 19.3 Cómo reproducirlo en Photoshop
+
+1. **Línea**: pincel de entintado fino con presión; color `#483B36`
+   (clásica) o `#645A66` (Netflix). Nunca negro puro.
+2. **Sombra**: para la clásica, **una sola sombra dura** en Multiplicar,
+   sin difuminar; para Netflix, aerógrafo suave con varias pasadas.
+3. **Brillo del oro**: un punto especular pequeño y muy saturado
+   (`#ECBE2D`) en el borde de cada pieza, en Trama o Superponer.
+4. **Fondo de Cosmos**: textura de nebulosa libre (NASA/ESA) desenfocada
+   y con Curvas para bajar el contraste, detrás del personaje.
+5. **Grano**: una capa de ruido suave para imitar la película de 1986.
+
+### 19.4 Cómo reproducirlo en Blender
+
+- **Modelos con licencia** (§4): **Pegasus Seiya fully rigged** (con
+  *rig*, CC BY) para posar; *Seiya con texturas sin rig* para sacar las
+  texturas; armaduras de oro sueltas (Sagitario, Capricornio, Libra);
+  **Grande Arena**, **Casa de Virgo** y **Estatua de Athena** para el
+  sitio.
+- **Contorno**: modificador **Solidify** con normales invertidas,
+  material `#483B36`, grosor 0,01-0,02; o **Freestyle** con grosor
+  variable si se quiere que la línea se afine lejos, como en el cel.
+- **Shader**: **Shader to RGB → ColorRamp** con 2-3 bandas duras (clásica)
+  o más bandas con un tramo de degradado (Netflix). En el oro, un
+  **Fresnel** con amarillo saturado.
+- **Luz**: sol o foco **duro desde arriba y de lado** (marca hombros y
+  casco, como en el arte oficial); relleno azulado tenue si es de noche.
+  Eevee o Cycles con oclusión ambiental suave.
+- **Texturas encima**: las tramas del §20 en Multiplicar sobre el
+  material.
+
+### 19.5 Encuadres y composición
+
+| Emoción | Encuadre | Fuente |
+|---|---|---|
+| Poder, despertar del Cosmos | **plano general bajo**, el personaje contra una nebulosa | TCJ + hojas |
+| Esfuerzo | **primer plano de ojos cerrados** con líneas de tensión | TCJ |
+| Entrada de un dorado | **silueta a contraluz** | TCJ |
+| Golpe final | **página doble** / plano abierto con líneas radiales | TCJ + *Seiya defeating Shaina's henchmen* |
+| Rabia | primer plano de dientes apretados | x3iigt0, 1:30 |
+| Tristeza | primer plano cerrado, cara pálida | x3iigt0, 1:42 |
+| Presentación | cuerpo entero, pequeño, en el centro de una galaxia | wallpapers oficiales (§17.2) |
+
+## 20 · Texturas 2D
+
+- **Trama del manga**: tinta negra de línea gruesa y **puntos de trama
+  regulares**, blanco y negro puro, sin gris real (shōnen de Jump de los
+  80). Visto en `personajes_01` n.º 13, 18 y 30 ✅. En la n.º 13 la trama
+  se rompe en **salpicaduras blancas** de energía alrededor del Cosmos.
+- **Hojas técnicas de armadura**: línea fina de plano sobre blanco, con
+  flechas y piezas numeradas (Pegaso 1-5, Cisne 1-3, Fénix, Aries,
+  Sagitario: n.º 29-39 y `fondos_01` 79-80) ✅. Sirven de contorno pieza a
+  pieza.
+- **Emblema de constelación**: el patrón de estrellas de Pegaso
+  ([Constellation](https://static.wikia.nocookie.net/saintseiya/images/c/c9/S.S_Pegasus_Constellation.png)
+  869×537, [Star Pattern](https://static.wikia.nocookie.net/saintseiya/images/0/0a/S.S_Pegasus_Star_Pattern.jpg)
+  981×493) ⚠️ una fuente.
+- **Tela contra metal**: la túnica de Athena es blanca lisa con ribete
+  dorado (sin trama de tela); las armaduras son metal liso con **grabados
+  curvos en relieve** ✅ (visto en las imágenes del §16).
+- **La Pandora Box**: relieve de la constelación en la tapa, bisagra y
+  cadena (wiki en español) ✅.
+
+**Texturas libres equivalentes**
+
+| Para | Textura | Licencia |
+|---|---|---|
+| trama de puntos de manga | [Retro Halftone Clouds](https://live.staticflickr.com/3437/3801365993_fcae20a01a_b.jpg) (Flickr vía [Openverse](https://openverse.org)), 1024×768 | CC BY |
+| oro y bronce pulido | [Metal048A/B/C](https://ambientcg.com/view?id=Metal048A) | CC0 |
+| tela de capas | [Fabric026](https://ambientcg.com/view?id=Fabric026), Fabric080 | CC0 |
+| mármol | [Marble012](https://ambientcg.com/view?id=Marble012) | CC0 |
+
+**Falta** ⚠️: pinceles libres de trama o de pincelada comprobados (sólo
+la foto de trama de Flickr), y un archivo suelto de cada emblema de los
+cinco (sólo el de Pegaso).
+
+## 21 · Gustos y detalles de cada personaje
+
+De las fichas de AniList (que citan los datos oficiales) y la wiki.
+
+| Personaje | Edad | Cumpleaños | Otros datos | El objeto que siempre lleva | Fuente |
+|---|---|---|---|---|---|
+| **Seiya** | 13 | 1 de diciembre | sangre B | la armadura de Pegaso **blanca y roja** (y la caja a la espalda) | [AniList](https://anilist.co/character/2285) ✅ |
+| **Shiryu** | 14 | 4 de octubre | entrenó en los Cinco Picos | el **escudo del Dragón**, «indestructible»; el dragón de la espalda | [AniList](https://anilist.co/character/5922) ✅ |
+| **Hyoga** | 14 | 23 de enero | **1,73 m**; su madre era cristiana ortodoxa | el recuerdo de su madre bajo el hielo, que visita buceando | [AniList](https://anilist.co/character/5921) ✅ |
+| **Shun** | 13 | 9 de septiembre | pacifista | la **cadena de Andrómeda** (parte de la armadura) | [AniList](https://anilist.co/character/2440) ✅ |
+| **Ikki** | 15 | 15 de agosto | el más duro de los 100 huérfanos | el **recuerdo dorado de Esmeralda** en la palma (visto, ep. 6, 3:53) | [AniList](https://anilist.co/character/5923) ✅ |
+| **Saori** | 13 | 1 de septiembre | **le gustan la equitación y el piano**; empresaria exitosa antes de saberse Athena; odia las armas | el **báculo de Niké** (diosa de la victoria) en la mano derecha; el escudo **Égida** | [AniList](https://anilist.co/character/5628), [wiki](https://saintseiya.fandom.com/wiki/Saori_Kido#Abilities) ✅ |
+| Saga | 28 | 30 de mayo | 1,88 m, sangre AB, griego | — | AniList ⚠️ |
+| Mu | 20 | 27 de marzo | 1,82 m, 75 kg, sangre A, del Tíbet, entrenó en Jamir | repara armaduras | AniList ⚠️ |
+| Aiolia / Milo | 20 / 20 | 16 de agosto / 8 de noviembre | 1,85 m los dos | — | AniList ⚠️ |
+
+**Cómo se ve a sí mismo cada uno** (de sus frases, §10): Seiya, el que
+ahora sí puede proteger; Shun, «reacia a la pelea»; Saori, la que decide
+su destino; Hyoga, el que aún no entiende todo.
+
+**Falta** ⚠️: **comida favorita, aficiones y lo que odia** de los cinco
+de bronce. No están en AniList ni en la wiki leída; no hay *databook*
+en las partes.
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Las razones
+
+- **La amistad y el «superar tu límite»**, contados de forma muy física y
+  emotiva, con una banda sonora orquestal que se reconoce al instante
+  ([SS Next Dimension](https://www.ssnextdimension.com/el-anime/saint-seiya-clasico/su-exito-en-japon/))
+  ⚠️ opinión de un fansite.
+- **Premios de su época**: mejor anime del Anime Grand Prix de Animage
+  1987 y tres personajes en el top 20 de 1986 (§9) ✅.
+- **El doblaje latino**: **Jesús Barrero**, voz y director, es para el
+  fandom hispano «el dueño» de Seiya; tras su muerte en 2015 hay
+  homenajes, como el fandub de *Tenkai Hen Overture* (§23) ✅.
+- **Con quién se identifica el público**: con **Ikki**, el duro que no
+  es el protagonista (AniList), y con **Saori** en el arte de fans
+  (Danbooru) (§9).
+- **Nostalgia de TV abierta**: volvió en **Azteca 7 en 2022** (§10.1) ✅.
+
+### 22.2 Las escenas que hacen llorar
+
+| Escena | Minuto | Qué pasa y por qué duele | Música | Cómo está dibujada |
+|---|---|---|---|---|
+| **Athena se desvanece** al final de las Doce Casas (clásica, latino) | [x3iigt0, 1:42](https://www.dailymotion.com/video/x3iigt0?t=102) | Seiya llega a la cámara del Patriarca y Saori se apaga («Sollozando»), justo cuando «¡El Sol! ¡Se está ocultando!». La causa (una flecha, según la parte de voz) no tiene segunda fuente ⚠️ | orquesta dramática | **planos cerrados** de su cara pálida y el pelo suelto ✅ |
+| **Dohko rejuvenece** y Shiryu lo ve | [x8x2zig, 2:42-2:48](https://www.dailymotion.com/video/x8x2zig?t=162) | el discípulo ciego ve a su maestro volver a ser joven: lágrimas y luego un grito de alegría | **cuerdas lentas en crescendo** (título sin saber ⚠️) | cielo estrellado, dorado `#836315` ✅ |
+| **La madre de Hyoga** | [x52rr67, 0:24-0:48](https://www.dailymotion.com/video/x52rr67?t=24) | Hyoga mira el mar y luego sostiene a su madre ahogada, pálida, con los ojos cerrados | — | ceño fruncido, mar frío ✅ |
+| **El recuerdo de Esmeralda** (Netflix) | [ep. 6, 3:53](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=233) | Ikki, el más duro, mira lo único que le queda de ella | — | torso desnudo, mirada baja, objeto dorado en la palma ✅ |
+| **«…¿o se apagará antes mi vida?»** (manga) | página [0010-112.jpg](https://static.wikia.nocookie.net/saintseiya/images/f/fb/0010-112.jpg) | alguien abraza a Hyoga congelado y le da su Cosmos para revivirlo, aunque le cueste la vida | — | **página entera**, explosión blanca, texto sin globo (§7.3) ✅ visto; quién abraza, ⚠️ (parece Shun por el casco) |
+
+### 22.3 Las que hacen gritar de emoción
+
+- **Seiya alza el escudo dorado** ([x3iigt0, 2:24](https://www.dailymotion.com/video/x3iigt0?t=144)) ✅.
+- **El Cosmos que arde** y el grito de la técnica (opening 0:15-0:33) ✅.
+- Los doce dorados juntos en *Soul of Gold* («Athena Exclamation»,
+  `vestuario_01` n.º 38) ✅.
+
+**Falta** ⚠️: comentarios con más votos y vídeos de reacción (YouTube
+bloqueado; Reddit sólo con títulos de hilos).
+
+## 23 · Fan dubs y comunidad hispana
+
+| Qué | Enlace | Datos | Estado |
+|---|---|---|---|
+| **Fandub latino «Saint Seiya Tenkai Hen Overture»** (2017), homenaje a Jesús Barrero | [YouTube iRJBQJDfLBE](https://www.youtube.com/watch?v=iRJBQJDfLBE) | título y descripción del canal; sin vistas | ⚠️ no se pudo ver (YouTube bloqueado) |
+| **Cover metal de «Pegasus Fantasy» con Mauren** (2017) | [YouTube 9CO6Ta3xfUA](https://www.youtube.com/watch?v=9CO6Ta3xfUA) | Mauren Mendo firma la adaptación musical del doblaje clásico en Doblaje Wiki | ✅ el nombre coincide |
+| Clips doblados resubidos por fans | canal **Tomatazos** ([x8x3282](https://www.dailymotion.com/video/x8x3282), 835 vistas; [x8x2zig](https://www.dailymotion.com/video/x8x2zig), 763) | la serie en latino | ✅ vistos |
+| Opening y endings de **Azteca 7 (2022)** | canal Rapsta ([x8s0lmu](https://www.dailymotion.com/video/x8s0lmu), 931 vistas; [ending](https://www.dailymotion.com/video/x8rj3sj), 514; [Hades Elíseos](https://www.dailymotion.com/video/x8rj3sh), 468) | la vuelta a la TV abierta | ✅ |
+| Escena de las Doce Casas con subtítulos del guion latino | canal Eltemplodeatena ([x3iigt0](https://www.dailymotion.com/video/x3iigt0)) | §2.1 | ✅ visto |
+| Podcasts en español | [Otacast #12a](https://archive.org/details/Otacast12a-SaintSeiyacdz-Parte1) (2386 descargas) y #12b, Otacast 47 (Poseidón), [Universo Saint Seiya](https://archive.org/details/2x29UniversoSaintSeiya), [Afrikitown 1x27 «Zodiaqueando»](https://archive.org/details/Afrikitown1x27ZodiaqueandoespecialSaintSeiya-UltimoProgramaDeLa) (6135) | existen; no se transcribieron | ✅ existencia |
+
+**Falta** ⚠️: vistas de los fandubs de YouTube y TikTok, covers del
+opening en español de otros cantantes, y **parodias o memes hispanos**
+concretos. YouTube y TikTok no se pudieron abrir; sólo 2 búsquedas web.
+
+## 24 · Colaboraciones, figuras y cosplay
+
+| Qué | Detalle | Fuente | Estado |
+|---|---|---|---|
+| **Figuras Saint Cloth Myth / Myth EX** (Bandai) | la armadura se quita y se pone como en la serie; foto de producto de Seiya 720×960 (`personajes_01` n.º 40) | [catálogo Tamashii](https://tamashiiweb.com/item_character/saint_seiya_series/?wovn=en) | ✅ |
+| **Myth EX Pegasus Seiya [First Bronze Cloth]** por el 40.º aniversario | figura conmemorativa | [shfiguarts.com](https://www.shfiguarts.com/news/2396/Saint-Seiya-40th-Anniversary.html) | ✅ |
+| **Exposición de arte original** del 40.º aniversario (2027, *Weekly Shōnen Champion*) | evento con la editorial | [X](https://x.com/NekketsuHeroes/status/2054583260278132876) + shfiguarts | ✅ |
+| **Uniqlo UT** (aniversario de Shōnen Jump / Shueisha) | camisetas oficiales | [Jump Ichiban](https://jumpichiban.com/en-us/products/shueishas-100th-anniversary-x-uniqlo-fashion-collection-saint-seiya-vol-1), [AitaiKuji](https://www.aitaikuji.com/shonen-jump-50th-anniversary-x-uniqlo-t-shirts-saint-seiya) | ✅ |
+| **QQ Speed: Mobile × Saint Seiya Awakening** (abril 2021) | coches con las armaduras de Saori y los cinco de bronce | [JBox (Brasil)](https://www.jbox.com.br/2021/04/28/saint-seiya-awakening-armaduras-viram-carros-em-crossover-com-qq-speed-mobile/) | ⚠️ un medio |
+| Eventos del juego móvil | cuenta oficial | [X @SaintSeiyaKOTZ](https://x.com/SaintSeiyaKOTZ) | ✅ |
+| **Cosplay premiado**: 2.º premio, World Cosplay Summit Barcelona 2019 | vídeo del evento (Misión Tokio, 4445 vistas) | [YouTube _ze5TsXkrMk](https://www.youtube.com/watch?v=_ze5TsXkrMk) | ⚠️ un origen |
+| Fotos de figuras y papercraft con licencia libre | DocChewbacca (CC BY-SA), animepapertoys (CC BY-NC-ND) | §4.4 | ✅ |
+
+- **Fortnite: no confirmado.** Hay vídeos y un post de fan (@PegasusFly_,
+  feb. 2025) que lo anuncian, pero **no hay nada en la tienda oficial**
+  (fortnite.com/item-shop) ni en los canales de Epic. Es un rumor.
+- **Café temático propio: no lo encontré** (búsquedas en español e
+  inglés, Ikebukuro y Shibuya 2024-2025). No digo que no exista.
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Parecidas, según la comunidad de AniList ✅
+
+Dragon Ball Z (67 votos), Yu Yu Hakusho (34), **Ronin Warriors** (25,
+otros cinco chicos con armadura), Hunter x Hunter (19), One Piece (17),
+Sailor Moon (17), Tenkuu Senki Shurato (15), **Ring ni Kakero** (14, del
+mismo Kurumada), Magic Knight Rayearth (12), **B't X** (10, también de
+Kurumada), El Puño de la Estrella del Norte (9), Bleach, Gundam Wing y
+Kinnikuman ([AniList](https://anilist.co/anime/1254)).
+
+### 25.2 Influencias que reconoce Kurumada ✅
+
+- Leyó ***Ashita no Joe*** (Tetsuya Chiba, boxeo) y, como no podía
+  superarlo en boxeo puro, **inventó las técnicas especiales** como su
+  sello.
+- La mitología griega **no le interesaba en especial**: iba a hacer
+  armaduras «tipo samurái» con pelea «tipo kárate», y los mitos
+  «empezaron a aparecer» al pensar el diseño.
+- Fuentes: [entrevista Fuji TV 2003](http://www.saintseiyapedia.com/wiki/Masami_Kurumada/Interview_Fuji_TV_2003)
+  y [The Land of Obscusion](https://landofobscusion.blogspot.com/2024/01/50-years-of-masami-kurumadas-mostly-hot.html).
+- Suele ponerse junto a *Hokuto no Ken* y *Kinnikuman* en la «era del
+  músculo» del shōnen de los 80 ⚠️ (una fuente).
+- **TV Tropes** dio 403 dos veces: no se leyó ⚠️.
+
+### 25.3 Láminas vecinas del servidor (para no repetir)
+
+Comprobado con `grep` en todas las `biblias/*/biblia.md` (24-sep-2026):
+
+- **Nadie más usa** una **constelación**, un **coliseo** ni una **Pandora
+  Box**. Son de Saint Seiya.
+- **Dragon Ball** (`_ya_hechas`) y **JoJo** (#memes) ya usan el shōnen de
+  técnicas a gritos y poses: la lámina de Saint Seiya tiene que ganar por
+  el **objeto** y el **doblaje**, no por el grito.
+- **One Piece** (#bienvenidas) ya usó el cartel clavado en madera: evitarlo.
+- **Sailor Moon** (38, también Toei de los 90 y con gran doblaje latino)
+  propone 🎲 Juegos, #eventos o #general-doblaje: si las dos van a
+  #general-doblaje, chocan de lleno (§0).
+- **FMA** (37) propone #general-doblaje con otra idea: decide el dueño.
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. **Athena**, diosa griega de la guerra, renace en una chica, **Saori
+   Kido**, y protege la Tierra con guerreros humanos: los **Santos**
+   (*Saints*; en latino, **Caballeros**) ([wiki](https://saintseiya.fandom.com/es/wiki/Cosmos)).
+2. Cada Santo viste una **armadura** (*Cloth*) de una de las **88
+   constelaciones**: **bronce**, **plata** y **oro** (las 12 de oro son
+   el zodiaco) ([Cloths](https://saintseiya.fandom.com/es/wiki/Cloths)).
+3. Su poder es el **Cosmos** (小宇宙, «pequeño universo»): el universo de
+   dentro del cuerpo que se hace **arder**; a más Cosmos, más fuerza y
+   velocidad, hasta romper la barrera del sonido.
+4. El **Santuario**, en Grecia, es un monte con **doce templos**; lo
+   gobierna el **Papa o Patriarca** (教皇) en nombre de Athena
+   ([Papa](https://saintseiya.fandom.com/es/wiki/Papa)).
+5. Otros dioses griegos despiertan (Poseidón, Hades) con sus ejércitos, y
+   los Santos pelean **sin armas**, con el cuerpo: Athena las odia (§8.6).
+
+### 26.2 La historia por arcos
+
+| Arco | Qué pasa | Momento clave |
+|---|---|---|
+| **Inicio** | Seiya gana la armadura de Pegaso en Grecia **venciendo al gigante Cassios** en el coliseo (`personajes_01` n.º 26, 24 y 22) y vuelve a Japón para la **Guerra Galáctica**, el torneo de la Fundación Graude cuyo premio es la **armadura dorada de Sagitario** (ep. 4 de Netflix, 8:21; Ikki: «vienen por la armadura dorada») | Ikki llega con su ejército de caballeros negros (*Netflix KotZ Phoenix Ikki with his Black Knights army.jpg*) y **tiene la armadura dorada**: «Vienen por mí o vienen por la armadura dorada» (§10) ⚠️ el orden exacto no está con fuente |
+| **Santuario / Doce Casas** | los cinco de bronce suben las **Doce Casas** para llegar al Papa, que resulta ser **Saga de Géminis**, un traidor | Seiya alza el escudo dorado mientras Athena se apaga (§2.1) ([Doce Templos](https://saintseiya.fandom.com/es/wiki/Doce_Templos)) |
+| **Asgard** (sólo en el anime) | el ejército de **Hilda** y el **Anillo de los Nibelungos**; puente hacia Poseidón | la **Odin Robe** azul (§16) |
+| **Poseidón** | el dios del mar y sus **7 Generales Marinos** secuestran a Saori y quieren inundar la Tierra con lluvia sin fin | ([Sagas](https://saintseiya.fandom.com/es/wiki/Sagas)) |
+| **Hades** (*Meikai-hen*) | la guerra final contra el dios del inframundo; el anime de TV se cortó antes y se terminó años después en OVAs (*Santuario, Infierno, Elíseos*) | Shun poseído por Hades (§15.4); las **God Cloth** ([Wikipedia](https://en.wikipedia.org/wiki/Saint_Seiya:_The_Hades_Chapter)) |
+| Después y aparte | *The Lost Canvas* (precuela, 1743), *Soul of Gold* (2015), *Omega*, *Saintia Shō*, Netflix (2019 y 2022-24), película de Sony (2023) | datos de AniList |
+
+### 26.3 Objetos y emblemas que un fan reconoce al instante
+
+- **La Pandora Box** ✅: cofre de metal de **aproximadamente 1 m**, gris
+  (dorado en las de oro), con **la constelación grabada** y una **cadena**
+  para abrirlo. **Abrirla sin ser su dueño «trae calamidades»** (por la
+  caja de Pandora). Kurumada dijo que también acelera la reparación de la
+  armadura ([Pandora Box](https://saintseiya.fandom.com/es/wiki/Pandora_Box)).
+  Se lleva **a la espalda con correas** (n.º 22). **Es el objeto para
+  Blender**.
+- **La armadura** con la silueta de su animal (Pegaso, Dragón, Cisne,
+  Andrómeda, Fénix) que **se abre en piezas y vuela** hacia el cuerpo.
+- **La Estatua de Athena** en el Santuario: dentro está sellada la
+  armadura de Athena, que sólo se libera con **su sangre** (wiki) ✅.
+  Modelo 3D libre (§4).
+- **El báculo de Niké** y el **escudo Égida** de Athena ✅.
+- **El escudo del Dragón** («indestructible») y **la cadena de
+  Andrómeda** ✅.
+- **La constelación** dibujada con estrellas blancas detrás del Santo
+  (n.º 25) y el **emblema de Pegaso** (§20).
+
+### 26.4 El vocabulario propio
+
+- **Cosmos** (*Kosumo*), **armadura / Cloth**, **Caballero / Santo**,
+  **Santuario**, **las Doce Casas**, **el Patriarca**, **la Guerra
+  Galáctica**, **la Fundación Graude**.
+- **«¡Arde, mi Cosmos!»**: el grito central de la franquicia.
+- Técnicas en latino: **Meteoro de Pegaso** (*Pegasus Ryūsei Ken*;
+  también «Puño de Pegaso», «Golpe de Centella», «Poder de Meteoro»),
+  **Cólera del Dragón** / **Dragón Naciente** (Shiryu), **Polvo de
+  Diamante** (Hyoga), **Cadena Nebular** / de Andrómeda (Shun), **Ave
+  Fénix** (Ikki) ([Pegasus Ryūsei Ken](https://saintseiya.fandom.com/es/wiki/Pegasus_Ry%C5%ABsei_Ken))
+  ✅ wiki y foros.
+- De los dorados: *Galaxian Explosion* (Saga) y el **octavo sentido**
+  (*Araya Shiki*, Shaka), en inglés en AniList ⚠️; el nombre latino no
+  está en las partes.
+
