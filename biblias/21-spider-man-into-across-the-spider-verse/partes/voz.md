@@ -232,6 +232,47 @@ dejaba abierto.
   dato útil para el punto 16 (fondos), pero lo dejo aquí porque es
   caracterización del personaje a través del sitio.
 
+### 13.1 Su cara en cada emoción, con fotograma y minuto real (cierre del punto 13)
+
+Lo único que faltaba de mi tanda anterior. Miré clips reales de Dailymotion
+con `fotogramas.py --cortes` (un fotograma por plano, carpeta de trabajo
+`/tmp/claude-0/trabajo/21-spiderverse-voz/`) más los clips que ya había
+mirado el investigador de vídeo (`partes/video.md`, carpeta
+`21-spiderverse-video/`, reutilizados sin volver a bajarlos). Cubro lo que
+encontré con certeza; el resto queda en «No encontré» de más abajo, no
+inventado.
+
+| Personaje | Emoción | Fotograma y minuto | Qué se ve |
+|---|---|---|---|
+| **Miles** | Miedo | [x8pb9nl, 0:11](https://www.dailymotion.com/video/x8pb9nl?t=11) | Cayendo por el túnel dimensional de la anomalía, cara sin máscara, cejas alzadas y ojos muy abiertos, boca entreabierta. |
+| **Miles** | Rabia | [x8pb9nl, 2:26](https://www.dailymotion.com/video/x8pb9nl?t=146) | Primer plano sin máscara, dientes apretados, cejas fruncidas hacia el centro, mirada fija y dura (forcejeo en el mismo túnel). |
+| **Miles** | Tristeza | [x87pqho, 1:55](https://www.dailymotion.com/video/x87pqho?t=115) (clip «Get Up, Spider-Man», ya mirado en `video.md` §2.3) | De pie en un callejón oscuro, capucha puesta, cara sin máscara con la mirada baja y dolida, justo después de la pelea con Kingpin (momento de duelo por el tío Aaron). |
+| **Miles** | Vergüenza | [x8l15ul, 0:28](https://www.dailymotion.com/video/x8l15ul?t=28) (clip «Missing Class») | Entre sus papás en la oficina de la directora, ojos cerrados con fuerza y cara arrugada, típica mueca de «me quiero morir de pena» frente a ellos. |
+| **Miles** | Alegría | ⚠️ no encontré fotograma verificado (ver «No encontré») | — |
+| **Gwen** | Tristeza/preocupación | [x8l73q0, 0:15](https://www.dailymotion.com/video/x8l73q0?t=15) (clip «Hanging With Gwen», ya en `video.md` §2.2) | De perfil en la torre del reloj, mirando hacia otro lado, boca cerrada, cejas levemente caídas mientras habla con Miles. |
+| **Gwen** | Alegría (suave) | [x8l73q0, 0:36](https://www.dailymotion.com/video/x8l73q0?t=36) | Mismo clip, de perfil, sonrisa pequeña y hombros relajados — no es una carcajada, pero es la única alegría real que encontré con su cara. |
+| **Gwen** | Rabia / Miedo / Vergüenza | ⚠️ no encontré fotograma verificado | — |
+| **Peter B. Parker** | Miedo/alarma | [x87p3jc, 1:23](https://www.dailymotion.com/video/x87p3jc?t=83) (clip «Saying Goodbye», UNU) | Cara sin máscara (piel clara, pelo castaño), ojos muy abiertos y cejas alzadas, en plena batalla final del colisionador. |
+| **Peter B. Parker** | Determinación/seriedad (la rabia más cercana que encontré) | [x87p3jc, 1:08](https://www.dailymotion.com/video/x87p3jc?t=68) | Mismo clip, ceño fruncido y mandíbula tensa, un segundo antes de saltar a pelear. |
+| **Peter B. Parker** | Alegría / Tristeza / Vergüenza | ⚠️ no encontré fotograma verificado | — |
+| **Miguel** | Las 5 | ⚠️ no encontré ningún fotograma de su cara que pudiera confirmar con seguridad (ver «No encontré») | — |
+| **Hobie** | Las 5 | ⚠️ no encontré ningún fotograma de su cara (ver «No encontré») | — |
+
+**Nota sobre Miguel**: sí bajé y miré entero un clip titulado «Miles Morales
+VS Miguel O'Hara» (`x8pb9nl`, el mismo que dio el miedo/rabia de Miles de
+arriba), pero los personajes que se cruzan con Miles en ese túnel (un
+hombre de chaqueta rosa, una chica rubia, una figura con capa roja) **no
+pude identificarlos con seguridad como Miguel O'Hara**: el diseño no
+coincide con el traje azul oscuro con rojos brillantes que ya confirmó el
+investigador de vídeo (`video.md`, con cita de CBR), y el título del clip
+puede corresponder a una recopilación con escenas de más de una secuencia
+pegadas. Prefiero dejarlo en ⚠️ antes que afirmar una cara que no puedo
+verificar. Esto **encaja** con el otro dato ya medido de Miguel en §8.3:
+es el personaje **menos expresivo** de los cinco por audio (12,0 semitonos,
+el más bajo de los cinco medidos con `voz.py`) — puede que por eso también
+sea el que menos aparece sin máscara y con la cara claramente visible en
+los clips promocionales sueltos que circulan.
+
 ## 20 · Gustos y detalles de cada personaje (nuevo: no existía en la biblia)
 
 Cumpleaños, edad, altura y peso, de las fichas oficiales de personaje de la
@@ -385,6 +426,41 @@ señala como las más citadas ✅:
 - **Comida favorita** de Miles, Gwen y Hobie: las fichas de personaje no la
   dan (sólo la de Miguel, las empanadas, ya en biblia §8). No la inventé;
   queda como hueco real de la tabla de §20 ⚠️.
+- **Punto 13, «su cara en cada emoción» (cierre de esta tanda)**: de las
+  5 personajes × 5 emociones (25 combinaciones), sólo conseguí confirmar
+  **7 con fotograma y minuto real** (Miles: miedo, rabia, tristeza,
+  vergüenza; Gwen: tristeza, alegría suave; Peter B.: miedo, determinación).
+  Lo que falta, buscado y no encontrado con certeza:
+  - **Alegría de Miles** con la cara descubierta: los clips reales que
+    encontré de Miles sin máscara son de peligro/pelea/vergüenza/duelo; no
+    di con un primer plano suyo sonriendo de verdad (sólo escenas donde
+    sonríe con la máscara puesta, que no cuenta como «su cara»).
+  - **Rabia, miedo y vergüenza de Gwen**: el único clip real con su cara de
+    cerca que encontré (`x8l73q0`, «Hanging With Gwen») es una escena
+    tranquila de conversación; no hay pelea ni confrontación con primer
+    plano de su cara sin máscara en los clips de Dailymotion disponibles.
+    La escena que sí tiene la carga emocional más fuerte de Gwen (la
+    confrontación con su papá, «esta máscara es mi placa…», §8.3) sólo la
+    tengo en **audio**, no encontré el clip de vídeo correspondiente pese a
+    buscarlo.
+  - **Alegría, tristeza y vergüenza de Peter B. Parker**: no encontré clips
+    reales de Dailymotion centrados en él con esas emociones (el clip
+    «Peter B. Parker Can't Get Over MJ Scene», `x7sxjaa`, resultó ser sobre
+    todo el flashback enmascarado del Peter Parker joven con MJ, no la cara
+    del Peter B. actual, así que no lo usé para no citar mal un fotograma).
+  - **Las 5 emociones de Miguel O'Hara**: ningún clip de Dailymotion
+    encontrado lo tiene como protagonista con la cara visible y clara; el
+    único candidato (`x8pb9nl`) no pude confirmarlo con seguridad como
+    Miguel (ver nota en §13.1). Coincide con que también es el personaje
+    con menos variación de tono en el audio medido (§8.3).
+  - **Las 5 emociones de Hobie Brown**: **no encontré ningún clip** de
+    Dailymotion, oficial o reposteado, centrado en su cara (7 búsquedas
+    distintas en la API de Dailymotion, ver bitácora). Sony no liberó
+    ningún «clip» promocional propio con Hobie de protagonista (todos los
+    que sí existen son de Miles, Gwen o ambos, o de acción general de la
+    Spider-Society); el único material real con él es el featurette
+    «Designing Spider-Punk» (ya en `video.md`), que es **live-action** con
+    los diseñadores hablando, no metraje animado de su cara.
 
 ## Bitácora de búsqueda
 
@@ -424,11 +500,45 @@ señala como las más citadas ✅:
   de fandub de Dr. Stone en otra sesión no aplica aquí, mencionado sólo
   como referencia de método.
 
-Sigue: punto 13 de ENCARGO.md pide «su cara en cada emoción (alegría,
-rabia, tristeza, miedo, vergüenza) con fotograma y minuto» para Miles,
-Gwen, Peter B., Miguel y Hobie. Es obligatorio y no está hecho de forma
-sistemática (ni en la biblia ni en esta parte): necesita `fotogramas.py`
-sobre UNU y ATSV, minuto a minuto, cosa que no entra en el alcance/tiempo
-de este rol de voz (no vi los vídeos yo mismo). Que lo tome el investigador
-de vídeo o una tanda con `fotogramas.py` para las 5×5 combinaciones,
-cruzando con los minutos ya listados en biblia §15 (poses) donde coincidan.
+### Bitácora de esta tanda (cierre del punto 13, «su cara en cada emoción»)
+
+- Primero leí `partes/video.md` completo para reutilizar clips ya mirados
+  por el investigador de vídeo (Dailymotion + Internet Archive, carpeta
+  `21-spiderverse-video/`) en vez de volver a bajarlos.
+- Búsquedas en la API de Dailymotion (`api.dailymotion.com/videos?search=`),
+  en inglés, una llamada por búsqueda: «Peter B Parker clip Spider-Verse»,
+  «Miguel O'Hara clip Across the Spider-Verse», «Hobie Brown Spider-Punk
+  clip scene», «Spider-Man 2099 unmasked face Across Spider-Verse»,
+  «Hobie Brown clip Across the Spider-Verse», «Across the Spider-Verse
+  clip Miles Miguel confrontation», «Spider-Punk Hobie clip Across
+  Spider-Verse», «Miguel O'Hara yells at Miles clip», «Peter B Parker
+  donut scene Spider-Verse», «Hobie Brown Miles reunion clip
+  Spider-Verse», «Spider-Punk best scene funny clip Across
+  Spider-Verse», «Spider-Man Across Spider-Verse clip Hobie guitar help
+  Miles escape», «Gwen Stacy Proposes Miles Morales» (y duplicados),
+  «Miles Morales Exam Grade Scene» (y duplicados), «Peter B Parker
+  goodbye Miles clip Spider-Verse», «Spider-Man Into the Spider-Verse
+  clip Peter B Parker Mayday», «Gwen Stacy father police captain clip
+  mask badge Spider-Verse» (sin resultados relevantes, la última) — 18
+  búsquedas en total, 0 resultados útiles para una cara de Hobie en
+  ninguna.
+- `fotogramas.py --cortes` (un fotograma por plano) sobre 8 clips nuevos de
+  Dailymotion: 4 dieron **404/«Not found»** al bajarlos con `yt-dlp`
+  (`x8l5988`, `x8l2ca2`, `x8l41jm`, `x8l3bsm`, `x8l1bsy` — los «clips
+  oficiales» sueltos de Movieclips-type se están cayendo de Dailymotion,
+  mismo problema que ya notó `video.md` con el Guggenheim) y 4 sí
+  funcionaron: `x8pb9nl` (189 fotogramas, 4 hojas), `x8l382l` (37
+  fotogramas), `x8l15ul` (14 fotogramas), `x87p3jc` (45 fotogramas) — 8
+  llamadas al script en total, carpetas en
+  `/tmp/claude-0/trabajo/21-spiderverse-voz/`.
+- Miré con `Read` las 7 hojas de contacto resultantes (más las 2 ya
+  existentes de `video.md` que reutilicé: `clip_hangingwithgwen` y
+  `clip_getup`) para elegir fotograma y minuto exactos de cada cara.
+
+No dejo «Sigue:» en el punto 13: hice las búsquedas obligatorias con
+`fotogramas.py` sobre clips reales de Dailymotion, conseguí 7 de las 25
+combinaciones cara×emoción con fotograma y minuto verificados (§13.1), y
+dejé las 18 que no pude confirmar en «No encontré» de arriba con ⚠️ y las
+búsquedas hechas, no ocultas ni inventadas. Mis 7 puntos (7, 8, 12, 13, 20,
+21, 22) quedan completos con lo que la red abierta permitió desde este
+servidor.

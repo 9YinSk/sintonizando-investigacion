@@ -214,5 +214,32 @@
     "que_es": "Ficha completa de Peter B. Parker: nombre completo, nacimiento (1980), edad (38/39), altura (1,78 m), peso (84 kg → 77,2 kg), estado civil (divorciado → vuelto a casar), hija Mayday.",
     "para_que": "§13 y §20: edad, altura y peso exactos en las dos películas, y confirmación de la familia (Mayday, MJ).",
     "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8pb9nl",
+    "fuente": "Dailymotion, clip de película «Miles Morales VS Miguel O'Hara» (ATSV), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Persecución de Miles por el túnel dimensional (anomalía) hasta el choque final: 189 fotogramas, uno por plano, de 0:00 a 6:51. Cara de Miles sin máscara en varios primeros planos: 0:11 cayendo con los ojos muy abiertos (miedo) y 2:26 con los dientes apretados (rabia). ⚠️ El resto de personajes que cruzan el plano (un hombre de chaqueta rosa, una chica rubia, una figura con capa roja) no pude identificarlos con seguridad como Miguel O'Hara u otro personaje concreto — el título del clip puede ser de una recopilación con escenas mezcladas, así que sólo cito lo que reconocí con certeza (la cara de Miles).",
+    "para_que": "§13 (punto 13 de ENCARGO.md): fotograma+minuto real de la cara de Miles en miedo y en rabia.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8l15ul",
+    "fuente": "Dailymotion, clip de película «Missing Class» (ATSV), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Miles entre sus padres en la oficina de la directora, 14 fotogramas de 0:00 a 0:31. A 0:28 Miles cierra los ojos con fuerza y arruga la cara, típica postura de vergüenza/pena frente a sus papás.",
+    "para_que": "§13: fotograma+minuto real de la cara de Miles en vergüenza.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x87p3jc",
+    "fuente": "Dailymotion, clip de película «Saying Goodbye» (UNU), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Escena de despedida de Gwen y batalla final en el colisionador, 45 fotogramas de 0:00 a 1:46. Peter B. Parker sin máscara (piel clara, pelo castaño, distinto del diseño de Miles) en varios primeros planos: 1:08 con el ceño fruncido y la mandíbula tensa (determinación/seriedad, cercano a rabia) y 1:23 con los ojos muy abiertos y las cejas alzadas (miedo/alarma).",
+    "para_que": "§13: fotograma+minuto real de la cara de Peter B. Parker en dos emociones.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
   }
 ]
