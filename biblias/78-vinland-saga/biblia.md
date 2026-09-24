@@ -872,3 +872,109 @@ Transcritas con `voz.py` (Whisper) y revisadas a oído. Whisper escribe
   «onomatopoeia» sin resultado).
 
 ---
+
+## 12 · Vídeos y tendencias
+
+| Vídeo | Qué es | Minuto útil | Estado |
+|---|---|---|---|
+| [Tráiler oficial T2](https://www.dailymotion.com/video/x8h1n5b) (FilmAffinity, 2:20, subtítulos en español; igual que [el de 3djuegos](https://www.dailymotion.com/video/x8p41mq)) | Mirado entero, 97 planos | 0:03 cartela del autor; 0:19 Einar a contraluz; 0:39 aldea en llamas; 1:17 puerto; 1:31 tocón; 1:42 puñetazo; 2:02 castillo; 2:16 cartela final | ✅ |
+| [OP1 «MUKANJYO»](https://www.dailymotion.com/video/x8bcl5n) (repost de MGG Spain, 1280×720) | Mirado entero, 31 fotogramas | 0:27, 0:45, 0:51, 1:00, 1:15, 1:24 | ✅ |
+| [ED1 «Torches»](https://www.youtube.com/watch?v=rlb942EnOF0) (sin créditos, 90 s) | Storyboard completo | ver §11 | ✅ ⚠️ baja resolución |
+| [Muerte de Askeladd](https://www.youtube.com/watch?v=PF2NTT_mnps) (Crunchyroll, 180 s) | Clip oficial | ver §2 | ✅ |
+| [Discurso de Canute](https://www.youtube.com/watch?v=Zt85YuG0-_Y) (Netflix Anime, 184 s) | Clip oficial | ver §2 | ✅ |
+| [Einar llega a la granja](https://www.youtube.com/watch?v=Zk4Iy5PBsOw) (Netflix Anime, 99 s) | Clip oficial, con subtítulo automático en español | 0:00-0:03, ~0:31, ~1:16 | ✅ |
+| [Canute despierta](https://www.youtube.com/watch?v=rsZc66_fisM) (170 s) | Clip de terceros: Canute en la nieve con capa roja, subtítulo «Isn't there any way to end the suffering from your punishment other than death?» | todo el clip | ⚠️ |
+| [PV5, tráiler japonés oficial](https://www.youtube.com/watch?v=5xqEp7R9SYM) (105 s) | Enlazado desde AniList | — | ⚠️ **no se pudo mirar** (403) |
+| [Edit vertical tipo TikTok](https://www.dailymotion.com/video/x8rnpp0) (Toxic-dj, 52 s) | Primeros planos muy cerrados, cortes al ritmo, subtítulos en inglés | todo | ⚠️ no se encontró el TikTok original |
+| [Lalo Garza: «¿Qué opino sobre Vinland Saga?»](https://www.youtube.com/shorts/CPGyL1I3KAU) (2025) | El actor de Thorfinn en Netflix habla de la serie | — | ✅ |
+| [@fandoblajes en TikTok](https://www.tiktok.com/@fandoblajes/video/7291264804713450758) | Compara el doblaje de Netflix y el de Crunchyroll: «¿Cuál es el mejor doblaje?» | — | ✅ |
+
+**Tendencias** (de los títulos de hilos de
+[r/VinlandSaga](https://www.reddit.com/r/VinlandSaga/comments/1anap1l/this_is_why_i_love_gigguk_i_knew_he_would_have/)):
+el youtuber **Gigguk** puso la T2 como su número 1 del año; y un hilo
+entero sobre cómo **Yukimura pone el énfasis en los ojos** de los
+personajes.
+
+**Otros en Dailymotion** (del recolector, sin mirar ⚠️): tráiler de la T2
+de Vidaextra (51 793 vistas, [x8llc9a](https://www.dailymotion.com/video/x8llc9a)),
+tráiler alemán de MeinMMO, tráileres en inglés de BetaSeries, «la fin du
+manga Vinland Saga !» (Nasspassion) y «L'opening Incroyable de Vinland
+Saga» (Berserk3r, 0:54).
+
+⚠️ **Making of en vídeo**: no apareció en Dailymotion ni Internet Archive
+(búsquedas «Vinland Saga making of», «staff interview video»). El making
+of escrito está en §19.
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+- **No existe ningún videojuego oficial** de Vinland Saga, en ninguna
+  plataforma ✅ (dos fuentes: búsqueda web específica, que sólo da juegos
+  de fans en Roblox, un proyecto en GitHub y una demo en Unity Play, sin
+  licencia; y Steam, vacío en `datos-texto.md`).
+- **No confundir**: «Dead in Vinland» es un juego francés de gestión, de
+  otro estudio, **sin relación** con esta obra.
+- **No usar los juegos de fans** como referencia de interfaz.
+- Lo más cercano: el **cómic cruzado con *Assassin's Creed Valhalla***,
+  dibujado por el propio Yukimura (§24).
+- Aparte: existe un **juego de mesa «Vinland Saga 01»** de Millennium
+  Games ⚠️ (no investigado a fondo)
+  ([tienda](https://shop.millenniumgames.com/products/vinland-saga-01)).
+- AniList enlaza también un ONA llamado **«Ponkotsuland Saga»** como obra
+  relacionada ⚠️ (no investigado).
+- **Si la lámina necesita una caja «de juego»**, hay que inventarla
+  coherente con §7: cartela negra con serif blanca o texto sobre madera.
+  No copiar un juego de fans.
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### Lo que ama
+
+- **«Un verdadero guerrero no necesita espada»** (Thors, cap. 15): la
+  frase más citada. Está en camisetas
+  ([Redbubble](https://www.redbubble.com/i/t-shirt/Copia-de-Vinland-Saga-True-Warrior-Needs-no-Sword-by-GambaShop/155713482.FB110)),
+  tuits fijados y es la filosofía que Thorfinn tarda toda la serie en
+  entender ✅.
+- **«No tienes enemigos» / «Nadie tiene enemigos»**: la otra frase-símbolo.
+  En el fandom hispano hay hasta un fandub titulado así (§23) ✅.
+- **Los ojos de Thorfinn**: grandes de niño, muertos en la venganza,
+  grandes otra vez al final. Miles de posts «Thorfinn eyes» en Pinterest
+  y TikTok ✅
+  ([TV Tropes, personaje](https://tvtropes.org/pmwiki/pmwiki.php/Characters/VinlandSagaThorfinn)).
+- **Askeladd**: el fandom lo prefiere muchas veces a Thorfinn. Su final
+  ante el rey (ep. 24) es de lo más compartido.
+- **El dúo de cada arco** (Facebook hispano, §8).
+- En Reddit: «Heroes and Villains has same origin story but different
+  ways to handle» (42 votos): Thorfinn y Askeladd salen del mismo dolor y
+  eligen distinto ([hilo](https://www.reddit.com/r/VinlandSaga/comments/14mwg8u/heroes_and_villains_has_same_origin_story_but/)).
+- ⚠️ No hay un meme o chiste interno **propio del fandom hispano** más allá
+  de comparar los dos doblajes.
+
+### Qué NO hacer (lo que a un fan le parecería falso)
+
+1. **No dibujar a Thorfinn con ojos grandes y brillantes en una escena del
+   arco de la venganza.** Ahí tiene la mirada entrecerrada y vacía. Es el
+   error visual más notorio ⚠️ (deducido del motivo, no hay una regla
+   escrita).
+2. **Nada de paleta alegre ni estética *chibi* o cómica.** Es un seinen
+   histórico, violento y realista. El encargo pide «Inglaterra del siglo
+   XI, paisajes y crudeza».
+3. **No confundir los dos doblajes**: Lalo Garza (Netflix) y Víctor
+   Tabarez (Crunchyroll) son personas distintas.
+4. **No tratar la voz de Canute en Crunchyroll como chiste** (Luba
+   Flores, mujer trans).
+5. **No meter acción donde la T2 es lenta a propósito.** La T2 (granja)
+   decepcionó al principio a quien quería batallas, pero la crítica y los
+   lectores la defienden como la mejor parte ✅
+   ([Epicdope](https://www.epicdope.com/is-vinland-saga-season-2-bad-why-are-fans-displeased/)).
+6. **No usar globo blanco de cómic** (§7).
+7. **No confundirla con «Dead in Vinland»** ni con otros juegos
+   vikingos.
+8. **No usar el doblaje con IA de Prime Video.**
+9. **No repetir la lámina de Attack on Titan** (papel sucio con cinta
+   roja, §25).
+
+---
