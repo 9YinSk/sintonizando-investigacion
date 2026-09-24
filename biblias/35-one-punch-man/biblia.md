@@ -206,7 +206,9 @@ ni la ñ**: descartada.
 - **El aviso de resultados del examen de héroe** («ヒーロー認定試験 試験結果
   通知書 / サイタマ殿»): una hoja blanca vertical con una **«C» enorme**
   («C級ヒーロー») y «**総得点 71点/100点**». Saitama la sostiene con cara
-  de fastidio (wiki, «Results.png», T1-05, 1920×1080).
+  de fastidio (wiki, «Results.png», 1920×1080). Es el **T1-05**: aprueba **por un
+  punto** y le dan la clase C; Genos saca pleno y entra en la S (wiki,
+  «Episode 5»).
 - **El volante del supermercado** «**あったか鍋セール**» («oferta de
   hot pot calentito») con verduras, precios «99円» y «158円» en rojo y
   amarillo (wiki, «Hotpotflyer.png», 1280×715). Saitama **mata monstruos
@@ -245,7 +247,8 @@ ni la ñ**: descartada.
   sombreada.
 - **«En 20 palabras o menos»**: Saitama corta las explicaciones largas de
   Genos y le pide que lo resuma (la wiki: «su número ideal de palabras es 20
-  o menos»; T1-02/T1-05 ⚠️ episodio exacto sin comprobar). **Es la
+  o menos»). ⚠️ Episodio: creo que es T1-02, cuando Genos cuenta su
+  pasado en el apartamento; la wiki no lo dice por episodio. **Es la
   excusa perfecta para textos cortos en la lámina** (regla 4 del dueño).
 - **Genos piensa en datos**: analiza, compara, apunta en su **libreta de
   entrenamiento** (wiki, «Genos writing his training diary», «Genos taking
