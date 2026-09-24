@@ -10,3 +10,4 @@ panel de uso de la cuenta cuando el dueño los diga.
 | Fecha | Serie | Modo | Rol | Modelo | Minutos | Tokens | Notas |
 |---|---|---|---|---|---|---|---|
 | 24-sep | 01 One Piece | piloto de 8 | los 8 roles | Opus | 25 | — | unos **65 dólares** entre los 8 (dato del dueño); ninguno terminó. Por eso nació el método económico. |
+| 24-sep | 01 One Piece | seguir (económico) | voz, tanda 1 | Sonnet | 16 | 238 482 | 54 acciones; 12 datos nuevos (9 muestras del doblaje medidas con voz.py; «SE BUSCA» sí se dice en latino) |
