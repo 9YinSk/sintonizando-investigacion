@@ -47,3 +47,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 77-wistoria-wand-and-sword | texto | sonnet | 13 | 255268 |
 | 77-wistoria-wand-and-sword | imagen | sonnet | 16 | 217946 |
 | 77-wistoria-wand-and-sword | voz | sonnet | 16 | 235722 |
+| 78-vinland-saga | imagen | sonnet | 12 | 185385 |
