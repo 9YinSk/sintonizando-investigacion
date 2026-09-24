@@ -8,19 +8,29 @@ fecha: 2026-09-24
 # Biblia · Mafalda — para #sugerencias
 
 > [!important] Cómo se hizo esta investigación
-> La red del contenedor estaba cerrada. Fandom (la wiki de Mafalda y
-> Doblaje Wiki), Wikipedia, la web oficial de Quino, YouTube, TikTok,
-> dafont, 1001 Free Fonts, Substack, Cartoon Brew, Sketchfab, Poly Haven,
-> ambientCG, Wayback Machine y Arctic Shift daban error 403 o 000.
-> Se usó el buscador web (**49 búsquedas**, en español, inglés, japonés,
-> chino, coreano e italiano) y GitHub, que sí responde.
-> Por GitHub se abrió de verdad:
-> - **47 letras de Google Fonts**: se bajaron y se comprobó una a una si
->   traen á é í ó ú ñ ¿ ¡ ü. **Dos no las traen** (Nanum Pen Script y Gaegu).
-> - Los README de dos proyectos de fans de Mafalda (un bot y un extractor).
+> **Primera pasada (red cerrada).** Fandom, Wikipedia, YouTube, TikTok,
+> dafont, Sketchfab, Wayback y Arctic Shift daban 403 o 000. Se usó el
+> buscador (**49 búsquedas** en seis idiomas) y GitHub, donde se
+> comprobaron con fontTools **47 letras de Google Fonts** (dos no traen
+> tildes: Nanum Pen Script y Gaegu). No se vio ninguna imagen ni vídeo.
 >
-> Sin red completa **no hay hojas de contacto** ni carpeta `hojas/`.
-> No se vio ninguna imagen ni vídeo: se describen por lo que dicen las fuentes.
+> **Segunda pasada (24-sep-2026, red abierta).** Un equipo de cuatro
+> investigadores (imagen, vídeo, voz, texto) y un redactor. Se usó:
+> - **Internet Archive**: los 5 episodios de los cortos de 1972 en 1080p y
+>   la película de 1981, **mirados** con ffmpeg por rangos (~50
+>   fotogramas) y **oídos** con `voz.py` (Whisper): frases con minuto.
+> - **Dailymotion** (su API y `fotogramas.py`): el corto de Felipe y el
+>   ajedrez; los dos «tráileres» resultaron ser la película entera.
+> - **APIs de Fandom** (Mafalda Wiki y Doblaje Wiki), **Sketchfab**
+>   (licencias reales), **Wikimedia Commons**, **Arctic Shift** (Reddit),
+>   `estilo.py`, `tesseract` y Pillow para medir colores.
+> - Unas 45 búsquedas web y WebFetch para abrir artículos que antes sólo
+>   se citaban.
+>
+> **No se pudo**: YouTube (pide iniciar sesión), TV Tropes y The Cutting
+> Room Floor (Cloudflare, 403), bajar la letra «Quino» (4 espejos con
+> login, captcha o 403). Ahora sí hay **3 hojas de contacto** en `hojas/`.
+>
 > ✅ = confirmado en dos fuentes. ⚠️ = dudoso, una sola fuente o de memoria.
 > ❌ = falso, desmentido por fuentes.
 
@@ -28,8 +38,11 @@ fecha: 2026-09-24
 > Es una **tira de humor gráfico argentina**, en blanco y negro, de
 > **1964 a 1973** ✅ ([Biblioteca Nacional](https://www.bn.gov.ar/noticias/29-de-septiembre-de-1964-aparece-mafalda),
 > [Wikipedia](https://en.wikipedia.org/wiki/Mafalda)). Por eso:
-> - Los «fotogramas» salen de tres animaciones cortas (1972, 1993) y de la
->   serie de Netflix que se estrena en 2027.
+> - Los «fotogramas» salen de tres animaciones (los cortos de 1972, la
+>   película de 1981 y la serie cubana de 1993) y de la serie de Netflix
+>   que se estrena en 2027.
+> - La **tira** es blanco y negro, pero **los cortos de 1972 y la película
+>   de 1981 ya son en color**: once años antes de Netflix (sección 6).
 > - **No hay «doblaje latino»**: el original ya está en español de Argentina.
 >   Hubo voces argentinas, un redoblaje mexicano y una versión sin palabras.
 > - El **cuadro de diálogo** es el globo dibujado a mano por Quino.
