@@ -172,36 +172,54 @@ Investigación para volverse experto en cada tema, aplicada a sus proyectos.
 
 ## Tanda de temas 1
 
-> Haz la tanda de temas 1 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T01-agentes-de-ia.md`, `temas/T02-radio-en-vivo.md`, `temas/T03-locuci-n.md`, `temas/T04-doblaje-latino.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+> Haz la tanda de temas 1 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T01-recortar-personajes-de-anime-sin-halo.md`, `temas/T02-integrar-un-personaje-2d-en-una-escena.md`, `temas/T03-blender-para-objetos-de-ilustraci-n-anim.md`, `temas/T04-tipograf-a-de-fans-en-espa-ol.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] T01-agentes-de-ia
-- [ ] T02-radio-en-vivo
-- [ ] T03-locuci-n
-- [ ] T04-doblaje-latino
+- [ ] T01-recortar-personajes-de-anime-sin-halo
+- [ ] T02-integrar-un-personaje-2d-en-una-escena
+- [ ] T03-blender-para-objetos-de-ilustraci-n-anim
+- [ ] T04-tipograf-a-de-fans-en-espa-ol
 
 ## Tanda de temas 2
 
-> Haz la tanda de temas 2 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T05-canto-y-covers.md`, `temas/T06-vtubers.md`, `temas/T07-altiplano-a-asia.md`, `temas/T08-modelado-3d-y-render.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+> Haz la tanda de temas 2 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T05-l-minas-y-paneles-de-discord-que-destaca.md`, `temas/T06-radios-y-equipos-reales-de-cada-poca.md`, `temas/T07-radio-en-vivo-en-discord-con-dos-present.md`, `temas/T08-karaoke-con-letras-sincronizadas.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] T05-canto-y-covers
-- [ ] T06-vtubers
-- [ ] T07-altiplano-a-asia
-- [ ] T08-modelado-3d-y-render
+- [ ] T05-l-minas-y-paneles-de-discord-que-destaca
+- [ ] T06-radios-y-equipos-reales-de-cada-poca
+- [ ] T07-radio-en-vivo-en-discord-con-dos-present
+- [ ] T08-karaoke-con-letras-sincronizadas
 
 ## Tanda de temas 3
 
-> Haz la tanda de temas 3 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T09-dise-o-gr-fico-e-ilustraci-n.md`, `temas/T10-generaci-n-con-ia.md`, `temas/T11-redes-sociales-y-video-corto.md`, `temas/T12-edici-n-de-video-y-audio.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+> Haz la tanda de temas 3 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T09-live2d-dentro-de-cubism-free.md`, `temas/T10-separar-ilustraciones-en-capas-con-ia.md`, `temas/T11-vtuber-con-webcam-y-micro-sin-iphone.md`, `temas/T12-fandub-con-calidad-profesional-en-casa.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] T09-dise-o-gr-fico-e-ilustraci-n
-- [ ] T10-generaci-n-con-ia
-- [ ] T11-redes-sociales-y-video-corto
-- [ ] T12-edici-n-de-video-y-audio
+- [ ] T09-live2d-dentro-de-cubism-free
+- [ ] T10-separar-ilustraciones-en-capas-con-ia
+- [ ] T11-vtuber-con-webcam-y-micro-sin-iphone
+- [ ] T12-fandub-con-calidad-profesional-en-casa
 
 ## Tanda de temas 4
 
-> Haz la tanda de temas 4 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T13-comunidades-de-discord.md`, `temas/T14-skills-y-mcp-de-claude.md`, `temas/T15-servidores-de-minecraft-con-mods.md`, `temas/T16-marketing-para-pymes-peruanas.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+> Haz la tanda de temas 4 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T13-ejercicios-y-retos-para-una-comunidad-de.md`, `temas/T14-cambiadores-de-voz-y-clonaci-n.md`, `temas/T15-fandubs-y-clips-de-anime-en-redes.md`, `temas/T16-hacer-crecer-un-servidor-de-doblaje.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] T13-comunidades-de-discord
-- [ ] T14-skills-y-mcp-de-claude
-- [ ] T15-servidores-de-minecraft-con-mods
-- [ ] T16-marketing-para-pymes-peruanas
+- [ ] T13-ejercicios-y-retos-para-una-comunidad-de
+- [ ] T14-cambiadores-de-voz-y-clonaci-n
+- [ ] T15-fandubs-y-clips-de-anime-en-redes
+- [ ] T16-hacer-crecer-un-servidor-de-doblaje
+
+## Tanda de temas 5
+
+> Haz la tanda de temas 5 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T17-conocer-gente-de-china-jap-n-y-corea.md`, `temas/T18-mostrar-puno-y-el-titicaca-al-p-blico-as.md`, `temas/T19-coordinar-agentes-en-trabajo-creativo-la.md`, `temas/T20-im-genes-con-ia-que-no-parezcan-ia.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T17-conocer-gente-de-china-jap-n-y-corea
+- [ ] T18-mostrar-puno-y-el-titicaca-al-p-blico-as
+- [ ] T19-coordinar-agentes-en-trabajo-creativo-la
+- [ ] T20-im-genes-con-ia-que-no-parezcan-ia
+
+## Tanda de temas 6
+
+> Haz la tanda de temas 6 de `TANDAS.md` siguiendo `TEMA.md`: `temas/T21-skills-y-mcp-para-dise-o-y-video.md`, `temas/T22-presencia-digital-de-una-ladriller-a-en-.md`, `temas/T23-importar-hardware-a-per-y-venderlo-onlin.md`, `temas/T24-servidores-de-minecraft-con-mods-rendimi.md`. Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.
+
+- [ ] T21-skills-y-mcp-para-dise-o-y-video
+- [ ] T22-presencia-digital-de-una-ladriller-a-en-
+- [ ] T23-importar-hardware-a-per-y-venderlo-onlin
+- [ ] T24-servidores-de-minecraft-con-mods-rendimi

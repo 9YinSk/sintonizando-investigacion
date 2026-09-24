@@ -127,22 +127,38 @@ BIBLIOTECA = [
 
 # Temas de conocimiento (no series): para que su Claude principal sea experto.
 TEMAS = [
-    ("Agentes de IA", "coordinar varios agentes (Claude Code, subagentes, Proyectos, Codex, Antigravity), MCP, costos y límites, cómo repartir el trabajo y revisarlo"),
-    ("Radio en vivo", "producir una radio online en directo: programación, locución en vivo, música y derechos, efectos, ambientación, interacción con oyentes, y la estética de las radios antiguas de cada época"),
-    ("Locución", "técnica vocal, respiración, dicción, micrófonos, tratamiento acústico casero, cadena de procesado (EQ, compresión, de-esser), locución comercial y narración"),
-    ("Doblaje latino", "el oficio: sincronía labial, interpretación, dirección, adaptación de guiones, estudios de México y la región, cómo empezar, fandub y castings, pruebas de voz"),
-    ("Canto y covers", "técnica, registros, afinación, grabar en casa, mezcla vocal, covers de anime, derechos de las pistas"),
-    ("VTubers", "Live2D (rigging, física, expresiones), VTube Studio, See-through y separar capas con IA, seguimiento facial, directos, identidad y VTubers hispanos que funcionan"),
-    ("Altiplano a Asia", "conocer gente de China, Japón y Corea: apps de intercambio, redes locales (LINE, KakaoTalk, Xiaohongshu, note.com), costumbres, horarios, seguridad y cómo presentarse desde Puno"),
-    ("Modelado 3D y render", "Blender para ilustración: estilo anime (toon, NPR, Grease Pencil), integrar 2D y 3D, iluminación, modelos y texturas libres, render rápido en una GPU de 8 GB"),
-    ("Diseño gráfico e ilustración", "composición, tipografía, color, identidad visual, texturas; cómo lograr que un diseño no parezca hecho por IA; láminas y banners para comunidades"),
-    ("Generación con IA", "imagen (Firefly, Flux, Stable Diffusion, ComfyUI), video, voz y música: qué modelos hay, cuáles corren en su PC, licencias, cómo integrarlo sin aspecto artificial"),
-    ("Redes sociales y video corto", "algoritmos de TikTok, Shorts y Reels en 2026; qué fandubs y clips funcionan; guiones, portadas, subtítulos, horarios y hashtags; programar publicaciones"),
-    ("Edición de video y audio", "flujos con DaVinci Resolve gratis, Premiere, CapCut y herramientas por código (FFmpeg, Remotion); mezcla, limpieza de voz, subtítulos"),
-    ("Comunidades de Discord", "diseño de servidores, onboarding, bots, roles, moderación, eventos, retener gente; servidores de referencia con diseño destacado"),
-    ("Skills y MCP de Claude", "catálogo de skills y servidores MCP útiles para sus proyectos, cómo revisarlos antes de instalar y cuáles evitar"),
-    ("Servidores de Minecraft con mods", "Forge, NeoForge y Fabric; rendimiento, compatibilidad de mods, hosting barato, crossplay, errores típicos"),
-    ("Marketing para pymes peruanas", "presencia digital para una ladrillería y un negocio de hardware en Perú: Google Business, WhatsApp Business, redes, fotos de producto, SUNAT y trámites básicos"),
+    # Láminas y diseño del Discord
+    ("Recortar personajes de anime sin halo", "comparar ToonOut, BiRefNet, anime-segmentation, Photoshop y See-through para recortar ilustraciones y fotogramas de anime con pelo suelto y líneas finas; ampliar sin perder la línea (Real-ESRGAN, waifu2x); flujo completo en una GPU de 8 GB"),
+    ("Integrar un personaje 2D en una escena", "cómo lo hacen los estudios de anime y los ilustradores: luz y sombra proyectada, luz de borde, igualar color y grano, profundidad, algo delante del personaje; técnicas de composición (satsuei) aplicables en Photoshop y HTML"),
+    ("Blender para objetos de ilustración anime", "papel, cuadernos, carteles, cajas y máquinas con aspecto de anime: sombreado toon, NPR, Grease Pencil, texto o tinta que sigue las arrugas (calcomanías, shrinkwrap), luz, render rápido en 8 GB"),
+    ("Tipografía de fans en español", "letras libres parecidas a los logos, rótulos y globos de las series del servidor; cuáles traen tildes, ñ, ¿ y ¡, cómo añadirlas si faltan, y licencias"),
+    ("Láminas y paneles de Discord que destacan", "servidores de Discord con diseño premiado o muy comentado: cómo presentan canales, reglas y foros; cómo se ven las imágenes en el móvil; componentes y botones nuevos de Discord"),
+    # Radio Console
+    ("Radios y equipos reales de cada época", "para sus cinco mundos: radios de los años 30 (Art Déco, Philco, de catedral), equipos y casetes de los 80, neones, Night City y la tecnología Hextech de Arcane; materiales, sonidos, y modelos 3D con licencia"),
+    ("Radio en vivo en Discord con dos presentadoras", "bots de audio, mezclar voz y música, retardo, escenarios de Discord, derechos musicales, y cómo lo hacen las radios comunitarias online"),
+    ("Karaoke con letras sincronizadas", "fuentes de letras con tiempos (LRC y similares), APIs, sincronizar con la música que suena, derechos"),
+    # VTuber
+    ("Live2D dentro de Cubism FREE", "rigging de cintura, brazos y física del pelo con los límites de la versión gratis (100 mallas, 30 partes, 30 parámetros, 50 deformadores); tutoriales en español"),
+    ("Separar ilustraciones en capas con IA", "See-through y alternativas en 2026 para preparar un modelo Live2D desde un dibujo entero: calidad, trucos y límites"),
+    ("VTuber con webcam y micro, sin iPhone", "VTube Studio, VBridger, sincronía de labios, ajustes de seguimiento en una PC con 8 GB de GPU"),
+    # Doblaje y voz
+    ("Fandub con calidad profesional en casa", "sincronía, separar voz y música (UVR, Demucs), mezclar con la pista de efectos, ecualizar para que suene a doblaje, subtítulos"),
+    ("Ejercicios y retos para una comunidad de doblaje", "retos semanales, pruebas de casting, guiones y escenas libres de derechos por dificultad, cómo dar devolución útil"),
+    ("Cambiadores de voz y clonación", "RVC, VCClient y alternativas en 2026: calidad, uso en directo, ética y límites"),
+    # Redes y comunidad
+    ("Fandubs y clips de anime en redes", "qué formatos funcionan en TikTok, Shorts y Reels; derechos y Content ID; cómo no ser bloqueado; portadas y títulos"),
+    ("Hacer crecer un servidor de doblaje", "dónde promocionarlo, alianzas con otros servidores, eventos que retienen gente, qué hacen los servidores hispanos grandes"),
+    # Altiplano a Asia
+    ("Conocer gente de China, Japón y Corea", "apps que funcionan en 2026 desde Latinoamérica, seguridad, cómo presentarse, traducción en tiempo real, diferencia horaria con Perú"),
+    ("Mostrar Puno y el Titicaca al público asiático", "qué contenido engancha en Xiaohongshu, LINE VOOM, note y Naver; fotos, poemas y voz como formato"),
+    # Agentes e IA
+    ("Coordinar agentes en trabajo creativo largo", "Proyectos de Claude Code, subagentes, Codex y Antigravity: memoria compartida, revisión, reparto y costos"),
+    ("Imágenes con IA que no parezcan IA", "flujos de ComfyUI con referencias de estilo y de pose (IP-Adapter, ControlNet), LoRAs de estilo anime, Firefly y Canva; licencias; en 8 GB de GPU"),
+    ("Skills y MCP para diseño y video", "cuáles existen en 2026, cuáles revisar e instalar, cuáles evitar y por qué"),
+    # Negocio y otros
+    ("Presencia digital de una ladrillería en Puno", "Google Business, catálogo de WhatsApp, fotos de producto, anuncios locales, precios de referencia en la región"),
+    ("Importar hardware a Perú y venderlo online", "courier, categorías de SUNAT, RUC y régimen, marketplaces, garantía"),
+    ("Servidores de Minecraft con mods, rendimiento", "NeoForge y Fabric en 2026: Voxy, Distant Horizons, C2ME, pregenerar el mundo, hosting barato, errores típicos"),
 ]
 
 
