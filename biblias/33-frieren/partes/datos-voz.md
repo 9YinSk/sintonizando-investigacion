@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/154587_
@@ -72,6 +72,49 @@ _Fuente: https://anilist.co/anime/154587_
   Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view.
 - **Aura** (género Female) · https://anilist.co/character/219110
   Aura is one of the Seven Sages of Destruction directly serving the Demon King. [spoiler]
+
+## Doblaje latino: ficha de «Frieren: Más allá del final del viaje» (Doblaje Wiki)
+_Fuente: https://doblaje.fandom.com/es/wiki/Frieren%3A_M%C3%A1s_all%C3%A1_del_final_del_viaje_
+
+- titulo: Frieren: Más allá del final del viaje
+- img: Frieren - Más Allá Del Final Del Viaje - Poster.jpg
+- titulo_orig: 葬送のフリーレン · (Sōsō no Furīren)
+- idioma_orig: Japonés
+- estudio_doblaje: VSI Mexico City
+- direccion_doblaje: Raúl Estrada
+- traductor_adaptador: Arturo Moreno
+- coordinador_talento: Teté Carmona
+- ingeniero_grabacion: Raúl Martínez · (temp. 1)Lalo Larios · (temp. 2)
+- mezcla: Fernando Herrera
+- produc_ejecutivo: Laura J. Suinaga
+- version_doblada: Original · (audio referencia) Crunchyroll · (guiones)
+- version_español: 
+- pais: México
+- origen: Japón
+- año: 2023-presente
+- temporadas: 3
+- episodios: 36
+
+## Reparto latino por personaje (Doblaje Wiki; confirmar cada nombre con otra fuente)
+_Fuente: https://doblaje.fandom.com/es/wiki/Frieren%3A_M%C3%A1s_all%C3%A1_del_final_del_viaje_
+
+| Grupo | Personaje | Voz original | Voz latina | Temp. | Eps. | Muestra de audio |
+|---|---|---|---|---|---|---|
+|  | 1ª-2ª |  |  |  |  |  |
+|  | 1ª |  |  |  |  |  |
+|  | 16 |  |  |  |  |  |
+|  | 22 |  |  |  |  |  |
+| Magos de Primera Clase | 20 |  |  |  |  |  |
+| Demonios | 3ª |  |  |  |  |  |
+
+## «Datos de interés» del doblaje (Doblaje Wiki: frases, cambios, adaptación)
+_Fuente: https://doblaje.fandom.com/es/wiki/Frieren%3A_M%C3%A1s_all%C3%A1_del_final_del_viaje#Datos%20de%20inter%C3%A9s_
+
+- En el episodio 17, Stark tararea una parte de la canción "Mi Corazón Encantado" de Dragon Ball GT.
+- El nombre de Stark es pronunciado como shtark igual que en el idioma original.
+- En el episodio 13, cuándo debaten sobre si sumar a su grupo a Sein, Frieren no quiere hacerlo y Stark si quiere, pero el diálogo de Stark dice "Yo estoy a favor de Frieren" cuándo debería decir lo contrario.
+- En el episodio 18, cuando el equipo de Fern captura el Stille, los diálogos de Übel quedan en silencio.
+- En el episodio 23, Frieren dice que a Himmel le encantaban los calabozos y Fern pregunta "¿a usted le encantaban?" Cuándo debería decir "¿a él le encantaban?" ya que toda la conversación giraba en torno a Himmel.
 
 ## Frieren · Personality (texto de la wiki)
 _Fuente: https://frieren.fandom.com/wiki/Frieren#Personality_
@@ -151,3 +194,21 @@ _Fuente: https://api.dailymotion.com_
 **«Frieren doblaje latino»**
 **«Frieren fandub español»**
 **«Frieren fandub latino»**
+
+## Reddit r/Frieren: lo que ama y discute el fandom (títulos de hilos)
+_Fuente: https://www.reddit.com/r/Frieren_
+
+**«unpopular opinion»**
+- (1 votos, 1 comentarios) Unpopular opinion but for me, she has the best character design ( she’s also my favorite character ) · https://www.reddit.com/r/Frieren/comments/1v9aw9k/unpopular_opinion_but_for_me_she_has_the_best/
+- (1 votos, 1 comentarios) Unpopular Opinion? Season 2's shorter 10-episode length actually helped the pacing. · https://www.reddit.com/r/Frieren/comments/1srot44/unpopular_opinion_season_2s_shorter_10episode/
+- (1 votos, 1 comentarios) Unpopular opinion: Denken can win any mage 1v1 with one of these stones. · https://www.reddit.com/r/Frieren/comments/1s8lr4u/unpopular_opinion_denken_can_win_any_mage_1v1/
+- (1 votos, 1 comentarios) Unpopular opinion: Anyone disappointed by this season so far? · https://www.reddit.com/r/Frieren/comments/1rbsswl/unpopular_opinion_anyone_disappointed_by_this/
+- (1 votos, 1 comentarios) Unpopular opinion? · https://www.reddit.com/r/Frieren/comments/1qmza10/unpopular_opinion/
+- (1 votos, 1 comentarios) Unpopular opinion, i dont get the Frieren hype · https://www.reddit.com/r/Frieren/comments/1qiwgnc/unpopular_opinion_i_dont_get_the_frieren_hype/
+**«iconic»**
+- (975 votos, 5 comentarios) I made this iconic frame in pixel-art! · https://www.reddit.com/r/Frieren/comments/1tozlm7/i_made_this_iconic_frame_in_pixelart/
+- (467 votos, 22 comentarios) One of the most iconic characters in Frieren · https://www.reddit.com/r/Frieren/comments/1quwd0k/one_of_the_most_iconic_characters_in_frieren/
+- (142 votos, 18 comentarios) [OC] My Frieren fit from LoveCosplay finally came together, should i try the iconic pose by @ u/Spacedev ? · https://www.reddit.com/r/Frieren/comments/1p6612m/oc_my_frieren_fit_from_lovecosplay_finally_came/
+- (99 votos, 35 comentarios) Do you think Frieren will become an iconic anime/manga in the future? · https://www.reddit.com/r/Frieren/comments/1gb9i0l/do_you_think_frieren_will_become_an_iconic/
+- (63 votos, 2 comentarios) That iconic Frieren pout by @hugo.did.that · https://www.reddit.com/r/Frieren/comments/1rwqz24/that_iconic_frieren_pout_by_hugodidthat/
+- (54 votos, 2 comentarios) The Iconic Frieren Angle [OC] · https://www.reddit.com/r/Frieren/comments/1pdsp38/the_iconic_frieren_angle_oc/
