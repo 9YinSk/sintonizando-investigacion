@@ -1394,3 +1394,74 @@ las frases de cada arco las armó el investigador de texto cruzando fichas ⚠�
   ([Swordsmith Village](https://kimetsu-no-yaiba.fandom.com/wiki/Swordsmith_Village)).
 
 ---
+
+## Las 3 hojas de contacto
+
+Las tres en `hojas/`, JPEG de menos de 3 MB. Dos las montó el redactor con
+Pillow a partir del material del equipo; la tercera es la hoja 01 de
+`investigar_serie.py`. La hoja 09 (cartelas y efectos) se quitó: sus
+mejores casillas están ahora en `auras_01` (C6, C7) y `fondos_01` (F8,
+F12, F15, F16). Las 52 hojas completas siguen en
+`herramientas/referencias/demon-slayer-paisajes-y-auras/` (no se suben).
+
+### `auras_01.jpg` · las 14 respiraciones (2400×1267)
+
+- **A1-A12**: las 12 *Zenshuchuten*, cada una con **su hex medido** en una
+  muestra de color: A1 Agua (Giyu), A2 Llama (Rengoku), A3 Trueno
+  (Zenitsu), A4 Viento (Sanemi), A5 Piedra (Gyomei), A6 Sol / Hinokami
+  (Tanjiro), A7 Niebla (Muichiro), A8 Insecto (Shinobu), A9 Amor
+  (Mitsuri), A10 Sonido (Tengen), A11 Serpiente (Obanai), A12 Bestia
+  (Inosuke). **Sirven para**: el color exacto de cada aura y **cómo abraza
+  el efecto al cuerpo** (espiral por delante y por detrás).
+- **A13 Flor** (Kanao, manga, con el rótulo 花の呼吸 終ノ型) y **A14 Luna**
+  (Kokushibo, manga, 月の呼吸): sin color. Sirven para **la forma** del
+  efecto: pétalos y medias lunas.
+- **C1-C8**: el mismo efecto **en el anime**, recortado de las hojas de la
+  wiki (se dice de qué hoja y número): C1-C2 Agua (hoja 20, n.º 944 y 947),
+  C3-C5 Hinokami (n.º 943, hoja 01 n.º 29 contra Enmu, n.º 958), C6
+  espada roja (hoja 09, n.º 415), C7 trueno de Zenitsu en triángulo
+  (n.º 416), C8 rayo rosa de Urogi, un demonio (n.º 945). **Sirven para**:
+  ver que en el anime el efecto **se pinta encima del plano, con forma de
+  pincelada**, y que el del demonio va en rosa-morado.
+
+### `fondos_01.jpg` · paisajes y luz (2400×1508)
+
+| N.º | Qué | Para qué |
+|---|---|---|
+| F1 | Mansión Mariposa, de día | fondo de calma; paleta medida |
+| F2 | Castillo Infinito: salas de tatami flotando, puntos de farol | concepto C; paleta medida |
+| F3 | Tanjiro y las glicinas | **concepto A**: pose y color |
+| F4 | Monte Natagumo de noche | lo más oscuro (9 %) |
+| F5 | Yoshiwara desde arriba, farolillos | noche cálida |
+| F6 | Cartela del arco de los Herreros (Tanjiro, Mitsuri, Muichiro) | pose de grupo del arco; tinta y sello |
+| F7 | Key visual de Asakusa (Muzan) | ciudad de noche |
+| F8 | Selección Final desde arriba: **camino de piedra con pilares rojos entre glicinas** | **concepto A**: el sitio real |
+| F9, F11 | cascada y río con rocas | «Naturaleza» (concepto B) |
+| F10 | amanecer violeta tras los montes, Tanjiro de espaldas | contraluz solemne |
+| F12 | bosque nevado de troncos rectos | frío, recuerdo |
+| F13 | Tanjiro entre columnas con luz naranja | interior cálido |
+| F14 | Tanjiro ante el Castillo Infinito | cara de asombro |
+| F15, F16 | cartelas a tinta con el sello rojo; sol rojo | textura sumi-e y el sello |
+
+### `colaboraciones_01.jpg` · arte oficial y cruces (2400×1704, hoja 01)
+
+- **Key visuals**: n.º 8 IMAX *Castillo Infinito* (2898×4096), n.º 9 *Tren
+  Mugen* KV 2, n.º 42 KV 3, n.º 44 KV T4, n.º 35 KV T2.
+- **Acción con aura**: n.º 29 aro de fuego contra Enmu (**3840×2160**),
+  n.º 47 Shinobu clavando la espada en el cuello de Doma, n.º 48 Gyomei
+  rompiendo un muro.
+- **Cuerpo entero para recortar**: n.º 33 Tanjiro (2100×2854), n.º 40
+  Shinobu presentándose (2355×2279), n.º 1 Shinobu con mariposas moradas
+  (3642×3659).
+- **Tinta**: n.º 15 Muichiro y n.º 23 Tanjiro y Nezuko, *Animation
+  Illustration*, a pincel.
+- **Cumpleaños y fechas** (chibis, nombre vertical): n.º 5, 6, 10, 11, 13,
+  17, 18, 20, 21; grupos n.º 3, 4, 12, 14, 19.
+- **Chibis** para el concepto B: n.º 34 (BD de *Castillo Infinito*),
+  n.º 37-39 (Tanjiro, Muichiro y Shinobu, evento de playa 2024).
+- **Colaboraciones**: n.º 24 turismo 2026, n.º 26 Kimetsu Cafe, n.º 27
+  Joypolis, n.º 28 Nijigen no Mori.
+- **Teatro**: n.º 16, 25, 31, 32, 36. **Portadas**: n.º 2 Newtype, n.º 22
+  Shinobu, n.º 30, 43, 45 BD.
+
+---
