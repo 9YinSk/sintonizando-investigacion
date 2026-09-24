@@ -5,7 +5,7 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 ## Estado
 
 - ✅ 06-spy-x-family: COMPLETA (21:57 UTC). 2420 líneas, 183 referencias, tabla ✅24 ⚠️13 ❌0. Equipo: 1 h de principio a fin.
-- En marcha: 07-pok-mon (redactor, Opus), 08-big-hero-6 (vídeo y voz; imagen y texto listos) y 09-mafalda (imagen y texto).
+- En marcha: 07-pok-mon (redactor, Opus), 08-big-hero-6 (voz; lo demás listo) y 09-mafalda (imagen, texto y vídeo).
 
 ## Avisos para el dueño
 
@@ -27,3 +27,4 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 | 07-pok-mon | voz | sonnet | 23 | 219511 |
 | 08-big-hero-6 | imagen | sonnet | 19 | 233104 |
 | 08-big-hero-6 | texto | sonnet | 21 | 201889 |
+| 08-big-hero-6 | video | sonnet | 18 | 188117 |
