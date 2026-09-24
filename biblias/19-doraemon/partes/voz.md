@@ -128,6 +128,22 @@ Doraemon dirige el doblaje) ✅.
 Mendel» como decía la biblia — está así en el wikitext, letra por letra
 (`|traductor = [[Jennifer Medel]]`) ✅.
 
+### 8.4b Hallazgo nuevo: un doblaje cubano de 1985, casi desconocido
+
+Buscando en Internet Archive (`archive.org/advancedsearch.php?q=doraemon+español+latino`)
+apareció **un doblaje que la biblia no tenía**: *Doraemon en la tierra
+secreta* (título en España: *Doraemon y el mundo perdido*), doblado por el
+**ICAIC** (Instituto Cubano del Arte e Industria Cinematográficos) en **1985**
+✅ ([Internet Archive](https://archive.org/details/doraemon-en-la-tierra-secreta-doblaje-cubano-icaic-1985)).
+Es anterior en 14 años al doblaje mexicano de Rose Entertainment que todo el
+mundo conoce, y **distinto también** del doblaje de EE. UU./México de
+1981-82 (§8.1). No encontré nombres de actores cubanos de esta versión
+(sólo el crédito del estudio ICAIC) ⚠️, pero el dato en sí — que hubo un
+**tercer** doblaje latino, cubano, antes que el famoso — es un hallazgo real
+para un servidor de doblaje que valora la historia del oficio. **Sólo una
+fuente** (el propio ítem de Internet Archive, sin más contexto alrededor);
+si alguien retoma esto, buscar en foros cubanos o en el propio ICAIC.
+
 ### 8.5 Otros nombres latinos: sigue sin verificar
 
 - «El gato cósmico» como apodo latino de Doraemon dentro del doblaje: **sigue
@@ -135,6 +151,49 @@ Mendel» como decía la biblia — está así en el wikitext, letra por letra
 - Nombres de los inventos en distintas épocas (bolsillo mágico → bolsillo
   tetradimensional, etc.): no repetí esa consulta porque ya estaba bien en
   la biblia con fuente directa del wikitext, según su propia nota.
+
+### 8.6 Frases del doblaje latino — RESUELTO: transcripción real con Whisper
+
+La biblia decía «no encontré ninguna recopilación fiable de frases del
+doblaje latino» ⚠️ (su punto 10.4). Encontré un episodio doblado completo en
+Internet Archive y le pasé `herramientas/voz.py` (Whisper en local) encima:
+ahora sí hay **frases textuales con minuto**, sacadas del audio de verdad.
+
+**Fuente**: colección *Doraemon Español (Episodios 01-300)*
+([ítem de Internet Archive](https://archive.org/details/episodio-737-chip-de-reservacion)),
+episodio **«El Pueblo de Nobita»** ✅. Por la numeración (parte de una tanda
+de 300 episodios, no de las 104 medias horas del doblaje 2014) es muy
+probablemente el **doblaje de Rose Entertainment (1999-2011)** ⚠️ — no pude
+confirmar qué actor dice cada línea (Whisper no distingue voces), así que
+esto es una pista de época, no un dato de reparto verificado.
+
+Frases limpias (revisadas a oído además de la transcripción; las confusas
+del primer medio minuto de audio las descarto en vez de adivinarlas):
+
+- **[1:19]** «¡Eso duele! ¿Acaso crees que tengo la cabeza de piedra?» —
+  queja infantil tras un golpe ⚠️ (contexto de escena, no confirmé el
+  nombre del personaje).
+- **[1:34-1:37]** «Quisiera estar en un pueblo libre donde nadie me
+  molestara y pudiera ser lo que se me antojara» — el deseo que arranca el
+  episodio; **encaja con «qué le importa» a Nobita** (que no lo molesten
+  Gigante y Suneo), buena frase de personalidad, transcripción limpia ✅.
+- **[0:54]** «¡Oigan! Si no tienen nada que hacer, ¿por qué no vienen a
+  jugar pelota conmigo?» — invitación en tono mandón; por el contexto
+  parece Gigante organizando el juego a su manera ⚠️ (no verificado el
+  nombre).
+
+**Ficha de voz de la escena** (con `voz.py`, agregada de varias voces
+infantiles, no de un personaje solo): tono medio **375 Hz** (muy agudo),
+rango de **22,9 semitonos** («muy expresiva»), **2,12 palabras/segundo**
+(velocidad normal) ✅. Sirve como referencia de **cómo suena el doblaje
+clásico latino**: agudo y muy expresivo, no plano.
+
+**Aviso de método**: Whisper se equivoca con nombres propios y frases
+rápidas — varias líneas de los primeros 50 segundos salieron ilegibles («y
+no quimo, ya partete», «asesu k») y las descarté en vez de adivinar. La
+transcripción completa (limpia y sucia) queda en
+`/tmp/claude-0/trabajo/19-doraemon-voz/doblaje_ep1/transcripcion.txt` por si
+un repaso futuro quiere revisarla entera o sacar más frases.
 
 ---
 
