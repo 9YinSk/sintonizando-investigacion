@@ -223,7 +223,11 @@ en la carpeta de trabajo) ✅ (vídeo oficial, mirado directamente):
   con la boca muy abierta en diagonal, cuerpo lanzado hacia delante · plano
   40, min. 0:55 · `?t=55` ✅. Ojos entrecerrados de determinación
   soplando un globo/instrumento con las mejillas infladas · plano 57,
-  min. 1:21 · `?t=81` ✅.
+  min. 1:21 · `?t=81` ✅. **Alegría/camaradería**: choque de puños en
+  primer plano con Leorio, mano de Gon (manga verde) contra la de Leorio
+  (manga roja) · plano 18, min. 0:21 · `?t=21` ✅ — la mejor referencia de
+  «alegría» que dio este material: no es una sonrisa de cara completa, pero
+  es el gesto de complicidad más repetido del grupo.
 - **Killua** — mueca de dolor/esfuerzo, un ojo cerrado, diente apretado,
   cabeza ladeada · plano 36, min. 0:49 · `?t=49` ✅. Miedo/preocupación
   en primer plano: ojos muy abiertos mirando hacia algo fuera de cuadro,
