@@ -278,6 +278,11 @@ la biblia sigue como estaba; no la repito):
 | Damian | 4 | «se enfada ⚠️» | Confirmado: dientes apretados, cara roja, puños a los costados | 00:18:30 (ep.6, IA) |
 | Becky | 2 | «el aplauso es de memoria ⚠️» | Corrección: no aplaude; junta las manos bajo la barbilla, sonrisa amplia, sonrojada | 00:18:40 (ep.6, IA) |
 | Bond (nueva) | — | — | Sentado junto a Anya, comiendo un helado de una bola con ella (cada uno con el suyo), mirándose de frente, orejas caídas y relajadas | 00:03-00:06 (teaser T3, Dailymotion) |
+| Loid | 5 | «llega tarde a la fiesta ⚠️» | Confirmado en parte: entra a una fiesta bajando una escalera **del brazo de Yor**, los dos vestidos de gala, postura formal y erguida | ~00:18:35 (ep.2, IA; el diálogo exacto «I'm Loid Forger, Yor's husband» no se alcanza a leer sin subtítulo encendido) |
+| Loid | 8 | «disfrazado de cuidador de pingüinos ⚠️» | Confirmado con fotograma y texto en pantalla: Loid, con mono azul y gorra blanca de cuidador (igual que el del zoo, al que dejó inconsciente en una taquilla, visible al fondo), agachado dando de comer a los pingüinos; rótulo japonés **«エージェント〈黄昏〉特技：変装»** (Agente Twilight, habilidad especial: disfraz) sobre su cara | **00:12:45** (ep.12, IA) |
+| Yor | 5 | «con sus compañeras ⚠️» | Confirmado: de pie en la cocina del ayuntamiento con uniforme verde, escucha en silencio mientras una compañera rubia cuchichea/chismea; cara neutra, algo retraída | 00:03:14 (ep.2, IA) |
+| Damian | 2 | ya tenía cita (KYM-style, sin fotograma) | Confirmado: primer plano de Damian con las mejillas **muy rojas**, ojos muy abiertos, junto a Anya que le habla de cerca | 00:06:53 (ep.7, IA) |
+| Damian | 5 | «jaleado por sus secuaces ⚠️» | Confirmado en parte: cartela de misión «MISSION:10 ドッジボール大作戦» con Damian y sus secuaces volando por los aires de forma cómica; luego los tres (Damian y dos secuaces) posan juntos con el balón, sonriendo, uno con el pulgar arriba | 00:10:56-00:11:27 (ep.10, IA) |
 
 ---
 
@@ -299,11 +304,41 @@ la biblia sigue como estaba; no la repito):
 ## No encontré
 
 - **Vídeos de análisis y el de «muebles del piso»** citados en la biblia
-  (§12): sólo existen en YouTube, bloqueado toda la tanda (busqué su
-  título en Dailymotion e Internet Archive, sin resultado). Quedan
-  pendientes de una sesión con YouTube disponible.
+  (§12): sólo existen en YouTube; en esta tanda YouTube dio 429 y «sign in»
+  otra vez a los pocos minutos (reintenté una vez, sin insistir en bucle,
+  ver bitácora). Busqué también su título en Dailymotion e Internet
+  Archive, sin resultado. Es un extra, no lo obligatorio del punto 10.
+- **Loid #3** (ep.5, explica el «juego» a los agentes, 00:12:33-00:12:53):
+  no llegué a bajar el episodio 5 en esta tanda (prioricé los otros cuatro
+  personajes); sigue con la postura de memoria ⚠️, **no la vi**.
+- **Loid #6** (ep.2, pide matrimonio a Yor, ~00:22:30): bajé dos tramos de
+  ep.2 (00:17:50-00:23:00 y 00:21:30-00:22:50) y en ninguno aparece la
+  boda; en su lugar hay una fiesta con una pelea (alguien sangra por la
+  nariz) y, ya con los créditos de cierre corriendo, un adelanto del
+  capítulo 3 (Yor en un callejón). El minuto de la biblia para esta
+  escena es dudoso; **no la vi**, sigue ⚠️.
+- **Damian #1 y #3** (ep.7 «se presenta por dentro, orgulloso» y ep.6
+  «cree que Anya se ha enamorado de él»): bajé ep.7 00:06:50-00:07:30 y
+  sólo até a ver el #2 (mejillas rojas) con claridad, no un momento
+  distinto de «presentarse por dentro»; y en ep.6 00:14:35-00:15:20 no
+  encontré la escena de «cree que se enamoró» — había una asamblea del
+  colegio con Damian enfadado y Anya sorprendida, que no coincide con la
+  descripción. **No los vi tal como los describe la biblia**; quedan ⚠️.
 - **AnimeThemes**: la API sigue devolviendo 522 (probado dos veces, con y
   sin cabecera de navegador); no hay `.webm` limpio de OP/ED por ahí.
+- **Bond #2 y #3** (ep.15 «Doggie protected me» y ep.27 T2 «Bond's
+  Strategy to Stay Alive»): los episodios 13-25 de la T1 y el 27 de la T2
+  no están en Internet Archive (sólo hay 01-12 de la T1 y el 26 de la T2,
+  comprobado con `advancedsearch.php?q=identifier:spy-family-*`); busqué
+  también en Dailymotion («Bond protects Anya episode 15», «Bond
+  precognition strategy stay alive») sin resultado real (sólo salieron
+  clips de James Bond, la franquicia de espías). **No los vi**, quedan ⚠️.
+- **Yor #4 y #6** (ep.16 «ayúdenme a cocinar» y ep.19 «corre», la escena
+  de acción de «la madre se vuelve viento»): ep.16 y ep.19 tampoco están
+  en Internet Archive; probé una compilación de Dailymotion («Yor Forger
+  Best Moments Compilation», 6:34, vista entera con `--cortes`, 185
+  planos) y es enteramente de la película CODE: White, no de estos dos
+  capítulos de la T1. **No las vi**, quedan ⚠️.
 - **Una onomatopeya visual (texto en pantalla) que el fandom cite como
   «la» seña de la serie**: busqué «Spy x Family onomatopoeia iconic sound
   effect» y «Anya telepathy sound design» (inglés); sólo salieron memes de
@@ -359,11 +394,24 @@ la biblia sigue como estaba; no la repito):
   trailer_codewhite, trailer_t3, trailer_netflix, hojas_ep1_a, hojas_ep1_b,
   hojas_ep3, hojas_ep4, hojas_ep6, hojas_ep1_ending.
 
----
-
-Sigue: quedan sin fotograma real (siguen con la postura «de memoria ⚠️» que
-ya tenía la biblia) el resto de la tabla del punto 14 — sobre todo Loid #2,3,5,6,8;
-Yor #4,5,6; Bond #2,3; Damian #1,2,3,5; y los vídeos de análisis/muebles del
-§12 de la biblia, que sólo existen en YouTube (reintentar cuando el server
-lo desbloquee, sin insistir en bucle). Lo obligatorio de los puntos 2, 4, 9
-y 10 ya quedó cubierto arriba.
+**Segunda tanda (mismo día), sólo el punto 14**: verificar con vídeo real
+las poses de Loid, Yor, Bond y Damian que seguían «de memoria».
+- `archive.org/advancedsearch.php?q=identifier:spy-family-*` para saber
+  qué episodios hay de verdad en Internet Archive: sólo 01-12 de la T1 y
+  el 26 de la T2 (más el 29 suelto). Los episodios 13-25 y el 27 no están.
+- Tramos nuevos de IA vistos con `fotogramas.py --cortes` (uno por plano,
+  como pidió el jefe): `ep2_fiesta_boda` (5:10), `ep2_coworkers` (0:50),
+  `ep2_boda2` (1:20, resultó ser el adelanto del ep.3 bajo los créditos),
+  `ep12_pinguino` + `ep12_pinguino2` (0:45 y 1:00), `ep6_damian_pensando`
+  (0:45), `ep7_damian_presenta` (0:40), `ep10_dodgeball` (0:40).
+- Dailymotion, API de búsqueda: «Spy x Family Yor cooking disaster kitchen
+  scene», «Spy x Family Yor runs mother becomes the wind», «Spy x Family
+  Bond protects Anya episode 15 scene», «Spy x Family Bond precognition
+  strategy stay alive», «SPY x FAMILY Season 1 Cour 2 Episode» — de ahí
+  salió la compilación «Yor Forger Best Moments» (vista entera, 6:34,
+  185 planos con `--cortes`, es de la película, no de los episodios 16/19
+  que buscaba) y ninguna fuente real para Bond ep.15 o T2 ep.27.
+- Confirmado ✅ con fotograma real: Loid #5 y #8, Yor #5, Damian #2 y #5
+  (parcial). Quedan ⚠️ «no la vi»: Loid #3 y #6, Yor #4 y #6, Damian #1 y
+  #3, Bond #2 y #3 — episodios no disponibles sin YouTube o escena no
+  encontrada en el tramo correcto (detalle en «No encontré»).
