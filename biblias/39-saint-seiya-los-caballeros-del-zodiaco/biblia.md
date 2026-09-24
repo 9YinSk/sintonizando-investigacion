@@ -690,3 +690,84 @@ No hay encuesta de Latinoamérica en las partes ⚠️.
 - Los **dorados** (Shaka, Saga, Mu, Camus) tienen tanto cariño como los
   de bronce: sirven para láminas 2.
 
+## 10 · Doblaje latino y frases textuales
+
+### 10.1 Hay tres doblajes latinos ✅
+
+| Versión | Estudio y dirección | Fuente |
+|---|---|---|
+| **Serie clásica** (1986), doblada en México 1992-95 | **Producciones Salgado**, dirigida por **Jesús Barrero** (que además es Seiya) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Los_Caballeros_del_Zodiaco) |
+| **Netflix *Knights of the Zodiac*** (2019, CG, 12 ep., del inglés) | **Labo**, dirección **Arturo Castañeda** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/SAINT_SEIYA%3A_Los_Caballeros_del_Zodiaco) + muestras de audio |
+| ***Battle for Sanctuary*** (2022-24, 24 ep., del japonés) | **Audiomaster Candiani**, dirección **Octavio Campos**, adaptación Jaime Chaparro, grabado desde julio de 2022 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Saint_Seiya%3A_Knights_of_the_Zodiac_-_Battle_for_Sanctuary_-) ⚠️ una fuente |
+
+Las películas clásicas también las dobló Audiomaster Candiani (Doblaje
+Wiki ⚠️). La serie clásica volvió a la TV abierta en **Azteca 7 en
+2022** (opening y ending subidos a [Dailymotion](https://www.dailymotion.com/video/x8s0lmu) ✅).
+
+### 10.2 Quién dobla a cada uno
+
+Segunda fuente: la columna «Spanish» de [AniList](https://anilist.co/anime/1254)
+para la clásica, y **las muestras de audio oídas** para Netflix 2019.
+
+| Personaje | Clásica (1992-95) | Netflix 2019 | Netflix 2022-24 ⚠️ |
+|---|---|---|---|
+| **Seiya** | **Jesús Barrero** ✅ | **Darío Yazbek Bernal** (actor de cine, *startalent*) ✅ | **Carlo Vázquez** (elegido en prueba con Fernando Moctezuma, Dave Ramos, José Gilberto Vilchis y Agustín Arana) |
+| **Shiryu** | **Ricardo Mendoza** ✅ (Roberto Mendiola en el ep. 2; Daniel Abundis en 7-8) | **Ricardo Mendoza** ✅ | **Óscar López** (Mendoza grabó el ep. 1 y no siguió «por diferencias económicas») |
+| **Hyoga** | **René García** ✅ | **Alfonso Herrera** (actor y cantante, ex-RBD) ✅ | **René García** vuelve |
+| **Shun** | **José Gilberto Vilchis** ✅ (Javier Rivero en 64-65) | **Isabel Martiñón** como «Shaun», **mujer** ✅ | actor nuevo: nombre no está en las partes ⚠️. Vilchis pasa a ser Milo |
+| **Ikki** | **Marcos Patiño** ✅ | **Marcos Patiño** ✅ | actor nuevo: nombre no está en las partes ⚠️ |
+| **Saori / Athena** | **Cristina Camargo** (ep. 1-26), luego **María Fernanda Morales**, y **Haydeé Unda** (3.ª temporada) ✅ | **María Fernanda Morales** ✅ | — |
+
+Otros de la clásica, sólo en AniList ⚠️ (AniList mezcla España y
+Latinoamérica): Saga y Mime, **Javier Rivero**; Aiolia, **Yamil Atala**;
+Kanon, **Mario Castañeda**; Afrodita y Aldebarán, **Alfonso Ramírez**;
+Hilda, **Sylvia Garcel**.
+
+Cambios en 2022-24 (Doblaje Wiki ⚠️): Camus, **Igor Cruz** (Benjamín
+Rivera no pudo); Máscara de Muerte y Kiki, **Diego Estrada** y **Casandra
+Acevedo** (a Daniel Abundis no lo llamaron); Marin y Shaina, **Dolores
+Mondragón** y **Mildred Barrera** (Maru Guerrero no volvió); Shaka,
+**Arturo Cataño**; el narrador, **Gabriel Pingarrón** (Pedro D'Aguillon
+Jr. murió en 2022); Aiolos, **Armando Larumbe**, que ya lo hizo 15 años
+antes en *Hades Infierno*.
+
+**El juego *Soldiers' Soul* («Alma de soldados») también está doblado
+al latino** ✅: lo dice la reseña de Código Espagueti (parte de texto) y
+Doblaje Wiki cita a Carlo Vázquez (Thanatos), Vilchis (Hades) e Igor Cruz
+(Radamanthys) en ese juego.
+
+### 10.3 Frases textuales, con su audio ✅
+
+Muestras oficiales `.ogg` de Doblaje Wiki (Netflix 2019), oídas enteras
+con `voz.py` (Whisper; nombres propios revisados a oído).
+
+| Quién | Frase | Cómo suena | Audio |
+|---|---|---|---|
+| **Seiya** (Yazbek) | «Hagan lo que quieran. Yo me quedaré. Voy a luchar.» «Cuando era niño, Grada atacó a mi hermana y trató de matarme. No pude detenerlo entonces, pero ahora sí puedo.» «¡Meteoro!» | grave 137 Hz, **23,7 semitonos**, 2,65 pal/s | [DarioYazbekSeiya01.ogg](https://static.wikia.nocookie.net/doblaje/images/7/7b/DarioYazbekSeiya01.ogg) |
+| **Shiryu** (Mendoza) | «Mi maestro Dohko sugirió que participara en el torneo… lo respeto mucho y algún día quiero ser un gran hombre como él.» «¡Ya vieron el escudo indestructible! ¡Ahora contemplen! ¡La furia del dragón!» | 106 Hz, 20,9 semitonos, **3,39 pal/s (el más rápido)** | [ShiryuSaintSeiya2019.ogg](https://static.wikia.nocookie.net/doblaje/images/2/2f/ShiryuSaintSeiya2019.ogg) |
+| **Hyoga** (Herrera) | «Seiya tuvo el valor de arriesgar su vida para salvarla… Yo creí conocer el resultado, pero aún hay mucho que no entiendo.» | **93 Hz, 7,0 semitonos (la más plana)**, 2,79 pal/s | [HyogaAlfonsoHerrera01.ogg](https://static.wikia.nocookie.net/doblaje/images/d/de/HyogaAlfonsoHerrera01.ogg) |
+| **Ikki** (Patiño) | «Vienen por mí o vienen por la armadura dorada, no importa, no debieron venir. Patéticos… hoy es el peor día de tu vida: estás a punto de revivir tu peor recuerdo una y otra vez, hasta que quedes hecho pedazos.» | 116 Hz, 19,2 semitonos, amenazante | [IkkifenixSaintSeiya2019.ogg](https://static.wikia.nocookie.net/doblaje/images/5/56/IkkifenixSaintSeiya2019.ogg) |
+| **Saori** (Morales) | «Cuando reencarné como Atena, nací con una profecía… Ellos no decidirán quién soy y lo que hago. Nunca he querido destruir a la humanidad y nunca lo querré.» | 200 Hz, 19,6 semitonos | [AthenaSaintSeiya2019.ogg](https://static.wikia.nocookie.net/doblaje/images/b/b5/AthenaSaintSeiya2019.ogg) |
+| **«Shaun»** (Martiñón) | «No estoy segura. Podría decirse que siempre he sido reacia a la pelea. Solía ser muy inmadura para mi edad… mi hermano mayor, Iggy, me enseñó a pelear, pero en vez de enseñarme a atacar, me enseñó a protegerme sin lastimar a otros.» | 153 Hz, 18,3 semitonos | [ShunIsabelMArtiñon01.ogg](https://static.wikia.nocookie.net/doblaje/images/7/79/ShunIsabelMArti%C3%B1on01.ogg) |
+
+**Del doblaje clásico**, leídas en pantalla en el clip de las Doce
+Casas ([x3iigt0](https://www.dailymotion.com/video/x3iigt0), §2.1):
+«¡Me las vas a pagar!» (0:18), «¿Dónde está Athena?» (1:30), «¡El Sol!
+¡Se está ocultando!» (1:36), «¡Ya es demasiado tarde!» (3:24). Ojo: es
+un clip de fan con subtítulos que copian el guion; el audio, muy malo,
+dejó oír «¡Egasos! ¡Atena!» (0:07) ⚠️.
+
+**Ojo con el nombre**: en el doblaje de Netflix 2019 se dice
+**«Atena»** (sin h), igual que en el grito del clásico. En la pantalla
+del clip clásico se lee «Athena».
+
+### 10.4 Lo que falta ⚠️
+
+- «**¡Arde, mi Cosmos!**» y los nombres latinos de las técnicas («Meteoro
+  de Pegaso», «Polvo de Diamante», «Cadena Nebular») salen de la wiki y
+  de foros (§26), **no de un clip clásico con minuto**.
+- La frase larga de Seiya «Aunque haya perdido mis cinco sentidos…» es
+  **de una sola fuente de fans**, sin minuto.
+- No hay clips oficiales del doblaje clásico en Dailymotion o Archive:
+  sólo subidas de fans. YouTube estaba bloqueado.
+
