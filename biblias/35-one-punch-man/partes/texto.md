@@ -519,8 +519,8 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
   primaria de 2016), `itechpost.com` (cargó pero sólo JS, sin texto),
   `tcrf.net` (búsqueda directa del sitio, 0 resultados para «One Punch Man»).
 - **Steam** (`store.steampowered.com`, capturas ya traídas por
-  `recolectar.py`): 3 capturas de *A Hero Nobody Knows* descargadas, miradas
-  con Read y medidas con `herramientas/estilo.py`.
+  `recolectar.py`): 5 capturas de *A Hero Nobody Knows* descargadas y miradas
+  con Read (3 medidas también con `herramientas/estilo.py`).
 - **Google Play** (`play.google.com/store/apps/details?id=com.onepunchman.ggplay.sea`):
   HTML leído para sacar URLs de capturas reales (`=w1052-h592`), 2 miradas
   con Read.
