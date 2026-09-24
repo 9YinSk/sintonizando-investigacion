@@ -39,28 +39,25 @@ bajar desde el servidor). Siempre quedarán algunos.
 
 ## Cómo seguir en un contenedor nuevo
 
+Desde ahora cada serie la hace **un equipo** (ver `EQUIPO.md`): 4
+investigadores en paralelo (imagen, vídeo, voz y personajes, texto y juegos),
+cada uno en su archivo de `partes/`, y **un redactor** que es el único que
+escribe la biblia. La sesión principal revisa con `revisar.py` y sube. Los
+pasos exactos están en la skill `.claude/skills/serie-en-equipo/SKILL.md`.
+
 Pega esto en una sesión nueva en la nube, con este repositorio:
 
-> Trae la rama `claude/optimistic-keller-but3rn` (`git fetch origin claude/optimistic-keller-but3rn && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue: relanza un ayudante por cada trabajo a medias, diciéndole que siga desde lo guardado, sin empezar de cero.
+> Trae la rama `claude/optimistic-keller-but3rn` (`git fetch origin claude/optimistic-keller-but3rn && git checkout -B <tu rama> FETCH_HEAD`), lee `ESTADO.md` y sigue con la skill serie-en-equipo: primero los trabajos a medias, luego el orden de ESTADO.md.
 
-Lo que tiene que hacer esa sesión:
+Trabajos a medias de la tabla de arriba:
+- **Casi hechos** (repaso 01, repaso 06): un solo ayudante que siga la biblia
+  que ya hay (método viejo, `AYUDANTE.md` + `COMPLEMENTO.md`), revisar y subir.
+- **Recién empezados** (35, 36): con el equipo. El redactor aprovecha lo que
+  ya haya en `biblia.md`.
 
-1. Traer la rama (arriba) y trabajar en la suya propia a partir de ella.
-2. Instalar las herramientas:
-   `pip install -U "yt-dlp[default]" Pillow fontTools requests` y
-   `apt-get install -y ffmpeg`.
-3. Cambiar el enlace `Claude-Session:` de `herramientas/subir.sh` y
-   `herramientas/guardar.sh` por el de la sesión nueva.
-4. Dejar corriendo en segundo plano `herramientas/guardar.sh --cada 300`.
-5. Relanzar los trabajos de la tabla de arriba (4 ayudantes a la vez como
-   mucho: con 7 el límite de uso se acaba enseguida). Cada ayudante lee
-   `AYUDANTE.md`, `ENCARGO.md` (y `COMPLEMENTO.md` si es repaso) y **sigue la
-   biblia que ya hay**.
-6. Al terminar cada uno: `python3 herramientas/revisar.py <id>` y, si dice
-   COMPLETA, `herramientas/subir.sh <id>` (o `<id> repaso`). Si le falta algo,
-   se lo devuelve al **mismo** ayudante (SendMessage), no lanza otro.
-   Copia la línea de aviso de su informe a `DECISIONES.md`.
-7. Orden después: repaso 31 (el ❌), repasos 06-30, y tandas S10 en adelante.
+Orden después: repaso 31 (el ❌), repasos 07-30 y tandas S10 en adelante,
+como mucho 2 series a la vez. `subir.sh` ya no sube una biblia que
+`revisar.py` no dé por COMPLETA (salvo `FORZAR=1`).
 
 ## Avisos
 

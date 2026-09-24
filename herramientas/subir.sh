@@ -38,8 +38,15 @@ if [[ -d "$dir/hojas" ]]; then
   nhojas=$(find "$dir/hojas" -type f | wc -l)
   (( nhojas <= 3 )) || { echo "ERROR: $nhojas archivos en hojas/ (máximo 3)"; exit 1; }
 fi
-otros=$(find "$dir" -type f ! -path "$dir/hojas/*" ! -name "$(basename "$doc")" ! -name "$(basename "$datos")" | wc -l)
-(( otros == 0 )) || { echo "AVISO: archivos de más en $dir:"; find "$dir" -type f ! -path "$dir/hojas/*" ! -name "$(basename "$doc")" ! -name "$(basename "$datos")"; }
+otros=$(find "$dir" -type f ! -path "$dir/hojas/*" ! -path "$dir/partes/*" ! -name "$(basename "$doc")" ! -name "$(basename "$datos")" | wc -l)
+(( otros == 0 )) || { echo "AVISO: archivos de más en $dir:"; find "$dir" -type f ! -path "$dir/hojas/*" ! -path "$dir/partes/*" ! -name "$(basename "$doc")" ! -name "$(basename "$datos")"; }
+
+if [[ "$dir" == biblias/* ]]; then
+  rev=$(python3 herramientas/revisar.py "$id")
+  if [[ "$rev" != *COMPLETA* && "${FORZAR:-}" != 1 ]]; then
+    echo "ERROR: revisar.py dice que no está completa (FORZAR=1 para subir igual):"; echo "$rev"; exit 1
+  fi
+fi
 
 # ── casilla en TANDAS.md y mensaje del commit ──
 if [[ "$modo" == "repaso" ]]; then
