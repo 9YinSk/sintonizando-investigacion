@@ -108,7 +108,7 @@ lo marca `ENCARGO.md`, punto por punto.
 ## Cierra con la tabla de cumplimiento (obligatoria)
 
 Antes de la bitácora, añade **«Cumplimiento del encargo»**: una tabla con los
-17 puntos de «Qué investigar», los 3 conceptos, las 40 fuentes, los tipos de
+25 puntos de «Qué investigar», los 3 conceptos, las 40 fuentes, los tipos de
 fuente de «Profundidad exigida», las hojas y `referencias.json`. Para cada uno:
 ✅ hecho, ⚠️ a medias o ❌ no hecho, y **por qué**. Nada se omite en silencio:
 si no lo hiciste, se ve en la tabla.

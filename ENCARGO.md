@@ -78,7 +78,44 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
     poses, fondos o escenas coherentes con la serie. Rasgos que nunca cambian,
     paleta, tipo de línea y sombreado, luz, encuadre, palabras que ayudan y
     palabras que lo estropean, y qué imágenes de las encontradas usar como
-    referencia de estilo o de pose.
+    referencia de estilo o de pose. **Y para una IA de texto**: cómo escribir sus
+    diálogos en su voz (muletillas, puntuación, gritos, onomatopeyas, cómo
+    exagera las emociones), con frases **reales** de ejemplo ordenadas por
+    emoción (alegre, enfadado, explicando, animando, triste), y el vocabulario de
+    expresiones de la serie (ojos, gotas de sudor, fondos de emoción, *chibi*)
+    para que la IA de imagen entienda cada gesto.
+18. **Estilo de dibujo y técnica, y cómo replicarlo**: tipo de línea (grosor y
+    color), sombreado (plano, degradado, tramas), filtros de la animación
+    (grano, brillo, aberración). Qué programas y técnicas usó el estudio o el
+    autor, según entrevistas y *making of* (Clip Studio, Toon Boom, 3D con
+    *toon shader*, pintura a mano…), y **cómo reproducirlo** con Photoshop y
+    Blender: pinceles, capas, ajustes del *shader*, texturas encima.
+19. **Texturas 2D**: tramas del manga, grano de papel, pinceladas, patrones de
+    ropa, emblemas y logos; con enlaces a pinceles o texturas libres
+    equivalentes (licencia incluida). Junto con el punto 3 (3D) y el 4
+    (texturas reales), que no falte ninguna capa.
+20. **Gustos y detalles de cada personaje**: comida, aficiones, lo que ama y lo
+    que odia, cumpleaños, altura, el objeto que siempre lleva, cómo se ve a sí
+    mismo. De fichas oficiales, *databooks* y la wiki, con fuente.
+21. **Por qué la gente la ama**: razones concretas (reseñas, Reddit, encuestas,
+    ventas, premios), las escenas que hacen llorar o reír, con qué personaje se
+    identifica el público y por qué.
+22. **Fan dubs y comunidad hispana**: doblajes de fans en español en YouTube y
+    TikTok (canal, enlace, escena, vistas), covers de los openings en español,
+    parodias y memes hispanos. Interesa mucho: el servidor es de doblaje.
+23. **Colaboraciones y cruces**: colaboraciones con marcas, otros juegos
+    (Fortnite, gachas…), eventos, cafés temáticos, *crossovers*. Su arte suele
+    traer poses y ropa nuevas: enlázalo.
+24. **Obras parecidas y temas relacionados**: series de tono o estilo parecido,
+    influencias que reconoce el autor, y qué otras láminas del servidor se le
+    parecen (para no repetir ideas).
+25. **El mundo y sus símbolos**: las reglas del mundo en cinco líneas, emblemas,
+    logos de grupos, objetos icónicos y el vocabulario propio que un fan
+    reconoce al instante.
+
+**Todo dato sirve.** Lo que no quepa en la lámina se usa después (láminas 2,
+eventos, textos del bot, doblajes). Si un punto no aplica a la obra, dilo en
+una línea y por qué.
 
 ## Lo que la lámina tiene que decir
 
