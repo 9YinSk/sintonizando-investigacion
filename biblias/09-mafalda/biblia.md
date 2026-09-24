@@ -938,10 +938,13 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
 > [GVSU (PDF)](https://www.gvsu.edu/cms4/asset/1B720723-B3DE-4861-0CF794BF85CC2A06/recordando_a_mafalda-los_personajes_de_mafalda.pdf),
 > [Speaking Latino](https://www.speakinglatino.com/personajes-de-mafalda/),
 > [El Espectador](https://www.elespectador.com/entretenimiento/gente/mafalda-los-personajes-mas-iconicos-de-quino/).
-> Lo marcado «de memoria» no se pudo cruzar hoy.
+> Lo marcado «de memoria» no se pudo cruzar. Segunda pasada: wikitext de
+> los seis personajes por la API de la wiki, fotogramas de 1972 y frases
+> sacadas del audio de la película de 1981 con `voz.py`.
 
 ### Mafalda — la protagonista (la más querida)
-- **Quién es**: niña de **seis años** de Buenos Aires, de clase media ✅
+- **Quién es**: niña de **seis años** de Buenos Aires, de clase media;
+  su apellido **nunca se revela** (sólo una «M» en una tira) ✅
   ([Wikipedia coreana](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%8C%94%EB%8B%A4_%28%EB%A7%8C%ED%99%94%29),
   [Weblio](https://www.weblio.jp/content/%E3%83%9E%E3%83%95%E3%82%A1%E3%83%AB%E3%83%80+%28%E6%BC%AB%E7%94%BB%29)).
 - **Carácter**: curiosa, lista, **irónica**, **inconformista**, preocupada
@@ -960,12 +963,32 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
   es»** ✅ ([Domani](https://www.editorialedomani.it/idee/cultura/il-contestatario-quino-padre-delleroina-che-rifiuta-il-mondo-cos-com-xn5ilrj3),
   [70-80.it](https://www.70-80.it/1968-arriva-in-italia-mafalda-la-bambina-contestatrice-di-quino-che-odia-la-minestra-e-mette-in-imbarazzo-i-grandi-con-le-sue-domande/)).
 - **Cómo habla**: pregunta directa, frase corta, **ironía seca**. Explica
-  con ejemplos cotidianos. Se enfada **gritando en negrita** ⚠️ (de
-  memoria). Remata con una frase que deja callado al adulto.
+  con ejemplos cotidianos. Se enfada **gritando en negrita** ✅ (Quino
+  tenía una versión negrita de su letra, según Wynne; y en 1972, ep. 2,
+  30:00 grita con los puños sobre un libro). Remata con una frase que deja
+  callado al adulto: *«Decime, ¿qué es eso de la Guerra Fría?»* (película
+  1981, 10:12).
+- **Cómo suena** (`voz.py` sobre la película y los cortos): registro
+  **agudo a muy agudo** (270-400 Hz) y **muy expresivo** (15 a 31
+  semitonos). Son actrices adultas haciendo de niños ✅ (medido).
+- **Su cara en cada emoción** (fotogramas de 1972, sección 4):
+  | Emoción | Fotograma | Qué hace |
+  |---|---|---|
+  | Alegría, cariño | ep. 1, 10:00 | abraza el globo, ojos cerrados, sonrisa |
+  | Rabia | ep. 1, 30:00 | de reojo, ceño fruncido, boca recta hacia abajo |
+  | Rabia fuerte, protesta | ep. 2, 30:00 | puños cerrados, ojos apretados, boca muy abierta |
+  | Fastidio, tristeza | ep. 1, 25:00 | de pie junto a la cama, mangas recogidas |
+  | Duda | ep. 4, 40:00 | mano en el mentón, ceja arqueada |
+  | Regañar | ep. 5, 33:20 | brazo extendido, boca apretada |
+  | Miedo, vergüenza | — | **no encontrados** en el muestreo ⚠️ |
 - **Cuerpo**: **pelo negro esponjado con moño** ✅ ([Infobae](https://www.infobae.com/cultura/2026/06/06/la-fabulosa-historia-de-mafalda-la-nina-que-odiaba-la-sopa-y-le-preguntaba-a-los-adultos-por-que-mentian/),
   estatuas). Se sienta en el suelo o en el borde del banco; se encorva
   para pensar o para contar un secreto ✅ (Netflix, estatua).
 - **Lo que Quino dijo de ella**: quiere **que el mundo mejore** ✅ (punto 1).
+  Sueña con ser **intérprete de la ONU** ✅ ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Mafalda),
+  [Noticias ONU](https://news.un.org/es/story/2024/11/1534621)).
+- **Voz**: Rina Morán (cortos de 1972), Susana Klein (película 1981),
+  Gloria González (redoblaje mexicano). Sección 10.
 
 ### Felipe — el mejor amigo, soñador
 - Físico de **Jorge Timossi**, amigo de Quino: **dos dientes de conejo**
@@ -978,7 +1001,15 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
   superhéroe o Colón; es **miedoso, tímido, inseguro** ✅
   ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Felipe),
   [Todohistorietas](https://www.todohistorietas.com.ar/felipe.htm)).
-- Deja los deberes para después ⚠️ (de memoria).
+- Deja los deberes para el último momento ✅ ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Felipe);
+  un fan en Reddit: *«me identifico con Felipe y su angustia por hacer la
+  tarea»*). Está **enamorado en secreto de Muriel** y juega **al ajedrez**
+  con Mafalda ✅ (wiki; y el corto de Dailymotion, 2:30).
+- **Visto en animación** (Dailymotion, 3:30): pelo castaño despeinado,
+  nariz puntiaguda, **suéter azul**; de perfil, ceño fruncido, soñando
+  con un barco. Frase de la película (20:19): *«Lo siento, mamá, no tengo
+  tiempo.»*
+- Llega a la tira en **enero de 1965** ✅ (Wikipedia en español e inglés).
 - En chino lo presentan como **«fan de las artes marciales, con sentido
   de la justicia»** ⚠️ ([Spanishknow](https://www.spanishknow.com/xytt/7677.html)).
 
@@ -994,11 +1025,19 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
   [Historietamanía](https://www.historietamania.com/manolito-mafalda/)).
 - Pinta **carteles de propaganda** del almacén por el barrio ⚠️
   ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Manolito)).
-- Malo en la escuela, genio con las cuentas ⚠️ (resumen de la wiki).
+- Malo en la escuela, genio con las cuentas ✅. Wiki y película (45:07):
+  *«Bueno, este, a decir verdad, desde el primer día hasta ahora no
+  entendí nada.»*
+- **Odia a los Beatles** (y a Mafalda le encantan): un hilo de r/Mafalda
+  con 37 votos lo llama «todo el lore de Manolito anti-Beatles» ✅.
+- Llega a la tira el **29 de marzo de 1965** ✅ (wiki). Casi nunca cambia
+  de ropa, al revés que Susanita ⚠️ (wiki).
 - Basado en **Anastasio Delgado**, panadero español del barrio de Quino ⚠️
   ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Manolito)).
-- **Cómo habla**: todo lo pasa a precio y ganancia; hace publicidad
-  hasta hablando ⚠️ (de memoria).
+- **Cómo habla**: todo lo pasa a precio y ganancia ✅. Película (60:02):
+  *«los costos suben y a nosotros también nos aumentan, tanta inflación,
+  tanta inflación…»*. Hace publicidad hasta hablando ⚠️ (de memoria).
+- **Voz**: Cecilia Gispert (cortos de 1972) y Paqui Balaguer (película).
 
 ### Susanita — la que quiere casarse
 - **Susana Clotilde Chirusi** ✅ ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Susanita),
@@ -1010,22 +1049,33 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
 - Con Felipe hace de **«tsundere»**: se burla, dice que lo odia, lo besa y
   sale corriendo ⚠️ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Mafalda)).
 - Tiene estatua junto a Mafalda en San Telmo ✅.
+- **Cómo habla** (película, 3:00): *«Me parte el alma ver gente pobre.
+  ¿A vos no? Yo no tengo nada contra los pobres, ¿viste?»*. Mafalda:
+  *«¿Pero qué maldad, Susanita?»* Caridad con clasismo: es su chiste.
+- **Vista en 1972**: rubia de bucles esponjados; llora tumbada boca abajo
+  entre monedas (ep. 5, 40:00) y de perfil con diadema (ep. 4, 46:40).
 
 ### Libertad — la más chiquita (la preferida de Quino)
 - Aparece en **febrero de 1970**, la última del grupo ✅
   ([El Espectador](https://www.elespectador.com/actualidad/quino-confiesa-que-su-personaje-favorito-es-libertad-article-360596/),
   [Ojalá](https://ojala.do/cultura/libertad-mafalda-el-ultimo-personaje-de-quino)).
-- **Diminuta**; le molesta la gente alta ⚠️. Versión **más radical** de
+- **Muy bajita**; le molesta que se lo señalen ✅ ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Libertad)
+  y su retrato, el más bajo de la hoja `personajes_01.jpg` n.º 5). Su
+  padre es un «ferviente opositor del sistema». Versión **más radical** de
   Mafalda, de izquierdas ✅ ([Speaking Latino](https://www.speakinglatino.com/personajes-de-mafalda/),
   [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Mafalda)).
 - **Cómo habla**: seca, literal, filosófica ✅ («filosófica amiga de
   Mafalda», [La Jornada](https://www.jornada.com.mx/2012/07/18/cultura/a05n1cul)).
 
 ### Miguelito — el ingenuo
-- **Miguel Pitti** ⚠️ (el apellido, una fuente). Ingenuo, con ganas de
+- **Miguel Pitti** ✅ ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Miguelito)).
+  Llega en **febrero de 1966**. Su abuelo es **fanático de Mussolini** y
+  se lo cuenta con orgullo ✅ (wiki). Ingenuo, con ganas de
   descubrir el mundo; de los más simpáticos ✅ ([Billiken](https://billiken.lat/interesante/los-personajes-de-mafalda-la-genial-historieta-de-quino-uno-por-uno/),
   [Speaking Latino](https://www.speakinglatino.com/personajes-de-mafalda/)).
 - Egocéntrico, se cree el centro del mundo ⚠️ (de memoria).
+- **Su frase** (película, 3:34): *«¿Cómo hará el tiempo para doblar las
+  esquinas en los relojes cuadrados?»* ✅ (y casi igual en la wiki).
 
 ### Los secundarios de la casa
 - **Guille**: hermano menor, nace a mitad de la tira; rebelde e ingenuo ✅
@@ -1035,13 +1085,34 @@ No hay un videojuego grande con cajas de diálogo (punto 13).
   ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Raquel)).
 - **El papá**: plantas y **Citroën 2CV** ✅
   ([Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Pap%C3%A1)).
+  Toma **Nervocalm** para los nervios que le da Mafalda ✅ (wiki y
+  película, 10:33). Visto en 1972 (ep. 1, 48:20): grita con las dos manos
+  en las mejillas; camisa verde azulado `#38B08A`. Película (10:12):
+  *«Mirá, Mafalda, si te lo explicara no lo entenderías.»*
   Los adultos de la tira **quieren bien pero no entienden** ✅
   ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Mafalda)).
-- **Burocracia**: la tortuga de Mafalda, lenta ⚠️
-  ([Speaking Latino](https://www.speakinglatino.com/personajes-de-mafalda/)).
+- **Burocracia**: la tortuga de Mafalda, lenta a propósito ✅
+  ([Speaking Latino](https://www.speakinglatino.com/personajes-de-mafalda/),
+  [Mafalda Wiki: Burocracia](https://mafalda.fandom.com/es/wiki/Burocracia)).
+  Odia la sopa como ella: con sopa delante, corre.
   > Guiño posible para el estado **«En estudio»**: la tortuga
   > Burocracia llevando el sobre. Es un chiste de fans. Usarlo sólo si el
   > staff no se lo toma a mal.
+
+### Dinámicas (para láminas en grupo)
+| Pareja | Cómo es | De dónde |
+|---|---|---|
+| Mafalda y Papá | ella pregunta, él no sabe qué decir y toma Nervocalm | película 10:12-10:33; wiki |
+| Mafalda y Susanita | Susanita dice algo clasista, Mafalda la deja en evidencia | película 3:00 |
+| Mafalda y Manolito | los Beatles (ella los ama, él los odia); él todo lo cobra | r/Mafalda; wiki |
+| Mafalda y Felipe | amigos; juegan al ajedrez; él se distrae soñando | Dailymotion 2:30-3:30 |
+| Felipe y Susanita | ella se burla de él ⚠️ | TV Tropes |
+| Felipe y Muriel | amor secreto, mudo | wiki; `Felipemuriel.jpg` |
+| Mafalda y Libertad | Libertad va más lejos que Mafalda | wiki |
+| Mafalda y el globo | lo cuida como a un enfermo | sección 26 |
+
+Quién hace reír a quién: **Manolito** es el que más ríe el público de
+chico (Reddit); **Papá** es el que más sufre las preguntas.
 
 ---
 
