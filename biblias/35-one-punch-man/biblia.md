@@ -52,7 +52,152 @@ fecha: 2026-09-24
 
 ## 3 · Arte oficial y hojas de contacto
 
-(pendiente)
+### 3.0 Lo que bajé y miré ✅
+
+- `herramientas/investigar_serie.py` sobre la **One-Punch Man Wiki**
+  (`onepunchman.fandom.com`, 26 páginas: Saitama, Genos, Tatsumaki, Mumen
+  Rider, King y sus galerías de anime y manga, Fubuki, Garou, Sonic, Boros,
+  Bang, el apartamento, el traje, la Asociación, Ciudad Z, el anime y el
+  manga): **2.002 imágenes enlazadas, 1.658 grandes**, en **35 hojas**
+  (`herramientas/referencias/one-punch-man/`, no se sube). Miré enteras las
+  hojas 1, 2 y 5 y busqué el resto por título.
+- Bajé **112 originales** de la wiki para medir y hacer mis hojas
+  (carpeta de trabajo, fuera del repositorio).
+- **Web oficial japonesa** ([onepunchman-anime.net](https://onepunchman-anime.net/)):
+  su ficha de personajes sale de `character/inc_data.php` (JSON con 100+
+  personajes, rango, seiyū y texto). Bajé el dibujo oficial T3 de Saitama,
+  Genos, Mumen, King, Tatsumaki, Fubuki, Garou, Sonic y Boros (770×700), el
+  **visual del 10.º aniversario** (1400×1983) y los logos.
+- **V-STORAGE** (web de Bandai Namco Filmworks): la exposición del 10.º
+  aniversario (Sunshine 60, 26-jun a 20-jul-2026) con **un plató del
+  apartamento de Saitama** y otro del **hot pot en la mesa baja**, y el
+  logo PNG.
+- **Tres tesoros** en la wiki:
+  1. **Hojas de modelo del anime T1** (Madhouse, 2015; 2894×1984 y
+     3488×2480): Saitama de frente, perfil y espalda, **sus caras simple y
+     seria**, pijama, ropa de casa; Genos; Tatsumaki; Sonic; **la llave del
+     apartamento con llavero de jirafa**; y **notas de dibujo en rojo** para
+     los animadores («no transparentar el pelo», «las gafas no se
+     transparentan»…).
+  2. **Visuales de personaje de la T3** (1810×2560 y 1240×1754): uno por
+     héroe y monstruo, con **fondo de un color** y el nombre enorme.
+  3. **Páginas del *databook* oficial** (VIZ, 1920×1500): fichas de
+     Saitama, Genos, King, Tatsumaki y Mumen Rider como una revista.
+
+### 3.1 Las tres hojas de esta carpeta (`hojas/`) — míralas con el número
+
+**`hojas/personajes_01.jpg`** (2100×1720, 836 KB): arte oficial, 28 piezas.
+
+| N.º | Qué es | Para qué sirve |
+|---|---|---|
+| 1 | **Saitama, visual T3** (2481×3508): puño enguantado al pecho, cara simple, fondo rojo `#E40012` | pose de **presentar** tranquilo; el rojo de la serie |
+| 2 | Saitama, web oficial T3: cuerpo entero + cara simple + cara seria | **ropa exacta** y los **dos registros** de su cara |
+| 3 | Hoja de modelo T1: traje de frente, perfil, espalda y capa | vestuario, botones de la capa, cinturón |
+| 4 | Hoja de modelo T1: 11 caras de Saitama | **qué cara para qué** (aburrido, serio, gritando) |
+| 5 | Hoja de modelo: ropa de casa (camiseta amarilla, bermudas, chanclas) | Saitama **en casa** |
+| 6 | Saitama a color de Murata: puñetazo con la capa al viento | acción |
+| 7 | **Genos, visual T3**: brazos mecánicos cruzados | pose seria, «el discípulo» |
+| 8 | Genos, hoja de modelo T1 (frente, espalda, brazos) | ropa sin mangas, piezas de metal |
+| 9 | Genos, web oficial T3 (chaleco vaquero) | ropa de calle |
+| 10 | **Tatsumaki, visual T3** «TERRIBLE TORNADO» (fondo verde) | pose de **mandar** con la mano abierta |
+| 11-12 | Tatsumaki, hoja de modelo y **expresiones** T1 | vestido, pelo rizado, enfado |
+| 13 | Tatsumaki, web oficial T3 | cuerpo entero con el vestido de cuatro aberturas |
+| 14 | Tatsumaki a color (tomo 10), flotando entre escombros | **poder psíquico** con aura verde |
+| 15 | **Mumen Rider, web oficial**: cuerpo + casco con y sin gafas | **vestuario exacto** |
+| 16 | **Mumen Rider, visual del anime**: puños cerrados, fondo verde | pose de **animar** («¡aquí estoy!») |
+| 17-18 | Mumen Rider bajo la lluvia, gritando (portada del tomo 5) | la escena del **Rey del Mar** |
+| 19 | Fubuki, visual T3 «HELLISH BLIZZARD» | secundaria querida |
+| 20 | King, visual T3 (fondo amarillo) | la cara que asusta… y no pelea |
+| 21 | Garou, visual T3 (monstruo) | antagonista querido (3.º, §9) |
+| 22 | Sonic, web oficial | ninja rival |
+| 23 | **Key visual T1** (2015): Saitama con el puño en primer plano, Genos detrás, logo arriba | la portada clásica |
+| 24 | Key visual T2 (2019): Saitama mira de lado, Garou arriba | |
+| 25 | Key visual T3 n.º 2 (2025): todos los héroes en diagonal | grupo |
+| 26 | **Visual del 10.º aniversario** (web oficial): Saitama en el centro, monstruos arriba, logo «10» | fiesta, grupo |
+| 27 | Póster con las portadas de los tomos | collage de Murata |
+| 28 | Suiryu, Saitama (cara simple) y Garou a color | el contraste de estilos |
+
+**`hojas/escenas_01.jpg`** (2100×1240, 649 KB): 30 fotogramas.
+
+| N.º | Qué es | Para qué sirve |
+|---|---|---|
+| 1 | **PV2 (2015), 0:15**: Saitama baja con la capa al viento y **正義** en pincel | pose de **llegar** |
+| 2 | PV2, 0:37: **el súper**, carteles amarillos de precios, rótulo «趣味でヒーローを始めた男 / サイタマ» | el **súper** y el **rótulo de nombre** |
+| 3 | PV2, 1:07: **Mumen Rider** con el puño al pecho, fondo verde, «真の正義の心を持つヒーロー» | presentar a Mumen |
+| 4 | PV2, 1:04: Tatsumaki en primerísimo plano, «You creep. Get out of here.» | regañar |
+| 5 | PV2, 1:30: Saitama de espaldas y Genos, en el apartamento | la vida en casa |
+| 6-7 | El **edificio del apartamento** de día y de noche (T1-04) | **fondo** |
+| 8 | Saitama **tumbado en pijama** viendo la tele entre bolsas y tazas | Saitama aburrido |
+| 9 | Genos **con delantal** cocinando; Saitama en la mesa con la sudadera «OPPAI» | la pareja en casa |
+| 10 | Saitama grita: **se pierde la oferta** (T1-03) | **gag del súper** |
+| 11 | La carne del súper con la **etiqueta de descuento** (T1-01) | objeto |
+| 12 | Saitama con el **aviso de resultados «C»** (T1-05) | objeto de papel |
+| 13 | Saitama señala a Tatsumaki: «¿y esta niña perdida?» (T1-10) | el meme |
+| 14-15 | Tatsumaki echa a Saitama; lanza escombros a la nave de Boros | poder |
+| 16 | T1-09: **Mumen Rider lanza su bicicleta** al Rey del Mar | acción de Mumen |
+| 17 | T1-09: «The righteous cyclist, Mumen Rider, is here!»: guardia de boxeo bajo la lluvia | **pose de presentarse** |
+| 18 | T1-09: la gente del refugio mira: «It's not about winning or losing!» | el público |
+| 19 | T1-09: Saitama agachado, «You did well. Nice fight.» | **felicitar** |
+| 20 | Saitama y Mumen (vendado) comen juntos en un puesto | amistad |
+| 21 | Mumen Rider de noche (T2), primer plano bajo el casco | serio |
+| 22 | Garou y Mumen Rider (T2) | |
+| 23 | **King con la bicicleta** y Saitama en la calle | |
+| 24 | King y Saitama **juegan a la consola** (manga) | el cuarto de King |
+| 25 | **Genos escribe su diario** con dibujos | apuntar, explicar |
+| 26 | Genos bebe udon; Saitama dormido | casa |
+| 27-28 | T1-12: Saitama **en la Luna** mirando la Tierra; antes del **Golpe Serio** (copia con filtro de color: sólo pose) | clímax |
+| 29 | La **nueva sede de la Asociación** (una ciudad-fortaleza) | fondo |
+| 30 | **Ciudad Z** desde arriba | fondo |
+
+**`hojas/pantalla_01.jpg`** (2100×1000, 490 KB): lo que la serie escribe.
+
+| N.º | Qué es | Para qué sirve |
+|---|---|---|
+| 1-2 | **Fichas de héroe del PV3** (2015): Tatsumaki y King | **el cuadro de la lámina** (§7.1 A) |
+| 3 | Tráiler T3, 0:23: guante rojo a cámara, «**CAPED BALDY / ハゲマント / CLASS B RANK 7**» | ficha estilo cartel |
+| 4 | Tráiler T3, 0:06: Genos, «DEMON CYBORG / CLASS S RANK 14» | |
+| 5 | Tráiler T3, 0:30: «最強集結» metálico con chispas | rótulo |
+| 6 | PV2: **rótulo de nombre** de Mumen (línea blanca fina + nombre grande) | rótulo sencillo |
+| 7-10 | **Cortinillas de silueta** (Mumen normal e invertida, Saitama, Tatsumaki) | un solo color de acento |
+| 11 | Cortinilla del ep. 12: estallido radial | fondo de impacto |
+| 12 | **Aviso de resultados del examen**: «C», 71/100 | **papel para Blender** |
+| 13 | **Volante del súper** «あったか鍋セール» | **papel para Blender** |
+| 14 | OP T1, 0:15: logo rojo sobre la Tierra | logo |
+| 15 | Logo del 10.º aniversario | |
+| 16 | Letra de los carteles T3 («SAITAMA / ONE PUNCH MAN») | tipografía |
+| 17 | Logo del manga, **gastado** | tipografía |
+| 18 | Cabecera de capítulo (caja negra «100撃目») | etiqueta |
+| 19 | Onomatopeya gigante del manga | grito |
+| 20 | El panel del «**OK.**» (fondo de pantalla de fans a partir del manga) | meme |
+| 21-22 | Fichas del **databook**: Saitama y **Mumen Rider** | ficha tipo revista |
+| 23 | Hoja de modelo: **la llave con llavero de jirafa** | objeto |
+| 24 | Notas de dibujo del anime (rojo sobre blanco) | |
+| 25-27 | Juego 2020: menú «Hero Creation», combate, super **正義執行** | interfaz |
+| 28 | Mis pruebas de letra libre (Teko, Dela Gothic One, Comic Neue) | §6.2 |
+
+### 3.2 Arte oficial grande, para la pose (no para pegar)
+
+| Pieza | Tamaño | Dónde |
+|---|---|---|
+| Visual T3 de Saitama | 2481×3508 | [wiki](https://static.wikia.nocookie.net/onepunchman/images/) («One-Punch Man Anime Season 3 Hero Visual - Saitama.png») |
+| Visuales T3 de Genos, Puri-Puri, Amai Mask, Garou… | 1810×2560 | wiki, misma serie |
+| Visuales T3 de Tatsumaki, Fubuki, King, Silver Fang… | 1240×1754 | wiki |
+| Key visual T3 n.º 2 | 1821×2560 | wiki |
+| Hojas de modelo T1 (Saitama, Genos, Tatsumaki, Sonic) | 2894×1984 a 3504×2480 | wiki («2020-10-07 …jpg») |
+| Visual del 10.º aniversario | 1400×1983 | [web oficial](https://onepunchman-anime.net/10th/img/visual/visual_01.jpg) |
+| Visual de la exposición (Kubota: Saitama serio + 10 héroes) | 350×496 ⚠️ sólo miniatura | [V-STORAGE](https://v-storage.jp/anime/opm/275766/) |
+
+Los enlaces exactos y medidos están en `referencias.json`.
+
+### 3.3 Qué NO usar como arte
+
+- Los **modelos 3D de personajes** de Sketchfab que salen del juego
+  (*A Hero Nobody Knows*): aunque digan CC BY, son **extraídos**; sólo
+  referencia (§4).
+- Arte de la **T3 con críticas de animación** (hay capturas-meme de
+  fotogramas feos, §14): usar los visuales, no fotogramas sueltos de la T3.
+- Fan art con **fan service** de Tatsumaki o Fubuki (abunda en Pixiv y
+  Wallhaven): no encaja en el servidor.
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
