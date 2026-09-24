@@ -199,6 +199,42 @@ Respiración. Esto es **medido, no inventado** (`voz.py`, Whisper local), pero
 **una sola frase por personaje** ⚠️: para confirmarlo del todo haría falta
 más de un clip por voz.
 
+### Punto 12 · Lo que ama el fandom, y qué NO hacer (con el ángulo de aura)
+
+La lista general de memes y «qué no dibujar» (Shinobu gritando, el *haori*
+de Giyu al revés, decir «Hashira» en vez de «Pilar»…) **ya está hecha y
+verificada** en `31-demon-slayer-kimetsu-no-yaiba/biblia.md` §14; la cito y
+no la repito. Lo que añado es **específico de auras y paisajes**, que es mi
+encargo y no estaba cubierto:
+
+- **Lo que ama el fandom (con «aura» tal cual, no sólo el gag)**: los tres
+  hilos de Reddit ya citados arriba (§Aura) — «Who has the most aura?»,
+  «Villain with an aura of hero» (309 votos, sobre Kokushibo/Muzan) y «This
+  scene has its own aura!!» (108 votos) — muestran que el fandom **premia
+  las escenas donde el efecto visual (niebla, llamas, chispas) acompaña una
+  frase o un silencio**, no la acción por sí sola ✅ (Arctic Shift, r/KimetsuNoYaiba).
+- **Lo que odiaría ver mal hecho (qué NO hacer, mi aporte)**:
+  - **No mezclar los colores de las Respiraciones.** Hay tabla oficial
+    (arriba): Rengoku es naranja-rojo, nunca amarillo (ese es Zenitsu,
+    Trueno); Muichiro es blanco, no gris (el gris es Piedra, de Gyomei);
+    Shinobu es lavanda **azulado** (Insecto), no lavanda liso (eso es
+    Serpiente, de Obanai) ni rosa (eso es Amor, de Mitsuri, o Flor, de
+    Kanao). Son 14 colores y varios muy parecidos: confundirlos es lo que
+    un fan de esta serie nota primero (la propia wiki dedica una tabla
+    entera a diferenciarlos).
+  - **No poner la espada negra de Tanjiro con otro color** «para que se
+    note más sobre fondo oscuro»: el negro **es el punto de la historia**
+    (nadie más la tiene igual salvo su antepasado).
+  - **No dibujar a Muichiro con expresión intensa o decidida por defecto**:
+    su cara «correcta» la mayor parte de la serie es vacía, de mirada
+    perdida (es su trauma, no pereza de dibujo); sólo se anima cuando
+    aparece Tanjiro.
+  - **No usar el efecto de aura como un aro o resplandor genérico tipo
+    videojuego**: la propia wiki dice que el efecto es «lo que la gente
+    cree ver», es decir, tiene que seguir el arma y el movimiento (agua
+    que sigue el filo, niebla que se arrastra, llama que sale del golpe),
+    no flotar alrededor del personaje sin motivo.
+
 ### Punto 13 · Carácter y forma de hablar, a fondo (los 4 de la lámina + secundarios)
 
 Fuente de base para los 4: **Kimetsu no Yaiba Wiki**, secciones *Personality*
@@ -320,6 +356,30 @@ es lo que faltaba.
 - **Kanao** (Flor, rosa claro): no decide nada sin lanzar una moneda —
   su Respiración (Flor, la de su hermana Kanae) es la más «pasiva» de la
   tabla, coherente con una chica a la que enseñaron a no sentir.
+
+#### Caras por emoción — lo que pude sacar sin `fotogramas.py`
+
+`AnimeThemes` (openings/endings sin YouTube) está **caído desde este
+servidor** (error 522, ya lo avisa `datos-video.md` y lo repetí yo: 3
+intentos con `curl`, mismo error). No es mi herramienta (yo no corro
+`fotogramas.py`, es del rol de vídeo), así que en vez de dejarlo vacío, saqué
+**imágenes reales de la wiki con su tamaño medido de verdad** (API
+`imageinfo`, no de memoria) para las emociones más claras de los 4:
+
+| Personaje | Emoción | Imagen (medida real) | Tamaño |
+|---|---|---|---|
+| Tanjiro | Rabia | [«Tanjiro's eyes becoming bloodshot due to his rage»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/31/Tanjiro%27s_eyes_becoming_bloodshot_due_to_his_rage.png) — enfadado con Daki por matar inocentes | 1320×734 ✅ |
+| Tanjiro | Tristeza | [«Tanjiro's sad smile at Kazumi's words»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a9/Tanjiro%27s_sad_smile_at_Kazumi%27s_words.png) | 1920×1080 ✅ |
+| Rengoku | Entusiasmo | [«Kyojuro's outgoing and loud personality»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/7a/Kyojuro%27s_outgoing_and_loud_personality.png) | 1920×1080 ✅ |
+| Muichiro | Sorpresa/ilusión (raro en él) | [«Muichiro excited over the fact they can protect people»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Muichiro_excited_over_the_fact_they_can_protect_people.png) | 1920×1080 ✅ |
+| Shinobu | Alegría (máscara) | [«Memory of Shinobu's smile»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/40/Memory_of_Shinobu%27s_smile.png) | 1366×768 ✅ |
+| Inosuke | Rabia | [«Inosuke angry at Doma»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1e/Inosuke_angry_at_Doma.png) | 565×475 ✅ |
+
+⚠️ Son fotogramas reales de la wiki (con licencia de uso igual que el resto
+de la wiki, sólo como referencia) pero **sin capítulo ni minuto exacto**:
+eso pide ver el vídeo, que es el rol de vídeo. Quien escriba la biblia
+puede completar el minuto cuando tenga `partes/video.md`, o dejarlo con
+este ⚠️ si no llega a tiempo — el punto no queda vacío en ningún caso.
 
 ### Punto 20 · Gustos y detalles (fichas oficiales / databook, wiki Trivia)
 
