@@ -767,8 +767,10 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
 
 ### Doraemon — el protagonista, 1.º en todas las encuestas ✅
 
-- **Qué es**: un **robot gato** del siglo XXII. Nació el **3 de
-  septiembre de 2112**. Mide **129,3 cm** y pesa **129,3 kg** ✅
+- **Qué es**: un **robot gato** del siglo XXII, modelo **MS-903** de la
+  fábrica Matsushiba Robot ✅ ([Fandom](https://doraemon.fandom.com/wiki/Doraemon)).
+  Nació el **3 de septiembre de 2112**; la fecha salió en CoroCoro en
+  abril de 1975 ✅ ([nokikero](https://nokikero.com/dora-character-birthday/)). Mide **129,3 cm** y pesa **129,3 kg** ✅
   ([Precious](https://precious.jp/articles/-/62479),
   [Wikipedia JP](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93_(%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC))).
 - **Por qué es azul y no tiene orejas**: un **ratón robot** le mordió las
@@ -790,8 +792,11 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
     (*Stand by Me* 01:12:44) ✅.
   - **Anima**: «¡Chan! **Ya puedes estar tranquilo**» (でも もう 安心していいよ！,
     serie 2006-11-10 · 00:16:23) ✅.
-- **Manías**: le encantan los **dorayaki** ⚠️ (muy conocido; no busqué la
-  fuente). Duerme en el **armario empotrado** del cuarto ✅.
+- **Manías**: le encantan los **dorayaki** ⚠️ (lo dice la ficha de
+  [AniList](https://anilist.co/character/4304); ninguna ficha oficial lo da
+  como dato, es más un gag de siempre). Duerme en el **armario empotrado**
+  del cuarto ✅. Lleva **cascabel amarillo en collar rojo**: en la película
+  de 2013, sin él se porta como un gato cualquiera ✅ (Punto 25).
 - **Con quién**: Nobita siempre; Dorami (su hermana); Sewashi.
 
 ### Nobita Nobi — el que pide
@@ -806,7 +811,15 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
   *Stand by Me* 00:07:46) ✅; saluda con risa tímida («jejeje, encantado»,
   00:10:35) ✅.
 - **Qué le importa**: **Shizuka**; no quedar en ridículo delante de
-  Gigante y Suneo.
+  Gigante y Suneo; que lo dejen en paz. En el doblaje latino lo dice así:
+  «**Quisiera estar en un pueblo libre donde nadie me molestara y pudiera
+  ser lo que se me antojara**» («El Pueblo de Nobita», 1:34, transcrito con
+  Whisper) ✅.
+- **Cumpleaños**: **7 de agosto**; sale en el propio manga (CoroCoro, agosto
+  de 1972, «El día en que nació Nobita») ✅ (nokikero,
+  [oshiete.goo](https://oshiete.goo.ne.jp/qa/13493125.html), AniList).
+- En la serie clásica lleva **camiseta roja**; la **amarilla** es de 2005
+  (visto en «Un mundo sin dinero», 3:00) ✅.
 - **Moraleja que la serie repite**: los inventos no bastan; al final tiene
   que hacerlo él ✅ (*Stand by Me* 00:26:42, «no depender de los inventos»).
 
@@ -814,15 +827,31 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
 
 - Buena alumna, amable, **defiende a Nobita** ✅ (*Stand by Me* 00:02:35).
 - **Le gusta el violín pero lo toca mal**; **odia el piano pero lo toca
-  bien**; le encantan **los boniatos** ✅ (mismo resultado de
-  [futaman / legend-anime](http://legend-anime.com/archives/315)) ⚠️ una
-  sola fuente clara.
+  bien**; le encantan **los boniatos** asados, y lo esconde ✅ (segunda
+  pasada: [futaman / legend-anime](http://legend-anime.com/archives/315) y
+  la ficha de [AniList](https://anilist.co/character/8260), «sweet
+  potatoes… the violin, in which her playing is as atrocious as Gian's
+  singing»).
+- **Se baña varias veces al día** (de ahí el gag de Nobita entrando al baño
+  por error); quiere ser **enfermera o azafata**; cuida muñecas, animales
+  y a los débiles ✅ (AniList y
+  [Fandom](https://doraemon.fandom.com/wiki/Shizuka_Minamoto)).
+- **Cumpleaños**: **en mayo**. Sólo el mes es oficial (fijado en 1993 con el
+  visto bueno de Fujiko F. Fujio); el «2 de mayo» que circula **no es
+  oficial** ✅ (nokikero, con cita de *Neo Utopia* n.º 33, p. 168).
+- **Ropa**: **top rosa y falda granate**, no un vestido rosa entero (medido,
+  §16) ✅.
 - Habla con educación: «Nobita-san», «Dora-chan» ✅.
 
 ### Gigante (Takeshi Gōda, «Gian» en japonés) — el matón que canta
 
-- Nació el **15 de junio**; el matón del barrio de toda la vida ⚠️
-  (una sola fuente: el resumen del buscador sobre perfiles).
+- Nació el **15 de junio** ✅ (segunda pasada: lo dice el propio manga,
+  CoroCoro de junio de 1980, «El cumpleaños de Gigante», según
+  [nokikero](https://nokikero.com/dora-character-birthday/), y la ficha de
+  [AniList](https://anilist.co/character/8262)). El matón del barrio, pero
+  **no duda en ayudar a Nobita** cuando hace falta ✅ (AniList).
+- Lleva **camiseta naranja** (`#F08E39` medido) y de béisbol una gorra con
+  **«G»** (hoja `objetos_01.jpg`, n.º 62) ✅.
 - **Le encanta cantar** y organiza **recitales en el descampado**, sin
   darse cuenta de que **canta fatal** ✅ (2006-09-08, 00:09:08 y 00:11:29).
 - Su filosofía famosa, «**lo tuyo es mío y lo mío es mío**» (おまえのもの
@@ -830,17 +859,32 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
   en español aparece como «**Lo mío es mío, y lo tuyo también**», dentro de
   una canción ⚠️ ([Doraenciclopedia](https://doraemon.fandom.com/es/wiki/El_d%C3%BAo_prodigioso:_Giga_y_Sune));
   parece del doblaje de España, no del latino.
-- En el doblaje latino Gigante **canta canciones de verdad**, como
-  «Historia de taxi» de Ricardo Arjona ⚠️ (una fuente: Doblaje Wiki, por el
-  buscador).
+- En el doblaje latino Gigante **canta canciones de verdad**: «Historia de
+  taxi» de Ricardo Arjona en el episodio «Tecnología avanzada» (LTN 26-B /
+  original 0077), y en otra escena «Si las gotas de lluvia fueran
+  dulces» de *Barney* ⚠️ (ahora leído en el wikitext de
+  [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Doraemon_(1979)), «Datos
+  de interés», pero sigue siendo una sola fuente).
 
 ### Suneo Honekawa — el que presume
 
 - Rico, **presume de todo** (juguetes, viajes, comida) y va detrás de
   Gigante ✅ (2006-06-23 y *Stand by Me* 00:01:50: «¡Qué cansancio, tres
   días seguidos de filete!») ✅.
-- **Qué NO hacer**: dibujarlo sin su **pelo en punta** hacia atrás ⚠️ (de
-  memoria).
+- **Qué NO hacer**: dibujarlo sin su **pelo en punta** hacia atrás ✅ (se ve
+  en su retrato oficial y en la hoja `personajes_01.jpg`/`objetos_01.jpg`,
+  n.º 44-53).
+- **Es el más bajo de la clase** y lo vive como un complejo ✅ (el manga
+  varias veces y fichas en japonés). Cara «de zorro», heredada de su madre;
+  sabe mucho de ciencia y **dibuja y diseña bien**; se mira al espejo y se
+  dice lo guapo que es ✅ (AniList y
+  [Fandom](https://doraemon.fandom.com/wiki/Suneo_Honekawa)).
+- Invita a Gigante y a Shizuka **y deja fuera a Nobita** con una excusa ✅
+  (las mismas dos fuentes).
+- **Cumpleaños**: **en febrero** (sólo el mes es oficial; el «18 de
+  febrero» sale de un móvil en *Stand by Me* y la franquicia no lo adoptó)
+  ✅ (nokikero).
+- **Suéter verde azulado** `#27B585` (medido, §16) ✅.
 
 ### Dorami — la hermana (la secundaria más querida) ✅
 
@@ -857,12 +901,46 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
   tanto el cascabel (00:10:22) ✅.
 - **Para este canal encaja muy bien**: es la **ordenada**, la que sabe dónde
   está cada invento. **Buena para la lámina 2** (las etiquetas).
-- Su **voz latina no la encontré** ⚠️.
+- **Voz latina** (segunda pasada, Doblaje Wiki por la API) ✅: **María
+  Fernanda Morales** en el doblaje de 1999-2011 (Rebeca Gómez en el ep.
+  477) y **Lupita Leal** en el de 2014-2015 (§10).
 
 ### Otros
 
 - **Dekisugi**: el listo de la clase; **4.º** entre los de 20-30 años ✅ (§9).
+  Guapo, deportista y listo, el rival de Nobita por Shizuka; su nombre es un
+  juego de palabras, «demasiado capaz» ✅ ([AniList](https://anilist.co/character/31870)).
+  Voz latina: **Miguel Ángel Leal** (2014) y **Bruno Coronel** (4.ª
+  temporada clásica y Netflix) ✅ (§10).
 - **Sewashi**: el tataranieto de Nobita que manda a Doraemon ✅.
+
+### Su cara en cada emoción (con minuto) — segunda pasada
+
+Reordenado por el investigador de voz con **minutos ya comprobados**
+(subtítulos de §2) y lo **visto** en 7 episodios de Internet Archive
+(fotogramas cada 3 s, unos 45 minutos de metraje). Casilla vacía = no
+encontrado con minuto; no se inventa.
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Doraemon** | risita «nufufu», *Stand by Me* 00:14:46 ✅ | — no apareció enfadado en ninguno de los 7 episodios ⚠️ | — | «¡Me robaron el cascabel!», museo 00:03:49 ✅; cara de susto corriendo, ep. «Las tabletas de Komon» 2:51-2:57 ✅ | — |
+| **Nobita** | «¡Gracias, gracias, Doraemon!», *Stand by Me* 00:42:57 ✅ | «¡Mentira! ¡Vete!», *Stand by Me* 00:07:46 ✅ | **llora tapándose la cara**, su papá lo abraza, «Un mundo sin dinero» [3:00-3:09](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20184%20-%20El%20indicador%20del%20desorden%20.mp4?t=180) ✅ visto | «¡Haz algo, Doraemoon!», 2005-08-05 · 00:10:02 ✅ | — |
+| **Shizuka** | «¡Qué divertido!», *Stand by Me* 00:00:45 ✅ | se planta: «¡Paren los dos!», *Stand by Me* 00:02:35 ✅ (firmeza) | — | — | — |
+| **Gigante** | «¡Empieza el recital!», 2006-09-08 · 00:11:29 ✅; recital visto en [0:20](https://www.dailymotion.com/video/x3402n2?t=20) | «¡Nobita, qué te crees!», 2006-11-10 · 00:08:58 ✅; «Gian mad», hoja n.º 28 | — | cejas en zigzag, [0:10](https://www.dailymotion.com/video/x2uugoz?t=10) ⚠️ película sin identificar | — |
+| **Suneo** | presume del filete, *Stand by Me* 00:01:50 ✅ | — | — | — | ser el más bajo es su complejo, pero **sin escena con minuto** ⚠️ |
+
+**Huecos que quedan** ⚠️: la rabia de Doraemon; la tristeza de Doraemon,
+Shizuka, Gigante y Suneo; la vergüenza de todos. Suneo no salió en ninguno
+de los 7 episodios mirados. Candidatos sin mirar del mismo ítem de Internet
+Archive: episodios 153, 172, 182 y 194. Para vergüenza también sirven las
+imágenes de la wiki con nombre de emoción, sin minuto: «Shizuka angry»,
+«Shizuka amazed shocked», «Nobita Shizuka Suneo scared», «Sadness Nobita
+Shizuka Suneo» (2048×1536, en `referencias.json`).
+
+**Dinámicas** (quién con quién): Nobita pide y Doraemon cede («ay, qué
+remedio»); Gigante manda y Suneo le hace coro, pero **le teme** (AniList);
+Suneo presume y deja fuera a Nobita; Shizuka defiende a Nobita y regaña a
+los dos; Dorami resuelve lo que su hermano no ✅.
 
 ---
 
@@ -876,8 +954,18 @@ Hasta 2005 Doraemon era **Nobuyo Ōyama**, que murió en 2024 a los 90 años ✅
 | ranking.net (votación abierta) | 1.º Doraemon · 2.º Dorami · 3.º Nobita ⚠️ ([ranking.net](https://ranking.net/rankings/best-doraemon-characters), [cmoasemi](https://cmoasemi.com/mannga-dorae-rannkinngu/)) |
 | Macromill, 2023, adultos | «El favorito de los hombres: **Doraemon**» ✅ ([note de Macromill](https://note.com/macromill/n/nd91b9d5d17dd)) |
 
+| **AniList** (favoritos de usuarios, internacional; segunda pasada) | 1.º **Doraemon** (687) · 2.º Nobita (189) · 3.º Shizuka (94) · 4.º Suneo (47) · 5.º Gigante (40) · 6.º Dekisugi (10) ✅ ([AniList](https://anilist.co/anime/501)). Dorami no aparece en la ficha de esta serie |
+| **Reddit r/Doraemon** (segunda pasada, por Arctic Shift) | hilos con más votos: «Feliz cumpleaños a mi favorito, **Nobi Nobita**» (213 votos) y «¿Hay una razón para que **Suneo** sea mi favorito?» (81 votos, 30 comentarios) ⚠️ subreddit poco activo ([Reddit](https://www.reddit.com/r/Doraemon/comments/1vi893s/happy_birthday_my_favorite_character_nobi_nobita/)) |
+
 **Conclusión**: aquí **el protagonista sí es el más querido**. La sorpresa
-es **Dorami**, que en los jóvenes **supera a Nobita**.
+es **Dorami**, que en los jóvenes japoneses **supera a Nobita**. Fuera de
+Japón (AniList, Reddit), el segundo es **Nobita**.
+
+**Premio oficial**: en **marzo de 2008** el Ministerio de Asuntos Exteriores
+de Japón nombró a Doraemon **primer «embajador anime»** del país ✅
+([comunicado oficial](https://www.mofa.go.jp/announce/announce/2008/3/0319-3.html),
+[Anime News Network](https://www.animenewsnetwork.com/news/2008-03-14/doraemon-to-be-japan-first-anime-ambassador),
+[CBC](https://www.cbc.ca/news/entertainment/robot-cat-becomes-japan-s-first-anime-ambassador-1.728930)).
 
 **Los inventos más queridos** (sirve para elegir qué objetos poner):
 - **El más deseado**: la **puerta a cualquier lugar** (どこでもドア); 2.º
@@ -896,22 +984,84 @@ es **Dorami**, que en los jóvenes **supera a Nobita**.
 
 ## 10 · Doblaje latino
 
-> Doblaje Wiki y ANMTV estaban bloqueados. Lo que sigue sale de los
-> **resúmenes del buscador** de esas páginas y de otras. Marco ✅ sólo lo
-> que coincide en **dos fuentes distintas**.
+> **Segunda pasada**: ya se leyó **la API de Doblaje Wiki** (wikitext
+> completo de *Doraemon (1979)*, *Doraemon (2005)* y *Quédate conmigo,
+> Doraemon*) y la de [Dubbing Database](https://dubdb.fandom.com/wiki/Doraemon,_el_gato_c%C3%B3smico_(2005,_Latin_American_Spanish)).
+> Marco ✅ lo que coincide en **dos fuentes distintas**.
 
-### 10.1 Las tres épocas del doblaje latino
+### 10.1 Las épocas del doblaje latino
 
 | Época | Qué | Datos |
 |---|---|---|
-| **Años 80** | Primer doblaje, en Los Ángeles, casi perdido | Estudio ESM (Sonomex), dirección **Alejandro Byrd**; Doraemon **Carlos Carrillo**, Nobita **Gladys Parra**, Shizuka **Gloria González** ⚠️ (una fuente: [Lost Media Wiki](https://lostmedia.fandom.com/es/wiki/Las_aventuras_del_gato_c%C3%B3smico_(primer_doblaje_latino_parcialmente_encontrado;_1980s))) |
-| **1999-2011** | ***Doraemon, el gato cósmico*** (serie de 1979), México. El que conoce casi todo el mundo | **Ricardo Tejedo**, primera voz de Doraemon ✅ ([Doblaje Wiki · Ricardo Tejedo](https://doblaje.fandom.com/es/wiki/Ricardo_Tejedo), [animeargentina.net](https://animeargentina.net/ricardo-tejedo-doblaje/)). **Laura Torres** empezó como Nobita y lo dejó por daño en la garganta ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Doraemon_(1979)), [dubdb](https://dubdb.fandom.com/wiki/Doraemon,_el_gato_c%C3%B3smico_(1979,_Latin_American_Spanish))); luego lo dobló **Rommy Mendoza** ⚠️. En Chile salió en Chilevisión (2000-2007) ⚠️ |
-| **2014** | Serie de **2005**, México | Dirección **Armando Coria**; **Doraemon: Irwin Daayán**; **Nobita: Laura Torres**, que volvió ✅ ([ANMTV 2014](https://www.anmtvla.com/2014/06/doraemon-comienza-doblaje-para.html?m=0), y un vídeo de la propia [Laura Torres](https://www.tiktok.com/@lau_tor_oficial/video/7270311149307055366)). **104 medias horas** ⚠️ |
-| **2021-2022** | ***Quédate conmigo, Doraemon*** 1 y 2, Netflix | Estudio **New Art Dub**, dirección **Irwin Daayán**, traducción **Jennifer Mendel** ✅ |
+| **1981-1982** | Primer doblaje, en Los Ángeles, emitido como *Las aventuras del gato cósmico*; casi perdido | Estudio ESM (Sonomex), dirección **Alejandro Byrd** ⚠️. **Doraemon y Gigante: Carlos Carrillo** (el mismo actor para los dos), Nobita **Gladys Parra**, Shizuka **Gloria González**, Tamako **Carmina Vásquez**; Suneo sin identificar ✅ (tabla «Original» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Doraemon_(1979)) y [Lost Media Wiki](https://lostmedia.fandom.com/es/wiki/Las_aventuras_del_gato_c%C3%B3smico_(primer_doblaje_latino_parcialmente_encontrado;_1980s))) |
+| **1985** | **Doblaje cubano** del **ICAIC** de la película *Doraemon en la tierra secreta* (en España, *Doraemon y el mundo perdido*) | hallazgo nuevo ⚠️ (una fuente: [Internet Archive](https://archive.org/details/doraemon-en-la-tierra-secreta-doblaje-cubano-icaic-1985)); sin nombres de actores |
+| **1999-2011** | ***Doraemon, el gato cósmico*** (serie de 1979), Rose Entertainment, México. El que conoce casi todo el mundo. **312 medias horas** dobladas en 6 tandas | tabla de §10.2 ✅ |
+| **2014-2015** | Serie de **2005**, **Art Sound México**, grabada del 23-jun-2014 al 8-abr-2015 (eps. 1-104) | dirección **Armando Coria** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Doraemon_(2005)), [ANMTV 2014](https://www.anmtvla.com/2014/06/doraemon-comienza-doblaje-para.html?m=0)); tabla de §10.3 |
+| **2021-2022** | ***Quédate conmigo, Doraemon*** 1 y 2, Netflix | **New Art Dub**, dirección **Irwin Daayán**, traducción **Jennifer Medel** ✅ (antes decía «Mendel»: el wikitext dice `Jennifer Medel`, letra por letra) |
 
-### 10.2 Reparto de las películas de Netflix ✅
+Dónde se vio la serie de 2005: Netflix (10-dic-2014 a 10-jun-2016),
+Ecuavisa y ETC TV (2015), Teleamazonas (2017), Azteca 7 (2018), CityTV
+Colombia (2020), Senpai TV (2023) ✅ (Dubbing Database). La clásica salió en
+Chile por Chilevisión (2000-2007) ⚠️.
 
-Coinciden [ANMTV](https://www.anmtvla.com/2022/02/quedate-conmigo-doraemon-ya-dispone-de.html),
+### 10.2 *El gato cósmico* (1999-2011): dos etapas ✅
+
+Wikitext de Doblaje Wiki, con actor por temporada y episodio; los nombres
+principales coinciden con [dubdb](https://dubdb.fandom.com/wiki/Doraemon,_el_gato_c%C3%B3smico_(1979,_Latin_American_Spanish))
+y [ANMTV](https://www.anmtvla.com/).
+
+| Personaje | Primera etapa (temporadas 1.ª-3.ª) | Segunda etapa (4.ª) |
+|---|---|---|
+| **Doraemon** | **Ricardo Tejedo** | **Irwin Daayán** |
+| **Nobita** niño | **Laura Torres** (hasta ~ep. 484-563) → **Ariadna Rivas** (eps. 387-472 y 564-585) | **Rommy Mendoza** |
+| Nobita mayor | Gerardo del Valle (preadolescente, ep. 45), Manuel Campuzano (adolescente), **Yamil Atala** (adulto, 2.ª-3.ª) | Héctor Emmanuel Gómez |
+| **Shizuka** | **Cristina Hernández** (Vanessa Garcel en eps. 397 y 563) | Cristina Hernández |
+| **Suneo** | **Irwin Daayán** | Irwin Daayán |
+| **Gigante** | **Luis Daniel Ramírez** | Luis Daniel Ramírez |
+| **Dorami** | **María Fernanda Morales** (Rebeca Gómez, ep. 477) | — |
+| Tamako | — | Rebeca Manríquez |
+| Dekisugi | — | Bruno Coronel |
+
+- **Corrección**: antes decía «luego lo dobló Rommy Mendoza ⚠️». Fueron
+  **tres**: Laura Torres → Ariadna Rivas → Rommy Mendoza ✅.
+- **Por qué se fue Laura Torres**: tenía la garganta lastimada de tantos
+  años haciendo a Goku, Gohan y Goten niños en *Dragon Ball*, y dejó de
+  doblar niños un tiempo ✅ (Doblaje Wiki y dubdb). Ariadna Rivas
+  **renunció después junto con Ricardo Tejedo**, «por compromisos» ⚠️ (sólo
+  Doblaje Wiki).
+- **Irwin Daayán dobló a Suneo en todo el doblaje clásico y pasó a ser
+  Doraemon** en la 4.ª temporada, y desde 2014 hasta hoy ✅. **El dato
+  perfecto para un servidor de doblaje**: del rival presumido al
+  protagonista.
+
+### 10.3 Serie de 2005 (Art Sound México, 2014-2015) ✅
+
+Wikitext de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Doraemon_(2005))
+y [Dubbing Database](https://dubdb.fandom.com/wiki/Doraemon,_el_gato_c%C3%B3smico_(2005,_Latin_American_Spanish)):
+
+| Personaje | Voz latina |
+|---|---|
+| **Doraemon** | **Irwin Daayán** |
+| **Nobita** | **Laura Torres** (volvió) |
+| **Shizuka** | **Cristina Hernández** |
+| **Suneo** | **Irwin Daayán** |
+| **Gigante** | **Luis Daniel Ramírez** |
+| **Dorami** | **Lupita Leal** |
+| Sewashi | Laura Torres |
+| Tamako (mamá de Nobita) | Adriana Casas |
+| Nobisuke (papá de Nobita) | Agustín López Lezama |
+| Dekisugi | Miguel Ángel Leal |
+| Profesor | Jorge Ornelas |
+| Jaiko (Gigantita) | Rebeca Gómez |
+
+Nobita con Laura Torres también lo confirma un vídeo de la propia
+[Laura Torres](https://www.tiktok.com/@lau_tor_oficial/video/7270311149307055366) ✅.
+Las **104 medias horas** ya salen en la ficha ✅ (antes ⚠️).
+
+### 10.4 Reparto de las películas de Netflix ✅
+
+Coinciden el wikitext de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Qu%C3%A9date_conmigo,_Doraemon),
+[ANMTV](https://www.anmtvla.com/2022/02/quedate-conmigo-doraemon-ya-dispone-de.html),
 [TVLaint](https://www.tvlaint.com/2022/02/netflix-agrega-doblaje-latino-de.html),
 [Desde la Cuna](https://www.desdelacuna.net/doblaje/voces-quedate-conmigo-doraemon-2-pelicula-netflix-doblaje-actores-elenco-personajes-reparto/)
 y [FUNiAnime](https://funianime.com/quedate-conmigo-doraemon2-anuncia-fecha-de-estreno-en-latinoamerica/):
@@ -920,25 +1070,42 @@ y [FUNiAnime](https://funianime.com/quedate-conmigo-doraemon2-anuncia-fecha-de-e
 |---|---|
 | **Doraemon** | **Irwin Daayán** |
 | **Nobita** (niño) | **Laura Torres** |
+| Nobita adulto | **Miguel Ángel Ruiz** ✅ (antes ⚠️) |
 | **Shizuka** | **Cristina Hernández** |
 | **Gigante** | **Abraham Vega** |
 | **Suneo** | **Irwin Daayán** (el mismo actor que Doraemon) |
-| Nobita adulto (película 2) | Miguel Ángel Ruiz ⚠️ (una fuente) |
+| Sewashi | Sebastián García |
+| Tamako | Yolanda Vidal |
+| Nobisuke | Carlos del Campo |
+| Dekisugi | Bruno Coronel |
+| Jaiko | Cassandra Valtier |
+| Sra. Goda | Jahel Morga |
+| Profesor | Jorge Ornelas |
 
-- Dato para fans: en Latinoamérica **Doraemon siempre lo ha doblado un
-  hombre**; en Japón, mujeres ⚠️ (una fuente: Doblaje Wiki, por el buscador).
+(Los secundarios, sólo del wikitext ⚠️.)
+
+- En Latinoamérica **Doraemon siempre lo ha doblado un hombre** (Carrillo,
+  Tejedo, Daayán); en Japón, mujeres (Ōyama, Mizuta) ✅ (las tablas de
+  arriba y §8).
 - **«El gato cósmico»** es la marca de la serie en Latinoamérica, y en el
-  doblaje **a Doraemon le dicen «Cósmico»** de apodo ⚠️ (Doblaje Wiki, por el
-  buscador; salió en dos búsquedas distintas pero de la misma wiki).
+  doblaje **a Doraemon le dicen «Cósmico»** de apodo. Ahora leído en los
+  «Datos de interés» del wikitext ✅ (Doblaje Wiki), y el opening latino
+  antiguo lo canta en 0:13: «**Doraemon, el gato cósmico**» ([Dailymotion](https://www.dailymotion.com/video/x8k1ck8?t=13),
+  transcrito con Whisper) ✅.
 
-### 10.3 Nombres latinos de los inventos ⚠️
+### 10.5 Nombres latinos de los inventos
 
-Según Doblaje Wiki (por el buscador, una sola fuente):
+Ahora leído en los «Datos de interés» del wikitext de Doblaje Wiki (una
+wiki, pero leída entera, no por el buscador) ⚠️:
 - Al principio **«bolsillo mágico»** y **«puerta mágica»**, como en España.
-  Después se cambiaron por **«bolsillo tetradimensional»** y **«puerta a
-  donde sea / a cualquier lugar»**.
+  Después, **«bolsillo tetradimensional»** y **«puerta a donde sea / a
+  cualquier lugar»**.
 - El Takecopter se llamó **«gorrocóptero»**, **«coco-cóptero»** y
-  **«cabeza-cóptero»** según el episodio.
+  **«cabeza-cóptero»** en la 1.ª temporada.
+- El Sr. Kaminari pasó a ser **«Señor Kobayashi»**, quizá por su actor,
+  Gabriel Cobayassi.
+- El primer opening latino se grabó con **la misma letra que el de
+  España**; luego se grabó otra versión con otra adaptación (§11).
 - «**Bolsillo mágico**» está confirmado en el **opening latino**: «Doraemon,
   con su bolsillo mágico, los hace realidad por mí» ✅
   ([Doraenciclopedia](https://doraemon.fandom.com/es/wiki/Canci%C3%B3n_de_Doraemon),
@@ -947,19 +1114,37 @@ Según Doblaje Wiki (por el buscador, una sola fuente):
 **Para la lámina**: «**bolsillo mágico**» es el nombre que reconoce todo
 latino. No uses «bolsillo tetradimensional» en el texto principal.
 
-### 10.4 Frases del doblaje latino
+Otros nombres: una publicación de TikTok dice que en un doblaje mexicano muy
+antiguo se llamaron **Robotín, Felipe, Andrea, Enrique y Cantimplora**. Una
+sola fuente: **no usar** ⚠️.
 
-**No encontré ninguna recopilación fiable** de frases del doblaje latino
-línea por línea ⚠️. No invento ninguna. Las frases de §2 y §7 son del
-**japonés**, traducidas por mí.
+### 10.6 Frases del doblaje latino, textuales (segunda pasada)
 
-### 10.5 Otros nombres ⚠️
+Antes: «no encontré ninguna». Ahora hay frases **sacadas del audio**: el
+episodio **«El Pueblo de Nobita»**, con doblaje latino de una grabación de
+TV ([Internet Archive](https://archive.org/details/episodio-737-chip-de-reservacion),
+colección *Doraemon Español, episodios 01-300*), pasado por `voz.py`
+(Whisper) y revisado a oído. Por la numeración es casi seguro el doblaje de
+**Rose Entertainment (1999-2011)** ⚠️; Whisper no distingue voces, así que
+**quién dice cada frase** va con ⚠️ salvo la de Nobita.
 
-- Una publicación de TikTok dice que en un doblaje mexicano muy antiguo se
-  llamaron **Robotín, Felipe, Andrea, Enrique y Cantimplora**. Una sola
-  fuente: **no usar**.
+| Minuto | Frase textual | Quién | Emoción |
+|---|---|---|---|
+| [0:54](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=54) | «¡Oigan! Si no tienen nada que hacer, ¿por qué no vienen a jugar pelota conmigo?» | por el contexto, Gigante ⚠️ | mandón |
+| [1:19](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=79) | «¡Eso duele! ¿Acaso crees que tengo la cabeza de piedra?» | sin confirmar ⚠️ | queja tras un golpe |
+| [1:34](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=94) | «Quisiera estar en un pueblo libre donde nadie me molestara y pudiera ser lo que se me antojara» | **Nobita** ✅ (es el deseo que arranca el episodio) | triste, soñador |
 
----
+Y del **opening latino antiguo** ([Dailymotion](https://www.dailymotion.com/video/x8k1ck8?t=13)):
+0:13 «**Doraemon, el gato cósmico**» y 0:16 «**Ojalá mi sueño se…**» ✅.
+
+**Cómo suena el doblaje clásico** (`voz.py`, varias voces de niño juntas):
+tono medio **375 Hz** (muy agudo), **22,9 semitonos** de rango (muy
+expresivo), **2,12 palabras por segundo** ✅. Agudo y exagerado, nunca plano.
+
+Las frases de §2 y §7 siguen siendo del **japonés**, traducidas por mí. Las
+latinas de Nobita y Doraemon más famosas («¡Doraemon, haz algo!», «ay, qué
+remedio») **no se encontraron en un clip latino con minuto** ⚠️: las muestras
+de audio de Doblaje Wiki no salieron en esta ficha.
 
 ## 11 · Música
 
@@ -973,6 +1158,28 @@ línea por línea ⚠️. No invento ninguna. Las frases de §2 y §7 son del
 
 Recopilación de 62 temas de la franquicia:
 [DIGLE MAGAZINE](https://mag.digle.tokyo/sch/news/ranking/popular/75022).
+
+**Segunda pasada: el opening latino, oído de verdad.** El opening de 1979
+con doblaje latino antiguo de [Dailymotion](https://www.dailymotion.com/video/x8k1ck8?t=13)
+se pasó por `voz.py` (Whisper): en **0:13** canta «**Doraemon, el gato
+cósmico**» y en **0:16** «**Ojalá mi sueño se…**» ✅. Es **otra letra** con
+la misma música que la de Maggie Vera citada arriba. Doblaje Wiki explica
+por qué: el **primer opening latino se grabó con la letra de España**, y
+luego se grabó otra versión con otra adaptación ✅ (wikitext, «Datos de
+interés»). **Cuál es cuál y quién canta la del vídeo** ⚠️: no sale en el
+vídeo ni en su ficha. La voz: registro medio (183 Hz), muy expresiva (31,3
+semitonos), lenta (1,59 palabras por segundo).
+
+| Más temas (segunda pasada) | Datos |
+|---|---|
+| Ending latino de *El gato cósmico*, con **Maggie Vera** | [YouTube, 178 732 vistas](https://www.youtube.com/watch?v=lLZX4c8wOBQ) ✅ |
+| «**Nuestro Planeta**» (ぼくたち地球人, *Bokutachi Chikyūjin*), ending oficial en latino | [YouTube, canal Doraemon Latino](https://www.youtube.com/watch?v=eljPM34kWmE) ✅ |
+| «**Himawari no Yakusoku**», tema de *Stand by Me Doraemon* | suena en la película que hizo llorar al 88,4 % (Punto 21); en qué escena exacta, sin ver ⚠️ |
+| Discos de banda sonora | *Doraemon Encyclopedia* (1995), *Doraemon Sound Track History 2* (Kan Sawada, 2010), *DORA THE BEST* (20.º aniversario, 1999) ([MusicBrainz](https://musicbrainz.org/release-group/f7c47f81-3066-4f32-9ab2-669541881072)) ✅ |
+
+**Efectos que todos reconocen**: el sonido de **sacar un invento** (§7.1) y
+el «¡Doraemooon!» de Nobita (§7.1). AnimeThemes, que tiene los openings en
+vídeo limpio, dio **error 522** todo el día ⚠️.
 
 > **Ojo para el canal**: en #recursos no se pueden colgar las canciones de
 > Doraemon como «pista sin voz» ni «música libre»: **tienen derechos**. Es
@@ -991,9 +1198,21 @@ Recopilación de 62 temas de la franquicia:
 | Opening latino (Maggie Vera) | [V1](https://www.youtube.com/watch?v=vF-PDfmOdfo) | el tono latino |
 | Todas las voces latinas de Doraemon | [TikTok @sengek56](https://www.tiktok.com/@sengek56/video/7500317759486561542) | comparar voces |
 
-> ⚠️ **No pude abrir YouTube** (bloqueado), así que **no doy minutos** de
-> estos vídeos. Los minutos exactos de escenas están en §2, sacados de los
-> subtítulos.
+> ⚠️ YouTube siguió sin poder verse en la segunda pasada (pide iniciar
+> sesión): **estos vídeos van sin minuto**. Los vídeos **mirados** con
+> minuto están en §2.4 (Dailymotion e Internet Archive):
+
+| Vídeo mirado | Enlace con minuto | Qué sirve |
+|---|---|---|
+| Opening 1979 latino antiguo | [0:40](https://www.dailymotion.com/video/x8k1ck8?t=40) | Doraemon volando con el Takecopter sobre bocetos de Da Vinci |
+| Tráiler en español de *Stand by Me* | [0:30](https://www.dailymotion.com/video/x33a56v?t=30) · [1:00](https://www.dailymotion.com/video/x33a56v?t=60) | el cuarto 3D de día y de noche |
+| Recital de Gigante | [0:20](https://www.dailymotion.com/video/x3402n2?t=20) | la pose con micrófono |
+| «El Pueblo de Nobita», doblaje latino | [3:00](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180) | un invento en uso |
+| Tráiler de *Doraemon el gladiador* en español (FilmAffinity) | [Dailymotion](https://www.dailymotion.com/video/x9d5trc) ⚠️ sin mirar | película reciente |
+| *Doraemon Traffic Safety* (1981), restauración de 16 mm | [Internet Archive](https://archive.org/details/doraemon-traffic-safety-16mm) ⚠️ sin mirar | corto educativo; una rareza |
+
+**Tendencias**: los *fandubs*, parodias y covers en español, con vistas,
+están en el Punto 22. TikTok sigue sin poder medirse ⚠️.
 
 ---
 
@@ -1004,8 +1223,22 @@ Resumido en §7.4. Lo útil para el canal:
 - ***Doraemon Dorayaki Shop Story*** (Kairosoft, 2024): **una tienda**. Idea
   para la lámina 2: estanterías con un producto por etiqueta.
 - ***Doraemon Story of Seasons*** (2019) y ***Friends of the Great
-  Kingdom*** (2022): dibujo **de acuarela**, suave ⚠️ (de memoria), con el
-  **nombre de quien habla** encima del cuadro ✅.
+  Kingdom*** (2022): dibujo **de acuarela**, suave, con agua muy trabajada
+  (reflejos, ondas), salvo los retratos y las escenas animadas ✅ (segunda
+  pasada: [switchaboo](https://www.switchaboo.com/doraemon-story-of-seasons-switch-review-2/)
+  y [Can I Play That?](https://caniplaythat.com/2019/10/28/mobility-review-doraemon-story-of-seasons/)),
+  con el **nombre de quien habla** encima del cuadro ✅. Los dos traen
+  **español de Hispanoamérica** en Steam ✅.
+- **Capturas oficiales de Steam en 1920×1080** (para ver el cuadro de
+  diálogo y los menús; en `referencias.json`):
+  [Story of Seasons](https://store.steampowered.com/app/965230) (6),
+  [Friends of the Great Kingdom](https://store.steampowered.com/app/1492730) (6)
+  y [Dorayaki Shop Story](https://store.steampowered.com/app/2934180) (6).
+  Ejemplo: [captura de *Story of Seasons*](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_c6c598c4ee381645e9b419996197adfef8566596.1920x1080.jpg).
+  No las abrió nadie una por una ⚠️: cuál trae un cuadro de diálogo, sin
+  comprobar.
+- Colaboración con el gacha ***Granblue Fantasy*** (diciembre de 2021):
+  Doraemon y Nobita jugables (Punto 23).
 - Lista de juegos: [Wikipedia](https://en.wikipedia.org/wiki/List_of_Doraemon_video_games).
 
 ---
@@ -1017,11 +1250,22 @@ Resumido en §7.4. Lo útil para el canal:
 - **Sacar un invento del bolsillo** y el nombre en voz alta ✅.
 - «**¡Doraemooon!**» de Nobita y el «**qué remedio**» de Doraemon ✅.
 - **El recital de Gigante** en el descampado ✅, y en el latino, Gigante
-  cantando canciones conocidas ⚠️.
+  cantando «Historia de taxi» de Arjona ⚠️ (§8).
+- **«Handsome Gian»**, la cara de Gigante «guapo», un meme con imagen de
+  5016×2822 en la wiki (hoja `personajes_01.jpg`, n.º 1) ✅.
 - **La puerta a cualquier lugar** (el invento más deseado) ✅.
 - **El miedo de Doraemon a los ratones** ✅ y **los dorayaki** ⚠️.
 - **«El gato cósmico»** y el opening de Maggie Vera, pura nostalgia latina ✅.
 - **Dorami** y su pan de melón ✅.
+- **«ドラ泣き» (Dora-naki, «el llanto de Doraemon»)**: casi un meme oficial
+  en Japón desde *Stand by Me* (2014); la revista de cine
+  [Cinematoday](https://www.cinematoday.jp/page/A0004197) hizo una votación
+  pública sobre en qué escena lloró cada quien ✅ (Punto 21).
+- **Irwin Daayán, de Suneo a Doraemon** (§10.2): el dato del doblaje que más
+  gusta a los fans hispanos ✅.
+- **Nobita no es un fracaso a secas**: el hilo más votado de r/Doraemon en
+  la búsqueda de favoritos le desea feliz cumpleaños (213 votos); y hay
+  quien defiende a Suneo (81 votos) ⚠️ (Reddit poco activo).
 
 ### Qué NO hacer (lo que un fan notaría)
 
@@ -1036,11 +1280,22 @@ Resumido en §7.4. Lo útil para el canal:
   [cocorety](https://cocorety.net/entame/130028.html)). La historia de que
   fue «por una queja de la asociación de padres» es **un bulo** ⚠️
   ([nota de TOKAS](https://note.com/tokasimnet/n/nb61d36f13942)).
-- **No confundir el bolsillo**: es una **media luna blanca** en la barriga ⚠️.
-- **El cascabel** es amarillo, redondo, con una raya y una ranura ⚠️; sin él
-  Doraemon se pone nervioso (la película de 2013 va de eso) ✅.
+- **No confundir el bolsillo**: es una **media luna blanca** en la barriga ✅
+  (visto: hoja `objetos_01.jpg`, n.º 58, y el retrato oficial). El de
+  **Dorami** lleva **rayas rojas cruzadas**: así se distinguen ✅
+  ([Fandom · 4D Pocket](https://doraemon.fandom.com/wiki/4D_Pocket)).
+- **El cascabel** es amarillo (`#FCDC2A` medido), redondo, en collar rojo
+  (`#E02333`) ✅; la raya y la ranura, sin medir de cerca ⚠️. Sin él Doraemon
+  se porta como un gato normal (la película de 2013 va de eso) ✅.
+- **No le quites el «Poko»**, el bultito en la comisura del labio: «sin esto
+  no se puede hacer un personaje de Fujiko», dice el director de arte de
+  *Stand by Me* ✅ ([CGWorld](https://cgworld.jp/interview/1408-sbmd.html);
+  Punto 18).
+- **No vistas a Shizuka de rosa entera**: top rosa, **falda granate** ✅ (§16).
 - **No tocar la «leyenda del final»** (que Nobita está en coma y todo es un
-  sueño): es falsa, **la editorial la desmintió** ⚠️
+  sueño): es falsa, **la editorial la desmintió** ⚠️. El final real que
+  se repite es otro: *Adiós, Doraemon…* (Doraemon vuelve al futuro y Nobita
+  decide seguir solo) ✅ ([Doraenciclopedia](https://doraemon.fandom.com/es/wiki/Adi%C3%B3s%2C_Doraemon...))
   ([TikTok](https://www.tiktok.com/discover/cap%C3%ADtulo-final-de-doraemon));
   un fan la reconoce y le parece de mal gusto en un Discord alegre.
 - **No mezclar estilos**: el 3D de *Stand by Me* y el dibujo plano de la
@@ -1055,10 +1310,41 @@ Resumido en §7.4. Lo útil para el canal:
 ## 15 · Poses analizadas por personaje
 
 > [!warning] Cómo está hecho este apartado
-> No pude ver vídeo ni imágenes (YouTube y Fandom bloqueados). Cada pose
-> sale de **lo que dice el subtítulo en ese minuto**, y la postura la
-> **deduzco** de la escena ⚠️. Antes de dibujar, **abrir ese minuto** y
-> hacer la captura. Los minutos sí están comprobados en el archivo ✅.
+> Las tablas por personaje son de la primera pasada: cada pose sale de **lo
+> que dice el subtítulo en ese minuto**, y la postura se **deduce** ⚠️. Los
+> minutos sí están comprobados en el archivo ✅. **La segunda pasada añade
+> poses VISTAS** (§15.0, fotogramas abiertos uno a uno) y poses de las hojas
+> de contacto (§15.1).
+
+### 15.0 Poses vistas en vídeo (segunda pasada) ✅
+
+| Personaje | Fotograma visto | Postura (lo que se ve) | Sirve para |
+|---|---|---|---|
+| **Doraemon** | [opening 0:40](https://www.dailymotion.com/video/x8k1ck8?t=40) | vuela con el Takecopter, **brazos abiertos**, sonrisa grande, cuerpo inclinado hacia delante | **explicar**: enseñar un invento en movimiento |
+| **Doraemon** | [tráiler 1:00](https://www.dailymotion.com/video/x33a56v?t=60) | boca muy abierta, un brazo arriba, agarrado a Nobita sobre el tatami | sorpresa, susto |
+| **Doraemon** | [«El Pueblo de Nobita» 0:30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30) | de pie junto a Nobita, **brazos abiertos hacia arriba**, mirando una placa en la pared | **presentar** (serie clásica 2D) |
+| **Nobita** | [tráiler 0:30](https://www.dailymotion.com/video/x33a56v?t=30) | encorvado, cabeza gacha, mochila puesta, choca de espaldas con la puerta corredera | cansancio; llegar a casa |
+| **Nobita** | [«El Pueblo de Nobita» 3:00](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180) | agachado, sonrisa traviesa, **regadera de juguete con las dos manos** sobre un pueblo a escala | **explicar**: «así se usa» |
+| **Nobita** | [«Un mundo sin dinero» 3:00](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20184%20-%20El%20indicador%20del%20desorden%20.mp4?t=180) | se tapa la cara con las dos manos, llorando; su papá lo abraza | tristeza |
+| **Gigante** | [recital 0:20](https://www.dailymotion.com/video/x3402n2?t=20) | de pie, ojos cerrados, boca muy abierta, **brazo extendido al público**, micrófono en la otra mano, capa roja | **presentar, celebrar** |
+| **Gigante** | [0:10](https://www.dailymotion.com/video/x2uugoz?t=10) ⚠️ película sin identificar | cejas en zigzag, ojos redondos, boca entreabierta, quieto | miedo |
+| **Nobita, Shizuka, Suneo y Gigante** | [opening 0:40](https://www.dailymotion.com/video/x8k1ck8?t=40) | los cuatro de pie en fila, **cabeza hacia arriba**, mirando a Doraemon volar | mirar un invento en el aire |
+
+Shizuka, Suneo y Dorami **no se vieron solos** en ningún clip limpio ⚠️:
+sus tablas siguen deducidas del subtítulo.
+
+### 15.1 Poses de las hojas de contacto (sin minuto; con número)
+
+| Personaje | N.º y hoja | Pose | Sirve para |
+|---|---|---|---|
+| Gigante | 17, personajes | sentado con **guitarra**, cantando | **presentar** una «Pista sin voz» |
+| Gigante | 76-80, objetos | **volando con el Takecopter**: carrera, despegue, brazos en cruz (1979) | acción, celebrar |
+| Gigante | 28, personajes | puño cerrado, dientes, primer plano | **regañar** |
+| Gigante | 83, objetos | saca bíceps, sonrisa enorme | animar |
+| Los cinco | 64, objetos | Doraemon al centro con los brazos abiertos, los demás alrededor saltando | **presentar** en grupo |
+| Nobita, Gigante, Suneo | 43, personajes | saltan a la vez sobre fondo de rayos | **celebrar** |
+| Doraemon, Nobita, Gigante | 15, personajes | abrazados | amistad |
+| Doraemon y Nobita | 73, objetos | sentados en la máquina del tiempo, dentro del túnel | viajar, el cajón |
 
 ### Doraemon
 
@@ -1118,11 +1404,11 @@ Resumido en §7.4. Lo útil para el canal:
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario
 
 Los **colores de la ropa** están confirmados ✅: en el día a día **Nobita
-va de amarillo con pantalón corto azul marino**, **Shizuka de rosa**,
-**Suneo de verde azulado** y **Gigante de naranja**
+va de amarillo con pantalón corto azul marino**, **Shizuka de rosa con
+falda granate**, **Suneo de verde azulado** y **Gigante de naranja**
 ([Chiebukuro 1](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11148106111),
 [Chiebukuro 2](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12116884012),
 [blog de Shimizu](https://ameblo.jp/shimizu90723/entry-12641161808.html)).
@@ -1130,41 +1416,92 @@ Pero **Nobita tiene 137 camisetas distintas** en 823 historias
 ([hatosan](https://www.hatosan.com/ensoku/2011/05/post-25.html)), y hay una
 lista de **todas las camisetas de Gigante**
 ([ajaidesu](https://ajaidesu.hatenablog.com/entry/2020/12/21/200548)).
-Los **hex** son míos, aproximados ⚠️: comprobar con un fotograma.
+En la **serie clásica** Nobita lleva a menudo **camiseta roja** (visto en
+«Un mundo sin dinero», 3:00) ✅.
 
-| Personaje | Ropa icónica | Colores aprox. |
-|---|---|---|
-| **Doraemon** | no lleva ropa: cuerpo azul, cara y barriga blancas, **nariz roja**, **collar rojo con cascabel amarillo**, **bolsillo blanco de media luna**, **cola roja de bola** ✅ (el modelo 3D de Sketchfab la describe con collar, cola roja y bolsillo) | azul `#18A2E7`, rojo `#E61737`, amarillo `#FED037` |
-| **Nobita** | **gafas redondas**, camiseta o polo **amarillo**, **pantalón corto azul marino** | amarillo `#F5D23A`, azul `#2C3E8C` |
-| **Shizuka** | **dos coletas cortas**, falda **rosa**, blusa clara | rosa `#F28DB2` |
-| **Gigante** | camiseta **naranja** ancha, pantalón corto | naranja `#F08A24` |
-| **Suneo** | ropa cara y cambiante, casi siempre **verde azulado** ✅; **pelo en punta** ⚠️ | verde `#3FA38C` |
-| **Dorami** | amarilla, **lazo rojo** en la cabeza, bolsillo; cola con dibujo de flor ✅ | amarillo `#F7DB3E`, rojo `#E61737` |
+**Segunda pasada: hex MEDIDOS** con Pillow, píxel a píxel, sobre los
+retratos oficiales de 2005 y el cel de producción (enlaces en §3.5):
+
+| Personaje | Prenda | Hex medido | Fuente |
+|---|---|---|---|
+| Doraemon | cuerpo azul | `#1D99C8` | retrato oficial 2005 ✅ |
+| Doraemon | cuerpo azul, con la luz del cel | `#0072B8` | cel de producción (hoja n.º 2) ✅ |
+| Doraemon | nariz, collar y cola | `#E02333` | retrato oficial ✅ |
+| Doraemon | cascabel | `#FCDC2A` | retrato oficial ✅ |
+| Doraemon | cara, barriga, bolsillo | blanco | retrato oficial ✅ |
+| Nobita | camiseta amarilla | `#FDD23C` | retrato oficial 2005 ✅ |
+| Nobita | pantalón corto azul marino | `#2D457C` | retrato oficial 2005 ✅ |
+| Shizuka | top y mangas rosa | `#F29FC2` | retrato oficial 2005 ✅ |
+| Shizuka | **falda granate** (no rosa) | `#B71840` | retrato oficial 2005 ✅ |
+| Suneo | suéter verde azulado | `#27B585` | retrato oficial 2005 ✅ |
+| Gigante | camiseta naranja | `#F08E39` | retrato oficial 2005 ✅ |
+| Gigante | camiseta naranja, en el bosque | `#D78241` | fotograma «Doraemon Nobita and Gian» (hoja n.º 15) ✅ |
+| Dorami | amarillo y lazo rojo | `#F7DB3E` y `#E61737` | **de memoria / paleta de fans** ⚠️: no se midió |
+
+| Personaje | Ropa icónica |
+|---|---|
+| **Doraemon** | no lleva ropa: cuerpo azul, cara y barriga blancas, **nariz roja**, **collar rojo con cascabel amarillo**, **bolsillo blanco de media luna**, **cola roja de bola** ✅ |
+| **Nobita** | **gafas redondas**, camiseta o polo **amarillo**, **pantalón corto azul marino** ✅ |
+| **Shizuka** | **dos coletas cortas**, **top rosa y falda granate** ✅ (corrige «falda rosa, blusa clara») |
+| **Gigante** | camiseta **naranja** ancha, pantalón corto; de béisbol, gorra con **«G»** ✅ |
+| **Suneo** | ropa cara y cambiante, casi siempre **verde azulado**; **pelo en punta** hacia atrás ✅ |
+| **Dorami** | amarilla, **lazo rojo** en la cabeza, bolsillo con **rayas rojas cruzadas**; cola con dibujo de flor ⚠️ (sin verla en imagen) |
+
+**Ojo con dos imágenes mal tituladas en la wiki** ✅ (el investigador de
+imagen las abrió): en «Shizuka and Nobita.jpg» la niña **no es Shizuka** y
+va con falda verde (ropa de gimnasia); en «Suneo and Doraemon.jpg» el niño
+**lleva gafas: es Nobita** con suéter verde menta. No sacar de ahí la ropa
+«icónica».
+
+**Gigante 1973 y 2005**: en el de 1973 la cara es más ovalada y menos
+definida; en 2005, más redonda y con menos púas en el pelo ✅ (hoja
+`objetos_01.jpg`, n.º 57 y 56).
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-### Los sitios, con su luz ⚠️
+### Los sitios, con su luz (segunda pasada: medida)
 
-- **Cuarto de Nobita, tarde**: luz cálida de ventana, tatami verde claro,
-  escritorio de madera, estantería. Es el sitio donde pasa casi todo.
-- **Cajón abierto de noche**: la única luz es el **brillo del túnel del
-  tiempo** saliendo del cajón (en *Stand by Me*, 00:04:46 «¡se abrió!» y
-  00:05:35 sale Doraemon) ✅ el minuto; ⚠️ el color.
-- **Descampado al atardecer**: tuberías grises, hierba, cielo naranja; el
-  sitio de los recitales ✅.
-- **Museo del siglo XXII**: blanco, luminoso, vitrinas ⚠️.
+- **Cuarto de Nobita, de día**: claro, verde tatami y madera: `#C1DBAA`,
+  `#D3B177`, `#E7EBE6`, brillo 81% (fondo oficial) ✅. En 3D, crema
+  `#A09B7F`/`#F9F9E1` (tráiler [0:30](https://www.dailymotion.com/video/x33a56v?t=30)) ✅.
+- **Cuarto de noche**: casi a oscuras, madera `#1C0E05`, **un solo rayo de
+  ventana**, brillo 13% (tráiler [1:00](https://www.dailymotion.com/video/x33a56v?t=60)) ✅.
+- **Cajón abierto de noche**: la luz sale del **túnel del tiempo** (en
+  *Stand by Me*, 00:04:46 «¡se abrió!» y 00:05:35 sale Doraemon) ✅ el
+  minuto. El túnel: azul `#2F4863`/`#3F728B` sobre negro `#0F1113` en el
+  opening ([0:05](https://www.dailymotion.com/video/x8k1ck8?t=5)); espiral
+  blanca con relojes rojos, verdes y amarillos en el fondo oficial ✅.
+- **Descampado de día**: cielo `#E4ECF1`/`#67C3EE`, tierra `#D8D69D`, árbol
+  `#92C064` (fondo oficial) ✅. **De noche, recital**: cielo `#395A81` y
+  focos naranja `#CA5E41` ([0:20](https://www.dailymotion.com/video/x3402n2?t=20)) ✅.
+  El **atardecer** naranja, sin medir ⚠️.
+- **Calle de los Nobi, de día**: setos `#2B4036`, cielo claro `#B4D1C5`
+  (serie clásica, [0:30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30)) ✅.
+- **Museo del siglo XXII**: blanco, luminoso, vitrinas ⚠️ (sin ver).
 
 ### Fondos de pantalla
 
-- **Oficiales**: los 5 fondos para videollamadas (cuarto de Nobita,
-  descampado, túnel del tiempo…) en
+- **Oficiales**: los 5 fondos para videollamadas de
   [dora-world.com/contents/1399](https://dora-world.com/contents/1399) ✅.
-  Tamaño: **no lo sé** ⚠️. Recopilación de fondos de anime para Zoom con
+  **Tamaño medido: 1280×894 a 1280×929** (tabla de §3.0, hoja
+  `fondos_01.jpg`) ✅. Recopilación de fondos de anime para Zoom con
   Doraemon: [Animate Times](https://www.animatetimes.com/news/details.php?id=1587701645).
-- **Página de fondos oficiales**: [dora-world.com/wallpaper](https://dora-world.com/wallpaper).
-- **De fans en alta**: no pude verlos (Pixiv y DeviantArt bloqueados) ⚠️.
+- **Página de fondos oficiales**: [dora-world.com/wallpaper](https://dora-world.com/wallpaper) (tamaños sin ver ⚠️).
+- **De fans en alta** (Wallhaven, sólo aptos; tamaño y ♥ de su API) ✅:
+
+| Tamaño | ♥ | Qué | Autor u origen | Imagen |
+|---|---|---|---|---|
+| 5120×2880 | 16 | **Doraemon, Nobita y Shizuka** juntos, fondo claro | subido por kite16017 | [wallhaven-k8359q](https://w.wallhaven.cc/full/k8/wallhaven-k8359q.jpg) |
+| 3088×4667 | 104 | **Shizuka**, vertical | **Muyuan**, [Bilibili](https://t.bilibili.com/426404335972917520?tab=2) | [wallhaven-9mzwl1](https://w.wallhaven.cc/full/9m/wallhaven-9mzwl1.jpg) |
+| 3840×2160 | 18 | Doraemon, manga, corazón, fondo azul | subido por Rkomy | [wallhaven-1qqxpg](https://w.wallhaven.cc/full/1q/wallhaven-1qqxpg.jpg) |
+| 2400×3597 | 37 | **Tamako**, la mamá de Nobita | [NeoArtCoRe en X](https://x.com/NeoArtCoRe/status/2087914313403265066) | [wallhaven-5ypgv9](https://w.wallhaven.cc/full/5y/wallhaven-5ypgv9.jpg) |
+| 2560×1440 | 184 | escritorio en arte digital (el más guardado; que salga Doraemon, sin comprobar ⚠️) | [John Stone](https://x.com/JohnStone2078) | [wallhaven-wejgqr](https://w.wallhaven.cc/full/we/wallhaven-wejgqr.jpg) |
+| 1920×1080 | 81 | Doraemon en un cuarto de **tatami** | subido por rainrelaxme | [wallhaven-q2zpeq](https://w.wallhaven.cc/full/q2/wallhaven-q2zpeq.jpg) |
+| 1920×1200 | 14 | Doraemon con ratones y figuras, reflejo | subido por whhitlp | [wallhaven-lqqxlq](https://w.wallhaven.cc/full/lq/wallhaven-lqqxlq.jpg) |
+| 1920×1080 | 28 | Doraemon minimalista | subido por 恰好心动 | [wallhaven-l8yl7p](https://w.wallhaven.cc/full/l8/wallhaven-l8yl7p.jpg) |
+| 1920×1080 | 12 | los cinco juntos | subido por Paititi | [wallhaven-qzrz3q](https://w.wallhaven.cc/full/qz/wallhaven-qzrz3q.jpg) |
 
 ---
 
@@ -1180,16 +1517,32 @@ Los **hex** son míos, aproximados ⚠️: comprobar con un fotograma.
   redonda, **seis bigotes** (tres por lado) ⚠️, boca justo debajo de la
   nariz, collar rojo, cascabel amarillo, **bolsillo de media luna**, **manos
   redondas sin dedos** (la Petari Hand ✅), pies blancos que **no tocan del
-  todo el suelo** ✅.
-- Nobita: gafas redondas, pelo negro corto, camiseta amarilla.
-- Dorami: más pequeña, amarilla, lazo rojo.
+  todo el suelo** ✅, y el **«Poko»**, el bultito en la comisura del labio
+  que cambia de lado según el ángulo ✅ ([CGWorld](https://cgworld.jp/interview/1408-sbmd.html)).
+- Nobita: gafas redondas, pelo negro corto con flequillo recto, camiseta
+  amarilla `#FDD23C`, pantalón corto `#2D457C`.
+- Shizuka: dos coletas cortas negras, top rosa `#F29FC2`, falda granate
+  `#B71840`.
+- Gigante: grande, camiseta naranja `#F08E39`; se le ven los dientes (a
+  Nobita y Shizuka no) ✅ (CGWorld).
+- Suneo: bajito, pelo en punta hacia atrás, labio casi de pico, suéter
+  `#27B585` ✅.
+- Dorami: más pequeña, amarilla, lazo rojo, bolsillo con rayas rojas.
+
+**Paleta fija** (medida, §16): azul `#1D99C8`, rojo `#E02333`, amarillo
+`#FCDC2A`, blanco. Fondo de día: `#C1DBAA`, `#D3B177`, `#E7EBE6`, cielo
+`#67C3EE`.
 
 ### Estilo
 
 - **Línea**: negra o marrón oscura, **gruesa y de grosor igual**, curvas
-  suaves, casi sin ángulos.
-- **Color**: **plano**, con **una sola sombra** suave o ninguna. Colores
-  **limpios y alegres**.
+  suaves, casi sin ángulos ✅ (visto en la página de manga
+  [«Gian manga.jpg»](https://static.wikia.nocookie.net/doraemon/images/a/a0/Gian_manga.jpg):
+  sin tramas; sombra con negro plano). En los fondos oficiales la línea es
+  gris verdosa `#7C8B7B`, no negra ✅.
+- **Color**: **plano (cel)**, con **una sola sombra** suave o ninguna ✅
+  (ending y serie clásica medidos). Colores **limpios y alegres**. **No
+  mezclar** con el degradado dramático del 3D de *Stand by Me*.
 - **Luz**: de día, suave; nada de contraluces dramáticos.
 - **Encuadre**: a la altura de los ojos de un niño; planos medios.
 - **Fondos**: más detallados que los personajes, dibujados a mano, como un
@@ -1205,7 +1558,13 @@ three concrete pipes, cheerful, warm afternoon light`
 ### Palabras que lo estropean
 
 `realistic, 3D, glossy, dramatic lighting, dark, horror, cyberpunk, anime
-girl, detailed shading, cat ears` (¡Doraemon no tiene orejas!), `fingers`.
+girl, detailed shading, cat ears` (¡Doraemon no tiene orejas!), `fingers`,
+`screentone`, `halftone` (el manga casi no lleva tramas).
+
+**Etiquetas que entienden las IA de imagen** (las más repetidas en
+Danbooru, §4.3) ✅: Doraemon `bell, red_nose, collar, jingle_bell, whiskers,
+simple_background`; Nobita `glasses, yellow_shirt, blunt_bangs, shorts,
+blue_pants`; Shizuka `twintails, black_hair, skirt, short_twintails`.
 
 ### Qué referencias subir
 
@@ -1214,6 +1573,61 @@ girl, detailed shading, cat ears` (¡Doraemon no tiene orejas!), `fingers`.
 - **Cuarto en 3D (medidas)**: [Sketchfab · Nobita's Room](https://sketchfab.com/3d-models/nobitas-roomdoraemon-3d-model-7ac2289be8be408292b29a06f8f40a71).
 - **Descampado real**: fotos de la Harappa del museo Fujiko
   ([camera10.me](https://camera10.me/blog/photospot/fujiko-museum)).
+- **Estilo de color de los personajes**: el cel de producción (hoja
+  `personajes_01.jpg`, n.º 2) y los retratos oficiales de 2005 (§3.5).
+- **Pose**: Gigante con guitarra (personajes n.º 17), Gigante volando
+  (objetos n.º 76-80), los cinco juntos (objetos n.º 64), el bolsillo y su
+  cartela (objetos n.º 58).
+
+### Vocabulario de expresiones (lo que se ve en las hojas y fotogramas)
+
+- **Boca enorme**: en Doraemon la boca abierta ocupa media cara ✅ (CGWorld;
+  y visto en hoja n.º 5 y en el tráiler 1:00).
+- **Ojos que se cierran del todo**: en Doraemon, hasta «tres rayas» ✅
+  (CGWorld); Gigante canta con los ojos cerrados (recital 0:20) ✅.
+- **Cejas en zigzag** y ojos redondos: miedo o sorpresa (Gigante, 0:10) ✅.
+- **Manos tapando la cara**: llanto (Nobita, «Un mundo sin dinero» 3:00) ✅.
+- **Fondo de rayos de color** detrás del personaje: alegría o el momento
+  del invento (hoja n.º 43 y 58) ✅.
+- **Chibi**: la serie no tiene una versión *chibi* aparte; los personajes
+  ya son cabezones (visto en las hojas). Gotas de sudor y otros signos de
+  manga: no documentados en las partes ⚠️.
+
+### Para una IA de texto: cómo escribir sus diálogos
+
+**Reglas de voz**:
+- **Doraemon**: explica con paciencia y con orgullo de su invento. Suspira
+  antes de ceder: «ay, qué remedio…». Anuncia el invento con «¡Chan!» y el
+  nombre entre corchetes o en mayúscula. Se ríe «nufufu». Regaña corto y
+  claro. Llama a Nobita «Nobita» (en japonés, «Nobita-kun»).
+- **Nobita**: alarga la vocal al gritar («¡Doraemooon!»), pide «¡haz
+  algo!», se enfada en ráfaga («¡Mentira! ¡Vete!»), se ríe tímido
+  («jejeje»).
+- **Gigante**: manda, grita, invita a su manera («¡Oigan!»), anuncia su
+  recital como una estrella.
+- **Suneo**: presume y se queja de lujo («qué cansancio, tres días seguidos
+  de filete»).
+- **Shizuka**: educada, pone orden («¡Paren los dos!»), cuida («¿Estás
+  bien?»).
+- **Puntuación**: ¡…! mucho; repetición para exagerar («¡Imposible,
+  imposible, imposible!»); vocales alargadas; puntos suspensivos al
+  suspirar. Nada de palabrotas ni sarcasmo duro: es una serie familiar.
+
+**Frases reales por emoción** (japonés traducido, con minuto de §2 y §7;
+las marcadas «latino» son textuales del doblaje, §10.6):
+
+| Emoción | Frases |
+|---|---|
+| **Alegre** | «¡Gracias, gracias, Doraemon!» (Nobita, *Stand by Me* 00:42:57) · «¡Qué divertido!» (Shizuka, 00:00:45) · «¡Empieza el recital!» (Gigante, 2006-09-08 · 00:11:29) · «¡Okey!» (Doraemon, 01:02:04) |
+| **Enfadado** | «¡Mentira! ¡Vete!» (Nobita, 00:07:46) · «¡Nobita, qué te crees!» (Gigante, 2006-11-10 · 00:08:58) · «¡Si no puedes cumplir una promesa, no la hagas!» (Doraemon, 01:12:44) · latino: «¡Eso duele! ¿Acaso crees que tengo la cabeza de piedra?» (1:19) |
+| **Explicando** | «Todo lo que había en el cajón lo pasé a este bolsillo de cuatro dimensiones. Aquí cabe de todo» (Doraemon, 00:06:14-00:06:18) · «Ahora te enseño lo que es el siglo XXII» (00:11:26) · «Desde el primer modelo hasta el último, todos están ahí» (museo, 00:09:49) |
+| **Animando** | «¡Chan! Ya puedes estar tranquilo» (Doraemon, 2006-11-10 · 00:16:23) · «Tranquila, tu futuro será brillante» (padre de Shizuka, 01:08:32) · «Para quien fabrica inventos, lo más importante es que le guste fabricarlos» (Pepler, museo 00:55:54) |
+| **Triste** | latino: «Quisiera estar en un pueblo libre donde nadie me molestara y pudiera ser lo que se me antojara» (Nobita, 1:34) · «¡Haz algo, Doraemoon!» (2005-08-05 · 00:10:02) · «¡No está! ¡Me robaron el cascabel!» (Doraemon, museo 00:03:49) |
+
+**Vocabulario de la serie**: bolsillo mágico, inventos o artilugios
+secretos (ひみつ道具), puerta a cualquier lugar, Takecopter, máquina del
+tiempo, Grandes Almacenes del Futuro, Patrulla del Tiempo, dorayaki,
+descampado, recital, «el gato cósmico».
 
 ---
 
