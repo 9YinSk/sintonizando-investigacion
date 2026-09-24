@@ -1859,15 +1859,106 @@ Garou, Dios) **aún no están animadas** (la T3 parte 1 llega al ep. 36).
 
 ## 23 · Fan dubs y comunidad hispana
 
-(pendiente)
+> [!warning] Lo que hay y lo que no
+> **No encontré ningún fandub narrativo** de One Punch Man en español ni
+> covers cantados de sus openings. Se buscó en la API de Dailymotion
+> («one punch man fandub», «Saitama fandub español», «one punch man
+> fandub latino», «one punch man opening cover latino»): sólo salen
+> tráilers y clips originales. **No lo encontré**, no «no existe»: YouTube
+> y TikTok no se pudieron abrir desde aquí.
 
-## 24 · Colaboraciones y cruces
+- **Una posible razón**: el **doblaje oficial** está en Netflix desde 2017
+  y en Crunchyroll desde la T3; hay menos hueco para el fandub que en
+  series sin doblaje ⚠️ (hipótesis, no dato).
+- **TikTok**: hay páginas activas de **«Doblaje Latino One Punch Man»** y
+  de **comparaciones latino contra España** ⚠️ sin vídeos concretos ni
+  vistas.
+- **Medios hispanos del doblaje**: [TierraGamer](https://tierragamer.com/especiales/one-punch-man-actores-doblaje-espanol-latino/)
+  dedica un artículo a quién dobla a quién; [ANMTV](https://www.anmtvla.com/2025/11/one-punch-man-3-temporada-estrenara-su.html?m=1)
+  y [TVLaint](https://www.tvlaint.com/2025/11/one-punch-man-confirma-la-llegada-de-su.html)
+  siguieron el estreno doblado de la T3 ✅.
+- **Cambios de voz en la T3** que el público comentó: King (Palafox →
+  Estrada), Silver Fang (D'Aguillón Jr. → Salvador Delgado) y Garou
+  (Ortiz → Óscar López), por renuncias y fallecimientos (Doblaje Wiki ✅;
+  reacciones ⚠️ sin enlace concreto).
+- **Guiños que el público de doblaje reconoce**: la frase de Freezer de
+  **Gerardo Reyero** en boca de Black Sperm; los actores de **Mob Psycho
+  100** (§10.2) ✅.
+- **Para el servidor** (de doblaje): la escena de Mumen bajo la lluvia y
+  el monólogo de Saitama son buenos **retos de doblaje**; «Everyone's
+  One-Punch Song» (§11.3), un reto de **canto en grupo**.
 
-(pendiente)
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Colaboraciones y cruces ✅
+
+| Qué | Cuándo | Qué trae | Fuentes |
+|---|---|---|---|
+| **Fortnite** | desde el **27-ago-2025** | *skins* de **Saitama, Tatsumaki («Terrible Tornado») y Genos**, con poses 3D nuevas | [esports.gg](https://esports.gg/news/fortnite/one-punch-man-fortnite-collab/), [Dexerto](https://www.dexerto.com/fortnite/one-punch-man-x-fortnite-collab-announced-with-multiple-skins-3242049/) |
+| **Overwatch 2** | 7-mar a 6-abr-2023 | Doomfist → Saitama, Genji → Genos, Kiriko → Tatsumaki y, **gratis, Soldado 76 → Mumen Rider** | [Blizzard](https://news.blizzard.com/en-us/article/23916447/one-punch-man-x-overwatch-2-event), [Hypebeast](https://hypebeast.com/2023/3/one-punch-man-overwatch-2-cosmetics-trailer-info) |
+| **PUBG Mobile** | sep-oct 2026 | seis trajes y el **machete-bolsa del súper** (§13.4) | ANN, Inven Global, cartel |
+| **Exposición del 10.º aniversario** (V-STORAGE, Sunshine 60, Tokio) | 26-jun a 20-jul-2026 | platós del **apartamento** y del **hot pot**, y **cafetería temática** | [V-STORAGE](https://v-storage.jp/anime/opm/275766/), [chirchi.com](https://www.chirchi.com/one-punch-man-celebra-exposicion-inmersiva-tokio/) |
+| **Mob Psycho 100** | — | cameo de Tatsumaki (cap. 8 de Mob); actores latinos compartidos | wiki, Doblaje Wiki |
+
+- **Mumen Rider tuvo su disfraz gratis** en Overwatch 2: el fandom de
+  fuera también lo quiere.
+- ⚠️ **No encontré** cafés de cadena (Animate Café) ni ropa (Uniqlo UT)
+  fuera de la exposición.
+
+### 24.2 Figuras oficiales (su pose es una referencia 3D) ✅
+
+| Figura | Qué trae | Enlace |
+|---|---|---|
+| **Nendoroid Saitama** | **cabeza seria y cabeza despreocupada** y **una bolsa del súper** | [Good Smile](https://www.goodsmile.info/en/product/5303/Nendoroid+Saitama.html) |
+| **Nendoroid Genos Super Movable Edition** | **delantal y escoba** | [Good Smile](https://www.goodsmile.info/en/product/5762/Nendoroid+Genos+Super+Movable+Edition.html) |
+| **figma Genos** | articulada | [Good Smile](https://www.goodsmile.info/en/product/8771/figma+Genos.html) |
+| **Nendoroid Tatsumaki** (100 mm) | — | [Good Smile](https://www.goodsmile.info/en/product/5956/Nendoroid+Tatsumaki.html) |
+| **Tatsumaki 1/8** (230 mm) | **vestido negro al viento** | [Good Smile](https://www.goodsmile.info/en/product/6284/Tatsumaki.html) |
+| **Mumen Rider**, en *16d Collectible Figure Collection Vol. 2* (6 cm) | la única suya que encontré ⚠️ | [Good Smile](https://www.goodsmile.info/en/product/10870/16d+Collectible+Figure+Collection+ONE+PUNCH+MAN+Vol+2.html) |
+
+Fotos con licencia libre de las figuras: [Nendoroid Genos](https://live.staticflickr.com/1617/24847452786_33a13e4254_b.jpg)
+(animaster, CC BY 2.0) y [Nendoroid Saitama](https://live.staticflickr.com/7426/26405622824_1814564678_b.jpg)
+(Clement Soh, CC BY-NC-ND 2.0).
+
+### 24.3 Cosplay bien hecho (materiales y volumen reales)
+
+| Qué | Por qué sirve | Enlace y licencia |
+|---|---|---|
+| **Mumen Rider** (dos fotos) | **armadura con volumen real**, casco y gafas | [foto 1](https://live.staticflickr.com/7557/27907660906_6fb80734fc_b.jpg), [foto 2](https://live.staticflickr.com/7135/27328878363_b140831750_b.jpg), Punapanda, CC BY-NC 2.0 |
+| **Saitama y Metal Bat** | cómo cae el **mono amarillo** y la capa en tela real | [foto](https://live.staticflickr.com/65535/51546747522_0f81f1e512_b.jpg), dcnerd, CC BY-NC-ND 2.0 |
+| **Tatsumaki** | el vestido negro en tela | [foto](https://live.staticflickr.com/4178/33713163683_08f9ac2a31_b.jpg), greyloch, CC BY-NC-ND 2.0 |
+| **Saitama** | cuerpo entero | [foto](https://live.staticflickr.com/65535/52295375083_972365b566_b.jpg), dcnerd, CC BY-NC-ND 2.0 |
+| **Asociación de Héroes** (grupo) | varios trajes juntos | [foto](https://live.staticflickr.com/7887/33253225038_2f91433f2a_b.jpg), dcnerd, CC BY-NC-ND 2.0 |
 
 ## 25 · Obras parecidas y láminas vecinas
 
-(pendiente)
+- **Recomendaciones de AniList**: ***Mob Psycho 100*** con muchísima
+  diferencia (5.142 votos; **del mismo ONE**), luego *MASHLE*, *Saiki K.*,
+  *My Hero Academia*, *Kaiju No. 8*, *Tiger & Bunny*, *JUJUTSU KAISEN*,
+  *Dragon Ball Z*, *Gintama*, *To Be Hero X* ([AniList](https://anilist.co/anime/21087)) ✅.
+- **A quién parodia**: ONE creó a Saitama para parodiar a los guerreros
+  todopoderosos **tipo Goku**, «más fuerte que todos, hasta dar risa»
+  ([Anime Explained](https://www.animeexplained.com/news/interview-with-one-punch-man-author-one-on-his-new-series-versus/),
+  citando *Tokyo Reimei Note*) ⚠️ una fuente.
+- **Murata** cita a **Akira Toriyama** entre sus influencias; sus viñetas
+  favoritas son Goku contra Piccolo y Freezer ([ComicBook.com](https://comicbook.com/anime/news/one-punch-man-saitama-versus-goku-fight/)) ⚠️ una fuente.
+- **El director de la T1**: *Space Dandy* marcó el color y la imagen (§19.2) ✅.
+
+**Láminas vecinas del servidor (para no repetir)**
+
+- ***My Hero Academia*** (25, #material-de-clase): usa el **cuaderno de
+  héroe** y la letra de Deku a mano. **No repetir el cuaderno**: One
+  Punch Man tiene objetos propios (la tele, el volante, el aviso «C»).
+- ***Naruto*** (30) y ***Haikyuu*** (34) piden #reto-de-la-semana
+  (DECISIONES.md): el concepto C entraría como tercera opción.
+- ***Bob Esponja*** (15, #ofertas-y-gratis) ya tiene el tema de las
+  ofertas: el súper de Saitama queda como lámina 2 si el dueño quiere.
+- **#demos** (de *Evangelion*, 16) es el canal de las **fichas de voz**:
+  la ficha de héroe de One Punch Man se usa como rótulo, no como otra
+  ficha de canal.
+- ***Mob Psycho 100*** está en la lista de la biblioteca (MAPA.md): mismo
+  autor y actores latinos compartidos; conviene que sus láminas no usen
+  el mismo objeto.
 
 ## 26 · El mundo y sus símbolos
 
