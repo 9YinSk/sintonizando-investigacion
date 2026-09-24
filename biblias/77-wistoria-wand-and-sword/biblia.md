@@ -886,3 +886,143 @@ Hex **medidos con `estilo.py`** sobre arte oficial (se dice de cuál).
   [wallhaven-l81j1l](https://w.wallhaven.cc/full/l8/wallhaven-l81j1l.png).
 - ⚠️ No hay fondos oficiales para escritorio localizados; el banner de
   AniList (1900×400) es lo más parecido.
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+Todo sale de las secciones de arriba. Úsalo para **poses, fondos o
+escenas de apoyo**; la lámina final se integra a mano (`v3/integrar.py`).
+
+### 17.1 Para una IA de imagen (Firefly, Canva)
+
+**Regla 1**: no escribas el nombre de la serie ni de los personajes;
+**descríbelos**. **Regla 2**: sube como **referencia de estilo** una imagen
+oficial y como **referencia de pose** otra (lista abajo).
+
+**Rasgos que nunca cambian**
+
+| Personaje | Siempre | Nunca |
+|---|---|---|
+| **Will** | chico de 16 años, delgado pero fibroso; pelo **azul marino despeinado con luces cian** y un **ahoge muy largo**; ojos morados; **toga negra con ribete dorado**, camisa blanca, corbata de bolo; **gafas** al cuello; **espada** en la mano | varita encendida, magia saliendo de las manos, armadura, pelo negro puro |
+| **Elfaria** | chica de 16 años; pelo **celeste larguísimo**, **pestañas celestes**, ojos azules; **vestido blanco estilo griego con ribete dorado**, **cristal en forma de diamante** en el pecho, mangas sueltas, guantes largos | ropa oscura, pelo corto (salvo de niña), gesto duro o frío sin motivo |
+| **Sion** | pelo **rojo** peinado a un lado, ojos rojos **de gato** (rasgados), uniforme oscuro, fuego | ojos redondos de cachorro (esos son de Julius) |
+| **Kiki** | pequeño familiar (carbunclo) sobre el hombro de Will | ⚠️ sin descripción de colores en las partes: copiar de `objetos_01` n.º 4 |
+
+**Paleta** (medida, §4 y §15): uniforme **#22212D** + oro **#A48435**;
+Elfaria **#E7EDED** + **#D3B746** + **#B1E3F0**; academia de día **#B7B8B6
+#93C3E4 #688445**; torre **#D8E1E8**; noche de Slumland **#14181C #1C232A**
+con un cálido **#64492B**. Magia por elemento: fuego **#D32E12**, hielo
+celeste, rayo amarillo **#F0D14F**, luz blanca para «Limiter Off».
+
+**Línea y sombreado**:
+- **Anime**: etiqueta `anime_coloring` (cel con 2 tonos y brillos duros);
+  fondos **pintados con degradado**, línea gris **#777D80** en la academia
+  y marrón **#534940** de noche (`estilo.py`).
+- **Manga**: tinta negra dura, **tramas de puntos** en sombras, blanco puro
+  en la luz.
+- **Portadas**: pintura digital con **degradados fríos** y **estelas de
+  velocidad celestes**.
+
+**Luz**: día claro y azulado en la academia; **contraluz** en las peleas
+(T1 0:02); la magia es la luz principal (Wis ilumina la cara desde abajo).
+
+**Encuadre**: **diagonal** (el personaje y la espada cruzan el cuadro), o la
+secuencia del manga: **ojos, manos con espada, plano general**. Picado desde
+abajo para la torre.
+
+**Palabras que ayudan** (en inglés, que es como mejor responden; salen de
+Danbooru y de lo medido):
+- Will: `anime boy, messy navy blue hair, cyan highlights, very long ahoge,
+  purple eyes, black student cloak with gold trim, white shirt, bolo tie,
+  goggles around neck, holding sword, determined expression, dynamic
+  diagonal pose, speed lines`.
+- Elfaria: `anime girl, very long light blue hair, light blue eyelashes,
+  blue eyes, white greco-roman dress, gold trim, diamond-shaped crystal on
+  chest, detached wide sleeves, elbow gloves, serene smile, ice crystals`.
+- Fondo: `white gothic magic academy, tall slender white tower with glowing
+  tip, concentric city walls, green fields, clear blue sky, painted anime
+  background` o, de noche, `narrow medieval alley at night, cold blue
+  shadows, single warm window light`.
+
+**Palabras que lo estropean**: `wizard casting spell`, `wand`, `magic
+hands` (para Will), `black hair`, `armor`, `pastel`, `chibi` (salvo que
+quieras el estilo llavero), `3D render`, `western comic`, `Hogwarts`
+(arrastra a Harry Potter), `speech bubble` (la IA pone la burbuja redonda
+que el dueño odia).
+
+**Imágenes de referencia**:
+- Estilo: [Key visual T1](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/21/Anime_Key_Visual_%281%29.png),
+  [arte de @Wistoria_PR](https://safebooru.org/images/3860/ef7057fa0bb98732edd6ef51a5136c5d61e69b28.jpg),
+  captura de la [Academia](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/ce/Regarden_Magical_Academy_%28Anime%29.png).
+- Pose y ropa: [Will uniforme](https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_1_main.png),
+  [Will mazmorra](https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_1_main2.png),
+  [Elfaria](https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_2_main.png),
+  Elfaria flotando (`personajes_01` n.º 9), grupo (`objetos_01` n.º 4).
+- Manga: [Chapter_10.png](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/20/Chapter_10.png) (globo y trama).
+
+**Vocabulario de expresiones** (lo visto en los tráileres, con su palabra
+para la IA):
+
+| Gesto en la serie | Dónde se vio | Palabras para la IA |
+|---|---|---|
+| Determinación | T1 0:07 | `furrowed brow, intense stare` |
+| Duda, miedo contenido | T2 0:05 | `hand over mouth, worried eyebrows` |
+| Grito de combate | T2 1:02 | `open mouth, shouting, wide eyes` |
+| Llanto | T2 1:11 (Will), T2 0:52 (Lihanna) | `tears, trembling lips` |
+| Límite roto | T2 1:44 | `white hair, glowing white aura, screaming` |
+| Wis cargada | T2 1:32 | `glowing sword, crackling lightning, eyes changing color` |
+| Calma de santa | T1 0:19 | `gentle smile, hands on lap, sitting` |
+| Chibi | llavero oficial, `objetos_01` n.º 6 | `chibi, acrylic keychain style` |
+
+⚠️ **Gotas de sudor y fondos de emoción** (flores, rayas, sombras en la
+frente): **no aparecen en lo reunido**. No inventarlos: si hacen falta,
+mirar un capítulo antes.
+
+### 17.2 Para una IA de texto (diálogos en su voz)
+
+**Cómo hablan**:
+- **Will**: frases **cortas**, amables, sin segundas; elogia sin darse
+  cuenta. Dice «yo» suave (僕). Llama a Elfaria **«Elfie»**. No se
+  defiende de las burlas. En combate **grita corto** y con signos dobles:
+  «¡…!!». Nunca presume.
+- **Elfaria**: dos registros. **Santa** en público: calmada, de mando,
+  pocas palabras. **En privado**, infantil y celosa: «**¡Mentiroso!**»,
+  «**¡Excusas!**», llama «**gatas rompehogares**» a las rivales. Floja: todo
+  lo que no sea Will le da pereza.
+- **Sion**: orgulloso, seco; cuando anima, **grita** («¡Ganbare!» en
+  japonés; en latino ⚠️ sin oír).
+- **Profesores** (Edward, al principio): el sistema habla en frases de
+  ley: «la autoridad es magia, el poder es poder mágico y los héroes son
+  magos» (cap. 1).
+- **Gritos y onomatopeyas**: se escriben **grandes, en vertical o en
+  diagonal, sin globo** (§6). Exagera con signos dobles, no con emojis.
+
+**Frases reales para imitar, por emoción** ⚠️ Son los subtítulos en inglés
+del **tráiler oficial T2**, la wiki y los títulos de clips de Crunchyroll
+LATAM. La traducción al español es **nuestra**, no del doblaje (que no se
+pudo oír). Quién dice cada una en el tráiler no siempre está confirmado.
+
+| Emoción | Frase real (fuente y minuto) | En español (nuestra) |
+|---|---|---|
+| **Animando** | «You already know... The magic that lies inside you!» (T2 1:36) | «Ya lo sabes… la magia que llevas dentro.» |
+| Animando | «Shout it out!» (T2 1:46) | «¡Grítalo!» |
+| Animando | «Come, wield your sword.» (T2 0:08) | «Ven, empuña tu espada.» |
+| **Alegre, asombro** | «Amazing!» (T2 1:32, Lihanna ⚠️) | «¡Increíble!» |
+| Alegre | «¡Ovación de pie para Will!» (título de clip latino) | tal cual |
+| **Explicando** | «If you persevere, there is a power that goes beyond magic» (T2 0:46) | «Si perseveras, hay un poder que va más allá de la magia.» |
+| Explicando | «authority is magic, power is magic power, and heroes are mages» (Edward, cap. 1, wiki) | «La autoridad es magia. El poder es poder mágico. Los héroes son magos.» |
+| **Enfadado, burla** | «Exactly what is a non-magic user to do in the tower, huh?!» (T2 0:36) | «¿Y qué va a hacer en la Torre uno que no sabe magia, eh?!» |
+| Enfadado | «¡Mentiroso!» «¡Excusas!» (Elfaria, wiki) | tal cual |
+| Enfadado, orgullo | «Magic is everything!» (T2 0:18) | «¡La magia lo es todo!» |
+| **Triste** | «If I can't use Magic...» (T2 1:11, Will) | «Si no puedo usar magia…» |
+| Triste | «To someone like me... Magic is...» (T2 0:52, Lihanna ⚠️) | «Para alguien como yo… la magia es…» |
+| **Decidido** | «In this moment, my life... is trivial compared to yours!» (T2 1:01) ⚠️ quién la dice: ver nota | «En este momento, mi vida… no vale nada al lado de la suya.» |
+| Decidido | «Remember your origins! Take back your beginnings!» (T2 0:02-0:05) | «¡Recuerda tu origen! ¡Recupera tu comienzo!» |
+| **Tierno** | «No sabía que algo tan hermoso, podía ser tan mortal» (clip latino) | tal cual |
+
+Nota: la parte de voz atribuye la frase de 1:01 (私の命は貴様らよりも軽い) a
+Will, pero usa 私 y 貴様ら, y Will dice 僕 en el mismo tráiler. **Quién la
+dice queda sin confirmar** ⚠️.
+
+**Vocabulario del mundo** para que suene a la serie: Magia Vander, la
+Torre (Mercedes Caulis), Wis, Praxis, créditos, la mazmorra, piso, Floor
+Keeper, Terminalia, Alto Mago, facción, Celestial Hosts (§25).

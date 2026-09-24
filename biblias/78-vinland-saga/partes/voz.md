@@ -58,6 +58,15 @@ Formato: libreta de datos, un dato por línea, con fuente y ✅/⚠️.
 - **Gudrid**: exploradora, se resiste a los roles de género de su época; es la prometida/esposa histórica de Thorfinn en el arco de Vinland — dato importante que datos-voz.md no traía. ✅ (wiki Personality/Trivia) → https://vinlandsaga.fandom.com/wiki/Gudrid
 - **Snake (Serpiente)**: compasivo con esclavos y libres por igual pero, por su época, sigue viendo la esclavitud como normal; rara vez pierde la calma, salvo cuando matan a su gente. ✅ (wiki Personality)
 
+## Fotogramas mirados (contacto de un plano por corte, `fotogramas.py --cortes`)
+
+Clip «Nadie tiene enemigos» (Facebook, doblaje Netflix, 0:00-2:14), 31 planos, hoja en
+`/tmp/claude-0/trabajo/78-vinland-saga-voz/frames_nadie/hoja_01.jpg` (fuera del repo). Mirada plano a plano:
+- **0:04-0:18** (planos 2-5): Thorfinn niño, ojos grandes, redondos, muy abiertos, mirando fascinado una daga que le regalan — confirma el motivo de «ojos grandes e inocentes» de la infancia (ver punto 12).
+- **0:53-1:52** (planos 12, 19-23): primeros planos muy cerrados de los ojos y cejas de Thors, serio, con la sombra marcada bajo los ojos — tono de padre que regaña con calma, sin gritar.
+- **1:58-2:04** (planos 26-28): un primer plano de una mano herida/con sangre atendida por otra persona y, después, Thors arrodillado despidiéndose de una niña rubia de vestido rojo (por la escena, es Ylva) — escena de despedida antes de que Thors parta a la guerra.
+- **2:10-2:13** (planos 30-31): un mascarón de proa tallado en madera (cabeza de dragón/animal) contra el cielo, y el último plano, Thorfinn niño solo, de espaldas, en un muelle nevado mirando el mar — plano icónico de «se queda mirando cómo se va el barco», el arranque emocional de toda la serie.
+
 ## Punto 12 — Qué ama el fandom y qué NO hacer
 
 ### Lo que el fandom ama (memes, momentos, chistes internos)
