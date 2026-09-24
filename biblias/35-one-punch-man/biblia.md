@@ -172,17 +172,41 @@ está anunciada para **2027** (V-STORAGE, may-2026; [Anime Corner](https://anime
 | 18 | **Garou apalea a Mumen Rider**, que aun así se levanta | T2 | wiki «Garou defeats Mumen Rider» | Mumen otra vez |
 | 19 | **El hot pot** en el apartamento (carne de Kuseno, repollo de Fubuki): todos se lanzan a la olla | manga cap. 90; anime T2 ⚠️ episodio sin comprobar | wiki «Hotpotflyer.png»; plató en la exposición 2026 | reunión, fiesta |
 | 20 | **La redada a la Asociación de Monstruos**: Tatsumaki levanta la base entera | T3 | wiki «Tatsumaki lifts Monster Association base out of ground» (manga) | poder de Tatsumaki |
+| 21 | **El primer entrenamiento de verdad**: Genos pide pelear «en serio», con reglas; Saitama lo esquiva todo, gana tocándole la mejilla («Okay, I win.») y se van a comer udon | **T1-05** (manga cap. 17; [wiki «Saitama vs. Genos»](https://onepunchman.fandom.com/wiki/Saitama_vs._Genos)) ✅ | [copia de AnimeBrawlCollection](https://www.dailymotion.com/video/x8raxsq?start=59): cañón 0:59, «Incinerate!» 2:20-2:23, «Okay, I win.» 2:33, reglas 2:51-3:05, «¡a comer!» 3:30 | secuencia de 4 viñetas: presentar, pelear, ganar, comer |
+| 22 | Fotograma oficial **1080p** de ese combate: Genos dispara con el brazo hecho cañón y Saitama sale volando **sin inmutarse** | T1-05 | [wiki `Genos_vs_Saitama_spar.png`](https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png), 1920×1080 medido | el humor de la serie en una imagen |
+| 23 | **Tráiler oficial de la T3** (Garou): se transforma bajo un **atardecer rojo y rosa**, ojo de Saitama en primer plano, cartela «VS» | T3 (2025) | [Vidaextra en Dailymotion](https://www.dailymotion.com/video/x8tl06u?start=47): logo 0:10, Garou 0:21-0:52, ojo de Saitama 1:15, «VS» 1:34, créditos 1:50 ✅ | paleta propia de la T3 (§5) |
 
 ### 2.2 Tres escenas para cada lámina posible
 
-- **Para un canal de castings o presentaciones** (fichas, rangos, pruebas):
-  el **examen de héroe** (T1-05, el papel «C»), las **fichas del PV3**
-  (0:44-1:45) y Saitama **leyendo su ranking** con disgusto.
-- **Para un canal de ofertas**: el **súper** del PV2 (0:37), la carne
-  rebajada (T1-01) y el grito de «¡la oferta!» (T1-03).
-- **Para un canal de «ánimo» o de retos**: **Mumen Rider bajo la lluvia**
-  (T1-09) con el público gritando «¡tú puedes!».
-- **Para un canal de juegos**: **King y Saitama con la consola** (T2).
+- **Para #en-directo** (la propuesta, §27 A): Saitama **tumbado viendo
+  la tele** (`escenas_01.jpg` #8), la tele «emitiendo» a **Mumen Rider
+  bajo la lluvia** (fila 9) y el **Golpe Serio** (fila 15).
+- **Para 🎲 Juegos**: **King y Saitama con la consola** (fila 16) y el
+  **HUD del juego** de 2020 (§13).
+- **Para #reto-de-la-semana**: **Mumen Rider bajo la lluvia** (fila 9) con
+  el público gritando «Mumen Rider, you can do it!» (4:32).
+- **Para una ficha o un ranking** (lámina 2): el **examen de héroe**
+  (fila 7, el papel «C»), las **fichas del PV3** (0:44-1:45, §7.1) y el
+  registro de héroes de la fila 21.
+- **Para ofertas** (si algún día le toca): el **súper** del PV2 (0:37), la
+  carne rebajada (fila 3) y el grito de «¡la oferta!» (fila 4).
+
+### 2.3 Lo que se dice en los clips que vimos (audio japonés, Whisper)
+
+Ficha minuto a minuto en `partes/episodios.md`. Sirve para la voz de la
+IA de texto (§18.2). Traducción nuestra, ⚠️ Whisper confunde nombres.
+
+| Clip y minuto | Japonés (tal cual) | Qué dice |
+|---|---|---|
+| T1-05, [0:00](https://www.dailymotion.com/video/x8raxsq?t=0) | ヒーロー名簿? … 人気ランキングも登録されたみたいですね。ファンクラブを持つヒーローもいるようです | Genos: además del ranking de fuerza hay **ranking de popularidad**; algunos héroes tienen **club de fans** |
+| T1-05, 0:00 | でも、手合わせって言っても、ガチじゃないんだろ? | Saitama: «Pero es un entrenamiento, no va en serio, ¿no?» |
+| T1-05, [2:00](https://www.dailymotion.com/video/x8raxsq?t=120) | はい、俺の勝ち。 | Saitama: «Listo, gané yo.» |
+| T1-05, 2:00 | 回避可能な攻撃は、ちゃんと回避すること。… 俺が戦闘不能になるまで続けること。 | Genos recita sus **reglas**: esquivar lo esquivable… seguir hasta que no pueda pelear |
+| T1-05, [3:00](https://www.dailymotion.com/video/x8raxsq?t=180) | 飯だ飯。うどん食いに行こうぜ。 | Saitama: «¡A comer! Vamos por udon.» |
+| T1-05, [4:00](https://www.dailymotion.com/video/x8raxsq?t=240) | どうした?うどん嫌いなの? | Saitama: «¿Qué pasa? ¿No te gusta el udon?» |
+| T1-12, [0:00](https://www.dailymotion.com/video/x9b8564?t=0) | 強いよ、お前は | Boros: «Eres fuerte, tú.» |
+| T1-12, [2:00](https://www.dailymotion.com/video/x9b8564?t=120) | もう終わりなのか / 戦いは | Boros: «¿Ya se acabó… la pelea?» |
+| T1-12, [6:00](https://www.dailymotion.com/video/x9b8564?t=360) | だったらこっちも切り札を使うぜ / 必殺マジシリーズ / マジ殴り | Saitama: «Entonces yo también uso mi carta: **serie seria**… **Golpe Serio**.» |
 
 ## 3 · Arte oficial y hojas de contacto
 
