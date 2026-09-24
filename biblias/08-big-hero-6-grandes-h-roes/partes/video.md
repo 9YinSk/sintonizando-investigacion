@@ -225,6 +225,8 @@ no como «película».
 | 3 | Fist Bump ending, 0:21 | de pie, puño extendido hacia Baymax, torso ligeramente inclinado hacia adelante | **celebrar** |
 | 4 | Low Battery, 0:44 | sujeta a Baymax por el brazo intentando llevarlo al cargador | **guiar/ayudar** |
 | 5 | Clímax, 0:56-1:06 | sujeto al brazo del traje morado, cayendo, mirada hacia abajo, cuerpo en tensión | **acción/dramático** (no para #soporte) |
+| 6 | Tráiler latino, 1:14 | de pie ante el mostrador de la comisaría, manos apoyadas y abiertas hacia el policía, hombros caídos | **pedir ayuda / explicar un problema** (muy útil para #soporte: es literalmente Hiro pidiendo ayuda a una autoridad) |
+| 7 | Tráiler latino, 0:48 | sentado en su cuarto, sonrisa tranquila, mirando a Baymax fuera de plano | **contento / de acuerdo** |
 
 **Tadashi**: sigo sin clip propio suyo en Dailymotion/IA con acción clara (el
 storyboard de la escena eliminada lo muestra de espaldas, sin cara). Las
@@ -309,7 +311,9 @@ explícitamente en el punto 14 pero surgió al mirar el vídeo):**
 | 10 · Vídeos | ✅ | Tráiler latino completo visto y desglosado (92 fotogramas, minuto y texto en pantalla), escena eliminada y featurette anotados |
 | 14 · Poses por personaje | ⚠️ | Baymax e Hiro con 5-7 poses reales (fotograma+minuto); Tadashi sigue sin clip propio pese a buscar — queda ⚠️ de memoria, explicado en «No encontré» |
 
-Sigue: nada obligatorio pendiente de mis puntos (2, 4, 9, 10, 14). Si hay más
-presupuesto: buscar un clip propio de Tadashi (sin éxito hasta ahora) y medir
-paleta de 2-3 tomas más de ciudad de día (todas las que medí son de interior
-o de noche/atardecer).
+Parte terminada: los puntos 2, 4, 9, 10 y 14 están completos con vídeo visto
+de verdad (fotograma + minuto), no de memoria. Lo único que sigue ⚠️ es
+Tadashi sin clip propio (buscado y documentado en «No encontré», no es un
+pendiente por falta de trabajo) y la paleta de sitios de día (los medidos
+son de interior, noche y atardecer). Si se relanza esta parte: buscar clip de
+Tadashi con otro nombre de escena y medir 2-3 tomas de ciudad de día.

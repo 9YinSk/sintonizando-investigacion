@@ -1589,31 +1589,203 @@ gimnasio, medalla, Liga Pokémon, Maestro Pokémon, tipo, evolución,
 
 ## P18 · Estilo de dibujo y técnica, y cómo replicarlo
 
-_(pendiente)_
+### Quién lo hace y con qué
+- **Estudio: OLM, Inc.** (Tokio, 1994), el único que ha animado el anime
+  desde 1997 ✅ ([Wikipedia, OLM](https://en.wikipedia.org/wiki/OLM_(studio)),
+  [AWN](https://www.awn.com/animationworld/olm-asia-launches-new-pok-mon-animation-series-help-celsys-clip-studio-paint)).
+- **Celuloide hasta 2002**: a mano sobre acetato hasta *A Crowning
+  Achievement* (temporada 5); desde *Here's Lookin' at You, Elekid!*
+  (agosto de 2002), **todo digital** ✅ (Wikipedia en inglés y
+  [Wikipedia japonesa](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_(%E3%82%A2%E3%83%8B%E3%83%A1)):
+  «2002年8月より…デジタルアニメーション制作に移行»). El capítulo 1, el del
+  laboratorio, **es de celuloide**.
+- **Programas de hoy**: **Toon Boom Storyboard Pro** (guion gráfico) y
+  **Toon Boom Harmony** (clave, intercalado y color), más herramientas
+  propias ✅ ([CGWORLD](https://cgworld.jp/feature/cgw209t1-olm.html),
+  reportaje de *XY&Z*, con cita del productor Katsura: «lo que más
+  importaba era la satisfacción del espectador»). Harmony **separa la
+  línea del color** en capas.
+- **OLM Asia** (Malasia) usa **Clip Studio Paint** para clave y entintado
+  desde diciembre de 2017: más de **300 planos y 4.000-5.000 dibujos por
+  capítulo** ✅ (AWN). Qué entrega exacta: no lo dice ⚠️.
+- **Ken Sugimori** repintó las criaturas **a acuarela** para los juegos,
+  «recio y con sombra ligera» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Ken_Sugimori)).
+  Diseño de personajes del anime: **Sayuri Ichiishi** (punto 2.4).
+
+### Línea y sombreado, medidos
+| Imagen | Sombreado | Línea | Fuente |
+|---|---|---|---|
+| Arte oficial de Pikachu (475×475) | **degradado suave**, aerógrafo en la panza | **`#221B11`**, marrón muy oscuro, **1-2 px** (mediana 1 px) | `estilo.py` + NumPy ✅ |
+| Arte oficial de Charmander | degradado suave | `#3A2F26` | `estilo.py` ✅ |
+| Render HOME de Pikachu (512×512) | plano en orejas, luz 3D en el cuerpo | **sin tinta**; el borde es luz dorada `#D6B748` | `estilo.py` ✅ |
+| **Fotograma del capítulo 1**, Pikachu (≈6:58) | **plano (cel)** | contorno **`#322822`** | `estilo.py` ✅ (segunda pasada, vídeo) |
+| **Fotograma del capítulo 1**, tormenta (≈18:23) | fondo **pintado a mano, degradado** | — | `estilo.py` ✅ |
+
+- **Filtros** (grano, brillo, aberración): **no se encontró** ninguna
+  entrevista que los mencione (búsquedas en inglés y japonés) ⚠️. Lo que
+  hay: los capítulos de Kanto se remasterizaron para el Blu-ray
+  *Champion's Edition* (2017) ✅.
+
+### Encuadres y composición
+- **Presentar**: plano medio con Oak a un lado y el objeto en el centro
+  (Oak entrega la Pokébola, película 00:05:04). **Sorpresa**: primer plano
+  muy cerrado (Ash ve salir la Pokébola del rayo). **Regañar**: plano
+  medio sin acercar; Oak nunca grita. **Explicar**: plano medio con una
+  pausa más larga ⚠️ (análisis con los minutos de un subtítulo, no con
+  fotogramas de la película).
+- En el laboratorio la cámara **corta entre Ash abriendo cada Pokébola
+  vacía y Oak explicando**; casi no comparten plano ancho fijo ✅ (se ve
+  en el capítulo 1, ≈6:03-6:31).
+- La **escena de reacción** (se muestra la cara de los amigos y no el
+  hecho) y el plano/contraplano clásico ⚠️ (análisis del fandom, una
+  fuente).
+
+### Cómo replicarlo en Photoshop
+- **Línea**: pincel de tinta de 2-3 px con presión, color **`#221B11`** o
+  `#3A2F26`, **no negro puro**, en capa Multiplicar.
+- **Estilo juego**: color base plano + aerógrafo muy blando al 20-30 %
+  hacia la sombra, sin bordes duros.
+- **Estilo anime de TV**: base + **una sola sombra plana** con máscara de
+  recorte y pincel de borde firme, Multiplicar al 40-50 %.
+- **Pokébola**: brillo especular estrecho en modo Aclarar sobre la unión
+  roja y blanca y en el botón.
+
+### Cómo replicarlo en Blender
+- **Contorno**: **Solidify invertido** (grosor 0,01-0,02, normales
+  invertidas, *backface culling*) para un borde uniforme; **Freestyle**
+  con el marrón medido si se quiere grosor variable; **Line Art** de
+  Grease Pencil (desde 2.91) si se va a retocar la línea en Photoshop.
+- **Shader cel**: *Shader to RGB* + **ColorRamp en «Constant»**: 2
+  escalones para el anime de TV; 3 escalones suavizados para el arte de
+  los juegos.
+- **Luz**: luz de área cálida de mañana + relleno tenue; para el look de
+  HOME, área grande y suave + un poco de **Fresnel** en el borde.
+- **Modelos con esqueleto** (punto 4): Pikachu de Eleanie, Ash de
+  Neut2000, Oak de lopuh22721, todos CC BY 4.0 ✅. El de Foxrado pesa
+  627.964 caras: **bajar el detalle** antes de renderizar (regla 9 del
+  dueño).
+- **Texturas encima**: algodón CC0 ligero para la bata de Oak; el botón de
+  la Pokébola, material simple con algo de relieve, sin foto.
 
 ---
 
 ## P19 · Texturas 2D
 
-_(pendiente)_
+| Capa | Qué | Enlace y licencia | Estado |
+|---|---|---|---|
+| **Tramas de manga** | los paneles de manga de las hojas (nº6-12 y 35) llevan **trama de puntos** en fondos y sombras | [«[FREE] Manga Screentone Pack 1»](https://assets.clip-studio.com/en-us/detail?id=2142037) y [«Screentone Pack» de Vixial](https://assets.clip-studio.com/en-us/detail?id=1845097), gratis en Clip Studio Assets; para Photoshop, [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) | ✅ trama vista; ⚠️ las licencias de uso final no están claras |
+| **Grano de papel** | etiquetas de cartulina de las Pokébolas (concepto A) | [Paper004](https://ambientcg.com/view?id=Paper004) (y Paper001-006), ambientCG, **CC0** | ✅ |
+| **Cartón kraft** | etiquetas más rugosas | [Cardboard002](https://ambientcg.com/view?id=Cardboard002) (y 001-004), ambientCG, **CC0** | ✅ |
+| **Papel de acuarela** | el arte de los juegos es acuarela | [Public Domain Pictures](https://www.publicdomainpictures.net/en/view-image.php?image=260479&picture=watercolor-paper-texture) (Eman Princess, dominio público); más en [cc0-textures.com](https://cc0-textures.com/) | ✅ licencia; ⚠️ sin enlace directo al archivo |
+| **Tela de la ropa** | la ropa de Ash **no lleva estampado**: colores lisos | sólo grano de tela lisa | ✅ visto en hojas y render |
+| **Medallas** | las 8 de Sinnoh y las 8 de Hoenn | [Sinnoh](https://static.wikia.nocookie.net/pokemon/images/5/58/Sinnoh_Badges.png) 1437×804 · [Hoenn](https://static.wikia.nocookie.net/pokemon/images/9/9b/Hoenn_Badges.png) 2147×1597 (API de la wiki) | ✅ |
+| **Logo** | «Pokémon The Series» | [PNG oficial](https://static.wikia.nocookie.net/pokemon/images/0/0f/Pok%C3%A9mon_the_Series_logo_English.png) 1189×518; [SVG](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg) | ✅ |
+| **Emblema del Equipo Rocket** | **R roja** de 1997 a *Diamante y Perla*; desde *Blanco y Negro*, **R morada en 3D** (la roja sigue en merchandising) | [Pokémon Wiki](https://pokemon.fandom.com/wiki/Team_Rocket), [Wikipedia](https://en.wikipedia.org/wiki/Team_Rocket) | ✅ dato; ⚠️ sin PNG oficial suelto |
+| **Pokébola** | círculo rojo y blanco, franja negra, botón blanco | los modelos 3D del punto 4 | ✅ |
+
+Con el 3D (punto 4) y las texturas reales (punto 5.4) no falta ninguna
+capa: madera (Poly Haven), pintura blanca, papel, cartón, tramas, tela.
 
 ---
 
 ## P20 · Gustos y detalles de cada personaje
 
-_(pendiente)_
+Sale de las fichas de **Bulbapedia** (API, «Character» y «Trivia»), la
+Pokédex oficial en español y AniList. **El anime no publica fichas con
+cumpleaños ni comida favorita** para los humanos, como sí hacen otras
+series con *databooks*.
+
+| Personaje | Gustos y detalles | Fuente |
+|---|---|---|
+| **Ash** | mide **unos 140 cm** ✅ ([web oficial japonesa del Pokémon Day, archivada](https://web.archive.org/web/20210219050737/https://pokemonday.pokemon.co.jp/tips/065/), vía [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum)); diseñado por **Atsuko Nishida**, la de Pikachu ✅; movimiento favorito, **Impactrueno** (lo dice en XY025) ✅; **sabe dibujar** (un Dewgong en DP089) y **trepa** bien ✅; quería a **Squirtle** ✅; siempre tiene 10 años ✅ | Bulbapedia |
+| **Misty** | título japonés **«おてんば人魚»** («la sirena traviesa») ✅; en Amarillo su frase de combate es su muletilla del anime, **«¡Vamos, mi constancia!»** (いくわよ！マーイステディ！) ✅; **teme a los Pokémon Bicho** ✅; colecciona Pokémon de agua, pesca y quiere ser la mejor maestra de tipo Agua ✅ | [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Misty), TV Tropes, AniList |
+| **Brock** | busca fósiles en el Monte Moon, **cocina** para gente y Pokémon, pesca, **cose** y limpia ✅; quiere ser **Criador Pokémon** ✅; **se enamora a primera vista** y lo sacan de la oreja ✅ | [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Brock_(anime)) |
+| **Jessie** | le encantan los Pokémon **veneno y serpiente** (Arbok, Seviper) ✅; **vanidosa**; **odia que la llamen vieja** ✅; quiere ser **Coordinadora** ✅; rival de **Cassidy** ✅ | [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jessie) |
+| **James** | **colecciona chapas de botella** ✅; familia rica; huyó de un matrimonio arreglado con **Jessebelle** ✅; siempre lo estafa **el vendedor de Magikarp** ✅; le gustan los refrescos ✅; se disfraza de Joy, Jenny y hasta de Oak ✅ | [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/James) |
+| **Meowth** | aprendió a **hablar y andar a dos patas** por amor a una Meowth ✅ | Bulbapedia, Pokémon Wiki |
+| **Oak** | escribe **senryū** y publicó un libro de poemas ✅; se ve «**demasiado viejo**» para su sueño de la Pokédex completa ✅ | Bulbapedia, TV Tropes, Rojo Fuego |
+| **Pikachu** | le encanta el **kétchup** ✅; duerme en el hombro o la cabeza de Ash y **odia la Pokébola** ✅; rechazó evolucionar con la Piedra Trueno ⚠️ (una fuente, TV Tropes) | TV Tropes, Pokémon Wiki |
+| **Delia** | pendiente de que Ash **coma** («tendré tu almuerzo listo en un minuto») ✅ | muestra de Doblaje Wiki |
+
+⚠️ **No existen o no se encontraron**: cumpleaños, comida y color favorito
+oficiales de Ash, Misty y Brock. Un buscador dio para Ash «22 de mayo,
+1,65 m, 54 kg, verde oscuro, básquetbol»: **no sale en ninguna fuente
+primaria** y choca con los 140 cm oficiales. **No usarlo.**
 
 ---
 
 ## P21 · Por qué la gente la ama
 
-_(pendiente)_
+**Razones concretas**
+- **Votos**: en la votación mundial oficial de 2020 ganó **Greninja**, no
+  Pikachu (19.º) ✅ (punto 9). El cariño al elenco original de Kanto es,
+  sobre todo, **nostalgia**, muy fuerte en Latinoamérica.
+- **En Latinoamérica se quiere al actor tanto como al personaje**: miles
+  de mensajes a **Gabo Ramos** cuando dejó a Ash (2009) y cuando terminó
+  su historia (2023) ✅ (Infobae, La República). Es un dato **de
+  doblaje**: justo el tema del servidor.
+- **Cada país tiene su Pokémon**: Chikorita en México y Perú, Vaporeon en
+  Argentina y Colombia, Abra en Ecuador ⚠️ (un estudio de búsquedas en
+  Google).
+- Según la prensa en español, la saga sigue gustando por **su música**, el
+  **salto fiel del juego al anime** y el diseño «adorable pero con chispa»
+  de Pikachu ⚠️ (una fuente, [Nintenderos](https://www.nintenderos.com/2023/02/saga-de-pokemon-26-anos-despues/)).
+- Ventas y premios del anime: **no se juntaron** en esta pasada ⚠️.
+- **Con quién se identifica el público**: con **Ash**, el niño que llega
+  tarde y aun así se queda con el mejor compañero; y en AniList, casi
+  igual, con **James** (punto 9).
+
+**Las escenas que hacen llorar, reír o gritar**
+| Escena | Qué pasa y por qué duele | Cómo está hecha | Reacción |
+|---|---|---|---|
+| **Los Spearow y Ho-Oh**, capítulo 1, **≈17:16-19:58** ✅ (vista) | Pikachu, herido, sigue sin querer la Pokébola; Ash **se pone delante de la bandada** con los brazos abiertos para protegerlo. Ahí nace la amistad | **lluvia**, noche de tormenta con azules `#222D35`-`#324B65`, **Ash de espaldas a contraluz**, luego **arcoíris** y un ave dorada | la escena más citada del anime (Bulbapedia EP001) |
+| **«Pikachu's Goodbye»**, capítulo 39 (Japón 16-abr-1998) ✅ | Ash deja que Pikachu se quede con una manada salvaje por su bien; Pikachu, **llorando, elige volver** con él | suena **«The Time Has Come (Pikachu's Goodbye)»** en el montaje final | entre las primeras de las listas de «momentos más tristes»: [SYFY](https://www.syfy.com/syfy-wire/the-10-saddest-moments-in-pokemon-history-ranked), [CBR](https://www.cbr.com/saddest-pokemon-episodes-worse-as-adult/) |
+| **La despedida de Butterfree** (temporada 1) ✅ | Ash libera a su Butterfree para que se vaya con la bandada y con una Butterfree rosa | — | de las más citadas en listas y en Reddit |
+| **El abrazo chamuscado**, capítulo 1, **≈7:18** ✅ (visto) | Ash abraza a Pikachu aunque le dé descargas | los dos **echando humo**, Oak serio detrás | risa |
+
+- ⚠️ El capítulo 39 y el de Butterfree **no se vieron** (no están en
+  Dailymotion ni en Internet Archive con audio latino): el resumen sale de
+  Bulbapedia y de la prensa; falta su minuto.
+- **Reddit** (r/pokemon, por Arctic Shift): «[Probably the saddest
+  episode](https://reddit.com/r/pokemon/comments/nvc3vu/probably_the_saddest_episode/)»
+  tiene **513 votos** y «[Episode 18 is the saddest](https://reddit.com/r/pokemon/comments/fjo027/episode_18_is_the_saddest/)»
+  **195** ✅. Ese «18» no se sabe a qué capítulo se refiere ⚠️.
 
 ---
 
 ## P22 · Fan dubs y comunidad hispana
 
-_(pendiente)_
+**Covers y fandubs de openings en español**
+- *«Pokémon XY & Z Opening Fandub Español Latino»*, de **Homero Lezama y
+  Yeke**, con instrumental en [SoundCloud](https://soundcloud.com/lezzamamusic/pokemon-xy-z-opening-instrumental-cover-by-katz-yeke) ✅.
+- *«Pokémon XY Opening 1 (Español Latino Fandub)»*, canal **V Volt**
+  ([YouTube](https://www.youtube.com/watch?v=A_MfEZ3COBc)) ✅.
+- En Dailymotion, el usuario **feRz28** resube en HD los openings latinos
+  («Atrápalos Ya», «Liga Naranja», OP18) ✅ (`datos-voz.md`).
+- Vistas de los vídeos de YouTube: **no se pudieron sacar** (YouTube pide
+  iniciar sesión) ⚠️.
+
+**Fandubs de escenas y parodias**
+- 🔞 **«Pikamon (Pokémon Parody) [Spanish Fandub]»** (canal Allred Nicole,
+  Dailymotion): oído entero con `voz.py`. Es **para adultos** (lenguaje
+  explícito y chistes sexuales). **No se cita ni se enlaza en la lámina
+  pública.** Se anota sólo porque el punto 22 pide saber qué hay.
+- Otros fandubs encontrados, **sin ver su contenido** ⚠️: «Pokémon
+  PARECIDOS a Humanos Fandub Español Latino» (BrokenMOJO), «Pokémon First
+  Movie Fandub» (carmen1994able), «Pokemon CASTIGADA! Fandub Latino». Hay
+  que verlos antes de proponer ninguno.
+
+**Memes y comunidad**
+- El **lema del Equipo Rocket** es lo más repetido del TikTok hispano:
+  compilados de frases y homenajes al trío original (canal **Doblaje a la
+  Mexicana**) ✅.
+- **Latino contra España**: el reparto castellano es otro (**Amparo
+  Valencia**, **Iván Jara**, **José Escobosa**) ✅ (TikTok y AniList); y el
+  vocabulario también: «Pokébola» contra «Poké Ball».
+- Los **actores latinos** comparten sus momentos: Gabo Ramos y Pepe Toño
+  Macías en TikTok (punto 12).
+- Para un servidor de doblaje: **las anécdotas del casting** (punto 10.2)
+  y **el capítulo 18 doblado** son el material más propio.
 
 ---
 
