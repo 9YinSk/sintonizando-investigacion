@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/digimon/images/5/59/Digimon_Adventure_Logo.png/revision/latest?cb=20141213225046",
+    "fuente": "Digimon Wiki (Fandom), API con Referer: https://www.fandom.com/",
+    "ancho": 512,
+    "alto": 195,
+    "que_es": "Logo japonés oficial de デジモンアドベンチャー con degradado amarillo-naranja y contorno azul dentado",
+    "para_que": "paleta de logo medida (#FAD30A, #EA6F0B, #1164A7) y forma de letra para el punto 5 (tipografía)",
+    "licencia": "© Toei Animation / Bandai; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/digimon/images/5/5c/LOGODIGIMON.jpg/revision/latest?cb=20080227233316",
+    "fuente": "Digimon Wiki (Fandom)",
+    "ancho": 269,
+    "alto": 143,
+    "que_es": "Logo internacional en parche circular «DIGIMON DIGITAL MONSTERS» (EE. UU., 1999)",
+    "para_que": "referencia de letra condensada itálica gruesa para el wordmark en español",
+    "licencia": "© Bandai/Saban/Fox Kids; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/digimon/images/f/f2/TanemonAnalyzer.jpg/revision/latest?cb=20091229024613",
+    "fuente": "Digimon Wiki (Fandom), página Digimon Analyzer",
+    "ancho": 300,
+    "alto": 240,
+    "que_es": "Captura del primer Digimon Analyzer de Digimon Adventure (Tanemon), rejilla negra + etiqueta verde",
+    "para_que": "referencia de interfaz/cuadro de datos en pantalla para el punto 6 (cómo hablan/piensan) y 11",
+    "licencia": "© Toei Animation; captura de emisión, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/digimon/images/5/52/Magnaangemon.jpg/revision/latest?cb=20091229025009",
+    "fuente": "Digimon Wiki (Fandom), página Digimon Analyzer",
+    "ancho": 300,
+    "alto": 240,
+    "que_es": "Captura del segundo Digimon Analyzer (MagnaAngemon), fondo negro con ticker rojo en bucle",
+    "para_que": "referencia de interfaz upgradeada, paleta marrón/beige/rojo medida",
+    "licencia": "© Toei Animation; captura de emisión, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/digimon-world-play-station-pal-gameplay-full-demostration/Digimon%20World%20PlayStation%20PAL%20Gameplay%20%28Full%20Demostration%29.mp4&t=167",
+    "fuente": "Internet Archive (vídeo de demostración de la cinta, sacado con fotogramas.py)",
+    "ancho": 1280,
+    "alto": 960,
+    "que_es": "Fotograma con la caja de diálogo real de Digimon World (PS1, 1999): fondo azul-petróleo translúcido, nombre en amarillo-verde, texto blanco pixelado",
+    "para_que": "referencia principal y más citable para el punto 6 (cuadro de diálogo propio de la franquicia, sin burbuja blanca) y punto 11",
+    "licencia": "© Bandai; grabación de gameplay subida a Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/digimon-world-play-station-pal-gameplay-full-demostration/Digimon%20World%20PlayStation%20PAL%20Gameplay%20%28Full%20Demostration%29.mp4&t=157",
+    "fuente": "Internet Archive (vídeo de demostración de la cinta, sacado con fotogramas.py)",
+    "ancho": 1280,
+    "alto": 960,
+    "que_es": "Fotograma del menú principal de Digimon World (PS1): rejilla verde estilo wireframe con opciones New/Continue/Delete/Battle Mode",
+    "para_que": "referencia de interfaz de menú digital/wireframe para el punto 11",
+    "licencia": "© Bandai; grabación de gameplay subida a Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871980/ss_c893c6fe0bab058e3365e424b92afbebeff660b5.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/871980, API appdetails)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Digimon Survive: cuadro de diálogo sin caja, texto blanco sobre la escena, nombre + línea fina",
+    "para_que": "referencia clave para el punto 6 (cuadro de diálogo sin burbuja blanca) y punto 11 (interfaz de videojuego actual)",
+    "licencia": "© Bandai Namco / Witch Craft; captura oficial de tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871980/ss_9e339ca540a05de07e53037c54864ed8a42bd11e.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/871980, API appdetails)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Digimon Survive: pantalla de decisión con pastillas alargadas y flechas de dirección",
+    "para_que": "referencia de UI de elección de diálogo para el punto 6 y 11",
+    "licencia": "© Bandai Namco / Witch Craft; captura oficial de tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1042550/ss_b85abb30e749ea91b3f3827b895e0cea2b063d78.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/1042550, API appdetails)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Digimon Story: Cyber Sleuth con HUD de batalla holográfico azul cian y banner de técnica",
+    "para_que": "referencia de interfaz de videojuego (punto 11), paleta azul cian medida",
+    "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530160/ss_fe455bbe5e3d876be318b7941a0e90ad75f74c9c.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/1530160, API appdetails)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Digimon World: Next Order, batalla en arena de baldosas hexagonales con barras de vida flotantes",
+    "para_que": "referencia de interfaz de videojuego (punto 11)",
+    "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_e119215706a1b0469c756c0ec2148d09777e447c.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/1984270, API appdetails)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Digimon Story: Time Stranger, HUD verde neón tipo mira/escáner",
+    "para_que": "referencia de interfaz de videojuego (punto 11)",
+    "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Anton",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Anton, condensada y muy gruesa; trae á/é/í/ó/ú/ñ/Ñ/¿/¡",
+    "para_que": "letra libre para el logo/título (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Bangers, letra de cómic dinámica; trae todos los caracteres españoles",
+    "para_que": "letra libre para gritos y onomatopeyas (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Baloo+2",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Baloo 2, redondeada amigable; trae todos los caracteres españoles",
+    "para_que": "letra libre para el globo de diálogo normal (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Press+Start+2P",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Press Start 2P, pixel font 8-16 bit; trae todos los caracteres españoles",
+    "para_que": "letra libre para interfaz de videojuego (punto 5 y 11), coincide con el estilo de Digimon World PS1",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Permanent+Marker",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Permanent Marker, imita rotulador grueso a mano; trae todos los caracteres españoles",
+    "para_que": "letra libre para carteles del Digital World / File City (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Patrick+Hand",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Patrick Hand, trazo suave a mano; trae todos los caracteres españoles",
+    "para_que": "letra libre para pensamiento (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Luckiest+Guy",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Luckiest Guy, cómic muy grueso; trae todos los caracteres españoles",
+    "para_que": "letra libre para onomatopeyas de impacto (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Nunito",
+    "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Nunito, sans-serif redondeada limpia; trae todos los caracteres españoles",
+    "para_que": "letra libre para subtítulos o créditos (punto 5)",
+    "licencia": "SIL Open Font License 1.1, libre"
+  },
+  {
+    "url": "https://www.dafont.com/digimon-world-ds.font",
+    "fuente": "dafont.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente fan-made «Digimon World DS» que imita el logo pixelado; FALLA la comprobación con fontTools (sin tildes/ñ/¿/¡)",
+    "para_que": "advertencia: no usar para texto en español, sólo serviría para el wordmark «DIGIMON» suelto",
+    "licencia": "100% gratis (dafont), sólo caracteres ASCII"
+  }
+]

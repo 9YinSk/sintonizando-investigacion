@@ -138,6 +138,273 @@ todas las letras muestran bien «¡BANGERS! ñoño áéíóú ¿Qué?».
   opciones neutras y una **pastilla verde clara resaltada** para la opción de
   más «Empatía» en ese momento. Fotograma propio (`survive_2.jpg`). ✅
 
+## Punto 11 · Videojuegos de la franquicia
+
+- **Búsqueda en Steam falló con «Digimon Adventure»** (0 resultados: el juego de
+  PS1 no está en Steam, y el buscador de la tienda no encuentra por nombre de
+  serie de anime). Con sólo «Digimon» sí aparecen 10 juegos activos hoy. ✅
+  (nota para el equipo: `datos-texto.md` quedó con la sección de Steam vacía
+  por esto; ya está resuelto aquí).
+
+**Digimon World (1999, PS1, Bandai)** — el juego más importante de la
+franquicia por antigüedad e influencia (empezó en Japón antes que el anime).
+Fotogramas propios sacados con `fotogramas.py` de un vídeo de gameplay del
+Internet Archive (identificador `digimon-world-play-station-pal-gameplay-full-demostration`,
+sin voces ni subtítulos añadidos, es la demo de la propia cinta):
+- **Menú principal**: rejilla verde estilo *wireframe* «Tron» sobre fondo
+  negro, con el logo DIGIMON abajo; opciones «New Game / Continue Game /
+  Delete Game / Battle Mode» en texto blanco de pixel, la opción activa
+  resaltada en un rectángulo azul oscuro semitransparente. Fotograma propio,
+  minuto 2:37 del vídeo. ✅
+- **Caja de diálogo** (la más citable para la lámina): rectángulo oscuro
+  **azul-gris petróleo translúcido** (medido con `estilo.py` sobre el
+  fotograma del minuto 2:47: fondo de la caja ronda `#39464B`, borde fino
+  **turquesa/cian** más claro que el fondo, ambos sobre negro puro detrás),
+  el **nombre de quien habla en amarillo-verdoso** arriba a la izquierda con
+  una rayita subrayando, el texto en **blanco** debajo en tipografía de
+  píxel (mayúsculas y minúsculas), y un icono pequeño (parece un símbolo
+  circular) abajo a la derecha de la caja que probablemente indica «seguir».
+  El personaje (Jijimon) aparece pequeño, iluminado, sobre fondo negro total
+  — no hay escenario detrás, sólo negro. Fotograma propio,
+  `dworld_hi/fotograma_00167.jpg`. ✅
+- **Pantalla de nombre**: al crear partida, un teclado en pantalla completo
+  (A-Z mayúsculas y minúsculas más números) dentro de una caja con el mismo
+  estilo azul-petróleo, con la letra seleccionada resaltada en un recuadro;
+  debajo, dos cajas separadas muestran «Your name» y «Digimon's name» a
+  medida que se escriben. Fotograma propio, minutos 3:15-3:51. ✅
+- Estas cajas son la referencia más «de juego clásico» para el punto 6: caja
+  oscura semitransparente + nombre en color vivo arriba + texto claro debajo,
+  MUY distinta de una burbuja blanca de cómic.
+
+**Juegos actuales en venta (Steam, capturas oficiales 1920×1080, medidas con
+`estilo.py`)**:
+- **Digimon Story: Cyber Sleuth – Complete Edition** (Bandai Namco, PC 2019,
+  original PSVita/PS4 2015): ambientado en Tokio y un «EDEN» ciberespacio.
+  Batallas por turnos con **HUD holográfico azul cian** (paleta medida:
+  azul oscuro `#182B49` 33%, azul grisáceo `#6B799B`, celeste `#72B0D5`,
+  celeste muy claro `#CBE1F3`, azul intenso `#1C5AA3`). El nombre de la
+  técnica usada aparece en un **banner horizontal con doble filete azul**
+  arriba al centro (ej. «Omni Sword»), y las fichas de cada Digimon (abajo)
+  llevan icono redondo + nombre + barras de HP/SP verdes y cian dentro de un
+  marco azul con esquinas en bisel. A la derecha, retratos apilados en
+  cápsulas con borde cian muestran el orden de turno («Player Turn»). ✅
+- **Digimon World: Next Order** (Bandai Namco, PC/PS4/Switch, original
+  PSVita 2016): combate por turnos en una arena con **suelo de baldosas
+  hexagonales**; las barras de vida de los enemigos son pequeñas etiquetas
+  flotantes con una letra (R, L, LY) + barra cian o rosa sobre la cabeza de
+  cada Digimon, sin caja de fondo — sólo la barra flotando en el aire con una
+  rayita fina que la conecta al personaje. Paleta medida (gris pizarra
+  `#8A8A8F`, gris cálido `#9F989B`, celeste pálido `#D7E9F1`): tonos apagados,
+  casi monocromos, muy distinto del azul cian saturado de Cyber Sleuth. ✅
+- **Digimon Survive** (Bandai Namco / Witch Craft, 2022, novela visual +
+  táctico): ver punto 6 — su caja de diálogo (sin fondo, sólo texto blanco
+  sobre la escena) y sus **decisiones en pastillas alargadas** con iconos de
+  dirección son la referencia más moderna y más «sin burbuja blanca» de toda
+  la franquicia. Idiomas con interfaz en español latino confirmados en la
+  ficha de Steam («Spanish - Latin America»). ✅
+- **Digimon Story: Time Stranger** (Bandai Namco, 2025): mezcla Shinjuku
+  moderno con paisajes del Digital World flotando sobre el mar; HUD de
+  objetivo **verde neón** con círculos concéntricos tipo mira táctica /
+  escáner (parecido a una interfaz de hackeo). También con español
+  latinoamericano en Steam. ✅
+- Las tres fichas de Steam comprobadas dan **idioma español latino** con
+  interfaz completa en Next Order, Survive y Time Stranger — útil si el canal
+  quiere citar «así se ve el juego en español». Cyber Sleuth sólo trae textos
+  en inglés/alemán/japonés/coreano/chino, sin español. ✅ (fuente:
+  `store.steampowered.com/api/appdetails`, campo `supported_languages`).
+
+**El Digimon Analyzer** (ver punto 6) es en sí mismo la «caja de datos de
+videojuego» de la serie animada: aunque *Adventure* es anime, su ficha de
+Digimon imita exactamente la pantalla de estadísticas de un juego de rol,
+con recuadros de datos y nivel — herencia directa de que el propio Digimon
+nació como un juguete electrónico (virtual pet) antes que como anime (ver
+punto 25).
+
+**The Cutting Room Floor (contenido descartado de los juegos)**: ⚠️ no se
+pudo consultar. `tcrf.net` devuelve **403 (reto de Cloudflare "Just a
+moment...")** tanto por la API (`action=query`) como por la página directa
+(`/Digimon_World`), y la copia de Wayback Machine también falló (la conexión
+se cortó a medio intercambio, ver bitácora de red — proxy compartido con
+otros ayudantes del equipo). Se intentaron las 2 vías que permite AYUDANTE.md
+y no se insistió más. Si otro ayudante tiene margen, vale la pena reintentar
+`https://tcrf.net/Digimon_World` y `https://tcrf.net/Digimon_World:_Digital_Card_Battle`
+más tarde, cuando baje el tráfico compartido.
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**Diseño de personajes y criaturas** (Kenji Watanabe, diseñador original de
+los Digimon desde 1997) — entrevista traducida por digi-lab.blog («Digimon
+Continues to be Loved Thanks to its Creator's Commitment»): ✅
+- Watanabe se inspiró en **cómics infantiles americanos**, algo poco común en
+  el Japón de los 90; sus primeras propuestas «monas» fueron rechazadas por
+  parecerse demasiado a personajes ya existentes.
+- Su filosofía: **«dibujar cosas familiares»**, no criaturas abstractas —
+  cita textual: *"Son Monstruos Digitales, pero también quiero que la gente
+  sienta que existen de verdad"*. Por eso añade detalles de ropa reales
+  (bolsillos, cinturones, cremalleras): le interesa el diseño de moda.
+  Los ojos de los Digimon imitan ojos de animal (con mirada ambigua, no
+  siempre mirando directo a cámara) para dar naturalidad.
+- **Principio clave para replicar**: cada Digimon se reconoce **en silueta
+  negra pura**, sin color ni detalle interno — es el primer filtro de diseño
+  de Watanabe. Para un dibujante o una IA de imagen, esto significa: la
+  forma general (contorno) importa más que el color a la hora de que un
+  personaje sea reconocible.
+- Colores **vivos y nítidos** (no pasteles) para diferenciarlos de otras
+  franquicias de monstruos de la época.
+
+**Animación (estudio y técnica de producción)**:
+- *Digimon Adventure* se emitió del 7 de marzo de 1999 al 26 de marzo de
+  2000 en Fuji TV, producida por **Toei Animation**, dirigida por **Hiroyuki
+  Kakudou**. ✅ (wikitext de la wiki + Wikipedia, dos fuentes).
+- Toei introdujo el sistema de **entintado y coloreado 100% digital
+  Celsys RETAS! (RETAS PRO)** en 1996, y completó la digitalización total de
+  su departamento de acabado (ink & paint) en **abril de 1999** — es decir,
+  *Digimon Adventure* empezó a emitirse (marzo de 1999) justo en el momento
+  en que Toei pasaba de pintar celuloide físico a pintar digital en sus
+  series de TV (las películas siguieron en celuloide físico hasta 2000).
+  Fuente: artículo de la época citado en la búsqueda (Anime News
+  Network/industria, 1999). ✅ Esto explica el look: **línea negra dibujada a
+  mano, pero coloreada en capas planas digitales (cel-shading clásico, sin
+  degradados de pincel)**, con sombreado plano de una sola tonalidad más
+  oscura por zona (nunca gradientes suaves).
+- Las **secuencias de digivolución y la cabecera** llevaban CGI 3D temprano;
+  el propio director Kakudou las hacía él mismo con ordenadores «muy lentos
+  para la época» — cita suya (Digimon Series Memorial Book, vía
+  digi-lab.blog): *"Al principio las hacía todas yo mismo. Las máquinas que
+  usábamos eran muy lentas, y pensé que me iba a morir"* — dice que dormía
+  una hora al día durante los dos primeros meses de emisión. **Ni la primera
+  ni la segunda temporada tuvieron presupuesto dedicado a CGI**: era trabajo
+  extra del propio director. Sólo con *Tamers* (tercera serie) el estudio
+  asignó recursos propios al 3D. ✅
+- **Para replicar en Blender**: el CGI de digivolución de 1999 es tosco a
+  propósito (polígonos simples, texturas planas, cámara girando rápido
+  alrededor del Digimon envuelto en luz) — un *toon shader* con muy poca
+  subdivisión y un contorno grueso con **Freestyle** o el modificador
+  **Solidify invertido** (normales hacia dentro, material negro) imita bien
+  ese look noventero sin parecer un render moderno «demasiado limpio». Para
+  las partes 2D (cara, expresiones, cartelas): **Line Art** de Grease Pencil
+  sobre un modelo simple, con sombreado en 2 tonos (luz/sombra, sin
+  intermedios) y contorno negro constante de 2-3 px.
+- **Para replicar en Photoshop**: capas de color plano (sin degradados) con
+  modo *Multiply* para las sombras en un tono más oscuro del mismo color
+  (nunca gris ni negro puro), contorno con el pincel a mano alzada grueso y
+  ligeramente irregular (no vectorial perfecto) para imitar el entintado
+  digital de 1999 (que venía de un dibujo a mano escaneado, no de un vector).
+  Un filtro de grano fino y una viñeta suave en las esquinas ayudan a imitar
+  el aspecto de una captura de TV de la época (menor resolución, algo de
+  ruido de compresión de vídeo VHS/DVD).
+- **Encuadres típicos**: el Analyzer y las peleas usan mucho el **plano
+  contrapicado** para los Digimon grandes (dar sensación de tamaño/poder) y
+  el primer plano cerrado en la cara para el miedo o la sorpresa de los
+  niños (ver punto 13 del investigador de voz, que documenta caras por
+  emoción con minuto).
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+- **Lista oficial de similares** (AniList, ya en `datos-texto.md`, votos de
+  usuarios): Pokémon (79 votos), Digimon Tamers (50), Digimon Frontier (29),
+  Yu-Gi-Oh! (21), Monster Rancher (19), Medabots (12), Dinosaur King (12),
+  Beyblade (8). Todas comparten el formato «niño + criatura compañera que
+  se transforma/evoluciona». ✅
+- **La comparación obligada es con Pokémon** (ambas de 1999 en Occidente,
+  ambas de Bandai/Nintendo respectivamente): la diferencia que más cita el
+  fandom es que los Digimon **hablan y razonan** (son personajes con diálogo
+  propio desde el principio, no criaturas mudas que sólo dicen su nombre) y
+  que digivolucionan **temporalmente según el vínculo emocional del niño**,
+  no de forma permanente por subir de nivel. Esto es información de
+  conocimiento general del fandom, marcado ⚠️ por no tener una única fuente
+  citable con cifras — pero se confirma indirectamente en el wikitext de
+  Digivolution («la Digivolución canaliza la energía emocional del
+  DigiDestined»). Antes de asumirlo como definitivo en la biblia final,
+  contrastar con una reseña o entrevista si el redactor tiene margen.
+- **Origen compartido con Tamagotchi**: el nombre de guionista colectivo
+  «Akiyoshi Hongo» (acreditado como creador de Digimon) es un seudónimo que
+  incluye a **Aki Maita**, co-creadora del Tamagotchi original, junto con
+  Hiroshi Izawa (autor del manga V-Tamer 01) y Takeichi Hongo (marketing de
+  Bandai). Fuente: búsqueda web, con referencia cruzada en
+  digimon.fandom.com/wiki/Akiyoshi_Hongo. ✅ Esto sitúa a Digimon dentro del
+  linaje de las **mascotas virtuales de bolsillo** (Tamagotchi, 1996) más que
+  como respuesta directa a Pokémon — importante para la guía de estilo del
+  punto 17: el ADN de Digimon es «criar y cuidar», no sólo «coleccionar y
+  entrenar».
+- **TV Tropes**: ⚠️ no se pudo consultar directamente. `tvtropes.org`
+  devuelve el mismo reto de Cloudflare 403 que TCRF, probado por curl directo
+  y por WebFetch (2 intentos, ninguno pasó). Pendiente para quien tenga
+  acceso sin este bloqueo compartido.
+- **Qué otras láminas del servidor se parecerían**: no hay todavía láminas
+  hechas de Pokémon, Yu-Gi-Oh! ni Beyblade en el servidor (revisar
+  `servidor/inventario.md` — no aparecen como canales existentes), así que
+  no hay riesgo de repetir ideas visuales por ahora. ✅ (comprobado contra el
+  inventario completo del servidor, sección Redactor debería confirmar en
+  el momento de escribir si esto sigue así).
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** (wikitext de `Digital World`, dos fuentes: la
+página del Digital World y la página principal de Digimon Adventure): ✅
+1. El **Digital World** es un universo paralelo hecho de datos, nacido de las
+   redes de telecomunicaciones de la Tierra (según el lore extendido de la
+   franquicia, sus «cimientos» se remontan a los primeros ordenadores).
+2. Copia la geografía de la Tierra (continentes, islas, desiertos, mares) pero
+   es **maleable**: un ejército puede levantar una montaña gigante en
+   segundos o desmenuzar una isla, porque todo es dato modificable.
+3. Sus habitantes dominantes son los **Digimon**, criaturas de datos
+   conscientes; pueden cruzar al Mundo Real por portales/agujeros de
+   gusano, casi siempre por accidente o por invasión.
+4. Casi nadie en la Tierra sabe que el Digital World existe; los únicos
+   humanos que lo conocen programaron parte de él o fueron convocados por un
+   Digimon.
+5. Está ligado al inconsciente colectivo humano: a veces los Digimon
+   manifiestan formas inspiradas en el folclore humano (yōkai y similares).
+
+**La historia por arcos** (54 episodios, confirmado con dos fuentes
+independientes: wikitext de la wiki + resumen cruzado de foros/prensa del
+fandom en inglés): ✅
+1. **Arco de la Isla File** (ep. 1-13): siete niños de campamento de verano
+   son transportados al Digital World con sus Digivices; conocen a sus
+   Digimon compañeros; se enfrentan a Devimon.
+2. **Arco de Etemon** (ep. 14-20): cruzan al Continente Server huyendo de
+   Etemon mientras encuentran sus Emblemas (Crests) uno a uno; termina con
+   la derrota de Etemon (Andromon ayuda).
+3. **Arco de Myotismon** (ep. 21-39, el más largo): Myotismon invade la
+   Tierra por Odaiba; aparece la octava niña elegida, **Kari**, hermana de
+   Tai, con Gatomon como compañera y el Emblema de la Luz; termina con la
+   derrota de VenomMyotismon.
+4. **Arco de los Amos Oscuros** (ep. 40-53): de vuelta al Digital World, los
+   ocho derrotan uno a uno a los cuatro Amos Oscuros (Mega): MetalSeadramon,
+   Puppetmon, Machinedramon y Piedmon (Monzaemon/otros varían según fuente).
+5. **Arco final, Apocalymon** (ep. 54): revelan que Apocalymon es quien creó
+   a todos los villanos anteriores a partir del odio de los Digimon
+   destruidos; lo derrotan y los niños vuelven a la Tierra sin sus
+   compañeros (hasta 02).
+
+**Vocabulario propio** (wikitext de `Digivolution`, términos japoneses
+confirmados): ✅
+- **Digivolución** (進化, *Shinka*, lit. «evolución»): niveles **Fresh
+  (幼年期I) → In-Training (幼年期II) → Rookie/Novato (成長期) → Champion/Campeón
+  (成熟期) → Ultimate/Máximo (完全体, lit. «forma perfecta») → Mega (究極体,
+  lit. «forma definitiva»)**.
+- **DigiDestined** / Niños Elegido: los siete (luego ocho) protagonistas.
+- **Digivice**: el aparato que canaliza la energía emocional del niño para
+  la digivolución (ver `partes/datos-texto.md` para su lore técnico
+  completo, ya recolectado).
+- **Emblemas/Crests** (紋章, *Monshou*): los 9 símbolos de virtud —
+  **Valor** (sol estilizado, Tai), **Amistad** (yin-yang en un ojo, Matt),
+  **Amor** (corazón estilizado, Sora), **Sinceridad/Pureza** (lágrima,
+  Mimi), **Conocimiento** (gafas con un cristal más grande, Izzy),
+  **Fiabilidad/Sinceridad** (cruz con cuatro triángulos, Joe), **Esperanza**
+  (estrella fugaz, T.K.) y **Luz** (estrella estilizada, Kari). Cada uno se
+  guarda en una **Etiqueta** (Tag), colgante que se lleva al cuello.
+  Fuente: wikitext de `Crests` (una por una, con su cita de episodio). ✅
+- **Digital World / Mundo Digital**, **Mundo Real**, **Continente Server**,
+  **Isla File**, **Montaña Espiral** (Spiral Mountain, guarida final).
+- **DigiCore**: núcleo de datos vital de un Digimon (usado por Azulongmon
+  para restaurar poderes).
+- Estos términos son el «vocabulario que un fan reconoce al instante» que
+  pide el punto 25: cualquier lámina puede citar «Digivolución», «Emblema
+  de…» o «Niño Elegido» con seguridad de que el público de la serie los
+  identifica.
+
 ## Bitácora (parcial, sigue)
 
 - Wiki `digimon.fandom.com` vía `action=parse&prop=wikitext`: Crests, Digivice,
