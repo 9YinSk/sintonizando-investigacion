@@ -1803,6 +1803,137 @@ hispana larga** (tipo sketch): no la encontré ⚠️ (dos búsquedas, TikTok y
 YouTube). El propio doblaje mete guiños latinos: «Con permisito, dijo
 Ginrito» (Don Ramón) y «como en Minecraft» ⚠️ (§10.3).
 
+## 18.6 · Colaboraciones y cruces (2.ª pasada)
+
+Punto 23 del encargo. Su arte trae **ropa y poses nuevas**.
+
+**Cafés temáticos en Japón**
+
+| Café | Fechas | Arte nuevo | Fuente |
+|---|---|---|---|
+| **AMO CAFE**, cafetería retro de los 60-70 (Ikebukuro, Namba) | 12-sep a 7-oct-2025 | Estilo *kissaten* | [collabo-cafe](https://collabo-cafe.com/events/collabo/dr-stone-amo-cafe-tokyo-osaka-2025/) ✅ |
+| **NATSLIVE «Christmas Party»** (Tokio, Nagoya, Osaka) | 5 a 24-dic-2025 | **Ropa navideña** | [collabo-cafe](https://collabo-cafe.com/events/collabo/dr-stone-natslive-cafe2025/) + X ✅ |
+| **«Bar Francois»** | 19-mar a 9-abr-2026 | Todos **de etiqueta**, François de barman | [X](https://x.com/weretigers/status/1895490016245383491) ⚠️ una fuente |
+| **mixx garden «holiday picnic»** (Tokio, Osaka) | 15-may a 14-jun-2026 | **Picnic** al aire libre | [collabo-cafe](https://collabo-cafe.com/events/collabo/dr-stone-holiday-picnic-cafe-mixx-garden-2026/) + mixxgarden ✅ |
+| **Circo** (Animate Cafe Stand Ikebukuro) | 2 a 28-jul-2026 | Todos como **troupe de circo** | [Essential Japan](https://essential-japan.com/news/new-dr-stone-collaboration-cafe-offers-fans-circus-inspired-drinks-food-and-collectibles/) ⚠️ una fuente |
+
+Todos en [collabo-cafe, categoría Dr. STONE](https://collabo-cafe.com/events/category/dr-stone/).
+
+**Marcas y museos**
+
+- **Lawson Store 100** (20-ago a 9-sep-2025, 634 tiendas): **Senku, Gen,
+  Suika, Kohaku, Ryusui y Ginro con el uniforme de Lawson**, tradicional y
+  moderno: ropa que no sale en ningún otro sitio ✅ ([Essential Japan](https://essential-japan.com/news/a-new-dr-stone-collab-is-coming-to-convenience-store-chain-lawson/),
+  [X](https://x.com/weretigers/status/1952052749425602937)).
+- **Space Travelium TeNQ**, «ROAD TO THE MOON» (18-jul a 18-oct-2026):
+  café temático y **una grabación de voz exclusiva del actor de Senku** ✅
+  ([Have a Good Holiday](https://www.haveagood-holiday.com/en/articles/dr-stone-tenq-road-to-the-moon-exhibition)).
+- **Museo Nacional de Naturaleza y Ciencia** (Ueno): exposición sobre la
+  ciencia de Dr. STONE ⚠️ ([una fuente](https://home.ueno.kokosil.net/en/archives/65547)).
+- **Mecha Senku** como mascota física en AnimeJapan ✅ (§7.1).
+
+**Figuras oficiales** (pose en 3D real)
+
+- **Nendoroid Senku** (nº1262, Good Smile): tres caras y objetos hechos a
+  mano: tarro de barro, botella de medicina, algodón de azúcar ✅ ([Good Smile](https://www.goodsmile.info/en/product/9106/Nendoroid+Senku+Ishigami.html)).
+  **Cómo sostiene un invento**: referencia directa para #hardware.
+- **POP UP PARADE Senku** (Good Smile), más grande, sin piezas ✅ ([Good
+  Smile](https://www.goodsmile.info/en/product/9900/POP+UP+PARADE+Senku+Ishigami.html)).
+
+**Cosplay**: el de Senku de §4.4 (materiales reales) ✅.
+
+**Cruces con otros juegos o gachas** (tipo Fortnite): **no los encontré**
+⚠️ (dos búsquedas). No es «no existe».
+
+## 18.7 · Obras parecidas y temas relacionados (2.ª pasada)
+
+Punto 24 del encargo.
+
+- **Recomendadas por los usuarios de AniList**: *Ascendance of a
+  Bookworm*, *That Time I Got Reincarnated as a Slime*, *Astra Lost in
+  Space*, *Cells at Work!*, *Food Wars!*, *7SEEDS* ✅.
+- Webs de recomendación que coinciden: *7SEEDS* y *Uninhabited Planet
+  Survive!* (supervivencia en grupo tras una catástrofe), *Made in Abyss*
+  (exploración con meta) ✅ ([Anime Corner](https://animecorner.me/five-anime-to-watch-if-you-like-dr-stone/),
+  [Dualshockers](https://www.dualshockers.com/best-anime-like-dr-stone/)).
+- **Dr. Stone contra *Cells at Work!***: los dos grandes del «anime que
+  enseña» ✅ ([CBR](https://www.cbr.com/dr-stone-vs-cells-at-work-best-educational-anime/)).
+- **Influencias del guionista, Riichiro Inagaki**: Senku bebe de **Agon
+  Kongo**, el genio arrogante de su *Eyeshield 21* ✅ (Wikipedia +
+  reseñas). *Video Girl Ai* como influencia de tono ⚠️ (una fuente, sin
+  la cita original).
+- **TV Tropes**: Senku es «**For Science!**»; Senku y Taiju, «**Brains
+  and Brawn**» ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Characters/DrStone)).
+- **Otras láminas del servidor**: se revisaron los encargos de
+  `encargos/` buscando hardware, laboratorio, ciencia, construir,
+  inventar, fabricar. **Ningún otro canal es #hardware** y **ninguna otra
+  biblia tiene el tema laboratorio o invento** ✅. Lo más cercano,
+  *Cyberpunk Edgerunners* (27) y *Cyberpunk 2077* (114): tecnología urbana
+  y neón, lo contrario de este taller de piedra. No hay riesgo de repetir.
+
+## 18.8 · El mundo, la historia y sus símbolos (2.ª pasada)
+
+Punto 25 del encargo. De la wiki ([Stone World](https://dr-stone.fandom.com/wiki/Stone_World),
+[Petrification](https://dr-stone.fandom.com/wiki/Petrification),
+[Kingdom of Science](https://dr-stone.fandom.com/wiki/Kingdom_of_Science),
+[Story Arcs](https://dr-stone.fandom.com/wiki/Story_Arcs)) y Wikipedia ✅.
+
+**Las reglas en cinco líneas**
+
+1. Un destello **petrifica a toda la humanidad** (y a las golondrinas) de
+   golpe, en lo que sería 2019.
+2. La piedra **no envejece**: quien despierta tiene el mismo cuerpo y la
+   misma mente de hace 3.700 años.
+3. Sólo el **fluido de revivificación** (ácido nítrico y alcohol) rompe la
+   piedra, persona a persona.
+4. La naturaleza siguió: **3.700 años de bosques y animales sin humanos**.
+   Hay que rehacer la civilización desde cero.
+5. Hay un arma de petrificación **deliberada** (Ibara, Why-Man): la gran
+   pregunta es quién y por qué.
+
+**La historia por sagas**
+
+| Saga | Capítulos | Qué pasa |
+|---|---|---|
+| **Prólogo** | 1-12 | Senku y Taiju despiertan; Tsukasa quiere revivir sólo a los jóvenes «puros» |
+| **Aldea Ishigami** | 13-45 | Senku se gana a la aldea, cura a Ruri y funda **el Reino de la Ciencia** con Chrome, Kaseki, Kohaku y Suika. Aquí se hace **el móvil** |
+| **Guerra de las piedras** (*Stone Wars*) | 46-82 | Reino de la Ciencia contra el Imperio de Tsukasa; acaba en **alianza**, no en conquista |
+| **Origen de la petrificación** | 83-212 | El barco **Perseus**, la Isla del Tesoro (Ibara), América (Stanley, Xeno, Corn City) |
+| **De la piedra al espacio** | 213-232 | El cohete, los astronautas, **la Luna** y Why-Man. Kohaku es la primera en pisarla |
+
+**Momentos clave**: la fundación del Reino de la Ciencia (cap. 15), la
+alianza al final de la guerra (cap. ~80), Byakuya estaba en la Estación
+Espacial durante la petrificación (1×24), y el capítulo final «Dr. STONE»
+(232) ✅.
+
+**Emblemas**
+
+- **Bandera del Reino de la Ciencia**: **un cohete entre dos estrellas**;
+  se iza en la torre de radio de la Isla del Tesoro ✅ (texto de la wiki).
+  **El dibujo exacto** (colores, proporciones) **no se confirmó** en una
+  imagen oficial ⚠️: Commons dio error 429 y las de DeviantArt son de fans.
+- **El Imperio de Tsukasa no tiene bandera** documentada ⚠️: **sólo la
+  ciencia tiene emblema**. Buen argumento para la lámina.
+- **«SENKU7»** rotulado en el cohete (cap. 216) ✅.
+- **Las monedas Drago** (§3.3) ✅.
+
+**Vocabulario que un fan reconoce al instante**
+
+| Término | Japonés | Qué es |
+|---|---|---|
+| **Stone World** | ストーンワールド | El mundo sin gente |
+| **Fluido de revivificación** | 復活の秘薬 | Lo que rompe la piedra |
+| **Reino de la Ciencia** | 科学の王国 | El bando de Senku |
+| **Imperio de Tsukasa** (de la Fuerza) | — | El bando de la fuerza |
+| **Perseus** | — | El barco |
+| **Why-Man** | — | Quien petrificó el mundo («why», por qué) |
+| **Corn City**, **Superalloy City** | — | Las ciudades nuevas de América |
+| **10 mil millones por ciento** | 100億% | «Totalmente seguro» |
+| **¡…, listo!** | クリア | Pieza terminada |
+| **Hoja de ruta** | ロードマップ | El plan hasta el invento |
+| **Drago** | ドラゴ | La moneda |
+| **Mecha Senku** | メカ千空 | El robot que explica |
+
 ---
 ## 19 · Tres conceptos para la lámina de #hardware
 
@@ -1811,6 +1942,12 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 sólo «¡Qué malote!» y «10 mil millones por ciento». Recortes siempre por
 `v3/integrar.py` y comprobados a 1:1. **Ninguna mano sin apoyo**: cada
 personaje toca algo visible.
+
+**2.ª pasada**: los tres conceptos siguen, pero ahora con **imágenes
+vistas** en vez de memoria. Cambia el aspecto del laboratorio (piedra,
+no sólo madera), el estilo de la hoja de ruta (árbol de videojuego), la
+pose de Senku (vista en vídeo), los colores (medidos) y los precios de B
+(monedas Drago). Lo nuevo va en cada concepto como «2.ª pasada».
 
 ### Concepto A — «¡Micrófono, listo!» (Senku en el laboratorio)
 
@@ -1848,6 +1985,25 @@ personaje toca algo visible.
   plano**, brillando naranja; la bobina corta el borde de abajo; **luz de
   horno** por la izquierda, **azul de nieve** por la ventana; destellos en
   los cristales; la sombra de Senku cae sobre la hoja de ruta.
+- **2.ª pasada**:
+  - **El sitio, visto** ([1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013)): **muros de piedra
+    apilada**, estantes de madera con **tinajas de barro**, cortina de
+    tela en la puerta, vidrio verde en la mesa. Paleta medida: grises
+    piedra `#B0B1A2` `#848276` `#6E695E`, claro `#EAE2D3`; el calor, del
+    fuego. Textura de muro: [Rock Cliff, CC0](https://polyhaven.com/a/rock_cliff_large_02).
+  - **La pose**: mejor la **vista** de [1×23, 21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264):
+    **cuentagotas en una mano y el vaso en la otra**, cejas fruncidas,
+    abrigo de piel (es invierno, cuadra con el ep. 23). Para la cara, la
+    **sonrisa ladeada** de [1×19, 20:42](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1242). Colores de §16:
+    pelo `#5D906A`, ojos `#59050F`.
+  - **La hoja de ruta** con el estilo real: **nodos redondos** con el
+    material (como [1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267)), **flechas-tubo gruesas con
+    trama de puntos** y un **«START!»** con rayos de velocidad al principio
+    y **«GOAL»** en la última caja (como el [roadmap del cohete](https://static.wikia.nocookie.net/dr-stone/images/8/89/Roadmap_Senku_Spaceship.png)).
+  - **Los cristales**: piedritas transparentes **en un vaso** (así salen
+    en [1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189)), no sueltas.
+  - **Referencias de hoja**: `arte_01` nº1 (estilo), `vestuario_01` nº225
+    (cara de Senku), `settei_01` nº247 (cómo cae la sombra).
 - **Lámina 2**: el mismo tablón en grande, con **tres columnas de la hoja
   de ruta** (Qué es, Cuánto cuesta, Qué opinas) y **las 12 etiquetas como
   etiquetas de madera** colgadas de clavos. **Mecha Senku** en la esquina
@@ -1894,6 +2050,25 @@ personaje toca algo visible.
   **como sellos** junto al cuaderno: **Lo tengo y lo recomiendo**, **No lo
   compres**, **Alternativa barata** (esta última con Suika y la radio sin
   pilas).
+- **2.ª pasada**:
+  - **Los precios, en monedas Drago**: la serie tiene **cuatro monedas
+    acuñadas** ([Drago_Coins.png](https://static.wikia.nocookie.net/dr-stone/images/4/4c/Drago_Coins.png)), y el canal
+    **cuatro rangos**. Cada rango, **una moneda de relieve** con orla de
+    perlitas y trama de puntos, colgada de su objeto: la pequeña para
+    **Menos de 50**, la grande de dos cabezas para **Más de 400**. Se
+    modelan en Blender (relieve, metal gastado). Encaja con el chiste de
+    la serie: el dinero vale lo que su metal.
+  - **Gen**: su pose sigue sin fotograma ⚠️. Usar su tarjeta de *Battle
+    Craft* (`settei_01` nº260) y su retrato (`vestuario_01` nº228) para la
+    cara. Que lleve **la baraja** en la mano libre, apoyada en el
+    mostrador (su objeto de siempre). Nada de alcohol a la vista: **una
+    botella de cola** si hace falta un gesto.
+  - **Ryusui**: la pose vista del tráiler, **puño en alto** ([0:27](https://www.dailymotion.com/video/x8bnxd8?t=27)),
+    pequeño al fondo junto a la moneda de «Más de 400».
+  - **La pizarra del test**: si se quiere algo más «de juego», la caja de
+    *Battle Craft* (bisel, borde cian `#7EB6DF`, relleno `#21403D`, nombre
+    en etiqueta aparte, §7.4) sirve para **las etiquetas A, B, C, D**.
+    Queda más frío que la madera: probar las dos.
 
 ### Concepto C — «La primera llamada» (Chrome y Suika)
 
@@ -1922,6 +2097,18 @@ personaje toca algo visible.
 - **Para que no quede plano**: **el cable cruza en diagonal por delante**,
   desenfocado; copos de nieve; **el vaho** de Chrome al gritar; luz cálida
   saliendo de la puerta del almacén detrás.
+- **2.ª pasada**:
+  - **Otro sitio real, visto**: **la torre-vigía** con **la bocina de
+    cobre** en lo alto de un árbol enorme ([1×24, 2:17](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137)).
+    El cable puede bajar de la torre a la caja de Chrome. Paleta medida:
+    `#393934` `#595D5B` `#A3CAEB` `#D0E8F2` (bosque y cielo claro). Es de
+    día: si se usa, la escena pasa de la noche nevada al día.
+  - **La reacción**: **Ruri** asombrada en primer plano ([1×24, 4:34](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=274)),
+    a quien Chrome le grita «¡La ciencia es la bomba!». Pone la cara de
+    quien lee la reseña.
+  - **Ropa**: todos con **abrigo de piel con ribete** (visto en 1×23 y
+    1×24). Camisa de Chrome `#245E6B` asomando; poncho de Suika `#373C42`,
+    casco `#B4C856`.
 
 ### ¿Cuál primero?
 
@@ -1930,6 +2117,10 @@ Senku fabrica un micrófono de verdad** (1×23) y el laboratorio es el sitio
 más reconocible. **B** para la lámina 2: el mostrador con precios es justo
 lo que hacen las etiquetas, y lo presenta **Gen, el más querido**. C es la
 alternativa si el dueño prefiere una escena exterior.
+
+**2.ª pasada**: se mantiene el orden. A gana más con lo visto: el
+laboratorio y la hoja de ruta ya tienen imagen real, y la pose del
+cuentagotas es de vídeo. B mejora con las monedas Drago.
 
 ---
 
