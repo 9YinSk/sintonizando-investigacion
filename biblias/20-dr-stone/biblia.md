@@ -8,30 +8,37 @@ fecha: 2026-09-24
 # Biblia · Dr. Stone — para #hardware
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (también la wiki de
->   Dr. Stone y Doblaje Wiki), Crunchyroll, ANMTV, wdnes, anime-colors,
->   dr-stone.jp, Sketchfab, Poly Haven, AniList, MyAnimeList, YouTube y
->   todos los servidores de imágenes daban **403 o no respondían**. Por eso
->   **no se pudo correr** `herramientas/investigar_serie.py`: **no hay hojas
->   de contacto** ni carpeta `hojas/`. Ninguna imagen está descargada:
->   todo lo visual va con enlace y ⚠️.
-> - Hice **48 búsquedas web** en español, inglés, japonés, chino y coreano
->   (la lista está al final, en la bitácora).
-> - GitHub sí respondía. De ahí sale lo más útil del trabajo: **los
->   subtítulos japoneses de Netflix de TODA la serie** (95 episodios, con
->   el nombre de quien habla y las acotaciones de sonido) del repositorio
->   [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv).
->   Con ellos doy **el minuto de cada escena**. Es el minuto del archivo de
->   Netflix: puede moverse uno o dos minutos en Crunchyroll.
-> - También bajé de [google/fonts](https://github.com/google/fonts) las
->   letras propuestas y comprobé una a una, con fontTools, si traen
->   á é í ó ú ñ ¿ ¡.
-> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
->   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
->   siempre va marcado.
-> - Las traducciones de los subtítulos son **mías**, no del doblaje
->   latino. Las frases latinas comprobadas están en §10.
-
+> - **Primera pasada** (24-sep-2026, mañana): red cerrada. Sólo buscador
+>   (48 búsquedas en español, inglés, japonés, chino y coreano) y GitHub.
+>   De ahí salen **los subtítulos japoneses de Netflix de toda la serie**
+>   ([Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv)),
+>   con el nombre de quien habla: dan el minuto de cada escena en formato
+>   `00:19:25`. Es el minuto del archivo de Netflix: puede moverse uno o dos
+>   minutos en Crunchyroll.
+> - **Segunda pasada** (24-sep-2026, tarde): **red abierta**, con el
+>   método de equipo (`EQUIPO.md`): el recolector gratuito
+>   (`herramientas/recolectar.py`: AniList, Doblaje Wiki, Fandom, Wallhaven,
+>   Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam,
+>   Reddit) y cuatro investigadores (imagen, vídeo, voz, texto). Sus notas
+>   están en `partes/`. Lo nuevo de esta pasada va marcado **«2.ª pasada»**.
+> - **Qué se pudo usar ahora**: la API de la wiki de Dr. Stone (tamaños
+>   reales de cada imagen), **3 hojas de contacto** en `hojas/`, la API de
+>   Doblaje Wiki (reparto completo), la API de Sketchfab (licencias), la de
+>   ambientCG (texturas CC0), Arctic Shift (Reddit) y **vídeos mirados de
+>   verdad** con `fotogramas.py`: el opening 1 sin créditos en 1080p, cinco
+>   tráileres oficiales (Dailymotion) y cuatro episodios de la temporada 1
+>   (Internet Archive). Los minutos de esos vídeos van en formato `16:53` y
+>   con enlace `?t=`.
+> - **Colores medidos** con `herramientas/estilo.py` y Pillow sobre
+>   fotogramas y hojas de modelo oficiales (dice de cuál en cada tabla).
+>   Voces medidas con `herramientas/voz.py` sobre muestras de Doblaje Wiki.
+> - **Lo que siguió cerrado**: YouTube pide iniciar sesión desde este
+>   servidor (los clips doblados oficiales no se pudieron bajar otra vez),
+>   dr-stone.jp da 403, TikTok no sirve los vídeos, AnimeThemes caído.
+> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto, o
+>   se vio en el fotograma. ⚠️ **dudoso**: una sola fuente, o de memoria.
+> - Las traducciones de los subtítulos japoneses son **mías**, no del
+>   doblaje latino. Las frases latinas comprobadas están en §10.
 ---
 
 ## 0 · El canal y lo que tiene que decir
