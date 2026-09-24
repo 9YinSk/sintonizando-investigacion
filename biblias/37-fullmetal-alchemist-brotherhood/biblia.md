@@ -953,7 +953,69 @@ acuarela**, naranja y mostaza, casi sin línea negra ✅.
 
 ## 12 · Vídeos y tendencias
 
-(pendiente)
+### 12.1 Oficiales (mirados, no sólo por el título)
+
+- **Tráiler de la OVA Collection** (FUNimation, 2013), 1920×1080, 58 s ✅ ·
+  [Internet Archive](https://archive.org/details/turner_video_134431). Lo
+  mejor: Hughes con la pistola [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24),
+  Ed sonriendo [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47),
+  el gag de la llave [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54).
+- **Blooper reel del vol. 5** (FUNimation), 7:33 ✅ ·
+  [Internet Archive](https://archive.org/details/turner_video_11409). Lo
+  presenta **Mike McFarland**, director de doblaje y voz de Havoc
+  ([0:00](https://archive.org/download/turner_video_11409/11409.mp4?t=0)):
+  tomas falsas del doblaje inglés sobre metraje real. Interesa a un canal
+  de doblaje: se oye cómo se equivocan y se ríen en la cabina
+  ([1:00](https://archive.org/download/turner_video_11409/11409.mp4?t=60)-[7:00](https://archive.org/download/turner_video_11409/11409.mp4?t=420),
+  transcrito en `partes/episodios.md`). ⚠️ Tiene palabrotas en inglés.
+- **Dynit** (Italia), evento de cine con los caps. 59-64 (17, 18 y 19 de
+  noviembre; el 17 en japonés, 18-19 doblado) ✅ ·
+  [Dailymotion `x9rfq9q`](https://www.dailymotion.com/video/x9rfq9q).
+- **Vidaextra**, tráiler con subtítulos en español, 20 303 vistas ✅ ·
+  [Dailymotion `x8rhg1x`](https://www.dailymotion.com/video/x8rhg1x) (§2.4).
+- **Tráiler de Cartoon Network / Toonami (2009)** ⚠️ ·
+  [Internet Archive `turner_video_11408`](https://archive.org/details/turner_video_11408):
+  sólo se miraron sus 12 miniaturas («One nation… and governed by
+  secrets», «They must survive»). Hughes al teléfono (~0:35) ✅; el que
+  grita en ~0:46 **no es Ed** (pelo negro, bufanda a rayas, §28.2).
+- ⚠️ El tráiler que enlaza AniList en YouTube (`1ac3_YdSSy0`) no se pudo
+  abrir: YouTube pedía iniciar sesión.
+
+### 12.2 Mal etiquetados (para no usarlos)
+
+- Dailymotion `x88ab2g` («Sensacine México, tráiler oficial») es un **AMV
+  de fans** con una falsa calificación «FMA-18» ⚠️.
+- Dailymotion `x22nwtd` (el que el recolector dio como opening, ending y
+  tráiler) es el tráiler de la **película *La estrella sagrada de Milos***
+  (2011) ⚠️.
+
+### 12.3 Análisis en vídeo
+
+**«The Anime Empire», reseña del cap. 1** (Blip.tv, 2013, archivada) ✅ ·
+[vídeo](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4):
+- [0:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=0):
+  casi todos los primeros capítulos de anime son flojos; éste «lo
+  recomendaría».
+- [1:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=60):
+  al ser una segunda versión (tras la de 2003) ya tenía fans y pudo
+  empezar a lo grande.
+- [2:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=120):
+  el cap. 1 abre con **McDougal, el Alquimista Congelador**; se oye a Ed
+  presentarse («My name is Edward Elric. This is my younger brother»).
+- [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180):
+  hay muertos y un asesino, «pero la serie pasa a la comedia sin
+  esfuerzo… y funciona»; el chiste de la estatura ya asoma.
+
+⚠️ No se pudo abrir ningún análisis de YouTube (bloqueado).
+
+### 12.4 Tendencias
+
+- En TikTok siguen los *edits* de FMAB (2024-2025): cuentas como
+  `@fullmetaledit`, la etiqueta `#fullmetalalchemist` y «Sad Fullmetal
+  Alchemist Brotherhood Edit» (escenas tristes con música *indie*) ⚠️
+  ([TikTok Discover](https://www.tiktok.com/discover/fullmetal-alchemist-brotherhood-edit);
+  sin vistas ni fechas: TikTok no se abre sin sesión).
+- Fan dubs y covers en español: §23.
 
 ## 13 · Videojuegos de la franquicia
 
