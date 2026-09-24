@@ -79,6 +79,18 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
     (*bloom*) y humo; cielo azul despejado detrás de un puente.
     [Captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_cf3ebae34168af88903eb16bc254cdfdb1007dc7.1920x1080.jpg) ·
     paleta: `#191C20` `#ECD647` `#2D689E`.
+  - **HUD de combate** (Saitama vs. Deep Sea King): retratos redondos con
+    aro **azul** (jugador 1, Deep Sea King) y **rojo** (jugador 2, Saitama),
+    barra de vida rosa/roja arriba a la izquierda y amarilla arriba a la
+    derecha, «**1 HIT 99999 FIRST ATTACK**» centrado en letra de pincel
+    amarilla con un símbolo de infinito encima, e iconos de botones de
+    PlayStation (☐ △ ○, L1/L2/R1) a los lados. Confirma y amplía lo que ya
+    decía la biblia en §7.1E, visto ahora directamente.
+    [Captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_235431b3ba4455e512a4a82821af052773c38f71.1920x1080.jpg)
+  - ⚠️ Las 7 capturas oficiales de Steam son todas de **combate o de
+    creación de personaje**: ninguna muestra una **caja de diálogo de
+    conversación** (modo historia). No lo encontré en las capturas
+    disponibles.
   - Estilo medido (`estilo.py`): «sombreado degradado/pintado, línea normal»
     en las tres, saturación 26-44%, brillo 50-67%: **no es cel-shading plano
     puro**, lleva degradados suaves sobre el contorno negro (motor Unreal con
@@ -230,6 +242,10 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
 - **Línea**: pincel redondo duro con ancho por presión (fino en curvas,
   grueso al cerrar contornos), en capa «Línea» aparte en modo Multiplicar —
   así se comporta la tinta de Murata (trazo muy contrastado, negro puro).
+  Como él mismo entinta a mano en papel (18.1), conviene **dibujar el boceto
+  a mano alzada primero** (o con un pincel de lápiz que tiemble un poco) y
+  **entintar encima en una pasada**, en vez de vectorizar: así no se pierde
+  el «peso» de la línea que él mismo dice que se escapa al pasar a tinta.
 - **Sombreado**: **plano, de bordes duros** (no aerógrafo) en una capa
   «Sombra» en Multiplicar al 60-70%, tono violeta-grisáceo frío — así es el
   cel-shading de las capturas del juego de PS4/PC que medí arriba (líneas de

@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Saitama vs. Genos»",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma oficial 1080p: Genos dispara su Cañón de Incineración y Saitama vuela hacia atrás con la cara totalmente inexpresiva (T1-05).",
+    "para_que": "Pose de Saitama 'sin inmutarse'; referencia de luz (rayo eléctrico) y encuadre de golpe.",
+    "licencia": "captura del anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/f/f8/Zcity.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Z-City»",
+    "ancho": 1280,
+    "alto": 719,
+    "que_es": "Vista aérea de Z-City: skyline gris-azulado bajo cielo azul con nubes.",
+    "para_que": "Referencia de paleta y luz para fondos de la ciudad (punto 4).",
+    "licencia": "captura del anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/6/66/Saitama_Apartment.jpg",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Z-City»",
+    "ancho": 640,
+    "alto": 961,
+    "que_es": "Ilustración del edificio del apartamento de Saitama en Z-City.",
+    "para_que": "Referencia del edificio icónico de Saitama para fondos/sitio (punto 4); paleta poco útil (imagen casi blanca).",
+    "licencia": "captura/arte del manga o anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/b/b8/Z-city_manga_colored.jpg",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Z-City»",
+    "ancho": 1720,
+    "alto": 1217,
+    "que_es": "Ilustración a color de Z-City (arte del manga coloreado).",
+    "para_que": "Segunda referencia de la ciudad para comparar con la versión anime; no la analicé a fondo, solo confirmé tamaño y existencia.",
+    "licencia": "arte del manga, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/4/49/Genos_Arms_Mode_Incineration_Cannon.gif",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Saitama vs. Genos»",
+    "ancho": 480,
+    "alto": 270,
+    "que_es": "GIF del brazo de Genos transformándose en el Cañón de Incineración.",
+    "para_que": "Referencia de pose y mecanismo del brazo de Genos (punto 14).",
+    "licencia": "captura del anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7xerpa?start=0",
+    "fuente": "Dailymotion (moviepilot) — «One Punch Man - Opening (OV) HD»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Opening de la temporada 1 completo (1:29), con los créditos de música y staff legibles.",
+    "para_que": "Fuente del opening T1 y de sus créditos (compositor, letrista, banda) para el punto 9; fondos simbólicos (montaña, acantilados de hielo) para el punto 4.",
+    "licencia": "vídeo de un canal de medios en Dailymotion; solo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9b8564?start=371",
+    "fuente": "Dailymotion (aniBattle) — «One Punch Man - Saitama vs Boros (4K)»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Combate completo Saitama vs. Boros (6:32), final de la temporada 1, con la patada a la Luna y el Golpe Serio.",
+    "para_que": "Fuente principal del punto 2 (escenas), 4 (paleta del campo de batalla y del espacio) y 14 (pose del Golpe Serio).",
+    "licencia": "vídeo de un canal de fans en Dailymotion; solo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8raxsq?start=59",
+    "fuente": "Dailymotion (AnimeBrawlCollection) — «Saitama vs Genos | One Punch Man Season 1»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primer combate de entrenamiento Saitama-Genos (4:06), subtitulado en inglés, T1-05.",
+    "para_que": "Fuente principal de las poses de Saitama y Genos (punto 14) y de la paleta del cañón de entrenamiento (punto 4).",
+    "licencia": "vídeo de un canal de fans en Dailymotion; solo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8tl06u?start=47",
+    "fuente": "Dailymotion (Vidaextra) — «One Punch Man Temporada 3 - Tráiler Oficial»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial de la temporada 3 (1:54, Garou), con créditos completos de reparto y staff al final.",
+    "para_que": "Fuente del punto 10 (vídeos/tráileres) y de la paleta de atardecer propia de la T3 (punto 4).",
+    "licencia": "vídeo de un canal de medios en Dailymotion; solo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Concrete034",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de hormigón/concreto CC0 (mapa PBR).",
+    "para_que": "Textura real equivalente para las ruinas y edificios destruidos de la serie (punto 4).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal063",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de metal CC0 (mapa PBR).",
+    "para_que": "Textura real equivalente para el cuerpo/armadura de Genos y otros robots (punto 4).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rock063",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de roca CC0 (mapa PBR).",
+    "para_que": "Textura real equivalente para el cañón de entrenamiento y la superficie lunar (punto 4).",
+    "licencia": "CC0"
+  }
+]

@@ -125,3 +125,226 @@ la wiki. Cito siempre de dónde sale cada paleta.
 ---
 
 ## Punto 9 · Música y sonido (sección vacía en biblia.md — la lleno)
+
+**Compositor de toda la serie (T1, T2 y T3): Makoto Miyazaki (宮崎誠)** — lo leí yo
+mismo en los créditos finales del opening T1 («音楽 宮崎誠», fotograma 33 de la hoja de
+`episodio.py`, min. 0:53) y en los créditos del tráiler de la T3 («Music: Makoto
+Miyazaki», fotograma 30, min. 1:50) · confirmado además por
+[CDJapan (álbum «One Take Man»)](https://www.cdjapan.co.jp/product/LACA-15536) y
+[IMDb](https://www.imdb.com/name/nm4381951/) · ✅ (visto en pantalla + dos fuentes
+externas).
+
+**Openings y endings por temporada** (nombre, artista, y letra/composición cuando se
+pudo verificar):
+
+- **T1 (2015) OP — «THE HERO!! ～怒れる拳に火をつけろ～»** («THE HERO!! Ikareru Ken ni
+  Honoo wo Tsukero»), interpretada por **JAM Project**, sello **Lantis**. **Letra y
+  composición: Motoi Iwasaki (岩崎元是); arreglo: Makoto Miyazaki** — leído directo del
+  cartel de créditos del opening, fotograma 39 (min. 1:12) de
+  `/tmp/claude-0/trabajo/35-video/opening/hojas/hoja_01.jpg` · confirmado en
+  [Wikipedia (One-Punch Man season 1)](https://en.wikipedia.org/wiki/One-Punch_Man_season_1) ·
+  ✅ (visto en pantalla + wiki).
+- **T1 ED (ep. 1-11) — «星より先に見つけてあげる» («Hoshi yori Saki ni Mitsukete
+  Ageru»)**, cantada por **Hiroko Moriguchi**; el ep. 12 cambia a **«悲しみたちを抱きしめて»
+  («Kanashimi-tachi wo Dakishimete»)**, misma cantante · [Wikipedia](https://en.wikipedia.org/wiki/One-Punch_Man_season_1) ·
+  ⚠️ (una sola fuente comprobada; no vi el cartel de créditos del ending).
+- **T2 (2019) OP — «Unyielding Justice» / «静寂のアポストル» («Seijaku no Apostle»)**,
+  **JAM Project**. **ED — «地図が無くても戻るから» («Chizu ga Nakutemo Modoru Kara»)**,
+  cantada por **Makoto Furukawa** (la voz japonesa de Saitama) ·
+  [Wikipedia (season 2)](https://en.wikipedia.org/wiki/One-Punch_Man_season_2) · ⚠️
+  (una fuente; pendiente cruzar con un cartel de créditos).
+- **T3 (2025) OP — «Get No Satisfied!»**, **JAM Project feat. BABYMETAL** (colaboración
+  anunciada como novedad de esta temporada). **ED — «そこにある灯り» («Soko ni Aru
+  Akari»)**, cantada por **Makoto Furukawa** (otra vez la voz de Saitama) ·
+  [Anime News Network](https://www.animenewsnetwork.com/news/2025-08-23/babymetal-contributes-to-jam-project-one-punch-man-season-3-opening-song/.227998) +
+  [Weebwire/AniTrendz](https://weebwire.com/news/makoto-furukawa-returns-headline-one-punch-man-season-3-ending-theme-20250805) ·
+  ✅ (dos fuentes).
+- **Insert song de las OVA — «タツマキとフブキのワンパン音頭» («Everyone's One-Punch
+  Song»)**: la cantan **juntas las voces japonesas de Saitama, Genos, Speed-o'-Sound
+  Sonic, Tatsumaki, Fubuki, King y Mumen Rider** (Makoto Furukawa, Kaito Ishikawa,
+  Yuki Kaji, Aoi Yuuki, Saori Hayami, Hiroki Yasumoto, Yuuichi Nakamura); letra de Aira
+  Yūki, composición de Makoto Miyazaki; sale con la OVA 6, mayo de 2016, sello Lantis ·
+  [wikitexto de la wiki, `Everyone's One-Punch Song`](https://onepunchman.fandom.com/wiki/Everyone%27s_One-Punch_Song) ·
+  ✅ (confirma también, por tercera vez, que Miyazaki compone toda la música de la
+  franquicia). **Muy buen dato para una lámina de "todos cantan juntos" o de fandub**.
+- **Tema en la escena más emotiva de Mumen Rider** (contra el Rey del Mar Profundo,
+  T1-09): según reseñas y recopilaciones de fans suena una versión lenta/orquestal del
+  tema de Saitama («Saitama's Theme», también llamado Ballad/Sad ver.) — 
+  [vídeo de referencia en YouTube](https://www.youtube.com/watch?v=fTVY7400WnU) (no
+  descargable por el bloqueo de la sesión) · ⚠️ (fuente de fans, no lo pude confirmar
+  contra el episodio real ni contra el álbum oficial «One Take Man»).
+
+**Efectos de sonido reconocibles** (de lo que vi y oí en los tres clips con audio
+original japonés, Whisper no transcribe SFX así que esto es observación directa,
+⚠️ una sola fuente — mía):
+- El **silencio total** después de cada golpe de Saitama (se corta la música y el
+  ruido de fondo un segundo antes de que hable el rival) — se nota clarísimo tras el
+  golpe a Boros, min. 6:12-6:19 del clip de aniBattle.
+- Un **zumbido grave** (tipo motor) que sube de volumen segundos antes de cualquier
+  ataque especial (Boros cargando su cañón, Genos cargando el brazo) — en el clip de
+  Genos, min. 2:20-2:23, justo antes de «Incinerate!».
+- Nada de manga (onomatopeyas de texto) va aquí: eso es punto 19/6, de texto.
+
+---
+
+## Punto 10 · Vídeos y tendencias (sección vacía en biblia.md — la lleno)
+
+- **YouTube pidió «confirma que no eres un bot» / 429 en TODOS los intentos** de esta
+  tanda (trailer oficial `RzmFKUDOUgw` de AniList incluido) — igual que la pasada
+  anterior. Use Dailymotion como plan B en los 4 vídeos que miré (ver cabecera).
+- **Tráiler oficial T3** (Vidaextra, 76 923 vistas en Dailymotion) — desglose completo
+  con minuto en el punto 2. Confirma en pantalla (min. 1:50): reparto japonés
+  **Saitama: Makoto Furukawa, Garou: Hikaru Midorikawa, Dr. Genus (narración): Daisuke
+  Namikawa**; guion de la serie: Tomohiro Suzuki; diseño de personajes: Chikashi
+  Kubota, Shinjiro Kuroda, Kyosuke Shirakawa; estudio: **J.C.Staff**; basado en la
+  obra de **ONE y Yusuke Murata**, serializada en «Tonari no Young Jump» (Shueisha) ·
+  [Dailymotion x8tl06u](https://www.dailymotion.com/video/x8tl06u) · ✅ (créditos en
+  pantalla).
+- **Tendencia en TikTok — «edits» con phonk**: los montajes de One Punch Man en TikTok
+  usan sobre todo música **phonk lenta/bajo pesado** sobre escenas de pelea; los más
+  repetidos son ediciones de **Garou** con phonk antiguo y de **Saitama caminando**
+  entre escombros con la canción «MTG Prism» · páginas de descubrimiento de
+  [TikTok · One Punch Man Edits](https://www.tiktok.com/discover/one-punch-man-edits),
+  [TikTok · One Punch Man Phonk Edit](https://www.tiktok.com/discover/one-punch-man-phonk-edit) ·
+  ⚠️ (resumen de búsqueda, no pude abrir TikTok directo desde el contenedor; sirve
+  igual para saber qué tono de vídeo funciona: cámara lenta + música grave + primeros
+  planos de escombros y caras).
+- **Análisis en YouTube** («One Punch Man - Emotional/Sad Theme/Scene [Mumen Rider]»,
+  y un tutorial de piano del mismo tema) — confirman que el tema de Mumen Rider bajo
+  la lluvia (T1-09) es el vídeo de fans más repetido sobre la escena, aunque no pude
+  bajarlo para sacar el minuto exacto por el bloqueo de YouTube · ⚠️.
+- **No encontré** un vídeo de análisis "serio" (tipo video-ensayo sobre animación o
+  dirección) con minuto verificado: los que aparecen en las búsquedas están todos en
+  YouTube y no se pudieron abrir. Búsquedas hechas: «one punch man animation analysis
+  video essay», «one punch man director interview video» (en, sin resultado
+  descargable).
+
+---
+
+## Punto 14 · Poses analizadas por personaje (sección vacía en biblia.md — la lleno)
+
+Todo lo que sigue sale de los 3 clips que miré fotograma a fotograma (no de memoria).
+Cito hoja y minuto del vídeo fuente.
+
+### Saitama
+
+1. **De pie, quieto, capa al viento**, mirando al horizonte del cañón antes del combate
+   — postura relajada, brazos caídos, mirada al frente. Sirve para **presentar**. ·
+   min. 0:59, [Dailymotion x8raxsq](https://www.dailymotion.com/video/x8raxsq?start=59) · ✅.
+2. **Brazos cruzados, cara seria**, escuchando a Genos explicar las reglas del combate
+   («Do not hold back… keep fighting until I am no longer able to fight»). Sirve para
+   **explicar/regañar** (postura de "te estoy escuchando pero no me impresionas"). ·
+   min. 2:51-3:05, mismo vídeo · ✅.
+3. **Pateando a Genos en el aire**, cuerpo en diagonal, pierna extendida, cara sin
+   esfuerzo. Sirve para **celebrar/presumir sin querer** (gana sin esforzarse). · min.
+   3:25, mismo vídeo · ✅.
+4. **Caminando junto a Genos**, de perfil, mirándolo de reojo, mano en la cadera —
+   postura floja, casual. Sirve para **animar/charlar** («I'm starving, time for
+   lunch»). · min. 3:33, mismo vídeo · ✅.
+5. **Cara completamente inexpresiva mientras sale volando** por el golpe de Genos
+   (brazos y piernas sueltos, capa ondeando, ni un gesto de dolor) — fotograma oficial
+   1080p de la wiki, sirve para **pensar/no inmutarse** ·
+   [`Genos_vs_Saitama_spar.png`](https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png)
+   1920×1080 · ✅.
+6. **Sentado en el borde de un cráter en la Luna**, mirando hacia abajo, agotado pero
+   tranquilo; luego **agachado, listo para saltar de vuelta a la Tierra** (piernas
+   flexionadas, un brazo atrás). Sirve para **pensar** (el gag de "cómo vuelvo") · min.
+   4:07-4:12, [Dailymotion x9b8564](https://www.dailymotion.com/video/x9b8564?start=247) · ✅.
+7. **Pose en cruz mid-aire** (brazos y piernas totalmente abiertos, silueta a
+   contraluz) justo antes del Golpe Serio contra Boros. Sirve para **el golpe/clímax**
+   de cualquier lámina de acción · min. 6:11, mismo vídeo · ✅.
+8. **De pie con expresión neutra, después de ganar** el combate con Genos («Okay, I
+   win.»), mano en la cara de él tocándole la mejilla — sirve para **celebrar sin
+   alardear**. · min. 2:33, [Dailymotion x8raxsq](https://www.dailymotion.com/video/x8raxsq?start=153) · ✅.
+
+### Genos
+
+1. **Brazo transformado en cañón, cargando energía** con chispas y luz naranja
+   saliendo de las juntas — cuerpo echado hacia atrás para amortiguar el disparo.
+   Sirve para **el ataque/clímax**. · min. 2:23, [Dailymotion x8raxsq](https://www.dailymotion.com/video/x8raxsq?start=143) · ✅.
+2. **De perfil, mirada fija y seria**, antes de lanzar el ataque definitivo
+   («Incinerate!»). Sirve para **animar/concentrarse**. · min. 2:20, mismo vídeo · ✅.
+3. **Mirando a Saitama de reojo con el ceño fruncido**, aceptando que no puede
+   explicarle su fuerza — postura recta, brazos a los lados. Sirve para **pensar/
+   admirar**. · min. 3:03-3:08, mismo vídeo · ✅.
+
+### Boros (de paso, para escenas de villano; no es de los 4 personajes del encargo pero
+sale en la pelea más citada)
+
+- **Forma verdadera**, brazos extendidos hacia arriba, boca abierta con dientes
+  afilados, ojo único brillando — pose de villano "a punto de soltarlo todo". Sirve
+  para **el discurso final de un antagonista**. · min. 1:36-2:11,
+  [Dailymotion x9b8564](https://www.dailymotion.com/video/x9b8564?start=96) · ✅.
+
+---
+
+## Lo mejor para la lámina
+
+1. La **pose 5 de Saitama** (cara inexpresiva volando por el golpe de Genos, fotograma
+   oficial 1080p de la wiki) resume todo el humor de la serie en una sola imagen.
+2. La **paleta del atardecer de la T3** (rojos/granates, Garou) es una identidad de
+   temporada distinta al gris de Z-City y al negro-rojo de Boros: útil si la lámina
+   quiere sentirse "de la temporada más nueva".
+3. El **insert song «Everyone's One-Punch Song»**, cantado por todo el reparto, es un
+   dato perfecto para un canal de doblaje/fandub: "hasta los actores originales
+   cantan juntos".
+4. El **Golpe Serio** (T1-12, min. 6:11-6:24 del clip de aniBattle) da tres capas de
+   luz en tres segundos: silueta en cruz → fogonazo blanco total → rayo que llega al
+   espacio. Sirve de referencia de iluminación para cualquier "golpe final" en la
+   lámina.
+5. El **primer entrenamiento con Genos** (T1-05) da una secuencia completa
+   presentar→pelear→ganar→comer que es fácil de convertir en 4 viñetas de una lámina
+   por pasos.
+
+## No encontré
+
+- **Vídeo de análisis (video-ensayo) de la animación con minuto exacto**: los
+  resultados están todos en YouTube y no pude bajarlos (bloqueo de sesión, 429/login
+  en todos los intentos). Búsquedas: «one punch man animation analysis video essay»
+  (en), «one punch man director interview video» (en). ⚠️ Queda pendiente si otra
+  sesión tiene acceso a YouTube.
+- **Minuto exacto de un fan-dub o cover del opening en español** dentro de un vídeo:
+  eso lo cubre el investigador de voz/personajes (punto 22), no lo dupliqué aquí.
+- **Confirmación con cartel de créditos** de los OP/ED de T2 (solo tengo Wikipedia,
+  ⚠️): no encontré una copia del episodio con los créditos visibles para leerlos yo
+  mismo, como sí hice con T1 y T3. Búsquedas: `site:dailymotion.com "One Punch Man"
+  opening season 2`, sin clip completo con créditos.
+- **Vídeos oficiales de TikTok verificados uno por uno** (canal, vistas exactas): el
+  contenedor no abre TikTok directamente; me quedé con las páginas de descubrimiento
+  (`/discover/...`), que ya indican qué sonidos son tendencia pero no dan un enlace de
+  vídeo con vistas concretas. ⚠️.
+
+---
+
+## Bitácora de búsqueda (vídeo)
+
+- **Datos previos usados sin repetir la consulta**: `partes/datos-video.md`
+  (AniList, Dailymotion, Internet Archive, MusicBrainz — recolectado antes de esta
+  tanda).
+- Wiki de Fandom (`onepunchman.fandom.com/api.php`, inglés): `list=search` para
+  «Z-City», «music soundtrack», «Genos sparring match udon», «practice bout»;
+  `action=parse&prop=wikitext` sobre las páginas `Z-City`, `Saitama vs. Genos`,
+  `Everyone's One-Punch Song`; `prop=imageinfo` sobre `Zcity.png`, `Saitama
+  Apartment.jpg`, `Z-city manga colored.jpg`, `Genos vs Saitama spar.png`, `Genos Arms
+  Mode Incineration Cannon.gif`.
+- Dailymotion API (`api.dailymotion.com`): búsqueda de metadatos (duración, autor,
+  vistas) de `x9b8564`, `x7xerpa`, `x8rl50h`; búsqueda de vídeos «Saitama Genos scene»
+  y «One Punch Man Genos disciple» (inglés) para elegir el clip del punto 2/14.
+- Internet Archive (`archive.org/metadata/...`): comprobé `turner_video_135772` y
+  `turner_video_135773` (duración real ~1:40-2:13, son PV cortos, no episodios
+  completos) antes de descartarlos a favor de los clips de Dailymotion.
+- `herramientas/episodio.py` (3 vídeos, ✅ hecho, ver cabecera) y
+  `herramientas/fotogramas.py --cortes` (1 vídeo, el tráiler T3).
+- `herramientas/estilo.py --colores`: 11 fotogramas recortados a mano de las hojas de
+  contacto, más 2 imágenes de la wiki (Z-City, apartamento de Saitama).
+- ambientCG (`ambientcg.com/api/v2/full_json`, inglés): «concrete», «metal», «rock
+  cliff» → Concrete034, Metal063, Rock063 (CC0).
+- WebSearch (4 búsquedas, español e inglés): openings/endings por temporada;
+  compositor Makoto Miyazaki; tema de Season 3 (JAM Project + BABYMETAL); tendencia de
+  TikTok; tema emotivo de Mumen Rider.
+- WebFetch (3 páginas): Wikipedia «One-Punch Man season 1» y «season 2» (openings/
+  endings); TV Tropes «Awesome Music/OnePunchMan» → **403 Forbidden**, no insistí más
+  (regla de los dos intentos).
+- Nada de Crunchyroll ni cuentas de streaming; nada de programas de terceros para
+  saltar bloqueos (solo Dailymotion, Internet Archive y la wiki, como pide el aviso).
+
