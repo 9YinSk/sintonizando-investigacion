@@ -1112,3 +1112,285 @@ bien!». **Revisar siempre**: una idea por texto, sin «·», «—» ni
 paréntesis (regla 4).
 
 ---
+
+## 18 · Estilo y técnica de ufotable, y cómo replicarlo
+
+### Lo que dicen ellos (entrevistas y *making of*)
+
+- **Programas**: el CG de la serie se hizo casi todo en **Autodesk 3ds
+  Max** con **V-Ray** (render), **PhoenixFD** (fluidos: agua y fuego),
+  **tyFlow** (partículas: las auras), **ForestPack** y **RailClone**
+  (bosques y calles repetidas), **GrowFX** (plantas) y **Pencil+** (línea
+  *toon* sobre 3D). Cita del director 3D: «la mayor parte de los cortes CG
+  de Kimetsu se crearon con 3ds Max y sus plugins» ✅ ([Autodesk AREA Japan,
+  1](https://area.autodesk.jp/case/animation/kimetsu-01/) y
+  [2](https://area.autodesk.jp/case/animation/kimetsu-02/), en japonés).
+- **El agua de Tanjiro**: el director 3D **Kazuki Nishiwaki** hizo muchas
+  pruebas en 3ds Max **estudiando obras japonesas tradicionales (ukiyo-e)**
+  y decidieron **plano a plano** qué va a mano y qué en CG ✅ (misma
+  fuente). La productora **Yuma Takahashi** dice que el agua final es
+  **casi toda dibujada a mano**, con muy poco 3DCG, y que lo difícil fue
+  el **grosor de línea** para no tapar el dibujo del manga ✅ (ANN +
+  Popverse, según el investigador de imagen; sin enlace exacto guardado).
+- **Paisajes de verdad**: el equipo **fue varias veces a bosques reales**.
+  Nishiwaki: «no podíamos lograr bosques realistas sólo colocando árboles;
+  la nieve acumulada alrededor de los troncos y la maleza necesitan foto de
+  referencia real» ✅.
+- **La escala creció** (**Yūichi Terao**, director de fotografía, en
+  [Popverse](https://www.thepopverse.com/movies-demon-slayer-kimetsu-no-yaiba-yuichi-terao-interview-making-the-infinity-castle-feel-infinite)):
+  ep. 26 (2019), «lo máximo en 3D era un espacio de unos 100×100 m»; ep. 45
+  (Herreros, 2023), «un fondo de unos **dos kilómetros cuadrados**»;
+  *Castillo Infinito* (2025), render **diez veces más rápido** y operadores
+  **6,5 veces más rápidos**. Meta: que el castillo «casi parezca infinito» ✅.
+- **Romper la luz a propósito**: Terao y el director **Haruo Sotozaki**
+  hablan de saltarse las reglas de iluminación para transmitir emoción ✅
+  ([AWN](https://www.awn.com/animationworld/uncontrollable-art-demon-slayer-kimetsu-no-yaiba-infinity-castle)).
+- **Equipo de la película**: más de 2 200 planos a mano, **5 veces más
+  animadores 2D que de CG**; dirección Haruo Sotozaki, animación jefe
+  Akira Matsushima, *storyboard* Toshiyuki Shirai, fotografía Yuichi Terao
+  ✅ ([ufotable en los Oscars](https://www.youtube.com/watch?v=FLB_sLTgbPk);
+  en 0:29-0:44 se ven **dibujos clave con lápiz de color** para las
+  sombras).
+
+### Cómo reproducirlo en Photoshop y Blender (propuesta a partir de lo anterior)
+
+| ufotable | En Blender | En Photoshop |
+|---|---|---|
+| PhoenixFD (agua, fuego) | dominio de fluidos **Mantaflow** y humo/fuego como base | **pintar encima a mano** los remolinos y la espuma tipo ukiyo-e, con pincel duro y capa de trazo |
+| tyFlow (partículas del aura) | sistema de partículas o **Geometry Nodes** con *sprites* | pincel de dispersión (chispas, mariposas, pétalos) |
+| Pencil+ (línea *toon*) | **Line Art** de Grease Pencil o **Freestyle**, grosor según la distancia a cámara | capa de línea **de color** (rojo, azul, verde) en las sombras, no negro puro |
+| ForestPack / RailClone | **Geometry Nodes** para dispersar árboles; *arrays* para casas, faroles y cercas | fondo pintado a partir de **foto real** (como hicieron ellos) |
+| Fotografía de Terao (撮影) | Compositor: **niebla en capas**, **profundidad de campo**, **bloom**, grano fino | capas de ajuste cálido/frío según el ánimo; desenfoque de lente en lo de delante |
+
+- **Modelos libres** para montar: torii, casa japonesa, katanas (§3).
+  **Texturas** encima: madera, papel y roca de ambientCG (§4).
+- **Mezcla 2D sobre 3D**: justo lo que hace *Sweep the Board!* (chibis 2D
+  sobre tablero 3D, §11) y el anime (personaje dibujado sobre fondo CG).
+  Para la lámina: **fondo o objeto en Blender, personaje recortado 2D**,
+  integrado con `v3/integrar.py` (regla 3 del dueño).
+
+### Encuadres y composición
+
+- **Acción al centro** del plano; **golpe en 3 capas** (brillo, forma de
+  luz, chispas); **silueta** en el impacto (§9).
+- **Plano general de paisaje** para la escala (el bosque de 2 km²) y
+  **primer plano muy cerrado** de la cara en el clímax ✅ (con la biblia 31
+  §18.5).
+- **Diagonal** en las ilustraciones de respiración (A1-A12).
+- **Contraluz** en momentos solemnes: Tanjiro de espaldas ante el amanecer
+  (F10), Rengoku de espaldas tras el golpe (2:00).
+
+## 19 · Texturas 2D
+
+- **El efecto del aura es pincelada, no filtro**: el agua va dibujada casi
+  toda a mano, plano a plano ✅ (§18). En Photoshop: **trazo pintado**
+  encima de la base, no un «resplandor exterior».
+- **Línea de los efectos**: fina, que se aclara u oscurece en degradado;
+  **nunca trama de puntos** ✅ (las 12 *Zenshuchuten*). Grosor medido
+  3-6 px.
+- **Tinta sumi-e** de las cartelas (F15): manchas y trazos secos de pincel
+  sobre papel blanco. Textura de papel: `Paper006` / `Paper001`
+  ([ambientCG](https://ambientcg.com/view?id=Paper006), CC0).
+- **Ola ukiyo-e** del Agua (A1, visto: espuma en rizos blancos) y del
+  «Secreto de la era Taisho» (T1).
+- **El patrón *ichimatsu*** del haori de Tanjiro (cuadros de 2 colores):
+  ⚠️ no hay textura CC0 con licencia clara (dos búsquedas en Openverse).
+  **Rehacerlo a mano**: patrón de 2 colores a 45°.
+- **Alas de mariposa** del haori de Shinobu y **llamas** del borde del de
+  Rengoku: dibujarlas (vistas en A8 y A2).
+- **Emblemas**: el **sello rojo circular** con 鬼滅の刃 de las cartelas
+  (F15, F16) y el **blasón de glicina** de las casas refugio (§6) ⚠️ sin
+  vector libre: redibujar.
+- **Texturas reales CC0/CC BY**: madera `Wood095` y `WoodFloor051`, roca
+  `Rock051`, glicina y bambú de Flickr (§4).
+
+## 20 · Gustos y detalles de cada personaje
+
+Todo de la *Trivia* de la wiki, que cita los *databooks* oficiales ✅.
+
+| Quién | Comida favorita | Afición | Cumpleaños | Altura / peso | Detalle |
+|---|---|---|---|---|---|
+| **Tanjiro** | brotes de angélica (タラの芽); *onigiri* de ciruela y alga | limpiar y **dar cabezazos** | 14 de julio | 165 cm / 61 kg | nació en el monte Kumotori; frente durísima, como su madre |
+| **Rengoku** | **sopa de miso con boniato**; besugo asado y arroz de boniato | Noh, Kabuki y sumo | 10 de mayo | 177 cm / 72 kg | nunca tuvo mascota; «apertura» fichada en 95 % |
+| **Muichiro** | *furofuki daikon* (nabo hervido) | ***kamikiri*** (**cortar papel**) y **origami** | 8 de agosto | 160 cm / 56 kg | en *Kimetsu Gakuen*, club de shogi |
+| **Shinobu** | *tsukudani* de jengibre | contar **historias de fantasmas** | 24 de febrero | 151 cm / 37 kg | la más ligera de los Pilares |
+| Zenitsu | *onigiri* de salmón | hanafuda y sugoroku | 3 de septiembre | 164,5 cm / 58 kg | su oído le hizo oír lo que decían de él |
+| Nezuko | *konpeitō* | coser | 28 de diciembre | 153 cm / 45 kg | — |
+| Inosuke | — | el juego *Kotoro-Kotoro* | 22 de abril | 164 cm / 63 kg | mella sus espadas a pedradas |
+| Giyu | salmón guisado con daikon | *tsume shogi* | 8 de febrero | 176 cm / 69 kg | — |
+| Kanao | Ramune; toda la comida de Aoi | pompas de jabón | 19 de mayo | 156 cm / 46 kg | traga saliva al ver su comida favorita |
+
+- **El objeto que siempre llevan**: la espada Nichirin de su color; Shinobu
+  su horquilla de mariposa; Tanjiro sus pendientes y, al principio, la caja
+  con Nezuko a la espalda (visto en las cartelas F15 y hoja 09).
+- **Cómo se ven a sí mismos**: Zenitsu, inútil; Muichiro, sin valor antes
+  de recordar; Giyu, odiado por los demás (y no es verdad) ✅.
+- **Útil para la lámina**: el origami de Muichiro es **un objeto real y
+  suyo**. En la hoja 20 hay **aviones de papel** (n.º 922, 941 con
+  Muichiro al lado, 951) ⚠️ que sean suyos es deducción: los títulos sólo
+  nombran a Tanjiro.
+
+---
+
+## 21 · Por qué la gente la ama
+
+- **Cifras**: *Tren Mugen* fue **la película más taquillera de la historia
+  de Japón**, por encima de *El viaje de Chihiro*, con un impacto estimado
+  de más de **200 000 millones de yenes** ✅ ([Tokyo Manga Shelf](https://tokyomangashelf.com/blog/demon-slayer-cultural-phenomenon/)).
+  En 2020 las tiendas de conveniencia se quedaban sin productos en horas y
+  **los niños iban al colegio con el estampado del haori de Tanjiro** ✅.
+- **Premios 2026**: *Castillo Infinito* ganó **mejor película**, **mejor
+  banda sonora** y **mejor doblaje latino** (Toledano, Akaza) en los
+  Crunchyroll Anime Awards ✅ (El Comercio + El Financiero).
+- **Con quién se identifican**: con la **amabilidad de Tanjiro**
+  (優しさ, *yasashisa*): llora por los demonios que mata porque fueron
+  humanos. Raro en un protagonista de acción, tierno sin dejar de ser
+  fuerte ✅ ([Sportskeeda](https://www.sportskeeda.com/anime/tanjiro-s-kindness-demon-slayer-unrealistic-frustrating-level) + Tokyo Manga Shelf).
+- **Es corta**: 23 tomos. Mucha gente la termina y la recomienda ✅.
+- **Y por lo que ve**: el fandom usa «aura» para las escenas donde **el
+  efecto acompaña una frase o un silencio** (§12).
+
+### Las escenas que hacen llorar
+
+| Escena | Qué pasa | Cómo está hecha | Reacción |
+|---|---|---|---|
+| **Muerte de Rengoku** (*Tren Mugen*; T2 en la tele) | tras frenar a Akaza, les dice «Enciende tu corazón» y «Vive con la frente en alto» (00:14:26-00:14:44, biblia 31) | visto en el clip 4K: herido, **lágrima y mirada al cielo** ([3:12](https://www.dailymotion.com/video/x9j447k?t=192)), **sangre y sonrisa leve** ([3:24](https://www.dailymotion.com/video/x9j447k?t=204)); **el bosque gris-azul casi sin color**, la llama ya apagada | la más citada como «la que me hizo llorar»; clip oficial «¡Siempre vivirás en nuestros corazones, Rengoku!», 719 mil vistas ✅ |
+| **El pasado de Akaza (Hakuji) y Koyuki** (*Castillo Infinito*, 2025) | se revela justo antes de morir | suena «Welcome Home (Akaza Love Theme)» ⚠️ | [hilo](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=KimetsuNoYaiba&query=cried): «I'm not the only one who cried at akaza's backstory and death right?» ✅ · ⚠️ sin minuto |
+| **Reencuentro de Ubuyashiki con los suyos** | — | ⚠️ no mirada | hilo: «Okaerinasai, Anata😭… lloré hasta quedarme dormida» ✅ título real |
+| **El despertar de la Hinokami Kagura** (contra Rui, ep. 17-19) | Tanjiro saca la técnica heredada de su familia | remolino rojo (2:01 del clip); el ep. 19 cierra con «Kamado Tanjiro no Uta», **dibujo sepia de álbum familiar** (visto) | ⚠️ sin reacción citada; su pose es tendencia en TikTok (§10) |
+
+⚠️ Faltan minutos de episodio de todas salvo la de Rengoku (biblia 31).
+
+## 22 · Fan dubs y comunidad hispana
+
+YouTube bloqueó este servidor («inicia sesión») y TikTok no da datos a
+`WebFetch`: **enlaces encontrados, vistas sin comprobar** ⚠️.
+
+- **Covers de openings en español latino**:
+  - [«Gurenge» (OP1), cover de David Delgado](https://www.youtube.com/watch?v=T3lkCvGQ8nI).
+  - [«Akeboshi» (OP2), cover latino](https://www.youtube.com/watch?v=Ehp9NsY5qK0).
+  - [«Kamado Tanjiro no Uta», cover latino completo](https://www.youtube.com/watch?v=d1TGQ84G7PA).
+- **Fandub de escena**: [«Huelo un demonio», fandub latino](https://www.youtube.com/watch?v=AjxxiYkHk6I);
+  en TikTok, [@haijime_0](https://www.tiktok.com/@haijime_0/video/7390162930618141957)
+  dobla una escena de Kanao y Shinobu (`#fandubespañol`).
+- **Memes hispanos**: `#DemonSlayerDobladoAEspañolLatinoMeme`; imitaciones
+  de **Shinjuro Rengoku** doblado.
+- **Lo normal es doblar clips cortos**: no se encontró un fandub de
+  episodio completo.
+- **Para el servidor de doblaje**: el doblaje latino oficial se hizo en 2
+  semanas y media (T1), tiene un actor que dobla **desde Chile** y otra
+  **desde Mérida**, y un **premio internacional 2026** (§8). Buen gancho.
+
+## 23 · Colaboraciones y cruces
+
+- **Universal Studios Japan (2024)**: dos restaurantes que **recrean
+  paisajes de la serie**: el *Wisteria Restaurant* («flores místicas,
+  interior de la era Taisho», con Giyu y Shinobu a tamaño real) y el
+  *Swordsmith Village Restaurant* (vitrales, máscaras *hyottoko*, muebles
+  retro) ✅ (SoraNews24 + Comicbook.com, sin enlace exacto guardado ⚠️).
+  **Son dos sitios del §16 construidos en físico**.
+- **Kimetsu Cafe** (Sweets Paradise), visto en la hoja n.º 26: chibis de
+  camareros ✅.
+- **Tokyo Joypolis** (SEGA), ilustración exclusiva: hoja n.º 27 ✅.
+- **Nijigen no Mori** (Awaji), ilustración de la atracción, con flores:
+  hoja n.º 28 ✅.
+- **Bandai Namco / Namja Town**: *Corridor* y arte de colaboración (hoja 08,
+  n.º 370-371) ✅.
+- **TOKYO Anime Tourism 2026**: hoja n.º 24 ✅.
+- **Figuras con el aura hecha sólido**: **FiguartsZERO Kyojuro Rengoku
+  Flame Breathing** (Bandai Spirits / Tamashii Nations): **la llama
+  transparente es parte de la base**, «de las más icónicas de la línea» ✅
+  (BoxLunch + Barnes & Noble). También S.H.Figuarts Kyojuro Rengoku
+  ([p-bandai.com](https://p-bandai.com/)) y Banpresto *Vibration Stars*.
+  **La mejor referencia para convertir un aura en volumen** en Blender.
+- **Cosplay**: el patrón es **bosque oscuro + espada con luz LED** y el
+  fuego o el rayo añadido después ⚠️ (notas de ScreenRant, sin crédito de
+  cada foto).
+- **Teatro** (*Kimetsu no Yaiba The Stage*): carteles y perfiles con
+  actores (hoja n.º 16, 25, 31, 32, 36): ropa construida de verdad.
+
+## 24 · Obras parecidas
+
+- **Lo que recomienda el público de AniList** (ficha correcta, [101922](https://anilist.co/anime/101922)):
+  Jujutsu Kaisen (3 343 votos), Dororo (1 945), Bleach (385), My Hero
+  Academia T4 (335), Black Clover (151), Hell's Paradise (148), Rurouni
+  Kenshin 2023 (107), Hunter x Hunter 2011 (103) ✅.
+- **Influencias que reconoce Koyoharu Gotouge**: **JoJo**, **Naruto** y
+  **Bleach** (el Gotei 13 salió mucho con su editor); *Yu Yu Hakusho* y
+  *Rurouni Kenshin* en su forma de narrar. **Tanjiro sale de Kenshin
+  Himura**: pelo rojo, cicatriz y no matar si no hace falta ✅
+  ([CBR](https://www.cbr.com/koyoharu-gotouge-demon-slayer-creator-trivia-fun-facts/)
+  + [ScreenRant](https://screenrant.com/demon-slayer-jojos-bizarre-adventure-surprising-influence/)).
+- **Mismo estudio, mismo lenguaje de efectos**: la saga **Fate** de
+  ufotable (*Fate/Zero*, *Unlimited Blade Works*, *Heaven's Feel*):
+  efectos elementales cinematográficos, 2D con CG ⚠️ (comparación de
+  catálogo, sin cita del estudio).
+- **Láminas del servidor que se le parecen** (para no repetir):
+  - **Biblia 31** (Demon Slayer general): Aula con la calabaza, escenario
+    del Secreto de la era Taisho, shamisen de Zenitsu. **Aquí no se usa
+    ninguno**.
+  - **Jujutsu Kaisen** (32) y **Attack on Titan** (02): poderes y efectos
+    sobrenaturales. **Spider-Verse** (21): el canal de efectos.
+  - **Lilo & Stitch** (23): el mismo #fotos. Choque en §0.
+
+## 25 · El mundo, la historia y sus símbolos
+
+### Las reglas del mundo en cinco líneas
+
+1. Japón, **era Taishō** (1912-1926). Los demonios existen en secreto ✅.
+2. El **Cuerpo de Cazadores de Demonios** (鬼殺隊) no es del gobierno: lo
+   paga la **familia Ubuyashiki** ✅ ([Demon Slayer Corps](https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps)).
+3. Sólo **decapitar con espada Nichirin** (acero que absorbe el sol, del
+   **monte Yoko**) o **la luz del sol** matan a un demonio ✅.
+4. Todos nacen de la sangre de **Muzan Kibutsuji**, que se volvió demonio
+   con una medicina hecha con el **lirio araña azul** (青い彼岸花), una flor
+   que sólo abre de día, 2 o 3 días al año. Por eso la busca desde hace
+   siglos ✅ ([Blue Spider Lily](https://kimetsu-no-yaiba.fandom.com/wiki/Blue_Spider_Lily)).
+   (La parte de texto lo tradujo como «glicina azul»: es **lirio araña**.)
+5. La **glicina** (藤) repele y envenena a los demonios: incienso, la cárcel
+   de la Selección Final y el blasón de las casas refugio ✅
+   ([Wisteria](https://kimetsu-no-yaiba.fandom.com/wiki/Wisteria)).
+
+### La historia por arcos
+
+Estructura de [Story Arcs](https://kimetsu-no-yaiba.fandom.com/wiki/Story_Arcs) ✅;
+las frases de cada arco las armó el investigador de texto cruzando fichas ⚠️.
+
+| Arco | Qué pasa | Momento clave | Paisaje |
+|---|---|---|---|
+| **Resolución Inquebrantable** (Selección Final, Asakusa, Natagumo, recuperación…) | Tanjiro entrena, pasa la Selección Final y conoce a Zenitsu e Inosuke | la Selección Final entre glicinas; el despertar de la Hinokami | Fujikasane, Asakusa, Natagumo, Mansión Mariposa |
+| **Tren Mugen** | misión con Rengoku contra Enmu y Akaza | **muerte de Rengoku** | tren de noche, bosque junto a las vías |
+| **Distrito del Entretenimiento** | con Tengen contra Gyutaro y Daki | Tengen se retira | Yoshiwara con farolillos |
+| **Aldea de los Herreros** | Hantengu y Gyokko atacan la aldea; aparece **Muichiro** | el bosque de **2 km²** en CG | aldea entre montes nevados |
+| **Entrenamiento de los Pilares** | los Pilares entrenan a todos | el escenario con telón rojo | ⚠️ sin dato de paisaje en las partes |
+| **Batalla Final** (Castillo Infinito, Cuenta Atrás del Amanecer) | todos contra Muzan; Tanjiro es demonio un momento antes del alba | el Castillo Infinito, trilogía 2025-2026 | el paisaje imposible |
+
+### Los símbolos que un fan reconoce al instante
+
+- **Las 14 respiraciones y sus colores** (tabla maestra) y **las Marcas**
+  (el aura hecha piel).
+- **La espada Nichirin**, del color de su dueño; **negra** la de Tanjiro;
+  grabada con **惡鬼滅殺** la de un Pilar ✅.
+- **La glicina**: en el monte, en el veneno de Shinobu y en **el blasón de
+  la puerta** ✅.
+- **El Castillo Infinito** (異空間無限城): gravedad torcida, demonios de pie
+  en el techo o en la pared, **controlado por Nakime con su *biwa***; el
+  único sitio que **no obedece la física** ✅.
+- **Los Doce Kizuki** (十二鬼月): 6 Superiores (上弦) y 6 Inferiores (下弦),
+  con **el número grabado en un ojo** ✅ ([Twelve Kizuki](https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki)).
+  Cada bando lleva **su poder escrito en el cuerpo**.
+- **El sello rojo circular** del logo y **los pendientes hanafuda**.
+- **南無阿弥陀仏** bordado en la estola de Gyomei (§11).
+
+### Vocabulario propio
+
+- **Escuadrón Kamaboko**: el trío Tanjiro-Zenitsu-Inosuke. Nace en el ep.
+  14, cuando Inosuke llama a Tanjiro «**Kamaboko Gonpachiro**» (el
+  *kamaboko* es un pastel de pescado) ✅ ([Episode 14](https://kimetsu-no-yaiba.fandom.com/wiki/Episode_14)).
+- **Tsuguko** (継子): el sucesor personal de un Pilar ✅ ([Tsuguko](https://kimetsu-no-yaiba.fandom.com/wiki/Tsuguko)).
+- **Kokyū** (呼吸), «respiración»; **Kokyū Hō**, el nombre formal ✅.
+- **Pilar** (en japonés *Hashira*); **Kakushi**, los que cargan a los
+  cazadores con los ojos vendados hasta la Aldea de los Herreros ✅
+  ([Swordsmith Village](https://kimetsu-no-yaiba.fandom.com/wiki/Swordsmith_Village)).
+
+---
