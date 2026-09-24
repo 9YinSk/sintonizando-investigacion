@@ -2394,17 +2394,17 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 | Punto | Estado | Por qué |
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | P1-P54: fichas de one-piece.com, cuenta atrás 1000 LOGS, carteles y hojas de modelo de *Film Red*, *key visuals* de Egghead y Elbaph, tomos 1, 61, 100 y 111, arte de *Odyssey* y *Pirate Warriors 4*; más 24 de *Treasure Cruise* (§3, §3.2). |
-| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ✅ | Capturas 1920×1080 de la wiki (P5, O23, F5, F6) y minutos de 6 escenas miradas: eps. 1, 37, 53, 130, 312, 483 y 1071 (§4, §12). Las tres nuevas sólo en 1280×720 y 512×288: YouTube pidió iniciar sesión. |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ✅ | Capturas 1920×1080 de la wiki (P5, O23, F5, F6) y minutos de 6 escenas miradas: eps. 37, 53, 130, 312, 483 y 1071 (§4, §12). Las tres nuevas sólo en 1280×720 y 512×288: YouTube pidió iniciar sesión. |
 | 3 · Fan art y 3D con licencia | ✅ | 13 + 16 modelos de Sketchfab con licencia leída en la API, descartes de modelos extraídos, CC0 de Poly Haven, Kenney y Printables, fan art de Pixiv sin IA (§5, §5.1). |
 | 4 · Fondos, luz, paleta hex y texturas | ✅ | Paletas del arte, de la wiki y **del anime en movimiento** (brillo y saturación medidos por sitio); maderas, papel, cuerda, metal y HDRI CC0 (§6). |
 | 5 · Tipografía: una letra para cada uso, con tildes | ⚠️ | Ocho usos con su letra libre abierta en `fontTools` (§7). Falta: letra libre para la caja de *Odyssey* y la de píxel, la cursiva de pensamiento sin comprobar, la letra de los subtítulos de Crunchyroll y la de Panini. |
 | 6 · Cómo hablan en pantalla | ✅ | Globo ancho, ドン!! y べべん!! (Wano), cartel y su reverso (ONE PIECE BASE), *eyecatchers*, carta del opening, cajas de *Odyssey* y *Grand Gourmet* (§8). |
 | 7 · Personajes y encuestas | ✅ | 8 encuestas oficiales, top 10 latino de 2021 y 2026, MyAnimeList, Danbooru: en Latinoamérica gana Zoro (§2). |
-| 8 · Doblaje latino (voces en dos fuentes y frases) | ✅ | Voces principales y 20 secundarios; correcciones de Doflamingo, Barbanegra y Tashigi; 40 frases textuales con su muestra o minuto; **«Se Busca» sí se dice en latino** (§8, §10, §10.2). Siguen con una fuente: el motivo de Dafnis, Azteca 7 y algunas palabras. |
+| 8 · Doblaje latino (voces en dos fuentes y frases) | ✅ | Voces principales y una veintena de secundarios; correcciones de Doflamingo, Barbanegra y Tashigi; más de 40 frases textuales con su muestra o minuto; **«Se Busca» sí se dice en latino** (§8, §10, §10.2). Siguen con una fuente: el motivo de Dafnis, Azteca 7 y algunas palabras. |
 | 9 · Música y sonido | ✅ | 29 openings y 23 endings, ambiente, tempo, música de fondo, efectos que todos reconocen, versiones en latino (§11, §11.1). |
 | 10 · Vídeos con minuto | ✅ | Opening, endings, tráileres (Egghead, Elbaf, Netflix, «THE ONE PIECE», *Heroines*), escenas y tendencias con enlace `&t=` o `?start=` (§12, §12.3). Los análisis en español, sin minuto. |
 | 11 · Videojuegos: interfaz y cajas | ✅ | 59 capturas de Steam y 29 de la App Store miradas: *Odyssey*, *Grand Gourmet*, *Treasure Cruise*, *Bounty Rush*, *Burning Blood*, ONE PIECE BASE (§13, §13.1). TCRF y Game UI Database, sólo por el buscador (403). |
-| 12 · Lo que el fandom ama y qué NO hacer | ✅ | Memes, chistes del doblaje, el «proceso» de fichaje, apodos, y 14 errores a evitar con fuente (§14, §14.1). |
+| 12 · Lo que el fandom ama y qué NO hacer | ✅ | Memes, chistes del doblaje, el «proceso» de fichaje, apodos, y más de 20 errores a evitar con fuente (§14, §14.1). |
 | 13 · Descripción profunda, qué transmite y su cara en cada emoción | ⚠️ | Diez personajes con carácter, miedos, dinámicas, voz medida y qué transmiten (§9.1-9.8). Faltan caras con **miedo o vergüenza** de Luffy, Nami y Sanji (§9.2). |
 | 14 · Poses analizadas (6-10 por personaje) | ⚠️ | 8-10 poses por personaje con hoja, id o minuto (§9, §9.7). Faltan poses oficiales de Zoro animando, Sanji explicando o regañando y Chopper regañando o pensando. |
 | 15 · Vestuario con hex | ✅ | Los cinco en seis épocas (V1-V30), luz y sombra medidas; corrige el traje de Sanji (§9.5). |
@@ -2412,9 +2412,9 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 | 17 · Guía para IA de imagen y de texto | ✅ | Rasgos, paleta, línea medida, etiquetas de Danbooru, expresiones; reglas de voz y frases reales por emoción (§15, §15.1, §15.2). |
 | 18 · Estilo, técnica y cómo replicarlo | ✅ | Herramientas de Oda, 356 imágenes medidas por época, entrevistas del staff, encuadres por emoción, pasos en Photoshop y Blender (Punto 18). No hay *rig* libre y legal del personaje: se dice y se explica. |
 | 19 · Texturas 2D | ✅ | Tramas medidas, patrones seigaiha y asanoha CC0, pinceles de Clip Studio, logo plano del manga (Punto 19). El capítulo exacto de 3 imágenes y la licencia fina de los pinceles, ⚠️. |
-| 20 · Gustos y detalles | ✅ | Ficha de los diez (edad, cumpleaños, altura, comida), objeto, cómo se ven, color, número, animal y 12 SBS más, con dos fuentes (Punto 20). |
+| 20 · Gustos y detalles | ✅ | Ficha de los diez (edad, cumpleaños, altura, comida), objeto, cómo se ven, color, número, animal y una docena de SBS más, con dos fuentes (Punto 20). |
 | 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Números, razones con cita, con quién se identifican; 3 escenas que hacen llorar con minuto, música y dibujo (Punto 21). Faltan los minutos de otras 7, los comentarios más votados y por qué Zoro, Sanji y Carrot ganan en Latinoamérica. |
-| 22 · Fan dubs y comunidad hispana | ✅ | 17 fan dubs, 11 clips compartidos, 16 covers, 14 canciones y corridos, parodias y actores en convenciones, con vistas (Punto 22). |
+| 22 · Fan dubs y comunidad hispana | ✅ | 16 fan dubs, 8 clips compartidos, 12 covers, 10 canciones y corridos, parodias y actores en convenciones, con vistas (Punto 22). |
 | 23 · Colaboraciones y cruces | ⚠️ | Moda, McDonald's, gachas, cruces con Dragon Ball y Toriko, USJ, ONE PIECE DAY, tiendas (Punto 23). **No se buscaron figuras oficiales** y las fotos de cosplay de Openverse no se miraron una a una. |
 | 24 · Obras parecidas | ✅ | Influencias que reconoce Oda, recomendaciones de AniList y comparación con 8 biblias del servidor (Punto 24). |
 | 25 · Mundo, historia por arcos y símbolos | ⚠️ | Reglas en cinco líneas, emblemas, vocabulario con su versión latina (Punto 25). La historia por arcos sólo con lo ya citado: faltan los rangos de episodios de East Blue a Isla Gyojin. |
@@ -2427,7 +2427,7 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 | Tipo · Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Por sus API, con autor, tamaño y marca de IA (§5, §5.1, §6). |
 | Tipo · Vídeo | ✅ | Clips oficiales, copias de Internet Archive y Dailymotion, *storyboards*; TikTok con vistas (§12, Punto 22). |
 | Tipo · Código y recursos | ✅ | GitHub (optc-db, ANN, CineWatch, YuskaWu), PyPI, Sketchfab, Poly Haven, ambientCG, Printables, Clip Studio Assets, freesvg. |
-| Tipo · Doblaje latino | ✅ | Doblaje Wiki por API con 29 muestras medidas, ANMTV, X de One Piece Doblaje Latino News, Crunchyroll en Español, Netflix. |
+| Tipo · Doblaje latino | ✅ | Doblaje Wiki por API con 27 muestras medidas, ANMTV, X de One Piece Doblaje Latino News, Crunchyroll en Español, Netflix. |
 | Hojas de contacto | ✅ | 3 JPEG de menos de 2 MB en `hojas/` (P1-P54, O1-O24 + V1-V30, F1-F24), miradas y explicadas número a número (§3.0, §3.2, §9.5). |
 | `referencias.json` | ✅ | 345 entradas, las mejores primero (P43, P26, el muro O1, los carteles, la fiesta del ep. 324), con tamaño medido, licencia y para qué. Las de audio y páginas de texto van sin tamaño. |
 
@@ -2550,3 +2550,40 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 - **No respondió**: Arctic Shift («Timeout. Maybe slow down a bit» y «Too many requests»), Reddit directo (403), `web.archive.org` («Host not in allowlist»), Namu Wiki (403), Wikipedia coreana y china (429 por la IP compartida), API de Moegirl («Unauthorized API call»), GitHub `google/fonts` en bruto (repositorio no habilitado).
 
 **Lo que sigue sin encontrar:** una entrevista al staff del anime sobre color o fondos; la letra de Panini México; el cartel rotulado en español latino; la voz latina de Law; la caja de diálogo de *Treasure Cruise* y *Pirate Warriors* vista de verdad; fuentes en coreano y chino.
+
+### Repaso del equipo (24-sep-2026, tarde): las bitácoras de las partes, juntas
+
+Primero un piloto de 8 investigadores (arte, fanart-3d, escenas, musica-videos, doblaje, personajes, dialogos, tecnica-mundo) que se cortó a medias; luego 4 investigadores (imagen, video, voz, texto) que siguieron desde ahí; y el redactor, que juntó todo en la biblia. Las partes quedan en `partes/`.
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23):
+- API de la One Piece Wiki (`imageinfo`, `allimages`, `search` con `intitle:`, `parse` de fichas de archivo para su capítulo) en inglés y **japonés** (`onepiece.fandom.com/ja`: fichas de Morgan y Roger vacías; Nekomamushi no existe).
+- one-piece.com con la cabecera `Referer` correcta (sin ella devuelve siempre la misma imagen); `/present/` y `/wallpaper/` sin fondos; X por su API de sindicación; Steam `appdetails`.
+- Pillow (k-means) y `estilo.py` (+ etiquetas WD14) para el vestuario V1-V30 y las tramas; `Read` de cada hoja y recorte citado.
+- Búsquedas (WebSearch): español «One Piece cafe temático oficial Mugiwara Store…»; inglés 8 («Clip Studio Assets free screentone…», «One Piece Fortnite collaboration…», «One Piece Uniqlo UT…», «McDonald's Japan Happy Meal…», «Universal Studios Japan…», «Levi's OR Vans OR BAPE…», «Monster Strike gacha…», «seigaiha asanoha SVG CC0»); japonés 2 («ワンピース コラボ 展覧会 2025 2026», «one-piece.com 壁紙 エルバフ プレゼント»).
+- `freesvg.org` leído con `curl` (etiqueta de licencia CC0).
+
+**Fan art y 3D** (piloto): API de Sketchfab modelo a modelo (licencia, autor, `faceCount`, fechas), API de Poly Haven, página de Kenney y Quaternius, **API GraphQL de Printables**, API *ajax* de Pixiv (con `aiType`), búsqueda de ArtStation con `PUBLIC-CSRF-TOKEN` (las fichas dan 403).
+
+**Vídeo** (puntos 2, 4, 9, 10, 14):
+- YouTube: «Sign in to confirm you're not a bot» toda la tarde (17:16-18:50 UTC); por ratos, *storyboards* y metadatos (vistas).
+- **Internet Archive**: listado del lote HorribleSubs (2.617 archivos) y fotogramas sueltos con `ffmpeg -ss` sobre la URL directa (acepta *range requests*), sin bajar el episodio entero.
+- Dailymotion: API de búsqueda y `fotogramas.py --cortes` sobre 12 copias. **Aviso:** «Broken Vow: Full Episode 53» resultó una telenovela filipina: filtrar por canal, no sólo por título.
+- One Piece Wiki: wikitexto de «Carmine», «One Piece Music» y los eps. 483, 1071, 1082 y 1139. `numpy` para el tempo. Wikipedia en inglés, JSON roto una vez; ANN, 403.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22):
+- Doblaje Wiki por su API (`parse` de las tablas de las temporadas 1, 2, 6, 9, 19 y del especial de Alabasta; fichas de Tashigi, Lourdes Arruti, Carlos Segundo, Basurto, Dafnis; `search` en archivos `.mp3`; `imageinfo`). **27 muestras** pasadas por `voz.py` (Whisper *small* y *medium* + Praat).
+- one-piece.com (fichas de 9 personajes, noticias de encuestas), web oficial del WT100 (pestañas por región), Jikan (MyAnimeList), Animate Times y Hebochans (japonés), MANTANWEB, Oricon, Nikkei.
+- Reddit por **Arctic Shift** (r/OnePiece, r/OnePiece_es, r/OnePieceEsp), yt-dlp (búsqueda por vistas + oEmbed) y páginas públicas de TikTok para vistas y fechas.
+- Búsquedas en español: «"Carlos Segundo" Barbanegra…», «"Christian Strempler" Doflamingo…», «Esteban Desco Mihawk…», «por qué Zoro es tan popular en Latinoamérica…» y **11 variantes** sobre la salida de Dafnis Fernández (sin motivo nuevo). WebFetch de El Heraldo, ANMTV, Cine PREMIERE y un hilo de Pirate-King.
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25):
+- One Piece Wiki por su API: 15 `parse` de wikitexto (Grand Line, Jolly Roger, World Government, Log Pose, Vivre Card, Belly, Devil Fruit, Haki, Poneglyph, Den Den Mushi, Four Emperors, Will of D., Three Great Powers…). `prop=extracts` no funciona en esta wiki.
+- 356 imágenes de la wiki medidas por época con un script basado en `estilo.py` (trabajo del piloto, leído y mirado).
+- Páginas japonesas leídas enteras: **Animedia** (Nagamine Tatsuya), **Real Sound** (Wano → Egghead), **canrevb** (la mesa de Oda).
+- Steam (59 capturas de 7 juegos), App Store de México y Japón (29 capturas), tráiler de *Grand Gourmet*; tesseract para leer las cajas.
+- Búsquedas (7): inglés «Eiichiro Oda influences Dragon Ball Toriyama Vicky the Viking…»; japonés «尾田栄一郎 影響を受けた漫画 バイキングビッケ…»; español «Panini México One Piece tipografía…» (dos veces); «site:tcrf.net One Piece unused».
+- 403 comprobado dos veces: `tcrf.net` y `tvtropes.org`.
+
+**Redactor:** leyó las 12 partes y los `datos-*.md`; miró otra vez las hojas `personajes_01.jpg` y `objetos_01.jpg` para comprobar P25-P54 y V1-V30; juntó 345 referencias (40 de antes + las de las partes + las útiles de `datos.json`, sin repetir, las mejores primero). **No hizo búsquedas nuevas:** todo sale de las partes y de la biblia.
+
+**Lo que sigue sin encontrar tras el repaso:** fotogramas en 1080p de las escenas nuevas; poses oficiales de Zoro animando, Sanji explicando o regañando y Chopper regañando o pensando; caras de miedo y vergüenza; minutos de 7 escenas que hacen llorar; por qué Zoro, Sanji y Carrot ganan en Latinoamérica; el motivo de la salida de Dafnis con una segunda fuente; un cartel dibujado con «SE BUSCA» en la versión latina; la letra de Panini México; figuras oficiales; rangos de episodios de los primeros arcos; fuentes en coreano y chino.

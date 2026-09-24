@@ -152,11 +152,31 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
   21*): redibuja la misma historia con **anatomía semirrealista, tinta muy
   contrastada y detalle obsesivo** (practica pintar bolas de cristal y
   canicas para dominar los reflejos). · [ComicBook.com](https://comicbook.com/anime/news/one-punch-man-yusuke-murata-art-realistic/) ✅
-- **Programa de Murata**: dibuja en digital con **Clip Studio Paint** (el
-  mismo programa que Boichi, de *Dr. Stone*). ⚠️ una sola fuente agregadora
-  ([FandomWire](https://fandomwire.com/one-punch-man-quality-of-drawing-in-yusuke-muratas-manga-was-so-good-that-the-studio-thought-the-animation-can-never-match-it/));
-  intenté la página oficial «CLIP STUDIO ASK» pero es una SPA en JS que no
-  pude leer sin ejecutar el sitio.
+- **Cómo dibuja Murata de verdad (búsqueda en japonés, corrige el dato de
+  fuentes en inglés)** ✅: entinta a **mano, en papel (analógico)**; lo
+  digital lo hacen sus **ayudantes**, para fondos y color. Dos fuentes en
+  japonés:
+  1. Respuesta en Yahoo!知恵袋 (dic-2019) de alguien que vio sus
+     retransmisiones de dibujo en directo: «*基本的にペン入れまではアナログ
+     でしたね。背景とかその他諸々はアシスタントさん達がデジタルで作業してる
+     ようです*» («básicamente, hasta el entintado con pluma es analógico. Los
+     fondos y demás parece que los hacen sus ayudantes en digital»); el color
+     también lo pinta él a mano, pluma a pluma. ·
+     [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13217622713)
+  2. Charla pública con Jouji Morikawa (*Hajime no Ippo*), transcrita por
+     Logmi Business: Murata cuenta que estudió cine de acción (Jackie Chan,
+     Spielberg de los 80) desde *Eyeshield 21* para que el papel «pareciera
+     que se mueve» («*動画っぽい表現*»), fijándose en el ritmo de corte de
+     escena a escena; dice que, aun con casi 10 años dibujando, **todavía
+     corrige el contorno de la cara de Saitama** porque no le sale bien a la
+     primera («*僕も10年近く描いてるのにサイタマの輪郭がうまく描けなくて
+     修正してる*»); y coincide con Morikawa en que al pasar el boceto a tinta
+     **se pierde «calor» y «presión»** del boceto original — la misma
+     conversación de un dibujante que trabaja con lápiz y pluma sobre papel.
+     · [Logmi Business](https://logmi.jp/knowledge_culture/culture/325988)
+  Esto **corrige** lo que decían las fuentes en inglés (FandomWire) de que
+  Murata dibujaría todo en Clip Studio Paint: puede usarlo para partes del
+  proceso, pero **el entintado de los personajes es a mano**.
 - El contraste **Saitama-cara-simple / mundo-hiperdetallado en la misma
   viñeta** ya está anotado en §6.3 de la biblia como «el chiste visual base».
 
@@ -436,10 +456,12 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
   pasada anterior (registrada en `datos-texto.md`).
 - Página de **The Cutting Room Floor** para cualquier juego de OPM: comprobado
   con la búsqueda del propio sitio, 0 resultados.
-- Confirmación **primaria** (no de agregador) de que Murata usa Clip Studio
-  Paint, y de las citas de ONE/Murata sobre Dragon Ball: los artículos
-  originales (itechpost.com, cbr.com, CLIP STUDIO ASK) bloquearon la carga
-  del contenido (verificación en JS o control anti-bot). Marcado con ⚠️.
+- Confirmación **primaria** (entrevista directa, no de agregador) de las citas
+  de ONE sobre Dragon Ball: los artículos originales (itechpost.com, cbr.com)
+  bloquearon la carga del contenido (verificación en JS o control anti-bot);
+  se quedó en ⚠️ una sola fuente. **Sí se pudo corregir** el dato del programa
+  de Murata buscando en japonés (ver 18.1: entinta a mano, no en Clip Studio
+  Paint como decían las fuentes en inglés).
 - Página de **TV Tropes** para One Punch Man: existe pero Cloudflare bloqueó
   los dos intentos de lectura.
 
