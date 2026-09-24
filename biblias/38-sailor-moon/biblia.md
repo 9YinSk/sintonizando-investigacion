@@ -1189,3 +1189,33 @@ color. ✅ salvo lo marcado.
 
 ---
 
+## 17 · Paisajes y fondos de pantalla
+
+### 17.1 Los sitios y su hora (paletas en §5)
+
+| Sitio | Hora y luz | Dónde verlo |
+|---|---|---|
+| Templo Hikawa | **atardecer** pastel, cielo celeste y nubes rosas | [imagen de la wiki](https://static.wikia.nocookie.net/sailormoon/images/3/3e/Hikawa-shrine.jpg) |
+| Tokio | **noche** turquesa con la Torre de Tokio y la luna creciente | EP1, 16:20 |
+| Parque en primavera | **día**, cerezos en flor | #99 de `personajes_03.jpg` (1824×1209) |
+| Patio del colegio | día | fotogramas de fondo en `personajes_03.jpg` |
+| Cuarto de Usagi | día y noche, rosa y blanco | EP1, 15:48 |
+| Polo Norte, cueva de hielo | **noche** helada, azules y destellos | EP39, 13:51 a 18:51 |
+| Sueño de *Cosmos* | **atardecer** lila, Torre de Tokio por la ventana | *Cosmos* 2, 1:17:33 |
+
+### 17.2 Fondos de pantalla
+
+- **De fans, en alta** ([Wallhaven](https://wallhaven.cc), sólo aptos):
+  238 resultados para «sailor moon», 177 de ellos de 1920×1080 o más. Los
+  dos más guardados: [`g7x37l`](https://w.wallhaven.cc/full/g7/wallhaven-g7x37l.jpg)
+  (3900×5800, 339 favoritos) y [`x1xy9l`](https://w.wallhaven.cc/full/x1/wallhaven-x1xy9l.jpg)
+  (3840×2160, 292 favoritos). Wallhaven no da el autor. ✅ ⚠️ No mirados
+  por el redactor.
+- **Oficiales:** ⚠️ no se encontró un paquete de fondos oficial de Toei
+  o Kodansha. Lo más parecido: el **banner de AniList** (1900×600) y los
+  **calendarios** #121-127 de `personajes_03.jpg`.
+- Las **carátulas de LaserDisc** (#22-26, #59-69, hasta 3696×3675) sirven
+  de «fondo oficial» por su color plano con motivos.
+
+---
+
