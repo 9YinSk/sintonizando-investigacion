@@ -26,6 +26,36 @@ investigues tiene que servirle a alguno de ellos.
 
 Verifica lo importante en dos fuentes. Si algo no lo pudiste confirmar, dilo.
 
+## Profundidad exigida: hasta el último rincón
+
+No te quedes en la primera página de resultados. **Mínimo 40 fuentes distintas**
+por encargo, y de todos estos tipos (si alguno no existe, dilo):
+
+- **Oficiales**: web y redes oficiales, entrevistas al staff (director, diseñador
+  de personajes, director de arte, compositor), artbooks, *making of*, notas de
+  producción, comentarios de los Blu-ray, blogs de desarrollo de los juegos.
+- **En otros idiomas**: busca también **en japonés, inglés y coreano o chino**
+  si la obra viene de ahí (las entrevistas originales suelen no estar traducidas).
+- **Wikis de fans** (Fandom y las de cada idioma), **TV Tropes**, y para
+  videojuegos **The Cutting Room Floor** (contenido descartado, textos y
+  frases de betas y prototipos) y **Wayback Machine** para páginas borradas.
+- **Foros y comunidades**: Reddit (si reddit.com no responde, usa el archivo
+  público de Arctic Shift: `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=<sub>`),
+  foros especializados, Discords públicos con registros, 4chan/archivos si hace
+  falta un dato, Tumblr y X/Twitter de artistas del staff.
+- **Arte**: Pixiv, ArtStation, DeviantArt, Pinterest (para encontrar la fuente
+  original, nunca como fuente final).
+- **Vídeo**: análisis en YouTube, vídeos de staff, tendencias de TikTok, con el
+  **minuto exacto**.
+- **Código y recursos**: repositorios de GitHub (letras, herramientas, mods,
+  shaders, extractores de recursos), Sketchfab, bancos de texturas.
+- **Doblaje latino**: Doblaje Wiki (por su API), ANMTV, entrevistas a los
+  actores latinos en YouTube, créditos de Crunchyroll y Netflix Latinoamérica.
+
+Al final del dossier añade **«Bitácora de búsqueda»**: las búsquedas que hiciste
+(con el idioma), las fuentes consultadas y lo que NO encontraste. Distingue
+siempre lo **confirmado** (dos fuentes) de lo **dudoso**.
+
 ## Dónde dejarlo
 
 En `investigaciones/<tu-tema>/`, sin tocar otras carpetas:
