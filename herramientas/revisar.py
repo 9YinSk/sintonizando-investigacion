@@ -2,7 +2,7 @@
 """Dice qué biblias están completas según las reglas actuales.
 
 Una biblia está COMPLETA cuando tiene la tabla «Cumplimiento del encargo» sin
-ningún ❌, 20-40 referencias en referencias.json, 3 hojas en hojas/ y, si es
+ningún ❌, 20 referencias o más en referencias.json, 3 hojas en hojas/ y, si es
 una de las 01-30, la sección «Segunda pasada · qué cambió».
 Los ⚠️ no impiden que esté completa: son datos con una sola fuente o que hay
 que oír/ver en persona (se listan para que el dueño sepa qué falta confirmar).
@@ -38,7 +38,7 @@ def revisar(id):
     falta = []
     if not m: falta.append("tabla de cumplimiento")
     if no: falta.append(f"{no} puntos ❌")
-    if not 20 <= refs <= 40: falta.append(f"referencias ({refs})")
+    if refs < 20: falta.append(f"referencias ({refs})")
     if hojas != 3: falta.append(f"hojas ({hojas})")
     if num <= 30 and not repaso: falta.append("segunda pasada")
     estado = "COMPLETA" if not falta else "falta: " + ", ".join(falta)

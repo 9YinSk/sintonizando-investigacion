@@ -10,7 +10,7 @@ cuando tiene:
 
 - la tabla «Cumplimiento del encargo» (17 puntos, 3 conceptos, 40 fuentes,
   tipos de fuente, hojas y referencias) **sin ningún ❌**;
-- 20-40 entradas en `referencias.json` y 3 hojas en `hojas/`;
+- 20 entradas o más en `referencias.json` y 3 hojas en `hojas/`;
 - si es una de las 01-30, la sección «Segunda pasada · qué cambió».
 
 Los ⚠️ no la dejan incompleta: marcan datos con una sola fuente o cosas que

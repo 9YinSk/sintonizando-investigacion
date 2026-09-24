@@ -14,10 +14,25 @@ Siguen valiendo `ENCARGO.md` (qué tiene que tener una biblia), `AYUDANTE.md`
 | **Investigador de vídeo** | Puntos 2, 4, 9, 10 y 14: opening, ending, tráiler y escenas mirados con `fotogramas.py`; poses con capítulo y minuto; luz y paleta de los sitios medida en fotogramas; música. | `partes/video.md`, `partes/video.json` |
 | **Investigador de voz y personajes** | Puntos 7, 8, 12, 13, 20, 21 y 22: encuestas de popularidad, doblaje latino (dos fuentes por nombre), frases textuales de clips oficiales doblados, carácter y forma de hablar, gustos de cada personaje, por qué la aman, fan dubs en español, lo que ama el fandom y qué no hacer. | `partes/voz.md` |
 | **Investigador de texto, juegos y técnica** | Puntos 5, 6, 11, 18, 24 y 25: tipografías y su letra libre (tildes, ñ, ¿, ¡ comprobados con fontTools), cuadros de diálogo de manga, cartelas y videojuegos, interfaces, estilo de dibujo y cómo replicarlo en Photoshop y Blender, obras parecidas, el mundo y sus símbolos. Fuentes en japonés, coreano o chino, TCRF y Wayback. | `partes/texto.md`, `partes/texto.json` |
-| **Redactor** | Lee todas las partes, el encargo, `servidor/reglas_del_dueno.md`, `servidor/inventario.md` y `DECISIONES.md`, y escribe **él solo** la biblia: los 25 puntos (el 17, guía para IA de imagen y de texto, lo hace él), los 3 conceptos, la tabla de cumplimiento y la bitácora. Junta las referencias en `referencias.json` (20-40) y deja 3 hojas. | `biblia.md`, `referencias.json` |
+| **Redactor** | Lee todas las partes, el encargo, `servidor/reglas_del_dueno.md`, `servidor/inventario.md` y `DECISIONES.md`, y escribe **él solo** la biblia: los 25 puntos (el 17, guía para IA de imagen y de texto, lo hace él), los 3 conceptos, la tabla de cumplimiento y la bitácora. Junta las referencias en `referencias.json` (todas las útiles de las partes, mínimo 20, sin máximo) y deja 3 hojas. | `biblia.md`, `referencias.json` |
 
 Cada uno escribe **sólo en sus archivos**. Nadie más que el redactor toca
 `biblia.md`, así nadie pisa el trabajo de otro.
+
+## Equipo de 8 (series grandes o cuando hay prisa)
+
+Cada rol se parte en dos; cada uno con su archivo `partes/<rol>.md` y `.json`:
+
+| Rol | Puntos de ENCARGO.md |
+|---|---|
+| `arte` | 1 arte oficial variado, 15 vestuario con hex medidos, 16 fondos de pantalla; hojas de contacto |
+| `fanart-3d` | 3 fan art y 3D con licencia, 19 texturas 2D, 23 colaboraciones y cruces |
+| `escenas` | 2 fotogramas de escenas icónicas, 14 poses analizadas con minuto |
+| `musica-videos` | 4 sitios con luz y paleta medida, 9 música, 10 vídeos y tendencias con minuto |
+| `doblaje` | 8 doblaje latino y frases textuales, 22 fan dubs y comunidad hispana |
+| `personajes` | 7 popularidad, 12 fandom y qué no hacer, 13 carácter y forma de hablar, 20 gustos, 21 por qué la aman |
+| `dialogos` | 5 tipografía, 6 cuadros de diálogo, 11 videojuegos |
+| `tecnica-mundo` | 18 estilo y cómo replicarlo, 24 obras parecidas, 25 mundo y símbolos |
 
 ## Cómo escribe cada investigador su parte
 

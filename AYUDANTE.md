@@ -118,7 +118,7 @@ si no lo hiciste, se ve en la tabla.
 - Mínimo **40 fuentes distintas**, de todos los tipos que pide `ENCARGO.md`.
 - ✅ = confirmado en dos fuentes; ⚠️ = una sola fuente o de memoria. No
   inventes minutos, tamaños ni nombres: si no lo comprobaste, lleva ⚠️.
-- `referencias.json`: 20-40 entradas con `url`, `fuente`, `ancho`, `alto`
+- `referencias.json`: **todas las útiles** (mínimo 20, sin máximo; las mejores primero), con `url`, `fuente`, `ancho`, `alto`
   (**medidos**), `que_es`, `para_que`, `licencia`. La `url` es **la imagen**
   (o el vídeo con `&t=`), no una página donde «hay imágenes».
 - Frases cortas, para leer en el celular. Termina con los 3 conceptos de lámina

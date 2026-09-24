@@ -169,7 +169,7 @@ siempre lo **confirmado** (dos fuentes) de lo **dudoso**.
 En `biblias/<tu-encargo>/`, sin tocar carpetas de otros encargos:
 - `biblia.md` — el dossier completo, en español, **claro para leer en el
   celular** (frases cortas, sin jerga técnica), con fuentes enlazadas.
-- `referencias.json` — lista de las 20-40 mejores referencias: `url`,
+- `referencias.json` — todas las referencias útiles (mínimo 20, sin máximo; las mejores primero): `url`,
   `fuente`, `ancho`, `alto`, `que_es`, `para_que`, `licencia`.
 - `hojas/` — como mucho **3 hojas de contacto** en JPEG de menos de 3 MB cada una.
   **No subas imágenes grandes** al repositorio: sólo sus enlaces.
