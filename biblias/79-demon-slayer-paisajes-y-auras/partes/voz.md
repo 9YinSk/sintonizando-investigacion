@@ -561,16 +561,25 @@ hermana con este detalle:
   impacto cultural), YouTube (bloqueado, «inicia sesión»), TikTok (no sirve
   HTML con metadatos a WebFetch).
 - Comparado contra `biblias/31-demon-slayer-kimetsu-no-yaiba/biblia.md`
-  (§9 popularidad, §10 doblaje) para no repetir búsquedas de reparto: sólo
-  cito y añado lo nuevo (premio 2026, análisis de aura, medición de voz).
+  (§8 personajes, §9 popularidad, §10 doblaje, §14 fandom) para no repetir
+  búsquedas de reparto/memes ya verificadas: sólo cito y añado lo nuevo
+  (premio 2026, análisis de aura, medición de voz, «qué no hacer» de
+  colores, la amnesia de Muichiro, gustos con databook).
+- `api.animethemes.moe` (openings/endings sin YouTube): **caído desde este
+  servidor**, 3 intentos con `curl --max-time 15`, sin respuesta (mismo
+  522 que ya avisaba `datos-video.md`). Por eso las «caras por emoción»
+  del punto 13 salen de imágenes de la wiki (medidas, pero sin minuto) y
+  no de `fotogramas.py`.
+- `voz.json` (22 referencias: 4 audios, 6 imágenes de expresión medidas,
+  2 páginas clave de la wiki, 3 hilos de Reddit, 2 artículos de prensa
+  sobre premios/taquilla, 2 análisis/entrevistas de staff, 1 ensayo de
+  fan en japonés, 1 base de datos de doblaje) queda en esta misma carpeta.
 
-Sigue: falta desarrollar a fondo el punto 13 (carácter y forma de hablar
-completo de los 4 protagonistas + secundarios) con lo ya reunido
-(Personality/Trivia de la wiki, ya bajados a
-`/tmp/claude-0/trabajo/79-demon-slayer-voz/api/*_sections.txt`), el punto
-20 (gustos: ya tengo los datos en bruto de 9 personajes, falta redactarlos
-en la biblia), el punto 21 (por qué la aman + escenas que hacen llorar: ya
-tengo taquilla, premios, hilos de Reddit sobre Akaza/Rengoku, falta cerrar
-con capítulo+minuto de 2-3 escenas) y el punto 22 (fan dubs: ya tengo 3
-enlaces, falta redactarlos). También falta `voz.json` con las referencias
-(audios, imágenes de expresión con tamaño medido, la tabla de colores).
+Todo lo obligatorio de mis puntos (7, 8, 12, 13, 20, 21, 22) está escrito
+arriba. Lo que falta son extras ya señalados con ⚠️ en «No encontré»
+(la superstición exacta del Nichirin negro con capítulo, entrevistas de
+Ufotable con cita textual por color de personaje, vistas exactas de
+fandubs, y el minuto preciso de las caras por emoción, que depende de
+`partes/video.md`). No dejo «Sigue»: si aparece `partes/video.md` con
+fotogramas y minutos, se puede completar el punto 13 sin rehacer nada de
+lo de aquí.
