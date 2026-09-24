@@ -142,14 +142,74 @@ kanji comprobado en el wikitext, no de memoria.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- El **camera mapping** de MAPPA (dibujo 2D proyectado sobre geometría 3D simple, con capas de sombra en After Effects) es literalmente la misma idea que pide `reglas_del_dueno.md` para Blender: un objeto simple con la textura pintada encima.
+- El **shader de dos tonos con ColorRamp en modo Constant** (Blender) reproduce exactamente la sombra dura que ya midió la biblia (§18): es la receta técnica que faltaba.
+- Sukuna **no es un invento**: es una figura real del *Nihon Shoki* venerada como guardián budista en los templos de Hida — encaja con el santuario budista ya usado como su dominio (§5 de la biblia) y da una frase de gancho («el templo lo recuerda como héroe, no como demonio»).
+- Chainsaw Man, Evangelion y Hunter x Hunter (las 3 influencias que el propio Akutami confiesa) **ya están en la cola de encargos**: si se hacen después, que no repitan el «velo que se abre y cierra» ni la pizarra de aula de JJK.
+- El Culling Game (死滅回遊, 10 colonias, 1-nov a 24-dic) da una cuenta atrás con fecha real: sirve para un **calendario o cartel de evento** del servidor.
 
 ## No encontré
 
-(pendiente)
+- ⚠️ El desglose técnico completo del shading anime de Yuta Okkotsu en Blender (DAL, vía 80 Level): el artículo enlaza a Patreon/Gumroad, de pago; no pude leer los pasos exactos, sólo que existe y qué software usa (Blender).
+- ⚠️ Una entrevista de MAPPA que confirme **por nombre** qué software 2D usa hoy en JJK (Toon Boom Harmony, RETAS o Clip Studio): lo que hay es contexto de la industria japonesa en general (Wikipedia, CLIP STUDIO ASK) y un blog (Dark Skies Film) que lo afirma sin citar una fuente primaria del estudio.
+- ⚠️ Grano y aberración cromática **específicos** de JJK confirmados en una entrevista o *making of*: di el método general de posproducción (capas de ruido/desplazamiento de canal), pero sin una fuente que diga «así lo hace MAPPA en JJK».
+- ⚠️ Dos fuentes en `attackofthefanboy.com` (403) y `deltiasgaming.com` (405): no cargaron con `WebFetch`; usé `beebom.com` como segunda fuente en su lugar para los arcos.
+- ⚠️ Imágenes reales de los **escudos/emblemas** de los clanes Zenin, Gojo y Kamo (más allá del ya citado emblema de la Escuela de Tokio en `imagen.json`): no los busqué a fondo porque el punto 25 es de contenido narrativo, no de imagen — corresponde al investigador de imagen si hace falta un logo dibujable.
+- No apliqué la búsqueda de «qué otras láminas del servidor se le parecen» a las **80 biblias en cola** una por una: sólo señalé las que tratan temas o series directamente relacionados con JJK (mismo género, o citadas como influencia del autor), que es lo que sirve para no repetir ideas.
 
 ## Bitácora
 
-(pendiente)
+**Búsquedas web (14 del cupo de 50; español no hizo falta: todo lo
+nuevo estaba en inglés y japonés)**
 
-Sigue: falta todo (18, 24, 25). Empezando por 18 (técnica y cómo replicarlo).
+| # | Idioma | Búsqueda | Qué dio |
+|---|---|---|---|
+| 1 | en | Jujutsu Kaisen MAPPA 3DCG Shibuya animation controversy sakuga analysis | contexto de producción, no técnica concreta |
+| 2 | ja | 呪術廻戦 作画 セルルック 3DCG 制作 メイキング MAPPA | **CGWORLD** (2 artículos usados) |
+| 3 | en | Jujutsu Kaisen Blender fan animation cel shader tutorial recreate | **80 Level** (Sukuna vs Mahoraga, FrameFiend) |
+| 4 | ja | 呪術廻戦 平松禎史 キャラクターデザイン インタビュー 作画 線 | Real Sound, noteapex (cambio T1→T2) |
+| 5 | en | Jujutsu Kaisen cinematography analysis camera angles composition video essay | Anime Lore Hub (blog, ⚠️) |
+| 6 | en | anime cel shading Photoshop tutorial flat colors multiply layer hard shadow line art | **Adobe** (guía oficial), Concept Art Empire |
+| 7 | en | MAPPA studio animation software Toon Boom RETAS Clip Studio Paint digital pipeline | Wikipedia RETAS, CLIP STUDIO ASK, Dark Skies Film |
+| 8 | en | 80.lv artist shading anime style character model Yuta Okkotsu tutorial | confirmó el tutorial de DAL (de pago) |
+| 9 | ja | 芥見下々 インタビュー 影響を受けた漫画 好きな漫画家 | pistas a Bleach/HxH y a ABARA/皇国の守護者 |
+| 10 | en | Gege Akutami interview favorite manga influences Hunter x Hunter Dragon Ball Berserk | ScreenRant, FandomWire, **edomonogatari** (charla Akutami×Kubo) |
+| 11 | en | Jujutsu Kaisen compared to Bleach Chainsaw Man tone dark humor gore review | **CBR** (3 artículos) |
+| 12 | ja | 呪術廻戦 芥見下々 弐瓶勉 ABARA 皇国の守護者 好きな作品 | tv-smash.com, confirmó ABARA en 2.ª fuente |
+| 13 | en | Jujutsu Kaisen manga story arcs list order Fandom wiki | wiki oficial (Story Arcs), beebom |
+| 14 | en | "Ryomen Sukuna" folklore Hida legend two-faced demon real Japanese myth Gifu | **Yokai.jp**, Wikipedia |
+
+**Sin cupo (API y descargas directas)**: wiki de Jujutsu Kaisen
+`action=parse` de 9 páginas (*Story Arcs*, *Cursed Energy*, *Culling
+Game*, *Binding Vow*, *Heavenly Restriction*, *Reverse Cursed
+Technique*, *Simple Domain*, *Cursed Tool*, *Template:Cursed Tools*,
+*Sorcerer Clan*), todas con `curl` directo a la API (no cuentan como
+búsqueda web); 2 imágenes técnicas de CGWORLD descargadas y medidas con
+Pillow (`/tmp/claude-0/trabajo/32-jujutsu-kaisen-texto/`, borradas del
+disco al terminar salvo las citadas en `texto.json`, que quedan como
+enlace).
+
+**Falló**: `attackofthefanboy.com` (403), `deltiasgaming.com` (405) —
+un intento cada uno, se usó `beebom.com` en su lugar.
+
+**Fuentes nuevas que no estaban en `biblia.md`** (comprobado contra los
+39 dominios ya citados, `grep` de URLs en `biblia.md`, 24-sep-2026):
+[cgworld.jp](https://cgworld.jp/) (ja, 3 artículos), [w.atwiki.jp/sakuga](https://w.atwiki.jp/sakuga/) (ja),
+[noteapex.conohawing.com](https://noteapex.conohawing.com/958/) (ja),
+[realsound.jp](https://realsound.jp/movie/2023/07/post-1368255_2.html) (ja),
+[80.lv](https://80.lv/) (2 artículos), [sketchok.com](https://sketchok.com/),
+[animelorehub.blogspot.com](https://animelorehub.blogspot.com/),
+[adobe.com](https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html),
+[ask.clip-studio.com](https://ask.clip-studio.com/en-us/detail?id=57247),
+[tips.clip-studio.com](https://tips.clip-studio.com/en-us/articles/10901),
+[darkskiesfilm.com](https://darkskiesfilm.com/what-animation-software-does-mappa-use/),
+[blenderartists.org](https://blenderartists.org/t/the-ultimate-cel-shading-shader/1413344),
+[cbr.com](https://www.cbr.com/) (3 artículos), [gamerant.com](https://gamerant.com/best-manga-like-jujutsu-kaisen/),
+[fandomwire.com](https://fandomwire.com/), [tv-smash.com](https://tv-smash.com/?p=9202) (ja),
+[jgjhgjf.hatenablog.com](https://jgjhgjf.hatenablog.com/) (ja),
+[edomonogatari.wordpress.com](https://edomonogatari.wordpress.com/2021/03/14/akutami-kubo/),
+[screenrant.com](https://screenrant.com/jujutsu-kaisen-akutami-anime-inspiration-bleach-evangelion/),
+[beebom.com](https://beebom.com/jujutsu-kaisen-arcs-in-order/),
+[yokai.jp](https://yokai.jp/en/yokai/ryomen-sukuna/). **21 dominios
+nuevos** (la biblia tenía 39; suma 60 sin contar los reusados como
+`en.wikipedia.org` o `jujutsu-kaisen.fandom.com` en páginas nuevas).
