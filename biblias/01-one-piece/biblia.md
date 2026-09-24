@@ -507,8 +507,11 @@ que ya decía: «el ドン!! junto al personaje y el cartel de SE BUSCA».
      su padre, Vinsmoke Judge, lo quería de vuelta vivo (para casarlo en Whole Cake) ✅ (wiki; hoja O8)
      ([One Piece Merchandise](https://onepiece-merchandise.com/sanji-wanted-poster-why-only-alive-story-behind-one-piece/),
      [Wanted Store](https://wanted-store.fr/en/wanted-poster-one-piece-ultimate-guide/?v=0b3b97fa6688)).
-   - En japonés «DEAD OR ALIVE» se dice 生死問わず ⚠️
-     ([Pixiv Enciclopedia](https://dic.pixiv.net/a/%E6%89%8B%E9%85%8D%E6%9B%B8(ONEPIECE))).
+   - En japonés «DEAD OR ALIVE» se dice 生死問わず («vivo o muerto») y «ONLY ALIVE», 生け捕りのみ ✅
+     ([Pixiv Enciclopedia](https://dic.pixiv.net/a/%E6%89%8B%E9%85%8D%E6%9B%B8(ONEPIECE)) +
+     [Wikipedia en japonés, «ONE PIECEの用語一覧»](https://ja.wikipedia.org/wiki/ONE_PIECE%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7)).
+     Pero **el cartel lo lleva en inglés** también en Japón (hojas O3-O9).
+     La misma Wikipedia dice que si el pirata llega muerto se paga **un 30 % menos**: el Gobierno quiere ejecutarlo en público ⚠️ (una fuente).
 4. **El personaje dentro del cartel (oficial del anime)** ✅: en los
    *eyecatchers* de la época de Alabasta, cada personaje posa **dentro de un
    marco WANTED inclinado**, con «DEAD OR ALIVE» cortado en los bordes y el
@@ -647,7 +650,7 @@ de nombre, no un rectángulo blanco.
 ### Recompensas actuales (tras Wano, capítulo 1058) ✅
 Luffy **3.000.000.000**, Zoro **1.111.000.000**, Jinbe 1.100.000.000,
 Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.000, Brook 383.000.000,
-**Nami 366.000.000** (antes ⚠️) y Chopper **1.000** ✅
+**Nami 366.000.000** (*antes dudoso*) y Chopper **1.000** ✅
 ([ficha oficial de one-piece.com](https://one-piece.com/character/luffy/index.html),
 [Game Rant](https://gamerant.com/straw-hat-pirates-bounties-after-wano-explained/),
 [CBR](https://www.cbr.com/one-piece-straw-hat-post-wano-bounties-explained/),
@@ -669,8 +672,8 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 2. **Redoblaje sin cortes, ep. 1-206:** estudio **Labo**, dirige **Arturo Castañeda** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece), [ANMTV, East Blue](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). Se grabó de septiembre de 2019 a septiembre de 2021 y llegó a Netflix en 2020. Traducido del japonés.
 3. **Ep. 207-325:** pasa a **Audiomaster Candiani**, dirige **Patricia Acevedo** ✅ (Doblaje Wiki + [ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)). *Antes decía que el cambio de estudio fue en el 326: era en el 207.*
 4. **Desde el ep. 326:** sigue Candiani; dirigen **Daniel Lacy** (326-445) y **Luis Miguel Morales** (desde el 326). Cambian Luffy y Zoro ✅ (Doblaje Wiki + [ANMTV, Sabaody](https://www.anmtvla.com/2023/10/one-piece-netflix-estrena-una-nueva.html) + [ANMTV, Punk Hazard](https://www.anmtvla.com/2024/11/one-piece-netflix-.html)).
-   - Por qué cambiaron: Mireya Mendoza se fue de viaje de trabajo a Estados Unidos y Dafnis Fernández tuvo «diferencias con la empresa» ⚠️ (sólo Doblaje Wiki). Hubo campaña de fans **#NoAlRecast** en 2022 ✅ ([ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)).
-5. **Dónde se ve:** Netflix, Crunchyroll (desde sep-2023, East Blue), Max y Claro Video ✅ ([ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En TV abierta, Azteca 7 emitió 309 episodios ⚠️ (Doblaje Wiki).
+   - Por qué cambiaron: Mireya Mendoza se fue de viaje de trabajo a Estados Unidos y Dafnis Fernández tuvo «diferencias con la empresa» ⚠️ (sólo Doblaje Wiki; [ANMTV, Thriller Bark](https://www.anmtvla.com/2023/07/one-piece-netflix-estrena-nueva-tanda.html) sólo dice que Mireya fue «retirada» del personaje). Hubo campaña de fans **#NoAlRecast** en 2022 ✅ ([ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)).
+5. **Dónde se ve:** Netflix, Crunchyroll (desde sep-2023, East Blue), Max y Claro Video ✅ ([ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En TV abierta, **Azteca 7 (México) lo estrenó en 2022 con el doblaje nuevo**, «por primera vez en la historia de la cadena» ✅ ([ANMTV, especial 2022](https://www.anmtvla.com/2022/12/especial-que-animes-tuvieron-los_28.html) + Doblaje Wiki + wiki en español); que llegara a **309 episodios** sólo lo dice Doblaje Wiki ⚠️. También Red Uno (Bolivia), desde octubre de 2022 ✅ (wiki en español + el mismo especial de ANMTV).
 
 **Más del equipo** (Doblaje Wiki; una fuente ⚠️ salvo lo marcado): traducción de Brenda Nava, Lourdes Arruti y Reina y Yuu Zuzuki (1-206), Citlalli Dávila (207-325) y **Axel Contreras** (247-516; también tradujo Film Red ✅ con [ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html)). Adaptación: Ian Rosas (desde el 207). Dirección musical: Carlos Herrera (326-635). Hay diálogos grabados en Mérida, Los Ángeles y **Córdoba, Argentina** (Sebastián Llapur).
 
@@ -687,14 +690,14 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 | Robin | **Kerygma Flores** | Doblaje Wiki, ANMTV (×3), ANN | ✅ |
 | Franky | **Manuel Campuzano** | Doblaje Wiki, ANMTV (×2), ANN | ✅ |
 | Brook | **Óscar Flores** | Doblaje Wiki, ANMTV (×2), ANN | ✅ |
-| Jinbe | **Víctor Hugo Aguilar** | Doblaje Wiki, ANMTV (×2), ANN | ✅ (antes ⚠️) |
+| Jinbe | **Víctor Hugo Aguilar** | Doblaje Wiki, ANMTV (×2), ANN | ✅ (*antes dudoso*) |
 | Shanks | **Raúl Anaya** | ANMTV (×2), ANN | ✅ |
-| Uta (Film Red) | **Azul Valadez**; canta **Aitza Terán** | [ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html), ANN | ✅ (antes ⚠️) |
+| Uta (Film Red) | **Azul Valadez**; canta **Aitza Terán** | [ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html), ANN | ✅ (*antes dudoso*) |
 | Koby (Film Red) | Angélica Villa | ANMTV + [Doblaje Wiki, Film Red](https://doblaje.fandom.com/es/wiki/One_Piece_Film:_Red) | ✅ (antes, una fuente) |
 
 **Film Red:** Audiomaster Candiani, dirige **Daniel Lacy** (su primera vez en la franquicia) ✅ ([ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html), [ficha de ANN](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/24981.json)).
 
-**Serie de Netflix con actores (2023 y 2026):** estudio Grande Studios, **dirige Mireya Mendoza** (la primera Luffy del anime) ⚠️ (sólo Doblaje Wiki).
+**Serie de Netflix con actores (2023 y 2026):** estudio Grande Studios (sólo Doblaje Wiki), **dirige Mireya Mendoza** (la primera Luffy del anime) ✅ (Doblaje Wiki + [ANMTV, segundo tráiler](https://www.anmtvla.com/2023/07/one-piece-netflix-presenta-el-segundo.html): «La dirección está a cargo curiosamente de Mireya Mendoza»). *Antes, con ⚠️.*
 - **Luffy: Iñaki Godoy se dobla a sí mismo** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece_(2023)), [Netflix Latinoamérica](https://www.facebook.com/NetflixLatino/posts/un-dato-sobre-one-piece-i%C3%B1aki-hizo-la-voz-de-luffy-en-espa%C3%B1ol-y-mayumi-takama-qu/699771622189788/)). *Antes decía «tendría la voz del anime»: era un error de lectura del titular de [LevelUp](https://www.levelup.com/noticias/745178/One-Piece-Luffy-tendra-su-voz-original-en-la-serie-liveaction-de-Netflix/).*
 - Zoro: Dafnis Fernández · Nami: Gina Sánchez · Usopp: Pablo Moreno · Sanji: Taz Skylar se dobla a sí mismo · Chopper (2.ª temporada): Nallely Solís ✅ ([Sonica](https://sonica.mx/curiosidades/2026/03/18/one-piece-doblaje-en-espanol-latino-del-live-action-quien-hace-la-voz-de-chopper-y-mas-personajes-de-la-serie-de-netflix-99350.html) + Doblaje Wiki). Lista de voces en [X](https://x.com/ElXtops/status/2031794915177336894).
 
@@ -739,7 +742,7 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 - **Grand Line = «Gran Ruta Marítima»** ✅ (muestra de Robin + el tuit de Toei Animation Latinoamérica con **#LaGranRutaMaritima**, citado por [ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En 4Kids era «Gran Línea».
 - **Log Pose** y **Eternal Pose** se quedan en inglés ✅ (Doblaje Wiki + muestra de Robin).
 - **Nakama = «compañero»** ✅ (muestra de Luffy 3 + [One Piece Wiki en español](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)). **En la lámina: «tripulación» o «compañeros», nunca «nakama».**
-- La fruta de Luffy es la **«Fruta Goma Goma»** ✅ (Doblaje Wiki + [One Piece Wiki en español, «One Piece en Latinoamérica»](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)). La moneda, **«berry»** (no «mora», como en 4Kids) ⚠️ (sólo Doblaje Wiki).
+- La fruta de Luffy es la **«Fruta Goma Goma»** ✅ (Doblaje Wiki + [One Piece Wiki en español, «One Piece en Latinoamérica»](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)). La moneda, **«berry»**, dicho «berries» (no «mora», como en 4Kids) ✅ (Doblaje Wiki + wiki en español: «El Belly es pronunciado como "Berries"»; las dos cuentan el desliz del ep. 4, «Beli»). *Antes, una sola fuente.*
 - La fruta de Bon Clay es la **«Fruta Copia Copia»** ✅ (wiki en español + clip oficial de Crunchyroll del ep. 92, [0:48](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=48): «esto es el poder de la fruta Copia Copia»).
 - Su nombre va al revés: **«Zoro Roronoa»** ✅ (wiki en español + muestra «Zoro 1»: «Soy Zoro Roronoa»).
 - El sueño de Sanji, el All Blue, es el **«Azul Infinito»**; la Red Line, la **«Línea Roja»** ⚠️ (sólo la wiki en español).
@@ -980,8 +983,8 @@ sobre una mesa** y un **barril en la cubierta**.
   carta** (pose de 4186; otras: 1365 sentada, 2075 con la vara).
   **Luffy** asoma por la ventana del fondo, pequeño, riéndose.
 - **Cómo habla:** Nami con globo ancho: «Sigue esta ruta y no te
-  pierdes.» Y un globo pequeñito hacia fuera: «Zoro, tú no.» (chiste del
-  fandom ⚠️).
+  pierdes.» Y un globo pequeñito hacia fuera: «Zoro, tú no.» (el chiste sale
+  de su ficha oficial, «desorientado extremo», y de la wiki ✅, §9).
 - **Dónde va cada texto:** título en un **cartucho de mapa** arriba
   (Pirata One o IM Fell English). Textos de las islas **a mano de Nami**
   (Caveat). Rosa de los vientos en una esquina.
@@ -993,7 +996,7 @@ sobre una mesa** y un **barril en la cubierta**.
 
 - **Objeto y sitio:** **un barril de madera** en la cubierta del Going
   Merry, de noche, con lluvia y el faro de Loguetown al fondo (la escena
-  del ep. 53 ⚠️). Barril y cubierta en Blender (modelo de Oliver Edwards,
+  del ep. 53 ✅, §4; plano cenital en la hoja O23). Barril y cubierta en Blender (modelo de Oliver Edwards,
   CC BY).
 - **La idea:** cinco pies encima del barril (sandalia de Luffy, bota de
   Zoro, Nami, Usopp, zapato de Sanji) y **un hueco libre** con tiza:
