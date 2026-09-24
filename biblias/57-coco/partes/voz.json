@@ -43,5 +43,14 @@
     "que_es": "Muestra de audio oficial del doblaje latino de Imelda (Angélica Vale), discurso final sobre los sacrificios de ambos por sus sueños.",
     "para_que": "Fuente textual y de tono de voz para el punto 8 y 13.",
     "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://archive.org/details/Coco.2017.STNAr.720p.BluRay.x264YTS.AG",
+    "fuente": "Internet Archive — Coco.2017.STNAr.720p.BluRay.x264YTS.AG (misma copia que usó el equipo de vídeo; audio en árabe, imagen es la película oficial completa)",
+    "ancho": 1280,
+    "alto": 534,
+    "que_es": "Hoja de contacto propia con 20 fotogramas de la película completa (105:02 min), uno por personaje/emoción del punto 13 y 4 de las escenas del punto 21, cada uno con su minuto exacto rotulado: guardada en biblias/57-coco/hojas/emociones_01.jpg (el vídeo se bajó, se recortó con herramientas/fotogramas.py y se borró; no quedó en el repo).",
+    "para_que": "Fotograma+minuto de 'la cara de cada personaje en cada emoción' (punto 13) y confirmación del minuto exacto de las escenas que hacen llorar (punto 21): Miguel alegría 1:32:10, rabia 17:49-17:53, tristeza 1:27:54, miedo 23:40, vergüenza 18:14; Héctor alegría 1:34:29, tristeza 1:12:00, miedo/vulnerabilidad 1:27:24; Mamá Coco tristeza 1:31:52, alegría 1:33:07 (reconoce a Héctor, escena de 'Recuérdame' completa 1:29:40-1:33:13); Ernesto alegría 1:01:40, miedo 1:26:40; Imelda rabia 33:20, alerta 1:17:20, alegría 1:34:44; Abuelita rabia 17:56, alegría 1:35:47; reencuentro final Héctor-Imelda 1:34:17-1:35:05 (abrazo 1:34:38, puente de cempasúchil 1:34:53).",
+    "licencia": "Copyright Disney/Pixar — copia de fans en Internet Archive, sólo como referencia interna de trabajo (igual que usó el equipo de vídeo), no para redistribuir; el archivo de vídeo no se conserva, sólo la hoja de contacto."
   }
 ]

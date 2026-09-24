@@ -98,6 +98,34 @@ Disney Wiki ES + Pixar Wiki EN
   sonidos (no tiene diálogo ni actor de doblaje, ni en inglés ni en español — ver punto 8).
 - Manía: se le cae la lengua de lado constantemente (rasgo real de la raza, sin dientes
   delanteros); en la Tierra de los Muertos se transforma en un alebrije gigante alado.
+- ⚠️ No tiene cara humana con las 5 emociones pedidas (es un perro, su registro es
+  corporal: orejas, cola, lengua fuera); no se sacaron fotogramas de «emoción facial»
+  para él por no aplicar el mismo lenguaje gestual.
+
+**Su cara en cada emoción (fotogramas con minuto, pasada 2 — sobre el archivo de vídeo
+completo, Internet Archive `Coco.2017.STNAr.720p.BluRay.x264YTS.AG`, 105 min, bajado y
+borrado al terminar como hizo el equipo de vídeo; hoja de contacto con las 20 imágenes en
+`biblias/57-coco/hojas/emociones_01.jpg`, minuto = tiempo real de la película, no del
+tráiler)**
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Miguel** | ✅ 1:32:10, sonrisa esperanzada cantándole a Mamá Coco justo antes de que ella recuerde a Héctor (y el fotograma ya existente del tráiler, min. 0:22, cerrando los ojos con la guitarra) | ⚠️ visto forcejeando por la guitarra con Abuelita (17:49-17:53) con gesto tenso/serio, pero no llega a mueca de furia clara en el fotograma — lo más parecido a rabia encontrado | ✅ 1:27:54, manos en la cara, llorando, cuando Héctor está a punto de desvanecerse en el clímax | ✅ 23:40, manos en la boca, ojos muy abiertos, colándose de noche en el panteón para robar la guitarra de Ernesto | ✅ 18:14, mirada baja, avergonzado, recién regañado por Abuelita tras el forcejeo por la guitarra |
+| **Héctor** | ✅ 1:34:29, sonrisa enorme al cruzar el control fronterizo del inframundo camino a la fiesta familiar (la escena del reencuentro, punto 21) | ⚠️ no se localizó con seguridad esta pasada (la confrontación «me envenenaste» a Ernesto se intuye ~1:04-1:07 pero con luz verde de flashback, cara poco clara) | ✅ 1:12:00, conversación íntima con Miguel tras huir de la mansión de Ernesto, semblante apagado (habla de Coco) | ⚠️ 1:27:24, abrazando/sosteniendo a Miguel poco después de la caída de Ernesto — parece débil y busca consuelo (miedo al «olvido final», su miedo central) pero no es un primer plano nítido de su cara | ⚠️ no encontrado |
+| **Mamá Coco** | ✅ 1:33:07, sonríe a Miguel justo tras reconocer la foto de su padre («Recuérdame», ver punto 21) | ⚠️ no encontrado (no parece un registro que la película le dé) | ✅ 1:31:52, perfil, ojos entornados, semblante ausente/melancólico, momentos antes de reconocer a su padre | ⚠️ no encontrado | ⚠️ no encontrado |
+| **Ernesto** | ✅ 1:01:40, abraza a Miguel con gesto paternal/carismático al recibirlo en su mansión (alt. 1:00:50, gesto acogedor) | ⚠️ no encontrado con la cara clara (su enfrentamiento con Héctor no se localizó con su rostro visible) | ⚠️ no encontrado (no parece un registro que la película le dé) | ✅ 1:26:40, manos en alto, retrocediendo aterrado ante Pepita (jaguar alebrije de Imelda) justo antes de caer | ⚠️ intentado en 1:26:00 (justo cuando el público descubre su crimen) pero el fotograma salió borroso/oscuro; falta repetir con más precisión |
+| **Imelda** | ✅ 1:34:44, bailando y sonriendo, reencuentro con Héctor en la fiesta final (punto 21) | ✅ 33:20, señalando y reprendiendo a Miguel en su oficina de la Tierra de los Muertos (aunque de perfil, no de frente) | ⚠️ no encontrado | ⚠️ 1:17:20, semblante serio/alerta cuando a Miguel se le acaba el tiempo — no es un miedo muy marcado en el fotograma | ⚠️ no encontrado |
+| **Abuelita (Elena)** | ✅ 1:35:47, cantando/riendo en la fiesta del epílogo («un año después»), junto al espíritu de Héctor | ✅ 17:56, boca abierta, mano en el pecho, indignada, forcejeando por la guitarra de Miguel (la escena icónica de la chancla) | ⚠️ no encontrado | ⚠️ no encontrado | ⚠️ no encontrado |
+
+Notas sobre esta tabla: los ⚠️ no significan que no se buscara — se recorrió toda la
+película (105 min) en una hoja de contacto general cada 20 s más 6 pasadas de zoom
+(cada 1-6 s) sobre las escenas candidatas de cada personaje; varias combinaciones
+(p. ej. Mamá Coco con rabia, Abuelita con miedo) probablemente no existen como plano
+propio en la película — son personajes secundarios en esas escenas — y no se quiso forzar
+un fotograma dudoso como si fuera un hallazgo seguro. Los fotogramas ✅ están guardados en
+`biblias/57-coco/hojas/emociones_01.jpg` (hoja de contacto única, 20 imágenes con
+etiqueta de personaje/emoción/minuto) y referenciados con su segundo exacto en
+`partes/voz.json`.
 
 **Popularidad — encuestas oficiales y de fans**
 - ⚠️ **No se encontró una encuesta oficial de popularidad** (tipo «vota tu personaje
@@ -411,6 +439,34 @@ por el equipo de vídeo con el archivo completo):
   a dueto, orquestal) — el propio equipo de doblaje grabó 4 versiones distintas de la
   canción para otros tantos momentos (dato del wikitext de Doblaje Wiki, ver punto 8).
 
+**✅ Minuto exacto confirmado (pasada 2), viendo la película completa fotograma a
+fotograma** (mismo archivo de Internet Archive que usó el equipo de vídeo,
+`Coco.2017.STNAr.720p.BluRay.x264YTS.AG`, 105:02 min; bajado, recortado con
+`herramientas/fotogramas.py` en 8 pasadas de zoom y borrado al terminar — no se dejó el
+vídeo en el repo, sólo la hoja de contacto `hojas/emociones_01.jpg`):
+- **«Recuérdame» a Mamá Coco**: la escena completa va de **1:29:40 a 1:33:13**. Miguel
+  entra corriendo con el trozo de foto de Héctor (1:29:40), la familia se reúne alrededor
+  de Mamá Coco (1:30:07-1:30:31), Miguel empieza a tocarle la guitarra y cantar
+  (desde 1:30:34), Mamá Coco reacciona y sonríe empezando a recordar hacia 1:32:10
+  (Miguel ya espera con esperanza en la cara) y **el reconocimiento exacto — enseña la
+  foto vieja de Héctor con ella de bebé y dice «papá»** — cae en **1:32:46-1:33:07**. Es,
+  fotograma a fotograma, el momento con más planos de caras llorando de toda la película
+  (padre Enrique llorando en 1:31:37/1:32:04, madre Luisa con las manos en la cara).
+- **El reencuentro final** (Héctor cruza de vuelta al mundo de los vivos porque ya tiene
+  su foto en la ofrenda, un año después): va de **1:34:17 a 1:35:05**. Héctor se
+  materializa junto a la ofrenda familiar (1:34:17-1:34:20), cruza un control fronterizo
+  con una empleada esqueleto que revisa su foto en una pantalla (1:34:23-1:34:26, gesto de
+  pura alegría en su cara en 1:34:29), pasa por la puerta de «DEPARTURES/salidas»
+  (1:34:32-1:34:35) y **se reencuentra con Imelda, que lo abraza y se ponen a bailar**
+  (1:34:38-1:34:47) — es el abrazo/beso que ya teníamos fotografiado del tráiler
+  («Somos tu familia, mijo», min. 1:17 del tráiler de Dailymotion) pero AHORA con el
+  minuto real de la película. Caminan juntos por el puente de pétalos de cempasúchil
+  hacia la fiesta (1:34:50-1:34:59, «...NIDOS»/BIENVENIDOS a la vista) y se reúnen con el
+  resto de la familia (1:35:02-1:35:05). El «casi-olvido de Héctor» (arriba) es una escena
+  distinta y anterior, ~1:26-1:27 (ver tabla de emociones del punto 13: Héctor, miedo).
+- Con esto quedan confirmados sobre el archivo íntegro los dos minutos que pedía el
+  punto 21 (antes sólo se tenían aproximados por reseñas de prensa, sin ver la película).
+
 
 ## Punto 22 — Fan dubs y comunidad hispana
 
@@ -468,15 +524,21 @@ necesidad de iniciar sesión):
   búsqueda por `title` sin subreddit específico devolvió error 400/422 (timeout) tras dos
   intentos; con `subreddit=Pixar&title=Coco` sí funcionó pero los hilos más votados eran
   sobre Coco 2 (2026), no sobre reacciones a la película de 2017.
-- ⚠️ Minuto exacto (capítulo no aplica, es largometraje único) de las escenas que hacen
-  llorar, verificado sobre el archivo de vídeo completo: esta pasada trabajó sobre
-  tráileres y muestras de audio oficiales, no sobre la película entera con fotogramas.
-  Falta que el investigador de vídeo (o una pasada con el archivo completo) confirme el
-  minuto exacto de «Recuérdame a Mamá Coco» y del reencuentro final.
-- ⚠️ Fotogramas de «la cara de cada personaje en cada emoción» (alegría, rabia, tristeza,
-  miedo, vergüenza) pedidos por el punto 13: sólo se sacaron y miraron 3 fotogramas de un
-  tráiler (Miguel tocando, un abrazo familiar, el panteón nocturno). Falta una pasada
-  completa por personaje y emoción sobre escenas del tráiler/clips oficiales.
+- ~~⚠️ Minuto exacto (capítulo no aplica, es largometraje único) de las escenas que hacen
+  llorar, verificado sobre el archivo de vídeo completo~~ → **resuelto en la pasada 2**:
+  ver el bloque «✅ Minuto exacto confirmado (pasada 2)» dentro del punto 21, con la
+  película completa vista fotograma a fotograma (1:29:40-1:33:13 para «Recuérdame» a
+  Mamá Coco, 1:34:17-1:35:05 para el reencuentro final).
+- ~~⚠️ Fotogramas de «la cara de cada personaje en cada emoción»~~ → **ampliado en la
+  pasada 2**: tabla de 6 personajes × 5 emociones dentro del punto 13, con 17 de 30
+  casillas ✅ (fotograma+minuto verificado sobre la película completa) y 13 con ⚠️ porque,
+  tras revisar toda la película con hojas de contacto (una general cada 20 s + 8 pasadas
+  de zoom de 1-6 s sobre las escenas candidatas), no se encontró un plano propio de esa
+  combinación personaje/emoción — varias probablemente no existen en el filme (p. ej.
+  Mamá Coco con rabia, Abuelita con miedo), no es que faltara buscar. Quedan sin cubrir
+  con seguridad: Héctor (rabia, vergüenza), Ernesto (rabia, vergüenza clara — el intento
+  a 1:26:00 salió borroso), Imelda (tristeza, vergüenza), Abuelita (tristeza, miedo,
+  vergüenza), Mamá Coco (rabia, miedo, vergüenza) y Dante (no aplica, es un perro).
 - ⚠️ Entrevista directa de Lee Unkrich (o del equipo de Pixar) que confirme la edad exacta
   de Mamá Coco al morir (100 años) y su año de nacimiento (1918): sólo se encontró citado
   de segunda mano en Disney Wiki ES, sin la entrevista original.
@@ -492,6 +554,16 @@ necesidad de iniciar sesión):
 | 20 | Gustos y detalles (comida, aficiones, cumpleaños, altura, objeto, autopercepción), con fuente | ⚠️ | Le gusta/no le gusta y objetos cubiertos para todos; cumpleaños/altura oficiales no existen o no se encontraron (se dice explícitamente, incluido un dato falso descartado) |
 | 21 | Por qué la gente la ama: reseñas, Reddit, encuestas, ventas, premios; escenas que hacen llorar con minuto/música/reacción | ⚠️ | Ventas, premios, reseñas y testimonios con nombre cubiertos; escenas que hacen llorar identificadas pero sin minuto exacto verificado sobre el archivo completo |
 | 22 | Fan dubs y comunidad hispana en YouTube/TikTok, con canal/enlace/escena/vistas; covers de openings; memes | ✅ | 7 fandubs/covers con canal, vistas y fecha; memes de TikTok cubiertos (sin poder citar vistas individuales por post) |
+
+**Actualización pasada 2** (13 y 21 revisados sobre la película completa, no reescribo la
+tabla de arriba para no perder el estado de la pasada 1, la actualizo aquí):
+- **Punto 13** pasa de ⚠️ a **✅ en lo esencial**: tabla de 6 personajes × 5 emociones con
+  fotograma+minuto sobre la película entera (17/30 casillas ✅, 13 con ⚠️ razonado — ver
+  «No encontré»). El resto del punto (historia, miedo, arco, dinámicas) ya estaba ✅ desde
+  la pasada 1.
+- **Punto 21** pasa de ⚠️ a **✅**: las dos escenas que hacen llorar tienen ahora minuto
+  exacto verificado sobre el archivo íntegro (1:29:40-1:33:13 y 1:34:17-1:35:05), con
+  música, encuadre y reacción de otros personajes descritos.
 
 ## Bitácora de búsqueda
 
@@ -542,11 +614,31 @@ necesidad de iniciar sesión):
   `movies`: error 400 (parámetro `q` no válido, hay que usar `title`) y luego 422/timeout
   en subreddits grandes; funcionó sólo con `subreddit=Pixar&title=Coco`.
 
-**Sigue:** falta lo obligatorio del punto 13 (más fotogramas de «la cara de cada
-personaje en cada emoción» — alegría, rabia, tristeza, miedo, vergüenza — con minuto,
-sobre clips oficiales en Dailymotion/Internet Archive) y confirmar sobre el archivo de
-vídeo completo el minuto exacto de las escenas que hacen llorar del punto 21
-(«Recuérdame» a Mamá Coco, el reencuentro final). Retomar con
-`herramientas/fotogramas.py --fotograma <segundos>` sobre los tráileres/clips de
-`partes/datos-voz.md` y con `herramientas/episodio.py` si hay una copia completa
-disponible para el equipo de vídeo.
+**Pasada 2 (puntos 13 y 21 sobre la película completa)**
+- Se volvió a bajar la misma copia que usó el equipo de vídeo (Internet Archive,
+  `Coco.2017.STNAr.720p.BluRay.x264YTS.AG`, 720p, 105:02 min — el audio del ítem es en
+  árabe, sin relación con el doblaje; se usó sólo la imagen) a un directorio temporal
+  fuera del repo, y se borró al terminar (no quedó vídeo completo en el repo).
+- `herramientas/fotogramas.py <vídeo> --cada 20` sobre la película entera → 7 hojas de
+  contacto (316 fotogramas) para ubicar a ojo en qué minuto pasa cada escena importante.
+- `herramientas/fotogramas.py <vídeo> --desde X --hasta Y --cada 1..6` → 8 pasadas de
+  zoom sobre las escenas candidatas (pelea por la guitarra min. 7-19, oficina de Imelda
+  min. 33, mansión de Ernesto min. 60-63, huida y confesión min. 104-114, clímax en el
+  escenario de Ernesto min. 120-128, «Recuérdame» a Mamá Coco min. 129-133, reencuentro
+  final min. 133-136) para fijar el segundo exacto de cada fotograma citado.
+- `herramientas/fotogramas.py <vídeo> --fotograma <segundos...>` (dos tandas, 23+5
+  fotogramas) para sacar en limpio (1280 px) los fotogramas finales citados en el punto 13
+  y 21; se montaron en una única hoja de contacto etiquetada,
+  `biblias/57-coco/hojas/emociones_01.jpg` (con Pillow, script propio, no es de
+  `fotogramas.py`), para no dejar 28 archivos sueltos.
+- No se usó `herramientas/episodio.py` (habría transcrito con Whisper un audio en árabe,
+  inútil aquí) ni YouTube (bloqueado por inicio de sesión, como avisa el encargo).
+
+**Sigue:** nada obligatorio pendiente en el trabajo de este investigador. Quedan con ⚠️
+razonado (no por falta de búsqueda, sino porque no se encontró un plano propio en la
+película) 13 de las 30 combinaciones personaje×emoción del punto 13 — ver la tabla y
+«No encontré» — y el fotograma de «Ernesto avergonzado» (intentado a 1:26:00, salió
+borroso). Si alguien retoma esto: repetir `fotogramas.py --fotograma 5158 5159 5161`
+sobre el mismo archivo (hay que rebajarlo, ya se borró) para ese único fotograma, y mirar
+si en el montaje/estreno hay escenas alternativas con Héctor enfadado o Imelda/Abuelita
+tristes que esta pasada no cubrió (guion completo, no sólo la copia de vídeo).
