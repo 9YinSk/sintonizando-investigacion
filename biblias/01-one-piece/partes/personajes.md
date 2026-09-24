@@ -112,8 +112,8 @@ Textual, de las muestras de Doblaje Wiki (segundo dentro de la muestra). Nombres
 
 | Quién | Cómo se presenta | Muestra | Estado |
 |---|---|---|---|
-| Brook | «**¡Hola! ¿Cómo están?** ¡Yohohoho! Disculpen si los asusté… **Mi barco es su barco, siéntanse en casa.** ¿Quieren una tacita de café?» | «Brook 1», 0:00-0:22 | ✅ (ya en §10.1 + Whisper *small*) |
-| Brook | «Mis ojos sólo son para las mujeres hermosas. **Pero como ven, ya no tengo ninguno.** ¡Yohohoho!» | «Brook 1», 0:23-0:30 | ⚠️ una transcripción (*medium* pendiente) |
+| Brook | «**¡Hola! ¿Cómo están?** ¡Yohohoho! Disculpen si los asusté… Pero vengan, **mi barco es su barco. Siéntanse en casa.** ¿Quieren una tacita de café?» | «Brook 1», 0:00-0:22 | ✅ (ya en §10.1 + Whisper *small*) |
+| Brook | «Mis ojos sólo son para las mujeres hermosas. **Pero como ven, ya no tengo ninguno.** ¡Yohohoho!» | «Brook 1», 0:23-0:30 | ✅ (Whisper *small* y *medium* coinciden) |
 | Usopp | «**Yo soy Usopp, el líder de un gran barco pirata que gobierna el Mar del Este.** La tripulación me elogia y me respeta. **Me llaman el gran y máximo Capitán Usopp.**» | «Usopp 2», 0:13-0:24 | ✅ (Whisper *small* y *medium* coinciden) |
 | Usopp | «¡Eso es mentira!» · «¡Yo soy Usopp! Es un placer.» | «Usopp 1», 0:13 y 0:34 | ✅ (la segunda ya en §10.1) |
 | Sogeking | «Déjenme ir con ustedes, mi nombre es… **¡Sogeking!**» | «Sogeking», 0:00-0:04 | ⚠️ una transcripción |
