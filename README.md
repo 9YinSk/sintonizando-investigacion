@@ -26,10 +26,10 @@ pelis y juegos muy queridos.
 (p. ej. la 1 = encargos 01-04) y pégala en una sesión nueva. La sesión hace los
 cuatro a la vez con ayudantes.
 
-**Temas (para que tu Claude sea experto):** 16 temas en `temas/` (agentes,
-radio, locución, doblaje, canto, VTubers, Asia, 3D, diseño, generación con IA,
-redes, edición, Discord, skills y MCP, Minecraft, marketing), en 4 tandas al
-final de `TANDAS.md`. Siguen `TEMA.md` y dejan su informe en `investigaciones/`.
+**Temas (para que tu Claude sea experto):** 24 temas concretos en `temas/`,
+sacados de lo que tienes pendiente: láminas y diseño, la radio, el VTuber, el
+doblaje, las redes, Asia, los agentes, el negocio y Minecraft. Van en 6 tandas al
+final de `TANDAS.md`, siguen `TEMA.md` y dejan su informe en `investigaciones/`.
 
 ## Cómo se junta
 
