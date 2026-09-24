@@ -35,6 +35,10 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
 - [ ] Oshi no Ko: no hay clips oficiales doblados en YouTube; más frases del
       doblaje sólo viendo la serie.
 
+- [ ] One Piece: faltan en vídeo las caras de miedo y vergüenza, algunas poses y el
+      minuto de 7 escenas que hacen llorar; escenas nuevas sólo en 720p (YouTube
+      pide iniciar sesión). Si las ve, anote capítulo y minuto.
+
 ## 3. Datos que siguen dudosos (⚠️ con una sola fuente o fuentes que chocan)
 
 - Attack on Titan: Carlos Monroy, Ivett Toriz y el nombre «Legión de
@@ -58,6 +62,11 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
 - **Plan B para vídeos**: el mismo clip en Dailymotion o Internet Archive.
 
 ## 5. Correcciones importantes que ya se hicieron (para que lo sepa)
+
+- One Piece: «Se Busca» SÍ se dice en el doblaje latino (Tashigi, muestra de
+  Doblaje Wiki). En Latinoamérica el favorito es Zoro (2026), luego Sanji y
+  Luffy; Nami es la más dibujada por los fans. En Wano, el «ドン!!» pasa a
+  «べべん!!» por petición de Oda.
 
 - Solo Leveling: Cha Hae-In es rubia, con uniforme rojo y blanco (antes decía
   «armadura clara»).
