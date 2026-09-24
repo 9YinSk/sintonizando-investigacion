@@ -73,7 +73,7 @@ fecha: 2026-09-24
 - Cajas de *Grand Gourmet*, *Treasure Cruise*, *Bounty Rush* y el reverso del cartel de ONE PIECE BASE (§8, §13.1).
 - `referencias.json`: **40 → 345**. Fuentes: **119 → 222** (§18).
 
-**Las marcas de duda: 31 antes del repaso → 247 ahora** (contadas con `grep`).
+**Las marcas de duda: 31 antes del repaso → 249 ahora** (contadas con `grep`).
 - De las 31 viejas se resolvieron 3 (el minuto del barril, por qué se fue Mireya, la risa de Brook) y una a medias («Se Busca» se oye, pero no se ha visto escrito en la versión latina).
 - Las nuevas no son retrocesos: son **datos añadidos con una sola fuente** (medidas propias de color o de voz, que por naturaleza tienen una; citas de una sola web; copias de fans de un vídeo) y **huecos marcados a propósito** para que se vean (escenas sin mirar, caras que faltan, rangos de episodios). Lo que falta está en §17 y en la tabla «Cumplimiento del encargo».
 
@@ -154,6 +154,12 @@ En el doblaje es un sonido; escrita así es la convención del manga.
 Desireé González). Usa «compañeros» o «tripulación», nunca «nakama» (§10.1).
 Los textos no llevan «·», «—» ni paréntesis: cada uno va en su cartel,
 su isla o su duela.
+
+**Repaso del equipo (24-sep): más textos con voz real del doblaje latino** (§10.2):
+- Saludo literal, de Brook: «¡Hola! ¿Cómo están?» · «Mi barco es su barco. Siéntanse en casa.»
+- Para el cartel del paso 3: «SE BUSCA» se dice en el doblaje latino (Tashigi, §8), así que el cartel del recién llegado puede decir **SE BUSCA: TÚ**.
+- Para un texto del bot sobre el sueño de cada uno: Nami de niña, «Voy a trazar un mapa mundial».
+- El paso «preséntate» ya existe en la franquicia: **el reverso del cartel** de la app ONE PIECE BASE, con Apodo, Recompensa, Fruta, Haki y Afiliaciones (§8). Sirve de modelo para la lámina 2.
 
 ### Lámina 2 (si la primera se llena)
 
@@ -2037,6 +2043,9 @@ sobre una mesa** y un **barril en la cubierta**.
   **Que no parezca el tablón de Solo Leveling**: madera de barco y clavos, nunca corcho (Punto 24).
   **Lámina 2:** el **reverso del cartel «TÚ»** con la ficha de ONE PIECE BASE
   (Apodo / Recompensa / Fruta / Haki / Afiliaciones, §8) explica #presentaciones.
+  **Para el cartel de LA SALA**, en vez de Sanji fumando: **la fiesta en el césped del Sunny
+  al entrar Franky** (ep. 324: jarras, barriles, mantel de cuadros; §9.2). Es la bienvenida
+  a un tripulante nuevo, dibujada por el propio anime.
 
 ### Concepto B — «La ruta de Nami» (carta náutica sobre su mesa)
 
