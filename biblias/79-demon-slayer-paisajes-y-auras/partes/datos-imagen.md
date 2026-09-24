@@ -4,13 +4,90 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg
-- Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-33MtJGsUSxga.jpg
+- Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png
+
+## Tanjiro Kamado: las imágenes más grandes de la wiki (32 en total)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado_
+
+- 2100×2854 · Infinity Castle Tanjiro Full Body (Anime).png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/0d/Infinity_Castle_Tanjiro_Full_Body_%28Anime%29.png
+- 2578×1443 · Tanjiro's Tsuba E17.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/54/Tanjiro%27s_Tsuba_E17.png
+- 1920×1080 · Tanjiro's second Tsuba.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5c/Tanjiro%27s_second_Tsuba.png
+- 1920×1080 · Tanjiro's sad smile at Kazumi's words.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a9/Tanjiro%27s_sad_smile_at_Kazumi%27s_words.png
+- 1920×1080 · Tanjiro's Nichirin Sword.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/6c/Tanjiro%27s_Nichirin_Sword.png
+- 1920×1080 · Tanjiro with his new katana.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/7e/Tanjiro_with_his_new_katana.png
+- 1920×1080 · Tanjiro slashes the Temple Demon.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/42/Tanjiro_slashes_the_Temple_Demon.png
+- 1920×1080 · Tanjiro senses the Opening Thread.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/ba/Tanjiro_senses_the_Opening_Thread.png
+- 1920×1080 · Tanjiro sees Akaza's anatomy in the Transparent World.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/38/Tanjiro_sees_Akaza%27s_anatomy_in_the_Transparent_World.png
+- 1920×1080 · Tanjiro placing his hands on dying Rui.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9a/Tanjiro_placing_his_hands_on_dying_Rui.png
+
+## Tanjiro Kamado · Appearance (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado#Appearance_
+
+Tanjiro is a young man of average height with lightly tanned skin and an athletic, muscular build. His hair is ruffled and black with red tips (appearing black that turns to burgundy at the tips in the anime), and is swept back to reveal his forehead. His eyes are wide and dark red, fading into a burgundy hue with white pupils that appear lighter toward the lower section of the iris, while the upper portion is markedly darker. He bears a distinct scar on the upper left of his forehead, first seen when his mother took him to watch his father perform the Hinokami Kagura dance. Originally, it was a light pink, patch-like mark — an injury he received after saving one of his siblings from a hot brazier. It remained so until his battle with the Hand Demon during Final Selection, after which it developed into a dark red, jagged mark. Later, during Hashira Training, it transformed once more…
+
+## Ruka Rengoku: las imágenes más grandes de la wiki (3 en total)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Ruka_Rengoku_
+
+- 1240×693 · Ruka embraces a young Kyojuro.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/64/Ruka_embraces_a_young_Kyojuro.png
+- 694×900 · Ruka anime.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e6/Ruka_anime.png
+- 441×864 · Ruka Rengoku Body Image.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/35/Ruka_Rengoku_Body_Image.png
+
+## Ruka Rengoku · Appearance (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Ruka_Rengoku#Appearance_
+
+Ruka was a young woman with defined facial features, such as her sharp nose, long eyebrows, and pale complexion. She had large dark red eyes with circular white pupils, similar in appearance to the Kamado family, and a small mouth, with semi-long black hair tied loosely at the end in a ponytail. Ruka was seen wearing a white kimono with blue and aqua colored flowers, secured with a darker-and-light blue obi around her waist.
+
+## Muichiro Tokito: las imágenes más grandes de la wiki (13 en total)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito_
+
+- 2894×4093 · Kimetsu no Yaiba Animation Illustration Book 4.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/02/Kimetsu_no_Yaiba_Animation_Illustration_Book_4.png
+- 1920×1408 · Puzzle & Dragons Muichiro's Nichrin Sword.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/06/Puzzle_%26_Dragons_Muichiro%27s_Nichrin_Sword.png
+- 1281×1830 · Muichiro Tokito Full Body (Anime).png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4c/Muichiro_Tokito_Full_Body_%28Anime%29.png
+- 1920×1080 · Muichiro's mood changes upon seeing Tanjiro.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a1/Muichiro%27s_mood_changes_upon_seeing_Tanjiro.png
+- 1920×1080 · Muichiro's Tsuba.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/65/Muichiro%27s_Tsuba.png
+- 1920×1080 · Muichiro with his Demon Slayer Mark.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Muichiro_with_his_Demon_Slayer_Mark.png
+- 1920×1080 · Muichiro thanking Kanamori for his new blade.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1f/Muichiro_thanking_Kanamori_for_his_new_blade.png
+- 1920×1080 · Muichiro takes a sword from Yoriichi Type Zero.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d7/Muichiro_takes_a_sword_from_Yoriichi_Type_Zero.png
+- 1920×1080 · Muichiro looking at the sky.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e4/Muichiro_looking_at_the_sky.png
+- 1920×1080 · Muichiro excited over the fact they can protect people.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Muichiro_excited_over_the_fact_they_can_protect_people.png
+
+## Muichiro Tokito · Appearance (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito#Appearance_
+
+Muichiro is a young boy of fair skin complexion and short stature. He possesses a lean-muscular build that is described to be thinner and smaller than Tanjiro's, but deceptively strong. He has straight waist-length hair, transitioning from raven-black to turquoise. He wears his hair loose with two clumps protruding slightly from each side of his head, a set of marginally shorter hair left down to frame his face, and unruly bangs over his forehead. He also has large, empty-looking turquoise irises with teal centers, making his overall appearence identical to his older twin brother Yuichiro's. Following his meeting with Tanjiro Kamado and the return of his childhood memories, Muichiro's once empty-looking eyes seem to have a hopeful glimmer; these are accompanied with a more upbeat and cheery expression, reminiscent of his former demeanor before the death of Yuichiro. Muichiro wears the…
+
+## Shinobu Kocho: las imágenes más grandes de la wiki (14 en total)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho_
+
+- 2355×2279 · Shinobu introducing herself.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/aa/Shinobu_introducing_herself.png
+- 2864×1628 · Shinobu's childhood pinky promise.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/bf/Shinobu%27s_childhood_pinky_promise.png
+- 2880×1617 · Shinobu furious at Doma.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9b/Shinobu_furious_at_Doma.png
+- 1328×1897 · Shinobu anime.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png
+- 1920×1080 · Shinobu's tsuba.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/bd/Shinobu%27s_tsuba.png
+- 1920×1080 · Shinobu's relaxed demeanor.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/05/Shinobu%27s_relaxed_demeanor.png
+- 1920×1080 · Shinobu vows to strike Doma's neck.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/42/Shinobu_vows_to_strike_Doma%27s_neck.png
+- 1520×855 · Shinobu aggravated over Kanao's inability to make her own decisions.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/52/Shinobu_aggravated_over_Kanao%27s_inability_to_make_her_own_decisions.png
+- 903×1400 · Doma collapses from the effects of Shinobu's poison.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1f/Doma_collapses_from_the_effects_of_Shinobu%27s_poison.png
+- 1366×768 · Memory of Shinobu's smile.png · https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/40/Memory_of_Shinobu%27s_smile.png
+
+## Shinobu Kocho · Appearance (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho#Appearance_
+
+Shinobu was a petite, young woman of slender build. Her complexion was notably pale, contrasting with the pink of her lips. She had large, pupil-less eyes that resembled those of insects. Her irises featured a hazy purple gradient that darkened toward the bottom, accented by white highlights at the top. Her eyes were framed with thick eyelashes. She had hair that was raven-black, fading into a purple hue at the ends. Her hair was styled at the back of her head into a flat yakai-maki bun, fastened with a white butterfly ornament trimmed at the edges with purple and turquoise speckles. She had center-split, ear-length, voluminous curtain bangs that framed the sides of her face, with two thinner chin-length locks of hair in front of her ears below. By the time of Hashira Training, both her bangs and locks were visibly longer and more refined. She stood out among the more physically…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de kimetsu-no-yaiba.fandom.com (4 páginas y sus galerías)…
+  2713 imágenes enlazadas, 2479 grandes → 52 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/demon-slayer-paisajes-y-auras
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

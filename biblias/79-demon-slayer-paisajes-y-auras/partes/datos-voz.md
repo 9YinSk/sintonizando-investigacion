@@ -4,74 +4,38 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
-| 1 | Tanjirou Kamado (竈門炭治郎) | 18047 | MAIN | Natsuki Hanae, Satomi Satou | Iván Bastidas, Rosalinda Márquez |
-| 2 | Inosuke Hashibira (嘴平伊之助) | 14657 | MAIN | Yoshitsugu Matsuoka | Uraz Huerta |
-| 3 | Nezuko Kamado (竈門禰豆子) | 14623 | MAIN | Akari Kitou | Annie Rojas |
-| 4 | Zenitsu Agatsuma (我妻善逸) | 13789 | MAIN | Hiro Shimono | José Luis Piedra |
-| 5 | Giyuu Tomioka (冨岡義勇) | 12482 | SUPPORTING | Takahiro Sakurai | Marc Winslow |
-| 6 | Kyoujurou Rengoku (煉獄杏寿郎) | 11537 | SUPPORTING | Satoshi Hino | Irwin Daayán |
-| 7 | Shinobu Kochou (胡蝶しのぶ) | 9403 | SUPPORTING | Saori Hayami | Cristina Hernández |
-| 8 | Tengen Uzui (宇髄天元) | 8009 | SUPPORTING | Katsuyuki Konishi | Alfredo Gabriel Basurto |
-| 9 | Mitsuri Kanroji (甘露寺蜜璃) | 6581 | SUPPORTING | Kana Hanazawa | Melissa Gedeón |
-| 10 | Kanao Tsuyuri (栗花落カナヲ) | 5350 | SUPPORTING | Reina Ueda | Montserrat Aguilar |
-| 11 | Muichirou Tokitou (時透無一郎) | 5114 | SUPPORTING | Kengo Kawanishi | Armando Corona |
-| 12 | Obanai Iguro (伊黒小芭内) | 2919 | SUPPORTING | Kenichi Suzumura | Arturo Cataño |
-| 13 | Sanemi Shinazugawa (不死川実弥) | 2821 | SUPPORTING | Tomokazu Seki | Galo Balcázar |
-| 14 | Muzan Kibutsuji (鬼舞辻無惨) | 2156 | SUPPORTING | Toshihiko Seki | Luis Leonardo Suárez |
-| 15 | Sabito (錆兎) | 2091 | SUPPORTING | Yuuki Kaji | Dalí González |
-| 16 | Genya Shinazugawa (不死川玄弥) | 1831 | SUPPORTING | Nobuhiko Okamoto | Osvaldo Trejo |
-| 17 | Gyoumei Himejima (悲鳴嶼行冥) | 1677 | SUPPORTING | Tomokazu Sugita | Gerardo Reyero |
-| 18 | Tamayo (珠世) | 959 | SUPPORTING | Maaya Sakamoto | Dulce Guerrero |
-| 19 | Hotaru Haganezuka (鋼鐵塚蛍) | 932 | SUPPORTING | Daisuke Namikawa | Manuel Pérez |
-| 20 | Sakonji Urokodaki (鱗滝左近次 ) | 671 | SUPPORTING | Houchuu Ootsuka | Alejandro Villeli |
-| 21 | Rui (累) | 660 | SUPPORTING | Kouki Uchiyama | Sebastián García |
-| 22 | Yushirou (愈史郎) | 656 | SUPPORTING | Daiki Yamashita | Humberto Vélez Jr. |
-| 23 | Kagaya Ubuyashiki (産屋敷耀哉) | 600 | SUPPORTING | Toshiyuki Morikawa | Idzi Dutkiewicz |
-| 24 | Enmu (魘夢) | 521 | SUPPORTING | Daisuke Hirakawa | Arturo Castañeda |
-| 25 | Makomo (真菰) | 507 | SUPPORTING | Ai Kakuma | Pamela Mendoza |
+| 1 | Ibaraki-douji (茨木童子) | 15 | MAIN | Suzuko Mimori | — |
+| 2 | Shizuka Gozen (静御前) | 8 | MAIN | Aina Suzuki | — |
+| 3 | Yoshitsune (義経) | 5 | MAIN | Eriko Matsui | — |
+| 4 | Amaterasu (あまてらす) | 3 | SUPPORTING | Natsuko Hara | — |
+| 5 | Kaguya (かぐや) | 2 | SUPPORTING | Izumi Kitta | — |
+| 6 | Veronica (ヴェロニカ) | 2 | SUPPORTING | Yuki Nakashima | — |
+| 7 | Uzume (うずめ) | 2 | SUPPORTING | Monya Nakane | — |
+| 8 | Sakura (さくら) | 1 | SUPPORTING | Suzuko Mimori | — |
 
 _«Spanish» en AniList mezcla España y Latinoamérica: el reparto latino, en Doblaje Wiki (abajo)._
 
 ## Fichas de personaje (AniList): edad, cumpleaños, gustos y carácter
-_Fuente: https://anilist.co/anime/101922_
+_Fuente: https://anilist.co/anime/21612_
 
-- **Tanjirou Kamado** (género Male, edad 13-16, cumple 14/7) · https://anilist.co/character/126071
-  Height: 165 cm (5'5") Combat Style: Water Breathing & [spoiler] Tanjirou is kind by nature and has been described by others as having very gentle eyes. He has a great deal of determination and will not give up once he has a goal to achieve, an example being finding a cure for [Nezuko](https://anilist.co/character/127518). Even though he is relatively strong on his own, he isn't opposed to asking others for help when he needs it. He is very protective of his friends and even more so of his younger sister. His biggest attribute is his ability to empathize with anyone, even demons. [spoiler]
-- **Inosuke Hashibira** (género Male, edad 15, cumple 22/4) · https://anilist.co/character/129130
-  **Height:** 164 cm (5'4") Combat Style: Beast Breathing Inosuke is usually seen wearing a grey boar mask, with a shirtless version of the Demon hunter uniform. Without the mask he has messy shoulder length black hair and large green eyes with long eyelashes. He is described as having a girly looking face which greatly contrasts with his muscular body. Inosuke is extremely short-tempered and proud, and makes a big deal out of fighting opponents stronger than him claiming that's his only hobby. He is a sore loser and is always trying to compete with Tanjiro and provoke him into fighting him, and usually failing. Due to growing up in the mountains by himself Inosuke has trouble interacting…
-- **Nezuko Kamado** (género Female, edad 12-14, cumple 28/12) · https://anilist.co/character/127518
-  Height: 153 cm (5'0") Transformed into a demon and left mute, Nezuko travels with her older brother [Tanjirou](https://anilist.co/character/126071/Kamado-Tanjirou) in a box on his back. She can change her size at will, and is a capable fighter when she needs to be, but has never killed or eaten any humans. Instead of gaining nourishment from humans, it seems that she recovers her energy by sleeping for long periods of time.
-- **Zenitsu Agatsuma** (género Male, edad 16, cumple 3/9) · https://anilist.co/character/129131
-  Height: 164 cm (5'4") Combat Style: Thunder Breathing Affiliation: Demon Slayer Corps Occupation: Demon Slayer Zenitsu Agatsuma is one of the main protagonists of Demon Slayer: Kimetsu no Yaiba and along with [Inosuke Hashibira](https://anilist.co/character/129130/Inosuke-Hashibira), a traveling companion of [Tanjiro Kamado](https://anilist.co/character/126071/Tanjirou-Kamado) and [Nezuko Kamado](https://anilist.co/character/127518/Nezuko-Kamado).
-- **Giyuu Tomioka** (género Male, edad 19-21, cumple 8/2) · https://anilist.co/character/130050
-  Height: 176 cm (5'9") Combat Style: Water Breathing Water pillar in the Demon Killing Corps. Giyuu is reserved and displays little emotion, instead giving off a calm feeling most of the time. As a water breath user, Giyuu has created his own style. The eleventh style, Lull, gives him the ability to nullify any oncoming attacks, though rapid attacks can pierce through it. Though Giyuu is reserved, he does have a few friends, such as [Tanjirou](https://anilist.co/character/126071/Kamado-Tanjirou) and, in the past, [Sabito](https://anilist.co/character/137809/Sabito). [Shinobu](https://anilist.co/character/136070/Kochou-Shinobu) often pokes fun at Giyuu and is merciless when doing so, such as…
-- **Kyoujurou Rengoku** (género Male, edad 20, cumple 10/5) · https://anilist.co/character/129133
-  Height: 177 cm (5'10") Combat Style: Flame Breathing He is greatly enthusiastic in regard to his duties as Flame Pillar and often cheerfully eccentric. He is amiable, kind and boasts extraordinary flame techniques and swordsmanship stemming from strict practice and discipline. He is an honourable warrior who adheres to his code of morals and principles that was instilled into him by his mother at a young age - the most significant being that those who were born strong have a duty to protect the weak.
-- **Shinobu Kochou** (género Female, edad 18, cumple 24/2) · https://anilist.co/character/136070
-  Height: 151 cm (4'11") Combat Style: Insect Breathing Shinobu is a demon slayer and the Insect Pillar of the Demon Killing Corps. She is 18 years old and one of two female pillars. Shinobu appears rather laid back, and always has a smile on her face regardless of the situation. Despite her relaxed exterior and her initial claim of wanting to get along with demons, she can be rather cruel and harbors a great deal of anger towards them. She is generally kind to other humans, but is rather sadistic in her treatment of demons. As a pillar, she is a top-class fighter despite her small stature. She is also well-versed in medical knowledge, and can concoct poisons and medicines alike. [spoiler]
-- **Tengen Uzui** (género Male, edad 23, cumple 31/10) · https://anilist.co/character/136071
-  Height: 198 cm (6'6") Combat Style: Sound Breathing A Demon Slayer, and the Sound Pillar of the Demon Slayer Corps. Tengen is a very eccentric person, always wanting to complete actions as flashy as possible. Although he has displayed an uncaring and forceful attitude towards some people, he also has a caring side that is mainly only shown towards his most treasured ones, most notably his three wives, [Makio](https://anilist.co/character/250554), [Suma](https://anilist.co/character/250555), and [Hinatsuru](https://anilist.co/character/250556). He also shows a somewhat nicer side towards [Tanjiro](https://anilist.co/character/126071) after their mission and starts to accept him more as the…
-- **Mitsuri Kanroji** (género Female, edad 19, cumple 1/6) · https://anilist.co/character/136072
-  Height: 167 cm (5'5") Combat Style: Love Breathing Demon Hunter and the Love Pillar of the Demon Killing Corps. Mitsuri is a soft and kind person. She is very emotional and passionate, constantly complimenting people in her head, which probably contributes to her nickname of "the Hashira of Love". Although she is rather shy and is easily flustered, she is always kind to others, most notably towards [Obanai](https://anilist.co/character/137777), whom she appears to share a strong bond with. Besides her rather emotional personality, she can also come off as somewhat childish at times. [spoiler]
-- **Kanao Tsuyuri** (género Female, edad 16, cumple 19/5) · https://anilist.co/character/139038
-  Height: 156 cm (5'1½") Kanao Tsuyuri is a Demon Hunter and the Tsuguko, who is personally looked after by the Demon Killing Corps' Pillars. She uses Flower Breathing. [spoiler]
-- **Muichirou Tokitou** (género Male, edad 14, cumple 8/8) · https://anilist.co/character/136069
-  Height: 160 cm (5'3") Combat Style: Mist Breathing Muichiro is an air-headed individual who seems to constantly wander off in thought and never focus on one thing. Impassive and, at times, obtuse, he tends to think only for himself and operates on logic alone, never letting emotion guide him. Despite this, he has been shown to get serious when it is required and is devoted to his position as the Demon Slayer Corps' Mist Hashira. Alternatively, he seems to display a cold and arrogant side as well. [spoiler]
-- **Obanai Iguro** (género Male, edad 21, cumple 15/9) · https://anilist.co/character/137777
-  Height: 162 cm (5'3") Obanai is a Demon Slayer and the Snake Pillar of the Demon Slayer Corps. A young man of short stature and a pale complexion. He has straight-edged black hair of varying lengths, the longest reaching down to his shoulders and the shortest stopping at his cheekbones, which he wears down with two shorter strands hanging between his eyes. He wears a navy blue version of the standard Demon Slayer uniform, along with a black and white pinstriped haori, the hem and cuffs of which are striped lengthways rather than vertically, which covers his hands. Obanai also sports bandages in place of the leg-wraps around his calves, as well as another set of bandages that cover his…
-- **Sanemi Shinazugawa** (género Male, edad 21, cumple 29/11) · https://anilist.co/character/137774
-  Height: 179cm (5'10½") Demon Hunter and the Wind Pillar of the Demon Killing Corps. He is the older brother of [Genya Shinazugawa](https://anilist.co/character/137776). Sanemi specializes in Wind Breathing, which has 9 forms. The technique consists of drawing the air from around the user to create whirlwind attacks that follow the user's movements. Form names include Dust Whirlwind Cutter, Claws-Purifying Wind, Clean Storm Wind Tree, Rising Dust Storm, Cold Mountain Wind, Black Wind Mountain Mist, Gale - Sudden Gusts, Primary Gale Slash, and Idaten Typhoon.
-- **Muzan Kibutsuji** (género Male, edad 1000+) · https://anilist.co/character/129132
-  Height: 179 cm (5'10") He is the Demon King, the first of his kind, and the progenitor of all other demons in existence. Muzan is also the leader of the Twelve Kizuki, an organization of the twelve strongest demons in existence that serve directly under him. [spoiler]
-- **Sabito** (género Male, edad 13) · https://anilist.co/character/137809
-  He is a former apprentice of [Urokodaki Sakonji](https://anilist.co/character/137773/Urokodaki-Sakonji). [spoiler]
+- **Ibaraki-douji** (género Female, cumple 3/2) · https://anilist.co/character/136338
+  Oni who runs a rare travelling liquor store. Often thought to be a cat Youkai, but those ears are actually her horns. She honestly would rather drink than chow down, and her favorite is Catnip Liquor. She is always bright and cheerful, but it seems she still searches for someone...
+- **Shizuka Gozen** (género Female, cumple 8/4) · https://anilist.co/character/136340
+- **Yoshitsune** (género Female, cumple 18/9) · https://anilist.co/character/136341
+- **Amaterasu** (género Female, cumple 1/1) · https://anilist.co/character/136339
+  Goddess of the Sun, Amaterasu Oomikami. Chrysanthemum where she stands, peony where she sits, and 100 flowers bloom where she walks... Or so it was before being trapped in this form when a Great Seal was shattered. Though reduced in power, her concern over her duties has not changed. Easily distracted by the joys of humanity, when it comes to duty, she is more than proper in carrying it out.
+- **Kaguya** (género Female, cumple 15/8) · https://anilist.co/character/136342
+  Mysterious girl whose speech is hard to get. For some reason, she keeps one eye hidden. Lived and was raised with Queen Himiko and Nashime, where she learned the arts of Magatama. You can find her spending her time apparently staring off into space, but she calls it "using THE WEB," whatever that means.
+- **Veronica** (sin datos) · https://anilist.co/character/136542
+- **Uzume** (sin datos) · https://anilist.co/character/136543
+- **Sakura** (sin datos) · https://anilist.co/character/136546
 
 ## Doblaje latino: ficha de «Demon Slayer: Kimetsu no Yaiba» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba_
@@ -357,6 +321,41 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba#Dat
 - En los créditos, se le acredita erróneamente a varios actores y actrices que participaron en el doblaje.
 - También en los créditos, Tanjiro es erróneamente acreditado como "Tanjito".
 
+## Tanjiro Kamado · Personality (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado#Personality_
+
+Tanjiro is very kind by nature and has been described by others as having very gentle eyes and a compassionate persona. He exhibits a great deal of determination and will not give up once he has a goal to achieve; the best example of this is his relentless quest to find a cure for Nezuko. Even though he is relatively strong on his own, Tanjiro isn't opposed to asking others for help when he needs it. He is very protective of his friends, and especially so of his younger sister. However, despite his kind and understanding nature, Tanjiro does have a limit to his tolerance and has a distaste for rudeness and cowardice, as he easily becomes annoyed by Zenitsu Agatsuma's constant whining and angered by Inosuke Hashibira's barbaric actions. Tanjiro is direct and very honest, taking everyone's words with sincerity and seriousness. Upon hearing Tengen Uzui claim he is a god, he asked what area…
+
+## Tanjiro Kamado · Abilities (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado#Abilities_
+
+=== Overall Abilities === From the beginning, Tanjiro was shown to be a prodigious fighter, having a strong natural aptitude for combat, especially swordsmanship. Tanjiro was already introduced to have above-average human abilities, like honed senses, a sharp sense of smell, immense willpower, and great intellect. His naturally obtained abilities go so far as to allow him to outsmart and catch Giyu Tomioka - one of the most experienced Demon Slayers - off guard and nearly land a blow on him despite being clouded with intense emotions. Moreover, in his first encounter with a demon, Tanjiro managed to slash the neck of the Temple Demon, impressing him. Later, he was able to fend the demon off with a regular hatchet, coming up with unique solutions such as using his durable head to headbutt the Temple Demon and also using his hatchet to pin him down to prevent any movements. techniques,…
+
+## Ruka Rengoku · Personality (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Ruka_Rengoku#Personality_
+
+As opposed to her husband Shinjuro's loud and brash personality, Ruka was depicted as being wise, gentle and graceful. She had strong morals, teaching Kyojuro the importance of his life and the need to use his strength in order to protect the weak and helpless people in the world as his primal duty. Her husband speculated that their two sons have wonderful personalities mainly because of her influence before she passed away, musing both boys were more like her than like him despite physical appearances.
+
+## Muichiro Tokito · Personality (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito#Personality_
+
+Muichiro is an air-headed individual who seems to constantly wander off in thought and is unable to focus on anything. Extremely impassive, and at times obtuse, he tends to think only for himself and operates on logic alone, never letting emotions guide him. This makes him seem apathetic and indifferent. However, Tanjiro Kamado sensed that Muichiro wasn't being apathetic on purpose as he didn't emanate any animosity. Despite his mostly uncaring and unserious demeanor, he has been shown to become serious when it is required and is intensely devoted to his position as the Demon Slayer Corps' Mist Hashira. Additionally, he seems to display a cold and arrogant side, as shown when he violently shakes down Kotetsu, calling him stupid, claiming that his time as a Hashira was important, more so than his own, and that all that the swordsmiths could do was make weapons. Despite this, Muichiro…
+
+## Muichiro Tokito · Abilities (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito#Abilities_
+
+===Overall Abilities=== .]] Despite his young age in comparison to his Hashira brethren, Muichiro is an incredibly talented and skilled member of the Demon Slayer Corps, who was noted by the Flame Hashira Kyojuro Rengoku to be more skilled than he was at his age. Even before becoming a Demon Slayer, he was able to completely overpower a demon using only wooden stakes and farming tools. He has the astounding feat of becoming a Hashira a mere two months after picking up a sword, a feat that would normally take five years of training for the average person and at best two years, which earned him the praise of the Sound Hashira Tengen Uzui. After gaining his Demon Slayer Mark, he was able to engage with Gyokko, the fifth highest ranking demon of the Twelve Kizuki, in combat with little difficulty, eventually killing him even after he had transformed into his true form. His fighting prowess…
+
+## Shinobu Kocho · Personality (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho#Personality_
+
+Shinobu displayed a friendly demeanor, consistently having an easygoing smile on her face regardless of her situation. However, her outward behavior was shown very quickly to be a façade. She teased fellow Demon Slayers to the point of being rather sardonic about it, and was shown most notably to pick on Giyu Tomioka. Despite her relaxed exterior and initial claim of wanting to get along with demons, she displayed cruelty towards them, seen when she killed Daughter after giving her false hope of helping her. In another scene, she attempted to dispatch Nezuko Kamado without giving her brother Tanjiro a single chance to prove that she was harmless. It is worth noting, however, that later on Shinobu was shown to have a more compassionate side towards Nezuko after hearing her story. The Insect Hashira was shown to be unabashed in awkward scenarios; during the episode where she rescued…
+
+## Shinobu Kocho · Abilities (texto de la wiki)
+_Fuente: https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho#Abilities_
+
+===Overall Abilities=== before retaliating.]] As a Hashira of the Demon Slayer Corps, Shinobu was a very effective and skilled combatant. Despite lacking the physical strength to cut off a demon's head, Shinobu managed to ascend to the highest rank in the Demon Slayer Corps with another elimination method, relying on poison instead. She was creative in using her techniques, enough to make up for her physical deficits. Instead of the traditional method of decapitating a demon with a Nichirin Sword, she opted to use a modified katana that injected a dosage of wisteria poison, a substance lethal to demons. In addition to her intellect, she was fast and agile, allowing her to overpower demons through sheer speed. She also managed to overwhelm and easily defeat Daughter, a member of Lower Rank Five's Spider Family, despite Daughter being enhanced with a drop of the Demon King, Muzan's blood.…
+
 ## Los personajes más dibujados por los fans (Danbooru, 35 dibujos de «onigiri_(mmorpg)»)
 _Fuente: https://danbooru.donmai.us/posts?tags=onigiri_%28mmorpg%29_
 
@@ -391,3 +390,5 @@ _Fuente: https://www.reddit.com/r/Onigiri_
 
 **«favorite character»**
 **«best scene»**
+**«unpopular opinion»**
+**«iconic»**
