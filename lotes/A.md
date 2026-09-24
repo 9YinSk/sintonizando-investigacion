@@ -11,16 +11,20 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 - 03 Solo Leveling: **COMPLETA** y subida (22:47). ✅31 ⚠️6 ❌0, 148 referencias, 111 webs, 1751 líneas.
 - 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
-- 31 Demon Slayer: imagen y voz listos; texto (Sonnet) en marcha.
-- 32 Jujutsu Kaisen: imagen lista; voz (Sonnet) en marcha; falta texto. 33, 34: falta el repaso corto.
+- 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
+- 32 Jujutsu Kaisen: imagen y voz listos; texto (Sonnet) en marcha. 33 Frieren: imagen lista; voz (Sonnet) en marcha. 34 Haikyuu: imagen (Sonnet) en marcha.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): imagen lista; video y voz (Sonnet) en marcha; falta texto. AnimeThemes sigue caído (522), se usa Dailymotion/Fandom/AniList en su lugar.
+- 36 Hunter x Hunter (nueva): imagen, video y voz listos; texto (Sonnet) en marcha. AnimeThemes sigue caído (522), se usa Dailymotion/Fandom/AniList en su lugar.
 
 ## Avisos para el dueño
 
 - 02: quedan ⚠️ el punto 20 (comida favorita de Erwin, Hange, Eren y Mikasa: no
   encontrada) y el 22 (vistas de fan dubs en YouTube sin comprobar: pide iniciar
   sesión). Corregido: Levi no muere en el arco del Titán Femenina; muere su escuadrón.
+
+- 31 Demon Slayer: más querido, Zenitsu (2ª encuesta oficial). Cuadro de diálogo propio:
+  cartela vertical a pincel / tablilla «その1». Corregido: Fortnite NO tiene colaboración
+  oficial (sólo rumor, no usar en láminas); el Tren Mugen son los ep. 27-33.
 
 - 05 Oshi no Ko: personaje más querido, Kana Arima (barra blanca, ep. 11, 07:41).
   Cuadro de diálogo propio: el directo de MEM (naranja `#DCAC64`). Corregidas dos
@@ -47,3 +51,4 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 | 03 | redactor (repaso corto) | Opus | 4 | 147 mil |
 | 04 | redactor (repaso corto) | Opus | 12 | 210 mil |
 | 05 | redactor (repaso corto) | Opus | 14 | 245 mil |
+| 31 | redactor (repaso corto) | Opus | 13 | 228 mil |
