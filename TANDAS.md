@@ -95,7 +95,7 @@ Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda 
 > Haz la tanda S7 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/25-my-hero-academia.md`, `encargos/26-scooby-doo.md`, `encargos/27-cyberpunk-edgerunners.md`, `encargos/28-jojo-s-bizarre-adventure.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [x] 25-my-hero-academia
-- [ ] 26-scooby-doo
+- [x] 26-scooby-doo
 - [x] 27-cyberpunk-edgerunners
 - [ ] 28-jojo-s-bizarre-adventure
 
