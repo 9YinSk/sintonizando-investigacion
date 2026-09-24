@@ -14,3 +14,4 @@ Empezó: 24-sep-2026, 20:55 UTC (rama claude/sweet-hopper-98krqw).
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 06-spy-x-family | imagen | sonnet | 15 | 224644 |
