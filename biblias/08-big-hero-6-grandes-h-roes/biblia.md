@@ -1896,40 +1896,110 @@ vídeo de reacción concreto (YouTube pide sesión) ⚠️. En TikTok latino,
 
 ---
 
-## 18 · Guía para describir el estilo a una IA de imagen
+## 18 · Guía para IA de imagen y de texto (punto 17)
 
 Sólo es una guía que pide el encargo. **Las láminas no se hacen con IA**:
-el dueño pide que no parezca IA.
+el dueño pide que no parezca IA. Sirve para Firefly o Canva al probar
+poses y fondos, y para escribir textos del bot en la voz de la serie.
+
+### 18.1 · Para una IA de imagen
 
 **Rasgos que nunca cambian**
 - **Baymax:** cuerpo blanco inflable en forma de pera o campana, cabeza
   pequeña, **cara de dos puntos negros unidos por una raya fina**, sin
-  boca ni nariz, brazos gordos y blandos, piernas cortas. Vinilo mate con
-  brillo suave.
-- **Hiro:** 14 años, pelo negro corto y revuelto, ojos marrones, sudadera
-  azul marino, camiseta roja, cordones amarillos.
-- **Tadashi:** gorra negra con letras rojas y doradas.
+  boca ni nariz, brazos gordos y blandos, piernas cortas. Vinilo con
+  brillo suave. **Botón rojo redondo** y **sensor ovalado** en el pecho.
+  Blanco `#F2F3F5`, sombra **cálida** `#DAD5D4`, ojos `#000000` (§16).
+- **Hiro:** 14 años, pelo negro corto y revuelto, ojos marrones, **hueco
+  entre los dientes**, sudadera azul marino `#3B3D5C`, camiseta roja
+  `#DB2C2B`, cargo caqui `#7B5836`, cordones amarillos.
+- **Tadashi:** gorra negra con letras rojas y doradas; chaqueta verde.
+- **Armadura de Baymax** (sólo si se pide): rojo anaranjado `#DD4630`-
+  `#ED512D` con morado `#8E7380`-`#926996`.
 
-**Estilo:** animación 3D de Disney de 2014, luz rebotada realista,
-desenfoque de cine, colores limpios, formas redondas y simples.
+**Estilo:** animación 3D de Disney de 2014 (render Hyperion), luz
+rebotada realista, **sombreado degradado y casi sin contorno**,
+desenfoque de cine, formas redondas y simples, saturación media (§A).
+La serie de TV es otra cosa (2D con línea negra): no mezclar.
 
-**Luz:** hospital fría de techo; garaje cálido de noche; atardecer dorado
-en la ciudad.
+**Luz** (medida, §6): cuarto de Hiro de tarde, beige y marrón con
+persiana; cocina Lucky Cat de noche, madera, verde menta y rojo;
+ciudad al atardecer **morado azulado**; consulta u hospital, fría de
+techo (HDRI).
 
-**Encuadre:** Baymax ocupa mucho; la cámara un poco baja lo hace grande
-y suave.
+**Encuadre:** Baymax ocupa mucho; cámara un poco baja; para explicar,
+**plano medio fijo centrado en el pecho** encendido (póster latino n.º
+44).
 
 **Palabras que ayudan:** «inflatable white vinyl robot», «two black dots
-connected by a thin line», «no mouth», «soft rounded shapes», «Disney 3D
-animation 2014», «San Francisco and Tokyo hybrid city», «warm cinematic
-lighting».
+connected by a thin line», «no mouth», «glowing chest screen projection»,
+«pointing at his own chest», «soft rounded shapes», «Disney 3D animation
+2014», «soft gradient shading, no outlines», «San Francisco and Tokyo
+hybrid city», «warm cinematic lighting», «shallow depth of field».
 
 **Palabras que lo estropean:** «mouth», «smile», «armor» (si no la
-quieres), «anime», «2D», «metal robot», «scary», «sharp».
+quieres), «anime», «2D», «cel shading», «metal robot», «mecha», «panel
+lines», «scary», «sharp».
 
-**Qué imágenes dar de referencia:** estilo, los pósters de IMP Awards y
-los fondos 3840×2160 de Wallpaper Abyss; pose, los clips del punto 15 y
-las poses con esqueleto de Kevin Nelson.
+**Qué imágenes dar de referencia** (hojas, §3.0):
+- **Estilo**: póster latino n.º 44, render de Baymax
+  ([1280×1403](https://static.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png)),
+  fotograma del abrazo n.º 16, fondos de Wallhaven (§17).
+- **Pose**: n.º 44 (señalar el pecho), n.º 93 (saludar), n.º 19 (Hiro
+  señala), las poses vistas de §15 y las de esqueleto de Kevin Nelson.
+- **Tabla del dolor**: [Scale_8.png](https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png) (forma y colores, no las caras).
+
+**Expresiones**: aquí **no hay** gotas de sudor, venas ni fondos de
+emoción de anime. Baymax se expresa con **el cuerpo, la cabeza ladeada y
+el parpadeo**; al escanear, en la serie, sus ojos son dos obturadores
+girando (§8). Hiro tiene caras realistas de Disney (§9, tabla de
+emociones).
+
+### 18.2 · Para una IA de texto (sus voces)
+
+**Cómo habla cada uno**
+- **Baymax**: frases completas, educadas y cortas. **Nunca exclama ni
+  grita** (su voz es la menos expresiva medida, §9). Se presenta («Hola,
+  yo soy Baymax»), pregunta con números («del 1 al 10»), da datos de su
+  escáner («Tu estado emocional ha mejorado»). Literal: no entiende las
+  bromas («Sólo es una expresión», le aclaran). Tutea.
+- **Hiro**: rápido, listo y burlón; ironía de abogado («eso es ilegal,
+  pero lucrativo»); mete palabras en inglés («nerd lab»).
+- **Tadashi**: cálido; empuja con preguntas («¿Hasta cuándo…?»); nunca
+  deja solo a su hermano.
+- **Wasabi**: atropellado, de reglas y orden, exclamaciones de pánico.
+- **GoGo**: seca, amenazas cortas, pocas palabras.
+- **Fred**: entusiasta, pone apodos, mezcla inglés («my house»).
+- **Tía Cass**: regaña con cariño y con preguntas.
+
+**Frases reales del doblaje latino, por emoción** (minuto del clip, §10):
+
+| Emoción | Frase | Quién y dónde |
+|---|---|---|
+| Alegre | «¡Qué lindo! Conoceré tu nerd lab.» | Hiro, [x2hry42, 2:11](https://www.dailymotion.com/video/x2hry42?t=131) |
+| Alegre | «Bienvenida a la tierra de los nerds.» | Hiro, [2:45](https://www.dailymotion.com/video/x2hry42?t=165) |
+| Alegre | «¡Somos nerds!» | Fred, [tráiler, 1:25](https://www.dailymotion.com/video/x889whz?t=85) |
+| Enfadado, regañando | «Las peleas robóticas son ilegales. ¿Quieres que te arresten por esto?» | Tía Cass, [0:00](https://www.dailymotion.com/video/x2hry42?t=0) |
+| Enfadado | «Fred, no me hagas callarte con mi láser.» | GoGo, [x5hvz3y, 3:01](https://www.dailymotion.com/video/x5hvz3y?t=181) |
+| Enfadado | «¡La sociedad tiene reglas!» | Wasabi, [x2hry42, 3:34](https://www.dailymotion.com/video/x2hry42?t=214) |
+| Explicando | «Las peleas robóticas no son ilegales. Apostar en peleas robóticas, eso es ilegal, pero lucrativo.» | Hiro, [0:04](https://www.dailymotion.com/video/x2hry42?t=4) |
+| Explicando | «Cada objeto tiene un lugar y un lugar cada objeto.» | Wasabi, [3:29](https://www.dailymotion.com/video/x2hry42?t=209) |
+| Explicando | «Tu estado emocional ha mejorado.» | Baymax, [x5hvz3y, 0:52](https://www.dailymotion.com/video/x5hvz3y?t=52) |
+| Animando, cuidando | «Hola, yo soy Baymax.» · «Quiero ayudarte.» | Baymax, [tráiler, 0:18](https://www.dailymotion.com/video/x889whz?t=18) y [0:52](https://www.dailymotion.com/video/x889whz?t=52) |
+| Animando | «Quizá no evite que vayas, pero no voy a dejarte ir solo.» | Tadashi, [x2hry42, 1:49](https://www.dailymotion.com/video/x2hry42?t=109) |
+| Animando | «¿Hasta cuándo harás algo de valor con esa mente brillante?» | Tadashi, [1:26](https://www.dailymotion.com/video/x2hry42?t=86) |
+| Cerrando | «Puedo desactivarme si dices que estás satisfecho con tu cuidado.» | Baymax, [x5hvz3y, 0:55](https://www.dailymotion.com/video/x5hvz3y?t=55) |
+| Triste | «No lo sé, ya no están. Tenía tres años cuando murieron.» | Hiro, [x2hry42, 1:37](https://www.dailymotion.com/video/x2hry42?t=97) |
+| Triste | «No, no quiero que te desactives.» | Hiro, [x5hvz3y, 1:00](https://www.dailymotion.com/video/x5hvz3y?t=60) |
+
+**Puntuación y sonidos**: Baymax, punto final siempre, sin «!»; Hiro y
+Fred, «¡…!» cuando se emocionan; el «¡Ay!» que lo activa; el
+«ba-la-la-la-la» del choque de puños; Baymax **no hace bips**: su
+movimiento suena a goma que chirría (§11). En el manga, la onomatopeya
+va a mano («ばっ», §B).
+
+**Ejemplo en su voz para #soporte** (adaptación, no cita): «Hola. Yo soy
+tu asistente de soporte. ¿Del 1 al 10, cuánto te duele?».
 
 ---
 
