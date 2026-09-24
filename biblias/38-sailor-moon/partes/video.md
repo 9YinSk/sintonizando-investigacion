@@ -56,12 +56,24 @@ en `/tmp/claude-0/trabajo/38-sailor-moon-video/` (`.mp4` borrados al terminar ca
   películas de los 90 · [archive.org](https://archive.org/details/sailor-moon-r-the-movie-fandub-vhs-rip)
   + [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SailorMoonRTheMovie) ·
   ✅ (visto + fuente secundaria que confirma que es LA escena icónica de esa película).
-- **Sailor Moon Cosmos (2023)** — última película de la franquicia de los 90 (cierra el
-  arco de Sailor Stars/Galaxia que el anime original de 1997 dejó sin adaptar) — la vi
-  en **doblaje latino** (Parte 2, la más reciente disponible) para el punto «reciente/
-  final de temporada»: minuto y cita en `partes/episodios.md`. Estreno: julio-agosto de
-  2023 (Parte 1 y 2) · [archive.org](https://archive.org/details/pretty-guardian-sailor-moon-cosmos-la-pelicula-parte-2) ·
-  ✅.
+- **Sailor Moon Cosmos (2023) — el final de TODA la historia de los 90**, visto en
+  **doblaje latino** (Parte 2, min. 1:10:00-1:18:19, los últimos 8 minutos de la
+  película): primero la Guardiana Cardian Cosmos le habla a Sailor Moon en el «Galaxy
+  Cauldron» sobre las semillas estelares (min. 1:10-1:12); luego un epílogo doméstico
+  (Usagi deja las llaves puestas, cena en familia, min. 1:12-1:14); y termina en un
+  **sueño de boda**: Usagi adulta y Mamoru en una habitación lila con la Torre de Tokio
+  de fondo, él le toma la barbilla (min. 7:58 del tramo = real 1:17:58) y, ante un
+  vitral de colores, **le pide matrimonio** — última frase de la película, min. 8:19 =
+  real **1:18:19**: «¿Te casarías conmigo?» · [archive.org, doblaje latino, Parte
+  2](https://archive.org/download/pretty-guardian-sailor-moon-cosmos-la-pelicula-parte-2/Pretty%20Guardian%20Sailor%20Moon%20Cosmos%20La%20pel%C3%ADcula%20Parte%202.mp4?t=4680)
+  + [ficha en `partes/episodios.md`](episodios.md) · ✅ (visto y oído directamente,
+  doblaje latino). Estreno original: **9 de junio de 2023 (Parte 1) y 30 de junio de
+  2023 (Parte 2)**, Toei Animation + Studio Deen, dirigida por Tomoya Takahashi;
+  adapta el arco final del manga (Sailor Stars/Galaxia) dentro de la continuidad de
+  Sailor Moon Crystal; ending de la Parte 2: **Moonlight Densetsu** (el mismo tema del
+  primer opening de 1992, cerrando el círculo) · [wiki, «Pretty Guardian Sailor Moon
+  Cosmos»](https://sailormoon.fandom.com/wiki/Pretty_Guardian_Sailor_Moon_Cosmos) ·
+  ✅ (dos fuentes).
 
 ### Punto 4 · Sitios, luz, paleta y texturas
 

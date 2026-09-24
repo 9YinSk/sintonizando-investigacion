@@ -156,6 +156,30 @@ enlace de audio real, no memoria; minuto dentro del propio clip corto):
 - Fichas completas (`ficha_voz.json`, `transcripcion.srt`) en
   `/tmp/claude-0/trabajo/38-sailor-moon-voz/voz_<Personaje>/`.
 
+### Frase textual extra, doblaje latino más reciente (Sailor Moon Cosmos, 2023/2024)
+El investigador de vídeo transcribió con `episodio.py` el tramo final de
+**Sailor Moon Cosmos - Parte 2** (última película de la franquicia, doblaje
+latino continuación del elenco de Crystal) desde un archivo en Internet
+Archive, con audio real en español y minuto exacto — lo aprovecho aquí para
+el punto 8 (frase textual con fuente) y el 21 (final feliz):
+- [1:18:00] Mamoru le pregunta a Usagi: **«¿Te casarías conmigo?»** — cierre
+  de toda la franquicia, la pedida de mano · ✅
+  https://archive.org/download/pretty-guardian-sailor-moon-cosmos-la-pelicula-parte-2/Pretty%20Guardian%20Sailor%20Moon%20Cosmos%20La%20pel%C3%ADcula%20Parte%202.mp4?t=4680
+  (fuente: `biblias/38-sailor-moon/partes/episodios.md`, ficha «Sailor Moon
+  Cosmos - Parte 2», transcrita con Whisper) + ✅ segunda fuente de que la
+  serie termina con esa propuesta:
+  https://en.wikipedia.org/wiki/List_of_Sailor_Moon_Crystal_episodes (resumen
+  de Cosmos)
+- [1:12:00] Ikuko (mamá de Usagi) la regaña con humor: **«¿Y ahora qué estás
+  haciendo, Usagi tonta? ¿Volviste a dejar las llaves adentro? Ay, no sé por
+  qué no tengo una hermana más capaz»** — tono cotidiano y cariñoso de la
+  familia Tsukino, útil para el punto 13 (dinámicas familiares) · ✅ misma
+  fuente
+- ⚠️ Transcripción automática (Whisper): hay errores de nombres propios
+  («Sith Cosmos» en vez de «Star Seed Cosmos», «Cardian» en vez de un nombre
+  propio del guion) — se cita literal como referencia de ritmo y tono del
+  doblaje, no como cita cerrada para publicar sin revisar de oído.
+
 ### Nota: NO hay redoblaje español ibérico latino ni brasileño mezclado
 El doblaje de España (Madrid, 1993-1998) es un doblaje **aparte**, para
 público europeo, no latino: se cita sólo para contraste (empezó antes pero

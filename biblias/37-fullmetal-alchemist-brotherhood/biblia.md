@@ -865,7 +865,91 @@ Ed, Al y Winry mayores **en una escena larga** quedan por oír (§28).
 
 ## 11 · Música y sonido
 
-(pendiente)
+### 11.1 Openings y endings ✅
+
+Confirmados en la [wiki `fma`](https://fma.fandom.com/wiki/Fullmetal_Alchemist:_Brotherhood)
+(«Theme Songs») y en los archivos del Blu-ray subidos a Internet Archive.
+
+| # | Tema | Intérprete | Capítulos | Vídeo sin créditos |
+|---|---|---|---|---|
+| OP1 | Again | YUI | 1-14 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP2 | Hologram | NICO Touches the Walls | 15-26 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/03.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2002%20%5BNICO%20Touches%20the%20Walls%20-%20Hologram%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP3 | Golden Time Lover | Sukima Switch | 27-38 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/04.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2003%20%5BSukima%20Switch%20-%20Golden%20Time%20Lover%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP4 | Period | CHEMISTRY | 39-50 | [1:33](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/05.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2004%20%5BBD%201920x1080%20x264%20FLAC%5D.mp4) |
+| OP5 | Rain | SID | 51-60, 62 | [1:33](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/06.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2005%20%5BBD%201920x1080%20x264%20FLAC%5D.mp4) |
+| ED1 | Uso (嘘) | SID | 1-14 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| ED2 | Let It Out | Miho Fukuhara | 15-26 | — |
+| ED3 | Tsunaida Te | Lil'B | 27-38 | — |
+| ED4 | Shunkan Sentimental | SCANDAL | 39-50 | — |
+| ED5 | Ray of Light | Shoko Nakagawa | 51-62 | — |
+| ED6 | Rain (de nuevo) | SID | 63 | — |
+| ED7 | Hologram (de nuevo) | NICO Touches the Walls | 64 | — |
+
+⚠️ El `.mp4` que se puede bajar mide **852×480** aunque el nombre diga
+1080p (medido con `ffprobe`).
+
+### 11.2 El OP1 «Again», visto (hoja A, cada 2 s)
+
+Cortes de 2 a 4 segundos, al ritmo de la guitarra. Lo que se ve:
+- 0:02-0:04: un círculo adornado con flores entre **cortinas moradas**, y
+  un joven rubio de camisa blanca (A2-A3) ⚠️ no sé quién es (la parte dijo
+  «Winry», y no lo es: §28.2).
+- 0:06: **Trisha** con la casa de Resembool detrás (A4). 0:10: **Hohenheim**
+  con gafas (A6). 0:12: una **llama roja** en la oscuridad (A7).
+- 0:18-0:20: **el logo** sobre fuego y luego sobre cielo nocturno (A10-A11).
+- 0:22-0:28: Ed con el abrigo rojo en un campo dorado, al viento; en 0:28
+  **junta las manos** (A12-A15).
+- 0:36: Ed y Al **niños durmiendo** (A19). 0:40: el casco de Al con ojos
+  rojos (A21). 0:44: **Hughes** (A23). 0:46: **Roy** de espaldas contra el
+  fuego (A24). 0:50: Ed niño corre con rayos de alquimia ante una casa (A26).
+- 0:58: Havoc y Fuery **sorprendidos**, con signos de exclamación rojos:
+  gag (A30). 1:02: **Bradley** (A32). 1:10-1:14: **Scar bajo la lluvia**
+  (A36-A38). 1:20: Ed da una patada (A41). 1:22: **Gluttony** (A42).
+- 1:26-1:28: destello blanco y tierra roja al atardecer (A44-A45).
+
+### 11.3 El ED1 «Uso», visto (hoja B, cada 3 s)
+
+**Otro estilo**: dibujo *chibi* a mano sobre **papel con textura de
+acuarela**, naranja y mostaza, casi sin línea negra ✅.
+- 0:03-0:09: Ed *chibi* enseña el brazo de automail; la mano metálica en
+  grande (B2-B4).
+- 0:24: Winry con su perro Den (B9). 0:39: Roy, Riza y Ed (B14). 0:42:
+  **Armstrong abraza a Ed** (B15). 0:45: los **globos a mano** y el
+  «TA-DA» (B16, §7.4).
+- 0:48-0:57: **el banco de trabajo de Winry**: tarros, llave inglesa,
+  martillo, tornillos, papeles y una cortina rosa; Winry se tapa la cara
+  (B17-B20). Es el sitio de §27 B.
+- 1:00: Al solo en un cuarto azul con una estantería (B21).
+- 1:21: **la esfera de un reloj de bolsillo** en grande (B28). 1:24: Ed con
+  el abrigo rojo y **la cruz de Flamel** (B29). 1:27: Ed y Al de espaldas
+  en la **vía del tren** (B30).
+
+### 11.4 La banda sonora
+
+- **Akira Senju**, *Original Soundtrack 1, 2 y 3* (2009-2010) ✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/e5bd2535-915c-4d4f-88ae-8fb6a0b771a4)
+  + [wiki](https://fma.fandom.com/wiki/Fullmetal_Alchemist_Brotherhood_Original_Soundtrack_1)).
+  ⚠️ La parte dice que se grabó con la Filarmónica de Varsovia, sin fuente.
+- **«Requiem for the Brigadier General»**: orquesta lenta, la muerte de
+  Hughes (ep. 10, 16:45-18:49) ⚠️ (un listado de fans,
+  [fmabostlist](https://sites.google.com/view/fmabostlist/episodes/1-16)).
+- **«Trisha's Lullaby»**: nana de piano de la madre; en los flashbacks de
+  la infancia (ep. 2-6) ⚠️ (mismo listado).
+- **«One is All, All is One»**: el tema del lema; desde el ep. 1 ⚠️.
+- **Equipo de sonido** (AniList): dirección de sonido **Masafumi Mima**,
+  efectos **Shizuo Kurahashi** ✅.
+
+### 11.5 Efectos y onomatopeyas
+
+- La transmutación suena a **chispazo eléctrico** con destello: rayos
+  azules (tráiler [0:14](https://archive.org/download/turner_video_134431/134431.mp4?t=14))
+  ✅ (visto). ⚠️ No se encontró el nombre del efecto ni una fuente que lo
+  describa.
+- El **doblaje en inglés** usa efectos de librería (Hollywood Edge, Sound
+  Ideas: crujidos, golpes metálicos, yunque) ✅
+  ([Soundeffects Wiki](https://soundeffects.fandom.com/wiki/Fullmetal_Alchemist:_Brotherhood)).
+- En la versión latina, los **kanji de efectos en pantalla** salían
+  subtitulados hasta el cap. 50 (§7.6).
 
 ## 12 · Vídeos y tendencias
 
