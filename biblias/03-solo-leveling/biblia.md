@@ -837,6 +837,41 @@ Ninguno de estos vídeos tiene subtítulos ni capítulos (comprobado con yt-dlp)
 
 **Aviso:** el dueño no quiere que la lámina «parezca IA». La IA solo para bocetos. El personaje final, recortado de arte oficial por `v3/integrar.py`.
 
+### Lo que añade el repaso (punto 18) a la IA de imagen
+- **Regla del director:** nada de gestos de dibujo animado. Añade *cinematic depth of field, subtle film grain, colored rim light, minimal black outlines* para el anime.
+- Añade a las que estropean: *super deformed, sweat drop, comedic expression, screentone*.
+- **Si quieres el webtoon** (no el anime): *clean black lineart, flat cel shading, saturated digital gradients, speed lines*. La viñeta de referencia: [cap. 50](https://static.wikia.nocookie.net/solo-leveling/images/3/3c/Chapter_50.png). Para el anime, el [fotograma de Igris del ep. 11](https://static.wikia.nocookie.net/solo-leveling/images/c/c0/Anime_Episode_11_Picture_5.png).
+- **Tristeza:** *extreme close-up, cold blue light, hand on cheek, tears on chin, not idealized* (ep. 21, punto 21).
+
+### Para una IA de texto: sus diálogos, en su voz
+**Reglas de la serie**
+- **Frases cortas y secas.** Nadie explica de más. El tono es serio: sin chistes de Jinwoo (§17).
+- **Puntos suspensivos** para la duda, el peso o la devoción: «Mi rey…», «Sólo hubo seis sobrevivientes…».
+- **Exclamación sólo en el grito:** «¡Entremos!», «¡Debo vivir! ¡Debo sobrevivir!».
+- **De usted** Cha Hae-In con quien no conoce, y Beru siempre con Jinwoo. De tú, la familia y los amigos (Jinah, Jinho).
+- **Pensamientos de Jinwoo:** en cursiva, sin globo (§4).
+- **El Sistema** no «habla»: rotula. Cabecera en mayúsculas («NOTIFICACIÓN», «ADVERTENCIA»), la amenaza en mayúsculas y rojo («TE DETENDRÁ EL CORAZÓN»), los nombres entre corchetes y en negrita cursiva: ***[Perjuicio] Parálisis***, ***[Rango E]***.
+- **Beru exagera** (habla florido porque ve doramas de época, punto 20). **Igris no habla nunca.**
+- **Onomatopeyas:** no las documenté ⚠️. Mejor no inventarlas: la serie usa líneas de velocidad y luz, no letras de sonido.
+
+**Frases reales del doblaje latino, por emoción** (todas de §12.3, con su minuto allí)
+| Emoción | Frase | Quién |
+|---|---|---|
+| Alegre, devoto | «Todo mi ser se encuentra lleno de júbilo. Juro que voy a servirle por la eternidad.» | Beru |
+| Enfadado, cortante | «Le dije que no estaba interesada.» | Cha Hae-In |
+| Enfadado, preocupado | «Oye, necesitas tener más cuidado. ¿Tienes idea de lo preocupada que estaba?» | Jinah |
+| Explicando | «Todos los cazadores vivimos de la venta de los recursos que hay dentro de las mazmorras.» | Go Gunhee |
+| Explicando, presentándose | «Hola a todos, soy el líder de la incursión del día de hoy. Un gusto conocerlos.» | Song Chiyul |
+| Animando | «¿Ya están todos listos? ¡Entremos!» | Song Chiyul |
+| Animando, protector | «¿Tu primera vez en una mazmorra C? No te preocupes, yo voy a mantenerte a salvo.» | Yoo Jinho |
+| Triste, resignado | «Así es como suelo vivir, un día tras otro.» | Jinwoo (rango E) |
+| Triste | «Sólo hubo seis sobrevivientes…» | Woo Jinchul |
+| Orden, poder | «Surge.» | Jinwoo (subtítulos latinos) |
+
+**Vocabulario de la serie:** el del punto 25 (portal, mazmorra, rango E… S, gremio, soldados sombríos, Perjuicio, «Surge», Rey de las Sombras).
+
+**Para la IA de imagen, cada gesto** (de §7): poder = ojos violeta brillando, contrapicado, contraluz (KV T2); extraer una sombra = agachado, mano hacia el suelo (índice P 250; el gesto del ep. 12 no lo vi ⚠️); pensar = de perfil, dos dedos en la barbilla, la ventana al lado (S·2); invitar = brazo estirado y mano abierta (P·3); tristeza = primer plano con luz azul fría (ep. 21). Sin gotas de sudor, sin fondos de emoción de comedia y sin *chibi*.
+
 ---
 
 ## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
@@ -1221,6 +1256,14 @@ La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabece
 - **«Los talentos»:** desfile de sombras con nombre (Beru, Tank, Colmillo, Kaisel, Iron), cada una con su ficha [Nombre Nv.], usando sus visuales oficiales (P·13-16). **Beru al frente, arrodillado, con su frase del doblaje: «Mi rey… concédame un nombre.»** Fondo: el palacio blanco del ending T2 (ED · 0:49), con el ejército en fila.
 - **«Normas»:** los **mandamientos grabados** del templo de Cartenon (ep. 2 · 01:10: «First, worship the God. Second, praise the God…») convertidos en las normas del servidor, **bajo la estatua del Dios sonriendo** (F·1, 3840×2160) en la sala del anillo de luces azules (F·2). Es piedra tallada: no hace falta globo. El castigo, en una ventana roja: «ADVERTENCIA: no cumplir la norma…» (como en el [clip del ep. 6 · 0:07][yt-clip6-7]).
 
+### Lo que añade el repaso (puntos 18-25) a los tres conceptos
+Los tres se mantienen. Mejoran así:
+- **En los tres, el acabado (punto 18):** si el personaje sale de un fotograma o un render, **casi sin línea negra**, con **luz de borde de color** (cian de la ventana, violeta Monarca) y el **fondo desenfocado**. Grano fino por encima. Nada de caras de comedia.
+- **A · El mostrador:** la Asociación **no tiene emblema** que yo encontrara (punto 19). La mampara lleva sólo texto. Si el hilo es de roles, la licencia de cazador puede llevar el sello de **Ahjin** (llama violeta, 700×700), que va con la paleta Monarca.
+- **B · El tablón:** **se queda de corcho**: One Piece y Attack on Titan ya lo esquivan en sus biblias (punto 24). Para posar a Cha Hae-In en Blender, el [modelo de Casttelan2][sk-cha] (CC BY). Su «usted» del doblaje sigue siendo la voz justa.
+- **C · El salón del trono:** Igris fue **Sian Halat**, un caballero que perdió a su familia (punto 20). Arrodillado y en silencio es su gesto justo. Para la armadura, el **grabado de metal CC0** (punto 19); para el brillo del metal con luz de estudio, el [cosplay de Igris](https://i.redd.it/mv4qi4hnqjcg1.jpg).
+- **Lámina 2 nueva, «De qué va esto»:** la **historia en 14 arcos** (punto 25) como una ventana del Sistema de **misiones completadas**, una línea por arco (***[Completada]*** Mazmorra doble · ep. 1-3…). Jinwoo de perfil con dos dedos en la barbilla (S·2). Sin spoilers de lo no animado.
+
 ---
 
 ## 21 · Lo que no pude verificar
@@ -1236,6 +1279,17 @@ Tras la segunda pasada quedan:
 - **Pixiv y ArtStation:** no probados (DeviantArt y Reddit sí).
 - **Descripción del canal:** está cortada en el inventario.
 - **Letras de la ventana** (Trueno Round, Circe Rounded, Caros Soft, Eternal): nadie oficial dice cuáles son; sólo fans.
+
+**Tras el repaso de los puntos 18-25 (24-sep-2026) quedan además:**
+- **El minuto de la escena del hospital** (ep. 21, la madre despierta): el avance en Dailymotion da «Not found» y YouTube pide iniciar sesión.
+- **Las vistas** de los 6 covers y del meme de TikTok: `oembed` no las da.
+- **El vídeo de @naruto_dominiicano:** sin enlace directo.
+- **Un fandub latino con grupo propio:** no lo encontré.
+- **Qué programa 2D usó A-1 Pictures** y los nombres de sus filtros: sin fuente.
+- **Una entrevista de DUBU** sobre su técnica y **una de Chugong** sobre sus influencias: no las encontré.
+- **Emblema de la Asociación de Cazadores** y **patrones de tela** de la ropa: no los encontré.
+- **Alturas y comidas favoritas:** no hay *databook* oficial.
+- **TV Tropes** (403, sin copia en Wayback) y **namu.wiki** (403; sólo fragmentos del buscador).
 
 ## Cumplimiento del encargo
 
