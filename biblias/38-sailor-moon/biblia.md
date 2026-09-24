@@ -79,7 +79,7 @@ propuestas de las biblias 29 a 37 para no pisar a nadie.
 |---|---|---|---|---|
 | **A (principal)** | **🎲 Juegos** (sala de voz, EN VIVO) | la **recreativa de Sailor V** del **Game Center Crown**, con su pantalla «NEXT / SCORE» | **Minako** (la más votada en Chile) con **Artemis** | en la serie es un juego de verdad: Artemis lo programó para entrenar a Minako, y bajo la máquina se abre, con «GAME ENDLESS», la puerta secreta al Centro de Mando (§7.3) |
 | **B** | **#eventos** (EN VIVO) | los **ofuda** (papeles de exorcismo) de Rei en el **Templo Hikawa**, el punto de reunión del grupo | **Rei** | su frase latina real es «Era de esperarse, siempre eres la última en llegar, Usagi» (§10.4): un canal de convocatorias con hora |
-| **C** | **#general-doblaje** (o 🎙️ Grabación) | el **broche de transformación** en el **cuarto de Usagi**, de noche, con Luna en la repisa | **Usagi** y **Luna** | la voz de Usagi es **la misma en 1995 y en 2018** (Patricia Acevedo): el doblaje latino es lo que más quieren los fans hispanos (§14, §23) |
+| **C** | **#general-doblaje** (o 🎙️ Grabación) | **el examen de Usagi** y **su broche** en el escritorio de su **cuarto**, de noche, con Luna en la repisa | **Usagi** y **Luna** | la voz de Usagi es **la misma en 1995 y en 2018** (Patricia Acevedo): el doblaje latino es lo que más quieren los fans hispanos (§14, §23) |
 
 Detalle completo, textos y luz en §27.
 
@@ -1216,6 +1216,701 @@ color. ✅ salvo lo marcado.
   **calendarios** #121-127 de `personajes_03.jpg`.
 - Las **carátulas de LaserDisc** (#22-26, #59-69, hasta 3696×3675) sirven
   de «fondo oficial» por su color plano con motivos.
+
+---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Para Firefly, Canva u otra IA de imagen, y para una IA de texto que
+escriba los diálogos. Todo sale de lo medido y visto en esta biblia.
+**La IA sirve para fondos, bocetos de pose y pruebas; los personajes
+finales se recortan de arte oficial** (regla del dueño: que no parezca
+hecho por IA).
+
+### 18.1 Rasgos que nunca cambian
+
+| Personaje | Siempre | Nunca |
+|---|---|---|
+| Usagi / Sailor Moon | rubia con **dos moños y dos coletas larguísimas**, ojos azules, tiara dorada con gema roja, broche en el moño rojo, pendientes de luna creciente, gargantilla roja | pelo suelto sin moños; botas de otro color que rojo |
+| Ami / Mercury | **pelo corto azul oscuro**, ojos azules, todo en azul, tiara con gema azul | pelo largo; rosa |
+| Rei / Mars | **pelo negro muy largo** con brillo violeta, ojos violeta, rojo, pendientes de estrella, tacones | pelo corto; botas altas |
+| Makoto / Jupiter | **coleta alta castaña**, ojos verdes, **pendientes de rosa**, verde con moño rosa; la más alta | pelo suelto; baja de estatura |
+| Minako / Venus | **rubia, pelo muy largo suelto con gran lazo rojo**, ojos azules, **naranja** con moño azul | moños como Usagi; traje azul |
+| Luna | gata **negra**, **luna creciente dorada en la frente** | sin la luna; otro color |
+
+Las cinco guerreras: guantes blancos hasta el codo, cuello de marinero,
+falda plisada corta, gargantilla y tiara. Detalles en §16.
+
+### 18.2 Paleta
+
+- **Usagi:** `#222993` azul marino · `#C93A2E` rojo · `#ECCD1E` dorado.
+- **Civiles:** Ami `#20308D` y `#C2191A` · Rei `#453B31` · Makoto `#BDB162` · Minako `#35258F` · Luna `#1F2333`.
+- **Luz de transformación:** `#3B3296`, `#7E60B3`, `#C18CBB`, `#F3D8E3`.
+- **Luz de combate:** `#48ACBF`, `#3995B1`, `#2589A6`; línea `#457076`.
+- **Templo Hikawa al atardecer:** `#A6D2DE`, `#E3B9E1`, `#4A8851`.
+
+### 18.3 Línea, sombreado y luz
+
+- **Anime clásico (1992-1997):** cels de vinilo pintados por detrás con
+  acrílico al agua de Toei: **color plano** en los personajes (⚠️ no se
+  midió cuántos tonos de sombra lleva cada uno); línea fina, que en el
+  cielo de combate mide `#457076`, no negra. **Fondos pintados en
+  degradado.** Imagen 4:3 de televisión.
+- **Transformaciones:** casi sin línea, degradados, burbujas y destellos.
+- **Manga:** blanco y negro, **trama de puntos** y **rayitas de brillo**
+  blancas.
+- **Luz:** morada en la magia, turquesa en la noche de combate, pastel en
+  el templo. Destellos dorados cuando se usa poder.
+
+### 18.4 Encuadre
+
+- **Cuerpo entero con piernas abiertas** para presentarse (la pose de la
+  tiara, 17:02).
+- **Primer plano de ojos enormes** para el asombro (EP1, 15:59).
+- **Silueta a contraluz** en una ventana para una entrada (EP1, 16:46).
+- **Plano de grupo en fila** para la victoria (EP39, 20:41).
+- ⚠️ No hay un estudio de planos por emoción con fuente (§19.5).
+
+### 18.5 Palabras que ayudan y palabras que estropean
+
+**Ayudan** (en inglés, que es lo que entienden mejor):
+`1990s anime, Toei Animation 1992, hand-painted cel, flat cel shading, thin clean lineart, 4:3 TV frame, magical girl, sailor senshi uniform, pleated skirt, white elbow gloves, choker, tiara, sparkles, crescent moon, pastel sky`,
+y las etiquetas de Danbooru de cada una (§4.3), por ejemplo para Minako:
+`long blonde hair, red hair bow, orange sailor collar, orange skirt, blue bow, white gloves`.
+
+**Estropean:**
+`3D render, CGI, realistic, photorealistic` (los fans rechazaron el 3D
+de *Crystal*), `Sailor Moon Crystal style` si se quiere el clásico,
+`chibi` si no se pide, `dark, gritty, horror`, `glossy skin`, `heavy
+gradients on characters`, `western comic, speech bubble`.
+
+**Plantilla de ejemplo** (fondo sin personas, para recortar encima):
+> 1990s anime background, hand-painted, Japanese Shinto shrine at sunset, stone steps, torii gate, sacred tree, pastel light blue sky #A6D2DE with pink clouds #E3B9E1, soft gradient, no people, 4:3
+
+### 18.6 Qué imágenes dar como referencia
+
+| Para | Imagen |
+|---|---|
+| **estilo de color del anime** | EP1 17:02 (combate) y 15:45 (transformación); las cartas #49-54 de `personajes_02.jpg` |
+| **línea limpia** | settei #1-14 de `personajes_01.jpg` |
+| **pose de cada una** | las hojas de modelo #38, #39, #41, #43 y la carta #16 (Mars saltando) |
+| **grupo** | `SII.jpg` (#30) y la victoria del EP39 (20:41) |
+| **fondos** | Templo Hikawa, Tokio de noche (EP1, 16:20), cerezos (#99) |
+| **caras cómicas** | #72 y #96 de `personajes_02.jpg` |
+
+### 18.7 Para una IA de texto: cómo hablan
+
+- **Usagi:** frases cortas, exclamaciones, se queja y llora; dice
+  **«Mamo-chan»**; comida y sueño son sus temas. Exagera: de la risa al
+  llanto en una línea.
+- **Rei:** seca, firme, regaña: «siempre eres la última en llegar».
+- **Ami:** preguntas y datos; se asombra con dos preguntas seguidas
+  («¿No puede ser? ¿En verdad…?»).
+- **Makoto:** anima con comparaciones de acción (la carrera, el motor).
+- **Minako:** exclamaciones cortas («¡Qué increíble!»), refranes mal
+  dichos, alguna palabra en inglés.
+- **Luna:** pregunta y explica, como una maestra: «¿Alguna de ustedes…?».
+- **Puntuación:** en latino siempre **¡ ¿** de apertura. Los ataques se
+  gritan con su nombre (en el clásico: «¡Burbujas de Mercurio,
+  estallen!»).
+- **Modismos del doblaje clásico** (sólo si se imita esa época): «me
+  chocas», «popotitos», «ballenato» (§10.5).
+
+**Frases reales, por emoción** (doblaje latino salvo que diga inglés):
+
+| Emoción | Frase | De |
+|---|---|---|
+| **alegre** | «¡Qué increíble!» | Minako, *Crystal* |
+| **enfadado, regañando** | «Era de esperarse, siempre eres la última en llegar, Usagi» | Rei, *Crystal* |
+| enfadado, en casa | «¿Y ahora qué estás haciendo, Usagi tonta? ¿Volviste a dejar las llaves adentro?» | Shingo, *Cosmos* 1:12 |
+| **explicando** | «¿Alguna de ustedes vio las noticias de la mañana?» | Luna, *Crystal* |
+| explicando | «La verdad es que ella viene del futuro. Es la hija que tendremos Mamo-chan y yo» | Usagi, *Crystal* |
+| **animando** | «Es como si estuvieras en una carrera de verdad, pisa el embrague y enciende el motor» | Makoto, *Crystal* |
+| heroico | «En el nombre de la Luna, te castigaré» | Usagi, clásico |
+| **triste, preocupado** | «¿No puede ser? ¿En verdad desapareció?» | Ami, *Crystal* |
+| melancólico | «Como que tuve un sueño muy largo» | Usagi, *Cosmos* 1:14 |
+| romántico | «¿Te casarías conmigo?» | Mamoru, *Cosmos* 1:18:19 |
+| consolar (inglés) | «It's okay. You're not alone» | Usagi, película R, 50:03 |
+| animar (inglés) | «Believe in yourself» | Luna, EP1, 16:00 |
+
+### 18.8 Vocabulario visual de las emociones
+
+| Gesto | Cómo se dibuja | Dónde verlo |
+|---|---|---|
+| asombro | ojos enormes con brillo, **rubor de rayitas** en las mejillas | EP1, 15:59-16:01 |
+| llanto de Usagi | boca abierta, lágrimas grandes, a veces sonándose la nariz | EP1, 9:45 y 18:08 |
+| indignación | boca muy abierta, cejas arriba | EP1, 9:59; #106 de `personajes_03.jpg` |
+| puchero | mejillas infladas con rubor | #96 de `personajes_02.jpg` (Ami) |
+| caras de cómic | rasgos exagerados, cuerpo deformado | #72 de `personajes_02.jpg` |
+| poder, esfuerzo | ojos apretados, brazo en alto, **destellos dorados** | EP39, 18:19-18:39 |
+| **chibi** | versión cabezona y pequeña de las cuatro | el *eyecatch* de *R* (§7.4) ⚠️ |
+| brillo de Takeuchi | rayitas blancas finas que salen de lo que brilla | §7.1 |
+| la gata que se asusta | ojos rojos muy abiertos, pelo erizado | EP1, 13:54 y 18:40 |
+
+⚠️ No se documentaron **gotas de sudor** ni **fondos de emoción** con
+minuto: buscarlos en las hojas antes de usarlos.
+
+---
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### 19.1 Quién lo hizo ✅ ([AniList, staff](https://anilist.co/anime/530/staff), cruzado con Wikipedia)
+
+- Autora: **Naoko Takeuchi**. Dirección de la serie: **Junichi Satō**;
+  **Kunihiko Ikuhara** (luego director de *Utena*) trabajó en los
+  guiones gráficos.
+- Diseño de personajes: **Kazuko Tadano**, y desde *S* (1994) hasta el
+  final de *SuperS* (1995), **Ikuko Itoh**. Animador clave recurrente:
+  Katsumi Tamegai.
+- Dirección de arte: Tadao Kubota (caps. 1-26) y Takamura Mukuo (27-46).
+
+### 19.2 Lo que cuenta la autora ✅ (entrevista de 50 preguntas y comentarios de 20 piezas, recopilados en brickme.tumblr.com)
+
+- **Portaminas de 0,5 mm, mina H**, en papel de manga de marca propia.
+- A color combina **tinta de color, rotuladores, color póster,
+  aerógrafo y trama adhesiva**, sobre papel Kent fino, Canson, papel
+  japonés con estampado **«Unsai»** (motivo de porcelana china) y
+  Fabriano Classico.
+- **Rocía corrector líquido** para que el dibujo brille.
+- **Siempre piensa de dónde viene la luz** antes de dibujar.
+- Fue asistente de trama en el primer tomo de *Hunter × Hunter*, de su
+  esposo **Yoshihiro Togashi** (Wikipedia). Estudió química farmacéutica.
+
+### 19.3 Cómo es el dibujo ✅ ([CBR](https://www.cbr.com), «Why Does The Art in the Sailor Moon Franchise Hold Up So Well?»)
+
+- Cuerpos largos, pelo larguísimo, ojos grandes, ropa **de pasarela**
+  (inspiración en Dior, Mugler, cuentos de hadas y mitología).
+- El estilo cambia por arco: **horror cósmico** con monstruos grotescos
+  en el Reino Oscuro; **cuento de hadas pastel** y trazo delicado en
+  *SuperS*.
+- **Cómo se hacía un capítulo** (tuxedounmasked.com, artículo de
+  producción): guion gráfico del director; **«bancos de animación»**
+  reutilizados (transformaciones, ataques, cortes) para ahorrar dibujo;
+  **8 dibujos por segundo**; más de **9000 cels** por capítulo de 22
+  minutos; cels pintados por detrás con acrílico al agua de Toei, con
+  colores en hojas de referencia; cada cel fotografiado sobre su fondo.
+  El doblaje japonés se grababa unas 3 semanas antes de emitirse.
+- ***Crystal*** (2014): digital, fiel al manga. Las transformaciones en
+  **3D** de las dos primeras temporadas se rechazaron («muñecas de goma
+  estiradas», Screen Rant ⚠️) y desde la tercera volvió el dibujo a mano.
+  En *Eternal* y *Cosmos* se suma **Studio Deen** y vuelve **Kazuko
+  Tadano** al diseño ([comicbook.com](https://comicbook.com) y Wikipedia). ✅
+
+### 19.4 Cómo reproducirlo ⚠️ (propuesta del equipo: no hay *making of* digital)
+
+**En Photoshop:**
+
+- **Línea:** entintado limpio y fino, de grosor poco variable; pincel
+  tipo G-Pen.
+- **Trama:** capa en Multiplicar con un patrón de medios tonos (Filtro →
+  Pixelizar → Semitono de color) o una trama de puntos importada (§20).
+- **Brillo:** rayitas blancas finas, radiales, alrededor del objeto o de
+  los ojos, a mano o con pincel de destello.
+- **Color:** plano, de cel; paletas de §18.2. Para el estilo *Crystal*:
+  línea vectorial limpia, color plano con degradados suaves, sin papel.
+- **Recortes** de arte oficial: siempre por `v3/integrar.py` (borde sin
+  halo, línea ×2, luz de la escena), como pide el dueño.
+
+**En Blender:**
+
+- **Contorno:** modificador **Solidify** invertido (grosor uniforme, de
+  cel) o **Freestyle**.
+- **Sombra:** *shader* toon (Shader to RGB + Color Ramp de 2 o 3 bandas).
+- **Objetos listos** (CC Attribution): Moon Stick, broche, Cosmic Heart
+  Compact y Luna (§4.1). **No hay modelos ni *rigs* libres** de las
+  guerreras ni de los sitios. ⚠️
+- **Figura como referencia de pose 3D:** la S.H.Figuarts de Sailor Moon
+  (§24).
+
+### 19.5 Encuadres ⚠️
+
+- Lo que se sabe: los **bancos de animación** repiten los mismos planos
+  en cada transformación y ataque; Ikuko Itoh es conocida por los **gags
+  de un fotograma** y los **fotogramas de borrón** (*smear*) para dar
+  velocidad; con Shinya Hasegawa, en los caps. 124-125, mostró la agonía
+  de Usagi al transformarse (CBR, un artículo).
+- Lo visto (§18.4): cuerpo entero con piernas abiertas para presentarse,
+  ojos en primer plano para el asombro, silueta a contraluz para entrar,
+  fila de grupo para celebrar.
+- **No se encontró** un análisis de planos y ángulos por emoción con
+  fuente.
+
+---
+
+## 20 · Texturas 2D
+
+### 20.1 Del manga y la animación (miradas)
+
+- **Trama de puntos** uniforme en fachadas, cielo y pelo; **rayas
+  finas** en barandas (viñeta del Game Center Crown). ✅
+- **Rayitas de brillo** del corrector líquido (§7.1). ✅
+- **Burbujas y destellos** de las transformaciones (EP1, 15:20-15:45). ✅
+- **Motivos de las carátulas de LaserDisc**: flores, estrellas, globos
+  sobre color plano (#59-69 de `personajes_02.jpg`). ✅ visto
+
+### 20.2 Emblemas y logos
+
+- La **luna creciente dorada**: en la frente de Luna, Artemis, Diana y la
+  familia real; en los pendientes de Usagi. ✅
+- El **símbolo de cada planeta**: Mercurio ☿, Marte ♂, Júpiter ♃, Venus
+  ♀. Se ven en las cartas oficiales y los settei. ⚠️ **No hay archivo
+  suelto** de cada símbolo en la wiki (se buscó «symbol», «crest»,
+  «emblem», «crescent») y no se midieron.
+- El **logo** en inglés usa Birch y Matrix; el japonés está dibujado a
+  mano (§6).
+
+### 20.3 Texturas libres equivalentes
+
+| Capa | Recurso | Licencia |
+|---|---|---|
+| trama de manga | [CLIP STUDIO ASSETS, Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037) | gratis (licencia de Clip Studio) ✅ |
+| trama para Photoshop, Procreate o Clip | [GraphicsBunker, pinceles de trama](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) | gratis, ver la ficha ✅ |
+| papel de manga | ambientCG Paper006, Paper001, Paper003 (§5.3) | CC0 ✅ |
+| tela lisa del uniforme | ambientCG Fabric081C, Fabric061, Fabric066 | CC0 ✅ |
+| mármol del Milenio de Plata | ambientCG Marble012, Onyx015 | CC0 ✅ |
+
+- ⚠️ **No hay tramas escaneadas del manga** con licencia libre (tienen
+  copyright): se usan las equivalentes de arriba.
+- ⚠️ **Estampados:** los uniformes son lisos con ribetes. El pijama de
+  Usagi es rosa según la wiki, pero no hay imagen clara de su estampado.
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+De la ficha de cada personaje en la wiki, que cita el sitio oficial
+`sailormoon-official.com/world/…` y los tomos del manga, cruzada con
+[AniList](https://anilist.co/character/2367) y con un
+[blog del *databook*](http://tododesailormoon.blogspot.com/2016/02/biografia-de-serena-tsukinosailor-moon.html). ✅
+
+| Personaje | Cumpleaños | Sangre | Le gusta | No le gusta | Sueño o detalle |
+|---|---|---|---|---|---|
+| **Usagi** | 30 de junio (Cáncer) | O | el rosa y el blanco, **el helado**, el manga, los videojuegos | **las zanahorias**, las matemáticas, **el dentista y los fantasmas** | casarse de blanco con quien ama · mide **1,50 m** |
+| **Ami** | 10 de septiembre (Virgo) | A | leer, estudiar, **ajedrez**, natación, sándwiches, el azul, las matemáticas, **novelas románticas (en secreto)** | **las cartas de amor**, los conflictos | ser doctora como su madre |
+| **Rei** | 17 de abril (Aries) | AB | el rojo y el negro, **la pizza vegetariana** | — | vive en el templo con su abuelo |
+| **Makoto** | 5 de diciembre (Sagitario) | O | **hornear y cocinar**, limpiar, jardinería, **arreglos florales**, manualidades, novelas románticas, videojuegos, compras, artes marciales, el verde, **el pay de cereza** | los tramposos, el mal, **que la gente le tema por su aspecto** | casarse y tener su **floristería-pastelería** |
+| **Minako** | 22 de octubre (Libra) | B | **seguir ídolos**, gyoza, ramen, curry, **vóleibol**, **cantar**, videojuegos, chistes, tejer, cosas lindas | **los shiitake**, las matemáticas | ser ídolo; fue Sailor V en Londres |
+| **Mamoru** | 3 de agosto (Leo) | A | atletismo, leer, **ventriloquía** | que Usagi esté en peligro, **los pimientos**, las agujas | huérfano desde los 6 años |
+| **Reina Serenity** | 30 de junio | O | el blanco | — | mide 1,65 m (AniList) |
+
+- **Edad:** las cinco tienen 14-16 años; Mamoru, 17-18 (AniList). ✅
+- ⚠️ El sitio oficial no abrió desde aquí: sus datos vienen de la cita de
+  la wiki.
+- ⚠️ La altura de Ami, Rei, Makoto y Minako no está en las partes (de
+  Makoto sólo que es **la más alta**).
+- **El objeto que siempre llevan:** Usagi, el broche; Ami, la
+  supercomputadora; Rei, los ofuda; Minako, el lazo rojo; Makoto, los
+  pendientes de rosa (§16, §26).
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Los números
+
+- 105 543 personas la siguen en AniList y 4320 la tienen de favorita;
+  nota media 76 ([AniList](https://anilist.co/anime/530)). ✅
+- 82 706 votos en la encuesta de NHK de 2020, 28 años después del
+  estreno (§9). ✅
+- Doblada a 42 idiomas (Doblaje Wiki). ⚠️
+- Sigue viva: *Crystal* (2014), *Eternal* (2021), *Cosmos* (2023), el
+  museo del 30.º aniversario (2022) y la música de Arisawa premiada por
+  JASRAC fuera de Japón. ✅
+
+### 22.2 Por qué ✅
+
+- **Ícono feminista y *queer*** para varias generaciones: cada chica
+  encuentra su camino (Usagi de llorona a líder, Ami encuentra su voz,
+  Makoto se abre, Minako y su sentido de la justicia)
+  ([ComicsAlliance](https://comicsalliance.com/sailor-moon-feminism-renaissance-nostalgia-women-role-models/),
+  [The Tempest](https://thetempest.co/2019/11/19/entertainment/sailor-moon-introduced-me-to-feminism/)).
+- **Nostalgia:** fue parte de la ola de los 90 que cambió cómo se veía a
+  las mujeres en la tele ([AOL](https://www.aol.com/news/cultural-impact-sailor-moon-90s-221532482.html)).
+- **Estudio académico:** «30 Years Later, Re-Examining the "Pretty
+  Soldier"» ([Journal of Anime and Manga Studies](https://iopn.library.illinois.edu/journals/jams/article/view/948)).
+- **Con quién se identifica el público:** con las Guerreras Externas
+  (Uranus): Haruka rompe el molde de «chica mágica tierna». En *Crystal*
+  latino, Haruka y Michiru se nombran **«novia»**, más claro que en el
+  doblaje clásico.
+- **En Latinoamérica pesa la voz**: los fans lloran al conocer a
+  Patricia Acevedo (§14).
+
+### 22.3 Las escenas que hacen llorar
+
+| Escena | Dónde | Qué pasa | Por qué duele | Música y dibujo | Reacción |
+|---|---|---|---|---|---|
+| **Mueren las guerreras** | cap. **45** japonés, «Las Sailor mueren en un trágico combate» ([EP045 en la wiki en español](https://sailormoon.fandom.com/es/wiki/EP045)) | mueren una a una contra las D.D. Girls de la Reina Beryl en el Polo Norte, para que Sailor Moon siga | matan «en pantalla» a las protagonistas de un anime infantil de los 90 | ⚠️ minuto y música no encontrados | shock en el fandom ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/SailorMoonEp45DeathOfTheSailorGuardiansTheTragicFinalBattle), [Tales from the Paulside](https://talesfromthepaulside.com/2024/02/20/sailor-moon-45/)) ✅ |
+| **La batalla del Polo Norte** (visto) | EP39 de DiC, 16:52-18:51 | miedo en la cueva; Usagi se tapa la cara; cada una da su poder entre destellos | ver §2.3 | **luz fría turquesa, destellos dorados, ojos apretados** | ⚠️ equivalencia con el cap. 45 sin confirmar |
+| **«You're not alone»** | película R, 50:03 | Usagi, herida, abraza la soledad de Fiore | el villano sólo estaba solo | suena **«Moon Revenge»** | la más citada por TV Tropes |
+| **El final de todo** | *Cosmos* 2, 1:12 a 1:18:19 | vuelve a casa, cena en familia y sueña con la pedida de mano | cierra 30 años de historia | habitación lila, Torre de Tokio, vitral; ending **Moonlight Densetsu** | ⚠️ sin datos de reacción |
+
+### 22.4 Las que hacen reír o gritar
+
+- **La primera transformación** (EP1, 15:32-15:56) y **la pose de la
+  tiara** (17:02): la emoción de «ya es Sailor Moon». ✅ visto
+- **Usagi contra Luna con la escoba** (EP1, 13:54). ✅ visto
+- **Usagi suspende y llora en la calle** (EP1, 9:45) y Mamoru le dice
+  «Meatball Head» (9:59). ✅ visto
+- ⚠️ No hay vídeos de reacción ni comentarios con más votos: Reddit (por
+  Arctic Shift) no respondió y YouTube está bloqueado.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+Interesa mucho: el servidor es de doblaje.
+
+### 23.1 Fandubs en español latino ✅ (título y canal comprobados; ⚠️ vistas no, YouTube bloqueado)
+
+| Qué | Enlace |
+|---|---|
+| **Fighter4Luv Fandubs**, canal dedicado a doblar *Sailor Stars* | [@starsfandub](https://www.youtube.com/@starsfandub) |
+| Transformación de Rei, fandub latino en HD | [vídeo](https://www.youtube.com/watch?v=CdA_Rmpnnl0) |
+| *Sailor Moon R: La promesa de la rosa*, escena final (mar-2021, voces «Acua Fénix» y «Salo uvu») | [vídeo](https://www.youtube.com/watch?v=VYUgQRHbF3g) |
+| Tuxedo Mask, escena de *Crystal* (2014) | [vídeo](https://www.youtube.com/watch?v=NfAkIBp-xEQ) |
+
+En Dailymotion hay fandubs en inglés que sirven de formato
+(«[Prince Demando Hypnotizes Usagi](https://www.dailymotion.com/video/x3yoc8f)»,
+480 vistas). ✅
+
+### 23.2 Covers de «Luz de Luna» en español ✅
+
+- Original: **Marisa de Lille** ([versión completa](https://www.youtube.com/watch?v=XuRcUhtLAuA)).
+- Metal: [FULLMECHA_inc](https://www.youtube.com/watch?v=m5F3gC_pQe0) y [Paulo Cuevas (2018)](https://www.youtube.com/watch?v=wMDM9nxjnVw).
+- [RockoRockz](https://www.youtube.com/watch?v=SkDZd8WLVUE).
+- [Temari Fandubs en SoundCloud](https://soundcloud.com/temari-fandubs/luz-de-luna-sailor-moon-full-cover-espanol-latino).
+
+### 23.3 Memes y comunidad
+
+- **«Sailor México»** y **«Sailor Moon Mariachi»** (§14.1). ⚠️
+- En TikTok, **#doblajelatino #sailormoon**: clips del doblaje clásico
+  con nostalgia (cuenta @sagaoncarlos, «El Doblaje de Sailor Moon») y
+  páginas de «Sailor Moon Memes en Español Latino». ✅ dos búsquedas
+- Fans que **conocen a Patricia Acevedo** (@malipse). ✅
+- ⚠️ No se encontraron canales de parodia hispanos con millones de
+  vistas comprobables.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Juegos y gachas
+
+⚠️ **No se encontró ninguna colaboración oficial** con Fortnite ni con
+un gacha de otra empresa: sólo peticiones de fans. El gacha propio,
+*Sailor Moon Drops*, cerró fuera de Japón en 2019 (§13).
+
+### 24.2 Ropa, cafés y exposiciones ✅
+
+- **Uniqlo UT** (2019), camisetas ([SoraNews24](https://soranews24.com/2019/07/02/uniqlo-announces-brand-new-line-of-awesomely-beautiful-sailor-moon-t-shirts/)).
+- **Samantha Vega / Samantha Thavasa** con Isetan: bolsos con el diseño
+  del Cosmic Heart Compact ([Tokyo Otaku Mode](https://otakumode.com/news/574e47b89f31cd7d62bad2f4/116-Sailor-Moon-Items-Featuring-Collaborations-with-Isetan-and-Samantha-Vega-Available-on-Premium-Bandai!) y Anime News Network).
+- **Q-Pot Café** en Harajuku, cada verano desde 2014, con pasteles de
+  transformación; **Sailor Moon Eternal Café** (2020-2021), un plato por
+  guerrera: el parfait de Ami, el curry de Minako
+  ([SoraNews24](https://soranews24.com/2020/12/10/sailor-moon-eternals-tie-in-pop-up-cafe-a-perfect-pastel-paradise-of-pretty-food-and-merch/), Honey's Anime).
+- **Pretty Guardian Sailor Moon Museum** (Roppongi, 2022), más de 600
+  piezas (§3.3).
+
+### 24.3 Figuras oficiales (su pose es una referencia 3D) ✅
+
+**S.H.Figuarts** de Bandai / Tamashii Nations, unos 14 cm: 3 caras, manos
+cambiables, 2 Moon Stick, efecto de tiara lanzada y Luna articulada
+([ficha oficial](https://www.shfiguarts.com/products/detail/1215/Bandai-Tamashii-Nations-Sailor-Moon-SH-Figuarts-Action-Figure-%5BResale-Editon%5D.html)).
+Hay edición **«Animation Color»** (colores del anime de los 90) y
+**«Crystal Star Compact»** (de *R*).
+
+### 24.4 Cosplay
+
+Sailor Pluto y Kunzite de la cosplayer **Alena**: **Best Master
+Craftsmanship** en Midoricon 2014 y **Best Advanced Craftsmanship** en
+Ikasucon 2015 ([su blog](https://andsewingishalfthebattle.com/sailor-moon/)).
+⚠️ Una fuente; el blog no detalla telas ni patrones.
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Lo que reconoce la autora ✅ ([wiki, «Influences…»](https://sailormoon.fandom.com/wiki/Influences_that_inspired_Codename_Wa_Sailor_V/Sailor_Moon))
+
+- ***La rosa de Versalles*** (1979-80): Lady Oscar inspira a las
+  princesas guerreras; **Sailor Uranus está basada en Lady Oscar**
+  (también en CBR). ✅
+- ***Cutie Honey*** (1973-74): las frases de entrada de Sailor V se
+  parecen a las suyas.
+- ***Himitsu no Akko-chan*** (1969-70): el espejo que transforma.
+- ***Majokko Megu-chan*** (1974-75): rivalidad de la pelirroja y la de
+  pelo azul.
+- ***Bishōjo Kamen Poitrine***: heroína enmascarada con hermana chibi y
+  varita.
+- ***Sailor Suit Rebel Alliance***: colegialas de marinero con poderes.
+- ***Warrior of Love Rainbowman*** (1972): el traje del héroe recuerda al
+  de Mamoru.
+- ***Wonder Woman*** (1975): por eso luchan en tacones. ⚠️
+- **Leiji Matsumoto** (*Galaxy Express 999*) en el dibujo, aunque ella
+  se distancia (entrevista de *Animerica*, 1996, en Wikipedia). ✅
+- Su editor **Fumio Osano** propuso el uniforme de marinero: así nació
+  *Codename: Sailor V* (Wikipedia). ✅
+
+### 25.2 Lo que recomienda la comunidad ([AniList](https://anilist.co/anime/530))
+
+Cardcaptor Sakura (194 votos), *Revolutionary Girl Utena* (123, del mismo
+Ikuhara), *Princess Tutu*, *Magical DoReMi*, *Tokyo Mew Mew*, *Kamikaze
+Kaitou Jeanne*, *InuYasha*, *Magic Knight Rayearth*, *Yu Yu Hakusho*,
+*Madoka Magica*, *Heartcatch Precure!*, *Shugo Chara!*, *Precure*,
+*Fushigi Yugi*. ✅
+
+### 25.3 Láminas vecinas del servidor
+
+- **Ninguna de las 41 biblias** ya empezadas es una serie *mahou
+  shoujo* de los 90. Lo más cercano en tono es Oshi no Ko (ídolos), sin
+  magia. ✅ (comprobado en `biblias/`)
+- **Ralph el demoledor** (propuesta del encargo 29 para 🎲 Juegos) es
+  también un salón de recreativas. El concepto A se distingue por el
+  **morado del HUD de Sailor V** y la trama de manga (§27).
+- **Cruce curioso:** Takeuchi fue asistente de trama de Togashi en
+  *Hunter × Hunter* (biblia 36).
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas ✅ ([wiki, *Silver Millennium*](https://sailormoon.fandom.com/wiki/Silver_Millennium), cruzada con AniList y Wikipedia)
+
+1. Hace milenios existió el **Milenio de Plata**, un reino en la Luna en
+   paz con los demás planetas (menos la Tierra).
+2. La familia real lunar lleva una **luna creciente en la frente**; los
+   gatos Luna, Artemis y Diana también.
+3. Su deber es guardar el **Cristal de Plata Legendario** (Ginzuishō) y
+   cuidar que la Tierra crezca sin el mal.
+4. Envejecen como los humanos, pero dejan de hacerlo al llegar a
+   adultos.
+5. El reino renacerá en la Tierra como **Cristal Tokio**, gobernado por
+   la Neo-Reina Serenity.
+
+### 26.2 La historia por arcos ✅ (wiki y CBR, «Complete Timeline»)
+
+| Temporada | Villanos | Monstruos | Momento clave |
+|---|---|---|---|
+| 1 · clásica | **Reino Oscuro**: Reina Beryl y Reina Metalia | Youma | Sailor Moon descubre que es la Princesa Serenity y vence a Beryl y Metalia; antes mueren las guerreras (cap. 45) |
+| 2 · *R* | **Clan de la Luna Negra**: Wiseman, en Némesis | Droids | salvan a Chibiusa; el corazón puro del Príncipe Demande ayuda a vencer |
+| 3 · *S* | **Death Busters**: Master Pharaoh 90, Mistress 9, las Witches 5, en la Academia Mugen | Daimon | Sailor Moon gana el Cáliz Sagrado y es Super Sailor Moon; **Sailor Saturn se sacrifica** |
+| 4 · *SuperS* | **Circo de la Luna Muerta**: Reina Nehelenia, Zirconia, el Amazon Trio y el Amazoness Quartet | Lemures | Sailor Moon **sana a Nehelenia con compasión**; Pegaso y el poder de los sueños |
+| 5 · *Sailor Stars* | **Shadow Galactica**: Chaos y Sailor Galaxia, las Animamates, en la **Ginga TV** | — | Eternal Sailor Moon separa a Chaos de Galaxia, la sana y devuelve las **semillas estelares**, que reviven a las caídas |
+
+### 26.3 Símbolos y objetos (colores en §16 y §20.2) ✅
+
+- **Cristal de Plata Legendario** (幻の銀水晶, *Maboroshi no Ginzuishō*).
+- **Broche de transformación** (変身・ブローチ): «Moon Prism Power, Make
+  Up» ([render de *Crystal*](https://static.wikia.nocookie.net/sailormoon/images/d/d4/Crystal_Brooch.png), 386×468; modelo 3D en §4.1).
+- **Moon Stick**: primer báculo; cura y destruye.
+- **Cutie Moon Rod** y **Spiral Heart Moon Rod**: sus evoluciones.
+- **Tiara**, **supercomputadora** y **visor** de Ami, **ofuda** de Rei,
+  **lazo rojo** de Minako.
+- Otros, sólo por nombre ⚠️ (índice de moonkitty.net): pluma de disfraz,
+  medallón estelar, comunicador, lápices de transformación, Llave del
+  Tiempo y Luna-P de Chibiusa.
+- **Sailor V** es a la vez el pasado de Minako y el juego de recreativa
+  de dentro de la serie (§7.3).
+
+### 26.4 Vocabulario que un fan reconoce al instante
+
+- «Moon Prism Power, Make Up!» (⚠️ la versión latina no está en las
+  partes), «Moon Tiara Magic», «En el nombre de la Luna, te castigaré».
+- **Youma, Droid, Daimon, Lemures**: el nombre del monstruo dice en qué
+  temporada estás.
+- **Game Center Crown**, **Templo Hikawa**, **Juban** (en latino «Ciudad
+  Número 10»).
+- **Ginzuishō** y **Cristal Tokio**.
+- **Odango** / **Cabeza de bombón**; **Mamo-chan**.
+- En latino clásico: **Negaverso**, **Burbujas de Mercurio**, **Fantasma
+  Cristal de Plata** (§10.5).
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas: una recreativa de noche, un templo al atardecer y
+un cuarto de noche; tres personajes; tres cuadros de diálogo propios. Los
+textos siguen la regla del dueño: cortos, en la voz de la serie, sin «·»,
+«—» ni paréntesis. Tamaño 1200×800, render ×3.
+
+### A · 🎲 Juegos — «La recreativa de Sailor V» (la propuesta principal)
+
+**El objeto y el sitio.** Una **recreativa de los 90** en el **Game
+Center Crown**, el salón donde se reúne el grupo. En su pantalla, el
+**juego de Sailor V** que Artemis programó para entrenar a Minako. Bajo
+la máquina está la puerta secreta que se abre con **«GAME ENDLESS»**
+(§7.3): entrar a la sala es entrar al juego. La recreativa se modela en
+**Blender** (el dueño la pone de ejemplo). Fondo:
+[`GCC2.png`](https://static.wikia.nocookie.net/sailormoon/images/8/8f/GCC2.png)
+(interior, 703×470). ⚠️ El mueble exacto de la máquina no está
+documentado: modelarlo a partir de las máquinas de ese fondo.
+
+**Quién.** **Minako**, la más votada en Chile (§9). De civil, con el
+lazo rojo, de pie junto a la máquina en la pose del calendario **#125**
+(`personajes_03.jpg`, guiño con un dedo en los labios: «es un secreto»)
+o la hoja de modelo **#38** (de puntillas, presentando). **Artemis**
+sentado encima del mueble (sale en `SII.jpg`). En la **pantalla, un
+fotograma real**: Sailor V con antifaz y capa
+([`Minako_Aino_Sailor_V_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/b/b4/Minako_Aino_Sailor_V_-_Anime.png), 997×1042).
+
+**Cómo habla.** La **pantalla del juego** es el cuadro: letra **Press
+Start 2P**, blanca con contorno oscuro sobre morado, como el HUD real.
+Minako y Artemis, en **globo de manga con trama de puntos y rayitas de
+brillo**, letra **Coming Soon**.
+
+**Dónde va cada texto:**
+
+| Sitio | Texto |
+|---|---|
+| cartel de arriba de la máquina, Luckiest Guy | **Juegos** |
+| pantalla, arriba a la izquierda | NEXT: TÚ |
+| pantalla, arriba a la derecha | SCORE: 25080 |
+| globo de Minako | ¡Entra y juega con nosotras! |
+| globo de Artemis | ¿Buscas equipo? Pídelo en #a-que-juegas |
+| pantalla, abajo, parpadeando | GAME ENDLESS |
+
+**Que no quede plano.** Delante, fuera de foco, **la palanca y los
+botones** de la máquina (Blender, con la luz de la pantalla). La
+**luz morada de la pantalla** sobre la cara de Minako; al fondo, las otras
+máquinas desenfocadas. Trama de puntos en la pared. ⚠️ Medir antes el
+color de `GCC2.png` con `estilo.py`.
+
+### B · #eventos — «Los ofuda del Templo Hikawa»
+
+**El objeto y el sitio.** Tres **ofuda** (tiras de papel escritas a
+pincel) clavados en la **madera del Templo Hikawa**, el punto de reunión
+del grupo, **al atardecer** (`#A6D2DE`, `#E3B9E1`, `#4A8851`). Papel en
+**Blender**: la tinta sigue las arrugas. Texturas: Wood051 para la madera
+y PavingStones070 para la escalinata (§5.3). Fondo: la
+[versión de *Crystal*](https://static.wikia.nocookie.net/sailormoon/images/d/df/Hikawa_Shrine_%28Crystal%29.webp)
+(800×449) o un fondo pintado con la plantilla de §18.5. ⚠️ La imagen del
+anime clásico es de 640×480: no da para fondo a 1200 px.
+
+**Quién.** **Rei**, 2.ª en favoritos de AniList, de **miko**, con un
+ofuda en la mano en alto
+([arte oficial](https://static.wikia.nocookie.net/sailormoon/images/2/2c/Rei_Hino_Miko_-_Anime.png), 687×1629),
+o la hoja de modelo **#43** (mano en V, la otra en la cadera) si se
+prefiere de guerrera. Su frase latina real es la de un canal de citas con
+hora (§10.4).
+
+**Cómo habla.** **Los ofuda son el cuadro**: letra **Yuji Syuku**, a
+pincel, en tinta negra sobre papel blanco. Rei, en **globo de manga con
+trama**, Coming Soon; si grita, **Bangers**.
+
+**Dónde va cada texto:**
+
+| Sitio | Texto |
+|---|---|
+| ofuda 1 | Lo que se viene |
+| ofuda 2 | Se convoca con /create |
+| ofuda 3 | Cada uno lo ve en su hora |
+| globo de Rei | ¡Siempre eres la última en llegar! |
+| globo pequeño | Mira la hora y llega a tiempo |
+
+**Que no quede plano.** Delante, **un ofuda suelto** que el viento
+levanta, fuera de foco. **Contraluz de atardecer** que atraviesa el papel.
+La **escalinata** lleva la vista hacia el torii del fondo. El pelo y las
+mangas de Rei al viento, como en su arte.
+
+### C · #general-doblaje (o 🎙️ Grabación) — «El examen de Usagi»
+
+**El objeto y el sitio.** El **cuarto de Usagi**, de noche (EP1, 15:48 y
+16:05). Sobre el escritorio, **su examen** (en el EP1 saca un 30 y teme
+enseñarlo, 9:00) convertido en «examen del oficio», y a su lado **el
+broche** (modelo 3D de travka, CC BY, §4.1). Papel y broche en **Blender**.
+Por la ventana, **Tokio de noche en turquesa** con la luna creciente (EP1,
+16:20). ⚠️ El aspecto del examen y el color del cuarto no están
+documentados: diseñarlos y medir el cuarto en el fotograma de las 15:48.
+
+**Quién.** **Usagi**, la protagonista: su voz latina es **la misma en
+1995 y en 2018** (Patricia Acevedo). De civil, con cara de asombro
+(EP1, 15:59) o recortada del retrato oficial civil. **Luna** en la repisa
+junto al **despertador rosa**, explicando (pose #1 de §15.6).
+
+**Cómo habla.** El **examen** es el cuadro principal: letra **Coming
+Soon** a mano, con correcciones en rojo `#C93A2E`. Luna y Usagi en **globo
+de manga con trama y brillo**.
+
+**Dónde va cada texto:**
+
+| Sitio | Texto |
+|---|---|
+| cabecera del examen, Luckiest Guy | General doblaje |
+| preguntas del examen | Micros. Voces. Técnica. Dudas de novato |
+| globo de Luna | Aquí se habla del oficio |
+| globo de Usagi | ¿Y si soy novata? |
+| nota al pie del examen | Tu voz grabada va a #demos |
+| nota al pie del examen | Los papeles, a #castings |
+| grito final, Bangers | ¡En el nombre de la Luna, a grabar! |
+
+El grito final juega con la frase famosa como hacen los fans («en el
+nombre de la Luna y el pozole», §14.1).
+
+**Que no quede plano.** Delante, **el broche** con sus rayitas de
+brillo, fuera de foco. El papel arrugado bajo una luz cálida de
+escritorio; **luz fría de luna** por la ventana. Luna en segundo plano.
+
+### Si alguna se satura: lámina 2
+
+- **A:** una segunda pantalla con el **Centro de Mando Lunar** bajo la
+  máquina, para las normas de la sala.
+- **C:** la **supercomputadora de Ami** (turquesa, pantalla «al estilo
+  *Terminator*») para explicar técnica o programas.
+
+---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que falta (con lo que se intentó)
+
+| Qué | Por qué no está | Qué haría falta |
+|---|---|---|
+| **Vergüenza** de Ami, Rei, Makoto y Minako, y **primer plano de tristeza de Makoto** | no salen en el EP1, el EP39 ni la película R; el investigador de voz agotó sus 2 tandas | un capítulo ligero centrado en cada una (su debut) |
+| Minuto y música de **la muerte de las guerreras** (cap. 45) | no hay copia vista con ese capítulo | comprobar si el EP39-40 de DiC es esa escena |
+| Frase de **transformación en latino** | no está en ninguna parte | oírla en un clip del doblaje |
+| Voz medida del **doblaje clásico** | Doblaje Wiki sólo tiene muestras de *Crystal* | un clip clásico en Dailymotion o Internet Archive |
+| Fichas de **Chibiusa, Haruka, Michiru, Hotaru, Setsuna** | no dio tiempo | la próxima tanda de voz |
+| **Muletillas, risa y saludo** de cada una | faltan frases | más muestras o capítulos transcritos |
+| Encuesta de **México o Perú** | no se encontró | — |
+| Capturas de las **cajas de diálogo** de los juegos | Game UI Database y TCRF dieron 403 | las partidas de Internet Archive (§12.2) |
+| **Logo japonés original** | dibujado a mano; sin nombre ni autor | — |
+| **Encuadres por emoción** con fuente | no hay análisis | — |
+| Colores del **Game Center Crown**, del **cuarto de Usagi** y de **Sailor Jupiter** | imágenes pequeñas o sin medir | `estilo.py` sobre `GCC2.png` y el fotograma de las 15:48 |
+| **Sitios en 3D** libres | no hay en Sketchfab | modelarlos |
+| **Fondo de pantalla oficial** | Toei y Kodansha no publican paquete | — |
+| **Vídeo-ensayo** y **tendencias con vistas** | YouTube y TikTok bloqueados | una sesión con cookies de YouTube (`DECISIONES.md`) |
+| Reddit | Arctic Shift no respondió (2 intentos) | reintentar |
+| WikiMoon, TV Tropes (por curl), TCRF, Game UI Database | 403 de Cloudflare | otra IP |
+
+### 28.2 Lo que corregí o maticé de las partes (miré sus hojas y fotogramas)
+
+1. **La frase del final de *Cosmos*** «¿Y ahora qué estás haciendo, Usagi
+   tonta?… no tengo una hermana más capaz»: la parte de voz la da a la
+   mamá, pero dice «hermana», así que **la dice Shingo**; la mamá habla
+   justo después («Shingo, Usagi… ya está lista la comida»). ⚠️ Confirmar
+   de oído.
+2. **Las «caras de tristeza» del EP39** de Ami (18:23) y Minako (18:37):
+   en los fotogramas se ven **brazos en alto, ojos apretados y
+   destellos**: es esfuerzo al dar su poder, más que llanto. Rei (18:39)
+   sí tiene lágrimas. Marcadas ⚠️ en §8.
+3. **La tristeza de Usagi** (EP39, 18:51): el fotograma de comprobación
+   (320×240) la muestra de cuerpo entero entre destellos, sin lágrimas
+   visibles a ese tamaño. ⚠️ Mirar en grande.
+4. **El báculo del EP39, 19:10**: la parte de vídeo dice «Cutie Moon
+   Rod», que según la parte de texto es de *R*. ⚠️ Comprobar.
+5. **Danbooru**: la parte de voz dice que Chibiusa (2176 dibujos) «supera»
+   a Makoto (2306) y a Rei (2316). Es al revés: **está justo por debajo**.
+6. **El apodo de Mamoru a Usagi**: la parte de voz dice «Cabeza de
+   chorlito», pero cita la wiki en inglés, que no puede traer esa frase.
+   En inglés (DiC) es «Meatball Head» (EP1, 9:59); en latino, Doblaje Wiki
+   da «Odango» (clásico) y «Cabeza de bombón» (*Crystal*). ⚠️ No uso
+   «Cabeza de chorlito».
+
+Además, el recolector había bajado páginas equivocadas de la wiki
+(«Ami Jr.», «Rei Jr.», «Makoto Hanmatsuura», «Act 47»); el investigador de
+imagen lo corrigió y esas imágenes **no** van en `referencias.json`.
 
 ---
 
