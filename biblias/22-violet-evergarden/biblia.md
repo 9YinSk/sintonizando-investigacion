@@ -1450,30 +1450,58 @@ Erica de lado, tímida, con gafas ✅. Sirven para **presentar al grupo**.
 |---|---|---|---|
 | **Traje de Doll** (el icónico) | Serie, especial, película | **Vestido blanco** con lazo en el cuello; **chaqueta corta azul de Prusia**; falda blanca plisada de seda; **broche esmeralda** en el centro del lazo; **guantes marrones**; **botas altas de tacón, marrón oscuro** | ✅ ([wiki](https://violet-evergarden.fandom.com/wiki/Violet_Evergarden_(anime_character)) + [Core Cosplay](https://corecosplay.com/anime/violet-evergarden-cosplay-ideas/)) |
 | Detalles de la chaqueta | — | Adornos blancos en los hombros; líneas negras a los lados de la falda | ⚠️ (guías de cosplay) |
-| **Pelo de Doll** | Desde que es Doll | Rubio dorado hasta la cintura; **dos trenzas francesas enrolladas en moños**, con **dos lazos rojos** | ⚠️ (wiki) |
-| Pelo antes | Hospital, ep. 1 | **Coleta baja con lazo negro**, o suelto | ⚠️ (wiki) |
-| Uniforme militar | Recuerdos, eps. 8-9 | Uniforme del ejército de Leidenschaftlich ⚠️ | de memoria |
+| **Pelo de Doll** | Desde que es Doll | Rubio dorado hasta la cintura; **dos trenzas francesas enrolladas en moños**, con **dos lazos rojos** | ✅ (wiki + hoja de modelo, hoja 1 nº2; lazo medido `#63394D`) |
+| Pelo antes | Hospital, ep. 1 | **Suelto** en el hospital (clip [0:26](https://www.dailymotion.com/video/x947zqa?t=26), hoja escenas nº17) ✅; coleta baja con lazo negro ⚠️ (wiki) | ✅ / ⚠️ |
+| Uniforme militar | Recuerdos, eps. 8-9 | **Casaca verde oliva muy oscura** `#413228` con **correa de cuero** `#6A422A`; pelo suelto (hoja 1 nº19-20, `Violet2.jpg` medido) ✅. Verde de trinchera, no azul | ✅ visto y medido (2.ª pasada) |
 | Brazos | Siempre | **Prótesis plateadas** («torpes pero resistentes», dice ella) | ✅ (wiki, resumen) |
 
-Takase explicó que el traje junta **rigidez militar y gracia femenina**
-con el broche y el contraste azul-blanco ⚠️ (resumen de búsqueda, sin
-cita exacta).
+Takase explicó el traje en la propia hoja de modelo del databook ✅
+(cita textual en §3.3): **ropa de trabajo de mujer de la época Art
+Nouveau y Art Decó**, con **aire de muñeca antigua** y una silueta
+**erguida y elegante**.
 
-### Los demás ⚠️ (de memoria)
+**Colores medidos del traje de Doll** (2.ª pasada, detalle en §5.3) ✅:
 
-- **Hodgins**: traje de tres piezas claro, pelo castaño rojizo peinado
-  hacia atrás.
-- **Cattleya**: vestido oscuro ceñido, pelo negro ondulado, labios rojos.
-- **Benedict**: uniforme de cartero con chaleco, pelo largo recogido,
-  botas de tacón.
-- **Iris**: pelo rojizo corto, vestido de Doll con tonos rosados.
-- **Erica**: pelo oscuro, aire tímido.
+| Pieza | Hex | De dónde |
+|---|---|---|
+| Chaqueta | `#2F444F` / `#3B5363` (opening); `#2C3A56` (databook) | opening 0:21, hoja 1 nº2 |
+| Lazo del cuello | `#ECE2C9` | opening 0:21 |
+| Broche | `#4C8669` | opening 0:21 y 0:48 |
+| Lazos del pelo | `#63394D` | `Violet's smile.jpg` |
+| Pelo | `#CBB56B` / `#E1D6C3` | `Violet_Anime.jpg` |
+| Ojos | `#3BADB3` | `Violet_Anime.jpg` |
+| Guantes | sin medir ⚠️ | — |
+
+**Mangas**: abullonadas arriba y ceñidas abajo (Danbooru las etiqueta
+`juliet_sleeves`, `puffy_sleeves`) ✅ (se ven en la hoja de modelo).
+
+### Los demás (2.ª pasada: vistos en el tráiler y las hojas)
+
+- **Hodgins**: pelo **rojizo con coleta**, barba de pocos días; chaleco y
+  traje, mangas remangadas, broche (tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22);
+  Danbooru `vest`, `suit`, `sleeves_rolled_up`, `brooch`) ✅. Su chaleco
+  es de **tela a cuadros** según el texto «Appearance» de la wiki ⚠️.
+  Colores sin medir ⚠️.
+- **Cattleya**: **pelo negro largo**, **chaqueta roja** sobre blusa clara,
+  **colgante rojo** (tráiler [0:32](https://www.dailymotion.com/video/x7t0he2?t=32);
+  hoja 2 nº57) ✅.
+- **Benedict**: **rubio**, camisa blanca con **tirantes** (tráiler
+  [0:28](https://www.dailymotion.com/video/x7t0he2?t=28)) ✅; no usa el
+  uniforme oficial (Fanbook) ✅; botas de tacón ⚠️.
+- **Gilbert**: uniforme militar oscuro; de civil, chaqueta oscura
+  `#3E3932` con insignia en la solapa (tráiler 0:56) ✅; pelo azul muy
+  oscuro; parche en un ojo en la película (hoja 2 nº59) ✅.
+- **Iris**: pelo corto castaño claro, ojos ámbar, **collar de cuentas
+  turquesa**, vestido sin mangas (hoja 1 nº13, 38-39; hoja 2 nº68) ✅;
+  colores sin medir ⚠️.
+- **Erica**: pelo castaño corto, **gafas redondas**, aire tímido (tráiler
+  [0:36](https://www.dailymotion.com/video/x7t0he2?t=36)) ✅.
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-### Los sitios, con su luz ⚠️
+### Los sitios, con su luz (la oficina, el hospital y la noche, vistas en vídeo en la 2.ª pasada: §5.2)
 
 | Sitio | Hora y luz | Para qué lámina |
 |---|---|---|
@@ -1495,7 +1523,27 @@ cita exacta).
 | Colección 4K | varios | [Wallpaper Cave](https://wallpapercave.com/4k-violet-evergarden-wallpapers) | varios |
 
 Casi todos son **capturas o arte oficial** subidos por fans: sirven de
-referencia, no para pegar.
+referencia, no para pegar. Los tamaños de esta tabla son los que dan las
+webs; no se abrió cada archivo ⚠️ (AlphaCoders y Wallpaper Cave son
+colecciones).
+
+**Nuevo (2.ª pasada) · Fondos de Wallhaven con tamaño real y autor**
+(del recolector; sólo los etiquetados «Violet Evergarden»; ♥ = veces
+guardado) ✅:
+
+| Imagen | Tamaño | ♥ | Subido por · origen |
+|---|---|---|---|
+| [Violet con la maleta y pétalos](https://w.wallhaven.cc/full/kw/wallhaven-kwpm76.jpg) | 4352×2720 | 262 | destex · [Pixiv 67609464](https://www.pixiv.net/en/artworks/67609464) |
+| [Arte digital de Violet](https://w.wallhaven.cc/full/rd/wallhaven-rdolrq.jpg) | 6921×3849 | 378 | origen [Pixiv 91486966](https://www.pixiv.net/en/artworks/91486966) |
+| [Violet de pie](https://w.wallhaven.cc/full/72/wallhaven-72ljqy.jpg) | 4096×2278 | 219 | bubbleboba · mismo Pixiv 91486966 |
+| [Violet con prótesis (WLOP)](https://w.wallhaven.cc/full/z8/wallhaven-z81dlj.jpg) | 5000×3000 | 224 | LUCKY2233 · arte de WLOP |
+| [Violet con paraguas](https://w.wallhaven.cc/full/9m/wallhaven-9mg6vk.jpg) | 3300×5100 (vertical) | 123 | ThorRagnarok |
+| [Captura 4K de la serie](https://w.wallhaven.cc/full/k7/wallhaven-k7vm66.jpg) | 3840×2160 | 125 | liu星河 |
+| [Violet con lágrimas](https://w.wallhaven.cc/full/j3/wallhaven-j3ewjy.jpg) | 1920×1080 | 195 | 2583012701 |
+| [Violet, fondo liso](https://w.wallhaven.cc/full/ex/wallhaven-exg33k.jpg) | 10245×5241 | 130 | HiguchiMadokaS · [Pixiv 115882364](https://www.pixiv.net/artworks/115882364) |
+
+Oficiales y panorámicos: el **banner de AniList** (1900×400) y el **key
+visual de la película** (1024×799), §3.2.
 
 ---
 
@@ -1507,9 +1555,11 @@ referencia, no para pegar.
 **Rasgos que nunca cambian**
 - Pelo **rubio dorado pálido**, largo, con **dos trenzas recogidas en
   moños y lazos rojos**; flequillo recto.
-- Ojos **azules**, grandes; cara serena, **boca casi cerrada**.
-- **Chaqueta corta azul de Prusia** sobre **vestido blanco** con lazo;
-  **broche verde esmeralda** en el cuello.
+- Ojos **azul verdoso** (`#3BADB3`), grandes; cara serena, **boca casi
+  cerrada**; **no parpadea y mira de frente** (Ishidate, §7.1).
+- **Chaqueta corta azul marino grisáceo** (`#2F444F` a `#3B5363`) sobre
+  **vestido blanco** con lazo crema (`#ECE2C9`); **broche verde**
+  (`#4C8669`) en el cuello. Lazos del pelo **rojo vino** (`#63394D`).
 - **Guantes marrones** o manos **de metal plateado** articuladas.
 - Botas marrón oscuro.
 
@@ -1532,10 +1582,66 @@ androide), «doll» a secas (sale una muñeca de juguete), «modern
 keyboard», «laptop», «speech bubble», «maid».
 
 **Encuadre**: tres cuartos o de lado, trabajando (§3.3: así la mira la
-serie). Plano medio con la máquina en primer término.
+serie). Plano medio con la máquina en primer término. Si mira a cámara,
+**de frente**, nunca de reojo.
 
-**Referencias de estilo**: el fondo de WallpaperFlare 3840×2160 y la
-escena en Blender de D Arte (§4.3). **De pose**: la tabla de §15.
+**Vocabulario de etiquetas** que entienden las IA de imagen (Danbooru,
+lo más repetido al dibujarla sola; del recolector) ✅: `blonde_hair`,
+`blue_eyes`, `red_ribbon`, `hair_ribbon`, `braid`, `hair_bun`,
+`hair_between_eyes`, `blue_jacket`, `white_dress`, `white_ascot`,
+`brooch`, `green_gem`, `juliet_sleeves`, `puffy_sleeves`, `gloves`,
+`mechanical_hands`, `closed_mouth`, `looking_at_viewer`. Para Gilbert:
+`blue_hair`, `green_eyes`, `scar`, `eyepatch` (película). Para Hodgins:
+`red_hair`, `stubble`, `ponytail`, `vest`.
+
+**Técnica que hay que pedir** (§Punto 18): contorno **no negro**, teñido
+del color del fondo; sombra en dos o tres tonos (más cálida junto a la
+ventana); grano fino y bokeh dorado.
+
+**Referencias de estilo**: el fondo de WallpaperFlare 3840×2160, la
+escena en Blender de D Arte (§4.3), el opening 0:21 y el tráiler 1:22
+(hoja escenas nº1 y 14). **De pose**: la tabla de §15 y sus «Poses vistas
+en vídeo».
+
+**Expresiones** (para que la IA entienda el gesto): en los 6 vídeos
+mirados no aparece ningún recurso cómico de anime (gotas de sudor,
+*chibi*, fondos de emoción) ✅ por lo visto, ⚠️ para la serie entera. La
+emoción va en **ojos y manos**; las caras grandes son de Iris
+(`Iris angry.jpg`) y Cattleya (`Angry Cattleya.png`), no de Violet.
+
+### Para una IA de texto: cómo escribir en su voz (Nuevo, 2.ª pasada)
+
+**Violet**: frases **cortas y formales**, como un **parte militar**: dato,
+luego conclusión. Sin muletillas cariñosas, sin diminutivos, **casi sin
+exclamaciones** (sólo una vez alza la voz en toda la serie). Palabras
+suyas: «Entendido» (了解しました, 17 veces), «No hay problema» (問題ありません,
+10), «**el mayor**» (así lo dice el doblaje latino), «arma» para la
+máquina. Se presenta siempre con el mismo saludo. **Nunca** onomatopeyas
+ni risas escritas («jaja»). Los demás: **Hodgins** cariñoso y bromista
+(«Violet-chan»); **Cattleya** segura y algo burlona; **Benedict** gruñón
+(«¿Qué pasa?»); **Iris** se queja en voz alta.
+
+Frases **reales** por emoción (traducción del subtítulo japonés salvo las
+marcadas «latino»):
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| **Presentar** | «Encantada. Allá donde el cliente lo desee, acudiré. Servicio de Auto Memory Dolls, Violet Evergarden» | Violet, ep. 13, 00:23:17 |
+| **Alegre / agradecida** | «Gracias por tantas letras. He recibido muchas armas» | Violet, Especial, 00:14:04 |
+| **Alegre** | «El himno al mar estuvo muy bien, Violet» | Cattleya, película, 00:13:23 |
+| **Explicando** | «Era distinto de una carta normal. El mar es inmenso y hermoso, pero no tiene méritos… Me costó alabarlo» | Violet, película, 00:13:35 |
+| **Explicando** (latino) | «Ha pasado mucho tiempo, pero no tengo nada que reportar. Trabajo con diligencia, estoy saludable y segura. No ha habido ningún problema» | Violet (Andrea Arruti), demo 1:45 |
+| **Animando** | «Esta vez escriba usted. Con sus propias palabras» | Violet, ep. 5, 00:15:08 |
+| **Animando** | «¡El año que viene lo escribo yo!» | Iris, película, 00:14:02 |
+| **Animando** | «¿No es fácil? ¡Hacemos nosotros la mejor letra!» | Benedict, Especial, 00:12:41 |
+| **Enfadado** | «¡Este tonto puso un vaso mojado sobre la carta que escribí!» | Cattleya, ep. 3, 00:20:03 |
+| **Enfadado** | «¿Qué pasa? ¿Tienes queja?» | Benedict, Especial, 00:13:53 |
+| **Triste** | «Yo, que maté gente como un arma, ¿puedo vivir así?» | Violet, ep. 7, 00:19:16 |
+| **Triste** (latino) | «Ya no quiero matar a nadie más. Las órdenes del mayor fueron vivir, nunca fueron matar» | Violet (Andrea Arruti), demo 1:16 |
+
+Para rotular en la lámina: la frase de Violet **sin signos de
+exclamación**, con punto final; las de Iris y Benedict sí pueden llevar
+¡!.
 
 ---
 
