@@ -1514,3 +1514,142 @@ japonesa, ventas de Blu-ray.
 | Doblaje latino | Doblaje Wiki, ANMTV, Crunchyroll | ✅ | Doblaje Wiki por API y ANMTV; Crunchyroll sin acceso |
 | Hojas | 3 hojas de contacto | ✅ | `personajes_01`, `fondos_01`, `objetos_01`, miradas y explicadas número a número |
 | Referencias | `referencias.json`, mínimo 20 | ✅ | todas las útiles de las partes, las mejores primero, tamaños medidos |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes (`partes/imagen.md`, `video.md`,
+`voz.md`, `texto.md`) y del recolector. ✅ = dos fuentes; ⚠️ = una.
+
+### Recolector (sin IA, 24-sep-2026)
+
+- `herramientas/recolectar.py` sobre AniList, Doblaje Wiki, Fandom,
+  Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion,
+  Internet Archive, MusicBrainz, Steam y Reddit.
+- **Falló**: AnimeThemes ([api.animethemes.moe](https://api.animethemes.moe/anime), HTTP 522).
+- **Error detectado**: 8 personajes de otras series (Gundam, Love Live) en la
+  lista de Danbooru y en `datos.json`. Excluidos.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **Fandom API** (`wistoria.fandom.com/api.php`, inglés): 15 páginas
+  (Will, Elfaria, Sion, Julius, Colette, Rosti, Zeo, Filvis, Academia,
+  Mercedes Caulis, Dungeon, Urbus Regarden, Slumland, Wis, Blu-ray) y
+  `allimages` completo (916 archivos) filtrado por logo, emblem, crest.
+- `investigar_serie.py` dos veces: 40 imágenes de personajes y 16 de sitios.
+- `estilo.py` 6 veces sobre 13 imágenes (hex de ropa y sitios).
+- AniList GraphQL ([graphql.anilist.co](https://graphql.anilist.co)), id 174576.
+- [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=Wistoria&downloadable=true):
+  «Wistoria», «gothic magic tower», «fantasy magic sword», «stone spire
+  tower». Nada de la serie.
+- [API de Wallhaven](https://wallhaven.cc/api/v1/search?q=wistoria%20wand%20and%20sword):
+  4 resultados en total.
+- [Openverse](https://api.openverse.org/v1/images/?q=Wistoria%20wand%20and%20sword%20cosplay):
+  «Wistoria wand and sword cosplay», 0 resultados.
+- ambientCG: paper, fabric, gold, marble.
+- Buscador (9 de ~50), en español, inglés y japonés: «Wistoria Wand and
+  Sword collaboration cafe merchandise», «Wistoria Wand and Sword figure
+  official Will Elfaria», «ウィストリア 杖と剣 フィギュア アクリルスタンド
+  グッズ», «"Wistoria" anime key visual Blu-ray cover art official»,
+  «"Wistoria" anime crossover event collaboration game 2026», «Wistoria Wand
+  and Sword cosplay official contest», «ウィストリア 杖と剣 コラボ カフェ
+  イベント».
+- HTML del sitio oficial (`/character/`, `/goods/`) con curl para sacar las
+  URL reales. La noticia de ANN del crossover dio **403**: se usó la web de
+  Lulutto Lilly.
+- **No encontré**: figura 3D, cosplay documentado, colaboración con marcas
+  grandes, escudo de los Ulster en imagen, modelo 3D de la serie, cartones
+  de cuenta atrás, fotograma a color de la mazmorra.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+
+- **YouTube**: `yt-dlp -F` sobre el tráiler oficial (`FNiBiXXeyb8`): «Sign
+  in to confirm you're not a bot». Sin vídeos ni storyboards.
+- **Dailymotion** ([API](https://api.dailymotion.com/videos?search=Wistoria%20Fire%20and%20Fear)),
+  9 búsquedas en inglés y japonés («Wistoria Fire and Fear», «PENGUIN
+  RESEARCH Fire and Fear», «Wistoria Frozen TRUE», «Wistoria BELIEVERS ASH DA
+  HERO», «Wistoria Reachlight Shiyui», «フローズン TRUE ウィストリア»,
+  «BELIEVERS ASH DA HERO ウィストリア», «リーチライト シユイ»…): ningún
+  OP/ED oficial.
+- `fotogramas.py` sobre `x8slj34` (cada 2 s) y `xa5iqfi` (por planos);
+  `episodio.py` sobre los dos tráileres (`partes/episodios.md`, Whisper en
+  japonés + OCR).
+- Fandom API: páginas de los 4 temas, el anime, sitios y Episode 1;
+  búsqueda de texto «Mage Killer», «Graveyard of Wands», «TERMINALIA».
+- Internet Archive: 8 resultados (2 ZIP pesados, 1 CD de drama).
+- Bilibili TV: lista 25+ episodios, **bloqueo por país**.
+- MusicBrainz: 1 resultado (cover no oficial).
+- Buscador (2): «Wistoria Wand and Sword TikTok trend viral clip», «"Wistoria:
+  Wand and Sword" opening "Fire and Fear" animation breakdown reaction».
+- **No encontré**: OP/ED completos sin login, un capítulo entero accesible,
+  efecto de sonido con dos fuentes, interior de la torre a color.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Doblaje Wiki** por API
+  ([wikitext](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Wistoria%3A_Wand_and_Sword)):
+  reparto de más de 40 personajes, muestras y datos de interés.
+- **Danbooru** (`related_tag.json`, `tags.json`): recuento real por personaje.
+- **Fandom**: 13 fichas de personaje completas.
+- **Reddit** vía [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Wistoria&query=favorite):
+  r/Wistoria, hilos y comentarios.
+- Buscador (12), inglés salvo lo marcado: «"Wistoria Wand and Sword"
+  Episodio 1 COMPLETO Doblaje español youtube Crunchyroll Latinoamérica»
+  (español), «ANMTV Wistoria Wand and Sword doblaje latino reparto Gerardo
+  Mendoza Will» (español), «"Colette Loire" doblaje "Jean Bautista" OR
+  "Fernanda Ornelas" Wistoria», «Wistoria Wand and Sword 人気投票 キャラクター
+  結果» (japonés), «Wistoria Wand and Sword TV Tropes YMMV Heartwarming
+  Moments», «Wistoria Wand and Sword "Ganbare" scene episode reaction
+  crying», «Wistoria Wand and Sword review why people love anime underdog
+  MAL Anime News Network», «Wistoria Crunchyroll Anime Awards nomination
+  2024», «"Wistoria" Crunchyroll Anime Awards 2025 nominated category»,
+  «"Wistoria" fandub español latino youtube OR tiktok Will Elfaria»
+  (español), «Wistoria Wand and Sword opening cover español latino
+  "BELIEVERS"» (español), «"srpanconquesouwu" Wistoria doblaje OR
+  "mcjake_oficial" Wistoria».
+- Leídas: ANMTV, CBR, Wikipedia (9th Crunchyroll Anime Awards),
+  [eldoblaje.com](https://www.eldoblaje.com) (sólo para no confundir con el
+  doblaje de España).
+- **Fallaron**: TV Tropes (403, y sin copia en
+  [Wayback](https://archive.org/wayback/available?url=tvtropes.org/pmwiki/pmwiki.php/YMMV/WistoriaWandAndSword));
+  YouTube (login); [Jikan](https://api.jikan.moe/v4/anime?q=Wistoria) (504,
+  se usó AniList); Danbooru en HTML (Cloudflare, se usó `.json`).
+- **No encontré**: encuesta oficial japonesa, frases del doblaje con minuto,
+  nominación a premios (descartada), ventas, TV Tropes, cover en español,
+  memes hispanos, vistas del fandub, minuto de la escena Ganbare.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **Fandom API**: `allpages` (~230) y 30 páginas (Terminology, Magic, Story
+  Arcs, Ten Sages, Wis, Dungeon, Goetia, facciones, List of Episodes…);
+  búsqueda de texto: emblem, crest, Faction.
+- **Imágenes miradas con Read**: portada del tomo 1, cap. 1 (revista y
+  limpio), cap. 10, emblema de Albis Vina (con `estilo.py`), key visual.
+- **Google Fonts** con fontTools: 11 letras, las 11 con tildes, ñ, ¿ y ¡.
+- [API de Steam](https://store.steampowered.com/api/storesearch/?term=Wistoria&cc=us):
+  «Wistoria» y «Wistoria Wand Sword», 0 resultados.
+- Buscador (7): «Wistoria Wand and Sword font logo identify», «杖と剣の
+  ウィストリア 青井聖 作画 インタビュー» (japonés), «Wistoria Wand and Sword
+  video game mobile», «Wistoria Wand and Sword TV Tropes site:tvtropes.org»,
+  «Wistoria Wand and Sword "The Cutting Room Floor" tcrf», «青井聖 ブルーロック
+  アシスタント 漫画家» (japonés), «Wistoria Wand and Sword Earth Faction
+  Fairy Faction name emblem».
+- Leídas: Animate Times y MANTANWEB (japonés),
+  [Mangapedia](https://mangapedia.com/%E9%9D%92%E4%BA%95%E8%81%96) (sin datos);
+  [pixiv 百科](https://dic.pixiv.net/a/%E9%9D%92%E4%BA%95%E8%81%96) dio 403.
+- **Corrección propia**: el dato «Aoi fue asistente de Blue Lock» se retiró
+  por no tener segunda fuente.
+- **No encontré**: letra comercial del logo, emblemas de Oscuridad y Luz,
+  contenido de TV Tropes, software del estudio.
+
+### Redactor
+
+- Leí las 4 partes, `episodios.md`, los 4 `datos-*.md`, los 5 JSON,
+  `ENCARGO.md`, `AYUDANTE.md`, `EQUIPO.md`, `PETICIONES.md`,
+  `DECISIONES.md`, `servidor/reglas_del_dueno.md` y `servidor/inventario.md`,
+  y las cabeceras de canal de las biblias 01-36 para ver choques.
+- Miré las 3 hojas con Read y amplié 5 recuadros (mural, tronos, despacho,
+  Ignis Wis y Albis Wis) para leer los rótulos.
+- Pedí a la API de la wiki la URL y el tamaño exactos de 29 archivos que
+  salen en las hojas, y medí con Pillow 20 imágenes sin tamaño (AniList,
+  crossover, Kodansha).
+- Ni git ni búsquedas web nuevas.
