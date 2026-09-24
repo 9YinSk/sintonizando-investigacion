@@ -222,7 +222,59 @@ pantalla, sacado de los vídeos que miré (§12), y las letras libres (§6).
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
-(pendiente)
+**Regla**: nada de esto se pega en la lámina. Sirve para ver **poses y
+soluciones** que ya gustan al fandom. Los modelos 3D con licencia CC BY sí
+se pueden usar **como objeto** (con el crédito exacto).
+
+### 4.1 Fan art más guardado en Pixiv (datos de su API, 24-sep-2026)
+
+Miré las miniaturas. **Pixiv marca si una obra está hecha con IA**
+(`aiType`: 1 = no, 2 = sí). Todas las de esta tabla son **aiType 1**.
+
+| Obra | Autor | Tamaño original | Guardados | Qué sirve |
+|---|---|---|---|---|
+| [葬フリLog-①](https://www.pixiv.net/artworks/113988525) | あき | 1196×1210 | **66.644** | **todo el grupo** (los dos equipos) en tono de humor; Frieren con **bufanda azul**, mano abierta explicando |
+| [ヒンフリ](https://www.pixiv.net/artworks/112719892) | 悌 | 2900×4096 | 50.753 | manga cómico de Himmel y Frieren (Heiter, Eisen); **globos altos y estrechos** como en el manga |
+| [勇者と魔法使い4](https://www.pixiv.net/artworks/116826402) | 白雨より | 3531×3763 | 46.427 | **Himmel y Frieren sentados contra una roca**, ella dormida en su hombro |
+| [ここすき](https://www.pixiv.net/artworks/112355422) | マーセ | 2716×4071 | 43.038 | **Fern peina a Frieren dormida**: la pose de «Fern mamá» (§12.3, T1-04) |
+| [むふー](https://www.pixiv.net/artworks/120592479) | 仮名 | 1378×2039 | 44 | a lápiz: **Frieren asoma por encima de un grimorio con un círculo mágico** (la misma pose del PV 1, 0:28) |
+| [無題](https://www.pixiv.net/artworks/112859195) | orien | 1240×1754 | 6 | Frieren **se tapa la cara con un libro**, colores planos |
+
+⚠️ **Cuidado con Pixiv**: al buscar «フリーレン 図書館» (Frieren
+biblioteca) **la mitad son imágenes hechas con IA** (aiType 2, p. ej.
+[137781803](https://www.pixiv.net/artworks/137781803),
+[114351946](https://www.pixiv.net/artworks/114351946)): brillo de plástico,
+estanterías repetidas. **No usarlas**, ni como referencia (regla del dueño:
+«que no parezca hecho por IA»). Y parte del fan art popular es
+**fan service** (lo descarté).
+
+Más fan art con autor, citado por Know Your Meme (§14): la serie de
+**portadas de videojuegos** de **@ononotsu** (X/Twitter, desde
+dic-2023), el mímico de **@MiyanEatWorld** (2-oct-2023) y el primer
+redibujo del mímico de **Esu** en Pixiv (28-ene-2021) ⚠️ no los abrí.
+
+### 4.2 Modelos 3D con licencia libre (Sketchfab, API, 24-sep-2026)
+
+| Modelo | Autor | Licencia | Para qué | Enlace |
+|---|---|---|---|---|
+| **Frieren staff** (5.589 caras) | nataleesha_kissinger | **CC BY 4.0** | **el bastón** como objeto real en Blender (cabeza dorada, gema roja, asta roja: coincide con §16) | https://sketchfab.com/3d-models/4fe23d46c9ab4b8a8f118136ee753329 |
+| **Gothic library** (1,7 M caras) | WirtualneMuzeaMalopolski (Museos Virtuales de Małopolska) | **CC BY 4.0** | **escaneo de una biblioteca real** con bóveda gótica, estanterías de madera y suelo de ajedrez: fondo de «biblioteca» | https://sketchfab.com/3d-models/abf15eb87b85435d9ace290b84d8d856 |
+| **Chest** (182 k caras) | WirtualneMuzeaMalopolski | **CC BY 4.0** | **cofre medieval real con herrajes**: base para el Mimic (pintarlo de rojo `#6F3230`, §5, y añadir dientes) | https://sketchfab.com/3d-models/bcc433b151c443d8a635d209b5dc1001 |
+| **Chained (medieval) library book** (220 k caras) | Andywoodhead | **CC BY 4.0** | **libro real escaneado** con cierres de metal: el grimorio | https://sketchfab.com/3d-models/8e4a74f2cb4c4101bb0cd843445ef23e |
+| **Medieval Book Stack** (2.968 caras) | GetDeadEntertainment | **CC BY 4.0** | pila de libros ligera (como la del visual de PARCO, §3) | https://sketchfab.com/3d-models/0ea43f7fdcb7411cb1123b987f297d41 |
+| **Fantasy Chests / Mimics** | Asgart | **CC BY 4.0** | cofres pequeños con variante mímico (lengua rosa) | https://sketchfab.com/3d-models/59aec737ae7a436c899b65669ddcf375 |
+| Frieren, from 葬送のフリーレン (31 k caras) | chambersu1996 | CC BY 4.0 (del modelo) | **sólo referencia** de volumen de la ropa: el personaje es propiedad de Shōgakukan | https://sketchfab.com/3d-models/a65166acc8ec4758a402e158848a04aa |
+
+Crédito exacto para CC BY: «"<nombre del modelo>" by <autor> is licensed
+under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/)».
+
+**Descartados**: «Mimic Chest» (matthew.leiher) y «Mimic» (glenatron) son
+mímicos de D&D **con patas y tentáculos**: el de Frieren es **un cofre rojo
+normal con dientes y lengua**, sin patas. «Elder grimoire» (madziam) lleva
+un **pentagrama**: no es de la serie.
+
+Y los **modelos CC0 de Poly Haven** ya listados en §5.4 (cofre, libros,
+estantería, candelabros, fogata, estatua).
 
 ## 5 · Sitios, luz, paleta y texturas
 

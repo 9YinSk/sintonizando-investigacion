@@ -83,8 +83,10 @@ fondos de pantalla de fans con tamaño (§17); Reddit por Arctic Shift (§13);
 `referencias.json` rehecho: 39 entradas, todas con tamaño medido; la tabla
 «Cumplimiento del encargo».
 
-**Avisos con el símbolo de duda**: había **14** antes de esta pasada; quedan **3** (Carlos Monroy,
-Ivett Toriz y «Legión de Exploración», todos con una sola fuente; §20).
+**Avisos ⚠️**: había **14** antes de esta pasada; ahora `grep` cuenta **12**, pero
+sólo **3 son datos dudosos** (Carlos Monroy, Ivett Toriz y «Legión de
+Exploración», todos con una sola fuente; §20). Los otros son este aviso y los 8
+«a medias» de la tabla «Cumplimiento del encargo», que se marcan así a propósito.
 
 ---
 
@@ -872,7 +874,8 @@ Novedad: desde el Día de AoT (9-sep-2026) hay **canal oficial de YouTube**
   **Es casi el mismo oro viejo que la cinta de la ficha del ep. 16**
   (`#6D581E`-`#796120`): la cinta de pincel sigue siendo el sello de la
   franquicia en 2026.
-- Arriba a la derecha sale la cámara de quien juega: no es del juego.
+- Arriba a la derecha hay un recuadro con una persona con bufanda roja: es de
+  la grabación, no de la interfaz del juego.
 
 De los juegos anteriores (*Wings of Freedom*, *AoT 2*) sigo **sin capturas** de
 su caja de diálogo (Game UI Database no tiene AoT).
@@ -973,7 +976,7 @@ su caja de diálogo (Game UI Database no tiene AoT).
 - **Cómo habla**: discursos con preguntas y un remate que se grita, como
   «¡Consagren sus corazones!» o «¡Soldados, rujan!». Primero da el dato duro
   («en esos cuatro años murió más del 60 %», ep. 16 · 11:19), luego pregunta
-  («¿Morirían si se lo ordeno?», 13:52) y al final grita el lema (14:13).
+  (en latino: «¿Morirían si yo les ordenara matarse?», 13:52) y al final grita el lema (14:13).
   Con Eren, tras el juicio, es cortés: «Tienes todo mi respeto» (latino,
   ep. 14 · 21:09).
   ([Know Your Meme](https://knowyourmeme.com/memes/erwin-smiths-my-soldiers-rage-speech) ·
@@ -988,7 +991,8 @@ su caja de diálogo (Game UI Database no tiene AoT).
   ([Fandom](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB) ·
   [Fandom: Sawney](https://attackontitan.fandom.com/wiki/Sawney_(Anime))).
 - **Cómo habla**: rápido, con entusiasmo y explicando de más. Les pone nombre a
-  sus sujetos de estudio. **Saluda** con alegría a todo el grupo: «¡Buenas
+  sus sujetos de estudio (traducción nuestra de los subtítulos japoneses, salvo
+  lo marcado como latino). **Saluda** con alegría a todo el grupo: «¡Buenas
   noches, escuadrón Levi! ¿Qué tal se vive en el castillo?» (ep. 15 · 10:00);
   pide las cosas **exagerando**: el experimento será «¡de lo más emocionante!»
   (10:30); **se presenta con su cargo completo** en el doblaje: «Soy líder de la
@@ -1306,7 +1310,8 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
     14:13, muestra de Doblaje Wiki; y título del clip oficial de Crunchyroll).
   - Va en una **cinta de pincel oro viejo `#796120`** (la del ep. 16, F·7)
     atada al mástil, en Yuji Boku blanco. Es la cinta de la ficha «Información
-    pública»: el sello de la serie.
+    pública»: el sello de la serie. El juego *Attack on Titan 3* usa el mismo
+    oro viejo en su franja de misión (§12): sigue siendo reconocible en 2026.
 - **Dónde va cada texto**:
   - En la cinta, la frase de Erwin.
   - Pintado en la bandera, bajo las alas: «Al quedarte, las aceptas.»
@@ -1319,8 +1324,10 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
   - La bandera ondea hacia la cámara.
 
 > Otra idea para después: cuando salga *Attack on Titan 3* (10-dic-2026),
-> capturar su caja de diálogo. Serviría para una lámina con la **investigación
-> fuera de las murallas**: un escuadrón y sus normas.
+> capturar su interfaz en alta. La demo ya enseña que **no usa caja**: retrato
+> pequeño y texto blanco, y títulos en una **franja de pincel oro viejo** (§12).
+> Serviría para una lámina con la **investigación fuera de las murallas**: un
+> escuadrón y sus normas.
 
 ---
 
@@ -1353,7 +1360,47 @@ Lo que no pude mirar o no existe con la red de hoy:
 - **Hex de la bufanda a pleno sol**: sólo medida en G1 y en interior.
 - **Fuentes en chino**: no busqué.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas (88 piezas con tamaño por API), arte 2023-2026 (MAPPA 15, *AoT 3*, Día de AoT, Isayama 2026 con Levi de brazos cruzados, trajes de la tienda); poses vivas: saludo, limpieza, carga, pizarra |
+| 2 · Fotogramas 1080p con capítulo y minuto | ✅ | fotogramas 1920×1080 de la wiki; los de las escenas clave con minuto de los subtítulos de Netflix (§3); algunos de las hojas (P·14-19, E·15-30) sin minuto |
+| 3 · Fan art y 3D con licencia | ✅ | 20 modelos de Sketchfab CC BY (licencia y autor por API), texturas Poly Haven CC0, fan art de Pixiv, ArtStation, DeviantArt y Reddit con autor |
+| 4 · Fondos, luz, paleta y texturas | ✅ | hex medidos con Pillow en 20 sitios y prendas (§5), texturas reales (§4.2) |
+| 5 · Tipografía con tildes, ñ, ¿ ¡ | ✅ | 6 letras libres comprobadas con fontTools; créditos latinos vistos (§6). Falta la fuente del manga en inglés |
+| 6 · Cómo hablan en pantalla | ✅ | la ficha «Información pública» medida en sus 54 versiones, globos del manga, cartelas de la T4, interfaz de *AoT 3* (§7, §12) |
+| 7 · Personajes y encuestas | ✅ | 4 encuestas oficiales + Nlab; Levi gana 3 de 4 (§8) |
+| 8 · Doblaje latino, dos fuentes | ✅ | reparto y equipo en Doblaje Wiki (API) + FUNiAnime/ANMTV/Crunchyroll; quedan 3 datos con una sola fuente (§20) |
+| 9 · Música | ✅ | openings y endings con intérprete (vídeos oficiales de Pony Canyon), Sawano y Yamamoto; OP 2 y ED 1 mirados (§10) |
+| 10 · Vídeos con minuto | ✅ | 13 vídeos mirados por *storyboard* con minuto y enlace `&t=`; 31 enlaces de YouTube comprobados. Los TikTok van sin minuto |
+| 11 · Videojuegos: interfaz y cajas | ⚠️ | *AoT 3* visto en la demo (borroso); de *Wings of Freedom* y *AoT 2* no hay capturas |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | memes con fuente, Reddit (4275 votos a la limpieza de Levi), lista de errores (§13) |
+| 13 · Carácter y forma de hablar | ✅ | Levi, Erwin, Hange con frases y minutos (§14); Eren y Mikasa más breves |
+| 14 · Poses con minuto | ⚠️ | Levi 13 y Erwin 7, con hoja o minuto; Hange, Mikasa y Eren sólo 5 cada uno (§15) |
+| 15 · Vestuario con hex | ✅ | uniforme confirmado en la wiki y en las hojas; hex medidos (§16) |
+| 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | oficiales medidos bajándolos; fans de Wallhaven con tamaño; 2 autores de ArtStation sin ver (403) |
+| 17 · Guía para IA | ✅ | rasgos, paleta con hex, luz, palabras, un ejemplo y las referencias por número (§18) |
+| 3 conceptos de lámina | ✅ | reglamento del cuartel, sentencia, bandera; con cinta del color del episodio y poses con número (§19) |
+| 40 fuentes distintas | ✅ | 63 dominios enlazados, más APIs sin enlace (Arctic Shift, Poly Haven, Wallhaven) |
+| Fuentes oficiales | ⚠️ | web, X y PDF de MAPPA, portal, Koei Tecmo, Crunchyroll, Pony Canyon; **sin** artbooks, comentarios de Blu-ray ni entrevistas de arte |
+| Otros idiomas | ⚠️ | japonés y coreano sí; **chino no** |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, namu.wiki, TV Tropes, TCRF sí; Wayback sólo respondió su API, la página no |
+| Foros y comunidades | ✅ | Reddit (Arctic Shift), dcinside, fmkorea, ResetEra, Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | con autor y tamaño; ArtStation dio 403 en esta mitad |
+| Vídeo | ✅ | YouTube mirado por *storyboard*; TikTok enlazado |
+| Código y recursos | ✅ | GitHub (subtítulos, fuentes, fans), Sketchfab, Poly Haven |
+| Doblaje latino (Doblaje Wiki, ANMTV, Crunchyroll, entrevistas) | ⚠️ | todo salvo las entrevistas a actores en YouTube: no se pudieron ver ni oír |
+| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ⚠️ | hecho por *storyboard* (plan B de `AYUDANTE.md`): OP 2, ED 1, 2 tráileres, eps. 15, 53, 64, 71 y 73. No en movimiento ni con sonido |
+| Frases latinas textuales de clips oficiales | ⚠️ | los clips de Crunchyroll no dieron subtítulos; las frases salen de las muestras de audio de Doblaje Wiki y del título del clip oficial |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,6-0,7 MB), miradas, con tabla de números (§2.0) |
+| `referencias.json` | ✅ | 39 entradas: la URL es la imagen (o el vídeo con `&t=`), tamaño medido, licencia |
+
+---
+
 ## 21 · Bitácora de búsqueda
+
+### Primera pasada (24-sep-2026, mañana, red cerrada)
 
 **Red**: `community.fandom.com` → 000 (403). WebFetch bloqueado para todo menos
 GitHub. codeload.github.com → 403. `raw.githubusercontent.com` y la API de
@@ -1440,7 +1487,8 @@ búsqueda de GitHub sí respondían.
 - **Código**: GitHub.
 - **Doblaje**: ANMTV, FUNiAnime, K-magazine, 3DJuegos, La Mole, Anime Argentina.
 
-**Lo que NO encontré o no pude mirar**:
+**Lo que NO encontré o no pude mirar** (en la primera pasada; casi todo se
+resolvió en la segunda):
 - Hojas de contacto: no hay red.
 - Fan art con autor.
 - Sketchfab y Poly Haven nuevos.
@@ -1450,6 +1498,46 @@ búsqueda de GitHub sí respondían.
 - Entrevistas de arte.
 - Minutos exactos.
 - Una frase latina de Levi.
+
+### Segunda pasada (24-sep-2026, tarde, red abierta)
+
+**Primera mitad** (ayudante anterior; su carpeta de trabajo se perdió, así que
+esto sale de lo que dejó escrito):
+- `investigar_serie.py` sobre `attackontitan.fandom.com`, 3 tandas: personajes
+  (1479 imágenes), episodios y fichas (175), sitios (161). Montó y miró las 3
+  hojas de `hojas/`.
+- Doblaje Wiki por la API: la serie, la película, fichas de actores; 16
+  muestras de audio pasadas por Whisper (modelo *small*, español).
+- Subtítulos japoneses de Netflix del espejo de kitsunekko (GitHub).
+- Sketchfab (API de modelos: licencia y autor), Poly Haven (API), `google/fonts`
+  con fontTools, Pixiv (búsqueda pública), DeviantArt (oEmbed), FUNiAnime,
+  ANMTV, el portal oficial, Koei Tecmo, 4Gamer, Famitsu, Gematsu.
+- YouTube con yt-dlp: datos y *storyboards* del OP 2, el ED 1 y el tráiler.
+
+**Segunda mitad** (esta sesión). Sin buscador web: todo por red directa.
+
+| Qué (idioma) | Cómo | Resultado |
+|---|---|---|
+| Tamaños de 88 imágenes de las hojas (EN) | API de Fandom, `prop=imageinfo` | los 88 coinciden con lo escrito |
+| Erwin, el uniforme, Levi (EN) | API de Fandom: `Erwin_Smith_(Anime)`, `Erwin_Smith`, `Military_(Anime)`, `Levi_Ackermann_(Anime)`, `Hange_Zoë_(Anime)` | brazo en el ep. 36 y saludo con la izquierda; uniforme de 850 y 854; Levi 160 cm |
+| Monroy, Toriz, «Legión» (ES) | API de Doblaje Wiki: `Attack_on_Titan`, `Ivett_Toriz`, `Carlos_Monroy`; FUNiAnime y ANMTV (texto) | Toriz = Levi niño, ep. 47; Monroy sin segunda fuente; «Legión» no aparece en ningún texto |
+| Minutos (JA) | espejo de kitsunekko (clon parcial con git): eps. 3, 9, 14, 15, 16, 19, 22, 53, 71 y 73; búsquedas 約束, 意志, 力を, 心臓を捧げよ, キース, 夢を諦めて | la frase de Levi es del ep. 9 · 06:57; el grito del clip es del ep. 71 · 12:31-12:57; Keith, ep. 73 · 16:10 |
+| Vídeos (JA, ES, EN) | yt-dlp: datos de los 31 enlaces de YouTube de la biblia (todos existen); *storyboards* de 13 vídeos → `fotogramas.py` | hojas de OP 2, ED 1, PV 2012, tráiler latino, eps. 15, 53, 64, 71, 73, demo y emisión de *AoT 3*, cartelas, voz de Levi |
+| Búsquedas en YouTube (ES) | `ytsearch`: «Attack on Titan doblaje en español Crunchyroll Levi»; «"Legión de Exploración" Attack on Titan» | clips oficiales de Crunchyroll en Español; títulos de fans con «legión de exploración» (3) y «de reconocimiento» (1) |
+| Portal oficial (EN/JA) | página del Día de AoT y sus imágenes | dibujo de Isayama, visual 9/9, trajes de la tienda; tamaños medidos |
+| Anime Corner (EN) | artículo de MAPPA 15 | la imagen original: Mikasa de espaldas |
+| Wallhaven (EN) | API: «levi ackerman» y «survey corps» (0 resultados con el filtro de anime y 1920×1080), «attack on titan» por favoritos (549) | 12 miradas, 5 útiles (§17) |
+| DeviantArt (EN) | oEmbed de «Wir sind die Jäger» | autor Deto15 |
+| ArtStation (EN) | JSON de dos proyectos | **403** dos veces: autores sin ver |
+| Reddit (EN) | Arctic Shift: búsqueda «Levi cleaning» (se agotó el tiempo) y luego por título | 10 hilos, el mayor con 4275 votos |
+| Wayback Machine | API de disponibilidad y la página de 2013 | la API dice que hay copia; la página se cortó dos veces |
+| Espejos de YouTube (Piped, Invidious) | API de 7 instancias | ninguna devolvió el vídeo |
+
+**Lo que NO encontré en esta pasada**: un texto oficial con «Legión de
+Exploración»; subtítulos en español de los clips oficiales; una segunda fuente
+para Monroy y Toriz; los autores de dos fondos de ArtStation; capturas de las
+cajas de diálogo de *Wings of Freedom* y *AoT 2*; fuentes en chino; artbooks o
+entrevistas de arte.
 
 <!-- Enlaces de la segunda pasada (en la vista de lectura no se ven) -->
 [dw-aot]: https://doblaje.fandom.com/es/wiki/Attack_on_Titan

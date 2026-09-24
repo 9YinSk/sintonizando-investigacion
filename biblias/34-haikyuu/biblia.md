@@ -232,6 +232,13 @@ el fandom los adora.
 - Bajé a tamaño original unas 90 (carteles, calendarios, hojas de modelo,
   sitios, estandartes) y **monté tres hojas propias** en `hojas/`.
 - Tamaños **medidos** por la API de Fandom (`prop=imageinfo`).
+- ⚠️ **Corrección**: los fotogramas de **Dailymotion** que salen en las
+  hojas como «1280x720» están **ampliados**. Medí hoy los vídeos con
+  `yt-dlp -j`: Dailymotion sólo da **512×288** (y la última escena de T3,
+  **320×184**). Sirven para ver poses, luz y composición, **no para
+  recortar**. Para recortar, el arte de la wiki (carteles, calendario,
+  hojas de modelo) o fotogramas de 1080p de la wiki (`Karasuno_S1E2.png`,
+  1920×1080).
 
 ### 3.1 Las tres hojas de esta carpeta (míralas con el número)
 
@@ -1222,7 +1229,7 @@ juegos.
 | **«¡Hinata, idiota!»** (日向ボケェ) de Kageyama | 27 episodios; el primero, T1-03 20:11 | ✅ subtítulos |
 | **La sonrisa forzada de Kageyama** y «Calmageyama» | [clip oficial «Calmageyama»](https://www.youtube.com/watch?v=XeHpcCTzB8Q) de Crunchyroll en Español; «Kageyama smile edits» en [TikTok](https://www.tiktok.com/discover/haikyuu-kageyama-memes) | ✅ título del clip + TikTok |
 | **«¡Hey, hey, heeey!»** y **el modo depre** de Bokuto | T2-04 09:55; T2-10 20:03 | ✅ |
-| **«Oya? Oya oya?»** de Kuroo y Bokuto | tendencia enorme en [TikTok](https://www.tiktok.com/discover/haikyuu-oya-oya-oya) y [meme.com](https://meme.com/memes/haikyuu). **No la encontré en los subtítulos** del anime (busqué おや, オヤ y «oya»): será del manga o de un OVA ⚠️ | ⚠️ |
+| **«Oya? Oya oya?»** de Kuroo y Bokuto | tendencia enorme en [TikTok](https://www.tiktok.com/discover/haikyuu-oya-oya-oya) y [meme.com](https://meme.com/memes/haikyuu). **Sí está**: T2-08, *streaming* **15:38-15:43** (Netflix y Amazon ✅): Akaashi 「おや？」, Bokuto 「おや おや？」, Kuroo 「おや おや おや？」, cuando Tsukishima entra al gimnasio donde entrenan de noche. (La revisión anterior no lo encontró porque buscó en unos subtítulos que se comen letras.) | ✅ |
 | **«Cállate, Yamaguchi» / «Perdón, Tsukki»** (うるさい山口 / ごめんツッキー) | T1-03 21:16 y T2-12 20:54 | ✅ |
 | **La peluca del subdirector** volando por un saque de Hinata y Kageyama | T1-02 (el subdirector entra a las 04:46); se recuerda en T1-05 04:49 y 16:28 | ✅; y el subdirector **ganó la encuesta de Takara Tomy** con 271.014 votos (§9.1) |
 | **Tanaka quitándose la camiseta** y dándole vueltas | «¡Deja de quitarte la camiseta!» (いちいち脱ぐな, T1-04 02:20; 脱ぐなハゲ, T1-05 01:43) | ✅ |
@@ -1419,7 +1426,93 @@ para ver cómo se compone un fondo limpio.
 
 ## 18 · Guía para generar con IA
 
-(pendiente)
+**Primero, el límite**: a los personajes **se les recorta del arte
+oficial** (hojas de §3); la IA sirve para **fondos, objetos y
+pruebas de pose**. Una IA no clava a Hinata ni a Bokuto: les cambia el
+peinado, los números y el uniforme, y un fan lo ve (§14.2). Y **nunca**
+se usa lo que genere como si fuera una referencia de la serie.
+
+### 18.1 El estilo en una frase
+
+Anime de TV japonés de **Production I.G** (2014-2020): **línea fina y
+uniforme**, oscura; **sombreado en dos tonos** (luz y sombra, sin
+degradados); ojos grandes con un brillo; **fondos pintados realistas**
+(gimnasios, escuela) con luz natural; en las jugadas, **líneas de
+velocidad** y **cielos o fondos de rayas** radiales (Best Episode 9,
+[1:39](https://www.dailymotion.com/video/x7og4pm?t=99)). T1-T3 es más
+**saturado**; T4 lleva un **filtro cálido y lavado** (§5.2).
+
+### 18.2 Rasgos que nunca cambian (de las hojas de modelo y el calendario)
+
+| Personaje | Lo que no puede faltar |
+|---|---|
+| **Hinata** | **bajito**; pelo **naranja** `#E57B41` despeinado en puntas; ojos grandes marrón claro; camiseta **negra azulada `#343643`** con cuello y rayas **naranjas**, **n.º 10**; rodilleras negras |
+| **Kageyama** | pelo **negro liso** con **flequillo recto** a las cejas; ojos azul oscuro; **ceño**; **n.º 9**; nunca sonríe tranquilo |
+| **Nishinoya** | el **más bajo**; pelo **de punta** con **mechón rubio** en la frente; camiseta **naranja de líbero** n.º 4; codera |
+| **Oikawa** | castaño **ahuecado**; sonrisa de lado; **blanco y turquesa** de Aoba Johsai, **n.º 1** |
+| **Bokuto** | pelo **gris con mechas negras** como cuernos de búho; ojos **dorados** redondos; Fukurodani blanco y negro, **n.º 4**; rodilleras largas |
+| **Kenma** | rubio con **raíces negras** hasta la barbilla; ojos de gato; **rojo** de Nekoma, n.º 5; consola o móvil |
+| **Kuroo** | pelo negro **despeinado hacia un lado** («cabeza de gallo»); sonrisa torcida; rojo, **n.º 1** |
+| **Daichi** | pelo corto negro; cara seria y amable; **n.º 1** de Karasuno |
+
+### 18.3 Paleta, luz y encuadre
+
+- **Paleta**: negro azulado `#343643` + naranja `#E68843`/`#ED830A` +
+  madera `#A97F45` + blanco. Nekoma rojo `#DC6264`; Aoba Johsai
+  turquesa; cielo `#5F92CF`; atardecer `#F9F1B5` · `#C591A9` ·
+  `#B65E5B`.
+- **Luz**: gimnasio de día, blanca y cálida por ventanales altos;
+  **atardecer naranja rasante** por la puerta; torneos, **focos
+  blancos** en filas.
+- **Encuadre**: **a la altura del jugador**, desde la cancha (lo dice el
+  director, §3.5); contrapicado para los saltos; la **red** delante.
+
+### 18.4 Palabras que ayudan y que estropean
+
+**Ayudan** (en inglés, que es como mejor entienden Firefly y Canva):
+`2D anime background, TV anime, cel shading, clean thin lineart,
+Japanese high school gymnasium, honey-colored wooden floor, volleyball
+net, tall windows, afternoon sunlight, orange sunset light through
+sliding door, painted background, low camera angle, no people`.
+
+**Estropean**: `3D render`, `realistic`, `photorealistic`, `glossy`,
+`painterly`, `chibi`, `fantasy`, `basketball` (pone canastas),
+`stadium` (sale un estadio de fútbol), `yellow and black uniform`
+(Karasuno **no** es amarillo), `white volleyball` (el balón es el
+**Mikasa amarillo y azul**), y los nombres de los personajes (la IA los
+mezcla o se niega).
+
+**Negativo** (si la herramienta lo acepta): `text, watermark, logo,
+extra fingers, basketball hoop, soccer, 3d, blurry`.
+
+### 18.5 Tres encargos listos para la IA
+
+1. **Fondo del concepto A**: `2D anime background, interior of a
+   Japanese high school gym at sunset, honey wooden floor with white
+   court lines, volleyball net on the left, sliding door open with
+   orange light, tall windows, painted background, cel shading, low
+   angle, no people`. Referencia de estilo: `fondos_01.jpg` n.º 1
+   (gimnasio de Karasuno, T1-02).
+2. **El marcador** (si no se modela en Blender): `table-top flip
+   scoreboard with orange number cards on metal rings, small green
+   chalkboard on top, 2D anime prop, cel shading, white background`.
+   Referencia: `objetos_01.jpg` n.º 8.
+3. **La pizarra del concepto B**: `whiteboard with aluminum frame and
+   blue round magnets, red and black markers on the tray, blue eraser,
+   inside a wooden gym, 2D anime, cel shading`. Referencia:
+   `objetos_01.jpg` n.º 10.
+
+### 18.6 Qué imágenes subir como referencia
+
+- **De estilo**: el cartel de T1 (`personajes_01.jpg` n.º 1) y el
+  gimnasio de T1-02 (`fondos_01.jpg` n.º 1).
+- **De composición o pose**: el calendario de señas (n.º 3-9), la
+  portada del tomo 11 (Bokuto con el balón, §19 A), la pizarra del
+  tutorial (O-10).
+- **No subir**: capturas de T4 (filtro cálido), fan art con IA de
+  DeviantArt (§4.3) ni el cartel del teatro (§3.3).
+- Firefly y Canva cambian sus opciones a menudo: **no comprobé** hoy qué
+  permite cada una con imágenes de referencia ⚠️.
 
 ## 19 · Tres conceptos de lámina
 

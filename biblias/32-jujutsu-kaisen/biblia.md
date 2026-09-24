@@ -15,11 +15,12 @@ fecha: 2026-09-24
 > con `herramientas/fotogramas.py` (§12.0), comprobó en ellos los
 > minutos del primero, añadió lo nuevo (la caja de diálogo del modo
 > historia de *Cursed Clash*, el lobby en línea, la pantalla en blanco
-> de Gojo) y escribió §0, §1, §14, §18-§21 y `referencias.json`.
-> YouTube no deja bajar vídeos ni subtítulos desde este contenedor
-> («confirma que no eres un bot»): los vídeos se miraron en copias de
-> **Dailymotion** del mismo montaje. Minutos de episodio: subtítulos
-> japoneses con tiempos (±5 s).
+> de Gojo, las poses de Sukuna y Panda, las muestras de voz latinas de
+> Doblaje Wiki pasadas por Whisper) y escribió §0, §1, §14, §18-§21 y
+> `referencias.json`. YouTube no deja bajar vídeos ni subtítulos desde
+> este contenedor («confirma que no eres un bot»): los vídeos se
+> miraron en copias de **Dailymotion** del mismo montaje, a 512×288.
+> Minutos de episodio: subtítulos japoneses con tiempos (±5 s).
 
 ## Índice
 
@@ -862,6 +863,14 @@ Fuente A = Doblaje Wiki (API). Fuente B = otra, dicha en la tabla.
 | **Rika Orimoto** | **Itzel Mendoza** | Kana Hanazawa | Somos Kudasai, Hero Network |
 | **Naoya Zenin** (T3) | **José Luis García** | Kōji Yusa | Hero Network, Chirchi |
 
+**Tercera fuente** (2.º ayudante): [ANMTV, elenco de JJK0](https://www.anmtvla.com/2022/03/jujutsu-kaisen-0-conoce-el-elenco.html)
+(mar-2022) confirma **Gojo (José Vilchis), Yuta (Diego Ramora), Rika
+(Itzel Mendoza), Inumaki (Ángel Rodríguez), Panda (Roberto Cuevas) y
+Geto (Christian Strempler)**, con Audiomaster Candiani, dirección de
+Patricia Acevedo y adaptación de Jaime Chaparro ✅. Para Maki escribe
+«**Anette García**», como la nota de Crunchyroll; Doblaje Wiki y Dubbing
+Database dicen «Anette Ugalde» ⚠️.
+
 **Cambios de voz que el fandom comenta** ✅ (Doblaje Wiki):
 - **Sukuna**: tras la muerte de Osvaldo Trejo, la voz nueva se eligió
   **con sugerencias de los fans en redes**, que llegaron al director.
@@ -1639,24 +1648,24 @@ Inumaki.
 | Punto de `ENCARGO.md` | Estado | Por qué |
 |---|---|---|
 | 1 · Arte oficial en cantidad y variado | ✅ | la wiki entera por `investigar_serie.py` (3.367 imágenes la 1.ª vez, 3.424 al rehacer el índice); 3 hojas propias con 90 celdas numeradas; tabla #N → archivo (§3) |
-| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | minutos de los subtítulos japoneses con tiempos (§2) ✅ y 16 vídeos mirados (§12) ✅; pero los fotogramas propios son de **512×288** (Dailymotion); a 1080p sólo los de la wiki (1920×1080) |
-| 3 · Fan art, renders 3D y modelos libres | ✅ | 15 modelos de Sketchfab con licencia de la API (5 recomprobados el 24-sep, más la pantalla de proyección), 7 obras de fan art con autor, wallhaven (§4, §17) |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | minutos de los subtítulos japoneses con tiempos (§2) ✅ y 12 vídeos mirados en fotogramas (§12) ✅; pero los fotogramas propios son de **512×288** (Dailymotion); a 1080p sólo los de la wiki (1920×1080) |
+| 3 · Fan art, renders 3D y modelos libres | ✅ | 15 modelos de Sketchfab con licencia de la API (6 recomprobados el 24-sep, más la pantalla de proyección), 7 obras de fan art con autor, wallhaven (§4, §17) |
 | 4 · Fondos y sitios, paleta y texturas | ✅ | 8 sitios con luz, paleta medida con Pillow (más la de la celda, el picnic y la caja de *Cursed Clash*), texturas CC0 (§5) |
 | 5 · Tipografía y letras libres con tildes | ✅ | 10 letras probadas con fontTools; la trampa de la letra del generador de logos (tildes vacías) (§6) |
 | 6 · Cómo hablan y piensan en pantalla | ✅ | títulos de episodio, hora y lugar, técnicas verticales, pizarra, **caja del modo historia de *Cursed Clash*** (nueva), tabla de Panda (§7) |
 | 7 · Personajes y encuestas | ✅ | las 4 encuestas oficiales; la 4.ª en dos fuentes (§9) |
 | 8 · Doblaje latino: reparto en dos fuentes y frases | ✅ reparto / ⚠️ frases | 18 voces en dos fuentes; frases textuales de 3 vías (subtítulos automáticos, Whisper sobre muestras de Doblaje Wiki, 3DJuegos). Sin clips oficiales de YouTube (bloqueado) (§10) |
 | 9 · Música | ✅ | los 10 temas de las 3 temporadas y JJK0 (comprobados en la wiki), canciones internas (§11) |
-| 10 · Vídeos con minuto exacto | ✅ | 16 vídeos con enlace y minuto (`?start=`), 10 re-mirados el 24-sep con hojas numeradas (§12) |
+| 10 · Vídeos con minuto exacto | ✅ | 14 vídeos con enlace y minuto (`?start=` o `&t=`); 10 mirados de nuevo el 24-sep con hojas numeradas, 9 útiles (§12) |
 | 11 · Videojuegos: interfaz y cajas | ✅ | *Cursed Clash*: pizarra, HUD hexagonal, lobby, frases rápidas y **caja del modo historia** (vistos y medidos); *Phantom Parade*: sólo arte ⚠️ (§13) |
 | 12 · Lo que ama el fandom y qué NO hacer | ✅ | 13 memes con minuto y fuente, 11 «no hacer» (§14) |
-| 13 · Descripción profunda de cada personaje | ✅ | 14 personajes y 4 de apoyo, con cómo hablan y su minuto (§8) |
+| 13 · Descripción profunda de cada personaje | ✅ | 12 personajes y 4 de apoyo, con cómo hablan y su minuto (§8) |
 | 14 · Poses analizadas (6-10 por personaje) | ✅ | Gojo 13, Inumaki 10, Yuji 8, Sukuna 8, Panda 8, Nanami 7, Megumi 6, Nobara 6; Todo 5 ⚠️ (§15) |
 | 15 · Vestuario con hex | ✅ | 10 personajes, colores medidos donde se pudo (§16) |
 | 16 · Paisajes y fondos de pantalla | ✅ | sitios con hora y luz; 8 fondos de fans en alta con autor y tamaño (§17) |
 | 17 · Guía para IA | ✅ | rasgos fijos, estilo, palabras que ayudan y que estropean, referencias con enlace, encuadre (§18) |
 | 3 conceptos de lámina | ✅ | §19: A y B para ➕ CREAR SALA, C para 🍟 General; objeto, personaje, cuadro, textos y profundidad |
-| 40 fuentes distintas | ✅ | 47 en la bitácora (§21.4) |
+| 40 fuentes distintas | ✅ | 46 en la bitácora (§21.4) |
 | Tipos: oficiales | ⚠️ | tráileres y clips oficiales (en copias), Steam, web de la Jump ✅; **web oficial 403** y sin entrevistas del staff japonés leídas; sí una del director Sunghoo Park (en coreano) |
 | Tipos: otros idiomas | ✅ | japonés (subtítulos, pixiv百科, ciatr, note, eiga-manga), coreano (Xportsnews), chino (Sohu) |
 | Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (JJK, Doblaje, Dubbing Database) y su foro ✅; TV Tropes y TCRF 403; Wayback corta el túnel |
@@ -1664,10 +1673,127 @@ Inumaki.
 | Tipos: arte (Pixiv, ArtStation, DeviantArt) | ✅ | ArtStation, X de artistas, DeviantArt (aviso de IA), pixiv百科 |
 | Tipos: vídeo | ✅ | §12 |
 | Tipos: código y recursos | ✅ | kitsunekko-mirror (GitHub), generador de logos (GitHub Pages), Sketchfab, Poly Haven, ambientCG, Google Fonts, dafont |
-| Tipos: doblaje latino | ✅ | Doblaje Wiki (API y audios), Dubbing Database, Cine Premiere, Somos Kudasai, Hero Network, Chirchi, Cultura Geek, 3DJuegos LATAM |
+| Tipos: doblaje latino | ✅ | Doblaje Wiki (API y audios), Dubbing Database, **ANMTV**, Cine Premiere, Somos Kudasai, Hero Network, Chirchi, Cultura Geek, 3DJuegos LATAM |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,80 MB, `fondos_objetos_01.jpg` 0,70 MB, `pantalla_y_letras_01.jpg` 0,78 MB (2400×1780 cada una) |
 | `referencias.json` (20-40, medidos, url = imagen) | ✅ | 37 entradas: 28 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 9 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe) |
 
 ## 21 · Bitácora de búsqueda
 
-(pendiente)
+**Aviso**: el registro de búsquedas del 1.er ayudante **se perdió** con
+su carpeta de trabajo. Lo que sigue es: (a) lo que hizo el 2.º ayudante,
+paso a paso, y (b) las fuentes que el 1.º **dejó citadas** en la biblia.
+
+### 21.1 Red (24-sep-2026)
+
+- **Funcionó**: Jujutsu Kaisen Wiki y Doblaje Wiki (API, también los
+  audios), Dailymotion (API y vídeos, sólo a 512×288), GitHub (clon
+  parcial), Sketchfab (API), Arctic Shift (a ratos), archive.org (sólo la
+  API de disponibilidad), ANMTV, 3DJuegos, Xportsnews.
+- **Bloqueado**: YouTube («Sign in to confirm you're not a bot»);
+  `jujutsukaisen.jp` (403, Cloudflare, con `curl` y con el lector web);
+  `web.archive.org` (el túnel se corta, dos intentos); TV Tropes (403);
+  Arctic Shift con búsquedas de frase («Timeout. Maybe slow down a bit»,
+  varias veces). Del 1.º: The Cutting Room Floor (403).
+- **Un error mío**: al parar mi primera tanda de vídeos usé `pkill -f
+  fotogramas.py`, que pudo cortar descargas de otros ayudantes que
+  corrían a la vez. Si a alguno le faltó una hoja, fue por eso.
+
+### 21.2 Búsquedas web del 2.º ayudante (7 del cupo de 50)
+
+| # | Idioma | Búsqueda | Qué dio |
+|---|---|---|---|
+| 1 | en | Jujutsu Kaisen memes explained "Nah, I'd win" "Stand proud" "with this treasure i summon" | Sportskeeda (dos artículos), foro de la wiki |
+| 2 | es | Jujutsu Kaisen "gallo" Itadori doblaje latino meme | 3DJuegos LATAM (frase textual), Facebook, TikTok |
+| 3 | ja | 呪術廻戦 ミーム 「ナー、勝つさ」 五条 流行語 | pixiv百科「勝つさ」, ciatr, mynavi |
+| 4 | ja | 呪術廻戦 御所園翔太 監督 インタビュー 渋谷事変 演出 | la página de entrevistas de la web oficial (403), Natalie, Real Sound |
+| 5 | ko | 주술회전 박성후 감독 인터뷰 | Xportsnews, Daum, Hanryu Times |
+| 6 | zh | 咒术回战 狗卷棘 饭团语 含义 鲑鱼 木鱼花 海带 | Sohu, 163, Zhihu, Moegirl |
+| 7 | es | ANMTV Jujutsu Kaisen doblaje latino reparto Ángel Rodríguez… | ANMTV (elenco de JJK0), Somos Kudasai, Crunchyroll News |
+| — | — | lector web: 3DJuegos, Xportsnews, ANMTV (bien); jujutsukaisen.jp (403) | — |
+
+### 21.3 Sin cupo (API, git, descargas)
+
+- `herramientas/fotogramas.py` sobre **10 vídeos** de Dailymotion (§12.0)
+  y 23 fotogramas en grande; colores con Pillow.
+- API de Dailymotion: 12 búsquedas («inumaki megaphone», «jujutsu kaisen
+  latino», «gojo domain expansion hand sign»…).
+- Jujutsu Kaisen Wiki `action=parse`: *Toge Inumaki*, *Cursed Speech*,
+  *Curtain*, *Jujutsu Kaisen*, *Jujutsu Kaisen (Anime)*, *Jujutsu Kaisen
+  0: The Movie*; *Juju Sanpo* no existe. `imageinfo` de ~55 archivos;
+  `allimages` por prefijo; el índice rehecho con las funciones de
+  `investigar_serie.py` (3.424 / 2.717).
+- Doblaje Wiki `action=parse` de la serie y `imageinfo` de **11 audios**,
+  pasados por **faster-whisper** *small* y *medium* (instalado en la
+  carpeta de trabajo y borrado después).
+- `git clone --filter=blob:none --sparse` de kitsunekko-mirror: T1
+  (Erai-raws), T2 (Judas y Erai-raws), JJK0 (Netflix); `grep` de 帳,
+  領域展開, 勝つさ, 誇れ, 布瑠部, 天上天下.
+- Sketchfab: 6 modelos por UID y 2 búsquedas (pizarra, pantalla de
+  proyección).
+- Arctic Shift: 15 consultas (la mitad con «Timeout»).
+- `yt-dlp -F` (Dailymotion: un único formato 512×288); `ffprobe`.
+
+### 21.4 Fuentes consultadas (46)
+
+**Oficiales (7)**: [Crunchyroll en Español, tráiler 1](https://www.youtube.com/watch?v=aPBUUJbrAWo) ·
+[Crunchyroll en Español, clips doblados](https://www.youtube.com/watch?v=HSZPNTXO-cw) ·
+[TOHO animation, OP y ED sin créditos](https://www.youtube.com/watch?v=v8bZVdTgXoY) ·
+[TOHO animation, PV de Shibuya](https://www.youtube.com/watch?v=PKHQuQF1S8k) ·
+Bandai Namco, tráiler «Special Lecture» de *Cursed Clash* ([copia](https://www.dailymotion.com/video/x8scngs)) ·
+[Steam](https://store.steampowered.com/app/1877020/) (3 fichas por la API) ·
+[web de la Jump, votación](https://www.shonenjump.com/j/vote_jujutsu_kaisen/).
+
+**Wikis (5)**: [Jujutsu Kaisen Wiki](https://jujutsu-kaisen.fandom.com/) ·
+[su foro](https://jujutsu-kaisen.fandom.com/f/p/4400000000000048141) ·
+[Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Jujutsu_Kaisen) ·
+[Dubbing Database](https://dubdb.fandom.com/wiki/Jujutsu_Kaisen_(Latin_American_Spanish)) ·
+[pixiv百科事典「勝つさ」](https://dic.pixiv.net/a/%E5%8B%9D%E3%81%A4%E3%81%95) (ja).
+
+**Prensa y artículos (17)**: [Cine Premiere](https://cinepremiere.com.mx/crunchyroll-doblajes-jujutsu-kaisen-otono-2020.html) ·
+[Somos Kudasai](https://somoskudasai.com/noticias/la-pelicula-jujutsu-kaisen-0-revela-su-elenco-de-doblaje-al-espanol-latino/) ·
+[Hero Network](https://www.beahero.gg/jujutsu-kaisen-temporada-3-doblaje-latino-llega-a-crunchyroll/) ·
+[Chirchi](https://www.chirchi.com/tercera-temporada-jujutsu-kaisen-doblaje-latino/) ·
+[Anime Argentina](https://animeargentina.net/gabriel-basurto-doblaje/) ·
+[Cultura Geek](https://culturageek.com.ar/jujutsu-kaisen-termino-la-primer-temporada-y-sus-actores-de-doblaje-en-espanol-latino-nos-cuentan-sus-secretos/) ·
+[ANMTV](https://www.anmtvla.com/2022/03/jujutsu-kaisen-0-conoce-el-elenco.html) ·
+[3DJuegos LATAM](https://www.3djuegos.lat/anime/doblaje-jujutsu-kaisen-hizo-canon-meme-popular-fandom-mexico-gallo-itadori-realidad) ·
+[Sportskeeda](https://www.sportskeeda.com/anime/stand-proud-strong-sukuna-s-famous-quote-jujutsu-kaisen-explained) ·
+[ciatr](https://ciatr.jp/topics/326274) (ja) ·
+[eiga-manga.com](https://eiga-manga.com/entry/jujutsu-popularity-vote4) (ja) ·
+[hadashinoarukikata](https://hadashinoarukikata.com/entry/2024/10/20/220156) (ja) ·
+[note, «しじみ»](https://note.com/shijimiota/n/n8a524b4ddbb5) (ja) ·
+[いいフォント](https://goodfreefonts.com/3116/) (ja) ·
+[Xportsnews](https://www.xportsnews.com/article/1540502) (ko) ·
+[Sohu](https://www.sohu.com/a/452092226_532686) (zh) ·
+Sensacine México (la copia del tráiler 1, [x88ah25](https://www.dailymotion.com/video/x88ah25)).
+
+**Comunidad (2)**: [Reddit r/JuJutsuKaisen por Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=JuJutsuKaisen&title=nanami%20overtime) ·
+DeviantArt (búsqueda del 1.er ayudante; sobre todo IA).
+
+**Arte (3)**: [ArtStation](https://www.artstation.com/artwork/YG8gBq) (4 obras) ·
+X/Twitter de artistas ([dazu_sugar__](https://twitter.com/dazu_sugar__), [KyeZzzz](https://x.com/KyeZzzz/status/1973791228320952556)…) ·
+[wallhaven](https://wallhaven.cc/search?q=jujutsu%20kaisen&sorting=favorites).
+
+**Vídeo (4)**: [Dailymotion](https://www.dailymotion.com/video/x84iff2) (12 vídeos mirados) ·
+[YouTube](https://www.youtube.com/watch?v=obN-3JaQVO8) (metadatos y tendencias) ·
+Tomatazos (la copia del tráiler de JJK0, [x8x3x96](https://www.dailymotion.com/video/x8x3x96)) ·
+[Crunchyroll VIVO, entrevista al elenco](https://www.youtube.com/watch?v=IjONEwQpsMU) (sólo la ficha).
+
+**Código, 3D y texturas (8)**: [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror) ·
+[JujutsuKaisenLogoGenerator](https://h0tcat.github.io/JujutsuKaisenLogoGenerator/) ·
+[Sketchfab](https://sketchfab.com/) · [Poly Haven](https://polyhaven.com/textures) ·
+[ambientCG](https://ambientcg.com/list?q=paper) · Google Fonts ·
+[dafont](https://www.dafont.com/anime-ace-bb.font) · archive.org (API de disponibilidad).
+
+### 21.5 Lo que NO encontré
+
+- **Clips oficiales doblados de Inumaki y de Todo** en un sitio que
+  cargue desde aquí (YouTube bloqueado).
+- **La web oficial** y sus entrevistas (403) ni una copia en la Wayback.
+- **The Cutting Room Floor** y **TV Tropes** (403).
+- **Una encuesta latina** de popularidad.
+- **La caja de diálogo de *Phantom Parade***.
+- **Cómo funciona el bot de ➕ CREAR SALA** en este servidor (no está en
+  el inventario).
+- **Las imágenes #139, #1085 y #1180** del 1.er ayudante por nombre de
+  archivo.
