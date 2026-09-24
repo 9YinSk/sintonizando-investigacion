@@ -542,6 +542,28 @@ Stencil, y añadí Cormorant SC e IM Fell English SC: las seis, completas.
   [ficha de biblioteca](https://glendale.iii.com/iii/encore/record/C__Rb1609224;jsessionid=FADC75AC0C303D4F463300384A387C5F?lang=eng).
   **No averigüé qué fuente usa.**
 
+### 6.1 · Una letra según cada uso (repaso corto) ✅
+
+Lo pide ahora el punto 5: una letra para **cada** uso. Faltaban cinco: globo
+normal, grito, pensamiento, onomatopeya e interfaz. Las cinco nuevas se
+bajaron de `google/fonts` y se abrieron con fontTools
+(`TTFont(f).getBestCmap()`): **traen á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü**.
+
+| Uso | Qué hay en la serie | Letra libre | Licencia | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|---|
+| **Logo o título** | dibujado a mano (arriba) | **no imitarlo**; para un título, Cinzel o Yuji Boku en cinta | OFL | ✅ |
+| **Globo normal** | rotulación en inglés de Steve Wands; su fuente no se sabe ⚠️ | **Comic Neue** ([METADATA](https://raw.githubusercontent.com/google/fonts/main/ofl/comicneue/METADATA.pb)) | OFL | ✅ |
+| **Grito** | mayúsculas gruesas dibujadas en el manga | **Bangers** ([METADATA](https://raw.githubusercontent.com/google/fonts/main/ofl/bangers/METADATA.pb)) | OFL | ✅ |
+| **Pensamiento** | **Jun 34 de Morisawa** (gótica redondeada, de pago), según una respuesta aceptada en [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12276462092) ⚠️ una fuente | **Zen Maru Gothic** ([METADATA](https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/METADATA.pb)). Kosugi Maru, la prima libre más parecida, **no trae** tildes, ñ, ¿ ni ¡: descartada | OFL | ✅ |
+| **Onomatopeya** | katakana grande dibujada; Isayama las llena de juegos de palabras ([ANN](https://www.animenewsnetwork.com/interest/2019-09-21/attack-on-titan-japanese-sound-effects-are-full-of-goofy-puns/.151195) · [estudio de las 99 del tomo 1, JLA/UGM](https://journal.ugm.ac.id/jla/article/view/92270)) | **Bungee** ([METADATA](https://raw.githubusercontent.com/google/fonts/main/ofl/bungee/METADATA.pb)) | OFL | ✅ |
+| **Cartel del mundo** | ficha «Información pública» (mincho); sentencias del tribunal | **Shippori Mincho B1**; **IM Fell English** (tabla de arriba) | OFL | ✅ |
+| **Interfaz de juego** | menús de *AoT 3*: sans humanista cursiva, blanco roto (§12) | **Jost Italic** (`Jost-Italic[wght].ttf`, [METADATA](https://raw.githubusercontent.com/google/fonts/main/ofl/jost/METADATA.pb)) | OFL | ✅ |
+| **Subtítulos o créditos** | serif romana de mayúsculas espaciadas (tráiler latino) | **Cinzel**; **Cormorant Garamond** para texto largo | OFL | ✅ |
+
+- **Pensamiento sin globo**: en el manga el monólogo va suelto, pegado al
+  fondo, sin bocadillo ⚠️ (un solo hilo de foro; ninguna fuente oficial).
+- Datos de `partes/texto.md` (investigador de texto, 24-sep-2026).
+
 ---
 
 ## 7 · Cómo hablan en pantalla (amplía la guía de cuadros)
@@ -924,6 +946,42 @@ amamos» con Gabriel Basurto). **No las pude abrir** (YouTube bloqueado).
 - **Para el tono de las láminas**: «Shinzou wo Sasageyo» es el lema del saludo.
   Lámina 3.
 
+### 10.1 · Qué suena en las escenas que hacen llorar, y los sonidos que todos reconocen (repaso corto)
+
+**El tema de las despedidas: «Call of Silence»** (Hiroyuki Sawano, voz de
+Gemie; OST de la T2, disco 1, pista 5) ✅
+([Fandom, «Call of Silence»](https://attackontitan.fandom.com/wiki/Call_of_Silence),
+con su lista de apariciones · [Spotify](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM)).
+La wiki dice que es un *remix* de «eye-water» con el puente de «Call your name».
+
+| Escena | Tema | Fuente |
+|---|---|---|
+| Carga suicida de Erwin (ep. 54) | «**APETITAN**» | ✅ [Fandom, «Hero»](https://attackontitan.fandom.com/wiki/Hero_(Episode)) |
+| Floch trae a Erwin moribundo y hay que elegir (**ep. 55**) | «**Call of Silence**» | ✅ página de la canción |
+| Mikasa besa la cabeza de Eren (**ep. 93**) | «**Call of Silence**», otra vez | ✅ página de la canción |
+| Gabi dispara a Sasha (**ep. 67**) | «**Nightmare**»; luego dos pistas sin título (`進撃vc-pf20130218巨人`, `進撃vn-pf20130524巨人`) mientras se desangra | ✅ [Fandom, «Assassin's Bullet»](https://attackontitan.fandom.com/wiki/Assassin%27s_Bullet_(Episode)) |
+
+- **La idea útil**: la misma pieza marca **dejar ir a alguien** en dos
+  despedidas separadas por años (Erwin y Mikasa). Minutos en el Punto 21.
+- **Sonidos que el fandom reconoce al instante** (hilo de sonidos icónicos de
+  r/ShingekiNoKyojin, por Arctic Shift:
+  [1u0dj12](https://www.reddit.com/r/ShingekiNoKyojin/comments/1u0dj12/)):
+  - el coro **«Sasageyo, sasageyo, shinzou wo sasageyo!»** del OP de la T2
+    (3 votos) ⚠️ un comentario;
+  - el grito **«KEEEENNNYYY»** (Kenny Ackerman; 6 votos) ⚠️ un comentario;
+  - la letra alemana del OP 1, **«Seid ihr das Essen? Nein, wir sind die
+    Jäger!»** («¿Son ustedes la comida? No, somos los cazadores»), que medio
+    mundo oye mal («Sie sind das Essen…» y parodias en inglés) ✅ (letra
+    oficial del folleto del CD en [Fandom](https://attackontitan.fandom.com/wiki/Feuerroter_Pfeil_und_Bogen)
+    + el mismo hilo, 9 votos). No encontré la versión hispana del chiste.
+- **El disparo**: los subtítulos japoneses de Netflix (`ja[cc]`) marcan
+  el sonido en el ep. 67: **13:26 銃声** (disparo) y **13:27 着弾音**
+  (impacto) (espejo de kitsunekko, ver Punto 21).
+- **Equipo de maniobras** (gancho y chorro de gas) y **vapor** de un titán al
+  morir: todo el mundo los cita, pero **no encontré una ficha oficial que los
+  nombre** ⚠️. No inventar un nombre técnico.
+- **Onomatopeyas del manga**: katakana con juegos de palabras (§6.1).
+
 ---
 
 ## 11 · Vídeos útiles
@@ -1174,6 +1232,78 @@ diálogo; las 5 de *AoT 2* en Steam (app 601050), igual. Ahí sí enseñan que
   [namu.wiki (EN)](https://en.namu.wiki/w/%ED%82%A4%EC%8A%A4%20%EC%83%A4%EB%94%94%EC%8A%A4)).
 - **Darius Zackly**, el juez del ep. 14: el que dicta sentencia
   ([Fandom](https://attackontitan.fandom.com/wiki/Can%27t_Look_into_His_Eyes_Yet:_Eve_of_the_Counterattack,_Part_1)).
+
+### 14.1 · Qué transmite cada uno (repaso corto)
+
+- **Levi**: control total, aunque no lo tenga. Su cara casi no cambia ni en
+  peligro; por eso, cuando se le quiebra la voz (con Erwin, ep. 55 ·
+  21:31-21:47), pesa el doble. Manda porque sabe, no porque quiera el puesto:
+  **no se ve como un líder igual que Erwin** ✅ [Fandom, Personality](https://attackontitan.fandom.com/wiki/Levi_Ackerman#Personality).
+  Verlo da **seguridad** y un poco de miedo.
+- **Erwin**: la calma de quien ya decidió que su vida es un precio. La misma
+  cara fría (P·6) con la que manda a morir a los suyos… hasta la agonía del
+  ep. 55, donde vuelve a ser un niño que levanta la mano. Deja **respeto y
+  tristeza**.
+- **Hange**: la única alegría de verdad del grupo. Curiosidad sin filtro
+  (P·25, H1), a propósito contra la seriedad de Levi y Erwin. Deja **ganas de
+  saber más**, y alivio.
+- **Eren**: de la mirada asustada y con esperanza (ojos muy abiertos, sangre
+  en la cara) al vacío de la temporada final. La serie **mide con su cara
+  cuánto ha cambiado todo**. Deja **inquietud**.
+- **Mikasa**: una calma que le cuesta mantener. La cabaña del ep. 93 es la
+  única vez que se la ve relajada de verdad: la cara que nunca pudo tener.
+  Deja **ternura y pena**.
+- Fuente: `partes/voz.md` (lectura del investigador sobre la wiki y los
+  fotogramas que miró) ⚠️ interpretación, no cita oficial, salvo lo enlazado.
+
+### 14.2 · Su cara en cada emoción (fotograma y minuto)
+
+Cruza lo que miró el investigador de voz (4 fotogramas nuevos de la wiki,
+1920×1080 o más, tamaño por API) con las hojas P· y las poses de §15. El
+minuto sale de los subtítulos japoneses de Netflix (Punto 21).
+
+| | Alegría | Rabia | Tristeza | Miedo | Vergüenza o guardia baja |
+|---|---|---|---|---|---|
+| **Levi** | P·19, sonrisa pequeña (casi única) | P·12 · ep. 14 · 18:33, la patada: rabia **fría**, sin gritar | P·17, último saludo (T4, vendado) | **No encontré** ninguno: casi no muestra emociones | P·16, escucha con la mirada baja; ep. 55 · 21:31-21:47 le habla al cadáver de Erwin (sin fotograma ⚠️) |
+| **Erwin** | **No encontré** alegría plena (una media sonrisa en el ep. 16, sin fotograma ⚠️) | P·21 y P·23 gritan; P·22 · ep. 53 · 21:51, la carga | [`Erwin_asks_a_question.png`](https://static.wikia.nocookie.net/shingekinokyojin/images/e/e0/Erwin_asks_a_question.png) · ep. 55 · 19:08-19:20: delira, levanta la mano, mirada perdida | P·22, boca y ojos muy abiertos: miedo contenido ⚠️ (lectura) | la misma del ep. 55: el único momento vulnerable de su arco |
+| **Hange** | H1 (eps. 14-16), gafas que brillan y sonrisa de oreja a oreja; P·25 | **No encontré** rabia pura; H6 (T3 parte 2) grita la orden: determinación ⚠️ | llora por Bean (texto, §14); sin fotograma ⚠️ | **No encontré** | P·26, entusiasmo torpe con la lanza rayo; H2, se arrima a Levi, que mira a otro lado harto |
+| **Eren** | **No encontré** alegría plena ⚠️ | R3 · ep. 1, niño, de espaldas, **puños apretados** ante dos soldados; R2 llora de rabia (en la hoja de poses, sin enlace ⚠️) | [`Eren_hears_Armin_breathe.png`](https://static.wikia.nocookie.net/shingekinokyojin/images/d/d0/Eren_hears_Armin_breathe.png): ojos muy abiertos, sangre en la mejilla (episodio no anotado ⚠️) | la misma: miedo y esperanza a la vez | R6 · ep. 3, **cabeza abajo** en el aparato de equilibrio delante de toda la promoción |
+| **Mikasa** | [`Mikasa_sees_a_reality…png`](https://static.wikia.nocookie.net/shingekinokyojin/images/c/cc/Mikasa_sees_a_reality_where_she_and_Eren_remained_together.png) · ep. 93 · 16:39-17:03: sentada, tranquila, la única vez | M3 (eps. 14-16, tras la patada): **ojos en sombra**, boca recta, bufanda subida; M2, fastidio de reojo | P·29, se toca la bufanda y sonríe con lágrimas; ep. 93 · 17:25-17:29 «Perdón… no puedo» | **No encontré** | [`Mikasa_and_Armin_watch_Sasha_pass_away.png`](https://static.wikia.nocookie.net/shingekinokyojin/images/3/39/Mikasa_and_Armin_watch_Sasha_pass_away.png) (1920×2142) · ep. 67 · 14:24-14:37: **de espaldas, la cara oculta**, así esconde el dolor |
+
+- **Lo que dice la tabla**: Levi, Erwin, Eren y Mikasa **casi nunca sonríen
+  ni se avergüenzan en pantalla**. Para #reglas, la cara seria es la buena;
+  nunca «sonriendo mucho» salvo Hange (va también a §18).
+- Corregido de la parte de voz: la cara de Hange no es P·9 (P·9 es Zackly) y
+  la rabia de Eren no es E·12 (E·12 es la hoja en la mesa). La rabia de
+  Mikasa **sí tiene fotograma** (M3), aunque la parte decía que no.
+
+### 14.3 · Dinámicas (para láminas en grupo)
+
+- **Levi ↔ Erwin**: hablan **de tú a tú**, con pullas; Levi le habla mal
+  hasta a él, pero **es el único al que obedece sin dudar** ✅
+  [Fandom, Relationships de Levi](https://attackontitan.fandom.com/wiki/Levi_Ackerman#Relationships).
+  Al final Levi decide por él que ya puede descansar (ep. 55).
+- **Levi ↔ Hange**: confianza de años. Levi cree en sus teorías aunque no le
+  gusten, y la frena cuando se emociona de más ✅ (misma fuente). Hange dijo
+  que con quien mejor se llevaba era con Levi ✅ ([Fandom, Trivia de Hange](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB#Trivia),
+  *Bessatsu Shōnen*, abr-2016). Gag: Levi la bañaba a la fuerza cuando iba
+  demasiado sucia ⚠️ una fuente. Pose: H2.
+- **Levi ↔ Mikasa**: **empiezan mal**. Ella le guarda rencor por la patada del
+  juicio (M3) y jura hacérselo pagar; tras la muerte del Escuadrón Levi,
+  confía en él ✅ (Relationships de Levi). Sirve para «de la desconfianza a
+  respetar las reglas». **Es con quien discute Mikasa.**
+- **Levi → Armin**: mentor callado. Lo sostiene cuando duda (tras matar a un
+  soldado para salvar a Jean) y le dice que tiene «poderes y habilidades que
+  nadie más tiene» ✅ (misma fuente).
+- **Erwin ↔ Nile**: de la misma promoción; iban a entrar juntos en la Legión,
+  pero Nile se enamoró de Marie y se fue a la Policía Militar. Distanciados,
+  con confianza de fondo: Erwin le avisa antes del golpe de estado ✅
+  [Fandom, Relationships de Erwin](https://attackontitan.fandom.com/wiki/Erwin_Smith#Relationships).
+- **Mikasa ↔ Eren**: la bufanda. Él le pide, en la cabaña, que la tire y lo
+  olvide; ella no puede (ep. 93, Punto 21).
+- **Quién los hace reír**: casi nadie; es un grupo serio por diseño. Dentro
+  de los cinco, sólo **Hange** (torpeza con entusiasmo, P·26); fuera, **Sasha**
+  (la patata, P·27).
 
 ---
 
