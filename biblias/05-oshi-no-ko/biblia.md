@@ -102,7 +102,7 @@ fecha: 2026-09-24
   que eran páginas (y 3 vídeos sin minuto); ahora **40**, todas la imagen misma o el vídeo con
   `&t=`, **34 con ancho y alto medidos** (las 6 de vídeo no se pueden
   medir: sólo hay *storyboard* de 320×180).
-- **Minutos y `&t=`** de opening, ending, tráiler y 6 clips (§4.1), y de
+- **Minutos y `&t=`** de opening, ending, tráiler y 6 clips (§4.1, §15), y de
   7 vídeos oficiales más en la segunda tanda (§10, §14).
 - **Reparto latino completo** con dos o tres fuentes (Doblaje Wiki,
   ANMTV, API de noticias de Crunchyroll) y el staff (adaptación, mezcla,
@@ -115,8 +115,8 @@ fecha: 2026-09-24
   letras más** comprobadas con fontTools (§7).
 - Tabla **«Cumplimiento del encargo»** (antes de la bitácora).
 
-**Marcas de duda (⚠️):** había **52**; quedan **QUEDAN_TOTAL**, contadas
-con `grep` (QUEDAN_DATOS son datos dudosos; el resto son la leyenda,
+**Marcas de duda (⚠️):** había **52**; quedan **29**, contadas
+con `grep` (23 son datos dudosos; el resto son la leyenda,
 este resumen y la tabla de cumplimiento). El porqué de cada una va a su
 lado y resumido en §19.
 
@@ -409,7 +409,7 @@ Enlace directo a cada una:
 exacto entre las **2963 imágenes de la wiki** (API, `list=allimages`):
 ninguna coincide. 4kwallpapers tiene la de B小町 en **4096×2883** (el
 tamaño de `bg4`) y la de Ai en **5263×3206**, pero **no nombra autor ni
-fuente**. Por eso siguen con ⚠️: estilo oficial, origen sin probar.
+fuente**. Por eso siguen marcadas como dudosas: estilo oficial, origen sin probar.
 Para dibujar, mejor las oficiales de §3.0.
 
 **Ai en el escenario** (key visual con micro, guiño y dedo apuntando a
@@ -483,7 +483,7 @@ no el doblaje latino.
 | 2 | 02:12–02:34 | Ruby espera el resultado de su **audición de idol** | «このオーディションを2年も待ち続けてきた» | #castings |
 | 3 | 16:34–16:57 | **Kana explica cómo se rueda un drama** (ensayo, cámara, pasada) | «ドラマってのは…» | Kana explicando |
 | 5 | 08:09 | **MEM-cho se presenta**: «¡Soy MEM-cho, de 3.º! Transmito en YouTube» | «高3のMEMちょです。ユーチューブで配信してます！» | **#redes** |
-| 6 | todo | Acoso en redes a Akane | — | ⚠️ **no usar** (punto 16) |
+| 6 | todo | Acoso en redes a Akane | — | 🚫 **no usar** (punto 16) |
 | 7 | 11:14–11:30 | **MEM-cho: «Soy una profesional de hacer virales»** | «何曜日の何時にアップするのが一番リツイート数稼げて…バズらせのプロなんだけどぉ？» | **#redes** (la frase clave) |
 | 7 | 16:23 | El vídeo de Aqua llega a 74.000 retuits en 24 horas | «7万4,000リツイートを達成» | #redes |
 | 8 | 02:09–02:20 | Akane vuelve **imitando a Ai**; Aqua la mira como a un fantasma | «あかね～！おかえり！» | Akane |
@@ -612,6 +612,18 @@ Buena idea de objeto con capas, pero es de fans.
   [B小町, 4kwallpapers](https://4kwallpapers.com/anime/oshi-no-ko-b-25258.html) (4096×2883),
   [Alpha Coders, 420+](https://alphacoders.com/oshi-no-ko-wallpapers).
 
+**Fondos de pantalla en alta, con tamaño y autor (segunda pasada)**
+
+| Fondo | Tamaño | Autor · fuente | Tipo |
+|---|---|---|---|
+| [Póster Newtype 2023-08, B小町](https://static.wikia.nocookie.net/oshi_no_ko/images/2/27/Newtype_2023_08_Poster.jpg) | 6080×4097 | revista Newtype (API de la wiki) | oficial |
+| [Akane, Año Nuevo 2025](https://static.wikia.nocookie.net/oshi_no_ko/images/d/d9/Akane_New_Year_2025.png) | 4096×2906 | canal oficial (API de la wiki) | oficial |
+| [Key visual 1 de la T1, Ai de espaldas](https://static.wikia.nocookie.net/oshi_no_ko/images/5/5f/Season_1_Key_Visual.png) | 2500×3535 (vertical) | comité de producción (API de la wiki) | oficial |
+| [Key visual T1 de Crunchyroll](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg) | 1000×1415 (vertical) | Crunchyroll Latinoamérica (medido) | oficial |
+| [Kana, «あんたの推しの子になってやる！»](https://www.pixiv.net/en/artworks/109531606) | 4093×2774 | **62KI**, Pixiv, 2-jul-2023 (medido) | fan art |
+| [B小町, 4kwallpapers](https://4kwallpapers.com/anime/oshi-no-ko-b-25258.html) | 4096×2883 | **sin autor** en la página | desconocido |
+| [Ai, 4kwallpapers](https://4kwallpapers.com/anime/ai-hoshino-oshi-no-16193.html) | 5263×3206 | **sin autor** en la página | desconocido |
+
 ---
 
 ## 6 · Sitios, luz, paleta y texturas
@@ -633,6 +645,7 @@ Buena idea de objeto con capas, pero es de fans.
 | **Sala de ensayo de Lalalai** | T2 (O·24) | nave grande, luz blanca | #castings ✅ |
 | **Instituto Yōtō** por fuera | T1-T2 (O·25) | día claro, edificio beige | secundario ✅ |
 | **Escenario al aire libre del Japan Idol Festival** | ep. 11 (V·15) | noche azul `#1E2F7D`→`#465EB9`, torres de focos, ciudad detrás, mar de barras amarillas | #en-directo ✅ |
+| **Cabina de doblaje real** (grabación de la T3) | visita oficial al estudio ([1:44](https://www.youtube.com/watch?v=izzRjaUZig4&t=104)) | interior, luz cálida; listones de madera `#9A6B4B`, paneles oscuros `#41383C`, micro de condensador | **#castings** ✅ (2.ª tanda) |
 
 ### 6.2 · Paleta medida
 Medida con Pillow (mediana de cada zona, **±10 por canal** porque las
@@ -688,6 +701,9 @@ ficha de B-Komachi; ninguna le asigna color).
 | Pelo de **Ai** (render) | índigo `#31266A`/`#452872`, sombra `#211C52`, mecha rosa `#AF7794` | P·4 |
 | Traje idol de Ai (render) | carmesí `#D32650`, lazo `#441544`, blanco `#EFDEE7` | P·4 |
 | Pelo de **Gotanda** · su chaqueta | castaño `#794B56`/`#543541` · azul noche `#2E3150` | P·24 |
+| **Magenta del key visual T1** (fondo con destellos) · jersey de MEM · guion de Kana | `#E30182`/`#E60182` (casi el `#E70082` de la «の» del logo) · verde menta `#BEE69D` · lila `#E485F1` | key visual de Crunchyroll, 1000×1415 (2.ª tanda) |
+| «Mensaje especial» de Akane: fondo · marco | lila `#E5C5EC`/`#DDBDE4` · violeta `#9D58A9` | *storyboard* de [L-ZNenzreyU](https://www.youtube.com/watch?v=L-ZNenzreyU&t=1) (2.ª tanda) |
+| Estudio de doblaje real: listones de madera · paneles · cartela rosa | `#9A6B4B` (sombra `#5D331A`) · `#41383C` · `#F8D8DD` y `#FDF2F5` | *storyboard* de [izzRjaUZig4](https://www.youtube.com/watch?v=izzRjaUZig4&t=104) (2.ª tanda) |
 
 **Ojo con los tonos:** bajo los focos (bg19, ep. 11) el pelo de Kana
 sale rojo vivo (`#E2102F`) y el de MEM, limón (`#FEE63E`); en los
@@ -736,8 +752,12 @@ lenticulares 【 】** ([Wikipedia, archivo del logo](https://ja.wikipedia.org/w
 **El nombre de la letra oficial sigue sin aparecer** ⚠️. Hay una guía japonesa
 de letras que combinan con la serie ([DesignPocket #093](https://designpocket.jp/static/font/fontguide/093.html))
 y una letra gratis hecha por fans, «推しゴ», pensada para abanicos y
-carteles de idol ([ffont](https://ffont.jp/oshigo/), [BOOTH](https://booth.pm/ja/items/5635169));
-de esa no sé si trae ñ ⚠️.
+carteles de idol ([ffont](https://ffont.jp/oshigo/), [BOOTH](https://booth.pm/ja/items/5635169)).
+Gratis y con uso comercial, de «アトリエこたつ». Su ficha de BOOTH dice
+que trae **hiragana, katakana, letras y números, símbolos, 121 kanji y
+32 iconos para abanicos**; no nombra tildes ni ñ. No la pude abrir con
+fontTools: **BOOTH pide iniciar sesión para bajarla** ⚠️. Si se usa,
+sólo para palabras sin tildes (ON AIR, B小町).
 
 **Letras libres comprobadas.** Se bajó cada archivo de Google Fonts y se
 miró su tabla de caracteres con fontTools
@@ -792,6 +812,10 @@ y la **pantalla**: todo es actuación y todo pasa por un dispositivo.
    Ruby ✅ ([Attack of the Fanboy](https://attackofthefanboy.com/anime/oshi-no-ko-why-do-some-characters-eyes-have-bright-dark-stars/),
    [Game Rant](https://gamerant.com/oshi-no-ko-why-do-aqua-and-ruby-have-stars-in-their-eyes/)).
    Ai en los dos ojos; **Aqua en el derecho, Ruby en el izquierdo**.
+   Lo confirma en español **Crunchyroll News** («estrellas de seis
+   puntas», blancas o doradas = carisma; negras = la verdadera
+   naturaleza; Akane las gana cuando interpreta a Ai)
+   ([artículo, 2-abr-2026](https://www.crunchyroll.com/es/news/features/2026/4/2/significado-ojos-estrellados-oshi-no-ko)) ✅.
    **Úsala como viñeta** delante de cada paso, siempre blanca.
 3. **Voces que llegan por un aparato.** En los subtítulos japoneses de
    la emisión de TV se marcan con 📱 (teléfono) y 🖥️ (monitor): Kana habla por
@@ -851,6 +875,40 @@ y la **pantalla**: todo es actuación y todo pasa por un dispositivo.
 13. **Hitos del canal** (O·6-7): tarjeta «TVアニメ【推しの子】公式チャンネル
     **100,820** チャンネル登録者数» con MEM celebrando, y la captura del X
     oficial con **300.000** seguidores y Ai guiñando.
+14. **El «mensaje especial» de un personaje** (canal oficial, 1-may-2026,
+    [0:01-0:53](https://www.youtube.com/watch?v=L-ZNenzreyU&t=1), visto
+    por *storyboard*): Akane de medio cuerpo, quieta, sobre **fondo lila
+    `#E5C5EC` con rayas diagonales** y un **marco violeta `#9D58A9`** de
+    esquinas redondas; arriba a la derecha su nombre y «スペシャルメッセージ»;
+    abajo, **lo que dice en subtítulos blancos gruesos con borde morado**,
+    frase a frase: «みなさん こんにちは / 劇団ララライの黒川あかねです /
+    B小町の東名阪ツアーがスタートしています!» («Hola a todos, soy Akane
+    Kurokawa, de Lalalai: ¡empezó la gira de B小町!»). **Es un aviso de
+    novedades dicho por un personaje**: sirve tal cual para
+    #redes-y-novedades (alternativa al noticiero).
+15. **«推しセリフ» («la frase favorita»)**: la seiyū escribe la frase en
+    un **shikishi** (cartón blanco firmado) y lo enseña a cámara
+    ([#05, Manaka Iwami, 0:33-1:14](https://www.youtube.com/watch?v=VrIF12uKg1Y&t=33)).
+    La frase se ve antes en la escena, en blanco entre 「 」 sobre el
+    plano: «**「絶対に負けない」**» («No voy a perder»), T2 ep. 16
+    ([0:29](https://www.youtube.com/watch?v=VrIF12uKg1Y&t=29)). Según sus
+    subtítulos (0:35-0:44), **Kana y Akane lo piensan a la vez** al
+    cruzarse antes del estreno de *Tokyo Blade*: rivales que sienten lo
+    mismo. Idea para
+    #castings: la frase del papel escrita en un cartón firmado.
+16. **La visita al estudio de doblaje** («アフレコ現場を深掘れ☆ワンチャン‼»
+    n.º 6, 19-feb-2026, [0:00-14:18](https://www.youtube.com/watch?v=izzRjaUZig4)):
+    puerta «**STUDIO 1**» (0:00); **cabina** con marcos de listones de
+    madera `#9A6B4B` (sombra `#5D331A`) sobre paneles oscuros `#41383C`
+    y un **micro de condensador con araña** ([1:44](https://www.youtube.com/watch?v=izzRjaUZig4&t=104));
+    Megumi Han (Kana) cuenta su escena favorita del ep. 30 (rótulo
+    amarillo «潘さんの第三十話いち押しのワンシーン», [7:25](https://www.youtube.com/watch?v=izzRjaUZig4&t=445));
+    cartela del programa con **rayas diagonales rosa `#F8D8DD` y blanco
+    `#FDF2F5`** y un perrito con micro ([8:40](https://www.youtube.com/watch?v=izzRjaUZig4&t=520));
+    y la **sala de control con la mesa de mezclas**, con el director de
+    sonido Takeshi Takadera ([9:24](https://www.youtube.com/watch?v=izzRjaUZig4&t=564)).
+    **Es el sitio real de un casting de voz**: sirve de fondo alternativo
+    para #castings.
 
 **Estrellas:** en los **ojos**, seis puntas; en las **cartelas y la
 decoración**, cinco puntas (redondeadas). No mezclar: nada de estrella
@@ -974,6 +1032,17 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   reality sufre acoso en redes (ep. 6). Vuelve **imitando a Ai** tan
   bien que a Aqua se le hiela la cara (ep. 8, 02:09).
 - **Cómo habla:** suave, llama a Aqua «アクアくん» (ep. 8, 18:24).
+  En su «mensaje especial» oficial saluda formal y cálida: «みなさん
+  こんにちは / 劇団ララライの黒川あかねです» y anima a las demás por su
+  nombre: «かなちゃん、ルビーちゃん、メムちゃん» ([0:01-0:38](https://www.youtube.com/watch?v=L-ZNenzreyU&t=1)) ✅ (visto).
+- **Cuando actúa de Ai** le salen las **estrellas en los ojos** (P·21;
+  [Crunchyroll News](https://www.crunchyroll.com/es/news/features/2026/4/2/significado-ojos-estrellados-oshi-no-ko)) ✅.
+- **Con Kana:** rivales que se admiran. Antes del estreno de *Tokyo
+  Blade* las dos piensan a la vez «絶対に負けない» («no voy a perder»)
+  (T2 ep. 16; [推しセリフ #05](https://www.youtube.com/watch?v=VrIF12uKg1Y&t=29)) ✅ (visto).
+- **Aspecto en el arte de 2025-2026** (vídeos oficiales): media melena
+  azul marino que **degrada a verde agua en las puntas**, vestido negro
+  de volantes ([mensaje, 0:03](https://www.youtube.com/watch?v=L-ZNenzreyU&t=3)).
 - **Estatura: 163 cm**, la más alta ✅ ([web oficial](https://ichigoproduction.com/talent/kurokawa.html) + wiki).
 - **Voz:** Manaka Iwami (JA), Kristen McGuire (EN), **María García** (LAT) ✅.
 
@@ -1037,6 +1106,8 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | **V·17** · [ep. 11, 0:08](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=8) | cantando, coletitas | **los dos índices junto a la cara**, guantes rosa | boca abierta | **presentar** ✅ |
 | **O·18** (avance T2, ep. 15) | medio cuerpo | **guion en la mano izquierda** | sonrisa amplia | **#castings** ✅ |
 | **O·15** (ep. 11) | primer plano | **enseña el móvil** con un post | sorpresa | **#redes** ✅ |
+| Key visual T1 de Crunchyroll ([1000×1415](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)) | medio cuerpo, boina | **guion morado abierto** en las manos | **boca muy abierta, gritando** | **#castings, regañar** ✅ |
+| [San Valentín 2026, 0:05](https://www.youtube.com/watch?v=pZSm3lQQqok&t=5) | primer plano, lazo negro | **muerde un bombón** | ojos grandes, sorprendida | **celebrar** ✅ |
 
 ### MEM-cho
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
@@ -1052,6 +1123,7 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | **V·19** · [directo, 0:05](https://www.youtube.com/watch?v=TvIOIATbUYE&t=5) | sentada en su silla gamer | índice en la barbilla | boca abierta, saluda | **saludar, presentar** ✅ |
 | **P·13** (BD vol. 6, Hirayama) | sentada con las piernas cruzadas | manos en los tobillos | guiño, lengua fuera | **presentar** (su nombre gigante detrás) ✅ |
 | **P·14** (Mengo) | de rodillas, saltando | un brazo arriba | risa | **#redes** (insignias de verificada) ✅ |
+| Key visual T1 de Crunchyroll ([1000×1415](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)) | medio cuerpo, jersey verde | **brazo arriba con el móvil: selfie**, la otra mano junto a la cara | guiño | **#redes** (la pose del concepto A) ✅ |
 
 ### Ruby
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
@@ -1075,6 +1147,7 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | **P·2** (KV T1, oficial) | **de espaldas**, en un círculo de luz, ante un mar de barras rojas | **brazo derecho arriba, índice al cielo** | — | portada, «¡aquí estoy!» ✅ |
 | **P·3** (animador) | escorzo | **índice a cámara**, micro | sonrisa | **animar** ✅ |
 | **V·6** · [OP 0:57](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=57) | cantando en una escalera de luz | micro a la boca | alegre | **#en-directo** ✅ |
+| Fotograma del ep. 1 de Crunchyroll ([1920×1080](https://a.storyblok.com/f/178900/1920x1080/e768593236/oshi-no-ko-season-1.png)) | primer plano, sudadera blanca | **«V» junto a la cara** | **guiño con la lengua fuera**, estrella en el ojo; fondo de conejos y huellas | **saludar, bromear** (su pose más famosa) ✅ |
 
 ### Akane
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
@@ -1084,6 +1157,12 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | **P·21** (ep. 7) | primer plano | — | **estrellas en los ojos** (imita a Ai) | actriz genio ✅ |
 | **P·27** (Mengo) | medio cuerpo | **«V» sobre el ojo**, como Ai | sonrisa | imitar ✅ |
 | **P·22** (render) | de pie, vestido azul | se coge la falda | tímida | recorte ✅ |
+| [Mensaje especial, 0:03](https://www.youtube.com/watch?v=L-ZNenzreyU&t=3) (ilustración oficial, 2026) | medio cuerpo, cabeza un poco ladeada | **mano derecha en el pecho** | sonrisa suave, mirada a cámara | **presentar, saludar** ✅ |
+| [Halloween 2025, 0:07](https://www.youtube.com/watch?v=wUgdw7EQmhc&t=7) | primer plano, disfraz de bruja | — | **guiño** y mejillas rojas | **bromear, celebrar** ✅ |
+| [San Valentín 2026, 0:03](https://www.youtube.com/watch?v=pZSm3lQQqok&t=3) | primer plano, junto a Kana | **muerde un bombón** con la mano en la boca | ojos entornados | **celebrar** (con Kana, 0:09) ✅ |
+| [Año Nuevo 2025, 0:05](https://www.youtube.com/watch?v=DUdhJfJeAaQ&t=5) | sentada, kimono celeste, flor en el pelo | algo en brazos | sonrisa abierta, dentro de un círculo | **saludar** («あけましておめでとうございます», 0:10) ✅ |
+| [Día del Mar 2026, 0:07](https://www.youtube.com/watch?v=vRrwzroLO9Y&t=7) | tumbada junto a MEM, hibisco amarillo | — | sonrisa tranquila | **descansar**, cierre «HAPPY SUMMER TIME!» (0:18) ✅ |
+| Key visual T1 de Crunchyroll ([1000×1415](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)) | de tres cuartos, detrás | **móvil en la mano** | seria, de lado | **#redes** ✅ |
 
 **Aqua** (segunda pasada): **P·23** render de uniforme, mano en la nuca;
 [OP 0:18-0:22](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=18) con
@@ -1203,9 +1282,9 @@ tres, y el **vestido fucsia con el conejito** para Ai.
 | Toshirō Kindaichi (T2) | **Carlos Hernández** | DW + ANMTV | ✅ (antes dudoso) |
 | Taiki Himekawa (T2) | **Jorge Valladares** | DW + ANMTV | ✅ (antes dudoso) |
 | GOA · Norio Mita · Mei Adashino (T2) | **Dave Ramos** · **Tommy Rojas** · **Susana Cohe** | DW + ANMTV | ✅ (nuevo) |
-| Hikaru Kamiki (T2, ep. 22 y 24) | **Daniel Lacy** | DW | ⚠️ (una fuente) |
-| Pieyon | **Ángel Mota** | DW; CR sólo en voces adicionales | ⚠️ |
-| Madre de Kana | **Ellie Rojo** | DW | ⚠️ (una fuente) |
+| Hikaru Kamiki (T2, ep. 22 y 24) | **Daniel Lacy** | DW (ANMTV T2 no lo nombra; MyAnimeList no respondió) | ⚠️ (una fuente) |
+| Pieyon | **Ángel Mota** | DW; CR lo pone en «voces adicionales» de la T1 sin papel; ANMTV no lo nombra | ⚠️ (el papel, una fuente) |
+| Madre de Kana | **Ellie Rojo** | DW; CR la pone en «voces adicionales» de la T1 sin papel | ⚠️ (el papel, una fuente) |
 
 **Corrección importante.** La primera pasada decía que **Magda Giner**
 y **Gracia Comitre** eran del doblaje de España y que «no se usaran».
@@ -1222,27 +1301,49 @@ Kaede Kayano (*Assassination Classroom*) y Tsireya (*Avatar: El camino
 del agua*).
 
 ### 12.3 · Frases propias del doblaje latino (textuales)
-**Clips oficiales doblados: no hay** en el canal de Crunchyroll en
-Español (busqué en su canal: los 4 clips de Oshi no Ko son de la T3,
-de febrero-abril de 2026, antes del doblaje). Los vídeos de fans con
-audio doblado no dejaron bajar subtítulos (YouTube, error 429). Lo
-textual que sí hay sale de **Doblaje Wiki** (una fuente ⚠️, pero son
-citas literales):
-- **Gotanda a Aqua (T1, ep. 2):** «**Pero tú nunca podrás ser tu
-  mamá.**» (Doblaje Wiki lo marca como error: en japonés dice «nunca
-  podrás ser Ai».)
-- **Aqua ante Ruby y Minami (T1, ep. 4):** «**Mi favorita siempre fue y
-  siempre será Ai Hoshino.**»
+**Clips oficiales doblados: no hay.** Lo busqué de cinco maneras en la
+segunda pasada:
+- **Canal de Crunchyroll en Español** (búsqueda dentro del canal y sus
+  *shorts*, con yt-dlp): sólo hay clips de la **T3**, de febrero-abril
+  de 2026, que no tiene doblaje latino (p. ej. [«¡Akane descubrió toda
+  la verdad!», 20-mar-2026](https://www.youtube.com/watch?v=Gdigwu7pJyY)).
+- **Anuncio del elenco de Crunchyroll** (API de noticias): sólo texto
+  y dos imágenes, ningún vídeo.
+- **Doblaje Wiki**: la página no tiene muestras de audio y la búsqueda
+  de archivos no da ninguno de la serie.
+- **Subidas de fans del audio oficial** en YouTube: existen
+  ([Otaku en Linea, 16-jul-2026](https://www.youtube.com/watch?v=x3gKIAtsfLc),
+  [voz de Ai, 15-jul-2026](https://www.youtube.com/watch?v=SaEMd_pdLT8),
+  [clip, 14-jul-2026](https://www.youtube.com/watch?v=qVLvI7dBffM)),
+  pero **no tienen subtítulos** (ni automáticos) y YouTube no deja
+  bajar el audio. En X, los posts probados no tenían vídeo; TikTok da
+  error en yt-dlp.
+- **Subtítulos latinos en GitHub** («Producciones Ichigo», «Frutilla
+  Producciones», archivos .ass): nada.
+
+Lo textual que sí hay sale de **Doblaje Wiki** (una fuente ⚠️, pero son
+citas literales). El **minuto** lo saqué cruzando cada escena con los
+subtítulos japoneses de la emisión (NanakoRaws); en Crunchyroll puede
+moverse ±1 minuto:
+- **Gotanda a Aqua (T1, ep. 2 · 20:23-20:29):** «**Pero tú nunca podrás
+  ser tu mamá.**» (Doblaje Wiki lo marca como error: en japonés dice
+  «だけど お前はアイにはなれないし / アイも お前にはなれない», «pero tú no
+  puedes ser Ai, ni Ai puede ser tú».)
+- **Aqua ante Ruby y Minami (T1, ep. 4 · 19:52-19:57):** «**Mi favorita
+  siempre fue y siempre será Ai Hoshino.**» (En japonés: «俺の最推しは
+  今も昔もアイだけだし», sin el apellido.)
 - **La agencia se llama «Producciones Ichigo» en la T1 y «Frutilla
   Producciones» en la T2** (error de continuidad). Para la lámina,
   **«Producciones Ichigo»** (T1).
 - **Twitter se dice «X»** en el doblaje (el original es anterior al
   cambio de nombre). En #redes, decir «X», no «Twitter».
-- El doblaje usa **modismos y referencias de internet latinoamericanas**
-  (como *Kaguya-sama*, del mismo equipo de producción de Crunchyroll).
+- El doblaje usa **modismos y referencias de internet latinoamericanas**,
+  como su serie hermana *Kaguya-sama* (que se dobló en otro estudio,
+  VSI México, según Doblaje Wiki).
 
-Minutos exactos de estas frases: no los tengo ⚠️ (no hay subtítulos
-latinos en GitHub y no se pudo oír el audio).
+Más frases textuales del doblaje: no las hay con fuente. Para
+rotular una frase de Kana, Ruby o MEM en latino, **escucharla antes en
+Crunchyroll** (T1 y T2, con doblaje desde el 14-jul y el 4-ago-2026).
 
 ### 12.4 · Reacciones y vídeos sobre el doblaje
 - «The Latin Spanish dub of Oshi no Ko is finally here: meet the voice
@@ -1282,6 +1383,13 @@ Fuente: fichas de ANN (T1, T2, T3).
   (MEM) ([canal oficial](https://www.youtube.com/@anime_oshinoko/videos)).
   El canal publica **vídeos de práctica de «call»** (lo que grita el
   público) para la gira «B小町 Live Tour 2026» (p. ej. [«POP IN 2»](https://www.youtube.com/watch?v=FsnRIQgdFCg)).
+- **«B no Revenge» es un «falso opening»:** el director Daisuke
+  Hiramaki cuenta que en el primer episodio de la T3 quisieron
+  «engañar al público» con esa canción de B小町 montada como si fuera
+  la apertura nueva, con planos de todos los personajes
+  ([entrevista de Newtype en Crunchyroll News, 28-abr-2026](https://www.crunchyroll.com/es/news/interviews/2026/4/28/oshi-no-ko-anime-director-entrevista)) ✅
+  (y se ve en el clip oficial, V·26). El opening real de la T3 es de
+  **Ciao Nekotomi** y el ending, de **Naoya Nakayama** (misma entrevista).
 - **«45510»**: relato corto de Akasaka que sirvió de base a «Idol»; el
   número es la contraseña del blog de B小町 ([wiki](https://oshinoko.fandom.com/wiki/45510)).
   Sale en el opening, en una matrícula ([1:10](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=70)).
@@ -1305,10 +1413,36 @@ Fuente: fichas de ANN (T1, T2, T3).
 
 Canal oficial: [@anime_oshinoko](https://www.youtube.com/@anime_oshinoko)
 (496 vídeos listados con yt-dlp el 24-sep-2026).
-**Segunda pasada:** los **35 enlaces de YouTube** de esta biblia
-existen (comprobados uno a uno con el oEmbed de YouTube: título y
-canal) ✅. Los que miré fotograma a fotograma, con minuto, están en
-§4.1 y en `hojas/video_01.jpg`.
+**Segunda pasada:** los **52 enlaces de YouTube** de esta biblia
+existen (comprobados uno a uno con el oEmbed de YouTube al terminar,
+24-sep-2026) ✅. Los que miré fotograma a fotograma, con minuto, están
+en §4.1 y en `hojas/video_01.jpg`.
+
+**Mirados en la segunda tanda** (por *storyboard*, porque
+`fotogramas.py` da «Sign in to confirm you're not a bot»):
+
+| Vídeo oficial | Duración | Lo que sirve (minuto) |
+|---|---|---|
+| [Mensaje especial de Akane, gira B小町 2026](https://www.youtube.com/watch?v=L-ZNenzreyU) | 0:57 | formato «mensaje especial» con subtítulos (0:01); Akane mano en el pecho (0:03) |
+| [推しセリフ #05, Manaka Iwami](https://www.youtube.com/watch?v=VrIF12uKg1Y) | 1:23 | escena de *Tokyo Blade* con «絶対に負けない» (0:19-0:31); shikishi firmado (0:33) |
+| [Visita al estudio de doblaje n.º 6](https://www.youtube.com/watch?v=izzRjaUZig4) | 14:32 | puerta STUDIO 1 (0:00), cabina (1:44), cartela rosa (8:40), mesa de mezclas (9:24) |
+| [HAPPY HALLOWEEN 2025, Akane](https://www.youtube.com/watch?v=wUgdw7EQmhc) | 0:16 | guiño (0:07), tarjeta «Happy Halloween» (0:12) |
+| [HAPPY VALENTINES DAY 2026, Kana y Akane](https://www.youtube.com/watch?v=pZSm3lQQqok) | 0:23 | las dos con un bombón (0:03-0:19), corazón rojo (0:13) |
+| [HAPPY NEW YEAR 2025, Akane](https://www.youtube.com/watch?v=DUdhJfJeAaQ) | 0:15 | «謹賀新年» en círculo rojo (0:00); Akane en kimono (0:05) |
+| [Día del Mar 2026, Akane y MEM](https://www.youtube.com/watch?v=vRrwzroLO9Y) | 0:23 | las dos tumbadas con flores (0:02-0:14), «HAPPY SUMMER TIME!» (0:18) |
+
+Las felicitaciones de fiestas (Halloween, San Valentín, Año Nuevo,
+verano) salen **cada año** en el canal con uno a tres personajes: son
+ilustraciones oficiales con poses vivas. **La wiki guarda la imagen
+entera** (API, tamaño real): [Akane Halloween 2025](https://static.wikia.nocookie.net/oshi_no_ko/images/c/cd/Akane_Halloween_2025.png)
+(2048×1426), [Kana y Akane San Valentín 2026](https://static.wikia.nocookie.net/oshi_no_ko/images/7/74/Kana_%26_Akane_Valentine_2026.png)
+(2000×1395), [Akane Año Nuevo 2025](https://static.wikia.nocookie.net/oshi_no_ko/images/d/d9/Akane_New_Year_2025.png)
+(**4096×2906**), [Akane y MEM Día del Mar 2026](https://static.wikia.nocookie.net/oshi_no_ko/images/6/6c/Akane_%26_Mem-Cho_Marine_Day_2026.png)
+(1000×707), [Kana, Akane y MEM Año Nuevo 2026](https://static.wikia.nocookie.net/oshi_no_ko/images/c/c2/Kana%2C_Akane_%26_Mem-Cho_New_Year_2026.png)
+(1200×840), [MEM San Valentín 2024](https://static.wikia.nocookie.net/oshi_no_ko/images/f/fe/Mem-Cho_Valentine_2024.png)
+(1200×849) y [B小町 San Valentín 2025](https://static.wikia.nocookie.net/oshi_no_ko/images/7/7d/B-Komachi_Valentine_2025.png)
+(2048×1442). Sirven también de **fondos de pantalla oficiales** (punto
+16 del encargo).
 
 **Series del canal oficial que sirven a estos canales** (nuevas):
 - **«MEMちょの【推しの子】NEWS»** (#01 a #28): **MEM-cho presenta las
@@ -1324,7 +1458,12 @@ canal) ✅. Los que miré fotograma a fotograma, con minuto, están en
   doblaje»): visitas a la grabación de voces, con el reparto japonés
   ([ep. 1 con Rumi Ōkubo, MEM](https://www.youtube.com/watch?v=RNd2UWSImOw),
   [ep. 6 con Megumi Han y el director de sonido Takeshi Takadera](https://www.youtube.com/watch?v=izzRjaUZig4)).
-  **Para un servidor de doblaje, oro** (no lo miré entero ⚠️).
+  **Para un servidor de doblaje, oro.** **Segunda pasada: el n.º 6 ya
+  lo miré entero** por *storyboard* (14:32, un cuadro cada 5 s): cabina
+  de listones de madera, micro de condensador, Megumi Han hablando de su
+  escena del ep. 30 y la sala de mezclas (detalle y minutos en §8.1,
+  punto 16). Hay 8 entregas en el canal (n.º 1-8; la 7 con Manaka Iwami,
+  [byWluteoKvk](https://www.youtube.com/watch?v=byWluteoKvk)).
 - **Vídeos de «call»** para practicar lo que grita el público
   ([«POP IN 2»](https://www.youtube.com/watch?v=FsnRIQgdFCg)).
 - **«B小町チャンネル!»**: las tres idols hacen retos como youtubers
@@ -1503,7 +1642,10 @@ señalando a cámara (así están `bg19`, `bg12` y el key visual de Ai).
 de Ai: color y brillo), P·6 (B小町 en escenario), los **renders sobre
 verde** P·4, 7, 11, 15, 16, 19, 22-26 (cuerpo entero, línea limpia,
 para recortar o para que la IA copie proporciones), O·19 (cartela:
-rombos y estrella negra) y V·19-20 (el directo de MEM). **De pose:**
+rombos y estrella negra), V·19-20 (el directo de MEM) y el **key
+visual principal de la T1** de Crunchyroll (magenta `#E30182` con
+destellos blancos y negros de cuatro puntas, todo el reparto con sus
+objetos). **De pose:** MEM con el móvil en alto (key visual, selfie),
 P·9 Kana (explicar), P·10 Kana (animar), O·6 y V·4 MEM (celebrar),
 V·19 MEM (presentar), P·17 Ruby (invitar), V·2 Ruby («shh»), P·1 Ai
 (en directo).
@@ -1527,6 +1669,10 @@ third* (noticiero), *countdown card with handwritten message*.
 > MEM** (O·1-5); C sitúa la hoja en la **puerta de Ichigo Pro** (O·23)
 > con la **cartela de estrella** de título (O·19). Las poses salen ahora
 > de las hojas (P·, V·), no de imágenes de origen dudoso.
+> **Segunda tanda:** A cambia su pose principal por **MEM haciéndose un
+> selfie con el móvil** (key visual principal de la T1, de Crunchyroll);
+> C suma la **Kana gritando con el guion** del mismo visual y la
+> **cabina de doblaje real** como sitio alternativo.
 
 ### Concepto A — #redes-y-novedades · «El directo de noticias de MEM-cho»
 **Objeto y sitio.** La lámina es **la pantalla del directo de MEM**,
@@ -1542,11 +1688,16 @@ y un **aro de luz** ([Ring Light, CC BY](https://sketchfab.com/3d-models/ring-li
 Arriba, la **barra de neón cian** del marco. Todo se modela en Blender.
 
 **Personaje.** **MEM-cho**, la YouTuber de la serie y **presentadora
-oficial de las novedades del anime** en el canal real. Pose de **V·19**
-(sentada en su silla, índice en la barbilla, boca abierta: «¡hola!»)
-o, para celebrar, **O·6** (brazos abiertos, palmas a cámara, la tarjeta
-oficial de los 100.820 suscriptores). Ropa de casa del tráiler (jersey
-turquesa de hombros caídos, V·13) o de uniforme (P·16).
+oficial de las novedades del anime** en el canal real. **Pose nueva
+(segunda tanda), la mejor:** la del **key visual principal de la T1**
+([Crunchyroll, 1000×1415](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)):
+**brazo arriba con el móvil haciéndose un selfie**, la otra mano junto
+a la cara, guiño y boca abierta. Junta a la vez el personaje, el
+objeto del plan (el móvil) y la idea del canal. Otras: **V·19**
+(sentada en su silla, índice en la barbilla: «¡hola!») o, para
+celebrar, **O·6** (brazos abiertos, la tarjeta oficial de los 100.820
+suscriptores). Ropa de casa: jersey verde menta `#BEE69D` (key visual)
+o turquesa de hombros caídos (tráiler, V·13); o uniforme (P·16).
 
 **Cómo habla.** Con los **tres cuadros reales** de sus vídeos, nada de
 burbuja blanca:
@@ -1650,7 +1801,17 @@ Alternativa de sitio: la **sala de ensayo de Lalalai** (O·24).
 **P·9** (dibujo de animador del ep. 5: **índice arriba, cara seria**,
 «te lo explico») con el **guion** de O·18 en la otra mano; o **P·10**
 (índice a cámara) si se quiere más energía. Con **boina azul marino**
-(P·7-8), que es su seña de todos los días.
+(P·7-8), que es su seña de todos los días. **Alternativa nueva (segunda
+tanda):** la Kana del **key visual principal de la T1**
+([Crunchyroll, 1000×1415](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)),
+con boina, **un guion abierto en la mano y gritando**: para una
+versión con más carácter («¡se gana!»).
+
+**Sitio alternativo (segunda tanda):** la **cabina de doblaje real**
+de la visita oficial al estudio (§8.1, punto 16; [1:44](https://www.youtube.com/watch?v=izzRjaUZig4&t=104)):
+listones de madera `#9A6B4B`, paneles oscuros y micro de condensador.
+Para un servidor de doblaje, la hoja de audición pegada en la puerta
+de la cabina cuenta lo mismo que la puerta de Ichigo Pro.
 
 **Cómo habla.** El **título** va en la **cartela de la serie**: estrella
 negra de cinco puntas redondeadas sobre rombos rojo-rosa `#E74D64` y
@@ -1691,27 +1852,41 @@ en su variante cian (O·20) para distinguirla.
 ---
 
 ## 19 · Lo que no pude verificar
+
+Tras la segunda pasada quedan (cada uno va marcado en su sitio):
 - **El texto real** del hilo fijado «Cómo se abre un casting (léeme)» y
-  **las redes reales** del servidor: no están en el inventario.
-- **Frases del doblaje latino**: ninguna con fuente.
-- **Voces latinas de secundarios** (Gotanda, Miyako, Pieyon y otros):
-  una sola fuente.
-- **Si hay doblaje latino de la T3.**
-- **Minutos de la T2 y la T3** (no hay subtítulos de la T3 en GitHub;
-  los de la T2 están en chino en `foxofice/sub_share` y no se usaron).
-- **Minutos de los vídeos de YouTube.**
-- **Autores de los fan arts de Pixiv** y **origen** de la mayoría de las
-  ilustraciones de la extensión (salvo `bg20`, oficial).
-- **Licencia exacta** de los modelos de Sketchfab (salvo los «CC0» del
-  título y los de Poly Haven).
-- **La letra del logo** y de los globos del manga (Yen Press, Panini).
-- **Menús y caja de diálogo** de *Puzzle Star*.
-- **El aspecto de Gotanda** y de Aqua (no miré imágenes suyas).
-- **El color de Ai** como idol.
+  **las redes reales** del servidor: el inventario no los copia. La
+  ficha de §1.3 y del concepto C es una propuesta.
+- **Frases del doblaje latino:** sólo hay dos, citadas por Doblaje Wiki
+  (una fuente). No hay clips oficiales doblados; las subidas de fans no
+  tienen subtítulos y YouTube no deja bajar el audio (§12.3).
+- **Tres voces latinas con una sola fuente para el papel:** Kamiki
+  (Daniel Lacy), Pieyon (Ángel Mota) y la madre de Kana (Ellie Rojo).
+  MyAnimeList (Jikan) no respondió. Tampoco se confirmó a **Gracia
+  Comitre** (sólo en ANN).
+- **Dos datos de la producción latina** sólo en Doblaje Wiki: que se
+  grabó a inicios de 2026 y que las canciones se dejaron en japonés.
+- **Origen de las ilustraciones `bg*`** de la extensión de fans (salvo
+  `bg20`, oficial): ninguna coincide en tamaño con las 2963 de la wiki.
+- **Encuestas de una sola fuente o sin abrir:** la china de Sina (el
+  proxy bloquea sina.cn) y Ranker (401). Tampoco hay encuesta oficial
+  (lo dice ABEMA Times).
+- **La letra del logo** (nadie oficial la nombra), **la de los globos**
+  del manga de Yen Press y Panini, y si **«推しゴ»** trae ñ (BOOTH pide
+  iniciar sesión).
+- **El color de idol de Ai:** ni la wiki ni la ficha de B小町 le dan uno.
+- **Fotogramas grandes de los vídeos:** YouTube sólo da *storyboards* de
+  320×180; sirven para mirar, no para recortar. Para recortar: las
+  imágenes de la wiki (§3.0) o el episodio en Crunchyroll.
+
+Lo que la primera pasada no pudo y **ahora sí está**: voces latinas de
+secundarios (dos o tres fuentes), si hay doblaje de la T3 (no),
+minutos de vídeos de YouTube, autores de Pixiv, licencias de Sketchfab,
+menús y caja de diálogo de *Puzzle Star*, el aspecto de Gotanda y Aqua.
 
 ---
 
-## 20 · Fuentes consultadas (78 principales, 159 enlaces distintos en total)
+## 20 · Fuentes consultadas (103 principales; 335 enlaces distintos de 76 sitios en total)
 
 **Abiertas de verdad (GitHub)**
 1. [ANN T1, ficha 25783 (copia en GitHub)](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/25783.json)
@@ -1805,14 +1980,79 @@ en su variante cian (O·20) para distinguirla.
 77. [Sketchfab: On Air Sign](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156)
 78. [Poly Haven: Paper & Card](https://polyhaven.com/textures/paper-card)
 
+**Segunda pasada (red abierta), abiertas de verdad**
+79. [Oshi no Ko Wiki, API](https://oshinoko.fandom.com/api.php) (texto, imágenes y tamaños; `investigar_serie.py`)
+80. [Doblaje Wiki, página de la serie por la API](https://doblaje.fandom.com/es/wiki/Oshi_no_Ko)
+81. [Crunchyroll News: entrevista al director Daisuke Hiramaki (Newtype)](https://www.crunchyroll.com/es/news/interviews/2026/4/28/oshi-no-ko-anime-director-entrevista)
+82. [Crunchyroll News: el significado de los ojos estrellados](https://www.crunchyroll.com/es/news/features/2026/4/2/significado-ojos-estrellados-oshi-no-ko)
+83. [Crunchyroll: key visual T1 del anuncio latino](https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg)
+84. [みんなのランキング (ranking.net)](https://ranking.net/rankings/best-oshinoko-characters)
+85. [カイの漫画考察: ranking de personajes](https://manga-comic-netabare.com/archives/61568/oshinoko-character-ranking-arima-kana/)
+86. [Canal oficial: «MEMちょの部屋» #37](https://www.youtube.com/watch?v=TvIOIATbUYE)
+87. [Canal oficial: «最新NEWS»](https://www.youtube.com/watch?v=VjyCYUdmlnc)
+88. [Canal oficial: opening T1 «Idol»](https://www.youtube.com/watch?v=PgBvV9ofjmA)
+89. [Canal oficial: ending T1 «Mephisto»](https://www.youtube.com/watch?v=0saw1cGIl1A)
+90. [Canal oficial: tráiler principal 2](https://www.youtube.com/watch?v=gKWEUJ4r5do)
+91. [Canal oficial: «STAR☆T☆RAIN», ep. 11](https://www.youtube.com/watch?v=S-UmqvA7uR8)
+92. [Canal oficial: MEM juega a *Puzzle Star*](https://www.youtube.com/watch?v=LmVk85v-O5w)
+93. [Canal oficial: mensaje especial de Akane](https://www.youtube.com/watch?v=L-ZNenzreyU)
+94. [Canal oficial: 推しセリフ #05](https://www.youtube.com/watch?v=VrIF12uKg1Y)
+95. [Canal oficial: visita al estudio de doblaje n.º 6](https://www.youtube.com/watch?v=izzRjaUZig4)
+96. [Canal oficial: HAPPY VALENTINES DAY 2026](https://www.youtube.com/watch?v=pZSm3lQQqok)
+97. [Crunchyroll en Español: clip de la T3](https://www.youtube.com/watch?v=Gdigwu7pJyY)
+98. [Subida de fans del doblaje latino (Otaku en Linea)](https://www.youtube.com/watch?v=x3gKIAtsfLc)
+99. [Sketchfab API: licencia de cada modelo](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156)
+100. [Pixiv API: fan art de MEM de Rinko](https://www.pixiv.net/en/artworks/113692523)
+101. [BOOTH: letra 推しゴ](https://booth.pm/ja/items/5635169)
+102. [Reddit por Arctic Shift: el guion firmado](https://reddit.com/r/OshiNoKo/comments/1vhzqqu/the_15_year_lie_script_with_all_of_the_cast/)
+103. [Subtítulos de la T3 (Limenime, GitHub)](https://github.com/limedriveku/limesub)
+
 (Además, todos los enlaces de YouTube, Pixiv, Sketchfab y fondos
 citados en los puntos 5, 13 y 14.)
 
 ---
 
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial, en cantidad y variado | ✅ | 1510 imágenes de la wiki revisadas (dos tandas de `investigar_serie.py`); 52 escogidas en las hojas P· y O·; key visuals, carátulas de BD, cartones de cuenta atrás, renders, dibujos del staff, fiestas (§3, §14) |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ✅ | capturas 1920×1080 de la wiki con su episodio (O·15-16, O·23-25, P·18, P·21) y 26 cuadros de vídeo con minuto y `&t=` (V·); minutos de 31 escenas por los subtítulos japoneses (§4). Los cuadros de vídeo son de 320×180 (*storyboard*) |
+| 3 · Fan art y 3D con licencia | ✅ | 15 modelos de Sketchfab con licencia por su API y 3 texturas CC0; 5 fan arts de Pixiv con autor, tamaño y fecha (§5) |
+| 4 · Fondos y sitios, luz, paleta, texturas | ✅ | 15 sitios con luz y hora, 5 con hex medidos (más la paleta de §6.2), incluida la cabina de doblaje real; texturas CC0 de Poly Haven (§6) |
+| 5 · Tipografía con tildes | ✅ | 19 letras libres comprobadas con fontTools. Falta: la letra real del logo no es pública y «推しゴ» no se pudo bajar (§7) |
+| 6 · Cómo hablan en pantalla | ✅ | 16 formatos (11 vistos en vídeo y arte oficial en la segunda pasada): directo de MEM, noticiero «最新», cartones «ON AIR», cartelas de estrella, «mensaje especial», caja de *IDOLM@STER* (§8) |
+| 7 · Personajes y popularidad | ✅ | Anime Corner, ranking.net, blog japonés y Ruliweb abiertos; no existe encuesta oficial (§2) |
+| 8 · Doblaje latino, dos fuentes | ⚠️ | reparto y staff: 32 papeles con dos o más fuentes, 3 con una. **Frases:** sólo 2, de Doblaje Wiki, con minuto cruzado; no hay clips oficiales doblados (§12) |
+| 9 · Música | ✅ | OP, ED, canciones de B小町 y de cada idol, el «falso opening» de la T3 (§13) |
+| 10 · Vídeos con minuto | ✅ | 52 enlaces de YouTube comprobados; 16 vídeos mirados por *storyboard* con minuto (§4.1, §14). TikTok sólo por sus páginas de tendencia |
+| 11 · Videojuegos: interfaz y cajas | ✅ | *Puzzle Star* visto en el directo de MEM; caja de diálogo de *IDOLM@STER Shiny Colors* (§15). TCRF no tiene página |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | memes, Reddit por Arctic Shift, chistes internos y 10 cosas que no hacer (§16) |
+| 13 · Descripción profunda y forma de hablar | ✅ | Kana, MEM, Ruby, Ai, Akane, Aqua y 3 secundarios, con frases y minuto (§9) |
+| 14 · Poses analizadas (6-10 por personaje) | ✅ | Kana 17, MEM 12, Akane 11, Ruby 9, Ai 7, con número de hoja o minuto (§10). Aqua sólo 3: no es anfitrión |
+| 15 · Vestuario con hex | ✅ | uniforme rojo, «POP IN 2», uniforme de Yōtō, T3 y ropa de casa, con hex medidos (§6.2, §11) |
+| 16 · Paisajes y fondos de pantalla con tamaño y autor | ✅ | tabla de fondos (§5.2) y fiestas oficiales con tamaño (§14). Los de 4kwallpapers no tienen autor |
+| 17 · Guía para IA | ✅ | rasgos fijos, paleta medida, palabras que ayudan y estropean, qué imagen usar (§17) |
+| 3 conceptos de lámina | ✅ | uno por canal, con objetos de Sketchfab, pose con número de hoja y textos del canal (§18) |
+| 40 fuentes distintas | ✅ | 335 enlaces de 76 sitios (§20) |
+| Tipos de fuente: oficiales | ✅ | web oficial, canal y X oficiales, entrevistas (Febri, Real Sound, Newtype en Crunchyroll News) |
+| Tipos de fuente: otros idiomas | ✅ | japonés (Natalie, Febri, ranking.net), chino (Sina), coreano (Ruliweb, Namu Wiki) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki sí; TV Tropes da 403; TCRF no tiene página; Wayback tiene la copia pero corta la conexión |
+| Tipos de fuente: foros | ✅ | Reddit por Arctic Shift, Ruliweb |
+| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv sí (API); DeviantArt responde pero lo que sale es pequeño o hecho con IA; ArtStation no probado |
+| Tipos de fuente: vídeo con minuto | ✅ | YouTube por yt-dlp y *storyboards* |
+| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas de ANN, letras), Sketchfab, Poly Haven, Google Fonts |
+| Tipos de fuente: doblaje latino | ⚠️ | Doblaje Wiki, ANMTV y Crunchyroll sí; entrevistas a los actores latinos en vídeo: no encontré ninguna |
+| Hojas de contacto | ✅ | 3 hojas propias en `hojas/`, miradas, con tabla y enlaces (§3.0) |
+| `referencias.json` (20-40, medidas) | ✅ | 40 entradas: 34 imágenes con ancho y alto medidos; 6 vídeos con `&t=` (sin tamaño: sólo *storyboard*) |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
-### Estado de la red
+### Primera pasada (24-sep-2026, red cerrada)
+
+#### Estado de la red
 - `curl https://community.fandom.com` → **000 (403 del proxy)**. Sin red
   completa: **no se usó `investigar_serie.py`, no hay hojas de contacto
   ni carpeta `hojas/`**.
@@ -1826,7 +2066,7 @@ citados en los puntos 5, 13 y 14.)
   instalar fontTools y Pillow) y la búsqueda de código de GitHub (MCP).
   La API de árboles de GitHub no (repos no habilitados).
 
-### Búsquedas hechas (47, idioma)
+#### Búsquedas hechas (47, idioma)
 1. 【推しの子】 公式 キャラクター人気投票 結果 順位 有馬かな (japonés)
 2. Oshi no Ko official character popularity poll results ranking (inglés)
 3. Oshi no Ko doblaje latino reparto voces (español)
@@ -1875,7 +2115,7 @@ citados en los puntos 5, 13 y 14.)
 46. Manga en español: Panini México e Ivrea (español)
 47. Escena de Ai en el doblaje latino (español)
 
-### Por GitHub (abierto de verdad, sin cupo)
+#### Por GitHub (abierto de verdad, sin cupo)
 - `ToshY/anime-news-network-encyclopedia`: listado de 13.778 animes para
   hallar los 4 números de Oshi no Ko; fichas 25783, 28810, 33662, 38810
   y manga 24571; 106 titulares de noticias de ANN.
@@ -1891,7 +2131,7 @@ citados en los puntos 5, 13 y 14.)
 - Búsqueda de repositorios «oshi no ko» (42) y de subtítulos (.ass):
   `foxofice/sub_share` tiene la T1 y T2 en chino (no usados).
 
-### Lo que NO encontré
+#### Lo que NO encontré (primera pasada; revisado abajo)
 - Encuesta oficial de personajes (no existe, según ABEMA Times).
 - Frases del doblaje latino con fuente; doblaje latino de la T3.
 - El texto del hilo fijado de #castings y las redes del servidor.
@@ -1900,3 +2140,93 @@ citados en los puntos 5, 13 y 14.)
 - La letra oficial del logo y de los globos del manga.
 - Cajas de diálogo y menús del juego; página en TCRF.
 - Entrevistas en coreano o chino al staff (sólo encuestas y noticias).
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+Se hizo en **dos tandas**: el límite de uso cortó la primera y su
+carpeta de trabajo (vídeos, *storyboards*, subtítulos) se perdió; lo
+escrito en la biblia y las 3 hojas sí quedaron.
+
+#### Herramientas y lo que dieron
+- **`investigar_serie.py` × 2** sobre `oshinoko.fandom.com`: personajes
+  (11 páginas, 979 imágenes, 21 hojas) y sitios y episodios (22 páginas,
+  531 imágenes, 12 hojas). Montaje propio de 3 hojas con Pillow.
+- **API de la wiki:** texto de páginas (episodios 1, 5, 9, 11, 29, 34;
+  45510; B-Komachi…), búsqueda de texto para el color de Ai
+  («image color», «member color», «penlight», «glow stick»), tamaño de
+  las 30 imágenes de `referencias.json` (`prop=imageinfo`) y la lista
+  entera de 2963 imágenes (`list=allimages`) para buscar el origen de
+  las `bg*` por tamaño (sin coincidencias) y las ilustraciones de fiestas.
+- **Doblaje Wiki (API):** página de la serie (reparto, staff, datos de
+  interés, errores); búsqueda de archivos de audio (`srnamespace=6`):
+  ninguno de la serie.
+- **ANMTV** (dos artículos abiertos), **API de noticias de Crunchyroll**
+  (`cr-news-api-service…/v1/es-419/stories?slug=…` y `stories/search?tag=OSHI NO KO`:
+  12 artículos; leídos el anuncio del elenco, la entrevista al director
+  y el de los ojos). El anuncio de la T2 no existe con los nombres
+  probados (5 fechas, 2 nombres: 404).
+- **YouTube con yt-dlp:** `fotogramas.py` falla («Sign in to confirm
+  you're not a bot»; probados los clientes por defecto, `tv_embedded`,
+  `web_embedded` y `android_vr`). Con el cliente `mweb` sólo salen los
+  *storyboards*: 16 vídeos mirados así (9 en la primera tanda, 7 en la
+  segunda con un script propio, `sb.py`, en mi carpeta de trabajo).
+  Canal oficial listado (496 vídeos); canal de Crunchyroll en Español
+  buscado por dentro. Los 52 enlaces de la biblia, comprobados por oEmbed.
+- **Subtítulos japoneses** de la emisión (NanakoRaws) bajados otra vez
+  para dar minuto a las frases del doblaje (ep. 2 y 4).
+- **Pillow:** colores del key visual de Crunchyroll, del «mensaje
+  especial» de Akane y del estudio de doblaje (mediana por cuantización;
+  en *storyboards*, ±10 por canal).
+- **Sketchfab API** (15 licencias), **Pixiv** por su API `ajax/illust`
+  (5 fan arts: autor, tamaño, fecha), **fontTools** (7 letras nuevas),
+  **Arctic Shift** (r/OshiNoKo, jul-ago 2026), **DeviantArt** por su
+  RSS (60 resultados de Kana: pequeños o hechos con IA, no usados).
+- **Páginas abiertas de verdad:** Anime Corner (dos rankings), ranking.net,
+  カイの漫画考察, Ruliweb (con su imagen), 4kwallpapers, ffont y BOOTH.
+
+#### Búsquedas web (4 en la segunda tanda; la primera tanda no dejó cuenta)
+1. Crunchyroll_la «OSHI NO KO» doblaje latino clip x.com (español)
+2. «Oshi no Ko» doblaje latino frase Kana Ginette Zavala escena clip (español)
+3. WDN_Topic «Oshi No Ko» doblaje latino clip (español)
+4. «así suena» / «así se escucha» doblaje latino «Oshi no Ko» (español)
+
+Ninguna dio un clip oficial doblado: sólo anuncios, reacciones y
+posts sin vídeo (yt-dlp lo confirmó en tres de ellos).
+
+#### Siguen cerrados o fallan
+- TV Tropes (403), Ranker (401), sina.cn (bloqueado por el proxy),
+  Wayback Machine (la API `archive.org/wayback/available` responde y hay
+  copia del ep. 6 oficial de 12-feb-2026, pero `web.archive.org` corta
+  la conexión: 2 intentos), MyAnimeList por Jikan (504), TikTok por
+  yt-dlp (error), BOOTH para bajar la letra (pide sesión), descarga de
+  vídeo y audio de YouTube.
+
+#### Los «no encontré» de la primera pasada, revisados
+- Encuesta oficial de personajes → **sigue sin existir** (ABEMA Times);
+  las de fans, abiertas y corregidas (§2).
+- Frases del doblaje latino con fuente → **2 encontradas** (Doblaje
+  Wiki) y **con minuto**; clips oficiales doblados, **no hay**.
+- Doblaje latino de la T3 → **no hay** (Doblaje Wiki + ANMTV).
+- Texto del hilo fijado de #castings y redes del servidor → **siguen
+  sin estar** en el inventario.
+- Minutos de la T2, la T3 y de los vídeos → los de los vídeos, **sí**
+  (16 vídeos); la T3 tiene subtítulos en GitHub (indonesio), no hacían
+  falta.
+- Autores de fan art; licencias de Sketchfab → **encontrados** (Pixiv y
+  Sketchfab por sus API).
+- Letra oficial del logo y de los globos del manga → **sigue sin
+  encontrarse**; el logo, al menos, es mincho.
+- Cajas de diálogo y menús del juego → **encontrados** (*Puzzle Star*
+  en el directo de MEM; caja de *IDOLM@STER Shiny Colors*); TCRF no
+  tiene página.
+- Entrevistas en coreano o chino al staff → **siguen sin encontrarse**;
+  sí una entrevista japonesa (Newtype) traducida por Crunchyroll.
+
+#### Marcas de duda
+Había **52** al empezar la segunda pasada; quedan **29** con
+`grep` (23 de datos; el resto son la leyenda, el resumen del
+principio y la tabla de cumplimiento). Lo que queda es, sobre todo: lo
+que no está en el inventario (hilo fijado, redes), voces latinas y datos
+de producción con una sola fuente, encuestas que no se pudieron abrir,
+el origen de las `bg*`, las letras (logo, globos, «推しゴ») y el color de
+Ai.

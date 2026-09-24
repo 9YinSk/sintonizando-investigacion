@@ -14,7 +14,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] repaso 02-attack-on-titan
 - [x] repaso 03-solo-leveling
 - [ ] repaso 04-harry-potter
-- [ ] repaso 05-oshi-no-ko
+- [x] repaso 05-oshi-no-ko
 - [ ] repaso 06-spy-x-family
 - [ ] repaso 07-pok-mon
 - [ ] repaso 08-big-hero-6-grandes-h-roes
