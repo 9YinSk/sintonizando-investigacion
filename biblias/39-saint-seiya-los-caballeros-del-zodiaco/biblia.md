@@ -1557,3 +1557,324 @@ Comprobado con `grep` en todas las `biblias/*/biblia.md` (24-sep-2026):
   (*Araya Shiki*, Shaka), en inglés en AniList ⚠️; el nombre latino no
   está en las partes.
 
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas, una por canal propuesto (§0). Todas siguen
+`servidor/reglas_del_dueno.md`: objeto real en sitio real, hecho en
+Blender; pose y cara que van con lo que dicen; textos cortos en la voz
+de la serie, sin «·», «—» ni paréntesis de relleno; tono serio y épico,
+nada de colores alegres.
+
+### A · #general-doblaje — «La caja de Pegaso» (recomendada)
+
+- **Objeto y sitio**: la **Pandora Box de Pegaso** (Blender: caja de
+  ~1 m, verde azulada, con el **relieve de la constelación** en el
+  frente, bisagra, cadena y correas para cargarla) sobre la **mesa de
+  madera** de la **casa de piedra de Seiya en Grecia**, de noche.
+  Referencia exacta: `personajes_01.jpg` n.º 24 (*Seiya's joy of
+  obtaining the Pegasus Cloth.PNG*, 1023×768); la caja a la espalda, n.º
+  22; la caja en *Legend of Sanctuary*, n.º 16 (1600×668).
+- **Personaje**: **Seiya**, en **ropa de calle** (camiseta roja sin
+  mangas, jean), **con la mano sobre la caja**, como en la n.º 24: pose
+  de **explicar** (§15.1, pose 4). Cara: la sonrisa del opening
+  ([1:09](https://www.dailymotion.com/video/x8ckt3d?t=69)). **Por qué
+  él y no Ikki**: el canal es del oficio, y Seiya es **Jesús Barrero**,
+  la voz y el director del doblaje clásico (§10).
+- **Cómo habla**: el cuadro del juego (§7.5). Abajo a la izquierda, el
+  **medallón ovalado dorado** con su cara y «SEIYA» en **Oswald 700**
+  dorada inclinada; debajo, pequeño, «voz latina de Jesús Barrero». A su
+  lado, dos o tres líneas **flotando sin caja**, blancas con borde oscuro,
+  en **Noto Sans**.
+- **Dónde va cada texto** (inventario: «Del oficio: micros, voces,
+  técnica y dudas de novato. Tu voz grabada va a demos; los papeles, a
+  castings.»):
+  - «general-doblaje»: **grabado en la placa del frente de la caja**, en
+    **Cinzel Decorative**, siguiendo el relieve (la luz de Blender lo
+    hace real).
+  - Lo que dice Seiya: «Aquí se habla del oficio. Micros, voces,
+    técnica.» y «¿Eres nuevo? Pregunta. Nadie nació sabiendo.»
+  - Las dos salidas, **grabadas en las dos caras laterales** de la caja,
+    en **Cinzel**: «Tu voz grabada va a #demos» y «Los papeles, a
+    #castings».
+  - Un grito final, en **Bangers** con el degradado dorado de §7.4:
+    «¡Que arda tu voz!» (eco de «¡Arde, mi Cosmos!»).
+- **Que no quede plano**: la **cadena** de la caja cae por delante, fuera
+  de foco; **luz de luna azul fría** por la ventana (como en la n.º 24) y
+  un **filo dorado** `#ECBE2D` en el relieve de Pegaso; las **cestas** de
+  la mesa en primer plano; **Marin dormida** al fondo, desenfocada.
+- **Lámina 2** (si se satura): la **hoja técnica de la armadura de
+  Pegaso** (n.º 29-39) con **cada pieza rotulada con un actor**: quién
+  dobla a quién en los tres doblajes (§10.2). Es un plano real de la
+  serie y cabe toda la información.
+
+### B · 🎭 Escenario — «La Guerra Galáctica»
+
+- **Objeto y sitio**: el **coliseo** (modelo **Grande Arena**, CC BY,
+  Adriano.Fontoura.Fraga, §4) de **día nublado** (`#E5E1DB`, `#D0CBC1`),
+  con público (`fondos_01.jpg` n.º 66 y 77). En el centro de la arena,
+  un **pedestal de piedra** con el **cofre dorado de Sagitario**, el
+  premio del torneo (ep. 4 de Netflix, [8:21](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%204.mp4?t=501)).
+  La armadura de Sagitario tiene modelo CC BY (GremorySaiyan).
+- **Personaje**: **Saori** (la más dibujada por los fans, §9), **sentada
+  en el trono** de la tribuna, báculo dorado en la derecha, mirando firme
+  hacia abajo (ep. 6, [1:21](https://archive.org/download/knights-of-the-zodiac-saint-seiya-episode-12/Knights%20of%20the%20Zodiac%20Saint%20Seiya%20Episode%206.mp4?t=81);
+  §15.6, pose 6). Pose de **presidir**. Recorte limpio: `personajes_01`
+  n.º 1 (2205×2912).
+- **Cómo habla**: el mismo cuadro del juego, con su medallón y
+  «SAORI KIDO»; la voz de su frase real: primera persona, decisión
+  («Ellos no decidirán quién soy y lo que hago»).
+- **Dónde va cada texto** (inventario: «Charlas, entrevistas y
+  directos. Sube quien invita el anfitrion.»):
+  - «Escenario»: **tallado en el frente del pedestal**, en **Cinzel
+    Decorative**.
+  - Lo que dice Saori, flotando junto al trono: «Charlas, entrevistas y
+    directos.» y «A la arena sube quien yo invite.»
+  - Si hace falta una regla más, en **Cinzel** sobre el muro de piedra
+    de la tribuna.
+- **Que no quede plano**: **cámara baja** desde la arena, mirando arriba
+  a Saori; el pedestal y el cofre dorado **en primer plano a la
+  izquierda**, con brillo; el público **desenfocado** detrás; luz de día
+  nublado suave y un solo filo dorado en el cofre.
+
+### C · #destacados — «El cielo que junta estrellas»
+
+- **Objeto y sitio**: la **Estatua de Athena** (modelo CC BY,
+  Adriano.Fontoura.Fraga, §4) en el **patio del Santuario de noche**
+  (`#618497`, `#2E343C`, `#171B22`, §5). Encima, el **cielo con
+  constelaciones** dibujadas con estrellas blancas, como detrás de
+  Seiya en la n.º 25: **cada mensaje destacado es una estrella que se
+  une a la figura**.
+- **Personaje**: **Ikki**, el favorito de los fans en AniList (§9),
+  **apoyado en el pedestal con los brazos cruzados** (§15.5, pose 5,
+  [Phoenix ikki final bronze cloth.jpg](https://static.wikia.nocookie.net/saintseiya/images/f/fc/Phoenix_ikki_final_bronze_cloth.jpg)),
+  visto **desde abajo** (`from_below`). Encaja: Ikki **llega solo** y el
+  canal dice «acaba aquí solo».
+- **Cómo habla**: medallón y texto flotante, pero con **sus frases
+  cortas** y frías (§8.5).
+- **Dónde va cada texto** (inventario: «Lo que junta estrellas acaba
+  aquí solo. Aquí no se escribe.»):
+  - «Destacados»: **grabado en el pedestal** de la estatua, en **Cinzel
+    Decorative**.
+  - Lo que dice Ikki: «Lo que junta estrellas llega aquí solo.» y
+    «Aquí no se escribe.»
+  - Nada más: el cielo lo explica.
+- **Que no quede plano**: **brasas y plumas de fuego del Fénix** delante
+  de Ikki (su aura, ep. 6, 4:54) que le dan **luz cálida desde abajo**
+  contra la **noche fría**; la estatua en 3D con luz real; las **Doce
+  Casas** en silueta al fondo.
+
+### Las tres, en una tabla
+
+| | A · #general-doblaje | B · 🎭 Escenario | C · #destacados |
+|---|---|---|---|
+| Objeto | Pandora Box en la mesa | cofre dorado en el pedestal del coliseo | Estatua de Athena bajo las constelaciones |
+| Personaje | Seiya (Barrero) | Saori (la más dibujada) | Ikki (el más querido) |
+| Luz | noche, luna azul y filo dorado | día nublado y brillo dorado | noche fría y fuego cálido |
+| Choque | FMA, Monsters, Inc. | Sing | Super Mario Galaxy |
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que corregí (mirando las imágenes o midiendo)
+
+1. **Cuatro poses de Seiya estaban mal descritas** en la parte de vídeo.
+   Abrí las imágenes en grande:
+   - *Seiya's farewell.PNG*: no es un muelle con veleros (eso es la n.º
+     14, *Seiya & Miho Love 4*); es **Seiya de espaldas con la Pandora
+     Box a la espalda** junto a Marin, entre ruinas.
+   - *Seiya's joy of obtaining the Pegasus Cloth.PNG*: no son brazos
+     abiertos con luz dorada; es **Seiya con la mano sobre la caja** en
+     una casa de piedra, de noche.
+   - *Seiya with the Pegasus Cloth.PNG*: no es un aura de fuego; es el
+     **puño en alto con la constelación de Pegaso** detrás.
+   - *Seiya defeated Cassios.PNG*: no está sobre un rival caído; está
+     **de espaldas ante Cassios**, en el coliseo lleno.
+2. **Enlace roto**: *Pegasus Seiya Basic Pic.jpg* no está en `…/f/f3/…`
+   (esa ruta es de *Screenshot 9.png*); la buena es
+   [`…/6/60/…`](https://static.wikia.nocookie.net/saintseiya/images/6/60/Pegasus_Seiya_Basic_Pic.jpg)
+   (960×960, API de Fandom).
+3. **Tamaño**: el clip de Dohko ([x8x2zig](https://www.dailymotion.com/video/x8x2zig))
+   es **512×384** (medido con `yt-dlp`), no 1280×720 como decía
+   `voz.json`.
+4. **Shun crying.jpg** tenía la ruta sin resolver: es
+   [`…/9/90/Shun_crying.jpg`](https://static.wikia.nocookie.net/saintseiya/images/9/90/Shun_crying.jpg),
+   500×375.
+5. **Números de hoja**: la figura Myth Cloth es la n.º **40** (no 42);
+   *Legend of Sanctuary* son las n.º **16-17** (no 14); el manga, las n.º
+   **13, 18 y 30**; *LostCanvas.jpg* y *LC Zodiac.jpg* están las dos en
+   `fondos_01` (n.º 61 y 62).
+6. **Historia**: la parte de texto decía que Seiya gana la armadura de
+   Pegaso en la Guerra Galáctica. Las imágenes de la wiki la ponen **en
+   Grecia, venciendo a Cassios**; el premio del torneo es la **armadura
+   dorada de Sagitario** (ep. 4 de Netflix). Lo dejé así en §26.
+7. **Manga**: la parte de texto no encontró páginas; **sí hay** páginas
+   en inglés en la wiki (n.º 13, 18, 30). Miré la n.º 13 en grande (§7.3).
+8. **Quité** el kanji que la parte de texto daba para el Meteoro de
+   Pegaso (no coincide con «Ryūsei Ken» y nadie lo comprobó) y la causa
+   de la muerte de Athena en las Doce Casas (una fuente).
+
+### 28.2 Lo que sigue sin comprobar ⚠️
+
+- **Caras por emoción**: 14 de 30 sin fotograma (§8.7). **Vergüenza, de
+  nadie.**
+- **Fotogramas 1080p de la serie clásica**: no hay copia libre; YouTube
+  pidió iniciar sesión todo el día.
+- **Ending de 1986** (título), letra del **opening latino** y los
+  **actores 2022-24 de Ikki y Shun**.
+- **Encuesta Netorabo 2021**: quién ganó. **Encuesta latinoamericana**:
+  ninguna en las partes.
+- **Fondos sin paleta**: Siberia, Rozan, mansión Kido, Isla de la Reina
+  Muerte. **Hex de la ropa de calle** de Seiya y Hyoga, y de la armadura
+  de Shun y Hyoga.
+- **Gustos** (comida, aficiones, lo que odian) de los cinco de bronce.
+- **Vistas** de fandubs y tendencias; parodias y memes hispanos.
+- **TV Tropes** (403), **TCRF** y **Wayback** sin usar; **nada en coreano
+  o chino**; japonés sólo en títulos, créditos y MusicBrainz.
+- Artbook de Internet Archive sin abrir; cartones de corte (*eyecatch*)
+  de 1986 no encontrados.
+
+### 28.3 Para el dueño
+
+- **Decida el canal** (§0): #general-doblaje choca con FMA y Monsters,
+  Inc.; 🎭 Escenario, con Sing; #destacados, con Super Mario Galaxy.
+- **Si ve la serie clásica**, anote episodio, minuto y cara de
+  **vergüenza** de cualquiera de los cinco, y **alegría o miedo** de
+  Hyoga e Ikki.
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 150 imágenes de la wiki en 3 hojas miradas número a número: arte clásico de 1986, Netflix de cuerpo entero, hojas técnicas, manga, dorados en 4 versiones; tomo 1, Steam, 40.º aniversario, emblema (§3). *Eyecatch* de 1986 y cajas de juegos antiguos no encontrados ⚠️ |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 3 escenas clásicas con minuto y 12 momentos de Netflix en **1920×1080** (§2). Pero **la serie clásica sólo a 512×384**: no hay copia libre en 1080p y YouTube pidió iniciar sesión |
+| 3 · Fan art y 3D con licencia | ✅ | 15 modelos de Sketchfab con autor y licencia leídos en su API (estatua de Athena, coliseo, dos casas, armaduras, Seiya con *rig*); fan art con origen; etiquetas de Danbooru; fotos CC de Openverse (§4) |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 9 sitios con paleta medida con `estilo.py` (36 hex); texturas CC0 de ambientCG (§5). Siberia, Rozan, mansión Kido e isla de Ikki sin paleta ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | 2 logos vistos en fotograma; 8 usos con letra libre, todas comprobadas con fontTools con tildes, ñ, ¿ y ¡ (§6). Nombre de la letra del logo sin saber ⚠️ |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | HUD de *Soldiers' Soul* medido, texto flotante sin caja, página de manga con pensamiento sin globo (vista), títulos dorados de *Awakening* y la receta para la lámina (§7). Sin cartela de narración del anime ⚠️ |
+| 7 · Personajes y encuestas de popularidad | ✅ | Animage 1986 con dos fuentes, Anime Grand Prix 1987, AniList y Danbooru: gana Ikki en favoritos y Saori en dibujos (§9). Netorabo sin resultado y sin encuesta latinoamericana ⚠️ |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | tres doblajes; reparto clásico y de 2019 con dos fuentes; 6 frases de muestras oficiales y 4 del clásico con minuto (§10). Reparto 2022-24 con una fuente e Ikki y Shun 2022 sin nombre ⚠️ |
+| 9 · Música y sonido | ⚠️ | «Pegasus Fantasy» con dos fuentes, opening de Netflix, ending de *Soul of Gold*, banda sonora de Yokoyama y efectos del Cosmos (§11). **Falta el ending de 1986 y el título de la pista de la escena más emotiva** |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | opening, ending, tráiler doblado, 3 escenas, 4 episodios de Netflix y gameplay mirados con minuto (§12). **Vídeo-ensayo de YouTube sin minuto y TikTok sin cifras** (bloqueados) |
+| 11 · Videojuegos: interfaz y cajas | ✅ | 8 juegos con plataforma y año; HUD y texto de *Soldiers' Soul* vistos en vídeo; menús de *Awakening* en capturas oficiales; el juego tiene doblaje latino (§13). Juegos antiguos sin ver ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 6 cosas que todo fan reconoce y 10 reglas de qué no hacer (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, qué transmite, voz medida y dinámicas de los 6 del encargo, y ficha de 5 dorados (§8). **La parte de voz agotó sus 2 tandas y dejó 16 de 30 casillas de cara por emoción con fotograma y minuto**: faltan Seiya-vergüenza; Shiryu-rabia (sólo imagen fija sin minuto), miedo y vergüenza; Hyoga-alegría, miedo y vergüenza; Shun-rabia (sólo su versión poseída) y vergüenza; Ikki-alegría, miedo y vergüenza; Saori-rabia y vergüenza. Vio los ep. 1, 2 y 6 de Netflix enteros y 15 min del 4; la vergüenza no aparece en ninguno. Sin muletillas registradas ni cómo se ríe cada uno |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | Seiya 10, Shiryu 7, Hyoga 6, Shun 6, Ikki 8, Saori 6, con minuto o imagen enlazada y para qué sirve cada una; 4 descripciones corregidas por el redactor (§15, §28) |
+| 15 · Vestuario con hex | ✅ | hex medidos de Pegaso, Fénix, Dragón, Athena, Gold Cloth, God Cloth y Odin Robe; ropa de calle, peinados y la caja (§16). Hex de ropa de calle y de las armaduras de Shun y Hyoga sin medir ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 10 sitios con hora y luz; 8 wallpapers oficiales 1920×1080; 5 fondos de fans en alta, uno con autor (jNiederauer) (§17). Sin fondo oficial en 4K ⚠️ |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias, cómo habla cada uno, frases reales por emoción y vocabulario visual (§18). Sin frase alegre real ⚠️ |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Araki y Himeno, los dos registros de Kurumada, línea y sombra medidas, receta de Photoshop y de Blender con *rig* libre, encuadres por emoción (§19). Grano de época sin entrevista ⚠️ |
+| 19 · Texturas 2D | ✅ | trama de manga vista, hojas técnicas, emblema de Pegaso, trama CC BY de Flickr y metal, tela y mármol CC0 (§20). Sin pinceles libres comprobados ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | edad, cumpleaños, sangre, altura de Hyoga, el objeto de cada uno; aficiones sólo de Saori (§21). **Faltan comida, aficiones y lo que odian** los cinco de bronce: no hay *databook* en las partes |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | 5 razones y 5 escenas con minuto o página, cómo están dibujadas (§22). **Sin comentarios con más votos ni vídeos de reacción**; música de la escena de Dohko sin título |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | fandub homenaje a Barrero, cover de Mauren, clips de Azteca 7 y de fans, 4 podcasts (§23). **Sin vistas** (YouTube y TikTok bloqueados), sin parodias ni memes hispanos concretos |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Myth Cloth, 40.º aniversario, Uniqlo, QQ Speed ⚠️, cosplay premiado ⚠️; Fortnite no confirmado y café no encontrado, con búsquedas (§24) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 15 recomendaciones de AniList, influencias de Kurumada con dos fuentes, comprobación con `grep` de las demás biblias (§25). TV Tropes dio 403 ⚠️ |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | reglas en 5 líneas, 6 arcos con momento clave, objetos y vocabulario (§26); un error de la parte corregido (§28) |
+| Tres conceptos de lámina | ✅ | A #general-doblaje (Pandora Box, Seiya), B 🎭 Escenario (coliseo, Saori), C #destacados (estatua de Athena, Ikki), con canal propuesto porque la serie no tiene (§0, §27). Los tres chocan con propuestas de otras biblias: decide el dueño |
+| 40 fuentes distintas | ✅ | más de 40 webs distintas enlazadas (wikis en 2 idiomas, Doblaje Wiki, prensa de 3 países, tiendas oficiales, bancos de arte, 3D y texturas, vídeo, música) |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | ✅ wikis (Fandom en inglés y español, Doblaje Wiki, SaintSeiyaPedia), doblaje latino, arte, vídeo, 3D y texturas, oficiales (Steam, Bandai, Netflix, X del juego). ⚠️ Japonés sólo en créditos y MusicBrainz; **nada en coreano o chino**; Reddit sólo títulos; **TV Tropes 403, TCRF, Wayback, GitHub y ANMTV sin usar** |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas y descritas número a número (§3) |
+| `referencias.json` | ✅ | todas las útiles de las partes y de `datos.json`, las mejores primero, con tamaño medido (más de 20) |
+| Frases del doblaje latino textuales, con vídeo y minuto | ✅ | 4 del clásico con minuto y 6 con su audio oficial (§10.3) |
+| Colores medidos, no inventados | ✅ | más de 70 hex, todos de `estilo.py` sobre fotogramas o arte oficial |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes, la del recolector y lo que
+hizo el redactor. ✅ = confirmado con dos fuentes o visto; ⚠️ = una
+fuente o por comprobar.
+
+### 29.1 Recolector (`recolectar.py`, sin IA, 24-sep-2026)
+
+- [AniList](https://anilist.co/anime/1254) (obra, personajes, staff,
+  recomendaciones, relaciones; enlaces oficiales a
+  [Netflix](https://www.netflix.com/title/70267476) y
+  [Crunchyroll](https://www.crunchyroll.com/series/GRJQVJNXY/saint-seiya)),
+  Doblaje Wiki (ficha de *Battle for Sanctuary*), Fandom `saintseiya`
+  (6 páginas de personajes), Danbooru, Safebooru, Wallhaven, Sketchfab,
+  Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam y Reddit.
+- **Falló**: AnimeThemes (HTTP 522).
+
+### 29.2 Investigador de imagen
+
+- **Directo, sin buscador** (español e inglés): API de Fandom
+  (`imageinfo`, `list=search`, categorías de lugares), [API de
+  Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=saint+seiya&downloadable=true)
+  para licencias, ambientCG, Openverse, Wallhaven, Steam `appdetails`,
+  Internet Archive `metadata`; `estilo.py` sobre 15 imágenes.
+- `investigar_serie.py` dos veces (personajes; dorados y Santuario): 4
+  hojas, elegidas 3.
+- **Buscador** (~9, español e inglés): colaboraciones de *Awakening*,
+  Uniqlo, Fortnite, café temático, 40.º aniversario, cosplay premiado,
+  portadas de tomos y de juegos, *eyecatch* de 1986.
+- **No encontró**: *eyecatch*, café temático, cajas de *Sanctuary
+  Battle* y *Brave Soldiers*, hex de la ropa de calle.
+
+### 29.3 Investigador de vídeo
+
+- YouTube pidió iniciar sesión: todo por **Dailymotion** (7 clips) e
+  **Internet Archive** (ep. 1 y 6, 1920×1080).
+- Búsquedas en español en la [API de Dailymotion](https://api.dailymotion.com/videos?search=caballeros+del+zodiaco+doce+casas)
+  («doce casas», «Shiryu Excalibur»); dos búsquedas web (vídeo-ensayos
+  en español; «TikTok trend» en inglés).
+- **Japonés**: [ja.wikipedia](https://ja.wikipedia.org/wiki/聖闘士星矢) «聖闘士星矢 主題歌» dio
+  límite de peticiones dos veces; MusicBrainz sí (ペガサス幻想,
+  約束の明日へ).
+- **Caídos o bloqueados**: Anime News Network (anti-bot), Jikan (504),
+  AnimeThemes (522).
+- Herramientas: `fotogramas.py` ×6, `episodio.py` ×2, `voz.py` ×1,
+  `estilo.py` ×1; 11 imágenes de la wiki bajadas con `Referer`.
+
+### 29.4 Investigador de voz (2 tandas, agotadas)
+
+- Doblaje Wiki por la API (`action=parse`), en español: «Los Caballeros
+  del Zodiaco» y «SAINT SEIYA: Los Caballeros del Zodiaco».
+- `voz.py` ×6 sobre las muestras `.ogg` oficiales de Netflix 2019.
+- Fandom en inglés: búsqueda de archivos «crying», «smiling», «angry»,
+  «scared», «blushing», «laughing»; sólo salió *Shun crying.jpg*.
+- Dailymotion en español: «Hyoga Cisne doblaje», «Hyoga llora Camus»,
+  «Shiryu Shura ciego furioso» (descartado: era un tráiler de juego).
+- `fotogramas.py --cortes`: ep. 1 y 6 completos, ep. 2 completo, ep. 4
+  hasta el minuto 15.
+- Dos búsquedas web en español: encuestas oficiales (Animage, Netorabo)
+  y fandub o cover latino (homenaje a Barrero, cover de Mauren).
+- **No encontró**: el ganador de Netorabo; la vergüenza de nadie; miedo
+  de Shiryu e Ikki; alegría de Hyoga e Ikki; transcripción de podcasts.
+- Descartó dos fotogramas dudosos (ep. 2, 18:15-20:00; ep. 1,
+  5:42-5:53) para no inventar.
+
+### 29.5 Investigador de texto, juegos y técnica
+
+- **Español**: sinopsis y arcos, sagas, «arde tu cosmos» y técnicas,
+  «famfonts saint seiya logo font», lista de juegos, estilo de
+  Kurumada, gameplay de *Soldiers' Soul*.
+- **Inglés**: influencias de Kurumada, TV Tropes, Araki y Himeno,
+  animación de Toei en 1986, UI de *Awakening*.
+- **Directo**: Fandom en español (Cosmos, Papa, Pandora Box, Doce
+  Templos), Steam, Dailymotion, la ficha de *Awakening* en Google Play
+  (capturas oficiales en `referencias.json`), Sketchfab, [Google Fonts](https://fonts.google.com) y `fonts.gstatic.com`
+  (8 letras comprobadas con fontTools), Internet Archive (manga VIZ) e
+  IIIF de Archive (404).
+- **Bloqueado**: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Franchise/SaintSeiya)
+  (403, dos intentos).
+
+### 29.6 El redactor
+
+- Leyó las 5 partes, los 4 `datos-*.md`, `ENCARGO.md`, `EQUIPO.md`,
+  `AYUDANTE.md`, `PETICIONES.md`, `servidor/reglas_del_dueno.md`,
+  `servidor/inventario.md`, `DECISIONES.md` y el `canal:` de las demás
+  biblias.
+- **Miró las 3 hojas** número a número, y **abrió en grande** 10
+  imágenes de la wiki (4 poses de Seiya mal descritas, Hyoga, Ikki,
+  Cassios, Shura, la página de manga 0010-112).
+- **Comprobó con la API de Fandom** las rutas de 7 imágenes (2
+  corregidas), con **`yt-dlp`** el tamaño del clip de Dohko, con la
+  **API de Sketchfab** las miniaturas de 9 modelos, y con Pillow el
+  tamaño de 17 imágenes de AniList para `referencias.json`.
+- No hizo búsquedas web nuevas: lo que faltaba se marcó ⚠️.
+
+### 29.7 Fuentes que no se usaron
+
+TCRF, Wayback Machine, GitHub, ANMTV, Arctic Shift (Reddit por dentro),
+fuentes en coreano o chino. Quedan para un repaso.
