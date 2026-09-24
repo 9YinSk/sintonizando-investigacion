@@ -213,3 +213,255 @@ la primera pasada). Repasé sus fuentes:
 - La tabla del dolor sigue con pines y mercancía real: reconfirmado sin
   cambios ([Hot Topic](https://www.hottopic.com/product/disney-big-hero-6-baymax-pain-scale-3-pin/10396449.html)).
 
+## 6 · Punto 20 — Gustos y detalles de cada personaje
+
+De las fichas de infobox de `bighero6.fandom.com` (cada una cita como fuente
+el **blog oficial de Disney en Tumblr**, `disneysbighero6-bh6.tumblr.com`,
+publicado en 2014 para promocionar la película: comprobé que el dominio sigue
+vivo y redirige a la ficha real de cada personaje, aunque el contenido está
+detrás de JavaScript y no se puede leer con `curl` — cuenta como fuente
+oficial + la wiki que la cita, dos fuentes). Añado la sección «Trivia» de
+cada wiki, que trae más gustos sueltos.
+
+### Hiro Hamada
+- **Altura:** 1,52 m (5'0"). **Edad:** 14 (nace hacia 2017-18 si la película
+  pasa en 2031, dato de las fechas que se ven en pantalla) ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Hiro_Hamada)).
+- **Le gusta:** peleas de robots, los robots, la emoción, la libertad, ositos
+  de goma, inventar, alitas picantes, paletas heladas.
+- **Le odia:** el fracaso, que lo regañen, **los cacahuates (es alérgico:** lo
+  detectó el primer escaneo de Baymax), que lo molesten, las restricciones,
+  los supervillanos.
+- **Su color menos favorito es el rosa** — dato irónico, porque el rosa es el
+  color de Honey Lemon (según la página de ella en el «Diario de Hiro», un
+  material promocional) ⚠️ (una fuente, la wiki; no vi el diario original).
+- **Manía:** saca la lengua para sujetar el popote antes de beber, señal de
+  quien se chupó el dedo de niño; tiene un huequito entre los dientes
+  (diastema) por lo mismo ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Hiro_Hamada)).
+- **Cómo se ve a sí mismo:** orgulloso de saberlo todo por su cuenta; cree que
+  ya sabe lo que la universidad podría enseñarle (biblia, punto 9).
+- **En el doblaje coreano lo renombraron «Hero Armada»** ⚠️ (una fuente, wiki).
+
+### Baymax
+- **Altura:** 1,88 m (6'2") — bastante alto para lo achaparrado que se ve
+  inflado ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Baymax), cita el
+  Tumblr oficial).
+- **Le gusta:** ayudar a los demás, la felicidad y salud de sus pacientes y
+  amigos, las flores, los gatos, el ajedrez, las pelotas de fútbol, las
+  mariposas, los abrazos, los besos, volar, bailar.
+- **Le odia:** que sus amigos estén en peligro, la mala salud, quedarse
+  desinflado, lastimar a otros o causarles angustia.
+- Robots reales que lo inspiraron, además del brazo de Carnegie Mellon: ASIMO
+  y **Pepper** (el robot que también da abrazos y choca los puños) ✅
+  ([wiki de BH6](https://bighero6.fandom.com/wiki/Baymax)).
+- Es el **único personaje que sale en todos los episodios** de toda la
+  franquicia, salvo un corto de *Big Chibi 6* ⚠️ (una fuente).
+
+### Tadashi Hamada
+- **Altura:** 1,82 m (6'0"). **Edad oficial:** 18 según los libros de Disney
+  (*Big Hero 6: Hiro's San Fransokyo Files*), aunque medios japoneses dijeron
+  21 y el propio actor de voz original, Daniel Henney, dijo en una entrevista
+  que Tadashi tendría 19 o 20 — **hay tres versiones de su edad, todas
+  citadas**: ⚠️ (contradicción real entre fuentes, no error mío).
+- **Le gusta:** ayudar a los demás, la robótica, las artes marciales, su
+  familia y amigos, Baymax, la inteligencia.
+- **Le odia:** las peleas de robots, el crimen, la ilegalidad, que Hiro
+  desperdicie su talento, que la gente se moleste.
+- **En el doblaje coreano lo renombraron «Teddy Armada»** ⚠️ (una fuente).
+- En el manga *Big Hero 6* (Baymax) hay una escena eliminada donde Tadashi
+  presenta a Baymax junto con Fred en la feria de ciencias ⚠️ (una fuente).
+
+### Honey Lemon
+- **Altura:** 1,77 m (5'10"; 1,88 m con tacones) ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Honey_Lemon), Tumblr oficial).
+- **Le gusta:** química, diseño de modas, explosiones, té verde, el peligro,
+  música latina, manga, grabar vídeos de ciencia, karaoke, «fiestas de
+  stickers», música pesada.
+- **Le odia:** confrontaciones entre amigos, que la gente salga herida, los
+  hipopótamos, el pesimismo, el crimen, que le digan «alta».
+- **Tiene su propia tienda en línea** (boutique de ropa) ✅.
+- Es de **ascendencia hispana**, según su propia actriz de doblaje original
+  (Génesis Rodríguez) y una publicación oficial de Disney Television Animation
+  ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Honey_Lemon), cita un post
+  de `@DisneyTVA` en Twitter/X). Encaja con que ella misma se dobló al español
+  latino.
+- «Honey Lemon» es un apodo que le puso Fred; su nombre real nunca se dice
+  (salvo que aparece como «Honey Lemon» de nombre oficial en su credencial
+  escolar, en un capítulo de la serie) ⚠️.
+
+### Fred Frederickson
+- **Altura:** 1,82 m (6'0") ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Fred)).
+- **Le gusta:** acción, aventura, caridad, voluntariado, comida chatarra,
+  coleccionables, cómics, tacos de fideos, ponerle apodos a la gente, el
+  webtoon *Big Chibi 6*.
+- **Le odia:** los supervillanos, las arañas, robar.
+- Su apellido «Frederickson» no aparece hasta el episodio «Baymax Regresa» de
+  la serie (antes sólo se sabía su inicial, «L.», en una carta de
+  recomendación firmada por «R. Richards» — un guiño a Mr. Fantástico de
+  Marvel) ✅.
+- **Toca la guitarra y el sitar.** Le hacen cosquillas. El kanji de su
+  playera es «kaiju» (怪獣, monstruo gigante) ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Fred)).
+- **Color propio: azul** (el traje de kaiju).
+
+### Wasabi
+- **Altura:** 1,93 m (6'4"), el más alto del equipo. **Edad:** 21 (su pastel
+  de cumpleaños en «Steamer's Revenge» tiene 21 velas) ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Wasabi)).
+- **Cumpleaños:** no dicho con fecha exacta, pero una escena («muro de
+  cumpleaños») muestra un calendario que sugiere que es **el día 15** de
+  abril, junio, septiembre o noviembre (el único mes que no se puede descartar
+  por el patrón del calendario) ⚠️ (dato deducido por fans a partir de una
+  imagen, no confirmado por Disney).
+- **Le gusta:** el color verde, tejer, planchar, trenes miniatura, el orden,
+  la jardinería sustentable, el tai-chi, sándwiches, pay, láseres, la
+  higiene, máquinas de escribir antiguas.
+- **Le odia:** el desorden, el polen, los perros (alergia), los gérmenes,
+  **las alturas** (acrofobia — la línea del tráiler «me aterran las alturas,
+  por eso no la amo», sí es suya), el exceso de velocidad, la imprudencia,
+  los chistes malos.
+- **«Wasabi» es sólo un apodo**; su verdadero nombre nunca se dice en ninguna
+  parte, ni en su expediente ✅.
+- **Tiene glosofobia** (miedo a hablar en público) que supera en un capítulo
+  de la serie; es supersticioso aunque lo niega ⚠️ (un capítulo, wiki).
+- **Color propio: verde** (por el condimento wasabi).
+
+### GoGo Tomago
+- **Altura:** 1,62 m (5'4") ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Go_Go_Tomago)).
+- **Le gusta:** sus amigos, mascar chicle, ingeniería, ensalada de kale,
+  kickboxing, punk rock, gatitos.
+- **Le odia:** la cobardía, lo «tierno» (a veces), la prudencia excesiva, el
+  exceso de payasadas, la soledad.
+- **Manía:** pega un chicle mascado a sus vehículos por buena suerte —
+  homenaje a la película *The Rocketeer* ✅.
+- Es el **primer personaje coreano de Disney** ✅. Su nombre real nunca se
+  dice (en los cómics es Leiko Tanaka, japonesa; en la versión Disney es
+  coreana); los fans la apodan «Ethel» por sugerencia de su actriz original,
+  Jamie Chung ⚠️ (una fuente, tuit archivado).
+- **Color propio: amarillo.**
+
+### Tía Cass
+- **Le gusta:** hornear, cocinar, su familia, la poesía, ver películas,
+  gatos, karaoke, hacer ejercicio.
+- **Le odia:** el peligro para su familia, comer por estrés, que Hiro esté
+  triste, que insulten su comida, que sus sobrinos se metan en líos.
+- Cocina «alitas de pollo con esa salsa picante» (ya en la biblia) y tiene
+  gusto por la poesía, algo que casi no se ve en pantalla ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Aunt_Cass)).
+- **Dato curioso:** en versiones tempranas del guion, Cass iba a ser la madre
+  de Hiro y Tadashi (más cerca del cómic original), no su tía ⚠️ (un vídeo de
+  2013 de Rotoscopers, una fuente).
+
+### Mochi (el gato)
+- Gato bobtail japonés con patrón **calicó de tres colores** (blanco, naranja
+  y negro): genéticamente eso es casi siempre hembra, pero Mochi es
+  oficialmente macho, por eso Hiro dice «¡sí que está loco ese gato!» — un
+  dato de interés textual de Doblaje Wiki, que la biblia ya tenía ✅.
+
+## 7 · Punto 21 — Por qué la gente la ama
+
+### Razones concretas (crítica, premios, ventas)
+- **Taquilla:** 222,5 millones de dólares en Norteamérica y 435,3 millones en
+  el resto del mundo, **657,8 millones en total** — la animada más taquillera
+  de 2014 en todo el mundo ✅ ([Wikipedia, ficha de la película](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+  contrastado con [Box Office Mojo](https://www.boxofficemojo.com/release/rl2708621313/), citado en la propia Wikipedia).
+- **Japón** aportó 76 millones de dólares de esa cifra — uno de los mercados
+  más fuertes fuera de EE. UU., algo llamativo para una peli «occidental» ✅
+  (mismo artículo de Wikipedia).
+- **Crítica:** 90% en Rotten Tomatoes (229 reseñas, nota media 7,4/10), 74/100
+  en Metacritic (38 reseñas, «favorable en general»), «A» en CinemaScore
+  (encuesta a público de estreno) ✅ (Wikipedia, que cita Rotten Tomatoes y
+  Metacritic directamente).
+- **Premios:** ganó el **Óscar a Mejor Película Animada** (87.ª entrega);
+  7 nominaciones a los Annie Awards (ganó 1); nominada al Globo de Oro; y
+  Kids' Choice Award 2015 a «Película animada favorita» ✅ (Wikipedia +
+  wikitext de Doblaje Wiki, que menciona el Óscar y el Kids' Choice de forma
+  independiente).
+- **Reseña citada:** Michael O'Sullivan (*The Washington Post*, 3,5/4
+  estrellas): «El verdadero atractivo de Big Hero 6 no es la acción. Es el
+  corazón del personaje central» (traducción propia) ✅ (recogida en
+  Wikipedia).
+
+### Con qué personaje se identifica el público, y por qué
+- **Con Hiro**, por el duelo: perder a un hermano de golpe y no saber qué
+  hacer con la rabia es universal; varias reseñas señalan que la película
+  «engaña» al espectador (empieza como comedia de robots y se vuelve una
+  historia de duelo) — es el motivo más citado de que enganche a tanta gente,
+  no sólo a niños ✅ (Washington Post, arriba; TV Tropes, ver abajo).
+- **Con Baymax**, por el consuelo: la gente proyecta en él el cuidador ideal
+  que nunca juzga y siempre quiere ayudar — de ahí que gane por goleada la
+  encuesta de personajes (punto 4) y que en China lo llamen «大众情人», «el
+  amor de todos» (biblia, punto 2).
+
+### Las escenas que hacen llorar (o reír de emoción)
+**No encontré el minuto exacto de la película para estas escenas** (busqué
+guiones con marca de tiempo, la wiki de CinemaSins —que numera «pecados», no
+minutos reales— y clips doblados en Dailymotion e Internet Archive con la
+escena del incendio: no aparece ninguno; YouTube pide inicio de sesión en
+este servidor). Quedan con la escena descrita y ⚠️ de minuto.
+
+- **El incendio y la muerte de Tadashi** (acto 1): Tadashi vuelve corriendo al
+  edificio en llamas por salvar al profesor Callaghan; la explosión pasa
+  fuera de cámara, se ve sólo el estallido desde donde está Hiro. Duele
+  porque es repentino y no se recrea con morbo ✅ (descrito en
+  [Wikipedia, la trama](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+  [wiki de BH6, Tadashi](https://bighero6.fandom.com/wiki/Tadashi_Hamada)).
+- **El funeral de Tadashi**, con lluvia: todos los amigos están destrozados,
+  intentan consolar a la tía Cass, e Hiro se queda solo, sentado arriba de
+  las escaleras, sin hablar con nadie — la lluvia y el silencio hacen el
+  golpe ✅ ([TearJerker/BigHero6, TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/BigHero6);
+  visto por buscador, la web da 403 directo).
+- **Los vídeos del taller de Tadashi**: Hiro los ve solo y dice en voz baja
+  «Supongo que no soy como mi hermano» — momento silencioso, sin música
+  grandilocuente, que muestra que de verdad lo admiraba ✅ (misma fuente).
+- **El sacrificio de Baymax** (clímax): Baymax va a autodesactivarse para
+  impulsar a Hiro de vuelta a un portal y le dice, con su voz de siempre,
+  que no puede desactivarse hasta que Hiro esté satisfecho con su cuidado.
+  Es el momento más citado como el que más hace llorar: Hiro se despide de
+  Baymax como se despidió de Tadashi, porque Baymax lleva el «chip» que
+  Tadashi programó — es literalmente perder a su hermano dos veces ✅ (muy
+  citado en foros y notas de reseña; frase confirmada de oído con minuto en
+  el punto 2 de esta parte, aunque en un clip distinto al de la escena
+  completa del clímax, que no encontré doblado).
+- **Reacciones del público:** no encontré un hilo de Reddit con votos altos
+  específico de esta escena (`r/disney`, `r/MadeMeCry`: los que aparecieron
+  con la búsqueda por Arctic Shift no hablaban de la película, o la API dio
+  «Timeout» varias veces al repetir la búsqueda) ni un vídeo de reacción
+  concreto (hay decenas en YouTube, pero esa plataforma pide iniciar sesión
+  desde este servidor). Sirve como pista para quien continúe: buscar
+  «Big Hero 6 reaction Tadashi» directo en YouTube con sesión iniciada.
+
+## 8 · Punto 22 — Fan dubs y comunidad hispana
+
+- **Parodias fandub en español latino, en YouTube** (con oEmbed comprobado,
+  sin necesitar sesión):
+  - **«6 Grandes Heroes - Parodia Fandub a La Chilena - Español Latino»**,
+    canal **RobertMan FANDUBS** ✅ ([YouTube](https://www.youtube.com/watch?v=pBPMBFzKmQ8),
+    confirmado con [oEmbed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pBPMBFzKmQ8&format=json):
+    título y canal reales).
+  - **«Big Hero Sweet - Parodia Grandes Heroes【Fandub Latino】»**, canal
+    **Ken Asakura** ✅ (mismo método de verificación,
+    [vídeo](https://www.youtube.com/watch?v=jo8Gk5Gt128)).
+  - No pude ver las vistas ni la fecha exacta de ninguno de los dos (oEmbed no
+    las da, y YouTube pide sesión desde este servidor para la página normal):
+    ⚠️ en ese dato puntual.
+- **TikTok, doblaje y memes**: hay una etiqueta activa **«Grandes Héroes
+  Doblaje Latino»** con varios clips de fans imitando o comentando el
+  doblaje ✅ ([TikTok, discover](https://www.tiktok.com/discover/grandes-h%C3%A9roes-doblaje-latino)).
+  Un ejemplo puntual: **«Saludo de Baymax en Español Latino - Grandes
+  Héroes»**, de la usuaria `@paulaalegriat` ✅ ([TikTok](https://www.tiktok.com/@paulaalegriat/video/6854733516253433093)).
+- **El meme de la casa de Fred**: la revelación de que Fred es multimillonario
+  y vive en una mansión («Bienvenidos a mi casa» / «Welcome to mi casa», el
+  chiste bilingüe del punto 5) se volvió formato de meme hispano en TikTok,
+  con chistes tipo «Creí que vivías bajo un puente» ✅ ([TikTok, «Welcome to
+  mi casa Big Hero 6»](https://www.tiktok.com/discover/welcome-to-mi-casa-big-hero-6)).
+- **Memedroid en español** tiene una etiqueta «Big Hero 6» con memes de
+  fans hispanohablantes ⚠️ (la página bloqueó el acceso directo, 403; visto
+  sólo por resumen del buscador, con el título «Top memes de Big Hero 6 en
+  español»).
+- **No hay covers de opening/ending en español**: a diferencia de un anime,
+  *Big Hero 6* es una película sin tema de apertura cantado; lo más cercano
+  es «Immortals» de Fall Out Boy (usada en el tráiler), y no encontré ningún
+  cover en español de esa canción ligado a la película (busqué «Immortals
+  Fall Out Boy cover español Big Hero 6», «Immortals versión latina») — punto
+  que **no aplica** tal cual lo pide el encargo, aclarado en vez de forzarlo.
+- **No encontré doblajes de fans completos (audio propio) en YouTube ni
+  Dailymotion**, sólo las dos parodias de arriba y clips de imitación de voz
+  sueltos en TikTok. Puede haber más en YouTube que este servidor no deja ver
+  sin sesión: queda como pendiente para quien tenga acceso.
+
