@@ -775,12 +775,18 @@ y la Pokédex a los niños del pueblo. En el juego se presenta así ✅
   vida» ✅ (película, 00:03:44).
 - **Avisa antes**: «Debo avisarte de que hay un problema con este último»
   ✅ (película, 00:04:01).
-- **Voz latina**: Hugo Navarrete. Desde mediados de la temporada 1, una voz
-  **ronca, llena de experiencia** ⚠️ (Doblaje Wiki, por el resumen de la
-  búsqueda).
+- **Voz latina**: Hugo Navarrete. Su muestra de Doblaje Wiki, oída y
+  transcrita: «Al que madruga Dios le ayuda, y en este caso gana el
+  Pokémon [...] tengo que advertirte que **hay un problema con este
+  último**» ✅. Es la misma muletilla que en la película de 2017: **su
+  firma real**. Medida con `voz.py`: registro **medio (149 Hz)**,
+  expresividad 12,1 semitonos (de las más bajas), 3,01 palabras/s:
+  **autoridad calmada** ✅. Que suene «ronca» sigue siendo una impresión ⚠️.
 - Lenguaje corporal: en el sprite de Game Boy, **una mano en el pecho** ✅
-  (lo vi). En el anime, manos a la espalda o un dedo en alto al explicar ⚠️
-  (de memoria: comprobar en los fotogramas del punto 3).
+  (lo vi). En el capítulo 1 real: **de pie junto a Ash, bata blanca y
+  corbata roja, explicando con la mano** (≈6:09-6:31) y **serio y quieto**
+  mirando a Ash chamuscado (≈7:18) ✅ (visto). El dedo en alto y las manos
+  a la espalda no se vieron ⚠️.
 
 ### Pikachu (el de Ash)
 **Qué es.** El «**Pokémon Ratón**» ✅ ([PokeAPI](https://github.com/PokeAPI/pokeapi)).
@@ -814,6 +820,12 @@ La cara de la franquicia.
 - **Cómo saluda**: «Los miembros de esta especie **se saludan uniendo sus
   colas** y transmitiéndose corriente eléctrica» ✅ (Pokédex de Escudo).
 - **Tímido pero electrizante si lo tocan** ✅ (película, 00:04:51).
+- **Se niega a la Pokébola dos veces** en el capítulo 1: en el laboratorio
+  y otra vez herido, con la pata, a las ≈17:37-17:52 ✅ (visto). Es un
+  rasgo, no un chiste suelto.
+- Su voz real (muestra de Doblaje Wiki, S01E07): sólo «¡Pika!», «Chuuu»,
+  «Kaachu». Medida: **muy aguda (348 Hz)** y **lenta (1,16 palabras/s)**:
+  cada «chu» es una frase entera ✅.
 
 ### Ash Ketchum
 **Qué es.** Un niño de **casi diez años** de Pueblo Paleta que quiere ser
@@ -825,7 +837,21 @@ Maestro Pokémon ✅ (película, 00:01:39).
 - **Cariñoso aunque le cueste**: «¡Aguanto una descarguita!» ✅ (00:05:00).
   «¡Tú y yo vamos a ser los mejores amigos!» ✅ (00:04:44).
 - Iba a elegir **a Squirtle** ✅ (película, 00:03:19; Pokémon Wiki).
-- **Se da la vuelta a la gorra** cuando va en serio ⚠️ (punto 3.3).
+- **Se da la vuelta a la gorra** cuando va en serio ⚠️ (punto 3.3; no se
+  encontró clip en la segunda pasada).
+- **Protege con el cuerpo**: bajo la lluvia se planta con los brazos
+  abiertos ante los Spearow para cubrir a Pikachu (capítulo 1, ≈18:23) ✅
+  (visto). Es el origen de su amistad.
+- **Su cara en cada emoción** (capítulo 1, visto): **sorpresa y dolor
+  cómico** cuando Pikachu lo descarga (≈7:04-7:12); **risa a pesar de
+  todo**, chamuscado (≈7:18); **determinación** bajo la lluvia (≈18:23);
+  **alegría tranquila** mirando a Pikachu a salvo (≈19:58). Rabia,
+  tristeza, miedo y vergüenza **no se miraron en fotograma** ⚠️.
+- Su voz latina, **Gabriel Ramos**, en la muestra de Doblaje Wiki (S01E07):
+  «Pikachu, ¿pero qué haces ahí? [...] Creo que está bien que no quieras
+  pelear contra una amiga». Medida: **aguda (247 Hz)**, muy expresiva
+  (16,7 semitonos), rápida (3,23 palabras/s): **niño enérgico** que cambia
+  de tono enseguida ✅.
 - Frase: «**¡Yo te elijo!**» ✅.
 - Guiño de los juegos: en Rojo/Azul en español, **«ASH» es uno de los
   nombres que el juego te propone**, y «GARY» para el rival ✅ (menú
@@ -841,6 +867,69 @@ Nombres y frases **oficiales en español** ✅ ([PokeAPI](https://github.com/Pok
 | **Squirtle** | Pokémon Tortuguita | «Se protege con su caparazón y luego contraataca lanzando agua a presión» (X) | travieso, defensivo |
 
 En el capítulo 1 **los tres ya no están**: se los llevaron otros niños ✅.
+
+### Gary Oak, el rival (nuevo en la segunda pasada)
+- **Nieto de Oak** y vecino de Ash. En el capítulo 1 se va del
+  laboratorio **presumiendo, puño en alto, con porristas** detrás
+  (≈5:09) ✅ (visto).
+- En Rojo/Azul su nombre por defecto es **GARY**, y en el tráiler oficial
+  de los juegos en español el jugador se llama **ASH** ✅ (punto 12).
+- Voz latina: **Gerardo del Valle** (temporadas 1-5, primera película,
+  redoblaje de 2015 y *Viajes Pokémon*) ✅ (Doblaje Wiki, WikiDex, Pokémon
+  Project). Su muestra (S05E59): «¡Te voy a destrozar! ¡Te veré en la
+  demolición!». Medida: registro medio (204 Hz) pero **sube mucho al
+  fanfarronear** (20,4 semitonos) ✅.
+- Dinámica: **rival que se burla**, luego amigo; se dan la mano al
+  atardecer ([nº164 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/b/b3/Ash_and_Gary.png)).
+
+### Delia Ketchum, la madre de Ash
+- Voz latina: **Patricia Hannidez** (temporadas 1-7 y 12 en adelante) ✅
+  (Doblaje Wiki, su ficha propia y una publicación en X). Muestra
+  (S01E64): «Ay... ya me estoy preocupando por Ash, espero que esté bien
+  [...] tendré tu almuerzo listo en un minuto». **Siempre pendiente de que
+  Ash coma** ✅. Sube mucho al preocuparse (22,5 semitonos).
+- Sale con Oak en el laboratorio ([nº24 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png)).
+
+### Misty y Brock (cómo hablan, con su voz real)
+- **Misty** (Xóchitl Ugarte), S01E07: «Soy la cuarta hermana sensacional
+  [...] probaré que no soy una fracasada». **La más rápida** del grupo
+  (3,83 palabras/s, 335 Hz): **mandona** ✅. Conoce a Ash pescando
+  (capítulo 1, ≈16:02) ✅ (visto).
+- **Brock** (Gabriel Gama), S01E07: «Yo también soy líder de gimnasio y
+  sería una falta de respeto, ¿tú entiendes?». **El más sereno** (11,6
+  semitonos, 204 Hz): **hermano mayor** ✅.
+
+### El Equipo Rocket y Giovanni
+- **Jessie** (Diana Pérez) y **James** (Pepe Toño Macías) **declaman** el
+  lema, no lo hablan: bajan la velocidad y suben la expresividad (22,6 y
+  20,0 semitonos) ✅. **Meowth** (Gerardo Vásquez, también director del
+  doblaje) es **el más expresivo de todo el reparto: 25,6 semitonos**; es
+  el cómico del trío ✅.
+- **Giovanni**, el jefe (Alejandro Villeli): «¿De qué están hablando,
+  ineptos? [...] ¡Son unos incompetentes!». **La voz más grave del
+  reparto (139 Hz)**: villano serio ✅ (Doblaje Wiki, WikiDex).
+
+### Cómo suenan: las voces latinas medidas
+Con `voz.py` sobre las 11 muestras de audio de Doblaje Wiki ✅ (medido del
+audio, no de oído):
+
+| Personaje (actor) | Registro | Expresividad | Velocidad | Lectura |
+|---|---|---|---|---|
+| Ash (Gabriel Ramos) | agudo, 247 Hz | 16,7 semitonos | 3,23 pal/s | niño enérgico |
+| Pikachu (Ikue Ōtani) | muy agudo, 348 Hz | 15,0 | 1,16 pal/s | ladridos cortos |
+| Misty (Xóchitl Ugarte) | muy agudo, 335 Hz | 16,3 | **3,83 pal/s** | la más rápida, mandona |
+| Brock (Gabriel Gama) | medio, 204 Hz | **11,6** | 3,61 pal/s | el más sereno |
+| Jessie (Diana Pérez) | agudo, 295 Hz | 22,6 | 2,39 pal/s | declama |
+| James (Pepe Toño Macías) | agudo, 225 Hz | 20,0 | 2,83 pal/s | declama |
+| Meowth (Gerardo Vásquez) | muy agudo, 327 Hz | **25,6** | 3,14 pal/s | el cómico |
+| Oak (Hugo Navarrete) | medio, 149 Hz | 12,1 | 3,01 pal/s | autoridad calmada |
+| Gary (Gerardo del Valle) | medio, 204 Hz | 20,4 | 3,27 pal/s | fanfarrón |
+| Giovanni (Alejandro Villeli) | **grave, 139 Hz** | 17,2 | 3,42 pal/s | villano serio |
+| Delia (Patricia Hannidez) | agudo, 247 Hz | 22,5 | 2,76 pal/s | madre preocupada |
+
+**Para la lámina**: una instrucción serena («Reacciona abajo») pega con
+**Oak** (registro medio, poca subida). Un texto exagerado o de broma
+pega con **Meowth o Jessie**.
 
 ### Los secundarios más queridos (para tenerlos a mano)
 - **El Equipo Rocket**: Jessie, James y Meowth. Su lema en latino es
@@ -866,6 +955,8 @@ En el capítulo 1 **los tres ya no están**: se los llevaron otros niños ✅.
 | Corea, 2016 | **1.º Pikachu**, 9.º Charizard | ⚠️ [Namuwiki](https://namu.wiki/w/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0/%EC%9D%B8%EA%B8%B0%ED%88%AC%ED%91%9C) |
 | Iniciales, encuesta de fans (unas 4.000 personas, 2021) | Charizard y su línea encabezan | ⚠️ [Nintendo Life](https://www.nintendolife.com/news/2021/01/almost_4000_people_have_ranked_their_top_starter_pokemon_-_here_are_the_results), [Dexerto](https://www.dexerto.com/pokemon/pokemon-survey-most-popular-744873/) |
 | Japón, 2025 | Charizard arriba | ⚠️ [CBR](https://www.cbr.com/most-popular-pokemon-2025-ranked-japan/) |
+| **Favoritos de AniList** (personajes del anime, usuarios de todo el mundo, sep-2026) | 1.º el Narrador (2.232), **2.º Ash (1.607)**, **3.º Pikachu (1.282)**, **4.º James (1.170)**, 5.º Jessie (664), 6.º Brock (648), 7.º Misty (500), 8.º Meowth (378). Oak (Yukinari Ōkido): 21.º (72) | ✅ datos de la API ([AniList](https://anilist.co/anime/527)) |
+| **Pokémon más buscado por país** (Google, estudio de The Toy Zone con Ahrefs) | **Chikorita** en México, El Salvador y Perú; **Vaporeon** en Argentina, Colombia y Uruguay; **Abra** en Bolivia, Ecuador, Panamá y Guatemala | ⚠️ un estudio, con eco en [3DJuegos LATAM](https://www.3djuegos.lat/nintendo-switch/chikorita-pokemon-favorito-mexico-pikachu-popular-mundo-este-estudio-revela-popularidad-pokemon-todo-planeta) y [SensaCine México](https://www.sensacine.com.mx/album/album-1000104421/) |
 
 **Conclusión para la lámina**
 - **Pikachu** es la cara que todos reconocen, pero **no gana los votos**
@@ -876,8 +967,16 @@ En el capítulo 1 **los tres ya no están**: se los llevaron otros niños ✅.
   es quien tiene que hablar.
 - Por eso: Oak habla, Pikachu es el guiño, y un concepto se lo damos a
   Charmander.
-- No hay encuesta latinoamericana ⚠️. El cariño latino al Equipo Rocket y
-  a Gabo Ramos sale en la prensa, no en votos.
+- **Entre los humanos del anime, James es casi tan querido como Ash**
+  (AniList): el Equipo Rocket es un secundario que compite con el
+  protagonista.
+- En Latinoamérica **no hay encuesta de personajes humanos** (se buscó en
+  español, segunda pasada) ⚠️. Lo que sí hay: el Pokémon más buscado por
+  país (tabla), que **no sigue** al ranking mundial, y un cariño enorme
+  **al actor**: miles de fans agradecieron a **Gabo Ramos** cuando dejó a
+  Ash en 2009 y cuando terminó su historia en 2023 ✅
+  ([Infobae](https://www.infobae.com/america/mexico/2022/12/16/fans-de-pokemon-le-agradecieron-a-gabo-ramos-por-haber-sido-la-primera-voz-de-ash-ketchum/),
+  [La República](https://larepublica.pe/animes/2022/11/14/pokemon-por-que-gabo-ramos-dejo-de-doblar-al-personaje-del-anime-actor-aclaro-misterio)).
 
 ---
 
@@ -890,8 +989,10 @@ Latinoamérica ✅
 [Azteca Jalisco](https://www.aztecajalisco.com/espectaculos/quien-hizo-el-doblaje-pokemon-en-espanol-latino-actores-estudios-y-datos-que-no),
 [PRODU](https://www.produ.com/television/noticias/audiomaster-3000-inicia-doblaje-de-la-segunda-pelicula-de-pokemon/)).
 Se dobló **desde la versión de Estados Unidos**. Estreno en Cartoon Network
-el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠️
-(una fuente).
+el **6 de septiembre de 1999** ✅ (Doblaje Wiki y [Wikipedia en español](https://es.wikipedia.org/wiki/Pok%C3%A9mon_(serie_de_televisi%C3%B3n)),
+que dice que se emitió ahí hasta el 20 de enero de 2004). Traducción y
+adaptación: **Bernardo López** ✅ (Doblaje Wiki, [su ficha](https://doblaje.fandom.com/es/wiki/Bernardo_L%C3%B3pez)
+y Azteca Jalisco).
 
 | Personaje | Voz latina | Estado |
 |---|---|---|
@@ -899,13 +1000,18 @@ el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠
 | **Ash** | **Gabriel «Gabo» Ramos**, del capítulo 1 hasta 2009 (temporadas 1 a 12). Volvió en *Viajes* como el Ash de otra dimensión | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ash_Ketchum), [El Comercio](https://elcomercio.pe/respuestas/que/que-fue-de-la-vida-de-gabo-ramos-la-voz-de-ash-ketchum-en-pokemon-la-voz-de-ash-tdex-revtli-noticia/), [ANMTV](https://www.anmtvla.com/2022/05/viajes-pokemon-gabo-ramos-vuelve-ser-la.html), [Código Espagueti](https://codigoespagueti.com/noticias/anime/doblaje-de-viajes-pokemon-trae-de-vuelta-a-gabo-ramos-el-primer-ash-ketchum/) |
 | **Ash** (desde la temporada 13 y en la película de 2017) | **Miguel Ángel Leal** | ✅ El Comercio, Xataka |
 | **Pikachu** | **Ikue Ōtani**, la voz japonesa, **conservada en todos los doblajes** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ikue_%C5%8Ctani), [WikiDex](https://www.wikidex.net/wiki/Ikue_%C5%8Ctani), [Wikipedia](https://en.wikipedia.org/wiki/Ikue_%C5%8Ctani) |
-| Pikachu cuando **habla** en la película de 2017 | Ana Lobo | ⚠️ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_pel%C3%ADcula_Pok%C3%A9mon:_%C2%A1Yo_te_elijo!) |
+| Pikachu cuando **habla** en la película de 2017 | **Ana Lobo**, actriz de Michoacán | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_pel%C3%ADcula_Pok%C3%A9mon:_%C2%A1Yo_te_elijo!), [MiMorelia](https://mimorelia.com/noticias/nueva-voz-pikachu-michoacan-aqui-le-decimos-parte) |
+| Pikachu hablando en el **capítulo 17** | Ana Lobo **o** Claudia Motta: la propia Doblaje Wiki dice las dos cosas en dos apartados | ⚠️ hay que oír el capítulo |
 | **Misty** | **Xóchitl Ugarte** | ✅ [Otaku Press (entrevista)](https://www.otakupress.pe/2016/10/entrevista-misty-pokemon-xochitl-ugarte-otakufest.html), [Anime Argentina](https://animeargentina.net/xochitl-ugarte-doblaje/), Azteca Jalisco |
 | **Brock** | **Gabriel Gama** | ✅ [Anime Argentina](https://animeargentina.net/gabriel-gama-doblaje/), Azteca Jalisco |
 | **Jessie** | **Diana Pérez** (murió el 27 de abril de 2021) | ✅ Infobae, El Universal, SuperGeek |
 | **James** | **Pepe Toño Macías** | ✅ El Universal, [su TikTok oficial](https://www.tiktok.com/@pepetomaciasoficial/video/7414164314644434181) |
 | **Meowth** | **Gerardo Vásquez** (el director) | ✅ [TikTok de Doblaje a la Mexicana](https://www.tiktok.com/@doblajealamexicana/video/7309360974945979654), El Universal |
-| La Pokédex | — | **no encontrado** |
+| **Gary Oak** | **Gerardo del Valle** (temporadas 1-5, primera película, redoblaje de 2015 y *Viajes*) | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Gerardo_del_Valle), [WikiDex](https://www.wikidex.net/wiki/Gerardo_del_Valle), [Pokémon Project](https://pokemon-project.com/anime-5/actores-de-doblaje-y-seiyuus/gerardo-del-valle) |
+| **Delia Ketchum** | **Patricia Hannidez** (temporadas 1-7 y 12+; en *Crónicas Pokémon* la cubrieron Karina Altamirano o Rebeca Manríquez) | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Delia_Ketchum), [X](https://x.com/97_kenshiro/status/1793283148702253274) |
+| **Giovanni** | **Alejandro Villeli** | ✅ Doblaje Wiki, [WikiDex](https://www.wikidex.net/wiki/Alejandro_Villeli) |
+| Enfermera Joy | Liliana Barba en el capítulo 2; después, fija, **Mildred Barrera** | ⚠️ una fuente (Doblaje Wiki) |
+| La Pokédex | **Rubén León**, sólo en tres capítulos de Totodile (temporada 3); del resto, no encontrado | ⚠️ una fuente (Doblaje Wiki) |
 
 **Frases del doblaje latino**
 - «**¡Pikachu, yo te elijo!**» ✅ (Trome, Infobae).
@@ -917,7 +1023,7 @@ el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠
   > a luchar! ¡Meowth! ¡Así es!
 - Título del capítulo 1: «**¡Pokémon, yo te elijo!**» ✅.
 - **Pokébola**: en el anime latino se dice «Pokébola»; en España, «Poké
-  Ball» ⚠️ ([WikiDex](https://www.wikidex.net/wiki/Pok%C3%A9bola/Pok%C3%A9_Ball_(anime)));
+  Ball» ✅ ([WikiDex](https://www.wikidex.net/wiki/Pok%C3%A9bola/Pok%C3%A9_Ball_(anime)));
   el merchandising de 1999 respetó los términos del anime
   ([ANMTV](https://www.anmtvla.com/2022/05/existe-merchandising-oficial-de-pokemon.html)).
 - **Ojo**: los juegos clásicos llegaron **en español de España**. La
@@ -925,6 +1031,62 @@ el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠
   (titular de [3DJuegos LATAM](https://www.3djuegos.lat/nintendo-switch/pokemon-go-sera-primer-juego-traduccion-oficial-espanol-latino-olvidate-ascuas-placaje-a-bocajarro)).
   Por eso el texto de la lámina se adapta: «Pokébola», «ustedes», sin
   «vale».
+
+### 10.1 Frases textuales, oídas en audio real (segunda pasada)
+**Tráiler oficial latino de *¡Yo te elijo!*** en
+[Dailymotion](https://www.dailymotion.com/video/x69qn7q), pasado por
+`voz.py` ✅:
+- [0:07](https://www.dailymotion.com/video/x69qn7q?t=7) Oak: «...que
+  madruga todo se le resuelve, y en este caso se queda con el Pokémon».
+- [0:18](https://www.dailymotion.com/video/x69qn7q?t=18) Ash: **«Hola
+  Pikachu, mi nombre es Ash y vamos a ser los mejores amigos»**.
+- [1:04](https://www.dailymotion.com/video/x69qn7q?t=64) el rival: «No
+  eres muy débil. Recuerda: la supremacía del más fuerte es la ley».
+- [1:20](https://www.dailymotion.com/video/x69qn7q?t=80) Ash: «Mientras
+  tenga a mi amigo, puedo ir a cualquier lugar».
+
+**Muestras de Doblaje Wiki** (un clip por actor, con episodio pero sin
+minuto) ✅: Oak, «tengo que advertirte que hay un problema con este
+último»; Ash, «Creo que está bien que no quieras pelear contra una
+amiga»; Brock, «sería una falta de respeto, ¿tú entiendes?»; Misty, «Soy
+la cuarta hermana sensacional»; Gary, «¡Te voy a destrozar!»; Giovanni,
+«¡Son unos incompetentes!»; Delia, «tendré tu almuerzo listo en un
+minuto»; Meowth, «¡Porque yo sí sé cómo hacerlo!». Enlaces a cada audio
+en `referencias.json`.
+
+**El lema, con las dos mitades oídas** (S01E07):
+- James: «Permítanos presentarnos, para unir a los pueblos dentro de
+  nuestra nación, para extender nuestro reino hasta las estrellas [...]
+  ríndanse ahora o prepárense para luchar».
+- Jessie: «...para proteger al mundo de la devastación, para denunciar
+  los males de la verdad y el amor... ¡El Equipo Rocket viajando a la
+  velocidad de la luz!»
+
+### 10.2 Detrás del doblaje (Doblaje Wiki, «Datos de interés»)
+Citan entrevistas del director Gerardo Vásquez (canal «Leyendas del
+doblaje», podcast «IDZI'S CUT») y de Georgina Sánchez
+([Facebook](https://www.facebook.com/TorreADoblaje/videos/2529980197313586)):
+- **Brock, Jessie y James se dieron sin audición.** Diana Pérez había
+  probado para Misty y para Delia; José Antonio Macías, para el
+  narrador ✅.
+- Macías y Vásquez **quisieron dejar la serie** cuando les prohibieron
+  improvisar; volvieron cuando se lo permitieron «de manera paulatina» ✅.
+- Ash **iba a ser de Víctor Ugarte** ⚠️ (una mención de Gabriel Ramos, sin
+  la entrevista enlazada).
+- Xóchitl Ugarte **no supo que era su última grabación** como Misty ⚠️.
+- Cuando un Pokémon habla (Pikachu, Meowth), se usa **voice-over**: la voz
+  doblada va encima de la original y se oyen las dos ✅.
+- **Tres capítulos no se emitieron fuera de Japón**: el 35 (armas), el 38
+  (Porygon, los destellos que causaron ataques a cientos de niños en 1997)
+  y el 18 («Beauty and the Beach»). Del 18, Diana Pérez contó que **sí se
+  llegó a doblar**, y en [Internet Archive](https://archive.org/details/pokemon-capitulo-18-espanol-latino?t=102)
+  hay una copia doblada al latino (960×720): el narrador, a los
+  [1:42](https://archive.org/details/pokemon-capitulo-18-espanol-latino?t=102),
+  dice «Encontramos a nuestros héroes varados en Portovista». Es una rareza
+  para el servidor, **no para la lámina** (el capítulo tiene un concurso
+  de bañadores). No se oyó entero ni se comprobó su reparto ⚠️.
+- El segmento **«Pokémon Karaokémon»** se dobló al español **sin los
+  subtítulos de karaoke**, y perdió el sentido ⚠️ (una fuente).
 
 **Más para empaparse**: [Momentos del doblaje latino, por Gabo Ramos](https://www.tiktok.com/@gaboramosoficial/video/7503704723560647944);
 [reparto latino de *Viajes*](https://funianime.com/conoce-al-elenco-del-doblaje-latino-de-viajes-pokemon/);
@@ -947,11 +1109,40 @@ el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠
 - **Música del anime**: **Shinji Miyazaki**, que adaptó temas de los
   juegos ⚠️ (una fuente: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pocket_Monsters_Original_Soundtrack_Best)).
 - **Opening latino**: «**¡Atrápalos ya!**», versión del tema de Estados
-  Unidos que cantó **Jason Paige**. Se oyó en los primeros 83 capítulos ⚠️.
-  Lo canta **Óscar Roa** ⚠️
-  ([Gizmodo](https://es.gizmodo.com/esta-es-la-voz-de-la-mitica-cancion-original-de-pokemon-1784473767),
+  Unidos que cantó **Jason Paige**. Se oyó en los **capítulos 1-83** y lo
+  canta **Óscar Roa**, tenor de Tehuacán ✅ (segunda pasada: tabla de
+  aperturas de [Doblaje Wiki, Pokémon/Música](https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon/M%C3%BAsica)
+  y [ficha de Óscar Roa](https://doblaje.fandom.com/es/wiki/%C3%93scar_Roa);
+  antes, [Gizmodo](https://es.gizmodo.com/esta-es-la-voz-de-la-mitica-cancion-original-de-pokemon-1784473767),
   [Pianos PUCH](https://pianospuch.com.ar/cancion-pokemon-del-inicio-letra-piano/),
   [Letras.com](https://www.letras.com/pokemon/1679402/)).
+- Letra latina, del wikitext de Doblaje Wiki ✅: «Tengo que ser siempre el
+  mejor, / mejor que nadie más... / Atraparlos mi prueba es, / entrenarlos
+  mi ideal... [...] ¡Pokémon! / Atrápalos ya, / ¡Atrápalos ya!».
+- **Segunda apertura latina, «Mundo Pokémon»** (capítulos 84-116): la
+  canta **Rodrigo Zea** (en inglés, Russell Velázquez) ✅ (misma fuente).
+- Adaptación de las letras y dirección musical: **Adolfo Aguirre Gamboa** y
+  **Jorge Roig**; grabadas en **Audiomaster 3000** ✅ (misma fuente).
+- **Los endings casi nunca se doblaron**: «Generalmente los cierres no son
+  doblados al inglés y por ende tampoco al español» ✅ (misma fuente). Un
+  «Peace Smile» con letra en español que hay en
+  [Dailymotion](https://www.dailymotion.com/video/x3urahi) es **vídeo de
+  fans** con ilustraciones fijas: no usarlo como si fuera oficial.
+- **Cápsulas musicales** tras los capítulos: el **Pokérap** (150 Pokémon en
+  5 versiones, tras los primeros 52 capítulos), **«La Rockola de Pikachu»**
+  y, en la temporada 3, **«Pokémon Karaokémon»** ✅ (misma fuente).
+- **«The Time Has Come (Pikachu's Goodbye)»**: la canción del montaje de
+  despedida del capítulo 39, uno de los que más hacen llorar (P21) ✅
+  (Bulbapedia EP039).
+
+**Efectos de sonido y onomatopeyas**
+- **Pikachu sólo dice su nombre** («pika», «pika-pika», «pikachu-u»), con
+  la voz de Ikue Ōtani desde 1997 ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Pikachu)
+  y las muestras de audio). «¡Pikapi!» se entiende sin subtítulos.
+- El Rocket, cuando le sale mal, **sale volando y se apaga en un punto de
+  luz** que brilla ⚠️ (visto en el clip del lema, sin audio).
+- El **bip de la Pokédex** y el **tintineo** al atrapar un Pokémon: todo fan
+  los reconoce, pero **no se transcribieron de oído** en esta pasada ⚠️.
 - Para la lámina: el laboratorio pide la **alegría curiosa** del tema de
   Oak. No es un mundo sombrío: nada de tonos oscuros.
 
@@ -970,10 +1161,18 @@ el 6 de septiembre de 1999 ⚠️ (una fuente). Traducción: Bernardo López ⚠
 | [Pepe Toño Macías y el lema Rocket](https://www.tiktok.com/@pepetomaciasoficial/video/7414164314644434181) | James hoy, con Rebeca Gómez haciendo de Jessie | sin verificar |
 | [Diana Pérez, Pepe Toño y Gerardo Vásquez](https://www.tiktok.com/@doblajealamexicana/video/7309360974945979654) | el trío Rocket original | sin verificar |
 | [Ash da la vuelta a la gorra](https://www.tiktok.com/@fandamncollectibles/video/7318016739621571882) | el gesto | sin verificar |
+| **Mirados en la segunda pasada** (YouTube pedía iniciar sesión; se usaron Dailymotion e Internet Archive) | | |
+| [Capítulo 1 real, inglés 4Kids](https://archive.org/details/pokemon-indigo-league-season-1-1998) (Internet Archive, 22:23) | laboratorio y Spearow, plano a plano | Pokébolas **5:56**; Pikachu **6:58**; abrazo **7:18**; brazos abiertos **18:23**; Ho-Oh **19:39** |
+| [Opening, etapa Kanto-Johto](https://www.dailymotion.com/video/x88osgb) (Dailymotion, 61 s) | galaxia, Ash de perfil, una **mano que abre una Pokébola con un destello**, Ash y Misty con mochila, Charizard volando, logo amarillo con borde azul | mirado entero, 21 fotogramas cada 3 s; el minuto de cada plano **no se anotó** ⚠️ |
+| [Ending oficial «Friends to the End»](https://www.dailymotion.com/video/x2sqtay) (Dailymotion, 3:50) | animación oficial: Ash con la **gorra de la Liga** (visera verde), Oak, el estadio de la Liga Índigo | **0:56-1:28**: Ash con Pikachu en brazos ([enlace](https://www.dailymotion.com/video/x2sqtay?t=56)) |
+| [Tráiler oficial de Rojo/Azul, español de España](https://www.dailymotion.com/video/x84bzwf) (2:23) | pantallas reales del juego | [0:12](https://www.dailymotion.com/video/x84bzwf?t=12) «¡Hola a todos! ¡Bienvenidos al mundo de POKéMON!»; [0:18](https://www.dailymotion.com/video/x84bzwf?t=18) Oak: «¡Ven conmigo!»; [0:24](https://www.dailymotion.com/video/x84bzwf?t=24) «se quedan 3. Te daré uno. ¿Cuál...»; [1:00](https://www.dailymotion.com/video/x84bzwf?t=60) el jugador se llama **ASH** y su Pokémon es **PIKACHU** |
+| [Tráiler latino de *¡Yo te elijo!*](https://www.dailymotion.com/video/x69qn7q) | frases del doblaje | [0:18](https://www.dailymotion.com/video/x69qn7q?t=18) «vamos a ser los mejores amigos» (punto 10.1) |
+| [«Lema Team Rocket»](https://www.dailymotion.com/video/xs14pe) (35 s) | pose de grupo del trío | mirado entero, 8 planos (punto 3.5) |
 
 **Tendencias de TikTok**: el eterno debate «**¿qué inicial eliges?**»,
 con encuestas en los comentarios y creadores que puntúan cada inicial
-contra los líderes de gimnasio ⚠️
+contra los líderes de gimnasio ⚠️ (TikTok no se deja bajar desde aquí:
+en la segunda pasada no se pudo mirar ninguno)
 ([Kanto Starter Pokemon](https://www.tiktok.com/discover/kanto-starter-pokemon),
 [Pokemon Starter Meme](https://www.tiktok.com/discover/pokemon-starter-meme)).
 **Justo la pregunta de #autoroles.**
@@ -1006,7 +1205,17 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
   - Había un **combate contra Oak** al final del juego.
 - Interfaz moderna: [Let's Go en Game UI Database](https://www.gameuidatabase.com/gameData.php?id=96),
   [menú de Let's Go en Interface In Game](https://interfaceingame.com/screenshots/pokemon-lets-go-pikachu-menu/),
-  [Escarlata/Púrpura](https://www.gameuidatabase.com/gameData.php?id=1579) ⚠️ (no abiertas).
+  [Escarlata/Púrpura](https://www.gameuidatabase.com/gameData.php?id=1579).
+  **Segunda pasada:** Game UI Database siguió en 403; la caja de diálogo de
+  Let's Go sí se midió en una captura de Interface In Game (punto 7.2) ✅.
+  Escarlata/Púrpura sigue sin tercera fuente ⚠️.
+- **El tráiler oficial de Rojo/Azul en español** ([Dailymotion](https://www.dailymotion.com/video/x84bzwf?t=60))
+  usa **ASH** como nombre del jugador y **PIKACHU** como su primer
+  Pokémon en el combate de ejemplo, a la **1:00** ✅ (visto). El vínculo
+  Ash-Pikachu-inicial es oficial también en los juegos: encaja con «elige
+  tu inicial».
+- En Rojo/Azul el rival se llama **GARY** por defecto ✅ (tabla de arriba y
+  el tráiler).
 
 ---
 
@@ -1025,11 +1234,21 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 - **El Equipo Rocket saliendo volando** y su lema latino ✅.
 - **El debate de los iniciales**: cuál elegiste, cuál era mejor ✅ / ⚠️
   (punto 12).
-- **Ash con 10 años para siempre** ⚠️ (resumen de búsqueda).
+- **Ash con 10 años para siempre**: en el material promocional reciente
+  sigue teniendo 10 años ✅ (Bulbapedia y la ficha de AniList, que le pone
+  «edad 10»).
 - **Gabo Ramos**: los fans le dieron las gracias en masa cuando terminó la
   historia de Ash ✅ ([Infobae](https://www.infobae.com/america/mexico/2022/12/16/fans-de-pokemon-le-agradecieron-a-gabo-ramos-por-haber-sido-la-primera-voz-de-ash-ketchum/)).
 - **Latino contra España**: los memes que comparan los dos doblajes ⚠️
-  ([TikTok](https://www.tiktok.com/discover/pokemon-doblaje-latino)).
+  ([TikTok](https://www.tiktok.com/discover/pokemon-doblaje-latino)). El
+  reparto de España es otro: **Amparo Valencia** (Jessie), **Iván Jara**
+  (James), **José Escobosa** (Meowth) ✅ ([TikTok](https://www.tiktok.com/@lavozdetuvida/video/7181873459322965254)
+  y la columna «Spanish» de AniList).
+- **Historias del doblaje** que a un servidor de doblaje le encantan: el
+  casting sin audición, la renuncia por no poder improvisar, el
+  *voice-over* de Pikachu y el capítulo 18 que sí se dobló (punto 10.2).
+- **Las escenas que hacen llorar**: la despedida de Pikachu (capítulo 39)
+  y la de Butterfree (P21).
 
 ### Qué NO hacer (lo que un fan notaría)
 - **Pikachu metido feliz en su Pokébola.** Sólo pasa en el capítulo 1, y a
@@ -1047,14 +1266,25 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 - **Español de España** en boca de Oak («Venga», «Vale», «estáis»).
 - **Una burbuja blanca redonda** (punto 7.4).
 - **Colores oscuros o de terror**: Pokémon es luz de día y colores limpios.
+  La única excepción con fuente es la **tormenta de los Spearow** (punto
+  5.3b), y es un momento de drama, no de terror.
+- **Inventar gustos de Ash**: circula en buscadores «cumpleaños 22 de
+  mayo, 1,65 m, 54 kg, verde oscuro, básquetbol». **No sale en Bulbapedia
+  ni en ninguna fuente primaria**; el 22 de mayo coincide con el cumpleaños
+  de una actriz. **No usarlo** (P20).
+- **Citar el fandub «Pikamon»** u otras parodias para adultos en la
+  lámina pública (P22).
+- **Dibujar a Ash como adolescente**: mide unos **140 cm** y tiene 10 años
+  (P20).
 
 ---
 
 ## 15 · Poses analizadas por personaje
 
-> ⚠️ Los fotogramas de la película **no los vi**: el minuto sale del
-> subtítulo y la acción, de lo que se dice. Lo que sí miré (arte oficial y
-> sprites) lo marco con 👁.
+> Lo que se miró lo marco con 👁. **Segunda pasada:** se miró el
+> **capítulo 1 real** (Internet Archive, inglés, 480p), plano a plano; sus
+> filas dicen «cap. 1» y el minuto es del capítulo. Las filas de la
+> película siguen saliendo del subtítulo ⚠️ (no se vio la película).
 
 ### Profesor Oak
 | # | Dónde | Qué hace | Sirve para |
@@ -1067,7 +1297,10 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 | 6 | película, 00:04:34 | «Este Pokémon se llama Pikachu» | **presentar** (la mejor para el concepto A) |
 | 7 | película, 00:05:04 | entrega la Pokébola de Pikachu | **entregar**, animar a empezar |
 | 8 | [Let's Go, arte de Sugimori](https://www.creativeuncut.com/gallery-36/plgp-professor-oak.html) | arte oficial moderno | presentar ⚠️ no abierto |
-| 9 | [Oak 3D en Sketchfab](https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb) | modelo para girar y encontrar el ángulo | referencia de volumen |
+| 9 | [Oak 3D en Sketchfab](https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb) | modelo **con esqueleto** (CC BY 4.0, lopuh22721) | **posarlo** en Blender |
+| 10 | 👁 cap. 1, ≈6:09-6:31 | de pie junto a Ash, bata blanca, **corbata roja**, explica con la mano | **explicar** (la buena para «Reacciona abajo») |
+| 11 | 👁 cap. 1, ≈7:18 (fotograma 348) | serio, quieto, mira a Ash y Pikachu chamuscados | **regañar sin palabras**, «te lo dije» |
+| 12 | 👁 [nº24 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png) | en su laboratorio, con Ash y Delia | **presentar** en su sitio |
 
 ### Pikachu
 | # | Dónde | Qué hace | Sirve para |
@@ -1080,6 +1313,11 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 | 6 | película, 00:05:31–00:05:50 | se niega a entrar en la Pokébola | terquedad, humor |
 | 7 | anime, en el hombro de Ash ✅ | va sentado en el hombro | **acompañar**, señalar |
 | 8 | Pokédex de Escudo ✅ | saluda uniendo la cola con otro | **saludar** (gesto propio) |
+| 9 | 👁 cap. 1, ≈6:58 (fotograma 328) | de pie sobre la mesa del laboratorio, arisco, chispas en las mejillas | **presentarse**, desconfiar |
+| 10 | 👁 cap. 1, ≈16:57 | dormido, hecho una bola en la cesta de la bici | **descansar**, acompañar |
+| 11 | 👁 cap. 1, ≈17:16-17:19 | de pie, mejillas brillando, lanza un rayo a los Spearow | **defender**, acción |
+| 12 | 👁 cap. 1, ≈17:37-17:52 | herido, tumbado, aparta la Pokébola con la pata | **negarse**, terquedad |
+| 13 | 👁 [nº1 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/9/9a/Pikachu_%28Super_Smash_Bros._for_3DS_-_WiiU_Artwork%29.png) | de pie, de frente, 4574×4369 | **presentar**, la imagen más grande |
 
 ### Ash
 | # | Dónde | Qué hace | Sirve para |
@@ -1091,6 +1329,19 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 | 5 | película, 00:04:05 | acepta al Pokémon «con problema» | decisión |
 | 6 | película, 00:04:40–00:04:46 | abraza a Pikachu | **celebrar** |
 | 7 | gesto de la gorra al revés ⚠️ | gira la gorra antes del combate | **animar**, ir en serio |
+| 8 | 👁 cap. 1, ≈7:04-7:12 | sorprendido y luego dolorido: Pikachu lo descarga | **sorpresa**, dolor cómico |
+| 9 | 👁 cap. 1, ≈7:18 (fotograma 348) | abraza a Pikachu, pelo chamuscado, echando humo | **celebrar** a pesar de todo |
+| 10 | 👁 cap. 1, **≈18:23** (fotograma 143) | **de espaldas, brazos abiertos** bajo la lluvia, protegiendo a Pikachu | **proteger**, entregarse: la pose más fuerte |
+| 11 | 👁 cap. 1, ≈19:58 | de pie, sonriendo, mira a Pikachu a salvo | **alegría tranquila** |
+| 12 | 👁 [nº147 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/4/44/XY006_17.png) | tiende la mano hacia la cámara | **invitar**, «elige» |
+| 13 | 👁 [nº163 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/4/45/Ash_anime_Ruby_and_Sapphire.png) | lanza la Pokébola con la pierna arriba | **animar**, acción |
+| 14 | 👁 [nº146 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/0/01/Ash_and_Pikachu.png) | guiña un ojo, puño apretado, Pikachu al hombro | **animar** |
+
+### Gary Oak
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | 👁 cap. 1, ≈5:09 (fotograma 219) | puño en alto, sonrisa amplia, medallón yin-yang, porristas detrás | **presumir**, celebrar |
+| 2 | 👁 [nº164 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/b/b3/Ash_and_Gary.png) | apretón de manos con Ash al atardecer | **dar la bienvenida** |
 
 ### Charmander
 | # | Dónde | Qué hace | Sirve para |
@@ -1117,17 +1368,66 @@ Menús **oficiales en español** de Rojo/Azul ✅ (poke-corpus, `es_msg.txt`):
 - **Gorra roja y blanca con un símbolo verde**: la gorra de la **Pokémon
   League Expo**. La llevó en Kanto, las Islas Naranja y Johto ✅
   ([Tumblr, historia de su ropa](https://www.tumblr.com/groundrunner100/657971968801423360/the-history-of-ash-ketchums-attire-from-my)).
-- Colores en hex: **no los medí** ⚠️. Sacarlos del fotograma 00:03:03 de
-  la película.
+- **Colores medidos** (segunda pasada) con Pillow sobre el
+  [render oficial de la wiki](https://pokemon.fandom.com/wiki/Ash_Ketchum)
+  `Ash_anime_The_Beginning.png` (260×390, etapa Kanto):
 
-**Oak**: **bata blanca** de laboratorio ✅ (sprite 👁). Pelo gris y camisa
-de color debajo ⚠️ (de memoria).
+| Pieza | Hex | Estado |
+|---|---|---|
+| Chaqueta azul | **`#234FC0`** | ✅ agrupamiento de color |
+| Vaquero, parte con luz | **`#95A2E9`** | ✅ agrupamiento |
+| Pelo y contorno | `#0A0A0A` a `#141018` | ✅ agrupamiento |
+| Piel, de sombra a luz | `#EDB58A` a `#F7AA69` | ✅ agrupamiento |
+| Gorra, banda roja anaranjada | `#C04010` | ⚠️ un solo píxel |
+| Puño del guante, verde claro | `#C3E795` | ⚠️ un solo píxel |
+| Cuerpo del guante, verde oscuro | no se pudo aislar | ⚠️ |
 
-**La Pokébola de Pikachu**: una Pokébola normal con **un rayo dibujado** ✅.
-Color del rayo ⚠️ (no comprobado).
+  La imagen es pequeña y los bordes ensucian la medida: para un hex más
+  limpio, medir un fotograma en 1080p (no hubo).
 
-**Otras eras de Ash** (para no mezclarlas): cada región cambia de ropa
-([CBR, 10 mejores trajes](https://www.cbr.com/pokemon-best-ash-ketchum-outfits-designs/)).
+**Oak**: **bata blanca** de laboratorio ✅ (sprite 👁) y **corbata roja**
+✅ (visto en el capítulo 1, ≈6:09). Pelo gris y camisa de debajo sin medir
+⚠️: no hay un render de Oak grande y limpio.
+
+**La Pokébola de Pikachu**: una Pokébola normal con **un rayo dibujado** ✅
+(visto en detalle en el capítulo 1, ≈6:48). Color del rayo sin medir ⚠️
+(480p).
+
+**Otras eras de Ash** (para no mezclarlas) ✅ (dos artículos de CBR,
+[uno](https://www.cbr.com/pokemon-best-ash-ketchum-outfits-designs/) y
+[otro](https://www.cbr.com/pokemon-ash-ketchum-best-outfits/), contrastados
+con [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ash's_clothing)):
+
+| Región | Ropa | Hoja |
+|---|---|---|
+| **Hoenn** | gorra negra y roja con Pokébola verde; sudadera azul sin mangas con capucha blanca y ribete dorado; camiseta negra con franja roja; guantes negros sin dedos | nº163 |
+| **Sinnoh** | chaleco negro con cuello blanco y franja amarilla; camiseta blanca; vaquero cargo; zapatillas negras y rojas; la Pokébola de la gorra pasa a azul | nº47 |
+| **Teselia** | gorra roja y blanca con Pokébola azul; chaqueta azul y blanca con capucha y cremallera dorada; vaquero ancho negro; zapatillas rojas altas | — |
+| **Kalos** | camisa azul de cuello y manga corta; vaquero más oscuro; zapatillas rojas altas | nº85 |
+| **Alola** | camiseta a rayas azules y blancas con un dibujo de Pokébola; shorts rojos y negros | — |
+| **Galar / Viajes** | camiseta blanca con franja roja bajo un chaleco azul y amarillo; shorts azules y negros | nº92 |
+
+- En el **ending «Friends to the End»** lleva la **gorra de la Liga** con
+  visera verde, distinta de la roja ✅ (visto, punto 12).
+- Ropa fuera de lo normal en la hoja 2: nieve (nº83) y bañador (nº95).
+
+**Gary en el capítulo 1**: jersey azul marino y medallón yin-yang verde y
+amarillo ⚠️ (a ojo, sin medir).
+
+**Disfraces oficiales de Pikachu** (canon, no fan art):
+- **Cosplay Pikachu** (Rubí Omega / Zafiro Alfa): una Pikachu con **5
+  trajes**: Rock Star, Belle, Pop Star, Ph.D. y **Libre** (máscara y capa
+  de luchador) ✅ (wikitext de Bulbapedia; en el anime, nº149 de la hoja 4).
+  **Pikachu Libre** es luchador jugable en *Pokkén Tournament* (nº90).
+- Pokémon UNITE: **Holiday Style** (Papá Noel, nº13), **Festival Style**
+  (nº5), **Holo Style** (nº175) ✅ (vistos en las hojas).
+- **Detective Pikachu** con gorro y lupa (nº168) y Pikachu con **ropa de
+  camuflaje** (nº179) ✅ (vistos).
+
+**Construcción real de la chaqueta de Ash** (para textura y costura):
+cuerpo azul en símil cuero, mangas y cuello blancos, bolsillos con ribete
+amarillo, cremalleras ⚠️ (fichas de venta de disfraces, no un cosplay
+concreto).
 
 ---
 
@@ -1140,50 +1440,150 @@ Color del rayo ⚠️ (no comprobado).
   y [Professor Oak's Lab Background](https://www.deviantart.com/willdinomaster55/art/Professor-Oak-s-Lab-Background-939863010)
   (WillDinoMaster55), [fondo del laboratorio sacado de un capítulo](https://www.deviantart.com/toonsislove83/art/Professor-Oak-s-Lab-background-1039893253)
   (Toonsislove83). Tamaño: ⚠️ no lo pude ver.
-- **Fondos oficiales en alta**: **no los encontré** ⚠️. Con red, mirar la
-  galería de la wiki y las cuentas oficiales.
+- **Fondos de fans en alta, medidos** por la API de Wallhaven ✅ (se
+  descartaron dos que el buscador trajo y no eran de Pokémon):
+
+| Fondo | Tamaño | Autor u origen |
+|---|---|---|
+| [Ash y Pikachu](https://w.wallhaven.cc/full/l8/wallhaven-l8z7rq.jpg) | 2322×1200 | [twitter.com/Lv01KOKUEN](https://twitter.com/Lv01KOKUEN) |
+| [Retrato de Pokémon](https://w.wallhaven.cc/full/73/wallhaven-73xpde.png) | 6000×2492 | [pixiv 77330141](https://www.pixiv.net/en/artworks/77330141) (Francazo) |
+| [«Lake of Rage», Gyarados y Magikarp](https://w.wallhaven.cc/full/rd/wallhaven-rd2jw1.png) | 6488×3244 | r/pokemon |
+| [Charmander minimalista, fondo beige](https://w.wallhaven.cc/full/nr/wallhaven-nr1jj0.png) | 1920×1080 | Wallhaven |
+| [Pokémon en pixel art](https://w.wallhaven.cc/full/57/wallhaven-57eey1.png) | 3840×2160 | Wallhaven |
+| [Pokémon realista](https://w.wallhaven.cc/full/0p/wallhaven-0pz2p4.jpg) | 1920×1080 | Wallhaven |
+
+- **Fondo oficial**: sólo uno con enlace directo, el de la colaboración
+  **Pokémon × MEGA (Mattel)**: ladrillos con Pikachu, Charmander y Bidoof,
+  en 1080×1920, 1280×800, 1366×768 y **1920×1080**
+  ([pokemon.com](https://www.pokemon.com/us/pokemon-news/download-mega-pokemon-digital-wallpapers))
+  ⚠️: el tamaño sale del nombre del archivo; el servidor de pokemon.com no
+  deja bajarlo para medirlo. Más fondos oficiales en alta: **no los
+  encontré** (pokemon.co.jp da 403; Wayback sin copia) ⚠️.
+- **Luz y hora**: el laboratorio es de **mañana**, con luz fría de
+  claraboya (punto 5.2); la escena de Ho-Oh es **tormenta y luego
+  arcoíris** (punto 5.3b).
 - **Paleta de colores de los juegos de Game Boy Color**: la explica
   [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Color_palette_(Generations_I%E2%80%93II)) ⚠️ (no abierta).
 
 ---
 
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Guía para generar con IA de imagen y de texto (punto 17)
+
+> Regla del dueño: **nada que parezca hecho por IA**. La IA sirve para
+> **fondos, luz y objetos**; Oak, Ash y Pikachu salen **recortados de
+> imágenes reales** (hojas, fotogramas) o de los modelos 3D con
+> esqueleto, y pasan por `v3/integrar.py`.
+
+### 18.1 Para una IA de imagen (Firefly, Canva)
 
 **Rasgos que nunca cambian**
-- Oak: hombre mayor, pelo gris, **bata blanca de laboratorio**.
-- Pikachu: amarillo `#FEE200`, **puntas de las orejas negras**, mejillas
-  rojas redondas, cola en **forma de rayo**, rayas marrones en la espalda.
-- Ash (Kanto): gorra roja y blanca con símbolo verde, chaqueta blanca y
-  azul de manga corta, guantes verdes sin dedos.
-- Charmander: naranja `#F98200`, vientre crema, **llama siempre encendida**.
-- Pokébola: mitad roja, mitad blanca, franja negra y **botón blanco** en
-  el centro.
+- **Oak**: hombre mayor, pelo gris, **bata blanca**, **corbata roja** ✅
+  (capítulo 1, ≈6:09). Registro de voz calmado: nunca grita.
+- **Pikachu**: amarillo `#FEE200` (HOME), **puntas de las orejas negras**,
+  mejillas rojas redondas, cola en **forma de rayo**, rayas marrones en la
+  espalda. Nunca habla en frases.
+- **Ash de Kanto**: gorra roja y blanca con símbolo verde; chaqueta azul
+  `#234FC0` y blanca de manga corta; camiseta negra; vaquero `#95A2E9`;
+  guantes verdes sin dedos con puño `#C3E795`. Tiene 10 años y mide unos
+  140 cm. **No mezclar** con la ropa de otras regiones (punto 16).
+- **Charmander**: naranja `#F98200`, vientre crema, **llama siempre
+  encendida**.
+- **Pokébola**: mitad roja, mitad blanca, franja negra, botón blanco. La
+  de Pikachu lleva **un rayo pintado**.
 
-**Estilo**
-- Anime de 1997: **línea fina y limpia, colores planos, sombra dura de dos
-  tonos** ⚠️ (descripción mía, de memoria; comparar con el capítulo 1).
-- Fondos **pintados a mano**, más suaves que los personajes ⚠️.
-- Luz: **mañana soleada**, cielo celeste, sombras cortas.
-- Encuadre: plano medio, cámara a la altura de la mesa.
+**Paleta** (todo medido)
+| Para qué | Hex |
+|---|---|
+| Pueblo Paleta, cielo y paredes | `#CEE6DE` menta · `#A5D6FF` celeste · `#FFEFFF` blanco |
+| Ruta 1, hierba | `#ADE65A` |
+| Pikachu moderno / «cinta de 1997» | `#FEE200` / `#CAA62D` |
+| Logo | `#FFCB05` · `#3D7DCA` · `#003A70` |
+| Tormenta de Ho-Oh (sólo si se quiere drama) | `#222D35` · `#324B65` · `#3F6E6E` |
+
+**Línea y sombreado** (punto P18, medido)
+- **Anime**: colores **planos (cel)** ✅ (medido en el capítulo 1); fondos
+  **pintados a mano, con degradado** ✅ (medido en la tormenta). La sombra
+  «de dos tonos duros» del personaje es lo esperable, pero **no se midió**
+  en un fotograma ⚠️.
+- **Arte oficial de los juegos**: **línea fina marrón oscura** (`#221B11`,
+  1-2 px en 475 px) y **degradado suave** de aerógrafo ✅.
+- **Render 3D de HOME**: **sin línea**; el volumen lo da la luz ✅.
+- Elegir **uno** de los tres estilos por lámina.
+
+**Luz y encuadre**
+- **Mañana**; dentro del laboratorio, **luz fría que baja de una
+  claraboya** ✅ (visto, ≈5:56).
+- **Presentar**: plano medio, Oak a un lado y el objeto en el centro.
+  **Sorpresa**: primer plano cerrado de la cara. **Regañar**: plano medio,
+  la cámara no se acerca ✅ (P18, análisis de la escena).
 
 **Palabras que ayudan**
-«1990s anime cel style», «clean thin lineart», «flat colors», «two-tone
-cel shading», «bright morning light», «laboratory with bookshelves and a
-large window», «white lab coat», «red and white ball with a black band».
+«1997 TV anime cel animation», «flat cel colors», «hand-painted
+background», «clean thin lineart», «bright morning light», «cool
+skylight», «round laboratory with Poké Ball stands», «white lab coat, red
+tie», «red and white ball with a black band and a white button», «wooden
+table, paper tags». Para el estilo de los juegos: «thin dark brown
+lineart», «soft airbrush shading».
 
 **Palabras que lo estropean**
-«realistic», «3D render» (para el personaje), «dark», «grim», «horror»,
-«photorealistic skin», «chibi», «watercolor» (salvo para imitar el arte de
-los juegos).
+«realistic», «photorealistic skin», «3D render» (para el personaje),
+«thick black outline», «dark», «grim», «horror», «teenage Ash», «Pikachu
+talking», «speech bubble», «watercolor» (salvo para imitar los juegos).
 
-**Referencias de estilo y pose**
-- Estilo del Pokémon: los renders de HOME (colores) y el arte oficial
-  (forma).
-- Estilo del anime: fotogramas de la película de 2017, minutos del punto 3.
-- Pose de Oak: fotograma 00:04:34 (presentar).
-- Ojo: una IA **no debe inventar** a Oak ni a Pikachu de cero. Úsala para
-  **fondos, luz y objetos**; el personaje, recortado de una imagen real.
-  Y recuerda la regla del dueño: nada que parezca hecho por IA.
+**Vocabulario de gestos que se vieron en el anime** (para describirlos)
+- **Pelo chamuscado y humo** tras una descarga; ojos en blanco (Ash,
+  ≈7:18) ✅.
+- **Chispas en las mejillas** = Pikachu enfadado o a la defensiva (≈6:58) ✅.
+- **Destello dorado** al abrir una Pokébola (≈6:48) ✅.
+- **Silueta negra** del «¿Quién es ese Pokémon?» ✅ (punto 7.3).
+- **Remolino de estrellas** detrás del lema del Rocket; el trío **sale
+  volando y se apaga en un brillo** ✅ / ⚠️ (punto 3.5).
+- **Lluvia y contraluz** para el drama (≈18:23) ✅.
+- Gotas de sudor, venas de enfado y versiones *chibi*: son del lenguaje del
+  anime, pero **no se comprobaron en fotogramas** de esta serie ⚠️.
+
+**Qué imágenes dar como referencia**
+- Estilo del anime: el capítulo 1 en [Internet Archive](https://archive.org/details/pokemon-indigo-league-season-1-1998),
+  fotogramas de **5:56** (Pokébolas), **6:58** (Pikachu), **7:18** (abrazo),
+  **18:23** (Ash de espaldas).
+- Oak en su sitio: [nº24 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png).
+- Pikachu grande: [nº1 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/9/9a/Pikachu_%28Super_Smash_Bros._for_3DS_-_WiiU_Artwork%29.png).
+- Ash que invita: [nº147 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/4/44/XY006_17.png).
+- Colores: los renders de HOME (punto 5.3).
+
+### 18.2 Para una IA de texto (diálogos en su voz)
+
+**Cómo escriben**
+- En la caja de Game Boy: **mayúsculas para nombres** (POKéMON, OAK,
+  PIKACHU), **18 letras por línea** como mucho, dos líneas y **▼** al
+  final ✅ (punto 7).
+- **Español latino**: «ustedes», «Pokébola»; nada de «vale», «venga» ni
+  «estáis» (los juegos vienen de España).
+- **Oak** explica paso a paso, **se corrige en voz alta** («¿Gary? Déjame
+  pensar... ¡Ah, sí!»), **avisa antes** y se ríe cortito («¡Bien!»).
+- **Ash** grita con **¡!**, habla rápido y promete amistad.
+- **Pikachu**: sólo «¡Pika!», «Pikachu», «Pika pi», «Chuuu».
+- **Meowth** es el único Pokémon que habla; el trío Rocket **declama**.
+
+**Frases reales, por emoción** (con su fuente)
+| Emoción | Frase | Fuente |
+|---|---|---|
+| Alegre | «Hola Pikachu, mi nombre es Ash y vamos a ser los mejores amigos» | tráiler latino, [0:18](https://www.dailymotion.com/video/x69qn7q?t=18) |
+| Alegre | «¡Aguanto una descarguita!» | película 2017, subtítulo ⚠️ |
+| Animando | «Mientras tenga a mi amigo, puedo ir a cualquier lugar» | tráiler latino, [1:20](https://www.dailymotion.com/video/x69qn7q?t=80) |
+| Animando | «¡Pikachu, yo te elijo!» · «Tengo que ser siempre el mejor» | frase de Ash; opening latino |
+| Explicando | «tengo que advertirte que hay un problema con este último» | Oak, muestra de Doblaje Wiki |
+| Explicando | «¡No sabrás más cosas sobre los POKéMON con sólo verlos! ¡Tienes que atraparlos!» | Oak, Rojo/Azul (español de España) |
+| Regañando suave | «...que madruga todo se le resuelve, y en este caso se queda con el Pokémon» | Oak, tráiler latino, [0:07](https://www.dailymotion.com/video/x69qn7q?t=7) |
+| Avisando | «OAK: ¡Rojo! ¡Éste no es momento de usarlo!» | Rojo/Azul (España) |
+| Enfadado | «¿De qué están hablando, ineptos? ¡Son unos incompetentes!» | Giovanni, muestra de Doblaje Wiki |
+| Fanfarrón | «¡Te voy a destrozar! ¡Te veré en la demolición!» | Gary, muestra de Doblaje Wiki |
+| Preocupado | «Ay... ya me estoy preocupando por Ash, espero que esté bien» | Delia, muestra de Doblaje Wiki |
+| Triste | no se sacó una frase textual latina de una escena triste ⚠️ | — |
+
+**Vocabulario de la serie**: Pokébola, entrenador, inicial, Pokédex,
+gimnasio, medalla, Liga Pokémon, Maestro Pokémon, tipo, evolución,
+«¿Quién es ese Pokémon?» (P25).
 
 ---
 
