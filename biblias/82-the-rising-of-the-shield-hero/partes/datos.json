@@ -1,0 +1,772 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Raphtalia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Naofumi Iwatani",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Filo",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Melty Q Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mirellia Q Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Glass",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Fitoria",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rishia Ivyred",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Erhard",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de L'arc  Berg",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ren Amaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Therese Alexandrite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Malty Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136792-xxCXzkPuyvwr.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Keel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133722-llVcCnu20CnY.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Beloukas",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99263-IwkmdCTsDY1t.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2768/363d76b3c3796c475aacbbc7cadd21103cee23ca.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1352,
+  "alto": 1584,
+  "que_es": "Fan art de iwatani_naofumi (https://i.pximg.net/img-original/img/2019/02/22/00/00/00/73314286_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2890/9e10d9772af281907d942c31530f5996f4841bff.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 725,
+  "alto": 1017,
+  "que_es": "Fan art de iwatani_naofumi (盾の勇者の成り上がり3)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2755/2524147848398f0d2ddaa2923db8c77745438ebc.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 850,
+  "alto": 850,
+  "que_es": "Fan art de iwatani_naofumi (https://i.pximg.net/img-original/img/2019/06/29/21/11/04/75466675_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2791/3a41b7dfea64ffe4c0129c98ca48cc5165c0c652.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 720,
+  "alto": 1013,
+  "que_es": "Fan art de iwatani_naofumi (盾の勇者の成り上がり2)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2726/92d7cb765fde01b68a7a69c17dd511b36c0172cb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1350,
+  "alto": 900,
+  "que_es": "Fan art de iwatani_naofumi (https://twitter.com/jamesghio/status/1128790841244475392)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2655/9784880d5bdfb6c2f160d21199174e5915ee757a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 936,
+  "alto": 1368,
+  "que_es": "Fan art de iwatani_naofumi (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=73097174)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2775/fc35f910520956aecf2946a0840ba52b808ae1c8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1327,
+  "alto": 1804,
+  "que_es": "Fan art de raphtalia (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2792/9fe23f53c9eef339c48db7105bd62abcbdbd4bce.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1412,
+  "alto": 2000,
+  "que_es": "Fan art de raphtalia (https://i.pximg.net/img-original/img/2019/10/19/07/23/19/77363720_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4616/7c2f8fbe1b1540af2f5adc4817fbd448a210b547.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1132,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://babycado.wixsite.com/babycado/fan-art?pgid=k052y56k2-63f3569d-5b28-42f8-ae39-8286a1ea4321)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1541/f25c31732c9b2f56258b29aa609c52810c712fa5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2088,
+  "alto": 1452,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2019/04/06/00/12/29/74061050_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/779/1dd3dfa9b0ed91eb226769c5b1d221eab43f42f3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 480,
+  "alto": 626,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2022/07/11/16/46/57/99653718_p23.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4602/074d78621762a8c3e3e599ae32bb7f34e04dc635.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2800,
+  "alto": 1782,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2024/03/04/20/39/47/116623215_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4366/1b77db66d39d63549352d9d5982f9c78d6e7f387.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://yande.re/post?tags=isekai_quartet)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/3d130cffcf6765c719104b4d95968cc4244c7cb7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2728,
+  "alto": 3508,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2019/03/12/18/51/36/73645519_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1790/36742d26d881fdce80fa0d15f50adccd7ea776c6.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 498,
+  "alto": 620,
+  "que_es": "Fan art de megumin (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2821/23cd35cdcf180cf8e0ad9c0c4c0a07845bb51450.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2255,
+  "alto": 3000,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2019/10/28/07/49/28/77518288_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3532/3baa7f4409cb812c75420fcf4fd22a4af456a5f5.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1368,
+  "alto": 1430,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2020/11/22/21/27/11/85837540_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1617/ac7ced5677a9bf590d157083a048c0ca42fa3e0e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1333,
+  "que_es": "Fan art de megumin (http://i3.pixiv.net/img-original/img/2016/02/11/23/11/02/55224010_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2364/977174c0b53d65916aee669c43f05900e48fc845.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Fan art de megumin (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2798/2ebaf98cc61ac8dd27113690dfb202f2efc7caba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1563,
+  "alto": 2200,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2019/09/16/17/00/01/76813572_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de rem_(re:zero) (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/678955ca4337fc9a61ceb342ecb26760.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 498,
+  "alto": 488,
+  "que_es": "Fan art de rem_(re:zero) (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1754/bad960b1e95b1947edb9764e94b272cbf43a703a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2726,
+  "que_es": "Fan art de rem_(re:zero) (http://i4.pixiv.net/img-original/img/2016/09/20/00/00/45/59072843_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3249/3e285a57212e66364c1c96abeb94b4c64280d8db.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1448,
+  "alto": 2048,
+  "que_es": "Fan art de rem_(re:zero) (https://twitter.com/giraffe_kiona/status/1364160544232464393)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2022/93a74cc03e20d90a243d76c9ba90d060.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 746,
+  "alto": 1000,
+  "que_es": "Fan art de rem_(re:zero) (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4597/fde0fd0f76ba815f91a843f333e121b170dc91c5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 810,
+  "alto": 1260,
+  "que_es": "Fan art de emilia_(re:zero) (https://i.pximg.net/img-original/img/2016/05/07/20/28/06/56763757_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/a9163c1516ef75951b4286f4a00ecaf424624e80.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1955,
+  "alto": 2048,
+  "que_es": "Fan art de emilia_(re:zero) (https://twitter.com/Aim_r0dw/status/1151870707720019968)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2716/6e13bf7b45c9d3b47a9ce21188815bf228dea818.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3197,
+  "alto": 2467,
+  "que_es": "Fan art de emilia_(re:zero) (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=74465629)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3918/17a90390b2776ea50d22921e5227f1ef43c0d30b.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2039,
+  "alto": 1378,
+  "que_es": "Fan art de emilia_(re:zero) (https://i.pximg.net/img-original/img/2022/06/22/00/04/45/99213774_p3.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1663/68181ff3b0668ec2ad52febe5d973c23f964c601.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1784,
+  "que_es": "Fan art de emilia_(re:zero) (http://i4.pixiv.net/img-original/img/2016/05/10/01/21/33/56809823_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/462/f319b96e4ac6353743fec173d963ba342aa3291d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1006,
+  "que_es": "Fan art de holo (http://img1.sankakustatic.com/wp-content/gallery/safe-misc-vii/the-periodic-table-of-japanese-characters.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/802/39e979437c964fa138cd90932c1bd7b142ff2691.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 754,
+  "alto": 1056,
+  "que_es": "Fan art de holo (http://img48.pixiv.net/img/diesel-turbo/26443866.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/714/0a6fda8981c5fca7b945ad9c8a5e8a6683e8d938.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1000,
+  "que_es": "Fan art de holo (http://img16.pixiv.net/img/f05a0521/22992041.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/489/23136b42656164e1e22e9b2a61969a4a28bccda0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 700,
+  "que_es": "Fan art de holo (http://img58.pixiv.net/img/bemaec02/13563627.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3/4b3bfedc63eaeb481b155a95798c24179eb40e91.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fan art de holo (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1715/967e318b587327a4b8f7cb8e36c46992896c0037.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1200,
+  "que_es": "Fan art de holo (http://i2.pixiv.net/img-original/img/2012/12/23/06/34/57/32287777_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ey/wallhaven-ey3j3k.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2481,
+  "alto": 3508,
+  "que_es": "Fondo de pantalla (Raphtalia, anime, anime girls, women, fantasy girl, animal ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/13/wallhaven-135661.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3532,
+  "alto": 5000,
+  "que_es": "Fondo de pantalla (illustration, artwork, digital art, fan art, drawing, Axsens)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Psychofruit; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/39/wallhaven-39vw93.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (tofumang, Raphtalia, Tate no Yuusha no Nariagari, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MaiSakurajima; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zm/wallhaven-zm237g.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Raphtalia, Tate no Yuusha no Nariagari, animal ears, anime, anime girls, long hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Fennel; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5137p.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Iwatani Naofumi, Raphtalia, anime, sword, shield, Tate no Yuusha no Nariagari)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por arlt; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6k/wallhaven-6kw3zw.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (anime, anime girls, Tate no Yuusha no Nariagari, Raphtalia)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Aniru; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kw/wallhaven-kw5w5q.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, couple, Raphtalia, Iwatani Naofumi, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MaiSakurajima; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/lm/wallhaven-lmkyll.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1111,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, brunette, long hair, fantasy weapon, digital art, Iwatani Naofumi)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zm/wallhaven-zm2k1g.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 3042,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, anime girls, anime boys, fan art, 2D, long hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgezpo.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 1667,
+  "que_es": "Fondo de pantalla (anime, anime girls, weapon, sword, Tate no Yuusha no Nariagari, Raphtalia)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por gebört; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/wy/wallhaven-wy5117.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (anime, Iwatani Naofumi, Tate no Yuusha no Nariagari, Raphtalia, anime girls, women)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CanadianGuy12; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wker8.png",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 1325,
+  "que_es": "Fondo de pantalla (anime, anime girls, digital art, artwork, simple background, portrait display)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Francazo; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kw/wallhaven-kwkymm.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Raphtalia, Tate no Yuusha no Nariagari, minimalism, anime girls, animal ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Aniru; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/xl/wallhaven-xl3gd3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 2906,
+  "que_es": "Fondo de pantalla (anime, anime girls, digital art, artwork, 2D, portrait display)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Francazo; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym5qq7.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Raphtalia, anime girls, anime, red eyes, simple background, Tate no Yuusha no Nariagari)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por thxandbye; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a9a9f59bfd854229a573cc0dfb96bf08",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Shield of Rage [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-75b58a3f353f46f993d7493b279520c5",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Small Shield [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4e756c36f1eb432d9fef5ab4dd07d0ae",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Spear [The Rising of the Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-653b633275304ef7addc1797de88cec8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Sword [The Rising of the Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dc5a2313e56647c5936771b548a812d0",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Bow  [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-586d545ab8a14ef08ae3c8c5efa2c072",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Motoyasu spear de GicaPiqueno",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-032a7cc1e8d7454dbeb1b6b1d80fd658",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Filo Hairpin - 3d printing de Nikra",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0353e0488d2b4ff6a5826ee240c749e6",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: The Rising of The Shield Hero de TurboVarg",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/a9a9f59bfd854229a573cc0dfb96bf08/thumbnails/f2969f41f2e3468c9217a0f69e8392e1/d82e030794454c5f9f0062d811d16f2c.jpeg",
+  "fuente": "Openverse (sketchfab)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Shield of Rage [The Rising of The Shield Hero]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 4.0, autor G.Salmon",
+  "origen": "recolectar.py"
+ }
+]
