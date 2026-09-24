@@ -148,10 +148,35 @@ la del anime (25 episodios en la temporada 1).
 | Anya conoce a Yuri | ep. 18, 00:04:10 | «I'm Anya. I'm Father's daughter. Nice to meet you.» |
 | Colección de ropa | ep. 24, 00:16:03 | «ANYA AUTUMN/WINTER COLLECTION / OUTFIT TO MAKE YOUR CLASSMATE FALL IN LOVE» |
 
-> [!note] El formato de los rótulos
-> Los subtítulos sólo dicen **qué** pone el rótulo, no **cómo** se ve (letra,
-> color, caja). Sin YouTube no pude mirarlo. Antes de copiar el estilo,
-> abre el ep. 4 en 00:11:44 y el ep. 5 en 00:22:25 y haz captura ⚠️.
+### 2.1 Visto en vídeo (segunda pasada, equipo)
+
+El investigador de vídeo miró estos tramos con `fotogramas.py` en las
+copias de Internet Archive (1280×720 reales; YouTube pedía iniciar sesión).
+El minuto es el de esa copia: puede moverse 1 o 2 minutos.
+
+| Escena | Minuto visto | Lo que se ve | Enlace |
+|---|---|---|---|
+| Loid en el tren, la misión llega | ep. 1, 2:38 a 3:36 | sombrero y gabardina, vagón de madera y terciopelo; lee el «Daily OST» mientras calienta un café. **El mensaje está escrito con tinta que sale con el calor**: las fotos de Anakin Heywood y Donovan Desmond aparecen en el papel a 2:57. Dato nuevo ✅ | [IA ep. 1](https://archive.org/details/spy-family-01-720p) |
+| Cartela de título | ep. 1, 4:15 | «MISSION:1 / オペレーション〈黄昏〉», **letra blanca sobre negro**, tras una vista aérea del río y el castillo de Berlint (4:09 a 4:14) ✅ | ídem |
+| Loid enseña el piso | ep. 1, 4:18 | abre los brazos junto al casero («This is the family room») | ídem |
+| **Loid firma su ficha falsa** | ep. 1, **4:36** | primer plano **sólo de la mano y la pluma** escribiendo «Loid Forger» a mano sobre el contrato ✅ | ídem |
+| «¡Qué emoción!» | ep. 1, 6:46 | Anya ante la tele, que da «SPY WARS» en letras rojas y azules de cómic; abraza a Chimera, ojos y boca muy abiertos ✅ | ídem |
+| «Quiero mimir» | ep. 1, 9:57 | Loid carga pan y huevos; Anya colgada de su brazo, floja, ojos entrecerrados ✅ | ídem |
+| Cierre del ep. 1 | ep. 1, 22:44 y 22:53 | cartela «SPY×FAMILY» y créditos **sobre fondos fijos de calles de Berlint** (piedra rosa y crema, calle en curva, un puente) con «喜劇» de Gen Hoshino: **la propia serie pone texto sobre la ciudad** ✅ | ídem |
+| Anya presenta a Chimera | ep. 3, **5:37 a 5:44** | Chimera en alto con las dos manos, a la altura de la cara; Yor se agacha. Antes, el cuarto de Anya: papel rosa a rayas, muebles blancos con cajones rojos, cartel «ANIA» ✅ | [IA ep. 3](https://archive.org/details/spy-family-03-720p) |
+| Rótulo de Walter Evans | ep. 4, 11:55 | **ficha con foto** y datos en japonés: «ウォルター・エバンス(59) 第5寮・マルカム寮長 担当教科:国語 性格:温厚・実直・保守的» (lengua, dormitorio Malcolm, «amable, honesto, conservador») ✅ | [IA ep. 4](https://archive.org/details/spy-family-04-720p) |
+| Rótulo de Murdoch Swan | ep. 4, 13:01 | «マードック・スワン(47) 第2寮・シライン寮長 担当教科:経済学 性格:高慢・強欲・無神経» (economía, dormitorio Shrine, «arrogante, codicioso, insensible») ✅ | ídem |
+| Yor se traba | ep. 4, 14:37 | sonrojada, se atasca al responder ✅ | ídem |
+| **«I'm Anya Forger!»** | ep. 4, **15:49** | primer plano de los ojos verdes muy abiertos justo antes: **nervio y sorpresa, no seguridad** ✅ | ídem |
+| La cara «Heh» | ep. 6, **18:26 a 18:28** | párpados a media altura, sonrisa torcida, barbilla arriba; Damian furioso a 18:30; Becky admirada a 18:40 ✅ | [IA ep. 6](https://archive.org/details/spy-family-06-720p) |
+| Loid disfrazado | ep. 12, 12:45 | mono azul y gorra blanca de cuidador de pingüinos, con el rótulo 「エージェント〈黄昏〉特技：変装」 ✅ | [IA ep. 12](https://archive.org/details/spy-family-12-720p) |
+
+> [!note] El formato de los rótulos (segunda pasada)
+> Visto: la cartela de misión es **letra blanca sobre negro** (ep. 1, 4:15)
+> y los rótulos de ficha de Eden llevan **foto y datos en columnas**, en
+> japonés en el original (ep. 4, 11:55 y 13:01). La letra exacta y el color
+> de la caja no se pueden medir a 720p ⚠️: antes de copiar el estilo,
+> captura el ep. 4 en 11:55 y el ep. 5 en 22:25 en 1080p.
 
 > [!tip] La narración de la temporada 2 es una ficha por personaje
 > Cada capítulo de la temporada 2 abre presentando a la familia con la
@@ -468,7 +493,11 @@ API sin resultados).
 - **Cuarto de Anya**: estantería llena de libros, dibujos y peluches,
   escritorio con libros de texto y el póster de su anime favorito (Spy
   Wars) ([spomanworld](https://spomanworld.com/spyfamily-forger/),
-  [mamemoti](https://mamemoti.com/archives/3017)) ⚠️.
+  [mamemoti](https://mamemoti.com/archives/3017)). **Visto en la segunda
+  pasada** (ep. 3, 0:00 a 0:20, [IA](https://archive.org/details/spy-family-03-720p)):
+  papel pintado **rosa a rayas**, muebles blancos con **cajones rojos**,
+  estantería de libros, un cartel redondo con «ANIA» en la pared y cortinas
+  verde agua ✅.
 
 ### 5.2 Berlint y el mundo
 - Ostania y Westalis copian el **Este y el Oeste de la Alemania de la
@@ -482,6 +511,23 @@ API sin resultados).
 - Otros sitios con rótulo en pantalla: «EDEN ACADEMY UNIFORM SHOP» (ep. 6,
   00:01:33), «BUILDING A - STUDENT HALL» (ep. 7, 00:14:01), «BERLINT GENERAL
   HOSPITAL» (ep. 20, 00:05:25), «WISE - SAFE HOUSE G» (ep. 21, 00:00:07).
+
+**Sitios vistos en vídeo (segunda pasada, equipo)**:
+- **El tren de Loid** (ep. 1, 2:38 a 4:09): vagón de madera oscura con
+  asientos de terciopelo y ventanas grandes; fuera, campo verde, un río y
+  un castillo antes de llegar a Berlint ✅ visto.
+- **Sala de entrevistas de Eden** (ep. 4, 11:25 a 16:35): paneles de
+  madera oscura, **sofás de cuero rojo intenso**, apliques dorados; aire
+  de club inglés. El rojo del cuero no estaba en la tabla de §5.3 ✅ visto
+  (a 720p: hex sin medir ⚠️).
+- **Calle de Berlint con tranvía** (ep. 1 y tráiler de Netflix, 0:32 a
+  0:40): edificios de piedra rosa y crema de 4 o 5 pisos, farolas negras,
+  **tranvía rojo** ✅ visto.
+- **Fondos del cierre del ep. 1** (22:44 en adelante): esas mismas calles
+  en luz de tarde cálida, fijas, **con los créditos encima** ✅ visto.
+- **Sala del consejo** (tráiler de Netflix, 0:08): mesa larga, cortina
+  roja, madera oscura, gente en penumbra; lo más oscuro de la serie ✅
+  visto.
 
 ### 5.3 Luz y paleta (medida en la segunda pasada) ✅
 
@@ -652,7 +698,11 @@ y los subtítulos. Lo que no sale de ahí va marcado ⚠️.
 - **Con quién**: Anya (desespera y protege), Yor (la respeta y no ve que es
   asesina), Franky (su informante), Handler/Sylvia (su jefa), Fiona (colega
   enamorada de él), Yuri (cuñado que lo odia).
-- Japonés: Takuya Eguchi ⚠️ de memoria. Latino: **Miguel de León** ✅.
+- Japonés: **Takuya Eguchi** ✅ (campo «Japanese VA» de su
+  [ficha en la wiki](https://spy-x-family.fandom.com/wiki/Loid_Forger) y
+  AniList; segunda pasada). Latino: **Miguel de León** ✅.
+- **Gustos y datos de ficha**: ver §C (punto 20: no tiene aficiones, duerme
+  2 horas, 187 cm).
 
 ### Anya Forger — 2.ª en votos, la cara de los memes
 - **Quién es**: niña **telépata**, sujeto 007 de un experimento, se escapó y
@@ -689,7 +739,12 @@ y los subtítulos. Lo que no sale de ahí va marcado ⚠️.
 - **Cómo se expresa**: **muy educada**, pide perdón a todo, se sonroja.
   Da consejos de «hermana mayor genial»: «una hermana mayor genial se ríe
   de las pequeñas maldades» (JP ep. 6, 00:18:00). Fuerza bruta por
-  reflejo. Con alcohol se descontrola (ep. 9) ⚠️ de memoria.
+  reflejo. Con alcohol se descontrola (ep. 9): para besar a Loid delante
+  de Yuri no puede hacerlo sobria, se bebe el vino, casi abofetea a Loid y
+  acaba golpeando a Yuri ✅ (sinopsis oficial citada en la
+  [ficha del ep. 9](https://spy-x-family.fandom.com/wiki/Episode_9) +
+  reseñas de [CBR](https://www.cbr.com/spy-x-family-episode-9-wild-first-kiss-scene/)
+  y [But Why Tho?](https://butwhytho.net/2022/06/review-spy-x-family-episode-9-show-off-how-in-love-you-are/)).
 - **Cuerpo**: manos juntas delante, cabeza un poco inclinada; en combate,
   todo lo contrario.
 - Latino: **Romina Marroquín Payró** ✅. En los episodios 42 y 43 la
@@ -701,10 +756,14 @@ y los subtítulos. Lo que no sale de ahí va marcado ⚠️.
   futuro** a ratos ✅ (narración de la temporada 2). Anya lo elige y le
   pone nombre por su héroe Bondman: «Doggie's name will be Bond.» (ep. 15,
   00:20:34).
-- **Cómo se expresa**: ladrido «¡Bofu!» ⚠️ de memoria; mirada seria y
-  tranquila; se echa junto a Anya.
-- Latino: **Brandon Montor** ⚠️ (dos páginas de Doblaje Wiki, fuera de ella
-  no lo vi).
+- **Cómo se expresa**: ladrido «¡Bofu!» ✅, pero es la onomatopeya
+  **japonesa**: de ahí sale el apodo que le pone Franky, 「ボフ公」
+  (Bofu-kō, «Duque Bofu», en inglés «Worfles»; Short Mission 8, pág. 2,
+  [ficha de Bond](https://spy-x-family.fandom.com/wiki/Bond_Forger)). En el
+  doblaje latino no se comprobó cómo suena. Mirada seria y tranquila; se
+  echa junto a Anya.
+- Latino: **Brandon Montor** ✅ (Doblaje Wiki + la tabla de voces de la
+  película en [GamerFocus](https://www.gamerfocus.co/anime/spy-x-family-codigo-blanco-trailer-con-doblaje-de-voces-en-espanol-latino/)).
 
 ### Damian Desmond — 4.º en votos
 - **Quién es**: segundo hijo de Donovan Desmond, el objetivo de la
@@ -738,8 +797,10 @@ y los subtítulos. Lo que no sale de ahí va marcado ⚠️.
 
 ### Dos extra que conviene tener a mano
 - **Yuri Briar** (6.º): hermano de Yor, policía secreta, odia a Loid, lo
-  llama «**Loichi**» en latino ⚠️. Voz latina: Héctor Mena o Ricardo
-  Bautista ⚠️ (dato confuso, una fuente).
+  llama «**Loichi**» en latino ⚠️. Voz latina: **Héctor Mena** en casi toda
+  la serie; **Ricardo Bautista** sólo en el episodio 2; de niño, **Desireé
+  González** ✅ (Doblaje Wiki + [TierraGamer](https://tierragamer.com/noticias/anime/quienes-son-las-voces-del-doblaje-de-spy-x-family-en-espanol-latino/)).
+  No era un dato confuso: comparten el papel.
 - **Franky Franklin**: informante de Loid. Anya lo llama «**Ricitos**» en
   latino ⚠️. Voz latina **Miguel Ángel Ruiz** ✅ (TierraGamer + Doblaje Wiki).
 
@@ -809,7 +870,7 @@ hecho en México ✅ (ANMTV + Doblaje Wiki).
 | Traducción y adaptación | **Cesia Estrada** | Doblaje Wiki + Crunchyroll T2 | ✅ (antes dudoso) |
 | Producción | Carlos Villasana (T1-T2), Gerardo Torres (T3) | Doblaje Wiki + Crunchyroll T2 (Villasana) | ✅ (Torres: una fuente) |
 | Grabación y mezcla | Eduardo Teja (grabación), Francisco Sánchez (mezcla T2-T3) | Doblaje Wiki + Crunchyroll T2 | ✅ |
-| Narrador | Carlos Torres | Crunchyroll T2 | ⚠️ una fuente |
+| Narrador | Carlos Torres | Crunchyroll T2 + [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Carlos_Torres) + [GamerFocus](https://www.gamerfocus.co/anime/spy-x-family-codigo-blanco-trailer-con-doblaje-de-voces-en-espanol-latino/) (tabla de voces de la película) | ✅ (antes una fuente) |
 
 | Personaje | Voz latina | Voz japonesa | Fuentes | Estado |
 |---|---|---|---|---|
@@ -824,8 +885,8 @@ hecho en México ✅ (ANMTV + Doblaje Wiki).
 | Sylvia (Administradora) | **Karina Altamirano** | Yūko Kaida | Doblaje Wiki + TierraGamer | ✅ (antes dudoso) |
 | Henderson | **Rodrigo Martínez** | Kazuhiro Yamaji | Doblaje Wiki + TierraGamer | ✅ (antes dudoso) |
 | Emile / Ewen | Araceli Romero / Samanta Figueroa | — | Doblaje Wiki + TierraGamer | ✅ |
-| Fiona Frost | Mariana Ortiz | Ayane Sakura | Doblaje Wiki | ⚠️ una fuente |
-| Martha | Susana Romero | Shōko Tsuda | Doblaje Wiki | ⚠️ una fuente |
+| Fiona Frost | Mariana Ortiz | Ayane Sakura | Doblaje Wiki + [GamerFocus](https://www.gamerfocus.co/anime/spy-x-family-codigo-blanco-trailer-con-doblaje-de-voces-en-espanol-latino/) | ✅ (antes una fuente) |
+| Martha | Susana Romero | Shōko Tsuda | Doblaje Wiki ([ficha](https://doblaje.fandom.com/es/wiki/Susana_Romero)) | ⚠️ una fuente: no sale en la película ni en TierraGamer; la «Susana Romero» de Wikipedia es otra actriz, española |
 
 **Cómo suena Anya en latino** (Doblaje Wiki): en la T1, parte 1, Eli
 Infante la hacía como niña de primaria que pronuncia bien; **desde la
@@ -856,6 +917,16 @@ adaptación»)**, útil para no escribir nada falso:
 | «¿Qué quieres, chihuahita?» | clip oficial, ep. 28 | ⚠️ [título del clip](https://www.youtube.com/watch?v=OFjTpVJ47Ms) |
 | «Segundo» / «Menor» (Damian), «Ricitos» (Franky), «Loichi» (Loid) | eps. 11, 15 | ⚠️ una fuente |
 
+> [!note] Segunda pasada (equipo): por qué las frases siguen con ⚠️
+> Se transcribieron con `voz.py` las muestras de audio de Doblaje Wiki de
+> Anya, Damian, Yuri y Bond: **ninguna trae** «mimir», «qué emoción»,
+> «chihuahita», «Segundo» ni «Loichi» (son gritos de batalla de Anya, un
+> insulto de Damian y el monólogo de Yuri del ep. 2). Dailymotion no tiene
+> esos clips, TikTok no deja bajar el de «PAPI QUIERO MIMIR» y YouTube
+> pidió iniciar sesión. El contexto de «chihuahita» sí se confirmó: ep. 28,
+> Yuri visita a su hermana y Anya le lee la mente. **Minuto exacto: no
+> comprobado.** Para la lámina, usa sólo las frases con ✅.
+
 **Dato de color** ⚠️ (Doblaje Wiki): en el ep. 27, **el doblaje latino es el único que pone
 voz a los pensamientos de Bond**; los otros usan subtítulos.
 
@@ -882,9 +953,9 @@ Banda sonora de **(K)NoW_NAME**, con mucho **jazz** de película de espías ✅
 | Parte | Opening | Ending | Ambiente |
 |---|---|---|---|
 | T1, parte 1 | **«Mixed Nuts»**, Official HIGE DANdism ✅ | **«Kigeki» (Comedia)**, Gen Hoshino ✅ | piano jazz rápido y juguetón / casa tranquila |
-| T1, parte 2 | **«SOUVENIR»**, BUMP OF CHICKEN (artista ⚠️ de memoria) | **«Shikisai»**, yama (artista ⚠️ de memoria) | aventura / ternura |
+| T1, parte 2 (eps. 13-25, desde el 1-oct-2022) | **«SOUVENIR»**, BUMP OF CHICKEN ✅ | **«色彩 (Shikisai)»**, yama, con el productor くじら ✅ | aventura / ternura |
 | T2 | **«Kura Kura»**, Ado ✅ | **«Todome no Ichigeki»**, Vaundy feat. Cory Wong ✅ | pop brillante / funk con guitarra |
-| Película | **«SOULSOUP»**, Official HIGE DANdism ✅ | **«Why»**, Gen Hoshino ✅ | — |
+| Película | **«SOULSOUP»**, Official HIGE DANdism ✅ (visto en pantalla en el tráiler, 1:08) | **«光の跡 (Hikari no Ato)»**, Gen Hoshino; «Why» es el título internacional del mismo single ✅ (visto en pantalla, 0:20) | — |
 | T3 | **«灯を護る» (Hi o Mamoru)**, SPITZ ✅ | **«Actor»**, Lilas Ikuta ✅ | — |
 
 Fuentes: [Anime Corner](https://animecorner.me/spy-x-family-season-2-reveals-ending-featuring-vaundys-song/),
@@ -893,6 +964,33 @@ Fuentes: [Anime Corner](https://animecorner.me/spy-x-family-season-2-reveals-end
 [ANN, opening T3](https://www.animenewsnetwork.com/news/2025-09-28/spitz-performs-spy-family-anime-season-3-opening-song/.229387),
 [ANN, ending T3](https://www.animenewsnetwork.com/news/2025-09-09/spy-family-season-3-trailer-reveals-ending-song/.228600).
 Es la primera canción que SPITZ hace para un anime de tele.
+
+**Segunda pasada (equipo), confirmado con fuente primaria**: «Mixed Nuts»
+sale rotulado en pantalla en el tráiler de Netflix (1:12, cartela
+«Opening Theme: "Mixed Nuts" OFFICIAL HIGE DANDISM»,
+[Dailymotion x8ar3pt](https://www.dailymotion.com/video/x8ar3pt)); «喜劇»
+sale en los créditos reales del ep. 1 (22:53 de la copia de
+[Internet Archive](https://archive.org/details/spy-family-01-720p):
+«エンディング主題歌『喜劇』星野源»). T1 parte 2 con dos fuentes:
+[Tower Records](https://tower.jp/article/news/2022/10/04/tg016) y
+[lisani.jp](https://www.lisani.jp/0000211868/) (también
+[Natalie](https://natalie.mu/music/news/495949)). El doble título de la ED
+de la película: [Oricon](https://www.oricon.co.jp/news/2307790/full/) y
+[NiEW](https://niewmedia.com/en/news/029795/).
+
+### 11.1 Efectos de sonido (nuevo)
+La [SFX Resource Wiki](https://sfx-resource.fandom.com/wiki/Spy_%C3%97_Family/Sound_Effects_Used/By_Episode)
+lista los efectos de librería episodio a episodio ✅. El patrón:
+- **Espionaje = sonido real**: disparo con silenciador y código morse
+  (ep. 1), rebotes de bala (eps. 2 y 23).
+- **Familia = sonido de dibujo animado**: «TWANGY SPROING, COMEDY» y «FAST
+  TWANGS» (eps. 17 y 21), «BIG CHOMP» (ep. 19), «Anime Big Pop Sound» y
+  «Sparkle» (ep. 21, los celos de Yor).
+- Para la lámina: serio cuando es misión, de cartón cuando es casa. Esa
+  mezcla es el tono.
+- No encontré una onomatopeya **escrita** que el fandom cite como «la» de
+  la serie ⚠️ (busqué en inglés; sólo memes de TikTok). En japonés, el
+  ladrido de Bond es «ボフ» (§8) y la emoción de Anya, «わくわく».
 
 **Para #presentaciones**: el tono es el de «Mixed Nuts»: rápido, de piano,
 con guiño de espías. Nada épico ni oscuro.
@@ -915,8 +1013,31 @@ con guiño de espías. Nada épico ni oscuro.
 | Análisis de los muebles del piso (JP) | [YouTube](https://www.youtube.com/watch?v=2iwdaXU4ubw) | interiores del piso Forger |
 | TikTok latino | [#anya-spy-family-latino](https://www.tiktok.com/discover/anya-spy-family-latino), [«A mimir zzz»](https://www.tiktok.com/@maripuliaoficial/video/7259144068586851589) | la tendencia latina va de Anya y «mimir» |
 
-Ningún minuto de vídeo de YouTube está comprobado: YouTube estaba
-bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
+**Segunda pasada (equipo): tráilers oficiales vistos enteros** con
+`fotogramas.py` (YouTube pidió iniciar sesión; copias en Dailymotion con
+los créditos oficiales en pantalla, a 512×288: valen para pose, encuadre y
+minuto, no para color):
+
+| Vídeo | Minuto | Qué se ve |
+|---|---|---|
+| [Tráiler de Netflix](https://www.dailymotion.com/video/x8ar3pt) (2:16) | 0:20 · 0:24 · 0:28 | cartelas «The father, Loid Forger», «The mother, Yor Forger», «The daughter, Anya Forger»: **plantilla de ficha con nombre** para el canal |
+| ídem | 0:44 | Yor de asesina en la sombra («A spy… An assassin!») |
+| ídem | 1:12 | cartela del opening «Mixed Nuts» sobre una silueta de Loid en acción |
+| ídem | 1:44 | una mano pone un anillo: la boda de conveniencia |
+| ídem | 1:48 a 1:56 | créditos: WIT STUDIO × CloverWorks, música (K)NoW_NAME, director Kazuhiro Furuhashi |
+| [Tráiler de CODE: White](https://www.dailymotion.com/video/x8r5lrz) (2:03) | 0:08 a 0:11 | Anya y Bond comiendo; Bond grande y cariñoso |
+| ídem | 1:36 | cartela «守るべきものがある» («hay algo que proteger») sobre Loid al volante, serio |
+| ídem | 2:00 | Anya llorando en primer plano: su cara triste |
+| [Teaser de la T3](https://www.dailymotion.com/video/x9ndxls) (0:48) | 0:03 a 0:06 | Anya y Bond, cada uno con su helado, mirándose |
+| ídem | 0:09 | «The Forgers… come back» |
+| ídem | 0:15 a 0:24 | Loid de niño en una ciudad bombardeada (arco del pasado) |
+| ídem | 0:45 | «少年はなぜ〈黄昏〉になったのか？» («¿por qué el chico se convirtió en Twilight?») |
+
+Los capítulos 1-12 de la T1 están en Internet Archive a 1280×720 reales
+(`archive.org/details/spy-family-0X-720p`): de ahí salen los minutos
+vistos de §2 y §15. Los vídeos de análisis y el de los muebles siguen sin
+mirar (sólo están en YouTube) ⚠️. TikTok no deja ver vídeos desde el
+servidor: la tendencia «mimir» sale de Reddit y títulos.
 
 ---
 
@@ -927,7 +1048,8 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
   juego tranquilo para fans.
 - Resumen de fan del juego con capturas:
   [yumeka-sxf en Tumblr](https://www.tumblr.com/yumeka-sxf/740544535420141568/spy-x-family-operation-diary-video-game-gameplay).
-- No busqué en The Cutting Room Floor (sin cuota). ⚠️
+- The Cutting Room Floor: buscado en la segunda pasada
+  (`site:tcrf.net spy x family`): **no tiene página** del juego ✅.
 - GitHub: hay juegos de fans, como un «Anya lee tu mente» en Pygame
   ([R37r0-Gh057/AnyaPath-Pygame](https://github.com/R37r0-Gh057/AnyaPath-Pygame))
   y un paquete de cursores de Anya
@@ -942,7 +1064,7 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
 - **La cara «Heh»** de Anya (manga cap. 8, anime ep. 6) ✅.
 - **«Waku waku» / «¡Qué emoción!»**, con los ojos brillando.
 - **Los cacahuetes** de Anya y su odio a las zanahorias.
-- **«Papi, quiero mimir»**: el meme latino por excelencia ⚠️ (Doblaje Wiki y TikTok).
+- **«Papi, quiero mimir»**: el meme latino por excelencia. Como meme ✅: docenas de vídeos de TikTok de cuentas distintas desde 2022 ([@maripuliaoficial](https://www.tiktok.com/@maripuliaoficial/video/7259144068586851589), @lowzs_, @mayk_boom) y el hilo de Reddit de §2. El minuto exacto en el doblaje sigue ⚠️ (§10).
 - **Anya llamando «Segundo» a Damian** (latino) ⚠️.
 - **La pedida de mano con la anilla de una granada** (ep. 2, 00:22:30) ⚠️
   el detalle de la anilla es de memoria.
@@ -967,6 +1089,16 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
 - Pintar a Bond como un husky o un perro genérico: es **grande, blanco y
   peludo**.
 - Escribir «waku waku» en japonés en una lámina en español.
+- **Darle cumpleaños** a Anya o a Yor: ninguno de los 6 tiene fecha
+  oficial. El «6 de abril» de AniList no tiene fuente; en Yor coincide con
+  la fecha de su ficha del ayuntamiento («06 ABR 63», ep. 2), que puede ser
+  la de su contratación (§C).
+- Poner a **Becky aplaudiendo**: cuando admira a Anya junta las manos bajo
+  la barbilla (ep. 6, visto 18:40, §15).
+- **Contorno negro puro** en los personajes: la línea del arte oficial es
+  de color, verde o marrón muy oscuro (§A).
+- Pintar a Anya **segura** en la entrevista: en el fotograma (ep. 4,
+  15:49) está nerviosa, con los ojos muy abiertos.
 
 ---
 
@@ -979,38 +1111,50 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
 > Usos: **P** presentar · **E** explicar · **C** celebrar · **R** regañar ·
 > **Pe** pensar · **A** animar.
 
+> [!tip] Segunda pasada (equipo): 16 poses miradas de verdad
+> El investigador de vídeo vio los tramos con `fotogramas.py` en las copias
+> de Internet Archive (T1, eps. 1-12, 1280×720 reales) y el teaser T3 de
+> Dailymotion. Donde pone **visto**, la postura sale del fotograma, con el
+> minuto de esa copia (puede moverse 1-2 minutos frente a Crunchyroll).
+> Enlaces: [IA ep. 1](https://archive.org/details/spy-family-01-720p), [IA ep. 2](https://archive.org/details/spy-family-02-720p), [IA ep. 3](https://archive.org/details/spy-family-03-720p), [IA ep. 4](https://archive.org/details/spy-family-04-720p), [IA ep. 6](https://archive.org/details/spy-family-06-720p), [IA ep. 7](https://archive.org/details/spy-family-07-720p), [IA ep. 10](https://archive.org/details/spy-family-10-720p),
+> [IA ep. 12](https://archive.org/details/spy-family-12-720p). Siguen **sin ver** (⚠️, esos capítulos no están en Internet
+> Archive o la escena no salió en el tramo): Loid 3 y 6, Yor 3, 4 y 6,
+> Damian 1 y 3, Bond 2 y 3.
+
 ### Anya
 | # | Ep. y minuto | Qué hace | Uso |
 |---|---|---|---|
-| 1 | ep. 3, 00:05:24 a 00:05:38 | levanta a **Chimera** delante de la cara y habla por él: «I'm Kimera. Nice to meet you.» | **P** (la mejor: se presenta con un objeto) |
+| 1 | ep. 3, 00:05:24 a 00:05:38 (subtítulo); **visto 5:37 a 5:44** | sostiene a **Chimera** (rosa, cuernos verdes) **con las dos manos, en alto, a la altura de su cara**, y habla por él: «I'm Kimera. Nice to meet you.» ✅ visto | **P** (la mejor: se presenta con un objeto) |
 | 2 | ep. 4, 00:15:45 a 00:15:57 | sentada muy derecha en la entrevista, dice nombre y dirección de memoria, se traba en el número | **P** |
 | 3 | ep. 1, 00:07:23 a 00:07:29 | de la mano de Loid, saluda a la vecina: «I'm Anya, my father's daughter from long ago.» | **P** |
-| 4 | ep. 1, 00:06:45 a 00:06:47 | «わくわく»: ojos brillando, puños cerrados, cuerpo hacia delante ⚠️ | **C**, **A** |
-| 5 | ep. 6, 00:18:12 a 00:18:38 | la cara **«Heh»**: párpados a media altura, sonrisa torcida, barbilla arriba ✅ | **R** (burlona) |
+| 4 | ep. 1, 00:06:45 a 00:06:47; **visto 6:46** | «わくわく» frente a la tele («SPY WARS»): ojos verdes muy abiertos, boca abierta, echada hacia la pantalla, **abraza a Chimera** (no «puños cerrados») ✅ visto | **C**, **A** |
+| 5 | ep. 6, **visto 18:26 a 18:28** | la cara **«Heh»**: párpados a media altura, sonrisa torcida hacia un lado, barbilla arriba ✅ visto + Know Your Meme | **R** (burlona) |
 | 6 | ep. 11, 00:03:27 | «SKILLS:??»: pensando cómo aprobar sin estudiar ⚠️ | **Pe** |
 | 7 | ep. 15, 00:07:11 | agarrada al perro: «Anya wants this doggie!» ⚠️ | **A** |
 | 8 | ep. 1, 00:09:05 | en la panadería: «Anya likes peanuts but not carrots.» | **E** (Me gusta) |
+| 9 | ep. 1, **visto 9:57** | cansada tras la compra: cuerpo flojo, agarrada al brazo de Loid, ojos entrecerrados (el «quiero mimir») ✅ visto | **A**, humor |
 
 ### Loid
 | # | Ep. y minuto | Qué hace | Uso |
 |---|---|---|---|
-| 1 | ep. 1, 00:04:28 a 00:04:35 | **firma el contrato** del piso: «Loid Forger. Occupation, psychiatrist.» Pluma en mano ⚠️ | **P** (su ficha falsa) |
+| 1 | ep. 1, 00:04:28 a 00:04:35; **visto 4:36** | **firma el contrato** del piso: «Loid Forger. Occupation, psychiatrist.» La toma es **sólo la mano con la pluma y el papel**, no la cara ✅ visto | **P** (su ficha falsa) |
 | 2 | ep. 4, 00:11:44 a 00:13:11 | sentado en la entrevista, **analiza** a los profesores mientras salen sus rótulos | **Pe**, **E** |
 | 3 | ep. 5, 00:12:33 a 00:12:53 | explica el «juego» a los agentes: «Thank you for gathering here today for my daughter.» | **E** |
 | 4 | ep. 1, 00:07:15 a 00:07:18 | «Make sure to call me Father.» Se agacha a la altura de Anya ⚠️ | **E**, **R** suave |
-| 5 | ep. 2, 00:18:11 | llega tarde a la fiesta y se presenta: «I'm Loid Forger, Yor's husband.» | **P** |
+| 5 | ep. 2, 00:18:11; **visto hacia 18:35** | llega a la fiesta y se presenta: «I'm Loid Forger, Yor's husband.» Baja una escalera **del brazo de Yor**, los dos de gala, erguido ✅ visto (la frase no se lee sin subtítulo) | **P** |
 | 6 | ep. 2, 00:22:30 | pide matrimonio a Yor: «would you like to get married?» ⚠️ | **C** |
 | 7 | ep. 1, 00:04:04 | «I, Twilight, got rid of both my name and face.» De pie, serio ⚠️ | **P** (tono espía) |
-| 8 | ep. 12, 00:12:37 | disfrazado de cuidador de pingüinos | **A** (humor) |
+| 8 | ep. 12, 00:12:37; **visto 12:45** | disfrazado de cuidador de pingüinos: mono azul, gorra blanca, agachado dando de comer; rótulo 「エージェント〈黄昏〉特技：変装」 sobre su cara ✅ visto | **A** (humor) |
+| 9 | ep. 1, **visto 2:38 a 3:36** | en el tren, sombrero y gabardina, lee el periódico donde **la misión aparece con el calor del café** (2:57) ✅ visto | **P** (tono espía) |
 
 ### Yor
 | # | Ep. y minuto | Qué hace | Uso |
 |---|---|---|---|
-| 1 | ep. 3, 00:05:33 | se agacha para saludar a Chimera: «Nice to meet you, Kimera. I'm Anya's mother.» ⚠️ | **P**, **A** |
-| 2 | ep. 4, 00:12:29 a 00:12:38 | se traba y luego: «Loid is a wonderful man who cares deeply for his daughter.» | **P** |
+| 1 | ep. 3, 00:05:33; **visto 5:40** | se agacha a la altura de Anya para saludar a Chimera, sonrisa suave, vestido rojo: «Nice to meet you, Kimera. I'm Anya's mother.» ✅ visto | **P**, **A** |
+| 2 | ep. 4, 00:12:29 a 00:12:38; **visto 14:37** | sonrojada, se traba al responder y luego: «Loid is a wonderful man who cares deeply for his daughter.» ✅ visto | **P** |
 | 3 | ep. 6, 00:17:58 a 00:18:07 | le enseña a Anya a sonreír ante las maldades ⚠️ dedo en alto | **E**, **R** suave |
 | 4 | ep. 16, 00:05:06 | «Can someone please help me learn how to cook?» Manos juntas ⚠️ | **Busco** |
-| 5 | ep. 2, 00:03:20 | con sus compañeras: «If I can keep my job, that's good enough for me.» | **P** tímida |
+| 5 | ep. 2, 00:03:20; **visto 3:14** | en la cocina del ayuntamiento, uniforme verde, escucha callada mientras una compañera rubia cuchichea; cara neutra, retraída: «If I can keep my job, that's good enough for me.» ✅ visto | **P** tímida |
 | 6 | ep. 19, 00:16:59 | «MISSION 19: THE MOTHER BECOMES THE WIND»: corre ⚠️ | **A** |
 | 7 | ep. 2, 00:07:10 | Thorn Princess de noche | sólo para un guiño en «Dato raro» |
 
@@ -1021,21 +1165,22 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
 | 2 | ep. 15, 00:06:06 | «Doggie protected me.» Protege a Anya ⚠️ | **A** |
 | 3 | ep. 27 (T2), 00:00:01 | «BOND'S STRATEGY TO STAY ALIVE»: sus pensamientos, con voz en latino ⚠️ | **Pe** |
 | 4 | narración T2, ep. 26, 00:00:53 | «A psychic canine that can glimpse the future.» | **P** |
+| 5 | [teaser T3](https://www.dailymotion.com/video/x9ndxls), **visto 0:03 a 0:06** | sentado junto a Anya, cada uno con su helado, mirándose de frente, orejas relajadas ✅ visto | **A**, ternura |
 
 ### Damian
 | # | Ep. y minuto | Qué hace | Uso |
 |---|---|---|---|
 | 1 | ep. 7, 00:06:55 a 00:07:03 | se presenta por dentro, orgulloso | **P** |
-| 2 | ep. 7, 00:07:13 a 00:07:19 | «I've never felt this way before…», rojo | **Pe** |
+| 2 | ep. 7, 00:07:13 a 00:07:19; **visto 6:53** | «I've never felt this way before…»: mejillas **muy rojas**, ojos muy abiertos, Anya le habla de cerca ✅ visto | **Pe** |
 | 3 | ep. 6, 00:14:50 a 00:14:57 | cree que Anya se ha enamorado de él | **Pe** |
-| 4 | ep. 6, 00:18:20 | se enfada ante la cara «Heh» (JP: «なんだ その小バカにしたような笑いは！», «¿qué es esa risa burlona?») | **R** |
-| 5 | ep. 10, 00:11:16 | el partido de balón prisionero, jaleado por sus secuaces | **A** |
+| 4 | ep. 6, 00:18:20; **visto 18:30** | se enfada ante la cara «Heh»: dientes apretados, cara roja, puños a los costados (JP: «なんだ その小バカにしたような笑いは！», «¿qué es esa risa burlona?») ✅ visto | **R** |
+| 5 | ep. 10, 00:11:16; **visto 10:56 a 11:27** | cartela «MISSION:10 ドッジボール大作戦»; Damian y sus secuaces salen volando, cómicos; luego posan los tres con el balón, uno con el pulgar arriba ✅ visto | **A** |
 
 ### Becky
 | # | Ep. y minuto | Qué hace | Uso |
 |---|---|---|---|
 | 1 | ep. 6, 00:15:00 a 00:15:03 | se presenta a Anya: «Nice to meet you!» | **P** |
-| 2 | ep. 6, 00:18:24 a 00:18:31 | admira a Anya (JP: «余裕！ 大人の余裕だわ すごいわ！», «¡qué calma de adulta!»); el aplauso es de memoria ⚠️ | **C** |
+| 2 | ep. 6, 00:18:24 a 00:18:31; **visto 18:40** | admira a Anya (JP: «余裕！ 大人の余裕だわ すごいわ！», «¡qué calma de adulta!»). **Corrección: no aplaude**: manos juntas bajo la barbilla, sonrisa amplia, sonrojada ✅ visto | **C** |
 | 3 | ep. 7, 00:06:30 a 00:06:38 | «By the way, call me Becky! I hope we can become better friends!» | **P**, **A** |
 | 4 | ep. 24, parte B | de compras con Anya («FRIENDS AND GROCERIES», anuncio en ep. 23, 00:24:07) | **A** |
 
@@ -1059,6 +1204,12 @@ neutros.
 | Damian | uniforme de Eden de niño: chaqueta corta, pantalón corto, **tres franjas doradas en las mangas**, insignia en el pecho; pelo verde oliva oscuro con raya | chaqueta `#393937`, oro `#C2A884` a `#DEB272`, pelo `#505041` | P·5 (hoja de modelo oficial) |
 | Becky | uniforme de Eden de niña con **lazo rojo** al cuello; dos coletas con lazos | chaqueta `#393937`, lazo `#CB3F46`, piel `#F3E0D5` | P·6 (hoja de modelo oficial) |
 
+**Ropa de calle de Damian** (no la de Eden): chaleco blanco con una **«D»
+dorada** en el pecho, camisa de manga larga azul claro o morada, pantalón
+oscuro, zapatos marrones y sus calcetines de rayas ⚠️ (una fuente: la
+[sección Appearance de la wiki](https://spy-x-family.fandom.com/wiki/Damian_Desmond#Appearance);
+sin imagen medida).
+
 **Lo que todos reconocen**: Anya con el uniforme de Eden, Yor de Thorn
 Princess y Loid de traje. Para #presentaciones: Anya de uniforme (es «la
 nueva» que se presenta en el colegio) o de casa. El uniforme de Eden es
@@ -1067,10 +1218,31 @@ queda falso.
 
 ## 17 · Paisajes y fondos de pantalla
 
-- **Fondos oficiales**: la cuenta oficial del anime repartió en 2022
-  **fondos para móvil con el opening**, uno de Loid, uno de Yor y uno de
-  Anya ✅ ([Famitsu](https://www.famitsu.com/news/202205/03260543.html)).
-  Tamaño no publicado.
+- **Fondos oficiales**: la cuenta oficial del anime (`@spyfamily_anime`)
+  repartió en 2022 **fondos para móvil con el opening y el ending**, uno de
+  Loid, uno de Yor y uno de Anya, y los repitió como «calendario» ✅
+  ([Famitsu](https://www.famitsu.com/news/202205/03260543.html) + los posts
+  del [1-sep-2022](https://x.com/spyfamily_anime/status/1565263199598915588)
+  y del [1-nov-2022](https://x.com/spyfamily_anime/status/1587310471094624256)).
+  Tamaño no publicado ⚠️ (adjuntos de X, se degradan al bajarlos). La
+  página oficial que los archiva,
+  [spy-family.net/tvseries/special/index_season1.php](https://spy-family.net/tvseries/special/index_season1.php),
+  da 403 (Cloudflare), dos intentos.
+- **Fondos de fans en alta** (segunda pasada; tamaño real del archivo por
+  la API de [Wallhaven](https://wallhaven.cc/); son fan art: mirar, nunca
+  pegar):
+
+  | Tamaño | Qué es | Autor u origen | Archivo |
+  |---|---|---|---|
+  | **6800×3824** | Anya sentada | subido por `Zains`, sin origen ⚠️ | [853yj2](https://w.wallhaven.cc/full/85/wallhaven-853yj2.jpg) |
+  | 4200×2585 | Yor, ilustración de **Nixeu** | subido por `jrmnt`; autor en las etiquetas ⚠️ | [wemdqr](https://w.wallhaven.cc/full/we/wallhaven-wemdqr.jpg) |
+  | 3840×2156 | Yor con flor en el pelo, vestido negro | `joaohfs16`, origen [ArtStation](https://www.artstation.com/artwork/lRl2aG) ✅ | [x8gkvz](https://w.wallhaven.cc/full/x8/wallhaven-x8gkvz.jpg) |
+  | 3600×2144 | Yor | `Zains`, origen Pixiv 97882990 ✅ | [8omkpo](https://w.wallhaven.cc/full/8o/wallhaven-8omkpo.jpg) |
+  | 2560×1440 | Yor | `IFrAgMenTIx`, origen X ✅ | [o53v3m](https://w.wallhaven.cc/full/o5/wallhaven-o53v3m.jpg) |
+  | 1920×1080 | Yor con Chun-Li (cruce con *Street Fighter 6*, §F) | [cr1one en DeviantArt](https://www.deviantart.com/cr1one/art/SF6-SPYxFAMILY-CODE-White-Special-Collab-Anime-999375042) ✅ | [jxqjv5](https://w.wallhaven.cc/full/jx/wallhaven-jxqjv5.png) |
+
+- **Fondo pensado para llevar texto**: los créditos del ep. 1 (22:44)
+  corren **sobre calles fijas de Berlint** en luz de tarde (§2.1).
 - Webs que recopilan fondos (autor y tamaño sin comprobar ⚠️; sólo para
   buscar el original): [kabegamix](https://kabegamix.net/spyfamily),
   [kabekin](https://kabekin.com/tags/spyfamilywp),
@@ -1083,6 +1255,54 @@ queda falso.
     «The train on track five will soon depart for Berlint»).
   - **Eden Academy**: sala de entrevistas y aulas, de día.
   - **Casa segura G de WISE** (ep. 21, 00:00:07): interior de oficina.
+
+---
+
+## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+(pendiente)
+
+---
+
+## B · Texturas 2D (punto 19)
+
+(pendiente)
+
+---
+
+## C · Gustos y detalles de cada personaje (punto 20)
+
+(pendiente)
+
+---
+
+## D · Por qué la gente la ama (punto 21)
+
+(pendiente)
+
+---
+
+## E · Fan dubs y comunidad hispana (punto 22)
+
+(pendiente)
+
+---
+
+## F · Colaboraciones, figuras y cosplay (punto 23)
+
+(pendiente)
+
+---
+
+## G · Obras parecidas y temas relacionados (punto 24)
+
+(pendiente)
+
+---
+
+## H · El mundo, la historia y sus símbolos (punto 25)
+
+(pendiente)
 
 ---
 
@@ -1245,6 +1465,12 @@ la más distinta. **B** es la más fiel a una escena concreta.
 - **Cifras de MyAnimeList**: no salieron en la búsqueda.
 - **The Cutting Room Floor, Wayback Machine, Reddit**: sin cuota o
   bloqueados (Reddit rechazado por la herramienta de búsqueda).
+
+---
+
+## Cumplimiento del encargo
+
+(pendiente)
 
 ---
 
