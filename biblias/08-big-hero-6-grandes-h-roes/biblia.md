@@ -2380,7 +2380,48 @@ buscador.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada del equipo (24-sep-2026).
+
+| Punto de ENCARGO.md | Dónde | Estado | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | §3, §3.0 | ✅ | 299 imágenes de la wiki en 7 hojas, todas miradas; 3 elegidas y citadas por número. Pósters de EE. UU., Latinoamérica (el n.º 44, con Baymax dando un aviso), Japón, Corea y China; libros, hojas de modelo firmadas, arte de Shiyoon Kim, manga, parches. Los de IMP Awards siguen sin abrir. |
+| 2 · Fotogramas de escenas icónicas | §4, §4.1 | ⚠️ | 6 escenas de la película y 1 de la serie, vistas con fotograma y minuto, pero en clips de Dailymotion (no 1080p) y con **minuto del clip**, no de la película. Las escenas que hacen llorar no tienen clip. |
+| 3 · Fan art y 3D con licencia | §5 | ✅ | Licencias leídas en la API de Sketchfab (7 modelos CC BY, uno con huesos; 1 NC-SA), BlendSwap, Poly Haven CC0; fan art con autor. Los autores de Pixiv, sin segunda fuente. |
+| 4 · Sitios, luz, paleta y texturas | §6 | ✅ | 6 tomas medidas con `estilo.py` (cuarto, cocina, ciudad de noche y al atardecer); texturas CC0. Sin toma medida de día ni del garaje. |
+| 5 · Tipografía por uso | §7 | ✅ | Logo visto y medido; 9 letras con fontTools (Kosugi Maru rota); una letra libre para cada uso, todas con tildes, ñ, ¿ y ¡. WildWords en el manga, sin confirmar. |
+| 6 · Cómo hablan en pantalla | §8 | ✅ | La pantalla del pecho, vista: la tabla del dolor de la serie medida, el póster latino n.º 44, la interfaz de escaneo, los vídeos de Tadashi (guion), los chips medidos y los ojos de escaneo. |
+| 7 · Personajes y popularidad | §2, §9 | ✅ | Encuesta japonesa abierta entera (Baymax 1.º, 99 votos; Mochi 5.º), China, taquilla. Encuesta oficial de Disney: buscada, no la encontré. |
+| 8 · Doblaje latino y frases | §10 | ✅ | 18 personajes y todo el equipo en dos o tres fuentes (Fred, GoGo y Wasabi, nuevos); 22 frases oídas con minuto. La frase final de Hiro, sin oír. |
+| 9 · Música y sonido | §11 | ⚠️ | Disco completo con dos fuentes, «Immortals» en su escena, «Eye of the Tiger», opening de la serie visto. Qué suena en las escenas de llanto se **deduce** por el título de la pista; el sonido de Baymax tiene una fuente. |
+| 10 · Vídeos y tendencias con minuto | §12, §12.1 | ⚠️ | Tráiler latino entero con minuto y rótulos; 9 clips mirados. YouTube y TikTok bloqueados: las tendencias no tienen minuto. |
+| 11 · Videojuegos | §8, §13, §F | ✅ | KH3, Battle in the Bay, Bot Fight, Infinity, Mirrorverse y 20 más; interfaces de Battle Mode y Sorcerer's Arena vistas. Ningún juego tiene caja de diálogo propia. Game UI Database y TCRF sin datos. |
+| 12 · Lo que ama el fandom y qué no hacer | §14 | ✅ | Memes con fuente, TearJerker, chiste bilingüe de Fred, lista de errores ampliada (serie frente a película, Mochi, placas duras). |
+| 13 · Descripción profunda y caras por emoción | §9, §C, §18.2 | ⚠️ | Carácter de las fichas, voces medidas con `voz.py`, frases oídas, dinámicas. Caras de Hiro con minuto: alegría, miedo, pedir ayuda; **tristeza, rabia y vergüenza sin fotograma**; Tadashi sin clip. |
+| 14 · Poses con minuto | §15 | ⚠️ | Baymax (10) e Hiro (8) vistas con minuto u hoja; equipo en la batalla. **Tadashi sigue de memoria**: no hay clip suyo con cara. |
+| 15 · Vestuario con hex | §16 | ✅ | Hex medidos de Baymax, su armadura, Hiro y su armadura; corrigen los de la primera pasada. El verde de Tadashi en la película no se pudo medir. |
+| 16 · Ciudades y fondos de pantalla | §17 | ✅ | 4 fondos de Wallhaven con tamaño y autor; fondos oficiales anchos; ciudad medida. Los de alphacoders no dan autor. |
+| 17 · Guía para IA de imagen y de texto | §18 | ✅ | Rasgos con hex medidos, estilo, luz, encuadre, palabras sí y no, referencias por hoja; 15 frases reales por emoción con minuto y cómo habla cada uno. |
+| 18 · Estilo, técnica y cómo replicarlo | §A | ✅ | Hyperion, Denizen, Bonsai, influencias con fuente; sombreado medido; recetas de Blender (rig CC BY, shader, Freestyle) y Photoshop; encuadres. |
+| 19 · Texturas 2D | §B | ✅ | Trama del manga vista, fieltro cosido, emblemas medidos, texturas CC0 de ambientCG. El sello del SFIT no existe como vector suelto (no lo encontré). |
+| 20 · Gustos y detalles | §C | ✅ | Fichas de 9 personajes con altura, gustos y odios (Tumblr oficial + wiki); edades en conflicto, marcadas. |
+| 21 · Por qué la aman | §D | ⚠️ | Taquilla, crítica, premios, reseña; 5 escenas descritas con cómo están hechas. **Sin minuto de la película** ni reacciones con votos (Reddit y YouTube no respondieron). |
+| 22 · Fan dubs y comunidad hispana | §E | ⚠️ | 2 parodias fandub comprobadas, TikTok, meme de Fred. **Sin vistas**; no hay covers (no aplica: sin opening cantado). |
+| 23 · Colaboraciones, figuras y cosplay | §F | ✅ | Fortnite, Lorcana, KH3, Infinity, Sorcerer's Arena, Star Smash con dos fuentes; parques; Funko; cosplay con materiales. Café temático, no lo encontré. |
+| 24 · Obras parecidas | §G | ✅ | Origen en Marvel, crítica leída entera, franquicia propia y 3 láminas del servidor comparadas. |
+| 25 · Mundo, historia y símbolos | §H | ✅ | Mundo en 5 líneas, 5 arcos con dos fuentes, emblemas medidos, vocabulario. |
+| Los 3 conceptos de lámina | §19 | ✅ | Tres objetos distintos (tabla plastificada, barriga-pantalla, comanda), mejorados con el póster latino, la tabla de la serie y la luz medida del cuarto de Hiro. |
+| Mínimo 40 fuentes distintas | todo | ✅ | 135 webs distintas enlazadas (`revisar.py`). |
+| Fuentes oficiales y entrevistas del staff | §3, §8, §A | ⚠️ | Character Media (Shiyoon Kim), AWN (Roy Conli), eiga.com, Red Bull JP (Koyama), CMU, Kevin Nelson, Disney Animation, Tumblr oficial. Sin comentarios del Blu-ray ni el artbook por dentro; el featurette, sin mirar. |
+| Otros idiomas (japonés, coreano, chino) | §2, §8, §9 | ✅ | ranking.net, eiga.com, ねとらぼ, アニメ！アニメ！, Wikipedia JA, China News, 36Kr, People's Daily, Namuwiki, Nurse-Link. |
+| Wikis, TV Tropes, TCRF y Wayback | §13, §14, §H | ⚠️ | Fandom (Disney, BH6, Fortnite, Sorcerer's Arena), Doblaje Wiki, dubdb, khwiki, TV Tropes (por buscador: 403 directo). TCRF sin datos del juego; **Wayback cortó la conexión**. |
+| Foros y comunidades | §D, §E, §F | ⚠️ | Arctic Shift (sin hilo útil), The RPF, Instructables, foros de dafont, Fanpop, Tumblr; Memedroid dio 403. |
+| Arte (Pixiv, ArtStation, DeviantArt) | §5, §17 | ✅ | Los tres, más Wallhaven con autor. |
+| Vídeo con minuto | §4.1, §10, §12.1 | ⚠️ | Dailymotion e Internet Archive con minuto; YouTube y TikTok bloqueados. |
+| Código y recursos (GitHub, Sketchfab, texturas) | §5, §A, §B | ✅ | GitHub (ANN, google/fonts), API de Sketchfab, Poly Haven, ambientCG, BlendSwap. |
+| Doblaje latino (Doblaje Wiki, ANMTV, Crunchyroll) | §10 | ✅ | Doblaje Wiki por API, dubdb, CHARGUIGOU, PRODU, El Imparcial, Infobae. ANMTV y Crunchyroll no aplican o no se usaron; entrevistas de actores en YouTube, sin ver. |
+| Hojas de contacto | §3.0 | ✅ | 3 JPEG de 650-830 KB, miradas y citadas por número con su original. |
+| `referencias.json` | archivo | ✅ | 156 referencias (88 con tamaño medido), las mejores primero. |
 
 ---
 
