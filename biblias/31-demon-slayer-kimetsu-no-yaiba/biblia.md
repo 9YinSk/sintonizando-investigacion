@@ -27,6 +27,52 @@ fecha: 2026-09-24
 > - **Episodios**: «T1-25» = temporada 1, ep. 25; «TM», Tren Mugen; «DR»,
 >   Distrito Rojo; «AH», Aldea de los Herreros; «EP», Entrenamiento de los
 >   Pilares; «MT» y «CI», las películas (tabla en §2).
+> - **Segunda pasada (repaso corto, 24-sep-2026)**, con la red abierta:
+>   tres investigadores (imagen, voz, texto) buscaron los puntos 18-25 de
+>   `ENCARGO.md` y el redactor los juntó en §19-26. Usaron entrevistas
+>   técnicas en japonés, la sección *Trivia* de la wiki (databook
+>   oficial), `yt-dlp` para medir vistas, las API de Sketchfab y Wikimedia
+>   Commons, y fuentes en coreano. Detalle, abajo.
+
+## Segunda pasada · qué cambió
+
+**Añadido** (puntos 18-25 de `ENCARGO.md`, que la biblia no tenía):
+
+- **§19 Estilo y técnica**: con qué trabaja ufotable (3ds Max, V-Ray,
+  PhoenixFD…), cómo reparte 2D y 3D, encuadres de combate, y cómo
+  copiarlo en Blender y Photoshop; 7 modelos con *rig* libres.
+- **§20 Texturas 2D**: el patrón de cada personaje con su nombre japonés,
+  dos SVG libres, la insignia de glicinia medida y tramas gratis.
+- **§21 Gustos**: comida, afición y cómo se ve cada uno de los 6, del
+  databook oficial.
+- **§22 Por qué la aman**: ventas, taquilla, premios, por qué en Japón y
+  Corea, las escenas que hacen llorar, reír y gritar.
+- **§23 Fan dubs**: fandubs, covers y parodias hispanas con vistas.
+- **§24 Colaboraciones**: USJ, Lawson, Uniqlo, Puzzle & Dragons, ufotable
+  Cafe, figuras y cosplay; Fortnite **no** es oficial.
+- **§25 Obras parecidas**: influencias de la autora y las 5 láminas del
+  servidor que se le parecen.
+- **§26 El mundo**: 5 reglas, 12 arcos, rangos y vocabulario.
+- **§18.6 IA de texto**: faltaba la mitad del punto 17. Ahora tiene cómo
+  habla cada uno y 18 frases reales por emoción, con minuto.
+- **§27 Conceptos**: los tres se quedan; se añade cómo renderizarlos y
+  un detalle nuevo en cada uno (glicinia, databook, cartas *hanafuda*).
+- **`referencias.json`**: de 36 a **252** entradas, todas medidas.
+
+**Corregido (antes → ahora)**:
+
+- **Voz latina de Akaza**: una fuente ⚠️ → **dos** ✅ (José Antonio
+  Toledano ganó por Akaza el Crunchyroll Anime Award 2026, §10.2).
+- **Tren Mugen**: la parte de texto decía «ep. 27-34» → **27-33** (§2, §26.2).
+- **Foto de cosplay de FanimeCon**: la URL de la parte daba **404** → la
+  buena, comprobada con el *hash* de Wikimedia (§24.3).
+- **Autor del Nezuko con *rig***: «AikoX» → AikoX, que firma «Snow» (API).
+- **Numeración**: conceptos, «no pude verificar» y bitácora pasan de 19,
+  20 y 21 a **27, 28 y 29**.
+
+**Avisos**: había **83 ⚠️**; ahora hay **155**. Se resolvió uno
+(Akaza) y los nuevos son datos de §18.6-26 con una sola fuente o sin
+confirmar, cada uno explicado. Los principales, en §28.
 
 ## Índice
 
@@ -1263,6 +1309,11 @@ Fondos de pantalla **de fans** en alta: la API de Wallhaven no devolvió
 nada más con «demon slayer», «tanjiro» o «rengoku» ⚠️. No busqué en
 DeviantArt ni Pixiv.
 
+**Segunda pasada**: el recolector (`datos.json`) sí trajo **15 fondos de
+Wallhaven**, de 1920×1080 a 6344×3480 (Tanjiro con espada 3840×2160,
+Zenitsu 3840×2160, Shinobu con mariposas). Están en `referencias.json`
+con su tamaño y quien lo subió; no los miré uno a uno ⚠️.
+
 ---
 
 ## 18 · Guía para generar con IA: imagen (Firefly, Canva) y texto
@@ -2273,7 +2324,7 @@ canal **sin serie asignada**.
 | Tipos: código y recursos | ✅ | GitHub (subtítulos, Google Fonts), Sketchfab, Poly Haven, ambientCG; segunda pasada: modelos con *rig* (API de Sketchfab), Clip Studio Assets, Brusheezy, GraphicsBunker, SVG de Wikimedia Commons |
 | Tipos: doblaje latino | ✅ | Doblaje Wiki, ANMTV, SensaCine, entrevistas en YouTube (§10.5); segunda pasada: El Financiero y TV Azteca (premio a José Antonio Toledano, Akaza) |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,98 MB, `objetos_01.jpg` 0,86 MB, `fondos_01.jpg` 0,66 MB |
-| `referencias.json` (mínimo 20, sin máximo, medidos, url = imagen) | ✅ | **252 entradas**, las mejores primero: las 36 de antes y las útiles de `partes/*.json` y `datos.json`. Todas con tamaño medido (API de la wiki, Sketchfab, Wallhaven, Steam, Openverse o Pillow). Los 25 modelos 3D van con su miniatura 1920×1080 y el enlace al modelo en `fuente`. 13 vídeos de fans van enteros, sin `&t=` (sirve el vídeo completo). Corregida una URL de Wikimedia que daba 404 |
+| `referencias.json` (mínimo 20, sin máximo, medidos, url = imagen) | ✅ | **252 entradas**, las mejores primero: las 36 de antes y las útiles de `partes/*.json` y `datos.json`. Todas con tamaño medido (API de la wiki, Sketchfab, Wallhaven, Steam, Openverse o Pillow). Los 25 modelos 3D van con su miniatura 1920×1080 y el enlace al modelo en `fuente`. 8 vídeos de fans (covers, fandubs, parodia y reacciones) van enteros, sin `&t=`: sirve el vídeo completo. Corregida una URL de Wikimedia que daba 404 |
 
 ---
 
@@ -2389,5 +2440,105 @@ canal **sin serie asignada**.
 - Fuentes en **coreano o chino** (Bilibili dio 412; no busqué en Naver).
 - Una tercera encuesta oficial (animatetimes confirma que no hubo).
 - Fondos de pantalla de fans en alta resolución (Wallhaven sólo dio uno).
+
+---
+
+### 29.6 Segunda pasada (repaso corto, 24-sep-2026)
+
+Tres investigadores (imagen, voz, texto) y el redactor. Cada búsqueda,
+con su idioma y lo que dio, está en `partes/imagen.md`, `partes/voz.md`
+y `partes/texto.md`; aquí va el resumen.
+
+**Red directa (sin cupo)**:
+
+- Kimetsu no Yaiba Wiki, `action=parse`: *Trivia* y *Equipment* de los 6
+  personajes, fichas de Giyu, Mitsuri, Wisteria, Demon Slayer Mark, Demon
+  Slayer Corps, Nichirin Sword, Twelve Kizuki y el *Official Fanbook*.
+- API de Wikimedia Commons (con varios 429; se espaciaron las llamadas).
+- API de Sketchfab: búsquedas de *rigs* y 27 fichas de modelo (licencia,
+  caras, autor y miniatura, leídas por el redactor).
+- `yt-dlp -j` sobre 12 vídeos de fans y 5 búsquedas `ytsearch`.
+- Arctic Shift (Reddit): 3 consultas.
+- Webs oficiales con `curl`: kimetsu.com/anime/news, pad.gungho.jp,
+  lawson.co.jp, uniqlo.com, tamashiiweb.com, shfiguarts.com.
+- El redactor: Pillow para medir los 17 retratos de AniList y las vistas
+  previas de los pinceles; `md5` del nombre para validar URL de Wikimedia.
+
+**Búsquedas web (37 en total)**:
+
+| Parte | Cuántas | Idiomas | Ejemplos |
+|---|---|---|---|
+| Imagen | 10 | en, ja | «鬼滅の刃 コラボ ユニバーサルスタジオジャパン UNIQLO ローソン 2026»; «Demon Slayer Fortnite crossover skin»; «ufotable cafe 鬼滅の刃 コラボカフェ 開催 公式» |
+| Voz | 13 | es, en, ja, ko | «鬼滅の刃 なぜ人気 理由 読者 感動»; «귀멸의 칼날 한국 팬더빙 좋아하는 이유»; «tiktok fandub Demon Slayer español latino viral cover» |
+| Texto | 14 | en, ja | «CGWORLD 鬼滅の刃 ufotable 制作 インタビュー»; «吾峠呼世晴 漫画 使用画材 ペン インタビュー»; «Demon Slayer story arcs in order» |
+
+**Bloqueado**: TikTok y Facebook (403 sin sesión), Memedroid (403), CNN
+en Español (451), `w.atwiki.jp` (403; su Wayback se cortó dos veces), la
+búsqueda de repos de GitHub (proxy), sharetextures.com (sin resultados).
+
+**Fuentes nuevas** (dominios que no estaban en §29.4):
+
+- **Técnica** (ja y en): [Autodesk AREA JAPAN](https://area.autodesk.jp/case/animation/kimetsu-01/) ·
+  [CGWORLD](https://cgworld.jp/special-feature/202410-nvidia-hp-ufotable.html) ·
+  [Popverse](https://www.thepopverse.com/movies-demon-slayer-kimetsu-no-yaiba-yuichi-terao-interview-making-the-infinity-castle-feel-infinite) ·
+  [livedoor News](https://news.livedoor.com/article/detail/17760339/) ·
+  [Discover Japan](https://discoverjapan-web.com/article/74084) ·
+  [Sakuga Blog](https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/) ·
+  [jb siraudin](https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/).
+- **Blender y Photoshop**: [Yarsa DevBlog](https://blog.yarsalabs.com/basic-toon-shader-in-blender/) ·
+  [Instructables](https://www.instructables.com/Custom-Toon-Shader-in-Blender/) ·
+  [StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender) ·
+  [DeviantArt](https://www.deviantart.com/pearlpencil/art/Manga-Brush-Line-for-Photoshop-268440777) ·
+  [Brusheezy](https://www.brusheezy.com/free/manga-ink) ·
+  [Creative Bloq](https://www.creativebloq.com/animation/create-manga-style-artworks-2118703) ·
+  [Clip Studio Assets](https://assets.clip-studio.com/en-us/detail?id=1707223) ·
+  [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/).
+- **Patrones y emblemas**: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg) ·
+  [Fun! Japan](https://www.fun-japan.jp/en/articles/14279) ·
+  [Tokyo Weekender](https://www.tokyoweekender.com/art_and_culture/history/wagara-japanese-patterns-and-what-they-mean/) ·
+  [The Mary Sue](https://www.themarysue.com/demon-slayer-symbol-meaning-explained/).
+- **Colaboraciones y figuras**: [SoraNews24](https://soranews24.com/2024/07/24/demon-slayer-kimetsu-no-yaiba-gets-new-roller-coaster-attractions-and-food-at-universal-studios-japan/) ·
+  [Japan Web Magazine](https://jw-webmagazine.com/demon-slayer-theme-restaurant-at-universal-studios-japan/) ·
+  [Lawson](https://www.lawson.co.jp/lab/entertainment/art/20260630_collabousj.html) ·
+  [Uniqlo](https://www.uniqlo.com/jp/ja/contents/corp/press-release/2021/07/210706_21ss_kimetsu_ut.html) ·
+  [Aniplex](https://www.aniplex.co.jp/news/detail/?id=67677) ·
+  [GungHo](https://pad.gungho.jp/member/collabo/kimetsu/2312/) ·
+  [ufotable Cafe](https://www.ufotable.co.jp/cafe/collaboration/kimetu/) ·
+  [collabo-cafe.com](https://collabo-cafe.com/events/tag/ufotable-cafe/) ·
+  [GameRant](https://gamerant.com/fortnite-leak-demon-slayer-collab-release/) ·
+  [ExitLag](https://www.exitlag.com/blog/demon-slayer-fortnite/) ·
+  [Tamashii Nations](https://tamashiiweb.com/item/14759/) ·
+  [S.H.Figuarts](https://www.shfiguarts.com/category/1/355/SHFiguarts/SHFiguarts-Demon-Slayer.html) ·
+  [AniBladez](https://anibladez.com/blogs/news/the-ultimate-demon-slayer-cosplay-guide).
+- **Por qué la aman** (es, en, ja, ko): [Somos Kudasai](https://somoskudasai.com/noticias/demon-slayer-220-millones-copias-manga/) ·
+  [Inquirer](https://technology.inquirer.net/142563/demon-slayer-manga-tops-200-million-copies-sold-worldwide) ·
+  [nippon.com](https://www.nippon.com/ja/in-depth/d00667/) ·
+  [Daum / IZE](https://v.daum.net/v/20250901095116506) ·
+  [AWN](https://www.awn.com/news/demon-slayer-kimetsu-no-yaiba-and-mob-psycho-100-ii-take-top-crunchyroll-anime-award-honors) ·
+  [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/) ·
+  [TV Azteca](https://www.tvazteca.com/azteca7/planeta-anime/crunchyroll-anime-awards-2026-que-premio-gano-demon-slayer-kimetsu-no-yaiba/) ·
+  [Rotten Tomatoes](https://www.rottentomatoes.com/tv/demon_slayer_kimetsu_no_yaiba/s01) ·
+  [AnmoSugoi](https://anmosugoi.com/demon-slayer-10-personas-populares/) ·
+  [Cultture](https://www.cultture.com/demon-slayer-mugen-train-las-10-escenas-mas-emotivas-de-la-pelicula-clasificadas) ·
+  [ScreenRant](https://screenrant.com/funniest-demon-slayer-moments-hilarious/).
+- **Comunidad hispana**: [Facebook, TanoshiDubs](https://www.facebook.com/TanoshiDubs-585825835438840/videos/demon-slayer-kamaboko-gonpachiro-fandub-latinocr%C3%A9ditostanjiro-kiyoshi-el%C3%ADas-vega/352977596067075/) ·
+  [TikTok, @soysamsedano](https://www.tiktok.com/@soysamsedano/video/7406568369912106246) ·
+  13 canales de YouTube (Humbertory, RodriFD, Qchao24, ilonqueen, Danie
+  Green, Luxe KO, Yara Paz, Eddie FD, AquamerYT, Viruz 51, REACTION
+  MASHUPS, Otaku-sen 2.0, Merce Gallardo), enlazados en §22-23.
+- **Mundo**: [CBR](https://www.cbr.com/demon-slayer-arcs-chronological-order/) ·
+  [GamesRadar+](https://www.gamesradar.com/entertainment/anime-movies/demon-slayer-upper-moons-twelve-kizuki-ranks/) ·
+  [Britannica](https://www.britannica.com/topic/Demon-Slayer) ·
+  [AniList](https://anilist.co/anime/101922).
+- **De `datos.json`** (en `referencias.json`): Wallhaven, Safebooru,
+  Openverse/Flickr, Steam y AniList.
+
+**Lo que NO encontré en la segunda pasada**: filtros de la animación;
+plumilla de la autora; el *twitcast* original de 2016; segunda fuente
+para lo que cuenta el editor de Gintama, HxH y los diseños; patrón libre
+de Giyu y de Shinobu; tramas oficiales; comida de Inosuke y gustos de los
+secundarios; vistas de TikTok y Facebook; fecha e imagen de las tres
+colaboraciones de móvil; encuadres por emoción fuera del combate; gotas
+de sudor como gesto de la serie. Detalle en §28.
 
 ---
