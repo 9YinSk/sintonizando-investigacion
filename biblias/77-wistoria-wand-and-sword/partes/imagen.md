@@ -150,6 +150,8 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - Colaboración con marcas grandes tipo Fortnite o un juego gacha: búsquedas «Wistoria Fortnite», «Wistoria gacha collab» — nada encontrado; el único crossover confirmado es con Magical Sisters Lulutto Lilly (jun-2026).
 - Emblema exacto de la familia Ulster (halcón de fuego) como imagen: mencionado sólo en texto de la wiki, sin archivo de imagen subido; búsqueda `srsearch=Ulster crest OR falcon` en la wiki sin resultado de imagen.
 - Modelo 3D con licencia libre de un objeto o sitio propio de la serie (Sketchfab, Poly Haven): no existe todavía ninguno con el nombre de la obra; se listan bases genéricas de torre/espada/catedral gótica como punto de partida.
+- Arte de videojuego propio de la franquicia (punto 1): no existe un videojuego oficial de Wistoria; búsqueda «Wistoria Wand and Sword video game mobile app» sólo encontró apps de streaming/lectura de manga, no un juego con arte propio — coherente con que el punto 11 (videojuegos) tampoco aplica, lo dirá el investigador de texto.
+- Cartones de cuenta atrás (countdown boards) de emisión: no se encontraron para esta serie; búsqueda incluida en las de key visual sin resultado propio de «cartón de cuenta atrás».
 - Un fotograma a color (no manga en blanco y negro) del Dungeon: las imágenes reunidas de los pisos son ilustraciones de manga; un fotograma de anime a color de la mazmorra es tarea del equipo de vídeo con `fotogramas.py`.
 
 ## Bitácora de búsqueda
