@@ -74,7 +74,7 @@ fecha: 2026-09-24
   Traducción**. Hagrid en P2 y P3 es **Víctor Hugo Aguilar**. Snape tuvo
   **6 voces** (no 1). Hay un **redoblaje argentino de 2019** (Caja de
   Ruidos) de P3 a P8: no mezclarlo.
-- **«Dobby es un elfo libre»**: ⚠️ → ✅. Es la frase del doblaje latino de P7
+- **«Dobby es un elfo libre»**: de dudoso a ✅. Es la frase del doblaje latino de P7
   (muestra de audio de Doblaje Wiki: «Dobby no tiene amo. Dobby es un elfo
   libre, y Dobby vino a salvar a Harry Potter y a sus amigos»).
 - **Poses de memoria → miradas** en los clips: Dumbledore **abre los brazos**
@@ -84,6 +84,23 @@ fecha: 2026-09-24
   **lee El Quisquilloso tapándose la cara** en el carruaje (clip 0:59).
 - **Licencias de Sketchfab**: por la API. El tablón de corcho es **CC BY**
   ✅; el Gran Comedor con velas de JER3D **ya no existe** (404).
+- **Concepto B tenía a Dumbledore en el atril «como en P1 00:42:20»**: en
+  P1 no hay atril. Ahora: Gambon con los brazos abiertos tras el atril
+  (clip oficial de P3, 0:43) o la mano abierta de P·26.
+- **Concepto C era de corcho** → **fieltro rojo `#51201D`** con marco
+  tallado (O·21). Los gorros de Dobby, de memoria a la wiki (*Elf hat*).
+- **`referencias.json` seguía siendo el de la 1.ª pasada** (páginas web,
+  sin tamaños), aunque aquí ya se daba por rehecho. Ahora sí: 40 entradas
+  con la imagen o el vídeo y el tamaño medido.
+- **Poses de memoria → vistas** (§15): 50 poses con su clip o su número de
+  hoja. Dobby en P7 no «saca pecho con el dedo en alto»: está **erguido,
+  brazos a los lados, cara alzada** (clip de Movieclips 2:44).
+- **Vestuario a ojo → medido** (§16). Ej.: la corbata de Harry `#740001` →
+  `#61121B`; Dumbledore de P1 es **burdeos con oro**, no «ciruela».
+- **Doblaje de P1 y P3**: de dudoso a ✅ con prensa de 2001 y 2004 y el blog del
+  director Javier Rivero. **«Tell them to wait»** lo dice Dumbledore ✅.
+  **Luna reparte El Quisquilloso en el pasillo del tren** ✅ (wiki).
+  **Desplat** en P7-P8 ✅.
 
 **Añadido**
 - 3 hojas de contacto propias (§2.0), con 100 imágenes elegidas de 601.
@@ -94,11 +111,22 @@ fecha: 2026-09-24
 - Minutos y enlaces `&t=` de 13 vídeos (§12) y poses con clip (§15).
 - `referencias.json` rehecho: **40 entradas**, casi todas la imagen misma
   con su tamaño medido.
-- La **Tabla de cumplimiento** (antes de la bitácora).
+- **Vídeo real con `fotogramas.py`** (Internet Archive): el vociferador en
+  1080p y el tráiler final de P6. Y el **doblaje latino del vociferador,
+  con minuto**: «¡Ronald Weasley! ¡Cómo osaste robar el auto!» (§10.3). En
+  latino se dice **«vociferador»**; en España, «Howler».
+- **El anuncio de Hagrid** en P3 («I'm delighted to announce…», 00:24:29):
+  el anuncio alegre que faltaba (§3).
+- **Fondos de pantalla** con tamaño y autor (§17), guía para IA ampliada
+  (§18), §20 al día.
+- La **Tabla de cumplimiento** (antes de la bitácora) y la bitácora de la
+  2.ª pasada.
 - Aviso: hay **serie de HBO en marcha** («Harry Potter y la piedra
   filosofal», teaser latino de HBO Max, 2026). No confundir su reparto.
 
-**Marcas de duda (⚠️):** había **55**; el recuento final va en la bitácora.
+**Marcas de duda:** había **55** antes de la segunda pasada; quedan
+**RECUENTO_FINAL** (contadas con `grep -o`; el número incluye la leyenda).
+Lo que sigue dudoso y por qué: §20.
 
 ---
 
@@ -443,7 +471,7 @@ Licencias y autores **comprobados con la API de Sketchfab** (24-sep-2026) ✅.
 | [Pluma](https://sketchfab.com/3d-models/quill-67771bc3f8024e6faea9af9f6f7d6bfb) | FlukierJupiter | CC BY | 400 | primer plano |
 | [Pluma en tintero](https://sketchfab.com/3d-models/quill-in-inkwell-7968ef86540d431ebba1e8597e4122b0) | Valo Niskanen | CC BY-NC | 1 282 | sólo si no es comercial |
 | [Velas](https://sketchfab.com/3d-models/92bb9f59fd9046b1beb9dca6b21489e2) | thegraphicsgeek | CC BY | 22 564 | velas flotantes |
-| [Tablón de corcho](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | **CC BY** (antes ⚠️) | 41 684 | concepto C (cambiar corcho por fieltro rojo) |
+| [Tablón de corcho](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | **CC BY** (antes dudoso) | 41 684 | concepto C (cambiar corcho por fieltro rojo) |
 | [Tablón medieval](https://sketchfab.com/3d-models/566a4332b57d4045a1cc4ffec77b4b8f) | avelium | CC BY | 2 472 | marco de madera para el tablón |
 | [Sello de lacre](https://sketchfab.com/3d-models/bd18fd7b6c1847bc8e7d9e779c122ed5) | plaggy | CC BY | 332 | lacre del aviso oficial |
 | [Varita de Saúco](https://sketchfab.com/3d-models/the-elder-wand-efc7362a857749b3ae55fcbbba8baafb) | James Allison | CC BY | 1 664 | varita de Dumbledore |
@@ -928,12 +956,12 @@ y las fuentes de la 1.ª pasada.
 | Personaje | Voz latina | Películas | Fuentes | Estado |
 |---|---|---|---|---|
 | Harry | **Arturo Castañeda** | P1 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arturo_Casta%C3%B1eda), [EcuRed](https://www.ecured.cu/Arturo_Casta%C3%B1eda_Mendoza) | ✅ |
-| Harry | Claudio Velázquez | P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Harry | Claudio Velázquez | P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Harry | **Víctor Ugarte** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Ugarte), [Otaku Press](https://www.otakupress.pe/2017/04/victor-ugarte-harry-potter-sasuke-doblaje.html), [Noroeste](https://www.noroeste.com.mx/amp/entretenimiento/espectaculos/presta-victor-ugarte-su-voz-a-harry-potter-DANO230322), Genial.guru | ✅ |
-| Hermione | Mitzy Corona | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Hermione | Mitzy Corona | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Hermione | Priscila Reyes | P3 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger) | ⚠️ (una fuente) |
 | Hermione | **Leyla Rangel** | P4 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Leyla_Rangel), [Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/), Genial.guru | ✅ |
-| Ron | Carlos Díaz | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Ron | Carlos Díaz | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Ron | **Luis Daniel Ramírez** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez), Genial.guru, [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez) | ✅ |
 | Dumbledore | **César Arias** | P1 a P8 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), [Infobae](https://www.infobae.com/america/entretenimiento/2020/12/21/murio-el-actor-de-doblaje-cesar-arias-fue-la-voz-de-dumbledore-y-tambien-participo-en-naruto-y-los-caballeros-del-zodiaco/), [El Universal](https://www.eluniversal.com.mx/espectaculos/muere-cesar-arias-actor-de-doblaje-que-dio-voz-dumbledore/) | ✅ |
 | Luna | **Lu (Lupita) Leal** | P5 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Lu_Leal), Genial.guru, [Anime Argentina](https://animeargentina.net/lupita-leal-doblaje/) | ✅ |
@@ -1216,7 +1244,7 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 > **2.ª pasada**: cada pose dice de dónde sale. «✅ clip» = la vi en un
 > clip oficial (*storyboard*, ±2 s) o en un fotograma 1080p; «✅ hoja» =
 > la vi en la imagen de la hoja de contacto (P·, O·, F·, §2.0). Las pocas
-> que siguen con ⚠️ tienen el minuto y la frase comprobados en los
+> que siguen marcadas como dudosas tienen el minuto y la frase comprobados en los
 > subtítulos, pero **el gesto no lo vi**: mirar el fotograma antes de
 > recortar.
 
@@ -1558,7 +1586,7 @@ imágenes (§2.0), licencias de Sketchfab y Commons (§2.2, §4), hex medidos
 (§5, §16), frases del doblaje latino (§10.3), poses vistas (§15), música
 de P7-P8, Reddit (§14).
 
-**Sigue dudoso, y por qué** (cada uno lleva ⚠️ en su sitio):
+**Sigue dudoso, y por qué** (cada uno lleva su marca de duda en su sitio):
 - **Vídeo de YouTube a tamaño real**: YouTube no dejó bajar ni un clip
   (bloqueo por IP compartida). Las poses de clips salen de miniaturas de
   160×90 o 320×180 (±2 s): valen para el gesto, no para recortar.
@@ -1593,20 +1621,20 @@ de P7-P8, Reddit (§14).
 | 1 · Arte oficial variado | ✅ | 601 imágenes de la wiki miradas; 100 elegidas en 3 hojas (§2.0): promos, renders del juego, figurines, Pottermore, props de papel, láminas de MinaLima (§2.1). Faltan portadas de libros y Jim Kay (§2.5) |
 | 2 · Fotogramas con capítulo y minuto | ✅ | minutos de los subtítulos ingleses (§3) y fotogramas 1080p del vociferador; fotogramas de wiki a 1920×800. El resto de clips, a 160-320 px |
 | 3 · Fan art y 3D con licencia | ✅ | 17 modelos de Sketchfab con licencia por la API (§4); fan art de ArtStation y DeviantArt, sólo enlazado |
-| 4 · Fondos, luz, paleta, texturas | ✅ | hex medidos en clips y arte (§5); texturas CC0 de Poly Haven y ambientCG. Texturelabs, licencia sin leer ⚠️ |
+| 4 · Fondos, luz, paleta, texturas | ✅ | hex medidos en clips y arte (§5); texturas CC0 de Poly Haven y ambientCG. Texturelabs, licencia sin leer |
 | 5 · Tipografía con tildes | ✅ | 12 letras libres y 6 de fans abiertas con fontTools (§6) |
 | 6 · Cómo hablan en pantalla | ✅ | 9 «cuadros» del mundo (§7.1), juegos (§7.2) y qué NO (§7.3) |
 | 7 · Personajes y popularidad | ✅ | 5 encuestas, fuentes en inglés, japonés y coreano (§9): gana Snape; Hermione siempre arriba |
 | 8 · Doblaje latino con dos fuentes | ⚠️ | reparto principal ✅ con dos fuentes; P1 y P3 ahora con prensa. P4, P5, P6, P8 y 6 voces secundarias, sólo Doblaje Wiki (§10) |
 | 8b · Frases latinas textuales | ✅ | 20 frases (§10.3): muestras de Doblaje Wiki y el vociferador con minuto exacto en vídeo. No hay clips oficiales doblados con subtítulos |
 | 9 · Música | ✅ | compositores con fuente; el coro de ranas visto en el clip de P3 (§11) |
-| 10 · Vídeos con minuto | ✅ | 28 vídeos comprobados, casi todos con enlace `&t=` (§12); 2 mirados con `fotogramas.py` en vídeo real, el resto por *storyboard*. TikTok sin abrir ⚠️ |
-| 11 · Videojuegos: interfaz y diálogo | ✅ | 6 juegos (§13, §7.2); *Hogwarts Mystery* sin capturas ⚠️ |
+| 10 · Vídeos con minuto | ✅ | 28 vídeos comprobados, casi todos con enlace `&t=` (§12); 2 mirados con `fotogramas.py` en vídeo real, el resto por *storyboard*. TikTok sin abrir |
+| 11 · Videojuegos: interfaz y diálogo | ✅ | 6 juegos (§13, §7.2); *Hogwarts Mystery* sin capturas |
 | 12 · Lo que ama el fandom y qué NO | ✅ | Reddit por Arctic Shift con votos (§14); 12 «qué NO» |
 | 13 · Descripción profunda y forma de hablar | ✅ | 6 personajes + Snape y McGonagall (§8), con cuerpo visto y voz latina transcrita |
-| 14 · Poses con minuto | ✅ | 6 tablas, 7-11 poses cada una (§15); casi todas vistas en clip u hoja; 3 gestos sin ver ⚠️ |
+| 14 · Poses con minuto | ✅ | 6 tablas, 7-11 poses cada una (§15); casi todas vistas en clip u hoja; 3 gestos sin ver |
 | 15 · Vestuario con hex | ✅ | hex medidos en figurines y promos (§16) |
-| 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta, no ⚠️ |
+| 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta, no |
 | 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18) |
 | 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19) |
 | 40 fuentes distintas | ✅ | unas 70 webs distintas enlazadas |
@@ -1625,6 +1653,88 @@ de P7-P8, Reddit (§14).
 ---
 
 ## 21 · Bitácora de búsqueda
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+La hicieron dos ayudantes seguidos. Del primero quedó el texto (§2-§14
+corregidos y ampliados) pero se perdió su carpeta de trabajo y **no quedó
+registro de sus búsquedas web**; lo que usó se lee en cada sección y se
+resume aquí.
+
+**Primer ayudante (hecho por la red directa)**
+- Fandom `harrypotter`: `investigar_serie.py` dos veces (20 páginas, 601
+  imágenes grandes) y búsquedas en el espacio de archivos.
+- Doblaje Wiki por la API: 8 películas, 9 fichas, 65 muestras de audio
+  pasadas por Whisper.
+- YouTube con yt-dlp: 13 vídeos, sólo datos y *storyboards*.
+- APIs de Sketchfab, Poly Haven, ambientCG y Wikimedia Commons (licencias y
+  tamaños); láminas de MinaLima bajadas y medidas; Reddit por Arctic Shift;
+  fontTools sobre Parry Hotter y Lumos.
+
+**Segundo ayudante (este cierre)**
+- **YouTube**: `fotogramas.py` con 6 clientes de yt-dlp (`mweb`,
+  `tv_simply`, `android_vr`, `web_embedded`, `ios`, `tv`) y 3 reintentos
+  espaciados: «Sign in to confirm you're not a bot» o «This video is not
+  available». Con `web_embedded` salen los datos y los *storyboards*; con
+  un script de Pillow monté las miniaturas de 10 vídeos en hojas (P3 discurso, Leviosa,
+  Luna, Dobby P2, Baile de Navidad, campeones P4, ED en Cabeza de Puerco,
+  Harry enseña al ED, Malfoy Manor, clase de Pociones).
+- **Búsquedas en YouTube** (yt-dlp `ytsearch`, no cuentan en el cupo):
+  «Harry Potter escena doblaje latino oficial Warner», «Harry Potter HBO Max
+  Latinoamérica escena», «Harry Potter doblado Warner Bros Pictures
+  Latinoamerica», «harrypottermexico tv spot», «Harry Potter Wizarding World
+  en español latino clip», «Harry Potter Warner Bros Mexico trailer
+  doblado», y 6 más en inglés para las poses (Dobby en Malfoy Manor, «Did
+  you put your name», el desayuno de P1, Cabeza de Puerco, el ED, Pociones).
+  **El desayuno de P1 no tiene clip oficial.**
+- **Internet Archive** (búsqueda avanzada y metadatos): «harry potter
+  trailer», «harry potter latino/doblaje/español», «harry potter clip
+  scene…», «different languages». Encontrado: el vociferador en 23 idiomas
+  (1080p) y la colección de tráileres oficiales de P6. Bajados y mirados
+  con `fotogramas.py`; `video.mp4`/`.webm` borrados al terminar. Los
+  espejos `youtube-<id>` de los 10 clips oficiales: no existen.
+- **Whisper** (`faster-whisper`, modelo *medium*, instalado en un entorno virtual
+  dentro de mi carpeta de trabajo): el tramo latino y el de España del vociferador, y 5
+  muestras de Doblaje Wiki (Molly P2, Hagrid, Dumbledore, Harry y Ron de P1).
+- **APIs de Fandom**: tamaños de las 100 imágenes de las hojas (todos
+  coinciden con las tablas); búsquedas de texto («broke into Gringotts»,
+  «Dobby hats», «notice board Daily Prophet Quibbler», «Luna Quibbler
+  train»); wikitext de *Elf hat*, *Gryffindor Notice Board*, *Dobby*, la
+  película 6 y la 1, *Alexandre Desplat*; espacio de archivos «wallpaper»,
+  «Hogwarts Legacy key art», «Great Hall wallpaper». Wiki en español:
+  «Torposoplo» (existe), «Audiomaster», «Javier Rivero» (sin resultados).
+  Doblaje Latino Wiki: sólo tiene fichas de actores.
+- **Subtítulos ingleses** de GitHub (P1, P3, P4, P6) para los minutos
+  de «Tell them to wait», «Quibbler», el anuncio de Hagrid y El Profeta.
+- **Buscador web** (4 búsquedas, en español): «Harry Potter doblaje latino
+  DAT Herman López Orden del Fénix director de doblaje», «"José Luis García
+  Agraz" doblaje "Prisionero de Azkaban" director», «Javier Rivero director
+  doblaje "Harry Potter y la piedra filosofal" Audiomaster entrevista»,
+  «Roberto Molina director doblaje Harry Potter "Reliquias de la Muerte"
+  DAT entrevista». Sirvieron La Prensa de Panamá (2001), el blog de Javier
+  Rivero (2007) y El Siglo de Durango (2004).
+- **Comprobados con curl**: el fondo oficial de Hogwarts Legacy (27 MB,
+  responde), SoundCloud, Bilibili y harrypotter.com (200).
+- **Fallan**: Wikipedia y Commons (429), TV Tropes (403, reto de
+  Cloudflare), ArtStation (403), Texturelabs (reto antibots en sus
+  condiciones), `web.archive.org` (el túnel se corta; la API de
+  disponibilidad sí confirma que el artículo de Blog Hogwarts está guardado).
+
+**Lo que sigue sin encontrarse (2.ª pasada)**
+- Un clip oficial doblado al latino con subtítulos o audio que se pueda
+  bajar.
+- Segunda fuente para el estudio y la dirección de P4, P5, P6 y P8.
+- La letra de los menús de Hogwarts Legacy y un modelo 3D libre de El
+  Profeta o del atril.
+- Una encuesta de popularidad hecha en Latinoamérica.
+- El clip oficial del desayuno de P1 (quién lee El Profeta sale sólo de la
+  wiki).
+
+**Marcas de duda** (contadas con `grep -o` sobre el símbolo en
+`biblia.md`; el número incluye la leyenda): **55 antes de la segunda pasada → 57 cuando se
+cortó el primer ayudante → RECUENTO_FINAL al cerrar**.
+
+### Primera pasada (24-sep-2026, red cerrada)
 
 ### Comprobación de red (24-sep-2026)
 - `community.fandom.com` → 000/403. También 403: Doblaje Wiki, Wikipedia,
@@ -1753,7 +1863,7 @@ de P7-P8, Reddit (§14).
 - **Doblaje latino**: Doblaje Wiki, Infobae, El Universal, Vía País, Otaku
   Press, Noroeste, Blog Hogwarts, TikTok de las actrices.
 
-### Lo que NO encontré
+### Lo que NO encontré (1.ª pasada; lo resuelto después, en §20)
 - Un modelo 3D de El Profeta con licencia libre.
 - La letra de los menús de Hogwarts Legacy.
 - Una encuesta de popularidad hecha en Latinoamérica.

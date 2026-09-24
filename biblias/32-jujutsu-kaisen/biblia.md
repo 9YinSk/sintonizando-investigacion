@@ -550,6 +550,7 @@ sobre tinta azul petróleo** (el modo historia de *Cursed Clash*).
 | **Ofuda (talismanes)** | papeles verticales con escritura, pegados por cientos en la pared de la celda | clip doblado, 0:18-0:21 |
 | **Etiquetas del mundo** | la placa «虎杖» en la puerta del hospital; la cinta «KEEP OUT / 立入禁止»; el jarabe «のどナオール» | títulos ep. 1 y 9; JJK0 |
 | **Juju-Cortos** (じゅじゅさんぽ) | minicapítulos tras el ending, con los personajes en **dibujo simple** charlando | Doblaje Wiki; arte #165 de Gege |
+| **Tabla dibujada a mano** | Panda explica cómo ve a cada alumno con **una tabla de rangos** (1級, 準1級, 2級…) y **caras chibi** pegadas en cada fila | [wiki, «How Panda thinks the students rank (Anime)»](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/91/How_Panda_thinks_the_students_rank_%28Anime%29.png), 1920×1080 (2.º ayudante) |
 
 ### 7.2 Cómo piensan
 
@@ -1281,15 +1282,41 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 4 | #405 | **brazos cruzados**, camiseta morada, en un cuarto | preguntar («¿qué tipo de chica…?») |
 | 5 | #531 | junto a Yuji, **brazos arriba** | animar |
 
+### Sukuna (añadido por el 2.º ayudante; imágenes de la wiki, 1920×1080 salvo la 1)
+
+| # | Dónde | Postura, manos, mirada | Uso |
+|---|---|---|---|
+| 1 | [Sukuna realizes that he has control](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/41/Sukuna_realizes_that_he_has_control_%28Anime%29.png) (1961×1658) | de perfil, **sonrisa enorme** con todos los dientes, ojo rojo muy abierto | amenaza |
+| 2 | [Sukuna tells Jogo to stand proud](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/91/Sukuna_tells_Jogo_to_stand_proud_%28Anime%29.png) | en el cuerpo de Yuji, de pie, **mirada de lado** y media sonrisa, fondo blanco | **reconocer** a otro («Siéntete orgulloso») |
+| 3 | [Sukuna looking down on Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/62/Sukuna_looking_down_on_Yuji_%28Anime%29.png) | **recostado en su trono de huesos**, mano en la mejilla, kimono blanco | **el rey aburrido**: lámina de reglas |
+| 4 | [Sukuna proposes a Binding Vow to Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a1/Sukuna_proposes_a_Binding_Vow_to_Yuji_%28Anime%29.png) | **levanta dos dedos** hacia la cámara, sonrisa ladina | **proponer un trato**, explicar una regla |
+| 5 | [Sukuna demands … bow to him](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/36/Sukuna_demands_Jogo%2C_Mimiko%2C_and_Nanako_bow_to_him_%28Anime%29.png) | **se echa el pelo hacia atrás** con la mano, ojos entornados | presentarse con chulería |
+| 6 | [Sukuna bored with Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f1/Sukuna_bored_with_Yuji_%28Anime%29.png) | **cara de aburrimiento**, ojos a medio cerrar | desdén, «qué pesados» |
+| 7 | [Sukuna sitting on Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/0b/Sukuna_sitting_on_Yuji_%28Anime%29.png) | **sentado encima de Yuji**, en su dominio rojo | burla (no para lámina amable) |
+| 8 | OP1, [1:22](https://www.dailymotion.com/video/x84iff2?start=82) (visto) | sonrisa torcida, cabeza ladeada, marcas en la cara | el gancho |
+
+### Panda (añadido por el 2.º ayudante)
+
+| # | Dónde | Postura, manos, mirada | Uso |
+|---|---|---|---|
+| 1 | [Panda (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/c5/Panda_%28Anime%29.png) (751×1050) | de pie, de frente, **una mano levantada** | **presentar**, saludar |
+| 2 | [How Panda thinks the students rank](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/91/How_Panda_thinks_the_students_rank_%28Anime%29.png) | Panda junto a **una tabla de rangos dibujada a mano** (1級, 準1級, 2級…) con **caras chibi** de cada alumno | **explicar** con una tabla: lámina 2 de rangos |
+| 3 | [Panda first appearance](https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b0/Panda_first_appearance_%28Anime%29.png) | de perfil, **mano en la barbilla**, mejilla sonrojada | **pensar** |
+| 4 | [Nobara and Panda taunt Momo](https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/50/Nobara_and_Panda_taunt_Momo_%28Anime%29.png) | **sonrisa burlona** enseñando los dientes, junto a Nobara | picar, animar en broma |
+| 5 | [Panda fakes his defeat](https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f8/Panda_fakes_his_defeat_%28Anime%29.png) | agachado, **cara de pillo** | la broma |
+| 6 | [Panda in class](https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d3/Panda_in_class_%28Anime%29.png) (1920×803) | sentado en el aula, serio, de perfil | escuchar |
+| 7 | [Maki, Toge, and Panda waiting for Yuta](https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/71/Maki%2C_Toge%2C_and_Panda_waiting_for_Yuta_%28Anime%29.png) (1920×803) | con **chaqueta amarilla** de invierno, entre Inumaki y Maki con bufandas | ropa de calle, grupo |
+| 8 | ED1, [1:14](https://www.dailymotion.com/video/x80jy2b?start=74) (visto) | de pie con **un ramo de globos** | celebrar |
+
 ### Resumen: qué pose para qué
 
 | Uso | Pose recomendada |
 |---|---|
 | **Presentar** | Gojo mano abierta (P1) · Nobara mano en la cadera (P12) · Inumaki con el cuello subido (#1017) |
-| **Explicar** | **Gojo con puntero y pizarra** (*Cursed Clash* 0:21) · Gojo señalando (T1-7 1:39) · Inumaki enseñando el espray (P29) |
+| **Explicar** | **Gojo con puntero y pizarra** (*Cursed Clash* 0:21 y 3:22) · Gojo señalando (T1-7 1:39) · Inumaki enseñando el espray (P29) · **Panda con su tabla de rangos** |
 | **Celebrar** | Todo «Congratulations» (T1-19) · Yuji riendo (OP1 1:18) · Nobara con bolsas (ED1 0:40) · Inumaki con megáfono y «V» (P30) |
 | **Regañar** | Nanami de frente (#923) · Nobara con martillo (P10) |
-| **Pensar** | Nanami mano en la boca (P15) · Megumi manos entrelazadas (#785) |
+| **Pensar** | Nanami mano en la boca (P15) · Megumi manos entrelazadas (#785) · Panda mano en la barbilla |
 | **Animar** | Yuji palma abierta (OP1 1:12) · Gojo con las gafas (P3) · Inumaki pulgar arriba (P18) |
 
 ## 16 · Vestuario
@@ -1574,11 +1601,72 @@ Inumaki.
 
 ## 20 · Lo que no pude verificar
 
-(pendiente)
+- **Los textos de ➕ CREAR SALA y 🍟 General** (§0): ninguno de los dos
+  tiene descripción en el inventario, y **no sé qué bot crea las salas**
+  ni qué opciones da (nombre, límite, candado…). Son una propuesta: hay
+  que confirmarlos con el dueño antes de dibujar.
+- **Frases del doblaje latino**: las de §10.4 salen de subtítulos
+  automáticos, de **Whisper** sobre las muestras de Doblaje Wiki (que no
+  dicen el episodio) y de dos clips de Dailymotion. **Ningún clip oficial
+  de YouTube** se pudo bajar desde aquí («confirma que no eres un bot»).
+  Cómo dice el doblaje «kombu», «atún con mayonesa» y el «¿Qué tipo de
+  chica te gusta?» de Todo: ⚠️ sin oír.
+- **Los términos del doblaje** («Extensión» en la T1, «Expansión» en la
+  T2; «Hechicería» → «Brujería»): sólo Doblaje Wiki ⚠️.
+- **Resolución de los vídeos**: Dailymotion sólo sirve 512×288 aquí. Los
+  colores medidos en fotogramas son aproximados (±10 por canal).
+- **Web oficial** `jujutsukaisen.jp`: 403 (Cloudflare) con `curl` y con
+  el lector web; su sección de entrevistas (hay una del director
+  Goshozono, según el buscador) quedó sin leer ⚠️. La **Wayback Machine**
+  responde a la API de disponibilidad pero **corta el túnel** al bajar la
+  página (dos intentos). **TV Tropes** y **The Cutting Room Floor**: 403.
+- **La caja de diálogo de *Phantom Parade*** y la del modo historia de
+  *Cursed Clash* **en español**: no las vi (sólo la versión inglesa del
+  tráiler).
+- **Los gestos del dominio de Sukuna y Megumi**: no los comprobé en vídeo.
+- **Los números «#N»** del 1.er ayudante: su índice se perdió; §3.0 tiene
+  la equivalencia con los nombres de archivo que pude emparejar
+  (#139, #1085 y #1180 no).
+- **Encuesta latina propia** de popularidad: no la encontré.
+- **Tendencias de TikTok** (el baile del ED1, el gesto del dominio):
+  sólo títulos de búsqueda, TikTok no se abre desde aquí ⚠️.
+- **«Anime del Año» en los Crunchyroll Anime Awards 2021**: una fuente ⚠️.
+- **Quién pregunta «¿Y el velo?»** en T2-1 (13:57): el subtítulo no
+  marca quién habla ⚠️.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial en cantidad y variado | ✅ | la wiki entera por `investigar_serie.py` (3.367 imágenes la 1.ª vez, 3.424 al rehacer el índice); 3 hojas propias con 90 celdas numeradas; tabla #N → archivo (§3) |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | minutos de los subtítulos japoneses con tiempos (§2) ✅ y 16 vídeos mirados (§12) ✅; pero los fotogramas propios son de **512×288** (Dailymotion); a 1080p sólo los de la wiki (1920×1080) |
+| 3 · Fan art, renders 3D y modelos libres | ✅ | 15 modelos de Sketchfab con licencia de la API (5 recomprobados el 24-sep, más la pantalla de proyección), 7 obras de fan art con autor, wallhaven (§4, §17) |
+| 4 · Fondos y sitios, paleta y texturas | ✅ | 8 sitios con luz, paleta medida con Pillow (más la de la celda, el picnic y la caja de *Cursed Clash*), texturas CC0 (§5) |
+| 5 · Tipografía y letras libres con tildes | ✅ | 10 letras probadas con fontTools; la trampa de la letra del generador de logos (tildes vacías) (§6) |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | títulos de episodio, hora y lugar, técnicas verticales, pizarra, **caja del modo historia de *Cursed Clash*** (nueva), tabla de Panda (§7) |
+| 7 · Personajes y encuestas | ✅ | las 4 encuestas oficiales; la 4.ª en dos fuentes (§9) |
+| 8 · Doblaje latino: reparto en dos fuentes y frases | ✅ reparto / ⚠️ frases | 18 voces en dos fuentes; frases textuales de 3 vías (subtítulos automáticos, Whisper sobre muestras de Doblaje Wiki, 3DJuegos). Sin clips oficiales de YouTube (bloqueado) (§10) |
+| 9 · Música | ✅ | los 10 temas de las 3 temporadas y JJK0 (comprobados en la wiki), canciones internas (§11) |
+| 10 · Vídeos con minuto exacto | ✅ | 16 vídeos con enlace y minuto (`?start=`), 10 re-mirados el 24-sep con hojas numeradas (§12) |
+| 11 · Videojuegos: interfaz y cajas | ✅ | *Cursed Clash*: pizarra, HUD hexagonal, lobby, frases rápidas y **caja del modo historia** (vistos y medidos); *Phantom Parade*: sólo arte ⚠️ (§13) |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 13 memes con minuto y fuente, 11 «no hacer» (§14) |
+| 13 · Descripción profunda de cada personaje | ✅ | 14 personajes y 4 de apoyo, con cómo hablan y su minuto (§8) |
+| 14 · Poses analizadas (6-10 por personaje) | ✅ | Gojo 13, Inumaki 10, Yuji 8, Sukuna 8, Panda 8, Nanami 7, Megumi 6, Nobara 6; Todo 5 ⚠️ (§15) |
+| 15 · Vestuario con hex | ✅ | 10 personajes, colores medidos donde se pudo (§16) |
+| 16 · Paisajes y fondos de pantalla | ✅ | sitios con hora y luz; 8 fondos de fans en alta con autor y tamaño (§17) |
+| 17 · Guía para IA | ✅ | rasgos fijos, estilo, palabras que ayudan y que estropean, referencias con enlace, encuadre (§18) |
+| 3 conceptos de lámina | ✅ | §19: A y B para ➕ CREAR SALA, C para 🍟 General; objeto, personaje, cuadro, textos y profundidad |
+| 40 fuentes distintas | ✅ | 47 en la bitácora (§21.4) |
+| Tipos: oficiales | ⚠️ | tráileres y clips oficiales (en copias), Steam, web de la Jump ✅; **web oficial 403** y sin entrevistas del staff japonés leídas; sí una del director Sunghoo Park (en coreano) |
+| Tipos: otros idiomas | ✅ | japonés (subtítulos, pixiv百科, ciatr, note, eiga-manga), coreano (Xportsnews), chino (Sohu) |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (JJK, Doblaje, Dubbing Database) y su foro ✅; TV Tropes y TCRF 403; Wayback corta el túnel |
+| Tipos: foros y comunidades | ✅ | Reddit por Arctic Shift, foro de la wiki |
+| Tipos: arte (Pixiv, ArtStation, DeviantArt) | ✅ | ArtStation, X de artistas, DeviantArt (aviso de IA), pixiv百科 |
+| Tipos: vídeo | ✅ | §12 |
+| Tipos: código y recursos | ✅ | kitsunekko-mirror (GitHub), generador de logos (GitHub Pages), Sketchfab, Poly Haven, ambientCG, Google Fonts, dafont |
+| Tipos: doblaje latino | ✅ | Doblaje Wiki (API y audios), Dubbing Database, Cine Premiere, Somos Kudasai, Hero Network, Chirchi, Cultura Geek, 3DJuegos LATAM |
+| Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,80 MB, `fondos_objetos_01.jpg` 0,70 MB, `pantalla_y_letras_01.jpg` 0,78 MB (2400×1780 cada una) |
+| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 37 entradas: 28 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 9 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe) |
 
 ## 21 · Bitácora de búsqueda
 

@@ -83,7 +83,8 @@ fondos de pantalla de fans con tamaño (§17); Reddit por Arctic Shift (§13);
 `referencias.json` rehecho: 39 entradas, todas con tamaño medido; la tabla
 «Cumplimiento del encargo».
 
-**⚠️:** había **14** antes de esta pasada; quedan **CUENTA** (§20 dice por qué).
+**Avisos con el símbolo de duda**: había **14** antes de esta pasada; quedan **3** (Carlos Monroy,
+Ivett Toriz y «Legión de Exploración», todos con una sola fuente; §20).
 
 ---
 
@@ -573,7 +574,8 @@ sirven tal cual**: por eso la lámina usa la ficha del anime o un objeto escrito
    campamento»: hablas con los personajes y eliges respuestas
    ([RPG Site](https://www.rpgsite.net/review/6932-attack-on-titan-2-review) ·
    [GodisaGeek](https://godisageek.com/reviews/attack-on-titan-2-review/)).
-   **Su caja de diálogo no la pude medir** (§12).
+   **Su caja de diálogo no la pude ver**; la de *Attack on Titan 3* sí (demo,
+   §12): diálogo sin caja y una **franja de pincel oro viejo** para los títulos.
 5. **Los discursos** son la otra «voz»: Erwin en los eps. 16 y 53. En la
    lámina, un discurso no va en globo: va **escrito en un objeto** (bandera,
    acta, tablón).
@@ -1322,24 +1324,34 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
 
 ---
 
-## 20 · Lo que no pude verificar
+## 20 · Lo que no pude verificar (tras la segunda pasada)
 
-- Minutos exactos de todas las escenas.
-- Cajas de diálogo de los juegos: no hay capturas.
-- Fuente de los globos del manga.
-- Hex de la bufanda a pleno sol.
-- Fan art con autor: no busqué en Pixiv, ArtStation ni DeviantArt.
-- Modelos nuevos en Sketchfab.
-- Entrevistas del diseñador de personajes y del director de arte.
-- Reddit: el archivo de Arctic Shift tampoco respondía.
-- Wayback Machine.
-- Qué personajes salen en el dibujo del Día de AoT (una sola fuente).
-- Hange en la película: ¿Rossy Aguirre o Laura Torres?
-- Reiner: ¿Alfonso Obregón u Óscar López?
-- Erwin sin brazo desde la T2: lo sé de memoria.
-- Los intérpretes de cada opening.
+Lo que sigue con aviso en la biblia, y por qué:
+- **Carlos Monroy, asistente de dirección** (§9.1): sólo lo dice la ficha de
+  Doblaje Wiki; FUNiAnime y ANMTV no lo nombran.
+- **Ivett Toriz, Levi niño en el ep. 47** (§9.2): sólo Doblaje Wiki (la ficha
+  de la serie y la de ella son la misma fuente).
+- **«Legión de Exploración»** (§9.3): cuatro voces lo dicen en las muestras de
+  Doblaje Wiki, pero no hallé un texto oficial que lo escriba.
 
----
+Lo que no pude mirar o no existe con la red de hoy:
+- **Los vídeos en movimiento y con sonido**: YouTube no deja bajar el vídeo
+  (403 / «iniciar sesión»). Todo lo visto es por *storyboard* (160×90 o
+  320×180, ±1-2 s). Por eso **no hay frases latinas sacadas de subtítulos de
+  clips**: los clips oficiales de Crunchyroll no dieron subtítulos, y las
+  frases vienen de las muestras de audio de Doblaje Wiki (transcritas con
+  Whisper en la primera mitad de la pasada) y de los títulos de los clips.
+- **La frase latina de Levi en el ep. 15** («Es una regla que hay que
+  cumplir»): no hay muestra de audio; va como traducción nuestra.
+- **Autores de dos fondos de ArtStation** (W9, W12): ArtStation dio 403.
+- **Wayback Machine**: la API dice que hay copia de la web oficial de 2013
+  (`shingeki.tv/character/`, 1-jun-2013), pero la página se cortó dos veces.
+- **Cajas de diálogo de *Wings of Freedom* y *AoT 2***: sin capturas.
+- **Fuente de la rotulación del manga en inglés** (Kodansha USA).
+- **Entrevistas del diseñador de personajes y del director de arte** (la
+  búsqueda 49-51 de la primera pasada no se hizo; en esta tampoco).
+- **Hex de la bufanda a pleno sol**: sólo medida en G1 y en interior.
+- **Fuentes en chino**: no busqué.
 
 ## 21 · Bitácora de búsqueda
 
