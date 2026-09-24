@@ -30,7 +30,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 - [x] 09-mafalda
 - [x] 10-k-on
-- [ ] 11-chainsaw-man
+- [x] 11-chainsaw-man
 - [ ] 12-kakegurui
 
 ## Tanda S4
