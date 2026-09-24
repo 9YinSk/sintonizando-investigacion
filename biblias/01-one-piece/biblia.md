@@ -48,6 +48,7 @@ fecha: 2026-09-24
 - Openings 2-5: «48-263» → 48-115, 116-168, 169-206 y 207-263; «Dear sunrise»: «1089 en adelante» → 1089-1122 (§11).
 - Colores del logo: `#2E55B0` / `#189FDB` (mezclados con el cielo) → degradado `#1BBEED` → `#185CB2`. Chopper: pelaje `#937555` y nariz `#425582` → `#C6A882` y `#628190` (§6, §9).
 - Carácter de los personajes: «de memoria» → **fichas oficiales de one-piece.com** y la wiki (§9).
+- **Conceptos de lámina** (la idea de cada uno no cambia): en el A, las fotos de los carteles pasan del arte del juego a los ***eyecatchers* oficiales** del anime, donde cada uno ya posa en un marco WANTED (P9, P15, P19, P21), y Luffy puede saludar con **P1**; el B pasa a la **biblioteca del Sunny** (F9) con la carta del opening oficial (1:04) y los mapas O15-O16; el C usa el barril visto desde arriba (O23) y a Luffy saliendo del barril (P5) (§16).
 
 **Añadido:**
 - **3 hojas de contacto** con 72 imágenes numeradas y su tamaño real (§3.0).
@@ -990,22 +991,32 @@ sobre una mesa** y un **barril en la cubierta**.
 - **Objeto y sitio:** la base del **mástil del Thousand Sunny**, tablones
   de madera (Poly Haven, *weathered_planks*). En Blender: **cinco carteles
   de papel clavados**, con las esquinas levantadas por el viento. El
-  mástil y el mascarón, mirando el modelo de Sketchfab de Tigerar1 (es
-  CC BY-SA: mejor de referencia) o el león de Randyr1444 (CC BY).
+  mástil y el mascarón, con los Sunny **CC BY** de ShacLaw o serienreviewer
+  y el león de Randyr1444 (§5). **Cómo es un muro de carteles de verdad:**
+  el del ep. 45 (hoja **O1**, madera `#85745C`) y el del tráiler de Netflix
+  ([2:42](https://www.dailymotion.com/video/x8njo84?start=162), papel
+  amarillento y esquinas despegadas). Cartel a 1:1,45 (745×1080 en la wiki),
+  papel `#DED0BE`, tinta `#35271E` (§6).
 - **Los carteles:**
   - En el centro, uno **en blanco**: WANTED, un marco de foto vacío con
     un signo «?» a tinta y el nombre **«TÚ»**. Recompensa: ninguna aún.
   - Alrededor, los **4 pasos**, uno por cartel, con la foto de un
-    tripulante:
-    1. **CANALES Y ROLES**, con **Nami** (2075): ella elige la ruta.
-    2. **REGLAS**, con **Zoro** (1371): serio.
-    3. **PRESÉNTATE**, con **Chopper** (1369): tímido pero feliz.
-       Chiste: su recompensa de 1.000.
-    4. **LA SALA**, con **Sanji** o **Zoro con su jarra** (2634): la
-       fiesta.
+    tripulante. **Segunda pasada: las fotos salen de los *eyecatchers*
+    oficiales del anime**, donde cada uno ya posa dentro de un marco
+    WANTED (§8); antes eran arte del juego:
+    1. **CANALES Y ROLES**, con **Nami** guiñando y haciendo «OK»
+       (hoja **P9**; otra: 2075): ella elige la ruta.
+    2. **REGLAS**, con **Zoro** y la espada en la boca (**P15**; otra: 1371): serio.
+    3. **PRESÉNTATE**, con **Chopper** asomando y sudando (**P21**; otra: 1369):
+       tímido pero feliz. Chiste: su recompensa de 1.000 (su cartel real con la
+       lengua fuera, **O9**).
+    4. **LA SALA**, con **Sanji** fumando (**P19**) o **Zoro con su jarra**
+       (2634): la fiesta.
+  - Guiño para fans: un cartel de **Law** medio tapado detrás (5.º mundial, §9).
   - Cada cartel con su «DEAD OR ALIVE» y «MARINE» (para que un fan lo
     crea), y el texto corto del paso en el hueco de la recompensa.
-- **Personaje:** **Luffy**, pose 1403 (mano en el sombrero), a la
+- **Personaje:** **Luffy**, pose 1403 (mano en el sombrero) o **P1**
+  (mano abierta y sonrisa de ojos cerrados: la de «¡bienvenido!»), a la
   izquierda y grande, de cintura para arriba **pero con el brazo
   apoyado en el mástil** (nada de brazos que salen de la nada).
   **ドン!!** a su lado.
@@ -1023,9 +1034,16 @@ sobre una mesa** y un **barril en la cubierta**.
 ### Concepto B — «La ruta de Nami» (carta náutica sobre su mesa)
 
 - **Objeto y sitio:** **una carta náutica de papel** sobre la mesa de
-  trabajo de Nami, en el barco. En Blender: papel con ondas, un
-  **Log Pose** de cristal (la brújula de pulsera de la Grand Line)
+  trabajo de Nami: la **biblioteca del Sunny** (hoja **F9**: sala redonda,
+  paredes `#4D6C83`, madera `#53443D`, suelo a cuadros; plano de Oda en
+  **F13**). En Blender: papel con ondas, un **Log Pose** de cristal
+  (hojas **O19**-**O20**; modelo CC BY «The Eternal Log Pose», §5)
   sujetando una esquina, un tintero, una pluma y **una mandarina**.
+- **Cómo es la carta:** como la del opening oficial
+  ([1:04-1:11](https://www.youtube.com/watch?v=YoeP9w5UIlg&t=64): acuarela,
+  el Merry dibujado, rótulo a pluma; mar `#B2D8C8`, tierra `#D3D293`) y
+  los mapas de Nami (**O15**, cuadriculado con curvas de nivel; **O16**,
+  la ruta en **línea roja** `#99382E`).
 - **La ruta:** una línea de puntos sale de un barquito de papel («estás
   aquí») y pasa por **4 islas**:
   1. Isla **Canales y Roles**: «Arriba del todo. Elige zonas y avisos.»
@@ -1035,7 +1053,10 @@ sobre una mesa** y un **barril en la cubierta**.
      #general.»
 - **Personaje:** **Nami** (la 4.ª mundial y la 1.ª en Europa), inclinada
   sobre la mesa, **guiñando un ojo y con la punta de su vara sobre la
-  carta** (pose de 4186; otras: 1365 sentada, 2075 con la vara).
+  carta** (pose de 4186; mejor aún el guiño con «OK» de la hoja **P9**, o
+  la sonrisa de medio lado del opening,
+  [1:21](https://www.youtube.com/watch?v=YoeP9w5UIlg&t=81); otras: 1365
+  sentada, 2075 con la vara).
   **Luffy** asoma por la ventana del fondo, pequeño, riéndose.
 - **Cómo habla:** Nami con globo ancho: «Sigue esta ruta y no te
   pierdes.» Y un globo pequeñito hacia fuera: «Zoro, tú no.» (el chiste sale
@@ -1051,8 +1072,9 @@ sobre una mesa** y un **barril en la cubierta**.
 
 - **Objeto y sitio:** **un barril de madera** en la cubierta del Going
   Merry, de noche, con lluvia y el faro de Loguetown al fondo (la escena
-  del ep. 53 ✅, §4; plano cenital en la hoja O23). Barril y cubierta en Blender (modelo de Oliver Edwards,
-  CC BY).
+  del ep. 53 ✅, §4; plano cenital en la hoja **O23**: madera mojada y
+  oscura, cinco piernas). Barril y cubierta en Blender (Merry de Oliver
+  Edwards y barril de DZs, los dos CC BY, §5).
 - **La idea:** cinco pies encima del barril (sandalia de Luffy, bota de
   Zoro, Nami, Usopp, zapato de Sanji) y **un hueco libre** con tiza:
   «Tu pie aquí».
@@ -1060,8 +1082,9 @@ sobre una mesa** y un **barril en la cubierta**.
   barril, con pintura blanca gastada, uno por duela. En la tapa, una
   etiqueta de papel clavada: «BIENVENIDO A BORDO». El pie «¡Salúdala!»
   en un farol.
-- **Personaje:** **Luffy** grita con el puño arriba (1022). Los demás, de
-  la rodilla para abajo o de espaldas: se reconocen por la ropa.
+- **Personaje:** **Luffy** grita con el puño arriba (1022) o con los dos
+  brazos arriba, como cuando sale del barril en el ep. 1 (hoja **P5**).
+  Los demás, de la rodilla para abajo o de espaldas: se reconocen por la ropa.
 - **Cómo habla:** globo de grito (borde de pico) con ドン!!: «¡Pon el pie!
   ¡Nos vamos!».
 - **Contra lo plano:** el **haz del faro** atraviesa la lluvia; un farol
