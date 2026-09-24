@@ -1026,3 +1026,387 @@ dice queda sin confirmar** ⚠️.
 **Vocabulario del mundo** para que suene a la serie: Magia Vander, la
 Torre (Mercedes Caulis), Wis, Praxis, créditos, la mazmorra, piso, Floor
 Keeper, Terminalia, Alto Mago, facción, Celestial Hosts (§25).
+
+## 18 · Estilo de dibujo, técnica y cómo replicarlo
+
+**Quién lo hace** ✅ ([AniList staff](https://anilist.co/anime/174576/staff) y wiki):
+- Manga: guion **Fujino Omori**, dibujo **Toshi Aoi** (Kodansha).
+- Anime T1: dirección y composición **Tatsuya Yoshihara**; diseño de
+  personajes **Sayaka Ono**; diseño de objetos Ryou Akizuki; dirección de
+  arte **Yuki Maeda**; color **Naomi Nakano**; fotografía Ayako Ōtsuki;
+  **director de CG Morihito Abe**; estudios **Actas** y **Bandai Namco
+  Pictures**. T2: ver §10.
+
+**Lo que dicen los autores** ✅ (entrevistas en japonés:
+[Animate Times](https://www.animatetimes.com/news/details.php?id=1720659534) y
+[MANTANWEB](https://mantan-web.jp/article/20260312dog00m200044000a.html)):
+- Omori buscó dibujante **2-3 años**; con Aoi fue «amor a primera vista».
+- Lo eligió porque «la acción de moverse y manejar la espada se vería
+  espectacular» con su dibujo.
+- Wistoria es **la primera serie de Aoi**; antes sólo había dibujado **unas
+  30 páginas** de manga.
+- Su meta: «un manga donde el dibujo está quieto pero **se oye el sonido**,
+  donde parece que se mueve».
+- Omori no manda guion técnico sino **«texto»**, entre novela y guion.
+- ⚠️ Un primer resumen decía que Aoi fue asistente de *Blue Lock*: **no se
+  confirmó** en ninguna otra fuente y se retiró.
+
+**Cómo es el dibujo**:
+- **Manga**: tinta dura, trazo de grosor variable, **tramas de puntos**,
+  rotulación de acción dentro del dibujo, páginas tipo **storyboard de
+  cine** (ilustración grande + tiras de viñetas: ojos, manos, monstruo).
+- **Heráldica**: blanco y negro puros (emblema de Albis Vina: **#FFFFFF**
+  81.8%, **#010101** 10.4%, 0% de saturación, «sombreado plano, línea
+  **#343434**», `estilo.py`) ✅.
+- **Anime**: fondos pintados con degradado, mucha línea gris en la
+  arquitectura; los tráileres mezclan **2D y 3D** (CBR lo menciona; hay
+  director de CG) ✅.
+- **Encuadres**: diagonal de movimiento; contraluz en el salto; primer
+  plano de ojos para la emoción; plano aéreo con letrero para presentar un
+  sitio (§6).
+
+**Cómo reproducirlo** ⚠️ (no hay entrevista técnica del estudio sobre
+software; es propuesta con lo visto):
+- **Photoshop, manga**: pincel de tinta duro con presión; sombras con
+  **patrón de puntos** al 30-50% en Multiplicar; rotular gritos a pincel
+  en vertical.
+- **Photoshop, color**: pintar con pinceles de textura, degradados fríos;
+  **círculo rúnico traslúcido** al 20-30% detrás del texto (como el tomo 1).
+- **Blender, emblemas**: curva 2D extruida con **bisel agudo** (puntas sin
+  redondear).
+- **Blender, personajes**: contorno con **Freestyle en negro puro**, luz dura
+  y degradados fríos si se imita el key visual.
+- **Modelos y rigs libres del personaje**: no hay ninguno (§3) ⚠️.
+
+## 19 · Texturas 2D, emblemas y logos
+
+**Los emblemas de facción** (heráldica oficial, blanco y negro) ✅:
+
+| Facción | Elemento | Líder | Emblema |
+|---|---|---|---|
+| **Albis Vina** (氷姫の杖, «bastón de la princesa de hielo») | hielo | **Elfaria** | [3116×3096](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/f/f4/Albis_Vina_Emblem.png): estrella de picos afilados como hielo roto, figura alada al centro |
+| **Incindia Barham** (炎帝の杖) | fuego | Cariott | [3140×3145](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/0/01/Incindia_Barham_Emblem.png) |
+| **Thorzeus Fasce** (雷公の杖) | trueno | Zeo | [3096×3091](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/e/e5/Thorzeus_Fasce_Emblem.png) |
+| **Elleaf Canaan** (妖聖の杖) | hadas y elfos | Ellenor Ljos Alf | [3108×3110](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/d/df/Elleaf_Canaan_Emblem.png) |
+| **Grantina L'Abysse** | tierra | Worganz Prehnite | [840×730](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/7/79/Grantina_L%27Abysse_Emblem.png) |
+| **Solphis Neamhain** | viento | — | [457×402](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/2e/Solphis_Neamhain_Emblem.png) |
+| Dark Faction · Masterias Noah | oscuridad · luz | Walther · Aaron | ⚠️ sin imagen subida |
+
+- La página del manga con 4 emblemas juntos (`objetos_01` n.º 1,
+  [1006×681](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/The_emblems_of_the_current_Magia_Vander_factions.png))
+  da el **tamaño relativo** y el nombre japonés de cada uno ✅.
+- Escudo de los Ulster (halcón de fuego): **sólo en texto**, sin imagen ⚠️.
+
+**Logo**: el de verdad brilla **cian sobre oscuro** (funda de cartas,
+`objetos_01` n.º 4) ✅. Los logos planos de la wiki
+([wordmark](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/b/bd/Wistoria_wordmark_black_v1.png),
+185×65) son **de la comunidad**, no del estudio ⚠️.
+
+**Texturas libres para las capas**:
+- **Trama de manga**: 34 pinceles de screentone de Mabecman,
+  [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes)
+  ⚠️ (gratis; revisar términos antes de redistribuir).
+- **Papel** (CC0): [Paper001](https://ambientcg.com/view?id=Paper001), 003, 005, 006.
+- **Tela de toga** (CC0): [Fabric061](https://ambientcg.com/view?id=Fabric061), 066, 081C.
+- **Oro de ribetes** (CC0): [Metal034](https://ambientcg.com/view?id=Metal034), 042A, 048A/C.
+- **Piedra clara** (CC0): [Marble012](https://ambientcg.com/view?id=Marble012),
+  Marble016, Travertine009.
+- **Patrón de ropa**: la camisa **a rayas** de mazmorra de Will ✅ (no hay
+  archivo del patrón: sacarlo de `character_1_main2.png`).
+
+## 20 · Gustos y detalles de cada personaje
+
+Altura y cumpleaños de [AniList](https://anilist.co/anime/174576); gustos de
+la sección Trivia de la wiki. ✅ = las dos fuentes coinciden.
+
+| Personaje | Altura | Cumpleaños | Le gusta | Odia | Primer amor / objeto |
+|---|---|---|---|---|---|
+| **Will** | 168 cm ✅ | **24 de diciembre** ✅ | ⚠️ sin ficha de gustos | — | Elfaria; Wis y las gafas |
+| **Elfaria** | 163 cm ✅ | **24 de diciembre** ✅ (el mismo día que Will) | la ensalada casera de Will, dormir en su regazo, su cara dormida, su olor | comida picante ⚠️ | Will ⚠️ |
+| Colette | 164 cm ⚠️ | 8 de octubre ✅ | platos de frijol enano ⚠️ | su yo de hace 5 años ⚠️ | Will ⚠️; el Brazalete Sellasangre |
+| Sion | 171 cm ⚠️ | 13 de mayo ⚠️ | — | — | Colette ⚠️ |
+| Julius | 174 cm ⚠️ | 23 de febrero ✅ | sopa helada de raíz de torta, sorbete de frambuesa ⚠️ | pimientos ⚠️ | la criada de su casa ⚠️ |
+| Lihanna | 158 cm ⚠️ | 24 de enero ✅ | historias del Caballero de Reusche, crepas de un carrito de la calle Crowstar ⚠️ | su familia ⚠️ | «el chico cabeza de calabaza» ⚠️ |
+| Wignall | 176 cm ⚠️ | 1 de junio ✅ | leyendas élficas, té de hierbas ⚠️ | antes, los enanos ⚠️ | proteger a Ellenor ⚠️ |
+| Rosti | 170 cm ⚠️ | 10 de julio ✅ | todo lo de Will ⚠️ | el fuego ⚠️ | Will ⚠️ |
+| Workner | 178 cm ⚠️ | 25 de diciembre ✅ | comida picante hasta llorar y luego helado de vainilla ⚠️ | las peleas de cocina entre Clairie y Eliza ⚠️ | un dragón, Fafnir ⚠️ |
+| Zeo | — | 7 de julio ✅ | carne, alcohol, picante, quien sale del fondo ⚠️ | verduras, lo dulce, quien se conforma con ser débil ⚠️ | la Varita del Señor del Rayo |
+
+- **Cómo se ve cada uno**: Will, «la sombra de Elfaria»; Elfaria, una santa
+  por fuera; Colette odia a su yo de hace 5 años; Julius se ve «un sobrante»
+  por seguir en Regarden.
+- La wiki usa también un **calendario propio** (p. ej. «8th of Luchsmoon»):
+  ver §25.
+
+## 21 · Por qué la gente la ama
+
+**Cifras** :
+- **AniList 79/100**, 177.066 usuarios, 5.758 favoritos ✅ (medido 24-sep-2026).
+- **Crunchyroll 4.8/5** con más de **118.000** valoraciones, al nivel de
+  Frieren o Black Clover ([CBR](https://www.cbr.com/crunchyroll-best-fantasy-wistoria-wand-and-sword/)) ⚠️.
+- ⚠️ Se buscó una nominación a los Crunchyroll Anime Awards: **no aparece**
+  en la [lista oficial](https://en.wikipedia.org/wiki/9th_Crunchyroll_Anime_Awards). Se descarta.
+- Ventas de Blu-ray u Oricon: **no las encontré** ⚠️.
+
+**Las razones** ✅ (CBR y reseñas en inglés):
+1. **El protagonista no nace fuerte**: Will trabaja para mejorar, y eso hace
+   las peleas más interesantes.
+2. **Un sistema de magia que decide el estatus**: crítica a una academia que
+   mantiene a los «menos dotados» en su sitio.
+3. **Animación** que mezcla 2D y 3D; ritmo rápido.
+- El público **se identifica con Will** (el que se esfuerza) y **se enamora
+  de Elfaria** (la que lo espera): dos formas de querer la serie.
+
+**Las escenas que hacen llorar o gritar**:
+
+| Escena | Dónde | Qué pasa | Cómo reaccionó la gente |
+|---|---|---|---|
+| **Ganbare** | T2, ep. 4 (⚠️ minuto sin fijar) | Will pelea contra un **Devander**; los magos no pueden ayudar con magia y **Sion le grita ánimos**; «el hechizo más poderoso, hecho de puro ánimo» | «Lloré con la escena Ganbare, el mejor episodio» (28 votos, [Reddit](https://www.reddit.com/r/Wistoria/comments/1t2fwh6/)); «me destrocé cuando Sion empezó a gritar» ([Threads](https://www.threads.com/@bakabakashiiiiii/post/DX9pUmQj_Mh/)) ✅ |
+| **«Will finally did it»** | T2, ep. 5 | ⚠️ el título del vídeo de reacción apunta a un logro de Will | [vídeo de reacción](https://www.youtube.com/watch?v=KTE80tiGhLw) ⚠️ sin mirar |
+| **Limiter Off** contra el Devander | T1, arco del Praxis (ep. 8-13) | Will despierta Wis por primera vez | ⚠️ sin episodio mirado; fotograma T2 1:44 |
+| **Escena tierna de Lihanna** | ⚠️ sin episodio | «Lihanna es la mejor chica» | 5 votos ([Reddit](https://www.reddit.com/r/Wistoria/comments/1t9hd1f/)) ⚠️ |
+
+⚠️ De ninguna se sabe **la música, la luz ni el encuadre**: no se pudo ver
+un capítulo.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Fandub de práctica en TikTok** (tráiler): Will por **@srpanconquesouwu**,
+  Sion por **@mcjake_oficial**, más **@satellayter** y **@littlelany_star**
+  ⚠️ (encontrado por buscador; sin vistas ni enlace directo verificable).
+- **Edits hispanos** (no doblaje): etiquetas «Wistoria Manga Español» y
+  «Wisteria Wand and Sword Dublado», cortes de Will y Elfaria con música ⚠️.
+- **Covers en español del opening**: **no encontré ninguno** (sólo el
+  opening con subtítulos en español) ⚠️.
+- **Parodias o memes hispanos propios**: **no encontré** ⚠️. La comunidad
+  hispana se nota más en comentarios de r/Wistoria.
+- **Para el dueño**: hay **hueco**. Sintonizando puede ser de los primeros
+  en doblar o cantar Wistoria en español (un reto con «Fire and Fear» o la
+  escena Ganbare).
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Crossover oficial** con *Magical Sisters Lulutto Lilly*
+  (魔法の姉妹ルルットリリィ), semana de colaboración anunciada el
+  **14-jun-2026**: el gato **Kiki** con los gatos Azuki y Uguisu; manga de 3
+  viñetas de **Mojaclookie**; sorteo de póster firmado por el seiyū de Will
+  ✅ ([web oficial](https://www.luluttolilly.com/news/detail.php?id=23712) y ANN).
+  Imagen: [1000×1331](https://img.sunrise-inc.co.jp/images/2026/06/thm_202606111155103091.jpg).
+- **Tienda oficial** ([goods](https://wistoria-anime.com/goods/)) ✅:
+  standees acrílicos de cuerpo entero con base (`objetos_01` n.º 3),
+  **llaveros chibi** (n.º 6), **funda de cartas** con el grupo y la torre
+  (n.º 4).
+- **Macarons oficiales** con retratos (n.º 5,
+  [1280×720](https://wistoria-anime.com/jrepgmrf/wp-content/uploads/2024/08/g20.jpg)) ✅.
+- **Acrílicos grandes** de Will, Elfaria, Colette, Sion, Julius y Lihanna
+  (T2) ✅: [tienda FATMAN](https://official-goods-store.jp/wistoria/v2/product/detail/TKW001)
+  y [AmiAmi](https://www.amiami.jp/top/detail/detail?gcode=GOODS-04623656).
+- **Figuras 3D** (PVC, resina): **no encontré ninguna** anunciada; sólo
+  acrílicos planos ⚠️.
+- **Cosplay bien hecho** con materiales: **no encontré**; sólo tiendas que
+  venden el uniforme de Will (capa negra con ribete dorado) y fotos sueltas ⚠️.
+- **Marcas grandes, gachas, Fortnite, cafés**: **no encontré** ⚠️.
+
+## 24 · Obras parecidas y temas relacionados
+
+- **Recomendadas por la comunidad de AniList** ✅: *Black Clover*, *MASHLE*,
+  *DanMachi*, *Reign of the Seven Spellblades*, *Chivalry of a Failed
+  Knight*, *Kaiju No. 8*, *Secrets of the Silent Witch*, *Sword Art
+  Online*, *Little Witch Academia*, *Akashic Records*, *The Asterisk War*.
+- **Qué comparten** ⚠️ (comparación propia): **academia de magia con
+  torneo** y un **protagonista que no encaja** en el sistema. *MASHLE* es la
+  más cercana (músculos en vez de magia).
+- **El mismo autor**: Omori escribe *DanMachi*. La wiki compara a
+  **Goetia** (los villanos) con los **Evilus** de DanMachi ✅
+  ([Goetia](https://wistoria.fandom.com/wiki/Goetia)). Las dos tienen una
+  **torre y una mazmorra por pisos**.
+- **Mismo compositor** que *My Hero Academia* y *Haikyuu!!* (Yuuki Hayashi).
+- **TV Tropes**: hay páginas del manga, personajes, YMMV y momentos
+  graciosos ([Manga/WistoriaWandAndSword](https://tvtropes.org/pmwiki/pmwiki.php/Manga/WistoriaWandAndSword)),
+  pero dio **403**: no se leyeron ⚠️.
+
+**Otras láminas del servidor que se le parecen** (para no repetir ideas):
+- **Harry Potter** (04, #anuncios): escuela de magia, pero su lámina usa el
+  **correo con lechuzas**, el **atril** y el **tablón**. Aquí: **nada de
+  cartas, atriles ni tablones**.
+- **Assassination Classroom** (24) y **My Hero Academia** (25): usan
+  **pizarra** y **cuaderno**. Aquí: **nada de pizarras**.
+- **Frieren** (33): magia y **grimorios**. Aquí: **nada de libros de hechizos**.
+- **Demon Slayer** (31) pide el mismo **Aula** con la calabaza de la
+  Mansión Mariposa.
+- Por eso los conceptos de Wistoria usan **piedra tallada, cristal helado y
+  estandartes de tela**, objetos que ninguna otra lámina tiene.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** ✅ ([Magic](https://wistoria.fandom.com/wiki/Magic),
+[Terminology](https://wistoria.fandom.com/wiki/Terminology)):
+1. **Supremacía mágica**: «la autoridad es magia, el poder es poder mágico y
+   los héroes son magos» (Edward, cap. 1). Quien no usa magia, como los
+   enanos, vale menos.
+2. Hace **500 años** los **Celestial Hosts** casi destruyen el mundo; la
+   **Reina Maga Mercedes** y los primeros **Magia Vander** encerraron a su
+   rey, **Ba'al**, en lo alto de la torre **Mercedes Caulis**, que sostiene
+   un **«Falso Cielo»**.
+3. **Wis** se creó para poder matar algún día a Ba'al: ni la espada ni la
+   varita solas podían.
+4. La Torre se organiza en **facciones** por elemento, cada una con su
+   cuartel en un piso («Cerulean Ice Palace» para el hielo).
+5. Bajo la academia está **la mazmorra**: los alumnos cazan monstruos para
+   ganar **créditos**; el piso 49 es el más hondo explorado.
+
+**La historia por arcos** ✅ ([Story Arcs](https://wistoria.fandom.com/wiki/Story_Arcs),
+[List of Episodes](https://wistoria.fandom.com/wiki/List_of_Episodes)):
+
+| Arco | Capítulos | Anime | Lo clave |
+|---|---|---|---|
+| 1. Introducción | 1-4 | T1 ep. 1-3 | Will humillado; Colette; la promesa |
+| 2. Gran Festival Mágico | 5-10 | T1 ep. 4-7 | torneo; la Torre recluta; duelo con Sion |
+| 3. Praxis de todos los alumnos | 11-20 | T1 ep. 8-13 | entrenamiento en la mazmorra; **Wis despierta** («Courage! Limiter Off») contra el **Devander** |
+| 4. Finales de graduación | 21-30 | T2 ep. 13-18 | **Terminalia**; una despedida |
+| 5. Festival del Florecimiento | 31-40 | T2 ep. 18-24 | duelo hielo contra trueno; Will entrena con Julius y Cerridwen |
+| 6. Investigación del traidor | 41-50 | sin anime | «The War Begins» |
+| 7. Goetia | 51-61 | sin anime | aparece **Ba'al** (cap. 56) |
+| 8. Samios | 62-66+ | sin anime | Will viaja a la ciudad oriental de Samios |
+
+**Símbolos y objetos que un fan reconoce al instante**:
+- **Wis**: espada que absorbe hechizos; cada forma tiene nombre (**Ignis
+  Wis** del fuego de Sion, **Albis Wis** del hielo de Elfaria, Glauss,
+  Zephros, Fulbeth, Dax) ✅ ([Wis](https://wistoria.fandom.com/wiki/Wis)).
+- **Los Cinco Bastones Supremos** (至高の五杖), los tronos de los Magia
+  Vander (`personajes_01` n.º 7).
+- **Los emblemas de facción** (§19) y el **círculo rúnico** (tomo 1).
+- **El mural de la mazmorra**: «La gran fundadora, la Reina Maga,
+  proclamó: todo nace de la mazmorra» (`fondos_01` n.º 8).
+- **Los Diez Sabios**: cada mes del calendario lleva el nombre de uno
+  (enero, Karna del «Muro de Llamas»; octubre, Ruha de «Creación de
+  Tierra»); de ahí meses como «Luchsmoon» o «Carnsmoon» ✅.
+- **Los créditos**: escritura, **Praxis** y hechizos; **12.000** para
+  graduarse. La varita de Will **no graba mana**, así que lleva los
+  **restos de los monstruos** como prueba ✅.
+- **Vocabulario**: Magia Vander, Mercedes Caulis, Celestial Hosts, Ba'al,
+  Wis, Lyzance (humanos con visión nocturna), Alto Mago, Floor Keeper,
+  Notorious Monster, Stampede, Terminalia, Multos (mago de varios elementos).
+- ⚠️ Hay **8 facciones** pero **5 Magia Vander** (5 tronos, 5 rayos en el
+  tráiler): no todas las facciones las lidera un Magia Vander.
+
+## Tres conceptos de lámina
+
+Lámina de **1200×800**. Tres ideas distintas: piedra tallada, cristal helado
+y tela bordada; protagonista solo, secundaria más querida y grupo. Los
+textos siguen la regla 4 del dueño: cortos, una idea cada uno, sin «·», «—»
+ni paréntesis.
+
+### Concepto A · 🔊 Aula — «La estela de la Praxis» ⭐ recomendado
+
+- **El objeto en su sitio**: la **estela de piedra de la mazmorra** (el
+  mural tallado, `fondos_01` n.º 8,
+  [976×1400](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/1/1b/Dungeon_Mural.jpg)),
+  de pie junto a las **Abyss Gates** (`personajes_01` n.º 14): columnas y
+  suelo ajedrezado al fondo. La mazmorra es donde Regarden da la **Praxis**,
+  la clase práctica (§25).
+- **En Blender**: una losa alta con **franjas talladas en relieve**, como el
+  mural (figuras de monstruos en registros). Cada franja lleva un texto
+  **tallado** (inset + desplazamiento), así la luz entra en las letras.
+- **Personaje**: **Will**, el alumno sin magia, con ropa de mazmorra y gafas
+  al cuello ([character_1_main2.png](https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_1_main2.png)).
+  Pose n.º 2 de §14 (espada a dos manos, firme,
+  [T1 0:06](https://www.dailymotion.com/video/x8slj34?start=6)), pero con la
+  espada baja y girado hacia la estela, como quien enseña. **Kiki** en el
+  hombro (`objetos_01` n.º 4).
+- **Cómo habla**: globo del manga, **óvalo blanco irregular** con línea
+  negra fina y colita fina, **Comic Neue Bold**. Los textos del canal van
+  **tallados** en **MedievalSharp** (o Uncial Antiqua).
+- **Dónde va cada texto** ⚠️ (el Aula no tiene descripción en el
+  inventario; salen de #avisos-clases y de la categoría):
+  - Arriba, donde el mural lleva su inscripción: **«Aula»** y, debajo,
+    **«Todo nace del ensayo»** (eco de «todo nace de la mazmorra»).
+  - Franja 1: «Aquí se da la clase en vivo»
+  - Franja 2: «Doblaje y canto»
+  - Franja 3: «Cuándo hay clase: #avisos-clases»
+  - Franja 4: «El material: #material-de-clase»
+  - Franja 5: «Tus dudas: #dudas»
+  - Globo de Will, a la altura de su cara: **«Yo no sé magia. Por eso vengo
+    a clase.»**
+- **Que no quede plano**: **Wis cargada de rayo** delante, a la izquierda,
+  es **la única luz**: blanca y azul, **rasante** sobre la piedra, marca
+  cada letra tallada (T2 1:32). Chispas cruzan por delante de Will. Fondo
+  frío y oscuro (**#14181C**, **#1C232A**) y piedra gris (**#959790**,
+  **#69767F**). Polvo en el aire. El suelo ajedrezado se pierde hacia las
+  puertas.
+- **Si el Aula es de otra serie**: la misma estela sirve de **lámina 2** del
+  Aula («cómo va una clase»).
+
+### Concepto B · #🔴・en-directo — «La ventana helada de Elfaria»
+
+- **El objeto en su sitio**: la **ventana del cuarto de Elfaria**, arriba de
+  la **Mercedes Caulis** (su cuarto: una cama, una mesa redonda y una
+  silla, [wiki](https://wistoria.fandom.com/wiki/Mercedes_Caulis)). Desde ahí
+  **vigila a Will** ([AniList](https://anilist.co/character/326398)) ✅.
+  Abajo se ve **Urbus Regarden** en anillos y la Academia (`fondos_01`
+  n.º 5 y 3), con un Will diminuto entrenando.
+- **En Blender**: marco de ventana gótica y **vidrio con escarcha**
+  (transmisión + textura de hielo). Elfaria es maga de **hielo**: escribe
+  **con el dedo en la escarcha**. El trazo deja el vidrio limpio y se ve la
+  ciudad a través de las letras.
+- **Personaje**: **Elfaria**, la más querida (§7). **Sentada en el
+  alféizar**, mejilla en la mano, perezosa: es la pose que más dibujan los
+  fans (`sitting`) y la de «santa» del tráiler
+  ([T1 0:19](https://www.dailymotion.com/video/x8slj34?t=19)). Ropa:
+  [character_2_main.png](https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_2_main.png);
+  pelo: `personajes_01` n.º 9.
+- **Cómo habla**: el texto del canal es **su letra en la escarcha**
+  (**Caveat**, manuscrita). Su frase, en un **óvalo irregular pequeño**,
+  **Comic Neue Bold**.
+- **Dónde va cada texto** (texto real del canal, repartido):
+  - En la escarcha, grande: **«En directo»**
+  - Debajo: «¿Estás haciendo algo ahora?»
+  - «Dilo aquí.»
+  - «Y quien quiera, se asoma a mirar.»
+  - Globo de Elfaria, mirando hacia abajo: **«Yo lo hago todos los días.»**
+- **Que no quede plano**: la escarcha en primer plano tapa en parte la
+  vista; su **reflejo** tenue en el vidrio; **un muñeco con la cara de
+  Will** en el alféizar, delante (lo cuenta la wiki ⚠️); la ciudad muy abajo
+  con bruma (perspectiva aérea). Luz: la promesa es **ver el atardecer desde
+  lo alto de la Torre**: luz naranja rasante y sombras azules ⚠️ (la paleta
+  del atardecer **no está medida**: medirla en la
+  [portada](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg),
+  «fondo cálido naranja y azul»). Si no, de día: **#93C3E4**, **#D8E1E8**.
+
+### Concepto C · #🌟・destacados — «Los estandartes de los Cinco Bastones»
+
+- **El objeto en su sitio**: los **estandartes** del **salón de los tronos**
+  de los Magia Vander, en lo alto de la Torre («至高の五杖», los Cinco
+  Bastones Supremos,
+  [2230×1153](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/23/Magia_Vander_Thrones.png),
+  `personajes_01` n.º 7). Cinco tronos, telas altas entre columnas, luz
+  blanca que entra de lado.
+- **En Blender**: cinco estandartes de tela (simulación de tela) con el
+  texto **bordado en oro** y los **emblemas de facción** (§19, Albis Vina
+  en el de Elfaria). La tela del color del uniforme: **#22212D** con hilo
+  **#A48435**.
+- **Personajes**: **el grupo de Will** (Will, Colette, Sion, Julius,
+  Lihanna) de espaldas y a contraluz, abajo, mirando hacia arriba, como en
+  la funda de cartas (`objetos_01` n.º 4). En su trono, pequeña, **Elfaria
+  dormida** (la «pereza en persona»).
+- **Cómo habla**: los estandartes en **Cinzel Decorative**. Elfaria, en un
+  **óvalo irregular pequeño**, **Comic Neue Bold**, medio dormida.
+- **Dónde va cada texto** (texto real del canal):
+  - Estandarte central: **«Destacados»**
+  - Estandarte a la izquierda: «Lo que junta estrellas»
+  - Estandarte a la derecha: «acaba aquí solo»
+  - Placa de piedra en la escalera: «Aquí no se escribe»
+  - Globo de Elfaria: **«Shh. Aquí no se escribe.»**
+- **Que no quede plano**: **haces de luz** entre columnas con polvo; el grupo
+  en silueta delante; la escalera sube hacia los tronos (profundidad); y
+  **lucecitas que suben** hacia los estandartes, como las estrellas que
+  juntan los mensajes. Los 5 rayos de colores del tráiler (T2 0:40: rojo,
+  blanco, verde, azul, amarillo) pueden teñir cada estandarte.
+
+### Qué concepto elegir
+
+- **A** si el dueño da el **Aula** a Wistoria: es la serie de la academia.
+- **B** es la que más **se parece a la serie** (Elfaria mirando a Will) y
+  usa a la **más querida**.
+- **C** usa el **salón de la Torre**, el sitio más solemne de la obra.
+- Choques con otras series: ver §0 y «Lo que no pude verificar».
