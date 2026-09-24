@@ -8,10 +8,10 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
 - 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
 - 78 Vinland Saga: **COMPLETA y subida** (22:52 UTC). ✅23 ⚠️7 ❌0, 162 referencias, 65 webs, 2031 líneas.
-- 79 Demon Slayer (paisajes y auras): 4 investigadores COMPLETOS. Redactor (Opus) lanzado 22:48 UTC.
-- 80 Solo Leveling (el Sistema y las sombras): 4 investigadores (Sonnet) en marcha desde 22:48 UTC.
-- 81, 82: datos recolectados, listos para investigadores.
-- 83-87: recolectando datos por adelantado (gratis).
+- **Corte por límite de sesión** (23:06-23:50 UTC, `rate_limit`, «resets 11:20pm UTC»): 5 agentes vivos murieron a mitad de tanda (79 redactor, 80 video, 81 imagen/video/voz). Nada se perdió del todo: guardar.sh había subido lo hecho hasta el corte. Relanzo los 5 desde donde quedaron en cuanto pase el reinicio.
+- 79 Demon Slayer: redactor cortado justo tras «Tres conceptos de lámina» — faltan tabla de cumplimiento, bitácora y referencias.json. Relanzado 23:50 UTC.
+- 80 Solo Leveling: vídeo cortado con un `Sigue:` legítimo ya escrito (fotograma del Rey Hormiga). Relanzado como relanzamiento corto.
+- 81 Mushoku Tensei: imagen cortado justo después de escribir imagen.md (dice «Parte terminada») pero SIN escribir imagen.json ni hojas/ — relanzado sólo para eso. Vídeo y voz no llegaron a escribir nada: relanzados desde cero.
 
 ## Avisos para el dueño
 
