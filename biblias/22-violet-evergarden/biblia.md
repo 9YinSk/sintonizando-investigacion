@@ -103,8 +103,11 @@ cuatro investigadores (`partes/imagen.md`, `video.md`, `voz.md`,
 
 ### Los avisos (⚠️)
 
-- Antes: **70** ⚠️. Después: ver la última línea de esta sección (se
-  cuenta al cerrar).
+- Antes: **70** ⚠️. Después: **126** en total, pero no es que haya más
+  dudas: de los 70 de la primera pasada **se resolvieron unos 33** y
+  **quedan unos 37**; los demás son **datos nuevos con una sola fuente**
+  (unos 80, casi todos en las secciones nuevas de los puntos 18 a 25) y
+  los 8 puntos «a medias» de la tabla de cumplimiento.
 - Siguen dudosos: fotogramas en 1080p (YouTube bloqueado), la secuencia
   animada del ending, las caras de miedo y vergüenza, caras de Gilbert y
   Hodgins, comida favorita y cumpleaños (salvo Violet), el compositor por
@@ -975,7 +978,7 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 - **2.º en la encuesta de fans de 2022** y **3.º en la de 2021** de
   ねとらぼ ✅✅ (§9): **el secundario más querido**.
 - Voz japonesa: **Kōki Uchiyama** ✅ («cv 内山昂輝» en el tráiler, 0:28;
-  ([BTVA](https://www.behindthevoiceactors.com/characters/Violet-Evergarden/Cattleya-Baudelaire/), resumen).
+  y [BTVA](https://www.behindthevoiceactors.com/characters/Violet-Evergarden/Cattleya-Baudelaire/), resumen).
 
 ### Erica Brown (エリカ・ブラウン) — la Doll que quería ser escritora
 
@@ -2322,3 +2325,72 @@ Estado al cerrar la 2.ª pasada (24-sep-2026). ✅ hecho · ⚠️ a medias ·
   Watanabe) sobre la luz.
 - The Cutting Room Floor y Wayback Machine: no aplican o bloqueados.
 - El contenido del mensaje fijado del canal.
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+Hecha por 4 investigadores (sus libretas completas, con cada búsqueda,
+en `partes/imagen.md`, `video.md`, `voz.md` y `texto.md`) y el redactor.
+
+**Herramientas y APIs**
+- `recolectar.py` (AniList, Doblaje Wiki, Fandom, Danbooru, Safebooru,
+  Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive,
+  MusicBrainz, Steam, Reddit): punto de partida, sin repetir consultas.
+- `investigar_serie.py` con 5 páginas de la wiki → 2 hojas (69 imágenes
+  grandes); `fotogramas.py` sobre 6 vídeos; hoja `escenas_01.jpg` montada
+  por el redactor con Pillow a partir de esas hojas.
+- API de Fandom (wiki de la serie: `list=search`, `categorymembers`,
+  `imageinfo`, `parse` de *Auto Memories Doll*, *Leidenschaftlich*, *C.H
+  Postal Company*, *Gilbert*; Doblaje Wiki: serie, personaje, Andrea
+  Arruti, Carla Castañeda, ficha de la muestra multimedia).
+- `voz.py` (Whisper `small` y `medium`) sobre el demo 2 de Andrea Arruti
+  y sobre dos clips de Dailymotion (uno era doblaje de España; otro, texto
+  alucinado: descartado).
+- Pillow y `estilo.py --colores` sobre 7 fotogramas y 6 imágenes oficiales.
+- API de Sketchfab (2 consultas), ambientCG (telas), Danbooru
+  (`counts/posts.json`), AniList GraphQL (formato de las novelas),
+  Arctic Shift (r/VioletEvergarden: «typewriter sound»), Dailymotion (API
+  de búsqueda, más de 17 consultas), Internet Archive (`advancedsearch`,
+  9 consultas), clon parcial de kitsunekko-mirror (eps. 1 y 11), fontTools
+  (Merriweather).
+
+**Búsquedas web por idioma** (resumen; la lista completa, en cada parte)
+- **Japonés**: ねとらぼ 人気投票 (dos encuestas); コラボカフェ 京都 (Garden
+  Museum Hiei); 公式ゲーム アプリ ノベルゲーム (no hay juego); ロゴ フォント 書体;
+  撮影 カメラワーク インタビュー; 暁佳奈 影響 インタビュー; 音響.
+- **Inglés**: premios Crunchyroll; Starter Book (altura, grupo); reseñas de
+  MyAnimeList; RETAS y software de KyoAni; Ishidate y la mirada; Blender
+  Solidify y Freestyle; figuras (Pop Up Parade, figma); cosplay; tramas y
+  telas CC0; paracaídas del ep. 11; `site:tcrf.net`.
+- **Español**: fandub latino; covers de «Sincerely»; parodia y meme;
+  diseño de sonido; clips doblados (Dailymotion e Internet Archive).
+- **Coreano**: NamuWiki (mapa del mundo y la novela), sólo como apoyo.
+
+**Webs nuevas consultadas**: ねとらぼ (2), Know Your Meme, dennou-translations
+(2), odanurr87 (Tumblr), Wikipedia (premios, episodios), Sakuga Blog (2),
+Ultimatemegax, ATMA & Funomena, j-mag, cinemadebate, orenjicrush,
+わくぱく, booth.pm, kairi003 (GitHub Pages), Pixiv, Clip Studio Assets,
+Photoshop Supply, BlenderNation, violet-evergarden.jp (notas 191 y 202),
+collabo-cafe, Keihan, Good Smile US, Oh Gatcha, IMDb News, Flickr,
+Wallhaven, Safebooru, MusicBrainz, Dailymotion, Internet Archive, Etsy,
+tallerabiertodeanimacionjaponesa (blog), Reddit (vía Arctic Shift),
+X de Carla Castañeda, YouTube y Facebook (sólo enlaces).
+
+**Lo que falló**: YouTube («Sign in to confirm you're not a bot», 3
+intentos en 3 clips); TikTok (sin JavaScript); AnimeThemes (error 522,
+dos veces); TV Tropes (403); TCRF (Cloudflare); Wayback Machine
+(bloqueada por la salida del servidor); Bilibili (no cargó, dos intentos);
+la imagen del cosplay de @swoochu (403). El vídeo de Dailymotion
+`x811ual` es un episodio de *Code Geass* mal etiquetado.
+
+**Lo que NO encontré en la segunda pasada**
+- Fotogramas en 1080p; la secuencia animada del ending.
+- Clips oficiales doblados al latino fuera de YouTube.
+- Encuesta oficial de Kyoto Animation.
+- Caras de miedo y rabia de Violet; caras por emoción de Gilbert y Hodgins.
+- Comida favorita, lo que odian y cumpleaños (salvo Violet).
+- La letra del logo latino; el diseñador de sonido; el compositor por pista.
+- Vistas de los fandubs y covers; parodias hispanas.
+- Un pincel CC0 de encaje; la ficha oficial de la figura 1/7; un *rig*
+  libre de Violet.
+- Una entrevista donde Kana Akatsuki nombre sus influencias.
+- El lacre de los sobres visto en un fotograma de la serie.
