@@ -21,7 +21,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 - [ ] 05-oshi-no-ko
 - [x] 06-spy-x-family
-- [ ] 07-pok-mon
+- [x] 07-pok-mon
 - [x] 08-big-hero-6-grandes-h-roes
 
 ## Tanda S3

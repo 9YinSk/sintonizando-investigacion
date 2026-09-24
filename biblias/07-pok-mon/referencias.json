@@ -1,0 +1,326 @@
+[
+  {
+    "url": "https://www.netflix.com/mx/title/81046846",
+    "fuente": "Netflix México",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La película Pokémon: ¡Yo te elijo! (2017), con doblaje latino. Rehace el capítulo 1 en alta.",
+    "para_que": "Fotogramas 1080p del laboratorio: 00:03:03 a 00:05:11; Pokébola del rayo hacia 00:04:12; Oak presenta a Pikachu en 00:04:34 (minutos de un subtítulo no oficial).",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=soM4HD71b6k",
+    "fuente": "Canal oficial de Pokémon en YouTube (Japón)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Capítulo 1 del anime, «ポケモン！きみにきめた！», completo y oficial.",
+    "para_que": "Ver el soporte de Pokébolas original y la Pokébola del rayo. Minuto sin verificar.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://github.com/imkira3/imkira3Keys",
+    "fuente": "GitHub (subtítulos en inglés, no oficiales)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Archivo «Subtitles/Pokémon Movie 20 - I Choose You.srt» con tiempos.",
+    "para_que": "Dar el minuto de cada frase de Oak, Ash y la Pokédex en la escena del laboratorio.",
+    "licencia": "Archivo de fans; sólo para consultar tiempos."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/data/text_boxes.asm",
+    "fuente": "pret/pokered (código de Pokémon Rojo/Azul)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla de cajas de texto: MESSAGE_BOX de la casilla (0,12) a la (19,17).",
+    "para_que": "Proporción exacta de la caja: todo el ancho y el tercio de abajo.",
+    "licencia": "Código de ingeniería inversa; datos del juego © GAME FREAK."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/home/text.asm",
+    "fuente": "pret/pokered",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Rutinas de texto: la ▼ en la casilla (18,16), texto desde (1,14) y (1,16), flecha que parpadea.",
+    "para_que": "Colocar las dos líneas y la ▼ igual que en el juego.",
+    "licencia": "Código de ingeniería inversa."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font_extra.png",
+    "fuente": "pret/pokered",
+    "ancho": 128,
+    "alto": 16,
+    "que_es": "Gráficos del borde de la caja de texto: doble línea y esquinas con nudo.",
+    "para_que": "Dibujar el borde real de la caja (concepto A).",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font.png",
+    "fuente": "pret/pokered",
+    "ancho": 128,
+    "alto": 64,
+    "que_es": "La letra de 8×8 del juego, con ▼ y ▶.",
+    "para_que": "Comparar con pokemon-font y Press Start 2P.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/trainers/prof.oak.png",
+    "fuente": "pret/pokered",
+    "ancho": 56,
+    "alto": 56,
+    "que_es": "Sprite de Oak de Game Boy: bata, mano en el pecho.",
+    "para_que": "Pose de presentar; guiño retro dentro de una pantalla (lámina 2).",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/pokemon/front/pikachu.png",
+    "fuente": "pret/pokered",
+    "ancho": 40,
+    "alto": 40,
+    "que_es": "Sprite de Pikachu de Game Boy con chispas en las mejillas.",
+    "para_que": "Pose de avisar o enfadarse.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/data/sgb/sgb_palettes.asm",
+    "fuente": "pret/pokered",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Paletas de Super Game Boy: Pueblo Paleta #CEE6DE y #A5D6FF, ruta #ADE65A, Pikachu #FFE673 y #D6A500.",
+    "para_que": "Paleta del fondo y de la caja.",
+    "licencia": "Código de ingeniería inversa."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abcboy101/poke-corpus/main/corpus/RedBlue/es_msg.txt",
+    "fuente": "abcboy101/poke-corpus",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Texto oficial en español (de España) de Pokémon Rojo/Azul: Oak en el laboratorio, menús, PC, «¡Éste no es momento de usarlo!».",
+    "para_que": "Frases reales de Oak para adaptar al latino.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://github.com/pret/pokefirered",
+    "fuente": "pret/pokefirered (código de Rojo Fuego)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Código de Rojo Fuego: en include/constants/vars.h, colores de texto (azul para hombres, rojo para mujeres).",
+    "para_que": "Caja del concepto C: Oak y Ash hablan en azul.",
+    "licencia": "Código de ingeniería inversa."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "fuente": "PokeAPI/sprites",
+    "ancho": 475,
+    "alto": 475,
+    "que_es": "Arte oficial de Pikachu: salta con los brazos abiertos.",
+    "para_que": "Pose de celebrar; forma del personaje.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+    "fuente": "PokeAPI/sprites (Pokémon HOME)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Render 3D de Pikachu con los brazos arriba; amarillo #FEE200 medido.",
+    "para_que": "Color de anime y pose de animar.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "fuente": "PokeAPI/sprites",
+    "ancho": 475,
+    "alto": 475,
+    "que_es": "Arte oficial de Charmander: brazos abiertos, sonrisa, llama arriba.",
+    "para_que": "Personaje del concepto C.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+    "fuente": "PokeAPI/sprites (Pokémon HOME)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Render de Charmander; naranja #F98200 medido.",
+    "para_que": "Color de Charmander en el concepto C.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+    "fuente": "PokeAPI/sprites (Pokémon HOME)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Render de Bulbasaur; #7DC6BA y bulbo #54B235 medidos.",
+    "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+    "fuente": "PokeAPI/sprites (Pokémon HOME)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Render de Squirtle; #70CFF6 medido.",
+    "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2",
+    "fuente": "Sketchfab, Pabluuu",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pokébola hiperrealista con materiales.",
+    "para_que": "Las cuatro Pokébolas del concepto A en Blender.",
+    "licencia": "CC BY según la búsqueda; comprobar en la página. Crédito: «Poké Ball» by Pabluuu."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/animated-poke-ball-2534c497425b4cde9cbb48181ea8a053",
+    "fuente": "Sketchfab, Ayan (@Ayanbeg)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pokébola animada que se abre.",
+    "para_que": "La Pokébola del rayo entreabierta.",
+    "licencia": "CC BY según la búsqueda; comprobar."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/kanto-pokedex-33558224badf4058b5977bded912c70c",
+    "fuente": "Sketchfab, Alexander Walker",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pokédex roja de Kanto.",
+    "para_que": "Objeto del concepto B.",
+    "licencia": "Descarga gratis (Creative Commons); comprobar cuál."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/oak-lab-fbe85c2f81a04063aa573f9161824734",
+    "fuente": "Sketchfab, QuangCao",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Edificio del laboratorio de Oak.",
+    "para_que": "Fondo desenfocado por la ventana, o fondo del concepto C.",
+    "licencia": "Descarga gratis (Creative Commons); comprobar cuál."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/gameboy-dmg-01-29849a15fe0a40a6a18e01c9d544a0ed",
+    "fuente": "Sketchfab, Let's Do 3D",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Game Boy DMG-01, 18.100 triángulos.",
+    "para_que": "Variante retro o lámina 2.",
+    "licencia": "CC BY. Crédito: «GameBoy DMG-01» by Let's Do 3D."
+  },
+  {
+    "url": "https://polyhaven.com/a/wood_table_worn",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de mesa de madera gastada.",
+    "para_que": "La mesa del laboratorio (concepto A).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=PaintedWood003",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Madera pintada de blanco.",
+    "para_que": "Muebles y paredes del laboratorio.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://github.com/cooljeanius/pokemon-font",
+    "fuente": "GitHub, Superpencil (pokemon-font / Johto font)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Clon Unicode de la letra de Rojo/Azul; á é í ó ú ñ ¿ ¡ y ▼ comprobados.",
+    "para_que": "Texto de la caja de Game Boy.",
+    "licencia": "SIL OFL 1.1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pressstart2p/METADATA.pb",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Press Start 2P; latin y latin-ext; tildes, ñ, ¿, ¡ y ▼ comprobados.",
+    "para_que": "Pantalla de la Pokédex y letreros de píxel.",
+    "licencia": "SIL OFL 1.1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/METADATA.pb",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lilita One, letra gorda redondeada; tildes comprobadas.",
+    "para_que": "Título «Autoroles» con aire de logo Pokémon, con licencia limpia.",
+    "licencia": "SIL OFL 1.1"
+  },
+  {
+    "url": "https://www.cdnfonts.com/pokemon-solid.font",
+    "fuente": "cdnfonts (Pokémon Solid, de fans)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Imitación del logo Pokémon; glifos en español comprobados en una copia de GitHub.",
+    "para_que": "Título, si el dueño acepta una letra de fans.",
+    "licencia": "Licencia poco clara (uso personal según algunas fuentes)."
+  },
+  {
+    "url": "https://www.creativeuncut.com/gallery-36/plgp-professor-oak.html",
+    "fuente": "Creative Uncut",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Arte oficial de Oak para Let's Go, de Ken Sugimori.",
+    "para_que": "Pose y ropa de Oak moderno.",
+    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://www.deviantart.com/willdinomaster55/art/Professor-Oak-s-Lab-Background-939863010",
+    "fuente": "DeviantArt, WillDinoMaster55",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fondo del laboratorio donde se elige inicial (fan art).",
+    "para_que": "Distribución del laboratorio; sólo mirar.",
+    "licencia": "© del autor. No pegar."
+  },
+  {
+    "url": "https://www.pixiv.net/en/artworks/119328838",
+    "fuente": "pixiv",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pixel art en vóxeles del momento de elegir inicial en el laboratorio.",
+    "para_que": "Composición de la mesa con las Pokébolas.",
+    "licencia": "© del autor. No pegar."
+  },
+  {
+    "url": "https://www.artstation.com/artwork/GeqxP3",
+    "fuente": "ArtStation",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Laboratorio de Oak en 3D, basado en Let's Go y el anime.",
+    "para_que": "Luz y materiales del interior.",
+    "licencia": "© del autor. No pegar."
+  },
+  {
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Ash's_clothing",
+    "fuente": "Bulbapedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Toda la ropa de Ash por región.",
+    "para_que": "No mezclar ropas: usar la de Kanto.",
+    "licencia": "Texto de wiki; imágenes © The Pokémon Company. Sólo referencia."
+  },
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=96",
+    "fuente": "Game UI Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Capturas de interfaz de Let's Go, Pikachu! y Eevee!",
+    "para_que": "Caja y menús modernos de Kanto.",
+    "licencia": "Capturas © de sus dueños; sólo referencia."
+  },
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=1579",
+    "fuente": "Game UI Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Capturas de interfaz de Escarlata/Púrpura (caja con pestaña azul marino).",
+    "para_que": "Alternativa moderna de caja de diálogo.",
+    "licencia": "Capturas © de sus dueños; sólo referencia."
+  }
+]
