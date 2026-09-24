@@ -186,28 +186,14 @@ _Fuente: https://wallhaven.cc_
 ## Modelos 3D descargables con licencia (Sketchfab)
 _Fuente: https://sketchfab.com_
 
-**«Mushoku Tensei»**
-- Roxy Migurdia · OSad · CC Attribution · ♥ 80 · https://sketchfab.com/3d-models/none-2ffd9eb1aa254b9494ec5d220f6bdc96
-- Sylphiette · Quagmire · CC Attribution · ♥ 63 · https://sketchfab.com/3d-models/none-8c8eb6d7877d41b7944e9eb3f951ee57
-- Fitz · Quagmire · CC Attribution · ♥ 40 · https://sketchfab.com/3d-models/none-ff39e0b2d9a84d09bef3ffdab7ea18dc
-- Mushoku Tensei-Roxy · HaiHan · CC Attribution · ♥ 35 · https://sketchfab.com/3d-models/none-684aa94f9e32479985d82908da342728
-- Rudeus Greyrat - Mushoku Tensei · oimoyu · CC Attribution · ♥ 32 · https://sketchfab.com/3d-models/none-ccd835f6963b4a20b97315ce2e50bdd2
-- Rudeus Greyrat - Mushoku Tensei · pamogss · CC Attribution · ♥ 28 · https://sketchfab.com/3d-models/none-c6769b0bed5d4a8c913e64a573187a60
-**«Mushoku Tensei Rudeus»**
-- Rudeus Greyrat - Mushoku Tensei · oimoyu · CC Attribution · ♥ 32 · https://sketchfab.com/3d-models/none-ccd835f6963b4a20b97315ce2e50bdd2
-- Rudeus Greyrat - Mushoku Tensei · pamogss · CC Attribution · ♥ 28 · https://sketchfab.com/3d-models/none-c6769b0bed5d4a8c913e64a573187a60
-- Rudeus Staff · 7j8k9l · CC Attribution · ♥ 0 · https://sketchfab.com/3d-models/none-d3dbe8c2f98d461d8f0d252a8d2468cf
-**«Mushoku Tensei Roxy»**
-- Roxy Migurdia · OSad · CC Attribution · ♥ 80 · https://sketchfab.com/3d-models/none-2ffd9eb1aa254b9494ec5d220f6bdc96
-- Mushoku Tensei-Roxy · HaiHan · CC Attribution · ♥ 35 · https://sketchfab.com/3d-models/none-684aa94f9e32479985d82908da342728
+**«Mushoku Tensei: Jobless Reincarnation»**
 - Roxy Migurdia's Staff · Josevan Danusastra · CC Attribution · ♥ 19 · https://sketchfab.com/3d-models/none-7f44931f68104f91a23f3cc6bc75a4de
 - Roxy Migurdia from Mushoku Tensei · kam · CC Attribution-ShareAlike · ♥ 19 · https://sketchfab.com/3d-models/none-5eed685a1ce04d6d9bd4020bd805ca8d
-- Roxy · juloss · CC Attribution · ♥ 4 · https://sketchfab.com/3d-models/none-eb964ad8c62e41848be0bbc2b264091e
-**«Mushoku Tensei Eris»**
-- Iron sword · Finn the Demon Cat · CC Attribution · ♥ 23 · https://sketchfab.com/3d-models/none-0805fb6cfe1e47938edd34fe736d4d79
-- Eris_Sword · Aiden136 · CC Attribution · ♥ 2 · https://sketchfab.com/3d-models/none-a9be049582474ecaa9eba95a48011f67
+- Jobless Reincarnation (Mushoku Tensei) 3D Map · Lugremg · CC Attribution · ♥ 16 · https://sketchfab.com/3d-models/none-9e2d01fe35a54f9abe290ac73c723935
+**«Mushoku Tensei: Jobless Reincarnation Roxy»**
+- Roxy Migurdia's Staff · Josevan Danusastra · CC Attribution · ♥ 19 · https://sketchfab.com/3d-models/none-7f44931f68104f91a23f3cc6bc75a4de
+- Roxy Migurdia from Mushoku Tensei · kam · CC Attribution-ShareAlike · ♥ 19 · https://sketchfab.com/3d-models/none-5eed685a1ce04d6d9bd4020bd805ca8d
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
 _Fuente: https://openverse.org_
 
-- 3375×6000 · Chang Chih-Han and Mushoku Tensei paper handbag at Stage A entrance 20260208 · Solomon203 · CC BY-SA 4.0 · https://upload.wikimedia.org/wikipedia/commons/d/df/Chang_Chih-Han_and_Mushoku_Tensei_paper_handbag_at_Stage_A_entrance_20260208.jpg

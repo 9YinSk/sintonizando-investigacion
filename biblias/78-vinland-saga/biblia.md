@@ -515,3 +515,360 @@ El rojo de la cartela **no se midió** ⚠️: sacarlo con `estilo.py` de
 Como apoyo, el rojo medido de la túnica de Canute T1 es `#9C403B`.
 
 ---
+
+## 8 · Los personajes: qué transmiten, su cara en cada emoción y sus dinámicas
+
+Textos de la wiki (secciones Personality, History, Abilities, Trivia) ✅
+salvo que se diga. Caras con el minuto del vídeo enlazado.
+
+### Askeladd (Lucius Artorius Castus) · el secundario más querido
+
+- **Quién es**: hijo ilegítimo de **Lydia**, noble galesa esclavizada, y
+  del vikingo **Olaf**. De niño no tenía nombre: iba cubierto de ceniza y
+  estiércol de sus trabajos para mantener a su madre, de ahí «Askeladd»,
+  **el Muchacho Ceniciento** ([wiki](https://vinlandsaga.fandom.com/wiki/Askeladd)).
+  A los 11 años se enfrentó con una espada a Olaf para defender a su
+  madre; perdió, pero Olaf lo reconoció. Años después lo mató y se quedó
+  con sus hombres.
+- **Carácter**: astuto, manipulador, carismático. Su mayor arma es la
+  cabeza: **sabe qué clase de persona es alguien sólo con mirarle la
+  cara**. Gran espadachín, también con hachas y cuchillos arrojadizos.
+- **Qué le importa**: no cree que el héroe Artorius vuelva a salvar a su
+  pueblo («¿por qué querría volver a un mundo como éste?»). Aun así, al
+  final **se sacrifica** ante el rey Sweyn para que Canute reine y los
+  britanos tengan una oportunidad (manga cap. 90-91, anime ep. 24).
+- **Qué transmite**: respeto incómodo. Das miedo y confianza a la vez; es
+  el mentor cínico que no quieres admirar y admiras.
+- **Cómo habla**: **nunca grita**. Amenaza con calma. Explica **con
+  historias o acertijos** antes de llegar al punto (el monólogo de
+  Artorius). Su voz latina (Dafnis Fernández) mide **104 Hz, grave**, con
+  **27,7 semitonos de rango: muy expresiva** y a **2,55 palabras por
+  segundo** ✅ (medido con `voz.py`).
+- **Cuerpo**: postura **relajada, casi lánguida**, incluso peleando.
+  **Sonrisa ladeada** que tapa lo que piensa.
+- **Su cara**:
+
+| Emoción | Dónde | Qué hace |
+|---|---|---|
+| Cruel, burlón | ep. 4, [clip](https://www.youtube.com/watch?v=LPnQ74j1dqY) | Espada en alto, sonrisa |
+| Explicando, gruñón | ep. 24, [clip Crunchyroll](https://www.youtube.com/watch?v=PF2NTT_mnps) | Banda roja, ojo entrecerrado: «this part is important» |
+| Sereno ante la muerte | ep. 24, mismo clip | Tendido, ensangrentado, cara relajada |
+| Miedo, dolor (de joven) | [clip 1nRt6tiU20g](https://www.youtube.com/watch?v=1nRt6tiU20g) | Un solo ojo muy abierto en la oscuridad; cara con sangre, gritando ⚠️ escena sin identificar |
+| Alegría, tristeza, vergüenza | — | ⚠️ sin fotograma |
+
+### Thorfinn (Thorfinn Karlsefni, hijo de Thors) · el protagonista
+
+- **Historia**: de niño, curioso y cariñoso; le encantan las historias de
+  aventuras de Leif. Ve morir a su padre a manos de Askeladd (ep. 4) y se
+  une a la banda de su asesino sólo para retarlo en duelo. Pasa **unos 10
+  años frío e impulsivo**, sin empatía: cuando la banda mata o viola, él
+  «simplemente se aleja». Muerto Askeladd, se queda sin propósito, lo
+  venden como esclavo a la granja de Ketil y allí, con Einar, entiende por
+  fin a su padre: «no tienes enemigos». Su meta pasa a ser **fundar
+  Vinlandia** ([wiki](https://vinlandsaga.fandom.com/wiki/Thorfinn)).
+- **Miedo**: volverse lo que odia, un asesino como Askeladd.
+- **Qué le importa**: la memoria de su padre; después, no repetir la
+  violencia con los suyos (Einar, Gudrid, sus hijos).
+- **Qué transmite**: en el arco de la guerra, **tensión y frialdad que
+  incomodan**. Desde la esclavitud, **alivio y esperanza**.
+- **Cómo habla**: de niño, voz aguda y entusiasta. En la venganza,
+  **frases cortas y secas**, casi sin entonación. De adulto explica
+  **despacio, con pausas largas**.
+- **Los ojos** (lo que más comenta el fandom, ✅ TV Tropes + fotogramas):
+  niño, **grandes, redondos, curiosos**; en la venganza, **entrecerrados
+  y «muertos», sin brillo**, ceño fruncido, hombros tensos; tras la
+  esclavitud, **grandes otra vez**, postura suelta, manos abiertas.
+- **Aspecto fijo**: pelo corto despeinado, ropa vieja, **dos cuchillos**,
+  **bajo de estatura** (se lo dicen varios personajes).
+- **Su cara**:
+
+| Emoción | Dónde | Qué hace |
+|---|---|---|
+| Alegría, fascinación (niño) | clip ep. 2, [0:04-0:18](https://www.facebook.com/VinlandSagaLatam/videos/nadie-tiene-enemigos-vinland-saga-espa%C3%B1ol-latino/542457653772935/?t=4) | Ojos redondos muy abiertos mirando una daga |
+| Miedo | OP1, [0:27](https://www.dailymotion.com/video/x8bcl5n?t=27) | Ojos muy abiertos, envuelto en piel oscura, viento en el pelo |
+| Rabia contenida, decisión | OP1, [0:45](https://www.dailymotion.com/video/x8bcl5n?t=45) | Mirada fija a cámara, dientes apretados |
+| Tensión o rabia infantil | manga, hoja `personajes_01.jpg` #15 | Gota de sudor, dientes apretados |
+| Horror, tristeza | ep. 4, [clip](https://www.youtube.com/watch?v=LPnQ74j1dqY) | Niño, ojos muy abiertos, boca entreabierta, mirando arriba |
+| Llanto, culpa | ep. 24, [clip](https://www.youtube.com/watch?v=PF2NTT_mnps) | Joven rubio llorando, manos temblorosas ⚠️ puede ser Canute |
+| Vergüenza | — | ⚠️ sin fotograma |
+
+### Canute (Canuto) · el príncipe que se vuelve rey
+
+- **Historia**: príncipe danés, tímido, **con cara casi de chica** (algunos
+  hombres creen que es la diosa Freyja); no hace nada sin su consejero
+  **Ragnar** y los vikingos se burlan de él, también por su fe cristiana.
+  Su padre Sweyn quiere matarlo; Askeladd hace matar a Ragnar para
+  obligarlo a madurar. Se vuelve **un rey frío, manipulador y cristiano
+  devoto** que quiere «un paraíso en la Tierra» y elimina a quien estorba
+  (hasta envenena a su hermano) ([wiki](https://vinlandsaga.fandom.com/wiki/Canute)).
+  De joven odiaba las armas; luego aprende a pelear. Según tuits de
+  Yukimura, **está casado y tiene hijos, pero el autor «olvidó
+  dibujarlos»** ✅.
+- **Qué transmite**: primero, lástima; después, **frialdad que impone**.
+- **Cómo habla**: de niño, voz temblorosa y frases cortadas. De rey,
+  **pausado y absoluto**: «Yo crearé un paraíso en esta Tierra» (en la wiki inglesa: «I will create a worldly paradise in this land...»).
+- **Su cara**:
+
+| Emoción | Dónde | Qué hace |
+|---|---|---|
+| Sorpresa, grito | hoja `personajes_01.jpg` #2 | Boca abierta, cejas arriba, capa roja con piel |
+| Calma | hoja `personajes_01.jpg` #12 | Serio en el bosque |
+| Angustia, compasión | [clip rsZc66_fisM](https://www.youtube.com/watch?v=rsZc66_fisM) | Ojos muy abiertos mirando a un hombre caído |
+| Frialdad, dureza | [clip del discurso](https://www.youtube.com/watch?v=Zt85YuG0-_Y) | Ceño fruncido, cara girada |
+| Tensión, confrontar | tráiler T2, [1:10](https://www.dailymotion.com/video/x8h1n5b?t=70) | Puño cerrado ante su padre ⚠️ por contexto |
+| Alegría, vergüenza | — | ⚠️ sin fotograma |
+
+### Einar · el amigo de la granja
+
+- **Historia**: del norte de Inglaterra. De niño pierde a su padre en un
+  ataque inglés; de joven, los daneses arrasan su aldea, matan a su madre
+  **Emma** y a su hermana **Lotta**, y lo venden como esclavo hasta la
+  granja de Ketil. Allí lo ponen a **talar un bosque con Thorfinn** para
+  ganar la libertad. No se hacen amigos enseguida; cuando entiende el
+  pasado de Thorfinn, **lo adopta como hermano**. Se enamora de
+  **Arnheid**; tras su muerte, los dos van a por Vinlandia
+  ([wiki](https://vinlandsaga.fandom.com/wiki/Einar)).
+- **Carácter**: directo, emocional, franco; **se sonroja** cuando Arnheid
+  lo elogia. No sabe pelear, pero es grande y fuerte y sabe de campo.
+- **Qué transmite**: **calidez y humanidad** en medio de la granja de
+  esclavos: la voz que recuerda que se puede vivir sin violencia.
+- **Su cara**:
+
+| Emoción | Dónde | Qué hace |
+|---|---|---|
+| Cautela | [clip Netflix](https://www.youtube.com/watch?v=Zk4Iy5PBsOw), ~0:14 | Mira hacia arriba a Ketil, serio, cejas algo fruncidas |
+| Tristeza contenida | mismo clip, ~0:31 | **Una lágrima**, mirada de reojo, mandíbula tensa |
+| Sorpresa | mismo clip, ~1:16 | Ojos muy abiertos, cejas arriba, jadeando |
+| Llanto (niño) | tráiler T2, [0:39](https://www.dailymotion.com/video/x8h1n5b?t=39) | Llora a gritos en la aldea en llamas |
+| Rabia | clip de fans [Nu6G6dy1C88](https://www.youtube.com/watch?v=Nu6G6dy1C88) | Grita de rabia con la aldea ardiendo detrás ⚠️ canal no oficial |
+| Vergüenza | wiki | Se sonroja con Arnheid ⚠️ sin fotograma |
+
+### Otros secundarios queridos
+
+- **Thorkell «el Alto»** (3.º en AniList): tío de Thorfinn, general
+  jomsvikingo de **230 cm**. Casi siempre **sonriendo**; sólo se enfurruña
+  si lleva tiempo sin pelear. **Nunca ataca a quien no puede
+  defenderse**: hasta le da un arma a un enemigo desarmado. Frase (manga
+  cap. 140): «Yo... sólo... quiero... pelear.» Quiere un duelo a muerte
+  con Thorfinn que **nunca se completa** (3 intentos) ✅. TV Tropes: «Crazy
+  Awesome».
+- **Thors** (5.º en AniList): padre de Thorfinn, «**el Troll de Jom**»,
+  180 cm. Se cansó de la guerra, fingió su muerte y se hizo **granjero
+  pacifista**. Se le considera el mejor luchador de la serie ✅ (AniList).
+  Habla con **calma de padre que regaña sin gritar** (primeros planos de
+  sus ojos, clip ep. 2, 0:53-1:52).
+- **Gudrid**: exploradora que no acepta los papeles de mujer de su época;
+  la **compañera de Thorfinn** en el arco de Vinlandia ✅.
+- **Snake (Serpiente)**: compasivo con esclavos y libres, pero ve la
+  esclavitud como normal; sólo pierde la calma si matan a su gente ✅.
+- **Ylva**: hermana mayor de Thorfinn, de carácter firme; cuida la casa y
+  a su madre Helga cuando él se va ✅.
+- **Leif Erikson**: el explorador que cuenta historias de Vinlandia y
+  **busca a Thorfinn más de una década**; figura de padre sustituto ✅.
+- **Bjorn**: segundo de Askeladd, **berserker** que entra en furia comiendo
+  ciertas setas (AniList).
+- **Willibald**: fraile de 23 años que acompaña a Canute; le gusta el
+  alcohol y **busca el amor verdadero** (AniList).
+- **Ragnar**: consejero de Canute; calvo con pelo negro largo y rizado a
+  los lados, cejas muy gruesas, arrugas hondas, barba espesa (AniList).
+
+### Dinámicas (para láminas en grupo)
+
+| Pareja | Cómo es | Sirve para |
+|---|---|---|
+| Thorfinn y Askeladd | Odio y aprendizaje: Askeladd se burla de Thors para que Thorfinn pierda los duelos, y a la vez lo aconseja | Tensión, «el que sabe y el que aprende» |
+| Thorfinn y Einar | **Hermanos** de la granja; Einar es el franco | Trabajo en equipo, calidez |
+| Thorfinn y Canute | Rivales en la guerra, luego aliados distantes | Dos caminos distintos |
+| Canute y Ragnar | Padre sustituto; su muerte lo cambia | Pérdida |
+| Askeladd y Canute | Askeladd lo empuja a madurar y muere por él | Mentor y rey |
+| Thorkell y Thorfinn | Tío y sobrino; el duelo que nunca termina | Humor bruto y acción |
+| Einar y Arnheid | Amor en la granja, acaba en tragedia | La escena que hace llorar |
+
+La página «Vinland Saga Latinoamérica» hizo una imagen con **«el dúo de
+cada arco»**: Thorfinn y Canute (guerra), Thorfinn y Einar (esclavo),
+Thorfinn y Sigurd (Báltico), Thorfinn y Pulmuk (Vinlandia) ✅
+([Facebook](https://www.facebook.com/VinlandSagaLatam/photos/a.100291368282103/388514229459814/)).
+
+---
+
+## 9 · ¿Quién es el más querido?
+
+**Askeladd.** El secundario le gana en cariño al protagonista si se mira
+por encuesta y por tiempo en pantalla.
+
+| Medida | 1.º | 2.º | 3.º | Fuente |
+|---|---|---|---|---|
+| Encuesta de fans japonesa, 4.ª edición (la última) | **Askeladd** (39 votos) | Thorfinn (7) | Thorkell (4) | [rancolle](https://rancolle.com/ranking/uid21_1739280400) ⚠️ pocos votos |
+| TV Tropes (YMMV) | **Askeladd = «Ensemble Darkhorse»** | Thorfinn «divisivo» | Thorkell «Crazy Awesome» | [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/VinlandSaga) ✅ |
+| Favoritos de AniList | Thorfinn (22 329) | **Askeladd (16 588)** | Thorkell (3744) | [AniList](https://anilist.co/anime/101348) ✅ |
+| Dibujos de fans (Danbooru, 510 de la serie) | Thorfinn (266) | **Askeladd (190)** | Bjorn y Canute (62) | [Danbooru](https://danbooru.donmai.us/posts?tags=vinland_saga) ✅ |
+| Otros autores | Satoru Noda (*Golden Kamuy*) admira sobre todo a **Askeladd** | | | [entrevista traducida](https://threadreaderapp.com/thread/1147322332450394112.html) ✅ |
+| Premios | Thorfinn, nominado a **Mejor Personaje Principal** en los Crunchyroll Anime Awards 2024 | | | [Wikipedia](https://en.wikipedia.org/wiki/4th_Crunchyroll_Anime_Awards) ✅ |
+
+**Cómo leerlo**:
+
+- Askeladd **muere en el episodio 24**, al final de la temporada 1, y aun
+  así junta **el 74 % de los favoritos de Thorfinn**, que sale en los 48
+  episodios. Gana la encuesta japonesa más reciente y TV Tropes lo nombra
+  el secundario que se roba la serie.
+- Thorfinn es el más dibujado y el más votado en AniList, pero **divide**:
+  una parte del fandom lo prefería vengador y no aceptó su giro pacifista.
+- Thorkell es el tercero fijo en todas las medidas.
+- ⚠️ No hay **encuesta oficial de personajes** de Kodansha con resultados
+  publicados. Sí hay una **votación oficial de mejores escenas** (2022,
+  [vinlandsaga.jp](https://vinlandsaga.jp/special/best-scene/)).
+- ⚠️ No se encontró encuesta hispana de personajes.
+
+**Para la lámina**: Askeladd es la apuesta más segura como personaje
+(concepto 1). Thorfinn cuenta el tema (concepto 2). Thorkell es la
+alternativa si hace falta humor bruto o acción.
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+**Hay dos doblajes latinos distintos.** El fandom los compara todo el
+tiempo: cualquier frase de la lámina tiene que decir de cuál sale.
+
+### Ficha de producción
+
+| | **Netflix** (T1 y T2) | **Crunchyroll** (sólo T2) |
+|---|---|---|
+| Estudio | **Audiomaster Candiani**, Ciudad de México (parte grabada en Mérida, Canadá y Córdoba, Argentina) | **Haymillian México** (TransPerfect Media México), Cuernavaca |
+| Dirección | **Eduardo Garza** | **Alejandro Eguiza** y **Julio Gómez** |
+| Traducción y adaptación | Axel Contreras (T1), Edson Gutiérrez (T2); adapta Jaime Chaparro; control de calidad Rodolfo Olivares | Adapta Elizabeth Hernández; mezcla Claudia Álvarez |
+| Estreno | 2021-2023 en Latinoamérica | En simultáneo con Japón desde el 30-ene-2023 |
+| Fuente | [Doblaje Wiki (API)](https://doblaje.fandom.com/es/wiki/Vinland_Saga) ✅ | Doblaje Wiki + [ANMTV](https://x.com/ANMTVLA/status/1620231139788034048) ✅ |
+
+- Doblaje Wiki la pone en la categoría **«Doblaje con groserías»**: el
+  doblaje mexicano no suaviza el lenguaje del original ✅.
+- ⚠️ **Prime Video la tiene con un doblaje hecho con inteligencia
+  artificial**, sin actores (Doblaje Wiki). El dueño no quiere nada que
+  «parezca hecho por IA»: **no usar ese audio**.
+- Dato de Doblaje Wiki: **Lalo Garza lloró con los finales de las dos
+  temporadas** ⚠️ (una fuente).
+
+### Reparto (cada nombre en dos fuentes)
+
+| Personaje | Seiyū | Netflix | Crunchyroll T2 | Estado |
+|---|---|---|---|---|
+| **Thorfinn** | Yūto Uemura | **Eduardo «Lalo» Garza** (T1 y T2) | **Víctor Tabarez** | ✅ Garza: Doblaje Wiki + su [short de YouTube](https://www.youtube.com/shorts/CPGyL1I3KAU). Tabarez: [su ficha](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Tabarez) + [YouTube](https://www.youtube.com/watch?v=8NMEImNq69M) |
+| Thorfinn niño | Shizuka Ishigami | **Desireé González** (T1), Israel Salazar (T2) | — | ✅ Doblaje Wiki + AniList (González) |
+| **Askeladd** | Naoya Uchida | **Dafnis Fernández** (T1 y T2) | **Aldo Ramírez** | ✅ Fernández: Doblaje Wiki + AniList. Ramírez: Doblaje Wiki + [ANN](https://www.animenewsnetwork.com/encyclopedia/people.php?id=200711) |
+| Askeladd joven | Maki Kawase | Liliana Barba (ep. 17 y 22) | — | ✅ Doblaje Wiki |
+| **Canute** | Kenshō Ono | **Diego Becerril** (T1 y T2) | **Luba Flores** | ✅ Becerril: Doblaje Wiki + AniList. Flores: tabla y «Datos de interés» de Doblaje Wiki |
+| **Einar** | Shunsuke Takeuchi | **Diego Estrada** | **Jonathan Miranda** (@Locutor_MX) | ✅ Estrada: Doblaje Wiki + su ficha. Miranda: Doblaje Wiki + ANMTV |
+| Thorkell | Akio Ōtsuka | Idzi Dutkiewicz (T1), Bernardo Rodríguez (T2) | — | ✅ Doblaje Wiki + AniList |
+| Thors (y el Narrador en T2) | Kenichirō Matsuda | Dan Osorio (T1), Bismarck Martínez (T2) | — | ✅ |
+| Ylva | Hitomi Nabatame | Rebeca Gómez (T1), Karen Hernández (T2) | — | ✅ |
+| Leif | Yōji Ueda | José Luis Orozco (T1), Lenin Venosa (T2) | — | ✅ |
+| Ragnar | Jin Urayama | Óscar Rangel (T1), Luis Eduardo Fink (T2) | — | ✅ |
+| Willibald | Satoshi Hino | Yamil Atala | — | ✅ |
+| Rey Sweyn | Takayuki Sugō | **Humberto Vélez** (T1, la voz latina de Homero Simpson), Mario Hernández (T2) | — | ✅ |
+| Arnheid | Mayumi Sako | Danann Huicochea | Valeria Tavera | ⚠️ sólo Doblaje Wiki |
+
+- **Canute en Crunchyroll** lo dobla **Luba Flores**, mujer trans, igual
+  que en inglés (Jessie James Grelle). Doblaje Wiki lo cuenta como dato
+  positivo, **no es un chiste** ✅.
+- Otros nombres sólo en AniList (que mezcla España y Latinoamérica) ⚠️:
+  Bjorn Ulises Zavala, Helga Cony Madera, Halfdan Carlos Segundo, Mimi
+  Sergio Morel, Floki Humberto Solórzano, Ari José Antonio Macías, Asgeir
+  Armando Coria, Atli Roberto Mendiola, Torgrim Héctor Estrada,
+  Gratianus Gerardo Vásquez.
+- Sólo en Doblaje Wiki (T2, Crunchyroll) ⚠️: Emma Laura Becerril, Lotta
+  Denisse Leguizamo, Eadric Víctor Covarrubias, hijo de Eadric Emiliano
+  Venosa.
+
+### Frases textuales del doblaje latino (Netflix)
+
+Transcritas con `voz.py` (Whisper) y revisadas a oído. Whisper escribe
+«Dorfin»: es «Thorfinn».
+
+| Quién | Frase | Clip y minuto |
+|---|---|---|
+| **Thors** a Thorfinn niño (ep. 2) | «**Pon atención, Thorfinn. No tienes enemigos... Nadie tiene enemigos. Nadie en este mundo merece ser herido.**» | [«Nadie tiene enemigos»](https://www.facebook.com/VinlandSagaLatam/videos/nadie-tiene-enemigos-vinland-saga-espa%C3%B1ol-latino/542457653772935/?t=65), 1:05-1:25 ✅ |
+| **Thors** (ep. 2) | «**Quieres una espada, Thorfinn... son para matar personas. Piénsalo bien: ¿a quién quieres matar?**» | mismo clip, [0:37-0:45](https://www.facebook.com/VinlandSagaLatam/videos/nadie-tiene-enemigos-vinland-saga-espa%C3%B1ol-latino/542457653772935/?t=37) ✅ |
+| **Askeladd** a Thorfinn niño (ep. 22) | «**Es un paraíso donde nadie envejece ni muere, la tierra prometida... Si existe ese ancestro y vive en un lugar así, ¿por qué querría volver a un mundo como éste?**» | [«La infancia de Askeladd y la leyenda de Artorius»](https://www.facebook.com/VinlandSagaLatam/videos/la-infancia-de-askeladd-y-la-leyenda-de-artorius-vinland-saga-t1ep22-doblaje-lat/1012395204836119/?t=172), 2:52-3:43 ✅ |
+| **Thorfinn** (T2 ep. 1) | «**¡Ven!**» (tras una escena muda, sólo música) | [«Thorfinn y Einar se encuentran»](https://www.facebook.com/VinlandSagaLatam/videos/vinland-saga-ha-regresado-thorfinn-y-einar-se-encuentran-ep1-temporada-2/5631142283607789/?t=156), 2:36 ✅ |
+
+**Frases en subtítulo español** (no doblaje), del tráiler T2 en Dailymotion:
+
+- Einar: «Eran bestias, monstruos con aspecto humano» / «Esta vez
+  protegeré a mis hijos de la tormenta que son los adultos»
+  ([0:39](https://www.dailymotion.com/video/x8h1n5b?t=39)).
+- «No pasaré el resto de mi vida en el fin del mundo»
+  ([0:58](https://www.dailymotion.com/video/x8h1n5b?t=58)).
+- «Estoy buscando al hijo de un amigo al que convirtieron en esclavo»
+  (Sverkel buscando a Thorfinn ⚠️ por trama, 1:20).
+- «Necesitarás más cadáveres para llegar a lo más alto»
+  ([2:02](https://www.dailymotion.com/video/x8h1n5b?t=122)).
+
+### Cómo suenan (medido con `voz.py`, Whisper + Praat)
+
+- **Askeladd (Dafnis Fernández)**: 104 Hz de media (**grave**), rango de
+  27,7 semitonos (**muy expresivo**), 2,55 palabras por segundo
+  (normal). Calmado, nunca grita, con inflexiones para intimidar o para
+  el sarcasmo ✅.
+- **Thors y Thorfinn niño (Dan Osorio, Desireé González)**: 186 Hz de
+  media, 30 semitonos, **1,31 palabras por segundo**: lento, con silencios
+  largos, solemne ⚠️ (mezcla las dos voces).
+
+### Lo que falta
+
+- ⚠️ **No hay clips oficiales doblados en YouTube** descargables desde
+  aquí: los tres salen de la página de Facebook «Vinland Saga
+  Latinoamérica», que sube clips del doblaje de Netflix.
+- ⚠️ **Ninguna frase del doblaje de Crunchyroll** transcrita.
+- ⚠️ Doblaje Wiki **no tiene muestras de audio** de esta serie.
+
+---
+
+## 11 · Música y sonido
+
+### Openings y endings (cada uno en dos fuentes)
+
+| Tema | Artista | Episodios | Estreno | Estado |
+|---|---|---|---|---|
+| OP1 **«MUKANJYO»** (無感情) | Survive Said The Prophet | 1-12 | 21-ago-2019 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/MUKANJYO) + **mirado entero** (90 s; el título sale en pantalla en el 0:33) |
+| OP2 **«Dark Crow»** | MAN WITH A MISSION | 13-24 | 23-oct-2019 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/Dark_Crow) |
+| OP3 **«River»** | Anonymouz | 25 en adelante (T2) | 15-feb-2023 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/River) |
+| ED1 **«Torches»** | Aimer | 1-12 | 14-ago-2019 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/Torches) + **mirado entero** por storyboard |
+| ED2 **«Drown»** | milet | 13-24 | 4-nov-2019 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/Drown) |
+| ED3 **«Without Love»** | LMYK | 25 en adelante | 1-mar-2023 | ✅ [wiki](https://vinlandsaga.fandom.com/wiki/Without_Love) |
+
+**Qué ambiente dan**:
+
+- **MUKANJYO** (rock duro): mar en tormenta y el logo rojo sangre
+  (0:03-0:09), barcos en la niebla, la infancia en Islandia, la banda de
+  mercenarios y el campo de cadáveres bajo las estrellas (1:24). La
+  escala épica y cruda en minuto y medio.
+- **Torches** (Aimer, calmado): un barco entre fiordos nevados al
+  atardecer con un niño rubio mirando; aurora verde sobre el mar; una
+  silueta de niño con una **antorcha** subiendo una montaña en tormenta;
+  al final, luz blanca y **un trigal dorado**. De la crudeza a un recuerdo
+  cálido y de esperanza.
+
+### Banda sonora y equipo de sonido
+
+- **Compositor: Yutaka Yamada** (やまだ豊) ✅ (wiki del anime + ficha de
+  equipo de AniList en `datos-texto.md`). Siguió en la T2 según la wiki.
+- **Director de sonido**: Shouji Hata. **Efectos de sonido**: Takuya
+  Hasegawa (AniList) ✅.
+- Álbum de la banda sonora publicado el **19-feb-2020**
+  ([Wikipedia: Music of Vinland Saga](https://en.wikipedia.org/wiki/Music_of_Vinland_Saga)).
+- **Qué suena en las escenas emotivas** ⚠️: los fans llaman «Thors vs
+  Askeladd fight theme» al tema del duelo de Thors, y la T2 tiene un
+  «Thorfinn's Theme» para sus momentos de redención. Son nombres de fans,
+  no del disco.
+- El **reencuentro con Einar** va con **música orquestal y casi sin
+  palabras** ✅ (clip mirado).
+
+### Efectos y onomatopeyas
+
+- **Manga**: onomatopeya **ゴオォォ** («gooo», un rugido) a pincel sobre
+  Jomsborg de noche, cap. 146 (hoja `fondos_01.jpg` #7) ⚠️ una viñeta.
+- ❌ **Anime**: no se encontró ninguna lista de efectos de sonido que el
+  público reconozca (la wiki no tiene página; búsquedas «sound effect» y
+  «onomatopoeia» sin resultado).
+
+---

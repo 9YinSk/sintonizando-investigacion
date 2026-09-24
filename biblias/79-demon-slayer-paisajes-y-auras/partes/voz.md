@@ -489,9 +489,9 @@ hermana con este detalle:
   aprende).
 - El **Nichirin negro de Tanjiro** como objeto-símbolo: la espada más rara
   de la serie, con historia propia (augurio → herencia del Sol).
-- La **espada normal de sólo 4 Pilares** (Giyu, Rengoku, Sanemi, Muichiro):
-  dato poco conocido, sirve para una lámina de «los cuatro con katana
-  clásica».
+- **La niebla de Muichiro es amnesia, no un rasgo bonito**: confirmado por
+  la wiki, es el ejemplo perfecto de «aura = estado interior» para explicar
+  el concepto del canal en un texto corto.
 - El premio LATAM 2026 de Toledano (Akaza) en los Crunchyroll Anime Awards:
   celebra a un actor de doblaje, tema central del servidor.
 - Rengoku enumerando cómo ve a cada Pilar (cita literal arriba, Trivia de
