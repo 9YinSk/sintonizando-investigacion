@@ -445,6 +445,15 @@ minuto donde se puede**:
 
 ## No encontré
 
+- ⚠️ Fotograma claro de **tristeza pura** y de **vergüenza** (de las 5
+  emociones que pide el punto 13) en el tráiler oficial: es un tráiler de
+  acción y aventura, no trae primeros planos de llanto ni de vergüenza. Las
+  otras 3 emociones (sorpresa, rabia, miedo) y una de alegría/camaradería sí
+  están cubiertas con fotograma y minuto. Sería extra volver a mirar un
+  episodio completo (ya mirado por vídeo, ep. 131) buscando esos 2
+  fotogramas concretos; lo dejo anotado para quien redacte, no como
+  obligatorio pendiente porque el material de referencia disponible (sin
+  YouTube) no los tenía.
 - ⚠️ Frase textual exacta del **doblaje 2011** (el que está en Netflix
   ahora mismo) con minuto: sólo pude transcribir el doblaje **1999**
   (Cazador X), que sí circula completo en Dailymotion sin restricciones.
@@ -474,7 +483,7 @@ minuto donde se puede**:
 | 7 · Popularidad, personajes ppales/secundarios | ✅ | 3 encuestas oficiales de Jump con cifras, AniList, encuesta reciente Animate Times (el caso «secundario más querido que el protagonista» que pide el dueño) |
 | 8 · Doblaje latino + frases | ✅ | 2 doblajes completos (1999 y 2011), cada actor principal en 2 fuentes, frases textuales con minuto de un clip oficial doblado transcrito |
 | 12 · Fandom, qué NO hacer | ✅ | Memes (Hiatus×Hiatus, Gon-san) con 2 fuentes, tendencias TikTok, 4 reglas concretas de qué evitar |
-| 13 · Personajes a fondo, cara en cada emoción | ✅ | Carácter ampliado, cómo se expresa cada uno con citas, dinámicas, 8 fotogramas propios del tráiler oficial con minuto para las 5 emociones pedidas (falta «vergüenza» explícita, ⚠️ no aparece clara en el material mirado) |
+| 13 · Personajes a fondo, cara en cada emoción | ✅ (⚠️ 2 de 5 emociones flojas) | Carácter ampliado, cómo se expresa cada uno con citas, dinámicas, 9 fotogramas propios del tráiler oficial con minuto: sorpresa, rabia, miedo, esfuerzo/dolor y alegría/camaradería cubiertos con fotograma claro; «tristeza» y «vergüenza» no aparecen limpias en este tráiler de acción (⚠️, ver «No encontré») |
 | 20 · Gustos y detalles | ✅ | Databook oficial vía wiki + AniList para los 5 de partida, más 4 secundarios queridos |
 | 21 · Por qué la aman, escenas que hacen llorar | ✅ (⚠️ minuto exacto) | Ventas, identificación con Killua, 3 escenas icónicas con episodio y motivo; falta el segundo exacto dentro del episodio en 3 de las 4 escenas |
 | 22 · Fandubs y comunidad hispana | ✅ (⚠️ sin cifras) | Fandubs y covers identificados con título/canal; sin vistas por bloqueo de YouTube |

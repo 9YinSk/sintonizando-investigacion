@@ -1876,7 +1876,7 @@ para calcarla en 3D.
   título y la descripción, no el vídeo).
 - **Consejos de convención**: [Popverse](https://www.thepopverse.com/demon-slayer-tanjiro-nezuko-cosplay-anime-convention-social-media).
 - **Foto con volumen real**: [Zenitsu, Tanjiro y Nezuko en FanimeCon
-  2023](https://upload.wikimedia.org/wikipedia/commons/c/ca/Cosplay_of_Zenitsu_Agatsuma%2C_Tanjiro_Kamado%2C_and_Nezuko_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_%2853055055502%29.jpg),
+  2023](https://upload.wikimedia.org/wikipedia/commons/c/ca/Cosplay_of_Zenitsu_Agatsuma%2C_Tanjiro_Kamado_and_Nezuko_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_%2853055055502%29.jpg),
   2048×1365, **CC BY-SA 2.0**, LX-Designs. Se ve cómo cae el *haori* a
   cuadros y el volumen del pelo de Nezuko.
 - **Más fotos con licencia CC** (`datos.json`, Openverse/Flickr): 15 de
