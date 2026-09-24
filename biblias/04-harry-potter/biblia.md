@@ -2059,25 +2059,287 @@ canal de doblaje.
 
 ## Punto 22 · Fan dubs y comunidad hispana
 
-_(pendiente)_
+> De `partes/voz.md`. Vistas, duración y fecha **medidas con `yt-dlp
+> --print`** (24-sep-2026) hasta que YouTube dio 429. Doblaje Wiki no
+> tiene sección de fandubs: esto sale entero de YouTube.
+
+### Fandubs en español latino
+| Vídeo | Canal | Vistas | Duración · fecha |
+|---|---|---|---|
+| [«El pequeño Potter»](https://www.youtube.com/watch?v=6FPsMCEZPDM) | @LemonLads, resubido por ElJoulex | **41 886 226** | 0:26 · 31-dic-2024 |
+| [«Harry Potter y la Cámara Secreta»](https://www.youtube.com/watch?v=54bU0odF2UE) | Carlangas Fandub | 421 005 | 1:57 · 22-jul-2011 |
+| [«Harry conoce a Dobby» (fandub latino)](https://www.youtube.com/watch?v=R2pd55lttJs) | EL MUNDO DE ANGIE | 206 105 | 4:06 · 8-ago-2017 |
+| [«Harry Potter en 99 segundos»](https://www.youtube.com/watch?v=VhzaDlJ7JtI) | Andubs FD | 2 886 | 2:06 · 13-jul-2017 |
+| [«Wingardium Leviosa» (parodia de Oney Cartoons)](https://www.youtube.com/watch?v=gJ4iUrXq2Tk) | VinoDubs | 1 294 | 0:46 · 3-ene-2022 |
+
+- El de **LemonLads** es, con mucho, el fandub de HP en español más visto
+  que se encontró: un *short* de humor con la voz de Harry niño ✅.
+- El de **Carlangas** es de los más veteranos (2011). El de **Angie** es
+  justo la escena de Dobby, personaje del encargo ✅.
+
+### Parodias en español (más vistas que los fandubs)
+- [«Harry Potter y La Piedra Filosofal | CANCIÓN Parodia»](https://www.youtube.com/watch?v=nUV0l7VGXjk),
+  **Destripando La Historia** (España, muy visto en Latinoamérica):
+  **6 010 134** vistas, 2:55, 3-may-2017 ✅. Canción original, no doblaje.
+- [«HARRY POTTER y La Piedra Filosofal (PARODIA)»](https://www.youtube.com/watch?v=gZoydeBXxJE),
+  **Saúl Tijeras**: 1 409 298 vistas, 10:13, 17-ago-2018 ✅. Actuada.
+- **«Es Leviosa, no Leviosá»** sigue viva en TikTok en español; hasta
+  **Warner Bros. México** la usa ([@warnerbrosmx](https://www.tiktok.com/@warnerbrosmx/video/7449551655030312197))
+  ⚠️ (TikTok no da las vistas sin sesión).
+
+### Covers del tema
+- No hay *opening* con letra: el tema es **Hedwig's Theme**, orquestal
+  (John Williams, 2001). **No encontré** covers cantados en español;
+  abundan los de piano, sin un canal latino grande identificado ⚠️.
+
+### Comunidad hispana
+- Formato que se repite: **«Españoles reaccionan al doblaje latino vs
+  español»**, con Dobby y con Hagrid ✅ (títulos vistos; vistas sin medir).
+- No hay un foro de fandub de HP en español: sólo canales sueltos.
+
+**Para el servidor**: los **41,9 millones** de LemonLads prueban que HP
+mueve fandub hispano a gran escala. Buen gancho para un evento de doblaje:
+la escena del vociferador (§10.3) o «Harry conoce a Dobby».
 
 ---
 
 ## Punto 23 · Colaboraciones, figuras y cosplay
 
-_(pendiente)_
+> De `partes/imagen.md`. Lo que trae **poses o ropa nuevas** va en negrita.
+
+### Videojuegos y cruces digitales
+- **Fortnite × Harry Potter** (The Game Awards, dic-2025): uniforme de
+  Hogwarts **personalizable por casa**, mochila de la Rana de Chocolate
+  gratis y una **escoba mítica** para volar ✅
+  ([Dexerto](https://www.dexerto.com/fortnite/fortnite-harry-potter-crossover-3293270/),
+  [PinkNews](https://www.thepinknews.com/2025/12/19/fortnite-leaker-spoiled-harry-potter-crossover-over-j-k-rowlings-trans-views/)).
+  ⚠️ **Aviso para el dueño**: PinkNews cuenta que salió en plena polémica
+  por la postura de J. K. Rowling sobre las personas trans. No ponerlo en
+  la lámina sin que él lo sepa.
+- **Wizards Unite** (Niantic, como Pokémon GO; cerró en 2022): realidad
+  aumentada, «Fortalezas» en vez de gimnasios ✅
+  ([La Nación](https://www.lanacion.com.ar/tecnologia/wizards-unite-asi-es-videojuego-harry-potter-nid2227903/),
+  [TechRadar](https://www.techradar.com/news/harry-potter-wizards-unite)).
+- **Puzzles & Spells** (Zynga, 2020): *match-3*; lo presentó Zayn Malik.
+  Sus renders recortados son los de P·26 ✅
+  ([harrypotter.com](https://www.harrypotter.com/news/zynga-game-puzzles-and-spells-mobile-game-announcement),
+  [Zynga](https://www.zynga.com/games/harry-potter-puzzles-and-spells/)).
+- **Magic Awakened** (NetEase, 2023): **gacha** de verdad, con *banners* y
+  cartas aseguradas a las 60 tiradas. Cerró en América y Europa el
+  29-oct-2024; sigue en Asia ✅
+  ([BusinessWire](https://www.businesswire.com/news/home/20230627057479/en/Warner-Bros.-Games-and-NetEase-Announce-The-Worldwide-Launch-of-Harry-Potter-Magic-Awakened),
+  [GamingOnPhone](https://gamingonphone.com/guides/harry-potter-magic-awakened-the-complete-gacha-system-guide/)).
+
+### LEGO, 25 aniversario (2026)
+- **Ministerio de Magia, edición de coleccionista**: 3 491 piezas, 14
+  minifiguras (Arabella Figg por primera vez) y el **Patronus de lince de
+  Kingsley** como pieza nueva; venta el 1-sep-2026, 449,99 USD ⚠️
+  ([LEGO.com](https://www.lego.com/en-us/aboutus/news/2026/august/25-years-of-harry-potter-with-a-new-ministry-of-magic-set)).
+- **La ola de verano**, 8 sets ✅ ([The Brick Fan](https://www.thebrickfan.com/lego-harry-potter-summer-2026-sets-revealed/) y LEGO.com):
+  **Dobby the Free Elf** (76469, 379 piezas: **pose 3D oficial nueva de
+  Dobby**), **Forbidden Forest: Expecto Patronum** (76475: **Harry lanzando
+  el Patronus**), Hogwarts House Crest (76462, mosaico del escudo), Book
+  Nook: Dumbledore's Office, Knockturn Alley y otros tres.
+
+### Marcas y moda
+- **Vans** (7-jun-2019): un modelo por casa, con mochilas y parches ✅
+  (patrones en el punto 19).
+- **Pandora** (28-nov-2019, ampliada en 2020): dijes de la carta de
+  admisión, Hedwig, el Sombrero Seleccionador, las Reliquias, gafas y rayo,
+  la Nimbus 2000 ✅
+  ([Pandora](https://www.pandoragroup.com/media/press-releases/pandora-launches-harry-potter-collection),
+  [Marie Claire](https://www.marieclaire.co.uk/news/fashion-news/pandora-harry-potter-collection-665884)).
+- **Ariani** (Malasia, 2023): colección de ropa **de quidditch** ⚠️
+  ([Malay Mail](https://www.malaymail.com/news/life/2023/06/06/malaysian-fashion-brand-ariani-unveils-second-harry-potter-collection-with-focus-on-quidditch/72784)).
+
+### Cafés y tiendas
+- **Studio Tour de Tokio** (2023): Backlot Cafe con menú por casa y
+  **bebidas que cambian de color** ✅
+  ([wbstudiotour.jp](https://www.wbstudiotour.jp/en/the-experience/fooddrink/),
+  [GoTokyo](https://www.gotokyo.org/en/spot/1854/index.html)).
+- **Harry Potter Shop Harajuku** (14-ago-2025): Buckbeak a tamaño real,
+  réplica de Honeydukes, galería de MinaLima y barra de cerveza de
+  mantequilla a 800 yenes ⚠️ ([SoraNews24](https://soranews24.com/2025/08/14/tokyo-has-a-brand-new-harry-potter-shop-with-its-own-butterbeer-bar-lets-see-whats-inside%E3%80%90pics%E3%80%91/)).
+- **House of MinaLima en Seúl** (desde el 2-sep, un año): tienda y galería
+  de su atrezo de papel ✅
+  ([Korea Herald](https://m.koreaherald.com/article/3282442),
+  [harrypotter.com](https://www.harrypotter.com/news/minalima-to-open-pop-up-store-in-seoul)).
+
+### Figuras oficiales (la pose es referencia 3D)
+- **Funko Pop!**, desde 2015, más de 250 figuras; los «Pop! Rides» del
+  expreso de Hogwarts ✅
+  ([Funko](https://funko.com/fandoms/movies-tv/fantasy/harry-potter/),
+  [Funko Wiki](https://funko.fandom.com/wiki/Pop!_Harry_Potter),
+  [Cardboard Connection](https://www.cardboardconnection.com/funko-pop-harry-potter-vinyl-figures)).
+- **Mattel**: muñeca de coleccionista «Design Collection» ⚠️
+  ([Mattel Creations](https://creations.mattel.com/products/harry-potter-design-collection-harry-potter-doll-hnd81)).
+  **McFarlane Toys**: su página dio 404; **no lo verifiqué**.
+- Minifiguras LEGO de 2026 (Dobby, Arabella Figg, el lince): arriba.
+
+### Cosplay con materiales reales
+- **Bellatrix**, de Amber Reifsteck ([The Woodland Elf](https://thewoodlandelf.com/bellatrix-how-to-make-a-bellatrix-lestrange-costume/)):
+  vestido negro de segunda mano, pintura *puffy* plateada, **7 yardas de
+  cordón negro y 50 ojales** para el corsé cruzado, unos 10 USD ⚠️.
+- Cosplay de Hermione, Draco o Luna con el mismo detalle: **no lo busqué**
+  (cupo de la tanda).
+
+**Para la lámina**: el Dobby de LEGO y el Harry del Patronus son las dos
+poses nuevas más citables; la de Dobby sirve de referencia 3D para el
+concepto C.
 
 ---
 
 ## Punto 24 · Obras parecidas y láminas vecinas
 
-_(pendiente)_
+> De `partes/texto.md`. Obra británica: el idioma original es el inglés, ya
+> cubierto; no aplica buscar influencias en japonés o coreano.
+
+### Lo que J. K. Rowling reconoce, en sus palabras
+Fuente: [Wikipedia, «Harry Potter influences and analogues»](https://en.wikipedia.org/wiki/Harry_Potter_influences_and_analogues)
+y [HogwartsProfessor](https://www.hogwartsprofessor.com/rowlings-admitted-literary-influences/) para las citas ✅.
+- **Mitología y folclore británico**: «le he tomado libertades horribles,
+  y no me arrepiento».
+- ***La Ilíada***: el trato al cuerpo de Héctor inspiró la muerte de Cedric (P4).
+- ***El viento en los sauces*** (Grahame): el primer libro que la marcó.
+- **E. Nesbit**: «me identifico con ella más que con ningún otro escritor».
+- ***Macbeth***: «posiblemente mi obra favorita de Shakespeare».
+- ***Emma*** (Austen): la vara con la que mide sus finales sorpresa.
+- ***La espada en la piedra*** (T. H. White: Arturo como «antepasado
+  espiritual» de Harry, Merlín como Dumbledore) y **Narnia** (el andén 9¾)
+  ⚠️: de artículos de análisis, sin cita de ella.
+
+### A qué la comparan crítica y fans ✅ (misma Wikipedia, que cita varios críticos)
+- **Escuela de magia antes de Hogwarts**: *Un mago de Terramar* (Le Guin)
+  y *The Worst Witch* (Jill Murphy).
+- **Niño que descubre su poder a los 11**: *The Dark Is Rising* (Susan
+  Cooper) y *Chrestomanci* (Diana Wynne Jones).
+- **El elegido, la profecía, el mentor**: *El Señor de los Anillos* y
+  *Star Wars*; Snape, con el Heathcliff de *Cumbres Borrascosas*.
+- **Escuela oculta y miedo a los que tienen poderes**: **X-Men**.
+- **Niño de gafas con un búho que descubre que es mago**: *The Books of
+  Magic*, de Neil Gaiman (cómic anterior).
+- **Novela de internado británica + fantasía** (*Tom Brown's Schooldays*)
+  ⚠️: TV Tropes da 403; el dato es de un resumen.
+
+### Obras hermanas o posteriores
+- ***Animales fantásticos***: mismo mundo, mismo estudio y **MinaLima** en
+  el papel; la más cercana en estilo ✅.
+- **La serie de HBO** (sin estrenar): mismos libros, otra luz, «más
+  vibrante» (punto 18) ⚠️.
+- ***Percy Jackson***: la comparación de siempre en listas de «si te
+  gustó» ⚠️ (sin artículo que citar).
+
+### Láminas del servidor que se le parecen (para no repetir)
+La parte de texto comparó sólo con One Piece, Attack on Titan y Solo
+Leveling («ninguna se parece»). **El redactor revisó los títulos de los
+conceptos de todas las biblias** (búsqueda de «periódico», «diario»,
+«tablón», «carta», «noticias») y **sí hay parecidos**:
+- **Mafalda (#sugerencias), concepto A**: «**La página del diario**», un
+  diario de los sesenta **doblado sobre una mesa de madera**. Es la misma
+  idea que nuestro concepto A. Diferencia que hay que cuidar: aquí papel
+  crema con cabecera gótica, velas y oro; allí un diario argentino con
+  tiras de historieta, en un salón de casa.
+- **One Piece (#bienvenidas), concepto A**: «**Se busca: tú**», carteles
+  de papel clavados en el mástil. Se parece a nuestro concepto C (avisos
+  clavados en el tablón). Diferencia: fieltro rojo con cintas y lacre
+  frente a madera de barco y carteles de recompensa.
+- **Oshi no Ko (#redes-y-novedades)**: un directo de noticias en pantalla.
+  Mismo tema (novedades), otro objeto: no choca.
+- **Sin parecido**: Attack on Titan (ficha militar gris) y Solo Leveling
+  (ventana azul de videojuego).
+
+**Consecuencia**: el concepto B (el atril) es el único de los tres sin
+parecido en otra lámina. Si Mafalda o One Piece se hacen antes, marcar
+bien las diferencias de A y C (papel, luz y letra).
 
 ---
 
 ## Punto 25 · El mundo, la historia por arcos y sus símbolos
 
-_(pendiente)_
+> De `partes/texto.md`, con la API de la Harry Potter Wiki.
+
+### Las reglas del mundo, en cinco líneas
+1. **El mundo mágico vive escondido** de los muggles por el **Estatuto
+   Internacional del Secreto**, firmado en 1689 y en vigor desde 1692, tras
+   siglos de quema de brujas ✅ ([wiki](https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy),
+   que cita *Quidditch a través de los tiempos*).
+2. **Cada país tiene su Ministerio de Magia**: hace cumplir la ley y
+   guarda el secreto ✅ ([wiki](https://harrypotter.fandom.com/wiki/Ministry_of_Magic)).
+3. **La sangre marca el prejuicio**: sangre pura, mestizos, hijos de
+   muggles. Es el motor de Voldemort y los mortífagos ✅
+   ([wiki](https://harrypotter.fandom.com/wiki/Blood_status)).
+4. **Hogwarts reparte en 4 casas** con el Sombrero Seleccionador; compiten
+   por la **Copa de las Casas** con puntos que se ganan o se pierden ✅
+   (fichas de las casas, abajo).
+5. **La magia va con varita** (los elfos, no). Se viaja por la Red Flu, al
+   aparecerse o con trasladores; se escribe con lechuzas y vociferadores.
+   Nada de tecnología muggle ⚠️ (sin cita concreta en la parte).
+
+### La historia por arcos ✅
+([Wikipedia, «Harry Potter»](https://en.wikipedia.org/wiki/Harry_Potter) y la
+ficha de cada libro en la wiki)
+1. **La piedra filosofal** (P1): Harry sabe que es mago. Quirrell, con
+   Voldemort, quiere la piedra de la inmortalidad; Harry lo frena ante el
+   **espejo de Oesed**.
+2. **La cámara secreta** (P2): ataques a alumnos. El **diario de Tom
+   Ryddle** posee a Ginny; Harry destruye ese recuerdo de Voldemort.
+3. **El prisionero de Azkaban** (P3): Sirius, su padrino, era inocente. Un
+   **giratiempo** ayuda a destapar al verdadero traidor.
+4. **El cáliz de fuego** (P4): Harry entra sin querer en el **Torneo de
+   los Tres Magos** y ve **volver a Voldemort**. El giro de la saga.
+5. **La Orden del Fénix** (P5): el Ministerio lo niega todo. Harry forma
+   el **Ejército de Dumbledore** mientras Umbridge aprieta Hogwarts.
+6. **El misterio del príncipe** (P6): los **Horrocruxes**. Dumbledore muere
+   a manos de Snape.
+7. **Las reliquias de la muerte** (P7-P8): Harry sabe que **él mismo es un
+   Horrocrux**, se entrega, sobrevive y vence gracias al amor de su madre.
+
+**Para #anuncios**: la época alegre es la de P1-P4 (§14: no mezclar la
+cabecera de P5 con Harry niño).
+
+### Emblemas, logos y objetos icónicos
+- **Las 4 casas** ✅ ([fichas de la wiki](https://harrypotter.fandom.com/wiki/Gryffindor),
+  que citan Pottermore y los libros):
+
+| Casa | Fundador | Colores | Animal | Elemento | Virtud |
+|---|---|---|---|---|---|
+| Gryffindor | Godric Gryffindor | escarlata y oro | león | fuego | valentía |
+| Slytherin | Salazar Slytherin | verde y plata | **serpiente** (*serpent*) | agua | astucia |
+| Ravenclaw | Rowena Ravenclaw | azul y bronce | **águila**, no cuervo | aire | ingenio |
+| Hufflepuff | Helga Hufflepuff | amarillo y negro | tejón | tierra | lealtad |
+
+- **Escudo de Hogwarts**: los 4 animales alrededor de una H (punto 19),
+  con el lema *Draco dormiens nunquam titillandus*, «nunca le hagas
+  cosquillas a un dragón dormido» ⚠️ (sin enlace en la parte).
+- **Marca Tenebrosa**: calavera verde con una serpiente saliendo de la
+  boca; negra en el antebrazo izquierdo de cada mortífago, verde en el
+  cielo con *Morsmordre* ✅ ([wiki](https://harrypotter.fandom.com/wiki/Dark_Mark)).
+  **Nunca en #anuncios**.
+- **Signo de las Reliquias**: triángulo (la capa), círculo (la piedra) y
+  línea (la Varita de Saúco). Grindelwald lo llevó en un colgante ✅
+  ([wiki](https://harrypotter.fandom.com/wiki/Sign_of_the_Deathly_Hallows)).
+  Versión CC0 en el punto 19.
+- **Moneda del ED**: galeones falsos con encantamiento Proteico, de
+  Hermione (1995), para avisar en secreto de la próxima reunión. Después
+  de la guerra, **insignia de honor** ✅ ([wiki](https://harrypotter.fandom.com/wiki/Dumbledore%27s_Army_coin)).
+  Es **un aviso mágico en un objeto**: guiño posible para #anuncios.
+- **Emblema del Ministerio**: lo diseñó MinaLima; lo venden como
+  [insignia oficial](https://minalima.com/product/button-badge-ministry-of-magic-emblem/) ✅.
+- **Cabecera de El Profeta**: medida y descrita en §2.1 y §6.
+
+### Vocabulario que un fan reconoce al instante
+✅ (wiki y [harrypotter.com](https://www.harrypotter.com/features/everything-you-need-to-know-about-squibs))
+- **Muggle**: sin magia, de padres sin magia. **Squib**: de familia mágica
+  pero casi sin magia ([wiki](https://harrypotter.fandom.com/wiki/Squib)).
+- **Animago**: se convierte en un animal a voluntad. **Patronus**: luz con
+  forma de animal contra los dementores, uno por mago.
+- **Horrocrux**, **poción multijugos**, **polvos flu**, **traslador**,
+  **aparecerse**, **sangre sucia** (insulto), **snitch dorada**, **quaffle**,
+  **bludger**, **el que no debe ser nombrado**.
+- Hechizos de oído: *Wingardium Leviosa*, *Expecto Patronum*, *Avada
+  Kedavra*, *Expelliarmus*, *Alohomora*, *Lumos*, *Accio*.
+- En latino: **vociferador** (no «Howler»), **«el que no debe ser
+  nombrado»** (§10.3).
 
 ---
 
@@ -2197,6 +2459,23 @@ _(pendiente)_
   largas de las chinchetas en el fieltro. Una lechuza dormida en la ventana del fondo.
   A un lado, el borde del tapiz del unicornio con collar de lunas (como en
   el fotograma de P1): el fan lo reconoce.
+
+### Mejoras del repaso corto (puntos 18-25)
+- **A**: la foto que se mueve se hace como en el cine, pero quieta: 2 o 3
+  fotogramas semitransparentes y desplazados (punto 18). Papel con
+  **grano de 35 mm** y **negro levantado**, como el papel escaneado de
+  MinaLima. **Ojo**: Mafalda (#sugerencias) también tiene un diario
+  doblado sobre la mesa (punto 24); aquí manda el gótico, la vela y el oro.
+- **B**: es el **único sin parecido** en otras láminas (punto 24). Luz de
+  varias velas pequeñas y oro con reflejo real en Cycles, como el latón de
+  Stuart Craig (punto 18).
+- **C**: **referencia 3D de pose** para Dobby: el set LEGO *Dobby the Free
+  Elf* (76469, 2026, punto 23). Y su gag: **calcetines sin pareja**
+  colgados de una chincheta del tablón, de estampados distintos (punto
+  20). Se parece al «Se busca» de One Piece (punto 24): que se note el
+  fieltro rojo, las cintas y el lacre.
+- **Posible guiño en A o C**: la **moneda del ED**, un aviso mágico que
+  cambia solo (punto 25).
 
 ### ¿Cuál primero?
 **A**, porque es el objeto del plan con escena real y la lectura de «noticia»
