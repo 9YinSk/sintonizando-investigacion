@@ -1469,3 +1469,48 @@ ni paréntesis.
 **No lo encontré** (buscado, ver bitácora): modelos 3D de la serie, figuras
 3D, cosplay documentado, cover en español del opening, encuesta oficial
 japonesa, ventas de Blu-ray.
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice por qué) · ❌ no hecho.
+
+| Punto | Qué pide ENCARGO.md | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial en cantidad y variado | ✅ | sitio oficial (5 figuras de cuerpo entero), 17 hojas de modelo, key visual, portadas, Blu-ray, arte de @Wistoria_PR; con arma, en grupo y en pareja. No hay arte de juego (no hay juego) ni cartones de cuenta atrás |
+| 2 | Fotogramas de escenas icónicas en 1080p con minuto | ⚠️ | 7 escenas con minuto, pero a **512×288** (Dailymotion; YouTube bloqueado). Ganbare y T2 ep. 5 sin mirar |
+| 3 | Fan art y 3D con licencia | ⚠️ | 6 fan arts con autor; **ningún modelo 3D de la serie**, sólo 4 bases CC BY genéricas (dos sin autor anotado) |
+| 4 | Sitios con luz, paleta hex y texturas reales | ✅ | 4 sitios medidos con `estilo.py`, texturas CC0 de ambientCG; falta la mazmorra a color ⚠️ |
+| 5 | Tipografía por uso con letra libre y tildes | ✅ | 8 usos, 11 letras comprobadas con fontTools; el nombre de la letra del logo no se encontró |
+| 6 | Cuadros de diálogo propios de la serie | ✅ | globo y grito del manga mirados (cap. 10 y cap. 1), letreros del anime; primera nota de la franquicia |
+| 7 | Personajes y encuestas de popularidad | ⚠️ | quién es el más querido, con dos medidas (AniList y Danbooru) ✅; **no se encontró encuesta oficial** japonesa |
+| 8 | Doblaje latino, dos fuentes por nombre, frases textuales con minuto | ⚠️ | producción y 10 voces con dos fuentes ✅; resto con una; **sin frases con minuto** (YouTube bloqueado); dos títulos de clips oficiales |
+| 9 | Música, ambiente y efectos de sonido | ⚠️ | 2 OP y 2 ED con cartela y minuto, compositor y equipo de sonido ✅; **OP/ED no vistos enteros** (AnimeThemes caído); efectos sólo de oído |
+| 10 | Vídeos con minuto y tendencias | ⚠️ | 2 tráileres mirados enteros con minuto ✅; tendencias de TikTok y YouTube **sin mirar** |
+| 11 | Videojuegos de la franquicia | ✅ | **no aplica**: no hay juego oficial (Steam 0 resultados y buscador en inglés y japonés) |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 6 gags y memes con votos; 6 «no hacer» con fuente |
+| 13 | Descripción profunda de cada personaje, cara en cada emoción | ⚠️ | 9 personajes a fondo ✅; caras con minuto de Will (7), Lihanna (4), Elfaria, Colette y Sion (1); faltan vergüenza y alegría |
+| 14 | Poses analizadas, 6-10 por personaje | ⚠️ | Will 10 (7 de vídeo) ✅; Elfaria 7 pero sólo 2 de vídeo; faltan regañar y animar de Elfaria |
+| 15 | Vestuario con hex | ✅ | uniforme, mazmorra, Alto Mago, facciones; 24 hex medidos; choque sobre el pelo de Will explicado |
+| 16 | Ciudades, paisajes y fondos de pantalla | ✅ | 7 sitios con luz e imagen; los 4 fondos de Wallhaven que hay, con autor y tamaño |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias, expresiones; frases reales por emoción (del tráiler, traducción propia ⚠️) |
+| 18 | Estilo, técnica y cómo replicarlo | ⚠️ | equipo y dos entrevistas en japonés ✅; **software del estudio no encontrado**; la réplica en Photoshop y Blender es propuesta |
+| 19 | Texturas 2D, emblemas y logos | ✅ | 6 emblemas en alta, logo oficial, trama y texturas CC0 |
+| 20 | Gustos y detalles | ✅ | 11 personajes con altura, cumpleaños, gustos; muchos con una sola fuente ⚠️ |
+| 21 | Por qué la aman y escenas que hacen llorar | ⚠️ | cifras y razones ✅; Ganbare con dos fuentes ✅; **sin minuto, música ni encuadre** |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | un fandub de TikTok y edits ⚠️; **no se encontraron covers ni memes hispanos** |
+| 23 | Colaboraciones, figuras y cosplay | ⚠️ | crossover con Lulutto Lilly, tienda, macarons y acrílicos ✅; **sin figuras 3D ni cosplay documentado** |
+| 24 | Obras parecidas y otras láminas del servidor | ✅ | 11 obras de AniList, el autor, y comparación con Harry Potter, AC, MHA, Frieren y Demon Slayer; TV Tropes 403 ⚠️ |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | 5 líneas, 8 arcos con episodios, Wis, emblemas, calendario, vocabulario |
+| Conceptos | 3 conceptos de lámina, con canal propuesto | ✅ | A Aula, B #en-directo, C #destacados; choques avisados |
+| Fuentes | 40 fuentes distintas | ✅ | más de 40 webs enlazadas (ver bitácora) |
+| Oficiales | web, redes, entrevistas al staff | ✅ | sitio japonés e inglés, @Wistoria_PR, Kodansha, 2 entrevistas a los autores |
+| Idiomas | japonés, inglés (coreano o chino si aplica) | ✅ | japonés (2 entrevistas, búsquedas en japonés) e inglés; la obra es japonesa |
+| Wikis y TV Tropes | Fandom, TV Tropes | ⚠️ | wiki de la serie y Doblaje Wiki por API ✅; TV Tropes 403 |
+| TCRF y Wayback | contenido descartado, páginas borradas | ⚠️ | TCRF no aplica (sin juego); Wayback sólo se usó para TV Tropes y no tenía copia |
+| Foros | Reddit, foros, Discords | ⚠️ | Reddit (Arctic Shift) y Threads ✅; sin foros especializados ni Discords públicos |
+| Arte | Pixiv, ArtStation, DeviantArt | ⚠️ | Safebooru, Danbooru, X ✅; Pixiv dio 403; ArtStation y DeviantArt sin buscar |
+| Vídeo | análisis y tendencias con minuto | ⚠️ | tráileres con minuto ✅; YouTube bloqueado, TikTok sin mirar |
+| Código y recursos | GitHub, Sketchfab, texturas | ⚠️ | Sketchfab, ambientCG, Google Fonts ✅; **GitHub no se buscó** |
+| Doblaje latino | Doblaje Wiki, ANMTV, Crunchyroll | ✅ | Doblaje Wiki por API y ANMTV; Crunchyroll sin acceso |
+| Hojas | 3 hojas de contacto | ✅ | `personajes_01`, `fondos_01`, `objetos_01`, miradas y explicadas número a número |
+| Referencias | `referencias.json`, mínimo 20 | ✅ | todas las útiles de las partes, las mejores primero, tamaños medidos |
