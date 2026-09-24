@@ -48,11 +48,22 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
-19. Tres conceptos de lámina
-20. Lo que no pude verificar
+18. Guía para generar con IA: imagen y texto
+19. Estilo de dibujo, técnica, Blender y encuadres
+20. Texturas 2D
+21. Gustos y detalles de cada personaje
+22. Por qué la gente la ama, y las escenas que hacen llorar o gritar
+23. Fan dubs y comunidad hispana
+24. Colaboraciones, figuras y cosplay
+25. Obras parecidas y láminas vecinas
+26. El mundo, la historia por arcos y sus símbolos
+27. Tres conceptos de lámina
+28. Lo que no pude verificar
 - Cumplimiento del encargo
-21. Bitácora de búsqueda
+29. Bitácora de búsqueda
+
+(Arriba del índice, «Segunda pasada · qué cambió»: el repaso del
+24-sep-2026 que añadió las secciones 19-26.)
 
 ---
 
