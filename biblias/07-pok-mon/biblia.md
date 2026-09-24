@@ -1891,7 +1891,61 @@ MegaHouse ✅ (Otaku Mode, Big Bad Toy Store, Animota, Kurama Toys):
 
 ## P25 · El mundo, la historia y sus símbolos
 
-_(pendiente)_
+**Las reglas del mundo, en cinco líneas** ✅
+([Wikipedia, jugabilidad](https://es.wikipedia.org/wiki/Jugabilidad_de_Pok%C3%A9mon),
+[WikiDex, Gimnasio](https://www.wikidex.net/wiki/Gimnasio_Pok%C3%A9mon),
+[WikiDex, Liga](https://www.wikidex.net/wiki/Liga_Pok%C3%A9mon)):
+1. Los **entrenadores** capturan Pokémon con una **Pokébola**, los
+   entrenan y combaten. Todos empiezan con **un inicial** y una **Pokédex**.
+2. Cada región tiene **gimnasios**; cada **líder** domina un tipo y da una
+   **medalla**.
+3. Con **8 medallas** se entra a la **Liga Pokémon**: **Alto Mando** y
+   **Campeón**. Ash quiere ser **Maestro Pokémon**, más que campeón.
+4. Los Pokémon **evolucionan** (nivel, piedra, intercambio, cariño) y
+   cambian de forma.
+5. El **Equipo Rocket** (Jessie, James, Meowth) quiere robar a Pikachu y
+   siempre acaba **saliendo volando**.
+
+**La historia por arcos** (Wikipedia en inglés y español, cruzadas) ✅
+| Arco | Estreno | Momento clave |
+|---|---|---|
+| **Kanto** (Liga Índigo) | abril de 1997 | Ash recibe a Pikachu en el laboratorio (punto 3) |
+| **Islas Naranja** | enero de 1999 | su primer título, fuera de una liga oficial |
+| **Johto** | octubre de 1999 | llega al top 8 de la Conferencia Plata |
+| **Hoenn** | noviembre de 2002 | viaja con May y su hermano Max |
+| **Sinnoh** | septiembre de 2006 | viaja con Dawn; semifinales de la Liga |
+| **Teselia** | septiembre de 2010 | viaja con Iris y Cilan; el Equipo Plasma |
+| **Kalos** | octubre de 2013 | viaja con Serena; la **Megaevolución** |
+| **Alola** | noviembre de 2016 | escuela Pokémon; su **primer campeonato regional** |
+| **Viajes** | 2019-2023 | **Campeón Mundial** (2022) y despedida en *Aim to Be a Pokémon Master* (2023) |
+| **Horizontes** | 2023-hoy | nuevos protagonistas, **Liko y Roy**, sin Ash |
+
+⚠️ Sólo el año y el mes; el día exacto de cada estreno no se sacó.
+
+**Emblemas y objetos que un fan reconoce al instante**
+- **La Pokébola** (roja, blanca, franja negra, botón): el objeto de toda
+  la franquicia. **La Master Ball** (morada con una M rosa): captura
+  segura ✅.
+- **El logo**: amarillo `#FFCB05` con borde azul `#3D7DCA` (punto 6).
+- **La Pokédex roja de Kanto**, que en el anime **habla** y es un poco
+  sarcástica (punto 7.3).
+- **Las medallas** (P19) y la **R del Equipo Rocket**.
+- Las **fórmulas de texto** más repetidas: el **lema del Rocket** y
+  **«¿Quién es ese Pokémon?»**.
+
+**Vocabulario propio** (uso latino)
+| Término | Qué es |
+|---|---|
+| **Pokébola** | así se dice en el doblaje latino ✅ ([WikiDex](https://www.wikidex.net/wiki/Pok%C3%A9bola/Pok%C3%A9_Ball_(anime))) |
+| **Entrenador Pokémon** | quien captura y entrena: el «rol» del concepto de lámina |
+| **Inicial** | el primer Pokémon, el que se elige en el laboratorio |
+| **Pokédex** | enciclopedia de bolsillo que habla |
+| **Gimnasio, líder, medalla** | el combate de cada ciudad y su premio |
+| **Liga Pokémon, Alto Mando, Campeón** | el torneo final de la región |
+| **Maestro Pokémon** | el sueño de Ash |
+| **Tipo** | fuego, agua, planta, eléctrico... |
+| **Evolución** | el cambio de forma |
+| **Centro Pokémon** | donde curan a los Pokémon: sirve de icono de «soporte» |
 
 ---
 
@@ -1903,16 +1957,28 @@ _(pendiente)_
 ### Concepto A — «La mesa de las Pokébolas» (el del plan, mejorado)
 **Objeto y sitio.** El **soporte de Pokébolas del laboratorio de Oak**,
 como en el capítulo 1: tres huecos y **uno en el centro**, un poco más
-alto, con **la Pokébola del rayo** ✅. En Blender: la base, las cuatro
-Pokébolas ([modelo de Pabluuu](https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2),
-CC BY) y la mesa ([Wood Table Worn](https://polyhaven.com/a/wood_table_worn), CC0).
-De cada Pokébola cuelga una **etiqueta de cartulina con cordel**; la tinta
-sigue la curva del papel.
+alto, con **la Pokébola del rayo** ✅. **Visto en el capítulo real**: tres
+Pokébolas en soportes **en triángulo con el hueco en el centro** (≈5:56) y
+la del rayo abriéndose con un **destello dorado** (≈6:48) ✅. En Blender:
+la base, las cuatro Pokébolas ([modelo de Pabluuu](https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2),
+**CC BY 4.0 ✅**, 227.582 caras: bajar el detalle) y la mesa
+([Wood Table Worn](https://polyhaven.com/a/wood_table_worn), CC0). De cada
+Pokébola cuelga una **etiqueta de cartulina con cordel**
+([Paper004](https://ambientcg.com/view?id=Paper004) o
+[Cardboard002](https://ambientcg.com/view?id=Cardboard002), CC0 ✅); la
+tinta sigue la curva del papel. Crédito: «"Poké Ball" by Pabluuu, licensed
+under CC BY 4.0».
 
 **Personaje.** **Oak** detrás de la mesa, con la mano abierta hacia las
-Pokébolas: pose de **presentar** (película, 00:04:34). **Pikachu** sentado
-junto a la Pokébola del rayo, **de espaldas a ella**, con cara de «ni lo
-pienses» (odia la Pokébola ✅).
+Pokébolas: pose de **explicar** del capítulo 1 (≈6:09-6:31: bata blanca,
+**corbata roja**, gesto de mano ✅ visto). Referencia de Oak en su
+laboratorio: [nº24 de la hoja 1](https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png);
+para girarlo y posarlo, el [Oak con esqueleto](https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb)
+(lopuh22721, CC BY 4.0 ✅). Oak es el que habla porque es su momento y
+su voz es la más serena del reparto (149 Hz, punto 8). **Pikachu** de pie
+sobre la mesa junto a la Pokébola del rayo, **de espaldas a ella**,
+arisco y con chispas en las mejillas, como sale a las ≈6:58 del
+capítulo 1 ✅ (odia la Pokébola).
 
 **Cómo habla.** La **caja de Rojo/Azul** (punto 7.1): abajo, un tercio de
 alto, doble filete con esquinas de nudo, **dos líneas de 18 letras** y el
@@ -1934,13 +2000,14 @@ Letra: **pokemon-font** a 40 o 50 px, sin suavizado.
 
 **Cómo no queda plano**
 - **Delante**, desenfocado, el **antebrazo de Ash** entrando por abajo a la
-  izquierda: guante verde sin dedos y manga blanca y azul, alargándose
-  hacia una Pokébola. Se ve el brazo entero hasta el borde: la mano no
-  flota. Es «tú, que llegas a elegir».
-- **Luz de mañana** por una ventana grande a un lado; brillo real en las
-  Pokébolas; sombras de las etiquetas sobre la madera.
+  izquierda: guante verde sin dedos (puño `#C3E795`) y manga blanca y azul
+  (`#234FC0`, medido), alargándose hacia una Pokébola. Se ve el brazo
+  entero hasta el borde: la mano no flota. Es «tú, que llegas a elegir».
+- **Luz**: la del capítulo real, **fría, desde una claraboya** ✅, más sol
+  de mañana por una ventana lateral; brillo real en las Pokébolas; sombras
+  de las etiquetas sobre la madera.
 - **Detrás**, desenfocado: estanterías de libros y, por la ventana, **el
-  molino del laboratorio**.
+  molino del laboratorio** ⚠️ (de la wiki; no sale en el capítulo 1).
 
 ### Concepto B — «La Pokédex en la Ruta 1»
 **Objeto y sitio.** La **Pokédex roja de Kanto**, abierta y girada hacia
@@ -1949,8 +2016,13 @@ Blender). Sitio: **la Ruta 1**, a la salida de Pueblo Paleta, a media
 mañana; hierba `#ADE65A`, cielo `#A5D6FF` ✅.
 
 **Personaje.** **Ash** en plano medio sosteniendo la Pokédex hacia la
-cámara, con el brazo entero visible. **Pikachu en su hombro** señalando la
-pantalla con la pata. Ropa de Kanto (punto 16).
+cámara, con el brazo entero visible. Base de la pose: Ash **tendiendo la
+mano hacia la cámara** ([nº147 de la hoja 4](https://static.wikia.nocookie.net/pokemon/images/4/44/XY006_17.png))
+y el [Ash con esqueleto](https://sketchfab.com/3d-models/ash-ketchum-f767f1a21b924033991a7fb1fb19820d)
+(Neut2000, CC BY 4.0 ✅) para el escorzo. **Pikachu en su hombro**
+señalando la pantalla con la pata. **Ropa de Kanto**, sin mezclar eras
+(punto 16), con los hex medidos. Es el vínculo que hasta el tráiler
+oficial de Rojo/Azul usa: jugador **ASH**, Pokémon **PIKACHU** (1:00) ✅.
 
 **Cómo habla.** Aquí **habla la Pokédex**: el texto va **en su pantalla**,
 con la fórmula de una entrada («Pikachu, el Pokémon Ratón»). Debajo, una
@@ -1988,7 +2060,8 @@ pliegues. Sitio: **el corral de Oak al anochecer** ✅, el mapa extendido
 sobre un tocón o una piedra.
 
 **Personaje.** **Charmander**, el más votado de la línea de iniciales ✅
-(Charizard, 4.º mundial). Sentado junto al mapa, **levanta la cola para
+(Charizard, 4.º mundial; en México y Perú el Pokémon más buscado
+es Chikorita ⚠️, punto 9). Sentado junto al mapa, **levanta la cola para
 iluminarlo** y señala un país con la garra. Su llama **arde fuerte y
 alegre** (Pokédex ✅). Pikachu asoma por detrás del mapa.
 
@@ -2007,7 +2080,7 @@ plano.
 | **¿Qué haces? ¿Qué buscas? Eso va en Canales y roles** | la **leyenda** del mapa |
 | **Canales y roles está arriba del todo.** / **Lo cambias cuando quieras.** | leyenda, debajo |
 | **Aquí no se escribe** | nota clavada en la esquina con una chincheta |
-| **¿Algo no funciona? Abre un ticket en soporte** | la última línea de la leyenda, junto a un icono de Centro Pokémon ⚠️ (icono no comprobado) |
+| **¿Algo no funciona? Abre un ticket en soporte** | la última línea de la leyenda, junto a un icono de **Centro Pokémon**, donde se cura a los Pokémon (referencia 3D: [Pokemon Center de Wesai](https://sketchfab.com/3d-models/none-ae2858d8d212406ebe95927d4f17d328), CC BY 4.0 ✅; el icono plano no se comprobó ⚠️) |
 
 **Cómo no queda plano**
 - **La llama es la luz principal**: cálida y naranja sobre el mapa; todo lo
@@ -2023,6 +2096,18 @@ convertido en **PONERTE ROL / QUITARTE ROL**, y una lista con cursor ▶
 como el menú «¿TU NOMBRE?» ✅. Cada rol, una fila con su emoji. Pantalla
 dentro del monitor real, con reflejo de la ventana: no un panel suelto.
 
+### Lo que cambió en la segunda pasada
+- **A** queda **confirmada por el capítulo real** (el soporte en
+  triángulo con el hueco, la Pokébola del rayo con destello) y ya tiene
+  modelo con licencia comprobada, textura de etiqueta CC0, Oak con
+  esqueleto y los hex del brazo de Ash.
+- **B** gana una pose base mirada (nº147) y el Ash con esqueleto.
+- **C** no cambia; su caja de Rojo Fuego sigue sin marco comprobado ⚠️.
+- Idea que queda para **otra lámina**, no para #autoroles: **Ash de
+  espaldas con los brazos abiertos bajo la lluvia** (capítulo 1, ≈18:23),
+  la pose más fuerte que se vio. Es drama, y este canal es de mañana y
+  bienvenida.
+
 ### ¿Cuál primero?
 **A.** Es el objeto del plan, es la escena que todo fan reconoce, tiene la
 broma de la Pokébola «con problema» y el ▼ que apunta a las reacciones.
@@ -2032,20 +2117,37 @@ C es la más bonita de luz. B es la más sencilla de montar.
 
 ## 20 · Lo que no pude verificar
 
-- **Fotogramas**: no vi ni el capítulo 1 ni la película. Los minutos de la
-  película salen de un **subtítulo no oficial**. Los del capítulo 1, **sin
-  verificar**.
-- **Hojas de contacto** y galerías de la wiki: sin red.
-- **Licencias exactas de Sketchfab**: según el buscador; hay que abrir
-  cada página.
-- **Colores de Ash, de Oak y del rayo de la Pokébola**: sin medir.
-- **Marco de la caja de Rojo Fuego**: sólo comprobé los colores de la
-  letra.
-- **Voz latina de la Pokédex** y de «¿Quién es ese Pokémon?»: no
-  encontradas.
-- **Óscar Roa** como cantante del opening: probable, no confirmado.
-- **«Pokébola»**: una fuente clara (WikiDex).
-- **Encuesta de popularidad latinoamericana**: no existe o no la encontré.
+**Resuelto en la segunda pasada** (antes estaba aquí): el capítulo 1 se
+miró; hay hojas de contacto; las licencias de Sketchfab se comprobaron por
+su API; se midieron los colores de Ash y del logo; Óscar Roa y «Pokébola»
+tienen dos fuentes; la voz infantil de «¿Quién es ese Pokémon?» no fue fija
+(no es un hueco).
+
+**Sigue sin verificar** ⚠️
+- **Fotogramas en 1080p**: YouTube pedía iniciar sesión; el capítulo 1 se
+  vio en 480p (su calidad original). La película de 2017 **no se vio**: sus
+  minutos siguen saliendo de un subtítulo no oficial.
+- **El minuto latino exacto** del laboratorio: los minutos son del
+  capítulo en inglés; el latino puede moverse 2-5 s.
+- **Ash girando la gorra**: sin clip limpio (TikTok no se deja bajar).
+- **El molino de viento** del laboratorio: sólo en la wiki.
+- **La etiqueta en katakana** de cada Pokébola del laboratorio: ilegible a
+  480p.
+- **Colores de Oak** (pelo, camisa), del **verde oscuro del guante** de
+  Ash y del **rayo** de la Pokébola: sin un render grande y limpio.
+- **Marco de la caja de Rojo Fuego**: sólo están los colores de la letra.
+- **Voz latina de la Pokédex**: sólo Rubén León en tres capítulos.
+- **Pikachu hablando en el capítulo 17**: Ana Lobo o Claudia Motta (la
+  wiki dice las dos).
+- **El capítulo 18 doblado** de Internet Archive: no se oyó entero.
+- **Caras de rabia, tristeza, miedo y vergüenza** con fotograma y minuto.
+- **Escenas que hacen llorar** (capítulo 39, Butterfree): sin mirar ni
+  minuto.
+- **Efectos de sonido** (bip de la Pokédex, captura): sin transcribir de
+  oído.
+- **Encuesta latinoamericana de personajes humanos**: no existe o no la
+  encontré.
+- **Fondos oficiales en alta**: sólo el de MEGA, sin poder medirlo.
 - **El país**: ¿reacción aquí o en Canales y roles? Lo decide el dueño.
 - **La lista real de roles** (colores, países, talentos): no está en el
   inventario.
@@ -2201,3 +2303,74 @@ _(pendiente)_
 - Entrevistas originales del staff sobre el laboratorio o el capítulo 1.
 - Nada de Reddit: el buscador lo rechaza y Arctic Shift da 403.
 - Búsquedas en chino: no hechas.
+
+### Segunda pasada (24-sep-2026, red abierta, equipo de 4 + redactor)
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- Ya hecho por `recolectar.py`, sin repetir: AniList, Fandom (Pikachu, Ash
+  Ketchum), Wallhaven, Sketchfab, Openverse.
+- `investigar_serie.py`: 4 hojas, 180 imágenes; 3 guardadas en `hojas/`.
+- APIs sin gastar buscador: **Sketchfab** (`/v3/models/<id>`, 9 modelos),
+  **ambientCG** (papel y cartón CC0), **pokemon.fandom.com** (tamaños de
+  medallas, logo, Ash y Oak), **Bulbapedia** `action=parse` (Cosplay
+  Pikachu; la web normal da 403).
+- Colores medidos con Pillow sobre `Ash_anime_The_Beginning.png`.
+- Buscador (en inglés y español, 17): fondos oficiales de pokemon.co.jp ·
+  Van Gogh Museum · hex de la chaqueta de Ash · Cosplay Pikachu ·
+  colaboraciones Uniqlo, Van Cleef, Gucci · globo de Macy's · tramas de
+  Clip Studio · Pokémon Café y Detective Pikachu · Crocs, Starbucks, New
+  Era, Build-A-Bear · cosplay de Ash · manga *Pocket Monsters* y
+  *Adventures* · portada del tomo 1 de Mato · Blu-ray de Kanto · CD
+  «Mezase Pokémon Master» · ropa de Ash por región · logo del Rocket ·
+  Pokémon Café de Nihonbashi.
+- Bloqueado: pokemon.com (anti-bot), Wayback sin copia de la página de
+  fondos.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- **Internet Archive** (API de metadatos): el capítulo 1 real; dos recortes
+  por rango HTTP con ffmpeg, sin bajar los 97 MB; `fotogramas.py --cortes`
+  (94 y 76 fotogramas).
+- **Dailymotion** (API de búsqueda): opening, ending oficial, ending de
+  fans, tráiler de Rojo/Azul y lema del Rocket, con `fotogramas.py`.
+- `estilo.py` en 4 fotogramas. Bulbapedia EP001 por su API. Doblaje Wiki
+  por su API (`Óscar_Roa`, `Pokémon/Música`).
+- Fallaron: **YouTube** (pide iniciar sesión), **TikTok** (un intento),
+  **AnimeThemes** (error 522). **Sin buscador web**.
+
+**Voz** (puntos 7, 8, 12, 13, 20, 21, 22)
+- **Doblaje Wiki** por su API: página `Pokémon` completa y 11 audios `.ogg`
+  transcritos y medidos con `voz.py`.
+- **Bulbapedia** por su API: Ash, Misty, Brock, Jessie, James, EP018 y
+  EP039. **Wikipedia en español** por su API (estreno en Cartoon Network).
+- **Internet Archive** (búsqueda en español): el capítulo 18 doblado.
+  **Arctic Shift** (r/pokemon, «saddest episode»; el segundo intento dio
+  límite de velocidad).
+- Buscador (13): en español, Gerardo del Valle, Alejandro Villeli,
+  Patricia Hannidez, Bernardo López, Ana Lobo, encuesta latinoamericana,
+  estreno de 1999, «¡A la carga!», fandubs, memes del Rocket, por qué la
+  aman; en inglés, fichas de Ash, Misty y Brock, Butterfree, «Pikachu's
+  Goodbye».
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25)
+- Buscador en inglés (13): OLM, Ken Sugimori, entrevista de Tajiri en
+  TIME, rig de Pikachu, planos de reacción, Blender Freestyle y Solidify,
+  TV Tropes, Pokébola, lema latino, género de criaturas, Digimon contra
+  Pokémon, hex del logo, Pokémon Solid e IPBP. En japonés (1):
+  «ポケモン アニメ 制作 セル画 デジタル彩色 OLM 作画».
+- **Sketchfab** por su API: Pikachu, Ash, Oak y Charmander con esqueleto.
+- **GitHub**: se clonó `tjklint/PokePC` para comprobar `Pokemon_Solid.ttf`
+  con fontTools. `cairosvg` para medir el SVG del logo.
+- **Interface In Game** (200) sirvió; **Game UI Database** y **Wayback**,
+  403 (dos intentos). Bulbapedia, TCRF y pokemon.fandom.com por curl
+  directo: 403.
+
+**Lo que NO encontré en la segunda pasada**: hojas de modelo del anime;
+fondos oficiales en alta más allá de MEGA; portada del tomo 1 de
+*Adventures* y PNG del logo del Rocket con enlace directo; cosplay
+premiado de Ash; colaboración con Fortnite, gachas o New Era; entrevista
+sobre filtros de la animación; la entrega exacta de OLM Asia con Clip
+Studio; cita del director Kunihiko Yuyama sobre el color; cumpleaños y
+comidas oficiales de Ash, Misty y Brock; encuesta latina de personajes
+humanos; minuto de los capítulos 39 y de Butterfree. **Búsquedas en
+coreano o chino**: no se hicieron en esta pasada (una en coreano en la
+primera: Namuwiki).

@@ -138,3 +138,78 @@ final «Estoy satisfecho con mi cuidado» de Hiro (no encontré ese tramo —el
 clímax— doblado en Dailymotion ni Internet Archive): queda ✅ por dos fuentes
 de texto (audiofrases, TikTok) pero ⚠️ de oído.
 
+## 3 · Cómo se expresan: voz medida, no de oído (punto 13)
+
+Medido con `herramientas/voz.py` sobre los mismos clips doblados de arriba
+(registro en Hz, expresividad en semitonos, velocidad en palabras/segundo).
+Sirve para que el redactor no describa las voces «de memoria»:
+
+| Personaje | Clip · minuto | Registro | Expresividad | Velocidad | Lectura |
+|---|---|---|---|---|---|
+| **Baymax** | [x5hvz3y, 0:52-0:55](https://www.dailymotion.com/video/x5hvz3y?t=52) | medio, 150 Hz | 13,3 semitonos (la más baja medida) | normal, 2,42 pal/s | ✅ confirma «voz plana y suave»: es el personaje **menos expresivo** de los tres medidos, coherente con su carácter de robot educado y sin prisa |
+| **Hiro** | [x2hry42, 0:04-0:11](https://www.dailymotion.com/video/x2hry42?t=4) | agudo, 268 Hz | 24,3 semitonos | normal, 2,45 pal/s | ✅ voz aguda de adolescente, bastante expresiva: encaja con el «listo, algo burlón» que ya decía la biblia (Memo Aponte, ya adulto, dobla con un timbre juvenil) |
+| **Wasabi** | [x2hry42, 3:29-3:35](https://www.dailymotion.com/video/x2hry42?t=209) | medio, 186 Hz | 22,8 semitonos | **muy rápida, 4,1 pal/s** — la más rápida de las tres | ✅ nuevo: Wasabi habla atropellado cuando defiende su manía del orden, coherente con su lado ansioso |
+| (la escena completa, con varias voces) | [x889whz, tráiler](https://www.dailymotion.com/video/x889whz) | medio, 164 Hz | 30,7 semitonos | normal, 2,74 pal/s | ⚠️ promedio de todo el tráiler (varias voces mezcladas), no de un solo personaje — sirve sólo como referencia general del tono del doblaje, muy expresivo de punta a punta |
+
+- **Tadashi** (Alexis Ortega): en los clips oídos habla pausado y cálido con
+  Hiro («¿Hasta cuándo harás algo de valor con esa mente brillante?», minuto
+  1:26 de x2hry42) — tono de hermano mayor paciente, sin medir su registro
+  aislado (se mezcla con la respuesta de Hiro en el mismo segundo).
+- **GoGo** (Erika Ugalde): frase cortante «Fred, no me hagas callarte con mi
+  láser» (minuto 3:01 de x5hvz3y), dicha rápido y seca — encaja con «la
+  seria» que ya decía la biblia, aunque no se midió su registro por separado
+  (se solapa con la réplica de Fred).
+- Esto **confirma con oído real** lo que la biblia describía de memoria en el
+  punto 9 (Baymax «voz plana y suave», Hiro «rápido, listo»): pasa de ⚠️ a ✅.
+
+## 4 · Popularidad: números frescos, abiertos de verdad (punto 7)
+
+La primera pasada citó la encuesta japonesa **みんなのランキング** («ranking.net»)
+de memoria, «vista por el buscador, sin abrir la página» (quedó ⚠️). La abrí
+entera hoy (24-sep-2026; la página se actualiza sola y dice
+«última actualización: 2026/09/21»):
+
+| Puesto | Personaje | Puntos | Evaluadores | Seiyū (JP) |
+|---|---|---|---|---|
+| 1.º | **Baymax** | 97,4 | 99 | 川島得愛 |
+| 2.º | Hiro | 90,9 | 70 | 本城雄太郎 |
+| 3.º | **GoGo** | 80,2 | 44 | 浅野真澄 |
+| 4.º | Tadashi | 79,5 | 47 | 小泉孝太郎 |
+| 5.º | **Mochi (el gato)** | 79,4 | 25 | — |
+
+✅ (abierto directamente, no de resumen) [ranking.net](https://ranking.net/rankings/best-baymax-characters).
+Los números cambiaron un poco frente a lo que decía la primera pasada
+(97,9/86 votos para Baymax; ahora 97,4/99): es normal, la web sigue recibiendo
+votos. **Confirma lo mismo que ya decía la biblia: Baymax gana con claridad**,
+y añade un dato curioso para el punto 12 (fandom): **hasta el gato Mochi
+queda mejor valorado que varios humanos** del reparto.
+
+- La encuesta de Fanpop que ponía a Honey Lemon primero sigue siendo la
+  opinión de un solo usuario, no una encuesta con votos ([Fanpop](https://www.fanpop.com/clubs/big-hero-6/articles/252355/title/review-big-hero-6-characters)):
+  ⚠️ confirmado que sigue siendo así (no hay conteo de votos en esa página).
+- No hay encuesta oficial de Disney por personajes: repetí la búsqueda
+  («Big Hero 6 official character popularity poll Disney», «ビッグヒーロー6
+  人気投票 公式») y sigue sin aparecer ninguna. Se mantiene el «no encontré».
+
+## 5 · Fandom y qué NO hacer: confirmado (punto 12)
+
+La sección 14 de `biblia.md` ya estaba sin ⚠️ (fue de las mejor confirmadas en
+la primera pasada). Repasé sus fuentes:
+
+- La cita de TV Tropes (Memes y Funny) sigue viva:
+  [Memes/BigHero6](https://tvtropes.org/pmwiki/pmwiki.php/Memes/BigHero6),
+  [Funny/BigHero6](https://tvtropes.org/pmwiki/pmwiki.php/Funny/BigHero6) ✅.
+- El TearJerker de TV Tropes (que la biblia no había citado) añade el
+  «no hacer» que falta: **no aligerar el funeral de Tadashi** ni la escena en
+  que Hiro ve los vídeos del taller de su hermano y dice «supongo que no soy
+  como mi hermano» — es uno de los momentos más citados como tearjerker ✅
+  ([TearJerker/BigHero6](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/BigHero6),
+  visto por buscador: TV Tropes bloqueó el acceso directo, 403, dos intentos).
+- Nuevo para «qué NO hacer»: **el chiste bilingüe de Fred** («Bienvenidos a
+  my house») sólo funciona en español — doblarlo *todo* en inglés (como
+  hicieron en España, «Bienvenidos a mi casa» sin mezcla) le quita la gracia
+  ✅ (confirmado de oído en el punto 2, y por el wikitext de Doblaje Wiki:
+  «en su versión doblada se podría decir que fue al revés»).
+- La tabla del dolor sigue con pines y mercancía real: reconfirmado sin
+  cambios ([Hot Topic](https://www.hottopic.com/product/disney-big-hero-6-baymax-pain-scale-3-pin/10396449.html)).
+
