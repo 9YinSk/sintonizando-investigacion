@@ -151,3 +151,68 @@ Datos de la voz: registro (grave/medio/agudo), expresividad en semitonos
   frases de arriba son the únicas frases del doblaje que pude verificar
   textualmente con audio real. `Sigue` si otra sesión logra bajar subtítulos
   `es-419` de un clip oficial de las plataformas.
+
+---
+
+## Punto 12 · Lo que ama el fandom, y qué NO hacer
+
+### 12.1 Memes y chistes internos que todo fan reconoce
+
+- **«OK»**: Boros, malherido, le explica a Saitama que su armadura sellaba su
+  poder; Saitama sólo responde «OK» (manga cap. 34; en el anime T1-12, ya
+  citado en biblia §2.1 ítem 13). Es el meme más repetido de la serie.
+  Fuente: [Know Your Meme, «Saitama OK»](https://knowyourmeme.com/memes/saitama-ok)
+  (200 OK, verificado que la página existe) ✅.
+- **«¿Y esta niña perdida tan insolente?»**: Saitama confunde a Tatsumaki (una
+  de las heroínas más poderosas) con una niña perdida (T1-10, biblia §2.1
+  ítem 12). Fuente: [Know Your Meme, «What's with this sassy lost child»](https://knowyourmeme.com/memes/whats-with-this-sassy-lost-child) ✅.
+- **El súper y el día de oferta**: Saitama mata a un villano porque llega
+  tarde a la oferta del supermercado (T1-01 y T1-03, biblia §2.1 ítems 3-4).
+  Es tan reconocido que la exposición oficial del 10.º aniversario vendió
+  entradas «día de oferta» con descuento (biblia §2.1 ítem 4) ✅.
+- **King, el farsante querido**: todo el mundo lo cree el más fuerte del
+  mundo y en realidad es un cobarde que sólo estaba en el lugar correcto en
+  el momento correcto; el gag de fondo es el «motor de King» (un sonido de
+  tambores que la gente confunde con su poder, en realidad es su corazón
+  acelerado de miedo). Fuente: ficha de King, Personality (wiki EN) ✅.
+- **Mumen Rider como «meme con respeto»**: se le suele usar en internet como
+  chiste de «el más débil», pero el fandom insiste en que **no es una burla
+  cruel**: sus memes van siempre acompañados de admiración porque, pese a no
+  tener poderes, jamás huye. Fuente: goosebump-moments thread de Reddit
+  (comentarios sobre él, ver punto 21) y la propia ficha de Satoru (wiki) ✅.
+- **Genos explotando/perdiendo brazos**: chiste recurrente de que Genos
+  termina hecho pedazos en cada pelea mientras Saitama gana de un golpe.
+  Fuente: hilo de Reddit «Why is Genos always given some of the strongest
+  enemies to fight?» (800 votos, 118 comentarios, en `datos-voz.md`) ✅.
+- **El cameo de Tatsumaki en Mob Psycho 100** (mismo autor, ONE): los fans de
+  ambas series lo reconocen al instante (cap. 8 de Mob Psycho 100). Fuente:
+  ficha de Tatsumaki, Trivia (wiki EN) ✅.
+- **Reparto compartido con Mob Psycho 100 en el doblaje latino** (ya en
+  biblia §10.2: Manuel Campuzano, Carlos Siller…): el fandom hispano de
+  doblaje sí lo nota y lo comenta (TierraGamer lo señala como dato curioso) ✅.
+
+### 12.2 Qué NO hacer (para no romper el tono ante un fan)
+
+- **No dibujar a Saitama con cara de héroe clásico o sonrisa "de acción"
+  constante**: su gracia está en la cara **inexpresiva** («ojos entornados,
+  sin brillo») incluso peleando; el propio wiki dice que su poder lo volvió
+  «indiferente» y que sus emociones «se apagaron» (frase que él mismo dice,
+  punto 8). Ponerle gestos exagerados de esfuerzo lo desvirtúa.
+- **No convertir a Genos en un personaje cómico o relajado**: es «un
+  personaje extremadamente serio, casi nunca bromea» (ficha de Genos); su
+  humor viene de que ÉL no sabe que hace de contraste con Saitama, no de que
+  actúe gracioso a propósito.
+- **No dibujar a Tatsumaki como una niña**: aunque su cara «parece de
+  adolescente» y muchos la confunden con menor que Fubuki (siendo 5 años
+  mayor), la propia wiki insiste en que tiene 28 años y odia que la llamen
+  «niña» o «mocosa» — es justo lo que ella detesta que le hagan. Fuente: ficha
+  de Tatsumaki, Personality y Trivia ✅.
+- **No hacer de Mumen Rider un chiste sin dignidad**: el fandom lo quiere
+  *porque* es el más débil que nunca se rinde, no como blanco de burla vacía.
+- **No confundir los nombres del doblaje latino** (ya avisado en biblia
+  §10.2): en latino es «Tornado» (Tatsumaki) y «Ventisca» (Fubuki), no sus
+  nombres japoneses; y Genos dice «sensei», no «maestro».
+- **No perderse el contraste de registro**: la serie mezcla comedia absoluta
+  (el súper, los memes) con momentos muy serios (el monólogo de Saitama sobre
+  perder sus emociones, la infancia de Tatsumaki, punto 21); una lámina que
+  sea sólo "graciosa" o sólo "épica" pierde la mitad del tono real de la obra.
