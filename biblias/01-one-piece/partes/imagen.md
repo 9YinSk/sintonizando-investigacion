@@ -324,9 +324,22 @@ que sigue siendo el cartel de SE BUSCA (arte.md, punto 1).
 - **Comprobado y descartado**: `freesvg.org` sí es CC0 (leído el `<meta
   license>` de la página); la ficha del BAPE OGP no traía una imagen de
   producto usable (era el logo genérico de la tienda).
-
-Sigue: si hay más tanda, medir con `estilo.py` los 6 recortes de `p19/` que
-faltan (zoro_haramaki —parece mal etiquetado, son botellas de sake, revisar—,
-morgan, nekomamushi, roger_O11, chopper_manga, nami_manga) y confirmar su
-página exacta del manga; y, si da tiempo, un fondo de pantalla oficial más
-reciente (Elbaph) si `one-piece.com` publica alguno.
+- **Segunda tanda (imagen, punto 19 y wallpaper Elbaph)**: `estilo.py` sobre
+  los 6 recortes que faltaban de `p19/` (salida en `p19/estilo2/estilo.json`).
+  API de `onepiece.fandom.com/api.php`: `generator=allimages` (prefijos
+  `Nekomamushi`, `Morgan`, `Sake`) para localizar el archivo exacto por
+  dimensiones, `action=parse&prop=wikitext` sobre 5 páginas de archivo
+  (`Nekomamushi Manga Infobox`, `Morgan Manga Infobox`, `Gol D. Roger Wanted
+  Poster`, `Tony Tony Chopper Manga Pre Timeskip Infobox`, `Nami Manga Pre
+  Timeskip Infobox`, `Roronoa Zoro Manga Pre Timeskip Infobox`) para sacar su
+  ficha `Source` (capítulo/tomo), y `prop=imageinfo` por lotes para las URL y
+  el tamaño real. **Wiki japonesa** (`onepiece.fandom.com/ja/api.php`,
+  confirmada que existe y responde): comprobadas `斧手のモーガン`,
+  `ゴール・D・ロジャー` (páginas existen pero con la plantilla de personaje
+  vacía, sin capítulo) y `ネコマムシ` (no existe con ese título) · sin
+  resultado, pero comprobado en las dos wikis como pide el encargo. Imágenes
+  miradas con `Read`: los 6 recortes nuevos y, para comparar,
+  `zoro_manga.png` completo (confirmó que `zoro_haramaki.png` era un recorte
+  de botellas de sake, no del haramaki). **1 búsqueda en japonés** (WebSearch):
+  «one-piece.com 壁紙 エルバフ プレゼント» (sin wallpaper, sólo merchandising).
+  **1 `curl`** a la portada de `one-piece.com` con `grep -i wallpaper`.
