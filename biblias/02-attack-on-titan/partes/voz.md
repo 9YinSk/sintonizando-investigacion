@@ -204,6 +204,19 @@ la wiki en inglés y digo cuándo es traducción nuestra.
   dilema y la muerte). Minuto exacto de la muerte: **no lo verifiqué** con
   subtítulos con marca de tiempo (⚠️ — lo que sigue es la escena completa,
   confirmada por episodio, no por minuto).
+- **Minuto exacto, ya verificado ✅** — subtítulos japoneses de Netflix del
+  mismo espejo de kitsunekko en GitHub que usa la biblia en su §3 (`git clone
+  --filter=blob:none --sparse` + `sparse-checkout set subtitles/anime_tv`),
+  archivo [`Shingeki no Kyojin 3 Part 2/進撃の巨人.S04E55.白夜.WEBRip.Netflix.ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin%203%20Part%202):
+  **19:08-19:20** es el delirio con su «profesor» (su padre, en el recuerdo)
+  — «先生…壁の外に人類がいないって… どうやって調べたんですか？» («Profesor…
+  ¿cómo supo que no hay humanidad fuera de los Muros?») — es el instante en
+  que «levanta la mano como un niño» de la sinopsis de arriba. **21:31-21:47**
+  es la despedida: con la sala vacía, Levi le habla al cadáver, «エルヴィン
+  獣をしとめる約束だが まだ先になりそうだ» («Erwin, lo de acabar con el Titán
+  Bestia… parece que tardará más»); a los 21:39 llega la confirmación «もう
+  死んだよ» («ya ha muerto») y a los 21:46 la respuesta «そうか» («ya veo») —
+  es la disculpa por no matar al Titán Bestia que ya cita la biblia.
 - **Qué pasa**: Floch trae a Erwin moribundo justo cuando Levi iba a usar la
   única inyección de titán para salvar a Armin (que agoniza tras comerse a
   Bertholdt). Eren y Mikasa se enfrentan a Levi por ella; Levi golpea a Eren
