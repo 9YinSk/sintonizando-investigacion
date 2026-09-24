@@ -7,8 +7,9 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
 
 - 37 Fullmetal Alchemist: Brotherhood: **COMPLETA** y subida (22:12). ✅16 ⚠️15 ❌0, 189 referencias, 52 webs.
 - 38 Sailor Moon: **COMPLETA** y subida (22:47). ✅23 ⚠️9 ❌0, 191 referencias, 54 webs.
-- 39 Saint Seiya: imagen, texto y video completos; voz en marcha.
-- 40-42: datos recolectados; a la espera. 43-47: recolectando por adelantado.
+- 39 Saint Seiya: **COMPLETA** y subida (23:31). ✅24 ⚠️8 ❌0, 223 referencias, 45 webs.
+- 40 Digimon Adventure: imagen, texto y video completos; voz relanzada (punto 13).
+- 41 Dandadan: imagen y texto en marcha. 42: datos recolectados, a la espera. 43-47: recolectados por adelantado.
 
 ## Avisos para el dueño
 
@@ -19,6 +20,10 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
   - ⚠️ **Choque triple**: 🎲 Juegos ya tiene a Ralph el Demoledor, #eventos a Phineas y Ferb, y #general-doblaje a Monsters, Inc. **y** ahora Fullmetal Alchemist (arriba). Hay que decidir orden de prioridad en los tres canales.
   - Por comprobar de oído: la frase de transformación en el doblaje latino (no está en las partes) y si «Usagi tonta… una hermana más capaz» (*Cosmos*, min. 1:12:00) la dice Shingo o la mamá (la parte de voz dice mamá, el redactor sospecha que es Shingo).
   - Punto 13 quedó ⚠️: faltan caras de vergüenza de Ami, Rei, Makoto y Minako (agotadas las 2 tandas del rol).
+- **39 Saint Seiya** propone 3 láminas: A #general-doblaje (la Pandora Box en casa de Seiya), B 🎭 Escenario (coliseo de la Guerra Galáctica), C #destacados (estatua de Athena bajo constelaciones, con Ikki).
+  - ⚠️ **Choque otra vez**: #general-doblaje ya lo piden Fullmetal Alchemist y Monsters, Inc.; 🎭 Escenario lo pide Sing; #destacados lo piden Sailor Moon y Super Mario Galaxy. Van 3 series (37, 38, 39) chocando por los mismos canales — conviene que el dueño decida de una vez el orden de prioridad.
+  - Punto 13 quedó ⚠️ (16 de 30 caras por emoción; vergüenza no aparece para ninguno de los 6, agotadas las 2 tandas).
+  - Ikki (no Seiya) es el más querido en AniList; Seiya se queda como protagonista del concepto por ser la voz del director del doblaje clásico (Jesús Barrero).
 
 ## Costos
 
