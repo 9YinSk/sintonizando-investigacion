@@ -8,8 +8,10 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
 - 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
 - 78 Vinland Saga: 4 investigadores COMPLETOS. Redactor (Opus) lanzado 22:33 UTC.
-- 79 Demon Slayer (paisajes y auras): 4 investigadores (Sonnet) en marcha desde 22:30 UTC.
-- 80-82: recolectando datos (gratis), con su wiki de Fandom.
+- 79 Demon Slayer (paisajes y auras): 4 investigadores COMPLETOS. Redactor (Opus) lanzado 22:48 UTC.
+- 80 Solo Leveling (el Sistema y las sombras): 4 investigadores (Sonnet) en marcha desde 22:48 UTC.
+- 81, 82: datos recolectados, listos para investigadores.
+- 83-87: recolectando datos por adelantado (gratis).
 
 ## Avisos para el dueño
 
