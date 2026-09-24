@@ -1,0 +1,802 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2030-GQvVYPEYkXCy.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Usagi Tsukino",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2367-KAExXjTB13mJ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rei Hino",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2825-d7HrsHjJgixD.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Makoto Kino",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2826-BwX3oCmxTo6A.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Minako Aino",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2366-IJmfKZoSYT3N.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ami Mizuno",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4013-pnQ2obKyW7Tv.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mamoru Chiba",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5407.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Luna",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5408-eh4f6CArQ8G8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Artemis",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8514-KhY9Lu4Frcol.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Zoisite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17010-nh0sC5kc9xvP.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Queen Serenity",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8513-MiIUQHWs74y6.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Nephrite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6870-XSkyv7S6Uzzt.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Naru Oosaka",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8515-NYM4kDPvdbWo.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kunzite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/8512.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jadeite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8511-FetY84D0aYCI.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Queen Beryl",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx530-O8q6KpJ244Qk.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/530.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/d/dc/UsaSettei8.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei8.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/9/9e/UsaSettei6.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei6.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/a1/UsaSettei5.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei5.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/0/0a/UsaSettei13.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei13.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/e/ea/UsaSettei12.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei12.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/c/cf/UsaSettei11.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei11.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/a3/UsaSettei10.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9359,
+  "alto": 6800,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei10.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/7/75/UsaSettei9.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 9330,
+  "alto": 6550,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei9.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/af/UsaSettei14.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 7015,
+  "alto": 4960,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei14.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/b/bc/UsaSettei7.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 4679,
+  "alto": 3400,
+  "que_es": "Usagi Tsukino / Sailor Moon (anime): UsaSettei7.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/b/b2/Image004.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 779,
+  "alto": 545,
+  "que_es": "Ami Jr.: Image004.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/9/9a/AmiJr.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 136,
+  "alto": 170,
+  "que_es": "Ami Jr.: AmiJr.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/f/f7/Bowandcrisis.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 90,
+  "alto": 72,
+  "que_es": "Ami Jr.: Bowandcrisis.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/4/4a/ReiHinoJr.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 136,
+  "alto": 170,
+  "que_es": "Rei Jr.: ReiHinoJr.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/a5/1_amlify_sound_with_odangos.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 628,
+  "alto": 459,
+  "que_es": "Makoto Hanmatsuura: 1 amlify sound with odangos.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/8/8c/Makoto_Hanmatsuura.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 165,
+  "alto": 300,
+  "que_es": "Makoto Hanmatsuura: Makoto Hanmatsuura.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/a6/Act47_Preview.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 200,
+  "alto": 150,
+  "que_es": "Act 47 - Farewell, Minako: Act47 Preview.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/1/15/TankoubonVol11Cover.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 1317,
+  "alto": 2065,
+  "que_es": "Luna (manga): TankoubonVol11Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/e/e1/TankoubonVol2Cover.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 1314,
+  "alto": 2030,
+  "que_es": "Luna (manga): TankoubonVol2Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/a/a2/Luna_cat_materials_collection_bird_rose.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 1717,
+  "alto": 1004,
+  "que_es": "Luna (manga): Luna cat materials collection bird rose.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/c/cf/Humanoid_Luna_sitting_on_the_moon_manga_art.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 960,
+  "alto": 1323,
+  "que_es": "Luna (manga): Humanoid Luna sitting on the moon manga art.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/d/d8/Manga_Luna_%28Vol1_P53%29.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 801,
+  "alto": 776,
+  "que_es": "Luna (manga): Manga Luna (Vol1 P53).jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/6/61/Manga_luna_human_profile.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 665,
+  "alto": 782,
+  "que_es": "Luna (manga): Manga luna human profile.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/c/c8/Artemis_and_Luna_as_Humans.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 554,
+  "alto": 652,
+  "que_es": "Luna (manga): Artemis and Luna as Humans.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/b/b0/Act_11_Usagi_Hugging_Luna_apologizing_manga.jpg",
+  "fuente": "Fandom sailormoon",
+  "ancho": 466,
+  "alto": 711,
+  "que_es": "Luna (manga): Act 11 Usagi Hugging Luna apologizing manga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/sailormoon/images/e/e0/Luna_manga_wearing_kakeru_ribbon_Princess_Kaguya.png",
+  "fuente": "Fandom sailormoon",
+  "ancho": 392,
+  "alto": 685,
+  "que_es": "Luna (manga): Luna manga wearing kakeru ribbon Princess Kaguya.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/462/f319b96e4ac6353743fec173d963ba342aa3291d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1006,
+  "que_es": "Fan art de tsukino_usagi (http://img1.sankakustatic.com/wp-content/gallery/safe-misc-vii/the-periodic-table-of-japanese-characters.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1359/98a265343448587a1c9da60ea9a5310ab3b68fc7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1500,
+  "que_es": "Fan art de tsukino_usagi (http://i2.pixiv.net/img-original/img/2015/01/26/19/02/23/48388745_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1225/3f658285602196c9dd122c161091c7bf7552b61e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1494,
+  "que_es": "Fan art de tsukino_usagi (https://www.pixiv.net/artworks/44834670)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 3043,
+  "que_es": "Fan art de tsukino_usagi (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1366/d8df69d6960357f1109c95c3de4db167874cfc42.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3332,
+  "que_es": "Fan art de tsukino_usagi (http://i4.pixiv.net/img-original/img/2015/02/07/19/05/23/48599967_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/656/75b305d2d87cf80d11042db15f7796e2bd168e4c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1789,
+  "que_es": "Fan art de tsukino_usagi (http://img35.pixiv.net/img/bebopdog/20780981_big_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/389/aa2433f915b58eeca280dad5346bb84a763116b9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1132,
+  "que_es": "Fan art de mizuno_ami (http://img28.pixiv.net/img/yukiusagi1983/10720114.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1211/58098eb64e2c7211f2c54c9fe18181bf274ee245.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 1800,
+  "que_es": "Fan art de mizuno_ami (http://i2.pixiv.net/img28/img/kenkinfuji/44353564.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1216/5259d072a511d6e2b49c289eb2276e5ca997844b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1145,
+  "que_es": "Fan art de mizuno_ami (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=44595152)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1967/b1d6e3d16546772f732e5e60ea0d38913efcdf07.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Fan art de mizuno_ami (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1405/e5da7c7bbcbe4088772ce0a27596063aec0a66ad.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 650,
+  "alto": 959,
+  "que_es": "Fan art de hino_rei (https://twitter.com/ccreayus/status/589012629676396544)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/194/6d30ee4bc0d0ef83037bf2a123f3b58303e6895e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 838,
+  "que_es": "Fan art de hino_rei (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=3218984)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/786/168dfa019b98da918bfe7bc1e06415097c9b96fb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 787,
+  "alto": 1182,
+  "que_es": "Fan art de kino_makoto (http://moepic2.moe-ren.net/gazo/detail/files/detail12379.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/510/2b5f7907e002d6f1a93d1b185da3b63d.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 429,
+  "alto": 300,
+  "que_es": "Fan art de kino_makoto (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1909/8afae93f30a8df781e0ad970131093c452323b27.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 950,
+  "alto": 839,
+  "que_es": "Fan art de aino_minako (http://i1.pixiv.net/img01/img/ballet9mecanique/33586887.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1347/4caf338d85d1f5b0badd58bb37b35f21d55165a5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 992,
+  "alto": 701,
+  "que_es": "Fan art de aino_minako (http://i4.pixiv.net/img-original/img/2015/01/05/17/54/21/48008551_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1084/1d17bfa2afb0547da9c0e9452bd839b9165fa2d8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 707,
+  "alto": 1000,
+  "que_es": "Fan art de aino_minako (http://i1.pixiv.net/img31/img/tim26221181/39627195.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1071/b87c53cd1c765df1c8fff9f45dcfee8bad439387.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1599,
+  "alto": 1950,
+  "que_es": "Fan art de aino_minako (http://i1.pixiv.net/img23/img/aruterra/39090749.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/645/6849a3114ed009749dfaad98dbaf8e3d02f27723.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 440,
+  "alto": 780,
+  "que_es": "Fan art de luna_(sailor_moon) (http://paulrobertson.mechafetus.com/coolcats02.gif)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1047/f3fc56ff522493ea88faaf0b7f0ea736e2937840.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1047,
+  "alto": 1171,
+  "que_es": "Fan art de luna_(sailor_moon) (http://i2.pixiv.net/img32/img/fhalei/37986796.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2893,
+  "alto": 2343,
+  "que_es": "Fan art de luna_(sailor_moon) (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27092465)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1250/41a55adf339afb66afaa2f37ec389447c0774356.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 600,
+  "que_es": "Fan art de luna_(sailor_moon) (http://i2.pixiv.net/img28/img/xxpocketxx/44519683.png?1405151482)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4063/da3fffa79ea81c3881baef2a13f2f605b23a9ed7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1771,
+  "alto": 1446,
+  "que_es": "Fan art de luna_(sailor_moon) (https://twitter.com/_hanarain/status/1606729941181419522)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1700/4ffdf4ad4e4117b106d26d8b6ccebe9c191457fb.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 919,
+  "que_es": "Fan art de sailor_moon (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56952539)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6013/5980008136_944492918d.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 375,
+  "alto": 500,
+  "que_es": "Usagi [Pullip Chelsea]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7156/6570625037_b41bec00cb.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 370,
+  "alto": 500,
+  "que_es": "Minako y Artemis",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6239/6232369395_b5a711901c.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 375,
+  "alto": 500,
+  "que_es": "Tsukino Usagi",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7171/6570624641_bb1b7a51cf.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 375,
+  "alto": 500,
+  "que_es": "Minako [Pullip Prupate]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6204/6074204464_a372b4ffd8.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 375,
+  "alto": 500,
+  "que_es": "Minako & Artemis",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7028/6639063821_d35e297767.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 197,
+  "que_es": "Sailor Planet Attack! <3",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7005/6639064389_2ae334b740.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 300,
+  "que_es": "ADAW 1/52",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7020/6413603875_18849ba5f2.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 378,
+  "alto": 500,
+  "que_es": "Usagi [Chelsea]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6207/6148365460_8416ede324_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Never say never~ Part 2",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6194/6148365686_b15506d91b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Never say never~ Part 1",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6073/6074204680_3f07f49f33.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 413,
+  "que_es": "*Dolly Dyptich Weekly 2011 29/52*",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6018/5979449795_c2f75854bd.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 375,
+  "que_es": "Usagi [Pullip Chelsea]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6130/5980007808_f99fcbbe05.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 313,
+  "alto": 500,
+  "que_es": "*Dolly Dyptich Weekly 2011 24/52*",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Platina~",
+  "origen": "recolectar.py"
+ }
+]
