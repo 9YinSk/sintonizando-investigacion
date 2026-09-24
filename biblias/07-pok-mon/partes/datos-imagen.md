@@ -4,7 +4,13 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Pokémon Evolutions» (ONA, parecido 0.63 con «Pokémon»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Profesor Oak» · fandom: no encontré la página de «iniciales» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: no encontré la página de «Profesor Oak» · fandom: no encontré la página de «iniciales» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none>
+
+## Portada y banner oficiales (AniList)
+_Fuente: https://anilist.co/anime/527_
+
+- Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png
+- Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg
 
 ## Pikachu: las imágenes más grandes de la wiki (158 en total)
 _Fuente: https://pokemon.fandom.com/wiki/Pikachu_
