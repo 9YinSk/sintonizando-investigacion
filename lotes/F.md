@@ -15,11 +15,6 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
 - Ningún encargo del lote F trae wiki de Fandom: las encontré a mano (lista en este archivo, abajo).
 
-## Costos
-
-| Serie | Rol | Modelo | Minutos | Tokens |
-|---|---|---|---|---|
-
 ## Wikis de Fandom del lote
 
 - 77-wistoria-wand-and-sword: `wistoria`
@@ -42,3 +37,9 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 94-a-lull-in-the-sea-nagi-asu: `nagiasu`
 - 95-blue-period: `blue-period`
 - 96-bubble-netflix: `bubble`
+
+## Costos
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 77-wistoria-wand-and-sword | video | sonnet | 13 | 177307 |
