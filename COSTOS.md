@@ -28,3 +28,4 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | imagen (19, 23) | Sonnet | 12 | 217 107 | 77 acciones, una tanda sin «Sigue:»; 21 referencias, 27 webs; figuras y cosplay |
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | texto (5, 18, 24, 25) | Sonnet | 16 | 208 360 | 72 acciones, una tanda sin «Sigue:»; 5 letras libres comprobadas, 7 rigs CC-BY, 9 arcos |
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | voz (9, 13, 20, 21, 22), tanda 1 | Sonnet | 25 | 279 522 | 583 líneas, 11 referencias; 3 escenas que hacen llorar unidas por «Call of Silence»; «Sigue:» con sus minutos exactos |
+| 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
