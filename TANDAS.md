@@ -12,7 +12,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 - [x] 01-one-piece
 - [x] 02-attack-on-titan
-- [ ] 03-solo-leveling
+- [x] 03-solo-leveling
 - [x] 04-harry-potter
 
 ## Tanda S2
