@@ -772,7 +772,7 @@ De las fichas de la Disney Wiki en español y la Pixar Wiki (cajas de «le gusta
 - Magali Camacho, 25 años: «Rescata mucha esencia de lo que es la tradición, las ofrendas, la importancia de los muertos para los mexicanos.»
 - Francisco Eguren, programación de Cinemex: «Una película que crezca de 170 millones de pesos en el primer fin de semana a 206 en el segundo es histórico.» Lo relacionó con el ánimo del país tras los **sismos de septiembre de 2017**.
 - Fuente (AP en El Universal): https://www.eluniversal.com.mx/espectaculos/cine/por-que-coco-triunfo-en-mexico/
-- La crítica elogia que **evita el estereotipo** de Hollywood sobre el Día de Muertos: personajes auténticos, voces mexicanas, xoloitzcuintle, Frida Kahlo, cempasúchil ✅ https://www.cinepremiere.com.mx/coco-pixar-critica.html · https://www.radionica.rocks/cultura/cine-series/coco-pixar-hizo-del-dia-de-muertos-una-historia-universal
+- La crítica elogia que **evita el estereotipo** de Hollywood sobre el Día de Muertos: personajes auténticos, voces mexicanas, xoloitzcuintle, Frida Kahlo, cempasúchil ✅ https://cinepremiere.com.mx/coco-pixar-critica.html · https://radionica.rocks/cultura/cine-series/coco-pixar-hizo-del-dia-de-muertos-una-historia-universal
 - **Con quién se identifica el público:** más con **la tradición** (su ofrenda, sus muertos) que con un personaje; muchas reseñas cuentan que la película les hizo pensar en un familiar fallecido ⚠️ (reseñas sueltas, sin un artículo con autor).
 
 **Las escenas que hacen llorar** (minutos vistos en la película entera ✅)

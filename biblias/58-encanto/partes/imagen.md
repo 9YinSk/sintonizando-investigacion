@@ -199,6 +199,19 @@ poncho de rayas; el vestido magenta de Abuela con cuello alto. Confirmado en
 el color key oficial y repetido en **todas** las figuras/muñecas de la
 sección 6 (Funko Pop, Disney Store dolls, LEGO).
 
+**Peinados y accesorios** (visual, confirmado en los renders de perfil y
+repetido en ≥2 fuentes cada uno — hojas de contacto + merchandising):
+- Mirabel: pelo rizado corto castaño oscuro suelto, gafas redondas de montura
+  verde, aretes de pompón morado · ✅
+- Isabela: pelo largo lacio negro suelto con una flor pequeña rosa/lila
+  prendida sobre la oreja derecha, aretes dorados de gota · ✅
+- Luisa: pelo castaño oscuro recogido en un moño bajo con mechones sueltos,
+  lazo/cinta rojo como diadema · ✅
+- Bruno: pelo rizado negro largo y despeinado, barba de candado con bigote
+  poco poblado (look «ermitaño») · ✅
+- Abuela Alma: pelo gris/blanco recogido en moño bajo prolijo, aretes de
+  perla colgantes · ✅
+
 **Variantes por arco de la historia** (Encanto es una sola película, no
 temporadas; los cambios de vestuario son por escena):
 - Isabela tiene un vestido **alternativo azul** para su transformación en «What
@@ -397,11 +410,6 @@ volantes lila, tutorial centrado en el detalle floral (misma fuente) · ⚠️
 
 ## 8. No encontré
 
-- **Fondos de pantalla oficiales/de fans en alta, curados** (punto 16): no
-  hay banco tipo Wallhaven para Encanto (comprobado con la API, 0 resultados
-  en 3 búsquedas: «encanto», «madrigal», «mirabel»). Sustituto real: los
-  fotogramas 4K nativos del Blu-ray ya listados en `datos-imagen.md`.
-  ⚠️ (extra, no obligatorio: el punto se cumple igual con los fotogramas 4K).
 - **Modelo 3D libre y fiel de Casita** (punto 3): todos los resultados de
   Sketchfab con «casita»/«Encanto» son falsos positivos (comprobados uno por
   uno con la API, ver sección 2). No encontré una alternativa real; quedaría
