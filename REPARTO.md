@@ -21,7 +21,7 @@ cuenta se queda sin saldo, la siguiente sigue **el mismo lote**.
 
 ## Qué pegar en cada cuenta
 
-> Lee REPARTO.md. Eres el **lote X**. Corre `herramientas/juntar.sh` y `echo X > .lote`, instala lo de la skill serie-en-equipo y sigue con ella sólo con tu lote (`python3 herramientas/siguiente.py 5 --lote X`), en cadena. No toques ESTADO.md, DECISIONES.md, COSTOS.md ni TANDAS.md: tu estado, tus avisos para el dueño y tus costos van en `lotes/X.md`.
+> Trae la rama `claude/peaceful-maxwell-fklpkp` (`git fetch origin claude/peaceful-maxwell-fklpkp && git checkout -B <tu rama> FETCH_HEAD`) y lee REPARTO.md. Eres el **lote X**. Corre `herramientas/juntar.sh` y `echo X > .lote`, instala lo de la skill serie-en-equipo y sigue con ella sólo con tu lote (`python3 herramientas/siguiente.py 5 --lote X`), en cadena. No toques ESTADO.md, DECISIONES.md, COSTOS.md ni TANDAS.md: tu estado, tus avisos para el dueño y tus costos van en `lotes/X.md`.
 
 (cambia X por la letra). Después escribe `/model sonnet` en esa sesión.
 
