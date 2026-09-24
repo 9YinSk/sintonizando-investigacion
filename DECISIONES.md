@@ -17,6 +17,12 @@ aquí la línea de aviso de su informe. Cuando el dueño decida algo, se tacha
 - [ ] **Letra de los cuadros de Haikyuu**: Anime Ace no trae ¿ ni ¡; el ayudante
       la cambió por Comic Neue. ¿Vale?
 
+- [ ] **Cómo abaratar las biblias**: 8 investigadores gastaron unos 65 dólares en
+      25 minutos sin terminar One Piece. Opciones: (a) investigadores con un
+      modelo más barato (Sonnet) y sólo el redactor con el caro; (b) 2
+      investigadores en vez de 8; (c) repasos cortos, sólo lo que falta (puntos
+      18-25); (d) todo junto. ¿Cuál?
+
 ## 2. Oír o ver en persona (no se puede desde el servidor)
 
 Al ver el capítulo, anote serie, episodio, minuto y frase (p. ej. «Bocchi,

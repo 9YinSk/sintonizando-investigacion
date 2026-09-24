@@ -31,20 +31,18 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## En marcha (17:33 UTC, cuenta nueva)
+## Parado (18:00 UTC): el piloto de One Piece salió carísimo
 
-**Piloto del equipo de 8 con One Piece (01)**, lanzado a las 17:15 UTC. Cada
-investigador escribe en `biblias/01-one-piece/partes/<rol>.md` y `.json`
-(roles en `EQUIPO.md`, «Equipo de 8»): arte, fanart-3d, escenas,
-musica-videos, doblaje, personajes, dialogos, tecnica-mundo. Si se cortó:
-relanzar cada rol con el mensaje de la skill `serie-en-equipo` («si tu parte ya
-existe, sigue desde donde quedó») y, cuando estén los 8, el redactor, que
-**edita la biblia que ya hay** y añade los puntos 18-25.
-Medir: hora de inicio y fin de cada uno, para saber cuánto tarda el equipo.
-Se paró a las 17:30 UTC (límite de la cuenta) con las partes casi vacías (sólo el
-índice). **Relanzado entero a las 17:33 UTC** en la cuenta nueva; la medición
-(inicio, fin y tokens de cada investigador) se anota en `/tmp/claude-0/medicion_01.txt`
-y, al terminar, en esta sección.
+**Medición:** 8 investigadores durante 25 minutos (17:33-17:58 UTC) gastaron
+**unos 65 dólares** (dato del dueño) y ninguno terminó. A ese ritmo, una serie
+con 8 cuesta más de 100 dólares. Se paró todo para no gastar el resto.
+
+Lo que dejaron (guardado en `biblias/01-one-piece/partes/`, líneas): personajes
+346, doblaje 244, musica-videos 149, arte 133 (60 referencias), fanart-3d 89,
+dialogos 57, tecnica-mundo 30, escenas 29. Para seguir, relanzar cada rol «desde
+donde quedó» y luego el redactor (modo repaso).
+
+**Antes de relanzar, decidir cómo abaratar** (ver `DECISIONES.md` §1).
 
 Parados a medias (guardado, sin marcar): repaso 06-spy-x-family, 35-one-punch-man
 (≈450 líneas) y 36-hunter-x-hunter (esqueleto). Rehacerlos con el equipo.
