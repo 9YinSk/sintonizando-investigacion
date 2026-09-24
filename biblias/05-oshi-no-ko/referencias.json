@@ -1,344 +1,362 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg20.jpg",
-    "fuente": "GitHub · extensión B-Komachi (jacobjuarezguerra)",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Ilustración OFICIAL (lleva el copyright del comité): Ruby, Kana y MEM-cho de cuerpo entero con trajes de San Valentín, fondo de regalos y corazones.",
-    "para_que": "Recorte de Kana para el concepto C (índice junto a la cara, sonrisa pícara); poses de celebrar de MEM; paleta rosa y amarilla.",
-    "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Sólo referencia interna; no pegar en la lámina sin recortar y adaptar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg19.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Las tres de B小町 con el uniforme rojo del festival bajo láseres y focos; Kana en el centro señala a cámara, Ruby hace dos V, MEM guiña con la palma abierta.",
-    "para_que": "Pose de MEM (concepto A) y de Ruby (concepto B); luz de escenario; paleta del uniforme medida aquí.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg12.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 4096,
-    "alto": 2257,
-    "que_es": "Kana con micro señalando arriba, Ruby con la lengua fuera, MEM con cara «:3» y Akane de uniforme escolar detrás.",
-    "para_que": "Poses de presentar (Kana) y de explicar (MEM, mano en L); única imagen vista de Akane; paleta de Akane.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg11.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 4096,
-    "alto": 2244,
-    "que_es": "Primer plano de Kana con sombrerito y el texto «推しの子#11 よろしくお願い致します» (parece dibujo de staff para el ep. 11).",
-    "para_que": "Cara de Kana tranquila para saludar; estilo de brillo y bokeh.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg4.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 4096,
-    "alto": 2883,
-    "que_es": "San Valentín: Ruby, Kana y MEM tumbadas entre bombones y lazos.",
-    "para_que": "Ambiente dulce para el fondo del concepto A.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg10.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 4096,
-    "alto": 2897,
-    "que_es": "Año Nuevo: las tres en kimono con sombrilla.",
-    "para_que": "Variación de vestuario (no para estas láminas).",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg18.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 3857,
-    "alto": 2245,
-    "que_es": "Concierto: Kana en el centro con micro señalando a cámara, Ruby con el brazo arriba y MEM guiñando con una V junto al ojo; focos verdes y azules.",
-    "para_que": "Luz de directo para el concepto B; pose de animar de Kana.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg7.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 2658,
-    "alto": 1718,
-    "que_es": "Las tres saltando en el escenario, focos azules y barras de luz de colores.",
-    "para_que": "Energía de escenario; colores de las barras.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg5.jpg",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Kana riendo con los ojos cerrados, micro y V; Ruby guiña con el brazo arriba; MEM con cara feliz; confeti.",
-    "para_que": "Pose de celebrar de Kana.",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/BKomachiLogo.png",
-    "fuente": "GitHub · extensión B-Komachi",
-    "ancho": 128,
-    "alto": 128,
-    "que_es": "Icono de B小町 de la extensión.",
-    "para_que": "Referencia de logo del grupo (baja resolución).",
-    "licencia": "Origen sin verificar (guardada en una extensión de fans). Sólo referencia de pose y color."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/TheFabi8A/oshi-no-ko/HEAD/public/front-page/oshi-no-ko.webp",
-    "fuente": "GitHub · casete 3D de TheFabi8A",
-    "ancho": 2152,
-    "alto": 3044,
-    "que_es": "Key visual de Ai en el escenario: micro en la derecha, índice izquierdo a cámara, guiño, horquilla de conejito, vestido fucsia.",
-    "para_que": "Fotograma del monitor en el concepto B; paleta de Ai medida aquí; pose de presentar.",
-    "licencia": "Estilo oficial del anime, sin copyright visible. © de sus autores. Sólo referencia."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/TheFabi8A/oshi-no-ko/HEAD/public/screenshots/oshi-no-ko-open.webp",
-    "fuente": "GitHub · casete 3D de TheFabi8A",
-    "ancho": 1535,
-    "alto": 863,
-    "que_es": "Captura de una cinta de casete de Oshi no Ko abierta en 3D con capas (Atropos.js).",
-    "para_que": "Idea de objeto con capas y profundidad.",
-    "licencia": "Proyecto de fans; sin licencia de imagen declarada. Sólo referencia."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/TheFabi8A/oshi-no-ko/HEAD/public/back-page/ai.webp",
-    "fuente": "GitHub · casete 3D de TheFabi8A",
-    "ancho": 776,
-    "alto": 1200,
-    "que_es": "Fan art firmado de Ai con micro, guiño y lengua fuera, con su autógrafo.",
-    "para_que": "Pose alternativa de Ai; idea de autógrafo.",
-    "licencia": "Fan art firmado (autor sin identificar). Sólo referencia."
-  },
-  {
-    "url": "https://cdn.animenewsnetwork.com/images/encyc/A33662-2443054890.1767562958.jpg",
-    "fuente": "Anime News Network · ficha T3",
-    "ancho": 566,
-    "alto": 800,
-    "que_es": "Póster de la temporada 3.",
-    "para_que": "Estilo de la T3.",
-    "licencia": "© comité de producción. Sólo referencia."
-  },
-  {
-    "url": "https://cdn.animenewsnetwork.com/images/encyc/A28810-1387633428.1721856657.jpg",
-    "fuente": "Anime News Network · ficha T2",
-    "ancho": 550,
-    "alto": 780,
-    "que_es": "Póster de la temporada 2.",
-    "para_que": "Estilo de la T2.",
-    "licencia": "© comité de producción. Sólo referencia."
-  },
-  {
-    "url": "https://ichigoproduction.com/Season3/news/index00570000.html",
-    "fuente": "Web oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Visual principal de la T3 (Aqua y Ruby espalda con espalda) y PV 1.",
-    "para_que": "Aqua y Ruby oficiales.",
-    "licencia": "© comité. Sólo referencia."
-  },
-  {
-    "url": "https://ichigoproduction.com/Season3/news/index00540000.html",
-    "fuente": "Web oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Nuevas ilustraciones de personajes de la T3 (Ai, Aqua, Ruby, Kana, Akane, MEM).",
-    "para_que": "Hojas de personaje actuales.",
-    "licencia": "© comité. Sólo referencia."
-  },
-  {
-    "url": "https://x.com/anime_oshinoko/status/1894673764849508395",
-    "fuente": "X oficial del anime",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Carátula del BD 6 de la T2, Ruby y MEM, dibujo de Kanna Hirayama.",
-    "para_que": "Pareja Ruby y MEM en pose oficial.",
-    "licencia": "© comité. Sólo referencia."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=q4bzYqoFGvo",
-    "fuente": "YouTube · canal oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Kanna Hirayama dibuja a Kana (minuto sin verificar).",
-    "para_que": "Línea, color y orden de trabajo del estilo.",
-    "licencia": "© comité. Sólo para ver."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=CYxj4xCcGmI",
-    "fuente": "YouTube · canal oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Kanna Hirayama dibuja a Ai (minuto sin verificar).",
-    "para_que": "Ojos con estrella, brillos del pelo.",
-    "licencia": "© comité. Sólo para ver."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=QgIQbeRzkkc",
-    "fuente": "YouTube · canal oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Opening de la T3 sin créditos, «TEST ME» de CHANMINA.",
-    "para_que": "Fotogramas limpios en 1080p para pantallas.",
-    "licencia": "© comité. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/kienkzz/NanakoRaws-Anime-Japanese-subtitles",
-    "fuente": "GitHub · subtítulos japoneses T1",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos de la emisión de TV de los 11 episodios de la T1, con tiempos.",
-    "para_que": "Minuto exacto de cada escena (punto 4): ep. 1 18:00 y 21:36 (directo de Ai), 23:34 (Ruby), 43:15 y 47:26 (casting), 49:41 (Kana); ep. 7 11:16 (MEM); ep. 11 07:41 (Kana).",
-    "licencia": "Texto de terceros; sólo consulta."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156",
-    "fuente": "Sketchfab · aricshow",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de letrero ON AIR.",
-    "para_que": "Objeto del concepto B en Blender.",
-    "licencia": "CC Attribution según la búsqueda (comprobar). Crédito: «On Air Sign» de aricshow, Sketchfab."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/cc0-clapperboard-b541acf3a4f040f98b1bbf4137a66d09",
-    "fuente": "Sketchfab · plaggy",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de claqueta.",
-    "para_que": "Primer plano del concepto C.",
-    "licencia": "CC0 según el título (comprobar)."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738",
-    "fuente": "Sketchfab · Cookie",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de portapapeles.",
-    "para_que": "Soporte de la hoja de audición (concepto C).",
-    "licencia": "Descarga gratis; licencia sin verificar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/ring-light-fe2d9eda3939484ea10c3ebc4887c28a",
-    "fuente": "Sketchfab · Mehdi Shahsavan",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de aro de luz.",
-    "para_que": "Luz de borde del concepto A.",
-    "licencia": "Descarga gratis; licencia sin verificar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/glow-stick-e287b5f03d6d404198b7ed8c4cd91bc7",
-    "fuente": "Sketchfab · scbenoit",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de barra de luz (núcleo de color y funda transparente), hecho en Blender.",
-    "para_que": "Barras amarilla (MEM) y roja (Ruby) en los conceptos A y B.",
-    "licencia": "Descarga gratis; licencia sin verificar."
-  },
-  {
-    "url": "https://polyhaven.com/textures/paper-card",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Texturas PBR de papel y cartulina.",
-    "para_que": "Hoja de audición y pósit (concepto C).",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://polyhaven.com/a/painted_metal_shutter",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de persiana de metal pintado, gastada.",
-    "para_que": "Pasillo del plató (concepto B).",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://polyhaven.com/a/cardboard_box_01",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo de caja de cartón gastada.",
-    "para_que": "Primer plano del backstage (concepto B).",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://www.pixiv.net/en/artworks/109531606",
-    "fuente": "Pixiv (fan art)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art de Kana titulado «あんたの推しの子になってやる！».",
-    "para_que": "Cómo ven los fans la escena de la barra blanca.",
-    "licencia": "Fan art; autor sin verificar. Sólo referencia, nunca pegar."
-  },
-  {
-    "url": "https://www.pixiv.net/en/artworks/110449082",
-    "fuente": "Pixiv (fan art)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art de Kana con el traje de B小町 (2-ago-2023).",
-    "para_que": "Pose y traje.",
-    "licencia": "Fan art; autor sin verificar. Sólo referencia."
-  },
-  {
-    "url": "https://4kwallpapers.com/anime/oshi-no-ko-b-25258.html",
-    "fuente": "4kwallpapers",
-    "ancho": 4096,
-    "alto": 2883,
-    "que_es": "Fondo de pantalla de B小町 (Ruby, Kana, MEM).",
-    "para_que": "Fondo en alta; posible misma imagen que bg4.",
-    "licencia": "Arte con copyright; sólo referencia."
-  },
-  {
-    "url": "https://4kwallpapers.com/anime/ai-hoshino-oshi-no-16193.html",
-    "fuente": "4kwallpapers",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fondo de pantalla 4K/5K de Ai.",
-    "para_que": "Ai en alta para el monitor del concepto B.",
-    "licencia": "Arte con copyright; sólo referencia."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/hachimarupop/HachiMaruPop-Regular.ttf",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Letra Hachi Maru Pop (a mano, redonda). Trae á é í ó ú ñ ¿ ¡ 【 】 ★ ☆ ♡ (comprobado con fontTools).",
-    "para_que": "Notas de Kana (C) y cartulinas del regidor (B).",
-    "licencia": "SIL OFL."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/delagothicone/DelaGothicOne-Regular.ttf",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Letra Dela Gothic One (gótica muy gruesa). Trae á é í ó ú ñ ¿ ¡ 【 】 ★ ☆ ♡.",
-    "para_que": "Títulos entre 【 】, estilo del logo.",
-    "licencia": "SIL OFL."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/rocknrollone/RocknRollOne-Regular.ttf",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Letra RocknRoll One. Trae á é í ó ú ñ ¿ ¡ 【 】 ★ ☆ ♡.",
-    "para_que": "Rótulo de TV (telop) del concepto B.",
-    "licencia": "SIL OFL."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bizudpgothic/BIZUDPGothic-Bold.ttf",
-    "fuente": "Google Fonts (Morisawa)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Letra BIZ UDPGothic Bold, de impreso oficial. Trae á é í ó ú ñ ¿ ¡ 【 】.",
-    "para_que": "Impreso de la hoja de audición (concepto C).",
-    "licencia": "SIL OFL."
-  }
+ {
+  "url": "https://a.storyblok.com/f/178900/1000x1415/4edef43ef1/oshi-no-ko-visual.jpg",
+  "fuente": "Crunchyroll News en Español, anuncio del elenco latino (14-jul-2026), leído por su API de noticias",
+  "ancho": 1000,
+  "alto": 1415,
+  "que_es": "Key visual principal de la T1 sobre magenta con destellos: Ruby y Aqua con la «V» junto al ojo, Kana gritando con un guion morado abierto, MEM haciéndose un selfie con el móvil, Akane con el móvil, Ai con micro arriba",
+  "para_que": "Pose de MEM con el móvil (concepto A) y de Kana con el guion (concepto C); paleta magenta del cartel. Es el póster que usa Crunchyroll Latinoamérica",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://a.storyblok.com/f/178900/1920x1080/e768593236/oshi-no-ko-season-1.png",
+  "fuente": "Crunchyroll News en Español, mismo anuncio (14-jul-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma del ep. 1: Ai guiña con la lengua fuera y hace la «V», estrella en el ojo, fondo de conejos y huellas",
+  "para_que": "La pose más famosa de Ai (saludar, bromear); fondo de patrón para #en-directo",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/e/e0/Season_1_Key_Visual_2.png",
+  "fuente": "Key visual 2 de la T1 — Oshi no Ko Wiki (Fandom), archivo «Season 1 Key Visual 2.png», subido por Alpha1812 el 2024-03-24",
+  "ancho": 2152,
+  "alto": 3044,
+  "que_es": "Ai en el escenario: micro en la derecha, índice izquierdo a cámara, guiño (hoja P·1)",
+  "para_que": "Ai en el monitor del concepto B; color y brillo de referencia para la IA",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/5/5f/Season_1_Key_Visual.png",
+  "fuente": "Key visual 1 de la T1 — Oshi no Ko Wiki (Fandom), archivo «Season 1 Key Visual.png», subido por Alpha1812 el 2024-03-24",
+  "ancho": 2500,
+  "alto": 3535,
+  "que_es": "Ai de espaldas en un círculo de luz ante un mar de barras rojas, índice al cielo (P·2)",
+  "para_que": "Fondo de escenario de #en-directo; luz de focos",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/2/27/Newtype_2023_08_Poster.jpg",
+  "fuente": "Póster de la revista Newtype, agosto de 2023 — Oshi no Ko Wiki (Fandom), archivo «Newtype 2023 08 Poster.jpg», subido por Alpha1812 el 2023-07-13",
+  "ancho": 6080,
+  "alto": 4097,
+  "que_es": "B小町 con el uniforme rojo del festival, Kana al centro con micro (P·5)",
+  "para_que": "Uniforme rojo icónico en alta (6080 px); grupo",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/d/d3/Season_1_Key_Visual_5.png",
+  "fuente": "Key visual 5 de la T1 — Oshi no Ko Wiki (Fandom), archivo «Season 1 Key Visual 5.png», subido por Alpha1812 el 2024-03-24",
+  "ancho": 2000,
+  "alto": 2828,
+  "que_es": "Ruby, Kana y MEM en el escenario con focos y láseres (P·6)",
+  "para_que": "Fondo y luz de #en-directo",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/f/f3/Kana_Episode_5_by_makitamikan.jpg",
+  "fuente": "Dibujo de celebración del ep. 5 por makitamikan (staff de animación) — Oshi no Ko Wiki (Fandom), archivo «Kana Episode 5 by makitamikan.jpg», subido por MichiyoChiba el 2023-07-01",
+  "ancho": 1446,
+  "alto": 2048,
+  "que_es": "Kana con el índice derecho arriba, seria y un poco sonrojada (P·9)",
+  "para_que": "Pose de «explicar» de Kana en el concepto C",
+  "licencia": "Dibujo de un animador del staff subido a X; copyright del autor y del comité. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/0/00/Kana_Episode_11_by_urkbil126.jpg",
+  "fuente": "Dibujo de celebración del ep. 11 por urkbil126 (staff de animación) — Oshi no Ko Wiki (Fandom), archivo «Kana Episode 11 by urkbil126.jpg», subido por MichiyoChiba el 2023-07-01",
+  "ancho": 1510,
+  "alto": 952,
+  "que_es": "Kana en escorzo señalando a cámara con guante rosa, boca abierta (P·10)",
+  "para_que": "Pose de «animar»",
+  "licencia": "Dibujo de un animador del staff subido a X; copyright del autor y del comité. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/e/ee/Kana_Arima_Anime.png",
+  "fuente": "Render oficial de Kana — Oshi no Ko Wiki (Fandom), archivo «Kana Arima Anime.png», subido por AlwaysNever25 el 2023-02-19",
+  "ancho": 1600,
+  "alto": 4057,
+  "que_es": "Kana de cuerpo entero con el uniforme de Yōtō y boina, sobre verde (P·7)",
+  "para_que": "Recorte limpio; proporciones y colores sin luz de escenario (#83132C)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a7/Kana_Arima_Concept_Art.jpg",
+  "fuente": "Hoja de modelo oficial de Kana — Oshi no Ko Wiki (Fandom), archivo «Kana Arima Concept Art.jpg», subido por 742mph el 2024-05-11",
+  "ancho": 2048,
+  "alto": 1306,
+  "que_es": "Trajes y caras de Kana de frente y de lado",
+  "para_que": "Rasgos que nunca cambian (guía para IA, §17)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/5/58/Kana_Arima_Anime-POP_IN_2.png",
+  "fuente": "Render oficial de Kana con el traje de «POP IN 2» — Oshi no Ko Wiki (Fandom), archivo «Kana Arima Anime-POP IN 2.png», subido por Hoshi2 el 2025-03-01",
+  "ancho": 800,
+  "alto": 1479,
+  "que_es": "Kana con boina blanca, blusa con lazo amarillo y falda roja de lunares (P·11)",
+  "para_que": "Vestuario de la T2; recorte",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/f/f8/Volume_6_BD%26DVD.png",
+  "fuente": "Carátula del Blu-ray/DVD vol. 6 (T1), de Kanna Hirayama — Oshi no Ko Wiki (Fandom), archivo «Volume 6 BD&DVD.png», subido por Alpha1812 el 2024-09-18",
+  "ancho": 1906,
+  "alto": 2382,
+  "que_es": "MEM sentada con las piernas cruzadas, guiño y lengua fuera, su nombre gigante detrás (P·13)",
+  "para_que": "Diseño de cabecera para #redes: personaje delante de su nombre",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/7/7a/MEMVerifiedbyMengo.jpg",
+  "fuente": "Dibujo de Mengo — Oshi no Ko Wiki (Fandom), archivo «MEMVerifiedbyMengo.jpg», subido por AlwaysNever25 el 2021-09-22",
+  "ancho": 1804,
+  "alto": 2362,
+  "que_es": "MEM de rodillas saltando con insignias de «verificada» (P·14)",
+  "para_que": "Idea gráfica de #redes (insignias)",
+  "licencia": "Dibujo de Mengo Yokoyari (ilustradora del manga); copyright de la autora y Shūeisha. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/b/b0/MemchoRender.png",
+  "fuente": "Render oficial de MEM-cho — Oshi no Ko Wiki (Fandom), archivo «MemchoRender.png», subido por Liarinafire el 2026-05-07",
+  "ancho": 592,
+  "alto": 1712,
+  "que_es": "MEM de cuerpo entero con uniforme y chaleco negro, cuernos (P·16)",
+  "para_que": "Recorte; pelo rubio miel #E2A144",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/9/96/Idol_Ruby_by_pi_ro_ri.jpg",
+  "fuente": "Dibujo de celebración por pi_ro_ri (staff de animación) — Oshi no Ko Wiki (Fandom), archivo «Idol Ruby by pi ro ri.jpg», subido por MichiyoChiba el 2023-07-01",
+  "ancho": 2000,
+  "alto": 2048,
+  "que_es": "Ruby con el traje rojo, las dos manos abiertas a cámara y guiño (P·17)",
+  "para_que": "Pose de «invitar» de Ruby en el concepto B",
+  "licencia": "Dibujo de un animador del staff subido a X; copyright del autor y del comité. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/9/98/Ruby_recreating_the_pose_of_Ai.png",
+  "fuente": "Fotograma del anime — Oshi no Ko Wiki (Fandom), archivo «Ruby recreating the pose of Ai.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 1884,
+  "alto": 2048,
+  "que_es": "Ruby hace un corazón con las manos y guiña (la pose de Ai) (P·18)",
+  "para_que": "Pose de «celebrar»",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/b/b1/Season_3_Key_Visual_4.png",
+  "fuente": "Key visual 4 de la T3 — Oshi no Ko Wiki (Fandom), archivo «Season 3 Key Visual 4.png», subido por Alpha1812 el 2025-09-14",
+  "ancho": 1920,
+  "alto": 2715,
+  "que_es": "Ruby en un plató con croma verde, cámaras y micro en la mano (P·20)",
+  "para_que": "Sitio de #en-directo o #castings: plató real",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/6/63/Akane_Kurokawa_Anime.png",
+  "fuente": "Render oficial de Akane — Oshi no Ko Wiki (Fandom), archivo «Akane Kurokawa Anime.png», subido por AlwaysNever25 el 2023-03-25",
+  "ancho": 600,
+  "alto": 1550,
+  "que_es": "Akane de cuerpo entero, vestido azul, se coge la falda (P·22)",
+  "para_que": "Recorte; pelo azul pizarra",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/7/7e/ActorAkanebyMengo.jpg",
+  "fuente": "Dibujo de Mengo — Oshi no Ko Wiki (Fandom), archivo «ActorAkanebyMengo.jpg», subido por AlwaysNever25 el 2022-05-14",
+  "ancho": 1880,
+  "alto": 2074,
+  "que_es": "Akane imitando la «V» de Ai (P·27)",
+  "para_que": "Pose de Akane actriz",
+  "licencia": "Dibujo de Mengo Yokoyari (ilustradora del manga); copyright de la autora y Shūeisha. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/6/6b/%F0%9F%8C%9FToday%27s_broadcast_of_the_%F0%9F%8C%9F.png",
+  "fuente": "Cartón oficial de cuenta atrás «本日放送» («hoy se emite») — Oshi no Ko Wiki (Fandom), archivo «🌟Today's broadcast of the 🌟.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 1440,
+  "alto": 1080,
+  "que_es": "Cartón magenta con cartulina firmada por Rie Takahashi, chibi de Ai y franja negra «【推しの子】4.12水 ONAIR» (O·1)",
+  "para_que": "Modelo del concepto B (#en-directo): cartulina a mano + franja ON AIR",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/f/f8/%F0%9F%9A%A8The_TV_anime_that_will_be_live_just_before_the_emergency_%F0%9F%9A%A8.png",
+  "fuente": "Pizarra oficial de MEM para AnimeJapan — Oshi no Ko Wiki (Fandom), archivo «🚨The TV anime that will be live just before the emergency 🚨.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 2048,
+  "alto": 1536,
+  "que_es": "Pizarra en un atril: «MEMちょの AJステージ直前 突撃\"生\"インタビュー!» a rotulador con chibi de MEM (O·5)",
+  "para_que": "Cartulina de directo del concepto B",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/4/47/%F0%9F%8C%9FOver_100%2C000_Subscribers_%F0%9F%8C%9F.png",
+  "fuente": "Tarjeta oficial de celebración del canal de YouTube — Oshi no Ko Wiki (Fandom), archivo «🌟Over 100,000 Subscribers 🌟.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 1080,
+  "alto": 1885,
+  "que_es": "Tarjeta «100,820 チャンネル登録者数» con MEM chibi con los brazos abiertos (O·6)",
+  "para_que": "Pose de celebrar de MEM; formato de hito de #redes",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/2/28/Kana_x_IDOLM%40STER.jpg",
+  "fuente": "Colaboración oficial con IDOLM@STER Shiny Colors — Oshi no Ko Wiki (Fandom), archivo «Kana x IDOLM@STER.jpg», subido por MichiyoChiba el 2023-07-02",
+  "ancho": 1922,
+  "alto": 1079,
+  "que_es": "Caja de diálogo del juego con Kana: ventana blanca translúcida, pestaña de nombre, franjas roja y blanca (O·10)",
+  "para_que": "Caja de diálogo de videojuego real (alternativa al globo blanco)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/2/21/%F0%9F%8E%99Post-recording_report_%F0%9F%8E%99.png",
+  "fuente": "Aviso oficial «informe de doblaje» — Oshi no Ko Wiki (Fandom), archivo «🎙Post-recording report 🎙.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 2000,
+  "alto": 1125,
+  "que_es": "Cartel «アフレコレポート情報» con Yurie Igoma (Ruby) en la cabina con cámara (O·12)",
+  "para_que": "Formato oficial de doblaje para #castings",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/2/2f/DAILYNEWS_Extra.png",
+  "fuente": "Periódico ficticio promocional — Oshi no Ko Wiki (Fandom), archivo «DAILYNEWS Extra.png», subido por Owl Editor el 2023-04-20",
+  "ancho": 2897,
+  "alto": 4096,
+  "que_es": "Portada sensacionalista «DAILY NEWS» sobre Kana y el bicarbonato (O·13)",
+  "para_que": "Formato de noticia para #redes-y-novedades",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/e/eb/Arima_Kana_Episode_11._2.jpg",
+  "fuente": "Fotograma del ep. 11 — Oshi no Ko Wiki (Fandom), archivo «Arima Kana Episode 11. 2.jpg», subido por SkylaIntheStars el 2023-07-03",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kana enseña el móvil con un post, sorprendida (O·15)",
+  "para_que": "Pose con el móvil (#redes)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/7/79/Ep_21_B-Komachi_do_a_tour_of_Kana%27s_room.png",
+  "fuente": "Fotograma del ep. 21 (T2) — Oshi no Ko Wiki (Fandom), archivo «Ep 21 B-Komachi do a tour of Kana's room.png», subido por RAFaron el 2024-09-19",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Cuarto con dos aros de luz, micro de brazo y dos pantallas (O·16)",
+  "para_que": "Set de directo real de la serie (#en-directo)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/7/7d/Episode_15_Teaser_4.png",
+  "fuente": "Avance oficial del ep. 15 (T2) — Oshi no Ko Wiki (Fandom), archivo «Episode 15 Teaser 4.png», subido por Alpha1812 el 2024-07-22",
+  "ancho": 1200,
+  "alto": 675,
+  "que_es": "Kana sonriendo con un guion azul en la mano (O·18)",
+  "para_que": "Objeto de la mano de Kana en el concepto C",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/c/c3/Episode_11_Title_Card.png",
+  "fuente": "Cartela del ep. 11 — Oshi no Ko Wiki (Fandom), archivo «Episode 11 Title Card.png», subido por Alpha1812 el 2023-06-27",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Estrella negra de cinco puntas redondeadas sobre rombos rojo-rosa y blancos, «第十一話 アイドル» (O·19)",
+  "para_que": "Marco de título del concepto C (#E74D64)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/6/63/Episode_1_Title_Card.png",
+  "fuente": "Cartela del ep. 1 — Oshi no Ko Wiki (Fandom), archivo «Episode 1 Title Card.png», subido por Alpha1812 el 2023-05-11",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Logo 【推しの子】 en mincho negra con la «の» magenta y estrella de seis puntas (O·22)",
+  "para_que": "Medir la letra y el magenta #E70082",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/8/83/Ichigo_Productions_Anime.png",
+  "fuente": "Fotograma del anime (ficha de Ichigo Production) — Oshi no Ko Wiki (Fandom), archivo «Ichigo Productions Anime.png», subido por Alpha1812 el 2023-10-11",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Puerta azul noche con la placa «(株)苺プロ 斉藤» y una fresa (O·23)",
+  "para_que": "Sitio del concepto C",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/0/04/Lala_Lai_Theatrical_Company_Anime.png",
+  "fuente": "Fotograma del anime (ficha de Lalalai) — Oshi no Ko Wiki (Fandom), archivo «Lala Lai Theatrical Company Anime.png», subido por RAFaron el 2024-07-04",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sala de ensayo de Lalalai con los actores (O·24)",
+  "para_que": "Sitio alternativo del concepto C",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bg20.jpg",
+  "fuente": "Extensión de navegador de fans en GitHub (jacobjuarezguerra); la imagen lleva el copyright del comité",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ruby, Kana y MEM de cuerpo entero con los trajes de «POP IN 2», fondo de regalos y corazones",
+  "para_que": "Poses de las tres (explicar, celebrar); paleta #FDD6D0 #ED6A7C #FFE874",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://i.pximg.net/img-original/img/2023/11/25/12/48/31/113692523_p0.jpg",
+  "fuente": "Pixiv 113692523, de ﾘﾝｺ (Rinko), 25-nov-2023 (API de Pixiv; pide la cabecera Referer: https://www.pixiv.net/)",
+  "ancho": 1337,
+  "alto": 1863,
+  "que_es": "Fan art: MEM en directo con el saludo «こんめむー、今日も来てくれてありがとー！»",
+  "para_que": "Sólo REFERENCIA: prueba de que los fans reconocen el saludo «こんめむ»",
+  "licencia": "Fan art con copyright de su autora. No usar en la lámina."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=TvIOIATbUYE&t=89",
+  "fuente": "Canal oficial de YouTube, «MEMちょの部屋» #37",
+  "ancho": null,
+  "alto": null,
+  "que_es": "MEM en su cuarto añil leyendo la ventana blanca de mensaje de un fan con cabecera lila «MEMber: …» y «こんめむ〜♪» (1:29; V·20)",
+  "para_que": "Cuadro de diálogo del concepto A. Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=VjyCYUdmlnc&t=3",
+  "fuente": "Canal oficial de YouTube, «最新NEWS»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticiero de la serie: rótulo con círculo rojo «最新» y franja blanca con el titular (0:03; V·22)",
+  "para_que": "Rótulo de #redes-y-novedades. Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=gKWEUJ4r5do&t=44",
+  "fuente": "Canal oficial de YouTube, tráiler principal 2 de la T1",
+  "ancho": null,
+  "alto": null,
+  "que_es": "MEM en directo dentro de un marco de neón cian y amarillo, sofá y osito (0:44; V·13)",
+  "para_que": "Marco de directo del concepto A. Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=S-UmqvA7uR8&t=7",
+  "fuente": "Canal oficial de YouTube, «STAR☆T☆RAIN» (ep. 11)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "B小町 en el Japan Idol Festival: MEM apunta con las dos manos, Kana con los índices junto a la cara, uniforme rojo (0:07-0:09; V·16-17)",
+  "para_que": "Poses de animar y el uniforme icónico. Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=L-ZNenzreyU&t=3",
+  "fuente": "Canal oficial de YouTube, «黒川あかねからのスペシャルメッセージ» (1-may-2026)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ilustración de Akane con vestido negro de volantes, mano en el pecho, sobre lila con rayas, marco violeta y subtítulos blancos con borde morado (0:03)",
+  "para_que": "Formato oficial de «mensaje especial» de un personaje (#redes-y-novedades); pose de Akane. Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=izzRjaUZig4&t=104",
+  "fuente": "Canal oficial de YouTube, «アフレコ現場を深掘れ☆ワンチャン‼» n.º 6 (19-feb-2026)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cabina de doblaje real de la T3 con Megumi Han (Kana): paredes de listones de madera y paneles azules, micro de condensador (1:44); sala de mezclas con el director de sonido (9:24)",
+  "para_que": "Sitio real de #castings (estudio de doblaje). Vídeo sin tamaño medible (storyboard de 320×180)",
+  "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会. Arte oficial con copyright: sólo referencia, no libre."
+ }
 ]

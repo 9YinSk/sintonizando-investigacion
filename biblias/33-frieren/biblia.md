@@ -645,6 +645,39 @@ maestra de la maestra de Fern la dobla su madre.
   quedan en silencio al capturar al Stille; en el ep. 23 Fern pregunta «¿a
   usted le encantaban?» en vez de «¿a él?».
 
+### 10.4 Frases del doblaje latino, textuales (con vídeo y minuto)
+
+Salen de los **subtítulos automáticos del audio doblado** (pista `es-orig`)
+de los clips oficiales de **Crunchyroll en Español** (§12.3). Son de
+reconocimiento de voz: **la frase y el minuto son fiables, la puntuación
+es mía** y alguna palabra suelta puede estar mal oída (lo marco con ⚠️).
+
+| Quién | Frase (doblaje latino) | Clip y minuto |
+|---|---|---|
+| **Fern** → Frieren | «**Señora Frieren**, ya es de día. Ya despierte.» | [T1-04, aIFWMH0dhbA 0:00](https://www.youtube.com/watch?v=aIFWMH0dhbA) |
+| **Fern** | «De verdad es tan descuidada… diría que hasta es irresponsable. Todas las mañanas debo despertarla, le doy el desayuno… **prácticamente soy como su propia madre**.» | [aIFWMH0dhbA 0:45-1:01](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=45) |
+| **Frieren** | «Puedo hacer eso yo misma.» — **Fern**: «Pero usted duerme hasta el mediodía.» | [aIFWMH0dhbA 1:04](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=64) |
+| **Himmel** | «La lluvia de meteoros de Era pasa una vez cada 50 años.» | [T1-01, 3XUKmqUDEZc 0:08](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8) |
+| **Frieren** | «**Sé de un lugar donde la lluvia de meteoros se puede ver más clara.**» | [3XUKmqUDEZc 0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32) |
+| **Frieren** (funeral) | «Viajamos juntos sólo por 10 años.» · «Sabía que sus vidas son cortas, pero… ¿por qué no… intenté conocerlo mejor?» | [T1-01, wDWOKITcRzg 0:22 y 0:33-0:41](https://www.youtube.com/watch?v=wDWOKITcRzg&t=22) |
+| **Frieren** (a Heiter) | «No toques mi cabeza.» | [wDWOKITcRzg 0:52](https://www.youtube.com/watch?v=wDWOKITcRzg&t=52) |
+| **Frieren** → Himmel | «Himmel, tú siempre pides que te hagan estatuas.» | [T1-07, K8XwKilGTg0 0:07](https://www.youtube.com/watch?v=K8XwKilGTg0&t=7) |
+| **Himmel** | «Es porque quiero que todos nos recuerden… **Pero hay una razón más: esto es para que no te sientas sola** cuando estés en un [futuro] lejano.» ⚠️ la palabra entre corchetes no se oye | [K8XwKilGTg0 0:13-0:39](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13) |
+| **Himmel** | «No somos un cuento. Nosotros en verdad existimos.» | [K8XwKilGTg0 0:44](https://www.youtube.com/watch?v=K8XwKilGTg0&t=44) |
+| **Himmel** | «Es una flor de mi país. Es muy hermosa… Bueno, **no tan hermosa como yo**.» | [T1-02, sMMRWL0XG5E 0:08-0:15](https://www.youtube.com/watch?v=sMMRWL0XG5E&t=8) (el nombre de la flor sale como «flor de hoja lunar» ⚠️ mal oído) |
+| **Frieren** → Fern | «Fern, ve a decirle que te asustó y **haz las paces con él**.» · «Debes ser más gentil.» | [T1-17, hzcGhesobmY 0:40 y 0:46](https://www.youtube.com/watch?v=hzcGhesobmY&t=40) |
+| **Fern** | «Eso ya lo sé. Es sólo que soy muy obstinada.» | [hzcGhesobmY 0:08](https://www.youtube.com/watch?v=hzcGhesobmY&t=8) |
+
+**Lo importante para escribir la lámina en latino** ✅ (dos fuentes: el clip
+y la entrevista de Azucena Estrada, §12.4, 3:32):
+- Fern **no dice «Frieren-sama»**: dice «**Señora Frieren**» y la **trata de
+  usted**.
+- Frieren tutea a todos y habla **corto y plano**.
+- La frase-meme «勇者ヒンメルなら そうしました» no la encontré en un clip
+  latino con subtítulos: **no sé cómo la dijo el doblaje** (⚠️ ver §20). En
+  la lámina, mejor no inventarla: usar «Himmel lo habría hecho» sólo como
+  traducción, sin decir que es la del doblaje.
+
 ## 11 · Música
 
 **Compositor de toda la serie: Evan Call** (el de *Violet Evergarden*).
@@ -710,7 +743,79 @@ mejor dice «biblioteca / reto» es **Too Many Grimoires**; el que dice
 
 ## 12 · Vídeos
 
-(pendiente)
+**Cómo los miré** (24-sep-2026): YouTube **no dejó bajar vídeo** desde el
+contenedor (403 y «confirma que no eres un bot»). Hice tres cosas:
+1. **Dailymotion** sí baja: fotogramas cada 2 s del tráiler (hoja de 51).
+2. **Storyboards de YouTube** (miniaturas oficiales cada ~1 s) de los
+   OP/ED y de 4 clips doblados: el minuto es **±1 s**.
+3. **Subtítulos automáticos en español del audio doblado** (pista
+   `es-orig` de YouTube) para las frases textuales (§10.4).
+
+### 12.1 Tráileres
+
+| Vídeo | Enlace | Lo que sirve (minuto) |
+|---|---|---|
+| **PV 2 de la T1** (TOHO; lo vi en la copia de Espinof) | [YouTube itKPyGXrCVA](https://www.youtube.com/watch?v=itKPyGXrCVA) · [Dailymotion x8mkolb](https://www.dailymotion.com/video/x8mkolb) | 0:06-0:12 **desfile en la Capital** con confeti · 0:16 **mural de una diosa** en una catedral · 0:18-0:24 **meteoros** sobre violeta · **0:26 cartela «魔王を倒した勇者たち»** · 0:30-0:36 **puente de piedra en el bosque**, Frieren se va de espaldas con su maleta · 0:40-0:42 **Frieren diminuta en un campo de flores** · 0:46 **sentada en una ruina con el bastón** · 0:48 **sentada en un tocón nevado** · 1:02 la fogata · 1:04 **el ataúd con flores azules** · 1:18 **Himmel tiende la mano a cámara** · **1:26-1:28 Frieren de pie sobre una roca, bastón en mano, sobre un mar de nubes al atardecer** · 1:30 logo teal · 1:34 fecha en teal: «9月29日(金)よる9時 放送開始» |
+| **PV 1 de la T1** | [Dailymotion x8lnihm](https://www.dailymotion.com/video/x8lnihm) | 0:28-0:30 **Frieren asoma los ojos por encima de un libro** (hoja `pantalla_01`, n.º 3) |
+| **Tráiler oficial T1, Crunchyroll en Español** (sub.) | [vEF077uVx8M](https://www.youtube.com/watch?v=vEF077uVx8M&t=84) | 1:24 subtítulo: «Mi aventura contigo no fue ni una centésima parte de mi vida» (hoja `pantalla_01`, n.º 6) |
+| **Tráiler oficial T2, Crunchyroll en Español** | [ubbUPmFXEfE](https://www.youtube.com/watch?v=ubbUPmFXEfE) | publicado el 13-dic-2025 (metadatos) ⚠️ no saqué fotogramas |
+| **PV principal de la T2** (TOHO) | [RH-FcW94z00](https://www.youtube.com/watch?v=RH-FcW94z00) | con «lulu.» ⚠️ sólo el título |
+| **PV corto de la T3** («黄金郷編», oct-2027) | [765qxY2Tbm4](https://www.youtube.com/watch?v=765qxY2Tbm4) | anuncio de la T3 (§2) |
+
+### 12.2 Openings y endings
+Están en **§11.1**, minuto a minuto (seis vídeos del canal TOHO animation).
+
+### 12.3 Escenas dobladas al latino (clips oficiales de Crunchyroll en Español)
+
+| Clip | Ep. | Enlace | Lo que se ve (storyboard, ±1 s) |
+|---|---|---|---|
+| **«Una promesa de 50 años»** | T1-01 | [3XUKmqUDEZc](https://www.youtube.com/watch?v=3XUKmqUDEZc) | 0:00-0:13 meteoros sobre **índigo**; 0:07 **fiesta con guirnaldas de luces** en el pueblo · 0:17-0:27 los cuatro, **siluetas pequeñas** en un tejado bajo el cielo · **0:28-0:35 Frieren sentada en los adoquines, mira de reojo, con bufanda** · 0:37-0:48 **Himmel sonríe con los ojos cerrados** · 0:51 puente de noche |
+| **«El último adiós»** | T1-01 | [wDWOKITcRzg](https://www.youtube.com/watch?v=wDWOKITcRzg&t=36) | 0:01 **ataúd con flores azules** en la fosa · 0:03-0:08 Heiter mira al cielo · 0:17 banquete · 0:19 fogata · 0:24-0:29 **Himmel se desvanece en blanco** · **0:36-0:43 Frieren llora**: cabeza baja, ojos apretados, boca abierta · 0:47 Heiter le toca la cabeza |
+| **«Himmel al igual que Coco dijo: Recuérdame»** | T1-07 | [K8XwKilGTg0](https://www.youtube.com/watch?v=K8XwKilGTg0&t=21) | 0:04-0:16 **taller del escultor**, Himmel de pie posando · **0:21-0:24 Himmel se toca la frente con los ojos cerrados, con brillos sobre fondo cian** (la pose «qué guapo soy») · 0:27-0:31 Frieren lo mira seria · 0:46 la estatua con **corona de flores** · 0:48 **estatua del grupo de noche** · 0:51-0:55 **fiesta del pueblo** bailando alrededor |
+| **«Ama, no me quiero levantar»** | T1-04 | [aIFWMH0dhbA](https://www.youtube.com/watch?v=aIFWMH0dhbA) | 0:00-0:03 Fern lee un papel · **0:04-0:06 Frieren dormida, boca arriba** · 0:07-0:16 **Fern la peina y la viste** · 0:24 **Frieren estira los brazos** en la calle nevada · 0:39 **Frieren con bufanda azul, ojos cerrados** · 0:42-1:01 **Fern con su abrigo marrón de invierno, bastón al hombro** |
+| «Patitas para que las quiero» | T1-05 | [zP5D8_cJFuQ](https://www.youtube.com/watch?v=zP5D8_cJFuQ) | persecución de un monstruo volador (sólo subtítulos) |
+| «Cumpliste tu promesa… aún después de la muerte» | T1-02 | [sMMRWL0XG5E](https://www.youtube.com/watch?v=sMMRWL0XG5E) | la hierba luna azul (sólo subtítulos) |
+| «¡Ya que anden!» / «¡YA BÉSENSE maldita sea!» | T1-17 | [hzcGhesobmY](https://www.youtube.com/watch?v=hzcGhesobmY) · [nLKPCpghMys](https://www.youtube.com/watch?v=nLKPCpghMys) | Frieren manda a Fern a hacer las paces con Stark (sólo subtítulos) |
+| «¡Frieren es solo mía!» | T2-36 | [MM1JqIBxORs](https://www.youtube.com/watch?v=MM1JqIBxORs) | Fern no quiere compartir a Frieren (metadatos) ⚠️ no lo vi |
+| «Así pagan sus deudas las elfas» | T2-33 | [j-xBTDZb-9M](https://www.youtube.com/watch?v=j-xBTDZb-9M) | el favor de la compañía Norm (metadatos) ⚠️ no lo vi |
+
+**La tarjeta final de estos clips** (visto en los cuatro): fondo **naranja
+Crunchyroll** con «MÍRALO EN CR», «MÁS VIDEOS» y «SUSCRÍBETE». No es de la
+serie: **no copiarla** en una lámina.
+
+### 12.4 Entrevistas al reparto latino (YouTube)
+
+| Vídeo | Enlace | Lo que dicen (minuto) |
+|---|---|---|
+| **«Meet the voices behind Frieren and Fern in Latin American Spanish!»** (Indigo GEEK) — **Erika Ugalde** y **Azucena Estrada** | [aPOQSpWllg4](https://www.youtube.com/watch?v=aPOQSpWllg4&t=168) | 2:48-3:13 Erika: el reto de la T2 es «no salirme de la línea de Frieren, **fría, de elfa**, y llegar también a ser **un poco más humana**» · 3:19-3:54 Azucena: en la T2 Fern está **más madura** y «**se me iba un poco más grave la voz**, tenía que volver a grabar» · 5:58-6:18 Azucena: «**Fern saca mucho aire**… no expresa mucho… las **emociones contenidas**» · 4:27-4:36 Erika: Frieren le llegó cuando estaba perdiendo a su perrito |
+| **Erika Ugalde en la CCXP México** (OYE 89.7) | [r9k0n6QoSIg](https://www.youtube.com/watch?v=r9k0n6QoSIg) | 1:04 Frieren «fue un boom que nadie nos esperábamos» · 1:37 lleva **12 años** de carrera · 2:47 consejo: «**estudiar actuación** y después especializarse en doblaje» |
+| ANISON USA, entrevista al elenco | [uGc8dbb-7pY](https://www.youtube.com/watch?v=uGc8dbb-7pY) | 59 min ⚠️ no la escuché |
+
+(Transcripción: subtítulos automáticos de YouTube; puede haber palabras mal
+oídas, pero la idea y el minuto son fiables.)
+
+### 12.5 Análisis y tendencias
+
+| Vídeo | Canal | Vistas (24-sep-2026) | Para qué |
+|---|---|---|---|
+| [When Frieren broke a rule to make a better story](https://www.youtube.com/watch?v=0GSZpZGZK44) | pey talks anime | 2,79 M | por qué la serie no es «otro shōnen» |
+| [Frieren Changed Me For The Better.](https://www.youtube.com/watch?v=FJ8-7LXa-8A) | Gigguk | 1,25 M | el análisis inglés más visto |
+| [Frieren's mage exam is way more interesting than it seems](https://www.youtube.com/watch?v=ome2N6iYajE) | pey talks anime | 466 k | el examen (útil para la lámina de reto, §19) |
+| [Frieren: El ANIME que CURÓ MI ALMA](https://www.youtube.com/watch?v=NTJJ8gYwkDc) | Me Dicen Dai | 368 k | el tono emocional, en español |
+| [10 CLICHÉS QUE ROMPE 'FRIEREN'](https://www.youtube.com/watch?v=G0VYW-bRzx4) | Djinn Sensei | 340 k | qué la hace distinta (para el «qué NO hacer») |
+| [Frieren: Comprendió el sentido de la vida…](https://www.youtube.com/watch?v=ouXENtHKNX4) | Agustin Pandolfelli | 294 k | resumen y análisis en español |
+| [¿Y si vivieras para siempre? La filosofía de Frieren](https://www.youtube.com/watch?v=qdhCWj1NgHQ) | Adictos a la Filosofía y LordWicho | 145 k | el tema del tiempo |
+| [七崩賢最強のマハトとの激戦！黄金郷のマハト編徹底解説](https://www.youtube.com/watch?v=fdbWg3gzcuc) | ロキシーCh | 1,05 M | el arco de la T3, en japonés |
+
+Vistas y títulos sacados de la búsqueda de `yt-dlp`. **No vi estos
+análisis enteros** (sólo título, canal y cifras) ⚠️.
+
+**Tendencias en vídeo corto** (Dailymotion, títulos vistos en su API):
+Frieren bailando **la «Reze dance»** de *Chainsaw Man* y el **meme egipcio**
+(«エジプトミーム», clips de 17 s de «Sharinganxxx») ⚠️ son vídeos de fans
+hechos con IA o edición; sirven para saber que Frieren **se usa como
+plantilla de meme de baile**, no como referencia de estilo. Las tendencias
+de TikTok están en §14.
 
 ## 13 · Videojuegos de la franquicia
 

@@ -20,18 +20,29 @@ fecha: 2026-09-24
 >     Estudio, dirección y reparto **por película**, y **65 muestras de audio
 >     del doblaje**, que pasé por reconocimiento de voz (Whisper) para sacar
 >     frases textuales (§10).
->   - **YouTube con yt-dlp**: 13 vídeos comprobados. YouTube no dejaba bajar
->     el vídeo («Sign in to confirm you're not a bot» y 429, compartimos IP) y
->     `fotogramas.py` falló. **Los miré por sus *storyboards***: fotogramas
->     de 320×180 (160×90 o menos en los vídeos viejos), uno cada 1-5 s, en
->     hojas numeradas con su minuto (±2 s). Opening, ending, 3 tráileres
->     oficiales en español y 5 escenas del canal oficial (§12).
+>   - **YouTube con yt-dlp**: 15 vídeos comprobados. YouTube no dejaba bajar
+>     el vídeo («Sign in to confirm you're not a bot», «This video is not
+>     available»; lo intenté con 6 clientes y en 3 momentos distintos).
+>     **Los miré por sus *storyboards***: fotogramas de 160×90 o 320×180,
+>     uno cada 1-2 s, en hojas numeradas con su minuto (±2 s). Opening,
+>     ending, 3 tráileres oficiales en español y 6 escenas del canal oficial
+>     y de HBO Max Latinoamérica (§12).
+>   - **`fotogramas.py` sí funcionó con vídeo de verdad** bajado del
+>     **Internet Archive**: la escena del vociferador en 1080p (copia del
+>     vídeo «en 23 idiomas», con el doblaje latino dentro) y el tráiler
+>     final oficial de P6. Fotogramas grandes mirados y colores medidos
+>     (§3, §12).
+>   - **Reconocimiento de voz** (Whisper, modelo *medium*) sobre el audio
+>     latino de esa escena y sobre muestras de Doblaje Wiki (§10.3).
 >   - **Sketchfab** (licencias por su API), **MinaLima** (imágenes de sus
 >     láminas, medidas), subtítulos en inglés otra vez (para cruzar minutos).
 >   - Colores **medidos con Pillow** en fotogramas, láminas de MinaLima y
 >     arte oficial de la wiki (se dice de cuál en cada hex).
 > - **Siguen cerradas o fallan:** Wikipedia y Wikimedia Commons (429), bajar
->   vídeo o audio de YouTube, Blog Hogwarts (503).
+>   vídeo, audio o subtítulos de YouTube, Blog Hogwarts (503), ArtStation (403).
+> - La segunda pasada la hicieron **dos ayudantes seguidos** el mismo día: al
+>   primero lo cortó el límite de uso; el segundo terminó §15-§21,
+>   `referencias.json`, la tabla de cumplimiento y la bitácora.
 
 **Leyenda**
 - ✅ **confirmado**: dos fuentes, o un archivo que abrí, medí o miré.
@@ -391,9 +402,10 @@ Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 | P1 | 00:54:38 a 00:54:57 | Leen El Profeta en voz alta: robo en Gringotts, cámara 713. Responde Harry: «That's the vault Hagrid and I went to». Quién lee, no lo vi (no hay clip oficial) ⚠️. La portada de ese número: O·2. | **El Profeta sobre la mesa del Gran Comedor.** Concepto A. |
 | P1 | 00:09:50 a 00:12:00 | «No more mail through this letterbox»; luego la lluvia de cartas por la chimenea (F·22). | Las novedades llegan sí o sí. |
 | P1 | 02:19:16 | Dumbledore da los últimos puntos: 50 para Hermione. | Celebrar. |
-| P2 | 00:34:11 a 00:34:56 | El vociferador en el desayuno: **se abre el sobre rojo** ([clip 0:17](https://www.youtube.com/watch?v=fBziSx7RtqY&t=17)), **se levanta de la mesa y es una boca con dientes de papel** ([0:25](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25)), grita a Ron a la cara ([0:39](https://www.youtube.com/watch?v=fBziSx7RtqY&t=39)) y **se rompe en confeti** sobre libros abiertos ([0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=57)) ✅ visto | Otro «cuadro» que habla. |
+| P2 | 00:34:11 a 00:34:56 | El vociferador en el desayuno: **se abre el sobre rojo** ([clip 0:17](https://www.youtube.com/watch?v=fBziSx7RtqY&t=17)), **se levanta de la mesa y es una boca con dientes de papel** ([0:25](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25)), grita a Ron a la cara ([0:39](https://www.youtube.com/watch?v=fBziSx7RtqY&t=39)) y **se rompe en confeti** sobre libros abiertos ([0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=57)) ✅ visto. **En 1080p** (vídeo «en 23 idiomas», §12): el sobre en la mano con etiqueta de caligrafía «Ronald Weasley, Hogwarts School of Witchcraft & Wizardry» ([0:16](https://www.youtube.com/watch?v=3KNNglv24a0&t=16)); la boca de papel con dientes y el texto de la carta dentro ([0:26-0:28](https://www.youtube.com/watch?v=3KNNglv24a0&t=26)); Ron con los ojos muy abiertos, encogido ([0:32](https://www.youtube.com/watch?v=3KNNglv24a0&t=32)). En latino: «**¡Ronald Weasley! ¡Cómo osaste robar el auto!**» ([15:55-16:03](https://www.youtube.com/watch?v=3KNNglv24a0&t=955), §10.3) ✅ | Otro «cuadro» que habla. En latino se llama **vociferador**. |
 | P3 | 00:10:36 | En el autobús noctámbulo, la foto de Sirius Black se mueve en El Profeta. | **La foto que se mueve.** |
 | P3 | 00:23:44 a 00:25:45 | **El atril del búho, por primera vez.** Dumbledore **abre los brazos** tras las alas doradas: «Welcome! Welcome to another year at Hogwarts» ([clip 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43)); presenta a Lupin ([1:05](https://www.youtube.com/watch?v=dvFehFzph7I&t=65)); **alza los dos índices**: «happiness can be found… if one only remembers to turn on the light» ([2:42](https://www.youtube.com/watch?v=dvFehFzph7I&t=162)) y **apaga una vela con los dedos** ([2:48](https://www.youtube.com/watch?v=dvFehFzph7I&t=168)) ✅ visto | **El discurso desde el atril.** Concepto B. |
+| P3 | 00:24:30 aprox. | **Anuncia a Hagrid como nuevo profesor** de Cuidado de Criaturas Mágicas: Dumbledore tras el atril ([clip 1:31-1:39](https://www.youtube.com/watch?v=dvFehFzph7I&t=91)), Hagrid se levanta en la mesa de profesores ([1:41-1:53](https://www.youtube.com/watch?v=dvFehFzph7I&t=101)) y **el comedor aplaude** ([1:55-1:57](https://www.youtube.com/watch?v=dvFehFzph7I&t=115)) ✅ visto (*storyboard* 160×90). El minuto de la película lo deduzco del clip ⚠️ | **Un anuncio que alegra**: el tono justo para #anuncios. |
 | P3 | 00:57:24 y 00:58:15 | «I solemnly swear…» y «Mischief managed» con el Mapa. | El pergamino que se escribe solo. |
 | P3 | créditos | Cada nombre va en **una cinta de pergamino dibujada a tinta**, con huellas que caminan (copia de fan, no oficial: [0:11](https://www.youtube.com/watch?v=MJzymmFvtlk&t=11)) ✅ visto | Un cuadro de texto que es de la serie. |
 | P4 | 00:16:31 a 00:17:02 | Dumbledore: «I'd like to make an announcement». Anuncia el Torneo. | **Otro anuncio desde el atril** (la wiki lo lista en P4). |

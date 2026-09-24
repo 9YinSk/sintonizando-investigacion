@@ -1,362 +1,402 @@
 [
   {
-    "url": "https://minalima.com/product/the-daily-prophet-boy-who-lived/",
-    "fuente": "MinaLima (estudio que diseñó el grafismo de las películas)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Portada de El Profeta «Boy Who Lived», de la primera época: estilo victoriano y caprichoso.",
-    "para_que": "Modelo de la portada del concepto A: cabecera, columnas, hueco de la foto que se mueve.",
-    "licencia": "© MinaLima / Warner Bros. Sólo referencia, no pegar."
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/f/fc/Albus_Dumbledore_2_-_PAS.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1080,
+    "alto": 2400,
+    "hoja": "P·26",
+    "que_es": "Dumbledore (render del juego Puzzles & Spells), mano abierta hacia arriba, túnica lila.",
+    "para_que": "Pose de presentar o explicar para el concepto B. Ya viene recortado.",
+    "licencia": "© Warner Bros. / Zynga (Puzzles & Spells). Sólo referencia; recorte limpio sobre fondo liso."
   },
   {
-    "url": "https://minalima.com/product/art-print-the-daily-prophet-compilation/",
-    "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Recopilación de varias portadas de El Profeta de toda la saga.",
-    "para_que": "Comparar la cabecera de la primera época con la del Ministerio y elegir la alegre.",
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/7/75/Albus_Dumbledore_%28HBPF_promo%29.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 2136,
+    "alto": 2850,
+    "hoja": "P·24",
+    "que_es": "Dumbledore (Gambon), promo de P6, varita en alto.",
+    "para_que": "Presentar con énfasis; referencia de barba, gafas de media luna y túnica gris.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/81/Albus_Dumbledore_PSF.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1347,
+    "alto": 1820,
+    "hoja": "P·27",
+    "que_es": "Dumbledore (Richard Harris) en el banquete de P1, túnica burdeos con dibujo dorado.",
+    "para_que": "La época alegre: el Dumbledore de los avisos de P1.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Hermione_poa.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 2923,
+    "alto": 4000,
+    "hoja": "P·1",
+    "que_es": "Hermione, promo de P3 con Crookshanks, de cuerpo entero, mano en el mueble.",
+    "para_que": "Presentar; pose erguida para el concepto A.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/c/c4/Hermione_Granger_-_PAS.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1080,
+    "alto": 2009,
+    "hoja": "P·2",
+    "que_es": "Hermione (render de Puzzles & Spells) abrazando libros.",
+    "para_que": "Explicar; recorte limpio.",
+    "licencia": "© Warner Bros. / Zynga (Puzzles & Spells). Sólo referencia; recorte limpio sobre fondo liso."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/a/ac/Trio_in_their_younger_days_Harry%2C_Ron_and_Hermione.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1080,
+    "alto": 1350,
+    "hoja": "P·7",
+    "que_es": "El trío de P1 con escoba y libros, promo.",
+    "para_que": "Grupo de la época alegre; presentar.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/9/96/Dumbledore%27s_Army.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 4064,
+    "alto": 2704,
+    "hoja": "P·8",
+    "que_es": "El Ejército de Dumbledore en fila (P5), promo ancha.",
+    "para_que": "Animar, grupo; fondo de comunidad.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/7/70/Luna_wearing_Spectrespecs.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1401,
+    "alto": 2100,
+    "hoja": "P·11",
+    "que_es": "Luna con las gafas espectrales y El Quisquilloso en la mano.",
+    "para_que": "El guiño que el fan reconoce; Luna como prensa no oficial.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/6/6b/Quibbler-Luna.JPG",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1325,
+    "alto": 1298,
+    "hoja": "P·12",
+    "que_es": "Luna leyendo El Quisquilloso, promo.",
+    "para_que": "Pose de leer un periódico: sirve para el concepto A.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/f/ff/Luna_Lovegood_-_Jessica_Roux_PM.jpeg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 910,
+    "alto": 935,
+    "hoja": "P·15",
+    "que_es": "Luna ante avisos clavados en la pared (Pottermore, Jessica Roux).",
+    "para_que": "Pose junto a un tablón de avisos: concepto C.",
+    "licencia": "© Wizarding World Digital (Pottermore). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/f/f4/DobbyDH.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1300,
+    "alto": 1312,
+    "hoja": "P·18",
+    "que_es": "Dobby en P7 chasqueando los dedos, mano en alto.",
+    "para_que": "Proclamar: la pose de «Dobby es un elfo libre».",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/82/Dobby.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 944,
+    "alto": 1056,
+    "hoja": "P·19",
+    "que_es": "Dobby con los brazos en jarra.",
+    "para_que": "Orgullo, elfo libre; concepto C.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/6/6e/Dobby_Receives_Sock_PAS.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 833,
+    "alto": 1442,
+    "hoja": "P·21",
+    "que_es": "Dobby con el diario donde va el calcetín (Puzzles & Spells).",
+    "para_que": "Recorte limpio de Dobby de cuerpo entero.",
+    "licencia": "© Warner Bros. / Zynga (Puzzles & Spells). Sólo referencia; recorte limpio sobre fondo liso."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/MinervaMcGonagall_WB_F1_MinervaMcGonagallRobeIllustration_Illust_080615_Port.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 2360,
+    "alto": 2728,
+    "hoja": "P·33",
+    "que_es": "Figurín de vestuario de McGonagall (verde), de Warner.",
+    "para_que": "Vestuario y hex de la otra voz de los avisos.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/3/39/Daily_prophet_gringotts_break_in.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 854,
+    "alto": 1267,
+    "hoja": "O·2",
+    "que_es": "El Profeta de P1: «Break-in at Gringotts», cabecera gótica, texto en espiral.",
+    "para_que": "La portada modelo del concepto A (época alegre).",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/c/c6/EveningProphetFlyingFordAnglia.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1680,
+    "alto": 2448,
+    "hoja": "O·1",
+    "que_es": "El Profeta Vespertino de P2: el Ford Anglia volador.",
+    "para_que": "Cabecera gótica adornada en marco; titulares fraktur.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/a/a8/DailyProphetAzkaban.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 920,
+    "alto": 1351,
+    "hoja": "O·9",
+    "que_es": "El Profeta de P3: «Escape from Azkaban!» con el hueco de la foto.",
+    "para_que": "Cómo va la foto que se mueve dentro de la portada.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/d/d5/Ministry_Advertisements_From_The_Daily_Prophet_concept_art.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 785,
+    "alto": 956,
+    "hoja": "O·12",
+    "que_es": "Arte conceptual: anuncios del Ministerio en El Profeta.",
+    "para_que": "Anuncios pequeños en columnas: el formato de los avisos del canal.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/7/7a/Quibbler-Spectrospecs.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1765,
+    "alto": 1200,
+    "hoja": "O·14",
+    "que_es": "El Quisquilloso con las gafas espectrales de regalo.",
+    "para_que": "La revista de Luna: color y letra del contrapunto no oficial.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/3/39/Howler_WB_F2_HowlerCloseUpPromo_Promo_100615_Land.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1720,
+    "alto": 1416,
+    "hoja": "O·17",
+    "que_es": "El vociferador, foto promo de P2.",
+    "para_que": "El sobre rojo que habla: otro «cuadro» del mundo.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/81/Hogwarts_acceptance_letter_PSF_promo.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1778,
+    "alto": 2682,
+    "hoja": "O·19",
+    "que_es": "La carta de Hogwarts con lechuza, promo de P1.",
+    "para_que": "El aviso que llega sí o sí; lacre y tinta verde.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/0/0a/Gryffindor_Notice_Board.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1100,
+    "alto": 1100,
+    "hoja": "O·21",
+    "que_es": "El tablón de Gryffindor (Pottermore): fieltro rojo oscuro, marco tallado, notas clavadas.",
+    "para_que": "Base del concepto C. Hex medidos: fieltro #51201D.",
+    "licencia": "© Wizarding World Digital (Pottermore). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/b/bf/Educational_Decree_Number_23.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 352,
+    "alto": 527,
+    "hoja": "O·25",
+    "que_es": "Decreto de Educación n.º 23 (P5).",
+    "para_que": "Letra de cartel oficial; qué NO para el tono alegre.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/85/Lecturn_in_Great_Hall_PAS.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 2048,
+    "alto": 2048,
+    "hoja": "O·26",
+    "que_es": "El atril del búho dorado en el Gran Comedor (Puzzles & Spells), 2048×2048.",
+    "para_que": "Modelar el atril en Blender (concepto B).",
+    "licencia": "© Warner Bros. / Zynga (Puzzles & Spells). Sólo referencia; recorte limpio sobre fondo liso."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/a/a1/Dumbledore%27s_owl_podium.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 381,
+    "alto": 647,
+    "hoja": "O·27",
+    "que_es": "El atril del búho, recorte.",
+    "para_que": "Silueta del atril con las alas abiertas.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/6/69/Dumbledore_speech.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1920,
+    "alto": 800,
+    "hoja": "F·1",
+    "que_es": "P1: Dumbledore da los avisos de pie en la mesa de profesores, entre velas (sin atril).",
+    "para_que": "El aviso oficial en la película 1; luz de velas.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/0/08/Umbridge_speech.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1834,
+    "alto": 799,
+    "hoja": "F·2",
+    "que_es": "P5: el atril del búho con las alas abiertas; Umbridge interrumpe.",
+    "para_que": "El atril visto de frente, en su sitio; hex del oro medidos.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/8c/Gryffindor_students_reading_the_Daily_Prophet_POAF.PNG",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1920,
+    "alto": 800,
+    "hoja": "F·7",
+    "que_es": "P3: alumnos de Gryffindor leen El Profeta en el Gran Comedor.",
+    "para_que": "Escena real del concepto A: el diario en la mesa.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/f/f6/B4C28M1_Hermione_opening_hate_mails.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1278,
+    "alto": 500,
+    "hoja": "F·8",
+    "que_es": "Pottermore: el correo del desayuno, lechuzas sobre la mesa.",
+    "para_que": "Composición del concepto A.",
+    "licencia": "© Wizarding World Digital (Pottermore). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/9/91/B4C14M2_Hedwig%27s_Gryffindor_Common_Room_delivery.png",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 5152,
+    "alto": 1866,
+    "hoja": "F·9",
+    "que_es": "Pottermore: Hedwig trae el correo a la sala común (5152 px de ancho).",
+    "para_que": "Ilustración ancha para una lámina alta o una lámina 2; luz cálida.",
+    "licencia": "© Wizarding World Digital (Pottermore). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1620,
+    "alto": 1708,
+    "hoja": "F·11",
+    "que_es": "El Gran Comedor de noche con velas flotando.",
+    "para_que": "Fondo del concepto B.",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/3/3e/Great_hall.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 1280,
+    "alto": 640,
+    "hoja": "F·13",
+    "que_es": "El Gran Comedor de día, luz de mañana.",
+    "para_que": "Fondo del concepto A (desayuno).",
+    "licencia": "© Warner Bros. / Wizarding World. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/harrypotter/images/8/89/B1C11M1_Gryffindor_Common_Room_PM.jpg",
+    "fuente": "Harry Potter Wiki (Fandom), tamaño por la API",
+    "ancho": 4120,
+    "alto": 1536,
+    "hoja": "F·17",
+    "que_es": "Pottermore: sala común de Gryffindor, mesa con pergaminos.",
+    "para_que": "Fondo del concepto C.",
+    "licencia": "© Wizarding World Digital (Pottermore). Sólo referencia."
+  },
+  {
+    "url": "https://media.minalima.com/2025/04/thumb-p141lpr.jpg",
+    "fuente": "MinaLima (tienda oficial del estudio del grafismo)",
+    "ancho": 3000,
+    "alto": 3000,
+    "hoja": null,
+    "que_es": "Lámina con 9 portadas de El Profeta de P3 a P7.",
+    "para_que": "Chuleta para elegir época: P3 gótica adornada frente a la cabecera de palo de P5.",
     "licencia": "© MinaLima / Warner Bros. Sólo referencia."
   },
   {
-    "url": "https://minalima.com/product/the-daily-prophet-mass-breakout-from-azkaban/",
+    "url": "https://media.minalima.com/2025/01/thumb-p61lpr.jpg",
     "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Portada de El Profeta «Mass Breakout from Azkaban» (época de La Orden del Fénix).",
-    "para_que": "Ver cómo cambia la maqueta cuando el diario se vuelve oscuro. Para saber qué NO usar en #anuncios.",
+    "ancho": 3000,
+    "alto": 3000,
+    "hoja": null,
+    "que_es": "El Profeta «Boy Who Lived» (de P5, lo dice la lámina). Papel #E8E0D4, tinta #030202 medidos.",
+    "para_que": "Textura de papel y tinta; la cabecera es de P5: qué NO en la época alegre.",
     "licencia": "© MinaLima / Warner Bros. Sólo referencia."
   },
   {
-    "url": "https://minalima.com/product/the-daily-prophet-undesirable-number-1/",
+    "url": "https://media.minalima.com/2019/01/thumb-ron-howler-print-scaled.jpg",
     "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Portada «Harry Potter Undesirable No. 1», estilo constructivista de propaganda.",
-    "para_que": "Referencia de la cabecera constructivista. Sólo para un guiño o una lámina oscura.",
+    "ancho": 2560,
+    "alto": 2560,
+    "hoja": null,
+    "que_es": "Lámina del vociferador de Ron: sobre #B12E38 y carta con posdata dorada para Ginny.",
+    "para_que": "Un aviso con grito y posdata amable; caligrafía de tinta roja.",
     "licencia": "© MinaLima / Warner Bros. Sólo referencia."
   },
   {
-    "url": "https://minalima.com/product/the-daily-prophet-dumbledores-dark-secrets-revealed/",
+    "url": "https://media.minalima.com/2025/01/thumb-p28lpr-2025.jpg",
     "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Portada de El Profeta con Dumbledore como tema.",
-    "para_que": "Cómo encaja una foto de Dumbledore en la portada: tamaño, marco, pie de foto.",
+    "ancho": 3000,
+    "alto": 3000,
+    "hoja": null,
+    "que_es": "Proclama n.º 85 del Ministerio: papel #E4CE93, número rojo #B81714.",
+    "para_que": "Letra de proclama oficial; mano que señala «☞ No.».",
     "licencia": "© MinaLima / Warner Bros. Sólo referencia."
   },
   {
-    "url": "https://minalima.com/ministry-of-magic-collection/",
-    "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Colección de decretos y proclamas del Ministerio.",
-    "para_que": "Letra rígida y marcos de los avisos oficiales. Aviso con sello para el concepto C.",
-    "licencia": "© MinaLima / Warner Bros. Sólo referencia."
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Professor_Dumbledore_and_The_Owl_Podium_%287119146507%29.jpg",
+    "fuente": "Wikimedia Commons, Rob Young (Flickr)",
+    "ancho": 1978,
+    "alto": 2976,
+    "hoja": null,
+    "que_es": "Foto del Studio Tour: el atril del búho con el traje de Dumbledore.",
+    "para_que": "Modelar el atril: pan de oro y cera derretida reales.",
+    "licencia": "CC BY 2.0 (tamaño y licencia por la API de Commons en la 2.ª pasada; hoy la API da 429). Crédito: «Foto: Rob Young, Wikimedia Commons, CC BY 2.0»."
   },
   {
-    "url": "https://minalima.com/product/proclamation-no-85/",
-    "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Proclama n.º 85 del Ministerio de Magia.",
-    "para_que": "Tipografía de aviso oficial, de pared, con jerarquía de títulos.",
-    "licencia": "© MinaLima / Warner Bros. Sólo referencia."
+    "url": "https://archive.org/download/youtube-3KNNglv24a0/3KNNglv24a0.webm",
+    "fuente": "Internet Archive, copia del vídeo de YouTube «Ron receives a Howler in different languages» (canal Compare Languages, 13-ago-2022). Copia de fan del audio oficial.",
+    "ancho": 1920,
+    "alto": 1080,
+    "hoja": null,
+    "que_es": "La escena del vociferador (P2) en 23 idiomas. Inglés 0:00-0:55; doblaje latino 15:35-16:30.",
+    "para_que": "Fotogramas 1080p mirados: sobre en la mano 0:16, boca de papel 0:26-0:28, Ron 0:32. Y la frase latina textual (Whisper).",
+    "licencia": "© Warner Bros. Sólo referencia."
   },
   {
-    "url": "https://minalima.com/product/the-marauders-map/",
-    "fuente": "MinaLima",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Lámina del Mapa del Merodeador, dibujado a mano por Miraphora Mina.",
-    "para_que": "Letra a mano de pluma y trazo de pergamino para notas pequeñas.",
-    "licencia": "© MinaLima / Warner Bros. Sólo referencia."
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Professor_Dumbledore_and_The_Owl_Podium_(7119146507).jpg",
-    "fuente": "Wikimedia Commons (foto de Rob Young en Flickr, Studio Tour de Londres, 27-abr-2012)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Foto real del atril del búho dorado y el traje de Dumbledore en el Gran Comedor del Studio Tour.",
-    "para_que": "Modelar el atril en Blender para el concepto B: alas, pan de oro, cera derretida.",
-    "licencia": "Licencia libre de Commons; tipo exacto sin verificar (mirar la ficha antes de usar)."
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Professor_Dumbledore_and_The_Owl_Podium_(7119147107).jpg",
-    "fuente": "Wikimedia Commons (Rob Young, Flickr)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Segunda foto del atril del búho, otro ángulo.",
-    "para_que": "Segundo ángulo para modelar el atril.",
-    "licencia": "Licencia libre de Commons; tipo exacto sin verificar."
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Hogwart%E2%80%98s_Great_Hall,_Warner_Bros_Harry_Potter_Studio,_London_05.jpg",
-    "fuente": "Wikimedia Commons",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Foto del decorado real del Gran Comedor en Leavesden.",
-    "para_que": "Luz, piedra, mesas largas y estandartes de fondo para los conceptos A y B.",
-    "licencia": "CC BY-SA 4.0 según el resultado de búsqueda; confirmar en la ficha."
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Hogwart%E2%80%98s_Great_Hall,_Warner_Bros_Harry_Potter_Studio,_London_07.jpg",
-    "fuente": "Wikimedia Commons",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Otra foto del Gran Comedor del Studio Tour.",
-    "para_que": "Fondo y textura de mesa y pared.",
-    "licencia": "CC BY-SA 4.0 según el resultado de búsqueda; confirmar en la ficha."
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Gryffindor_Common_Room_at_Warner_Bros._Studio_Tour_London.jpg",
-    "fuente": "Wikimedia Commons",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Foto del decorado de la sala común de Gryffindor.",
-    "para_que": "Fondo del concepto C: tapices rojos, chimenea, butacas.",
-    "licencia": "Licencia libre de Commons; tipo exacto sin verificar."
-  },
-  {
-    "url": "https://harrypotter.fandom.com/wiki/Owl_Lecturn",
-    "fuente": "Harry Potter Wiki (Fandom)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del atril del búho, con su galería.",
-    "para_que": "Ver el atril en fotogramas de las películas y elegir ángulo.",
-    "licencia": "Imágenes © Warner Bros. Sólo referencia."
-  },
-  {
-    "url": "https://harrypotter.fandom.com/wiki/Gryffindor_Notice_Board",
-    "fuente": "Harry Potter Wiki (Fandom)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del tablón de anuncios de Gryffindor: qué se clava en él.",
-    "para_que": "Contenido realista del tablón del concepto C.",
-    "licencia": "Texto CC BY-SA de Fandom; imágenes © Warner Bros."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/the-great-hall-in-hogwarts-harry-potter-aa65c92e370f464ba81080cae44ab71f",
-    "fuente": "Sketchfab (usuario s23383)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D descargable del Gran Comedor.",
-    "para_que": "Fondo en Blender para los conceptos A y B, desenfocado detrás del personaje.",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: s23383 en Sketchfab."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/hogwarts-grand-hall-203784d1e8704cfba3af8a2b224b74ff",
-    "fuente": "Sketchfab (zack_graham)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Otro Gran Comedor 3D descargable.",
-    "para_que": "Alternativa de fondo si el anterior no sirve.",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: zack_graham en Sketchfab."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/owl-d177e1fbcce940cba32e434cc5a62f1a",
-    "fuente": "Sketchfab (po, @pothedev)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Búho 3D con esqueleto y 9 animaciones, entre ellas volar.",
-    "para_que": "La lechuza que deja caer El Profeta en la mesa, en primer plano, desenfocada.",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: po (@pothedev)."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/parchment-paper-10e53ca757a2482d8fe1bc94e9043826",
-    "fuente": "Sketchfab (Claire Combs)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Hoja de pergamino 3D.",
-    "para_que": "El pergamino sobre el atril (B) o los avisos del tablón (C).",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: Claire Combs."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/quill-67771bc3f8024e6faea9af9f6f7d6bfb",
-    "fuente": "Sketchfab (FlukierJupiter)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pluma de escribir 3D.",
-    "para_que": "Objeto delante del periódico o del pergamino para dar profundidad.",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: FlukierJupiter."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913",
-    "fuente": "Sketchfab (rickmaolly)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Tablón de corcho con papeles clavados, descargable gratis.",
-    "para_que": "Base del tablón de Gryffindor del concepto C (cambiarle el marco por madera tallada).",
-    "licencia": "Descarga gratis; tipo de licencia sin verificar. Mirarlo en la ficha."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/the-elder-wand-efc7362a857749b3ae55fcbbba8baafb",
-    "fuente": "Sketchfab (James Allison, @JamesA)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "La Varita de Saúco en 3D.",
-    "para_que": "Varita de Dumbledore apoyada en el atril (concepto B).",
-    "licencia": "CC Attribution según el resultado de búsqueda. Crédito: James Allison."
-  },
-  {
-    "url": "https://polyhaven.com/a/wood_table_worn",
-    "fuente": "Poly Haven (Dimitrios Savva)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de mesa de madera gastada.",
-    "para_que": "La mesa del Gran Comedor donde cae El Profeta (concepto A).",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://polyhaven.com/a/WoodenTable_01",
-    "fuente": "Poly Haven (Ethan Place)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Mesa de madera antigua en 3D, 1,8 m.",
-    "para_que": "Tramo de mesa larga en primer plano.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://polyhaven.com/a/castle_wall_slates",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de muro de castillo de bloques irregulares.",
-    "para_que": "Pared del Gran Comedor y de la sala común.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://polyhaven.com/a/old_hall",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "HDRI de un salón victoriano abandonado, luz cálida.",
-    "para_que": "Luz de ambiente y reflejos en el oro del atril.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Paper001",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Material de papel PBR.",
-    "para_que": "Fibra y relieve del papel de El Profeta.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Cork001",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Material de corcho PBR.",
-    "para_que": "Superficie del tablón del concepto C.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://texturelabs.org/textures/paper_290/",
-    "fuente": "Texturelabs",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura escaneada de periódico antiguo, tono beige.",
-    "para_que": "Capa de papel envejecido encima del diseño del periódico.",
-    "licencia": "Gratis según la web; condiciones exactas sin verificar."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/XJ98vY",
-    "fuente": "ArtStation (Jesús Arroyo Jiménez)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Castillo gótico con luz inspirada en Hogwarts Legacy (fan art 3D).",
-    "para_que": "Referencia de iluminación cálida en piedra. Nunca para pegar.",
-    "licencia": "© del autor. Sólo referencia."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/Pe48r3",
-    "fuente": "ArtStation",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Concepto de UI/UX de Hogwarts Legacy.",
-    "para_que": "Ideas de paneles de pergamino y marcos de interfaz del juego.",
-    "licencia": "© del autor. Sólo referencia."
-  },
-  {
-    "url": "https://www.gameui.net/games/2967",
-    "fuente": "GAMEUI (base de datos china de interfaces)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Capturas de interfaz de Harry Potter: Magic Awakened.",
-    "para_que": "Ver el estilo «libro ilustrado» con páginas que pasan.",
-    "licencia": "© NetEase / Warner Bros. Sólo referencia."
-  },
-  {
-    "url": "https://interfaceingame.com/games/hogwards-legacy/",
-    "fuente": "Interface In Game",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Capturas de la interfaz de Hogwarts Legacy.",
-    "para_que": "Menús, HUD y subtítulos del juego.",
-    "licencia": "© Warner Bros. Games. Sólo referencia."
-  },
-  {
-    "url": "https://www.spriters-resource.com/game_boy_gbc/harrypotterthechamberofsecrets/",
-    "fuente": "The Spriters Resource",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Sprites y recursos del juego de Game Boy Color de La cámara secreta.",
-    "para_que": "Caja de texto de RPG clásico, por si se quiere un guiño retro.",
-    "licencia": "© Warner Bros. / EA. Sólo referencia."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=__pudICRBDk",
-    "fuente": "YouTube",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista a Leyla Rangel, voz latina de Hermione.",
-    "para_que": "Oír cómo suena Hermione en latino. Minuto sin verificar.",
-    "licencia": "Ver en YouTube; no descargar."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=6yFHCEmRWzw",
-    "fuente": "YouTube",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista a Víctor Ugarte, voz latina de Harry.",
-    "para_que": "Tono de Harry en latino. Minuto sin verificar.",
-    "licencia": "Ver en YouTube; no descargar."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=Z_BJLuv5WiI",
-    "fuente": "YouTube (canal oficial del juego)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Diario de desarrollo: el arte de Harry Potter: Magic Awakened.",
-    "para_que": "Estilo de libro ilustrado y cómo se diseñaron los personajes. Minuto sin verificar.",
-    "licencia": "Ver en YouTube; no descargar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sydney-machine-learning/sentimentanalysis-Hollywood/main/Year/2001/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone.srt",
-    "fuente": "GitHub (subtítulos en inglés de la película 1)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulo con tiempos de La piedra filosofal.",
-    "para_que": "De aquí salen los minutos de las escenas: avisos de Dumbledore 00:42:20, correo y Profeta 00:53:45.",
-    "licencia": "Repositorio público de terceros; sólo para consultar tiempos."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/unifrakturmaguntia/METADATA.pb",
-    "fuente": "GitHub google/fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha de la letra UnifrakturMaguntia: licencia OFL y subset latin.",
-    "para_que": "Letra de la cabecera tipo El Profeta. Comprobé en el archivo .ttf que trae á é í ó ú ñ ¿ ¡.",
-    "licencia": "OFL"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/imfellenglish/METADATA.pb",
-    "fuente": "GitHub google/fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha de IM Fell English: OFL, subset latin.",
-    "para_que": "Texto de periódico y de pergamino. Tildes, ñ, ¿ y ¡ comprobadas en el .ttf.",
-    "licencia": "OFL"
+    "url": "https://archive.org/download/harry-potter-and-the-half-blood-prince-official-trailer-video-collection/half-blood-prince-trailers--video-data/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20-%20Final%20Trailer%20%28QuickTime%20HD%201080p%29.mp4",
+    "fuente": "Internet Archive, colección de tráileres oficiales de P6 (Warner Bros., 2009)",
+    "ancho": 1130,
+    "alto": 480,
+    "hoja": null,
+    "que_es": "Tráiler final de P6 (2:27). Hay versión .mov de 1920×816 en la misma colección.",
+    "para_que": "Fotogramas mirados: Hermione en la mesa con el libro abrazado (0:44), logo de acero (2:18). Paleta verde y fuego: qué NO para #anuncios.",
+    "licencia": "© Warner Bros. Sólo referencia."
   }
 ]
