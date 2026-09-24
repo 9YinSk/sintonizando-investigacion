@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/mafalda/images/8/8d/Basilio.jpg",
+    "fuente": "Mafalda Wiki (Fandom) · tira real, personaje Don Basilio",
+    "ancho": 800,
+    "alto": 228,
+    "que_es": "Tira de 5 viñetas, rotulado a mano en MAYÚSCULAS, letra y tinta china originales de Quino. Confirmado con Read (visto) y tesseract -l spa.",
+    "para_que": "Referencia de tipografía (punto 5, mayúsculas) y de que el número de viñetas varía (punto 6, tiene 5 no 4). Base para medir color con estilo.py.",
+    "licencia": "© Quino / Ediciones de la Flor. Sólo referencia, no usar la imagen entera."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mafalda/images/b/bc/Muertemafalda.jpg",
+    "fuente": "Mafalda Wiki (Fandom) · tira real, camión de la marca ficticia SOPA",
+    "ancho": 640,
+    "alto": 195,
+    "que_es": "Tira de 4 viñetas: Mafalda y Susanita caminando felices, remate mudo con un camión rotulado 'SOPA / FOOD COMPANY INC.' que atropella (simbólicamente) el buen humor.",
+    "para_que": "Ejemplo real de 'cartel del mundo' con letra de imprenta gruesa (punto 5) y del símbolo de la sopa (punto 25). Base para medir color con estilo.py.",
+    "licencia": "© Quino / Ediciones de la Flor. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mafalda/images/a/a9/Felipemuriel.jpg",
+    "fuente": "Mafalda Wiki (Fandom) · ilustración, Felipe y Susanita",
+    "ancho": 750,
+    "alto": 220,
+    "que_es": "Ilustración sin ningún texto: Felipe caminando hacia Susanita en un banco, en siluetas repetidas (efecto de movimiento).",
+    "para_que": "Ejemplo de remate mudo dentro de la propia obra de Mafalda (matiza el punto 6: no sólo el resto de la obra de Quino es 'muda').",
+    "licencia": "© Quino / Ediciones de la Flor. Sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/mafalda-9a5f14636a254068b71dddd58fcc3d46",
+    "fuente": "Sketchfab · modelo 3D 'Mafalda' de andresspa79",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D descargable de Mafalda (probablemente escaneado de una escultura o mural en una calle de cómics de Buenos Aires). 242.623 caras, 121.920 vértices, sin animación ni rig.",
+    "para_que": "Punto 18: base o referencia de volumen para un personaje 3D en Blender (no trae rig; hay que posarlo o usarlo como referencia).",
+    "licencia": "CC Attribution (CC-BY 4.0): crédito obligatorio a andresspa79, uso comercial permitido. Confirmado con la API de Sketchfab (license.slug=by)."
+  },
+  {
+    "url": "https://www.dafontfree.net/quino-regular-font/f250611.htm",
+    "fuente": "DaFontFree.net · ficha de la fuente 'Quino'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la fuente tributo 'Quino' (Esteban Garrido-Nieto, 102 glifos, 90,2 KB), con licencia 'sólo uso personal', distinta a la de otro espejo (1001 Free Fonts) que la da como libre también para uso comercial.",
+    "para_que": "Punto 5: documentar que la licencia de esta fuente es contradictoria entre espejos; no usarla para nada comercial del servidor.",
+    "licencia": "Uso personal según esta ficha (contradice a 1001fonts.com). No se pudo descargar el archivo real para comprobar tildes/ñ con fontTools (bloqueado por captcha/login en los 4 espejos probados)."
+  },
+  {
+    "url": "https://cgian.com/blender-line-art/",
+    "fuente": "cgian.com · tutorial 'How to make Line Art and Halftone Toon Shader in Blender'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tutorial gratuito que combina el modificador Line Art (contorno) con un shader de tramas (halftone) en vez de degradados, en Blender.",
+    "para_que": "Punto 18: cómo replicar el trazo y el sombreado por trama de Quino (sin degradados) en Blender.",
+    "licencia": "Tutorial de acceso libre en la web del autor."
+  },
+  {
+    "url": "https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/toon.html",
+    "fuente": "Manual oficial de Blender · nodo Toon BSDF",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Documentación oficial del shader Toon BSDF de Blender (dos tonos, sin degradado).",
+    "para_que": "Punto 18: shader base recomendado para imitar el blanco y negro plano de Mafalda en un render 3D.",
+    "licencia": "Documentación oficial de Blender (CC-BY-SA), gratuita."
+  },
+  {
+    "url": "https://myphotoshopbrushes.com/resources/71/halftone-brushes",
+    "fuente": "MyPhotoshopBrushes · pack de pinceles halftone (tramas de puntos)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pinceles de Photoshop en formato ABR con tramas de puntos (halftone/Ben-Day), estilo cómic vintage.",
+    "para_que": "Punto 18: sombreado por trama en vez de degradado, en Photoshop, para imitar el rayado a tinta de Quino.",
+    "licencia": "Gratis, 'Free for Commercial Use' según la propia página."
+  },
+  {
+    "url": "https://www.quino.com.ar/mafaldadigital",
+    "fuente": "quino.com.ar (sitio oficial) · página de la app 'Mafalda Digital'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial de la app iOS de Mafalda: libros interactivos por tema (~30 tiras, ~64 tomos), minijuegos de colorear, memoria y trivia.",
+    "para_que": "Punto 11: única app/juego oficial de Mafalda; su 'interfaz' (lector de tiras + minijuegos simples) es la referencia real, no una caja de diálogo de videojuego.",
+    "licencia": "© Quino / sitio oficial del autor. Sólo referencia de contenido, no descargable como imagen."
+  },
+  {
+    "url": "https://apps.apple.com/ar/app/mafalda/id585754234",
+    "fuente": "App Store · ficha oficial de la app 'Mafalda'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial en la tienda de Apple de la única app de Mafalda (desarrollador probable: Panarea Digital, según el correo de contacto de la app).",
+    "para_que": "Punto 11: segunda fuente (junto a quino.com.ar) de que esta app es la oficial y de sus características.",
+    "licencia": "© Quino. Página de tienda, sólo referencia."
+  },
+  {
+    "url": "https://en.todocoleccion.net/educational-games/antiguo-juego-memoria-jugando-mafalda-muy-raro-encontrar~x197358146",
+    "fuente": "todocoleccion.net · anuncio de coleccionismo",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio de venta de un juego de memoria (cartas para emparejar) antiguo, 'Jugando con Mafalda y sus amigos', descrito como muy raro de encontrar.",
+    "para_que": "Punto 11: segunda fuente (junto al grupo de Facebook ya citado en la biblia) de que este juego existió y qué tipo de juego es en realidad (memoria, no tablero).",
+    "licencia": "Página de venta de coleccionista. Sólo referencia, no hay imagen de alta calidad confirmada."
+  },
+  {
+    "url": "https://www.cartoonbrew.com/series/mafalda-first-look-netflix-juan-jose-campanella-259859.html",
+    "fuente": "Cartoon Brew · primer vistazo a la serie de Netflix",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa especializada en animación que describe la técnica de la serie de Netflix (CG estilizado, comparado con The Peanuts Movie de 2015).",
+    "para_que": "Punto 18: fuente clave sobre qué técnica de animación usa la nueva serie, para justificar un pipeline de Blender con toon shader en vez de 2D plano.",
+    "licencia": "Artículo de prensa. Sólo referencia de texto, no hay imagen propia utilizable aquí."
+  },
+  {
+    "url": "http://mafaldaylarumia.blogspot.com/2009/03/mafalda-la-contestataria-por-umberto.html",
+    "fuente": "Blog 'Mafalda y la Rumia' · reproducción del prólogo de Umberto Eco (1969)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Texto completo del prólogo de Umberto Eco a la edición italiana 'Mafalda, la contestataria' (1969), comparando a Mafalda con Charlie Brown.",
+    "para_que": "Punto 24: fuente primaria de la comparación más citada entre Mafalda y Peanuts, con cita textual de Eco.",
+    "licencia": "Reproducción de texto en un blog. Sólo referencia de texto."
+  },
+  {
+    "url": "https://carasycaretas.org.ar/2022/07/10/el-palito-de-abollar-ideologias/",
+    "fuente": "Caras y Caretas · nota sobre la viñeta 'el palito de abollar ideologías'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota sobre la viñeta de Mafalda que quedó asociada a la masacre de los curas palotinos de San Patricio en 1976, durante la dictadura argentina.",
+    "para_que": "Punto 25: contexto histórico y símbolo político real de la tira (para la sección de 'la historia y sus símbolos', no para la lámina en sí).",
+    "licencia": "Artículo de prensa. Sólo referencia de texto."
+  },
+  {
+    "url": "https://mafalda.fandom.com/es/wiki/El_Mundo",
+    "fuente": "Mafalda Wiki (Fandom) · página propia 'El Mundo' (el globo terráqueo)",
+    "ancho": 356,
+    "alto": 356,
+    "que_es": "Ficha de la wiki sobre el globo terráqueo de Mafalda, con la imagen 'Mafaldamundo.JPG' (356x356 según la propia wiki) y texto que lo llama 'uno de los elementos más icónicos en toda la tira'.",
+    "para_que": "Punto 25: símbolo icónico principal para un objeto real en la lámina (una esfera/globo terráqueo viejo).",
+    "licencia": "© Quino / Ediciones de la Flor. Página de wiki, sólo referencia de texto; la imagen específica no se descargó."
+  },
+  {
+    "url": "https://mafalda.fandom.com/es/wiki/Burocracia",
+    "fuente": "Mafalda Wiki (Fandom) · página propia 'Burocracia' (la tortuga)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la wiki sobre Burocracia, la tortuga mascota de Mafalda, que también odia la sopa.",
+    "para_que": "Punto 25: símbolo/vocabulario reconocible del mundo de Mafalda (chiste sobre la lentitud burocrática).",
+    "licencia": "© Quino / Ediciones de la Flor. Página de wiki, sólo referencia de texto."
+  },
+  {
+    "url": "https://mafalda.fandom.com/es/wiki/Nervocalm",
+    "fuente": "Mafalda Wiki (Fandom) · página propia 'Nervocalm'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la wiki sobre Nervocalm, la marca ficticia de pastillas para los nervios que aparece en varias tiras, inspirada en un producto real de Garden House.",
+    "para_que": "Punto 25: objeto/símbolo de utilería del mundo de Mafalda, con marca propia.",
+    "licencia": "© Quino / Ediciones de la Flor. Página de wiki, sólo referencia de texto."
+  },
+  {
+    "url": "https://parabrisas.perfil.com/noticias/novedades/citroen-2cv-quino-mafalda-muerte-argentina-historieta-auto-padre-2-cv.phtml",
+    "fuente": "Parabrisas (Perfil) · el Citroën 2CV/3CV de la familia de Mafalda",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota sobre el auto de la familia de Mafalda: un Citroën 2CV, fabricado en Argentina como 3CV ('la rana') desde 1959.",
+    "para_que": "Punto 25: símbolo de la clase media argentina de los 60, objeto reconocible del mundo de la tira.",
+    "licencia": "Artículo de prensa. Sólo referencia de texto."
+  },
+  {
+    "url": "https://lanuez.blogspot.com/2008/04/quino-te-cuenta-como-dibuja.html",
+    "fuente": "Blog 'La Nuez' · entrevista a Quino sobre su técnica",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista donde Quino describe en primera persona su proceso (lápiz y luego tinta china), su papel (Fabriano F4, Schoeller) y sus plumas (Blanzy, Rotring 1/3/5).",
+    "para_que": "Punto 18: fuente primaria de la técnica real de dibujo, clave para la guía de replicación en Photoshop/Blender.",
+    "licencia": "Entrevista reproducida en un blog. Sólo referencia de texto."
+  },
+  {
+    "url": "https://dreamers.es/mafalda/Entrevista/entrevista_a_quino.htm",
+    "fuente": "Dreamers.es · entrevista a Quino",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista donde Quino habla de su línea (limpia vs. 'abigarramiento barroco') y nombra sus influencias directas (Sempé, Chaval, Palomo, Fontanarrosa, Rus, Mordillo).",
+    "para_que": "Punto 18 (trazo) y punto 24 (influencias declaradas por el propio autor, fuente primaria).",
+    "licencia": "Entrevista publicada en la web. Sólo referencia de texto."
+  }
+]

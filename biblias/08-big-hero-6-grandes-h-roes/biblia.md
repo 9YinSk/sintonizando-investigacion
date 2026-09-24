@@ -8,19 +8,44 @@ fecha: 2026-09-24
 # Biblia · Grandes Héroes (Big Hero 6) — para #soporte
 
 > [!important] Cómo se hizo esta investigación
-> La red del contenedor estaba cerrada. Fandom, Doblaje Wiki, Wikipedia,
-> YouTube, TV Tropes, IMP Awards, Poly Haven, Sketchfab, audiofrases,
-> la web de Wong-Baker y la de la CMU daban error 403 o 000.
-> Se usó el buscador web (**49 búsquedas**, en español, inglés, japonés,
-> chino y coreano) y GitHub, que sí responde.
-> Por GitHub se abrió de verdad:
-> - **La ficha de Anime News Network del manga** de Big Hero 6 (copia en GitHub).
-> - **24 letras de Google Fonts**: se bajaron y se comprobó letra a letra
->   si traen á é í ó ú ñ ¿ ¡. Una de ellas (Kosugi Maru) **no las trae**.
->
-> Sin red completa **no hay hojas de contacto** ni carpeta `hojas/`.
-> No se vio ninguna imagen ni vídeo: se describen por lo que dicen las fuentes.
-> ✅ = confirmado en dos fuentes. ⚠️ = dudoso, una sola fuente o de memoria.
+> - **Primera pasada (red cerrada)**: Fandom, Doblaje Wiki, Wikipedia,
+>   YouTube, TV Tropes, IMP Awards, Poly Haven, Sketchfab, audiofrases,
+>   la web de Wong-Baker y la de la CMU daban error 403 o 000. Se usó el
+>   buscador web (**49 búsquedas**, en español, inglés, japonés, chino y
+>   coreano) y GitHub: la ficha de Anime News Network del manga y **24
+>   letras de Google Fonts** comprobadas letra a letra (Kosugi Maru **no**
+>   trae tildes). No se vio ninguna imagen ni vídeo.
+> - **Segunda pasada (24-sep-2026, red abierta)**: un equipo de **cuatro
+>   investigadores** (imagen, vídeo, voz, texto) y un redactor. Se pudo
+>   usar: las APIs de Fandom (`disney` y `bighero6`), Doblaje Wiki, The
+>   Dubbing Database, Sketchfab, Wallhaven, ambientCG, Wikipedia y
+>   Dailymotion; **7 hojas de contacto** (299 imágenes de la wiki,
+>   miradas todas); **9 clips de Dailymotion e Internet Archive mirados**
+>   con `fotogramas.py` (el tráiler latino entero, 92 fotogramas);
+>   **3 clips doblados oídos** con `voz.py` (frases textuales con minuto);
+>   **colores medidos** con Pillow y `estilo.py`; 9 letras comprobadas con
+>   fontTools.
+> - **Lo que no se pudo**: YouTube pidió iniciar sesión todo el día
+>   («Sign in to confirm you're not a bot»), TikTok no deja ver vídeos,
+>   TV Tropes y Memedroid dieron 403, Wayback Machine cortó la conexión.
+>   Por eso los minutos son **del clip citado**, no de la película entera.
+> - ✅ = confirmado en dos fuentes o visto. ⚠️ = dudoso, una sola fuente o
+>   de memoria. ❌ = no hecho o no sirve.
+
+> [!note] Segunda pasada · qué cambió
+> (se completa al terminar el repaso)
+
+> [!tip] Índice
+> 1 El canal · 2 El más querido · 3 Arte oficial y **hojas de contacto**
+> (§3.0) · 4 Escenas con minuto · 5 3D y fan art · 6 Sitios, luz y
+> paleta · 7 Tipografía · 8 Cuadro de diálogo · 9 Personajes · 10 Doblaje
+> latino · 11 Música · 12 Vídeos · 13 Videojuegos · 14 Fandom y qué no
+> hacer · 15 Poses · 16 Vestuario · 17 Fondos · **A** Técnica (punto 18)
+> · **B** Texturas 2D (19) · **C** Gustos (20) · **D** Por qué la aman
+> (21) · **E** Fan dubs (22) · **F** Colaboraciones (23) · **G** Obras
+> parecidas (24) · **H** El mundo (25) · 18 Guía para IA de imagen y de
+> texto (punto 17) · 19 Tres conceptos · 20 Lo no verificado · 21
+> Fuentes · Cumplimiento del encargo · 22 Bitácora.
 
 ---
 
@@ -40,7 +65,25 @@ hospitales reales ✅ ([TV Tropes, Funny](https://tvtropes.org/pmwiki/pmwiki.php
 [Rated PT](https://ratedpt.wordpress.com/2021/02/16/big-hero-6-on-a-scale-of-1-10/)).
 Y **no se apaga hasta que el paciente dice «estoy satisfecho con mi
 cuidado»**. Eso es un ticket: se abre con un dolor y se cierra cuando la
-persona queda bien.
+persona queda bien. En el doblaje latino, Baymax lo dice así: **«Puedo
+desactivarme si dices que estás satisfecho con tu cuidado.»** ✅ (oído,
+[Dailymotion x5hvz3y, 0:55](https://www.dailymotion.com/video/x5hvz3y?t=55); punto 10).
+
+**La tabla del dolor de verdad existe y se vio** (segunda pasada):
+- **Película**: al activarse, el pecho de Baymax enciende la escala de
+  10 caras ✅ (visto, [clip «Meet Baymax», 1:02](https://www.dailymotion.com/video/x2553ox?start=62)).
+- **Serie de TV**: su pecho proyecta una **cajita blanca redondeada con
+  10 caritas en 2 filas de 5**, numeradas del 1 al 10 debajo, de
+  **amarillo** (sin dolor) a **naranja** y **rojo** ✅ (visto y medido,
+  [Scale_8.png, 1280×720](https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png)).
+  Hex medidos: fondo `#FDF9EF` / `#FAE8D7`, cara 1 `#F1E815`, caras 6-7
+  `#EDB413`, cara 10 `#F0764E`.
+- Baymax la presenta con su frase de guion: «On a scale of 1 to 10, how
+  would you rate your pain?» ✅ ([transcripción](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)).
+  En latino circula «En una escala del uno al diez, ¿cómo calificarías
+  tu dolor?» ⚠️ (sin oír; punto 10).
+- La tabla vive **proyectada sobre el vinilo**: Baymax tiene un proyector
+  en el pecho ✅ ([ficha de Baymax](https://bighero6.fandom.com/wiki/Baymax)).
 
 > [!warning] Falta un dato del servidor
 > El inventario no dice **cómo** se abre el ticket (botón de un bot,
@@ -54,26 +97,33 @@ persona queda bien.
 | Baymax, saludo | **Hola. Estoy aquí para ayudarte.** |
 | Paso 1 | **Abre un ticket.** |
 | Paso 2 | **Solo lo vemos tú y el staff.** |
-| Paso 3 | **Dinos del 0 al 10 cuánto te duele.** |
+| Paso 3 | **Dinos del 1 al 10 cuánto te duele.** |
 | Pie | **El ticket se cierra cuando digas que estás satisfecho con tu cuidado.** |
 
 - El saludo y la escala son **adaptaciones**, no citas. Las frases
   latinas reales están en el punto 10, con su estado.
-- El pie imita la frase del final de la película. En latino circula
-  «Estoy satisfecho con mi cuidado» ✅ (punto 10).
+- El pie imita la frase de Baymax en el doblaje latino: «…si dices que
+  estás satisfecho con **tu** cuidado» ✅ (oída, punto 10). Hiro, al
+  final, responde en primera persona: «Estoy satisfecho con mi cuidado»
+  (dos fuentes de texto, ⚠️ sin oír en el clip).
+- **Del 1 al 10**, no del 0: así la cuenta Baymax en pantalla y en su
+  frase (antes decía «del 0 al 10»).
 - Sin «·», «—» ni paréntesis. Cada texto va en su sitio del objeto.
 
 ### La tabla del dolor del servidor (propuesta, falta su sí)
 
-Se usan los números del 0 al 10 de la escala numérica de dolor (NRS), la
-más usada en hospitales: 0 es sin dolor y 10 el peor imaginable
-([Nurse-Link, Corea](https://nurse-link.co.kr/community/campus_talk/108851764)).
-Las caras se dibujan **al estilo de Baymax** (dos puntos y una raya),
-no se copian las de Wong-Baker (ver aviso de licencia en el punto 3).
+Se copia **la forma de la tabla de la serie**: caja blanca redondeada,
+10 caritas en 2 filas de 5, números del 1 al 10 debajo y el degradado
+amarillo → naranja → rojo con los hex medidos arriba. Los cinco niveles
+del servidor son parejas de caritas. La escala numérica de dolor de los
+hospitales va del 0 al 10 ([Nurse-Link, Corea](https://nurse-link.co.kr/community/campus_talk/108851764));
+aquí se empieza en 1, como Baymax. Las caras se dibujan **al estilo de
+Baymax** (dos puntos y una raya), no se copian las de Wong-Baker (ver
+aviso de licencia en el punto 3).
 
 | Nivel | Cara | Nombre | Ejemplos |
 |---|---|---|---|
-| 0 a 2 | tranquila | **Una duda** | No encuentras un canal. No sabes cómo va algo. |
+| 1 a 2 | tranquila | **Una duda** | No encuentras un canal. No sabes cómo va algo. |
 | 3 a 4 | leve | **Algo no funciona** | Un rol que no te sale. Un bot que no responde. |
 | 5 a 6 | molesta | **Me incomoda** | Un roce con alguien. Algo que te sentó mal. |
 | 7 a 8 | mucho | **Urgente** | Acoso. Spam. Algo que no debería estar. |
@@ -108,9 +158,24 @@ Hiro), pero sí la cara de todo.
   en Disney sólo la supera Frozen ⚠️ (dato del resumen del buscador,
   sin abrir la página; [Wikipedia JA](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9),
   [eiga.com](https://eiga.com/movie/80460/)).
-- **Encuesta de fans japonesa** (みんなのランキング): **1.º Baymax**,
-  97,9 puntos con 86 votos; **2.º Hiro**, 92,4 con 69 votos ⚠️ (una sola
-  fuente, vista por el buscador) ([ranking.net](https://ranking.net/rankings/best-baymax-characters)).
+- **Encuesta de fans japonesa** (みんなのランキング), **abierta entera**
+  el 24-sep-2026 (la web dice «última actualización: 2026/09/21»; sigue
+  recibiendo votos) ✅ ([ranking.net](https://ranking.net/rankings/best-baymax-characters)):
+
+| Puesto | Personaje | Puntos | Evaluadores | Voz japonesa |
+|---|---|---|---|---|
+| 1.º | **Baymax** | 97,4 | 99 | 川島得愛 |
+| 2.º | Hiro | 90,9 | 70 | 本城雄太郎 |
+| 3.º | **GoGo** | 80,2 | 44 | 浅野真澄 |
+| 4.º | Tadashi | 79,5 | 47 | 小泉孝太郎 |
+| 5.º | **Mochi, el gato** | 79,4 | 25 | — |
+
+  La primera pasada vio por el buscador 97,9 con 86 votos: los números
+  se mueven, el orden no. **Hasta el gato Mochi queda casi empatado con
+  Tadashi.**
+- **Taquilla mundial**: 657,8 millones de dólares, la animada más
+  taquillera de 2014; **Japón aportó 76 millones** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film)),
+  [Box Office Mojo](https://www.boxofficemojo.com/release/rl2708621313/)). Más en §D.
 - **China:** allí le llaman **«大白» (el Gran Blanco)**. Los peluches se
   agotaron en internet ([China News](https://www.chinanews.com.cn/m/cul/2015/03-02/7092799.shtml),
   [China Daily](http://china.chinadaily.com.cn/shizheng/2015-03/06/content_19740449.htm)).
@@ -131,7 +196,10 @@ Hiro), pero sí la cara de todo.
   [Infobae](https://www.infobae.com/mexico/2026/01/27/muerte-de-alexis-ortega-a-que-personajes-dio-voz-el-actor-ademas-de-spider-man-de-tom-holland/),
   [TikTok homenaje](https://www.tiktok.com/@lavidadeldoblaje_/video/7600428235201006868)).
 - Un fan de Fanpop pone primero a Honey Lemon: es una opinión suelta, no
-  una encuesta ([Fanpop](https://www.fanpop.com/clubs/big-hero-6/articles/252355/title/review-big-hero-6-characters)).
+  una encuesta ([Fanpop](https://www.fanpop.com/clubs/big-hero-6/articles/252355/title/review-big-hero-6-characters));
+  revisado otra vez: no tiene conteo de votos.
+- **Encuesta oficial de Disney por personajes**: se volvió a buscar en
+  inglés y japonés («ビッグヒーロー6 人気投票 公式») y **no la encontré**.
 
 **Para #soporte:** Baymax habla. Hiro puede ser «el paciente» que abre
 el ticket. Tadashi, como mucho, un guiño (su gorra), por respeto.
@@ -829,6 +897,54 @@ la sudadera, la gorra de Tadashi.
 
 ---
 
+## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+(pendiente)
+
+---
+
+## B · Texturas 2D (punto 19)
+
+(pendiente)
+
+---
+
+## C · Gustos y detalles de cada personaje (punto 20)
+
+(pendiente)
+
+---
+
+## D · Por qué la gente la ama (punto 21)
+
+(pendiente)
+
+---
+
+## E · Fan dubs y comunidad hispana (punto 22)
+
+(pendiente)
+
+---
+
+## F · Colaboraciones, figuras y cosplay (punto 23)
+
+(pendiente)
+
+---
+
+## G · Obras parecidas y temas relacionados (punto 24)
+
+(pendiente)
+
+---
+
+## H · El mundo, la historia y sus símbolos (punto 25)
+
+(pendiente)
+
+---
+
 ## 18 · Guía para describir el estilo a una IA de imagen
 
 Sólo es una guía que pide el encargo. **Las láminas no se hacen con IA**:
@@ -1109,6 +1225,12 @@ abrieron por GitHub.
 
 (Más de doblaje en la tabla del punto 10: Infobae, El Informador,
 LatinUS, SoundCloud, Radio Disney MX, dubdb, eldoblaje, audiofrases.)
+
+---
+
+## Cumplimiento del encargo
+
+(pendiente)
 
 ---
 
