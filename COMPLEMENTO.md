@@ -1,4 +1,4 @@
-# COMPLEMENTO — la segunda pasada de las biblias 01-25
+# COMPLEMENTO — la segunda pasada de las biblias 01-30
 
 Las biblias 01-25 se hicieron con la red cerrada: sólo buscador web y GitHub.
 No tienen hojas de contacto, casi no usan Doblaje Wiki ni minutos de YouTube, y
@@ -6,6 +6,12 @@ muchos tamaños y datos llevan ⚠️. Ahora la red está abierta. Tu trabajo es
 **corregirlas y completarlas, no rehacerlas**. Sigue `AYUDANTE.md` (reglas del
 contenedor, herramientas de red, cómo guardar por partes) y `ENCARGO.md` (lo que
 tiene que tener una biblia).
+
+Las biblias **26-30** sí tuvieron la red abierta y hojas, pero se hicieron antes
+de las reglas de «Mira los vídeos de verdad» y de la tabla «Cumplimiento del
+encargo» (AYUDANTE.md). En ellas lo principal es: mirar los vídeos con
+fotogramas.py (o Dailymotion / Internet Archive), frases del doblaje textuales,
+bajar ⚠️ y añadir la tabla.
 
 ## Antes de tocar nada
 
