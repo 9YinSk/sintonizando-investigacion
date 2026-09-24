@@ -481,6 +481,128 @@ necesitan clips animados de la saga Human Monster / Monster Association, que
 al cierre de esta tanda no encontré doblados ni en versión original en
 Dailymotion/Internet Archive con esas escenas exactas.
 
+### Garou, Sonic, Bang, Boros, Amai Mask, Metal Bat, Puri-Puri Prisoner y Zombieman: su cara en cada emoción
+
+Búsqueda por palabra clave en el namespace de archivos de la wiki en inglés
+(`srnamespace=6`, `<Personaje> happy/angry/sad/scared/embarrassed` y variantes:
+smile, rage, crying, terrified, blushing…), imágenes bajadas con cabecera
+`Referer: https://www.fandom.com/` y **miradas por mí** en hojas de contacto
+armadas con Pillow antes de citar cada una (método del punto 4 de AYUDANTE.md).
+No hay clips de Dailymotion con estos personajes en primer plano de cara
+(los únicos clips útiles de `datos-video.md` son openings/trailers; el clip
+`x9b8564`, Boros vs. Saitama, ya se probó en la tanda anterior con
+`fotogramas.py` y sólo dio efectos de pelea, no caras, según la bitácora
+previa — no lo repetí para no gastar cupo en lo que ya falló dos veces).
+
+**Garou**
+- **Alegría**: sonrisa amplia y ojos muy abiertos, riendo con la boca abierta
+  (registro de villano disfrutando el caos, no ternura) — [«Garou happy.jpg»](https://static.wikia.nocookie.net/onepunchman/images/f/f4/Garou_happy.jpg) (526×491, medida por mí) ✅ vista.
+- **Rabia**: rostro monstruoso, ojos rojos, boca abierta gritando — coincide
+  con el trauma de infancia con «Tacchan» ya descrito arriba —
+  [«Garou screams in anger while remembering his childhood trauma.png»](https://static.wikia.nocookie.net/onepunchman/images/b/bd/Garou_screams_in_anger_while_remembering_his_childhood_trauma.png) (1528×862) ✅ vista.
+- **Tristeza** (⚠️ es más dolor/agonía física que llanto): primer plano
+  ensangrentado, mano extendida, gesto de sufrimiento tras una paliza —
+  [«Garou severly injured.jpg»](https://static.wikia.nocookie.net/onepunchman/images/6/62/Garou_severly_injured.jpg) (1720×1236) ✅ vista, ⚠️ no es tristeza "pura".
+- **Miedo**: fotograma de anime, ojos muy abiertos, cejas alzadas, claro
+  susto — [«Garou fearful.png»](https://static.wikia.nocookie.net/onepunchman/images/7/78/Garou_fearful.png) (1920×1080) ✅ vista.
+- **Vergüenza**: no lo encontré (busqué "Garou embarrassed/blushing/shy",
+  sin resultados en namespace de archivos).
+
+**Sonic (Speed-o'-Sound Sonic)**
+- **Alegría**: sonrisa confiada/de superioridad, no de ternura — encaja con
+  su arrogancia — [«Sonic smile.png»](https://static.wikia.nocookie.net/onepunchman/images/4/43/Sonic_smile.png) (860×457) ✅ vista.
+- **Tristeza** ⚠️ (candidato débil, más derrota que rostro triste): tirado
+  en el suelo tras perder contra Saitama, cara no muy visible —
+  [«Sonic defeated by Saitama.png»](https://static.wikia.nocookie.net/onepunchman/images/1/19/Sonic_defeated_by_Saitama.png) (1600×900) ✅ vista, ⚠️ candidato débil.
+- **Rabia, miedo, vergüenza**: no encontré cara propia clara (busqué "Sonic
+  angry/furious/frustrated", "Sonic scared/terrified/shocked", "Sonic
+  embarrassed/blushing"; los resultados devolvían siempre las mismas 3-4
+  imágenes de ficha, sin cara marcada por esas emociones).
+
+**Bang**
+- **Miedo** ⚠️ (sin confirmar al 100% que sea su propio rostro): viñeta
+  doble de la wiki, un héroe de pelo blanco alborotado (compatible con el
+  diseño de Bang) grita con los ojos muy abiertos ante el golpe de Melzargard
+  — [«S Class Heroes shocked by Melzargard hitting Bang.jpg»](https://static.wikia.nocookie.net/onepunchman/images/5/5b/S_Class_Heroes_shocked_by_Melzargard_hitting_Bang.jpg) (921×721) ✅ vista, ⚠️ el título dice
+  "Heroes" en plural y hay 2 personajes en la imagen, no puedo jurar cuál
+  panel es Bang exactamente.
+- **Alegría, rabia, tristeza, vergüenza**: no encontré (busqué "Bang
+  laughing/smile", "Bang furious/scolds/reprimands", "Bang sad/disappointed",
+  "Bang embarrassed"; sin resultados de cara propia en el namespace de
+  archivos — Bang es un personaje muy secundario, con pocas imágenes en la
+  wiki en general).
+
+**Boros**
+- **Alegría**: sus tres ojos muy abiertos, sonrisa amplia con colmillos,
+  iluminación azul/púrpura de su nave, al ver pelear a Saitama —
+  [«Boros delighted to see Saitama.png»](https://static.wikia.nocookie.net/onepunchman/images/7/7e/Boros_delighted_to_see_Saitama.png) (1916×1080) ✅ vista.
+- **Tristeza** (en realidad serenidad/aceptación, no llanto): cuerpo
+  destruido, cabello blanco desordenado, gesto de paz al morir — coincide
+  con "muere en paz tras la pelea" ya descrito en el punto 13 —
+  [«Boros dying.jpg»](https://static.wikia.nocookie.net/onepunchman/images/f/fe/Boros_dying.jpg) (914×681) ✅ vista.
+- **Rabia, miedo, vergüenza**: no lo encontré (busqué "Boros furious/enraged/
+  roars/bloodlust", "Boros scared/afraid", sin resultados propios) — encaja
+  con su personalidad orgullosa de alienígena que sólo busca un rival, no
+  muestra miedo ni vergüenza en ninguna escena que la wiki tenga fichada.
+
+**Amai Mask (Beaut / Sweet Mask)**
+- **Rabia**: fotograma real de anime (temporada 2, episodio 19), primer
+  plano, un solo ojo visible entre el pelo, mueca fría y amenazante, saco de
+  cuadros — [«S2E19 - Sweetmask's angry face.png»](https://static.wikia.nocookie.net/onepunchman/images/9/96/S2E19_-_Sweetmask%27s_angry_face.png) (1920×1080, con capítulo:
+  T2E19) ✅ vista. Alternativa de manga con expresión más abierta:
+  [«Sweet Mask angry face.jpg»](https://static.wikia.nocookie.net/onepunchman/images/b/b2/Sweet_Mask_angry_face.jpg) (863×1005) ✅ vista.
+- **Alegría** (en su faceta pública, no ternura): cantando/actuando en un
+  escenario con micrófono ante público, fotograma de anime — [«Amai Mask
+  performing.png»](https://static.wikia.nocookie.net/onepunchman/images/e/e9/Amai_Mask_performing.png) (746×443) ✅ vista.
+- **Tristeza, miedo, vergüenza**: no lo encontré (busqué "Sweet Mask sad/
+  defeated", "Sweet Mask afraid/terrified/surprised", sin resultados propios)
+  — coincide con su ficha: jamás pierde la compostura pública, ni ante
+  peligro ni ante crítica (punto 13, "obsesionado con su imagen").
+
+**Metal Bat (Bad)**
+- **Rabia**: primer plano de manga, ceño fruncido, mirada intensa, creciendo
+  el enfado — [«Metal Bat becoming angry with the sponsors.png»](https://static.wikia.nocookie.net/onepunchman/images/8/8f/Metal_Bat_becoming_angry_with_the_sponsors.png) (333×900) ✅ vista.
+- **Alegría, tristeza, miedo, vergüenza**: no lo encontré con cara propia
+  clara (busqué "Metal Bat/Bad smile/grinning/proud", "crying/sad", nada
+  específico; los candidatos que sí salieron —«Metal Bat Featured Icon»,
+  «Bad (Metal Bat).png»— muestran su cara de combate seria/cicatrizada o su
+  diseño de cuerpo entero, no una emoción concreta; los miré y no sirven).
+
+**Puri-Puri Prisoner**
+- **Alegría** ⚠️ (pose, no rostro claro en la miniatura): pose corporal
+  exuberante y desinhibida en plena calle, con un preso diminuto al fondo —
+  encaja con su personalidad extrovertida sin pudor — [«Puri-Puri Prisoner
+  takes his Angel Style stance naked.png»](https://static.wikia.nocookie.net/onepunchman/images/b/b3/Puri-Puri_Prisoner_takes_his_Angel_Style_stance_naked.png) (1496×1782) ✅ vista, ⚠️ es más pose
+  que primer plano de cara.
+- **Rabia, tristeza, miedo**: no lo encontré con cara propia clara.
+- **Vergüenza**: no lo encontré ninguna imagen (busqué "Puri-Puri Prisoner
+  embarrassed/blushing"). Dato en sí interesante: encaja con su ficha (punto
+  13), un personaje que jamás muestra pudor pese a posar desnudo o acosar a
+  los presos que atrapa — no hay ni una imagen etiquetada así en la wiki.
+
+**Zombieman**
+- **Rabia**: perfil fumando, mirada entrecerrada e intensa, gesto contenido
+  — [«Zombieman angry.png»](https://static.wikia.nocookie.net/onepunchman/images/0/02/Zombieman_angry.png) (714×538) ✅ vista.
+- **Miedo**: ojos muy abiertos, boca abierta, gotas de sudor — [«Zombieman
+  shocked.png»](https://static.wikia.nocookie.net/onepunchman/images/5/56/Zombieman_shocked.png) (308×280) ✅ vista.
+- **Alegría, tristeza, vergüenza**: no lo encontré (busqué "Zombieman smile/
+  grin/amused", "Zombieman sad/regret/mourns", "Zombieman embarrassed") —
+  coincide con su ficha nihilista (punto 13): no se le conoce una escena de
+  alegría plena ni de vergüenza en toda la wiki.
+
+`Sigue` (si otra tanda retoma esta parte): quedan sin cara propia confirmada
+— Sonic (rabia, miedo, vergüenza), Bang (alegría, rabia, tristeza, vergüenza;
+su miedo actual lleva ⚠️ por no poder confirmar el panel), Boros (rabia,
+miedo, vergüenza), Amai Mask (tristeza, miedo, vergüenza), Metal Bat
+(alegría, tristeza, miedo, vergüenza), Puri-Puri Prisoner (rabia, tristeza,
+miedo; su alegría actual es sólo pose, no rostro) y Zombieman (alegría,
+tristeza, vergüenza). Para estos secundarios el patrón que encontré es que
+la wiki en inglés etiqueta pocas imágenes por emoción (a diferencia de los
+protagonistas): habría que revisar directamente los capítulos del manga
+(wikitext de cada arco) página por página, o pasar `fotogramas.py` sobre
+clips de temporada 2-3 completos si aparecen en Dailymotion/Internet Archive
+(los que hay en `datos-video.md` son sólo openings/trailers, no sirven).
+
 ---
 
 ## Punto 20 · Gustos y detalles de cada personaje
@@ -684,6 +806,16 @@ servidor deje de pedir inicio de sesión.
   alegría/enfado de Genos**: esas escenas pertenecen a arcos que la T3
   (parte 1, hasta ep. 36) no ha animado todavía al cierre de esta tanda
   (oct-dic 2025); sólo existen en manga.
+- **(Ronda 2) Caras de Sonic (rabia, miedo, vergüenza), Bang (alegría, rabia,
+  tristeza, vergüenza), Boros (rabia, miedo, vergüenza), Amai Mask (tristeza,
+  miedo, vergüenza), Metal Bat (alegría, tristeza, miedo, vergüenza),
+  Puri-Puri Prisoner (rabia, tristeza, miedo) y Zombieman (alegría, tristeza,
+  vergüenza)**: no hay imagen con esa emoción etiquetada en el namespace de
+  archivos de la wiki en inglés pese a buscar variantes en inglés de cada
+  emoción por personaje (detalle en punto 13). Para varios de ellos (Boros,
+  Amai Mask, Puri-Puri Prisoner, Zombieman) coincide con su propio diseño de
+  personaje, que casi no muestra esas emociones (lo anoto en el punto 13, no
+  lo repito aquí).
 
 ---
 
@@ -735,20 +867,33 @@ servidor deje de pedir inicio de sesión.
   con el resto del equipo (2 intentos); no la usé al final, cubrí ventas y
   premios con las dos fuentes de la búsqueda web (ComicBook.com,
   AnimeExplained) en su lugar.
+- **(Ronda 2, punto 13 de Garou/Sonic/Bang/Boros/Amai Mask/Metal Bat/
+  Puri-Puri Prisoner/Zombieman)** One-Punch Man Wiki (Fandom, inglés), API
+  directa: ~90 búsquedas `action=query&list=search&srnamespace=6` con
+  `<Personaje> <emoción en inglés>` (happy/smile/laugh, angry/rage/furious,
+  sad/crying/tears, scared/afraid/terrified/shocked,
+  embarrassed/blushing/shy, y variantes) para los 8 personajes; **24 imágenes
+  candidatas bajadas** (cabecera `Referer: https://www.fandom.com/`) y
+  **miradas en 5 hojas de contacto armadas con Pillow** antes de citar cada
+  una (`sheet_A` a `sheet_E`); de ahí salieron las 15 imágenes citadas en el
+  punto 13. Confirmé que `fotogramas.py` sobre el clip de Dailymotion
+  `x9b8564` (Boros vs. Saitama, ya usado en la ronda 1) no da caras
+  utilizables (sólo efectos, según la bitácora de la ronda 1) y no repetí esa
+  prueba para no gastar cupo en algo que ya falló.
 
 Carpeta de trabajo (fuera del repositorio, con los audios, fotogramas e
-imágenes que miré): `/tmp/claude-0/trabajo/35-voz/`.
+imágenes que miré): `/tmp/claude-0/trabajo/35-voz/` (ronda 1) y
+`.../scratchpad/voz2/` de esta sesión (ronda 2, imágenes de Fandom y hojas de
+contacto).
 
 ---
 
-Sigue: punto 13, «su cara en cada emoción con fotograma y minuto» — cubierto
-con ejemplos reales para Saitama (calma/miedo cómico), Genos (rabia),
-Tatsumaki (tristeza), Mumen Rider (determinación), Fubuki (seriedad) y King
-(miedo), pero falta la rabia/alegría/vergüenza de varios de ellos y las 5
-emociones completas de Garou, Sonic, Bang, Boros, Amai Mask, Metal Bat,
-Puri-Puri Prisoner y Zombieman (sólo tienen "qué transmite" en texto, sin
-fotograma propio). Requiere más búsquedas de imágenes por palabra clave en
-`onepunchman.fandom.com` (namespace de archivos, `srnamespace=6`) con términos
-como "<Personaje> happy/sad/angry/embarrassed" y, para las escenas ya
-animadas, más pasadas de `fotogramas.py` sobre los clips de Dailymotion ya
-listados en `datos-video.md`.
+No encontré tras 2 tandas (⚠️, lo marca el redactor): quedan sin cara propia confirmada (detalle y búsquedas ya hechas en el
+punto 13) Sonic (rabia, miedo, vergüenza), Bang (alegría, rabia, tristeza,
+vergüenza — su miedo actual lleva ⚠️), Boros (rabia, miedo, vergüenza), Amai
+Mask (tristeza, miedo, vergüenza), Metal Bat (alegría, tristeza, miedo,
+vergüenza), Puri-Puri Prisoner (rabia, tristeza, miedo) y Zombieman (alegría,
+tristeza, vergüenza). Para cubrirlas de verdad probablemente haga falta leer
+capítulo por capítulo el manga de esos arcos (wikitext) en vez de buscar por
+palabra clave en el namespace de archivos, que ya se agotó para estos 8
+personajes secundarios.
