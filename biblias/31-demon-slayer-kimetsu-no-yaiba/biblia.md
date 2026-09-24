@@ -2141,6 +2141,34 @@ cambian. A y B son para **LA ACADEMIA** (el Aula y su lámina 2); C es para
   desenfocada; chispas verdes delante de todo; luz de **farol naranja**
   (`#C68146`) de un lado y noche azul del otro; el biombo del pino al fondo.
 
+### Segunda pasada: qué mejora en los tres
+
+Los tres se quedan (ninguno repite otra lámina del servidor, §25.3). Lo
+nuevo los hace más fieles:
+
+- **Los tres, cómo se renderizan**: sitio y objeto con **luz realista**
+  en Cycles; personajes en **capa aparte**, planos, con línea de
+  Freestyle; *Paper 005* en *Overlay* encima (§19.4). Así compone
+  ufotable (§19.1).
+- **A · calabazas**: el **sello de glicinia** del Cuerpo (§20.2), pequeño,
+  en una esquina de la cartela o de la tira de papel. En la serie marca las
+  casas que **ayudan sin cobrar**: encaja con una clase abierta. Para el
+  Tanjiro del fondo, el [modelo con *rig* de
+  Light.k](https://sketchfab.com/3d-models/none-0ab5b317b7654fd29255d22182537ded)
+  (CC BY, con crédito) sirve para **probar el ángulo**; el personaje final
+  sigue siendo recorte de arte oficial (§18). Las polainas de Shinobu
+  llevan **alas de mariposa** (§20.1): no hay versión libre, se pintan.
+- **B · Secreto Taisho**: un Secreto es **un dato curioso de verdad**.
+  Una tablilla puede llevar uno del **databook** (§21.1), p. ej. «A
+  Shinobu le encantan las historias de fantasmas». Si se prefiere, las
+  cuatro tablillas siguen el **Entrenamiento de los Pilares** (§26.2):
+  cada Pilar enseña una cosa, en orden.
+- **C · Zenko**: sus **cartas *hanafuda*** (su afición, §21.1)
+  desparramadas en el tatami, en primer plano. El *haori* con el
+  **triángulo *uroko*** en relieve ([Uroko.svg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg),
+  dominio público, §20.1). Para el fandom, **Zenitsu serio** es su mejor
+  momento (§22.5): si se quiere otra cara, esa.
+
 ### ¿Cuál primero?
 
 **A**. Es el que mejor junta lo que pide el dueño: un **objeto real que se
