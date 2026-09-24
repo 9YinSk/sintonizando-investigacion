@@ -995,8 +995,8 @@ fichas de la wiki. ✅ salvo lo marcado.
   cintas y la luna, **el broche** y **Luna con su luna en la frente**.
   ✅ (vistos)
 - **Usagi llorona, glotona y que llega tarde**; **Rei regañándola**. ✅
-- La serie tiene una **presencia enorme en su doblaje**: se dobló a 42
-  idiomas (Doblaje Wiki). ⚠️
+- Se dobló a **42 idiomas**: el anime con más doblajes conocidos, según
+  Doblaje Wiki. ⚠️
 
 ### 14.2 Qué NO hacer ✅
 
@@ -1111,6 +1111,81 @@ dedo en los labios (1200×1412). Bueno para «un secreto».
 | **pensar** | Usagi #3 o #5; Ami #2 |
 | **animar** | Makoto #1; Minako #6; Ami #1 |
 | **saludar** | Makoto #3 (saludo militar con guiño) |
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Medido con `estilo.py` sobre el **retrato oficial de cada personaje** en
+la wiki (fondo transparente) y mirado para saber qué prenda es cada
+color. ✅ salvo lo marcado.
+
+### 16.1 Usagi
+
+- **De civil:** uniforme de la secundaria Juban, azul marino **`#222993`**,
+  cuello y moño con rayas rojas **`#C93A2E`**, medias blancas.
+- **Sailor Moon:** el mismo azul marino en el cuello, falda azul, moño
+  rojo `#C93A2E`, broche y tiara dorados **`#ECCD1E`**, botas rojas hasta
+  el muslo, gargantilla roja, pendientes de luna creciente.
+- **Pelo:** rubio en **odango** (dos moños con coletas larguísimas),
+  adornos rojos en los moños.
+- Imagen: [`Usagi_Tsukino_Sailor_Moon_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png) (775×838), civil y guerrera juntas.
+- **Es la única que usa la misma paleta de civil y de guerrera.**
+
+### 16.2 Ami
+
+- **De civil:** uniforme azul marino **`#20308D`**, moño rojo **`#C2191A`**,
+  mocasines oscuros; pelo corto azul oscuro a la altura del cuello; a
+  veces gafas de leer.
+- **Sailor Mercury:** leotardo blanco con hombreras, cuello azul con dos
+  rayas blancas, falda azul, tiara dorada con gema azul ovalada, botas
+  azules cortas con ribete blanco en pico. ✅ (texto de la wiki y
+  etiquetas de Danbooru)
+
+### 16.3 Rei
+
+- **De civil:** uniforme **gris** de su colegio católico con lazo granate
+  (medido **`#453B31`** y **`#442D32`**, en la sombra), calcetines blancos
+  con rayas rojas; pelo negro largo con brillo violeta.
+- **Sailor Mars:** traje rojo, guantes blancos, moño morado a la espalda,
+  tiara dorada, **calzado rojo de tacón**, pendientes de estrella.
+- **Miko:** el traje de sacerdotisa del templo, con mangas anchas (arte
+  de la wiki, §15.3).
+
+### 16.4 Makoto
+
+- **De civil:** uniforme caqui o mostaza **`#BDB162`** con cruce blanco al
+  frente; coleta alta con una liga verde; **pendientes de rosa**. La más
+  alta del grupo.
+- **Sailor Jupiter:** cuello y falda verdes, moño rosa, botas verdes. ⚠️
+  Sin hex propio: sólo el texto de la wiki y las etiquetas de Danbooru.
+
+### 16.5 Minako
+
+- **De civil:** uniforme azul **`#35258F`** con pañuelo y moño rojos; pelo
+  rubio muy largo, suelto, con un **gran lazo rojo**.
+- **Sailor Venus:** cuello y falda **naranjas**, moño azul. **Colores al
+  revés que de civil (azul ↔ naranja)**: así no se confunde con Usagi.
+- **Sailor V:** antifaz rosa y capa (§15.5).
+
+### 16.6 Luna y los demás
+
+- **Luna:** pelaje negro azulado **`#1F2333`** y **`#2D3248`**, luna creciente
+  dorada en la frente, ojos rojos en la primera temporada.
+- **Mamoru:** chaqueta y ropa de calle en la hoja #17-18 de
+  `personajes_01.jpg` (traje de moto de *S* y ropa de *R*). ⚠️ Sin hex.
+
+### 16.7 Por temporada, y lo que todos reconocen
+
+- Ami, Rei, Makoto y Minako **cambian su ropa de calle en *S*** (T3) y
+  vuelven a llevar uniforme compartido de preparatoria en *Sailor Stars*
+  (T5). Ejemplo de Rei: chaqueta turquesa con cuello alto naranja pálido
+  (T1-T2) → camisa azul de manga larga con chaleco rojo de cremallera
+  (desde *S*). El detalle de las cuatro está en el wikitext ya bajado.
+- **Lo icónico:** el traje de Sailor Moon (cuello azul marino, moño rojo,
+  botas rojas) y el uniforme de Juban.
+- Los trajes de marinero se basan en el **uniforme escolar de la propia
+  Takeuchi** (CBR, §19). ✅
 
 ---
 
