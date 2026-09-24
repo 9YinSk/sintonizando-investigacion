@@ -134,20 +134,20 @@ propios revisados a oído, «Seno» es «Zeno» mal transcrito):
 - Silva Zoldyck presentándose con humor negro de asesino profesional: «Si
   quieren que me encargue de asesinar a alguien, llámenme. Les daré el 30%
   de descuento.» · min. 2:10-2:13 ·
-  https://www.dailymotion.com/video/xcg420?start=130 ✅ (oído directo)
+  https://www.dailymotion.com/video/xcg420?t=130 ✅ (oído directo)
 - Gon confiando en Killua sin condiciones: «Dependo de ti, Killua.» — Killua
   responde, seco: «Suena muy egoísta.» · min. 1:20-1:21 ·
-  https://www.dailymotion.com/video/xcg420?start=80 ✅ — resume su dinámica:
+  https://www.dailymotion.com/video/xcg420?t=80 ✅ — resume su dinámica:
   Gon pide, Killua se queja pero cumple.
   Justo antes, Killua nota que Gon dejó de fingir amabilidad: «Finalmente
-  hablaste como tú, Killua.» · min. 1:10 · mismo enlace, `?start=70` ✅.
+  hablaste como tú, Killua.» · min. 1:10 · mismo enlace, `?t=70` ✅.
 - Chrollo Lucilfer (aquí «Curóro Luciful»), presentándose ante Neon con
   calma inquietante: «Bueno, la verdad es que mis amigos me llaman líder.»
-  · min. 3:50-3:52 · `?start=230` ✅; y su reflexión fría sobre la muerte:
+  · min. 3:50-3:52 · `?t=230` ✅; y su reflexión fría sobre la muerte:
   «¿Creas en la vida después de la muerte? Realmente no creo en la vida
   después de la muerte... El arte de adivinar es para el bienestar de las
   personas que están vivas.» · min. 5:24-5:31 ·
-  https://www.dailymotion.com/video/xcg420?start=324 ✅ — muy útil para un
+  https://www.dailymotion.com/video/xcg420?t=324 ✅ — muy útil para un
   cuadro de diálogo suyo: habla pausado, en párrafos largos, nunca grita.
 - Voz medida con `voz.py` sobre este mismo clip (6 min, varios personajes
   mezclados): registro medio (170 Hz), **muy expresiva** (23.5 semitonos de
@@ -219,28 +219,28 @@ en la carpeta de trabajo) ✅ (vídeo oficial, mirado directamente):
 
 - **Gon** — sorpresa/asombro genuino al conocer gente nueva: ojos muy
   abiertos, boca entreabierta, ceja levantada, al encontrarse con Leorio en
-  la puerta · plano 9, min. 0:10 · `?start=10` ✅. Grito de esfuerzo/rabia
+  la puerta · plano 9, min. 0:10 · `?t=10` ✅. Grito de esfuerzo/rabia
   con la boca muy abierta en diagonal, cuerpo lanzado hacia delante · plano
-  40, min. 0:55 · `?start=55` ✅. Ojos entrecerrados de determinación
+  40, min. 0:55 · `?t=55` ✅. Ojos entrecerrados de determinación
   soplando un globo/instrumento con las mejillas infladas · plano 57,
-  min. 1:21 · `?start=81` ✅.
+  min. 1:21 · `?t=81` ✅.
 - **Killua** — mueca de dolor/esfuerzo, un ojo cerrado, diente apretado,
-  cabeza ladeada · plano 36, min. 0:49 · `?start=49` ✅. Miedo/preocupación
+  cabeza ladeada · plano 36, min. 0:49 · `?t=49` ✅. Miedo/preocupación
   en primer plano: ojos muy abiertos mirando hacia algo fuera de cuadro,
   cejas curvadas hacia arriba (la expresión «tengo que hacer algo ya») ·
-  plano 39, min. 0:54 · `?start=54` ✅.
+  plano 39, min. 0:54 · `?t=54` ✅.
 - **Kurapika** — mirada intensa y fría, ojos entrecerrados, perfil serio de
-  tres cuartos (su «cara de decisión») · plano 38, min. 0:53 · `?start=53`
+  tres cuartos (su «cara de decisión») · plano 38, min. 0:53 · `?t=53`
   ✅. Sufrimiento físico, arrodillado y jadeando, mano en el suelo · planos
-  43-44, min. 1:00-1:02 · `?start=60` ✅. El momento más icónico de toda la
+  43-44, min. 1:00-1:02 · `?t=60` ✅. El momento más icónico de toda la
   serie para dibujar su cara: **ojos que pasan de gris a escarlata** por la
   rabia (su Nen sólo se activa así) en primer plano extremo · plano 45,
-  min. 1:04 · `?start=64` ✅ — es la imagen de referencia obligatoria si la
+  min. 1:04 · `?t=64` ✅ — es la imagen de referencia obligatoria si la
   lámina necesita «Kurapika enfadado».
 - **Leorio** — furia con la boca abierta gritando, ceño fruncido, de perfil
-  · planos 34 y 54, min. 0:46 y 1:16 · `?start=46` / `?start=76` ✅. Foco y
+  · planos 34 y 54, min. 0:46 y 1:16 · `?t=46` / `?t=76` ✅. Foco y
   determinación, sin camisa, sudando, mirando hacia arriba con seriedad
-  total (nada de su lado bromista) · plano 56, min. 1:18 · `?start=78` ✅ —
+  total (nada de su lado bromista) · plano 56, min. 1:18 · `?t=78` ✅ —
   útil para mostrar que, aunda bromista, también tiene un lado muy serio.
 
 **Cómo se expresa cada uno (voz, muletillas, tono)** — de la ficha oficial y
@@ -419,7 +419,7 @@ minuto donde se puede**:
 ## Lo mejor para la lámina
 
 1. **La cita de Kurapika con los ojos pasando a escarlata** (tráiler
-   oficial, `?start=64`) es LA imagen de referencia si el personaje
+   oficial, `?t=64`) es LA imagen de referencia si el personaje
    necesita mostrar rabia/Nen: es reconocible al instante para cualquier
    fan.
 2. Si el canal es de doblaje (como parece, ver `servidor/inventario.md`),
@@ -511,7 +511,7 @@ minuto donde se puede**:
   de contacto miradas enteras con `Read` antes de elegir los 8 fotogramas
   citados.
 - `herramientas/voz.py` sobre el clip doblado → transcripción completa (109
-  líneas) con minuto y enlace `?start=`, más ficha de voz (tono, rango,
+  líneas) con minuto y enlace `?t=`, más ficha de voz (tono, rango,
   velocidad).
 - TV Tropes (`Tearjerker/HunterXHunter`): bloqueado por Cloudflare
   (challenge JS) tanto en directo como en la copia de Wayback Machine
