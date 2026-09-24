@@ -122,6 +122,46 @@ Exploración», todos con una sola fuente; §20). Los otros son este aviso y las
 oficiales, Wayback, entrevistas a los actores latinos y vídeos vistos sólo por
 *storyboard*), que se marcan así a propósito.
 
+### Repaso corto (24-sep-2026): puntos 18-25
+
+Tres investigadores (texto, imagen, voz) y el redactor. `ENCARGO.md` añadió
+ese día los puntos 18-25; la tabla no los tenía.
+
+**Añadido** (secciones «Punto 18» a «Punto 25», entre §18 y §19):
+- **18 · Técnica**: Isayama dibuja a mano; WIT mezcla 2D y 3DCG; MAPPA, más
+  CG. Cómo hacerlo en Photoshop y Blender, 7 *rigs* CC BY y encuadre por
+  emoción.
+- **19 · Texturas 2D**: trama y rayado mirados en el manga; papel, tela y
+  cuero CC0; los uniformes no tienen estampado.
+- **20 · Gustos**: el té de Levi sin azúcar, la llave de Eren, el sueño de
+  Erwin, las gafas de Hange, por qué protege Mikasa.
+- **21 · Por qué la aman**: tres escenas que hacen llorar, **con minuto
+  exacto** (eps. 55, 67 y 93) y el mismo tema en dos de ellas, «Call of
+  Silence».
+- **22 · Fandubs**: fandubs y covers latinos, el debate de doblaje en TikTok.
+- **23 · Colaboraciones**: *Fortnite*, gachas, UNIQLO, cafés (uno abierto
+  ahora, con arte nuevo de WIT), USJ y **8 figuras con sus caras**.
+- **24 · Parecidas**: AniList con votos, influencias de Isayama y cómo no
+  repetir las láminas de Evangelion y Solo Leveling.
+- **25 · Mundo**: 5 reglas, 9 arcos y el vocabulario.
+- Antes, en este mismo repaso: una letra para cada uso (§6.1), la música de
+  las escenas tristes (§10.1), cara en cada emoción y dinámicas (§14.1-14.3) y
+  la guía para IA de texto (§18.1).
+- `referencias.json`: **40 → 218**.
+
+**Corregido (antes → ahora)**: la tabla de arcos de la parte decía «Levi y su
+escuadrón mueren» → **muere el escuadrón de Levi** (Levi sigue vivo en el
+ep. 55, Punto 21.2).
+
+**Conceptos**: la idea de los tres no cambia; ganan referencias (al final
+de §19).
+
+**Avisos ⚠️**: antes de este repaso, `grep` contaba **26**; ahora **90** (contando los de estos avisos y la bitácora). Casi
+todos son datos con una sola fuente en las secciones nuevas (alturas y
+manías del Punto 20, vistas de YouTube del 22). Las filas «a medias» de la
+tabla pasan de 4 a 6: se suman **20** (sin comida favorita) y **22** (vistas
+sin comprobar).
+
 ---
 
 ## 0 · En corto (para leer en el celular)
@@ -1805,37 +1845,466 @@ su enlace directo.
 
 ## Punto 20 · Gustos y detalles de cada personaje
 
-<!-- pendiente: punto 20 -->
+**En corto**: AoT **no tiene** la cultura de *databook* con «comida, color y
+afición favoritos» de otros shōnen. Lo que hay sale de entrevistas a Isayama
+recogidas en la wiki (Trivia) y de AniList. Lo ya dicho en §14 (la limpieza de
+Levi, los titanes de Hange, la bufanda) no se repite. Datos de `partes/voz.md`.
+
+| | Levi | Erwin | Hange | Eren | Mikasa |
+|---|---|---|---|---|---|
+| Cumpleaños | 25-dic ✅ | 14-oct ⚠️ | 5-sep ⚠️ | 30-mar ⚠️ | 10-feb ✅ |
+| Altura | 160 cm ⚠️ | 188 cm ⚠️ | 170 cm ⚠️ | 170 cm; 183 cm adulto ⚠️ | 170-176 cm ✅ |
+| Sangre | A ✅ | — | — | B ⚠️ | AB ⚠️ |
+| Objeto | taza por el borde; espadas envueltas | saludo con la izquierda | gafas ✅ | **llave del sótano al cuello** ✅ | bufanda roja |
+
+Fuentes de la tabla: [AniList](https://anilist.co/character/45627) (Levi),
+[AniList](https://anilist.co/character/46496) (Erwin),
+[AniList](https://anilist.co/character/71121) (Hange),
+[AniList](https://anilist.co/character/40882) (Eren) y la sección Trivia de
+cada ficha de la wiki. ✅ = las dos coinciden.
+
+### Levi
+
+- **Té negro, sin azúcar ni leche**: para Levi esos añadidos son «demasiado
+  valiosos, no se los puede permitir» (Isayama, *Bessatsu Shōnen*, sep-2016) ·
+  [wiki, Trivia](https://attackontitan.fandom.com/wiki/Levi_Ackerman#Trivia) ✅
+  (cuadra con la tetera de §14).
+- **Se corta el pelo él mismo, con maquinilla**, y **duerme 2-3 horas sentado
+  en su silla**, sin cambiarse (*FRaU*, ago-2014) ✅.
+- Aguanta bien el alcohol ⚠️. Le molesta que Oluo lo imite ⚠️. Su tipo ideal,
+  con humor: alguien que «cumpla mis estándares de limpieza» ⚠️. De joven quiso
+  abrir una **tetería** ⚠️ (todo, misma ficha).
+- Edad: «treinta y pocos», según el equipo ✅.
+- **Cómo se ve**: **no como un líder igual que Erwin**; deja decidir a sus
+  subordinados. Sabe que es el mejor luchador vivo, sin arrogancia: nadie es
+  invulnerable · [wiki, Personality](https://attackontitan.fandom.com/wiki/Levi_Ackerman#Personality) ✅.
+
+### Erwin
+
+- **Deja el cuarto desordenado** (al revés que Levi) y sería quien más
+  aguantaría en una sauna (*Attack on Titan Magazine*, pp. 430-431) ⚠️.
+- **No se casó** «porque no sabía cuándo iba a morir» (*Bessatsu Shōnen*,
+  dic-2013) ⚠️ · [wiki, Trivia](https://attackontitan.fandom.com/wiki/Erwin_Smith#Trivia).
+- **Lo que ama de verdad**: entender qué hay más allá del mundo y demostrar la
+  teoría de su padre. Le confiesa a Levi que le importa **más** que vencer a
+  los titanes. Siente a sus caídos mirándolo · [wiki, Personality](https://attackontitan.fandom.com/wiki/Erwin_Smith#Personality)
+  (caps. 72 y 80) ✅.
+- **Cómo se ve**: alguien que sacrificó su humanidad por una causa. Al final
+  **renuncia a su sueño** y carga con sus soldados (cap. 80) ✅.
+- **Con quién creció**: Nile Dok, de su promoción. Iban a la Legión juntos;
+  Nile se fue a la Policía Militar por Marie · [wiki, Relationships](https://attackontitan.fandom.com/wiki/Erwin_Smith#Relationships) ✅.
+- Un apodo «Ceja» sale mezclado con el propio Isayama ⚠️: no usarlo.
+
+### Hange
+
+- **Con quien mejor se lleva es Levi** (*Bessatsu Shōnen*, abr-2016) ·
+  [wiki, Trivia](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB#Trivia)
+  y [Relationships](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB#Relationships) ✅.
+- Gag: **Levi la bañaba a la fuerza** cuando iba demasiado sucia de sus
+  experimentos ⚠️.
+- **Las gafas** fueron lo primero que Isayama pensó de su diseño (*artbook*,
+  p. 107) ✅.
+- **Género abierto a propósito** («da igual cuál de los dos»); Isayama pidió a
+  Kodansha no fijarlo en la traducción ✅. Distanciada de su familia ⚠️. Su
+  nombre en japonés sería «Hans Zoe» ⚠️.
+
+### Eren
+
+- **La llave de su padre, colgada del cuello con una cuerda, siempre**, también
+  de civil (cap. 10) · [wiki, Appearance](https://attackontitan.fandom.com/wiki/Eren_Yeager#Appearance) ✅.
+  Abre el sótano: es el motor de la trama.
+- **Desprecio a los titanes**: los cuenta con *-hiki* (animales pequeños), no
+  con *-tai* · [wiki, Trivia](https://attackontitan.fandom.com/wiki/Eren_Yeager#Trivia) ✅.
+- Isayama le eligió canción: «Otoko wa Romandaze! Takeda-kun» (Shinsei
+  Kamattechan) ⚠️.
+- **Cómo lo ve su autor**: «un esclavo de la historia»; no esperaba que fuera
+  tan popular (*Weekly Shōnen Magazine*, 2017) ✅.
+
+### Mikasa
+
+- **Se quita la bufanda si hace mucho calor** (*Bessatsu Shōnen*, dic-2010) ⚠️ ·
+  [wiki, Trivia](https://attackontitan.fandom.com/wiki/Mikasa_Ackerman#Trivia).
+- **68 kg: la mujer más pesada conocida de la serie**; ganaría un pulso en el
+  104.º (*artbook*, p. 158) ⚠️.
+- **Por qué protege**: según el *databook* *ANSWERS*, no es por la sangre
+  Ackerman: «es sólo su naturaleza» ✅ (cuadra con §14).
+- **Lo que quiere**: una vida tranquila con Eren, no la guerra. Lo confirma la
+  cabaña del ep. 93 (Punto 21.3) · [wiki, «A Long Dream»](https://attackontitan.fandom.com/wiki/A_Long_Dream_(Episode)) ✅.
+
+**No encontré** ⚠️ la **comida favorita** de Erwin, Hange, Eren y Mikasa, ni
+aficiones de Erwin y Hange más allá de lo de arriba (búsqueda en la wiki,
+«favorite food»). Pendiente: el *Character Encyclopedia* japonés, que la wiki
+no indexa.
 
 ---
 
 ## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
 
-<!-- pendiente: punto 21 -->
+**En corto**: se ama por el **misterio de cada capítulo**, por su
+desesperanza honesta y por despedidas que duelen. Las tres escenas que más
+hacen llorar tienen **minuto exacto** (subtítulos japoneses de Netflix del
+espejo de kitsunekko, el mismo de §3) y dos comparten tema: **«Call of
+Silence»**. Datos de `partes/voz.md`. Las frases son **traducción nuestra**
+del japonés: estas escenas no tienen muestra latina en Doblaje Wiki.
+
+### Punto 21.1 · Por qué, en números, y con quién se identifica el público
+
+- **Más de 140 millones de copias** (nov-2023). En 2014 le quitó a *One Piece*
+  el primer puesto de ventas del semestre (datos de Oricon) ·
+  [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan#Sales) ✅.
+- **Premios**: Kodansha, Attilio Micheluzzi, Harvey; mejor manga de la década
+  para CBR (2019); Guinness al cómic publicado más grande (*for Giants*, 2021) ·
+  [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan#Accolades) ✅.
+- **Quién la ve** en Japón (Nikkei Entertainment, dic-2023): 33 años de media;
+  **60 % mujeres** ⚠️ (una fuente).
+- **Por qué conecta**: retrata «la desesperanza de la juventud actual» (Mao
+  Yamawaki) y trae «un misterio nuevo en cada capítulo» (Tomofusa Kure) ·
+  [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan#Critical_response) ✅.
+- **Con quién se identifica**: con **Eren en su momento más «patético»**, no en
+  el heroico. El post «por qué amo esto» con más votos del subreddit (**1080
+  votos, 411 comentarios**) es la viñeta donde Eren grita que quiere que Mikasa
+  piense sólo en él, y Armin le dice que no. Miré la viñeta ([imagen, 720×231](https://i.redd.it/ne6k43do49r91.jpg)):
+  cara desencajada, amor egoísta. Engancha la **honestidad incómoda**, no la
+  fuerza · [r/ShingekiNoKyojin](https://www.reddit.com/r/ShingekiNoKyojin/comments/xt4y15/i_dont_know_why_but_i_love_this_panel_in_the/) ✅.
+
+### Punto 21.2 · Llorar: la muerte de Erwin (ep. 55 «Midnight Sun»)
+
+- **Antes**: ep. 53 (el discurso, §9 y §14) y ep. 54 «Hero» (la carga, con
+  **«APETITAN»**, [wiki](https://attackontitan.fandom.com/wiki/Hero_(Episode)) ✅).
+- **Qué pasa**: Floch trae a Erwin moribundo justo cuando Levi iba a usar la
+  única inyección de titán con Armin. Eren y Mikasa se le enfrentan; Levi
+  golpea a Eren y Mikasa le pone la espada al cuello. Erwin delira: cree estar
+  en clase con su padre y **levanta la mano como un niño**. Levi lo deja
+  descansar y salva a Armin · [wiki, «Midnight Sun»](https://attackontitan.fandom.com/wiki/Midnight_Sun_(Episode)) ✅.
+- **Minutos** ✅ ([`進撃の巨人.S04E55.白夜…ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin%203%20Part%202)):
+  - **19:08-19:20**: «Profesor… ¿cómo supo que no hay humanidad fuera de los
+    Muros?» (先生…壁の外に人類がいないって…).
+  - **21:31-21:47**: Levi al cadáver: «Erwin, lo de acabar con el Titán
+    Bestia… parece que tardará más». A los **21:39** «ya ha muerto»; a los
+    **21:46** «ya veo» (そうか).
+- **Por qué duele**: Erwin renuncia sin saberlo al sueño que más le importaba
+  (Punto 20), y es Levi quien decide que ya puede descansar.
+- **Música**: **«Call of Silence»** (Sawano, voz de Gemie) desde que Floch lo
+  trae · [wiki de la canción](https://attackontitan.fandom.com/wiki/Call_of_Silence) ✅ ·
+  [Spotify](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM).
+- **Cómo está dibujada**: contrapicado desde el suelo, Erwin tumbado con sangre
+  en la pierna, **luz cálida de atardecer** sobre las tejas, Levi de espaldas
+  con la capa verde · [`Erwin_asks_a_question.png`, 1920×1080](https://static.wikia.nocookie.net/shingekinokyojin/images/e/e0/Erwin_asks_a_question.png/revision/latest?cb=20240223040142) (mirado).
+
+### Punto 21.3 · Llorar: el final, Mikasa besa a Eren (ep. 93 «A Long Dream»)
+
+- Estreno: 19-nov-2023 · [wiki, «A Long Dream»](https://attackontitan.fandom.com/wiki/A_Long_Dream_(Episode)) ✅.
+- **Qué pasa**: en plena batalla, Mikasa ve una vida con Eren en una cabaña de
+  montaña. Él le pide que, si muere, tire la bufanda y lo olvide. Ella no
+  puede. Se ata la bufanda, entra por la boca del titán, encuentra su cabeza,
+  **sonríe**, la corta, la abraza y la besa. Detrás, Ymir sonríe ✅.
+- **Minutos** ✅ ([`進撃の巨人.S07E93.長い夢…ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin.%20The%20Final%20Season%20-%20Kanketsu-hen%20Kouhen)):
+  - **16:39-17:03**: «Si muero, tira esta bufanda… olvídate de mí y sé libre».
+  - **17:25-17:29**: «Perdón… no puedo» (ごめん… できない).
+  - **17:32-18:04**: entra por la boca del titán («¡Eren!»).
+  - Después **no hay diálogo, sólo música**, hasta **18:53-18:57**: «Que te
+    vaya bien, Eren» (いってらっしゃい、エレン), al besar la cabeza.
+- **Por qué duele**: se despiden los tres niños que abrieron la serie, y se
+  cierra el objeto de Mikasa: la bufanda que no quiso soltar.
+- **Música**: **«Call of Silence» otra vez**, la de Erwin ✅ (misma página).
+- **Cómo está dibujada** la cabaña: día nublado, verde y madera, **Mikasa
+  sentada de espaldas al sol**, Eren de pie mirándola ·
+  [fotograma, 1920×1080](https://static.wikia.nocookie.net/shingekinokyojin/images/c/cc/Mikasa_sees_a_reality_where_she_and_Eren_remained_together.png/revision/latest?cb=20231106023804) (mirado).
+- **Reacción**: **Yui Ishikawa** (Mikasa en japonés) lloró al grabar su última
+  línea; Marina Inoue y Yuki Kaji la abrazaron: **1399 votos** ·
+  [Reddit](https://www.reddit.com/r/ShingekiNoKyojin/comments/17prmn4/yui_ishikawa_cried_after_recording_her_last_line/) ✅.
+  «Puede que haya llorado un poco», **2169 votos**, sin decir qué escena ⚠️ ·
+  [Reddit](https://www.reddit.com/r/ShingekiNoKyojin/comments/mg9vj1/i_might_have_cried_a_little/).
+
+### Punto 21.4 · Llorar: la muerte de Sasha (ep. 67 «Assassin's Bullet»)
+
+- Estreno: 1-feb-2021 · [wiki, «Assassin's Bullet»](https://attackontitan.fandom.com/wiki/Assassin%27s_Bullet_(Episode)) ✅.
+- **Qué pasa**: Gabi, una niña soldado enemiga, le dispara a bocajarro en el
+  dirigible, en plena celebración. Sasha delira preguntando por la comida y su
+  última palabra es **«…carne»**. Jean culpa a Eren ✅.
+- **Minutos** ✅ ([`進撃の巨人.S05E67.凶弾…ja[cc].srt`](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shingeki%20no%20Kyojin.%20The%20Final%20Season)):
+  **13:26** disparo (銃声) · **13:27** impacto · **13:32** cae · **13:43**
+  Connie: «¡Sasha!» · **14:24-14:28** «¿Ya está lista la comida…?» ·
+  **14:36-14:37** «…carne» (肉…).
+- **Por qué duele**: la chica de la patata, el alivio cómico desde el ep. 3
+  (§3), muere en mitad de una broma sobre comida. Ridículo y desgarrador.
+- **Música**: **«Nightmare»** al disparo; luego dos pistas sin título
+  (`進撃vc-pf20130218巨人`, `進撃vn-pf20130524巨人`) ✅ (lista del episodio).
+- **Cómo está dibujada**: plano **cenital**, madera oscura; **Armin grita** con
+  los ojos muy abiertos, **Mikasa de espaldas**, Sasha en el centro con la
+  mirada perdida · [fotograma, 1920×2142](https://static.wikia.nocookie.net/shingekinokyojin/images/3/39/Mikasa_and_Armin_watch_Sasha_pass_away.png/revision/latest?cb=20210201131851)
+  (mirado). El del disparo no lo miré ⚠️.
+
+### Punto 21.5 · Gritar de emoción, y reír a la vez
+
+- **«¡Consagren sus corazones!» en la verja de Trost** (ep. 71, §3 y §9): la
+  gente con el puño en alto. Es el grito de emoción más citado.
+- **Reír y emocionarse con el opening 1**: la letra alemana real es «Seid ihr
+  das Essen? Nein, wir sind die Jäger!» («¿Son la comida? No, somos los
+  cazadores»), y medio mundo la canta mal · [wiki](https://attackontitan.fandom.com/wiki/Feuerroter_Pfeil_und_Bogen)
+  (folleto del CD) ✅ y el hilo de sonidos icónicos de
+  [Reddit](https://www.reddit.com/r/ShingekiNoKyojin/comments/1u0dj12/) ✅.
+  Una versión hispana del chiste: no la encontré ⚠️.
+- Más sonidos en §10.1: «Sasageyo» y el grito «KEEEENNNYYY».
 
 ---
 
 ## Punto 22 · Fan dubs y comunidad hispana
 
-<!-- pendiente: punto 22 -->
+**En corto**: hay *fandubs* fieles a escenas, **covers de todos los openings en
+latino** y un debate vivo en TikTok sobre **doblaje o versión original**, con
+cuentas grandes. Una parodia larga hispana (como la *Abridged Series* en
+inglés), no la encontré. **YouTube pidió «iniciar sesión» toda la tanda**: las
+vistas de YouTube van sin comprobar ⚠️; las de Dailymotion, por su API ✅.
+Datos de `partes/voz.md`.
+
+### Punto 22.1 · Fandubs de escenas
+
+| Qué | Dónde | Vistas |
+|---|---|---|
+| «Attack On Titan Temporada Final - Trailer Oficial - Fandub Español latino» | [YouTube](https://www.youtube.com/watch?v=C51eBwhGLUI) | ⚠️ |
+| «Eren vs Annie Español Latino Fandub» (T2) | [YouTube](https://www.youtube.com/watch?v=uoz3tSXsa-k) | ⚠️ |
+| «Attack On Titan OVA Fandub en Español» | [YouTube](https://www.youtube.com/watch?v=qUJFGuENIFY) | ⚠️ |
+| **Parodia**: «Attack on A-hole Titan - Fandub Español Latino» (dic-2017), con guion propio de humor | [YouTube](https://www.youtube.com/watch?v=IlIaILr1aVc) | ⚠️ |
+| *Junior High* cap. 1 «¡Comenzando la escuela!» (el *spin-off* cómico) | [YouTube](https://www.youtube.com/watch?v=UasIj22HAxI) | ⚠️ |
+| «Attack On Titan Titans Attacks», clip con etiqueta de fandub, JeuxVideo.com, 2:05 | [Dailymotion](https://www.dailymotion.com/video/x8hfipc) | **1545** ✅ |
+| «Attack on Titan Requiem»: animación tributo de fans al final, subida con subtítulos en español por **Vidaextra** (España), 1:22. No es fandub de voz | [Dailymotion](https://www.dailymotion.com/video/x9bocts) | **15 107** ✅ |
+
+### Punto 22.2 · Covers de openings en latino (vistas ⚠️)
+
+- «Guren no Yumiya (Full Latino)», Alan Rojas · [YouTube](https://www.youtube.com/watch?v=_GEB8OzgoLc).
+- «Shinzou wo Sasageyo (Versión Español Latino)» · [YouTube](https://www.youtube.com/watch?v=aCy2-WEqa-Q) y
+  [otra versión](https://www.youtube.com/watch?v=wXMsxpGQNW8).
+- «Red Swan» (T3), versión TV · [YouTube](https://www.youtube.com/watch?v=7dNUKMCGejs).
+- «My War» (OP6) · [YouTube](https://www.youtube.com/watch?v=XK9mks6PpU4).
+- «THE LAST TITAN» (OP9), André - A! · [YouTube](https://www.youtube.com/watch?v=QSMym9XNeZ0).
+- Una **lista de reproducción** sólo de covers latinos de sus openings ·
+  [YouTube](https://www.youtube.com/playlist?list=PL4yrZkKNACAcCpHTmmxkQeP_IAQV5EtXk).
+
+### Punto 22.3 · TikTok: el debate del doblaje
+
+- **@fangirlcast**: «el doblaje latino de Attack on Titan es de los mejores,
+  con grandes actores de voz» (abr-2024) ·
+  [TikTok](https://www.tiktok.com/@fangirlcast/video/7373071050575285509) ·
+  [otro](https://www.tiktok.com/@fangirlcast/video/7372407719912852741).
+- **@elxokas** (streamer español grande): «Doblaje vs Original: El Debate de
+  Attack on Titan» · [TikTok](https://www.tiktok.com/@elxokas/video/7324828459270671649).
+  El debate llega a cuentas grandes, no sólo al fandom.
+- **@cocoalinnet**: capítulos y *edits* en latino (#snkedit #doblaje) ·
+  [TikTok](https://www.tiktok.com/@cocoalinnet/video/7294761814213102853).
+- Hay vídeos de comedia con el doblaje con **más de 143 mil «me gusta»**, sin
+  enlace comprobado uno a uno ⚠️.
+- **Para el servidor**: es un tema de conversación real para la comunidad de
+  doblaje. Sirve para un evento o un reto de fandub.
+
+**No encontré** ⚠️: una serie de parodia hispana larga (búsquedas «Attack on
+Titan abridged parodia español» y «Ataque a los Titanes parodia serie
+español»), ni las vistas reales de YouTube.
 
 ---
 
 ## Punto 23 · Colaboraciones, figuras y cosplay
 
-<!-- pendiente: punto 23 -->
+**En corto**: *Fortnite*, gachas japonesas, UNIQLO, cafés con **arte nuevo de
+WIT** (uno abierto ahora, hasta el 12-oct-2026), una atracción en Universal
+Studios Japan, escape rooms y **figuras de Good Smile de los 5 personajes**,
+cada una con 3 caras: un catálogo de expresiones en 3D. Datos de
+`partes/imagen.md`.
+
+### Punto 23.1 · Videojuegos y gachas
+
+- ***Fortnite*** (Epic, oficial), **11-abr-2023**: Eren (pase), Levi y Mikasa
+  (tienda), equipo de maniobras y lanzas de rayo jugables, la mochila
+  «Regiment Cloak» con los 4 emblemas (Punto 19.4) y una pantalla de carga
+  con arte nuevo, «A World Without Walls» ✅ ·
+  [Siliconera](https://www.siliconera.com/fortnite-attack-on-titan-collab-adds-eren-levi-mikasa-and-odm-gear/),
+  [The Loadout](https://www.theloadout.com/fortnite/attack-on-titan-mikasa-levi-ackerman-skins).
+- ***Monster Strike*** (Mixi), 2.ª colaboración desde el **1-may-2023**: 10
+  personajes, entre ellos **«Long-Time Comrades-in-Arms» Hange y Levi**, en
+  pareja, y **Erwin ★6** exclusivo ✅ ·
+  [QooApp](https://news.qoo-app.com/en/post/165419/monster-strike-x-attack-on-titan-2),
+  [Pocket Gamer](https://www.pocketgamer.com/monster-strike/attack-on-titan-crossover/).
+- ***Puzzle & Dragons*** (GungHo): colaboración repetida; la 2.ª, en 2015, con
+  Annie y Reiner en forma de titán ✅ ·
+  [QooApp](https://news.qoo-app.com/en/post/10805/qoo-news-puzzle-dragons-x-attack-on-titan-second-collaboration-announced),
+  [ANN](https://www.animenewsnetwork.com/news/2015-05-31/puzzle-and-dragons-mobile-game-collaborates-with-attack-on-titan-ghost-in-the-shell-duel-masters/.88749).
+- ***Ninjala***: evento anunciado en su [web oficial](https://ninjalathegame.com/en/news/info/collab-shingeki.html) ⚠️
+  (una fuente; sin fecha ni personajes comprobados).
+
+### Punto 23.2 · Ropa
+
+- **UNIQLO UT**, **30-mar-2023** (EE. UU.): **8 camisetas** que recrean
+  **viñetas del manga** enteras, con Eren y sus compañeros y frases de la serie ✅ ·
+  [butwhytho](https://butwhytho.net/2023/03/attack-on-titan-uniqlo-collection/),
+  [Anitrendz](https://anitrendz.net/news/2023/03/13/uniqlo-to-release-attack-on-titan-ut-collection-on-march-30-in-the-united-states/),
+  [Kodansha US](https://kodansha.us/2023/04/14/get-attack-on-titan-gear-at-uniqlo/).
+- Una colaboración de la marca *Levi's* con Levi: **no la encontré** ⚠️ (dos
+  búsquedas, inglés y español).
+
+### Punto 23.3 · Cafés, parques y eventos
+
+- **«Attack on Titan Café: Adolescence Dinner»** (Tokio, BOX cafe&space Lumine
+  Est Shinjuku 2), **3-sep al 12-oct-2026**: **ilustraciones nuevas de WIT** de
+  Levi, Erwin, Hange, Eren, Mikasa y Armin, con el tema de la **«última cena
+  antes de la batalla»**; llaveros y figuras acrílicas ✅ ·
+  [Anime Corner](https://animecorner.me/attack-on-titan-cafe-opens-in-tokyo-with-new-wit-studio-illustrations/),
+  [Japan Pop Now](https://www.japan-pop-now.com/calendar).
+- **Tower Records Cafe Omotesando** (21-jun al 9-jul-2019): menú y **realidad
+  virtual de 5 minutos** con el equipo de maniobras ✅ ·
+  [grape Japan](https://grapejapan.com/116858). **Animate Cafe** (2019) ⚠️ ·
+  [Geeky Travels & Fandoms](https://geekytravelsfandoms.com/2019/04/30/attack-on-titan-shingeki-no-kyojin-x-animate-cafe/).
+- **Universal Studios Japan** (21-ene al 28-jun-2020): atracción XR «Race For
+  Survival» y el restaurante **«Survey Corps Mess Hall»**, con **Levi y Hange a
+  tamaño real** ✅ ·
+  [ANN](https://www.animenewsnetwork.com/interest/2020-01-20/oricon-news-gives-inside-look-at-attack-on-titan-xr-ride/.155571),
+  [ComicBook.com](https://comicbook.com/anime/news/attack-on-titan-behind-the-scenes-universal-studios-japan-ride-attraction-xr/).
+- **Exposición «進撃の巨人展FINAL»**: la de 2014-2015 pasó de 450 000
+  visitantes; la FINAL recorrió Asia, **Seúl del 15-jul al 15-oct-2023** ✅ ·
+  [Japan Kuru](https://www.japankuru.com/en/event-calendar/e185/),
+  [Pia (JA)](https://corporate.pia.jp/news/detail_final.html).
+- **Real Escape Game** (SCRAP): 5 ediciones desde 2014, de Yokohama a Nueva
+  York; la última, «Escape From the 5 Titans» (25-feb-2021) ✅ ·
+  [ANN](https://www.animenewsnetwork.com/interest/2016-08-06/latest-attack-on-titan-real-escape-game-story-traps-players-in-a-castle/.104884),
+  [CBR](https://www.cbr.com/attack-on-titan-scores-a-second-real-escape-game/),
+  [Real Escape Game](https://realescapegame.com/aotus/).
+
+### Punto 23.4 · Figuras oficiales: cada cara es una emoción en 3D
+
+Todas de Good Smile Company ([goodsmile.info](https://www.goodsmile.info/en/product/4167/Nendoroid+Levi.html)) ✅:
+
+| Personaje | Figura | Caras | Qué trae |
+|---|---|---|---|
+| Levi | [Nendoroid 390](https://www.goodsmile.info/en/product/4167/Nendoroid+Levi.html) | estándar, combate, **desdén** | doble espada en **agarre invertido**, su firma |
+| Levi | [figma](https://www.goodsmile.info/en/product/4164/figma+Levi.html) | estándar, **apretando dientes**, fría | manos para el agarre invertido |
+| Erwin | [Nendoroid](https://www.goodsmile.info/en/product/6468/Nendoroid+Erwin+Smith.html) | estándar, **gritando**, sonriendo | efectos de vuelo ([reseña](https://mikatan.goodsmile.info/en/2017/05/26/nendoroid-erwin-smith-attack-on-titan/)) |
+| Erwin | [figma](https://www.goodsmile.info/en/product/8651/figma+Erwin+Smith.html) | fulminante, gritando, dientes apretados | **su caballo** y la capa de la Legión |
+| Hange | [Nendoroid](https://www.goodsmile.info/en/product/8251/Nendoroid+Hange+Zoe.html) (2023) | estándar, sonriente en batalla, **entusiasmada** | gafas y **hoja de informe de titanes**; capa nueva ([reseña](https://mikatan.goodsmile.info/en/2019/04/16/nendoroid-hange-zoe-attack-on-titan/)) |
+| Eren | [Nendoroid](https://www.goodsmile.info/en/product/4095/Nendoroid+Eren+Yeager.html) (Titán de Ataque) | estándar, combate | edificio y mini Reiner (Trost) |
+| Eren | [figma](https://www.goodsmile.info/en/product/4089/figma+Eren+Yeager.html) | decidido, enfadado, **en shock** | efectos de humo |
+| Mikasa | [Nendoroid](https://www.goodsmile.info/en/product/4048/Nendoroid+Mikasa+Ackerman.html) | estándar, gritando, aturdida | efectos de vuelo y de sangre |
+
+Cruza con la tabla de caras de §14.2: sirven donde no hubo fotograma (Eren
+«en shock» para el miedo, Mikasa «gritando»), y dan el grito de Erwin y el
+entusiasmo de Hange en volumen.
+
+### Punto 23.5 · Cosplay con volumen y materiales reales
+
+- **Titán Acorazado de Hartigan Cosplay** (Bélgica): **381 horas**; espuma de
+  tapicería, **látex prevulcanizado, FlexFoam-iT III y resina**; cabeza y manos
+  esculpidas en Monsterclay; **mandíbula que se mueve con la suya y suelta
+  humo**, ojos que brillan. 1.er puesto FX en **TwitchCon Ámsterdam 2022** ✅ ·
+  [ScreenRant](https://screenrant.com/attack-on-titan-cosplay-armored-titan/),
+  [CBR](https://www.cbr.com/attack-on-titans-armored-titan-awe-inspiring-cosplay/),
+  [su TikTok](https://www.tiktok.com/@hartigan_cosplay/video/7124349359692516614).
+- **Con licencia libre** (Openverse, en `referencias.json`): **Mangoe** como
+  Mikasa en Katsucon 2014 ([foto](https://live.staticflickr.com/2037/12961434585_cdccc55b89_b.jpg),
+  CC BY-NC-ND 2.0, foto de WhiteDesertSun), **Xubaet** ([foto](https://live.staticflickr.com/3902/14570790265_d6daeed5e4_b.jpg),
+  CC BY 2.0) y **esby.photo** ([foto](https://live.staticflickr.com/7361/12109553753_9307e6247c_b.jpg),
+  CC BY-NC-SA 2.0). Tela real de bufanda y capa.
 
 ---
 
 ## Punto 24 · Obras parecidas y láminas vecinas
 
-<!-- pendiente: punto 24 -->
+**En corto**: el público la junta con *Vinland Saga* y *The Promised
+Neverland*. Isayama reconoce *Parasyte*, el cine de monstruos y
+*Evangelion*. En el servidor, la que más se le acerca es la lámina de
+Evangelion, y el tablón del Concepto A debe distinguirse del de Solo Leveling.
+Datos de `partes/texto.md`.
+
+### Punto 24.1 · Lo que recomienda el público (AniList, con votos) ✅
+
+*Vinland Saga* (2876) · *The Promised Neverland* (699) · *86 Eighty-Six* (366)
+· *Kabaneri of the Iron Fortress* (365) · *Seraph of the End* (210) · *Kaiju
+No. 8* (170) · *Fullmetal Alchemist: Brotherhood* (116) · *Parasyte -the
+maxim-* (101) · *Chainsaw Man* (89) · *Claymore* (68) · *Code Geass* (59) ·
+*Jujutsu Kaisen* (45) · [AniList](https://anilist.co/anime/16498).
+
+### Punto 24.2 · Lo que el autor reconoce
+
+- **Entrevista de 2014** ([mangabrog](https://mangabrog.wordpress.com/2014/12/24/interview-with-hajime-isayama-creator-of-attack-on-titan-better-to-have-memorable-art-even-memorably-bad-art-and-stand-out/)) ✅:
+  - ***Parasyte*** (Hitoshi Iwaaki), por su estilo raro. El público también la
+    recomienda (24.1).
+  - ***Hell Teacher Nube***, por el diseño de monstruos.
+  - **Cine kaiju**: Godzilla, Gamera.
+  - ***Muv-Luv Alternative***.
+  - ***Evangelion*** (Hideaki Anno), por cómo dirige y «el placer de la
+    expresión animada».
+- **Mikasa sale de Casca de *Berserk*** (Kentarō Miura) ·
+  [IMDb/ScreenRant](https://www.imdb.com/news/ni64720057/) ✅.
+- Otros dibujantes que cita: Hideki Arai, George Morikawa, Kōji Seo, Ryōji
+  Minagawa y Makoto Yukimura · [Lambiek](https://www.lambiek.net/artists/i/isayama_hajime.htm) ⚠️ (un agregador).
+
+### Punto 24.3 · Láminas vecinas del servidor (para no repetir)
+
+Lectura cruzada de otras biblias (no hay una fuente que lo compare):
+
+| Biblia | Canal | Se parece en | Qué hacer |
+|---|---|---|---|
+| `16-neon-genesis-evangelion` | #demos | es la **influencia** que reconoce Isayama; también usa una «ficha o documento oficial del mundo» | no repetir el mismo objeto si se hace una lámina 2 |
+| `11-chainsaw-man` | #que-estas-viendo | la recomienda AniList tras AoT | un cine y un café: sin choque |
+| `03-solo-leveling` | — | acción y supervivencia; **un tablón de misiones** | el tablón del Concepto A tiene que ser el de un **cuartel militar**: roble oscuro, clavos de hierro, ficha del anime; no uno de gremio de fantasía |
 
 ---
 
 ## Punto 25 · El mundo, la historia por arcos y sus símbolos
 
-<!-- pendiente: punto 25 -->
+**En corto**: tres murallas, titanes que eran personas, nueve poderes que se
+heredan con una maldición. La historia va en **9 arcos**: 7 dentro
+de los Muros y 2 en Marley. Datos de `partes/texto.md`.
+
+### Punto 25.1 · Las reglas del mundo, en cinco líneas ✅
+
+1. La humanidad vive tras **tres murallas**, María, Rosa y Sina. Fuera hay
+   **titanes** que devoran personas sin necesitar comer.
+2. Los titanes **son personas**: **súbditos de Ymir** transformados por el
+   **Titán Fundador** o el **Titán Bestia**, que los crean con un grito ·
+   [wiki, «Founding Titan»](https://attackontitan.fandom.com/wiki/Founding_Titan).
+3. Hay **nueve titanes** con poderes propios que pasan de portador en
+   portador. Quien controla el **Fundador** (con sangre real Reiss/Fritz)
+   manda sobre todos.
+4. Quien hereda un titán muere en un plazo fijo: la **maldición de Ymir** ·
+   [wiki, «Power of the Titans»](https://attackontitan.fandom.com/wiki/Power_of_the_Titans).
+5. Fuera está **Marley**, que también usa titanes como arma y persigue a
+   **Eldia**, el pueblo de origen de los titanes.
+
+### Punto 25.2 · La historia por arcos ✅
+
+La wiki la ordena en **9 arcos**, en dos bloques: *Muros* (1-7) y *Marley*
+(8-9) · [wiki, «Story Arcs»](https://attackontitan.fandom.com/wiki/Story_Arcs)
+(leída por su API).
+
+| # | Arco | Manga | Anime ⚠️ | Momento clave |
+|---|---|---|---|---|
+| 1 | Caída de Shiganshina | vol. 1 | eps. 1-2 | El Colosal rompe el Muro María; Eren ve morir a su madre |
+| 2 | Lucha por Trost | vol. 1-4 | eps. 3-9 | El Colosal vuelve; Eren descubre que es titán defendiendo la muralla |
+| 3 | Entrenamiento del 104.º | vol. 4 | eps. 10-11 | Nacen las amistades y rivalidades del 104.º |
+| 4 | El Titán Femenina | vol. 5-8 | eps. 12-25 | 57.ª expedición; **muere el escuadrón de Levi**; Annie, descubierta y encerrada en cristal en Stohess |
+| 5 | Choque de titanes | vol. 9-12 | — | Titanes dentro del Muro Rosa; **Reiner es el Acorazado y Bertolt el Colosal**; Ymir protege a Historia |
+| 6 | Gobierno Real | vol. 13-17 | — | Golpe de Erwin; Kenny el Destripador; **Historia, reina** |
+| 7 | Regreso a Shiganshina | vol. 18-22 | — | Se recupera Shiganshina; **el sótano de Eren** revela el mundo de fuera |
+| 8 | Marley | vol. 23-26 | — | Ataque a Liberio; Eren se lleva al Titán Bestia (Zeke) |
+| 9 | Guerra por Paradis | vol. 27-34 | — | **El Retumbar**; aliados contra Eren; Mikasa acaba con él |
+
+⚠️ Los episodios del anime de la tabla son del investigador y **no los
+comprobé** capítulo a capítulo: el anime reordena el entrenamiento, así que
+pueden no cuadrar. Los manga, de la wiki.
+
+### Punto 25.3 · Emblemas, objetos y palabras que un fan reconoce al instante
+
+- **Emblemas** (F·19-22, hex en §5): **Alas de la Libertad** (Legión), el
+  **unicornio** (Policía Militar), las **rosas** (Guarnición) y las **espadas
+  cruzadas** (cadetes). En latino: **«Legión de Exploración»** ⚠️ (§9.3).
+- **Objetos**: el **equipo de maniobras tridimensional**; las **espadas** que
+  se gastan y se cambian; la **llave del sótano** al cuello de Eren (Punto 20);
+  la **bufanda** de Mikasa, que Eren le pone en el cap. 1 (el «hogar»); la
+  **taza que Levi coge por el borde** (§14).
+- **Palabras**: *titán* y los nueve (Colosal, Acorazado, Femenina, Bestia,
+  Mandíbulas, Carro, Martillo de Guerra, Fundador y Ataque; nombres de la
+  parte, no del doblaje ⚠️); *Eldia* y
+  *Marley*; *el Retumbar*; *Ackerman*; *súbditos de Ymir*; *la maldición de
+  Ymir*; *Muro María, Rosa y Sina*; **«ese día»** (el trauma del prólogo); y
+  el **saludo**, puño derecho al corazón (§7.3, §14).
 
 ---
 
@@ -1962,6 +2431,37 @@ su enlace directo.
 > Serviría para una lámina con la **investigación fuera de las murallas**: un
 > escuadrón y sus normas.
 
+### Lo que añaden los puntos 18-25 a los tres conceptos (repaso corto)
+
+Los conceptos no cambian de idea; ganan referencias para hacerlos.
+
+- **A · Reglamento del cuartel**:
+  - **Pose en 3D**: el **«Levi Ackerman rig»** de Sketchfab, con esqueleto
+    (CC BY, ianadrielbravo; Punto 18.6). La cara, de sus figuras: **«desdén»**
+    (Nendoroid) o **«fría»** (figma) (Punto 23.4).
+  - **El tablón, de cuartel militar**: roble oscuro, clavos de hierro y la
+    ficha del anime, para no parecerse al tablón de gremio de Solo Leveling
+    (Punto 24.3).
+  - **Capas**: la hoja con `Paper001` (CC0) bajo el gris medido; contorno con
+    **Line Art** y una sola luz Sol (Punto 18.6, Punto 19).
+  - **Detalle humano**: una **taza de té** cogida por el borde sobre la
+    repisa. Té sin azúcar ni leche, y de joven quiso abrir una tetería
+    (Punto 20).
+- **B · La sentencia**:
+  - Levi de brazos cruzados con la cara **«fría»** del figma (Punto 23.4).
+  - **Encuadre simétrico** de revelación: juez arriba, acusado pequeño abajo
+    (Punto 18.7).
+  - Un **sello** con el emblema de la Policía Militar (el unicornio) en el
+    libro de actas: es uno de los 4 emblemas «oficiales» (Punto 19.4).
+- **C · ¡Consagren sus corazones!**:
+  - Erwin con la cara **«gritando»** de su Nendoroid o figma; su figma trae la
+    **capa de la Legión** para ver el volumen (Punto 23.4).
+  - La bandera en `Fabric019` (CC0) teñida del verde medido (Punto 19.3).
+  - Luz lateral dura de antorchas, primer plano de discurso (Punto 18.7).
+- **Para una lámina 2 o un evento**: el café de 2026 trae **arte nuevo de WIT
+  de los cinco juntos** (Punto 23.3), y el debate latino de doblaje o versión
+  original da para un reto de *fandub* (Punto 22).
+
 ---
 
 ## 20 · Lo que no pude verificar (tras la segunda pasada y su cierre)
@@ -2009,21 +2509,29 @@ Lo que no pude mirar o no existe con la red de hoy:
 | 2 · Fotogramas 1080p con capítulo y minuto | ✅ | fotogramas 1920×1080 de la wiki; los de las escenas clave con minuto de los subtítulos de Netflix (§3); algunos de las hojas (P·14-19, E·15-30) sin minuto |
 | 3 · Fan art y 3D con licencia | ✅ | 20 modelos de Sketchfab CC BY (licencia y autor por API), texturas Poly Haven CC0, fan art de Pixiv, ArtStation, DeviantArt y Reddit con autor |
 | 4 · Fondos, luz, paleta y texturas | ✅ | hex medidos con Pillow en 20 sitios y prendas (§5), texturas reales (§4.2) |
-| 5 · Tipografía con tildes, ñ, ¿ ¡ | ✅ | 6 letras libres comprobadas con fontTools; créditos latinos vistos (§6). Falta la fuente del manga en inglés |
+| 5 · Tipografía con tildes, ñ, ¿ ¡ | ✅ | **una letra para cada uso** (§6.1): logo, globo (Comic Neue), grito (Bangers), pensamiento (Zen Maru Gothic; Kosugi Maru descartada), onomatopeya (Bungee), cartel, interfaz (Jost Italic) y créditos; todas comprobadas con fontTools; créditos latinos vistos (§6). Falta la fuente del manga en inglés |
 | 6 · Cómo hablan en pantalla | ✅ | la ficha «Información pública» medida en sus 54 versiones, globos del manga, cartelas de la T4, **caja de diálogo de *AoT 2*** y menús de *AoT 3* con hex (§7, §12) |
 | 7 · Personajes y encuestas | ✅ | 4 encuestas oficiales + Nlab; Levi gana 3 de 4; en China (Bangumi) gana Mikasa y Levi es segundo (§8) |
 | 8 · Doblaje latino, dos fuentes | ✅ | reparto y equipo en Doblaje Wiki (API) + FUNiAnime/ANMTV/Crunchyroll; quedan 3 datos con una sola fuente (§20) |
-| 9 · Música | ✅ | openings y endings con intérprete (vídeos oficiales de Pony Canyon), Sawano y Yamamoto; OP 2 y ED 1 mirados (§10) |
+| 9 · Música | ✅ | openings y endings con intérprete (vídeos oficiales de Pony Canyon), Sawano y Yamamoto; OP 2 y ED 1 mirados (§10); **qué suena en las escenas que hacen llorar** («Call of Silence» en las muertes de Erwin y el final, «APETITAN», «Nightmare») y los sonidos que todos reconocen (§10.1). Los efectos del equipo de maniobras, sin ficha oficial ⚠️ |
 | 10 · Vídeos con minuto | ✅ | 13 vídeos mirados por *storyboard* con minuto y enlace `&t=`; 31 enlaces de YouTube comprobados. Los TikTok van sin minuto |
 | 11 · Videojuegos: interfaz y cajas | ✅ | **caja de diálogo de *AoT 2* vista** en la web oficial (nombre sobre línea crema, texto blanco, ✓; respuestas con botones) y Levi limpiando en el juego; menús de *AoT 3* en 10 capturas de Steam de 1920×1080, con hex; demo de *AoT 3*. *Wings of Freedom*: sólo capturas de combate (§12) |
 | 12 · Lo que ama el fandom y qué NO hacer | ✅ | memes con fuente, Reddit (4275 votos a la limpieza de Levi), lista de errores (§13) |
-| 13 · Carácter y forma de hablar | ✅ | Levi, Erwin, Hange con frases y minutos (§14), y el gesto de la taza de Levi (dos fuentes); Eren y Mikasa más breves |
+| 13 · Carácter y forma de hablar | ✅ | Levi, Erwin, Hange con frases y minutos (§14), y el gesto de la taza de Levi (dos fuentes); **qué transmite cada uno, su cara en cada emoción y sus dinámicas**, también Eren y Mikasa (§14.1-14.3). Huecos reales: la serie casi no dibuja alegría ni vergüenza en ellos (sin fotograma, dicho en §14.2) |
 | 14 · Poses con minuto | ✅ | Levi 13, Erwin 7, **Hange 11, Mikasa 10 y Eren 10** (las nuevas, miradas en una hoja propia, con enlace a la imagen, tamaño y arco); cada una dice si sirve para presentar, explicar, celebrar, regañar, pensar o animar (§15) |
 | 15 · Vestuario con hex | ✅ | uniforme confirmado en la wiki y en las hojas; hex medidos (§16) |
 | 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | oficiales medidos bajándolos; fans de Wallhaven con tamaño; 2 autores de ArtStation sin ver (403) |
-| 17 · Guía para IA | ✅ | rasgos, paleta con hex, luz, palabras, un ejemplo y las referencias por número (§18) |
-| 3 conceptos de lámina | ✅ | reglamento del cuartel, sentencia, bandera; con cinta del color del episodio y poses con número (§19) |
-| 40 fuentes distintas | ✅ | 67 dominios enlazados (en el cierre, nuevos: Steam, Gamecity, Bangumi, Wikipedia china, eiga.com, OTACTURE, ABEMA Times), más APIs sin enlace (Arctic Shift, Poly Haven) |
+| 17 · Guía para IA | ✅ | IA de imagen: rasgos, paleta con hex, luz, palabras, un ejemplo y las referencias por número (§18), caras por emoción (§18.1). **IA de texto**: reglas de voz por personaje y **13 frases reales por emoción** con minuto, 6 del doblaje latino (§18.1). Gotas de sudor y fondos de emoción: no salen en lo reunido ⚠️ |
+| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Isayama a mano, con tramado cruzado (entrevista de 2014); WIT 2D + 3DCG (Araki, MADBOX, «maquillaje digital»); MAPPA más CG; capas de Photoshop; *shader* toon, Line Art y luz en Blender; **7 modelos con esqueleto** CC BY; encuadre por emoción (Punto 18). Sin fuente: el programa que usa Isayama hoy y quién puso grano y aberración ⚠️; los *rigs* no se probaron en Blender |
+| 19 · Texturas 2D | ✅ | trama y rayado mirados en dos páginas de manga de la wiki; papel, tela y cuero CC0 (ambientcg); no hay estampados en los uniformes (buscado en inglés y japonés); emblemas con vector libre (Punto 19). La licencia de los pinceles de semitono no cargó ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | cumpleaños, altura, sangre, objeto y cómo se ve cada uno de los 5, con datos de entrevistas a Isayama (Punto 20). **No encontré la comida favorita** de Erwin, Hange, Eren y Mikasa (AoT no tiene *databook* de gustos); varias alturas y manías con una sola fuente |
+| 21 · Por qué la aman, y las escenas que hacen llorar | ✅ | ventas, premios, encuesta de público y crítica; con quién se identifica (post de 1080 votos); **3 escenas con minuto exacto** de los subtítulos de Netflix (eps. 55, 67 y 93), qué pasa, por qué duele, música, cómo está dibujada y reacción (1399 votos); lo que hace gritar y reír (Punto 21). Frases en traducción nuestra: sin muestra latina |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 5 *fandubs* y una parodia, 6 covers latinos de openings y una lista, debate de doblaje en TikTok (@elxokas, @fangirlcast) (Punto 22). **Vistas de YouTube sin comprobar**: pedía «iniciar sesión» toda la tanda; sólo las de Dailymotion por API. Parodia hispana larga: no la encontré |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | *Fortnite*, *Monster Strike*, *Puzzle & Dragons*, UNIQLO, cafés (uno abierto hasta el 12-oct-2026, con arte nuevo de WIT), Universal Studios Japan, expo, escape rooms; **8 figuras de Good Smile** de los 5 con sus caras; el Titán Acorazado de Hartigan y cosplay CC (Punto 23). *Ninjala* con una fuente ⚠️ |
+| 24 · Obras parecidas | ✅ | 12 recomendaciones de AniList con votos; influencias que reconoce Isayama (*Parasyte*, *Evangelion*, kaiju, *Berserk* para Mikasa); láminas vecinas del servidor y cómo no repetirlas (Punto 24) |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas del mundo, **9 arcos** con volumen y momento clave (wiki), emblemas, objetos y vocabulario (Punto 25). Los episodios del anime por arco, sin comprobar ⚠️ |
+| 3 conceptos de lámina | ✅ | reglamento del cuartel, sentencia, bandera; con cinta del color del episodio y poses con número (§19). En el repaso corto ganan el *rig* de Levi, las caras de las figuras, texturas CC0 y el encuadre por emoción |
+| 40 fuentes distintas | ✅ | **113 dominios** enlazados tras el repaso corto (antes 67; nuevos: entrevistas y análisis de técnica, Good Smile, ambientcg, Sketchfab, TikTok, Dailymotion, noticias de colaboraciones), más APIs sin enlace (Arctic Shift, Poly Haven) |
 | Fuentes oficiales | ⚠️ | web, X y PDF de MAPPA, portal, Koei Tecmo (webs de *AoT 2* y *AoT 3*, Steam), Crunchyroll, Pony Canyon; artbook de Asano y director de arte identificados. **Falta**: hojear el artbook, comentarios de Blu-ray y una entrevista de diseño leída |
 | Otros idiomas | ✅ | japonés, coreano y **chino** (Bangumi por API y Wikipedia china; Moegirl y Baidu no dejaron entrar) |
 | Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, namu.wiki, Wikipedia china, Bangumi, TV Tropes, TCRF sí; Wayback sólo respondió su API, las páginas no (dos intentos en cada pasada) |
@@ -2035,7 +2543,7 @@ Lo que no pude mirar o no existe con la red de hoy:
 | Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ⚠️ | hecho por *storyboard* (plan B de `AYUDANTE.md`): OP 2, ED 1, 2 tráileres, eps. 15, 53, 64, 71 y 73. No en movimiento: en el cierre el vídeo siguió dando 403 o «iniciar sesión» (8 intentos, 4 clientes) |
 | Frases latinas textuales de clips oficiales | ✅ | **subtítulos automáticos en español de los 3 clips doblados de Crunchyroll en Español**, con minuto y `&t=` (§9.4): la gente del ep. 71, Willy y Eren (ep. 64), Zeke (ep. 73). Levi no habla en ninguno: sus frases, de las muestras de Doblaje Wiki (§9.3) |
 | Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,6-0,7 MB), miradas, con tabla de números (§2.0) |
-| `referencias.json` | ✅ | 40 entradas: la URL es la imagen (o el vídeo con `&t=`), tamaño medido, licencia (la 40 es Levi limpiando en *AoT 2*, con su caja de diálogo) |
+| `referencias.json` | ✅ | **218 entradas**: las 40 de antes primero; luego las de las partes (fotogramas de las escenas que hacen llorar, *rigs*, manga, texturas) y las útiles de `datos.json` (wiki, cosplay CC, fondos, fan art, AniList medido hoy). Las 29 últimas son páginas sin imagen propia (noticias de colaboraciones, figuras, modelos 3D), sin tamaño |
 
 ---
 
@@ -2222,3 +2730,64 @@ de diálogo de *AoT 2*, fuentes en chino, el director de arte y el artbook.)
 [yt-guerra]: https://www.youtube.com/watch?v=pNRP0z8IwHQ
 [yt-esp1]: https://www.youtube.com/watch?v=sFuAhHTgABs
 [yt-esp2]: https://www.youtube.com/watch?v=jE89EBeajgg
+
+### Repaso corto (24-sep-2026): puntos 18-25
+
+Juntado de las bitácoras de `partes/texto.md`, `partes/imagen.md` y
+`partes/voz.md`. Buscador web: **unas 35 búsquedas** entre los tres (texto 12, imagen 14, voz 9);
+lo demás, red directa.
+
+**Texto (18, 24, 25 y el 5 nuevo)**, buscador en inglés y japonés:
+- EN: técnica de Isayama y calco de fotos (sin resultado sobre calco); WIT y
+  el 3DCG del equipo de maniobras (SlashFilm, UK Anime Network, CBR, Sakuga
+  Blog); MAPPA y el cambio de estilo (Gamerant, AnimeIgnite, CBR,
+  Twinfinite); influencias (IMDb, Lambiek); arcos (wiki); Line Art en Blender
+  (StraySpark, manual); Clip Studio de Isayama (sin confirmar); onomatopeyas
+  (ANN, JLA/UGM); encuadres (RedQStudios); grano y fotografía (Araki en
+  fullfrontal.moe, sin dato de grano).
+- JA: 諫山創 作画 背景 写真 トレース インタビュー (entrevista de Clip Studio);
+  進撃の巨人 漫画 モノローグ 心の声 ふきだし なし (Yahoo!知恵袋, Jun 34).
+- Red directa: API de la wiki («Story Arcs», «Founding Titan», «Curse of
+  Ymir»); API de Sketchfab (*rigs*, licencia); `google/fonts` en GitHub y
+  fontTools (Comic Neue, Bangers, Zen Maru Gothic, Jost Italic, Bungee);
+  Fontsource y jsdelivr (Kosugi Maru, descartada); lectura de otras biblias
+  del servidor para el Punto 24.3.
+
+**Imagen (19, 23)**, buscador en inglés y español:
+- *Fortnite*; gachas (*Puzzle & Dragons*, *Monster Strike*); cafés (Animate,
+  Tower Records); *Levi's* (nada); Good Smile (Nendoroid y figma de los 5);
+  cosplay (World Cosplay Summit, Hartigan); trama de Isayama; pinceles de
+  semitono libres; Universal Studios Japan; UNIQLO.
+- Red directa: API de la wiki (`list=search` y `allimages` con prefijo
+  «Manga»; tamaño de 2 páginas de manga, bajadas y miradas); API de
+  ambientcg (`wool`, `leather`, `paper`, `canvas`).
+- WebFetch: ScreenRant, Siliconera, Anime Corner, Brusheezy (su licencia
+  no cargó entera). Ningún 403 ni 404.
+
+**Voz (20, 21, 22)**, buscador en español:
+- *fandub* latino, covers de openings, parodias y memes de TikTok, «Attack on
+  Titan Requiem», «Seid ihr das Essen» en español (nada), «abridged» en
+  español (nada).
+- Red directa: API de la wiki con `User-Agent` propio (sin él, 403): Trivia,
+  Personality y Relationships de los 5; episodios 54, 55, 67 y 93; «Call of
+  Silence»; letra del opening 1. API de Wikipedia (ventas, crítica, premios).
+  Reddit por Arctic Shift (posts de «cried», «finale» y el hilo de sonidos).
+  API de Dailymotion (vistas). 4 fotogramas de la wiki bajados con `Referer`
+  y mirados.
+- **Subtítulos japoneses de Netflix** (kitsunekko en GitHub, clonado
+  disperso): eps. 55, 67 y 93, leídos con Python filtrando por palabra; de
+  ahí salen los minutos del Punto 21.
+- **YouTube pidió «iniciar sesión» toda la tanda**: no se usó `yt-dlp`.
+
+**Redactor**: medí con Pillow los 17 retratos y portadas de AniList de
+`datos.json` (230×345 a 1900×400) para `referencias.json`; dejé fuera 9
+fondos de Wallhaven que no son de la serie o no se sabe.
+
+**Lo que NO encontré en este repaso** ⚠️: el programa digital de Isayama;
+una fuente que nombre el grano y la aberración del anime; la letra del manga
+en inglés; la prueba de los *rigs* en Blender; la comida favorita de Erwin,
+Hange, Eren y Mikasa; fotogramas de rabia de Hange y de miedo de Hange, Mikasa
+y Eren; las vistas de YouTube; una parodia hispana larga; el chiste alemán en
+español; una colaboración de *Levi's*; fecha y personajes de *Ninjala*; la
+licencia completa de los pinceles de Brusheezy; los episodios del anime de
+cada arco comprobados uno a uno.
