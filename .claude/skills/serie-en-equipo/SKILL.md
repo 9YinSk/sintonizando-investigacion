@@ -28,13 +28,25 @@ mensaje cambiando `<rol>`:
 
 > Eres el investigador de **<rol>** del equipo de la serie **<id>** en /home/user/sintonizando-investigacion. Lee enteros EQUIPO.md, AYUDANTE.md, ENCARGO.md y encargos/<id>.md. Haz sólo los puntos de ENCARGO.md que EQUIPO.md asigna a tu rol y escribe sólo en biblias/<id>/partes/<rol>.md y partes/<rol>.json (el de imagen, también hojas/). No toques biblia.md ni uses git. Si tu parte ya existe, sigue desde donde quedó. Lo pesado va a /tmp/claude-0/trabajo/<id>-<rol>. Guarda tras cada punto. Al terminar, contesta en 3 líneas.
 
-Roles: `imagen`, `video`, `voz`, `texto`.
+Roles: `imagen`, `video`, `voz`, `texto`. **Equipo de 8** (series grandes o
+con prisa): `arte`, `fanart-3d`, `escenas`, `musica-videos`, `doblaje`,
+`personajes`, `dialogos`, `tecnica-mundo` (puntos de cada uno en `EQUIPO.md`,
+«Equipo de 8»). Con 8, una sola serie a la vez.
+
+Añade siempre: «YouTube puede pedir iniciar sesión: usa Dailymotion, Internet
+Archive, Bilibili o los storyboards (±2 s) y reintenta de vez en cuando. No
+instales plugins ni programas de terceros para saltarte bloqueos.»
 
 **2. Cuando terminen los 4, lanza al redactor:**
 
 > Eres el **redactor** de la serie **<id>** en /home/user/sintonizando-investigacion. Lee enteros EQUIPO.md, ENCARGO.md, AYUDANTE.md (sólo «Calidad» y «Cierra con la tabla»), encargos/<id>.md, servidor/reglas_del_dueno.md, la parte de servidor/inventario.md de su canal, DECISIONES.md y todas las biblias/<id>/partes/. Escribe tú solo biblias/<id>/biblia.md (los 25 puntos, el 17 lo haces tú; los 3 conceptos; la tabla «Cumplimiento del encargo»; la bitácora juntando las de las partes) y referencias.json (todas las útiles de los partes/*.json, mínimo 20, sin máximo, las mejores primero). Deja 3 hojas en hojas/. Sólo con datos de las partes: si algo falta, márcalo ⚠️ o ❌ en la tabla y dilo, no lo inventes. Crea primero el índice y guarda tras cada sección. No uses git. Contesta con las 5 líneas de AYUDANTE.md.
 
-**3. Revisa:** `python3 herramientas/revisar.py <id>` y lee sólo la tabla de
+Si es repaso, añade al redactor: «Es un repaso: **edita en su sitio** la
+biblia que ya hay siguiendo COMPLEMENTO.md (no reescribas lo que está bien),
+mete lo nuevo de las partes, añade los puntos que falten (18-25) y actualiza
+«Segunda pasada · qué cambió» y la tabla de cumplimiento con los 25 puntos».
+
+**3. Revisa:** `python3 herramientas/revisar.py <id>` (exige los 25 puntos en la tabla) y lee sólo la tabla de
 cumplimiento (`grep -n -A40 'Cumplimiento del encargo' biblias/<id>/biblia.md`).
 Si hay ❌ o algo flojo, pídeselo por SendMessage **al investigador de ese
 punto** y después al redactor. No lances agentes nuevos para arreglos.
