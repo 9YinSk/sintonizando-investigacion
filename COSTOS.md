@@ -29,3 +29,20 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | texto (5, 18, 24, 25) | Sonnet | 16 | 208 360 | 72 acciones, una tanda sin «Sigue:»; 5 letras libres comprobadas, 7 rigs CC-BY, 9 arcos |
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | voz (9, 13, 20, 21, 22), tanda 1 | Sonnet | 25 | 279 522 | 583 líneas, 11 referencias; 3 escenas que hacen llorar unidas por «Call of Silence»; «Sigue:» con sus minutos exactos |
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
+
+## Estimación en dólares (24-sep, con lo medido)
+
+Precios por millón de tokens: Opus 5.5, 4 de entrada y 20 de salida; Sonnet 5,
+2 y 10 (la mitad). Calibración: el piloto dio unos 0,33 dólares por minuto de
+agente en Opus (65 dólares entre 8 agentes en 25 minutos); Sonnet cuesta la
+mitad, unos 0,16. Cuadra con la segunda cuenta: 33 dólares entre 99 minutos de
+Sonnet (unos 16) y la construcción del sistema (unos 17).
+
+| Trabajo | Minutos de agente | Dólares aprox. |
+|---|---|---|
+| Serie nueva (One Punch Man) | 113 Sonnet + 21 Opus | ~25 + el jefe |
+| Repaso corto (Attack on Titan) | ~63 Sonnet + ~20 Opus | ~16 + el jefe |
+| El jefe (sesión principal) | según lo larga que sea la conversación | 3-10 por serie |
+
+Con 100 dólares: unas 3 series nuevas o 5 repasos cortos, en unas 3 horas en
+cadena. Para abaratar el jefe: sesión nueva (conversación corta) y `/model sonnet`.
