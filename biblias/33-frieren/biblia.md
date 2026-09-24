@@ -713,6 +713,8 @@ Heiter, Stoltz, jefa de la aldea de la Espada, Macht, **el gato**, la
 **hierba luna azul**, **la hamburguesa ridículamente grande**, Linie,
 Lawine, Land, Laufen, Solitär).
 
+En **coreano** coincide: el top 10 de la 2.ª encuesta que publicó un fan en [X (@TeTSeM)](https://x.com/TeTSeM/status/1772248117783437358) es el mismo de la tabla, y el foro [Ruliweb](https://bbs.ruliweb.com/family/211/board/300277/read/2336648) recoge el recuento de un voto por persona de 2026 con **Frieren 1.ª y Himmel 2.º** ⚠️ (lo vi en el resumen del buscador, no abrí las páginas).
+
 ### 9.2 Lo que dicen otras cifras
 
 - **MyAnimeList**: *Sousou no Frieren* (T1) tiene **9,26** y es el **n.º 1**
@@ -1051,7 +1053,7 @@ esa fecha) y los episodios de §2.
 | Meme | De dónde sale | Por qué gusta | Fuentes |
 |---|---|---|---|
 | **Frieren atrapada en el mímico** («¡Está oscuro! ¡Tengo miedo!») | gag repetido desde el ep. 1 (§2, n.º 14). Primer redibujo en Pixiv, 28-ene-2021 (usuario Esu) | Frieren, la maga más fuerte, cae **siempre** en el mismo cofre. Es el meme más visual | [KYM](https://knowyourmeme.com/memes/frieren-stuck-in-mimic-chest) + Reddit: «Frieren eating cake vs Mimic eating cake» **7.240 votos** ([post](https://reddit.com/r/Frieren/comments/1lq8cpu/frieren_eating_cake_vs_mimic_eating_cake/)) ✅ |
-| **«Himmel lo habría hecho»** («勇者ヒンメルならそうしました») | frase del manga y del anime (T1-02 10:16…). Se hizo viral el **5-jun-2024**: un otaku frenó un ataque con cuchillo en el metro de Taichung (Taiwán) «porque Himmel lo habría hecho» | es la brújula moral de la serie; luego vino la broma «**Himmel would've pirated Photoshop**» | [KYM](https://knowyourmeme.com/memes/himmel-wouldve-done-that) + Reddit (§9.2) ✅ |
+| **«Himmel lo habría hecho»** («勇者ヒンメルならそうしました») | frase del manga y del anime (T1-02 10:16…). El **21-may-2024** un joven frenó un ataque con cuchillo en el metro de Taichung (Taiwán) y citó la frase; en **junio de 2024** se hizo viral y la cuenta oficial respondió que «Himmel sí lo habría hecho» ([GamerSky, en chino](https://www.gamersky.com/news/202406/1765670.shtml)) | es la brújula moral de la serie; luego vino la broma «**Himmel would've pirated Photoshop**» | [KYM](https://knowyourmeme.com/memes/himmel-wouldve-done-that) + Reddit (§9.2) ✅ |
 | **«Aura, suicídate»** | T1-10 (22:24). Existía en el manga desde 2020; explotó con el anime (10-nov-2023) | Frieren gana con **una sola frase fría** | [KYM](https://knowyourmeme.com/memes/aura-death-scene-aura-kill-yourself) + §2 ✅ — **ver 14.3: no usar** |
 | **La hamburguesa ridículamente grande** (cumpleaños de Stark) | T1-12 | fans que la **cocinan de verdad** para su cumpleaños | Reddit: «I tried to make Warrior Honoring Hamburger for my birthday» (716 votos) y otras 5 con cientos de votos ✅; entró en la encuesta oficial (§9) ✅ |
 | **«Sólo veía la mitad del cielo»** | T1-18: Frieren se tumba en el regazo de Fern y los pechos de Fern le tapan el cielo | se redibujó con personajes de otras series | [KYM](https://knowyourmeme.com/memes/i-could-only-see-half-the-sky) ⚠️ una fuente; **tono pícaro: no para una lámina** |
