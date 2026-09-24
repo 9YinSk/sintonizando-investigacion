@@ -26,7 +26,10 @@ la wiki.
   post-*timeskip*: compró demasiado protector solar en Río y no sabe qué hacer
   con él · cómo se ve a sí mismo: no se define como as sino como el señuelo
   («No soy un as, pero puedo abrir camino frente al as. ¡Seré el señuelo más
-  fuerte!», luego «quiero que me llamen el Mejor Señuelo») · fuente:
+  fuerte!», luego «quiero que me llamen el Mejor Señuelo») · objeto/prenda: no
+  tiene un accesorio propio como Nishinoya u Oikawa; lo más distintivo son sus
+  zapatillas blancas con detalles rojos y el dorsal 10 con el kanji de
+  Karasuno en la espalda (mismo número que el «Pequeño Gigante») · fuente:
   https://haikyuu.fandom.com/wiki/Sh%C5%8Dy%C5%8D_Hinata#Trivia y
   https://anilist.co/character/64769 · ✅ (dos fuentes)
 - **Tobio Kageyama** · cumple 22 de diciembre (solsticio de invierno, opuesto

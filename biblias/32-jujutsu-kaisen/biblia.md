@@ -2053,6 +2053,70 @@ franquicia están en §13; aquí, los cruces con otras marcas.
 - **Fortnite** recolorea a Gojo en morado: **no** usarlo de referencia de
   color.
 
+## Punto 24 · Obras parecidas y láminas vecinas
+
+Segunda pasada, del investigador de texto.
+
+### 24.1 Series de tono parecido
+
+- Recomendaciones de AniList (en `datos-texto.md`): *Demon Slayer*,
+  *Bleach*, *Chainsaw Man*, *Hunter x Hunter*, *Parasyte*, *Noragami*,
+  *Blue Exorcist*, *Naruto*, *Yu Yu Hakusho*, *Mob Psycho 100*, *Hell's
+  Paradise*, *Tokyo Ghoul*.
+- ***Chainsaw Man***, la más parecida: terror sobrenatural, humor y
+  **muertes de verdad**; su humor es más negro ✅ (dos artículos de CBR:
+  [«Dark Shonen»](https://www.cbr.com/shonen-manga-dark-trio-why-they-matter/),
+  [«10 Ways JJK Is Better Than Chainsaw Man»](https://www.cbr.com/is-jjk-better-than-chainsaw-man/)).
+- ***Hell's Paradise***: con JJK y Chainsaw Man forma el **«trío del
+  shonen oscuro»** ✅ (CBR).
+- Frente a ***Bleach***: JJK tira más de **terror** (monstruos que cazan
+  gente); Bleach es más explícito en sangre ⚠️ ([CBR](https://www.cbr.com/jujutsu-kaisen-better-bleach/), opinión).
+- «Si te gustó JJK»: *Mob Psycho 100*, *Toilet-bound Hanako-kun*, *The
+  Ancient Magus' Bride* ⚠️ ([Game Rant](https://gamerant.com/best-manga-like-jujutsu-kaisen/)).
+
+### 24.2 Lo que reconoce el propio Akutami
+
+- Leyó a escondidas el **primer capítulo de *Bleach*** en 4.º de
+  primaria y quiso ser mangaka; en secundaria se sumaron ***Hunter x
+  Hunter*** y ***Evangelion*** ✅ (charla con Tite Kubo, [traducción de
+  fan](https://edomonogatari.wordpress.com/2021/03/14/akutami-kubo/) +
+  [Screen Rant](https://screenrant.com/jujutsu-kaisen-akutami-anime-inspiration-bleach-evangelion/)).
+- De Kubo: «**imitarlo sería mi muerte**» ⚠️ (una traducción de fan).
+- **Por qué budismo**: *Evangelion* ya usaba mucha imaginería religiosa
+  (ángeles, cábala), así
+  que él tiró del **budismo japonés** (dominios, sellos, *shikigami*) ✅
+  (misma charla). Enlaza con el Punto 25.
+- Admira a **Tatsuki Fujimoto** (*Chainsaw Man*) por su «identidad de
+  autor muy fuerte» ⚠️ (Screen Rant).
+- Los mangas que más releyó: ***ABARA*** (Tsutomu Nihei) y ***Kōkoku no
+  Shugosha*** (Daisuke Satō), del que dice «amo al protagonista» ✅
+  ([tv-smash](https://tv-smash.com/?p=9202) + [blog en japonés](https://jgjhgjf.hatenablog.com/entry/2021/03/08/221739)).
+- La energía maldita, según la prensa (no el autor), bebe del *Nen* de
+  *Hunter x Hunter* y de *World Trigger* ⚠️ ([FandomWire](https://fandomwire.com/neither-dragon-ball-nor-naruto-were-the-anime-that-inspired-gege-akutamis-magnum-opus/)).
+
+### 24.3 Láminas vecinas del servidor (para no repetir)
+
+Lo que ya usa JJK y **no deben repetir** las otras: la **pizarra del
+aula** con tiza, el **velo** que baja y crea un espacio, el **megáfono**
+de Inumaki y el **picnic de onigiri** (§19).
+
+| Encargo en cola | Por qué se parece |
+|---|---|
+| *Chainsaw Man* (11) | el tono más cercano ⚠️ |
+| *Evangelion* (16 y 131) | influencia que confiesa Akutami ✅ |
+| *Hunter x Hunter* (36) | la otra influencia (sistema de poder) ✅ |
+| *Mob Psycho 100* (45) | «si te gustó JJK» ⚠️ |
+| *Demon Slayer* (31 y 79) | mismo género; en AniList ✅. Además pide el Aula (§0) |
+| *Solo Leveling* (03 y 80) | poder por rangos, más fantasía |
+| *JoJo* (28), *Death Note* (18), *One Punch Man* (35), *Naruto* (30), *Fullmetal Alchemist* (37) | shonen de poderes, otro tono |
+
+- ***Bleach*** (la 3.ª influencia) **no está en la cola** (`ls encargos/`)
+  ⚠️: si se añade, avisar de la conexión.
+- Canales ya descartados por solaparse (§0): #memes (JoJo), 🔊 Aula
+  (Demon Slayer), #reglas (Attack on Titan).
+- Obras de la propia franquicia (AniList): el manga, *JJK 0*
+  (precuela), la T2 y un ONA corto (*PV*) ✅.
+
 ## 19 · Tres conceptos de lámina
 
 Los tres son **distintos**: sitio, objeto, personaje y cuadro de diálogo
