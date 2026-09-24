@@ -58,10 +58,13 @@ Lo que tiene que hacer esa sesión:
    biblia que ya hay**.
 6. Al terminar cada uno: `python3 herramientas/revisar.py <id>` y, si dice
    COMPLETA, `herramientas/subir.sh <id>` (o `<id> repaso`). Si le falta algo,
-   se lo devuelve al ayudante.
+   se lo devuelve al **mismo** ayudante (SendMessage), no lanza otro.
+   Copia la línea de aviso de su informe a `DECISIONES.md`.
 7. Orden después: repaso 31 (el ❌), repasos 06-30, y tandas S10 en adelante.
 
 ## Avisos
+
+- Decisiones del dueño, cosas que oír en persona y sugerencias: `DECISIONES.md`.
 
 - YouTube pide «iniciar sesión» a ratos (IP de servidor). Plan B: el mismo
   clip en Dailymotion o Internet Archive. Plan C: miniaturas de vista previa
