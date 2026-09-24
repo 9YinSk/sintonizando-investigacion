@@ -96,7 +96,9 @@ oficiales que **vi con Read**:
 | Lilo, pelo | `#030308` (casi negro puro) | key visual oficial | ✅ |
 | Stitch, traje espacial (el del principio de la película) | rojo, banda pecho con **triángulo/estrella amarillo** `#F9E03E`, cinturón negro con ribete dorado | traje oficial de Disney on Ice (foto de gira, con luz de escenario que oscurece el rojo a un granate `#680004`) | ⚠️ el rojo «de escenario» es más oscuro que el rojo plano del cel; para la lámina usar un rojo saturado (`#CC1F1F`–`#E4241F` aprox., no medido, sólo referencia de KH Wiki y memoria del fandom) y comprobarlo contra un fotograma antes de pintar |
 | Pleakley, uniforme alienígena real (no el disfraz humano) | amarillo pollito `#F8FD3E`–`#EF870E` según la iluminación, uniforme azul con hombrera naranja | mismo traje de Disney on Ice | ✅ nuevo dato: **este es su traje real de un solo ojo**, distinto del disfraz de mujer humana que ya estaba en la biblia (ambos son canon, en momentos distintos de la película) |
-| Nani | top corto turquesa/coral con corazón, shorts vaqueros | ya en biblia §16, ⚠️ sin hex | Seguí **sin poder medir a Nani**: las imágenes grandes de la wiki con ella («David and Nani Through the Years») resultaron ser fotos de **Disney on Ice** (actores en vivo, no la animación), no sirven para su hex de piel/ropa animada ⚠️ |
+| Nani, traje de baño (escena de la ola) | franjas diagonales **azul marino `#1B2C52`** y **verde `#4F7350`**, sobre fondo turquesa de agua | fotograma limpio de animación (no Disney on Ice): «Lilo & Stitch - Nani, Lilo, and Stitch enjoying a big wave.jpg», 3000×1782, [wiki](https://static.wikia.nocookie.net/disney/images/a/a0/Lilo_%26_Stitch_-_Nani%2C_Lilo%2C_and_Stitch_enjoying_a_big_wave.jpg) | ✅ medido por cuantización de color (celda limpia, sin sombra de escenario) — **es su traje de baño, no el top coral icónico** que ya estaba en la biblia; confirma que su vestuario varía por escena, tal y como pide el punto 15 |
+| Lilo, traje de baño (misma escena) | franjas diagonales **rojo `#7A1030`** y **naranja `#8F5030`** | misma imagen | ✅ medido; distinto del muumuu rojo icónico — otra variante de vestuario confirmada |
+| Jumba, Cobra Bubbles, David | sin hex nuevo esta pasada | — | ⚠️ las imágenes grandes de la wiki para ellos seguían siendo fotos de Disney on Ice o muy pequeñas; pendiente de un fotograma limpio por el rol de vídeo |
 | Jumba, Cobra Bubbles, David | sin cambios sobre lo que ya decía la biblia | — | ⚠️ sigue pendiente |
 
 > Nota de método: las dos imágenes que mejor sirvieron para «arte
@@ -279,6 +281,25 @@ oficiales que **vi con Read**:
   Disney Parks» (hoja 1, #29-30) confirman carrozas propias de Stitch en
   los desfiles diarios de Disneyland/WDW.
 
+**Cafés temáticos y pop-ups**
+- **OH MY CAFE / BOX cafe&space** (Japón): café pop-up de Stitch en Tokio
+  (20-jun a 27-jul-2025) y en Nagoya/Aichi (10-jul a 3-ago-2025), con menú
+  tropical, postres de colores y merchandising exclusivo ✅
+  ([TDR Explorer](https://tdrexplorer.com/limited-time-stitch-pop-up-cafe-launching-soon-in-tokyo-and-aichi/),
+  [Japan Web Magazine](https://jw-webmagazine.com/tips/stitch-cafe-in-japan-2025/)).
+- **Pop-up de Shanghai** (Zhang Yuan, 26-jun a 19-jul): Stitch y Scrump,
+  gelato y macarons temáticos ✅ (mismas fuentes).
+- **Primark × Disney** (Manchester): café pop-up dentro de la tienda con
+  murales gigantes de Stitch ✅ ([Indian Retailer / Brand
+  License](https://www.indianretailer.com/brandlicense/archives/news/primark-x-disney-launch-exclusive-stitch-collection-cafe-experience.n3923)).
+- **MINISO** (American Dream Mall, Nueva York, 12-abr a 4-may): pop-up con
+  casi 200 productos de la colaboración ✅ ([License
+  Global](https://www.licenseglobal.com/retail-news-trends/minso-debuts-world-first-stitch-pop-up-experience-in-u-s-)).
+- **Tropical Smoothie Cafe** (EE.UU., mayo 2025): batido «'Ohana Breeze»,
+  primera colaboración de la cadena con una película Disney ✅
+  ([nota de prensa, PR
+  Newswire/Cision](https://www.counton2.com/business/press-releases/cision/20250512CL84550/tropical-smoothie-cafe-debuts-first-ever-disney-collaboration-featuring-the-new-ohana-breeze-smoothie-inspired-by-lilo-stitch/)).
+
 **Cosplay**
 - No encontré un tutorial **específico** de cosplay de Stitch con
   materiales exactos (tela, espuma, patrón) firmado por un cosplayer
@@ -313,10 +334,10 @@ oficiales que **vi con Read**:
   pattern free texture CC0» (en), «ambientcg fabric» (API).
 - Tutorial de cosplay de Stitch firmado, con materiales exactos.
 - Confirmación oficial (no filtración) de Stitch en Fortnite.
-- Hex «plano» (sin degradado ni luz de escenario) de Nani, Jumba, Cobra
-  Bubbles y David: todo lo grande que hay de ellos en la wiki resultó ser
-  fotos de Disney on Ice, no animación. Pendiente: pedir al rol de vídeo un
-  fotograma limpio de cada uno y medirlo.
+- Hex «plano» de Jumba, Cobra Bubbles y David: sus imágenes grandes en la
+  wiki seguían siendo de Disney on Ice o muy pequeñas. (Nani sí se resolvió:
+  encontré un fotograma limpio de animación con ella y Lilo, ver punto 15.)
+  Pendiente: pedir al rol de vídeo un fotograma limpio de cada uno.
 - Foto libre de Hanapepe en Wikimedia Commons: la API dio 429, un solo
   intento (regla de AYUDANTE.md).
 
@@ -352,7 +373,7 @@ gastar cupo de buscador). Sumadas a las 51 de la primera pasada (biblia
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | Artbook confirmado, hoja de modelo, key visual grande, portadas Dynamite con artista, revistas — todo con fuente y, donde aplica, dos fuentes |
 | 3 · Fan art y 3D con licencia | ✅ | 4 licencias de Sketchfab verificadas por su API (una corregida); fan art de Lilo con cámara sigue sin aparecer, declarado como «no encontré» |
-| 15 · Vestuario con hex | ⚠️ | Hex medidos y con fuente para Stitch y Lilo (dos tonos cada uno); Nani/Jumba/Cobra/David siguen sin hex porque las imágenes grandes de la wiki son de Disney on Ice, no animación — pendiente de un fotograma limpio |
+| 15 · Vestuario con hex | ⚠️ | Hex medidos y con fuente para Stitch, Lilo y Nani (ésta en un fotograma limpio de animación, no Disney on Ice); Jumba/Cobra/David siguen sin hex propio — pendiente de un fotograma limpio por el rol de vídeo |
 | 16 · Fondos de pantalla | ✅ | 7 fondos oficiales con tamaño medido (antes: «no encontré ninguno»), más los de fans que ya estaban en datos-imagen.md |
 | 19 · Texturas 2D | ⚠️ | Sección nueva creada; emblema y puzle-patrón confirmados con fuente; el estampado hawaiano y el tapa/kapa no tienen equivalente CC0 ya hecho (se documenta el porqué) |
 | 23 · Colaboraciones y cruces | ✅ | Sección nueva creada; 12+ colaboraciones distintas con fuente (juegos, cómics, figuras, moda, parques), cada una con al menos una fuente directa (varias con dos) |
