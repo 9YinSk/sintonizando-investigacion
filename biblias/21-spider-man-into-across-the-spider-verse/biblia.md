@@ -771,8 +771,11 @@ cartel o le pongo subtítulo?».
 
 ## 8 · Los personajes
 
-Voz original: los nombres que salen en mis búsquedas van con ✅; el resto
-son muy conocidos pero **de memoria** ⚠️.
+Voz original: en la segunda pasada **todos** quedan confirmados con la
+tabla bilingüe de Doblaje Wiki (columna «actor original») y
+[Marvel.com](https://www.marvel.com/articles/movies/spider-man-into-the-spider-verse-shameik-moore-jake-johnson-interview) ✅.
+Edad, altura y gustos: Punto 20. Su cara en cada emoción: al final de
+esta sección.
 
 ### Miles Morales — el protagonista ✅
 
@@ -805,7 +808,16 @@ son muy conocidos pero **de memoria** ⚠️.
 - **Con quién aparece**: Gwen, Peter B., su papá (la charla por la
   puerta, UNU 01:20:23), su tío Aaron (el túnel), su compañero de cuarto
   Ganke ⚠️.
-- **Voz original**: Shameik Moore ⚠️. **Latina**: **Emilio Treviño** ✅.
+- **Su miedo con nombre**: Miles tiene un **trastorno de ansiedad**,
+  dicho en ATSV y en el corto *The Spider Within: A Spider-Verse Story*
+  ✅ (ficha de la wiki `spiderverse`, con las dos obras como fuente). Por
+  qué es el protagonista: Lord y Miller vieron en su cómic «el origen
+  perfecto para alguien joven descubriendo qué clase de persona quiere
+  ser» ✅ ([Marvel.com](https://www.marvel.com/articles/movies/phil-lord-christopher-miller-spider-man-into-the-spider-verse-interview)).
+- **Voz original**: **Shameik Moore** ✅. **Latina**: **Emilio Treviño** ✅
+  (también dobla al Miles de Tierra-42, que en inglés es otro actor).
+  Voz medida con `voz.py`: registro medio (171 Hz), muy expresiva
+  (26,2 semitonos), 2,97 palabras por segundo (§10.3).
 
 ### Gwen Stacy (Spider-Woman) — la coprotagonista, 1.ª en IMDb ✅
 
@@ -824,13 +836,21 @@ son muy conocidos pero **de memoria** ⚠️.
   Al final, líder: «I never found the right band to join. So I started
   my own» (ATSV 02:12:44).
 - **Gestos**: la **capucha** que se echa encima (su silueta), posturas
-  de **ballet**, colgarse **boca abajo** ✅ (§16) / postura concreta ⚠️.
+  de **ballet**, colgarse **boca abajo** ✅. **Visto en vídeo**: en la
+  torre del reloj está **de pie contra la pared, cabeza abajo**, la
+  capucha colgando ([clip, 0:09](https://www.dailymotion.com/video/x8l73q0?t=9)) ✅.
+- **Prenda fija**: sus **tenis turquesa** (Converse), los lleve con lo que
+  los lleve ✅ (wiki). Pone «muros» para parecer más segura; sólo se le
+  caen con Miles y el Spider-Gang ✅ (wiki).
+- **Voz latina medida**: registro agudo (316 Hz) y **la más expresiva
+  de las cinco** (30,7 semitonos) en su confesión a su papá (§10.3).
 - **Voz original**: **Hailee Steinfeld** ✅. **Latina**: **Alondra
   Hidalgo** ✅.
 
 ### Peter B. Parker — el mentor que no quería serlo ✅
 
-- **Quién es**: un Peter Parker **de 38 años o así** ⚠️, divorciado de
+- **Quién es**: un Peter Parker **de 38 años en UNU y 39 en ATSV**
+  (nació en 1980) ✅ (ficha de la wiki), divorciado de
   Mary Jane en UNU, con barriga, **pantalón de chándal**, comiendo; «I
   broke my back, a drone flew into my face, I buried Aunt May» (UNU
   00:36:14). En ATSV ya es **papá de Mayday**, la bebé, y se la lleva
@@ -840,7 +860,12 @@ son muy conocidos pero **de memoria** ⚠️.
 - **Cómo se expresa**: sarcástico, cansado, se va por las ramas (los
   caballitos de mar, UNU 00:36:33). Enseña **haciendo**: «Thwip and
   release. Feel the rhythm?» (UNU 00:53:43).
-- **Voz original**: Jake Johnson ⚠️. **Latina**: **Miguel Ángel Ruiz** ✅.
+- **Cuerpo**: 1,78 m; pasa de **84 kg a 77,2 kg** entre las dos
+  películas: se pone en forma al volver con MJ ✅ (wiki).
+- **Voz original**: **Jake Johnson** ✅. **Latina**: **Miguel Ángel Ruiz** ✅.
+  Voz medida: 266 Hz, muy expresiva (19,9 semitonos) (§10.3). Curiosidad:
+  el **Peter Parker rubio que muere** en UNU lo dobla el propio director
+  del doblaje, **Gerardo García** ✅ (§10).
 
 ### Miguel O'Hara (Spider-Man 2099) — el jefe, el rey de los memes ✅
 
@@ -853,8 +878,14 @@ son muy conocidos pero **de memoria** ⚠️.
   azul oscuro lo mete en la sombra ✅ ([CBR](https://www.cbr.com/spider-man-2099-across-the-spider-verse-suit-tragic/)).
   Gwen lo resume: «**a ninja-vampire-Spider-Man but a good guy**»
   (ATSV 00:48:09) ✅.
-- **Qué le importa**: que nada se rompa; en el fondo, una culpa suya
-  con otra versión de sí mismo y una hija ⚠️ (de memoria).
+- **Qué le importa**: que nada se rompa. Quedó **«emocionalmente
+  marcado»** por no poder evitar la destrucción de una dimensión, y es un
+  líder **sobrecargado de trabajo** ✅ (wiki, «Personality»). La wiki
+  guarda una imagen titulada «Miguel loose his daugther» (sic), que
+  apunta a la hija ⚠️ (sólo el nombre del archivo).
+- **Cuerpo**: **2,06 m** (6'9"), 35 años, nacido en 2063-2064 ✅ (wiki).
+  Voz latina medida: **grave (99 Hz), la menos expresiva** del grupo
+  (12 semitonos) y la más lenta (1,98 palabras/s) (§10.3).
 - **Cómo se expresa**: órdenes cortas, cero paciencia, se enfada a
   gritos. Lyla lo pica: «Nah, you gotta say it first» (ATSV 00:12:50).
   Detalle tierno: le gustan **las empanadas** de la cafetería (ATSV
@@ -894,6 +925,9 @@ son muy conocidos pero **de memoria** ⚠️.
   ✅; en el doblaje le cambiaron el acento británico por **modismos
   urbanos** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/%C3%93scar_Garibay)
   y notas de prensa). Japonés: 木村昴 (Subaru Kimura) ⚠️.
+- **Cuerpo y edad**: **1,95 m, 68 kg, 16-17 años**; Phil Lord comparó su
+  edad con la de los Sex Pistols al empezar ✅ (wiki y cita del artbook).
+  Voz latina medida: 178 Hz y **la más rápida** (3,96 palabras/s) (§10.3).
 
 ### Los secundarios que conviene tener a mano
 
@@ -903,7 +937,7 @@ son muy conocidos pero **de memoria** ⚠️.
 | **Spider-Ham** (Peter Porker) | cerdo de dibujo animado | «Es agüita» en latino ⚠️; voz latina **Óscar Flores** ✅ |
 | **Peni Parker** y SP//dr | chica anime con robot | «I'm from New York in the year 3145» (UNU 01:02:40) |
 | **Spider-Man Noir** | blanco y negro, años treinta | «Wherever I go, the wind follows» (UNU 01:01:50) |
-| **Pavitr Prabhakar** (Spider-Man India) | de **Mumbattan** | voz latina **Tommy Rojas** ⚠️ (una fuente) |
+| **Pavitr Prabhakar** (Spider-Man India) | de **Mumbattan** | voz latina **Tommy Rojas** ✅ (Doblaje Wiki y [StarCon MX](https://www.facebook.com/starconmx/videos/tommy-rojas-actor-de-doblaje-que-dio-voz-pavitr-prabhakar-spider-man-india-en-sp/457477063491081/)); también es Cat Noir en *Miraculous* |
 | **Jessica Drew** | embarazada, en **moto** | «She rides a motorcycle» (ATSV 00:47:42) |
 | **La Mancha** (the Spot) | el villano «de la semana» que abre agujeros | voz latina **Javier Ibarreche** ✅ |
 | **Jefferson y Rio** | los papás de Miles | «I love you, Miles» / «That's a copy» (UNU 00:06:07 a 00:06:29) |
