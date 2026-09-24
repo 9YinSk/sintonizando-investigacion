@@ -828,13 +828,24 @@ y los subtítulos. Lo que no sale de ahí va marcado ⚠️.
 | 3 | **Yor Forger** | 43.304 |
 | 4 | **Damian Desmond** | 39.179 |
 | 5 | **Bond Forger** | 28.011 |
-| 6 | Yuri Briar | — |
-| 7 | Becky Blackbell | — |
-| 8 | Fiona Frost | — |
+| 6 | Yuri Briar | 13.078 |
+| 7 | Becky Blackbell | 12.085 |
+| 8 | Fiona Frost | 11.009 |
 | 9 | «Staff Officer» ⚠️ (sin identificar) | — |
 | 10 | Sylvia Sherwood (Handler) | — |
 
-Total: unos **338.000 votos**. En China lo comentaron como «sin
+Total: **338.341 votos**, 166 personajes, un voto al día (votos 6-8 y
+total: [wiki](https://spy-x-family.fandom.com/wiki/Popularity_Poll), que
+enlaza la [página oficial de votación](https://sp.shonenjump.com/p/sp/2509/vote_spyfamily)).
+Endo, tras la encuesta: «la mayoría esperaba que Anya quedara primera. Sin
+embargo, Loid ganó (¿a salvo?), lo que le permite mantener su dignidad
+como protagonista, y eso es un alivio» ✅ (misma página).
+
+**En Occidente gana Yor**: favoritos de [AniList](https://anilist.co/anime/140960):
+1.ª **Yor** (14.405), 2.ª Anya (13.281), 3.º Loid (10.163), luego Bond y
+Damian ✅. El orden casi se invierte frente a Japón. El servidor es
+hispano, más cerca del gusto occidental: **Yor y Anya** pesan tanto como
+Loid. En China lo comentaron como «sin
 discusión» y «muy inesperado»
 ([Record China vía Infoseek](https://news.infoseek.co.jp/article/recordchina_RC_966822/)).
 
@@ -1359,47 +1370,415 @@ resplandor en los atardeceres (F·9) ⚠️ (visto, sin entrevista que lo diga).
 
 ## B · Texturas 2D (punto 19)
 
-(pendiente)
+### B.1 Cómo es la textura del manga
+- Entintado **a mano** y tramas en digital (§A.1) ✅.
+- En una página real del manga (la reunión de WISE, archivo
+  [WISE.png](https://static.wikia.nocookie.net/spy-x-family9171/images/b/bb/WISE.png),
+  494×438, mirada): **rayado cruzado a mano** en la madera y las
+  chaquetas, **no** tramas de puntos mecánicas. El logo de WISE en la
+  pantalla va a línea limpia, sin trama ✅ (visto).
+
+### B.2 Emblemas y logos, con hex medidos
+| Emblema | Cómo es | Hex (Pillow) | Archivo |
+|---|---|---|---|
+| **Escudo de Eden** | bandera partida: **turquesa** a la izquierda, **naranja quemado** a la derecha; manzana partida al medio, una «C» a cada lado; borde crema | `#66BAAE` · `#D35C17` · `#D9C6B3` | [Eden_Academy_Emblem.png](https://static.wikia.nocookie.net/spy-x-family9171/images/5/50/Eden_Academy_Emblem.png) (355×355) ✅ |
+| **Logo de WISE** | rombo con un ojo o media luna dentro, blanco y negro, sin color | — | WISE.png ✅ |
+| **Estrella Stella** | estrella dorada, premio de Eden | ya en §3 (O·19, 808×808) | — |
+| Sello «TOP SECRET» | rojo, sobre las fichas | ya medido en §5.3 | — |
+
+### B.3 Patrones de ropa y de la casa
+- **La ropa es lisa**: uniforme carbón, vestido negro de Yor, jersey rojo.
+  Busqué en la sección «Appearance» de los 6 personajes y en las hojas:
+  no hay estampados ⚠️ (no encontré ninguno).
+- Los únicos motivos repetidos son de la casa: el **rombo del papel
+  pintado** del piso Forger (`#DABAA1`, §5.3) y el **enrejado del sofá LC2
+  y la alfombra geométrica** (F·4).
+
+### B.4 Equivalentes libres
+| Para qué | Recurso | Licencia |
+|---|---|---|
+| Grano de papel de tomo | [ambientCG Paper001/003/005](https://ambientcg.com/view?id=Paper001), en Multiplicar y opacidad baja | **CC0** ✅ |
+| Tramas de puntos (gratis) | [12 Distressed Halftone Textures, Spoon Graphics](https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures): PNG a 1000 px y patrón .pat | uso personal y comercial según el blog ⚠️ (no es un sello CC) |
+| Tramas de puntos y líneas (la más citada) | [Manga Screentone Brushes, Brushapes](https://www.brushapes.com/store/p/manga-screentone-clip-studio-paint-brushes): 39 de puntos + 21 de líneas | **de pago** ⚠️ |
+| Pinceles de trama en Clip Studio | [Tone Brushes, id 1835931](https://assets.clip-studio.com/en-us/detail?id=1835931) | cuesta 27 pt: **no es libre** |
+
+No encontré un paquete de tramas con sello **CC0** claro ⚠️: las gratis
+son «freebies» del blog que las publica. Para el rayado cruzado de WISE,
+mejor dibujarlo a mano en una capa.
 
 ---
 
 ## C · Gustos y detalles de cada personaje (punto 20)
 
-(pendiente)
+Fuente principal: el databook oficial **SPY×FAMILY Official Fanbook: EYES
+ONLY** (2023), citado con página en la
+[wiki](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_Official_Fanbook:_EYES_ONLY).
+Segunda fuente: dos traducciones humanas del mismo cuestionario, la de
+[@mj-ackerman en Tumblr](https://www.tumblr.com/mj-ackerman/690237118081024000/tatsuya-endos-characters-guide-qna-from-the)
+y la de [@kaikaikitan en X](https://twitter.com/kaikaikitan/status/1520793885328707585).
+Salen del mismo libro, pero coinciden palabra por palabra: ✅ sólo donde
+coinciden.
+
+> [!warning] Ningún cumpleaños es oficial
+> AniList da «6 de abril» a Anya y a Yor sin fuente. En Yor coincide con
+> la fecha de su ficha del ayuntamiento («06 ABR 63», ep. 2), que la
+> propia wiki dice que puede ser la de su contratación ⚠️. **No pongas
+> cumpleaños en la lámina.**
+
+| | Anya | Loid | Yor |
+|---|---|---|---|
+| **Come** | **cacahuetes** sobre todo; en el colegio, *omurice* y galletitas de animalitos ✅ | cocina de todo (fue chef de primera en una misión) ✅ | sólo sabe el **guiso sureño** de su madre ✅ |
+| **Le gusta** | Chimera, Spy Wars, Penguinman, los castillos, su uniforme; «Papá (un mentiroso), Mamá (una salvaje), Becky (mi dama), Bond» ✅ | información fiable, trajes bien hechos ✅ | las **manzanas** (también el caramelo de silbato, cap. 68) ✅ |
+| **Odia** | las **zanahorias**; el robot de juguete que le regaló Loid ✅ | la **guerra** y lo irracional ✅ | los **insectos**, ni en foto (cap. 10, ep. 7) ✅ |
+| **Aficiones** | quiere el llavero carísimo de la **oveja** «Lady Sheep» ✅ | **ninguna**, dice el fanbook ✅ | — |
+| **Altura** | 99,5 cm; zapato 14 cm ✅ | 187 cm ✅ | 170 cm ✅ |
+| **Edad** | 6 en los papeles, unos 5 de verdad (notas del autor, vol. 13) ✅ | 32 «declarados» (cap. 134) ⚠️ | 27 (cap. 2, ep. 2) ✅ |
+| **Siempre lleva** | Chimera y sus adornos del pelo | pistola (de la Walther PPK y la Luger P08), dedo siempre fuera del gatillo; pin de WISE ✅ | estiletes; tiene **buena letra** (ep. 20) ✅ |
+| **Se ve a sí misma/o** | agente secreta de la organización imaginaria «B'2» (de *Peanuts*), la que mantiene unida a la familia; teme que la devuelvan al orfanato ✅ | sólo como espía: «¿Esperanzas de matrimonio? ¿Las alegrías de una vida normal? Eso se fue a la basura junto con mis papeles de identidad el día que me hice espía» (cap. 1, pág. 11) ✅ | oficinista «ni tan mala como para que el jefe le grite»; como asesina, segura del todo; nunca tuvo pareja antes (cap. 14, ep. 9) ✅ |
+| **Dato extra** | su golpe **«300 Star Impact»** y otros que le enseñó Yor (Star Catcher Arrow, Rising Hope) ✅ | gana unos ¥20 millones al año; duerme **2 horas**; su misión más estresante fue **la entrevista de Anya**, peor que desactivar una bomba nuclear ✅ | su fuerza de agarre rompe los aparatos; éxito como asesina, 100 % ✅ |
+
+| | Bond | Damian | Becky |
+|---|---|---|---|
+| **Come** | le gusta la comida de **Loid**, odia la de **Yor** ✅ | el *schnitzel* de la matrona del internado; come en el dormitorio ⚠️ (una fuente) | pasta de tomate y crema con langosta ⚠️ (una fuente) |
+| **Le gusta** | el olor de Anya; el de Yor es de lo poco que le gusta de ella ✅ | el **fútbol** (delantero, «para anotar y destacar»), los cómics, las Stellas ✅ | los dramas románticos («Berlint in Love»), su llavero a juego con Anya, su perro **Wiesel** ✅ |
+| **Odia** | — | las lombrices, los **pimientos verdes**, escribir ✅ | lo infantil, saludar en las fiestas, los calcetines de su padre ✅ |
+| **Rutina** | con Anya en clase, rueda por el suelo y molesta a Penguinman; paseo de sólo 30 minutos ✅ | tiene un pastor alemán, **Max**, que cuida su mayordomo Jeeves; Jeeves lo llama «Dammy» (ep. 17) ✅ | juega a dramas con su muñeca **Martha** y hace desfiles sola ✅ |
+| **Altura** | cerca de 1 m (fanbook, pág. 48) ⚠️ | 110 cm; zapato 17 cm ✅ | 104 cm; zapato 15 cm ✅ |
+| **Siempre lleva** | la pajarita (guiño a James Bond) | el uniforme de Eden (n.º de alumno 61133229, ep. 18) ✅ | su **broche de bomba**: su padre lleva un pin igual y su madre pendientes a juego (caps. 71 y 107) ✅ |
+| **Quiere** | proteger a la gente con sus visiones ✅; a quien más quiere: Anya, Loid, Franky, Yor, por ese orden ✅ | ser **Erudito Imperial** para que su padre lo mire: «Sé que a mi padre no le importo en absoluto… ¡Tengo que convertirme en Erudito Imperial!» (cap. 25, ep. 17) ✅ | ser **cantante** (cap. 75) ✅ |
+
+Damian es **el único** a quien Anya le ha dicho que lee mentes; no le
+cree ✅ (wiki). Los datos de Damian y Becky salen del fanbook (págs. 102 y
+106) vía la wiki; los de fútbol de Damian también del libro de la
+película («filmfiles», pág. 66).
 
 ---
 
 ## D · Por qué la gente la ama (punto 21)
 
-(pendiente)
+### D.1 Ventas: no es una moda
+| Fecha | Copias del manga | Fuente |
+|---|---|---|
+| ago-2022 | 25 millones | [Anime News Network](https://www.animenewsnetwork.com/news/2022-08-28/spy-family-manga-tops-25-million-copies-in-circulation/.189083) ✅ |
+| dic-2022 | 29-30 millones | [somosxbox](https://www.somosxbox.com/el-manga-de-spy-x-family-alcanza-los-29-millones-de-copias-vendidas/) + [Ramen Para Dos](https://ramenparados.com/spy-x-family-alcanza-las-30-millones-de-copias-en-circulacion/) ✅ |
+| dic-2024 (14 tomos) | 37 millones | [ComicBook.com](https://comicbook.com/anime/news/spy-x-family-manga-sales-37-million/) ⚠️ una fuente |
+| mar-2026 (17 tomos) | **42 millones** | [AnimeExplained](https://www.animeexplained.com/news/spy-x-family-draws-closer-to-50-million-sales-milestone-after-only-17-volumes/) + [CBR](https://www.cbr.com/spy-x-family-vs-detective-conan-oricon-manga-ranking/) ✅ |
+
+La película *CODE: White* recaudó unos **59 millones de dólares** ⚠️ (sólo
+ComicBook.com).
+
+### D.2 Premios
+- **Kono Manga ga Sugoi!**: 1.º para lectores hombres en 2019 y 2020 ✅
+  ([atamashi](https://atamashi.net/spy-x-family-es-el-manga-numero-1-en-premios-kono-manga-ga-sugoi/) + [wiki](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_(manga))).
+- **Tsutaya Comic Award** 2020, ganador empatado ✅ ([No Somos Ñoños](https://nosomosnonos.com/2020/06/19/spy-x-family-a-man-and-his-cat-tsutaya/)).
+- *Da Vinci* «Book of the Year» 2022, 1.º ⚠️; Premio de la Asociación de
+  Dibujantes de Japón 2023 ⚠️ (una fuente cada uno).
+- **Crunchyroll Anime Awards 2023**: la serie con **más nominaciones (19)**.
+  Ganó **Mejor serie nueva**, **Mejor ending** («Kigeki»), **Mejor comedia**,
+  y Anya ganó **Mejor secundario** y el personaje que «hay que proteger a
+  toda costa» ✅ ([CGMagazine](https://www.cgmagonline.com/news/anime-awards-2023-winners-list/),
+  [Deadline](https://deadline.com/2023/03/anime-awards-2023-winners-list-1235278881/),
+  [Wikipedia](https://en.wikipedia.org/wiki/7th_Crunchyroll_Anime_Awards)).
+  Deadline cuenta 6; la sexta no la ubiqué ⚠️. **No** ganó Anime del Año.
+
+### D.3 Con quién se identifica el público
+- **La familia en el centro**, no sólo la acción; Anya «se ha ido
+  acaparando el protagonismo» y es «la favorita de millones» ✅ (El
+  Comercio Perú y Nintenderos, mismo argumento).
+- **Loid**: un protagonista adulto y calculador, raro en el shonen; hilo de
+  [r/SpyxFamily](https://www.reddit.com/r/SpyxFamily) con 260 votos ⚠️ (un
+  hilo).
+- **Yor**: «temible en el trabajo, torpe en lo social». Hilos como «I like
+  Fiona, but Yor is the best girl» (806 a 942 votos, repetido por varios) y
+  «My midlife crisis ended up being Yor Forger» (1050 votos) ✅ (varios
+  hilos, vía Arctic Shift).
+
+### D.4 La escena que hace llorar: el pasado de Loid
+- **Dónde**: manga caps. 58-63; anime **eps. 36 a 41** (T3); el golpe
+  fuerte es el **ep. 40**, «■■■■'S MEMORIES II» (Japón, 18-oct-2025) ✅
+  (ficha del episodio en la wiki, con la sinopsis de `spy-family.net`).
+- **Qué pasa**: de niño pierde su pueblo, Luwen, en un bombardeo; su madre
+  lo saca, pero muere en otro bombardeo mientras él está en el refugio. Se
+  alista con nombre falso («Roland Spoofy»); sus tres amigos de infancia
+  (General, Corporal y Major) mueren en una operación mal planeada y **sólo
+  vuelven sus placas**. Cierra: «La ignorancia no es una bendición. La
+  ignorancia es debilidad. La ignorancia es un pecado» (cap. 62, ep. 40) ✅.
+- **Por qué duele**: explica por qué Loid «tiró su nombre y su cara» y su
+  «mundo donde los niños no lloren».
+- **Música**: una pista «Lullaby» con la nana de su madre ⚠️ (un solo
+  resultado; sin escucharla ni número de pista).
+- **Cómo está dibujada** (encuadre, luz, lluvia): **no se pudo ver** ⚠️. La
+  T3 sólo está en Crunchyroll de pago y YouTube pidió iniciar sesión. Lo
+  único visto: el teaser T3, **Loid niño en una ciudad bombardeada**
+  (0:15 a 0:24, [Dailymotion](https://www.dailymotion.com/video/x9ndxls)).
+- **Reacción**: «Loid's backstory makes us appreciate the slice-of-life
+  parts of the story even more» ([1217 votos](https://www.reddit.com/r/SpyxFamily/comments/1oasb1v/loids_backstory_makes_us_appreciate_the/),
+  oct-2025) y «Did anyone else end up tearing up in the flashback
+  episodes?» (963 votos: «sólo es la segunda vez que algo me hace
+  llorar») ✅.
+- **El pasado de Yor** (huérfana, crió sola a Yuri, la reclutó Garden) se
+  cuenta en el arco del crucero (T2) ✅ ([Sportskeeda](https://sportskeeda.com/anime/spy-x-family-season-2-finally-gives-yor-much-deserved-spotlight));
+  episodio y minuto de una escena de llanto: no los ubiqué ⚠️.
+
+### D.5 La escena que hace gritar de alegría
+- **Ep. 11, «STELLA»** (18-jun-2022; caps. 16-17): Anya, que odia
+  estudiar, gana su **primera Stella** salvando con su telepatía a un niño
+  que se ahogaba en la piscina del hospital donde hacía voluntariado ✅
+  (ficha del episodio). Sin hilo con cifra de votos propia ⚠️.
+- **La cara «Heh»** (ep. 6, 18:26): tiene su propia entrada en
+  [Know Your Meme](https://knowyourmeme.com/memes/anyas-heh-face-anya-smug-face) (§14).
 
 ---
 
 ## E · Fan dubs y comunidad hispana (punto 22)
 
-(pendiente)
+> [!note] Límite de esta sección
+> YouTube pidió iniciar sesión todo el repaso y TikTok no deja bajar
+> vídeos: **no hay vistas** de ningún fandub ni cover ⚠️. Lo de abajo sale
+> de títulos, fechas y canales encontrados con el buscador. La búsqueda de
+> «fandub» en la API de Dailymotion sólo devolvió tráilers.
+
+### E.1 Fandubs en español
+| Qué | Quién | Dónde y cuándo | Estado |
+|---|---|---|---|
+| «**D.E. 20# \| Loid Adopta a Anya \| SPY X FAMILY Fandub Latino**» | Twilight: canal `@MrJina-tx1wf`; Anya: `@unahoramasfeliz` | YouTube, 5-ago-2024 | ⚠️ sin vistas; enlace no guardado |
+| Fandub de Loid y Yor | Loid: **Laxer15**; Yor: **KimKings** | **Bilibili**, 25-abr-2022: al día siguiente del estreno del doblaje oficial (24-abr) | ✅ fecha y reparto vistos en la página; enlace no guardado ⚠️ |
+| «Spy x Family - Fandub español latino» | canal sin identificar | YouTube | ⚠️ |
+
+### E.2 Covers en español de los temas (todos de fans)
+| Tema | Covers encontrados |
+|---|---|
+| OP1 «Mixed Nuts» | **al menos 9**, de abril a junio de 2022: AxlolRms, Dianilis, David Delgado, «Luna ft. JonatanKing», RonRockerOfficial (con letra fiel), Takayamizu ⚠️ |
+| ED1 «Kigeki» | al menos 1 ⚠️ |
+| ED2 «Shikisai» | al menos 4 (2022) ⚠️ |
+| Temas de la T3 (Ado, Vaundy, Spitz, Lilas Ikuta) | ninguno encontrado ⚠️ |
+
+### E.3 Memes y parodias
+- **«Papi, quiero mimir»** es **el** meme latino de la serie: docenas de
+  TikTok de cuentas distintas desde 2022 ✅ (§14).
+- Playlist de YouTube «PARODIAS: SPY X FAMILY» ⚠️ (título visto, sin
+  entrar a los vídeos).
+- [Memedroid en español](https://es.memedroid.com/) tiene etiqueta propia
+  «spy x family» con decenas de memes ⚠️ (existe; no los conté).
+
+### E.4 Cómo recibió el público hispano el doblaje
+- El estreno latino (24-abr-2022) se celebró en redes: «récords de
+  vistas» en los clips y cosplays desde el primer día ✅
+  ([Geekzilla](https://geekzilla.tech/spy-x-family-el-anime-que-todos-los-fans-latinoamericanos-amamos-por-su-increible-doblaje/),
+  27-abr-2022, y [Universo Nintendo](https://universo-nintendo.com.mx/2022/04/24/spy-x-family-doblaje-latino-video/),
+  24-abr-2022).
+- Cuenta de fans en X: **«SPY x FAMILY LATAM»** (`@spyfamily_la`) ⚠️ (no
+  revisé su contenido).
+- Los **guiños mexicanos del doblaje** (Chavo del Ocho, *31 minutos*, «Qué
+  elegancia la de Francia») están en §10 (Doblaje Wiki).
 
 ---
 
 ## F · Colaboraciones, figuras y cosplay (punto 23)
 
-(pendiente)
+La wiki tiene una categoría entera, **Category:Collaborations**, con **más
+de 100** colaboraciones, cada una con su página e imagen
+([lista por la API](https://spy-x-family.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Collaborations)).
+La campaña se llama **«SPY×FAMILY CODE: White»** (desde 2022) y sigue en
+2026. Aquí va una por tipo ✅ (página propia en la wiki; tamaños medidos
+con `imageinfo`).
+
+### F.1 Marcas y comida
+- **McDonald's Japón**, 2023 y **2026** ✅ ([página 2026](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_x_McDonald%27s_Collaboration_(2026))).
+  Antes: Burger King (2022), KFC (2024), 7-Eleven (2022 y 2023), Lawson
+  (varias, 2022-2026), con arte propio de los Forger cocinando o de compras.
+- **Sanrio** (ago-oct 2025, tiendas Loft de Tokio, Osaka y Fukuoka): cada
+  Forger **se viste de un personaje de Sanrio**: Anya de Hello Kitty, Loid
+  de Pompompurin, Yor de My Melody ✅
+  ([página](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_x_Sanrio_Collaboration_(2025)); cartel
+  `Sanrio_2025_Poster_1.png`, **1200×1940**). **Ropa nueva, pose nueva.**
+
+### F.2 Juegos (en Japón hacen el papel de Fortnite)
+- **Street Fighter 6** (Capcom, ene-2024): trajes de avatar, arte
+  promocional y un corto animado ✅
+  ([página](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_CODE:_White_x_Street_Fighter_6_Collaboration_(2024));
+  cartel **1460×2064**). El fondo de fans de Yor con Chun-Li (§17) es de
+  este cruce.
+- Gachas y multijugador con personajes de la serie dentro ✅ (cada uno con
+  página en la categoría): **Monster Strike** (2022 y 2023-2024), **Puzzle &
+  Dragons** (2023), **Puyopuyo!! Quest** (2024 y 2026), **Shadowverse**
+  (2023), **PUBG Mobile** (2024), **Kotodaman** (2022), **Gyakuten
+  Othellonia** (2026), **LINE Rangers** (2025).
+- Con **Fortnite**: no encontré ninguna (busqué «Fortnite» en el texto de
+  la wiki) ⚠️.
+
+### F.3 Cafés y parques
+- **Capcom Café** (Ikebukuro y Umeda, dic-2023 a ene-2024) ✅
+  ([página](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_CODE:_White_x_Capcom_Caf%C3%A9_Collaboration_(2023%E2%80%932024));
+  visual principal **3508×2481**). Otros cafés con página: kawara
+  CAFE&DINING (2023), Sweets Paradise (2022 y 2025), Chugai Grace Café
+  (2022).
+- **Universal Studios Japan** (2023 y jul-2025 a ene-2026): la de 2025
+  trajo la **primera atracción de realidad virtual** de la serie («SPY x
+  FAMILY XR Ride»), «Story Ride» y «Park Rally» ✅
+  ([página](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_x_Universal_Studios_Japan_Collaboration_(2025-2026));
+  cartel **3900×2757**).
+- **Tobu Zoo** (2023; P·11 y placas de nombre O·15), **Nijigen no Mori**
+  (2024; tarjetas de nombre O·14), NAMJATOWN (2024) y Hakkeijima Sea
+  Paradise (2025) ✅. **Las placas y tarjetas de nombre de estas
+  colaboraciones son tarjetas oficiales con el nombre de cada personaje**:
+  sirven de modelo para la ficha del concepto A.
+
+### F.4 Figuras oficiales (su pose sirve de referencia 3D)
+| Figura | Qué trae | Fuentes |
+|---|---|---|
+| **Nendoroid Anya Forger** (Good Smile, jun-2022) | ~100 mm, 4 caras (normal, sorprendida, sonrisa pícara, alegre) y **Chimera** de accesorio | [ficha oficial](https://www.goodsmile.info/en/product/12801/Nendoroid+Anya+Forger.html) + [Kahotan's Blog](https://mikatan.goodsmile.info/en/2022/06/13/nendoroid-loid-forger-nendoroid-anya-forger-spy-x-family/) ✅ (foto de catálogo medida sólo a 250×250 ⚠️) |
+| **POP UP PARADE Loid Forger** | ~17-18 cm, de pie con gabardina, pose dinámica | [ficha oficial](https://www.goodsmile.com/en/product/10987/POP+UP+PARADE+Loid+Forger) + [MyFigureCollection](https://myfigurecollection.net/item/1556057) ✅ |
+| **POP UP PARADE Yor Forger** | — | [ficha oficial](https://www.goodsmile.info/en/product/13720/POP+UP+PARADE+Yor+Forger.html) ✅ |
+| **Ichiban Kuji** (Bandai Spirits) | **12 tandas** de lotería de premios (jul-2021 a dic-2025), cada una con figura grande | [página](https://spy-x-family.fandom.com/wiki/SPY_x_FAMILY_x_Ichiban_Kuji_Collaboration) ✅ (ej. `Ichiban_Kuji_12_Merchandise_1.png`, 1000×1000) |
+
+### F.5 Cosplay bien hecho (volumen y materiales reales)
+- **Vestido de Thorn Princess**: 7 piezas, 12 materiales, 12 pasos y 6
+  semanas (120-300 USD); **punto elástico (ponte) o terciopelo gofrado**
+  para que no se arrugue, con **ballenas** por el corte entallado y la
+  abertura ⚠️ (una guía:
+  [Costumary](https://www.costumary.com/templates/spy-x-family/yor-forger)).
+- Peluca sujeta con **diadema dorada con peinetas**, ojos rojos ✅
+  (Costumary + [Finallure](https://www.finallure.com/blogs/2026-halloween-and-cosplay-character-guide/yor-forger-cosplay-guide-thorn-princess-costume-wig-makeup-lenses)).
+- **Fotos libres de un cosplay real de Yor**: 19 fotos de **esby.photo** en
+  el festival Luciole Éteinte (Lyon), **CC BY-NC-SA 2.0** en Flickr ✅. La
+  mejor: [52306732895](https://live.staticflickr.com/65535/52306732895_25bbf1f16b_b.jpg)
+  (769×1024, de pie, **la falda en movimiento**): muestra cómo cae la tela,
+  para que el vestido no quede plano en 3D.
 
 ---
 
 ## G · Obras parecidas y temas relacionados (punto 24)
 
-(pendiente)
+### G.1 Lo que reconoce Endo (fuente primaria)
+De las entrevistas recopiladas en [Tatsuya Endo/Interviews](https://spy-x-family.fandom.com/wiki/Tatsuya_Endo/Interviews):
+- **Dibujo**: fue asistente y tomó «la acción tosca de **Yusuke Nomura**
+  (*Blue Lock*) y el estilo brillante, algo shōjo, de **Nao Emoto** (*O
+  Maidens in Your Savage Season*)» ✅ (entrevista «Kikan S»).
+- **Secuaces cómicos**: los de Damian siguen «la combinación clásica del
+  flaco y el gordo junto a Doronjo, de **Yatterman**» ✅.
+- **De niño**: le gustaba **Akira Toriyama** como diseñador de *Dragon
+  Quest* y dibujaba parodias de la princesa Alena ✅.
+- **No le interesaban las historias de espías**: pensó la serie desde el
+  tema de **las mentiras** ✅ ([FandomWire](https://fandomwire.com/tatsuya-endos-lack-of-interest-in-spy-stories-turned-gave-spy-x-family-a-surprising-advantage/)).
+
+### G.2 Sus obras anteriores
+- ***TISTA*** (una asesina protagonista, tono serio) y ***Gekka Bijin***,
+  las dos en *Jump Square*, «oscuras». Con su editor **Shihei Lin**
+  decidió **a propósito** algo más positivo: de ahí la asesina torpe y
+  cómica que es Yor ✅ (misma recopilación, «The Birth of SPY×FAMILY»).
+- El título imitaría el formato de *Hunter × Hunter* ⚠️ (una fuente de
+  prensa; no vi la cita).
+
+### G.3 Con qué la compara la crítica
+- ***Mr. & Mrs. Smith***: la misma premisa, pero Spy×Family «se apoya en
+  lo ridículo» ✅ ([Tokyo Weekender](https://www.tokyoweekender.com/entertainment/movies-tv/spy-x-family-mr-mrs-smith-comparison/),
+  [CBR](https://www.cbr.com/spy-x-family-manga-coolest-cutest-family/)).
+  Endo **nunca ha visto la película** ✅
+  ([FandomWire](https://fandomwire.com/that-cant-possibly-happen-tatsuya-endo-still-hasnt-watched-angelina-jolie-and-brad-pitts-one-film-that-no-spy-x-family-fan-should-miss/) + CBR).
+- ***Los Increíbles* / *Los 4 Fantásticos***: familia que esconde sus
+  poderes ✅ (CBR).
+- **Recomendadas por quien la vio** ([AniList](https://anilist.co/anime/140960)):
+  *Buddy Daddies* (562 votos), *Kaguya-sama* (527), *Great Pretender*
+  (273), *SAKAMOTO DAYS* (162), *The Yakuza's Guide to Babysitting* (138).
+  Todas: comedia más un secreto que no puede salir.
+
+### G.4 En este servidor
+- Ningún otro de los 137 encargos (`encargos/*.md`) toca espías ✅ (grep
+  de «espía», «espionaje», «agente secreto», «spy»): la idea del
+  **expediente** no se repite.
+- La más cercana en estructura (colegio, estrategia, comedia romántica)
+  sería *Kaguya-sama* (encargos 43 y 90, aún sin biblia) ⚠️ (comparación
+  del investigador).
 
 ---
 
 ## H · El mundo, la historia y sus símbolos (punto 25)
 
-(pendiente)
+### H.1 Las reglas del mundo, en cinco líneas
+1. **Westalis** y **Ostania** (capital **Berlint**) llevan décadas de
+   guerra fría tras **dos guerras reales** que dejaron a Ostania muy dañada
+   ✅ ([Ostania](https://spy-x-family.fandom.com/wiki/Ostania)).
+2. Ostania mantiene políticas de guerra tras una fachada de apertura: es
+   la Alemania del Este (§5.2) ✅.
+3. **WISE**, el espionaje de Westalis, trabaja en la sombra: «No ganarás
+   medallas. Tu nombre nunca saldrá en los periódicos. Pero nunca olvides
+   que la vida diaria de los demás es posible gracias a tu sangre y tu
+   sudor» ✅ (cap. 1, ep. 1; [Westalis Intelligence](https://spy-x-family.fandom.com/wiki/Westalis_Intelligence)).
+4. **SSS**, la policía secreta de Ostania, vigila y detiene; la gente la
+   teme ✅ ([State Security Service](https://spy-x-family.fandom.com/wiki/State_Security_Service)).
+5. **Garden**, los asesinos de Yor, llevan **siglos** «al servicio de
+   Ostania» purgando traidores «para hacer del mundo un lugar hermoso»;
+   casi nadie sabe que existen ✅ ([Garden](https://spy-x-family.fandom.com/wiki/Garden)).
+
+### H.2 La historia por arcos
+[Story Arcs](https://spy-x-family.fandom.com/wiki/Story_Arcs) lista 21; el anime cubre los primeros ~11 ✅.
+Casi todos los nombres son de fans; sólo *Doggy Crisis*, *Cruise
+Adventure*, *Loid's Past*, *Bus Hijacking*, *Wheeler* y *TV Island* son
+oficiales (aviso de la propia wiki).
+
+| # | Arco | Momento clave |
+|---|---|---|
+| 1 | Introducción | Twilight arma la familia falsa para la Operación Strix |
+| 2 | Entrevista de admisión | la familia se presenta ante Eden (**la escena madre del canal**, §2) |
+| 3 | Comienzos en Eden | Anya entra en Cecile Hall, pega a Damian, conoce a Becky |
+| 4 | Policía secreta | Yuri descubre que su hermana se casó |
+| 5 | Estrella Stella | Anya busca Stellas (ep. 11: la primera) |
+| 6 | Exámenes de mitad de año | Anya se juega la expulsión a rayos Tonitrus |
+| 7 | Torneo de tenis | Twilight recupera el «Expediente Zacharis» |
+| 8 | Mixer de Eruditos | Damian busca la mirada de su padre |
+| 9 | Crucero (el más largo, 7 episodios) | Yor, de Thorn Princess, protege a una madre y su hijo en el *Princess Lorelei* |
+| 10 | Pasado de Loid | el origen de Twilight (§D.4) |
+| 11 | Planes de amistad | Anya y Damian; Yor hace una amiga |
+| 12 | Secuestro del autobús | el grupo **Red Circus** secuestra el autobús de Anya |
+| 13 | Caso Wheeler | un topo roba datos de la Operación Strix |
+| 14 | Finales de término | el primer examen final de Anya |
+| 15 | Amor y guerra | Henderson y su vieja amiga Martha |
+| 16 | Vacaciones | una sesión de terapia da una pista clave |
+| 17 | Cazadores furtivos | Thorn Princess contra la asesina Hemlock |
+| 18 | Escándalo en Eden | Loid destapa a Sigmund Authen con las notas de Melinda Desmond |
+| 19 | Isla de TV | Yor invita a Loid a un drama romántico en directo |
+| 20 | Reunión de la SSS | Yuri lleva a Loid a una fiesta de la policía secreta |
+| 21 | Hospital | un simposio médico atrae a WISE y a un invitado inesperado |
+
+### H.3 Emblemas y objetos que un fan reconoce
+- **El búho de WISE con el sello rojo «TOP SECRET»** (§3, O·1).
+- **Escudo de Eden**: manzana partida con las letras de *Eden College*
+  (nombre formal en el manga), guiño a la manzana del Edén ✅
+  ([ComicBook.com](https://comicbook.com/anime/news/spy-x-family-eden-academy-project-apple/),
+  [The Flagship Eclipse](https://www.theflagshipeclipse.com/2025/02/19/spy-x-familys-eden-academy-could-be-hiding-a-dark-secret/);
+  puede que compartan fuente ⚠️). Colores medidos en §B.2.
+- **Estrella Stella y rayo Tonitrus**: los dos mejores de cada examen ganan
+  una Stella; bajo 30 puntos, un rayo ✅ ([Eden Academy](https://spy-x-family.fandom.com/wiki/Eden_Academy)).
+  8 Stellas: alumno de honor; 8 rayos: expulsión (§14).
+- **Eruditos Imperiales**: el programa de honor, con retratos en un Salón
+  de la Fama; Sylvia lo explica a Loid (cap. 7, ep. 6) ✅
+  ([Imperial Scholars](https://spy-x-family.fandom.com/wiki/Imperial_Scholars)).
+- **Proyecto Apple**: el programa militar que creó a Bond (sujeto 8); su
+  visión del futuro fue un efecto no buscado ✅
+  ([ScreenRant](https://screenrant.com/spyx-family-project-apple-bond-anya-mysteries/),
+  [Project Apple](https://spy-x-family.fandom.com/wiki/Project_Apple)). Que la manzana de Eden tenga que ver
+  es **teoría de fans** ⚠️.
+- **Chimera** y la cartela **«MISSION: N»** (§2, §7).
+
+### H.4 Vocabulario propio
+| Término | Qué es |
+|---|---|
+| **Operación Strix** | la misión de Twilight para acercarse a Donovan Desmond |
+| **WISE** | el espionaje de Westalis |
+| **SSS** | la policía secreta de Ostania (jefe: Wyman Wilker) |
+| **Garden** | asesinos «por la belleza del mundo»; Yor es su **Thorn Princess** |
+| **Eden** | el colegio de élite; escudo de la manzana |
+| **Stella / Tonitrus** | premio y castigo de Eden |
+| **Erudito Imperial** | alumno de honor |
+| **Proyecto Apple** | el programa que creó a Bond |
+| **Red Circus** | los terroristas del autobús |
+| **Berlint** | la capital, donde viven los Forger |
+| **Administradora** | Sylvia en el doblaje latino (no «Handler») (§10) |
 
 ---
 
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Guía para generar con IA (Firefly, Canva) — punto 17
 
 > [!warning] Antes de nada
 > El dueño **no quiere que parezca IA**. Úsala sólo para **explorar poses,
@@ -1407,36 +1786,146 @@ resplandor en los atardeceres (F·9) ⚠️ (visto, sin entrevista que lo diga).
 > `v3/integrar.py`. Además, las IA comerciales suelen **negarse con nombres
 > de personajes con derechos**: describe sin nombres.
 
-**Rasgos que nunca cambian**
-- Anya: niña de unos 5 años, pelo rosa claro por los hombros, **dos adornos
-  negros cónicos** en la cabeza, ojos verdes grandes, cara muy expresiva.
-- Loid: hombre alto y delgado, pelo rubio claro con raya, ojos verde
-  azulado, traje oscuro, gesto sereno.
-- Yor: mujer alta, pelo negro largo con flequillo, ojos rojos, muy educada.
-- Bond: perro enorme, blanco y peludo, tipo montaña de los Pirineos.
+### 18.1 IA de imagen
 
-**Estilo**
-- Línea **fina y limpia**, color plano de **dos tonos** (luz y sombra), sin
-  degradados fuertes ni texturas.
-- Fondos **pintados, casi realistas**: interiores **mid-century** de los 60
-  (lámparas PH5, sofá LC2), calles europeas de posguerra.
-- Luz: **cálida y dorada** en casa; **azul fría** en las misiones.
+**Rasgos que nunca cambian** (wiki «Appearance», §16 y etiquetas de
+Danbooru de `datos-imagen.md`):
+- **Anya**: niña de unos 5 años, 99,5 cm; pelo rosa claro `#F4ABA2` por los
+  hombros con un mechón de punta; **dos adornos cónicos negros** en la
+  cabeza (en Danbooru, *hairpods*), nunca cuernos; ojos verdes grandes
+  `#6A9773`; en casa, vestido marrón oscuro `#544C48` con cuello de volante
+  dorado; en Eden, uniforme carbón `#393937` con ribete oro `#DEB272`.
+- **Loid**: hombre alto (187 cm) y delgado; pelo rubio claro `#E7DDBC` con
+  raya; ojos verde azulado `#5B797A`; traje oscuro `#151A24` o, en casa,
+  jersey verde de pico `#9AB37C`; gesto sereno.
+- **Yor**: mujer alta (170 cm), pelo negro verdoso `#3C3C3B` largo y liso con
+  flequillo corto, ojos rojos rasgados; en casa, **jersey-vestido rojo**
+  `#C54540` de hombros caídos, medias negras, botines marrones, **diadema
+  blanca** y pendientes dorados en punta; de Thorn Princess, vestido negro
+  de cuello halter, **diadema dorada con rosas**, guantes sin dedos,
+  estiletes dorados, rojo `#9C031B`.
+- **Bond**: perro enorme, casi un **montaña de los Pirineos**, blanco y muy
+  peludo `#F0EDE2`, **patas negras** (los «guantes» de Bondman), ojos
+  pequeños y oscuros, orejas caídas, **pajarita negra** de collar.
+- **Damian**: niño de pelo castaño muy oscuro con **brillo verdoso** en el
+  anime (`#505041`), ojos avellana entornados con pestañas inferiores
+  largas, gesto de superioridad; uniforme de Eden con tres franjas doradas
+  en las mangas y calcetines de rayas.
+- **Becky**: niña de pelo castaño oscuro con **dos coletas** con coleteros
+  blancos rizados y una horquilla; mejillas algo sonrosadas; **lazo rojo**
+  `#CB3F46` en el uniforme; llavero de oveja en la mochila.
+
+**Estilo** (medido en §A.2):
+- Contorno **fino y de color**, verde o marrón muy oscuro (`#36483A`,
+  `#464734`), **nunca negro puro**.
+- Sombra **mixta**: zonas planas de un tono más oscuro y degradados suaves
+  sólo en pelo y tela.
+- **Fondos pintados sin línea**, más brillantes y saturados que los
+  personajes: interiores **mid-century** de los 60 (lámparas PH5 y
+  Taliesin, sofá LC2), calles de piedra rosa y crema con tranvía rojo.
+- **Luz**: cálida y dorada en casa; atardecer naranja sobre Berlint (F·9);
+  noche verdosa con farolas (F·10); azul limpio de día en Eden; lo de
+  espías, en penumbra con madera oscura y rojo (§5.2).
+- **Sin grano ni aberración cromática**; algo de resplandor al atardecer.
+- **Encuadre**: fichas de frente y centradas; familia en plano general a
+  altura de alguien sentado; alegría de Anya en primerísimo primer plano;
+  Damian en plano medio con la cabeza alta (§A.4).
 
 **Palabras que ayudan**: «1960s European apartment interior», «mid-century
 modern furniture», «manila folder», «typewritten dossier», «rubber stamp»,
-«warm desk lamp», «clean thin lineart», «flat cel shading», «anime TV
-still».
+«warm desk lamp», «thin colored lineart», «flat cel shading with soft
+gradients on hair», «painted background», «anime TV still», «cold war
+Berlin street, pink stone buildings, red tram».
 
 **Palabras que lo estropean**: «horns», «thought cloud», «cyberpunk»,
-«neon», «gore», «photorealistic», «3D render», «Pixar», «chibi» (salvo si
-se quiere SD), «dark fantasy».
+«neon», «gore», «photorealistic», «3D render», «Pixar», «black outline»,
+«film grain», «chibi» (salvo si se quiere SD), «dark fantasy».
 
-**Imágenes de referencia de estilo**: el key visual de la T3
-([spy-family.net](https://spy-family.net/news/?p=2010)); para el interior,
-las notas de muebles ([Restyle](https://store.restyle-net.com/reading/furniture_spyfamily/)).
-**De pose**: los minutos de §15.
+**Vocabulario de gestos** (para que la IA entienda cada cara):
+| Gesto de la serie | Cómo pedirlo | Dónde verlo |
+|---|---|---|
+| Cara **«Heh»** de Anya | «smug face, half-lidded eyes, lopsided smirk, chin raised» | ep. 6, 18:26 (§15) |
+| **«¡Qué emoción!»** | «sparkling wide eyes, open mouth, leaning forward, hugging a plush toy» | ep. 1, 6:46 |
+| Anya **leyendo mentes** | «small four-point sparkles around the head», sin globo (§7) | TV Tropes, Screen Rant |
+| Damian **enamorado** | «deep blush, wide eyes, frozen» | ep. 7, 6:53 |
+| Damian **furioso** | «clenched teeth, red face, fists at sides» | ep. 6, 18:30 |
+| Damian visto por Anya | «round wide dumb eyes» (así lo dibuja la serie desde los ojos de Anya) | wiki «Appearance» |
+| Becky **admirando** | «hands clasped under chin, big smile, blushing» | ep. 6, 18:40 |
+| Yor **avergonzada** | «blushing, flustered, hands together in front» | ep. 4, 14:37 |
+| Anya **agotada** | «limp body, half-closed eyes, hanging on an adult's arm» | ep. 1, 9:57 |
+| Anya **triste** | «teary close-up» | tráiler de *CODE: White*, 2:00 |
 
----
+**Imágenes de referencia**:
+- **Estilo**: hojas de modelo **P·5** (Damian) y **P·6** (Becky); **P·16**
+  (Anya y Bond, ep. 15) y **P·19** (Loid y Yor en casa, ep. 21) para
+  color; el key visual de la T3 ([spy-family.net](https://spy-family.net/news/?p=2010)).
+- **Interior**: [Restyle](https://store.restyle-net.com/reading/furniture_spyfamily/)
+  y la hoja `fondos_01.jpg` (F·1 a F·6).
+- **Pose**: los minutos **vistos** de §15 (Anya con Chimera, ep. 3, 5:37;
+  la mano de Loid firmando, ep. 1, 4:36) y la familia de compras **P·30**.
+- **Volumen 3D**: Nendoroid de Anya y POP UP PARADE de Loid (§F.4).
+
+### 18.2 IA de texto: cómo escribir en su voz
+
+**Reglas de cada uno**:
+- **Anya**: frases **cortas y simples**; habla de sí misma **en tercera
+  persona** («Anya quiere…»); llama a Loid «Papi» y a Yor «Mami» ⚠️ (§8);
+  exagera con exclamaciones; en latino arrastra y pronuncia mal (desde la
+  T1 parte 2, §10) ⚠️. A Damian, «Segundo» ⚠️.
+- **Loid**: educado y sereno por fuera; **frases completas, sin gritos**;
+  por dentro, análisis y planes A, B y C. Si algo sale mal, sonríe fuera
+  y grita dentro.
+- **Yor**: **muy educada**, pide perdón, se sonroja; habla con respeto
+  hasta cuando amenaza.
+- **Damian**: arrogante, se presenta con su apellido; cuando se enfada,
+  grita e insulta como un niño.
+- **Becky**: fuerte, dramática, copia a los dramas de la tele; habla de
+  amor y de ser «adulta».
+- **Narrador**: ficha seca: papel, tapadera, identidad real, nombre en
+  clave.
+
+**Frases reales por emoción** (EN = subtítulo inglés, JP = original, LA =
+doblaje latino; si no es LA, **tradúcela sin inventar**):
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| **Alegre** | Anya | «¡Ay no, me mimí!» (LA ✅) | clip oficial, ep. 18 |
+| Alegre | Anya | «わくわく» / «¡Qué emoción!» (LA ⚠️) | ep. 1, 6:47 |
+| Alegre | Anya | «Anya likes peanuts but not carrots.» (EN) | ep. 1, 9:05 |
+| Alegre | Becky | «By the way, call me Becky! I hope we can become better friends!» (EN) | ep. 7, 6:30 |
+| **Presentando** | Anya | «I'm Anya Forger!» (EN) / «アーニャ･フォージャーです！» (JP) | ep. 4, 15:45 |
+| Presentando | Loid | «Loid Forger. Occupation, psychiatrist. That'll be my new life.» (EN) | ep. 1, 4:28 |
+| Presentando | Yor | «Nice to meet you, Kimera. I'm Anya's mother.» (EN) | ep. 3, 5:33 |
+| Presentando | Damian | «My name is Damian Desmond. I'm the second son of a prominent family…» (EN) | ep. 7, 6:55 |
+| Presentando | Narrador | «Father, Loid Forger, a psychiatrist. His true identity is spy. Codenamed Twilight.» (EN) | ep. 26, 0:30 |
+| **Explicando** | Loid | «Make sure to call me Father.» / «Don't say unnecessary things.» (EN) | ep. 1, 7:15 y 7:23 |
+| Explicando | Loid | «Thank you for gathering here today for my daughter.» (EN) | ep. 5, 12:33 |
+| Explicando | Sylvia | «los estudiantes que logran distinguirse… se unen a… los Eruditos Imperiales» | cap. 7, ep. 6 (§H.3) |
+| **Animando** | Yor | «una hermana mayor genial se ríe de las pequeñas maldades» (JP traducido) | ep. 6, 18:00 |
+| Animando | Becky | «余裕！ 大人の余裕だわ すごいわ！» («¡qué calma de adulta!») (JP) | ep. 6, 18:24 |
+| Animando | WISE | «No ganarás medallas… la vida diaria de los demás es posible gracias a tu sangre y tu sudor» | cap. 1, ep. 1 |
+| **Enfadado** | Damian | «なんだ その小バカにしたような笑いは！» («¿qué es esa risa burlona?») (JP) | ep. 6, 18:20 |
+| Enfadado | Damian y Anya | «¡Ay, ya cállate que me desesperas!» / «¡Ay, no me tienes paciencia!» (LA ⚠️) | ep. 46 |
+| Burlona | Anya | «フッ アーニャ 全然気にしてない» («Heh, a Anya no le importa») (JP) | ep. 6, 18:12 |
+| **Tímida** | Yor | «If I can keep my job, that's good enough for me.» (EN) | ep. 2, 3:20 |
+| Pidiendo | Yor | «Can someone please help me learn how to cook?» (EN) | ep. 16, 5:06 |
+| **Triste** | Anya | «Papi, quiero mimir» (LA ⚠️; JP «ちち アーニャ眠い 歩けない») | ep. 1, 9:49 |
+| Triste | Damian | «Sé que a mi padre no le importo en absoluto… ¡Tengo que convertirme en Erudito Imperial!» | cap. 25, ep. 17 |
+| Triste | Loid | «La ignorancia no es una bendición. La ignorancia es debilidad. La ignorancia es un pecado.» | cap. 62, ep. 40 |
+| Serio | Loid | «I, Twilight, got rid of both my name and face.» (EN) | ep. 1, 4:04 |
+
+**Puntuación y gritos**: Anya, «¡…!» y frases de tres o cuatro palabras;
+Loid, punto final y ninguna exclamación; Yor, «Disculpe» y «Con permiso»
+(§7.2); Damian, «¡…!» con insulto. Sin «waku waku» en japonés: en latino es «¡Qué emoción!».
+
+**Vocabulario propio para que la IA no invente** (§H.4 y §10): Operación
+Strix, WISE, SSS, Garden, Thorn Princess, Eden, Stella, Tonitrus, Erudito
+Imperial, Berlint, «Administradora» (Sylvia), «Superior» (Fiona a Loid),
+«Segundo» (Damian), «Ricitos» (Franky), «Loichi» (Yuri a Loid),
+«chihuahita».
+
+**Onomatopeyas**: «ボフ» (el ladrido de Bond, en japonés), «わくわく»
+(emoción de Anya). En la mezcla, lo de espías suena real y lo de casa
+suena a dibujo animado (§11.1).
 
 ## 19 · Tres conceptos para la lámina de #presentaciones
 
