@@ -1,6 +1,6 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 17:45 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 2026-09-24, 17:33 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 ## Cuándo una biblia está completa
@@ -17,7 +17,7 @@ Los ⚠️ no la dejan incompleta: marcan datos con una sola fuente o cosas que
 hay que ver u oír en persona (frases del doblaje, vídeos que YouTube no deja
 bajar desde el servidor). Siempre quedarán algunos.
 
-## Cómo va (17:45 UTC)
+## Cómo va (17:33 UTC)
 
 - **Casi completas (9):** 01, 02, 03, 04, 05, 31, 32, 33, 34. Tienen tabla sin
   ❌, hojas y referencias, pero **les faltan los puntos 18-25** (se añadieron al
@@ -31,7 +31,7 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## En marcha (17:45 UTC, cuenta nueva)
+## En marcha (17:33 UTC, cuenta nueva)
 
 **Piloto del equipo de 8 con One Piece (01)**, lanzado a las 17:15 UTC. Cada
 investigador escribe en `biblias/01-one-piece/partes/<rol>.md` y `.json`
@@ -42,7 +42,7 @@ existe, sigue desde donde quedó») y, cuando estén los 8, el redactor, que
 **edita la biblia que ya hay** y añade los puntos 18-25.
 Medir: hora de inicio y fin de cada uno, para saber cuánto tarda el equipo.
 Se paró a las 17:30 UTC (límite de la cuenta) con las partes casi vacías (sólo el
-índice). **Relanzado entero a las 17:45 UTC** en la cuenta nueva; la medición
+índice). **Relanzado entero a las 17:33 UTC** en la cuenta nueva; la medición
 (inicio, fin y tokens de cada investigador) se anota en `/tmp/claude-0/medicion_01.txt`
 y, al terminar, en esta sección.
 
