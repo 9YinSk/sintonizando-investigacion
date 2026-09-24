@@ -1936,7 +1936,7 @@ página [«B-Komachi»](https://oshinoko.fandom.com/wiki/B-Komachi)) hay
 | **Ruby** | 158 cm ✅ | **rojo**, por Ai ✅ | no encontrado | la barra de luz roja |
 | **Kana** | 150 cm ✅ | **blanco** ✅ | dieta baja en hidratos; **odia los pimientos** | boina y guion |
 | **MEM-cho** | 155 cm ✅ | **amarillo** ✅ | no encontrado | móvil y cámara |
-| **Akane** | 163 cm ✅ | — | **vegetariana** | su cuaderno de papel (§9) |
+| **Akane** | 163 cm ✅ | — | **vegetariana**; cocina muy bien | no encontrado ⚠️ |
 | **Aqua** | 172 cm ✅ | — | **odia los pimientos** | cámara y edición |
 
 ### Ai Hoshino
@@ -2030,25 +2030,299 @@ página [«B-Komachi»](https://oshinoko.fandom.com/wiki/B-Komachi)) hay
 
 ## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar o gritar)
 
-_(pendiente)_
+> De `partes/voz.md` (repaso corto). Cada premio, cruzado con el
+> artículo que lo cita. Lo que no se pudo confirmar, fuera.
+
+### 21.1 · Ventas y premios
+- **Más de 25 millones de copias** del manga a diciembre de 2025 ⚠️
+  ([Wikipedia EN](https://en.wikipedia.org/wiki/Oshi_no_Ko), lista de
+  mangas más vendidos).
+- Las ventas **subieron un 140 %** con el estreno del anime ⚠️
+  ([Ramen Para Dos](https://ramenparados.com/las-ventas-del-manga-de-oshi-no-ko-aumentaron-un-140-tras-el-estreno-del-anime/),
+  con datos de Oricon). **680.052 copias en una semana** (abril de
+  2023, Oricon) ⚠️ ([Espinof](https://www.espinof.com/anime/oshi-no-ko-se-agota-completo-japon-volumenes-manga-idols-rompen-records-ventas-e-incluso-ha-pillado-sorpresa-a-su-dibujante)).
+- **Ganó el 7.º Next Manga Award** (papel), agosto de 2021 ✅
+  ([ANN](https://www.animenewsnetwork.com/interest/2021-08-24/kaiju-no-8-oshi-no-ko-win-next-manga-awards-web-print-categories/.176367) + Wikipedia).
+- **Nominado, sin ganar:** Manga Taishō (5.º en 2021, 8.º en 2022),
+  Shogakukan (2021), Kodansha (2022 y 2024), Tezuka Osamu (2022 y 2024)
+  ✅ (ANN + [Comic Natalie](https://natalie.mu/comic/news/420300), vía
+  Wikipedia). *El buscador dijo que ganó el Kodansha: es falso, sólo
+  fue nominado.*
+- **«Idol» de YOASOBI ganó Mejor Canción de Anime** en los 8.º
+  Crunchyroll Anime Awards (2024). La serie tuvo **12 nominaciones**,
+  tercera tras *Chainsaw Man* (25) y *Jujutsu Kaisen* (17) ✅
+  ([Wikipedia, 8th Crunchyroll Anime Awards](https://en.wikipedia.org/wiki/8th_Crunchyroll_Anime_Awards)).
+  Un supuesto premio de Rie Takahashi en la 10.ª edición: **no
+  confirmado**, fuera.
+- **Estreno récord:** tras el ep. 1, fue el anime **mejor puntuado de
+  MyAnimeList** ⚠️ ([Radio Times](https://www.radiotimes.com/tv/fantasy/anime/oshi-no-ko-how-to-watch/)).
+  **HIDIVE:** el mejor estreno de su historia en espectadores, altas y
+  pruebas gratis ✅ ([ANN, 22-abr-2023](https://www.animenewsnetwork.com/news/2023-04-22/hidive-oshi-no-ko-anime-has-biggest-series-launch-in-streaming-service-history/.197374),
+  [ComicBook](https://comicbook.com/anime/news/oshi-no-ko-top-streaming-series/)).
+
+### 21.2 · Por qué gusta
+- **La crítica a la industria idol:** relaciones parasociales,
+  explotación mediática y el precio de la fama, con más matiz que otras
+  series del género ✅ ([The People's Movies](https://thepeoplesmovies.com/anime-review-oshi-no-ko-season-1-2023/),
+  4,5/5; [Anime Feminist](https://www.animefeminist.com/oshi-no-ko-episode-1/)).
+- El autor lo quería así: «que la gente sepa cómo se hace daño a los
+  talentos jóvenes» (punto 24).
+
+### 21.3 · Con quién se identifica el público
+- **Kana:** «la favorita del fandom, por mucho» y «el personaje mejor
+  escrito», por su lucha con la autoestima en una industria que la
+  desecha ✅ (§2, §9: CBR y Anime Corner). En ranking.net es 1.ª en
+  número de votos (§2).
+- **Akane:** la gente se ve en su **vacío**: sin forma propia hasta que
+  encuentra un papel o una máscara ✅ ([Reddit, «A Black Hole»](https://www.reddit.com/r/OshiNoKo/comments/1nxfjsk/a_black_hole_an_analysis_of_akane/),
+  88 votos).
+
+### 21.4 · La escena que hace llorar: la muerte de Ai (ep. 1)
+**No se usa en ninguna lámina** (§16). Va aquí para entender al fandom.
+- **Cuándo:** ep. 1 «Mother and Children» (estreno en cines el
+  17-mar-2023). Después del 62:30 («¡La semana que viene, el Domo!»,
+  §4); **el minuto exacto del ataque no se midió** ⚠️.
+- **Qué pasa:** el día del Tokyo Dome, un fan acosador apuñala a Ai.
+  Herida, habla de la mentira como su forma de querer y muere abrazando
+  a Aqua.
+- **Por qué duele:** los **recuerdos felices** que se cruzan con el
+  ataque son **del anime**, no del manga: lo feliz dentro de lo más
+  cruel ✅ ([wiki, «Episode 1»](https://oshinoko.fandom.com/wiki/Episode_1)).
+- **Qué suena:** una pieza **sólo de piano** de **Takurō Iga**, la
+  última de las 60 que compuso para la T1. El director de sonido,
+  Takeshi Takadera, no la quería «sólo triste»; Iga la escribió para
+  el **cariño de Ai**, no para la pena de los mellizos ✅
+  ([Wikipedia, «Mother and Children»](https://en.wikipedia.org/wiki/Mother_and_Children_(Oshi_no_Ko)),
+  que cita el vídeo oficial [«Behind the Scenes Ep4: Soundtrack
+  Recording»](https://www.youtube.com/watch?v=xHY11jIL7ZE)).
+- **Cómo reaccionó la gente:** «This was the first animated show that
+  made me cry» (394 votos): vio el *spoiler* en TikTok, no se lo creyó
+  y quedó «destrozado» ✅ ([Reddit](https://www.reddit.com/r/OshiNoKo/comments/1skwn16/this_was_the_first_animated_show_that_made_me_cry/)).
+  El clip de la escena resubido por un fan: **1.846.227 vistas** ✅
+  ([Villenthessis](https://www.youtube.com/watch?v=WGO48upjurM&t=1),
+  medido con yt-dlp).
+- **Contexto delicado:** se parece al ataque real a la cantante Mayu
+  Tomita (2016) ⚠️ (wiki, «Episode 1»). Otra razón para no tocarla.
+
+### 21.5 · La escena que hace gritar de emoción: Kana y la barra blanca
+- **Ep. 11 · 07:41–07:49** ✅ (§4). Entre barras amarillas y rojas,
+  Aqua sostiene una **blanca**, el color de Kana. Ella grita: «¡Voy a
+  teñir tu barra de blanco! ¡Seré tu *oshi no ko*!».
+- Es **la escena de Kana más querida** (§16) y la mejor para las
+  láminas alegres: barras de luz, escenario, color de cada una.
 
 ---
 
 ## Punto 22 · Fan dubs y comunidad hispana
 
-_(pendiente)_
+> De `partes/voz.md` (repaso corto). Vistas y duración **medidas con
+> yt-dlp** (sólo metadatos) el 24-sep-2026. TikTok, sólo por buscador
+> (yt-dlp no baja de TikTok desde aquí). Las reacciones al doblaje
+> oficial ya están en §12.4.
+
+### 22.1 · Covers en español (lo más visto)
+| Qué | Canal | Vistas | Duración | Enlace |
+|---|---|---|---|---|
+| **«Mephisto»** (ED T1), latino | **David Delgado** | **577.494** | 3:51 · jun-2023 | [YouTube](https://www.youtube.com/watch?v=CEbEKN7A8rM) ✅ |
+| **«Idol»** (OP T1), latino | **David Delgado** | **336.481** | 3:35 · may-2023 | [YouTube](https://www.youtube.com/watch?v=ff48MN5E5fk) ✅ |
+| «Idol», latino | Amor Shipping | 36.180 | 3:31 · oct-2024 | [YouTube](https://www.youtube.com/watch?v=oELciwGCftQ) ✅ |
+
+**David Delgado** canta el OP y el ED: es **el nombre más visible** del
+fandom hispano de esta serie. Hay más covers de «Idol» (MoonTsuki15,
+DanieGreen, Kira0loka) y de «Mephisto» (Marshu, Valuxഒ en SoundCloud)
+sin vistas medidas ⚠️.
+
+### 22.2 · Fandubs (la escena más doblada: la muerte de Ai)
+| Qué | Canal | Vistas | Duración | Enlace |
+|---|---|---|---|---|
+| «【Oshi No Ko】La Muerte de Ai · Fandub Español Latino» | Mari - Uchiha | 2.666 | 5:53 · oct-2024 | [YouTube](https://www.youtube.com/watch?v=e7kymeIxaH4) ✅ |
+| «La muerte de Ai Hoshino Español Latino» | Variado | 548 | 5:49 | [YouTube](https://www.youtube.com/watch?v=tx6Y6uyyT6Q) ✅ |
+| Capítulo 1 completo, doblaje de fans | Sparrow Doblaje Studio | sin datos (Patreon) | — | [Patreon](https://www.patreon.com/posts/oshi-no-ko-1-114383809) ⚠️ |
+| «La muerte de Ai (Fandub Latino)» | Aiko Fujiwara Studios | sin medir | — | ⚠️ |
+| capítulos doblados por fans | «hiro21t0» (citado en foros) | sin confirmar | — | ⚠️ |
+
+**Para el servidor:** los fandubs son **pocos y pequeños** (miles de
+vistas), frente a los **covers cantados** (cientos de miles). Y todos
+doblan la escena que **no** se usa en las láminas. Una prueba de
+doblaje del servidor con escenas **alegres** (el directo de MEM, Kana
+explicando un rodaje, §17.1) llenaría un hueco.
+
+### 22.3 · Cosplay hispano
+- **Rinaco** (México) hizo de **Ai** con el traje de B小町 en escenario,
+  «interpretando su personalidad e incluso sus movimientos al cantar»
+  ✅ ([Geekmi News](https://www.geekmi.news/series/Cosplayer-mexicana-recrea-a-Ai-Hoshino-de-Oshi-no-Ko-y-conquista-el-escenario-20230622-0001.html),
+  [Universo Nintendo](https://universo-nintendo.com.mx/2023/04/13/oshi-no-ko-ai-hoshino-cosplay-cosnekomaru/)).
+- **Kana** con pelo corto rojo, falda plisada y chaqueta azul marino ✅
+  ([Código Espagueti](https://codigoespagueti.com/noticias/anime/oshi-no-ko-cosplayer-kana-arima/),
+  [AlfaBetaJuega](https://alfabetajuega.com/series/kana-arima-de-oshi-no-ko-cobra-vida-gracias-a-este-genial-cosplay)).
+  Otro de Kana, «impresionante y realista» ⚠️ ([Vandal](https://vandal.elespanol.com/random/recrean-a-la-encantadora-protagonista-de-oshi-no-ko-kana-arima-con-un-cosplay-impresionante-y-realista/31613.html)).
+
+### 22.4 · Memes y parodias hispanas
+- El **doblaje latino oficial** da que hablar en TikTok (acento,
+  adaptación): ver §12.4.
+- «**80 % of the Oshi no Ko fandom after the end of the season**»:
+  meme en inglés que también circula en cuentas hispanas ⚠️ (sin canal
+  ni vistas).
+- **Parodias actuadas** (sketch) hechas por hispanos: **no encontré
+  ninguna** ⚠️. Sólo fandubs, covers y memes de imagen.
+- El clip más visto de todo el punto es el de la muerte de Ai resubido
+  por un fan, sin audio en español (1,8 millones, punto 21).
 
 ---
 
 ## Punto 23 · Colaboraciones, figuras y cosplay
 
-_(pendiente)_
+> De `partes/imagen.md` (repaso corto). La wiki tiene una página entera
+> de colaboraciones, [«Promotional Material»](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(anime)/Promotional_Material),
+> con **más de 25** marcas y eventos. Ya estaban en la biblia:
+> *IDOLM@STER Shiny Colors*, el juego de escape de SCRAP, los vasos de
+> Lawson y el jabón «重曹ちゃん» (§3, §6.2, §15, §16).
+
+### 23.1 · Marcas, cafés y eventos (ropa y poses nuevas)
+Todas en la wiki (una fuente ⚠️ salvo donde se dice). Tamaños medidos
+por la API:
+| Colaboración | Qué trae | Imagen |
+|---|---|---|
+| **Sanrio** ✅ (wiki + [CBR](https://www.cbr.com/sanrio-hello-kitty-oshi-no-ko-official-crossover/) + [Siliconera](https://www.siliconera.com/oshi-no-ko-sanrio-crossover-merchandise-will-pair-characters/)) | parejas: Ruby-Hello Kitty, Aqua-Cinnamoroll, Akane-Kuromi, Ai-Little Twin Stars, Kana-My Melody, MEM-Pompompurin, Pieyon-Bad Badtz-maru. **Dibujado por Kanna Hirayama**, la diseñadora del anime. A la venta desde el 8-nov-2024 | [Ai, 849×1200](https://static.wikia.nocookie.net/oshi_no_ko/images/8/83/Oshi_no_Ko_X_Sanrio_Collaboration_%28Ai_X_Little_Twin_Stars%29_By_Kanna_Hirayama.jpg) · [Ruby, 849×1200](https://static.wikia.nocookie.net/oshi_no_ko/images/9/90/Oshi_no_Ko_x_Sanrio_Collaboration_%28Ruby_X_Hello_Kitty%29_by_Kanna_Hirayama.jpg) |
+| **Taito**, premios de grúa «Sweet Sailor Style» | Kana, Aqua, Ai, Ruby y MEM con **uniformes de marinero** | [960×960](https://static.wikia.nocookie.net/oshi_no_ko/images/f/ff/Oshi_no_Ko_x_Taito_Toys_%28Sweet_Sailor_Style%29.png) |
+| **Taito**, «White Angel» | Ruby, Akane, Aqua y Kana **con alas** y ropa blanca | [960×960](https://static.wikia.nocookie.net/oshi_no_ko/images/c/cb/Oshi_no_Ko_x_Taito_Toys_%28White_Angel%29.png) |
+| **Ichiban Kuji** (lotería con figuras; may-2024, oct-2024, feb-2026) | Kana, Aqua (**traje militar dorado**), Ruby, Akane y Miyako con **vestidos góticos de época** | [cartel mayo 2024, 1239×697](https://static.wikia.nocookie.net/oshi_no_ko/images/7/72/1kuji_2024_May_Main_Visual.png) |
+| **Sweets Paradise** (café, 2025) | Ruby, Kana y MEM **con delantal** de camarera | [2048×1448](https://static.wikia.nocookie.net/oshi_no_ko/images/9/98/Sweets_Paradise_B-Komachi_2025.png) |
+| **Animate Cafe** (2024) | todo el reparto | [890×629](https://static.wikia.nocookie.net/oshi_no_ko/images/5/57/Oshi_no_Ko_x_Animate_Cafe_%28All_Cast%29.png) |
+| **Natslive Cafe** (2025) | cartel del café | [1200×630](https://static.wikia.nocookie.net/oshi_no_ko/images/d/d4/Oshi_no_Ko_x_Natslive_Cafe_2025.png) |
+| **DyDo** (máquinas de bebidas) | **fondos de móvil** con poses nuevas (cruza con §5.2) | [Kana, 1290×2796](https://static.wikia.nocookie.net/oshi_no_ko/images/5/51/DyDo_x_Kana_%28Wallpaper%29.jpg) |
+| **GiGO** (recreativos de Sega) | cartel de premios | [1280×720](https://static.wikia.nocookie.net/oshi_no_ko/images/2/25/Oshi_no_Ko_x_GiGO.png) |
+| **Yomiuri Giants** (béisbol) | personajes con la **camiseta** del equipo; lanzamiento inicial de las seiyū | [1920×1080](https://static.wikia.nocookie.net/oshi_no_ko/images/c/cb/Giants_x_Oshi_no_Ko_Collaboration.jpg) |
+
+Más, sólo nombradas en la wiki: Gamers, Kujibikido, Tower Records,
+Animate, HotPepperBeauty, RakuSpa, Yomiuri Land, Sega Plaza, Gindaco,
+Don Quijote, Family Mart, Meiji y Seibu Yuenchi ⚠️.
+
+### 23.2 · Juegos (tipo gacha)
+- ***IDOLM@STER Shiny Colors*** (2023 y 2024) ✅: ya en §15, con su caja
+  de diálogo.
+- ***Monster Strike***: **dos rondas**; la 2.ª empezó el **13-feb-2026**,
+  con versiones de **verano** y **San Valentín** que no salen en el
+  anime ✅ ([Gachago](https://gachago.com/en/news/monster-strike-announces-second-crossover-event-with-oshi-no-ko-anime),
+  [Mix Vale](https://www.mixvale.com.br/2026/02/13/monster-strike-begins-second-collaboration-with-oshi-no-ko-and-highlights-powerful-arima-kana-en/)).
+- ***Othellonia*** (reversi gacha): ilustraciones nuevas tipo carta de
+  Ai, Aqua y MEM, Ruby y Kana, Miyako y Akane ⚠️
+  ([Ai, 1920×1080](https://static.wikia.nocookie.net/oshi_no_ko/images/e/e7/Ai_Othellonia.jpg),
+  [Ruby y Kana, 1920×1080](https://static.wikia.nocookie.net/oshi_no_ko/images/a/a3/Ruby_%26_Kana_Othellonia.jpg)).
+- ***Caravan Stories***: Aqua, Kana y Ruby de 5 y 6 estrellas ⚠️ (wiki).
+- ***KOTODAMAN***: gacha de colaboración (vídeo oficial «OSHI NO KO
+  Collaboration Gacha on KOTODAMAN») ⚠️.
+- ***BanG Dream! Girls Band Party!***: existe la página «Oshi no Ko x
+  Girls Band Party! Part 1 Gacha» en su wiki; el contenido no se pudo
+  leer (Cloudflare) ⚠️.
+- ***Fortnite***: **no lo encontré** (0 resultados en el texto de la
+  wiki y nada en la web). El encargo lo pone como ejemplo de tipo de
+  cruce.
+
+### 23.3 · Figuras oficiales (su pose es referencia 3D)
+- **Ai, escala 1/7** (Good Smile Company, producida por Kadokawa):
+  **215 mm** con peana, pose de concierto con el pelo y las coletas al
+  viento, ¥21.780 ✅ ([Good Smile](https://www.goodsmile.info/en/product/14226/Ai.html),
+  [Anime Corner](https://animecorner.me/ai-hoshino-from-oshi-no-ko-gets-a-figure-pre-orders-open/)).
+- **Ai, Nendoroid n.º 2300** (Good Smile, *chibi*) ✅
+  ([foto de producto, 726×1000](https://solarisjapan.com/cdn/shop/files/f749ba60-bf53-11ee-90a6-5600040d5bd1.jpg),
+  [ficha](https://solarisjapan.com/products/oshi-no-ko-hoshino-ai-nendoroid-2300-good-smile-company)).
+- **Premios de Taito e Ichiban Kuji:** cada figura trae **ropa que no
+  sale en el anime** (marinero, ángel, época). Buena **lámina 2 de
+  vestuario** sin tocar el traje icónico.
+
+### 23.4 · Cosplay bien hecho (materiales y volumen, mirados)
+- **Ai** en el Palais Longchamp de Marsella ([esby.photo, 1024×769](https://live.staticflickr.com/65535/53387752817_964c0b074b_b.jpg),
+  CC BY-NC-SA 2.0): vestido **rosa satinado**, falda de **volantes
+  fruncidos sobre enagua** (de ahí el volumen), cinturón negro ancho,
+  **guantes magenta largos**, medias a juego, plataformas blancas con
+  correa, peluca morada. Es el traje del key visual de la T1 ✅.
+- **Ruby y Aqua** con el uniforme de Yōtō en San Diego ([coolanimeboy25,
+  1023×665](https://live.staticflickr.com/65535/54334350241_4fba9307d5_b.jpg),
+  CC BY 2.0): **blazer azul marino con galón dorado cosido** en solapa y
+  puños, camisa blanca. La tela cae **menos rígida** que en el dibujo ✅.
+- **MEM** en Lyon: 12 fotos más de esby.photo (CC BY-NC-SA 2.0), sin
+  analizar ([una de ellas, 769×1024](https://live.staticflickr.com/65535/54192880322_18f332c779_b.jpg)).
+- Cosplay hispano (Rinaco, Kana): punto 22.
 
 ---
 
 ## Punto 24 · Obras parecidas y láminas vecinas
 
-_(pendiente)_
+> De `partes/texto.md` (repaso corto) y `partes/datos-texto.md`
+> (AniList).
+
+### 24.1 · De dónde salió, según el autor
+Aka Akasaka en su entrevista a ANN (mayo de 2023). El
+[original](https://www.animenewsnetwork.com/feature/2023-05-10/how-accurate-is-oshi-no-ko-about-the-japanese-entertainment-industry-an-interview-with-aka-akasaka/.197795)
+da 403 y no está en Wayback; se leyó el resumen con citas literales de
+[@talkingnerd en Tumblr](https://www.tumblr.com/talkingnerd/716972147650838528/highlights-from-aka-akasaka-interview-with-ann) ⚠️:
+- **Una broma de Japón:** «quiero renacer como hijo de mi idol», que se
+  tuitea cada vez que una idol anuncia su boda. La tenía apuntada años
+  antes.
+- **Por qué oscura y por qué ahora:** el rodaje en imagen real de su
+  manga anterior, ***Kaguya-sama: Love is War***, y las quejas del
+  mundillo que le contaban amigos *streamers*.
+- **Un amigo famoso atacado por un fan** parecía duro en público y le
+  confesó que le había dolido mucho. Textual: *«talents hide their
+  true colors for the sake of their works and for their fans (…) I want
+  people to know how young talents are being hurt, exploited, and
+  suffering»*.
+- **No es un documental:** usa piezas reales (una filtración de un
+  *reality* que acabó en suicidio, YouTube comiéndose a la tele), pero
+  no retrata a nadie. Sólo cambiaron un diseño porque se parecía
+  demasiado a una persona real.
+- **Su humor viene de *Kaguya-sama***: dice que ese estilo cómico fue
+  «una fórmula pedida por la editorial»; él se siente autor «del estilo
+  de *Oshi no Ko*».
+
+### 24.2 · Con qué la compara el público (no el autor)
+- ***Perfect Blue*** (1997, Satoshi Kon): la comparación más repetida,
+  por el lado oscuro del mundo idol. Pero **son opuestas**: *Perfect
+  Blue* critica la industria de frente; *Oshi no Ko* la usa de
+  escenario para un *thriller* de venganza ✅ ([FandomWire](https://fandomwire.com/oshi-no-ko-fans-have-been-gravely-wrong-about-the-purpose-of-aka-akasakas-manga/),
+  [«Perfect Blue Criticizes The Idol Industry. Oshi no Ko Does Not.»](https://letsdiscoverthingsthataregood.wordpress.com/2023/04/29/perfect-blue-criticizes-the-idol-industry-oshi-no-ko-does-not/)).
+  **Ninguna entrevista** dice que sea una influencia de Akasaka ⚠️.
+- **Recomendaciones de usuarios de AniList** (nota de 0 a 100 y votos)
+  ⚠️ (es del público): *Perfect Blue* (85, 438), *ERASED* (81, 285),
+  *Kaguya-sama* (83, 213, **mismo autor**), *Rascal Does Not Dream of
+  Bunny Girl Senpai* (81, 150), *NEEDY GIRL OVERDOSE* (68, 65,
+  *streaming* y redes), *Kageki Shojo!!* (76, 50, teatro Takarazuka),
+  *Zombie Land Saga* (74, 28, grupo idol en comedia), *Oddtaxi* (85,
+  24), ***The Many Sides of Voice Actor Radio*** (68, 24: **seiyū y
+  radio**, el tema del servidor), *ReLIFE*, *Looking for the Full Moon*,
+  ***Skip Beat!*** (77, 22: **venganza en el mundo del espectáculo**,
+  el paralelo más directo), *Vivy* y *Jellyfish Can't Swim in the
+  Night* ([AniList](https://anilist.co/anime/150672)).
+
+### 24.3 · La misma franquicia (no confundir con «parecidas»)
+- **Imagen real:** serie de Amazon Prime Video (Toei), 8 capítulos
+  (27-nov-2024 los 6 primeros, 4-dic-2024 los 2 últimos), y la película
+  ***Oshi no Ko -The Final Act-***, en cines de Japón desde el
+  20-dic-2024. Reparto: Umi Sakurai (Aqua), Asuka Saito (Ai), Nagisa
+  Saito (Ruby), Nanoka Hara (Kana), Mizuki Kayashima (Akane), Ano (MEM)
+  ✅ ([wiki, «Oshi no Ko (live action)»](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(live_action))).
+- **Novela *Spica the First Star*** (一番星のスピカ), de Hajime Tanaka,
+  con un relato de Akasaka (*POV B*): el pasado de Ai antes de ser el
+  centro de B小町, y Sarina y Goro. Japón 17-nov-2023; inglés
+  8-jul-2025 (Yen Press) ✅ ([wiki](https://oshinoko.fandom.com/wiki/Spica_the_First_Star),
+  [portada, 1511×2148](https://static.wikia.nocookie.net/oshi_no_ko/images/0/03/Ichibanboshi_no_Spica.png)).
+
+### 24.4 · Láminas vecinas del servidor (para no repetir)
+Revisadas en las biblias del repositorio por el investigador de texto:
+- **K-On! (10):** club de música escolar; su lámina usa una carta de té
+  doblada y una pizarra con texto a mano. *Oshi no Ko* es **industria
+  profesional**: sus objetos se ven **de trabajo** (móvil, guion, ficha
+  de casting, letrero ON AIR), no de club. Ojo con la **pizarra** del
+  concepto B: que se vea de plató (atril, rotulador, cartón oficial),
+  no de aula.
+- **Kakegurui (12):** «bonito por fuera, turbio por dentro». Enseña a
+  dar peso sin *gore* en un servidor familiar.
+- **Violet Evergarden (22):** un **objeto de trabajo que también es
+  emocional** (cartas). Aquí es la hoja de audición o el guion: mismo
+  mecanismo, objeto distinto.
+- **Ninguna otra biblia es de idols** japonesas: *Oshi no Ko* no pisa el
+  hueco de ninguna serie del servidor.
 
 ---
 
