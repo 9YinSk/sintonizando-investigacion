@@ -19,7 +19,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S2 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/05-oshi-no-ko.md`, `encargos/06-spy-x-family.md`, `encargos/07-pok-mon.md`, `encargos/08-big-hero-6-grandes-h-roes.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 05-oshi-no-ko
+- [x] 05-oshi-no-ko
 - [x] 06-spy-x-family
 - [x] 07-pok-mon
 - [x] 08-big-hero-6-grandes-h-roes
