@@ -266,6 +266,10 @@ pero cada título contrastado con una segunda fuente cuando hacía falta):
   wiki de Disney (`list=search&srnamespace=6`), sin resultado; búsqueda web
   «San Fransokyo Institute of Technology logo official» sin una imagen
   vectorial oficial suelta.
+- ⚠️ «Patrones de ropa» (punto 19): la ropa de Hiro, Baymax y Tadashi es de
+  color plano, sin estampado ni cuadros — no hay un patrón de tela que
+  replicar más allá de la trama de tejido (ya cubierta con las texturas de
+  ambientCG). No es que falte buscar: la propia ropa no lo tiene.
 - ⚠️ Un café temático dedicado a Big Hero 6 (a diferencia de otras franquicias
   Disney): búsqueda «Big Hero 6 themed cafe» sin resultados específicos, sólo
   eventos genéricos de Disney Store.
@@ -307,6 +311,8 @@ pero cada título contrastado con una segunda fuente cuando hacía falta):
 - **Medición de color**: Pillow (muestreo de píxel con máscara alfa) y
   `herramientas/estilo.py --colores 6` sobre 5 de esas imágenes.
 
-Sigue: nada obligatorio pendiente de los puntos 1, 3, 15, 16, 19 y 23. Si
-hay una tanda más, profundizar en «No encontré» (SFIT crest, pines de la
-escala Wong-Baker) sería el siguiente paso, no imprescindible.
+**Parte terminada**: los puntos 1, 3, 15, 16, 19 y 23 están cubiertos con lo
+obligatorio del encargo (fuentes, tamaños, hex medidos, licencias). No queda
+`Sigue:` — lo único pendiente está en «No encontré» y es opcional (SFIT
+crest suelto, pines de la escala Wong-Baker, autor de wallpapers de
+alphacoders, café temático).
