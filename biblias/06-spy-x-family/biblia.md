@@ -429,7 +429,13 @@ para mirar.
 | [Anya Forger Spy x Family](https://sketchfab.com/3d-models/anya-forger-spy-x-family-61d7e6f03318492982c4a8d42f4aff1c) | hiko9 | Anya inclinada hacia delante, brazos abiertos · **CC BY** (API) |
 | [Anya Forger (Spy x Family)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-470b41ca5e074f1493a26940fa371ec3) | Hasksoft | figura · **CC BY** (API) |
 | [Anya Forger (SPY x FAMILY)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e) | tonyhoni | figura · **CC BY** (API) |
+| [Yor Forger](https://sketchfab.com/3d-models/none-688f5be5228a41eb9a7cd0817d46b8f3) | Acadd | Yor · **CC BY** (API, segunda pasada) |
+| [Bond Forger](https://sketchfab.com/3d-models/none-481783da76df4e419132062b77c1527b) | won1 | Bond · **CC BY** (API, segunda pasada) |
 | [Etiqueta spyxfamily](https://sketchfab.com/tags/spyxfamily) | varios | todo lo demás |
+
+De **Loid no hay modelo propio** con licencia libre: al buscar «Loid
+Forger» la API sólo devuelve modelos de Anya ⚠️. Ninguno trae *rig*
+confirmado en la API: mira cada página antes de animar.
 
 ### 4.2 Modelos 3D de objetos para el expediente (libres)
 | Objeto | Enlace | Licencia |
@@ -1260,7 +1266,94 @@ queda falso.
 
 ## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
 
-(pendiente)
+### A.1 Quién lo dibuja
+- **Dos estudios que se turnan por episodio**: WIT Studio los impares,
+  CloverWorks los pares ✅ ([Sakuga Blog](https://blog.sakugabooru.com/2022/05/14/spyfam-and-the-history-of-anime-coproductions/),
+  [The Mary Sue](https://www.themarysue.com/spy-x-family-how-the-anime-is-made-by-two-studios-at-once/)).
+- Dos directores de animación de personajes: **Kazuaki Shimada**
+  (CloverWorks) y **Kyoji Asano** (WIT). Dos directores de arte: **Kazuo
+  Nagai** e **Hisayo Usui** ✅ (Sakuga Blog + AniList).
+- Para que no se note la costura hay un **libro de reglas** común, y el
+  director **Kazuhiro Furuhashi** aprueba todo ✅ (The Mary Sue). La
+  productora **Kazue Hayashi** hace de *«una especie de Biblia de la obra
+  original»*: pasa el manga a storyboard antes de animar ✅ (The Mary Sue).
+- **El anime vuelve al manga**: Endo revisa los dibujos de Shimada, admira
+  cómo los animadores «dibujan hábilmente con pocas líneas» y usa los
+  fondos del anime como referencia para el manga ✅
+  ([Tatsuya Endo/Interviews](https://spy-x-family.fandom.com/wiki/Tatsuya_Endo/Interviews),
+  «Mini Interview» de la *Official Start Guide*).
+- **El manga**: Endo entinta **a mano** y pasa a digital para tramas y
+  color ✅ (misma página + [Fountaindale Public Library](https://www.fountaindale.org/mangaka-showcase-tetsuya-endo-and-spy-x-family/),
+  que la resume).
+- **Programa del anime** (RETAS, Toon Boom, Clip Studio): no lo encontré
+  en ninguna entrevista, ni en inglés ni en japonés ⚠️. No lo doy por
+  sabido.
+
+### A.2 Línea y sombreado, medidos con `estilo.py`
+| Imagen | Sombreado | Línea | Saturación | Brillo |
+|---|---|---|---|---|
+| [Yor, cuerpo entero, color](https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Yor_Forger_Colored_Full_Body.png) | mixto: plano, con degradados suaves en pelo y tela | `#464734` | 27 % | 38 % |
+| [Loid, cuerpo entero, color](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png) | mixto, línea marcada | `#36483A` | 19 % | 28 % |
+| [Ficha de WISE sobre Donovan, ep. 7](https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/WISE%27s_files_on_Donovan_Desmond_Anime.png) | degradado pintado, casi sin línea | `#9F9174` | 24 % | 76 % |
+| [Berlint desde el aire](https://static.wikia.nocookie.net/spy-x-family9171/images/6/6a/Berlint_Anime.png) | degradado pintado | `#CC896C` | 48 % | 84 % |
+
+**Cómo leerlo** ✅ (medido): los **personajes** llevan contorno fino **de
+color** (verde o marrón muy oscuro, nunca negro puro) y sombra mixta. Los
+**fondos y papeles** casi no llevan línea: son degradados pintados, más
+brillantes y saturados que los personajes, que quedan algo apagados para
+destacar encima.
+
+### A.3 Fondos y filtros
+En `hojas/fondos_01.jpg`: papel pintado con textura visible (F·1, F·2,
+F·7), interiores de madera y cobre, atardecer naranja sobre los tejados
+(F·9), noche verdosa con farolas (F·10), azul limpio de día en Eden (F·15
+a F·18). **Sin grano ni aberración cromática**; sólo luz suave y algo de
+resplandor en los atardeceres (F·9) ⚠️ (visto, sin entrevista que lo diga).
+
+### A.4 Encuadres y composición
+- **Opening 1** («Mixed Nuts»): dirigido por **Masashi Ishihama**, en
+  estilo de **pop art de los 50-60**: siluetas planas, colores de cartel,
+  iconos de espías ✅ ([CBR](https://www.cbr.com/spy-x-family-opening-op-yuri-casting/)).
+- **Fichas e informes** en pantalla: plano **frontal o cenital, muy
+  centrado**, como un escáner (O·1, O·2, O·3).
+- **La familia en casa**: plano general con la cámara **a la altura de
+  alguien sentado**, para que quepan todos (F·1 a F·6).
+- **Cada emoción, su plano** (`hojas/personajes_01.jpg`): alegría y
+  travesura de Anya en **primerísimo primer plano** (P·13, P·15, P·17);
+  orgullo o enfado de Damian en **plano medio con la cabeza algo alta**
+  (P·5); ternura en **plano general, luz cálida, a la altura de los niños**
+  (P·19).
+- **Fotogramas vistos** (§2.1): la firma de Loid es un plano **sólo de
+  mano y papel** (ep. 1, 4:36); la cartela de misión, **blanco sobre
+  negro** (ep. 1, 4:15).
+
+### A.5 Cómo replicarlo en Photoshop
+- **Línea**: pincel de tinta de 2-3 px con presión, color `#36483A` o
+  `#464734` (no negro), en capa aparte en Multiplicar.
+- **Sombra de personaje**: color base plano + capa de sombra con máscara
+  de recorte, pincel duro, Multiplicar al 40-60 %, **un solo tono** más
+  oscuro; brillo de ojos en una capa en Aclarar.
+- **Fondos**: degradados suaves (aerógrafo muy blando) en cielo y paredes;
+  textura de papel sutil al 60-70 % en el papel pintado de los Forger.
+- **Fichas de WISE**: papel crema `#D9D7B0` a `#ECE8C9` (§5.3), letra de
+  máquina (§6: Special Elite o Courier Prime), sello rojo
+  semitransparente girado 8-12°.
+
+### A.6 Cómo replicarlo en Blender
+- **Contorno**: **Freestyle** con color de línea propio por objeto (da la
+  línea de color). Para el pelo, **Solidify** con material invertido y
+  *backface culling* remata mejor las puntas.
+- **Shader**: *Shader to RGB* + **ColorRamp de 2-3 escalones** (no
+  degradado continuo); en pelo y ropa con brillo, un tercer escalón
+  especular estrecho.
+- **Luz**: área principal + relleno tenue desde abajo (rebote del suelo),
+  como los interiores de `fondos_01.jpg`; al atardecer, luz naranja fuerte
+  y algo de niebla de volumen para el resplandor (F·9).
+- **Modelos libres**: Anya (tonyhoni), Yor (Acadd) y Bond (won1), los tres
+  **CC BY** por la API de Sketchfab (§4.1). De Loid, ninguno ⚠️. Objetos
+  del expediente: §4.2.
+- **Texturas encima**: papel envejecido con poca rugosidad y algo de
+  *bump* en las esquinas dobladas (§5.4 y §B).
 
 ---
 
