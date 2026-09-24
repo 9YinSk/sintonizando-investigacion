@@ -4,7 +4,16 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Pokémon Evolutions» (ONA, parecido 0.63 con «Pokémon»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Profesor Oak» · fandom: no encontré la página de «iniciales» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: no encontré la página de «Profesor Oak» · fandom: no encontré la página de «iniciales» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none>
+
+## Tráiler y enlaces oficiales (AniList)
+_Fuente: https://anilist.co/anime/527_
+
+- Tráiler: https://www.youtube.com/watch?v=nS0ico6na_U
+- STREAMING · Netflix: https://www.netflix.com/title/70297439
+- INFO · Official Site: https://watch.pokemon.com/en-us/season.html?id=pokemon-indigo-league-vol-1
+- STREAMING · Amazon Prime Video: https://www.primevideo.com/detail/0GWVS8NQ60JX2JW01AJ7FZZFIH
+- STREAMING · YouTube: https://www.youtube.com/@OfficialPokémonTV
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
