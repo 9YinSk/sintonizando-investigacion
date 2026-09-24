@@ -647,7 +647,66 @@ maestra de la maestra de Fern la dobla su madre.
 
 ## 11 · Música
 
-(pendiente)
+**Compositor de toda la serie: Evan Call** (el de *Violet Evergarden*).
+Director de sonido: **Shoji Hata**. Fuente: [Frieren Wiki, ficha del
+anime](https://frieren.fandom.com/wiki/Frieren:_Beyond_Journey%27s_End_(Anime)) ✅
+y créditos de los vídeos de TOHO animation.
+
+Los **openings y endings sin créditos** los miré en el canal oficial
+**TOHO animation チャンネル** por sus *storyboards* (YouTube no dejó bajar el
+vídeo: 403 y «confirma que no eres un bot»). Por eso **el minuto es ±1 s** y
+**no oí el audio**: el «ambiente» de cada canción sale de la imagen y de la
+letra de la wiki, no del oído.
+
+### 11.1 Openings y endings (lo que se VE en cada uno)
+
+| Tema | Quién | Dónde | Lo que se ve (minuto del vídeo sin créditos) |
+|---|---|---|---|
+| **OP1 «勇者» (Yūsha, *The Brave*)** | **YOASOBI** (letra y música de Ayase). Basada en la novela corta *Fanfare for Frieren* (Jiro Kiso, supervisada por Kanehito Yamada) | T1 eps. 1-16 · [QoGM9hCxr4k](https://www.youtube.com/watch?v=QoGM9hCxr4k) | 0:00-0:08 **bocetos a lápiz azul** de Frieren sobre blanco · 0:09-0:19 hojas cian · 0:20 logo sobre teal oscuro · 0:29-0:35 **multitud de siluetas grises** y Frieren en rosa · 0:38-0:42 Fern y Stark con **una ventana flotando en el cielo** · 0:57-1:01 **una biblioteca con estanterías de colores «glitch»** (Himmel, Heiter, Fern, Stark, Frieren) · 1:02 rosetón de vidriera · 1:14 Aura en el trono · 1:16 el grupo en un acantilado · 1:26 **anillo de flores sobre piedra** |
+| **OP2 «晴る» (Haru, *Sunny*)** | **Yorushika** (n-buna; voz de suis) | T1 eps. 17-28 · [iqsnJJK8GA4](https://www.youtube.com/watch?v=iqsnJJK8GA4) | 0:00-0:10 **mariposa azul** sobre una flor roja; Frieren sentada · 0:22-0:28 **álamos en fila** y el logo teal · 0:28-0:37 **vidriera hexagonal verde agua** con el grupo · 0:38-0:41 **estatua de Himmel y palomas blancas** · 0:48 Fern entre mariposas · 1:07 Sense con **paraguas bajo la lluvia** · 1:09-1:11 Flamme y Serie en **dorado** · 1:17 **Himmel sentado en una roca** · 1:25-1:28 **el bastón de Frieren tirado en la piedra** |
+| **ED «Anytime Anywhere»** | **milet** (arreglo de Evan Call) | T1 entera · [7pmd0kt3FOs](https://www.youtube.com/watch?v=7pmd0kt3FOs) | Todo es **ilustración botánica** pastel, como de lámina de herbario: 0:02-0:06 **un ojo verde entre ramas**, 0:08 flor azul, 0:16 **corona de flores azules**, 0:20-0:24 **glicinias violetas** con un lazo rojo, 0:39-0:46 **una ventana con cestas de flores y fruta** y un círculo mágico, 1:11 bosque azul de noche, 1:17-1:20 **las botas de Frieren y Fern caminando**, 1:21-1:26 **un ojo en el cielo estrellado** y el grupo en silueta |
+| ED especial **«bliss»** | milet; música de Evan Call | ep. 1 (especial de 2 h) y ep. 11 · [5Ufj38W6-o4](https://www.youtube.com/watch?v=5Ufj38W6-o4) | animación de Ko Yoshinari (wiki) ⚠️ no la miré |
+| **OP T2 «lulu.»** | **Mrs. GREEN APPLE** (Motoki Ohmori) | T2 · [C0BG3B7aksU](https://www.youtube.com/watch?v=C0BG3B7aksU) | 0:00-0:16 **noche índigo con pétalos** y un campo de flores luminosas · 0:12 **la joya roja del bastón entre flores azules** · 0:17-0:21 **Frieren sostiene una luz en las manos** · 0:25-0:31 logo blanco entre pétalos · 0:33 **el grupo de Himmel de pie** · 0:48-0:52 la fogata, los meteoros y el funeral **vistos entre las piernas de Frieren que camina** · 0:56-1:01 Frieren con una **mariposa azul** · 1:05-1:20 **coronas de flores** (Frieren, Fern, Stark) · 1:23-1:25 **los tres caminan entre flores** |
+| **ED T2 «The Story of Us»** | **milet** (arreglo de Evan Call) | T2 · [FY4Bx2qtkRM](https://www.youtube.com/watch?v=FY4Bx2qtkRM) | **Todo a lápiz de color** sobre papel blanco: 0:03-0:16 **Himmel escribe con pluma y tintero** en una mesa · 0:27-0:31 cocinan en una olla al fuego · 0:38-0:43 **una llama azul dentro de un farol** · 0:44-0:52 Frieren con maleta en la nieve, **su sombra en azul** · 1:03-1:06 **casas de entramado con sábanas blancas** al viento · 1:11-1:18 Frieren pequeñita entre flores enormes · **1:26-1:28 un libro cerrado de piel rojiza con pluma y tintero** |
+| ED especial **«Trace»** | milet | T2, ep. 38 (el último) · [R5cBm08p_jE](https://www.youtube.com/watch?v=R5cBm08p_jE) | ⚠️ no la miré |
+
+**Lo más útil para una lámina** ✅ (visto):
+- El **ED de la T2 termina en un libro cerrado con pluma y tintero** (1:26).
+  Es el objeto que buscamos: se hace en Blender y ya es «de la serie».
+- El **OP1 tiene una biblioteca** (0:57-1:01) y el **OP2 una vidriera**
+  (0:28-0:37): dos fondos «de sala» con luz de color.
+- Los **endings no usan fotogramas del anime**: son ilustración (acuarela
+  botánica en la T1, lápiz de color en la T2). Una lámina con textura de
+  papel y lápiz **es fiel a la serie**, no es un invento.
+
+### 11.2 La banda sonora de Evan Call (títulos reales, de la wiki)
+
+T1 (70 temas, abr-2024) y T2 (22 temas, abr-2026). Los títulos ya dicen el
+tono. Los minutos de la T2 son de la tabla de la wiki
+([Original Soundtrack (Season 2)](https://frieren.fandom.com/wiki/Original_Soundtrack_(Season_2))):
+
+| Tema | Ambiente | Dónde suena |
+|---|---|---|
+| **Journey of a Lifetime ~ Frieren Main Theme** | el tema principal | T1 |
+| **Zoltraak** (feat. Alina Lesnik, voz) | combate épico con coro | T2-36 14:13; T2-38 13:19 |
+| **Frieren the Slayer** | el apodo que le dan los demonios (§14) | T2-33 17:40 |
+| **Sleepy Frieren** | vida diaria, pereza | T2-29 04:31 y cuatro veces más |
+| **Too Many Grimoires** | la manía de los grimorios | T2-31 20:43 |
+| **Drunkards and Mimics** | gag del cofre | T2-30 12:21; T2-31 13:47 |
+| **Handsome Pose Collection** | Himmel posando para su estatua | T2-31 06:23 |
+| **Spells and Spoils** | cobrar en grimorios | T2-30 22:07; T2-37 21:40 |
+| **Headpats and Praise**, **Pudding With Friends**, **Waltz for Stark and Fern**, **Mirrored Lotus** | ternura, el grupo | T1 (Mirrored Lotus: T2-32 10:08) |
+| **First-Class Mage** (feat. Alina Lesnik) | el examen | T2-36 12:03 |
+| **Beyond the Journey's End** (canción en inglés) | «Guide me through the night, to lands beyond our sight» | T1, disco 1, tema 34 |
+
+Para la lámina: si lleva un **código QR o un enlace de música**, el tema que
+mejor dice «biblioteca / reto» es **Too Many Grimoires**; el que dice
+«reunión tranquila», **Sleepy Frieren** ⚠️ (elección mía por el título).
+
+### 11.3 Qué NO hacer con la música
+- No poner notas musicales ni ecualizadores en la lámina: la serie no los usa.
+- El rótulo de canción que sale en pantalla es **pequeño, abajo a la
+  derecha, en serif** («♪エンディングテーマ…», §7.1 D), nunca grande.
 
 ## 12 · Vídeos
 

@@ -777,13 +777,19 @@ MyAnimeList no respondió (la API Jikan dio error 504).
   [Bubbleblabber, abr-2025](https://latam.bubbleblabber.com/2025/04/haikyuu-crunchyroll-lanza-el-doblaje-latino-de-la-cuarta-temporada/)).
 - **Estudio**: **Iyuno México** (antes Iyuno-SDI / SDI Media) en T1-T2 y
   la película; **VSI Mexico City** en T3-T4, por **la filtración de
-  Iyuno del 9-ago-2024** (Doblaje Wiki). La [wiki de Haikyuu en
+  Iyuno del 9-ago-2024** (Doblaje Wiki). Los créditos de T3-08 y T4-10
+  dicen «Estudio: VSI Mexico City» ✅. Bubbleblabber dice que T4 es de
+  Iyuno-SDI: **se equivoca**. La [wiki de Haikyuu en
   español](https://haikyuu.fandom.com/es/wiki/Actores_de_doblaje_(Latinoamerica))
   dice «SDI México»: es el mismo estudio con su nombre viejo.
 - **Director**: **Sergio Morel** (nombre real: Sergio Arturo Morales
   Juárez, según ANMTV). Él mismo dobla a **Daichi**, el capitán.
-- **Traductor**: **David Bueno** (T1-T2 y película), que además dobla a
-  **Sugawara**. En T3, Dea Mesic; en T4, Leslie Jaime y Sergio Morel.
+- **Traductor**: Doblaje Wiki pone **David Bueno** (T1-T2 y película),
+  que además dobla a **Sugawara**. Pero los **créditos de Max** (ep. 19 y
+  34, que vi en Doblaje Wiki) separan: **traducción, Raúl Galván**;
+  **guiones de doblaje (adaptación), David Bueno Villegas** ✅. En T3,
+  Dea Mesic; en T4, Leslie Jaime y Sergio Morel (créditos de T3-08 y
+  T4-10 ✅).
 - **Película** *Haikyu!: La Batalla del Basurero*: Iyuno México, grabada en
   **abril de 2024**, misma dirección, estrenada en cines por **Sony
   Pictures** (Doblaje Wiki).
@@ -801,6 +807,11 @@ MyAnimeList no respondió (la API Jikan dio error 504).
 [ANMTV-2] = los artículos de sep-2022 y nov-2022 (arriba); [ES] = la
 [wiki de Haikyuu en español](https://haikyuu.fandom.com/es/wiki/Actores_de_doblaje_(Latinoamerica));
 [BB] = Bubbleblabber.
+[Max] = **los créditos de doblaje en pantalla de Max**: Doblaje Wiki
+guarda una captura por episodio (galería «Créditos»). Abrí y leí las de
+los ep. 19, 29 y 34 (T1-T2), T3-08 y T4-10 ✅. Ojo: en el ep. 19 el
+crédito de Sugawara dice por error «David Manuel Ramos Chávez» (es el
+de Asahi); en el ep. 34 ya dice «David Manuel Bueno Villegas».
 
 | Personaje | Voz latina | Voz japonesa | Estado |
 |---|---|---|---|
@@ -808,9 +819,9 @@ MyAnimeList no respondió (la API Jikan dio error 504).
 | **Tobio Kageyama** | **Brandon Santini** | Kaito Ishikawa | ✅ DW + ANMTV-1 + ES + BB |
 | **Yū Nishinoya** | **Diego Becerril** | Nobuhiko Okamoto | ✅ DW + ANMTV-1 + ES |
 | **Tōru Oikawa** | **Alan Fernando Velázquez** | Daisuke Namikawa | ✅ DW + ANMTV-2 (tuit de ANMTV con su cuenta @AlanFernandoV) |
-| **Kōtarō Bokuto** | **Arturo Castañeda** | Ryōhei Kimura | ⚠️ sólo DW (ANMTV-2 no lo nombra) |
+| **Kōtarō Bokuto** | **Arturo Castañeda** | Ryōhei Kimura | ✅ DW + créditos de Max, ep. 29 y 34 («Arturo Castañeda Mendoza») |
 | Kenma Kozume | Javier Olguín | Yūki Kaji | ✅ DW + ANMTV-2 |
-| Tetsurō Kuroo | **Alan Bravo** (DW) / **Alan Urrutia** (ANMTV-2) | Yūichi Nakamura | ⚠️ **las dos fuentes no coinciden**; comprobar en los créditos de Max |
+| Tetsurō Kuroo | **Alan Bravo** | Yūichi Nakamura | ✅ **es la misma persona**: DW da su nombre completo, «Alan Antonio Bravo Urrutia»; ANMTV-2 usa el segundo apellido; créditos de Max ep. 34 «Alan Antonio Urrutia Bravo» y T4-10 «Alan Bravo» |
 | Kei Tsukishima | Eduardo «Lalo» Garza | Kōki Uchiyama | ✅ DW + ANMTV-1 + ES |
 | Daichi Sawamura | Sergio Morel | Satoshi Hino | ✅ DW + ANMTV-1 + ES + BB |
 | Kōshi Sugawara | David Bueno | Miyu Irino | ✅ DW + ANMTV-1 + ES + BB |
@@ -818,15 +829,15 @@ MyAnimeList no respondió (la API Jikan dio error 504).
 | Asahi Azumane | Dave Ramos | Yoshimasa Hosoya | ✅ DW + ANMTV-1 + ES |
 | Tadashi Yamaguchi | Alex Villamar | Sōma Saitō | ✅ DW + ANMTV-1 + ES |
 | Kiyoko Shimizu | Carla Cerda | Kaori Nazuka | ✅ DW + ANMTV-1 + ES |
-| Hitoka Yachi | Alondra Hidalgo | Sumire Morohoshi | ⚠️ sólo DW |
+| Hitoka Yachi | Alondra Hidalgo | Sumire Morohoshi | ✅ DW + créditos de Max ep. 34 y T4-10 |
 | Keishin Ukai | Hiram Cárdenas (T1-T3) | Kazunari Tanaka / Hisao Egawa | ✅ DW + ANMTV-1 + ES |
 | Ittetsu Takeda | Miguel Ángel Leal | Hiroshi Kamiya | ✅ DW + ANMTV-1 + ES |
 | Wakatoshi Ushijima | Alejandro Orozco | Ryōta Takeuchi | ✅ DW + ANMTV-2 |
 | Morisuke Yaku | Elliot Leguizamo | Shinnosuke Tachibana | ✅ DW + ANMTV-2 |
-| Hajime Iwaizumi | Alan Juárez | Hiroyuki Yoshino | ⚠️ sólo DW |
-| Keiji Akaashi | Roberto Salguero | Ryōta Ōsaka | ⚠️ sólo DW |
-| Atsumu y Osamu Miya | Marc Winslow (los dos) | Mamoru Miyano / Hideaki Kabumoto | ⚠️ sólo DW |
-| Satori Tendō | Josué Alher | Subaru Kimura | ⚠️ sólo DW |
+| Hajime Iwaizumi | Alan Juárez | Hiroyuki Yoshino | ✅ DW + créditos de Max ep. 19 («Alan Arturo Juárez Aldrete») |
+| Keiji Akaashi | Roberto Salguero | Ryōta Ōsaka | ✅ DW + créditos de Max ep. 34 («Roberto Salguero Ruiz») |
+| Atsumu y Osamu Miya | Marc Winslow (los dos) | Mamoru Miyano / Hideaki Kabumoto | ✅ DW + créditos de T4-10 |
+| Satori Tendō | Josué Alher | Subaru Kimura | ⚠️ DW; en los créditos de T3-08 sale en «voces adicionales», sin personaje |
 
 **Dato para el servidor**: Alberto Bernal (Hinata) es **la voz de
 Spider-Man en el MCU**. En el ep. 40, Terushima le dice «Spider-Man» a
