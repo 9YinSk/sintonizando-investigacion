@@ -11,7 +11,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 > Haz la tanda S1 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/01-one-piece.md`, `encargos/02-attack-on-titan.md`, `encargos/03-solo-leveling.md`, `encargos/04-harry-potter.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 01-one-piece
-- [ ] 02-attack-on-titan
+- [x] 02-attack-on-titan
 - [ ] 03-solo-leveling
 - [ ] 04-harry-potter
 
