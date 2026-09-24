@@ -109,7 +109,127 @@ Las muestras son las de la tabla «Personajes principales» de [DW, One Piece](h
 
 ### Punto 22 · Fan dubs y comunidad hispana
 
-(en curso)
+> **Cómo lo medí.** YouTube: búsqueda de `yt-dlp` (`ytsearch` y la búsqueda ordenada por vistas, `sp=CAM%3D`), que da canal, vistas y duración **aunque el vídeo pida iniciar sesión**; el título real y el canal, confirmados por **oEmbed** (la búsqueda traduce algunos títulos al inglés). TikTok: los datos de cada vídeo (vistas, «me gusta», fecha, duración) leídos de su página pública (`__UNIVERSAL_DATA_FOR_REHYDRATION__`), con `tiktok.py` en mi carpeta de trabajo. **Vistas del 24-sep-2026.** ✅ = existe y los datos salen de dos lecturas (búsqueda + oEmbed, o página + oEmbed); las vistas son de una sola lectura.
+
+#### 22.1 Fan dubs en español (fans que doblan escenas o cómics)
+
+| Canal | Qué doblan | Enlace | Vistas | Estado |
+|---|---|---|---|---|
+| **Humbertory** (latino) | «Boa Hancock conoce a Nami y Robin», *comic dub* latino | [YouTube](https://www.youtube.com/watch?v=Owi62znIZDA) (1:36) | **1.423.188** | ✅ |
+| Humbertory | «Boa Hancock conoce a Uta», *comic dub* latino | [YouTube](https://www.youtube.com/watch?v=wULfYhtpYDE) (0:56) | 605.975 | ✅ |
+| **Mend VA Dubs** | «Akainu recrimina a los ancianos del Gorosei», fandub latino (escena del manga reciente, aún sin doblar) | [YouTube](https://www.youtube.com/watch?v=018fPPgkRYg) (1:27) | 141.882 | ✅ |
+| **Amyyanyfandub_latino** | «Conociendo al novio», cómic LawLu, fandub latino | [YouTube](https://www.youtube.com/watch?v=2GGCldx4rjk) (1:26) | 139.164 | ✅ |
+| Alex dubs | «Luffy vs Sanji», fandub latino (parte 1) | [YouTube](https://www.youtube.com/watch?v=04kDW0r_KTk) (2:28) | 71.286 | ✅ |
+| **MerryRain15** | «La despedida de Perona», fandub latino | [YouTube](https://www.youtube.com/watch?v=MQhfj7oIrG4) (2:07) | 64.791 | ✅ |
+| MerryRain15 | «La Alianza», fandub latino | [YouTube](https://www.youtube.com/watch?v=9IrjKHNUbrE) (2:00) | 20.122 | ✅ |
+| **Redkuni** | «One Piece AU de escuela», fandub latino | [YouTube](https://www.youtube.com/watch?v=p82RL7aF1Wg) (5:25) | 64.019 | ✅ |
+| Redkuni | «Cómics de Shanks y Buggy en español latino» | [YouTube](https://www.youtube.com/watch?v=b3f2ZaungH4) (4:49) | 26.088 | ✅ |
+| Escardi Fandubs (España) | «Luffy encuentra el One Piece», fandub | [YouTube](https://www.youtube.com/watch?v=MMhtba4M7oQ) (1:42) | 73.465 | ✅ |
+| RdxFanDub | Opening 14 cantado en fandub latino (LucyChan) | [YouTube](https://www.youtube.com/watch?v=GKbPhtPgVD4) (2:30) | 20.499 | ✅ |
+| Edgar Tach | «Emet recuerda a Joy Boy», fandub latino (Egghead, aún sin doblar) | [YouTube](https://www.youtube.com/watch?v=W5zYm3DiY64) (1:25) | 5.647 | ✅ |
+| HiroseTakaraExtra | Ending 1 «Memories» completo, fandub latino | [YouTube](https://www.youtube.com/watch?v=1h6KSP1q-tQ) (4:23) | 1.552 | ✅ |
+| **Jorge Valladares** (jorgelixir_doblajes) | Su voz para Chao (Dressrosa), en TikTok | [TikTok](https://www.tiktok.com/@jorgelixir_doblajes/video/7474058024148126981) (0:34, 22-feb-2025) | 49.600 | ✅ |
+| Firgun Fandubs | «ONE PIECE FANDUB LATINO CAP 411 – La aparición de Boa Hancock» (con reparto de fans) | [TikTok](https://www.tiktok.com/@firgun_dubs/video/7345159186239474949) (2:05, 11-mar-2024) | 2.566 | ✅ |
+| Andrés GLT | «El Rey del Fútbol de los Sueños», fandub latino de 2010 | [Dailymotion](https://www.dailymotion.com/video/x3llbh1) (5:43) | 462 | ✅ |
+| «One piece doblaje latino fandub» | Página de Facebook de un proyecto de fandub con **castings por guion** («el casting de Luffy…») | [Facebook](https://www.facebook.com/OnePieceLatinoFandub/) | — | ⚠️ (Facebook pide iniciar sesión; sólo vi el título en el buscador) |
+
+**Lo que se ve:** lo que más se dobla son **cómics de fans** (parejas, Hancock celosa, AU de escuela) y **escenas que el doblaje oficial aún no alcanza** (Gorosei, Egghead, Joy Boy). El formato que más funciona: 1-2 minutos, título «… | Fandub Español Latino».
+
+#### 22.2 Clips del doblaje oficial que la comunidad sube y comparte
+
+Son copias de fans (no oficiales). Sirven para ver **qué escenas del doblaje latino quiere volver a oír la gente**.
+
+| Escena | Canal | Enlace | Vistas | Estado |
+|---|---|---|---|---|
+| «Luffy insulta a Zoro», ep. 130 | Matthew Soberanis | [YouTube](https://www.youtube.com/watch?v=N1P-2Kmw6K8) (0:29) | **1.856.752** | ✅ |
+| Luffy y Zoro se burlan de la voz de Pica (Dressrosa) | Hancock | [YouTube](https://www.youtube.com/watch?v=Q7Js9yOaJsc) (2:15) | **1.906.664** | ✅ existe · ⚠️ idioma sin comprobar (la copia latina es la de [Ivan Torres Soto](https://www.youtube.com/watch?v=EL6UpVDqFgE), 16.610) |
+| «La hija de Sanji», ep. 217 | Matthew Soberanis | [YouTube](https://www.youtube.com/watch?v=XIt_scFYCqQ) (0:48) | 737.203 | ✅ |
+| «IMITACIONES» (Luffy imita a Zoro y Sanji) | Clips Anime Español Latino | [YouTube](https://www.youtube.com/watch?v=VsLT1piHOz0) (0:52) | 454.005 | ✅ |
+| Robin se une a los Sombrero de Paja | Jose Hatake | [YouTube](https://www.youtube.com/watch?v=UM0Aox4qPQ8) (1:25) | 398.844 | ✅ |
+| Luffy conoce a Sanji y lo invita a la tripulación | David D. Luffy | [YouTube](https://www.youtube.com/watch?v=Vx5j-CufRi4) (2:43) | 370.146 | ✅ |
+| La voz de Boa Hancock en latino (*Stampede*) | Matthew Soberanis | [YouTube](https://www.youtube.com/watch?v=OSgRMcuTx88) (0:17) | 299.074 | ✅ |
+| Luffy le dice a Sanji que sin él no será Rey de los Piratas | Adrián D. Villazón | [YouTube](https://www.youtube.com/watch?v=zCGbnc3R0JM) (2:37) | 237.266 | ✅ |
+| Luffy canta «El Sake de Binks» para Laboon | RodClips | [YouTube](https://www.youtube.com/watch?v=erYbjXSH4rE) (2:57) | 215.434 | ✅ |
+| La alianza se ríe de la voz de Pica | OtakuPan3000 | [YouTube](https://www.youtube.com/watch?v=fy3KU76CI8M) (1:09) | 119.145 | ✅ |
+| Voz de Luffy en la Isla Gyojin | X-Tops | [TikTok](https://www.tiktok.com/@elxtops/video/7386907824355347717) (0:46, 2-jul-2024) | 151.600 | ✅ |
+| Opening 1 en español latino (el de la TV, versión 4Kids) | TheLuisdays | [YouTube](https://www.youtube.com/watch?v=9tm-F6G-Q6c) (1:51) | **976.072** | ✅ |
+
+**Chistes internos del doblaje que salen en estas copias:** la **voz de Pica** (aguda, y Luffy y Zoro se ríen), «**cabeza de epazote**» (Sanji a Zoro), «**Aquí no pasó nada**» (Zoro) y el «**¡Síganme los buenos!**» de la serie con actores (DW).
+
+#### 22.3 Covers de los openings y canciones en español
+
+| Canción | Quién | Enlace | Vistas | Estado |
+|---|---|---|---|---|
+| «El Sake de Binks», letra en español latino | Sebas García | [YouTube](https://www.youtube.com/watch?v=IlHCsYnNm8A) (3:30) | **3.834.022** | ✅ |
+| «Fleeting Lullaby» (*Film Red*), letra en español latino | Cheshire Cat | [YouTube](https://www.youtube.com/watch?v=pKikkH2nDjY) (1:59) | 3.455.555 | ✅ |
+| «Binks no Sake», cover en español | **Miree** (España) | [YouTube](https://www.youtube.com/watch?v=xdulr_b-M5Q) (3:52) | 1.027.578 | ✅ |
+| Opening 20 «Hope», cover latino | The Covers Duo | [YouTube](https://www.youtube.com/watch?v=EfzUGdKPN_A) (2:29) | 706.029 | ✅ |
+| Opening 13 «One Day», latino | **Omar Cabán «YuriFoX»** | [YouTube](https://www.youtube.com/watch?v=Q7Sg_Ti1H-w) (2:47) | 688.852 | ✅ |
+| «Backlight» (*Film Red*), cover completo en español | Danie Green | [YouTube](https://www.youtube.com/watch?v=fg-XNWfH62o) (3:59) | 591.891 | ✅ |
+| «Share the World», latino | Omar Cabán «YuriFoX» | [YouTube](https://www.youtube.com/watch?v=dIoqbvVPF2k) (3:50) | 539.898 | ✅ |
+| Opening 20 «Hope», cover en español | Miree | [YouTube](https://www.youtube.com/watch?v=pvYsrHrmeEw) (4:50) | 459.068 | ✅ |
+| «El Sake de Binks», cover latino | Héctor Donoso | [YouTube](https://www.youtube.com/watch?v=I_EvQQUFLrE) (3:21) | 453.362 | ✅ |
+| «Fleeting Lullaby», cover en español | AkaiM | [YouTube](https://www.youtube.com/watch?v=kEpnjkQykz4) (3:13) | 449.837 | ✅ |
+| Opening 16 «Hands Up!», versión completa latina | **IG Studios** (México) | [YouTube](https://www.youtube.com/watch?v=haTqCIyWliE) (4:23) | 378.505 | ✅ |
+| Opening 6 «Brand New World», latino | IG Studios | [YouTube](https://www.youtube.com/watch?v=eK8AoEp17KQ) (4:27) | 318.002 | ✅ |
+| Opening 1 «We Are!», cover latino completo | David Delgado | [YouTube](https://www.youtube.com/watch?v=KGILTA08c4k) (4:01) | 255.115 | ✅ |
+| Opening 1 «We Are!», latino | IG Studios | [YouTube](https://www.youtube.com/watch?v=NY_YcMScv-g) (1:23) | 187.929 | ✅ |
+| Opening 13 «One Day», latino | IG Studios | [YouTube](https://www.youtube.com/watch?v=FB7e7NHeXnY) (2:31) | 171.720 | ✅ |
+| Opening 2 «Believe», completo latino | IG Studios | [YouTube](https://www.youtube.com/watch?v=F_wslIQfFik) (4:01) | 93.360 | ✅ |
+
+**IG Studios** tiene casi todos los openings en latino: es la referencia de «cover en español» que conoce la comunidad.
+
+#### 22.4 Canciones, raps y corridos originales en español
+
+| Obra | Quién | Enlace | Vistas | Estado |
+|---|---|---|---|---|
+| «**Somos Mugiwaras** · El himno de los Sombrero de Paja» | **The Ghost Writer** | [YouTube](https://www.youtube.com/watch?v=LK7ariPYZJ4) (3:33) | **20.145.612** | ✅ |
+| «Luffy vs Ichigo», Épicas Batallas de Rap del Frikismo | Keyblade ft. Sharkness y Miree (España) | [YouTube](https://www.youtube.com/watch?v=GUSShX8ha_o) (5:35) | 19.133.454 | ✅ |
+| «Rap One Piece · Mugiwara» | Sharkness (España) | [YouTube](https://www.youtube.com/watch?v=dGCLzOKK_g4) (3:30) | 6.446.888 | ✅ |
+| «El Barco del Rey» | MelodicMythos ES | [YouTube](https://www.youtube.com/watch?v=1q62t3UdPnY) (5:00) | 6.303.844 | ✅ |
+| «Marineford Rap · La guerra de los mejores» | Kballero | [YouTube](https://www.youtube.com/watch?v=jywDOsagH_I) (6:49) | 5.909.162 | ✅ |
+| «**Juramento** · La canción de Roronoa Zoro» | The Ghost Writer | [YouTube](https://www.youtube.com/watch?v=8gozfCr6kiU) (2:39) | 5.413.383 | ✅ |
+| «No toques a nuestro capitán» | Meenssy Canciones Anime | [YouTube](https://www.youtube.com/watch?v=V9o2B4qb0MQ) (6:34) | 5.236.417 | ✅ |
+| «Luffy "Sombrero de paja"» | ZerOne2077 | [YouTube](https://www.youtube.com/watch?v=wZ75xnsJYT4) (5:54) | 5.075.709 | ✅ |
+| «Nadie toca al capitán» | Gomu Flow | [YouTube](https://www.youtube.com/watch?v=rRVIrfan_Cs) (6:15) | 4.507.834 | ✅ |
+| «El Sake de Binks: el canto de Joy Boy» (Gear 5) | Meenssy | [YouTube](https://www.youtube.com/watch?v=FJn7OB1kB7c) (3:33) | 1.199.825 | ✅ |
+| «Aquí no ha pasado nada», rap de Zoro | Gomu Flow | [YouTube](https://www.youtube.com/watch?v=p1OvV3g7dZg) (2:02) | 48.410 | ✅ |
+| «Luffy – Sombrero de Paja» (**corrido**) | Press Start Corridos | [YouTube](https://www.youtube.com/watch?v=kVzMihNCYXA) (2:34) | 14.508 | ✅ |
+| «El corrido de Luffy» | Mercy ONE | [YouTube](https://www.youtube.com/watch?v=lZ4lzTdBc4M) (2:24) | 11.566 | ✅ |
+| «El del sombrero – Monkey D. Luffy» (corrido) | Los hijos de Binks | [YouTube](https://www.youtube.com/watch?v=ZjOW8UvSqFM) (2:27) | 4.560 | ✅ |
+
+**Dato para el servidor:** en español, **la canción de fans más vista de One Piece es un himno de tripulación** («Somos Mugiwaras», 20 millones). El tema que une a la comunidad es **ser tripulación**, justo lo que dice #bienvenidas.
+
+#### 22.5 Parodias, humor y memes hispanos
+
+| Qué | Quién | Enlace | Vistas | Estado |
+|---|---|---|---|---|
+| Resumen de la serie con actores, «El chico de goma que quería ser pirata» | Ahora te cuento | [YouTube](https://www.youtube.com/watch?v=CqqUPPA1gfI) (52:02) | **6.728.352** | ✅ |
+| «Los Sombrero de Paja llegan a México» (parodia en VR) | MemoWickVR | [YouTube](https://www.youtube.com/watch?v=3oYVkG34jk4) (33:57) | 693.014 | ✅ |
+| «¡Luffy conoce a Zoro! · One Piece si tuviera buenos diálogos» | MemoWickVR | [YouTube](https://www.youtube.com/watch?v=ZpqVJTNnan4) (20:46) | 548.756 | ✅ |
+| «One Piece · El precio de la historia» (parodia) | NiñoGüero Studios | [YouTube](https://www.youtube.com/watch?v=Px4kDpY02rg) (6:46) | 327.363 | ✅ |
+| «Si One Piece fuese dominicano» | Naruto Dominicano | [YouTube](https://www.youtube.com/watch?v=5_FZCV7UuNg) (30:01) | 294.897 | ✅ |
+| «30 curiosidades de One Piece» (Loquendo, 2014) | PainGothic | [YouTube](https://www.youtube.com/watch?v=Ogv-BX8cvsQ) (12:14) | 211.795 | ✅ |
+| «El Gomas», parodia del opening 1 con el doblaje de España | Frikiverseros | [YouTube](https://www.youtube.com/watch?v=-gI3gjhJXUE) (2:14) | 98.903 | ✅ |
+| «El fracaso de One Piece y Dragon Ball Z Kai en Latinoamérica» (Loquendo) | Max Playize | [YouTube](https://www.youtube.com/watch?v=gNXwG9ymWc4) (11:38) | 93.390 | ✅ |
+| «Españoles reaccionan a Gear 5» (ep. 1071) | David Sensei y Naomi | [YouTube](https://www.youtube.com/watch?v=CDXVkpgssbA) (26:39) | 83.993 | ✅ |
+| La **polémica del Sanji canario** (Taz Skylar se dobla con acento de Canarias) | UmaruYT | [TikTok](https://www.tiktok.com/@umaru.yt/video/7274537116422507809) (0:56, 3-sep-2023) | **727.900** | ✅ (+ DW: resuelve el ⚠️ del acento) |
+| El «mal doblaje» de Sanji en la serie con actores | Charly Wolf | [TikTok](https://www.tiktok.com/@charly_wolfy/video/7275125509699144965) (0:59, 5-sep-2023) | 469.900 | ✅ |
+| Iñaki Godoy y Taz Skylar debaten sobre la comida española | Netflix España | [YouTube](https://www.youtube.com/watch?v=u1TuIP34rnY) (4:14) | 827.164 | ✅ |
+
+#### 22.6 Los actores y la comunidad (convenciones, entrevistas)
+
+- Una fan conoce a **Desireé González** (Luffy) en **La Mole** (CDMX) · [TikTok de pao.black_, 15-mar-2025](https://www.tiktok.com/@pao.black_/video/7482124709023255814) · **434.700 vistas, 56.300 «me gusta»** · ✅
+- La misma fan con **Noé Velázquez** (Sanji) en La Mole · [TikTok, 17-mar-2025](https://www.tiktok.com/@pao.black_/video/7482914047768235269) · 36.500 · ✅
+- **Dafnis Fernández** (Zoro) en la Concomics de Guadalajara · [TikTok de andresfutbolmivida, 19-may-2024](https://www.tiktok.com/@andresfutbolmivida/video/7370824691352767750) · 14.600 · ✅
+- **Óscar Flores** cuenta cómo dobla a Brook en un pódcast · [TikTok de Esaú Malvaroz, 24-may-2024](https://www.tiktok.com/@esamalvaroz/video/7372623284698877190) · 15.600 · ✅ (antes «no abierto»)
+- **Mireya Mendoza** cuenta qué sintió al ser Luffy (Tiendas Panini) · [TikTok, 11-dic-2024](https://www.tiktok.com/@tiendaspanining/video/7447271354841320710) · 83.300 · ✅
+- «Entrevista especial con Desirée González» · [Frikeandoo, YouTube, 44:09](https://www.youtube.com/watch?v=gb_vZWO5liw) · 52.239 · ✅
+- «Evolución de todas las voces de Luffy en español latino (2006-2023)» · [NicoZ21](https://www.youtube.com/watch?v=NYILNO80hOQ) · 296.228 · ✅ (ya en §12.2; vistas al día)
+- «One Piece · Voces español latino 2020» · [Voces que dan vida](https://www.youtube.com/watch?v=o19G1BmRhuk) (15:28) · 238.924 · ✅
+- Noticias del doblaje: **One Piece Doblaje Latino News** en X ([@onepiecedoblat](https://x.com/onepiecedoblat)), **X-Tops** y **The Hikarino** ([TikTok, «Crunchyroll se lleva el doblaje de One Piece en latino», 57.800](https://www.tiktok.com/@thehikarino/video/7275508839921896709)) · ✅
+- **Eventos 2026**: preestreno doblado de los eps. 913-914 en la **CCXP México** (25-abr-2026, DW); Toshio Furukawa (seiyū de Ace) en la **AniMole 4** ([ANMTV, 16-ago-2026](https://www.anmtvla.com/2026/08/mexico-animole-4-contara-con-la.html)); Iñaki Godoy hizo una fiesta con fans en Ciudad de México «entre tacos y lucha libre» ([¡Hola!, 26-feb-2026](https://www.hola.com/us-es/entretenimiento/20260226886033/inaki-godoy-one-piece-netflix-fans-tacos-lucha-libre-entrevista/)) · ⚠️ cada uno con una fuente
+- **Reddit en español es pequeño**: r/OnePiece_es (560 suscriptores) y r/OnePieceEsp (465), por Arctic Shift. En r/OnePiece sólo hay unos pocos hilos en español sobre el doblaje (p. ej. «[No entiendo el hate al doblaje en animes](https://reddit.com/r/OnePiece/comments/1t0ew1e/no_entiendo_el_hate_al_doblaje_en_animes/)», may-2026, 32 comentarios). **La comunidad hispana vive en TikTok, YouTube, Facebook y X**, no en Reddit · ✅ (Arctic Shift, dos consultas)
 
 ## Lo mejor para la lámina
 
