@@ -127,7 +127,7 @@ oro, no crear humanos, §26) darían una lámina 2 muy de la serie.
   madre: Edward pierde una pierna y un brazo; Alphonse, el cuerpo entero
   (su alma vive en una armadura).
 - **El más querido**: **Edward** (1.º). Luego **Roy Mustang** (2.º) y
-  **Riza Hawkeye** (3.ª, la mujer más votada). El secundario más amado:
+  **Riza Hawkeye** (3.ª, la mujer más votada). El secundario que más citan los fans:
   **Maes Hughes** (§9).
 - **Cómo habla en pantalla**: no con burbujas blancas. Con la **cartela
   del eyecatch** (marco fino con adornos en las esquinas, nombre en serif
@@ -472,15 +472,275 @@ dice el personaje) + **Special Elite** (si hay un papel militar).
 
 ## 7 · Cómo hablan y piensan en pantalla: el cuadro de diálogo
 
-(pendiente)
+No había nota de FMA en `_Cuadros de dialogo por franquicia` (el
+investigador de texto lo comprobó con grep: 0 resultados). Esto es lo que
+se vio.
+
+### 7.1 La cartela del eyecatch: el cuadro propio de la serie ✅
+
+Es la tarjeta que sale en la pausa de cada capítulo. Vista en el blooper
+([0:26](https://archive.org/download/turner_video_11409/11409.mp4?t=26),
+E16, Jean Havoc) y en las hojas (#31-33, #61-66, Winry y el trío):
+- **Fondo de un color** (naranja, azul, rosa, verde o morado) con un
+  degradado suave, y el personaje **pintado encima**, en una pose de su
+  vida diaria (Havoc con el rifle y el cigarro; Winry con la llave
+  inglesa, con una cámara, en la bañera con un pato).
+- **Un marco fino blanco**, metido hacia dentro, con **volutas de
+  filigrana en las esquinas**.
+- **El nombre en serif cursiva blanca**, abajo a la derecha.
+- **El logo 鋼の錬金術師 / FULLMETAL ALCHEMIST**, en una esquina.
+- En el **doblaje venezolano** estas cartelas y los letreros **los leía en
+  voz alta Gary Matos**; en el mexicano, no ✅ (Doblaje Wiki, «Datos de
+  interés»). Es un puente directo con un canal de doblaje.
+- ⚠️ No se midieron los colores de las cartelas.
+
+**Cómo usarla en la lámina**: el texto del canal va **dentro del marco de
+filigrana**, sobre un color plano de la paleta; el nombre del personaje
+que habla, en cursiva abajo a la derecha. Es la «caja» que un fan
+reconoce, y no es una burbuja.
+
+### 7.2 La portada de capítulo del manga ✅
+
+Hoja #7 ([Chapter1.jpg](https://static.wikia.nocookie.net/fma/images/4/47/Chapter1.jpg), 1800×1350):
+- Ilustración pintada (gouache o acuarela), con el **título en dos líneas
+  abajo a la izquierda**: «Chapter 1:» fino y «The Two Alchemists» en
+  negrita grande, en blanco.
+- Al lado, **el icono de la cruz de Flamel** en blanco, como firma.
+- De fondo, **un círculo de transmutación** de líneas finas celestes
+  (`#7BB3C4`, medido) sobre tuberías y ladrillo.
+
+### 7.3 Objetos que hablan por el personaje ✅
+
+- **El círculo de transmutación** no es adorno: es **la instrucción**.
+  El alquimista lo dibuja con tiza o lo traza con las manos: comprender,
+  descomponer, reconstruir ([fma wiki, Alchemy](https://fma.fandom.com/wiki/Alchemy)).
+- **El reloj de plata** hace de credencial: no lleva texto, sólo el
+  grabado. Se enseña y ya está dicho todo.
+- **El tatuaje de uróboros** delata a un homúnculo sin una palabra (Ed los
+  llama «los del uróboros» antes de saber sus nombres) ([fma wiki](https://fma.fandom.com/wiki/Ouroboros)).
+- La **alquimia de Xing** también usa círculos de tiza en el suelo, no
+  caligrafía ([fma wiki, Alkahestry](https://fma.fandom.com/wiki/Alkahestry)).
+
+### 7.4 El globo dibujado a mano del ED1 ✅ (visto)
+
+ED1 [0:45](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=45)
+(B16): una viñeta *chibi* sobre papel amarillo con **globos de borde
+irregular** y letra de cómic a mano: «You are short as always!» / «What the
+hell did you say!!» / «Ok then we'll get together Al!» y un **«TA-DA»**
+rojo grande. Es el único globo hecho a mano de todo lo que se vio: sirve
+**sólo para tono de broma**.
+
+### 7.5 Los globos del manga ⚠️
+
+En las páginas en blanco y negro de las hojas (#8, #16, #52, #55, en
+miniatura) los globos son **óvalos blancos de trazo fino** con letra de
+cómic (edición inglesa). No se analizaron en grande ni se encontró la
+edición en español. Como el dueño no quiere «una burbuja blanca rara»,
+**para la lámina manda la cartela del eyecatch** (§7.1).
+
+### 7.6 Letras en pantalla del anime
+
+En el máster japonés, **los kanji de expresiones, reacciones y efectos de
+sonido** salen dibujados en pantalla; en la versión latina estaban
+**subtitulados al español** en los capítulos 1-50, y ya no del 51 al 64 ✅
+(Doblaje Wiki, «Datos de interés»).
+
+### 7.7 Los videojuegos (más en §13)
+
+- **PSP** (*Brotherhood*, 2010): **panel granate translúcido** (`#6B0000`,
+  medido) con la **cruz de Flamel roja** arriba a la izquierda, opciones en
+  **texto dorado** y la activa con **barra roja**; retrato a la derecha ✅.
+- **Wii** (*Prince of the Dawn*): se habla con la gente con los comandos
+  «hablar», «mirar» y «tocar» ✅ (texto; no se vio la caja).
+
+### 7.8 Qué NO hacer
+
+- Una **burbuja blanca ovalada** genérica.
+- Letras **redondas e infantiles**: el tono es bélico y filosófico.
+- Un círculo de transmutación **grueso, de colores o relleno**: en la
+  serie son **líneas finas**, blancas, celestes o doradas, a mano o con tiza.
+- ⚠️ Los **papeles militares** (informes, traslados, el examen) no se
+  vieron en ninguna captura: la máquina de escribir de §6 es una
+  **propuesta**.
 
 ## 8 · Los personajes: qué transmiten, su cara y sus dinámicas
 
-(pendiente)
+Fuentes: Personality, Trivia y Relationships de la wiki `fma` (leídas por
+su API), fichas de AniList y los fotogramas de §2. «E», «A» y «B» son
+números de `escenas_01.jpg`.
+
+### 8.1 Edward Elric — el Alquimista de Acero (1.º en popularidad)
+
+- **Carácter**: terco, orgulloso, rápido para enfadarse, poco amigo de
+  la autoridad; presume de su licencia militar. Su apodo viene de ahí:
+  «hagane» (acero) en japonés es también alguien **cabezota** ✅
+  ([fma wiki](https://fma.fandom.com/wiki/Edward_Elric)).
+- **Su herida**: la culpa por el cuerpo de Al. Todo lo hace para
+  devolvérselo. Guarda rencor a su padre, Hohenheim, que los dejó.
+- **Qué transmite**: energía, rabia justa y una ternura que esconde.
+  Hace reír en medio de la violencia (lo nota la reseña de *The Anime
+  Empire*, [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180)).
+- **Cómo se expresa**: grita, exagera, habla rápido (3,18 palabras por
+  segundo en la muestra del doblaje, §10.3). Explica con aplomo de
+  sabelotodo. Escribe con la izquierda (su derecha es automail).
+- **Detalles**: odia la leche; ama el guiso; sus sándwiches, sin corteza ✅
+  (wiki, Trivia).
+
+| Emoción | Su cara | Dónde |
+|---|---|---|
+| alegría, confianza | sonrisa ladeada, ojos dorados abiertos | E1 (tráiler [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47)), E2 (blooper [4:12](https://archive.org/download/turner_video_11409/11409.mp4?t=252)) |
+| seriedad | ceño, boca recta, mechones al viento | A13 (OP1 [0:24](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=24)) |
+| concentración | **manos juntas**, ojos cerrados | A15 (OP1 0:28), hoja #56 |
+| rabia, dolor | grito con la boca muy abierta, sangre | E3 (blooper [7:07](https://archive.org/download/turner_video_11409/11409.mp4?t=427)) |
+| angustia | manos juntas cerca de la boca, ojos entrecerrados | tráiler de 2009, ~0:41 ⚠️ ([miniatura](https://archive.org/download/turner_video_11408/turner_video_11408.thumbs/11408_000041.jpg)) |
+| dolor cómico | golpe de llave inglesa en la cabeza, *chibi* | E6 (tráiler [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54)) |
+| tristeza, vergüenza | ❌ sin fotograma: no se pudo abrir ningún capítulo | — |
+
+### 8.2 Alphonse Elric — el alma en la armadura (4.º)
+
+- **Carácter**: calmado, bondadoso, paciente «casi hasta el exceso».
+  Más maduro que Ed aunque sea el menor. Su enfado tarda más en salir, y
+  bromea con que Ed siempre se enfada antes. También lleva oscuridad por
+  todo lo vivido ✅ (wiki, Personality).
+- **Qué transmite**: ternura y fuerza tranquila. En Reddit lo llaman
+  «santo»: aguanta años sin sentir nada y se queja «sólo una vez» ✅.
+- **Detalles**: **ama los gatos**; sólo deja entrar **mujeres y gatos** en
+  su armadura; cargó con la panda Xiao-Mei creyendo que era un gato ✅.
+  Ed dice que Al pelea mejor que él ✅ (wiki, Abilities).
+- **Su cara** (es una armadura: la cara son **los ojos de luz**): ojos
+  rojos encendidos al presentarse (E7, tráiler [0:46](https://archive.org/download/turner_video_134431/134431.mp4?t=46);
+  A21, OP1 0:40); **ojos blancos redondos** en los gags (tráiler
+  [0:39](https://archive.org/download/turner_video_134431/134431.mp4?t=39));
+  inerte, con Ed encima (E8, blooper 7:15). ❌ Sin fotograma de Al
+  humano llorando o avergonzado.
+
+### 8.3 Roy Mustang — el Alquimista de la Llama (2.º)
+
+- **Carácter**: parece vago, engreído y mujeriego; es **fachada**. Por
+  dentro es un estratega brillante que quiere ser Führer para cambiar el
+  país desde dentro, por la culpa de Ishval ✅ (wiki, Personality).
+- **Su punto débil**: **la lluvia**. Le trae Ishval y con los guantes
+  mojados no hay chispa ✅ (wiki, Trivia).
+- **Detalles**: vive solo, con «poco más que un sofá» (Arakawa, *Guidebook*);
+  ojos negros ✅. **Guantes blancos con el círculo de fuego cosido en el
+  dorso** (hoja #29, vista de espalda).
+- **Cómo se expresa**: voz grave y medida (108 Hz), ritmo tranquilo;
+  estalla de rabia en la muestra de la muerte de Hughes (§10.3).
+
+| Emoción | Su cara | Dónde |
+|---|---|---|
+| serio | ceño fruncido, mirada fija | E9 (blooper [1:20](https://archive.org/download/turner_video_11409/11409.mp4?t=80)) |
+| ligero, galán | media sonrisa, ramo de flores en la mano | E10 (blooper [3:10](https://archive.org/download/turner_video_11409/11409.mp4?t=190)) |
+| poder | de espaldas contra un fondo de fuego | A24 (OP1 [0:46](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=46)) |
+| herido, tras la batalla | ojos cerrados, junto a Riza | E11 (blooper [7:19](https://archive.org/download/turner_video_11409/11409.mp4?t=439)) |
+| altivo | contrapicado | hoja #59 |
+
+### 8.4 Winry Rockbell — la mecánica de automail (5.ª)
+
+- **Carácter**: buena, empática y ambiciosa. **El automail es su pasión**,
+  no sólo su trabajo: se emociona con piezas buenas (Ed la llama «friki
+  del automail») y **se enfada si maltratan su trabajo** ✅ (wiki).
+- **Historia**: la crió su abuela Pinako, a la que ya **supera**; con 11
+  años le hizo a Ed el brazo y la pierna; trabaja en el taller Garfiel de
+  Rush Valley ✅ (wiki, Abilities).
+- **Detalles**: lleva **muchos pendientes** porque Ed y Al le regalaban
+  aretes; se dejó el pelo largo al ver a Riza ✅ (Trivia de Winry y de Riza).
+- **Su cara**: niña, **gritando** con las manos en la boca (E14, blooper
+  [7:26](https://archive.org/download/turner_video_11409/11409.mp4?t=446));
+  escuchando, de perfil (E13, [2:38](https://archive.org/download/turner_video_11409/11409.mp4?t=158));
+  **exasperada, tapándose la cara en su banco** (B19-B20, ED1 [0:54](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=54)-0:57);
+  feliz con un automail (hoja #60); la **hoja oficial de caras** (#80).
+  ⚠️ Poco vídeo suyo: faltan rabia y tristeza en fotograma.
+
+### 8.5 Los secundarios que más pesan
+
+- **Riza Hawkeye** (3.ª, la mujer más votada): leal a Roy, **pero le
+  desobedece** si él intenta sacrificarse; tiene permiso de él para
+  **dispararle si se tuerce**. Es su conciencia. Tiradora; perro Black
+  Hayate; 168 cm ✅ (wiki). Cara: herida, firme, junto a Roy (E11).
+- **Maes Hughes** (el secundario que más citan los fans, §9): mejor amigo de Roy y su
+  mayor apoyo; padre de familia que presume de su hija Elicia ✅
+  (AniList). Cálido y efusivo: **el más expresivo** de las voces medidas
+  (23,3 semitonos, §10.3). Cara: serio con la pistola (E12, tráiler
+  [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24));
+  **alarmado al teléfono** (tráiler de 2009, ~0:35 ⚠️,
+  [miniatura](https://archive.org/download/turner_video_11408/turner_video_11408.thumbs/11408_000035.jpg)).
+- **Alex Louis Armstrong**: parece temible, es **cariñoso de más**;
+  presume de las técnicas de su familia (y de sus músculos, blooper
+  [3:53](https://archive.org/download/turner_video_11409/11409.mp4?t=233)) ✅ (AniList).
+- **Olivier Mira Armstrong**: general de Briggs; se ríe del intercambio
+  equivalente: «sobrevive el más fuerte» ✅ (AniList).
+- **Ling Yao**: príncipe de Xing, relajado y **siempre con hambre**, noble
+  con los suyos ✅ (AniList).
+- **Greed**: homúnculo avaricioso que **cuida de los suyos** ✅ (AniList).
+- **Scar**: vengador de Ishval; su brazo derecho es el de su hermano,
+  tatuado (blooper [6:50](https://archive.org/download/turner_video_11409/11409.mp4?t=410)) ✅.
+- **King Bradley**: el Führer; tranquilo y amable incluso al ordenar una
+  batalla, maestro del sable ✅ (AniList). Parche en el ojo (E18).
+- **Envidia**: cambia de forma y de voz; se enfurece si le insultan ✅.
+- **Izumi Curtis**: la maestra de los hermanos: «para entrenar el
+  espíritu, primero entrena el cuerpo» ✅ (wiki, Abilities de Ed y Al).
+- **Pinako Rockbell**: la abuela de Winry, antes famosa como «la Pantera
+  de Resembool» ✅ (wiki).
+
+### 8.6 Dinámicas (para láminas en grupo)
+
+| Pareja | Cómo es | Fuente |
+|---|---|---|
+| Ed y Al | discuten a menudo, pero cada uno moriría por el otro; **Al cuida a Ed** por dentro | wiki, Relationships ✅ |
+| Ed y Roy | «animosidad amistosa»: Roy le chincha, Ed esquiva sus órdenes; cómplices contra los homúnculos | wiki ✅ |
+| Ed y Winry | ella le arregla (y le pega con la llave); él la llama «friki del automail»; **acaban juntos con hijos** | wiki ✅ |
+| Roy y Riza | lealtad total; «Royai», el ship más grande; no se casan sólo por el reglamento militar (Artbook 3) | wiki, Trivia de Roy y de Riza ✅ |
+| Roy y su equipo | **piezas de ajedrez**: Fuery peón, Falman alfil, Havoc caballo, Breda torre, Hawkeye reina, Roy rey | wiki ✅ |
+| Roy y Hughes | mejores amigos; Hughes empuja su plan de ser Führer | AniList ✅ |
+| Winry y Riza | Winry se dejó el pelo largo por Riza; Riza se puso pendientes por Winry | wiki ✅ |
+| Ed y Hohenheim | rencor por el abandono; su padre es el único que le hace llorar de mayor | wiki ⚠️ (una fuente) |
 
 ## 9 · ¿Quién es el más querido?
 
-(pendiente)
+**Edward**, y de cerca **Roy Mustang**. La mujer más votada es **Riza
+Hawkeye** (por encima de Winry). En los comentarios de fans, el secundario
+que más duele es **Maes Hughes**; en los números le ganan Ling y Greed.
+
+| # | Personaje | AniList (favoritos) | Encuesta de fans («final fan poll», wiki) | Dibujos de fans (Danbooru) |
+|---|---|---|---|---|
+| 1 | Edward Elric | 19 253 | **1.º** | 2 661 |
+| 2 | Roy Mustang | 14 478 | **2.º** | 1 070 |
+| 3 | Alphonse Elric | 7 332 | 4.º | 1 370 |
+| 4 | Winry Rockbell | 4 155 | 5.ª | 1 245 |
+| 5 | Riza Hawkeye | 4 139 | **3.ª** (la mujer más votada) | 999 |
+| 6 | Ling Yao | 3 666 | — | — |
+| 7 | Greed | 2 982 | — | — |
+| 8 | **Maes Hughes** | 2 875 | — | — |
+| 9 | Scar | 2 450 | — | — |
+| 10 | Olivier Mira Armstrong | 2 369 | — | — |
+
+Fuentes: [AniList](https://anilist.co/anime/5114) ✅; la encuesta la cita
+la wiki en las Trivia de Ed, Roy, Riza y Winry (mismo orden en las cuatro
+páginas) ⚠️ (no dice quién la hizo ni cuándo); Danbooru
+([counts](https://danbooru.donmai.us/counts/posts.json?tags=edward_elric)) ✅.
+
+- **Encuesta oficial**: Edward ganó **«personaje masculino favorito»** en
+  la **26.ª encuesta de lectores de *Animage*** (Japón, 2003, con la serie
+  de 2003) ✅ (wiki + [furinkan.com](https://www.furinkan.com/features/articles/charactersmale.html)).
+- **Roy**, 2.º «en cada encuesta desde su debut» (búsqueda web de la
+  parte de voz) ⚠️.
+- **Por qué Hughes es el secundario**: en dos hilos de r/FullmetalAlchemist
+  ([«Tell me your favorite character and why»](https://old.reddit.com/r/FullmetalAlchemist/comments/1sk23t1/tell_me_your_favorite_character_and_why/),
+  159 puntos; [«Who is your favorite side character?»](https://old.reddit.com/r/FullmetalAlchemist/comments/1vxhv6u/who_is_your_favorite_side_character/),
+  57 puntos) es el nombre que más se repite fuera del cuarteto («will
+  always be my number 1, it still hurts all these years later»), junto a
+  Bradley, Greed, Armstrong, Pinako y Scar. En AniList es el 8.º (por
+  detrás de Ling y Greed): la parte de voz decía que era el secundario con
+  más favoritos, y no es así (§28.2). Queda como **el más amado en los
+  comentarios**, no en los números ⚠️.
+- **La serie entera**: 244 136 favoritos en [MyAnimeList](https://myanimelist.net/anime/5114) ✅.
+- ⚠️ No se encontró ninguna **encuesta hispana** de personajes.
+
+**Para la lámina**: Edward para el canal principal (§27 A); si se quiere
+un secundario, **Roy con Riza** (§27 C) pesa más que otros nombres; Hughes
+es el más querido, pero su historia es la de una muerte (§22): mejor como
+guiño que como presentador.
 
 ## 10 · Doblaje latino y frases textuales
 

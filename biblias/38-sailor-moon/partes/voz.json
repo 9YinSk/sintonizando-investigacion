@@ -1,0 +1,182 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/7/77/SMSerenaTsukino.png/revision/latest?cb=20151024053454&path-prefix=es",
+  "fuente": "Doblaje Wiki, imageinfo API (tamaño medido) · retrato oficial de Serena Tsukino/Sailor Moon usado en la ficha de reparto del doblaje clásico",
+  "ancho": 231,
+  "alto": 231,
+  "que_es": "Retrato de Serena Tsukino tal como aparece en la ficha de reparto del doblaje latino clásico (Intertrack, 1995), junto al nombre de Patricia Acevedo (punto 8).",
+  "para_que": "Referencia de qué diseño de personaje corresponde a la voz clásica, para no mezclarlo con el diseño de Crystal en la lámina.",
+  "licencia": "© Toei Animation / Naoko Takeuchi. Captura de la ficha de doblaje, sólo como referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/4/4c/SMCUsagi2.png/revision/latest?cb=20181018234919&path-prefix=es",
+  "fuente": "Doblaje Wiki, imageinfo API (tamaño medido) · retrato oficial de Usagi Tsukino usado en la ficha de reparto de Sailor Moon Crystal",
+  "ancho": 671,
+  "alto": 671,
+  "que_es": "Retrato de Usagi Tsukino del diseño de Sailor Moon Crystal (2014), junto al nombre de Patricia Acevedo repitiendo el papel en el redoblaje de 2018 (punto 8).",
+  "para_que": "Contraste de diseño Crystal vs. clásico para dejar claro en la lámina de qué versión se habla.",
+  "licencia": "© Toei Animation / Naoko Takeuchi. Captura de la ficha de doblaje, sólo como referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/c/c6/Sailor_Moon_-_Cr%C3%A9ditos_de_doblaje_-_Prime_Video.png/revision/latest?cb=20250212000946&path-prefix=es",
+  "fuente": "Doblaje Wiki, imageinfo API (tamaño medido) · captura de los créditos de doblaje del doblaje clásico en Amazon Prime Video",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Créditos de doblaje reales tal como se ven en streaming (Prime Video), con estudio y actores del doblaje clásico.",
+  "para_que": "Referencia de tipografía y formato real de créditos de doblaje latino, útil también para el investigador de texto.",
+  "licencia": "© Toei Animation. Captura de pantalla de streaming, sólo como referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/d/d1/SMCUsagi.ogg/revision/latest?cb=20200403234222&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial subida a la ficha de Sailor Moon Crystal · transcrita y medida con herramientas/voz.py (Whisper local + Parselmouth)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Usagi (Patricia Acevedo) en Sailor Moon Crystal: registro agudo 308 Hz, 32.9 semitonos de rango, 3.24 palabras/s (punto 8 y 13).",
+  "para_que": "Cita textual con minuto para el cuadro de diálogo de Usagi y para describir cómo suena su voz al redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/92/SMCRei.ogg/revision/latest?cb=20200403234305&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Rei Hino (Mónica Manjarrez) en Sailor Moon Crystal: registro medio 220 Hz, 25.6 semitonos, 2.72 palabras/s.",
+  "para_que": "Cita textual y ficha de voz de Rei para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/9b/SMCLuna.ogg/revision/latest?cb=20200403234411&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Luna (Irene Jiménez) en Sailor Moon Crystal: registro agudo 232 Hz, 19.9 semitonos, 3.36 palabras/s.",
+  "para_que": "Cita textual y ficha de voz de Luna para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/c/c0/SMCMakoto.ogg/revision/latest?cb=20200403234323&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Makoto Kino (Adriana Olmedo) en Sailor Moon Crystal: registro agudo 278 Hz, 32.5 semitonos (la más expresiva junto a Usagi), 2.85 palabras/s.",
+  "para_que": "Cita textual y ficha de voz de Makoto para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/7/7d/SMCAmi.ogg/revision/latest?cb=20200403234241&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Ami Mizuno (Rossy Aguirre) en Sailor Moon Crystal: registro agudo 286 Hz, 29.4 semitonos, 2.88 palabras/s.",
+  "para_que": "Cita textual y ficha de voz de Ami para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/bf/SMCMinako.ogg/revision/latest?cb=20200403234340&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Minako Aino (María Fernanda Morales) en Sailor Moon Crystal: registro muy agudo 386 Hz (el más agudo del reparto), 23.0 semitonos, 2.19 palabras/s (la más lenta).",
+  "para_que": "Cita textual y ficha de voz de Minako para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/0a/SMCMamoru.ogg/revision/latest?cb=20200403234357&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial · transcrita y medida con herramientas/voz.py",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip de voz real de Mamoru Chiba (Gerardo Reyero) en Sailor Moon Crystal: registro grave 118 Hz (el más grave del reparto), 22.1 semitonos, 3.26 palabras/s.",
+  "para_que": "Cita textual y ficha de voz de Mamoru para el redactor.",
+  "licencia": "© Toei Animation. Muestra de audio de la ficha de doblaje, uso como referencia de investigación."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Sailor_Moon",
+  "fuente": "Doblaje Wiki, ficha completa del doblaje clásico (reparto, estudio, datos de interés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha íntegra del doblaje latino clásico de Intertrack (1995-2000): reparto principal y de villanos, director, traductora, curiosidades de adaptación (punto 8).",
+  "para_que": "Fuente primaria de todo el reparto del doblaje clásico citado en voz.md.",
+  "licencia": "Texto de wiki colaborativa (CC BY-SA vía Fandom); citar con enlace."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Sailor_Moon_Crystal",
+  "fuente": "Doblaje Wiki, ficha completa del redoblaje de Sailor Moon Crystal",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha íntegra del redoblaje de Dubbing House (2018-2019): reparto, quién repitió del doblaje clásico y quién es nuevo, polémica de terminología con Naoko Takeuchi (punto 8).",
+  "para_que": "Fuente primaria del segundo doblaje latino, clave para el punto explícito de 'varios doblajes latinos' del encargo.",
+  "licencia": "Texto de wiki colaborativa (CC BY-SA vía Fandom); citar con enlace."
+ },
+ {
+  "url": "https://www.anmtvla.com/2018/05/sailor-moon-crystal-confirmado-doblaje.html",
+  "fuente": "ANMTV Latinoamérica, nota de prensa especializada en doblaje/anime (mayo 2018)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Confirmación periodística independiente del elenco original repitiendo en el doblaje de Sailor Moon Crystal (segunda fuente del punto 8).",
+  "para_que": "Segunda fuente para verificar los nombres de actores del redoblaje.",
+  "licencia": "Artículo periodístico, citar con enlace."
+ },
+ {
+  "url": "https://somoskudasai.com/noticias/se-revelan-los-resultados-de-la-encuesta-de-popularidad-de-bishoujo-senshi-sailor-moon/",
+  "fuente": "Somos Kudasai, nota sobre la encuesta oficial NHK 'All Sailor Moon Grand Poll' (dic-2020)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Resultados completos del Top 10 de la encuesta oficial de la televisora NHK: 82 706 votos, Sailor Uranus 1.ª, Sailor Moon apenas 2.ª (punto 7 y 21).",
+  "para_que": "Fuente principal del dato 'un secundario puede ser más querido que la protagonista', clave para los 3 conceptos de lámina.",
+  "licencia": "Artículo periodístico, citar con enlace. Encuesta © NHK."
+ },
+ {
+  "url": "https://www.pagina7.cl/sociedad/cual-es-la-sailor-moon-favorita-de-los-chilenos-encuesta-revelo-a-la-mas-querida-por-los-fans/",
+  "fuente": "Página 7 (Chile), nota sobre la encuesta de Instagram de Senpai TV",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Encuesta regional latinoamericana: Sailor Venus ganó con 33%, Sailor Moon penúltima con 19% (punto 7 y 21).",
+  "para_que": "Dato regional (no sólo japonés) de que Sailor Venus es la favorita del público hispanohablante.",
+  "licencia": "Artículo periodístico, citar con enlace."
+ },
+ {
+  "url": "https://www.chilevision.cl/noticias/te-castigare-en-el-nombre-de-la-luna-voz-de-sailor-moon-denuncia-que-no-le-han-pagado-por-su-doblaje",
+  "fuente": "Chilevisión Noticias (13-mar-2020)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota sobre la frase icónica 'En el nombre de la Luna, te castigaré' y la denuncia de Patricia Acevedo por falta de pago en Sailor Moon Crystal (punto 8).",
+  "para_que": "Segunda fuente de la frase icónica y dato de contexto sobre el propio doblaje.",
+  "licencia": "Artículo periodístico, citar con enlace."
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/SailorMoonEp45DeathOfTheSailorGuardiansTheTragicFinalBattle",
+  "fuente": "TV Tropes, recap del episodio 45",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Resumen y análisis del episodio 45, la escena que más hace llorar al fandom: la muerte de las cinco guerreras ante Queen Beryl (punto 21).",
+  "para_que": "Fuente de la escena para el redactor; falta el minuto exacto (ver 'No encontré' en voz.md), pendiente de que vídeo lo mire con fotogramas.py.",
+  "licencia": "Texto de wiki colaborativa (TV Tropes), citar con enlace."
+ },
+ {
+  "url": "https://comicsalliance.com/sailor-moon-feminism-renaissance-nostalgia-women-role-models/",
+  "fuente": "Comics Alliance, artículo sobre el legado feminista de Sailor Moon",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de por qué Sailor Moon sigue siendo ícono feminista y queer 30 años después (punto 21).",
+  "para_que": "Fuente de la sección 'por qué la gente la ama' para el redactor.",
+  "licencia": "Artículo periodístico, citar con enlace."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=XuRcUhtLAuA",
+  "fuente": "YouTube, video con el opening 'Leyenda de la Luz de Luna' cantado por Marisa de Lille (versión oficial 1995)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Grabación oficial del opening en español latino, cantado por Marisa de Lille (punto 8 y 22).",
+  "para_que": "Referencia de audio oficial y punto de partida para los covers de fans listados en el punto 22.",
+  "licencia": "© Toei Animation / Intertrack. Material de streaming, sólo como referencia."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=CdA_Rmpnnl0",
+  "fuente": "YouTube, fandub español latino de la transformación de Rei Hino (Sailor Mars)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fandub de aficionados en español latino de una escena de transformación (punto 22, comunidad hispana).",
+  "para_que": "Ejemplo de fandub hispano citado en voz.md.",
+  "licencia": "Contenido de fans, sin licencia libre; citar con crédito al canal."
+ }
+]

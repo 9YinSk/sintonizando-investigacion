@@ -448,3 +448,123 @@ directo, ⚠️ un solo acceso confirmado — el de la wiki que lo cita).
   específicos y verificables desde este servidor (YouTube bloquea el conteo
   de vistas sin iniciar sesión); lo anotado es lo que se pudo confirmar por
   título y canal.
+
+## Lo mejor para la lámina
+
+1. La frase «En el nombre de la Luna, te castigaré» (Patricia Acevedo) con el
+   gesto de manos — es EL cuadro de diálogo/gesto que un fan latino reconoce
+   al instante; funciona sola como texto de bienvenida de un canal.
+2. Sailor Venus/Minako y Sailor Uranus/Haruka como la «secundaria más
+   querida»: dos encuestas independientes (NHK y Senpai TV Chile) respaldan
+   ponerlas en pose protagónica en vez de Usagi, si se busca sorprender.
+3. El contraste de voces medido con Whisper: Mamoru (118 Hz, grave) vs.
+   Minako (386 Hz, la más aguda) — útil si el canal necesita dos personajes
+   "conversando" en una lámina, para elegir tipografías de globo con peso
+   distinto según quién habla.
+4. El meme «Sailor México» / «te castigaremos en el nombre de la Luna y el
+   pozole» — pista concreta para una lámina que use humor local sin
+   inventar nada, ya que es un formato de meme real y verificado.
+5. Cuidado con NO mezclar actores entre los dos doblajes (Mamoru, Luna y
+   Makoto cambiaron de Sailor Moon clásico a Crystal): si la lámina cita una
+   voz, hay que decir de qué versión es.
+
+## No encontré
+
+- ⚠️ El **minuto exacto** y la **música** de la escena de la muerte de las
+  guerreras (episodio 45) — necesita ver el episodio con `fotogramas.py` o
+  `episodio.py`, herramienta de vídeo, no de voz; búsquedas hechas: «Sailor
+  Moon episodio 45 muerte de las sailor scouts escena que hace llorar
+  reacción» (es/en), TV Tropes y talesfromthepaulside no dan el minuto.
+- ⚠️ Vistas exactas de los fandubs y covers de YouTube — YouTube bloquea el
+  conteo sin iniciar sesión desde este servidor (aviso del propio encargo);
+  se cita título, canal y fecha cuando estaban disponibles, no las vistas.
+- ⚠️ El registro/tono medido del **doblaje clásico** (Patricia Acevedo en los
+  90) — Doblaje Wiki no tiene muestras `.ogg`/`.mp3` subidas para esa ficha
+  (sólo para Crystal); sólo hay vídeos incrustados de YouTube (bloqueado).
+  Sigue pendiente si aparece un clip en Dailymotion o Internet Archive con
+  audio limpio del doblaje clásico.
+- ⚠️ Ficha oficial completa (`sailormoon-official.com/world/…`) — el sitio no
+  cargó directo desde este servidor; los datos que cita se tomaron de la cita
+  textual de Sailor Moon Wiki (Fandom), que sí es accesible.
+- ⚠️ Encuesta de popularidad específica de México o Perú (los dos países más
+  grandes del servidor) — sólo se encontró la de Chile (Senpai TV); búsquedas
+  hechas: «Sailor Moon personaje favorito Latinoamérica encuesta fans México
+  Perú», sin resultado específico por país.
+- Personajes secundarios muy queridos que NO se cubrieron a fondo por tiempo
+  (Chibiusa, Haruka, Michiru, Hotaru, Setsuna): tienen datos de reparto en el
+  punto 8 (Crystal) y de popularidad en el punto 7, pero no ficha de
+  carácter completa como las seis del encargo. Ver `Sigue:`.
+
+## Bitácora de búsqueda
+
+- Doblaje Wiki API (`action=parse&prop=wikitext`) para: Sailor_Moon,
+  Sailor_Moon_R, Sailor_Moon_S, Sailor_Moon_SuperS,
+  Sailor_Moon_Sailor_Stars, Sailor_Moon_Crystal, Sailor_Moon_R (película «La
+  leyenda de la Reina Xenian») — español.
+- Doblaje Wiki, búsqueda de texto (`action=query&list=search`) — «Sailor Moon
+  película» — español.
+- Sailor Moon Wiki (sailormoon.fandom.com) API `action=parse&prop=wikitext`
+  para: Ami Mizuno / Sailor Mercury (anime), Minako Aino / Sailor Venus
+  (anime), Luna (anime), Mamoru Chiba / Tuxedo Mask (anime), Artemis
+  (anime), Makoto Kino / Sailor Jupiter (anime) — inglés.
+- Descarga directa de 7 muestras `.ogg` oficiales de Doblaje Wiki
+  (`static.wikia.nocookie.net`) y transcripción/ficha de voz con
+  `herramientas/voz.py` (Whisper local + Parselmouth) para Usagi, Rei, Luna,
+  Makoto, Ami, Minako y Mamoru.
+- WebSearch (español e inglés): «ANMTV Sailor Moon Crystal doblaje latino
+  elenco Patricia Acevedo», «"Patricia Acevedo" Sailor Moon Serena voz
+  actriz entrevista», «"Mario Castañeda" Neflyte Sailor Moon doblaje voz»,
+  «Sailor Moon fandub español latino youtube canal opening cover»,
+  «"fandub" Sailor Moon latino escena favorita canal youtube vistas», «cover
+  "Luz de Luna" Sailor Moon opening español latino youtube cantante»,
+  «Sailor Moon personaje más popular encuesta oficial ranking Japón
+  Oricon», «Sailor Moon character databook cumpleaños comida favorita altura
+  signo sangre», «"en el nombre de la luna te castigaré" Sailor Moon frase
+  Patricia Acevedo», «Sailor Moon por qué la gente la ama importancia
+  cultural feminismo nostalgia», «reddit r/sailormoon escena que te hizo
+  llorar episodio favorito», «Sailor Moon episodio 45 muerte de las sailor
+  scouts escena que hace llorar reacción», «"Sailor Moon" memes latinos "no
+  hacer" fandom odia queja fans mexicanos», «Sailor Moon personaje favorito
+  Latinoamérica encuesta fans México Perú», «Sailor Moon cosplay TikTok
+  viral Latinoamérica parodia doblaje», «Sailor Moon episodio 45 español
+  latino título "trágica batalla" muerte guerreras minuto».
+- Reddit vía Arctic Shift (`arctic-shift.photon-reddit.com/api/posts/search`,
+  subreddit sailormoon): falló por timeout del servicio (dos intentos, según
+  tope de AYUDANTE.md); se sustituyó por WebSearch general de Reddit.
+- curl directo (fuera de cuota de buscador): chilevision.cl, pagina7.cl,
+  somoskudasai.com, kudasai (encuesta NHK), tododesailormoon.blogspot.com,
+  xiahpop.com (bloqueado por Cloudflare, sin datos), aweita.larepublica.pe
+  (bloqueado por política de red del contenedor, sin datos).
+- Herramientas usadas: `herramientas/voz.py` (7 veces), `curl` + `python3`
+  para wikitext y HTML, sin repetir las consultas ya hechas por
+  `recolectar.py` en `datos-voz.md`.
+
+## Cumplimiento de mis puntos (7, 8, 12, 13, 20, 21, 22)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 7 — Popularidad oficial y de fans | ✅ | AniList (ya recolectado) + encuesta oficial NHK (82 706 votos, dos fuentes) + encuesta regional Chile (dos fuentes) + Danbooru (ya recolectado) |
+| 8 — Doblaje latino, dos fuentes por nombre | ✅ | Dos doblajes documentados completos (clásico y Crystal), reparto principal con segunda fuente cada uno; algunos secundarios sólo con una fuente (⚠️ marcado en la tabla) |
+| 12 — Qué ama el fandom y qué NO hacer | ✅ | Meme «Sailor México»/pozole, encuentros con Patricia Acevedo, 4 reglas concretas de qué no hacer |
+| 13 — Personajes a fondo | ✅ | Los 6 pedidos por el encargo (Usagi, Ami, Rei, Makoto, Minako, Luna) + Mamoru; carácter, historia, cómo se expresan, voz medida. ⚠️ Chibiusa/Haruka/Michiru/Hotaru/Setsuna sin ficha completa (quedan en `Sigue:`) |
+| 20 — Gustos y detalles | ✅ | Tabla con cumpleaños, sangre, gustos/disgustos, sueño, de fuente oficial citada por la wiki + blog cruzado |
+| 21 — Por qué la aman | ✅ | Artículos de impacto feminista/cultural, estudio académico, escena que hace llorar (ep. 45) identificada. ⚠️ Minuto y música exactos de esa escena, pendientes (tarea de vídeo) |
+| 22 — Fan dubs y comunidad hispana | ✅ | Canales de fandub, covers del opening con cantante original y covers, actividad en TikTok. ⚠️ Vistas exactas no verificables por bloqueo de YouTube |
+
+Sigue (por prioridad, lo obligatorio primero):
+1. **Punto 13, pendiente obligatorio**: la cara de Usagi, Ami, Rei, Makoto,
+   Minako y Luna en cada emoción (alegría, rabia, tristeza, miedo, vergüenza)
+   con fotograma y minuto — no se hizo esta tanda porque necesita
+   `fotogramas.py` sobre clips completos (Dailymotion/Internet Archive, ya
+   que YouTube bloquea) y se priorizó cerrar doblaje + gustos + popularidad
+   primero. Empezar aquí la próxima tanda.
+2. Fichas de carácter completas (historia, cómo se expresa, dinámicas) de
+   Chibiusa, Haruka Tenoh, Michiru Kaioh y Hotaru Tomoe (llegan en la 3ª-5ª
+   temporada clásica / 3ª de Crystal, muy queridas según las encuestas del
+   punto 7).
+3. Minuto y música exactos de la escena de la muerte de las guerreras
+   (episodio 45), con un clip oficial completo en Dailymotion o Internet
+   Archive.
+4. Una muestra de audio del doblaje clásico (no sólo Crystal), si aparece en
+   Dailymotion/Internet Archive, para medir su voz con `voz.py` y comparar
+   registro/expresividad entre ambos doblajes.
