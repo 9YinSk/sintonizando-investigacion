@@ -16,3 +16,6 @@ panel de uso de la cuenta cuando el dueño los diga.
 | 24-sep | 01 One Piece | seguir (económico) | video, tanda 1 | Sonnet | 18 | 185 745 | 63 acciones; 3 escenas miradas con minuto (eps. 53, 483, 1071), 2 poses, 2 ⚠️→✅ |
 | 24-sep | 01 One Piece | seguir (económico) | voz, tanda 2 | Sonnet | 10 | 152 003 | 71 acciones; muestras de Crocodile y Vivi medidas; Smoker, Sabo, Katakuri y Jinbe sin muestra; Vivi niña y adulta, misma actriz ✅ |
 | 24-sep | 01 One Piece | seguir (económico) | imagen, tanda 2 | Sonnet | 11 | 146 480 | 45 acciones; 6 recortes medidos con su capítulo; «haramaki» eran botellas de sake; cartel SE BUSCA de Roger ✅ triple |
+| 24-sep | 01 One Piece | seguir (económico) | video, tanda 2 | Sonnet | 10 | — | parada a las 19:03 sin escribir: la cuenta se quedó sin saldo |
+
+En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del sistema en la sesión principal (Opus) y las 7 tandas de arriba.
