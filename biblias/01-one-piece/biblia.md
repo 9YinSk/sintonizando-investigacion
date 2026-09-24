@@ -165,6 +165,29 @@ Nami gana en Europa, Oceanía y Oriente Medio.
 - Más: [Comic Natalie](https://natalie.mu/comic/news/427064) (ahora pide verificación humana), [Animate Times](https://www.animatetimes.com/news/details.php?id=1620269059),
   [Toei, resultados parciales](https://www.toei-animation.com/wt100-one-piece-midterm-ranking/).
 
+### Repaso del equipo (24-sep-2026): los top 10 completos y las 6 encuestas de la Jump
+
+**Top 10 de Centro y Sudamérica 2026, completo** ✅ ([web oficial, pestaña r4](https://onepiecewt100-2026.com/en/final-rankings/) + tabla de la wiki):
+**1 Zoro · 2 Sanji · 3 Luffy · 4 Nami · 5 Law · 6 Robin · 7 Mihawk · 8 Shanks · 9 Carrot · 10 Usopp.** Chopper no entra.
+
+**Top 10 de Latinoamérica y el Caribe 2021** ⚠️ (sólo la tabla de la wiki; el 1-3 sí tiene dos fuentes):
+1 Nami 102.220 · 2 Zoro 92.144 · 3 Luffy 75.294 · 4 Robin 54.712 · 5 Carrot 53.324 · 6 Sanji 43.800 · 7 Yamato · 8 Hancock · 9 Law · 10 Usopp.
+**De 2021 a 2026, Sanji sube del 6.º al 2.º en la región** y Nami baja del 1.º al 4.º ✅.
+
+**Japón 2026** ✅ (web oficial + wiki): 1 Luffy · 2 Zoro · 3 **Mihawk** · 4 Shanks · 5 Nami · 6 Sanji · 7 **Cracker** · 8 Uta · 9 Sabo · 10 Corazón.
+**Mundial 11-31** (web oficial): 11 Corazón · 12 Hancock · 13 Chopper · 14 Sabo · 15 Uta · 16 Carrot · 17 Rocks D. Xebec · 18 Yamato · 19 Usopp · 20 Loki · 21 Cracker · 22 Doflamingo · 23 Kid · 24 Perona · 25 Buggy · 26 Marco · 27 Brook · 28 Vivi · 29 Franky · 30 Jinbe · 31 Katakuri.
+
+**Las 6 encuestas de la Jump (sólo Japón, por postal)** ✅ ([one-piece.com, «過去の人気投票をおさらい»](https://one-piece.com/news/o20210505_12429/index.html) + [wiki, Popularity Polls](https://onepiece.fandom.com/wiki/Popularity_Polls)):
+- 1999: Luffy, Zoro, **Shanks**. 2002: Luffy, Zoro (a 154 votos), Sanji, **Chopper 4.º**. 2006: los 7 primeros, todos Sombrero de Paja (Usopp empatado con **Sogeking**, que cuenta aparte). 2008: Luffy, Zoro, Sanji, Chopper 4.º. **2014: Law 2.º** (el único año que Zoro no es 2.º). 2017: Luffy 1.º «seis veces seguidas».
+- **Luffy es 1.º en las 8 encuestas oficiales** (6 de la Jump + 2 mundiales); Zoro, 2.º en 7 de 8.
+- **Chopper fue 4.º tres veces seguidas en la Jump** (2002, 2006, 2008) y cae al 16.º (2021) y 13.º (2026) en las mundiales. **Nami es al revés**: 5.ª-8.ª en Japón, 3.ª-4.ª en el mundo. **Es más querida fuera de Japón.**
+
+**Encuestas de fans:** en [MyAnimeList](https://myanimelist.net/character.php) Luffy es **el 2.º personaje favorito de todo el anime** (149.931) y Zoro el 5.º; dentro de One Piece ([Jikan](https://api.jikan.moe/v4/anime/21/characters)) Nami queda 7.ª, tras Chopper ✅. RogersBase (nov-2023): Luffy, Zoro, Nami, Sanji, Robin ⚠️ ([imagen en Reddit](https://i.redd.it/e1oh6oo7rt2c1.png)).
+
+**Lo que dicen de los fans:**
+- En 2026 **hubo votos con bots**; la web oficial avisa de que los resultados salen «tras revisar los votos fraudulentos» ✅ ([Reddit](https://reddit.com/r/OnePiece/comments/1s3bfiy/for_those_that_care_the_current_popularity_poll/)). La primera semana, Japón puso 1.º a Zoro ⚠️ ([Oricon](https://www.oricon.co.jp/news/2442476/full/)). **Las encuestas se viven como un deporte.**
+- **Premio:** Oda dibuja al top 30 con un **«traje especial WT100»**. El de Luffy salió en la portada de la Jump n.º 39 (24-ago-2026); los 30, en diciembre de 2026, en 3 pósteres. El top 15 saldrá en los *eyecatchers* de 2027 ✅ ([one-piece.com, 23-ago-2026](https://one-piece.com/news/81812/index.html)). **Arte oficial nuevo para buscar desde diciembre.**
+
 **Qué hacer con esto:** en #bienvenidas sigue mandando **Luffy**: es el capitán que recluta
 («¡Únete a nosotros!») y el más votado del mundo. Pero el servidor es latinoamericano:
 **Zoro tiene que estar bien visible** (1.º en la región en 2026, 2.º en 2021), **Nami**
@@ -183,6 +206,7 @@ Corrí `investigar_serie.py` dos veces sobre `onepiece.fandom.com`:
 - Además, búsquedas en la wiki (`srnamespace=6`) para escenas sueltas: el barril, el ep. 45, los mapas de Nami.
 
 **Las miré todas.** Mucho no sirve para la lámina: unas 40 son de la serie de Netflix con actores, unas 100 son renders 3D de videojuegos (Pirate Warriors, Thousand Storm, Bounty Rush) y hay decenas de trajes de un solo arco. Lo que sí sirve lo junté en **3 hojas propias** (Pillow, 24 imágenes cada una). En cada celda va el número, el tamaño real (API de la wiki) y una etiqueta.
+**En el repaso del equipo (24-sep) dos hojas crecieron:** `personajes_01.jpg` lleva ahora **P1-P54** y `objetos_01.jpg` **O1-O24 más V1-V30** (vestuario por arco, §9.5); las dos miden 2400×4104. `fondos_01.jpg` sigue con F1-F24 (2400×3648). Los números viejos no cambian. Las miré otra vez: cada número cuadra con su etiqueta. P25-P54 están en §3.2.
 
 **Lo mejor que salió (y no estaba en la primera pasada):**
 - **Los carteles de verdad** (O3-O12) y **un muro de madera con carteles clavados** del ep. 45 (O1). Es el objeto del concepto A, visto en el anime.
@@ -324,6 +348,49 @@ Enlace de cada una:
 > El trazo es el de Oda pero con brillos y marcos del juego. Recortar
 > sólo al personaje. Los fondos de nubes y tesoro no van en la lámina.
 
+### 3.2 Arte añadido en el repaso del equipo: P25-P54 ✅
+
+Faltaba arte de la web oficial, cartones de cuenta atrás, *key visuals*, portadas de tomos, carteles de película, hojas de modelo y arte de consola. Todo mirado; tamaños por la API de la wiki o con Pillow.
+
+**Ojo con la web oficial:** `one-piece.com` pide la cabecera `Referer: https://one-piece.com/`. Sin ella devuelve siempre la misma imagen de Luffy.
+
+| N.º | Tamaño | Qué es y para qué | Original |
+|---|---|---|---|
+| P25-P30 | 1200×998 (Chopper 1200×713, Robin 1200×863) | **Dibujos oficiales de cuerpo entero, fondo blanco**, de la ficha de cada uno (Luffy, Nami, Zoro, Sanji, Chopper, Robin). La ropa de tras el salto que todos reconocen | `https://one-piece.com/o/assets/images/anime/character/data/<luffy·nami·zoro·sanji·chopper·robin>/img.jpg` |
+| **P26** | 1200×998 | **Nami saluda con el brazo derecho en alto y la otra mano en la cadera, boca abierta**: la pose de «¡hola!» más clara de todo lo reunido, y oficial (WD14: `arm_up`, `hand_on_own_hip`, `open_mouth`) | ficha de Nami |
+| P28 | 1200×998 | Sanji de lado, **manos en los bolsillos**, pelo sobre un ojo | ficha de Sanji |
+| **P29** | 1200×713 | **Chopper salta con los dos brazos arriba**, boca abierta, mochila azul: celebrar | ficha de Chopper |
+| **P31** | 1200×960 | **Los diez en fila, con Jinbe**, fondo blanco | [imagen](https://one-piece.com/img/strawhatpirates/strawhatpirates_01.jpg) |
+| P32 | 1200×675 | **Luffy de pie en un bote, los dos brazos al cielo**: «¡zarpamos!» · episodio sin identificar ⚠️ | [imagen](https://one-piece.com/img/character/luffy/luffy_05.jpg) |
+| P33-P37 | 1600×900 | **Cuenta atrás #ONEPIECE1000LOGS** (dic-2020): viñeta del manga en B/N + **fondo plano del color del personaje** + número gigante blanco + hashtag inclinado. Nami: «私は海賊からお宝を盗む泥棒っ!» («¡soy una ladrona que roba tesoros a los piratas!», traducción propia ⚠️) | [wiki](https://onepiece.fandom.com/wiki/File:Chapter_1000_Countdown_1_Luffy.png) + [@Eiichiro_Staff, 20-dic-2020](https://x.com/Eiichiro_Staff/status/1340673498142818305) (17.554 «me gusta») |
+| P38-P42 | Luffy 1446×2048 · Nami 1554×2186 · Chopper 2427×3436 · **Zoro 2912×4096** · Sanji 1704×2413 | **Carteles de *Film Red***: cuerpo entero, fondo plano de su color, una frase suya en vertical. Chopper: «あっちに本がいっぱいの部屋があるって» («dicen que allí hay un cuarto lleno de libros», traducción propia ⚠️) | [wiki, Film Red Posters](https://onepiece.fandom.com/wiki/Category:Film_Red_Posters) |
+| **P43** | **2560×1440** | **Eyecatcher del ep. 1000: Luffy sonríe con los ojos cerrados, de cara, delante de su cartel de SE BUSCA.** La sonrisa de bienvenida más grande que hay; mejor que P1 (que es una estatua de cera) | [wiki](https://onepiece.fandom.com/wiki/File:1000th_Episode_Eyecatcher_2.png) |
+| P44 | 2485×1851 | *Color spread* de los caps. 999-1000: los diez sobre un montón de tesoro, marco dorado «ONE PIECE 1000 LOGS» | wiki |
+| **P45 + P46** | 640×1016 y 756×1200 | **Tomo 1 y tomo 61 son pareja**: en el 1 Luffy, Zoro y Nami zarpan celebrando entre gaviotas; en el 61 («ROMANCE DAWN for the new world») la tripulación repite la escena en el Sunny. **La imagen oficial de «empieza la aventura»** | [Volume 1](https://onepiece.fandom.com/wiki/Volume_1) · [Volume 61](https://onepiece.fandom.com/wiki/Volume_61) |
+| P47 | 2038×3240 | Tomo 100: Luffy sonriendo en el centro, fondo arcoíris. Las 115 portadas están en la wiki (`File:Volume_<n>.png`), 640-2044 px de ancho | wiki |
+| P48 | 2188×3096 | *Key visual* de Egghead: Luffy en Gear 5 con la mano abierta a la cámara, la tripulación con trajes del futuro. Original 2895×4096 | [wiki](https://onepiece.fandom.com/wiki/File:Egghead_Arc.png) + [@ToeiAnimation, 23-dic-2024](https://x.com/ToeiAnimation/status/1871272025517588963) |
+| P49 | 1536×1925 | Tomo 111 («Aventura en Elbaph»): Luffy salta con un hacha naranja, seis Sombrero de Paja corren con él, Loki encadenado detrás | [Volume 111](https://onepiece.fandom.com/wiki/Volume_111) |
+| P50-P51 | 1200×900 | **Hojas de modelo (settei) de *Film Red***: Luffy y Nami de frente, perfil y espalda, en línea; caras aparte (hay de Zoro, Sanji y Chopper, y las de «batalla» a 2000×1500) | [web oficial de Film Red](https://www.onepiece-film.jp/en/info-en/63/) vía wiki |
+| P52 | 600×900 | *Odyssey*: Luffy pequeño, de espaldas, ante una cascada | [Steam 814000](https://store.steampowered.com/app/814000) |
+| P53 | 600×900 | *Pirate Warriors 4*: Luffy en Gear 4 y Kaido | [Steam 1089090](https://store.steampowered.com/app/1089090) |
+| P54 | 1200×675 | Nami enseña el tatuaje del hombro (molinillo y mandarina) | [imagen](https://one-piece.com/img/character/nami/nami_09.jpg) |
+
+**Fuera de la hoja (enlace directo):**
+- Cada ficha de one-piece.com trae 8 escenas más (`/img/character/<nombre>/<nombre>_02…09.jpg`, 1200×675): Luffy llorando con Shanks, Sanji con ojos de corazón, Robin en la escalera del Merry con Luffy y Chopper, Chopper con algodón de azúcar ✅.
+- **Visual del anime de Elbaph** (Toei, oct-2025): un Luffy diminuto con casco vikingo y capa roja camina por la nieve dejando huellas · [imagen, 1457×2064](https://pbs.twimg.com/media/G4WaE6kWsAA7m5x.jpg?name=orig) ✅.
+- **Cumpleaños de Luffy 2026**: Gear 5 con los ojos cerrados, el Sunny, un dragón y luna llena · [@OPcom_info, 4-may-2026](https://x.com/OPcom_info/status/2051317197562384413), 1200×630 ✅; [Wallhaven](https://wallhaven.cc/w/ly2yg2) tiene una copia de 7680×4032 ⚠️ (origen del tamaño sin comprobar).
+- **Dónde va el anime hoy:** ep. 1171 «エルバフの大罪人 冥界のロキ解放!?» (24-sep-2026), arco de **Elbaph**, que volvió en abril de 2026 tras un parón de tres meses · [one-piece.com/anime](https://one-piece.com/anime/index.html) + [Toei, 28-oct-2025](https://x.com/ToeiAnimation/status/1983160636679786887) ✅.
+- **La web oficial no tiene sección de fondos de pantalla**: `/present/` no lista ninguno y `/wallpaper/` da 404; en la portada sólo queda una función muerta `hide_wallpaper_popup()` de una campaña vieja ✅ (dos rutas probadas + búsqueda en japonés).
+
+**El color propio de cada Sombrero de Paja** (medido en el fondo plano de dos campañas oficiales distintas) ✅:
+
+| | Luffy | Zoro | Nami | Sanji | Chopper |
+|---|---|---|---|---|---|
+| Cuenta atrás 1000 LOGS (Shueisha, 2020) | `#FF321D` | `#A8BB7E` | `#FFA001` | `#2269E5` | `#FE9FAA` |
+| Carteles *Film Red* (Toei, 2022) | `#E70013` | `#17AC55` | `#EE7602` | `#3B82C5` | `#EA79AD` |
+
+**Rojo, verde, naranja, azul y rosa**: coinciden con el SBS 20/40/59 (§Punto 20) y con la prenda principal de cada uno. Sirven para dar a cada paso de la lámina la franja o el marco de su personaje.
+
 ---
 
 ## 4 · Escenas icónicas (capítulo del anime)
@@ -343,10 +410,11 @@ Los minutos salen de los clips que miré (§12).
 | 90 | Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies! | Kureha hace nevar rosa: los cerezos de Hiluluk despiden a Chopper. | ✅ (one-piece.com + wiki) |
 | 130 | Scent of Danger! The Seventh Member is Nico Robin! (危険な香り！七人目はニコ・ロビン！) | **Robin aparece en el Merry y pide unirse**: «Let me… join your crew» (clip, 2:02). Los cinco, colgados de la baranda, lloran por Vivi (0:18). **Es la escena de «alguien nuevo sube al barco».** | ✅ ([wiki, ep. 130](https://onepiece.fandom.com/wiki/Episode_130) + [clip mirado](https://www.dailymotion.com/video/x61uaq4?start=120), §12) |
 | 278 | Say You Want to Live! We Are Your Friends!! | Robin grita «¡quiero vivir!». | ✅ (one-piece.com + wiki) |
+| **483** | Fire Fist Ace Dies on the Battlefield (emitido 15-ene-2011) | **Muerte de Ace en Marineford.** 10:00 Akainu (magma rojo) frente a Ace, antes del puñetazo · 17:30 Luffy grita sosteniendo a Ace entre humo · **20:00 primer plano de Ace ensangrentado, sonriendo, con la mano en la cara de Luffy** (las últimas palabras, «Gracias… por quererme», según la wiki) · 21:20 su mano se afloja · 22:00 Luffy de espaldas, en silencio, frente al mar. Luz de tragedia: cielo blanco quemado por el humo. **No para #bienvenidas.** | ✅ ([wiki, ep. 483](https://onepiece.fandom.com/wiki/Episode_483) + copia mirada en [Internet Archive](https://archive.org/details/one-piece-0001-1000-1999-horrible-subs), 1280×720) · la copia es de fans ⚠️ |
 | 312 | Thank You, Merry! Snow Falls Over the Parting Sea! | Funeral vikingo del Going Merry bajo la nieve. | ✅ (one-piece.com + wiki + [clip de Marca](https://www.dailymotion.com/video/x9kpldw), §12) |
 | 377 | The Pain of My Crewmates Is My Pain! Zoro's Desperate Fight! | Zoro carga el dolor de Luffy: «No pasó nada». | ✅ (one-piece.com + wiki; frase latina en §10.1) |
 | 1015 | Straw Hat Luffy! The Man Who Will Become the King of the Pirates! | El «Roof Piece», dirigido por **Megumi Ishitani**. | ✅ ([Wiki](https://onepiece.fandom.com/wiki/Episode_1015), [The Mary Sue](https://www.themarysue.com/one-piece-episode-1015-greatest-anime-episodes-of-all-time/), [Sportskeeda](https://sportskeeda.com/anime/twitter-breaks-one-piece-episode-1015-wows-viewers-start-roof-piece-stellar-animation)) |
-| 1071 | Luffy's Peak - Attained! Gear 5 | El Gear 5 (Luffy blanco que ríe). Opening «PAINT», ending «Raise». | ✅ (wiki + CineWatch) |
+| 1071 | Luffy's Peak - Attained! Gear 5 | El Gear 5 (Luffy blanco que ríe). Opening «PAINT», ending «Raise». **Clip oficial mirado** (marca de Toei y cartela de Crunchyroll): 0:00 Zunesha de frente entre niebla · 0:40 «I'm hearing them for the first time in 800 years…» · **0:48-1:10 Luffy tirado en la roca, ceño fruncido, ojos apretados, puños contra el suelo, humo blanco saliendo del cuerpo** · 1:20 Zunesha dice «Joyboy…». Acaba antes de verlo blanco. | ✅ (wiki + CineWatch + [Dailymotion, Meristation, 1:43](https://www.dailymotion.com/video/x8mwcbr)) · el vídeo es 512×288 ⚠️ |
 
 **El barril (lo más útil para una bienvenida).** Antes de entrar en la
 Grand Line, cada uno pone un pie en un barril y dice su sueño: Luffy,
@@ -358,7 +426,11 @@ Es el **ep. 53** ✅ (ver tabla). La wiki guarda el plano cenital: cinco piernas
 sobre la tapa del barril, madera mojada y oscura, lluvia (hoja O23, 1920×1080).
 La serie de Netflix también la recreó.
 Clip en inglés: [YouTube, canal de fans «Faded»](https://www.youtube.com/watch?v=X5lBH4VzL4U)
-(existe, comprobado; no se pudo bajar: minuto sin poner ⚠️). En Yahoo! Chiebukuro hay fans japoneses que
+(existe; YouTube no dejó bajarlo). **En el repaso del equipo se miró el episodio entero** en una copia de fans de
+[Internet Archive](https://archive.org/details/one-piece-0001-1000-1999-horrible-subs) (`[HorribleSubs] One Piece - 53 [720p].mkv`, 1280×720, sólo el trozo con `ffmpeg -ss`):
+**22:10-22:20** el Merry sacudido por el oleaje bajo la lluvia, Zoro se ríe junto a Usopp; **22:20** Zoro con los brazos cruzados y media sonrisa, oyendo el sueño de los demás;
+**22:32 el plano cenital de los cinco pies sobre la tapa del barril**, con la lluvia cayendo en la madera (el de la hoja O23, ahora en movimiento);
+**22:35-22:45** primeros planos rápidos de cada uno diciendo su sueño (Usopp, Nami sonriendo, Sanji); **22:55-23:00** el barco entero entre relámpagos; 23:10 «TO BE CONTINUED» ✅ (contenido mirado; la copia es de fans ⚠️). En Yahoo! Chiebukuro hay fans japoneses que
 preguntan justo en qué episodio sale
 ([pregunta](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1046262015)).
 
@@ -378,7 +450,7 @@ preguntan justo en qué episodio sale
 | [One Piece - Going Merry](https://sketchfab.com/3d-models/one-piece-going-merry-0e1f16189e8b4b4d9d9c3c60893d692b) | Anex | CC BY | 83.254 | Alternativa ligera. |
 | [thousand Sunny](https://sketchfab.com/3d-models/thousand-sunny-cfa15cf0499c4e7dac61cd58905c5e27) | serienreviewer | **CC BY** | 28.065 | **Nuevo:** el Sunny con licencia CC BY (concepto A). |
 | [THOUSAND SUNNY - ONE PIECE](https://sketchfab.com/3d-models/thousand-sunny-one-piece-59e09814b4a14ecfb27471c4abe78be4) | ShacLaw | CC BY | 62.631 | **Nuevo:** otro Sunny CC BY, más detallado. |
-| [Thousand Sunny Ship](https://sketchfab.com/3d-models/thousand-sunny-ship-59b59a3fb0c04113af5520bce3534a20) | Tigerar1 | CC BY-SA | 28.065 | Sólo de referencia (obliga a compartir igual). |
+| ~~[Thousand Sunny Ship](https://sketchfab.com/3d-models/thousand-sunny-ship-59b59a3fb0c04113af5520bce3534a20)~~ | Tigerar1 | CC BY-SA | 28.065 | **Descartado en el repaso:** es una resubida del de serienreviewer (mismas 28.065 caras; ver §5.1). |
 | [Thousand Sunny Lionhead](https://sketchfab.com/3d-models/thousand-sunny-lionhead-e2db38f4caf94fb7946c31072f3efac7) | Randyr1444 | CC BY | 8.488 | El mascarón de león, al fondo. |
 | [Luffy's Wanted Poster](https://sketchfab.com/3d-models/luffys-wanted-poster-0ebeef677f2d40298d0809c4f92035a4) | TKWMO | CC BY | 430.336 | **Nuevo:** un cartel con relieve y papel arrugado. Referencia de cómo se dobla el papel clavado. |
 | [Wanted Luffy. Anime: One Piece](https://sketchfab.com/3d-models/wanted-luffy-anime-one-piece-d828707bddc94e969e7f40c0e6127209) | miguel.acf204 | CC BY | 4.452 | **Nuevo:** tres carteles planos, muy ligeros. |
@@ -402,6 +474,58 @@ Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del 
 - La plantilla clásica de cartel de fans es la de
 [ei819 en DeviantArt](https://www.deviantart.com/ei819/art/One-Piece-Wanted-Poster-104165885)
 (citada por el repositorio de YuskaWu). Fondos de pantalla de fans en §6.
+
+### 5.1 Repaso del equipo (24-sep-2026): más modelos, pesos y descartes
+
+Los 13 modelos de arriba siguen publicados, descargables y con la misma licencia (API de Sketchfab, leída otra vez modelo a modelo) ✅.
+
+**Peso (regla 9 del dueño: no saturar el PC)** · API de Sketchfab (`faceCount`) ✅: Den Den Mushi de rafaoliveira3d **686.161 caras**, cartel de TKWMO **430.336**, Merry de Oliver Edwards 176.578, sombrero de Mzati Chikoko 157.696. **Usar las versiones ligeras de abajo.**
+
+**Modelos nuevos con licencia CC BY** (autor y licencia leídos en la API) ✅:
+
+| Modelo | Autor | Caras | Para qué |
+|---|---|---|---|
+| [Straw hat pirate's flag](https://sketchfab.com/3d-models/straw-hat-pirates-flag-4a100b11e6974113ad6be63fca957156) | DarvinAbraham | 2.592 | **La bandera ondeando en su mástil** (tela simulada): conceptos A y C |
+| [One Piece Flags and logo's 1](https://sketchfab.com/3d-models/one-piece-flags-and-logos-1-e5490a4377994041a69da157a87805d7) | threehoursinhell | 118.292 | Banderas planas |
+| [One Piece Logo](https://sketchfab.com/3d-models/one-piece-logo-5e22b178523349b19aae58c4b45790c2) | Jhimwell Vizconde | 22.384 | El emblema en 3D con contorno negro |
+| [Logo Thousand Sunny](https://sketchfab.com/3d-models/logo-thousand-sunny-a9e859aff52845b18b9ed66f6b7326c6) | ShacLaw | 9.454 | El sol con tibias del Sunny |
+| [Going Merry (One Piece)](https://sketchfab.com/3d-models/going-merry-one-piece-8cf214627e02411387d4df4b815ef28d) | RadhruinT | **22.512** | **Merry ligero** (8 veces menos que el de Oliver Edwards) |
+| [Going Merry](https://sketchfab.com/3d-models/going-merry-1760c031d3e64429b0d15c98cfa0d208) | d_kostash | 59.827 | Merry sobre nubes; el mismo en su [ArtStation](https://www.artstation.com/artwork/29L6ZK) (1920×2304) |
+| [Luffy's Straw Hat](https://sketchfab.com/3d-models/luffys-straw-hat-3598d9e686ad46dc838e1443b910d91e) | tdonizetti | **2.112** | **Sombrero ligero** para colgar del clavo |
+| [One Piece Hats](https://sketchfab.com/3d-models/one-piece-hats-luffy-chopper-e06ed6b951644c99b97b86fadbdbaf4f) | Kevin (jul-2026) | 1.320 | Sombreros de Luffy y Chopper juntos |
+| [wanted poster](https://sketchfab.com/3d-models/wanted-poster-584b307dd36f495e9446d6c3aeb3dc14) | lucq22 | **572** | **Cartel con esquinas rotas y cuatro clavos**: base para clavar la foto oficial (750 veces más ligero que el de TKWMO) |
+| [wanted poster](https://sketchfab.com/3d-models/wanted-poster-4734aa35c8bf4896858959518d1a7fdd) | n0stardust | 140 | Papel arrugado con una chincheta |
+| [Zoro Katana 和道一文字](https://sketchfab.com/3d-models/zoro-katana-3b40e5a485c34a1b8a88104756f81610) | kaiyi97 | 7.718 | La Wado Ichimonji |
+| [OnePiece Fanart Zoro's Swords](https://sketchfab.com/3d-models/onepiece-fanart-zoros-swords-e029be9ef0ab4b80a6399bef7c7d633c) | Keishun | 58.604 | Las tres espadas |
+| [Gomu Gomu No Mi](https://sketchfab.com/3d-models/gomu-gomu-no-mi-90b620fce6f94a3581b9d20ebabc06ee) | ᗰOᑎKEY ᗪ. ᒪᑌᖴᖴY | 61.180 | La fruta de Luffy |
+| [Trafalgar Law's Hat](https://sketchfab.com/3d-models/trafalgar-laws-hat-a5799d464bd445c8832d7c88ae9fa01f) | Josevan Danusastra | 4.048 | Gorro de Law |
+| [Baratie - One Piece](https://sketchfab.com/3d-models/baratie-one-piece-015ebe70a76749eeb92f5f39693b8ea5) | Chin Eeyang | 596.624 | El restaurante de Sanji, **sin color**: sólo lámina 2 |
+| [Aquatic Stage](https://sketchfab.com/3d-models/aquatic-stagegoing-merry-with-laboonone-piece-56cd0ac4b7b14144bc42e690692eb140) | andreagonzalez28 | 132.778 | Diorama del Merry con Laboon |
+
+Crédito: «"<título>" de <autor> (Sketchfab), CC BY 4.0».
+
+**Modelos que NO se pueden usar aunque digan CC BY** (extraídos de juegos o resubidos):
+- «One Piece Pirate Warriors Tony Tony Chopper» de akennedy007: su ficha dice «i dont own this model» ✅.
+- Los de **Cyrone™** (Chopper, Zoro, Sanji, Law, Ace…): «From One Piece: Fighting Path» (juego de móvil) ⚠️.
+- Los de **Tigerar1**: resubidas. Su Merry tiene 22.512 caras como el de RadhruinT; su Sunny 28.065 como el de serienreviewer; su Ace, las mismas caras y la misma falta de ortografía que el de p0nk_ ✅ (cuatro coincidencias en la API).
+- Los personajes hechos a mano (Nami de jvmartins, Chopper de 512ui3) sólo sirven de **referencia de pose**: el diseño es de Oda y Toei.
+
+**Modelos libres de objetos piratas (CC0, sin crédito obligatorio):**
+- **Poly Haven, colección «Smuggler's Cove»** ([API](https://api.polyhaven.com/assets?t=models)) ✅, con `.blend` y glTF hasta 4K u 8K: [treasure_chest](https://polyhaven.com/a/treasure_chest) (cofre, 103.330 polígonos), [wooden_barrels_01](https://polyhaven.com/a/wooden_barrels_01) (barriles enteros **y rotos en duelas**, 33.142), [wine_barrel_01](https://polyhaven.com/a/wine_barrel_01) (10.820), [Barrel_01](https://polyhaven.com/a/Barrel_01) (**2.682, el más ligero: para el concepto C**), [ship_pinnace](https://polyhaven.com/a/ship_pinnace) (velero con jarcias), [cannon_01](https://polyhaven.com/a/cannon_01), [wooden_crate_01](https://polyhaven.com/a/wooden_crate_01), [wooden_lantern_01](https://polyhaven.com/a/wooden_lantern_01) (farol), [modular_wooden_pier](https://polyhaven.com/a/modular_wooden_pier) (muelle) y [seadogs_compass](https://polyhaven.com/a/seadogs_compass) (**brújula de latón con tapa, para la mesa de Nami**, 11.645).
+- **Kenney, «[Pirate Kit](https://kenney.nl/assets/pirate-kit)»** v2.1: 70 archivos en **estilo de juguete de colores planos** (se parece más al anime que Poly Haven) · CC0 ✅.
+- **Quaternius, «[Pirate Kit](https://quaternius.com/packs/piratekit.html)»**: 71 modelos animados · CC0 ⚠️ (sólo su página).
+
+**Para imprimir en 3D (Printables, API GraphQL; mallas STL sin textura, se pintan en Blender)** ✅: [Luffy's Straw Hat](https://www.printables.com/model/395105-luffys-straw-hat-one-piece-step-stl) de PhiRequiem (**CC0**) · [Golden Den Den Mushi](https://www.printables.com/model/636597-golden-den-den-mushi-one-piece) de Smelliot (CC BY, más ligero que el de Sketchfab) · [Going Merry Figurehead](https://www.printables.com/model/974973-going-merry-figurehead) de Derrin Wang (CC BY) · [Thousand Sunny Lion head](https://www.printables.com/model/262176-one-piece-thousand-sunny-ships-lion-head-figurehea) y [Jolly Roger](https://www.printables.com/model/158076-one-piece-jolly-roger-wanpisu) de Jangy (CC BY) · [Luffy Wanted Poster - Wall Art](https://www.printables.com/model/569883-luffy-one-piece-wanted-poster-wall-art) de GreepeeR (**CC BY-NC**: vale para el Discord).
+
+**Fan art nuevo (Pixiv por su API; sólo para mirar)**. `aiType` 1 = el autor dice que no es IA; 0 = obra anterior a la marca; 2 = IA:
+- **«Mugiwara: taking a break» de vinhnyu (2010)**: la cocina-acuario del Sunny con la tripulación comiendo y **carteles de WANTED clavados en la pared de madera**, luz cálida de interior · [pixiv 9197401](https://www.pixiv.net/artworks/9197401) · 1280×800 · ✅ mirada. **La mejor referencia de fans para el concepto A.**
+- Sanji y Zeff ante el cartel «VINSMOKE SANJI», en manga, de 〆 · [pixiv 98369561](https://www.pixiv.net/artworks/98369561) · 600×849 · **29.749 marcadores** ✅.
+- Cartel de Yamato con papel envejecido y letras de imprenta, de イズナ · [pixiv 92426575](https://www.pixiv.net/artworks/92426575) · 1000×1500 ✅ (buena referencia de papel manchado).
+- «Merry in Heaven» de zzyzzyy · [pixiv 50701678](https://www.pixiv.net/artworks/50701678) · 945×630 · 9.807 marcadores; del mismo autor, «Morning», el Sunny vertical · [pixiv 55678115](https://www.pixiv.net/artworks/55678115) · 840×2640 ✅.
+- El Sunny en plena tormenta, de Ombobon · [pixiv 54228849](https://www.pixiv.net/artworks/54228849) · 1200×672 ✅. Toda la tripulación sentada en el suelo, de yukke · [pixiv 1086055](https://www.pixiv.net/artworks/1086055) · 1120×862 ✅.
+- **Descartadas por IA:** 32 de 259 obras de la búsqueda (手配書, 麦わらの一味 集合, サウザンドサニー号, ゴーイングメリー号, 3DCG, Blender) ✅.
+
+**Renders 3D de fans (ArtStation; sólo portada medida, la ficha da 403)** ⚠️: Going Merry de [Jesús M. López](https://www.artstation.com/artwork/B9DzD) (1920×1371), [Eric de Menezes](https://www.artstation.com/artwork/YB4Pqq) (1920×1436) y [Arnau M.](https://www.artstation.com/artwork/48LX54) (1920×1080); Thousand Sunny de [Ilya Gaponov](https://www.artstation.com/artwork/0lqmk4), [Yuriy Gusev](https://www.artstation.com/artwork/aGkKNk) y [Enzo Cola](https://www.artstation.com/artwork/kQ0BKx); [Zoro 3D Lookdev](https://www.artstation.com/artwork/nJ2x1X) (3dsense Media School) y [Chopper de Romain Ménard](https://www.artstation.com/artwork/3drKgm): **acabado de anime en 3D**, útiles para ver cómo queda el *toon shader* (Punto 18).
 
 ---
 
