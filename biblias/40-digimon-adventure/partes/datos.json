@@ -1,0 +1,742 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1907-ZWmX1dVGPfqn.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Taichi Yagami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1909-BFIYnrdbeLhB.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yamato Ishida",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1963-dOvRGlPBRIYw.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hikari Yagami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4950-7ABdx6j3jmdE.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Agumon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2278-2pznB5TswqIk.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mimi Tachikawa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/9954.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tailmon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1961-tH2XftpODD7y.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Takeru Takaishi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2277-4iS5JyV5uyjS.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Koushirou Izumi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2276-edQsS9qzUbm5.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sora Takenouchi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gabumon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9950-QAOttyTh15ti.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Patamon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5977.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gomamon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9953-4In5NaqAYCdg.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tentomon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2812-UkLkIUhVyrU8.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jou Kido",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/552-xAHaRMpoco2e.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/6/68/Agumon_b.jpg",
+  "fuente": "Fandom digimon",
+  "ancho": 320,
+  "alto": 320,
+  "que_es": "Agumon: Agumon b.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/d/d1/Gabumon_b.jpg",
+  "fuente": "Fandom digimon",
+  "ancho": 320,
+  "alto": 320,
+  "que_es": "Gabumon: Gabumon b.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de yagami_taichi (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/655/c378c0060e39dac5cbffbcc609588f0211454395.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1000,
+  "que_es": "Fan art de yagami_taichi (http://img13.pixiv.net/img/rella/20750360.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/503/f3a7415a83ac5592045c6ac716ad6777a5d4f5bc.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1414,
+  "que_es": "Fan art de yagami_taichi (http://img44.pixiv.net/img/hajime-ill-1st/14263386.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 3043,
+  "que_es": "Fan art de yagami_taichi (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2893,
+  "alto": 2343,
+  "que_es": "Fan art de yagami_taichi (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27092465)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/566/f28a89d3c65cd36e2595c5204733f8d0ee7ea1e5.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3267,
+  "alto": 600,
+  "que_es": "Fan art de yagami_taichi (http://img44.pixiv.net/img/hajime-ill-1st/16839183.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/878/ff92c1c92e2ebf8e7ed4c5a6b34e7c25067416ce.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 723,
+  "que_es": "Fan art de agumon (http://i2.pixiv.net/img44/img/hajime-ill-1st/29158772.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4155/23ef8211864ffd88e2d27020adeec945b17efa51.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 779,
+  "que_es": "Fan art de agumon (https://twitter.com/WithTheWill/status/1632838625129033728)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1075/a68e70e42576adf921db34c17232ed820fecbb8b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1172,
+  "alto": 886,
+  "que_es": "Fan art de agumon (http://i2.pixiv.net/img42/img/temk/37457779.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/683/7a5a62310cf6e5a53e604a5a149769cd19d2658c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 2300,
+  "que_es": "Fan art de agumon (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;illust_id=20730016)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/655/c60e439be0f0c62595071041e5f2e3e82c4c67f6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fan art de agumon (http://img44.pixiv.net/img/hajime-ill-1st/20757750.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/456/a6fee1b5b529af491699296dee2572ccd3fc3252.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1694,
+  "que_es": "Fan art de agumon (http://img20.pixiv.net/img/nijiirosekai/12253862.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1033/60746bdf3cccac6e8da365d46b2a0ba9c9303db9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Fan art de gabumon (http://i2.pixiv.net/img40/img/ayamezqq/37478771.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/865/518cf893c91845a5f0f48932be71cae85636808a.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1000,
+  "que_es": "Fan art de takenouchi_sora (http://i2.pixiv.net/img30/img/dreamearth/28544789.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3054/fe465ebbec50aebc0400f259b5d1c8cbb62033d3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 826,
+  "alto": 1748,
+  "que_es": "Fan art de takenouchi_sora (https://maro05.tumblr.com/post/154787030697)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1075/ea096955496462a6ec370c1eaaa28d436f5f330c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1071,
+  "alto": 895,
+  "que_es": "Fan art de takenouchi_sora (http://i2.pixiv.net/img42/img/temk/37456629.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3196/b8f9db7dd75d01de1b563159e5b06c07cc4932ba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1270,
+  "que_es": "Fan art de angewomon (https://twitter.com/sinobali/status/1347211688966193152)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1323/c6b93ffec957ffcd266569934706d69e21bda7ba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2500,
+  "alto": 1642,
+  "que_es": "Fan art de angewomon (http://i3.pixiv.net/img-original/img/2014/11/10/01/13/07/47005790_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/755/c18adb63bc3520602a836a2decd445f84f61890b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Fan art de angewomon (http://img12.pixiv.net/img/nyoroko/5567677.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1445/2833dd1eb37ffb02889efd46da2f249488efcb89.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 591,
+  "alto": 886,
+  "que_es": "Fan art de angewomon (http://i1.pixiv.net/img-original/img/2015/06/11/18/10/43/50840684_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1269/d673c740663e2fbcdcec0b3a1a525c9c9e7830a8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 1300,
+  "que_es": "Fan art de yagami_hikari (http://i1.pixiv.net/img65/img/superhamasuke/46022853.jpg?1410888624)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/985/7b8ab5a0dd3c5c945c393f00f4d9d545f83cbdbd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 1500,
+  "que_es": "Fan art de yagami_hikari (http://i1.pixiv.net/img35/img/puru0083/33919420.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/964/974f70f5894bde132840c639d1318204bd492147.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 720,
+  "que_es": "Fan art de tailmon (http://i1.pixiv.net/img117/img/coco6_n/32604378.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1593,
+  "que_es": "Fan art de tailmon (https://x.com/doremifaso64/status/2051643073260892442)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3867/c547182c5df74b3672bb7ed0c54ea35878253a25.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1515,
+  "que_es": "Fan art de tachikawa_mimi (https://twitter.com/Kukakooo/status/1528119165734817802)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xlo5o.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (cartoon, 1990s, animated series, TV series, SpongeBob SquarePants, The Simpsons)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Nosing; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8c960d46fc134612ab4b286788de9d45",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Botamon de Mega_Jimjims",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f21943825c894720b1f244fe9b00a14f",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: PC Computer - Digimon Masters - BlitzGreymon de Elpaput",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b7e085ea1b2c44b9a97d8b127b921ae9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Terriermon de Joel Wood",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fde9375d74144981b503c8474597026d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Botamon_Happy de Mega_Jimjims",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a5680622539345a9a0471682e5498d40",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Agumon de AndriyVladykin",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-94f00275d03f4eca82dcf1c88d1d688a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Greymon - Digimon de McNaught Design",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e3c40eec7aea44ad9bbf438612bb05ff",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Digimon Adventure Tag And Crest de TriumphantBass",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ab4b4b2df874430992709e5986415857",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: WarGreyMon de hdbanks1",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9926ba8c8bad4978b2a8b072c6094b4a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Agumon de hdbanks1",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341077183_e653baf8fb_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51340134422_a27633dbe9_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867570_7507d8b08e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1002,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867480_6d107c2dbb_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867700_876e88815e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341597154_ffd4b69f61_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341077408_5713aa442a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 788,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51340856696_7b09745464_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "Digimon! Digital monsters! Digimon are the Champions!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor moggymawee",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7037/6947883105_7b7717ebca_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Lillymon (Digimon)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor greyloch",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7244/7174205927_49d67060bb.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 379,
+  "alto": 500,
+  "que_es": "Demidevimon (full body)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor The Magic Tuba Pixie",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8348/8170609984_8b1e0c6646_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 685,
+  "alto": 1024,
+  "que_es": "Wizardmon",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor _casterclass",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3876/15127578107_a0b18d53df_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Digimon 'La llegada de Koromon' - 'Capitulo 00 - OVA 01'",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor Nick Fuentes",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7036/6917296453_a60bba0b20_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Angewomon (Digimon series)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor greyloch",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/49323740173_77f9145e89_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "20191223_Christmas_7652 crop Howie, James, Mel in Alpharetta, GA sRGB",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Dan Lundberg",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/751/22168147451_d39aa32dbf_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "IMG42_0793",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/723/21971044679_ef36d4e617_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "IMG42_0808",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/625/21971044159_f1cdbfa422_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "IMG42_0809",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5721/22131748556_2757f37905_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "IMG42_0806",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/833/39782045630_d52f89ea5d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 735,
+  "que_es": "20180414_Howie's 6th Bday_4635 crop sRGB",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Dan Lundberg",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48767031176_aba35f5b2f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 736,
+  "que_es": "デジタルモンスター/デジモン",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor esurientt",
+  "origen": "recolectar.py"
+ }
+]
