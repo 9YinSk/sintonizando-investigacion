@@ -1,5 +1,565 @@
 [
  {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Roxy Migurdia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rudeus Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Eris Boreas Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sylphiette",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ruijerd Superdia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206392-BKJ4J3S2FzpF.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ghislaine Dedoldia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88347-YtQTlChhN50m.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Paul Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187382-NBP6I5OKXHH9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Orsted",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Aisha Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179855-Tape2W456xwI.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Zenith Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186490-XcaRQQOOrSwX.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Elinalise Dragonroad",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137816-ub5QE86fHD3C.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shizuka Nanahoshi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179854-hgRPJ1646RIK.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Lilia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145458-JG4FkAjUjw2l.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Norn Greyrat",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186588-hooSSJ8S9Wcv.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kishirika Kishirisu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/b/b8/Screenshot_20260119_144921_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20260119 144921 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/46/Screenshot_20260119_142825_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20260119 142825 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/28/Screenshot_20260112_180150_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20260112 180150 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/58/Screenshot_20251121_120209_Anilab.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20251121 120209 Anilab.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/c5/Screenshot_20251121_120156_Anilab.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20251121 120156 Anilab.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/a/a6/Screenshot_20250925_110937_Anilab.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: Screenshot 20250925 110937 Anilab.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/48/MT-AN-S2-E24-PNG-52.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: MT-AN-S2-E24-PNG-52.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/0c/MT-AN-S2-E24-PNG-45.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: MT-AN-S2-E24-PNG-45.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/94/MT-AN-S2-E24-PNG-43.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: MT-AN-S2-E24-PNG-43.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/6/64/MT-AN-S2-E24-PNG-40.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rudeus Greyrat: MT-AN-S2-E24-PNG-40.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/00/Screenshot_20260119_144820_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260119 144820 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/f6/Screenshot_20260119_144808_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260119 144808 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/01/Screenshot_20260115_143442_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260115 143442 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/47/Screenshot_20260115_092049_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260115 092049 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/fd/Screenshot_20260115_090606_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260115 090606 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/3/3e/Screenshot_20260115_004621_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260115 004621 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/12/Screenshot_20260114_234350_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260114 234350 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/29/Screenshot_20260114_193520_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260114 193520 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/90/Screenshot_20260114_193231_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260114 193231 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/f9/Screenshot_20260114_130330_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Roxy Migurdia Greyrat: Screenshot 20260114 130330 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/13/Mushoten_06_05.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: Mushoten 06 05.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/e5/Mushoten_06_02.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: Mushoten 06 02.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/1d/MT-AN-S1-OVA1-PNG-14.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-OVA1-PNG-14.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/c2/MT-AN-S1-OVA1-PNG-13.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-OVA1-PNG-13.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/9d/MT-AN-S1-OVA1-PNG-12.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-OVA1-PNG-12.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/97/MT-AN-S1-OVA1-PNG-09.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-OVA1-PNG-09.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/6/62/MT-AN-S1-OVA1-PNG-02.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-OVA1-PNG-02.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/29/MT-AN-S1-E23-PNG-01.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-E23-PNG-01.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/c3/MT-AN-S1-E22-PNG-12.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-E22-PNG-12.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/f1/MT-AN-S1-E22-PNG-06.png",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Eris Greyrat: MT-AN-S1-E22-PNG-06.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/ca/Screenshot_20260119_143933_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260119 143933 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/ff/Screenshot_20260119_143355_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260119 143355 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/07/Screenshot_20260116_112820_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260116 112820 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/47/Screenshot_20260116_112808_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260116 112808 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/96/Screenshot_20260116_112613_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260116 112613 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/40/Screenshot_20260116_112247_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260116 112247 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/44/Screenshot_20260116_110531_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260116 110531 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/8/8e/Screenshot_20260115_151046_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260115 151046 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/13/Screenshot_20260115_151004_Gallery.jpg",
+  "fuente": "Fandom mushokutensei",
+  "ancho": 2340,
+  "alto": 1080,
+  "que_es": "Sylphiette Greyrat: Screenshot 20260115 151004 Gallery.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://safebooru.org/images/3959/0f019ffd0b62e7ba513da208cb7dd031be4c3ebc.jpg",
   "fuente": "Safebooru (fan art)",
   "ancho": 936,
