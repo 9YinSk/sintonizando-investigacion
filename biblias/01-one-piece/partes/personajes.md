@@ -49,11 +49,160 @@
 
 ### Punto 12 · Lo que el fandom ama, y qué NO hacer
 
-(pendiente)
+**Qué ya estaba bien en la biblia (§14):** el barril, el sombrero a Nami, «No pasó nada», el cartel feo de Sanji, Chopper y sus 1.000 berries, ドン!!, «No tengo pruebas…», «cabeza de epazote», nada de «nakama», Sanji sin manos, no mezclar épocas, sin Gear 5. **Lo confirmo todo.** Abajo va lo nuevo.
+
+**Lo que el fandom ama (nuevo):**
+- **Luffy «rechaza tu rechazo».** Cuando alguien le dice que no, lo sigue tratando como si ya fuera de la tripulación, «para fastidio de todos»; **pero nunca obliga a nadie**: se une quien se convence por sus propias razones. Y cuando Luffy decide que alguien entra, **acaba entrando** · [wiki, «Straw Hat Pirates/Recruitment»](https://onepiece.fandom.com/wiki/Straw_Hat_Pirates/Recruitment) + ficha oficial de Luffy («自由すぎる性格で周囲を振り回す»: tan libre que arrastra a los demás) · ✅. **Es el chiste perfecto para #bienvenidas**: «¡Ya eres de la tripulación!» es muy de Luffy.
+- **Luffy invita a cualquier cosa rara** (un reno que habla, un esqueleto, unas piernas sueltas de samurái…) y **la tripulación le grita que pare** · misma página de la wiki · ⚠️ una fuente.
+- **Hay un «proceso» de fichaje que el fan reconoce**: Luffy invita → le dicen que no → pelean juntos contra un malo → se cuenta el sueño del nuevo → dice que sí y **su gente lo echa al mar con cariño para que cumpla su sueño** · wiki (Recruitment) · ⚠️. Encaja con un canal de bienvenida: el que entra trae un sueño.
+- **Usopp no se une: Luffy da por hecho que viene**; y **Robin se invita sola** («Déjame unirme a tu tripulación», ep. 130, ya mirado en §12) · wiki (Recruitment) + clip del ep. 130 · ✅.
+- **Luffy llama a los suyos por su nombre y a todos los demás por un apodo**: a Law, «**Torao**» (トラ男); a Boa Hancock, «**Hamaca**» (ハンモック); a Smoker, «Kemurin»; a Crocodile, «Cocodrilo» (ワニ); a Buggy, «nariz roja» · [Hebochans, 104 apodos de Luffy](https://hebochans.com/one-piece-nickname-luffy/) (japonés) + wiki («Tora-o», [Luffy/Misc.](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Misc.)) · ✅ Torao; ⚠️ los demás (una fuente). Los apodos latinos no los comprobé ⚠️.
+- **Zoro y Sanji nunca se llaman por su nombre.** Sanji a Zoro: «marimo» (bola de musgo) → en latino, «**cabeza de epazote**». Zoro a Sanji: «cocinero pervertido» (エロコック), «cejas de diana», «Mr. Nariz Sangrante» (tras la Isla Gyojin) y, tras Wano, «**el cuarto**» (su recompensa es la 4.ª del barco) · [wiki, Zoro: relaciones](https://onepiece.fandom.com/wiki/Roronoa_Zoro/Personality_and_Relationships) + [wiki, Sanji: relaciones](https://onepiece.fandom.com/wiki/Sanji/Relationships) · ✅ (y «epazote», ✅ en §10.1).
+- **Las mentiras de Usopp se vuelven verdad**: el pez de oro gigante, el país de enanos, el dragón, el Cerbero, los 30 millones de recompensa… La wiki lleva **una tabla** con cada mentira y el capítulo en que se cumple · [wiki, Usopp/Misc.](https://onepiece.fandom.com/wiki/Usopp/Misc.) · ⚠️ una fuente. También sus clásicos: **«tengo 8.000 seguidores»** (cap. 72) y la **«enfermedad de no-puedo-entrar-en-esta-isla»** · wiki (Usopp/Misc. + «Mythbusters») · ⚠️.
+- **Chopper, confundido con un tanuki** («mapache» en muchas traducciones; se enfada muchísimo: «¡Soy un reno!») y **Chopper gritando «¡Un médico! ¡Un médico!» hasta que se acuerda de que el médico es él** · [wiki, Chopper: personalidad](https://onepiece.fandom.com/wiki/Tony_Tony_Chopper/Personality_and_Relationships) + [Chopper (página principal)](https://onepiece.fandom.com/wiki/Tony_Tony_Chopper) · ✅. Cómo lo dice el doblaje latino: no lo comprobé ⚠️.
+- **Los chistes de calavera de Brook**, textual en latino: «Mis ojos sólo son para las mujeres hermosas. **Pero como ven, ya no tengo ninguno.** ¡Yohohoho!» · muestra «Brook 1» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece) pasada por voz.py (0:23-0:30) + ficha oficial («自虐的なスカルジョークを得意とする») · ✅.
+- **Franky y su «¡SUPER!»** con su pose (antebrazos enormes juntos, con **las estrellas azules tatuadas**; la forma exacta de la pose es de memoria ⚠️) · [ficha oficial](https://one-piece.com/character/franky/index.html) («口グセは「スーパー!!」») + [wiki](https://onepiece.fandom.com/wiki/Franky/Personality_and_Relationships) · ✅. Grita también «¡Aow!» cuando presume · wiki · ⚠️.
+- **Nami le pega a Luffy aunque es de goma.** Un lector preguntó cómo; Oda: «**Nami le pega al alma**» · wiki (Nami/Misc., SBS 43) · ⚠️ una fuente. Los chichones son parte del chiste.
+- **Sanji «se derrite» con las mujeres** («Nami-swaaan», «Robin-chwaaan», «¡Mellorine!») · wiki (Sanji/Misc. + Robin: relaciones) · ✅.
+- **Oda y su SBS**: el fandom adora la sección de preguntas del final de cada tomo; de ahí salen casi todos los datos del punto 20 (cumpleaños, comidas, olores). Oda también **esconde el secreto final**: en marzo de 2026 escribió qué es el One Piece en un papel, publicó la mitad de arriba en los periódicos y **hundió la otra mitad en el mar en un cofre** hasta que acabe la serie · [one-piece.com, 4-mar-2026](https://one-piece.com/news/78258/index.html) + [MANTANWEB](https://mantan-web.jp/article/20260303dog00m200047000a.html) · ✅.
+
+**Qué NO hacer (nuevo):**
+- **Llamar a Zoro «vicecapitán» o «primer oficial».** Oda (SBS del tomo 102) dice que es **el «número 2»**, pero no vicecapitán; su puesto es «combatiente» (戦闘員). La serie de Netflix sí lo llama *first mate* · [wiki, «Mythbusters»](https://onepiece.fandom.com/wiki/Mythbusters/Misunderstandings_and_Misinformation) + ficha oficial («麦わらの一味 / 戦闘員») · ✅.
+- **Poner a Luffy pensando.** Oda: Luffy dice lo que piensa, por eso **casi no tiene globos de pensamiento** (SBS del tomo 54) · wiki («Mythbusters» + Luffy/Misc.) · ⚠️ una fuente. **En la lámina, Luffy grita o habla; nunca «pienso que…».**
+- **Que Luffy le ponga apodo a un compañero.** A los suyos los llama por el nombre (ver arriba). Al recién llegado le diría su nombre o «¡oye, tú!», no un mote.
+- **Robin gritando o pegando.** «A diferencia de Nami, **Robin nunca grita** a sus compañeros ni les pega» · [wiki, Robin: personalidad](https://onepiece.fandom.com/wiki/Nico_Robin/Personality_and_Relationships) + ficha oficial («常に沈着冷静»: siempre serena) · ✅. **La que regaña es Nami.**
+- **Brook grosero o tuteando.** Habla siempre con cortesía («-san»; en latino, «**Disculpen**», «**siéntanse en casa**», «¿quieren una tacita de café?») · wiki + muestra «Brook 1» · ✅. Y **su chiste de «¿me enseña sus bragas?» no va en una lámina de bienvenida** (recomendación mía: el servidor es para todas las edades).
+- **Luffy matando o amenazando de muerte.** Oda (SBS del tomo 4): Luffy no mata; **que el malo viva y vea su sueño roto** es peor castigo · wiki (Luffy/Misc.) · ⚠️ una fuente.
+- **Decir que la tripulación son 9.** **Desde Wano son 10**: Jinbe es el n.º 10 (SBS 40, 59; ficha de Animate Times) · ✅. En un cartel de «la tripulación», que no falte Jinbe.
+- **Meter a Law, Carrot o Vivi como Sombrero de Paja.** Law es aliado (su propia tripulación, los Heart); Carrot viajó con ellos un arco; Vivi es un caso discutido (el Vivre Card la llama «ex miembro», su número es 5,5) · wiki («Mythbusters», SBS 76) · ⚠️. Como guiño, bien; como tripulante, no.
+- **Nombres de la versión de 4Kids** («Ruffy», «Gran Línea», «mora» por berry): el fan latino actual los ve como la versión vieja y cortada · §10 de la biblia · ✅.
+- **Escenas tristes en la bienvenida.** Las que más hacen llorar (el funeral del Merry, la muerte de Ace; ver punto 21) **son despedidas**: no para #bienvenidas.
+- **Poner «Roronoa Zoro» en un texto latino**: el doblaje dice **«Zoro Roronoa»** (§10.1). En la etiqueta de un cartel WANTED, en cambio, vale como el anime.
 
 ### Punto 13 · Descripción profunda y cómo se expresa cada uno
 
-(pendiente)
+**Qué ya estaba bien en la biblia (§9):** carácter de Luffy, Zoro, Nami, Sanji y Chopper (fichas oficiales + wiki), sus poses con número o minuto, su vestuario, y Robin y Law en corto. Lo confirmo. **Faltaban:** Usopp, Franky, Brook y Jinbe; qué teme cada uno, con quién se lleva y cómo; cómo se enfada, cómo explica y cómo saluda; y **cómo suena la voz latina, medida**. Va aquí.
+
+#### Cómo suena cada voz latina (medida con `herramientas/voz.py`)
+
+Muestras de audio de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece) (25-35 s cada una, bajadas por su API), pasadas por `voz.py` (Whisper *small* + Praat). **Tono** = mediana de la voz; **rango** = de lo más grave a lo más agudo que alcanza, en semitonos (más = más expresiva); **velocidad** = palabras por segundo. ⚠️ Son montajes con música y, a veces, otra voz que contesta: las cifras sirven **para comparar entre ellos**, no como valor exacto.
+
+| Personaje (voz) | Tono | Rango | Velocidad | Qué quiere decir |
+|---|---|---|---|---|
+| Luffy (Mireya Mendoza, «Luffy 1» y «2») | 237-257 Hz, agudo | 14-24 st | **3,0-3,3 p/s, rápido** | Voz de chico, habla deprisa. |
+| Luffy (Desireé González, «Luffy 3») | **360 Hz, muy agudo** | **28 st** | 2,8 p/s | Más aguda y más expresiva que Mireya: el Luffy de gritos («¡Únete a nosotros!»). |
+| Zoro (Dafnis Fernández, «Zoro 1») | **116 Hz, grave** | **14 st, el más plano** | 2,9 p/s | Seco, sin subir ni bajar: el que menos se emociona. |
+| Zoro (Gabriel Basurto, «Zoro 2.1») | 116 Hz, grave | 21 st | 3,2 p/s | Mismo tono, algo más vivo. |
+| Nami (Gina Sánchez) | **410 Hz, la más aguda** | 11 st | 2,8 p/s | Casi todo a gritos («¡Lárgate!»): alto y sostenido. |
+| Sanji (Noé Velázquez) | **111 Hz, el más grave** | **28 st** | 3,0 p/s | Grave pero se dispara al agudo cuando coquetea («Ah, amor infame…»). |
+| Chopper (Nallely Solís) | 358 Hz, muy agudo | 26 st | 3,1 p/s | Voz de niño, muy expresiva. |
+| Usopp (Alejandro Orozco, «Usopp 1» y «2») | 194-286 Hz | 22-25 st | 3,0 p/s | Sube y baja todo el rato: el cuentista. |
+| **Sogeking** (el mismo Orozco) | **128 Hz, grave** | 13 st | **2,1 p/s, el más lento** | **Usopp «se disfraza» bajando la voz y hablando despacio.** El chiste se mide. |
+| Robin (Kerygma Flores, «Robin 1.1» y «3.1») | 122-171 Hz, **grave para una mujer** | 14-22 st | **2,2-3,0 p/s, la más lenta** | Tranquila, explica sin prisa. |
+| Franky (Manuel Campuzano, «Franky 1» y «2») | 125-176 Hz | 13-19 st | 2,3-3,0 p/s | Grave y marcado, de showman. |
+| Brook (Óscar Flores) | 263 Hz | **30 st, el más expresivo** | 3,1 p/s | Del susurro educado al falsete de su «¡Yohohoho!». |
+
+- Fichas y transcripciones en `/tmp/claude-0/trabajo/01-personajes/voz/<muestra>/` (`ficha_voz.json`, `transcripcion.txt`).
+- **Para la lámina y el bot:** los textos de Luffy, Nami y Chopper van con **mayúsculas y ¡!** (voces agudas y a gritos); los de **Zoro, Robin y Sanji, en frase corta y sin exclamaciones** (voces graves y calmadas). Sanji sólo se exalta con las mujeres.
+
+#### Cómo se presenta cada uno en latino (lo que sirve para #bienvenidas)
+
+Textual, de las muestras de Doblaje Wiki (segundo dentro de la muestra). Nombres propios corregidos a mano.
+
+| Quién | Cómo se presenta | Muestra | Estado |
+|---|---|---|---|
+| Brook | «**¡Hola! ¿Cómo están?** ¡Yohohoho! Disculpen si los asusté… **Mi barco es su barco, siéntanse en casa.** ¿Quieren una tacita de café?» | «Brook 1», 0:00-0:22 | ✅ (ya en §10.1 + Whisper *small*) |
+| Brook | «Mis ojos sólo son para las mujeres hermosas. **Pero como ven, ya no tengo ninguno.** ¡Yohohoho!» | «Brook 1», 0:23-0:30 | ⚠️ una transcripción (*medium* pendiente) |
+| Usopp | «**Yo soy Usopp, el líder de un gran barco pirata que gobierna el Mar del Este.** La tripulación me elogia y me respeta. **Me llaman el gran y máximo Capitán Usopp.**» | «Usopp 2», 0:13-0:24 | ✅ (Whisper *small* y *medium* coinciden) |
+| Usopp | «¡Eso es mentira!» · «¡Yo soy Usopp! Es un placer.» | «Usopp 1», 0:13 y 0:34 | ✅ (la segunda ya en §10.1) |
+| Sogeking | «Déjenme ir con ustedes, mi nombre es… **¡Sogeking!**» | «Sogeking», 0:00-0:04 | ⚠️ una transcripción |
+| Nami | «Yo soy una estafadora que le roba a los piratas. **Mi nombre es Nami.** Oye, ¿no quieres unirte a mí?» · «Si quieres, yo puedo invitarte a comer algo.» | «Nami», 0:03-0:12 | ✅ sentido (§10.1) · la frase de la comida, ⚠️ |
+| Zoro | «**Soy Zoro Roronoa.**» · «¡Cállate y dámelo!» | «Zoro 1», 0:00 y 0:26 | ✅ / ⚠️ |
+| Sanji | «**Me llamo Sanji, soy cocinero** en un barco restaurante llamado Baratie.» · «Ah, sabio mar, gracias por la casualidad de hoy.» | «Sanji 1», 0:00 y 0:16 | ✅ / ⚠️ |
+| Robin | «**Yo soy Nico Robin, soy arqueóloga.**» · «Sí, consumí la fruta **Flor Flor**.» | «Robin 1.1», 0:00 y 0:07 | ⚠️ (*medium* pendiente) |
+| Franky | «**Soy el más genial aquí.** … Las personas me dicen… ¡**Franky**!» | «Franky 1», 0:08-0:20 | ⚠️ (*medium* pendiente) |
+| Chopper | «Me convertiré en un médico que cura lo que sea… **Voy a ser pirata, me voy a ir con ellos.**» | «Chopper 1», 0:11-0:22 | ✅ (§10.1) |
+| Luffy | «**¡Únete a nosotros!**» · «Tenemos que recuperar a nuestro compañero.» · «¡Sanji, prepara un almuerzo!» | «Luffy 3», 0:11-0:22 | ✅ (§10.1) |
+
+**Brook es el único que saluda literalmente** («¡Hola! ¿Cómo están?… siéntanse en casa»): **es el saludo perfecto para #bienvenidas**, dicho por la voz latina.
+
+#### Los cinco principales: lo que faltaba
+
+**Luffy**
+- **Lo que le importa:** los compañeros son «su tesoro»; sabe que solo no navega · [ficha oficial](https://one-piece.com/character/luffy/index.html) · ✅.
+- **Lo que teme:** quedarse sin los suyos. Tras perder a Ace (Marineford) entra en un estado de rabia muy impropio de él; Jinbe y Rayleigh le hacen ver que **«aún tiene a sus compañeros»** · [wiki, personalidad](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Personality_and_Relationships) · ⚠️ una fuente.
+- **Con quién y cómo:** Zoro, su primer compañero y en quien más confía (ficha de Zoro: «ルフィが絶大な信頼を寄せる剣士») ✅; Shanks, su ídolo, dueño del sombrero ✅; Ace y Sabo, hermanos ✅ (wiki); Usopp y Chopper, **sus compañeros de travesuras**: Nami los regaña a los tres (ficha oficial de Usopp) ✅.
+- **Cómo habla:** frases cortas, sin pensarlo: **es el que menos globos de pensamiento tiene** (Oda, SBS 54) · wiki · ⚠️. A los suyos los llama **por su nombre**; a los demás, por apodos (punto 12).
+- **Cómo se enfada:** cuando tocan a un amigo; pelea, pero **no mata** (SBS 4) · wiki · ⚠️.
+- **Cómo se ríe:** «Shishishi» (§9, ✅).
+- **Cómo saluda:** no saluda: **invita** («¡Únete a nosotros!»), y si le dicen que no, **sigue como si fuera que sí** (punto 12) ✅.
+
+**Zoro**
+- **Carácter (ficha oficial):** «**de jefe y leal** (親分肌で義理堅く), se lanza por los suyos; **le gusta la adversidad** (逆境を好み)»; **«el pilar del barco»** que, cuando toca, **pone serio a Luffy** · [ficha](https://one-piece.com/character/zoro/index.html) · ✅ (y wiki).
+- **Su orgullo cede por Luffy:** para ser fuerte a su lado, **se arrodilla ante Mihawk**, su rival, y le pide que le enseñe · ficha oficial · ✅.
+- **Cómo regaña:** cuando Usopp deja el barco, Zoro **no le deja volver sin que se disculpe**: «si quiere volver, que pida perdón» · [wiki, relaciones](https://onepiece.fandom.com/wiki/Roronoa_Zoro/Personality_and_Relationships) · ⚠️. **Es la voz de las reglas**, la de «al quedarte, las aceptas».
+- **Con quién:** Kuina (la promesa), Mihawk (el maestro al que quiere superar), Sanji (rival: nunca por su nombre, punto 12), Nami (dice que no le importa y la protege; ella **le cobra el triple de intereses** por 100.000 berries que le devolvió el mismo día, Whisky Peak) · [wiki, relaciones](https://onepiece.fandom.com/wiki/Roronoa_Zoro/Personality_and_Relationships) · ⚠️ una fuente.
+- **Cómo habla:** poco y seco; **la voz latina más plana** (14 st con Dafnis, arriba). Duerme o entrena: «espada, espada, fuerza, entrenar, dormir» (SBS 59).
+
+**Nami**
+- **Carácter (ficha oficial):** «**de las que ponen orden** (しっかりした性格), **la que junta a una tripulación de bobos** (ボケの多い一味のまとめ役)»; **con el dinero es implacable** y les da «**un castigo de martillo**» (鉄槌) a los que gastan · ✅.
+- **Cómo consigue lo que quiere:** «**habla bien y negocia**; usa **encantos y lágrimas falsas** (色仕掛けや泣きまね)»; «se queda lo que le den y **cobra hasta a sus compañeros**» · ficha oficial · ✅.
+- **Lo que teme:** su cobardía es **instinto de supervivencia** (a diferencia de la de Usopp, que es inseguridad) · [wiki, Brook](https://onepiece.fandom.com/wiki/Brook/Personality_and_Relationships) · ⚠️.
+- **Con quién:** Luffy (cuando habla de la tripulación, **lo nombra primero**: «Luffy y los demás»); Sanji (en japonés, **el único al que llama «-kun»**); Bell-mère y Nojiko (las mandarinas) · [wiki, relaciones](https://onepiece.fandom.com/wiki/Nami/Personality_and_Relationships) · ⚠️.
+- **Cómo explica:** manda, claro y corto; **la voz más aguda** del doblaje (410 Hz).
+
+**Sanji**
+- **Carácter (ficha oficial):** «**avispado: sus ideas sacan al barco de apuros muchas veces**» (気転がよくきき); caballero hasta morir; tras dos años en el reino sin mujeres, más débil con ellas · ✅.
+- **Lo que le hace enfadar de verdad: tirar la comida.** Casi muere de hambre en una roca con Zeff (85 días, ficha oficial); desde entonces **da de comer a cualquiera que tenga hambre**, aunque sea un enemigo (Gin), y pega a quien la desperdicia · ficha oficial + [wiki, personalidad](https://onepiece.fandom.com/wiki/Sanji/Personality) · ✅.
+- **Cómo habla:** en japonés dice «**kuso**» («de mierda») para todo, para insultar y para alabar («¡lo mejor de mierda!») · wiki · ⚠️. En latino: «**¡Maldición!**, ese cabeza de epazote…» (§10.1, ✅).
+- **Cómo coquetea:** «Nami-swaaan», «Robin-chwaaan», «¡Mellorine!»; en latino, poesía: «**Ah, amor infame. No puedo con este tormento.**» («Sanji 1», 0:21) ✅ (§10.1).
+- **Con quién:** Zeff, su «viejo» y maestro; Zoro (rival); Luffy, que fue a por él a Whole Cake · wiki · ✅.
+
+**Chopper**
+- **Carácter (ficha oficial):** «**muy curioso y muy franco; no duda de ninguna mentira**»; «si se hace el borde para disimular, su cara lo delata»; «**lucha aunque tenga miedo**» · ✅.
+- **Lo que le hace enfadar: que se juegue con una vida.** «Como médico, no perdona que se tome la vida a la ligera» (命を軽視するような行為は絶対に許せない) · ficha oficial · ✅.
+- **Lo que teme:** que lo traten de **monstruo** (así lo trataban hasta Hiluluk) · ficha oficial · ✅.
+- **Con quién:** Hiluluk (nombre y sombrero), Kureha (su maestra), **Usopp** (se cree todas sus historias; Usopp se hacía llamar «Capitán Usopp» para impresionarlo) · wiki · ✅; Luffy (juegan juntos).
+- **Manías:** **quiere meter algodón de azúcar en los sándwiches** (ficha oficial ✅); habla con los animales (ficha oficial ✅).
+
+#### Los que faltaban en la biblia: Usopp, Franky, Brook y Jinbe
+
+**Usopp — el tirador (19.º mundial en 2026; 10.º en Latinoamérica)**
+- **Carácter:** «**miedoso y negativo**»; se rompe a menudo, **pero saca valor** y se acerca «paso a paso» a ser «un valiente guerrero del mar» · [ficha oficial](https://one-piece.com/character/usopp/index.html) · ✅. Tan negativo que **el poder de Perona («¡negativo!») no le hace nada**: «ya soy negativo» · [wiki, personalidad](https://onepiece.fandom.com/wiki/Usopp/Personality_and_Relationships) + ficha oficial · ✅.
+- **Es «el que anima el barco»** (ムードメイカー): el más ruidoso; con Luffy y Chopper se pasa de la raya y **Nami les corta** · ficha oficial · ✅.
+- **Lo que teme:** **ser una carga**. En Water 7, sentirse el débil del barco y perder el Merry lo llevan a **pelearse con Luffy** · wiki · ⚠️.
+- **Lo que le importa:** su padre, **Yasopp** (tirador de Shanks); Kaya; el **Going Merry**; los gigantes de Elbaph · ficha oficial + wiki · ✅.
+- **Cómo habla:** cuenta **bolas enormes** y se presenta a lo grande (arriba); pone excusas con enfermedades inventadas («no-puedo-entrar-en-esta-isla»). Sogeking: **otra voz, grave y lenta** (medida arriba); **Luffy y Chopper no se dan cuenta de que es él** (ficha oficial ✅). En japonés dice «ore»; como Sogeking, «watashi» (wiki ✅).
+- **Cómo explica:** como un cuentista: gestos grandes, historias. **Buen personaje para «explicar» en broma** («¡esto no es una mentira!»).
+- **Tiene mano:** inventa armas y arregló el barco hasta que llegó Franky · ficha oficial · ✅. Nariz de **13 cm** (SBS 102, wiki ⚠️).
+
+**Franky — el carpintero (29.º mundial)**
+- **Carácter (ficha oficial):** «**de corazón caliente, llorón y leal**» (情に厚くて涙もろく、義理堅い) y a la vez **exhibicionista y orgulloso de su bañador**; muletilla: «**¡SUPER!**» · ✅.
+- **Llora y lo niega:** se emociona con cualquier historia y **jura que no está llorando** · [wiki, personalidad](https://onepiece.fandom.com/wiki/Franky/Personality_and_Relationships) · ⚠️.
+- **Lo que le importa:** su **sueño es ver el fin del mar a bordo del barco que construyó** (el Thousand Sunny, de madera de Adam, como el de Roger); Tom, su maestro; Iceburg · ficha oficial · ✅.
+- **Cómo se porta:** el **«hermano mayor»** que entretiene a los pequeños sin perder de vista lo serio; **defiende a los perseguidos** (ficha y wiki) ✅. **Llama a Robin por su nombre completo, «Nico Robin»** · wiki · ⚠️.
+- **Manías:** **la bebida le cambia el carácter**: con cola, normal; con té, se vuelve un campesino de Kansai (wiki ⚠️). Dice que está fuerte «**esta semana**» (wiki ⚠️).
+- **Voz latina:** «¡Bien! **¡Prepárense, cobardes!**» · «**Tengo una sorpresita muy especial** que quiero que vean» (§10.1, ✅).
+
+**Brook — el músico (27.º mundial)**
+- **Carácter (ficha oficial):** «**alegre, vulgar y caballero**» (陽気で下品で紳士的); cuenta **chistes de calavera sobre sí mismo**; «tras 50 años solo en el mar» · ✅.
+- **Lo que le importa:** **la promesa a Laboon**, la ballena que lo espera; **cosas sencillas**: un gesto amable, compañía, el sol. **Lloró sólo por poder cenar con alguien** tras décadas solo · [wiki, personalidad](https://onepiece.fandom.com/wiki/Brook/Personality_and_Relationships) + ficha oficial · ✅.
+- **Lo que teme:** **fantasmas y zombis** (siendo él un esqueleto); **canta para no tener miedo** · wiki · ⚠️.
+- **Cómo habla:** **siempre cortés**, con «-san» y de «ustedes» incluso con enemigos (wiki ✅); en latino, «Disculpen», «siéntanse en casa» (muestra ✅). Risa: **«¡Yohohoho!»** (wiki, «Laughter Style» ✅; en latino suena «Yo-ho-ho-ho», muestra «Brook 1»).
+- **Soul King:** tras el salto es **estrella de rock con gira mundial** (ficha oficial ✅).
+- **Para #bienvenidas:** el anfitrión natural («¡Hola! ¿Cómo están?… siéntanse en casa»). Su afro, su bastón y la **taza de té** (SBS 40: huele a té).
+
+**Jinbe — el timonel (30.º mundial)** · sin ficha en one-piece.com
+- **Carácter:** **orgullo y honor**, humilde con su fuerza; calmado, pero **llora a gritos** cuando pierde a alguien (Ace, Fisher Tiger) · [wiki, personalidad](https://onepiece.fandom.com/wiki/Jinbe/Personality_and_Relationships) · ⚠️ una fuente.
+- **Cómo entró:** Luffy lo invitó en la Isla Gyojin; **no entró hasta cerrar cuentas con Big Mom y pedir permiso a su propia tripulación** · wiki (personalidad + Recruitment) · ✅. **Es el ejemplo de «entrar bien»**: con las cosas en orden.
+- **Con quién:** Luffy (lo salvó en Marineford); cuando oyó el sueño de Luffy, **se rió a carcajadas**: «me he metido en una tripulación con un capitán problemático; ahora es problema mío» · wiki · ⚠️.
+- **Cómo habla:** de señor mayor: en japonés **«washi»** (わし) · [manga-data, tabla de pronombres](https://manga-data.com/onepiece-50/) · ⚠️; risa **«Wahaha»** · wiki («Laughter Style») · ⚠️. Es **el padre** de la familia (SBS 99).
+
+#### Secundarios más queridos (lo que faltaba)
+- **Ace** (7.º mundial 2026): hermano de Luffy; **se duerme de golpe, incluso comiendo** (clip latino del ep. 94: «¡Ay, no puede ser! Me dormí.», §10.1 ✅); **mucho más educado que Luffy** (se lo enseñó Makino; la tripulación dudaba de que fueran hermanos) · [wiki](https://onepiece.fandom.com/wiki/Portgas_D._Ace) · ⚠️. Su muerte es **la escena que más hace llorar** (punto 21).
+- **Shanks** (8.º mundial, 4.º en Japón): **perdió el brazo por salvar a Luffy** y le dejó el sombrero (ficha oficial de Luffy ✅); risa «**Dahaha**» (wiki ✅); afición, vagabundear.
+- **Mihawk** (3.º en Japón, 7.º en Latinoamérica en 2026): el mejor espadachín del mundo, **maestro de Zoro** (ficha oficial de Zoro ✅); vino tinto y huerto (wiki ⚠️).
+- **Carrot** (9.ª en Latinoamérica en 2026, **5.ª en 2021**): la coneja *mink* de Zou; **por qué gusta tanto en la región no lo encontré** (ver «No encontré»).
 
 ### Punto 20 · Gustos y detalles (SBS, Vivre Card, databooks, wiki)
 
