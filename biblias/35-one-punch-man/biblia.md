@@ -360,7 +360,7 @@ Los enlaces exactos y medidos están en `referencias.json`.
   (*A Hero Nobody Knows*): aunque digan CC BY, son **extraídos**; sólo
   referencia (§4).
 - Arte de la **T3 con críticas de animación** (hay capturas-meme de
-  fotogramas feos, §14): usar los visuales, no fotogramas sueltos de la T3.
+  fotogramas feos, §19.2): usar los visuales, no fotogramas sueltos de la T3.
 - Fan art con **fan service** de Tatsumaki o Fubuki (abunda en Pixiv y
   Wallhaven): no encaja en el servidor.
 
@@ -577,7 +577,7 @@ ni la ñ**: descartada.
   Saitama.
 - Textos largos en Anime Ace: **sin ¿ ni ¡**.
 
-## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
+## 7 · Cómo hablan y piensan en pantalla: el cuadro de diálogo
 
 > [!tip] En una línea
 > One Punch Man **no tiene una burbuja propia**: tiene **la ficha de
@@ -1056,7 +1056,7 @@ Danbooru las hermanas pesan mucho por el fan service (§14.2).
   **Tatsumaki** (la más dibujada). Para **reclutar u organizar**,
   **Fubuki** (2.ª en la encuesta oficial).
 
-## 10 · Doblaje latino
+## 10 · Doblaje latino y frases textuales
 
 ### 10.1 La producción ✅
 
@@ -1139,7 +1139,8 @@ Danbooru las hermanas pesan mucho por el fan service (§14.2).
   tabla de Doblaje Wiki pone Emmanuel Bernal y Miguel Ángel Leal. Manda la
   tarjeta.
 - Hay una **entrevista al reparto** de ANISON USA (citada en DW) y varios
-  saludos de Víctor Ruiz en convenciones (YouTube, §12).
+  saludos de Víctor Ruiz en convenciones (YouTube) ⚠️ no se pudieron ver:
+  YouTube bloqueado.
 
 ### 10.3 Frases del doblaje latino, textuales (con audio y segundo)
 
@@ -1568,7 +1569,7 @@ yellow jumpsuit, white cape, red gloves, red boots, black belt` ·
 `petite woman, curly green hair, black long dress with side slits,
 telekinesis, floating, green aura` · `green bicycle helmet, dark goggles,
 brown armor, black bodysuit, bicycle, rain`. Etiquetas de Danbooru que
-más se repiten (§29): *bald, cape, white_cape, red_gloves,
+más se repiten (Danbooru, `datos-imagen.md`): *bald, cape, white_cape, red_gloves,
 yellow_bodysuit, superhero_costume* · *black_sclera, yellow_eyes,
 mechanical_arms* · *green_hair, curly_hair, black_dress, side_slit,
 floating, telekinesis* · *helmet, goggles, armor, bicycle_helmet, rain*.
@@ -2001,7 +2002,8 @@ la propia wiki avisa de que **no son oficiales**.
   hace el malo.
 - ***Alien Conquerors*** (eps. 10-12): **Boros** invade; la Luna; el
   **Golpe Serio**. El clímax de la T1.
-- *King* (OVA / T2): el episodio de la **consola** con King.
+- *King* (ep. 13, el primero de la T2 contando seguido): puro alivio
+  cómico; la **consola** en el cuarto de King.
 
 **Saga del monstruo humano** (T2 y T3)
 - *Garou Introduction* → *The Blizzard Group* → *Hero Hunt* → *Monster
@@ -2012,10 +2014,6 @@ la propia wiki avisa de que **no son oficiales**.
 **Saga de los Neo Héroes** (sólo manga, sin animar)
 - *Psychic Sisters* → *Neo Heroes Introduction* → *Cruel Dragon* →
   *Ninjas* → *Supreme Hero* → *Neo Heroes Uprising* → *Robot Invasion*.
-
-⚠️ La parte de texto sitúa *King* en el «ep. 13»; la T1 tiene 12
-episodios y la T2 empieza en el 13: el arco sale en la frontera entre las
-dos (la wiki no lo aclara en la parte).
 
 ### 26.3 Emblemas, objetos y vocabulario
 
@@ -2054,16 +2052,302 @@ dos (la wiki no lo aclara en la parte).
 
 ## 27 · Tres conceptos de lámina
 
-(pendiente)
+Tres ideas distintas, cada una para un canal o sala (§0). Las tres siguen
+las reglas del dueño: objeto real en sitio real, pose que va con lo que
+dice, recortes por `v3/integrar.py`, textos cortos y tono de la serie
+(comedia seca con un toque épico, **sin sangre**).
+
+### A · #en-directo — «La tele de Saitama» (la propuesta)
+
+**Textos del canal** (`servidor/inventario.md`): «¿Estás haciendo algo
+ahora? Dilo aquí y quien quiera se mete a mirar.»
+
+- **El objeto y el sitio.** **La tele de Saitama sobre su mueble**, en **su
+  apartamento de noche**. En Blender: el [mueble de la tele](https://sketchfab.com/3d-models/saitamas-tv-stand-26a48b271e954fb1a033e235a365fcf8)
+  y el [apartamento](https://sketchfab.com/3d-models/saitamas-apartment-fa77fee855a0417dbf6ff1d16ec8c195)
+  (CC BY, §4.1). La pantalla, con material emisivo.
+- **En la pantalla, un fotograma** (regla 2): **Mumen Rider en guardia bajo
+  la lluvia** (T1-09, [3:08](https://www.dailymotion.com/video/x8rl50h?t=188))
+  o el [fotograma 1080p de Genos y Saitama](https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png).
+  Mejor el 1080p de la wiki: la copia de Dailymotion es de 512×288.
+- **El personaje.** **Saitama** (el principal), **tumbado en pijama**
+  mirando la tele, entre bolsas del súper (`escenas_01.jpg` #8; pose §15.1
+  #10). **Cara simple**: es el que «se mete a mirar». Detrás, en la cocina,
+  **Genos con delantal** (`escenas_01.jpg` #9) para dar fondo.
+- **Cómo habla.**
+  - Sobre la pantalla, **la ficha de héroe** (§7.4): banda negra inclinada
+    8-10°, dos filetes plateados, emblema alado desenfocado. Título en
+    amarillo `#FFF457` con borde negro (**Teko SemiBold**); rótulo gigante
+    gris `#636665` en cursiva detrás.
+  - Saitama, **un globo de manga** blanco, ovalado, de línea fina
+    (**Comic Neue Bold**), con una frase de menos de 20 palabras.
+- **Dónde va cada texto.**
+  - Banda de la tele: **«EN DIRECTO»**; rótulo gris detrás: **«EN VIVO»**.
+  - Debajo, en la banda: **«¿Estás haciendo algo ahora?»**
+  - Globo de Saitama: **«Dilo aquí.»**
+  - En el volante del súper sobre la mesa baja (papel de §5.2, letra
+    Passion One): **«Quien quiera se mete a mirar.»**
+- **Que no quede plano.** La **luz azulada de la tele** le da en la cara y
+  en la calva a Saitama (luz de borde); la cocina, **cálida**, al fondo;
+  **delante**, desenfocada, la **mesa baja** con una bolsa del súper y una
+  taza; por la ventana, el edificio de noche (`escenas_01.jpg` #7).
+- **Lámina 2**, si hace falta: cómo avisar de un directo, como un
+  **aviso de la Asociación** con Nivel de Desastre (§26.1) ⚠️ no vi en los
+  datos cómo es un aviso de desastre en pantalla: habría que buscarlo.
+
+### B · 🎲 Juegos (sala de voz) — «La consola de King»
+
+**Textos**: ⚠️ la sala no tiene descripción en el inventario. Propuesta,
+en la línea de #a-que-juegas («quién se apunta a una partida»): **«Sala
+de voz para jugar juntos»** y **«Entra y únete a la partida»**.
+
+- **El objeto y el sitio.** **La consola de King, en su cuarto**, con dos
+  mandos y la tele (§2 fila 16; `escenas_01.jpg` #24; wiki «King and Saitama
+  play video games»). En Blender: consola, cables y mandos (fácil,
+  objetos de caja).
+- **El personaje.** **King** (secundario querido, el farsante con
+  corazón), sentado con el mando, **cara que asusta** del visual T3
+  (`personajes_01.jpg` #20). A su lado, **Saitama** con cara simple. Es la
+  amistad más tranquila de la serie (§8.11).
+- **Cómo habla.** **El HUD del juego de 2020** (§13.1) en la pantalla de la
+  tele: **retratos redondos** con aro azul (King) y rojo (Saitama), barras
+  de vida, y el rótulo de pincel amarillo del «1 HIT». Letra **Teko** en
+  cursiva. Cerca de King, flotando, la onomatopeya del **King Engine** en
+  **Rampart One**: el chiste de que su «aura» es su corazón asustado.
+  ⚠️ La grafía exacta del sonido no está en los datos: copiarla del manga.
+- **Dónde va cada texto.**
+  - Cinta roja diagonal arriba (la de «HERO Creation»): **«JUEGOS»**.
+  - Entre las barras de vida: **«Sala de voz para jugar juntos»**.
+  - En el hueco del «1 HIT» amarillo: **«Entra y únete»**.
+- **Que no quede plano.** La **pantalla ilumina** a los dos desde delante
+  (luz fría); **delante**, desenfocados, latas y bolsas; King un poco más
+  cerca de la cámara que Saitama.
+- **Choque**: el encargo 29 propone **Ralph el demoledor** para esta sala.
+  Lo decide el dueño.
+
+### C · #reto-de-la-semana — «La carta de Mumen Rider»
+
+**Textos del canal**: «Un reto por semana: una línea, una escena, un
+tono. Se entrega dentro del hilo del reto. No se gana nada y esa es la
+gracia: es para grabar…». Etiquetas: Reto activo, Cerrado, Doblaje,
+Canto, Locución, Para empezar, Con trampa, Libre.
+
+- **El objeto y el sitio.** **La carta de Mumen Rider**: empieza una carta
+  larga a Saitama, **la tacha** y deja sólo «¡Gracias!!» (wiki; §7.1 C).
+  Aquí, la carta es el reto: **frases largas tachadas** y, sin tachar, lo
+  esencial. Va sobre la **barra del puesto** donde Mumen y Saitama comen
+  juntos (`escenas_01.jpg` #20) ⚠️ que sea el mismo puesto de oden de la
+  wiki es deducción. Fuera, **su bicicleta** bajo la lluvia. En Blender:
+  papel con dobleces y tinta que sigue la arruga.
+- **El personaje.** **Mumen Rider**, el que más emociona (§9, §22).
+  **Puño al pecho** (PV2 1:07, `escenas_01.jpg` #3; §15.4 #5), casco y
+  gafas, algo vendado. Saitama al lado, comiendo, cara simple.
+- **Cómo habla.** La **carta a mano** (**Kalam Bold**) con tachones; el
+  **rótulo de nombre** sencillo del PV2 (línea blanca fina y nombre
+  grande, `pantalla_01.jpg` #6) para el título; y un **globo de manga**
+  para Mumen (**Comic Neue Bold**).
+- **Dónde va cada texto.**
+  - Rótulo: **«RETO DE LA SEMANA»**.
+  - Carta, sin tachar: **«Una línea. Una escena. Un tono.»** y
+    **«Se entrega en el hilo del reto.»**
+  - Globo de Mumen: **«No se gana nada. Y aun así, hay que intentarlo.»**
+    ⚠️ adaptación nuestra de su frase en inglés («And yet, I have to
+    try»): no se pudo oír en latino.
+  - **Lámina 2**, las etiquetas como **Niveles de Desastre**: «Para
+    empezar» = Lobo, «Con trampa» = Dragón… (§26.1).
+- **Que no quede plano.** **Vapor** del puesto y **gotas de lluvia**
+  desenfocadas delante; luz **cálida** del puesto contra el **azul** de la
+  noche; la **bicicleta** mojada brillando al fondo.
+- **Choque**: #reto-de-la-semana ya lo piden **Naruto y Haikyuu**
+  (DECISIONES.md). Esta sería la tercera opción.
 
 ## 28 · Lo que no pude verificar
 
-(pendiente)
+**Para oír o ver en persona** (Netflix o Crunchyroll con doblaje latino):
+
+- Las frases de **Mumen Rider** en latino (T1-09): «Soy débil…», «y aun
+  así…», el grito del público. Sólo están en inglés.
+- «**Soy alguien que es héroe por diversión**» y «**OK**» en latino: sólo
+  de una recopilación no oficial.
+- De qué episodio sale cada **muestra de Doblaje Wiki** (el monólogo de
+  Saitama, el sermón de Sneck).
+- La **música** de la escena de Mumen (¿el tema de Saitama lento?).
+- **Caras sin fotograma**: rabia, tristeza y vergüenza de Saitama; alegría,
+  tristeza, miedo y vergüenza de Genos; alegría, miedo y vergüenza de
+  Tatsumaki; miedo y vergüenza de Mumen (§8).
+
+**Datos con una sola fuente o que chocan**
+
+- **Sneck**: Miguel Ángel Leal (parte de voz) o **Edson Matus** (AniList).
+- **Tanktop Tiger** y **Hammerhead**: actor sin segunda fuente.
+- **King (T3)** Héctor Estrada, **Garou (T3)** Óscar López, **Bang (T3)**
+  Salvador Delgado y **Boros** Dafnis Fernández: sólo Doblaje Wiki (§10.2).
+- **Endings de la T1 y la T2**: sólo Wikipedia.
+- Fin de **PUBG Mobile × OPM**: 19 o 20 de octubre de 2026.
+- La encuesta de **Dengeki Online (2025)** de la pasada antigua: sin
+  enlace guardado.
+- La versión exacta de la licencia CC BY de los modelos de Sketchfab.
+- ONE y Murata sobre Dragon Ball: una fuente cada uno.
+
+**Lo que no encontré** (con lo que se buscó, §29)
+
+- **Fandubs** y **covers** hispanos de One Punch Man con enlace y vistas.
+- **Caja de diálogo** del modo historia de *A Hero Nobody Knows*; interfaz
+  de *Road to Hero*; menú real de PUBG Mobile.
+- **Letra de los globos** de Ivrea o Panini.
+- **Fondos de pantalla oficiales** para descargar.
+- **Cumpleaños y comida favorita** oficiales (el *databook* no los trae).
+- **Mumen Rider en 3D** libre.
+- **Encuesta hispana** de personajes.
+- **Página de TCRF** de cualquier juego.
+- **TV Tropes**: existe, pero Cloudflare bloqueó los dos intentos.
+- **Un videoensayo** sobre la animación con minuto (todo en YouTube).
+- Cómo se ve en pantalla un **aviso de Nivel de Desastre** (para la
+  lámina 2 de §27 A).
+
+**Una corrección entre partes**: la parte de imagen escribió que la
+Asociación de Héroes «parece que no tiene» emblema. **Sí lo tiene**: el
+emblema circular alado (`Herobadge.png`), visto en el PV3 y en el juego
+(§7.1 A). Tampoco se debe escribir «no existe» sin pruebas (AYUDANTE.md).
 
 ## Cumplimiento del encargo
 
-(pendiente)
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | 2.002 imágenes de la wiki en 35 hojas; visuales T3, hojas de modelo T1, *databook*, 10.º aniversario, portadas; 3 hojas numeradas (§3) |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 23 escenas con episodio y minuto (§2). Minuto de **copias de Dailymotion** (512×288 reales), no del episodio; 1080p sólo en fotogramas de la wiki y el PV2. YouTube bloqueado |
+| 3 | Fan art y 3D con licencia | ✅ | apartamento y mueble de la tele en CC BY; 10 modelos de personaje con autor y licencia; fan art con origen (§4). Falta Mumen en 3D (no lo encontré) |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | 15 sitios con luz; paletas medidas con `estilo.py`; 6 texturas CC0 (§5) |
+| 5 | Tipografía: una letra para cada uso | ✅ | 10 usos con letra libre comprobada con fontTools (§6.2). ⚠️ la Italic de Comic Neue no se abrió; la letra de grito es propuesta; sin letra de Ivrea |
+| 6 | Cómo hablan en pantalla (cuadro de diálogo) | ✅ | la ficha de héroe del PV3 medida, cortinillas, papeles del mundo, manga, juegos (§7) |
+| 7 | Personajes y encuestas de popularidad | ✅ | encuesta oficial 2015, AniList, Danbooru, ranking interno (§8.1, §9). ⚠️ sin encuesta hispana; Dengeki 2025 sin enlace |
+| 8 | Doblaje latino y frases textuales | ⚠️ | reparto con dos fuentes por nombre (§10.2); 8 frases textuales de las muestras de Doblaje Wiki con `voz.py` (§10.3). Sin clips doblados oficiales: el tiempo es de la muestra, no del episodio; Sneck choca entre fuentes |
+| 9 | Música y sonido | ⚠️ | compositor visto en créditos; OP y ED de las 3 temporadas; canción de todo el reparto; efectos (§11). Endings T1-T2 con una fuente; el tema de la escena de Mumen no se confirmó |
+| 10 | Vídeos y tendencias con minuto | ⚠️ | 9 vídeos con minuto (§12). TikTok sólo por páginas de descubrimiento, sin vistas; sin videoensayo |
+| 11 | Videojuegos: interfaz, menús, diálogo | ⚠️ | 4 juegos con capturas y colores (§13). Ninguna **caja de diálogo** del modo historia; sin interfaz de *Road to Hero* ni de PUBG |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 10 cosas que todo fan reconoce y 11 «no hacer» (§14) |
+| 13 | Descripción profunda: qué transmite, cara en cada emoción, dinámicas | ⚠️ | 14 personajes; qué transmiten; tablas de caras; 12 dinámicas (§8). Faltan caras con fotograma (Saitama: rabia real, tristeza, vergüenza; Genos: 4; Tatsumaki: 3; Mumen: 2) |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Saitama 11, Genos 6, Mumen 6, Tatsumaki 5 (de arte oficial, no de vídeo) y tabla de qué pose para qué (§15) |
+| 15 | Vestuario con hex | ✅ | 20 hex medidos en visuales y hojas oficiales; ropa de casa y de calle (§16) |
+| 16 | Ciudades y fondos de pantalla | ⚠️ | sitios con luz (§5, §17); fondos de fans aptos con tamaño. **No encontré** una página oficial de fondos |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias; voz, frases reales por emoción y vocabulario de gestos (§18) |
+| 18 | Estilo, técnica, Photoshop, Blender y encuadres | ✅ | entrevistas primarias (Natsume, Kubota, Murata en japonés); receta de Photoshop y Blender; encuadres por emoción (§19) |
+| 19 | Texturas 2D | ✅ | trama medida; emblemas; 5 recursos libres (§20). ⚠️ licencia exacta de los packs de tramas por mirar |
+| 20 | Gustos y detalles | ✅ | 14 personajes del *databook* oficial (§21). El *databook* no trae cumpleaños ni comida: no se inventan |
+| 21 | Por qué la aman y escenas que hacen llorar o gritar | ⚠️ | razones con fuente, ventas y premios; 11 escenas (§22). Las del manga tardío no tienen minuto (sin animar); música de las escenas sin confirmar |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | **no encontré** fandubs ni covers con enlace; sí medios hispanos del doblaje y TikTok sin vistas (§23) |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | Fortnite, Overwatch 2, PUBG, exposición con café; 6 figuras; 5 cosplays con licencia (§24) |
+| 24 | Obras parecidas y láminas vecinas | ✅ | AniList, influencias de ONE y Murata, 5 láminas vecinas (§25) |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | 5 reglas, 4 sagas con sus arcos, emblemas, objetos y vocabulario (§26) |
+| 3 conceptos | Tres láminas distintas con canal | ✅ | #en-directo (propuesta, libre), 🎲 Juegos y #reto-de-la-semana, con choques anotados (§0, §27) |
+| 40 fuentes | Mínimo 40 fuentes distintas | ✅ | 55 webs enlazadas (unas 49 si se juntan subdominios) |
+| Tipos de fuente | Oficiales, idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | oficiales, japonés, inglés, Fandom, Doblaje Wiki, Reddit, Safebooru, Danbooru, Wallhaven, Sketchfab, ambientCG, Dailymotion, Internet Archive ✅. TV Tropes bloqueado; Wayback con errores; TCRF 0 resultados; **sin búsquedas en coreano o chino ni en GitHub** |
+| Hojas | 3 hojas de contacto de menos de 3 MB | ✅ | `personajes_01.jpg` (836 KB), `escenas_01.jpg` (649 KB), `pantalla_01.jpg` (490 KB), numeradas en §3.1 |
+| referencias.json | Todas las útiles, las mejores primero | ✅ | **227** referencias de las cuatro partes y `datos.json`, sin tope; primero las de la lámina (visual T3 de Saitama, hoja de Mumen, fotograma 1080p, apartamento y tele en 3D). Fuera: fan art de otras series, *collages* y fan service |
 
 ## 29 · Bitácora de búsqueda
 
-(pendiente)
+Junta las bitácoras de la pasada antigua y de las cuatro partes
+(`partes/*.md`). ✅ = confirmado con dos fuentes o visto; ⚠️ = dudoso.
+
+### 29.1 Recolector gratuito (`recolectar.py`, 24-sep-2026)
+
+AniList (ficha, personajes, staff, recomendaciones), Doblaje Wiki (ficha,
+reparto, 8 muestras de audio), wiki de Fandom (Saitama, Genos, Tatsumaki,
+Satoru), Danbooru (etiquetas y conteos), Safebooru, Wallhaven, Sketchfab,
+Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam y Reddit.
+**Falló**: AnimeThemes (HTTP 522). MusicBrainz devolvió bandas sonoras de
+otras obras: no se usó.
+
+### 29.2 Pasada antigua (arte, tipografía, cuadro de diálogo, doblaje)
+
+- `investigar_serie.py` sobre 26 páginas de la wiki: 2.002 imágenes, 35
+  hojas; 112 originales bajados y medidos con Pillow.
+- Web oficial japonesa (fichas, visuales T3, 10.º aniversario, SVG del
+  logo); V-STORAGE (exposición); Internet Archive (PV2 1080p de Turner).
+- **YouTube**: «429» y «confirma que no eres un bot» en más de 10
+  intentos espaciados. Plan B: copias en Dailymotion.
+- Letras abiertas con **fontTools** (Teko, Saira, Passion One, Russo One,
+  Anton, Bebas Neue, Dela Gothic One, Rampart One, Reggae One, Comic Neue,
+  Kalam, Permanent Marker, Oswald, Anime Ace, Black Han Sans).
+- Doblaje Wiki por la API y **tarjetas de créditos** del doblaje (T1-01,
+  T1-02, T2); TierraGamer, TVLaint, ANMTV.
+
+### 29.3 Imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- API de la wiki: búsquedas «Season 3 Hero Visual», «Saitama
+  costume/outfit/suit», «Hero Association emblem/logo», «Z-City», «Mumen
+  Rider anime»; `imageinfo` para medir (inglés).
+- `estilo.py` sobre 8 imágenes (visuales T3, hojas de modelo, Z-City,
+  apartamento, 2 páginas de manga).
+- API de Sketchfab (licencia de 4 modelos), Wallhaven (etiquetas una a
+  una), ambientCG (papel, placa metálica).
+- Buscador (inglés y español): tramas CC0; colaboraciones oficiales;
+  Overwatch 2; cafés temáticos; figuras de Good Smile.
+- Japonés: «ワンパンマン 壁紙 公式» (fondos oficiales): **no encontré**.
+- ⚠️ `character/inc_data.php` de la web oficial: 404 (un intento).
+
+### 29.4 Vídeo (puntos 2, 4, 9, 10, 14)
+
+- **Vistos** con `episodio.py` y `fotogramas.py` (Dailymotion): opening T1
+  (x7xerpa), Saitama vs. Boros (x9b8564), Saitama vs. Genos (x8raxsq),
+  tráiler T3 (x8tl06u). Resolución real 512×288 en los cuatro.
+- API de la wiki: «Z-City», «music soundtrack», «Genos sparring match
+  udon», «practice bout»; páginas «Saitama vs. Genos» y «Everyone's
+  One-Punch Song».
+- Internet Archive: `turner_video_135772` y `135773` (PV cortos).
+- `estilo.py` sobre 11 fotogramas y 2 imágenes de la wiki.
+- Buscador (inglés y español): openings y endings; Makoto Miyazaki; OP de
+  la T3; TikTok; tema de Mumen.
+- Wikipedia (T1 y T2) ✅; **TV Tropes «Awesome Music»: 403**.
+
+### 29.5 Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- 8 muestras de Doblaje Wiki transcritas con `voz.py` (Whisper, español).
+- Wiki en inglés: Personality, Appearance, Trivia y Relationships de 14
+  personajes; «First Manga Popularity Poll».
+- ~90 búsquedas de caras por emoción en el espacio de archivos de la wiki
+  (`srnamespace=6`), 24 candidatas miradas en 5 hojas propias.
+- `fotogramas.py` sobre x8rl50h (Mumen, 7 fotogramas con minuto).
+- Reddit por Arctic Shift: «cried», «goosebumps», «chills» (respondió),
+  «made me cry», «funniest», «identify»; varias con «Timeout».
+- Dailymotion (español e inglés): «one punch man fandub», «Saitama fandub
+  español», «one punch man fandub latino», «one punch man opening cover
+  latino»: **sin fandubs**.
+- Buscador: por qué gusta Saitama; Mumen favorito; ventas y premios;
+  reacciones al doblaje de la T3 (español).
+- **TV Tropes** (Characters): Cloudflare, dos intentos (directo y
+  Wayback, que dio error). **Wikipedia API**: límite de peticiones.
+- Know Your Meme: las dos páginas responden (200); el texto no carga.
+
+### 29.6 Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- API de la wiki: «Disaster Level», «Heroes/Hero Association», «Story
+  Arcs», «Mysterious Beings», «Z-City», «Heroes/Neo Heroes», «Blizzard
+  Group».
+- Buscador en inglés: técnica de Murata; estudio de la T3; CGI de la T2;
+  *rigs* en Sketchfab; TCRF; *OPM: World*; *toon shader* en Blender;
+  *The Strongest*; ONE y su estilo; Yutaka Nakamura; ONE y Dragon Ball;
+  Natsume; PUBG Mobile.
+- **Japonés**: «村田雄介 ワンパンマン 作画 ソフト クリップスタジオ
+  インタビュー» → Logmi Business y Yahoo!知恵袋.
+- **Español**: «One Punch Man Ivrea tomo interior scan globo letra»: sólo
+  fichas de venta.
+- Leídos: Yatta-Tachi (entrevista completa ✅). **Bloqueados**:
+  ask.clip-studio.com, tvtropes.org, el artículo de 2015 de ANN,
+  itechpost.com, cbr.com y screenrant.com por curl.
+- Steam (5 capturas miradas), Google Play (2), mobi.gg (2),
+  gamingonphone.com (1). **TCRF**: 0 resultados.
+
+### 29.7 Redactor
+
+- Leídas las cinco partes, las 674 líneas de la pasada antigua, el
+  encargo, `servidor/inventario.md`, las reglas del dueño y DECISIONES.md.
+  Comprobado en otras biblias qué canales están tomados (§0.2).
+- Sin búsquedas nuevas: todo sale de las partes y de la pasada antigua.
+
+### 29.8 Lo que no se buscó
+
+- **Coreano y chino**: ninguna búsqueda. ⚠️
+- **GitHub** (letras, extractores, subtítulos): ninguna. ⚠️
+- **Crunchyroll y Netflix**: no se usaron (regla del dueño).
