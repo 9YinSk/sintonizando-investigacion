@@ -88,10 +88,21 @@ partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md` y los
   §18.8, entre la guía para IA y los conceptos).
 - **Tabla «Cumplimiento del encargo»** antes de la bitácora, y un apartado
   de la segunda pasada en la bitácora.
-- `referencias.json`: de 35 a **todas las útiles de las partes**, con
-  tamaños medidos, las mejores primero.
+- `referencias.json`: de 35 a **183**, todas las útiles de las partes y
+  del recolector, con tamaños medidos (108 con ancho y alto), las mejores
+  primero. Se quitaron los enlaces a páginas cuando había la imagen
+  directa, y lo que no era de la serie (juegos de Steam con «Stone» en el
+  nombre, fotos de otras cosas).
+- **Gen**: su cicatriz cambia con lo que hace, su ropa de día es una
+  túnica lila (a ojo en las hojas, sin medir ⚠️) y **en latino habla
+  normal**, sin la jerga al revés (Doblaje Wiki).
+- **Popularidad fuera de Japón**: en AniList y en los premios de
+  Crunchyroll gana **Senku**; en las encuestas de Jump, **Gen** (§9).
+- «Tratamiento acústico: no existe en la serie» → «**no la encontré**» en
+  los subtítulos (el encargo manda: nunca «no existe»).
 
-**Los ⚠️**: había **96**; el recuento final está al pie de la tabla de
+**Los ⚠️**: había **96**. Se resolvieron unos 25; el total sube porque se
+añadió mucho dato nuevo con una sola fuente. Detalle al pie de la tabla de
 cumplimiento.
 
 ---
@@ -2281,7 +2292,7 @@ Estado tras la 2.ª pasada. ✅ hecho · ⚠️ a medias · ❌ no hecho.
 
 **Los ⚠️ del texto**: la 1.ª pasada tenía **96**. Se resolvieron unos 25
 (fotos, colores, licencias, música, estudio y directores del doblaje,
-Tsukasa, caja del juego). El total sube a más de 160 porque la 2.ª pasada
+Tsukasa, caja del juego). El total sube a 180 porque la 2.ª pasada
 **añadió mucho dato nuevo** y marca con ⚠️ todo lo que tiene una sola
 fuente (sobre todo el reparto secundario del doblaje y los cafés). Lo que
 el dueño tendría que oír o ver: frases latinas con minuto, la ropa de Gen
