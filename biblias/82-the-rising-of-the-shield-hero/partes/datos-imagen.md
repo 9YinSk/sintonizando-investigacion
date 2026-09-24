@@ -4,13 +4,67 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/99263_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/99263-IwkmdCTsDY1t.jpg
+
+## Naofumi Iwatani: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://shield-hero.fandom.com/wiki/Naofumi_Iwatani_
+
+- 931×1395 · Naofumi Light Novel.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c0/Naofumi_Light_Novel.png
+- 718×1076 · Naofumi Manga.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/a/a5/Naofumi_Manga.png
+- 569×1035 · Naofumi Anime New.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/7c/Naofumi_Anime_New.png
+- 100×100 · Media Icon WN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/4f/Media_Icon_WN.png
+- 100×100 · Media Icon SO.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/0/0e/Media_Icon_SO.png
+- 100×100 · Media Icon LN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/a/a2/Media_Icon_LN.png
+
+## Naofumi Iwatani · Appearance (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Naofumi_Iwatani#Appearance_
+
+Naofumi has short black hair that spikes in all directions and sharp green eyes. He often wears a scowl on his face because of his cynical outlook towards the world, but he does express gratitude from time to time. The armor he primarily wears is Barbarian Armor +3, which has gone through numerous upgrades and transformations. Depending on the situation, he may switch to different sets of armor or clothing. The weapon in his possession is the Legendary Shield, which was granted to him when he was summoned to another world.
+
+## Raphtalia: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://shield-hero.fandom.com/wiki/Raphtalia_
+
+- 1531×2298 · Raphtalia Miko.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/0/05/Raphtalia_Miko.png
+- 1072×1610 · Raphtalia Manga.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/b/b5/Raphtalia_Manga.png
+- 517×948 · Other 9.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/71/Other_9.png
+- 488×938 · Raphtalia Anime.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/95/Raphtalia_Anime.png
+- 100×100 · Media Icon WN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/4f/Media_Icon_WN.png
+- 100×100 · Media Icon LN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/a/a2/Media_Icon_LN.png
+
+## Raphtalia · Appearance (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Raphtalia#Appearance_
+
+Raphtalia is a young girl with auburn hair, two locks of hair extending down on her chest, and pinkish-red eyes. Being a demi-human with racoon/tanuki ancestry, she has fluffy, red tanuki ears and a bushy tail. She takes after her father in having a lean build, but she has grown slightly muscular from the demanding life of an adventurer. Over time, Raphtalia's appearance has changed significantly. When she was first introduced, she was a young, sickly, petite child dressed in rags with an unkempt appearance. However, after she met Shield Hero, Naofumi, he was able to improve her health and provide her with a suitable set of clothes for adventuring. After several weeks adventuring with Naofumi, Raphtalia started increasing her level. Being a demi-human, this accelerated her aging until she was a young adult, eventually giving her a curvaceous body. During this time, Raphtalia switched…
+
+## Filo: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://shield-hero.fandom.com/wiki/Filo_
+
+- 1125×1600 · Filo Filolial Queen.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c4/Filo_Filolial_Queen.png
+- 1056×1583 · Firo Light Novel.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/92/Firo_Light_Novel.png
+- 492×738 · Filo Anime.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/7b/Filo_Anime.png
+- 484×727 · Filo Manga.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/f/f1/Filo_Manga.png
+- 100×100 · Media Icon WN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/4f/Media_Icon_WN.png
+- 100×100 · Media Icon LN.png · https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/a/a2/Media_Icon_LN.png
+
+## Filo · Appearance (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Filo#Appearance_
+
+Filo's appearance has changed many times, depending on her form. ===Filolial Form=== When Filo was born, she was a small, pink chick who looked to be about the size of an average chick. After a day, and some leveling, she had grown to the size of a steamed bun. Filo's third appearance change would be to that of a small, baby ostrich, not quite large enough to ride on, but definitely larger than her two prior forms. Filo would then grow into her fourth beast transformation, which was the size of a normal ostrich, and she was now capable of being ridden. It should also be noted that Filo's feathers had started to turn into a much lighter shade of pink than in her prior forms, and were beginning to turn white. Filo's last and most current form is larger than an ostrich and resembles an owl. Her feathers are also almost completely white aside from a small ruffle on her abdomen and some…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de shield-hero.fandom.com (3 páginas y sus galerías)…
+  718 imágenes enlazadas, 650 grandes → 14 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/the-rising-of-the-shield-hero
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
