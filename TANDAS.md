@@ -1,7 +1,7 @@
 # Tandas de investigación (de 4 en 4)
 
 En una sesión nueva en la nube, con este repositorio, pega la frase de la tanda.
-La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**.
+Desde el 24 de septiembre las series se hacen **en equipo** (`EQUIPO.md` y la skill `serie-en-equipo`): 4 investigadores y un redactor por serie, 2 series a la vez; donde la frase dice «un ayudante por encargo», vale el equipo.
 Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 ## Segunda pasada · red completa

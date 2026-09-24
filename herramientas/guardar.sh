@@ -21,6 +21,10 @@ guardar() {
     for f in "$d"/biblia.md "$d"/informe.md "$d"/referencias.json "$d"/recursos.json; do
       [[ -f "$f" ]] && git add -- "$f" && n=$((n+1))
     done
+    if [[ -d "$d/partes" ]]; then
+      while IFS= read -r -d '' p; do git add -- "$p"; done \
+        < <(find "$d/partes" -type f \( -name '*.md' -o -name '*.json' \) -size -3M -print0)
+    fi
     if [[ -d "$d/hojas" ]]; then
       while IFS= read -r -d '' h; do git add -- "$h"; done \
         < <(find "$d/hojas" -type f -iname '*.jpg' -size -3M -print0)
