@@ -404,7 +404,8 @@ dato"; lo saqué del wikitext de la Mafalda Wiki vía su API,
 "Mafalda serie Netflix primera imagen vestido lunares diseño personaje 2026" ·
 "\"Paseo de la Historieta\" Buenos Aires cuántas estatuas esculturas recorrido" ·
 "Susanita vestido negro Manolito Miguelito overol descripción personajes Mafalda" ·
-"estatua Mafalda Lima Perú parque ubicación".
+"estatua Mafalda Lima Perú parque ubicación" ·
+"Mafalda Fortnite OR videojuego colaboración skin gacha".
 
 **APIs usadas directamente (sin gastar cupo de buscador)**:
 - **Mafalda Wiki** (`mafalda.fandom.com/es/api.php`): `list=allpages` (41
