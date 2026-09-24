@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/99263_
@@ -250,6 +250,21 @@ _Fuente: https://doblaje.fandom.com/es/wiki/The_Rising_of_the_Shield_Hero#Datos%
 - Para el Rey Aultcray Melromarc XXXII en el doblaje se dejó como Basura, cuando en los subtítulos se usó Escoria.
 - En una entrevista hecha por la página Anison US vía Facebook , los actores del reparto revelaron que habían grabado 2 versiones con el nombre de Malty/Myne en su sentencia, la versión con el nombre Maldita/Meretriz que se usó en la versión final y una donde se usaba el de Perra/Zorra que usa los subtítulos.
 - Actualmente en la plataforma de Crunchyroll se actualizó la versión de la sentencia de Malty/Myne como Perra/Prostituta en vez de la anterior conocida que era Maldita/Meretriz.
+
+## Naofumi Iwatani · Personality (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Naofumi_Iwatani#Personality_
+
+=== Former === Naofumi was initially an exceedingly trusting and positive person - excited about being summoned as a hero. However, his mentality abruptly changed after Malty S Melromarc, the princess of Melromarc, betrayed and framed him. === Current === Being left near-penniless, falsely accused as a criminal, and hated by nearly everyone, Naofumi became extremely distrustful towards everyone and cynical about life. He could not trust anyone and started to assume that others were trying to get something from him. The result of the Princess's betrayal has left him in an almost permanent state of anger and hostility, which he masks behind a calm and level-headed personality. This mentality bites him back as he unknowingly pushes away genuine supporters of the Shield Hero and Siltvelt envoys. Unfortunately, being a Shield Hero meant that Naofumi was essentially useless by himself, which…
+
+## Raphtalia · Personality (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Raphtalia#Personality_
+
+When she is first introduced, Raphtalia is initially timid and sickly, often fearful for her life. Her village and family, destroyed by the Waves, left her to be captured by Melromarc's knights and sold to a wicked noble. When she got deathly sick, she was sold off and expected to die. This left her in a very vulnerable state of health and mind which was actively worse by her constant nightmares at night. By the time she was purchased by Naofumi, she was despondent. Contrary to her presumption, Naofumi proved to be a kind master who nurtured Raphtalia. He treated her ailment, as well as fed and sheltered her despite his own misfortune. His unexpected good treatment of Raphtalia allowed her to heal and restore her self-confidence and optimism. Eventually, she was forced to face her trauma when they encountered the Two-Headed Dog which reminded Raphtalia of the Cerberus that killed her…
+
+## Filo · Personality (texto de la wiki)
+_Fuente: https://shield-hero.fandom.com/wiki/Filo#Personality_
+
+Filo's personality has varied greatly throughout the story. Filo originally acted like any normal animal, prior to her transformation ability as she ate a lot, showed a great amount of affection towards Naofumi Iwatani and even convinced Naofumi to sleep in a stable with her because she was lonely by pulling on his mantle. After Filo gains the ability to transform, her personality becomes that of a spoiled child; she refuses orders until she is fed, throws fits when Naofumi doesn't sleep in the same bed as her, and will randomly transform whenever she sees fit. In an attempt to try and fix her personality, Naofumi threatens to sell her (and with a little help from an advanced slave mark), after which Filo begins to behave much more appropriately. Since that point, Filo has become a trustworthy and reliable member of Naofumi's party. Filo works hard to gain Naofumi's approval so that she…
 
 ## Los personajes más dibujados por los fans (Danbooru, 4486 dibujos de «tate_no_yuusha_no_nariagari»)
 _Fuente: https://danbooru.donmai.us/posts?tags=tate_no_yuusha_no_nariagari_
