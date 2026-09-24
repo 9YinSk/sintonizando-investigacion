@@ -565,3 +565,289 @@ Rengoku, la llama, suena **agudo y sin frenos**. Muichiro, la niebla, suena
 (YouTube bloqueado). Más frases con minuto: biblia 31 §10.
 
 ---
+
+## 9 · Música, sonido y el efecto de cada respiración
+
+### Temas (lo que trae esta investigación; la lista completa, en la biblia 31 §11)
+
+| Tema | Quién | Dónde | Ambiente |
+|---|---|---|---|
+| **«Gurenge»** 紅蓮華 (OP1) | LiSA; letra LiSA, música Kayoko Kusano, arreglo Ryo Eguchi | ep. 1-26 | visto: bosque con niebla en b/n, luna roja, salto en silueta ✅ [ficha](https://kimetsu-no-yaiba.fandom.com/wiki/Gurenge) |
+| **«from the edge»** (ED1) | FictionJunction feat. LiSA | ep. 2-18 y 20-25 | ⚠️ no se encontró el clip |
+| **«Kamado Tanjiro no Uta»** 竈門炭治郎のうた | Nami Nakagawa | cierre del **ep. 19** | visto entero ([creditless](https://www.dailymotion.com/video/x7wkzh0)): **dibujo de línea sepia, casi sin color**, la familia Kamado en escenas de casa, como **un álbum de recuerdos** ✅ |
+| «Akeboshi» (OP2) | — | T2 | citado por los covers latinos (§22) ⚠️ |
+| Banda sonora *Tren Mugen* | **Yuki Kajiura, Go Shiina** y LiSA; productor Hikaru Kondo (ufotable) | película | ✅ [ficha del OST](https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba:_Mugen_Train_Arc_Original_Soundtrack) |
+| Banda sonora *Castillo Infinito* | Kajiura y Go Shiina | película 2025 | **mejor banda sonora**, Crunchyroll Anime Awards 2026 ✅ (El Comercio + El Financiero) |
+| «Welcome Home (Akaza Love Theme)» | OST *Castillo Infinito* | el pasado de Akaza | ⚠️ una fuente (Spotify, citado por voz) |
+| «A World Where the Sun Never Rises» | — | cartela del tráiler de *Castillo Infinito* (0:56) | ⚠️ |
+
+Otras fichas musicales leídas en la wiki (sin detalle en las partes, ver
+biblia 31): «Asa ga Kuru», «Shirogane», «Zankyosanka», «Kizuna no Kiseki»,
+«Homura», «Mugen», «Tokoshie», «Koi Kogare», «Kamado Nezuko no Uta» y
+«Shine in the Cruel Night».
+
+### Sonido
+
+- **El Trueno es la única respiración que suena de verdad**: sus usuarios
+  hacen vibrar el aire y sus pasos dan **un trueno real**. Las demás son
+  sólo lo que el que mira cree ver ✅ ([Breathing Style](https://kimetsu-no-yaiba.fandom.com/wiki/Breathing_Style), trivia del tomo 17).
+- En TikTok se rehace el **diseño de sonido del golpe de la Hinokami
+  Kagura** (p. ej. [@andy_campbell_music](https://www.tiktok.com/@andy_campbell_music)) ⚠️.
+- ⚠️ **Onomatopeyas de espada**: no se encontró una fuente que las liste.
+  No se inventan.
+
+### El efecto de cada respiración, mirado en vídeo
+
+Descripción de la wiki y color medido en fotogramas ✅:
+
+- **Agua** (Tanjiro): «se ven creando y manejando agua». Arco o remolino
+  que **sigue el filo**. Opening [1:01](https://www.dailymotion.com/video/x7ozs2c?t=61):
+  #F9FBFD espuma, #4BE7F6 cian, #35A3D8, #2A4C8A azul hondo.
+- **Hinokami Kagura** (Tanjiro): arco **naranja-rojo con núcleo casi
+  blanco**. Tráiler del juego [0:30](https://www.dailymotion.com/video/x89ntsh?t=30):
+  #E87E27, #FCF6AD, #F6CF58, #A73B1C sobre noche #4A4A69. En el anime,
+  contra Rui, **remolino rojo envolvente** (2:01): #E74F1B, #732512.
+- **Llama** (Rengoku): «réplica perfecta del fuego», sale del Sol.
+  **Degradado, nunca plano**. [1:12](https://www.dailymotion.com/video/x9j447k?t=72):
+  #F8E723, #E4711D, #C54814, #21090D; pico de brillo #E8EFB4.
+- **Niebla** (Muichiro): «movimientos que desorientan, como niebla
+  espesa». Remolino **ancho, blanco-cian, más frío** que el agua. Tráiler
+  SEGA [0:20](https://www.dailymotion.com/video/x9iosps?t=20): #BDFCFE,
+  #90E1EF, #649BB4, #1C4256, #041226.
+- **Insecto** (Shinobu): estocadas cortas para meter **veneno de
+  glicina**; destello **morado-lavanda**. Tráiler [0:33](https://www.dailymotion.com/video/x816qkg?t=33):
+  #5465AB, #7A6BCF, #A7AFEA, #EAD9FC, #140E39.
+
+### Cómo pone ufotable un golpe en escena
+
+Del análisis «The visual design of Demon Slayer's combats»
+([jbsiraudin.github.io](https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/)),
+que coincide con lo mirado en los fotogramas:
+- **La acción, al centro del encuadre**, para que el ojo no viaje ✅.
+- **Cada golpe se anuncia en 3 capas**: brillo en la espada, forma de luz
+  y chispas ✅.
+- **Fotograma de impacto** en contraste altísimo, a menudo en silueta ✅.
+- **Temblor de cámara a 24 fps** sobre animación a 12 fps, en la dirección
+  del golpe ⚠️ (una fuente).
+- **«Satsuei»** (撮影, fotografía): la luz rebota como una fuente real,
+  sombras suaves, *bloom* en la lente; una acción de 3 segundos puede
+  llevar **cientos de capas** ⚠️ (resumen de varias webs, sin entrevista
+  directa; el dato oficial de Terao está en §18).
+
+## 10 · Vídeos y tendencias, con minuto
+
+Todos mirados con `fotogramas.py` (hojas abiertas con Read):
+
+| # | Vídeo | Duración | Lo que sirve, con minuto |
+|---|---|---|---|
+| 1 | [Opening 1 «Gurenge»](https://www.dailymotion.com/video/x7ozs2c) | 89 s | [0:20](https://www.dailymotion.com/video/x7ozs2c?t=20) cara decidida · [0:44](https://www.dailymotion.com/video/x7ozs2c?t=44) Kagaya con luz de ventana · 1:00-1:08 Agua · [1:16](https://www.dailymotion.com/video/x7ozs2c?t=76) salto a la luna roja · 1:28 Nezuko |
+| 2 | [Cierre del ep. 19 «Kamado Tanjiro no Uta»](https://www.dailymotion.com/video/x7wkzh0) | 104 s | estilo álbum sepia de principio a fin |
+| 3 | [Tráiler SEGA, Muichiro (*Hinokami Chronicles 2*)](https://www.dailymotion.com/video/x9iosps) | 36 s | 0:08-0:22 niebla · [0:28](https://www.dailymotion.com/video/x9iosps?t=28) cartela «霞柱 時透無一郎» · «Available August 5th» |
+| 4 | [Tráiler principal *Castillo Infinito*](https://archive.org/details/demon-slayer-kimetsu-no-yaiba-infinity-castle-main-trailer) | ~1:30 | 0:16 Muichiro pensando · 0:40 abanico floral rosa · 1:12 cara de demonio con tatuajes azules · 1:28 IMAX |
+| 5 | [Rengoku vs Akaza, 4K 60 fps](https://www.dailymotion.com/video/x9j447k) | 209 s | ver §14: 0:00, 0:36, 1:12, 2:00, 3:12, 3:24 |
+| 6 | [Tanjiro vs Rui](https://www.dailymotion.com/video/x8nyhk5) ⚠️ pirata | 158 s | 1:12 Agua · 1:52-2:32 Hinokami |
+| 7 | [Tráiler de Tanjiro (*Hinokami Keppūtan*)](https://www.dailymotion.com/video/x89ntsh) | 59 s | [0:21](https://www.dailymotion.com/video/x89ntsh?t=21), [0:30](https://www.dailymotion.com/video/x89ntsh?t=30), [0:33](https://www.dailymotion.com/video/x89ntsh?t=33) |
+| 8 | [Tráiler de Shinobu (*Hinokami Keppūtan*)](https://www.dailymotion.com/video/x816qkg) | 59 s | [0:15](https://www.dailymotion.com/video/x816qkg?t=15) a [0:45](https://www.dailymotion.com/video/x816qkg?t=45), ver §14 |
+| 9 | [ufotable en los Oscars](https://www.youtube.com/watch?v=FLB_sLTgbPk) | — | 0:29-0:44 dibujos clave con **lápiz de color** para marcar sombras (§18) |
+
+**Tendencia**: la pose y la danza de la **Hinokami Kagura** son un
+fenómeno en TikTok, con **más de 2,4 millones de publicaciones** en su
+etiqueta: bailes, cosplay y rehechos del sonido ⚠️ (cifra de varias webs;
+TikTok no se pudo abrir para dar un vídeo con minuto).
+
+## 11 · Videojuegos de la franquicia
+
+Consultados en la **API de Steam** (`storesearch` y `appdetails`), no en
+el buscador ✅:
+
+| Juego | Datos | Qué sirve para paisajes y auras |
+|---|---|---|
+| *The Hinokami Chronicles* | CyberConnect2 / SEGA · 15-oct-2021 · appid 1490890 | modo historia hasta el Tren Mugen; tráileres de personaje con las auras medidas (§9) |
+| *The Hinokami Chronicles 2* | CyberConnect2 / SEGA · 5-ago-2025 · appid 2928600 | visto en una captura: **los Pilares en el templo de Gyomei, sobre tatami**; su estola lleva bordado **南無阿弥陀仏** («Namu Amida Butsu») ✅ [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928600/ss_65bda7a462256287baf41fe28c42268ad2e385cb.1920x1080.jpg) |
+| ***Sweep the Board!*** (**nuevo**, no estaba en la biblia 31) | CyberConnect2 / SEGA · 16-jul-2024 · appid 2424110 · juego de mesa virtual (*sugoroku*) para 4, en local o en línea | **el tablero es un mapa en miniatura del mundo**, isométrico: un santuario de glicinias con pilares rojos y niebla, un pueblo Taishō con río, puente de madera y tiendas con rótulos verticales, y una plaza europea con fuente y torre de reloj. Los personajes celebran en **chibi 2D recortado sobre el tablero 3D** ✅ [ficha](https://store.steampowered.com/app/2424110/Demon_Slayer_Kimetsu_no_Yaiba_Sweep_the_Board/) · [captura tablero](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424110/ss_523f7d5981957c2782478df26b93e5c6bd7bbba7.1920x1080.jpg) · [captura chibis](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424110/ss_3b528d76b2e0fa4e585439165e684c49a949c50b.1920x1080.jpg) |
+
+- ⚠️ **Menús y cajas de diálogo**: ninguna captura oficial los enseña.
+- **The Cutting Room Floor**: no tiene página de *Hinokami Chronicles*
+  ([tcrf.net](https://tcrf.net/), buscado) ⚠️.
+- Juegos de móvil y colaboraciones (*Nichirin Battle Slash*, *Puzzle &
+  Dragons*, *Shironeko Project*, *Kotodaman*): biblia 31 §13.
+- ⚠️ `datos-texto.md` traía juegos de *Onigiri* (Onigiri Shop Simulator…):
+  no son de la franquicia.
+
+---
+
+## 12 · Lo que ama el fandom, y qué NO hacer
+
+Los memes y el «qué no dibujar» generales (Shinobu gritando, el haori de
+Giyu, «Hashira» en vez de «Pilar»…) están en la biblia 31 §14. Aquí, lo
+propio de **auras y paisajes**.
+
+### Lo que ama
+
+- El fandom **usa la palabra «aura» tal cual**, y siempre para lo mismo:
+  **la respiración visible de un Pilar o de Kokushibo**, nunca para alguien
+  quieto ✅ (Arctic Shift, r/KimetsuNoYaiba, jul.-sep. 2026):
+  - [«Villain with an aura of hero»](https://www.reddit.com/r/KimetsuNoYaiba/comments/1wg0zko/villain_with_an_aura_of_hero/),
+    309 votos, sobre Kokushibo y Muzan.
+  - [«This scene has its own aura!!»](https://www.reddit.com/r/KimetsuNoYaiba/comments/1wh30ki/this_scene_has_its_own_aura/), 108 votos.
+  - [«Who has the most aura?»](https://www.reddit.com/r/KimetsuNoYaiba/comments/1vf1h72/who_has_the_most_aura/), 10 votos.
+- Premian **el efecto que acompaña una frase o un silencio**, no la acción
+  sola ✅.
+- Un ensayo japonés cruza cada respiración con una personalidad
+  ([note.com](https://note.com/hiradairaheipei/n/n2b9d6e96fa7d)): «cada
+  estilo refleja la personalidad, la historia y los límites de quien lo
+  usa» ⚠️ (un blog; detalle en §13).
+- El segundo *fanbook* oficial (鬼殺隊見聞録・弐) trae una entrevista en
+  broma de Kotetsu a los demonios del infierno: **qué se siente al ser
+  cortado por cada respiración** ⚠️ (una reseña, no se leyó el libro).
+- La danza de la Hinokami Kagura en TikTok (§10) y el haori a cuadros que
+  llevaban los niños al colegio en 2020 (§21).
+
+### Qué NO hacer (lo que un fan notaría al momento)
+
+- **No mezclar los colores de las respiraciones.** Son 14 y varios se
+  parecen. Rengoku es **naranja-rojo, nunca amarillo** (el amarillo es
+  Zenitsu). Muichiro es **blanco, no gris** (el gris es Gyomei). Shinobu es
+  **lavanda azulado**: ni lavanda liso (Obanai) ni rosa (Mitsuri o Kanao).
+  La wiki dedica una tabla entera a diferenciarlos ✅.
+- **No cambiar el color de la espada negra de Tanjiro** «para que se vea
+  sobre fondo oscuro»: **el negro es la historia**. Al salirle negra, él
+  teme que sea mala señal; Urokodaki le dice que «las espadas negras
+  simplemente son poco comunes»; el herrero Haganezuka se enfada porque
+  esperaba una roja ✅ ([Episode 5](https://kimetsu-no-yaiba.fandom.com/wiki/Episode_5)
+  + [Nichirin Sword](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword)).
+  Que «los de espada negra morían jóvenes» lo dicen blogs ([EpicDope](https://www.epicdope.com/meaning-of-a-black-sword-in-demon-slayer/),
+  [Sportskeeda](https://sportskeeda.com/anime/demon-slayer-may-foreshadowed-tanjiro-s-three-breathing-styles-black-nichirin-blade)) ⚠️.
+- **No dibujar a Muichiro intenso o decidido por defecto.** Su cara
+  correcta casi toda la serie es **vacía, de mirada perdida**. Es su
+  trauma, no pereza de dibujo ✅.
+- **No poner el aura como un aro o resplandor de videojuego** alrededor del
+  cuerpo. El efecto **sigue el arma y el movimiento**: agua que sigue el
+  filo, niebla que se arrastra, llama que sale del golpe ✅ (wiki).
+- **No ponerles Marca a Rengoku, Tengen ni Shinobu**: nunca la tuvieron ✅.
+- **No iluminar todo el plano**: ufotable pone **una sola luz cálida** o
+  **un solo color saturado** sobre fondo oscuro (§4). Colores alegres por
+  todas partes = falso (regla 6 del dueño).
+- **No usar «Hashira»**: el doblaje dice «Pilar» (§8).
+
+## 13 · Los personajes a fondo: el aura como carácter
+
+Base: secciones *Personality* y *Trivia* de la wiki, leídas enteras ✅.
+Lo que dicen en pantalla con minuto está en la biblia 31 §8. Aquí,
+**historia, miedo, arco y cómo el aura cuenta quién es**.
+
+### Tanjiro Kamado · Agua, y el Sol escondido
+
+- **Historia**: hijo mayor de una familia pobre de carboneros del monte
+  Kumotori. Muzan mata a su familia; su hermana Nezuko sobrevive
+  convertida en demonio. Se hace cazador para curarla ✅.
+- **Qué le importa**: Nezuko ante todo; que nadie pierda a su familia como
+  él. **Llora incluso por los demonios que mata**.
+- **Miedo**: fallarle a Nezuko. No sabe mentir: **se le deforma la cara** ✅.
+- **Arco**: aprendiz sin talento aparente → domina el Agua a medias →
+  descubre que hereda la **Respiración del Sol** (Hinokami Kagura) → las
+  **combina** porque no puede sostener el Sol solo. **Su estilo final es
+  la mezcla de dos auras**.
+- **Aura = carácter**: su aura verdadera (Sol, espada negra) estuvo
+  **escondida detrás de una técnica prestada** (Agua), como su bondad
+  esconde una rabia honda contra los demonios. Un ensayo de fans lo lee así:
+  el Agua es **empatía y flexibilidad**, «capaz de perdonar hasta a los
+  demonios» ⚠️ ([note.com](https://note.com/hiradairaheipei/n/n2b9d6e96fa7d)).
+- **Qué transmite**: ternura que no le quita fuerza. Es su rasgo más
+  citado en reseñas (§21).
+
+### Kyojuro Rengoku · Llama
+
+- **Historia**: hijo del ex Pilar Shinjuro, que dejó el puesto al morir su
+  esposa Ruka. Ruka, «sabia, dulce y con fuerte moral», le dio su lema:
+  **«quien nace fuerte tiene el deber de proteger al débil»** ✅. Muere
+  defendiendo el Tren Mugen frente a Akaza.
+- **Miedo**: pese a su optimismo, tenía «el presentimiento de que la gente
+  en la que creía podía morir» ✅.
+- **Qué le importa**: su hermano Senjuro, a quien anima sin condiciones; su
+  padre, al que sigue queriendo pese a su desprecio; comer mucho;
+  reconocer el talento ajeno.
+- **Cómo describe a los demás** (trivia, cita de la wiki traducida): de
+  Shinobu, «¡Elabora venenos! ¡Y no duda en pelear pese a su tamaño! ¡Lo
+  respeto!»; de Muichiro, «¡Tiene más talento del que yo tenía a su edad!»;
+  de Giyu, «¡Habla tan bajito que no lo oigo! ¡Pero trabaja duro!» ✅.
+  Oro para una lámina de grupo.
+- **Aura = carácter**: la llama es la voz **más expresiva** medida (20,4
+  semitonos). El ensayo de fans: «quema sus propias convicciones hacia
+  fuera», el que «prefiere llevar la iniciativa» ⚠️.
+
+### Muichiro Tokito · Niebla
+
+- **Historia y miedo, el ejemplo más claro de «aura = estado interior»** ✅
+  ([ficha](https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito)): tenía
+  un **gemelo mayor, Yuichiro**; eran leñadores. Un demonio mata a
+  Yuichiro delante de él. Muichiro **pierde la memoria por el trauma** y,
+  sin saberlo, **copia la frialdad de su hermano muerto**. **La niebla que
+  todos ven en él es amnesia y duelo**, no un rasgo de nacimiento.
+- **Arco**: Tanjiro le ayuda a recordar; **sus ojos, antes vacíos,
+  recuperan el brillo** y vuelve a ser el chico optimista que era.
+- **Qué le importa**: al principio nada («A mí se me va a olvidar», §8).
+  Después, proteger a la gente, como quería de niño.
+- **Cómo se expresa**: distraído, **mira al cielo**, responde tarde; en
+  pelea, rapidísimo y frío. Su voz lo confirma: la más grave y la más
+  rápida de las cuatro.
+- **Aura = carácter**: el blanco es el único color **neutro** de la tabla,
+  para alguien que media serie **no tiene identidad propia**, sólo la de su
+  hermano. El ensayo: «contornos difusos, pero letal si se concentra» ⚠️.
+
+### Shinobu Kocho · Insecto
+
+- **Historia**: Pilar del Insecto y médica de la Mansión Mariposa. Su
+  hermana Kanae (Pilar de la Flor) muere a manos de Doma. Shinobu **no
+  tiene fuerza para decapitar**: inventa un **veneno de glicina**. **Su
+  respiración es la solución a su propia debilidad**.
+- **Lo que esconde**: sonríe siempre, habla con cortesía exquisita, pero
+  **por dentro arde de rabia** (Tanjiro lo huele, T1-25; biblia 31 §8).
+- **Aura = carácter**: **el insecto bonito que es veneno**. Un color «dulce»
+  (lavanda) para un estilo de veneno, y la **voz más aguda** de las cuatro
+  para hablar de la muerte. El ensayo la llama la respiración
+  «intelectual», de estrategia y no de fuerza ⚠️.
+- **Dinámicas**: protege a Kanao sin decírselo; Giyu es su blanco favorito
+  de bromas; con Mitsuri se enseñan cocina.
+
+### Secundarios que caben en la lámina
+
+- **Zenitsu** (Trueno, amarillo): miedo explícito, se cree inútil pese a su
+  talento; sólo se le quita dormido o si Nezuko está en peligro. **Cuando
+  pelea en serio, truena de verdad** ✅.
+- **Nezuko**: casi no habla; gruñe tras el bambú. Lenguaje de gestos.
+- **Inosuke** (Bestia, gris índigo): no acepta perder, no aprende nombres,
+  criado entre jabalíes.
+- **Giyu** (Agua, azul): habla poco y mal; cree que los demás Pilares lo
+  odian, y no es verdad.
+- **Kanao** (Flor, rosa claro): no decide nada sin lanzar una moneda.
+
+### Su cara en cada emoción (fotograma o imagen oficial)
+
+| Quién | Emoción | Dónde | Con minuto |
+|---|---|---|---|
+| Tanjiro | **rabia** | [ojos inyectados de sangre contra Daki](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/31/Tanjiro%27s_eyes_becoming_bloodshot_due_to_his_rage.png), 1320×734 | ceño y ojo rojo: opening [0:20](https://www.dailymotion.com/video/x7ozs2c?t=20) |
+| Tanjiro | **tristeza** | [sonrisa triste por lo que dice Kazumi](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a9/Tanjiro%27s_sad_smile_at_Kazumi%27s_words.png), 1920×1080 | ⚠️ sin minuto |
+| Tanjiro | **asombro, miedo** | visto en F14 (hoja 20, n.º 923): ojos muy abiertos, boca abierta, ante el Castillo Infinito | ⚠️ sin minuto |
+| Rengoku | **entusiasmo** | [«outgoing and loud»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/7a/Kyojuro%27s_outgoing_and_loud_personality.png), 1920×1080 | primer plano, 0:00 del clip 4K |
+| Rengoku | **tristeza serena** | lágrima, mirada al cielo | [3:12](https://www.dailymotion.com/video/x9j447k?t=192) ✅ |
+| Rengoku | **paz, despedida** | sangre en la boca, sonrisa leve | [3:24](https://www.dailymotion.com/video/x9j447k?t=204) ✅ |
+| Muichiro | **vacío** (su cara normal) | mirada perdida en la niebla | [0:10](https://www.dailymotion.com/video/x9iosps?t=10) ✅ |
+| Muichiro | **ilusión** (rara en él) | [«excited… they can protect people»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/30/Muichiro_excited_over_the_fact_they_can_protect_people.png), 1920×1080 | ⚠️ sin minuto |
+| Shinobu | **alegría** (máscara) | [«Memory of Shinobu's smile»](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/40/Memory_of_Shinobu%27s_smile.png), 1366×768; ojos entrecerrados | [0:15](https://www.dailymotion.com/video/x816qkg?t=15) ✅ |
+| Shinobu | **rabia** | furiosa contra Doma (wiki) | ⚠️ sin minuto |
+| Inosuke | rabia | [contra Doma](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1e/Inosuke_angry_at_Doma.png), 565×475 | ⚠️ |
+
+⚠️ **Faltan** vergüenza de los cuatro y miedo de Rengoku, Muichiro y
+Shinobu, con minuto. Ver biblia 31 §8 para más caras.
+
+### Dinámicas (para láminas en grupo)
+
+- **Tanjiro ↔ Muichiro**: Tanjiro le devuelve la memoria; con él, Muichiro
+  **se anima** (visto en la hoja 20, n.º 941: Tanjiro le enseña su avión
+  de papel y guiña un ojo).
+- **Rengoku ↔ Tanjiro**: maestro de un día que le deja su lema.
+- **Shinobu ↔ Giyu**: ella bromea, él no se entera.
+- **Shinobu ↔ Kanao**: hermana mayor que protege en silencio.
+
+---

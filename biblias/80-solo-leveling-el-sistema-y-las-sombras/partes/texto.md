@@ -141,6 +141,9 @@ propia ✅:
     de botón de mando «R3» abajo a la derecha.
   - Esto **actualiza** lo que decía `biblias/03-solo-leveling` §15 («no pude medir menús ni cajas del juego»):
     **sí se puede**, con las capturas oficiales de Steam en vez de Game UI Database.
+  - **Letra libre para ese título «RESULT»** (punto 5, uso «interfaz de juego»): condensada, itálica, deportiva.
+    Comprobé con `fontTools` la familia **Teko** (Bold): trae los 9 signos á é í ó ú ñ Ñ ¿ ¡ ü. Es la más cercana
+    en proporción vertical al «RESULT»/«SSS» de la captura; SIL OFL, gratis.
 - Las otras 7 capturas son de acción/cinemática (el vestíbulo del gremio con el emblema dorado en la fachada, un
   combate contra un titán rojo, un cara a cara entre tres cazadoras con relámpagos violeta) — sirven más para el
   punto 16 (fondos) que para diálogo; las dejo anotadas en `texto.json` por si la imagen sirve de referencia de
@@ -371,6 +374,9 @@ Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Gui
 - **Búsqueda en coreano** (`WebSearch`): «시스템물 웹소설 장르 나혼자만 레벨업 정의» — confirma el nombre del
   (sub)género, **시스템물**, con la Wikipedia coreana y 더스쿠프 (thescoop.co.kr) como fuentes.
 
-Sigue: falta intentar de nuevo Game UI Database/TCRF más adelante (si el bloqueo de Cloudflare cede) para medir
-menús del juego móvil ARISE; y, si aparece cuota, buscar el id correcto de la app en Google Play para sus
-capturas de interfaz. El resto de los puntos 5, 6, 11, 18, 24 y 25 está cubierto con fuente propia.
+Repaso final contra `ENCARGO.md`: los 6 puntos (5, 6, 11, 18, 24, 25) tienen hallazgo propio con fuente y, donde
+no llegué (letra exacta del Sistema, menús de Game UI Database/TCRF, capturas de ARISE móvil, TV Tropes, algunos
+usos de tipografía del punto 5, comparación de peso del recurso frente a otras series), queda anotado con ⚠️ en
+«No encontré», nunca vacío ni «no existe». Lo pendiente (reintentar Game UI Database/TCRF si el bloqueo de
+Cloudflare cede; el id correcto de ARISE en Google Play) es ampliación, no obligatorio del encargo: la parte está
+completa. No queda `Sigue:` con nada obligatorio.
