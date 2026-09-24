@@ -1660,25 +1660,371 @@ third* (noticiero), *countdown card with handwritten message*.
 
 ### 17.1 · Para una IA de texto (repaso corto)
 
-_(pendiente)_
+Para que una IA escriba los textos de la lámina, del bot o de un
+doblaje en la voz de cada personaje. Todo sale de frases ya citadas en
+esta biblia (§4, §9, §12.3). **Ojo:** salvo las dos del doblaje latino,
+son **traducción mía del japonés** (subtítulos de la emisión), no el
+latino. Antes de rotular una frase como «del doblaje», oírla en
+Crunchyroll (§12.3).
+
+**Reglas de voz**
+- **Kana:** frases cortas y afiladas. Presume y luego se sonroja.
+  Explica con jerga de rodaje (ensayo, cámara, pasada). Ríe con un
+  «¡Hmph!» de suficiencia. Nunca dulce del todo.
+- **MEM-cho:** alarga las vocales y endulza («Aqu-tan»). Saluda con
+  «¡Konmemu~!». Cuando se pone seria, habla de **cifras y horas de
+  publicar**. Celebra gritando números.
+- **Ruby:** exclamaciones de fan. Signos ¡! por todas partes. Llama a
+  Aqua «hermano» (お兄ちゃん). Habla de ser idol como su madre.
+- **Akane:** formal y cálida. Saluda presentándose («Soy Akane
+  Kurokawa, de la compañía Lalalai»). Anima a las demás **por su
+  nombre**.
+- **Aqua:** pocas palabras, seco. Frases de dos o tres palabras.
+- **Gotanda:** brusco, de oficio. Explica el mundillo como un profesor
+  cansado.
+- **Puntuación:** ¡! y ¿? siempre dobles. Nada de «·», «—» ni
+  paréntesis de relleno (regla 4 del dueño). Una idea por cuadro.
+- **El doblaje latino dice «X»**, no «Twitter», y «**Producciones
+  Ichigo**» en la T1 (§12.3).
+
+**Frases reales, por emoción**
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| alegre | MEM | «¡10.000 suscriptores!» «¡Ahora sí parece oficial!» | ep. 9 · 09:42–09:51 |
+| alegre | Ruby | «¡Yo voy a ser idol!» | ep. 2 · 03:56 |
+| alegre | MEM | «¡Konmemu~!» (こんめむ〜♪, su saludo) | vídeos oficiales «MEMちょの部屋» (§9) |
+| enfadada | Kana | «¡Qué asco!» (きっも！) | ep. 3 · 01:58 |
+| enfadada | Ruby (bebé) | «¡Un directo tiene gracia verlo en vivo!» | ep. 1 · 23:34 |
+| enfadado | Aqua | «Qué chapuza.» (雑だな) | ep. 3 · 16:59 |
+| explicando | MEM | «¿Sabes qué día y a qué hora subirlo para sacar más retuits, y cuántas letras rinden más? Soy una profesional de hacer virales.» | ep. 7 · 11:14–11:30 |
+| explicando | Gotanda | «Hay tres clases de actores.» | ep. 1 · 43:15 |
+| explicando | Kana | cómo se rueda un drama: lectura, ensayo, cámara, pasada | ep. 3 · 16:34–16:57 |
+| animando | Kana | «¡Voy a teñir tu barra de blanco! ¡Seré tu *oshi no ko*!» | ep. 11 · 07:41–07:49 |
+| animando | Pieyon | «¡10 cuestas más!» | ep. 10 · 05:47 |
+| animando | Akane y Kana | «No voy a perder.» (絶対に負けない) | T2 ep. 16 ([推しセリフ #05](https://www.youtube.com/watch?v=VrIF12uKg1Y&t=29)) |
+| presumiendo | Kana | «Hmph. Es que yo soy adulta.» | ep. 3 · 14:42 |
+| triste | Gotanda (**latino**, textual) | «Pero tú nunca podrás ser tu mamá.» | ep. 2 · 20:23 ⚠️ (Doblaje Wiki) |
+| nostálgico | Aqua (**latino**, textual) | «Mi favorita siempre fue y siempre será Ai Hoshino.» | ep. 4 · 19:52 ⚠️ (Doblaje Wiki) |
+| lema | Ai | «La mentira es el amor más grande, ¿sabes?» | ep. 1 · 09:46 |
+
+Las frases tristes de Ai del ep. 1 (65:04–65:24) **no** se usan en las
+láminas (punto 16: no jugar con su muerte).
+
+**Vocabulario de expresiones (para la IA de imagen)**
+- **Estrella en el ojo:** blanca de **seis puntas**; Ai en los dos,
+  Aqua en el derecho, Ruby en el izquierdo. **Estrella negra** = modo
+  venganza: no en canales alegres (§16). En Akane salen **cuando actúa
+  de Ai** (P·21). Etiquetas que entienden las IA: *star-shaped pupils,
+  symbol-shaped pupils, mismatched pupils* (Danbooru, `partes/datos-imagen.md`).
+- **Sonrojo:** Kana se pone roja al enfadarse o al presumir (*blush*).
+- **Fondo de emoción:** brillos y estrellitas sueltas (*sparkles*) y
+  las **luces del escenario en rejilla**, como en la trama del manga
+  (punto 19).
+- **Chibi:** sólo en los **cartones oficiales** de cuenta atrás y en las
+  tarjetas del canal (O·1-6) y en el Nendoroid (punto 23). Para el
+  personaje principal de la lámina, **no**: estropea (§17).
+- **Gotas de sudor:** no encontré en las partes cómo las usa la serie
+  ⚠️. Mejor no pedirlas.
 
 ---
 
 ## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
 
-_(pendiente)_
+> De `partes/texto.md` (repaso corto, 24-sep-2026), con el equipo de
+> `partes/datos-texto.md` (AniList). Complementa §17 (rasgos, paleta,
+> palabras) sin repetirlo.
+
+### 18.1 · Quién lo hace
+- **Estudio Doga Kobo** (動画工房). Director **Daisuke Hiramaki**
+  (平牧大輔). Diseño de personajes y dirección de animación **Kanna
+  Hirayama** (平山寛菜). Subdirectora y guion de color **Ciao
+  Nekotomi** (猫富ちゃお). Director de fotografía (撮影, la etapa que
+  pinta luces y filtros encima del dibujo) **Takafumi Kuwano**
+  (桒野貴文) ✅ ([AniList, staff](https://anilist.co/anime/150672/staff),
+  [Real Sound](https://realsound.jp/movie/2023/06/post-1345012.html),
+  [MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
+- **Diseño original:** Mengo Yokoyari (横槍メンゴ). **Logo del título:**
+  Miku Makifuchi (巻渕美紅). **Vestuario:** Maho Yoshikawa, Satomi
+  Watanabe, Asami Hayakawa, Miki Matsumoto y Nanami Hakoda. **Objetos
+  (props):** Miki Matsumoto y Nanami Hakoda ⚠️ (sólo AniList).
+
+### 18.2 · La línea: más, no menos
+- Casi todos los animes **simplifican** el trazo del manga para
+  animarlo rápido. Aquí hicieron **lo contrario**: recogen todo lo
+  posible de las sombras y del trazo del manga. Por eso *Oshi no Ko*
+  «tiene más líneas que un anime normal» ✅ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html),
+  [Yahoo/Febri](https://article.yahoo.co.jp/detail/094230118938ecb262b1cc245b02d40caec0224e)).
+- Hirayama corrigió **unos 1.000 cortes** sólo en el episodio 1 ⚠️
+  ([Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)).
+- En el manga, la línea es **fina** y las sombras van con **trama de
+  puntos** y **rayado a pluma** sólo en lo más oscuro (visto en una
+  página real, punto 19).
+
+### 18.3 · Los ojos y el color: subir el número de colores
+- Hiramaki pidió a Hirayama reproducir **entera** la estrella de seis
+  puntas del ojo del manga ✅ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html);
+  §17).
+- Hirayama, textual: *«When you color in animation, it becomes one
+  color. The amount of information from the manga to the anime gets
+  reduced… By increasing the number of colors, you can achieve a
+  similar effect to the manga»*. O sea: **al colorear se pierde
+  información; se compensa con más tonos** en pelo e iris ✅
+  ([ComicBook](https://comicbook.com/anime/news/oshi-no-ko-anime-art-style-animation/),
+  [Real Sound, parte 2](https://realsound.jp/movie/2023/06/post-1345012_2.html)).
+- **Guion de color** (カラースクリプト): Nekotomi pinta un *storyboard*
+  en color que fija el ambiente de cada escena **antes** de animar.
+  La regla compartida: «convertir en color la emoción que se sintió al
+  leer el manga» ✅ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html),
+  [Sakuga Blog, T2](https://blog.sakugabooru.com/2024/09/04/oshi-no-ko-stage/)).
+- **Colores saturados también en escenas normales**, no sólo en las
+  clave ⚠️ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
+- **Sombras con focos de color**, no gris ni negro liso. Hiramaki dice
+  que lo toma del cine y la tele de imagen real (cita *City Hunter*,
+  1999) ⚠️ (MANTANWEB).
+- **Fotografía (撮影):** ahí van destellos, *bokeh* y brillo de focos
+  (vistos en los fotogramas, §17). Qué filtros exactos usa Kuwano: sin
+  entrevista que lo detalle ⚠️.
+- **Programa:** **no lo encontré**. Ninguna entrevista leída (Real
+  Sound, MANTANWEB, Sakuga Blog, ComicBook, Febri) nombra el software
+  de Doga Kobo. El estándar de la tele japonesa es **RETAS STUDIO** o
+  **CLIP STUDIO PAINT EX** ([ficha de RETAS](https://www.clip-studio.com/clip_site/tool/items/rs_d_plan),
+  [Wikipedia JA](https://ja.wikipedia.org/wiki/RETAS_STUDIO)), pero
+  **no es un dato de esta serie** ⚠️.
+
+### 18.4 · Cómo trabajaron las escenas grandes
+- **Episodio 1 (el largo: 81:52 en la emisión de TV, §4; se estrenó
+  en cines):** coreografiaron el
+  baile **antes** de tener la música final, con **referencia 3D** de
+  vídeos de baile, y dibujaron el *storyboard* sobre la canción.
+  Metieron **cortes pintados a pincel a mano** para un estilo «vívido y
+  contundente» ✅ ([Wikipedia, «Mother and Children»](https://en.wikipedia.org/wiki/Mother_and_Children_(Oshi_no_Ko)),
+  [Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)).
+- **T2, el teatro 2.5D (*Tokyo Blade*):** **luz diegética** (la que
+  habría de verdad en el escenario) y **cables y micros a la vista**
+  para que se note que es una función. El director de esos capítulos,
+  **Kuniyasu Nishina**, usa **cortes de montaje muy marcados** y planos
+  fijos muy compuestos. La cámara mezcla movimiento con **planos desde
+  la butaca**. El supervisor de acción, «**amoji**», mezcla dibujo
+  *cartoon* con **papel y tinta suelta** e **imágenes de estrellas**
+  para sacar la emoción fuera del cuerpo ⚠️ ([Sakuga Blog, T2](https://blog.sakugabooru.com/2024/09/04/oshi-no-ko-stage/)).
+
+### 18.5 · Encuadres: cómo se enmarca cada emoción
+| Emoción o uso | Encuadre | De dónde |
+|---|---|---|
+| **Presentar, invitar** | plano medio **en diagonal, señalando a cámara**, un poco desde abajo | key visuals de Ai y MEM (§17) |
+| **Presión, soledad** | plano abierto y espacioso: el personaje **pequeño** y la agencia o el edificio **enorme** detrás | Hiramaki ([Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)) |
+| **Dudas, lo que piensa** | encuadre **subjetivo**, dentro de su cabeza | ídem |
+| **Emoción de escenario** | **desde el público**: barras de luz y focos hacia cámara, contraluz | opening (V·1-6) y Sakuga Blog T2 |
+| **Golpe emocional** | plano fijo muy compuesto y **corte seco** | Sakuga Blog T2 |
+| **Detrás / delante del telón** | camerino y pasillo **fríos y apagados**; escenario **saturado** (noche `#222B32` contra rojo `#C41E34`, §6.2) | guion de color de Nekotomi + paleta medida |
+
+### 18.6 · Cómo replicarlo en Photoshop
+1. **Línea:** pincel duro, poco *jitter* de grosor (2-4 px a 150 ppp),
+   **negro o gris casi negro**, nunca marrón. Más líneas de lo normal
+   (18.2): pliegues, mechones, sombras dibujadas.
+2. **Sombreado:** capa en **Multiplicar** con **2-3 tonos planos**, no
+   degradado. Sombra base y otra más oscura en el pliegue.
+3. **Iris:** 2-3 franjas de color (claro, medio, oscuro) y encima la
+   **estrella blanca de seis puntas** en modo **Trama** o **Aclarar**.
+4. **Luz de escenario:** capa en **Trama** o **Sobreexponer color** con
+   pinceles de destellos y *bokeh* (Brusheezy o CLIP STUDIO ASSETS,
+   punto 19).
+5. **Fotografía final:** **grano fino** (Filtro > Ruido > Añadir ruido,
+   2-3 %, monocromático) y un **mapa de degradado** azul-magenta en
+   **Superponer** al 15-20 %. Es mi aproximación al acabado del
+   estudio, no su receta ⚠️.
+
+### 18.7 · Cómo replicarlo en Blender
+1. **Contorno:** modificador **Solidify** (grosor 0,01-0,02, normales
+   invertidas, material con **Backface Culling**) o **Freestyle** si se
+   quiere una línea que cambie de grosor ✅ ([Artisticrender](https://artisticrender.com/cel-shading-in-blender/),
+   [StraySpark, 2026](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender)).
+2. **Sombreado en celdas:** **Shader to RGB** + **Color Ramp** con 2-3
+   escalones, en *Constant* (mismas fuentes).
+3. **Luz de escenario:** luces de área **rosa, cian y ámbar** desde
+   varios lados (los focos de §6) y, en el compositor, **Glare** (*Fog
+   Glow* o *Streaks*) y una textura de **ruido** para el grano.
+4. **Modelos para practicar el *shader* y el *rig*** (CC BY, dar
+   crédito; **nunca** para la lámina, §5.1): Ai de
+   [DarienToad](https://sketchfab.com/3d-models/ai-hoshino-oshi-no-ko-64ce3c96f9524644a38c47c390b40488),
+   de [HiGuys920](https://sketchfab.com/3d-models/oshi-no-ko-hoshino-ai-3d-model-fv-dl-5d92181a0dec48d4a6a71c4a1d0fd5ec)
+   y de [criticaldamage9211](https://sketchfab.com/3d-models/none-a25f0b9dee474ec0af6b0cf9d91a405e);
+   Kana de [Teana](https://sketchfab.com/3d-models/none-a9497f1c3cb0471885374ed1c4d130de);
+   Ruby, Aqua y Akane de HiGuys920 ([Ruby](https://sketchfab.com/3d-models/none-9d9c913ad2bd4cf692aa064167865494),
+   [Aqua](https://sketchfab.com/3d-models/none-7c3df0f902e54b17986b893fa4b016f7))
+   ✅ (licencia por la API de Sketchfab, `partes/texto.json` y
+   `partes/datos-imagen.md`).
+5. **Volumen de la ropa:** la falda de idol lleva **enagua**; en 3D,
+   varias capas, no una falda plana (cosplay de Marsella, punto 23).
 
 ---
 
 ## Punto 19 · Texturas 2D (tramas, papel, patrones, emblemas y logos)
 
-_(pendiente)_
+> De `partes/imagen.md` (repaso corto). Las texturas reales y 3D
+> (papel, metal, cartón de Poly Haven) ya están en §5.1 y §6: con estas
+> no falta ninguna capa.
+
+### 19.1 · Las tramas del manga, vistas en una página real
+En la página de manga oficial de B小町 en el escenario
+([Fandom, 1299×1423](https://static.wikia.nocookie.net/oshi_no_ko/images/f/fe/B-Komachi_Current_Manga.jpg),
+página [«B-Komachi»](https://oshinoko.fandom.com/wiki/B-Komachi)) hay
+**cuatro capas** ✅ (mirada, tamaño por la API):
+1. **Trama de puntos en degradado** para pelo y piel: más densa en la
+   sombra, se aclara hacia la luz.
+2. **Brillos y estrellitas sueltas** por el fondo (el *sparkle* de las
+   escenas de idol).
+3. **Rejilla de cuadritos** en dos franjas: las **luces del escenario**
+   vistas de lejos (el mismo recurso que el fondo de focos de los
+   renders, §6).
+4. **Rayado fino a pluma** sólo en lo más oscuro: bajo el pelo y en
+   los pliegues.
+
+### 19.2 · Pinceles y texturas libres equivalentes
+| Capa | Recurso | Licencia | Para qué |
+|---|---|---|---|
+| Trama de puntos | [Brusheezy, 34 pinceles de *screentone*](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) (Photoshop) | «community»: uso personal y comercial, sin reventa ⚠️ (no dice si la atribución es obligatoria) | sombras de la trama 1 |
+| Brillos | [CLIP STUDIO ASSETS, «Shoujo Manga Sparkle»](https://assets.clip-studio.com/en-us/detail?id=1887489) | gratis (pide cuenta y CSP) ✅ | capa 2 y destellos de escenario |
+| Papel | [CLIP STUDIO ASSETS, «Paper textures»](https://assets.clip-studio.com/en-us/detail?id=1752867) | gratis ✅ | grano de papel en 2D |
+| Papel 3D | Poly Haven *paper-card* (§5.1, concepto C) | CC0 | la misma textura sirve en 2D y 3D |
+| Patrón de ropa | [freesvg.org, lunares sin costuras](https://freesvg.org/polka-dot-seamless-pattern) | CC0 ✅ | adornos de trajes de idol |
+
+### 19.3 · Patrones de ropa (vistos, no inventados)
+- Los trajes de B小町 (uniforme rojo, «POP IN 2», los de Taito) llevan
+  **lazos, corazones y estrellas sueltas** como adorno, **no** una tela
+  estampada ✅ (hojas P· y O·, fotos de cosplay).
+- El uniforme de **Yōtō** es **azul marino liso con ribete dorado**, sin
+  cuadros (cosplay de San Diego, punto 23). No inventar un tartán.
+
+### 19.4 · Emblemas y logos (medidos)
+- **Ichigo Production, Inc:** placa de metal grabada «Ichigo
+  Production, Inc · Saitou» con una **fresa con coronita**
+  ([Fandom, 323×205](https://static.wikia.nocookie.net/oshi_no_ko/images/b/b9/Ichigo_Productions.png))
+  ✅ (misma placa que O·23: dos fuentes).
+- **B小町, 1.ª generación:** monograma cursivo «B» con 「小町」 en negro,
+  insignia con **borde de picos blancos**, aire antiguo
+  ([Fandom, 313×313](https://static.wikia.nocookie.net/oshi_no_ko/images/e/e2/BKomachi_Gen1_Logo.png)) ✅.
+- **B小町, 2.ª generación:** «B小町» en letras de burbuja
+  **rosa-magenta con degradado** sobre un **corazón rojo**, con una
+  **estrella y estela amarilla** que lo cruza como una varita
+  ([Fandom, 600×600](https://static.wikia.nocookie.net/oshi_no_ko/images/9/98/BKomachi_Gen2_Logo.jpg)) ✅.
+  Ya es una **pegatina**: el más fácil de llevar a una lámina.
+  Los dos juntos cuentan el **antes y después** del grupo.
+- **Escudo del instituto Yōtō:** **no lo encontré** ⚠️ (ni página ni
+  archivo en la wiki; el uniforme de las hojas y del cosplay no lleva
+  escudo bordado visible).
+- **Estrellas:** ojo = seis puntas; cartelas y adornos = cinco
+  redondeadas (§16).
 
 ---
 
 ## Punto 20 · Gustos y detalles de cada personaje
 
-_(pendiente)_
+> De `partes/voz.md` (repaso corto). Fuente base: el wikitext de cada
+> personaje en la [wiki de Fandom](https://oshinoko.fandom.com/wiki/Ai_Hoshino)
+> por su API, la [web oficial de talento](https://ichigoproduction.com/talent/arima.html)
+> y la ficha de [AniList](https://anilist.co/character/188783).
+> **Aviso:** la ficha de la wiki **no tiene** cumpleaños ni tipo de
+> sangre, y el único artbook (*Glare×Sparkle*) es de ilustraciones, no
+> un *databook*. Por eso casi no hay cumpleaños.
+
+### Resumen para la lámina
+| | Altura | Color de idol | Come / odia | Lo que siempre lleva |
+|---|---|---|---|---|
+| **Ai** | 151 cm ✅ | **rojo** ⚠️ | no encontrado | su **móvil** (clave «45510») |
+| **Ruby** | 158 cm ✅ | **rojo**, por Ai ✅ | no encontrado | la barra de luz roja |
+| **Kana** | 150 cm ✅ | **blanco** ✅ | dieta baja en hidratos; **odia los pimientos** | boina y guion |
+| **MEM-cho** | 155 cm ✅ | **amarillo** ✅ | no encontrado | móvil y cámara |
+| **Akane** | 163 cm ✅ | — | **vegetariana** | su cuaderno de papel (§9) |
+| **Aqua** | 172 cm ✅ | — | **odia los pimientos** | cámara y edición |
+
+### Ai Hoshino
+- **Cumpleaños:** sin fecha. Muere hacia su **20.º cumpleaños**; el
+  manga deja en duda si fue justo antes o después (tomo 1, pp. 163, 167
+  y 198) ⚠️ ([Wikipedia JA](https://ja.wikipedia.org/wiki/%E3%80%90%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90%E3%80%91)).
+- **Su móvil y «45510»:** la clave de su teléfono y del blog son las
+  **iniciales de las cuatro fundadoras** de B小町. Aqua la descifra en
+  el capítulo 14 ✅ ([wiki](https://oshinoko.fandom.com/wiki/Ai_Hoshino) +
+  el relato oficial [*45510* en Young Jump](https://youngjump.jp/oshinoko/novel_45510/novel_01.html)).
+  En §13 y §16 ya salía como guiño; aquí está el porqué.
+- **Color de idol: rojo.** Ruby lo elige después como homenaje ⚠️ (la
+  wiki, en las páginas de Ai y de Ruby, cita el manga cap. 38, pág. 4:
+  una sola web). **Corrige** lo que decía §6.2 («sin encontrar»).
+- **Cómo se ve:** en su cabeza es «egoísta» y «codiciosa» por vivir de
+  mentiras calculadas; la wiki dice que en realidad se sacrificaba y
+  nunca se compadeció ⚠️ (análisis de la wiki, no cita textual). Cuadra
+  con «Hoshino Ai es codiciosa» (ep. 1, 10:23, §9).
+- **Comida:** no encontré ni favorita ni odiada ⚠️.
+
+### Aqua Hoshino
+- **Cumpleaños:** entre el **10 y el 19 de diciembre**, igual que Ruby
+  (mellizos); sale en los volantes que reparte Ichigo Saitō en el
+  **ep. 28** ⚠️ (una fuente primaria, citada en las dos fichas).
+- **Odia los pimientos** (ピーマン): lo confiesa disfrazado de Pieyon
+  (manga cap. 35, pág. 16) ✅ (wiki + el mismo gag de Kana).
+- **Le gustan las mujeres mayores que él** (se lo dice a Kana, cap. 30,
+  pág. 8) ⚠️.
+- **Afición:** edición de vídeo y cámara, aprendidas con Gotanda ✅
+  (wiki, *Trivia*; el vídeo que salva a Akane, ep. 7, §9).
+- **Gastó más de 5 millones de yenes** buscando a su padre (cap. 72,
+  pág. 9) ⚠️ (wiki).
+- **Cómo se ve:** se desprecia por no haber salvado a Ai; su venganza
+  es un castigo a sí mismo ⚠️ (wiki, *Personality*).
+
+### Ruby Hoshino
+- **Cumpleaños:** el mismo rango que Aqua, 10-19 de diciembre ⚠️.
+- **Color de idol: rojo**, el de su madre, a propósito ✅ (wiki, cap.
+  38, pág. 4 + las cartas «**In Red** Ruby» de *IDOLM@STER*, §6.2).
+- **Odia mentir**, pero miente para su venganza: es su choque interno
+  ⚠️ (wiki).
+- **Cómo se ve:** llama a su venganza una «cruzada sagrada» por su
+  madre; se rompe y llora como la niña que sólo quería a su madre
+  cuando Aqua le cuenta la verdad en el rodaje de *La mentira de 15
+  años* ✅ (wiki + la «etapa oscura» de §9).
+- **Comida y aficiones** fuera del trabajo de idol: no encontradas ⚠️.
+
+### Kana Arima
+- **Cumpleaños:** no encontrado ⚠️.
+- **Come poco hidrato** (dieta baja en carbohidratos, cap. 14, pág. 7)
+  ✅ (wiki; dato nuevo).
+- **Odia los pimientos**… y su éxito de niña fue «**El ejercicio del
+  pimiento**» (ピーマン体操). La ironía es su gag ✅ (wiki + [AniList](https://anilist.co/character/188783):
+  «She also hates bell peppers»). La canta en el ep. 9, 18:07 (§4).
+- **Color de idol: blanco** ✅ (wiki, cap. 38, pág. 4 + «Si da igual,
+  blanco», ep. 11, 03:34 + «**In White** Kana»).
+- **Cómo se ve:** finge confianza para seguir siendo «la niña genio»,
+  pero duda de su talento y teme acabar como un **juguete roto** de la
+  industria ✅ (wiki + [CBR](https://www.cbr.com/oshi-no-ko-kana-arima-popularity-explained/)).
+
+### Akane Kurokawa
+- **Cumpleaños:** no encontrado ⚠️.
+- **Vegetariana:** se llama a sí misma «精進の身» (*shōjin no mi*), juego
+  de palabras con la cocina vegetariana budista (cap. 23, pág. 7) ✅
+  (wiki; dato nuevo).
+- **Cocinera:** hace una cena de varios platos; aprendió en cursos con
+  su madre. La madre de Gotanda le dice a Aqua que «sería una buena
+  esposa» ✅ (wiki).
+- **Instagram en la ficción: `akanecco_2323`** (cap. 40, pág. 10) ✅
+  (wiki).
+- **Cómo se ve:** se siente **vacía**, sin identidad propia; sólo se
+  siente real dentro de un papel escrito. Por eso improvisar en el
+  *reality* la paralizaba ✅ (wiki + el análisis de Reddit [«A Black
+  Hole»](https://www.reddit.com/r/OshiNoKo/comments/1nxfjsk/a_black_hole_an_analysis_of_akane/),
+  88 votos).
+
+### MEM-cho
+- **Cumpleaños:** no encontrado. Tiene **23 años** y dice tener 18
+  (§9).
+- **Tiene una perra y un gato** (cap. 21, págs. 7-8) ✅ (wiki; dato
+  nuevo). Cómo son: no encontré imagen ⚠️.
+- **Vive en Meguro, Tokio** (ep. 8) ✅ (wiki; dato nuevo).
+- **Instagram en la ficción: `memmem_cho_o`**; da *like* a las fotos de
+  Akane y Aqua (cap. 40, pág. 10) ✅ (wiki).
+- **Color de idol: amarillo** ✅ (§6.2, «**In Yellow** MEMCho»).
+- **Cómo se ve:** sabe que finge la edad para debutar y cuida mucho su
+  imagen de «estudiante» ✅ (wiki). **No es un chiste** para la lámina
+  (§16).
 
 ---
 

@@ -164,6 +164,19 @@ entre verde oscuro, gris violeta y marrón grisáceo según el personaje) —
 dato útil para el punto 18 (lo apunto aquí porque salió de esta medición,
 que revise el redactor).
 
+**Un segundo look, por arco** (el encargo pide «trajes por temporada o
+arco», no sólo el look base — cubro uno más con hex, además de los cambios
+de ropa que ya cuenta el texto de la wiki en `datos-imagen.md` para las 5
+personas): **Killua en el arco de Yorknew City**, sentado en el sofá del
+apartamento de Kurapika — pantalla completa, no la hoja de diseño ·
+641×1080 · https://static.wikia.nocookie.net/hunterxhunter/images/9/9b/58_-_Killua_Yorknew_Outfit_3.png
+· muestreado a mano con Pillow en 4 puntos (la paleta automática de
+`estilo.py` salió dominada por el sofá verde oliva, la descarté): camisa
+mostaza abierta **#C6A661** (lado iluminado) / **#715231** (sombra),
+playera azul marino muy oscuro debajo **#252B32**, shorts verde-petróleo
+oscuro **#2E3738** — outfit casual distinto del traje de tabardo del examen
+y del traje de la Elección. ⚠️ una fuente, medido a mano.
+
 **Accesorios icónicos, hojas de diseño oficiales de «The Last Mission»**
 (línea limpia, sin color — sirven para forma y proporción, no para hex):
 
@@ -408,6 +421,6 @@ hoja realmente, las vi en mi propia hoja cruda `hoja_01.jpg` de
   «free CC0 manga screentone halftone brushes» (llevó a Brusheezy).
 - curl directo a `hunterxhunter.co.jp` → sin respuesta (código 000).
 
-Sigue: nada obligatorio pendiente de mis puntos (1, 3, 15, 16, 19, 23) — lo
-que falta está en «No encontré» con ⚠️ y ya no se puede resolver sin
-herramientas de pago o un tomo físico del manga.
+**Parte terminada.** Los 6 puntos (1, 3, 15, 16, 19, 23) están cubiertos con
+lo obligatorio; lo que falta es todo extra y está en «No encontré» con ⚠️.
+No dejo línea «Sigue:».
