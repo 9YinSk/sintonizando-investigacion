@@ -114,7 +114,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 > Haz la tanda S9 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/33-frieren.md`, `encargos/34-haikyuu.md`, `encargos/35-one-punch-man.md`, `encargos/36-hunter-x-hunter.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 33-frieren
+- [x] 33-frieren
 - [x] 34-haikyuu
 - [ ] 35-one-punch-man
 - [ ] 36-hunter-x-hunter
