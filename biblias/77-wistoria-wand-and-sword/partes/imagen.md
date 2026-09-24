@@ -48,3 +48,88 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - «FREE Fantasy Gothic-Baroque Cathedral Complex» · CC Attribution · https://sketchfab.com/3d-models/none-4a4e1101f4f74dbda6e0b5f2812c3e0b · ⚠️ (referencia de complejo gótico para Regarden Magical Academy)
 - «Citadel of the Ember Crown - castle» · CC Attribution · https://sketchfab.com/3d-models/none-45bf4401910b42108b6649b989b8b148 · ⚠️
 - No se encontró en Sketchfab ni Poly Haven ningún modelo con el nombre de la serie, de Will, Elfaria ni de la Mercedes Caulis: búsquedas «Wistoria», «Wistoria wand sword», «magia academia torre» sin resultado propio de la obra (es un anime de 2024-2026, todavía sin comunidad de modelado grande)
+
+## Punto 15 · Vestuario: trajes, colores (hex), accesorios, peinado
+
+### Will Serfort
+- Pelo: en el anime se ve azul-cian/verde agua (ahoge largo despeinado), no negro puro. Confirmado en TRES fuentes oficiales del anime (sitio oficial, funda de cartas de merchandising, macarons oficiales): hex medido #94CFCC (pelo, claro) sobre #181727/#2B292F (sombra) · https://wistoria-anime.com/goods/ (imágenes g12, g15, g20) y hoja `hojas/objetos_01.jpg` nº3-5 · ✅ (tres apariciones oficiales coinciden en el tono) — la ficha en inglés de Fandom dice «messy black hair»: es la única fuente que lo describe así, así que se marca ⚠️ ese texto y se prioriza el color visto en el arte a color
+- Ojos: morado/azul · descripción textual de Fandom (Will_Serfort#Appearance) · ⚠️ (una fuente de texto; no se ha medido un primer plano de ojos con buena luz)
+- Uniforme de Regarden (icónico, el que todos reconocen): camisa blanca, pantalón negro, corbata de bolo, capa/toga de estudiante negra con ribete dorado y gafas colgadas al cuello · hex medidos (character_1_main.png, sitio oficial): capa #22212D, ribete dorado #A48435, camisa clara #C1C9C7 · ✅ (dos fuentes: wiki texto + arte oficial coincide)
+- Traje de mazmorra (hecho por Rosti): camisa a rayas, pantalón negro, dos cinturones, guantes negros, capa más corta que la de calle, gafas de Elfaria que se baja sobre los ojos al pelear · hex medidos (character_1_main2.png): #302E37 / dorado #B07E16 · fuente: Will_Serfort#Appearance (Fandom) + arte oficial · ✅
+- Traje de Alto Mago (tras ascender a la Torre): blanco y azul claro con detalles dorados, mucho más luminoso que el uniforme · hex medidos (Will_Serfort_(High_Mage)-Anime_Design.png): #FEFEFF / #A0B0BA / #E8B064 · Fandom Wiki · ✅
+- Accesorio clave: gafas de piloto/motorista que le dio Elfaria de niños — se las baja sobre los ojos como gesto de «modo combate»; también su espada Wis, que cambia de forma según el elemento absorbido (ver Punto 1 y 19) · Will_Serfort#Appearance (Fandom) · ✅ (repetido en varias sinopsis de episodios)
+
+### Elfaria Albis Serfort
+- Pelo: celeste/azul claro, muy largo, pestañas también celestes (rasgo remarcado en la wiki: «gente la compara con una santa») · hex medidos (character_2_main.png, sitio oficial): #A3ACCA (sombra del vestido, tono similar al pelo) y #B1E3F0 (acento celeste) · Fandom Wiki (texto) + arte oficial · ✅
+- Ojos: azules, descritos por Will como «joyas del mar» · Elfaria_Albis_Serfort#Appearance (Fandom) · ⚠️ (una fuente de texto)
+- Traje icónico: «Manto Sagrado de Polvo de Diamante» (Holy Shroud of Diamond Dust) — vestido blanco con ribete dorado, cristal en forma de diamante sobre el pecho, cubre-rodillas y una capa que cae desde los brazos · hex medidos: blanco/plata #E7EDED, dorado #D3B746 · Fandom Wiki + arte oficial (character_2_main.png) · ✅
+- De niña: pelo corto a la altura de los hombros, vestido azul cian con volantes y sandalias («parece una princesa de cuento» según Will) · Elfaria_Albis_Serfort#Appearance · ⚠️ (una fuente de texto; imagen de referencia: Little_Elfaria.png, 891×633, en `hojas/personajes_01.jpg` nº37)
+- Como estudiante (antes de ser Magia Vander) llevaba el mismo uniforme de Regarden que Will y Sion · Elfaria_Albis_Serfort#Appearance (frase cortada en la wiki: «As a student, she wore her uniform consisting of a…») · ⚠️ (texto de la wiki incompleto; no se encontró el resto de la frase en el historial de la página)
+
+### Sion Ulster (Zion/Shion en el romanización de mercancía japonesa)
+- Pelo y ojos rojos, peinado hacia la derecha (slicked) · Sion_Ulster#Appearance (Fandom) · ✅ (coincide con Zion_Alster_Color.png, arte a color de la wiki)
+- Uniforme personal: camisa y pantalón oscuros, zapatos de marca de lujo «Les Ailes», cinturón, toga de estudiante, corbata de bolo · Sion_Ulster#Appearance · ✅
+- Paleta medida en arte a color (Zion Alster Color.png, 1272×1740): rojo intenso #D32E12 (pelo/fuego), piel/sombra #3E2A27, dorado #F0D14F · estilo.py sobre imagen de la wiki · ✅
+- Escudo familiar: familia noble Ulster, linaje de magos de fuego, emblema «halcón de fuego» · texto de Historia en Sion_Ulster (Fandom) · ⚠️ (una fuente; no se encontró la imagen del emblema del halcón por separado, sólo mencionado en texto)
+- Magia de fuego → forma «Incindia Barham» de Wis cuando Will absorbe su hechizo Ignis Rooks (ver Punto 19, emblema de facción) · Wis (Fandom) · ✅
+
+### Julius Reinberg
+- Pelo y ojos cian ondulados, medio largos · Julius_Reinberg#Appearance · ✅ (coincide con arte oficial, character_… no confirmado en sitio oficial numerado, sí en Anime Design de Fandom)
+- Uniforme + ornamento en forma de rosa hecho de hielo real en la toga (usa magia para mantenerlo) · Julius_Reinberg#Appearance · ✅
+- Ropa casual: camisa de vestir clara, pantalón de vestir, corbata con alfiler ovalado · Julius_Reinberg#Appearance · ⚠️ (una fuente, no se encontró imagen de esta variante casual)
+
+### Colette Loire
+- Uniforme de Regarden estándar + variante «Earth Faction» (post-ascenso) vista en la wiki (Colette_Loire_(Earth_Faction)-Anime_Design.png, hoja `personajes_01.jpg` nº19) · Fandom Wiki · ✅
+- Familia noble venida a menos «Loire», maga de tierra · Colette_Loire (Fandom, sección Historia) · ⚠️ (una fuente)
+
+### Rosti Nauman
+- Aspecto ligeramente andrógino, ojos azules, pelo rubio medio largo; camisa clara con dos bolsillos, pantalón oscuro, cinturón, corbata de bolo (el mismo uniforme base que los demás, sin capa en su diseño) · Rosti_Nauman#Appearance (Fandom) · ✅ (coincide con Rosti_Nauman-Anime_Design.png en la hoja)
+
+### Patrón compartido del uniforme de Regarden
+- Todos los estudiantes comparten base: camisa clara, pantalón/falda oscuro, cinturón, corbata de bolo, toga/capa negra con ribete dorado (el color del ribete varía poco; el corte de la capa marca el rango: más larga y ceremonial en High Mage) · visto en 6+ diseños distintos (Will, Sion, Julius, Colette, Rosti) de la wiki y del sitio oficial · ✅ (repetido en todas las fichas «Anime Design»)
+- Los Altos Magos (High Mage) cambian a colores más claros y capas más largas y ceremoniales, con más dorado — marca visual de ascenso en la jerarquía (relevante para «icónico» de cada arco) · comparando Will_Serfort-Anime_Design.png (uniforme, oscuro) vs Will_Serfort_(High_Mage)-Anime_Design.png (claro) · ✅
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+### Los 5 sitios con página propia en la wiki (coincide con el foco «academia de magia y torres» del encargo)
+- **Urbus Regarden**: la ciudad amurallada (muro hexagonal exterior, muro en forma de estrella de 6 puntas interior) construida alrededor de la Mercedes Caulis · vista aérea anime 1920×1080 · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/90/Urbus_Regarden_%28Anime%29.png · Fandom Wiki (Urbus_Regarden) · ✅ · paleta medida (estilo.py): verdes de campo #8CC3B5/#578460/#8DA978, cian de cielo/agua #57A2A7, línea de contorno #5D8369 — luz de mediodía, cielo despejado
+- **Regarden Magical Academy**: escuela gótica de 6 años, con «Spellhall», «Headmaster's Office» y fachada de piedra clara con columnas · vista aérea anime 1920×1080 (`Regarden_Magical_Academy_(Anime).png`) y fachada manga 1050×506 · Fandom Wiki (Regarden_Magical_Academy) · ✅ · paleta clara y casi monocroma en el dibujo manga (blancos y grises, #FEFEFE 47%, #A5A5A5); en anime domina el gris piedra con acentos de vidriera
+- **Mercedes Caulis** («torre del hechicero», 魔法使いの塔): la torre en el centro de la ciudad, con la Sala del Trono de la Magia Vander arriba y la Academia Superior (Upper Academy) debajo; la habitación personal de Elfaria es grande, con sólo una cama, mesa redonda y silla · imagen manga 433×678 (`Mercedes_Caulis.png`) e imagen a color de la aguja blanca sobre campos verdes en la hoja `fondos_01.jpg` nº5-6 (día y noche) · Fandom Wiki (Mercedes_Caulis) · ✅ · es la torre que pide el encargo: aguja blanca muy alta, estrecha, con una punta luminosa arriba, rodeada de campos y la ciudad circular
+- **Dungeon** (mazmorra bajo la academia, 49+ pisos explorados): entrada por las «Abyss Gates» (puerta enorme, suelo ajedrezado, columnas), piso 4 cubierto de hielo, piso 6-10 permitido a estudiantes, murales en piedra («Dungeon Mural»); es un lugar «vivo» que genera monstruos de las paredes · imágenes de los pisos 4, 6, 7, 10 y 11 en `hojas/fondos_01.jpg` nº 9-12 y `personajes_01.jpg` nº33-36 · Fandom Wiki (Dungeon) · ✅ · paleta: grises/blancos fríos, mucha trama de manga (blanco y negro), sin color oficial confirmado del anime en las imágenes reunidas (⚠️ falta un fotograma a color del dungeon; es tarea del equipo de vídeo con fotogramas.py)
+- **Slumland Street**: barrio pobre a las afueras de Urbus Regarden donde viven los enanos (Dwarves); ahí está el bar de Gina · imagen anime 1920×1080 (calles estrechas, tejados apiñados, luz cálida de noche) · Fandom Wiki (Slumland_Street) · ✅
+
+### Fondos de pantalla (Wallhaven, todos con la serie etiquetada; se confirmaron los 4 que hay en total)
+- 2302×1629 · 18 favoritos · https://w.wallhaven.cc/full/9o/wallhaven-9o681x.jpg · subido por Omelettte · Wallhaven · ✅ (existe en la búsqueda oficial de tag de la serie)
+- 2048×1373 · 11 favoritos · https://w.wallhaven.cc/full/yx/wallhaven-yxp2pd.png · subido por MAKEMO · Wallhaven · ✅
+- 1920×970 · 6 favoritos · https://w.wallhaven.cc/full/5g/wallhaven-5g9m99.png · subido por MAKEMO · Wallhaven · ✅ (Will y Elfaria, estilo manga)
+- 1920×970 · 3 favoritos · https://w.wallhaven.cc/full/l8/wallhaven-l81j1l.png · subido por MAKEMO · Wallhaven · ✅ (mismo autor, variante del anterior)
+- No hay más de 4 fondos con la etiqueta en Wallhaven (búsqueda `q=wistoria wand and sword`, `categories=010`, `purity=100` → total exacto 4): es un anime muy reciente, la comunidad de fondos aún es chica
+
+## Punto 19 · Texturas 2D: tramas, grano, patrones, emblemas y logos
+
+### Emblemas de las 5 facciones de la Magia Vander (el símbolo de poder político del mundo)
+- Lámina con los 4 emblemas dibujados a mano estilo tribal/gótico (Fuego «Incindia Barham», Hielo «Albis Vina», Trueno «Thorzeus Fasce», Hadas «Elleaf Canaan»), tinta negra sobre trama de puntos de manga · 1006×681 · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/The_emblems_of_the_current_Magia_Vander_factions.png · Fandom Wiki · ✅ · vista y guardada en `hojas/objetos_01.jpg` nº1 — estilo: líneas puntiagudas, simétricas, alas y púas, sin relleno de color (blanco y negro puro)
+- Emblema «Albis Vina» (facción de Elfaria) en alta resolución y limpio (sin trama, fondo transparente): 3116×3096 · https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/f/f4/Albis_Vina_Emblem.png · Fandom Wiki · ✅ · visto en `hojas/objetos_01.jpg` nº2: estrella de 6 puntas con alas y una gema central
+- Emblema «Elleaf Canaan» (hadas/elfos) 3108×3110, «Incindia Barham» (fuego) 3140×3145, «Thorzeus Fasce» (trueno, facción de Zeo, a la que se une Will) 3096×3091, «Grantina L'Abysse» 840×730, «Solphis Neamhain» 457×402 · mismo patrón de archivo en Fandom (`allimages`, wistoria.fandom.com) · ✅ (6 emblemas distintos confirmados por la lista de imágenes de la wiki)
+- Escudo familiar de los Ulster (halcón de fuego): mencionado en texto, sin imagen subida a la wiki · Sion_Ulster (Fandom, Historia) · ⚠️ («no lo encontré»: se buscó `srsearch=Ulster crest OR falcon` en la wiki sin resultado de imagen)
+
+### Logo/wordmark oficial
+- Wordmark japonés con brillo/resplandor cian sobre fondo oscuro, usado en merchandising (funda de cartas) · visto en `hojas/objetos_01.jpg` nº4 (g15full) · sitio oficial (wistoria-anime.com/goods) · ✅
+- Variantes planas del wordmark de la wiki (negro y blanco, 185×65) para wiki, no representan el logo real de producción: https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/b/bd/Wistoria_wordmark_black_v1.png · Fandom Wiki · ⚠️ (es el wordmark de la comunidad de fans, no el oficial del estudio — usar sólo como referencia de tipografía, no como logo final; el logo real está en `hojas/objetos_01.jpg` nº4 y en wistoria-anime.com)
+
+### Texturas equivalentes libres (para las capas de trama, papel y tela)
+- Screentone/halftone de manga, 34 pinceles en alta resolución, gratis · https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes · Brusheezy · ⚠️ (licencia del sitio: uso libre personal/comercial con atribución si se revende; revisar los términos exactos antes de redistribuir)
+- Grano de papel (CC0): AmbientCG Paper001, Paper003, Paper005, Paper006 · https://ambientcg.com/view?id=Paper001 (y Paper003/005/006) · AmbientCG · ✅ · CC0, sin atribución necesaria
+- Tela para las togas/capas (CC0): AmbientCG Fabric061, Fabric066, Fabric081C · https://ambientcg.com/view?id=Fabric061 · AmbientCG · ✅ · CC0
+- Metal dorado para ribetes y broches (CC0): AmbientCG Metal034, Metal042A, Metal048A/C · https://ambientcg.com/view?id=Metal034 · AmbientCG · ✅ · CC0
+- Piedra clara para la Academia y la Torre (CC0): AmbientCG Marble012, Marble016, Travertine009 · https://ambientcg.com/view?id=Marble012 · AmbientCG · ✅ · CC0
+
+## Punto 23 · Colaboraciones y cruces
+
+- **Crossover oficial**: «Wistoria: Wand and Sword» × «Magical Sisters Lulutto Lilly» (魔法の姉妹ルルットリリィ), «Semana de colaboración» anunciada el 14-jun-2026, con el gato familiar Kiki (de Wistoria) y los gatos Azuki/Uguisu (de la otra serie); manga de 3 viñetas ilustrado por Mojaclookie (autor de «Shikaru Neko»); sorteo de póster firmado por Amanosaki Kōhei (seiyuu) · https://www.luluttolilly.com/news/detail.php?id=23712 y confirmado en Anime News Network (15-jun-2026) · ✅ (dos fuentes) · imagen de la colab: https://img.sunrise-inc.co.jp/images/2026/06/thm_202606111155103091.jpg
+- **Mercancía oficial** (tienda del estudio, wistoria-anime.com/goods): standees acrílicos de cuerpo entero con base y credencial temática (visto en `hojas/objetos_01.jpg` nº3), llaveros acrílicos chibi de personajes secundarios (elfo de pelo verde, nº6), funda de cartas ilustrada con el grupo completo caminando hacia la Mercedes Caulis (nº4) · https://wistoria-anime.com/goods/ · sitio oficial · ✅
+- **Colaboración alimentaria**: macarons oficiales con retratos de personajes impresos en la superficie (estilo «café temático» para llevar) · imagen oficial 1280×720 (`hojas/objetos_01.jpg` nº5) · https://wistoria-anime.com/jrepgmrf/wp-content/uploads/2024/08/g20.jpg · sitio oficial · ✅
+- **Acrílicos de venta japonesa** (Amiami, Animate, Gamers, FATMAN Online Shop — tienda oficial de goods): stands de Will, Elfaria, Colette, Sion, Julius y Lihanna Owenzaus (Season 2 BIG Acrílico) · https://official-goods-store.jp/wistoria/v2/product/detail/TKW001 (FATMAN, tienda oficial) y https://www.amiami.jp/top/detail/detail?gcode=GOODS-04623656 · ✅ (dos fuentes: tienda oficial + reventa verificada Amiami)
+- **Cosplay**: no se encontró un concurso oficial de cosplay del estudio (búsqueda «Wistoria cosplay official contest» sin resultado propio); sí hay costureras/tiendas comerciales replicando el uniforme de Will (capa negra con ribete dorado) — ver `ezcosplay.com` y `cosplayclass.com` — y cosplay de fans sueltos en Instagram/TikTok (p. ej. de Finn) sin datos de materiales verificables · ⚠️ («no lo encontré» un cosplay documentado con materiales reales; lo que hay son tiendas de venta de disfraces, no referencia de «cosplay bien hecho»)
+- **Figuras**: no se encontró todavía una figura estática (PVC/resina) de gran escala anunciada (sólo acrílicos planos); búsqueda «Wistoria Wand and Sword figure PVC scale» sin resultado de una figura 3D oficial · ⚠️ («no lo encontré»: es un anime de 2024-2026, las figuras 3D suelen tardar más que los acrílicos en licenciarse)
+- No se encontró colaboración con marcas grandes (Fortnite, gachas, cafés físicos con local) más allá de lo listado arriba: búsquedas «Wistoria Fortnite», «Wistoria gacha collab», «ウィストリア コラボ カフェ» sin resultado adicional confirmado
