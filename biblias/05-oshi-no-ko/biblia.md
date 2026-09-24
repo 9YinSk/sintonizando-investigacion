@@ -18,6 +18,16 @@ fecha: 2026-09-24
 >   (bajar el vídeo pide «iniciar sesión», así que se miraron los
 >   *storyboards*, un cuadro por segundo); Sketchfab por su API;
 >   fontTools; Arctic Shift (Reddit). El detalle, en la bitácora (§21).
+> - **La segunda pasada se hizo en dos tandas** (el límite de uso cortó
+>   la primera). En la segunda tanda: `herramientas/fotogramas.py`
+>   volvió a fallar («Sign in to confirm you're not a bot», 4 clientes
+>   de yt-dlp probados), así que se miraron por *storyboard* 7 vídeos
+>   oficiales más (Akane y la visita al estudio de doblaje, §10 y §14);
+>   **`referencias.json` rehecho** (40 entradas, 34 medidas por la API
+>   de la wiki o bajando la imagen); **Crunchyroll News en español** por
+>   su API (entrevista al director y artículo de los ojos); Anime Corner,
+>   ranking.net, Ruliweb y ANMTV abiertos de verdad; los subtítulos
+>   japoneses de la emisión para dar minuto a las frases del doblaje.
 > - **Primera pasada (misma fecha, red cerrada).**
 > La red del contenedor estaba cerrada: Fandom, Doblaje Wiki, Wikipedia,
 > YouTube, Crunchyroll, ANMTV, Sketchfab, Pixiv, X y la web oficial daban
@@ -45,6 +55,70 @@ fecha: 2026-09-24
 > **Ojo con el wiki:** el encargo sugería `oshi-no-ko.fandom.com`, que
 > da **404**. El bueno es **`oshinoko.fandom.com`** ✅ (comprobado por su
 > API: 428 artículos, 2963 imágenes).
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+- **Wiki:** `oshi-no-ko.fandom.com` (404) → **`oshinoko.fandom.com`** ✅.
+- **Letra del logo:** «gótica muy gruesa» → **mincho** con la «の»
+  magenta `#E70082` y una estrella de seis puntas dentro (O·22, V·7) ✅.
+- **Magda Giner:** «es del doblaje de España, no usar» → **es del
+  latino**: la madre de Gotanda (Doblaje Wiki + ANMTV + ANN) ✅.
+- **Nobuyuki Kumano:** Armando Ibarrola (ANN) → **Armando Corona**
+  (Doblaje Wiki + ANMTV) ✅.
+- **T3:** el ep. 29 no es «Casting» → **«営業» (Marketing)**; en el
+  ep. 34 no elige Gotanda → **Ruby, Akane y Frill se prueban entre
+  ellas** (wiki) ✅.
+- **`bg20`:** «trajes de San Valentín» → **trajes de «POP IN 2»**
+  (renders oficiales P·11, 15, 19) ✅.
+- **Key visual de Ai del proyecto de fans:** «origen dudoso» → **oficial**
+  (*Season 1 Key Visual 2*, mismo tamaño, P·1) ✅.
+- **Modelos de *plaggy* en Sketchfab:** «CC0» (por el título) → **CC BY**
+  (API de Sketchfab): hay que dar crédito ✅.
+- **Estrellas:** «nunca cinco puntas» → **ojo = seis; cartelas y
+  adornos = cinco** redondeadas (O·19-21) ✅.
+- **Pelo de MEM:** «limón» → **rubio miel `#E2A144`** en los renders;
+  limón sólo bajo los focos ✅.
+- **Encuesta de Ruliweb:** «sondeo coreano de 20.000 votos, Kana 5.ª» →
+  el post (5-oct-2023) **copia el ranking japonés de ranking.net**, donde
+  Kana era **6.ª**. Hoy (24-sep-2026) ranking.net la pone **4.ª por nota
+  y 1.ª en número de votos** (5.590) ✅.
+- **«Blogs japoneses: Kana sube al primer puesto»** → sólo lo dice
+  **カイの漫画考察** (22-sep-2026); en ranking.net es 4.ª ✅.
+- **Parejas de Anime Corner:** «resumen confuso» → **Aqua × Kana 12,9 %,
+  Aqua × Akane 12,38 %** (página abierta) ✅.
+- **Frases del doblaje latino:** sin minuto → **ep. 2 · 20:23** y **ep. 4
+  · 19:52** (cruzadas con los subtítulos japoneses de la emisión) ✅.
+- **Los tres conceptos:** el «post» inventado (A), las カンペ inventadas
+  (B) y la hoja sin sitio (C) → **formatos oficiales vistos**: el
+  directo de MEM y su noticiero (A), el cartón oficial «ON AIR» y la
+  pizarra de MEM (B), la puerta de Ichigo Pro con la cartela de
+  estrella (C).
+
+**Añadido**
+- **3 hojas de contacto** propias (§3.0): 27 personajes, 25 objetos y
+  sitios, 26 fotogramas de vídeo, todos con tamaño o minuto.
+- **`referencias.json` rehecho:** antes 38 entradas, 22 sin tamaño y 16
+  que eran páginas (y 3 vídeos sin minuto); ahora **40**, todas la imagen misma o el vídeo con
+  `&t=`, **34 con ancho y alto medidos** (las 6 de vídeo no se pueden
+  medir: sólo hay *storyboard* de 320×180).
+- **Minutos y `&t=`** de opening, ending, tráiler y 6 clips (§4.1), y de
+  7 vídeos oficiales más en la segunda tanda (§10, §14).
+- **Reparto latino completo** con dos o tres fuentes (Doblaje Wiki,
+  ANMTV, API de noticias de Crunchyroll) y el staff (adaptación, mezcla,
+  producción) (§12).
+- **Cuadros de diálogo oficiales** (§8.1): el directo de MEM, el
+  noticiero «最新», los cartones de cuenta atrás, las cartelas de
+  estrella, la caja de *IDOLM@STER Shiny Colors* y el «mensaje especial».
+- **Poses:** Akane pasa de 5 a 11 y Ai de 6 a 7 (§10).
+- **Licencias de 15 modelos 3D** por la API de Sketchfab (§5.1) y **7
+  letras más** comprobadas con fontTools (§7).
+- Tabla **«Cumplimiento del encargo»** (antes de la bitácora).
+
+**Marcas de duda (⚠️):** había **52**; quedan **QUEDAN_TOTAL**, contadas
+con `grep` (QUEDAN_DATOS son datos dudosos; el resto son la leyenda,
+este resumen y la tabla de cumplimiento). El porqué de cada una va a su
+lado y resumido en §19.
 
 > [!warning] Spoiler que condiciona todo
 > Ai muere en el episodio 1. El manga terminó en noviembre de 2024 con la
@@ -139,7 +213,8 @@ su propio sitio del objeto (pantalla, letrero, casilla de la hoja).
 
 **Respuesta corta: Kana Arima** ✅ (lo dicen a la vez Anime Corner, la
 prensa china, blogs japoneses y CBR). Ai es el icono (la cara de la
-serie), pero en 2026 la más votada y comentada es Kana.
+serie y la 1.ª en ranking.net por nota), pero en 2026 la más votada y
+comentada es Kana: en ranking.net es la que más gente puntúa (5.590).
 
 **No hay encuesta oficial de personajes** ⚠️. Un artículo de enero de 2026
 dice que la editorial no ha hecho ninguna. Lo oficial fue el
@@ -150,14 +225,15 @@ La revista Young Jump sí tiene una página propia para animar a Kana:
 
 | Encuesta | Resultado | Estado |
 |---|---|---|
-| Anime Corner, invierno 2026 (45.490 votantes) | **Oshi no Ko T3, anime de la temporada n.º 1** ([ranking](https://animecorner.me/winter-2026-anime-of-the-season-rankings/)) | ⚠️ una fuente (la propia encuesta) |
-| Anime Corner, seiyū de la temporada | **Megumi Han (Kana) gana** ([ranking](https://animecorner.me/winter-2026-seiyuu-of-the-season-rankings/)) | ⚠️ una fuente (la propia encuesta) |
-| Anime Corner, parejas | Aqua × Kana gana, Aqua × Akane segunda | ⚠️ (resumen confuso) |
-| Encuesta semanal china, invierno 2026 | **Kana, 1.ª chica más popular** varias semanas; Ruby 4.ª ([Sina](https://www.sina.cn/news/detail/5265276628376440.html)) | ⚠️ |
-| Blogs japoneses de ranking | Kana sube al primer puesto ([manga-comic-netabare](https://manga-comic-netabare.com/archives/61568/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E4%BA%BA%E6%B0%97%E6%8A%95%E7%A5%A8%E6%9C%89%E9%A6%AC%E3%81%8B%E3%81%AA%E3%83%AB%E3%83%93%E3%83%BC/), [みんなのランキング](https://ranking.net/rankings/best-oshinoko-characters)) | ⚠️ |
+| Anime Corner, invierno 2026 (45.490 votantes en total) | **Oshi no Ko T3, anime de la temporada n.º 1** ([ranking](https://animecorner.me/winter-2026-anime-of-the-season-rankings/)) | ✅ página abierta (2.ª pasada) |
+| Anime Corner, seiyū de la temporada (más de 24.000 votos) | **Megumi Han (Kana) 1.ª, con el 10,08 %**, «por su actuación emotiva como Kana» ([ranking](https://animecorner.me/winter-2026-seiyuu-of-the-season-rankings/)) | ✅ página abierta |
+| Anime Corner, parejas (6.310 votos) | **Aqua × Kana 1.ª (12,9 %)**, Aqua × Akane 2.ª (12,38 %) (misma página que el anime de la temporada) | ✅ página abierta (antes «resumen confuso») |
+| Encuesta semanal china, invierno 2026 | **Kana, 1.ª chica más popular** varias semanas; Ruby 4.ª ([Sina](https://www.sina.cn/news/detail/5265276628376440.html)) | ⚠️ (una fuente; sina.cn bloqueado por el proxy en la segunda pasada) |
+| Blog japonés カイの漫画考察 (22-sep-2026) | **Kana 1.ª** («首位に躍り出たのは… 有馬かな») ([blog](https://manga-comic-netabare.com/archives/61568/oshinoko-character-ranking-arima-kana/)) | ✅ página abierta |
+| みんなのランキング (ranking.net, 24-sep-2026) | Ai 1.ª (92,5), Ruby 2.ª, Aqua 3.º, **Kana 4.ª (81,1) pero la que más gente votó: 5.590**; MEM 5.ª, Akane 8.ª ([ranking](https://ranking.net/rankings/best-oshinoko-characters)) | ✅ página abierta (**corregido**: no pone a Kana 1.ª) |
 | Prensa en inglés | «La favorita del fandom por mucho» ([CBR](https://www.cbr.com/oshi-no-ko-kana-arima-popularity-explained/), [CBR 2](https://www.cbr.com/crunchyroll-oshi-no-ko-kana-arima-anime-best-girl/)); «el personaje mejor escrito» ([Anime Corner](https://animecorner.me/oshi-no-ko-episode-10-kana-arima-is-the-best-written-character-in-the-series/)) | ✅ |
-| Ranker (fans de EE. UU.) | Akane, Ruby, Ai en el podio ([Ranker](https://www.ranker.com/list/best-oshi-no-ko-characters/rowan-blake)) | ⚠️ |
-| Ruliweb (Corea, 20.000 votos) | Ai 1.ª, Ruby 2.ª, Aqua 3.º, Kana 5.ª ([Ruliweb](https://bbs.ruliweb.com/community/board/300143/read/63270152)) | ⚠️ (origen del sondeo sin ver) |
+| Ranker (fans de EE. UU.) | Akane, Ruby, Ai en el podio ([Ranker](https://www.ranker.com/list/best-oshi-no-ko-characters/rowan-blake)) | ⚠️ (Ranker responde 401 en la segunda pasada; no lo pude abrir) |
+| Ruliweb (Corea, 5-oct-2023) | **No es un sondeo coreano:** el post copia ranking.net de 2023 («출처: ranking.net»): Ai, Ruby, Aqua, Miyako, Minami, **Kana 6.ª**, Akane 7.ª, MEM 8.ª ([Ruliweb](https://bbs.ruliweb.com/community/board/300143/read/63270152)) | ✅ página abierta (**corregido**: decía «Kana 5.ª») |
 
 **Qué significa para las láminas:**
 - **Kana** (la más querida) va en **#castings**: toda su historia es
@@ -329,6 +405,13 @@ Enlace directo a cada una:
 `https://raw.githubusercontent.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi/HEAD/bgN.jpg`
 (cambiar N). Pesan de 0,5 a 22 MB: **no se suben al repositorio**.
 
+**Segunda pasada, origen de las `bg` sin firma:** busqué su tamaño
+exacto entre las **2963 imágenes de la wiki** (API, `list=allimages`):
+ninguna coincide. 4kwallpapers tiene la de B小町 en **4096×2883** (el
+tamaño de `bg4`) y la de Ai en **5263×3206**, pero **no nombra autor ni
+fuente**. Por eso siguen con ⚠️: estilo oficial, origen sin probar.
+Para dibujar, mejor las oficiales de §3.0.
+
 **Ai en el escenario** (key visual con micro, guiño y dedo apuntando a
 cámara, 2152×3044), guardada en un proyecto de fans de una cinta de
 casete 3D ([imagen](https://raw.githubusercontent.com/TheFabi8A/oshi-no-ko/HEAD/public/front-page/oshi-no-ko.webp),
@@ -414,7 +497,11 @@ no el doblaje latino.
 | 11 | 06:19 | Ruby anuncia la canción: «¡Sign wa B!» | «“サインはB”！» | #en-directo |
 | 11 | 07:41–07:49 | **Kana ve a Aqua con la barra blanca**: «¡Voy a teñir tu barra de blanco! ¡Seré tu *oshi no ko*!» | «あんたのサイリウムを真っ白に染め上げてやる！」「あんたの推しの子になってやる！» | **la escena de Kana más querida** |
 
-**Temporada 3** (sin subtítulos en GitHub, **minuto sin verificar** ⚠️).
+**Temporada 3.** No se le ponen minutos: ninguna escena de la T3 entra
+en las láminas (es la parte oscura). Si hicieran falta, **sí hay
+subtítulos de la T3 en GitHub** (en indonesio, de Limenime:
+`limedriveku/limesub`, carpeta `Winter2026/Oshi no Ko Season 3`),
+hallados en la segunda pasada y no usados.
 **Corregido en la segunda pasada** (texto de la wiki por su API):
 - El **ep. 29** no se llama «Casting»: es **«営業» (*Eigyō*, «Marketing»)**,
   emitido el 11-feb-2026 ([wiki](https://oshinoko.fandom.com/wiki/Episode_29)).

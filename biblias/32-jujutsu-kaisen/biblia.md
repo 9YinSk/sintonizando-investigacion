@@ -204,8 +204,17 @@ Detalle en §12. Lo más útil para la lámina:
   1:24). Es **la forma oficial de «Gojo explica algo»**.
 - **La celda de los talismanes**: Yuji encadenado en una sala llena de
   **ofuda de papel** y **farolillos hexagonales** amarillos; Gojo
-  sentado de lado, con la venda (clip doblado, 0:08-0:47; es el final
-  de T1-1 / principio de T1-2).
+  **sentado al revés en una silla**, con los brazos colgando por el
+  respaldo y la venda (clip doblado, 0:08-0:47; es el final de T1-1 /
+  principio de T1-2; lo **volví a mirar**: [0:49](https://www.dailymotion.com/video/x7xmacu?t=49)).
+- **La caja de diálogo del modo historia** de *Cursed Clash* (nuevo):
+  **dos viñetas de anime con el borde roto**, en diagonal, sobre una
+  mancha de **tinta azul petróleo**, y el texto blanco al lado de cada
+  una (tráiler «Special Lecture», [3:09](https://www.dailymotion.com/video/x8scngs?t=189)).
+- **Gojo y la pantalla en blanco** (nuevo): Gojo con el puntero junto a
+  una **pantalla de proyección enrollable vacía**, en un aula de madera
+  ([3:22](https://www.dailymotion.com/video/x8scngs?t=202)). Es el hueco
+  perfecto para los textos de una lámina.
 - **El ending 1** («LOST IN PARADISE»): cada personaje **sale por una
   puerta** con ropa de calle, sobre un color plano: Yuji en turquesa,
   Megumi en amarillo, Nobara en rojo, Gojo en gris (0:10-0:58).
@@ -501,7 +510,9 @@ pizarra** o **placas hexagonales cian**.
 |---|---|---|
 | ***Cursed Clash*** (Bandai Namco, 2024) | **«Special Lecture»**: Gojo con venda y **puntero** ante una **pizarra** gris verdosa `#36362F`, con marco de madera `#30241E` y tiza `#DDD2CC` en serif. En combate: nombre en **placa hexagonal** con borde **cian `#12A2E4`** y fondo azul noche `#181E2A`; caja de ayuda con título cian («Cursed Energy Gauge») y texto blanco; acentos **rojo `#9C001E`** | ✅ visto y medido (tráiler, 0:21, 1:24, 1:30) |
 | ***Phantom Parade*** (móvil, 2023) | arte horizontal por personaje con fondos de energía (azul, rojo) | ✅ arte visto (#132-136); la caja de diálogo ⚠️ no la vi |
-| Caja de diálogo del modo historia de *Cursed Clash* | ⚠️ no encontré captura | — |
+| **Caja de diálogo del modo historia de *Cursed Clash*** | **dos fotogramas del anime recortados con el borde roto** (como papel rasgado), uno arriba a la izquierda y otro abajo a la derecha; cada frase va **al lado de su viñeta**, en sans blanca, sobre un fondo de **tinta azul petróleo** difuminada (`#314953`, `#202C33`, `#4C656D`). Sin nombre del que habla: se sabe por la cara. Ejemplo: Megumi «I don't mind, but are you okay with being among ordinary people, Panda?» / Panda «It's the zoo, so people'll probably just assume I'm a guy in a suit» | ✅ **visto y medido** (tráiler, [3:06-3:09](https://www.dailymotion.com/video/x8scngs?t=189)) |
+| **Frases rápidas del lobby** (*Cursed Clash*) | lista de 8 casillas numeradas con icono de bocadillo cian: «Let's do this!», «Not bad at all!», «Don't worry about it!», «Thanks.», «Sorry.»; fondo azul noche `#121D2A` | ✅ visto (tráiler, [2:39](https://www.dailymotion.com/video/x8scngs?t=159)) |
+| **«Online Lobby»** | la sala de espera en línea: los jugadores andan por un Shibuya morado; menú «Stamp / Tactics / Talk / Unique» | ✅ visto ([2:25](https://www.dailymotion.com/video/x8scngs?t=145)): **un «lobby» oficial de JJK**, para CREAR SALA |
 
 ### 7.4 Cómo se traduce a una lámina fija
 
@@ -838,6 +849,31 @@ transcripciones distintas o el vídeo lo confirma.
 | Geto a Gojo (ep. 25) | «**Qué otaku te oíste**» (Gojo nombra a Koromon y MetalGreymon) | T2-1 | ✅ Doblaje Wiki |
 | Hazenoki (ep. 57) | «El jutsu más importante fue… las mil sombras del siempre sucio» (guiño a Naruto) | T3, ep. 57 | ✅ Doblaje Wiki |
 
+**Muestras de voz de Doblaje Wiki** (2.º ayudante): la ficha de la
+serie trae **un audio corto por personaje**, sacado del doblaje. Los bajé
+por la API (`imageinfo`) y los pasé por **Whisper *small* y *medium***
+(`faster-whisper`, en español). ✅ = las dos pasadas dicen lo mismo. La
+ficha **no dice de qué episodio** es cada audio.
+
+| Quién (voz) | Frase textual | Estado |
+|---|---|---|
+| **Inumaki** (Ángel Rodríguez) | «**Copos de bonito, salmón, atún, huevas de salmón, atún y mayonesa, hojuelas de bonito**» | ✅ «copos de bonito», «salmón», «huevas de salmón», «hojuelas de bonito»; ⚠️ «atún» (las pasadas oyen «matún», «batún», «tuna») |
+| **Panda** (Roberto Cuevas) | «**En realidad, el primer día son combates grupales y el segundo individuales.**» | ✅ (Panda **explicando** el evento de intercambio) |
+| **Gojo** (Vilchis) | «Puede comunicarse claramente pese a ser un espíritu maldito, y ni hablar de su cantidad de energía maldita. ¿Una categoría especial sin registrar?» | ✅ |
+| Gojo joven (Vilchis) | «Sí, la barrera de esa maldición también alteraba el tiempo. Son raras, pero a veces hay de esas.» | ✅ |
+| **Yuji** (Fortuny) | «Por ciertas circunstancias, últimamente veo muchas películas. Eso sí, no las veo en el cine.» | ✅ |
+| **Nobara** (Rivera) | «¿Y qué se hace en ese evento? ¿Juegan a Smash Bros? En el de Wii los destrozaré. **Volarán y no volverán.**» | ✅ salvo «de Wii» ⚠️ |
+| **Sukuna** (Trejo, T1) | «¡Qué bien se siente la luz contra la piel! La carne de un espectro no tiene gracia. ¿Dónde está la gente? ¿Y las mujeres?» | ✅ |
+| **Todo** (Mireles) | «Olvídalo. A diferencia de ti, tengo asuntos importantes en Tokio. Voy a estrechar la mano de mi linda Takada.» | ✅ salvo «Takada» ⚠️ (oyen «atacada» y «tacada») |
+| Ijichi | «Son funcionarios de la preparatoria capaces de ver maldiciones.» | ✅ |
+
+**Otra frase textual del doblaje, en dos fuentes** ✅: el presentador
+del club de lucha (T3): «Por un lado, el joven sicario que más bien
+parece becario. **Nuestro querido gallo, Yuji Itadori**»
+([3DJuegos LATAM, 20-feb-2026](https://www.3djuegos.lat/anime/doblaje-jujutsu-kaisen-hizo-canon-meme-popular-fandom-mexico-gallo-itadori-realidad)
++ Doblaje Wiki). Doblaje Wiki dice **ep. 52**; 3DJuegos, «capítulo 6
+con doblaje de la tercera temporada» ⚠️ (numeración distinta).
+
 **Subtítulos oficiales en español** (no doblaje) del tráiler 1, leídos
 en pantalla: «No te preocupes. **No hay nadie más fuerte que yo**»
 (Gojo), «Ayudaré a las personas como quiera» (Megumi), «Esto es para
@@ -845,10 +881,12 @@ poder seguir siendo quien soy» (Nobara), «No quiero tener que
 arrepentirme por cómo viví» (Yuji), «Adelante. **Elige el infierno que
 prefieras**» ([Dailymotion x88ah25, 0:38-1:06](https://www.dailymotion.com/video/x88ah25)) ✅ visto.
 
-**Lo que NO encontré**: un clip oficial doblado de **Inumaki** (sus
-palabras de onigiri en latino) ni del «¿Qué tipo de chica te gusta?»
-de Todo. No invento su versión latina: hay que oírla en Crunchyroll
-(T1-5 16:48 y T1-8 5:54) antes de escribirla en una lámina.
+**Lo que NO encontré**: un clip oficial doblado del «¿Qué tipo de chica
+te gusta?» de Todo, ni la frase latina de Inumaki en su escena de T1-5
+(16:48). Sus **palabras de onigiri en latino** sí salen en la muestra de
+Doblaje Wiki (arriba): **«salmón», «huevas de salmón», «copos de
+bonito», «hojuelas de bonito»**. Antes de rotular «atún con mayonesa» en
+una lámina, hay que oírlo en Crunchyroll (T1-5, 16:48).
 
 ### 10.5 Los actores cuentan su trabajo
 
@@ -916,7 +954,29 @@ grandes de lo importante. Cada vídeo lleva **el enlace oficial** (si
 existe) y **la copia que miré** (mismo montaje; el minuto puede variar
 ±1 s). Los vídeos se borraron después.
 
-### 12.1 Los que miré fotograma a fotograma
+### 12.0 Lo que volví a mirar yo (2.º ayudante, 24-sep-2026) ✅
+
+`python3 herramientas/fotogramas.py "<url>" --cada 2` (o 3) sobre las
+copias de Dailymotion; **abrí cada hoja** y saqué en grande lo
+importante (`--fotograma`). YouTube dio «Sign in to confirm you're not
+a bot» a `yt-dlp`, así que no hubo copia oficial.
+
+| Vídeo | Copia | Hoja | Lo que confirmé o encontré |
+|---|---|---|---|
+| Opening 1 | [x84iff2](https://www.dailymotion.com/video/x84iff2) | 46 fotogramas cada 2 s | ✅ todos los minutos del 1.er ayudante (logo 0:12-0:16, Nanami en el café 0:34, Gojo 0:42 y 0:52, Megumi 1:06, Yuji 1:12, hanami [1:16](https://www.dailymotion.com/video/x84iff2?t=76), Sukuna 1:22). Nuevo: **Inumaki grita con el sello en la mejilla** ([1:02](https://www.dailymotion.com/video/x84iff2?t=62)); Maki en un parque (0:36) |
+| Ending 1 | [x80jy2b](https://www.dailymotion.com/video/x80jy2b) | 51 cada 2 s | ✅ las puertas y colores (Yuji 0:06-0:22, Megumi 0:24-0:38, Nobara 0:40-0:54, Gojo 0:56-1:10). Nuevo: Gojo **se prueba gafas de una estantería** (1:02); Maki (1:12); Panda con globos (1:14); **Inumaki comiendo un onigiri**, con arroz en la mejilla, sudadera verde azulado sin mangas y mochila ([1:16](https://www.dailymotion.com/video/x80jy2b?t=76)); Nanami cenando **filete con copa de vino**, corbata roja (1:18); Ijichi **quitando el polvo a su coche negro con un plumero**, mano en la frente (1:24) |
+| Tráiler «Special Lecture» (*Cursed Clash*) | [x8scngs](https://www.dailymotion.com/video/x8scngs) | 83 cada 3 s + 10 grandes | ✅ pizarra (0:18-0:54, 1:24). Nuevo: **caja de diálogo del modo historia** (3:06-3:09), **«Relationship Chart»** en la pantalla (3:12), **pantalla en blanco** con Gojo y puntero (3:21-3:24), **Online Lobby** (2:25), **frases rápidas** (2:39), elección de ropa (2:36) y el lema «**Master a New Domain**» (3:45) |
+| Gojo en la celda (doblaje latino) | [x7xmacu](https://www.dailymotion.com/video/x7xmacu) | 29 cada 2 s | ✅ farolillos (0:14-0:16), pared de ofuda (0:18-0:20), vista cenital (0:44). **Corrijo**: Gojo está **sentado al revés en la silla** ([0:49](https://www.dailymotion.com/video/x7xmacu?t=49)), no «de lado» |
+| Gojo contra Jogo (T1-7, sub. inglés) | [x7yt0gp](https://www.dailymotion.com/video/x7yt0gp) | 90 cada 3 s | ✅ manos juntas (0:30), apretón de manos (1:27), índice (1:39), «This is Itadori Yuuji-kun» (2:12), mano en la venda (3:03), ojos (3:39). La frase de la venda es la clave: «**The most effective way to deal with a Domain is to lay out your own Domain**» (3:00-3:03) |
+| Dominio de Gojo (T1-7, otra copia) | [x7xhwib](https://www.dailymotion.com/video/x7xhwib) | 60 cada 2 s | nuevo: el **signo de manos del dominio**: mano derecha a la altura de la cara, **índice y corazón cruzados**, venda bajada al cuello ([0:33](https://www.dailymotion.com/video/x7xhwib?t=33)) |
+| Yuji y Todo contra Hanami (T1-19) | [x80pjbn](https://www.dailymotion.com/video/x80pjbn) | 86 cada 3 s | ✅ tejados rojos, Maki (0:48), Yuji y la capucha (1:42), las manos de Todo (2:18). Nuevo: **Inumaki con sangre en la boca** y el sello (0:09) y Megumi que le sujeta: «Inumaki-senpai…» (0:33): **la voz dañada** |
+| Tráiler 1 (sub. oficial en español, Crunchyroll) | [x88ah25](https://www.dailymotion.com/video/x88ah25) | 55 cada 2 s | ✅ todas las frases de §10.4. Nuevo: Gojo, «**Es un buen momento para enseñarte… qué significa "jujutsu" en realidad**» (1:14-1:20); créditos: Park Sunghoo (0:16), Seko Hiroshi (0:22), Hiramatsu Tadashi (0:28), MAPPA (0:32) |
+| Tráiler de JJK0 (sub. en español, Tomatazos) | [x8x3x96](https://www.dailymotion.com/video/x8x3x96) | 44 cada 3 s | Yuta **en la misma celda de ofuda** (0:45, 0:48); **Panda, Maki e Inumaki** en el aula de madera, Inumaki **subiéndose la bufanda de cuadros** (0:51): «No es un lugar para los malditos»; Geto ante un muro de caligrafía (1:03) |
+| «Yuji Meets Inumaki» | [x9830ho](https://www.dailymotion.com/video/x9830ho) | 29 cada 2 s | **no sirve**: es un montaje vertical de fans con letras rosas y azules. Lo descarto |
+
+Los `video.mp4` se borraron al terminar las hojas.
+
+### 12.1 Los que miró el 1.er ayudante fotograma a fotograma
 
 | Vídeo | Oficial | Copia mirada | Lo que se ve (minuto de la copia) |
 |---|---|---|---|
@@ -997,7 +1057,53 @@ bloqueada por la red del contenedor. ⚠️ No pude mirar contenido descartado.
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
-(pendiente)
+### 14.1 Lo que todo fan reconoce (con su minuto)
+
+| Meme o momento | Dónde | Por qué gusta | Fuentes |
+|---|---|---|---|
+| **«Tranquilo. Soy el más fuerte»** | T1-2, 1:29 | Gojo en una frase | sub. con tiempos ✅; sub. oficial ES del tráiler: «No hay nadie más fuerte que yo» (0:38, visto) ✅ |
+| **«Nah, I'd win»** (勝つさ, «Ganaría») | T1-2, **14:32** (Yuji: «¿Perderías?» Gojo: «勝つさ»); en el manga vuelve en el **cap. 221**, antes de su pelea con Sukuna | la frase se volvió **chiste** porque en el manga pierde. El fandom la pone en todo | sub. ✅ + [pixiv百科「勝つさ」](https://dic.pixiv.net/a/%E5%8B%9D%E3%81%A4%E3%81%95) y [ciatr (ja)](https://ciatr.jp/topics/326274) + [Sportskeeda](https://sportskeeda.com/anime/nah-i-d-win-jujutsu-kaisen-fans-turn-one-iconic-dialogues-cursed-meme) ✅ |
+| **«En el cielo y en la tierra, sólo yo soy el honrado»** (天上天下 唯我独尊) | T2-4 (ep. 28), 16:54 | Gojo joven renace, **mano en la frente riéndose** (visto en copia, 0:36) | sub. ✅ + vídeo ✅ |
+| **«¿Eres el más fuerte porque eres Satoru Gojo…?»** | T2-5 (ep. 29), 16:56 | Geto; el fandom lo reescribe con cualquier cosa (Fandom: «Are you the nah id win because…») | sub. ✅ + [foro de la wiki](https://jujutsu-kaisen.fandom.com/f/p/4400000000000048141) ✅ |
+| **«Siéntete orgulloso»** («Stand proud», 誇れ) | T2-16 (ep. 40), **21:09**: Sukuna a Jogo, «de los que luché hace mil años, fuiste de los mejores» | el villano que **reconoce** al rival | sub. ✅ + [Sportskeeda](https://www.sportskeeda.com/anime/stand-proud-strong-sukuna-s-famous-quote-jujutsu-kaisen-explained) ✅ |
+| **«¿Qué tipo de chica te gusta?»** | T1-8, 5:54 | Todo; en Reddit, «THINK YUJI, THINK. WHAT TYPE OF WOMAN IS YOUR TYPE?» tiene **2.516 votos** | sub. ✅ + [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=JuJutsuKaisen&title=what%20type%20of%20woman) ✅ |
+| **Las horas extra de Nanami** | T1-9, 8:49 y T1-10, 21:12 | el oficinista cansado; «Nanami Kento - Overtime», **3.783 votos** | sub. ✅ + Arctic Shift ✅ |
+| **El conjuro de Megumi** (布瑠部由良由良, «With this treasure I summon…») | T1-5, 10:19 (lo corta); **T2-17 (ep. 41), 3:06-4:05** invoca a **Mahoraga** | el fandom lo usa para «sacar el arma secreta» | sub. ✅; el meme en inglés ⚠️ (una búsqueda sin explicación) |
+| **Inumaki y sus onigiri** | T1-5, 16:48 | todos quieren saber qué significa «¡salmón!»; «Why doesn't Inumaki just use TTS», **1.057 votos** | wiki (lista oficial del tomo 0, pág. 104) ✅ + Reddit ✅ |
+| **«Brother»** | T1-19, 15:57; «Thank you so much, best friend!» (copia x80pjbn, 2:21, visto) | la amistad inventada de Todo | sub. ✅ + vídeo ✅ |
+| **El gesto del dominio** | T1-7 (índice y corazón cruzados, visto en x7xhwib 0:33) | la gente lo imita en fotos y TikTok | vídeo ✅; la tendencia ⚠️ (sólo títulos de Dailymotion y TikTok) |
+| 🇲🇽 **«El gallo Itadori»** | T3 (ep. 52 según Doblaje Wiki) | mote **latino** de los fans; el doblaje lo hizo oficial | Doblaje Wiki + 3DJuegos LATAM ✅ |
+| 🇲🇽 **Guiños del doblaje** | «chipote chillón» (ep. 17), «Qué otaku te oíste» (ep. 25), «¡Eso es todo, amigos!» (ep. 54) | el público latino los celebra | Doblaje Wiki ✅ (una fuente cada uno) |
+
+### 14.2 Qué NO hacer (lo que un fan notaría)
+
+- **Spoilers** en una lámina de uso diario: Nanami (T2-18), Nobara
+  (T2-19), Gojo sellado en Shibuya y lo que pasa en el manga después.
+  El servidor pide marcar spoilers en #que-estas-viendo. Usar el
+  **look de la T1** (uniforme, venda) y nada de parches ni cicatrices.
+- **Gojo sin venda por gusto**. Los ojos son **el golpe fuerte** (T1-7,
+  3:39 de la copia). En la lámina «de profe» va con **venda** (como en
+  *Cursed Clash*) o con **gafas redondas** (P3).
+- **Inumaki hablando normal**. Sólo dice **ingredientes de onigiri**; si
+  da una orden, le sangra la garganta (T1-19, visto: 0:09 y 0:33 de la
+  copia). En la lámina, **Inumaki dice «¡Salmón!» y otro traduce**.
+- **Sukuna de guía simpático**: es un sádico. Si sale, que sea amenaza
+  cómica o lámina de reglas.
+- **Megumi sonriendo mucho** o **Nobara modosita**: él es seco; ella,
+  descarada.
+- **Yuji pelirrojo**: su pelo es **rosa claro** (`#D8A8A0`, medido en
+  #139) con la nuca **oscura y rapada**. Las **marcas negras** en la cara
+  sólo cuando sale Sukuna.
+- **Mezclar las traducciones del doblaje**: la T1 dijo «**Extensión** de
+  Dominio» y «Hechicería»; la T2, «**Expansión** de Dominio» y
+  «Brujería» (Doblaje Wiki). Elegir **la de la T2** y no mezclar.
+- **El título mal escrito**: es **呪術廻戦**, con **廻**. «咒术回战» es el
+  chino simplificado (sale en títulos de vídeos chinos).
+- **Globo blanco redondo**, letras redondas o alegres, **Comic Sans**.
+- **Arte hecho con IA**: en DeviantArt abunda (§4.2). El dueño lo nota.
+- **Cambiar el gesto del dominio**: cada uno tiene el suyo. El de Gojo
+  es **índice y corazón cruzados** (visto). Los de Sukuna y Megumi son
+  otros ⚠️ (no los comprobé en vídeo).
 
 ## 15 · Poses analizadas por personaje
 
@@ -1019,6 +1125,9 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 8 | P2 (#18) | **«V» doble**, abraza a Yuji | **celebrar**, saludar |
 | 9 | P3 (#82) | **se levanta las gafas redondas** con las dos manos | «mira esto», animar |
 | 10 | #618 | **brazo por encima del hombro** de Nanami, carcajada; fondo cómico con rayas | presentar a otro en broma |
+| 11 | *Cursed Clash*, [3:22](https://www.dailymotion.com/video/x8scngs?t=202) | de pie a la derecha de una **pantalla en blanco**, **puntero en la mano derecha**, brazo izquierdo cruzado, sonrisa | **explicar** (el mejor para la lámina A) ✅ visto |
+| 12 | celda, [0:49](https://www.dailymotion.com/video/x7xmacu?t=49) | **sentado al revés en una silla**, piernas abiertas, brazos por el respaldo, sonrisa | charlar, «a ver, cuéntame» ✅ visto |
+| 13 | T1-7, [x7xhwib 0:33](https://www.dailymotion.com/video/x7xhwib?t=33) | **signo del dominio**: índice y corazón cruzados junto a la cara, ojos azules, media sonrisa | **abrir el dominio** = «crear sala» ✅ visto |
 
 ### Yuji
 
@@ -1067,6 +1176,8 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 6 | #839 | **mano en el hombro** de Megumi, sangre en la boca | proteger, animar |
 | 7 | #973 | (Kasumi) con **el teléfono** en la oreja: Inumaki manda **por teléfono** | la voz a distancia |
 | 8 | P18 (#15) | arte conceptual: **pulgar arriba**, ojos cerrados de gusto | celebrar |
+| 9 | tráiler JJK0, [x8x3x96 0:51](https://www.dailymotion.com/video/x8x3x96?t=51) | **se sube la bufanda de cuadros** con los dedos, mirada de lado, seria | «callado, pero atento» ✅ visto |
+| 10 | OP1, [1:02](https://www.dailymotion.com/video/x84iff2?t=62) | **boca abierta gritando**, sello de la mejilla a la vista | la orden fuerte ✅ visto |
 
 ### Nanami
 
