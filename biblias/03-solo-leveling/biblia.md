@@ -839,6 +839,130 @@ Ninguno de estos vídeos tiene subtítulos ni capítulos (comprobado con yt-dlp)
 
 ---
 
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+> Repaso corto del 24-sep-2026 (parte de texto). Resumen: **el webtoon entinta en negro; el anime casi no usa línea negra y la cambia por luz de borde de color**. Nada de gestos de dibujo animado.
+
+### Quién lo hizo
+- **Anime:** A-1 Pictures. Dirección, **Shunsuke Nakashige**; diseño de personajes, **Tomoko Sudo** ([VFX Voice, entrevista al equipo](https://vfxvoice.com/maximizing-the-strength-of-anime-for-solo-leveling/) + [AniList, staff](https://anilist.co/anime/151807/staff)) ✅.
+- Director de CG, **Toshitaka Morioka**; dirección de fotografía, **Daichi Iseki**; color, **Naomi Nakano**; logo, **Tsubasa Ōtaki** ([AniList, staff](https://anilist.co/anime/151807/staff)) ⚠️ (una fuente, la ficha de créditos).
+- **Ventanas del Sistema:** gráficos en movimiento de Takemune Ōshiro, de Production I.G (§2) ✅.
+- **Webtoon:** Jang Sung-rak, «**DUBU**», de Redice Studio (murió en julio de 2022). Estilo «afilado, limpio y empapado de color intenso» ([KoreaLore](https://www.korealore.com/2026/08/solo-leveling-webtoon-profile.html)) ⚠️.
+
+### La regla del director ✅
+- Nakashige: «Esta obra pedía el acabado de alta gama que se lleva ahora. Por eso **evité todo lo posible las expresiones de dibujo animado**. Usé composición, color y un **procesado de cámara parecido a la imagen real**». Dice que costó tiempo y que lo ajustaron con cada sección ([CBR](https://www.cbr.com/solo-leveling-director-original-cartoon-expressions-anime-why-cut/), [FandomWire](https://fandomwire.com/solo-leveling-director-reveals-reason-behind-change/)).
+- **Para la lámina:** nada de caras deformadas de comedia, gotas de sudor gigantes ni *chibi*. Sí profundidad de campo, grano fino y contraste.
+
+### Cómo se ve, medido (con `estilo.py`, en dos imágenes de la wiki) ✅
+- **Anime** ([Igris, ep. 11](https://static.wikia.nocookie.net/solo-leveling/images/c/c0/Anime_Episode_11_Picture_5.png), 1366×768): **casi sin contorno negro**. El volumen lo da una **luz de borde rosa-violeta** (`#8B5469`, `#E790B7`) sobre negro casi puro (`#08080F`, `#0F121B`). La poca línea que hay es de color (`#693D56`). Saturación 55 %, brillo 16 %: oscuro y contrastado. **Fondo totalmente desenfocado.**
+- **Webtoon** ([cap. 50, Jinwoo en la nieve](https://static.wikia.nocookie.net/solo-leveling/images/3/3c/Chapter_50.png), 574×778): **línea negra limpia y continua** (`#3F3F47`). Sombra plana en el pelo con un solo golpe de luz. Nieve con pincel suave por encima. Azules fríos (`#858EA5`, `#98BACD`) contra el marrón cálido del abrigo.
+- **No hay tramas de punto.** El webtoon es a todo color, con **degradados digitales saturados**. Sus efectos son **aberración cromática** (poderes), **desenfoque de movimiento** y **líneas de velocidad radiales** con humo y escombros ([canmom.art, análisis del manhwa](https://canmom.art/crit/comics/solo-leveling)) ⚠️ (una fuente leída entera).
+
+### 2D y 3D mezclados
+- El productor **Atsushi Kaneko**: la base es 2D a mano, pero no escala para masas. **El ejército de sombras se probó en 2D y pasó a 3D** porque «no tenía impacto» ([VFX Voice](https://vfxvoice.com/maximizing-the-strength-of-anime-for-solo-leveling/)) ✅.
+- Los Altos Orcos van en CG, tratados «para que parezcan más 2D». El estudio decide por escena: «**2D First**» o «**3D First**» ([Anime Corner, cómo se hizo](https://animecorner.me/how-the-solo-leveling-anime-was-made-behind-the-scenes-at-a-1-pictures-ahead-of-the-season-2-finale/)) ✅.
+- Los personajes de fondo comparten modelo y cambian tatuajes o colores (Morioka, Anime Corner) ⚠️.
+- **Captura de movimiento:** usaron **mocopi** de Sony (6 sensores de 8 g) para los caballeros y las multitudes de los **ep. 11-12**. Grabaron al aire libre: en el estudio no cabía el espadazo. Flujo: **3ds Max** (rig CAT) → **MotionBuilder** → BVH ([Sony XYN, caso de estudio](https://xyn.sony.net/en/case/sololeveling-anime)) ⚠️ (una fuente oficial).
+- El storyboardista **Takayuki Kikuchi** unió los planos de Igris contra Iron en **un solo corte de 26 segundos** (Anime Corner) ⚠️.
+- **Programa 2D del estudio: no lo encontré.** En la tele japonesa lo común es RETAS; Clip Studio lo usan otros estudios ([Clip Studio ASK](https://ask.clip-studio.com/en-us/detail?id=57247)) ⚠️. Es dato de la industria, no de esta serie.
+- **Filtros por su nombre** (aberración, *bloom*, grano) en el anime: ninguna fuente técnica los nombra. Lo de abajo sale de la cita del director ⚠️ (traducción propia).
+
+### Cómo replicarlo en Photoshop
+- **Cuadro «anime»** (poder, Monarca, acción): casi sin línea negra. El contorno es una capa de **luz de borde** en modo Trama o Sobreexposición lineal (Añadir), del tono de la escena: cian del Sistema `#82F3FA`, violeta Monarca `#9229F9`/`#ED77F3` o rosa como Igris. Sombra en Multiplicar, oscura y con poco degradado (`#08080F`-`#15262D`). Encima, **grano fino** (Ruido 2-3 %) y un **viñeteado suave** ⚠️ (traducción propia de la cita).
+- **Cuadro «webtoon»:** pincel redondo duro, **línea negra continua** (`#3F3F47`-`#1A222C`), sombra plana de un tono por zona, luces con pincel suave.
+- **Líneas de velocidad** para acción e invocación: el pack libre del punto 19.
+
+### Cómo replicarlo en Blender
+- **Contorno:** para el anime, **sin Line Art visible**. En su lugar, un nodo *Fresnel* o *Layer Weight* que alimente un *Emission* del color de la escena: es la luz de borde medida. Para un cuadro tipo webtoon, **Line Art** (Grease Pencil) o **Freestyle** fino y constante; **Solidify** para objetos sueltos.
+- **Sombreado (Eevee):** *Shader to RGB* → *Color Ramp* en **Constante**. Dos bandas para piel y objetos; tres para pelo o energía (con la banda media rosa clara del fotograma de Igris).
+- **Luz y cámara:** luz fría desde abajo (la ventana o el portal) y luz de borde de color. **Profundidad de campo** en la cámara para desenfocar el fondo, y grano en el compositor ⚠️ (traducción propia de «como imagen real»).
+- **Modelos para posar** (no para pegar): Igris ([shrithik][sk-igris2], CC BY, 33 970 caras), Cha Hae-In ([Casttelan2][sk-cha], CC BY, 35 694 caras) y la espada de Igris ([sk-igrissword]), todos en §11 y comprobados por la API de Sketchfab ✅.
+- **Texturas encima:** el emblema de Ahjin (punto 19) como calcomanía en ropa, escudos o el mostrador; metal y madera, los de §9.
+
+### Encuadres y cómo se enmarca cada emoción
+- **Poder:** contrapicado y silueta a contraluz. Go Gunhee de brazos cruzados ante la ciudad en ruinas ([OP · 0:54][yt-op1-54]); Jinwoo con ojos violeta y la mano en la cara ([OP · 1:22][yt-op1-82]).
+- **Diálogo tranquilo:** primer plano con el **fondo desenfocado**, como una cámara real (el fotograma de Igris de arriba).
+- **Acción:** plano largo que sigue la pelea sin cortar (los 26 s de Igris contra Iron).
+- **Tristeza:** primer plano sin embellecer, **luz azul fría** y una mano en la cara (Jinwoo llorando, ep. 21, punto 21).
+- **Explicar:** Jinwoo pensando con la ventana al lado (S·2, §18).
+- **Para la lámina:** si el personaje habla desde un fotograma, fondo desenfocado y luz de borde de color; nunca fondo nítido y plano.
+
+---
+
+## Punto 19 · Texturas 2D (tramas, pinceladas, patrones y emblemas)
+
+> Parte de imagen, más una hoja de los emblemas que monté y miré yo (redactor) para comprobar sus colores.
+
+### Qué textura tiene la serie
+- **Ninguna trama de manga.** DUBU colorea con degradados digitales saturados, pensados para pantalla. La «textura» son **líneas de velocidad radiales**, humo, escombros, desenfoque y aberración ([canmom.art](https://canmom.art/crit/comics/solo-leveling)) ⚠️ (una fuente leída entera; otras reseñas dicen lo mismo, sin abrirlas).
+- La línea: limpia, muy estudiada en los pliegues y la musculatura. En el anime, grano y brillo de posproducción (punto 18).
+- **Patrón de tela** en la ropa de Jinwoo o Cha Hae-In: **no lo encontré**. La wiki describe colores y cortes, no tejidos ⚠️.
+
+### Pinceles y texturas libres
+| Capa | Recurso | Licencia | Para qué |
+|---|---|---|---|
+| **Líneas de velocidad** (la que sí usa la serie) | [«Manga Speedlines», 20 pinceles .ABR](https://myphotoshopbrushes.com/resources/3816/manga-speedlines) (valen en Procreate, Affinity, GIMP y Krita) | **Uso comercial libre, con atribución** ✅ (leída en la página) | acción, invocar sombras, «Surge» |
+| **Grabado en metal** | [«Metal Armor Pattern 001»](https://3dtextures.me/2026/01/28/metal-armor-pattern-001/), 4096×4096 | **CC0** ✅ | armaduras de Igris y Beru, placas, empuñaduras |
+| **Tramas de manga** | [«[FREE] Manga Screentone Pack 1»](https://assets.clip-studio.com/en-us/detail?id=2142037), Clip Studio 1.10.10 o más | gratis (0 $), dentro de Clip Studio ✅ | sólo para un cuadro «manga»: la serie no las usa |
+| **Grano de papel** | [CC0 Textures, papel](https://cc0-textures.com/c/paper) | CC0, sin registro ⚠️ (no bajé un archivo concreto) | viñeta impresa, portada del manhwa |
+| **Texturas reales** (corcho, madera, piedra, metal) | Poly Haven y ambientCG, ya en §9 | CC0 ✅ | los sitios |
+| **Aberración y grano** | no es una textura: ajustes de capa en Photoshop (punto 18) | — | — |
+
+### Emblemas y logos del mundo
+Tamaños por la API de la wiki. **Los miré en una hoja propia** y medí el color con Pillow.
+
+| Emblema | Cómo es | Tamaño | Enlace |
+|---|---|---|---|
+| **Ahjin** (el gremio de Jinwoo) | **llama o fénix violeta** en círculo, violeta oscuro `#402080`-`#5030A0` | 700×700 | [Ahjin.png](https://static.wikia.nocookie.net/solo-leveling/images/8/88/Ahjin.png/revision/latest?cb=20210529014242) ✅ |
+| Ahjin, como sale en el cap. 141 del webtoon | variante del mismo | 725×803 | [Ah-Jin Logo Ch.141](https://static.wikia.nocookie.net/solo-leveling/images/c/ca/Ah-Jin_Logo_Ch.141.PNG/revision/latest?cb=20210904095011) ⚠️ (sólo la wiki) |
+| **Gremio de Cazadores** (Choi Jong-In, Cha Hae-In) | **escudo blanco y gris con una espada vertical**, gótico | 480×480 | [Insignia Hunters](https://static.wikia.nocookie.net/solo-leveling/images/8/89/Insignia_Hunters.png) ✅ |
+| **Tigre Blanco** (Baek Yoonho) | cabeza de tigre en trazos blancos | 140×140 | [Insignia White Tiger](https://static.wikia.nocookie.net/solo-leveling/images/e/ee/Insignia_White_Tiger.png) ✅ |
+| **Caballería** | trazo en forma de «人», azul acero oscuro (`#102030`) | 529×471 | [Insignia Chivalry](https://static.wikia.nocookie.net/solo-leveling/images/d/d7/Insignia_Chivalry.png) ✅ |
+| Carroñero (Scavenger, Thomas Andre) | la wiki no tiene símbolo (campo `Symbol=` vacío en su ficha) | — | wikitext de la wiki ⚠️ |
+| **Asociación de Cazadores** | **no encontré emblema**; puede que sólo use texto o sello | — | ⚠️ |
+
+- **Corrección:** la parte de imagen describía el de Ahjin como «círculo morado con aguijón dorado» y el del Gremio de Cazadores como «insignia dorada». **Mirados, no llevan dorado**: el de Ahjin es una llama violeta y el otro un escudo blanco con espada.
+- Son diseños **con derechos** (Chugong, DUBU, D&C Media): referencia para dibujar, no para vender.
+- **Para la lámina:** el de Ahjin va con la paleta Monarca (§8) y se puede grabar en madera o metal (una puerta, un mostrador, una placa). El grabado de metal CC0 y las líneas de velocidad son las dos capas libres más útiles.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+_(pendiente)_
+
+---
+
+## Punto 21 · Por qué la gente la ama (y la escena que hace llorar)
+
+_(pendiente)_
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+_(pendiente)_
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+_(pendiente)_
+
+---
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+_(pendiente)_
+
+---
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+_(pendiente)_
+
+---
+
 ## 19 · Los 14 hilos: un sitio por hilo
 
 La ventana del Sistema va siempre dentro de un sitio real de la serie. Su cabecera usa el vocabulario oficial latino.
