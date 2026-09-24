@@ -563,3 +563,15 @@ dinámicas · **cara en cada emoción** (fotograma/minuto o imagen, con fuente).
   `escena2_dohko`, `opening`, `trailer` (descartado: es del live-action de
   Sony, no del anime) — todas en
   `/tmp/claude-0/trabajo/39-saint-seiya-video/`.
+
+Sigue: puntos 7, 8, 12, 20, 21 y 22 están completos. Del punto 13 (obligatorio)
+faltan por confirmar con fotograma+minuto propio (quedaron con ⚠️ y sus
+búsquedas ya hechas, ver arriba): Seiya-vergüenza; Shiryu-rabia (sólo imagen
+fija, sin minuto), miedo y vergüenza; Hyoga-alegría, miedo y vergüenza;
+Shun-alegría y vergüenza (rabia sólo con la imagen de su alter-ego poseído,
+aclarar en el texto); Ikki-alegría, miedo y vergüenza; Saori-alegría, rabia y
+vergüenza. Vía sugerida si se retoma: bajar 1-2 episodios más de
+`archive.org/details/knights-of-the-zodiac-saint-seiya-episode-12` (hay más
+episodios en esa colección, sólo se miraron el 1 y el 6) con `episodio.py`,
+buscando escenas de alivio/celebración en grupo (alegría) y escenas cómicas o
+de calma entre batallas (posible vergüenza), que es donde no se buscó todavía.

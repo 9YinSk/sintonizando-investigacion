@@ -1,0 +1,272 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial del anime Digimon Adventure",
+  "para_que": "arte oficial de referencia general (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/f/f7/Reunion_%28Promotional_Poster%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1476,
+  "alto": 2080,
+  "que_es": "Key visual de Digimon Adventure tri. cap.1 \"Reunión\": Tai y Matt sobre el arma de Omegamon",
+  "para_que": "pose de acción con Digimon gigante, encuadre héroe pequeño / criatura enorme (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/b6/Determination_%28Promotional_Poster%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1419,
+  "alto": 2000,
+  "que_es": "Key visual de tri. cap.2 \"Determinación\"",
+  "para_que": "arte oficial variado, pose de grupo en acción (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/8/8d/Digimon_Adventure_Last_Evolution_Kizuna_poster.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 636,
+  "alto": 900,
+  "que_es": "Póster de Digimon Adventure: Last Evolution Kizuna",
+  "para_que": "arte oficial de la película, diseños adultos (punto 1 y 15)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/4/4e/Taichi_%22Tai%22_Kamiya_%28Re-Digitize%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 438,
+  "alto": 640,
+  "que_es": "Render de Taichi para el videojuego Digimon Adventure: Re-Digitize (cuerpo completo, frente)",
+  "para_que": "arte oficial de videojuego, vestuario clásico en pose neutra (puntos 1 y 15)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/a/af/Sora_Takenouchi_%28Re-Digitize%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 438,
+  "alto": 640,
+  "que_es": "Render de Sora para Digimon Adventure: Re-Digitize",
+  "para_que": "arte oficial de videojuego, vestuario clásico (puntos 1 y 15)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/2c/Crest_of_Destiny_%28Memorial_Goods%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 560,
+  "alto": 560,
+  "que_es": "Colgante metálico conmemorativo \"Crest of Destiny\" (merchandising oficial Bandai)",
+  "para_que": "objeto real para modelar en Blender, referencia de relieve dorado (puntos 1 y 25)",
+  "licencia": "© Bandai; producto oficial, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/9/97/Digimon_Adventure_2020_Crests.png",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 768,
+  "alto": 432,
+  "que_es": "Los 8 emblemas (Crests) en su diseño de línea de neón del reboot 2020",
+  "para_que": "paleta de acento por personaje, logo/emblema (puntos 19 y 25)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/c/c8/Binary_Castle_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Binary Castle\": interior con pantallas turquesa colgantes y trono dorado",
+  "para_que": "fondo/sitio con luz y paleta medida (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/bb/Fluorescent_Cave_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Fluorescent Cave\": cueva con cristales bioluminiscentes",
+  "para_que": "fondo/sitio con luz azul-violeta y puntos cálidos (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/2b/Gravel_Wasteland_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Gravel Wasteland\": desierto con ruinas mecánicas y trama cruzada",
+  "para_que": "fondo/sitio de mediodía, referencia de línea de boceto + trama (puntos 16 y 19)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/b5/Powdery_Cliff_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Powdery Cliff\": acantilado frío azul-grisáceo con niebla",
+  "para_que": "fondo/sitio (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/a/ae/Railroad_Plains_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Railroad Plains\": campo verde con vías y torres eléctricas",
+  "para_que": "fondo/sitio (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/9/90/Signpost_Forest_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Signpost Forest\": bosque oscuro con carteles clavados",
+  "para_que": "fondo/sitio, luz tenue (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/e/e7/File_Island_%28Crusader%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1024,
+  "alto": 854,
+  "que_es": "Vista aérea de File Island completa (playa, selva, montaña, volcán)",
+  "para_que": "mapa/fondo de pantalla de la isla entera (punto 16)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1907-ZWmX1dVGPfqn.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 348,
+  "que_es": "Retrato oficial de Taichi Yagami/Kamiya",
+  "para_que": "hex de vestuario medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2276-edQsS9qzUbm5.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato oficial de Sora Takenouchi",
+  "para_que": "hex de vestuario medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4950-7ABdx6j3jmdE.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 344,
+  "que_es": "Retrato oficial de Agumon",
+  "para_que": "hex de vestuario/piel medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 344,
+  "que_es": "Retrato oficial de Gabumon",
+  "para_que": "hex de pelaje/piel medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a5680622539345a9a0471682e5498d40",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Agumon por AndriyVladykin",
+  "para_que": "referencia 3D con licencia libre para pose/volumen (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-94f00275d03f4eca82dcf1c88d1d688a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Greymon por McNaught Design",
+  "para_que": "referencia 3D con licencia libre para pose/volumen (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ab4b4b2df874430992709e5986415857",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de WarGreymon por hdbanks1",
+  "para_que": "referencia 3D con licencia libre, forma evolucionada de Agumon (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e3c40eec7aea44ad9bbf438612bb05ff",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D \"Digimon Adventure Tag and Crest\" (dispositivo + emblema) por TriumphantBass",
+  "para_que": "objeto real en 3D con licencia libre, directo para el \"objeto en un sitio real\" del dueño (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru / autor @totototo0507 (Twitter)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de grupo (crossover) con Taichi",
+  "para_que": "referencia de pose de grupo, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://safebooru.org/images/1323/c6b93ffec957ffcd266569934706d69e21bda7ba.jpg",
+  "fuente": "Safebooru / origen Pixiv",
+  "ancho": 2500,
+  "alto": 1642,
+  "que_es": "Fan art de Angewomon en vuelo",
+  "para_que": "referencia de pose de acción para digivolución ángel, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://safebooru.org/images/1269/d673c740663e2fbcdcec0b3a1a525c9c9e7830a8.jpg",
+  "fuente": "Safebooru / origen Pixiv @superhamasuke",
+  "ancho": 1280,
+  "alto": 1300,
+  "que_es": "Fan art de Hikari con Tailmon",
+  "para_que": "referencia de pose personaje + compañero digimon, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"[FREE] Manga Screentone Pack 1\" — tramas de manga gratis para Clip Studio Paint",
+  "para_que": "equivalente libre a la trama del manga oficial (punto 19)",
+  "licencia": "Gratis, uso permitido según Clip Studio Assets Store"
+ },
+ {
+  "url": "https://hypland.com/collections/digimon",
+  "fuente": "Hypland (tienda oficial de la colaboración)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Catálogo activo de la colaboración de streetwear Hypland × Digimon (sudaderas, camperas, camisetas de Agumon/Greymon/Angewomon/etc.)",
+  "para_que": "colaboración de marca con arte y ropa nueva (punto 23)",
+  "licencia": "© Hypland / Bandai; producto con licencia, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/27/Taichi_%22Tai%22_Kamiya_%2802_-_Summer%29_t.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 332,
+  "alto": 363,
+  "que_es": "Diseño \"verano\" de Taichi en Adventure 02",
+  "para_que": "vestuario por arco/temporada (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/e/ea/TaichiEpilogue2.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Taichi adulto en el epílogo de Adventure 02 (traje de oficina)",
+  "para_que": "vestuario de la etapa adulta (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ }
+]
