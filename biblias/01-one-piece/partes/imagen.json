@@ -178,5 +178,59 @@
     "que_es": "Fondo de pantalla «Keep Sailing»: el Thousand Sunny navegando entre nubes, pintura digital, 842 «me gusta»",
     "para_que": "Fondo de pantalla de fans en muy alta resolución (punto 16)",
     "licencia": "Fan art, sólo referencia (no pegar); crédito a Ombobon"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Roronoa_Zoro_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Roronoa Zoro Manga Pre Timeskip Infobox.png» (capítulo 595 o portada del tomo 1, ficha Source de la wiki); recorte local renombrado zoro_botellas_sake.png (antes zoro_haramaki.png, mal etiquetado)",
+    "ancho": 560,
+    "alto": 280,
+    "que_es": "Recorte del armario y la mano con botellas de SAKE del mismo panel a color de Zoro (no es su haramaki, como se pensó antes): 16,7% de línea (estilo.py), degradado 39%",
+    "para_que": "Corrige el nombre de un recorte mal etiquetado del punto 19; mismo vocabulario de trama que el resto del análisis de Zoro",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Morgan_Manga_Infobox.png",
+    "fuente": "One Piece Wiki, «Morgan Manga Infobox.png» (portada del capítulo 4, ficha Source de la wiki)",
+    "ancho": 460,
+    "alto": 1090,
+    "que_es": "Ficha de manga en blanco y negro de \"Hacha\" Morgan con su cartel de nombre en japonés; sombreado plano tipo cel (67%), línea normal (11%, estilo.py)",
+    "para_que": "Ejemplo de página en blanco y negro sin trama de color para el punto 19 (contraste con las páginas a color ya medidas)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Nekomamushi_Manga_Infobox.png",
+    "fuente": "One Piece Wiki, «Nekomamushi Manga Infobox.png» (ficha Source de la wiki lista 6 capítulos posibles: 809, 815, 909, 982, 984, 1117, sin aislar cuál)",
+    "ancho": 672,
+    "alto": 1062,
+    "que_es": "Ficha de manga de Nekomamushi en su forma más felina: mucha línea (15,1%, estilo.py), sombreado mixto, sin color",
+    "para_que": "Ejemplo de mucha densidad de línea en un personaje no humano para el punto 19",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Gol_D._Roger_Wanted_Poster.png",
+    "fuente": "One Piece Wiki, «Gol D. Roger Wanted Poster.png» (capítulo 957, episodio 958 y noticia oficial one-piece.com 17-ene-2021, ficha Source de la wiki)",
+    "ancho": 1770,
+    "alto": 1440,
+    "que_es": "Cartel de SE BUSCA a color de Gol D. Roger con su recompensa real revelada por Sengoku; degradado/pintado (64%), línea normal (5,9%, estilo.py)",
+    "para_que": "Referencia de cartel de SE BUSCA pintado (no con trama de puntos) para contrastar con el cartel clásico de Luffy (punto 19)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Tony_Tony_Chopper_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Tony Tony Chopper Manga Pre Timeskip Infobox.png» (portada del capítulo 507 o del tomo 16, ficha Source de la wiki)",
+    "ancho": 1158,
+    "alto": 1300,
+    "que_es": "Ficha de manga pre-salto de Chopper, medida con estilo.py: trama de puntos muy marcada (22,8% de línea, la más entramada de la tanda), sombreado mixto",
+    "para_que": "Ejemplo de mayor densidad de trama de puntos digital en una portada de tomo (punto 19)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Nami_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Nami Manga Pre Timeskip Infobox.png» (ficha Source de la wiki lista 4 orígenes posibles: capítulo 9, Color Walk 6, portadas de los capítulos 516 y 1)",
+    "ancho": 1037,
+    "alto": 1200,
+    "que_es": "Ficha de manga pre-salto de Nami, medida con estilo.py: degradado/pintado (51%), línea normal (7,5%), brillo alto (82)",
+    "para_que": "Ejemplo de acuarela clara con poca línea para contrastar con Chopper/Zoro en el mismo punto 19",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
   }
 ]
