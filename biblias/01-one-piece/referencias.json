@@ -306,12 +306,12 @@
     "licencia": "© Eiichiro Oda / Shueisha. Arte del manga alojado en One Piece Wiki (Fandom). Sólo referencia."
   },
   {
-    "url": "https://www.dailymotion.com/video/x2gldv?start=45",
-    "fuente": "Dailymotion (copia del opening 1 «We Are!»; oficial en YouTube: ONE PIECE Official - ENG)",
-    "ancho": 512,
-    "alto": 384,
-    "que_es": "Opening 1, 0:42-0:48: carta náutica a la acuarela con el Going Merry dibujado y los créditos escritos sobre el mapa.",
-    "para_que": "Modelo del concepto B: texto escrito sobre la carta. Paleta de la carta medida aquí.",
+    "url": "https://www.youtube.com/watch?v=YoeP9w5UIlg&t=64",
+    "fuente": "YouTube · ONE PIECE Official - ENG (opening 1 «We Are!», oficial de Toei); mirado por sus storyboards",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Opening 1 oficial, 1:04-1:11 (±2 s): carta náutica a la acuarela con el Going Merry dibujado y «Straw Hat Pirates» escrito a pluma; 0:41-0:46, el logo sobre la carta. Tamaño del vídeo medido con yt-dlp.",
+    "para_que": "Modelo del concepto B: texto escrito sobre la carta. La paleta de la carta se midió en la copia de Dailymotion (x2gldv, 0:48).",
     "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Sólo referencia."
   },
   {
