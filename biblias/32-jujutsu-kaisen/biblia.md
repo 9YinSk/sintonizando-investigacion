@@ -1,14 +1,25 @@
 ---
 tags: [biblia, serie, laminas, biblioteca]
 serie: "Jujutsu Kaisen (呪術廻戦)"
-canal: "sin canal: propuesta pendiente (ver §0)"
+canal: "sin canal: propuesta ➕ CREAR SALA (SALAS PROPIAS) y 🍟 General (LA SALA)"
 fecha: 2026-09-24
 ---
 
 # Biblia · Jujutsu Kaisen — para la biblioteca
 
 > [!important] Cómo se hizo, y sus límites
-> (se rellena al final)
+> La hicieron **dos ayudantes seguidos**. El primero escribió §2-§13 y
+> §15-§17 y montó las 3 hojas; el límite de uso lo cortó y **su carpeta
+> de trabajo se perdió** (vídeos, fotogramas, subtítulos y su registro
+> de búsquedas). El segundo (24-sep-2026) **volvió a mirar** 10 vídeos
+> con `herramientas/fotogramas.py` (§12.0), comprobó en ellos los
+> minutos del primero, añadió lo nuevo (la caja de diálogo del modo
+> historia de *Cursed Clash*, el lobby en línea, la pantalla en blanco
+> de Gojo) y escribió §0, §1, §14, §18-§21 y `referencias.json`.
+> YouTube no deja bajar vídeos ni subtítulos desde este contenedor
+> («confirma que no eres un bot»): los vídeos se miraron en copias de
+> **Dailymotion** del mismo montaje. Minutos de episodio: subtítulos
+> japoneses con tiempos (±5 s).
 
 ## Índice
 
@@ -40,11 +51,95 @@ fecha: 2026-09-24
 
 ## 0 · Jujutsu Kaisen no tiene canal: dónde encaja mejor
 
-(pendiente)
+El encargo dice que JJK está en la **biblioteca**: es un fenómeno, pero
+no tiene canal. Miré `servidor/inventario.md` y lo que proponen las
+biblias 01-34 (`grep '^canal:' biblias/*/biblia.md`, 24-sep-2026).
+
+**La clave de JJK para este servidor**: su gran idea es la
+**Expansión de Dominio** (領域展開). Gojo la explica así en T1-7:
+«**construyes a tu alrededor tu propio espacio**, con tu técnica
+dentro» («術式を付与した生得領域を呪力で周囲に構築する», 12:08 ✅
+subtítulo) y «cuando hay dos dominios a la vez, **manda el más
+cuidado**» (13:57-14:09 ✅). Y la serie tiene un segundo invento que
+**abre un espacio aparte**: el **velo** (帳, *tobari*), una cúpula
+negra que cae del cielo, esconde lo de dentro y **se puede configurar**
+(quién entra y quién no) ✅ ([wiki, «Curtain»](https://jujutsu-kaisen.fandom.com/wiki/Curtain),
+y Ijichi lo baja en T1-4, 4:32 ✅ subtítulo). Es, con otras palabras,
+lo que hace **➕・CREAR SALA**: entras y se abre **tu** sala.
+
+El tercer tema es **la voz**: Inumaki manda con la voz, **con megáfono,
+por teléfono y hasta grabado** en una grabadora ✅ (§8).
+
+### La propuesta, de un vistazo
+
+| # | Canal | Por qué | Personaje | Estado del canal |
+|---|---|---|---|---|
+| **1** | **➕・CREAR SALA** (SALAS PROPIAS, voz) | la **Expansión de Dominio** es «tu espacio, tus reglas»; el **velo** es «cerrar la sala» | **Gojo** (1.º en la 4.ª encuesta oficial, con más del doble de votos que el 2.º) | **libre** ✅: ninguna biblia lo propone (grep de «CREAR SALA» y «Crear sala» en `biblias/`) |
+| **2** | **🍟・General** (LA SALA, voz) | Inumaki **sólo habla con ingredientes de onigiri** y Panda lo traduce: la sala donde se habla de lo que sea | **Inumaki** (4.º en la 1.ª encuesta) con **Panda** | casi libre: la biblia 30 (Naruto) la nombra sólo **de reserva** |
+| 3 | 🎙️・Grabación (idea, sin concepto) | la voz de Inumaki **grabada sigue funcionando** (manga, cap. 262 ✅ wiki) | Inumaki | la biblia 29 la da a Monsters, Inc. |
+
+Del inventario (textos reales):
+
+> **➕・CREAR SALA** (voz), sección **SALAS PROPIAS**. **No tiene
+> descripción** en el inventario.
+
+> **🍟・General** (voz), sección **LA SALA**. **Sin descripción**. Su
+> vecino de texto, **#general**: «_La plaza: aquí se habla de lo que sea.
+> Del oficio se habla en general-doblaje; tu voz grabada va a demos._»
+
+### Los textos de ➕ CREAR SALA (propuesta: no tiene descripción)
+
+⚠️ **Confírmalos con el dueño**: no sé qué bot crea las salas ni qué deja
+cambiar. Lo normal en Discord es «entras y se crea tu sala; al vaciarse,
+se borra», pero **no lo comprobé** en este servidor.
+
+| # | Texto | Idea |
+|---|---|---|
+| 1 | **Crear sala** | nombre |
+| 2 | **Entra aquí y se abre tu propia sala** | qué es |
+| 3 | **Es tuya: ponle nombre** | qué puedes hacer |
+| 4 | **Tú decides quién entra** | las reglas |
+| 5 | **Cuando se vacía, desaparece** | cómo se cierra |
+| 6 | Frase de Gojo, en su voz (§19) | gancho |
+
+**Lámina 2** (concepto B, §19): si el bot tiene comandos (límite,
+candado, ocultar, echar), cada uno en un **talismán** del velo.
+
+### Los textos de 🍟 General (propuesta: no tiene descripción)
+
+| # | Texto | Idea |
+|---|---|---|
+| 1 | **General** | nombre |
+| 2 | **La sala de voz de la plaza** | qué es |
+| 3 | **Entra y habla de lo que sea** | qué va aquí |
+| 4 | **Saluda al entrar** | la costumbre |
+| 5 | **Del oficio se habla en general-doblaje** | a dónde va lo otro |
+| 6 | El gag de Inumaki y Panda (§19, concepto C) | gancho |
+
+### Las que descarté, y por qué
+
+| Canal | Por qué no |
+|---|---|
+| #general-doblaje, 🎙️ Grabación | encajan con Inumaki (la voz, el jarabe para la garganta), pero **ya los propone** la biblia 29 (Monsters, Inc.) |
+| #memes | JJK tiene memes enormes («Nah, I'd win»), pero #memes es de JoJo (biblia 28) |
+| 🔊 Aula | Gojo profesor encaja, pero la propone Demon Slayer (biblia 31) |
+| #reglas | Sukuna y los «votos vinculantes» darían reglas, pero #reglas es de Attack on Titan (biblia 02) |
 
 ## 1 · Resumen para quien tenga prisa
 
-(pendiente)
+| Pregunta | Respuesta |
+|---|---|
+| Qué es | Manga de **Gege Akutami** en la *Weekly Shōnen Jump*, del **5-mar-2018 al 30-sep-2024**, **30 tomos** ✅ ([ficha de la wiki](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen) + portada del tomo 30, #22). Anime de **MAPPA**: T1 dirigida por **Sunghoo Park**, T2 y T3 por **Shōta Goshozono**; guion **Hiroshi Seko**; diseño **Tadashi Hiramatsu** ✅ (wiki + créditos del tráiler 1, 0:16-0:28, visto). **59 episodios** en 3 temporadas (T3: 9-ene a 27-mar-2026) y la peli *Jujutsu Kaisen 0* ✅ |
+| Tono | **Oscuro**: maldiciones nacidas del miedo de la gente, sangre, Tokio de noche. Pero con **mucha comedia** entre combates (Gojo payaso, Todo, Panda, los Juju-Cortos). Una lámina puede ser **de día** (la escuela en el monte, el aula) sin traicionar el tono |
+| Por qué CREAR SALA | La **Expansión de Dominio** es «construir tu propio espacio a tu alrededor» (T1-7, 12:08 ✅) y Gojo **la enseña en una «clase extra»** («課外授業», T1-7, 9:19 ✅) |
+| El objeto | La **pizarra del aula** de la Escuela de Tokio, con tiza y el **puntero** de Gojo. Es el formato oficial «Gojo explica» del juego *Cursed Clash* (tráiler «Special Lecture», 0:18 y 3:22, **visto**). Se hace en Blender en una tarde (pizarra CC BY en Sketchfab, §4) |
+| El más querido | **Gojo** en la 4.ª encuesta oficial (2024, 113.392 votos, más del doble que Yuji) ✅. Pero **Megumi** ganó la 2.ª y la 3.ª, y **Yuji** la 1.ª. Para un servidor de voz, el secundario clave es **Inumaki** (4.º en la 1.ª) ✅ (§9) |
+| Quién habla en la lámina | CREAR SALA: **Gojo** con puntero. 🍟 General: **Inumaki** (que sólo dice «¡Alga kombu!») y **Panda** traduciendo |
+| Cuadro de diálogo propio | **No es un globo blanco**. JJK habla con: **título de episodio en Mincho blanca abajo a la derecha**; **hora y lugar** igual («22:20 井之頭線 渋谷駅»); **técnicas en vertical entre 「」**; la **pizarra de tiza** del «Special Lecture»; y en el modo historia de *Cursed Clash*, **dos viñetas de anime con el borde roto** sobre **tinta azul petróleo** `#314953` y el texto en blanco al lado (tráiler, 3:09, **visto**). Ver §7 |
+| Letras | **Shippori Mincho B1** (títulos), **Dela Gothic One** (técnicas), **Zen Antique** (diálogo), **Yuji Syuku** (talismanes): todas con tildes, ñ, ¿ y ¡ comprobadas con fontTools. **Ojo**: la letra del generador de logos «estilo JJK» tiene las tildes **vacías** (§6) |
+| Voz latina | Yuji **Enzo Fortuny**, Gojo **Pepe Vilchis**, Megumi **Víctor Ruiz**, Nobara **Ayari Rivera**, Sukuna **Osvaldo Trejo** (T1) y **Alfredo Gabriel Basurto** (T2), Inumaki **Ángel Rodríguez**, Nanami **Carlos Hernández** ✅ (dos fuentes cada uno). Audiomaster Candiani; dirección **Patricia Acevedo** (T1) y **Octavio Campos** (T2-T3) (§10) |
+| Juegos | ***Cursed Clash*** (2024, Bandai Namco; textos en español de Hispanoamérica) y ***Phantom Parade*** (móvil 2023; Steam 2026) ✅ (§13) |
+| Lo que NO hacer | Gojo sin venda **y** sin gafas en una lámina «amable» (los ojos se reservan para el golpe fuerte); spoilers (Nanami, Nobara, Gojo en Shinjuku); globos blancos; Sukuna de guía simpático (§14) |
 
 ## 2 · Las escenas que sirven (con minuto)
 
@@ -93,6 +188,11 @@ o «sub. oficial».
 | Nanami a Yuji: «Lo demás te lo dejo a ti» («後は頼みます») | T2-18 (ep. 42) | 13:30 | la escena que hizo llorar al fandom |
 | Nobara: «No estuvo tan mal» («悪くなかった») | T2-19 (ep. 43) | 21:24 | Nobara |
 | Todo: «Y mi hermano, Yuji Itadori» («そして マイブラザー 虎杖悠仁») | T1-24 | 22:02 | cierre de la T1 |
+| Ijichi: «Bajo el velo» («帳を下ろします») y el conjuro «闇よりいでて闇より黒く その穢れを禊ぎ祓え» («Sal de la oscuridad, más negro que la oscuridad; purifica lo impuro») | T1-4 | 4:32-4:39 | **cerrar la sala** ✅ (sub. con tiempos, 2.º ayudante) |
+| Yuji: «¡Se está haciendo de noche!» Megumi: «Es un velo. Como hay casas cerca… una barrera que nos esconde de fuera» | T1-4 | 4:47-4:54 | explicar el velo ✅ |
+| Gojo: «Nos vamos, Yuji. **Clase extra** (課外授業). La cumbre del combate de hechicería: te voy a enseñar la Expansión de Dominio» | T1-7 | 9:16-9:27 | **Gojo profesor**, concepto A ✅ |
+| Gojo: «**Esto es una Expansión de Dominio**. Con energía maldita construyes a tu alrededor tu dominio interior, con tu técnica dentro» | T1-7 | 12:05-12:08 | la definición de «crear sala» ✅ |
+| Gojo: «Contra un dominio, lo más eficaz es **desplegar el tuyo**. Si hay dos a la vez, **manda la técnica más refinada**. Aunque también cuentan la afinidad y la energía» | T1-7 | 13:57-14:13 | lámina 2 ✅ |
 
 ### 2.3 Lo que VI en los fotogramas (no sólo leído)
 
