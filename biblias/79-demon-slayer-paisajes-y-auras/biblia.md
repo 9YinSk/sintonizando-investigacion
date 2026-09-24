@@ -251,7 +251,7 @@ Rengoku**, la madre. La de **Kyojuro** se buscó aparte.
 | Qué | Tamaño | Dónde | Sirve para |
 |---|---|---|---|
 | *Infinity Castle Trilogy IMAX Key Visual* | 2898×4096 | [imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/48/Infinity_Castle_Trilogy_IMAX_Key_Visual.png/revision/latest?cb=20250722024327) · hoja `colaboraciones_01` n.º 8 | arquitectura imposible del castillo; visto en la hoja: ola de agua azul abajo y fuego arriba |
-| *Mugen Train Key Visual 2* | 2898×4096 | [imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c0/Mugen_Train_Key_Visual_2.jpeg) · hoja n.º 9 | el tren de noche con humo y luces |
+| *Mugen Train Key Visual 2* | 2898×4096 | [imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c0/Mugen_Train_Key_Visual_2.jpeg/revision/latest?cb=20200410142729) · hoja n.º 9 | el tren de noche con humo y luces |
 | *Asakusa Arc Key Visual* | 1358×1920 | [imagen](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9a/Kimetsu_no_Yaiba_Asakusa_Arc_Key_Visual.png/revision/latest?cb=20210831024320) · hoja `fondos_01` F7 | calle nocturna con farolillos; visto: Muzan con sombrero en primer plano |
 | *Rehabilitation Training Arc Key Visual* | 1448×2048 | wiki (sin enlace directo en la parte) ⚠️ | grupo en la Mansión Mariposa, con jardín |
 | *Tanjiro cuts Enmu's head off with Hinokami Kagura* | **3840×2160** | hoja `colaboraciones_01` n.º 29 y `auras_01` C4 | aro de fuego naranja contra el cielo; la acción más grande del lote |
@@ -347,5 +347,221 @@ ambientCG para texturas (§4).
 - Lo que más redibujan los fans: **el interior del Castillo Infinito y los
   efectos de respiración** ⚠️ (patrón visto, sin lista de autores).
 - Fondos de fans en alta, con su origen en Pixiv: §16.
+
+---
+
+## 4 · Sitios: luz, paleta y texturas reales
+
+Hex medidos con `estilo.py` sobre fotogramas oficiales de la wiki o sobre
+fotogramas propios. Dos investigadores midieron por separado la Mansión
+Mariposa y el Castillo Infinito, y **coinciden** ✅.
+
+| Sitio | Luz y hora | Paleta medida | Brillo | Fuente |
+|---|---|---|---|---|
+| **Mansión Mariposa** 蝶屋敷 (casa de Shinobu, ep. 23+) | **de día**, luz natural suave; visto en F1: cielo azul, farol de piedra, camino de losas | verdes #32403B, #55624D, #828F6C · cielo **#A9E0F8** · madera #D1C7A9 y #1D1C20 | 46 %, saturación 34 %; **más línea** que las escenas de noche (línea #566245) | [Butterfly Mansion](https://kimetsu-no-yaiba.fandom.com/wiki/Butterfly_Mansion) + [fotograma](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/99/Butterfly_Mansion_Anime.png/revision/latest?cb=20191215161736) ✅ |
+| **Castillo Infinito** 無限城 | interior, **sólo faroles**; visto en F2: salas de tatami flotando, llenas de puntos de luz | #140C0D, #38221A, #673A20, #98592D, #C88043, farol **#F1CB86** · tráiler 0:16: #3B1D14, #110E0B, #5A3626 | **15 %** | [Infinity Castle](https://kimetsu-no-yaiba.fandom.com/wiki/Infinity_Castle) + tráiler ✅ |
+| **Monte Fujikasane**, glicinas | **anochecer violeta** tras las flores colgantes | cielo #5666BE, #3B2D85, #1F132F · glicina **#C09CEB**, #906CE8 · rosado #ECD0E1 | — | [Mount Fujikasane](https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Fujikasane) + fotograma *Tanjiro admiring the Wisteria* ✅ |
+| **Monte Natagumo** (Familia Araña, ep. 15+) | **noche cerrada**, sin ninguna luz cálida; visto en F4: montaña negra sobre bosque | #0A1616, #061010, #111E1E, #020B0A, #000606 | **9 %**, el más oscuro | [Mount Natagumo](https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Natagumo) + fotograma ✅ |
+| **Yoshiwara** 吉原 (Distrito del Entretenimiento, ep. 34+) | noche con **farolillos**; visto en F5: vista aérea de calles naranjas entre tejados negros | #1D151B, #0C080E, #3B2525, #6B3122, **#BE451D**, #D7853B, #E5C379 | 27 % | [Yoshiwara](https://kimetsu-no-yaiba.fandom.com/wiki/Yoshiwara) + fotograma 2048×1150 ✅ |
+| Bosque del combate Rengoku-Akaza | noche gris-azul | #36343A, #403E45, #282830, #181C26 | 30 % | clip 0:60 ✅ |
+| **Aldea de los Herreros** 刀鍛冶の里 | bosque espeso, casas con tejado de paja entre montes nevados (portadas de BD, visto en hojas 8-9) | ⚠️ sin hex limpio | — | [Swordsmith Village](https://kimetsu-no-yaiba.fandom.com/wiki/Swordsmith_Village) |
+| **Asakusa** | ciudad de noche, edificios altos, luces, tranvía | ⚠️ sin hex limpio (la captura tenía la cartela blanca encima) | — | [Asakusa](https://kimetsu-no-yaiba.fandom.com/wiki/Asakusa) |
+| **Monte Sagiri** (Urokodaki) | montaña enorme, el aire escasea arriba | ⚠️ sin imagen de paisaje | — | [Mount Sagiri](https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Sagiri) |
+| **Mansión Ubuyashiki** | en la cima de un monte, escondida; en el opening (0:44) Kagaya sentado con **luz cálida de ventana** | ⚠️ sin medir | — | [Ubuyashiki Mansion](https://kimetsu-no-yaiba.fandom.com/wiki/Ubuyashiki_Mansion) |
+| **Tren Mugen** | locomotora de vapor negra, tipo JGR clase 8620, placa «Mugen» | ⚠️ el tren no se aisló para medir | — | [Mugen Train](https://kimetsu-no-yaiba.fandom.com/wiki/Mugen_Train_(locomotive)) |
+
+**La regla de luz de ufotable** (de los 6 sitios medidos): **fondo frío y
+muy oscuro con una luz cálida puntual** (farol, fuego) en casi todo:
+Yoshiwara, Castillo Infinito, Tren Mugen, Natagumo. La luz natural y los
+verdes y azules claros **sólo en los remansos de calma**, como la Mansión
+Mariposa. Sobre ese fondo casi monocromo, **el color de la técnica es lo
+único saturado del plano** ✅ (medido).
+
+### Texturas reales equivalentes (para pintar encima o para Blender)
+
+| Para | Textura | Licencia | Enlace |
+|---|---|---|---|
+| glicina de Fujikasane | foto de glicina morada, 1024×804, A.Davey | CC BY | [Flickr](https://live.staticflickr.com/4078/4863136983_d1ecfb94a5_b.jpg) |
+| bosque (Natagumo, caminos) | bosque de bambú, 1024×768, PhBasumata | CC BY-SA | [Flickr](https://live.staticflickr.com/2763/4537297458_65e8a60049_b.jpg) |
+| madera de templo y casa | `Wood095`, `WoodFloor051` | CC0 | [ambientCG](https://ambientcg.com/view?id=Wood095) |
+| papel washi, faroles, cartas | `Paper006`, `Paper001` | CC0 | [ambientCG](https://ambientcg.com/view?id=Paper006) |
+| roca de montaña (Sagiri, Natagumo) | `Rock051` | CC0 | [ambientCG](https://ambientcg.com/view?id=Rock051) |
+
+Fotos de Flickr y búsqueda por [Openverse](https://api.openverse.org/v1/images/?q=wisteria+flowers+japan)
+(corregida: la del recolector buscaba «onigiri») ✅.
+
+---
+
+## 5 · Tipografía: una letra para cada uso
+
+La base ya la verificó la biblia 31 (§6.1-6.2, con fontTools, CSS de la
+web oficial y HTML del juego). El investigador de texto **volvió a
+comprobar** las dos letras clave con `fontTools` (`getBestCmap()`), bajadas
+de [Fontsource](https://api.fontsource.org/v1/fonts?subsets=latin-ext) por
+la CDN [jsDelivr](https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-400-normal.ttf).
+
+| Uso | Qué se ve en la serie | Letra libre | á é í ó ú ñ ¿ ¡ |
+|---|---|---|---|
+| **Logo japonés** | 鬼滅の刃 a pincel, propio, negro, dentro de un **sello circular blanco con aro rojo** y furigana きめつのやいば encima (visto en F15 y F16) | no hay letra: pintarlo a pincel; si hace falta, **Yuji Boku** | — |
+| **Logo occidental** | «DEMON SLAYER» en **Blood Crow Condensed** (Iconian Fonts) | gratis **sólo no comercial** | ⚠️ no comprobado |
+| **Texto normal** (globo, tablilla) | la web oficial usa **Zen Old Mincho** + Noto Serif JP, con YakuHanMP para la puntuación japonesa | **Zen Old Mincho** (OFL) | ✅ comprobado dos veces |
+| **Grito** | — | **Zen Old Mincho Black (900)** | ✅ comprobado (latin-900) |
+| **Pensamiento** | ⚠️ ninguna parte lo trae | propuesta: **Noto Serif JP** fina, más pequeña | ⚠️ sin comprobar |
+| **Onomatopeya** | — | **Dela Gothic One** (OFL) | ✅ biblia 31 |
+| **Cartel del mundo** (madera, época Taishō) | en *Sweep the Board!* los rótulos de tienda (八山商店, 十兵衛塾) son **verticales, gruesos, pintados a mano sobre tela colgante** | **Zen Antique** o **Kaisei Decol** (OFL) | ✅ biblia 31 |
+| **Cartela de nombre vertical** | «霞柱 時透無一郎» en vertical sobre azul oscuro (tráiler SEGA de Muichiro, [0:28](https://www.dailymotion.com/video/x9iosps?t=28)); cumpleaños con nombre en kanji vertical (hoja n.º 5, 10) | **Yuji Syuku**, **Yuji Boku** o **Yuji Mai** (OFL) | ✅ biblia 31 |
+| **Interfaz de juego** | *Hinokami Chronicles*: **Cinzel** + Noto Serif JP (HTML de `game.kimetsu.com`) | **Cinzel** (OFL) | ✅ comprobado dos veces |
+| **Subtítulos y créditos** | en el tráiler de *Castillo Infinito* la frase va en blanco sobre la imagen (0:16) | ⚠️ letra no identificada; propuesta: **Noto Serif JP** | ⚠️ sin comprobar |
+
+⚠️ La letra del HUD de los juegos **no se pudo ver**: ninguna captura
+oficial de Steam enseña menús (§11).
+
+## 6 · Cómo hablan y piensan en pantalla
+
+**Demon Slayer no habla con burbujas blancas** (biblia 31 §7). En todo lo
+que miró el equipo, **el texto se apoya en un objeto o en un paisaje
+físico**, nunca flota solo ✅.
+
+- **El «Secreto de la era Taisho»** (大正コソコソ噂話): el fondo cambia, el
+  soporte siempre es físico. La gran ola ukiyo-e azul (T1), **una tablilla
+  de madera «その1» sujeta a mano** (Herreros y Pilares) y **un escenario
+  con telón rojo #B91F2A** (Pilares) ✅ (biblia 31 §7.1, con minuto).
+- **El blasón de glicina en la puerta** (藤の花の家紋): en el ep. 14 el
+  trío llega de noche a una casa con **la flor de glicina en la verja**.
+  Significa «aquí los cazadores duermen gratis y a salvo». **Un cartel sin
+  una sola palabra** ✅ ([Episode 14](https://kimetsu-no-yaiba.fandom.com/wiki/Episode_14)
+  + [Wisteria](https://kimetsu-no-yaiba.fandom.com/wiki/Wisteria): «la
+  familia diseñó su blasón con una flor de glicina para que los del Cuerpo
+  reconocieran la casa»).
+- **El cuervo mensajero** (鎹鴉) habla como un telegrama: «¡Orden!
+  ¡Orden!», frases cortadas ✅ (biblia 31, T1-21, 00:17:32).
+- **Las cartelas de mitad de episodio** (*eyecatchers*): visto en la hoja
+  F15 y F16 y en la hoja 09 (n.º 385-414): **dibujo a tinta tipo sumi-e
+  sobre papel blanco**, un personaje en diagonal y el **sello rojo del
+  logo** a la derecha, con una franja negra. A veces un sol rojo detrás
+  (F16). Es un soporte de texto muy de la serie.
+- **La cartela de nombre**: kanji vertical sobre fondo oscuro (0:28 del
+  tráiler de Muichiro) o en columna junto a la fecha (cumpleaños).
+- **Subtítulo en pantalla**: el tráiler de *Castillo Infinito* pone la
+  frase de Muichiro en blanco sobre su cara quieta (0:16).
+- **Videojuegos**: ⚠️ **ninguna caja de diálogo vista**. Ni *Hinokami
+  Chronicles* 1 y 2 ni *Sweep the Board!* tienen capturas con menú o texto.
+
+**Qué cuadro usar en una lámina de paisajes** (propuesta del redactor, a
+partir de lo de arriba):
+1. **Tablilla de madera** colgada o sujeta, con la letra pintada que
+   sigue la veta (Zen Antique). La más fiel.
+2. **Tela colgante** (*noren*) con letra vertical, como las tiendas de
+   *Sweep the Board!*.
+3. **Papel de shoji iluminado por detrás**: la luz del farol atraviesa el
+   texto (sólo en interiores: Castillo Infinito).
+4. **Subtítulo** blanco, sólo si el marco es una pantalla (regla 2 del
+   dueño: entonces va un fotograma).
+
+---
+
+## 7 · Personajes y popularidad, con su aura
+
+Las dos encuestas oficiales de la *Weekly Shōnen Jump* ya están cruzadas en
+la biblia 31 §9.1 (wiki + animatetimes + GAME Watch). **No hubo tercera.**
+Aquí se repiten sólo para cruzarlas con **el color de cada uno**, que nadie
+había hecho ✅:
+
+| 1.ª encuesta (2017) | 2.ª encuesta (2020) | Su aura (color oficial) |
+|---|---|---|
+| 1. **Tanjiro** 6.742 | 1. **Zenitsu** 17.451 | Tanjiro: negro (Sol) y azul (Agua) · Zenitsu: amarillo |
+| 2. Zenitsu 4.299 | 2. **Giyu** 13.281 | Giyu: azul |
+| 3. Nezuko 3.319 | 3. **Muichiro** 11.948 | Muichiro: **blanco** |
+| 4. Giyu 2.190 | 4. Tanjiro 9.045 | — |
+| 5. Inosuke 1.977 | 5. **Shinobu** 8.787 | Shinobu: **lavanda azulado** |
+| 6. Shinobu 1.813 | 6. Inosuke 8.750 | Inosuke: gris índigo |
+| 7. Rengoku 1.021 | 7. **Rengoku** 8.000 | Rengoku: **naranja-rojo** |
+
+- **Lo que dice la tabla**: en 2020 **Muichiro (3.º) supera a Tanjiro
+  (4.º)**, y Shinobu y Rengoku casi se multiplican por ocho. Tres de los
+  cuatro del encargo son **Pilares secundarios** más votados que el
+  protagonista o casi.
+- **Rengoku** es 7.º en votos pero **su muerte es la escena que más hace
+  llorar** (§21): el más querido en lo emocional.
+- **Dato nuevo 2026**: el premio al **doblaje latino** de los Crunchyroll
+  Anime Awards (Tokio, 23-may-2026) fue para **José Antonio Toledano como
+  Akaza**, el antagonista ✅ ([El Comercio](https://elcomercio.pe/mag/fama/que-ver/demon-slayer-infinity-castle-cada-uno-de-los-premios-que-gano-la-pelicula-de-kimetsu-no-yaiba-en-los-crunchyroll-anime-awards-2026-nnda-nnlt-noticia/),
+  [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/)).
+  Otro secundario querido, esta vez un villano.
+
+**Con quién aparece cada uno** (para láminas en grupo; detalle en §13):
+Tanjiro con Nezuko, Zenitsu e Inosuke (el «Escuadrón Kamaboko», §25);
+Rengoku con Tanjiro en el Tren Mugen y con su hermano Senjuro; Muichiro con
+Tanjiro y Mitsuri en la Aldea de los Herreros (visto en F6); Shinobu con
+Kanao, Giyu y Mitsuri.
+
+## 8 · Doblaje latino y frases textuales
+
+### Ficha (Doblaje Wiki, por la API)
+
+De la ficha de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba),
+leída por el recolector con `action=parse` (este bloque sí es de la serie):
+
+- **Estudios**: Universal Cinergía Dubbing (T1), SIGE Produciendo (T2),
+  Iyuno México (T3 y T4). **Dirección, casting y dirección musical**: Marc
+  Winslow (también voz de Giyu). Supervisión: Gerardo Montero.
+- **Traducción**: Ilda de Córdova. Mezclaron el libreto en inglés de
+  Aniplex con una traducción del japonés y el manga, «para conservar el
+  espíritu japonés».
+- **Grabada** en Ciudad de México; Cristina Hernández desde **Mérida,
+  Yucatán**; René Pinochet desde **Chile**. T1 grabada en nov.-dic. de 2020,
+  **en 2 semanas y media**, en sesiones de 4 horas (Iván Bastidas).
+- 4 temporadas, 63 episodios, emisión 2021-2024 ✅ (ficha) · el mismo
+  reparto lo da [dubdb](https://dubdb.fandom.com/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_(Latin_American_Spanish)).
+
+### Reparto de los cuatro del encargo
+
+Cada nombre ya está en **dos fuentes** (Doblaje Wiki + ANMTV) en la
+biblia 31 §10.2 ✅: **Tanjiro** Iván Bastidas · **Rengoku** Irwin Daayán ·
+**Muichiro** Armando Corona · **Shinobu** Cristina Hernández · **Akaza**
+José Antonio Toledano (premio 2026, dos fuentes arriba).
+
+### Frases textuales y cómo suenan (muestras oficiales de Doblaje Wiki)
+
+El investigador de voz oyó las 4 muestras con `voz.py` (Whisper en local).
+Son **las frases tal cual**; ⚠️ la muestra no dice episodio ni minuto, y
+Whisper puede errar alguna palabra (la de Rengoku suena rara).
+
+| Quién | Frase (audio oficial) | Registro | Expresividad | Velocidad |
+|---|---|---|---|---|
+| **Tanjiro** · Iván Bastidas | «No tenemos una vida fácil, pero somos felices. La vida puede cambiar tan rápido como el clima. Todo varía y continúa. El sol no puede brillar eternamente y la nieve debe terminar en algún momento.» · [audio](https://static.wikia.nocookie.net/doblaje/images/7/78/KnY_Tanjiro_Kamado.ogg/revision/latest?cb=20210513184901&path-prefix=es) | medio, 174 Hz | muy expresiva, 13,7 semitonos | normal, 2,11 pal/s |
+| **Rengoku** · Irwin Daayán | «¡Ha llegado el momento! ¿Para qué juzguemos a este cazador? ¿Están listos?» · [audio](https://static.wikia.nocookie.net/doblaje/images/a/a5/Rengoku_audio_-_kny.ogg/revision/latest?cb=20210616130005&path-prefix=es) | agudo, 220 Hz | **la más expresiva: 20,4 semitonos** | normal, 2,65 pal/s |
+| **Muichiro** · Armando Corona | «A mí se me va a olvidar, así que no tengo problemas.» · [audio](https://static.wikia.nocookie.net/doblaje/images/d/df/Muichiro_Tokito_audio_-_kny.ogg/revision/latest?cb=20210616131043&path-prefix=es) | **el más grave, 118 Hz** | la más plana, 8,9 semitonos | **la más rápida, 5,0 pal/s** |
+| **Shinobu** · Cristina Hernández | «Le diré algo. Según una teoría, ves ese tipo de imágenes antes de la muerte porque busca entre tus experiencias y memorias pasadas algo que debiste perder la vida.» · [audio](https://static.wikia.nocookie.net/doblaje/images/b/bb/Shinobu_Kocho_audio_-_kny.ogg/revision/latest?cb=20210616021209&path-prefix=es) | **el más agudo, 260 Hz** | expresiva, 12,8 semitonos | normal, 2,85 pal/s |
+
+**La voz va con el aura** (medido, pero una sola frase por voz ⚠️):
+Rengoku, la llama, suena **agudo y sin frenos**. Muichiro, la niebla, suena
+**grave, plano y rápido**, como si hablara solo. Shinobu, el insecto, pone
+**la voz más dulce sobre lo más frío** (habla de la muerte).
+
+### Más frases del doblaje, con su sitio
+
+- **Rengoku**: «Enciende tu corazón» y «Vive con la frente en alto»
+  (*Tren Mugen*, TM-7, 00:14:26-00:14:44) ✅ biblia 31 §2.3. El clip
+  oficial de Crunchyroll «¡Siempre vivirás en nuestros corazones,
+  Rengoku!» tiene 719 mil vistas ✅ biblia 31 §10.4.
+- De los «Datos de interés» de Doblaje Wiki (una fuente ⚠️):
+  - T3, cap. 2: **Kotetsu** a Tanjiro: «¿Qué pashó papu?» (meme de internet).
+  - Ep. 35: la cortesana sin nombre responde a Uzui «**Me llamo Gaby, y soy
+    de la casa Ogimoto**» (Gaby Willer, su actriz).
+  - Avance del ep. 16: Inosuke, «Pues Gonpachipro Kamaboko».
+  - Ep. 15: Tanjiro dice «**Hashira**»; en el resto de la serie es
+    «**Pilar**». Usar «Pilar».
+  - En la escena en que Mitsuri le estira las piernas a Tanjiro, el grito
+    es el del actor japonés, Natsuki Hanae.
+- **Dónde se emitió** (dato nuevo): además de Crunchyroll, Netflix y Prime
+  Video, en EE. UU. por **Cartoon Network, bloque Toonami, con audio
+  secundario** desde la T2, y en **The Roku Channel** ✅ (dubdb + Doblaje
+  Wiki). En Netflix los títulos en kanji se subtitulan; en Crunchyroll, no.
+- **Estreno en cine en CDMX** el 4-mar-2023 (World Tour), con doblaje ⚠️
+  (Doblaje Wiki).
+
+⚠️ No hay clips oficiales doblados con minuto de episodio en las partes
+(YouTube bloqueado). Más frases con minuto: biblia 31 §10.
 
 ---
