@@ -1919,7 +1919,7 @@ imagen lo corrigió y esas imágenes **no** van en `referencias.json`.
 | Punto de `ENCARGO.md` | Estado | Por qué |
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | 369 imágenes grandes de la wiki en 3 hojas miradas: settei, cartas pintadas, carátulas de LaserDisc, calendarios, arte en acción (Mars saltando), en grupo (`SII.jpg`) y con objeto; museo del 30.º aniversario (§3) |
-| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 30 minutos citados del EP1, EP39, película R y *Cosmos*, todos vistos (§2). Pero a **1280×960**, no 1080p (no hay copia libre mejor), y el cap. 45 no se vio |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 24 escenas con minuto del EP1, el EP39, la película R y *Cosmos*, todas vistas (§2). Pero a **1280×960**, no 1080p (no hay copia libre mejor), y el cap. 45 no se vio |
 | 3 · Fan art y 3D con licencia | ✅ | 4 modelos CC Attribution con autor (Moon Stick, broche, Cosmic Heart Compact, Luna); fan art de Safebooru con origen; etiquetas de Danbooru (§4). No hay sitios en 3D libres |
 | 4 · Fondos, luz, paleta y texturas reales | ✅ | 3 luces medidas en fotogramas (18 hex) y el Templo Hikawa; 6 sitios; texturas CC0 de ambientCG (§5). Game Center Crown y cuarto de Usagi sin medir ⚠️ |
 | 5 · Tipografía, una letra por uso | ✅ | 15 usos con letra real y libre; 20 letras libres comprobadas con fontTools; aviso de Anime Ace sin ¿ ni ¡ (§6). Letra real del grito y del pensamiento sin identificar ⚠️ |
@@ -1939,9 +1939,9 @@ imagen lo corrigió y esas imágenes **no** van en `referencias.json`.
 | 19 · Texturas 2D | ✅ | trama, brillo, papel y tela con licencia (Clip Studio, GraphicsBunker, ambientCG CC0); emblemas descritos (§20). Sin archivo suelto de los símbolos planetarios ⚠️ |
 | 20 · Gustos y detalles | ✅ | tabla de 7 personajes con cumpleaños, sangre, gustos, disgustos y sueño, de la ficha oficial citada por la wiki y AniList (§21) |
 | 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | razones con fuentes (feminismo, nostalgia, estudio académico, la voz latina) y 4 escenas (§22). **Sin minuto ni música de la muerte de las guerreras** y sin comentarios ni vídeos de reacción |
-| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs latinos, 5 covers de «Luz de Luna», memes y TikTok (§23). **Sin vistas**: YouTube y TikTok bloquean el conteo |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs latinos, la versión original y 4 covers de «Luz de Luna», memes y TikTok (§23). **Sin vistas**: YouTube y TikTok bloquean el conteo |
 | 23 · Colaboraciones, figuras y cosplay | ✅ | Uniqlo, Samantha Vega, dos cafés, el museo, la S.H.Figuarts y un cosplay premiado (§24). No existe colaboración con Fortnite o gachas: «no lo encontré» con dos búsquedas |
-| 24 · Obras parecidas y láminas vecinas | ✅ | 10 influencias reconocidas por la autora, 14 recomendaciones de AniList y comprobación de las 41 biblias (§25) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 9 influencias reconocidas por la autora, 14 recomendaciones de AniList y comprobación de las 41 biblias (§25) |
 | 25 · Mundo, historia por arcos y símbolos | ✅ | reglas en 5 líneas, 5 arcos con villanos y momento clave, objetos y vocabulario (§26) |
 | Tres conceptos de lámina | ✅ | A 🎲 Juegos (recreativa de Sailor V), B #eventos (ofuda del Templo Hikawa), C #general-doblaje (el examen de Usagi), con canal propuesto porque la serie no tiene (§0, §27). Las tres chocan con propuestas de otras biblias: decide el dueño |
 | 40 fuentes distintas | ✅ | más de 45 webs distintas enlazadas (wikis, prensa de 6 países, bancos de recursos, vídeo, arte) |
