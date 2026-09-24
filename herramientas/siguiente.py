@@ -41,8 +41,8 @@ def main():
         texto = ", ".join(falta)
         if a_medias:
             cola.append((1, num(id), id, "seguir", f"partes a medias: {', '.join(a_medias)} · {texto}"))
-        elif falta == ["puntos 18-25"]:
-            cola.append((2, num(id), id, "repaso-corto", "sólo faltan los puntos 18-25"))
+        elif all(f == "puntos 18-25" or f.startswith(("fuentes distintas", "minutos citados", "colores hex")) for f in falta):
+            cola.append((2, num(id), id, "repaso-corto", texto))
         elif num(id) > 30:
             cola.append((3, num(id), id, "nueva", texto))
         else:
