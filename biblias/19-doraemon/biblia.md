@@ -2109,6 +2109,52 @@ hex de ropa y tatami (medidos), fondo del invento (visto en cartelas).
   de 2005-2006 revisados.
 - **Vistas de TikTok** de los *fandubs*.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas miradas (96 piezas con tamaño), 5 retratos oficiales 2005, cel de producción 2048×1632, hoja de modelo de 1973, 83 portadas de tomo, artbook del 50.º aniversario, 5 fondos oficiales medidos; poses vivas: guitarra, vuelo, béisbol, grupo (§3.0, §3.5). **Falta** ⚠️: *key visuals* de la serie de TV y portadas de Blu-ray |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 21 fotogramas **vistos** con minuto y enlace (§2.4), pero de copias de **720p** (Dailymotion, Internet Archive), no 1080p; las escenas de *Stand by Me* y el museo llevan el minuto del subtítulo 1080p, sin fotograma; la boda, sin clip |
+| 3 · Fan art y 3D con licencia | ✅ | 12 modelos de Sketchfab con licencia **por la API** (CC BY, uno «Free Standard» avisado); fan art de Safebooru con origen en Pixiv y X; renders de ArtStation; fotos CC de Flickr (§4) |
+| 4 · Fondos, luz, paleta y texturas | ✅ | paleta **medida** en 5 fondos oficiales y 9 fotogramas, con hex y % (§5.2); luz por sitio (§17); tatami, madera y papel CC0 (§5.3) |
+| 5 · Tipografía, una por uso, con tildes | ✅ | **una letra por uso** (§6.3) con letras comprobadas con fontTools; Dora-e-moji avisada (sin letras latinas, uso personal); cartelas del invento vistas. El trazo del logo japonés sigue sin fuente ⚠️ |
+| 6 · Cómo hablan en pantalla | ✅ | el momento del invento y su **cartela vista** (rayos de color, letra con borde); subtítulos con corchetes ｢ ｣; cuadro de *Story of Seasons*; qué NO hacer (§7). Quedan ⚠️: el sonido de 2005 y el fondo de 2024 |
+| 7 · Personajes y encuestas | ✅ | Mynavi 2025, Nlab 2022, Macromill, ranking.net, **AniList** y Reddit; Doraemon 1.º; Dorami 2.ª entre jóvenes japoneses (§9) |
+| 8 · Doblaje latino, dos fuentes | ✅ | **API de Doblaje Wiki** + dubdb, ANMTV, TVLaint, Desde la Cuna, FUNiAnime: 5 épocas (con el cubano de 1985), repartos completos por temporada; corregidos Jennifer **Medel** y los tres Nobitas; 3 frases latinas textuales con minuto (§10) |
+| 9 · Música | ⚠️ | openings japoneses y latinos (el antiguo **oído** con Whisper, dos letras explicadas), endings latinos, 3 discos de banda sonora, sonido del invento (§11, §7.1). **No sé** qué tema suena en la escena del padre de Shizuka; AnimeThemes caído |
+| 10 · Vídeos con minuto | ✅ | 7 vídeos mirados con minuto y `?t=` (§2.4, §12); *fandubs* con vistas (Punto 22). YouTube y TikTok, sin minuto ⚠️ |
+| 11 · Videojuegos | ✅ | *Story of Seasons* 1 y 2 (cuadro con nombre encima, acuarela con dos reseñas, español latino en Steam), *Dorayaki Shop Story*, *Granblue*; 18 capturas de Steam 1920×1080 enlazadas, sin abrir una a una ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | memes («Handsome Gian», Dora-naki, Irwin Daayán de Suneo a Doraemon), lista de errores con el Poko, la falda de Shizuka y el bolsillo de Dorami (§14) |
+| 13 · Carácter, forma de hablar y caras | ⚠️ | cada personaje con historia, miedos, cómo se expresa y dinámicas (§8); **tabla de caras por emoción** con minuto. **Huecos**: rabia de Doraemon, tristeza de 4 de los 5, vergüenza de todos (7 episodios mirados sin hallarlas) |
+| 14 · Poses con minuto | ⚠️ | 9 poses **vistas** con minuto (§15.0), 8 de las hojas (§15.1) y las tablas de subtítulo; Doraemon y Nobita llegan a 6-10. **Shizuka, Suneo y Dorami** sólo 2-3, deducidas del subtítulo |
+| 15 · Vestuario con hex | ✅ | **12 hex medidos** con Pillow en retratos oficiales y cel (§16); corrige la falda de Shizuka (granate). Dorami sin medir ⚠️ |
+| 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | 5 oficiales medidos (1280×894-929); 9 de Wallhaven con tamaño, ♥ y autor u origen (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta medida, línea, etiquetas de Danbooru, referencias por número, vocabulario de expresiones; **IA de texto**: reglas de voz por personaje y frases reales por emoción (§18) |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | Shin-Ei, Shirogumi, 3ds Max, V-Ray, Nuke y ACES (dos fuentes); la entrevista de CGWorld (goma y plástico del futuro, línea como textura, Poko); guía de Photoshop y Blender. Software 2D y filtros, no encontrados ⚠️ |
+| 19 · Texturas 2D | ✅ | trama del manga comprobada (casi ninguna), sin estampados en la ropa, emblema «G», bolsillo de Dorami, tatami y papel CC0. Pinceles libres, no buscados ⚠️ |
+| 20 · Gustos y detalles | ✅ | tabla de los 6 con cumpleaños (con revista y año), alturas, gustos, miedos y objeto (Punto 20). Alturas de los niños sin ficha oficial ⚠️ |
+| 21 · Por qué la aman, y las escenas que hacen llorar | ⚠️ | razones con fuente, cifras, *TIME*, embajador anime; *Stand by Me* con minuto del padre (subtítulo), **88,4 %** que lloró, Dora-naki, taquilla. **Falta**: minuto de la despedida y qué música suena |
+| 22 · Fan dubs y comunidad hispana | ✅ | 9 vídeos con canal y vistas (Dobla2 394 565), covers de opening y ending, gallego y catalán. TikTok sin medir ⚠️ |
+| 23 · Colaboraciones, figuras y cosplay | ⚠️ | UNIQLO × Louvre (imagen medida), New Era, Converse (México), *Granblue Fantasy*, Toyota, café, gashapon; figura del cuarto. **Falta**: el arte de *Granblue* y un cosplay destacado; Fortnite no existe |
+| 24 · Obras parecidas | ✅ | obras de Fujiko y de Shin-Ei, recomendaciones de AniList con votos, Tezuka (dos fuentes); láminas vecinas (Big Hero 6, Pokémon, Mafalda) y cómo no repetirlas |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, por qué es azul, historia por etapas con hitos, 8 símbolos con japonés y color de ficha (Punto 25) |
+| 3 conceptos de lámina | ✅ | catálogo del cuarto, museo, bolsillo en el descampado; ahora con fondos oficiales, poses vistas, hex y números de hoja (§19) |
+| 40 fuentes distintas | ✅ | **124 dominios** enlazados (revisar.py) |
+| Fuentes oficiales | ⚠️ | dora-world, Shogakukan, Shin-Ei, MOFA, Steam, Netflix, Columbia; entrevistas al staff de *Stand by Me* **abiertas** (CGWorld, ITmedia). **Falta**: hojear el artbook y entrevistas del anime de TV |
+| Otros idiomas | ⚠️ | japonés e inglés a fondo; chino sólo un autor en Bilibili; **coreano no** |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, japonés), Doblaje Wiki, dubdb, Lost Media, Scratchpad; TV Tropes y TCRF dieron 403; Wayback no se probó |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, Yahoo! Chiebukuro, oshiete.goo, questant |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Pixiv y X por el origen de Safebooru; ArtStation (renders); DeviantArt no |
+| Vídeo | ⚠️ | Dailymotion e Internet Archive mirados; YouTube sólo por búsqueda (sin ver análisis con minuto); TikTok enlazado sin medir |
+| Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab por API, Poly Haven, ambientCG, MusicBrainz |
+| Doblaje latino (Doblaje Wiki, ANMTV, Netflix, entrevistas) | ⚠️ | Doblaje Wiki por API, dubdb, ANMTV y 4 medios; créditos de Netflix y **entrevistas a actores en YouTube, sin ver** |
+| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ✅ | opening latino 1979, ending (de España), tráiler de *Stand by Me*, recital, «El Pueblo de Nobita» y «Un mundo sin dinero», más 7 episodios cada 3 s; con Dailymotion e Internet Archive (plan B) |
+| Frases latinas textuales de clips oficiales | ⚠️ | **no hay clips oficiales doblados** a la vista; las 3 frases salen de una grabación de TV subida a Internet Archive, transcritas con Whisper y revisadas a oído |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,4-0,8 MB), miradas, con tabla de números (§3.0) |
+| `referencias.json` | ✅ | ver el recuento en «Segunda pasada · qué cambió»: las imágenes medidas primero, luego fotogramas, 3D, fondos, juegos y páginas |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
