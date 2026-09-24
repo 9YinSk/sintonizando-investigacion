@@ -386,6 +386,110 @@ bastante detalle), pero repasé sus ⚠️ con la red abierta:
    Pokémon, tipo, evolución — útil para cualquier texto corto del canal
    que quiera sonar «como Pokémon» sin copiar frases de los juegos.
 
+## Confirmaciones del repaso (segunda tanda)
+
+### 1 · El logo, con hex medidos de verdad
+El logo oficial (letras amarillas con borde azul y sombra 3D) está en
+Wikipedia como archivo vectorial, usado en el artículo de la franquicia:
+[`International_Pokémon_logo.svg`](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg).
+`estilo.py` no lee SVG, así que lo pasé a PNG a 1200 px con `cairosvg` (ya
+en el sistema, sin saltar ningún bloqueo) y lo medí:
+
+| Color | Hex medido | Qué es |
+|---|---|---|
+| Amarillo principal | `#FECA02` | relleno de las letras |
+| Azul del borde | `#3566AE` | contorno de cada letra |
+| Azul marino | `#213A71` | sombra 3D detrás de las letras |
+| Dorado oscuro | `#C8A10D` | sombreado interno de la «O», «e», «o» |
+
+✅ (medido con `estilo.py`, no de memoria). **Coincide** con los valores que
+dan sitios de paletas de marca —amarillo `#FFCB05`, azul `#3D7DCA`, marino
+`#003A70`— ✅ (dos fuentes independientes,
+[brandpalettes.com](https://brandpalettes.com/pokemon-color-codes/) y
+[designpieces.com](https://www.designpieces.com/palette/pokemon-logo-color-palette-hex-and-rgb/)),
+con una diferencia de 1-2 puntos por la compresión del PNG/JPEG de origen:
+**para pintar el logo, usar los valores de marca** (`#FFCB05`/`#3D7DCA`/
+`#003A70`), que son el redondeo «oficial»; los que medí son el control real
+sobre el archivo que se ve en la práctica.
+
+### 2 · Pokémon Solid, comprobada con fontTools (no de memoria)
+Bajé el archivo real (`Pokemon_Solid.ttf`, del repositorio
+[tjklint/PokePC](https://github.com/tjklint/PokePC), citado ya en la
+biblia) y miré su `cmap` con fontTools:
+
+| Carácter | ¿Está? | Glifo | ¿Tiene dibujo? |
+|---|---|---|---|
+| á é í ó ú (y mayúsculas) | ✅ sí | `aacute`, `eacute`… | ✅ sí (10-56 puntos de contorno cada uno, no está vacío) |
+| ñ / Ñ | ✅ sí | `ntilde` / `Ntilde` | ✅ sí (61 y 34 puntos) |
+| ¿ | ✅ sí | `questiondown` | ✅ sí (53 puntos) |
+| ¡ | ✅ sí | `exclamdown` | ✅ sí (21 puntos) |
+
+✅ (comprobado glifo por glifo con `fontTools.getBestCmap()` +
+`f['glyf']`, no sólo si «existe» el código: cada uno tiene un contorno real
+dibujado). **Se puede usar en español sin caerse a una caja vacía.**
+
+**Licencia, segunda fuente**: el archivo no trae tabla `name` con copyright
+(sólo dice «FontMonger:Pokemon Solid Normal», sin licencia). Por fuera,
+[FontSpace](https://www.fontspace.com/pokemon-solid-font-f13844) dice lo
+mismo que ya citaba [VectorDad](https://vectordad.com/fonts/pokemon-solid/):
+diseñada por **IPBP** en 2007, «libre para uso personal y comercial citando
+al diseñador» ✅ (dos fuentes independientes, coinciden en el nombre del
+diseñador y en los términos). Sigue siendo una fuente de fans sin licencia
+oficial por escrito del creador: **uso bajo tu propio riesgo** si el
+material se publica fuera del Discord, pero para la lámina del servidor
+(uso no comercial, con crédito si se pregunta) está cubierta.
+
+### 3 · Caja de diálogo de Let's Go, con captura real (Game UI DB/Wayback bloqueados)
+`gameuidatabase.com` siguió dando **403** (con y sin User-Agent) y
+`web.archive.org` dio **403/reset** tanto por WebFetch como por curl
+directo (dos intentos, como marca el límite de `AYUDANTE.md`) aunque la
+API de disponibilidad de Wayback sí confirmaba una copia archivada. Pasé al
+plan B: **Interface In Game sí cargó** (200) y su HTML trae la URL directa
+de la captura sin necesidad de ejecutar JavaScript:
+[`pokemon-lets-go-pikachu-dialogue.jpg`](https://interfaceingame.com/wp-content/uploads/pokemon-lets-go-pikachu/pokemon-lets-go-pikachu-dialogue.jpg)
+(1280×720; el EXIF dice `manufacturer=Nintendo co., ltd`, captura real de
+Switch, 21-abr-2019). La miré y medí la caja con `estilo.py`:
+
+| Parte de la caja | Hex medido | Nota |
+|---|---|---|
+| Fondo | `#FDFCFA`-`#F3F4F1` | blanco roto muy cálido, con una trama diagonal sutil (no liso del todo) |
+| Borde | banda de `#88893D` a `#C8C899` | dorado-oliva apagado, grosor de 2-4 px a esta resolución; **no es amarillo brillante** como el `#FCDB06` de Escarlata/Púrpura |
+| Texto | gris casi negro | sin medir el hex exacto (es texto pequeño sobre JPEG comprimido) |
+| Icono | una Poké Ball pequeña, esquina inferior derecha | marca el final del mensaje, en vez del ▼ de los juegos 2D |
+
+✅ (medido sobre una captura real, no de memoria). **Cambia lo que decía la
+biblia**: antes no había datos de Let's Go («no las pude abrir»); ahora hay
+color medido y encaja con el resto de la familia de cajas «blancas
+redondeadas» de la generación 7-8 (§7.2 de la biblia).
+
+**Escarlata/Púrpura**: `gameuidatabase.com/gameData.php?id=1579` también dio
+403, Wayback también bloqueado, e Interface In Game no tiene página para
+este juego (404). No repetí más intentos (límite de dos por sitio). No
+hacía falta de todos modos: sus colores (`#0B1C38`, `#FCDB06`) ya estaban
+✅ en la biblia desde la guía de cuadros de diálogo por franquicia; sólo
+quedan sin una tercera fuente si alguien quiere apretar más.
+
+### 4 · Voces infantiles de Negro y Blanco, segunda fuente
+La biblia ya decía (§7.3) que «¿Quién es ese Pokémon?» volvió en Negro y
+Blanco con voces de niños, con **una sola fuente** (Doblaje Wiki, sin
+especificar cómo se leyó si la web normal da 402). La comprobé **por la
+API** de Doblaje Wiki (`action=parse&prop=wikitext`), que si me hacía falta
+en este punto:
+
+> «En esta temporada regresa el segmento "¿Quién es ese Pokémon?" con la
+> misma traducción y **se buscan voces infantiles** para hacerlo, pero hay
+> bastante inestabilidad en cuanto a los actores que lo hacen.»
+> — [Doblaje Wiki, Pokémon: Negro y Blanco](https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon_Negro_y_Blanco)
+> (cita textual del wikitext, vía su API)
+
+✅ **Pasa a confirmado con dos fuentes** (la referencia previa de la biblia
++ el wikitext propio, con cita textual). Dato nuevo: la propia wiki dice
+que **no hubo un reparto fijo**, varios actores distintos se turnaron —
+por eso no hay un nombre único que dar para «la voz infantil» de esta
+temporada; no es un hueco de investigación, es así como fue.
+
+---
+
 ## No encontré
 - ⚠️ Nombre exacto de la entrega de Pokémon que estrenó OLM Asia en
   diciembre de 2017 con Clip Studio Paint (el artículo de AWN no lo dice).
@@ -422,3 +526,25 @@ bastante detalle), pero repasé sus ⚠️ con la red abierta:
   para estos 3 puntos (ya se hicieron 1 y 0 búsquedas respectivamente en la
   primera pasada, según `datos-texto.md`/bitácora general; para 18/24/25 no
   hacía falta un tercer idioma distinto del japonés).
+
+### Segunda tanda (confirmaciones)
+- **`gameuidatabase.com`, `web.archive.org`** → 403/reset, dos intentos
+  cada uno (con y sin User-Agent; WebFetch y curl), como marca el límite de
+  `AYUDANTE.md`. **`interfaceingame.com`** → 200, sirvió de verdad.
+- **GitHub**: pedí acceso de lectura a `tjklint/PokePC` con `add_repo` (ya
+  citado en la biblia, pero nunca clonado) y lo cloné a mi carpeta de
+  trabajo fuera del repositorio para sacar `Pokemon_Solid.ttf` de verdad,
+  no de una copia de segunda mano.
+- **Doblaje Wiki, por su API** (`action=parse&prop=wikitext`,
+  page=Pokémon_Negro_y_Blanco): confirmé la cita textual sobre las voces
+  infantiles.
+- **`cairosvg`**: instalé esta librería de Python (usa `librsvg`, ya en el
+  sistema) para pasar el SVG del logo a PNG y poder medirlo con
+  `estilo.py`, que no lee SVG. No es un programa para saltar bloqueos: es
+  la única forma de medir un archivo vectorial con la herramienta que ya
+  usa el equipo.
+- **WebSearch (2)**: «Pokemon logo official color hex» ·
+  «"Pokemon Solid" font designer IPBP dafont».
+- **Sketchfab y Wikimedia, por su API** (no cuentan como búsqueda web):
+  siteinfo del logo del wiki (descartado: es el logo de la comunidad, no
+  el de la franquicia), y confirmación de licencia CC BY del SVG del logo.
