@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'Hunter x Hunter', '--wiki', 'hunterxhu · animethemes: HTTP Error 522: <none>
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/136_
@@ -30,18 +30,18 @@ _Fuente: https://api.dailymotion.com_
 - Hunter X Hunter ending 2 · 1:19 · Ka-Tan · 99 vistas · https://www.dailymotion.com/video/x1716z
 **«HUNTER×HUNTER trailer»**
 - Hunter Hunter Trailer DF · 1:56 · FILMSTARTS · 34683 vistas · https://www.dailymotion.com/video/x8bc95l
+- Monster Hunter Tráiler · 2:09 · Sensacine · 20553 vistas · https://www.dailymotion.com/video/x88pwox
 - Tráiler de Hunter X Hunter en inglés · 1:35 · 3djuegos · 5040 vistas · https://www.dailymotion.com/video/x8ptpb7
 - Hunter x Hunter Trailer · 1:35 · JeuxVideo.com · 4049 vistas · https://www.dailymotion.com/video/x89nqav
 - Hunter × Hunter | show | 2011 | Official Trailer · 2:38 · JustWatch · 743 vistas · https://www.dailymotion.com/video/x8hz9xk
 - Hunter Hunter - Official Trailer · 2:10 · FilmAffinity · 714 vistas · https://www.dailymotion.com/video/x7y2iga
-- Hunter x Hunter - Trailer (English Sub) · 1:30 · Moviepilot · 623 vistas · https://www.dailymotion.com/video/x7xekm0
 **«Hunter x Hunter escena»**
 - Hunter X Hunter · 1:11 · Reda · 1109 vistas · https://www.dailymotion.com/video/x9t22u6
 - HUNTER X HUNTER · 1:35 · JeuxVideo.com · 628 vistas · https://www.dailymotion.com/video/x89o011
 - Hunter X Hunter · 1:36 · TV-programme.com · 563 vistas · https://www.dailymotion.com/video/x9gxaz2
 - Hunter x hunter - opening · 1:04 · Uh uh uh · 477 vistas · https://www.dailymotion.com/video/xb4ae
 - Daily Hunter X Hunter · 2:03 · JeuxVideo.com · 398 vistas · https://www.dailymotion.com/video/x8dtwp0
-- Hunter X Hunter · 1:15 · Lehanneur Eliot · 179 vistas · https://www.dailymotion.com/video/xazqlb2
+- Hunter x Hunter trailer · 1:46 · Shura France · 207 vistas · https://www.dailymotion.com/video/x2o93vh
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
@@ -73,8 +73,8 @@ _Fuente: https://musicbrainz.org_
 - HUNTER×HUNTER オリジナル・サウンドトラック · 平野義久 · 2012-01-25 · https://musicbrainz.org/release-group/eab238bb-aa0d-4866-be6a-5899c6a0cf08
 - HUNTER×HUNTER Original Soundtrack 2 · 平野義久 · 2012-05-23 · https://musicbrainz.org/release-group/cdb6d44f-9a91-404c-a913-f7be24e37205
 - HUNTER×HUNTER セレクト×ベスト×α · 平野義久 · 2013-09-18 · https://musicbrainz.org/release-group/bfd2ba5e-3555-4d74-bed0-005ae1b4acb3
-- The Hunter · Matteo Zingales, Michael Lira, Andrew Lancaster · 2011-09-07 · https://musicbrainz.org/release-group/81b4a7d7-c153-44f1-b917-268db42175f3
 - City Hunter · 国吉良一 · 1987-06-03 · https://musicbrainz.org/release-group/8705d51a-a7ab-320f-8257-0e2a9943bcc5
+- The Hunter · Matteo Zingales, Michael Lira, Andrew Lancaster · 2011-09-07 · https://musicbrainz.org/release-group/81b4a7d7-c153-44f1-b917-268db42175f3
 - Hunter Killer · Trevor Morris · 2018-10-26 · https://musicbrainz.org/release-group/de7be88c-3906-41aa-bf6a-4c07b0261a77
 - Monster Hunter · Paul Haslinger · 2020-12-04 · https://musicbrainz.org/release-group/776a1a89-b2b3-43db-86be-4db7223e466e
 - Battle Hunter · 田子美佐子 · 1999-12-22 · https://musicbrainz.org/release-group/250c598c-8992-462b-b346-f0399e7278a6
