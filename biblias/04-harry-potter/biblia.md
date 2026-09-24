@@ -7,22 +7,87 @@ fecha: 2026-09-24
 
 # Biblia · Harry Potter — para #anuncios
 
-> [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom, Doblaje Wiki, YouTube,
->   Wikipedia, Sketchfab, Poly Haven y Wikimedia daban **403** por curl y por
->   WebFetch. Por eso **no se pudo correr** `herramientas/investigar_serie.py`:
->   **no hay hojas de contacto** ni carpeta `hojas/`.
-> - Hice **64 búsquedas web** en español, inglés, japonés, coreano y chino.
->   Después la cuota de búsquedas de la sesión, compartida con los otros
->   ayudantes, se agotó (200 de 200). Otras 4 búsquedas fueron rechazadas.
-> - GitHub sí respondía. De ahí saqué dos cosas:
->   1. **Los subtítulos en inglés de las 8 películas, con sus tiempos.** Con
->      ellos doy el **minuto de cada escena**. Es el minuto en que se dice la
->      frase en ese archivo. Puede moverse uno o dos minutos según la edición.
->   2. **Los archivos de las letras.** Los bajé y comprobé una a una si traen
->      á é í ó ú ñ ¿ ¡.
-> - ✅ **confirmado**: dos fuentes. ⚠️ **dudoso**: una sola fuente, o lo
->   describo de memoria. Lo de memoria siempre va marcado.
+> [!important] Cómo se hizo (léelo primero)
+> - **Dos pasadas.** La primera (24-sep-2026, mañana) se hizo con la red
+>   cerrada: sólo buscador web (64 búsquedas) y GitHub (subtítulos en inglés
+>   de las 8 películas con sus tiempos, y los archivos de las letras).
+> - **Segunda pasada, 24-sep-2026, con la red abierta.** Se pudo usar:
+>   - **Wiki de Fandom** (`harrypotter.fandom.com`) por su API: 2 tandas de
+>     `investigar_serie.py` (**538 + 63 imágenes**, 14 hojas numeradas) y
+>     búsquedas de archivos. **Las miré todas.** Monté 3 hojas propias en
+>     `hojas/` (§2.0). Los tamaños son los reales de la API.
+>   - **Doblaje Wiki** por la API: las 8 películas y 9 fichas de personaje.
+>     Estudio, dirección y reparto **por película**, y **65 muestras de audio
+>     del doblaje**, que pasé por reconocimiento de voz (Whisper) para sacar
+>     frases textuales (§10).
+>   - **YouTube con yt-dlp**: 13 vídeos comprobados. YouTube no dejaba bajar
+>     el vídeo («Sign in to confirm you're not a bot» y 429, compartimos IP) y
+>     `fotogramas.py` falló. **Los miré por sus *storyboards***: fotogramas
+>     de 320×180 (160×90 o menos en los vídeos viejos), uno cada 1-5 s, en
+>     hojas numeradas con su minuto (±2 s). Opening, ending, 3 tráileres
+>     oficiales en español y 5 escenas del canal oficial (§12).
+>   - **Sketchfab** (licencias por su API), **MinaLima** (imágenes de sus
+>     láminas, medidas), subtítulos en inglés otra vez (para cruzar minutos).
+>   - Colores **medidos con Pillow** en fotogramas, láminas de MinaLima y
+>     arte oficial de la wiki (se dice de cuál en cada hex).
+> - **Siguen cerradas o fallan:** Wikipedia y Wikimedia Commons (429), bajar
+>   vídeo o audio de YouTube, Blog Hogwarts (503).
+
+**Leyenda**
+- ✅ **confirmado**: dos fuentes, o un archivo que abrí, medí o miré.
+- ⚠️ **dudoso**: una sola fuente, o de memoria. Míralo antes de dibujar.
+- «P1 00:42:20» = película 1, minuto de los subtítulos en inglés. Puede
+  moverse un minuto según la edición.
+- «P·7» = número 7 de `hojas/personajes_01.jpg`; «O·3» = `objetos_01.jpg`;
+  «F·5» = `fondos_01.jpg`. La tabla de §2.0 enlaza cada original.
+- «clip 0:43» = minuto dentro del vídeo de YouTube enlazado (±2 s).
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+- **El atril del búho no sale en la película 1.** Antes: «P1 00:42:20,
+  Dumbledore en el atril». Ahora: en P1 da los avisos **de pie en la mesa de
+  profesores, entre velas** (F·1). El atril dorado aparece **desde la
+  película 3** (la wiki lo marca «1st» en P3, y en los libros no existe) ✅.
+  Lo vi en el [clip oficial de P3, 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43).
+- **«Boy Who Lived» de MinaLima no es de la «primera época».** La lámina
+  dice «Harry Potter and the Order of the Phoenix» (P5). La cabecera alegre es
+  la **gótica adornada** «The Daily Prophet» de P1-P4 (O·1, O·2, O·9) ✅.
+- **El tablón de Gryffindor no es de corcho** en el arte oficial: es
+  **fieltro rojo oscuro `#51201D`** en un **marco de madera tallada**, entre
+  tapices de flores (O·21, Pottermore). Y no sale «sólo en los libros»: la
+  wiki lo lista también en las películas 1-6 y en los juegos.
+- **Doblaje, película a película** (Doblaje Wiki): P1 **Audiomaster 3000**
+  (no «Audiomaster»); P3 la dirigió **José Luis García Agraz** (no Molina);
+  P5 **Herman López** en **DAT**; P5 a P8 en **DAT Doblaje Audio
+  Traducción**. Hagrid en P2 y P3 es **Víctor Hugo Aguilar**. Snape tuvo
+  **6 voces** (no 1). Hay un **redoblaje argentino de 2019** (Caja de
+  Ruidos) de P3 a P8: no mezclarlo.
+- **«Dobby es un elfo libre»**: ⚠️ → ✅. Es la frase del doblaje latino de P7
+  (muestra de audio de Doblaje Wiki: «Dobby no tiene amo. Dobby es un elfo
+  libre, y Dobby vino a salvar a Harry Potter y a sus amigos»).
+- **Poses de memoria → miradas** en los clips: Dumbledore **abre los brazos**
+  tras el atril (P3, clip 0:43) y **alza los dos índices** al hablar de la
+  felicidad (clip 2:42); Hermione **agarra el brazo de Ron** para corregirlo
+  (clip 0:04) y cierra los ojos con la barbilla alta (clip 0:17); Luna
+  **lee El Quisquilloso tapándose la cara** en el carruaje (clip 0:59).
+- **Licencias de Sketchfab**: por la API. El tablón de corcho es **CC BY**
+  ✅; el Gran Comedor con velas de JER3D **ya no existe** (404).
+
+**Añadido**
+- 3 hojas de contacto propias (§2.0), con 100 imágenes elegidas de 601.
+- **Frases textuales del doblaje latino** de 14 personajes (§10.3). Entre
+  ellas, **dos avisos oficiales** dichos a todo el colegio: el de McGonagall
+  del baile (P4) y el de Snape director (P8).
+- Colores **medidos** (§5, §16) y hex de las láminas de MinaLima.
+- Minutos y enlaces `&t=` de 13 vídeos (§12) y poses con clip (§15).
+- `referencias.json` rehecho: **40 entradas**, casi todas la imagen misma
+  con su tamaño medido.
+- La **Tabla de cumplimiento** (antes de la bitácora).
+- Aviso: hay **serie de HBO en marcha** («Harry Potter y la piedra
+  filosofal», teaser latino de HBO Max, 2026). No confundir su reparto.
+
+**Marcas de duda (⚠️):** había **55**; el recuento final va en la bitácora.
 
 ---
 
@@ -53,18 +118,153 @@ Caben en una sola lámina. **No hace falta lámina 2.**
 
 | Pregunta | Respuesta |
 |---|---|
-| Cuadro de diálogo propio | **La portada de El Profeta**, época alegre. En Harry Potter el texto vive dentro de objetos: periódico, carta, pergamino, aviso clavado. Nunca en un globo. |
-| Mejor objeto para #anuncios | **El Profeta en la mesa del Gran Comedor, a la hora del correo.** Escena real: película 1, minuto 00:53:45 a 00:54:57. |
-| Segundo objeto | **El atril del búho dorado** desde el que Dumbledore da los avisos. «Tengo algunos avisos de inicio de curso»: película 1, 00:42:20. |
-| Tercer objeto | **El tablón de anuncios de la sala común de Gryffindor.** |
+| Cuadro de diálogo propio | **La portada de El Profeta**, época alegre (P1-P4: cabecera gótica adornada, titulares góticos, texto en espiral; O·1, O·2). En Harry Potter el texto vive dentro de objetos: periódico, carta, pergamino, aviso clavado, **la cinta de pergamino de los créditos de P3**. Nunca en un globo. |
+| Mejor objeto para #anuncios | **El Profeta en la mesa del Gran Comedor, a la hora del correo.** Escena real: P1 00:53:45 («Mail's here») a 00:54:57. Arte oficial del correo del desayuno: F·8. |
+| Segundo objeto | **El atril del búho dorado**, alas abiertas. **Sale desde P3**, no en P1: [clip oficial de P3, 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43), Dumbledore abre los brazos tras él. En P1 da los avisos de pie en la mesa (00:42:20, F·1). |
+| Tercer objeto | **El tablón de anuncios de Gryffindor**: fieltro rojo en marco tallado (O·21). Según la wiki, cada día se clavaban ahí **El Profeta y El Quisquilloso**. |
 | El más querido | En tres grandes encuestas gana **Snape**. De la lista del encargo, **Hermione** va siempre arriba. **Luna** supera a Harry en dos encuestas y **Dobby** en una. |
 | Letras | **UnifrakturMaguntia** para la cabecera. **IM Fell English** para el texto. Las dos son libres y traen todas las tildes. Comprobado en el archivo. |
-| Voz latina | Harry: **Víctor Ugarte**. Hermione: **Leyla Rangel**. Dumbledore: **César Arias**. Luna: **Lu Leal**. Dobby: **Ismael Castro**. Todos ✅. |
-| Tono | La época alegre de las películas 1 a 4: vela, madera y papel crema. La cabecera oscura, de propaganda, no va aquí. |
+| Voz latina | Harry: **Víctor Ugarte** (P3-P8). Hermione: **Leyla Rangel** (P4-P8). Dumbledore: **César Arias** (las 8). Luna: **Lu Leal** (P5-P8). Dobby: **Ismael Castro** (P2 y P7). Todos ✅ (Doblaje Wiki + prensa). |
+| Frase latina para #anuncios | Dumbledore, P8: «**Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia**» (muestra de Doblaje Wiki, §10.3). |
+| Tono | La época alegre de las películas 1 a 4: vela, madera y papel crema. La cabecera oscura, de propaganda (P5 en adelante), no va aquí. |
 
 ---
 
 ## 2 · Arte oficial y referencias visuales
+
+### 2.0 Las hojas de contacto (lo que vi en la wiki) ✅
+
+Corrí `investigar_serie.py` dos veces sobre `harrypotter.fandom.com`:
+- `herramientas/referencias/harry-potter/`: 8 páginas de personajes (los 6 del encargo, Snape y McGonagall). **754 imágenes enlazadas, 538 grandes, 12 hojas.**
+- `herramientas/referencias/harry-potter-objetos/`: 12 páginas de objetos y sitios (El Profeta, El Quisquilloso, atril, tablón, vociferador, decretos, Gran Comedor, sala común, carta, gafas espectrales, calcetín). **92 imágenes, 63 grandes, 2 hojas.**
+- Y busqué en el espacio de archivos de la wiki («Daily Prophet», «lectern», «notice board», «Hogwarts letter», «Educational Decree»…): 51 archivos más, con su tamaño.
+
+**Las miré todas.** Mucho no sirve: fotos de *Animales fantásticos* y de *El legado maldito* (teatro), muñecos LEGO y Funko, escudos de casas, fotogramas oscuros de P7-P8. Lo que más sirve: los **promos con fondo** de Warner, los **renders recortables** del juego *Puzzles & Spells* (PAS, fondo verde en la hoja), el **arte de Pottermore** (ilustraciones anchas de 4000 px, de Atomhawk Design y otros) y **los props de papel** (El Profeta, El Quisquilloso, decretos).
+
+Monté **3 hojas propias** con Pillow (`hojas.py` en mi carpeta de trabajo). En cada celda va el tamaño real. El verde de fondo marca lo recortable.
+
+**`hojas/personajes_01.jpg`** (P·)
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Hermione P3, promo con Crookshanks | 2923×4000 | Hermione de cuerpo entero, erguida, mano en el mueble: **presentar** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/d/d2/Hermione_poa.jpg) |
+| 2 | Hermione render PAS, libros | 1080×2009 | recorte limpio (fondo verde): libros abrazados, **explicar** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/c4/Hermione_Granger_-_PAS.png) |
+| 3 | Hermione, retrato promo | 1535×2048 | cara y pelo de la época madura | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/34/Hermione_Granger.jpg) |
+| 4 | Hermione P5, perfil | 640×900 | uniforme P5, mirada seria | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/21/Hermione_Granger_OOTP_profile.jpg) |
+| 5 | Hermione: diseño vestido de gala P4 | 1182×1255 | vestido rosa de volantes: **qué NO** (gala, no anuncio) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/33/HermioneGranger_WB_F4_HermioneGrangerCharacterIllustration_Illust_080615_Port.jpg) |
+| 6 | Hermione y Ron P2, promo | 744×1000 | Hermione y Ron juntos, uniforme P2 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/e0/Hermione_Granger_and_Ron_Weasley_COSF_promo.jpg) |
+| 7 | El trío P1, escoba y libros | 1080×1350 | **el trío con escoba y libros**: grupo, presentar | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/ac/Trio_in_their_younger_days_Harry%2C_Ron_and_Hermione.jpg) |
+| 8 | Ejército de Dumbledore P5 | 4064×2704 | **el Ejército de Dumbledore en fila**: grupo, animar | [enlace](https://static.wikia.nocookie.net/harrypotter/images/9/96/Dumbledore%27s_Army.jpg) |
+| 9 | Luna P6, retrato promo | 1346×2000 | Luna, cara y pendientes de rábano | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/ed/Luna_Lovegood.jpg) |
+| 10 | Luna con el sombrero de león | 1365×2048 | **Luna con el sombrero de león**: el guiño que ama el fan | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/22/Lion_Lovegood.jpg) |
+| 11 | Luna con las gafas espectrales | 1401×2100 | **Luna con las gafas espectrales y El Quisquilloso en la mano** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/70/Luna_wearing_Spectrespecs.jpg) |
+| 12 | Luna leyendo El Quisquilloso | 1325×1298 | **Luna leyendo El Quisquilloso**: la prensa «no oficial» | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/6b/Quibbler-Luna.JPG) |
+| 13 | Luna: figurín de vestuario P6 | 857×1386 | figurín P6: chaqueta ciruela, medias turquesa (hex en §16) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/d/d9/LunaLovegood_WB_F6_LunaLovegoodCharacterIllustration_V2_Illust_080615_Port.jpg) |
+| 14 | Luna: boceto de vestuario P5 | 788×1182 | boceto P5: rebeca verde y falda | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/15/WB_F5_LunaLovegood_ConceptArtCostumeSketch_ArtWork-181.jpg) |
+| 15 | Luna ante avisos clavados, Pottermore | 910×935 | **Luna ante avisos clavados en la pared** (Pottermore): pose para el tablón | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/ff/Luna_Lovegood_-_Jessica_Roux_PM.jpeg) |
+| 16 | Sombrero de león, arte conceptual | 836×1231 | concepto del sombrero | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/60/Luna%27s_Lion_Hat_-_Concept_Art.jpg) |
+| 17 | Dobby, cartel de personaje P7 | 1600×2560 | cartel P7: medio rostro en sombra (tono oscuro, no para #anuncios) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f2/Dobbyposter.jpg) |
+| 18 | Dobby P7, chasquea los dedos | 1300×1312 | **Dobby chasquea los dedos, mano en alto**: magia, **proclamar** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f4/DobbyDH.jpg) |
+| 19 | Dobby, brazos en jarra | 944×1056 | **Dobby con los brazos en jarra**: orgullo, «elfo libre» | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/82/Dobby.jpg) |
+| 20 | Dobby, primer plano | 931×919 | cara de Dobby, ojos verdes | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f0/Dobbyelve.jpg) |
+| 21 | Dobby recibe el calcetín, PAS | 833×1442 | recorte limpio: Dobby con el libro donde va el calcetín | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/6e/Dobby_Receives_Sock_PAS.png) |
+| 22 | Dobby liberado, Pottermore | 4140×1500 | Dobby liberado (Pottermore), oscuro | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/72/B2C18M2_Dobby_is_freed.jpg) |
+| 23 | Dobby, títere de rodaje P7 | 907×720 | el títere de rodaje P7 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/b/bb/DH_Dobby_puppet_artwork.jpg) |
+| 24 | Dumbledore P6, varita en alto | 2136×2850 | **Dumbledore P6 con la varita en alto**: presentar con énfasis | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/75/Albus_Dumbledore_%28HBPF_promo%29.jpg) |
+| 25 | Dumbledore P6, sentado | 2136×2850 | Dumbledore sentado, sereno: **pensar** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/0/04/Albus_Dumbledore_%28HBP_promo%29_1.jpg) |
+| 26 | Dumbledore render PAS, mano abierta | 1080×2400 | **recorte limpio: mano abierta hacia arriba**: presentar, explicar | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/fc/Albus_Dumbledore_2_-_PAS.png) |
+| 27 | Dumbledore P1 (Richard Harris) | 1347×1820 | Dumbledore de Richard Harris, túnica burdeos en el banquete | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/81/Albus_Dumbledore_PSF.jpg) |
+| 28 | McGonagall y Dumbledore P2, promo | 784×1024 | McGonagall y Dumbledore, el «staff» | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/83/COS_promo_Minerva_Albus.jpg) |
+| 29 | Harry P6, promo | 1500×1982 | Harry P6, perfil serio | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/3a/Harry_Potter_HBPF_promo_2.jpg) |
+| 30 | Harry P2, uniforme | 694×967 | Harry P2 con uniforme | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/ee/COS_promo_Harry_Potter_Hogwarts_uniform_cropped.jpg) |
+| 31 | Ron P5, promo | 775×1155 | Ron P5 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/3f/OOTP_promo_front_Ron_cropped.jpg) |
+| 32 | Ron render PAS, varita y libro | 860×1280 | recorte limpio: Ron con varita y libro | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/89/Ronald_Weasley_-_PAS.png) |
+| 33 | McGonagall: figurín de vestuario | 2360×2728 | figurín de McGonagall (verde) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1e/MinervaMcGonagall_WB_F1_MinervaMcGonagallRobeIllustration_Illust_080615_Port.jpg) |
+| 34 | Snape y Dumbledore | 2531×3797 | Snape y Dumbledore | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/26/Snape_and_Dumbledore.jpg) |
+| 35 | Hermione estilo Magic Awakened | 825×641 | estilo Magic Awakened (sólo referencia de estilo) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/77/Hermione_Granger_Ministry_MA.png) |
+| 36 | Harry render PAS, libro | 636×870 | recorte limpio: Harry con libro | [enlace](https://static.wikia.nocookie.net/harrypotter/images/4/44/Harry_Potter_-_PAS.png) |
+
+**`hojas/objetos_01.jpg`** (O·)
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | El Profeta Vespertino: el Ford Anglia | 1680×2448 | **cabecera gótica adornada** de la primera época (P2) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/c6/EveningProphetFlyingFordAnglia.png) |
+| 2 | El Profeta: robo de Gringotts P1 | 854×1267 | **El Profeta de P1**: titular gótico, texto en espiral | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/39/Daily_prophet_gringotts_break_in.jpg) |
+| 3 | Recorte del robo de Gringotts | 560×854 | recorte del mismo número | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/a3/1991_Gringotts_Break-in_Daily_Prophet.jpg) |
+| 4 | El Profeta PAS: sale el expreso | 1536×2048 | portada estilo juego (PAS) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/9/95/Daily_Prophet_-_Hogwarts_Express_Departs_-_PAS.png) |
+| 5 | El Profeta PAS: Gryffindor gana | 720×1280 | portada estilo juego: «Gryffindor gana» | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/cb/Daily_Prophet_-_Gryffindor_wins_the_House_Cup_-_PAS.png) |
+| 6 | Premio de El Profeta: búho dorado | 750×1000 | premio de El Profeta: búho dorado | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/68/Daily_prophet_owl.jpg) |
+| 7 | El Profeta P5: The boy who lies | 1024×1620 | cabecera P5 (propaganda): qué NO | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/eb/Daily_prophet_the_boy_who_lies.jpg) |
+| 8 | El Profeta P5: He who must not… | 900×1425 | cabecera P5: qué NO | [enlace](https://static.wikia.nocookie.net/harrypotter/images/4/4f/He_who_must_be_not_be_named_returns.jpg) |
+| 9 | El Profeta P3: fuga de Azkaban | 920×1351 | **P3: «Escape from Azkaban!» con foto**: hueco de foto que se mueve | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/a8/DailyProphetAzkaban.png) |
+| 10 | El Profeta P5: Dumbledore | 564×892 | P5, foto de Dumbledore en la portada | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/78/Campaign_to_discredit_Albus_Dumbledore_and_Harry_Potter.jpg) |
+| 11 | Undesirable No. 1, P7 | 1200×1912 | P7, cartel de búsqueda: qué NO | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/10/Undesirable_no._1.jpg) |
+| 12 | Anuncios del Ministerio, concepto | 785×956 | anuncios del Ministerio en El Profeta (concepto): pequeños avisos | [enlace](https://static.wikia.nocookie.net/harrypotter/images/d/d5/Ministry_Advertisements_From_The_Daily_Prophet_concept_art.jpg) |
+| 13 | El Quisquilloso, doble portada | 2294×1679 | El Quisquilloso, dos portadas | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/c3/Quibbler_4.jpg) |
+| 14 | El Quisquilloso con gafas espectrales | 1765×1200 | **El Quisquilloso con las gafas espectrales de regalo** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/7a/Quibbler-Spectrospecs.jpg) |
+| 15 | El Quisquilloso n.º 1 | 758×1060 | El Quisquilloso n.º 1 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1a/Quibbler_No1.png) |
+| 16 | El Quisquilloso: Harry in hiding | 1537×2127 | El Quisquilloso P7 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/ec/QuibblerWhereisTheChosenOne.jpg) |
+| 17 | Vociferador, foto promo P2 | 1720×1416 | **el vociferador**: sobre rojo que habla | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/39/Howler_WB_F2_HowlerCloseUpPromo_Promo_100615_Land.jpg) |
+| 18 | Ron recibe el vociferador P2 | 2100×1552 | Ron recibe el vociferador en el desayuno | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/7e/COS_HQ_still_Ron_Howler.jpg) |
+| 19 | Carta de Hogwarts, promo P1 | 1778×2682 | **carta de Hogwarts con lechuza**: el aviso que llega sí o sí | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/81/Hogwarts_acceptance_letter_PSF_promo.jpg) |
+| 20 | Carta a Harry, P1 | 1919×1054 | sobre de la carta, tinta verde | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/26/Letter_to_Harry.jpeg) |
+| 21 | Tablón de Gryffindor, Pottermore | 1100×1100 | **el tablón de Gryffindor** (Pottermore): fieltro rojo, notas clavadas | [enlace](https://static.wikia.nocookie.net/harrypotter/images/0/0a/Gryffindor_Notice_Board.png) |
+| 22 | Tablón de Gryffindor, retocado | 1624×1459 | el mismo, retocado | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/2d/GryffindorNoticeboard.jpg) |
+| 23 | Aviso de libro perdido | 780×1308 | aviso de «libro perdido» escrito a mano | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/ae/PeterJamesLostBook.jpg) |
+| 24 | Pared de decretos P5 | 1263×568 | pared de decretos P5 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/5/5f/Educational_Decrees.png) |
+| 25 | Decreto de Educación n.º 23 | 352×527 | decreto n.º 23: letra de cartel oficial | [enlace](https://static.wikia.nocookie.net/harrypotter/images/b/bf/Educational_Decree_Number_23.jpg) |
+| 26 | Atril del búho, PAS | 2048×2048 | **atril del búho** (juego, 2048×2048): modelar en Blender | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/85/Lecturn_in_Great_Hall_PAS.png) |
+| 27 | Atril del búho, recorte | 381×647 | atril del búho, recorte | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/a1/Dumbledore%27s_owl_podium.png) |
+| 28 | El calcetín de Dobby | 547×325 | el calcetín de Dobby | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/e9/Dobby%27s_sock.png) |
+| 29 | Mapa del Merodeador | 3709×2140 | Mapa del Merodeador abierto | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1d/Marauder%27s_Map_OOTPG.jpg) |
+| 30 | Mapa del Merodeador, portada | 988×1861 | portada del Mapa | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/a3/Marauder%27sMap.png) |
+| 31 | Cartas y sello, exposición | 3600×2400 | cartas y lacre en una exposición | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1b/Hpexhibit001.jpg) |
+| 32 | Copa de los Tres Magos | 1480×1944 | copa de los Tres Magos | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1d/Triwizard_Cup.png) |
+
+**`hojas/fondos_01.jpg`** (F·)
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Dumbledore en la mesa P1, velas | 1920×800 | **P1: Dumbledore da los avisos de pie en la mesa, entre velas** (sin atril) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/69/Dumbledore_speech.jpg) |
+| 2 | Umbridge interrumpe, atril P5 | 1834×799 | **P5: el atril del búho con las alas abiertas**, Umbridge al lado | [enlace](https://static.wikia.nocookie.net/harrypotter/images/0/08/Umbridge_speech.jpg) |
+| 3 | Discurso de inicio P6 | 1309×557 | P6: discurso de inicio (oscuro) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/5/54/Dumbledore%27s_1996_Start-of-term_speech_HBPF.jpg) |
+| 4 | Dumbledore y el cáliz P4 | 1200×798 | P4: Dumbledore junto al cáliz | [enlace](https://static.wikia.nocookie.net/harrypotter/images/e/ee/Albus_Dumbledore_before_presenting_the_Goblet_of_Fire.jpg) |
+| 5 | Mesa de profesores P5 | 1599×749 | mesa de profesores P5 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/d/dd/Professors_at_the_Start-of-Term_Feast_OOTP.PNG) |
+| 6 | Banquete de inicio P5 | 1280×532 | banquete de inicio P5: las cuatro mesas | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/62/1995_Start-of-Term_Feast_1.jpg) |
+| 7 | Leen El Profeta en el Gran Comedor P3 | 1920×800 | **P3: alumnos de Gryffindor leen El Profeta en el Gran Comedor** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/8c/Gryffindor_students_reading_the_Daily_Prophet_POAF.PNG) |
+| 8 | Correo del desayuno, Pottermore | 1278×500 | **el correo del desayuno: lechuzas sobre la mesa** (Pottermore) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f6/B4C28M1_Hermione_opening_hate_mails.jpg) |
+| 9 | Hedwig trae el correo, Pottermore | 5152×1866 | **Hedwig trae el correo a la sala común** (Pottermore) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/9/91/B4C14M2_Hedwig%27s_Gryffindor_Common_Room_delivery.png) |
+| 10 | Gryffindor gana la copa, Pottermore | 4120×1536 | Gryffindor gana la copa: estandartes rojos | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/63/B1C17M3_Gryffindor_winning_the_House_Cup.jpg) |
+| 11 | Gran Comedor de noche, velas | 1620×1708 | **Gran Comedor de noche con velas flotando**: fondo del concepto B | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg) |
+| 12 | Gran Comedor, Studio Tour, Navidad | 2048×1365 | Gran Comedor del Studio Tour (Navidad 2022) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/2/2a/Great_Hall_Table.png) |
+| 13 | Gran Comedor de día | 1280×640 | Gran Comedor de día: luz de mañana (concepto A) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/3/3e/Great_hall.jpg) |
+| 14 | Banquete de Halloween P1 | 1920×800 | banquete de Halloween P1: calabazas | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/fa/Hallowe%27en_Feast.jpg) |
+| 15 | Banquete de Navidad, Pottermore | 4120×1536 | banquete de Navidad (Pottermore) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/b/bf/B1C12M2_Christmas_feast_at_Hogwarts.jpg) |
+| 16 | Clases de Aparición, Pottermore | 3834×1500 | clases de Aparición: el aviso del libro 6 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/a/a4/B6C18M1_Apparition_lessons_in_the_Great_Hall.png) |
+| 17 | Sala común de Gryffindor, Pottermore | 4120×1536 | **sala común de Gryffindor** (Pottermore): mesa con pergaminos | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/89/B1C11M1_Gryffindor_Common_Room_PM.jpg) |
+| 18 | Sala común, chimenea, Pottermore | 4120×1536 | sala común con chimenea (Pottermore) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f4/B1C13M1_Gryffindor_CommonRoom1_PM.jpg) |
+| 19 | Sala común, Hogwarts Legacy | 1540×848 | sala común en Hogwarts Legacy | [enlace](https://static.wikia.nocookie.net/harrypotter/images/4/4c/Gryffindor_common_room_HL.jpeg) |
+| 20 | El trío en la sala común P6 | 2100×1401 | el trío en la sala común P6 | [enlace](https://static.wikia.nocookie.net/harrypotter/images/9/99/The_trio_relaxing_in_the_common_room.jpg) |
+| 21 | Chimenea de la sala común | 3965×1500 | chimenea de la sala común | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1e/B2C18M1_Sword_of_Gryffindor_engraving.png) |
+| 22 | Lluvia de cartas en Privet Drive | 4098×1536 | **lluvia de cartas en Privet Drive** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/d/db/B1C3M1_Hogwarts_letters_privet_drive.jpg) |
+| 23 | Carruaje de Hogwarts P5 | 1765×799 | **el carruaje de P5 donde Luna lee El Quisquilloso** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/fa/Fifth_year_Hogwarts_carriage.jpg) |
+| 24 | Cartas de fans de Lockhart | 4140×1493 | mesa llena de cartas de fans | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/1b/B2C7M2_Harry_replying_to_Lockhart%27s_fan_mail.png) |
+| 25 | Elfos en las cocinas | 3676×1500 | elfos en las cocinas: el mundo de Dobby | [enlace](https://static.wikia.nocookie.net/harrypotter/images/6/63/B4C21M2_House-elves_in_Hogwarts_kitchens.png) |
+| 26 | Cabeza de Puerco, 1.ª reunión | 3684×1500 | Cabeza de Puerco: primera reunión del ED | [enlace](https://static.wikia.nocookie.net/harrypotter/images/c/ce/B5C16M1_First_meeting_in_the_Hog%27s_Head.png) |
+| 27 | Castillo de noche | 1920×1080 | el castillo de noche | [enlace](https://static.wikia.nocookie.net/harrypotter/images/1/11/Hogwarts_Castle_%E2%80%93_HPatPS.jpg) |
+| 28 | Gran Comedor vertical, PAS | 1080×2307 | Gran Comedor vertical (PAS): lámina alta | [enlace](https://static.wikia.nocookie.net/harrypotter/images/f/f0/Great_Hall_2_-_PAS.png) |
+| 29 | Baile de Navidad, Pottermore | 3224×1316 | baile de Navidad (Pottermore) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/4/4c/B4C23M1_Weird_Sisters_playing_at_the_Yule_Ball.png) |
+| 30 | San Valentín en el Gran Comedor | 4140×1500 | San Valentín en el Gran Comedor: qué NO (cursi) | [enlace](https://static.wikia.nocookie.net/harrypotter/images/5/52/B2C13M2_Lockhart%27s_Valentine%27s_Day_Great_Hall_decoration.png) |
+| 31 | Club de duelo | 4140×1500 | club de duelo | [enlace](https://static.wikia.nocookie.net/harrypotter/images/7/7e/B2C11M2_Great_Hall_Duelling_Club.png) |
+| 32 | Marca Tenebrosa (qué NO) | 1462×824 | Marca Tenebrosa: **qué NO** | [enlace](https://static.wikia.nocookie.net/harrypotter/images/8/89/B4C9M1_Dark_Mark_PM.png) |
+
+**Lo mejor de cada hoja, en una línea**
+- Para **presentar o explicar**: Dumbledore con la mano abierta (P·26, recortable) o con la varita en alto (P·24); Hermione con libros (P·2, recortable).
+- Para **proclamar**: Dobby chasqueando los dedos (P·18) o en jarra (P·19).
+- Para **el guiño del fan**: Luna con las gafas espectrales (P·11) o el sombrero de león (P·10).
+- Para **el objeto**: El Profeta de P1 (O·2), el tablón (O·21), el atril (O·26, F·2), el vociferador (O·17).
+- Para **el sitio**: el correo del desayuno (F·8), el Gran Comedor de noche (F·11), la sala común (F·17).
+- **Licencia**: todo © Warner Bros. / Wizarding World. Sólo referencia; no pegar.
 
 ### 2.1 Los papeles de MinaLima (el estudio del grafismo de las películas)
 MinaLima es Miraphora Mina y Eduardo Lima. Hicieron **todos** los papeles
@@ -73,27 +273,50 @@ de las ocho películas: El Profeta, cartas, decretos, el Mapa del Merodeador.
 [New Statesman](https://www.newstatesman.com/culture/2015/12/graphic-art-harry-potter-films-two-designers-bringing-fiction-life),
 [Wikipedia](https://en.wikipedia.org/wiki/MinaLima))
 
-Portadas de El Profeta que venden como láminas (sólo referencia):
-- [«Boy Who Lived»](https://minalima.com/product/the-daily-prophet-boy-who-lived/): primera época.
-- [Recopilación de portadas](https://minalima.com/product/art-print-the-daily-prophet-compilation/).
-- [«Mass Breakout from Azkaban»](https://minalima.com/product/the-daily-prophet-mass-breakout-from-azkaban/): época oscura.
-- [«Undesirable No. 1»](https://minalima.com/product/the-daily-prophet-undesirable-number-1/): propaganda.
-- [«Dumbledore's Dark Secrets Revealed»](https://minalima.com/product/the-daily-prophet-dumbledores-dark-secrets-revealed/).
-- [Decretos y proclamas del Ministerio](https://minalima.com/ministry-of-magic-collection/) y la [proclama n.º 85](https://minalima.com/product/proclamation-no-85/).
-- [El Mapa del Merodeador](https://minalima.com/product/the-marauders-map/) y el [vociferador de Ron](https://minalima.com/product/art-print-ron-weasleys-howler/).
+Portadas de El Profeta que venden como láminas (sólo referencia). En la
+segunda pasada bajé la imagen de cada una (3000×3000, medida) y **las miré**:
+- [«Boy Who Lived»](https://minalima.com/product/the-daily-prophet-boy-who-lived/)
+  ([imagen](https://media.minalima.com/2025/01/thumb-p61lpr.jpg)): **es de P5**
+  (lo dice la lámina: «Harry Potter and the Order of the Phoenix»). Cabecera
+  «DAILY PROPHET» de palo grueso con la P dorada. Papel `#E8E0D4`, tinta
+  `#030202` (medidos). **No es la época alegre** (antes lo puse mal).
+- [Recopilación de portadas](https://minalima.com/product/art-print-the-daily-prophet-compilation/)
+  ([imagen](https://media.minalima.com/2025/04/thumb-p141lpr.jpg)): 9
+  portadas de P3 a P7. Se ve el cambio: **P3 «Escape from Azkaban!» con la
+  cabecera gótica adornada** → desde P5, «DAILY PROPHET» de palo con el escudo
+  alado. Es la mejor chuleta para elegir época.
+- [«Mass Breakout from Azkaban»](https://minalima.com/product/the-daily-prophet-mass-breakout-from-azkaban/): P5, época oscura.
+- [«Undesirable No. 1»](https://minalima.com/product/the-daily-prophet-undesirable-number-1/): P7, propaganda.
+- [«Dumbledore's Dark Secrets Revealed»](https://minalima.com/product/the-daily-prophet-dumbledores-dark-secrets-revealed/): P7.
+- [Decretos y proclamas del Ministerio](https://minalima.com/ministry-of-magic-collection/) y la [proclama n.º 85](https://minalima.com/product/proclamation-no-85/)
+  ([imagen](https://media.minalima.com/2025/01/thumb-p28lpr-2025.jpg)):
+  papel amarillo `#E4CE93`, tinta `#6D5C3F`, el número en rojo `#B81714`
+  (medidos). Mano que señala «☞ No.», palos rectos, firma roja de Umbridge.
+- [El Mapa del Merodeador](https://minalima.com/product/the-marauders-map/) y el [vociferador de Ron](https://minalima.com/product/art-print-ron-weasleys-howler/)
+  ([imagen](https://media.minalima.com/2019/01/thumb-ron-howler-print-scaled.jpg),
+  2560×2560): sobre rojo `#B12E38` con etiqueta «Ronald Weasley, Hogwarts
+  School of Witchcraft & Wizardry»; la carta, en caligrafía de tinta roja
+  sobre papel `#EFE1CF`, **y al final una posdata en tinta dorada**: «Oh, and
+  Ginny, dear, congratulations on making Gryffindor». Un grito con una posdata
+  amable: buena idea para un aviso.
 
 ### 2.2 Fotos del decorado real (Studio Tour de Londres, en Wikimedia Commons)
+Licencia, autor y tamaño comprobados con la API de Commons ✅:
 - Atril del búho con el traje de Dumbledore:
-  [foto 1](https://commons.wikimedia.org/wiki/File:Professor_Dumbledore_and_The_Owl_Podium_(7119146507).jpg),
-  [foto 2](https://commons.wikimedia.org/wiki/File:Professor_Dumbledore_and_The_Owl_Podium_(7119147107).jpg).
-  Son de Rob Young, 27 de abril de 2012. Licencia libre; el tipo exacto, sin
-  verificar ⚠️.
+  [foto 1](https://upload.wikimedia.org/wikipedia/commons/2/21/Professor_Dumbledore_and_The_Owl_Podium_%287119146507%29.jpg) (1978×2976, vertical),
+  [foto 2](https://upload.wikimedia.org/wikipedia/commons/1/1f/Professor_Dumbledore_and_The_Owl_Podium_%287119147107%29.jpg) (2920×1951).
+  **CC BY 2.0**, Rob Young, 27-abr-2012.
 - Gran Comedor:
-  [05](https://commons.wikimedia.org/wiki/File:Hogwart%E2%80%98s_Great_Hall,_Warner_Bros_Harry_Potter_Studio,_London_05.jpg),
-  [07](https://commons.wikimedia.org/wiki/File:Hogwart%E2%80%98s_Great_Hall,_Warner_Bros_Harry_Potter_Studio,_London_07.jpg),
-  y [su categoría](https://commons.wikimedia.org/wiki/Category:Warner_Bros._Studio_Tour_London_(great_hall)).
-  El buscador dice CC BY-SA 4.0.
-- [Sala común de Gryffindor](https://commons.wikimedia.org/wiki/File:Gryffindor_Common_Room_at_Warner_Bros._Studio_Tour_London.jpg).
+  [05](https://upload.wikimedia.org/wikipedia/commons/b/b1/Hogwart%E2%80%98s_Great_Hall%2C_Warner_Bros_Harry_Potter_Studio%2C_London_05.jpg),
+  [07](https://upload.wikimedia.org/wikipedia/commons/1/17/Hogwart%E2%80%98s_Great_Hall%2C_Warner_Bros_Harry_Potter_Studio%2C_London_07.jpg)
+  (4608×3456 cada una), y [su categoría](https://commons.wikimedia.org/wiki/Category:Warner_Bros._Studio_Tour_London_(great_hall)).
+  **CC BY-SA 4.0**, Ank Kumar, 3-mar-2013.
+- [Sala común de Gryffindor](https://upload.wikimedia.org/wikipedia/commons/7/7f/Gryffindor_Common_Room_at_Warner_Bros._Studio_Tour_London.jpg)
+  (4320×3240). **CC BY 2.0**, Robert Clarke, 20-jul-2012.
+- [Maqueta de Hogwarts](https://upload.wikimedia.org/wikipedia/commons/4/4d/Studio_model_of_Hogwarts_at_Leavesden_Studios.jpg)
+  (6000×4000). **CC BY-SA 4.0**, CapStudio (Clementp.fr), 11-dic-2020.
+- Crédito: «Foto: <autor>, Wikimedia Commons, <licencia>». Son fotos del
+  decorado: el diseño sigue siendo de Warner.
 
 ### 2.3 Arte de los videojuegos
 - **Magic Awakened** (NetEase): estilo de **libro ilustrado antiguo**. Hay
@@ -107,25 +330,36 @@ Portadas de El Profeta que venden como láminas (sólo referencia):
   [el libro de arte](https://www.harrypotter.com/news/exploring-the-art-and-making-of-hogwarts-legacy) ·
   [arte conceptual en Game Rant](https://gamerant.com/hogwarts-legacy-concept-art-developer-interview/).
 
-### 2.4 La wiki de Fandom, para cuando haya red
-Comando para la PC:
+### 2.4 La wiki de Fandom (hecho en la segunda pasada)
+Comandos que corrí (las hojas numeradas quedan en `herramientas/referencias/`,
+que git ignora):
 
 ```
-python herramientas/investigar_serie.py --serie "Harry Potter" --wiki harrypotter \
+python3 herramientas/investigar_serie.py --serie "Harry Potter" --wiki harrypotter \
   --paginas "Hermione Granger" "Luna Lovegood" "Dobby" "Albus Dumbledore" \
-  "Harry Potter" "Ronald Weasley" "Daily Prophet" "Owl Lecturn" \
-  "Gryffindor Notice Board" "Great Hall" \
-  --canal "#anuncios: novedades oficiales del servidor, solo staff"
+  "Harry Potter" "Ronald Weasley" "Severus Snape" "Minerva McGonagall"
+python3 herramientas/investigar_serie.py --serie "Harry Potter objetos" --wiki harrypotter \
+  --paginas "Daily Prophet" "Owl Lecturn" "Gryffindor Notice Board" "Great Hall" \
+  "The Quibbler" "Educational Decree" "Howler" "Marauder's Map" \
+  "Gryffindor Common Room" "Hogwarts acceptance letter" "Spectrespecs" "Sock"
 ```
 
-Las páginas [Owl Lecturn](https://harrypotter.fandom.com/wiki/Owl_Lecturn)
-y [Gryffindor Notice Board](https://harrypotter.fandom.com/wiki/Gryffindor_Notice_Board)
-existen: salieron en la búsqueda.
+Lo que dice el texto de la wiki y sirve:
+- [Owl Lecturn](https://harrypotter.fandom.com/wiki/Owl_Lecturn): **primera
+  aparición, la película 3**. En los libros Dumbledore sólo se pone de pie. Lo
+  usan también Umbridge (P5), Rita Skeeter y McGonagall en *Hogwarts Mystery*.
+  Hay arte conceptual de P8 con **Snape director en el atril** ✅ (wiki + clip).
+- [Gryffindor Notice Board](https://harrypotter.fandom.com/wiki/Gryffindor_Notice_Board):
+  objetos perdidos, cromos, pruebas de quidditch, salidas a Hogsmeade,
+  orientación profesional, clases de Aparición, los decretos de Umbridge y
+  **«cada día se clavaban ahí el último Profeta y El Quisquilloso»** ⚠️ (la
+  wiki no dice de qué fuente sale esa frase). Sale en las películas 1-6 como
+  decorado, en los juegos y en Pottermore.
 
-### 2.5 Lo que falta ⚠️
-No llegué a buscar portadas de los libros, las ediciones ilustradas de Jim Kay
-ni carteles de cine en alta. La cuota se acabó antes. Es lo primero que hay
-que bajar cuando haya red.
+### 2.5 Lo que sigue faltando ⚠️
+Portadas de los libros (Salamandra, Scholastic), ilustraciones de Jim Kay y
+carteles de cine en alta: no los bajé; la wiki trae pocos y en baja. Es lo
+siguiente si hace falta más arte de personaje.
 
 ---
 
@@ -135,8 +369,12 @@ que bajar cuando haya red.
 [este repositorio público de GitHub](https://github.com/sydney-machine-learning/sentimentanalysis-Hollywood).
 Ejemplo: [película 1](https://raw.githubusercontent.com/sydney-machine-learning/sentimentanalysis-Hollywood/main/Year/2001/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone.srt).
 Es el momento en que se dice la frase. Con la versión extendida o la de la
-tele puede moverse uno o dos minutos. **El fotograma hay que sacarlo del
-Blu-ray**: yo no pude ver las películas.
+tele puede moverse uno o dos minutos.
+
+**Lo que vi (2.ª pasada):** 5 escenas, el comienzo y el final, en los clips
+del canal oficial «Harry Potter» de YouTube, por sus *storyboards* (§12).
+Donde hay clip, va el enlace `&t=` al segundo exacto (±2 s). El fotograma
+grande para recortar sale del Blu-ray o de las capturas de la wiki (§2.0).
 
 Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 **P3** El prisionero de Azkaban · **P4** El cáliz de fuego ·
@@ -145,22 +383,31 @@ Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 
 ### Las que sirven para #anuncios
 
-| Peli | Minuto | Qué pasa | Para qué |
+| Peli | Minuto | Qué pasa (lo visto o lo dicho) | Para qué |
 |---|---|---|---|
-| P1 | 00:42:20 | Dumbledore: «I have a few start-of-term notices I wish to announce». Prohíbe el Bosque Oscuro y el pasillo del tercer piso. | **Es un anuncio oficial en el mundo de la serie.** Concepto B. |
+| P1 | 00:03:08 a 00:03:37 | Dumbledore deja **una carta** sobre el bebé en la puerta de Privet Drive. Sobre de pergamino, tinta verde: «Mr. and Mrs. Dursley, 4 Privet Drive…». Después, el título dorado sobre nubes ([clip oficial 3:08](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=188), [3:23](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=203), [3:37](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=217)) ✅ visto | El primer «aviso» de la saga es una carta. |
+| P1 | 00:42:20 a 00:42:50 | Dumbledore, **de pie en la mesa de profesores, entre velas** (F·1): «I have a few start-of-term notices…». Prohíbe el Bosque Oscuro y el pasillo del tercer piso «a quien no desee sufrir una muerte muy dolorosa». En P1 **no hay atril del búho** ✅ (F·1 + wiki). Subtítulo oficial de HBO Max: «Los de primer año deben saber que el bosque oscuro está estrictamente prohibido» ([tráiler 1:12](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=72)) | **Un anuncio oficial en el mundo de la serie.** Concepto B. |
 | P1 | 00:53:45 | «Mail's here»: entran las lechuzas al desayuno. | El correo cae en la mesa. Concepto A. |
-| P1 | 00:54:38 | Alguien lee El Profeta en voz alta: el robo en Gringotts, cámara 713. Parece Harry ⚠️. | **El Profeta sobre la mesa del Gran Comedor.** Concepto A. |
-| P1 | 00:10:40 a 00:12:00 | Tío Vernon celebra que el domingo no hay correo. Luego entra la lluvia de cartas por la chimenea. | Las novedades llegan sí o sí. |
+| P1 | 00:54:38 a 00:54:57 | Leen El Profeta en voz alta: robo en Gringotts, cámara 713. Responde Harry: «That's the vault Hagrid and I went to». Quién lee, no lo vi (no hay clip oficial) ⚠️. La portada de ese número: O·2. | **El Profeta sobre la mesa del Gran Comedor.** Concepto A. |
+| P1 | 00:09:50 a 00:12:00 | «No more mail through this letterbox»; luego la lluvia de cartas por la chimenea (F·22). | Las novedades llegan sí o sí. |
 | P1 | 02:19:16 | Dumbledore da los últimos puntos: 50 para Hermione. | Celebrar. |
-| P2 | 00:34:11 a 00:34:56 | Llega el vociferador de Ron en el desayuno. | Otro «cuadro» que habla. |
+| P2 | 00:34:11 a 00:34:56 | El vociferador en el desayuno: **se abre el sobre rojo** ([clip 0:17](https://www.youtube.com/watch?v=fBziSx7RtqY&t=17)), **se levanta de la mesa y es una boca con dientes de papel** ([0:25](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25)), grita a Ron a la cara ([0:39](https://www.youtube.com/watch?v=fBziSx7RtqY&t=39)) y **se rompe en confeti** sobre libros abiertos ([0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=57)) ✅ visto | Otro «cuadro» que habla. |
 | P3 | 00:10:36 | En el autobús noctámbulo, la foto de Sirius Black se mueve en El Profeta. | **La foto que se mueve.** |
+| P3 | 00:23:44 a 00:25:45 | **El atril del búho, por primera vez.** Dumbledore **abre los brazos** tras las alas doradas: «Welcome! Welcome to another year at Hogwarts» ([clip 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43)); presenta a Lupin ([1:05](https://www.youtube.com/watch?v=dvFehFzph7I&t=65)); **alza los dos índices**: «happiness can be found… if one only remembers to turn on the light» ([2:42](https://www.youtube.com/watch?v=dvFehFzph7I&t=162)) y **apaga una vela con los dedos** ([2:48](https://www.youtube.com/watch?v=dvFehFzph7I&t=168)) ✅ visto | **El discurso desde el atril.** Concepto B. |
 | P3 | 00:57:24 y 00:58:15 | «I solemnly swear…» y «Mischief managed» con el Mapa. | El pergamino que se escribe solo. |
-| P4 | 00:16:31 | Dumbledore: «I'd like to make an announcement». Anuncia el Torneo de los Tres Magos a las 00:17:02. | **Otro anuncio desde el atril.** Concepto B. |
+| P3 | créditos | Cada nombre va en **una cinta de pergamino dibujada a tinta**, con huellas que caminan (copia de fan, no oficial: [0:11](https://www.youtube.com/watch?v=MJzymmFvtlk&t=11)) ✅ visto | Un cuadro de texto que es de la serie. |
+| P4 | 00:16:31 a 00:17:02 | Dumbledore: «I'd like to make an announcement». Anuncia el Torneo. | **Otro anuncio desde el atril** (la wiki lo lista en P4). |
 | P4 | 00:20:04 | «Eternal glory». | Presentar con énfasis. |
+| P4 | 01:06:47 a 01:07:20 | **McGonagall anuncia el baile de Navidad** a los de Gryffindor. En latino: «La víspera de Navidad, junto con nuestros invitados, nos reunimos en el gran salón para una noche de recatada frivolidad» (§10.3) ✅ | Un aviso del staff, con humor. |
+| P5 | 00:29:41 a 00:30:06 | Luna en el carruaje: lee **El Quisquilloso tapándose la cara** ([clip 0:59](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=59)) y **mira a Harry por encima** ([1:09](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=69)) ✅ visto | Luna y su revista. |
 | P5 | 00:50:13 | Umbridge cita el «Decreto de Educación n.º 23». | Los decretos clavados. |
-| P6 | 00:22:36 a 00:22:57 | Luna ofrece El Quisquilloso y explica los *wrackspurts*. Creo que es en el tren ⚠️. | Luna repartiendo prensa. |
+| P5 | 00:54:01 | Hermione abre la primera reunión del ED. En latino: «**Ya saben a qué vinieron**» (§10.3) ✅ | Explicar a un grupo. |
+| P6 | 00:22:36 a 00:22:57 | Luna reparte El Quisquilloso («Quibbler… Quibbler…») y explica los *wrackspurts*. Justo después hablan del armario de Draco en el compartimento: casi seguro **en el tren** (lo deduzco del diálogo; no hay clip). | Luna repartiendo prensa. |
 | P7 | 00:32:51 | Xenophilius Lovegood: El Quisquilloso frente a El Profeta. | Prensa libre contra prensa oficial. |
-| P8 | 00:35:09 | Snape, ya director, reúne al colegio en el Gran Comedor para un aviso. | Aviso del «staff», en tono oscuro. |
+| P7 | 02:08:59 a 02:09:18 | Dobby: «Dobby has no master. Dobby is a free elf». En latino: «**Dobby no tiene amo. Dobby es un elfo libre**» (§10.3) ✅ | Una proclama. |
+| P8 | 00:35:09 a 00:36:33 | Snape, director, reúne al colegio. En latino: «Si cualquiera, estudiante o maestro, pretendiera ayudar al señor Potter, será castigado…» (§10.3) ✅ | Aviso del «staff», en tono oscuro: **qué NO**. |
+| P8 | 01:34:46 a 01:35:18 | King's Cross blanco. Dumbledore: «Help will always be given at Hogwarts…» y «Words are, in my not so humble opinion…». En latino: «**Siempre se ayudará en Hogwarts, Harry, a quienes lo pidan**» (§10.3) ✅ | La frase amable para el pie de la lámina. |
+| P8 | final | «19 años después»: andén 9¾, el expreso rojo con vapor ([clip 0:51](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=51)), jaulas de lechuza en los carritos ([0:15](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=15)) ✅ visto | Cierre, despedida. |
 
 ---
 
@@ -168,27 +415,37 @@ Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 
 ### Modelos 3D descargables
 
-| Modelo | Autor | Licencia | Para qué |
-|---|---|---|---|
-| [Gran Comedor](https://sketchfab.com/3d-models/the-great-hall-in-hogwarts-harry-potter-aa65c92e370f464ba81080cae44ab71f) | s23383 | CC BY | fondo A y B |
-| [Gran Comedor 2](https://sketchfab.com/3d-models/hogwarts-grand-hall-203784d1e8704cfba3af8a2b224b74ff) | zack_graham | CC BY | alternativa |
-| [Gran Comedor con velas animadas](https://sketchfab.com/3d-models/harry-potter-hogwarts-great-hall-animated-bde62298ac8640588d5a2928b8e113dc) | JER3D | sin verificar ⚠️ | ver velas |
-| [Búho con 9 animaciones, vuela](https://sketchfab.com/3d-models/owl-d177e1fbcce940cba32e434cc5a62f1a) | po (@pothedev) | CC BY | lechuza del correo |
-| [Lechuza low poly](https://sketchfab.com/3d-models/eggbert-low-poly-barn-owl-d96c7d6d405b4b71aeac3f62757ebeac) | LachieRobertson | CC BY | lechuza de fondo |
-| [Pergamino](https://sketchfab.com/3d-models/parchment-paper-10e53ca757a2482d8fe1bc94e9043826) | Claire Combs | CC BY | hoja del atril |
-| [Pluma](https://sketchfab.com/3d-models/quill-67771bc3f8024e6faea9af9f6f7d6bfb) | FlukierJupiter | CC BY | primer plano |
-| [Pluma en tintero](https://sketchfab.com/3d-models/quill-in-inkwell-7968ef86540d431ebba1e8597e4122b0) | Valo Niskanen | CC BY-NC | sólo si no es comercial |
-| [Tablón de corcho](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | gratis, tipo sin verificar ⚠️ | concepto C |
-| [Varita de Saúco](https://sketchfab.com/3d-models/the-elder-wand-efc7362a857749b3ae55fcbbba8baafb) | James Allison | CC BY | varita de Dumbledore |
-| [Carta de Hogwarts con lechuza](https://sketchfab.com/3d-models/harry-potter-acceptance-letter-d96d1f11fc4c4a9180718ae604e71cf9) | antonia_s | no dice «descarga gratis» | sólo mirar |
-| [Vociferador](https://sketchfab.com/3d-models/howler-card-4331889cf315488e8cd49cf2e0a94a48) | luismi93 | de pago | sólo mirar |
+Licencias y autores **comprobados con la API de Sketchfab** (24-sep-2026) ✅.
+
+| Modelo | Autor | Licencia (API) | Caras | Para qué |
+|---|---|---|---|---|
+| [Gran Comedor](https://sketchfab.com/3d-models/the-great-hall-in-hogwarts-harry-potter-aa65c92e370f464ba81080cae44ab71f) | s23383 | CC BY | 98 046 | fondo A y B |
+| [Gran Comedor 2](https://sketchfab.com/3d-models/hogwarts-grand-hall-203784d1e8704cfba3af8a2b224b74ff) | zack_graham | CC BY | 25 913 | alternativa |
+| ~~Gran Comedor con velas animadas~~ (JER3D) | — | **ya no existe** (404) | — | — |
+| [**Periódico doblado**](https://sketchfab.com/3d-models/4fc14ea5129b4ea3b34a22844a6f1b3f) | abdillaamy | CC BY | 1 162 | **base de El Profeta doblado** (concepto A): poner la portada como textura |
+| [Periódico](https://sketchfab.com/3d-models/84683791c7e74992b8f2baeb52595de6) | JeremyGrayson | CC BY | 11 674 | periódico abierto |
+| [Búho con 9 animaciones, vuela](https://sketchfab.com/3d-models/owl-d177e1fbcce940cba32e434cc5a62f1a) | po (@pothedev) | CC BY | 15 428 | lechuza del correo |
+| [Lechuza low poly](https://sketchfab.com/3d-models/eggbert-low-poly-barn-owl-d96c7d6d405b4b71aeac3f62757ebeac) | LachieRobertson | CC BY | 3 716 | lechuza de fondo |
+| [Búho dorado](https://sketchfab.com/3d-models/621580dcef944845b59f6dee69b5b8b2) | vjgsiongd | CC BY | 785 902 | punto de partida para **el atril del búho** (abrirle las alas) |
+| [Pergamino](https://sketchfab.com/3d-models/parchment-paper-10e53ca757a2482d8fe1bc94e9043826) | Claire Combs | CC BY | 27 648 | hoja del atril |
+| [Pluma](https://sketchfab.com/3d-models/quill-67771bc3f8024e6faea9af9f6f7d6bfb) | FlukierJupiter | CC BY | 400 | primer plano |
+| [Pluma en tintero](https://sketchfab.com/3d-models/quill-in-inkwell-7968ef86540d431ebba1e8597e4122b0) | Valo Niskanen | CC BY-NC | 1 282 | sólo si no es comercial |
+| [Velas](https://sketchfab.com/3d-models/92bb9f59fd9046b1beb9dca6b21489e2) | thegraphicsgeek | CC BY | 22 564 | velas flotantes |
+| [Tablón de corcho](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | **CC BY** (antes ⚠️) | 41 684 | concepto C (cambiar corcho por fieltro rojo) |
+| [Tablón medieval](https://sketchfab.com/3d-models/566a4332b57d4045a1cc4ffec77b4b8f) | avelium | CC BY | 2 472 | marco de madera para el tablón |
+| [Sello de lacre](https://sketchfab.com/3d-models/bd18fd7b6c1847bc8e7d9e779c122ed5) | plaggy | CC BY | 332 | lacre del aviso oficial |
+| [Varita de Saúco](https://sketchfab.com/3d-models/the-elder-wand-efc7362a857749b3ae55fcbbba8baafb) | James Allison | CC BY | 1 664 | varita de Dumbledore |
+| [Carta de Hogwarts con lechuza](https://sketchfab.com/3d-models/harry-potter-acceptance-letter-d96d1f11fc4c4a9180718ae604e71cf9) | antonia_s | sin licencia, no descargable | 29 000 | sólo mirar |
+| [Vociferador](https://sketchfab.com/3d-models/howler-card-4331889cf315488e8cd49cf2e0a94a48) | luismi93 | «Editorial», no descargable | 184 096 | sólo mirar |
 
 Crédito exacto para las CC BY: «Modelo "<nombre>" de <autor>, Sketchfab,
-CC BY». La licencia la dio el buscador; **ábrela en la ficha antes de usar**.
+CC BY».
 
-**No encontré** un modelo 3D de El Profeta. Hay periódicos genéricos
-gratis en [Sketchfab](https://sketchfab.com/tags/newspaper). Mejor hacerlo
-en Blender: un plano con simulación de tela y el diseño como textura.
+**No encontré** un modelo de El Profeta ni del atril del búho con licencia
+libre (búsquedas en la API: «daily prophet» sin resultados; «owl lectern»,
+sólo atriles genéricos). Solución: el periódico doblado de abdillaamy con la
+portada como textura, y el atril a partir del búho dorado y las fotos CC BY
+del Studio Tour (§2.2).
 
 ### Fan art y renders (mirar, nunca pegar)
 - [Castillo gótico con luz de Hogwarts Legacy](https://www.artstation.com/artwork/XJ98vY), de Jesús Arroyo Jiménez: luz cálida en piedra.
@@ -203,27 +460,43 @@ en Blender: un plano con simulación de tela y el diseño como textura.
 
 ## 5 · Sitios, luz, paleta y texturas
 
-> Los hex son **aproximados, a ojo**. No pude bajar imágenes para medirlos.
-> Hay que muestrearlos en el fotograma antes de pintar.
+> **Hex medidos con Pillow** (2.ª pasada) en fotogramas de los clips oficiales
+> (*storyboards*, JPEG pequeño: ±10 por canal) y en arte oficial grande. Se
+> dice de dónde sale cada uno. Los de la 1.ª pasada, a ojo, quedan tachados.
 
 ### El Gran Comedor (conceptos A y B)
 - Mesas larguísimas de madera oscura, una por casa. Estandartes de las casas.
 - **Velas flotando** y techo encantado que copia el cielo.
 - En el Studio Tour se exponen el atril y el **contador de puntos de las
   casas** ([London Tickets](https://www.london-tickets.co.uk/warner-bros-studio-tour-london/great-hall/)).
-- Luz: vela, cálida, desde arriba. Techo de noche azul.
-- Paleta ⚠️: piedra `#6B5E50` · madera `#4A2F1D` · llama `#FFB347` ·
-  cielo de noche `#1C2541` · oro del atril `#C9A43B`.
+- Luz (vista en el [clip de P3](https://www.youtube.com/watch?v=dvFehFzph7I&t=13)):
+  **cientos de velas flotando** forman un techo de luz amarilla; los
+  ventanales góticos del fondo dan un azul gris frío. De noche, la única luz
+  es la de las velas: caras cálidas, fondo en sombra.
+- Paleta medida:
+  - luz de velas `#BFAE7C` y su penumbra `#6D5730` (clip P3, 0:47);
+  - ventanales, luz fría `#989D92` y piedra `#3C382D` (clip P3, 0:59);
+  - mesa y bandejas `#554832` / `#948F76` (clip P3, 1:09).
+  - ~~piedra `#6B5E50` · madera `#4A2F1D` · llama `#FFB347` · cielo `#1C2541` · oro `#C9A43B`~~ (a ojo, 1.ª pasada).
+- De mañana (desayuno, concepto A): mismas mesas, luz blanca de los
+  ventanales (F·13) y en el [clip del vociferador](https://www.youtube.com/watch?v=fBziSx7RtqY&t=2)
+  la mesa lleva **libros abiertos, bandejas y migas doradas**.
 
 ### El atril del búho (concepto B)
-- Búho dorado con las alas abiertas. Dumbledore habla desde ahí.
+- Búho dorado **con las alas abiertas en horizontal**, sobre un pie
+  retorcido; las velas del candelabro quedan detrás de las alas (F·2,
+  [clip P3 0:57](https://www.youtube.com/watch?v=dvFehFzph7I&t=57)).
+  **Sale desde P3**; en P1 y P2 no existe (§2.4).
+- Oro medido en F·2 (1834×799): luz `#B4956C`, medio `#664B2F`, sombra
+  `#3B2410`. En el clip de P3: brillo `#98885F`, medio `#42351A`.
 - Está cubierto de **pan de oro de verdad** y de **años de cera derretida**
   ([London Tickets](https://www.london-tickets.co.uk/warner-bros-studio-tour-london/great-hall/),
   [Potterhead Posts en X](https://twitter.com/PotterheadPosts/status/1317918385825566720)) ✅.
 - Fotos para modelarlo: sección 2.2.
 
 ### La sala común de Gryffindor (concepto C)
-- Tapices rojos, chimenea, butacas gastadas.
+- Tapices rojos de flores y árboles (*millefleurs*), chimenea, butacas
+  gastadas (O·21, F·17, F·18).
 - Tiene un **tablón de anuncios**. En los libros se clavan ahí: libros de
   segunda mano, las normas de Filch, los entrenamientos de quidditch, cromos
   de ranas de chocolate, los anuncios de los gemelos Weasley, las salidas a
@@ -231,8 +504,11 @@ en Blender: un plano con simulación de tela y el diseño como textura.
   Aparición **es tan grande que lo tapa todo**
   ([Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Gryffindor_Notice_Board),
   [HP Lexicon](https://www.hp-lexicon.org/thing/notice-board/)) ✅.
-- Paleta ⚠️: rojo tapiz `#7A1F1F` · dorado `#C8A04A` · fuego `#E0782F` ·
-  corcho `#B8895A` · pergamino `#E9DFC7`.
+- **El tablón oficial (Pottermore, O·21) es de fieltro rojo oscuro, no de
+  corcho**, con marco de madera tallada casi negra.
+- Paleta medida en O·21 (1100×1100): fieltro `#51201D`, marco `#1D120C` /
+  `#32231B`, tapiz `#4A211C`, papel de las notas `#D7D2CB`.
+  ~~rojo tapiz `#7A1F1F` · dorado `#C8A04A` · fuego `#E0782F` · corcho `#B8895A` · pergamino `#E9DFC7`~~ (a ojo).
 
 ### Otros sitios
 - **Privet Drive**: la lluvia de cartas (P1 00:11:31). Salón suburbano, luz de día.
@@ -241,15 +517,18 @@ en Blender: un plano con simulación de tela y el diseño como textura.
 
 ### Texturas reales equivalentes
 
-| Material | Textura | Licencia |
-|---|---|---|
-| Mesa del comedor | [Wood Table Worn](https://polyhaven.com/a/wood_table_worn), [Wooden Table 01](https://polyhaven.com/a/WoodenTable_01) | CC0 |
-| Muro | [Castle Wall Slates](https://polyhaven.com/a/castle_wall_slates), [Stone Block Wall](https://polyhaven.com/a/stone_block_wall) | CC0 |
-| Luz de salón viejo | HDRI [Old Hall](https://polyhaven.com/a/old_hall), [Entrance Hall](https://polyhaven.com/a/entrance_hall) | CC0 |
-| Papel | [Paper001](https://ambientcg.com/view?id=Paper001), [Paper005](https://ambientcg.com/view?id=Paper005) | CC0 |
-| Periódico viejo | [Texturelabs paper_290](https://texturelabs.org/textures/paper_290/) | gratis, condiciones sin verificar ⚠️ |
-| Corcho | [Cork001](https://ambientcg.com/view?id=Cork001) | CC0 |
-| Cartón del marco | [Cardboard004](https://ambientcg.com/view?id=Cardboard004) | CC0 |
+Comprobadas por la API de Poly Haven y ambientCG (autor y tamaño máximo) ✅.
+
+| Material | Textura | Autor · tamaño | Licencia |
+|---|---|---|---|
+| Mesa del comedor | [Wood Table Worn](https://polyhaven.com/a/wood_table_worn), [Wooden Table 01](https://polyhaven.com/a/WoodenTable_01) (modelo 3D) | Dimitrios Savva y Rico Cilliers · 8K; Ethan Place · 4K | CC0 |
+| Muro | [Castle Wall Slates](https://polyhaven.com/a/castle_wall_slates), [Stone Block Wall](https://polyhaven.com/a/stone_block_wall) | Rob Tuytel · 8K; Amal Kumar · 16K | CC0 |
+| Luz de salón viejo | HDRI [Old Hall](https://polyhaven.com/a/old_hall), [Entrance Hall](https://polyhaven.com/a/entrance_hall) | Sergej Majboroda · 16K | CC0 |
+| Papel | [Paper001](https://ambientcg.com/view?id=Paper001), [Paper005](https://ambientcg.com/view?id=Paper005) | ambientCG | CC0 |
+| Periódico viejo | [Texturelabs paper_290](https://texturelabs.org/textures/paper_290/) | Texturelabs | gratis; la página responde, las condiciones no las pude leer ⚠️ |
+| Corcho | [Cork001](https://ambientcg.com/view?id=Cork001) | ambientCG | CC0 |
+| Fieltro rojo del tablón | no busqué una textura de fieltro: teñir [Paper005](https://ambientcg.com/view?id=Paper005) o una tela a `#51201D` | — | — |
+| Cartón del marco | [Cardboard004](https://ambientcg.com/view?id=Cardboard004) | ambientCG | CC0 |
 
 MinaLima **prefiere escanear papeles antiguos reales** a usar vectores limpios
 ([HP Fan Zone](https://www.harrypotterfanzone.com/exclusive-meet-minalima-part-1/)).
@@ -262,9 +541,26 @@ a propósito**, para que no parecieran cortados a máquina
 ## 6 · Tipografía
 
 ### 6.1 Lo que usa la franquicia
-- **El Profeta, primera época**: letra caprichosa con iniciales decoradas
-  medievales. Desde P5 la cabecera se rehace con el **constructivismo ruso
-  de los años veinte**
+- **El logo de las películas** (visto en el [comienzo de P1, 3:37](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=217)):
+  «Harry Potter» en letras doradas biseladas, la P y la y con rabos largos y
+  el rayo; debajo, en versalitas con serifa pequeñas, «AND THE PHILOSOPHER'S
+  STONE», sobre nubes de noche. En el [tráiler de HBO Max Latinoamérica, 2:05](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=125)
+  el mismo logo dice «**Harry Potter y la piedra filosofal**»: el título
+  latino oficial ✅. Oro medido en el comienzo: `#B19F72` sobre `#3A3331`.
+- **Las cartelas de los tráileres** en español (P8, [WB Pictures Latinoamérica, 0:09](https://www.youtube.com/watch?v=-kDonIIXuqo&t=9)):
+  «CADA MOMENTO DE SU VIDA», «ESTE AÑO», «SE ACABA». Mayúsculas romanas con
+  serifa, grabadas en metal, entre humo gris. Tono oscuro: **no** para
+  #anuncios.
+- **Los créditos de P3**: cada nombre en **una cinta de pergamino dibujada**,
+  a pluma, con huellas del Mapa que caminan alrededor ([copia de fan, 0:11](https://www.youtube.com/watch?v=MJzymmFvtlk&t=11)).
+  Pergamino medido `#8A7246` / `#937E50`.
+- **El Profeta, primera época** (P1-P4; O·1, O·2, O·9): cabecera «The Daily
+  Prophet» en **gótica adornada** dentro de un marco; titulares en **gótica
+  (fraktur)**, «Break-in at Gringotts»; capitulares enormes; texto que gira
+  en espiral. Por eso **UnifrakturMaguntia** encaja ✅ (visto en O·2).
+- **Desde P5** la cabecera se rehace con el **constructivismo ruso de los
+  años veinte**: «DAILY PROPHET» de palo grueso con la P dorada (visto en la
+  recopilación de MinaLima, §2.1)
   ([HP Fan Zone](https://www.harrypotterfanzone.com/exclusive-meet-minalima-part-1/),
   [House of MinaLima](https://www.itsnicethat.com/news/house-of-minalima-harry-potter-graphic-art-030616)) ✅.
 - Para la cabecera de El Profeta los fans señalan **P22 Operina Fiore**, y
@@ -307,8 +603,8 @@ e [IM Fell English](https://raw.githubusercontent.com/google/fonts/main/ofl/imfe
 | Letra | Qué es | Licencia | ¿Tildes? |
 |---|---|---|---|
 | **Harry P** ([dafont](https://www.dafont.com/harry-p.font)) | imita el logo | «100 % gratis», dice el autor | **No.** Comprobé el archivo: 95 glifos. Le faltan á é í ó ú ñ ¿ ü. Sí trae ¡. Sirve para «ANUNCIOS», no para «Aquí». |
-| **Parry Hotter** ([1001 Fonts](https://www.1001fonts.com/parry-hotter-font.html)) | parodia del logo | uso personal | sin comprobar ⚠️ |
-| **Lumos** ([Social Fonts](https://social-fonts.com/harry-potter/lumos/)) | títulos de capítulo de los libros de EE. UU. | personal y comercial, dice la web | sin comprobar ⚠️ |
+| **Parry Hotter** ([1001 Fonts](https://www.1001fonts.com/parry-hotter-font.html)), de Anke Arnold | parodia del logo | el «léeme» pide un enlace a su web o un donativo | **No.** Comprobado en la 2.ª pasada: 101 glifos; le faltan **todas** las tildes, ñ, ¿ y ¡. |
+| **Lumos** ([Social Fonts](https://social-fonts.com/harry-potter/lumos/)) | títulos de capítulo de los libros de EE. UU. | personal y comercial, dice la web | **No.** Comprobado: 91 glifos; le faltan tildes, ñ, ¿, ¡ y ü. |
 | **MuggleNews** | texto tipo El Profeta, de fans | desconocida | sí, comprobado en el archivo del [proyecto dailyprophet](https://github.com/gstrenge/dailyprophet) |
 | **BlackCastleMF** | cabecera gótica de ese proyecto | «All rights reserved», 1995 | sí, comprobado |
 | **Headline Two HPLHS** | titulares de periódico antiguo | de la HPLHS | **no trae ¿ ni ¡** |
@@ -341,16 +637,23 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
      ([Steps to Magic](https://stepstomagic.com/house-of-minalima-london-fun-facts/)) ⚠️ una fuente.
    - **En la lámina**: el titular dice el canal; la foto es un fotograma
      real; las columnas llevan los textos.
-2. **El discurso desde el atril del búho**: Dumbledore da los avisos de
-   inicio de curso (P1 00:42:20) y anuncia el Torneo (P4 00:16:31). En la
-   lámina, un **pergamino sobre el atril** con los avisos.
-3. **El tablón de anuncios** de Gryffindor, sólo en los libros (sección 5).
-   Avisos en pergamino clavados con chinchetas.
+2. **El discurso desde el atril del búho**: desde P3 (clip oficial, §3) y en
+   P4, P5 y P6. En P1 Dumbledore da los avisos de pie en la mesa (00:42:20,
+   F·1). En la lámina, un **pergamino sobre el atril** con los avisos.
+3. **El tablón de anuncios** de Gryffindor: en los libros, en los juegos,
+   en Pottermore (O·21) y de fondo en las películas 1-6 (según la wiki).
+   **Fieltro rojo oscuro con marco tallado**; notas en papel crema, con letra
+   de alumno a mano («LOST: a purple Care of Magical Creatures textbook»,
+   «Potion Rules», «Top Ten Spells»). La wiki dice que ahí se clavaban cada
+   día El Profeta y El Quisquilloso ⚠️.
 4. **Los decretos de Educación**: marcos en la pared, letra rígida.
    Más de cien en P5 ([MinaLima](https://minalima.com/ministry-of-magic-collection/),
    [Shmoop](https://www.shmoop.com/study-guides/harry-potter-order-of-the-phoenix-movie/educational-decrees-symbol.html)).
-5. **El vociferador**: sobre rojo que grita con la voz de quien lo manda
-   (P2 00:34:28). Ver la [guía del repositorio](../_ya_hechas/_Cuadros%20de%20dialogo%20por%20franquicia%20(23-sep-2026).md).
+5. **El vociferador**: sobre rojo `#B12E38` que grita con la voz de quien
+   lo manda (P2 00:34:28): se levanta, es **una boca de papel con dientes**
+   y acaba en confeti ([clip 0:25 y 0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25)).
+   En la lámina de MinaLima, la carta termina con **una posdata en tinta
+   dorada**, amable, para Ginny (§2.1). Ver la [guía del repositorio](../_ya_hechas/_Cuadros%20de%20dialogo%20por%20franquicia%20(23-sep-2026).md).
 6. **La carta de Hogwarts**: sobre de pergamino y lacre. La lluvia de cartas
    (P1 00:11:31).
 7. **El Mapa del Merodeador**: el pergamino responde e insulta; los nombres
@@ -359,6 +662,9 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
    espectrales** para ver *wrackspurts*
    ([Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Spectrespecs),
    [Wizarding World](https://www.harrypotter.com/fact-file/objects/the-quibbler)).
+9. **La cinta de pergamino de los créditos de P3**: cada nombre en una
+   filacteria dibujada a pluma, con huellas alrededor (§6.1). Es un marco de
+   texto del propio mundo, sin globo.
 
 ### 7.2 En los videojuegos
 - **Magic Awakened**: interfaz «de escena». Papel medieval, libros de
@@ -396,8 +702,9 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 ## 8 · Los personajes
 
 > Carácter y relaciones: de los libros y las películas. El lenguaje corporal
-> lo describo **de memoria** ⚠️: hay que comprobarlo en los fotogramas de la
-> sección 15.
+> de Hermione, Luna, Dobby y Dumbledore ya está **visto en los clips
+> oficiales** (2.ª pasada, §15). Las frases «En latino» son del doblaje, de
+> las muestras de audio de Doblaje Wiki (§10.3).
 
 ### Hermione Granger
 - **Qué es**: hija de muggles, la mejor alumna, de Gryffindor. Se lo ha
@@ -409,7 +716,18 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - **Cómo habla**: rápido, con datos, corrigiendo. Levanta la mano antes de
   que acaben la pregunta ⚠️. Explica con paciencia de profesora. Se enfada
   en seco: «Ron, you spoiled everything!» (P4 01:22:02).
-- **Cuerpo** ⚠️: espalda recta, libros abrazados, mano alzada, dedo que señala.
+- **Cuerpo** (visto en el [clip de Leviosa](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=4)):
+  **agarra el brazo de Ron** para frenarlo (0:04), explica con la cabeza
+  ladeada y las cejas altas (0:10-0:13), **cierra los ojos con la barbilla
+  alta**, orgullosa (0:17), hace el giro de varita con la muñeca (0:20) y
+  sonríe satisfecha cuando lo logra (0:34). En la promo de P3 (P·1), erguida,
+  una mano apoyada en el mueble. Libros abrazados: P·2.
+- **En latino** (Mitzy Corona en P1, Leyla Rangel desde P4): explica de
+  corrido, con datos: «Nicolás Flamel es el único que ha podido crear la
+  piedra filosofal… y produce el elixir de la vida» (P1). Abre la reunión del
+  ED: «**Ya saben a qué vinieron. Por un maestro, un maestro de verdad**»
+  (P5). Y regaña a Ron: «**tienes tanta sensibilidad como una piedra**» (P5;
+  en inglés era «a teaspoon», una cucharita).
 - **Para #anuncios**: perfecta para **explicar**. En P5 00:54:01 abre la
   primera reunión del Ejército de Dumbledore: «So you all know why we're here».
 
@@ -423,7 +741,17 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - **Cómo habla**: voz lenta y tranquila, dice cosas raras con total
   seriedad. «You're just as sane as I am» (P5 00:29:41). «Keeps away the
   Nargles» (P5 00:30:06).
-- **Cuerpo** ⚠️: mirada perdida, cabeza ladeada, pasos lentos.
+- **Cuerpo** (visto en el [clip del carruaje, P5](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=53)):
+  **lee El Quisquilloso levantado con las dos manos, tapándose la cara**
+  (0:53-1:07), asoma los ojos por encima y **mira a Harry sin parpadear, con
+  media sonrisa** (1:09-1:12). Luego la revista en el regazo (1:22). Mirada
+  soñadora, cabeza un poco ladeada. Gafas espectrales y revista: P·11.
+- **En latino** (Lu Leal, P5-P8): voz suave, frases cortas y raras dichas
+  con calma. «Hola, Harry. **Torposoplos. Tienes la cabeza llena**» (P6;
+  Whisper oyó «torposolos»: en los libros en español son «torposoplos» ⚠️).
+  «Fue como estar con un amigo» (P6). «Excepcionalmente ordinaria» (P6).
+  Y habla de la prensa: «**el Ministerio y El Profeta conspiran contra ti y
+  Dumbledore**» (P5).
 - **Momentos favoritos del fandom**:
   [Wizarding World: sus ocho momentos más locos](https://www.harrypotter.com/features/luna-lovegoods-eight-wackiest-moments).
 - **Para #anuncios**: **ofrece El Quisquilloso** (P6 00:22:36; creo que en el tren ⚠️).
@@ -437,9 +765,19 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - **Cómo habla**: **en tercera persona** siempre: «Dobby has come to…».
   Chillón, exagerado, muy cortés: «Dobby has heard of your greatness, sir»
   (P2 00:03:56).
-- **Cuerpo** ⚠️: orejas enormes, ojos redondos, reverencias hasta el suelo.
+- **Cuerpo** (visto en el [clip del calcetín, P2](https://www.youtube.com/watch?v=8DTb-lseCdQ&t=59)):
+  sostiene el diario con el calcetín dentro (0:59-1:03); **de pie, erguido,
+  con el calcetín** (1:34); **cabeza ladeada, ojos húmedos y sonrisa** al
+  despedirse (1:58-2:00). En el arte: **chasquea los dedos con la mano en
+  alto** (P·18), **brazos en jarra** (P·19). Orejas de murciélago, funda de
+  almohada.
+- **En latino** (Ismael Castro, P2 y P7): siempre en tercera persona.
+  «Harry Potter debió escuchar a Dobby.» «**A Dobby lo amenazan cinco veces
+  al día en casa**» (P2). «**Dobby no tiene amo. Dobby es un elfo libre, y
+  Dobby vino a salvar a Harry Potter y a sus amigos**» (P7).
 - **Frase de proclama**: «Dobby has no master. Dobby is a free elf»
-  (P7 02:09:15). Es literalmente un anuncio.
+  (P7 02:09:15); en latino, «Dobby es un elfo libre» ✅. Es literalmente un
+  anuncio.
 - **Cuidado**: su muerte (P7 02:10:48) es de las escenas más tristes de la
   saga ([Game Rant](https://gamerant.com/saddest-most-tragic-harry-potter-deaths-books-moviesdumbledore-sirius-dobby/)).
   No mezclar la lámina con eso.
@@ -453,30 +791,56 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   (P4 00:16:53; parece que lo dice él ⚠️).
 - **Dos actores**: Richard Harris en P1 y P2, Michael Gambon desde P3. En
   latino **la misma voz en las ocho**, César Arias (sección 10).
-- **Cuerpo** ⚠️: manos abiertas sobre el atril, brazos en alto al anunciar.
+- **Cuerpo** (visto en el [clip del discurso, P3](https://www.youtube.com/watch?v=dvFehFzph7I&t=43)):
+  **abre los brazos en alto** tras el atril (0:43-0:45), camina hacia las
+  mesas de espaldas (0:47-0:55), **alza los dos índices** para subrayar
+  (2:42-2:44) y **apaga una vela con los dedos** (2:48). En P1 (Harris),
+  de pie en la mesa entre velas, túnica burdeos con dibujo dorado (F·1, P·27).
+- **En latino** (César Arias): pausado, de abuelo sabio. «**Siempre se
+  ayudará en Hogwarts, Harry, a quienes lo pidan.** Las palabras son, en mi
+  no tan humilde opinión, nuestra fuente más inagotable de magia, capaces
+  tanto de ocasionar dolor como de remediarlo» (P8). «Tiempos difíciles y
+  oscuros nos aguardan. Pronto deberemos elegir entre lo que es correcto y lo
+  que es fácil» (P4). «Envíe una lechuza con esta orden de libertad a
+  Azkaban. Me parece que queremos que Hagrid vuelva» (P2).
 
 ### Harry Potter
 - **Qué es**: el protagonista, huérfano, famoso sin quererlo.
 - **Qué le importa**: sus amigos, la verdad sobre sus padres.
 - **Cómo habla**: poco, directo, a veces cortante. Cuando enseña se suelta:
   «Every great wizard in history has started out…» (P5 01:02:39).
+- **En latino** (Arturo Castañeda en P1, Claudio Velázquez en P2, Víctor
+  Ugarte desde P3): deduce en voz alta, rápido. «Está buscando algo que era
+  propiedad de Gregorovitch… **Me ponen los pelos de punta**» (P7).
 - **Para #anuncios**: el diario se lee en voz alta en el desayuno
-  (P1 00:54:38). Creo que lo lee Harry ⚠️.
+  (P1 00:54:38); Harry responde «That's the vault Hagrid and I went to».
+  Quién lee el titular, no lo pude ver ⚠️.
 
 ### Ron Weasley
 - **Qué es**: el mejor amigo, sexto hijo de una familia pobre y enorme.
 - **Qué le importa**: su familia, no quedar por debajo.
 - **Miedo**: las arañas. «Why spiders?» (P2 01:43:18).
 - **Cómo habla**: quejica, cómico. «Bloody hell» es su muletilla en inglés
-  (P8 00:33:45).
+  (P8 00:33:45). **En latino** (Luis Daniel Ramírez, P3-P8) sale como
+  «**Ay, diablos, ahí va**» (P8, muestra de Doblaje Wiki). En P1 (Carlos
+  Díaz) dirige el ajedrez: «Harry, tú eres el que tiene que continuar».
 - **Para #anuncios**: el que **recibe** el aviso a gritos: el vociferador
   (P2 00:34:28).
 
 ### Dos extra que conviene tener a mano
 - **Severus Snape**: el más votado en tres encuestas (sección 9). Como
-  director reúne al colegio para un aviso (P8 00:35:09). Tono oscuro.
+  director reúne al colegio para un aviso (P8 00:35:09). En latino
+  (Sebastián Llapur): «Si cualquiera, estudiante o maestro, pretendiera
+  ayudar al señor Potter, será castigado de una manera consistente con la
+  severidad de su infracción… **Lo invito a que pase al frente, ahora**».
+  Es un anuncio, pero de miedo: tono oscuro, **no** para #anuncios.
 - **Minerva McGonagall**: jefa de Gryffindor, la cara del staff. Puesto 9 en
-  la encuesta de Cinema Today. Sin buscar más, por la cuota ⚠️.
+  la encuesta de Cinema Today. **Es la otra voz de los avisos**: en P4
+  anuncia el baile a su casa. En latino (Keta Leonel, P2-P8): «La víspera de
+  Navidad, junto con nuestros invitados, nos reunimos en el gran salón para
+  **una noche de recatada frivolidad**» (P4). Seca y firme: «Nada. Repito.
+  Nada. Justifica que un estudiante camine por la escuela en la noche» (P1,
+  Magda Giner). Figurín verde: P·33.
 
 ---
 
@@ -503,89 +867,205 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 
 ## 10 · Doblaje latino
 
-**Sí hay doblaje latino**, hecho en México. No pude abrir la API de Doblaje
-Wiki (403): los datos salen de lo que devolvía el buscador sobre sus páginas,
-cruzado con prensa y vídeos.
+**Sí hay doblaje latino**, hecho en México para Warner. En la 2.ª pasada leí
+Doblaje Wiki **por su API** (las 8 películas y las fichas de Harry,
+Hermione, Ron, Dumbledore, Luna, Dobby, Snape, McGonagall y Hagrid) y lo crucé
+con la Wikipedia en español (P2), un artículo de prensa con el reparto
+([Genial.guru, 7-may-2020](https://genial.guru/articles/asi-se-ven-los-actores-que-doblan-al-espanol-latino-a-los-personajes-del-mundo-de-harry-potter-1293760/))
+y las fuentes de la 1.ª pasada.
+
+### 10.1 La producción, película a película
+
+| Peli | Estudio | Dirección | Grabación | Fuentes |
+|---|---|---|---|---|
+| P1 | **Audiomaster 3000** | **Javier Rivero**; loops de Jorge Roig y Herman López. Traducción: Jesús Vallejo | nov-2001 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_piedra_filosofal) ⚠️ (una fuente) |
+| P2 | **Audiopost** | **Roberto Molina** | 2002 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) ✅ |
+| P3 | Audiopost | **José Luis García Agraz**; Vicky Burgoa (incidentales); Molina (escenas añadidas) | 2004 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_prisionero_de_Azkaban) ⚠️ |
+| P4 | Audiopost | Roberto Molina | 2005 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_c%C3%A1liz_de_fuego) ⚠️ |
+| P5 | **DAT Doblaje Audio Traducción** | **Herman López** | may-2007 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_orden_del_F%C3%A9nix) ⚠️ |
+| P6 | DAT | Roberto Molina (Carlos Segundo se dirigió a sí mismo) | may-2009 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_misterio_del_pr%C3%ADncipe) ⚠️ |
+| P7 | DAT | Roberto Molina | oct-2010 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_las_reliquias_de_la_muerte_-_Parte_1), [Blog Hogwarts](https://www.bloghogwarts.com/2011/01/13/el-doblaje-de-las-reliquias-de-la-muerte-parte-1-al-espanol-latino/) ✅ |
+| P8 | DAT | Roberto Molina | may-2011 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_las_reliquias_de_la_muerte_-_Parte_2) ⚠️ |
+
+- **Ojo: hay un segundo doblaje, argentino**, de 2019 (Caja de Ruidos,
+  dirección de Jorge Riveros), de P3 a P8: Harry es Alejandro Bono, Hermione
+  Florencia Coianis, Luna Malena Oriolo. **El que conoce el público es el
+  mexicano**; no mezclar voces ni frases (Doblaje Wiki, fichas de Hermione y
+  Luna) ⚠️.
+- **Tampoco mezclar con España**: allí Harry es Axel Amigo y Hermione Michelle
+  Jenner ([Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula))).
+
+### 10.2 Las voces (cada nombre con dos fuentes)
 
 | Personaje | Voz latina | Películas | Fuentes | Estado |
 |---|---|---|---|---|
-| Harry | **Arturo Castañeda** | P1 | [EcuRed](https://www.ecured.cu/Arturo_Casta%C3%B1eda_Mendoza), [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arturo_Casta%C3%B1eda) | ✅ |
-| Harry | Claudio Velázquez | P2 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Claudio_Vel%C3%A1zquez) | ⚠️ una fuente |
-| Harry | **Víctor Ugarte** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Ugarte), [Otaku Press](https://www.otakupress.pe/2017/04/victor-ugarte-harry-potter-sasuke-doblaje.html), [Noroeste](https://www.noroeste.com.mx/amp/entretenimiento/espectaculos/presta-victor-ugarte-su-voz-a-harry-potter-DANO230322) | ✅ |
-| Hermione | Mitzy Corona | P1 y P2 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger) | ⚠️ una fuente |
-| Hermione | Priscila Reyes | P3 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger) | ⚠️ una fuente |
-| Hermione | **Leyla Rangel** | P4 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Leyla_Rangel), [Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/), [entrevista en YouTube](https://www.youtube.com/watch?v=__pudICRBDk) | ✅ |
-| Ron | Carlos Díaz | P1 y P2 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ron_Weasley) | ⚠️ una fuente |
-| Ron | **Luis Daniel Ramírez** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez), [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez) | ✅ dos wikis |
-| Dumbledore | **César Arias** | P1 a P8 | [Infobae](https://www.infobae.com/america/entretenimiento/2020/12/21/murio-el-actor-de-doblaje-cesar-arias-fue-la-voz-de-dumbledore-y-tambien-participo-en-naruto-y-los-caballeros-del-zodiaco/), [El Universal](https://www.eluniversal.com.mx/espectaculos/muere-cesar-arias-actor-de-doblaje-que-dio-voz-dumbledore/) | ✅ |
-| Luna | **Lu (Lupita) Leal** | desde P5 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Lu_Leal), [vídeo en la EXPOMAC](https://www.tiktok.com/@rebecavirgen/video/7218775861527416070), [su TikTok](https://www.tiktok.com/@luleal_r/video/7338455873758858501) | ✅ |
-| Dobby | **Ismael Castro** | P2 y P7 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ismael_Castro), [SDV en TikTok](https://www.tiktok.com/@sdv_serviciosdevoz/video/7114449655177514246?lang=es) | ✅ |
-| Hagrid | Humberto Solórzano | P1 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Humberto_Sol%C3%B3rzano) | ⚠️ una fuente |
-| Hagrid | Blas García | P4 a P8 | [Doblaje Latino Wiki](https://doblaje-latino.fandom.com/es/wiki/Blas_Garc%C3%ADa), [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Blas_Garc%C3%ADa) | ✅ dos wikis |
-| Snape | Carlos Segundo | P1, P5, P6 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Carlos_Segundo) | ⚠️ una fuente |
+| Harry | **Arturo Castañeda** | P1 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arturo_Casta%C3%B1eda), [EcuRed](https://www.ecured.cu/Arturo_Casta%C3%B1eda_Mendoza) | ✅ |
+| Harry | Claudio Velázquez | P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Harry | **Víctor Ugarte** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Ugarte), [Otaku Press](https://www.otakupress.pe/2017/04/victor-ugarte-harry-potter-sasuke-doblaje.html), [Noroeste](https://www.noroeste.com.mx/amp/entretenimiento/espectaculos/presta-victor-ugarte-su-voz-a-harry-potter-DANO230322), Genial.guru | ✅ |
+| Hermione | Mitzy Corona | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Hermione | Priscila Reyes | P3 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger) | ⚠️ (una fuente) |
+| Hermione | **Leyla Rangel** | P4 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Leyla_Rangel), [Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/), Genial.guru | ✅ |
+| Ron | Carlos Díaz | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes ⚠️) |
+| Ron | **Luis Daniel Ramírez** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez), Genial.guru, [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez) | ✅ |
+| Dumbledore | **César Arias** | P1 a P8 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), [Infobae](https://www.infobae.com/america/entretenimiento/2020/12/21/murio-el-actor-de-doblaje-cesar-arias-fue-la-voz-de-dumbledore-y-tambien-participo-en-naruto-y-los-caballeros-del-zodiaco/), [El Universal](https://www.eluniversal.com.mx/espectaculos/muere-cesar-arias-actor-de-doblaje-que-dio-voz-dumbledore/) | ✅ |
+| Luna | **Lu (Lupita) Leal** | P5 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Lu_Leal), Genial.guru, [Anime Argentina](https://animeargentina.net/lupita-leal-doblaje/) | ✅ |
+| Dobby | **Ismael Castro** | P2 y P7 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ismael_Castro), [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), Genial.guru | ✅ |
+| McGonagall | Magda Giner | P1 (y el teaser de la serie de HBO) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Minerva_McGonagall) | ⚠️ (una fuente) |
+| McGonagall | **Keta Leonel** | P2 a P8 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ |
+| Hagrid | Humberto Solórzano | P1 | Doblaje Wiki, [Doblaje Latino Wiki](https://doblaje-latino.fandom.com/es/wiki/Humberto_Sol%C3%B3rzano) | ✅ (dos wikis) |
+| Hagrid | Víctor Hugo Aguilar | P2 y P3 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (nuevo) |
+| Hagrid | **Blas García** | P4 a P8 | Doblaje Wiki, Genial.guru, [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Blas_Garc%C3%ADa) | ✅ |
+| Snape | **Carlos Segundo** | P1, P5, P6 | Doblaje Wiki, Genial.guru | ✅ |
+| Snape | Rolando de Castro | P2 y P4 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (nuevo) |
+| Snape | César Monroy · Jorge Badillo · Sebastián Llapur | P3 · P7 · P8 | Doblaje Wiki | ⚠️ (una fuente) |
+| Umbridge | Ruth Toscano | P5 y P7 | Doblaje Wiki | ⚠️ |
+| Ginny | Alondra Hidalgo | P2, P4 a P8 (en P1, Lupita Leal) | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), Genial.guru | ✅ |
 
-Notas:
-- César Arias murió el 21 de diciembre de 2020, a los 79 años ✅ (Infobae y El Universal).
-- De Dobby dicen que en P7 suena distinto porque **a Ismael Castro se le
-  había gastado la voz**, pero es el mismo actor ⚠️ (una fuente, Doblaje Wiki).
-  En P4 Castro dobló a Amos Diggory.
+**Datos de interés** (Doblaje Wiki ⚠️, salvo lo marcado):
+- P1 fue **«la fatídica Harry Potter»** para Javier Rivero: Audiomaster
+  estrenaba ProTools, tres salas a la vez por las prisas, y un ingeniero
+  **borró a las 4 de la mañana 20 minutos ya grabados**. Por eso P2 pasó a
+  Audiopost y cambió medio reparto.
+- Harry cambió en P2 porque no hubo acuerdo económico con la familia de
+  Castañeda. **Víctor Ugarte hizo a Oliver Wood en P2** antes de ser Harry
+  (Wikipedia P2 lo confirma ✅).
+- **Leyla Rangel hizo el casting de Hermione para P1, P2 y P3** y no la
+  eligieron; en P1 hizo voces adicionales. El «Leviosa» de P1 es de Mitzy
+  Corona.
+- **Lupita Leal fue Ginny en P1** antes de ser Luna desde P5.
+- Snape volvió a Carlos Segundo en P5 **porque lo pidieron los fans**, y lo
+  hizo sin cobrar; en P7 no aceptó el presupuesto (entró Jorge Badillo).
+- En P2 el hechizo *Vera Verto* se dobló «Fera Verto», y Lucius grita
+  «¡Arrara-» en vez de *Avada*. En P7 la capa pasa a llamarse «**Manto de la
+  invisibilidad**».
+- Dobby en P7 suena distinto: «Castro dobla a Dobby con otra
+  caracterización» (Doblaje Wiki). Antes puse que «se le gastó la voz»: eso
+  sólo lo dice un resumen del buscador; la wiki habla de caracterización.
+- **Serie de HBO** (en camino): Doblaje Wiki ya tiene su ficha; en el teaser
+  latino, **McGonagall vuelve a ser Magda Giner**, su voz de P1. El resto del
+  reparto latino, «por identificar».
+- César Arias murió el 21-dic-2020, a los 79 años ✅ (Infobae y El Universal).
 - Víctor Ugarte cuenta que antes de grabar hace relajación y meditación
   ([Otaku Press](https://www.otakupress.pe/2017/04/victor-ugarte-harry-potter-sasuke-doblaje.html)).
 
-**Estudio y dirección** ⚠️ (todo de una sola fuente, Doblaje Wiki):
-- P1: estudio **Audiomaster**, dirección de **Javier Rivero**, tres salas a
-  la vez por las prisas del estreno. Rivero lo llamó «el fatídico Harry Potter».
-- P2: estudio **Audiopost**, dirección de **Roberto Molina**. Molina dirige
-  el resto salvo P3 y P5.
-- P7: dirección de Roberto Molina ([Blog Hogwarts](https://www.bloghogwarts.com/2011/01/13/el-doblaje-de-las-reliquias-de-la-muerte-parte-1-al-espanol-latino/)).
+### 10.3 Frases propias del doblaje latino (textuales)
 
-**Frases del doblaje latino**
-- «**Es Leviosa, no Leviosá**» ✅: así la recuerda el público latino
-  ([Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/)).
-  Leyla Rangel cuenta que ella sólo la dijo en las pruebas: en P1 la dijo
-  otra actriz. En la versión original está en P1 01:06:44.
-- «**Dobby es un elfo libre**» ⚠️: es meme en TikTok
-  ([búsqueda de TikTok](https://www.tiktok.com/discover/dobby-es-un-elfo-libre-meme?lang=en)),
-  pero no confirmé que sea el audio latino y no el de España.
-- «Eres un mago, Harry» ⚠️: sin comprobar en el audio latino. Original:
-  P1 00:15:05.
-- Las demás frases de esta biblia están **en inglés, con su minuto**. Si se
-  traducen para la lámina, son traducción nuestra, no del doblaje.
+**De dónde salen.** Los clips oficiales doblados de YouTube (los tráileres de
+Warner Bros. Pictures Latinoamérica y México, §12) **no tienen subtítulos**,
+y YouTube no deja bajar su audio. Pero **Doblaje Wiki guarda 65 muestras de
+audio del doblaje** de estos personajes (20-60 s cada una). Las bajé y las pasé
+por **Whisper** (modelo *small*; las 14 más útiles, otra vez con *medium*).
+Corregí sólo nombres rotos («Dovi» → Dobby, «Jermaine» → Hermione). El minuto
+sale de cruzar el sentido con los subtítulos en inglés. ✅ = el sentido
+coincide con el subtítulo inglés de ese minuto.
+
+| Personaje | Frase del doblaje latino | Dónde | Estado |
+|---|---|---|---|
+| **Dumbledore** (César Arias) | «Siempre se ayudará en Hogwarts, Harry, a quienes lo pidan. Siempre me he vanagloriado de mi habilidad para las frases. **Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia**, capaces tanto de ocasionar dolor como de remediarlo.» | P8 01:34:46-01:35:00 ([muestra](https://static.wikia.nocookie.net/doblaje/images/e/e5/HP8AlbusDumbledore-1.ogg)) | ✅ |
+| Dumbledore | «Tiempos difíciles y oscuros nos aguardan. Pronto deberemos elegir entre lo que es correcto y lo que es fácil.» | P4, final ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/36/HP4AlbusDumbledore-1.ogg)) | ✅ sentido |
+| Dumbledore | «Sin embargo, es imperioso que ambos reciban el Premio Especial por Servicios al Colegio. Ahora, señor Weasley, envíe una lechuza con esta orden de libertad a Azkaban. Me parece que queremos que Hagrid vuelva.» | P2 02:18:22-02:18:50 ([muestra](https://static.wikia.nocookie.net/doblaje/images/7/79/HP2AlbusDumbledore-1.ogg)) | ✅ (Whisper oyó «Whistley»; el inglés dice «Mr. Weasley») |
+| **McGonagall** (Keta Leonel) | «La víspera de Navidad, junto con nuestros invitados, nos reunimos en el gran salón para **una noche de recatada frivolidad**. Como representantes del colegio sede, espero que todos y cada uno de ustedes se esfuerce por dar un buen paso. Y lo digo literalmente, porque el baile de Navidad es eso, justamente: un baile.» | P4 01:06:47-01:07:20 ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/01/HP4MinervaMcGonagall-1.ogg)) | ✅ **un aviso oficial** |
+| McGonagall (Magda Giner) | «Nada. Repito. Nada. Justifica que un estudiante camine por la escuela en la noche.» · «Recibió una lechuza urgente del Ministerio de Magia y salió de inmediato a Londres.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/3a/HP1MinervaMcGonagall-1.ogg)) | ✅ sentido |
+| **Hermione** (Leyla Rangel) | «**Ya saben a qué vinieron. Por un maestro, un maestro de verdad.** Alguien con experiencia en defensa contra las artes oscuras.» · «Es porque tienes tanta sensibilidad como una piedra.» | P5 00:54:01 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/26/HP5HermioneGranger-1.ogg)) | ✅ |
+| Hermione (Mitzy Corona) | «Nicolás Flamel es el único que ha podido crear la piedra filosofal… Transforma la materia en oro macizo y produce el elixir de la vida.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/d/dd/HP1HermioneGranger-1.ogg)) | ✅ sentido |
+| **Luna** (Lu Leal) | «Hola, Harry. **Torposoplos. Tienes la cabeza llena.** … Fue como estar con un amigo. … Excepcionalmente ordinaria.» | P6 00:27:24-00:27:40 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/ad/HP6LunaLovegood-1.ogg)) | ✅ (la palabra «torposoplos», ⚠️: Whisper oyó «torposolos») |
+| Luna | «Por cierto, los dos te creemos. Que volvió el que no debe ser nombrado, y que pelearon, **y que el Ministerio y El Profeta conspiran contra ti y Dumbledore**.» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/images/c/cc/HP5LunaLovegood-1.ogg)) | ✅ sentido |
+| Luna | «Hola, Harry. Interrumpí un pensamiento, ¿verdad? Vi que se hacía pequeño en tus ojos.» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/0c/HP7LunaLovegood-1.ogg)) | ✅ sentido |
+| **Dobby** (Ismael Castro) | «Dobby nunca ha querido matar. Dobby sólo quería mutilar o lesionar de gravedad. **Dobby no tiene amo. Dobby es un elfo libre.** Y Dobby vino a salvar a Harry Potter y a sus amigos.» · «Qué playa tan hermosa para estar con amigos.» | P7 02:08:59-02:10:48 ([muestra](https://static.wikia.nocookie.net/doblaje/images/e/ed/HP7Dobby-1.ogg)) | ✅ |
+| Dobby | «Harry Potter debió escuchar a Dobby. … A Dobby siempre lo amenazan. **A Dobby lo amenazan cinco veces al día en casa.**» | P2 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/2b/HP2Dobby-1.ogg)) | ✅ sentido |
+| **Snape** (Sebastián Llapur) | «Si cualquiera, estudiante o maestro, pretendiera ayudar al señor Potter, será castigado de una manera consistente con la severidad de su infracción… **Lo invito a que pase al frente, ahora.**» | P8 00:35:29-00:36:33 ([muestra](https://static.wikia.nocookie.net/doblaje/images/9/9d/HP8SeverusSnape-1.ogg)) | ✅ aviso oficial (oscuro) |
+| Ron (Luis Daniel Ramírez) | «**Ay, diablos, ahí va.**» (el «Bloody hell, here we go») | P8 00:33:45 ([muestra](https://static.wikia.nocookie.net/doblaje/images/8/8f/HP8RonWeasley-1.ogg)) | ✅ |
+| Harry (Víctor Ugarte) | «Y no sé qué, pero lo quiere con desesperación… **Me ponen los pelos de punta.**» | P7 ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/32/HP7HarryPotter-1.ogg)) | ✅ sentido |
+
+**Subtítulos oficiales en español** (HBO Max Latinoamérica, [tráiler de P1](https://www.youtube.com/watch?v=ZgrCZVjPg9g);
+no son el guion del doblaje, pero son la traducción oficial): «Eres un mago,
+Harry.» «¿Soy un qué?» (0:15-0:17) · «Estimado Sr. Potter, nos complace
+informarle que ha sido aceptado en la Escuela Hogwarts de Magia y
+Hechicería» (0:23-0:27) · «**Los de primer año deben saber que el bosque
+oscuro está estrictamente prohibido**» (1:12-1:16) · «No está permitido usar
+magia en los corredores fuera de clase» (1:18) · «El corredor del tercer piso
+está restringido para todo aquel que no desee sufrir la muerte más dolorosa»
+(1:28-1:33) · «O peor aún, que nos expulsen» (1:49) ✅ (vistos en los
+fotogramas).
+
+**Frases que la gente recuerda**
+- «**Es Leviosa, no Leviosá**» ✅ ([Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/)).
+  En P1 la dijo Mitzy Corona. Original: P1 01:06:44.
+- «**Dobby es un elfo libre**» ✅ (muestra de P7, arriba).
+- «Eres un mago, Harry»: así sale en los subtítulos oficiales de HBO Max;
+  en el audio latino no lo comprobé (no hay muestra) ⚠️.
 
 ---
 
-## 11 · Música ⚠️
+## 11 · Música
 
-Sin fuente enlazada: la cuota de búsquedas se agotó antes. Datos generales
-que hay que comprobar:
-- **John Williams** compuso P1 a P3. Su tema, **«Hedwig's Theme»**, es la
-  firma de la saga: celesta, misterio amable. Es el ambiente de #anuncios.
-- Después: **Patrick Doyle** (P4), **Nicholas Hooper** (P5 y P6),
-  **Alexandre Desplat** (P7 y P8).
+| Película | Compositor | Fuente |
+|---|---|---|
+| P1 a P3 | **John Williams** | [wiki: banda sonora de P1](https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(soundtrack)), [«Hedwig's Theme»](https://harrypotter.fandom.com/wiki/Hedwig%27s_Theme) ✅ (con la 1.ª pasada) |
+| P4 | **Patrick Doyle** | [wiki: banda sonora de P4](https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Goblet_of_Fire_(soundtrack)) ✅ |
+| P5 y P6 | **Nicholas Hooper** | [wiki: banda sonora de P5](https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(soundtrack)) ✅ |
+| P7 y P8 | **Alexandre Desplat** | 1.ª pasada, de memoria ⚠️ (la ficha de la wiki no dio el dato) |
+
+- **«Hedwig's Theme»** (Williams) nació dentro del «Prologue» de P1 y sonó en
+  los créditos. **Todos los compositores siguientes lo citan** en sus
+  películas, y también los juegos (James Hannigan). Hagrid lo toca con la
+  flauta en P1; Luna lo tararea en el juego de P6 ([wiki](https://harrypotter.fandom.com/wiki/Hedwig%27s_Theme)) ✅.
+  Celesta, misterio amable: **es el ambiente de #anuncios**.
+- En el [clip oficial del discurso de P3](https://www.youtube.com/watch?v=dvFehFzph7I&t=13)
+  se ve **el coro de ranas** que dirige Flitwick (0:13-0:39) antes del
+  discurso: la bienvenida con música es parte del ritual ✅ visto (sin audio).
 - Para #anuncios: la época de Williams. La de Desplat es triste.
 
 ---
 
 ## 12 · Vídeos
 
-| Vídeo | Qué sirve | Minuto |
-|---|---|---|
-| [Entrevista a Leyla Rangel](https://www.youtube.com/watch?v=__pudICRBDk) | voz latina de Hermione | sin verificar |
-| [Entrevista a Víctor Ugarte (1)](https://www.youtube.com/watch?v=6yFHCEmRWzw) · [(2)](https://www.youtube.com/watch?v=vHlRVV9pQ3Q) | voz latina de Harry | sin verificar |
-| [Podcast de Otaku Press con Ugarte](https://soundcloud.com/sofiapichihua/victor-ugarte-voz-de-harry-potter-y-sasuke-cuenta-sus-secretos-de-doblaje) | sus secretos de doblaje | sin verificar |
-| [Diario de desarrollo del arte de Magic Awakened](https://www.youtube.com/watch?v=Z_BJLuv5WiI) | estilo de libro ilustrado | sin verificar |
-| [Entrevista al artista jefe de Magic Awakened](https://www.youtube.com/watch?v=kBeIPiTRVuw) | cómo dibujan a los personajes | sin verificar |
-| [Clases de UI de Magic Awakened en Bilibili](https://www.bilibili.com/video/BV1vA411e7Az/) | controles de interfaz, en chino | sin verificar |
-| [Los decretos de Educación](https://www.youtube.com/watch?v=gwwD3rlAGzU) | la pared de decretos | sin verificar |
-| [Featurette de Hogwarts Legacy](https://www.harrypotter.com/news/go-behind-the-scenes-of-hogwarts-legacy) | detrás de cámaras | sin verificar |
+**Cómo los miré (2.ª pasada).** `herramientas/fotogramas.py` no pudo bajar de
+YouTube: «Sign in to confirm you're not a bot» y 429 (somos varios ayudantes
+con la misma IP; reintenté tras esperar). Con yt-dlp (cliente `mweb`) sí
+salen los datos y los ***storyboards***: las miniaturas oficiales de YouTube,
+**una cada 1-2 s**, a 320×180 en los vídeos nuevos y a 160×90 o 105×45 en
+los viejos. Con Pillow las monté en hojas numeradas con su minuto (±2 s) y
+**las miré** (quedan en mi carpeta de trabajo, `vid/v_<id>/hoja_01.jpg`).
+Sirven para pose, encuadre, luz y color; para recortar, la wiki (§2.0).
 
-**Escenas de las películas con minuto**: sección 3 y sección 15.
+### 12.1 Los que miré fotograma a fotograma
+
+| Vídeo (canal, fecha, duración) | Lo que se ve, con su minuto |
+|---|---|
+| **Comienzo (el «opening»)**: [«The First 10 Minutes», P1](https://www.youtube.com/watch?v=PdVxAuFY1Bk) (canal oficial Harry Potter, 6-ene-2026, 10:09) | [0:00](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=0) letrero **«PRIVET DRIVE»** de noche con una lechuza. [0:29-0:34](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=29) Dumbledore apaga las farolas con el apagador. [1:19](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=79) McGonagall. [2:08](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=128) Hagrid en la moto. [3:08](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=188) **Dumbledore deja la carta** sobre el bebé; [3:23](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=203) el sobre en tinta verde. [3:37](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=217) **el logo dorado sobre nubes**. [5:36](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=336) el zoo |
+| **Final (el «ending»)**: [«19 Years Later», P8](https://www.youtube.com/watch?v=yv-UwwOvOzA) (canal oficial, 1-sep-2017, 3:47, 16,7 millones de visitas) | [0:01-0:09](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=1) la estación de King's Cross, ladrillo rojo. [0:15](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=15) **jaulas de lechuza** en los carritos. [0:51-0:59](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=51) **el expreso rojo echando vapor** bajo la bóveda de hierro. [1:13](https://www.youtube.com/watch?v=yv-UwwOvOzA&t=73) Harry y Ginny con sus hijos |
+| **Tráiler latino** de P1: [«Harry Potter y la piedra filosofal · Trailer · HBO Max»](https://www.youtube.com/watch?v=ZgrCZVjPg9g) (HBO Max Latinoamérica, 27-dic-2021, 2:19, 1,7 millones) | **Subtitulado en español**, no doblado. [0:03](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=3) Hedwig en la jaula. [0:15](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=15) «Eres un mago, Harry.» [0:23-0:27](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=23) «Estimado Sr. Potter, nos complace informarle…». [0:33-0:35](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=33) el Gran Comedor con velas. [1:12-1:16](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=72) **Dumbledore, de pie en la mesa: «el bosque oscuro está estrictamente prohibido»**. [2:05](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=125) **logo «Harry Potter y la piedra filosofal»** |
+| **Tráiler doblado** de P8: [«trailer 2 doblado · oficial WB»](https://www.youtube.com/watch?v=-kDonIIXuqo) (Warner Bros. Pictures Latinoamérica, 17-jun-2011, 2:26) | Fotogramas de 105×45: se ven las **cartelas en español** «CADA MOMENTO DE SU VIDA» ([0:09](https://www.youtube.com/watch?v=-kDonIIXuqo&t=9)), «LO HA LLEVADO A ESTO» ([0:19](https://www.youtube.com/watch?v=-kDonIIXuqo&t=19)), «ESTE AÑO» ([0:52](https://www.youtube.com/watch?v=-kDonIIXuqo&t=52)), «SE ACABA» ([1:00](https://www.youtube.com/watch?v=-kDonIIXuqo&t=60)), en romanas grabadas entre humo. Tono de guerra: qué NO |
+| **Spot de TV** de P7: [«El elegido»](https://www.youtube.com/watch?v=IqlkIE5s1UA) (Warner Bros. Pictures México, 2-nov-2010, 0:32) | Subtítulos en español: «¡Uno!», «¡Dos!», «¿Dónde demonios estás?», «Siempre estoy enfadada con él» ([0:16](https://www.youtube.com/watch?v=IqlkIE5s1UA&t=16)). [0:25](https://www.youtube.com/watch?v=IqlkIE5s1UA&t=25) **Dobby aparece con los brazos abiertos**. [0:28](https://www.youtube.com/watch?v=IqlkIE5s1UA&t=28) «PRÓXIMAMENTE SÓLO EN CINES» |
+| Escena 1: [«Dumbledore's Speech · Full Scene», P3](https://www.youtube.com/watch?v=dvFehFzph7I) (canal oficial, 5-sep-2025, 4:54) | [0:13-0:39](https://www.youtube.com/watch?v=dvFehFzph7I&t=13) coro de ranas bajo cientos de velas. [0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43) **brazos abiertos tras el atril del búho**. [0:57](https://www.youtube.com/watch?v=dvFehFzph7I&t=57) el búho dorado de cerca. [1:05](https://www.youtube.com/watch?v=dvFehFzph7I&t=65) presenta a Lupin. [2:42](https://www.youtube.com/watch?v=dvFehFzph7I&t=162) **los dos índices arriba**. [2:48](https://www.youtube.com/watch?v=dvFehFzph7I&t=168) apaga una vela con los dedos. [4:02](https://www.youtube.com/watch?v=dvFehFzph7I&t=242) en el dormitorio alguien lee El Profeta |
+| Escena 2: [«Ron receives a Howler», P2](https://www.youtube.com/watch?v=fBziSx7RtqY) (canal oficial, 22-mar-2018, 1:27, 6,1 millones) | [0:02](https://www.youtube.com/watch?v=fBziSx7RtqY&t=2) desayuno: libros abiertos y bandejas en la mesa. [0:17](https://www.youtube.com/watch?v=fBziSx7RtqY&t=17) **se abre el sobre rojo**. [0:25](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25) **boca de papel con dientes**. [0:39](https://www.youtube.com/watch?v=fBziSx7RtqY&t=39) grita a Ron a la cara. [0:49](https://www.youtube.com/watch?v=fBziSx7RtqY&t=49) Ginny mira. [0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=57) confeti rojo sobre la mesa |
+| Escena 3: [«It's Leviosa, Not Leviosaaa!», P1](https://www.youtube.com/watch?v=Qgr4dcsY-60) (canal oficial, 14-may-2021, 1:12, 5 millones) | [0:04](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=4) **Hermione agarra el brazo de Ron**. [0:10-0:13](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=10) explica, cejas altas. [0:17](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=17) **ojos cerrados, barbilla alta**. [0:25](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=25) la pluma flota. [0:29](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=29) Flitwick feliz. [0:43](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=43) explota la pluma de Seamus |
+| Escena 4: [«Introducing Luna Lovegood», P5](https://www.youtube.com/watch?v=8k2bj-R9m8E) (canal oficial, 19-oct-2017, 1:59, 3,4 millones) | [0:02](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=2) camino del bosque con farolas. [0:24-0:30](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=24) el thestral. [0:53-1:07](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=53) **Luna tras El Quisquilloso** en el carruaje. [1:09](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=69) **mira a Harry**. Luz de noche azul verdosa `#1D464A` |
+| Escena 5: [«Dobby is a Free Elf», P2](https://www.youtube.com/watch?v=8DTb-lseCdQ) (canal oficial, 20-feb-2018, 2:36, 9,9 millones) | Fotogramas de 160×90. [0:59](https://www.youtube.com/watch?v=8DTb-lseCdQ&t=59) Dobby con el diario. [1:34](https://www.youtube.com/watch?v=8DTb-lseCdQ&t=94) **Dobby erguido con el calcetín**. [1:58](https://www.youtube.com/watch?v=8DTb-lseCdQ&t=118) **cabeza ladeada, feliz**. Claustro de piedra con luz blanca |
+| Créditos de P3 ([copia de fan, «Mr End Credits»](https://www.youtube.com/watch?v=MJzymmFvtlk), 23-dic-2022, 4:08) | No es oficial. [0:07](https://www.youtube.com/watch?v=MJzymmFvtlk&t=7) logo en mancha de tinta; [0:11-1:33](https://www.youtube.com/watch?v=MJzymmFvtlk&t=11) **cada crédito en una cinta de pergamino** con huellas |
+
+### 12.2 Otros vídeos (existen: comprobados con yt-dlp el 24-sep-2026)
+
+| Vídeo | Qué sirve | Datos |
+|---|---|---|
+| [Entrevista a Leyla Rangel](https://www.youtube.com/watch?v=__pudICRBDk) (Capa Invisible) | voz latina de Hermione; la entrevista que cita Doblaje Wiki sobre sus castings | 5:59, 16-dic-2017, 640 232 visitas ✅ |
+| [Entrevista a Víctor Ugarte (1)](https://www.youtube.com/watch?v=6yFHCEmRWzw) (Activa TV Honduras) · [(2)](https://www.youtube.com/watch?v=vHlRVV9pQ3Q) (James S.U.) | voz latina de Harry | 29:24 (2016) · 1:42:27 (2021) ✅ |
+| [Podcast de Otaku Press con Ugarte](https://soundcloud.com/sofiapichihua/victor-ugarte-voz-de-harry-potter-y-sasuke-cuenta-sus-secretos-de-doblaje) | sus secretos de doblaje | no comprobado (SoundCloud) ⚠️ |
+| [Diario de desarrollo del arte de Magic Awakened](https://www.youtube.com/watch?v=Z_BJLuv5WiI) (canal oficial Harry Potter) | estilo de libro ilustrado. Capítulos: [inspiración 1:12](https://www.youtube.com/watch?v=Z_BJLuv5WiI&t=72), [luz 1:46](https://www.youtube.com/watch?v=Z_BJLuv5WiI&t=106), [diseño de personajes 2:00](https://www.youtube.com/watch?v=Z_BJLuv5WiI&t=120), [cartas 3:05](https://www.youtube.com/watch?v=Z_BJLuv5WiI&t=185) | 4:21, 11-jul-2023 ✅ |
+| [Entrevista al artista jefe de Magic Awakened](https://www.youtube.com/watch?v=kBeIPiTRVuw) (canal del juego) | cómo dibujan a los personajes | 4:52, 18-jul-2023 ✅ |
+| [Los decretos de Educación](https://www.youtube.com/watch?v=gwwD3rlAGzU) (Vermilion Studios) | la pared de decretos | 3:21, 23-sep-2019 ✅ |
+| [Tráiler en español de P5](https://www.youtube.com/watch?v=fYBe1RNqaAw) (Warner Bros. Pictures México) | tráiler oficial en español | 2:16, 27-abr-2007 ✅ (fotogramas de 105×45, casi ilegibles) |
+| [Clases de UI de Magic Awakened en Bilibili](https://www.bilibili.com/video/BV1vA411e7Az/) | controles de interfaz, en chino | no comprobado ⚠️ |
+| [Featurette de Hogwarts Legacy](https://www.harrypotter.com/news/go-behind-the-scenes-of-hogwarts-legacy) | detrás de cámaras | no comprobado ⚠️ |
+
+Ninguno de estos vídeos tiene subtítulos (comprobado con yt-dlp).
 
 **TikTok**: vivos los memes «Dobby es un elfo libre»
 ([1](https://www.tiktok.com/discover/eres-libre-dobby),
 [2](https://www.tiktok.com/@valeria_arvizug/video/7322549984585387269)) y
 las actrices latinas en convenciones (Lu Leal en la EXPOMAC Veracruz, 18 de
-diciembre de 2022).
+diciembre de 2022). No los abrí ⚠️.
 
 ---
 
@@ -600,8 +1080,15 @@ diciembre de 2022).
 | Magic Awakened | libro ilustrado, páginas que pasan, animación Spine en las cartas | [GameRes](https://www.gameres.com/885575.html), [ZCOOL](https://www.zcool.com.cn/article/ZMTI5OTkwNA==.html) |
 | Hogwarts Legacy, 2023 | HUD mínimo, Guía de campo, subtítulos | [Deltia's](https://deltiasgaming.com/hogwarts-legacy-user-interface/), [Interface In Game](https://interfaceingame.com/screenshots/hogwarts-legacy-hud-7/) |
 
-Hogwarts Legacy tiene doblaje al español: [TV Azteca](https://www.tvazteca.com/aztecadeportes/hogwarts-legacy-revela-las-voces-de-su-doblaje)
-publicó las voces. No pude leer la nota ⚠️.
+**Hogwarts Legacy tiene doblaje latino** ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hogwarts_Legacy),
+leído por la API; [TV Azteca](https://www.tvazteca.com/aztecadeportes/hogwarts-legacy-revela-las-voces-de-su-doblaje)
+publicó las voces ✅): estudio **Pink Noise**, cinco directores a la vez
+(Alan Fernando Velázquez, Angélica Villa, Gaby Willer, Rick Loera, Rebeca
+Gómez). **César Arias hizo a Dumbledore en el tráiler de presentación: fue
+su último Dumbledore.** El profesor Fig es Jaime Vega; Sebastian Sallow,
+Alberto Bernal; Natty, Lourdes Arruti; Poppy, Jocelyn Robles. Nick Casi
+Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
+⚠️ (reparto: sólo Doblaje Wiki).
 
 ---
 
@@ -614,14 +1101,29 @@ publicó las voces. No pude leer la nota ⚠️.
 - «Juro solemnemente que mis intenciones no son buenas» y «Travesura
   realizada» (P3 00:57:24 y 00:58:15).
 - Dumbledore zarandeando a Harry: «Did you put your name in the Goblet of
-  Fire?» (P4 00:35:21). El fandom se ríe de que en el libro lo pregunta con
-  calma ⚠️ (meme conocido; no lo busqué).
+  Fire?» (P4 00:35:21; [escena oficial](https://www.youtube.com/watch?v=pLv1HXl_J10)).
+  El fandom se ríe de que en el libro lo pregunta **con calma**: «[*Dumbledore
+  said calmly*](https://www.reddit.com/r/harrypotter/comments/u7z4uc/dumbledore_said_calmly/)»
+  (7 429 votos, 2022) y hasta «[Kelce said calmly](https://www.reddit.com/r/harrypotter/comments/1apc4pf/kelce_said_calmly/)»
+  (13 501 votos, 2024) ✅ (Reddit por Arctic Shift).
 - Los *nargles* de Luna (P5 00:30:06) y sus gafas espectrales.
 - «Won-Won», el mote que le pone Lavender a Ron (P6 01:21:27).
 - «Always» de Snape (P8 01:22:37).
+- **El Profeta como sección de noticias**: en r/harrypotter se pidió
+  «[renombrar la etiqueta *News* como *Daily Prophet*](https://www.reddit.com/r/harrypotter/comments/11ntalv/petition_for_this_subreddit_to_have_news_be/)»
+  (820 votos, 10-mar-2023). El meme «[Daily prophet intensifies](https://www.reddit.com/r/harrypotter/comments/j9vi8r/daily_prophet_intensifies/)»
+  tiene 35 335 votos (2020) ✅. **Para un fan, un canal de anuncios que es El
+  Profeta tiene todo el sentido.**
+- **Luna**: «[Everyone needs to have a Luna in their lives ✨](https://www.reddit.com/r/harrypotter/comments/1nq24gz/everyone_needs_to_have_a_luna_in_their_lives/)»
+  (6 555 votos, 25-sep-2025) ✅.
 
 ### Qué NO hacer (lo que un fan notaría)
 - **Globo de cómic** o burbuja blanca.
+- **El atril del búho en una escena de P1 o P2**: no existía hasta P3.
+- **Cabecera de P5 («DAILY PROPHET» de palo) con Harry niño**: son épocas
+  distintas.
+- **Voces o frases del redoblaje argentino de 2019 o del doblaje de España**
+  presentadas como «las latinas».
 - **Fotos que no se mueven** en El Profeta: si hay foto, que sea un
   fotograma con algo de movimiento sugerido, no un retrato de estudio.
 - Mezclar épocas: cabecera de propaganda con Harry de 11 años.
