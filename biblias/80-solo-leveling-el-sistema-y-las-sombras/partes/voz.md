@@ -328,11 +328,65 @@ pero es la regla canon citada también por reseñas de la serie).
 
 ## Hallazgos · Punto 22 — Fan dubs y comunidad hispana
 
-(pendiente)
+- **TikTok, «BERU LE HABLA A SU REY» (@rghocd_3), edit sobre el doblaje latino del cap. 13/T2 final:**
+  confirmado por `tiktok.com/oembed` (título, autor, sonido original) ·
+  https://www.tiktok.com/@rghocd_3/video/7487293973543881989 · ✅ (enlace y metadatos verificados directamente).
+  Es exactamente el momento «mi rey» de Beru analizado en el punto 8/13, ya viral en la comunidad hispana.
+- **TikTok, «J Balvin se incorpora al doblaje de Solo Leveling» (@lamontanadeinosuke):** confirmado por oembed ·
+  https://www.tiktok.com/@lamontanadeinosuke/video/7469578855179701509 · ✅. Relevante para las sombras porque
+  Kargalgan/Colmillo es la sombra que dobla J Balvin (ver punto 8).
+- **Vídeo oficial «🔥SURGE🔥 con los secretos detrás del doblaje de Solo Leveling» (@crunchyroll_la):** ya
+  verificado en `biblias/03-solo-leveling/biblia.md` §12.4 como el detrás de cámaras oficial del doblaje ·
+  referencia cruzada · ✅.
+- **Covers de openings/endings en español y memes generales de la comunidad hispana:** ya investigados a fondo
+  en `biblias/03-solo-leveling/biblia.md` §22 (6 canales de covers de «LEveL» y «REAWAKER», el meme de
+  @yerastian en TikTok, el canal «Antov» de análisis del doblaje) — no se repite esa búsqueda aquí; se referencia
+  como fuente cruzada válida para esta biblia porque es la misma serie y el mismo doblaje · ✅.
+- **Fandub multiepisodio propio en español, específico de las sombras:** no se encontró (mismo resultado que en
+  `biblias/03-solo-leveling/`: lo que aparece son reposts del doblaje oficial mal etiquetados, ningún proyecto
+  de fandub limpio para esta serie). Se deja anotado, no se repite la búsqueda completa.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- **La escena de Beru pidiendo su nombre (ep. 25 · 09:04-09:50):** «Mi rey… concédame un nombre», voz grave
+  (103 Hz), ceremoniosa, de usted — es la cita de sombra más reconocible del fandom hispano (viral en TikTok con
+  el mismo doblaje) y funciona perfecta como cuadro de diálogo en un canal de doblaje: muestra cómo un actor
+  construye un personaje no-humano con puro registro de voz.
+- **Igris no habla — y eso es el dato, no un vacío.** Para un servidor de doblaje/locución es un ángulo perfecto:
+  «hay personajes que actúan sólo con el cuerpo» (arrodillarse, la espada, el gesto), útil para un texto sobre
+  actuación no verbal o para el canal de edición/arte.
+- **El debate «Knight Mains vs. Monster Mains» (Igris vs. Beru)** es material listo para un post o encuesta en
+  el servidor: dos formas opuestas de interpretar lealtad (frío y compuesto vs. teatral y efusivo), con citas
+  reales de fans en inglés para traducir.
+- **La gramática rota de Kargalgan/Colmillo** (verbos sin conjugar, «ser muertos, torturados y devorados») es un
+  ejemplo concreto de cómo un guion usa el lenguaje para marcar que un personaje «todavía no es humano» — útil
+  para el canal de escritura del servidor.
+- **La regla de grados de las sombras** (a más grado, más personalidad y habla) es un concepto claro y citable
+  para explicar por qué unas sombras «hablan mucho» (Beru) y otras «no dicen nada» (Igris, Kaisel) sin que
+  parezca inconsistente — sirve de gancho para un texto corto tipo «el Sistema también le pone reglas a la voz».
+
+## No encontré
+
+- **Un cumpleaños, altura o comida favorita oficial de Igris, Beru, Iron, Bellion o Kaisel:** confirmado que no
+  existe (ver punto 20; dos fuentes ya usadas en `biblias/03-solo-leveling/`, más la revisión directa de las
+  fichas de la wiki del anime y del juego hecha en esta tanda, todas vacías en esos campos). No es fallo de
+  búsqueda: la serie no publicó ese dato.
+- **Un fotograma propio (con minuto) de la cara de Beru al recibir su nombre o de Igris arrodillándose:** se
+  describe por texto de wiki y por el audio, pero no se abrió el episodio en vídeo esta tanda (herramienta de
+  imagen/vídeo, no de voz) — es tarea del investigador de vídeo confirmar el minuto exacto con `fotogramas.py`.
+  ⚠️ dato incompleto a propósito, no inventado.
+- **Voz de Iron ya como sombra** (sólo se encontró y transcribió la de Kim Chul humano, antes de morir): no hay
+  muestra de audio etiquetada «Iron» en Doblaje Wiki entre las 397 disponibles — se revisó la lista completa de
+  `datos-voz.md` buscando «Iron» y no aparece, sólo «Kim Chul (temp. 1)» y «Kim Chul (temp. 2)».
+- **Un hilo de Reddit con puntuación alta específico de la escena de Beru pidiendo su nombre:** la búsqueda
+  `query=Beru` en Arctic Shift (`arctic-shift.photon-reddit.com/api/posts/search`) con `sort=desc&limit=100` no
+  devolvió resultados en esta tanda (posible límite de la API o filtro de calidad); con `limit=8` sin
+  `sort_type` sí devolvió un resultado, pero no ordenado por puntuación. Se probaron 3 variantes de parámetros
+  sin insistir más (según AYUDANTE.md, no más de dos intentos por vía). Queda como extra, no bloquea el punto 21
+  (que sí tiene la fuente del debate Igris/Beru de GameRant, verificada).
+- **Voz propia de Bellion en el doblaje latino:** no tiene muestra en Doblaje Wiki (Bellion no ha aparecido
+  todavía en los 25 episodios emitidos, según CBR — ver punto 21); su carácter se describe sólo por texto de
+  wiki, sin audio que analizar. Correcto no inventarlo: es contenido aún no animado.
 
 ## No encontré
 
@@ -340,4 +394,49 @@ pero es la regla canon citada también por reseñas de la serie).
 
 ## Bitácora de búsqueda
 
-(pendiente)
+- Punto de partida: `partes/datos-voz.md` (AniList favoritos y fichas, ficha de doblaje de Doblaje Wiki, 397
+  muestras de audio, reparto latino crudo, texto de wiki de Personality/Abilities de Jinwoo/Igris/Beru,
+  Danbooru «los más dibujados»). No se repitieron esas consultas.
+- Cross-referencia (lectura, no consulta nueva a APIs externas): `biblias/03-solo-leveling/partes/voz.md`
+  completo y las secciones §3, §6, §12, §16, §17, §20, §21, §22 de `biblias/03-solo-leveling/biblia.md`, vía
+  `python3 herramientas/seccion.py 03-solo-leveling "<sección>"` — sirvió para no repetir el reparto latino
+  completo, las encuestas de popularidad generales y la investigación de covers/memes ya hecha para la misma
+  serie.
+- Comprobación de datos cruzados (Danbooru): `https://danbooru.donmai.us/wiki_pages/kim_dokja.json` — confirma
+  que Kim Dokja es de *Omniscient Reader's Viewpoint*, no de Solo Leveling; se excluyó del ranking de fan art.
+- API Fandom `solo-leveling.fandom.com/api.php` (wikitext, sin usar el buscador web): páginas «Iron» (Personality
+  e History), «Kaisel» (Overview/Abilities), «Bellion» (Personality completa), «Shadows» (regla general de grado
+  y personalidad, sección «Personalities»), «Igris» (infobox con las tres referencias a capítulo del grado:
+  Knight → Elite Knight → Marshal Grade), «Beru» (Personality completa y Trivia, origen del nombre en Bernard
+  Werber, comparación de fuerza con Igris/Bellion).
+- API AniList (GraphQL, sin usar el buscador web): búsqueda de personaje «Beru» para encontrar su id 159849 y
+  confirmar 1384 favoritos, con comprobación de que pertenece a los medios correctos de Solo Leveling (evita
+  otro cruce de datos con un personaje homónimo de otra obra).
+- Intento de verificación por Jikan/MAL (`api.jikan.moe/v4/anime?q=Solo+Leveling` y
+  `.../v4/anime/54744/characters`): la API devolvió error 504 «Jikan failed to connect to MyAnimeList» dos
+  veces — MAL caído desde este servidor en el momento de la consulta; no se insistió más (dos intentos, según
+  AYUDANTE.md).
+- `herramientas/voz.py` (Whisper en local + análisis de tono) sobre 5 muestras oficiales de Doblaje Wiki,
+  guardadas en `/tmp/claude-0/trabajo/80-solo-leveling-voz/`: `beru_sombra` (pide su nombre, ep. 25),
+  `beru_trans` (transformación en combate), `beru_reg` (grito corto), `kargalgan` (antes de ser domado),
+  `iron` (en realidad Kim Chul humano, «temp. 2», única muestra disponible con esa etiqueta en el reparto de
+  sombras). Registro grave/expresivo confirmado en las tres de Beru; gramática rota confirmada en Kargalgan.
+- `arctic-shift.photon-reddit.com/api/posts/search`: 3 variantes de parámetros para `subreddit=sololeveling`
+  buscando reacciones específicas a la escena de Beru (`sort=desc`, con y sin `sort_type=score`, con
+  `query=Beru` y con `title=Beru`) — sin resultados ordenables en esta tanda; no se insistió más.
+- WebSearch (inglés, 2 búsquedas de las ~50 disponibles para este rol): «Solo Leveling shadow army Beru Igris
+  fans favorite why loyal power fantasy reddit» → encontró el debate «Knight Mains vs. Monster Mains»
+  (GameRant) y el titular de CBR sobre que el anime aún no llegó a la mejor sombra (Bellion); «"Beru" "mi rey"
+  Solo Leveling doblaje latino TikTok meme español» → encontró los dos vídeos de TikTok citados en el punto 22.
+- WebFetch: `gamerant.com/solo-leveling-igris-or-beru-fans-attempt-to-settle-rivalry-between-popular-jinwoo-shadows`
+  (fecha, autor y citas textuales de fans confirmadas).
+- `tiktok.com/oembed`: 2 vídeos verificados (autor, título, sonido) para el punto 22.
+- No se usó YouTube directo (pide iniciar sesión desde este servidor, según AYUDANTE.md); toda la evidencia de
+  audio salió de las muestras oficiales de Doblaje Wiki, ya en `datos-voz.md`.
+
+Puntos 7, 8, 12, 13, 20, 21 y 22 completos con lo obligatorio de cada uno, con foco añadido en cómo hablan y
+suenan las sombras (Beru, Igris y las secundarias Iron, Bellion, Kaisel, Kargalgan/Colmillo), tal como pide el
+encargo. Lo que falta son extras ya anotados en «No encontré» (fotograma propio con minuto de Beru/Igris, tarea
+del investigador de vídeo; voz de Iron ya como sombra y de Bellion, inexistentes en el doblaje emitido; un hilo
+de Reddit puntuado específico de la escena de Beru). No queda ningún punto obligatorio pendiente de esta parte.
+
