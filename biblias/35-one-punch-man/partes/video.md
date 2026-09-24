@@ -22,6 +22,18 @@ Fandom (con Referer). Vi de verdad 4 vídeos con `herramientas/episodio.py` /
 
 ---
 
+**Aviso sobre resolución real** (afecta al punto 2, que pide «1080p o más»): comprobé
+con `yt-dlp -F` la resolución real servida por Dailymotion para los 4 clips que miré, y
+en los 4 casos es **512×288** (el único formato HLS disponible sin iniciar sesión),
+muy por debajo de lo que anuncian los títulos («HD», «4K»). Los títulos de los
+uploaders son publicidad, no la resolución real. **Sí conseguí 1080p real** en 2 casos,
+citando arte oficial/capturas de la wiki de Fandom en vez del vídeo: la ficha
+`Genos_vs_Saitama_spar.png` (1920×1080, medida por API) para el combate T1-05, y las
+imágenes ya citadas en biblia.md §2 (`wiki «S1E1…» 1920×1080`, etc.). Para el resto de
+escenas (Boros, el opening, el tráiler T3) sólo tengo la copia de 512×288: lo dejo con
+⚠️ en cuanto a resolución, aunque el contenido (diálogo, encuadre, color) sí lo
+confirmé viéndolo.
+
 ## Hallazgos
 
 ### Punto 2 · Escenas icónicas (lo nuevo; el resto ya está en biblia.md §2)
@@ -113,6 +125,13 @@ la wiki. Cito siempre de dónde sale cada paleta.
   ([Dailymotion x8tl06u](https://www.dailymotion.com/video/x8tl06u?start=47)) · ✅.
   **Este atardecer rojo/rosa es la paleta propia de la temporada 3** (Garou), distinta
   del gris-azulado de Z-City y del negro-rojo de la pelea con Boros.
+- **El dojo de Bang (Silver Fang)**: en la cima de una montaña altísima, solo se llega
+  por una **escalera de madera tallada en la roca** (cientos de escalones); un
+  aspirante llega en coche y mira hacia arriba. Es manga en blanco y negro (sin color
+  que medir, saturación 0% confirmada con `estilo.py`), pero es el único sitio "de
+  madera" claro de la serie (el resto es ciudad/metal/roca) — sirve para la textura de
+  madera que pide el punto 4 · [wiki, `Bang's_dojo.png`](https://static.wikia.nocookie.net/onepunchman/images/4/4d/Bang%27s_dojo.png)
+  1908×3024 (medido) · ✅ (imagen + descripción de la wiki del personaje Bang).
 - **Texturas reales equivalentes (CC0)**, por sitio:
   - Ruinas/hormigón de la ciudad destruida → **Concrete034** (ambientCG, CC0) —
     https://ambientcg.com/view?id=Concrete034
@@ -120,6 +139,8 @@ la wiki. Cito siempre de dónde sale cada paleta.
     https://ambientcg.com/view?id=Metal063
   - Roca del cañón/la Luna → **Rock063** (ambientCG, CC0) —
     https://ambientcg.com/view?id=Rock063
+  - Escalera de madera del dojo de Bang → **WoodFloor064** (ambientCG, CC0) —
+    https://ambientcg.com/view?id=WoodFloor064
   - ✅ (API de ambientCG, licencia CC0 confirmada en la propia ficha del recurso).
 
 ---
@@ -267,6 +288,46 @@ Cito hoja y minuto del vídeo fuente.
 3. **Mirando a Saitama de reojo con el ceño fruncido**, aceptando que no puede
    explicarle su fuerza — postura recta, brazos a los lados. Sirve para **pensar/
    admirar**. · min. 3:03-3:08, mismo vídeo · ✅.
+
+### Tatsumaki
+
+El encargo la pide entre los 4 personajes para empezar; no la vi en vídeo esta tanda
+(no encontré un clip suyo completo y decente en Dailymotion), así que estas 3 poses
+salen de **arte oficial de la wiki, mirado por mí** (no de memoria):
+
+1. **Brazos cruzados, ceño fruncido, de pie sobre escombros** — postura cerrada y
+   arisca, típica de ella. Sirve para **regañar**. ·
+   [wiki, `Tatsumaki_Anime_Profile_Shot.png`](https://static.wikia.nocookie.net/onepunchman/images/6/62/Tatsumaki_Anime_Profile_Shot.png)
+   1040×1078 (medido) · ✅.
+2. **Señalando a cámara con un dedo, ceja levantada, primer plano** — gesto de orden
+   o desprecio (le dice a Saitama que se vaya). Sirve para **regañar/explicar**. ·
+   [wiki, `Tatsumaki_tells_Saitama_to_leave.png`](https://static.wikia.nocookie.net/onepunchman/images/b/b6/Tatsumaki_tells_Saitama_to_leave.png)
+   1920×1080 (medido, screenshot real del anime) · ✅. Esta es la escena de «¿Y esta
+   niña perdida tan insolente?» ya citada en biblia.md §2 (item 12): mismo momento,
+   dos ángulos.
+3. **Flotando con los brazos en alto, pelo y ropa desgarrándose por la energía**,
+   cara con los ojos muy abiertos por el esfuerzo — levantando toda la base de la
+   Asociación de Monstruos desde bajo tierra. Sirve para **el máximo esfuerzo/clímax
+   de poder**. · [wiki, `Tatsumaki_lifts_Monster_Association_base_out_of_ground.png`](https://static.wikia.nocookie.net/onepunchman/images/e/e3/Tatsumaki_lifts_Monster_Association_base_out_of_ground.png)
+   1568×1145 (medido; página de manga, blanco y negro) · ✅ (ya citada de pasada en
+   biblia.md §2, item 20; aquí la describo como pose).
+
+### Mumen Rider
+
+No repito el visionado (ya lo hizo a fondo la pasada anterior, biblia.md §2, item 9-11,
+con el mismo clip que cito aquí de nuevo para no perder la referencia): **T1-09,
+[Dailymotion x8rl50h](https://www.dailymotion.com/video/x8rl50h)**. Las poses, leídas
+de esas citas ya verificadas:
+
+1. **Lanza su bicicleta al suelo y se planta firme** ante el Rey del Mar Profundo, sin
+   ninguna superpotencia. Sirve para **presentar/decidirse**. · min. 3:00 · ✅ (dos
+   fuentes: cita ya en biblia.md + clip).
+2. **De pie bajo la lluvia, empapado, mirando al monstruo** mientras dice «I'm weak. I
+   know that much... And yet, I have to try». Postura recta pese al miedo. Sirve para
+   **animar(se) a uno mismo**. · min. 4:00-4:12 · ✅.
+3. **Atrapado en el aire por Saitama tras caer derrotado**, cuerpo flojo, exhausto.
+   Sirve para **el momento de rescate/agradecimiento** (Saitama: «You did well. Nice
+   fight.»). · min. 5:12 · ✅.
 
 ### Boros (de paso, para escenas de villano; no es de los 4 personajes del encargo pero
 sale en la pelea más citada)

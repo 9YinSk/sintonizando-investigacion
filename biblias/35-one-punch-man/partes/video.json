@@ -81,30 +81,75 @@
     "licencia": "vídeo de un canal de medios en Dailymotion; solo como referencia, no descargar/reusar el clip"
   },
   {
-    "url": "https://ambientcg.com/view?id=Concrete034",
-    "fuente": "ambientCG",
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Concrete034.png",
+    "fuente": "ambientCG (ficha: https://ambientcg.com/view?id=Concrete034)",
     "ancho": 2048,
     "alto": 2048,
-    "que_es": "Textura de hormigón/concreto CC0 (mapa PBR).",
+    "que_es": "Textura de hormigón/concreto CC0 (mapa de color; el recurso trae además normal, rugosidad y desplazamiento).",
     "para_que": "Textura real equivalente para las ruinas y edificios destruidos de la serie (punto 4).",
     "licencia": "CC0"
   },
   {
-    "url": "https://ambientcg.com/view?id=Metal063",
-    "fuente": "ambientCG",
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Metal063.png",
+    "fuente": "ambientCG (ficha: https://ambientcg.com/view?id=Metal063)",
     "ancho": 2048,
     "alto": 2048,
-    "que_es": "Textura de metal CC0 (mapa PBR).",
+    "que_es": "Textura de metal envejecido/oxidado CC0 (mapa de color; trae normal, rugosidad y metalness).",
     "para_que": "Textura real equivalente para el cuerpo/armadura de Genos y otros robots (punto 4).",
     "licencia": "CC0"
   },
   {
-    "url": "https://ambientcg.com/view?id=Rock063",
-    "fuente": "ambientCG",
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Rock063.png",
+    "fuente": "ambientCG (ficha: https://ambientcg.com/view?id=Rock063)",
     "ancho": 2048,
     "alto": 2048,
-    "que_es": "Textura de roca CC0 (mapa PBR).",
+    "que_es": "Textura de roca/acantilado CC0 (mapa de color; trae normal, rugosidad y oclusión ambiental).",
     "para_que": "Textura real equivalente para el cañón de entrenamiento y la superficie lunar (punto 4).",
     "licencia": "CC0"
+  },
+  {
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/WoodFloor064.png",
+    "fuente": "ambientCG (ficha: https://ambientcg.com/view?id=WoodFloor064)",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de madera (tablones) CC0 (mapa de color; trae normal, rugosidad y desplazamiento).",
+    "para_que": "Textura real equivalente para la escalera de madera del dojo de Bang, el único sitio de madera claro de la serie (punto 4).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/6/62/Tatsumaki_Anime_Profile_Shot.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Tatsumaki»",
+    "ancho": 1040,
+    "alto": 1078,
+    "que_es": "Tatsumaki de pie sobre escombros, brazos cruzados, ceño fruncido.",
+    "para_que": "Pose característica de Tatsumaki (cerrada, arisca) para el punto 14.",
+    "licencia": "captura del anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/b/b6/Tatsumaki_tells_Saitama_to_leave.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Tatsumaki»",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Primer plano de Tatsumaki señalando a cámara, ceja levantada (le dice a Saitama que se vaya, T1-10).",
+    "para_que": "Pose de 'regañar/dar una orden' para el punto 14; mismo momento que la cita 'niña perdida' de biblia.md §2.",
+    "licencia": "captura del anime, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/e/e3/Tatsumaki_lifts_Monster_Association_base_out_of_ground.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Z-City»",
+    "ancho": 1568,
+    "alto": 1145,
+    "que_es": "Página de manga en blanco y negro: Tatsumaki flotando, brazos en alto, levantando toda la base de la Asociación de Monstruos desde bajo tierra.",
+    "para_que": "Pose de máximo esfuerzo/poder para el punto 14.",
+    "licencia": "arte del manga, uso de referencia no comercial (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/4/4d/Bang%27s_dojo.png",
+    "fuente": "One-Punch Man Wiki (Fandom), página «Z-City»",
+    "ancho": 1908,
+    "alto": 3024,
+    "que_es": "Página de manga en blanco y negro: el dojo de Bang en la cima de una montaña, con una escalera de madera tallada en la roca.",
+    "para_que": "Referencia de sitio (montaña + escalera de madera) para el punto 4; sin color que medir (es manga).",
+    "licencia": "arte del manga, uso de referencia no comercial (wiki de fans)"
   }
 ]
