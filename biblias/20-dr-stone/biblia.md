@@ -644,7 +644,7 @@ maneras:
 
 | Soporte | Dónde se ve | Estado |
 |---|---|---|
-| **La hoja de ruta** (ロードマップ) | La primera, hacia la medicina: «これは万能薬へ向かう科学のロードマップだ» (1×08, 00:03:26; el subtítulo va arriba, sobre el dibujo). La del móvil: 1×19, 00:21:25 y 1×21, 00:13:00. La del cohete: 4×24, 00:21:32 | ✅ existe; el aspecto ⚠️ |
+| **La hoja de ruta** (ロードマップ) | La primera, hacia la medicina: «これは万能薬へ向かう科学のロードマップだ» (1×08, 00:03:26; el subtítulo va arriba, sobre el dibujo). La del móvil: 1×19, 00:21:25 y 1×21, 00:13:00. La del cohete: 4×24, 00:21:32. **Vista en la 2.ª pasada** ([1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267) y la del cohete del manga, §3.3): **árbol de habilidades de videojuego**, nodos redondos o cajas de borde grueso, flechas-tubo con trama, «START!» y «GOAL» con rayos detrás | ✅ vista |
 | **El «¡…, listo!»** (クリア) en cadena | 1×23, 00:21:04 a 00:21:16 y 1×24, 00:00:03 a 00:00:10: cada uno anuncia su pieza terminada | ✅ |
 | **Mecha Senku** (メカ千空), el robot que explica | 1×04, 00:05:08: «¡Buenas! Me llamo Mecha Senku. Todas estas recetas son de verdad. **No lo intentes en casa**». Vuelve en 1×11, 1×15, 1×22, 2×02, 2×05, 3×09, 3×18, 4×17, 4×18, 4×25 y 4×28 (23 líneas en total) | ✅ |
 | **El test de Gen** (A, B, C y «¡Correcto!») | 2×01, 00:15:25 a 00:15:34 | ✅ |
@@ -662,9 +662,9 @@ lectores en los tomos ✅ ([Fandom, personajes menores](https://dr-stone.fandom.
 
 | Quién | Cómo habla | Ejemplo (minuto) |
 |---|---|---|
-| **Senku** | Rudo y rápido, habla «de chico de barrio» (テメー, ブチ〜, アホほど). **Exagera con 100億** (diez mil millones): «100億％», «100億倍». Se ríe **«ククク»** (343 veces en la serie). Explica con recetas cortas: «足し算引き算» | 1×23, 00:15:40: «La química es sumar y restar» |
+| **Senku** | Rudo y rápido, habla «de chico de barrio» (テメー, ブチ〜, アホほど). **Exagera con 100億** (diez mil millones): «100億％», «100億倍». Se ríe **«ククク»** (343 veces en la serie). Explica con recetas cortas: «足し算引き算». **2.ª pasada**, según la trivia de la wiki: «**Not one millimeter**» (ni un milímetro) cuando algo es imposible, y «This is exhilarating» / «Get excited» ante un avance ✅ ([Fandom, Senku](https://dr-stone.fandom.com/wiki/Senku_Ishigami#Trivia)) | 1×23, 00:15:40: «La química es sumar y restar» |
 | **Chrome** | Chico de aldea, entusiasta. Dice **«ヤベえ»** (¡qué fuerte!, ¡qué pasada!) sin parar (la palabra sale 185 veces en la serie, en boca de varios). Grita **«しゃあ!»** al ganar | 1×24, 00:04:34: «¿Lo ves, Ruri? ¡La ciencia es la bomba!» |
-| **Gen** | Habla con **jerga al revés de la tele japonesa** (倒語): **ジーマー** (maji, «en serio»), **バイヤー** (yabai, «qué fuerte»), **ドイヒー** (hidoi, «qué crueldad»), **ゴイスー** (sugoi, «increíble»), **リームー** (muri, «imposible»). Añade «〜ちゃん» a todos («千空ちゃん») ✅ ([Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10319251340), [pixiv 業界用語](https://dic.pixiv.net/a/%E6%A5%AD%E7%95%8C%E7%94%A8%E8%AA%9E)) | 1×23, 00:19:15: «ドイヒ～» (¡qué crueldad!) al saber que son 800 pilas |
+| **Gen** | Habla con **jerga al revés de la tele japonesa** (倒語): **ジーマー** (maji, «en serio»), **バイヤー** (yabai, «qué fuerte»), **ドイヒー** (hidoi, «qué crueldad»), **ゴイスー** (sugoi, «increíble»), **リームー** (muri, «imposible»). Añade «〜ちゃん» a todos («千空ちゃん») ✅ ([Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10319251340), [pixiv 業界用語](https://dic.pixiv.net/a/%E6%A5%AD%E7%95%8C%E7%94%A8%E8%AA%9E)). **El mecanismo** (2.ª pasada): parte la palabra en sílabas y **pone la primera al final** («yabe» → «beya», «muri» → «rimu»); en inglés se tradujo con *Pig Latin* («crazy» → «azy-cray») ✅ ([Fandom, Gen](https://dr-stone.fandom.com/wiki/Gen_Asagiri#Trivia)) | 1×23, 00:19:15: «ドイヒ～» (¡qué crueldad!) al saber que son 800 pilas |
 | **Kaseki** | Viejo artesano: «**オホー!**», «〜じゃい», «〜ぞい», «ワシ» (yo). Sube la voz cuando se emociona | 1×11, 00:15:53: «¡Oh-ho! ¡Que llevo cincuenta años de artesano!» |
 | **Suika** | Niña: habla de sí misma en tercera persona («スイカは…») y termina en **«〜なんだよ»** | 1×08, 00:09:17: «Suika quiere ayudar» |
 | **Kohaku** | Guerrera, frases firmes, «〜のだ», «めっぽう» | 1×23, 00:19:43: «¿Y cuál es el tal micrófono?» |
@@ -689,7 +689,27 @@ lectores en los tomos ✅ ([Fandom, personajes menores](https://dr-stone.fandom.
 
 ### 7.4 En los videojuegos de la franquicia
 
-Ver §13. De su caja de diálogo **no encontré capturas** ⚠️.
+**2.ª pasada: la caja de diálogo existe y se vio** en las capturas de la
+ficha de *Dr.STONE Battle Craft* en [Google Play](https://play.google.com/store/apps/details?id=com.poppingames.dsbc&hl=en_US)
+([captura del diálogo, 512×236](https://play-lh.googleusercontent.com/PkUHa17AsrSFd-aAR4u6vks7a8RB2IThAY1LkudkxC5iGyp4qyUuVjRGBnnLIvMqfbuYxHuG)).
+Medida con `estilo.py` ✅:
+
+- Un **cuadro con las esquinas cortadas en bisel** (octogonal), **nunca
+  redondo**.
+- **Borde fino cian claro** `#7EB6DF` / `#C7DCEC`.
+- **Relleno azul verdoso oscuro semitransparente** `#21403D` / `#2F5D5D`,
+  para leer sobre el fondo del juego.
+- **El nombre** («Senku») va en **una etiqueta más pequeña arriba a la
+  izquierda**, unida al cuadro por una línea diagonal con un circulito
+  como un remache.
+- **Texto blanco con borde oscuro**, sin rayas ni comillas.
+- Abajo a la derecha, un icono para avanzar.
+- En la imagen se lee el crédito «©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
+  ©Poppin Games Japan Co., Ltd.».
+
+Es el mismo lenguaje que el test de Gen y el «¡…, listo!»: **cajas de
+esquinas cortadas**. Sirve de molde para las **etiquetas de precio** de
+la lámina 2. Más del juego en §13.
 
 ### 7.5 Qué NO hacer con el texto
 
@@ -698,15 +718,19 @@ Ver §13. De su caja de diálogo **no encontré capturas** ⚠️.
   **todo está hecho a mano**.
 - Escribir **«10 millones por ciento»**: es «**10 mil millones**». El
   actor latino lo grabó mal una vez y hubo que regrabar (§10).
-- Poner la jerga de Gen en japonés sin traducir: el doblaje latino la
-  cambia (no encontré cómo ⚠️).
+- Inventarle a Gen una jerga al revés en español: **en el doblaje latino
+  habla normal**, su 倒語 no se adaptó (2.ª pasada: «Datos de interés» de
+  Doblaje Wiki) ⚠️ una fuente.
 - Rayas «—», «·» o paréntesis en los textos (regla del dueño).
 
 ---
 ## 8 · Los personajes
 
 Lo que está en el subtítulo va con su minuto ✅. El aspecto físico y los
-gestos que no salen en el texto son **de memoria** ⚠️.
+gestos que no salen en el texto eran **de memoria** ⚠️ en la 1.ª pasada.
+**2.ª pasada**: cada personaje lleva debajo lo nuevo (trivia de la wiki,
+colores medidos, voces medidas con `voz.py`). Gustos, cumpleaños y alturas
+en §18.3; caras vistas en vídeo en §15.
 
 ### Senku Ishigami (石神千空) — el protagonista, 2.º en votos (2021 y 2023)
 
@@ -739,6 +763,24 @@ gestos que no salen en el texto son **de memoria** ⚠️.
   aliada), Taiju y Yuzuriha (sus amigos de antes).
 - **Voz**: japonés **Yusuke Kobayashi** ✅ ([GetNews](https://getnews.jp/archives/3726522));
   latino **Alejandro Orozco** ✅ (§10).
+- **2.ª pasada**:
+  - **Aspecto medido**: túnica **crema `#F5EBD6`** (no blanca), pelo de
+    raíz **`#D0CEBF`** y puntas verde salvia **`#5D906A`** (sombra
+    `#2E5538`), ojos **`#59050F`** rojo sangre oscuro, piel `#D0B6A1` ✅
+    (§16).
+  - Muletillas de la wiki: «**ni un milímetro**» para lo imposible; «esto
+    es emocionante» ante un avance ✅ ([Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami#Trivia)).
+  - Chiste recurrente: **se casó con Ruri y se divorció casi al momento**;
+    lo usa para cortar coqueteos ✅. Explica su sequedad con el romance
+    sin ser frío de verdad.
+  - Es **alérgico a la laca urushi**: se le hincha la cara ⚠️ (una fuente,
+    la wiki). Sirve para una cara de incomodidad distinta.
+  - **Boichi**: «Esos bolsillos representan lo que Senku está pensando»;
+    tiene más bolsillos cuando está en peligro ✅ ([SLJ, AnimeNYC 2019](https://goodcomicsforkids.slj.com/2019/12/20/animenyc-a-peek-behind-the-scenes-of-dr-stone/)).
+    En la lámina, **herramientas visibles encima**, nunca las manos vacías.
+  - Voz del actor medida (carrete general, no Senku en pantalla):
+    registro medio, **174 Hz**, muy expresivo (26,3 semitonos), velocidad
+    normal (2,51 palabras/s) ⚠️ como retrato del personaje.
 
 ### Gen Asagiri (あさぎりゲン) — el más querido, 1.º en votos (2021 y 2023)
 
@@ -760,7 +802,28 @@ gestos que no salen en el texto son **de memoria** ⚠️.
   compra» (00:35:51) ✅. **Es el vendedor perfecto para #hardware.**
 - **Aspecto** ⚠️: pelo partido en dos colores, negro y blanco; ropa
   larga oscura, de mago; manos que siempre hacen algo (cartas, gestos).
-- **Voz**: latino **Brandon Santini** ✅ (§10).
+- **Voz**: latino **Brandon Santini** ✅ (§10); desde el ep. 76, **Iván
+  García**.
+- **2.ª pasada**:
+  - **Pelo**: según la wiki, «bicolor, mitad izquierda corta y negra,
+    mitad derecha blanca» ✅. Ojo: la parte de imagen lo describe al revés
+    mirando el dibujo (izquierda del que mira). Comprobar en `vestuario_01`
+    nº228 antes de dibujar ⚠️.
+  - **Ropa**: abrigo o capa larga, cuello alto, silueta oscura ✅ (dos
+    imágenes vistas). **El color de la tela no se pudo medir**: las dos
+    imágenes tienen luz de atardecer o violeta ⚠️.
+  - **Sólo bebe cola**, nunca alcohol: «strictly a cola man» ✅
+    ([Fandom](https://dr-stone.fandom.com/wiki/Gen_Asagiri#Trivia)).
+  - Lleva siempre **una baraja de cartas hechas a mano** con **tres
+    comodines** con frases escritas ✅. Su flor para los trucos es la
+    **hierba mora negra**, que en el lenguaje de las flores significa
+    **«mentiroso»** ✅.
+  - **Esconde las manos y encorva la espalda**, y parece más bajo de lo
+    que es ⚠️ (una fuente, un post citado en la wiki).
+  - **Voz latina medida** con `voz.py` en la [muestra de Doblaje Wiki](https://static.wikia.nocookie.net/doblaje/images/6/6b/GenAsagiriBrandonSantini.mp3)
+    (Gen a Magma): «Espera un momentito, por favor. ¿A dónde vas?… No es
+    tan sencillo como crees, Magma». **Muy aguda (398 Hz), muy expresiva
+    (22,9 semitonos), rápida (3,1 palabras/s)** ✅: la voz que vende rápido.
 
 ### Chrome (クロム) — el aprendiz, 7.º en votos (2021)
 
@@ -780,6 +843,15 @@ gestos que no salen en el texto son **de memoria** ⚠️.
 - **Aspecto** ⚠️: pelo oscuro y de punta recogido, ropa de aldea de
   cáñamo, bolsa de piedras.
 - **Voz**: latino **José Luis Piedra** ✅.
+- **2.ª pasada**:
+  - **Camisa azul petróleo `#245E6B`**, medida en [`Chrome's determination.png`](https://static.wikia.nocookie.net/dr-stone/images/4/41/Chrome%27s_determination.png)
+    (1920×1080); la wiki dice «camisa azul oscuro de manga corta» ✅. Lleva
+    **el logo del Reino de la Ciencia en las mangas** (texto de la wiki; no
+    hay primer plano limpio ⚠️).
+  - Su nombre es **el cromo** (Cr, número 24) y nació **el 4 de febrero**,
+    2/4 = 24: chiste del autor ✅.
+  - Gag: **Kohaku le pega cuando la llama «gorila»**, y sólo a él (a veces
+    a Ginro); a Senku, que dice lo mismo, no ✅.
 
 ### Kaseki (カセキ) — el artesano
 
@@ -798,6 +870,19 @@ gestos que no salen en el texto son **de memoria** ⚠️.
 - **Qué le importa**: **hacer cosas nunca vistas con las manos**. Se
   pica si le retan (Gen lo provoca, 1×23, 00:15:02) ✅.
 - **Voz**: latino **Óscar Rangel** ✅.
+- **2.ª pasada**:
+  - **Túnica con capucha marrón cuero `#5B4A34`**, sombra `#362C1D`,
+    medida en [`Kaseki Anime Profile.png`](https://static.wikia.nocookie.net/dr-stone/images/7/71/Kaseki_Anime_Profile.png)
+    (621×946); la wiki: «como el hábito de un monje» ✅.
+  - **Se le rompe la ropa al emocionarse**, incluso la difícil de hacer que
+    le cosió Yuzuriha ✅. Si se le pone ropa nueva, que quede **rota o a
+    punto de romperse**.
+  - **Le duele que desguacen sus vehículos** (el primer coche, el
+    laboratorio móvil, el barco Perseus); se consuela si sabe que se
+    reconstruirán en algo mejor ✅ ([Fandom](https://dr-stone.fandom.com/wiki/Kaseki#Trivia)).
+    Tristeza propia: no llora, **se queda en silencio mirando la máquina**.
+  - En *Battle Craft* sale **envuelto en llamas con un martillo**
+    (`settei_01` nº261) ✅.
 
 ### Suika (スイカ) — la pequeña exploradora, 12.ª en votos (2021)
 
@@ -820,6 +905,17 @@ gestos que no salen en el texto son **de memoria** ⚠️.
   採るんだよ 黒い砂!» (Suika va a sacar un montón de arena negra, 1×08,
   00:10:19) ✅.
 - **Voz**: latino **Valeria Mejía** ✅.
+- **2.ª pasada**:
+  - **Colores medidos** en las hojas de modelo oficiales (settei, 1200×848,
+    [con casco](https://static.wikia.nocookie.net/dr-stone/images/c/c7/Suika_with_Melon_TV_Animation_Design_Sheet.png) y
+    [sin casco](https://static.wikia.nocookie.net/dr-stone/images/5/58/Suika_without_Melon_TV_Animation_Design_Sheet.png)):
+    casco **`#B4C856`** con rayas **`#70872B`**, poncho **`#373C42`**
+    (azul gris casi negro), pelo **`#F3DD89`** ✅.
+  - **El casco lo hizo Kaseki**, no ella ✅. **Dejó de hablar en tercera
+    persona al crecer** ✅ ([Fandom](https://dr-stone.fandom.com/wiki/Suika#Trivia)):
+    útil si se dibuja a Suika mayor.
+  - Sin casco (visto, [1×11, 16:45](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1005)):
+    ojos muy abiertos, boca abierta, sonrojo de rayitas.
 
 ### Los secundarios que conviene tener a mano
 
@@ -827,8 +923,9 @@ gestos que no salen en el texto son **de memoria** ⚠️.
 |---|---|---|
 | **Ukyo Saionji** (西園寺羽京), 4.º en votos (2021) | Fue **sonarista**; su oído lo oye todo (3×04, 00:07:57). **El de los auriculares** | Eduardo Garza ✅ |
 | **Minami Hokutozai** (北東西南) | Periodista. Llora con **su cámara** nueva (3×02, 00:18:12). **La de la cámara** | ⚠️ no la busqué |
-| **Ryusui Nanami** (七海龍水), 3.º en votos (2021) | Rico, lo quiere todo, emite **el Drago**, **compra lo más caro** (especial, 00:35:51). **El de «Más de 400»** | Óscar Flores ✅ |
-| **Kohaku** (コハク), 2.ª en 2018 | Hace el micrófono con Kinro y Ginro; dice «**¡Micrófono, listo!**» (1×23, 00:21:16) | Alicia Barragán ✅ |
+| **Ryusui Nanami** (七海龍水), 3.º en votos (2021) | Rico, lo quiere todo, emite **el Drago**, **compra lo más caro** (especial, 00:35:51). **El de «Más de 400»**. Cita de la wiki: «**Mi instinto de marinero nunca falla**» ✅. Pose oficial: puño en alto con un estallido de luz ([tráiler, 0:27](https://www.dailymotion.com/video/x8bnxd8?t=27)) | Óscar Flores ✅ |
+| **Tsukasa Shishio** (獅子王司) | El rival: quiere un mundo sin ciencia moderna ni jerarquías; su apellido significa **«rey león»** ✅ | Arturo Cataño ✅ (2.ª pasada) |
+| **Kohaku** (コハク), 2.ª en 2018 | Hace el micrófono con Kinro y Ginro; dice «**¡Micrófono, listo!**» (1×23, 00:21:16). Vista mirando la sal de Rochelle (§2.5). Según la wiki, **la primera en pisar la Luna** ✅ | Alicia Barragán ✅ |
 | **Nikki Hanada** (花田仁姫) | Superfán de Lillian: **corrige la imitación de Gen** como una directora (2×07, 00:03:06) | ⚠️ |
 | **Byakuya y Lillian** | La voz grabada y la canción del disco (1×24) | ⚠️ |
 
@@ -857,8 +954,27 @@ En la web japonesa **Nijimen** (público femenino), **1.º Gen** ⚠️
 **Dengeki Online** (junio de 2026) no vi el resultado ⚠️
 ([Dengeki](https://dengekionline.com/article/202606/78820)).
 
-**Conclusión**: **Gen es el más querido** desde 2021 y gana en todas las
-franjas de edad en 2023. **Senku** es la cara de la serie. Para #hardware
+**2.ª pasada, votos de fans fuera de Japón:**
+
+- **AniList**, favoritos de usuarios (no es encuesta, es otro tipo de
+  voto): **1.º Senku (15.479)**, 2.º Gen (5.241), 3.º Kohaku (3.237),
+  4.º Chrome (2.779), 5.º Suika (2.287), 7.º Tsukasa (2.025), 9.º Kaseki
+  (985) ✅ ([AniList](https://anilist.co/anime/105333)). Ojo: aquí **Senku
+  gana con mucha ventaja**; Gen es 2.º. Suika y Kaseki suben mucho frente
+  a las encuestas de Jump.
+- **MyAnimeList**: 31.662 usuarios tienen la serie entre sus favoritas, de
+  1.974.878 miembros ✅ ([MAL](https://myanimelist.net/anime/38691), vía
+  la API de Jikan).
+- **Premio**: **Senku ganó «Mejor protagonista»** en los 4.º Crunchyroll
+  Anime Awards (2020) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/4th_Crunchyroll_Anime_Awards), [CBR](https://www.cbr.com/crunchyroll-anime-award-winners/)).
+  Suika, nominada en 2025 y 2026 ⚠️ (la categoría exacta no se confirmó).
+- Reddit: «Is Ryusui Nanami your favorite character?», 615 votos ⚠️
+  ([r/DrStone](https://www.reddit.com/r/DrStone/comments/1rnfnto/)).
+- La encuesta de Dengeki Online (junio 2026) sigue **sin verse** ⚠️.
+
+**Conclusión**: en Japón, **Gen es el más querido** desde 2021 y gana en
+todas las franjas de edad en 2023. Fuera de Japón (AniList, premios),
+**Senku** va primero. **Senku** es la cara de la serie. Para #hardware
 funcionan los dos: **Senku fabrica**, **Gen vende y explica los precios**.
 Kaseki y Suika son muy reconocibles pero no están arriba en votos.
 
@@ -866,12 +982,13 @@ Kaseki y Suika son muy reconocibles pero no están arriba en votos.
 
 ## 10 · Doblaje latino
 
-> [!note] Doblaje Wiki no se abre desde aquí
-> Ni su API (`action=parse`) ni la web. Cada nombre lo di por bueno cuando
-> salió en **dos búsquedas distintas**: una abierta (que incluye Doblaje
-> Wiki, Atamashi, Depor y Atomix) y otra limitada a prensa (Depor,
-> Gamerfocus, TierraGamer, Arata, Versus Media). Antes de rotular,
-> conviene abrir Doblaje Wiki una vez.
+> [!note] 2.ª pasada: Doblaje Wiki ya se abrió
+> En la 1.ª pasada no se abría, y cada nombre se dio por bueno con dos
+> búsquedas distintas (una abierta con Doblaje Wiki, Atamashi, Depor y
+> Atomix; otra sólo de prensa: Depor, Gamerfocus, TierraGamer, Arata,
+> Versus Media). Ahora se leyó **el wikitext completo por la API**
+> ([action=parse](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Dr._Stone), 32.300 caracteres). Donde la 1.ª pasada y la API
+> coinciden, ✅. Lo que sólo sale en la API, ⚠️ una fuente.
 
 ### 10.1 Reparto
 
@@ -887,14 +1004,57 @@ Kaseki y Suika son muy reconocibles pero no están arriba en votos.
 | **Ryusui** | **Óscar Flores** | ✅ |
 | **Taiju** | **Miguel Ángel Ruiz** | ✅ |
 | **Yuzuriha** | **Jessica Ángeles** | ✅ |
-| **Tsukasa** | Arturo Cataño | ⚠️ una búsqueda |
+| **Tsukasa** | Arturo Cataño | ✅ (2.ª pasada: búsqueda + API de Doblaje Wiki). De niño: José Gilberto Vilchis (ep. 24) y Diego Becerril (ep. 33) ⚠️ |
+| **Ruri** | Alexa Navarro | ✅ (Doblaje Wiki + AniList) |
+| **Magma** | Ismael Verástegui | ✅ (Doblaje Wiki + AniList) |
+
+**Cambios de voz** (2.ª pasada, Doblaje Wiki):
+
+- **Gen**: Santini dobla hasta el ep. 75. **Desde el ep. 76, Iván
+  García**: Santini se fue a dar clases a Colombia; el cambio es
+  permanente en la 3.ª parte de *Science Future* ✅ (una página, pero es la
+  ficha del propio doblaje).
+- Senku de niño: **Alejandro Orozco** en la 4.ª (ep. 64); en la 1.ª y la
+  3.ª, actor sin identificar. Taiju de niño: **Diego Becerril** (ep. 4).
+- Ryusui de niño: Pascual Meza (ep. 40) y Ellie Rojo (ep. 84).
+- Loops sueltos de otros actores: Senku en el ep. 31; Senku, Kohaku y
+  Ryusui en el ep. 76; Suika en el ep. 29 (Susana Moreno, que luego es
+  Mirai).
+
+**Secundarios y recurrentes** (sólo Doblaje Wiki ⚠️ una fuente cada uno,
+salvo donde se dice):
+
+| Personaje | Actor latino |
+|---|---|
+| Kinro | Alan Huarte (1.ª) → **Diego Estrada** (2.ª-4.ª) |
+| Ginro | **Francisco «Paco» Vargas**; un loop de Michell Cerón (ep. 79) |
+| Kokuyo | Alejandro Ortega |
+| François | **Carla Castañeda** (3.ª-4.ª) |
+| Soyuz | Carlo Vázquez; de bebé, Paola García |
+| Matsukaze | Alfredo Gabriel Basurto (eps. 48-66) → Óscar López (ep. 67) |
+| Sai Nanami | Tommy Rojas |
+| Jasper | Víctor Delgado (hasta el ep. 13) → Andrés García |
+| Mirai | Susana Moreno |
+| Episódicos | Anciano y Profesor (eps. 4 y 16): Hugo Navarrete y Bardo Miranda; Gozan (ep. 18): Hugo Núñez |
+
+Minami, Nikki, Byakuya, Lillian, Akashi, Sagara y otros: **sin actor
+identificado** en la propia Doblaje Wiki (sale «¿?»). No inventar.
 
 ### 10.2 Estudio, dirección y dónde se ve
 
-- **Estudio**: **Audiomaster Candiani** (México) ⚠️ (lo dicen los
-  resúmenes de ANMTV y Doblaje Wiki; no pude abrir ninguno).
-- **Dirección**: **Bardo Miranda** en la temporada 1 y **Jorge García**
-  desde la 2 hasta la primera parte de *New World* ⚠️ (una búsqueda).
+- **Estudio**: **Audiomaster Candiani** (México) ✅ (2.ª pasada: campo
+  `estudio_doblaje` de la ficha por la API, más los resúmenes de ANMTV de
+  la 1.ª pasada).
+- **Dirección** (2.ª pasada, ficha de Doblaje Wiki): **Bardo Miranda**
+  (1.ª temporada) · **Jorge García** (2.ª y 3.ª parte 1) · **Víctor
+  Medina** (3.ª parte 2) · **Jorge Reyes** (4.ª) ✅ (las dos primeras ya
+  salían en la búsqueda de la 1.ª pasada; las dos últimas, una fuente ⚠️).
+- **Traducción**: Regina Barajas (1.ª-2.ª), Lesslye Munguía Bautista (3.ª),
+  Jaime Chaparro (4.ª). Audio de referencia: el japonés; guiones de
+  Crunchyroll. 93 episodios doblados, 2020-2026 ⚠️ (una fuente).
+- **Entrevista al reparto principal**, canal Funianime:
+  [YouTube](https://www.youtube.com/watch?v=6A0cUyBgMc0) ⚠️ (existe, por
+  `oembed`; no se pudo ver: YouTube pide iniciar sesión).
 - **Crunchyroll** anunció el doblaje el 31 de octubre de 2020 ⚠️. Hubo
   doblaje del especial *Ryusui* ([ANMTV, 2022](https://www.anmtvla.com/2022/08/dr-stone-ryusui-crunchyroll-estrena-el.html)),
   *simuldub* de *New World* ([ANMTV, 2023](https://www.anmtvla.com/2023/04/dr-stone-3-temporada-comienza-su.html))
@@ -917,7 +1077,17 @@ Kaseki y Suika son muy reconocibles pero no están arriba en votos.
 | Ginro | «Con permisito, dijo Ginrito» (guiño a Don Ramón) | ⚠️ sólo Doblaje Wiki (según la guía de cuadros de diálogo) |
 | Gen (Santini) | «Calladito te ves más bonito» | ⚠️ sólo Doblaje Wiki |
 | Senku | «唆るぜ これは» en latino | **No lo encontré** ⚠️. No lo inventes: pide el fotograma del episodio doblado |
-| Gen | Su jerga al revés (ジーマー…) en latino | **No lo encontré** ⚠️ |
+| Gen | Su jerga al revés (ジーマー…) en latino | **No se adaptó: habla normal** ⚠️ (2.ª pasada, «Datos de interés» de Doblaje Wiki) |
+| Senku | En 3×01 dice que harán un mapa «**como en Minecraft**»; en japonés no nombra ningún juego | ⚠️ sólo Doblaje Wiki (2.ª pasada) |
+| Gen y Suika | Ep. 9: Gen dice «harén» en español y Suika lo pronuncia en inglés | ⚠️ sólo Doblaje Wiki (2.ª pasada) |
+| Gen (Santini), muestra de audio | «Espera un momentito, por favor. ¿A dónde vas?… No es tan sencillo como crees, Magma» | ✅ oída con `voz.py` ([mp3](https://static.wikia.nocookie.net/doblaje/images/6/6b/GenAsagiriBrandonSantini.mp3)); sin episodio ⚠️ |
+
+**Clips oficiales doblados**: la 1.ª pasada citó dos de Crunchyroll
+([«La magia de Gen»](https://www.youtube.com/watch?v=Z3r3E6KgtUE) y
+«Problemas malotes»). En la 2.ª pasada YouTube pidió iniciar sesión y
+**no se pudieron bajar sus subtítulos** ⚠️: sus frases textuales siguen
+sin minuto. Tampoco hay muestras con nombre de personaje para Kaseki,
+Chrome ni Suika en Doblaje Wiki.
 
 ---
 
@@ -925,12 +1095,19 @@ Kaseki y Suika son muy reconocibles pero no están arriba en votos.
 
 | Temporada | Opening | Ending | Estado |
 |---|---|---|---|
-| T1, 1.ª parte (2019) | «Good Morning World!», **BURNOUT SYNDROMES** | «LIFE», **Rude-α** | ✅ |
-| T1, 2.ª parte | «三原色» (Sangenshoku), **PELICAN FANCLUB** | «夢のような», 佐伯ユウスケ | OP ✅, ED ⚠️ |
+| T1, 1.ª parte (2019) | «Good Morning World!», **BURNOUT SYNDROMES** | «LIFE», **Rude-α** | ✅. El OP1 sin créditos en 1080p, **mirado entero** en la 2.ª pasada ([Internet Archive](https://archive.org/details/dr-stone-op-1-ncbd-1080)) |
+| T1, 2.ª parte | «三原色» (Sangenshoku), **PELICAN FANCLUB** | «夢のような» (Yume no You na), **佐伯ユウスケ** (Yusuke Saeki); single del 20-nov-2019, vídeo de estilo pastel | ✅ (2.ª pasada: [SPICE](https://spice.eplus.jp/articles/257466), [BARKS](https://www.barks.jp/news/?id=1000172895), [Apple Music](https://music.apple.com/jp/album/%E5%A4%A2%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-tv%E3%82%A2%E3%83%8B%E3%83%A1-dr-stone-%E7%AC%AC2%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-ep/1484769945)) |
 | *Stone Wars* (2021) | «楽園» (Rakuen), **Fujifabric** | «声？» (Koe?), **Hatena** | ✅ ([ANN](https://www.animenewsnetwork.com/news/2020-11-15/fujifabric-hatena-perform-theme-songs-for-dr-stone-stone-wars-anime/.166333)) |
-| *New World*, 1.ª parte (2023) | «ワスレガタキ» (Wasuregataki), **Huwie Ishizaki** | «Where Do We Go?», OKAMOTO'S | OP ✅ ([vídeo oficial](https://www.youtube.com/watch?v=81H41vp96ag)), ED ⚠️ |
-| *New World*, 2.ª parte | «Haruka», Ryujin Kiyoshi | ⚠️ | ⚠️ ([ANN](https://www.animenewsnetwork.com/news/2023-08-26/dr-stone-new-world-anime-2nd-part-reveals-october-12-debut-theme-song-artists/.201655)) |
-| *Science Future* | 1.ª y 2.ª parte: sólo resúmenes contradictorios; 3.ª parte: [Animate Times](https://animatetimes.com/news/details.php?id=1775134655) | — | ⚠️ |
+| *New World*, 1.ª parte (2023) | «ワスレガタキ» (Wasuregataki), **Huwie Ishizaki** | «Where Do We Go?», **OKAMOTO'S** (single del 24-may-2023) | ✅ ([vídeo oficial](https://www.youtube.com/watch?v=81H41vp96ag)); ED ✅ en la 2.ª pasada ([ANN](https://www.animenewsnetwork.com/news/2023-03-25/dr-stone-new-world-anime-reveals-main-visual-ending-theme-song/.196419), [Anime Corner](https://animecorner.me/dr-stone-new-world-reveals-creditless-opening-and-ending-videos-for-1st-cour/)) |
+| *New World*, 2.ª parte | «Haruka», **Ryujin Kiyoshi** (es el **opening**) | «好きにしなよ» (Suki ni Shinayo), **Anly**; vídeo de **arte de arena** | ✅ (2.ª pasada: OP en [ANN](https://www.animenewsnetwork.com/news/2023-08-26/dr-stone-new-world-anime-2nd-part-reveals-october-12-debut-theme-song-artists/.201655); ED en [TMS en X](https://x.com/tmsanime/status/1714325403941421462) y [Fandom](https://dr-stone.fandom.com/wiki/Suki_ni_Shinayo)) |
+| *Science Future*, 1.ª parte (2025) | «CASANOVA POSSE», **ALI** | «Rolling Stone», **BREIMEN** | ✅ (2.ª pasada) |
+| *Science Future*, 2.ª parte | «SUPERNOVA», **KANA-BOON** | «no man's world», **音羽-otoha-** | ✅ (2.ª pasada) |
+| *Science Future*, 3.ª parte (2026) | «スキンズ» (Skins), **ASIAN KUNG-FU GENERATION** | «ROCKET», **BURNOUT SYNDROMES**: el grupo del primer opening cierra el círculo | ✅ (2.ª pasada) |
+
+*Science Future*: dos fuentes que coinciden, [anime-song-info](https://anime-song-info.com/lp-drstone-op-ed/)
+y [Animate Times](https://animatetimes.com/news/details.php?id=1736399013),
+que confirma que hay vídeo oficial sin créditos de cada uno. La 3.ª parte,
+también en [Animate Times](https://animatetimes.com/news/details.php?id=1775134655).
 
 **La canción que importa para un servidor de canto**: «**One Small Step**»,
 la que canta **Lillian Weinberg** en el disco de Byakuya (1×24, 00:15:53).
@@ -941,11 +1118,18 @@ suena a Suika) y otro «Senku, ¿antes había tanta música así de buena?»
 (00:18:20, suena a Chrome). El texto ✅; quién lo dice ⚠️ (el subtítulo
 no lo marca).
 
-**Ambiente** ⚠️: la banda sonora (Tatsuya Kato, Hiroaki Tsutsumi y Yuki
-Kanesaka, de memoria) mezcla orquesta épica para los inventos con temas
+**Ambiente** ⚠️: la banda sonora (**Tatsuya Kato, Hiroaki Tsutsumi y
+YUKI KANESAKA** ✅ en la 2.ª pasada: seis bandas sonoras en [MusicBrainz](https://musicbrainz.org/release-group/89245a8e-e518-4c3e-a849-7db62035eb90),
+de 2019 a 2026) mezcla orquesta épica para los inventos con temas
 cómicos. El «**tema de la fabricación**» que suena en los montajes (1×23,
 00:20:03 a 00:21:04, justo antes del «¡listo!») es el que todo fan
-reconoce.
+reconoce. **2.ª pasada**: el montaje se vio en el fansub, del
+[19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189) al [21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264); **el nombre de la pista
+no está** en los álbumes con nombre de escena ⚠️.
+
+**El ending de las últimas semanas de la T1 es acuarela** (visto, [1×24,
+22:40](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=1360)): luna, estrellas, siluetas a contraluz, azules
+`#3E559A` `#352C96`. Muy distinto del cel nítido de la serie ✅.
 
 ---
 
@@ -967,8 +1151,26 @@ reconoce.
 | Redibujar una viñeta de Boichi | Entender su línea | [YouTube](https://www.youtube.com/watch?v=UyKIb7U6Jtk) |
 | TikTok: «10 mil millones por ciento» | La frase viva en 2026 | [TikTok](https://www.tiktok.com/discover/10-mil-millones-por-ciento) |
 
-**Los minutos exactos** de estos vídeos **no los pude ver** (YouTube y
-TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
+**Los minutos exactos** de estos vídeos de YouTube **no se pudieron ver**
+(YouTube pide iniciar sesión, también en la 2.ª pasada) ⚠️.
+
+**2.ª pasada: tráileres oficiales mirados en Dailymotion** (mismo material,
+republicado por medios), con minuto real:
+
+| Vídeo | Minuto y qué se ve |
+|---|---|
+| [Tráiler oficial en español, Vidaextra](https://www.dailymotion.com/video/x8xu1ty) (1:42) | [0:45](https://www.dailymotion.com/video/x8xu1ty?t=45) «¡Salí!», Senku libre de la piedra · [0:50](https://www.dailymotion.com/video/x8xu1ty?t=50) Taiju rompe roca a golpes · [1:15](https://www.dailymotion.com/video/x8xu1ty?t=75) montaña verde · [1:20](https://www.dailymotion.com/video/x8xu1ty?t=80) el mar |
+| [Tráiler *Stone Wars*, VO con subtítulos FR](https://www.dailymotion.com/video/x8a1zqs) (1:33) | [0:20](https://www.dailymotion.com/video/x8a1zqs?t=20) **el tocadiscos**: plato verde translúcido en un aparato de madera · [1:00](https://www.dailymotion.com/video/x8a1zqs?t=60) ficha de Nikki con su actriz · [1:04](https://www.dailymotion.com/video/x8a1zqs?t=64) «チート聴力をもつ弓使い» (el arquero del oído tramposo: Ukyo). Placas de texto útiles de referencia |
+| [Tráiler *New World*](https://www.dailymotion.com/video/x8j8l2f) (0:47) | [0:24](https://www.dailymotion.com/video/x8j8l2f?t=24) Ryusui con sombrero pirata y el puño al aire · [0:36](https://www.dailymotion.com/video/x8j8l2f?t=36) «¡Icen las velas!» |
+| [Tráiler del especial *Ryusui*](https://www.dailymotion.com/video/x8bnxd8) (1:40) | [0:27](https://www.dailymotion.com/video/x8bnxd8?t=27) **Ryusui con el puño en alto** y un estallido de luz · [0:33](https://www.dailymotion.com/video/x8bnxd8?t=33) tres chicas con top «E=mc²». Fecha en pantalla: 10-jul-2022 |
+| [Tráiler *Science Future*, VOSTFR](https://www.dailymotion.com/video/x9boaek) (1:39) | [0:40](https://www.dailymotion.com/video/x9boaek?t=40) «La ciencia siempre ha sido nuestra ventaja» · [1:10](https://www.dailymotion.com/video/x9boaek?t=70) cartel «科学vs科学» (ciencia contra ciencia) · [1:30](https://www.dailymotion.com/video/x9boaek?t=90) «Así que tú eres Senku Ishigami». Fecha: 9-ene-2025, Tokyo MX |
+| [OP1 sin créditos, 1080p](https://archive.org/details/dr-stone-op-1-ncbd-1080) (1:30) | [0:24](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=24) bosque petrificado · [0:45](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=45) Senku, puño al pecho · [1:12](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=72) campo de girasoles · [1:18](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=78) Senku y Taiju espalda con espalda |
+
+- **TikTok** «10 mil millones por ciento»: la etiqueta existe (responde),
+  pero no sirve los vídeos a los robots ⚠️. Cuántos y cuáles, sin ver.
+- **Análisis en YouTube** (de `datos-video.md`: «Anime Truth #13e», «The
+  real appeal of Dr. Stone», «Nobody is Talking About Dr Stone, BUT…»):
+  candidatos **sin mirar** ⚠️.
 
 ---
 
@@ -976,8 +1178,10 @@ TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
 
 ### Dr.STONE バトルクラフト (*Battle Craft*), móvil
 
-- **Popping Games Japan**. Salió en Japón el **1 de septiembre de 2021** y
-  en Norteamérica el 28 de noviembre de 2023 ⚠️. **Cerró el 1 de
+- **Poppin Games Japan** (Bandai Namco sólo sale como distribuidor en
+  alguna tienda). Salió en Japón el **1 de septiembre de 2021** y en
+  Norteamérica el **28 de noviembre de 2023** ✅ (2.ª pasada: Google Play,
+  App Store y [TMS](https://tmsanime.com/news/dr-stone-battle-craft-mobile-game-now-available-in-north-america)). **Cerró el 1 de
   septiembre de 2026, a las 10:00**, a los cinco años ✅
   ([4Gamer](https://www.4gamer.net/games/544/G054403/20260707006/),
   [gamebiz](https://gamebiz.jp/news/429025),
@@ -985,14 +1189,34 @@ TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
 - **Cómo es**: juntas materiales, **fabricas objetos** y los llevas a la
   batalla; la historia del anime se revive **en formato aventura**, con
   voces ✅ (resúmenes de 4Gamer y de las tiendas).
-- **Su caja de diálogo**: no encontré capturas ⚠️. Fichas de tienda donde
-  quizá se vean: [Google Play](https://play.google.com/store/apps/details?id=com.poppingames.dsbc&hl=en_US),
-  [App Store](https://apps.apple.com/us/app/dr-stone-battle-craft/id1513882973),
+- **Su caja de diálogo** (2.ª pasada): **vista y medida** en las capturas
+  de [Google Play](https://play.google.com/store/apps/details?id=com.poppingames.dsbc&hl=en_US):
+  bisel octogonal, borde cian `#7EB6DF`, relleno azul verdoso oscuro
+  `#21403D`, nombre en etiqueta aparte arriba a la izquierda. Detalle en
+  §7.4 ✅. Otras fichas: [App Store](https://apps.apple.com/us/app/dr-stone-battle-craft/id1513882973),
   [QooApp](https://m-apps.qoo-app.com/en_us/app/16172), [web oficial](https://dsbc.poppin-games.com/).
+- **Pantalla de victoria** ([captura](https://play-lh.googleusercontent.com/SxCKs_GBz5pXoKi-Yt0k3U993rzJ0tjwGbYsrBRDhM4AOyBU_vSwW-mWvQTbMUJQge7ngfJk)):
+  iconos *chibi* de los seis personajes en fila con barra de vida,
+  «Victory» en rojo con contorno blanco, cronómetro arriba a la derecha,
+  botón «Next» verde ✅.
+- **HUD de recursos** ([captura](https://play-lh.googleusercontent.com/TkkB69zh-01tVzL4O1Pas58x6Q67Vc1ggGKfRZDXLAfwN1AgBZNB5vrilfbM218ntXDmCFCJ)):
+  **una gema azul** con el número y el nivel arriba a la izquierda
+  («Resource Lv1 150»), personajes en iconos cuadrados abajo con el nivel
+  en **una banderita amarilla**, botón «Leader» en dorado ✅. La gema con
+  nivel sirve de modelo para **el rango de precio**.
+- **Tarjetas de personaje** («Intro Card», 1000×1000): poses nuevas y
+  oficiales (§3.3). La de Senku: **contrapicado cerrado**, personaje
+  llenando el cuadro, el objeto de ciencia en primer plano cortando el
+  borde de abajo.
+- **Sucesor**: ninguno anunciado a 24-sep-2026 ⚠️ (una búsqueda en
+  japonés).
 - **Para la lámina**: la idea de **combinar materiales en un árbol de
   fabricación** es la misma de la hoja de ruta. Refuerza el concepto A.
 
-**Jump Force / Jump Assemble**: no encontré a Dr. Stone en ellos ⚠️.
+**Jump Force / Jump Assemble**: Dr. Stone **no está** en el reparto de
+*Jump Force* ✅ (2.ª pasada: búsqueda + roster de CBR); sólo sale en
+propuestas de fans. **The Cutting Room Floor**: no hay página del juego
+(no lo encontré; tcrf.net bloquea a los robots) ⚠️.
 
 ---
 ## 14 · Lo que ama el fandom, y qué NO hacer
@@ -1012,6 +1236,9 @@ TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
 | **Senku contó los segundos** durante 3.700 años | 1×01, 00:11:19 | ✅ |
 | La jerga de Gen **en los eventos**: en Japón el público responde «ジーマーで?», «バイヤー!» | [post de una fan en X](https://x.com/Harum_dcst/status/1807888745645195501) | ⚠️ |
 | «**Se me olvidó que hacían falta dos**» (el móvil sin receptor) | 1×24, 00:02:56 | ✅ |
+| **Kohaku pega a Chrome** cuando la llama «gorila» (a Senku no) | Gag recurrente ([Fandom](https://dr-stone.fandom.com/wiki/Chrome#Trivia)) | ✅ (2.ª pasada) |
+| El meme en español, con ejemplos | [TikTok de @alcadadegrasas](https://www.tiktok.com/@alcadadegrasas/video/7481294116182052102) y variantes «estoy seguro al 10 mil millones» (2024-2026) | ✅ (2.ª pasada; vistas sin ver ⚠️) |
+| Fans que se identifican con **Chrome y Gen**: «coleccionaba piedras… me encantan los chicos científicos (y la cola)» | [Reddit, 126 votos, 210 comentarios](https://www.reddit.com/r/DrStone/comments/1v9z5u5/) | ✅ (2.ª pasada, comentario leído) |
 
 ### 14.2 Qué NO hacer (lo que un fan notaría)
 
@@ -1019,12 +1246,21 @@ TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
   dice: «**No es *smart*, sólo *phone***» (1×19, 00:21:07). El Fifine va
   **sólo escrito en una etiqueta**, nunca dibujado.
 - **Un laboratorio blanco y limpio**, con neones o pantallas. El
-  laboratorio es **una cabaña de madera** con vidrio soplado a mano.
+  laboratorio es **piedra apilada, madera, cortinas de tela y tinajas de
+  barro**, con vidrio soplado a mano (visto, [1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013)).
 - **Plástico brillante de colores**: la primera plástica (fenolita,
   1×23, 00:16:02) sale **marrón oscuro y mate** ⚠️ (dato químico real; en
   el anime compruébalo).
 - **Senku sonriendo dulce** o haciendo el «corazón» con las manos. Su
-  sonrisa es **de medio lado, con dientes**, y su risa es «ククク» ⚠️.
+  sonrisa es **de medio lado**, con ceja levantada (vista, [1×19,
+  20:42](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1242)) ✅, y su risa es «ククク».
+- **La túnica de Senku blanca pura** o el pelo verde manzana: es **crema
+  `#F5EBD6`** y **verde salvia `#5D906A`** (medidos, §16).
+- **Gen con alcohol**: sólo bebe cola ✅ (2.ª pasada).
+- **Kaseki con ropa nueva impecable**: se le rompe al emocionarse ✅ (2.ª
+  pasada).
+- **Calcar la bandera del Reino de la Ciencia de un fan art**: no hay
+  imagen oficial confirmada (§18.8) ⚠️.
 - **Gen como villano**: se cambió de bando en la temporada 1. Es el
   simpático.
 - **Kaseki musculoso siempre**: sólo cuando se emociona; el resto del
@@ -1042,8 +1278,32 @@ TikTok no se abren) ⚠️. Los minutos buenos son los del episodio (§2).
 ## 15 · Poses analizadas por personaje
 
 La escena, el minuto y lo que se dice están en el subtítulo ✅. **La
-postura la describo de memoria** ⚠️: saca el fotograma de ese minuto y
-compruébalo antes de calcarla.
+postura de estas tablas es de memoria** ⚠️: saca el fotograma de ese
+minuto y compruébalo antes de calcarla.
+
+### Poses vistas en vídeo e imagen (2.ª pasada)
+
+Éstas **sí se miraron** (fotograma abierto o imagen oficial). Empieza por
+aquí.
+
+| Personaje | Dónde (mirado) | Pose | Sirve para |
+|---|---|---|---|
+| **Senku** | [1×19, 20:42](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1242) | Primer plano, **sonrisa ladeada de suficiencia**, ceja levantada, bosque detrás. Confirma la fila 3 de su tabla | **Presentar** ✅ |
+| **Senku** | [1×23, 21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264) | **Cuentagotas en una mano, vaso en la otra**, cejas fruncidas, abrigo de piel | **Explicar, experimentar** ✅ |
+| **Senku** | [OP1, 0:45](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=45) | **Puño al pecho**, mirada decidida, camiseta «E=MC²» | **Animar** ✅ |
+| **Senku y Taiju** | [OP1, 1:18](https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=78) | **Espalda con espalda**, sonrisa cómplice, ciudad de noche desenfocada | **Celebrar en pareja** ✅ |
+| **Senku** | [Intro Card de *Battle Craft*](https://static.wikia.nocookie.net/dr-stone/images/6/66/Battle_Craft_Intro_Card_Senku.png) | **Chasquea los dedos** sobre un tubo de ensayo, «E=mc²» en la venda, un vaso efervescente | **Presentar un invento** ✅ |
+| **Senku** | [1×24, 22:10](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=1330) | De cerca junto a la hoguera, luz cálida, serio | **Pensar** ✅ |
+| **Kohaku** | [1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189) | De perfil, capa con ribete de piel, espada a la espalda, **boca abierta mirando un vaso de cristales** | **Preguntar**, la novata ✅ |
+| **Ruri** | [1×24, 4:34](https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=274) | Primer plano, ojos muy abiertos, boca entreabierta | **Asombro** ✅ |
+| **Suika** (sin casco) | [1×11, 16:45](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1005) | Boca y ojos muy abiertos, **sonrojo de rayitas** | **Alegría, sorpresa** ✅ |
+| **Ryusui** | [Tráiler especial, 0:27](https://www.dailymotion.com/video/x8bnxd8?t=27) | Torso desnudo, **puño al aire**, estallido de luz detrás | **Celebrar, anunciar** ✅ |
+| **Chrome, Gen, Kaseki, Suika** | `settei_01` nº259-262 (tarjetas de *Battle Craft*) | Cuerpo entero en acción con su elemento: rayo, remolino, **llamas y martillo**, salto | **Presentar**, versión videojuego ✅ |
+
+**Gen y Kaseki** siguen **sin fotograma propio**: sus episodios (1×10,
+1×20, 2×01, 2×07, 3×03) no estaban sueltos en Internet Archive ni en
+Dailymotion ⚠️. Sus tablas de abajo siguen de memoria, salvo las tarjetas
+del juego.
 
 ### Senku
 
@@ -1121,28 +1381,60 @@ compruébalo antes de calcarla.
 
 | Personaje | Ropa | Estado |
 |---|---|---|
-| **Senku** (T1) | Túnica de **piel** clara con mangas cortas acampanadas, **cuello levantado**, bajo en picos hasta la rodilla y una costura que baja zigzagueando. **Cinturón con bolsas de cuero**. Zapatos de saco de cuero atados al tobillo. Lleva **E=mc²** escrito en el pecho | ✅ una fuente ([Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami)); el color ⚠️ |
+| **Senku** (T1) | Túnica de **piel** clara con mangas cortas acampanadas, **cuello levantado**, bajo en picos hasta la rodilla y una costura que baja zigzagueando. **Cinturón con bolsas de cuero**. Zapatos de saco de cuero atados al tobillo. Lleva **E=mc²** escrito en el pecho | ✅ ([Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami) + cosplay mirado, §4.4). **Color medido** (2.ª pasada): **crema `#F5EBD6`**, no blanca ✅ |
 | **Senku** (antes de la piedra) | Uniforme escolar y **bata de laboratorio** encima | ⚠️ una fuente |
 | **Senku** (*New World*) | Ropa moderna cosida por Yuzuriha para la sesión de fotos de Minami | ⚠️ una fuente |
 | **Senku** (*Science Future*) | **Capa roja** que le da Suika al revivirlo en Sudamérica | ⚠️ una fuente |
 | **Senku**, rasgos fijos | Pelo de punta, **blanco con puntas verdes**, **ojos rojos**, **marcas de petrificación** que suben desde las cejas | ✅ (Fandom y la ficha de Mecha Senku) |
 | **Suika** | **Casco de sandía** con agujeros; después, **gafas** | ✅ |
 | **Kaseki** | Ropa de aldea; al emocionarse, **sin camisa**, con la cuerda de la aldea al cuello | ✅ |
-| **Gen** | Pelo **negro y blanco**, ropa oscura larga de mago | ⚠️ |
-| **Chrome** | Ropa de aldea, bolsas de minerales | ⚠️ |
+| **Gen** | Pelo **negro y blanco** (según la wiki, mitad izquierda negra y corta, mitad derecha blanca), abrigo o capa larga oscura con cuello alto | Pelo ✅; **el color de la ropa sin medir** ⚠️ (sólo hay imágenes con luz de atardecer o violeta) |
+| **Chrome** | Ropa de aldea, **camisa azul oscuro de manga corta** con el logo del Reino de la Ciencia en las mangas, bolsas de minerales | ✅ (2.ª pasada: imagen + texto de la wiki) |
+| **Invierno** (1×23-1×24, cuando se hace el micro) | **Abrigos de piel** con ribete; Kohaku con capa de ribete de piel y la espada a la espalda | ✅ visto ([1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189), [21:04](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264)) |
+| **Colaboraciones** | Ropa que sólo sale ahí: uniforme de **Lawson**, etiqueta de bar, circo, Navidad (§18.6) | ✅ |
 
-**Lo icónico**: Senku con **la túnica clara de la temporada 1**. Es la que
-reconoce todo el mundo.
+**Colores medidos** (2.ª pasada, `estilo.py` y Pillow con filtro de tono;
+nunca de memoria):
+
+| Personaje | Parte | Hex | Medido en |
+|---|---|---|---|
+| **Senku** | Túnica | **`#F5EBD6`** crema cálido | [`Senku's fearlessness.png`](https://static.wikia.nocookie.net/dr-stone/images/1/12/Senku%27s_fearlessness.png), fotograma 1920×1080 con luz neutra, 3 puntos coinciden |
+| Senku | Pelo, raíz | **`#D0CEBF`** crema apagado | [`Senku Ishigami Portrait.png`](https://static.wikia.nocookie.net/dr-stone/images/8/8b/Senku_Ishigami_Portrait.png), 1080×1080 |
+| Senku | Pelo, puntas | **`#5D906A`** verde salvia (luz) · **`#2E5538`** verde botella (sombra) | retrato, filtro de tono |
+| Senku | Ojos | **`#59050F`** rojo sangre oscuro | retrato, zona del iris |
+| Senku | Piel | **`#D0B6A1`** | píxel directo |
+| **Chrome** | Camisa | **`#245E6B`** azul petróleo | [`Chrome's determination.png`](https://static.wikia.nocookie.net/dr-stone/images/4/41/Chrome%27s_determination.png), 12,4 % de la imagen |
+| **Suika** | Casco, cáscara | **`#B4C856`** verde lima | hoja de modelo oficial (settei) |
+| Suika | Casco, raya | **`#70872B`** verde oliva | settei |
+| Suika | Poncho | **`#373C42`** azul gris casi negro | settei |
+| Suika | Pelo | **`#F3DD89`** rubio pálido | settei |
+| **Kaseki** | Túnica, tono medio | **`#5B4A34`** marrón cuero | [`Kaseki Anime Profile.png`](https://static.wikia.nocookie.net/dr-stone/images/7/71/Kaseki_Anime_Profile.png) |
+| Kaseki | Túnica, sombra | **`#362C1D`** | ídem |
+| **Gen** | Ropa | sin medir ⚠️ | — |
+
+Esto **corrige** la paleta de la 1.ª pasada: el pelo no es verde manzana
+`#7DBF4A` sino salvia; la túnica no es blanca sino crema (lo confirma el
+cosplay de §4.4).
+
+**Lo icónico**: Senku con **la túnica crema de la temporada 1**. Es la que
+reconoce todo el mundo y la de casi todos los key visuals de `arte_01` ✅.
+Segundo: **el casco de sandía de Suika**, único en el reparto ✅.
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-### 17.1 Los sitios, con su luz ⚠️
+### 17.1 Los sitios, con su luz
+
+**2.ª pasada**: la luz y la paleta medidas de ocho sitios están en §5.2,
+con su fotograma. Aquí, lo que falta o cambia:
 
 - **La aldea Ishigami en invierno** (1×23-1×24): nieve, cielo blanco,
-  brasas dentro de las casas. Es **cuando se fabrica el micrófono**.
-- **El laboratorio**: interior de madera, fuego y vidrio. Luz cálida.
+  brasas dentro de las casas. Es **cuando se fabrica el micrófono**. El
+  interior se vio y se midió (§5.2); **el exterior nevado no tiene paleta
+  medida** ⚠️.
+- **El laboratorio**: **piedra apilada, madera y tela**; la luz de la
+  entrada es difusa y neutra, el calor lo pone el fuego (§5.2) ✅.
 - **El puesto de los Grandes Almacenes** (especial): día, sol, gente.
 - **El Perseus** (*New World*): barco de madera, mar de noche, radio.
 - **La Luna** (*Science Future*, parte 3): el cartel final, Senku y Xeno
@@ -1160,6 +1452,25 @@ reconoce todo el mundo.
 
 Son **capturas o arte oficial resubido por fans**: sólo para mirar ⚠️.
 
+**2.ª pasada: tamaños medidos** y más fondos con autor:
+
+- Los dos de Wallpaper Abyss, bajados y medidos con Pillow: [Senku 4K](https://images8.alphacoders.com/112/1126614.jpg)
+  **3840×2160, 5,45 MB** (resubido, sin autor original) y [«Senku &
+  Team»](https://images3.alphacoders.com/104/1042353.jpg) **3840×2160,
+  0,52 MB**, acreditado a Thomas V. Kristiansen ✅.
+- **Wallhaven** (tamaño de su API; licencia: sólo fondo personal, no
+  redistribuir):
+
+| Qué | Tamaño | Subido por | Enlace |
+|---|---|---|---|
+| **Kohaku**, el más guardado de la serie (♥97) | 2400×3597 | ThorRagnarok | [imagen](https://w.wallhaven.cc/full/9m/wallhaven-9mgkg1.jpg) |
+| **Chrome y Kohaku** | 5500×3000 | Zains | [imagen](https://w.wallhaven.cc/full/e7/wallhaven-e757vw.jpg) |
+| Senku con un matraz | 2560×1440 | dexterb8 | [imagen](https://w.wallhaven.cc/full/kw/wallhaven-kw25d6.png) |
+| Grupo: Senku, Suika, Kinro, Ginro, Kohaku | 1920×1081 | EsQdero64 | [imagen](https://w.wallhaven.cc/full/73/wallhaven-73l7l9.png) |
+| Noche, estrellas y Luna | 2560×1440 | SCPZero | [imagen](https://w.wallhaven.cc/full/r2/wallhaven-r21qgq.jpg) |
+| «Kingdom of Science face», de vk-for-da-win (DeviantArt) | 3840×2160 | Aniru | [imagen](https://w.wallhaven.cc/full/vg/wallhaven-vge265.png) |
+| Kohaku, de dinocozero (DeviantArt) | 1920×1080 | Aniru | [imagen](https://w.wallhaven.cc/full/dg/wallhaven-dgv81j.jpg) |
+
 ---
 
 ## 18 · Guía para generar con IA (Firefly, Canva)
@@ -1168,9 +1479,10 @@ Son **capturas o arte oficial resubido por fans**: sólo para mirar ⚠️.
 recortan de fotogramas reales por `v3/integrar.py`.
 
 **Rasgos que nunca cambian**
-- Senku: pelo de punta hacia arriba, **blanco con puntas verdes**, **ojos
-  rojos**, **grietas que suben desde las cejas**, túnica clara de piel con
-  cuello alto y cinturón con bolsas.
+- Senku: pelo de punta hacia arriba, **raíz crema `#D0CEBF` con puntas
+  verde salvia `#5D906A`**, **ojos rojo oscuro `#59050F`**, **grietas que
+  suben desde las cejas**, túnica **crema `#F5EBD6`** con cuello alto,
+  «E=mc²» en el pecho y cinturón con bolsas (medido, §16).
 - Suika: casco de sandía **o** gafas redondas. Kaseki: viejo pequeño de
   cejas y barba blancas; músculos sólo si se emociona ⚠️.
 - **Todo está hecho a mano**: madera, piedra, cuerda, vidrio con burbujas,
@@ -1179,11 +1491,16 @@ recortan de fotogramas reales por `v3/integrar.py`.
 **Estilo**
 - Anime de TV (TMS Entertainment), **línea fina y limpia**, **sombreado de
   dos tonos**, colores naturales y cálidos. Fondos pintados, con textura.
+- **Medido** (2.ª pasada, §18.1): personajes en **cel plano** (64-84 % de
+  zonas planas) con **línea marrón o gris oscuro** (`#5A4A45` a
+  `#8C7764`), **casi nunca negra**; fondos **pintados en degradado**
+  (54-65 %). El laboratorio es gris piedra; el calor lo pone el fuego.
 - Luz: **fuego de horno** naranja por un lado y **luz fría de invierno**
   por la ventana.
 
 **Palabras que ayudan**
-> primitive wooden workshop, stone age laboratory, hand-blown glass
+> stone and wood laboratory, stacked stone walls, cloth curtain door,
+> clay jars on wooden shelves, primitive wooden workshop, stone age laboratory, hand-blown glass
 > vacuum tubes, brown bakelite megaphone, rochelle salt crystals,
 > copper wire coils, hemp rope, straw roof, warm furnace glow, snowy
 > night outside the window, anime background art, cel shading, TMS style
@@ -1202,11 +1519,191 @@ recortan de fotogramas reales por `v3/integrar.py`.
 > blue light from a small window with snow. No people. Cel shading,
 > clean lines.
 
-**Imágenes de referencia** (cuando se puedan abrir): el visual de
-*Science Future* 3 (§3.1) para el estilo; las **hojas de modelo** de
-WebNewtype para las proporciones; el modelo de **Jerry Teng** en
-Sketchfab para el volumen del laboratorio y del teléfono; y los
-fotogramas de 1×23 (00:19:43 a 00:21:32) para el micro.
+**Imágenes de referencia** (2.ª pasada: ya abiertas):
+
+- **Estilo**: [key visual de *Stone Wars*](https://static.wikia.nocookie.net/dr-stone/images/9/9f/Dr._Stone_Stone_Wars_Key_Visual_3.png)
+  (2324×3277, `arte_01` nº1).
+- **Proporciones y color**: las hojas de modelo de `settei_01` (nº246 Gen,
+  nº247 Chrome con el sombreado, nº254-255 Suika) y los retratos de
+  `vestuario_01` (nº222 Chrome, nº224 Kohaku, nº225 Senku, nº228 Gen).
+- **Cómo se reparte la luz y la sombra**: [hoja de sombreado de Chrome](https://static.wikia.nocookie.net/dr-stone/images/b/b5/Chrome_Shading_TV_Animation_Design_Sheet.png)
+  (1200×877).
+- **El laboratorio**: el fotograma [1×11, 16:53](https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013) y el modelo
+  de Jerry Teng en Sketchfab para el volumen.
+- **El micro**: [1×23, 19:49](https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189) (la sal) y la hoja de ruta
+  [1×19, 21:07](https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267).
+- **Pose de acción con objeto**: la tarjeta de Senku de *Battle Craft* (§15).
+
+**Vocabulario de expresiones** para la IA de imagen (lo visto en la serie):
+
+| Emoción | Cómo se dibuja en Dr. Stone | Palabras |
+|---|---|---|
+| Suficiencia, presentar | **Sonrisa ladeada**, ceja levantada (Senku, 1×19, 20:42) | smirk, raised eyebrow, confident |
+| Sorpresa, alegría | Ojos muy abiertos, boca abierta, **sonrojo de rayitas** (Suika, 1×11, 16:45) | wide eyes, open mouth, blush lines |
+| Concentración | Cejas fruncidas, mirada al objeto (Senku, 1×23, 21:04) | furrowed brows, focused |
+| Asombro | Primer plano, boca entreabierta (Ruri, 1×24, 4:34) | close-up, awestruck |
+| Impacto | **Rayas de velocidad radiales**, trama de puntos (manga, cap. 216) | speed lines, screentone |
+| Celebrar | Puño en alto con estallido de luz (Ryusui) | fist raised, light burst |
+| *Chibi* | Sólo en los iconos de *Battle Craft* (pantalla de victoria) | chibi icon |
+| Gotas de sudor, venas de enfado, fondos de emoción | **No documentados** en las partes ⚠️: no inventarlos | — |
+
+**Para una IA de texto** (diálogos en su voz):
+
+- **Senku**: frases cortas y rudas, recetas de un paso. **Exagera con
+  cifras enormes**: «al **10 mil millones por ciento**» (nunca «10
+  millones»). Se ríe «ククク» (en español, «Je, je, je» pequeño ⚠️
+  propuesta). Nunca dice «creo». Cierra con «¡Esto sí que me emociona!».
+- **Gen**: vendedor, suave y rápido. **Tests de tres opciones** y «¡Correcto!
+  **Diez mil millones de puntos**». Quejas teatrales («¡Qué crueldad!»).
+  En latino **habla normal**, sin jerga al revés. Diminutivos: «Espera un
+  momentito» (muestra real de Santini).
+- **Chrome**: entusiasta, gritón: «**¡Qué malote!**» (latino ✅). Grita al
+  terminar una pieza.
+- **Kaseki**: «¡Oh-ho!», viejo artesano que presume de sus cincuenta años.
+- **Suika**: de niña habla de sí misma en tercera persona: «Suika quiere
+  ayudar».
+- **Puntuación**: ¡! en todo lo que se anuncia; el «¡…, listo!» como
+  cierre de cada pieza. Sin rayas ni paréntesis (regla del dueño).
+
+**Frases reales por emoción** (subtítulo japonés con minuto, traducción mía
+salvo las marcadas «latino»):
+
+| Emoción | Frase | Quién y dónde |
+|---|---|---|
+| **Alegre** | «¡Esto sí que me emociona!» | Senku, 1×23, 00:22:12 |
+| Alegre | «¿Lo ves, Ruri? ¡La ciencia es la bomba!» | Chrome, 1×24, 00:04:34 |
+| Alegre | «¡Micrófono, listo!» | Kohaku, 1×23, 00:21:16 |
+| **Enfadado** | «En este mundo nada es gratis» | Senku, 1×09, 00:05:50 |
+| Enfadado | «¡No! ¡Nada que ver!» | Nikki a Gen, 2×07, 00:03:06 |
+| Burla | «Calladito te ves más bonito» (latino ⚠️) | Gen a Senku, 3×10 |
+| **Explicando** | «Se llama sal de Rochelle. Convierte el sonido en electricidad» | Senku, 1×23, 00:19:49 |
+| Explicando | «El micrófono y el altavoz son lo mismo: sólo convierten sonido en electricidad y al revés» | Senku, 1×24, 00:05:03 |
+| Explicando | «No necesita pilas. Eso sí, el sonido es bajísimo» | Senku, 3×10, 00:03:04 |
+| **Animando** | «Por lejos que parezca, si sigues las reglas llegas a la meta al diez mil millones por ciento. ¡Eso es la ciencia!» | Senku, 1×19, 00:21:32 |
+| Animando | «¡Vamos, equipo de excavación científica!» | Chrome, 1×21, 00:12:41 |
+| Animando | «10 mil millones por ciento» (latino ✅) | Senku |
+| **Triste** | «Mi cámara» | Minami, 3×02, 00:18:12 |
+| Triste | «Me siento sola» (さみしいんだよ) | Suika, 4×23, 00:03:10 a 00:06:21 |
+| **Vendiendo** | «Es el primer artículo de lujo; tardará en venderse» · «Gracias por su compra» | Gen, especial, 00:35:36 y 00:35:51 |
+
+---
+## 18.1 · Estilo de dibujo y técnica, y cómo replicarlo (2.ª pasada)
+
+Punto 18 del encargo. No existía en la 1.ª pasada.
+
+### Del manga: Boichi
+
+- **Estudió Física** «como preparación para dibujar ciencia ficción», y
+  luego un posgrado en tecnología de imagen ✅ ([Fandom: Boichi](https://dr-stone.fandom.com/wiki/Boichi) + reseñas).
+- **No copia fotos**: sobre la calculadora de parametrones de Senku dijo
+  que no había nada que copiar, y que aunque lo hubiera, «dibujarlo igual
+  no lo haría un invento de Senku»: tenía que ser del Mundo de Piedra y
+  original ✅ ([Boichi en X](https://x.com/Boichi_Bo1/status/2051986720875282549)).
+  Para el *reboot* de *Byakuya* juntó unas 1.500 fotos de referencia ⚠️.
+- **Entinta casi sin corregir**: un vídeo suyo se hizo viral en Japón
+  porque **apenas usa el borrador ni «deshacer»**, con un solo tamaño de
+  pincel, sin capas ni selecciones ✅ ([Togetter](https://togetter.com/li/1615629)).
+  Tiene tres ayudantes (todos mangakas) y tarda **1 a 1,5 horas por
+  página** ⚠️ ([SLJ, AnimeNYC 2019](https://goodcomicsforkids.slj.com/2019/12/20/animenyc-a-peek-behind-the-scenes-of-dr-stone/)).
+- **Los bolsillos de Senku** dicen lo que piensa: más bolsillos cuando
+  está en peligro ✅ (misma fuente).
+- Tomó *En busca del fuego* (1981) como referencia de puesta en escena
+  prehistórica ⚠️ (una fuente).
+
+### Del anime: TMS Entertainment
+
+- El director de la 4.ª temporada, **Shuhei Matsushita**: como «la
+  ciencia no miente», estudiaron el color real de plantas, ríos y
+  piedras, **incluso el color de una llama según su temperatura**. Al
+  llegar a América **rehicieron los fondos** por la humedad y el aire,
+  para que el cambio de continente se note sin decirlo ✅ ([entrevista, J:COM](https://jmagazine.myjcom.jp/category/anime/post001463/)).
+- **Ficha de estilo** (AniList + [ficha de TMS](https://www.tms-e.co.jp/alltitles/2010s/762101.html)):
+  color **Fusako Nakao** (中尾総子) ✅; fotografía **Takeshi Kuzuyama**
+  (葛山剛士; «Katsurayama» en AniList es la misma persona) ✅; animador
+  principal **Hiroyuki Horiuchi** ✅; estudio interno **TMS8PAN** ✅.
+  Dirección de arte: **Shunjiro Yoshihara** (TMS) y **Tomoyuki Aoki**
+  (AniList); cuál hizo cada temporada, sin confirmar ⚠️.
+- **Whiteman** (*Science Future*) se hizo en **3DCG** para que ondulara
+  y resultara inquietante ⚠️ (un resumen de foro japonés).
+- **Filtros de posproducción** (grano, aberración, *bloom*): no hay
+  fuente que los nombre para este anime ⚠️. No inventarlos.
+
+### Medido con `estilo.py` (sobre las imágenes oficiales de la wiki)
+
+| Tipo de imagen | Sombreado | Línea | Color de línea |
+|---|---|---|---|
+| Retratos y hojas de modelo (Senku, Chrome, Gen, Kohaku, Suika) | **plano (cel)**, 64-84 % de zonas planas | poca a normal | **marrón o gris oscuro** `#5A4A45` a `#8C7764`, casi nunca negro |
+| Fondos y escenas de acción | **degradado pintado**, 54-65 % | poca | tonos cálidos del ambiente `#B9A091`, `#63564A` |
+| Escena dramática (`Chrome's determination.png`) | mixto, 40/41 | normal | `#6E564E` |
+| Ending de la T1 | **acuarela** (visto, §11) | — | — |
+
+**Personaje en cel plano con línea de color + fondo pintado**: el patrón
+clásico del anime, aquí con números ✅.
+
+### El manga, visto de cerca
+
+En la [doble página del cap. 216](https://static.wikia.nocookie.net/dr-stone/images/6/69/Chapter_216.png) (2190×1600) ✅:
+**trama de puntos fina y regular** en piel y pelo (no degradado digital);
+**rayas de velocidad radiales** muy densas, blancas sobre negro o negras
+sobre blanco; el **metal del cohete con rayado cruzado a mano**, sin gris
+de trama; y **«SENKU7» rotulado** en el fuselaje.
+
+### Cómo replicarlo en Photoshop
+
+1. **Línea**: pincel de tinta al 100 % con **grosor variable** (tableta),
+   marrón `#5A4A45` en la piel y gris `#3E3E3E` en la ropa oscura. Negro
+   puro sólo en las sombras cerradas del pelo.
+2. **Color**: planos, **dos tonos por zona** (luz y una sombra dura hecha
+   con el lazo poligonal, no con pincel suave).
+3. **Fondo**: capa aparte, pincel de mezcla con degradados, desenfoque
+   ligero para separarlo del personaje.
+4. **Final**: ruido monocromático 2-3 % y **curvas** que suban el naranja
+   en las escenas con fuego (el «look» cálido que describe Matsushita).
+5. **Título**: textura de piedra + **bisel y relieve** alto + grietas a
+   mano; colores del cartel del ep. 1 (§6.1).
+
+### Cómo replicarlo en Blender
+
+1. **Personajes**: *toon shader* de 2-3 bandas (`Shader to RGB` +
+   `ColorRamp` con escalones). Contorno con **Solidify invertido** en el
+   marrón o gris medido, no negro.
+2. **Vidrio de laboratorio**: *Principled BSDF* con transmisión alta y algo
+   de rugosidad, **con burbujas**: está soplado a mano.
+3. **Luz**: una clave cálida de horno (~2800 K) y un relleno frío de nieve
+   o luna (~7000 K).
+4. **Encuadre**: el de la tarjeta de *Battle Craft*: **contrapicado
+   cerrado**, el personaje llena el cuadro y **el objeto de ciencia en
+   primer plano** corta el borde de abajo.
+5. **Modelos base**: los de §4.1 (CC BY). El de leonardo.sensei2 ya viene
+   en Blender 2.8. Encima, el *toon shader* de arriba.
+
+### Encuadres y composición (lo visto)
+
+- **Presentar**: primer plano con sonrisa ladeada (1×19, 20:42).
+- **Explicar**: plano medio con el objeto en las manos a la altura del
+  pecho (1×23, 21:04).
+- **Asombro**: primer plano frontal de quien mira el invento (1×24, 4:34).
+- **Objeto en su sitio**: plano general, el objeto arriba y pequeño, el
+  sitio enorme (la torre de 1×24, 2:17).
+- **Pareja**: espalda con espalda (OP1, 1:18).
+
+## 18.2 · Texturas 2D (2.ª pasada)
+
+Punto 19 del encargo. Junto con el 3D (§4) y las texturas reales (§5.3),
+son las tres capas.
+
+| Capa | Qué hace la serie | Recurso libre | Licencia |
+|---|---|---|---|
+| **Trama de puntos** (sombras) | Puntos finos y regulares en piel y pelo (cap. 216) | [FREE Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037), Clip Studio Assets | Gratis dentro de Clip Studio ✅ |
+| Trama, en PNG sueltos | Ídem | [Free Screen Tone Collection 1](https://manga-with-stef.com/free-screen-tone-collection-1), Manga with Stef | Gratis según el sitio ⚠️ |
+| **Rayas de velocidad** | Radiales, detrás de «START!» y del cohete | Dibujarlas: no se buscó recurso aparte ⚠️ | — |
+| **Rayado cruzado** | Metal y máquinas | A mano (Boichi no usa trama ahí) | — |
+| **Grano de papel** | Página impresa | [Paper001](https://ambientcg.com/view?id=Paper001), 003, 005, 006 (ambientCG) | CC0 ✅ |
+| **Cuerda y tejido** | Cinturones, recintos de la aldea | [Rope001](https://ambientcg.com/view?id=Rope001), [Rope002](https://ambientcg.com/view?id=Rope002) | CC0 ✅ |
+| **Flechas-tubo con trama** | Las de la hoja de ruta (§3.3) | Trazo grueso + la trama de arriba dentro | — |
+| **Emblema del Reino de la Ciencia** | Según la wiki, **un cohete entre dos estrellas** en una bandera | Sólo hay reconstrucciones de fans ([Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Kingdom_of_Science.svg), DeviantArt): **no calcar**; dibujarlo de cero ⚠️ | — |
+| **Moneda Drago** | Relieve con orla de perlitas y trama de puntos (§3.3) | Dibujarla de cero a partir de `Drago_Coins.png` | — |
+| **«E=mc²»** | Pintado en la túnica de Senku, en la venda de la tarjeta del juego | Letra a mano (Kalam) | OFL ✅ |
 
 ---
 ## 19 · Tres conceptos para la lámina de #hardware
