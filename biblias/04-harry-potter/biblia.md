@@ -203,10 +203,11 @@ Caben en una sola lámina. **No hace falta lámina 2.**
 | Cuadro de diálogo propio | **La portada de El Profeta**, época alegre (P1-P4: cabecera gótica adornada, titulares góticos, texto en espiral; O·1, O·2). En Harry Potter el texto vive dentro de objetos: periódico, carta, pergamino, aviso clavado, **la cinta de pergamino de los créditos de P3**. Nunca en un globo. |
 | Mejor objeto para #anuncios | **El Profeta en la mesa del Gran Comedor, a la hora del correo.** Escena real: P1 00:53:45 («Mail's here») a 00:54:57. Arte oficial del correo del desayuno: F·8. |
 | Segundo objeto | **El atril del búho dorado**, alas abiertas. **Sale desde P3**, no en P1: [clip oficial de P3, 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43), Dumbledore abre los brazos tras él. En P1 da los avisos de pie en la mesa (00:42:20, F·1). |
-| Tercer objeto | **El tablón de anuncios de Gryffindor**: fieltro rojo en marco tallado (O·21). Según la wiki, cada día se clavaban ahí **El Profeta y El Quisquilloso**. |
+| Tercer objeto | **El tablón de anuncios de Gryffindor**: fieltro rojo en marco tallado (O·21, Pottermore); **en la película 1 se ve de fondo** con cuadrícula de cintas y cordón rojo y oro (P1 ≈01:28:25, §3). Según la wiki, cada día se clavaban ahí **El Profeta y El Quisquilloso**. |
 | El más querido | En tres grandes encuestas gana **Snape**. De la lista del encargo, **Hermione** va siempre arriba. **Luna** supera a Harry en dos encuestas y **Dobby** en una. |
 | Letras | **UnifrakturMaguntia** para la cabecera. **IM Fell English** para el texto. Las dos son libres y traen todas las tildes. Comprobado en el archivo. |
 | Voz latina | Harry: **Víctor Ugarte** (P3-P8). Hermione: **Leyla Rangel** (P4-P8). Dumbledore: **César Arias** (las 8). Luna: **Lu Leal** (P5-P8). Dobby: **Ismael Castro** (P2 y P7). Todos ✅ (Doblaje Wiki + prensa). |
+| La voz de los avisos en latino | En el doblaje latino **un narrador lee en voz alta los titulares de El Profeta** y los carteles: «Silencio. TIMOS en progreso», «Dumbledore y Potter reivindicados» (§10.3). |
 | Frase latina para #anuncios | Dumbledore, P8: «**Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia**» (muestra de Doblaje Wiki, §10.3). |
 | Tono | La época alegre de las películas 1 a 4: vela, madera y papel crema. La cabecera oscura, de propaganda (P5 en adelante), no va aquí. |
 
@@ -1049,7 +1050,10 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - Para un canal oficial y amable, **Hermione** (o Dumbledore, por su papel)
   es la apuesta segura; **Luna** o **Dobby**, el guiño que el fan agradece.
 - La encuesta de muertes más tristes de Fanpop la gana Fred, con el 35 %
-  ([Yahoo](https://www.yahoo.com/entertainment/movies/articles/saddest-death-harry-potter-series-224500553.html)) ⚠️.
+  de más de 200 votos ([Looper](https://www.looper.com/788977/the-saddest-death-in-the-harry-potter-series/);
+  Yahoo reproduce el mismo artículo, así que no cuenta como segunda fuente).
+  La [página de la encuesta](https://www.fanpop.com/clubs/harry-potter/picks/results/20418/saddest-death-harry-potter)
+  da 403 ⚠️.
 
 ---
 
@@ -1066,11 +1070,11 @@ y las fuentes de la 1.ª pasada.
 
 | Peli | Estudio | Dirección | Grabación | Fuentes |
 |---|---|---|---|---|
-| P1 | **Audiomaster 3000** | **Javier Rivero**; loops de Jorge Roig y Herman López. Traducción: Jesús Vallejo | nov-2001 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_piedra_filosofal), [La Prensa de Panamá / El Universal, 21-dic-2001](https://www.prensa.com/impresa/opinion/Harry-Potter-hablara-espanol_0_539946170.html) y [el blog del propio Javier Rivero, 2007](http://javodubb.blogspot.com/2007/05/harry-potter.html) ✅ |
-| P2 | **Audiopost** | **Roberto Molina** | 2002 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) ✅ |
-| P3 | Audiopost | **José Luis García Agraz**; Vicky Burgoa (incidentales); Molina (escenas añadidas) | 2004 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_prisionero_de_Azkaban), [El Siglo de Durango (agencias), 2004](https://www.elsiglodedurango.com.mx/noticia/2004/breves-del-cine.39317.html): Cuarón invitó a su amigo García Agraz a dirigir el doblaje ✅ |
+| P1 | **Audiomaster 3000** | **Javier Rivero**; loops de Jorge Roig y Herman López. Traducción: Jesús Vallejo | nov-2001 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_piedra_filosofal), [La Prensa de Panamá / El Universal, 21-dic-2001](https://www.prensa.com/impresa/opinion/Harry-Potter-hablara-espanol_0_539946170.html) y [el blog del propio Javier Rivero, 2007](http://javodubb.blogspot.com/2007/05/harry-potter.html); **los créditos de cine**, «Recording Studio: AUDIOMASTER MEXICO» ([foto](https://static.wikia.nocookie.net/doblaje/images/1/12/CR%C3%89DITOSHARRYPOTTERYLAPIEDRAFILOSOFAL.png)) ✅ |
+| P2 | **Audiopost** | **Roberto Molina** | 2002 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) y **los créditos de cine**: «Director de Doblaje: Roberto Molina · Doblaje y Post Producción: SPG Studios - Audio Post, Los Angeles - México» ([foto](https://static.wikia.nocookie.net/doblaje/images/0/06/Harry_Potter_y_la_Camara_Secreta_Creditos_de_Doblaje_en_Cines.png)) ✅ |
+| P3 | Audiopost | **José Luis García Agraz**; Vicky Burgoa (incidentales); Molina (escenas añadidas) | 2004 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_prisionero_de_Azkaban), [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(Latin_American_Spanish,_Audio_Post)) (estudio Audio Post), [El Siglo de Durango (agencias), 2004](https://www.elsiglodedurango.com.mx/noticia/2004/breves-del-cine.39317.html): Cuarón invitó a su amigo García Agraz a dirigir el doblaje ✅. **Ojo**: la [Wikipedia en español](https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(pel%C3%ADcula)) dice «Art Sound, dirección de Helgar Pedrini» (cita una web de 2009 ya caída); las otras dos ponen a Pedrini como director creativo |
 | P4 | Audiopost | Roberto Molina | 2005 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_c%C3%A1liz_de_fuego) ⚠️ |
-| P5 | **DAT Doblaje Audio Traducción** | **Herman López** | may-2007 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_orden_del_F%C3%A9nix) ⚠️ |
+| P5 | **DAT Doblaje Audio Traducción** | **Herman López** | may-2007 | Estudio ✅: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_orden_del_F%C3%A9nix) y [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_la_Orden_del_F%C3%A9nix_(pel%C3%ADcula)). Dirección ⚠️: Wikipedia pone a Helgar Pedrini |
 | P6 | DAT | Roberto Molina (Carlos Segundo se dirigió a sí mismo) | may-2009 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_el_misterio_del_pr%C3%ADncipe) ⚠️ |
 | P7 | DAT | Roberto Molina | oct-2010 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_las_reliquias_de_la_muerte_-_Parte_1), [Blog Hogwarts](https://www.bloghogwarts.com/2011/01/13/el-doblaje-de-las-reliquias-de-la-muerte-parte-1-al-espanol-latino/) ✅ |
 | P8 | DAT | Roberto Molina | may-2011 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_las_reliquias_de_la_muerte_-_Parte_2) ⚠️ |
@@ -1079,7 +1083,11 @@ y las fuentes de la 1.ª pasada.
   dirección de Jorge Riveros), de P3 a P8: Harry es Alejandro Bono, Hermione
   Florencia Coianis, Luna Malena Oriolo. **El que conoce el público es el
   mexicano**; no mezclar voces ni frases (Doblaje Wiki, fichas de Hermione y
-  Luna) ⚠️.
+  Luna; y [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(Latin_American_Spanish,_Caja_de_Ruidos)),
+  que tiene la ficha del de P3 con Caja de Ruidos) ✅.
+- **Helgar Pedrini** fue el **director creativo** de Warner para toda la
+  saga (Doblaje Wiki y DubDB) y es **la voz de los insertos** de P3 a P6:
+  la que lee títulos y titulares (§10.3).
 - **Tampoco mezclar con España**: allí Harry es Axel Amigo y Hermione Michelle
   Jenner ([Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula))).
 
@@ -1091,24 +1099,26 @@ y las fuentes de la 1.ª pasada.
 | Harry | Claudio Velázquez | P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Harry | **Víctor Ugarte** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Ugarte), [Otaku Press](https://www.otakupress.pe/2017/04/victor-ugarte-harry-potter-sasuke-doblaje.html), [Noroeste](https://www.noroeste.com.mx/amp/entretenimiento/espectaculos/presta-victor-ugarte-su-voz-a-harry-potter-DANO230322), Genial.guru | ✅ |
 | Hermione | Mitzy Corona | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
-| Hermione | Priscila Reyes | P3 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger) | ⚠️ (una fuente) |
+| Hermione | Priscila Reyes | P3 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hermione_Granger), [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(Latin_American_Spanish,_Audio_Post)); la [Wikipedia](https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(pel%C3%ADcula)) (con El Universal, 4-jun-2004) la cuenta entre las actrices de fuera del doblaje que entraron | ✅ (antes dudoso) |
 | Hermione | **Leyla Rangel** | P4 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Leyla_Rangel), [Vía País](https://viapais.com.ar/streaming/es-leviosa-no-leviosa-ella-es-la-mujer-detras-de-la-voz-de-hermione-de-harry-potter/), Genial.guru | ✅ |
 | Ron | Carlos Díaz | P1 y P2 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Ron | **Luis Daniel Ramírez** | P3 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez), Genial.guru, [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez) | ✅ |
 | Dumbledore | **César Arias** | P1 a P8 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), [Infobae](https://www.infobae.com/america/entretenimiento/2020/12/21/murio-el-actor-de-doblaje-cesar-arias-fue-la-voz-de-dumbledore-y-tambien-participo-en-naruto-y-los-caballeros-del-zodiaco/), [El Universal](https://www.eluniversal.com.mx/espectaculos/muere-cesar-arias-actor-de-doblaje-que-dio-voz-dumbledore/) | ✅ |
 | Luna | **Lu (Lupita) Leal** | P5 a P8 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Lu_Leal), Genial.guru, [Anime Argentina](https://animeargentina.net/lupita-leal-doblaje/) | ✅ |
 | Dobby | **Ismael Castro** | P2 y P7 | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ismael_Castro), [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), Genial.guru | ✅ |
-| McGonagall | Magda Giner | P1 (y el teaser de la serie de HBO) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Minerva_McGonagall) | ⚠️ (una fuente) |
+| McGonagall | Magda Giner | P1 (y el teaser de la serie de HBO) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Minerva_McGonagall), [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_la_piedra_filosofal_(Latin_American_Spanish)) y los créditos de cine de P1 («Professor McGonagall · MAGDA GINER») | ✅ (antes dudoso) |
 | McGonagall | **Keta Leonel** | P2 a P8 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ |
 | Hagrid | Humberto Solórzano | P1 | Doblaje Wiki, [Doblaje Latino Wiki](https://doblaje-latino.fandom.com/es/wiki/Humberto_Sol%C3%B3rzano) | ✅ (dos wikis) |
 | Hagrid | Víctor Hugo Aguilar | P2 y P3 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (nuevo) |
 | Hagrid | **Blas García** | P4 a P8 | Doblaje Wiki, Genial.guru, [Wikia Fandub](https://fandub-doblaje-latino.fandom.com/es/wiki/Blas_Garc%C3%ADa) | ✅ |
 | Snape | **Carlos Segundo** | P1, P5, P6 | Doblaje Wiki, Genial.guru | ✅ |
 | Snape | Rolando de Castro | P2 y P4 | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) | ✅ (nuevo) |
-| Snape | César Monroy · Jorge Badillo · Sebastián Llapur | P3 · P7 · P8 | Doblaje Wiki | ⚠️ (una fuente) |
-| Umbridge | Ruth Toscano | P5 y P7 | Doblaje Wiki | ⚠️ |
+| Snape | César Monroy | P3 | Doblaje Wiki, [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(Latin_American_Spanish,_Audio_Post)) | ✅ (antes dudoso) |
+| Snape | Sebastián Llapur | P8 | Doblaje Wiki, [Wikipedia, P8](https://es.wikipedia.org/wiki/Harry_Potter_y_las_reliquias_de_la_Muerte:_parte_2) | ✅ (antes dudoso) |
+| Snape | Jorge Badillo | P7 | Doblaje Wiki | ⚠️ (una fuente) |
+| Umbridge | Ruth Toscano | P5 y P7 | Doblaje Wiki, [Wikipedia, P5](https://es.wikipedia.org/wiki/Harry_Potter_y_la_Orden_del_F%C3%A9nix_(pel%C3%ADcula)) | ✅ (antes dudoso) |
 | Ginny | Alondra Hidalgo | P2, P4 a P8 (en P1, Lupita Leal) | Doblaje Wiki, [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)), Genial.guru | ✅ |
-| Molly Weasley (la voz del vociferador) | Carmen Martínez | P2 (en P1, Ruth Toscano) | [Doblaje Wiki, P2](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta) y su muestra de audio, que transcribí | ⚠️ (una sola web) |
+| Molly Weasley (la voz del vociferador) | Carmen Martínez | P2 (en P1, Ruth Toscano) | [Doblaje Wiki, P2](https://doblaje.fandom.com/es/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta), [Wikipedia, P2](https://es.wikipedia.org/wiki/Harry_Potter_y_la_c%C3%A1mara_secreta_(pel%C3%ADcula)) y los créditos de cine de P2 («Mrs. Weasley · CARMEN MARTINEZ»); Ruth Toscano en P1, también en sus créditos | ✅ (antes dudoso) |
 
 **Datos de interés** (Doblaje Wiki ⚠️, salvo lo marcado):
 - P1 fue **«la fatídica Harry Potter»** para Javier Rivero: Audiomaster
@@ -1187,6 +1197,31 @@ Latinoamérica** no tiene subtítulos y YouTube no deja bajar su audio.
 | Hagrid (Humberto Solórzano) | «**Ahora escúchenme, esto es serio.** … Es peligroso. … No debí decirlo. No debí decir eso.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/8/83/HP1RubeusHagrid-1.ogg)) | ✅ sentido. Su manía: se le escapa algo y se arrepiente |
 | Harry (Arturo Castañeda) | «¿No lo ven? **¡Nos equivocamos!** Snape no quiere la piedra para él mismo. Quiere la piedra para Voldemort.» | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/a9/HP1HarryPotter-1.ogg)) | ✅ sentido |
 
+**La voz de los insertos: El Profeta leído en voz alta** (cierre, 24-sep-2026).
+En el doblaje latino, cuando sale texto en pantalla (títulos, titulares,
+carteles), **un narrador lo lee**. Doblaje Wiki guarda esas muestras
+(«Insertos», «Narración», «Logo»); las pasé por Whisper *medium*. El minuto
+sale de los subtítulos en inglés que rodean la escena.
+
+| Qué se lee | Texto del doblaje latino | Dónde | Estado |
+|---|---|---|---|
+| **Cartel del examen** (P5) | «**Silencio. TIMOS en progreso.** Examen de teoría de encantamientos. Comienza a las 16 horas, termina a las 18.» | P5 ≈01:34:20 ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/2b/HP5Logo-1.ogg), 0:00-0:05) | ✅ oído. **Un aviso oficial, tal cual** |
+| **Titulares de El Profeta** (P5, final) | «**Dumbledore y Potter reivindicados.** ¿Renunciará el ministro? Nuevo residente de Azkaban. Umbridge suspendida. Investigación pendiente. El que no debe ser nombrado, regresa. **Director de Hogwarts, restituido.**» | P5 02:03:25-02:04:35 (misma muestra, 0:06-0:21) | ✅ oído. Voz: Helgar Pedrini (Doblaje Wiki) |
+| **Titular de El Profeta** (P6, inicio) | «**Harry Potter, el elegido.** Se derrumba puente. Aumenta el número de muertos.» · y el libro: «Recetas de pociones avanzadas» | P6 ≈00:03:15 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/a8/HP6Insertos-2.ogg)) | ✅ oído |
+| Cartel y cierre (P8) | «Indeseable número 1, Harry Potter.» · «**19 años después.**» | P8, cartel y rótulo del epílogo ≈01:54 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/5c/HP8Insertos-1.ogg)) | ✅ oído |
+| Título (P1) | «Harry Potter y la piedra filosofal.» (Francisco Colmenero; hay otra versión de TV con Pedrini) | P1, [muestra](https://static.wikia.nocookie.net/doblaje/images/9/96/HP1Logo-1.ogg) | ✅ oído; los dos narradores, Doblaje Wiki y [DubDB](https://dubdb.fandom.com/wiki/Harry_Potter_y_la_piedra_filosofal_(Latin_American_Spanish)) (dos versiones del título) |
+| Tráileres doblados | P3: «**Este año** la hechicería se desencadenará y una fuerza siniestra llegará. Todo lo que esperabas se transformará.» · P4: «Este año, su mayor desafío será su momento más sombrío.» · P5: «Este año, la tiranía llegará y la rebelión comenzará.» · P6: «Este año la maldad pasará de su mundo hacia el nuestro y la hora más oscura está a punto de llegar.» | muestras [P3](https://static.wikia.nocookie.net/doblaje/images/d/db/HP3NarradorT.ogg), [P4](https://static.wikia.nocookie.net/doblaje/images/f/f2/HP4NarracionT.ogg), [P5](https://static.wikia.nocookie.net/doblaje/images/5/57/HP5LogoT-1.ogg), [P6](https://static.wikia.nocookie.net/doblaje/images/1/18/HP6InsertosT-1.ogg) | ✅ oído. La fórmula «**Este año…**» es la voz de los anuncios de la saga |
+
+**Más frases de personajes** (muestras nuevas, Whisper *medium*):
+
+| Personaje | Frase del doblaje latino | Dónde | Estado |
+|---|---|---|---|
+| **Flitwick** (Jorge Roig) | «Una de las habilidades más rudimentarias de los magos es la levitación… ¿Todos tienen sus plumas? Bien. Ahora, no olviden el movimiento de muñeca que practicamos… Y digan lo siguiente: *Wingardium leviosa*. **¡Miren todos! La señorita Granger lo hizo. ¡Espléndido!**» | P1 01:05:57 ([muestra](https://static.wikia.nocookie.net/doblaje/images/6/67/HP1FiliusFlitwick-1.ogg)) | ✅ sentido (igual que el guion inglés; Whisper escribió «evitación» y no entendió el «swish and flick») |
+| **Dumbledore** (César Arias) | «Te prometí que podrías acompañarme y me apego a esa promesa, pero con una condición. Debes obedecer sin cuestionar cualquier orden que te dé. **Si te digo que te escondas, te escondes. Si te digo que corras, corres.**» | P6 ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/aa/HP6AlbusDumbledore-1.ogg)) | ✅ sentido. Una norma dicha con calma |
+| Dumbledore | «Entiendo cómo te sientes, Harry. No, es mi culpa…» | P5 02:04:35 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/51/HP5AlbusDumbledore-1.ogg)) | ✅ (coincide con «I know how you feel, Harry», 02:04:35) |
+| Dumbledore | «Tú, Harry, que no conociste a tu familia, los ves a tu lado… Esta es la razón por la que mañana cambiará de hogar.» (el espejo de Oesed) | P1 ([muestra](https://static.wikia.nocookie.net/doblaje/images/5/51/HP1AlbusDumbledore-1.ogg)) | ✅ sentido |
+| McGonagall (Keta Leonel) | «Sólo le pido que lo que respecta a mis alumnos se conforme con las prácticas disciplinarias tradicionales… **cuestiono sus métodos medievales.**» | P5 ([muestra](https://static.wikia.nocookie.net/doblaje/images/7/75/HP5MinervaMcGonagall-1.ogg)) | ✅ sentido |
+
 **Latino frente a España, la misma escena** (vociferador, mismo vídeo):
 España dice «Weasley ha recibido un **Howler**», «¿cómo te atreves a robar
 el **coche**?», «¡Estoy **absolutamente disgustada**!» ([0:55-1:45](https://www.youtube.com/watch?v=3KNNglv24a0&t=55)).
@@ -1254,6 +1289,15 @@ recortar, la wiki (§2.0).
 1920×816). Fotograma cada 2-3 s y fotogramas grandes de los momentos
 clave, mirados uno a uno. Los `video.mp4` se borraron al terminar.
 
+**Cierre (tercer ayudante)**: YouTube seguía igual (probé `web_safari`,
+`mweb` y `tv_embedded`: sólo *storyboards* o «Sign in»). Pasé
+`fotogramas.py` por **5 vídeos más**: el **tráiler oficial de P1** (2001,
+1280×720) y el **primer *teaser*** (848×480), los dos en el Internet
+Archive; un **fragmento de P1 en 1920×796** que publica el proyecto
+académico TECHNÈS (Universidad de Montreal) en el Internet Archive; y dos
+copias de fan en **Dailymotion** (512 px, audio francés): Dobby libre (P2)
+y Luna en el carruaje (P5). Borrados los `video.mp4`.
+
 ### 12.1 Los que miré fotograma a fotograma
 
 | Vídeo (canal, fecha, duración) | Lo que se ve, con su minuto |
@@ -1272,6 +1316,11 @@ clave, mirados uno a uno. Los `video.mp4` se borraron al terminar.
 | **Escena 6, en 1080p con `fotogramas.py`**: [«Ron receives a Howler in different languages»](https://www.youtube.com/watch?v=3KNNglv24a0) (Compare Languages, 13-ago-2022, 21:10, 722 251 visitas; [copia en el Internet Archive](https://archive.org/details/youtube-3KNNglv24a0), 1920×1080) | No oficial: montaje de fan con el audio oficial de 23 doblajes. 28 fotogramas del tramo inglés, uno cada 2 s: [0:00](https://www.youtube.com/watch?v=3KNNglv24a0&t=0) Ron y Neville en la mesa, lechuza encima, cuencos de copos y libros abiertos; [0:08](https://www.youtube.com/watch?v=3KNNglv24a0&t=8) una jarra de zumo de naranja en la mesa de Slytherin; [0:16](https://www.youtube.com/watch?v=3KNNglv24a0&t=16) **el sobre en la mano, etiqueta en caligrafía**; [0:24-0:28](https://www.youtube.com/watch?v=3KNNglv24a0&t=24) **se dobla en boca con dientes**, texto de carta dentro; [0:32](https://www.youtube.com/watch?v=3KNNglv24a0&t=32) **Ron aterrado**; [0:40](https://www.youtube.com/watch?v=3KNNglv24a0&t=40) le grita a la cara; [0:50](https://www.youtube.com/watch?v=3KNNglv24a0&t=50) Ginny mira de reojo. **Doblaje latino: [15:35-16:30](https://www.youtube.com/watch?v=3KNNglv24a0&t=935)**; España: 0:55-1:50 |
 | **Tráiler con `fotogramas.py`**: tráiler final oficial de P6, 2:27 ([Internet Archive, colección de tráileres oficiales](https://archive.org/details/harry-potter-and-the-half-blood-prince-official-trailer-video-collection)) | 50 fotogramas, uno cada 3 s. 0:09-0:15 mar verde contra el acantilado; 0:27 fuego naranja; 0:44 **Hermione en la mesa de Gryffindor, un libro abrazado contra el pecho, mirada de reojo**, copas de peltre; 1:33 Harry y Ginny; 1:36 gradas de quidditch con estandartes rojos; 2:18 **el logo en acero gris**, no en oro. Paleta verde azulada y fuego: **época oscura, qué NO para #anuncios** |
 | Escena 7 (*storyboard*): [«Baile de Navidad», P4](https://www.youtube.com/watch?v=_WBTnZgWKAE) (**HBO Max Latinoamérica**, 29-jun-2022, 3:32, 323 028 visitas) | Clip oficial latino, sin subtítulos. [0:29-0:43](https://www.youtube.com/watch?v=_WBTnZgWKAE&t=29) McGonagall con sombrero negro de ala enorme habla con Harry; [1:19-1:35](https://www.youtube.com/watch?v=_WBTnZgWKAE&t=79) **Hermione baja la escalera con el vestido rosa**; [1:41-1:46](https://www.youtube.com/watch?v=_WBTnZgWKAE&t=101) se abren las puertas al salón helado. Luz de antorchas ámbar |
+| **Tráiler (tema principal), con `fotogramas.py`**: [tráiler oficial de P1, 2001, 720p](https://archive.org/details/harry-potter-and-the-sorcerers-stone-2001-720p-trailer) (Internet Archive, 2:23; suena «Hedwig's Theme») | 48 fotogramas, uno cada 3 s. [0:03](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=3) el callejón Diagon; 0:12-0:18 Harry con la varita en Ollivander; [0:36](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=36) **los de primero suben por el pasillo central del Gran Comedor bajo cientos de velas**, enmarcados por las puertas talladas; 0:48 clase de vuelo en el césped; [1:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=75) **Dumbledore (Harris) de pie en la mesa de profesores**; 1:39 banquete con Quirrell; 1:48 el ajedrez; [2:12](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=132) logo dorado con lechuza; [2:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=135) «THE MAGIC BEGINS / SOON». Medido en 0:36: mesas `#5A4131`, puertas `#2D1C13`, llama de antorcha `#F0CAB2`; en 1:15: gorro de Dumbledore `#652B31`, copa `#895F36`, piedra `#494E46` |
+| ***Teaser* de P1, con `fotogramas.py`**: [«trailer 1»](https://archive.org/details/HarryPotterTheSorcerersStoneTrailer1) (Internet Archive, 1:50) | 37 fotogramas. [0:15](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=15) **lechuzas volando sobre las nubes del logo de Warner**; [0:18-0:21](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=18) **la lluvia de cartas** y Harry cazando una; [0:24](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=24) **el sobre en tinta verde** («Mr. H. Potter, The Cupboard under the Stairs…»); 0:27-0:33 el expreso rojo; [0:51](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=51) **Dumbledore bebe de una copa dorada**, gorro burdeos con estrellas; 1:15 Hedwig. **El aviso que llega sí o sí**: la mejor secuencia para #anuncios |
+| **Escena, con `fotogramas.py`**: [fragmento de P1, Navidad y Sección Prohibida](https://archive.org/details/670343) (TECHNÈS, Universidad de Montreal, Internet Archive; 1920×796, 1:50) | 55 fotogramas, uno cada 2 s. 0:00-0:12 Ron con el jersey de la «R» y Harry probándose la capa junto al árbol; [0:14](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=14) y [0:20](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=20) **el tablón de anuncios de Gryffindor**, fieltro rojo en cuadros con cordón rojo y oro y tarjetas clavadas; [0:29](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=29) la cabeza de Harry flotando ante el tablón; 0:34-1:34 la Sección Prohibida con farol, estanterías y el cartel «RESTRICTED» tallado |
+| **Escena, con `fotogramas.py`**: [«Dobby Est Libre (Scène Culte)», P2](https://www.dailymotion.com/video/x3d4quh) (Dailymotion, copia de fan, audio francés, 512×216, 4:21) | 66 fotogramas, uno cada 4 s. 0:12-1:28 Dumbledore (Harris) y Lucius en el despacho; [2:44](https://www.dailymotion.com/video/x3d4quh?start=164) Dobby, encogido, **sostiene el diario con las dos manos**; [3:00](https://www.dailymotion.com/video/x3d4quh?start=180) **alarga un dedo hacia el calcetín**; [3:20](https://www.dailymotion.com/video/x3d4quh?start=200) **se planta ante Harry con las palmas abiertas** en el claustro; [4:00](https://www.dailymotion.com/video/x3d4quh?start=240) **cabeza ladeada, ojos húmedos**, arco con montañas detrás |
+| **Escena, con `fotogramas.py`**: [«Luna Lovegood», P5](https://www.dailymotion.com/video/x3dhmzl) (Dailymotion, canal Hitek, 512×288, 1:23) | 42 fotogramas, uno cada 2 s. 0:16-0:22 los carruajes con faroles en el bosque azul; [0:44](https://www.dailymotion.com/video/x3dhmzl?start=44) Luna sentada, **botas rojas**; [0:48](https://www.dailymotion.com/video/x3dhmzl?start=48) **El Quisquilloso al revés**, ella mira por encima; [1:06](https://www.dailymotion.com/video/x3dhmzl?start=66) la revista en el regazo, collar de corchos, chaqueta ciruela |
 | Escenas 8-12 (*storyboards* 160×90, para las poses de §15) | [P4, los campeones](https://www.youtube.com/watch?v=pLv1HXl_J10) (canal oficial, 5:04): [1:33](https://www.youtube.com/watch?v=pLv1HXl_J10&t=93) **Dumbledore con los brazos abiertos de par en par**, cáliz de fuego azul, luz fría. [P5, «Joining Dumbledore's Army»](https://www.youtube.com/watch?v=HOKRi1yJfJU) (oficial, 3:27): [0:33](https://www.youtube.com/watch?v=HOKRi1yJfJU&t=33) Hermione de pie ante el grupo en Cabeza de Puerco. [P5, «Harry Trains Dumbledore's Army»](https://www.youtube.com/watch?v=SnmpiWHrRSA) (oficial, 9:33): [3:12](https://www.youtube.com/watch?v=SnmpiWHrRSA&t=192) **el Decreto n.º 82 clavado en la pared**, [3:22](https://www.youtube.com/watch?v=SnmpiWHrRSA&t=202) Harry enseña señalando. [P7, «Escape From Malfoy Manor»](https://www.youtube.com/watch?v=R2zNRrOXbPY) (Movieclips, 3:42): [2:44-2:54](https://www.youtube.com/watch?v=R2zNRrOXbPY&t=164) Dobby erguido ante Bellatrix. [P1, clase de Pociones](https://www.youtube.com/watch?v=hMIN4wmHuiA) (Warner Bros. Entertainment, 3:32): mazmorra en sepia con haces de luz; no se ve a Hermione alzar la mano |
 
 ### 12.2 Otros vídeos (existen: comprobados con yt-dlp el 24-sep-2026)
@@ -1291,7 +1340,7 @@ También existen (vistos en la búsqueda de YouTube, no mirados): el
 | [Entrevista al artista jefe de Magic Awakened](https://www.youtube.com/watch?v=kBeIPiTRVuw) (canal del juego) | cómo dibujan a los personajes | 4:52, 18-jul-2023 ✅ |
 | [Los decretos de Educación](https://www.youtube.com/watch?v=gwwD3rlAGzU) (Vermilion Studios) | la pared de decretos | 3:21, 23-sep-2019 ✅ |
 | [Tráiler en español de P5](https://www.youtube.com/watch?v=fYBe1RNqaAw) (Warner Bros. Pictures México) | tráiler oficial en español | 2:16, 27-abr-2007 ✅ (fotogramas de 105×45, casi ilegibles) |
-| [Clases de UI de Magic Awakened en Bilibili](https://www.bilibili.com/video/BV1vA411e7Az/) | controles de interfaz, en chino | la página responde (200); el título no lo pude leer ⚠️ |
+| [Clases de UI de Magic Awakened en Bilibili](https://www.bilibili.com/video/BV1vA411e7Az/) | controles de interfaz, en chino | «【神奇美术公开课】《哈利波特魔法觉醒》界面风格——界面控件» (clase pública sobre el estilo de la interfaz: los controles), canal 神奇美术, 1:04:31, 9-jul-2020 ✅ (datos con yt-dlp; no la vi) |
 | [Featurette de Hogwarts Legacy](https://www.harrypotter.com/news/go-behind-the-scenes-of-hogwarts-legacy) | detrás de cámaras | existe: «Go behind the scenes of Hogwarts Legacy with a new featurette» ✅ (no lo vi) |
 
 Ninguno de estos vídeos tiene subtítulos (comprobado con yt-dlp).
@@ -1300,7 +1349,9 @@ Ninguno de estos vídeos tiene subtítulos (comprobado con yt-dlp).
 ([1](https://www.tiktok.com/discover/eres-libre-dobby),
 [2](https://www.tiktok.com/@valeria_arvizug/video/7322549984585387269)) y
 las actrices latinas en convenciones (Lu Leal en la EXPOMAC Veracruz, 18 de
-diciembre de 2022). No los abrí ⚠️.
+diciembre de 2022). Del segundo saqué los datos por el *oEmbed* de TikTok:
+«Dobby es un elfo libre. 🧦⚡️ #dobby #elfo #harrypotter… #doblaje», de
+Valeria Arvizu (@valeria_arvizug) ✅. El vídeo en sí no lo vi.
 
 ---
 
@@ -1320,10 +1371,14 @@ leído por la API; [TV Azteca](https://www.tvazteca.com/aztecadeportes/hogwarts-
 publicó las voces ✅): estudio **Pink Noise**, cinco directores a la vez
 (Alan Fernando Velázquez, Angélica Villa, Gaby Willer, Rick Loera, Rebeca
 Gómez). **César Arias hizo a Dumbledore en el tráiler de presentación: fue
-su último Dumbledore.** El profesor Fig es Jaime Vega; Sebastian Sallow,
-Alberto Bernal; Natty, Lourdes Arruti; Poppy, Jocelyn Robles. Nick Casi
-Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
-⚠️ (reparto: sólo Doblaje Wiki).
+su último Dumbledore.** Confirmado también por
+[ANMTV](https://www.anmtvla.com/2023/02/hogwarts-legacy-warner-bros-games.html)
+(nota de Warner Bros. Games) ✅: Natsai «Natty» Onai es **Lulú (Lourdes)
+Arruti**; Nick Casi Decapitado, **Álvaro Sarlich** (antes puse «Salarich»),
+que lo tomó tras la muerte de Alfonso Ramírez (2019); y la subdirectora
+**Matilda Weasley es Magda Giner**, la McGonagall latina de P1. El profesor
+Fig (Jaime Vega), Sebastian Sallow (Alberto Bernal) y Poppy (Jocelyn
+Robles) sólo salen en Doblaje Wiki ⚠️.
 
 ---
 
@@ -1390,6 +1445,7 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 | P1, [clip 0:21](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=21) | giro de muñeca con la varita, codo pegado | ✅ clip | explicar, demostrar |
 | P1, [clip 0:33-0:35](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=33) | sonrisa satisfecha mirando la pluma que flota | ✅ clip | **celebrar** |
 | P6, tráiler final 0:44 (§12) | sentada, **libro abrazado al pecho, mirada de reojo**, boca apretada | ✅ fotograma grande | **regañar**, pensar |
+| P1, Pociones, [captura de la wiki](https://static.wikia.nocookie.net/harrypotter/images/9/9f/Hermione_with_her_Hand_Up.jpg) (500×759) | **brazo derecho recto hacia arriba**, dedos juntos, ojos muy abiertos, boca entreabierta: «¡yo sé!» (el guion transcrito lo confirma) | ✅ imagen | **pedir la palabra, explicar**; muy reconocible |
 | P·1 (promo P3) | de pie, erguida, una mano apoyada en el mueble, gato al lado | ✅ hoja | **presentar** |
 | P·2 (render PAS) | libros abrazados, sonrisa, recortable | ✅ hoja | explicar, **animar** |
 | P4, [clip «Baile de Navidad» 1:19-1:35](https://www.youtube.com/watch?v=_WBTnZgWKAE&t=79) | baja la escalera con el vestido rosa, sonríe | ✅ clip | **qué NO** (gala) |
@@ -1402,11 +1458,13 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 | P5, [clip del carruaje 0:53-1:07](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=53) | **lee El Quisquilloso levantado con las dos manos**, tapándose la cara | ✅ clip | leer la prensa (concepto A) |
 | P5, [clip 1:09-1:12](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=69) | asoma por encima de la revista y **mira a Harry sin parpadear**, media sonrisa | ✅ clip | presentar, **animar** |
 | P5, [clip 1:22](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=82) | la revista en el regazo, cabeza un poco ladeada | ✅ clip | pensar |
+| P5, [vídeo real 0:48](https://www.dailymotion.com/video/x3dhmzl?start=48) (512 px) | sostiene **El Quisquilloso abierto y al revés** a la altura del pecho, con las dos manos; mira por encima, cabeza ladeada, media sonrisa | ✅ vídeo | **el guiño de Luna**; animar |
+| P5, [vídeo real 1:06](https://www.dailymotion.com/video/x3dhmzl?start=66) | mira hacia abajo, la revista en el regazo, collar de corchos colgando | ✅ vídeo | pensar, leer |
 | P·11 | gafas espectrales puestas, **El Quisquilloso abrazado** | ✅ hoja | el guiño al fan |
 | P·12 | lee El Quisquilloso abierto, con la portada hacia nosotros | ✅ hoja | enseñar un titular |
 | P·15 (Pottermore) | de pie **ante avisos clavados en la pared** | ✅ hoja | concepto C |
 | P·10 | **sombrero de león** en la cabeza | ✅ hoja | celebrar, animar |
-| P6 00:22:36 | reparte El Quisquilloso por el pasillo del tren | sitio ✅ (wiki), gesto ⚠️ | presentar, repartir |
+| P6 00:22:36 | «Quibbler… Quibbler»: **corre por el pasillo del tren con la revista en la mano** y se la da a Ginny | ✅ texto (wiki + guion transcrito); no lo vi en imagen | presentar, repartir |
 
 ### Dobby
 
@@ -1420,6 +1478,10 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 | P·18 | **chasquea los dedos, mano en alto** | ✅ hoja | **proclamar** |
 | P·19 | **brazos en jarra**, pecho fuera | ✅ hoja | orgullo, «elfo libre» |
 | P·21 (render PAS) | de cuerpo entero con el libro, recortable | ✅ hoja | recorte limpio |
+| P2 02:25:12, [vídeo real 3:00](https://www.dailymotion.com/video/x3d4quh?start=180) (512 px) | **alarga un dedo larguísimo** hacia el calcetín que cuelga del diario, sonrisa pícara, ojos verdes muy abiertos | ✅ vídeo | **señalar**: «mira esto» |
+| P2 02:25:41, [vídeo real 3:20](https://www.dailymotion.com/video/x3d4quh?start=200) | **de pie delante de Harry, pies separados, palmas abiertas hacia fuera**, en mitad del claustro | ✅ vídeo | proteger, **proclamar** |
+| P2, [vídeo real 2:44](https://www.dailymotion.com/video/x3d4quh?start=164) | encogido, **sostiene el diario con las dos manos** contra la barriga, mira de reojo hacia arriba | ✅ vídeo | presentar un objeto con timidez |
+| P2, [vídeo real 4:00](https://www.dailymotion.com/video/x3d4quh?start=240) | primer plano: **cabeza ladeada, ojos húmedos mirando arriba, sonrisa apretada** | ✅ vídeo | agradecer, despedir |
 | P7 02:09:15, [clip de Movieclips 2:44-2:54](https://www.youtube.com/watch?v=R2zNRrOXbPY&t=164) | «Dobby no tiene amo…»: **de pie, erguido, brazos a los lados, la cara alzada** hacia Bellatrix; escena muy oscura | ✅ clip | proclamar (el gesto; la escena, no) |
 
 ### Dumbledore
@@ -1433,6 +1495,8 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 | P3, [clip 2:42-2:44](https://www.youtube.com/watch?v=dvFehFzph7I&t=162) | **los dos índices en alto** | ✅ clip | explicar, **animar** |
 | P3, [clip 2:48-2:52](https://www.youtube.com/watch?v=dvFehFzph7I&t=168) | apaga una vela con los dedos | ✅ clip | el remate |
 | F·1 (P1, Harris) | de pie en la mesa, entre velas, túnica burdeos | ✅ hoja | presentar (época P1) |
+| P1, [tráiler de 2001, 1:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=75) (720p) | **erguido en el centro de la mesa, brazos caídos dentro de la túnica**, mirada al frente; copa dorada delante, velas en candelabros | ✅ vídeo | **anunciar** (época P1, sin atril) |
+| P1, [*teaser*, 0:51](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=51) | sentado en el sillón dorado, **bebe de una copa dorada** mirando por encima de las gafas | ✅ vídeo | el remate amable, brindar |
 | P·26 (render PAS) | **mano abierta hacia arriba**, recortable | ✅ hoja | explicar |
 | P·24 · P·25 | varita en alto · sentado, una mano con anillos en el brazo del sillón | ✅ hoja | presentar con énfasis · **pensar** |
 | P4, [escena oficial de los campeones 1:33-1:42](https://www.youtube.com/watch?v=pLv1HXl_J10&t=93) | **brazos abiertos de par en par** ante el comedor y luego las palmas hacia arriba, junto al cáliz de fuego azul | ✅ clip | **anunciar**, presentar con énfasis |
@@ -1447,7 +1511,7 @@ Decapitado pasó a Álvaro Salarich tras la muerte de Alfonso Ramírez (2019)
 | P·30 (promo P2) | retrato de frente, uniforme completo | ✅ hoja | **presentar** |
 | P·36 (render PAS) | con un libro, recortable | ✅ hoja | explicar |
 | P·29 (promo P6) | perfil serio, luz lateral | ✅ hoja | pensar |
-| P1 00:54:38 | lee El Profeta en voz alta en el desayuno (según la wiki, §3) | frase ✅, gesto no visto ⚠️ | explicar |
+| P1 00:54:38 | pide el diario a Ron y lo lee en voz alta en el desayuno (wiki + guion transcrito, §3) | quién y qué ✅; el gesto no lo vi ⚠️ | explicar |
 | P5, [clip oficial «Harry Trains Dumbledore's Army» 3:22-3:27 y 4:26](https://www.youtube.com/watch?v=SnmpiWHrRSA&t=202) | enseña al ED: **brazo extendido señalando** a un alumno, varita en la otra mano | ✅ clip | **explicar, animar** |
 
 ### Ron
@@ -1468,7 +1532,9 @@ explicar → Hermione con la cabeza ladeada (clip 0:10) o con libros (P·2);
 celebrar → Dobby erguido con el calcetín (clip 1:34) o chasqueando los dedos
 (P·18); regañar → Hermione con el libro abrazado (tráiler P6 0:44); pensar →
 Dumbledore sentado (P·25); animar → Luna asomando por encima de la revista
-(clip 1:09).
+(clip 1:09) o **con la revista al revés** (vídeo 0:48). **Pedir la palabra**
+→ Hermione con la mano arriba (captura de Pociones). **Anunciar en época
+P1** → Harris de pie en la mesa (tráiler 1:15).
 
 ---
 
@@ -1486,9 +1552,9 @@ Dumbledore sentado (P·25); animar → Luna asomando por encima de la revista
 | Harry | túnica negra, jersey gris de pico con ribete rojo y oro, corbata de rayas rojas y doradas, camisa blanca, **gafas redondas**, pelo negro revuelto (P·30, P·36) | túnica `#191B20`, jersey `#3F484A`, rojo de corbata `#61121B`, oro de corbata y ribete `#CC8E2A`, pelo `#2E1F17` (P·30). ~~`#1A1A1A` `#740001` `#D3A625`~~ |
 | Hermione | uniforme de falda gris y jersey; **pelo castaño rizado y abundante**; en P3 ropa de calle oscura; vestido rosa de volantes sólo en el baile (P·5, clip del baile) | pelo `#835318` en sombra, `#BD924B` con luz (P·3); jersey `#2E211C`, falda `#251A17` (P·1). ~~`#6B4226` `#E8A0B4`~~ |
 | Ron | pelo pelirrojo; uniforme con la corbata floja; forro de la túnica granate (P·31, P·7) | pelo `#8C4C1C` (P·7, P1) y `#A08058` (P·31, luz de estudio); forro `#472D29` (P·31). ~~`#B5472B` `#6E1F2A`~~ |
-| Dumbledore (P1-P2, Harris) | túnica **burdeos con bordado dorado**, gorro a juego, barba blanca muy larga (P·27, F·1) | burdeos `#3E1613`, bordado `#DDB47F`, barba `#C1A696` (P·27, luz de velas) |
+| Dumbledore (P1-P2, Harris) | túnica **burdeos con bordado dorado**, gorro a juego (en el *teaser*, **gorro de terciopelo con estrellitas doradas**), barba blanca muy larga, gafas ovaladas de alambre (P·27, F·1, *teaser* 0:51) | burdeos `#3E1613`, bordado `#DDB47F`, barba `#C1A696` (P·27, luz de velas); en el tráiler de 2001 (1:15, 720p): gorro `#652B31`, túnica en sombra `#291E25`, copa `#895F36` |
 | Dumbledore (P3-P8, Gambon) | túnicas **gris pardo y lila apagado**, gorro de punto, gafas de media luna, barba más recogida (P·24, P·26, clip P3) | gris `#4D4A42`, barba `#A9937F` (P·24); lila `#585163`, gorro `#424244` (P·26, juego). ~~`#C9C9C9` `#4B2C4F`~~ |
-| Luna | rubia muy clara, **gafas espectrales** rosa y azul, pendientes de rábano, abrigo de cuadros rosados; en P6 chaqueta ciruela, falda oscura y **medias turquesa** (P·9, P·11, P·13) | pelo `#AE8F6B` (P·9, luz cálida); abrigo `#B37D71`, gafas `#F8C3F3` (P·11); chaqueta `#5F3D4D`, falda `#1F1A1F`, medias `#24576F` (figurín P·13). ~~`#E8DDB5` `#0E1A40`~~ |
+| Luna | rubia muy clara, **gafas espectrales** rosa y azul, pendientes de rábano, abrigo de cuadros rosados; en el carruaje de P5, chaqueta ciruela, **collar de corchos** y **botas de agua rojas** (vídeo 0:44-1:06); en P6 chaqueta ciruela, falda oscura y **medias turquesa** (P·9, P·11, P·13) | pelo `#AE8F6B` (P·9, luz cálida); abrigo `#B37D71`, gafas `#F8C3F3` (P·11); chaqueta `#5F3D4D`, falda `#1F1A1F`, medias `#24576F` (figurín P·13). ~~`#E8DDB5` `#0E1A40`~~ |
 | McGonagall | túnica y sombrero puntiagudo **verde oscuro** con brillo de tafetán; en el baile, sombrero negro de ala enorme (P·33, clip del baile) | verde `#1E4A23` (figurín P·33) |
 | Dobby | **funda de almohada vieja** atada, piel rosada, orejas de murciélago rojizas por dentro, **ojos verdes enormes** (P·20) | funda `#998D64`, piel `#9B6B50`, dentro de la oreja `#67181F`, ojo `#7D9146` (P·20). ~~`#A39E86` `#6F8F3A`~~ |
 
@@ -1533,8 +1599,12 @@ archivo. Todo © de su dueño: **sólo referencia de luz y composición**.
 | Ilustraciones anchas de Pottermore (F·9, F·10, F·15, F·17, F·18) | 4120-5152 px de ancho | Pottermore (§2.0) | **las mejores para una lámina 1200×800**: ya son escenas |
 
 **Fondos de fans en alta**: la wiki trae fondos viejos de fans de
-800×600 a 1280×1024 (p. ej. [el de P4](https://static.wikia.nocookie.net/harrypotter/images/0/09/Harry-potter-and-the-goblet-of-fire-movie-wallpaper.jpg), 800×600): no sirven. DeviantArt
-y ArtStation no los busqué a fondo ⚠️ (ArtStation da 403).
+800×600 a 1280×1024 (p. ej. [el de P4](https://static.wikia.nocookie.net/harrypotter/images/0/09/Harry-potter-and-the-goblet-of-fire-movie-wallpaper.jpg), 800×600): no sirven. En el
+cierre busqué en **DeviantArt** por su RSS («hogwarts great hall
+wallpaper», 60 resultados): casi todo son relatos de fans o imágenes de
+700-1200 px, y alguna con pinta de IA. **No encontré fondos de fans en alta
+que valgan**; ArtStation sigue dando 403. Para la lámina, mejor el arte
+ancho de Pottermore (4000-5000 px) y las capturas del juego.
 
 ### Horas del día y luz (vistas)
 - **Desayuno** (concepto A): mesas con cuencos de copos dorados, jarras
@@ -1596,7 +1666,10 @@ render, teal and orange, modern classroom, fluorescent light.*
 - **Objeto**: la portada de P1 (O·2), el atril (O·26, F·2), el tablón
   (O·21), el vociferador (O·17 y el fotograma 1080p de 0:16).
 - **Composición de anuncio**: el arte de King Chen, todos mirando al que
-  habla (§17).
+  habla (§17), y el pasillo central del Gran Comedor con cientos de velas
+  (tráiler de 2001, 0:36).
+- **Luz de P1 en vídeo real**: el tráiler de 2001 (1:15, Dumbledore en la
+  mesa) y el fragmento en 1080p de la sala común con el tablón (0:14).
 
 **Lo que la IA suele estropear y hay que corregir a mano**: las letras del
 periódico (salen garabatos: la portada se compone con las letras de §6),
@@ -1632,7 +1705,12 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
   Dos copias superpuestas y desplazadas, con poca opacidad, sugieren el
   movimiento. Si el formato lo permite, una versión animada de 2 o 3 segundos.
 - **Cómo habla**: la portada es el cuadro de diálogo. Estilo de la primera
-  época: **nada de cabecera de propaganda**.
+  época: **nada de cabecera de propaganda**. Los titulares, cortos y en
+  presente, como los que **lee en voz alta el narrador del doblaje
+  latino** («Dumbledore y Potter reivindicados», §10.3). Y un titular
+  pequeño de broma interna, como hacía Eduardo Lima con Caxambu (§7.1).
+- **El guiño**: al fondo, desenfocada, **Luna leyendo El Quisquilloso al
+  revés** (vídeo de P5, 0:48): la «otra prensa» frente a la oficial.
 - **Dónde va cada texto**:
   - Cabecera, en **UnifrakturMaguntia**: «**Anuncios**».
   - Bajo la cabecera, línea de fecha en IM Fell English SC: «Las novedades oficiales del servidor».
@@ -1658,6 +1736,10 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
   existe desde P3: **no usar a Harris (P1-P2) aquí**. Es su gesto de anunciar:
   en ese mismo discurso dice «I'm delighted to announce…» y presenta a
   Hagrid (P3 00:24:29). Encaja con «solo staff».
+  **Versión época P1**, si se quiere a Harris: sin atril, **de pie en el
+  centro de la mesa de profesores**, brazos caídos, copa dorada delante y
+  velas en candelabros (tráiler de 2001, 1:15, visto en 720p); el
+  pergamino, entonces, sobre la mesa.
 - **Cómo habla**: no hay globo. Sus palabras **son el pergamino**, con letra
   de pluma. Una firma suya al pie en Pinyon Script.
 - **Dónde va cada texto**:
@@ -1674,20 +1756,26 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
 ### Concepto C — «El tablón de Gryffindor» (con Dobby)
 
 - **Objeto y sitio**: **el tablón de anuncios de la sala común de
-  Gryffindor**, junto a la chimenea. **Fieltro rojo oscuro `#51201D` con
-  marco de madera tallada casi negra** (el oficial de Pottermore, O·21; no
-  es corcho), entre tapices de flores, lleno de avisos pequeños de los libros: libros de segunda mano,
+  Gryffindor**, junto a la chimenea. **Cambiado en el cierre: ahora se
+  copia el de la película 1**, que vi en 1080p (P1 ≈01:28:25,
+  [fragmento, 0:14](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=14)): **fieltro rojo dividido en cuadros
+  por cintas finas oscuras y con borde de cordón trenzado rojo y oro**, al
+  lado del tapiz del unicornio. El de Pottermore (O·21: **fieltro rojo
+  oscuro `#51201D` con marco de madera tallada casi negra**; no es corcho)
+  sirve para el marco. Entre tapices de flores, lleno de avisos pequeños de los libros: libros de segunda mano,
   normas de Filch, entrenamientos de quidditch, anuncios de los gemelos
   Weasley. **Encima de todo, un aviso oficial enorme** con lacre de
   Hogwarts, como el cartel de Aparición del libro 6. Fácil en Blender:
   base de [este tablón](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913)
   (CC BY) y marco del [tablón medieval](https://sketchfab.com/3d-models/566a4332b57d4045a1cc4ffec77b4b8f)
-  (CC BY), con el corcho teñido a fieltro `#51201D`.
+  (CC BY), con el corcho teñido a fieltro `#51201D`, las cintas en cuadrícula
+  y el cordón rojo y oro como una curva con material de cuerda.
 - **Personaje**: **Dobby**, subido a un taburete, clava el aviso. Lleva
   encima la torre de gorros de lana: en el libro 5 Hermione teje gorros para
   liberar elfos y **Dobby se los lleva al limpiar la sala común y se los
   apila en la cabeza** ([Harry Potter Wiki, «Elf hat»](https://harrypotter.fandom.com/wiki/Elf_hat),
-  que cita el libro; una fuente ⚠️). Pose **vista**: la mano en alto
+  que cita el libro, y [HP Lexicon](https://www.hp-lexicon.org/character/dobby/):
+  «a tower of knitted hats», de 60 a 90 cm de alto, libro 5, cap. 18) ✅. Pose **vista**: la mano en alto
   chasqueando los dedos (P·18) o los brazos en jarra (P·19); la cara, P·20.
   Es el guiño al fan: el elfo libre que eligió ayudar. (La lista de
   apariciones de la wiki pone a Dobby en el libro 5 y no en la película 5:
@@ -1704,6 +1792,8 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
 - **Profundidad**: el respaldo de una butaca roja en primer plano,
   desenfocado. Luz naranja de la chimenea desde un lado (F·18); sombras
   largas de las chinchetas en el fieltro. Una lechuza dormida en la ventana del fondo.
+  A un lado, el borde del tapiz del unicornio con collar de lunas (como en
+  el fotograma de P1): el fan lo reconoce.
 
 ### ¿Cuál primero?
 **A**, porque es el objeto del plan con escena real y la lectura de «noticia»
@@ -1719,31 +1809,35 @@ imágenes (§2.0), licencias de Sketchfab y Commons (§2.2, §4), hex medidos
 (§5, §16), frases del doblaje latino (§10.3), poses vistas (§15), música
 de P7-P8, Reddit (§14), portadas y Jim Kay (§2.5), fondos de pantalla (§17).
 
+**Resuelto en el cierre (tercer ayudante)**: quién lee El Profeta en P1
+(Harry, guion transcrito), Hermione con la mano arriba (captura + guion),
+Luna repartiendo El Quisquilloso (guion), el tablón en la película (visto),
+Caxambu (O Tempo), la encuesta de MTV (IBTimes, IMDb), la coreana
+(Dispatch), el logo de Hogwarts Legacy (Pentagram), las capturas de
+*Hogwarts Mystery*, el vídeo de Bilibili y el TikTok (datos), los fondos de
+fans (buscados: no hay en alta), el redoblaje argentino (DubDB), y seis
+voces del doblaje (créditos de cine, DubDB, Wikipedia).
+
 **Sigue dudoso, y por qué** (cada uno lleva su marca de duda en su sitio):
 - **Vídeo de YouTube a tamaño real**: YouTube no dejó bajar ni un clip
-  (bloqueo por IP compartida). Las poses de clips salen de miniaturas de
-  160×90 o 320×180 (±2 s): valen para el gesto, no para recortar.
-- **Poses sin clip**: Hermione levantando la mano, Luna repartiendo El
-  Quisquilloso (P6), Harry leyendo El Profeta (P1) y Ron en P8. Tienen
+  (bloqueo por IP compartida; sólo *storyboards*). Lo visto en vídeo real
+  sale del Internet Archive y de Dailymotion (§12.1).
+- **Gestos sin ver**: Harry leyendo El Profeta (P1) y Ron en P8. Tienen
   minuto y frase comprobados; el gesto, no.
 - **Doblaje con una sola web** (Doblaje Wiki): estudio y dirección de P4,
-  P5, P6 y P8; las voces de Hermione en P3, McGonagall en P1, Snape en P3,
-  P7 y P8, Umbridge y Molly; el redoblaje argentino. P1 y P3 ya tienen
-  segunda fuente.
-- **«Torposoplos»** en el audio de Luna: Whisper oye «torposolos»; la
-  palabra de los libros sí existe en la wiki en español.
+  P6 y P8; la dirección de P5 (Wikipedia dice otra cosa); Snape en P7;
+  parte del reparto de Hogwarts Legacy; los datos de interés de §10.1.
+- **«Torposoplos»** en el audio de Luna: Whisper *medium* oye «torpo
+  solos» dos veces; la palabra de los libros sí existe en la wiki en español.
 - **«Eres un mago, Harry»** en el audio latino: no hay muestra ni clip.
 - **Una sola fuente**: El Profeta y El Quisquilloso clavados cada día en el
-  tablón (la wiki no lo cita), los gorros de Dobby (wiki que cita el libro),
-  los datos de Steps to Magic, la encuesta de MTV, la de muertes de Fanpop.
+  tablón (la wiki no lo cita), la herramienta de MinaLima para cortar los bordes (Steps to Magic), la
+  encuesta de muertes de Fanpop, que «LEGACY» vaya en Tautz (FontBolt).
 - **Letras sin comprobar**: la de El Profeta que señalan los fans (P22
-  Operina) y la del logo de Hogwarts Legacy (FontBolt). La de los menús de
-  Hogwarts Legacy no aparece en ninguna fuente.
+  Operina, dos webs de fans). La de los menús de Hogwarts Legacy no aparece
+  en ninguna fuente.
 - **Licencia de Texturelabs**: la página de condiciones devuelve un reto
-  antibots.
-- **Sin abrir**: TikTok, el vídeo de Bilibili, capturas de *Hogwarts
-  Mystery*, fondos de fans en DeviantArt y ArtStation (403), carteles de
-  cine en alta.
+  antibots y la copia de Wayback no baja.
 
 ---
 

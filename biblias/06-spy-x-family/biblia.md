@@ -170,6 +170,139 @@ la del anime (25 episodios en la temporada 1).
 
 ## 3 · Arte oficial y referencias visuales
 
+### 3.0 · Las hojas de contacto (segunda pasada) ✅
+
+Hechas con `herramientas/investigar_serie.py` sobre la wiki
+[spy-x-family.fandom.com](https://spy-x-family.fandom.com/) (la del
+encargo; funciona: 745 artículos, 11.499 imágenes). Dos tandas:
+
+- **Personajes** (Anya, Loid, Yor, Bond, Damian, Becky): 1453 imágenes
+  enlazadas, **963 grandes**, 21 hojas.
+- **Sitios y secundarios** (piso Forger, Berlint, Eden, WISE, Garden,
+  Ostania, Spy Wars, Operación Strix, concurso de popularidad, artbook
+  del anime, Franky, Yuri): 1627 enlazadas, 976 grandes, **688 nuevas**.
+
+Las 42 hojas se miraron una a una. De ahí salieron **las 90 mejores**,
+montadas en tres hojas propias (Pillow), 30 cada una. Se citan así:
+**P·7** = número 7 de `hojas/personajes_01.jpg`; **O·1** =
+`hojas/objetos_01.jpg`; **F·4** = `hojas/fondos_01.jpg`. El episodio sale
+de la categoría de la imagen en la wiki (numeración seguida: T1 = 1-25,
+T2 = 26-37, T3 = 38 en adelante). El enlace del tamaño lleva **al original**.
+
+> [!tip] El gran hallazgo: el expediente de WISE existe en el anime
+> O·1 y O·2 (ep. 7) son **las fichas de WISE tal como salen en pantalla**:
+> portada «CLASSIFIED» con el búho de WISE y el sello rojo «TOP SECRET», y
+> la ficha de Loid con foto de carné y el nombre a máquina. Y el manga abre
+> cada tomo con una página **«MISSION / TARGET / KEY PERSON / STORY»**
+> (O·10): es la maquetación de una ficha. El objeto del plan no es un
+> invento: es de la serie.
+
+#### `hojas/personajes_01.jpg` (P·1 a P·30)
+
+| # | Qué es y para qué sirve | Tamaño del original |
+|---|---|---|
+| P·1 | Loid, cuerpo entero a color (arte del tomo 1): sentado en una butaca, pierna cruzada, leyendo el periódico. Pose de **analizar** (concepto A) | [1089×2175](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125912) |
+| P·2 | Yor, cuerpo entero (tomo 3): Thorn Princess sentada, vestido negro y agujas doradas. Para «Dato raro» | [1137×2001](https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Yor_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125726) |
+| P·3 | Anya, cuerpo entero (tomo 2): sentada en el sofá rojo, uniforme de Eden, pies colgando. Pose de **presentarse** (B y C) | [586×1180](https://static.wikia.nocookie.net/spy-x-family9171/images/7/7e/Anya_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125814) |
+| P·4 | Bond, cuerpo entero (tomo 4): sentado, pajarita negra. Volumen y pelaje (C) | [1004×1322](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c3/Bond_Forger_Colored_Full_Body.png/revision/latest?cb=20200714131106) |
+| P·5 | Damian, hoja de modelo a color (guía oficial *MISSION REPORT*): uniforme de frente, perfil y espalda; detalle de botones e insignia | [1496×895](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c5/Damian_Desmond_Colored_Character_Sheet.png/revision/latest?cb=20240915134825) |
+| P·6 | Becky, hoja de modelo a color: uniforme, lazo rojo y zapatos. Vestuario (§16) | [1496×915](https://static.wikia.nocookie.net/spy-x-family9171/images/0/06/Becky_Blackbell_Colored_Character_Sheet.png/revision/latest?cb=20240915134627) |
+| P·7 | Ilustración del **top 10 del concurso de popularidad**: todos de gala, Loid con el trofeo. Pose de **celebrar** en grupo (§9) | [1280×1006](https://static.wikia.nocookie.net/spy-x-family9171/images/0/00/Character_Popularity_Poll_Top_10_Ranking_Illustration.png/revision/latest?cb=20251221150144) |
+| P·8 | Key visual de la T3: Anya en grande entre peluches. Estilo actual | [2000×2827](https://static.wikia.nocookie.net/spy-x-family9171/images/e/e8/SPY_x_FAMILY_Season_3_Key_Visual.png/revision/latest?cb=20250831030035) |
+| P·9 | Key visual 2 limpio: Anya con abrigo azul y la familia detrás. La mejor referencia de estilo | [2159×3072](https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/SPY_x_FAMILY_Key_Visual_2_Clean.png/revision/latest?cb=20250615042001) |
+| P·10 | Key visual *ANIME EXTRA MISSION II* (2026): los ocho de gala, con Bond. Poses de grupo | [2898×4096](https://static.wikia.nocookie.net/spy-x-family9171/images/b/b2/SPY_x_FAMILY_ANIME_EXTRA_MISSION_II_Key_Visual.png/revision/latest?cb=20260710144145) |
+| P·11 | **Tobu Zoo 2023: un retrato por personaje, cada uno en su cuadro de color.** Es el formato «foto de ficha» del canal | [2834×1917](https://static.wikia.nocookie.net/spy-x-family9171/images/c/cb/Tobu_Zoo_2023_Main_Key_Visual.png/revision/latest?cb=20230904001757) |
+| P·12 | Portada del fanbook *EYES ONLY* (EE. UU.): sello rojo «CLASSIFIED» y letras de expediente | [1399×2219](https://static.wikia.nocookie.net/spy-x-family9171/images/c/cd/US_SPY_x_FAMILY_Official_Fanbook_EYES_ONLY_Cover.png/revision/latest?cb=20230526062925) |
+| P·13 | La cara **«Heh»** (ep. 6) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/Anya%27s_smug_face_Anime.png/revision/latest?cb=20240530192725) |
+| P·14 | Anya lee mentes en el juego de la vieja (ep. 29): **destello blanco de cuatro puntas** junto a la cabeza. Así se dibuja la telepatía | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/a/a2/Anya_using_her_telepathy_during_the_Old_Maid_game.png/revision/latest?cb=20260804094454) |
+| P·15 | Anya imita a Loid (ep. 39): rótulo **«ちちのまね» escrito a mano en rosa** sobre el fotograma. Cartela manuscrita del anime | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/e/ef/Anya_believes_she_has_two_handkerchiefs.png/revision/latest?cb=20260628220444) |
+| P·16 | Anya presenta a Bond (ep. 15): de pie junto a él en el salón, tele antigua detrás. **Presentar con Bond** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/8/8f/Anya_names_Bond.png/revision/latest?cb=20240530194716) |
+| P·17 | Anya sonríe a Loid, ojos cerrados (ep. 11). **Animar, celebrar** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/8/85/Anya_smiles_at_Loid.png/revision/latest?cb=20240216202718) |
+| P·18 | Anya enseña a Loid su llavero de oveja (ep. 24). **Me gusta** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/d/da/Anya_shows_Loid_her_sheep_keychain.png/revision/latest?cb=20240220040710) |
+| P·19 | Loid emocionado: los cuatro en el sofá (ep. 21). Grupo en casa | [1916×1656](https://static.wikia.nocookie.net/spy-x-family9171/images/5/50/Loid_showing_genuine_emotion_with_his_family.png/revision/latest?cb=20240530191550) |
+| P·20 | Loid en acción con pistola (arte del anime). Tono espía, no para este canal | [641×1336](https://static.wikia.nocookie.net/spy-x-family9171/images/c/cd/Loid_Forger_Anime_3.png/revision/latest?cb=20211031154403) |
+| P·21 | Yor en acción con las agujas (arte del anime). Sólo para «Dato raro» | [853×1066](https://static.wikia.nocookie.net/spy-x-family9171/images/5/53/Yor_Forger_Anime_3.png/revision/latest?cb=20211031154658) |
+| P·22 | **Loid corrige los deberes de Anya en la mesa del salón**, Yor trae la bandeja (ep. 11). Es el «escritorio de Loid» en casa (concepto A) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/2/20/Loid_scolds_Anya_for_spelling_mistakes.png/revision/latest?cb=20250601191910) |
+| P·23 | Portada de *Animage* (sep. 2022): Anya con helado y Damian de brazos cruzados | [2049×3004](https://static.wikia.nocookie.net/spy-x-family9171/images/4/42/Animage_Magazine_Cover_-_September_2022_Clean.png/revision/latest?cb=20240503075717) |
+| P·24 | Cuenta atrás de la T3, 7 días: **Becky escribiendo con pluma** sobre un papel. Pose de rellenar la ficha | [3335×3748](https://static.wikia.nocookie.net/spy-x-family9171/images/8/8c/Season_3_Countdown_7_Days.png/revision/latest?cb=20250927100152) |
+| P·25 | Becky presume de su muñeco de papel de Loid (ep. 17) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/66/Becky_shows_off_her_paper_Loid_model.png/revision/latest?cb=20240529222057) |
+| P·26 | Damian, 12 expresiones a color (guía oficial) | [907×685](https://static.wikia.nocookie.net/spy-x-family9171/images/b/bd/Damian_Desmond_Colored_Expressions.png/revision/latest?cb=20240914171315) |
+| P·27 | Becky, 12 expresiones a color (guía oficial) | [906×685](https://static.wikia.nocookie.net/spy-x-family9171/images/5/57/Becky_Blackbell_Colored_Expressions.png/revision/latest?cb=20240914171622) |
+| P·28 | Tomo 9 (EE. UU.): **Becky en la Coconut Chair** ✅ | [1400×2100](https://static.wikia.nocookie.net/spy-x-family9171/images/f/fd/US_Volume_9.png/revision/latest?cb=20221127233453) |
+| P·29 | Tomo 7: **Damian en la Willow Chair** de Mackintosh ✅ | [1280×2012](https://static.wikia.nocookie.net/spy-x-family9171/images/2/24/Volume_7.png/revision/latest?cb=20210516152858) |
+| P·30 | Póster AEON MALL 2022: la familia paseando por una calle de Berlint, en invierno. Grupo caminando | [1920×1375](https://static.wikia.nocookie.net/spy-x-family9171/images/4/44/AEON_MALL_2022_Poster.png/revision/latest?cb=20250422215449) |
+
+#### `hojas/objetos_01.jpg` (O·1 a O·30)
+
+| # | Qué es y para qué sirve | Tamaño del original |
+|---|---|---|
+| O·1 | **Expediente de WISE**: portada «CLASSIFIED» con el búho de WISE y sello rojo «TOP SECRET» (ep. 7). **El objeto del concepto A, tal como sale en el anime** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/WISE%27s_files_on_Donovan_Desmond_Anime.png/revision/latest?cb=20241029001112) |
+| O·2 | **Ficha de WISE de Loid Forger** (ep. 7): foto de carné, nombre a máquina en mayúsculas, texto en columnas. Plantilla de la ficha | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/WISE%27s_files_on_Loid_Forger_Anime.png/revision/latest?cb=20241031061207) |
+| O·3 | Ficha de Donovan Desmond (ep. 7): foto en blanco y negro, nombre a máquina, tono verdoso | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/5/52/WISE%27s_files_on_Donovan_Desmond_Anime_2.png/revision/latest?cb=20241028235904) |
+| O·4 | Documentos de WISE sobre Winston Wheeler (ep. 48): foto, texto a máquina y **notas a mano** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/6e/WISE%27s_documents_on_Winston_Wheeler.png/revision/latest?cb=20251213144253) |
+| O·5 | Fichas de Melinda **clavadas en un corcho** (ep. 42). Idea para la lámina 2 | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/60/WISE%27s_files_on_Melinda_Anime.png/revision/latest?cb=20251101153122) |
+| O·6 | Carpeta negra «VIP» con letras doradas (hospital, ep. 50) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/a/a3/Berlint_General_Hospital_Medical_Files_for_VIP_patients_Anime.png/revision/latest?cb=20251227152746) |
+| O·7 | Ficha del SSS de Franklin Perkin, en manos de Yuri (ep. 28) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/8/8a/SSS%27s_file_on_Franklin_Perkin_Anime.png/revision/latest?cb=20260513060140) |
+| O·8 | Franky pasa a Loid un **sobre con cordel** (ep. 29) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/68/Franky_gives_Loid_papers_for_his_extra_mission.png/revision/latest?cb=20250606115913) |
+| O·9 | «SPY×FAMILY CONFIDENTIAL FILES (OMAKE)» (tomo 11): cabecera a máquina y sello «TOP SECRET · EYES ONLY» | [1222×1920](https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/Volume_11_Confidential_Files_Bonus.png/revision/latest?cb=20230609135656) |
+| O·10 | **Página «MISSION / TARGET / KEY PERSON / STORY»** (tomo 6): la ficha que abre cada tomo, con recuadros y caras. Maquetación de la ficha del canal | [1440×2180](https://static.wikia.nocookie.net/spy-x-family9171/images/a/a3/Volume_6_Mission%2C_Key_Person%2C_and_Story_Page.png/revision/latest?cb=20201227164541) |
+| O·11 | «Confidential Files» del tomo 12: «REPORT ON…», misma letra de máquina | [1020×1600](https://static.wikia.nocookie.net/spy-x-family9171/images/4/4a/Volume_12_Confidential_Files_Bonus_1.png/revision/latest?cb=20231003170520) |
+| O·12 | Contraportada del tomo 2 (EE. UU.): **hojas de expediente con fotos sujetas con clip** y rótulo a mano | [1400×2100](https://static.wikia.nocookie.net/spy-x-family9171/images/4/48/US_Volume_2_Back_Cover.png/revision/latest?cb=20200511125044) |
+| O·13 | Contraportada del tomo 11 (EE. UU.): lo mismo | [1000×1500](https://static.wikia.nocookie.net/spy-x-family9171/images/5/51/US_Volume_11_Back_Cover.png/revision/latest?cb=20230925064750) |
+| O·14 | **Tarjetas de nombre** (Nijigen no Mori 2024): cada personaje en su tarjeta, con el nombre en letra inglesa. «Me llamo» | [2048×1455](https://static.wikia.nocookie.net/spy-x-family9171/images/8/80/Nijigen_no_Mori_2024_Gift_26.png/revision/latest?cb=20241012122341) |
+| O·15 | Placas de nombre en rojo (colaboración Tsukuba 2023-2025) | [1500×1056](https://static.wikia.nocookie.net/spy-x-family9171/images/d/d4/Tsukuba_Collab_2023-2025_Gift_1.png/revision/latest?cb=20240425050700) |
+| O·16 | **Ilustración del tomo 4: objetos de espía vistos desde arriba** (pistola, sombrero, gafas, pajarita, maletín, lupa). Atrezo para Blender | [764×1200](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c1/Volume_4_Illustration_2.png/revision/latest?cb=20200508135816) |
+| O·17 | **«Las cosas favoritas de Anya»** (tomo 2): lista dibujada. «Me gusta» | [1080×1554](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c6/Volume_2_Anya%27s_Favorite_Things.png/revision/latest?cb=20240218013234) |
+| O·18 | Marco de fotos «FORGER FAMILY Photo frame» (producto de la exposición) | [1280×1280](https://static.wikia.nocookie.net/spy-x-family9171/images/5/50/Exhibition_Merchandise_71.png/revision/latest?cb=20230627032739) |
+| O·19 | La **Stella**, estrella dorada de Eden (cap. 7) | [808×808](https://static.wikia.nocookie.net/spy-x-family9171/images/1/10/Stella_Star.png/revision/latest?cb=20230202185353) |
+| O·20 | Anya descubre el **radiotransmisor** de Loid en un maletín (ep. 1) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Anya_finds_Loid%27s_radio_transmitter.png/revision/latest?cb=20250529064127) |
+| O·21 | El **cuaderno indescifrable de Anya** (ep. 20): su letra de verdad | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/0/09/Anya%27s_undecipherable_notebook.png/revision/latest?cb=20240124175039) |
+| O·22 | Cuaderno **«EDEN NOTEBOOK»** (producto de la exposición): tapa roja y blanca con escudo. Concepto C | [944×697](https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/Exhibition_Merchandise_31.png/revision/latest?cb=20230627032905) |
+| O·23 | Carné falso de «Berlint University» con foto (ep. 12) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/b/b7/Loid_reveals_the_I.D._is_a_fake.png/revision/latest?cb=20250601191906) |
+| O·24 | «Franky's Secret Files» (tomo 11): plantilla con caras y bocadillos | [1222×1920](https://static.wikia.nocookie.net/spy-x-family9171/images/4/4d/Volume_11_Franky%27s_Secret_Files.png/revision/latest?cb=20250125231727) |
+| O·25 | Portada del juego *OPERATION DIARY* | [1920×1358](https://static.wikia.nocookie.net/spy-x-family9171/images/6/67/SPY_x_FAMILY_OPERATION_DIARY_Cover_Clear_Ver.png/revision/latest?cb=20240408235028) |
+| O·26 | Portada de *SPY×ANYA: Operation Memories* | [1800×1013](https://static.wikia.nocookie.net/spy-x-family9171/images/b/b3/SPY_x_ANYA_Operation_Memories_Cover.png/revision/latest?cb=20230914230753) |
+| O·27 | Exámenes de Damian y Demetrius (ep. 18): papel de Eden con el nombre a mano | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/d/d4/Damian_and_Demetrius%27s_original_test_answers.png/revision/latest?cb=20240316234703) |
+| O·28 | Examen de lengua antigua de Anya lleno de **tachones rojos** (ep. 29) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/4/4c/Loid_holding_Anya%27s_Classical_Language_test.png/revision/latest?cb=20241020200834) |
+| O·29 | Portada del guion del ep. 10 (Wit Studio × CloverWorks) | [1536×2048](https://static.wikia.nocookie.net/spy-x-family9171/images/c/cf/Episode_10_Script_Cover.png/revision/latest?cb=20220616043117) |
+| O·30 | La intro de **Spy Wars** en la tele (ep. 15): logo rojo y héroe de gabardina | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/e/e1/Spy_Wars_Intro_Anime.png/revision/latest?cb=20240527070728) |
+
+#### `hojas/fondos_01.jpg` (F·1 a F·30)
+
+| # | Qué es y para qué sirve | Tamaño del original |
+|---|---|---|
+| F·1 | Piso Forger: salón-comedor (ep. 37) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/4/45/Forgers%27_Apartment_Anime.png/revision/latest?cb=20260416220629) |
+| F·2 | Rincón del salón (ep. 11): perchero, cuadro y **zócalo de madera oscura** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/8/8e/128_Park_Avenue_Forgers%27_Corner_Room_Anime.png/revision/latest?cb=20240429061129) |
+| F·3 | Comedor (ep. 12): mesa redonda de madera y lámpara colgante naranja | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/7/75/128_Park_Avenue_Forgers%27_Dining_Area_Anime.png/revision/latest?cb=20240429143932) |
+| F·4 | Salón (ep. 11): **sofá LC2 negro**, alfombra geométrica, tele y planta | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/4/4f/128_Park_Avenue_Forgers%27_Living_Room_Anime.png/revision/latest?cb=20221019051227) |
+| F·5 | Pasillo (ep. 3): madera oscura abajo, papel pintado crema arriba | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/d/d3/128_Park_Avenue_Forgers%27_Hallway_Anime.png/revision/latest?cb=20240930010451) |
+| F·6 | Cocina (ep. 3): **nevera verde menta** | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c6/128_Park_Avenue_Forgers%27_Kitchen_Anime.png/revision/latest?cb=20240819092618) |
+| F·7 | Cuarto de Anya (ep. 36): papel pintado rosa, estantería, pingüino de peluche | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/1/1f/128_Park_Avenue_Anya%27s_Bedroom_Anime.png/revision/latest?cb=20240821044008) |
+| F·8 | Fachada del 128 de Park Avenue (ep. 7): calle de casas de piedra | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/7/78/128_Park_Avenue_Exterior_Anime.png/revision/latest?cb=20221017044415) |
+| F·9 | Berlint desde lo alto al atardecer (ep. 9): tejados rojos | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/6a/Berlint_Anime.png/revision/latest?cb=20240525222224) |
+| F·10 | Parque de Berlint de noche (ep. 24): farolas verdes | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/d/dc/Berlint_Public_Park_Anime.png/revision/latest?cb=20250430174720) |
+| F·11 | Tranvía rojo (ep. 1) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/f/f9/Berlint_Streetcars.png/revision/latest?cb=20250210093446) |
+| F·12 | Ayuntamiento (ep. 9): donde trabaja Yor | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/b/b1/City_Hall_Anime.png/revision/latest?cb=20240530175125) |
+| F·13 | Oficina de Correos (ep. 9): rótulo amarillo, coche negro | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/2/26/Post_Office_Anime.png/revision/latest?cb=20221017044613) |
+| F·14 | Estanco de Franky (ep. 1) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/d/d0/Franky%27s_Tobacco_Store_Anime.png/revision/latest?cb=20221127035727) |
+| F·15 | Eden Academy, vista general (ep. 29) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/f/f9/Eden_Academy_Anime.png/revision/latest?cb=20231129050436) |
+| F·16 | Entrada de Eden con el autobús amarillo (ep. 7) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/63/Eden_Academy_Entrance_Anime.png/revision/latest?cb=20250124031010) |
+| F·17 | Torre de la Sabiduría (ep. 25) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/e/ed/Eden_Academy_Tower_of_Wisdom_Anime.png/revision/latest?cb=20240527191421) |
+| F·18 | Patio de la biblioteca (ep. 25) | [2560×1865](https://static.wikia.nocookie.net/spy-x-family9171/images/d/dd/Eden_Academy_Library_2_Courtyard_Anime.png/revision/latest?cb=20240530221815) |
+| F·19 | Salón de actos (ep. 6) | [1919×2088](https://static.wikia.nocookie.net/spy-x-family9171/images/3/36/Eden_Academy_Assembly_Hall_Anime.png/revision/latest?cb=20221102020504) |
+| F·20 | Día de orientación (ep. 6) | [1919×1161](https://static.wikia.nocookie.net/spy-x-family9171/images/2/21/Eden_Academy_Orientation_Day_Anime.png/revision/latest?cb=20240530224157) |
+| F·21 | Sala de examen (ep. 18) | [1911×1945](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9d/Eden_students_in_exam_hall_Anime.png/revision/latest?cb=20240816002943) |
+| F·22 | Despacho de Henderson (ep. 41) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/6/6b/Eden_Academy_Henry_Henderson%27s_Office_Anime.png/revision/latest?cb=20251104074235) |
+| F·23 | Despacho del director de WISE (ep. 5) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/8/87/WISE_Director%27s_Office_Anime.png/revision/latest?cb=20240530161831) |
+| F·24 | Central de WISE (ep. 5): paredes de pantallas | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/5/52/WISE_HQ_Anime.png/revision/latest?cb=20240530162938) |
+| F·25 | Edificio de WISE (ep. 5) | [2012×1598](https://static.wikia.nocookie.net/spy-x-family9171/images/3/3a/WISE_Building_Anime.png/revision/latest?cb=20231026140355) |
+| F·26 | Reunión de WISE a la luz de una lámpara (ep. 1) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c0/WISE_Meeting.png/revision/latest?cb=20240530161722) |
+| F·27 | Té con Franky en el salón (ep. 24): reloj de pie y cuadro abstracto | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/c/cd/The_Forgers_and_Franky_have_tea.png/revision/latest?cb=20240530194952) |
+| F·28 | Comedor de la mansión Desmond (ep. 46) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/9/90/Desmond_Estate_Dining_Area_Anime.png/revision/latest?cb=20251129144300) |
+| F·29 | Aula 1082 de Eden (ep. 7) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/1/13/Eden_Academy_Classroom_1082_Anime.png/revision/latest?cb=20240817064030) |
+| F·30 | Parque de la colina (ep. 3) | [1920×1080](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c8/Hilltop_Park_Anime.png/revision/latest?cb=20250706234930) |
+
+
 ### 3.1 Key visuals del anime (web oficial)
 - **Temporada 3**: la familia de cuatro (Loid, Yor, Anya, Bond), dibujada por
   el diseñador de personajes **Kazuaki Shimada** ✅

@@ -13,23 +13,59 @@ fecha: 2026-09-24
 > japonés) y GitHub: el arte de *Treasure Cruise* (repositorio *optc-db*), la
 > ficha de la Anime News Network y una lista de 1.176 episodios.
 >
-> **Segunda pasada (24-sep-2026, red abierta).** La hicieron dos ayudantes
-> seguidos (al primero lo cortó el límite de uso). Se pudo usar:
+> **Segunda pasada (24-sep-2026, red abierta).** La hicieron tres ayudantes
+> seguidos (a los dos primeros los cortó el límite de uso). Se pudo usar:
 > - **La API de la One Piece Wiki** (inglés y español): 3 hojas de contacto
 >   propias en `hojas/` y el tamaño real de cada imagen.
 > - **La API de Doblaje Wiki** y **ANMTV**, para cada voz latina.
 > - **Vídeos mirados de verdad** con `herramientas/fotogramas.py`: opening,
->   ending, tráiler y 5 escenas (copias en Dailymotion, porque YouTube pedía
->   «iniciar sesión»). De YouTube salieron, por ratos, **los subtítulos y los
->   *storyboards*** de los clips oficiales doblados de Crunchyroll.
+>   ending, tráiler y 3 escenas (ep. 37, 130 y 312), en copias de
+>   Dailymotion, porque YouTube pedía «iniciar sesión» casi siempre. De YouTube
+>   salieron, por ratos, **los subtítulos y los *storyboards*** de los clips
+>   oficiales doblados de Crunchyroll.
 > - **Whisper** (reconocimiento de voz) sobre muestras de Doblaje Wiki y sobre
 >   el tráiler latino de Netflix; la web oficial japonesa `one-piece.com`;
->   la API de Sketchfab; `fontTools` para las letras; Pixiv, ArtStation y
->   DeviantArt por sus API públicas.
-> - **No se pudo:** bajar vídeo de YouTube (sólo metadatos), TCRF, TV Tropes
->   y Game UI Database (403 de Cloudflare).
+>   la API de Sketchfab; `fontTools` y Pillow para las letras (con una
+>   comparación sobre el cartel del anime); Pixiv, ArtStation y DeviantArt por
+>   sus API públicas; la Wikipedia en japonés.
+> - **No se pudo:** TCRF, TV Tropes, Game UI Database y Reddit (403), la
+>   Wayback Machine (no permitida en el contenedor), Arctic Shift (saturado) y
+>   las wikis coreana y china (429 o 403).
 >
 > ✅ = confirmado en dos fuentes. ⚠️ = dudoso o una sola fuente.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+- Quién gana en Latinoamérica: «no lo encontré» → **Zoro 1.º en 2026** y Nami 1.ª en 2021; Luffy, 3.º las dos veces (§2).
+- Puestos 6-10 de 2026: dudosos → leídos en la web oficial (§2).
+- Doblaje: el cambio a Audiomaster Candiani fue en el **ep. 207**, no en el 326 (§10).
+- Serie de Netflix: «Luffy tendría la voz del anime» → **Iñaki Godoy se dobla a sí mismo** (§10).
+- Letra «One Piece» de dafont: «de Phantom King Graphics» → es de The Docallisme, y **no trae tildes, ñ, ¿ ni ¡** (§7).
+- Letra de «DEAD OR ALIVE»: Old Standard TT → **Crimson Pro Black**, tras compararlas sobre el cartel (§7).
+- El barril: «probablemente el ep. 53» → **ep. 53** confirmado (§4).
+- Openings 2-5: «48-263» → 48-115, 116-168, 169-206 y 207-263; «Dear sunrise»: «1089 en adelante» → 1089-1122 (§11).
+- Colores del logo: `#2E55B0` / `#189FDB` (mezclados con el cielo) → degradado `#1BBEED` → `#185CB2`. Chopper: pelaje `#937555` y nariz `#425582` → `#C6A882` y `#628190` (§6, §9).
+- Carácter de los personajes: «de memoria» → **fichas oficiales de one-piece.com** y la wiki (§9).
+
+**Añadido:**
+- **3 hojas de contacto** con 72 imágenes numeradas y su tamaño real (§3.0).
+- **Vídeos mirados**: opening, ending, tráiler y escenas, con su minuto y enlace (§12.1).
+- **Frases latinas textuales**: 12 muestras de Doblaje Wiki y clips oficiales de Crunchyroll en Español y Netflix, con minuto (§10.1).
+- Paleta medida con Pillow sobre la wiki y los vídeos (§6).
+- 13 modelos de Sketchfab con licencia leída en su API; texturas CC0 de Poly Haven y ambientCG (§5, §6).
+- Fan art y fondos de pantalla con autor y tamaño (§5, §6).
+- Letras abiertas con `fontTools` (§7).
+- Poses de 8 a 10 por personaje, con hoja o minuto (§9), y **Robin y Law** como secundarios (§9).
+- La caja de diálogo de *One Piece Odyssey*, vista en Steam (§8, §13).
+- `referencias.json` con 40 entradas medidas; **fuentes: 68 → 119** (§18).
+- Tabla «Cumplimiento del encargo» y bitácora de la segunda pasada (§19).
+
+**Las marcas de duda (el aviso amarillo): 47 antes del repaso → 26 ahora** (contadas con `grep`).
+- Resueltos con una segunda fuente o con prueba propia: 15. Por ejemplo, la voz de Jinbe, Uta, la recompensa de Nami, «berry», «cabeza de epazote», la directora del doblaje de Netflix, Azteca 7, 生死問わず, «WANTED» en Times, los openings, Hamaguchi y el ep. 53.
+- 6 no eran dudas: 3 notas «(antes con aviso)» de cosas ya resueltas y 3 avisos («esto es de IA», «esto es la serie con actores»). Ahora dicen «antes dudoso» u «Ojo».
+- Lo que queda, y por qué, está en §17.
+
 
 ---
 
@@ -558,7 +594,7 @@ de nombre, no un rectángulo blanco.
 - **Carácter** ✅ ([ficha oficial](https://one-piece.com/character/luffy/index.html) + wiki): optimista y libre, «si parece divertido, va». No le importa arriesgar la vida por una aventura. **Sabe que solo no puede navegar**: para él los compañeros son su tesoro. Come muchísimo y **le encantan los banquetes** (宴). Su sueño: ser el Rey de los Piratas. El sombrero se lo confió Shanks: es su promesa.
 - **Qué teme o le duele:** perder a los suyos. En latino: «Son las personas a las que más quiero» (muestra «Luffy 2», §10.1).
 - **Cómo habla:** frases cortas y en primera persona. **Decide por los demás**: «¡Únete a nosotros!» (latino, Thriller Bark). No explica: grita la meta. «¿Yo? **Yo voy a ser el Rey de los Piratas.**» (latino).
-- **Cómo se ríe:** «**Shishishishi**» (しししし) ✅ ([wiki, «Laughter Style»](https://onepiece.fandom.com/wiki/Laughter_Style), desde el cap. 69). Escrito así en el manga; en el doblaje es un sonido, no hay forma «oficial» de escribirlo en español ⚠️.
+- **Cómo se ríe:** «**Shishishishi**» (しししし) ✅ ([wiki, «Laughter Style»](https://onepiece.fandom.com/wiki/Laughter_Style), desde el cap. 69; la wiki china, [航海王wiki](https://onepiece.fandom.com/zh/wiki/%E8%92%99%E5%85%B6%C2%B7D%C2%B7%E9%AD%AF%E5%A4%AB/%E5%85%B6%E4%BB%96), lo escribe 嘻嘻嘻 «shishishi»). Escrito así en el manga; en el doblaje es un sonido, no hay forma «oficial» de escribirlo en español ⚠️.
 - **Cómo se enfada:** aprieta el puño, grita con la boca abierta y los brazos separados (ep. 37 · 0:57).
 - **Lenguaje corporal:** brazos que se estiran, mano en el sombrero, sonrisa de ojos cerrados, se sienta en el mascarón del barco («Luffy's Favorite Seat» en el plano del Merry, hoja F15).
 - **Poses analizadas:**
@@ -812,6 +848,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 | **Tráiler de la serie de Netflix** («Tráiler oficial», copia de [3DJuegos México en Dailymotion, 3:07](https://www.dailymotion.com/video/x8njo84)) | [0:12](https://www.dailymotion.com/video/x8njo84?start=12) la ejecución de Roger. [0:57](https://www.dailymotion.com/video/x8njo84?start=57) **Nami lee un mapa sentada en cubierta**. [1:00](https://www.dailymotion.com/video/x8njo84?start=60) Luffy (Iñaki Godoy) sonríe bajo el sombrero. [1:42](https://www.dailymotion.com/video/x8njo84?start=102) la tripulación alrededor de una mesa. [1:45](https://www.dailymotion.com/video/x8njo84?start=105) el Going Merry. [2:24](https://www.dailymotion.com/video/x8njo84?start=144) Shanks le pone el sombrero a Luffy niño. **[2:42-2:45](https://www.dailymotion.com/video/x8njo84?start=162) una pared cubierta de carteles rotos y superpuestos: WANTED, «PIRATES? NO! NO! NO!», «SPEAK UP», «STOP», «DEAD OR ALIVE FOXY», «BELLAMY»**: papel amarillento, letras de imprenta negras, esquinas despegadas. Es **la mejor referencia de luz real** para el muro del concepto A. **Ojo:** es la serie con actores; sirve para la textura, no para el dibujo. |
 | **Escena 1 · ep. 37, «Luffy… ayúdame»** (copia vertical con subtítulos ingleses: [Dailymotion x9fibg6, 0:59](https://www.dailymotion.com/video/x9fibg6); oficial: [Toei Animation](https://www.youtube.com/watch?v=r6W0zGy3fcQ) y [doblada al latino, Crunchyroll en Español](https://www.youtube.com/watch?v=M-jKhyF1q20)) | [0:00-0:09](https://www.dailymotion.com/video/x9fibg6?start=0) Nami se clava el cuchillo en el hombro, llorando. [0:10](https://www.dailymotion.com/video/x9fibg6?start=10) Luffy sentado, la mira sin moverse. [0:13-0:18](https://www.dailymotion.com/video/x9fibg6?start=13) plano general de la calle del pueblo, palmeras. [0:37-0:42](https://www.dailymotion.com/video/x9fibg6?start=37) Luffy de pie, chaleco rojo, brazos caídos, cielo azul. **[0:48](https://www.dailymotion.com/video/x9fibg6?start=48) le pone el sombrero en la cabeza** y [0:51-0:52](https://www.dailymotion.com/video/x9fibg6?start=51) **Nami llora bajo el sombrero de paja**. [0:57](https://www.dailymotion.com/video/x9fibg6?start=57) Luffy grita con los brazos abiertos. En las miniaturas del clip latino: Nami llorando con el logo y **una etiqueta turquesa «LATINO»** arriba a la derecha (la marca de los clips doblados de Crunchyroll). |
 | **Escena 2 · ep. 312, el funeral del Merry** ([Marca en Dailymotion, 1:17](https://www.dailymotion.com/video/x9kpldw); subtítulos de España) | [0:02-0:06](https://www.dailymotion.com/video/x9kpldw?start=2) la tripulación de espaldas en un bote, mirando. [0:14-0:24](https://www.dailymotion.com/video/x9kpldw?start=14) **Luffy de pie ante el Merry en llamas, fuego naranja `#DA8730` y nieve cayendo**. [0:26-0:30](https://www.dailymotion.com/video/x9kpldw?start=26) Luffy llora apretando los dientes. [0:46-0:52](https://www.dailymotion.com/video/x9kpldw?start=46) el bote pequeño bajo el humo. [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66) Nami, Chopper y Robin lloran. Subtítulo: «Muchas gracias por haberme cuidado todo este tiempo». Es **la luz más bonita de la serie**, pero es una despedida: no para #bienvenidas. |
+| **Escena 4 · ep. 130, Robin pide unirse** (copia con subtítulos ingleses: [Dailymotion x61uaq4, 2:18](https://www.dailymotion.com/video/x61uaq4); mirada en la 2.ª tanda, 46 fotogramas) | [0:00](https://www.dailymotion.com/video/x61uaq4?start=0) mar abierto y cielo con nubes. [0:03-0:06](https://www.dailymotion.com/video/x61uaq4?start=3) **el mascarón de oveja y la vela del Merry**. [0:09-0:12](https://www.dailymotion.com/video/x61uaq4?start=9) Zoro, serio, en primer plano junto al mástil y la cuerda. **[0:18](https://www.dailymotion.com/video/x61uaq4?start=18) los cinco colgados de la baranda, llorando por Vivi** (baranda `#E1B986`, balaustres azulados). [0:30-0:33](https://www.dailymotion.com/video/x61uaq4?start=30) Usopp, Luffy y Sanji con cara de fastidio. **[0:45-0:48](https://www.dailymotion.com/video/x61uaq4?start=45) Robin aparece en la puerta del camarote**, blusa lila, brazos sueltos. [1:00](https://www.dailymotion.com/video/x61uaq4?start=60) Sanji con ojos de corazón junto a Chopper: «Who cares! She's that beautiful lady». [1:24](https://www.dailymotion.com/video/x61uaq4?start=84) Robin sonríe en la escalera. [1:42](https://www.dailymotion.com/video/x61uaq4?start=102) se estira en una tumbona. **[2:03](https://www.dailymotion.com/video/x61uaq4?start=123) barbilla en la mano, media sonrisa: «Let me… join your crew»**. [2:06](https://www.dailymotion.com/video/x61uaq4?start=126) los chicos gritan con la boca enorme. [2:09-2:15] el final es arte del manga del que subió el vídeo (no es del anime). **Es la escena de «alguien nuevo sube al barco»:** luz de mediodía, cubierta de madera clara, mar azul. |
 | **Escena 3 · ep. 1, Luffy sale del barril** (captura de la wiki, hoja P5, y la «Straw Hats' Vow» del ep. 53, hoja O23) | No encontré copia del barril en vídeo que pudiera bajar: el [clip en inglés](https://www.youtube.com/watch?v=X5lBH4VzL4U) existe (miniatura: Luffy riendo junto al barril, chaleco rojo), pero YouTube no dejó bajarlo ⚠️. |
 
 ### 12.2 Otros vídeos (existen: comprobados por oEmbed el 24-sep-2026)
@@ -1035,23 +1072,30 @@ mejora con el cartel en blanco «TÚ» y pone a los cinco personajes pedidos.
 
 ## 17 · Lo que no pude verificar
 
-- **Los minutos** de cada escena. Ninguno.
-- **El episodio exacto del barril**: el 53 es lo más probable, pero es
-  deducción.
-- **La caja de diálogo de los videojuegos** (Game UI Database bloqueada).
-- **Fan art en Pixiv y ArtStation, y fondos de pantalla en alta**: no
-  encontré ninguno con autor y tamaño.
-- **Quién ganó la encuesta de 2026 en Latinoamérica.**
-- **La frase latina exacta** de «¡Seré el Rey de los Piratas!».
-- **Si la letra del logo de dafont trae «¡»**: parece que no.
-- **La tipografía del manga en español** (Panini México).
-- Búsquedas **en coreano y chino**: no se hicieron (se acabó el cupo de
-  búsquedas de la sesión).
-- Carácter y muletillas de los personajes: escritos de memoria (⚠️).
+**Lista de la primera pasada, revisada en la segunda** (antes → ahora):
+
+- **Los minutos de cada escena** → ✅ **hechos**: opening, ending, tráiler y tres escenas mirados fotograma a fotograma, con enlace `&t=` o `?start=` (§12). Los de Dailymotion pueden moverse unos segundos respecto al vídeo oficial.
+- **El episodio exacto del barril** → ✅ **ep. 53** (one-piece.com + wiki, §4).
+- **La caja de diálogo de los videojuegos** → ✅ en parte: la de *One Piece Odyssey*, vista en las capturas oficiales de Steam (§13). Game UI Database sigue en 403 (sigue dudoso, §13).
+- **Fan art y fondos con autor y tamaño** → ✅ Pixiv, ArtStation y DeviantArt por sus API (§5, §6).
+- **Quién ganó la encuesta de 2026 en Latinoamérica** → ✅ **Zoro** (web oficial, §2).
+- **La frase latina de «¡Seré el Rey de los Piratas!»** → ✅ «¿Yo? Yo voy a ser el Rey de los Piratas» (muestra de Doblaje Wiki) y «Soy Monkey D. Luffy. Y yo voy a ser Rey de los Piratas» (tráiler latino de Netflix) (§10.1).
+- **Si la letra del logo de dafont trae «¡»** → ✅ **no la trae** (fontTools, §7).
+- **La tipografía del manga en español (Panini México)** → sigue sin ficha pública (sigue dudoso, §7).
+- **Búsquedas en coreano y chino** → a medias: el 航海王wiki (Fandom en chino) confirma la risa de Luffy; la wiki coreana de Fandom está vacía, las Wikipedias coreana y china dieron 429 (IP compartida), Namu Wiki 403 y Moegirl pide permiso. Ver bitácora.
+- **Carácter y muletillas escritos de memoria** → ✅ ya no: salen de las fichas oficiales de one-piece.com y de la wiki (§9).
+
+**Lo que sigue dudoso tras la segunda pasada** (cada uno lleva su aviso en el texto):
+- Cuatro datos de Doblaje Wiki sin segunda fuente: por qué se fueron Mireya y Dafnis, los 309 episodios de Azteca 7, «Don Luffy / Señor Luffy», «faja» y el chiste del Equipo Rocket.
+- «Azul Infinito» y «Línea Roja»: sólo la wiki en español.
+- La letra de «DEAD OR ALIVE» (sólo un foro) y la de los globos de VIZ.
+- La risa de Luffy escrita en español: no hay forma oficial.
+- El cartel rotulado para Latinoamérica: no lo encontré.
+- TCRF, TV Tropes y Game UI Database: 403 de Cloudflare, y la Wayback Machine (`web.archive.org`) no está permitida en este contenedor.
 
 ---
 
-## 18 · Fuentes consultadas (68 de la primera pasada + 50 de la segunda = 118)
+## 18 · Fuentes consultadas (68 de la primera pasada + 51 de la segunda = 119)
 
 **Encuestas:**
 1. [ANN, encuesta 2026](https://www.animenewsnetwork.com/interest/2026-08-23/2nd-global-one-piece-character-poll-results-are-in/.240871)
@@ -1198,12 +1242,51 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 116. [TikTok, «cabeza de epazote»](https://www.tiktok.com/discover/cabeza-de-epazote-one-piece)
 117. [YouTube, NicoZ21: evolución de las voces de Luffy](https://www.youtube.com/watch?v=NYILNO80hOQ)
 118. [Sportskeeda, Roof Piece](https://sportskeeda.com/anime/twitter-breaks-one-piece-episode-1015-wows-viewers-start-roof-piece-stellar-animation)
+119. [航海王wiki (Fandom en chino), Luffy «其他»](https://onepiece.fandom.com/zh/wiki/%E8%92%99%E5%85%B6%C2%B7D%C2%B7%E9%AD%AF%E5%A4%AB/%E5%85%B6%E4%BB%96)
+
+---
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias · ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas con 72 imágenes (poses con objeto, en grupo, en cartel) y 24 ilustraciones de *Treasure Cruise* con su id (§3). |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ✅ | Capturas 1920×1080 de la wiki (P5, O23, F5, F6) y minutos de los clips mirados (§4, §12.1). Los minutos son del clip, no del episodio entero. |
+| 3 · Fan art y 3D con licencia | ✅ | 13 modelos de Sketchfab con licencia leída en su API; Pixiv, ArtStation y DeviantArt con autor (§5). |
+| 4 · Fondos, luz, paleta hex y texturas | ✅ | Sitios con su luz, dos paletas medidas con Pillow, texturas CC0 (§6). |
+| 5 · Tipografía con letra libre y tildes | ✅ | Cada letra abierta con `fontTools`; comparación sobre el cartel. Falta la letra de Panini (§7). |
+| 6 · Cómo hablan en pantalla | ✅ | Globo ancho de Oda, ドン!!, cartel, eyecatchers, carta del opening, caja de *Odyssey* (§8). |
+| 7 · Personajes y encuestas | ✅ | Dos encuestas mundiales con regiones: en Latinoamérica gana Zoro (§2, §9). |
+| 8 · Doblaje latino (voces en dos fuentes y frases) | ✅ | 15 voces con Doblaje Wiki + ANMTV + ANN; frases textuales con su muestra o minuto (§10). Quedan 5 datos menores con una sola fuente. |
+| 9 · Música | ✅ | Openings y endings con episodios comprobados en la wiki y ANN (§11). |
+| 10 · Vídeos con minuto | ✅ | Opening, ending, tráiler y escenas mirados; otros enlaces comprobados (§12). YouTube casi no dejó bajar vídeo: se usaron copias. |
+| 11 · Videojuegos: interfaz y cajas | ⚠️ | *Odyssey* visto en Steam; Game UI Database y TCRF en 403, así que *Pirate Warriors* y *Treasure Cruise* no se vieron por dentro (§13). |
+| 12 · Lo que el fandom ama y qué NO hacer | ✅ | Memes, chistes del doblaje latino y lista de errores a evitar (§14). |
+| 13 · Descripción profunda y forma de hablar | ✅ | Cinco principales con ficha oficial, voz latina, risa, enfado y cuerpo; Robin y Law en corto (§9). |
+| 14 · Poses analizadas (6-10 por personaje) | ✅ | 8-10 poses por personaje con hoja, id o minuto, y para qué sirve cada una (§9). |
+| 15 · Vestuario con hex | ✅ | Ropa por época con hex medidos (§9). |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | Sitios con su luz; fondos oficiales 1920×1080 y de fans con autor y tamaño (§6). |
+| 17 · Guía para IA | ✅ | Rasgos fijos, paleta, línea, luz, palabras que ayudan y que estropean, y qué hojas usar (§15). |
+| 3 conceptos de lámina | ✅ | Muro de carteles, carta de Nami y barril, con objeto, pose, cuadro, textos y profundidad (§16). |
+| 40 fuentes | ✅ | 119 (§18). |
+| Tipo · Oficiales | ⚠️ | Fichas de one-piece.com, web de la encuesta, Steam, YouTube de Toei. **No encontré entrevistas al staff** del anime (sólo el SBS de Oda y la de *Odyssey* en Unreal). |
+| Tipo · Otros idiomas | ⚠️ | Japonés, sí (one-piece.com, MANTANWEB, Oricon, Wikipedia, Chiebukuro). Chino: sólo el 航海王wiki de Fandom. Coreano: la wiki de Fandom está vacía y Namu Wiki y la Wikipedia coreana dieron 403 y 429. |
+| Tipo · Wikis, TV Tropes, TCRF, Wayback | ⚠️ | One Piece Wiki (inglés y español), Doblaje Wiki y Wikipedia, sí. TV Tropes y TCRF, 403; la Wayback no está permitida. |
+| Tipo · Foros y comunidades | ⚠️ | X, Yahoo! Chiebukuro, ResetEra y un hilo de Reddit. Reddit da 403 y Arctic Shift estaba saturado. |
+| Tipo · Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Por sus API, con autor y tamaño (§5, §6). |
+| Tipo · Vídeo | ✅ | Clips oficiales y copias mirados; análisis y TikTok enlazados (§12). |
+| Tipo · Código y recursos | ✅ | GitHub (optc-db, ANN, CineWatch, YuskaWu), PyPI, Sketchfab, Poly Haven, ambientCG. |
+| Tipo · Doblaje latino | ✅ | Doblaje Wiki por API, ANMTV, Netflix Latinoamérica, Crunchyroll en Español. |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas y explicadas número a número (§3.0). |
+| `referencias.json` | ✅ | 40 entradas con `ancho` y `alto` medidos, licencia y para qué. |
 
 ---
 
 ## 19 · Bitácora de búsqueda
 
-### Estado de la red
+### Estado de la red (primera pasada)
 - `curl https://community.fandom.com` → **000 (403 del proxy)**. Sin red
   completa: **no se usó `investigar_serie.py`, no hay hojas de contacto
   ni carpeta `hojas/`**.
@@ -1218,7 +1301,7 @@ Sportskeeda y los vídeos de YouTube y TikTok.
   coreano ni en chino, ni segundas vueltas sobre Pixiv, ArtStation,
   fondos de pantalla o las cajas de los juegos.
 
-### Búsquedas hechas (idioma)
+### Búsquedas hechas (idioma, primera pasada)
 1. One Piece World Top 100 popularity poll results (inglés)
 2. ワンピース 人気投票 結果 1位 ゾロ ルフィ (japonés)
 3. One Piece doblaje latino Crunchyroll reparto Mireya Mendoza (español)
@@ -1267,7 +1350,7 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 46-48. Episodio 53 y el barril, Robin en el 278, Chopper en el 90:
    **rechazadas, se acabó el cupo**.
 
-### Por GitHub y PyPI (abierto de verdad)
+### Por GitHub y PyPI (primera pasada)
 - `google/fonts`: METADATA.pb de 41 letras (subsets comprobados).
 - `YuskaWu/one-piece-wanted-poster`: README, `index.html`, `style.css`
   y el código del nombre (usa **Scheherazade New** 700) y de la
@@ -1287,9 +1370,34 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 - La búsqueda de repositorios por la API de GitHub está bloqueada; se
   usó el buscador de código de GitHub (MCP).
 
-### Lo que NO encontré
+### Lo que NO encontré (primera pasada; ver §17 para cómo quedó)
 - Minutos de escenas, fan art con autor y tamaño, fondos de pantalla en
   alta, cajas de diálogo de los juegos vistas de verdad, el ganador de
   Latinoamérica en la encuesta, la frase latina exacta de «Rey de los
   Piratas», la tipografía de Panini México, entrevistas al staff en
   japonés (sólo se vio el SBS de Oda) y contenido en coreano o chino.
+
+### Segunda pasada (red abierta, 24-sep-2026)
+
+**Tandas 1 y 2 (los dos primeros ayudantes, cortados por el límite de uso):**
+- `investigar_serie.py` dos veces sobre `onepiece.fandom.com` (personajes: 1.200 imágenes, 10 hojas; objetos: 569, 7 hojas) y búsquedas `srnamespace=6` para escenas. De ahí, las 3 hojas propias (§3.0).
+- API de Doblaje Wiki (One Piece, 4Kids, 2023, Film Red) y 12 muestras de audio pasadas por Whisper; ANMTV (5 artículos), ANN por GitHub (§10).
+- YouTube: sólo metadatos, subtítulos automáticos `es-orig` de los clips de Crunchyroll en Español y *storyboards*; el vídeo, no («iniciar sesión»). Copias miradas en Dailymotion con `fotogramas.py`: opening, ending, tráiler de Netflix, ep. 37, ep. 312 y ep. 130 (§12).
+- one-piece.com (fichas de personaje y de episodio, japonés), web oficial de la encuesta 2026, API de Sketchfab (13 modelos), Poly Haven y ambientCG, Pixiv / ArtStation / DeviantArt por API, Steam (*Odyssey*), `fontTools` sobre 20 letras.
+- 403: TCRF, TV Tropes, Game UI Database, Comic Natalie (pide verificación humana).
+
+**Tanda 3 (este ayudante), lo que hice:**
+- **YouTube**, con una cola que reintenta cada 3-4 minutos, de uno en uno: el opening oficial (`YoeP9w5UIlg`), el ending (`N8XorsUsoL4`), el tráiler de Netflix Latinoamérica (`JoO7TGG2Kms`), los clips latinos de los ep. 37 y 92, y una copia latina del barril (`zQi_EoG987E`, canal de fans «Cannibal Lemons»). La búsqueda y los títulos salieron; los vídeos, casi siempre «Sign in to confirm you're not a bot» o 403 al bajar el vídeo (hay varios ayudantes con la misma IP).
+- **Dailymotion**: el clip del ep. 130 (Robin pide unirse), 46 fotogramas mirados (§12.1). La API de búsqueda de Dailymotion no tiene el barril.
+- **One Piece Wiki (API)**: «One Piece Music» y «We Are!/Other Versions» (episodios de los openings), OST «NEW WORLD» (Hamaguchi), personalidad de Robin, ficha de Law, búsqueda de texto de 生死問わず (sin resultados en la wiki inglesa).
+- **Wikipedia en japonés** (API): «ONE PIECEの用語一覧» y «サンジ» → 生死問わず y 生け捕りのみ.
+- **One Piece Wiki en español** (API), «One Piece en Latinoamérica»: Azul Infinito, Línea Roja, «Berries», Azteca 7, Red Uno.
+- **Doblaje Wiki** (API): «Sobre la traducción» y «Curiosidades» de One Piece; la página «Trafalgar Law» no existe.
+- **ANMTV** por el buscador de su blog (`/feeds/posts/default?q=`): «one piece azteca 7», «one piece doblaje director live action», «one piece Mireya Mendoza dirección» → 3 artículos nuevos (§10).
+- **one-piece.com**: fichas de Robin y Law (japonés).
+- **Letras**: bajé Tinos, Old Standard TT, Libre Caslon, Gelasio, Crimson Pro, Libre Baskerville y Noto Serif por la API de Google Fonts, comprobé tildes, ñ, ¿ y ¡ con `fontTools` y las comparé con Pillow sobre el cartel O3 (§7). El foro de dafont se leyó directo.
+- **Buscador web** (3 búsquedas): «"cabeza de epazote" One Piece Sanji Zoro doblaje» (español) → el X de One Piece Doblaje Latino News; «VIZ Media One Piece manga lettering font "Wild Words"» (inglés) → nada concreto de One Piece; «ワンピース アニメ 美術 背景 インタビュー 色 東映アニメーション 石谷恵 1015話» (japonés) → sólo Yahoo! Chiebukuro y blogs, ninguna entrevista.
+- **Wikis de Fandom en coreano y chino** (API): la coreana sólo tiene fichas vacías de Zoro y Luffy; la china (航海王wiki) confirma la risa 嘻嘻嘻 «shishishi» y que Luffy se escribe 魯夫 en Taiwán y 路飛 en China.
+- **No respondió**: Arctic Shift («Timeout. Maybe slow down a bit» y «Too many requests»), Reddit directo (403), `web.archive.org` («Host not in allowlist»), Namu Wiki (403), Wikipedia coreana y china (429 por la IP compartida), API de Moegirl («Unauthorized API call»), GitHub `google/fonts` en bruto (repositorio no habilitado).
+
+**Lo que sigue sin encontrar:** una entrevista al staff del anime sobre color o fondos; la letra de Panini México; el cartel rotulado en español latino; la voz latina de Law; la caja de diálogo de *Treasure Cruise* y *Pirate Warriors* vista de verdad; fuentes en coreano y chino.
