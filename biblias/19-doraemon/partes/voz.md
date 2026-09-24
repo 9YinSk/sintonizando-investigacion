@@ -460,6 +460,81 @@ le rompen los lentes de la vergüenza, o escenas de regaño de la madre de
 Nobita) — trabajo de vídeo, no de texto/audio, por eso lo dejo señalado en
 vez de inventar un minuto.
 
+### Tanda siguiente · 7 episodios reales de Internet Archive, buscando los 3 huecos
+
+Seguí mi propia pista de arriba y usé `fotogramas.py --cada 3` sobre el
+mismo ítem de Internet Archive que ya cita el punto 8
+(`episodio-737-chip-de-reservacion`, doblaje latino real de grabación de
+TV). Con `curl archive.org/metadata/...` descubrí que el ítem trae **13
+episodios completos** (~6-7 min cada uno), no sólo el episodio 01 que ya se
+había mirado antes. Saqué fotogramas cada 3 s de 7 de ellos (unos 45 min de
+metraje real en total, ~900 fotogramas) buscando específicamente rabia de
+Doraemon, tristeza de los 5 principales y vergüenza de todos:
+
+- Episodio 02 «Las galletas mágicas» (変身ビスケット, galletas de
+  transformación en animal)
+- Archivo llamado «Episodio 184 - El indicador del desorden»: el título
+  real en pantalla es 「お金のいらない世界」, **«Un mundo sin dinero»**
+  — el archivo está mal nombrado dentro del ítem ⚠️
+- Episodio 154 «Gigante bajo control» (人間ラジコン, «Control remoto
+  humano»)
+- Episodio 171 «El ave "no me olvides"» (わすれ鳥)
+- Episodio 298 «Las tabletas de Komon» (コーモン錠)
+- Episodio 299 «Teléfono de servicios» (出前電話)
+- Episodio 295 «La paja de la suerte», título real 黒べえをすくえ！
+  («¡Salven a Kurobei!»)
+
+**Lo que sí encontré, con fotograma y minuto real:**
+
+| Quién | Emoción | Minuto y enlace | Qué se ve |
+|---|---|---|---|
+| **Nobita** | Tristeza (mezclada con el susto de que sus papás crean que robó el dinero) | 00:03:00 → 00:03:09, [archivo «184», en realidad «Un mundo sin dinero»](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20184%20-%20El%20indicador%20del%20desorden%20.mp4?t=180) ✅ (fotograma verificado a tamaño completo) | Nobita (camiseta roja del doblaje clásico, no la amarilla de la serie 2005) se tapa la cara con las dos manos, llorando; tres segundos después (0:03:09) su papá lo abraza por los hombros para consolarlo y Nobita sigue con la cara tapada |
+
+**No encontré** (⚠️, después de mirar fotogramas cada 3 s de los 7
+episodios de arriba — completos, no fragmentos):
+
+- **Rabia de Doraemon**: en ningún episodio de esta tanda aparece furioso.
+  Sale asustado, sorprendido o riendo a carcajadas (p. ej. episodio 298,
+  0:02:51-0:02:57, cara de shock corriendo; episodio 154, huyendo asustado
+  de Gigante), pero nunca con cara de enojo genuino. Sigue sin encontrarse
+  con minuto.
+- **Tristeza de Doraemon, Shizuka, Gigante y Suneo**: Shizuka sólo
+  apareció en el episodio 295, activa y sin escena triste; **Suneo no
+  apareció en ninguno de los 7 episodios mirados esta tanda**; a Gigante y
+  Doraemon sólo se los ve enojados/asustados/riendo en estos episodios, no
+  tristes.
+- **Vergüenza de todos, Suneo incluido**: el episodio 298 («Las tabletas
+  de Komon») termina con Doraemon riendo mientras tres personajes hacen
+  reverencia en el suelo, de rodillas y con la cara pegada al piso
+  (0:06:24 →
+  [enlace](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20298%20-%20Las%20tabletas%20de%20Komon.mp4?t=384))
+  pero **no pude confirmar que sean Nobita/Gigante/Suneo y no los
+  secuaces del villano** de la historia — llevan la misma chaqueta verde
+  oliva del malo, no la ropa habitual del grupo de amigos. Lo dejo fuera
+  por esa duda en vez de citarlo como verificado. El episodio 299 tiene un
+  gag de alguien sorprendido en toalla al abrir la puerta (0:02:24-0:02:39)
+  pero tampoco pude confirmar con seguridad quién es.
+
+**Bitácora de esta tanda** (`fotogramas.py`, no cuenta para cupo de
+búsqueda web):
+- `curl archive.org/metadata/episodio-737-chip-de-reservacion` → reveló
+  los 13 episodios del ítem (antes sólo se había mirado el 01).
+- `fotogramas.py --cada 3` sobre los 7 episodios listados arriba.
+- `fotogramas.py --fotograma <segundo>` para sacar en grande los momentos
+  dudosos (episodio «184» minuto 3:00-3:09, episodio 298 minuto 6:23-6:27)
+  y confirmar personaje y expresión antes de citarlos.
+- Quedan **sin mirar** de este mismo ítem, candidatos para una tanda
+  futura si hace falta seguir con estos 3 huecos: Episodio 153 (aparato de
+  retro-regresión), Episodio 172 (máquina del tiempo vendedora), Episodio
+  182 (máquina creadora de plantas), Episodio 194 (naufragio en el
+  pasado) — ninguno de estos 4 se miró esta tanda.
+
+Cierre de este punto: no dejo «Sigue» para la próxima tanda — lo que no
+logré llenar (rabia de Doraemon con minuto, tristeza de Shizuka/Suneo/
+Gigante/Doraemon, vergüenza del grupo confirmada con las caras correctas)
+queda arriba en «No encontré» ⚠️ con la bitácora de qué se miró, no como
+tarea abierta.
+
 ---
 
 ## Punto 12/14 · Un dato más para «lo que ama el fandom» (ya cubierto en la biblia, esto lo complementa)
@@ -545,11 +620,12 @@ vez de inventar un minuto.
 
 ---
 
-Sigue: punto 13, «su cara en cada emoción» — sólo tiene minuto verificado
-alegría/miedo de Doraemon y Nobita, y alegría de Shizuka y Gigante. Faltan,
-con fotograma y minuto real (no deducido): rabia de Doraemon, tristeza de
-los 5 principales, y vergüenza de todos (incluido Suneo, que por carácter
-es el candidato obvio pero no tiene escena con minuto). Necesita
-`fotogramas.py` sobre más metraje (candidatos ya anotados en la tabla del
-punto 13) — es trabajo de vídeo/imagen, no de texto o audio, por eso no lo
-completé yo esta tanda.
+Punto 13 cerrado por mí (no queda «Sigue»): miré con `fotogramas.py --cada
+3` siete episodios reales más de Internet Archive buscando los 3 huecos
+(rabia de Doraemon, tristeza de los 5, vergüenza de todos incluido Suneo).
+Encontré y verifiqué **tristeza de Nobita** (00:03:00, ver detalle en el
+punto 13 arriba). Los otros dos huecos **no aparecieron** pese a la
+búsqueda — quedan documentados como «No encontré» ⚠️ dentro del punto 13,
+con la lista de episodios ya mirados y los que faltan por mirar si otro
+investigador quiere seguir. Suneo no apareció en ninguno de los 7
+episodios de esta tanda.
