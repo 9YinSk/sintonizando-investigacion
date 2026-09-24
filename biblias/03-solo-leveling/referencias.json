@@ -6,7 +6,7 @@
     "alto": 1280,
     "que_es": "Dos Jinwoo: el novato sentado con sudadera azul y cuchillo, y el fuerte de pie sobre ruinas con abrigo claro y daga roja",
     "para_que": "Pose del novato (hilo Cómo se entra) y del cazador fuerte; paleta medida de la T1 (#0C1721, #68A8C5, #4C7288)",
-    "licencia": "Arte oficial con copyright; no libre. Solo referencia o recorte para uso no comercial del servidor"
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
   },
   {
     "url": "https://raw.githubusercontent.com/ACGNTaiwan/Anime-List/master/anime-data/img/2025/01/a75ede5e839f28fc879bfd8d16edebb958775c00c608b107e8a9516498de617b.jpg",
@@ -15,276 +15,348 @@
     "alto": 1848,
     "que_es": "Jinwoo de perfil mirando arriba, ojos violeta y luz de borde roja; el ejército de sombras negro con contorno cian (Igris, Tank, magos)",
     "para_que": "Portada de la guía; referencia de estilo, luz de borde y color de las sombras (#151F31, #C5E8EE, #CF5678)",
-    "licencia": "Arte oficial con copyright; no libre"
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
   },
   {
-    "url": "https://cdn.animenewsnetwork.com/images/encyc/A26000-2821644222.1706375684.jpg",
-    "fuente": "Anime News Network, enciclopedia (dato de la copia ToshY/anime-news-network-encyclopedia)",
-    "ancho": 550,
-    "alto": 780,
-    "que_es": "Póster de la temporada 1 en ANN",
-    "para_que": "Respaldo de la KV T1 en otra fuente",
-    "licencia": "Arte oficial con copyright; no libre"
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6a/Sung_Jinwoo_Anime_Season_1_Cour_1_Design.webp",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·1",
+    "ancho": 1440,
+    "alto": 2460,
+    "que_es": "Cartel semanal de la T1: Jinwoo novato con sudadera gris, cruzando la daga, sobre fondo azul de circuito",
+    "para_que": "Pose de animar; hilo Cómo se entra",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
   },
   {
-    "url": "https://cdn.animenewsnetwork.com/images/encyc/A32617-2127138349.1742290855.jpg",
-    "fuente": "Anime News Network, enciclopedia (dato de la copia ToshY/anime-news-network-encyclopedia)",
-    "ancho": 550,
-    "alto": 780,
-    "que_es": "Póster de la temporada 2 en ANN",
-    "para_que": "Respaldo de la KV T2",
-    "licencia": "Arte oficial con copyright; no libre"
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/cc/Sung_Jinwoo_Anime.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·2",
+    "ancho": 727,
+    "alto": 1179,
+    "que_es": "Render oficial de Jinwoo T2 de cuerpo entero: abrigo azul noche, camiseta blanca, mano en el bolsillo y daga",
+    "para_que": "Recorte limpio (fondo verde); paleta #2C2F4F / #F5F2EA",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
   },
   {
-    "url": "https://myanimelist.net/images/anime/1801/142390l.jpg",
-    "fuente": "MyAnimeList (dato de la copia de Jikan en purplegummy/RecommenAnime)",
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/ba/Sung_Jinwoo_Anime_S2_CV.jpeg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·3",
+    "ancho": 900,
+    "alto": 1200,
+    "que_es": "CV oficial de la T2: Jinwoo con la mano abierta hacia cámara, media sonrisa",
+    "para_que": "La mejor pose para presentar o invitar (Concepto A, La guía de un vistazo)",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/7/70/Solo_Leveling_ReAwakening_Cover_Visual.jpeg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·6",
+    "ancho": 2000,
+    "alto": 3000,
+    "que_es": "Portada de la película ReAwakening: Jinwoo de perfil mirando arriba",
+    "para_que": "Portada de la guía",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/f/fa/Season_2_Countdown_1_Day.jpeg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·7",
+    "ancho": 2000,
+    "alto": 2248,
+    "que_es": "Ilustración oficial de cuenta atrás de la T2 (1 día): Jinwoo relajado con Igris sombra detrás",
+    "para_que": "El staff: el jefe y su guardia",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/c4/Season_2_Countdown_3_Days.jpeg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·9",
+    "ancho": 2000,
+    "alto": 2246,
+    "que_es": "Ilustración oficial de cuenta atrás de la T2 (3 días): Jinwoo sonriente con Tank",
+    "para_que": "Los talentos",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/7/73/Igris_CV.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·11",
+    "ancho": 707,
+    "alto": 999,
+    "que_es": "CV oficial de Igris («IGRIT»): armadura negra con líneas cian sobre fondo rojo",
+    "para_que": "Ficha del staff; hex medidos #010004, #5DE3EC, #620001",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/a/a5/Kaisel_CV.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·13",
+    "ancho": 1460,
+    "alto": 2064,
+    "que_es": "CV oficial de Kaisel, el wyvern de sombra",
+    "para_que": "Tus zonas (volar de una zona a otra); Los talentos",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/5/55/Tusk_CV.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·15",
+    "ancho": 1076,
+    "alto": 1521,
+    "que_es": "CV oficial de Colmillo (Kiba), la sombra de Kargalgan",
+    "para_que": "Los talentos",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/f/fe/Beru_Anime1.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·16",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Beru de sombra con alas de luz azul (ep. 25)",
+    "para_que": "Los talentos, lámina 2",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/8b/Cha_Hae-in_Anime_S2_CV.jpeg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·17",
+    "ancho": 900,
+    "alto": 1200,
+    "que_es": "CV oficial de Cha Hae-In T2: rubia, uniforme rojo y blanco, desenvainando",
+    "para_que": "Advertir; Concepto B; hex #BC2B47 / #CC2D4B",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/9/97/Cha_Hae-In_%28Hunter%29_Anime_Alt.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·18",
+    "ancho": 816,
+    "alto": 1073,
+    "que_es": "Render oficial de Cha Hae-In de cuerpo entero, espada baja",
+    "para_que": "Recorte limpio (fondo verde) para el Concepto B",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/c0/Solo_Leveling_Anime_Episode_14_Img_3.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·20",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "Captura oficial del ep. 14: Jinwoo con chaqueta de borrego e Igris detrás en la nieve",
+    "para_que": "El staff: Igris de guardaespaldas",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/62/Solo_Leveling_Anime_Episode_19_Img_5.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·21",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "Captura oficial del ep. 19: Yoo Jinho con sudadera amarilla y mochila",
+    "para_que": "Cómo pedir algo",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6f/Go_Gunhee_Anime.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja P·22",
+    "ancho": 494,
+    "alto": 1526,
+    "que_es": "Render oficial de Go Gunhee de cuerpo entero, traje negro",
+    "para_que": "De qué va esto",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/b3/Anime_Episode_3_Jinwoo_receives_a_quest_from_the_System.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·1",
+    "ancho": 1196,
+    "alto": 649,
+    "que_es": "Captura del ep. 3: la primera ventana NOTIFICATION, vista desde detrás, en el hospital",
+    "para_que": "Lo que hay que leer; cómo se ve la ventana en una habitación clara",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6b/Anime_Episode_5_Jinwoo_increasing_his_stats.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·2",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Captura del ep. 5: Jinwoo con dos dedos en la barbilla junto a su ventana STATUS",
+    "para_que": "Pose de pensar y explicar con la ventana al lado",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/d/d3/SoloLeveling_Anime_Episode_6_Picture_22.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·3",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Captura del ep. 6: ventana QUEST INFO con la palabra «penalty» en rojo",
+    "para_que": "Plantilla de ventana de misión; Normas",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/7/77/Anime_Episode_12_Jinwoo_buys_Knight_Killer.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·6",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Captura del ep. 12: ventana de compra «Would you like to purchase? [Knight Killer]» con botones CANCEL · BUY",
+    "para_que": "Los roles que te pones tú: botones y corchetes",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/bd/Anime_Episode_12_Jinwoo_uses_shop_in_system.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·7",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Captura del ep. 12: Jinwoo sujeta la tienda del Sistema como una tableta, al atardecer",
+    "para_que": "La ventana como objeto real que se sostiene",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/f/fa/Anime_Episode_8_picture_25.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·9",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura del ep. 8: el móvil de Jinwoo con el aviso de la Hunter's Association (Clear | View)",
+    "para_que": "Cómo pedir algo: el cuadro de diálogo de la Asociación",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/b4/Anime_Episode_10_notification_for_job_change_quest.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·10",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Captura del ep. 10: ventana NOTIFICATION con icono «!» en recuadro y esquinas de circuito",
+    "para_que": "La mejor plantilla de la ventana (hex #112A39, #82F3FA, #E7F5FA)",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/ce/Solo_Leveling_Anime_Episode_16_Img_5.jpg",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja S·15",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "Imagen oficial del ep. 16: funcionario de la Asociación con papeles en un pasillo",
+    "para_que": "El staff; De dónde sale un rol",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/cb/Statue_of_God_Smile_Anime_Episode_1.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·1",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "La estatua del Dios sonriendo, templo de Cartenon (ep. 1), en 4K",
+    "para_que": "Lámina 2 de Normas",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/1f/Anime_Episode_1_Screenshot_15.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·2",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Sala circular del templo con anillo de luces azules (ep. 1)",
+    "para_que": "Normas; paleta #3F5484 / #1A2B57",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/08/Anime_Episode_11_Job_Change_Quest_Dungeon.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·3",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Pasillo de columnas con antorchas de la mazmorra del cambio de clase (ep. 11)",
+    "para_que": "Dónde se trabaja; Lo que hay que leer",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/be/Anime_Episode_8_picture_49.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·5",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Portal azul con cinta amarilla y cazadores (ep. 8)",
+    "para_que": "Cómo se entra",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/9/94/Jeju_Island_Anime_-_Episode_1.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·10",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Isla de Jeju desde el aire, «3 YEARS AGO»",
+    "para_que": "Reuniones y eventos; mar #226A9E / #3799C6",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/5/5a/Anime_Episode_3_Jinha_visits_Jinwoo1.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·14",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Habitación del hospital: Jinah visita a Jinwoo (ep. 3)",
+    "para_que": "Lo que hay que leer",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/0e/Anime_Season_2_large_visual_1.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·18",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Visual grande oficial de la T2 (horizontal)",
+    "para_que": "Fondo de pantalla; portada",
+    "licencia": "Arte oficial con copyright (©Solo Leveling Animation Partners); no libre. Solo referencia o recorte para uso no comercial del servidor"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/1e/Anime_Episode_1_Double_Dungeon_Strike_Team.png",
+    "fuente": "Wiki de Fandom solo-leveling (API imageinfo); hoja F·20",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Portal dentro de una valla de obra roja de la Asociación, con los cazadores (ep. 1)",
+    "para_que": "Cómo se entra (Concepto de hilo 1)",
+    "licencia": "Captura del anime con copyright, alojada en la wiki de Fandom; solo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Vzyw9z9F57M&t=7",
+    "fuente": "Crunchyroll en Español (YouTube), clip oficial doblado del ep. 6, 14-mar-2024",
     "ancho": null,
     "alto": null,
-    "que_es": "Póster grande de la temporada 1 en MAL",
-    "para_que": "Otra copia del arte principal",
-    "licencia": "Arte oficial con copyright; no libre"
-  },
-  {
-    "url": "https://www.aniplex.co.jp/lineup/sololeveling/news/detail/?id=66194",
-    "fuente": "Aniplex, web oficial",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Noticia oficial de la KV de la T2 (lema 覇者の目醒め)",
-    "para_que": "Fuente oficial de la KV T2 y de la película ReAwakening",
-    "licencia": "Copyright de Aniplex"
-  },
-  {
-    "url": "https://natalie.mu/comic/news/517533",
-    "fuente": "Comic Natalie",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Primera KV y teaser del anime",
-    "para_que": "Arte oficial temprano del anime",
-    "licencia": "Copyright de los titulares"
-  },
-  {
-    "url": "https://x.com/sololeveling_pr/status/1835520942203867271",
-    "fuente": "X oficial del anime (@sololeveling_pr)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Publicación oficial de la KV T2",
-    "para_que": "Fuente oficial de primera mano",
-    "licencia": "Copyright de los titulares"
-  },
-  {
-    "url": "https://anitrendz.net/news/2025/02/08/solo-leveling-season-2-highlights-the-powerful-kiba-in-new-shadow-visual/",
-    "fuente": "AniTrendz",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Visual oficial de la sombra Kiba (Colmillo en latino)",
-    "para_que": "Hilo Los talentos: una sombra por talento",
-    "licencia": "Arte oficial con copyright"
-  },
-  {
-    "url": "https://anitrendz.net/news/2025/03/01/kaisel-takes-flight-in-new-solo-leveling-season-2-shadow-visual/",
-    "fuente": "AniTrendz",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Visual oficial del wyvern Kaisel",
-    "para_que": "Hilo Tus zonas (volar de una zona a otra) y Los talentos",
-    "licencia": "Arte oficial con copyright"
-  },
-  {
-    "url": "https://sololeveling-anime.net/story/?id=21",
-    "fuente": "Web oficial del anime",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Página de historia de un capítulo, con sus capturas oficiales (unas 6 por capítulo según el scraper de tetrix1993)",
-    "para_que": "Fotogramas oficiales en alta para recortar poses",
-    "licencia": "Copyright de los titulares"
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:Solo_Leveling_anime_logo.svg",
-    "fuente": "Wikimedia Commons",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Logo del anime en SVG",
-    "para_que": "Referencia de la forma del logo (letras afiladas)",
-    "licencia": "Ver la ficha de Commons (logo con marca registrada)"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/igris-solo-leveling-0eeb4795c56d4a5cbca69ba2bd340c6a",
-    "fuente": "Sketchfab, autor missafe (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de Igris (espada y penacho)",
-    "para_que": "Posar a Igris arrodillado en Blender (concepto C)",
-    "licencia": "CC BY 4.0 según el README de codeonym/portfolio; comprobar en Sketchfab. Crédito: \"Igris Solo Leveling\" by missafe, CC BY 4.0"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/throne-room-247c37e6a9694ae891398911876f0c14",
-    "fuente": "Sketchfab, autor Uğur Yakışık (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Salón del trono con estrado, vidrieras y antorchas",
-    "para_que": "El salón del trono vacío de Igris (concepto C)",
-    "licencia": "CC BY 4.0 según el README; comprobar en Sketchfab. Crédito: \"Throne Room\" by Uğur Yakışık, CC BY 4.0"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/old-roman-style-treasure-chest-animated-a4f29fc04137433e8eb5470ddb75d311",
-    "fuente": "Sketchfab, autor Theo Kain (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Cofre con tapa animada",
-    "para_que": "INVENTARIO del hilo Los roles que te pones tú",
-    "licencia": "CC BY 4.0 según el README; comprobar en Sketchfab"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/stone-book-lectern-821ec86f606a40f5b819bafc3ad013d4",
-    "fuente": "Sketchfab, autor ambrosia04 (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Atril de piedra con libro",
-    "para_que": "Normas o Lo que hay que leer (libro de mandamientos)",
-    "licencia": "CC BY 4.0 según el README; comprobar en Sketchfab"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/sword-of-the-defeated-224a05d7ec8e4d1b990545128055d865",
-    "fuente": "Sketchfab, autor Bunny-HungTD (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Espada",
-    "para_que": "Hoja en primer plano para dar profundidad",
-    "licencia": "CC BY 4.0 según el README; comprobar en Sketchfab"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/b477120b0c8642e9b94a7c347362dd75",
-    "fuente": "Sketchfab, autor bgang0892 (crédito leído en codeonym/portfolio)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo de fan de Sung Jinwoo",
-    "para_que": "Solo referencia de volumen y pose; no para pegar",
-    "licencia": "Sketchfab Standard (no es CC); comprobar"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/foxofice/sub_share/master/subs_list/animation/2024/%282024.1.6%29%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7%20S1/BD/Netflix/en/Ore%20dake%20Level%20Up%20na%20Ken%20-12.Netflix.en.srt",
-    "fuente": "Subtítulos en inglés de Netflix, T1 cap. 12 (repo foxofice/sub_share)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Tiempos del cap. 12: Arise a los 17:39, 19:08, 19:32 y 20:25, y el discurso a Igris (20:00-20:25)",
-    "para_que": "Ir directo al fotograma de la escena más querida",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/foxofice/sub_share/master/subs_list/animation/2024/%282024.1.6%29%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7%20S1/BD/Netflix/en/Ore%20dake%20Level%20Up%20na%20Ken%20-03.Netflix.en.srt",
-    "fuente": "Subtítulos en inglés de Netflix, T1 cap. 3",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Primera ventana del Sistema en el hospital (07:34-08:07) con sus frases de normas y penalización",
-    "para_que": "Hilo Lo que hay que leer; texto base del Sistema",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/aymen-sh/tryme/main/SLd1sp.vtt",
-    "fuente": "Subtítulos en español latino de Crunchyroll, T2 cap. 13 (repo aymen-sh/tryme)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Carteles del Sistema en latino: NOTIFICACIÓN, INVENTARIO, [Título]",
-    "para_que": "Vocabulario oficial de las cabeceras de la ventana",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/aymen-sh/tryme/main/SLd4sp.vtt",
-    "fuente": "Subtítulos en español latino de Crunchyroll, T2 cap. 16",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Reevaluación con el cristal negro (03:33-04:43), cartel de la Asociación (15:46), Cha Hae-in «la Bailarina» (18:56)",
-    "para_que": "Conceptos A y B: objeto real, texto oficial y presentación de Cha Hae-In",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/aymen-sh/tryme/main/SLd6sp.vtt",
-    "fuente": "Subtítulos en español latino de Crunchyroll, T2 cap. 18",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Surge.» (17:49) y «Colmillo. Te llamarás Colmillo.» (18:10), con NOTIFICACIÓN y [Colmillo Nv. 1]",
-    "para_que": "La palabra latina de Arise y el formato de ficha de una sombra",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Senki3567/Drive/main/Crunchyroll/Solo%20Leveling/Solo%20Leveling%20Season%202%20-Arise%20from%20the%20Shadow-/25%20-%20On%20to%20the%20Next%20Target.vi-VN.ass",
-    "fuente": "Subtítulos vietnamitas de Crunchyroll, T2 cap. 25 (repo Senki3567/Drive)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Beru recibe su nombre (09:56-09:59), con cartel de rango General Nv. 1",
-    "para_que": "Minuto exacto de la escena de Beru para sacar el fotograma",
-    "licencia": "Subtítulos con copyright alojados por terceros; solo consulta"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/METADATA.pb",
-    "fuente": "Google Fonts (repo oficial google/fonts)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Lato, la letra de texto que citan los fans para el Sistema",
-    "para_que": "Texto de la ventana; comprobada con tildes, ñ, ¿ y ¡",
-    "licencia": "SIL Open Font License 1.1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/METADATA.pb",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Nunito, redondeada, en lugar de Trueno Round o Circe Rounded",
-    "para_que": "Cabeceras NOTIFICACIÓN o MISIÓN; comprobada con tildes",
-    "licencia": "SIL Open Font License 1.1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/exo2/METADATA.pb",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Exo 2, técnica, para cifras y rangos",
-    "para_que": "Niveles, [E] → [S]; comprobada con tildes",
-    "licencia": "SIL Open Font License 1.1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/blackhansans/METADATA.pb",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Black Han Sans, coreana gruesa",
-    "para_que": "AVISO: no trae á é í ó ú ñ ¿ ¡ (comprobado); solo para hangul decorativo",
-    "licencia": "SIL Open Font License 1.1"
-  },
-  {
-    "url": "https://www.figma.com/community/file/1480447290080535122/solo-leveling",
-    "fuente": "Figma Community (fan)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Recreación de la interfaz del Sistema hecha por fans",
-    "para_que": "Ver cómo otros resuelven la ventana; no copiar",
-    "licencia": "Según su ficha en Figma (sin comprobar)"
-  },
-  {
-    "url": "https://trip-cut.blogspot.com/2026/01/solo-leveling-exhibition-seoul-2026.html",
-    "fuente": "Trip-cut (blog de viajes)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Exposición oficial de Seúl montada como Centro de Entrenamiento de la Asociación de Cazadores; el visitante empieza como rango E en el registro",
-    "para_que": "Justifica la idea de #guia: el nuevo miembro se registra como cazador novato",
-    "licencia": "Copyright del blog"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=Vzyw9z9F57M",
-    "fuente": "Crunchyroll en Español (YouTube), según la guía de cuadros del repo",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clip oficial del cap. 6 «La presa se convierte en cazador»",
-    "para_que": "Oír el doblaje latino y ver la pose del cazador; minuto sin verificar",
+    "que_es": "Ventana WARNING en rojo con el cartel latino «ADVERTENCIA: No cumplir la misión TE DETENDRÁ EL CORAZÓN.» (0:07-0:15)",
+    "para_que": "Vocabulario latino oficial y el rojo de la amenaza (#9F205C). Vídeo: YouTube no deja bajar el archivo, se miró por storyboard de 320×180",
     "licencia": "Copyright de Crunchyroll"
   },
   {
-    "url": "https://www.youtube-nocookie.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1",
-    "fuente": "Tráiler enlazado en la ficha de MyAnimeList (T1)",
+    "url": "https://www.youtube.com/watch?v=Zk5Xz1dR6bY&t=1",
+    "fuente": "Crunchyroll en Español (YouTube), clip oficial doblado del ep. 11, 23-abr-2024",
     "ancho": null,
     "alto": null,
-    "que_es": "Tráiler de la temporada 1",
-    "para_que": "Ver cómo aparece y se mueve la ventana del Sistema; minuto sin verificar",
+    "que_es": "El salón del trono de Igris: columnas violeta, alfombra roja, trono al fondo; Igris rojo con penacho (0:01-0:11)",
+    "para_que": "Concepto C: luz y paleta del salón (#1E121B, #6A232B). Vídeo sin tamaño medible (storyboard de 320×180)",
+    "licencia": "Copyright de Crunchyroll"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XqD0oCHLIF8&t=84",
+    "fuente": "Crunchyroll (YouTube), opening de la T1 «LEveL»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El logo del anime: «S O L O  L E V E L I N G» en serifa espaciada (1:24)",
+    "para_que": "Tipografía del logo (Cinzel / Marcellus). Vídeo sin tamaño medible (storyboard de 320×180)",
     "licencia": "Copyright de los titulares"
+  },
+  {
+    "url": "https://i.redd.it/flyseada0ure1.jpeg",
+    "fuente": "Reddit r/sololeveling, 30-mar-2025 (Arctic Shift); dibujo de Yoshihiro Kanno, director de acción",
+    "ancho": 870,
+    "alto": 1222,
+    "que_es": "Dibujo de agradecimiento del staff: Jinwoo con las manos en los bolsillos y Kaisel detrás, «Thank you!!»",
+    "para_que": "Pose relajada de Jinwoo con una sombra; tono de la despedida",
+    "licencia": "Copyright del autor; solo referencia"
+  },
+  {
+    "url": "https://i.redd.it/18xl6gl27vre1.jpeg",
+    "fuente": "Reddit r/sololeveling (2257 votos); autor RichyukiYuki en X (status 1906344318106792372)",
+    "ancho": 1125,
+    "alto": 1042,
+    "que_es": "Fan art: Cha Hae-In al atardecer y Jinwoo con traje bajo la lluvia, con sus sombras",
+    "para_que": "Referencia de luz cinematográfica; nunca para pegar",
+    "licencia": "Fan art con copyright del autor; solo referencia"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/a3ac78d429f04340937af8e365f4de32/thumbnails/199fe890963646f483569d673aea06b7/19b5b123ef0b4b51a4592922c37b9c01.jpeg",
+    "fuente": "Sketchfab, «Hall of Blood-Red Commander Igris» de Jp André (miniatura; licencia por la API)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D del salón de Igris (modelo: https://sketchfab.com/3d-models/a3ac78d429f04340937af8e365f4de32)",
+    "para_que": "Base en Blender del Concepto C",
+    "licencia": "CC BY 4.0. Crédito: \"Hall of Blood-Red Commander Igris\" by Jp André, licensed under CC BY 4.0"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/30618a3f909a4376af013a1d1de1cbba/thumbnails/c18dd775458947bd90b59c9d3e1c627e/ad97e0f708524d8ca67e112d4cb03732.jpeg",
+    "fuente": "Sketchfab, «Crystal Ball» de Randall_3D (miniatura; licencia por la API)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D de la esfera de cristal (modelo: https://sketchfab.com/3d-models/30618a3f909a4376af013a1d1de1cbba)",
+    "para_que": "El cristal medidor de la Asociación en el Concepto A (teñirlo de negro)",
+    "licencia": "CC BY 4.0. Crédito: \"Crystal Ball\" by Randall_3D, licensed under CC BY 4.0"
   }
 ]
