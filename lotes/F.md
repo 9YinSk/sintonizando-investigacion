@@ -55,4 +55,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 78-vinland-saga | video | sonnet | 19 | 222410 |
 | 77-wistoria-wand-and-sword | redactor (opus) | opus | 19 | 339142 |
 | 78-vinland-saga | video (relanzo) | sonnet | 7 | 116043 |
-| 79-demon-slayer-paisajes-y-auras | texto | sonnet | 11 | (pendiente) |
+| 79-demon-slayer-paisajes-y-auras | texto | sonnet | 13 | 242801 |
