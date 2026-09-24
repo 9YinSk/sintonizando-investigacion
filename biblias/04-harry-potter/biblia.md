@@ -41,6 +41,9 @@ fecha: 2026-09-24
 > - **Siguen cerradas o fallan:** bajar vídeo, audio o subtítulos de YouTube
 >   (sólo dan *storyboards*), Wayback Machine (el túnel se corta), Blog
 >   Hogwarts (503), ArtStation (403), Texturelabs (reto antibots).
+> - **Repaso corto** (24-sep-2026, noche): 3 investigadores (imagen, voz,
+>   texto) y un redactor añadieron los **puntos 18-25** del encargo y la
+>   guía para IA de texto (§18.1). Ver «Segunda pasada · qué cambió».
 > - La segunda pasada la hicieron **tres ayudantes seguidos** el mismo día: al
 >   primero lo cortó el límite de uso; el segundo terminó §15-§21,
 >   `referencias.json`, la tabla de cumplimiento y la bitácora; el tercero
@@ -182,6 +185,36 @@ fecha: 2026-09-24
 **Marcas de duda:** había **55** antes de la segunda pasada; **38** cuando
 cerró el segundo ayudante; quedan **22** (contadas con `grep -o`; el número
 incluye la leyenda). Lo que sigue dudoso y por qué: §20.
+
+**Repaso corto (24-sep-2026, noche): los puntos 18-25 del encargo**
+- **Añadido**: 8 secciones nuevas, **«Punto 18» a «Punto 25»**, entre §18
+  y §19. Salen de las partes de 3 investigadores: imagen (19, 23), voz
+  (20, 21, 22) y texto (18, 24, 25), en `partes/`.
+- **Añadido a §18 (punto 17)**: **§18.1, la guía para una IA de texto**,
+  que faltaba: reglas de la voz latina y 13 frases reales por emoción.
+- **Corregido (antes → ahora)**: la parte de texto decía que **ninguna
+  lámina del servidor se parece** a la de Harry Potter (sólo miró 3
+  biblias). Revisados los conceptos de **todas**: **Mafalda** tiene un
+  diario doblado sobre la mesa (como nuestro A) y **One Piece** carteles
+  clavados (como nuestro C). Anotado en el punto 24 y en los conceptos.
+- **Corregido al pasar a la biblia**: la parte de voz decía que §14 da
+  «Always» en latino; §14 no lo dice → «no comprobado». La de texto decía
+  que el lema del escudo estaba en §6; no está → queda con su duda.
+- **Conceptos (§19)**: no cambian; se añaden mejoras (Dobby en LEGO como
+  referencia 3D y sus calcetines sin pareja en C; técnica de la foto que
+  se mueve y grano en A; B, el único sin parecido en otras láminas).
+- **`referencias.json`**: de **40 a 100**. Entran las 9 de
+  `partes/imagen.json` y `partes/texto.json`, 8 vídeos de fandub y
+  parodias de `partes/voz.md` (no hay `voz.json`) y 43 de
+  `partes/datos.json` **miradas en hoja** (Pottermore, Studio Tour con CC
+  BY, LEGO, fondos de Wallhaven, capturas de Steam medidas de nuevo: las
+  de los juegos viejos no eran de 1920×1080).
+- **Aviso para el dueño**: la colaboración con **Fortnite** salió en plena
+  polémica por la postura de J. K. Rowling sobre las personas trans
+  (punto 23).
+- **Marcas de duda**: de **22 a 63**. Las 41 nuevas son de los puntos
+  18-25 (una sola fuente o no encontrado), listadas en §20. `revisar.py`:
+  **COMPLETA**, 144 webs distintas, tabla con 36 ✅, 3 ⚠️ y ningún ❌.
 
 ---
 
@@ -2522,6 +2555,24 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 - **Licencia de Texturelabs**: la página de condiciones devuelve un reto
   antibots y la copia de Wayback no baja.
 
+**Repaso corto, puntos 18-25** (24-sep-2026): lo que queda dudoso o sin
+encontrar, cada cosa con su marca en su sección:
+- **Punto 18**: aberración cromática u otro filtro óptico, sin entrevista;
+  la charla de GDC de *Magic Awakened*, de pago; el color de la serie de
+  HBO, una fuente; los encuadres por emoción, sólo Color Culture.
+- **Punto 19**: trama de imprenta con licencia libre; serpiente, águila y
+  tejón heráldicos libres; licencias de Ravelry y Brusheezy.
+- **Punto 20**: alturas (sólo HP Lexicon); fecha exacta de Dumbledore;
+  altura y boggart de Luna (no están en la wiki); boggart de Dobby (sólo
+  un juego de LEGO).
+- **Punto 21**: minuto de Molly contra Bellatrix; cómo dice «Always» el
+  doblaje latino; cómo están filmadas las escenas (no se miraron en vídeo).
+- **Punto 22**: vistas del TikTok de Warner México; un canal latino grande
+  de covers del tema.
+- **Punto 23**: McFarlane Toys (404); cosplay de Hermione, Draco o Luna.
+- **Punto 24**: TV Tropes (403); Percy Jackson sin artículo.
+- **Punto 25**: el lema del escudo, sin enlace.
+
 ---
 
 ## Cumplimiento del encargo
@@ -2545,12 +2596,20 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 | 14 · Poses con minuto | ✅ | 6 tablas, 7-15 poses cada una (§15); casi todas vistas en vídeo, clip u hoja; 2 gestos sin ver (Harry P1, Ron P8) |
 | 15 · Vestuario con hex | ✅ | hex medidos en figurines y promos (§16) |
 | 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta: buscados en DeviantArt, no hay que valgan |
-| 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18) |
+| 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18); **IA de texto** añadida en el repaso corto (§18.1): reglas de voz latina y 13 frases reales ordenadas por emoción. El vocabulario de expresiones del anime no aplica (es cine) |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | punto 18: película de 35 mm, luz y color con entrevistas (Seresin, Craig) y análisis técnicos; Jim Kay y MinaLima; Hogwarts Legacy y Magic Awakened; Photoshop y Blender paso a paso; encuadres por emoción. Sin fuente: aberración cromática (no encontrada) y la charla de GDC (de pago) |
+| 19 · Texturas 2D | ✅ | punto 19: emblemas oficiales, Reliquias CC0 medida, tartanes, papel y telas CC0 (Poly Haven medidas por la API), patrón por casa de Vans. No hay tramas (no es manga). Falta: trama de imprenta con licencia y serpiente, águila y tejón heráldicos libres |
+| 20 · Gustos y detalles | ✅ | punto 20: los 6 personajes, con cumpleaños, gustos, objeto, Amortentia, Espejo de Oesed y boggart (wiki por API). Alturas con una fuente; Luna sin altura ni boggart en la wiki |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | punto 21: ventas, Guinness y BAFTA, con quién se identifica el público, y 3 escenas con música y reacción. Falta el minuto de Molly contra Bellatrix, cómo se dice «Always» en latino y mirar en vídeo cómo están filmadas |
+| 22 · Fan dubs y comunidad hispana | ✅ | punto 22: 5 fandubs y 2 parodias con vistas medidas con yt-dlp (el mayor, 41,9 millones); TikTok de Warner México. Covers cantados: no existen (el tema no tiene letra) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | punto 23: Fortnite (con aviso), 3 juegos móviles, LEGO 2026 con pose nueva de Dobby, Vans, Pandora, cafés de Tokio y Seúl, Funko, un cosplay con materiales. McFarlane sin verificar |
+| 24 · Obras parecidas | ✅ | punto 24: influencias en palabras de Rowling, comparaciones de la crítica y **láminas vecinas revisadas en todas las biblias**: Mafalda (diario en la mesa) y One Piece (carteles clavados) se parecen a A y C |
+| 25 · Mundo, historia y símbolos | ✅ | punto 25: 5 reglas, 7 arcos, las 4 casas, Marca Tenebrosa, Reliquias, moneda del ED, Ministerio y vocabulario. El lema del escudo, sin enlace |
 | 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19); el C copia ahora el tablón de la película 1 |
-| 40 fuentes distintas | ✅ | unas 80 webs distintas enlazadas (el cierre añadió Pentagram, DubDB, Moviepedia, Wikipedia en español, O Tempo, IBTimes, IMDb News, ANMTV, Looper, TECHNÈS y Dailymotion) |
+| 40 fuentes distintas | ✅ | **144 webs distintas** enlazadas tras el repaso corto (`revisar.py`); antes unas 80 (el cierre añadió Pentagram, DubDB, Moviepedia, Wikipedia en español, O Tempo, IBTimes, IMDb News, ANMTV, Looper, TECHNÈS y Dailymotion) |
 | Oficiales | ✅ | harrypotter.com, MinaLima, Warner Bros. Games, Pentagram (estudio del logo de Hogwarts Legacy), canales oficiales de YouTube, tráileres oficiales en el Internet Archive, créditos de cine del doblaje, soporte de Portkey |
 | Entrevistas al staff | ✅ | MinaLima, Magic Awakened, Hogwarts Legacy, Javier Rivero (su blog), Cuarón (prensa) |
-| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2, §12.2) y portugués (O Tempo, sobre Eduardo Lima) |
+| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2, §12.2) y portugués (O Tempo, sobre Eduardo Lima); en el repaso corto, chino (arte de *Magic Awakened*) y prensa de Corea, Japón y Malasia (punto 23) |
 | Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, doblaje), Wikipedia en español, DubDB, Moviepedia (guiones), HP Lexicon, TCRF ✅; TV Tropes sigue en 403 (Cloudflare); Wayback: la API de disponibilidad responde, las páginas guardadas no bajan |
 | Foros y comunidades | ✅ | Reddit por Arctic Shift, foro de dafont |
 | Arte | ✅ | ArtStation, DeviantArt (ArtStation da 403 a la API) |
@@ -2558,11 +2617,67 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 | Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab, Poly Haven, ambientCG |
 | Doblaje latino | ✅ | Doblaje Wiki (API y audios), prensa mexicana, entrevistas en YouTube |
 | Hojas (`hojas/`) | ✅ | 3 JPEG de menos de 1 MB, numeradas y descritas (§2.0) |
-| `referencias.json` | ✅ | 40 entradas: la imagen misma (o el vídeo con su segundo), con ancho y alto medidos, uso y licencia; 3 cambiadas en el cierre (tablón de P1, tráiler de P1, logo latino de P4) |
+| `referencias.json` | ✅ | **100 entradas** tras el repaso corto (60 nuevas de `partes/*.json`, los vídeos de `voz.md` y `datos.json`, miradas antes; los 8 vídeos de fandub sin ancho ni alto: YouTube no deja bajarlos). Las 40 primeras: la imagen misma (o el vídeo con su segundo), con ancho y alto medidos, uso y licencia; 3 cambiadas en el cierre (tablón de P1, tráiler de P1, logo latino de P4) |
 
 ---
 
 ## 21 · Bitácora de búsqueda
+
+### Repaso corto (24-sep-2026): puntos 18-25
+
+Tres investigadores, cada uno con su parte en `partes/`; el redactor las
+juntó. Detalle completo en la «Bitácora» de cada parte.
+
+**Imagen (19, 23)**, `partes/imagen.md`
+- Web, en inglés casi todo (las notas de prensa de moda y juguetes son en
+  inglés): escudos SVG, Reliquias libres, papel CC0, rayas de corbata,
+  jersey Weasley en Ravelry, trama de imprenta CC0, Noun Project, pinceles
+  de tinta, león heráldico, Fortnite, Wizards Unite, cafés de Tokio y
+  Seúl, Funko, Mattel, McFarlane, cosplay, LEGO 2026, *Magic Awakened*,
+  Vans y Pandora. Una en español (colaboraciones y cafés).
+- Abiertas directamente: harrypotter.com, freesvg.org, heropatterns.com,
+  API de Poly Haven (tamaños), OpenGameArt, heraldicart.org, The Brick
+  Fan, LEGO.com, The Woodland Elf, Dexerto, SoraNews24, Korea Herald.
+- **Bloqueadas** (dos intentos y no más): Vecteezy y Flaticon (403),
+  Unblast (captcha); McFarlane (404).
+
+**Voz (20, 21, 22)**, `partes/voz.md`
+- API de la Harry Potter Wiki: fichas de los 6 personajes, Amortentia y
+  Espejo de Oesed.
+- Web en español: fandubs latinos, parodias, «Leviosa, no Leviosá»,
+  covers de Hedwig's Theme. En inglés: ventas, muerte de Dobby, Desplat,
+  identificación con personajes, Molly contra Bellatrix, BAFTA, ensayos
+  sobre la familia elegida.
+- `yt-dlp --print`: 12 vídeos medidos hasta el **429** de YouTube.
+- Arctic Shift: respondió con `title=cry`; **522/422 Timeout** en el
+  resto (no se insistió más de tres veces).
+
+**Texto (18, 24, 25)**, `partes/texto.md`
+- 14 búsquedas web: 13 en inglés y 1 en **chino** (arte de *Magic
+  Awakened*). Influencias de Rowling, Jim Kay, Jeff Bunker, MinaLima,
+  Stuart Craig, Seresin, filtros de cámara, TV Tropes, glosario oficial,
+  la foto que se mueve, Blender.
+- Leídas: Wikipedia (influencias y trama), Color Culture (P3 y P8), VFX
+  Apprentice, resumen de GDC. **Sin leer**: TV Tropes (403) e IndieWire
+  (402, de pago).
+- API de la wiki: Reliquias, Marca Tenebrosa, Estatuto del Secreto,
+  moneda del ED, Ministerio, estatus de sangre, las 4 casas.
+
+**Redactor**
+- Leyó las 3 partes, `partes/*.json`, los `datos-*.md` y `datos.json`.
+- Montó 2 hojas de trabajo (fuera del repositorio) para **mirar** las
+  candidatas de `datos.json` antes de meterlas en `referencias.json`:
+  23 capturas de Steam (5 elegidas; midió su tamaño real) y 42 imágenes de
+  Fandom, Wallhaven y Openverse.
+- **Descartadas de `datos.json`**, y por qué: fan art de Safebooru (estilo
+  anime, no sirve para una lámina de cine; 6 ni siquiera son de Harry
+  Potter, son de *Umamusume*), fondos de Wallhaven de otras series o
+  sugerentes, retratos de personajes que no salen en la biblia (Fleur,
+  Lupin, Tonks, Grindelwald), la obra de teatro y los modelos de
+  Sketchfab (su enlace es una página, sin tamaño; los útiles ya están en
+  §4 y en el punto 18).
+- Revisó los títulos de los conceptos de **todas las biblias** buscando
+  «periódico», «diario», «tablón», «carta» y «noticias» (punto 24).
 
 ### Segunda pasada (24-sep-2026, red abierta)
 
