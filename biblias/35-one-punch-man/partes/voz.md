@@ -738,3 +738,17 @@ servidor deje de pedir inicio de sesión.
 
 Carpeta de trabajo (fuera del repositorio, con los audios, fotogramas e
 imágenes que miré): `/tmp/claude-0/trabajo/35-voz/`.
+
+---
+
+Sigue: punto 13, «su cara en cada emoción con fotograma y minuto» — cubierto
+con ejemplos reales para Saitama (calma/miedo cómico), Genos (rabia),
+Tatsumaki (tristeza), Mumen Rider (determinación), Fubuki (seriedad) y King
+(miedo), pero falta la rabia/alegría/vergüenza de varios de ellos y las 5
+emociones completas de Garou, Sonic, Bang, Boros, Amai Mask, Metal Bat,
+Puri-Puri Prisoner y Zombieman (sólo tienen "qué transmite" en texto, sin
+fotograma propio). Requiere más búsquedas de imágenes por palabra clave en
+`onepunchman.fandom.com` (namespace de archivos, `srnamespace=6`) con términos
+como "<Personaje> happy/sad/angry/embarrassed" y, para las escenas ya
+animadas, más pasadas de `fotogramas.py` sobre los clips de Dailymotion ya
+listados en `datos-video.md`.
