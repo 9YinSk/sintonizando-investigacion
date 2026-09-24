@@ -1932,7 +1932,7 @@ o descarga directa.
 | Bajé 24 imágenes de la wiki y las **medí con Pillow** | las 24 coinciden con la API; las miré en una hoja de trabajo |
 | `yt-dlp -j` a 11 vídeos de Dailymotion | 10 de 512×288 y 1 de 320×184 |
 | `fotogramas.py`: Best Episode 9 (0:39, 1:39), tutorial (0:15, 0:31), presentación del juego (3:30) 👁 | confirmado; corregí la pose de Bokuto en 1:39 (§3.1, §15) |
-| YouTube: `yt-dlp -j` y subtítulos | 2 intentos «iniciar sesión»; el 3.º funcionó (clip «Jirafales», 1920×1080); luego **429** |
+| YouTube: `yt-dlp -j` y subtítulos | 2 intentos «iniciar sesión»; el 3.º funcionó (clip «Jirafales», 1920×1080). Subtítulos: los de Nishinoya bajaron (§10.4); Oikawa y Kiyoko dieron **429**, también tras esperar 4 min. El vídeo de Nishinoya no se dejó bajar |
 | Búsqueda en YouTube por `ytsearch` (doblaje latino) | aparecen subidas de fan con la voz latina de Nishinoya y Oikawa (Cawita Anime); sin clip oficial de Bokuto |
 | dafont: Anime Ace 2.0 BB | 1.er enlace dio 404; con el bueno, **no trae ¿ ni ¡** |
 | google/fonts: GitHub directo **403**; por jsDelivr, bien | Comic Neue Bold y M PLUS Rounded 1c: ✅ todo |
