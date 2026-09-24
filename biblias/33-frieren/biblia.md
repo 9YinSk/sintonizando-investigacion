@@ -305,7 +305,75 @@ tinta sobre papel texturado**, §5.1) ⚠️ sin fuente libre concreta.
 
 ## 6 · Tipografía
 
-(pendiente)
+### 6.1 El logo 葬送のフリーレン / FRIEREN
+
+Lo miré ampliado en la esquina de las hojas de modelo oficiales (wiki) y en
+el PV (hoja `pantalla_01`, n.º 2). Lo que se ve ✅:
+- **Mincho alargado en vertical** y muy apretado, en **teal** (`#3AAAB1`
+  medido en la hoja de modelo de Frieren; `#24CCCB` en el PV, §5.3).
+- La raya larga de «フリーレン» **sube y se convierte en el bastón de
+  Frieren**, con **el aro de la cabeza del bastón** arriba.
+- Los trazos tienen **cortes finos**, como una plantilla, y una **textura
+  gastada** con motitas blancas.
+- Debajo, «**F R I E R E N**» en **mayúsculas con remate (serif)**, muy
+  separadas, con la parte de arriba y la de abajo recortadas.
+
+**De qué letra sale**: dos análisis de diseñadores dicen que es **Ryūmin
+(リュウミン, de Morisawa), estirada al ~80 % en vertical**, con cortes y
+textura de **lápida** («葬送» = funeral) ([note.com, «葬送のフリーレンロゴ
+分析»](https://note.com/ryotaro_8111/n/n11e360ed59f3);
+[いいフォント](https://goodfreefonts.com/2484/)). No es un dato oficial ⚠️,
+pero coinciden. Ryūmin **es de pago**.
+
+**Quién diseñó los tomos del manga**: el estudio **Bay Bridge Studio**
+(tomos 1-4 y publicidad del premio Manga Taishō) ([su blog,
+24-may-2021](https://baybridges.exblog.jp/32290826/)) ✅ una fuente. El
+autor del logo no lo encontré ⚠️.
+
+### 6.2 La letra libre más parecida (comprobada con fontTools)
+
+Bajé cada letra (Google Fonts, licencia **OFL**, libre para uso comercial) y
+miré su tabla de caracteres. **Todas traen á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü «
+» —** ✅. Muestras en `hojas/pantalla_01.jpg`, n.º 16-22.
+
+| Para qué | Letra libre | Por qué | Japonés |
+|---|---|---|---|
+| **«FRIEREN» del logo** (mayúsculas separadas) | **Zen Old Mincho** o **Shippori Mincho** en mayúsculas, espaciado ~0,5 em | Las puse al lado del logo real (`logo_comparar.jpg` en mi carpeta): tienen **el mismo grosor y los remates** del logo. **Cinzel** (n.º 17) queda **demasiado fina y romana** ⚠️ mi comparación | sí (las dos) |
+| **Cartelas del tráiler** (gris pizarra sobre blanco-cian) | **Shippori Mincho** Regular, espaciado muy ancho (n.º 16) | es un mincho fino y limpio como el de las cartelas | sí |
+| **Título de episodio** (blanco sobre negro) | **Zen Old Mincho** (n.º 22) | mincho clásico con más peso | sí |
+| **Texto de un grimorio o un pergamino** | **Cormorant Garamond** (n.º 19) o **IM Fell English** (n.º 20, parece imprenta vieja) | libro antiguo europeo, como el mundo de la serie | no |
+| **Rótulos en minúscula** | **Marcellus** (n.º 18) | serif grabada, elegante | no |
+| **Nota a mano** (el diario de Himmel, una carta) | **Klee One** (n.º 21) o **Caveat** | letra de lápiz; el ED de la T2 es **a lápiz de color** (§11) | Klee sí |
+| **Logo en japonés** (si se quiere) | **Sawarabi Mincho** (OFL), **装甲明朝**, **こころ明朝体**, **うつくし明朝体**, **幻ノにじみ明朝** | son las que propone [いいフォント](https://goodfreefonts.com/2484/), **estiradas al 80 % en vertical** | sí; ⚠️ no comprobé si traen ñ |
+
+Regla práctica: **mincho para lo que dice la serie**, **serif antigua para
+lo que está escrito en un objeto**, **lápiz para lo íntimo**. Nada de palo
+seco gruesa ni de letra de cómic.
+
+### 6.3 Los globos del manga (Kanehito Yamada y Tsukasa Abe)
+
+- Miré viñetas del manga en la wiki (cap. 116, Heiter): los **globos son
+  altos y estrechos, en forma de cápsula vertical**, con **línea negra
+  fina** y **un pico muy pequeño**. Son así porque el japonés va en
+  vertical ✅ visto (la wiki borra el texto).
+- La **portadilla del capítulo** (tomo *Prelude*, cap. 1, wiki): **fondo
+  negro**, un **círculo mágico con escritura rúnica** alrededor, **adornos
+  barrocos de flor de lis en las cuatro esquinas**, «第1話» en mincho negrita
+  con el número grande, y el título en **mincho blanco** («やすらぎの日々») ✅
+  visto. Es un buen marco para una lámina «de libro».
+- Ediciones en español: **Panini México**, «*Frieren: Más allá del fin del
+  viaje*»; **Ivrea Argentina**, «*Frieren: Más allá del final*» (fichas de
+  tiendas: [Amazon México](https://www.amazon.com.mx/Frieren-Viaje-Manga-Editorial-Panini/dp/6076366397),
+  [Kokoro Mangas](https://www.kokoromangaschile.cl/products/frieren-mas-alla-del-final-01)) ✅.
+  Qué letra usan en sus globos: **no lo encontré** ⚠️.
+
+### 6.4 Qué NO hacer
+- **Cinzel en todo**: queda «de película de romanos». Sólo para una palabra
+  corta, si acaso.
+- **Letras con brillo, degradado o biselado**: el logo es plano, teal, con
+  textura gastada.
+- **Palo seco gruesa** (Bebas, Montserrat Black): no sale en ningún sitio
+  de la serie, salvo en el subtítulo de Crunchyroll.
 
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
 
@@ -819,7 +887,50 @@ de TikTok están en §14.
 
 ## 13 · Videojuegos de la franquicia
 
-(pendiente)
+**No encontré un videojuego propio de Frieren.** Busqué en la lista de
+páginas de la Frieren Wiki (721 páginas: ninguna de juego), en una lista
+japonesa de colaboraciones y en YouTube. Lo que hay son **colaboraciones**:
+Frieren, Fern, Stark y Himmel entran **en juegos de otros**, con la
+interfaz de ese juego. Por eso **no hay «caja de diálogo de Frieren»** en
+videojuegos (§7).
+
+### 13.1 Colaboraciones (lista)
+
+Fuente principal: [hokope, «葬送のフリーレンコラボソシャゲ一覧2026»](https://hokope.com/archives/124549)
+(actualizada el 9-sep-2026). ⚠️ una fuente salvo donde digo otra.
+
+| Año | Juego | Fechas | Otra fuente |
+|---|---|---|---|
+| 2023 | Ragnador; Jikkyō Powerful Soccer | oct y nov-2023 | — |
+| 2024 | LINE Rangers; Dragon Egg; **Monster Strike** (1.ª); Grand Saga Pocket; Kotodaman; Castle & Dragon; Pokolon Dungeons; Tensura Maoryu | ene-dic 2024 | — |
+| 2025 | Guardian Tales; **Mabinogi** (tráiler del 18-feb-2025); Unison League; PUBG Mobile; Pawapuro; Knives Out; Grand Summoners; Identity V; White Cat Project; Epic Seven | ene-oct 2025 | Mabinogi: tráiler visto (§7.3) ✅ |
+| 2025 | **Solo Leveling: ARISE** (Netmarble) | 23-oct a 20-nov-2025 | [Frieren Wiki, imagen oficial de Netmarble](https://static.wikia.nocookie.net/frieren/images/9/96/SL_Arise_x_Frieren_Collaboration_.jpg/revision/latest?cb=20251107161657) ✅ |
+| 2025-26 | **Shadowverse: Worlds Beyond**; Yo-kai Watch Puni Puni | dic-2025 a ene-2026 | canal oficial de Shadowverse en YouTube ✅ |
+| 2026 | **Monster Strike** (2.ª); **Puzzle & Dragons** | ene-mar 2026 | [4Gamer](https://www.4gamer.net/games/148/G014877/20260220005/), [Game8](https://game8.jp/monst/603091) ✅ |
+| 2026 | AFK Journey; Duel Masters Play's; **Summoners War** (con Übel y Himmel) | may-ago 2026 | tuits oficiales citados en hokope |
+| 2026 | **MapleStory** («Coming Sept 9»); Castle & Dragon | sep-2026 | títulos del canal oficial de MapleStory en YouTube ✅ |
+
+Fuera de las pantallas: **«Real Escape Game» (juego de escape) «魔族潜む村からの
+脱出»** desde el 10-sep-2026 en Harajuku ([collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-real-escape-game-2026/)
+y su visual en la wiki) ✅, y **Universal Studios Japan**, verano de 2026
+([Famitsu](https://www.famitsu.com/article/202511/58865)) ⚠️.
+
+### 13.2 Cómo se ve Frieren dentro de un juego
+
+| Juego | Lo que vi | Dónde |
+|---|---|---|
+| **Solo Leveling: ARISE** | Frieren, Fern y Stark en **3D estilo anime**. La **caja de diálogo es la de ARISE**: **banda oscura degradada a lo ancho, abajo**, el **nombre pequeño en cian** centrado sobre una línea fina, el texto **blanco centrado**, «SKIP» arriba a la derecha. Hay cartelas negras con texto centrado («Jinwoo defeats the boss…»). **¡Sale un Mimic!** (cofre rojo con dientes, 0:50-0:55) | storyboard de [KXCXWLvar50](https://www.youtube.com/watch?v=KXCXWLvar50&t=50) (partida grabada por un jugador, ene-2026) ✅ visto, ±2 s |
+| **Solo Leveling: ARISE** (arte) | Sung Jinwoo y Frieren **en una colina al atardecer**, mariposas amarillas; logo inglés «**FRIEREN / Beyond Journey's End**»: mayúsculas con remate, **la «I» coronada por el aro del bastón**, una **línea fina con un rombo** debajo | imagen oficial de Netmarble (1920×1080, wiki) ✅ visto |
+| **Mabinogi** (Nexon) | versalitas blancas en cursiva sobre cielo pastel; **fogata con caldero** | §7.3 ✅ |
+| **Monster Strike**, **P&D**, **Summoners War** | ⚠️ no vi sus pantallas de diálogo | — |
+
+### 13.3 Qué sacar de aquí para la lámina
+- **No existe una interfaz de juego de Frieren que copiar.** Imitar la caja
+  de ARISE o de Mabinogi sería vestir a Frieren con ropa de otro.
+- Lo que sí sirve: **el Mimic es tan famoso que otros juegos lo meten**
+  (ARISE, 0:50). Un cofre-mímico en la lámina se entiende en todo el mundo.
+- El **logo internacional** con el aro del bastón en la «I» es un buen
+  detalle para un rótulo en español.
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
@@ -831,7 +942,97 @@ de TikTok están en §14.
 
 ## 16 · Vestuario
 
-(pendiente)
+**Todos los hex están medidos por mí con Pillow** (mediana de los píxeles de
+cada zona) en las **hojas de modelo oficiales del anime** de la wiki
+(`<Personaje>_anime_reference_sheet.png`, 2000-2048 px; las de invierno,
+1200 px) y en el **visual oficial de Frieren con el bastón** (1966×2785).
+Margen: ±5 por canal (son PNG/JPEG de la wiki).
+
+### 16.1 Frieren
+
+**La ropa icónica** (T1 y T2, la que todos reconocen) ✅:
+
+| Pieza | Cómo es | Hex |
+|---|---|---|
+| Pelo | **plateado con un toque lavanda**, dos coletas bajas y largas, un mechón levantado arriba | `#E8E6F0` (sombra `#B4B0BA`) |
+| Ojos | verde azulado | `#45777D` |
+| Piel | muy clara, rosada | `#FBF3EE` |
+| Capa corta y vestido | **blancos**, capa hasta el codo; vestido hasta medio muslo | `#F7F8F8` |
+| Ribetes | **oro viejo** en capa, puños y bajo del vestido | `#D5BA7F` |
+| Camisa | **rayas horizontales negras y blancas** asomando en el cuello | negro `#302A2A` |
+| Cinturón | negro con hebilla | `#302A2A` |
+| Medias | **azul marino casi negro** | `#4B4A57` (en el visual: `#272937`) |
+| Botas | **marrones, altas, con la caña doblada** | `#7F6853` |
+| Joyas | **pendientes rojos en gota**, **botón rojo** en el cuello | `#692227` |
+| **Bastón** | asta **rojo vino**, cabeza **dorada en media luna** con un **aro y una gema roja**, **cinta roja** atada | asta `#682927`, gema `#AB1416`, oro `#BDA475` |
+
+**Invierno** (hoja «Frieren winter»): encima de una **túnica blanca de cuello
+alto con ribete dorado y cinturón negro**, un **abrigo largo crema cruzado,
+con botones rojos** (`#F2EEEB`, botones `#965A57`) y **cuello marinero**
+por detrás, y **bufanda azul cielo** (`#9ABBD4`). Botas y medias iguales.
+Además hay **abrigo negro** en arte oficial (`personajes_01`, n.º 9).
+
+**Frieren joven** (recuerdos de hace mil años): **pelo corto** (PV 2 de la
+T1, 0:50) ✅ visto.
+
+### 16.2 Fern
+
+| Pieza | Cómo es | Hex |
+|---|---|---|
+| Pelo | **violeta**, **liso hasta la cintura**, flequillo recto; **media coleta** recogida con un **broche plateado de mariposa** | `#7A4783` |
+| Ojos | violeta | — |
+| Abrigo | **negro largo, abierto**, mangas anchas | `#464140` |
+| Vestido | **blanco roto largo**, con **pechera plisada y cuello alto con volante** | `#F7F3ED` |
+| Botas | negras | `#2B252A` |
+| Objeto | bastón de madera sencillo; la **pulsera de loto espejo** que le regaló Stark (T1-14) | — |
+
+**Invierno**: **vestido azul marino largo** (`#3A4362`) con cinturón negro,
+**chaqueta corta gris claro con puños de pelo blanco** (`#D6DCDF`) y
+**bufanda lila** (`#9CA8DB`). En el clip de T1-04 lleva además un **abrigo
+marrón** (§12.3, 0:42) ✅ visto.
+
+### 16.3 Stark
+
+| Pieza | Cómo es | Hex |
+|---|---|---|
+| Pelo | **rojo cobrizo** despeinado, con **una mecha negra** en el centro | `#B04B34`, mecha `#282220` |
+| Chaqueta | **roja**, corta, mangas remangadas con **vuelta crema** | `#A53F30` |
+| Camisa | **negra de cuello mao** con alamares blancos | `#3D3D3D` |
+| Faja | **crema**, cruzada a la cintura, con un faldón | `#E8DCD1` |
+| Pantalón y botas | negros; **botas de cordones** marrón muy oscuro | `#3D3D3D`, `#35302F` |
+| Manos | **vendas** en la muñeca y **guante sin dedos** | — |
+| Objeto | **hacha enorme de doble filo** | — |
+
+**Invierno**: **jersey negro de cuello alto** y **chaqueta roja acolchada con
+cuello y puños de borrego** (`#AE3A28`).
+
+### 16.4 Himmel
+
+| Pieza | Cómo es | Hex |
+|---|---|---|
+| Pelo | **azul claro**, corto con flequillo | `#A9C7E4` |
+| Túnica | **azul real** con cierres blancos tipo alamar | `#475992` |
+| Capa | **crema, larga hasta el suelo**, con capucha y **broche plateado** en el pecho | `#E7E5DA`, sombra `#BBB4A6` |
+| Pantalón y botas | blanco roto; **botas negras** con banda | `#363945` |
+| Rasgo | **lunar bajo el ojo izquierdo** (§8) | — |
+
+### 16.5 Los demás (paleta de su hoja oficial)
+
+| Personaje | Colores dominantes | Qué lo hace reconocible |
+|---|---|---|
+| **Heiter** | negro `#414141`, oro `#CCB88F`, crema `#F5E8D3` | sotana negra con estola dorada, **gafas** |
+| **Eisen** | rojo `#A23D26`, oro viejo `#B8A366` | **capa roja**, casco con cuernos, barba enorme |
+| **Serie** | rubio `#F7CF87`, crema `#FBF5E4` | pelo dorado largo, túnica clara |
+| **Aura** | magenta `#A7466E`, rosa `#C479AA`, azul noche `#31314B` | pelo rosa, cuernos, **balanza** |
+
+### 16.6 Lo que un fan pilla al momento (y no se toca)
+- Frieren **siempre** con las **dos coletas bajas** y el **bastón rojo con la
+  media luna dorada**. Sin coletas o con varita, ya no es ella.
+- La **camisa de rayas** bajo la capa blanca.
+- Fern: **negro y blanco**, pelo violeta **largo y liso**. Nunca con coleta
+  alta ni flequillo abierto.
+- Stark: **rojo**, y la **mecha negra** en el pelo.
+- Himmel: **azul y capa crema**. Su estatua es de **bronce verdoso** (§5).
 
 ## 17 · Paisajes y fondos de pantalla
 

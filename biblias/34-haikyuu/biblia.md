@@ -53,7 +53,14 @@ japoneses del Blu-ray** (con su traducción inglesa) de los 85 episodios y
 de la película *La Batalla del Basurero*. Los bajé de GitHub
 ([kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror),
 carpetas `anime_tv/Haikyuu!!…` y `anime_movie/…Gomi Suteba no Kessen`).
-En Crunchyroll el minuto puede moverse **±5-10 s** (otro corte de avances).
+**⚠️ Corrección (revisión de la tanda S9)**: esos subtítulos son de una
+versión **Blu-ray sin el opening dentro del episodio**. En la versión que
+se ve en *streaming* (Netflix y Amazon Japón, que bajé del mismo
+repositorio y coinciden entre sí) casi todo va **1:31 más tarde** (lo
+que dura el opening), y lo que va después del ending, unos **3:00 más
+tarde**. Crunchyroll emite la versión de TV, así que **lo seguro es la
+columna «streaming»** de la tabla 2.0. Los minutos de la película (BB)
+ya son los de Netflix ✅.
 
 - **Clave de episodios**: T1 = temporada 1 (25 ep.), T2 = 25 ep., T3 = 10
   ep. (Karasuno vs Shiratorizawa), T4 = *TO THE TOP* (25 ep.), BB = la
@@ -65,6 +72,39 @@ En Crunchyroll el minuto puede moverse **±5-10 s** (otro corte de avances).
 - ✅ = línea leída en el subtítulo con su minuto. Las que además **vi en
   vídeo** llevan 👁 y el enlace.
 
+### 2.0 Tabla de minutos: Blu-ray → *streaming* ✅
+
+Comprobado línea a línea con los subtítulos japoneses de Netflix
+(`…WEBRip.Netflix.ja[cc].srt`) del [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror).
+Con Amazon (`…Amazon.ja-jp[sdh].srt`) cambia ±3 s.
+
+| Escena | Blu-ray (lo que pone abajo) | *Streaming* (usar este) |
+|---|---|---|
+| Pequeño Gigante en la tele (T1-01) | 01:12 | **02:43** |
+| «¡Todavía no ha caído!» (T1-01) | 13:30 | **15:01** |
+| Formularios de inscripción (T1-01 / T1-02) | 20:17 / 03:06 | **21:48 / 04:37** |
+| Remate con los ojos cerrados (T1-04) | 17:49 | **19:19** |
+| «Eres el mejor señuelo» (T1-05) | 13:52 | **15:23** |
+| «Si yo estoy, eres el más fuerte» (T1-10) | 12:26 | **13:57** |
+| **Estandarte 飛べ** y «ánimo» de Kiyoko (T1-14) | 19:31 · 19:56 | **19:32 · 19:57** (aquí no cambia) |
+| Nishinoya: «Su espalda la cuido yo» (T1-16) | 20:08 | **21:39** |
+| «El guardián de Karasuno» (T1-07) | 12:10 | **13:41** |
+| «Rolling Thunder» (T1-08) | 14:26 | **15:57** |
+| Oikawa: «Confío en ustedes» (T1-19) | 15:49 | **17:20** |
+| Oikawa: «Bienvenido, Tobio-chan» (T1-21) | 20:59 | **23:58** (tras el ending) |
+| «¡Hinata, idiota!» por primera vez (T1-03) | 20:11 | **21:43** |
+| «Cállate, Yamaguchi» (T1-03) | 21:16 | **24:17** (tras el ending) |
+| Aldeano B (T2-03) | 11:47-12:17 | **13:20 en adelante** |
+| Bokuto: «¡Hey, hey, heeey!» (T2-04) | 09:55 | **11:26** |
+| Penalización «flying» por la cancha (T2-04) | 04:27 | **05:58** |
+| Bokuto: «el momento» (T2-08) | 16:50 | **18:23** |
+| Modo depre de Bokuto (T2-10) | 20:03 | **21:34** |
+| Oikawa: talento e instinto (T2-24) | 18:12 | **19:43** |
+| Ukai: «¡No miren al suelo!» (T3-08) | 20:20 | **21:51** |
+
+Si una escena no está aquí, súmale **1:31** al minuto de abajo y
+compruébalo en el vídeo ⚠️.
+
 ### 2.1 Las diez escenas que todo fan reconoce
 
 | # | Ep. y minuto | Qué pasa | La frase (japonés → mi traducción) | Para qué sirve |
@@ -75,7 +115,7 @@ En Crunchyroll el minuto puede moverse **±5-10 s** (otro corte de avances).
 | 4 | T1-04, 17:09-17:49 | Nace el **ataque rápido raro** (変人速攻): Hinata remata **con los ojos cerrados** y Kageyama le pone el balón en la mano | 「目ぇ開けてるとどうしてもボールに目が行くから」 → «Si abro los ojos, miro la pelota» | la confianza a ciegas ✅ |
 | 5 | T1-05, 12:43-13:57 | El profesor Takeda **repasa las posiciones** con cartelas en pantalla (Colocador, Rematador de punta, Central) y Kageyama le dice a Hinata qué es | 「お前は最強の囮だ」 → «Tú eres el mejor señuelo» | **explicar con carteles**: el tono de una lámina que enseña ✅ |
 | 6 | T1-10, 12:26 | Kageyama a Hinata, en el gimnasio | 「俺がいればお前は最強だ」 → «Si yo estoy, tú eres el más fuerte» | la frase de la dupla; vuelve en T2-23 (19:35) y T3-03 (15:39) ✅ |
-| 7 | T1-14, 19:08-19:56 | **Kiyoko desenrolla el estandarte 「飛べ」** («Vuela»), que encontró limpiando y lavó. Todos gritan; ella, que casi no habla, dice bajito «ánimo» | 「掃除してたら見つけたから」 → «Lo encontré limpiando» · 「がんばれ」 → «Ánimo» | **el objeto estrella** (§3.4, §19) ✅ |
+| 7 | T1-14, 19:08-19:56 | **Kiyoko desenrolla el estandarte 「飛べ」** («Vuela») **con Takeda** desde la barandilla («激励とか…得意じゃないので 先生お願いします» → «No se me dan bien los ánimos. Profesor, por favor»). Lo encontró limpiando y lo lavó. Todos gritan; ella, que casi no habla, dice bajito «ánimo». En latino, Suga: «No sabía que tuviéramos eso» (§10.4) | 「掃除してたら見つけたから」 → «Lo encontré limpiando» · 「がんばれ」 → «Ánimo» | **el objeto estrella** (§3.4, §19) ✅ |
 | 8 | T1-16, 20:01-20:08 | Nishinoya, antes del partido con Date Tech | 「みんな前だけ見てけよ。背中は俺が守ってやるぜ」 → «Ustedes miren sólo hacia delante. Su espalda la cuido yo» | la pose del líbero; los tres de primero: «¡qué genial!» (20:14) ✅ |
 | 9 | T2-03, 11:58-12:17 | **«Aldeano B»**: Yachi cree que no vale para el club; Hinata cuenta que en la obra de primaria fue el Aldeano B y **lo regañaron por querer lucirse más que el protagonista**. Kageyama fue «la Luna». Asahi, «un caballo» | 「村人Bには村人Bのかっこよさがあんだよ」 → «El Aldeano B tiene lo suyo de genial» | **ningún papel es pequeño**: perfecto para un servidor de doblaje ✅ |
 | 10 | T3-08, 20:20-20:31 | El entrenador Ukai grita en el último set contra Shiratorizawa, con todos cabizbajos | 「下を向くんじゃねぇ！ バレーは常に上を向くスポーツだ」 → «¡No miren al suelo! ¡El vóley es un deporte en el que siempre se mira arriba!» | **la frase más citada** del entrenador; sirve para animar ✅ |
@@ -119,7 +159,7 @@ y lo vi en pantalla 👁 (el de Karasuno, en el opening 2 y en T3):
 
 | Escuela | Lema | Significado |
 |---|---|---|
-| **Karasuno** | 飛べ | «Vuela» (lo hizo la asociación de antiguos alumnos, que firmó abajo) |
+| **Karasuno** | 飛べ | «Vuela». Abajo a la derecha, en letra pequeña: «烏野高校 男子バレーボール部» (lo leí en la imagen de la wiki). Que lo hicieran los antiguos alumnos **no lo encontré** ⚠️ |
 | **Nekoma** | 繋げ | «Conecta» (la pelota, de uno a otro) |
 | **Aoba Johsai** | コートを制す | «Domina la cancha» |
 | **Date Tech** | 伊達の鉄壁 | «El Muro de Hierro de Date» |
@@ -243,6 +283,52 @@ el fandom los adora.
 - Las capturas de **T4 con su filtro cálido** para medir color (§5.2).
 - Fan art de DeviantArt hecho con IA (§4.3).
 
+### 3.4 El estandarte 「飛べ」, de cerca (el objeto estrella)
+
+- **Qué es**: una tela **negra azulada** (`#292E36`) con «飛べ»
+  («Vuela») **a pincel** en blanco (`#E0EEEE`). Abajo a la derecha, en
+  pequeño: **«烏野高校 男子バレーボール部»** («Instituto Karasuno, club
+  de vóley masculino»). Lo leí en la [imagen de la wiki](https://static.wikia.nocookie.net/haikyuu/images/6/67/Karasuno_banner_s4-e10-1.png) (1361×763) 👁.
+- **Cómo cuelga**: de la **barandilla de la galería** del gimnasio, con
+  **cordones blancos** arriba; debajo, el friso de madera (`#774C2B`);
+  encima, ventanas. Visto en T1-14, OP2 [1:22](https://www.dailymotion.com/video/x3hw69f?t=82),
+  T3 [1:02-1:07](https://www.dailymotion.com/video/x6tsc2z?t=62) y T4
+  [1:15](https://www.dailymotion.com/video/x7ytyal?t=75) 👁.
+- **Su escena**: Kiyoko lo encuentra limpiando el almacén, lo lava y lo
+  desenrolla **con Takeda** (T1-14, *streaming* 19:32) ✅.
+- **Lo que dicen los fans** (Reddit, r/haikyuu, vía Arctic Shift ✅):
+  a «[¿qué letra es la del estandarte?](https://reddit.com/r/haikyuu/comments/1omb8sq/what_font_is_the_fly_banner/)»
+  contestan «**caligrafía a mano**» (*shodō*). En «[¿qué estandarte te
+  llega más?](https://reddit.com/r/haikyuu/comments/1oqolhm/what_banner_from_haikyuu_resonate_with_you_guys/)»
+  (130 votos) gana **Inarizaki, «思い出なんかいらん» («No necesitamos
+  recuerdos»)**, con 74 y 43 votos en los dos primeros comentarios; 「飛べ」
+  va detrás.
+- **Hay merchandising oficial** de estandartes: el libro *Haikyu!!
+  Shōsetsuban!!* traía **«横断幕しおり»** (marcapáginas-estandarte) de
+  Nekoma y Aoba Johsai (anuncio en la lista de [Nijimen](https://nijimen.kusuguru.co.jp/topics/137872)) ⚠️ una fuente.
+
+### 3.5 Lo que dice el staff (entrevistas en japonés) ✅
+
+**Quién hizo el anime** (fichas de temporada de [Haikyuu!! Wiki](https://haikyuu.fandom.com/wiki/Haiky%C5%AB!!_Season_2)):
+estudio **Production I.G** (lo dice también ANMTV); dirección **Susumu
+Mitsunaka** (T1-T3 y la película) y **Masako Satō** (T4); diseño de
+personajes **Takahiro Kishida**; jefe de animación **Takahiro Chiba**
+(T2) y **Yū Kobayashi** (T4); música **Yuki Hayashi y Asami Tachibana**.
+
+| Quién | Dónde | Lo que sirve para la lámina |
+|---|---|---|
+| **Haruichi Furudate** (autor) | [Jump Manga-shō, vol. 9](https://www.jump-mangasho.com/interview/furudate-sensei-vol9/) | En *Haikyu!!* **no hay villanos**. Resumen mío: si metes a alguien odioso, tienes que gastar páginas en derrotarlo o cambiarlo, y eso lo aparta del vóley («イヤなヤツを入れている余裕が無い»). → En la lámina, **nadie hace de malo**; el rival es un amigo que te empuja |
+| Furudate | [Jump Manga-shō, vol. 4](https://www.jump-mangasho.com/interview/furudate-sensei-vol4/) | Cita a Oda: **decide el dibujo al que quieres llegar** y ve hacia él («たどりつきたい絵を決める», título de la entrega). Cuenta cómo decidió el final de cada partido (el de Nekoma acaba **porque el balón resbala por el sudor**: «el último punto no tenía que significar nada») |
+| Furudate | entrevista en *Yomiuri*, resumida por [Nijimen](https://nijimen.kusuguru.co.jp/topics/137872) | Sus episodios favoritos: **el del talento y el instinto de Oikawa** y **el de Kita hablando de los genios**; Hinata y Kageyama tenían que acabar siendo **el jefe final el uno del otro** |
+| **Susumu Mitsunaka** (director) | [Animate Times, 2024](https://www.animatetimes.com/news/details.php?id=1707793814) | Pone la cámara **a la altura de los ojos del jugador, no del público** («観客の目線というよりも、なるべく選手たちの目線から見て»). Antes de grabar, el reparto **jugó al vóley** y miró la cancha **por encima de la red** para sentir «la vista desde la cima». Kenma es «un personaje que **casi no existe** en el manga deportivo» |
+| Mitsunaka | [MANTANWEB, 2024](https://mantan-web.jp/article/20240216dog00m200029000c.html) | En la película muestra también **a los de atrás** y **al público**; pidió a los actores hablar como si no se oyeran entre sí, por el ruido del pabellón |
+| **Yuki Hayashi** (compositor) | [4Gamer, 2025](https://www.4gamer.net/games/991/G999108/20250821048/) | Hizo la música de las 4 temporadas y la película. Hablando de las series largas (ésta y *Hero Academia*), cuenta con humor que cada temporada la lista de temas pide algo **más fuerte que lo anterior**. No habla de temas concretos de *Haikyu!!* ⚠️ |
+| **Takahiro Kishida** (diseño de personajes) | — | **No encontré** una entrevista suya sobre *Haikyu!!* (búsqueda en japonés, §21) |
+
+**Idea para la lámina** (de Mitsunaka): el personaje **a la altura de
+los ojos**, con algo delante (la red, un balón, la barandilla), como si
+el que mira estuviera **en la cancha**, no en la grada.
+
 ## 4 · Fan art y 3D (sólo como referencia)
 
 ### 4.1 Modelos 3D en Sketchfab (licencia leída en su API, descargables) ✅
@@ -313,7 +399,11 @@ Consultado en `api.polyhaven.com`:
 - [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror):
   subtítulos japoneses (y japonés-inglés) de los **85 episodios**, las
   películas recopilatorias y *La Batalla del Basurero*. De aquí salen
-  todos los minutos de §2.
+  todos los minutos de §2. Hay **varias versiones** por episodio: las
+  de «Sergey-Commie» (Blu-ray; las cabeceras dicen que el texto japonés
+  es de **诸神字幕组 / Kamigami**, un grupo chino de subtítulos) y las
+  de **Netflix** y **Amazon** Japón (`ja[cc]`, `ja-jp[sdh]`). Las de
+  *streaming* van ~1:31 más tarde (§2.0).
 - [google/fonts](https://github.com/google/fonts): las letras de §6.
 
 ## 5 · Sitios, luz, paleta y texturas
@@ -366,6 +456,9 @@ Medida con la mediana de una zona de cada imagen (margen ±5 por canal).
 | **Rojo del tráiler latino** | `#C2001B` | tráiler, [0:52](https://www.dailymotion.com/video/x99xyhy?t=52) |
 | Caja del juego: fondo · filete · pestaña | `#14100B` · `#E89A30` · `#FFBF13`→`#FF8C1E` | juego de 3DS, [3:30](https://www.dailymotion.com/video/x24iov6?t=210) |
 | Pizarra: marco · corcho · imán | `#ABAEB0` · `#9A6F39` · `#5DA7D9` | tutorial, [0:15](https://www.dailymotion.com/video/x25g4z4?t=15) |
+| Pizarra (re-medida hoy): blanco · imán · borrador · gimnasio detrás | `#FFFFFF` · `#5DA1D2` · `#47CAFB` · `#B5905A` | tutorial, [0:31](https://www.dailymotion.com/video/x25g4z4?t=31) |
+| **Marcador del campamento**: pizarrita · cartón naranja · cartón blanco · tubo | `#385950` · `#E19C52` · `#EAEAE6` · `#D8DADB` | Best Episode 9, [0:39](https://www.dailymotion.com/video/x7og4pm?t=39) |
+| Caja de **HAIKYU QUEST**: fondo · fondo del combate | `#1E1569` · `#37259D` | anuncio japonés, [0:24](https://www.dailymotion.com/video/x20zjof?t=24) |
 
 **Ojo con T4**: la temporada 4 tiene un **filtro cálido y lavado** (Hinata
 en T4 da pelo `#ECA76E` y camiseta `#DC7834`). Para una lámina, mejor
@@ -465,13 +558,14 @@ nunca un globo blanco genérico.
 | **B** | **Globo del manga** | óvalo **alto y estrecho** de trazo fino; el grito, con borde de pinchos; el quejido («そうだけどさァ〜〜»), con borde ondulado; la duda, «……» en globo pequeño. Onomatopeyas grandes a mano | [capítulo 89](https://static.wikia.nocookie.net/haikyuu/images/d/db/Chapter_89.png/revision/latest) 👁 |
 | **C** | **Cartela del anime** | texto escrito **sobre la imagen** para presentar algo: nombres de la alineación (T1-05, 12:48), escuelas rivales (T1-14, 04:04-05:28), técnicas («D Quick», «Moving Attack», T1-14 17:29) | subtítulos del Blu-ray, estilo `signs` ✅ |
 | **D** | **Subtítulo de Crunchyroll** | blanco con borde negro, abajo al centro. El japonés pone los **pensamientos entre ≪ ≫** y la **voz en off entre ＜ ＞** | subtítulos japoneses ✅; tráiler T4 👁 |
+| **E** | **«HAIKYU QUEST»**, el RPG de 8 bits de regalo con el juego de 3DS | caja **azul marino** (`#1E1569`; la del combate, `#37259D`) con **borde blanco redondeado**, texto blanco en *hiragana* con palabras en **amarillo** y un **▼** abajo a la derecha: puro *Dragon Quest*. Personajes en *pixel art*: **Kenma ataca** («ケンマのこうげき！ ウーズに34のダメージ！» → «¡Ataque de Kenma! ¡34 de daño al Limo!») y, a la derecha, dos **«jefes» con capa**: uno de **pelo gris con puntas negras** sobre un estrado (¿Bokuto?) y otro de **capa roja** (¿Nekoma?); abajo, **un cuervo**, un viejecito y una chica de vestido turquesa. **No sé quién es cada uno** ⚠️ | [anuncio japonés del juego, 0:20-0:26](https://www.dailymotion.com/video/x20zjof?t=22) 👁 (visto hoy) |
 
 ### 7.2 Los dos objetos donde se escribe (los mejores para una lámina)
 
 | Objeto | Cómo es | Dónde lo vi |
 |---|---|---|
-| **La pizarra blanca del tutorial del juego** | pizarra blanca con **marco de aluminio `#ABAEB0`** y dos grapas arriba, sobre **corcho** (`#9A6F39`). **Imanes redondos azules `#5DA7D9`** en las esquinas. Abajo, **rotuladores rojo y negro** y **borrador azul**. Texto a mano: «POINT» en **rojo**, títulos en negro con **llamadas rojas en zigzag** y subrayado ondulado rojo. **Nishinoya** de pie a la derecha, con chaqueta negra de Karasuno y la mano en la cadera, **explicando** («担当：西谷夕 順位：5位», o sea, «Presenta: Nishinoya, 5.º puesto») | [tutorial del juego, 0:07-0:57](https://www.dailymotion.com/video/x25g4z4?t=15) 👁 — **es exactamente una lámina que explica** |
-| **El marcador de cartones con pizarrita** | marcador de mesa con **cartones blancos** de números negros (y amarillo para los sets); encima, **una pizarrita verde** con los equipos **escritos a tiza** («フクロウ｜ネコ», «Búhos｜Gatos») | [Best Episode n.º 9 oficial, 0:39](https://www.dailymotion.com/video/x7og4pm?t=39) 👁 · [ending 1, 0:12-0:18](https://www.dailymotion.com/video/x6384qq?t=16) 👁 |
+| **La pizarra blanca del tutorial del juego** | pizarra blanca con **marco de aluminio `#ABAEB0`** y dos grapas arriba, sobre **corcho** (`#9A6F39`). **Imanes redondos azules `#5DA7D9`** en las esquinas. Abajo, **rotuladores rojo y negro** y **borrador azul**. Texto a mano: «POINT» en **rojo**, títulos en negro con **llamadas rojas en zigzag** y subrayado ondulado rojo. **Nishinoya** de pie a la derecha, con chaqueta negra de Karasuno y la mano en la cadera, **explicando** («担当：西谷夕 順位：5位», o sea, «Presenta: Nishinoya, 5.º puesto») | [tutorial del juego, 0:07-0:57](https://www.dailymotion.com/video/x25g4z4?t=15) 👁 — **es exactamente una lámina que explica**. Lo volví a mirar hoy: la pizarra está **dentro del gimnasio** (detrás, desenfocado, suelo de madera `#B5905A`); a veces Nishinoya sale en un **recuadro con marco naranja** abajo a la derecha, hablando (0:31); abre con una **cartela amarilla de puntos** «担当：西谷夕 順位：5位 概要：ADVパートの進め方» (0:03) y cierra con «**最高の結末を目指せ!!**» («¡Busca el mejor final!», 0:30) y «**気合いで攻めろ!!!**» («¡Ataca con todo!», 0:54) en rojo |
+| **El marcador de cartones con pizarrita** | marcador de mesa con **cartones blancos** de números negros (y amarillo para los sets); encima, **una pizarrita verde** con los equipos **escritos a tiza** («フクロウ｜ネコ», «Búhos｜Gatos»). Visto de cerca hoy (T2-09, 0:39): marco de **tubo metálico** gris claro (`#D8DADB`), pizarra `#385950`, y encima de cada equipo **palotes de tiza 「正」** para contar los sets ganados. En ese partido los cartones son **naranjas** (`#E19C52`) con el del set en **blanco** (`#EAEAE6`) | [Best Episode n.º 9 oficial, 0:39](https://www.dailymotion.com/video/x7og4pm?t=39) 👁 · [ending 1, 0:12-0:18](https://www.dailymotion.com/video/x6384qq?t=16) 👁 |
 
 ### 7.3 Cómo piensan
 
@@ -715,6 +809,21 @@ instinto» (Oikawa); 2.ª, cap. 163 (el bloqueo de Tsukishima a Ushijima);
 **Encuesta de partidos** ✅: 1.º **Karasuno vs Nekoma** (la Batalla del
 Basurero), 8.011 votos; 2.º vs Aoba Johsai; 3.º vs Shiratorizawa.
 
+**Confirmado también en coreano y en chino** ✅:
+- [Ruliweb](https://bbs.ruliweb.com/family/212/board/300277/read/1499237)
+  (foro coreano, 31-ago-2014) copia la 2.ª encuesta con votos y cita a
+  [Anime News Network](https://www.animenewsnetwork.com/interest/2014-08-29/hinata-tops-weekly-shonen-jump-haikyu-character-poll/.7813):
+  6.º Nishinoya 6.852, 8.º Kuroo 6.511, 9.º Iwaizumi 6.111, 10.º Kenma
+  4.863, 14.º Akaashi 3.995, **18.º Bokuto 3.084**, 21.º Kiyoko 2.640.
+- [Niusnews](https://www.niusnews.com/=P2p655s6) (Taiwán, 13-jun-2020)
+  cuenta la **BEST ORDER**: Bokuto gana su puesto con unos 30.000
+  votos; **Nishinoya, casi 40.000**; Kageyama y Oikawa separados por
+  **menos de 200**. Coincide con la tabla de arriba.
+- En Bilibili (China), un clip lleva de título la frase de Nishinoya:
+  [「大家看前面就好，背后就由我来守护」](https://www.bilibili.com/video/BV1FD4y1E7Mk/)
+  («Miren sólo adelante; su espalda la cuido yo»). No pude abrir la
+  página (la API de Bilibili no respondió) ⚠️.
+
 ### 9.2 Encuestas recientes en Japón ✅
 
 | Encuesta | Top 5 | Fuente |
@@ -881,13 +990,25 @@ letra**; el minuto es exacto):
 | Un superior calma a Hinata | «Tranquilo, relájate, no dejes que te asuste. Recuerda que entrenaste con varias personas.» | [mismo clip](https://www.youtube.com/watch?v=_0dfw978fCA&t=18), 0:18-0:23 |
 | Hinata, al sacar | «¡**Aquí voy**!» | [mismo clip](https://www.youtube.com/watch?v=_0dfw978fCA&t=24), 0:24 |
 | Tanaka (recurrente) | «¡**Sientan mi poder**!» | DW ✅ (no lo encontré en un clip con minuto) |
+| **Kageyama** a Tsukishima (ep. 6) | «Mira quién habla. No vayas a chocar con el techo, **Jirafales**.» | [clip oficial «Jirafales»](https://www.youtube.com/watch?v=LAo7Q3nnYZQ&t=68), 1:08-1:12 ✅ (subtítulo automático, bajado hoy) |
+| Ukai explica a Takeda (ep. 6) | «Cuando Hinata está al frente de nuestra formación, opera como un **señuelo** y hace que suba el nivel de la ofensiva del equipo.» | [mismo clip](https://www.youtube.com/watch?v=LAo7Q3nnYZQ&t=46), 0:46-0:52 (quién habla ⚠️: dice «profesor») |
+| Alguien del banquillo (ep. 6) | «¡Tontos, miren al frente!» | [mismo clip](https://www.youtube.com/watch?v=LAo7Q3nnYZQ&t=78), 1:18 ⚠️ quién |
+| Exámenes (inicio de T2, episodio sin confirmar ⚠️) | «Si reprueban alguna de sus materias, entonces tendrán clases extra durante los fines de semana.» · «Nunca he sacado más de un seis en un examen en mi vida.» | [clip oficial «No me parece que este chico sea muy listo»](https://www.youtube.com/watch?v=k6O6NXXG2Ws&t=9), 0:09-0:18 y 1:33-1:40 ⚠️ quién |
+| **Suga** y **Kiyoko**, con el estandarte (ep. 14) | Suga: «No sabía que tuviéramos eso.» · Kiyoko: «Lo encontré cuando organizaba el almacén y lo lavé yo.» | subida **de fan** con el audio latino ([Cawita Anime, «I believe in you!»](https://www.youtube.com/watch?v=g-HyZxnqvpk&t=2)), 0:02-0:05 ⚠️ no oficial; vi en su *storyboard* que habla Kiyoko en la barandilla |
+| **Kiyoko**: su 「がんばれ」 | «**Creo en ustedes**.» | mismo vídeo, **0:13** ⚠️: subtítulo automático + el título del vídeo; en el *storyboard* es el primer plano de Kiyoko sonrojada. **Oírlo antes de usarlo** |
+| **Takeda** se presenta (T1, episodio sin confirmar ⚠️) | «Este año seré el consejero del club de voleibol. Soy Takeda Ittetsu. No tengo experiencia de juego, así que no puedo ayudarles con la técnica, pero para todo lo demás estoy a sus órdenes.» | subida de fan ([Cawita Anime, «Takeda and Ukai's Voices»](https://www.youtube.com/watch?v=nIcNpNmitiE&t=8)), 0:08-0:21 ⚠️ no oficial, subtítulo automático |
+| **Ukai** se niega a entrenar | «Mi abuelo era un entrenador muy respetado, pero yo no estoy hecho para entrenar a esos niños.» | mismo vídeo, [0:34-0:41](https://www.youtube.com/watch?v=nIcNpNmitiE&t=34) ⚠️ |
+| Punto final contra Shiratorizawa (T3) | «El que ríe al último ríe mejor.» · «Balón libre.» | subida de fan ([isra_el_98](https://www.youtube.com/watch?v=3tHfaS79pEQ&t=24)), 0:24-0:27 ⚠️ quién |
+
+**Ojo**: lo de «subida de fan» es el audio del doblaje oficial, pero
+subido por otra persona y con subtítulo automático: **una sola fuente**.
 
 **Lo que no encontré con fuente**: cómo dijo el doblaje «**飛べ**» del
 estandarte, el «**¡Hey, hey, heeey!**» de Bokuto, el «**背中は俺が守ってやるぜ**»
 de Nishinoya y el «**下を向くんじゃねぇ**» de Ukai. No hay clip oficial
 doblado de esas escenas en YouTube. Antes de poner esas frases en una
-lámina, **hay que oírlas en Crunchyroll** (T1-14 19:27, T2-04 09:55,
-T1-16 20:08, T3-08 20:20) y copiarlas tal cual.
+lámina, **hay que oírlas en Crunchyroll** (minutos de *streaming*, §2.0:
+T1-14 19:32, T2-04 11:26, T1-16 21:39, T3-08 21:51) y copiarlas tal cual.
 
 ### 10.5 Dónde oír a los actores
 
@@ -973,6 +1094,9 @@ s, hojas numeradas con el minuto), y abrí cada hoja. Los enlaces llevan
 | [Tutorial del juego de 3DS](https://www.dailymotion.com/video/x25g4z4) (Gamekult) | **videojuego** | 1:20 | **0:07-0:57 pizarra blanca con Nishinoya** |
 | [Anuncio de *Cross Team Match!*](https://www.dailymotion.com/video/x3tjkk6) | videojuego | 0:31 | 0:03-0:13 Shimada presenta, «15 días del campamento de verano» |
 | [Primera aparición de Oikawa](https://www.dailymotion.com/video/x5q0anq) (T1-06, partido de práctica) | **escena icónica** | 1:16 | 0:12 sonrisa tranquila con la chaqueta blanca; 0:32 de pie con el peto verde **13**, sonrisa de medio lado; 0:42 el saque pintado como **boceto de manga**; **1:02 sonrisa con los ojos cerrados**; 1:08-1:10 **se prepara y salta al saque** |
+| [Anuncio japonés del juego de 3DS](https://www.dailymotion.com/video/x20zjof) (Gamekult, «Pub Japon») 👁 **visto hoy** | **videojuego** | 0:46 | 0:04 «el relato de Haikyuu, visto por 6» sobre el cartel del juego; 0:06-0:08 cajas de diálogo con «03：澤村編» / «06：東峰編»; 0:16 «Una leyenda empieza en el gimnasio»; **0:20-0:26 HAIKYU QUEST** (§7.1 E); 0:28 la edición limitada |
+| [Tutorial del juego](https://www.dailymotion.com/video/x25g4z4) y [Best Episode 9](https://www.dailymotion.com/video/x7og4pm) 👁 **re-vistos hoy** (la carpeta de trabajo anterior se perdió) | comprobación | — | confirmé la pizarra (0:06-0:57) y el marcador con pizarrita (0:39); medí sus colores (§5.2). En Best Episode 9, 0:00-0:03: cartela «ベストエピソード第9位» sobre **fondo naranja de puntos**; 1:33 Hinata **rascándose la cabeza**, sonriendo |
+| Estandarte, **doblaje latino** (subida de fan, [«I believe in you!»](https://www.youtube.com/watch?v=g-HyZxnqvpk)) | escena icónica doblada | 0:38 | YouTube no dejó bajar el vídeo (403); miré su ***storyboard*** (una miniatura por segundo, ±1 s): 0:00-0:02 el 飛べ; 0:03-0:06 **Kiyoko en la barandilla**; 0:07-0:11 Nishinoya y Tanaka llorando con los puños, fondo de llamas rojas; 0:12-0:15 **Kiyoko sonrojada** («Creo en ustedes»); 0:16-0:17 el equipo **petrificado, echando humo**; 0:18-0:22 Daichi se tapa los ojos con el brazo |
 | [Opening 1 «Imagination»](https://www.dailymotion.com/video/x5q4bi2) | resultó ser **un cover de batería** con el vídeo en una esquina | 3:10 | **no sirve**; el opening 1 limpio sólo está en YouTube ([4K sin créditos](https://www.youtube.com/watch?v=YeKP2klzOm4)), bloqueado aquí |
 
 ### 12.2 Clips oficiales doblados (subtítulos leídos) ✅
@@ -1030,6 +1154,15 @@ más [KLab](https://www.klab.com/en/press/release/2025/0801/flyhigh.html) para *
    el formato de una lámina que explica.
 3. De *FLY HIGH* sale el vocabulario de «**reclutar**» y el
    **pollito-cuervo** como mascota.
+4. **HAIKYU QUEST** (ハイキュークエスト): el juego de 3DS traía de regalo
+   (初回封入特典, primera tirada) un código para un **RPG de 8 bits** a
+   lo *Dragon Quest*, con la caja azul de borde blanco (§7.1 E). La
+   edición limitada se llamaba «**コート上の勇者ボックス**» («Caja del
+   héroe de la cancha»). Lo vi en el [anuncio japonés, 0:20-0:28](https://www.dailymotion.com/video/x20zjof?t=20) 👁.
+   El mismo anuncio abre con «**1つの伝説が、体育館から始まる——**»
+   («Una leyenda empieza en el gimnasio», 0:16) y «**烏野部員の数だけ
+   青春がある!!**» («Hay tantas juventudes como miembros de Karasuno»,
+   0:10).
 
 **The Cutting Room Floor**: no pude consultarla. `tcrf.net` responde con
 el reto de Cloudflare (403) a su buscador y a su API, y la Wayback

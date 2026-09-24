@@ -206,14 +206,14 @@ Detalle en §12. Lo más útil para la lámina:
   **ofuda de papel** y **farolillos hexagonales** amarillos; Gojo
   **sentado al revés en una silla**, con los brazos colgando por el
   respaldo y la venda (clip doblado, 0:08-0:47; es el final de T1-1 /
-  principio de T1-2; lo **volví a mirar**: [0:49](https://www.dailymotion.com/video/x7xmacu?t=49)).
+  principio de T1-2; lo **volví a mirar**: [0:49](https://www.dailymotion.com/video/x7xmacu?start=49)).
 - **La caja de diálogo del modo historia** de *Cursed Clash* (nuevo):
   **dos viñetas de anime con el borde roto**, en diagonal, sobre una
   mancha de **tinta azul petróleo**, y el texto blanco al lado de cada
-  una (tráiler «Special Lecture», [3:09](https://www.dailymotion.com/video/x8scngs?t=189)).
+  una (tráiler «Special Lecture», [3:09](https://www.dailymotion.com/video/x8scngs?start=189)).
 - **Gojo y la pantalla en blanco** (nuevo): Gojo con el puntero junto a
   una **pantalla de proyección enrollable vacía**, en un aula de madera
-  ([3:22](https://www.dailymotion.com/video/x8scngs?t=202)). Es el hueco
+  ([3:22](https://www.dailymotion.com/video/x8scngs?start=202)). Es el hueco
   perfecto para los textos de una lámina.
 - **El ending 1** («LOST IN PARADISE»): cada personaje **sale por una
   puerta** con ropa de calle, sobre un color plano: Yuji en turquesa,
@@ -238,6 +238,61 @@ Detalle en §12. Lo más útil para la lámina:
 - **«#N»** en esta biblia = número en ese `indice.json`. Con él se baja
   el original: `python herramientas/investigar_serie.py --bajar jujutsu-kaisen N`.
 - Bajé 67 originales para montar **mis tres hojas** y medir colores.
+- ⚠️ **Aviso del 2.º ayudante**: ese `indice.json` **se perdió** con la
+  carpeta de trabajo. Lo rehíce con las mismas 19 páginas (24-sep: 3.424
+  imágenes enlazadas, 2.717 grandes; la wiki ha crecido) y **los números
+  ya no coinciden** a partir del #23. Así que **«#N» es sólo una
+  etiqueta**: para bajar el original, busca el **nombre del archivo**
+  (tabla de abajo, medidos por la API) o mira `referencias.json`.
+
+| #N | Archivo en la wiki | Tamaño |
+|---|---|---|
+| 1 | `Satoru Gojo (Prequel Anime).png` | 2886×5255 |
+| 3 | `Sukuna (JUMP 38-2023).png` | 3277×3736 |
+| 6 | `Anime Key Visual 9-10.png` | 4096×2895 |
+| 7 | `Hidden inventory premature death stage play art by gege akutami.png` | 2892×4096 |
+| 9 | `Maki Zenin Anime Concept Art.png` | 4032×2729 |
+| 11 | `Megumi Fushiguro Anime Concept Art.png` | 3860×2687 |
+| 15 | `Toge Inumaki Anime Concept Art.png` | 3802×2630 |
+| 18 | `Nikkei Entertainment! November 2025.png` | 2740×3508 |
+| 19 | `Nobara Kugisaki Anime Concept Art.png` | 3736×2566 |
+| 20 | `Yuji Itadori Anime Concept Art.png` | 3680×2493 |
+| 22 | `Yuji Itadori (Volume 30).png` | 2598×3450 |
+| 31 | `Yuta Okkotsu and Cursed Rika.png` | 2296×2914 |
+| 37 | `Anime Key Visual 2.png` | 2024×2867 |
+| 64 | `Anime Key Visual.png` | 2000×2829 |
+| 71 | `Megumi Fushiguro.png` | 2074×2640 |
+| 78 | `Jujutsu Kaisen Cursed Clash Key Visual.png` | 1930×2739 |
+| 82 | `BD & DVD Volume 9 Cover.png` | 1876×2680 |
+| 87 | `Nobara Kugisaki.png` | 1847×2633 |
+| 95 | `Give it back Limited Cover.png` | 2247×2000 |
+| 99 | `Jujutsu High Big 3.png` | 1860×2266 |
+| 106 | `Playful Cloud (Anime).png` | 1920×2067 |
+| 115 | `Nobara introduces herself (Anime).png` | 1920×1934 |
+| 123 | `Sukuna annoyed by Yuji's switch (Anime).png` | 1960×1815 |
+| 132-136 | `Phantom Parade <Personaje> Artwork.png` | 2465×1376 |
+| 141 | `Kento Nanami (Volume 11).png` | 1600×2062 |
+| 297 | `Kento Nanami Anime Concept Art.png` | 1807×1293 |
+| 303 | `Aoi Todo (Anime).png` | 985×2252 |
+| 503 | `Tour of Tokyo (Anime).png` | 1920×1080 |
+| 637 | `Jujutsu students realize they forgot about the curtain (Anime).png` | 1920×1080 |
+| 817 | `School Celebration (Ao no Sumika).png` | 1920×1080 |
+| 834 | `Shibuya Station Exit 13 (Anime).png` | 1920×1080 |
+| 857 | `Sukuna's fingers (Anime).png` | 1920×1080 |
+| 906 | `Shibuya Mark City (Anime).png` | 1920×1080 |
+| 961 | `Shibuya Station Inokashira Line Gate (Anime).png` | 1920×1080 |
+| 1177 | `Tokyo Jujutsu High dorms (Anime).png` | 1920×1080 |
+| 1178 | `Tokyo Jujutsu High landscape (Anime).png` | 1920×1080 |
+| 1540 | `Yuta's Jujutsu High ID (Anime).png` | 1920×803 |
+| 1579 | `Geto summons a curtain over Jujutsu High (Anime).png` | 1920×803 |
+| 1277 | `Jujutsu Kaisen Phantom Parade Key Visual (Cleaned).png` | 1919×1079 |
+| P29 | `Toge's Cough Syrup (Anime).png` | 1920×803 |
+| P30 | `Toge Inumaki with a megaphone.png` | 457×519 |
+| F29 | `Toge Inumaki in class (Anime).png` | 1920×803 |
+
+(Emparejados por tamaño exacto y por lo que se ve en las hojas; los de
+1920×1080, por título. ⚠️ #139, #1085 y #1180 no los encontré por
+tamaño.)
 
 ### 3.1 Las tres hojas de esta carpeta (`hojas/`)
 
@@ -341,6 +396,7 @@ Búsquedas con `downloadable=true` en la [API de Sketchfab](https://api.sketchfa
 | Gafas de Nanami | «Kento Nanami's Glasses» | lxhdwf | CC BY | [modelo](https://sketchfab.com/3d-models/394afa70469e4ee4b733014c564987ec) |
 | **Farolillo japonés** (la celda) | «Japanese Paper Lantern» | WIsEman_Tavern | CC BY | [modelo](https://sketchfab.com/3d-models/f993239d99304992aef9701af1f31a3c) |
 | **Pizarra** (Gojo) | «Chalkboard» | hellfa | CC BY | [modelo](https://sketchfab.com/3d-models/84c2350e2e54442ea4b7066014759e97) |
+| **Pantalla de proyección** (Gojo, *Cursed Clash* 3:22) | «Projector Screen (Low Poly)» | filththemutt | CC BY | [modelo](https://sketchfab.com/3d-models/ad904b77975c44a98a4c33d78a1d5c2b) ✅ API, 24-sep |
 | **Aula japonesa** | «The Japanese School Classroom» | volvor | CC BY | [modelo](https://sketchfab.com/3d-models/d9fc039ba0b6433db91ec129abe86b52) |
 | **Onigiri** (Inumaki) | «Onigiri - midpoly» | Pierre.Bourdon | CC BY | [modelo](https://sketchfab.com/3d-models/e7db392d6d3a4664becaea75c17e972a) |
 | Calle japonesa de noche | «Japanese street at night» | afx_cgmotion | CC BY | [modelo](https://sketchfab.com/3d-models/fb1bdcd71a5544d699379d2d13dd1171) |
@@ -510,9 +566,9 @@ pizarra** o **placas hexagonales cian**.
 |---|---|---|
 | ***Cursed Clash*** (Bandai Namco, 2024) | **«Special Lecture»**: Gojo con venda y **puntero** ante una **pizarra** gris verdosa `#36362F`, con marco de madera `#30241E` y tiza `#DDD2CC` en serif. En combate: nombre en **placa hexagonal** con borde **cian `#12A2E4`** y fondo azul noche `#181E2A`; caja de ayuda con título cian («Cursed Energy Gauge») y texto blanco; acentos **rojo `#9C001E`** | ✅ visto y medido (tráiler, 0:21, 1:24, 1:30) |
 | ***Phantom Parade*** (móvil, 2023) | arte horizontal por personaje con fondos de energía (azul, rojo) | ✅ arte visto (#132-136); la caja de diálogo ⚠️ no la vi |
-| **Caja de diálogo del modo historia de *Cursed Clash*** | **dos fotogramas del anime recortados con el borde roto** (como papel rasgado), uno arriba a la izquierda y otro abajo a la derecha; cada frase va **al lado de su viñeta**, en sans blanca, sobre un fondo de **tinta azul petróleo** difuminada (`#314953`, `#202C33`, `#4C656D`). Sin nombre del que habla: se sabe por la cara. Ejemplo: Megumi «I don't mind, but are you okay with being among ordinary people, Panda?» / Panda «It's the zoo, so people'll probably just assume I'm a guy in a suit» | ✅ **visto y medido** (tráiler, [3:06-3:09](https://www.dailymotion.com/video/x8scngs?t=189)) |
-| **Frases rápidas del lobby** (*Cursed Clash*) | lista de 8 casillas numeradas con icono de bocadillo cian: «Let's do this!», «Not bad at all!», «Don't worry about it!», «Thanks.», «Sorry.»; fondo azul noche `#121D2A` | ✅ visto (tráiler, [2:39](https://www.dailymotion.com/video/x8scngs?t=159)) |
-| **«Online Lobby»** | la sala de espera en línea: los jugadores andan por un Shibuya morado; menú «Stamp / Tactics / Talk / Unique» | ✅ visto ([2:25](https://www.dailymotion.com/video/x8scngs?t=145)): **un «lobby» oficial de JJK**, para CREAR SALA |
+| **Caja de diálogo del modo historia de *Cursed Clash*** | **dos fotogramas del anime recortados con el borde roto** (como papel rasgado), uno arriba a la izquierda y otro abajo a la derecha; cada frase va **al lado de su viñeta**, en sans blanca, sobre un fondo de **tinta azul petróleo** difuminada (`#314953`, `#202C33`, `#4C656D`). Sin nombre del que habla: se sabe por la cara. Ejemplo: Megumi «I don't mind, but are you okay with being among ordinary people, Panda?» / Panda «It's the zoo, so people'll probably just assume I'm a guy in a suit» | ✅ **visto y medido** (tráiler, [3:06-3:09](https://www.dailymotion.com/video/x8scngs?start=189)) |
+| **Frases rápidas del lobby** (*Cursed Clash*) | lista de 8 casillas numeradas con icono de bocadillo cian: «Let's do this!», «Not bad at all!», «Don't worry about it!», «Thanks.», «Sorry.»; fondo azul noche `#121D2A` | ✅ visto (tráiler, [2:39](https://www.dailymotion.com/video/x8scngs?start=159)) |
+| **«Online Lobby»** | la sala de espera en línea: los jugadores andan por un Shibuya morado; menú «Stamp / Tactics / Talk / Unique» | ✅ visto ([2:25](https://www.dailymotion.com/video/x8scngs?start=145)): **un «lobby» oficial de JJK**, para CREAR SALA |
 
 ### 7.4 Cómo se traduce a una lámina fija
 
@@ -911,7 +967,7 @@ cruzada con los títulos de los vídeos de TOHO animation en YouTube ✅.
 | T2, Gojo del pasado (eps. 25-29) | «**Ao no Sumika**» (青のすみか), Tatsuya Kitani | «**Akari**» (燈), Soushi Sakiyama |
 | T2, Shibuya (eps. 30-47) | «**SPECIALZ**», King Gnu | «**more than words**», Hitsujibungaku |
 | T3, Juego del Sacrificio (eps. 48-59) | «**AIZO**», King Gnu | «**Yoake no Uta**», jo0ji |
-| Película JJK0 | «**Ichizu**» (一途), King Gnu ⚠️ de memoria | «**Sakayume**» (逆夢), King Gnu ⚠️ de memoria |
+| Película JJK0 | «**Ichizu**» (一途), King Gnu: el tema de la peli ✅ (wiki, 2.º ayudante) | «**Sakayume**» (逆夢), King Gnu ✅ (wiki: la ficha pone los dos como temas de cierre) |
 
 **Canciones de dentro de la serie** ✅ (wiki): «Stand In The Darkness»
 (Steve Memmolo), «REMEMBER» (Masato Hayakawa) y «Climax☆JUMPING!»,
@@ -961,14 +1017,21 @@ copias de Dailymotion; **abrí cada hoja** y saqué en grande lo
 importante (`--fotograma`). YouTube dio «Sign in to confirm you're not
 a bot» a `yt-dlp`, así que no hubo copia oficial.
 
+- **Resolución**: desde aquí Dailymotion sólo da **512×288** (`yt-dlp -F`
+  lista un único formato). Los fotogramas sirven para **pose, luz,
+  color y minuto**, **no para recortar**: para recortar, el arte de la
+  wiki (§3) o el episodio en Crunchyroll a 1080p.
+- **Enlaces con minuto**: en Dailymotion el parámetro es `?start=<segundos>`
+  (el 2.º ayudante cambió los `?t=` del 1.º a `?start=`).
+
 | Vídeo | Copia | Hoja | Lo que confirmé o encontré |
 |---|---|---|---|
-| Opening 1 | [x84iff2](https://www.dailymotion.com/video/x84iff2) | 46 fotogramas cada 2 s | ✅ todos los minutos del 1.er ayudante (logo 0:12-0:16, Nanami en el café 0:34, Gojo 0:42 y 0:52, Megumi 1:06, Yuji 1:12, hanami [1:16](https://www.dailymotion.com/video/x84iff2?t=76), Sukuna 1:22). Nuevo: **Inumaki grita con el sello en la mejilla** ([1:02](https://www.dailymotion.com/video/x84iff2?t=62)); Maki en un parque (0:36) |
-| Ending 1 | [x80jy2b](https://www.dailymotion.com/video/x80jy2b) | 51 cada 2 s | ✅ las puertas y colores (Yuji 0:06-0:22, Megumi 0:24-0:38, Nobara 0:40-0:54, Gojo 0:56-1:10). Nuevo: Gojo **se prueba gafas de una estantería** (1:02); Maki (1:12); Panda con globos (1:14); **Inumaki comiendo un onigiri**, con arroz en la mejilla, sudadera verde azulado sin mangas y mochila ([1:16](https://www.dailymotion.com/video/x80jy2b?t=76)); Nanami cenando **filete con copa de vino**, corbata roja (1:18); Ijichi **quitando el polvo a su coche negro con un plumero**, mano en la frente (1:24) |
+| Opening 1 | [x84iff2](https://www.dailymotion.com/video/x84iff2) | 46 fotogramas cada 2 s | ✅ todos los minutos del 1.er ayudante (logo 0:12-0:16, Nanami en el café 0:34, Gojo 0:42 y 0:52, Megumi 1:06, Yuji 1:12, hanami [1:16](https://www.dailymotion.com/video/x84iff2?start=76), Sukuna 1:22). Nuevo: **Inumaki grita con el sello en la mejilla** ([1:02](https://www.dailymotion.com/video/x84iff2?start=62)); Maki en un parque (0:36) |
+| Ending 1 | [x80jy2b](https://www.dailymotion.com/video/x80jy2b) | 51 cada 2 s | ✅ las puertas y colores (Yuji 0:06-0:22, Megumi 0:24-0:38, Nobara 0:40-0:54, Gojo 0:56-1:10). Nuevo: Gojo **se prueba gafas de una estantería** (1:02); Maki (1:12); Panda con globos (1:14); **Inumaki comiendo un onigiri**, con arroz en la mejilla, sudadera verde azulado sin mangas y mochila ([1:16](https://www.dailymotion.com/video/x80jy2b?start=76)); Nanami cenando **filete con copa de vino**, corbata roja (1:18); Ijichi **quitando el polvo a su coche negro con un plumero**, mano en la frente (1:24) |
 | Tráiler «Special Lecture» (*Cursed Clash*) | [x8scngs](https://www.dailymotion.com/video/x8scngs) | 83 cada 3 s + 10 grandes | ✅ pizarra (0:18-0:54, 1:24). Nuevo: **caja de diálogo del modo historia** (3:06-3:09), **«Relationship Chart»** en la pantalla (3:12), **pantalla en blanco** con Gojo y puntero (3:21-3:24), **Online Lobby** (2:25), **frases rápidas** (2:39), elección de ropa (2:36) y el lema «**Master a New Domain**» (3:45) |
-| Gojo en la celda (doblaje latino) | [x7xmacu](https://www.dailymotion.com/video/x7xmacu) | 29 cada 2 s | ✅ farolillos (0:14-0:16), pared de ofuda (0:18-0:20), vista cenital (0:44). **Corrijo**: Gojo está **sentado al revés en la silla** ([0:49](https://www.dailymotion.com/video/x7xmacu?t=49)), no «de lado» |
+| Gojo en la celda (doblaje latino) | [x7xmacu](https://www.dailymotion.com/video/x7xmacu) | 29 cada 2 s | ✅ farolillos (0:14-0:16), pared de ofuda (0:18-0:20), vista cenital (0:44). **Corrijo**: Gojo está **sentado al revés en la silla** ([0:49](https://www.dailymotion.com/video/x7xmacu?start=49)), no «de lado» |
 | Gojo contra Jogo (T1-7, sub. inglés) | [x7yt0gp](https://www.dailymotion.com/video/x7yt0gp) | 90 cada 3 s | ✅ manos juntas (0:30), apretón de manos (1:27), índice (1:39), «This is Itadori Yuuji-kun» (2:12), mano en la venda (3:03), ojos (3:39). La frase de la venda es la clave: «**The most effective way to deal with a Domain is to lay out your own Domain**» (3:00-3:03) |
-| Dominio de Gojo (T1-7, otra copia) | [x7xhwib](https://www.dailymotion.com/video/x7xhwib) | 60 cada 2 s | nuevo: el **signo de manos del dominio**: mano derecha a la altura de la cara, **índice y corazón cruzados**, venda bajada al cuello ([0:33](https://www.dailymotion.com/video/x7xhwib?t=33)) |
+| Dominio de Gojo (T1-7, otra copia) | [x7xhwib](https://www.dailymotion.com/video/x7xhwib) | 60 cada 2 s | nuevo: el **signo de manos del dominio**: mano derecha a la altura de la cara, **índice y corazón cruzados**, venda bajada al cuello ([0:33](https://www.dailymotion.com/video/x7xhwib?start=33)) |
 | Yuji y Todo contra Hanami (T1-19) | [x80pjbn](https://www.dailymotion.com/video/x80pjbn) | 86 cada 3 s | ✅ tejados rojos, Maki (0:48), Yuji y la capucha (1:42), las manos de Todo (2:18). Nuevo: **Inumaki con sangre en la boca** y el sello (0:09) y Megumi que le sujeta: «Inumaki-senpai…» (0:33): **la voz dañada** |
 | Tráiler 1 (sub. oficial en español, Crunchyroll) | [x88ah25](https://www.dailymotion.com/video/x88ah25) | 55 cada 2 s | ✅ todas las frases de §10.4. Nuevo: Gojo, «**Es un buen momento para enseñarte… qué significa "jujutsu" en realidad**» (1:14-1:20); créditos: Park Sunghoo (0:16), Seko Hiroshi (0:22), Hiramatsu Tadashi (0:28), MAPPA (0:32) |
 | Tráiler de JJK0 (sub. en español, Tomatazos) | [x8x3x96](https://www.dailymotion.com/video/x8x3x96) | 44 cada 3 s | Yuta **en la misma celda de ofuda** (0:45, 0:48); **Panda, Maki e Inumaki** en el aula de madera, Inumaki **subiéndose la bufanda de cuadros** (0:51): «No es un lugar para los malditos»; Geto ante un muro de caligrafía (1:03) |
@@ -980,20 +1043,20 @@ Los `video.mp4` se borraron al terminar las hojas.
 
 | Vídeo | Oficial | Copia mirada | Lo que se ve (minuto de la copia) |
 |---|---|---|---|
-| **Opening 1** «Kaikai Kitan» (Eve), sin créditos | [TOHO animation](https://www.youtube.com/watch?v=v8bZVdTgXoY) (1:31) | [Dailymotion x84iff2](https://www.dailymotion.com/video/x84iff2) | Yuji sentado en un vagón vacío (0:02); **logo 呪術廻戦 amarillo sobre un mapa de Tokio con luces rosas** ([0:14](https://www.dailymotion.com/video/x84iff2?t=14)); Nobara de perfil (0:28); Panda (0:32); Nanami leyendo en un café (0:34); Gojo con la venda en un puente, de noche (0:42 y 0:52); Megumi haciendo el **perro con las manos** (1:06); Yuji con la palma abierta (1:12); **hanami con todos** ([1:16](https://www.dailymotion.com/video/x84iff2?t=76)); Yuji riendo con Junpei (1:18); Sukuna sonriendo (1:22) |
-| **Ending 1** «LOST IN PARADISE» (ALI feat. AKLO) | [TOHO animation](https://www.youtube.com/watch?v=AWEm4tA2hMc) (1:31) | [Dailymotion x80jy2b](https://www.dailymotion.com/video/x80jy2b) | dibujo de línea suelta con **manchas de color**, ropa de calle. Yuji sale por una puerta sobre turquesa `#50CDCF` ([0:10](https://www.dailymotion.com/video/x80jy2b?t=10)); Megumi sobre amarillo `#FBE63B` (0:28); Nobara con **bolsas de compras** sobre rojo `#DF4456` ([0:40](https://www.dailymotion.com/video/x80jy2b?t=40)); Gojo sobre gris `#515151`, **probándose gafas de sol** (0:58-1:02); Maki (1:12); **Panda con globos** (1:14); Inumaki comiendo un onigiri (1:16); **Nanami cenando con copa de vino** (1:18) |
+| **Opening 1** «Kaikai Kitan» (Eve), sin créditos | [TOHO animation](https://www.youtube.com/watch?v=v8bZVdTgXoY) (1:31) | [Dailymotion x84iff2](https://www.dailymotion.com/video/x84iff2) | Yuji sentado en un vagón vacío (0:02); **logo 呪術廻戦 amarillo sobre un mapa de Tokio con luces rosas** ([0:14](https://www.dailymotion.com/video/x84iff2?start=14)); Nobara de perfil (0:28); Panda (0:32); Nanami leyendo en un café (0:34); Gojo con la venda en un puente, de noche (0:42 y 0:52); Megumi haciendo el **perro con las manos** (1:06); Yuji con la palma abierta (1:12); **hanami con todos** ([1:16](https://www.dailymotion.com/video/x84iff2?start=76)); Yuji riendo con Junpei (1:18); Sukuna sonriendo (1:22) |
+| **Ending 1** «LOST IN PARADISE» (ALI feat. AKLO) | [TOHO animation](https://www.youtube.com/watch?v=AWEm4tA2hMc) (1:31) | [Dailymotion x80jy2b](https://www.dailymotion.com/video/x80jy2b) | dibujo de línea suelta con **manchas de color**, ropa de calle. Yuji sale por una puerta sobre turquesa `#50CDCF` ([0:10](https://www.dailymotion.com/video/x80jy2b?start=10)); Megumi sobre amarillo `#FBE63B` (0:28); Nobara con **bolsas de compras** sobre rojo `#DF4456` ([0:40](https://www.dailymotion.com/video/x80jy2b?start=40)); Gojo sobre gris `#515151`, **probándose gafas de sol** (0:58-1:02); Maki (1:12); **Panda con globos** (1:14); Inumaki comiendo un onigiri (1:16); **Nanami cenando con copa de vino** (1:18) |
 | **Tráiler 1** de la serie (Crunchyroll, subtítulos en español) | [Crunchyroll en Español](https://www.youtube.com/watch?v=aPBUUJbrAWo) (1:49) | [Dailymotion x88ah25](https://www.dailymotion.com/video/x88ah25) (Sensacine México) | **farolillos y ofuda** en la celda (0:16); Gojo: «No te preocupes. No hay nadie más fuerte que yo» (0:38-0:40); Megumi: «Ayudaré a las personas como quiera» (0:42); Nobara: «Esto es para poder seguir siendo quien soy» (0:46); Yuji: «No quiero tener que arrepentirme por cómo viví» (0:50); **muro de kanji negativos** (0:48); logo con «Jujutsu Kaisen» en romaji (1:10); cartela «少年は戦う―「正しい死」を求めて» → «Un joven lucha… por "la muerte correcta"» (1:18) |
-| **Tráiler de Shibuya** (T2, PV 3, con «SPECIALZ») | [TOHO animation](https://www.youtube.com/watch?v=PKHQuQF1S8k) (1:26) | [Dailymotion x8ngqml](https://www.dailymotion.com/video/x8ngqml) | Shibuya de noche, sitios reales: el cruce (0:14), la **estatua de Hachikō** junto a la estación ([0:10](https://www.dailymotion.com/video/x8ngqml?t=10)); Gojo sin venda y con sangre (0:36); Nanami con gafas (0:54); Yuji gritando (1:08); logo dorado con «渋谷事変» (1:12) |
+| **Tráiler de Shibuya** (T2, PV 3, con «SPECIALZ») | [TOHO animation](https://www.youtube.com/watch?v=PKHQuQF1S8k) (1:26) | [Dailymotion x8ngqml](https://www.dailymotion.com/video/x8ngqml) | Shibuya de noche, sitios reales: el cruce (0:14), la **estatua de Hachikō** junto a la estación ([0:10](https://www.dailymotion.com/video/x8ngqml?start=10)); Gojo sin venda y con sangre (0:36); Nanami con gafas (0:54); Yuji gritando (1:08); logo dorado con «渋谷事変» (1:12) |
 | **Tráiler de JJK0** (versión de **España**, no latina) | — | [Dailymotion x8ake5m](https://www.dailymotion.com/video/x8ake5m) | Rika niña con el anillo (0:04-0:14); **puerta torii de la escuela** (0:32); Gojo con la venda de tela (0:46); Panda, Maki e Inumaki (0:52); Geto sonriendo (1:28). Transcrito con Whisper: «¿vale?», «tened cuidado»: **es el doblaje de España** |
-| **Tráiler «Special Lecture»** del juego *Cursed Clash* | Bandai Namco | [Dailymotion x8scngs](https://www.dailymotion.com/video/x8scngs) | **Gojo con puntero ante una pizarra** ([0:21](https://www.dailymotion.com/video/x8scngs?t=21)); tiza «Cursed Energy Is the Key to Battle» ([1:24](https://www.dailymotion.com/video/x8scngs?t=84)); la interfaz: placas **hexagonales cian** `#12A2E4` (1:30); menú «Online Versus» (2:03); tabla de niveles (2:15) |
+| **Tráiler «Special Lecture»** del juego *Cursed Clash* | Bandai Namco | [Dailymotion x8scngs](https://www.dailymotion.com/video/x8scngs) | **Gojo con puntero ante una pizarra** ([0:21](https://www.dailymotion.com/video/x8scngs?start=21)); tiza «Cursed Energy Is the Key to Battle» ([1:24](https://www.dailymotion.com/video/x8scngs?start=84)); la interfaz: placas **hexagonales cian** `#12A2E4` (1:30); menú «Online Versus» (2:03); tabla de niveles (2:15) |
 
 ### 12.2 Tres escenas icónicas, miradas
 
 | Escena | Oficial | Copia mirada | Lo que se ve |
 |---|---|---|---|
 | **Gojo contra Jogo** (T1-7) | [Crunchyroll, sub.](https://www.youtube.com/watch?v=fcxZDSA8rPs) · [doblaje](https://www.youtube.com/watch?v=5Cvr1rxoD9Y) | [Dailymotion x7yt0gp](https://www.dailymotion.com/video/x7yt0gp) (sub. inglés) | Gojo **junta las manos** sonriendo (0:30); **le da la mano** a Jogo (1:27); **señala con el índice**: «el infinito está en todas partes» (1:39); carga a Yuji del cuello de la ropa: «Él es Yuji, viene a mirar» (2:12); **se tapa la venda con la mano** antes del dominio (3:03); **sin venda, ojos azules** (3:39); el ojo en primerísimo plano (3:45) |
-| **Gojo despierta** (T2-4, ep. 28) | — | [Dailymotion x8yav0m](https://www.dailymotion.com/video/x8yav0m) | Gojo de uniforme viejo, **brazos abiertos** en luz dorada (0:10); **ojo azul enorme** (0:14); mariposa verde (0:24); **mano en la frente, riéndose**: «Throughout Heaven and Earth…» ([0:36](https://www.dailymotion.com/video/x8yav0m?t=36)); Púrpura (1:26) |
-| **Yuji y Todo contra Hanami** (T1-19) | [Crunchyroll, sub.](https://www.youtube.com/watch?v=ZmC2sN9VhPo) | [Dailymotion x80pjbn](https://www.dailymotion.com/video/x80pjbn) | tejados rojos de la escuela (0:00-0:15); Maki con la lanza roja (0:48); Todo de espaldas, **sin camisa** (1:33); Yuji se sube la capucha (1:42); **Todo junta las manos: «Congratulations, brother»** ([2:48](https://www.dailymotion.com/video/x80pjbn?t=168)) = T1-19 15:57; los dos lado a lado, listos (2:57) |
+| **Gojo despierta** (T2-4, ep. 28) | — | [Dailymotion x8yav0m](https://www.dailymotion.com/video/x8yav0m) | Gojo de uniforme viejo, **brazos abiertos** en luz dorada (0:10); **ojo azul enorme** (0:14); mariposa verde (0:24); **mano en la frente, riéndose**: «Throughout Heaven and Earth…» ([0:36](https://www.dailymotion.com/video/x8yav0m?start=36)); Púrpura (1:26) |
+| **Yuji y Todo contra Hanami** (T1-19) | [Crunchyroll, sub.](https://www.youtube.com/watch?v=ZmC2sN9VhPo) | [Dailymotion x80pjbn](https://www.dailymotion.com/video/x80pjbn) | tejados rojos de la escuela (0:00-0:15); Maki con la lanza roja (0:48); Todo de espaldas, **sin camisa** (1:33); Yuji se sube la capucha (1:42); **Todo junta las manos: «Congratulations, brother»** ([2:48](https://www.dailymotion.com/video/x80pjbn?start=168)) = T1-19 15:57; los dos lado a lado, listos (2:57) |
 | **Nanami, el final** (T2-18, ep. 42) | — | [Dailymotion x8upb66](https://www.dailymotion.com/video/x8upb66) | estación de Shibuya con carteles amarillos; Nanami medio quemado, sonriendo: «Lo demás te lo dejo a ti» (0:18) |
 
 ### 12.3 Clips con **doblaje latino** (los que tienen texto)
@@ -1116,28 +1179,28 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | # | Dónde | Postura, manos, mirada | Uso |
 |---|---|---|---|
 | 1 | P1 (#1) | de pie, **mano derecha abierta hacia el espectador**, la otra baja; venda | **presentar** («alto, aquí se hace así») |
-| 2 | T1-7, copia [0:30](https://www.dailymotion.com/video/x7yt0gp?t=30) | **manos juntas** a la altura del pecho, sonrisa ladeada | **explicar** con calma |
-| 3 | T1-7, [1:39](https://www.dailymotion.com/video/x7yt0gp?t=99) | **señala con el índice**, brazo estirado | **explicar** una regla |
-| 4 | T1-7, [2:12](https://www.dailymotion.com/video/x7yt0gp?t=132) | sujeta a Yuji del cuello de la ropa, cara neutra | presentar a otro («él es…») |
-| 5 | T1-7, [3:03](https://www.dailymotion.com/video/x7yt0gp?t=183) | **se tapa la venda con la mano**, cabeza baja | antes de lo importante |
-| 6 | T1-7, [3:39](https://www.dailymotion.com/video/x7yt0gp?t=219) | sin venda, **ojos azules**, sonrisa de lado, mirada al espectador | **el gancho** |
-| 7 | *Cursed Clash*, [0:21](https://www.dailymotion.com/video/x8scngs?t=21) | medio cuerpo, **puntero** en la mano, sonrisa | **explicar** (¡la pizarra!) |
+| 2 | T1-7, copia [0:30](https://www.dailymotion.com/video/x7yt0gp?start=30) | **manos juntas** a la altura del pecho, sonrisa ladeada | **explicar** con calma |
+| 3 | T1-7, [1:39](https://www.dailymotion.com/video/x7yt0gp?start=99) | **señala con el índice**, brazo estirado | **explicar** una regla |
+| 4 | T1-7, [2:12](https://www.dailymotion.com/video/x7yt0gp?start=132) | sujeta a Yuji del cuello de la ropa, cara neutra | presentar a otro («él es…») |
+| 5 | T1-7, [3:03](https://www.dailymotion.com/video/x7yt0gp?start=183) | **se tapa la venda con la mano**, cabeza baja | antes de lo importante |
+| 6 | T1-7, [3:39](https://www.dailymotion.com/video/x7yt0gp?start=219) | sin venda, **ojos azules**, sonrisa de lado, mirada al espectador | **el gancho** |
+| 7 | *Cursed Clash*, [0:21](https://www.dailymotion.com/video/x8scngs?start=21) | medio cuerpo, **puntero** en la mano, sonrisa | **explicar** (¡la pizarra!) |
 | 8 | P2 (#18) | **«V» doble**, abraza a Yuji | **celebrar**, saludar |
 | 9 | P3 (#82) | **se levanta las gafas redondas** con las dos manos | «mira esto», animar |
 | 10 | #618 | **brazo por encima del hombro** de Nanami, carcajada; fondo cómico con rayas | presentar a otro en broma |
-| 11 | *Cursed Clash*, [3:22](https://www.dailymotion.com/video/x8scngs?t=202) | de pie a la derecha de una **pantalla en blanco**, **puntero en la mano derecha**, brazo izquierdo cruzado, sonrisa | **explicar** (el mejor para la lámina A) ✅ visto |
-| 12 | celda, [0:49](https://www.dailymotion.com/video/x7xmacu?t=49) | **sentado al revés en una silla**, piernas abiertas, brazos por el respaldo, sonrisa | charlar, «a ver, cuéntame» ✅ visto |
-| 13 | T1-7, [x7xhwib 0:33](https://www.dailymotion.com/video/x7xhwib?t=33) | **signo del dominio**: índice y corazón cruzados junto a la cara, ojos azules, media sonrisa | **abrir el dominio** = «crear sala» ✅ visto |
+| 11 | *Cursed Clash*, [3:22](https://www.dailymotion.com/video/x8scngs?start=202) | de pie a la derecha de una **pantalla en blanco**, **puntero en la mano derecha**, brazo izquierdo cruzado, sonrisa | **explicar** (el mejor para la lámina A) ✅ visto |
+| 12 | celda, [0:49](https://www.dailymotion.com/video/x7xmacu?start=49) | **sentado al revés en una silla**, piernas abiertas, brazos por el respaldo, sonrisa | charlar, «a ver, cuéntame» ✅ visto |
+| 13 | T1-7, [x7xhwib 0:33](https://www.dailymotion.com/video/x7xhwib?start=33) | **signo del dominio**: índice y corazón cruzados junto a la cara, ojos azules, media sonrisa | **abrir el dominio** = «crear sala» ✅ visto |
 
 ### Yuji
 
 | # | Dónde | Postura | Uso |
 |---|---|---|---|
-| 1 | OP1, [1:18](https://www.dailymotion.com/video/x84iff2?t=78) | **carcajada** con los ojos cerrados, sentado en la hierba | **celebrar** |
-| 2 | OP1, [1:12](https://www.dailymotion.com/video/x84iff2?t=72) | **palma abierta** hacia delante, luz naranja | animar, «¡vamos!» |
-| 3 | T1-19, copia [1:42](https://www.dailymotion.com/video/x80pjbn?t=102) | **se sube la capucha** con las dos manos, cejas firmes | prepararse |
-| 4 | T1-19, [2:57](https://www.dailymotion.com/video/x80pjbn?t=177) | **puños arriba**, al lado de Todo | animar |
-| 5 | ED1, [0:10](https://www.dailymotion.com/video/x80jy2b?t=10) | **sale por la puerta**, piernas abiertas, camiseta amarilla | presentar, «¡hola!» |
+| 1 | OP1, [1:18](https://www.dailymotion.com/video/x84iff2?start=78) | **carcajada** con los ojos cerrados, sentado en la hierba | **celebrar** |
+| 2 | OP1, [1:12](https://www.dailymotion.com/video/x84iff2?start=72) | **palma abierta** hacia delante, luz naranja | animar, «¡vamos!» |
+| 3 | T1-19, copia [1:42](https://www.dailymotion.com/video/x80pjbn?start=102) | **se sube la capucha** con las dos manos, cejas firmes | prepararse |
+| 4 | T1-19, [2:57](https://www.dailymotion.com/video/x80pjbn?start=177) | **puños arriba**, al lado de Todo | animar |
+| 5 | ED1, [0:10](https://www.dailymotion.com/video/x80jy2b?start=10) | **sale por la puerta**, piernas abiertas, camiseta amarilla | presentar, «¡hola!» |
 | 6 | P27 (#139) | **sentado en una valla**, pierna subida, relajado | charlar |
 | 7 | #707 | mirada de reojo, capucha roja | desconfiar |
 | 8 | P5 (#22) | **manos unidas** frente a la cara, en tensión | pensar |
@@ -1147,8 +1210,8 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | # | Dónde | Postura | Uso |
 |---|---|---|---|
 | 1 | P8 (#71) | **manos en forma de perro**, mirada seria | presentar su técnica |
-| 2 | OP1, [1:06](https://www.dailymotion.com/video/x84iff2?t=66) | el mismo gesto, con sombras | idem |
-| 3 | ED1, [0:28](https://www.dailymotion.com/video/x80jy2b?t=28) | sale por la puerta **con auriculares rojos** y mochila, andar tranquilo | presentar sin ganas |
+| 2 | OP1, [1:06](https://www.dailymotion.com/video/x84iff2?start=66) | el mismo gesto, con sombras | idem |
+| 3 | ED1, [0:28](https://www.dailymotion.com/video/x80jy2b?start=28) | sale por la puerta **con auriculares rojos** y mochila, andar tranquilo | presentar sin ganas |
 | 4 | #785 | **manos entrelazadas** frente a la boca, sonrisa rara | pensar |
 | 5 | #501 | en fila con todos, **manos en los bolsillos** | grupo |
 | 6 | P27 (#139) | de pie junto a Yuji, **mano en el bolsillo**, mira de lado | «no me mires a mí» |
@@ -1159,7 +1222,7 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 |---|---|---|---|
 | 1 | P12 (#115, T1-3) | **mano en la cadera**, barbilla alta | **presentar**, **regañar** |
 | 2 | P10 (#87) | **martillo en una mano, clavos entre los dedos** | amenaza cómica |
-| 3 | ED1, [0:40](https://www.dailymotion.com/video/x80jy2b?t=40) | **brazos abiertos con bolsas de compras**, pierna levantada | **celebrar** |
+| 3 | ED1, [0:40](https://www.dailymotion.com/video/x80jy2b?start=40) | **brazos abiertos con bolsas de compras**, pierna levantada | **celebrar** |
 | 4 | ED1, 0:52 | **bebiendo un batido**, guiño | relajada |
 | 5 | #502 | en ropa de calle, comiendo con los chicos | charla |
 | 6 | P25 (#95) | abrigo de invierno, entre Yuji y Megumi | grupo tranquilo |
@@ -1176,8 +1239,8 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 6 | #839 | **mano en el hombro** de Megumi, sangre en la boca | proteger, animar |
 | 7 | #973 | (Kasumi) con **el teléfono** en la oreja: Inumaki manda **por teléfono** | la voz a distancia |
 | 8 | P18 (#15) | arte conceptual: **pulgar arriba**, ojos cerrados de gusto | celebrar |
-| 9 | tráiler JJK0, [x8x3x96 0:51](https://www.dailymotion.com/video/x8x3x96?t=51) | **se sube la bufanda de cuadros** con los dedos, mirada de lado, seria | «callado, pero atento» ✅ visto |
-| 10 | OP1, [1:02](https://www.dailymotion.com/video/x84iff2?t=62) | **boca abierta gritando**, sello de la mejilla a la vista | la orden fuerte ✅ visto |
+| 9 | tráiler JJK0, [x8x3x96 0:51](https://www.dailymotion.com/video/x8x3x96?start=51) | **se sube la bufanda de cuadros** con los dedos, mirada de lado, seria | «callado, pero atento» ✅ visto |
+| 10 | OP1, [1:02](https://www.dailymotion.com/video/x84iff2?start=62) | **boca abierta gritando**, sello de la mejilla a la vista | la orden fuerte ✅ visto |
 
 ### Nanami
 
@@ -1188,14 +1251,14 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 3 | #939 | de lado, **explicando** con la boca abierta | **explicar** |
 | 4 | #948 | **se enrolla la corbata en la mano** | «se acabó el horario» |
 | 5 | #920 | brazo extendido, aura de energía, de pie | animar a la acción |
-| 6 | ED1, [1:18](https://www.dailymotion.com/video/x80jy2b?t=78) | **cenando**, cuchillo y tenedor, copa | descanso |
-| 7 | T2-18, copia [0:18](https://www.dailymotion.com/video/x8upb66?t=18) | sonrisa cansada | despedirse (**spoiler**) |
+| 6 | ED1, [1:18](https://www.dailymotion.com/video/x80jy2b?start=78) | **cenando**, cuchillo y tenedor, copa | descanso |
+| 7 | T2-18, copia [0:18](https://www.dailymotion.com/video/x8upb66?start=18) | sonrisa cansada | despedirse (**spoiler**) |
 
 ### Todo
 
 | # | Dónde | Postura | Uso |
 |---|---|---|---|
-| 1 | T1-19, copia [2:48](https://www.dailymotion.com/video/x80pjbn?t=168) | **manos juntas** delante del pecho: «Congratulations, brother» | **celebrar** |
+| 1 | T1-19, copia [2:48](https://www.dailymotion.com/video/x80pjbn?start=168) | **manos juntas** delante del pecho: «Congratulations, brother» | **celebrar** |
 | 2 | #1085 | **manos abiertas** junto a la cara, sonrisa de loco | presentar con fuerza |
 | 3 | #1095 | **carcajada** enorme | celebrar |
 | 4 | #405 | **brazos cruzados**, camiseta morada, en un cuarto | preguntar («¿qué tipo de chica…?») |
@@ -1271,11 +1334,226 @@ wiki (#64, #6, #60, #37) y el arte de *Phantom Parade* (#132-136, 2465×1376).
 
 ## 18 · Guía para generar con IA
 
-(pendiente)
+Sirve para **fondos, objetos y pruebas de pose**. Al personaje final se
+le **recorta de arte oficial** (P1-P30, §3) y se integra con
+`v3/integrar.py` (regla 3 del dueño). La IA **no** inventa a Gojo ni a
+Inumaki: se nota enseguida (pelo, venda, cuello).
+
+### 18.1 Lo que no cambia nunca (visto en las hojas y los vídeos)
+
+| Personaje | Rasgos fijos |
+|---|---|
+| **Gojo** | pelo **blanco en punta hacia arriba** cuando lleva la venda (cae liso sin ella, T1-7 3:39); **venda negra** ancha; chaqueta de **cuello alto** azul noche casi negra (`#1F2026` medido en *Cursed Clash* 3:22), sin botones a la vista; muy alto y delgado |
+| **Yuji** | pelo **rosa claro** con **nuca oscura rapada**; **capucha roja** sobre el uniforme; cara redonda y cejas gruesas |
+| **Megumi** | pelo **negro en pinchos** que sale hacia todos lados; uniforme cerrado; cara seria |
+| **Nobara** | melena **cobriza a la barbilla**; uniforme con **falda**; clavos y martillo |
+| **Inumaki** | pelo **platino** en punta; **cuello subido hasta la nariz** (con cremallera en la serie; **bufanda de cuadros verde azulado** `#475465` en JJK0, 0:51 visto); ojos violeta tranquilos; sellos en mejillas y lengua |
+| **Panda** | panda gigante que anda de pie, ojos pequeños, a veces con la chaqueta del uniforme; cara expresiva (se enfada, se ríe) |
+
+**Estilo del anime** (MAPPA): contorno **fino y uniforme**, sombra de
+**dos tonos** con el borde duro, **fondos pintados casi fotográficos**
+(Shibuya real, F7-F11), **luz lateral** fuerte y contraluces; paleta
+**apagada** con **un acento** (el rojo de Yuji, el azul de los ojos de
+Gojo, el amarillo de los farolillos).
+
+Lo que dice el director de la T1 y de JJK0, **Sunghoo Park**, en una
+entrevista en coreano ([Xportsnews, 22-feb-2022](https://www.xportsnews.com/article/1540502)):
+quiso «**una paleta variada**, la que permite el cine» y probó «desde el
+**storyboard** varias formas de que **el miedo se sienta real**»
+(«리얼한 공포를 느낄 수 있게끔 콘티 단계부터 여러가지 흐름을 시도했다»). Y
+«mostrar **las cuatro estaciones**» para que se note el paso del tiempo ⚠️
+(resumen de la página, una fuente).
+
+### 18.2 Palabras que ayudan (en inglés)
+
+`2020s TV anime screenshot`, `clean thin lineart, two-tone cel shading`,
+`muted colors`, `old wooden Japanese classroom`, `green chalkboard with
+chalk writing`, `grid wooden windows, white curtains, morning side light`,
+`Buddhist temple buildings on a forested mountain, blue sky`,
+`paper talismans (ofuda) covering the walls, hexagonal paper lanterns on
+the floor, warm yellow light`, `cherry blossom picnic, soft pink haze`,
+`onigiri wrapped in nori on a picnic blanket`, `pull-down projector
+screen, wooden pointer stick`.
+
+### 18.3 Palabras que lo estropean
+
+`speech bubble` (saca el globo blanco), `manga panel`, `chibi` (salvo que
+se quiera la escena cómica), `cursed energy` (saca fuego morado y lo
+llena todo), `blood`, `demon`, `neon cyberpunk` (Shibuya es de noche,
+pero no es ciberpunk), `kawaii pastel`, `3D render`, `glowing eyes`,
+`ninja` (saca Naruto), `samurai`.
+
+### 18.4 Qué imágenes darle como referencia
+
+| Para… | Imagen |
+|---|---|
+| fondo de día | [Tokyo Jujutsu High landscape (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9b/Tokyo_Jujutsu_High_landscape_%28Anime%29.png) (F1) |
+| el aula con pizarra | [School Celebration (Ao no Sumika)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/4e/School_Celebration_%28Ao_no_Sumika%29.png) (F13) y [Toge Inumaki in class (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9b/Toge_Inumaki_in_class_%28Anime%29.png) (F29) |
+| la celda de talismanes | clip x7xmacu, [0:20 y 0:49](https://www.dailymotion.com/video/x7xmacu?start=49) (F23) |
+| el picnic | OP1, [1:16](https://www.dailymotion.com/video/x84iff2?start=76) (F25) |
+| pose que explica | *Cursed Clash*, [3:22](https://www.dailymotion.com/video/x8scngs?start=202) |
+
+(Las URL exactas y su tamaño medido, en `referencias.json`.)
+
+### 18.5 Encuadre
+
+- 1200×800 (3:2). **El personaje en un tercio**; el objeto con los textos
+  en los otros dos.
+- **Algo delante**, desenfocado: el borde de un pupitre, un farolillo,
+  un onigiri.
+- Cámara **a la altura de un alumno sentado**: así el aula se ve desde
+  el pupitre, como en F29.
 
 ## 19 · Tres conceptos de lámina
 
-(pendiente)
+Los tres son **distintos**: sitio, objeto, personaje y cuadro de diálogo
+cambian. A y B son para **➕・CREAR SALA** (B puede ser su lámina 2); C
+es para **🍟・General**. Las frases de los personajes son **adaptación
+mía** de la línea japonesa con su minuto, **no el doblaje**, salvo donde
+lo digo. Los textos del canal son **propuesta** (§0): no tienen
+descripción en el inventario.
+
+### Concepto A — «Clase extra» (➕ CREAR SALA) ⭐ el recomendado
+
+- **Objeto real en un sitio real**: **la pizarra verde del aula de
+  madera** de la Escuela de Tokio. Es el aula del opening «Ao no Sumika» (T2), con la
+  pizarra escrita a tiza, ventanas de cuadrícula y el cuadro «天上天下»
+  encima ([School Celebration (Ao no Sumika)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/4e/School_Celebration_%28Ao_no_Sumika%29.png),
+  1920×1080, F13), con la luz del aula de JJK0 ([Toge Inumaki in class](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9b/Toge_Inumaki_in_class_%28Anime%29.png),
+  F29). **Se hace en Blender**: pizarra CC BY de hellfa (§4.1), tiza con
+  relieve, un borrador, un trozo de tiza en el canto y el **puntero**.
+  Pizarra `#36362F`, tiza `#DDD2CC`, marco `#30241E` (medidos en
+  *Cursed Clash*, 1:24).
+- **Por qué**: es la forma **oficial** de «Gojo explica» (tráiler
+  «Special Lecture», 0:18 y 3:22, visto) y Gojo **da una clase extra**
+  de Expansión de Dominio (T1-7, 9:19: «課外授業», «Clase extra»).
+- **Personaje**: **Gojo** (1.º en la 4.ª encuesta), con **venda**, a la
+  derecha de la pizarra, el **puntero tocando la pizarra** (pose 11 de
+  §15, *Cursed Clash* 3:22). Para el recorte, el cuerpo de **P1** (hoja
+  de modelo de JJK0, 2886×5255, mano abierta hacia delante) y el puntero
+  modelado. Detrás, sentados en los pupitres, de espaldas, **Yuji,
+  Megumi y Nobara** (P27 para Yuji y Megumi).
+- **Cómo habla**: **sin globo**. La voz de Gojo **es la tiza**, como en
+  el «Special Lecture». Arriba, en tiza grande: «**Clase extra**» y, al
+  lado, pequeño, «課外授業». Su frase, escrita a tiza con su letra
+  rápida y un dibujito: «**Hoy te enseño a abrir tu propio dominio**»
+  (de «領域展開について教えてあげる», T1-7, 9:22). El **nombre del canal**,
+  como **título de episodio**: **Mincho blanca** abajo a la derecha,
+  sobre la imagen (Shippori Mincho B1 ExtraBold).
+- **Dónde va cada texto**:
+  - pizarra, arriba: **Clase extra** (y 課外授業)
+  - pizarra, numerados a tiza (Shippori Mincho B1 con textura de tiza):
+    1. **Entra aquí y se abre tu propia sala**
+    2. **Es tuya: ponle nombre**
+    3. **Tú decides quién entra**
+    4. **Cuando se vacía, desaparece**
+  - pizarra, abajo a la derecha, con la letra de Gojo: su frase
+  - abajo a la derecha de la lámina, en Mincho blanca: **Crear sala**
+- **Que no quede plano**: un **pupitre en primer plano**, abajo a la
+  izquierda y desenfocado, con una tiza y el borrador; **luz de mañana**
+  por las ventanas de cuadrícula que raya la pizarra; **polvo de tiza**
+  en el aire; Gojo **proyecta sombra** sobre la pizarra y la punta del
+  puntero la toca (regla 7 del dueño: la mano se apoya en algo).
+- **Luz y paleta**: mañana; madera en sombra `#2F2831`, luz `#D3D0CF`,
+  malvas `#7C6372` `#AA9AA2` (aula de JJK0, §5.2); chaqueta de Gojo
+  `#1F2026`.
+
+### Concepto B — «Baja el velo» (➕ CREAR SALA, lámina 2 o alternativa)
+
+- **Objeto real en un sitio real**: **los talismanes de papel (ofuda)**
+  de **la celda** donde encierran a Yuji (y a Yuta en JJK0): paredes
+  cubiertas de papeles verticales escritos y **farolillos hexagonales**
+  amarillos en el suelo (clip x7xmacu, [0:18-0:20 y 0:44](https://www.dailymotion.com/video/x7xmacu?start=18);
+  tráiler de JJK0, 0:45-0:48; F23; **visto**). En la serie, el velo **se
+  encarga con talismanes** y se le ponen condiciones ✅ ([wiki, «Curtain»](https://jujutsu-kaisen.fandom.com/wiki/Curtain)):
+  aquí **cada talismán es una opción de la sala**. **Se hace en Blender**:
+  planos de papel *washi* (ambientCG, CC0) con la tinta que sigue la
+  curva del papel; farolillos hexagonales por prisma y luz emisiva.
+- **Personajes**: **Megumi** (1.º en la 2.ª y la 3.ª encuesta) explica,
+  **mano en el bolsillo** y mirada de lado (P27); **Yuji** mira arriba
+  con la boca abierta ⚠️ (esa pose no la tengo: hay que sacarla de T1-4,
+  4:47, en Crunchyroll). Es la escena de T1-4: Yuji,
+  «¡Se está haciendo de noche!» (4:47); Megumi, «Es un velo. Una barrera
+  que nos esconde de fuera» (4:49-4:54) ✅ subtítulo.
+- **Cómo habla**: con **texto vertical entre 「」**, como las técnicas del
+  manga (T13-T18). Arriba a la derecha, en vertical y a pincel (Yuji
+  Syuku): el conjuro 「闇より出でて闇より黒く」 y, debajo, en horizontal
+  pequeño: «**Sal de la oscuridad, más negro que la oscuridad**» (T1-4,
+  4:35). La frase de Megumi va en **su propio talismán**, más ancho, en
+  Zen Antique: «**Es un velo. Lo de dentro es tuyo**».
+- **Dónde va cada texto** (cada uno en un talismán; ⚠️ **hay que
+  confirmar qué deja hacer el bot**):
+  - talismán grande del centro: **Crear sala**
+  - **Ponle nombre a tu sala**
+  - **Pon un límite de gente**
+  - **Ciérrala con candado**
+  - **Escóndela de los demás**
+  - **Echa a quien moleste**
+  - **Pásasela a otro al irte**
+  - el guiño de fans, en un talismán pequeño y torcido: «**¿Y el velo?**»
+    (el olvido de Gojo y Geto, T2-1, 13:57 ✅; ver [la imagen de la wiki](https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f5/Jujutsu_students_realize_they_forgot_about_the_curtain_%28Anime%29.png))
+- **Que no quede plano**: **farolillos en primer plano**, desenfocados y
+  muy brillantes (como en 0:14-0:16 del clip); luz **desde abajo**,
+  amarilla `#EBD430` `#FAF441`, sombras marrones `#523010`; los
+  talismanes **ondulados**, cada uno con su sombra; cámara un poco
+  **picada**, como la vista cenital de 0:44.
+
+### Concepto C — «¡Salmón!» (🍟 General)
+
+- **Objeto real en un sitio real**: **un mantel de picnic con onigiri**
+  bajo los cerezos, el **hanami** con el que termina el opening 1 (OP1,
+  [1:16](https://www.dailymotion.com/video/x84iff2?start=76), visto: todos
+  sentados en un mantel beige `#A99C7E` con comida y botellas; luz rosada
+  `#DBD8D4`). Cada onigiri lleva una **etiqueta de papel** con su palabra.
+  **Se hace en Blender**: onigiri CC BY de Pierre.Bourdon (§4.1), mantel
+  con tela simulada, pétalos.
+- **Por qué**: 🍟 General es la sala **para hablar de lo que sea**, e
+  Inumaki **sólo habla con ingredientes de onigiri**. La lista oficial
+  (tomo 0, pág. 104, en la wiki): **kombu = saludo**, **salmón = sí**,
+  **copos de bonito = no** ✅ (wiki + [Sohu, en chino](https://www.sohu.com/a/452092226_532686)),
+  **mentaiko = ¡ánimo!**, **atún = mira** (wiki). **Atún con mayonesa**:
+  la wiki dice «hablar de lo que sea»; la fuente china, «esto es
+  importante, atención» ⚠️. Y en el ED1 sale **comiendo un onigiri**
+  (1:16, visto).
+- **Personajes**: **Inumaki** de pie, **levantando la mano abierta**
+  para saludar, con el cuello subido ([Toge Inumaki introduced (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/43/Toge_Inumaki_introduced_%28Anime%29.png),
+  1920×803); **Panda** sentado en el mantel, **brazos cruzados**, el que
+  traduce ([Tokyo Jujutsu High second-years (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d7/Tokyo_Jujutsu_High_second-years_%28Anime%29.png),
+  1920×1080). En el doblaje, Panda es **el que explica** («En realidad,
+  el primer día son combates grupales…», muestra de Doblaje Wiki ✅).
+- **Cómo habla**: con la **caja del modo historia de *Cursed Clash***:
+  **dos viñetas con el borde roto**, en diagonal, sobre **tinta azul
+  petróleo** `#314953` `#202C33`, y el texto blanco al lado (tráiler,
+  3:09, visto; ¡allí habla justo **Panda**!). Viñeta 1, Inumaki:
+  «**¡Salmón!**» («salmón» sale en su muestra del doblaje latino ✅).
+  Viñeta 2, Panda: «**Dice que sí, que entres. Aquí se habla de lo que
+  sea**». Letra: Zen Antique blanca.
+- **Dónde va cada texto**:
+  - un **cartel de madera** colgado del cerezo, a pincel (Yuji Boku):
+    **General**
+  - onigiri de **kombu** (el saludo): **Saluda al entrar**
+  - onigiri de **atún con mayonesa** (de lo que sea): **Entra y habla de
+    lo que sea**
+  - onigiri de **salmón** (sí): **La sala de voz de la plaza**
+  - onigiri de **copos de bonito** (no): **Del oficio se habla en
+    general-doblaje**
+  - la caja de dos viñetas, abajo a la izquierda: Inumaki y Panda
+- **Que no quede plano**: un **onigiri en primer plano**, abajo y
+  desenfocado; **pétalos** cayendo por delante; **contraluz rosado**
+  entre los troncos (como en 1:16); Panda **tapa parte del mantel**;
+  Inumaki proyecta sombra sobre la hierba.
+- ⚠️ Antes de rotular: comprobar en Crunchyroll cómo dice el doblaje
+  latino «kombu», «atún con mayonesa» y «mentaiko» (§10.4).
+
+### ¿Cuál primero?
+
+**A**. Junta lo que pide el dueño: un **objeto real que se hace en
+Blender** (la pizarra con tiza), un **sitio real** del anime, el
+personaje **más votado** y un **formato oficial** de la franquicia («Gojo
+explica» con puntero) en vez de un globo. Y dice justo lo que hace el
+canal: **abrir tu propio espacio**. **B** es su lámina 2 si el bot tiene
+opciones. **C** es la más tierna y la que más gustará a los fans de
+Inumaki.
 
 ## 20 · Lo que no pude verificar
 

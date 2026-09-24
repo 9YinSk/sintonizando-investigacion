@@ -21,19 +21,69 @@ amplia: "biblias/_ya_hechas/Attack on Titan.md"
 > - **Dos pasadas.** La primera (24-sep-2026, mañana) se hizo **con la red
 >   cerrada**: sólo buscador web (48 búsquedas) y GitHub. Sin hojas de contacto,
 >   sin Doblaje Wiki por su API y sin mirar vídeos.
-> - **Segunda pasada, 24-sep-2026, con la red abierta** (en curso: se guarda por
->   secciones). Se pudo usar:
+> - **Segunda pasada, 24-sep-2026 (tarde), con la red abierta.** Terminada. La
+>   hicieron dos ayudantes seguidos (al primero lo cortó el límite de uso). Se
+>   pudo usar:
 >   - **Wiki de Fandom** (`attackontitan.fandom.com`) por su API: 3 tandas de
->     `investigar_serie.py`. Las hojas están en `hojas/` (§2.0).
+>     `investigar_serie.py` y el tamaño real de cada imagen. Las hojas están en
+>     `hojas/` (§2.0).
 >   - **Doblaje Wiki** por la API (`action=parse`): reparto, equipo técnico,
 >     datos de interés y **muestras de audio del doblaje**, pasadas por
 >     reconocimiento de voz (Whisper) para sacar frases textuales (§9).
 >   - **Subtítulos japoneses de Netflix** (espejo de kitsunekko en GitHub), con
 >     el nombre de quien habla: de ahí salen los **minutos exactos** (§3).
->   - **YouTube con yt-dlp**: búsquedas y datos de cada vídeo. La descarga pide
->     «iniciar sesión» (somos varios con la misma IP), así que los vídeos se
->     miraron por sus *storyboards* (§11).
->   - **Sketchfab** (licencias por su API), FUNiAnime, ANMTV y el portal oficial.
+>   - **YouTube con yt-dlp**: datos, títulos y descripciones de cada vídeo. La
+>     descarga del vídeo da 403 o pide «iniciar sesión» (somos varios con la
+>     misma IP). Plan B de `AYUDANTE.md`: bajé los *storyboards* y los pasé
+>     por `herramientas/fotogramas.py` (hojas numeradas con su minuto, ±1-2 s).
+>     Miré así el opening, el ending, dos tráileres y cinco escenas (§10, §11).
+>   - **Sketchfab** (licencias por su API), FUNiAnime, ANMTV, el portal oficial
+>     (imágenes medidas bajándolas), Wallhaven (API), Reddit por Arctic Shift.
+>   - **No respondieron**: ArtStation (403) y las páginas de Wayback Machine
+>     (conexión cortada dos veces).
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+- **El clip doblado «¡Consagren sus corazones!» de Crunchyroll**: «ep. 73,
+  los reclutas apalean a Keith» → **ep. 71**. Lo miré: es la bomba en el
+  despacho de Zackly y **la gente en la verja grita la frase con el puño en
+  alto** (clip 0:48-0:58 = ep. 12:31-12:57). Su descripción dice «Episodio 71».
+  Lo de Keith sí es del ep. 73, pero no sale en ese clip (§3, §9).
+- **Frase latina de Levi «Tu determinación me dará fuerza»**: «episodio sin
+  identificar» → **ep. 9 · 06:57-07:04**, a un soldado que muere (§9.3).
+- **Visual de MAPPA 15**: «Mikasa… sonriendo» → **va de espaldas; no se le ve
+  la cara**. Medido: 1754×2481 (§2.1).
+- **Dibujo de Isayama del Día de AoT**: «quién sale no lo pude ver» (con aviso) → lo
+  miré en el portal: **Eren adulto detrás, puño en alto, y Levi delante de
+  brazos cruzados**, a tinta (§2.1).
+- **El ending de la T1**: «todo en gris» → gris la primera mitad y **sepia de
+  papel viejo desde 0:56** (§10).
+- **Minutos del tráiler latino**: «MÚSICA…» 0:26 → **0:27**; añadidos
+  «PRODUCCIÓN MAPPA» (0:22) y «DIRECCIÓN» (0:25) (§6).
+- **Los colores de la ficha en los conceptos**: siempre cinta roja `#5C0001` y
+  papel `#F4EEEF` → **la cinta del episodio que se cita** (A ocre, B verde,
+  C oro viejo) y papel `#F2F2F2`, como pide §7.1 (§19).
+- **Erwin sin brazo y el uniforme**: «de memoria» (con aviso) → confirmados (ep. 36 en
+  los subtítulos y ficha de la wiki; uniforme en la página «Military» de la
+  wiki) (§13, §16).
+- De la primera mitad de esta pasada (ayudante anterior): minutos exactos de
+  todas las escenas (subtítulos de Netflix); la ficha medida en sus 54 versiones
+  (antes se creía de un solo color); Hange en la película es **Rossy Aguirre**
+  (no Laura Torres); Reiner es **Alfonso Obregón** (no Óscar López); la frase
+  de Connie era el chiste japonés, no el doblaje; el cuerpo se llama **«Legión
+  de Exploración»** en el doblaje (no «de Reconocimiento»); VSI hizo sólo la
+  película; Eren sale **de perfil** (no de espaldas) en el visual de *AoT 3*.
+
+**Añadido:** 3 hojas de contacto (P·, E·, F·; 88 imágenes con tamaño medido);
+frases latinas textuales de Levi, Erwin, Hange, Keith, Zackly y Nile (§9.3);
+hojas de fotogramas del opening, el ending, dos tráileres y cinco escenas
+(§10-§11); Sketchfab y Poly Haven con licencia por API; fan art con autor;
+fondos de pantalla de fans con tamaño (§17); Reddit por Arctic Shift (§13);
+`referencias.json` rehecho: 39 entradas, todas con tamaño medido; la tabla
+«Cumplimiento del encargo».
+
+**⚠️:** había **14** antes de esta pasada; quedan **CUENTA** (§20 dice por qué).
 
 ---
 
@@ -42,10 +92,13 @@ amplia: "biblias/_ya_hechas/Attack on Titan.md"
 - **El más querido es Levi**, no Eren. Ganó tres de las cuatro encuestas
   oficiales. Erwin ganó la tercera. En la última, Hange quedó tercera y Eren cuarto.
 - **El cuadro de diálogo propio**: la ficha «Información pública del momento».
-  Es papel sucio con una cinta de pincel rojo sangre `#5C0001` y texto en mincho.
-  Ya estaba medida en la guía de cuadros.
-- **Frase latina segura**: «¡Consagren sus corazones!» (Erwin, Octavio Rojas).
-  De Levi no hay ninguna frase latina con fuente.
+  Papel gris claro `#F2F2F2`, texto en mincho y una cinta de pincel **del color
+  del episodio** (rojo sangre sólo en el ep. 1; tribunal verde, limpieza ocre,
+  saludo oro viejo). Medida en sus 54 versiones (§7.1).
+- **Frase latina segura**: «¡Consagren sus corazones!» (Erwin, Octavio Rojas,
+  ep. 16 · 14:13; y la gente en el ep. 71, clip oficial de Crunchyroll).
+  De Levi (Gabriel Basurto): «Yo no planeo estrategias. Eso no me compete»
+  (ep. 15 · 08:44, muestra de Doblaje Wiki).
 - **Lo nuevo de 2026**: el 9 de septiembre ya es oficialmente el «Día de Attack
   on Titan». Hubo un dibujo nuevo de Isayama y salió el juego *Attack on Titan 3*.
 - **Tres láminas nuevas**: el reglamento del cuartel con Levi limpiando (ep. 15),
@@ -198,9 +251,9 @@ Corrí `investigar_serie.py` tres veces sobre `attackontitan.fandom.com`:
 
 | Pieza | Quién sale y cómo | Para qué sirve | Fuente |
 |---|---|---|---|
-| **Visual de los 15 años de MAPPA** (17-jun-2026) | Mikasa sube una colina hacia un árbol, con la bufanda roja, entre flores, al sol, sonriendo. Dibujo de Tomohiro Kishi, *layout* de Yuichiro Hayashi | celebrar, calma, final feliz | [Anime Corner](https://animecorner.me/attack-on-titan-final-season-gets-new-key-visual-featuring-mikasa-for-mappa-15th-anniversary/) · [PDF de MAPPA](https://www.mappa.co.jp/15th/wp/wp-content/uploads/2026/06/%E3%80%9015th%E3%80%91KV%E2%91%A1%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-EN-F-2.pdf) · [anmosugoi](https://anmosugoi.com/en/mappa-15-anniversary-attack-on-titan-season-final-visual-2026/) |
+| **Visual de los 15 años de MAPPA** (17-jun-2026; lo **miré**, 1754×2481) | Mikasa **de espaldas** sube el camino de tierra hacia el árbol de la colina, entre lupinos y margaritas, a contraluz de una tarde dorada. Pelo recogido en coleta, bufanda, capa malva y falda gris; pétalos al viento. **No se le ve la cara** (antes ponía «sonriendo»). Dibujo de Tomohiro Kishi, *layout* de Yuichiro Hayashi | celebrar, calma, final feliz · [imagen](https://static.animecorner.me/2026/06/1781686842-a154e001e82b5b0b09f3bf0eaffc3d2f.jpg) | [Anime Corner](https://animecorner.me/attack-on-titan-final-season-gets-new-key-visual-featuring-mikasa-for-mappa-15th-anniversary/) · [PDF de MAPPA](https://www.mappa.co.jp/15th/wp/wp-content/uploads/2026/06/%E3%80%9015th%E3%80%91KV%E2%91%A1%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-EN-F-2.pdf) · [anmosugoi](https://anmosugoi.com/en/mappa-15-anniversary-attack-on-titan-season-final-visual-2026/) |
 | **Visual de *Attack on Titan 3*** (9-sep-2026; lo **miré** en el portal oficial, 1500×2121, hoja P·3) | **Eren grande detrás, de perfil** (pelo largo, ojo verde encendido; antes ponía «de espaldas»). Delante, **Levi vendado de la temporada final**, agachado, con una lanza rayo; **Mikasa** en el centro, bufanda roja y hoja en alto; **Armin** a la derecha. Detrás, las costillas del Titán Fundador y plumas blancas. Dibujo de Arifumi Imai, supervisión de Manabu Akita (MAPPA) | presentar al grupo; **no** sirve para Levi de T1-T3 | [imagen en el portal](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.68_%E3%80%90SGK%E3%80%91%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%89%88%E6%A8%A9_%E7%B4%8D%E5%93%81_RBG-1.jpg) · [Gematsu](https://www.gematsu.com/2026/09/attack-on-titan-3-opening-animation-key-visual-revealed) · [4Gamer (JA)](https://www.4gamer.net/games/013/G101375/20260909005/) |
-| **Día de Attack on Titan** (9-sep-2026) | El **visual oficial reúne a los nueve titanes** y el logo «ATTACK ON TITAN DAY» se inspira en el Titán del Retumbar (web oficial). El [vídeo oficial](https://www.youtube.com/watch?v=WAn2W-WFamc) (0:44) es una **cuenta atrás del 1 al 9** con un titán por número y termina en el logo rojo sobre piedra gris ([0:38](https://www.youtube.com/watch?v=WAn2W-WFamc&t=38)). Isayama hizo además un dibujo de agradecimiento: **quién sale no lo pude ver** ⚠️ (la web sólo lo enlaza a redes) | celebrar | [Portal oficial](https://aot-portal.com/en/special/aotday2026/) · [Anime Corner](https://animecorner.me/attack-on-titan-day-celebrated-with-99-announcements-new-key-visual-video-hajime-isayama-art-youtube-channel-and-more/) |
+| **Día de Attack on Titan** (9-sep-2026) | El **visual oficial reúne a los nueve titanes** y el logo «ATTACK ON TITAN DAY» se inspira en el Titán del Retumbar (web oficial). El [vídeo oficial](https://www.youtube.com/watch?v=WAn2W-WFamc) (0:44) es una **cuenta atrás del 1 al 9** con un titán por número y termina en el logo rojo sobre piedra gris ([0:38](https://www.youtube.com/watch?v=WAn2W-WFamc&t=38)). El visual (lo miré, [1920×1730](https://aot-portal.com/wp/wp-content/uploads/2026/09/SN_No.2_%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%EF%BC%86%E3%83%AD%E3%82%B4%E7%94%BB%E5%83%8F.webp)) es un «9/9» gigante relleno de viñetas del manga, sobre negro, con el logo en blanco y rojo. **El dibujo de agradecimiento de Isayama** (lo miré en el portal, [1920×1729](https://aot-portal.com/wp/wp-content/uploads/2026/09/SN_No.3_%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%E3%81%AE%E6%97%A5-%E3%81%8A%E7%A5%9D%E3%81%84%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E7%94%A8.webp)): a tinta, **Eren adulto** (pelo largo, ojos abiertos, puño en alto) detrás, y **Levi delante, de brazos cruzados, ceño fruncido**, con la chaqueta de T1-T3 y las alas en el bolsillo. Además, en la tienda de la *Shonen Magazine*, **Eren, Erwin y Levi con traje de tres piezas**, dibujo de Isayama, en **marcos dorados con cinta del nombre** sobre rojo, morado y verde ([2480×2234](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.4_%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-1.jpg)) | celebrar; **Levi de brazos cruzados por el autor (2026)**: presentar o regañar | [Portal oficial](https://aot-portal.com/en/special/aotday2026/) · [Anime Corner](https://animecorner.me/attack-on-titan-day-celebrated-with-99-announcements-new-key-visual-video-hajime-isayama-art-youtube-channel-and-more/) |
 | **Carteles nuevos del portal** (sep-2026) | Película recopilatoria 1 en ScreenX/4DX (**23-oct-2026**), *THE LAST ATTACK* en ScreenX (2027) y el concierto sinfónico *Symphony from Paradis* (Eren, Mikasa y Armin sobre la Muralla, con la bandera verde de la Legión) | fondos; bandera | [cartel 1](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.10_aot_GY_V.jpg) (1459×2062) · [cartel 2](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.11_aot_LA_V.jpg) (1459×2062) · [concierto](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.14_20260320_AOT2_Web-illustration-originale-sans-aucune-modif-1080-x-1080.jpg) (1080×1080) |
 | **Película *THE LAST ATTACK*** (sep-2024) | Los titanes del Retumbar y, enfrente, la Legión y los guerreros | escala, drama | [eiga.com (JA)](https://eiga.com/news/20240915/9/) |
 | **Temporada final, completa (2023)** | Eren como Titán Fundador; alrededor, Mikasa, Armin, Connie, Jean, Levi y Reiner con el equipo de maniobras | acción en grupo | [animatetimes (JA)](https://www.animatetimes.com/news/details.php?id=1684649921) · [X oficial](https://x.com/anime_shingeki/status/1660208659253821445) · [Lisani](https://www.lisani.jp/0000215296/2211141800-yh-001/) |
@@ -241,15 +294,18 @@ del japonés**; las del doblaje latino, textuales, están en §9.3.
 |---|---|---|---|
 | **Shadis recibe a los reclutas** | **ep. 3 · 01:39-05:01** | 01:39 «¡Eh, tú! ¿Quién demonios eres?». 02:18 «¡Vienes de una pocilga: eres menos que el ganado!». **03:53-04:03: Connie saluda con la mano izquierda** y Shadis le pregunta si tiene el corazón a la derecha (el saludo es «entregar el corazón»). 04:40 Sasha y la patata. | P·8, P·27 · [Fandom: Keith Shadis](https://attackontitan.fandom.com/wiki/Keith_Shadis) |
 | **El juicio de Eren** | **ep. 14 · 10:29-21:50** | 10:29 Zackly: «Daremos inicio». 11:38 Nile propone. 12:32 Erwin propone. **13:50 Levi contra los mercaderes** («¿quién garantiza que los titanes esperarán?»). **18:33 la patada**; 18:54 «Creo que lo que mejor educa es el dolor». 20:03 la propuesta de Erwin: Eren, bajo la custodia de Levi. 20:41 Levi: «Para matarlo, sin duda». 21:50 «No lo recojas, qué asco» (el diente). | E·1, E·2, E·3, P·12, P·20, F·3-4 · [Fandom, ep. 14](https://attackontitan.fandom.com/wiki/Can%27t_Look_into_His_Eyes_Yet:_Eve_of_the_Counterattack,_Part_1) (antes enlazaba al capítulo 19 del manga) · [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/AttackOnTitanS1E14CantLookIntoHisEyesYet) |
-| **Levi manda limpiar el castillo** | **ep. 15 · 04:55-07:15** | 04:55 «Dentro estará todo lleno de polvo». **04:57 Levi: «Eso es un problema grave. Empecemos ya»**. 05:39 Levi a Eren, que dormirá en el sótano: «**Es una regla que hay que cumplir**». 06:02 Petra: «**Aquí la regla es el capitán**». 06:17-06:22 Petra lo describe: bajo, maniático, brusco, difícil de tratar. **07:10-07:15 Levi: «Esto no vale nada. Hazlo todo otra vez»**. | P·10, P·11, E·10 · [Fandom, ep. 15](https://attackontitan.fandom.com/wiki/Special_Operations_Squad:_Eve_of_the_Counterattack,_Part_2) · [Know Your Meme](https://knowyourmeme.com/memes/cleaning-levi) |
+| **Levi manda limpiar el castillo** | **ep. 15 · 04:55-07:15** | 04:55 «Dentro estará todo lleno de polvo». **04:57 Levi: «Eso es un problema grave. Empecemos ya»**. 05:39 Levi a Eren, que dormirá en el sótano: «**Es una regla que hay que cumplir**». 06:02 Petra: «**Aquí la regla es el capitán**». 06:17-06:22 Petra lo describe: bajo, maniático, brusco, difícil de tratar. **07:10-07:15 Levi: «Esto no vale nada. Hazlo todo otra vez»**. | P·10, P·11, E·10 · [Fandom, ep. 15](https://attackontitan.fandom.com/wiki/Special_Operations_Squad:_Eve_of_the_Counterattack,_Part_2) · [Know Your Meme](https://knowyourmeme.com/memes/cleaning-levi) · clip de fan, doblaje inglés, mirado por *storyboard*: el clip empieza en el ep. 04:45 ([Levi se baja el pañuelo, 0:32](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=32); [«hazlo todo otra vez», 2:24](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=144)) |
 | Hange entra en escena | ep. 14 · 08:23-08:37 y ep. 15 · 10:01-15:25 | Se presenta a Eren (ep. 14). En el ep. 15 pide permiso para «el experimento» y a las 14:16-14:38 cuenta cómo bautizó a sus titanes, **Sonny y Bean**. | P·24 |
 | **Erwin recluta de noche** | **ep. 16 · 08:59-14:57** | 08:59 «Soy el comandante de la Legión, Erwin Smith». 11:19 «En esos cuatro años murió más del 60 %». 12:05 «…si pueden entregar su corazón». **13:52 «¿Morirían si se lo ordeno?»**. **14:08-14:13 la bienvenida, «este es un saludo de verdad» y «¡Consagren sus corazones!»**. 14:57 Jean: «¡Saluden!». | P·4, E·13, E·14, F·7 · [Fandom, ep. 16](https://attackontitan.fandom.com/wiki/What_Needs_to_be_Done_Now:_Eve_of_the_Counterattack,_Part_3) |
+| **Levi y el soldado que muere** | **ep. 9 · 06:01-07:08** | 06:01-06:04 Levi mata a un titán y mira su mano: «Tch… qué asco» (汚ねえなあ). 06:34 el soldado le pregunta si fue útil. 06:51 «Hiciste suficiente, y lo seguirás haciendo». **06:57-07:04 «Tu determinación me dará fuerza. Eso te lo prometo»** (así en el doblaje latino, §9.3). 07:05 «Exterminaré a los titanes». | subtítulos de Netflix del ep. 9 |
 | **«Elige lo que no te deje arrepentimiento»** | **ep. 19 · 06:23-06:49** (antes «capítulo sin verificar») | En el bosque, Levi a Eren: «Elige: confiar en ti, o en nosotros… Elige tú lo que no te deje arrepentimiento». | P·14 · [Fandom, ep. 19](https://attackontitan.fandom.com/wiki/Bite:_The_57th_Exterior_Scouting_Mission,_Part_3) |
 | Erwin pierde el brazo | **ep. 36 · 14:39-16:21** («Charge», T2) | 14:39 «¡Todos, a la carga!». 15:00 «¡Consagren sus corazones!». 16:05-16:21 un titán le atrapa el brazo derecho y él sigue gritando «¡Avancen! ¡Eren está ahí!». | [Fandom, ep. 36](https://attackontitan.fandom.com/wiki/Charge_(Episode)) |
 | **«Abandona tu sueño y muere»** | **ep. 53 · 18:00-18:06** («Perfect Game», T3) | Levi, de rodillas ante Erwin: «Renuncia a tu sueño y muere». Y: «Al Titán Bestia lo mato yo». | [Fandom](https://attackontitan.fandom.com/wiki/Perfect_Game_(Episode)) · [substack iuniaaa](https://iuniaaa.substack.com/p/levi-and-erwin) |
 | **«¡Soldados, rujan!»** | **ep. 53 · 21:51-21:55** | «¡Soldados, rujan! ¡Soldados, griten! ¡Soldados, luchen!». La carga suicida. | P·22 · [Know Your Meme](https://knowyourmeme.com/memes/erwin-smiths-my-soldiers-rage-speech) |
 | Levi contra la Bestia | ep. 53-54 («Hero») | La carga de Erwin le da tiempo a Levi. | [Fandom «Hero»](https://attackontitan.fandom.com/wiki/Hero_(Episode)) · [IMDb](https://www.imdb.com/title/tt9906260/) |
-| Los reclutas apalean a Keith | **ep. 73 · 18:30-19:17** (T4) | Juran «por el futuro de Eldia» y Floch les manda apalear a su instructor. Es **el clip doblado «¡Consagren sus corazones!»** de Crunchyroll (§9.3, §11). | [clip][yt-consagren] |
+| **La bomba de Zackly y el grito de la verja** | **ep. 71 · 11:47-12:57** (T4, «Guides») | 11:47 estalla el despacho del generalísimo Zackly (13:01: la bomba iba en su silla). 12:31-12:57 la gente en la verja del cuartel grita «¡Consagren sus corazones!» con el puño en alto. Es **el clip doblado de Crunchyroll**: lo miré por su *storyboard* (clip [0:02-0:08](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=2) la explosión; [0:48-0:58](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=48) los puños en alto). | [clip][yt-consagren] · subtítulos de Netflix del ep. 71 |
+| Los reclutas apalean a Keith | **ep. 73 · 16:10-19:13** (T4) | Keith manda el simulacro de defensa (16:25); los reclutas juran «por el futuro de Eldia» y le pegan. **No es el clip de Crunchyroll** (antes se dijo que sí). | subtítulos de Netflix del ep. 73 |
+| Levi contra Zeke, doblado | **ep. 73** (T4) | «En ese momento, Zeke sintió el verdadero terror»: los soldados convertidos en titanes, el recuerdo del béisbol y Levi cayendo sobre Zeke (clip [0:56-1:00](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=56)); al final, Levi en el aire con la capa ([1:08](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=68)). La descripción oficial acredita a **Gabriel Basurto (Levi)** y Ricardo Brust (Zeke). | [clip][yt-zeke] |
 
 ---
 
@@ -410,11 +466,21 @@ Stencil, y añadí Cormorant SC e IM Fell English SC: las seis, completas.
 | Versalitas para títulos cortos | **Cormorant SC** · **IM Fell English SC** | OFL | tildes, ñ, ¿ y ¡ ✅ (2.ª pasada) |
 | Máquina de escribir | Special Elite | Apache 2.0 | **no pega** con las murallas; sólo para Marley |
 
-- **Lo que vi en pantalla** (2.ª pasada): los créditos japoneses del tráiler de
-  2012 van en **mincho blanco grueso sobre negro** ([PV · 0:08](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=8));
-  los del tráiler latino, en **serif romana de mayúsculas muy espaciadas**,
-  blanca o dorada apagada (`#8C7C6E`, medida en un *storyboard* borroso)
-  ([0:00](https://www.youtube.com/watch?v=sFuAhHTgABs&t=0), [0:26](https://www.youtube.com/watch?v=sFuAhHTgABs&t=26));
+- **Lo que vi en pantalla** (2.ª pasada, hojas de fotogramas por *storyboard*,
+  ±1 s): los créditos japoneses del tráiler de 2012 van en **mincho blanco
+  grueso, centrado, sobre negro**: 原作 諫山創 ([PV · 0:10](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=10)),
+  composición y diseño de personajes ([0:20](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=20)),
+  voces ([0:30](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=30)) y música
+  ([0:34](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=34)); cierra con el
+  logo metálico y «2013年春 TVアニメ放送決定!!» ([1:06-1:10](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=66)).
+  Los del tráiler latino (Especial 1), en **serif romana de mayúsculas muy
+  espaciadas**, con tildes: «BASADO EN EL MANGA DE HAJIME ISAYAMA» blanco sobre
+  la ciudad ([0:02](https://www.youtube.com/watch?v=sFuAhHTgABs&t=2)),
+  «PRODUCCIÓN MAPPA» ([0:22](https://www.youtube.com/watch?v=sFuAhHTgABs&t=22)),
+  «DIRECCIÓN YUICHIRO HAYASHI» ([0:25](https://www.youtube.com/watch?v=sFuAhHTgABs&t=25))
+  y «MÚSICA KOHTA YAMAMOTO / HIROYUKI SAWANO» ([0:27](https://www.youtube.com/watch?v=sFuAhHTgABs&t=27)),
+  en crema o dorado apagado (`#8C7C6E`) sobre piedra oscura; «VELO EN
+  crunchyroll» sobre llamas ([1:20](https://www.youtube.com/watch?v=sFuAhHTgABs&t=80));
   el rótulo de nombre del resumen oficial, en **mincho blanco** con el cargo
   debajo ([3:01](https://www.youtube.com/watch?v=O3mniZNjeqU&t=181), F·28).
 - **El logo** está dibujado a mano. Se le parecen Linotext (de pago) y Ditty, de
@@ -551,7 +617,8 @@ nada.**
   [ANMTV, 2025][anmtv-film]).
 - **Traducción y adaptación**: Jennifer Medel (que dobla a Sasha); Brenda Nava
   adaptó los eps. 46-49. Mezcla en Cronophonia (Julio Caín). Asistente de
-  dirección: Carlos Monroy ⚠️ (sólo Doblaje Wiki).
+  dirección: Carlos Monroy ⚠️ (sólo la ficha de Doblaje Wiki; FUNiAnime y
+  ANMTV no lo nombran; en la serie también dobla a Klaus, Gustav y Keiji).
 - **Grabación**: de mayo de 2020 (T1-T2) a diciembre de 2023 (T4, parte 3).
   Salió en Funimation (T1 a T4, parte 2) y en Crunchyroll (el final)
   ([Doblaje Wiki][dw-aot]). Antes se doblaron las **tres películas
@@ -573,7 +640,7 @@ Cada nombre, en la ficha de la serie de Doblaje Wiki (API) **y** en la lista de
 
 | Personaje | Voz latina | Estado | Fuentes |
 |---|---|---|---|
-| **Levi** | **Alfredo Gabriel Basurto** (de niño: Ivett Toriz ⚠️) | ✅ | [DW][dw-aot] · [FUNiAnime][funi] · [ficha del actor][dw-basurto] |
+| **Levi** | **Alfredo Gabriel Basurto** (de niño, ep. 47: Ivett Toriz ⚠️, sólo Doblaje Wiki, en la ficha de la serie y en la de ella) | ✅ | [DW][dw-aot] · [FUNiAnime][funi] · [ficha del actor][dw-basurto] · **Crunchyroll en Español**, descripción del [clip oficial de Levi contra Zeke][yt-zeke]: «Gabriel Basurto – Levi» |
 | **Erwin** | **Octavio Rojas** | ✅ | [DW][dw-aot] · FUNiAnime · [La Mole][lamole] |
 | **Hange** | **Rossy Aguirre**, en la serie **y en la película** | ✅ | [DW][dw-aot] · [DW película][dw-film] · FUNiAnime |
 | **Eren** | **Miguel Ángel Leal** | ✅ | DW · FUNiAnime · ANMTV (premio) |
@@ -616,7 +683,7 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
 | Erwin | «Lamento lo sucedido, pero gracias a eso conseguimos ponerte bajo nuestra custodia. … Tienes todo mi respeto.» | ep. 14 · 21:09 (a Eren, tras el juicio) | ✅ |
 | **Levi** | «**Yo no planeo estrategias. Eso no me compete.** Pero conozco a Erwin. Debe estar considerando más variables que nosotros.» | **ep. 15 · 08:44** | ✅ |
 | Levi | «No sabía que los cerdos podían hablar.» · «Y ese nosotros que tanto repiten son nuestros compañeros que mueren mientras ustedes engordan.» | ep. 14 · 13:50 (a los mercaderes, en el juicio) | ✅ sentido |
-| Levi | «Tu determinación me dará fuerza. Eso te lo prometo.» | ⚠️ episodio sin identificar | ⚠️ |
+| Levi | «Tu determinación me dará fuerza. Eso te lo prometo.» | **ep. 9 · 06:57-07:04**, al soldado que muere (en japonés: «la voluntad que dejas me da fuerza. Te lo prometo») | ✅ sentido |
 | Levi (película) | «Yo seré… quien mate a Zeke. Así que, por favor, ayúdenme.» | *El ataque final* ([muestra][dw-film]) | ✅ sentido |
 | **Hange** | «Perdóname por hacerte esperar. … **Soy líder de la Cuarta División de la Legión de Exploración, Hange Zoë.**» | **ep. 14 · 08:23-08:37** | ✅ |
 | Hange (película) | «Armin Arlert: desde ahora eres el decimoquinto comandante de la Legión de Exploración. La cualidad fundamental para ser el comandante de esta legión es que **nunca se rinda en el camino del conocimiento**. No hay nadie más apto que tú.» · «Recuerda que ahora Levi es tu subordinado. Así que explótalo bien.» | *El ataque final* ([muestra][dw-film]) | ✅ sentido |
@@ -631,16 +698,23 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
   voces distintas (Erwin, Hange, Mikasa y Jean). **No «Legión de
   Reconocimiento»** (así lo llama parte del fandom) ni «Cuerpo de Exploración»
   (la sinopsis de Crunchyroll). ⚠️ Una sola fuente (las muestras de Doblaje
-  Wiki), pero cuatro grabaciones.
+  Wiki), pero cuatro grabaciones. No hallé un texto oficial que lo diga: los
+  clips oficiales de Crunchyroll en Español no dieron subtítulos con yt-dlp, y
+  los títulos de clips latinos subidos por fans dicen «legión de exploración»
+  tres veces y «de reconocimiento» una (búsqueda en YouTube, 24-sep-2026).
 - **Otros términos del doblaje** (de las muestras): «tropa de cadetes 104»,
   «Policía Militar», «corte marcial», «muralla Rose», «muralla Sina», «equipo
   de maniobras tridimensional», «titanes». Reiner dice «**amonestación**» en el
   ep. 4 ([Doblaje Wiki][dw-aot]).
 - **«¡Consagren sus corazones!» es de Erwin (ep. 16)**, confirmado por la
   muestra. **El clip de Crunchyroll que se citaba no es esa escena**: es del
-  **ep. 73** (T4), cuando los reclutas de los jaegeristas apalean a Keith Shadis
-  y juran «por el futuro de Eldia» (subtítulos de Netflix, 18:30-19:17). Lo miré
-  por su *storyboard* (§11).
+  **ep. 71** (T4). Lo miré por su *storyboard*: tras la bomba en el despacho
+  de Zackly, **la gente en la verja del cuartel grita «¡Consagren sus
+  corazones!» con el puño en alto** (clip 0:48-0:58; subtítulos de Netflix del
+  ep. 71, 12:31-12:57: 心臓を捧げよ, dicho por «hombre» y «gente»). Su
+  descripción dice «Episodio 71». (En la primera mitad de esta pasada se había
+  puesto en el ep. 73, con Keith: no es así.) El título del clip oficial es la **segunda
+  fuente textual** de la frase latina.
 - **La frase de Connie estaba mal.** «¡Las casas están ardiendo! De seguro esa
   es la casa de Eren» es el **chiste japonés traducido** (*Eren no ie ga*). **El
   doblaje dice otra cosa**: «**Si yo fuera Eren, ¡diría que Mikasa está que
@@ -651,13 +725,18 @@ frase con los **subtítulos japoneses de Netflix** ([espejo de kitsunekko][kitsu
 
 ### 9.4 Vídeos del doblaje (comprobados con yt-dlp)
 
-| Vídeo | Qué es | Datos |
+Todos son del canal oficial **Crunchyroll en Español** y los miré por su
+*storyboard* (hojas de `fotogramas.py`, ±1 s). yt-dlp no encontró subtítulos
+ni subtítulos automáticos en ninguno (puede ser por el cliente que respondía):
+la frase textual sale del **título** y de las muestras de audio de §9.3.
+
+| Vídeo | Qué es (lo que vi) | Datos |
 |---|---|---|
-| [«¡Consagren sus corazones!»][yt-consagren] (Crunchyroll en Español) | ep. 73: los reclutas y Keith | 1:27, 17-ene-2022 ✅ |
-| [«En ese momento, Zeke sintió el verdadero terror»][yt-zeke] | Levi contra Zeke, doblado | 1:29, 11-ene-2022 ✅ |
-| [«Declaración de Guerra»][yt-guerra] | ep. 64, doblado | 1:26 ✅ |
-| [Tráiler del Especial 1, doblaje latino][yt-esp1] | tráiler con créditos en español | 1:25, 6-sep-2023 ✅ |
-| [Tráiler de Eren, Especial 2 (dob. latino)][yt-esp2] | tráiler | 0:31 ✅ |
+| [«¡Consagren sus corazones!»][yt-consagren] | **ep. 71**: la bomba de Zackly ([0:02](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=2)), Mikasa, Armin e Hitch en el patio de columnas ([0:34-0:46](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=34)) y **la gente con el puño en alto** en la verja ([0:48-0:58](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=48)) | 1:27 (1:05 de escena), 17-ene-2022 ✅ |
+| [«En ese momento, Zeke sintió el verdadero terror»][yt-zeke] | **ep. 73**: Levi contra Zeke en el bosque; acredita a Gabriel Basurto (Levi) y Ricardo Brust (Zeke) | 1:29, 11-ene-2022 ✅ |
+| [«Declaración de Guerra»][yt-guerra] | **ep. 64**: Willy Tybur en el escenario con los brazos abiertos ([0:02](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=2), [0:54](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=54)), el sótano de ladrillo con Eren y Reiner, el público con el puño en alto bajo un foco ([0:32](https://www.youtube.com/watch?v=pNRP0z8IwHQ&t=32)) | 1:26, 3-ene-2022 ✅ |
+| [Tráiler del Especial 1, doblaje latino][yt-esp1] | créditos en serif espaciada con tildes (§6) | 1:25, 6-sep-2023 ✅ |
+| [Tráiler de Eren, Especial 2 (dob. latino)][yt-esp2] | tráiler | 0:30, 12-dic-2023 ✅ |
 
 Doblaje Wiki lista además entrevistas al reparto (ANISON USA, «Las voces que
 amamos» con Gabriel Basurto). **No las pude abrir** (YouTube bloqueado).
@@ -699,22 +778,38 @@ amamos» con Gabriel Basurto). **No las pude abrir** (YouTube bloqueado).
   La wiki llama a los openings de la T1 y T2 por su título alemán: «Feuerroter
   Pfeil und Bogen», «Die Flügel der Freiheit» y «**Opfert eure Herzen!**»
   («¡Ofrezcan sus corazones!»).
-- **Lo que vi en el opening de los eps. 14-25** («Jiyuu no Tsubasa», por su
-  *storyboard*): abre con **las Alas de la Libertad talladas en un muro de
-  piedra verde oscura** ([0:00](https://www.youtube.com/watch?v=43spp3kzGVw&t=0));
-  campos verdes desde el aire (0:02-0:05); **siluetas de la Legión contra un
-  atardecer naranja** ([0:19-0:26](https://www.youtube.com/watch?v=43spp3kzGVw&t=19));
-  **un puño apretado a contraluz de una ventana** ([0:27-0:29](https://www.youtube.com/watch?v=43spp3kzGVw&t=27));
-  **Levi volando con las hojas en el bosque** ([0:56](https://www.youtube.com/watch?v=43spp3kzGVw&t=56));
-  primeros planos del **equipo de maniobras en metal beige** (1:00-1:06); la cara
-  seria de Erwin ([1:11](https://www.youtube.com/watch?v=43spp3kzGVw&t=71)); y el
-  **logo 進撃の巨人 entre cadenas y luego sobre un muro de ladrillo blanco**
-  ([1:24-1:29](https://www.youtube.com/watch?v=43spp3kzGVw&t=84)).
-- **El ending de la T1** («Utsukushiki…») es **todo en gris, como dibujado a
-  tiza o grabado**: una luna, un bosque que se refleja en el agua, Mikasa niña
-  con la bufanda ([0:25-0:29](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=25))
-  y cuchillos clavados ([0:30-0:46](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=30)).
-  Mismo lenguaje que las fichas en blanco y negro.
+- **Lo que vi en el opening de los eps. 14-25** («Jiyuu no Tsubasa», vídeo
+  oficial sin créditos de Pony Canyon, 1:30; hoja de fotogramas cada 2 s sacada
+  de su *storyboard*, ±1 s): abre con **un relieve oscuro en un muro de piedra
+  verde** ([0:00](https://www.youtube.com/watch?v=43spp3kzGVw&t=0)); campos
+  verdes desde el aire ([0:02-0:04](https://www.youtube.com/watch?v=43spp3kzGVw&t=2));
+  bosque y casas de madera (0:06-0:12); **siluetas de la Legión contra un
+  atardecer naranja**, con caras encima ([0:20-0:24](https://www.youtube.com/watch?v=43spp3kzGVw&t=20);
+  medido: `#86411C` · `#AB6630` · `#D7A04B`, cielo `#E0A024`); un ojo con una
+  lágrima (0:26); **un puño apretado a contraluz de una ventana**
+  ([0:28-0:30](https://www.youtube.com/watch?v=43spp3kzGVw&t=28); luz `#E3D4AF`);
+  vitrales y una iglesia (0:34-0:36); **velas** (0:38); **Levi con la capa**
+  ([0:46](https://www.youtube.com/watch?v=43spp3kzGVw&t=46)) y volando entre
+  los árboles (0:48-0:52); cables y hojas (0:54-1:00); primeros planos del
+  **equipo de maniobras en metal beige** ([1:02-1:06](https://www.youtube.com/watch?v=43spp3kzGVw&t=62));
+  la cara seria de Erwin ([1:12](https://www.youtube.com/watch?v=43spp3kzGVw&t=72));
+  Eren con los ojos cerrados sobre rojo (1:16); y el **logo 進撃の巨人 sobre un
+  muro de ladrillo blanco** ([1:26-1:28](https://www.youtube.com/watch?v=43spp3kzGVw&t=86)).
+- **El ending de la T1** («Utsukushiki Zankoku na Sekai», Pony Canyon, 1:30;
+  misma técnica) **empieza en gris, como grabado a tinta** y **pasa a sepia de
+  papel viejo** en la segunda mitad:
+  - gris: estrellas y una luna ([0:02-0:06](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=2)),
+    un cuchillo entre flores (0:10), un bosque reflejado en el agua
+    (0:16-0:24), **Mikasa niña con la bufanda** ([0:26-0:30](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=26))
+    y rodeada de **cuchillos clavados** ([0:32-0:48](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=32));
+  - sepia: Mikasa mayor ([0:56](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=56)),
+    un ala (0:58), un pueblo de piedra con Mikasa de espaldas (1:00-1:04),
+    Mikasa con la sombra de una reja (1:06-1:08), **una puerta en arco con
+    alguien en la luz** ([1:10-1:14](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=70)),
+    Eren (1:16-1:18) y Mikasa tocándose la bufanda (1:20). Medido en el
+    *storyboard*: papel `#F0EDD2`, tinta `#2C2921`, medio `#C8C2A5`.
+  - Mismo lenguaje que las fichas en blanco y negro: **papel viejo y tinta**
+    también sirven de «voz» de la serie.
 - **Para el tono de las láminas**: «Shinzou wo Sasageyo» es el lema del saludo.
   Lámina 3.
 
@@ -722,15 +817,26 @@ amamos» con Gabriel Basurto). **No las pude abrir** (YouTube bloqueado).
 
 ## 11 · Vídeos útiles
 
-| Vídeo | Para qué | Minuto |
+Cómo los miré: `yt-dlp` baja el *storyboard* (mosaicos de 160×90 o 320×180,
+uno por segundo en los clips cortos) y `herramientas/fotogramas.py` monta la
+hoja numerada con el minuto. Precisión: ±1 s (±2 s en el clip de 2:30). Cada
+enlace se comprobó con `yt-dlp` (título, canal, duración) el 24-sep-2026.
+
+| Vídeo | Para qué | Minuto (lo que vi) |
 |---|---|---|
-| [«¡Consagren sus corazones!», Crunchyroll en Español](https://www.youtube.com/watch?v=nxQCiDpxeMY) | la voz y la entonación latinas de Erwin | sin verificar |
-| [Levi y su escuadrón limpian (dub inglés)](https://www.youtube.com/watch?v=GLpLwuaBk-s) | la ropa de limpiar de Levi, ep. 15 | sin verificar |
-| [Levi y Erwin, «Give up on your dreams and die»](https://www.youtube.com/watch?v=o8pkg7HjBIk) | Levi de rodillas | sin verificar |
-| [Voz de Levi en español latino](https://www.youtube.com/watch?v=UTRAXM1PCFc) | el timbre de Basurto | sin verificar |
-| [Recopilación de pausas publicitarias T1-T4](https://www.youtube.com/watch?v=0LU5UpvK2Vk) | cartelas (de la guía) | sin verificar |
-| [Emisión oficial de la fecha de *AoT 3*](https://www.youtube.com/watch?v=2yD_s-8A12s) | interfaz del juego nuevo | sin verificar |
-| [Demo de *AoT 3*](https://www.youtube.com/watch?v=R2KM0OgyU-M) | menús y cajas | sin verificar |
+| [«¡Consagren sus corazones!», Crunchyroll en Español (oficial, doblado)](https://www.youtube.com/watch?v=nxQCiDpxeMY) | la frase latina; **ep. 71**, no el 16 | [0:48-0:58](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=48): la gente grita con el puño en alto |
+| [Levi contra Zeke, Crunchyroll en Español (oficial, doblado)](https://www.youtube.com/watch?v=wOzu2yF4HC4) | Levi en acción, T4; crédito oficial de Basurto | [0:56-1:00](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=56) el golpe; [1:08](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=68) Levi en el aire con la capa |
+| [Levi y su escuadrón limpian (subida de fan, dub inglés, ep. 15)](https://www.youtube.com/watch?v=GLpLwuaBk-s) | **concepto A**: ropa, sitio y cara | [0:04-0:12](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=4) el castillo de torres redondas y rosetón, la Legión de espaldas con las alas; [0:14](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=14) Levi con capa y chorrera, párpado caído; [0:32-0:34](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=32) Levi con pañuelo se baja el de la boca junto a la ventana (= P·10); [0:36-0:46](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=36) Levi de espaldas habla con Eren bajo un arco de piedra; [1:08-2:20](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=68) Petra con escoba y pañuelo al cuello; [2:24-2:28](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=144) Levi en la puerta: «hazlo todo otra vez» |
+| [Levi y Erwin, «Give up on your dreams and die» (subida de fan, 8 s)](https://www.youtube.com/watch?v=o8pkg7HjBIk) | Levi agachado ante Erwin | [0:00-0:05](https://www.youtube.com/watch?v=o8pkg7HjBIk&t=0) Erwin sentado, cabeza baja; [0:05-0:07](https://www.youtube.com/watch?v=o8pkg7HjBIk&t=5) Levi con capucha. *Storyboard* de 48×27: casi no se ve; mejor P·22 y los subtítulos (ep. 53 · 18:00) |
+| [Opening 2 «Jiyuu no Tsubasa» (Pony Canyon)](https://www.youtube.com/watch?v=43spp3kzGVw) | ambiente, puño a contraluz, logo | ver §10 |
+| [Ending 1 «Utsukushiki Zankoku na Sekai» (Pony Canyon)](https://www.youtube.com/watch?v=eN_rq3FvJUs) | gris y sepia, papel viejo | ver §10 |
+| [Tráiler de 2012 (Pony Canyon)](https://www.youtube.com/watch?v=KKzmOh4SuBc) | créditos en mincho | ver §6; Mikasa con la bufanda y leña ([0:06-0:08](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=6)) |
+| [Tráiler del Especial 1, doblaje latino (Crunchyroll)](https://www.youtube.com/watch?v=sFuAhHTgABs) | créditos en español | ver §6; Hange de la T4 con capa, de frente ([0:30](https://www.youtube.com/watch?v=sFuAhHTgABs&t=30)) |
+| [«Declaración de Guerra» (Crunchyroll, doblado)](https://www.youtube.com/watch?v=pNRP0z8IwHQ) | escenario con foco: «anuncio» | ver §9.4 |
+| [Voz de Levi en español latino](https://www.youtube.com/watch?v=UTRAXM1PCFc) | el timbre de Basurto | VOZLEVI |
+| [Recopilación de cartelas T1-T4 (subida de fan, 10:02)](https://www.youtube.com/watch?v=0LU5UpvK2Vk) | las fichas «Información pública» en vídeo | CARTELAS |
+| [Emisión oficial de la fecha de *AoT 3* (Koei Tecmo, 9:12, 3-ago-2026)](https://www.youtube.com/watch?v=2yD_s-8A12s) | interfaz del juego nuevo | EMISION |
+| [Demo de *AoT 3*](https://www.youtube.com/watch?v=R2KM0OgyU-M) | menús y cajas | DEMO |
 | TikTok: [Gabriel Basurto saluda como Levi](https://www.tiktok.com/@robb_g89/video/7343408637378858246) · [descubrir «give up your dreams»](https://www.tiktok.com/discover/give-up-your-dreams-and-die-scene?lang=en) · [arte nuevo de MAPPA](https://www.tiktok.com/discover/mappa-new-aot-official-art) | tendencias | — |
 
 Novedad: desde el Día de AoT (9-sep-2026) hay **canal oficial de YouTube**
@@ -772,6 +878,17 @@ conviene capturar su caja: sería un segundo cuadro oficial.
   estatura de Rorschach, y la manía de la limpieza para ser su contrario.
 - **«Tatakae»** («pelea») es palabra de culto; hasta hay bots con ese lema
   ([FoundingTitanRobot](https://github.com/asadali32117/FoundingTitanRobot)).
+- **Reddit confirma que la limpieza es lo más querido de Levi** (r/ShingekiNoKyojin,
+  por el archivo de Arctic Shift, búsqueda «Levi cleaning» en títulos):
+  - «It's nice how Levi's clean-freak nature was shown right off the bat…»:
+    **4275 votos** ([hilo](https://www.reddit.com/r/ShingekiNoKyojin/comments/ut4ps9/)).
+  - «Captain Levi's Cleaning Crew», fan art de **しょくむら**: 2289 votos
+    ([hilo](https://www.reddit.com/r/ShingekiNoKyojin/comments/ogpsyq/));
+    del mismo autor, «Levi and his cleaning squad» (158).
+  - «Eren about to be told off by Levi for not cleaning his windows» (399):
+    **el chiste de «regañar por limpiar mal» ya es del fandom** (concepto A).
+  - Existe hasta una figura oficial *figma* de Levi limpiando (hilos de 2014 con
+    202 y 211 votos).
 
 **Qué NO hacer (lo que a un fan le sonaría falso):**
 - Levi **sonriendo abierto** o gritando de alegría. Casi no muestra emociones
@@ -780,12 +897,16 @@ conviene capturar su caja: sería un segundo cuadro oficial.
 - **El saludo con la mano equivocada.** Es el puño **derecho** al corazón (se ve en G1).
 - **Mezclar épocas**: la chaqueta marrón con la capa es de T1 a T3. La ropa negra
   y el pelo largo de Eren son de la temporada final. No juntar las dos sin motivo.
-- ⚠️ De memoria, sin fuente de esta sesión: **Erwin pierde el brazo derecho en la
-  T2**. Si sale en el ep. 16, que tenga los dos brazos. Después, sólo uno.
-  **Comprobar antes de dibujar.**
+- **Erwin pierde el brazo derecho en el ep. 36 (T2)** ✅ (subtítulos de
+  Netflix, 16:05-16:21, y la [ficha del anime en la wiki](https://attackontitan.fandom.com/wiki/Erwin_Smith_(Anime)):
+  «se lo arrancó un titán justo debajo del hombro»). En el ep. 16 tiene los dos
+  brazos; después, sólo el izquierdo. Y **desde entonces saluda con la mano
+  izquierda**, «lo que se considera un saludo incorrecto» (misma ficha, ep. 49):
+  si Erwin saluda después de la T2, con la izquierda.
 - Pintar el verde de la Legión como **verde hierba**, o la bufanda **roja
   chillona** (ver los hex).
-- Poner una **frase latina de Levi** como si fuera cita. No hay ninguna con fuente.
+- Poner en boca de Levi **una frase latina inventada** como si fuera cita. Las
+  que tienen fuente están en §9.3; lo demás, marcarlo como texto nuestro.
 
 ---
 
@@ -809,13 +930,33 @@ conviene capturar su caja: sería un segundo cuadro oficial.
 - **Con quién**: Erwin (lealtad total), Hange (vieja camaradería), Eren (lo
   vigila y lo protege) y su escuadrón.
 - **Cuerpo**: tieso, brazos cruzados, mirada de párpado caído. Coge la hoja **al
-  revés** (G2).
+  revés** (G2). Isayama lo volvió a dibujar **de brazos cruzados** en 2026 (§2.1).
+- **Cómo se expresa, en pantalla** (subtítulos de Netflix; traducción nuestra
+  salvo lo marcado como latino):
+  - **se queja de la suciedad antes que del peligro**: mata a un titán, se mira
+    la mano y dice «Tch… qué asco» (ep. 9 · 06:01-06:04);
+  - **da órdenes en una línea**: «Eso es un problema grave. Empecemos ya»
+    (ep. 15 · 04:55-04:59), «Es una regla que hay que cumplir» (05:38),
+    «Esto no vale nada. Hazlo todo otra vez» (07:12-07:14);
+  - **responde seco a lo que no le importa**: Hange pregunta qué hará Eren
+    mañana y Levi contesta «Limpiar el jardín» (ep. 15 · 10:42-10:45);
+  - **promete poco y en serio**: «Tu determinación me dará fuerza. Eso te lo
+    prometo» (latino, ep. 9 · 06:57);
+  - **así lo ven los suyos**: Petra, «Aquí la regla es el capitán» (06:01) y
+    «es más bajo de lo que crees, maniático, brusco y difícil de tratar»
+    (06:16-06:22).
+  - **Saluda** con el puño derecho al corazón, sin gesto en la cara (P·17,
+    E·17). **Se ríe** casi nunca (P·19, una sonrisa pequeña).
 
 ### Erwin Smith: el segundo más querido (ganó la 3.ª encuesta)
 - **Carácter**: el comandante que se juega todo por la verdad. Pide sacrificios
   y los dice de frente: el 60 % murió.
 - **Cómo habla**: discursos con preguntas y un remate que se grita, como
-  «¡Consagren sus corazones!» o «¡Soldados, rujan!»
+  «¡Consagren sus corazones!» o «¡Soldados, rujan!». Primero da el dato duro
+  («en esos cuatro años murió más del 60 %», ep. 16 · 11:19), luego pregunta
+  («¿Morirían si se lo ordeno?», 13:52) y al final grita el lema (14:13).
+  Con Eren, tras el juicio, es cortés: «Tienes todo mi respeto» (latino,
+  ep. 14 · 21:09).
   ([Know Your Meme](https://knowyourmeme.com/memes/erwin-smiths-my-soldiers-rage-speech) ·
   [Medium](https://medium.com/@matthew.starkey_79206/erwin-smith-leader-warrior-devil-512b8bd6c5c)).
 - **Con quién**: Levi, que al final le da permiso para morir (ep. 53).
@@ -828,7 +969,12 @@ conviene capturar su caja: sería un segundo cuadro oficial.
   ([Fandom](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB) ·
   [Fandom: Sawney](https://attackontitan.fandom.com/wiki/Sawney_(Anime))).
 - **Cómo habla**: rápido, con entusiasmo y explicando de más. Les pone nombre a
-  sus sujetos de estudio.
+  sus sujetos de estudio. **Saluda** con alegría a todo el grupo: «¡Buenas
+  noches, escuadrón Levi! ¿Qué tal se vive en el castillo?» (ep. 15 · 10:00);
+  pide las cosas **exagerando**: el experimento será «¡de lo más emocionante!»
+  (10:30); **se presenta con su cargo completo** en el doblaje: «Soy líder de la
+  Cuarta División de la Legión de Exploración, Hange Zoë» (latino, ep. 14 ·
+  08:37). Bautiza a sus titanes Sonny y Bean (14:15-14:17).
 - **Para la lámina**: sería la que **explica** las normas como un experimento,
   con notas y dibujos.
 
@@ -857,95 +1003,197 @@ conviene capturar su caja: sería un segundo cuadro oficial.
 
 ## 15 · Poses, analizadas
 
-Número G = imagen de la tabla del punto 2. «Galería n.º» = hojas de la biblia
-anterior. Minutos: **sin verificar**.
+Códigos: P·, E·, F· = celdas de las hojas (§2.0, tamaño medido); G = copias de
+GitHub (§2); «clip» = hojas de fotogramas por *storyboard* (±1-2 s, §11). El
+minuto del episodio sale de los subtítulos de Netflix.
 
-| Personaje | Dónde | Qué hace | Sirve para |
+**Levi** (el más querido: 10 poses)
+
+| Dónde | Qué hace (postura, manos, mirada) | Sirve para |
+|---|---|---|
+| P·1 (arte oficial WIT) | de pie, **brazos cruzados**, entre Eren y Mikasa; mirada de lado | **presentar** |
+| Dibujo de Isayama 2026 (§2.1) | delante de Eren, **brazos cruzados**, ceño fruncido, mira al frente | **presentar** o **regañar** |
+| G2 | tres cuartos, **hoja al revés** hacia abajo, capa al viento, párpado caído | presentar |
+| [clip 0:14](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=14) · ep. 15 · 04:59 | capa verde cerrada y chorrera blanca, de frente, **párpado caído**: «empecemos ya» | **explicar** una orden |
+| P·10 · [clip 0:32-0:34](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=32) · ep. 15 · ~05:17 | pañuelo en la cabeza; con dos dedos **se baja el pañuelo de la boca**; ventana con cielo detrás | **regañar con humor** (concepto A) |
+| P·11 | pasa **el dedo** por el marco de una ventana de celosía y mira el polvo | **regañar**, inspeccionar |
+| [clip 2:24-2:28](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=144) · ep. 15 · 07:09-07:14 | con pañuelo, **asoma en la puerta de piedra**, mira de arriba abajo: «hazlo todo otra vez» | **regañar** |
+| P·13 · ep. 14 · 13:50 | de pie, cuerpo recto, cara en sombra, **mira de reojo** a los mercaderes | **advertir** |
+| P·12 · ep. 14 · 18:33 | de pie junto a Eren caído, en el juicio | **sancionar** (sin sangre en la lámina) |
+| P·16 | primer plano, mirada baja, escucha | **pensar** |
+| P·17 | saludo final, puño al corazón (T4, vendado) | **despedir**, aceptar |
+| P·19 | sonrisa pequeña, casi única | **celebrar**, con cuidado |
+| [clip 1:08](https://www.youtube.com/watch?v=wOzu2yF4HC4&t=68) · ep. 73 | en el aire, capa abierta, hojas en las manos | **animar** (T4) |
+
+**Erwin**
+
+| Dónde | Qué hace | Sirve para |
+|---|---|---|
+| P·20 · ep. 14 · 20:03 | de frente, sereno, habla al tribunal | **explicar** |
+| E·13 · ep. 16 · 08:59 | en alto, de noche; los reclutas lo miran desde abajo | **explicar** a un grupo |
+| E·14 · ep. 16 · 14:13 | los nuevos saludan con antorchas detrás de él | **aceptar** (concepto C) |
+| E·16 | de perfil, de noche, antes de salir | **pensar** |
+| P·21 y P·23 | grita a sus soldados; en P·23 (T3) con la espada | **animar** |
+| P·22 · ep. 53 · 21:51 | a caballo, un solo brazo, grita | **animar** a lo grande |
+| [OP 1:12](https://www.youtube.com/watch?v=43spp3kzGVw&t=72) | cara seria sobre negro | presentar con peso |
+
+**Hange**
+
+| Dónde | Qué hace | Sirve para |
+|---|---|---|
+| P·24 · ep. 15 · 10:13 | inclinada sobre la mesa, sonríe; Eren la escucha | **explicar** con entusiasmo |
+| P·26 | ante la pizarra, sujeta la lanza rayo | **explicar** con esquema |
+| P·25 | en acción junto a la cara de un titán, emocionada | **celebrar**, pasión |
+| E·9 · ep. 14 | de pie, gafas, junto a Mike | presentar |
+| [tráiler latino 0:30](https://www.youtube.com/watch?v=sFuAhHTgABs&t=30) | T4: capa verde, parche, de frente, brazos caídos | presentar (T4) |
+
+**Mikasa**
+
+| Dónde | Qué hace | Sirve para |
+|---|---|---|
+| P·4 / G1 | saluda, puño derecho al corazón, bufanda | **aceptar** |
+| MAPPA 15 (§2.1) | **de espaldas**, sube hacia el árbol | **celebrar**, final |
+| P·29 | se toca la bufanda, sonríe con lágrimas | calma |
+| [ED 1:20](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=80) | sepia, se toca la bufanda, mira de lado | **pensar** |
+| [PV 0:06-0:08](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=6) | niña con la bufanda roja y leña a la espalda | presentar (infancia) |
+
+**Eren**
+
+| Dónde | Qué hace | Sirve para |
+|---|---|---|
+| P·4 / G1 | en el centro, saluda, cara decidida | **aceptar** |
+| E·10 · [clip 0:48-0:54](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=48) | pañuelo de limpiar al cuello, serio, escucha | **el que obedece** (concepto A) |
+| E·3 · ep. 14 | de rodillas, encadenado al poste | **el que rompe las reglas** |
+| Dibujo de Isayama 2026 | adulto, **puño en alto**, ojos muy abiertos | amenaza (T4) |
+| G4 | levanta la mano herida, a contraluz | amenaza (T4) |
+
+**Secundarios para este canal**
+
+| Quién | Dónde | Qué hace | Sirve para |
 |---|---|---|---|
-| Levi | G2 | cuerpo de tres cuartos, hoja al revés hacia abajo, capa al viento, párpado caído | **presentar** |
-| Levi | G3 | de noche, mira de lado, las dos manos en el mango, ceño fruncido | **pensar**, advertir |
-| Levi | ep. 15 (KYM y YouTube) | con ropa de limpiar, asomado a la ventana, ordena repetir | **regañar con humor** |
-| Levi | ep. 14 | patea a Eren; luego se queda de pie, frío | **regañar**, sancionar (sin sangre en la lámina) |
-| Levi | ep. 53 | **de rodillas** ante Erwin, habla bajo | **animar** en serio |
-| Levi | visual de *AoT 3* | de frente, junto a Mikasa y Armin | **presentar** |
-| Levi | portada de la 2.ª encuesta | con Erwin y Eren | **celebrar** |
-| Erwin | ep. 16 | en alto, de noche, entre antorchas, se dirige a los reclutas | **explicar**, **aceptar** |
-| Erwin | ep. 53 | a caballo, grita y levanta la espada | **animar** |
-| Erwin | ep. 14 | propone al tribunal | **explicar** |
-| Mikasa | G1 | saluda, puño al corazón, bufanda | **aceptar** |
-| Mikasa | visual de MAPPA 15 | camina hacia el árbol, sonríe | **celebrar** |
-| Mikasa | G5 | seria, a media luz | **pensar** |
-| Eren | G1 | en el centro, saluda con cara decidida | **aceptar** |
-| Eren | ep. 14 | encadenado de rodillas | **el que rompe las reglas** |
-| Eren | G4 | levanta la mano herida, a contraluz | **amenaza** (temporada final) |
-| Hange | ep. de Sonny y Bean | experimenta y llora | **explicar** |
-| Shadis | ep. 3 | encara a cada recluta | **regañar** |
-
----
+| Keith Shadis | P·8 · ep. 3 · 01:39-04:03 | encara a cada recluta a gritos, muy cerca | **regañar** |
+| Sasha | P·27 · ep. 3 · 04:40 | come la patata en plena formación | **el que rompe una norma** (humor) |
+| Zackly | E·2, E·3 · ep. 14 · 10:29 | arriba en el estrado, mira hacia abajo | **dictar sentencia** (concepto B) |
+| Nile | P·28 · ep. 14 · 11:38 | lee de un papel ante el tribunal | acusar |
 
 ## 16 · Vestuario
 
+Descripción de la wiki ([«Military (Anime)», uniforme](https://attackontitan.fandom.com/wiki/Military_(Anime)))
+cruzada con lo que se ve en las hojas; colores medidos con Pillow (§5).
+
 | Época | Qué llevan | Colores medidos |
 |---|---|---|
-| Reclutas, T1 (G1) | chaqueta corta marrón claro con el emblema de las **espadas cruzadas** en el bolsillo; camisa clara; correas del equipo | chaqueta `#A07E57` en luz |
-| Legión, T1-T3 (G2) | la misma chaqueta con las **Alas de la Libertad**, capa verde con capucha, pantalón blanco y botas altas marrones ⚠️ (visto en arte, sin fuente escrita) | capa `#1E261F` a `#3C4E3A`; chaqueta `#A1865D` a `#BFA97B` |
-| Levi, ep. 15 | pañuelo blanco en la cabeza y otro sobre la boca | — |
-| Temporada final (G3) | ropa negra de cuello alto bajo la capa verde | capa `#33382B` |
-| Mikasa | **bufanda granate** siempre; pelo corto, más corto en la temporada final | `#743D41` en luz |
+| Uniforme de combate, año 850 (T1-T3) ✅ | **chaqueta corta marrón claro** con el emblema del cuerpo **en los dos hombros, el bolsillo izquierdo y el centro de la espalda**; camisa clara; **faja marrón oscuro** sobre la cadera; **pantalón blanco**; **botas de cuero marrón oscuro hasta la rodilla**; correas del equipo (wiki + G1, G2, P·4) | chaqueta `#A1865D` a `#BFA97B` (arte limpio, G2); `#654327` a la luz de antorcha (E·14) |
+| Reclutas (G1, P·4) | la misma chaqueta con las **espadas cruzadas** | chaqueta `#A07E57` en luz |
+| Legión fuera de las murallas ✅ | **capa verde con capucha, hasta la cadera**, con las Alas de la Libertad en la espalda (wiki + clip del ep. 15, [0:08](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=8)) | capa `#1E261F` a `#3C4E3A`; con niebla `#465241` (E·17) |
+| Uniforme de gala (todos los cuerpos) | **gabardina verde oliva** con los emblemas en los mismos sitios (wiki). La tropa del generalísimo lleva **emblemas en blanco** | — |
+| Levi, ep. 15 | **pañuelo blanco en la cabeza** atado atrás, otro sobre la boca, camisa y correas (P·10, clip 0:32) | pañuelo `#F1EEE6` |
+| Levi, siempre | **chorrera o pañuelo blanco al cuello** bajo la capa (clip [0:14](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=14)) | — |
+| Temporada final, año 854 | **traje negro ajustado** con peto de metal y correas; Levi lleva el traje negro **con la capa verde de siempre** (wiki, ep. 65; G3) | capa `#33382B` |
+| Mikasa | **bufanda granate** siempre; pelo corto, más corto en la temporada final; en MAPPA 15 lo lleva recogido | `#743D41` en luz; `#552C2D` en interior (P·29) |
 | Eren, temporada final (G4) | pelo largo recogido, barba incipiente | piel `#B08E6A` |
+| Con traje (arte de 2026) | Eren, Erwin y Levi con **traje de tres piezas** y corbata (tienda de la *Shonen Magazine*, §2.1). No es de la serie: no mezclar | — |
 
 **Lo icónico que todos reconocen**: chaqueta marrón, capa verde con las alas
-blancas y azules, y las correas del equipo de maniobras. Es el look de T1 a T3.
+blancas y azules, pantalón blanco, botas altas y las correas del equipo de
+maniobras. Es el look de T1 a T3. Para Levi, además, **el pañuelo de limpiar**.
 
 ---
 
 ## 17 · Ciudades, paisajes y fondos de pantalla
 
-- **Fondos de pantalla en alta** (autor desconocido, copias en GitHub): G9
-  (6217×3713, el Colosal), G8 (4500×2500, titanes) y G1 (3840×2160, los
-  reclutas saludando).
-- **Oficiales nuevos** (tamaño sin verificar): visual de MAPPA 15, visual del
-  opening de *AoT 3*, visual del Día de AoT y visual de *THE LAST ATTACK*
-  (enlaces en el punto 2).
-- **Pueblos**: entramado de madera y tejado rojo; nombres alemanes (biblia
-  anterior). La Muralla es de bloques lisos enormes.
-- Fondos de fans en alta, de Pixiv o Wallpaper Abyss: **no los busqué**.
+**Sitios con su luz** (detalle y hex en §5):
+- **El viejo castillo-cuartel** (ep. 15): torres redondas de piedra clara,
+  rosetón, hierba sin cortar, de día ([clip 0:04-0:12](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=4));
+  dentro, muros de bloques con **luz blanca de ventana** (P·10-11) y el sótano
+  con vela (E·8).
+- **El tribunal** (ep. 14): interior alto, gris verdoso frío, juez arriba (E·1-4).
+- **El patio de noche** (ep. 16): antorchas y luna (E·13-14).
+- **Trost y Stohess**: tejados rojos, entramado de madera, nombres alemanes;
+  la Muralla de bloques lisos enormes (E·21-25).
+- **El cuartel de la T4** (ep. 71): patio de columnas de piedra y verja de
+  hierro, de día ([clip 0:30-0:32](https://www.youtube.com/watch?v=nxQCiDpxeMY&t=30)).
+
+**Fondos de pantalla oficiales** (medidos bajando la imagen, 24-sep-2026):
+
+| Pieza | Tamaño | Enlace |
+|---|---|---|
+| Visual de MAPPA 15 (Mikasa y el árbol) | 1754×2481 | [imagen](https://static.animecorner.me/2026/06/1781686842-a154e001e82b5b0b09f3bf0eaffc3d2f.jpg) (copia de Anime Corner) |
+| Visual de *Attack on Titan 3* | 1500×2121 | [portal](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.68_%E3%80%90SGK%E3%80%91%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%89%88%E6%A8%A9_%E7%B4%8D%E5%93%81_RBG-1.jpg) |
+| Visual «9/9» del Día de AoT | 1920×1730 | [portal](https://aot-portal.com/wp/wp-content/uploads/2026/09/SN_No.2_%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%EF%BC%86%E3%83%AD%E3%82%B4%E7%94%BB%E5%83%8F.webp) |
+| Carteles de las películas (ScreenX) | 1459×2062 cada uno | [1](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.10_aot_GY_V.jpg) · [2](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.11_aot_LA_V.jpg) |
+| Concierto *Symphony from Paradis* | 1080×1080 | [portal](https://aot-portal.com/wp/wp-content/uploads/2026/09/No.14_20260320_AOT2_Web-illustration-originale-sans-aucune-modif-1080-x-1080.jpg) |
+| Los reclutas saludan (P·4) | 3840×2160 | wiki (§2.0) |
+| Arte oficial Eren, Levi y Mikasa (P·1) | 2500×3513 | wiki (§2.0) |
+
+**Fondos de fans en alta** (Wallhaven, por su API, orden «más favoritos»,
+búsqueda «attack on titan», 24-sep-2026; sólo los que sirven y son aptos):
+
+| N.º | Qué es | Tamaño | Autor / fuente |
+|---|---|---|---|
+| W5 | minimalista: el Colosal asoma sobre la Muralla; abajo, una silueta con las alas en rojo, sobre gris azulado | 1920×1080 | **Deto15**, «Wir sind die Jäger» ([DeviantArt](https://www.deviantart.com/deto15/art/Wir-sind-die-Jager-460958222); [Wallhaven](https://wallhaven.cc/w/42v990), 289 favoritos) |
+| W9 | un soldado con capucha y espada, en blanco y negro con ceniza | 1920×1080 | ArtStation [gJXR2E](https://www.artstation.com/artwork/gJXR2E) (autor sin ver: ArtStation dio 403) · [Wallhaven](https://wallhaven.cc/w/m93vg9) |
+| W12 | Levi en estilo manga, blanco y negro, con sangre en la cara | 1920×1357 | ArtStation [dOQRvK](https://www.artstation.com/artwork/dOQRvK) (autor sin ver) · [Wallhaven](https://wallhaven.cc/w/96z1ww) |
+| W8 | Eren de la T4 y otros entre estatuas blancas, luz clara de ventana | 1920×1080 | sin fuente · [Wallhaven](https://wallhaven.cc/w/gpqz2l) |
+| G9 | el Colosal en 3D entre humo rojo | 6217×3713 | sin autor (copia en GitHub, §2) |
+
+De los 12 primeros de Wallhaven, 4 son *fanservice* y 2 mezclan series: no
+sirven. Para #reglas, **W5** (sobrio, paleta de la serie) es el único que
+encaja como fondo; los demás, sólo como referencia de tono.
 
 ---
 
 ## 18 · Guía para generar con IA (Firefly o Canva)
 
 **Rasgos que nunca cambian**
-- **Levi**: pelo negro con raya al medio y la nuca rapada, ojos estrechos gris
-  azulado con ojeras marcadas y cara seria. Es bajo: 1,60 m. En T1-T3, chaqueta
-  marrón y capa verde. Coge la hoja al revés.
-- **Erwin**: rubio con raya al lado, cejas gruesas, alto y ancho. ⚠️ Un solo
-  brazo después de la T2.
-- **Hange**: gafas, cola de caballo desordenada y bata o uniforme.
-- **Mikasa**: pelo negro corto y bufanda granate.
+- **Levi**: pelo negro liso con raya al medio y **nuca rapada**; ojos estrechos
+  **gris acero** con **ojeras**; cara joven y seria. **Bajo: 160 cm, 65 kg** ✅
+  (ficha de la wiki, del folleto de la película, y Wikipedia). Pañuelo o
+  chorrera blanca al cuello. Coge la hoja al revés. No sonríe.
+- **Erwin**: rubio con raya al lado, **cejas gruesas**, alto y ancho, corbata
+  de bolo verde. **Un solo brazo (el izquierdo) desde el ep. 36** ✅.
+- **Hange**: gafas, cola de caballo desordenada; en la temporada final, parche
+  en un ojo (P·7).
+- **Mikasa**: pelo negro corto y **bufanda granate** (no roja chillona).
+- **Uniforme T1-T3**: chaqueta corta marrón claro con el emblema en hombros,
+  bolsillo y espalda; faja marrón oscuro; pantalón blanco; botas marrones
+  altas; correas; capa verde oliva con capucha (§16).
 
 **Estilo**
-- Anime japonés de los años 2010, estilo WIT Studio.
+- Anime japonés de los años 2010, estilo WIT Studio (T1-T3).
 - **Contorno negro fino con muchas líneas de tensión** en cuello, ojos y
   pliegues de ropa.
 - Sombra en dos tonos, dura. Poco brillo.
-- Paleta apagada: oliva, marrón cuero, piedra crema y azul grisáceo.
+- Paleta apagada (§5): capa `#1E261F`-`#3C4E3A`, chaqueta `#A1865D`, piedra
+  `#34362A`-`#595845`, cielo `#74A9CD`, tribunal `#455B5E`, antorcha `#D29258`.
 
-**Luz**: tarde dorada con sombras frías (biblia anterior), antorcha de noche
-(`#D29258`) o luz de ventana en piedra.
+**Luz**: tarde dorada con sombras frías (OP 0:20-0:24), antorcha de noche
+(E·14, `#D29258`), luz blanca de ventana sobre piedra (P·10, clip del ep. 15)
+o luz alta y fría del tribunal (E·1).
 
-**Encuadre**: plano medio desde abajo, capa al viento, algo delante del personaje.
+**Encuadre**: plano medio desde abajo, capa al viento, algo delante del
+personaje (cubo, cadena, antorcha).
 
-**Palabras que ayudan**: *Survey Corps cloak, olive green, leather harness,
-stone castle interior, torchlight, parchment, WIT Studio 2013 anime style, thick
-tension lines, muted palette*.
+**Palabras que ayudan**: *Survey Corps cloak, olive green hooded cape, short
+tan leather jacket, white trousers, knee-high brown boots, leather harness,
+stone castle interior, window light, torchlight, parchment, WIT Studio 2013
+anime style, thin black lineart with tension lines, two-tone cel shading,
+muted palette*.
 
 **Palabras que lo estropean**: *chibi, pastel, glossy, neon, 3D render, smiling
-Levi, cute*, y cualquier cosa que ponga texto con la IA. Las letras se ponen
-después, con las fuentes del punto 6.
+Levi, cute, tall Levi, red scarf bright*, y cualquier cosa que ponga texto con
+la IA. Las letras se ponen después, con las fuentes del punto 6.
 
-**Referencias de estilo**: G2 (línea y color limpios), G1 (grupo y saludo) y G3
-(temporada final de noche).
+**Ejemplo de descripción (fondo, sin personaje)**: *«interior of an old stone
+castle, large grey-green stone blocks, tall window with white daylight,
+dust floating in the light beam, wooden bucket and broom in the foreground,
+oak board with a paper notice pinned on the wall, 2013 TV anime background
+art, muted palette, no people, no text»*.
+
+**Referencias de estilo** (subirlas como imagen de referencia): P·1 y G2
+(línea y color limpios de WIT), P·10 (Levi con pañuelo), E·8 y E·18 (piedra del
+cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo).
+**No usar** como estilo G7-G9 ni el arte de la T4 si la lámina es de T1-T3.
 
 ---
 
@@ -954,21 +1202,26 @@ después, con las fuentes del punto 6.
 ### Concepto A · «Reglamento del cuartel» (las reglas, con Levi limpiando)
 
 - **Objeto y sitio**: un **tablón de roble colgado con clavos de hierro** en el
-  muro de piedra del viejo castillo-cuartel del ep. 15. Encima va una **hoja de
-  papel verjurado clavada**, con las normas. En Blender es fácil: una tabla, un
-  papel con ondas, clavos y un cubo.
+  muro de piedra del viejo castillo-cuartel del ep. 15: la sala de bloques con
+  banco de madera y ventana alta del [clip, 0:26-0:30](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=26)
+  (y E·18). Encima va una **hoja de papel verjurado clavada**, con las normas,
+  con la **orla de enredaderas** de la ficha del ep. 25 (F·10). En Blender es
+  fácil: una tabla, un papel con ondas, clavos, el cubo y la escoba de Sketchfab
+  (§4.1).
 - **Personaje**: **Levi**, el más querido, con su **ropa de limpiar**: pañuelo
-  en la cabeza y sobre la boca. Pose de «regañar con humor»: de pie, de tres
-  cuartos, un trapo en la mano, la otra señala el tablón, párpado caído. Cara de
-  G2 y ropa de la escena del ep. 15
-  ([Know Your Meme](https://knowyourmeme.com/memes/cleaning-levi) ·
-  [YouTube](https://www.youtube.com/watch?v=GLpLwuaBk-s)).
+  blanco en la cabeza, el de la boca bajado al cuello. Pose de «regañar con
+  humor»: de tres cuartos, **con dos dedos se baja el pañuelo** como en P·10
+  ([clip 0:32-0:34](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=32)), la otra
+  mano con un trapo; mirada de párpado caído de la puerta del
+  [clip 2:24-2:28](https://www.youtube.com/watch?v=GLpLwuaBk-s&t=144) («hazlo
+  todo otra vez»). Alternativa: P·11 (el dedo con polvo).
 - **Cómo habla**: su frase va en una **ficha «Información pública»** pequeña
-  clavada en la esquina del tablón: papel `#F4EEEF` y cinta de pincel `#5C0001`.
-  Título en Yuji Boku blanco; frase en Shippori Mincho B1. La frase: «Esto es
-  limpiar de verdad. ¿Entendido?». Es **nuestra traducción** de su frase oficial
-  japonesa del aspirador (「これが本物の掃除だ。分かったか？」). **No es del
-  doblaje latino.**
+  clavada en la esquina del tablón: papel `#F2F2F2`, tinta `#222222` y **la
+  cinta ocre del ep. 15** (`#948352`, F·5), no la roja. Título en Yuji Boku
+  blanco; frase en Shippori Mincho B1. La frase: **«Es una regla que hay que
+  cumplir.»** (Levi a Eren, ep. 15 · 05:38, 守るべきルールだ). Otra: «Esto es
+  limpiar de verdad. ¿Entendido?» (su aspirador oficial). Las dos son
+  **traducción nuestra** del japonés: **no hay muestra latina** de ellas.
 - **Dónde va cada texto**:
   - En la cinta: «NORMAS DEL CUARTEL».
   - En la hoja grande, las ocho reglas: número en IM Fell English, texto en
@@ -976,8 +1229,9 @@ después, con las fuentes del punto 6.
   - Al pie de la hoja: «Al quedarte, las aceptas.»
   - En la ficha: la frase de Levi.
 - **Para que no quede plano**:
-  - Un rayo de luz de ventana cruza en diagonal, con **polvo flotando**: el chiste
-    es que Levi lo odia.
+  - Un rayo de luz de ventana cruza en diagonal (luz `#EEF3E4`, P·11), con
+    **polvo flotando**: el chiste es que Levi lo odia (y el fandom lo adora:
+    §13, 4275 votos en Reddit).
   - Delante, desenfocados: el **cubo de madera con el trapo** y el mango de la escoba.
   - Levi medio en sombra.
   - El papel proyecta sombra sobre la tabla.
@@ -989,17 +1243,22 @@ después, con las fuentes del punto 6.
   los grilletes**, de hierro. Todo se puede modelar: caja de madera, libro,
   cadena.
 - **Personajes**:
-  - **Zackly** detrás del estrado: es el que dicta. Poses de la galería de la
-    biblia anterior, n.º 129, 255, 256 y 459.
-  - **Levi** apoyado de brazos cruzados junto al poste: el que hace cumplir, sin
+  - **Zackly** detrás del estrado, arriba: es el que dicta (E·2, E·3; cara de
+    P·9). Composición de E·3: juez arriba, poste abajo.
+  - **Levi** de brazos cruzados junto al poste, como en el dibujo de Isayama de
+    2026 (§2.1), con la mirada de reojo de P·13: el que hace cumplir, sin
     sangre.
   - Así sale el más querido y no se repite la pose de A.
 - **Cómo habla**:
   - La **sentencia**, escrita en el libro con IM Fell English y tinta que sigue
     la curva de las páginas.
-  - Zackly no lleva globo: su voz es el acta.
-  - Levi, en una ficha pequeña: «Tch. Lo que hagas, queda escrito.» (propuesta
-    nuestra, no es del doblaje).
+  - Zackly, en una **ficha del tribunal con cinta verde** (`#26694F`, ep. 14,
+    F·3-4), con su frase **del doblaje latino** (ep. 14 · 10:29, muestra de
+    Doblaje Wiki): «**La decisión final la tomaré yo, ¿entendido?**».
+  - Levi, opcional, en una ficha pequeña: «Tch. Lo que hagas, queda escrito.»
+    (propuesta nuestra, no es del doblaje).
+  - Arriba de la página izquierda, la balanza de F·4 con «CULPABLE / INOCENTE»
+    en Stardos Stencil (el GUILTY / NOT GUILTY de la ficha).
 - **Dónde va cada texto**:
   - En la página izquierda del libro: la escala de sanciones como pasos
     numerados. Aviso, silenciado, expulsión, baneo, y «lo grave, directo».
@@ -1019,13 +1278,16 @@ después, con las fuentes del punto 6.
   colgada de un mástil de madera en el patio del cuartel **de noche con
   antorchas** (ep. 16). En Blender, la tela se simula y la pintura sigue los
   pliegues.
-- **Personaje**: **Erwin** en el estrado, con los dos brazos (es T1), iluminado
-  desde abajo. Delante, de espaldas y en silueta, **reclutas haciendo el
-  saludo**, puño derecho al corazón (G1).
+- **Personaje**: **Erwin** en el estrado, con los dos brazos (es el ep. 16;
+  pierde el derecho en el 36), iluminado desde abajo como en E·13. Delante, de
+  espaldas y en silueta, **reclutas haciendo el saludo**, puño derecho al
+  corazón (E·14 · ep. 16 · 14:13, P·4).
 - **Cómo habla**:
-  - La frase latina **confirmada**: «¡Consagren sus corazones!».
-  - Va en una **cinta de pincel roja `#5C0001`** atada al mástil, en Yuji Boku
-    blanco. Es la misma cinta de la ficha «Información pública»: el sello de la serie.
+  - La frase latina **confirmada**: «¡Consagren sus corazones!» (Erwin, ep. 16 ·
+    14:13, muestra de Doblaje Wiki; y título del clip oficial de Crunchyroll).
+  - Va en una **cinta de pincel oro viejo `#796120`** (la del ep. 16, F·7)
+    atada al mástil, en Yuji Boku blanco. Es la cinta de la ficha «Información
+    pública»: el sello de la serie.
 - **Dónde va cada texto**:
   - En la cinta, la frase de Erwin.
   - Pintado en la bandera, bajo las alas: «Al quedarte, las aceptas.»
@@ -1033,7 +1295,8 @@ después, con las fuentes del punto 6.
 - **Para que no quede plano**:
   - **Antorchas en primer plano**, con brillo `#D29258`.
   - Siluetas de espaldas que tapan el borde inferior.
-  - Chispas en el aire y la noche azul `#202743` al fondo.
+  - Chispas en el aire y la noche fría del ep. 16 al fondo (`#29292D` a
+    `#514F57`, medida en E·13; la `#202743` es de la temporada final).
   - La bandera ondea hacia la cámara.
 
 > Otra idea para después: cuando salga *Attack on Titan 3* (10-dic-2026),
