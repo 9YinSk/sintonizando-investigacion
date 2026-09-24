@@ -328,11 +328,11 @@ los 3 patrones de tela por casa que faltaban en el punto 19.
 - Nada de esto tocó `biblia.md`, `hojas/` ni las consultas ya hechas en
   `datos-imagen.md`.
 
-Sigue: nada obligatorio pendiente de los puntos 19 y 23 (ver «Cumplimiento»
-abajo); lo que falta son extras ya listados en «No encontré». Si se retoma,
-seguir por: silueta heráldica de serpiente/águila/tejón en Openclipart,
-licencia de los patrones de Ravelry, y un cosplay documentado de Hermione o
-Draco con materiales (para completar el abanico de personajes del encargo).
+Parte terminada: los puntos 19 y 23 están completos con lo obligatorio (ver
+tabla de abajo). Lo que queda son extras, ya en «No encontré»: silueta
+heráldica de serpiente/águila/tejón en Openclipart, licencia exacta de los
+patrones de Ravelry, y un cosplay documentado de Hermione o Draco con
+materiales.
 
 ## Cumplimiento de mis puntos (19 y 23)
 

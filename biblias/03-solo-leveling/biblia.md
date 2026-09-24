@@ -1067,13 +1067,92 @@ Tamaños por la API de la wiki. **Los miré en una hoja propia** y medí el colo
 
 ## Punto 24 · Obras parecidas y láminas vecinas
 
-_(pendiente)_
+> Parte de texto, más `datos-texto.md` (AniList).
+
+### Las que recomiendan los fans y la prensa
+- **AniList** (votos de usuarios): *Sword Art Online* (166), ***Tower of God*** (88), ***The Eminence in Shadow*** (60), *I Got a Cheat Skill in Another World…* (56), ***The God of High School*** (55), *Tomb Raider King* (52), *Shangri-La Frontier* (16) ([AniList](https://anilist.co/anime/151807)) ✅.
+- **La prensa repite los mismos** ([MovieWeb](https://movieweb.com/best-action-anime-like-solo-leveling/), [Dexerto](https://www.dexerto.com/anime/best-anime-like-solo-leveling-2463795/), [ScreenRant](https://screenrant.com/best-anime-like-solo-leveling-watch/)) ✅:
+  - ***Tower of God***: subir piso a piso, con más misterio.
+  - ***The Eminence in Shadow***: el mismo gancho del poder oculto y un «ejército» propio, pero en parodia. Al revés de Solo Leveling, que va en serio.
+  - Mazmorras y «sistema»: *Shangri-La Frontier*, *DanMachi*, *Overlord*, *Noblesse*.
+  - Frase de uno de ellos: «**la trinidad del webtoon** (*Tower of God*, *God of High School*, *Noblesse*) es el ADN más parecido».
+- **La pareja segura** si se hace una encuesta o un evento cruzado: *Tower of God* y *The Eminence in Shadow*.
+
+### Influencias del autor
+- **Chugong** casi no da entrevistas. Un blog de una tienda francesa dice que es fan de los RPG y de la «fantasía de progresión», y que el Sistema viene de juegos como **Diablo, Skyrim o World of Warcraft** ([solo-leveling.fr](https://solo-leveling.fr/en/blogs/blog-solo-leveling/chugong-le-genie-creatif-derriere-le-phenomene-solo-leveling)) ⚠️. **No encontré** una entrevista suya que lo diga (busqué en coreano e inglés).
+- Lo que sí dijo, citado: simplificó el trasfondo cósmico (el **Itarim**, un dios por universo) para no ser «demasiado sombrío» con lectores jóvenes ([CBR, entrevista](https://www.cbr.com/solo-leveling-chugong-interview-removed-itarim-light-novel-bleak/)) ✅.
+
+### Obras relacionadas
+- ***Solo Leveling: Ragnarok***, la continuación en manhwa, con su propia lista de arcos ([wiki: Story Arcs (Ragnarok)](https://solo-leveling.fandom.com/wiki/Story_Arcs_(Ragnarok))) ✅.
+- La película resumen ***ReAwakening*** («Segundo despertar» en latino, §12.1) y ***Beyond the System***, en producción (§2).
+- ***Omniscient Reader's Viewpoint***, el otro gran fantástico coreano: comparte editorial en inglés y la tienda «System Sync» (punto 23). En Safebooru sale junto a Solo Leveling (su protagonista, Kim Dokja, aparece en la búsqueda de fan art).
+
+### Láminas vecinas del servidor (para no repetir)
+- **One Piece (01) y Attack on Titan (02)** avisan en sus biblias de que su tablón debe **distinguirse del de Solo Leveling**: «Que no parezca el tablón de Solo Leveling: madera de barco y clavos, nunca corcho» ✅ (leído en sus biblias). **El tablón de corcho del Concepto B es ya de Solo Leveling**: si se rehace, que siga siendo corcho.
+- **Jujutsu Kaisen (32), Demon Slayer (31), Naruto (30), My Hero Academia (25) y One Punch Man (35)**: ninguna usa un mostrador de recepción, una ventana de juego ni un salón del trono. **No hay choque** con los tres conceptos (revisado por el índice de cada biblia).
+- **Frieren (33)** tiene la colaboración con *ARISE* y una partida grabada con la caja de diálogo del juego ✅.
 
 ---
 
 ## Punto 25 · El mundo, la historia por arcos y sus símbolos
 
-_(pendiente)_
+> Parte de texto. Fuente base: la wiki por su API ([Class Ranks](https://solo-leveling.fandom.com/wiki/Class_Ranks), [Guilds](https://solo-leveling.fandom.com/wiki/Guilds), [Story Arcs](https://solo-leveling.fandom.com/wiki/Story_Arcs)), cruzada con los títulos de episodio de [Wikipedia](https://en.wikipedia.org/wiki/List_of_Solo_Leveling_episodes) ✅.
+
+### El mundo en cinco líneas
+1. Hace unos **8-9 años** se abrieron **portales** a **mazmorras** llenas de monstruos. A la vez, algunas personas despertaron con **maná**: son los **cazadores**.
+2. Cada cazador tiene un **rango, de E (el más débil) a S**. Fija el sueldo y el respeto, y **es de por vida**, salvo un «segundo despertar» rarísimo.
+3. Los **gremios** son empresas que limpian mazmorras. La **Asociación de Cazadores** de cada país lo regula todo (la coreana, en Guro, Seúl, §9).
+4. **Jinwoo es la excepción:** el **Sistema** lo elige como «Jugador» y le deja subir de nivel sin techo.
+5. Detrás del Sistema hay un **Arquitecto** y una guerra entre **Monarcas** y **Gobernantes** que llega a la Tierra (spoiler, sin animar).
+
+### La historia por arcos
+*En el anime (T1-T2, ep. 1-25). Nombres de arco de la wiki, traducidos por mí: no son títulos oficiales latinos.*
+1. **Mazmorra de rango D** (ep. 1-3): la mazmorra doble; muere casi todo el grupo.
+2. **El despertar** (ep. 3): despierta en el hospital y ve el Sistema.
+3. **Mazmorra instantánea** (ep. 3-4): su primera cacería solo.
+4. **Mazmorra y lagartos** (ep. 5-6): la encerrona de Kang Taeshik.
+5. **Mazmorra y presos** (ep. 7-9).
+6. **El grupo de Yoo Jinho** (ep. 10): forma equipo con Jinho.
+7. **Cambio de clase** (ep. 11-12): el caballero rojo del trono vacío (**Igris**) y el primer «Surge».
+8. **Red Gate** (ep. 13-14): la trampa en la incursión del Tigre Blanco.
+9. **Castillo de los Demonios** (ep. 15): a por el agua de la vida.
+10. **Reevaluación** (ep. 16): el medidor no puede con él.
+11. **Portal del Gremio de Cazadores** (ep. 16-18): de minero en un portal de rango A.
+12. **Vuelta al Castillo** (ep. 18-21): Esil Radiru y **Baran**, el Rey Demonio. El agua sagrada para su madre (punto 21).
+13. **Isla de Jeju** (ep. 21-25): la incursión y **el Rey Hormiga** (Beru).
+14. **Reclutamiento** (ep. 25).
+
+*Sin animar (webtoon y novela):* Gremio Ahjin, vuelta a la mazmorra doble, crisis de Japón, Conferencia Internacional de Gremios (aparecen **Monarcas y Gobernantes**), Guerra de los Monarcas, batalla final contra **Antares**, el Rey Dragón, epílogo ([wiki: Story Arcs](https://solo-leveling.fandom.com/wiki/Story_Arcs)) ✅. No van en la lámina (§17).
+
+### Emblemas
+- Los de los gremios, **mirados y medidos**, están en el **punto 19**. El más útil es el de **Ahjin** (llama violeta, 700×700), el gremio de Jinwoo.
+- Los **grados de las sombras** (Normal → Élite → Caballero → Caballero de élite → General → Mariscal) ya están en el Concepto C (§20).
+
+### Objetos icónicos
+- **La ventana del Sistema** (§4). Y el **panel del Sistema como pieza física** del Nendoroid (punto 23).
+- **Espada del Rey Demonio:** la usaba **Baran**; Jinwoo se la da a **Igris** y, años después, es de **Cha Hae-In**. Hoja clara con una línea negra central y guarda arqueada ([wiki](https://solo-leveling.fandom.com/wiki/Demon_King%27s_Longsword)) ✅.
+- **Knight Killer**, la daga que compra en la tienda del Sistema (ep. 12; §10 y Nendoroid) ✅.
+- **La Ira de Kamish:** dos dagas del colmillo del dragón Kamish, naranjas con filo rojo (webtoon) ([wiki](https://solo-leveling.fandom.com/wiki/Kamish%27s_Wrath)) ✅. **Aún no sale en el anime**: no usarla.
+- **La Estatua del Dios:** su nombre coreano es un juego de palabras, **신상 (Shin-Sang)** = «dios» + «estatua» ([wiki: Statue of God](https://solo-leveling.fandom.com/wiki/Statue_of_God)) ✅. Curiosidad para un texto del bot.
+
+### Vocabulario que un fan reconoce al instante
+| Latino (Crunchyroll, §4 y §12.3) ✅ | Original | Nota |
+|---|---|---|
+| **Portal** | Gate | |
+| **Mazmorra** | Dungeon | |
+| **Asociación de Cazadores** | Hunters Association | |
+| **Rango E… S** | E-Rank… S-Rank | |
+| **Gremio** | Guild | |
+| **Licencia de cazador** | Hunter's License | |
+| **Soldados sombríos** | Shadow soldiers | |
+| **Perjuicio** | debuff | |
+| **«Surge.»** | «Arise.» | la orden de extracción: lo más citado |
+| **Rey de las Sombras** | Shadow Monarch | **no** «Monarca de las Sombras» |
+| **Monarca** | Monarch | sólo para otros: «Monarca Demoníaco Baran» |
+
+*Sin nombre latino comprobado* ⚠️ (en inglés; los cuatro primeros son de arcos sin animar): Architect (Kandiaru, el «moderador» del Sistema), Monarchs / Rulers, Dungeon Break (la mazmorra que revienta al mundo), Itarim (un dios por universo; [CBR](https://www.cbr.com/solo-leveling-chugong-interview-removed-itarim-light-novel-bleak/)). Estos dos **sí salen en el anime**, pero no comprobé cómo los dice el doblaje: Red Gate (el portal-trampa de los ep. 13-14, que no se puede cerrar desde fuera) y Essence Stone / Mana Crystal (lo que se vende de las mazmorras).
+
+**Para la lámina:** los 14 arcos, uno por renglón, son una línea de tiempo lista para el hilo **«De qué va esto»**. Los rangos E→S y los grados de las sombras dan la escalera de roles.
 
 ---
 
