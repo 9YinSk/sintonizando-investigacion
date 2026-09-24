@@ -108,7 +108,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] 29-por-decidir-seis-canales-sin-serie
 - [x] 30-naruto
 - [x] 31-demon-slayer-kimetsu-no-yaiba
-- [ ] 32-jujutsu-kaisen
+- [x] 32-jujutsu-kaisen
 
 ## Tanda S9
 
