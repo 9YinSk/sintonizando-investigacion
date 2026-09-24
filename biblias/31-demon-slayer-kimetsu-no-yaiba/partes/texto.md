@@ -147,6 +147,15 @@ citada (52 fuentes + las nuevas de `imagen.md`) para no repetir dominio.
   con el `.blend` original enlazado a Google Drive) ✅. Ninguno de estos
   9 enlaces se repite con los 15 ya citados en la biblia (todos IDs de
   Sketchfab distintos, comprobado con `grep`).
+- **Texturas encima del render**: para que el 3D no se vea «demasiado
+  limpio», una capa de **grano de papel o pincelada** en modo *Overlay*
+  (baja opacidad) sobre el render final rompe el aspecto sintético; las
+  texturas CC0 concretas (papel, tela, madera) ya las buscó el
+  investigador de imagen en el punto 4 de la biblia (§5, ambientCG): no
+  se repiten aquí, sólo se indica **dónde va la capa** en el flujo de
+  Blender → Photoshop (render de Blender como capa base, textura encima
+  en *Overlay* u *Soft Light*, línea de Freestyle como capa superior en
+  *Multiply*).
 - **Luz y render**: Freestyle/Grease Pencil para el contorno + un *world*
   con luz plana de área (evitar sombras duras) reproduce el look de
   ufotable mejor que un render PBR normal, según la misma guía de
@@ -440,6 +449,109 @@ están medidos y con equivalente libre en `partes/imagen.md` §19.1-19.2.
 
 ## Bitácora
 
-Sigue: falta empezar.
+### Red
+
+- **Funcionó**: WebSearch (16 búsquedas), WebFetch (10 páginas), API de
+  Sketchfab (curl directo, 2 consultas), API de Kimetsu no Yaiba Wiki
+  (`action=parse` con `curl`, 3 consultas, sin repetir las de
+  `datos-texto.md`).
+- **Bloqueado**: `w.atwiki.jp` (403 en directo; su copia en Wayback
+  cortó la conexión dos veces, sin insistir más — máximo de intentos de
+  AYUDANTE.md); WebFetch no puede leer `web.archive.org` directamente
+  (error propio de la herramienta, no del sitio).
+
+### Búsquedas web (16 del cupo de ~50, todas nuevas, no repiten
+`datos-texto.md`)
+
+| # | Idioma | Búsqueda | Qué dio |
+|---|---|---|---|
+| 1 | en | ufotable Demon Slayer animation technique 2D 3D CGI interview | blog jb siraudin, Popverse, Sakuga-adyacentes |
+| 2 | ja | CGWORLD 鬼滅の刃 ufotable 制作 インタビュー | Autodesk AREA JAPAN (2 partes), CGWORLD/NVIDIA |
+| 3 | ja | 吾峠呼世晴 漫画 使用画材 ペン インタビュー | nada específico de plumilla (⚠️) |
+| 4 | en | Demon Slayer style toon shader Blender tutorial anime cel shading Freestyle | Yarsa DevBlog, Instructables, StraySpark |
+| 5 | en | "Demon Slayer" Tanjiro rig free Blender download character model | Sketchfab (K-, Light.k, AbaKat) |
+| 6 | en | sakugabooru OR "sakuga blog" Demon Slayer animation analysis key animator | Sakuga Blog 2019, animadores nombrados |
+| 7 | en | Gotouge Koyoharu analog hand-drawn manga no digital interview Weekly Shonen Jump | nada directo (⚠️) |
+| 8 | ja | 鬼滅の刃 吾峠呼世晴 アナログ 原稿 手描き 編集者 | discoverjapan-web.com (原画展), livedoor News (entrevista al editor) |
+| 9 | en | Demon Slayer manga line art brush "Clip Studio" free download ufotable ink style | Clip Studio Assets (Manga Line Brush), DeviantArt |
+| 10 | en | Gotouge Koyoharu influences manga inspirations interview | resultados genéricos, sin la cita concreta |
+| 11 | en | Demon Slayer Total Concentration Breathing inspired by JoJo Hamon Ripple influence Gotouge | ScreenRant (confirma JoJo/Bleach/Naruto) |
+| 12 | en | Photoshop anime manga line art brush free download inking cel shading tutorial | DeviantArt (Pearlpencil), Brusheezy, Creative Bloq |
+| 13 | en | Demon Slayer story arcs in order list Final Selection … Infinity Castle | CBR (lista completa con capítulos) |
+| 14 | en | Demon Slayer glossary terms Nichirin blade Twelve Kizuki Upper Lower Moon Total Concentration explained | CBR, GamesRadar+, wiki |
+| 15 | en | Demon Slayer world rules explained Taisho era demons sunlight regeneration Nichirin sword ore | resumen cruzado con CBR |
+| 16 | ja | 鬼滅の刃 影響を受けた漫画 吾峠 *(no llegó a lanzarse: cubierta por #11)* | — |
+
+### Sin cupo (API, curl directo)
+
+- API de Sketchfab: `search?type=models&q=Tanjiro%20rig&downloadable=true`
+  y `q=demon%20slayer%20rigged` (2 consultas) + `GET /v3/models/<uid>`
+  para 4 modelos (licencia, caras, autor).
+- Kimetsu no Yaiba Wiki, `action=parse&prop=wikitext`: «Demon Slayer
+  Corps» (2 veces, secciones distintas) y «Nichirin Sword» — 3 llamadas,
+  ninguna repetida de `datos-texto.md` (que sólo trajo AniList y Steam).
+- `action=query&list=search`: 2 consultas de comprobación (no aportaron
+  página nueva, descartadas).
+
+### Fuentes consultadas (32 enlaces distintos, en 21 dominios; 17 de esos
+dominios son nuevos, ninguno de los 52 de la bitácora principal ni de los
+~14 que sumó `imagen.md` — comprobado con `grep -o` sobre los tres
+archivos)
+
+**Entrevistas técnicas oficiales/de industria (5)**:
+[Autodesk AREA JAPAN, parte 1](https://area.autodesk.jp/case/animation/kimetsu-01/) ·
+[Autodesk AREA JAPAN, parte 2](https://area.autodesk.jp/case/animation/kimetsu-02/) ·
+[CGWORLD × NVIDIA, ufotable](https://cgworld.jp/special-feature/202410-nvidia-hp-ufotable.html) ·
+[Popverse — entrevista a Yuichi Terao](https://www.thepopverse.com/movies-demon-slayer-kimetsu-no-yaiba-yuichi-terao-interview-making-the-infinity-castle-feel-infinite) ·
+[livedoor News — entrevista al editor Tatsuhiko Katayama](https://news.livedoor.com/article/detail/17760339/).
+
+**Prensa sobre el autor (1)**: [Discover Japan — exposición de originales
+de Gotouge](https://discoverjapan-web.com/article/74084).
+
+**Análisis técnico de animación (2)**: [Sakuga Blog — The Power of
+Ufotable's Harmony](https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/) ·
+[jb siraudin — The Visual Design of Demon Slayer's
+Combats](https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/).
+
+**Cómo replicar en Blender (4)**: [Yarsa DevBlog — Toon Shading Effect in
+Blender](https://blog.yarsalabs.com/basic-toon-shader-in-blender/) ·
+[Instructables — Custom Toon Shader in
+Blender](https://www.instructables.com/Custom-Toon-Shader-in-Blender/) ·
+[StraySpark — How to Get an Anime / Toon Look in Blender
+(2026)](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender) ·
+2 tutoriales en YouTube (Comfee, «ANIME in BLENDER!»).
+
+**Modelos 3D con licencia (Sketchfab, 6 perfiles/modelos nuevos,
+distintos de los 15 ya citados)**: Light.k (Tanjiro, Akaza, Rengoku,
+Inosuke, Giyu, Nezuko, Teoni — serie completa) · AikoX (Nezuko) · K-
+(Tanjiro ×2) · AbaKat (Tanjiro con *shapekeys*).
+
+**Cómo replicar en Photoshop / Clip Studio (4)**: [DeviantArt — Manga
+Brush Line for Photoshop (Pearlpencil)](https://www.deviantart.com/pearlpencil/art/Manga-Brush-Line-for-Photoshop-268440777) ·
+[Brusheezy — Manga Ink](https://www.brusheezy.com/free/manga-ink) ·
+[Creative Bloq — Create manga-style
+artworks](https://www.creativebloq.com/animation/create-manga-style-artworks-2118703) ·
+[Clip Studio Assets — Manga Line
+Brush](https://assets.clip-studio.com/en-us/detail?id=1707223).
+
+**Historia, mundo y glosario (3)**: [CBR — Every Demon Slayer Arc, In
+Order](https://www.cbr.com/demon-slayer-arcs-chronological-order/) ·
+[CBR — Demon Slayer's Nichirin Swords,
+Explained](https://www.cbr.com/demon-slayer-nichirin-swords-explained/) ·
+[GamesRadar+ — Upper Moons /Twelve
+Kizuki](https://www.gamesradar.com/entertainment/anime-movies/demon-slayer-upper-moons-twelve-kizuki-ranks/).
+
+**Obras parecidas (1)**: [ScreenRant — Demon Slayer's Creator Confirms
+Their One Surprising Manga
+Influence](https://screenrant.com/demon-slayer-jojos-bizarre-adventure-surprising-influence/).
+
+**Wiki de la serie, páginas nuevas (2, mismo dominio ya citado pero
+páginas distintas)**: [Nichirin
+Sword](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) ·
+[Twelve Kizuki](https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki) ·
+[Demon Slayer
+Corps](https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps) ·
+[Britannica —
+Demon Slayer](https://www.britannica.com/topic/Demon-Slayer).
 
 Sigue: investigar punto 18 (técnica del estudio, cómo replicar en Photoshop/Blender, encuadres), punto 24 (obras parecidas más allá de AniList, influencias del autor, comparación con otras láminas del servidor) y punto 25 (mundo, arcos de la historia, símbolos) — todo con fuentes nuevas, distintas de las 52+ ya citadas.
