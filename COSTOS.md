@@ -20,3 +20,4 @@ panel de uso de la cuenta cuando el dueño los diga.
 
 En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del sistema en la sesión principal (Opus) y las 7 tandas de arriba.
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | imagen | Sonnet | 18 | 185 569 | 68 acciones, una sola tanda sin «Sigue:»; 20 hex medidos, 28 referencias, 6 modelos 3D con licencia |
+| 24-sep | 01 One Piece | repaso (económico) | redactor | Opus | 24 | 505 845 | 78 acciones; biblia de 1 430 a 2 640 líneas, 345 referencias, 111 webs, COMPLETA y subida |
