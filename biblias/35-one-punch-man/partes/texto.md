@@ -492,6 +492,9 @@ el encargo explícitamente: **interfaz de juego** y **subtítulos o créditos**.
   Punch Man collaboration 2026 interface screenshot skin menu».
 - **Español**: «One Punch Man Ivrea tomo interior scan globo letra español
   manga».
+- **Japonés**: «村田雄介 ワンパンマン 作画 ソフト クリップスタジオ
+  インタビュー» → llevó a la charla de Logmi Business (leída completa) y a
+  la respuesta de Yahoo!知恵袋 sobre su proceso de entintado a mano.
 - **Sitios leídos directamente** (curl, con user-agent de navegador cuando
   hizo falta): `ask.clip-studio.com` (bloqueado, SPA en JS), `tvtropes.org`
   (bloqueado, Cloudflare), `animenewsnetwork.com` (bloqueado en el intento de

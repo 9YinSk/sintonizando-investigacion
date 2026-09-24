@@ -33,9 +33,51 @@ fecha: 2026-09-24
 >   Namu Wiki (403) y las Wikipedias coreana y china (429). De chino, sólo el
 >   航海王wiki de Fandom.
 >
+> **Repaso del equipo (24-sep-2026, tarde, red abierta).** Primero un piloto
+> de 8 investigadores que se cortó a medias y luego 4 (imagen, vídeo, voz y
+> texto), cada uno con su parte en `partes/`; un redactor lo juntó aquí. Se
+> pudo usar: la One Piece Wiki en inglés, español y **japonés**; one-piece.com
+> con la cabecera correcta; **Internet Archive** (fotogramas sueltos de
+> episodios con `ffmpeg`, sin bajarlos enteros); Dailymotion; *storyboards* de
+> YouTube por ratos; **27 muestras** de Doblaje Wiki con `voz.py`; Reddit por
+> **Arctic Shift**; Steam, App Store, Sketchfab, Poly Haven, Printables, Pixiv
+> y ArtStation por sus API; tres páginas japonesas del staff y la prensa.
+> **No se pudo:** vídeo de YouTube (pedía iniciar sesión), TCRF y TV Tropes
+> (403), la Wayback Machine, coreano y chino.
+>
 > ✅ = confirmado en dos fuentes. ⚠️ = dudoso o una sola fuente.
 
 ## Segunda pasada · qué cambió
+
+### Repaso del equipo (24-sep-2026, tarde): qué cambió
+
+**Corregido (antes → ahora):**
+- **«SE BUSCA» en latino:** «el doblaje latino deja los carteles en inglés» → **Tashigi dice «Los carteles de Se Busca acaban de llegar» en el doblaje latino** (muestra de Doblaje Wiki, voz de Ivett Toriz). El cartel de #bienvenidas puede decir «SE BUSCA» (§8, §14).
+- **Por qué se fue Mireya Mendoza de Luffy:** «un viaje de trabajo a Estados Unidos» → **Toei pidió volver a grabar en el estudio y ella renunció**; lo cuenta ella en vídeo (§10).
+- **El traje de Sanji tras el salto:** «negro `#27272E`» → **azul marino casi negro `#151531`** (dibujo oficial P28 + anime V20) (§9, §15).
+- **Voz latina de Law:** «no la encontré» → **Geno Sánchez** (§9, §10.2).
+- **Doflamingo, Barbanegra y Tashigi** tenían más voces: dos, dos y tres (§10.2). **Mihawk y Vivi**, de ⚠️ a ✅.
+- **La risa de Brook en latino:** «Yo-ho-ho-ho ⚠️» → **«Yo-jo-jo-jo»** (§10.1).
+- **El Sunny de Tigerar1** (CC BY-SA): era una resubida del de serienreviewer → descartado (§5).
+- **Endings 279-1070 y «Carmine»**: de deducción a cita textual y dos fuentes (§11.1).
+- **Luffy de bienvenida:** la P1 es una estatua de cera → mejor **P43**, el *eyecatcher* oficial del ep. 1000 (§3.2, §16).
+
+**Añadido:**
+- **Los puntos 18 a 25**, nuevos enteros: técnica y cómo replicarla en Photoshop y Blender, texturas 2D, gustos, por qué la aman y escenas que hacen llorar, fan dubs, colaboraciones, obras parecidas y el mundo con **la historia por arcos**.
+- Lo nuevo de `ENCARGO.md`: **qué transmite cada personaje** y **su cara en cada emoción** (§9.1, §9.2), **escenas que hacen llorar con minuto** (Punto 21), **una letra para cada uso** (§7), **Blender** (Punto 18), guía para una **IA de texto** con frases reales por emoción (§15.2).
+- Arte P25-P54 y vestuario V1-V30 en las hojas (§3.2, §9.5); el color propio de cada Sombrero de Paja medido en dos campañas oficiales.
+- Tres escenas más miradas con minuto: el barril del ep. 53, la muerte de Ace (ep. 483) y el Gear 5 (ep. 1071) (§4); diez vídeos más (§12.3); paleta del anime en movimiento (§6).
+- Usopp, Franky, Brook y Jinbe completos; voz medida de 12 personajes y de 5 de niños (§9.4, §9.6).
+- Encuestas: top 10 latinos, las 6 de la Jump, MyAnimeList (§2).
+- 16 modelos 3D más con peso, CC0 de Poly Haven, Kenney y Printables (§5.1).
+- Cajas de *Grand Gourmet*, *Treasure Cruise*, *Bounty Rush* y el reverso del cartel de ONE PIECE BASE (§8, §13.1).
+- `referencias.json`: **40 → 345**. Fuentes: **119 → 222** (§18).
+
+**Las marcas de duda: 31 antes del repaso → 247 ahora** (contadas con `grep`).
+- De las 31 viejas se resolvieron 3 (el minuto del barril, por qué se fue Mireya, la risa de Brook) y una a medias («Se Busca» se oye, pero no se ha visto escrito en la versión latina).
+- Las nuevas no son retrocesos: son **datos añadidos con una sola fuente** (medidas propias de color o de voz, que por naturaleza tienen una; citas de una sola web; copias de fans de un vídeo) y **huecos marcados a propósito** para que se vean (escenas sin mirar, caras que faltan, rangos de episodios). Lo que falta está en §17 y en la tabla «Cumplimiento del encargo».
+
+### Segunda pasada (24-sep-2026, mañana)
 
 **Corregido (antes → ahora):**
 - Quién gana en Latinoamérica: «no lo encontré» → **Zoro 1.º en 2026** y Nami 1.ª en 2021; Luffy, 3.º las dos veces (§2).
@@ -2567,7 +2609,7 @@ Primero un piloto de 8 investigadores (arte, fanart-3d, escenas, musica-videos, 
 **Vídeo** (puntos 2, 4, 9, 10, 14):
 - YouTube: «Sign in to confirm you're not a bot» toda la tarde (17:16-18:50 UTC); por ratos, *storyboards* y metadatos (vistas).
 - **Internet Archive**: listado del lote HorribleSubs (2.617 archivos) y fotogramas sueltos con `ffmpeg -ss` sobre la URL directa (acepta *range requests*), sin bajar el episodio entero.
-- Dailymotion: API de búsqueda y `fotogramas.py --cortes` sobre 12 copias. **Aviso:** «Broken Vow: Full Episode 53» resultó una telenovela filipina: filtrar por canal, no sólo por título.
+- Dailymotion: API de búsqueda y `fotogramas.py --cortes` sobre cada copia (openings 15, 22, 26 y 28, tráileres, making-of, eps. 1071 y 1082). **Aviso:** «Broken Vow: Full Episode 53» resultó una telenovela filipina: filtrar por canal, no sólo por título.
 - One Piece Wiki: wikitexto de «Carmine», «One Piece Music» y los eps. 483, 1071, 1082 y 1139. `numpy` para el tempo. Wikipedia en inglés, JSON roto una vez; ANN, 403.
 
 **Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22):
