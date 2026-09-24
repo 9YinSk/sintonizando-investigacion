@@ -662,7 +662,23 @@ Un fotograma por plano con `fotogramas.py --cortes`, medido con `estilo.py` (8 c
 | Letra a mano de Nami (en la carta) | — | **Caveat**, **Kalam** o **Patrick Hand** | Sí ✅ (las tres) |
 | Rótulos de carta náutica (como el mapa del opening) | pluma caligráfica | **Pirata One** o **IM Fell English** | Sí ✅ (las dos) |
 
-**No encontré** qué letra usa Panini México en su manga (ni la de Planeta en España): no hay ficha pública ⚠️.
+**No encontré** qué letra usa Panini México en su manga (ni la de Planeta en España): no hay ficha pública ⚠️. *Repaso del equipo: se volvió a buscar dos veces («Panini México One Piece tipografía letra globos»), sin resultado. Se queda Comic Neue Bold.*
+
+### Una letra para cada uso (repaso del equipo, 24-sep-2026)
+
+Lo mismo de la tabla de arriba, ordenado por **dónde va el texto**, más lo que se vio en el anime y los juegos. ✅ = la letra libre se abrió con `fontTools` y trae á é í ó ú ñ ¿ ¡.
+
+| Uso | Cómo se ve en la serie | Letra libre | ¿Tildes, ñ, ¿ y ¡? |
+|---|---|---|---|
+| **Logo o título** | «ONE PIECE» alto y estrecho, azul `#1BBEED`→`#185CB2`, calavera en la O. **El logo del manga es plano**, con la calavera integrada en la O y línea marino `#151924` ([wiki, «One Piece Logo.png»](https://static.wikia.nocookie.net/onepiece/images/7/75/One_Piece_Logo.png), 1600×548): más fácil de leer pequeño o en un color. En Wano, «ワンピース» **a pincel sobre papel blanco con sello rojo** ([OP 22, 0:10-0:15](https://www.dailymotion.com/video/x7litw4?start=10)) | One Piece de dafont (sin tildes) o ONE PIECE de FontSpace (con todo) | dafont ❌ · FontSpace ✅ |
+| **Globo normal** | globo ancho de Oda, letra de cómic en mayúsculas | **Comic Neue Bold** | ✅ |
+| **Grito** | letras más grandes y gruesas, globo de picos | **Bangers**, **Luckiest Guy** o **Bowlby One SC** | ✅ |
+| **Pensamiento** | **Luffy casi no tiene globos de pensamiento**: dice lo que piensa (Oda, SBS 54, wiki ⚠️). Los demás, globo de nube | Comic Neue (la cursiva no se abrió con fontTools) | ⚠️ sin comprobar la cursiva |
+| **Onomatopeya** | **ドン!!** a pincel; en Wano, **べべん!!** (§8). En los juegos: katakana gigante rojo `#CC191D` con filete negro y borde blanco (*Burning Blood*); «DOOM!!» rojo `#D00303` con borde blanco (*Bounty Rush*) | **Dela Gothic One** (latín + japonés) | ✅ |
+| **Cartel del mundo** | WANTED / DEAD OR ALIVE / nombre / ฿ / MARINE; el de Wano, a pincel (O10); el de España, «SE BUSCA / vivo o muerto» (O2) | **Tinos Bold** comprimida (WANTED, nombre, SE BUSCA), **Crimson Pro Black** (DEAD OR ALIVE), **Vertiky** (cifras), **Libre Caslon Text** cursiva (vivo o muerto) | ✅ |
+| **Carta náutica y letra a mano** | rótulos a pluma y letra de Nami | **Pirata One** o **IM Fell English**; a mano, **Caveat**, **Kalam** o **Patrick Hand** | ✅ |
+| **Interfaz de juego** | *Odyssey*: palo seco humanista estrecha, blanca con sombra abajo-derecha (letra no publicada). *Treasure Cruise*: cómic muy gruesa, blanca con borde negro y la palabra clave en rojo. *Grand Gourmet*: letra de píxel amarilla con borde oscuro (§13) | Para *Treasure Cruise*, **Luckiest Guy** o **Bangers** con borde negro. Para *Odyssey* y la de píxel **no encontré letra libre comprobada** | ✅ las de cómic · ⚠️ las otras dos |
+| **Subtítulos y créditos** | Tráiler de Egghead: «PUNK RECORDS» y «EGG HEAD» en **serifa blanca sobre negro** ([0:14-0:19](https://www.dailymotion.com/video/x8r9xak?start=14)); Elbaf: **rótulos rojos sobre papel rugoso naranja** ([0:05-0:10](https://www.dailymotion.com/video/xa0d0cs?start=5)); *Heroines*: cartelas rosa `#EA6BA4` ([0:28](https://www.dailymotion.com/video/xailvzy?start=28)). Cartela de título: blanca muy gruesa con contorno negro (F24) | Serifa: **Crimson Pro** o **Noto Serif**; cartela: **Bowlby One SC** con contorno | ✅ · la letra exacta de los subtítulos de Crunchyroll no la busqué ⚠️ |
 
 ---
 
@@ -714,10 +730,16 @@ que ya decía: «el ドン!! junto al personaje y el cartel de SE BUSCA».
 6. **Las cartelas de título** del anime: blancas, gruesas, con contorno
    negro, sobre una imagen del episodio (hoja F24).
 7. **El cartel en español existe:** en la emisión de España del ep. 45 el
-   cartel dice «**SE BUSCA** / *vivo o muerto*» (hoja O2). Para Latinoamérica
-   **no encontré** una versión rotulada ⚠️; el doblaje latino deja los
-   carteles en inglés. Recomiendo dejar **WANTED / DEAD OR ALIVE / MARINE**
-   en inglés (como el anime) y poner en español sólo lo que diga el canal.
+   cartel dice «**SE BUSCA** / *vivo o muerto*» (hoja O2).
+   **Corregido en el repaso del equipo: «SE BUSCA» sí se dice en el doblaje latino.**
+   Tashigi (voz de Ivett Toriz, 9.ª temporada, columna de México en la tabla de reparto)
+   dice textual: «**Los carteles de Se Busca acaban de llegar, ¡lo lamento!**»
+   (muestra «TashigiOP2.mp3» de [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=query&titles=Archivo:TashigiOP2.mp3&prop=imageinfo&iiprop=url&format=json), 0:01-0:04, pasada por `voz.py`) ✅.
+   *Antes decía que el doblaje latino dejaba los carteles en inglés y que «SE BUSCA» era cosa de España.*
+   Lo que sigue sin encontrarse es **un cartel dibujado que diga «SE BUSCA» en la versión latina** ⚠️:
+   se oye, pero no está comprobado que se vea escrito. **Para la lámina: el cartel puede decir «SE BUSCA»**
+   (es lo que oye el público latino) con **DEAD OR ALIVE / MARINE** en inglés, como el anime,
+   o «vivo o muerto» como el de España (O2).
 8. **Los videojuegos** (ver §13): en *One Piece Odyssey* la caja es **una
    banda ancha translúcida verde azulado** (`#466164`) con un dibujo suave de
    medallones, el **nombre en una pestaña turquesa** (`#38909C`) de borde
@@ -725,6 +747,24 @@ que ya decía: «el ドン!! junto al personaje y el cartel de SE BUSCA».
 9. **Los clips latinos de Crunchyroll** llevan una **etiqueta turquesa
    «LATINO»** en la esquina de la miniatura (§12). Un guiño posible para el
    servidor, que es de doblaje.
+10. **En Wano, el ドン!! se vuelve «べべん!!»** (repaso del equipo). El director de serie desde Wano,
+   **Nagamine Tatsuya** (長峯達也): «leyendo el original vi que el efecto de sonido había cambiado de
+   "ドン!" a "べべん!", así que le pregunté a Oda qué sonido era exactamente» ✅
+   ([entrevista en 超！アニメディア, 30-jun-2019](https://cho-animedia.jp/article/2019/06/30/12998.html), japonés).
+   Es un tambor o gong de kabuki. **Si la escena evoca Wano, «べべん!!» es más fiel que «ドン!!».**
+   La misma entrevista confirma que **cada arco puede cambiar su efecto de golpe, sus filtros y su color de fondo**.
+11. **El cartel tiene reverso: la ficha** (repaso del equipo). La app oficial **ONE PIECE BASE**
+   (Bandai Namco) convierte tu foto en un retrato al estilo de Oda, te hace **tu propio cartel WANTED**
+   y lo pone de foto de perfil. Detrás del cartel hay **una ficha en papel viejo** (`#E7CDA3`, `#F0DEC2`,
+   texto `#4A3F33`, medidos) con cinco filas y un icono cada una: **Nickname / Other titles** (sombrero),
+   **Bounty** (฿), **Devil Fruits** (fruta), **Haki** (rayo), **Affiliations** (calavera) ✅
+   ([App Store EN](https://apps.apple.com/mx/app/one-piece-base-en/id6739035554) +
+   [App Store JP](https://apps.apple.com/jp/app/one-piece-base/id6499420991),
+   [captura 4](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/9f/06/9a9f06c6-3021-5898-a662-95fab084b149/04-portrait-generator_complete_2208_1242.jpg/2000x2000bb.jpg), 1125×2000).
+   **Es el paso «preséntate» ya hecho por la franquicia**: delante tu cartel, detrás tu ficha.
+12. **Un juego oficial usa el globo del manga**: *Treasure Cruise* cuenta sus escenas famosas con viñetas
+   coloreadas y **globos de manga de verdad** (blanco, borde negro `#0B0A08` grueso e irregular, ▼ amarillo
+   para pasar) sobre un marco de madera y latón con fondo rojo `#520406` ✅ (§13).
 
 **El cuadro propio que propongo para la lámina:**
 el texto va **dentro de carteles de SE BUSCA o en la carta de Nami**
@@ -733,7 +773,9 @@ de tinta negro que engorda y adelgaza, cola corta, texto en Comic Neue.
 Al lado, **ドン!!** en Dela Gothic One, negro con borde blanco.
 Nunca la burbuja blanca lisa de siempre. Si hace falta una caja para
 texto largo (lámina 2), la de *Odyssey*: banda translúcida con pestaña
-de nombre, no un rectángulo blanco.
+de nombre, no un rectángulo blanco. **Otra opción muy «de barco»** (repaso del equipo):
+la caja de *Grand Gourmet*, **crema `#FAF3E1` con doble filete dorado `#E8B976` y café `#84623A`**
+y **un ancla ⚓ en vez de la flechita de «siguiente»** (§13).
 
 ---
 
@@ -815,7 +857,7 @@ de nombre, no un rectángulo blanco.
   6. **0605**: en un trono con capa blanca. → **celebrar**.
   7. **ep. 312 · [1:12](https://www.dailymotion.com/video/x9kpldw?start=72)**: mira abajo con el cigarro en la mano. → **pensar**.
   8. **O7**: su cartel con el dibujo feo. → **humor**.
-- **Vestuario:** pelo rubio `#EADF7A` que tapa un ojo, ceja en espiral, traje o pantalón negro `#27272E`, corbata, **cigarro**. Ojo: el cigarro es parte del personaje; si la lámina lo quita, que sea a propósito.
+- **Vestuario:** pelo rubio `#EADF7A` que tapa un ojo, ceja en espiral, corbata, **cigarro**. **Corregido en el repaso: tras el salto su traje no es negro, es azul marino casi negro** `#151531` / sombra `#0F0F28` (dibujo oficial P28; `#12122D` en el anime, V20) ✅. *Antes: «traje negro `#27272E`».* Antes del salto (V19) sí era negro (§9.5). Ojo: el cigarro es parte del personaje; si la lámina lo quita, que sea a propósito.
 - **Voz latina:** Noé Velázquez ✅.
 
 ### Tony Tony Chopper — el médico
@@ -849,7 +891,7 @@ El encargo pide también a los secundarios más queridos. En 2026 van **Law 5.º
 
 **Trafalgar Law — el aliado (5.º mundial)** ✅ ([ficha oficial](https://one-piece.com/character/law/index.html) + wiki)
 - Capitán de los Piratas Heart, «el Cirujano de la Muerte»; su fruta, la Ope Ope, le deja operar y cambiar cuerpos. De niño iba a morir de la enfermedad del plomo ámbar; lo salvó Corazón. **Se alió con los Sombrero de Paja para tumbar a Kaido.**
-- No es de la tripulación: en #bienvenidas sólo como **guiño** (un cartel suyo entre los carteles del concepto A). Su voz latina **no la encontré** en la página de Doblaje Wiki de la serie ni tiene página propia allí.
+- No es de la tripulación: en #bienvenidas sólo como **guiño** (un cartel suyo entre los carteles del concepto A). **Voz latina: Geno Sánchez**, desde Sabaody (ep. 392) ✅ (Doblaje Wiki, temporadas 11, 14, 19 y 20 + [ANMTV](https://www.anmtvla.com/2023/10/one-piece-netflix-estrena-una-nueva.html)). *Antes decía «no la encontré».* Luffy lo llama «**Torao**» (トラ男) ✅.
 
 ### Recompensas actuales (tras Wano, capítulo 1058) ✅
 Luffy **3.000.000.000**, Zoro **1.111.000.000**, Jinbe 1.100.000.000,
@@ -862,6 +904,139 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 - **Chopper:** 50 → 100 → 1.000 berries. Tan poco porque el Gobierno cree que es **la mascota** de la tripulación ✅ (wiki).
 - **Sanji:** su primer cartel (77.000.000) lleva un dibujo porque **el fotógrafo, Attach, olvidó quitar la tapa del objetivo** ✅ (wiki). Tras Dressrosa, 177.000.000 y **ONLY ALIVE**, porque su padre, Vinsmoke Judge, lo quería de vuelta vivo ✅ (wiki, hoja O8).
 - **Luffy:** su primer cartel fue de **30.000.000** (la mayor recompensa del East Blue), en el ep. 45 ✅ (wiki).
+
+### 9.1 Qué transmite cada uno (repaso del equipo, 24-sep-2026)
+
+Sale de las fichas oficiales de [one-piece.com](https://one-piece.com/character/index.html), la wiki y lo que la gente dice de ellos (Punto 21). Es la emoción que deja verlos, para elegir quién dice cada texto.
+
+| Quién | Qué transmite | Cómo se siente verlo | Su arco, en una línea | Momentos clave (con minuto donde lo hay) |
+|---|---|---|---|---|
+| **Luffy** | **Libertad y pertenencia**: para él el Rey de los Piratas es «el más libre del mundo» (cap. 507) y los compañeros son «su tesoro» | Alegría contagiosa y seguridad: «con él no te dejan atrás» | De niño con un sombrero prestado a capitán de diez; pierde a Ace y sale adelante porque «aún tiene a sus compañeros» | Ep. 1 sale del barril (P5) · ep. 37 le pone el sombrero a Nami ([1:15](https://www.youtube.com/watch?v=M-jKhyF1q20&t=75)) · ep. 53 barril (22:32) · ep. 483 pierde a Ace (17:30-22:00) · ep. 1071 Gear 5 (0:48-1:10 en el clip) |
+| **Zoro** | **Lealtad y disciplina**: «de jefe y leal, se lanza por los suyos; le gusta la adversidad» (ficha) | Calma y respeto; da risa cuando se pierde | Promete a Kuina ser el mejor; se arrodilla ante Mihawk para ser fuerte al lado de Luffy | Ep. 53 brazos cruzados antes de su sueño (22:20) · ep. 377 «Aquí no pasó nada» · pide a Mihawk que lo entrene (3D2Y) |
+| **Nami** | **Orden y astucia**: «la que junta a una tripulación de bobos» (ficha) | Picardía; da ternura cuando pide ayuda | De ladrona que odia a los piratas a navegante que dibuja el mapa del mundo | Ep. 37 «Luffy… ayúdame» ([1:07](https://www.youtube.com/watch?v=M-jKhyF1q20&t=67)) · el mapa de niña («voy a trazar un mapa mundial», §10) |
+| **Sanji** | **Cuidado y caballerosidad**: da de comer a quien tenga hambre, aunque sea un enemigo | Risa (cuando se derrite) y respeto (cuando cocina) | Los 85 días varado con Zeff; se despide del Baratie arrodillado (ep. 30) | Ep. 30 despedida de Zeff · la frase de los 85 días en latino (§10) |
+| **Chopper** | **Ternura e ilusión**: «lucha aunque tenga miedo»; teme que lo llamen monstruo | Ganas de protegerlo; risa con su «¡no me alegra!» | Del reno al que llamaban monstruo al médico que quiere curarlo todo | Ep. 90 los cerezos de Hiluluk · ep. 312 llora a mares ([1:08](https://www.dailymotion.com/video/x9kpldw?start=68)) |
+| **Usopp** | **Miedo vencido**: el débil que saca valor «paso a paso» | Identificación: «el más humano» (Punto 21) | Del mentiroso de su aldea al tirador que se enfrenta a Luffy por el Merry y vuelve pidiendo perdón | Water 7 (se pelea con Luffy) · Sogeking |
+| **Robin** | **Acogida**: «de percha de paso a compañera de verdad» (ficha) | Serenidad; emociona cuando por fin pide ayuda | Se unió pensando que sería algo temporal; grita «¡quiero vivir!» | Ep. 130 pide unirse ([2:03](https://www.dailymotion.com/video/x61uaq4?start=123)) · ep. 278 |
+| **Franky** | **Entusiasmo y corazón blando**: «de corazón caliente, llorón y leal» (ficha) | Risa: llora y jura que no llora | Construye el Sunny para ver el fin del mar a bordo | Su «¡SUPER!» |
+| **Brook** | **Hospitalidad**: «alegre, vulgar y caballero» (ficha), 50 años solo en el mar | Calidez y risa (chistes de calavera) | Lloró sólo por poder cenar con alguien; su promesa a Laboon | «¡Hola! ¿Cómo están?… siéntanse en casa» (§10) |
+| **Jinbe** | **Honor y serenidad**: el «padre» de la familia (SBS 99) | Confianza | No entra hasta cerrar cuentas con Big Mom y pedir permiso a su tripulación: **entrar bien** | Levanta a Luffy tras Ace (ep. 505) |
+
+### 9.2 Su cara en cada emoción (con hoja, fotograma o minuto)
+
+Sólo lo que está **visto** en una imagen o un vídeo de esta biblia. Lo que falta va marcado.
+
+| Quién | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Luffy** | **P43**: sonrisa enorme, ojos cerrados, de cara (ep. 1000) · ED 23 [0:03](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=3): sonríe de oreja a oreja en el mascarón · P5 (ep. 1) | Ep. 37 [1:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=85): **grita al cielo con los dos puños arriba** · ep. 1071, 0:48-1:10: ceño fruncido, ojos apretados, puños contra la roca | Ep. 483, 17:30: grita sosteniendo a Ace; 22:00, de espaldas y en silencio · ep. 312 [0:26-0:30](https://www.dailymotion.com/video/x9kpldw?start=26): llora apretando los dientes | ⚠️ no encontré una imagen de Luffy con miedo | ⚠️ no encontré; lo más cercano, **P6**: cara de bobo con el dedo en la nariz (humor) |
+| **Zoro** | **2634**: jarra en alto, riendo · ep. 53, 22:10: se ríe junto a Usopp | **1371** y **P13**: serio, espada en la boca | ⚠️ no está en las hojas (ep. 377 sin minuto) | No aplica: «le gusta la adversidad» (ficha) | **2904**: la cara aplastada contra una tabla (perdido) |
+| **Nami** | **P26**: brazo en alto, boca abierta · **0651**: riendo sobre el tesoro | Imagen del ep. 1086 ([wiki](https://static.wikia.nocookie.net/onepiece/images/3/35/Nami_Punishes_Luffy_for_Endangering_Crew.png)): **ojos blancos, vena roja, dientes apretados, manos en la cadera** · ED 23 [0:17](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=17): tira de la oreja a Luffy y a Usopp | Ep. 37 [0:01-0:05](https://www.youtube.com/watch?v=M-jKhyF1q20&t=1): dientes apretados, llorando; [1:16-1:19](https://www.youtube.com/watch?v=M-jKhyF1q20&t=76): ojos bajo el ala del sombrero | ⚠️ sin imagen (su cobardía es «instinto de supervivencia», wiki) | ⚠️ no encontré |
+| **Sanji** | **1367**: ojos de corazón, corazones volando · ep. 130 [1:00](https://www.dailymotion.com/video/x61uaq4?start=60): ojos de corazón por Robin | Opening 1 [1:15](https://www.youtube.com/watch?v=YoeP9w5UIlg&t=75): Sanji enfadado (±2 s) | Ep. 312 [1:12](https://www.dailymotion.com/video/x9kpldw?start=72): mira abajo con el cigarro en la mano | ⚠️ no encontré | ⚠️ no encontré; el chiste es su cartel feo (O7) |
+| **Chopper** | **P29**: salta con los brazos arriba · **4182**: lengua fuera · **P22**: boca abierta | ⚠️ sin imagen (se enfada cuando lo llaman tanuki: «¡Soy un reno!», wiki) | Ep. 312 [1:08](https://www.dailymotion.com/video/x9kpldw?start=68): llora a mares con la nariz azul | **P21**: asoma sudando · se esconde mal, con medio cuerpo fuera (wiki) | **P24** (SBS 61): insulta y dice «¡no me alegra!» **mientras baila de felicidad** |
+| **Robin** | Ep. 130 [1:24](https://www.dailymotion.com/video/x61uaq4?start=84): sonríe en la escalera | No aplica: **nunca grita a sus compañeros** (wiki + ficha) | Ep. 312 [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66): llora con Nami y Chopper · ep. 278 (sin minuto) | ⚠️ | ⚠️ |
+
+**Vocabulario de expresiones que se ve en esas imágenes:** ojos blancos que brillan y **vena roja** en la frente (enfado cómico, ep. 1086); **ojos de corazón** (Sanji); **gotas de sudor** (P21); **lágrimas a chorro** (Chopper, ep. 312); **chichones** (los golpes de Nami, Punto 12). Para una IA de imagen, ver §15.
+
+### 9.3 Lo que faltaba de los cinco: miedos, con quién y cómo habla
+
+Fichas oficiales + [wiki, personalidad y relaciones](https://onepiece.fandom.com/wiki/Roronoa_Zoro/Personality_and_Relationships) de cada uno.
+
+- **Luffy.** Teme quedarse sin los suyos: tras perder a Ace entra en una rabia muy impropia de él y Jinbe y Rayleigh le hacen ver que «aún tiene a sus compañeros» ⚠️. Confía en Zoro más que en nadie (ficha de Zoro: «ルフィが絶大な信頼を寄せる剣士») ✅. Con Usopp y Chopper hace travesuras y **Nami les regaña a los tres** ✅. **Es el que menos globos de pensamiento tiene** (SBS 54) ⚠️. Se enfada cuando tocan a un amigo; pelea pero **no mata** (SBS 4) ⚠️. **No saluda: invita** («¡Únete a nosotros!»), y si le dicen que no, sigue como si fuera que sí ✅ (Punto 12).
+- **Zoro.** «El pilar del barco» que, cuando toca, **pone serio a Luffy** ✅. **Cómo regaña:** cuando Usopp deja el barco, no le deja volver sin que se disculpe: «si quiere volver, que pida perdón» ⚠️. **Es la voz de las reglas.** Con Nami: ella le cobra el triple de intereses por 100.000 berries que le devolvió el mismo día ⚠️.
+- **Nami.** «Habla bien y negocia; usa encantos y lágrimas falsas»; cobra hasta a sus compañeros ✅ (ficha). Cuando habla de la tripulación **nombra primero a Luffy**; a Sanji, en japonés, es **el único al que llama «-kun»** ⚠️. **Cómo explica:** manda, claro y corto.
+- **Sanji.** «Avispado: sus ideas sacan al barco de apuros» ✅. **Lo que le enfada de verdad: tirar la comida** (85 días en una roca con Zeff) ✅. En japonés dice «kuso» para todo ⚠️; en latino, «¡Maldición!» ✅.
+- **Chopper.** «Muy curioso y muy franco; no duda de ninguna mentira»; «lucha aunque tenga miedo» ✅. **Le enfada que se juegue con una vida**: «como médico, no perdona que se tome la vida a la ligera» ✅. Teme que lo traten de **monstruo** ✅. Se cree todas las historias de Usopp ✅. Quiere **meter algodón de azúcar en los sándwiches** ✅.
+
+### 9.4 Usopp, Franky, Brook y Jinbe (faltaban)
+
+- **Usopp — el tirador** (19.º mundial en 2026; **10.º en Latinoamérica**). «Miedoso y negativo», pero **saca valor paso a paso** para ser «un valiente guerrero del mar» ✅ ([ficha](https://one-piece.com/character/usopp/index.html)). Tan negativo que **el poder de Perona no le hace nada** ✅. Es «el que anima el barco» (ムードメイカー) ✅. Teme **ser una carga** ⚠️. Le importan su padre **Yasopp** (tirador de Shanks), Kaya y el **Going Merry** ✅. Cuenta bolas enormes y pone excusas con enfermedades inventadas. **Sogeking**, su otro yo: voz grave y lenta; **Luffy y Chopper no se dan cuenta de que es él** ✅. **Buen personaje para «explicar» en broma.**
+- **Franky — el carpintero** (29.º). «De corazón caliente, llorón y leal»; muletilla «**¡SUPER!**» ✅ ([ficha](https://one-piece.com/character/franky/index.html)). Llora y jura que no llora ⚠️. Su sueño: **ver el fin del mar en el barco que construyó**, el Sunny ✅. El «hermano mayor» que entretiene a los pequeños ✅. En latino: «¡Prepárense, cobardes!» · «Tengo una sorpresita muy especial» ✅.
+- **Brook — el músico** (27.º). «Alegre, vulgar y caballero»; chistes de calavera; 50 años solo en el mar ✅ ([ficha](https://one-piece.com/character/brook/index.html)). **Lloró sólo por poder cenar con alguien** ✅. Teme a **fantasmas y zombis** siendo él un esqueleto ⚠️. **Siempre cortés**: «Disculpen», «siéntanse en casa» ✅. Risa **«¡Yohohoho!»** (en latino suena «Yo-jo-jo-jo») ✅. Tras el salto, «**Soul King**», estrella de rock ✅. **El anfitrión natural para #bienvenidas.**
+- **Jinbe — el timonel** (30.º; sin ficha en one-piece.com). Orgullo y honor; calmado, pero **llora a gritos** cuando pierde a alguien ⚠️. **No entró hasta cerrar cuentas con Big Mom y pedir permiso a su tripulación** ✅: el ejemplo de «entrar bien». En japonés dice «washi» (わし) ⚠️; risa «Wahaha» ⚠️.
+- **Secundarios:** **Ace** (7.º mundial) se duerme de golpe, incluso comiendo, y es **más educado que Luffy** ⚠️. **Shanks** (8.º; 4.º en Japón) perdió el brazo por salvar a Luffy y le dejó el sombrero ✅; risa «Dahaha» ✅. **Mihawk** (3.º en Japón, 7.º en Latinoamérica) es el maestro de Zoro ✅. **Carrot** (9.ª en Latinoamérica en 2026, 5.ª en 2021): **por qué gusta tanto en la región no lo encontré** ⚠️.
+
+### 9.5 Vestuario por arco (hojas V1-V30, hex medidos)
+
+k-means sobre los píxeles del personaje (sin fondo ni línea) y `estilo.py` sobre los dibujos oficiales P25-P30. Luz / sombra = los dos tonos del *cel*. ±5 por canal. ✅ = el mismo color en dos imágenes; ⚠️ = una sola. Imágenes al final de `hojas/objetos_01.jpg`.
+
+**La regla: elegir UNA época y vestir igual a todos.** Mezclar a Luffy de Elbaph con Nami de East Blue es el error típico. Para #bienvenidas, **la ropa de tras el salto (P25-P30)**, la de la web oficial.
+
+| Quién | Antes del salto | Tras el salto (la icónica) | Wano | Egghead | Elbaph (arco actual) | *Film Red* |
+|---|---|---|---|---|---|---|
+| **Luffy** | V1: chaleco rojo `#9F3C40`, pantalón `#648DC6` ⚠️ | **P25: camisa `#C3313E` / `#9A1822`, faja `#EDD14A`, pantalón `#527FD8`, sombrero `#E7B86E` / `#BD8F5B`, cinta `#CA1B39`, piel `#F2C6A5`** ✅ | V3 «Luffytaro»: kimono rojo `#BD1B27` con parches `#8EBBCE` y `#37628B` ⚠️ | V4: abrigo largo rojo `#E23D41` con franjas `#F0B339` y logo SSG ✅ | V5: **capa de piel roja `#C13E2D`**, casco con cuernos `#C6975E`, cuero `#443B34` ✅ | V6: chaleco naranja con dos altavoces `#F8841C` ⚠️ |
+| **Zoro** | V7: camiseta `#F9F2E0`, **haramaki `#70AB41`** ⚠️ | **P27: abrigo-kimono verde `#47695D` / `#364C43`, faja granate `#99485B`, haramaki `#74A353`, botas `#222926`** ✅ | V9 «Zorojuro»: kimono blanco `#DEDEDE`, capa `#2B501C`; V8: kimono negro `#1E1D20`, faja roja `#BF1636` ⚠️ | V10: chaqueta azul acero `#38485E` ⚠️ | V11: capa de piel verde `#98AC6A` ⚠️ | V12: vaquero roto `#1C1D34` ⚠️ |
+| **Nami** | V13: camiseta `#F1EEF0` con franjas `#1C51A1`, falda `#E39F24` ⚠️ | **P26: bikini `#17AB94`, vaquero `#4D82A9` / `#34617F`, pelo `#EE8E3E`** ✅ | V15 «O-Nami»: kimono celeste `#67C4F0`, coleta alta ⚠️ | V16: traje blanco `#F8F2F7`, sombra lila `#DCBEDB` ⚠️ | V17: chaleco de piel `#EABE49`, trenza `#C57B1F` ⚠️ | V18: top coral `#E7654F` ⚠️ |
+| **Sanji** | V19: traje **negro**, camisa `#BEDCFE`, corbata `#73D5E1` ⚠️ | **P28: traje azul marino `#151531` / `#0F0F28`, camisa `#C0A66D`, sin corbata** ✅ | V21: chaqueta gris `#514B57` ⚠️ | V22: camisa hawaiana naranja `#ECA848` ⚠️ | V23: capa azul `#3C6CAE` / `#244883` ⚠️ | V24: chaqueta amarilla `#F7D687` ⚠️ |
+| **Chopper** | (P23, §9) | **P29/V25: sombrero `#E48B85`, X `#DEEFEF`, gorro cian `#44BEE0`, camiseta de rayas amarillas, pantalón `#DE884A`, mochila `#3275C3`** ✅ (gorro y sombrero en tres imágenes) | V26: camiseta «WATAAME», gorro `#72C3E0` ⚠️ | V27: mono azul `#3474AB` con «SSG», gafas doradas ⚠️ | V28: casco vikingo `#B55B48`, capa `#E8DAB8` ⚠️ | V29: sombrero rojo de lunares `#E77058` ⚠️ |
+
+- **Robin (P30, oficial):** blusa azul `#232D69`, pantalón salmón con flores `#E88D80`, pelo `#25252E`, gafas de sol naranjas en la cabeza ⚠️.
+- **Pelo de Zoro:** verde menta `#8ADBAA` en el dibujo oficial P27 y verde oliva `#8FAC5B` en el anime (P14) ⚠️: **elegir uno y no mezclar**.
+- **Nariz de Chopper:** azul `#315AB3` en P29, `#628190` en el anime antes del salto, `#192B63` en el manga a color: varía mucho ⚠️.
+- **Luffy en Egghead** lleva el abrigo que le hace una máquina de Vegapunk (cap. 1063, ep. 1092) ✅ ([wiki](https://onepiece.fandom.com/wiki/Monkey_D._Luffy)).
+- **Kimonos de Wano (V8, V9, V15, V21):** motivos repetidos en el obi y el forro, parecidos a los patrones japoneses **seigaiha** (olas) y **asanoha** (hoja de cáñamo). Comparación a ojo; no hay entrevista que diga que Oda los usó ⚠️. Texturas libres en el Punto 19.
+- V30 es Chopper tirado en la hierba, después de Wano (1374×1028): sin medir.
+
+### 9.6 Cómo suena cada voz latina (medida) y cómo se presenta cada uno
+
+Muestras de audio de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece) (25-37 s) pasadas por `herramientas/voz.py` (Whisper + Praat). **Tono** = mediana; **rango** = de lo más grave a lo más agudo, en semitonos (más = más expresiva); **velocidad** = palabras por segundo. Son montajes con música: las cifras sirven **para comparar entre ellos** ⚠️.
+
+| Personaje (voz) | Tono | Rango | Velocidad | Qué quiere decir |
+|---|---|---|---|---|
+| Luffy (Mireya Mendoza) | 237-257 Hz | 14-24 st | **3,0-3,3, rápido** | Voz de chico, habla deprisa |
+| Luffy (Desireé González) | **360 Hz** | **28 st** | 2,8 | Más aguda y expresiva: el Luffy de gritos |
+| Zoro (Dafnis Fernández) | **116 Hz, grave** | **14 st, el más plano** | 2,9 | Seco: el que menos se emociona |
+| Zoro (Gabriel Basurto) | 116 Hz | 21 st | 3,2 | Mismo tono, algo más vivo |
+| Nami (Gina Sánchez) | **410 Hz, la más aguda** | 11 st | 2,8 | Casi todo a gritos |
+| Sanji (Noé Velázquez) | **111 Hz, el más grave** | **28 st** | 3,0 | Grave, pero se dispara al coquetear |
+| Chopper (Nallely Solís) | 358 Hz | 26 st | 3,1 | Voz de niño, muy expresiva |
+| Usopp (Alejandro Orozco) | 194-286 Hz | 22-25 st | 3,0 | Sube y baja: el cuentista |
+| **Sogeking** (el mismo Orozco) | **128 Hz** | 13 st | **2,1, el más lento** | Usopp se disfraza bajando la voz: **el chiste se mide** |
+| Robin (Kerygma Flores) | 122-171 Hz, grave | 14-22 st | 2,2-3,0 | Tranquila, explica sin prisa |
+| Franky (Manuel Campuzano) | 125-176 Hz | 13-19 st | 2,3-3,0 | Grave, de showman |
+| Brook (Óscar Flores) | 263 Hz | **30 st, el más expresivo** | 3,1 | Del susurro educado al falsete del «¡Yohohoho!» |
+
+**De niños** (5 muestras más, medidas en el repaso) ✅: **Luffy niño** 435 Hz, la misma Mireya Mendoza, casi 200 Hz más aguda · **Zoro niño** 388 Hz, **otro actor** (Jared Mendoza) · **Nami niña** 393 Hz, la misma Gina Sánchez, casi el mismo tono · **Sanji niño** 294 Hz, **otro actor** (Oliver Díaz) · **Usopp niño** 381 Hz, el mismo Orozco pero **el más lento de todos (1,35 p/s)**. **Si una lámina usa un flashback, la voz no es la del adulto.**
+
+**Para la lámina y el bot:** Luffy, Nami y Chopper, con **mayúsculas y ¡!** (voces agudas, a gritos); **Zoro, Robin y Sanji, frase corta sin exclamaciones** (graves y calmados). Sanji sólo se exalta con las mujeres.
+
+**Cómo se presenta cada uno en latino** (textual, segundo dentro de la muestra de Doblaje Wiki):
+
+| Quién | Cómo se presenta | Muestra | Estado |
+|---|---|---|---|
+| **Brook** | «**¡Hola! ¿Cómo están?** ¡Yo-jo-jo-jo! Disculpen si los asusté… Pero vengan, **mi barco es su barco. Siéntanse en casa.** ¿Quieren una tacita de café?» | «Brook 1», 0:00-0:23 | ✅ **el único que saluda literalmente** |
+| Usopp | «**Yo soy Usopp, el líder de un gran barco pirata que gobierna el Mar del Este.** … Me llaman el gran y máximo Capitán Usopp.» | «Usopp 2», 0:13-0:25 | ✅ |
+| Nami | «Yo soy una estafadora que le roba a los piratas. **¡Mi nombre es Nami!** ¡Oye! ¿No quieres unirte a mí?» | «Nami», 0:03-0:08 | ✅ |
+| Zoro | «**Soy Zoro Roronoa.**» | «Zoro 1», 0:00 | ✅ |
+| Sanji | «**Me llamo Sanji, soy cocinero** en un barco restaurante llamado Baratie.» | «Sanji 1», 0:00 | ✅ |
+| Robin | «**Yo soy Nico Robin. Soy arqueóloga.**» | «Nico Robin 1.1», 0:00 | ✅ |
+| Franky | «**¡Soy el más genial aquí!** … Las personas me dicen… ¡Franky!» | «Franky 1», 0:08-0:20 | ✅ la primera frase; el grito del nombre ⚠️ |
+| Chopper | «Me convertiré en un médico que cure lo que sea… **Voy a ser pirata, me voy a ir con ellos.**» | «Chopper 1», 0:11-0:22 | ✅ |
+| Luffy | «**¡Únete a nosotros!**» · «**Ya tengo todo un equipo preparado.**» | «Luffy 3», 0:07-0:17 | ✅ |
+| Sogeking | «Déjenme ir con ustedes, mi nombre es… ¡Sogeking!» | «Sogeking», 0:00-0:04 | ⚠️ una transcripción |
+
+### 9.7 Poses nuevas (repaso del equipo) y huecos
+
+- **Nami, P26** (oficial): brazo derecho en alto, mano en la cadera, boca abierta → **saludar**. La mejor pose de «¡hola!» de todo lo reunido.
+- **Luffy, P43** (ep. 1000): sonrisa enorme de ojos cerrados delante de su cartel → **saludar / presentar**. **P32**: de pie en un bote, brazos al cielo → **celebrar** («¡zarpamos!»).
+- **Chopper, P29**: salta con los brazos arriba → **celebrar / animar**.
+- **Sanji, P28**: de lado, manos en los bolsillos → **presentar** con calma.
+- **La tripulación, ED 23 [1:02-1:06](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=62)**: **de espaldas en la baranda, saluda con los brazos al atardecer** → **la pose de «¡bienvenido!» vista desde el barco**. Y [0:24-0:26](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=24): todos a la mesa, comiendo → **la sala**.
+- **Luffy en el mascarón del león, ED 23 [0:03](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=3)** → presentar desde su asiento favorito.
+- **Nami regaña, ED 23 [0:17](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=17)**: tira de la oreja a Luffy y a Usopp → **regañar** (en broma).
+- **Zoro «pensar/decidir», ep. 53, 22:20**: brazos cruzados, cabeza ladeada, ojos entornados, media sonrisa ⚠️ (copia de fans).
+- **Luffy «pensar en serio», ep. 1071, [0:48-1:10](https://www.dailymotion.com/video/x8mwcbr)**: tumbado, ceño fruncido, ojos cerrados con fuerza, puños contra el suelo → **concentrado**, distinta de la P6 (pensar en broma) ⚠️ (sólo este clip).
+- **Huecos que siguen** ⚠️: poses oficiales de **Zoro explicando o animando**, **Sanji explicando o regañando** y **Chopper regañando o pensando**. Se buscó en la API de imágenes de la wiki (`Zoro Thinking`, `Chopper Angry`, `Sanji Explaining`…) y sólo salió merchandising. Falta mirar una a una las ilustraciones de *Treasure Cruise* del catálogo (§3.1).
+
+### 9.8 Dinámicas (para láminas en grupo)
+
+- **Luffy + Usopp + Chopper = el trío de travesuras**; **Nami los regaña a los tres** ✅ (ficha de Usopp; ED 23, 0:17).
+- **Zoro y Sanji nunca se llaman por su nombre**: Sanji le dice «**cabeza de epazote**» (en latino); Zoro le dice «cocinero pervertido», «cejas de diana» y, tras Wano, «el cuarto» ✅ (wiki, relaciones).
+- **Luffy llama a los suyos por su nombre** y a los demás por apodos: «Torao» (Law), «Hamaca» (Hancock) ✅ Torao / ⚠️ el resto.
+- **Sanji se derrite** con Nami y Robin («Cisne Nami», «Tigresa Robin» en latino ⚠️).
+- **Chopper se cree las historias de Usopp**; Usopp se hacía llamar «Capitán Usopp» para impresionarlo ✅.
+- **Robin asusta a Nami y Usopp** con sus comentarios negrísimos, dichos muy seria ✅.
+- **Nami cobra a Zoro** los intereses de una deuda ⚠️; **Zoro pone serio a Luffy** cuando toca ✅.
+- **Brook y Franky** hacen de «abuelo» y «abuela pervertida» en la familia de Oda (SBS 48 y 99) ✅.
 
 ---
 
@@ -876,7 +1051,8 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 2. **Redoblaje sin cortes, ep. 1-206:** estudio **Labo**, dirige **Arturo Castañeda** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece), [ANMTV, East Blue](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). Se grabó de septiembre de 2019 a septiembre de 2021 y llegó a Netflix en 2020. Traducido del japonés.
 3. **Ep. 207-325:** pasa a **Audiomaster Candiani**, dirige **Patricia Acevedo** ✅ (Doblaje Wiki + [ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)). *Antes decía que el cambio de estudio fue en el 326: era en el 207.*
 4. **Desde el ep. 326:** sigue Candiani; dirigen **Daniel Lacy** (326-445) y **Luis Miguel Morales** (desde el 326). Cambian Luffy y Zoro ✅ (Doblaje Wiki + [ANMTV, Sabaody](https://www.anmtvla.com/2023/10/one-piece-netflix-estrena-una-nueva.html) + [ANMTV, Punk Hazard](https://www.anmtvla.com/2024/11/one-piece-netflix-.html)).
-   - Por qué cambiaron: Mireya Mendoza se fue de viaje de trabajo a Estados Unidos y Dafnis Fernández tuvo «diferencias con la empresa» ⚠️ (sólo Doblaje Wiki; [ANMTV, Thriller Bark](https://www.anmtvla.com/2023/07/one-piece-netflix-estrena-nueva-tanda.html) sólo dice que Mireya fue «retirada» del personaje). Hubo campaña de fans **#NoAlRecast** en 2022 ✅ ([ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)).
+   - **Por qué se fue Mireya Mendoza — corregido en el repaso:** no fue «un viaje a Estados Unidos». Lo cuenta ella en un vídeo ([El Precio de los Cómics, TikTok, 27-dic-2023, 8:30](https://www.tiktok.com/@elpreciodeloscomicsofici/video/7317378700587175173), pasado por `voz.py`): trabaja mucho fuera de México y grababa en remoto; **Toei pidió volver a grabar en el estudio** y «tanto Toei como el estudio fueron inflexibles» (0:58-1:36); «realmente peleé por Luffy… no me quedó más remedio que **renunciar**» (1:48-2:00). Desmiente que se dañara las cuerdas vocales (2:16-2:32) ✅ (Doblaje Wiki + ella misma).
+   - **Dafnis Fernández** dejó a Zoro por «diferencias con la empresa» y no poder ir siempre al estudio: **el motivo sigue con una sola fuente** (Doblaje Wiki) ⚠️, tras 11 búsquedas más. **El hecho del cambio ya tiene dos** ✅: [ANMTV, Thriller Bark](https://www.anmtvla.com/2023/07/one-piece-netflix-estrena-nueva-tanda.html) («Zoro pasa a ser interpretado nuevamente por Gabriel Basurto… en sustitución de Dafnis Fernández») y [Cine PREMIERE](https://cinepremiere.com.mx/one-piece-netflix-nuevo-doblaje-latino.html). Cómo le pidieron la voz: «**Zoro habla con fuerza, con energía**» ([El Heraldo, 2025](https://www.elheraldo.co/cultura/cine/2025/07/06/tyrion-lannister-es-un-parteaguas-en-mi-carrera-dafnis-fernandez-actor-de-doblaje/)) ⚠️. Hubo campaña de fans **#NoAlRecast** en 2022 ✅ ([ANMTV](https://www.anmtvla.com/2022/09/one-piece-seguidores-solicitan-toei.html)).
 5. **Dónde se ve:** Netflix, Crunchyroll (desde sep-2023, East Blue), Max y Claro Video ✅ ([ANMTV](https://www.anmtvla.com/2023/09/one-piece-doblaje-en-espanol-latino-se.html)). En TV abierta, **Azteca 7 (México) lo estrenó en 2022 con el doblaje nuevo**, «por primera vez en la historia de la cadena» ✅ ([ANMTV, especial 2022](https://www.anmtvla.com/2022/12/especial-que-animes-tuvieron-los_28.html) + Doblaje Wiki + wiki en español); que llegara a **309 episodios** sólo lo dice Doblaje Wiki ⚠️. También Red Uno (Bolivia), desde octubre de 2022 ✅ (wiki en español + el mismo especial de ANMTV).
 
 **Más del equipo** (Doblaje Wiki; una fuente ⚠️ salvo lo marcado): traducción de Brenda Nava, Lourdes Arruti y Reina y Yuu Zuzuki (1-206), Citlalli Dávila (207-325) y **Axel Contreras** (247-516; también tradujo Film Red ✅ con [ANMTV](https://www.anmtvla.com/2022/11/one-piece-film-red-conoce-el-reparto.html)). Adaptación: Ian Rosas (desde el 207). Dirección musical: Carlos Herrera (326-635). Hay diálogos grabados en Mérida, Los Ángeles y **Córdoba, Argentina** (Sebastián Llapur).
@@ -921,7 +1097,7 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 | **Chopper** (Nallely Solís) | «**Me convertiré en un médico que cura lo que sea.**» · «Voy a ser pirata, me voy a ir con ellos.» · «Me uniré a ellos como el médico del barco y recorreré el mundo.» | «Chopper 1» | ✅ sentido |
 | **Usopp** (Alejandro Orozco) | «¡**Yo soy Usopp**! Es un placer.» | «Ussop 1» | ✅ sentido |
 | **Robin** (Kerygma Flores) | «Ahora mismo nos encontramos en la **Gran Ruta Marítima**. Es un **Log Pose**. En estos mares, donde las brújulas no funcionan, hay que usar los campos magnéticos entre las islas… No se puede navegar un barco en la Gran Ruta Marítima sin esto.» | «Nico Robin 3.1» | ✅ sentido |
-| **Brook** (Óscar Flores) | «**¡Hola! ¿Cómo están?** ¡Yo-ho-ho-ho! Disculpen si los asusté.» · «Siéntanse en casa. ¿Quieren una tacita de café?» | «Brook 1» | ✅ sentido · la risa exacta ⚠️ |
+| **Brook** (Óscar Flores) | «**¡Hola! ¿Cómo están?** ¡Yo-jo-jo-jo! Disculpen si los asusté.» · «Siéntanse en casa. ¿Quieren una tacita de café?» | «Brook 1» | ✅ sentido · **la risa suena «Yo-jo-jo-jo»**: Whisper *medium* la escribe así dos veces (0:02 y 0:30). *Antes «Yo-ho-ho-ho» con ⚠️* |
 | **Franky** (Manuel Campuzano) | «¡Bien! ¡Prepárense, cobardes!» · «Tengo una sorpresita muy especial que quiero que vean.» | «Franky 2» | ✅ sentido |
 
 **Con su minuto, de clips oficiales doblados** (segunda tanda de la segunda pasada). YouTube dejó bajar, por ratos, los **subtítulos automáticos en español** (`es-orig`: sacados de la voz latina) de los clips de **Crunchyroll en Español**, aunque no el vídeo. Del tráiler latino de Netflix bajé el audio de una copia en Dailymotion y lo pasé por **Whisper** (modelo *medium*). Los subtítulos automáticos no llevan puntuación: la puse yo.
@@ -968,6 +1144,77 @@ Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.00
 - «[ONE PIECE - Episodio 521 - ¡El entrenamiento terminó! - Doblaje en español](https://www.youtube.com/watch?v=PBdrLzMgKDo)» — canal de Toei Animation, 1:49 ✅.
 - Los minutos de lo que se ve en cada uno van en §12.
 
+### 10.2 Repaso del equipo (24-sep-2026): el doblaje hoy, más voces y más frases
+
+**Dónde va el doblaje en 2026:**
+- **Netflix llega al ep. 877** (Whole Cake): 823-849 el 1-may-2026 y 850-877 el 1-jun-2026 ✅ (Doblaje Wiki + [ANMTV, 3-may-2026](https://www.anmtvla.com/2026/05/netflix-suma-mas-anime-su-catalogo.html)). Antes: Dressrosa 629-750 (1-feb-2025), Zou 751-771 y 772-796 (oct y nov-2025) ✅ ([ANMTV, Dressrosa](https://www.anmtvla.com/2025/01/one-piece-netflix-estrena-los-episodios.html), [ANMTV, Zou](https://www.anmtvla.com/2025/10/nuevos-episodios-de-one-piece-ya-estan.html)).
+- **Desde el ep. 459 dirige sólo Luis Miguel Morales** (Daniel Lacy deja la dirección en el 458) ✅ Morales ([ANMTV, Marineford](https://www.anmtvla.com/2024/04/one-piece-netflix-estrena-los-episodios.html)); el episodio exacto del relevo ⚠️ (Doblaje Wiki dice 445: no cuadran por 13).
+- **Wano (892-1085) ya se está grabando**; los eps. 913 y 914 se estrenaron doblados en la **CCXP México el 25-abr-2026** ⚠️ (Doblaje Wiki, que cita a [Mi Morelia](https://mimorelia.com/lo-kawaii/fans-de-one-piece-vivir%C3%A1n-experiencia-inmersiva-en-ccxp-m%C3%A9xico-2026)). En Wano, Doblaje Wiki pone a Zoro «Próximamente»: **no hay anuncio de cambio de voz** ⚠️.
+- Dirección musical: David J. Ramos desde el ep. 765 ⚠️ (sólo Doblaje Wiki).
+- **ONE PIECE HEROINES** tendrá doblaje latino en Crunchyroll el **13-oct-2026** ⚠️ ([ANMTV](https://www.anmtvla.com/2026/08/one-piece-heroines-contara-con-doblaje.html)).
+- **Las tres primeras películas vuelven al cine** en Latinoamérica (BF Distribution), con funciones dobladas: la primera desde el 17-sep-2026, *Aventura en la Isla Espiral* el 22-oct-2026 ✅ ([ANMTV, jul](https://www.anmtvla.com/2026/07/one-piece-bf-distribution-anuncia-la.html) + [ANMTV, sep](https://www.anmtvla.com/2026/09/one-piece-aventura-en-la-isla-espiral.html)).
+- Azteca 7 lo reemite desde el 15-abr-2024 ⚠️ (sólo Doblaje Wiki).
+
+**Voces de los secundarios** (Doblaje Wiki + ANMTV; ✅ = dos fuentes):
+
+| Personaje | Voz latina | Estado |
+|---|---|---|
+| **Trafalgar Law** | **Geno Sánchez** (desde Sabaody, ep. 392); en *Stampede*, Irwin Daayán ⚠️ | ✅ |
+| **Portgas D. Ace** | **Arturo Cataño** | ✅ |
+| **Boa Hancock** | **Cristina Hernández** | ✅ |
+| **Buggy** | Manuel Campuzano (1-206), luego **Mario Heras** | ✅ |
+| **Garp** | Eduardo Liñán; **Genaro Contreras** desde Whole Cake | ✅ |
+| **Koby** | Angélica Villa, todo el anime | ✅ |
+| **Kaido** / **Big Mom** | **Ricardo Brust** / **Gisela Casillas** | ✅ |
+| **Doflamingo** | **Dos voces** (corregido): **Alfredo Gabriel Basurto** en su primera aparición (6.ª temporada) y **Christian Strempler** desde el ep. 207. Basurto no volvió porque ya era la voz de Zoro ✅ ([X, One Piece Doblaje Latino News](https://x.com/onepiecedoblat/status/1708248955539112316) + Doblaje Wiki) | ✅ |
+| **Barbanegra** | **Dos voces** (nuevo): **Rubén Trujillo** en Jaya ([X](https://x.com/onepiecedoblat/status/1505810635732488192)) y **Carlos Segundo** desde Marineford ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Carlos_Segundo)) | ✅ |
+| **Mihawk** | **Esteban Desco** (*antes ⚠️*; 2.ª fuente: [X, arco 3D2Y](https://x.com/onepiecedoblat/status/1775390134113849587)) | ✅ |
+| **Tashigi** | **Tres voces** (corregido): **Liliana Barba** (la titular), **Ivett Toriz** (9.ª temporada, la de «Se Busca») y Rosalinda Márquez (sólo el ep. 336) ([Doblaje Wiki, ficha de Tashigi](https://doblaje.fandom.com/es/wiki/Tashigi)) | ✅ |
+| **Vivi** | **Lourdes Arruti**, de niña y de adulta (*antes ⚠️*; tabla del especial de Alabasta + [ficha de la actriz](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Lourdes_Arruti)) | ✅ |
+| Carrot · Rebecca · Barbablanca | Elizabeth «Sheva» Infante · Ana Lucía Ramos · Juan Carlos Tinoco | ✅ |
+| Oden · Rayleigh | Sergio Gutiérrez Coto · José Luis Orozco | ✅ |
+| **«El otro Luffy»** (Luffy espejo, Whole Cake) | **Ayari Rivera** (su 3.ª vez: Luffy en *Film Gold* y Oars con la sombra de Luffy) | ✅ |
+| Crocodile · Smoker · Sabo · Katakuri | Sebastián Llapur · Dan Osorio · Luigi Suárez (Carlos Eduardo Guilbert de niño) · Erick Selim | ⚠️ (Doblaje Wiki) |
+| Kid · Kizaru · Aokiji | Óscar López · René García · José Gilberto Vilchis | ⚠️ (ANMTV) |
+| Narrador | Gerardo Vásquez (hasta el 212); **Óscar Gamboa** desde el 213 | ⚠️ |
+
+**Frases nuevas, textuales** (muestras de Doblaje Wiki pasadas por Whisper *medium*; el segundo es el de la muestra) ✅:
+
+| Quién (voz) | Frase textual | Muestra · segundo |
+|---|---|---|
+| **Brook** | «Pero vengan, **mi barco es su barco. Siéntanse en casa.** ¿Quieren una tacita de café?» | «Brook 1» · 0:19-0:23 · **la mejor frase de bienvenida del doblaje** |
+| Brook | «Mis ojos sólo son para las mujeres hermosas. **Pero como ven, ya no tengo ninguno.** ¡Yo-jo-jo-jo!» | «Brook 1» · 0:23-0:31 |
+| **Nami** | «Yo soy una **estafadora que le roba a los piratas**. ¡Mi nombre es Nami! ¡Oye! ¿No quieres unirte a mí?» · «Si quieres, **yo puedo invitarte a comer algo**.» | «Nami» · 0:03-0:10 |
+| **Luffy** (Desireé) | «Esperen, antes de eso, escúchame… **¡Únete a nosotros!**» · «No es para tanto, además **ya tengo todo un equipo preparado**.» | «Luffy 3» · 0:07-0:17 (a Brook, Thriller Bark) |
+| Luffy (Mireya) | «…si no quiero perder a nadie, voy a tener que ser **el más fuerte del mundo. ¡Marcha!**» | «Luffy 2» · 0:19-0:29 |
+| **Zoro** (Dafnis) | «Yo soy mucho más tenaz que tú, tengo pensado sobrevivir a esto.» · «**¡Cállate y dámelo!**» | «Zoro 1» · 0:16-0:28 |
+| Zoro (Basurto) | «¡Pero no fui yo! **Mi espada lo hizo sola.**» · «**¡No te daré a él! ¡Te daré mi cabeza en su lugar!**» (a Kuma, ep. 377) · «**¡Y creo que eso me da un gran valor!**» | «Zoro 2.1» · 0:04, 0:14-0:19, 0:19-0:30 |
+| **Sanji** | «**Ah, sabio mar, gracias por la casualidad de hoy. Ah, amor infame**, no puedo con este tormento… estoy dispuesto a convertirme en un pirata o incluso en el mismo demonio.» | «Sanji 1» · 0:17-0:34 (a quién ⚠️) |
+| **Chopper** | «¡Me convertiré en un médico que cure lo que sea! **¡Curaré incluso un país entero!**» · «¡Iré al mar!» | «Chopper 1» · 0:11-0:16 y 0:26 |
+| **Usopp** | «Ah, otro día de arduo trabajo. **Debo esparcir un poco de emoción en esta aldea tan aburrida.**» | «Ussop 1» · 0:00-0:06 |
+| **Robin** | «**Yo soy Nico Robin. Soy arqueóloga.**» · «Sí, consumí la **fruta Flor-Flor**…» · su técnica «**Tres Flores**» | «Nico Robin 1.1» · 0:00-0:16 |
+| **Nami niña** (Gina Sánchez) | «…mi plan es usar mis habilidades como navegante para viajar por todos los océanos y, después de haberlo visto todo, **voy a trazar un mapa mundial**.» | «Nami niña» |
+| **Sanji niño** (Oliver Díaz) | «**Estaré bien, me quedan cinco días de comida… lo dividiré para que me dure 20 días. En 20 días tiene que pasar un barco.**» (los 85 días en la roca con Zeff) | «Sanji 1.2» |
+| **Zoro niño** (Jared Mendoza) | «…quiero que salga a pelear el más fuerte de aquí. Oye, no me subestimes por ser un niño…» (la promesa a Kuina) | «Zoro niño» |
+| **Luffy niño** (Mireya) | «…ustedes no se portaron como hombres ni como piratas. ¡Ya olvídalo!» | «Luffy niño» |
+| **Usopp niño** | «…me gusta imaginar, porque **yo soy el hijo de un auténtico pirata**.» | «Ussop niño» |
+| **Tashigi** (Ivett Toriz) | «**Los carteles de Se Busca acaban de llegar, ¡lo lamento!**» | «TashigiOP2» · 0:01-0:04 |
+| **Mihawk** (Esteban Desco) | «Su espíritu es inquebrantable. Prefiere morir a ser derrotado… **te ganaste el favor de una espada.**» | «Mihawk-OP» |
+| **Doflamingo** (Basurto) | «Sólo me divierto… ¿qué puedo decir?… Estás manchando el nombre de Buda, almirante Sengoku.» | «DoflamingoOP1» |
+| **Barbanegra** (Rubén Trujillo) | «¿Qué les parece una buena lucha hasta la muerte, donde yo mismo seré su juez?… ¡Jajajaja…!» | «Barbanegra_Trujo» |
+| **Vivi** (Lourdes Arruti) | «**Entonces, explícame por qué tienen que morir.**» (a Crocodile, Alabasta) | «Vivi LourdesArruti» |
+| **Crocodile** (Sebastián Llapur) | «Pueden llamarme como quieran… no permito que alguien que se burla de mí siga con vida después de faltarme al respeto.» | «Crocodile-OP» (la última palabra, «mocoso», revisar de oído ⚠️) |
+
+**Cómo suenan esos secundarios** (voz.py): Crocodile **113 Hz, 27,7 st** (el villano más expresivo medido) · Doflamingo 136 Hz, 28,2 st · Mihawk 163 Hz, rápido (3,27 p/s) · Barbanegra 315 Hz, risa enorme · Tashigi 401 Hz, **el tono más ajustado** (11,5 st) · Vivi 282 Hz, 28 st. **Smoker, Sabo, Katakuri y Jinbe no tienen muestra** en Doblaje Wiki (columna «Audio» vacía; comprobado por la API) ✅.
+
+**Vocabulario del doblaje que faltaba:**
+- «**Cisne Nami**» y «**Tigresa Robin**» (Sanji) ⚠️ (wiki en español).
+- Den Den Mushi = «**Caracol Transmisor**» ⚠️; Rumble Ball = «**Bola Retumbadora**» ✅; piedra marina = «Roca de Mar» ⚠️; primer oficial = «Vice capitán» ⚠️.
+- Miss All Sunday = «**Srta. Domingo**» ✅; Miss Wednesday = «**Srta. Miércoles**» ✅ (misma actriz, Lourdes Arruti).
+- «**Mar del Este**» (East Blue) ✅; fruta **Flor-Flor** ✅; **Laugh Tale** se dice bien desde el principio ⚠️.
+- **Serie con actores:** Luffy dice «**¡Síganme los buenos!**» (el Chapulín Colorado) y le dice a Zoro «Eres mi primer oficial» ⚠️. Taz Skylar (Sanji) se dobla **con acento de Canarias**, que causó polémica ✅ (Doblaje Wiki + [TikTok de UmaruYT, 727.900 vistas](https://www.tiktok.com/@umaru.yt/video/7274537116422507809)).
+- **Cómo saluda la primera Luffy a sus fans:** «Mis terroncitos de azúcar, **nakamas** y público en general» (0:00) y «**Nakama forever**, directo a la Gran Ruta» (8:23) · vídeo de Mireya Mendoza ✅. **Ojo:** el doblaje dice «compañero», pero **la comunidad sí dice «nakamas» para saludar**. En la lámina sigue mandando «tripulación» (§14).
+
 ---
 
 ## 11 · Música
@@ -986,6 +1233,42 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 
 - **En latino los temas se dejan en japonés** (no se redoblaron «We Are» ni «memories» como en 4Kids) ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece), «Sobre la transmisión»; ANMTV dice que los openings y endings llevan **textos localizados**).
 - Compositores de la banda sonora: **Kōhei Tanaka** ✅ (ANN + wiki) y **Shirō Hamaguchi** ✅ (ANN + créditos pista a pista de la wiki, p. ej. [«One Piece OST - NEW WORLD»](https://onepiece.fandom.com/wiki/One_Piece_OST_-_NEW_WORLD)). *Antes, Hamaguchi con ⚠️.* Ficha: [ANN en GitHub](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/836.json).
+
+### 11.1 Repaso del equipo (24-sep-2026): la lista completa, el ambiente y el latino
+
+**Son 29 openings y 23 endings** (la biblia tenía 8 temas) ✅ ([wiki, «One Piece Music»](https://onepiece.fandom.com/wiki/One_Piece_Music) + [one-piece.com, 28-mar-2026](https://one-piece.com/news/78689/index.html)):
+- **Openings 23-29:** 23 «DREAMIN' ON» (Da-iCE, 935-1004) · 24 «PAINT» (I Don't Like Mondays., 1005-1073) · 25 «Saikō Tōtatsuten» (SEKAI NO OWARI, 1074-1088) · 26 «**UUUUUS!**» (Kitadani, música de Kōhei Tanaka, 1089-1122) · 27 «ANGEL & DEVIL» (GRe4N BOYZ, 1123-1138) · 28 «**Carmine**» (ELLEGARDEN, 1139-1155) · 29 «**Luminous**» (AiNA THE END, 1156-) ✅.
+- **Endings 19-23:** «Raise» (Chilli Beans., 1071-1088) · «Dear sunrise» (1089-1122) · «The 1» (muque, 1123-1138) · «PUNKS» (1139-1155) · «**Sono Mirai / その未来**» (時速36km, 1157-) ✅.
+- **Del ep. 279 al 1070 no hubo endings** ✅. La wiki lo dice textual: «Toei stopped airing endings from episodes Episode 279 to Episode 1070 to have time to make longer openings. Endings resumed on episode Episode 1071». *Antes, deducción propia con ⚠️.*
+- **«Carmine» se estrenó el 10-ago-2025** ✅ (el [wikitexto de «Carmine»](https://onepiece.fandom.com/wiki/Carmine) cita el anuncio de one-piece.com del 4-ago-2025 + la ficha del [ep. 1139](https://onepiece.fandom.com/wiki/Episode_1139)). *Antes ⚠️.*
+- «**We Are!» volvió como opening del ep. 1000** («Straw Hats Edition»): un *remake* plano a plano del OP 1 ✅ ([wiki](https://onepiece.fandom.com/wiki/We_Are!) + [copia mirada](https://archive.org/details/one-piece-episode-1000-opening-we-are-straw-hats-edition), §12.3).
+- **Horario nuevo desde Elbaf** (5-abr-2026): domingos **23:15** en Fuji TV, en vez de 9:30. Se ve en la mosca de cada opening ([OP 26, 0:10](https://www.dailymotion.com/video/x8r9tzd?start=10): «毎週日曜 あさ9時30分より»; [OP 28, 0:24](https://www.dailymotion.com/video/x9otrgy?start=24): «よる11時15分より») ✅.
+- La música del avance del próximo episodio es un remix de «We Are!» (1-516), «We Go!» (517-891), «OVER THE TOP» (892-1089) y «UUUUUS!» (1090-) ⚠️.
+
+**Tempo medido** (BPM, con numpy sobre el audio de las copias; sirve para cortar al ritmo en #edición) ⚠️ medida propia: «We Are!» (ep. 1000) **168** · «UUUUUS!» **182** · «Carmine» **144** · «OVER THE TOP» **106**.
+
+**Qué ambiente da cada uno:**
+- «We Are!» y «UUUUUS!»: las dos de Kitadani con Tanaka; «UUUUUS!» abre con **el Sunny visto desde arriba**, eco del primero. Visualmente **plano y pop**: morado, amarillo y rayas de peligro.
+- «Carmine»: rock; **fuego naranja y noche** (Egghead en llamas) ✅.
+- «Luminous»: Luffy con la ropa de Elbaf, admirado, en un prado inmenso ⚠️ (sólo *storyboard*).
+- **Música de fondo** ([wiki, «One Piece Soundtracks»](https://onepiece.fandom.com/wiki/One_Piece_Soundtracks)):
+  - **«Minato Mura» (港村, «pueblo del puerto»)**: ragtime alegre de fiestas y finales de arco. **Es la música de «bienvenido a bordo»** ⚠️ (una fuente).
+  - **«Overtaken»**: la entrada épica (el paseo hacia Arlong Park, ep. 37) ✅; la copia más vista tiene **30.552.914** visitas ([daFi4MScfl8](https://www.youtube.com/watch?v=daFi4MScfl8)).
+  - **«Mother Sea»**: la tristeza (funeral del Merry) · «The Very, Very, Very Strongest»: la carga (Enies Lobby) · «Fierce battle! Zoro vs. Sanji»: las peleas en broma ⚠️.
+  - **«Binks' Sake / ビンクスの酒»**: la canción pirata de Brook, letra de Oda; entera en el **ep. 380**; su última frase dice 笑い話 («laugh tale») ✅ ([wiki inglesa](https://onepiece.fandom.com/wiki/Binks%27_Sake) + [wiki española](https://onepiece.fandom.com/es/wiki/Sake_de_Binks)).
+
+**Efectos de sonido que todos reconocen:** el **ドン!!** (y **べべん!!** en Wano, §8); el «**¡SUPER!**» de Franky; la risa «**Shishishi**» de Luffy y el «**¡Yo-jo-jo-jo!**» de Brook en latino (§10) ✅.
+
+**En español latino (lo que más sirve a un servidor de doblaje y canto):**
+- En la versión de 4Kids **«We Are» se cantó en español**: **Manuel**, coros de **Hugo González**, letra de **Jorge Roig** ⚠️ (sólo Doblaje Wiki); Televisa lo emitió ✅. El opening latino de la tele, subido por fans: [976.072 visitas](https://www.youtube.com/watch?v=9tm-F6G-Q6c). Red Uno (Bolivia) puso ese «We Are» en el opening del ep. 1000 ⚠️.
+- **«El sake de Binks» en latino** lo canta Brook (Óscar Flores): [cap. 380, audio latino](https://www.youtube.com/watch?v=l4nQYLTvujE) ⚠️ (subida de fans).
+- ***Film Red*: todas las canciones de Uta se doblaron**, cantadas por **Aitza Terán**: «Nueva génesis», «Invencible», «Contraluz», «Poema fugaz», «Tot Musica», «El mundo continuará», «Donde nace el viento». Dirección musical Rubén Bedolla, adaptación **Yang Coutiño** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece_Film:_Red) + [entrevista de X-Tops](https://www.youtube.com/watch?v=6mJIpPgO1SU)). En la entrevista, [1:01:49](https://www.youtube.com/watch?v=6mJIpPgO1SU&t=3709): la más difícil de adaptar fue **«Tot Musica»**, por su estructura; [1:03:39](https://www.youtube.com/watch?v=6mJIpPgO1SU&t=3819): «le puse **"Poema fugaz"** porque quise hacer el juego del nombre» (utakata = fugaz) ⚠️ (subtítulo automático). **Matiza a Doblaje Wiki**, que dice que la más difícil fue «Poema fugaz».
+- **Serie de Netflix**: música de Sonya Belousova y Giona Ostinelli; «My Sails Are Set» feat. AURORA (T1, [5.256.902 visitas](https://www.youtube.com/watch?v=qis5zUBA_sk)); en la T2 (10-mar-2026) «Pray to the Sun» y **Luffy le canta «Binks's Brew» a Laboon** ✅ ([clip de Netflix, 1.423.709](https://www.youtube.com/watch?v=NMQrAvlL3Ks)).
+- Tōhōshinki (TVXQ) sacó «Share The World -RED OCEAN Ver.-» el 15-abr-2026 ⚠️ ([one-piece.com](https://one-piece.com/news/79045/index.html)).
+
+**Visitas de los vídeos oficiales** (24-sep-2026): «UUUUUS!» **29.017.632** ([YFbno_aPm0w](https://www.youtube.com/watch?v=YFbno_aPm0w)) · **«We Are!» en THE FIRST TAKE 23.782.808** ([HB4iNVa746E](https://www.youtube.com/watch?v=HB4iNVa746E)) · aviso de «Luminous» 17.998.303 · «Carmine» 11.117.963 · «Raise» 6.561.644.
+
+**Para #bienvenidas:** «**We Are!**» (la letra de «súbete al barco») con la luz y el barco del **ED 23 «Sono Mirai»** (la vida diaria a bordo, §12.3) y, de fondo, «**Minato Mura**».
 
 ---
 
