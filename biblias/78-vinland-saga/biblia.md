@@ -1133,3 +1133,646 @@ amanecer**, paleta fría y poco saturada, o **blanco y negro de manga**.
 editorial (sólo de fans).
 
 ---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+La escribe el redactor con los datos de §3 a §17. La IA **no inventa
+referencias**: sirve para probar poses, fondos o luces, siempre partiendo
+de las imágenes reales que se citan aquí.
+
+### A. Para una IA de imagen (Firefly, Canva)
+
+**1. Rasgos que nunca cambian**
+
+| Personaje | Siempre | Nunca |
+|---|---|---|
+| **Askeladd** | Hombre maduro (33-44 años), **pelo rubio ondulado a la altura del mentón**, **perilla y barba corta**, **nariz aguileña**, ojos azules claros, **cejas gruesas con las puntas hacia arriba**, **sonrisa ladeada**; coraza de cuero oscura sin mangas con hombreras de metal, túnica de manga larga, espada | Gritando con la boca muy abierta (salvo de joven), armadura brillante de fantasía, pelo largo |
+| **Thorfinn** (guerra, 16-18 años) | Rubio, **pelo corto y despeinado**, ojos marrones **entrecerrados, sin brillo**, ceño fruncido, **bajo de estatura**, capa corta con **ribete de piel oscura**, **dos dagas agarradas al revés** | Ojos grandes y brillantes, sonrisa, ropa limpia |
+| **Thorfinn** (Vinlandia, adulto) | Rubio, **pelo peinado hacia atrás**, ojos abiertos y tranquilos, **túnica con capucha caqui** `#BAA16E`, polainas envueltas, cinturón con funda de daga | Armas en la mano, cara de rabia |
+| **Thorfinn** (niño, 6-7 años) | Cara redonda, **ojos grandes y curiosos**, pelo bien peinado, ropa campesina de Islandia, manto de piel | Ojos muertos |
+| **Canute** (T1) | **Pelo rubio largo y liso**, ojos azules grandes, **cara andrógina**, labios carnosos («pouty lips», wiki), **capa roja con ribete de piel** `#9C403B` | Barba, pose firme |
+| **Canute** (rey, T2) | Pelo rubio **corto**, perilla, **cicatriz bajo el ojo izquierdo**, **diadema**, capa terracota `#B46746`, mirada fría | Sonrisa, lágrimas |
+| **Einar** | Alto y musculoso, **pelo castaño rojizo corto**, **cejas gruesas**, ojos azules (anime), **lunar a la izquierda del puente de la nariz**, **camisa verde** `#7A7646` | Armas, armadura |
+
+**2. Paleta** (medida, §5 y §16)
+
+- Noche y aurora: `#131E35` `#1B3F7B` `#2895B6` `#34BAC6`; aurora verde `#329D5B`.
+- Nieve de Islandia: `#F1F1EA` `#CED1D9` `#9DB1D0` `#48658B`.
+- Interior con fuego y castillos: `#0B0907` `#241B0D` `#694630` `#B68C6E` `#DCBD9C`.
+- Bosque de la granja: `#1B2616` `#263020` `#816541` `#EAC7A1`.
+- Trigal (la única escena cálida): `#E8E74D` `#EFE68F` `#BDAB4B`.
+- Regla: **frío y poco saturado** (saturación 13-40 %); el **fuego es la
+  única luz cálida**.
+
+**3. Línea, sombreado y luz** (§19)
+
+- Línea **de grosor variable, como tinta a pincel**, oscura; en los
+  paisajes casi no hay línea (degradado).
+- Sombreado **pictórico**: 2-3 bandas suaves y degradados, no *cel-shading*
+  plano y brillante.
+- Luz **direccional y realista**: cielo nublado de día, luna o aurora de
+  noche, fuego en interiores.
+
+**4. Encuadre**
+
+- **Planos generales muy abiertos** para la escala (barco entre témpanos,
+  campo de cadáveres, fiordos).
+- **Primeros planos muy cerrados** de cara y ojos para la emoción.
+- **Contrapicado** para presentar a alguien imponente (Thors, OP1 1:15).
+- **De espaldas mirando el paisaje** para pensar (Thorfinn al amanecer,
+  Canute en la nieve).
+
+**5. Palabras que ayudan** (en inglés, que es como mejor responden):
+
+> Vinland Saga anime style, WIT Studio, 11th century Viking Age,
+> historical seinen, muted earthy palette, painterly background art,
+> realistic proportions, variable ink line weight, overcast Nordic light,
+> snowy fjord, longhouse interior lit only by a hearth fire, fur-trimmed
+> capelet, wool tunic, leather cuirass, dual daggers reverse grip,
+> aurora over a dark sea, close-up on the eyes
+
+Etiquetas tipo Danbooru que entienden bien: `viking`, `fur_trim`,
+`capelet`, `tunic`, `dual_wielding`, `reverse_grip`, `goatee`,
+`aquiline_nose`, `androgynous`, `scar_on_face`, `thick_eyebrows`,
+`green_shirt`.
+
+**6. Palabras que lo estropean**
+
+> chibi, kawaii, moe, sparkles, glossy cel shading, neon, pastel candy
+> colors, big shiny eyes (en el arco de la venganza), horned fantasy
+> armor, speech bubble, comic balloon, clean vector outline
+
+**7. Qué imágenes usar de referencia**
+
+| Para | Imagen |
+|---|---|
+| Estilo y color de personaje | [Hoja de color de Thorfinn](https://static.wikia.nocookie.net/vinlandsaga/images/9/94/AnimationWorksPreview_Thorfinn.png) (artbook) |
+| Pose de Askeladd | [Diseño del anime](https://static.wikia.nocookie.net/vinlandsaga/images/9/9b/Askeladd_anime_design.png) (hoja `personajes_01.jpg` #17) y [hoja del artbook](https://static.wikia.nocookie.net/vinlandsaga/images/c/c7/AnimationWorksPreview_Askeladd.png) |
+| Grupo | KV3 T1 (hoja `arte_01.jpg` #3) |
+| Fondos | Tableros «Scenery» del artbook (hoja `fondos_01.jpg` #9); OP1 1:00 y 1:24 |
+| Barco | Vuelta del barco del artbook (hoja `fondos_01.jpg` #10) |
+| Volumen 3D | figma Thorfinn; modelos de §4 |
+
+El fan art (§4) **nunca** como referencia de estilo final: sólo para ver
+cómo lo interpreta el fandom.
+
+### B. Para una IA de texto (diálogos en su voz)
+
+**1. Cómo habla cada uno**
+
+| Personaje | Tono | Muletillas y forma | Puntuación |
+|---|---|---|---|
+| **Askeladd** | Calmado, irónico, grave. **Nunca grita** | Cuenta una historia o hace una pregunta antes de ir al grano. Se burla con suavidad. Habla de la gente como si la leyera por la cara | Frases medias, puntos; alguna pregunta retórica. **Sin exclamaciones** |
+| **Thorfinn** (venganza) | Seco, cortante | Frases de dos a cinco palabras. No explica nada | Puntos. Alguna exclamación de rabia |
+| **Thorfinn** (adulto) | Lento, pausado, sereno | Explica despacio, con pausas | **Puntos suspensivos**, frases cortas |
+| **Thors** | Calma de padre, solemne | Preguntas que obligan a pensar: «Piénsalo bien» | Pausas largas (1,31 palabras por segundo) |
+| **Canute** (rey) | Absoluto, frío | Habla en primera persona de su destino y de Dios | Frases firmes, sin dudas |
+| **Canute** (príncipe) | Tembloroso | Frases cortadas | Puntos suspensivos |
+| **Einar** | Directo, emocional, cálido | Dice lo que piensa sin filtro | Exclamaciones sinceras |
+| **Thorkell** | Jovial, bruto | Se ríe; sólo quiere pelear | «Yo... sólo... quiero... pelear.» |
+
+**Cómo exageran las emociones**: casi no las exageran. La serie **baja
+el volumen**: la emoción fuerte va en **silencio y mirada** (el
+reencuentro del T2 ep. 1 es mudo hasta el «¡Ven!»). Los gritos son para
+la batalla. El doblaje de Netflix **usa groserías** («Doblaje con
+groserías»); en la lámina, mejor sin ellas.
+
+**2. Frases reales por emoción** (la fuente entre paréntesis)
+
+- **Explicando**: «Pon atención, Thorfinn. No tienes enemigos... Nadie
+  tiene enemigos. Nadie en este mundo merece ser herido.» (Thors,
+  doblaje Netflix, ep. 2, 1:05). «Quieres una espada... son para matar
+  personas. Piénsalo bien: ¿a quién quieres matar?» (Thors, ep. 2, 0:37).
+  «Es un paraíso donde nadie envejece ni muere, la tierra prometida...»
+  (Askeladd, ep. 22, 2:52).
+- **Triste**: «Eran bestias, monstruos con aspecto humano.» / «Esta vez
+  protegeré a mis hijos de la tormenta que son los adultos.» (Einar,
+  subtítulo del tráiler T2, 0:39). «No pasaré el resto de mi vida en el
+  fin del mundo.» (tráiler, 0:58).
+- **Animando o alegre**: «¡Ven!» (Thorfinn, doblaje Netflix, T2 ep. 1,
+  2:36). Últimas palabras de Askeladd: «You did well» / «Don't waste
+  it» (subtítulo inglés del clip de Crunchyroll, ep. 24) ⚠️ sin versión
+  latina transcrita.
+- **Enfadado o duro**: «Necesitarás más cadáveres para llegar a lo más
+  alto.» (tráiler, 2:02). «We did this.» / «You speak as though this was
+  an act of nature, Gunnar.» (Canute rey, manga en inglés, hoja
+  `personajes_01.jpg` #5) ⚠️ edición inglesa.
+- **Presentarse**: «—¿Cómo te llamas? —Einar.» (subtítulo automático en
+  español del clip de Netflix Anime, 0:00).
+- **La frase-símbolo**: «Un verdadero guerrero no necesita espada.»
+  (Thors, manga cap. 15, página 5). «No tengo enemigos, ninguno.»
+  (Thorfinn adulto, arco final ⚠️ capítulo sin precisar).
+
+**3. Vocabulario de la serie**
+
+- **Vinlandia** (Vinland), **jomsvikingo**, **skræling** (así llaman los
+  nórdicos a los nativos de Vinlandia), **«la maldición de la corona»**,
+  **berserker**, «**el Troll de Jom**» (Thors), «**Cadena de Hierro**»
+  (Halfdan), **Askeladd** = «el Muchacho Ceniciento», **Artorius**.
+- Fechas como cartela: «Inglaterra, 1013 d.C.».
+
+**4. Vocabulario de expresiones para la IA de imagen**
+
+| Gesto | Cómo se dibuja en Vinland Saga |
+|---|---|
+| Inocencia | Ojos grandes, redondos, con brillo (Thorfinn niño) |
+| Vacío, rencor | **Ojos entrecerrados sin brillo**, ceño fruncido («dead eyes») |
+| Tensión | **Gota de sudor** y dientes apretados (manga, hoja #15) |
+| Furia (T2) | **Líneas negras que cruzan la cara** (recurso de MAPPA) ⚠️ una fuente |
+| Vergüenza | Sonrojo (`blush`, Einar con Arnheid) |
+| Tristeza | Una sola lágrima, mandíbula tensa, mirada de reojo (Einar) |
+| Emoción grande | No hay fondos de emoción de colores: la emoción la ponen **la luz y el paisaje** (aurora, trigal, lluvia de sangre roja del KV3) |
+| *Chibi* | **No existe en la serie**: no usar |
+
+---
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### Quién la hizo
+
+- **Anime** (AniList, `datos-texto.md`): director **Shūhei Yabuta**,
+  guion **Hiroshi Seko**, diseño de personajes y director de animación
+  jefe **Takahiko Abiru**, dirección de arte **Yūsuke Takeda**, diseño de
+  color **Satoshi Hashimoto**, props **Tatsumori Imoto**, fotografía
+  **Yūki Kawashita**, dirección de CG **Mayu Takehana**; diseñador 2D
+  **Hirofumi Araki** (del artbook) ✅.
+- **WIT Studio** hizo la T1 (2019) y **MAPPA** la T2 (2023), pero **se
+  quedó el mismo equipo clave** para no romper el estilo ✅
+  ([ComicBook.com](https://comicbook.com/anime/news/vinland-saga-season-2-mappa-wit-studio/),
+  [GameRant](https://gamerant.com/vinland-saga-season-2-mappa-studio/)).
+- MAPPA añadió **líneas negras que cruzan la cara** cuando alguien está
+  furioso ⚠️ ([Sportskeeda](https://sportskeeda.com/anime/mappa-s-animation-vinland-saga-season-2-displeases-attack-titan-fans)).
+
+### Lo que dicen ellos (making of)
+
+- Entrevista a Yabuta y Abiru ([AnimaniA](https://animania.de/vinland-saga-anime-staff-interview-mit-shuhei-yabuta-und-takahiko-abiru/),
+  en alemán) ✅:
+  - El manga tiene **demasiadas líneas para animarlo igual**: simplificaron
+    el trazo y cuidaron los detalles en cada escena.
+  - Yabuta viene del **CGI 3D**: **planea la cámara en 3D junto con la
+    animación** para dar profundidad a la acción y los fondos. AniList le
+    da a la serie la etiqueta «CGI» con un 39 %.
+  - **Las caras primero**: «las emociones no se pueden escenificar bien
+    sin controlar bien las caras».
+- **Artbook «Animation Works»** (WIT, 25-sep-2020, 272 páginas, B5, sólo
+  japonés): diseño de color y de props, tableros con comentarios de
+  Takeda, diseños de Araki y Abiru y entrevista ✅
+  ([wiki](https://vinlandsaga.fandom.com/wiki/Vinland_Saga_Animation_Works)).
+- **Yukimura se documenta viajando**: Noruega, Dinamarca, Islandia,
+  Francia, Inglaterra y Canadá ✅.
+- **Del papel al ordenador**: dibujaba con tinta y escaneaba; con la
+  pandemia (hacia los **capítulos 168-169**) pasó a entintar en digital ⚠️
+  ([Comic Natalie, charla con Isayama](https://natalie.mu/comic/pp/vinlandsaga),
+  resumen del buscador; la página dio 403). ⚠️ **El programa no se
+  confirmó** (¿Clip Studio Paint?).
+- Yukimura: para contar **el odio a la violencia**, el mundo tiene que
+  **estar lleno de violencia** ⚠️ ([manga-kuroyan](https://manga-kuroyan.com/5216.html)).
+- Satoru Noda admira cómo Yukimura dibuja **la nieve distinta si la pisa
+  un pie o la corta un hacha** ✅.
+
+### Cómo se ve
+
+- **Paleta** térrea y apagada; **el fuego es la única luz cálida** en los
+  interiores (§5) ✅.
+- **Línea**: en personajes, tinta de grosor variable; en paisajes, muy
+  poca (el OP1 mide «poca línea» en aurora y bosque; «normal» en el
+  castillo).
+- **Sombreado**: pictórico, degradados suaves, luz realista. Varias
+  reseñas lo comparan con *La princesa Mononoke*.
+- **Manga**: tramas de **puntos finos** para sombras de piedra y nieve,
+  **líneas paralelas** para el agua (hojas `fondos_01.jpg` #2, #5-7) ✅.
+
+### Cómo reproducirlo (propuesta del equipo, no cita)
+
+**Photoshop**
+
+1. Pincel de **tinta con presión** (grueso al apoyar, fino al final). Nada
+   de contorno vectorial uniforme.
+2. Sombras en **2-3 capas** en modo Multiplicar con degradado suave.
+3. Una capa de **luz de rebote naranja** (modo Trama o Luz suave) en
+   interiores, desde el fuego.
+4. Paisaje: pintura sin línea, degradados de cielo (paletas de §5).
+5. Textura de **papel** (Paper001) en Multiplicar al 10-20 % para quitar
+   el brillo digital.
+
+**Blender**
+
+1. Contorno con **Line Art (Grease Pencil)** o **Freestyle**, con grosor
+   que cambie con la distancia a la cámara. **Solidify no**: da un
+   grosor igual y se aleja del trazo de Yukimura.
+2. Shader *toon* de **2-3 bandas suaves** (Shader to RGB + ColorRamp en
+   Ease), más una luz de rebote cálida en interiores.
+3. Luz: un sol frío y bajo de día; de noche, luna azul y el fuego como
+   Point Light naranja.
+4. Modelos libres (CC BY, con crédito): dagas de Thorfinn, Thors lowpoly,
+   barco vikingo (§4). Tablones: WoodFloor051 o Planks030A (CC0).
+5. Render y después **`v3/integrar.py`** para que el personaje encaje
+   (regla 3 del dueño).
+
+### Encuadres y composición
+
+| Para… | Encuadre |
+|---|---|
+| Escala, épica | Plano general muy abierto, horizonte bajo (barco entre témpanos, campo de cadáveres) |
+| Emoción | **Primer plano muy cerrado** de ojos (clip ep. 2, 0:53-1:52) |
+| Poder | Contrapicado (Thors, OP1 1:15; Canute ante el ejército) |
+| Soledad, pensar | De espaldas, figura pequeña ante el paisaje (Thorfinn en el muelle, 2:10; al amanecer) |
+| Violencia | Silueta negra contra luz blanca (castillo, tráiler 2:02) |
+| Calma | Luz dorada en campo abierto (trigal del ED1) |
+
+---
+
+## 20 · Texturas 2D
+
+| Capa | Qué hay en la serie | Equivalente libre |
+|---|---|---|
+| **Trama de manga** | Puntos finos en piedra y nieve; líneas paralelas en agua (caps. 130, 138, 146) | [Brusheezy, 34 pinceles de trama](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) (gratis); [Photoshop Supply, +35 texturas de trama](https://www.photoshopsupply.com/patterns-textures/halftone-texture) (gratis, con atribución) ✅ |
+| **Grano de papel** | Portadas y pergamino del mapa | [Paper001](https://ambientcg.com/view?id=Paper001) (CC0) |
+| **Tela de túnica** | Lana y lino | [Fabric081C](https://ambientcg.com/view?id=Fabric081C), [Fabric061](https://ambientcg.com/view?id=Fabric061) (CC0) |
+| **Cuero** | Coraza de Askeladd, cinturones | [Leather037](https://ambientcg.com/view?id=Leather037), Leather030 (CC0) |
+| **Metal** | Hombreras, hachas | [Metal063](https://ambientcg.com/view?id=Metal063), Metal049A (CC0) |
+| **Madera** | Barcos, casas largas, tablas | [WoodFloor051](https://ambientcg.com/view?id=WoodFloor051), Planks030A (CC0) |
+| **Salpicadura roja** | Lluvia de sangre del KV3 T1 (hoja `arte_01.jpg` #3) | Pintarla con pincel de salpicadura; o `v3/sangre.py` del proyecto |
+| **Emblemas** | **Jomsvikings**: hacha de un filo con ojo grabado, capa blanca, escudo rojo y amarillo. **Nudos nórdicos y cenefa de falsas runas** del logo de Kodansha USA. **Ornamento dorado sobre rojo** de la portada del artbook | Dibujarlos a partir de las referencias |
+
+- ⚠️ No hay **heráldica propia** de la banda de Askeladd ni del ejército
+  de Canute (búsquedas «emblem», «symbol», «banner» en la wiki): sólo
+  motivos vikingos históricos.
+- Junto con §4 (3D) y §5 (texturas reales), las capas de la lámina
+  quedan cubiertas salvo **nieve, paja y piedra** ⚠️.
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+| Personaje | Cumpleaños y edad | Altura | Objeto | Gustos y odios | Fuente |
+|---|---|---|---|---|---|
+| **Thorfinn** | **3 de febrero** (Yukimura lo fijó en Twitter en 2021; antes decía que no tenía); nacido en 996 | 100 cm (6-7 años), 153 cm (16-18), 155 cm (19) | **Las dos dagas** de su padre | Niño: las historias de Leif. Adulto: el campo, la paz. Teme volverse un asesino | AniList + wiki ✅ |
+| **Askeladd** | Nacido en 969, muere en 1014 con 44 años | — | Espada; su arma de verdad es **leer caras** | ⚠️ comida y aficiones no documentadas | Epicstream ⚠️; AniList da edad 33-44 |
+| **Canute** | **12 de julio**; nacido en 996 | 170 cm | Capa y diadema (rey) | De joven **odia las armas** y le dan miedo; **cocina** (escena del cap. 15 en la votación oficial: «¿Qué ave será? Aún no he hecho ave», cocinando para Ragnar ⚠️); fe cristiana: reza, lleva cruces, cita a Dios | AniList ✅; cocina ⚠️ |
+| **Einar** | 20 años al aparecer (1015); cumpleaños no documentado | — | Herramientas de campo | Hijo de granjeros; sabe labrar. Su meta: fundar Vinlandia | wiki ✅ |
+| **Thorkell** | — | **230 cm** | Hacha (prop con diseño propio en el artbook) | **Pelear** con alguien de su nivel; se irrita si pasa tiempo sin combate | AniList ✅ |
+| **Thors** | — | 180 cm | Su espada (prop del artbook) | Harto de la guerra, granjero pacifista | AniList ✅ |
+| **Leif** | Nacido en 965 | 152 cm | Sus historias de Vinlandia | Busca a Thorfinn más de 10 años | AniList ✅ |
+| **Willibald** | 23 años | — | — | El alcohol; busca el amor verdadero | AniList ⚠️ |
+| **Bjorn** | — | — | Setas del berserker | La pelea | AniList ⚠️ |
+| **Mimi** | — | — | Su oído | Necesita silencio total; la nieve le apaga el sonido | AniList ⚠️ |
+| **Halfdan** | — | — | **Cadena de hierro** | Encadenar a los demás es su filosofía | AniList ⚠️ |
+
+- **Cómo se ven a sí mismos**: Thorfinn, como alguien que no debe repetir
+  la violencia; Askeladd, como un hombre que ya no espera que el héroe
+  vuelva; Canute, como el que carga con la «maldición de la corona».
+- ⚠️ No hay *databook* traducido con fichas de «le gusta / no le gusta»:
+  es un seinen histórico, no un shōnen. La *Official Guidebook*
+  (Kodansha, 2019, 256 páginas) existe en japonés, francés e italiano,
+  no en español ni inglés ([wiki](https://vinlandsaga.fandom.com/wiki/Vinland_Saga_Official_Guidebook)).
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar o gritar
+
+### Razones concretas
+
+- **Un pacifismo raro en el género**: Yukimura es pacifista declarado. La
+  serie muestra la violencia vikinga más cruda y luego dice que la paz
+  cuesta más que cualquier batalla, **sin vender el trauma como
+  «desarrollo»**. Varias reseñas independientes lo dan como la razón
+  número uno ✅.
+- **Identificación**: los lectores se ven en **la culpa y el duelo de
+  Thorfinn**; la describen como una lectura que empuja a la empatía en
+  vez de la rabia.
+- **Dos personajes, el mismo origen**: Thorfinn y Askeladd salen del mismo
+  dolor y eligen distinto (hilo de Reddit, 42 votos).
+- **Premios del manga**: **Gran Premio de manga de los Japan Media Arts
+  Awards** (2008), **36.º Premio Kodansha de Manga**, categoría general
+  (2012); nominado al Manga Taisho 2008; **más de 1,2 millones de copias
+  sólo de los 5 primeros tomos** (2008) ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Vinland_Saga_(manga))).
+- **Premios del anime**: ganó **Mejor Drama** en una edición de los
+  Crunchyroll Anime Awards; 16 nominaciones en total; la T2 compitió en
+  2024 por Anime del Año, Mejor Personaje Principal (Thorfinn), Mejor
+  Cinematografía, Mejor Drama y Mejor Serie Continuada. **Perdió Anime
+  del Año** y los fans protestaron en Reddit ✅.
+- **AniList**: nota media 87, popularidad 548 003 ✅.
+
+### Las escenas que hacen llorar
+
+| Escena | Dónde | Qué pasa y por qué duele | Cómo está hecha | Cómo reaccionó la gente |
+|---|---|---|---|---|
+| **Muerte de Thors** | manga cap. 4-5, **anime ep. 4** | Thors vence a los hombres de Askeladd y a Askeladd mismo, pero **se rinde para salvar a su hijo** y lo matan por la espalda, delante de Thorfinn | Thors arrodillado, espada baja; Askeladd con sonrisa cruel; primer plano de los ojos del niño; la sangre se extiende por la túnica gris ([clip](https://www.youtube.com/watch?v=LPnQ74j1dqY)). Música: el tema que los fans llaman «Thors vs Askeladd» ⚠️ | Es la **escena n.º 4 de la votación oficial** («第4話 トールズの死») con la cita «本当の戦士には、剣などいらぬ». En MyAnimeList cuentan que lloraron «con orgullo» ✅ |
+| **Muerte de Askeladd** | manga cap. 90-91, **anime ep. 24** | Se enfrenta solo al rey Sweyn para que **Canute reine**; antes revela que desciende de Artorius | Celda de piedra, antorchas, banda roja, «Don't waste it» ([clip Crunchyroll](https://www.youtube.com/watch?v=PF2NTT_mnps)) | Escena n.º 24 de la votación oficial; de lo más compartido del fandom |
+| **Muerte de Arnheid** | **T2, ep. 20** | La pareja de Einar muere tras la violencia y la desesperanza; Thorfinn le dedica unas palabras al despedirla | ⚠️ no se miró el vídeo | Un usuario de Reddit «sollozó sin control»; según Sportskeeda, «encarna el mensaje de toda la T2» ✅ ([Sportskeeda](https://sportskeeda.com/anime/vinland-saga-season-2-episode-20-arnheid-einar-s-love-story-ends-thorfinn-goes-c)) |
+| **«Nadie tiene enemigos»** | manga cap. 2, **anime ep. 2** | Thors le explica al niño que no tiene enemigos. Es la semilla de toda la serie | Primeros planos de los ojos de Thors, pausas largas; termina con el niño **solo en el muelle nevado** mirando irse el barco (2:10-2:13) | En la votación oficial: «第2話「お前に敵などいない誰にも敵などいないんだ」» ✅ |
+| **Reencuentro de Thorfinn y Einar** | **T2, ep. 1** | Se reconocen sin palabras | **Sólo música orquestal** hasta el «¡Ven!» del 2:36 | ✅ (clip mirado) |
+
+### Las que hacen gritar de emoción
+
+- **Thorkell frena solo un ejército riéndose** (manga cap. 9-10, anime
+  ep. 9-10): el momento de acción más compartido como «hype». Está en la
+  votación oficial («第9話「必殺！！竜骨砕き！！」») ✅.
+
+⚠️ El **minuto dentro del episodio completo** no se tiene: sólo el del
+clip recortado.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+| Qué | Canal | Escena | Vistas | Enlace |
+|---|---|---|---|---|
+| Fandub **«Tú no tienes enemigos»** | Mend VA Dubs (Facebook) | Thors y Thorfinn, ep. 2 | 2477 ✅ | [Facebook](https://www.facebook.com/100063024169377/videos/tu-no-tienes-enemigos-vinland-saga-fandub-espa%C3%B1ol-latino/1024247659028271/) |
+| Fandub **«La muerte de Askeladd»** | RodriFD (YouTube) | ep. 24 (5:03) | 740 ✅ | [YouTube](https://www.youtube.com/watch?v=AqaUzBNYoms) |
+| **Cover del OP1 «MUKANJYO» en español latino** | James Mart | Opening 1 | **32 184** ✅ (el más visto) | [YouTube](https://www.youtube.com/watch?v=zPXwYoFYDgU) |
+| «MUKANJYO Full Español Latino ft. Jhair & Tricker» | — | Opening 1 | ⚠️ sin vistas | — |
+| Cover del OP3 «RIVER» | André - A! | Opening 3 | ⚠️ sin vistas | — |
+
+- **Vinland Saga Latinoamérica** (Facebook): la comunidad hispana más
+  activa. Sube **los clips oficiales doblados episodio a episodio**, hace
+  memes, «duelos de arco» y **encuestas sobre qué actor pondrían a cada
+  personaje** ✅ ([página](https://www.facebook.com/VinlandSagaLatam)).
+- **TikTok**: [@fandoblajes](https://www.tiktok.com/@fandoblajes/video/7291264804713450758)
+  compara Netflix y Crunchyroll; **@lalogarx** (el propio Lalo Garza)
+  cuenta cómo dobló a Thorfinn ✅.
+- **Lo que más se discute en español**: **cuál doblaje es mejor**. Para un
+  servidor de doblaje es oro: una lámina 2 o un reto puede poner la misma
+  frase en las dos versiones.
+- ⚠️ No se encontró un meme hispano propio.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+| Qué | Cuándo | Qué trae | Fuentes |
+|---|---|---|---|
+| **Cómic «Assassin's Creed Valhalla × Vinland Saga»**, dibujado y escrito por **Yukimura** | 23-oct-2020, web de Ubisoft Japón | Una entrega, arte nuevo del autor | [ComicBook.com](https://comicbook.com/anime/news/assassins-creed-vinland-saga-manga-crossover/) + [wiki de Assassin's Creed](https://assassinscreed.fandom.com/es/wiki/Assassin's_Creed:_Valhalla_x_Vinland_Saga) ✅ |
+| **Película *The Northman* (2022) × anime** | enero de 2023 | Vídeo con los seiyū de Thorfinn (Yūto Uemura) y Canute (Kenshō Ono) | [ANN](https://www.animenewsnetwork.com/interest/2023-01-05/vinland-saga-the-northman-come-together-for-the-ultimate-viking-crossover/.193451) + [Código Espagueti](https://codigoespagueti.com/noticias/anime/vinland-saga-the-northman-tienen-genial-colaboracion-oficial/) ✅ |
+| **Zombieland Saga × Vinland Saga** | estreno del anime (2019) | Ilustración de la cuenta oficial de Zombieland Saga | [AnmoSugoi](https://www.anmosugoi.com/de-interes/zombieland-saga-estrena-una-ilustracion-crossover-con-vinland-saga/) ⚠️ una fuente |
+| **Prefectura de Saga («Sagaprise!»)** | 3-18 oct 2019, Akihabara | «Búsqueda de Vinlandia»: rally de sellos; exposición con diseños, dibujos originales y fondos | [ANN](https://www.animenewsnetwork.com/interest/2019-09-17/vinland-saga-vikings-enjoy-saga-prefecture-bounty/.151221) + [Anime Anime Global](https://animeanime.global/2019/09/24/48410.html) ✅ |
+| **Figura figma Thorfinn** (Good Smile, n.º 608) | anunciada 30-may-2023, salió feb-2024 | ~145 mm, ropa de tela, caras y dagas intercambiables: **referencia 3D de pose y volumen** | [goodsmile.com](https://www.goodsmile.com/en/product/12106/figma+Thorfinn) + [Hobby Genki](https://hobby-genki.com/en/figma/18144-figma-thorfinn-vinland-saga-action-figure-limited-edition-4545784068939.html) ✅ |
+| **Cosplay de Askeladd** | — | Foto real, materiales y volumen (819×1024, CC BY-NC 2.0, plumvs-photo) | [Flickr](https://live.staticflickr.com/65535/52593952796_33fbe2f334_b.jpg) ✅ |
+| **Guía de cosplay de Thorfinn** | — | Peluca, piel, túnica beige, cinturón, daga | [Carbon Costume](https://carboncostume.com/thorfinn-from-vinland-saga/) ⚠️ |
+
+- ⚠️ No hay **cafés temáticos** ni colaboraciones con **gachas o
+  Fortnite** en lo buscado. Tampoco videojuegos (§13).
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### Lo que recomienda el público (AniList, votos)
+
+Attack on Titan (2876), **Berserk** (1066), Dororo (546), *Orb: On the
+Movements of the Earth* (413), *To Your Eternity* (142), Rurouni Kenshin
+2023 (128), **Golden Kamuy** (123), Kingdom (92), *Jaadugar* (80),
+Claymore (65), *Ranking of Kings* (59), Drifters (53) ✅.
+
+### Influencias y parientes que reconoce el autor
+
+- **El Puño de la Estrella del Norte**: Yukimura pasó unos **20 años
+  dándole vueltas a los capítulos 2 y 3**, incómodo con que Kenshiro no
+  arreglara el problema de raíz («¿por qué no llevaste el grano de vuelta
+  al pueblo?»). Esa pregunta es el tema de Vinland Saga: construir la paz,
+  no sólo vencer ✅ ([Anime Corner](https://animecorner.me/interview-vinland-saga-creator-makoto-yukimura/)).
+- **Vicky el Vikingo**, la serie que vio de niño, el origen remoto de su
+  interés por los vikingos ⚠️ (una fuente).
+- **Golden Kamuy** (Satoru Noda): admiración mutua, los dos investigan
+  viajando; Noda admira a Askeladd ✅.
+- **Attack on Titan** (Hajime Isayama): charla a solas entre los dos en
+  Comic Natalie; Isayama elogia su estructura en tres actos ✅.
+- **Planetes**, la obra anterior de Yukimura (1999-2004, Premio Seiun
+  2002): ciencia ficción realista, antecedente del realismo histórico de
+  Vinland Saga ✅.
+
+### Láminas del servidor que se le parecen (para no repetir)
+
+| Lámina vecina | Qué usa | Cómo se diferencia Vinland Saga |
+|---|---|---|
+| **Attack on Titan** (#reglas) | Cartela de **papel sucio con cinta de pincel rojo sangre** | Madera tallada, cuero, pergamino de mapa; sangre sólo como salpicadura |
+| **Arcane** (#proyectos y #arte) | Si se queda #proyectos, choca | Vinland Saga: mapas y madera, mundo medieval, luz de fuego |
+| **Death Note** (#textos) | Si Vinland Saga hace su lámina 2 | Muelle nevado y tabla tallada, no cuaderno |
+| **Violet Evergarden** (#poemas) | Cartas y máquina de escribir | Evitar «carta escrita»: en Vinland Saga, mapa y tallado |
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### Las reglas del mundo en cinco líneas
+
+1. **Europa vikinga de principios del siglo XI** con hechos reales
+   (batalla de Maldon en 991, conquista danesa de Inglaterra), pero con
+   licencias: la wiki avisa que no es una cronología exacta ✅
+   ([Timeline](https://vinlandsaga.fandom.com/wiki/Timeline)).
+2. **La esclavitud es legal y corriente**; un esclavo puede **comprar su
+   libertad trabajando** ✅.
+3. **El poder se decide por la espada y el linaje**: Sweyn Forkbeard,
+   Canute, Ethelred II y Edmund Ironside son reyes reales ✅.
+4. **Los jomsvikingos** son una hermandad de élite con reglas propias:
+   capa blanca, disciplina militar y **funeral en el mar** (el cuerpo arde
+   en un barco mientras suenan flautas) ✅
+   ([Jomsvikings](https://vinlandsaga.fandom.com/wiki/Jomsvikings)).
+5. **Vinlandia es real**: la serie la sitúa en la **Isla del Príncipe
+   Eduardo** (Canadá), «Epekwitk» en mi'kmaq; lo confirma Yukimura en el
+   tomo 26. Allí Thorfinn quiere fundar **«una tierra sin guerra ni
+   esclavos»** (1022, junto a la tribu de Kitpui) ✅.
+
+### La historia por arcos
+
+Yukimura confirmó en Twitter (2019) que son 4 partes ✅
+([Story Arcs](https://vinlandsaga.fandom.com/wiki/Story_Arcs)).
+
+| Arco | Capítulos | Tomos | Anime | Qué pasa | Momentos clave |
+|---|---|---|---|---|---|
+| **De la guerra** | 1-54 | 1-8 | **T1**, ep. 1-24 | Infancia en Islandia; Thorfinn sigue a Askeladd para vengarse; guerra por la corona de Inglaterra | Muerte de Thors (ep. 4); Thorkell frena un ejército (ep. 9-10); Canute despierta; muerte de Askeladd (ep. 24) |
+| **De la esclavitud** | 55-99 | 8-14 | **T2**, ep. 25-48 | Thorfinn, esclavo en la granja de Ketil, desbroza un bosque con Einar; Canute rey y su «paraíso en la tierra» | Reencuentro con Einar (T2 ep. 1); ataque a la granja; muerte de Arnheid (T2 ep. 20) |
+| **Expedición al este** | 100-166 | 14-24 | — | Vuelve a Islandia; viaja al este (Bizancio) para pagar el sueño de Vinlandia; guerra civil de los jomsvikingos | Jomsborg de noche (cap. 146) |
+| **De Vinlandia** | 167-final | 24-final | — | Fundación de la colonia | Thorfinn con Gudrid; contacto con los nativos |
+
+La serie **terminó el 25 de julio de 2025**, tras 20 años ✅.
+
+### Objetos icónicos y símbolos
+
+- **Las dos dagas de Thorfinn**, **la espada de Thors**, **la espada de
+  Askeladd** y **el hacha de Thorkell**: los cuatro props con diseño de
+  color propio en el artbook oficial ✅.
+- **Los jomsvikingos**: **hacha de un filo con un ojo grabado**, **capa
+  blanca**, **escudo rojo y amarillo** ✅.
+- **El barco vikingo** (drakkar o knarr, vuelta completa en el artbook) y
+  el **mascarón de proa tallado** (clip ep. 2, 2:10).
+- **El mapa de Vinlandia** pintado a pluma (opening).
+- **La vela de rayas rojas y blancas** (portada del tomo 1).
+- **La banda roja** de Askeladd en su final.
+- **La diadema** de Canute rey.
+- **La cartela roja** del número de capítulo.
+
+### Vocabulario que un fan reconoce al instante
+
+- «**Un verdadero guerrero no necesita espada**» (Thors, cap. 15, pág. 5;
+  la repiten Askeladd y Thorkell) ✅
+  ([wiki: Thors](https://vinlandsaga.fandom.com/wiki/Thors_Snorresson)).
+- «**No tienes enemigos**» / «**No tengo enemigos, ninguno**» ✅.
+- «**Crearé un paraíso en esta tierra**» (Canute) ✅.
+- «**Sigue adelante, Thorfinn**»: últimas palabras de Askeladd, que le
+  pide no pasarse la vida aferrado a la venganza (en la wiki inglesa:
+  «Move on, Thorfinn. Don't hang on to this petty bullshit your entire
+  life») ✅.
+- **Vinland**, **jomsvikingo**, **skræling**, **«la maldición de la
+  corona»**, **Artorius**, **Troll de Jom**, **berserker**.
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Canal propuesto: **#proyectos** (conceptos 1 y 2); reserva, **#textos
+lámina 2** (concepto 3). Ver §0.
+
+Lo que dice el canal según `servidor/inventario.md`:
+
+- **#proyectos**: «Un hilo por proyecto: equipo, avance, entregas.»
+  Etiquetas: Buscando gente, En traducción, En grabación, En edición, En
+  revisión, Estrenado, En pausa, Cancelado, Oficial del servidor, De la
+  comunidad. Hilos fijados: «📌 De qué va esto» y «EJEMPLO · Proyecto en
+  marcha, para ver el formato».
+- **#textos**: «Guiones para practicar: monólogos, diálogos, escenas y
+  narraciones. Un hilo por guion, y di si se puede usar libre o hay que
+  pedir permiso.» Etiquetas: Monólogo, Diálogo, Escena de anime,
+  Comercial, Narración, Original, Libre para usar, Pide crédito, Para dos
+  voces.
+
+Las frases de los personajes en la lámina son **propuestas del
+redactor** en su voz (§18), no citas, salvo donde se dice.
+
+### Concepto 1 · «El mapa de campaña de Askeladd» (#proyectos) · recomendado
+
+- **El objeto y el sitio**: una **mesa de tablones** dentro de la **casa
+  larga**, de noche, con el **hogar encendido** como única luz (tablero
+  «Scenery» del artbook, hoja `fondos_01.jpg` #9). Sobre la mesa, un
+  **mapa de campaña de pergamino**, dibujado a pluma como el **mapa del
+  cruce a Gales** del manga («Askeladd's landing», «Thorkell's men»,
+  Bristol, hoja `fondos_01.jpg` #4). **En Blender**: plano con Paper001,
+  simulación de tela para las arrugas y bordes enrollados, tinta que
+  sigue las arrugas; unas **fichas de madera** y **una daga clavada** en
+  el punto donde «vamos».
+- **El personaje**: **Askeladd**, el más querido (§9). De pie,
+  **inclinado sobre la mesa**, una mano apoyada con el brazo entero a la
+  vista (regla 7 del dueño) y la otra señalando el mapa con la daga.
+  **Sonrisa ladeada**, ojo algo entrecerrado.
+  - Cuerpo y ropa: diseño del anime (hoja `personajes_01.jpg` #17) y
+    [hoja del artbook](https://static.wikia.nocookie.net/vinlandsaga/images/c/c7/AnimationWorksPreview_Askeladd.png).
+  - Gesto de explicar: el «this part is important» del ep. 24
+    ([clip](https://www.youtube.com/watch?v=PF2NTT_mnps)).
+  - Paleta: coraza `#6D5B42`, túnica `#D9C08D`, pelo rubio con luz de
+    fuego.
+- **Cómo habla**: su nombre en la **cartela roja rectangular** del manga
+  (texto blanco); su frase en **cartela negra con serif blanca**
+  (Playfair Display), como en los tráileres, abajo. Calmado, sin
+  exclamaciones:
+  - «Un hilo por proyecto. Dime quién va, hasta dónde llegaste y qué
+    entregas.»
+  - «Esta parte es importante: marca en qué punto estás.» (eco de su
+    frase del ep. 24)
+  - «¿Quieres ver cómo se hace? Abre el hilo de ejemplo.»
+- **Dónde va cada texto**:
+  - Arriba a la izquierda, **«PROYECTOS»** en rojo con trazo roto
+    (Eater), como el logo.
+  - En el mapa, a pluma (MedievalSharp), **tres zonas**: «Equipo» junto
+    a un grupo de fichas, «Avance» sobre la flecha de la ruta,
+    «Entregas» en el destino.
+  - En el margen del mapa, una **leyenda** con las 10 etiquetas (Pirata
+    One pequeña), cada una con su marca.
+  - Abajo, la cartela negra con la frase de Askeladd.
+- **Para que no quede plano**:
+  - Delante, **desenfocadas**, las espaldas de dos hombres de su banda
+    (como el grupo del KV3, hoja `arte_01.jpg` #3) y el borde del fuego.
+  - El fuego a un lado: **luz naranja de rebote** en la cara y el pelo,
+    el otro lado en sombra `#241B0D`.
+  - Humo y vigas de la casa larga detrás; la daga clavada proyecta
+    sombra sobre el mapa.
+
+### Concepto 2 · «La tabla de Vinlandia» (#proyectos, o su lámina 2 de etiquetas)
+
+- **El objeto y el sitio**: el **campo que Thorfinn y Einar desbrozan**
+  en la granja de Ketil, a mediodía; bosque verde oscuro detrás (tráiler
+  T2, [1:31](https://www.dailymotion.com/video/x8h1n5b?t=91), paleta
+  `#263020` `#1B2616` `#816541`). Apoyada en el **tocón a medio
+  arrancar**, una **tabla de madera** con **el mapa de Vinlandia pintado a
+  pluma en tinta roja marrón**, como el del opening
+  ([mapa](https://vinlandsaga.fandom.com/wiki/File:Anime_op_vinland_map.jpg)).
+  **En Blender**: tabla con WoodFloor051, la tinta sigue la veta; el
+  tocón con raíces y la cuerda tensa.
+- **Los personajes**:
+  - **Thorfinn adulto** con la **túnica con capucha caqui** `#BAA16E`
+    ([hoja de color del artbook](https://static.wikia.nocookie.net/vinlandsaga/images/9/94/AnimationWorksPreview_Thorfinn.png)),
+    **ojos abiertos y tranquilos**, en cuclillas junto a la tabla,
+    señalando la ruta con la mano abierta.
+  - **Einar** de pie detrás, **camisa verde** `#7A7646`, apoyado en la
+    herramienta, sonrisa franca ([diseño T2](https://static.wikia.nocookie.net/vinlandsaga/images/7/74/Einar_S2_anime_design.png)).
+  - El dúo del arco de la esclavitud, el que el fandom hispano asocia a
+    esta parte (§8).
+- **Cómo habla**: **subtítulo sin caja** (Noto Sans blanca con contorno
+  fino), como en el anime; el nombre de cada uno en cartela roja.
+  - Thorfinn, despacio: «Un proyecto se cruza como el mar... paso a
+    paso.»
+  - Einar, directo: «¡Y ponle la etiqueta, que si no, nadie sabe dónde
+    vas!»
+- **Dónde va cada texto**:
+  - La **ruta** del mapa, de Islandia a Vinlandia, lleva las etiquetas
+    como paradas, a pluma (MedievalSharp): «Buscando gente» en el puerto
+    de salida; «En traducción», «En grabación», «En edición» y «En
+    revisión» en la travesía; **«Estrenado» en Vinlandia**.
+  - «En pausa» en un barco **fondeado**; «Cancelado» en un **barco
+    hundido**.
+  - «Oficial del servidor» y «De la comunidad» como **dos banderas** en
+    la esquina de la tabla.
+  - Arriba, «PROYECTOS» y la función del canal en una línea.
+- **Para que no quede plano**:
+  - En primer plano, **las raíces del tocón y la cuerda** cruzando,
+    desenfocadas.
+  - **Sol de mediodía** sobre la piel (`#EAC7A1`) y la tabla, con sombras
+    de hojas.
+  - Bosque profundo detrás, **polvo de tierra** en el aire.
+
+### Concepto 3 · «Para dos voces en el muelle» (#textos, lámina 2)
+
+- **El objeto y el sitio**: el **muelle nevado de Islandia**, el día que
+  Thors se va a la guerra (clip ep. 2, 2:10-2:13: el **mascarón de proa**
+  tallado contra el cielo y Thorfinn solo en el muelle). Un **poste o
+  tablón del muelle** con las 9 etiquetas de #textos **talladas**, con
+  nieve dentro de los surcos. **En Blender**: tallado con desplazamiento
+  sobre Planks030A, nieve en partículas, el barco de la vuelta del
+  artbook (hoja `fondos_01.jpg` #10) atracado al lado.
+- **Los personajes**:
+  - **Thors arrodillado** a la altura del niño, como cuando se despide de
+    Ylva (clip ep. 2, 1:58-2:04), serio y tranquilo.
+  - **Thorfinn niño** con los **ojos grandes y curiosos** (clip ep. 2,
+    0:04-0:18).
+- **Cómo habla**: en **formato de guion para dos voces**. Cada línea con
+  el nombre en **cartela roja** («THORS», «THORFINN») y el texto en
+  **cartela negra con serif blanca** (Playfair Display). Así la lámina
+  enseña el formato del foro. Arriba, como lema, la cita real del
+  doblaje de Netflix: «**Nadie tiene enemigos.**» (Thors, ep. 2, 1:05).
+  - Thors: «Un guion se ensaya con calma. Piénsalo bien antes de subirlo.»
+  - Thorfinn: «¿Y cómo sé si lo puedo usar?»
+  - Thors: «Míralo en la etiqueta: libre, o pide crédito.»
+- **Dónde va cada texto**:
+  - Arriba, «TEXTOS» (Eater) y la función del canal en una línea.
+  - El diálogo de tres líneas, a la izquierda, en formato de guion.
+  - Las **9 etiquetas talladas** en el poste del muelle, a la derecha.
+- **Para que no quede plano**:
+  - **El mascarón de proa** entra en primer plano por un lado.
+  - **Nieve cayendo** delante de los personajes.
+  - Fiordo con niebla detrás (paleta `#F8F9F5` `#CFD4CC` `#909C96`) y un
+    **farol cálido** en el barco, como el del KV2 (hoja `arte_01.jpg` #2),
+    único punto de luz caliente.
+
+### Ideas para láminas 2 y extras
+
+- **Reto de doblaje**: la misma frase en las **dos versiones latinas**
+  (Netflix y Crunchyroll), para comparar, como hace el fandom hispano
+  (§23).
+- **#eventos**: el rally de sellos «Búsqueda de Vinlandia» que hizo la
+  prefectura de Saga en 2019 (§24) sirve de modelo para un evento por
+  etapas con sello en cada una.
+- **Lámina 2 de etiquetas** de cualquier foro: la leyenda del mapa del
+  concepto 1.
+
+---
