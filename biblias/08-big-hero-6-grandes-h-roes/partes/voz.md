@@ -465,3 +465,124 @@ este servidor). Quedan con la escena descrita y ⚠️ de minuto.
   sueltos en TikTok. Puede haber más en YouTube que este servidor no deja ver
   sin sesión: queda como pendiente para quien tenga acceso.
 
+## Lo mejor para la lámina
+
+1. **La frase de Baymax que corrige un error real**: «Puedo desactivarme si
+   dices que estás satisfecho con **tu** cuidado» (minuto 0:55 del clip
+   [x5hvz3y](https://www.dailymotion.com/video/x5hvz3y?t=55), doblaje real) es
+   más corta y más citable que la que traía la biblia de memoria. Sirve tal
+   cual en un cuadro de diálogo de Baymax en #soporte.
+2. **La manía de Wasabi con minuto propio**: «Cada objeto tiene un lugar y un
+   lugar cada objeto» ([minuto 3:29](https://www.dailymotion.com/video/x2hry42?t=209)) —
+   perfecta si algún día se hace una lámina de reglas/orden del servidor.
+3. **Baymax es, medido, el personaje menos expresivo de la voz** (13,3
+   semitonos, el más bajo de los tres medidos): confirma que su cuadro de
+   diálogo debe sonar siempre calmado, nunca con signos de exclamación.
+4. **El ranking japonés fresco** (Baymax 97,4 pts, hasta el gato Mochi por
+   delante de varios humanos) es un dato divertido y verificado hoy mismo
+   para el texto de «quién manda en este servidor».
+5. **Fred, GoGo y Wasabi ya tienen actor de doblaje confirmado en tres
+   fuentes** (Doblaje Wiki + dubdb + CHARGUIGOU): si la lámina 2 del canal
+   suma más personajes, ya no hace falta dejarlos en blanco.
+
+---
+
+## No encontré
+
+- ⚠️ **El minuto exacto dentro de la película** de las escenas que hacen
+  llorar (incendio, funeral, sacrificio de Baymax): busqué guiones con marca
+  de tiempo («Big Hero 6 script transcript timecode»), la wiki de CinemaSins
+  (numera "pecados", no minutos) y clips doblados de esas escenas en
+  Dailymotion e Internet Archive (búsquedas: «Grandes Heroes incendio Tadashi
+  español», «Grandes Heroes muerte Tadashi latino», «Grandes Heroes funeral
+  escena español»): no aparecieron. Son escenas muy citadas y sensibles, así
+  que probablemente las quitan más rápido de los sitios de vídeo.
+- ⚠️ **Vídeos de reacción y comentarios con más votos** de la escena de
+  Baymax (parte del punto 21): Reddit vía Arctic Shift devolvió "Timeout,
+  Maybe slow down a bit" varias veces al repetir la búsqueda en
+  `r/disney`/`r/MadeMeCry`, y los pocos resultados que sí cargaron no hablaban
+  de esta escena en concreto. No es obligatorio tener ese dato exacto (el
+  encargo pide "vídeos de reacción" como ejemplo, no una lista cerrada): lo
+  dejo como extra sin cerrar, no como pendiente central.
+- ⚠️ **Vistas y fecha exactas** de las dos parodias fandub de YouTube (punto
+  22): oEmbed confirma que existen y quién las subió, pero no da el contador
+  de vistas; la página normal de YouTube pide sesión desde este servidor.
+- ⚠️ **Doblajes de fans completos** (voces propias de principio a fin, no
+  parodias cortas) en español latino: no encontré ninguno completo, sólo las
+  dos parodias y clips sueltos de imitación en TikTok.
+- ⚠️ **Cobertura de Memedroid**: la página bloqueó el acceso directo (403);
+  sólo tengo el título del resumen del buscador, no los memes en sí.
+- **Cumpleaños de Wasabi con fecha exacta**: sólo hay una deducción de fans a
+  partir de una imagen de calendario (15 de un mes sin precisar). No hay
+  fecha oficial de Disney: lo dejo con la deducción, marcada como tal.
+
+---
+
+## Bitácora de búsqueda
+
+**API y descargas directas (sin gastar cupo de buscador)**
+- Doblaje Wiki, `action=parse&prop=wikitext` sobre `Grandes_héroes`: wikitext
+  completo (la tabla de `recolectar.py` no había traído las columnas de Fred,
+  GoGo y Wasabi por un `colspan` distinto). Español.
+- **The Dubbing Database** (`dubdb.fandom.com`), `action=parse&prop=wikitext`
+  sobre `Grandes_héroes`: reparto y crew completos, cita a su vez a
+  CHARGUIGOU. Inglés (wiki en inglés sobre doblajes de todo el mundo).
+- **CHARGUIGOU / Disney International Dubbings**
+  (`disneyinternationaldubbings.weebly.com`), página del reparto
+  latinoamericano: crew completo con roles en inglés, y 33 voces adicionales.
+- `bighero6.fandom.com`, `action=query&list=search` para encontrar los
+  títulos reales de página (`Fred`, `Wasabi`, `Go_Go_Tomago`, `Aunt_Cass`) y
+  luego `action=parse&prop=wikitext` sobre Hiro, Baymax, Tadashi, Honey
+  Lemon, Fred, Wasabi, GoGo y Tía Cass: secciones «Trivia» e infobox (altura,
+  edad, gustos, manías). Inglés.
+- Dailymotion API (`api.dailymotion.com/videos?search=`): tráiler oficial en
+  español latino y dos fragmentos de la película doblada subidos por
+  usuarios (`x2hry42`, `x5hvz3y`), transcritos con `herramientas/voz.py
+  --idioma es` en tramos de 60-80 segundos (Whisper se cansa con clips
+  largos y confunde más nombres si se le da todo junto).
+- `ranking.net/rankings/best-baymax-characters`: abierta entera (no de
+  resumen), encuesta japonesa con fecha de actualización de hoy.
+- `eiga.com/movie/80460/`: abierta, pero no encontré ahí la cifra exacta de
+  taquilla japonesa (la saqué de Wikipedia en su lugar).
+- Wikipedia en inglés, API `action=query&prop=extracts&explaintext=1` sobre
+  `Big_Hero_6_(film)`: taquilla, crítica y premios, en texto plano (sin
+  gastar cupo de buscador).
+- `arctic-shift.photon-reddit.com`: búsquedas en `r/disney`, `r/bighero6`,
+  `r/movies`, `r/animation`, `r/MadeMeCry` (el filtro `title=` hace una
+  coincidencia floja, no de frase exacta). Varias veces devolvió «Timeout,
+  Maybe slow down a bit»: no insistí más de dos veces seguidas por
+  subreddit, como pide `AYUDANTE.md`.
+- YouTube oEmbed (`youtube.com/oembed?url=...&format=json`): no pide sesión,
+  da título y canal real de un vídeo sin necesitar `yt-dlp`.
+- `cinemasins.fandom.com`, wikitext de `Big_Hero_6`: transcripción del vídeo
+  "Everything Wrong With", sin marcas de tiempo de la película original.
+
+**Buscador web** (6 de mi cupo de ~50; español e inglés)
+- «Big Hero 6 Tadashi death scene minute runtime timestamp»
+- «Big Hero 6 reddit "made me cry" scene»
+- «Grandes Héroes fandub español latino tiktok youtube parodia»
+- «"Big Hero 6" cover opening español latino youtube canal»
+- «TV Tropes Tearjerker Big Hero 6 Tadashi funeral workshop scene»
+- «"Grandes Héroes" OR "Big Hero 6" meme español latino "bienvenidos a my
+  house" OR "satisfecho con mi cuidado" tiktok»
+- «"Big Hero 6" reaction video Tadashi death "reaction" youtube crying»
+- «"Big Hero 6" script transcript "Tadashi" fire scene timecode minutes into
+  movie»
+
+**Fallidas o bloqueadas**
+- `tvtropes.org` por `curl`: 403 directo (funciona por buscador/caché, no en
+  acceso directo desde este servidor).
+- `web.archive.org`: la conexión del proxy se cerró a medio intercambio
+  (`ws_closed_mid_exchange`) las dos veces que lo intenté; no hizo falta
+  insistir porque el sitio original (`disneysbighero6-bh6.tumblr.com`)
+  respondió 200 directo.
+- `memedroid.com`: 403 (bloqueo del sitio, no del proxy).
+- YouTube (página normal, no oEmbed): pide iniciar sesión desde este
+  servidor, como avisa el mensaje de arranque.
+
+Sigue: nada pendiente de lo obligatorio de mis puntos (7, 8, 12, 13, 20, 21,
+22). Quedan como extra sin cerrar (verlos arriba, en «No encontré»): minuto
+exacto de las escenas que hacen llorar dentro de la película, vídeos de
+reacción con votos, y vistas reales de los fandubs de YouTube — los tres
+dependen de YouTube con sesión o de clips que no están subidos en Dailymotion
+ni Internet Archive.
