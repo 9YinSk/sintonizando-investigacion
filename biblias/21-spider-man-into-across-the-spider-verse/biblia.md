@@ -313,11 +313,11 @@ siendo el del subtítulo ✅.
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Ninguna imagen se pudo bajar
-> Todo lo de aquí es **enlace**. Antes de dibujar, hay que abrir cada uno
-> en el PC del dueño y guardar las que sirvan en
-> `herramientas/laminas_v2/v3/referencias/spider-verse/`. Tamaños: sólo
-> los doy cuando la página los decía.
+> [!note] Segunda pasada: ya hay imágenes medidas
+> En la primera pasada no se pudo bajar nada. Ahora hay **9 hojas de
+> contacto** (383 imágenes de la wiki, con tamaño por la API) y **3 en
+> `hojas/`** (ver §3.6). Guardar las que sirvan en
+> `herramientas/laminas_v2/v3/referencias/spider-verse/`.
 
 ### 3.1 Pósters de personaje de ATSV (mayo de 2023) ✅
 
@@ -370,9 +370,61 @@ etiqueta **Efectos**.
 
 ### 3.5 Lo que falta ⚠️
 
-- No pude ver **ni una imagen** en grande. No hay hojas de contacto.
-- No encontré las **hojas de modelo** oficiales en abierto.
-- No encontré **portadas de Blu-ray** con tamaño.
+- ~~No pude ver ni una imagen en grande. No hay hojas de contacto.~~ →
+  **Resuelto** en la segunda pasada: 9 hojas miradas (§3.6).
+- Hojas de modelo: ya hay **turnarounds** oficiales de Gwen y de Hobie
+  (§3.6). Siguen sin aparecer las de **Miles** y **Miguel** ⚠️.
+- No encontré **portadas de Blu-ray** con tamaño ⚠️.
+- El libro *The Art of the Movie* (ATSV) existe, pero **no se pudo hojear
+  por dentro** ⚠️.
+
+### 3.6 Arte de producción en la wiki y las hojas de contacto (segunda pasada) ✅
+
+**Arte del equipo** (con autor y fecha en la propia imagen, no fan art):
+
+| Qué | Autor | Tamaño | Para qué |
+|---|---|---|---|
+| [Turnaround del traje de Gwen](https://static.wikia.nocookie.net/intothespiderverse/images/5/57/SpiderGwen_ATSV_Concept_Art_by_Kristafer_Anka_2.jpg), «WAM / CHARACTER DESIGN / GWEN / v101», 15-09-2020, 3 variantes de máscara y logo | **Kris Anka** | 2048×1326 | silueta y hex del traje ✅ |
+| [Ropa de calle de Gwen, 8 variantes](https://static.wikia.nocookie.net/intothespiderverse/images/2/2c/GwenOutfitsJes%C3%BAsAlonsoIglesias.jpg) (top rojo «PUNK», impermeable turquesa «ROCK'N'ROLL», blusa rosa, top mostaza con espiral) | **Jesús Alonso Iglesias** | 2048×1018 | Gwen de civil ✅ |
+| [Moodboard «BLACK PUNKS»](https://static.wikia.nocookie.net/intothespiderverse/images/c/ca/Spider_Punk_ATSV_moodboard_by_Evening_Monteiro.jpg): fotos reales de la escena punk negra de Londres y Nueva York | **Evening Monteiro** | 4096×1935 | Hobie no es «punk genérico» ✅ |
+| [Estudios de la chaqueta de Hobie](https://static.wikia.nocookie.net/intothespiderverse/images/8/8a/Spider_Punk_ATSV_by_Jake_Panian_3.jpg), parches y bajo; vista de espalda | **Jake Panian** | 1440×1440 | textura de la chaqueta ✅ |
+| [Turnaround de personaje](https://static.wikia.nocookie.net/intothespiderverse/images/7/75/Gwen_Stacy_%28Earth-65%29_AtSV_character_design_7_by_Lena_Sayaphoum.jpg) (serie de 3) | **Lena Sayaphoum** | 1600×1135 | pose ⚠️ (un solo crédito) |
+| [Ficha de Peter B.](https://static.wikia.nocookie.net/intothespiderverse/images/4/41/Peterbparkeratsv.jpg) `Peterbparkeratsv.jpg` y 53 imágenes grandes más | wiki | 3840×1600 | Peter B., antes en blanco ✅ |
+
+**Peter B. en la wiki**: la página se llama **`Peter Parker (Earth-616)`**
+(«Peter B. Parker» es una redirección) ✅. Por eso el recolector no la
+encontraba.
+
+**Las 3 hojas de `hojas/`** (miradas; el número es la casilla amarilla):
+
+1. **`personajes_01.jpg`** (hoja 1 del juego principal, 2400×1704,
+   0,6 MB). Sustituye a `colaboraciones_01.jpg`, que tenía menos uso
+   para la lámina.
+   - **1**: póster de Hobie en collage, «SAVE YOUR DAD» ([4096×2864](https://static.wikia.nocookie.net/intothespiderverse/images/d/d9/HobieBTSV.jpg)). Concepto C.
+   - **2-3**: Gwen de civil (5 looks) y estudios de peinado ([4096×2650](https://static.wikia.nocookie.net/intothespiderverse/images/9/97/FyCY0QkaYAEcgXs.jpg)).
+   - **4-10**: caras y cuerpo de Hobie a lápiz, de **Evening Monteiro** ([ej. 4096×2048](https://static.wikia.nocookie.net/intothespiderverse/images/5/50/Hobie_Brown_ATSV_by_Evening_Monteiro_1.jpg)). 11: el moodboard.
+   - **12**: [selfie de Gwen y Miles](https://static.wikia.nocookie.net/intothespiderverse/images/1/15/Gwenmilesselfie.jpg) (2748×2748). Presentar en pareja.
+   - **13, 25**: el Spider-Gang de UNU en grupo ([4200×1760](https://static.wikia.nocookie.net/intothespiderverse/images/3/3f/Spider-Gang.jpg)).
+   - **14, 17, 18**: caras de Gwen: ojos y boca muy abiertos ([GwenAwkward](https://static.wikia.nocookie.net/intothespiderverse/images/5/57/GwenAwkward.jpg)), susto en primer plano ([17](https://static.wikia.nocookie.net/intothespiderverse/images/a/a2/GLedZflWQAA_D6F.jpg)) y **agarrándose el pelo** ([GwenHairGrab](https://static.wikia.nocookie.net/intothespiderverse/images/a/ae/GwenHairGrab.jpg)). Todas 3840×1608, **sin minuto** ⚠️.
+   - **19**: Gwen en su cuarto, con tablón de fotos ([3840×1608](https://static.wikia.nocookie.net/intothespiderverse/images/9/98/GwenNoFilter.jpg)).
+   - **23**: **Miles pintando grafiti** ([Miles tagging, 3840×1608](https://static.wikia.nocookie.net/intothespiderverse/images/a/a4/Miles_tagging_001.png)). **La pose del concepto A.**
+   - **40**: Miles y Gwen sentados en el cuarto de Miles ([3840×1606](https://static.wikia.nocookie.net/intothespiderverse/images/2/27/GLerIMiWMAA2XoJ.jpg)). Concepto B.
+   - **45**: [Gwen, Miles y Hobie](https://static.wikia.nocookie.net/intothespiderverse/images/5/5c/GwenMilesHobie.jpg) juntos (3840×1606).
+2. **`vestuario_01.jpg`** (hoja 4, 2400×1704, 0,7 MB). Casillas
+   **133-136**: turnaround de Gwen con capucha puesta y quitada (Kris
+   Anka). **147-160**: más de 12 looks de calle de Gwen (Jesús Alonso
+   Iglesias). **163-170**: chaqueta, parches y bajo de Hobie (Jake
+   Panian). **186**: Funko Pop de Gwen. Para vestuario (§16) y texturas
+   (Punto 19).
+3. **`peterb_01.jpg`** (hoja propia de Peter B., 2400×1704, 0,6 MB).
+   Casillas **1-9**: traje y pose de Spider-Man clásico. **10, 17-48**:
+   escenas de familia (el anillo, el beso con MJ, la despedida de Miles,
+   la pelea con Olivia Octavius). Pose y ropa de casa (bata, ropa de
+   calle desaliñada).
+
+La hoja 7 (la antigua `colaboraciones_01.jpg`) sigue en
+`herramientas/referencias/spider-man-into-across-the-spider-verse/hoja_07.jpg`:
+casilla **49** skin de Gwen en Fortnite, **297 y 313** Funko Pop (Punto 23).
 
 ---
 
@@ -385,9 +437,9 @@ etiqueta **Efectos**.
 | Spray can graffiti [Low-poly] | smakologg | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/spray-can-graffiti-low-poly-by-smakologg-bd4f3e7d509f4fd691d9ee6def794f19) |
 | Spray Paint Can | Shara Ritchey (@SharaSchool) | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/spray-paint-can-360f6ce433894dc3baaa7e035b617aac) |
 | Free Spray Paint Can | navebackwards | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/free-spray-paint-can-7b44a71676d841c9a8eb777b2ee55096) |
-| 3D, low poly, Graffiti Spray Paint Can Prop | ScottPritchard | ⚠️ no la vi | [Sketchfab](https://sketchfab.com/3d-models/3d-low-poly-graffiti-spray-paint-can-prop-efffc9856955496187383760210fefe4) |
-| Graffiti on a wall — Low Poly | Léonard_Doye (@leoskateman) | ⚠️ gratis, licencia no vista | [Sketchfab](https://sketchfab.com/3d-models/graffiti-on-a-wall-low-poly-fb3d849c6de346079d338251533a84e6) |
-| Street Graffiti | Yanez Designs | ⚠️ gratis, licencia no vista | [Sketchfab](https://sketchfab.com/3d-models/street-graffiti-d366fa89405640428dff57961efc7886) |
+| 3D, low poly, Graffiti Spray Paint Can Prop | ScottPritchard | ⚠️ la API la da **vacía** (no es CC): sólo mirar | [Sketchfab](https://sketchfab.com/3d-models/3d-low-poly-graffiti-spray-paint-can-prop-efffc9856955496187383760210fefe4) |
+| Graffiti on a wall — Low Poly | Léonard_Doye (@leoskateman) | **CC BY** ✅ (API de Sketchfab, segunda pasada) | [Sketchfab](https://sketchfab.com/3d-models/graffiti-on-a-wall-low-poly-fb3d849c6de346079d338251533a84e6) |
+| Street Graffiti | Yanez Designs | **CC BY** ✅ (API de Sketchfab, segunda pasada) | [Sketchfab](https://sketchfab.com/3d-models/street-graffiti-d366fa89405640428dff57961efc7886) |
 
 **Crédito exacto para CC BY** (ejemplo): «"Spray can graffiti [Low-poly]"
 by smakologg, licensed under CC BY 4.0, sketchfab.com». Comprobar la
@@ -404,6 +456,18 @@ para pegarlos en la lámina**.
 [Miles UNU, elvinguhl](https://sketchfab.com/3d-models/miles-morales-into-the-spider-verse-88d2b738503d4af981f4f6b9fc9ddbab).
 En ArtStation, **Jose David Cruz** hizo un Hobie en 3D:
 [enlace](https://www.artstation.com/artwork/8Bm9JE).
+
+**Segunda pasada** (API de Sketchfab, licencia **CC Attribution** en la
+respuesta ✅; mismo aviso: sólo para mirar poses):
+[Spider Punk, CVRxEarth](https://sketchfab.com/3d-models/none-31b9e56833d34121a9a0012985c6bc09) ·
+[Miguel O'Hara, CVRxEarth](https://sketchfab.com/3d-models/none-ea60ca0885574fa8a6d85046dd884a60) ·
+[The Spot, CVRxEarth](https://sketchfab.com/3d-models/none-f07168481ba047969512fa9c075d1181) ·
+[Spider-Gwen ATSV, Kabiidev](https://sketchfab.com/3d-models/none-297c91b697f7428ea634ab454a598219) ·
+[Pavitr Prabhakar, Kabiidev](https://sketchfab.com/3d-models/none-4c4dab68017c488596bdd39e8eaf383a) ·
+[Gwen «Across Spider Verse», Artcon_3d](https://sketchfab.com/3d-models/none-9555d75d3d074dac84b4d705fc1d15b8) ·
+[Miles, Gwen e ITSV en grupo](https://sketchfab.com/3d-models/none-beaf3ab63026425fb8aa9d1a2187e476).
+**Rig libre** de Miles, Gwen o Hobie con licencia clara: **no lo
+encontré** ⚠️ (Sketchfab y GitHub; ver Punto 18).
 
 ### 4.3 Fan art 2D (mirar, nunca pegar)
 
@@ -449,11 +513,11 @@ repositorios se copia en el **compositor** así (propuesta mía ⚠️):
 | **Brooklyn Visions Academy**, el colegio y el pasillo | UNU 00:06:38 a 00:08:49; pasillo 00:16:14 | colegio moderno, luz de día fría ⚠️ |
 | **La estación de metro abandonada** del grafiti | UNU 00:10:56 a 00:13:07 («Did an engineering job down here», 00:11:03) | oscura, paredes llenas de grafiti viejo, luz de linterna y de espray ✅ (subtítulo) / luz ⚠️ |
 | **El cuarto de Miles** en casa, con sus dibujos | ATSV 00:46:17 a 00:46:48 | cuarto de adolescente, dibujos por todas partes, juguetes en caja ✅ (subtítulo) |
-| **La torre del Williamsburgh Savings Bank** (el reloj) | ATSV 00:49:52 («Who needs a treadmill when you have the Williamsburgh Bank Building?») | la escena **boca abajo** de Miles y Gwen, atardecer ✅ (subtítulo) / hora ⚠️ |
+| **La torre del Williamsburgh Savings Bank** (el reloj) | ATSV 00:49:52 («Who needs a treadmill when you have the Williamsburgh Bank Building?») | la escena **boca abajo** de Miles y Gwen, atardecer ✅ (subtítulo). **Visto en vídeo**: cielo **violeta y azul lavanda**, casi sin naranja ✅ ([clip, 0:09-0:48](https://www.dailymotion.com/video/x8l73q0?t=27)) |
 | **Casa de la tía May** y la guarida de Peter debajo | UNU 01:01:30 | sótano con trajes y pantallas ⚠️ |
 | **Tierra-65** (Gwen): Nueva York en **acuarela**; el **Guggenheim** | ATSV 00:07:33 y 00:08:33 | el color cambia con el ánimo de Gwen («anillo del humor»); sus primarios son **cian, naranja y violeta** en vez de amarillo, rojo y azul (Dean Gordon, director de arte) ✅ |
-| **Tierra-928, Nueva York** (Miguel, año 2099) | ATSV 01:17 a 01:30 (la sede) | futuro **brutalista y retro**, inspirado en **Syd Mead, Ron Cobb y Ralph McQuarrie**; arriba azules limpios, abajo oscuro tipo *Blade Runner* ✅ ([Variety](https://variety.com/2023/artisans/news/spider-verse-pays-homage-to-the-sex-pistols-graphic-artist-syd-mead-and-canadian-hockey-easter-egg-1235638844/), [Popverse](https://www.thepopverse.com/spider-man-verse-spiderverse-universes-worlds-spider-man-marvel)) |
-| **Tierra-138** (Hobie, Londres) | ATSV 01:10 (Hobie aparece en Mumbattan, no en su mundo) | como **entrar en un club punk ilegal** y pasar los dedos por **años de carteles** (Sex Pistols, Buzzcocks); fotocopia, collage, «fanzine» ✅ ([befores & afters](https://beforesandafters.com/2023/06/17/the-across-the-spider-verse-spider-punk-character-hobie-was-animated-with-different-frame-rates-for-different-parts-of-his-own-body-and-accessories/), [Variety](https://variety.com/2023/artisans/awards/spider-punk-hobie-spider-verse-animators-1235707039/)) |
+| **Tierra-928, Nueva York** (Miguel, año 2099) | ATSV 01:17 a 01:30 (la sede) | futuro **brutalista y retro**, inspirado en **Syd Mead, Ron Cobb y Ralph McQuarrie**; arriba azules limpios, abajo oscuro tipo *Blade Runner* ✅. La ciudad se diseñó como **reflejo de Miguel**: «limpia, fuerte, unificada, de fachada única» ✅ ([SlashFilm](https://www.slashfilm.com/1327386/across-the-spider-verses-nueva-york-took-cues-sci-fis-most-respected-artists)). Medido en una vista aérea nocturna del tráiler: **violeta malva** (`#725780`, `#4C365D`, `#A6879D`), no azul ([tráiler ATSV, 1:06](https://www.dailymotion.com/video/x8gaz41?t=66)) ✅ ([Variety](https://variety.com/2023/artisans/news/spider-verse-pays-homage-to-the-sex-pistols-graphic-artist-syd-mead-and-canadian-hockey-easter-egg-1235638844/), [Popverse](https://www.thepopverse.com/spider-man-verse-spiderverse-universes-worlds-spider-man-marvel)) |
+| **Tierra-138** (Hobie, Londres) | ATSV 01:10 (Hobie aparece en Mumbattan, no en su mundo) | como **entrar en un club punk ilegal** y pasar los dedos por **años de carteles** (Sex Pistols, Buzzcocks); fotocopia, collage, «fanzine» ✅. Lo confirma el propio estudio en el featurette **«Designing Spider-Punk»** (Kris Anka, Kemp Powers, Mike Lasker): su estilo se construyó pegando **fotocopias en blanco y negro, periódico y carteles de los Sex Pistols** (paneles rotulados «one black and white», «two newspaper», «three sex pistols», [0:25](https://www.dailymotion.com/video/x8oez5v?t=25)) ✅ ([befores & afters](https://beforesandafters.com/2023/06/17/the-across-the-spider-verse-spider-punk-character-hobie-was-animated-with-different-frame-rates-for-different-parts-of-his-own-body-and-accessories/), [Variety](https://variety.com/2023/artisans/awards/spider-punk-hobie-spider-verse-animators-1235707039/)) |
 | **Mumbattan** (Tierra-50101, Pavitr) | ATSV 01:02:30 («Earth-50101») y 01:07:03 | Mumbai + Manhattan, colores saturados ✅ (subtítulo) / colores ⚠️ |
 
 ### 5.2 Luz, medida en el «código de barras» de UNU ⚠️
@@ -478,23 +542,38 @@ Media de cada tramo del JSON: 0-13 min `#423E45`, 13-26 `#3D4045`,
 con el color puesto **encima** en luces fuertes. Una lámina clara y
 pastel **no** parece Spider-Verse.
 
-### 5.3 Paleta (aproximada) ⚠️
+### 5.3 Paleta: medida en la segunda pasada ✅ (y lo que sigue de memoria ⚠️)
 
-No pude muestrear fotogramas. Estos hex son **de memoria** o de
-**paletas de fans**; hay que corregirlos con la captura real.
+En la primera pasada no se pudo muestrear. Ahora los hex salen de
+`estilo.py` y Pillow sobre **fotogramas reales** (clips de Dailymotion) y
+**arte oficial plano** (sin luz de color encima).
 
-| Qué | Hex aproximado | Origen |
+| Qué | Hex medido | De dónde |
 |---|---|---|
-| Rojo de la araña de Miles | `#D7262E` | de memoria ⚠️ |
-| Negro del traje de Miles | `#141418` | de memoria ⚠️ |
-| Amarillo de las cajas de texto | `#FFE14D` | de memoria ⚠️ |
-| Rosa de Gwen | `#FF4081` | paleta de fans ⚠️ |
-| Turquesa de las zapatillas de Gwen | `#6ACADF` | [paleta Spider-Gwen, color-hex](https://www.color-hex.com/color-palette/1024127) ⚠️ |
-| Violeta de Tierra-65 | `#753FB1` | misma paleta ⚠️ |
-| Azul de Miguel | `#1B2A5C` | de memoria ⚠️ |
-| Rojo brillante de Miguel | `#FF2B2B` | de memoria ⚠️ |
-| Magenta y cian del desfase | `#E6007E` / `#00AEEF` (tintas de imprenta) | estándar de imprenta CMYK ✅ |
-| Paleta «Miles» de fans | `#79ADFF #0038C6 #FFFFFF #FF0000 #1A1C24` | [color-hex](https://www.color-hex.com/color-palette/1024196) ⚠️ |
+| Traje de Gwen: negro (no puro, tira a marrón) | `#2D2926` | turnaround de Kris Anka ✅ |
+| Traje de Gwen: rosa magenta de capucha y brazos | `#E6145A` (grupo `#DC145A`-`#E6145A`) | mismo ✅ (antes `#FF4081` de fans) |
+| Zapatillas de Gwen, cian | `#00FAFA` | mismo ✅ (antes `#6ACADF` de fans) |
+| Miguel: azul marino del cuerpo | `#304080` | fotograma plano [Spider-Men (E-67) 001](https://static.wikia.nocookie.net/intothespiderverse/images/e/ed/Spider-Men_%28E-67%29_001.png) ✅ (antes `#1B2A5C` de memoria) |
+| Miguel: rojo de máscara y guantes | `#E80038` | mismo ✅ (antes `#FF2B2B` de memoria) |
+| Araña roja clásica (Peter B.) | `#BF0001` | [asset oficial, 1000×962](https://static.wikia.nocookie.net/intothespiderverse/images/5/52/Spider-Man_symbol_red.webp) ✅ (antes `#D7262E` de memoria) |
+| Salto de fe: silueta roja sobre casi negro | `#3E0005` `#5A0008` `#E30014` | [clip, 0:10](https://www.dailymotion.com/video/x6yq9yg?t=10) ✅ |
+| Salto de fe: picado nocturno | `#020210` `#0B143A` | [clip, 0:35](https://www.dailymotion.com/video/x6yq9yg?t=35) ✅ |
+| Torre del reloj al atardecer | `#3E2D4F` `#AE8DAA` `#724764` `#5A6CA5` `#5E5FAF` `#44426E` | [clip, 0:09-0:48](https://www.dailymotion.com/video/x8l73q0?t=9) ✅ |
+| Tierra-928 de noche | `#725780` `#4C365D` `#A6879D` `#D3C3C5` | [tráiler ATSV, 1:06](https://www.dailymotion.com/video/x8gaz41?t=66) ✅ |
+| Título de UNU con desfase | `#8E0126` `#B00137` `#500314` `#644581` | [tráiler UNU, 2:12](https://www.dailymotion.com/video/x942l02?t=132) ✅ |
+| Glitch (ATSV): amarillo, magenta, cian | `#D3AE17` `#BC1B22` `#3BC7DB` `#D096A5` | [tráiler ATSV, 2:06](https://www.dailymotion.com/video/x8gaz41?t=126) ✅ |
+| Magenta y cian del desfase (tintas) | `#E6007E` / `#00AEEF` | estándar de imprenta CMYK ✅ |
+| Rojo y negro del traje de **Miles** | `#D7262E` / `#141418` | **de memoria** ⚠️: todos los fotogramas son de noche o con neón encima |
+| Traje de **Hobie** | — | **sin medir** ⚠️, por lo mismo |
+| Amarillo de las cajas de texto | `#FFE14D` | **de memoria** ⚠️ |
+| Violeta de Tierra-65 | `#753FB1` | paleta de fans ⚠️ ([color-hex](https://www.color-hex.com/color-palette/1024127)) |
+| Paleta «Miles» de fans | `#79ADFF #0038C6 #FFFFFF #FF0000 #1A1C24` | [color-hex](https://www.color-hex.com/color-palette/1024196), sólo contraste ⚠️ |
+
+**Lo que confirma el vídeo**: ninguno de los fotogramas es luz natural
+plana. Todo son **focos de color puro** (rojo, violeta, cian, amarillo)
+sobre negro o casi negro. La paleta **cambia con la emoción**: en la
+pelea final de UNU va del **pasillo rojo** a las **manchas de tinta azul
+cian** y al **fuego naranja** ([clip](https://www.dailymotion.com/video/x87pqho?t=55)).
 
 ### 5.4 Texturas reales equivalentes (todas CC0)
 
@@ -529,8 +608,15 @@ No pude muestrear fotogramas. Estos hex son **de memoria** o de
   los carteles de los **Sex Pistols** (Jamie Reid) ✅ (titular de
   [Variety](https://variety.com/2023/artisans/news/spider-verse-pays-homage-to-the-sex-pistols-graphic-artist-syd-mead-and-canadian-hockey-easter-egg-1235638844/)
   y [NamuWiki](https://namu.wiki/w/%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%20%ED%8E%91%ED%81%AC)).
-- **Miguel / 2099**: los cómics *2099* tenían su propia letra futurista
-  ⚠️ ([Fonts In Use, cómics Marvel 2099](https://fontsinuse.com/uses/41204/marvel-2099-comic-books), no lo pude abrir).
+- **Miguel / 2099**: en los cómics *Marvel 2099* el número «2099» del
+  logo va en **Zephyr / Chariot** (el diseñador quitó el trazo que sube
+  del cero y lo puso en cursiva) y el texto en **Eurostile**; los nombres
+  de personaje, rotulados a mano ✅ ([Fonts In Use](https://fontsinuse.com/uses/41204/marvel-2099-comic-books),
+  abierto en la segunda pasada). Libre parecida a Eurostile: **Michroma**
+  (Cyreal, OFL, Google Fonts); **tildes, ñ, ¿ y ¡ sin comprobar** con
+  fontTools ⚠️ (usar Orbitron, ya comprobada, si falla).
+- **El logo** sigue sin letra comercial identificada ⚠️ (segunda pasada:
+  «Spider-Verse font identified», nada nuevo).
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -617,7 +703,7 @@ en su recorte de papel de otro color, un poco torcida.
 | **Rio**, su mamá | puertorriqueña, **habla en español** en el original | «Miles, **papá**, time for school!» (UNU 00:02:51); «Well, **qué barbaridad**.» (ATSV 00:52:53); «**Oye**.» (00:42:13) |
 | **Peter B.** | cansado, sarcástico, se va por las ramas | el discurso de los caballitos de mar (UNU 00:36:33); «Don't invest in a spider-themed restaurant.» (00:36:09) |
 | **Gwen** | seca, contenida, frases cortas | «I don't do friends anymore.» (UNU 00:55:34); «I joined it so I could hit my feelings with sticks.» (ATSV 00:03:03) |
-| **Hobie** | jerga de Londres: **bruv, innit, mandem, jumper, a'ight**; contra todo | «I hate labels.» (ATSV 01:10:49); «I don't believe in teams.» «Aren't you in a band?» «**I don't believe in consistency.**» (01:11:12); «It's propaganda, bruv.» (01:22:26); «Don't enlist till you know what war you're fighting.» (01:23:31) |
+| **Hobie** | jerga de Londres: **bruv, innit, mandem, jumper, a'ight**; contra todo | «I hate labels.» (ATSV 01:10:49); «I don't believe in teams.» «Aren't you in a band?» «**I don't believe in consistency.**» (01:11:12); «It's propaganda, bruv.» (01:22:26); «Don't enlist till you know what war you're fighting.» (01:23:31). En latino, **«Fuchis las etiquetas»** en su presentación ✅ (audio de Doblaje Wiki, §10.3; no es la traducción línea a línea de «I hate labels» ⚠️). El doblaje cambia su acento británico por **modismos urbanos** ✅ |
 | **Miguel** | seco, manda, se enfada rápido | «LYLA, do the thing.» «The information-explainy thing.» (ATSV 01:26:34); «You're the original anomaly.» (01:42:31) |
 | **Lyla** | holograma bromista | «No further anomalies. Canon remains intact.» (ATSV 00:18:49) |
 | **Spider-Ham** | chistes de dibujo animado viejo | «I just washed my hands. That's why they're wet.» (UNU 01:02:07) → en latino «**Es agüita**» ⚠️ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Spider-Man:_Un_nuevo_universo), una fuente) |
@@ -641,6 +727,31 @@ en su recorte de papel de otro color, un poco torcida.
 ### 7.4 En los videojuegos de la franquicia
 
 Ver §13: no hay un juego de estas películas con cajas de diálogo propias.
+Lo más útil de los juegos es la **carta de *Marvel Snap*** (temporada
+«Spider-Versus»): marco negro grueso, coste en la esquina y texto en una
+caja abajo ✅ ([Marvel.com](https://www.marvel.com/articles/games/marvel-snap-swings-into-new-season-spider-versus)).
+Sirve de modelo de **ficha de personaje tipo cómic** para el foro, no
+para lo que dice el personaje.
+
+### 7.4b El texto en pantalla en el doblaje latino (segunda pasada) ✅
+
+Dato de oro para la etiqueta **Subtítulos**, de los «Datos de interés»
+de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Spider-Man:_A_trav%C3%A9s_del_Spider-Verso)
+(API; una fuente, pero es la ficha del propio doblaje):
+
+- En **UNU**, los **letreros tipo cómic se tradujeron** al español, y así
+  siguen en las versiones física y digital.
+- En **ATSV** se dejaron **en inglés con subtítulos en español**, salvo el
+  título de la película.
+- En la tele (Studio Universal) UNU salía con los letreros en inglés;
+  ATSV se emite con **subtítulos forzados** y los textos finales
+  traducidos.
+- En los créditos finales de las dos **no sale nadie del doblaje** (ni el
+  reparto original).
+
+**Para la lámina**: la misma saga probó las dos soluciones (traducir el
+rótulo o subtitularlo). Es un ejemplo real para un hilo de «¿traduzco el
+cartel o le pongo subtítulo?».
 
 ### 7.5 Qué NO hacer con el texto
 
