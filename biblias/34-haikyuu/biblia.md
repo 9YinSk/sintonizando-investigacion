@@ -60,7 +60,9 @@ fecha: 2026-09-24
   apuntan palotes 「正」 por cada set (T2-09, [0:39](https://www.dailymotion.com/video/x7og4pm?t=39) 👁).
   Es **un tablón de reto** de verdad.
 - El anfitrión perfecto: **Bokuto**, el más *meme* de la serie, el que
-  **invita** a Hinata y a Tsukishima a entrenar con él de noche, y
+  **invita** a entrenar de noche: a Tsukishima le pide «ちょっとブロック
+  跳んでくんない？» («¿Me saltas un rato al bloqueo?», T2-07,
+  *streaming* 08:47 ✅), y luego se suma Hinata; y
   **1.º de su puesto** en la gran encuesta de 2020 (§9).
 
 **Ojo, choque**: la biblia de **Naruto** (encargo 30) propone el mismo
