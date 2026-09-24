@@ -302,6 +302,12 @@ eso, los descarté) y contenido no apto:
   referencia visual está aquí.
 - Descartados (etiquetados «big collage/varios animes» sin ser
   específicamente de FMA): `wallhaven-28j5dm`, `wallhaven-oxzldm`.
+- **No encontré una página oficial de descargas de fondos de pantalla**
+  (ni de Square Enix/Bones ni del sitio japonés de la serie): busqué en
+  japonés («フルメタル錬金術師 壁紙 公式 ダウンロード») e inglés, sólo aparecen
+  bancos de fans (AlphaCoders, apps no oficiales) · ⚠️. Uso el arte de la
+  exposición activa (punto 1/23) como el «oficial en alta» más cercano a un
+  wallpaper por ahora.
 
 ## Punto 19 · Texturas 2D
 
