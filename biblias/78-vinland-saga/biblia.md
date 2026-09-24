@@ -430,3 +430,88 @@ consulta está lista: `https://ambientcg.com/api/v2/full_json?type=Material&q=sn
 (y `thatch`, `stone`).
 
 ---
+
+## 6 · Tipografía: una letra para cada uso
+
+Cada letra libre se **descargó y se abrió con fontTools**: todas traen
+á é í ó ú ñ Ñ ¿ ¡ ✅. Enlaces directos al `.ttf` de Fontsource (licencia
+OFL, uso libre).
+
+| Uso | Cómo es en la serie (visto) | Letra libre | Estado |
+|---|---|---|---|
+| **Logo o título** | Portada del capítulo 1: «VINLAND SAGA» en **rojo, trazo desgarrado de pincel o filo de espada**, contorno blanco y sombra oscura; encima ヴィンランド・サガ en caligrafía gruesa ([Chapter 001](https://vinlandsaga.fandom.com/wiki/File:Chapter_001.jpg)). En la hoja `arte_01.jpg` #12 la «I» es una espada | [**Eater**](https://cdn.jsdelivr.net/fontsource/fonts/eater@latest/latin-400-normal.ttf) | ✅ visto; ⚠️ es aproximación de estilo (no está en Fonts In Use) |
+| **Carteles «rúnicos»** | Tomo 1 de Kodansha USA: «VINLAND SAGA» **blanco, tallado**, con **nudos nórdicos** a los lados y una **cenefa de falsas runas** arriba ([Book1](https://vinlandsaga.fandom.com/wiki/File:Book1.png)) | [**Pirata One**](https://cdn.jsdelivr.net/fontsource/fonts/pirata-one@latest/latin-400-normal.ttf) | ✅; ⚠️ no se sabe si las runas del borde dicen algo |
+| **Cartela de cita y créditos** | Tráiler T2: pantalla negra, **serif blanca de alto contraste**, centrada, sin caja: «Obra Original / Makoto Yukimura» (0:03), «Producción MAPPA» (0:07), «Los crímenes de un monstruo» (0:21) | [**Playfair Display**](https://cdn.jsdelivr.net/fontsource/fonts/playfair-display@latest/latin-700-normal.ttf) | ✅ visto con minuto |
+| **Subtítulos** | Tráiler T2, 0:47: «Hay gente prejuiciosa en todas partes, pero no todos lo son.» **Sans blanca**, contorno oscuro fino, dos líneas centradas abajo, sin caja | [**Noto Sans**](https://cdn.jsdelivr.net/fontsource/fonts/noto-sans@latest/latin-400-normal.ttf) | ✅ visto con minuto |
+| **Cartel del mundo, mapas** | Opening: «Vinland» **escrito a pluma en tinta roja marrón**, caligrafía irregular, sobre un mapa color pergamino con vetas de madera ([mapa del OP](https://vinlandsaga.fandom.com/wiki/File:Anime_op_vinland_map.jpg), 1280×720) | [**MedievalSharp**](https://cdn.jsdelivr.net/fontsource/fonts/medievalsharp@latest/latin-400-normal.ttf) | ✅ visto |
+| **Globo normal** (manga) | Edición inglesa: **mayúsculas de cómic, centradas**, en globo ovalado (hoja `personajes_01.jpg` #5) | **Anime Ace 2.0 BB** (Blambot, con tildes según la guía de `_ya_hechas`) | ⚠️ no se vio una página japonesa |
+| **Grito** | No visto en un panel | [**Anton**](https://cdn.jsdelivr.net/fontsource/fonts/anton@latest/latin-400-normal.ttf) (condensada de impacto) | ⚠️ propuesta |
+| **Pensamiento** | En el anime **no hay nube**: lo interior va en **voz en off** con subtítulo sobre la imagen (Einar, tráiler 0:19, «Yo era un guerrero») | Noto Sans, como el subtítulo | ✅ visto |
+| **Onomatopeya** | Manga, cap. 146: **ゴオォォ en katakana a pincel negro con borde blanco**, torcida, encima del paisaje (hoja `fondos_01.jpg` #7) | Dibujarla a mano con pincel; si hace falta letra, Eater (mismo trazo roto que el logo) | ⚠️ una sola viñeta; la letra es propuesta del redactor |
+| **Narrador del manga** | Cap. 146 en inglés: **franja negra con mayúsculas condensadas blancas** («THE FIRST NIGHT AFTER THE OPENING SALVO OF THE JOMSBORG WAR.», hoja `fondos_01.jpg` #7) | Anton | ⚠️ una viñeta, edición inglesa; letra propuesta del redactor |
+| **Interfaz de juego** | No aplica: **no hay videojuego oficial** (§13) | — | ✅ |
+
+**Logo vectorial**: Wikimedia Commons tiene
+[«Vinland Saga simplified logo.svg»](https://upload.wikimedia.org/wikipedia/commons/7/7f/Vinland_Saga_simplified_logo.svg)
+(686×553), trazado a curvas: sirve de silueta, no dice la fuente. Posible
+marca registrada: sólo referencia.
+
+---
+
+## 7 · Cómo hablan y piensan en pantalla: el cuadro de diálogo
+
+**Lo más importante: en el anime nadie habla con una burbuja.** ✅ (mirado
+en el tráiler T2 y el OP1, con minuto).
+
+### En el anime
+
+- **Subtítulo sin caja**: sans blanca, contorno fino, dos líneas centradas
+  abajo (tráiler, 0:47). Es el formato de la plataforma.
+- **Cartela negra con serif blanca**, centrada, sin marco: citas y
+  créditos (0:03, 0:07, 0:21).
+- **Voz en off sobre imagen**: lo que el personaje piensa o recuerda se
+  oye mientras se ve otra cosa (Einar a contraluz, 0:19).
+- **Silencio**: el reencuentro de Thorfinn y Einar (T2 ep. 1) va **casi
+  sin palabras**, sólo música, hasta el «¡Ven!» del 2:36. La emoción no
+  necesita texto.
+- **Texto pintado dentro del mundo**: «Vinland» a pluma en el mapa del
+  opening.
+
+### En el manga
+
+- **Cartela roja rectangular con texto blanco**: el número de capítulo
+  («第1話») en la portada del capítulo 1. Sin adornos ✅ (visto). Es el
+  único «cuadro» limpio y geométrico de la obra.
+- **Globos** (edición inglesa de Kodansha USA, visto por el redactor en la
+  hoja `personajes_01.jpg` #5, 7, 8, 9 y 13): **óvalos blancos**, línea
+  negra fina, **cola corta en punta**, texto en **mayúsculas de cómic
+  centradas**. Ejemplo textual (#5, Canute rey): «YOU SPEAK AS THOUGH THIS
+  WAS AN ACT OF NATURE, GUNNAR.» / «WE DID THIS.» ⚠️ (edición inglesa; no
+  se vio una página japonesa).
+- **Narrador**: franja negra con mayúsculas blancas condensadas, en
+  vertical al borde de la viñeta (hoja `fondos_01.jpg` #7) ⚠️.
+- **Onomatopeya**: katakana a pincel, grande, torcida (#7) ⚠️.
+- **Títulos de capítulo con fecha y lugar**: «Inglaterra, 1013 d.C.»,
+  «Inglaterra, 1008 d.C.» (capítulos 17 y 18,
+  [Story Arcs](https://vinlandsaga.fandom.com/wiki/Story_Arcs)) ✅. ⚠️ No
+  se comprobó si el anime pone esta cartela en pantalla.
+
+### Qué cuadro usar en la lámina
+
+1. **Para el texto del canal**: tallado o pintado **sobre un objeto del
+   mundo** (tabla de madera, pergamino, cuero), con MedievalSharp o
+   Pirata One. La tinta sigue la veta y las arrugas.
+2. **Para el nombre de quien habla o el título**: la **cartela roja
+   rectangular con texto blanco** del manga.
+3. **Para la frase del personaje**: **cartela negra con serif blanca**
+   (Playfair Display), como en los tráileres, o **subtítulo sin caja**
+   (Noto Sans) abajo, como en el anime.
+4. **Nunca**: burbuja blanca con cola, nube de pensamiento, globo de
+   colores. Aunque el manga inglés use óvalos blancos, en una lámina se
+   leen como «burbuja blanca rara».
+
+El rojo de la cartela **no se midió** ⚠️: sacarlo con `estilo.py` de
+[Chapter_001.jpg](https://static.wikia.nocookie.net/vinlandsaga/images/c/cc/Chapter_001.jpg).
+Como apoyo, el rojo medido de la túnica de Canute T1 es `#9C403B`.
+
+---
