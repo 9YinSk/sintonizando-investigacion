@@ -198,12 +198,74 @@ originales del juego. Los miré:
 - Página oficial japonesa del anime:
   [pokemon.co.jp](https://www.pokemon.co.jp/tv_movie/anime/pokemon.html).
 
-### 2.5 Lo que falta ⚠️
-- **Hojas de contacto**: con red, correr
-  `python herramientas/investigar_serie.py --serie "Pokémon" --wiki pokemon --paginas "Professor Oak" "Ash's Pikachu" "Professor Oak's Laboratory" "Pallet Town" "Ash Ketchum"`.
-  La wiki `pokemon.fandom.com` existe ✅ (sale en muchas búsquedas).
-- Los **fotogramas** de Oak del anime no los pude ver. Doy su minuto
-  (punto 3) para sacarlos a mano.
+### 2.5 Las hojas de contacto (segunda pasada)
+`investigar_serie.py` bajó **180 imágenes** de `pokemon.fandom.com`
+(páginas de Pikachu y Ash) en 4 hojas numeradas. Las miramos las 4.
+Quedan 3 en `hojas/`; la 3.ª (97-144: casi todo Pikachu repetido y
+cartones de rango) no se guardó. El original de cada número sale del
+índice de la herramienta, con su tamaño real.
+
+**`hojas/arte-oficial_01.jpg`** (números 1-48)
+| Nº | Qué es | Sirve para |
+|---|---|---|
+| [24](https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png) | Ash y **Oak en el laboratorio**, con Delia; Oak con bata a la izquierda (2876×1592) | **Oak explicando** en su sitio real; concepto A |
+| [1](https://static.wikia.nocookie.net/pokemon/images/9/9a/Pikachu_%28Super_Smash_Bros._for_3DS_-_WiiU_Artwork%29.png) | Pikachu de pie, de frente, arte de Smash (4574×4369) | Pikachu **presentando**, la imagen más grande |
+| [30](https://static.wikia.nocookie.net/pokemon/images/5/55/Young_Ash_and_Gary.png) | Ash y Gary de niños, riendo (2373×1800) | rivales que empezaron juntos |
+| [35](https://static.wikia.nocookie.net/pokemon/images/3/36/Generation_I.png) | caja de **Pokémon Rojo**, viñetas de manga y Ash con Pikachu (2000×2000) | la generación de Oak; tramas del manga (P19) |
+| [37](https://static.wikia.nocookie.net/pokemon/images/e/e9/Ash_and_Misty.png) | Ash y Misty discutiendo, Pikachu en el hombro (2147×1600) | **regañar** en grupo, época de Kanto |
+| [38](https://static.wikia.nocookie.net/pokemon/images/9/9b/Hoenn_Badges.png) | estuche abierto con las 8 medallas de Hoenn (2147×1597) | un **objeto que se abre** con piezas dentro |
+| [31](https://static.wikia.nocookie.net/pokemon/images/b/b0/Ash_and_his_Pok%C3%A9mon_in_the_Orange_League_Hall_of_Fame.png) | la placa del Salón de la Fama con las huellas (2357×1800) | objeto real con relieve para Blender |
+| [34](https://static.wikia.nocookie.net/pokemon/images/7/71/Ash%27s_climbing_skills.png), [43](https://static.wikia.nocookie.net/pokemon/images/7/75/Ash_with_Pikachu_and_Riolu.png), [47](https://static.wikia.nocookie.net/pokemon/images/8/88/Ash_anime_Diamond_and_Pearl.png) | Ash trepando, tumbado con Pikachu y Riolu, y de cuerpo entero (Sinnoh) | poses vivas, **no de pie con una ropa** |
+| 6-12 | cajas de las generaciones II-IX con viñetas de manga | arte de caja y de manga juntos |
+
+**`hojas/vestuario_01.jpg`** (números 49-96)
+| Nº | Qué es | Sirve para |
+|---|---|---|
+| [85](https://static.wikia.nocookie.net/pokemon/images/2/29/Ash_anime_XY_and_XYZ.png), [92](https://static.wikia.nocookie.net/pokemon/images/6/6d/Ash_anime_Journeys.png) | Ash de cuerpo entero en Kalos (corriendo) y en Viajes (mano en la gorra) | ropa de cada era, **sin mezclarlas** (punto 16) |
+| [83](https://static.wikia.nocookie.net/pokemon/images/4/46/Ash_snow_wear.png), [95](https://static.wikia.nocookie.net/pokemon/images/b/b6/Ash_swimwear.png) | Ash con ropa de nieve y en bañador | ropa fuera de lo habitual |
+| [88](https://static.wikia.nocookie.net/pokemon/images/e/ec/GS139_02.png) y 89 | las medallas **prendidas por dentro de la chaqueta** | detalle que un fan reconoce |
+| [90](https://static.wikia.nocookie.net/pokemon/images/4/48/Pikachu_Libre_%28Pokk%C3%A9n_Tournament%29.png) | **Pikachu Libre**, máscara de luchador (Pokkén) | disfraz canon, lámina 2 |
+| [60](https://static.wikia.nocookie.net/pokemon/images/d/d6/Ash_World_Coronation_Series_Trophy.png) | Ash con el trofeo de campeón mundial | **celebrar** |
+| [62](https://static.wikia.nocookie.net/pokemon/images/6/63/Ash_XY_Young.png), [63](https://static.wikia.nocookie.net/pokemon/images/d/df/Ash_Young.png) | Ash de niño tendiendo la mano; Ash de niño con los puños de alegría | **invitar** y **animar** |
+| 49-59 | los cristales Z en la mano de Ash | poco útil para esta lámina |
+
+**`hojas/colaboraciones_01.jpg`** (números 145-180)
+| Nº | Qué es | Sirve para |
+|---|---|---|
+| [147](https://static.wikia.nocookie.net/pokemon/images/4/44/XY006_17.png) | Ash **tiende la mano hacia la cámara**, en escorzo | la pose de «elige», mano hacia el que mira |
+| [163](https://static.wikia.nocookie.net/pokemon/images/4/45/Ash_anime_Ruby_and_Sapphire.png) | Ash **lanzando la Pokébola**, pierna arriba (675×1280) | acción, «¡yo te elijo!» |
+| [146](https://static.wikia.nocookie.net/pokemon/images/0/01/Ash_and_Pikachu.png) | Ash guiña un ojo y aprieta el puño, Pikachu en el hombro | **animar** |
+| [164](https://static.wikia.nocookie.net/pokemon/images/b/b3/Ash_and_Gary.png), [160](https://static.wikia.nocookie.net/pokemon/images/5/53/Ash_and_Brock.png), [172](https://static.wikia.nocookie.net/pokemon/images/2/26/Ash_and_Dawn_high-fiving.png) | apretón de manos con Gary al atardecer, con Brock; choca los cinco con Dawn | **dar la bienvenida**, láminas en grupo |
+| [154](https://static.wikia.nocookie.net/pokemon/images/7/7a/Ash_Dynamax.png) | Ash con una Pokébola gigante que brilla | Pokébola como objeto enorme |
+| [149](https://static.wikia.nocookie.net/pokemon/images/8/89/Cosplay_Pikachu_anime.png) | **Cosplay Pikachu** con sus 5 trajes, en el anime | punto 16 y P23 |
+| [168](https://static.wikia.nocookie.net/pokemon/images/3/39/0025Pikachu_Detective_Pikachu.png), [179](https://static.wikia.nocookie.net/pokemon/images/f/ff/Pikachu_clothing_art.jpg) | Detective Pikachu con lupa; Pikachu con ropa de camuflaje | poses nuevas por colaboraciones (P23) |
+| [174](https://static.wikia.nocookie.net/pokemon/images/0/0f/Pok%C3%A9mon_the_Series_logo_English.png) | logo «Pokémon The Series» (1189×518) | letras del logo (punto 6) |
+| 166, 175, 178 | Pikachu de UNITE, Holo Style y Pokkén | arte 3D moderno |
+
+Ojo: en `partes/imagen.md` se citaron el nº155 como Cosplay Pikachu y el
+nº172 como UNITE. Según el índice de la herramienta y la hoja, son el
+**149** y el **166**; aquí ya van corregidos.
+
+### 2.6 Más arte oficial fuera de la wiki
+- **Portada y banner del anime** en [AniList](https://anilist.co/anime/527),
+  medidos con Pillow: portada 230×345, banner 1900×400 ✅.
+- **Pokémon Adventures** (manga), tomo 1: portada de **Mato** con Red,
+  Saur, Poli y Pika saltando ✅
+  ([How to Love Comics](https://www.howtolovecomics.com/2019/05/07/pokemon-manga-guide/),
+  [CBR](https://www.cbr.com/pokemon-adventures-greatest-manga-covers/)).
+  No hay enlace directo a la imagen ⚠️.
+- **CD single «Mezase Pokémon Master»** (1997), el primer CD de Pokémon: un
+  mini-CD con la Pikachu y el logo en **pegatinas** ✅
+  ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Aim_to_Be_a_Pok%C3%A9mon_Master_(CD)),
+  [J-Pop Wiki](https://jpop.fandom.com/wiki/Mezase_Pokemon_Master)).
+- **Blu-ray** *Indigo League: Champion's Edition* (VIZ Media, 14-nov-2017):
+  6 discos, 52 capítulos y un cómic de 64 páginas ⚠️ (una fuente:
+  [ComicBook](https://comicbook.com/anime/news/pokemon-original-series-bluray/)).
+- **Cartón de cuenta atrás**: sí hay uno oficial en la hoja 2, el
+  [nº74 «Pokémon Day Countdown»](https://static.wikia.nocookie.net/pokemon/images/5/58/Pokemon_Day_Countdown_Pikachu.jpg)
+  (1080×1920, Pikachu dormido en un cojín) ✅ (visto en la hoja).
+- **Hojas de modelo** (giro del personaje) del anime: **no las encontré**
+  publicadas (busqué en Sakuga Wiki y en blogs de animación japoneses) ⚠️.
 
 ---
 
@@ -227,14 +289,43 @@ Lo que pasa en el laboratorio ✅
 5. Sale Pikachu. Ash lo abraza y **le da una descarga**.
 
 Datos extra:
-- Es **el único capítulo** en que se ve a Pikachu dentro de su Pokébola ⚠️
-  ([Pokémon Wiki](https://pokemon.fandom.com/es/wiki/Episodio_1_(serie_original))).
+- Es **el único capítulo** en que se ve a Pikachu dentro de su Pokébola ✅
+  ([Pokémon Wiki](https://pokemon.fandom.com/es/wiki/Episodio_1_(serie_original)),
+  [Bulbapedia EP001, Trivia](https://bulbapedia.bulbagarden.net/wiki/EP001)).
+- La apertura del capítulo (Ash ve por la tele un combate de Gengar contra
+  Nidorino) **imita la intro de Pokémon Rojo/Verde** ✅ (Bulbapedia EP001).
 - Pikachu **no quiere entrar en la Pokébola** ✅
   ([Pokémon Wiki japonesa](https://wiki.pokemonwiki.com/wiki/%E7%84%A1%E5%8D%B0%E7%B7%A8%E7%AC%AC1%E8%A9%B1),
   subtítulos de la película, abajo).
 - **Vídeo oficial** del capítulo 1 en japonés, en el canal oficial:
   [YouTube `soM4HD71b6k`](https://www.youtube.com/watch?v=soM4HD71b6k).
   **Minuto sin verificar.** Es de 1997: imagen 4:3 y baja resolución.
+
+### 3.1b El capítulo 1, **mirado de verdad** (segunda pasada)
+Fuente: el capítulo real y completo en
+[Internet Archive](https://archive.org/details/pokemon-indigo-league-season-1-1998)
+(doblaje inglés de 4Kids, 480p, 22:23). Se recortaron dos tramos
+(1:30-7:30 y 16:00-20:00) y se miraron **plano a plano** con
+`fotogramas.py --cortes`. Los minutos son del capítulo en inglés; el
+doblaje latino puede moverse 2-5 s.
+
+| Minuto | Qué se ve | Fuente |
+|---|---|---|
+| ≈4:00 | Ash duerme con un **reloj Voltorb con un Pidgey de cuco** y lo rompe dormido | visto + [Bulbapedia EP001](https://bulbapedia.bulbagarden.net/wiki/EP001) ✅ |
+| ≈4:42-5:09 | Llega tarde; **Gary** se va presumiendo: medallón yin-yang, **puño en alto**, porristas detrás | visto (fotograma 219) |
+| **≈5:56** | **Tres Pokébolas en soportes en triángulo, con un hueco vacío en el centro** | visto (fotograma 266) ✅ |
+| ≈6:03-6:24 | Oak abre las Pokébolas: **vacías** (Squirtle, Bulbasaur, Charmander, en ese orden) | visto + Bulbapedia ✅ |
+| **≈6:48-6:52** | La Pokébola del centro, **con un rayo pintado**, se abre con un **destello dorado** | visto |
+| **≈6:58** | Sale **Pikachu**, arisco, de pie sobre la mesa, chispas en las mejillas | visto (fotograma 328) |
+| ≈7:04-7:12 | Pikachu **descarga** a Ash cuando lo toca | visto |
+| **≈7:18** | Ash abraza a Pikachu, **los dos chamuscados y echando humo**; Oak serio detrás | visto (fotograma 348) |
+
+- El laboratorio se ve como **sala circular** con las Pokébolas en
+  soportes y **luz azulada** que entra por una claraboya ✅ (visto).
+- Cada Pokébola lleva una **etiqueta en katakana** grabada. A 480p está
+  borrosa: **no se pudo leer** y no la inventamos ⚠️.
+- El **molino de viento** del laboratorio **no sale** en los planos de este
+  capítulo (sólo el camino de subida) ⚠️.
 
 ### 3.2 La misma escena en alta: *La película Pokémon: ¡Yo te elijo!* (2017)
 La película 20 **rehace el capítulo 1** para los 20 años del anime ✅
@@ -276,16 +367,45 @@ unos segundos según la versión.
   [Infobae](https://www.infobae.com/america/mexico/2022/12/16/fans-de-pokemon-le-agradecieron-a-gabo-ramos-por-haber-sido-la-primera-voz-de-ash-ketchum/)).
 - **El lema del Equipo Rocket** (punto 10).
 - **El final de Ash** en 2023 ([Bulbapedia JN147](https://bulbapedia.bulbagarden.net/wiki/JN147)).
+  No hay clip oficial accesible sin YouTube: se deja con el enlace.
+- **Ash girando la gorra**: en la segunda pasada tampoco salió un clip limpio
+  (TikTok no se deja bajar; Dailymotion sin resultado) ⚠️.
+### 3.4 Los Spearow y Ho-Oh (capítulo 1, mirado) ✅
+Es **la escena más citada del anime** y faltaba. Mismo archivo de
+Internet Archive, tramo 16:00-20:00:
+
+| Minuto | Qué pasa |
+|---|---|
+| ≈16:02 | Ash conoce a **Misty**, que pesca en un río |
+| ≈16:57 | Pikachu va **dormido en la cesta de la bici** de Misty |
+| ≈17:16-17:19 | Una bandada de **Spearow** ataca; Pikachu lanza un rayo, pero lo hieren |
+| ≈17:37-17:52 | Ash quiere meterlo en la Pokébola para protegerlo; Pikachu **se niega otra vez** |
+| **≈18:03-18:23** | Ash corre bajo la lluvia con Pikachu en brazos y al final **se planta con los brazos abiertos** frente a la bandada |
+| ≈18:28-19:39 | Entre el aguacero aparece un **ave dorada gigante**; sale un **arcoíris** y el ave vuela por encima |
+| ≈19:58 | Ash y Pikachu, a salvo, se miran contentos: **nace la amistad** |
+
+- El ave es **Ho-Oh** ✅ (Bulbapedia EP001 lo lista en «Pokémon debuts»).
+  Que sea su primera aparición en cualquier medio, antes de Oro/Plata, es
+  dato muy repetido pero con una sola fuente abierta ⚠️.
+- Luz y paleta de esta escena, medidas: punto 5.
+
+### 3.5 El lema del Equipo Rocket, mirado
+[«Lema Team Rocket»](https://www.dailymotion.com/video/xs14pe) (Dailymotion,
+35 s), mirado plano a plano: **Jessie y James de pie en silueta** contra un
+fondo que gira (remolino de estrellas), brazo en alto; luego un primer
+plano de cada cara con gesto exagerado; cierra **Meowth riendo a cámara**.
+Sirve para «presentar en grupo». El idioma del clip no se pudo confirmar ⚠️.
+Las dos mitades del lema en latino, con la voz real: punto 10.
 
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
 ### 4.1 Modelos 3D descargables (Sketchfab)
-⚠️ No pude abrir Sketchfab: la licencia exacta de cada modelo **hay que
-mirarla en su página** antes de usarlo. «Download Free» en Sketchfab
-significa que tiene una licencia Creative Commons; cuál, lo dice la
-página. El crédito se pone así: «"Nombre" by Autor, licensed under CC BY
+**Segunda pasada:** las licencias, autores y caras de los modelos marcados
+✅ se comprobaron con la **API de Sketchfab** (`api.sketchfab.com/v3/models/<id>`).
+Dos autores estaban mal y se corrigieron. Los que siguen con ⚠️ no se
+consultaron: mirar su página antes de usarlos. El crédito se pone así: «"Nombre" by Autor, licensed under CC BY
 4.0». Todos son **fan art de un diseño con copyright** de Nintendo / The
 Pokémon Company: valen para una lámina de fans, no para vender.
 
@@ -293,9 +413,9 @@ Pokémon Company: valen para una lámina de fans, no para vender.
 
 | Modelo | Autor | Licencia (según la búsqueda) | Nota |
 |---|---|---|---|
-| [Poké Ball](https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2) | Pabluuu | CC BY | **hiperrealista**, materiales ya hechos: la mejor base |
-| [Pokeball for Blender](https://sketchfab.com/3d-models/pokeball-for-blender-8613f35e2b734ab48a829c9cc371d8a5) | Kutter (@Foxrado) | CC BY | pensado para Blender |
-| [Animated Poke Ball](https://sketchfab.com/3d-models/animated-poke-ball-2534c497425b4cde9cbb48181ea8a053) | Ayan (@Ayanbeg) | CC BY | se abre: sirve para una Pokébola entreabierta |
+| [Poké Ball](https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2) | Pabluuu | **CC BY 4.0 ✅**, 227.582 caras | **hiperrealista**, materiales ya hechos: la mejor base |
+| [Pokeball for Blender](https://sketchfab.com/3d-models/pokeball-for-blender-8613f35e2b734ab48a829c9cc371d8a5) | Kutter (@Foxrado) | **CC BY 4.0 ✅**, 627.964 caras | pensado para Blender; **muy pesado**: bajar el detalle antes de renderizar (regla 9 del dueño) |
+| [Animated Poke Ball](https://sketchfab.com/3d-models/animated-poke-ball-2534c497425b4cde9cbb48181ea8a053) | Ayan (@Ayanbeg) | **CC BY 4.0 ✅**, 9.360 caras | se abre: sirve para una Pokébola entreabierta |
 | [Pokeball (animated)](https://sketchfab.com/3d-models/pokeball-animated-a1f5d0bac5b74b73adc7d7d1eddc64d3) | Ahsan.Faraz | «Download Free» | alternativa animada |
 | [Pokeball](https://sketchfab.com/3d-models/pokeball-190898b3bb1442b994b962b81b897a14) | KAOS_S4nt0 | CC BY | topología simple |
 | [Poké Ball](https://sketchfab.com/3d-models/poke-ball-15ee12f8c7b14832a6b340c7a5f13649) | DravenX_Design | «Download Free» | — |
@@ -306,23 +426,38 @@ Pokémon Company: valen para una lámina de fans, no para vender.
 
 | Modelo | Autor | Descarga | Nota |
 |---|---|---|---|
-| [Kanto Pokédex](https://sketchfab.com/3d-models/kanto-pokedex-33558224badf4058b5977bded912c70c) | Alexander Walker | «Download Free» | **la Pokédex roja**: base del concepto B |
+| [Kanto Pokédex](https://sketchfab.com/3d-models/kanto-pokedex-33558224badf4058b5977bded912c70c) | Alexander Walker | **CC BY 4.0 ✅**, 6.590 caras | **la Pokédex roja**: base del concepto B |
 | [Pokedex - Kanto Region (Red/Blue)](https://sketchfab.com/3d-models/pokedex-kanto-region-pokemon-redblue-ff6314a5f1c441a6998463b8bafd1ead) | BubbleGumBoio | ⚠️ ver página | otra Pokédex de Kanto |
-| [Oak Lab](https://sketchfab.com/3d-models/oak-lab-fbe85c2f81a04063aa573f9161824734) | QuangCao | «Download Free» | el edificio |
+| [Oak Lab](https://sketchfab.com/3d-models/oak-lab-fbe85c2f81a04063aa573f9161824734) | QuangCao | **CC BY 4.0 ✅**, 1.086 caras | el edificio |
 | [Oak Pokemon Research Lab](https://sketchfab.com/3d-models/oak-pokemon-research-lab-31a6e01513ab42fa8d42a791ee852e9b) | hieuginta | «Download Free» | el edificio |
 | [Pokémon Universal - Oak's Laboratory](https://sketchfab.com/3d-models/pokemon-universal-oaks-laboratory-4b36edc1f21f4a449bd034ffc287e884) | Lord Henry | ⚠️ ver página | interior low poly |
 | [Professor Oak's Lab](https://sketchfab.com/3d-models/professor-oaks-lab-b635af0cc1514450b2027b1b161a4550) | Josh Bowman | ⚠️ | hecho con el pixel art de Rojo Fuego |
 | [Pokemon Professor's Lab](https://sketchfab.com/3d-models/pokemon-professors-lab-c4c70e08bd804c40ae1cf0af2a3da76b) | OR3KI | ⚠️ | interior con estanterías y ordenadores |
 | [Professor Oak's Laboratory](https://sketchfab.com/3d-models/professor-oaks-laboratory-646f17bad7e44f6caa62f490bc0fb9d1) | AlanParker17 | ⚠️ | — |
-| [Pokemon Professor Oak](https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb) | 3D Resource | «Download Free» | Oak en 3D: **sólo para la pose**, no pegar |
+| [Pokemon Professor Oak](https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb) | **lopuh22721** (antes ponía «3D Resource») | **CC BY 4.0 ✅**, 8.068 caras, **con esqueleto** | Oak en 3D **que se puede posar** en Blender; no pegar |
 
 **Game Boy** (para la lámina 2 o una variante):
 
 | Modelo | Autor | Licencia |
 |---|---|---|
-| [GameBoy DMG-01](https://sketchfab.com/3d-models/gameboy-dmg-01-29849a15fe0a40a6a18e01c9d544a0ed) | Let's Do 3D | CC BY, 18.100 triángulos |
-| [GAME BOY](https://sketchfab.com/3d-models/game-boy-5fe78ea0dddf47a2adaecd6044d637c1) | rave-games | CC BY, con la textura original |
-| [Nintendo Gameboy DMG-01 3D Scan](https://sketchfab.com/3d-models/nintendo-gameboy-dmg-01-3d-scan-26144110dbbe469cb87ce3a055b5c0df) | stevencmutter | CC BY-NC-ND: **no se puede modificar** |
+| [GameBoy DMG-01](https://sketchfab.com/3d-models/gameboy-dmg-01-29849a15fe0a40a6a18e01c9d544a0ed) | Let's Do 3D | **CC BY 4.0 ✅**, 18.119 caras |
+| [GAME BOY](https://sketchfab.com/3d-models/game-boy-5fe78ea0dddf47a2adaecd6044d637c1) | **MaxWendt** (antes ponía «rave-games») | **CC BY 4.0 ✅**, 1.618 caras, con la textura original |
+| [Nintendo Gameboy DMG-01 3D Scan](https://sketchfab.com/3d-models/nintendo-gameboy-dmg-01-3d-scan-26144110dbbe469cb87ce3a055b5c0df) | stevencmutter | CC BY-NC-ND ✅: **no se puede modificar** ni usar para vender |
+
+**Personajes con esqueleto y otros modelos (nuevos, comprobados por la API)**
+
+| Modelo | Autor | Licencia | Nota |
+|---|---|---|---|
+| [Pikachu](https://sketchfab.com/3d-models/pikachu-35716003a1964704b1b145e6c6a05b07) | Eleanie | CC BY 4.0 ✅, 106.512 caras, **con esqueleto** | sombreado tipo cómic que se puede apagar |
+| [Ash Ketchum](https://sketchfab.com/3d-models/ash-ketchum-f767f1a21b924033991a7fb1fb19820d) | Neut2000 | CC BY 4.0 ✅, 8.613 caras, **con esqueleto** | el Ash en 3D que faltaba |
+| [Pikachu low poly](https://sketchfab.com/3d-models/pikachu-c22dab8fc3064c76a0c502d64555a74f) | jacobjksn42 | CC BY ✅, 4.500 caras, con esqueleto | para una pose lejana |
+| [Pikachu low poly](https://sketchfab.com/3d-models/pikachu-37c740f674cd4719a1d1d2970bbe8c30) | raghav-wd | CC BY ✅, 4.500 caras, con esqueleto | alternativa |
+| [Pokemon RSE - Pokemon Center](https://sketchfab.com/3d-models/none-ae2858d8d212406ebe95927d4f17d328) | Wesai | CC BY 4.0 ✅, 10.041 caras | Centro Pokémon: icono de «soporte» |
+| [Pokemon FireRed - Player's Room](https://sketchfab.com/3d-models/none-b23b6b253207463c97db2a7092adff74) | Wesai | CC BY 4.0 ✅, 972 caras | el cuarto del jugador |
+| [Ultimate Monsters Pack](https://sketchfab.com/3d-models/none-fd72e114d119488da71fe3a16f216c4f) | quaternius | CC BY 4.0 ✅, 212.178 caras | criaturas genéricas, sólo de relleno |
+| [Lucario](https://sketchfab.com/3d-models/none-32ab2458321e495084fe3bc3b3bf6a91) | **GianmArt** (el primer barrido ponía «Gianmarco») | CC BY 4.0 ✅, 63.606 caras | — |
+
+Crédito exacto de cada uno: campo `licencia` de `referencias.json`.
 
 ### 4.2 Fan art y renders (mirar, nunca pegar)
 - [Professor Oak's Lab Background](https://www.deviantart.com/willdinomaster55/art/Professor-Oak-s-Lab-Background-939863010), WillDinoMaster55: el laboratorio donde se elige inicial.
@@ -336,6 +471,8 @@ Pokémon Company: valen para una lámina de fans, no para vender.
 - [Professor Oak's Laboratory](https://www.artstation.com/artwork/GeqxP3) (ArtStation): 3D basado en Let's Go y en el anime.
 - [Pokémon Fan Art - Poké Ball](https://www.artstation.com/artwork/d0aD5J), Ricardo Amaral Accioly (ArtStation): Pokébola realista, para la luz.
 - [Pallet Town Background](https://www.deviantart.com/willdinomaster55/art/Pallet-Town-Background-865889425), WillDinoMaster55: Pueblo Paleta.
+- [«Pokémon LE-GO»](https://live.staticflickr.com/8652/28615487170_7b3bfba3c0_b.jpg), Si-MOCs (Flickr, CC BY-NC-SA 2.0, 602×1024): Pokémon de ladrillos hecho por fans. Sólo para saber que la idea ya existe.
+- En Danbooru, `recolectar.py` no dio con la etiqueta exacta y no se repitió a mano ⚠️.
 
 ---
 
@@ -383,7 +520,10 @@ Pokémon Company: valen para una lámina de fans, no para vender.
   ([Pokémon Wiki japonesa](https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%89%E3%81%91%E3%82%93%E3%81%8D%E3%82%85%E3%81%86%E3%81%98%E3%82%87)).
 - **Luz**: es por la mañana. Ash se durmió ✅ (subtítulos, 00:02:31).
   Luz de día que entra por ventanas grandes y fluorescentes de
-  laboratorio ⚠️ (de memoria del anime).
+  laboratorio. **Segunda pasada:** en el capítulo 1 real se ve una **sala
+  circular** con las Pokébolas en soportes y **luz azulada, fría**, que
+  entra por una **claraboya** ✅ (visto, ≈5:56). El molino de viento no
+  sale en los planos de ese capítulo: sigue con la fuente de la wiki ⚠️.
 
 ### 5.3 Colores de los iniciales, **medidos** sobre el arte oficial
 Medí los colores más abundantes de cada imagen de PokéAPI (±5 por canal).
@@ -398,6 +538,24 @@ más saturado, **más parecido al anime**.
 | Bulbasaur | `#77A693` · `#94CAAD` | **`#7DC6BA`** · bulbo `#54B235` |
 | Charizard | `#ECA263` · alas `#4D94A3` | — |
 
+### 5.3b Colores medidos **en fotogramas del anime** (segunda pasada)
+Con `estilo.py` sobre fotogramas del capítulo 1 real (Internet Archive,
+480p). Sirven para comparar con el arte oficial de arriba.
+
+| Fotograma | Paleta medida | Cómo está pintado |
+|---|---|---|
+| **Pikachu** sobre la mesa (≈6:58, sólo el cuerpo) | cuerpo **`#CAA62D`** (54 %) · sombra `#C8A527` · mejillas y franjas `#9C502A` · contorno `#322822` | **plano (cel)**, saturación 69 %, brillo 70 % |
+| **Ash bajo la tormenta** (≈18:23) | azules de noche `#222D35` · `#27363F` · `#2C424F` · `#324B65` · acento verde azulado `#3F6E6E` (árboles a contraluz) | **degradado, fondo pintado a mano**, saturación 43 %, brillo 32 % |
+
+- El amarillo del capítulo de 1997 es **más apagado y marrón** que el
+  `#FEE200` de HOME: la cinta de vídeo y la compresión bajan la saturación.
+  Para la lámina manda el de HOME; el `#CAA62D` sirve si se quiere un aire
+  «anime clásico, cinta vieja».
+- La tormenta de los Spearow es la escena **más oscura y pintada** que se
+  miró: vale si una lámina quiere lluvia y drama en vez de mañana soleada.
+- Gary en el capítulo 1 (≈5:09) lleva jersey **azul marino** (a ojo, sin
+  medir) y el medallón yin-yang verde y amarillo ⚠️.
+
 ### 5.4 Texturas reales equivalentes (CC0)
 - Mesa de laboratorio: [Wood Table Worn](https://polyhaven.com/a/wood_table_worn),
   [Wood Table 001](https://polyhaven.com/a/wood_table_001) y el modelo
@@ -406,8 +564,10 @@ más saturado, **más parecido al anime**.
   (ambientCG, CC0).
 - Madera del suelo o del soporte: [Wood 027](https://ambientcg.com/view?id=Wood027) (ambientCG, CC0).
 - Luz de día para Blender: [HDRIs de Poly Haven](https://polyhaven.com/hdris) (CC0).
-- Etiquetas de las Pokébolas: cartulina o papel kraft con cordel. No
-  busqué una textura concreta ⚠️.
+- Etiquetas de las Pokébolas: cartulina o papel kraft con cordel.
+  **Resuelto:** [Paper004](https://ambientcg.com/view?id=Paper004) (papel,
+  CC0) o [Cardboard002](https://ambientcg.com/view?id=Cardboard002)
+  (cartón kraft, CC0), de ambientCG ✅ (API de ambientCG).
 
 ---
 
@@ -419,7 +579,9 @@ más saturado, **más parecido al anime**.
   Trae el **▼** y el **▶** del cursor.
 - **Espada/Escudo y Escarlata/Púrpura**: letras «UD» de **Fontworks**:
   **Rodin NTLG DB** para japonés y **UDKakuGo Condensed 80 M** para el
-  alfabeto latino ⚠️ (una fuente: [Fontendo en X](https://x.com/Fontendou/status/1554863045259788290)).
+  alfabeto latino ✅ (dos publicaciones de la misma cuenta, sobre dos juegos
+  distintos: [Fontendo, Escarlata/Púrpura](https://x.com/Fontendou/status/1554863045259788290)
+  y [Fontendo, Espada/Escudo](https://x.com/fontendou/status/1162760191898574848)).
   Son de pago.
 - **El logo «Pokémon»**: amarillo con borde azul, letras gordas y
   redondas. Lista de letras de los logos en la
@@ -436,7 +598,7 @@ dibujo** (no una caja vacía). Además las probé escribiendo «¿Qué haces?
 |---|---|---|---|---|
 | **pokemon-font** (Superpencil, ahora «Johto font») | **la caja de Game Boy**: es un clon de la letra de Rojo/Azul, ampliada | [GitHub cooljeanius/pokemon-font](https://github.com/cooljeanius/pokemon-font), archivo `fonts/pokemon-font.ttf` | **OFL** ✅ (su LICENSE.md) | ✅ todas, y ▼. ⚠️ A tamaño pequeño la «é» se ve casi como «ê»: revisar a 1:1 |
 | **Press Start 2P** | pixel genérico, más limpio | [google/fonts](https://raw.githubusercontent.com/google/fonts/main/ofl/pressstart2p/METADATA.pb) | OFL ✅ | ✅ todas, y ▼. Subconjuntos latin y latin-ext |
-| **Pokémon Solid** | **el logo** | [cdnfonts](https://www.cdnfonts.com/pokemon-solid.font), [dafont](https://www.dafont.com/pokemon.font); archivo probado de [tjklint/PokePC](https://github.com/tjklint/PokePC) | ⚠️ **de fans, licencia poco clara**: unos dicen «uso personal», otros «libre» | ✅ todas (comprobado en el archivo) |
+| **Pokémon Solid** | **el logo** | [cdnfonts](https://www.cdnfonts.com/pokemon-solid.font), [dafont](https://www.dafont.com/pokemon.font); archivo probado de [tjklint/PokePC](https://github.com/tjklint/PokePC) | de fans, diseñada por **IPBP** (2007): «libre para uso personal y comercial citando al diseñador» ✅ ([FontSpace](https://www.fontspace.com/pokemon-solid-font-f13844), [VectorDad](https://vectordad.com/fonts/pokemon-solid/)). El archivo no trae licencia dentro: vale para el Discord, con crédito | ✅ todas: `aacute`… `ntilde`, `questiondown`, `exclamdown`, **cada una con contorno dibujado** (fontTools sobre el `.ttf` real, segunda pasada) |
 | **Lilita One** | logo o título gordo, **con licencia limpia** | google/fonts | OFL ✅ | ✅ todas |
 | **Luckiest Guy** | título de cómic, alternativa | google/fonts | Apache 2.0 ✅ | ✅ todas |
 | **M PLUS Rounded 1c** | cajas de Espada/Escarlata (en vez de Rodin) | google/fonts | OFL ✅ | ✅ todas |
@@ -447,8 +609,40 @@ dibujo** (no una caja vacía). Además las probé escribiendo «¿Qué haces?
   50, 60 px) y **sin suavizado**, o se emborrona ✅ (su README).
 - En la caja de Game Boy **cada línea tiene como mucho 18 letras** (punto
   7). Corta los textos a mano.
-- El logo es **amarillo con borde azul**. No medí sus colores ⚠️: mídelos
-  en una imagen oficial antes de pintar.
+- El logo es **amarillo con borde azul**. **Medido** en la segunda pasada
+  con `estilo.py` sobre el [SVG oficial de Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg)
+  pasado a PNG de 1200 px ✅:
+
+| Parte del logo | Medido | Valor de marca (usar este) |
+|---|---|---|
+| Relleno de las letras | `#FECA02` | **`#FFCB05`** |
+| Borde de cada letra | `#3566AE` | **`#3D7DCA`** |
+| Sombra 3D detrás | `#213A71` | **`#003A70`** |
+| Sombreado dentro de la «o» y la «e» | `#C8A10D` | — |
+
+  Los valores de marca salen de [Brand Palettes](https://brandpalettes.com/pokemon-color-codes/)
+  y [Design Pieces](https://www.designpieces.com/palette/pokemon-logo-color-palette-hex-and-rgb/)
+  ✅; difieren 1-2 puntos de lo medido por la compresión.
+
+
+### 6.3 Una letra para cada uso (propuesta con las letras ya comprobadas)
+El anime no usa globos: habla con **subtítulos**, la **caja de texto de
+los juegos** es su «globo» (punto 7). Con las letras de 6.2:
+
+| Uso | Letra | Por qué |
+|---|---|---|
+| Logo o título («Autoroles») | **Pokémon Solid**, o **Lilita One** si se quiere licencia limpia | la del logo; amarillo `#FFCB05` con borde `#3D7DCA` |
+| Texto normal (caja de Game Boy) | **pokemon-font**, a 40-60 px sin suavizado | clon de la letra de Rojo/Azul |
+| Texto normal (caja moderna, Let's Go o Escarlata) | **M PLUS Rounded 1c** o **Barlow Semi Condensed** | en lugar de Rodin y UDKakuGo, que son de pago |
+| Grito u onomatopeya («¡Pika!», «¡Yo te elijo!») | **Luckiest Guy** | letra de cómic, gorda |
+| Pensamiento | la misma de la caja, en gris | ⚠️ no se comprobó cómo marcan un pensamiento los juegos ni el anime |
+| Cartel del mundo (letrero del laboratorio) | **Press Start 2P** si es pixel; Barlow si es moderno | ⚠️ no se midió un cartel real del anime |
+| Interfaz de juego (menús, ▶) | **pokemon-font** o **Press Start 2P** | traen ▶ y ▼ |
+| Subtítulos o créditos | **Barlow Semi Condensed** | estrecha y legible |
+
+⚠️ No se encontraron las letras de los globos del manga *Pokémon
+Adventures* ni de los carteles del anime: por eso esta tabla es una
+propuesta con letras comprobadas, no una copia de la original.
 
 ---
 
@@ -489,7 +683,7 @@ y `gfx/font.asm` (visto con la búsqueda de código de GitHub).
 | Generación | La caja | Estado |
 |---|---|---|
 | 3 (Rojo Fuego / Verde Hoja) | La **letra es azul** si habla un hombre y **roja** si habla una mujer. Oak habla en azul. Fondo blanco, sombra gris claro | ✅ en el código de [pret/pokefirered](https://github.com/pret/pokefirered): `include/constants/vars.h` (`NPC_TEXT_COLOR_MALE 0 // Blue`, `FEMALE 1 // Red`) y `src/new_menu_helpers.c` (`TEXT_COLOR_BLUE, TEXT_COLOR_WHITE, TEXT_COLOR_LIGHT_GRAY`); el laboratorio usa `textcolor NPC_TEXT_COLOR_MALE` |
-| 7.5 (Let's Go) | Capturas de interfaz en [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=96) e [Interface In Game](https://interfaceingame.com/games/pokemon-lets-go-pikachu/) | ⚠️ no las pude abrir |
+| 7.5 (Let's Go) | **Medida en la segunda pasada** sobre [una captura real de Switch](https://interfaceingame.com/wp-content/uploads/pokemon-lets-go-pikachu/pokemon-lets-go-pikachu-dialogue.jpg) (Interface In Game, 1280×720): fondo **blanco roto cálido `#FDFCFA`-`#F3F4F1`** con una trama diagonal sutil; borde **dorado oliva apagado** de `#88893D` a `#C8C899`, 2-4 px; texto gris casi negro; **una Poké Ball pequeña abajo a la derecha** en lugar del ▼ | ✅ medido con `estilo.py` (Game UI Database siguió en 403) |
 | 8 (Espada / Escudo) | cápsula blanca redonda, pestaña del nombre negra `#1F1F1F` | ✅ en la guía de cuadros (medido) |
 | 9 (Escarlata / Púrpura) | rectángulo blanco translúcido, pestaña azul marino `#0B1C38`, barritas amarillas `#FCDB06` | ✅ en la guía de cuadros (medido) |
 
@@ -511,8 +705,15 @@ Más cajas de la saga, en la sección
   Charmander «**Pokémon Lagartija**», Squirtle «**Pokémon Tortuguita**»,
   Bulbasaur «**Pokémon Semilla**» ✅ ([PokeAPI, `pokemon_species_names.csv`](https://github.com/PokeAPI/pokeapi)).
 - **«¿Quién es ese Pokémon?»**: la silueta negra antes del corte. En el
-  latino volvió en Negro y Blanco con voces de niños ⚠️ (una fuente,
-  [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon_(franquicia))).
+  latino volvió en Negro y Blanco con voces de niños ✅ (dos páginas de
+  Doblaje Wiki: [la franquicia](https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon_(franquicia))
+  y [Pokémon: Negro y Blanco](https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon_Negro_y_Blanco),
+  por la API: «se buscan voces infantiles para hacerlo, pero hay bastante
+  inestabilidad en cuanto a los actores»). **No hubo una voz fija**: no es
+  un hueco de la investigación.
+- **La voz latina de la Pokédex**: en tres capítulos de Totodile
+  (temporada 3) fue **Rubén León** ⚠️ (una fuente, Doblaje Wiki). Para el
+  resto de temporadas no se encontró.
 - **Las lecciones del Profesor Oak** al final de cada capítulo japonés,
   con un **senryū** (poema corto) al cierre ✅
   ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Professor_Oak's_Pok%C3%A9mon_Lecture),
