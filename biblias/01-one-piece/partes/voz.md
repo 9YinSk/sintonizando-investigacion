@@ -188,8 +188,112 @@ que sonar más agudo y, en Zoro y Sanji, distinto del habla adulta ya fijada en 
 - No usé YouTube (pide iniciar sesión en este servidor, como avisa el encargo); todo el audio
   ya estaba bajado de Doblaje Wiki por el piloto anterior.
 
-Sigue: si se relanza esta parte, medir con `voz.py` las muestras de Doblaje Wiki de
-personajes que aún faltan del todo (Jinbe no tiene muestra en `datos-voz.md`; Croco­dile,
-Smoker, Vivi, Sabo, Katakuri sólo están citados de texto en `doblaje.md` §8.3, sin audio
-medido) y comprobar con una tercera fuente el motivo real de la salida de Dafnis Fernández de
-Zoro (sólo Doblaje Wiki hasta ahora).
+## Segunda pasada · lo que pedía el «Sigue» anterior
+
+> Relanzamiento de esta parte (misma investigadora de voz). Sólo dos tareas quedaban pendientes:
+> medir con `voz.py` las muestras de Doblaje Wiki de Crocodile, Smoker, Vivi, Sabo, Katakuri (y
+> Jinbe si había muestra), y buscar una tercera fuente del motivo de la salida de Dafnis
+> Fernández de Zoro. Añado sin tocar lo de arriba.
+
+### Punto 8 · las muestras de los cinco personajes pedidos (y Jinbe)
+
+**Se pudo medir Crocodile y Vivi** (ésta con dos muestras). **Smoker, Sabo, Katakuri y Jinbe NO
+tienen ninguna muestra de audio en Doblaje Wiki**: comprobado con `action=parse&prop=wikitext`
+sobre sus páginas de personaje (`Crocodile`, `Smoker`, `Nefertari_Vivi`, `Sabo`; Katakuri no
+tiene página propia, sólo fila en `One_Piece/19ª_temporada`), sobre las páginas de sus actores
+(`Dan_Osorio`, `Erick_Selim`, `Luis_Leonardo_Suárez` — la redirección de «Luigi Suárez» — y
+`Lourdes_Arruti`) y con `action=query&list=search&srnamespace=6` (archivos) para cada nombre:
+ningún resultado termina en `.mp3` salvo los de Crocodile y Vivi de abajo. Probé además
+`prop=imageinfo` sobre `Archivo:Smoker-OP.mp3`, `Archivo:Smoker 1.mp3`, `Archivo:Sabo-OP.mp3`,
+`Archivo:Sabo niño.mp3`, `Archivo:Katakuri-OP.mp3`, `Archivo:Jinbe-OP.mp3` y `Archivo:Jinbe 1.mp3`:
+todas «missing». En la tabla de la 1ª temporada, la fila de Smoker tiene la columna «Audio»
+vacía (igual que Crocodile y Vivi en la 2ª temporada) — Doblaje Wiki no llegó a subir esas
+muestras. ⚠️→confirmado con búsqueda exhaustiva, no es que faltara mirar.
+
+| Muestra | Personaje | Voz latina (ya en `doblaje.md` §8.3) | Frase textual (Whisper *medium*) | Tono medio | Rango | Velocidad | Qué dice de la voz |
+|---|---|---|---|---|---|---|---|
+| **Crocodile-OP.mp3** | Sir Crocodile / Sr. 0 | Sebastián Llapur | «Pueden llamarme como quieran, miradas veo que les interesa causar estragos en este país, no permito que alguien que se burla de mí, siga con vida después de faltarme al respeto, deja de jugar maldito me acaso[o].» | **113 Hz, grave** | 27,7 st, **muy expresiva** | normal (2,21 p/s) | Voz grave y teatral, con mucho rango — encaja con el villano frío y sarcástico de Alabasta; Whisper tropieza con la última frase («me acaso» = «mocoso», revisar de oído). |
+| **Vivi (Niña) Ep de Alabasta Latino.mp3** | Nefertari Vivi (de niña, en el especial *One Piece: Episodio de Alabasta*) | **Lourdes Arruti** (misma actriz que la Vivi adulta: ver corrección abajo) | «Pregunta, ¿por qué entrenas todos los días? Oye, pero ¿contra quién pelearás? ¿Son diferentes? Oh, qué raro. Líder, te lo prometo.» | 368 Hz, **muy agudo** | 15,4 st | normal (2,57 p/s) | Frases cortas y curiosas de una niña — nada que ver con el registro más adulto de abajo; es la Vivi pequeña hablando con su padre o Igaram. |
+| **Vivi LourdesArruti.mp3** | Nefertari Vivi / Srta. Miércoles | **Lourdes Arruti** | «Muy bien, es hora de mostrarles tu velocidad superior a la de un leopardo. Es un reino con costumbres magníficas y lleno de paso, o al menos lo verá. Llegó la hora de la seducción. Es exactamente lo que intento evitar. Los rebeldes, el ejército real y toda la gente de este reino no tienen la culpa. **Entonces, explícame por qué tienen que morir.**» | 282 Hz, agudo | **28,0 st, muy expresiva** | normal (2,92 p/s) | La frase final es el reclamo de Vivi a Crocodile por los inocentes que van a morir en la guerra civil de Alabasta (arco Alabasta, hacia el final) — una de sus líneas más citadas por el fandom. |
+
+- Fuente de los tres `.mp3`: [Doblaje Wiki, API `imageinfo`](https://doblaje.fandom.com/es/api.php?action=query&format=json&titles=Archivo:Crocodile-OP.mp3&prop=imageinfo&iiprop=url) · ✅ (audio + reparto de `datos-voz.md`/`doblaje.md`, que ya daban el actor con una fuente; ahora hay frase real que lo confirma).
+
+#### Corrección de reparto: Vivi niña y Vivi adulta las hace LA MISMA actriz (segunda fuente)
+
+`doblaje.md` §8.3 sólo daba «Vivi: Lourdes Arruti (también traduce) · DW · ⚠️ (misma wiki)».
+Con la muestra de la Vivi niña salió una duda (¿otra actriz, como pasa con Luffy/Zoro/Sanji
+niños?) y se resolvió que **no**: en el wikitext de
+[One Piece: Episodio de Alabasta](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=One_Piece%3A_Episodio_de_Alabasta)
+la fila de «Nefertari Vivi / Srta. Miércoles» (adulta) y la de «Nefertari Vivi (niña)» comparten
+`rowspan="2"` con el mismo nombre: **Lourdes Arruti** (créditada «Lulú Arruti»). Segunda fuente
+independiente: el wikitext de la [ficha de la propia actriz](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Lourdes_Arruti),
+que trae `Vivi LourdesArruti.mp3` como uno de sus 5 demos y la lista en su currículum como
+«Vivi Nefertari en One Piece (2020-presente/LA)» y también en «One Piece: Episodio de Alabasta
+(2022)». **Vivi pasa de ⚠️ a ✅.**
+
+### Tercera fuente del motivo de salida de Dafnis Fernández — sigue sin encontrarse
+
+Busqué en profundidad (11 búsquedas web + 4 páginas leídas) una fuente distinta de Doblaje Wiki
+que explique **por qué** Dafnis Fernández dejó a Zoro («diferencias con la empresa» + no poder
+ir siempre al estudio, según DW). **No encontré ninguna que dé el motivo.** Sí encontré **dos
+fuentes independientes que confirman que el cambio ocurrió** (el hecho, no la razón), que sirven
+para no depender sólo de DW en eso:
+- [ANMTV, «One Piece: Netflix estrena…»](https://www.anmtvla.com/2023/07/one-piece-netflix-estrena-nueva-tanda.html):
+  «Zoro pasa a ser interpretado nuevamente por Gabriel Basurto, quien fuera su primera voz para
+  el doblaje de 4Kids, en sustitución de Dafnis Fernández» — sin motivo.
+- [Cine PREMIERE, «One Piece llega a Netflix con nuevo doblaje latino»](https://cinepremiere.com.mx/one-piece-netflix-nuevo-doblaje-latino.html):
+  confirma a Dafnis Fernández como Zoro en el primer doblaje latino, tampoco explica el cambio.
+- Revisé también las fichas de Doblaje Wiki de [Alfredo Gabriel Basurto](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Alfredo_Gabriel_Basurto)
+  y de [Dafnis Fernández](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Dafnis_Fern%C3%A1ndez)
+  (ambas con su sección «Curiosidades»), la entrevista completa de
+  [El Heraldo (2025)](https://www.elheraldo.co/cultura/cine/2025/07/06/tyrion-lannister-es-un-parteaguas-en-mi-carrera-dafnis-fernandez-actor-de-doblaje/)
+  y un hilo del foro de Pirate-King: ninguno menciona el motivo.
+- **Conclusión: el motivo de la salida sigue teniendo una sola fuente (Doblaje Wiki)**; lo que
+  ahora tiene dos fuentes es sólo el hecho de que Dafnis dejó el papel y Basurto lo retomó. No
+  bajo el ⚠️ de `doblaje.md` en ese dato concreto — sería inventar una fuente que no está.
+
+## Lo mejor para la lámina (añadido)
+
+- **La frase de Vivi a Crocodile** («Entonces, explícame por qué tienen que morir») es de las
+  líneas más citadas del arco Alabasta: sirve para un texto sobre injusticia o sobre defender a
+  los tuyos.
+- **Vivi niña y adulta, misma actriz** (Lourdes Arruti): útil si el bot usa un flashback de Vivi
+  pequeña con Igaram o su padre — no hace falta «envejecer» el texto, es la misma voz real.
+- **Crocodile grave y muy expresivo** (113 Hz, 27,7 semitonos) es el villano con el rango más
+  amplio medido hasta ahora en esta parte, por encima de Barbanegra y Doflamingo.
+
+## No encontré (añadido)
+
+- **Muestra de audio de Smoker, Sabo, Katakuri y Jinbe en Doblaje Wiki**: no existen — comprobado
+  con wikitext de sus páginas/tablas de temporada, páginas de sus actores y búsqueda de archivos
+  `.mp3` por nombre (namespace 6). No es que falte buscar: la propia wiki no las subió (columna
+  «Audio» vacía en sus tablas).
+- **Tercera fuente del motivo real de la salida de Dafnis Fernández de Zoro**: sigue sin
+  aparecer tras 11 búsquedas y 4 páginas leídas a fondo (ver arriba). Sólo Doblaje Wiki explica
+  el porqué; otras dos fuentes (ANMTV, Cine PREMIERE) sólo confirman que el cambio pasó.
+
+## Bitácora (añadido)
+
+- **Doblaje Wiki, API** (`action=parse&prop=wikitext`): páginas de personaje `Crocodile`,
+  `Smoker`, `Nefertari_Vivi`, `Sabo`, tablas `One_Piece/1ª_temporada`, `One_Piece/2ª_temporada`,
+  `One_Piece/19ª_temporada`, `One_Piece:_Episodio_de_Alabasta`, y fichas de actor `Dan_Osorio`,
+  `Erick_Selim`, `Luis_Leonardo_Suárez`, `Lourdes_Arruti`, `Alfredo_Gabriel_Basurto`,
+  `Dafnis_Fernández`. Español.
+- **Doblaje Wiki, API** `list=search&srnamespace=6` (archivos) por «Crocodile», «Smoker», «Vivi»,
+  «Sabo», «Katakuri», «Jinbe» (hasta `srlimit=500`), para confirmar qué personajes tienen o no
+  `.mp3` subido.
+- **Doblaje Wiki, API `imageinfo`** sobre nombres de archivo probados a mano (`Smoker-OP.mp3`,
+  `Sabo-OP.mp3`, `Sabo niño.mp3`, `Katakuri-OP.mp3`, `Jinbe-OP.mp3`, `Jinbe 1.mp3`, etc.): todas
+  «missing»; `Crocodile-OP.mp3` y los dos de Vivi sí existen.
+- **`herramientas/voz.py`** (Whisper *medium* + Praat), 3 corridas nuevas: `Crocodile-OP`,
+  `Vivi_nina` (la del especial de Alabasta) y `Vivi_LourdesArruti`. Archivos en
+  `/tmp/claude-0/trabajo/01-voz/<nombre>/`.
+- **WebSearch** (español, 11 búsquedas): variantes de `"Dafnis Fernández" Zoro salió / dejó /
+  reemplazado / diferencias / empresa / motivo / entrevista / podcast / Colombia / Reddit /
+  tuit Basurto` → ninguna dio el motivo; sólo confirmaron el hecho del cambio (ANMTV, Cine
+  PREMIERE) o repitieron el texto de Doblaje Wiki sin fuente nueva.
+- **WebFetch**: artículo completo de El Heraldo (2025), artículo de ANMTV, artículo de Cine
+  PREMIERE, hilo de Pirate-King («One Piece vuelve a Latinoamérica»). Ninguno menciona el motivo
+  de la salida de Dafnis.
+- **onepiece.fandom.com, API `pageimages`**: retratos de Crocodile y Nefertari Vivi para
+  `voz.json`.
