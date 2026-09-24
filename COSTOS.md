@@ -26,3 +26,4 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | voz, tanda 1 | Sonnet | 30 | 250 521 | 754 líneas, 93 ✅ y 23 ⚠️, 8 muestras del doblaje transcritas; Fubuki 2.ª en la encuesta oficial; dejó «Sigue:» con caras de 8 secundarios |
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | voz, tanda 2 | Sonnet | 16 | 167 698 | 39 acciones; caras de 8 secundarios (15 imágenes medidas); lo no encontrado queda ⚠️ |
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | imagen (19, 23) | Sonnet | 12 | 217 107 | 77 acciones, una tanda sin «Sigue:»; 21 referencias, 27 webs; figuras y cosplay |
+| 24-sep | 02 Attack on Titan | repaso corto (en cadena) | texto (5, 18, 24, 25) | Sonnet | 16 | 208 360 | 72 acciones, una tanda sin «Sigue:»; 5 letras libres comprobadas, 7 rigs CC-BY, 9 arcos |
