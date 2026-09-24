@@ -1,0 +1,353 @@
+[
+ {
+  "url": "https://static.jojowiki.com/images/6/6f/latest/20230324222102/E16-TBC.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W3 · Fotograma del final de BT ep. 16: la flecha To Be Continued sola, grande, sobre rojo carmesí #600000.",
+  "para_que": "Calcar la flecha exacta (relleno #B4C0A8, letra #48483C). Conceptos A y C.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/2/22/latest/20220512145717/SC-E1-TBC.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W5 · TBC de SC ep. 1: Jotaro en la celda, filtro sepia oscuro.",
+  "para_que": "Filtro sepia de SC para la foto del concepto A.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/9/96/latest/20230324225826/SC-E47-TBC.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W7 · TBC de SC ep. 47: Jotaro en El Cairo, duotono rojo y violeta.",
+  "para_que": "Filtro del concepto C (apisonadora).",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/8/8d/latest/20230324235144/DU-E1-TBC.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W8 · TBC de DU ep. 1: duotono magenta y violeta.",
+  "para_que": "Variante de filtro de DU.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/9/94/latest/20260902150718/SBR_Episode_1_TBC.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W12 · TBC de Steel Ball Run ep. 1 (2026): Gyro a caballo, sepia verdoso.",
+  "para_que": "Lo más reciente; filtro de SBR.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/d/dd/latest/20191015214849/Crazy_Diamond_stats.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W16 · Ficha de Stand del anime (eyecatch DU): Crazy Diamond; reloj de seis notas, [STAND MASTER]/[STAND NAME].",
+  "para_que": "Modelo exacto de la ficha de Stand (concepto B).",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/6/6b/latest/20211112213632/Killer_Queen_Stats.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W17 · Ficha de Stand de Killer Queen: fondo negro con manchas rojas.",
+  "para_que": "Variante de fondo de la ficha.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/0/04/latest/20191015213752/Heaven%27s_Door_stats.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "W21 · Ficha de Stand de Heaven's Door (Rohan).",
+  "para_que": "Ficha del personaje del concepto B.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.jojowiki.com/images/c/cc/latest/20220128024940/Crazy_D_Visual_Book_Stand_File.png",
+  "fuente": "JoJo Wiki (jojowiki.com), API",
+  "ancho": 2378,
+  "alto": 1800,
+  "que_es": "W22 · «Visual Book Stand File» de Crazy Diamond (libro oficial).",
+  "para_que": "Maquetación de ficha en papel.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/1/11/JotaroStandCard.png/revision/latest?cb=20160408094846",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F190 · SC: Jotaro con la carta de tarot THE STAR y Star Platinum; rótulos 空条承太郎 / 星の白金.",
+  "para_que": "Cartela de presentación de SC; tipografía mincho de nombres.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/c/c8/JosephStandCard.png/revision/latest?cb=20160408095255",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F278 · SC: Joseph con la carta THE HERMIT y Hermit Purple.",
+  "para_que": "Presentar a Joseph (concepto A).",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/c/c1/JoJo_Tarot_17_-_The_Star.png/revision/latest?cb=20151011232413",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1279,
+  "alto": 1920,
+  "que_es": "F148 · Carta de tarot oficial 17 · THE STAR.",
+  "para_que": "Modelar la carta en Blender.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/e/ec/DIO_HermitPurple_Camera.png/revision/latest?cb=20160409161533",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F234 · Cámara instantánea golpeada por Hermit Purple (zarzas rosa violeta).",
+  "para_que": "Objeto del concepto A; colores #AF6788 y #D8A8C5.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/2/22/SC_ep_48_Jotaro_smile_at_photo.png/revision/latest?cb=20150619215146",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F216 · SC ep. 48: Jotaro sostiene la foto instantánea del grupo.",
+  "para_que": "Cómo se sujeta una Polaroid en la serie.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/2/23/OldJosephOhMyGodEoH.jpg/revision/latest?cb=20170219100001",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F298 · Joseph viejo, «OH MY GOD», manos a la cabeza (Eyes of Heaven).",
+  "para_que": "Pose de reacción del concepto A.",
+  "licencia": "© Araki/Shueisha, Bandai Namco. Sólo referencia o recorte."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/c/c2/Joseph_can%27t_hear.png/revision/latest?cb=20160617182407",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F285 · DU: Joseph con la mano en la oreja (no oye).",
+  "para_que": "Pose alternativa: «¿qué? ¿lo doblas?».",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/4/4a/Oldseph_anime_ref_%281%29.jpg/revision/latest?cb=20191008191858",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 3400,
+  "alto": 2500,
+  "que_es": "F29 · Hoja de modelo de Joseph viejo (David Production), gestos.",
+  "para_que": "Proporciones y ropa de Joseph.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/8/86/DIO_on_top_of_road_roller.png/revision/latest?cb=20150619213638",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F241 · SC ep. 48: Dio encima de la apisonadora.",
+  "para_que": "Concepto C.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/9/92/DIO_high_as_hell.png/revision/latest?cb=20150619213544",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F239 · Dio con el dedo en la sien («high as hell»).",
+  "para_que": "Pose de burla/celebración.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/7/71/Jotaro_ASB.jpg/revision/latest?cb=20170226055354",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 3750,
+  "alto": 5000,
+  "que_es": "F5 · Render oficial de Jotaro (All Star Battle), señalando; fondo blanco.",
+  "para_que": "Recorte limpio de Jotaro; pose de presentar.",
+  "licencia": "© Araki/Shueisha, Bandai Namco. Sólo referencia o recorte."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/2/2a/Jotaro_anime_ref_%281%29.jpg/revision/latest?cb=20191008191340",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 3400,
+  "alto": 2500,
+  "que_es": "F10 · Hoja de modelo de Jotaro (David Production), expresiones.",
+  "para_que": "Rasgos y línea de Jotaro.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/a/aa/Rohan_ASB.jpg/revision/latest?cb=20170226055636",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 4000,
+  "alto": 5318,
+  "que_es": "F3 · Render oficial de Rohan (All Star Battle), brazo sobre la cabeza; fondo blanco.",
+  "para_que": "Recorte limpio de Rohan (concepto B).",
+  "licencia": "© Araki/Shueisha, Bandai Namco. Sólo referencia o recorte."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/1/16/Rohan_reads_Koichi.png/revision/latest?cb=20160701182228",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F492 · DU: Rohan lee la cara-libro de Koichi (Heaven's Door).",
+  "para_que": "Texto en páginas: cuadro de diálogo propio (concepto B).",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/b/be/RohanTalkingthroughHeaven%27sDoor.png/revision/latest?cb=20170110203011",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F476 · DU: Koichi convertido en libro, con columnas de texto.",
+  "para_que": "Cómo se ve el texto de Heaven's Door.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/8/89/Giornosignaturepose_PartIAnimeOP1.png/revision/latest?cb=20150621032547",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F431 · Opening de 2012: Giorno como página de manga, mano en el pecho.",
+  "para_que": "Globo de manga auténtico; pose de Giorno.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jjba/images/9/96/CNBT_Josuke.png/revision/latest?cb=20160408200222",
+  "fuente": "Fandom (jojo.fandom.com), vía investigar_serie.py",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "F302 · OP de DU: Josuke peinándose el tupé, fondo pop.",
+  "para_que": "Paleta pop de DU; pose de Josuke.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir."
+ },
+ {
+  "url": "https://jojo-portal.com/special/digital-contents/assets/images/common/wallpaper_pc_stardust-crusaders.jpg",
+  "fuente": "Portal oficial (jojo-portal.com)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla oficial de SC (Jotaro), 2021: franjas lima #C0E000 y rosa #F848A0 sobre negro.",
+  "para_que": "Color oficial de cada parte; composición de franjas.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir. Distribuido gratis como fondo de pantalla."
+ },
+ {
+  "url": "https://jojo-portal.com/special/digital-contents/assets/images/common/wallpaper_pc_diamond-is-unbreakable.jpg",
+  "fuente": "Portal oficial (jojo-portal.com)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla oficial de DU (Josuke): rosa #F848A0 y naranja #F0A808.",
+  "para_que": "Ídem.",
+  "licencia": "© Araki/LUCKY LAND/Shueisha/JoJo Animation Project. Sólo referencia o recorte según v3/integrar.py; no redistribuir. Distribuido gratis como fondo de pantalla."
+ },
+ {
+  "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv",
+  "fuente": "GitHub (kitsunekko-mirror)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos japoneses con tiempos de todas las partes (PB a SO y SBR ep. 1).",
+  "para_que": "Minuto exacto de cada escena y frase de §2.",
+  "licencia": "Subidos por terceros. Sólo consulta."
+ },
+ {
+  "url": "https://jojowiki.com/To_Be_Continued",
+  "fuente": "JoJo Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Historia completa de la flecha TBC: manga, anime, juegos, meme.",
+  "para_que": "Datos de §2.2 y §3.3.",
+  "licencia": "CC BY-SA (texto de la wiki)."
+ },
+ {
+  "url": "https://jojowiki.com/Stand_Stats",
+  "fuente": "JoJo Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tabla de notas A-E de todos los Stands.",
+  "para_que": "Notas de §3.1.",
+  "licencia": "CC BY-SA (texto de la wiki)."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/JoJo%27s_Bizarre_Adventure:_Los_cruzados_de_polvo_de_estrellas",
+  "fuente": "Doblaje Wiki (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reparto latino de SC (y páginas de cada parte).",
+  "para_que": "Voces de §10.",
+  "licencia": "CC BY-SA (texto de la wiki)."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=tZRpLrZgr6w",
+  "fuente": "YouTube · Netflix Latinoamérica",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tráiler oficial de Steel Ball Run con doblaje latino (19 feb. 2026, 2:10).",
+  "para_que": "Oír a Max Durán (Johnny) y Xalisco Moreno (Gyro).",
+  "licencia": "Vídeo oficial. Sólo ver."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=jSJT6gSmxTc",
+  "fuente": "YouTube (clip de fan)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Jotaro: Ay por favor» (7 s): el «yare yare daze» en el doblaje latino.",
+  "para_que": "Frase latina confirmada.",
+  "licencia": "Clip de terceros. Sólo ver."
+ },
+ {
+  "url": "https://github.com/valkyrs/jojo-stands",
+  "fuente": "GitHub",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Generador de la gráfica de Stand en canvas HTML.",
+  "para_que": "Sacar el polígono exacto de la ficha (concepto B).",
+  "licencia": "MIT."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/920ad62faa9d4aa48bc6e9535f3d07fe",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Polaroid Camera» de Boxroom 3D, 271.257 caras.",
+  "para_que": "Cámara del concepto A en Blender.",
+  "licencia": "CC BY 4.0 · crédito: «Polaroid Camera» by Boxroom 3D (Sketchfab)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/02c2ffa7c88f40fca1718e568adebda6",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Road Roller» de Lassi Kaukonen, 135.062 caras.",
+  "para_que": "Apisonadora del concepto C en Blender.",
+  "licencia": "CC BY 4.0 · crédito: «Road Roller» by Lassi Kaukonen (Sketchfab)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/cd5829e8a5854fa994fded37916bb744",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«The Star» (carta de tarot) de terpsichore.",
+  "para_que": "Base de la carta de tarot en Blender.",
+  "licencia": "CC BY 4.0 · crédito: «The Star» by terpsichore (Sketchfab)."
+ },
+ {
+  "url": "https://www.pixiv.net/artworks/79591005",
+  "fuente": "Pixiv (fan art)",
+  "ancho": 1500,
+  "alto": 937,
+  "que_es": "«スタンドアイキャッチ風シャミ子» de 鯖Escalation: parodia de la ficha de Stand del anime.",
+  "para_que": "Prueba de que la ficha funciona como plantilla de meme. Sólo mirar.",
+  "licencia": "© del autor. No usar."
+ }
+]

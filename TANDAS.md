@@ -97,7 +97,7 @@ Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda 
 - [x] 25-my-hero-academia
 - [x] 26-scooby-doo
 - [x] 27-cyberpunk-edgerunners
-- [ ] 28-jojo-s-bizarre-adventure
+- [x] 28-jojo-s-bizarre-adventure
 
 ## Tanda S8
 
