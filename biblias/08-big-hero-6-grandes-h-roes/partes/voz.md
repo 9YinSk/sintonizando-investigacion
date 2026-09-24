@@ -79,3 +79,62 @@ de Disney Character Voices International).
   textuales con minuto de abajo salen de clips doblados reales, no de
   muestras sueltas.
 
+## 2 · Frases del doblaje latino, textuales y con minuto (punto 8)
+
+Como Doblaje Wiki no tiene muestras de audio para esta película, oí clips
+**doblados reales** en Dailymotion con `herramientas/voz.py` (Whisper en
+local). **Ojo: Whisper confunde nombres propios** (oye «Baymax» como
+«Deimax», «Hiro» como «Giro/Max/Vocé») — lo dejo anotado en cada frase; el
+resto de la frase se oye bien y coincide con lo que ya circulaba de memoria en
+la biblia (o lo corrige).
+
+### Tráiler oficial en español latino (Dailymotion, voz real de Alan Prieto y Memo Aponte)
+_Fuente: [Dailymotion, «'Grandes Héroes' - Tráiler oficial en español latino»](https://www.dailymotion.com/video/x889whz), 2:31 · transcrito con `voz.py --idioma es`_
+
+| Minuto | Frase (limpia de errores de Whisper) | Quién |
+|---|---|---|
+| [0:11](https://www.dailymotion.com/video/x889whz?t=11) | «Él es mi hermano mayor, Tadashi.» | Hiro ✅ |
+| [0:18](https://www.dailymotion.com/video/x889whz?t=18) y [0:37](https://www.dailymotion.com/video/x889whz?t=37) | «Hola, yo soy Baymax.» | Baymax ✅ (Whisper oyó «Deimax») |
+| [0:52](https://www.dailymotion.com/video/x889whz?t=52) | «Quiero ayudarte.» | Baymax ✅ |
+| [0:59](https://www.dailymotion.com/video/x889whz?t=59) | «Estoy abrazando un... malvavisco.» (frase cortada en el tráiler) | Hiro ⚠️ (se pierde una palabra en el corte del tráiler) |
+| [1:25](https://www.dailymotion.com/video/x889whz?t=85) | «¡Somos nerds!» | Fred ✅ |
+| [1:37](https://www.dailymotion.com/video/x889whz?t=97) | «¿Por qué la ropa interior de fibra de carbono?» | GoGo o Wasabi ⚠️ (no distingo la voz con certeza en el tráiler) |
+| [2:16](https://www.dailymotion.com/video/x889whz?t=136) | «¡Es solo una expresión!» | Wasabi ✅ (coincide con la frase de más abajo, oída también en otro clip) |
+
+### Escena real de la película, doblada (Dailymotion, fragmento subido por un usuario)
+_Fuente: [Dailymotion, «6 Grandes Héroes Español Latino Parte 2»](https://www.dailymotion.com/video/x2hry42), 3:59 · transcrito con `voz.py --idioma es`. Es la escena inicial (pelea robótica y regaño de la tía Cass) y la del «Nerd Lab» donde Hiro conoce a GoGo, Wasabi y Fred._
+
+| Minuto | Frase | Quién |
+|---|---|---|
+| [0:00](https://www.dailymotion.com/video/x2hry42?t=0) | «Las peleas robóticas son ilegales. ¿Quieres que te arresten por esto?» | Tía Cass ✅ |
+| [0:04](https://www.dailymotion.com/video/x2hry42?t=4)-[0:09](https://www.dailymotion.com/video/x2hry42?t=9) | «Las peleas robóticas no son ilegales. Apostar en peleas robóticas, eso es ilegal, pero lucrativo.» | Hiro ✅ — confirma de oído la frase que sólo se sabía de memoria (biblia, punto 20 de «lo no verificado») |
+| [1:26](https://www.dailymotion.com/video/x2hry42?t=86) | «¿Hasta cuándo harás algo de valor con esa mente brillante?» | Tadashi ✅ |
+| [1:37](https://www.dailymotion.com/video/x2hry42?t=97)-[1:40](https://www.dailymotion.com/video/x2hry42?t=100) | «¿Qué dirían mamá y papá ahora? No lo sé, ya no están. Tenía tres años cuando murieron.» | Tadashi e Hiro ✅ |
+| [1:49](https://www.dailymotion.com/video/x2hry42?t=109) | «Quizá no evite que vayas, pero no voy a dejarte ir solo.» | Tadashi ✅ |
+| [2:11](https://www.dailymotion.com/video/x2hry42?t=131) | «¡Qué lindo! Conoceré tu nerd lab.» | Hiro ✅ |
+| [2:45](https://www.dailymotion.com/video/x2hry42?t=165) | «Bienvenida a la tierra de los nerds.» | Hiro ✅ |
+| [3:29](https://www.dailymotion.com/video/x2hry42?t=209) | «Cada objeto tiene un lugar y un lugar cada objeto.» | Wasabi ✅ — su manía del orden, con frase textual |
+| [3:34](https://www.dailymotion.com/video/x2hry42?t=214) | «¡La sociedad tiene reglas!» | Wasabi ✅ |
+
+### Otra escena real, doblada (Dailymotion, «pain scale» y presentación de Krei)
+_Fuente: [Dailymotion, «Big hero 6 pelicula completa en español latino Parte 1 part 2/2»](https://www.dailymotion.com/video/x5hvz3y), 4:23 · transcrito con `voz.py --idioma es`. Es la escena en que Baymax escanea a Hiro tras la pelea con Yama y la de la presentación del proyecto «Silent Sparrow» de Alistair Krei._
+
+| Minuto | Frase | Quién |
+|---|---|---|
+| [0:39](https://www.dailymotion.com/video/x5hvz3y?t=39) | «Sólo es una expresión.» | Hiro ✅ (corrige/confirma la de la biblia) |
+| [0:52](https://www.dailymotion.com/video/x5hvz3y?t=52) | «Tu estado emocional ha mejorado.» | Baymax ✅ (dato nuevo) |
+| [0:55](https://www.dailymotion.com/video/x5hvz3y?t=55) | **«Puedo desactivarme si dices que estás satisfecho con tu cuidado.»** | Baymax ✅ — **corrige** la frase de audiofrases.com que traía la biblia («No pueden desactivarme hasta que digas...»): la versión real del doblaje es más corta y usa **«tu cuidado»**, no «mi cuidado» |
+| [1:00](https://www.dailymotion.com/video/x5hvz3y?t=60) | «No, no quiero que te desactives.» | Hiro ✅ |
+| [3:01](https://www.dailymotion.com/video/x5hvz3y?t=181) | «Fred, no me hagas callarte con mi láser.» | GoGo ✅ |
+| [2:44](https://www.dailymotion.com/video/x5hvz3y?t=164) | «El líder Fred, los ángeles de Fred» (Fred se imagina jefe del equipo) | Fred/Hiro ✅ |
+| [4:14](https://www.dailymotion.com/video/x5hvz3y?t=254) | «Amigos, les presento el proyecto Silent Sparrow.» | Alistair Krei ✅ |
+
+**Con esto se cierran o corrigen varias ⚠️ que traía la biblia de la primera
+pasada** (punto 10 de `biblia.md`): la frase de «satisfecho con tu cuidado» sí
+tiene fuente textual con minuto y corrige la versión que circulaba; «Sólo es
+una expresión» se confirma tal cual; y la manía de Wasabi («cada objeto tiene
+un lugar») ahora tiene minuto propio. Sigue sin confirmarse de oído la frase
+final «Estoy satisfecho con mi cuidado» de Hiro (no encontré ese tramo —el
+clímax— doblado en Dailymotion ni Internet Archive): queda ✅ por dos fuentes
+de texto (audiofrases, TikTok) pero ⚠️ de oído.
+

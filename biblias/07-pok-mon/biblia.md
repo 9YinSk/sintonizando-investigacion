@@ -1817,8 +1817,8 @@ primaria** y choca con los 140 cm oficiales. **No usarlo.**
   de la hoja 3 de contacto.
 - **Pokémon Café** (Nihonbashi, Tokio): decoración temática en cada
   superficie, **«Chef Pikachu»**, menú de temporada (curry de Pikachu,
-  hamburguesa de Eevee) ✅ ([pokemon-cafe.jp](https://www.pokemoncafe.jp/),
-  Tokyo Cheapo, Voyapon). Arte de temporada con Pikachu jardinero
+  hamburguesa de Eevee) ✅ (web del Pokémon Café, pokemon-cafe.jp;
+  Tokyo Cheapo; Voyapon). Arte de temporada con Pikachu jardinero
   ([«Grassy Gardening», 3387×4096](https://static.wikia.nocookie.net/pokemon/images/2/2e/Grassy_Gardening_by_%40kirisAki_29.jpg)).
 
 **Cruces con otros juegos**
