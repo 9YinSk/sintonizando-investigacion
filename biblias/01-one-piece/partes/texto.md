@@ -44,7 +44,7 @@ nuevo que salió de una entrevista de prensa japonesa (no estaba en la biblia):
   copia guardada en `/tmp/claude-0/trabajo/01-tecnica-mundo/animedia.html`,
   japonés, 30-jun-2019). Es la única onomatopeya de la serie que se sabe que
   **la cambió el propio Oda a propósito** para un arco concreto (el sonido de
-  un tambor/gong de kabuki, no elタイコ de siempre). Para la lámina: si se
+  un tambor/gong de kabuki, no el タイコ de siempre). Para la lámina: si se
   hace algo ambientado en Wano, «べべん!!» es más fiel que «ドン!!».
 - Confirma además que la caja de texto **no es fija en toda la serie**: cada
   arco puede tener su propio efecto de golpe, filtro de imagen y hasta plantilla
