@@ -8,7 +8,20 @@ fecha: 2026-09-24
 # Biblia · Haikyuu!! — para la biblioteca
 
 > [!important] Cómo se hizo, y sus límites
-> (se rellena al final)
+> - **Minutos**: de los subtítulos japoneses de los 85 episodios y de la
+>   película (kitsunekko-mirror, GitHub). Usar la columna **«streaming»**
+>   de §2.0: el Blu-ray va ~1:31 antes.
+> - **Vídeos mirados** fotograma a fotograma (👁): opening 2, ending 1,
+>   opening de T4, dos tráileres, cinco escenas icónicas y tres vídeos de
+>   los juegos, en **Dailymotion** (YouTube pedía «iniciar sesión»). Son
+>   de **512×288**: para poses y luz, no para recortar.
+> - **Arte**: 3.943 imágenes indexadas de Haikyuu!! Wiki; unas 90 bajadas
+>   a tamaño original; tres hojas propias en `hojas/`. Tamaños medidos
+>   con la API de Fandom.
+> - **Voces latinas**: cada nombre en dos fuentes (Doblaje Wiki por su
+>   API, ANMTV, créditos de Max en pantalla, wiki en español).
+> - ✅ = dos fuentes o visto con minuto; ⚠️ = una sola fuente o sin
+>   comprobar. Lo que falta está en §20 y en la tabla de cumplimiento.
 
 ## Índice
 
@@ -88,7 +101,59 @@ quedaría falso.
 
 ## 1 · Resumen para quien tenga prisa
 
-(pendiente)
+**La serie.** Manga de vóley de **Haruichi Furudate** en la *Weekly
+Shōnen Jump*, del **20-feb-2012 al 20-jul-2020**, **45 tomos**
+([Haikyuu!! Wiki](https://haikyuu.fandom.com/wiki/Haiky%C5%AB!!_(Manga)) ✅).
+El nombre viene de **排球**, palabra antigua para «vóley». Anime de
+**Production I.G**: 4 temporadas (2014-2020, **85 episodios**) y la
+película ***La Batalla del Basurero*** (2024). Hinata, el bajito que
+salta, entra en **Karasuno**, «los cuervos que ya no pueden volar», y
+forma pareja con Kageyama, el colocador genio que nadie aguanta.
+**No hay villanos**: el rival es un amigo que te empuja (§3.5).
+
+**Para qué canal.** Aún no tiene canal. Propuesta: **#reto-de-la-semana**
+con **el marcador de cartones del campamento** y su pizarrita de tiza
+(T2-09) y **Bokuto** de anfitrión (§0, §19 A). En el campamento nadie
+gana nada: se juega para mejorar. Reservas: **#general-doblaje** con **la
+pizarra del tutorial del juego** y Nishinoya (§19 B) y **#postulaciones**
+con **los formularios de inscripción** y Daichi (§19 C).
+
+**Quién es el más querido.** Fuera de Japón, **Hinata** (AniList
+14.652). El **secundario más querido de Karasuno** es **Nishinoya**: el
+jugador **más votado** de la encuesta final de alineación (38.702). En
+Japón hoy ganan **Kuroo, Kenma y Oikawa**. **Bokuto** es el más *meme* y
+gana su puesto en la alineación (§9).
+
+**El cuadro de diálogo.** Haikyuu!! no tiene uno propio del anime. El
+único oficial es **la caja del juego de 3DS** (2014): **negra
+`#14100B`, filete naranja `#E89A30`, pestaña del nombre en degradado
+amarillo-naranja y un balón como botón** (§7.1 A). Para mucho texto,
+**la pizarra blanca del tutorial**, con «POINT» en rojo (§7.2).
+
+**Colores clave** (medidos con Pillow, §5.2): negro azulado del uniforme
+`#343643`, naranja `#E68843`, filete del logo `#ED830A`, madera del
+gimnasio `#A97F45`, estandarte `#292E36`.
+
+**Letras** (con tildes, ñ, ¿ y ¡ comprobadas, §6.2): **Dela Gothic One**
+(títulos), **M PLUS Rounded 1c** (caja del juego), **Kalam** (pizarra),
+**Yomogi** (tiza), **Yuji Boku** (estandarte a pincel).
+
+**Doblaje latino** (§10): sí hay, de **Crunchyroll** en México (2022-2025).
+Estudio **Iyuno México** (T1-T2 y película) y **VSI Mexico City**
+(T3-T4). Director **Sergio Morel**, que dobla a Daichi. Hinata **Alberto
+Bernal**, Kageyama **Brandon Santini**, Nishinoya **Diego Becerril**,
+Oikawa **Alan Fernando Velázquez**, Bokuto **Arturo Castañeda**. Todos en
+dos fuentes.
+
+**Lo que un fan no perdona** (§14.2): Hinata alto, Kageyama sonriendo
+tranquilo, Nishinoya con la camiseta negra (el líbero va de **naranja**),
+Karasuno en amarillo y negro, un globo blanco genérico.
+
+**Los límites de esta biblia.** YouTube bloqueó la IP casi siempre: los
+vídeos se miraron en **Dailymotion**, que da **512×288** (sirve para
+poses y color, no para recortar). Las frases del doblaje de las escenas
+clave (el 飛べ, el «¡Hey, hey, heeey!», el «Su espalda la cuido yo») **no
+las pude oír**: hay que oírlas en Crunchyroll antes de usarlas (§10.4).
 
 ## 2 · Las escenas que sirven (con minuto)
 
