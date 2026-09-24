@@ -1671,7 +1671,53 @@ justo el tiempo de cada uno.
 
 ## 20 · Lo que no pude verificar
 
-(pendiente)
+**Lo más importante para la lámina**
+- **Cómo dice el doblaje latino «勇者ヒンメルならそうしました»**. No encontré
+  un clip oficial doblado con esa frase ni su subtítulo en español. En la
+  lámina, «Himmel lo habría hecho» sólo como traducción mía (§10.4).
+- **Si la web oficial reparte fondos de pantalla**: `frieren-anime.jp` dio
+  **403** y la Wayback Machine no respondió (§17.2).
+- **La resolución exacta de los vídeos de YouTube**: YouTube pidió «iniciar
+  sesión» todo el día. En `referencias.json` los vídeos de YouTube llevan el
+  tamaño de su **miniatura oficial (1280×720)**, con nota. Dailymotion sólo
+  sirve **512×288**.
+- **Los minutos de las poses de §15**: salen de la frase dicha en ese plano
+  (subtítulos del Blu-ray). El fotograma puede estar a **±30 s**.
+- **Qué canales ya tienen lámina**: lo deduzco del adjunto `.png` de cada
+  foro en el inventario (§0).
+
+**Datos de una sola fuente** (⚠️ en el texto)
+- El autor del **logo** 葬送のフリーレン; que salga de **Ryūmin** estirada
+  (dos análisis de diseñadores, no oficial) (§6.1).
+- Qué letra usan **Panini e Ivrea** en sus globos (§6.3).
+- Si las letras japonesas gratis del logo (装甲明朝, こころ明朝体…) traen ñ.
+- Netflix, HBO Max y Adult Swim en Latinoamérica (sólo Doblaje Wiki, §10.1).
+- La voz latina de **Linie** (Nycolle González, sólo Doblaje Wiki).
+- Que Azucena Estrada sea hija de Raúl Estrada y Alexandra Vicencio;
+  el tarareo de «Mi corazón encantado» en el ep. 17; la pronunciación
+  «Shtark» (Doblaje Wiki, §10.2-10.3).
+- La lista de colaboraciones con juegos de 2023-2025 (hokope, §13.1) y USJ.
+- El recuento coreano de las encuestas (resumen del buscador, §9.1).
+- Algunos memes de Know Your Meme («Friangle», portadas de videojuegos,
+  «mitad del cielo»).
+
+**Lo que no miré o no oí**
+- Los EDs especiales **«bliss»** y **«Trace»**; el tráiler de la T2 de
+  Crunchyroll y el PV principal de la T2 (sólo títulos).
+- El **audio** de openings y endings (los miré por storyboards).
+- Los análisis de YouTube de §12.5 (sólo título, canal y vistas) y la
+  entrevista larga de ANISON USA.
+- Las cajas de diálogo de **Monster Strike**, **Puzzle & Dragons** y
+  **Summoners War**.
+- **TV Tropes** y **Namu Wiki** (coreano) dieron **403**; Moegirl (chino)
+  no deja usar su API. **The Cutting Room Floor** no aplica: no hay
+  videojuego propio de Frieren (§13).
+
+**Lo que no encontré** (búsquedas en §21)
+- Un **videojuego propio** de Frieren.
+- Rótulos en pantalla tipo «X años después de la muerte de Himmel»: la
+  sinopsis lo cuenta así, pero no lo vi escrito en los vídeos (§7.1 I).
+- Una textura libre de **pergamino** en Poly Haven (§5.4).
 
 ## Cumplimiento del encargo
 
