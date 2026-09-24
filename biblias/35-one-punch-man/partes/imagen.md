@@ -58,6 +58,19 @@ Las 3 hojas de `hojas/` (`personajes_01.jpg`, `escenas_01.jpg`,
   y fan-made; sirven de referencia de pose y proporción para Blender, **nunca
   para pegar** (ya lo advertía biblia.md §3.3).
 
+### 3D de objetos y sitios (no sólo personajes, lo pide el punto 3)
+
+- **«Saitama's Apartment»** · Cyrone · **CC Attribution** · 826 vistas,
+  17.268 caras · https://sketchfab.com/3d-models/saitamas-apartment-fa77fee855a0417dbf6ff1d16ec8c195
+  · ✅ (comprobado en la API hoy) · el **sitio entero** modelado: mesa baja,
+  tele, futón — coincide con lo que reconstruyó V-STORAGE físicamente
+  (punto 1). Es la referencia 3D más directa para una lámina "en casa de
+  Saitama".
+- **«Saitama's TV Stand»** · drolavellan · **CC Attribution** · 166 vistas,
+  1.696 caras · https://sketchfab.com/3d-models/saitamas-tv-stand-26a48b271e954fb1a033e235a365fcf8
+  · ✅ · un **objeto** suelto (el mueble de la tele con la tele encima),
+  más ligero para meter en una escena sin modelar el cuarto entero.
+
 ### Fan art (Safebooru, sólo como referencia de composición y pose)
 
 - **Saitama**: mejor puntuado, 1768×2500, autor/origen Pixiv

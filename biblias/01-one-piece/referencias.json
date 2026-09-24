@@ -1,5 +1,113 @@
 [
   {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/1000th_Episode_Eyecatcher_2.png",
+    "fuente": "One Piece Wiki (ep. 1000)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "P43 · Eyecatcher del ep. 1000: Luffy sonríe con los ojos cerrados, delante de su cartel",
+    "para_que": "Saludar en #bienvenidas; la sonrisa oficial más grande",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/nami/img.jpg",
+    "fuente": "one-piece.com (pide Referer one-piece.com)",
+    "ancho": 1200,
+    "alto": 998,
+    "que_es": "P26 · Nami de cuerpo entero con el brazo en alto, saludando",
+    "para_que": "Pose de «¡hola!» oficial para la lámina",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Fullbody%27s_Wanted_Posters.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O1",
+    "ancho": 963,
+    "alto": 500,
+    "que_es": "Muro de tablones con carteles de SE BUSCA clavados (ep. 45, Fullbody).",
+    "para_que": "Base del concepto A: carteles clavados en madera, vistos en el anime.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Luffy_Wanted_Poster.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O3",
+    "ancho": 744,
+    "alto": 1074,
+    "que_es": "Cartel clásico de Luffy: WANTED, foto, DEAD OR ALIVE, nombre, berries y MARINE.",
+    "para_que": "Maqueta del cartel: proporción 1:1,45 y partes.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Luffy%27s_Wanted_Poster_with_Spanish_Text.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O2",
+    "ancho": 643,
+    "alto": 577,
+    "que_es": "Cartel «SE BUSCA / vivo o muerto / MONKEY·D·LUFFY» de la emisión de España (ep. 45).",
+    "para_que": "Modelo para rotular el cartel en español.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/99/Straw_Hat_Crew_Recruitment_Celebration.png/revision/latest?cb=20130619231150",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Straw_Hat_Crew_Recruitment_Celebration.png",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Ep. 324: fiesta en el césped del Thousand Sunny al entrar Franky. Brindis con jarras de madera, barriles, mantel de cuadros con comida; Luffy vuela con el brazo estirado, Nami ríe con los brazos abiertos, Chopper, Franky, Usopp boca abajo, Zoro y Sanji de espaldas, Robin sonríe con su jarra. Logo de BS Fuji arriba a la derecha.",
+    "para_que": "CELEBRAR la llegada de alguien: la mejor referencia de «bienvenido a bordo» en grupo (cubierta de césped, luz de día, jarras). Pie o fondo de la lámina.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://one-piece.com/img/strawhatpirates/strawhatpirates_01.jpg",
+    "fuente": "one-piece.com (Straw Hat Crew)",
+    "ancho": 1200,
+    "alto": 960,
+    "que_es": "P31 · Los diez en fila, fondo blanco",
+    "para_que": "Grupo oficial actual",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=62",
+    "fuente": "YouTube · ONE PIECE公式 (ED 23 «Sono Mirai», oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "ED 23, 1:02-1:06: la tripulación entera, de espaldas en la baranda del Sunny, saluda con los brazos al atardecer (lavanda #C3ACBA, melocotón #F1C8AF). Mirado en storyboard (±2 s).",
+    "para_que": "La pose de «¡bienvenido!» vista desde el barco (grupo). Tamaño sin medir: YouTube no dejó bajar el vídeo, sólo el storyboard de 160×90.",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation; sólo referencia"
+  },
+  {
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/luffy/img.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 998,
+    "que_es": "P25 · Luffy oficial de cuerpo entero (tras el salto)",
+    "para_que": "Referencia de ropa y proporciones; hex medidos",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 998,
+    "que_es": "P27 · Zoro oficial de cuerpo entero, espada al hombro",
+    "para_que": "Referencia de ropa; advertir (reglas)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/chopper/img.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 713,
+    "que_es": "P29 · Chopper salta con los brazos arriba",
+    "para_que": "Celebrar / presentarse con alegría",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/sanji/img.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 998,
+    "que_es": "P28 · Sanji oficial, manos en los bolsillos",
+    "para_que": "Referencia de ropa: traje azul marino, no negro",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
     "url": "https://raw.githubusercontent.com/optc-db/optc-db.github.io/master/api/images/full/transparent/1/400/1403.png",
     "fuente": "optc-db (GitHub) · arte oficial de One Piece Treasure Cruise",
     "ancho": 640,
@@ -7,6 +115,258 @@
     "que_es": "Luffy tras el salto de 2 años: mano en el sombrero, sonrisa, camisa roja abierta; detrás el Thousand Sunny y el mar.",
     "para_que": "Pose de presentar (concepto A). Paleta de Luffy medida aquí.",
     "licencia": "© Eiichiro Oda / Shueisha, Toei Animation, Bandai Namco (One Piece Treasure Cruise). Sólo referencia; recortar para uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Volume_61.png",
+    "fuente": "One Piece Wiki (tomo 61)",
+    "ancho": 756,
+    "alto": 1200,
+    "que_es": "P46 · Portada del tomo 61: la tripulación zarpa celebrando en el Sunny (pareja del tomo 1)",
+    "para_que": "Imagen oficial de «empieza la aventura»",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Volume_1.png",
+    "fuente": "One Piece Wiki (tomo 1)",
+    "ancho": 640,
+    "alto": 1016,
+    "que_es": "P45 · Portada del tomo 1: Luffy, Zoro y Nami zarpan entre gaviotas",
+    "para_que": "Idem, versión East Blue",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Straw_Hats%27_Vow.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O23",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "El juramento del barril visto desde arriba: pies sobre la tapa, madera mojada (ep. 53).",
+    "para_que": "Concepto C: el barril.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/9f/06/9a9f06c6-3021-5898-a662-95fab084b149/04-portrait-generator_complete_2208_1242.jpg/2000x2000bb.jpg",
+    "fuente": "App Store, ficha de ONE PIECE BASE",
+    "ancho": 1125,
+    "alto": 2000,
+    "que_es": "Reverso del cartel de SE BUSCA generado por la app oficial: ficha con Nickname, Bounty, Devil Fruits, Haki y Affiliations",
+    "para_que": "Punto 6 y 11: modelo oficial y listo para el paso «preséntate» de #bienvenidas (el reverso del propio cartel)",
+    "licencia": "© Bandai Namco Entertainment · captura de app oficial, uso de referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/a8dc456ad9de44fb295b4394e2be1bb14d7979c4/ss_a8dc456ad9de44fb295b4394e2be1bb14d7979c4.1920x1080.jpg",
+    "fuente": "Steam, ficha de ONE PIECE: Grand Gourmet (app 3905010)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Caja de diálogo crema con doble filete dorado y café, ancla como «siguiente» en vez de flecha, marco de telón y timón",
+    "para_que": "Punto 6 y 11: la caja de diálogo «de barco» más clara de toda la franquicia, sale el 23-oct-2026",
+    "licencia": "© Bandai Namco / Kairosoft · captura de tienda oficial, uso de referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_ecd6e4103c470b4b7878f0902ce91bf9743a458c.1920x1080.jpg",
+    "fuente": "Steam · One Piece Odyssey (captura oficial n.º 7)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Caja de diálogo del juego: banda translúcida verde azulado, pestaña turquesa con el nombre y busto encima.",
+    "para_que": "Caja para textos largos de la lámina 2.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation, Bandai Namco. Sólo referencia."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:TashigiOP2.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API imageinfo) · voz.py",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tashigi (Ivett Toriz, 9.ª temporada, doblaje latino), 0:01-0:04: «Los carteles de Se Busca acaban de llegar, ¡lo lamento!»",
+    "para_que": "Prueba de que «Se Busca» se dice en el doblaje latino: el cartel de #bienvenidas puede rotularse «SE BUSCA». Audio, sin tamaño.",
+    "licencia": "© titulares del doblaje; sólo referencia"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/584b307dd36f495e9446d6c3aeb3dc14/thumbnails/23fbeddb1a354b6b9708618a482f427d/b8671d0e8e4d4fc69b149ed89bbad046.jpeg",
+    "fuente": "Sketchfab · «wanted poster» de lucq22 · https://sketchfab.com/3d-models/wanted-poster-584b307dd36f495e9446d6c3aeb3dc14",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cartel WANTED genérico con esquinas rotas y cuatro clavos (572 caras; miniatura del modelo)",
+    "para_que": "Malla base del cartel del concepto A: se le pone encima la foto oficial.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"wanted poster\" de lucq22 (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/4a100b11e6974113ad6be63fca957156/thumbnails/0628afc165d14c9aa687d0e1a676588c/1024x576.jpeg",
+    "fuente": "Sketchfab · «Straw hat pirate's flag» de DarvinAbraham · https://sketchfab.com/3d-models/straw-hat-pirates-flag-4a100b11e6974113ad6be63fca957156",
+    "ancho": 1024,
+    "alto": 576,
+    "que_es": "Bandera pirata de Luffy ondeando en su mástil, con simulación de tela (2592 caras; miniatura del modelo)",
+    "para_que": "Mástil y bandera al fondo del concepto A o C.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"Straw hat pirate's flag\" de DarvinAbraham (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/3598d9e686ad46dc838e1443b910d91e/thumbnails/2f186de7d2804af680746298f4720220/f7f257c0e1544481891c12e5fdd12cba.jpeg",
+    "fuente": "Sketchfab · «Luffy's Straw Hat» de tdonizetti · https://sketchfab.com/3d-models/luffys-straw-hat-3598d9e686ad46dc838e1443b910d91e",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Sombrero de paja de Luffy, versión ligera (2112 caras; miniatura del modelo)",
+    "para_que": "Sombrero colgado de un clavo junto a los carteles.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"Luffy's Straw Hat\" de tdonizetti (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/8cf214627e02411387d4df4b815ef28d/thumbnails/39f2dbf934ea469dac28e313afea420e/72761e32aa4349d995943ed8d2ef6e0a.jpeg",
+    "fuente": "Sketchfab · «Going Merry (One Piece)» de RadhruinT · https://sketchfab.com/3d-models/going-merry-one-piece-8cf214627e02411387d4df4b815ef28d",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Going Merry ligero, con la calavera en la vela (22512 caras; miniatura del modelo)",
+    "para_que": "Barco del concepto C sin saturar el PC (8 veces más ligero que el de Oliver Edwards).",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"Going Merry (One Piece)\" de RadhruinT (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://i.pximg.net/img-original/img/2010/03/07/02/32/47/9197401_p0.jpg",
+    "fuente": "Pixiv · vinhnyu · API ajax/illust/9197401 · página https://www.pixiv.net/artworks/9197401 (la imagen pide la cabecera Referer: https://www.pixiv.net/)",
+    "ancho": 1280,
+    "alto": 800,
+    "que_es": "Fan art de vinhnyu: la tripulación comiendo en el Sunny, con carteles WANTED clavados en la pared de madera",
+    "para_que": "Referencia de carteles en madera con luz cálida (concepto A). Sólo para mirar.",
+    "licencia": "Todos los derechos del autor (fan art). Sólo referencia, nunca pegar."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Brook_1.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Brook (Óscar Flores), 34 s: «¡Hola! ¿Cómo están? ¡Yohohoho! Disculpen si los asusté… siéntanse en casa. ¿Quieren una tacita de café?» y el chiste «ya no tengo ojos». voz.py: 263 Hz, 30 semitonos (la más expresiva), 3,1 palabras/s.",
+    "para_que": "El SALUDO latino literal para #bienvenidas; referencia de voz para doblajes del bot.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Luffy_3.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Luffy (Desireé González): «¡Únete a nosotros!» · «Tenemos que recuperar a nuestro compañero.» voz.py: 360 Hz, 28 st.",
+    "para_que": "La invitación del capitán en latino.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/33/Brook_Asks_To_Join_Luffy%27s_Crew.png/revision/latest?cb=20220609134559",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Brook_Asks_To_Join_Luffy's_Crew.png",
+    "ancho": 2150,
+    "alto": 1052,
+    "que_es": "Ep. 381: Brook se inclina ante Luffy para pedir entrar, con la tripulación mirando junto a una mesa de banquete.",
+    "para_que": "PEDIR UNIRSE / presentarse con cortesía: Brook como el recién llegado educado.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Luffy_Asks_Zoro_to_Join_Crew.png/revision/latest?cb=20230102150843",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Luffy_Asks_Zoro_to_Join_Crew.png",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Ep. 2 (y Episode of East Blue): plano general del patio de la base de la Marina; Zoro atado al poste, Luffy de pie delante, invitándolo.",
+    "para_que": "INVITAR: el primer fichaje de la serie. Referencia de composición (dos figuras, mucho aire) para «¡Únete a nosotros!».",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/72/Nami_Hugs_Chopper.png/revision/latest?cb=20241110020500",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Nami_Hugs_Chopper.png",
+    "ancho": 1440,
+    "alto": 1080,
+    "que_es": "Nami (tras el salto) abraza a Chopper con los ojos cerrados y una sonrisa enorme, en el reencuentro de Sabaody (ep. 519; también en el ep. 2 especial).",
+    "para_que": "ACOGER con cariño: Nami recibiendo a alguien. Alternativa amable al «castigo de martillo».",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Luffy_eyecatcher_poster.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja personajes_01 n.º P6",
+    "ancho": 704,
+    "alto": 528,
+    "que_es": "Eyecatcher del anime: Luffy dentro de un marco WANTED inclinado, con el logo.",
+    "para_que": "Prueba oficial de «personaje dentro del cartel» (concepto A).",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/26/Nami_eyecatcher_poster.png",
+    "fuente": "One Piece Wiki (Fandom) · hoja personajes_01 n.º P9",
+    "ancho": 704,
+    "alto": 528,
+    "que_es": "Eyecatcher: Nami guiña, saca la lengua y hace «OK» dentro de un cartel.",
+    "para_que": "Explicar con gracia (concepto B).",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YoeP9w5UIlg&t=64",
+    "fuente": "YouTube · ONE PIECE Official - ENG (opening 1 «We Are!», oficial de Toei); mirado por sus storyboards",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Opening 1 oficial, 1:04-1:11 (±2 s): carta náutica a la acuarela con el Going Merry dibujado y «Straw Hat Pirates» escrito a pluma; 0:41-0:46, el logo sobre la carta. Tamaño del vídeo medido con yt-dlp.",
+    "para_que": "Modelo del concepto B: texto escrito sobre la carta. La paleta de la carta se midió en la copia de Dailymotion (x2gldv, 0:48).",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Sólo referencia."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=M-jKhyF1q20&t=68",
+    "fuente": "YouTube · Crunchyroll en Español (clip oficial doblado al latino, ep. 37)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "«Luffy… ayúdame» en latino: Nami con el sombrero de paja puesto; etiqueta «LATINO» en la miniatura.",
+    "para_que": "Frases textuales del doblaje latino con minuto (§10.1) y la escena más querida.",
+    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation; clip de Crunchyroll. Sólo referencia."
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/weathered_planks/weathered_planks_diff_2k.jpg",
+    "fuente": "Poly Haven · weathered_planks (foto de Dimitrios Savva, procesado de Dario Barresi)",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de tablones gastados con agujeros de clavo (color difuso, 2K; hay hasta 8K).",
+    "para_que": "La madera donde se clavan los carteles (concepto A) y la cubierta (concepto C).",
+    "licencia": "CC0 (dominio público)."
+  },
+  {
+    "url": "https://cdn.polyhaven.com/asset_img/primary/seadogs_compass.png",
+    "fuente": "Poly Haven · https://polyhaven.com/a/seadogs_compass",
+    "ancho": 666,
+    "alto": 1200,
+    "que_es": "Brújula de latón con tapa (Poly Haven, Benny Weimer) (render del modelo)",
+    "para_que": "Sobre la carta náutica del concepto B.",
+    "licencia": "CC0 (dominio público; sin crédito obligatorio). Modelo .blend y glTF hasta 4K u 8K."
+  },
+  {
+    "url": "https://cdn.polyhaven.com/asset_img/primary/wooden_barrels_01.png",
+    "fuente": "Poly Haven · https://polyhaven.com/a/wooden_barrels_01",
+    "ancho": 1600,
+    "alto": 677,
+    "que_es": "Barriles de madera enteros y rotos en duelas (Poly Haven, James Ray Cock) (render del modelo)",
+    "para_que": "Barril del concepto C.",
+    "licencia": "CC0 (dominio público; sin crédito obligatorio). Modelo .blend y glTF hasta 4K u 8K."
+  },
+  {
+    "url": "https://archive.org/details/one-piece-0001-1000-1999-horrible-subs",
+    "fuente": "Internet Archive, lote HorribleSubs (episodio 53 dentro del lote, minuto 22:10-22:55)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Copia de fans (fansub en inglés) del episodio 53, con el juramento del barril en Loguetown bajo la lluvia",
+    "para_que": "Escena icónica en movimiento con minuto exacto (punto 2); pose de Zoro con los brazos cruzados a las 22:20 (punto 14)",
+    "licencia": "Copia no oficial subida por fans a Internet Archive; sólo como referencia de encuadre y minuto, no para redistribuir"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/87/Straw_Hat_Pirates%27_Jolly_Roger.png",
+    "fuente": "One Piece Wiki (página Jolly Roger / Straw Hat Pirates)",
+    "ancho": 1432,
+    "alto": 1029,
+    "que_es": "El Jolly Roger oficial de los Sombrero de Paja: calavera con el sombrero de Luffy y dos tibias cruzadas",
+    "para_que": "Punto 25: el emblema más reconocible de la serie, para cualquiera de los tres conceptos de lámina",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/75/One_Piece_Logo.png",
+    "fuente": "One Piece Wiki, «One Piece Logo.png» (logo del manga)",
+    "ancho": 1600,
+    "alto": 548,
+    "que_es": "Logo ONE PIECE del manga: letras planas tipo cel con la calavera integrada en la O, línea marino oscuro #151924",
+    "para_que": "Rótulo del canal en blanco y negro o a un color; distinto del logo degradado del anime (biblia §6)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8njo84?start=162",
+    "fuente": "Dailymotion · 3DJuegos México (tráiler oficial de Netflix, doblado al latino)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler de la serie con actores, 2:42-2:45: pared cubierta de carteles rotos y superpuestos (WANTED, DEAD OR ALIVE).",
+    "para_que": "Luz y textura reales del muro de carteles (concepto A).",
+    "licencia": "© Netflix. Sólo referencia."
   },
   {
     "url": "https://raw.githubusercontent.com/optc-db/optc-db.github.io/master/api/images/full/transparent/4/100/4186.png",
@@ -99,24 +459,6 @@
     "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
   },
   {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Luffy_eyecatcher_poster.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja personajes_01 n.º P6",
-    "ancho": 704,
-    "alto": 528,
-    "que_es": "Eyecatcher del anime: Luffy dentro de un marco WANTED inclinado, con el logo.",
-    "para_que": "Prueba oficial de «personaje dentro del cartel» (concepto A).",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/2/26/Nami_eyecatcher_poster.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja personajes_01 n.º P9",
-    "ancho": 704,
-    "alto": 528,
-    "que_es": "Eyecatcher: Nami guiña, saca la lengua y hace «OK» dentro de un cartel.",
-    "para_que": "Explicar con gracia (concepto B).",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
     "url": "https://static.wikia.nocookie.net/onepiece/images/3/38/Zoro_color_walk.png",
     "fuente": "One Piece Wiki (Fandom) · hoja personajes_01 n.º P13",
     "ancho": 2036,
@@ -151,33 +493,6 @@
     "que_es": "Chopper con la boca abierta de alegría, manga a color.",
     "para_que": "Presentarse con ilusión.",
     "licencia": "© Eiichiro Oda / Shueisha. Arte del manga alojado en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Fullbody%27s_Wanted_Posters.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O1",
-    "ancho": 963,
-    "alto": 500,
-    "que_es": "Muro de tablones con carteles de SE BUSCA clavados (ep. 45, Fullbody).",
-    "para_que": "Base del concepto A: carteles clavados en madera, vistos en el anime.",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Luffy%27s_Wanted_Poster_with_Spanish_Text.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O2",
-    "ancho": 643,
-    "alto": 577,
-    "que_es": "Cartel «SE BUSCA / vivo o muerto / MONKEY·D·LUFFY» de la emisión de España (ep. 45).",
-    "para_que": "Modelo para rotular el cartel en español.",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Luffy_Wanted_Poster.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O3",
-    "ancho": 744,
-    "alto": 1074,
-    "que_es": "Cartel clásico de Luffy: WANTED, foto, DEAD OR ALIVE, nombre, berries y MARINE.",
-    "para_que": "Maqueta del cartel: proporción 1:1,45 y partes.",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
   },
   {
     "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sanji%27s_Wanted_Poster.png",
@@ -231,15 +546,6 @@
     "alto": 667,
     "que_es": "Log Pose de tres agujas del Nuevo Mundo.",
     "para_que": "Objeto delante de la carta (concepto B).",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Straw_Hats%27_Vow.png",
-    "fuente": "One Piece Wiki (Fandom) · hoja objetos_01 n.º O23",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "El juramento del barril visto desde arriba: pies sobre la tapa, madera mojada (ep. 53).",
-    "para_que": "Concepto C: el barril.",
     "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Captura del anime alojada en One Piece Wiki (Fandom). Sólo referencia."
   },
   {
@@ -306,24 +612,6 @@
     "licencia": "© Eiichiro Oda / Shueisha. Arte del manga alojado en One Piece Wiki (Fandom). Sólo referencia."
   },
   {
-    "url": "https://www.youtube.com/watch?v=YoeP9w5UIlg&t=64",
-    "fuente": "YouTube · ONE PIECE Official - ENG (opening 1 «We Are!», oficial de Toei); mirado por sus storyboards",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Opening 1 oficial, 1:04-1:11 (±2 s): carta náutica a la acuarela con el Going Merry dibujado y «Straw Hat Pirates» escrito a pluma; 0:41-0:46, el logo sobre la carta. Tamaño del vídeo medido con yt-dlp.",
-    "para_que": "Modelo del concepto B: texto escrito sobre la carta. La paleta de la carta se midió en la copia de Dailymotion (x2gldv, 0:48).",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Sólo referencia."
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x8njo84?start=162",
-    "fuente": "Dailymotion · 3DJuegos México (tráiler oficial de Netflix, doblado al latino)",
-    "ancho": 512,
-    "alto": 288,
-    "que_es": "Tráiler de la serie con actores, 2:42-2:45: pared cubierta de carteles rotos y superpuestos (WANTED, DEAD OR ALIVE).",
-    "para_que": "Luz y textura reales del muro de carteles (concepto A).",
-    "licencia": "© Netflix. Sólo referencia."
-  },
-  {
     "url": "https://www.dailymotion.com/video/x61uaq4?start=120",
     "fuente": "Dailymotion · umairbasit (clip del ep. 130 con subtítulos en inglés)",
     "ancho": 512,
@@ -333,30 +621,2487 @@
     "licencia": "© Eiichiro Oda / Shueisha, Toei Animation. Sólo referencia."
   },
   {
-    "url": "https://www.youtube.com/watch?v=M-jKhyF1q20&t=68",
-    "fuente": "YouTube · Crunchyroll en Español (clip oficial doblado al latino, ep. 37)",
-    "ancho": 640,
-    "alto": 360,
-    "que_es": "«Luffy… ayúdame» en latino: Nami con el sombrero de paja puesto; etiqueta «LATINO» en la miniatura.",
-    "para_que": "Frases textuales del doblaje latino con minuto (§10.1) y la escena más querida.",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation; clip de Crunchyroll. Sólo referencia."
+    "url": "https://one-piece.com/o/assets/images/anime/character/data/robin/img.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 863,
+    "que_es": "P30 · Robin oficial de cuerpo entero",
+    "para_que": "Secundaria querida; la «recién llegada»",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
   },
   {
-    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_ecd6e4103c470b4b7878f0902ce91bf9743a458c.1920x1080.jpg",
-    "fuente": "Steam · One Piece Odyssey (captura oficial n.º 7)",
+    "url": "https://one-piece.com/img/character/luffy/luffy_05.jpg",
+    "fuente": "one-piece.com (ficha de Luffy)",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "P32 · Luffy en un bote con los brazos al cielo",
+    "para_que": "Pose de «¡zarpamos!»",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chapter_1000_Countdown_1_Luffy.png",
+    "fuente": "One Piece Wiki + @Eiichiro_Staff (dic-2020)",
+    "ancho": 1601,
+    "alto": 900,
+    "que_es": "P33 · Cartón de cuenta atrás #ONEPIECE1000LOGS: viñeta + fondo #FF321D + número",
+    "para_que": "Modelo de cartel con color propio de cada personaje",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Chapter_1000_Countdown_2_Zoro.png",
+    "fuente": "One Piece Wiki + @Eiichiro_Staff (dic-2020)",
+    "ancho": 1601,
+    "alto": 900,
+    "que_es": "P34 · Cartón de cuenta atrás #ONEPIECE1000LOGS: viñeta + fondo #A8BB7E + número",
+    "para_que": "Modelo de cartel con color propio de cada personaje",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Chapter_1000_Countdown_3_Nami.png",
+    "fuente": "One Piece Wiki + @Eiichiro_Staff (dic-2020)",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "P35 · Cartón de cuenta atrás #ONEPIECE1000LOGS: viñeta + fondo #FFA001 + número",
+    "para_que": "Modelo de cartel con color propio de cada personaje",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Chapter_1000_Countdown_5_Sanji.png",
+    "fuente": "One Piece Wiki + @Eiichiro_Staff (dic-2020)",
+    "ancho": 1601,
+    "alto": 900,
+    "que_es": "P36 · Cartón de cuenta atrás #ONEPIECE1000LOGS: viñeta + fondo #2269E5 + número",
+    "para_que": "Modelo de cartel con color propio de cada personaje",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Chapter_1000_Countdown_6_Chopper.png",
+    "fuente": "One Piece Wiki + @Eiichiro_Staff (dic-2020)",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "P37 · Cartón de cuenta atrás #ONEPIECE1000LOGS: viñeta + fondo #FE9FAA + número",
+    "para_que": "Modelo de cartel con color propio de cada personaje",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Film_Red_Luffy_Poster.png",
+    "fuente": "One Piece Wiki (@OP_FILMRED)",
+    "ancho": 1446,
+    "alto": 2048,
+    "que_es": "P38 · Cartel de Film Red: cuerpo entero sobre su color, frase vertical",
+    "para_que": "Pose de cuerpo entero y color propio",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Film_Red_Nami_Poster.png",
+    "fuente": "One Piece Wiki (@OP_FILMRED)",
+    "ancho": 1554,
+    "alto": 2186,
+    "que_es": "P39 · Cartel de Film Red: cuerpo entero sobre su color, frase vertical",
+    "para_que": "Pose de cuerpo entero y color propio",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Film_Red_Chopper_Poster.png",
+    "fuente": "One Piece Wiki (@OP_FILMRED)",
+    "ancho": 2427,
+    "alto": 3436,
+    "que_es": "P40 · Cartel de Film Red: cuerpo entero sobre su color, frase vertical",
+    "para_que": "Pose de cuerpo entero y color propio",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Film_Red_Zoro_Poster.png",
+    "fuente": "One Piece Wiki (@OP_FILMRED)",
+    "ancho": 2912,
+    "alto": 4096,
+    "que_es": "P41 · Cartel de Film Red: cuerpo entero sobre su color, frase vertical",
+    "para_que": "Pose de cuerpo entero y color propio",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Film_Red_Sanji_Poster.png",
+    "fuente": "One Piece Wiki (@OP_FILMRED)",
+    "ancho": 1704,
+    "alto": 2413,
+    "que_es": "P42 · Cartel de Film Red: cuerpo entero sobre su color, frase vertical",
+    "para_que": "Pose de cuerpo entero y color propio",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cb/Chapters_999-1000_Full_Color_Spread.png",
+    "fuente": "One Piece Wiki",
+    "ancho": 2485,
+    "alto": 1851,
+    "que_es": "P44 · Color spread cap. 999-1000: los diez sobre el tesoro",
+    "para_que": "Grupo en acción, celebrar",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Volume_100.png",
+    "fuente": "One Piece Wiki",
+    "ancho": 2038,
+    "alto": 3240,
+    "que_es": "P47 · Portada del tomo 100",
+    "para_que": "Luffy sonriendo, arte de Oda",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://pbs.twimg.com/media/GfgW4qzXQAAm4c5.jpg?name=orig",
+    "fuente": "X @ToeiAnimation (23-dic-2024) + wiki",
+    "ancho": 2895,
+    "alto": 4096,
+    "que_es": "P48 · Key visual de Egghead 2.ª parte",
+    "para_que": "Mano de Luffy hacia la cámara; trajes de Egghead",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Elbaph_Arc.png",
+    "fuente": "One Piece Wiki (tomo 111)",
+    "ancho": 1536,
+    "alto": 1925,
+    "que_es": "P49 · Portada del tomo 111: Luffy con hacha y los seis primeros corriendo",
+    "para_que": "Grupo en acción, arco actual",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://pbs.twimg.com/media/G4WaE6kWsAA7m5x.jpg?name=orig",
+    "fuente": "X @ToeiAnimation (28-oct-2025)",
+    "ancho": 1457,
+    "alto": 2064,
+    "que_es": "Visual del anime de Elbaph: Luffy diminuto en la nieve con casco vikingo",
+    "para_que": "Fondo nevado minimalista; arco actual del anime",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Luffy_Film_Red_Festival_Concept_Art.png",
+    "fuente": "onepiece-film.jp vía wiki",
+    "ancho": 1200,
+    "alto": 900,
+    "que_es": "P50 · Hoja de modelo de Luffy (Film Red, festival): frente, perfil, espalda",
+    "para_que": "Settei para dibujar o modelar en Blender",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Nami_Film_Red_Festival_Concept_Art.png",
+    "fuente": "onepiece-film.jp vía wiki",
+    "ancho": 1200,
+    "alto": 900,
+    "que_es": "P51 · Hoja de modelo de Nami (Film Red)",
+    "para_que": "Settei",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/library_600x900_2x.jpg",
+    "fuente": "Steam (API appdetails)",
+    "ancho": 600,
+    "alto": 900,
+    "que_es": "P52 · Portada de One Piece Odyssey",
+    "para_que": "Arte de videojuego",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/library_600x900_2x.jpg",
+    "fuente": "Steam",
+    "ancho": 600,
+    "alto": 900,
+    "que_es": "P53 · Portada de Pirate Warriors 4",
+    "para_que": "Arte de videojuego",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://one-piece.com/img/character/nami/nami_09.jpg",
+    "fuente": "one-piece.com",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "P54 · Nami enseña el tatuaje del hombro",
+    "para_que": "Detalle fijo del vestuario",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Monkey_D._Luffy_Anime_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 843,
+    "alto": 1080,
+    "que_es": "V1 · Luffy antes del salto (anime): chaleco rojo y pantalón corto azul",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Luffy%27s_First_Outfit_in_Wano_Country_Arc.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 245,
+    "alto": 410,
+    "que_es": "V3 · Luffy «Luffytaro» (Wano): kimono rojo con parches azules",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Luffy_Egghead_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 295,
+    "alto": 890,
+    "que_es": "V4 · Luffy, abrigo SSG (Egghead): abrigo largo rojo con franjas amarillas y logo SSG",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Luffy_Elbaph_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 452,
+    "alto": 746,
+    "que_es": "V5 · Luffy vikingo (Elbaph): capa de piel roja y casco vikingo",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/74/Luffy_First_Film_Red_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 434,
+    "alto": 1172,
+    "que_es": "V6 · Luffy, Film Red: camiseta roja y chaleco con altavoces",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Zoro%27s_Common_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 211,
+    "alto": 605,
+    "que_es": "V7 · Zoro antes del salto: camiseta blanca, haramaki verde",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/01/Zoro%27s_Third_Wano_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 493,
+    "alto": 958,
+    "que_es": "V8 · Zoro, kimono negro (Wano): kimono negro y faja roja",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/08/Zoro%27s_2nd_Wano_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 250,
+    "alto": 445,
+    "que_es": "V9 · Zoro «Zorojuro» (Wano): kimono blanco y capa verde",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Zoro_Egghead_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 404,
+    "alto": 821,
+    "que_es": "V10 · Zoro, chaqueta (Egghead): chaqueta azul acero",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/36/Zoro_Elbaph_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 398,
+    "alto": 665,
+    "que_es": "V11 · Zoro vikingo (Elbaph): capa de piel verde",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Zoro_First_Film_Red_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 409,
+    "alto": 1301,
+    "que_es": "V12 · Zoro, Film Red: camiseta blanca y vaquero roto",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Nami_Anime_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 403,
+    "alto": 957,
+    "que_es": "V13 · Nami antes del salto: camiseta blanca con franjas azules y falda naranja",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Nami%27s_Initial_Post_Timeskip_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 990,
+    "alto": 1431,
+    "que_es": "V14 · Nami tras el salto: bikini verde y vaquero",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Nami_Wano_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 1366,
+    "alto": 1873,
+    "que_es": "V15 · Nami «O-Nami» (Wano): kimono corto celeste y coleta",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Nami_Egghead_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 990,
+    "alto": 2102,
+    "que_es": "V16 · Nami, traje SSG (Egghead): traje blanco SSG",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Nami_Elbaph_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 243,
+    "alto": 742,
+    "que_es": "V17 · Nami vikinga (Elbaph): chaleco de piel amarilla y trenza",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Nami_First_Film_Red_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 337,
+    "alto": 1148,
+    "que_es": "V18 · Nami, Film Red: top coral y falda escocesa",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Sanji_Anime_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 380,
+    "alto": 1038,
+    "que_es": "V19 · Sanji antes del salto: traje negro, camisa azul, corbata celeste",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/65/Sanji%27s_Initial_Outfit_Post_Timeskip.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 397,
+    "alto": 654,
+    "que_es": "V20 · Sanji tras el salto: traje azul marino y camisa amarilla",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/22/Sanji_First_Wano_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 175,
+    "alto": 405,
+    "que_es": "V21 · Sanji (Wano): chaqueta gris",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Sanji_Egghead_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 257,
+    "alto": 790,
+    "que_es": "V22 · Sanji, camisa (Egghead): camisa hawaiana naranja",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Sanji_Elbaph_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 494,
+    "alto": 979,
+    "que_es": "V23 · Sanji vikingo (Elbaph): capa azul y cota gris",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Sanji_First_Film_Red_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 341,
+    "alto": 1213,
+    "que_es": "V24 · Sanji, Film Red: chaqueta amarilla",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 544,
+    "alto": 697,
+    "que_es": "V25 · Chopper tras el salto: sombrero rosa sobre gorro azul, camiseta de rayas",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Chopper_First_Wano_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 595,
+    "alto": 620,
+    "que_es": "V26 · Chopper (Wano): camiseta WATAAME",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chopper_Egghead_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 560,
+    "alto": 737,
+    "que_es": "V27 · Chopper, traje SSG (Egghead): mono azul SSG y gafas",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Chopper_Elbaph_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 658,
+    "alto": 901,
+    "que_es": "V28 · Chopper vikingo (Elbaph): casco vikingo y capa blanca",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Chopper_First_Film_Red_Outfit.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 515,
+    "alto": 693,
+    "que_es": "V29 · Chopper, Film Red: sombrero de lunares",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/39/Chopper%27s_outfit_post-wano.png",
+    "fuente": "One Piece Wiki (galería del personaje)",
+    "ancho": 1374,
+    "alto": 1028,
+    "que_es": "V30 · Chopper tras Wano: ropa tras Wano",
+    "para_que": "Vestuario por arco con hex medidos (partes/arte.md §15)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1c/Sanji_Meets_Nami.png/revision/latest?cb=20250507025821",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Sanji_Meets_Nami.png",
+    "ancho": 704,
+    "alto": 528,
+    "que_es": "Ep. 21 (Baratie): Sanji, de traje negro, le ofrece una flor a Nami con los ojos cerrados, de medio lado.",
+    "para_que": "SALUDAR a una recién llegada: el Sanji galante. Para el texto «¡Bienvenida!» si la lámina lo usa.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/92/That_Doesn%27t_Make_Me_Happy.png/revision/latest?cb=20240720172138",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:That_Doesn't_Make_Me_Happy.png",
+    "ancho": 195,
+    "alto": 264,
+    "que_es": "Ep. 84: Chopper hace su baile de «¡No me alegra!»: ojos cerrados, boca muy abierta, brazos fuera.",
+    "para_que": "CELEBRAR con humor / reacción al elogio. Pequeña (195×264): sólo para pose.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Luffy%2C_Usopp_and_Chopper_playing_in_the_grass.png/revision/latest?cb=20221127223619",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Luffy,_Usopp_and_Chopper_playing_in_the_grass.png",
     "ancho": 1920,
     "alto": 1080,
-    "que_es": "Caja de diálogo del juego: banda translúcida verde azulado, pestaña turquesa con el nombre y busto encima.",
-    "para_que": "Caja para textos largos de la lámina 2.",
-    "licencia": "© Eiichiro Oda / Shueisha, Toei Animation, Bandai Namco. Sólo referencia."
+    "que_es": "Ep. 207: Luffy, Usopp y Chopper tirados en la hierba, riendo y jugando.",
+    "para_que": "LA SALA (#general): el trío de las travesuras pasándolo bien.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
   },
   {
-    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/weathered_planks/weathered_planks_diff_2k.jpg",
-    "fuente": "Poly Haven · weathered_planks (foto de Dimitrios Savva, procesado de Dario Barresi)",
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Usopp_Tells_Kaya_His_Stories.png/revision/latest?cb=20230910033404",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Usopp_Tells_Kaya_His_Stories.png",
+    "ancho": 785,
+    "alto": 628,
+    "que_es": "Ep. 220 (y ep. 11): Usopp, sentado bajo la ventana de Kaya, cuenta una historia con los brazos abiertos.",
+    "para_que": "EXPLICAR contando: Usopp de cuentista (el paso «Canales y roles» o la lámina 2).",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Robin_Laughing.png/revision/latest?cb=20231205145353",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Robin_Laughing.png",
+    "ancho": 728,
+    "alto": 944,
+    "que_es": "Ep. 572: Robin ríe tranquila con los ojos cerrados y la mano junto a la boca.",
+    "para_que": "REÍR/aprobar con calma: la risa «Fufufu» de Robin.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Jinbe_coment_on_Luffy_Dream.png/revision/latest?cb=20240812222028",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Jinbe_coment_on_Luffy_Dream.png",
+    "ancho": 1440,
+    "alto": 1080,
+    "que_es": "Ep. 1089 (cap. 1060): Jinbe se ríe a carcajadas, con lágrimas, tras oír el sueño de Luffy.",
+    "para_que": "REÍR / aceptar al capitán: Jinbe, el último en entrar.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Nami_Extorts_Zoro.png/revision/latest?cb=20230417164556",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Nami_Extorts_Zoro.png",
+    "ancho": 704,
+    "alto": 528,
+    "que_es": "Ep. 66: Nami señala a Zoro y le reclama la deuda; Zoro aprieta los dientes.",
+    "para_que": "REGAÑAR/cobrar en broma: Nami como la que pone orden (reglas).",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Usopp_Apologizes.png/revision/latest?cb=20230604131248",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Usopp_Apologizes.png",
+    "ancho": 1161,
+    "alto": 629,
+    "que_es": "Ep. 323: Usopp de rodillas, con la cabeza en el suelo, pide perdón para volver; mar y barco al fondo.",
+    "para_que": "REGLAS: «para volver, se pide perdón» (la disciplina de Zoro). Lámina 2 o texto de #reglas.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Zoro_Discusses_Usopp%27s_Membership_with_Luffy.png/revision/latest?cb=20230701034520",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Zoro_Discusses_Usopp's_Membership_with_Luffy.png",
+    "ancho": 1919,
+    "alto": 1026,
+    "que_es": "Ep. 323: Zoro, serio y apoyado junto a la escalera, habla con Luffy de si Usopp puede volver.",
+    "para_que": "REGLAS en serio: Zoro como la voz de las normas.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/21/Emotional_Franky.png/revision/latest?cb=20251105203851",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Emotional_Franky.png",
+    "ancho": 1440,
+    "alto": 1080,
+    "que_es": "Ep. 322: Franky llora a mares con las gafas de sol puestas y camisa hawaiana.",
+    "para_que": "EMOCIONARSE (y negarlo): gag de Franky.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Luffy_Impressed_by_Franky.png/revision/latest?cb=20230808221729",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Luffy_Impressed_by_Franky.png",
+    "ancho": 1388,
+    "alto": 1054,
+    "que_es": "Ep. 522: Luffy con los ojos brillantes mirando a Franky, que presume de su nuevo cuerpo (hombros «BF-37»).",
+    "para_que": "ASOMBRO: la cara de Luffy al ver algo «SUPER».",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Straw_Hats_Goof_Off_at_Reunion.png/revision/latest?cb=20230513030348",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Straw_Hats_Goof_Off_at_Reunion.png",
+    "ancho": 1604,
+    "alto": 1080,
+    "que_es": "Ep. 520: Robin, barbilla en la mano, sonríe mientras Franky y otros hacen el tonto detrás, en el Sabaody.",
+    "para_que": "RELAJADO / la sala: ambiente de reencuentro.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Nami_Slaps_Sanji.png/revision/latest?cb=20231022141444",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Nami_Slaps_Sanji.png",
+    "ancho": 1914,
+    "alto": 1080,
+    "que_es": "Ep. 808 (cap. 844): Nami, furiosa, abofetea a Sanji.",
+    "para_que": "REGAÑAR fuerte (no para bienvenidas; referencia de enfado de Nami).",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Brook_and_Luffy_Demanding_Dinner.png/revision/latest?cb=20191015163411",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Brook_and_Luffy_Demanding_Dinner.png",
+    "ancho": 1210,
+    "alto": 768,
+    "que_es": "Ep. 338: Luffy y Brook, cuchillo y tenedor en mano, gritan pidiendo la cena.",
+    "para_que": "COMER/celebrar: la risa del banquete; Brook tan tragón como Luffy.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/92/Jinbe_Very_Surprised.png/revision/latest?cb=20240812222338",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Jinbe_Very_Surprised.png",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Jinbe con cara de sorpresa exagerada (ojos saltones, boca enorme).",
+    "para_que": "HUMOR: la cara de Jinbe cuando pierde la calma.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Usopp-Sogeking.png/revision/latest?cb=20220822025346",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Usopp-Sogeking.png",
+    "ancho": 1170,
+    "alto": 1079,
+    "que_es": "Media cara de Usopp y media de Sogeking, con la máscara.",
+    "para_que": "DOS VOCES: Usopp y su «otro yo» (la voz baja y lenta medida con voz.py).",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Zoro_and_Sanji.png/revision/latest?cb=20230701035145",
+    "fuente": "One Piece Wiki (API, imageinfo) · https://onepiece.fandom.com/wiki/File:Zoro_and_Sanji.png",
+    "ancho": 578,
+    "alto": 446,
+    "que_es": "Zoro y Sanji se miran con chispas entre ellos.",
+    "para_que": "RIVALIDAD: el chiste de «nunca por su nombre» / «cabeza de epazote».",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia de pose y gesto, no pegar."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Ussop_2.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Usopp (Alejandro Orozco), 31 s: «Yo soy Usopp, el líder de un gran barco pirata que gobierna el Mar del Este… Me llaman el gran y máximo Capitán Usopp.» voz.py: 194 Hz, 25 st, 3,0 p/s.",
+    "para_que": "Presentarse a lo grande (humor).",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Sogeking.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sogeking (Orozco): «Déjenme ir con ustedes, mi nombre es… ¡Sogeking!» voz.py: 128 Hz y 2,1 p/s (baja la voz y va lento).",
+    "para_que": "El gag de la voz disfrazada, medido.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Nico_Robin_1.1.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Robin (Kerygma Flores): «Yo soy Nico Robin. Soy arqueóloga.» · «Sí, consumí la fruta Flor Flor.» voz.py: 171 Hz, 14 st, 3,0 p/s.",
+    "para_que": "Presentarse con calma; vocabulario latino («Flor Flor»).",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Franky_1.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Franky (Manuel Campuzano): «¡Soy el más genial aquí!» voz.py: 125 Hz, 19 st, 2,3 p/s.",
+    "para_que": "Presentarse presumiendo.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Zoro_1.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Zoro (Dafnis Fernández): «Soy Zoro Roronoa…» voz.py: 116 Hz, 14 st (la voz más plana).",
+    "para_que": "Presentarse seco; tono de las reglas.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Archivo:Nami_.mp3",
+    "fuente": "Doblaje Wiki, muestra de audio (API) · https://doblaje.fandom.com/es/wiki/One_Piece",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nami (Gina Sánchez): «Mi nombre es Nami. Oye, ¿no quieres unirte a mí?» voz.py: 410 Hz (la más aguda).",
+    "para_que": "Invitar/explicar con carácter.",
+    "licencia": "Muestra del doblaje latino (© Toei Animation / estudio de doblaje) alojada en Doblaje Wiki. Sólo referencia de voz."
+  },
+  {
+    "url": "https://i.redd.it/e1oh6oo7rt2c1.png",
+    "fuente": "Reddit (RogersBase, 5.ª encuesta anual, nov-2023)",
+    "ancho": 1081,
+    "alto": 751,
+    "que_es": "Top 10 de una encuesta de fans estadounidense: Luffy, Zoro, Nami, Sanji, Robin, Law, Shanks, Usopp, Buggy, Garp.",
+    "para_que": "Contraste de popularidad no oficial (punto 7).",
+    "licencia": "Imagen de un youtuber; sólo dato, no reutilizar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251127120726",
+    "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Tashigi",
+    "ancho": 1210,
+    "alto": 1851,
+    "que_es": "Retrato oficial de Tashigi, la capitana de la Marina cuya voz latina (Ivett Toriz, temp. 9ª) dice textualmente «Los carteles de Se Busca acaban de llegar» (partes/voz.md, §8). Tres actrices latinas confirmadas para el personaje.",
+    "para_que": "Ilustra de quién es la voz que confirma «SE BUSCA» en el doblaje latino, clave para el objeto del encargo (carteles de SE BUSCA). No estaba en personajes.json.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128044952",
+    "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Marshall_D._Teach",
+    "ancho": 1920,
+    "alto": 2185,
+    "que_es": "Retrato oficial de Marshall D. Teach «Barbanegra». Este repaso confirmó sus dos voces latinas (Rubén Trujillo → Carlos Segundo desde Marineford), que no estaban en partes/doblaje.md.",
+    "para_que": "Villano importante sin ninguna imagen ni dato de doblaje antes de este repaso; sirve si una lámina o texto del bot lo menciona.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest?cb=20230125235528",
+    "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Crocodile",
+    "ancho": 1635,
+    "alto": 2055,
+    "que_es": "Retrato oficial de Sir Crocodile / Sr. 0, villano de Alabasta. Su voz latina (Sebastián Llapur) se midió en este repaso con la muestra Crocodile-OP.mp3 (partes/voz.md, segunda pasada): 113 Hz, grave, muy expresivo (27,7 semitonos).",
+    "para_que": "Da cara al villano cuya voz se midió por primera vez con voz.py en esta parte; no estaba en personajes.json ni en imagen.json.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190505023647",
+    "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Nefertari_Vivi",
+    "ancho": 736,
+    "alto": 2016,
+    "que_es": "Retrato oficial de Nefertari Vivi. Este repaso midió dos muestras suyas (niña y adulta) y confirmó con segunda fuente que Lourdes Arruti dobla ambas edades (partes/voz.md, segunda pasada).",
+    "para_que": "No estaba en personajes.json; ilustra a la actriz cuya frase «¿por qué tienen que morir?» se cita como hallazgo para lámina.",
+    "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Straw_Hats_Arrive_in_the_New_World.png",
+    "fuente": "One Piece Wiki, «Straw Hats Arrive in the New World.png» (usada en Punk Hazard Arc y Thousand Sunny)",
+    "ancho": 1520,
+    "alto": 1200,
+    "que_es": "Doble plana del manga en blanco y negro: la más entramada medida (16,7% de línea, estilo.py), con tramado cruzado, líneas de velocidad y trama de puntos en degradado",
+    "para_que": "Referencia real de trama de manga (punto 19): cómo se dibuja el tramado cruzado y el halftone en One Piece",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Roronoa_Zoro_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Roronoa Zoro Manga Pre Timeskip Infobox.png»",
+    "ancho": 1095,
+    "alto": 1348,
+    "que_es": "Retrato de Zoro en página de manga a color: mucha línea (14%, estilo.py) y casi sin zonas planas (4%), casi todo degradado/textura",
+    "para_que": "Referencia de cuánta línea y sombreado lleva Zoro frente a Luffy (punto 19, comparación de estilo por personaje)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia"
+  },
+  {
+    "url": "https://freesvg.org/seigaiha-blue",
+    "fuente": "freesvg.org, «seigaiha blue» (licencia CC0 confirmada en la etiqueta <meta license> de la página)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Patrón japonés tradicional de olas (seigaiha) en SVG, escalable sin pérdida de nitidez",
+    "para_que": "Textura de relleno libre para el obi o forro de un kimono de Wano (punto 19), en vez de un patrón inventado por IA",
+    "licencia": "CC0 (dominio público), confirmado por curl al meta tag de licencia de la página"
+  },
+  {
+    "url": "https://freesvg.org/japanese-pattern",
+    "fuente": "freesvg.org, «Japanese pattern» (CC0)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Patrón geométrico japonés genérico en SVG",
+    "para_que": "Alternativa de textura de tela libre para vestuario de Wano (punto 19)",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=1944085",
+    "fuente": "Clip Studio Assets, «halftone shading pack» de jaqdawks",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Paquete de pinceles de trama de medios tonos para Clip Studio Paint",
+    "para_que": "Pincel libre equivalente a la trama de puntos del manga (punto 19)",
+    "licencia": "Gratis, «material de licencia limitada» de Clip Studio Assets (se reclama una vez, uso dentro de la app)"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2087033",
+    "fuente": "Clip Studio Assets, «Essential Screentone Brushes» de barev",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pinceles de tramas, medios tonos y puntos para manga",
+    "para_que": "Pincel libre equivalente a la trama de puntos del manga (punto 19)",
+    "licencia": "Gratis, «material de licencia limitada» de Clip Studio Assets"
+  },
+  {
+    "url": "https://onepiece.fandom.com/wiki/SpongeBob_SquarePants_x_One_Piece",
+    "fuente": "One Piece Wiki, «SpongeBob SquarePants x One Piece»",
+    "ancho": 688,
+    "alto": 1080,
+    "que_es": "Colaboración McDonald's x SpongeBob x One Piece (Happy Meal, ago-sep 2026): 15 juguetes, SpongeBob vestido de Luffy",
+    "para_que": "Colaboración reciente (punto 23), útil para el bot o una lámina 2 sobre novedades",
+    "licencia": "© Nickelodeon / Eiichiro Oda-Shueisha-Toei / McDonald's · uso de referencia"
+  },
+  {
+    "url": "https://onepiece.fandom.com/wiki/Cross_Epoch",
+    "fuente": "One Piece Wiki, «Cross Epoch»",
+    "ancho": 1000,
+    "alto": 723,
+    "que_es": "One-shot crossover de Eiichiro Oda y Akira Toriyama (One Piece x Dragon Ball), Weekly Shonen Jump, 25-dic-2006",
+    "para_que": "Cruce oficial de manga con otra franquicia de Shonen Jump (punto 23)",
+    "licencia": "© Eiichiro Oda/Akira Toriyama/Shueisha · uso de referencia"
+  },
+  {
+    "url": "https://onepiece.fandom.com/wiki/Dragon_Ball_Z_x_One_Piece:_Battle_Experience",
+    "fuente": "One Piece Wiki, «Dragon Ball Z x One Piece: Battle Experience»",
+    "ancho": 963,
+    "alto": 750,
+    "que_es": "Juguete-consola «Let's! TV Play» de Bandai (2008), por el 40 aniversario de Weekly Shonen Jump",
+    "para_que": "Colaboración de producto físico entre franquicias (punto 23)",
+    "licencia": "© Bandai/Shueisha/Toei · uso de referencia"
+  },
+  {
+    "url": "https://onepiece.fandom.com/wiki/J-WORLD_Tokyo",
+    "fuente": "One Piece Wiki, «J-WORLD Tokyo»",
+    "ancho": 473,
+    "alto": 166,
+    "que_es": "Logo del parque temático techado de Weekly Shonen Jump en Sunshine City, Ikebukuro (2013-2019, cerrado)",
+    "para_que": "Evento/parque temático oficial cerrado (punto 23)",
+    "licencia": "© Shueisha/Toei · uso de referencia"
+  },
+  {
+    "url": "https://charagoo.jp/wp-content/uploads/2026/06/onepiece-news-20260630.jpg",
+    "fuente": "charagoo.jp, resumen de colaboraciones de One Piece de junio de 2026",
+    "ancho": 1160,
+    "alto": 580,
+    "que_es": "Collage con las colaboraciones y campañas de merchandising activas de One Piece en junio de 2026",
+    "para_que": "Panorama de qué colaboraciones están vigentes ahora mismo (punto 23), en japonés",
+    "licencia": "© del sitio charagoo.jp y de cada marca representada · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://en.jp.bape.com/collections/one-piece",
+    "fuente": "BAPE (A Bathing Ape), tienda oficial, colección One Piece",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Colección de camisetas BAPE x One Piece, lanzada el 6 de mayo de 2017 y aún a la venta",
+    "para_que": "Colaboración de moda de calle con la serie (punto 23)",
+    "licencia": "© A Bathing Ape / Eiichiro Oda-Shueisha · página comercial, sólo referencia"
+  },
+  {
+    "url": "https://www.uniqlo.com/es/es/spl/ut/one-piece",
+    "fuente": "Uniqlo España, colección UT One Piece (25.º aniversario del anime)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Colección de camisetas Uniqlo UT x One Piece, con diseños por arco (Egghead, Elbaph, Archive)",
+    "para_que": "Colaboración de moda en tiendas físicas de Latinoamérica/España (punto 23)",
+    "licencia": "© Uniqlo / Eiichiro Oda-Shueisha-Toei · página comercial, sólo referencia"
+  },
+  {
+    "url": "https://www.usj.co.jp/company/company_e/news/2025/pdf/0402_e.pdf",
+    "fuente": "Universal Studios Japan, comunicado oficial «ONE PIECE PREMIER SUMMER 2025»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Evento anual de verano en USJ con el «One Piece Premier Show» (desde 2007) y el «One Piece x Story Ride» ambientado en Elbaf",
+    "para_que": "Evento oficial recurrente con escenografía de la serie (punto 23)",
+    "licencia": "© Universal Studios Japan / Toei · comunicado de prensa, sólo referencia"
+  },
+  {
+    "url": "https://otakumode.com/news/57e1e402a2e5a47e0a87b5a0/Cafe-Mugiwara-Photo-Report",
+    "fuente": "Tokyo Otaku Mode, reportaje fotográfico de Cafe Mugiwara",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Café biblioteca oficial de One Piece en la Tokyo Tower, junto a la tienda Mugiwara Store (cerrado en 2026)",
+    "para_que": "Café temático oficial (punto 23)",
+    "licencia": "© del reportaje y de la franquicia · uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Nami_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Nami Manga Pre Timeskip Infobox.png»",
+    "ancho": 1037,
+    "alto": 1200,
+    "que_es": "Retrato de Nami en página de manga a color, pre-salto temporal",
+    "para_que": "Referencia de línea y color del manga por personaje (punto 19)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Tony_Tony_Chopper_Manga_Pre_Timeskip_Infobox.png",
+    "fuente": "One Piece Wiki, «Tony Tony Chopper Manga Pre Timeskip Infobox.png»",
+    "ancho": 1158,
+    "alto": 1300,
+    "que_es": "Retrato de Chopper en página de manga a color, pre-salto temporal",
+    "para_que": "Referencia de línea y color del manga por personaje (punto 19)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/72/wallhaven-72lej9.png",
+    "fuente": "Wallhaven, fan art de Ombobon (DeviantArt), subido por t1khon",
+    "ancho": 7680,
+    "alto": 4320,
+    "que_es": "Fondo de pantalla «Keep Sailing»: el Thousand Sunny navegando entre nubes, pintura digital, 842 «me gusta»",
+    "para_que": "Fondo de pantalla de fans en muy alta resolución (punto 16)",
+    "licencia": "Fan art, sólo referencia (no pegar); crédito a Ombobon"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Morgan_Manga_Infobox.png",
+    "fuente": "One Piece Wiki, «Morgan Manga Infobox.png» (portada del capítulo 4, ficha Source de la wiki)",
+    "ancho": 460,
+    "alto": 1090,
+    "que_es": "Ficha de manga en blanco y negro de \"Hacha\" Morgan con su cartel de nombre en japonés; sombreado plano tipo cel (67%), línea normal (11%, estilo.py)",
+    "para_que": "Ejemplo de página en blanco y negro sin trama de color para el punto 19 (contraste con las páginas a color ya medidas)",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Nekomamushi_Manga_Infobox.png",
+    "fuente": "One Piece Wiki, «Nekomamushi Manga Infobox.png» (ficha Source de la wiki lista 6 capítulos posibles: 809, 815, 909, 982, 984, 1117, sin aislar cuál)",
+    "ancho": 672,
+    "alto": 1062,
+    "que_es": "Ficha de manga de Nekomamushi en su forma más felina: mucha línea (15,1%, estilo.py), sombreado mixto, sin color",
+    "para_que": "Ejemplo de mucha densidad de línea en un personaje no humano para el punto 19",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Gol_D._Roger_Wanted_Poster.png",
+    "fuente": "One Piece Wiki, «Gol D. Roger Wanted Poster.png» (capítulo 957, episodio 958 y noticia oficial one-piece.com 17-ene-2021, ficha Source de la wiki)",
+    "ancho": 1770,
+    "alto": 1440,
+    "que_es": "Cartel de SE BUSCA a color de Gol D. Roger con su recompensa real revelada por Sengoku; degradado/pintado (64%), línea normal (5,9%, estilo.py)",
+    "para_que": "Referencia de cartel de SE BUSCA pintado (no con trama de puntos) para contrastar con el cartel clásico de Luffy (punto 19)",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/5e22b178523349b19aae58c4b45790c2/thumbnails/ed4d1e0fc1d84676b4e907c6f0a92091/1920x1080.jpeg",
+    "fuente": "Sketchfab · «One Piece Logo» de Jhimwell Vizconde · https://sketchfab.com/3d-models/one-piece-logo-5e22b178523349b19aae58c4b45790c2",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Emblema de los Mugiwara en 3D con contorno negro (22384 caras; miniatura del modelo)",
+    "para_que": "Emblema en relieve o pintado en la madera.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"One Piece Logo\" de Jhimwell Vizconde (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/3b40e5a485c34a1b8a88104756f81610/thumbnails/d1faffc2e0f140a1a52d05cd7507eaa6/ad6128bf0ae54119bea507f5a02e6942.jpeg",
+    "fuente": "Sketchfab · «Zoro Katana_和道一文字» de kaiyi97 · https://sketchfab.com/3d-models/zoro-katana-3b40e5a485c34a1b8a88104756f81610",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Wado Ichimonji, la espada blanca de Zoro (7718 caras; miniatura del modelo)",
+    "para_que": "Objeto junto a Zoro si la lámina lo usa.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"Zoro Katana_和道一文字\" de kaiyi97 (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/e06ed6b951644c99b97b86fadbdbaf4f/thumbnails/af5c7a4fd07a4e51a3de0c7628a35cc8/b5588512d40f4d35a3145e3a5e4fe958.jpeg",
+    "fuente": "Sketchfab · «One Piece Hats (Luffy & Chopper)» de Kevin · https://sketchfab.com/3d-models/one-piece-hats-luffy-chopper-e06ed6b951644c99b97b86fadbdbaf4f",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Sombreros de Chopper y Luffy, low poly (1320 caras; miniatura del modelo)",
+    "para_que": "Objetos pequeños sobre un barril o una mesa.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"One Piece Hats (Luffy & Chopper)\" de Kevin (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/1760c031d3e64429b0d15c98cfa0d208/thumbnails/e1fc8db7f0da4d63a066c3968db8243b/a0eaa875c5424f78a3480c0191eeab04.jpeg",
+    "fuente": "Sketchfab · «Going Merry» de d_kostash · https://sketchfab.com/3d-models/going-merry-1760c031d3e64429b0d15c98cfa0d208",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Going Merry sobre nubes, de d_kostash (Dmytro Kostash en ArtStation) (59827 caras; miniatura del modelo)",
+    "para_que": "Referencia de barco estilizado.",
+    "licencia": "CC Attribution (modelo descargable; crédito: \"Going Merry\" de d_kostash (Sketchfab), CC Attribution). El diseño es de Eiichiro Oda / Toei."
+  },
+  {
+    "url": "https://cdn.polyhaven.com/asset_img/primary/treasure_chest.png",
+    "fuente": "Poly Haven · https://polyhaven.com/a/treasure_chest",
+    "ancho": 1575,
+    "alto": 1200,
+    "que_es": "Cofre de madera con herrajes (Poly Haven, Rico Cilliers) (render del modelo)",
+    "para_que": "Cofre bajo los carteles o junto a la mesa de Nami.",
+    "licencia": "CC0 (dominio público; sin crédito obligatorio). Modelo .blend y glTF hasta 4K u 8K."
+  },
+  {
+    "url": "https://cdn.polyhaven.com/asset_img/primary/ship_pinnace.png",
+    "fuente": "Poly Haven · https://polyhaven.com/a/ship_pinnace",
+    "ancho": 749,
+    "alto": 1200,
+    "que_es": "Velero de madera con jarcias y velas (Poly Haven) (render del modelo)",
+    "para_que": "Referencia de cuerdas, jarcias y velas para el fondo.",
+    "licencia": "CC0 (dominio público; sin crédito obligatorio). Modelo .blend y glTF hasta 4K u 8K."
+  },
+  {
+    "url": "https://kenney.nl/media/pages/assets/pirate-kit/ae3180d290-1771333077/preview.png",
+    "fuente": "Kenney · Pirate Kit 2.1 · https://kenney.nl/assets/pirate-kit",
+    "ancho": 918,
+    "alto": 515,
+    "que_es": "70 modelos piratas en estilo de juguete de colores planos: barcos con vela de calavera, islas, barriles, fortines",
+    "para_que": "Relleno 3D ligero con colores planos parecidos al anime.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://i.pximg.net/img-original/img/2022/05/15/20/45/37/98369561_p0.png",
+    "fuente": "Pixiv · 〆 · API ajax/illust/98369561 · página https://www.pixiv.net/artworks/98369561 (la imagen pide la cabecera Referer: https://www.pixiv.net/)",
+    "ancho": 600,
+    "alto": 849,
+    "que_es": "Fan art (manga) de 〆: Sanji y Zeff ante el cartel VINSMOKE SANJI; 29.749 marcadores",
+    "para_que": "Referencia de cómo se mira un cartel dentro del mundo. Sólo para mirar.",
+    "licencia": "Todos los derechos del autor (fan art). Sólo referencia, nunca pegar."
+  },
+  {
+    "url": "https://i.pximg.net/img-original/img/2021/09/01/12/57/44/92426575_p0.jpg",
+    "fuente": "Pixiv · イズナ · API ajax/illust/92426575 · página https://www.pixiv.net/artworks/92426575 (la imagen pide la cabecera Referer: https://www.pixiv.net/)",
+    "ancho": 1000,
+    "alto": 1500,
+    "que_es": "Fan art de イズナ: cartel de Yamato con papel envejecido",
+    "para_que": "Textura de papel manchado y letras del cartel. Sólo para mirar.",
+    "licencia": "Todos los derechos del autor (fan art). Sólo referencia, nunca pegar."
+  },
+  {
+    "url": "https://i.pximg.net/img-original/img/2015/06/03/16/39/05/50701678_p0.jpg",
+    "fuente": "Pixiv · zzyzzyy · API ajax/illust/50701678 · página https://www.pixiv.net/artworks/50701678 (la imagen pide la cabecera Referer: https://www.pixiv.net/)",
+    "ancho": 945,
+    "alto": 630,
+    "que_es": "Fan art de zzyzzyy: «Merry in Heaven», el Merry entre nubes",
+    "para_que": "Referencia de luz y color para el Merry. Sólo para mirar.",
+    "licencia": "Todos los derechos del autor (fan art). Sólo referencia, nunca pegar."
+  },
+  {
+    "url": "https://i.pximg.net/img-original/img/2015/12/25/18/50/22/54228849_p0.jpg",
+    "fuente": "Pixiv · Ombobon · API ajax/illust/54228849 · página https://www.pixiv.net/artworks/54228849 (la imagen pide la cabecera Referer: https://www.pixiv.net/)",
+    "ancho": 1200,
+    "alto": 672,
+    "que_es": "Fan art de Ombobon: el Sunny en una tormenta",
+    "para_que": "Referencia de mar y cielo dramáticos. Sólo para mirar.",
+    "licencia": "Todos los derechos del autor (fan art). Sólo referencia, nunca pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/64/Figarland_Twins_Seperated.png",
+    "fuente": "One Piece Wiki (categoría Chapter_Images, muestra de estilo n=40)",
+    "ancho": 1010,
+    "alto": 477,
+    "que_es": "Página de manga en blanco y negro, muestra del grupo 1 del análisis de estilo (línea 16,2%, sombreado con tramas)",
+    "para_que": "Punto 18: referencia de línea y trama del manga original para replicar el entintado",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Enies_Lobby_Arc.png",
+    "fuente": "One Piece Wiki (categoría Color_Spread_Images, muestra de estilo n=16)",
+    "ancho": 1295,
+    "alto": 1800,
+    "que_es": "Color spread pintado por el propio Oda (acuarela/Copic): la paleta más ancha medida (32% top-12)",
+    "para_que": "Punto 18: referencia de color a mano de Oda, distinta del color plano del anime",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/04/Yosaku_Digitally_Colored_Manga.png",
+    "fuente": "One Piece Wiki (categoría Colored_Chapter_Images, muestra de estilo n=40)",
+    "ancho": 584,
+    "alto": 1270,
+    "que_es": "Página de manga coloreada digitalmente por el estudio (no por Oda): sombreado mixto, paleta media (45% top-12)",
+    "para_que": "Punto 18: referencia intermedia entre manga en tinta y anime en color plano",
+    "licencia": "© Eiichiro Oda/Shueisha · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/20/Bell-m%C3%A8re_at_Age_20.png",
+    "fuente": "One Piece Wiki (categoría Season_1_Episode_Images, anime 1999 East Blue, muestra de estilo n=40)",
+    "ancho": 704,
+    "alto": 528,
+    "que_es": "Fotograma del anime de 1999: paleta muy cerrada (74% top-12, cel-shading clásico), casi sin viñeta",
+    "para_que": "Punto 18: referencia del estilo de cel-animación clásica de la serie, para comparar con épocas recientes",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Togen_Shirataki.png",
+    "fuente": "One Piece Wiki (categoría Season_20_Episode_Images, anime Wano, muestra de estilo n=40)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fotograma del arco de Wano: la saturación más alta medida (49,5) y línea muy fina (6,8%)",
+    "para_que": "Punto 18: referencia del pico de saturación del anime, y del cambio de estudio de fotografía/filtros",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Seraphim_Trapped.png",
+    "fuente": "One Piece Wiki (categoría Season_21_Episode_Images, anime Egghead, muestra de estilo n=40)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del arco de Egghead: línea más fina y gruesa a la vez que Wano (9,9%), ambiente más gráfico según la prensa",
+    "para_que": "Punto 18: referencia del cambio de estilo Wano→Egghead (línea más fina, más gráfico) que describe Real Sound",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/54/Scopper_Gaban_Meets_Straw_Hats.png",
+    "fuente": "One Piece Wiki (categoría Season_22_Episode_Images, anime Elbaph, muestra de estilo n=40)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del arco actual (Elbaph, 2025-2026): paleta más ancha del anime (31% top-12) y la viñeta más marcada (0,42)",
+    "para_que": "Punto 18: referencia del estilo más pictórico y con más viñeteado del arco que se emite ahora",
+    "licencia": "© Eiichiro Oda/Shueisha, Toei Animation · uso de referencia, no pegar"
+  },
+  {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/df/44/96df4415-ad93-b2ff-b6b3-426e19a152b0/05-06_OPTC_bnr_Appstore_6.5_U30a4_U30f3_U30c1_1284x2778.png/2000x2000bb.jpg",
+    "fuente": "App Store Japón, ficha de ONE PIECE TREASURE CRUISE",
+    "ancho": 924,
+    "alto": 2000,
+    "que_es": "Captura oficial de las escenas «famosas» del juego: usan viñetas de manga coloreadas con un globo de manga real, no una caja",
+    "para_que": "Punto 11: prueba de que un videojuego oficial también usa el globo de manga, no sólo cajas traducidas",
+    "licencia": "© Bandai Namco Entertainment · captura de tienda oficial, uso de referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8mwcbr?start=0",
+    "fuente": "Dailymotion (canal meristation, clip oficial de Crunchyroll)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Clip oficial (marca de agua Toei/Shueisha + cartela final de Crunchyroll) de la escena del ep. 1071 en que Zunesha dice «Joyboy…» justo antes del Gear 5 de Luffy",
+    "para_que": "Escena icónica con minuto exacto (punto 2); pose de Luffy 'pensando en serio' a los 0:48-1:10 (punto 14)",
+    "licencia": "Vídeo oficial de Toei/Crunchyroll, uso como referencia (no descargar ni redistribuir la escena completa)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/21/One_Piece_World_Seeker_Luffy.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2520,
+    "alto": 4402,
+    "que_es": "Monkey D. Luffy: One Piece World Seeker Luffy.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/54/3D2Y_Corner_1.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2190,
+    "alto": 3500,
+    "que_es": "Monkey D. Luffy: 3D2Y Corner 1.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/56/Gear_4_Infobox.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2538,
+    "alto": 2380,
+    "que_es": "Monkey D. Luffy: Gear 4 Infobox.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Young_Luffy_LA_Still.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2411,
+    "alto": 2400,
+    "que_es": "Monkey D. Luffy: Young Luffy LA Still.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Gear_2_Techniques_Infobox.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2000,
+    "alto": 2866,
+    "que_es": "Monkey D. Luffy: Gear 2 Techniques Infobox.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Luffy_Color_Walk_4.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2036,
+    "alto": 2297,
+    "que_es": "Monkey D. Luffy: Luffy Color Walk 4.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Snakeman.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1619,
+    "alto": 2061,
+    "que_es": "Monkey D. Luffy: Snakeman.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Luffy_Spa_Island_Arc_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1366,
+    "alto": 2314,
+    "que_es": "Monkey D. Luffy: Luffy Spa Island Arc Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Luffy_Whole_Cake_Pirate_Warriors_4.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Monkey D. Luffy: Luffy Whole Cake Pirate Warriors 4.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Luffy_Lucy_Pirate_Warriors_4.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Monkey D. Luffy: Luffy Lucy Pirate Warriors 4.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Nami_Water_7_Romance_Dawn_PSP.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 3068,
+    "alto": 3648,
+    "que_es": "Nami: Nami Water 7 Romance Dawn PSP.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Nami_Romance_Dawn_PSP.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2455,
+    "alto": 3761,
+    "que_es": "Nami: Nami Romance Dawn PSP.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/3D2Y_Corner_2.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2187,
+    "alto": 3500,
+    "que_es": "Nami: 3D2Y Corner 2.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Nami_Arlong_Park_Third_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1508,
+    "alto": 4450,
+    "que_es": "Nami: Nami Arlong Park Third Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Nami_Special_3_Second_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1540,
+    "alto": 2608,
+    "que_es": "Nami: Nami Special 3 Second Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Nami_Battle-Axe.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1563,
+    "alto": 2294,
+    "que_es": "Nami: Nami Battle-Axe.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Nami%27s_First_Outfit_Water_7_Arc.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 756,
+    "alto": 4235,
+    "que_es": "Nami: Nami's First Outfit Water 7 Arc.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/One_Piece_Unlimited_World_Red_Nami_15.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1146,
+    "alto": 2677,
+    "que_es": "Nami: One Piece Unlimited World Red Nami 15.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/58/Nami_as_an_Infant.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1988,
+    "alto": 1466,
+    "que_es": "Nami: Nami as an Infant.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nami_Stampede_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1944,
+    "alto": 1464,
+    "que_es": "Nami: Nami Stampede Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/32/Zoro_Live_Action_Profile.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1841,
+    "alto": 2335,
+    "que_es": "Roronoa Zoro: Zoro Live Action Profile.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Zoro_Wano_Thousand_Storm.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1780,
+    "alto": 1919,
+    "que_es": "Roronoa Zoro: Zoro Wano Thousand Storm.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Zoro_Black_Coat_Thousand_Storm.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1684,
+    "alto": 1980,
+    "que_es": "Roronoa Zoro: Zoro Black Coat Thousand Storm.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/29/Zoro_Dream_Soccer_King_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2256,
+    "alto": 1450,
+    "que_es": "Roronoa Zoro: Zoro Dream Soccer King Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Zoro_Pirate_Warriors_3.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1646,
+    "alto": 1979,
+    "que_es": "Roronoa Zoro: Zoro Pirate Warriors 3.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/67/Zoro_in_Bounty_Rush.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1625,
+    "alto": 1663,
+    "que_es": "Roronoa Zoro: Zoro in Bounty Rush.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/10/Zoro_Stampede_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1914,
+    "alto": 1391,
+    "que_es": "Roronoa Zoro: Zoro Stampede Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Young_Zoro_LA.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1467,
+    "alto": 1797,
+    "que_es": "Roronoa Zoro: Young Zoro LA.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Sanji_Live_Action_Profile.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 3600,
+    "alto": 2400,
+    "que_es": "Sanji: Sanji Live Action Profile.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Sanji_Color_Walk_4.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2036,
+    "alto": 2597,
+    "que_es": "Sanji: Sanji Color Walk 4.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 968,
+    "alto": 2898,
+    "que_es": "Sanji: Sanji Anime Post Timeskip Infobox.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Sanji_Sabaody_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 844,
+    "alto": 3119,
+    "que_es": "Sanji: Sanji Sabaody Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Young_Sanji_LA.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1537,
+    "alto": 1501,
+    "que_es": "Sanji: Young Sanji LA.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Sanji_Dream_Soccer_King_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1552,
+    "alto": 1452,
+    "que_es": "Sanji: Sanji Dream Soccer King Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/23/Sanji_Jump_Force.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 927,
+    "alto": 2346,
+    "que_es": "Sanji: Sanji Jump Force.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/42/Seventh_Eyecatcher_Sanji_Hanafuda.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Sanji: Seventh Eyecatcher Sanji Hanafuda.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/13/Sanji_Pirate_Warriors_3.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 988,
+    "alto": 2000,
+    "que_es": "Sanji: Sanji Pirate Warriors 3.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Sanji_Stampede_Outfit.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1438,
+    "alto": 1332,
+    "que_es": "Sanji: Sanji Stampede Outfit.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0b/Lego_animated_Usopp_and_Chopper.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Tony Tony Chopper: Lego animated Usopp and Chopper.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/40/Chopper_Walk_Point_Live_Action.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1857,
+    "alto": 1919,
+    "que_es": "Tony Tony Chopper: Chopper Walk Point Live Action.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Chopper_Pre_Timeskip_Pirate_Warriors_3.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1748,
+    "alto": 1912,
+    "que_es": "Tony Tony Chopper: Chopper Pre Timeskip Pirate Warriors 3.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chopper_Pirate_Warriors_3.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1662,
+    "alto": 1921,
+    "que_es": "Tony Tony Chopper: Chopper Pirate Warriors 3.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/99/Chopper_Pre_Timeskip_Pirate_Warriors_4.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Tony Tony Chopper: Chopper Pre Timeskip Pirate Warriors 4.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Chopper_Onigashima_Thousand_Storm.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1530,
+    "alto": 1857,
+    "que_es": "Tony Tony Chopper: Chopper Onigashima Thousand Storm.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/17/Chopper_Beasts_Pirates_Disguise.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1835,
+    "alto": 1440,
+    "que_es": "Tony Tony Chopper: Chopper Beasts Pirates Disguise.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Chopper%27s_Ice_Oni_Transformation.png",
+    "fuente": "Fandom onepiece (recogido por recolectar.py)",
+    "ancho": 1615,
+    "alto": 1440,
+    "que_es": "Tony Tony Chopper: Chopper's Ice Oni Transformation.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1/df29b3901f9a4176b5e511e9a4578f4191cb62e5.jpeg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1200,
+    "alto": 681,
+    "que_es": "Fan art de monkey_d._luffy (ladygt93.deviantart.com)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/542/303a2e144c8956772de7b3938cbb2d0fe29fc6d5.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 800,
+    "alto": 645,
+    "que_es": "Fan art de monkey_d._luffy (http://img40.pixiv.net/img/ance/11904651.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4221/7f555a86e32498f3f10d0ca013fd652cbea8da6b.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2343,
+    "alto": 2343,
+    "que_es": "Fan art de monkey_d._luffy (https://i.pximg.net/img-original/img/2022/11/06/11/35/44/102556970_p18.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4241/88db7bc355a71be166d5c79b6cffbd5a19b23796.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1554,
+    "alto": 2048,
+    "que_es": "Fan art de monkey_d._luffy (https://twitter.com/KensukeCreateS/status/1568576500898893824)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4248/99d9c28012d6db63c4766713085832f6cd201fe8.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2528,
+    "alto": 2481,
+    "que_es": "Fan art de monkey_d._luffy (https://theproblemsofdonhi.tumblr.com/post/683173779005915136)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4197/e348795abc5d282a99f98f1d1210565f46601434.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2048,
+    "alto": 701,
+    "que_es": "Fan art de monkey_d._luffy (https://twitter.com/suushiaf/status/1586353325183737856)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3040/ee11a6b5a06c78fd65ef84dcf24ddea0e70af01e.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2652,
+    "alto": 1932,
+    "que_es": "Fan art de nami_(one_piece) (Weekly Shonen Jump 2020: Issue #36.37)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2064/9b27b7a979085225e009bc005965c766c7bc8d89.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1000,
+    "alto": 704,
+    "que_es": "Fan art de nami_(one_piece) (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4236/0cd464770427f48ed6aa64e09ed72422f7f78770.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 3000,
+    "alto": 1560,
+    "que_es": "Fan art de nami_(one_piece) (https://i.pximg.net/img-original/img/2021/11/05/04/05/40/93925207_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4239/16c841740fcdc5696c07136eb38c5c3abc6f1345.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1274,
+    "alto": 1165,
+    "que_es": "Fan art de nami_(one_piece) (https://www.deviantart.com/opirou/art/Nami-and-Nojiko-From-the-7-Seas-584444568)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4619/7f393023a6531154b2b5cd9f98985a68.jpeg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1391,
+    "alto": 2048,
+    "que_es": "Fan art de nami_(one_piece) (https://x.com/04119__snail/status/1764324969864147069/photo/1)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/541/caf0face6ff265bb1fc71fb08584c0ced768c5b2.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 900,
+    "alto": 1260,
+    "que_es": "Fan art de roronoa_zoro (http://img44.pixiv.net/img/ss-salt/15473242.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/290/91751460fbdb9d49b38600751c4333795291b783.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1120,
+    "alto": 862,
+    "que_es": "Fan art de roronoa_zoro (http://img05.pixiv.net/img/painappurunokandume/1086055.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/379/836abf6daab31bcdc679f7bf82c43ed9a1c3f6d9.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1713,
+    "alto": 1250,
+    "que_es": "Fan art de roronoa_zoro (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/508/25027767e12202c4344899d04384e3efc5ca841c.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2000,
+    "alto": 1428,
+    "que_es": "Fan art de roronoa_zoro (http://img03.pixiv.net/img/kuta/14471238.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1584/6bf6318a8dc24b8d814dab2b29fa2942d02c1417.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2000,
+    "alto": 1125,
+    "que_es": "Fan art de roronoa_zoro (http://orig14.deviantart.net/ae18/f/2012/293/7/e/the_family_by_hellpurestdevil-d5iexej.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/120/d7531a936b3a023fe6918350a70d6b2d27c3dec7.gif",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 400,
+    "alto": 310,
+    "que_es": "Fan art de roronoa_zoro (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4220/e90050deaf906a1222463fa7bb902f597bb6de35.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
     "ancho": 2048,
     "alto": 2048,
-    "que_es": "Textura de tablones gastados con agujeros de clavo (color difuso, 2K; hay hasta 8K).",
-    "para_que": "La madera donde se clavan los carteles (concepto A) y la cubierta (concepto C).",
-    "licencia": "CC0 (dominio público)."
+    "que_es": "Fan art de sanji_(one_piece) (https://twitter.com/asuka_young/status/1550100220733693953)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4151/21cc53b01fd1d75e87720af9d55317bc35065ffd.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1835,
+    "alto": 1635,
+    "que_es": "Fan art de sanji_(one_piece) (https://twitter.com/Sidmurphyx/status/1633945716262354947)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4384/ffae240576b591bb298c5d6a7db2b4ceb7d2dfe7.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1169,
+    "alto": 1169,
+    "que_es": "Fan art de sanji_(one_piece) (https://i.pximg.net/img-original/img/2019/08/01/23/09/16/76025525_p9.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4432/237172dd00ffdbbf860ca802ec2472bcc1eca837.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1500,
+    "alto": 1000,
+    "que_es": "Fan art de sanji_(one_piece) (https://i.pximg.net/img-original/img/2019/03/02/03/28/05/73461685_p0.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 2520,
+    "alto": 2520,
+    "que_es": "Fan art de tony_tony_chopper (https://twitter.com/totototo0507/status/1807802641482985883)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/965/a8f4429f0b71f9432efafccd3537ce4a3c2d4518.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1242,
+    "alto": 828,
+    "que_es": "Fan art de tony_tony_chopper (http://i2.pixiv.net/img86/img/zzyzzyy/31378387.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4427/5bb48fe5233d1a5d0e19853834a7944abf569659.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 3056,
+    "alto": 2976,
+    "que_es": "Fan art de tony_tony_chopper (https://i.pximg.net/img-original/img/2023/04/28/03/25/26/107586010_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/245/031b3a0b0bbf176e2b66915cb9831a6adf60e170.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 3124,
+    "alto": 4000,
+    "que_es": "Fan art de tony_tony_chopper (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/589/d81779591ddf7f52957fa90086b2dcf30eb30b61.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 550,
+    "alto": 558,
+    "que_es": "Fan art de nico_robin (http://img05.pixiv.net/img/ao94/10213219_p1.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2274/c303c7525edfca46fbc6f563f2fdf3a9127b604b.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 640,
+    "alto": 512,
+    "que_es": "Fan art de nico_robin (https://orig00.deviantart.net/d4e7/f/2017/173/c/d/nico_robin_by_bodskih-dbcd52q.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/472/3787574f123667c200286bf33487b4527e27d064.png",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 699,
+    "alto": 826,
+    "que_es": "Fan art de nico_robin (http://www.deviantart.com/download/122841151/OP_Luffy_X_Robin_002_by_meissdes.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/435/f6cf40ea452190b3370ea7d88e2ccc7b7bc1e691.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1000,
+    "alto": 1250,
+    "que_es": "Fan art de trafalgar_law (http://img51.pixiv.net/img/sugino00/11242094.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/17/22139191c3b9d163c390c98692cf8681aaeff925.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1225,
+    "alto": 910,
+    "que_es": "Fan art de trafalgar_law (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/22/db9ca645b91ab9691df10a1ad942aa770043c4b7.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 1440,
+    "alto": 900,
+    "que_es": "Fan art de trafalgar_law (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/375/91359d02c5b2889d3be53dca86ca5b596208982e.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 566,
+    "alto": 600,
+    "que_es": "Fan art de trafalgar_law (http://img04.pixiv.net/img/pousse/7860362.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/989/1916d770e1aa35036b8cc4b9014e2f7b893395c3.jpg",
+    "fuente": "Safebooru (fan art) (recogido por recolectar.py)",
+    "ancho": 529,
+    "alto": 771,
+    "que_es": "Fan art de trafalgar_law (http://i1.pixiv.net/img25/img/a-k-a-hs/34112007.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_fff278e836015e5421019e2aee05f90ce0edf8e0.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_9d8f5c06c48c8681ec5a9569891ebc12015cd757.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_7eb580f7975be16e589152131c69db8e01804bf8.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_a74ae187b479661147360878280c74d21c71da14.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_91f3d5732e28c93a16f71743a3572b354382b8d3.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_790c1bcb7f22e04cb254cb815b670eefb60aee68.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE Bounty Rush",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/9f690503a27d23cdb5f7ca52077c923110a3e364/ss_9f690503a27d23cdb5f7ca52077c923110a3e364.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/bd76bcaa697c576f8684bb6304b1ef61e9efe243/ss_bd76bcaa697c576f8684bb6304b1ef61e9efe243.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/95fa932656c6a890f795b3c2e54fa4c69dcbf8a7/ss_95fa932656c6a890f795b3c2e54fa4c69dcbf8a7.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/d3a5f2feb45ae1d87ff7c483ef8bd88371b7a55b/ss_d3a5f2feb45ae1d87ff7c483ef8bd88371b7a55b.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/73c8cc655fbcbc187371e0eac3e5447f739137f7/ss_73c8cc655fbcbc187371e0eac3e5447f739137f7.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/eb99d7d76d99b7b7ecc70b39a1e408aa1810f655/ss_eb99d7d76d99b7b7ecc70b39a1e408aa1810f655.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE: PIRATE WARRIORS 4",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_072ed3555d4e51b388e99048122adf988fdc0713.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_be8a1ff7b27e5821d955e9da698fd12c1b312e1d.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_0c3f246bc7b354ca49053c1c571a8db0025e3022.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_d14d25d3dbf9efa797a26db2cec545b0320eded7.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_1d099b6daf3b4497fd4c05f252fd85e623b2b505.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_939e6178e0401ad5b3db69cf821ae7f07c58ab7d.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE ODYSSEY",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d737d0462ad571ebc7508e0c72660ad86fcafc66.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_f88d444456007fe04a0fbe9aa4e2b59f8a1a24b2.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_6b65f602d57822f6e5652d69fb263feeeebb1ec0.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d89e90ee83a54e1e8fefeb21a997504602921d2a.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_9bdb521c64090fc46661c77ba98752e39006a337.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_2acd2c71e63e668fb1dbcc7ccf2be3d6357e1045.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Burning Blood",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_0c22f54b96b73c393203bff949d882bc9e6c092d.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_6aa24b103bb033a798fd2c71347a9d7efac1e4f1.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_62d0604f3cb9aebfa9ffb58adb36b7a5e30b32a5.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_14aae73ce07e312b1c9d1ff181fd3e0e197710a4.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_9c895186b1df52812630c51927f1af3f042ac568.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331600/ss_733e057cfba1424ab2cab4a65b18f1b48a9c77d0.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de One Piece Pirate Warriors 3",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_324a7b592c2c20b66c58205878b8200d8fd07673.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_365749d9a5fbae8c5a3bffd18d8f46807603a70a.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_5c553be1d588fd16d37c8daed282cb2ea22b0a75.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_8325936700c382761c81a7864c412b8091c5c129.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_634d105088ad34319612539d3755c3a878817e57.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/ss_9c7d506dab3f095234340c51286a35be9fdea0c1.1920x1080.jpg",
+    "fuente": "Steam (recogido por recolectar.py)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de ONE PIECE World Seeker",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5a09351edc4d48408c086d9c91bf1473",
+    "fuente": "Sketchfab (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Sake Gourd (Alcohol container), 酒 瓢箪 de Pranav_1603",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e64b59c5ab2a460dbeaf98ed4061aa5e",
+    "fuente": "Sketchfab (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Wado Ichimonji Katana de afzaeian",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://live.staticflickr.com/4148/5074558244_3c2313d88b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 500,
+    "alto": 333,
+    "que_es": "one piece Pirate lego Justice Navy cape 海贼王海军正义披风",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-SA 2.0, autor yman cape"
+  },
+  {
+    "url": "https://live.staticflickr.com/52/130912236_55a8217dcc_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Odaiba - 'Going Merry', the boat from One Piece, in Tokyo Bay",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-SA 2.0, autor DocChewbacca"
+  },
+  {
+    "url": "https://live.staticflickr.com/3259/5874883051_386d06cc26_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "DONQUIXOTE DOFLAMINGO (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5315/5874882251_1e5109d986_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "MARSHAL D. TEACH / BARBANEGRA / KUROHIGE (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6186/6090823918_688be6bf10_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "BROOK 2 AÑOS DESPUES (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/7651/16964830391_e89bfccc5b_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 684,
+    "alto": 1024,
+    "que_es": "Lauren Lala - One Piece",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor Marvin Chandra"
+  },
+  {
+    "url": "https://live.staticflickr.com/5231/5874971727_1aa0abaf86_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "DRACULE MIHAWK (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5043/5374581682_5515d47132_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "MONKEY D. LUFFY - 2 AÑOS DESPUES (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/7021/6584494595_f030534310_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "KUINA (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5314/5875445862_e1b12b9337_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "BARTHOLOMEW KUMA (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6067/6090823570_5549d12e45_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "RORONOA ZORO 2 AÑOS DESPUES (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5126/5331294239_330a403303_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "FRANKY ( ONE PIECE )",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5202/5314289830_bcaeddd6f8_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "USOPP (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/5234/5874882577_474d916ef8_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "MARSHAL D. TEACH / BARBANEGRA / KUROHIGE (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6210/6090826284_742041c4bb_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "SANJI 2 AÑOS DESPUES (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/1342/5126448007_9aeae47e09_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "Tony Tony Chopper ( ONE PIECE )",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/3292/5875442346_4b542d7404_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "BOA HANCOCK (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6041/5875445376_e965194f51_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "BARTHOLOMEW KUMA (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6015/5875444760_6630e4e487_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "JINBE (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://live.staticflickr.com/6198/6090280743_dffee87766_b.jpg",
+    "fuente": "Openverse (flickr) (recogido por recolectar.py)",
+    "ancho": 1024,
+    "alto": 810,
+    "que_es": "TONY TONY CHOPPER 2 AÑOS DESPUES (ONE PIECE)",
+    "para_que": "foto real (cosplay, objeto, evento) · Punto 23 (figuras, cosplay, réplicas): foto con licencia libre, sin mirar a mano.",
+    "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/v9/wallhaven-v973e3.jpg",
+    "fuente": "Wallhaven (recogido por recolectar.py)",
+    "ancho": 8192,
+    "alto": 4606,
+    "que_es": "Fondo de pantalla (MYGIORNI, artwork, 4K, anime, looking at viewer, Yamato (One Piece))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por orsted2222; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yx/wallhaven-yx3kok.jpg",
+    "fuente": "Wallhaven (recogido por recolectar.py)",
+    "ancho": 9874,
+    "alto": 1858,
+    "que_es": "Fondo de pantalla (One Piece, Monkey D. Luffy, Bartolomeo, Nico Robin, Trafalgar Law, Usopp)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por ayushrajmth91; © su autor"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Luffy Monkey",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Zoro Roronoa",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Sanji",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Robin Nico",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Law Trafalgar",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Nami",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Ace Portgas",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Chopper Tony Tony",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Usopp",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Shanks",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Brook",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Hancock Boa",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2754-B4gGSlNYgsyh.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Doflamingo Donquixote",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2751-NnzW0N2vCTjX.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Newgate Edward",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Franky",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Portada oficial",
+    "para_que": "arte oficial / key visual",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "fuente": "AniList (recogido por recolectar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Banner oficial",
+    "para_que": "arte oficial / key visual",
+    "licencia": "© titulares; sólo referencia"
   }
 ]

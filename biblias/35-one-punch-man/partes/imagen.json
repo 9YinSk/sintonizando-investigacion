@@ -99,6 +99,24 @@
     "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
   },
   {
+    "url": "https://sketchfab.com/3d-models/saitamas-apartment-fa77fee855a0417dbf6ff1d16ec8c195",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D del apartamento de Saitama (sitio completo) por Cyrone",
+    "para_que": "Punto 3 · referencia 3D de sitio (no personaje), coincide con la reconstrucción física de V-STORAGE",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/saitamas-tv-stand-26a48b271e954fb1a033e235a365fcf8",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D del mueble de la tele de Saitama (objeto suelto) por drolavellan",
+    "para_que": "Punto 3 · referencia 3D de objeto, más ligero que modelar el cuarto entero",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
     "url": "https://safebooru.org/images/2308/48ee249b6379989b667cc599eaa2089a9727e92a.jpg",
     "fuente": "Safebooru (origen: Pixiv illust_id=66186034)",
     "ancho": 1768,
