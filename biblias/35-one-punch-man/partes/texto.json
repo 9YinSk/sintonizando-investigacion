@@ -27,6 +27,15 @@
     "licencia": "Captura promocional oficial de Spike Chunsoft/Bandai Namco, sólo como referencia"
   },
   {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_235431b3ba4455e512a4a82821af052773c38f71.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/991560)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial del HUD de combate (Saitama vs Deep Sea King): retratos redondos, barras de vida, texto '1 HIT 99999 FIRST ATTACK' en letra de pincel amarilla, iconos de botones de PlayStation",
+    "para_que": "Referencia directa de interfaz de combate y de letra de pincel para números/texto de golpe (puntos 5, 6 y 11)",
+    "licencia": "Captura promocional oficial de Spike Chunsoft/Bandai Namco, sólo como referencia"
+  },
+  {
     "url": "https://play-lh.googleusercontent.com/H1f1CeF1ocNXmW8KKAl9iw0lJZsKlnrS74ecnR5Txptl_rmvKV5e43S4IpEdpsm3l0k3YzGjA9aJr1vMWIwjqQ",
     "fuente": "Google Play (play.google.com, ficha de One Punch Man: The Strongest)",
     "ancho": 1052,
@@ -214,5 +223,23 @@
     "que_es": "Artículo sobre Murata citando a Dragon Ball/Toriyama como inspiración",
     "para_que": "Fuente ⚠️ (una sola, no se pudo abrir la entrevista original) del punto 24",
     "licencia": "Artículo periodístico, sólo como fuente de texto"
+  },
+  {
+    "url": "https://logmi.jp/knowledge_culture/culture/325988",
+    "fuente": "Logmi Business (japonés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Transcripción de una charla pública entre Yusuke Murata y Jouji Morikawa (Hajime no Ippo) sobre su proceso de dibujo",
+    "para_que": "Fuente primaria en japonés del punto 18: cómo estudia el ritmo de las escenas de acción y cómo entinta a mano",
+    "licencia": "Artículo periodístico, sólo como fuente de cita"
+  },
+  {
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13217622713",
+    "fuente": "Yahoo!知恵袋 (japonés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Respuesta de un espectador de las retransmisiones de dibujo en directo de Murata, sobre qué hace a mano y qué hacen sus ayudantes en digital",
+    "para_que": "Fuente en japonés del punto 18 (⚠️ es un foro, no una entrevista oficial, pero corrige el dato de fuentes en inglés)",
+    "licencia": "Foro público, sólo como fuente de texto"
   }
 ]
