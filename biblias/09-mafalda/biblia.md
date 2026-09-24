@@ -42,10 +42,81 @@ fecha: 2026-09-24
 >   película de 1981 y la serie cubana de 1993) y de la serie de Netflix
 >   que se estrena en 2027.
 > - La **tira** es blanco y negro, pero **los cortos de 1972 y la película
->   de 1981 ya son en color**: once años antes de Netflix (sección 6).
+>   de 1981 ya son en color**: medio siglo antes de Netflix (sección 6).
 > - **No hay «doblaje latino»**: el original ya está en español de Argentina.
 >   Hubo voces argentinas, un redoblaje mexicano y una versión sin palabras.
 > - El **cuadro de diálogo** es el globo dibujado a mano por Quino.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+- «El color sólo existe en portadas, estatuas y Netflix» → **los cortos de
+  1972 y la película de 1981 son en color**; hex medidos en fotogramas
+  (vestido `#EB1632`, moño `#DE122B`, piel `#FC86A0`). Sección 6.
+- Voz de Manolito en la serie: «Rina Morán» → **Cecilia Gispert**. Rina
+  Morán es Mafalda. Gispert pasó a Felipe y Miguelito en la película.
+- Papá en la película: «Oscar Silva» → **Carlos Silva** (Doblaje Wiki).
+- Película «Mafalda (1982)» → **estreno argentino 3-dic-1981**; 1982 es
+  el año en otros países. Sección 10.
+- Paseo de la Historieta: «15 paradas» → **19 esculturas según una fuente,
+  más de 20 y 7 murales según otras**. Sección 3.
+- Estatuas: había tres (San Telmo, Oviedo, Madrid) → hay una **cuarta
+  muy documentada en Barranco, Lima** (2023, amarilla). Sección 3.
+- Rotulado: «¿mayúsculas o minúsculas?» ⚠️ → **mayúsculas siempre** ✅
+  (visto y leído con OCR en dos tiras). Sección 7.
+- «¡Paren el mundo que me quiero bajar!»: sigue **❌ falsa**, y ahora se
+  sabe que la repite hasta prensa seria (La Unión) junto al globo. No se
+  usa nunca.
+- Verde de la estatua de San Telmo: «verde claro» → **verde oliva
+  `#4B6736`** medido en dos fotos.
+- «Tráiler de 1982» en Dailymotion → **es la película entera** mal
+  titulada (4510 s).
+- Encuesta de personajes: ⚠️ → ✅ (Infonegocios 13-oct-2020 y El Sol de
+  México, mismos porcentajes).
+- Serie de 1993: compositor «no encontrado» → **José María Vitier**
+  (ENDAC).
+
+**Añadido:** 3 hojas de contacto; 14 poses con minuto; 10 escenas animadas
+miradas; 20+ hex medidos; frases textuales con minuto sacadas del audio;
+reparto mexicano (Sono-Mex); licencias de Sketchfab por su API; y los
+puntos nuevos del encargo: técnica y cómo replicarla, texturas 2D, gustos,
+por qué la aman, fan dubs, colaboraciones, obras parecidas y el mundo
+(secciones 19 a 26), la guía para IA de texto y la tabla de cumplimiento.
+
+**⚠️:** había 106 en la primera pasada; los que quedan se cuentan al final
+de esta pasada (ver «Cumplimiento del encargo»).
+
+### Índice: dónde está cada punto del encargo
+
+| Punto de ENCARGO.md | Sección de esta biblia |
+|---|---|
+| 1 Arte oficial · hojas de contacto | 3 |
+| 2 Escenas icónicas | 4 |
+| 3 Fan art y 3D | 5 |
+| 4 Sitios, luz, paleta, texturas reales | 6 |
+| 5 Tipografía | 7 |
+| 6 Cómo hablan en pantalla | 8 |
+| 7 Popularidad | 2 |
+| 8 Voces y frases | 10 |
+| 9 Música y sonido | 11 |
+| 10 Vídeos | 12 |
+| 11 Videojuegos | 13 |
+| 12 Fandom y qué no hacer | 14 |
+| 13 Personajes a fondo | 9 |
+| 14 Poses | 15 |
+| 15 Vestuario | 16 |
+| 16 Ciudades y fondos de pantalla | 17 |
+| 17 Guía para IA (imagen y texto) | 18 |
+| 18 Técnica y cómo replicarla | 19 |
+| 19 Texturas 2D | 20 |
+| 20 Gustos y detalles | 21 |
+| 21 Por qué la aman | 22 |
+| 22 Fan dubs y comunidad hispana | 23 |
+| 23 Colaboraciones y cruces | 24 |
+| 24 Obras parecidas | 25 |
+| 25 El mundo y sus símbolos | 26 |
+| Tres conceptos de lámina | 27 |
+| Cumplimiento del encargo · Bitácora | 30 · 31 |
 
 ---
 
