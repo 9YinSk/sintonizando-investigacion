@@ -37,7 +37,7 @@ guardar() {
   git commit -q -m "Guardado a medias: ${lista% }" -m "Trabajo sin terminar de los ayudantes, guardado por si se corta la sesion. Las casillas de TANDAS.md siguen sin marcar.
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo"
+Claude-Session: https://claude.ai/code/session_012mCDHDxtrNcHCcaQVnngV7"
   for espera in 0 2 4 8 16; do
     sleep "$espera"
     if git push -q -u origin "$rama" 2>/dev/null; then
