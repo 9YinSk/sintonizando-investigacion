@@ -978,3 +978,158 @@ of escrito está en §19.
    roja, §25).
 
 ---
+
+## 15 · Poses analizadas por personaje
+
+Salen de lo mirado (OP1 y tráiler en 1280×720; clips por storyboard) y de
+las hojas. «Sirve para» usa los verbos del encargo.
+
+### Askeladd (6 + 1 de la hoja)
+
+| # | Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|---|
+| 1 | hoja `personajes_01.jpg` #17 (diseño oficial) | De pie, **espada apoyada en el hombro**, cuerpo entero, peso en una pierna | **Presentar** |
+| 2 | ep. 24, [clip](https://www.youtube.com/watch?v=PF2NTT_mnps) | Banda roja en la frente, ojo entrecerrado, gesto gruñón mientras dice «this part is important» | **Explicar**, instruir |
+| 3 | tráiler T2, [1:21](https://www.dailymotion.com/video/x8h1n5b?t=81) | En primera fila de un grupo de mercenarios, espada en alto, mirada al frente | **Presentar** a un líder ⚠️ puede no ser él |
+| 4 | ep. 24, mismo clip | Tendido, ensangrentado, sostenido por otro; cara relajada | Despedida, sacrificio |
+| 5 | [clip 1nRt6tiU20g](https://www.youtube.com/watch?v=1nRt6tiU20g) | Cara y pelo con sangre, bandana torcida, ojos muy abiertos, gritando | Horror, dolor ⚠️ escena sin identificar |
+| 6 | mismo clip | Un solo ojo muy abierto en la oscuridad | Miedo antes de actuar |
+| 7 | mismo clip | Boca abajo, cara de perfil con sangre, junto a una figura pequeña tendida | Escena dura ⚠️ contexto sin confirmar |
+
+### Thorfinn (7)
+
+| # | Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|---|
+| 1 | OP1, [0:27](https://www.dailymotion.com/video/x8bcl5n?t=27) | Primer plano de niño, ojos muy abiertos, manto de piel oscura, viento en el pelo | Reaccionar con miedo |
+| 2 | OP1, [0:45](https://www.dailymotion.com/video/x8bcl5n?t=45) | Primer plano cerrado, mirada fija a cámara, dientes apretados | **Pensar**, decidirse |
+| 3 | OP1, [0:51](https://www.dailymotion.com/video/x8bcl5n?t=51) | De espaldas, corriendo por la nieve hacia una casa, brazos en movimiento | **Animar** (dinamismo) |
+| 4 | tráiler T2, [1:42](https://www.dailymotion.com/video/x8h1n5b?t=102) | Recibe un puñetazo sin devolverlo, cuerpo hacia atrás, brazo cruzado sobre la cara | **Explicar** su pacifismo |
+| 5 | tráiler T2, [1:31](https://www.dailymotion.com/video/x8h1n5b?t=91) | Tira de una cuerda atada a un tocón, músculos tensos, cabeza gacha | Trabajar, perseverar ⚠️ puede ser Einar |
+| 6 | ep. 4, [clip](https://www.youtube.com/watch?v=LPnQ74j1dqY) | Niño, ojos muy abiertos, boca entreabierta, mirando arriba con horror | La escena que hace llorar |
+| 7 | ep. 24, [clip](https://www.youtube.com/watch?v=PF2NTT_mnps) | Joven rubio llorando, manos temblorosas sosteniendo a Askeladd | Culpa ⚠️ puede ser Canute |
+
+Además: la **hoja de diseño de color de Thorfinn granjero** (artbook) da
+de frente, de espalda y 12 caras; el fondo de fans **wallhaven-lmddyq**
+lo muestra **de espaldas con capa mirando el amanecer** (pensar).
+
+### Canute (6)
+
+| # | Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|---|
+| 1 | [discurso](https://www.youtube.com/watch?v=Zt85YuG0-_Y) | De pie, capa roja real, viento en el pelo corto, mirando el horizonte sobre el mar al atardecer | **Presentar** con autoridad |
+| 2 | mismo clip | Primer plano, cara girada, fría, ceño fruncido | **Regañar**, imponerse |
+| 3 | tráiler T2, [1:10](https://www.dailymotion.com/video/x8h1n5b?t=70) | Cara a cara con un hombre mayor, puño cerrado | Explicar, confrontar |
+| 4 | [clip rsZc66_fisM](https://www.youtube.com/watch?v=rsZc66_fisM) | De pie en la nieve, capa roja, mirando a un hombre mayor de barba gris | Pedir compasión, cuestionar una orden |
+| 5 | mismo clip | Primer plano, ojos muy abiertos, boca entreabierta, mirando abajo a un hombre herido | Angustia |
+| 6 | mismo clip | Solo, de espaldas en un campo nevado con árboles secos, pelo largo sobre la capa | **Pensar**, estar a solas |
+
+### Einar (6)
+
+| # | Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|---|
+| 1 | tráiler T2, [0:19](https://www.dailymotion.com/video/x8h1n5b?t=19) | Silueta a contraluz entre humo y fuego rojo, un brazo alzado | Narrar su pasado (voz en off) |
+| 2 | tráiler T2, [0:39](https://www.dailymotion.com/video/x8h1n5b?t=39) | Niño llorando a gritos en la aldea en llamas | La escena que hace llorar |
+| 3 | tráiler T2, [1:31](https://www.dailymotion.com/video/x8h1n5b?t=91) | De espaldas, tirando de la cuerda | Trabajar ⚠️ puede ser Thorfinn |
+| 4 | [clip Netflix](https://www.youtube.com/watch?v=Zk4Iy5PBsOw), ~0:14 | Primer plano, mira arriba, boca cerrada, cejas fruncidas | Cautela ante alguien nuevo |
+| 5 | mismo clip, ~0:31 | Lágrima, mirada de reojo, mandíbula tensa | Tristeza silenciosa |
+| 6 | mismo clip, ~1:16 | Ojos muy abiertos, cejas arriba, boca entreabierta | Sorpresa |
+
+### Thors (2)
+
+- OP1, [1:15](https://www.dailymotion.com/video/x8bcl5n?t=75): **contrapicado
+  heroico**, cicatrices, sangre en la túnica → **presentar**.
+- Clip ep. 2, 1:58-2:04: **arrodillado a la altura de una niña** (Ylva)
+  para despedirse → **explicar** con calma a alguien pequeño.
+
+### Resumen: qué pose para qué
+
+| Para… | La mejor |
+|---|---|
+| **Presentar** | Askeladd con la espada al hombro (#17 de la hoja); Canute en el discurso; Thors en contrapicado (OP1 1:15) |
+| **Explicar** | Askeladd, «this part is important» (ep. 24); Thors arrodillado (ep. 2) |
+| **Celebrar** | ⚠️ **ninguna**: la serie casi no celebra. Lo más cercano: Thorkell riéndose al frenar un ejército (ep. 9-10, sin fotograma) |
+| **Regañar** | Canute frío (discurso); Thors serio (ep. 2, 0:53-1:52) |
+| **Pensar** | Canute solo en la nieve; Thorfinn de espaldas al amanecer; Thorfinn OP1 0:45 |
+| **Animar** | Thorfinn niño corriendo (OP1 0:51); el «¡Ven!» del reencuentro (T2 ep. 1, 2:36) |
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Hex de `estilo.py --colores 6` sobre hojas de diseño oficiales (no fan
+art). Si el fondo pesa en la medida, lo aviso.
+
+| Personaje | Ropa por arco | Hex medidos | Fuente |
+|---|---|---|---|
+| **Thorfinn** | **Guerra** (niño soldado, 1013-1014): capa con capucha y **ribete de piel oscura**, cuero ajustado. **Esclavo**: ropa sencilla. **Vinlandia** (27 años): **túnica con capucha caqui**, polainas envueltas, cinturón con funda de daga. Siempre **dos cuchillos**. Pelo corto y despeinado; se lo peina hacia atrás antes de ir a Vinlandia | `#BAA16E` capucha caqui, `#E4CCAD` luces crema, `#7E6A46` sombra, `#443A2D` línea | [hoja de color del artbook](https://static.wikia.nocookie.net/vinlandsaga/images/9/94/AnimationWorksPreview_Thorfinn.png) + [wiki, Appearance](https://vinlandsaga.fandom.com/wiki/Thorfinn#Appearance) ✅ |
+| **Askeladd** | Niño: ropa raída, descalzo, cubierto de ceniza. Adulto: **coraza de cuero sin mangas con hombreras de metal** sobre túnica de manga larga; en el diseño del anime, **coraza negra, faldón beige y botas marrones** (hoja #17). Pelo **rubio ondulado a la altura del mentón**, **perilla**. Al final, **banda roja en la frente** (ep. 24) | `#6D5B42`, `#D9C08D` (túnica) ⚠️ fondo negro en la medida | [hoja del artbook](https://static.wikia.nocookie.net/vinlandsaga/images/c/c7/AnimationWorksPreview_Askeladd.png) + wiki ✅ |
+| **Canute** | T1: **pelo rubio largo**, capa roja con piel. T2 (rey): **pelo corto tipo melena corta**, perilla, **cicatriz bajo el ojo izquierdo** (se la hizo Thorfinn), capa y **diadema** casi siempre | T1 `#9C403B` (túnica rojiza), T2 `#B46746` (capa terracota) | [diseño T1](https://static.wikia.nocookie.net/vinlandsaga/images/a/a6/Canute_anime_design.png), [diseño T2](https://static.wikia.nocookie.net/vinlandsaga/images/d/db/Canute_S2_anime_design.png) ✅ |
+| **Einar** | Alto, **pelo castaño rojizo**, ojos marrones en el manga y **azules en el anime**, **lunar a la izquierda del puente de la nariz**, musculoso. **Camisa verde** | `#7A7646` (camisa verde) | [diseño T2](https://static.wikia.nocookie.net/vinlandsaga/images/7/74/Einar_S2_anime_design.png) + [wiki](https://vinlandsaga.fandom.com/wiki/Einar#Appearance) ✅ |
+| **Jomsvikings** | **Capa blanca**, **escudo rojo y amarillo**, **hacha de un filo con un ojo grabado** | — | [wiki: Jomsvikings](https://vinlandsaga.fandom.com/wiki/Jomsvikings) ✅ |
+| **Thorkell** | ⚠️ no se midió su armadura | — | — |
+
+**La ropa «icónica»** que todo fan reconoce: la **capucha caqui de
+granjero de Thorfinn** y **sus dos cuchillos** (key visual de la T2 y
+portada del artbook) ✅.
+
+**Etiquetas que más se repiten al dibujarlos** (Danbooru, vocabulario de
+las IA de imagen, `datos-imagen.md`):
+
+- Thorfinn: blonde_hair, short_hair, brown_eyes, knife, dagger,
+  **dual_wielding**, **reverse_grip**, fur_trim, capelet, hood, tunic,
+  viking.
+- Askeladd: blonde_hair, short_hair, beard, **goatee**, blue_eyes,
+  mature_male, sword, armor, smile, **aquiline_nose**, viking.
+- Canute: blonde_hair, blue_eyes, long_hair, **androgynous**, scar,
+  scar_on_face, fur_trim, headband, cloak.
+- Einar: brown_hair, short_hair, **thick_eyebrows**, **green_shirt**,
+  blue_eyes, muscular, blush.
+
+**Cosplay de Thorfinn** (guía de [Carbon Costume](https://carboncostume.com/thorfinn-from-vinland-saga/)
+⚠️): peluca rubia despeinada, ribete de piel marrón, túnica beige,
+cinturón con hebilla plateada, daga de utilería.
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+### Los sitios de la serie
+
+| Sitio | Luz y hora | Referencia |
+|---|---|---|
+| **Islandia** (infancia) | Invierno, blanco frío de día; aurora de noche | [Iceland](https://static.wikia.nocookie.net/vinlandsaga/images/f/f2/Iceland%282%29.jpg) (1024×488), OP1 0:51 y 1:00 |
+| **Inglaterra y Gales** (guerra) | Praderas verdes de día; castillos con fuego y relámpagos de noche | mapas de [Gales](https://static.wikia.nocookie.net/vinlandsaga/images/d/d9/Wales.png) (1584×1304), OP1 0:27, tráiler 2:02 |
+| **Granja de Ketil** (esclavitud) | Mediodía en el bosque, verde oscuro y piel al sol | tráiler 1:31 ⚠️ la página de la wiki **no tiene ninguna imagen** |
+| **Jomsborg** (base jomsvikinga) | Fuerte circular junto al agua; de noche con fuegos | manga, caps. 130, 138 y 146 ([cap. 130](https://static.wikia.nocookie.net/vinlandsaga/images/a/a4/Chapter_130_Screenshot.PNG), 1115×808) |
+| **El mar** | Tormenta (OP1), atardecer entre fiordos (ED1), aurora de noche | OP1 y ED1 |
+| **Casa larga** | Interior de madera oscura con el fuego como único foco; por fuera, nevada | artbook «Scenery» (hoja `fondos_01.jpg` #9) |
+| **Puerto vikingo** | Día nublado, agua turbia, muelles de madera | tráiler 1:17 |
+| **Vinlandia** (Isla del Príncipe Eduardo, «Epekwitk» en mi'kmaq) | Bosque, colonos y nativos | tomo 27; mapa del opening |
+| **Markland** | — | un mapa en la wiki |
+
+Categoría de lugares de la wiki: Iceland, Jomsborg, Markland, Vinland,
+Wales, Arnheid Village ([Category:Locations](https://vinlandsaga.fandom.com/wiki/Category:Locations)) ✅.
+
+### Fondos de pantalla (Wallhaven, aptos, 1920×1080 o más)
+
+| Tamaño | ♥ | Qué es | Autor | Enlace |
+|---|---|---|---|---|
+| 3840×2160 | 143 | Brazo encadenado con espada, gris | mushit | [6d5zgl](https://w.wallhaven.cc/full/6d/wallhaven-6d5zgl.jpg) |
+| 1920×1080 | 101 | Espada, blanco y negro de manga | nidko8 | [poj76e](https://w.wallhaven.cc/full/po/wallhaven-poj76e.png) |
+| 4096×2340 | 54 | Thorfinn con globo en inglés, manga | theflyboy667 | [1pzgl1](https://w.wallhaven.cc/full/1p/wallhaven-1pzgl1.png) |
+| 1920×1080 | 51 | Ruinas de noche con luna | Nemr0d | [q6oor5](https://w.wallhaven.cc/full/q6/wallhaven-q6oor5.png) |
+| 1920×1080 | 50 | Reflejo en el agua, cielo | TankerNejla | [1pgjzg](https://w.wallhaven.cc/full/1p/wallhaven-1pgjzg.png) |
+| 1920×1080 | 38 | Ruinas, colinas, mañana (columna romana) | Nemr0d | [dgdd8j](https://w.wallhaven.cc/full/dg/wallhaven-dgdd8j.png) |
+| 4096×2160 | 38 | Thorfinn con cuchillo, fondo liso | kazro | [w5dgr7](https://w.wallhaven.cc/full/w5/wallhaven-w5dgr7.jpg) |
+| 1920×1080 | 37 | Thorfinn de espaldas al amanecer, Inglaterra | Nemr0d | [lmddyq](https://w.wallhaven.cc/full/lm/wallhaven-lmddyq.png) |
+| 3000×2000 | 35 | Thorfinn, fondo liso | AlexisGt123 | [r26w8q](https://w.wallhaven.cc/full/r2/wallhaven-r26w8q.jpg) |
+| 1920×1080 | 32 | Ruinas al amanecer | Nemr0d | [zm99pv](https://w.wallhaven.cc/full/zm/wallhaven-zm99pv.png) |
+| 1920×1080 | 24 | Thorfinn con capucha y daga, fondo oscuro | DrPlaga049 | [2yjm2m](https://w.wallhaven.cc/full/2y/wallhaven-2yjm2m.png) |
+
+**Lo que muestran**: los fondos más guardados son de **noche o
+amanecer**, paleta fría y poco saturada, o **blanco y negro de manga**.
+
+⚠️ **No se encontraron fondos de pantalla oficiales** del estudio o la
+editorial (sólo de fans).
+
+---
