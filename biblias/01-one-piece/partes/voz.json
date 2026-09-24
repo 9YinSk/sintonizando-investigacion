@@ -1,0 +1,20 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251127120726",
+  "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Tashigi",
+  "ancho": 1210,
+  "alto": 1851,
+  "que_es": "Retrato oficial de Tashigi, la capitana de la Marina cuya voz latina (Ivett Toriz, temp. 9ª) dice textualmente «Los carteles de Se Busca acaban de llegar» (partes/voz.md, §8). Tres actrices latinas confirmadas para el personaje.",
+  "para_que": "Ilustra de quién es la voz que confirma «SE BUSCA» en el doblaje latino, clave para el objeto del encargo (carteles de SE BUSCA). No estaba en personajes.json.",
+  "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128044952",
+  "fuente": "One Piece Wiki (API, pageimages) · https://onepiece.fandom.com/wiki/Marshall_D._Teach",
+  "ancho": 1920,
+  "alto": 2185,
+  "que_es": "Retrato oficial de Marshall D. Teach «Barbanegra». Este repaso confirmó sus dos voces latinas (Rubén Trujillo → Carlos Segundo desde Marineford), que no estaban en partes/doblaje.md.",
+  "para_que": "Villano importante sin ninguna imagen ni dato de doblaje antes de este repaso; sirve si una lámina o texto del bot lo menciona.",
+  "licencia": "Captura del anime (© Eiichiro Oda/Shueisha, Toei Animation); en One Piece Wiki como {{Screenshot}}. Sólo referencia, no pegar."
+ }
+]
