@@ -46,7 +46,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S5 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/17-arcane.md`, `encargos/18-death-note.md`, `encargos/19-doraemon.md`, `encargos/20-dr-stone.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 17-arcane
+- [x] 17-arcane
 - [ ] 18-death-note
 - [ ] 19-doraemon
 - [ ] 20-dr-stone
