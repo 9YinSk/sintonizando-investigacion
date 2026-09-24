@@ -7,7 +7,8 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 
 - Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
 - 77 Wistoria: 4 investigadores (Sonnet) COMPLETOS (imagen, video, voz, texto), nada obligatorio pendiente. Redactor (Opus) lanzado 22:10 UTC.
-- 78-82: recolectando datos (gratis), con su wiki de Fandom.
+- 78 Vinland Saga: 4 investigadores (Sonnet) en marcha desde 22:11 UTC.
+- 79-82: recolectando datos (gratis), con su wiki de Fandom.
 
 ## Avisos para el dueño
 
