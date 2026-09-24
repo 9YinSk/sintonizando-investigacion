@@ -131,7 +131,8 @@ oficiales, Wayback, entrevistas a los actores latinos y vídeos vistos sólo por
 - **El cuadro de diálogo propio**: la ficha «Información pública del momento».
   Papel gris claro `#F2F2F2`, texto en mincho y una cinta de pincel **del color
   del episodio** (rojo sangre sólo en el ep. 1; tribunal verde, limpieza ocre,
-  saludo oro viejo). Medida en sus 54 versiones (§7.1).
+  saludo oro viejo). Medida en sus 54 versiones (§7.1). En los juegos, **sin
+  caja**: nombre sobre una línea crema, texto blanco y una ✓ (*AoT 2*, §12).
 - **Frase latina segura**: «¡Consagren sus corazones!» (Erwin, Octavio Rojas,
   ep. 16 · 14:13; y la gente en el ep. 71, clip oficial de Crunchyroll).
   De Levi (Gabriel Basurto): «Yo no planeo estrategias. Eso no me compete»
@@ -1017,8 +1018,8 @@ japonesa, [sección «日常パート» y «交流»](https://www.gamecity.ne.jp
 - **Los cadetes barren el patio con escobas de ramas**, levantando polvo, y
   **Levi los vigila en el centro**, de pie y con los brazos caídos; detrás, un
   campanario de piedra y cielo azul ([captura](https://www.gamecity.ne.jp/shingeki2/images/img-system1-4.jpg)).
-  Es la «vida en el campamento» de §7.3: **el castigo de limpiar es oficial
-  también en los juegos**.
+  Es la «vida en el campamento» de §7.3: **limpiar bajo la mirada de Levi
+  también es parte de los juegos** (la web no dice si es castigo).
 
 De *Wings of Freedom* las 5 capturas de Steam (app 449800) son de combate, sin
 diálogo; las 5 de *AoT 2* en Steam (app 601050), igual. Ahí sí enseñan que
@@ -1409,7 +1410,7 @@ cuartel), E·1 (tribunal), E·14 (noche con antorchas), G1/P·4 (grupo y saludo)
   (y E·18). Encima va una **hoja de papel verjurado clavada**, con las normas,
   con la **orla de enredaderas** de la ficha del ep. 25 (F·10). En Blender es
   fácil: una tabla, un papel con ondas, clavos, el cubo y la escoba de Sketchfab
-  (§4.1). **Lo confirma el juego oficial**: el menú de equipo de *Attack on
+  (§4.1). **Encaja con el juego oficial**: el menú de equipo de *Attack on
   Titan 3* pone **un pergamino manchado sobre madera oscura, con clavos y un
   martillo** al lado ([captura de Steam](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/228cc88fa364676b8dfd4a82b7cac9fe578cb8ec/ss_228cc88fa364676b8dfd4a82b7cac9fe578cb8ec.1920x1080.jpg), §12):
   copiar de ahí el tono del papel (`#7B6953`-`#AD9981`) y de la madera
@@ -1570,7 +1571,7 @@ Lo que no pude mirar o no existe con la red de hoy:
 | 3 · Fan art y 3D con licencia | ✅ | 20 modelos de Sketchfab CC BY (licencia y autor por API), texturas Poly Haven CC0, fan art de Pixiv, ArtStation, DeviantArt y Reddit con autor |
 | 4 · Fondos, luz, paleta y texturas | ✅ | hex medidos con Pillow en 20 sitios y prendas (§5), texturas reales (§4.2) |
 | 5 · Tipografía con tildes, ñ, ¿ ¡ | ✅ | 6 letras libres comprobadas con fontTools; créditos latinos vistos (§6). Falta la fuente del manga en inglés |
-| 6 · Cómo hablan en pantalla | ✅ | la ficha «Información pública» medida en sus 54 versiones, globos del manga, cartelas de la T4, interfaz de *AoT 3* (§7, §12) |
+| 6 · Cómo hablan en pantalla | ✅ | la ficha «Información pública» medida en sus 54 versiones, globos del manga, cartelas de la T4, **caja de diálogo de *AoT 2*** y menús de *AoT 3* con hex (§7, §12) |
 | 7 · Personajes y encuestas | ✅ | 4 encuestas oficiales + Nlab; Levi gana 3 de 4; en China (Bangumi) gana Mikasa y Levi es segundo (§8) |
 | 8 · Doblaje latino, dos fuentes | ✅ | reparto y equipo en Doblaje Wiki (API) + FUNiAnime/ANMTV/Crunchyroll; quedan 3 datos con una sola fuente (§20) |
 | 9 · Música | ✅ | openings y endings con intérprete (vídeos oficiales de Pony Canyon), Sawano y Yamamoto; OP 2 y ED 1 mirados (§10) |
