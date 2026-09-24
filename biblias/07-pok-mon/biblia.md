@@ -8,30 +8,75 @@ fecha: 2026-09-24
 # Biblia · Pokémon — para #autoroles
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom, Bulbapedia, WikiDex,
->   Doblaje Wiki, PokéAPI, Sketchfab, Google Fonts, pokemon.com y Game UI
->   Database daban **403** por curl y por WebFetch. Por eso **no se pudo
->   correr** `herramientas/investigar_serie.py`: **no hay hojas de
->   contacto** ni carpeta `hojas/`.
-> - Hice **50 búsquedas web** en español, inglés, japonés y coreano. Una
->   (Reddit) la rechazó el buscador.
-> - GitHub sí respondía, y ahí estaba lo mejor:
->   1. **El código de los juegos de Game Boy y GBA** (proyectos `pret`).
->      De ahí saqué **medidas exactas** de la caja de texto, sus colores y
->      sus bordes. No es de memoria: es el código.
->   2. **El texto oficial en español de Pokémon Rojo, Azul y Amarillo.**
->      Las frases de Oak en el laboratorio, palabra por palabra.
->   3. **El arte oficial de los Pokémon** (PokéAPI), con su tamaño real, y
->      colores **medidos** por mí sobre esas imágenes.
->   4. **Subtítulos con tiempos** de *La película Pokémon: ¡Yo te elijo!*
->      (2017), que rehace el capítulo 1 en alta definición. Con ellos doy el
->      **minuto** de la escena del laboratorio.
->   5. **Las letras.** Las bajé y comprobé una a una si traen á é í ó ú ñ ¿ ¡.
-> - Fuentes: **190 enlaces de 83 sitios distintos** (oficiales, wikis en
->   cuatro idiomas, prensa, foros, arte, vídeo, 3D, letras y código).
-> - ✅ **confirmado**: dos fuentes, o lo comprobé yo en el archivo.
->   ⚠️ **dudoso**: una sola fuente, o lo digo de memoria. Lo de memoria
->   siempre va marcado.
+> **Primera pasada (red cerrada).** Fandom, Bulbapedia, WikiDex, Doblaje
+> Wiki, PokéAPI, Sketchfab, Google Fonts, pokemon.com y Game UI Database
+> daban **403**. Se usó GitHub (código de los juegos `pret`, PokéAPI,
+> subtítulos de la película de 2017, letras) y **50 búsquedas web** en
+> español, inglés, japonés y coreano. De ahí salen las medidas exactas de
+> la caja de texto de Game Boy y el texto oficial en español de Rojo/Azul.
+>
+> **Segunda pasada (24-sep-2026, red abierta).** La hizo un equipo:
+> investigadores de imagen, vídeo, voz y texto, y un redactor que junta
+> todo aquí. Se pudo usar:
+> - **El capítulo 1 real** (Internet Archive, doblaje inglés de 4Kids),
+>   **mirado fotograma a fotograma** con `fotogramas.py`. Los minutos del
+>   laboratorio y de los Spearow ya son del capítulo, no de un subtítulo.
+> - **Doblaje Wiki por su API**: reparto completo y **11 muestras de audio**
+>   de los actores latinos, transcritas y medidas con `voz.py`.
+> - **Dailymotion**: opening, ending, tráiler de Rojo/Azul, tráiler latino
+>   de *¡Yo te elijo!* y el lema del Rocket, mirados y oídos.
+> - **API de Bulbapedia** (la web normal sigue en 403), **API de
+>   pokemon.fandom.com** (4 hojas de contacto, 180 imágenes con tamaño real),
+>   **API de Sketchfab** (licencias y autores reales), `estilo.py` (colores
+>   medidos), `fontTools` sobre el archivo real de Pokémon Solid, Wikipedia
+>   en inglés, español y japonés, CGWORLD, AWN, Interface In Game y Arctic
+>   Shift (Reddit).
+> - Siguió bloqueado: **YouTube** (pide iniciar sesión), TikTok,
+>   pokemon.com (anti-bot), Game UI Database y Wayback (403), AnimeThemes
+>   (caída). Por eso el capítulo 1 se vio en **480p**, que es su calidad
+>   original de 1997; no hay fotogramas en 1080p.
+> - ✅ **confirmado**: dos fuentes, o comprobado por nosotros en el archivo,
+>   el audio o el fotograma. ⚠️ **dudoso**: una sola fuente, o de memoria.
+---
+
+## Segunda pasada · qué cambió
+
+_(se completa al terminar el repaso)_
+
+## Índice
+
+Las secciones 0-21 siguen el orden de la primera pasada. Las **P18-P25** son
+los puntos 18-25 de `ENCARGO.md`, nuevos en esta pasada.
+
+| Sección | Punto de ENCARGO.md |
+|---|---|
+| 0 · El canal · 1 · Resumen | textos del canal |
+| 2 · Arte oficial (con las **hojas de contacto**) | 1 |
+| 3 · Escenas icónicas con su minuto | 2 |
+| 4 · Fan art y 3D | 3 |
+| 5 · Sitios, luz, paleta y texturas | 4 |
+| 6 · Tipografía | 5 |
+| 7 · El cuadro de diálogo | 6 |
+| 8 · Los personajes · 9 · El más querido | 7 y 13 |
+| 10 · Doblaje latino | 8 |
+| 11 · Música | 9 |
+| 12 · Vídeos | 10 |
+| 13 · Videojuegos | 11 |
+| 14 · Lo que ama el fandom | 12 |
+| 15 · Poses | 14 |
+| 16 · Vestuario | 15 |
+| 17 · Paisajes y fondos | 16 |
+| 18 · Guía para IA de imagen y de texto | 17 |
+| P18 · Estilo de dibujo y técnica | 18 |
+| P19 · Texturas 2D | 19 |
+| P20 · Gustos y detalles | 20 |
+| P21 · Por qué la aman | 21 |
+| P22 · Fan dubs y comunidad hispana | 22 |
+| P23 · Colaboraciones y cruces | 23 |
+| P24 · Obras parecidas | 24 |
+| P25 · El mundo y sus símbolos | 25 |
+| 19 · Tres conceptos · 20 · Lo que no pude verificar | conceptos |
+| Cumplimiento del encargo · 21 · Bitácora | tabla y fuentes |
 
 ---
 
@@ -88,10 +133,10 @@ Propuesta en el punto 19.
 | Objeto del plan, mejorado | **El soporte del laboratorio de Oak con las Pokébolas**, como en el capítulo 1: tres huecos y **un cuarto en el centro** del que sale **la Pokébola del rayo**, la de Pikachu ✅. Cada Pokébola lleva colgada una pregunta. |
 | La broma que un fan pilla | En el capítulo, Oak avisa: «hay otro, pero tiene **un problema**». Esa Pokébola, la del rayo, es la de **soporte**: «¿Algo no funciona?». |
 | Frase oficial de Oak | «¡Aquí hay 3 Pokémon! ... Te daré uno. **¿Cuál quieres?**» (Pokémon Rojo/Azul en español ✅, texto del juego). |
-| Minuto de la escena | Película *¡Yo te elijo!* (2017), laboratorio de **00:03:03 a 00:05:11**. La Pokébola del rayo sale hacia **00:04:12**. Minutos de un subtítulo no oficial: pueden moverse unos segundos. |
+| Minuto de la escena | **Capítulo 1 real, mirado** (Internet Archive, doblaje inglés): las tres Pokébolas en triángulo a las **5:56**, la del rayo se abre a las **6:48**, sale Pikachu a las **6:58** y el abrazo chamuscado a las **7:18** ✅. En la película de 2017: laboratorio de 00:03:03 a 00:05:11 (subtítulo no oficial). |
 | El más querido | En la votación mundial oficial de 2020, **Charizard** quedó **4.º** y **Pikachu 19.º** ✅. En Japón (2016), Pikachu fue 4.º ✅. Pikachu es la cara; Charizard, el favorito de los votos. |
-| Voz latina | Oak: **Hugo Navarrete** ✅. Ash: **Gabriel «Gabo» Ramos** (temporadas 1 a 12) y **Miguel Ángel Leal** desde la 13 ✅. Pikachu: **Ikue Ōtani** en todos los idiomas ✅. |
-| Palabra latina | En el doblaje latino se dice **Pokébola**, no «Poké Ball» ⚠️ (una fuente clara). |
+| Voz latina | Oak: **Hugo Navarrete** ✅, con su muletilla real «hay un problema con este último» (muestra de Doblaje Wiki). Ash: **Gabriel «Gabo» Ramos** (temporadas 1 a 12) y **Miguel Ángel Leal** desde la 13 ✅. Pikachu: **Ikue Ōtani** en todos los idiomas ✅. |
+| Palabra latina | En el doblaje latino se dice **Pokébola**, no «Poké Ball» ✅ (WikiDex y reseñas del doblaje, punto P25). |
 | Letras | **pokemon-font** (la de Game Boy, OFL) y **Press Start 2P** (OFL): las dos traen á é í ó ú ñ ¿ ¡ y ▼, comprobado en el archivo. Logo: **Pokémon Solid** (de fans, licencia poco clara) o **Lilita One** (OFL). |
 | Tono | Mañana soleada en Pueblo Paleta. Blanco de laboratorio, madera, cielo menta y celeste. Alegre, de principio de viaje. |
 
@@ -941,6 +986,54 @@ los juegos).
 
 ---
 
+## P18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+_(pendiente)_
+
+---
+
+## P19 · Texturas 2D
+
+_(pendiente)_
+
+---
+
+## P20 · Gustos y detalles de cada personaje
+
+_(pendiente)_
+
+---
+
+## P21 · Por qué la gente la ama
+
+_(pendiente)_
+
+---
+
+## P22 · Fan dubs y comunidad hispana
+
+_(pendiente)_
+
+---
+
+## P23 · Colaboraciones, cruces, figuras y cosplay
+
+_(pendiente)_
+
+---
+
+## P24 · Obras parecidas y temas relacionados
+
+_(pendiente)_
+
+---
+
+## P25 · El mundo, la historia y sus símbolos
+
+_(pendiente)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #autoroles
 
 > Los tres usan la misma idea de fondo: **elegir tus roles es elegir tu
@@ -1095,6 +1188,12 @@ C es la más bonita de luz. B es la más sencilla de montar.
 - **El país**: ¿reacción aquí o en Canales y roles? Lo decide el dueño.
 - **La lista real de roles** (colores, países, talentos): no está en el
   inventario.
+
+---
+
+## Cumplimiento del encargo
+
+_(pendiente)_
 
 ---
 

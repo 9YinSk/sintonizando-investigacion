@@ -76,6 +76,17 @@ comprobó con `TTFont(f).getBestCmap()` si traen á é í ó ú Á É Í Ó Ú �
   **Letra libre equivalente:** **Comic Neue** (ya comprobada arriba, trae
   todo). Sirve para el globo normal del manga o del ticket si se quiere un
   aire de cómic.
+- **Portada del tomo 1 vista de verdad** (miniatura oficial de la ficha del
+  libro en Internet Archive, no de memoria): el título «BIG HERO 6» en la
+  portada del manga usa una letra de palo **blanca, gruesa y recta** dentro de
+  una banda roja — **distinta del logo irregular a mano de la película**
+  (arriba, punto 5); llevan el logo de Disney encima y el número de tomo
+  abajo a la izquierda · [Internet Archive, Big Hero 6 Vol. 1](https://archive.org/details/bighero6vol10000ueno)
+  (miniatura oficial, 180×276) · **vista directamente (Read)** y medida con
+  `estilo.py` · ✅ · hex: gris claro de fondo `#B9B7B7`, azul-morado del pelo
+  de Hiro `#2E2641`, piel `#AE5925`, azul del cartel de fondo `#0F95D0`. El
+  interior del libro está protegido (préstamo digital, PDF cifrado): no se
+  pudieron ver páginas con globos de diálogo.
 
 ### Tabla de «una letra según cada uso» (con lo nuevo añadido)
 | Uso | Letra libre | ¿Tildes/ñ/¿¡? |
