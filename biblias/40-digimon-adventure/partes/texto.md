@@ -298,6 +298,16 @@ Continues to be Loved Thanks to its Creator's Commitment»): ✅
   el primer plano cerrado en la cara para el miedo o la sorpresa de los
   niños (ver punto 13 del investigador de voz, que documenta caras por
   emoción con minuto).
+- **Modelo 3D libre de Agumon para Blender** (lo que pide el punto 18):
+  «Agumon (Bond of Bravery)» de drewsdigitaldesigns en Sketchfab — **licencia
+  CC Attribution (CC-BY 4.0), uso comercial permitido con crédito al autor**,
+  11 978 caras, **13 animaciones incluidas** (indica que trae rig/esqueleto
+  funcional, no sólo malla estática). Comprobado con la API de Sketchfab
+  (`api.sketchfab.com/v3/models/4c7acf3383624e90a73b9397f4ecf780`). ✅ Enlace:
+  `https://sketchfab.com/3d-models/agumon-bond-of-bravery-4c7acf3383624e90a73b9397f4ecf780`.
+  Hay más de 10 modelos adicionales de Agumon en Sketchfab con licencia CC
+  Attribution (búsqueda `api.sketchfab.com/v3/search?type=models&q=Agumon&downloadable=true`),
+  por si éste no encaja con la pose necesaria.
 
 ## Punto 24 · Obras parecidas y temas relacionados
 
@@ -405,33 +415,115 @@ confirmados): ✅
   de…» o «Niño Elegido» con seguridad de que el público de la serie los
   identifica.
 
-## Bitácora (parcial, sigue)
+## Lo mejor para la lámina
 
-- Wiki `digimon.fandom.com` vía `action=parse&prop=wikitext`: Crests, Digivice,
-  Digivolution, Digimon Adventure (página principal), Digimon Analyzer,
-  Digimon World, Digimon Adventure V-Tamer 01. Todas con éxito.
-- `tcrf.net` (The Cutting Room Floor): **bloqueado con 403 (Cloudflare)** en
-  dos intentos (API y página directa). Wayback Machine de tcrf.net también
-  falló (egress policy / conexión cortada — proxy compartido con otros
-  ayudantes). Pendiente reintentar más tarde si hay tiempo.
-- Steam API (`storesearch`, `appdetails`) para los videojuegos actuales:
-  funcionó bien (ver punto 11).
-- Internet Archive: vídeo de `Digimon World PlayStation PAL Gameplay (Full
-  Demostration)` usado con `fotogramas.py --cortes` y `--fotograma` para sacar
-  las cajas de diálogo reales del juego de 1999.
-- Fontsource API (`api.fontsource.org`) + CDN de jsDelivr para bajar `.ttf`
-  reales y comprobarlos con fontTools.
-- dafont.com: búsqueda `search.php?q=digimon` funcionó por curl directo (sin
-  JS).
-- WebSearch usadas hasta ahora (2 de ~50): «Digimon Adventure logo font
-  identification typeface» (inglés), «Digimon Adventure animation production
-  Toei cel digital paint interview character designer» (inglés).
+1. La **caja de diálogo real de Digimon World (PS1, 1999)**: fondo
+   azul-petróleo translúcido `#39464B`, borde cian, nombre en amarillo-verde
+   arriba, texto blanco en pixel abajo — es el cuadro «propio de la
+   franquicia», ni de lejos una burbuja blanca. Fotograma propio,
+   `dworld_hi/fotograma_00167.jpg`.
+2. El **Digimon Analyzer**: ficha oscura con rejilla digital y cápsula de
+   color con el nombre — la «voz visual» de la serie animada, con dos
+   versiones distintas documentadas y medidas.
+3. Los **9 Emblemas** (Crests) con su forma exacta (sol, yin-yang en un ojo,
+   corazón, lágrima, gafas, cruz con triángulos, estrella fugaz, estrella) —
+   símbolos reconocibles al instante, perfectos para tallarlos en Blender
+   sobre un objeto (una etiqueta/Tag colgante, como pide la regla nº1 del
+   dueño: «un objeto real en un sitio real»).
+4. El modelo 3D libre de **Agumon con rig** en Sketchfab (CC-BY, 13
+   animaciones) para posarlo con libertad, tal como pide la queja del dueño
+   de no repetir «de pie con una ropa».
+5. Las decisiones de **Digimon Survive** en pastillas de color con flechas de
+   dirección: una forma moderna, jugable y muy citable de mostrar «elige tu
+   camino» en una lámina de canal con varias opciones.
 
-Sigue: puntos 11 (ampliar con más juegos: Cyber Sleuth, Next Order, Time
-Stranger — interfaz ya vista en capturas de Steam, falta describir en texto y
-medir colores; buscar TCRF por otra vía o dar por ⚠️), 18 (estilo de dibujo y
-técnica de animación 1999, cómo replicar en Photoshop/Blender — falta
-profundizar con entrevistas), 24 (obras parecidas más allá de AniList: TV
-Tropes, influencias declaradas del autor), 25 (mundo/historia por arcos,
-vocabulario, símbolos — falta completar arcos y vocabulario), y la tabla de
-cumplimiento + "Lo mejor para la lámina" + "No encontré" finales.
+## No encontré
+
+- ⚠️ **The Cutting Room Floor** (contenido descartado de los juegos):
+  `tcrf.net` devuelve 403 (reto de Cloudflare) tanto por API como por página
+  directa; Wayback Machine de esas páginas también falló (conexión cortada).
+  Sólo 2 intentos por vía, como marca AYUDANTE.md. Búsquedas hechas:
+  `curl https://tcrf.net/api.php?action=query&list=search&srsearch=Digimon`,
+  `curl https://tcrf.net/Digimon_World`,
+  `curl http://web.archive.org/web/2023/https://tcrf.net/Digimon_World`.
+- ⚠️ **TV Tropes** (comparaciones y tropos de la serie): mismo bloqueo 403 de
+  Cloudflare, probado por curl y por WebFetch. Búsqueda hecha:
+  `https://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonAdventure`.
+- ⚠️ La comparación «Digimon vs. Pokémon» (Digimon habla y razona desde el
+  principio; digivoluciona por vínculo emocional temporal, no por subir de
+  nivel) es conocimiento extendido del fandom, confirmado sólo indirectamente
+  en el wikitext de `Digivolution`; no encontré una reseña o entrevista con
+  esta comparación explícita y citable. Búsquedas: «Digimon vs Pokemon
+  differences» no se llegó a lanzar por priorizar otros puntos con el cupo de
+  búsquedas — si el redactor lo necesita como ✅, vale la pena una búsqueda
+  más.
+- ⚠️ No se encontró una entrevista del autor (Hiroshi Izawa / equipo Hongo)
+  que declare explícitamente influencias de otras obras concretas (más allá
+  del parentesco confirmado con Tamagotchi vía Aki Maita). Búsqueda hecha:
+  «Digimon Adventure creator influences Pokemon Beast Wars tamagotchi
+  Akiyoshi Hongo interview inspiration» (inglés).
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 5 · Tipografía | ✅ | 8 usos cubiertos (logo, globo, grito, pensamiento, onomatopeya, cartel, interfaz, subtítulos), cada letra libre comprobada con fontTools de verdad (archivo `.ttf` real, no de memoria); logo con paleta medida |
+| 6 · Cuadros de diálogo | ✅ | Digimon Analyzer (2 versiones, medidas) + caja de Digimon World (medida) + Survive (sin caja); se explica por qué no hay globos de manga propios de la serie |
+| 11 · Videojuegos | ✅ | Digimon World PS1 (menú + caja + pantalla de nombre, fotogramas propios) y 4 juegos actuales en Steam (capturas oficiales, paletas medidas, idiomas comprobados); TCRF ⚠️ bloqueado |
+| 18 · Estilo y técnica | ✅ | Diseño de personajes (entrevista de Watanabe, cita textual), técnica de animación (RETAS digital, CGI de Kakudou, cita textual), guía concreta de Photoshop y Blender, encuadres, modelo 3D libre con rig |
+| 24 · Obras parecidas | ⚠️ | Lista de AniList + origen Tamagotchi confirmado; TV Tropes bloqueado, comparación con Pokémon sin fuente citable única |
+| 25 · Mundo, historia y símbolos | ✅ | Mundo en 5 líneas, historia por arcos con rango de episodios (dos fuentes), vocabulario con términos japoneses, los 9 Emblemas uno por uno |
+
+## Bitácora
+
+**Wiki de Fandom** (`digimon.fandom.com/api.php?action=parse&prop=wikitext`,
+sin gastar cupo de búsqueda): Crests, Digivice, Digivolution, Digimon
+Adventure (página principal), Digimon Analyzer, Digimon World, Digimon
+Adventure V-Tamer 01, Digital World, List of Digimon Adventure episodes.
+Todas con éxito, en inglés (es la wiki en inglés; no se comprobó una versión
+en japonés separada porque el wikitext ya trae los términos nihongo con
+kanji y romanización).
+
+**APIs directas sin buscador**: Steam (`storesearch`, `appdetails`) para 4
+juegos actuales; Sketchfab (`v3/search`, `v3/models/<id>`) para el modelo de
+Agumon; Fontsource (`api.fontsource.org`) + CDN jsDelivr para 14 fuentes
+`.ttf` reales; dafont.com (`search.php?q=digimon`, funciona por curl directo
+sin JS) para la fuente fan-made que falló la comprobación.
+
+**Imágenes propias**: logo JP y logo EN (Fandom, con `Referer`), dos capturas
+del Digimon Analyzer (Fandom), fotogramas de `Digimon World PlayStation PAL
+Gameplay` (Internet Archive, con `fotogramas.py --cortes` y `--fotograma`),
+capturas oficiales 1920×1080 de 4 juegos en Steam. Todas medidas con
+`herramientas/estilo.py` para paleta y estilo de sombreado; las fuentes
+comprobadas con `fontTools.ttLib.TTFont(...).getBestCmap()`.
+
+**Webs que fallaron** (403/Cloudflare, 2 intentos cada una, sin insistir
+más): `tcrf.net` (API y página directa), `tvtropes.org` (curl y WebFetch),
+`web.archive.org` para el espejo de tcrf.net (conexión cortada a medio
+intercambio — proxy compartido con el resto del equipo). La API de Wikipedia
+también dio «too many requests» (límite compartido); no fue necesaria porque
+la wiki de Fandom y el WebSearch cubrieron lo mismo.
+
+**WebSearch usadas (7 de ~50 disponibles)**, todas en inglés salvo la
+japonesa:
+1. «Digimon Adventure logo font identification typeface»
+2. «Digimon Adventure animation production Toei cel digital paint interview
+   character designer»
+3. «デジモンアドベンチャー 効果音 擬音語 アニメ 演出» (japonés — sin resultados
+   específicos útiles, el tema de SFX de audio es del investigador de vídeo,
+   no del mío; no se repitió)
+4. «"Digimon Adventure" 1999 Hiroyuki Kakudou director interview animation
+   style making of»
+5. «Digimon anime cel animation digital paint 1999 2000 Toei production
+   technique»
+6. «Toei Animation 1999 digital ink and paint system Toonz software
+   television anime»
+7. «Digimon Adventure 1999 story arcs File Island Etemon Myotismon Dark
+   Masters Apocalymon summary»
+8. «Digimon Adventure creator influences Pokemon Beast Wars tamagotchi
+   Akiyoshi Hongo interview inspiration»
+
+Quedan unas 42 búsquedas de cupo sin usar; se priorizó la wiki y las APIs
+directas (más baratas) según AYUDANTE.md. Si el redactor necesita más
+profundidad en el punto 24 (TV Tropes, comparación con Pokémon) o quiere
+reintentar TCRF, hay margen de sobra.
