@@ -97,7 +97,7 @@ insisto más— pero el buscador sí indexa el texto de sus páginas:
   y Bandai **recortó mucho contenido a propósito**, para no revelar spoilers a
   la audiencia occidental del anime (que iba muy por detrás del japonés) ⚠️
   (una fuente).
-  ([resultados de búsqueda sobre tcrf.net](https://tcrf.net/Category:One_Piece_series), en_)
+  ([resultados de búsqueda sobre tcrf.net](https://tcrf.net/Category:One_Piece_series), en inglés)
 
 ### Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo (nuevo, todo mío)
 
@@ -402,3 +402,82 @@ nombre, opuestos en el fondo a los Nobles Mundiales
 `Pirate King` (Rey de los Piratas) · `One Piece` (el tesoro; también el
 nombre de la serie) · `Laugh Tale` (la última isla).
 
+## Lo mejor para la lámina
+
+1. **El muro de carteles de SE BUSCA sigue siendo la mejor idea de objeto**:
+   es más reconocible que cualquier otra cosa de la serie (Jolly Roger
+   incluido) y no se parece a ningún concepto ya usado en el servidor (24.3),
+   con tal de que el muro sea de madera de barco y clavos, no un tablón.
+2. **«べべん!!» en vez de «ドン!!»** si la escena de fondo evoca Wano: es un
+   dato exclusivo de esta parte, confirmado por el director de serie.
+3. **La ficha del reverso del cartel de ONE PIECE BASE** (Nickname/Bounty/
+   Devil Fruits/Haki/Affiliations) es un modelo ya oficial y listo para el
+   paso «preséntate» del canal — mejor que inventar una ficha nueva.
+4. Para el estilo: **línea gris-marrón (nunca negro puro), sombra con borde
+   difuminado (no duro) y un resplandor de color para Haki/Frutas** son las
+   tres cosas medidas que más cambian el resultado si se quiere que la
+   ilustración final «huela» a One Piece moderno (Wano en adelante) y no a
+   clip art genérico.
+5. **El Log Pose** (esfera con aguja, en la muñeca) es un accesorio pequeño y
+   reconocible que se puede meter en cualquiera de los tres conceptos sin
+   competir con el objeto principal.
+
+## No encontré
+
+- **La letra exacta de Panini México ni de Planeta España** para los globos
+  del manga en español: no hay ficha pública en ninguna editorial (dos
+  intentos, `AYUDANTE.md`). Recomendación de letra libre en el punto 5.
+- **El emblema oficial de la Marina como imagen aislada** (más allá de
+  banderas dentro de escenas): la wiki no tiene una página dedicada al símbolo
+  en sí (gaviota/ancla), sólo apariciones dentro de viñetas; no lo forcé para
+  no inventar un dato.
+- **La entrevista original de Kinnikuman/Dragon Ball como mangas favoritos**:
+  sólo la encontré citada de segunda mano en varios blogs japoneses que
+  coinciden en la cita, no en la fuente primaria (marcado ⚠️ arriba).
+- **TCRF y TV Tropes por acceso directo**: siguen dando 403 (Cloudflare) desde
+  este contenedor; usé los fragmentos que el buscador sí indexa para TCRF
+  (punto 11), pero no pude confirmar capítulo/capturas de esos hallazgos.
+- **Un segundo libro/artbook que documente las herramientas físicas de Oda**
+  aparte del blog de la expo de Osaka: no encontré el catálogo oficial
+  «記憶 ETERNAL LOG» digitalizado en ningún sitio público.
+
+## Bitácora
+
+- **Lo que reutilicé sin gastar cupo**: `partes/datos-texto.md` (AniList,
+  Steam), `partes/dialogos.md` (punto 11 ya trabajado por el piloto anterior)
+  y, sobre todo, `/tmp/claude-0/trabajo/01-tecnica-mundo/` — 356 imágenes de
+  la One Piece Wiki ya bajadas y medidas por época con un script propio, más
+  tres páginas HTML ya guardadas (`animedia.html`, `realsound.html`, `t.html`)
+  que ese piloto había bajado pero nunca leyó ni citó. Las leí todas con
+  Python (extrayendo el texto plano) y miré dos hojas de contacto
+  (`hoja_1_manga_bn.jpg`, `hoja_9_anime_elbaph.jpg`) con `Read`.
+- **Wiki (One Piece Wiki, `onepiece.fandom.com`, inglés), por su API**: 15
+  llamadas a `action=parse&prop=wikitext&section=0` para Grand Line, Jolly
+  Roger, World Government, Marines, Log Pose, Vivre Card, Belly, Devil Fruit,
+  Haki, Poneglyph, Den Den Mushi, Four Emperors, Straw Hat Pirates, Will of
+  D. y Three Great Powers; más 4 llamadas a `action=query&prop=images` y
+  `prop=imageinfo` para el Jolly Roger de los Sombrero de Paja.
+  `action=query&prop=extracts` **no funciona en esta wiki** (la extensión
+  TextExtracts no está activada): hay que usar `prop=wikitext` y limpiar el
+  wikitexto a mano.
+- **Buscador web** (7 búsquedas de mi cupo de ~50, en español, inglés y
+  japonés): «Eiichiro Oda influences Dragon Ball Toriyama Vicky the Viking
+  interview manga»; «尾田栄一郎 影響を受けた漫画 バイキングビッケ ドラゴンボール
+  インタビュー»; «Panini México One Piece manga tipografía letra globos de
+  diálogo tipo de letra» (2 veces, confirmando que no hay ficha pública);
+  «site:tcrf.net One Piece unused».
+- **Cloudflare (403), comprobado de nuevo con la red abierta**: `tcrf.net` y
+  `tvtropes.org` — dos intentos cada uno, tal como pide `AYUDANTE.md`, y no
+  insistí más.
+- **Sitios en japonés leídos por su URL directa** (ya bajados por el piloto
+  anterior, comprobé su URL canónica antes de citarlos para no inventar el
+  enlace): `cho-animedia.jp` (entrevista a Nagamine Tatsuya, jun-2019),
+  `realsound.jp` (análisis del cambio de estilo Wano→Egghead, sep-2024),
+  `canrevb.com` (blog sobre la mesa de trabajo de Oda en la expo de Osaka,
+  ene-2013).
+
+**Parte terminada**: los 6 puntos (5, 6, 11, 18, 24, 25) están escritos y
+cerrados; nada pendiente para una siguiente tanda. Si el redactor quiere una
+hoja de contacto propia con las 9 categorías de estilo (18.2), están en
+`/tmp/claude-0/trabajo/01-tecnica-mundo/hoja_1…9_*.jpg` (JPEG, listas para
+mirar, no subidas al repositorio por ser material de trabajo).
