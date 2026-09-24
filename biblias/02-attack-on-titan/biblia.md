@@ -129,8 +129,8 @@ ese día los puntos 18-25; la tabla no los tenía.
 
 **Añadido** (secciones «Punto 18» a «Punto 25», entre §18 y §19):
 - **18 · Técnica**: Isayama dibuja a mano; WIT mezcla 2D y 3DCG; MAPPA, más
-  CG. Cómo hacerlo en Photoshop y Blender, 7 *rigs* CC BY y encuadre por
-  emoción.
+  CG. Cómo hacerlo en Photoshop y Blender, 7 modelos CC BY (5 con
+  esqueleto) y encuadre por emoción.
 - **19 · Texturas 2D**: trama y rayado mirados en el manga; papel, tela y
   cuero CC0; los uniformes no tienen estampado.
 - **20 · Gustos**: el té de Levi sin azúcar, la llave de Eren, el sueño de
@@ -2522,7 +2522,7 @@ Lo que no pude mirar o no existe con la red de hoy:
 | 15 · Vestuario con hex | ✅ | uniforme confirmado en la wiki y en las hojas; hex medidos (§16) |
 | 16 · Ciudades y fondos de pantalla con tamaño y autor | ✅ | oficiales medidos bajándolos; fans de Wallhaven con tamaño; 2 autores de ArtStation sin ver (403) |
 | 17 · Guía para IA | ✅ | IA de imagen: rasgos, paleta con hex, luz, palabras, un ejemplo y las referencias por número (§18), caras por emoción (§18.1). **IA de texto**: reglas de voz por personaje y **13 frases reales por emoción** con minuto, 6 del doblaje latino (§18.1). Gotas de sudor y fondos de emoción: no salen en lo reunido ⚠️ |
-| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Isayama a mano, con tramado cruzado (entrevista de 2014); WIT 2D + 3DCG (Araki, MADBOX, «maquillaje digital»); MAPPA más CG; capas de Photoshop; *shader* toon, Line Art y luz en Blender; **7 modelos con esqueleto** CC BY; encuadre por emoción (Punto 18). Sin fuente: el programa que usa Isayama hoy y quién puso grano y aberración ⚠️; los *rigs* no se probaron en Blender |
+| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Isayama a mano, con tramado cruzado (entrevista de 2014); WIT 2D + 3DCG (Araki, MADBOX, «maquillaje digital»); MAPPA más CG; capas de Photoshop; *shader* toon, Line Art y luz en Blender; **7 modelos CC BY, 5 con esqueleto**; encuadre por emoción (Punto 18). Sin fuente: el programa que usa Isayama hoy y quién puso grano y aberración ⚠️; los *rigs* no se probaron en Blender |
 | 19 · Texturas 2D | ✅ | trama y rayado mirados en dos páginas de manga de la wiki; papel, tela y cuero CC0 (ambientcg); no hay estampados en los uniformes (buscado en inglés y japonés); emblemas con vector libre (Punto 19). La licencia de los pinceles de semitono no cargó ⚠️ |
 | 20 · Gustos y detalles | ⚠️ | cumpleaños, altura, sangre, objeto y cómo se ve cada uno de los 5, con datos de entrevistas a Isayama (Punto 20). **No encontré la comida favorita** de Erwin, Hange, Eren y Mikasa (AoT no tiene *databook* de gustos); varias alturas y manías con una sola fuente |
 | 21 · Por qué la aman, y las escenas que hacen llorar | ✅ | ventas, premios, encuesta de público y crítica; con quién se identifica (post de 1080 votos); **3 escenas con minuto exacto** de los subtítulos de Netflix (eps. 55, 67 y 93), qué pasa, por qué duele, música, cómo está dibujada y reacción (1399 votos); lo que hace gritar y reír (Punto 21). Frases en traducción nuestra: sin muestra latina |
