@@ -38,7 +38,7 @@ bajar ⚠️ y añadir la tabla.
    clips oficiales doblados.
 4. **Tamaños reales**: en `referencias.json`, mide `ancho` y `alto` con la API de
    la wiki (o bajando la imagen); cambia los enlaces muertos y sube las mejores
-   imágenes nuevas de las hojas (quedan 20-40 entradas).
+   imágenes nuevas de las hojas (mínimo 20, sin máximo).
 5. **Lo que el buscador no alcanzaba**: licencias de Sketchfab por su API,
    letras comprobadas con `fontTools`, Reddit por Arctic Shift, webs oficiales y
    entrevistas que antes daban 403.
