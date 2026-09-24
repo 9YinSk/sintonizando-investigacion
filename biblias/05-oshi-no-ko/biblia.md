@@ -8,7 +8,13 @@ fecha: 2026-09-24
 # Biblia · Oshi no Ko — para #redes-y-novedades, #en-directo y #castings
 
 > [!important] Cómo se hizo esta investigación (léelo primero)
-> **Dos pasadas.**
+> **Dos pasadas y un repaso corto.**
+> - **Repaso corto (24-sep-2026, noche):** 3 investigadores (imagen,
+>   voz, texto) y un redactor añadieron los **puntos 18-25** del encargo
+>   y la **guía para IA de texto** (§17.1). Usaron la API de la wiki,
+>   Wikipedia (EN y JA), Arctic Shift, yt-dlp (sólo metadatos), la API
+>   de Sketchfab, entrevistas en japonés y el buscador. Sus libretas,
+>   en `partes/`.
 > - **Segunda pasada, 24-sep-2026, con la red abierta.** Se pudo usar:
 >   la **wiki de Fandom** (`oshinoko.fandom.com`) por su API, con dos
 >   tandas de `investigar_serie.py` (**979 imágenes, 21 hojas**, y otra de
@@ -119,6 +125,47 @@ fecha: 2026-09-24
 con `grep` (23 son datos dudosos; el resto son la leyenda,
 este resumen y la tabla de cumplimiento). El porqué de cada una va a su
 lado y resumido en §19.
+
+**Repaso corto (24-sep-2026, noche): los puntos 18-25 del encargo**
+
+Tres investigadores (imagen, voz, texto) y un redactor. Sus libretas
+están en `partes/` (`imagen.md`, `voz.md`, `texto.md` y sus `.json`).
+
+*Corregido (antes → ahora)*
+- **Color de idol de Ai:** «sin encontrar» → **rojo**, el que Ruby
+  hereda por ella (wiki, cap. 38) ⚠️ una web (§6.2, punto 20).
+- **Guía para IA:** sólo de imagen → también **de texto** (§17.1).
+- **`referencias.json`:** 40 → **129** entradas (109 medidas).
+- **Dos datos que dio el buscador y eran falsos, fuera:** que la serie
+  **ganó** el premio Kodansha (sólo fue nominada) y un premio de Rie
+  Takahashi en los Crunchyroll Anime Awards (no aparece).
+
+*Añadido*
+- **§17.1** IA de texto: reglas de voz, 16 frases reales por emoción,
+  vocabulario de expresiones.
+- **Punto 18** técnica: «más líneas» y «más colores» en palabras del
+  director y la diseñadora, guion de color, encuadres por emoción,
+  Photoshop y Blender paso a paso.
+- **Punto 19** texturas: 4 tramas vistas en el manga, pinceles libres,
+  placa de Ichigo Pro y logos de B小町 medidos.
+- **Punto 20** gustos de los 6: color de idol, pimientos, dieta,
+  mascotas de MEM, Instagram de la ficción, «45510».
+- **Punto 21** premios, récords, la muerte de Ai (música de Iga) y la
+  barra blanca de Kana.
+- **Punto 22** covers latinos (David Delgado, 577.494 vistas), fandubs y
+  cosplay hispano.
+- **Punto 23** Sanrio (dibujado por Hirayama), Monster Strike, cafés,
+  figuras y cosplay con materiales.
+- **Punto 24** el origen según Akasaka, *Perfect Blue* bien
+  distinguida, la imagen real y la novela, láminas vecinas.
+- **Punto 25** reglas, 11 arcos, símbolos y vocabulario.
+- **Conceptos:** detalles nuevos en A, B y C (§18, nota de arriba).
+
+*Marcas de duda:* había **29**; tras el repaso hay **93**
+con `grep`. Casi todas las nuevas son datos de **una sola fuente**
+(la wiki, Sakuga Blog, un medio) o cosas no encontradas (cumpleaños,
+programa del estudio, minuto del ataque a Ai), marcadas en su punto y
+resumidas en §19. `revisar.py`: **COMPLETA**.
 
 > [!warning] Spoiler que condiciona todo
 > Ai muere en el episodio 1. El manga terminó en noviembre de 2024 con la
@@ -1605,7 +1652,7 @@ y un juego en Ren'Py ([Chompita](https://github.com/Chompita/OSHI-NO-KO)).
 
 ---
 
-## 17 · Guía para describir el estilo a una IA de imagen
+## 17 · Guía para describir el estilo a una IA (de imagen y de texto)
 
 (Sólo para el dueño, con Firefly o Canva. Aquí no se generó nada.)
 
@@ -1855,7 +1902,8 @@ láminas (punto 16: no jugar con su muerte).
    y de [criticaldamage9211](https://sketchfab.com/3d-models/none-a25f0b9dee474ec0af6b0cf9d91a405e);
    Kana de [Teana](https://sketchfab.com/3d-models/none-a9497f1c3cb0471885374ed1c4d130de);
    Ruby, Aqua y Akane de HiGuys920 ([Ruby](https://sketchfab.com/3d-models/none-9d9c913ad2bd4cf692aa064167865494),
-   [Aqua](https://sketchfab.com/3d-models/none-7c3df0f902e54b17986b893fa4b016f7))
+   [Aqua](https://sketchfab.com/3d-models/none-7c3df0f902e54b17986b893fa4b016f7),
+   [Akane](https://sketchfab.com/3d-models/oshi-no-ko-akane-kurokawa-3d-model-fv-dl-5e6377c8751240dda0011c8d5536bb1e))
    ✅ (licencia por la API de Sketchfab, `partes/texto.json` y
    `partes/datos-imagen.md`).
 5. **Volumen de la ropa:** la falda de idol lleva **enagua**; en 3D,
@@ -2648,6 +2696,33 @@ Tras la segunda pasada quedan (cada uno va marcado en su sitio):
   320×180; sirven para mirar, no para recortar. Para recortar: las
   imágenes de la wiki (§3.0) o el episodio en Crunchyroll.
 
+**Repaso corto, puntos 18-25** (24-sep-2026): lo que queda dudoso o
+sin encontrar (cada uno con ⚠️ en su punto):
+- **Técnica (18):** el **programa** de Doga Kobo (no lo nombra ninguna
+  entrevista); los filtros exactos de fotografía; un *making of* o
+  comentario de Blu-ray en vídeo (no encontrado sin iniciar sesión).
+  Varios datos de producción sólo en Sakuga Blog o MANTANWEB.
+- **Texturas (19):** si los pinceles de Brusheezy piden atribución; el
+  escudo del instituto Yōtō (no encontrado).
+- **Gustos (20):** **cumpleaños** de Ai, Kana, Akane y MEM (la wiki no
+  tiene el campo y no hay *databook*); el de Aqua y Ruby, sólo un rango
+  del ep. 28; la comida de Ai, Ruby y MEM; el color de Ai (una web).
+- **Por qué la aman (21):** el **minuto exacto** del ataque a Ai (no se
+  midió); ventas de un solo medio (140 %, 680.052 copias); el récord de
+  MyAnimeList (sólo Radio Times). **TV Tropes** (*Tearjerker*,
+  *Heartwarming*, *YMMV*) sigue en 403 por todas las vías.
+- **Fan dubs (22):** vistas de 7 covers y fandubs sin medir; el canal
+  «hiro21t0» sin confirmar; ninguna **parodia actuada** hispana.
+- **Colaboraciones (23):** 13 marcas sólo nombradas en la wiki;
+  *Othellonia*, *Caravan Stories*, *KOTODAMAN* y *BanG Dream!* con una
+  fuente (la de *BanG Dream!* no se pudo leer); **Fortnite**: no lo
+  encontré.
+- **Obras parecidas (24):** la entrevista de ANN, leída en un resumen
+  de Tumblr (el original da 403); *Perfect Blue* no es influencia
+  confirmada por el autor.
+- **Mundo (25):** los episodios de la T3 por arco se solapan en la
+  wiki; los resúmenes de los arcos 7-9, sin mirar.
+
 Lo que la primera pasada no pudo y **ahora sí está**: voces latinas de
 secundarios (dos o tres fuentes), si hay doblaje de la T3 (no),
 minutos de vídeos de YouTube, autores de Pixiv, licencias de Sketchfab,
@@ -2655,7 +2730,7 @@ menús y caja de diálogo de *Puzzle Star*, el aspecto de Gotanda y Aqua.
 
 ---
 
-## 20 · Fuentes consultadas (103 principales; 335 enlaces distintos de 76 sitios en total)
+## 20 · Fuentes consultadas (170 principales; 429 enlaces distintos de 108 sitios en total)
 
 **Abiertas de verdad (GitHub)**
 1. [ANN T1, ficha 25783 (copia en GitHub)](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/25783.json)
@@ -2776,6 +2851,85 @@ menús y caja de diálogo de *Puzzle Star*, el aspecto de Gotanda y Aqua.
 102. [Reddit por Arctic Shift: el guion firmado](https://reddit.com/r/OshiNoKo/comments/1vhzqqu/the_15_year_lie_script_with_all_of_the_cast/)
 103. [Subtítulos de la T3 (Limenime, GitHub)](https://github.com/limedriveku/limesub)
 
+**Repaso corto (puntos 18-25), de las partes**
+
+*Técnica y estilo (punto 18)*
+104. [MANTANWEB: entrevista a Hiramaki (japonés)](https://mantan-web.jp/article/20240816dog00m200078000c.html)
+105. [Yahoo/Febri: la misma entrevista (japonés)](https://article.yahoo.co.jp/detail/094230118938ecb262b1cc245b02d40caec0224e)
+106. [Real Sound: el equipo (japonés)](https://realsound.jp/movie/2023/06/post-1345012.html)
+107. [Sakuga Blog: el equipo de la T1](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)
+108. [Sakuga Blog: la T2 y el teatro](https://blog.sakugabooru.com/2024/09/04/oshi-no-ko-stage/)
+109. [ComicBook: Hirayama y el color](https://comicbook.com/anime/news/oshi-no-ko-anime-art-style-animation/)
+110. [CLIP STUDIO: ficha de RETAS STUDIO](https://www.clip-studio.com/clip_site/tool/items/rs_d_plan)
+111. [Wikipedia JA: RETAS STUDIO](https://ja.wikipedia.org/wiki/RETAS_STUDIO)
+112. [Artisticrender: *cel shading* en Blender](https://artisticrender.com/cel-shading-in-blender/)
+113. [StraySpark: *toon* en Blender, 2026](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender)
+114. [AniList: staff](https://anilist.co/anime/150672/staff)
+
+*Texturas y emblemas (punto 19)*
+115. [Brusheezy: pinceles de *screentone*](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes)
+116. [CLIP STUDIO ASSETS: brillos *shoujo*](https://assets.clip-studio.com/en-us/detail?id=1887489)
+117. [CLIP STUDIO ASSETS: papel](https://assets.clip-studio.com/en-us/detail?id=1752867)
+118. [freesvg.org: lunares CC0](https://freesvg.org/polka-dot-seamless-pattern)
+119. [Wiki: B-Komachi (página de manga y logos)](https://oshinoko.fandom.com/wiki/B-Komachi)
+120. [Wiki: Ichigo Production, Inc](https://oshinoko.fandom.com/wiki/Ichigo_Production,_Inc)
+
+*Gustos, por qué la aman y comunidad (puntos 20-22)*
+121. [Wikipedia JA: 【推しの子】](https://ja.wikipedia.org/wiki/%E3%80%90%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90%E3%80%91)
+122. [Young Jump: relato *45510*](https://youngjump.jp/oshinoko/novel_45510/novel_01.html)
+123. [AniList: ficha de Kana](https://anilist.co/character/188783)
+124. [Wikipedia EN: Oshi no Ko (ventas y premios)](https://en.wikipedia.org/wiki/Oshi_no_Ko)
+125. [Ramen Para Dos: ventas +140 %](https://ramenparados.com/las-ventas-del-manga-de-oshi-no-ko-aumentaron-un-140-tras-el-estreno-del-anime/)
+126. [Espinof: 680.052 copias](https://www.espinof.com/anime/oshi-no-ko-se-agota-completo-japon-volumenes-manga-idols-rompen-records-ventas-e-incluso-ha-pillado-sorpresa-a-su-dibujante)
+127. [ANN: Next Manga Award](https://www.animenewsnetwork.com/interest/2021-08-24/kaiju-no-8-oshi-no-ko-win-next-manga-awards-web-print-categories/.176367)
+128. [Comic Natalie: Manga Taishō](https://natalie.mu/comic/news/420300)
+129. [Wikipedia: 8th Crunchyroll Anime Awards](https://en.wikipedia.org/wiki/8th_Crunchyroll_Anime_Awards)
+130. [Wikipedia: «Mother and Children»](https://en.wikipedia.org/wiki/Mother_and_Children_(Oshi_no_Ko))
+131. [Canal oficial: Behind the Scenes Ep4, banda sonora](https://www.youtube.com/watch?v=xHY11jIL7ZE)
+132. [Radio Times: récord en MyAnimeList](https://www.radiotimes.com/tv/fantasy/anime/oshi-no-ko-how-to-watch/)
+133. [ANN: récord de HIDIVE](https://www.animenewsnetwork.com/news/2023-04-22/hidive-oshi-no-ko-anime-has-biggest-series-launch-in-streaming-service-history/.197374)
+134. [ComicBook: récord de HIDIVE](https://comicbook.com/anime/news/oshi-no-ko-top-streaming-series/)
+135. [The People's Movies: reseña T1](https://thepeoplesmovies.com/anime-review-oshi-no-ko-season-1-2023/)
+136. [Anime Feminist: ep. 1](https://www.animefeminist.com/oshi-no-ko-episode-1/)
+137. [Reddit: «the first animated show that made me cry»](https://www.reddit.com/r/OshiNoKo/comments/1skwn16/this_was_the_first_animated_show_that_made_me_cry/)
+138. [Reddit: «A Black Hole», análisis de Akane](https://www.reddit.com/r/OshiNoKo/comments/1nxfjsk/a_black_hole_an_analysis_of_akane/)
+139. [YouTube: la muerte de Ai, Villenthessis](https://www.youtube.com/watch?v=WGO48upjurM&t=1)
+140. [YouTube: «Mephisto» latino, David Delgado](https://www.youtube.com/watch?v=CEbEKN7A8rM)
+141. [YouTube: «Idol» latino, David Delgado](https://www.youtube.com/watch?v=ff48MN5E5fk)
+142. [YouTube: «Idol» latino, Amor Shipping](https://www.youtube.com/watch?v=oELciwGCftQ)
+143. [YouTube: fandub de Mari - Uchiha](https://www.youtube.com/watch?v=e7kymeIxaH4)
+144. [YouTube: fandub de Variado](https://www.youtube.com/watch?v=tx6Y6uyyT6Q)
+145. [Patreon: Sparrow Doblaje Studio](https://www.patreon.com/posts/oshi-no-ko-1-114383809)
+146. [Geekmi News: cosplay de Rinaco](https://www.geekmi.news/series/Cosplayer-mexicana-recrea-a-Ai-Hoshino-de-Oshi-no-Ko-y-conquista-el-escenario-20230622-0001.html)
+147. [Universo Nintendo: cosplay de Ai](https://universo-nintendo.com.mx/2023/04/13/oshi-no-ko-ai-hoshino-cosplay-cosnekomaru/)
+148. [Código Espagueti: cosplay de Kana](https://codigoespagueti.com/noticias/anime/oshi-no-ko-cosplayer-kana-arima/)
+149. [AlfaBetaJuega: cosplay de Kana](https://alfabetajuega.com/series/kana-arima-de-oshi-no-ko-cobra-vida-gracias-a-este-genial-cosplay)
+150. [Vandal: cosplay de Kana](https://vandal.elespanol.com/random/recrean-a-la-encantadora-protagonista-de-oshi-no-ko-kana-arima-con-un-cosplay-impresionante-y-realista/31613.html)
+
+*Colaboraciones (punto 23)*
+151. [Wiki: Promotional Material](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(anime)/Promotional_Material)
+152. [CBR: Sanrio](https://www.cbr.com/sanrio-hello-kitty-oshi-no-ko-official-crossover/)
+153. [Siliconera: Sanrio](https://www.siliconera.com/oshi-no-ko-sanrio-crossover-merchandise-will-pair-characters/)
+154. [Gachago: Monster Strike](https://gachago.com/en/news/monster-strike-announces-second-crossover-event-with-oshi-no-ko-anime)
+155. [Mix Vale: Monster Strike (portugués)](https://www.mixvale.com.br/2026/02/13/monster-strike-begins-second-collaboration-with-oshi-no-ko-and-highlights-powerful-arima-kana-en/)
+156. [Good Smile: figura 1/7 de Ai](https://www.goodsmile.info/en/product/14226/Ai.html)
+157. [Anime Corner: figura de Ai](https://animecorner.me/ai-hoshino-from-oshi-no-ko-gets-a-figure-pre-orders-open/)
+158. [Solaris Japan: Nendoroid 2300](https://solarisjapan.com/products/oshi-no-ko-hoshino-ai-nendoroid-2300-good-smile-company)
+159. [Flickr: cosplay de Ai, esby.photo](https://live.staticflickr.com/65535/53387752817_964c0b074b_b.jpg)
+160. [Flickr: cosplay de Ruby y Aqua, coolanimeboy25](https://live.staticflickr.com/65535/54334350241_4fba9307d5_b.jpg)
+
+*Obras parecidas y mundo (puntos 24-25)*
+161. [ANN: entrevista a Akasaka (403)](https://www.animenewsnetwork.com/feature/2023-05-10/how-accurate-is-oshi-no-ko-about-the-japanese-entertainment-industry-an-interview-with-aka-akasaka/.197795)
+162. [Tumblr @talkingnerd: resumen con citas](https://www.tumblr.com/talkingnerd/716972147650838528/highlights-from-aka-akasaka-interview-with-ann)
+163. [FandomWire: Perfect Blue](https://fandomwire.com/oshi-no-ko-fans-have-been-gravely-wrong-about-the-purpose-of-aka-akasakas-manga/)
+164. [WordPress: «Perfect Blue Criticizes The Idol Industry»](https://letsdiscoverthingsthataregood.wordpress.com/2023/04/29/perfect-blue-criticizes-the-idol-industry-oshi-no-ko-does-not/)
+165. [AniList: recomendaciones](https://anilist.co/anime/150672)
+166. [Wiki: Story Arcs](https://oshinoko.fandom.com/wiki/Story_Arcs)
+167. [Wiki: Oshi no Ko (live action)](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(live_action))
+168. [Wiki: Spica the First Star](https://oshinoko.fandom.com/wiki/Spica_the_First_Star)
+169. [Wiki: Oshi no Ko (manga)](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(manga))
+170. [jisho.org: 星野](https://jisho.org/search/%E6%98%9F%E9%87%8E)
+
 (Además, todos los enlaces de YouTube, Pixiv, Sketchfab y fondos
 citados en los puntos 5, 13 y 14.)
 
@@ -2801,19 +2955,27 @@ citados en los puntos 5, 13 y 14.)
 | 14 · Poses analizadas (6-10 por personaje) | ✅ | Kana 17, MEM 12, Akane 11, Ruby 9, Ai 7, con número de hoja o minuto (§10). Aqua sólo 3: no es anfitrión |
 | 15 · Vestuario con hex | ✅ | uniforme rojo, «POP IN 2», uniforme de Yōtō, T3 y ropa de casa, con hex medidos (§6.2, §11) |
 | 16 · Paisajes y fondos de pantalla con tamaño y autor | ✅ | tabla de fondos (§5.2) y fiestas oficiales con tamaño (§14). Los de 4kwallpapers no tienen autor |
-| 17 · Guía para IA | ✅ | rasgos fijos, paleta medida, palabras que ayudan y estropean, qué imagen usar (§17) |
-| 3 conceptos de lámina | ✅ | uno por canal, con objetos de Sketchfab, pose con número de hoja y textos del canal (§18) |
-| 40 fuentes distintas | ✅ | 335 enlaces de 76 sitios (§20) |
-| Tipos de fuente: oficiales | ✅ | web oficial, canal y X oficiales, entrevistas (Febri, Real Sound, Newtype en Crunchyroll News) |
-| Tipos de fuente: otros idiomas | ✅ | japonés (Natalie, Febri, ranking.net), chino (Sina), coreano (Ruliweb, Namu Wiki) |
-| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki sí; TV Tropes da 403; TCRF no tiene página; Wayback tiene la copia pero corta la conexión |
-| Tipos de fuente: foros | ✅ | Reddit por Arctic Shift, Ruliweb |
-| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv sí (API); DeviantArt responde pero lo que sale es pequeño o hecho con IA; ArtStation no probado |
-| Tipos de fuente: vídeo con minuto | ✅ | YouTube por yt-dlp y *storyboards* |
-| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas de ANN, letras), Sketchfab, Poly Haven, Google Fonts |
-| Tipos de fuente: doblaje latino | ⚠️ | Doblaje Wiki, ANMTV y Crunchyroll sí; entrevistas a los actores latinos en vídeo: no encontré ninguna |
+| 17 · Guía para IA | ✅ | **imagen:** rasgos fijos, paleta medida, palabras que ayudan y estropean, qué imagen usar (§17). **Texto** (repaso corto, §17.1): reglas de voz de 6 personajes, 16 frases reales por emoción con minuto (2 del doblaje latino, el resto traducidas del japonés) y vocabulario de expresiones. Sin dato: cómo usa la serie las gotas de sudor |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | punto 18: equipo con dos fuentes; «más líneas», «más colores» y guion de color en palabras de Hiramaki e Hirayama (MANTANWEB, ComicBook, Real Sound); ep. 1 y teatro de la T2 (Sakuga Blog); encuadres por emoción; Photoshop y Blender paso a paso; 7 modelos CC BY para practicar. Sin encontrar: el programa del estudio y un *making of* en vídeo |
+| 19 · Texturas 2D | ✅ | punto 19: 4 tramas vistas en una página real del manga; pinceles de trama y brillos y papel gratis; lunares CC0; placa de Ichigo Pro y los 2 logos de B小町 medidos. Sin encontrar: escudo de Yōtō; atribución de Brusheezy sin aclarar |
+| 20 · Gustos y detalles | ⚠️ | punto 20: los 6 personajes con altura, color de idol, comida, aficiones, objeto, redes de la ficción y cómo se ven (wiki por API, web oficial, AniList). **Faltan cumpleaños**: la wiki no tiene el campo y no hay *databook*; Aqua y Ruby sólo un rango; comida de Ai, Ruby y MEM, no encontrada |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | punto 21: premios cruzados con ANN, Natalie y Wikipedia; récord de HIDIVE; con quién se identifican (Kana, Akane); la muerte de Ai con música, dirección y reacciones, y la barra blanca de Kana con minuto. **Falta el minuto exacto** del ataque a Ai (no se midió) y TV Tropes (403) |
+| 22 · Fan dubs y comunidad hispana | ✅ | punto 22: 3 covers y 2 fandubs con vistas medidas con yt-dlp (el mayor, 577.494), Sparrow Doblaje en Patreon, 3 cosplays hispanos con dos medios. Sin medir: 5 covers y 2 fandubs; parodias actuadas hispanas, no encontradas |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | punto 23: 10 carteles de colaboración con imagen medida (Sanrio con 3 fuentes), 6 juegos (Monster Strike con 2 fuentes), figura 1/7 y Nendoroid de Ai, 2 cosplays analizados. Fortnite: no lo encontré |
+| 24 · Obras parecidas | ✅ | punto 24: el origen en palabras de Akasaka (resumen de la entrevista de ANN, ⚠️ el original da 403), *Perfect Blue* como comparación y no influencia, 15 recomendaciones de AniList, la imagen real y la novela, y 3 láminas vecinas revisadas (K-On, Kakegurui, Violet Evergarden) |
+| 25 · Mundo, historia y símbolos | ✅ | punto 25: 5 reglas, 11 arcos con tomo, capítulo y episodio (wikitext de la wiki), emblemas, *Tokyo Blade* mirado, 6 palabras del fandom con aviso de cuál no usar. Los episodios de la T3 por arco se solapan en la wiki ⚠️ |
+| 3 conceptos de lámina | ✅ | uno por canal, con objetos de Sketchfab, pose con número de hoja y textos del canal (§18). Repaso corto: los tres suman detalles con fuente (logo de B小町 en A, la barra roja de Ruby por Ai en B, la barra blanca de Kana en C) sin cambiar la idea |
+| 40 fuentes distintas | ✅ | **429 enlaces de 108 sitios** tras el repaso corto (`revisar.py`); antes 335 de 76. El repaso sumó 67 fuentes principales (§20, n.º 104-170) |
+| Tipos de fuente: oficiales | ✅ | web oficial, canal y X oficiales, entrevistas (Febri, Real Sound, Newtype en Crunchyroll News); en el repaso corto, entrevistas al director (MANTANWEB) y a la diseñadora (ComicBook), el *Behind the Scenes* de la banda sonora, Good Smile y el relato *45510* en Young Jump |
+| Tipos de fuente: otros idiomas | ✅ | japonés (Natalie, Febri, ranking.net), chino (Sina), coreano (Ruliweb, Namu Wiki); en el repaso corto, japonés (MANTANWEB, Yahoo/Febri, Wikipedia JA, Young Jump, jisho) y portugués (Mix Vale) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (y sus páginas de arcos, colaboraciones e imagen real), Doblaje Wiki y Wikipedia (EN y JA) sí; TV Tropes sigue en 403 (probado también con otro agente, Wayback y r.jina.ai en el repaso corto); TCRF no tiene página; Wayback corta la conexión y no guarda la entrevista de ANN |
+| Tipos de fuente: foros | ✅ | Reddit por Arctic Shift (hilos con votos y texto), Ruliweb, Tumblr (resumen de la entrevista de ANN) |
+| Tipos de fuente: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv sí (API); DeviantArt responde pero lo que sale es pequeño o hecho con IA; ArtStation no probado. Repaso corto: pinceles y texturas de Brusheezy y CLIP STUDIO ASSETS, fotos de cosplay de Flickr con licencia, fan art de Safebooru con su origen de Pixiv o X |
+| Tipos de fuente: vídeo con minuto | ✅ | YouTube por yt-dlp y *storyboards*; en el repaso corto, vistas y duración de 8 vídeos (covers, fandubs, clip) con yt-dlp |
+| Tipos de fuente: código y recursos | ✅ | GitHub (subtítulos, fichas de ANN, letras), Sketchfab, Poly Haven, Google Fonts; en el repaso corto, freesvg (CC0), guías de Blender (Artisticrender, StraySpark) y la ficha de RETAS |
+| Tipos de fuente: doblaje latino | ⚠️ | Doblaje Wiki, ANMTV y Crunchyroll sí; covers y fandubs latinos con vistas (punto 22); entrevistas a los actores latinos en vídeo: no encontré ninguna |
 | Hojas de contacto | ✅ | 3 hojas propias en `hojas/`, miradas, con tabla y enlaces (§3.0) |
-| `referencias.json` (20-40, medidas) | ✅ | 40 entradas: 34 imágenes con ancho y alto medidos; 6 vídeos con `&t=` (sin tamaño: sólo *storyboard*) |
+| `referencias.json` (mínimo 20, sin máximo) | ✅ | **129 entradas** tras el repaso corto (antes 40): las 40 primeras se quedan arriba; se suman todas las útiles de `partes/imagen.json`, `texto.json`, `voz.json` y `datos.json` (logos, tramas, colaboraciones, figuras, cosplay, pósters de *Tokyo Blade*, covers y fandubs, modelos 3D, 15 fondos de Wallhaven, 23 fan arts). **109 con ancho y alto medidos**; sin tamaño, 12 vídeos y 8 modelos 3D. Fuera: fan art de otras series que coló el recolector (Miku, Frieren, Fubuki), retratos de AniList de 230 px y fotos sin mirar |
 
 ---
 
@@ -2999,3 +3161,96 @@ que no está en el inventario (hilo fijado, redes), voces latinas y datos
 de producción con una sola fuente, encuestas que no se pudieron abrir,
 el origen de las `bg*`, las letras (logo, globos, «推しゴ») y el color de
 Ai.
+
+### Repaso corto (24-sep-2026, noche): puntos 18-25
+
+Junta las bitácoras de `partes/imagen.md`, `partes/voz.md` y
+`partes/texto.md`. Punto de partida de cada uno: su `datos-*.md` del
+recolector (AniList, Danbooru, Safebooru, Wallhaven, Sketchfab,
+Openverse, Doblaje Wiki, Dailymotion, Reddit), sin repetir esas
+consultas.
+
+#### La red
+- **Wiki de Fandom:** el subdominio del encargo (`oshi-no-ko`) da
+  403/404 y por eso el recolector no bajó nada de Fandom. Con
+  **`oshinoko.fandom.com`** la API responde normal (lo usaron los tres).
+- **TV Tropes:** 403 directo, 403 con otro agente, Wayback bloqueado por
+  el proxy y `r.jina.ai` bloqueado («DDoS attack suspected»).
+- **ANN:** la entrevista a Akasaka da 403 y no está en Wayback; se usó
+  el resumen de Tumblr.
+- **MyAnimeList por Jikan:** 504 dos veces. **AmiAmi:** 403. **Wiki de
+  BanG Dream:** Cloudflare, sólo se confirmó el título de la página.
+- **YouTube:** sólo metadatos con yt-dlp (vistas y duración de 8
+  vídeos). Un vídeo pidió iniciar sesión y se dejó. No se bajó vídeo.
+
+#### Imagen (puntos 19 y 23), en inglés
+- **Wiki, API:** búsquedas de texto `cosplay`, `collaboration`, `logo`,
+  `gacha`, `Fortnite` (0 resultados), `"Girls Band Party"`,
+  `Kotodaman`; la página «Oshi no Ko (anime)/Promotional Material»
+  entera; las categorías de Taito, Ichiban Kuji, Sweets Paradise,
+  Natslive, Sanrio, GiGO, Animate, Monster Strike y Caravan Stories;
+  `imageinfo` de 20 archivos.
+- **Buscador (6 búsquedas):** figura de Good Smile, cosplay de Ai,
+  pinceles de trama gratis, brillos de *shoujo* gratis, tartán y
+  lunares libres, papel de manga libre, Sanrio, Monster Strike.
+- **Tiendas:** goodsmile.info y solarisjapan.com (foto medida con
+  Pillow); amiami.com, 403.
+- **Mirado con Read:** hoja de 4 colaboraciones, placa de Ichigo Pro,
+  logos de B小町, 2 fotos de cosplay y la página de manga con tramas.
+
+#### Voz y personajes (puntos 20, 21 y 22)
+- **Wiki, API** (inglés): wikitext de Ai, Aqua, Ruby, Kana, Akane y
+  MEM-cho.
+- **Web oficial** (japonés): `ichigoproduction.com/talent/*.html`,
+  alturas sin cumpleaños.
+- **Wikipedia JA** (japonés): 誕生日, 好きな, 血液型, 特技, 趣味 en
+  【推しの子】. Sólo salió lo del 20.º cumpleaños de Ai.
+- **Wikipedia EN** (inglés): «Mother and Children», «Oshi no Ko»
+  (premios) y «8th Crunchyroll Anime Awards».
+- **Buscador, inglés (8):** premios de Crunchyroll, ventas en Oricon,
+  reacciones al ep. 1, *Kono Manga ga Sugoi*, música del ep. 1,
+  reseñas, «Idol» mejor canción, premios Kodansha y Next Manga.
+- **Buscador, español (5):** fandub de la muerte de Ai, cover de «Idol»,
+  cover de «Mephisto», cosplay de Kana y Ai en México, memes hispanos.
+- **Arctic Shift** (r/OshiNoKo): `cried`, `made me cry`, `sobbing`,
+  `identify with`, `relate to`, `most connected` y los títulos exactos
+  de los dos hilos citados.
+- **yt-dlp:** 8 vídeos medidos.
+
+#### Texto, técnica y mundo (puntos 18, 24 y 25)
+- **Wiki, API** (inglés): `allcategories` y `search` (`story arc`,
+  `terminology`, `glossary`, `symbol`, `oshi katsu`, `industry slang`);
+  `allpages` (488 títulos); wikitext de «Story Arcs» y de cada uno de
+  los 11 arcos, «Oshi no Ko (manga)», «Ai Hoshino», «B-Komachi», «Oshi
+  no Ko (live action)» y «Tokyo Blade»; `imageinfo` de 3 archivos. El
+  póster de *Tokyo Blade*, mirado en grande.
+- **Buscador, inglés (8):** influencias de Akasaka y *Perfect Blue*,
+  producción del ep. 1, estilo y entrevista a la animadora, *color
+  grading*, modelos 3D gratis de Ai, *toon shader* en Blender.
+- **Buscador, japonés (1):** entrevista a Hiramaki sobre «盛り», guion de
+  color y luz; y software (`RETAS`, `CLIP STUDIO`) sin nada de Doga Kobo.
+- **Páginas abiertas (6):** Real Sound, Sakuga Blog (2), MANTANWEB,
+  ComicBook, Tumblr. ANN, 403.
+- **Otras:** jisho.org, API de Sketchfab, Wikipedia JA (RETAS), y las
+  tablas de contenido y conceptos de las biblias de K-On, Kakegurui y
+  Violet Evergarden.
+
+#### Lo que NO se encontró
+- Cumpleaños de Ai, Kana, Akane y MEM; comida de Ai, Ruby y MEM.
+- El programa de dibujo y animación de Doga Kobo; un *making of* en
+  vídeo.
+- El minuto exacto del ataque a Ai (no se midió).
+- El escudo del instituto Yōtō.
+- Colaboración con Fortnite.
+- Parodias actuadas hispanas.
+- Cómo usa la serie las gotas de sudor (para §17.1).
+
+#### El redactor
+- Quitó dos datos falsos del buscador (Kodansha, premio de Rie
+  Takahashi) y una fuente floja de `texto.md` (un blog de *prompts*
+  sobre *color grading*).
+- Dejó con ⚠️ lo que tenía una sola web aunque la parte dijera ✅
+  (p. ej. dos páginas de la misma wiki, o un solo medio).
+- Para `referencias.json` descartó el fan art de otras series que coló
+  el recolector (Miku, Frieren, Fubuki), los retratos de AniList de
+  230 px y fotos sin mirar.
