@@ -64,7 +64,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S7 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/25-my-hero-academia.md`, `encargos/26-scooby-doo.md`, `encargos/27-cyberpunk-edgerunners.md`, `encargos/28-jojo-s-bizarre-adventure.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 25-my-hero-academia
+- [x] 25-my-hero-academia
 - [ ] 26-scooby-doo
 - [ ] 27-cyberpunk-edgerunners
 - [ ] 28-jojo-s-bizarre-adventure
