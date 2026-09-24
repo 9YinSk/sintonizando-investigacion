@@ -1705,6 +1705,104 @@ son las tres capas.
 | **Moneda Drago** | Relieve con orla de perlitas y trama de puntos (§3.3) | Dibujarla de cero a partir de `Drago_Coins.png` | — |
 | **«E=mc²»** | Pintado en la túnica de Senku, en la venda de la tarjeta del juego | Letra a mano (Kalam) | OFL ✅ |
 
+## 18.3 · Gustos y detalles de cada personaje (2.ª pasada)
+
+Punto 20 del encargo. Cumpleaños, sangre y altura de [AniList](https://anilist.co/anime/105333)
+(fichas de personaje); gustos y objetos de la trivia de la wiki de Fandom.
+
+| Personaje | Cumpleaños · sangre · altura | Le gusta | Odia o rechaza | Siempre lleva | Cómo se ve a sí mismo |
+|---|---|---|---|---|---|
+| **Senku** | 4 de enero · AB · 171 cm ✅ (también lo dice él, 1×24, 00:06:20) | **Videojuegos**: cita Mario, Civilization, Dragon Quest y sobre todo Monster Hunter (cap. 63); de niño, Doraemon ✅ | El sentimentalismo; que algo sea imposible («ni un milímetro») ✅ | El cinturón con bolsas (§16). La bata de laboratorio es de antes de la piedra ⚠️ | Genio frío que **no admite ser generoso**; corta el romance con su «boda y divorcio» con Ruri ✅ |
+| **Gen** | 1 de abril · B · 175 cm ✅ | Su baraja hecha a mano; **la cola** ✅ | **El alcohol** ✅ | **La baraja con tres comodines** con frases ✅ | El mentalista más hábil; se encoge para parecer inofensivo ⚠️ |
+| **Chrome** | 4 de febrero · A · 170 cm ✅ | Coleccionar minerales desde niño; explorar ✅ | Que lo traten de aficionado en lo suyo ⚠️ | **Su bolsa de piedras** ✅ | Antes «hechicero», ahora **«usuario de la ciencia»** ✅ |
+| **Kaseki** | 9 de febrero · AB · 155 cm ✅ (AniList + wiki) | Hacer lo nunca visto con las manos; **sus vehículos** (coche, laboratorio móvil, el Perseus) ✅ | Que desguacen sus máquinas sin rehacerlas ✅ | La cuerda de la aldea al cuello cuando revienta la camisa ✅ | El artesano de la aldea desde hace cincuenta años ✅ |
+| **Suika** | 9 de septiembre · 119 cm ✅ | Ayudar y ser útil; **imitar voces** ✅ | Sentirse inútil (1×08) ✅ | **El casco de sandía**, que le hizo Kaseki ✅ | De niña, en tercera persona; lo deja al crecer ✅ |
+| **Kohaku** | 8 de agosto · B · 160 cm ✅ | Pelear, cazar; **cuidar de Ruri** ✅ | Que Chrome la llame «gorila» ✅ | Su espada ✅ (vista, §2.5) | Protectora de la aldea y de Ruri ✅ |
+| **Ryusui** | sin dato | El lujo, el mar; «**lo quiero**» (欲しい) ✅ | — | Su barco, su fortuna | Capitán de leyenda: «Mi instinto de marinero nunca falla» ✅ |
+| **Tsukasa** | 10 de octubre · 195 cm ✅ | Un mundo sin jerarquías ni ciencia moderna ✅ | La ciencia que deja a los adultos dañar a los jóvenes ✅ | — | Protector de los jóvenes; «rey león» ✅ |
+| **Ukyo** | 5 de junio · A · 173 cm ✅ | La paz: odia la sangre sin sentido ✅ | La violencia inútil ✅ | Su arco; el oído del sonar | — |
+| **Taiju** | 2 de abril · 189 cm ✅ | Trabajar aunque sea en lo pequeño, gritando ✅ | — | — | — |
+
+## 18.4 · Por qué la gente la ama (2.ª pasada)
+
+Punto 21 del encargo.
+
+**Los números**
+
+- **MyAnimeList**: **8,26/10** con 1.191.080 votos, puesto 372 general,
+  49 en popularidad, 1.974.878 miembros ✅ ([MAL](https://myanimelist.net/anime/38691)).
+- **Manga**: **20 millones de copias** (27 tomos, con digital), marzo de
+  2026 ✅ ([The Fandom Post](https://www.fandompost.com/2026/03/22/manga-by-the-numbers-dr-stone-crosses-20-million-volume-mark/),
+  [Manga Mogura RE](https://x.com/MangaMoguraRE/status/2035286156691333167)).
+  En mayo de 2022 eran 13 millones: **casi duplicó en cuatro años**.
+- **Senku, «Mejor protagonista»** en los Crunchyroll Anime Awards 2020 ✅
+  (§9).
+
+**Con quién se identifica el público**
+
+- Con **Chrome y Gen**: coleccionar piedras, la cola, «los chicos
+  científicos» ✅ ([Reddit, 126 votos](https://www.reddit.com/r/DrStone/comments/1v9z5u5/)).
+- Un programador, con **Sai**: «el anime es exacto» ⚠️ (sólo el título,
+  [Reddit, 114 votos](https://www.reddit.com/r/DrStone/comments/1sn8x9v/)).
+- Reseñas de MAL: engancha **por los personajes** más que por la ciencia
+  ⚠️ (resumen, sin cita textual).
+- Un fan hispano: la vio **«de casualidad por Cartoon Network»** y el
+  final le pareció «impresionante y conmovedor» ✅ (comentario textual,
+  hilo de abajo). Encaja con Toonami (§10.2).
+
+**Las escenas que hacen llorar** (hilo «Has Dr. Stone ever made you cry?»,
+[734 votos, 94 comentarios](https://www.reddit.com/r/DrStone/comments/1v6dnxe/),
+el más votado sobre el tema ✅):
+
+| Escena | Dónde | Por qué duele | Estado |
+|---|---|---|---|
+| **El disco de Byakuya** y la canción de Lillian («One Small Step») | 1×24, 00:14:01 a 00:17:52 | El padre de Senku le habla desde hace 3.700 años; construyó el «cofre del tesoro» para él. Suena la voz grabada con ruido de altavoz | ✅ (subtítulo + Reddit) |
+| **Minami y su cámara** | 3×02, 00:18:12 | La perdió hace miles de años; Senku le hace otra. «Se derrumbó, y yo también» | ✅ (subtítulo + Reddit) |
+| **Suika sola** imitando las voces de todos | 4×23, 00:03:10 a 00:06:21 | Años sola, rehace el líquido de revivir; «me siento sola» | ✅ subtítulo |
+| **Suika ve por primera vez** con gafas | — | Sin minuto ⚠️ | ⚠️ Reddit |
+| **Ruri curada**: no recuerda la última vez que pudo levantarse | — | Sin minuto ⚠️ | ⚠️ Reddit |
+| **La invasión de Stanley** (*Science Future*): caen Taiju y Ryusui, Suika se queda sola | — | Sin minuto ⚠️ | ⚠️ Reddit |
+| **Que se acabe** la serie | final | Muchos comentarios; uno en español | ✅ |
+
+Las que hacen **reír**: la canción de las pilas de Gen (1×23, 00:18:43),
+«se me olvidó que hacían falta dos» (1×24, 00:02:56), Kaseki reventando
+la camisa (§14.1). Música, luz y encuadre de cada escena de llanto: sólo
+el disco de Byakuya tiene música identificada; el resto, sin ver ⚠️.
+
+## 18.5 · Fan dubs y comunidad hispana (2.ª pasada)
+
+Punto 22 del encargo. YouTube no deja bajar vídeo ni metadatos desde el
+servidor: **canal y título confirmados con `oembed`**, pero **sin vistas
+ni fecha** ⚠️.
+
+**Fandubs latinos de escenas**
+
+| Canal | Vídeo | Enlace |
+|---|---|---|
+| **Alex Fandubs** | «Dr. Stone: New World "Búsqueda del tesoro" [Fandub Latino]» | [YouTube](https://www.youtube.com/watch?v=0nQIJhVza68) ✅ |
+| **Zacky-Kun Fandubs** | «DR. STONE (Trailer) - Fandub Latino» | [YouTube](https://www.youtube.com/watch?v=vwxypyHzAN0) ✅ |
+| **Olea Dubs** | «La cocina de Senku (Fandub Latino)» | [YouTube](https://www.youtube.com/watch?v=qAwQZEOBDRc) ✅ |
+| **EnmaDS** | «Dr. Stone - Ending - Fandub Latino/Cover en Español (Full Version)» | [YouTube](https://www.youtube.com/watch?v=VmHCWf4_ByU) ✅ |
+| ¿? | «El Reencuentro de Taiju y Senku [Fandub Latino]» | [YouTube](https://www.youtube.com/watch?v=c6_Buonxdnc) ⚠️ no cargó (¿privado o borrado?) |
+
+**Covers de openings en español**
+
+| Canal | Vídeo | Enlace |
+|---|---|---|
+| **David Delgado** | «DR.STONE Opening 2 Full - Cover Español Latino \| Sangenshoku» | [YouTube](https://www.youtube.com/watch?v=WT3Gm4_igIs) ✅ |
+| David Delgado | «Dr. STONE Todos los Openings en Español Latino» | [YouTube](https://www.youtube.com/watch?v=mGPjLinWsO8) ✅ |
+| **André - A!** (Edgardo Artieda) | OP 8 «SKINS» · OP 6 «CASANOVA POSSE» | [1](https://www.youtube.com/watch?v=MAzpBwx41Kc) · [2](https://www.youtube.com/watch?v=CKUm45hXEdI) ✅ |
+| **FUGATOON** | «DR STONE Opening 3 [Rakuen] (Cover Español Latino)» | [YouTube](https://www.youtube.com/watch?v=eNZ_2736ZB4) ✅ |
+
+La comunidad hispana canta **casi todos los openings** (al menos 1, 2, 3,
+6 y 8), no sólo los mira.
+
+**Memes y parodias**: el «**10 mil millones por ciento**» en TikTok, con
+clips propios de usuarios hispanos (2022-2026) ✅ (§14.1). Una **parodia
+hispana larga** (tipo sketch): no la encontré ⚠️ (dos búsquedas, TikTok y
+YouTube). El propio doblaje mete guiños latinos: «Con permisito, dijo
+Ginrito» (Don Ramón) y «como en Minecraft» ⚠️ (§10.3).
+
 ---
 ## 19 · Tres conceptos para la lámina de #hardware
 
