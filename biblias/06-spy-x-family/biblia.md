@@ -8,6 +8,8 @@ fecha: 2026-09-24
 # Biblia · Spy×Family — para #presentaciones
 
 > [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada (24-sep-2026, red abierta), en curso**: hojas de
+>   contacto hechas (§3.0). El resumen irá aquí al terminar.
 > - La red de esta sesión estaba cerrada. Fandom, Doblaje Wiki, YouTube,
 >   Crunchyroll, la web oficial del juego y Arctic Shift (el archivo de
 >   Reddit) daban **403** por curl o por WebFetch; Reddit ni siquiera se deja
@@ -330,10 +332,18 @@ Es el rasgo gráfico más propio del manga, y casi nadie lo usa.
 | Tomo | Personaje | Silla | Por qué, según los analistas |
 |---|---|---|---|
 | 1 | Loid | **LC2** de Le Corbusier | se adapta a cualquier espacio, como un espía de mil caras ✅ |
-| 2 | (Yor ⚠️) | **Marshmallow Sofa** de George Nelson | — |
-| 4 | (Anya ⚠️) | **Ball Chair** de Eero Aarnio | — ([PicoN!](https://picon.fun/design/20230426/)) |
+| 2 | **Anya** ✅ (antes decía «Yor ⚠️») | **Marshmallow Sofa** de George Nelson ✅ | — (P·3 es su arte a color) |
+| 3 | **Yor** ✅ | **La Chaise** de Charles y Ray Eames ✅ | — |
+| 4 | **Bond** ✅ (antes decía «Anya ⚠️») | **Ball Chair** de Eero Aarnio ✅ | — ([PicoN!](https://picon.fun/design/20230426/)) |
 | 5 | Yuri | **Barcelona Chair** de Mies van der Rohe | el «enemigo» de Loid, en la silla más solemne |
-| 9 | Becky | **Coconut Chair** de George Nelson | cáscara dura, fruta blanda: habla fuerte, es buena ✅ |
+| 7 | **Damian** ✅ | **Willow Chair** de Charles Rennie Mackintosh ✅ | respaldo alto de listones: el niño rico (P·29) |
+| 9 | Becky | **Coconut Chair** de George Nelson | cáscara dura, fruta blanda: habla fuerte, es buena ✅ (P·28) |
+
+Segunda pasada: quién va en cada portada sale del campo «Cover
+Characters» de cada tomo en la wiki (API), y la silla, de la lista de
+kagu.tokyo, abierta ahora de verdad (tomos 1 a 17: 6 Heart Cone, 8 Eames
+Lounge, 10 sin silla, 11 Hill House, 12 Diamond, 13 Tulip, 14 Lobby,
+15 Peacock, 16 Red and Blue, 17 Flag Halyard) ✅.
 
 La LC2 del tomo 1 se puede ver y probar en el Museo Nacional de Arte
 Occidental de Tokio ([go-to-museums](https://go-to-museums.com/sf-chair-2110)).
@@ -369,10 +379,14 @@ Las sinopsis oficiales en español usan **«Operación Strix»** y la
 **«Operación Amiguitos»** (la de hacerse amiga de Damian). Vocabulario ya
 hecho para la lámina ✅ (una fuente, pero es el texto oficial de Panini).
 
-### 3.5 Lo que falta ⚠️
-- Sin red no bajé ni medí ninguna imagen. **No hay números de hoja**: cito
-  por enlace.
-- No encontré las cartas de cuenta atrás ni las portadas de Blu-ray.
+### 3.5 Lo que faltaba, y ya está
+- ~~Sin red no bajé ni medí ninguna imagen~~ → segunda pasada: 90
+  imágenes en las hojas (§3.0), con su tamaño medido por la API de la
+  wiki, y las mejores en `referencias.json`.
+- ~~No encontré las cartas de cuenta atrás ni las portadas de Blu-ray~~ →
+  están en la wiki: cuentas atrás de la T1 parte 2, T2, T3 y la película
+  (P·24 es la de Becky escribiendo), y cajas y contenidos de los Blu-ray
+  y DVD de EE. UU. y Japón (hojas 1-5 de la tanda de personajes). ✅
 
 ---
 
