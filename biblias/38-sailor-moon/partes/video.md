@@ -31,6 +31,13 @@ en `/tmp/claude-0/trabajo/38-sailor-moon-video/` (`.mp4` borrados al terminar ca
 
 ## Hallazgos
 
+**Aviso sobre resolución real** (afecta al punto 2, que pide «1080p o más»):
+`fotogramas.py` baja el vídeo a `height<=720` y reescala a 1280 px de ancho, así que
+mis fotogramas del episodio 1 salen como **1280×960** (relación 4:3, propia del DVD
+NTSC original de los 90) — no son 1080p nativo, son la mejor copia libre que
+encontré. Marco ⚠️ solo en la resolución, no en el contenido (encuadre, color,
+diálogo), que sí comprobé viendo el vídeo.
+
 ### Punto 2 · Escenas icónicas
 
 - **La primera transformación de Usagi** («Moon Prism Power», ep. 1): Luna le dice
@@ -49,13 +56,19 @@ en `/tmp/claude-0/trabajo/38-sailor-moon-video/` (`.mp4` borrados al terminar ca
   detrás — es la pose «después de lanzar la tiara» que después se repite toda la
   serie (fotograma exacto abajo, punto 14) · mismo episodio, **min. 17:02** · ✅.
 - **La escena de Fiore — «You are not alone»** (*Sailor Moon R: The Movie*, 1993): la
-  encontré transcribiendo el tramo 40:00-55:00 de la película con `episodio.py`; el
-  minuto exacto y la cita quedan en `partes/episodios.md` (ficha «Sailor Moon R: The
-  Movie»). Es la escena más citada por fans y medios (TV Tropes «Heartwarming/Tear
-  Jerker Moments in Sailor Moon R: The Movie») como el momento más emotivo de las
-  películas de los 90 · [archive.org](https://archive.org/details/sailor-moon-r-the-movie-fandub-vhs-rip)
-  + [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SailorMoonRTheMovie) ·
-  ✅ (visto + fuente secundaria que confirma que es LA escena icónica de esa película).
+  encontré transcribiendo el tramo 40:00-55:00 de la película con `episodio.py`. Fiore
+  (el alien que quiere quedarse con Mamoru para siempre) ataca a Usagi con la Flor
+  Xenian; Usagi, ya herida, le dice **«It's okay. You're not alone»** en el **min.
+  50:03** (Fiore responde «I'm not alone?... It's a lie»); es el giro que empieza a
+  redimirlo. Es la escena más citada por fans y medios (TV Tropes
+  «Heartwarming/Tear Jerker Moments in Sailor Moon R: The Movie») como el momento más
+  emotivo de las películas de los 90 · [archive.org, min. 50:00](https://archive.org/download/sailor-moon-r-the-movie-fandub-vhs-rip/Sailor%20Moon%20R%20-%20The%20Movie%20%28Fandub%20VHS%20rip%29.ia.mp4?t=3003)
+  + [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SailorMoonRTheMovie)
+  + [ficha en `partes/episodios.md`](episodios.md) ·
+  ✅ (visto + fuente secundaria que confirma que es LA escena icónica de esa
+  película). **Aviso de color**: esta copia es un VHS-rip con la croma
+  desviada (verdes donde debería haber rosas/magentas) — sirve para la pose y el
+  diálogo, no para sacar hex de paleta (ver bitácora).
 - **Sailor Moon Cosmos (2023) — el final de TODA la historia de los 90**, visto en
   **doblaje latino** (Parte 2, min. 1:10:00-1:18:19, los últimos 8 minutos de la
   película): primero la Guardiana Cardian Cosmos le habla a Sailor Moon en el «Galaxy

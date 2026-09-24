@@ -1115,15 +1115,194 @@ Tres capturas reales de [The Video Games Museum](https://www.video-games-museum.
 
 ## 15 · Poses analizadas por personaje
 
-(pendiente)
+Salen de los vídeos (A, B, E de `escenas_01.jpg`, con minuto) y de las
+hojas de la wiki (#). Todas vistas por el redactor.
+
+### 15.1 Edward (13)
+
+| # | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| 1 | A15 · OP1 [0:28](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=28) | **palmas juntas** delante del pecho, ojos entornados, abrigo al viento | **explicar**, actuar: la pose de la serie |
+| 2 | #56 (manga a color) | el aplauso con **luz de transmutación** entre las manos, mirada al frente | **explicar** (versión de ilustración) |
+| 3 | E1 · tráiler [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47) | cara de frente, sonrisa ladeada, ojos a cámara | **presentar** |
+| 4 | E2 · blooper [4:12](https://archive.org/download/turner_video_11409/11409.mp4?t=252) | tres cuartos, un ojo dorado, media sonrisa | **celebrar**, presumir |
+| 5 | #10 (cap. 61) | **saludo militar** con sonrisa de oreja a oreja | saludar, dar la bienvenida |
+| 6 | #12 (cap. 78) | la **V** con los dedos, sonriendo | **celebrar** |
+| 7 | #93 | **pulgar arriba**, Al detrás | **animar** |
+| 8 | E3 · blooper [7:07](https://archive.org/download/turner_video_11409/11409.mp4?t=427) | cabeza adelantada, **grito** con la boca abierta | **regañar**, rabia |
+| 9 | #7 (cap. 1) | **en cuclillas**, brazos sobre la rodilla, mirada seria | **pensar**, explicar desde abajo |
+| 10 | A12-A13 · OP1 0:22-0:24 | de pie en el campo, abrigo al viento, ceño | **pensar** |
+| 11 | E4 · tráiler [0:34](https://archive.org/download/turner_video_134431/134431.mp4?t=34) | girado, alerta, en un callejón | acción |
+| 12 | #19 (cap. 6) | **sentado en el hombro de Al**, relajado | presentar en dúo |
+| 13 | E5 · blooper [5:54](https://archive.org/download/turner_video_11409/11409.mp4?t=354) | epílogo: coleta, mirada al horizonte | despedirse, pensar |
+
+### 15.2 Alphonse (9)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | E7 · tráiler [0:46](https://archive.org/download/turner_video_134431/134431.mp4?t=46) | de frente, erguido, ojos rojos encendidos | **presentar** |
+| 2 | #85 (hoja de modelo) | de pie, brazos a los lados, cuerpo entero | presentar, escala |
+| 3 | A21 · OP1 [0:40](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=40) | primer plano del casco, ojos rojos | serio |
+| 4 | A22 · OP1 0:42 | **corriendo** por el campo | **animar** |
+| 5 | tráiler [0:39](https://archive.org/download/turner_video_134431/134431.mp4?t=39) | casco con **ojos blancos redondos**, boca de sierra | reaccionar, broma |
+| 6 | #19 (cap. 6) | de pie con Ed sentado en su hombro | dúo, **animar** |
+| 7 | #90 | la armadura junto a Al humano **leyendo un libro** | **explicar**, estudiar |
+| 8 | Nendoroid (§24) | **pecho abierto con un gato dentro** | tierno, dar la bienvenida |
+| 9 | E8 · blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435) | tendido, inerte, Ed encima | sacrificio (no para lámina alegre) |
+
+### 15.3 Roy Mustang (8)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | #29 (hoja de modelo) | firme, de frente y de espaldas; **círculo de fuego en el dorso del guante** | presentar |
+| 2 | E10 · blooper [3:10](https://archive.org/download/turner_video_11409/11409.mp4?t=190) | ramo de flores en la mano, media sonrisa | **presentar en tono ligero** |
+| 3 | E9 · blooper [1:20](https://archive.org/download/turner_video_11409/11409.mp4?t=80) | cara de frente, ceño | **regañar** |
+| 4 | #59 | contrapicado, barbilla alta | mandar |
+| 5 | #58 | en su despacho, con Riza | **explicar**, coordinar (§27 C) |
+| 6 | A24 · OP1 [0:46](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=46) | de espaldas, fondo de fuego | mostrar poder |
+| 7 | Nendoroid (§24) | **chasquido de dedos** con la línea de fuego | actuar, el gesto de Roy |
+| 8 | E11 · blooper [7:19](https://archive.org/download/turner_video_11409/11409.mp4?t=439) | ojos cerrados, junto a Riza herida | emoción, no para presentar |
+
+### 15.4 Winry (10)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | #32 (eyecatch) | **llave inglesa** en alto, sonrisa | **presentar**, explicar el oficio |
+| 2 | #60 | arrodillada, feliz, con un automail en el suelo | **celebrar** |
+| 3 | #81 (hoja de modelo) | ropa de trabajo en tres vistas | presentar, vestuario |
+| 4 | B19-B20 · ED1 [0:54](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=54) | en su banco, **se tapa la cara** con las manos | **regañar**, exasperarse (*chibi*) |
+| 5 | E14 · blooper [7:26](https://archive.org/download/turner_video_11409/11409.mp4?t=446) | niña, **manos en la boca**, gritando | **animar**, llamar |
+| 6 | E13 · blooper [2:38](https://archive.org/download/turner_video_11409/11409.mp4?t=158) | de perfil, escuchando | **pensar** |
+| 7 | #61 (eyecatch) | con una **cámara** | enseñar algo |
+| 8 | #44 (tomo 5) | con Den, el perro de la pierna de automail | tierna |
+| 9 | #2 | con Ed y el *kagami mochi* | celebrar (Año Nuevo) |
+| 10 | Nendoroid (§24) | llave inglesa, tarta de manzana y **la mano de Ed señalando** | interactuar con Ed |
+
+### 15.5 Otros
+
+- **Hughes**: serio con la pistola (E12, [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24));
+  serio (A23, OP1 0:44); alarmado al teléfono (tráiler de 2009, ~0:35 ⚠️).
+- **Riza**: en el despacho con Roy (#58); herida y firme (E11); modelo 3D
+  (§4.1).
+- ❌ **Faltan** poses de vídeo de Riza y Hughes contentos, y de Winry
+  adulta enfadada: ningún capítulo se pudo abrir.
+
+### 15.6 Qué pose para qué
+
+| Para… | Edward | Alphonse | Roy | Winry |
+|---|---|---|---|---|
+| presentar | E1 | E7 | E10 | #32 |
+| explicar | A15, #56 | #90 | #58 | #32 |
+| celebrar | #12, E2 | — | — | #60 |
+| regañar | E3 | — | E9 | B19-B20 |
+| pensar | #7, A12 | — | #59 | E13 |
+| animar | #93 | A22, #19 | — | E14 |
 
 ## 16 · Vestuario, con hex medidos
 
-(pendiente)
+Medido con `estilo.py` sobre **hojas de modelo oficiales** (no sobre
+escenas con luz de ambiente). Los PNG con fondo transparente se pusieron
+antes sobre blanco (si no, el canal alfa cuenta como negro).
+
+### 16.1 Edward
+
+**El traje icónico** ([Edward_Full_Body.png](https://static.wikia.nocookie.net/fma/images/1/15/Edward_Full_Body.png), 650×1220, #77) ✅:
+- **abrigo rojo con capucha** `#DA4332`, con la **cruz de Flamel negra en
+  la espalda** (ED1 B29; wiki);
+- chaqueta, pantalón y botas **negros** `#0D1012` (la wiki dice que va de
+  negro para disimular las manchas de aceite);
+- piel `#E9E5D8`; guantes blancos; automail de **plata media con
+  remaches**; hebilla dorado mate (a ojo: área pequeña);
+- **pelo**: trenza hasta los hombros y **mechón de punta** arriba.
+- Línea `#805142`, **marrón rojizo, no negra**; sombreado plano.
+
+**Después de la serie** ([2005_edward.png](https://static.wikia.nocookie.net/fma/images/f/f6/2005_edward.png), 1920×1080, #28) ✅:
+abrigo largo marrón `#423935`, chaleco `#857C6A`, camisa `#C5B79E`, sin
+automail a la vista; pelo **en coleta baja**, sin trenza (E5). Sólo para
+decir «ya recuperó su cuerpo». El icónico es el rojo.
+
+### 16.2 Alphonse
+
+([Alphonse_Full_Body.png](https://static.wikia.nocookie.net/fma/images/f/fc/Alphonse_Full_Body.png), 553×1301, #85) ✅:
+- placas **gris azulado** `#7C8592`, en sombra `#646E74`, brillos
+  `#AFB5C6` y `#C1C5D8`;
+- **faldón blanco lavanda** a la cintura `#D9D0EC` y `#EDE6F1`;
+- casco con una **cresta** y pinchos en los hombros; la cruz de Flamel en
+  el hombro o el pecho (hoja #7).
+- Mucha línea (`#707784`): juntas y remaches.
+
+### 16.3 Roy Mustang
+
+([Roy_2005.png](https://static.wikia.nocookie.net/fma/images/1/15/Roy_2005.png), 1920×1080, #29) ✅:
+- **uniforme azul marino** `#354565` con cuello alto y botonadura dorada;
+- pelo y botas `#191B1F`; piel `#DACCBB`;
+- **guantes blancos** (≈`#F0EEE9`, a ojo) con el **círculo de fuego en el
+  dorso**;
+- pelo corto y despeinado sobre los ojos; peinado hacia atrás en momentos
+  formales (wiki).
+- Poca línea (`#3C3D44`), sombreado plano.
+
+### 16.4 Winry
+
+**La ropa de trabajo**, dos hojas de producción que coinciden ✅✅
+([WinryMecahnicArtwork.jpg](https://static.wikia.nocookie.net/fma/images/d/d5/WinryMecahnicArtwork.jpg), 1024×724, #81, rotulada «ウィンリィー作業着»; y
+[Winry_Full_Body.png](https://static.wikia.nocookie.net/fma/images/a/a0/Winry_Full_Body.png), 454×1221, #96):
+- **mono verde pálido** `#D2D9B2`, con la parte de arriba **anudada a la
+  cintura**. **No es beige**, como dice la ficha de la wiki: el estudio lo
+  pinta verde (lo confirma también el fondo de Mona Finden, §17);
+- **top negro** corto (bandeau);
+- **pañuelo verde** en la cabeza `#7E8E62` y `#A7AE8E`;
+- pelo rubio `#F7F3DA` y `#F6EFB7`, **coleta alta**, flequillo al medio;
+- guantes de cuero marrón (≈`#6B4A2E`, a ojo); sandalias; **muchos
+  pendientes** en las orejas.
+- Línea verde oliva (`#818763`, `#777D5A`).
+
+### 16.5 Otros
+
+- **Ejército de Amestris**: casacas azules, botas negras, charreteras según
+  el rango y **capa blanca** en terreno hostil ✅ ([wiki](https://fma.fandom.com/wiki/State_Military)).
+- **Riza**: el mismo uniforme azul (modelo 3D en §4.1; hoja #58).
+- **Hughes**: uniforme azul, **gafas rectangulares** y barba de tres días
+  (E12).
+
+### 16.6 Lo que todos reconocen
+
+**Ed = abrigo rojo + trenza + automail**. **Al = la armadura con el faldón
+blanco**. **Roy = uniforme azul + guantes blancos**. **Winry = mono verde
+atado a la cintura + pañuelo + llave inglesa**.
 
 ## 17 · Paisajes y fondos de pantalla
 
-(pendiente)
+### 17.1 Los sitios y su hora (paletas en §5)
+
+| Sitio | Hora y luz | Imagen |
+|---|---|---|
+| **Resembool** (pueblo de los Elric y los Rockbell) | día soleado, colinas verdes, cielo limpio | [Rockbells-house.png](https://static.wikia.nocookie.net/fma/images/9/94/Rockbells-house.png) 1280×800; E22; A4 |
+| **Ciudad Central** (capital, Cuartel General) | día nublado, piedra gris | [Centralcity_movie2.png](https://static.wikia.nocookie.net/fma/images/1/16/Centralcity_movie2.png) 1280×1600; E19 |
+| **Ishval** | sombra de posguerra; de noche, incendio rojo | [Ishval-people.png](https://static.wikia.nocookie.net/fma/images/f/f6/Ishval-people.png) 1280×800 |
+| **Fuerte Briggs** (frontera norte) | día despejado y helado | [Fort.png](https://static.wikia.nocookie.net/fma/images/c/c6/Fort.png) 1280×800; E20 |
+| **Xerxes** (ruinas) | mediodía fuerte | [Ruins.png](https://static.wikia.nocookie.net/fma/images/6/6c/Ruins.png) 640×730 |
+| **Lior** (catedral de Leto) | atardecer y noche | [Lior0.png](https://static.wikia.nocookie.net/fma/images/4/4c/Lior0.png) 1280×800 |
+| **Rush Valley** (la ciudad del automail) | página de manga en blanco y negro | hoja #8 ([0017-008.jpg](https://static.wikia.nocookie.net/fma/images/5/5c/0017-008.jpg)) |
+| **La Puerta de la Verdad** | blanco infinito | E21; [Truth.png](https://static.wikia.nocookie.net/fma/images/e/e8/Truth.png) 1280×800 |
+
+### 17.2 Fondos de pantalla (Wallhaven, etiquetas revisadas una a una) ✅
+
+| Qué | Tamaño | Autor | Enlace |
+|---|---|---|---|
+| **Ed y Al entre flores** (estilo oficial) | 1920×2632 | Mona Finden | [wallhaven-ey75ro](https://w.wallhaven.cc/full/ey/wallhaven-ey75ro.jpg) |
+| **Winry con el mono verde y la llave** | 2400×3597 | Mona Finden | [wallhaven-k7rkwq](https://w.wallhaven.cc/full/k7/wallhaven-k7rkwq.jpg) |
+| Ed, manos y letra del logo, minimalista | 1920×1200 | — | [wallhaven-43kl3d](https://w.wallhaven.cc/full/43/wallhaven-43kl3d.jpg) |
+| Ed sobre rojo, minimalista | 3840×2160 | — | [wallhaven-gjz3pq](https://w.wallhaven.cc/full/gj/wallhaven-gjz3pq.jpg) |
+| **Lust con el uróboros** (el más guardado: 319 ♥) | 2560×1440 | origen ArtStation | [wallhaven-exq3q8](https://w.wallhaven.cc/full/ex/wallhaven-exq3q8.jpg) |
+
+Descartados: `wallhaven-28j5dm` y `wallhaven-oxzldm` (collages de varios
+animes). Son de fans: **referencia**, no para pegar.
+
+⚠️ **No encontré** una página oficial de fondos (ni de Square Enix, ni de
+BONES, ni de la web japonesa): se buscó en japonés («フルメタル錬金術師 壁紙
+公式 ダウンロード») y en inglés; sólo salen bancos de fans. Lo oficial en
+alta más cercano: el banner de AniList (1900×1188) y el póster (1143×1600).
 
 ## 18 · Guía para generar con IA: imagen y texto
 
