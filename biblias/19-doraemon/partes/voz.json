@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://archive.org/details/episodio-737-chip-de-reservacion",
+    "fuente": "Internet Archive · colección Doraemon Español (Episodios 01-300)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Episodio doblado completo 'El Pueblo de Nobita'; transcrito con herramientas/voz.py (Whisper): frases textuales del doblaje latino con minuto, primera vez que esta biblia consigue esto",
+    "para_que": "Punto 8: frases textuales del doblaje latino, resuelve el hueco marcado en la biblia; también ficha de voz (tono/velocidad) del doblaje clásico",
+    "licencia": "Resubida de fans en Internet Archive; sólo para cita e investigación, no redistribuir el vídeo"
+  },
+  {
+    "url": "https://archive.org/details/doraemon-en-la-tierra-secreta-doblaje-cubano-icaic-1985",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doblaje cubano del ICAIC (1985) de 'Doraemon en la tierra secreta', un tercer doblaje latino histórico que la biblia no tenía",
+    "para_que": "Punto 8: historia del doblaje latino, dato curioso para un servidor de doblaje",
+    "licencia": "Reubida de fans en Internet Archive; sólo cita, no redistribuir"
+  },
+  {
     "url": "https://doblaje.fandom.com/es/wiki/Doraemon_(1979)",
     "fuente": "Doblaje Wiki (API directa, wikitext)",
     "ancho": null,

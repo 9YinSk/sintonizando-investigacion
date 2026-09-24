@@ -12,6 +12,14 @@ Red abierta confirmada: `doblaje.fandom.com`, `doraemon.fandom.com`,
 200. YouTube pide iniciar sesión para vídeo completo, pero **la búsqueda de
 `yt-dlp` (metadatos, sin descargar) sí funciona** y no pide sesión.
 
+**Sobre `partes/datos-voz.md`**: el jefe avisó a media tanda que estaba
+corriendo `recolectar.py` para dejarlo. No llegó a aparecer mientras
+trabajé (lo comprobé varias veces). Como ya había hecho yo mismo las
+consultas equivalentes a la API de Doblaje Wiki (más a fondo: 4 páginas
+completas de wikitext, no sólo la principal), seguí sin esperarlo más para
+no perder la tanda. Si aparece después, un repaso futuro puede cotejarlo
+contra esto, pero no debería traer nada que no esté ya aquí para doblaje.
+
 ---
 
 ## Punto 8 · Doblaje latino (corrección y ampliación con la API de Doblaje Wiki)
@@ -514,7 +522,8 @@ vez de inventar un minuto.
   Japan announcement» (WebSearch).
 - **Japonés**: «スネ夫 ジャイアン しずかちゃん 誕生日 身長 体重 好きな食べ物
   公式設定», «ドラえもん なぜ人気 理由 世代を超えて愛される», «STAND BY ME
-  ドラえもん ラストシーン 号泣 感想» (WebSearch).
+  ドラえもん ラストシーン 号泣 感想», «ジャイアン のび太 スネ夫 しずか セリフ
+  口癖 話し方 特徴» (WebSearch).
 - **API directa (no WebSearch, no cuenta para el cupo de 50)**:
   `doblaje.fandom.com/es/api.php` en las páginas *Doraemon (1979)*,
   *Doraemon (2005)* y *Quédate conmigo, Doraemon* (wikitext completo);
@@ -522,10 +531,25 @@ vez de inventar un minuto.
   American Spanish)*; `nokikero.com/dora-character-birthday/` (artículo
   completo, no sólo snippet); `arctic-shift.photon-reddit.com` en
   r/Doraemon (20 posts recientes, casi sin puntuación — subreddit poco
-  activo, no sirvió para «por qué la aman»); `yt-dlp ytsearch` (7
-  búsquedas) para fandubs/covers sin necesitar sesión de YouTube.
+  activo, no sirvió para «por qué la aman»); `archive.org/advancedsearch.php`
+  (doblajes latinos en Internet Archive, encontró el cubano de 1985 y el
+  episodio transcribible); `yt-dlp ytsearch` (7 búsquedas) para
+  fandubs/covers sin necesitar sesión de YouTube; `herramientas/voz.py`
+  (Whisper local) sobre un episodio doblado real de Internet Archive.
 - **Fuentes consultadas que no dieron nada nuevo o fallaron**: Wikipedia en
   inglés vía API (rate-limited, «too many requests» — compartido con otros
   investigadores del contenedor); reddit.com directo (bloquea peticiones
   sin cabecera de navegador completa; Arctic Shift sí funcionó pero con
-  poco contenido útil).
+  poco contenido útil); dailymotion API de búsqueda (resultados de 10-56 s,
+  no episodios completos con diálogo).
+
+---
+
+Sigue: punto 13, «su cara en cada emoción» — sólo tiene minuto verificado
+alegría/miedo de Doraemon y Nobita, y alegría de Shizuka y Gigante. Faltan,
+con fotograma y minuto real (no deducido): rabia de Doraemon, tristeza de
+los 5 principales, y vergüenza de todos (incluido Suneo, que por carácter
+es el candidato obvio pero no tiene escena con minuto). Necesita
+`fotogramas.py` sobre más metraje (candidatos ya anotados en la tabla del
+punto 13) — es trabajo de vídeo/imagen, no de texto o audio, por eso no lo
+completé yo esta tanda.
