@@ -13,3 +13,4 @@ panel de uso de la cuenta cuando el dueño los diga.
 | 24-sep | 01 One Piece | seguir (económico) | voz, tanda 1 | Sonnet | 16 | 238 482 | 54 acciones; 12 datos nuevos (9 muestras del doblaje medidas con voz.py; «SE BUSCA» sí se dice en latino) |
 | 24-sep | 01 One Piece | seguir (económico) | imagen, tanda 1 | Sonnet | 17 | 228 957 | 86 acciones; puntos 19 y 23 enteros, 35 fuentes, 20 referencias |
 | 24-sep | 01 One Piece | seguir (económico) | texto | Sonnet | 17 | 239 165 | 96 acciones; puntos 18, 24 y 25 enteros, 23 datos ✅ y 10 ⚠️, 11 referencias; cerrada sin «Sigue:» |
+| 24-sep | 01 One Piece | seguir (económico) | video, tanda 1 | Sonnet | 18 | 185 745 | 63 acciones; 3 escenas miradas con minuto (eps. 53, 483, 1071), 2 poses, 2 ⚠️→✅ |
