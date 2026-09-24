@@ -1571,6 +1571,274 @@ nuestra de los subtítulos japoneses de Netflix):
 
 ---
 
+> [!note] Puntos 18-25 del encargo (repaso corto, 24-sep-2026)
+> Son los puntos que `ENCARGO.md` añadió el 24 de septiembre. Van aquí, entre
+> la guía para IA (§18) y los conceptos (§19). Salen de `partes/texto.md`
+> (18, 24, 25), `partes/imagen.md` (19, 23) y `partes/voz.md` (20, 21, 22).
+> - Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+> - Punto 19 · Texturas 2D
+> - Punto 20 · Gustos y detalles de cada personaje
+> - Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+> - Punto 22 · Fan dubs y comunidad hispana
+> - Punto 23 · Colaboraciones, figuras y cosplay
+> - Punto 24 · Obras parecidas y láminas vecinas
+> - Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**En corto**: Isayama dibuja **a mano, en papel**, con mucho tramado cruzado y
+línea irregular a propósito. El anime (WIT, T1-T3) mezcla **personajes en 2D
+con fondos, caballos y vuelo en 3DCG**; MAPPA (T4) usa más CG y va más pegado
+al manga. Se replica con sombra dura de dos tonos, contorno negro fino y
+grano suave. Datos de `partes/texto.md`.
+
+### Punto 18.1 · Isayama: a mano y «feo a propósito» ✅
+
+- **Dibuja en analógico**: «creo que no me saldría bien el dibujo si lo
+  hiciera en digital». Rasca el papel grueso y le echa mucho corrector: su
+  original **tiene relieve**. Prefiere un dibujo «memorable, aunque sea
+  memorablemente malo» a uno genérico · entrevista de 2014 traducida en
+  [mangabrog](https://mangabrog.wordpress.com/2014/12/24/interview-with-hajime-isayama-creator-of-attack-on-titan-better-to-have-memorable-art-even-memorably-bad-art-and-stand-out/).
+- **Tramado cruzado (cross-hatching)** para sombras y caras tensas; línea
+  **irregular a propósito**, para que el mundo se sienta inestable · dos
+  fuentes: [FIHEROE](https://www.fiheroe.com/blogs/anime-drawing-all-things-animation/attack-on-titan-manga-art-techniques-hajime-isayama)
+  y [Where Creativity Works](https://wherecreativityworks.com/illustrator-study-hajime-isayama/).
+- **Cómo aprendió**: copiando páginas enteras (模写, *mosha*) de George
+  Morikawa y de otro autor antes de publicar (⚠️ la parte lo escribe «Seio
+  Seio»; sin comprobar) · [entrevista de Clip Studio (JA)](https://www.clipstudio.net/oekaki/archives/152645).
+- **Qué programa usa hoy**: no lo encontré ⚠️. Clip Studio usa su imagen en un
+  libro de consejos, pero eso no dice que lo use.
+- Lo vi en el manga (Punto 19.1): rayado a mano muy denso en ropa y caballos,
+  trama mecánica de puntos en los cielos y **líneas de velocidad negras**.
+
+### Punto 18.2 · WIT Studio (T1-T3): 2D + 3DCG y «maquillaje digital»
+
+- **Tetsurō Araki** (director T1-T3): la belleza «sale del choque entre la luz
+  y la sombra»; usa mucho **destello de lente** (por el cineasta Shunji Iwai);
+  ayudó a estandarizar **fondos en 3DCG con personajes en 2D**, empezando por
+  AoT; *storyboard* en 3D para la acción; paleta «pesada e intensa» ·
+  [fullfrontal.moe](https://fullfrontal.moe/tetsuro-araki/) ✅ (cuadra con la
+  paleta apagada medida en §5).
+- **Director de fotografía**: Kazuhiro Yamada ([ANN](https://www.animenewsnetwork.com/encyclopedia/people.php?id=25502)).
+  Una entrevista suya sobre grano o aberración: no la encontré ⚠️.
+- **3DCG de MADBOX**, con Shūhei Yabuta de director de CG: el **equipo de
+  maniobras, la cámara que sigue el vuelo y los caballos** ·
+  [SlashFilm](https://www.slashfilm.com/834201/the-anime-that-inspired-attack-on-titans-shift-to-cgi/)
+  y [UK Anime Network, entrevista a WIT](https://uk-anime.net/articles/titans_of_animation_-_the_wit_studio_interview.html) ✅.
+- **«Maquillaje digital» (T2)**: artistas digitales retocaban dibujos
+  intermedios para dar textura de ilustración a pelo y ojos de titanes. Se
+  llamó «Special Effects For Living Beings» (Chie Yamazaki). Los caballos, casi
+  siempre en 3DCG, «la pesadilla de los animadores» ·
+  [Sakuga Blog](https://blog.sakugabooru.com/2017/04/13/attack-on-titan-season-2-production-notes-1-2/) ⚠️ (una fuente, especializada).
+
+### Punto 18.3 · MAPPA (temporada final): más CG, más manga
+
+- WIT: parte a mano y parte CG, brillaba en el vuelo. MAPPA: **más CG**,
+  **proporciones más fieles al manga**, estilo «más realista», peso en los
+  combates de titanes y *rotoscoping*. Dividió al fandom ✅ (tres fuentes:
+  [Gamerant](https://gamerant.com/attack-on-titan-who-did-it-better-wit-studio-vs-mappa/),
+  [CBR](https://www.cbr.com/attack-on-titan-season-4-premiere-maapa-wit-animation-differences/),
+  [Twinfinite](https://twinfinite.net/features/mappa-didnt-deserve-the-hate-for-attack-on-titans-final-season/);
+  también [AnimeIgnite](https://animeignite.com/wit-to-mappa-aot-final-season/)).
+- El director de la T4 (parte 1), Yuichirō Hayashi, se inspiró en el CG de
+  *Dorohedoro*, según dijo a *Japan Forward* ⚠️ (sin enlace propio en la parte).
+- **Para la lámina**: no mezclar. Si es de T1-T3, estilo WIT (§18).
+
+### Punto 18.4 · Sombreado, línea y filtros
+
+- **Sombra**: dos tonos, dura, poco brillo; **contorno negro fino con muchas
+  líneas de tensión** (ya en §18). Es el tramado de Isayama pasado a
+  cel-shading.
+- **Filtros**: viñeteado suave, grano fino y algo de *bloom* en antorchas
+  (`#D29258`, §5). Se ven, pero **no encontré** una entrevista que los nombre
+  ⚠️: lo trato como técnica corriente del anime de 2013.
+
+### Punto 18.5 · Cómo reproducirlo en Photoshop
+
+- **Capas**, de abajo arriba:
+  1. color plano;
+  2. sombra dura en máscara de recorte, al 100 %, borde sin difuminar;
+  3. línea en Multiplicar, negro casi puro (`#0D0D0D`-`#1A1A1A`, propuesta del
+     investigador, no medida);
+  4. papel o grano al 8-12 % en Superponer;
+  5. viñeta sutil.
+- **Pinceles**: tinta dura sin presión en el borde para el contorno; tramado
+  cruzado a mano, o el filtro de trama de medios tonos de Photoshop para la
+  trama del manga (y los pinceles de Punto 19).
+- **Ajustes**: Curvas para una banda de sombra dura; Equilibrio de color hacia
+  verde-ocre en las sombras (§5); *Añadir ruido* monocromático al 2-4 %.
+
+### Punto 18.6 · Cómo reproducirlo en Blender
+
+- **Shader toon** (nodos nativos, gratis): Diffuse BSDF → **Shader to RGB**
+  (sólo Eevee) → **Color Ramp en Constante** con dos paradas → multiplicar por
+  el color base. Virar la sombra a **azul o morado**, no sólo oscurecer ·
+  [StraySpark Studio](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender).
+  También hay un nodo **Toon BSDF** ([manual de Blender](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/toon.html)).
+- **Contorno**, tres formas nativas:
+  1. **Line Art** (desde 2.93): grosor constante en píxeles, el más parecido
+     al manga · [tutorial](https://www.classcentral.com/course/youtube-easy-real-time-toon-shader-outlines-with-new-blender-2-93-line-art-feature-222968).
+     **El mejor para la lámina.**
+  2. **Freestyle**: más lento; varía el grosor por ángulo (líneas de tensión).
+  3. **Solidify invertido** con material negro y *Backface Culling*: rápido,
+     pero el grosor cambia con la distancia.
+- **Luz y render**: **una sola luz Sol** fuerte para un borde de sombra
+  limpio. En *Color Management*, **View Transform en Estándar**, no AgX: AgX
+  aplana los colores planos (StraySpark).
+- **Texturas encima**: las de Poly Haven de §4.2 (`castle_brick_07`,
+  `rough_plaster_brick`, `sandstone_blocks_08`), las CC0 de Punto 19, y grano
+  y viñeta en *compositing*.
+- **Modelos con esqueleto** (API de Sketchfab, 24-sep-2026, todos **CC BY**,
+  descargables). Crédito: «ianadrielbravo en Sketchfab». Sólo para pose y
+  proporción; retexturizar con los hex de §5 y no publicarlos tal cual:
+
+| Modelo | Autor | Caras | Esqueleto | Enlace |
+|---|---|---|---|---|
+| **Levi Ackerman rig** | ianadrielbravo | 29 423 | ✅ | [01ffa989…](https://sketchfab.com/3d-models/01ffa989559941ef807cc07b3fed40b8) |
+| Eren - attack on titan | AZlZ | 9 409 | sin comprobar | [e249261e…](https://sketchfab.com/3d-models/e249261e7d4a4bb48ffbd0a7f84001a0) |
+| Aotwa_armin_arlelt rig | ianadrielbravo | 26 531 | ✅ | [eb79c080…](https://sketchfab.com/3d-models/eb79c080ba4645df8246bcf81ae8c759) |
+| Aot sasha braus rig | ianadrielbravo | 18 117 | ✅ | [625e1d01…](https://sketchfab.com/3d-models/625e1d017086400481faba3019da8e77) |
+| Aot Smiling Titan rig | ianadrielbravo | 18 196 | ✅ | [d697d485…](https://sketchfab.com/3d-models/d697d4856d724144beccfd7471d9f5c9) |
+| Beast Titan rig | ianadrielbravo | 24 306 | ✅ | [fa271e04…](https://sketchfab.com/3d-models/fa271e0452394ca6bece9fdefd5287d7) |
+| Aot female_titan | ianadrielbravo | 14 902 | sin comprobar | [05aec839…](https://sketchfab.com/3d-models/05aec8398757451fb9ceed7b304f4ab1) |
+
+  Levi sin esqueleto (TKSAET) y el equipo de maniobras (marthacuenca) ya
+  están en §4. **No comprobé** la importación en Blender ⚠️ (no hay Blender en
+  el contenedor): revisar el esqueleto al bajarlos (glTF, FBX u OBJ).
+
+### Punto 18.7 · Encuadre y composición
+
+- **Contrapicado para los titanes**: exagera su tamaño y lo pequeño del
+  humano. Se respeta la **regla de los 180°**, salvo en las persecuciones con
+  el equipo de maniobras, donde se rompe a propósito para dar vértigo.
+  **Paneos** en las peleas y **fotogramas congelados** en el instante clave ·
+  [RedQStudios](https://www.redqstudios.com/p/attack-on-titan-shingeki-no-kyojin_3.html) ⚠️ (una fuente).
+- **Por emoción** (de lo ya visto en §10, §11 y §18):
+
+| Emoción | Encuadre | Luz | Ejemplo |
+|---|---|---|---|
+| Calma, explicar | plano medio frontal | plana | tribunal, E·1-E·3 |
+| Tensión, pelea | contrapicado + paneo rápido | destello de lente (Araki) | carga de Erwin, P·22 |
+| Duelo, discurso | primer plano de ojos | lateral dura, antorchas `#D29258` | Erwin, ep. 16 (E·13-E·14) |
+| Revelación, sentencia | **simétrico**, personaje pequeño y centrado ante un fondo enorme | alta, de ventanas (Concepto B) | tribunal, E·3: juez arriba, acusado abajo |
+| Pérdida | cenital, o el personaje de espaldas | madera oscura | Sasha, ep. 67 (Punto 21.4) |
+
+- Ya en §18: plano medio desde abajo, capa al viento y **algo delante** del
+  personaje.
+
+---
+
+## Punto 19 · Texturas 2D
+
+**En corto**: cuatro capas. **Trama y rayado del manga**, **papel**, **tela
+y cuero** del uniforme (lisos: no hay estampados) y los **4 emblemas**. Todas
+tienen equivalente libre. Las texturas 3D reales (piedra, madera) están en
+§4.2. Datos de `partes/imagen.md`.
+
+### Punto 19.1 · Trama del manga y pincelada (miradas, no supuestas) ✅
+
+- **[`Manga_Wall_Maria_operation.png`](https://static.wikia.nocookie.net/shingekinokyojin/images/9/9c/Manga_Wall_Maria_operation.png)**
+  (946×643, wiki). Erwin a caballo, espada en alto, cargando. Se ve:
+  - **rayado a mano muy denso** en el caballo y en las sombras de la ropa:
+    líneas finas y paralelas, más juntas donde hay más sombra;
+  - **trama mecánica de puntos** en cielo y hierba: gris uniforme de retícula
+    fina, pegada, no dibujada;
+  - **líneas de velocidad** gruesas y totalmente negras detrás de Erwin.
+- **[`AoT_Manga_final_panel.png`](https://static.wikia.nocookie.net/shingekinokyojin/images/2/29/AoT_Manga_final_panel.png)**
+  (843×460, wiki). El **boceto a lápiz sin entintar** del panel final, que
+  Isayama dibujó en directo en el documental *Jōnetsu Tairiku* (MBS,
+  18-nov-2018). Líneas sueltas, varias pasadas, sin tinta ni trama. Sirve
+  para un **pincel de lápiz**, no de tinta. Real, con dos fuentes:
+  [ANN](https://www.animenewsnetwork.com/news/2018-11-18/attack-on-titan-manga-final-panel-previewed-on-tv/.139667)
+  y [ComicBook.com](https://comicbook.com/anime/news/attack-on-titan-manga-final-panel-finale-spoilers/) ✅.
+
+### Punto 19.2 · Papel
+
+- El papel de la ficha «Información pública» ya está medido: `#F2F2F2`
+  (§5, §7). Es la base del cuadro de diálogo propio de la serie.
+- **Libre (CC0)**: [`Paper001` de ambientcg](https://ambientcg.com/view?id=Paper001),
+  papel blanco liso (2048×2048), comprobado por su API. Encima, el gris
+  medido.
+
+### Punto 19.3 · Tela y cuero (no hay estampados)
+
+- Revisé los visuales grandes (P·5, P·6) y el texto *Appearance* de la wiki:
+  **ninguna prenda de la Legión, la Policía Militar ni la Guarnición lleva
+  estampado**. Son colores planos. El emblema va bordado sólo en la espalda
+  de la capa. Busqué también «uniform pattern / fabric» en la wiki y «制服 柄»
+  en japonés: no encontré un estampado textil.
+- **Libres (CC0, ambientcg)**:
+  - [`Fabric019`](https://ambientcg.com/view?id=Fabric019): lana tejida
+    blanca; teñirla del verde de la capa (`#1E261F`-`#3C4E3A`, §5).
+  - [`Leather037`](https://ambientcg.com/view?id=Leather037): cuero marrón
+    liso, para las correas del equipo de maniobras y las botas.
+
+### Punto 19.4 · Emblemas y logos
+
+- Los 4 emblemas de facción ya están con tamaño (F·19-22, §2). Alas de la
+  Libertad: azul `#162873`, blanco `#E3E3E5`, escudo gris `#AFADAB` (§5).
+- **El propio licenciante los trata como «el juego completo»**: la mochila
+  «Regiment Cloak» de *Fortnite* deja elegir **los mismos 4** como parche ·
+  [Siliconera](https://www.siliconera.com/fortnite-attack-on-titan-collab-adds-eren-levi-mikasa-and-odm-gear/) ✅.
+- **Vector libre para rehacer la silueta** sin copiar el emblema: alas y
+  coronas de laurel en [Noun Project](https://thenounproject.com/browse/icons/term/laurel-wreath/)
+  (CC BY, con atribución) o [Vecteezy «Military Wings»](https://www.vecteezy.com/free-vector/military-wings)
+  (licencia gratuita con atribución) ⚠️ ninguno es CC0: poner el crédito o
+  pagar.
+
+### Punto 19.5 · Las capas, de un vistazo
+
+| Capa | En la serie | Libre | Licencia |
+|---|---|---|---|
+| Trama de fondo | puntos mecánicos en cielos (19.1) | 34 pinceles de semitono `.abr` en [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) | ⚠️ gratis; el texto de la licencia no cargó: revisarlo antes de un uso comercial |
+| Rayado de sombra | tramado denso a mano | el mismo pack, o un pincel duro de lápiz | igual |
+| Boceto | lápiz sin entintar (19.1) | pincel de lápiz de Photoshop o Clip Studio | — |
+| Papel | ficha `#F2F2F2` | `Paper001` | **CC0** |
+| Tela | capa verde lisa, camisa gris | `Fabric019` | **CC0** |
+| Cuero | correas, botas | `Leather037` | **CC0** |
+| Emblemas | F·19-22 | Noun Project o Vecteezy | CC BY o gratuita con atribución |
+
+No hice hoja nueva: `hojas/` ya tiene sus 3. Las dos páginas de manga van con
+su enlace directo.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+<!-- pendiente: punto 20 -->
+
+---
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+<!-- pendiente: punto 21 -->
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+<!-- pendiente: punto 22 -->
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+<!-- pendiente: punto 23 -->
+
+---
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+<!-- pendiente: punto 24 -->
+
+---
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+<!-- pendiente: punto 25 -->
+
+---
+
 ## 19 · Tres conceptos de lámina (nuevos; la estela ya está hecha)
 
 ### Concepto A · «Reglamento del cuartel» (las reglas, con Levi limpiando)
