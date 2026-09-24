@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'Hunter x Hunter', '--wiki', 'hunterxhu · animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/136_
@@ -264,9 +264,9 @@ _Fuente: https://api.dailymotion.com_
 - Hunter X Hunter · 1:11 · Reda · 1109 vistas · https://www.dailymotion.com/video/x9t22u6
 - HUNTER X HUNTER · 1:35 · JeuxVideo.com · 628 vistas · https://www.dailymotion.com/video/x89o011
 - Hunter X Hunter · 1:36 · TV-programme.com · 563 vistas · https://www.dailymotion.com/video/x9gxaz2
-- Hunter x hunter - opening · 1:04 · Uh uh uh · 477 vistas · https://www.dailymotion.com/video/xb4ae
 - Daily Hunter X Hunter · 2:03 · JeuxVideo.com · 398 vistas · https://www.dailymotion.com/video/x8dtwp0
 - Todos los Capitulos de Hunter X Hunter Audio Latino online · 1:56 · Ricky Mtz · 343 vistas · https://www.dailymotion.com/video/x22h935
+- Hunter X Hunter · 1:15 · Lehanneur Eliot · 179 vistas · https://www.dailymotion.com/video/xazqlb2
 **«Hunter x Hunter doblaje latino»**
 - Hunter X Hunter · 1:11 · Reda · 1109 vistas · https://www.dailymotion.com/video/x9t22u6
 - HUNTER X HUNTER · 1:35 · JeuxVideo.com · 628 vistas · https://www.dailymotion.com/video/x89o011
@@ -285,12 +285,11 @@ _Fuente: https://api.dailymotion.com_
 - Hunter X Hunter · 1:11 · Reda · 1109 vistas · https://www.dailymotion.com/video/x9t22u6
 - HUNTER X HUNTER · 1:35 · JeuxVideo.com · 628 vistas · https://www.dailymotion.com/video/x89o011
 - Hunter X Hunter · 1:36 · TV-programme.com · 563 vistas · https://www.dailymotion.com/video/x9gxaz2
-- Hunter x hunter - opening · 1:04 · Uh uh uh · 477 vistas · https://www.dailymotion.com/video/xb4ae
 - Daily Hunter X Hunter · 2:03 · JeuxVideo.com · 398 vistas · https://www.dailymotion.com/video/x8dtwp0
 - Todos los Capitulos de Hunter X Hunter Audio Latino online · 1:56 · Ricky Mtz · 343 vistas · https://www.dailymotion.com/video/x22h935
+- Hunter X Hunter · 1:15 · Lehanneur Eliot · 179 vistas · https://www.dailymotion.com/video/xazqlb2
 
 ## Reddit r/hunterhunterrage: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/hunterhunterrage_
 
 **«favorite character»**
-**«why I love»**
