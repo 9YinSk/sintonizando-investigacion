@@ -1,7 +1,7 @@
 # Vídeo — Vinland Saga (encargo 78)
 
 Investigador de vídeo. Puntos 2, 4, 9, 10 y 14 de ENCARGO.md. Parte de
-`datos-video.md` (AnimeThemes cayó con HTTP 522, comprobado dos veces hoy —
+`datos-video.md` (AnimeThemes cayó con HTTP 522, comprobado tres veces hoy —
 sigue caído). YouTube pide iniciar sesión desde este servidor para bajar vídeo
 (confirmado: `yt-dlp` da `HTTP Error 403: Forbidden` al descargar), así que
 todo lo mirado sale de **Dailymotion** (vídeo completo, se descarga bien) y de
@@ -350,8 +350,7 @@ este servidor, o conseguir los mismos clips en Dailymotion/Internet Archive
    https://www.youtube.com/watch?v=rsZc66_fisM · sirve para **pensar/estar a
    solas** (antes de su transformación en rey).
 
-**Einar** (3 fotogramas — el que menos aparece en lo que pude mirar; ⚠️
-incompleto, ver "Sigue"):
+**Einar** (6 fotogramas, capítulo/clip y minuto):
 
 1. Tráiler S2, 0:19 — silueta a contraluz envuelta en humo y fuego rojo,
    sólo se distingue el perfil del pelo y un brazo alzado, subtítulo "Yo era
@@ -364,6 +363,24 @@ incompleto, ver "Sigue"):
    (mismo aviso de identidad que en el punto 5 de Thorfinn) ·
    https://www.dailymotion.com/video/x8h1n5b?t=91 · sirve para **trabajar/
    perseverar**.
+4. Clip "Einar Becomes Ketil's Slave" (canal oficial **Netflix Anime**,
+   storyboard, ~14 s dentro de un clip de 99 s) — primer plano, mirada seria
+   y tensa hacia arriba (a Ketil, cuyo pelo rubio se ve al borde del
+   encuadre), boca cerrada, cejas algo fruncidas; identidad confirmada por el
+   subtítulo automático en español, "-¿Cómo te llamas? -Einar." (0:00-0:03) ·
+   https://www.youtube.com/watch?v=Zk4Iy5PBsOw · sirve para **reaccionar con
+   cautela/desconfianza** ante un desconocido (llega como esclavo a la granja
+   de Ketil).
+5. Mismo clip, ~31 s — primer plano muy cerrado, una lágrima marcada bajando
+   por la mejilla, mirada de reojo, mandíbula tensa; coincide con el
+   subtítulo "¿En el campo?" (0:31-0:32, su reacción a que Ketil le pida
+   trabajar la tierra) · https://www.youtube.com/watch?v=Zk4Iy5PBsOw · sirve
+   para **contener la emoción/tristeza silenciosa**.
+6. Mismo clip, ~76 s — primer plano extremo, ojos muy abiertos, cejas
+   fruncidas hacia arriba, boca entreabierta como si jadeara; cae poco
+   después de la última línea del clip ("primero échale un vistazo a la
+   granja", 1:10-1:12) · https://www.youtube.com/watch?v=Zk4Iy5PBsOw · sirve
+   para **reaccionar con sorpresa/conmoción**.
 
 ## Lo mejor para la lámina
 
@@ -391,8 +408,8 @@ incompleto, ver "Sigue"):
   buscarlas, dejo la API de ambientCG lista para quien lo retome.
 - ⚠️ Episodio exacto del "discurso de la marea" de Canute.
 - ⚠️ Segunda fuente para el compositor Yutaka Yamada.
-- ⚠️ AnimeThemes (HTTP 522 las dos veces que lo probé, con más de una hora de
-  diferencia).
+- ⚠️ AnimeThemes (caído las tres veces que lo probé, con más de una hora de
+  diferencia; las dos primeras con HTTP 522, la tercera con timeout total).
 - ⚠️ Openings/endings en 1080p reales (sólo storyboard de baja resolución
   para el ED1 y para los 3 clips de escenas icónicas; el OP1 y el tráiler S2 sí
   se vieron en 1280×720 vía Dailymotion).
@@ -433,6 +450,18 @@ incompleto, ver "Sigue"):
   Askeladd Scene CLIP 1080p HD DUB" (`1nRt6tiU20g`) y "Vinland Saga | Prince
   Canute awakens" (`rsZc66_fisM`) — los dos con subtítulos en inglés
   legibles en el storyboard.
+- AnimeThemes reintentado (dos endpoints, `curl` directo): sigue caído,
+  ahora con timeout total en vez de 522 (tercera comprobación del día).
+- `yt-dlp --dump-json "ytsearch8:Vinland Saga Einar scene clip"` para
+  completar el mínimo de 6 poses de Einar: de los 8 candidatos, usé el clip
+  oficial de **Netflix Anime** "Einar Becomes Ketil's Slave" (`Zk4Iy5PBsOw`,
+  storyboard + `--write-auto-subs --sub-langs "en,es.*"` para confirmar el
+  nombre en el subtítulo). También miré "Vinland Saga S2 Einar rages over his
+  dead family" (canal fan MirokSs, `Nu6G6dy1C88`, primer plano gritando de
+  rabia con la aldea ardiendo detrás) y "Einar Meets Arnheid" (Crunchyroll
+  Dubs, `GA9-IOiOwMA`) pero no los usé: el primero no tenía episodio ni
+  fuente oficial que confirmar y el segundo dio 429 al pedir sus metadatos
+  (no insistí, ya tenía las 3 poses que faltaban del clip de Netflix).
 - Herramientas usadas: `fotogramas.py` (OP1 completo, tráiler S2 completo con
   `--cortes`, más fotogramas sueltos con `--fotograma`), `estilo.py` (11
   paletas medidas), descarga manual de storyboards de YouTube con `curl`
@@ -448,19 +477,7 @@ incompleto, ver "Sigue"):
 | 4. Fondos y sitios, luz y paleta | ✅ | 11 paletas medidas con `estilo.py` sobre fotogramas propios, con fuente y segundo; faltan las texturas reales equivalentes (⚠️, ver "No encontré") |
 | 9. Música y sonido | ✅ | Los 6 temas (3 OP + 3 ED) confirmados en dos fuentes con tramo de episodios; OP1 y ED1 mirados enteros; compositor con una sola fuente (⚠️); onomatopeyas no encontradas para el anime (⚠️, es del manga) |
 | 10. Vídeos con minuto exacto | ✅ | Tráiler S2 diseccionado plano a plano con diálogo y segundo; 3 clips de escenas icónicas de canales oficiales (Crunchyroll, Netflix Anime); 1 vídeo de tendencia tipo TikTok; PV5 sin poder mirar (⚠️) |
-| 14. Poses por personaje | ✅ | Thorfinn 7, Askeladd 6, Canute 6, Einar 3 (todos con capítulo/clip, minuto o `&t=`, y para qué sirve cada pose) |
+| 14. Poses por personaje | ✅ | Thorfinn 7, Askeladd 6, Canute 6, Einar 6 (todos con capítulo/clip, minuto o `&t=`, y para qué sirve cada pose) |
 
-**Einar por debajo del mínimo de 6** (tiene 3): es el personaje con menos
-metraje en lo que pude mirar (OP1, ED1, tráiler S2, y los 3 clips de escenas
-icónicas no lo muestran, porque no protagoniza esos momentos). Es lo único
-que dejo pendiente de mis puntos obligatorios.
-
-Sigue: completar 3 poses más de Einar (mínimo 6). Clip ya localizado y sin
-abrir: "Thorfinn Want to Kill Canute , Canute name himself The King"
-(`ce6_0XTQz3A`, 147 s, YouTube) podría no tener a Einar (es más de Thorfinn/
-Canute); mejor buscar con `ytsearch` algo como "Vinland Saga Einar farm
-scene clip" o "Vinland Saga Einar Thorfinn friendship clip" y sacar el
-storyboard igual que con los demás (`yt-dlp --dump-json`, tomar el
-`format_id sb0`, bajar sus `fragments` con `curl` y mirarlas con Read). Todo
-lo demás de mis puntos (2, 4, 9, 10) está completo dentro de lo que da la red
+Todos mis puntos (2, 4, 9, 10, 14) están completos dentro de lo que da la red
 disponible (AnimeThemes caído, YouTube sin descarga directa).
