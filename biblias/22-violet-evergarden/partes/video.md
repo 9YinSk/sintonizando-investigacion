@@ -320,6 +320,12 @@ no estaba en esa tabla.
   ya decía `datos-video.md`).
 - Arctic Shift (Reddit): `subreddit=VioletEvergarden&query=typewriter sound` →
   las dos guías de «sonido de teclado igual al de Violet».
+- Probé el clip largo de Dailymotion `x811ual` («"Violet Evergarden" Violet
+  Evergarden Cm», 24:09, canal lawrenceburgos69) buscando más escenas de
+  Gilbert: **está mal etiquetado**, es en realidad un episodio completo de
+  *Code Geass* (confirmado mirando 58 fotogramas repartidos en todo el vídeo:
+  robots, Lelouch, C.C., nada de Violet Evergarden). Lo descarto como fuente;
+  si otra tanda ve ese enlace en `datos-video.md`, que no lo use.
 - Clon parcial (`git sparse-checkout`) de
   `github.com/Ajatt-Tools/kitsunekko-mirror`, carpeta
   `subtitles/anime_tv/Violet Evergarden`, para cruzar minutos exactos de los

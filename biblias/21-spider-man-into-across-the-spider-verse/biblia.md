@@ -943,6 +943,44 @@ esta sección.
 | **Jefferson y Rio** | los papás de Miles | «I love you, Miles» / «That's a copy» (UNU 00:06:07 a 00:06:29) |
 | **El tío Aaron** | el Merodeador; el que le enseña el grafiti | «Makin' mistakes is part of it» (UNU 00:11:59) |
 
+### Su cara en cada emoción (segunda pasada) ⚠️ incompleto
+
+Fotogramas mirados con `fotogramas.py --cortes` en clips de Dailymotion.
+El minuto es **del clip**. De **25 combinaciones** (5 personajes × 5
+emociones) sólo **7** tienen fotograma y minuto verificados.
+
+| Personaje | Emoción | Fotograma | Qué se ve |
+|---|---|---|---|
+| **Miles** | miedo | [x8pb9nl, 0:11](https://www.dailymotion.com/video/x8pb9nl?t=11) | cae por el túnel de la anomalía, sin máscara: cejas alzadas, ojos muy abiertos, boca entreabierta |
+| **Miles** | rabia | [x8pb9nl, 2:26](https://www.dailymotion.com/video/x8pb9nl?t=146) | primer plano, dientes apretados, cejas fruncidas al centro, mirada dura |
+| **Miles** | tristeza | [«Get Up, Spider-Man», 1:55](https://www.dailymotion.com/video/x87pqho?t=115) | callejón oscuro, capucha puesta, mirada baja y dolida (duelo por el tío Aaron) |
+| **Miles** | vergüenza | [«Missing Class», 0:28](https://www.dailymotion.com/video/x8l15ul?t=28) | entre sus papás en el despacho de la directora: ojos apretados, cara arrugada, «tierra, trágame» |
+| **Gwen** | tristeza, preocupación | [«Hanging With Gwen», 0:15](https://www.dailymotion.com/video/x8l73q0?t=15) | de perfil, mira a otro lado, boca cerrada, cejas un poco caídas |
+| **Gwen** | alegría suave | [«Hanging With Gwen», 0:36](https://www.dailymotion.com/video/x8l73q0?t=36) | de perfil, sonrisa pequeña, hombros sueltos |
+| **Peter B.** | miedo, alarma | [«Saying Goodbye», 1:23](https://www.dailymotion.com/video/x87p3jc?t=83) | sin máscara, ojos muy abiertos y cejas alzadas en la batalla del colisionador |
+| **Peter B.** | determinación (lo más cerca de la rabia) | [«Saying Goodbye», 1:08](https://www.dailymotion.com/video/x87p3jc?t=68) | ceño fruncido, mandíbula tensa, antes de saltar |
+
+**Lo que falta** (buscado, no encontrado con certeza):
+- **Miles**: alegría con la cara descubierta (sólo sonríe con máscara).
+- **Gwen**: rabia, miedo y vergüenza en vídeo. En la hoja
+  `personajes_01.jpg` hay **candidatas de la wiki, sin minuto**: 14
+  (ojos y boca muy abiertos), 17 (susto en primer plano) y 18 (se agarra
+  el pelo) ⚠️. Su confesión a su papá, la de más carga, sólo está en
+  **audio** (§10.3).
+- **Peter B.**: alegría, tristeza y vergüenza. En `peterb_01.jpg` hay
+  escenas de familia sin minuto ⚠️.
+- **Miguel**: **ninguna** de las 5. El único clip candidato (`x8pb9nl`,
+  «Miles Morales VS Miguel O'Hara») no deja identificarlo con seguridad.
+- **Hobie**: **ninguna** de las 5. En 18 búsquedas de Dailymotion no hay
+  un solo clip centrado en su cara; Sony no sacó clips suyos. El
+  featurette «Designing Spider-Punk» es de los diseñadores, no de él.
+
+**Dinámicas que sirven para una lámina en grupo** (de lo ya escrito):
+Miles y Gwen se entienden **sentados, hablando de perfil** (torre del
+reloj); Peter B. le enseña **haciendo**; Miguel lo **acorrala** (Miles
+«la anomalía original»); Hobie **pica a Gwen** («my drummer») y ayuda a
+Miles a escapar.
+
 ---
 
 ## 9 · ¿Quién es el más querido?
@@ -958,6 +996,9 @@ Lo que hay:
 | Cuenta oficial | TikTok de @spiderversemovie: «**We salute you, Hobie. 🤘 What's your favorite Spider-Punk quote?**» | [TikTok](https://www.tiktok.com/@spiderversemovie/video/7294411001653579054) ✅ |
 | Memes | **Miguel** y los «eventos canónicos» fueron **el meme de junio de 2023** | Know Your Meme ✅ (§14) |
 | Prensa china | «百位蜘蛛侠…哪七侠最招人喜欢» (de cien arañas, cuáles siete gustan más), sin ranking claro | [Beijing News](https://m.bjnews.com.cn/detail/1685942718168300.html) ⚠️ |
+| TV Tropes (segunda pasada) | tampoco recoge una votación oficial de Sony: la conclusión no cambia | TV Tropes ✅ |
+| Miguel, **pedido por los fans** antes de salir | se eligió para el poscréditos de UNU porque los fans estaban «muy decepcionados» de no verlo en el equipo (Bob Persichetti, director) | [Vanity Fair](https://www.vanityfair.com/hollywood/2018/12/spider-man-into-the-spider-verse-end-of-credits-who-is-miguel-ohara) ✅ |
+| **En Latinoamérica** | Miles es **afrolatino** (negro y puertorriqueño): la prensa latina y académica lo trata como el primer Spider-Man en el que muchos niños latinos se ven | [Hola Cultura](https://holacultura.com/miles-morales-el-impacto-y-evolucion-de-un-fenomeno-afrolatino-de-marvel/), [Bustle](https://www.bustle.com/p/miles-morales-in-into-the-spider-verse-is-the-afro-latinx-representation-we-were-missing-not-just-because-hes-a-superhero-14947742) ✅ (Punto 21) |
 
 **Conclusión para la lámina**: el **principal (Miles)** es de verdad el
 más querido y el que mejor encaja con «crear» (grafiti, dibujos,
@@ -969,11 +1010,30 @@ fanzine). **Miguel** es para el chiste, no para dar la bienvenida.
 
 ## 10 · Doblaje latino
 
-> [!warning] No pude entrar a Doblaje Wiki
-> La API (`doblaje.fandom.com/es/api.php`) está bloqueada desde aquí.
-> Lo de abajo sale del **extracto que el buscador da de Doblaje Wiki**
-> más **notas de prensa**. Regla del dueño: antes de rotular, alguien
-> debe abrir la API desde su PC y confirmar.
+> [!note] Segunda pasada: la API de Doblaje Wiki ya respondió
+> En la primera pasada estaba bloqueada. Ahora se leyó el **wikitext
+> completo** de las dos fichas (reparto, equipo y «Datos de interés») y
+> se oyeron **5 muestras de audio** con `voz.py`. Cada nombre, con una
+> segunda fuente.
+
+### 10.0 Quién lo hizo (resuelve el «no los encontré») ✅
+
+| Película | Estudio | Dirección | Traducción | Grabación |
+|---|---|---|---|---|
+| *Un nuevo universo* (2018) | **New Art Dub** | **Gerardo García** | Miguel Eduardo Reyes | oct.-nov. de 2018 |
+| *A través del Spider-Verso* (2023) | **VSI Mexico City** | **Gerardo García** | Miguel Aldasoro | mayo de 2023 |
+
+Fuentes: wikitext de [UNU](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Spider-Man%3A_Un_nuevo_universo)
+y [ATSV](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Spider-Man%3A_A_trav%C3%A9s_del_Spider-Verso)
++ la ficha de [Gerardo García](https://doblaje.fandom.com/es/wiki/Gerardo_Garc%C3%ADa)
+(dirige lo de Spider-Man en New Art Dub desde 2007) ✅. ATSV: grabación de
+diálogos **Iván Rodríguez**, edición **Óscar Galván** (Doblaje Wiki).
+
+- **El director se dobló a sí mismo**: García es la voz del **Peter
+  Parker rubio** (Chris Pine) que muere en UNU ✅ (tabla de reparto).
+- **El acento de Rio**: en UNU Sony pidió un acento puertorriqueño
+  **sutil** para no caer en estereotipos; en ATSV **deshizo la petición**
+  y suena con toda su fuerza (lo cuenta García) ✅✅.
 
 ### 10.1 *Spider-Man: Un nuevo universo* (2018)
 
@@ -983,8 +1043,10 @@ fanzine). **Miguel** es para el chiste, no para dar la bienvenida.
 | Peter B. Parker | **Miguel Ángel Ruiz** | ✅ Doblaje Wiki + prensa de ATSV |
 | Gwen Stacy | **Alondra Hidalgo** | ✅ Doblaje Wiki + prensa de ATSV |
 | Spider-Ham | **Óscar Flores** | ✅ Doblaje Wiki (dos extractos) |
-| Kingpin | **Rubén Moya** | ⚠️ una fuente |
-| Miguel O'Hara (poscréditos) | **José Luis Rivera** | ✅ (Doblaje Wiki dice que ATSV es su segunda vez) |
+| Kingpin | **Rubén Moya** | ✅ tabla de reparto de la API + muestra `SV Kingpin.mp3` |
+| Miguel O'Hara (poscréditos) | **José Luis Rivera** | ✅✅ (misma fila con Oscar Isaac en las dos fichas) |
+| Peter Parker rubio (el que muere) | **Gerardo García** (el director) | ✅ |
+| Tío Ben (audio de archivo de Raimi) | **Pedro D'Aguillón Jr.**, voz histórica de Cliff Robertson | ✅ (fila «(archivo)» de la ficha) |
 
 Emilio Treviño y Óscar Flores **fueron de los pocos que conservaron el
 papel desde los tráileres** ✅ (Doblaje Wiki, extracto).
@@ -998,9 +1060,9 @@ papel desde los tráileres** ✅ (Doblaje Wiki, extracto).
 | Peter B. Parker | **Miguel Ángel Ruiz** | ✅ |
 | Miguel O'Hara | **José Luis Rivera** | ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Luis_Rivera), [vídeo en Facebook](https://www.facebook.com/AnimexSeriesproduction/videos/jos%C3%A9-luis-rivera/689208810316395/), prensa) |
 | Hobie Brown | **Óscar Garibay** | ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/%C3%93scar_Garibay) + prensa) |
-| Pavitr Prabhakar | **Tommy Rojas** | ⚠️ una fuente |
+| Pavitr Prabhakar | **Tommy Rojas** | ✅ (Doblaje Wiki + [StarCon MX](https://www.facebook.com/starconmx/videos/tommy-rojas-actor-de-doblaje-que-dio-voz-pavitr-prabhakar-spider-man-india-en-sp/457477063491081/)) |
 | La Mancha | **Javier Ibarreche** (*influencer*) | ✅ ([YouTube](https://www.youtube.com/watch?v=d65-IKm8C-Q), [Facebook JetpackCave](https://www.facebook.com/JetpackCave/posts/de-%C3%BAltimo-momentojavier-ibarreche-le-dar%C3%A1-voz-a-the-spot-la-mancha-en-spider-man/752742346854111/)) |
-| Otros *influencers* | **Alex Montiel** (el Escorpión Dorado), **Gaby Meza**, **Andrés Navy**, **Juan Guarnizo** | ✅ que participan ([SensaCine](https://www.sensacine.com.mx/noticias/noticia-1000024768/), [3DJuegos](https://www.3djuegos.lat/cine-y-tv/spider-man-a-traves-spider-verso-confirma-su-doblaje-latino-lleno-influencers-youtubers-tiktokers-todo-contrario-a-super-mario-bros)); **qué papel hace cada uno** ⚠️ (la dirección de 3DJuegos sugiere que Guarnizo es el Spider-Man de *Spectacular*) |
+| Otros *influencers* | **Alex Montiel** (el Escorpión Dorado), **Gaby Meza**, **Andrés Navy**, **Juan Guarnizo** | ✅ que participan ([SensaCine](https://www.sensacine.com.mx/noticias/noticia-1000024768/), [3DJuegos](https://www.3djuegos.lat/cine-y-tv/spider-man-a-traves-spider-verso-confirma-su-doblaje-latino-lleno-influencers-youtubers-tiktokers-todo-contrario-a-super-mario-bros)); Guarnizo es el Spider-Man de *Spectacular* ✅ (SDPnoticias, abajo); Andrés Navy, un **LEGO Spider-Man** ✅ (Doblaje Wiki); el papel de los demás ⚠️ |
 | Peruanos | **Adolfo Aguilar** y **Jorge Talavera** | ⚠️ ([Infobae Perú](https://www.infobae.com/peru/2023/05/20/spider-man-a-traves-del-spider-verso-adolfo-aguilar-y-jorge-talavera-daran-sus-voces-a-la-nueva-cinta-de-marvel/)); papel no visto |
 
 - **Polémica**: tantos *influencers* **generaron quejas**, y tras las
@@ -1015,8 +1077,14 @@ papel desde los tráileres** ✅ (Doblaje Wiki, extracto).
   «easter eggs»** suyos; «lo más complicado es **mantenerlo real**» ✅
   ([SinEmbargo](https://www.sinembargo.mx/4369345/emilio-trevino-presta-su-voz-a-miles-morales-lo-mas-complicado-es-mantenerlo-real/),
   [La Crónica](https://www.cronica.com.mx/escenario/emilio-trevino-empatia-miles-morales-spiderman-traves-spiderverso.html)).
-- **Estudio y director de doblaje**: **no los encontré** en ninguna de
-  las dos películas.
+- **Estudio y director de doblaje**: ~~no los encontré~~ → **resuelto**
+  en §10.0 ✅.
+- **Juan S. Guarnizo** hace al Spider-Man de *El espectacular Hombre
+  Araña* y recibió memes de que su voz «**parece fandub**»; el imitador
+  **Staryuuki** le dedicó una crítica cantada ✅
+  ([SDPnoticias](https://www.sdpnoticias.com/geek/el-doblaje-de-juansguarnizo-para-spider-man-across-the-spider-verse-parece-fandub-y-los-memes-no-lo-perdonan/),
+  [SDPnoticias, Staryuuki](https://www.sdpnoticias.com/geek/staryuuki-no-miente-e-insulta-a-juan-guarnizo-por-su-doblaje-en-spider-man-a-traves-del-spider-verso/)).
+  Para un servidor de doblaje: ejemplo real de **qué no hacer** (§14).
 - **2026**: hubo un **Spider-Fest en la CDMX** con actores de doblaje
   ⚠️ ([Infobae, 13-jun-2026](https://www.infobae.com/mexico/2026/06/13/llega-el-spider-fest-a-la-cdmx-actores-de-doblaje-concursos-y-proyecciones-gratis-lugar-fecha-y-horario/)).
 
@@ -1026,12 +1094,51 @@ papel desde los tráileres** ✅ (Doblaje Wiki, extracto).
 |---|---|---|---|
 | Spider-Ham sale del baño con la mano mojada (UNU 01:02:07) | «I just washed my hands. That's why they're wet.» | «**Es agüita**» | ⚠️ una fuente (Doblaje Wiki, extracto) |
 | Miles a Kingpin en la pelea final (UNU 01:36:28) | «**Adiós.**» (en español en el original) | «**Sayonara**» | ⚠️ una fuente (guía de cuadros, que cita Doblaje Wiki) |
-| Tío Ben | «With great power comes great responsibility» (UNU 00:01:33) | es **el audio de las películas de Raimi** | ⚠️ (guía de cuadros) |
+| Tío Ben | «With great power comes great responsibility» (UNU 00:01:33) | es **el audio de Cliff Robertson** en *Spider-Man* (2002) reciclado; en latino, el de su doblador de archivo, **Pedro D'Aguillón Jr.** | ✅ ([Gizmodo](https://gizmodo.com/into-the-spider-verse-lifted-a-key-line-of-dialogue-fro-1831360476), [CBR](https://www.cbr.com/into-spider-verse-raimi-spider-man-line/), Doblaje Wiki) |
 
-**No encontré** cómo dice el doblaje «Anyone can wear the mask», «leap
-of faith», «I hate labels» ni «I'm gonna do my own thing». Las frases de
-la lámina, por tanto, van **traducidas por mí** y marcadas; si el dueño
-tiene la película en latino, que las sustituya por las del doblaje.
+#### Frases textuales oídas en el audio del doblaje (segunda pasada) ✅
+
+Muestras `.ogg` de Doblaje Wiki pasadas por `voz.py` (Whisper en local;
+los nombres propios se corrigieron a mano: oyó «Joby» por «Hobie»).
+**Audio real del doblaje latino de ATSV**, no traducción mía. El minuto
+de la película es aproximado (≈).
+
+| Quién y cuándo | Frase textual en latino | Cómo suena (`voz.py`) | Audio |
+|---|---|---|---|
+| **Miles** a Miguel (≈ATSV 01:42-01:44) | «¿Entonces debemos dejar morir a la gente porque un algoritmo dice que es lo que debe pasar? Si escuchan lo ridículo que suena eso, ¿no?» · «No pueden impedirme que salve a mi padre.» | medio (171 Hz), muy expresivo (26,2 semitonos), 2,97 palabras/s | [ogg](https://static.wikia.nocookie.net/doblaje/images/f/f7/SMATSV_Miles_Morales.ogg/revision/latest?cb=20230811073312&path-prefix=es) |
+| **Gwen** a su papá (≈ATSV 00:07) | «Eres un buen policía, papá… tienes que entender que esta máscara es mi placa… Puedo hacer muchas cosas, pero no puedo ayudar a las personas que amo más… entonces estoy completamente sola.» | agudo (316 Hz), **la más expresiva** (30,7 semitonos), 2,61 palabras/s | [ogg](https://static.wikia.nocookie.net/doblaje/images/d/d6/SMATSV_Gwen_Stacy.ogg/revision/latest?cb=20230811073309&path-prefix=es) |
+| **Peter B.** a Miles, con Mayday en brazos | «Te van a pasar cosas malas en la vida, y esas nos hacen lo que somos. Pero también nos pasan cosas buenas, ¿no? Como tú en mi vida… y ella también.» | 266 Hz, muy expresivo (19,9 semitonos), 2,75 palabras/s | [ogg](https://static.wikia.nocookie.net/doblaje/images/8/81/SMATSV_Peter_B._Parker.ogg/revision/latest?cb=20230811073312&path-prefix=es) |
+| **Miguel** explica el canon (ATSV 01:26-01:28) | «Esos son el canon: capítulos que forman parte de todas las historias arácnidas, todas las veces… éste, el evento ASM-90: un policía cercano a Spider-Man muere salvando a un niño de escombros…» | **grave (99 Hz)**, poco expresivo (12 semitonos), **lento** (1,98 palabras/s) | [ogg](https://static.wikia.nocookie.net/doblaje/images/a/a1/SMATSV_Spider-Man_2099.ogg/revision/latest?cb=20230811073314&path-prefix=es) |
+| **Hobie** se presenta (≈ATSV 01:10) | «Me llamo Hobie, Hobie Brown, y me mordió una… ¿ya quisieran saber, o no?… Solo cuando no estoy de solista o pateando fascistas o montando piezas artísticas de protesta política… **Fuchis las etiquetas**, no soy un héroe, ¿por qué llamarte héroe?» | medio (178 Hz), 13,4 semitonos, **el más rápido** (3,96 palabras/s) | [ogg](https://static.wikia.nocookie.net/doblaje/images/1/17/SMATSV_Spider-Punk.ogg/revision/latest?cb=20230811073314&path-prefix=es) |
+
+«Fuchis las etiquetas» es la idea de «I hate labels» en boca de Hobie,
+pero **no** se cruzó línea a línea con la escena de la torre ⚠️.
+
+#### Cómo se adaptó (los «Datos de interés» de Doblaje Wiki) ✅
+
+- **«Shoot»** (para no decir *shit*) → **«miércoles»**.
+- Em Jay llama a Gwen *Deaf Leppard* → en latino **«Sorda Stereo»**
+  (por Soda Stereo).
+- Miles a Miguel: «Hey, ¿qué tal, tío?» y que habla español → **«Aquí
+  entre latinos»**. Miguel, al recibir la empanada, «Qué maravilla» →
+  **«Ah, pues qué detalle»**.
+- Primera película de Marvel en cine donde se dice **«Spider-Man»** en
+  inglés y no «el Hombre Araña», y **«Spider-Woman»** sin traducir.
+- **«Merodeador»** para Prowler viene de la serie de los 90.
+- Spider-Ham es **«Jamón-Araña»** en los subtítulos del corto del Blu-ray.
+- Hobie: acento británico → **modismos urbanos**. Y hay **modismos
+  mexicanos** en las bromas de toda la película.
+- **Emilio Treviño dobla a los dos Miles** (el nuestro y el de
+  Tierra-42), que en inglés son dos actores.
+- En los primeros avances Gwen la hizo **Dafne Gallardo**, porque la
+  vuelta de Alondra Hidalgo estuvo en duda.
+- **Andrés Navy** grabó su LEGO Spider-Man **sin saber cuál era** hasta
+  el estreno.
+
+**Sigue sin encontrarse** cómo dice el doblaje «Anyone can wear the
+mask», «leap of faith» y «I'm gonna do my own thing» ⚠️: las muestras de
+audio no las traen y YouTube no dejó ver clips doblados. Las frases de la
+lámina que no estén arriba van **traducidas por mí** y marcadas.
 
 ---
 
@@ -1041,8 +1148,9 @@ tiene la película en latino, que las sustituya por las del doblaje.
 |---|---|---|---|
 | **«Sunflower»** — Post Malone y Swae Lee | UNU (Miles la canta con auriculares, 00:02:45) | relajado, adolescente | ✅ single del 18-oct-2018 |
 | **«What's Up Danger»** — Blackway y Black Caviar | UNU, el salto de fe (01:22:56 a 01:24:30) | subidón, «ahora sí» | ✅ single del 1-nov-2018 |
-| «Hypnotize» (The Notorious B.I.G.), por la letra «Biggie there e'rynight» | UNU, cuando Miles va a ver al tío Aaron (00:09:04 a 00:09:27) | Brooklyn noventero | letra en el subtítulo ✅ / título ⚠️ |
-| «The Choice Is Yours» (Black Sheep), por la letra «You can get with this or you can get with that» | UNU, el túnel del grafiti (00:11:54 a 00:12:27) | hip-hop clásico, pintar con los colegas | letra en el subtítulo ✅ / título ⚠️ |
+| «Hypnotize» (The Notorious B.I.G.), por la letra «Biggie there e'rynight» | UNU, cuando Miles va a ver al tío Aaron (00:09:04 a 00:09:27) | Brooklyn noventero | ✅✅ subtítulo + [Marvel Animated Universe Wiki](https://marvelanimated.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Hypnotize_(Song)) (segunda pasada) |
+| «The Choice Is Yours» (Black Sheep), por la letra «You can get with this or you can get with that» | UNU, el túnel del grafiti (00:11:54 a 00:12:27) | hip-hop clásico, pintar con los colegas | ✅✅ subtítulo + [Marvel Animated Universe Wiki](https://marvelanimated.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=The_Choice_Is_Yours_(Song)) |
+| Popurrí del túnel: «Apache» (Incredible Bongo Band), «Mary, Mary» (Run-D.M.C.), «Because I Got It Like That» (Jungle Brothers) | UNU, túnel del grafiti | el mismo hip-hop de colegas | ⚠️ una fuente (resumen del buscador; no se abrió la página original) |
 | **«Annihilate»**, **«Am I Dreaming»** (Metro Boomin, A$AP Rocky, Roisee), **«Calling»** | ATSV (disco de Metro Boomin, 13 temas, 47 min) | trap, épico y triste | ✅ ([Apple Music](https://music.apple.com/us/album/metro-boomin-presents-spider-man-across-the-spider/1690685331)) |
 | **Partitura de Daniel Pemberton** (34 temas): «Spider-Woman (Gwen Stacy)», «Spider-Punk (Hobie Brown)», «Guggenheim Assemble» | ATSV | orquesta de 100 músicos + **scratch de DJ**, voces de ópera, techno, **punk**, percusión india tipo *acid house*… y **un ganso** sampleado | ✅ ([Rolling Stone](https://www.rollingstone.com/music/music-features/spider-man-across-the-spider-verse-soundtrack-exclusive-composer-daniel-pemberton-goose-score-1234742686/), [The Credits](https://www.motionpictures.org/2023/06/spider-man-across-the-spider-verse-composer-daniel-pemberton-reveals-a-few-score-secrets/)) |
 | El tema de **Miguel / 2099** | ATSV | el que se usa en TikTok para los memes de «evento canónico» | ✅ Know Your Meme |
@@ -1050,17 +1158,24 @@ tiene la película en latino, que las sustituya por las del doblaje.
 Pemberton: **cada universo tiene su paleta de sonido** y cada personaje
 sus sonidos ✅ ([Screen Rant](https://screenrant.com/spiderman-across-the-spiderverse-composer-daniel-pemberton-interview/)).
 **Para la lámina**: no suena, pero **unos auriculares** colgados del
-cuello de Miles son un guiño a «Sunflower». Los títulos de los dos temas
-de hip-hop los saco **por la letra** que trae el subtítulo: no los
-verifiqué en los créditos.
+cuello de Miles son un guiño a «Sunflower». Los dos temas de hip-hop,
+antes sacados sólo por la letra, ya tienen **segunda fuente** ✅.
+
+**Discos publicados** (MusicBrainz, del recolector): la partitura de
+Pemberton de [UNU](https://musicbrainz.org/release-group/d487ce47-96d1-4192-92bd-0bd255e1d518)
+y de [ATSV](https://musicbrainz.org/release-group/7f6b0669-a989-4fd5-94cf-2ee639ad4329),
+el disco de [Metro Boomin](https://musicbrainz.org/release-group/de08b495-9dd1-40bd-b866-3006b88715a8),
+«Mona Lisa» de Dominic Fike (ATSV) y *The Sunflower Covers* (2023) ✅.
+Música en las escenas que hacen llorar: ver Punto 21.
 
 ---
 
 ## 12 · Vídeos
 
-YouTube está bloqueado desde aquí: **no pude comprobar minutos dentro de
-los vídeos**. Doy el enlace y, para las escenas, el **minuto de la
-película** (§2).
+YouTube está bloqueado desde aquí (también en la segunda pasada: pide
+iniciar sesión). **Plan B hecho**: 11 clips oficiales en **Dailymotion**
+y los *storyboards* en **Internet Archive**, mirados con `fotogramas.py`
+(§2.8, §12.4). Para las escenas, el **minuto de la película** (§2).
 
 ### 12.1 Tráileres oficiales
 
@@ -1096,7 +1211,33 @@ película** (§2).
   [búsqueda «Spiderverse Glitch Effect»](https://www.tiktok.com/discover/spiderverse-glitch-effect)).
 - **Edits de Hobie** y de Miles a montones ✅ (§9).
 - Los propios actores latinos **dicen frases icónicas** en un TikTok ⚠️
-  ([enlace](https://www.tiktok.com/@chick_flick_of/video/7347184102971297030), no lo pude ver).
+  ([enlace](https://www.tiktok.com/@chick_flick_of/video/7347184102971297030), no lo pude ver; tampoco en la segunda pasada).
+- El meme **«evento canónico»** también vive en el **TikTok en español**,
+  con artículo propio que lo explica ✅ ([Androidphoria](https://androidphoria.com/curiosidades/evento-canonico-significado-origen-frase-viral-tiktok)).
+
+### 12.4 Vídeos mirados de verdad (segunda pasada) ✅
+
+Comprobados hoy, bajados y mirados fotograma a fotograma. El único clip
+de Dailymotion que traía el recolector (`x8jt3ad`) **da 404** (borrado).
+
+| Vídeo | Enlace | Qué sirve (minuto del clip) |
+|---|---|---|
+| ATSV, tráiler oficial (2:30) | [Dailymotion](https://www.dailymotion.com/video/x8gaz41) | Tierra-928 de noche ([1:06](https://www.dailymotion.com/video/x8gaz41?t=66)); glitch CMYK de Gwen ([2:06](https://www.dailymotion.com/video/x8gaz41?t=126)) |
+| UNU, tráiler oficial (2:40) | [Dailymotion](https://www.dailymotion.com/video/x942l02) | título con desfase ([2:12](https://www.dailymotion.com/video/x942l02?t=132)) |
+| UNU, clip «Leap of Faith» (2:07) | [Dailymotion](https://www.dailymotion.com/video/x6yq9yg) | salto de fe ([0:10](https://www.dailymotion.com/video/x6yq9yg?t=10)) |
+| UNU, clip «Get Up, Spider-Man» (2:36) | [Dailymotion](https://www.dailymotion.com/video/x87pqho) | pelea final; tinta azul ([0:55](https://www.dailymotion.com/video/x87pqho?t=55)); cara triste de Miles ([1:55](https://www.dailymotion.com/video/x87pqho?t=115)) |
+| UNU, clip «Saying Goodbye» | [Dailymotion](https://www.dailymotion.com/video/x87p3jc) | caras de Peter B. ([1:08](https://www.dailymotion.com/video/x87p3jc?t=68), [1:23](https://www.dailymotion.com/video/x87p3jc?t=83)) |
+| ATSV, clip «Hanging With Gwen» (0:53) | [Dailymotion](https://www.dailymotion.com/video/x8l73q0) | torre del reloj entera ([0:48](https://www.dailymotion.com/video/x8l73q0?t=48)) |
+| ATSV, clip «Stop Spider-Man!» (0:50) | [Dailymotion](https://www.dailymotion.com/video/x8le5bg) | la Spider-Society por dentro ([0:08](https://www.dailymotion.com/video/x8le5bg?t=8)) |
+| ATSV, clip «Missing Class» | [Dailymotion](https://www.dailymotion.com/video/x8l15ul) | vergüenza de Miles ([0:28](https://www.dailymotion.com/video/x8l15ul?t=28)) |
+| «Miles Morales VS Miguel O'Hara» (recopilación, 189 fotogramas) | [Dailymotion](https://www.dailymotion.com/video/x8pb9nl) | miedo y rabia de Miles ([0:11](https://www.dailymotion.com/video/x8pb9nl?t=11), [2:26](https://www.dailymotion.com/video/x8pb9nl?t=146)); Miguel no se identifica con seguridad ⚠️ |
+| ATSV, featurette oficial **«Designing Spider-Punk»** (1:20), con Kris Anka, Kemp Powers y Mike Lasker | [Dailymotion](https://www.dailymotion.com/video/x8oez5v) | las referencias de Hobie ([0:25](https://www.dailymotion.com/video/x8oez5v?t=25)) |
+| ATSV, *storyboards* vs. plano final (2550×2564) | [Internet Archive](https://archive.org/details/fz-kuox-0a-yaa-7-hm-7_202405) | boceto → plano terminado ⚠️ (repost de prensa) |
+
+**Análisis de encuadre** (para el Punto 18), sin mirar por el bloqueo:
+[«Spider-Verse: Cinematography of an Animated Masterpiece»](https://www.youtube.com/watch?v=2zjp7-S8mX0),
+[«The Cinematography of Spider-Man: Into The Spider-verse»](https://www.youtube.com/watch?v=dwcf-HftAnw) ⚠️.
+**Fandub** con metadatos comprobados: Punto 22.
 
 ---
 
@@ -1111,10 +1252,21 @@ aspectos** en otros juegos:
 | *Marvel's Spider-Man 2* (2023) | **tres** trajes de UNU (Noir para Peter; dos para Miles, niveles 30 y 33) y el **traje de ATSV** para Miles | ✅ [GameSpot](https://www.gamespot.com/gallery/all-marvels-spider-man-2-costumes-revealed-so-far/2900-4771/), [Kotaku](https://kotaku.com/spider-man-2-miles-morales-into-the-spider-verse-suit-1850950068) |
 | *Fortnite* | **Miles** y **Miguel** de ATSV (desde el 23-may-2023); **Spider-Gwen** (pase del capítulo 3, temporada 4, 2022) | ✅ [esports.gg](https://esports.gg/news/fortnite/fortnite-x-spider-verse-collab-all-skins-release-date-and-cost/), [Tech Times](https://www.techtimes.com/articles/291661/20230518/fortnite-leaks-spider-verse-skins-include-miles-morales-man-2099.htm) |
 
+**Segunda pasada**, más juegos con contenido de UNU/ATSV:
+
+| Juego | Qué trae | Fuente |
+|---|---|---|
+| *LEGO Marvel Super Heroes 2* (TT Games, 2017) | **Miles jugable** (se desbloquea en el nivel extra «Poole Party») con **trajes de UNU**; menús y diálogos: la caja blanca típica de LEGO, **no sirve** | ✅ [LEGO Marvel Superheroes Wiki](https://lego-marvelsuperheroes.fandom.com/wiki/Spider-Man_(Miles_Morales)), [LEGO Games Wiki](https://legogames.fandom.com/wiki/Spider-Man_(Miles_Morales)/LM2); [cabecera de Steam, 460×215](https://store.steampowered.com/app/460970/LEGO_Marvel_Super_Heroes_2/) |
+| *Marvel Snap*, temporada «Spider-Versus» | cartas con arte propio (Ghost-Spider/Gwen) y **localizaciones en recuadro de viñeta**; la carta es buen modelo de **ficha de personaje tipo cómic** (§7.4) | ✅ [Marvel.com](https://www.marvel.com/articles/games/marvel-snap-swings-into-new-season-spider-versus) |
+| *Marvel Contest of Champions* | Spider-Gwen, Spider-Ham y Miles jugables, con sinergias «Spider-Verse» | ✅ [auntm.ai](https://auntm.ai/champions/spiderman) |
+
 - **Cajas de diálogo**: ninguno de estos juegos tiene una caja «de las
   películas». En los juegos de Insomniac el diálogo es **subtítulo
-  sencillo** ⚠️ (de memoria). **No sirven de cuadro para la lámina.**
-- The Cutting Room Floor y Game UI Database: **bloqueados** desde aquí.
+  sencillo** ⚠️ (de memoria). **No sirven de cuadro para la lámina**: la
+  referencia sigue siendo la caja amarilla (§7).
+- **The Cutting Room Floor**: no tiene página de Spider-Verse (no hay juego
+  propio que desempaquetar); su buscador dio 403 de Cloudflare ⚠️. Game UI
+  Database: sin probar.
 
 ---
 
@@ -1130,13 +1282,15 @@ aspectos** en otros juegos:
   [guía de KYM](https://knowyourmeme.com/editorials/guides/what-are-canon-events-the-spider-verse-meme-trend-explained),
   [The Tab](https://thetab.com/2023/06/13/canon-event-explained-tiktok-trend-spider-man-across-the-spider-verse-sony)).
   **Chiste para el canal**: «Que se te corra el subtítulo es un evento
-  canónico» ⚠️ (idea mía).
+  canónico» ⚠️ (idea mía). El meme **también es hispano**: vídeos y
+  artículo en español ✅ ([Androidphoria](https://androidphoria.com/curiosidades/evento-canonico-significado-origen-frase-viral-tiktok)),
+  así que el chiste aterriza en el servidor.
 - **El meme de los dos Spider-Man que se señalan**, rehecho en el
   **poscréditos de UNU** con Miguel y el Spider-Man de 1967 ✅
   (UNU 01:56:19 a 01:56:34: «How dare you point at me!» «You were
   pointing first.»). El meme viene de la serie animada de 1967 ⚠️.
 - **El salto de fe** con «What's Up Danger» (UNU 01:23:23) ✅, y el
-  plano **boca abajo** ⚠️.
+  plano **boca abajo** ✅ (visto en el [clip, 0:10](https://www.dailymotion.com/video/x6yq9yg?t=10)).
 - **«Anyone can wear the mask. You could wear the mask.»** (UNU 01:44:43)
   ✅. En España lo citan como «Cualquiera puede llevar la máscara»
   ([Cultture](https://www.cultture.com/into-the-spider-verse-20-mejores-frases-de-la-pelicula));
@@ -1178,6 +1332,16 @@ aspectos** en otros juegos:
   como Merodeador, 02:10:41 a 02:11:12): mejor no, **aún no ha salido**
   la tercera.
 - Usar las voces de los *influencers* como «la voz» del personaje (§10).
+  El Spider-Man de Juan S. Guarnizo se ganó memes de que «**parece
+  fandub**» ✅ (SDPnoticias, §10.2): en un servidor de doblaje, justo lo
+  que no se quiere imitar.
+- **Tratar a Miles como «el Spider-Man de segunda»**: el rechazo de la
+  Spider-Society en ATSV está **inspirado en el rechazo real** que
+  recibió el personaje en los cómics, cuando parte del fandom no quería
+  un Spider-Man que no fuera Peter ✅✅
+  ([CBR](https://www.cbr.com/across-the-spider-verse-addresses-anti-miles-morales-spider-man/),
+  [Den of Geek](https://www.denofgeek.com/movies/spider-man-across-the-spider-verse-spider-society-fandom/)).
+  La película lo denuncia; la lámina no debe repetirlo.
 
 ---
 
@@ -1185,7 +1349,9 @@ aspectos** en otros juegos:
 
 El **minuto** sale del subtítulo ✅ (es el momento en que se dice la
 frase). **La postura** la describo **de memoria** ⚠️: hay que sacar el
-fotograma en ese minuto y comprobarla antes de usarla.
+fotograma en ese minuto y comprobarla antes de usarla. **Segunda pasada**:
+4 posturas vistas en vídeo (Miles 6 y 11, Gwen 7, grupo) ✅, y las hojas
+de contacto dan imagen a varias (número de casilla entre corchetes).
 
 ### Miles
 
@@ -1193,14 +1359,16 @@ fotograma en ese minuto y comprobarla antes de usarla.
 |---|---|---|---|
 | 1 | UNU 00:02:45 | en su cuarto, **auriculares puestos**, cantando «Sunflower» mientras recoge | **presentar** relajado |
 | 2 | UNU 00:06:48 | entra al colegio con los **cordones sueltos**: «It's a choice.» | presentar con actitud |
-| 3 | UNU 00:11:37 a 00:12:41 | **pintando con espray** en el túnel, brazo estirado; luego se aparta: «Is it too crazy?» | **explicar el proceso** |
+| 3 | UNU 00:11:37 a 00:12:41 | **pintando con espray** en el túnel, brazo estirado; luego se aparta: «Is it too crazy?» [`personajes_01` 23, [Miles tagging](https://static.wikia.nocookie.net/intothespiderverse/images/a/a4/Miles_tagging_001.png) ✅ imagen] | **explicar el proceso** |
 | 4 | UNU 00:16:14 a 00:16:40 | **agobiado** en el pasillo, rodeado de cajas amarillas | **dudar**, pensar |
 | 5 | UNU 00:53:43 | practicando la telaraña con Peter B., **muñeca hacia delante** | **truco que funciona** |
-| 6 | UNU 01:23:23 a 01:24:30 | **salto de fe**, cayendo boca abajo con los brazos abiertos | **animar**, celebrar |
+| 6 | UNU 01:23:23 a 01:24:30 | **salto de fe** ✅ visto: primero cae **boca abajo con las piernas juntas**, silueta vertical en rojo plano; **los brazos se abren después**, ya en el picado azul ([clip, 0:10](https://www.dailymotion.com/video/x6yq9yg?t=10)) | **animar**, celebrar |
 | 7 | UNU 01:44:43 | **habla a cámara**: «Anyone can wear the mask. You could wear the mask.» | **invitar** al que mira |
 | 8 | ATSV 00:25:12 a 00:25:23 | pelea con la Mancha **mientras contesta un mensaje** a su mamá («In a minute») | humor, hacer dos cosas a la vez |
 | 9 | ATSV 00:46:38 | **se pone rojo** cuando Gwen ve sus dibujos: «Hey. What? No.» | **vergüenza** al enseñar tu trabajo |
 | 10 | ATSV 01:44:31 | desafiante: «I'm gonna do my own thing.» | **regañar** con cariño, animar |
+| 11 | UNU, pelea final ([clip, 0:30](https://www.dailymotion.com/video/x87pqho?t=30)) | ✅ visto: **de pie, solo**, en un pasillo rojo, **puños cerrados**, rodeado de salpicaduras de tinta azul | **pelear, decidir** |
+| 12 | ATSV (wiki) | sentado con Gwen en su cuarto [`personajes_01` 40] ⚠️ sin minuto | charlar, enseñar el trabajo |
 
 ### Gwen
 
@@ -1212,7 +1380,9 @@ fotograma en ese minuto y comprobarla antes de usarla.
 | 4 | UNU 00:14:44 a 00:16:05 | conoce a Miles («Gwanda»), él se le pega al pelo | humor |
 | 5 | UNU 00:55:04 a 00:56:10 | se presenta «one last time» | **presentar** |
 | 6 | ATSV 00:46:38 a 00:46:48 | **mira los dibujos** de Miles: «They're good. Wow, there's so many.» | **valorar el trabajo ajeno** (¡la galería!) |
-| 7 | ATSV 00:49:31 a 00:52:14 | **boca abajo** junto a Miles en la torre del reloj | **pensar**, charlar |
+| 7 | ATSV 00:49:31 a 00:52:14 | ✅ visto: **de pie boca abajo contra la pared** del reloj, pies arriba, capucha colgando; Miles sentado normal. Al final, **los dos sentados de espaldas** ante la ciudad ([clip, 0:48](https://www.dailymotion.com/video/x8l73q0?t=48)), casi el póster | **pensar**, charlar |
+| 9 | ATSV (wiki) | **selfie** con Miles [`personajes_01` 12] ⚠️ sin minuto | presentar en pareja |
+| 10 | ATSV (wiki) | se **agarra el pelo** [`personajes_01` 18] ⚠️ sin minuto | agobio, «no me sale» |
 | 8 | ATSV 02:12:44 a 02:13:18 | arma su banda y pregunta: «**You want in?**» | **invitar** a unirse |
 
 ### Peter B.
@@ -1224,6 +1394,8 @@ fotograma en ese minuto y comprobarla antes de usarla.
 | 3 | UNU 01:19:12 a 01:19:40 | le dice a Miles que aún no está listo: «It's a leap of faith.» | **consejo** serio |
 | 4 | ATSV 01:25:19 a 01:25:29 | llega con **Mayday** en la mochila: «I have a baby.» | humor |
 | 5 | ATSV 01:38:34 a 01:38:49 | le ofrece la bebé a Miguel para calmarlo: «Do you wanna hold my baby?» | calmar, mediar |
+| 6 | UNU, colisionador ([clip, 1:08](https://www.dailymotion.com/video/x87p3jc?t=68)) | ✅ visto: ceño fruncido, mandíbula tensa, a punto de saltar | decidir |
+| 7-8 | UNU (wiki) | traje clásico y escenas de familia [`peterb_01` 1-9 y 17-48] ⚠️ sin minuto | presentar, ropa de casa |
 
 ### Miguel
 
@@ -1243,6 +1415,18 @@ fotograma en ese minuto y comprobarla antes de usarla.
 | 2 | ATSV 01:22:20 a 01:23:31 | en la sede, con un aparato **arrancado de la pared**: «It's propaganda, bruv.» | **aconsejar** a su manera |
 | 3 | ATSV 01:26:25 | le aplaude a Miles: «Taking a crap on the establishment. I salute you.» | **celebrar** |
 | 4 | ATSV 02:12:54 | parte de la banda nueva de Gwen | grupo |
+| 5-6 | arte de producción | cuerpo entero y caras a lápiz de **Evening Monteiro** [`personajes_01` 4-10]; póster en collage «SAVE YOUR DAD» [1] ✅ imagen oficial, sin minuto | presentar, actitud |
+
+**Hobie, Miguel y Lyla**: ningún clip suyo en Dailymotion (18 búsquedas),
+así que su postura **sigue de memoria** ⚠️.
+
+### En grupo (segunda pasada)
+
+| # | Minuto | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | ATSV, persecución ([clip, 0:08](https://www.dailymotion.com/video/x8le5bg?t=8)) | ✅ visto: decenas de variantes **en formación** en la sala amarilla triangular | **comunidad**, más de 5 personajes |
+| 2 | UNU (wiki) | el Spider-Gang posando [`personajes_01` 13 y 25] | presentar al grupo |
+| 3 | ATSV (wiki) | Gwen, Miles y Hobie juntos [`personajes_01` 45] | trío del concepto C |
 
 ### Lyla
 
@@ -1254,16 +1438,16 @@ fotograma en ese minuto y comprobarla antes de usarla.
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario (hex medidos en la segunda pasada; Miles y Hobie aún no ⚠️)
 
 | Personaje | Ropa icónica | Detalles | Fuente |
 |---|---|---|---|
 | **Miles**, UNU (civil) | sudadera, pantalón corto de baloncesto sobre el traje, **Air Jordan 1 «Chicago»** (rojo, blanco y negro), cordones sueltos, auriculares | la sudadera con capucha forma parte del «traje» | [CostumeWall](https://costumewall.com/dress-like-spider-man-miles-morales/), [Nerdist](https://nerdist.com/article/spider-verse-miles-morales-shoes-air-jordans-origins/) ✅ |
-| **Miles**, traje | **negro** con la **araña roja** pintada con espray; en ATSV lo **rediseña él** («fly ambience down the side») | la araña del pecho parece **de grafiti** | subtítulo ✅ / forma ⚠️ |
-| **Gwen** | traje **blanco y negro** con **capucha**; telaraña **rosa y azul** bajo los brazos y en el forro; **zapatillas de ballet** azul claro (UNU); en ATSV **guantes rosa** largos y **Converse turquesa** | la capucha es su silueta | [Into the Spider-Verse Wiki](https://intothespiderverse.fandom.com/wiki/Gwendolyn_Stacy_(Earth-65)), tiendas de cosplay ✅ (dos fuentes de fans) |
-| **Peter B.** | traje viejo bajo **pantalón de chándal**, barriga; en ATSV **bata** y la bebé en mochila | «ya no intenta parecer Spider-Man» | [CBR](https://www.cbr.com/funniest-spider-men-in-across-the-spider-verse/) ⚠️ (una fuente) |
-| **Miguel** | traje **azul oscuro** con rojos que **brillan**; capa y máscara de nanotecnología; garras marcadas | ver §8 | [CBR](https://www.cbr.com/spider-man-2099-across-the-spider-verse-suit-tragic/) ✅ |
-| **Hobie** | chaqueta vaquera sin mangas con **pinchos** e **imperdibles**, **pelo en pinchos**, guitarra, **ojos pintados a mano** | los colores **cambian a saltos** | Cartoon Brew, NamuWiki, [Zhihu](https://zhuanlan.zhihu.com/p/636201673) ✅ |
+| **Miles**, traje | **negro** con la **araña roja** pintada con espray; en ATSV lo **rediseña él** («fly ambience down the side») | la araña del pecho parece **de grafiti**. Hex **sin medir**: los fotogramas son de noche o con neón (`#D7262E` / `#141418` de memoria) ⚠️ | subtítulo ✅ / forma ⚠️ |
+| **Gwen** | traje **blanco y negro** con **capucha**; telaraña **rosa y azul** bajo los brazos y en el forro; **zapatillas de ballet** azul claro (UNU); en ATSV **guantes rosa** largos y **Converse turquesa** | la capucha es su silueta. **Medido** en el turnaround de Kris Anka: negro `#2D2926`, rosa `#E6145A`, cian de zapatillas `#00FAFA` ✅. La telaraña de brazos y capucha es una **rejilla diagonal rosa y cian**, no la telaraña clásica; el logo tiene **dos variantes** (araña redondeada y angulosa) ✅. Los **tenis turquesa** son su prenda fija ✅ (wiki). **De civil no hay un solo look**: 8 variantes de Jesús Alonso Iglesias (§3.6) | [Into the Spider-Verse Wiki](https://intothespiderverse.fandom.com/wiki/Gwendolyn_Stacy_(Earth-65)), tiendas de cosplay ✅ (dos fuentes de fans); [turnaround](https://static.wikia.nocookie.net/intothespiderverse/images/5/57/SpiderGwen_ATSV_Concept_Art_by_Kristafer_Anka_2.jpg) ✅ |
+| **Peter B.** | traje viejo bajo **pantalón de chándal**, barriga; en ATSV **bata** y la bebé en mochila | «ya no intenta parecer Spider-Man». Araña roja del emblema medida: `#BF0001` ✅. Ropa de casa (bata, calle desaliñada) en `peterb_01.jpg` 17-48 ✅ | [CBR](https://www.cbr.com/funniest-spider-men-in-across-the-spider-verse/) + hoja de la wiki ✅ |
+| **Miguel** | traje **azul oscuro** con rojos que **brillan**; capa y máscara de nanotecnología; garras marcadas | **Medido** en un fotograma plano: azul `#304080`, rojo `#E80038` ✅ | [CBR](https://www.cbr.com/spider-man-2099-across-the-spider-verse-suit-tragic/) ✅ |
+| **Hobie** | chaqueta vaquera sin mangas con **pinchos** e **imperdibles**, **pelo en pinchos**, guitarra, **ojos pintados a mano** | los colores **cambian a saltos**. Los **parches están pintados a mano** con letras recortadas de fanzine, no comprados; mohawk con **imperdibles** ✅ (estudio de espalda de Jake Panian y moodboard de Evening Monteiro). Hex **sin medir** ⚠️ | Cartoon Brew, NamuWiki, [Zhihu](https://zhuanlan.zhihu.com/p/636201673) ✅; [Jake Panian](https://static.wikia.nocookie.net/intothespiderverse/images/8/8a/Spider_Punk_ATSV_by_Jake_Panian_3.jpg) ✅ |
 
 **La ropa «que todos reconocen»**: la **sudadera negra y las Jordan** de
 Miles, la **capucha blanca** de Gwen, el **chándal** de Peter B., el
@@ -1273,15 +1457,15 @@ Miles, la **capucha blanca** de Gwen, el **chándal** de Peter B., el
 
 ## 17 · Paisajes y fondos de pantalla
 
-### 17.1 Los sitios, con su luz ⚠️
+### 17.1 Los sitios, con su luz (los ✅, vistos o con fuente; el resto de memoria ⚠️)
 
 | Sitio | Hora y luz (de memoria) |
 |---|---|
 | Túnel del grafiti (UNU) | **noche**, oscuro, luz de linterna y de farola; el color lo pone la pintura (medido: casi negro, §5.2) ✅ |
 | Calle de Miles (UNU) | **mañana**, sol bajo, ladrillo cálido |
-| Torre del reloj (ATSV) | **atardecer**, ciudad abajo, cielo naranja y morado |
+| Torre del reloj (ATSV) | **atardecer**, ciudad abajo; cielo **violeta y azul lavanda**, casi sin naranja ✅ (visto y medido, §5.3; antes decía «naranja y morado») |
 | Tierra-65 (Gwen) | acuarela que **cambia con su ánimo**: rosa y violeta tristes, cian cuando está en paz ✅ (primarios cian, naranja y violeta) |
-| Nueva York 2099 (Miguel) | **día azul limpio** arriba, **oscuro de neón** abajo ✅ |
+| Nueva York 2099 (Miguel) | **día azul limpio** arriba, **oscuro de neón** abajo ✅; de noche, **violeta malva** (tráiler, 1:06, §5.3) ✅ |
 | Tierra-138 (Hobie) | interior de club: **carteles, fotocopia, sombras duras** ✅ |
 
 ### 17.2 Fondos de pantalla
@@ -1293,6 +1477,12 @@ Miles, la **capucha blanca** de Gwen, el **chándal** de Peter B., el
 | Miles y Gwen, ATSV (fan art) | 4782×2097 | 林霰 | [Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1319119) |
 | Miles y Gwen boca abajo, animado | 3840×2160 | ⚠️ | [MoeWalls](https://moewalls.com/movies/miles-morales-and-gwen-stacy-spider-man-across-the-spider-verse-live-wallpaper/) |
 | Portada de ATSV | 4K, 5K, 8K | ⚠️ | [4kwallpapers](https://4kwallpapers.com/black-dark/spider-man-across-11476.html) |
+| **Miguel / Tierra-928** | 3840×2160 (♥207) y 7680×4800 (♥82) | Wallhaven ✅ tamaño por API | [imagen](https://w.wallhaven.cc/full/2y/wallhaven-2yod8m.jpg), [imagen 8K](https://w.wallhaven.cc/full/vp/wallhaven-vpyd75.jpg) |
+| **Hobie / Tierra-138** | 7200×4050 (♥234) | Wallhaven ✅ | [imagen](https://w.wallhaven.cc/full/2y/wallhaven-2y9vlm.jpg) |
+| **Gwen / Tierra-65** | 5000×2250 (♥464) y 7680×4320 (♥436) | Wallhaven ✅ | [imagen](https://w.wallhaven.cc/full/96/wallhaven-96z8vd.jpg), [imagen 8K](https://w.wallhaven.cc/full/x6/wallhaven-x6jo5o.jpg) |
+| Spider-Verse, el más guardado | 5120×2880 (♥146) | billfinger, Wallhaven ✅ | [imagen](https://w.wallhaven.cc/full/d6/wallhaven-d6elw3.jpg) |
+| Spider-Man 2099, ciudad, lluvia (etiquetas) | 2560×1600 (♥31) | handsomeboyqaq ✅ | [imagen](https://w.wallhaven.cc/full/m3/wallhaven-m3ew69.jpg) |
+| *Beyond the Spider-Verse*; origen, un [tuit de Sony Pictures Francia](https://x.com/SonyPicturesFr/status/1907002471286980665) | 3440×1440 (♥28) | roninway0 ✅ | [imagen](https://w.wallhaven.cc/full/7p/wallhaven-7pdkmy.png) |
 | Colecciones | varias | — | [Alpha Coders (210+)](https://alphacoders.com/spider-man-across-the-spider-verse-wallpapers), [WallpaperAccess](https://wallpaperaccess.com/spider-man-across-the-spider-verse), [UHDpaper](https://www.uhdpaper.com/2022/09/spider-man-across-4k-8840h.html?m=1) |
 
 Sirven para **mirar luz y encuadre**, no para pegarlos.

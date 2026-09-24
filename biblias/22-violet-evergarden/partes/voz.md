@@ -237,19 +237,321 @@ Estudio 1; el Gaiden puso los nombres de las víctimas en los créditos.
 
 ### 13 · Descripción profunda de cada personaje (carácter, forma de hablar, cara en cada emoción)
 
-Sigue: pendiente.
+Verifiqué de nuevo con la wiki y con imágenes reales (no de memoria) las
+descripciones que ya traía la biblia vieja (subtítulos japoneses con
+minuto, ✅). Lo nuevo de esta pasada son **las caras por emoción**, vistas
+de verdad con `Read` en capturas reales de la wiki (con Referer) y en un
+tráiler doblado (fotogramas.py), no descritas de memoria.
+
+#### Violet Evergarden
+
+- **Quién es / historia**: exsoldado desde niña, «arma» de Gilbert en la
+  guerra de Leidenschaftlich; perdió los dos brazos y lleva prótesis de
+  metal plateado; tras la guerra se hace Auto Memory Doll en la C.H.
+  Postal Company para entender «愛してる» («te quiero»), la última frase
+  de Gilbert (ep. 1, 00:22:36; ep. 9, 00:02:38) ✅.
+- **Miedos y culpa**: «Yo, que maté gente como un arma, ¿puedo vivir
+  así?» (ep. 7, 00:19:16) ✅. Teme ser «sólo un instrumento» y que la
+  descarten si ya no sirve (frase del tráiler doblado en España, 0:45 a
+  0:49: «si él ya no me necesita, deberían deshacerse de mí»,
+  [x7t0he2](https://www.dailymotion.com/video/x7t0he2?t=45) — el
+  sentido es el mismo en japonés, aunque esa muestra concreta sea del
+  doblaje de España).
+- **Qué le importa**: al principio, cumplir **órdenes** («命令», se repite
+  33 veces en los subtítulos del equipo anterior); al final, el corazón
+  de quien pide la carta.
+- **Su arco**: de instrumento sin emociones a persona que llora, ríe y
+  al final **se casa con Gilbert** (confirmado como «esposa» en la
+  ficha de personaje de la wiki: «Violet Evergarden (Wife)»,
+  [infobox de Gilbert](https://violet-evergarden.fandom.com/wiki/Gilbert_Bougainvillea_(anime)))
+  ✅ — dato que no estaba en la biblia vieja.
+- **Qué transmite / cómo se siente verla**: contención que se rompe poco
+  a poco; ternura fría al principio, calidez tardía. El público la
+  describe como «la serie que te rompe llorando sin gritar» (ver §21).
+- **Cómo se expresa**: frases cortas y formales, sin muletillas; explica
+  como un informe (dato → conclusión): «Era distinto de una carta
+  normal… me costó alabarlo» (película, 00:13:35) ✅. Saluda siempre
+  igual: «Encantada. Allá donde el cliente lo desee, acudiré. Servicio
+  de Auto Memory Dolls, Violet Evergarden» (eps. 4, 5, 6, 7, 10, 13) ✅.
+  No grita casi nunca: la única vez que alza la voz es en el ep. 1,
+  00:21:29 («¡Quiero saber qué es "te quiero"!») ✅.
+- **Lenguaje corporal**: espalda recta, manos juntas delante, pasos
+  medidos; teclea muy rápido y sin mirar el teclado; se toca el broche
+  verde cuando piensa en Gilbert (descrito de memoria por el equipo
+  anterior, sin cambios: sigue con ⚠️, hay que confirmarlo mirando un
+  capítulo entero con `episodio.py`).
+- **Su cara en cada emoción** (con fotograma real, mirado con `Read`;
+  fuente y minuto donde los hay):
+  - **Alegría**: sonrisa suave y breve, boca cerrada, ojos entornados;
+    dos ejemplos reales vistos ✅: [«Violet's smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/2/2a/Violet%27s_smile.jpg)
+    (1274×714, usada en la ficha del **episodio 5**, con lazo rojo y
+    cielo azul de fondo) y [«Violet smile ep9.png»](https://static.wikia.nocookie.net/violet-evergarden/images/f/f1/Violet_smile_ep9.png)
+    (540×304, **episodio 9**, sonrisa de perfil, luz interior suave) —
+    ambas de `violet-evergarden.fandom.com`, comprobadas con `fileusage`
+    de la API el 24-sep-2026.
+  - **Tristeza**: [«Violet crying.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/8/8f/Violet_crying.jpg)
+    (1280×720) ✅: lágrimas visibles en las mejillas, broche verde al
+    cuello, mira a otro personaje de espaldas, cielo y verde de fondo;
+    llora **sin sollozar ni desfigurar la cara** (nada de boca muy
+    abierta). Episodio exacto ⚠️: el wiki no lo dice, sólo que se usa en
+    la ficha del personaje; subida el 31-mar-2018 (la serie emitía un
+    capítulo por semana desde el 10-ene-2018, así que es de los
+    primeros 12 episodios).
+  - **Vergüenza / torpeza emocional**: [«Violet awkward smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/0/07/Violet_awkward_smile.jpg)
+    (700×394) ✅: Violet con los dedos empujando las comisuras de la
+    boca hacia arriba, **fabricándose una sonrisa** a la fuerza, en un
+    salón grande con lámparas — la imagen que mejor resume que Violet
+    **aprende a sentir practicando el gesto**, no sintiéndolo primero.
+  - **Miedo**: no hay ninguna captura de la wiki etiquetada «miedo» ni
+    «asustada» (busqué «Violet fear», «Violet scared», «Violet
+    trembling»: sin resultados) ⚠️. La referencia más cercana son los
+    primeros planos de sus ojos en el tráiler de guerra
+    ([x7t0he2, 0:20 a 0:24](https://www.dailymotion.com/video/x7t0he2?t=20)):
+    ojo muy abierto, iluminado a contraluz, en medio de una batalla —
+    tensión, no llanto. Es un fotograma de tráiler, no de un episodio:
+    lo marco como referencia, no como confirmación de minuto de serie.
+  - **Rabia**: **no encontré ninguna** imagen ni escena de Violet
+    furiosa (ver §12): su enfado, cuando lo hay, es contención, no
+    gesto. Para una lámina, **no forzar una cara de rabia** en ella.
+
+#### Gilbert Bougainvillea («el Mayor»)
+
+- Oficial del ejército, «少佐» de Violet; le regaló el broche verde,
+  del color de sus ojos (ep. 1, 00:00:22; ep. 8, 00:14:06) ✅. Le dice
+  «愛してる» al final de la guerra (ep. 9, 00:02:38) ✅.
+- **Altura y sangre** (nuevo, de fuente oficial) ✅✅: **185 cm, sangre O**
+  — Starter Book oficial, confirmado en dos sitios: traducción en
+  [dennou-translations](https://dennou-translations.tumblr.com/post/173583642499/violet-evergarden-starter-book-character-profiles)
+  y la ficha de la wiki ([Gilbert Bougainvillea (anime)](https://violet-evergarden.fandom.com/wiki/Gilbert_Bougainvillea_(anime)),
+  que cita la misma fuente, «CharacterProfile»). Edad: **29** (novela,
+  volumen 2, capítulo 5) ✅.
+- Habla bajo y con cariño: «tú quédate aquí» (ep. 8, 00:07:23) ✅. Casi
+  siempre aparece en **recuerdos**, nunca como narrador de #poemas.
+- **Su cara en cada emoción**: no hay imágenes etiquetadas por emoción
+  en la wiki (busqué «Gilbert sad», «Gilbert crying», «Gilbert angry»:
+  sin resultados) ⚠️. Pendiente para quien tenga acceso a ver el
+  capítulo 9 o 10 completo con `episodio.py`.
+
+#### Claudia Hodgins («el jefe»)
+
+- Fundó y dirige la C.H. Postal Company en Leiden; amigo de Gilbert
+  desde la Academia Militar ✅ ([dennou-translations Fanbook](https://dennou-translations.tumblr.com/post/184406019584/violet-evergarden-official-fanbook-character);
+  wiki). **Altura 192 cm, sangre A** (Starter Book) ✅✅ (mismas dos
+  fuentes que Gilbert).
+- Bromista, cariñoso, medio payaso: el gag de los tres muñecos de
+  animales es suyo ✅ (TV Tropes/Funny, visto en el repaso anterior).
+  Frase clave: «estás ardiendo» (ep. 1, 00:18:10) ✅ — Violet no sabe que
+  está herida por dentro.
+- **Para #poemas**: escribe un haiku en el especial (00:13:19) ✅: el
+  más «poeta aficionado» de la oficina.
+- **Su cara en cada emoción**: sin imágenes etiquetadas en la wiki
+  (busqué «Hodgins laughing», «Hodgins sad»: sin resultados) ⚠️.
+
+#### Cattleya Baudelaire — la Doll estrella
+
+- Doll con más trayectoria de la C.H. Postal Company, especialista en
+  cartas de amor ✅ (Fanbook oficial). **Altura 167 cm, sangre B**
+  (Starter Book) ✅✅.
+- Defiende el oficio: «un arma para que las mujeres que trabajamos
+  luchemos en la sociedad» (ep. 2, 00:08:25) ✅. Hace de hermana mayor
+  de Violet.
+- **Su cara en la emoción de rabia/fastidio** (nuevo, con imagen real) ✅:
+  [«Angry Cattleya.png»](https://static.wikia.nocookie.net/violet-evergarden/images/6/66/Angry_Cattleya.png)
+  (1366×768, usada en su ficha de personaje): boca tensa, ceja alzada,
+  mirada de lado, en un pasillo con luz cálida — coincide con la pelea
+  con Benedict del ep. 3, 00:20:03 a 00:20:13 («¡este tonto puso un
+  vaso mojado sobre la carta que escribí!») que ya traía el equipo
+  anterior con subtítulo y minuto ✅✅ (imagen + subtítulo confirman la
+  misma escena).
+
+#### Benedict Blue — el cartero
+
+- Repartidor de C.H., compañero de Violet, seco pero honrado ✅ (ねとらぼ,
+  ねとらぼ, Fanbook oficial: «obsesión con la moda, no usa uniforme
+  oficial»). **Altura 172 cm, sangre O** (Starter Book) ✅✅.
+- Gruñón: «¿Y por qué tengo que hacer yo el té?» (ep. 13, 00:22:32) ✅.
+  **2.º personaje más votado en dos encuestas de fans** (2021 y 2022,
+  §7) ✅✅: el «secundario más querido» que pedía el dueño.
+
+#### Iris Cannary — la Doll joven
+
+- Novata, ambiciosa y quejica; viene de Kazaly con ganas de ser mujer
+  independiente en la capital ✅ (Fanbook oficial + subtítulo ep. 2,
+  00:06:12). **Altura 160 cm, sangre B** (Starter Book) ✅✅.
+- **Su cara en la emoción de rabia** (nuevo) ✅: [«Iris angry.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/d/d7/Iris_angry.jpg)
+  (809×455, ficha de Iris Cannary): cejas muy fruncidas, dientes
+  apretados, hombros tensos, fondo exterior con árboles — la cara más
+  expresiva y «de anime clásico» de todo el reparto principal, muy
+  distinta de la contención de Violet: útil para contraste en una
+  lámina de grupo.
+
+#### Erica Brown — la Doll insegura
+
+- Insegura, quería ser escritora; la novela de la Sra. Orland «le hizo
+  temblar el corazón» (ep. 2, 00:20:36 a 00:20:49) ✅. **Altura 155 cm,
+  sangre AB** (Starter Book) ✅✅ — la Doll más baja del reparto principal.
+
+**Dinámicas entre personajes** (para láminas en grupo) ✅: Cattleya se
+pelea con Benedict y luego toma el té con él (ya visto, TV Tropes);
+Hodgins hace reír a toda la oficina con los muñecos; Violet y Erica se
+parecen en la inseguridad al escribir algo propio (ninguna se atreve al
+principio); Iris y Violet chocan porque Iris quiere ser vista y Violet
+no busca nada para sí misma.
+
+**Nota de método**: para «vergüenza», «miedo» y las caras de Gilbert y
+Hodgins que faltan, la wiki no tiene capturas etiquetadas y este
+servidor no puede bajar los episodios completos de streaming con
+audio/vídeo protegido (Netflix/Crunchyroll). Quien redacte con acceso a
+`episodio.py` sobre un archivo de vídeo propio puede completar esas
+caras; lo dejo en «Sigue» abajo.
 
 ### 20 · Gustos y detalles de cada personaje
 
-Sigue: pendiente.
+**Fuente principal**: el *Violet Evergarden Official Starter Book*
+(databook oficial), en dos sitios que lo transcriben por separado —
+[dennou-translations (Starter Book)](https://dennou-translations.tumblr.com/post/173583642499/violet-evergarden-starter-book-character-profiles),
+[dennou-translations (Fanbook)](https://dennou-translations.tumblr.com/post/184406019584/violet-evergarden-official-fanbook-character)
+— y la wiki, que cita la misma fuente en su infobox («CharacterProfile»).
+Trato altura y sangre como ✅✅ (dos transcripciones independientes del
+mismo databook oficial); lo que sólo está en un sitio, ⚠️.
+
+| Personaje | Altura | Sangre | Cumpleaños | Fuente |
+|---|---|---|---|---|
+| Violet Evergarden | 161 cm | Desconocida | **25 de septiembre** ✅ | Starter Book + infobox wiki |
+| Gilbert Bougainvillea | 185 cm (6'1") | O | No indicado ⚠️ | Starter Book + infobox wiki |
+| Claudia Hodgins | 192 cm | A | No indicado ⚠️ | Starter Book + infobox wiki |
+| Cattleya Baudelaire | 167 cm | B | No indicado ⚠️ | Starter Book + infobox wiki |
+| Benedict Blue | 172 cm | O | No indicado ⚠️ | Starter Book + infobox wiki |
+| Iris Cannary | 160 cm | B | No indicado ⚠️ | Starter Book + infobox wiki |
+| Erica Brown | 155 cm | AB | No indicado ⚠️ | Starter Book + infobox wiki |
+
+**El objeto que siempre lleva**:
+- Violet: el **broche verde** que le regaló Gilbert, del color de sus
+  ojos (ep. 1, 00:00:22) ✅; y la **máquina de escribir** en su maletín,
+  que la acompaña a todos los encargos (ep. 6, 00:09:21 a 00:09:30) ✅.
+- Benedict: se preocupa mucho por la ropa, «obsesión con la moda»; **no
+  usa el uniforme oficial** de cartero, viste a su gusto ✅ (Fanbook
+  oficial, dennou-translations).
+
+**Cómo se ve a sí misma cada uno**:
+- **Violet**: se ve como **una herramienta / un arma**, no como persona:
+  «soy la herramienta del comandante» (tráiler doblado en España, 0:41,
+  [x7t0he2](https://www.dailymotion.com/video/x7t0he2?t=41); mismo
+  sentido en japonés, ep. 1) ✅. Al principio necesitaba que otros le
+  dieran órdenes y no tenía conciencia de sí misma; tras estar con
+  Gilbert aprende lenguaje y escritura, y él le da su nombre ✅
+  (resumen de novela ligera, con dos fuentes que coinciden: NamuWiki y
+  el resumen de personality-database/ranker citando la LN). **A menudo
+  hace gestos como si estuviera probando qué sensación dan las cosas**
+  (tocar telas, objetos) — frase textual del Starter Book, citada por
+  dennou-translations ✅: encaja con que aprendió el tacto y las
+  emociones tarde, no de niña.
+- **Erica**: **se preocupa por dentro en cada intercambio con un
+  cliente y no tiene confianza en sí misma** — frase textual del
+  Starter Book ✅ (misma fuente).
+- Tras la guerra, Violet vive con la familia Evergarden (parientes
+  lejanos de Gilbert, nobles de Leiden) y **aprende baile, cocina,
+  canto y bordado**, lo propio de una señorita de sociedad de la época
+  ✅ (resumen de la novela ligera, NamuWiki + personality-database,
+  dos fuentes independientes) — son sus «aficiones» aprendidas, aunque
+  no hay una lista oficial de «hobby» por ficha como en un databook de
+  ídolos.
+
+**No encontré, con las búsquedas hechas** ⚠️:
+- **Comida favorita** y **cumpleaños** de nadie salvo Violet: probé
+  «Violet Evergarden [personaje] favorite food», «[personaje]
+  birthday databook», en inglés, sin resultado en ningún personaje
+  además de Violet. El Starter Book en las fuentes que pude leer no
+  trae esos campos (lo dice también el propio resumen del fanbook).
+  Puede estar en el **Official Design Works** o en un databook que no
+  está traducido y no lo pude confirmar.
+- **Lo que odia** cada personaje: no hay una lista de «dislikes» en
+  ninguna ficha ni infobox de la wiki (comprobé el wikitext de Violet,
+  Hodgins, Cattleya, Benedict, Iris y Erica: ninguno tiene campo
+  Likes/Dislikes).
 
 ### 21 · Por qué la gente la ama
 
-Sigue: pendiente.
+**Notas y ventas** ✅: **8,52/10 en MyAnimeList** (más de 27 000 votos) y
+**8,6/10 en IMDb** (Know Your Meme, resumen del 24-sep-2026, citando
+ambos sitios). Subreddit r/VioletEvergarden con más de 990 suscriptores.
+
+**Premios** ✅ (dos fuentes: resumen de búsqueda + Wikipedia en inglés,
+[Crunchyroll Anime Award for Best Animation](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Animation)):
+en los **3.º Crunchyroll Anime Awards (2018)** ganó **Mejor Animación**;
+tuvo **6 nominaciones** en total, incluidas Anime del Año (perdió con
+*Devilman Crybaby*), Mejor Personaje (Violet), Mejor Diseño de
+Personajes (Akiko Takase) y Mejor Director (Taichi Ishidate). Antes,
+la **novela ligera original ganó el Gran Premio de la 5.ª edición de los
+Kyoto Animation Awards** ✅ (ya en la biblia vieja, confirmado también
+por Know Your Meme).
+
+**Con qué personaje se identifica el público, y por qué** ✅ (reseñas de
+MyAnimeList, varias citadas en el resumen del buscador): Violet pasa de
+«máquina de matar sin emociones» a «una chica que llora y sabe qué es el
+amor»: los fans dicen que es **una historia de sanar un trauma**, y que
+se identifican con su duelo por Gilbert y con aprender a sentir de
+adulta lo que no sintió de niña. Reseñas de MAL la describen como
+«veterana de guerra emocionalmente atrofiada que encuentra su lugar en
+una sociedad en paz» y destacan que sus explosiones emocionales
+«se sienten ganadas, no regaladas».
+
+**Las escenas que hacen llorar** (capítulo, minuto, qué pasa, música,
+cómo está filmada, reacción):
+
+| Escena | Cap./minuto | Qué pasa | Música | Cómo está filmada | Reacción |
+|---|---|---|---|---|---|
+| **Las 50 cartas de la madre para Ann** | ep. 10, 00:20:26 a 00:22:38 ✅ (subtítulo, equipo anterior) | Una madre moribunda le dicta a Violet una carta de cumpleaños **por cada año** que su hija Ann no la va a tener; Violet aguanta el llanto toda la semana y se rompe después, con sus compañeros ✅ (búsqueda, con dos reseñas coincidentes) | **«Letters From Heaven»** (disco 2, pista 18 del OST), según la guía de pistas por episodio de [odanurr87 (tumblr)](https://odanurr87.tumblr.com/post/172495977484/soundtrack-episode-guide-update-0308-updated) ⚠️ (una fuente, no oficial: falta el crédito del compositor en el propio disco) | Silencio y primeros planos de las manos escribiendo; luz de tarde en la casa de la familia | Es **el episodio más citado como el mejor/el que más duele** en reseñas y en Reddit (r/VioletEvergarden, título «best scene», búsquedas ya hechas por el equipo anterior) |
+| **Violet cruza el lago con el paraguas** | ep. 7, 00:16:50 a 00:17:23 ✅ (subtítulo) | Ayudando al dramaturgo Oscar Webster a terminar su obra, Violet actúa el papel de Olive cruzando el agua con un paraguas abierto | La guía de odanurr87 liga la música **«Never Coming Back»** (disco 2, pista 03) al bloque «historia de Oscar / enfermedad de Olivia / promesa de un día», que cubre este tramo del episodio 7 ⚠️ (misma fuente, sin confirmar en el disco oficial) | Toma amplia, falda y paraguas al viento, hojas cayendo | Escena recreada por fans en *Animal Crossing: Pocket Camp* con **219 votos y 4 comentarios** en Reddit ✅ ([hilo, ya en `datos-voz.md`](https://www.reddit.com/r/VioletEvergarden/comments/oocxfh/did_my_best_to_recreate_the_iconic_umbrella_scene/)) |
+| **«Te quiero» al final de la guerra** | ep. 9, 00:02:38 ✅ | Gilbert le dice «愛してる» a Violet en la batalla final, sin que ella entienda aún la frase | No confirmado con fuente ⚠️ | — | Es la escena-semilla de toda la serie; se cita en casi cualquier reseña como el gancho emocional inicial |
+
+**Lo que sigue sin fuente** ⚠️: el compositor exacto acreditado por
+pista (la guía de odanurr87 no es la lista oficial del disco; el OST lo
+compuso **Evan Call**, dato ✅ de la ficha general de la serie, pero no
+crucé pista por pista con los créditos oficiales del Blu-ray). Vídeos
+de reacción (*reaction videos*) con vistas: no los busqué por YouTube al
+estar bloqueado; quedaría para quien tenga acceso.
 
 ### 22 · Fan dubs y comunidad hispana
 
-Sigue: pendiente.
+**Fandubs en YouTube** (enlaces con su título tal cual, encontrados por
+buscador; **no pude ver vistas ni bajarlos** por el bloqueo de sesión de
+YouTube en este servidor — lo digo, no lo invento) ⚠️ (una fuente cada
+uno, el propio resultado del buscador):
+- [«Violet Evergarden (Fandoblaje Español Latino)»](https://www.youtube.com/watch?v=vxzfebe5JxU)
+- [«Violet Evergarden: "Quiero saber que es el amor" (Fandub Español Latino)»](https://www.youtube.com/watch?v=0x_AEydNq74)
+- [«Oscar Webster habla sobre su hija (FANDUB LATINO)»](https://www.youtube.com/watch?v=-sVH9k9Qmb0)
+- [«Trailer de Violet Evergarden {Fandub español latino}»](https://www.youtube.com/watch?v=ODLkzpKwD74)
+- [«Violet Evergarden || ¿Qué es amar? || Fandub Español»](https://www.youtube.com/watch?v=kVGFVSDsOl4)
+- [«Violet Pierde Sus Brazos | Violet Evergarden (Fandub)»](https://www.youtube.com/watch?v=7P43RDhUF3s)
+- En Facebook: [«Violet Evergarden: The Movie | Fandub Latino»](https://m.facebook.com/100064165023656/videos/-violet-evergarden-the-movie-fandub-latino-en-esta-ocasi%C3%B3n-les-traemos-el-segund/164863379162526/).
+- Reto de doblaje en TikTok, ya visto en `datos-voz.md`:
+  [«Reto doblaje: sé Violet Evergarden»](https://www.tiktok.com/@_taniadubs_/video/7279503802078743841),
+  @_taniadubs_ — usan el discurso de presentación de Violet del
+  episodio 1 como prueba de voz: encaja con un servidor de doblaje.
+
+**Covers del opening «Sincerely» (TRUE) en español**, varios canales
+distintos ⚠️ (mismo motivo: no pude verlos ni contar vistas):
+- [xXLupita, «Sincerely - TRUE, Opening Español Latino»](https://www.youtube.com/watch?v=DCO5w4Rkkq4)
+  (según el buscador, subido 7-dic-2018).
+- [Omar Cabán, «OP - SINCERELY (Español Latino)»](https://www.youtube.com/watch?v=WCgR3N0t2FY)
+  (1-oct-2019).
+- [Kotoband, «"Sincerely" Opening - ver. ESPAÑOL»](https://www.youtube.com/watch?v=F3MRxi_PZqE)
+  (18-abr-2021).
+- [«The Covers Duo», versión completa en Facebook](https://www.facebook.com/TheCoversDuo/videos/violet-evergarden-opening-full-cover-espa%C3%B1ol-latino/1021952931641744/).
+- Letra traducida al español, con comentario de fans:
+  [Steemit, «Opening Violet Evergarden Sincerely - TRUE | Letra en español»](https://steemit.com/anime/@rhayder1997/opening-violet-evergarden-sincerely-true-or-letra-en-espanol).
+
+**Parodias y memes hispanos**: no encontré parodias específicas en
+español (busqué «Violet Evergarden parodia», «Violet Evergarden meme
+español»): lo que hay en español es sobre todo fandub serio y covers,
+no humor — coincide con el tono de la serie (nadie hace comedia con
+Violet, ver §12).
+
+**Para #poemas**: los fandubs y covers muestran que la comunidad hispana
+**ya reescribe y recita** los textos de Violet Evergarden por su cuenta
+(cartas, presentación, letra del opening): es la prueba de que el canal
+de poemas encaja con la serie, más allá de la lámina.
 
 ## Lo mejor para la lámina
 
