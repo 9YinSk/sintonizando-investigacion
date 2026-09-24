@@ -320,6 +320,21 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    ondeando con fuerza — sirve para **el clímax/exorcizar**. · [wiki,
    `Rei_Hino_Miko_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/2/2c/Rei_Hino_Miko_-_Anime.png)
    687×1629 (medida) · ✅.
+4. **Primer plano, un brazo alzado junto a la cara con la muñequera roja a la vista,
+   boca abierta gritando** — sirve para **invocar/atacar con determinación** (el
+   instante justo antes del Fire Soul). · ep. 39 (DiC dub), min. **9:20** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=560)
+   · ✅ (fotograma propio, `fotograma_00560.jpg`).
+5. **Primer plano de la mano, un dedo señalando al frente con un haz de energía
+   naranja intensa saliendo de la punta** — sirve para **atacar/lanzar el Fire
+   Soul**. · ep. 39, min. **9:23** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=563)
+   · ✅ (fotograma propio, `fotograma_00563.jpg`).
+6. **Primer plano, ojos entrecerrados, mandíbula tensa**, rodeada de destellos
+   dorados — sirve para **resistir/esforzarse** (encajando el contragolpe de
+   Kunzite). · ep. 39, min. **18:39** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=1119)
+   · ✅ (fotograma propio, `fotograma_01119.jpg`).
 
 #### Makoto Kino / Sailor Jupiter
 
@@ -338,6 +353,21 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    guiñado**, la mochila colgada al hombro con la otra mano — sirve para
    **saludar/animar en tono ligero**. · [wiki, `Makoto_Kino_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/7/72/Makoto_Kino_-_Anime.png)
    383×991 (medida) · ✅.
+4. **Primer plano, las dos manos junto a las sienes, mirada fiera, boca abierta** —
+   sirve para **alertar/alistarse** (reacciona al ver aparecer a Kunzite). · ep. 39
+   (DiC dub), min. **2:58** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=178)
+   · ✅ (fotograma propio, `fotograma_00178.jpg`).
+5. **Primer plano, una mano junto a la tiara de la frente, boca abierta gritando** —
+   sirve para **pensar/prepararse** justo antes de invocar el Supreme Thunder. · ep.
+   39, min. **9:28** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=568)
+   · ✅ (fotograma propio, `fotograma_00568.jpg`).
+6. **Cuerpo entero, rodeada de relámpagos blancos, brazos cruzados cerca de la
+   cara** — sirve para **atacar/invocar el Supreme Thunder** (del anime clásico, no
+   de la hoja de PGSM ya citada). · ep. 39, min. **9:33** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=573)
+   · ✅ (fotograma propio, `fotograma_00573.jpg`).
 
 #### Minako Aino / Sailor Venus
 
@@ -351,6 +381,29 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    lado, el otro doblado, pelo y capa ondeando con fuerza — sirve para
    **presentar/heroína en acción**. · [wiki, `Minako_Aino_Sailor_V_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/b/b4/Minako_Aino_Sailor_V_-_Anime.png)
    997×1042 (medida) · ✅.
+3. **Cuerpo entero, brazos cruzados en X frente al pecho, piernas juntas**, haces de
+   luz azulada saliendo a los lados — invocando el Crescent Beam — sirve para
+   **invocar/atacar**. · ep. 39 (DiC dub), min. **1:02** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=62)
+   · ✅ (fotograma propio, `fotograma_00062.jpg`; este tramo 0:00-2:09 del episodio
+   39 es un resumen de «capítulos anteriores» con planos reales de otros episodios,
+   por eso el minuto real de origen de la escena no se puede fijar, pero la imagen
+   sí es un fotograma auténtico).
+4. **De civil, primer plano, boca abierta, ojos muy abiertos de sorpresa** — sirve
+   para **reaccionar/sorprenderse** ante la noticia de que Kunzite ataca. · ep. 39,
+   min. **2:45** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=165)
+   · ✅ (fotograma propio, `fotograma_00165.jpg`).
+5. **Cuerpo entero, brazos cruzados frente al pecho, dentro de un círculo de luz
+   azul** — misma invocación de ataque, plano distinto — sirve para
+   **invocar/concentrarse**. · ep. 39, min. **9:40** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=580)
+   · ✅ (fotograma propio, `fotograma_00580.jpg`).
+6. **Primer plano, puño cerrado alzado junto a la cara, mirada decidida, boca
+   abierta** — sirve para **animar/decidirse** a seguir luchando. · ep. 39, min.
+   **18:19** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=1099)
+   · ✅ (fotograma propio, `fotograma_01099.jpg`).
 
 #### Luna
 
@@ -364,6 +417,22 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    los ojos en forma de corazón (marca en la frente visible) — sirve para
    **celebrar/enorgullecerse**. · ep. 1, min. 15:52 (mismo hoja, fotograma 257) · ✅
    (fotograma propio).
+4. **Caminando junto a Artemis, lado a lado, por un túnel oscuro**, orejas hacia
+   adelante, mirada seria al frente — sirve para **explicar/vigilar** (avanzan
+   juntos a investigar). · ep. 39 (DiC dub), min. **6:54** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=414)
+   · ✅ (fotograma propio, `fotograma_00414.jpg`; en este episodio Luna y Artemis ya
+   son pareja establecida, con Artemis presente en varias escenas).
+5. **Junto a Artemis en plena tormenta de nieve**, muy cerca el uno del otro,
+   orejas hacia atrás por el viento, mirada de alerta — sirve para
+   **alertar/preocuparse** (buscan a las chicas en el Polo Norte). · ep. 39, min.
+   **13:51** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=831)
+   · ✅ (fotograma propio, `fotograma_00831.jpg`).
+6. **Cara a cara con Artemis, hocico casi tocándose**, nieve cayendo alrededor —
+   sirve para **consolar/hablar en voz baja**. · ep. 39, min. **14:06** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=846)
+   · ✅ (fotograma propio, `fotograma_00846.jpg`).
 
 ---
 
@@ -447,14 +516,23 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
   2025-2026; compositor Takanori Arisawa (dos fuentes más).
 - Nada de programas de terceros para saltar el bloqueo de YouTube: solo Internet
   Archive, Dailymotion y la wiki, como pide el aviso.
-
-Sigue: punto 14 pide **6-10 fotogramas por personaje** y me quedé en 2-3 cada uno
-(Usagi 3, Luna 3, Ami 3, Rei 3, Makoto 3, Minako 2) por el límite de la tanda — están
-todos vistos y citados de verdad, ninguno es relleno, pero falta sumar 3-7 poses más
-por personaje. Vía más rápida para la próxima tanda: mirar minuto a minuto los 3
-vídeos ya descargados y transcritos en `partes/episodios.md` (ep. 1, R Movie 40:00-
-55:00, Cosmos Parte 2 1:10:00-1:18:19) — ya tienen ficha con minutos, solo falta
-sacar más fotogramas de las secciones donde salen Ami/Rei/Makoto/Minako y describir
-la pose. Si no da tiempo, completar con más imágenes ya localizadas en la wiki
-(«A2 group», «A3 group concert» y similares en las galerías de cada personaje, sin
-abrir todavía) o con `investigar_serie.py --paginas` para hojas de contacto nuevas.
+- **Punto 14, tanda de ampliación**: encontré ya descargado y sin usar
+  `/tmp/claude-0/trabajo/38-sailor-moon-video/ep39/hojas/` (428 fotogramas, uno por
+  plano, de todo el episodio 39 del mismo DVD DiC, con `video.mp4` todavía sin
+  borrar) de una pasada anterior — lo repasé hoja por hoja (9 hojas, `Read` de cada
+  una) y es un episodio de temporada 1 con Kunzite como villano, con las 5 guerreras
+  luchando y un flashback largo al Reino de la Luna. De ahí saqué con
+  `fotogramas.py --fotograma` (sobre el `video.mp4` ya local, sin volver a
+  descargar) 19 fotogramas nuevos en 1280 px, verificados yo mismo con `Read` (dos
+  hojas de comprobación propias, `verificacion.jpg` y `verificacion2.jpg`, montadas
+  con PIL) antes de describir la pose — dos de mis identificaciones iniciales
+  (a partir de las miniaturas pequeñas) resultaron equivocadas y las corregí tras
+  verlas en grande (una que creía de Mercury era Venus; otra que creía de Makoto
+  civil no llegué a usarla por quedar ambigua). Añadidas 3 poses nuevas a Usagi, Ami,
+  Rei, Makoto y Luna, y 4 a Minako — los 6 personajes llegan ya a 6 fotogramas
+  citados con capítulo, minuto, enlace `&t=` y archivo propio.
+- No confirmé el título en inglés del episodio 39 (la wiki de Fandom no lista título
+  por número de doblaje DiC y `archive.org/metadata` no trae título por archivo);
+  cito el contenido tal cual lo vi (Kunzite, flashback del Reino de la Luna) con
+  «ep. 39 (DiC dub)», igual que ya se hacía con el episodio 1. ⚠️ (título sin
+  confirmar, contenido sí visto directamente).
