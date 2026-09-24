@@ -738,8 +738,8 @@ que ya decía: «el ドン!! junto al personaje y el cartel de SE BUSCA».
    *Antes decía que el doblaje latino dejaba los carteles en inglés y que «SE BUSCA» era cosa de España.*
    Lo que sigue sin encontrarse es **un cartel dibujado que diga «SE BUSCA» en la versión latina** ⚠️:
    se oye, pero no está comprobado que se vea escrito. **Para la lámina: el cartel puede decir «SE BUSCA»**
-   (es lo que oye el público latino) con **DEAD OR ALIVE / MARINE** en inglés, como el anime,
-   o «vivo o muerto» como el de España (O2).
+   (es lo que oye el público latino), con «vivo o muerto» como el de España (O2);
+   o todo en inglés como se ve en el anime (**WANTED / DEAD OR ALIVE / MARINE**). No mezclar (§14).
 8. **Los videojuegos** (ver §13): en *One Piece Odyssey* la caja es **una
    banda ancha translúcida verde azulado** (`#466164`) con un dibujo suave de
    medallones, el **nombre en una pestaña turquesa** (`#38909C`) de borde
@@ -1286,7 +1286,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 | **Escena 1 · ep. 37, «Luffy… ayúdame»** (copia vertical con subtítulos ingleses: [Dailymotion x9fibg6, 0:59](https://www.dailymotion.com/video/x9fibg6); oficial: [Toei Animation](https://www.youtube.com/watch?v=r6W0zGy3fcQ) y [doblada al latino, Crunchyroll en Español](https://www.youtube.com/watch?v=M-jKhyF1q20)) | [0:00-0:09](https://www.dailymotion.com/video/x9fibg6?start=0) Nami se clava el cuchillo en el hombro, llorando. [0:10](https://www.dailymotion.com/video/x9fibg6?start=10) Luffy sentado, la mira sin moverse. [0:13-0:18](https://www.dailymotion.com/video/x9fibg6?start=13) plano general de la calle del pueblo, palmeras. [0:37-0:42](https://www.dailymotion.com/video/x9fibg6?start=37) Luffy de pie, chaleco rojo, brazos caídos, cielo azul. **[0:48](https://www.dailymotion.com/video/x9fibg6?start=48) le pone el sombrero en la cabeza** y [0:51-0:52](https://www.dailymotion.com/video/x9fibg6?start=51) **Nami llora bajo el sombrero de paja**. [0:57](https://www.dailymotion.com/video/x9fibg6?start=57) Luffy grita con los brazos abiertos. En las miniaturas del clip latino: Nami llorando con el logo y **una etiqueta turquesa «LATINO»** arriba a la derecha (la marca de los clips doblados de Crunchyroll). **Tanda 3, el clip latino oficial de Crunchyroll** (*storyboards* de 320×180, uno por segundo, ±2 s, y subtítulos automáticos de la voz latina): [0:01-0:05](https://www.youtube.com/watch?v=M-jKhyF1q20&t=1) Nami se clava el cuchillo, llorando con los dientes apretados; [0:06-0:09](https://www.youtube.com/watch?v=M-jKhyF1q20&t=6) **Luffy le sujeta la muñeca** (chaleco rojo, vestido verde de manchas, calle con palmeras). [0:12](https://www.youtube.com/watch?v=M-jKhyF1q20&t=12) Luffy serio en primer plano. [0:16-0:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=16) plano general: Luffy de pie y Nami de rodillas en la calle («¿Qué quieres? No tienes ni idea…»). [0:29-0:32](https://www.youtube.com/watch?v=M-jKhyF1q20&t=29) la mano de Nami aprieta la arena; [0:33-0:39](https://www.youtube.com/watch?v=M-jKhyF1q20&t=33) golpea el suelo («¡Lárgate!»). [0:42-0:47](https://www.youtube.com/watch?v=M-jKhyF1q20&t=42) Luffy, contrapicado, mira abajo con el cielo detrás. **[1:07-1:09](https://www.youtube.com/watch?v=M-jKhyF1q20&t=67) Nami se gira llorando: «Ayúdame».** [1:10-1:12](https://www.youtube.com/watch?v=M-jKhyF1q20&t=70) la sombra del sombrero le tapa los ojos a Luffy. [1:13-1:14](https://www.youtube.com/watch?v=M-jKhyF1q20&t=73) se lo quita. **[1:15](https://www.youtube.com/watch?v=M-jKhyF1q20&t=75) se lo pone a Nami en la cabeza**; [1:16-1:19](https://www.youtube.com/watch?v=M-jKhyF1q20&t=76) los ojos de Nami bajo el ala, llorando. [1:20-1:23](https://www.youtube.com/watch?v=M-jKhyF1q20&t=80) Luffy se aleja y se planta. **[1:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=85) grita al cielo con los dos puños arriba** («¡Claro que lo haré!»). [1:27-1:37](https://www.youtube.com/watch?v=M-jKhyF1q20&t=87) cartela naranja de Crunchyroll: «MÍRALO EN CR · MÁS VIDEOS · SUSCRÍBETE». |
 | **Escena 2 · ep. 312, el funeral del Merry** ([Marca en Dailymotion, 1:17](https://www.dailymotion.com/video/x9kpldw); subtítulos de España) | [0:02-0:06](https://www.dailymotion.com/video/x9kpldw?start=2) la tripulación de espaldas en un bote, mirando. [0:14-0:24](https://www.dailymotion.com/video/x9kpldw?start=14) **Luffy de pie ante el Merry en llamas, fuego naranja `#DA8730` y nieve cayendo**. [0:26-0:30](https://www.dailymotion.com/video/x9kpldw?start=26) Luffy llora apretando los dientes. [0:46-0:52](https://www.dailymotion.com/video/x9kpldw?start=46) el bote pequeño bajo el humo. [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66) Nami, Chopper y Robin lloran. Subtítulo: «Muchas gracias por haberme cuidado todo este tiempo». Es **la luz más bonita de la serie**, pero es una despedida: no para #bienvenidas. |
 | **Escena 4 · ep. 130, Robin pide unirse** (copia con subtítulos ingleses: [Dailymotion x61uaq4, 2:18](https://www.dailymotion.com/video/x61uaq4); mirada en la 2.ª tanda, 46 fotogramas) | [0:00](https://www.dailymotion.com/video/x61uaq4?start=0) mar abierto y cielo con nubes. [0:03-0:06](https://www.dailymotion.com/video/x61uaq4?start=3) **el mascarón de oveja y la vela del Merry**. [0:09-0:12](https://www.dailymotion.com/video/x61uaq4?start=9) Zoro, serio, en primer plano junto al mástil y la cuerda. **[0:18](https://www.dailymotion.com/video/x61uaq4?start=18) los cinco colgados de la baranda, llorando por Vivi** (baranda `#E1B986`, balaustres azulados). [0:30-0:33](https://www.dailymotion.com/video/x61uaq4?start=30) Usopp, Luffy y Sanji con cara de fastidio. **[0:45-0:48](https://www.dailymotion.com/video/x61uaq4?start=45) Robin aparece en la puerta del camarote**, blusa lila, brazos sueltos. [1:00](https://www.dailymotion.com/video/x61uaq4?start=60) Sanji con ojos de corazón junto a Chopper: «Who cares! She's that beautiful lady». [1:24](https://www.dailymotion.com/video/x61uaq4?start=84) Robin sonríe en la escalera. [1:42](https://www.dailymotion.com/video/x61uaq4?start=102) se estira en una tumbona. **[2:03](https://www.dailymotion.com/video/x61uaq4?start=123) barbilla en la mano, media sonrisa: «Let me… join your crew»**. [2:06](https://www.dailymotion.com/video/x61uaq4?start=126) los chicos gritan con la boca enorme. [2:09-2:15] el final es arte del manga del que subió el vídeo (no es del anime). **Es la escena de «alguien nuevo sube al barco»:** luz de mediodía, cubierta de madera clara, mar azul. |
-| **Escena 3 · ep. 1, Luffy sale del barril** (captura de la wiki, hoja P5, y la «Straw Hats' Vow» del ep. 53, hoja O23) | No encontré copia del barril en vídeo que pudiera bajar: el [clip en inglés](https://www.youtube.com/watch?v=X5lBH4VzL4U) existe (miniatura: Luffy riendo junto al barril, chaleco rojo), pero YouTube no dejó bajarlo ⚠️. |
+| **Escena 3 · ep. 1, Luffy sale del barril** (captura de la wiki, hoja P5, y la «Straw Hats' Vow» del ep. 53, hoja O23) | El [clip en inglés](https://www.youtube.com/watch?v=X5lBH4VzL4U) existe, pero YouTube no dejó bajarlo. **Repaso del equipo: el juramento del barril (ep. 53) sí se miró** en una copia de Internet Archive, con sus minutos (22:10-23:10, §4). |
 
 ### 12.2 Otros vídeos (existen: comprobados por oEmbed el 24-sep-2026)
 
@@ -1296,7 +1296,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 - Nami pide ayuda, ep. 37, oficial de Toei: [YouTube](https://www.youtube.com/watch?v=r6W0zGy3fcQ) ✅; y [la caminata a Arlong Park](https://www.youtube.com/watch?v=kuXlQrQNJ8w) (canal de fans) ✅.
 - La nueva voz de Luffy en latino: [X-Tops](https://www.youtube.com/watch?v=7Dfjb4ciSgc) ✅; Desireé González cuenta cómo llegó: [YouTube Short](https://www.youtube.com/shorts/CaXVl3tgWrQ) ✅.
 - Mireya Mendoza como Luffy: [Cine en Combo](https://www.youtube.com/shorts/blZP_EdLzi0) ✅.
-- La voz latina de Brook: [The Hikarino](https://www.youtube.com/watch?v=7zSWA-DeTLI) ✅; Óscar Flores en un pódcast: [TikTok](https://www.tiktok.com/@esamalvaroz/video/7372623284698877190) (no abierto).
+- La voz latina de Brook: [The Hikarino](https://www.youtube.com/watch?v=7zSWA-DeTLI) ✅; Óscar Flores en un pódcast: [TikTok](https://www.tiktok.com/@esamalvaroz/video/7372623284698877190) ✅ (abierto en el repaso).
 - Voces latinas de Dressrosa en Netflix: [X-Tops](https://www.youtube.com/watch?v=Oc3Z02-3lzY) ✅.
 - «Evolución de todas las voces de Luffy en español latino (2006-2023)»: [NicoZ21, 10:58, 296.225 visitas](https://www.youtube.com/watch?v=NYILNO80hOQ) ✅ (por la búsqueda de yt-dlp).
 - Lista de clips del doblaje latino de Netflix: [YouTube](https://www.youtube.com/playlist?list=PL2JAiYYgXhujIEy-cE8NjNt5AW_bcbqsn).
@@ -1306,6 +1306,43 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 - **Tendencia en X:** el «Roof Piece» (ep. 1015) fue tendencia mundial ✅
   ([Republic World](https://www.republicworld.com/entertainment-news/rest-of-the-world/one-piece-hype-of-roof-piece-tops-twitter-trends-fans-say-episode-1015-is-historical-articleshow.html),
   [Sportskeeda](https://sportskeeda.com/anime/twitter-breaks-one-piece-episode-1015-wows-viewers-start-roof-piece-stellar-animation)).
+
+### 12.3 Repaso del equipo (24-sep-2026): diez vídeos más, mirados
+
+YouTube pidió «iniciar sesión» casi toda la tarde; **por ratos dejó bajar los *storyboards*** (un cuadro de 160×90 por segundo: minuto ±2 s). Lo demás, en copias de Internet Archive y Dailymotion con `fotogramas.py --cortes`, mirando cada hoja.
+
+**1 · ED 23 «Sono Mirai / その未来» (Elbaf, 2026): la vida diaria a bordo del Sunny. EL vídeo para #bienvenidas.** Oficial: [ONE PIECE公式, 1:31, 885.028 visitas](https://www.youtube.com/watch?v=Qx-XXzEUm-8) ⚠️ (sólo *storyboard*, pero es el oficial):
+- [0:03](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=3) **Luffy sentado en el mascarón del león, sonriendo de oreja a oreja** (madera `#B28356`, melena `#E0B665`, rojo `#C93E42`). [0:04-0:06](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=4) de pie en la baranda con los brazos arriba. [0:07](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=7) Zoro bosteza.
+- [0:14-0:16](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=14) **Brook toca el violín y Robin lee en una tumbona** (cubierta turquesa `#80CDCA`). [0:17-0:20](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=17) Nami tira de la oreja a Luffy y a Usopp.
+- **[0:24-0:26](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=24) toda la tripulación en una mesa larga, comiendo** (mantel `#F4E9D0`). [0:33-0:40](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=33) Luffy, Chopper y Usopp pescando desde la baranda (mar `#62C2F1`).
+- **[1:02-1:06](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=62) la tripulación entera, de espaldas en la baranda, saluda con los brazos al atardecer** (lavanda `#C3ACBA`, melocotón `#F1C8AF`, sol `#FAF2D9`). **La pose de «¡bienvenido!» vista desde el barco.** [1:16](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=76) el Sunny bajo la Vía Láctea.
+
+**2 · Opening del ep. 1000, «We Are!» con los Sombrero de Paja** ([Internet Archive, 1:49, 720p](https://archive.org/details/one-piece-episode-1000-opening-we-are-straw-hats-edition)). 36 planos, *remake* del OP 1: 0:09 el pergamino quemado · **0:38 el Sunny a mediodía** · 1:01 el león del Sunny con Luffy encima · **1:06 la carta náutica con el Sunny dibujado** · **1:25 los diez en cubierta, en contrapicado** · **1:37 Luffy gira la moneda en el dedo, apoyado en la baranda** · 1:39-1:41 Shanks y Roger en silueta · **1:43-1:44 foto de grupo, Luffy al centro** · 1:48 logo rojo de brocha ✅.
+
+**3 · OP 29 «Luminous»** ([oficial, 1:31](https://www.youtube.com/watch?v=X48ZNGHBa8A)): [0:00](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=0) **Luffy diminuto en un prado verde inmenso** (la escala de los gigantes) · [0:09](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=9) Shanks junto al molino de Foosha · [0:38](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=38) niños gigantes riendo con Chopper · [0:46](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=46) la tripulación con «ONE PIECE» en letras rosas · [1:19](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=79) Gear 5 al sol ⚠️ (*storyboard*).
+
+**4 · OP 26 «UUUUUS!»** ([copia, 1:30](https://www.dailymotion.com/video/x8r9tzd)): [0:07](https://www.dailymotion.com/video/x8r9tzd?start=7) el Sunny visto desde arriba, césped verde lima · [0:10](https://www.dailymotion.com/video/x8r9tzd?start=10) la tripulación en fila bajo «ONE PIECE» en letras hinchadas · [0:21](https://www.dailymotion.com/video/x8r9tzd?start=21) rayas de peligro · [1:26](https://www.dailymotion.com/video/x8r9tzd?start=86) Luffy de espaldas con Chopper y Usopp. **El opening más «gráfico»** ⚠️.
+
+**5 · OP 28 «Carmine»** ([copia, 2:00](https://www.dailymotion.com/video/x9otrgy)): [0:00](https://www.dailymotion.com/video/x9otrgy) una tele que parpadea (Vegapunk) · [0:16](https://www.dailymotion.com/video/x9otrgy?start=16) Egghead en llamas · [1:07-1:09](https://www.dailymotion.com/video/x9otrgy?start=67) Loguetown con tormenta y de día · [1:10](https://www.dailymotion.com/video/x9otrgy?start=70) Luffy y Ace niños riendo · [1:14](https://www.dailymotion.com/video/x9otrgy?start=74) la tripulación junta en una calle ⚠️.
+
+**6 · OP 15 «We Go!»** ([copia, 2:39](https://www.dailymotion.com/video/x3wgpaf)): [0:26](https://www.dailymotion.com/video/x3wgpaf?start=26) el Sunny vuela entre nubes · **[1:13](https://www.dailymotion.com/video/x3wgpaf?start=73) los nueve en fila, de frente, tras los 2 años** ⚠️. **7 · OP 22 «OVER THE TOP»** ([copia, 2:34](https://www.dailymotion.com/video/x7litw4)): [0:10-0:15](https://www.dailymotion.com/video/x7litw4?start=10) **«ワンピース» a pincel sobre papel blanco con sello rojo** · [0:27-0:34](https://www.dailymotion.com/video/x7litw4?start=27) cada uno en kimono ⚠️.
+
+**8 · Tráileres oficiales nuevos:**
+- **Egghead** ([copia, 0:30](https://www.dailymotion.com/video/x8r9xak)): [0:09](https://www.dailymotion.com/video/x8r9xak?start=9) la tripulación con los trajes de Egghead · [0:14-0:19](https://www.dailymotion.com/video/x8r9xak?start=14) rótulos «PUNK RECORDS» y «EGG HEAD» en serifa blanca sobre negro · [0:27](https://www.dailymotion.com/video/x8r9xak?start=27) «STARTS ON JANUARY 7, 2024!» ✅.
+- **Elbaf, 1.º** ([copia, 0:30](https://www.dailymotion.com/video/xa0d0cs)): [0:01](https://www.dailymotion.com/video/xa0d0cs?start=1) «Let's go to Elbaph!» · [0:05-0:10](https://www.dailymotion.com/video/xa0d0cs?start=5) **rótulos rojos sobre papel rugoso naranja** · [0:27](https://www.dailymotion.com/video/xa0d0cs?start=27) «APRIL 5TH, 2026» ✅. **2.º** ([copia, 0:29](https://www.dailymotion.com/video/xa3ktjs)): [0:02](https://www.dailymotion.com/video/xa3ktjs?start=2) «I'm Luffy. I'm the man who will be King of the Pirates!» · [0:19](https://www.dailymotion.com/video/xa3ktjs?start=19) «THE ACCURSED PRINCE AWAKENS» ✅.
+- **Netflix, T2 «Rumbo a la Gran Ruta»** ([oficial, 3:01, 7.144.761](https://www.youtube.com/watch?v=S-XxKVxZ2fU); [copia con subtítulos en español](https://www.dailymotion.com/video/xa1uff0)): [0:05](https://www.dailymotion.com/video/xa1uff0?start=5) el mascarón del Merry desde arriba · [0:07](https://www.dailymotion.com/video/xa1uff0?start=7) «Un pirata es alguien que tiene aventuras» · [0:31-0:37](https://www.dailymotion.com/video/xa1uff0?start=31) fiesta en la taberna («¡Así que a celebrar!») · **[1:10](https://www.dailymotion.com/video/xa1uff0?start=70) la cubierta del Merry desde arriba** (madera `#84604D` / `#64504C`) · [2:35](https://www.dailymotion.com/video/xa1uff0?start=155) Chopper: «¡Nunca me había divertido tanto!» · [2:42](https://www.dailymotion.com/video/xa1uff0?start=162) logo al atardecer con «RUMBO A LA GRAN RUTA» (oro `#EEC573`) ✅.
+- **«THE ONE PIECE»**, el *remake* de WIT Studio para Netflix ([oficial, 1:05, 4.372.522](https://www.youtube.com/watch?v=3Gmo0EXHyKg)): [0:00-0:08](https://www.youtube.com/watch?v=3Gmo0EXHyKg&t=0) Loguetown y Roger · **[0:22-0:24](https://www.youtube.com/watch?v=3Gmo0EXHyKg&t=22) Shanks le pone el sombrero a Luffy niño** · **[0:46](https://www.youtube.com/watch?v=3Gmo0EXHyKg&t=46) «ONLY ON NETFLIX · FEBRUARY 2027»** ✅ (dos copias).
+- **«ONE PIECE HEROINES»** (Nami y las chicas «en los márgenes de la gran aventura»; [copia, 0:37](https://www.dailymotion.com/video/xailvzy)): [0:14](https://www.dailymotion.com/video/xailvzy?start=14) tema «Blue Shining Star» de AiNA THE END · [0:28](https://www.dailymotion.com/video/xailvzy?start=28) «JULY 5TH 2026»; cartelas rosa `#EA6BA4` ✅.
+
+**9 · Detrás de cámaras:** decorados de Netflix ([«Making-of des décors», 2:00](https://www.dailymotion.com/video/x8bfvq4)): [0:51-1:08](https://www.dailymotion.com/video/x8bfvq4?start=51) el Baratie construido en madera · [1:30](https://www.dailymotion.com/video/x8bfvq4?start=90) el mascarón de oveja del Merry ⚠️ (**textura real** de madera y cuerda, §6). Clip del ep. 1082 ([1:35](https://www.dailymotion.com/video/x8pee1a)): [0:15-0:44](https://www.dailymotion.com/video/x8pee1a?start=15) rayos rojos del haki · [1:12](https://www.dailymotion.com/video/x8pee1a?start=72) «Does the new era scare you so much?» ✅.
+
+**10 · Las tres escenas nuevas** (eps. 53, 483 y 1071) van con sus minutos en §4.
+
+**Tendencias (2025-2026):**
+- **Campaña oficial de TikTok por el Día de One Piece** (22-jul al 30-ago-2026), en **28 países, México incluido**: quien pasaba de 1.000 reproducciones ganaba un marco de perfil (sombrero de paja, Loki o arcoíris) ⚠️ ([one-piece.com](https://one-piece.com/news/81187/index.html); cuentas [@onepiece.staff.official](https://www.tiktok.com/@onepiece.staff.official) y [@toeianimationofficial](https://www.tiktok.com/@toeianimationofficial)).
+- **Lo más visto en YouTube:** «UUUUUS!» 29,0 M; «We Are!» en THE FIRST TAKE 23,8 M; tráiler T1 de Netflix 18,2 M ([Ades3pQbeh8](https://www.youtube.com/watch?v=Ades3pQbeh8)).
+- **TikTok hispano sobre el doblaje** ✅ (existen, por oEmbed): [X-Tops, «¿Cómo llegó @inuydesi al doblaje de One Piece como Luffy?»](https://www.tiktok.com/@elxtops/video/7503756843148233989) · [The Hikarino, «TODAS LAS VOCES DE LUFFY EN LATINO»](https://www.tiktok.com/@thehikarino/video/7234681327050657030) · Óscar Flores cuenta cómo dobla a Brook ([TikTok, 15.600 vistas](https://www.tiktok.com/@esamalvaroz/video/7372623284698877190); *antes «no abierto»*).
+- **Análisis en español** (existen; YouTube no dejó bajar sus subtítulos: **sin minuto** ⚠️): IceFoxxAnime, [«Entendiendo One Piece (Saga East Blue)»](https://www.youtube.com/watch?v=m1Eij4uKBI8) (213.861) · venomfakiu, [«One Piece es ARRECHÍSIMO»](https://www.youtube.com/watch?v=XggZ-A0thA0) (venezolano) · ProfeTalamantes, [«¡Psicólogo analiza ONE PIECE!»](https://www.youtube.com/watch?v=pLonJgapxhg).
 
 ---
 
@@ -1347,6 +1384,28 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
   episodio 38 y un arte temprano de Luffy ([TCRF](https://tcrf.net/One_Piece_Ambition)).
   ⚠️ TCRF y TV Tropes siguen en 403 (Cloudflare): el dato es de la primera pasada (buscador).
 
+### 13.1 Repaso del equipo (24-sep-2026): 59 capturas de Steam y 29 de la App Store, miradas
+
+Todo **mirado** en capturas oficiales (API `appdetails` de Steam y búsqueda de iTunes, México y Japón) y en el tráiler de *Grand Gourmet*; colores con `estilo.py` sobre recortes de cada caja (±5 por canal).
+
+**Qué juegos hay en español de Latinoamérica:**
+- *Odyssey* (ILCA, 2023): España **e Hispanoamérica** ⚠️ ([Steam 814000](https://store.steampowered.com/app/814000/)).
+- *World Seeker* (2019): España e Hispanoamérica ⚠️ ([Steam 755500](https://store.steampowered.com/app/755500/)).
+- ***Bounty Rush***: Hispanoamérica ✅ ([Steam 2918150](https://store.steampowered.com/app/2918150/) + [App Store MX](https://apps.apple.com/mx/app/one-piece-bounty-rush/id1343688545): «¡Captura el botín, pirata!»).
+- ***Grand Gourmet*** (Kairosoft, **23-oct-2026**): España e Hispanoamérica ✅ ([Steam 3905010](https://store.steampowered.com/app/3905010/) + [wiki](https://onepiece.fandom.com/wiki/One_Piece:_Grand_Gourmet) + [tráiler, 1:36](https://www.dailymotion.com/video/xae7mxq?t=96)). El jugador es novato del **Baratie 2** con Sanji.
+- *Pirate Warriors 3 y 4*, *Burning Blood*: sólo España ⚠️. ***Treasure Cruise* no está en español** (EN, FR, JA, KO) ⚠️ ([App Store](https://apps.apple.com/mx/app/one-piece-treasure-cruise/id943690848)).
+
+**Cajas y rótulos, juego por juego:**
+- ***Odyssey*, la caja es translúcida de verdad**: `#466163` en la [captura 7](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_ecd6e4103c470b4b7878f0902ce91bf9743a458c.1920x1080.jpg) y `#2E4646` en la [captura 5](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814000/ss_1d099b6daf3b4497fd4c05f252fd85e623b2b505.1920x1080.jpg): toma el color de lo que hay detrás ✅. **Para la lámina: verde azulado al ~75 % de opacidad**, no un color fijo. Letra: palo seco humanista estrecha, blanca, con **sombra abajo-derecha**; el nombre en negrita redondeada sobre la pestaña rasgada ⚠️ (letra no publicada).
+- ***Grand Gourmet*: la caja «de barco» más clara de la franquicia** ✅ ([captura 6](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/a8dc456ad9de44fb295b4394e2be1bb14d7979c4/ss_a8dc456ad9de44fb295b4394e2be1bb14d7979c4.1920x1080.jpg), 1920×1080): **caja crema `#FAF3E1` con doble filete dorado `#E8B976` y café `#84623A`**, el busto en píxeles de Sanji saliendo por arriba, el nombre en una barra oscura translúcida y **un ancla ⚓ gris** como «siguiente». Arriba, placa oscura con borde punteado y dos cabos; marco de telón rojo con timón y ancla. Segunda caja (tráiler [0:29](https://www.dailymotion.com/video/xae7mxq?t=29)): quién habla lo marca **un triangulito verde ▼ sobre su cabeza**. Rótulos en **letra de píxel amarilla** sobre una tabla con dos cuchillos ([0:36](https://www.dailymotion.com/video/xae7mxq?t=36)).
+- ***Treasure Cruise*, «名シーン»** ([App Store JP, captura 5](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/df/44/96df4415-ad93-b2ff-b6b3-426e19a152b0/05-06_OPTC_bnr_Appstore_6.5_U30a4_U30f3_U30c1_1284x2778.png/2000x2000bb.jpg), 924×2000): **viñetas del manga coloreadas y globos de manga de verdad** (blanco, borde negro `#0B0A08` grueso e irregular, texto vertical, ▼ amarillo), botones «VOICE» y «SKIP ➜», marco de **madera y latón** sobre **fondo rojo `#520406` con calaveras** ✅ medido. Menús: barras de madera oscura con ribetes dorados y **botones redondos de timón** («ADVENTURE», «CREW», «TAVERN»); la recompensa con ฿ ✅.
+- ***Bounty Rush***: «**DOOM!!**» rojo `#D00303` con borde blanco `#FAF4EE`, inclinado (el ドン!! en inglés) ✅ ([captura 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_a74ae187b479661147360878280c74d21c71da14.1920x1080.jpg)); frases rápidas en placas grises con **cursiva gruesa blanca** («Leave it to me!») ✅; **ficha «Profile»** con Birthday / Height / Place of Origin / Bounty / VA ([captura 6](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918150/ss_790c1bcb7f22e04cb254cb815b670eefb60aee68.1920x1080.jpg)) ✅: **otro modelo para la ficha de presentación**.
+- ***Burning Blood***: el golpe en **katakana gigante dentro del escenario 3D** (ズドォン!!!, バチッ), rojo `#CC191D` con filete negro `#11151C` y borde blanco, en perspectiva ✅ ([captura 5](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_9bdb521c64090fc46661c77ba98752e39006a337.1920x1080.jpg)).
+- *World Seeker*, *Pirate Warriors 3 y 4*: capturas sólo de combate o paisaje, sin cajas ✅ (miradas todas).
+- **ONE PIECE BASE** (app oficial): el generador de retratos al estilo de Oda y **tu propio cartel WANTED con su ficha detrás** ✅ (detalle en §8, punto 11).
+
+**The Cutting Room Floor** (sigue en 403; lo que indexa el buscador) ⚠️ una fuente cada uno: en *One Piece Ambition* quedó un **modelo sin usar de Axe-Hand Morgan** más detallado; en *Grand Battle!* (PS1, 1999) una versión sin terminar del mapa «Syrup Village»; y la versión occidental de *Grand Battle* (PS2) **recortó contenido a propósito** para no dar *spoilers* al público occidental ([TCRF, categoría](https://tcrf.net/Category:One_Piece_series)).
+
 ---
 
 ## 14 · Lo que el fandom ama, y qué NO hacer
@@ -1371,7 +1430,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 - Una recompensa gorda a Chopper: la suya es **1.000** (antes 50 y 100) ✅.
 - Dibujar a Sanji pegando con las manos: **sólo usa las piernas** ✅ (ficha oficial).
 - Poner **a Luffy de protagonista sin Zoro** en un servidor latino: Zoro ganó en Centro y Sudamérica ✅ (§2).
-- Rotular «SE BUSCA» si el resto del cartel está en inglés: o todo como el anime (WANTED / DEAD OR ALIVE / MARINE) o todo como la emisión de España (SE BUSCA / vivo o muerto, hoja O2). No mezclar.
+- Rotular «SE BUSCA» si el resto del cartel está en inglés: o todo como el anime (WANTED / DEAD OR ALIVE / MARINE) o todo en español (SE BUSCA / vivo o muerto, hoja O2). No mezclar. **Repaso del equipo:** «Se Busca» **sí se dice en el doblaje latino** (Tashigi, «Los carteles de Se Busca acaban de llegar», §8 y §10.2), así que la versión en español ya no suena «de España»: suena al doblaje que conoce el servidor.
 - Mezclar épocas: ropa de antes y de después del salto de 2 años en la
   misma lámina. Elegir **una**. Recomiendo la de después del salto
   (1403, 1365, 1367, 1369, 1371; hojas P1, P3, P8, P14, P18).
@@ -1380,6 +1439,35 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 - Colores apagados: One Piece es sol, mar y colores saturados.
 - **Gear 5 (Luffy blanco):** es muy querido, pero es un spoiler grande
   para quien llega nuevo. Mejor el Luffy clásico.
+
+### 14.1 Repaso del equipo (24-sep-2026): más de lo que se ama y más «no»
+
+**Lo que el fandom ama (nuevo):**
+- **Luffy «rechaza tu rechazo»**: si le dicen que no, sigue tratándolo como de la tripulación, «para fastidio de todos»; **pero nunca obliga a nadie** ✅ ([wiki, «Straw Hat Pirates/Recruitment»](https://onepiece.fandom.com/wiki/Straw_Hat_Pirates/Recruitment) + ficha oficial: «自由すぎる性格で周囲を振り回す»). **El chiste perfecto para #bienvenidas: «¡Ya eres de la tripulación!».**
+- **El «proceso» de fichaje que el fan reconoce**: Luffy invita → le dicen que no → pelean juntos contra un malo → se cuenta el sueño del nuevo → dice que sí y **su gente lo despide con cariño** ⚠️ (wiki). **Encaja con el canal: el que entra trae un sueño.** Usopp no se une: Luffy da por hecho que viene; **Robin se invita sola** (ep. 130) ✅.
+- **Luffy invita a cualquier cosa rara** (un reno que habla, un esqueleto…) y la tripulación le grita que pare ⚠️.
+- **Luffy llama a los suyos por su nombre** y a los demás por apodos: «**Torao**» (Law) ✅, «Hamaca» (Hancock), «Kemurin» (Smoker) ⚠️ ([Hebochans, 104 apodos](https://hebochans.com/one-piece-nickname-luffy/) + [wiki](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Misc.)).
+- **Las mentiras de Usopp se vuelven verdad** (la wiki lleva una tabla con cada una) y su «**enfermedad de no-puedo-entrar-en-esta-isla**» ⚠️ ([wiki, Usopp/Misc.](https://onepiece.fandom.com/wiki/Usopp/Misc.)).
+- **Chopper confundido con un tanuki** («¡Soy un reno!») y **gritando «¡Un médico! ¡Un médico!» hasta que se acuerda de que es él** ✅.
+- **Los chistes de calavera de Brook**: «Pero como ven, ya no tengo ninguno. ¡Yo-jo-jo-jo!» ✅ (latino). **El «¡SUPER!» de Franky** con los antebrazos juntos ✅ (la forma exacta de la pose ⚠️).
+- **Nami le pega a Luffy aunque es de goma**; Oda: «Nami le pega al alma» ⚠️ (SBS 43).
+- **Oda y su SBS**, la sección de preguntas de cada tomo, de donde salen los datos del Punto 20. Y **el secreto final**: en marzo de 2026 Oda escribió qué es el One Piece, publicó la mitad de arriba en los periódicos y **hundió la otra mitad en el mar en un cofre** ✅ ([one-piece.com](https://one-piece.com/news/78258/index.html) + [MANTANWEB](https://mantan-web.jp/article/20260303dog00m200047000a.html)).
+- **Lo más dibujado por los fans** (Danbooru, 55.393 dibujos): **1 Nami (11.099)**, 2 Luffy, 3 Robin, 4 Zoro, 5 Sanji ⚠️ ([Danbooru](https://danbooru.donmai.us/posts?tags=one_piece)). Otra medida del cariño, distinta de las encuestas.
+- **El himno de fans en español más visto es de tripulación**: «Somos Mugiwaras», 20 millones (Punto 22).
+
+**Qué NO hacer (nuevo):**
+- **Llamar a Zoro «vicecapitán» o «primer oficial».** Oda (SBS 102): es **el «número 2»**, pero no vicecapitán; su puesto es «combatiente» ✅ ([wiki, «Mythbusters»](https://onepiece.fandom.com/wiki/Mythbusters/Misunderstandings_and_Misinformation) + ficha oficial). La serie de Netflix sí lo llama así.
+- **Poner a Luffy pensando** («pienso que…»): casi no tiene globos de pensamiento (SBS 54) ⚠️. **Luffy grita o habla.**
+- **Que Luffy le ponga apodo a un compañero**: al recién llegado le diría su nombre o «¡oye, tú!».
+- **Robin gritando o pegando**: «nunca grita a sus compañeros ni les pega» ✅ (wiki + ficha: «siempre serena»). **La que regaña es Nami.**
+- **Brook grosero**: siempre cortés ✅. **Su chiste de las bragas no va en una lámina de bienvenida** (recomendación: el servidor es para todas las edades).
+- **Luffy amenazando de muerte**: no mata; que el malo viva y vea su sueño roto es peor castigo (SBS 4) ⚠️.
+- **Decir que la tripulación son 9: desde Wano son 10**, con Jinbe ✅. En un cartel de «la tripulación», que no falte Jinbe.
+- **Meter a Law, Carrot o Vivi como Sombrero de Paja**: como guiño sí, como tripulantes no ⚠️.
+- **Nombres de 4Kids** («Ruffy», «Gran Línea», «mora» por berry): el fan los ve como la versión vieja y cortada ✅.
+- **Escenas tristes en la bienvenida**: las que más hacen llorar son despedidas (Punto 21).
+- **«Roronoa Zoro» en un texto latino**: el doblaje dice «**Zoro Roronoa**» ✅. En la etiqueta de un cartel WANTED, en cambio, vale como el anime.
+- **Matiz sobre «nakama»**: el manga de Panini México sí deja «Nakama» ⚠️ ([wiki en español](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)) y la comunidad la usa para saludar (§10.2); pero **el doblaje dice «compañero»**. Para un servidor de doblaje: «tripulación» o «compañeros».
 
 ---
 
@@ -1394,7 +1482,7 @@ arte oficial** (el dueño no quiere que parezca IA). Pixiv marca muchos carteles
   faja amarilla, pantalón azul corto con borde de pelo blanco, sandalias y cicatriz en X en el pecho.
 - **Zoro** (P13, P14): pelo verde corto, tres espadas, **tres pendientes de oro en la oreja izquierda**, pañuelo negro en el bíceps izquierdo, cicatriz sobre el ojo izquierdo (tras el salto).
 - **Nami** (P8, P9): pelo naranja, tatuaje de molinillo y mandarina en el hombro izquierdo, Log Pose en la muñeca.
-- **Sanji** (P18): pelo rubio que tapa un ojo, ceja en espiral, traje negro, cigarro.
+- **Sanji** (P18, P28): pelo rubio que tapa un ojo, ceja en espiral, **traje azul marino casi negro** (`#151531`, no negro puro; §9.5), cigarro.
 - **Chopper** (P22, P23): reno pequeño, sombrero rosa con X blanca, nariz azul, astas.
 - **Línea y sombra:** tinta negra que engorda y adelgaza, sombreado de
   anime en dos tonos (luz y sombra planas), bordes limpios.
@@ -1413,6 +1501,46 @@ arte oficial** (el dueño no quiere que parezca IA). Pixiv marca muchos carteles
 - **Referencias de estilo:** P2, P13, P17, P20 (Color Walk de Oda), P3 (anime tras el salto), F1 (el Sunny).
   **De pose:** P1 (saludar), P4 (invitar), P5 (celebrar), P9 (explicar con gracia), 1371 (advertir).
   **De objeto:** O1 y el tráiler de Netflix · 2:43 (muro de carteles), O3-O9 (carteles), opening oficial · [1:05](https://www.youtube.com/watch?v=YoeP9w5UIlg&t=65) (carta náutica), O15-O16 (mapa y ruta), O23 (barril).
+
+### 15.1 Repaso del equipo (24-sep-2026): lo que cambia para la IA de imagen
+
+- **La línea no es negra pura.** Medida en 356 imágenes de la wiki (Punto 18): gris-marrón oscuro, de `#5D4C41` (manga coloreado) a `#776E64` (anime HD). Pedir «contorno marrón oscuro» o corregirlo después.
+- **Sombra:** en el anime moderno (Wano en adelante) el borde de la sombra va **difuminado**, no duro; en 1999-2010, dos tonos planos. **Elegir una época** (§9.5) y pedir la misma luz a todo.
+- **Cielo del anime de día:** `#2B9FF4` a `#35AAF1` (brillo 85-89 %), mejor que el `#2E84DC` de arriba (§6).
+- **Vocabulario que entienden las IA de anime** (etiquetas de [Danbooru](https://danbooru.donmai.us/posts?tags=one_piece) que más se repiten con cada uno, recogidas por `recolectar.py`):
+  - Luffy: `straw_hat`, `scar_on_face`, `scar_on_chest`, `red_shirt`, `open_shirt`, `sash`, `sandals`, `black_hair`, `smile`, `teeth`, `closed_eyes`.
+  - Zoro: `green_hair`, `scar_across_eye`, `earrings`, `katana`, `holding_sword`, `japanese_clothes`, `one_eye_closed`.
+  - Nami: `orange_hair`, `long_hair`, `shoulder_tattoo`, `bracelet`, `earrings`, `brown_eyes`.
+  - Sanji: `curly_eyebrows`, `hair_over_one_eye`, `blonde_hair`, `cigarette`, `goatee`, `suit`, `necktie`, `smoke`.
+  - Chopper: `pink_hat`, `reindeer_antlers`, `blue_nose`, `striped_shirt`, `shorts`, `open_mouth`.
+  - Poses (WD14 sobre el arte oficial, §3.2): `arm_up`, `hand_on_own_hip`, `jumping`, `hands_in_pockets`, `looking_at_viewer`.
+- **Referencias nuevas.** De pose: **P26** (Nami saluda), **P43** (Luffy sonríe ante su cartel), **P29** (Chopper celebra), **ED 23 · 1:02** (la tripulación saluda desde la baranda). De estilo actual: P25-P30 (dibujos oficiales de la web). De objeto: el cartel ligero de lucq22 (§5.1) y la caja de *Grand Gourmet* (§13.1).
+- **Vocabulario de expresiones**, visto en las imágenes de esta biblia (§9.2): **ojos blancos que brillan y vena roja** en la frente (enfado cómico, ep. 1086) · **ojos de corazón** y corazones volando (Sanji, 1367) · **gotas de sudor** (P21) · **lágrimas a chorro** (Chopper, ep. 312) · **chichones** (los golpes de Nami) · el **ドン!!** detrás de quien se planta. El dibujo *chibi* (cabezón) no está documentado en esta biblia ⚠️.
+
+### 15.2 Guía para una IA de texto: sus diálogos en su voz
+
+**Reglas de puntuación y tono** (salen de la voz medida, §9.6, y de las fichas):
+- **Luffy, Nami, Chopper, Usopp:** frases cortas, **¡!** y mayúsculas en el grito. Luffy no explica ni piensa en voz alta: **invita, grita la meta** y ríe «¡Shishishi!».
+- **Zoro:** muy corto, **sin exclamaciones**, seco. Nunca dice el nombre de Sanji.
+- **Sanji:** frío con los hombres («¡Maldición!»), **poeta con las mujeres** («Ah, amor infame…»).
+- **Robin:** calma, datos, frase completa; nunca grita.
+- **Brook:** siempre de «ustedes», «Disculpen», y remata con «¡Yo-jo-jo-jo!».
+- **Franky:** «¡SUPER!» y bravuconadas («¡Prepárense, cobardes!»).
+- **Jinbe:** de señor mayor; risa «Wahaha» ⚠️.
+- **Palabras del doblaje, no del inglés:** «tripulación» / «compañeros» (no «nakama»), «Gran Ruta Marítima», «berries», «Fruta Goma Goma», «Zoro Roronoa», «Se Busca».
+
+**Frases reales del doblaje latino, por emoción** (fuente y minuto en §10 y §10.2):
+
+| Emoción | Frases textuales |
+|---|---|
+| **Alegre / saludar** | «¡Hola! ¿Cómo están? ¡Yo-jo-jo-jo!» · «Mi barco es su barco. Siéntanse en casa.» (Brook) · «¡Únete a nosotros!» (Luffy) · «¡Así que a celebrar!» y «¡Nunca me había divertido tanto!» (tráiler T2 de Netflix, [0:31](https://www.dailymotion.com/video/xa1uff0?start=31) y [2:35](https://www.dailymotion.com/video/xa1uff0?start=155)) |
+| **Enfadado** | «¡Lárgate! ¡Lárgate! ¡Lárgate!» (Nami, ep. 37, [0:36](https://www.youtube.com/watch?v=M-jKhyF1q20&t=36)) · «¡Cállate y dámelo!» (Zoro) · «Maldición, ese cabeza de epazote es un inútil» (Sanji, ep. 139) · «Voy a hacerte pedazos, porque nadie se mete con mis amigos.» (Luffy, Netflix, [2:07](https://www.youtube.com/watch?v=JoO7TGG2Kms&t=127)) |
+| **Explicando** | «Ahora mismo nos encontramos en la Gran Ruta Marítima. Es un Log Pose…» (Robin) · «Me llamo Sanji, soy cocinero en un barco restaurante llamado Baratie.» · «…voy a trazar un mapa mundial.» (Nami niña) |
+| **Animando** | «¡Claro que lo haré!» (Luffy, ep. 37, [1:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=85), ⚠️ subtítulo automático) · «Este grupo, nuestra tripulación… puede con lo que sea.» · «¿Estás conmigo?» · «Tu fiel tripulación a tu lado.» (Netflix) · «¡Curaré incluso un país entero!» (Chopper) · «¡Y creo que eso me da un gran valor!» (Zoro) |
+| **Triste** | «Luffy… ayúdame.» (Nami, ep. 37, [1:08](https://www.youtube.com/watch?v=M-jKhyF1q20&t=68)) · «Son las personas a las que más quiero.» (Luffy) · «Estaré bien, me quedan cinco días de comida…» (Sanji niño) · «Entonces, explícame por qué tienen que morir.» (Vivi) |
+| **Humor** | «Pero como ven, ya no tengo ninguno.» (Brook) · «¡Pero no fui yo! Mi espada lo hizo sola.» (Zoro) · «Me llaman el gran y máximo Capitán Usopp.» · «No tengo pruebas, pero tampoco dudas» (Nami, ep. 351) |
+
+**Cómo exageran:** el que se emociona **grita y llora a chorro** (Franky, Chopper, Jinbe); el que presume se presenta **a lo grande** (Usopp); el que se enamora **se derrite** (Sanji). Para #bienvenidas sirven sobre todo las filas de alegre, explicando y animando.
 
 ---
 
