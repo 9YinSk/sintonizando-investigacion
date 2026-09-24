@@ -2068,8 +2068,9 @@ ideologías», «Almacén Don Manolo», «la rana».
 ## 27 · Tres conceptos de lámina
 
 Los tres usan **tiras reales de Quino recortadas** para las poses de los
-personajes, con los **globos vaciados y rotulados de nuevo**. Lo que se
-hace en Blender es el **objeto real** que las contiene.
+personajes, con los **globos vaciados y rotulados de nuevo en
+MAYÚSCULAS** (segunda pasada: Quino rotula así). Lo que se hace en
+Blender es el **objeto real** que las contiene.
 
 ### Concepto A — «La página del diario» (el living de la familia)
 
@@ -2077,10 +2078,14 @@ hace en Blender es el **objeto real** que las contiene.
   arrugado, sobre la **mesa de madera del living**. En Blender: plano con
   pliegues, la tinta sigue las arrugas. Al lado, el **globo terráqueo**
   de Mafalda y un **plato de sopa** que nadie tocó.
-- **Personaje**: **Mafalda**, dentro de la tira impresa. Viñeta 1: frente
-  al globo (pose 4). Viñeta 4: Manolito con su libreta (Manolito, pose 2).
-- **Cómo habla**: globos de Quino, letra **Quino** o **Patrick Hand SC**
-  (si rotula en mayúsculas); tinta negra, papel `#E8DFC8`.
+- **Personaje**: **Mafalda**, dentro de la tira impresa. Viñeta 1: junto
+  al globo con la mano encima, **explicando** (tira de la hoja
+  `arte_01.jpg` n.º 10, o el fotograma de 1972, ep. 4, 26:40). Viñeta 3:
+  mano en el mentón, **pensando** (ep. 4, 40:00). Viñeta 4: Manolito con
+  su libreta (hoja `personajes_01.jpg` n.º 3).
+- **Cómo habla**: globos de Quino, **Patrick Hand SC** en mayúsculas (la
+  letra «Quino» sólo si se confirma su licencia); tinta `#060606`, papel
+  `#E8DFC8`.
 - **Dónde va cada texto**:
   - Cabecera de la sección del diario, en **Playfair Display**:
     **SUGERENCIAS**.
@@ -2102,12 +2107,18 @@ hace en Blender es el **objeto real** que las contiene.
   como los de Buenos Aires antes de 1972, en la vereda de **Chile y
   Defensa**, junto al **banco blanco** de la estatua. En Blender: partir
   del [Royal Mail postbox](https://sketchfab.com/3d-models/royal-mail-postbox-bcfb6e6252bb4934899f92bb6f4a8870)
-  (comprobar licencia), pintura roja `#B0231C` con desconchones.
-- **Personaje**: **Mafalda sentada en el borde del banco**, dejando sitio
-  (pose 2): **presenta** el buzón. Es la estatua real, y el fan la
-  reconoce al instante.
+  (**CC BY-NC-SA, comprobado por la API**: vale para el servidor, con
+  crédito; si se prefiere CC BY, el
+  [Old Mailbox de yoyavova](https://sketchfab.com/3d-models/old-mailbox-496244e610f340179abd8360ee185763)),
+  pintura roja `#B0231C` con desconchones.
+- **Personaje**: **Mafalda sentada en el borde del banco**, dejando sitio:
+  **presenta** el buzón. Es la estatua real (hoja `arte_01.jpg` n.º 7;
+  verde oliva `#4B6736` medido), y el fan la reconoce al instante.
+  Variante para los miembros de Perú: la de Barranco, amarilla (n.º 6).
 - **Cómo habla**: una **tira recortada del diario y pegada con cinta** al
-  cuerpo del buzón, con sus globos a mano. Letra Quino o Patrick Hand.
+  cuerpo del buzón, con sus globos a mano, en mayúsculas (Patrick Hand SC).
+  Los sobres que asoman, con **lunares rojos** (sección 20) en vez de
+  dibujar más personajes.
 - **Dónde va cada texto**:
   - Ranura del buzón, en letras de metal: **SUGERENCIAS**.
   - La tira pegada: título y los tres pasos.
@@ -2124,13 +2135,16 @@ hace en Blender es el **objeto real** que las contiene.
 - **Objeto y sitio**: la **libreta de pedidos de Manolito**, abierta sobre
   el **mostrador del almacén**, con su **lápiz**. Cada sugerencia es un
   «pedido». En Blender: cuaderno con hojas curvas, rayado, mancha de dedo.
-- **Personaje**: **Manolito** (el secundario más citado), libreta en mano
-  (pose 2). **Mafalda** al otro lado del mostrador, dictando.
+- **Personaje**: **Manolito** (el secundario más citado; 13 %, tercero
+  en la encuesta), libreta en mano (hoja `personajes_01.jpg` n.º 3).
+  **Mafalda** al otro lado del mostrador, dictando. El almacén, copiado
+  del dibujo de Quino y del **mural real** de San Telmo (hoja
+  `objetos_01.jpg` n.º 1 y 2).
 - **Cómo habla**: Mafalda en **globo de tira**; Manolito **escribe** en la
   libreta con letra de lápiz (**Schoolbell** o **Sue Ellen Francisco**).
 - **Dónde va cada texto**:
-  - **Cartel pintado a mano** del almacén (los que pinta Manolito):
-    **SUGERENCIAS GRATIS**.
+  - **Cartel pintado a mano** del almacén (los que pinta Manolito), en
+    imprenta gruesa (Oswald): **SUGERENCIAS GRATIS**.
   - Globo de Mafalda: título y los tres pasos.
   - **La libreta**: una columna «Pedido» y otra «Estado», con los cinco
     estados escritos a lápiz, tachones y tildes.
@@ -2142,26 +2156,58 @@ hace en Blender es el **objeto real** que las contiene.
 
 > **Mi preferido: B.** Es el único con un objeto **real, reconocible y
 > de la época** (el buzón rojo) en el **sitio real** de Mafalda, y la pose
-> de la estatua dice «siéntate, propón».
+> de la estatua dice «siéntate, propón». Segunda pasada: sigue siendo B;
+> cambian la pose (ahora con foto medida), la licencia del buzón
+> (comprobada) y el rotulado (mayúsculas).
 
 ---
 
 ## 28 · Lo que no pude verificar
 
+### De la primera pasada: resuelto (~~tachado~~) o no
 - **El texto del fijado** «Cómo proponer algo» (no está en el inventario).
-- **Hojas de contacto, colores medidos y minutos exactos** (sin red).
-- Si Quino **rotulaba en mayúsculas o minúsculas**.
-- Qué caracteres trae la letra **«Quino»** de Esteban Garrido.
-- La **licencia** real de los modelos de Sketchfab.
-- **Reparto del redoblaje mexicano** de Sono-Mex.
-- Quién hizo la voz de Mafalda **en cada versión** (Morán y Klein chocan).
-- **Compositor** de la cortina de los cortos y de la serie de 1993.
-- La **encuesta** de popularidad: quién la hizo y con cuántos votos.
+- ~~Hojas de contacto, colores medidos y minutos exactos~~ → hechos
+  (secciones 3, 4, 6 y 15).
+- ~~Si Quino rotulaba en mayúsculas~~ → sí, mayúsculas (sección 7).
+- Qué caracteres trae la letra **«Quino»** de Esteban Garrido ⚠️: los 4
+  espejos bloquean la descarga; y su licencia se contradice.
+- ~~La licencia de los modelos de Sketchfab~~ → comprobada por la API
+  (sección 5). Los de luiscoya, cinemaZeta y antoniorafanelli siguen sin
+  comprobar.
+- ~~Reparto del redoblaje mexicano~~ → cinco de siete (sección 10);
+  **Manolito y Miguelito** siguen sin nombre.
+- ~~Quién hizo la voz de Mafalda en cada versión~~ → Morán en los
+  cortos, Klein en la película, González en México.
+- **Compositor de la cortina de los cortos de 1972** ⚠️; ~~el de la serie
+  de 1993~~ → José María Vitier (una fuente).
+- ~~La encuesta de popularidad: quién la hizo~~ → Infonegocios, 13-oct-2020
+  (cuántos votaron, no se dice).
 - Que **Ediciones de la Flor** haya cerrado tras 60 años ⚠️ (sólo lo vi
   en una nota en coreano, [Newsk](https://newsk.net/py/?bmode=view&idx=171142193)).
-- **Fondos de pantalla oficiales**.
-- Tendencias de TikTok propias de Mafalda.
-- Hilos de Reddit (bloqueado).
+- **Fondos de pantalla oficiales** ⚠️: siguen sin aparecer.
+- Tendencias de TikTok propias de Mafalda ⚠️.
+- ~~Hilos de Reddit~~ → leídos por Arctic Shift (secciones 2 y 14).
+
+### Nuevo de la segunda pasada
+- **YouTube**: pide iniciar sesión; los enlaces de YouTube siguen sin
+  minuto. Todo lo mirado es de Internet Archive y Dailymotion.
+- **Qué pista de audio** llevan las copias de Internet Archive (argentina
+  o mexicana).
+- **Manolito, Libertad y Miguelito** en la animación de 1972 (muestreo
+  cada 300-400 s, no fotograma a fotograma). Tampoco «la sopa» animada.
+- **Caras de miedo y vergüenza** con fotograma; una **frase real
+  «animando»**.
+- **Cuántos cortos** hubo en 1972 (52, 72 o 230) y el **año** de la serie
+  de Padrón (1993 o 1994); el crédito de Frank González en esa serie.
+- **Estatua de Madrid** (una fuente) y el **hex** del amarillo de Lima.
+- **Color de la ropa de Felipe** en fuentes escritas.
+- **Cosplay** bien hecho, **café temático**, aval del **Concurso de
+  Ilustración**, año del **sello italiano**.
+- **Fandubs** en español y **vistas** de las cuentas de TikTok.
+- **TV Tropes** y **The Cutting Room Floor** (Cloudflare, 403).
+- Fecha del **exilio de Quino** en Italia (1975 o 1977).
+- Si «¿Qué habrán hecho algunos sures…?» sale en una tira concreta.
+- **Rig libre** de Mafalda para posar en Blender.
 
 ---
 
@@ -2199,10 +2245,13 @@ hace en Blender es el **objeto real** que las contiene.
 - **Mafalda Wiki** (Fandom, español): [Mafalda](https://mafalda.fandom.com/es/wiki/Mafalda), [Felipe](https://mafalda.fandom.com/es/wiki/Felipe), [Manolito](https://mafalda.fandom.com/es/wiki/Manolito), [Susanita](https://mafalda.fandom.com/es/wiki/Susanita), [Libertad](https://mafalda.fandom.com/es/wiki/Libertad), [Papá](https://mafalda.fandom.com/es/wiki/Pap%C3%A1), [Raquel](https://mafalda.fandom.com/es/wiki/Raquel), [Quino](https://mafalda.fandom.com/es/wiki/Quino), [El Mundo](https://mafalda.fandom.com/es/wiki/El_Mundo), [la escuela](https://mafalda.fandom.com/es/wiki/Mafalda_y_la_escuela)
 - **TV Tropes**: [Mafalda](https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Mafalda), [YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/Mafalda), [Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/Mafalda), [Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Mafalda)
 - **Tebeosfera**: [colección de la Flor 1995](https://www.tebeosfera.com/colecciones/mafalda_1995_de_la_flor.html)
-- The Cutting Room Floor: **no aplica** (no hay videojuego).
+- The Cutting Room Floor: no hay videojuego grande; en la segunda pasada
+  `tcrf.net` **bloqueó** con Cloudflare (dos intentos). TV Tropes, 403.
 
 ### Foros y comunidades
-- Reddit: **bloqueado** (ni la web ni Arctic Shift respondieron).
+- Reddit: bloqueado en la primera pasada; en la segunda, leído por
+  [Arctic Shift](https://arctic-shift.photon-reddit.com/api/comments/search?link_id=1tv9uvp)
+  ([r/Mafalda](https://www.reddit.com/r/Mafalda/), 20 posts y un hilo).
 - Blogs de fans: [Mafalda cómic](https://mafaldacomic.wordpress.com/2018/07/02/manolito-goreiro/), [Kalvicio](https://kalvicio-klv.blogspot.com/2009/03/mafalda-el-almacen-don-manolo-san-telmo.html), [Las gafas rojas](http://lasgafasrojas.blogspot.com/2008/11/mafalda-libertad-y-el-voto.html), [Toda Mafalda](http://toda-mafalda.blogspot.com/2010/11/mafalda-la-pelicula.html)
 - Grupo de Facebook del juego de mesa: [enlace](https://www.facebook.com/groups/2420525686/posts/10159861580400687/)
 
@@ -2227,13 +2276,124 @@ hace en Blender es el **objeto real** que las contiene.
 - Necrológicas de Rina Morán: [Infobae](https://www.infobae.com/teleshow/2025/03/20/murio-a-los-96-anos-rina-moran-voz-inolvidable-de-la-radio-argentina/), [La Capital](https://www.lacapital.com.ar/zoom/murio-los-96-anos-rina-moran-voz-inolvidable-la-radio-argentina-n10185583.html), [Radio Nacional](https://www.radionacional.com.ar/murio-rina-moran-figura-indiscutida-de-la-radiofonia-argentina/), [Perfil](https://www.perfil.com/noticias/sociedad/el-mundo-de-la-radiofonia-argentina-de-duelo-la-historica-locutora-rina-moran-murio-a-los-96-anos.phtml)
 - ANMTV y Crunchyroll: **no aplican** (no es anime). Netflix: voces sin anunciar.
 
+### Segunda pasada (24-sep-2026): fuentes nuevas
+- **Vídeo mirado**: [Internet Archive, cortos 1972](https://archive.org/details/mafalda-la-serie-1972-1080p),
+  [película 1981](https://archive.org/details/mafalda-la-pelicula-1981),
+  [película con subtítulos](https://archive.org/details/mafalda-the-movie),
+  [cortos animados](https://archive.org/details/mafalda-cortos-animados);
+  Dailymotion: [x5mwven](https://www.dailymotion.com/video/x5mwven),
+  [x8x3q88](https://www.dailymotion.com/video/x8x3q88),
+  [x8x21ek](https://www.dailymotion.com/video/x8x21ek),
+  [x96i0hg](https://www.dailymotion.com/video/x96i0hg).
+- **Oficiales**: [ONU Noticias](https://news.un.org/es/story/2024/11/1534621),
+  [ONU Argentina](https://argentina.un.org/es/284639-sus-60-a%C3%B1os-mafalda-cumpli%C3%B3-el-sue%C3%B1o-de-ser-int%C3%A9rprete-en-la-onu),
+  [Embajada Argentina en Perú](https://eperu.cancilleria.gob.ar/es/inauguramos-una-escultura-de-mafalda-en-barranco-para-celebrar-la-amistad-argentino-peruana),
+  [Buenos Aires Ciudad](https://buenosaires.gob.ar/noticias/paseo-de-la-historieta-0),
+  [Ecovidrio](https://www.ecovidrio.es/mafalda),
+  [App Store](https://apps.apple.com/ar/app/mafalda/id585754234),
+  [quino.com.ar, estatuas](https://www.quino.com.ar/post/mafalda-alrededor-del-mundo-un-recorrido-por-las-estatuas-que-la-celebran),
+  [Fundación Konex](https://www.fundacionkonex.org/b516-joaquin-lavado-quino),
+  [ENDAC](https://endac.org/encyclopedia/mafalda/),
+  [manual de Blender](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/toon.html).
+- **Entrevistas y técnica**: [La Nuez](https://lanuez.blogspot.com/2008/04/quino-te-cuenta-como-dibuja.html),
+  [Dreamers.es](https://dreamers.es/mafalda/Entrevista/entrevista_a_quino.htm),
+  [La Nación, Tute](https://www.lanacion.com.ar/lifestyle/mafalda-la-grande-nid1677806/),
+  [La Nación, despedida](https://www.lanacion.com.ar/cultura/mafalda-a-30-anos-de-su-despedida-nid506391/),
+  [ABC Color](https://www.abc.com.py/espectaculos/cultura/voz-de-mafalda-celebra-el-premio-al-filosofo-quino-1299168.html),
+  [prólogo de Eco](http://mafaldaylarumia.blogspot.com/2009/03/mafalda-la-contestataria-por-umberto.html),
+  [cgian, Line Art](https://cgian.com/blender-line-art/).
+- **Prensa** (Perú, Argentina, España, México, Colombia):
+  [El Comercio](https://elcomercio.pe/luces/arte/escultura-de-mafalda-sera-instalada-en-lima-el-proximo-21-de-setiembre-conoce-el-lugar-exacto-aqui-mafalda-quino-argentina-barranco-lima-peru-arte-ultimas-noticia/),
+  [La República (Perú)](https://larepublica.pe/sociedad/2023/09/22/mafalda-en-lima-conoce-como-llegar-a-la-escultura-de-la-famosa-caricatura-y-mas-detalles-barranco-embajada-de-argentina-saenz-pena-778360),
+  [El Peruano](https://www.elperuano.pe/noticia/223637-paren-el-mundo-mafalda-se-instalo-en-boulevar-de-barranco-fotos),
+  [Andina](https://andina.pe/agencia/noticia-paren-mundo-mafalda-se-instalo-boulevar-barranco-fotos-955230.aspx),
+  [iProfesional](https://www.iprofesional.com/notas/197131-Para-los-50-aos-de-Mafalda-este-lunes-se-le-sumarn-Susanita-y-Manolito-en-San-Telmo),
+  [La Capital](https://www.lacapital.com.ar/informacion-general/susanita-y-manolito-acompanan-mafalda-n440946.html),
+  [Infobae, Paseo](https://www.infobae.com/sociedad/2025/07/24/de-patoruzito-a-el-eternauta-todas-las-esculturas-del-paseo-de-la-historieta-en-san-telmo-para-conocer/),
+  [Emol](https://www.emol.com/noticias/Espectaculos/2026/04/08/1196675/revelan-primera-imagen-serie-mafalda.html),
+  [El Diario NY](https://eldiariony.com/2026/04/08/netflix-muestra-primera-foto-de-la-serie-animada-de-mafalda/),
+  [ANSA Latina](https://www.ansalatina.com/americalatina/noticia/espectaculos/2026/04/12/llega-a-netflix-mafalda-rodada-por-un-premio-oscar_5486a721-80bd-4244-a9c3-5b80ef4e19c1.html),
+  [Radix Animación](https://radixanimacion.com/noticias/mafalda-juan-jose-campanella-netflix/),
+  [La República (Colombia)](https://www.larepublica.co/ocio/en-50-anos-mafalda-ha-vendido-mas-de-20-millones-de-ejemplares-de-sus-libros-2174691),
+  [El Universal](https://www.eluniversal.com.mx/tendencias/mafalda-los-5-premios-mas-importantes-que-gano-su-creador-quino/),
+  [El Historiador](https://elhistoriador.com.ar/mafalda-la-celebre-argentinita-que-inmortalizo-quino-por-felipe-pigna/),
+  [La Tercera](https://www.latercera.com/culto/2020/09/30/una-nina-diferente-quino-y-la-historia-de-la-creacion-de-mafalda/),
+  [La Izquierda Diario](https://www.laizquierdadiario.com/Mafalda-y-el-palito-de-abollar-ideologias),
+  [Parabrisas](https://parabrisas.perfil.com/noticias/novedades/citroen-2cv-quino-mafalda-muerte-argentina-historieta-auto-padre-2-cv.phtml),
+  [Fuel Car Magazine](https://fuelcarmagazine.com/noticias/recordando-a-quino-este-es-el-citroen-2cv-de-mafalda-y-su-familia/),
+  [Sweet Press](https://www.sweetpress.com/actualidad/el-ocho-balance-positivo-de-la-colaboracion-entre-mafalda-y-nestle-MC17269063),
+  [Campus FAD](https://www.campusfad.org/blog/accion-magistral/los-derechos-del-nino-mafalda-y-la-integracion/),
+  [TVLaint](https://www.tvlaint.com/2026/03/chocolate-jack-lanza-una-coleccion-de.html).
+- **Wikis**: Mafalda Wiki por su API ([El Mundo](https://mafalda.fandom.com/es/wiki/El_Mundo),
+  [Burocracia](https://mafalda.fandom.com/es/wiki/Burocracia),
+  [Nervocalm](https://mafalda.fandom.com/es/wiki/Nervocalm),
+  [Quino](https://mafalda.fandom.com/es/wiki/Quino), 48 imágenes),
+  [The Fandub Database](https://fandubdb.fandom.com/wiki/Mafalda),
+  Doblaje Wiki ([Frank González](https://doblaje.fandom.com/es/wiki/Frank_Gonz%C3%A1lez)),
+  [Historietamanía](https://www.historietamania.com/susanita/).
+- **Imágenes libres**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Estatua_de_Mafalda_en_Lima,_Per%C3%BA_02.jpg)
+  (4 fotos), [Flickr](https://live.staticflickr.com/3516/3924482936_a2e9ffd019_b.jpg)
+  vía Openverse (4 fotos), [Safebooru](https://safebooru.org/index.php?page=post&s=list&tags=mafalda).
+- **Recursos**: [Sketchfab API](https://sketchfab.com/3d-models/old-mailbox-496244e610f340179abd8360ee185763)
+  (7 modelos), [Spoon Graphics](https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures),
+  [Unblast](https://unblast.com/free-halftone-dot-textures-svg-png/),
+  [Gumroad, georgvw](https://georgvw.gumroad.com/l/free_procreate_ink_brushes),
+  [MyPhotoshopBrushes](https://myphotoshopbrushes.com/resources/71/halftone-brushes),
+  [PsFiles](https://psfiles.com/halftone-dots-ps-brushes/),
+  [Brusheezy](https://www.brusheezy.com/free/comic-halftone),
+  [DaFontFree](https://www.dafontfree.net/quino-regular-font/f250611.htm),
+  [todocoleccion](https://en.todocoleccion.net/educational-games/antiguo-juego-memoria-jugando-mafalda-muy-raro-encontrar~x197358146).
+- **Comunidad**: [TikTok @mafalda_habla](https://www.tiktok.com/@mafalda_habla/video/7297053511878315270),
+  [@MafaldaDigital en X](https://x.com/MafaldaDigital/status/1464625147340595206),
+  [UNICEF Argentina](https://www.facebook.com/UNICEFargentina/videos/mafalda-10-derechos-fundamentales-de-los-ni%C3%B1os-ni%C3%B1as-y-adolescentes/450039782172277/).
+
 **Total: 230 enlaces distintos, de unas 140 webs**, en este documento.
 
 ---
 
 ## 30 · Cumplimiento del encargo
 
-_(pendiente)_
+Los 25 puntos de «Qué investigar» de `ENCARGO.md`, y lo demás que pide.
+✅ hecho · ⚠️ a medias · ❌ no hecho.
+
+| Punto | Estado | Por qué | Sección |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | 48 imágenes de la wiki medidas, dibujo oficial a color, portadas, Netflix, 4 estatuas, lata del 60 aniversario, 3 hojas. No hay hojas de modelo oficiales públicas | 3 |
+| 2 · Escenas icónicas, 1080p, capítulo y minuto | ✅ | 14 escenas miradas en los cortos de 1972 (1080p), la película y Dailymotion, con minuto. «La sopa» no apareció animada | 4 |
+| 3 · Fan art y 3D con licencia | ✅ | 7 modelos con licencia leída en la API de Sketchfab; fan art con autor y tamaño | 5 |
+| 4 · Sitios, luz, paleta hex, texturas reales | ✅ | 20+ hex medidos en fotogramas, fotos y tiras; luz de la animación vista. Licencia de ambientCG según el buscador | 6 |
+| 5 · Tipografía por uso, con tildes | ✅ | una letra por uso, todas comprobadas con fontTools. La letra «Quino» no se pudo bajar ni comprobar (4 espejos bloqueados) | 7 |
+| 6 · Cómo hablan en pantalla | ✅ | globo a mano, mayúsculas, negrita, viñetas variables; citas de Tute y Braceli; la animación con voces y la de 1993 sin | 8 |
+| 7 · Popularidad | ✅ | encuesta en dos fuentes, favorita de Quino en cuatro, fans de Reddit | 2 |
+| 8 · Voces latinas y frases textuales con minuto | ⚠️ | reparto original ✅ en dos wikis; frases con minuto sacadas del audio de Internet Archive. Pero no hay clips oficiales accesibles (YouTube pide sesión), no se sabe si la pista es la argentina o la mexicana, y 4 de 5 voces mexicanas tienen una sola fuente | 10 |
+| 9 · Música y sonido | ⚠️ | cortina de 1972 oída (instrumental); Vitier en 1993; onomatopeyas de la tira. Sin compositor de 1972 ni efecto de sonido propio | 11 |
+| 10 · Vídeos con minuto | ⚠️ | 10 vídeos mirados con minuto. Los de YouTube siguen sin minuto; no hay tráiler de Netflix; ninguna tendencia de TikTok propia | 12 |
+| 11 · Videojuegos | ✅ | no hay juego grande: la app oficial es un lector de tiras (sin cajas); juego de memoria; TCRF bloqueado | 13 |
+| 12 · Fandom y qué NO hacer | ✅ | gags citados hoy (Reddit), frases falsas, pañuelo celeste, estilo, mayúsculas | 14 |
+| 13 · Personajes a fondo, cara por emoción | ⚠️ | los 6 con carácter, voz medida, frases y dinámicas. Cara de alegría, rabia, tristeza y duda de Mafalda con minuto; **miedo y vergüenza no**, y los secundarios sin caras animadas | 9 |
+| 14 · Poses (6-10 por personaje) con minuto | ⚠️ | Mafalda 9 con minuto ✅; Felipe, Susanita y Papá 1-2 cada uno; Manolito, Libertad y Miguelito sólo de las hojas (no se hallaron en la animación) | 15 |
+| 15 · Vestuario con hex | ✅ | Mafalda con hex en 5 versiones; Susanita, Miguelito y Manolito con ropa en dos fuentes. Felipe sin color escrito (la tira es B/N) | 16 |
+| 16 · Ciudades y fondos de pantalla | ⚠️ | 5 fotos en alta con autor y licencia, sitios nuevos (Lima, Colegiales). **Fondos oficiales: no existen** según lo buscado | 17 |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos, paleta, luz, encuadre, palabras que ayudan y estropean, vocabulario de gestos; voz rioplatense y frases reales por emoción. Falta una frase real «animando» | 18 |
+| 18 · Técnica y cómo replicarla | ✅ | plumillas Blanzy, Rotring y tinta china (Quino); Photoshop y Blender (Line Art, Toon BSDF, trama). Sin rig libre ni filtros documentados | 19 |
+| 19 · Texturas 2D | ✅ | tinta, trama, papel, lunares y emblema, con enlaces; dos licencias a leer | 20 |
+| 20 · Gustos y detalles | ✅ | tabla de los 6. Cumpleaños y estatura no existen (Quino no los fijó) | 21 |
+| 21 · Por qué la aman | ⚠️ | ventas, idiomas, premios, identificación del público, la despedida de 1973. No hay escenas de llanto con minuto (es humor de 4 viñetas) ni comentarios con votos de reacciones | 22 |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | no hay fandubs ni covers (buscado; no aplica: ya es en español); comunidad de memes en Reddit y TikTok sin cifras de vistas | 23 |
+| 23 · Colaboraciones, figuras, cosplay | ✅ | ONU, Emmy, Nestlé, Ecovidrio, UNICEF, sellos, peluches, estatuas. Cosplay bien hecho y cafés: no encontrados | 24 |
+| 24 · Obras parecidas | ✅ | influencias de Quino con cita, Eco sobre Peanuts, comparación con otras láminas del servidor | 25 |
+| 25 · Mundo, historia y símbolos | ✅ | reglas en cinco líneas, historia por fechas, 7 símbolos y vocabulario | 26 |
+| Tres conceptos de lámina | ✅ | diario, buzón y libreta, actualizados con las poses y licencias nuevas | 27 |
+| Cuarenta fuentes distintas | ✅ | más de 180 webs distintas enlazadas | 29 |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | oficiales, 6 idiomas, wikis, Reddit, arte, vídeo, GitHub, Doblaje Wiki: sí. TV Tropes y TCRF bloqueados en la segunda pasada; Wayback falló; ANMTV no aplica | 29 · 31 |
+| Hojas de contacto | ✅ | 3 en `hojas/`, vistas y descritas número por número | 3 |
+| `referencias.json` | ✅ | todas las útiles de las partes, las mejores primero, con tamaño medido donde es imagen | — |
+| Segunda pasada · qué cambió | ✅ | correcciones antes → ahora y ⚠️ antes y después | arriba |
+
+**⚠️ en el texto**: 106 en la primera pasada. En esta pasada **unos 40
+pasaron a ✅** (encuesta, licencias, mayúsculas, globos, voces, poses…),
+y el material nuevo trae sus propios ⚠️, dichos con su motivo. Total al
+cerrar: ver la bitácora.
 
 ## 31 · Bitácora de búsqueda
 
