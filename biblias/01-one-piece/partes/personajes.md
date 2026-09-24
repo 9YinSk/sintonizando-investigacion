@@ -131,7 +131,7 @@
 - Brook: **violín**, bastón con espada dentro y el afro; y la **taza de té**.
 
 **Cómo se ve cada uno a sí mismo** · fichas oficiales + wiki · ✅ salvo lo marcado
-- Luffy: libre; **no quiere ser héroe** («un héroe reparte su carne; yo me la quiero comer toda», cap. 522) · wiki · ⚠️ el capítulo.
+- Luffy: libre; **no quiere ser héroe** («un héroe reparte su carne; yo me la quiero comer toda»; cap. 634, ep. 554, en la Isla Gyojin) · [wiki, personalidad](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Personality_and_Relationships) · ⚠️ una fuente (la frase es de memoria; el capítulo, de la wiki).
 - Zoro: **el n.º 2 de la tripulación, no «vicecapitán»** (SBS del tomo 102) · [wiki, «Mythbusters»](https://onepiece.fandom.com/wiki/Mythbusters/Misunderstandings_and_Misinformation) · ⚠️ una fuente.
 - Usopp: se sabe cobarde y quiere ser **«un valiente guerrero del mar»** (勇敢な海の戦士), como su padre, Yasopp · ficha oficial + wiki · ✅.
 - Sanji: **«caballero»** (騎士道精神): prefiere morir a pegar a una mujer · ficha oficial · ✅.
