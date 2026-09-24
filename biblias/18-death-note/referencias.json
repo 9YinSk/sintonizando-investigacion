@@ -1,0 +1,335 @@
+[
+  {
+    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE",
+    "fuente": "GitHub (kitsunekko-mirror)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos de los 37 episodios: japonés de Netflix, inglés de fans (1-24) y letras de OP/ED.",
+    "para_que": "Dan el minuto exacto de cada escena de §2 y §15. Base de toda la biblia.",
+    "licencia": "Subtítulos subidos por terceros. Sólo consulta."
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2023-02-18/viz-media-youtube-channel-adds-death-note-inuyasha-hunter-x-hunter-more-anime/.195055",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia: los 37 episodios, gratis en el canal de YouTube de Viz (EE. UU.).",
+    "para_que": "De ahí se sacan los fotogramas en HD de §2 y §15.",
+    "licencia": "© Viz Media / Madhouse / VAP. Sólo referencia."
+  },
+  {
+    "url": "https://www.netflix.com/title/70204970",
+    "fuente": "Netflix",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El anime Death Note en Netflix (con doblaje latino según la región).",
+    "para_que": "Escuchar las frases latinas antes de rotularlas; sacar fotogramas.",
+    "licencia": "© Madhouse / VAP / Shūeisha. Sólo referencia."
+  },
+  {
+    "url": "https://www.hlj.co.jp/product/SYU82146",
+    "fuente": "HLJ",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del artbook de Takeshi Obata «blanc et noir» (Shūeisha, 2006, B4, 168 páginas).",
+    "para_que": "La mejor referencia oficial de pose y color de los personajes.",
+    "licencia": "© Takeshi Obata / Shūeisha. No pegar."
+  },
+  {
+    "url": "https://www.viz.com/shonenjump/chapters/death-note-short-stories",
+    "fuente": "Viz Media",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Death Note: Short Stories, con «a-Kira Story» (Ryuk vuelve al mundo humano).",
+    "para_que": "Arte de Ryuk reciente de Obata.",
+    "licencia": "© Ohba, Obata / Shūeisha. Sólo referencia."
+  },
+  {
+    "url": "https://www.bandainamcoent.com/games/death-note-killer-within",
+    "fuente": "Bandai Namco",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Web oficial de Death Note: Killer Within (2024), con su arte clave.",
+    "para_que": "Arte oficial reciente de Kira y L; interfaz del juego.",
+    "licencia": "© Bandai Namco / Ohba, Obata. Sólo referencia."
+  },
+  {
+    "url": "https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/",
+    "fuente": "Steam",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de Killer Within con capturas.",
+    "para_que": "Ver la interfaz y cómo se muestra el cuaderno en el juego.",
+    "licencia": "© Bandai Namco. Sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/notebook-of-death-cee405b6e2a544e1a819bbc514233090",
+    "fuente": "Sketchfab (Kasuga)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del cuaderno (2025).",
+    "para_que": "Mirar grosor, lomo y tapa para modelar el cuaderno de la lámina.",
+    "licencia": "CC BY según la búsqueda; comprobar en la página. Crédito: Kasuga (@kasuga)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/death-note-38e9f0d0c6944557b6ecf2003f5aa4bb",
+    "fuente": "Sketchfab (CG.oum)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del cuaderno (2020).",
+    "para_que": "Alternativa de referencia para el cuaderno.",
+    "licencia": "CC BY según la búsqueda; comprobar. Crédito: CG.oum (@ayoub.oumahou)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/death-note-d82d6546f5994f128147748487f64ca8",
+    "fuente": "Sketchfab (ParaGO)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del cuaderno (2024).",
+    "para_que": "Alternativa de referencia.",
+    "licencia": "CC BY según la búsqueda; comprobar. Crédito: ParaGO."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Leather026",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de cuero.",
+    "para_que": "Tapa negra del cuaderno en Blender.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper003",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de papel.",
+    "para_que": "Hojas del cuaderno.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Wood039",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de madera.",
+    "para_que": "Escritorio de Light.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/textures/leather",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Categoría de texturas de cuero.",
+    "para_que": "Alternativa para la tapa.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://github.com/google/fonts/tree/main/ofl/unifrakturmaguntia",
+    "fuente": "Google Fonts (GitHub)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "UnifrakturMaguntia: gótica libre, con tildes, ñ, ¿ y ¡ (comprobado).",
+    "para_que": "La «L» de L y el título «Textos».",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://github.com/google/fonts/tree/main/ofl/imfellenglish",
+    "fuente": "Google Fonts (GitHub)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "IM Fell English: imprenta vieja, con tildes, ñ, ¿ y ¡ (comprobado).",
+    "para_que": "Las reglas del canal en la página del cuaderno.",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://github.com/google/fonts/tree/main/ofl/kalam",
+    "fuente": "Google Fonts (GitHub)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Kalam: letra a mano ordenada, con tildes, ñ, ¿ y ¡ (comprobado).",
+    "para_que": "La ficha escrita a mano, como Light escribe los nombres.",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://blog.textstudio.com/death-note-font/",
+    "fuente": "TextStudio",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo: la «L» de L es Cloister Black; el logo es gótico.",
+    "para_que": "Elegir la letra libre equivalente.",
+    "licencia": "Artículo. Sólo consulta."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8V1szEGOGTs",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Clip «LIGHT: ¡¡TOMO UNA FRITURA Y LA COMO!!» del doblaje latino.",
+    "para_que": "Confirmar la frase latina de la papa (ep. 8, 00:18:35).",
+    "licencia": "© Viz / Madhouse. Sólo consulta."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mbc2Axk5v20",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Hugo Núñez, voz latina de L.",
+    "para_que": "Cómo se hizo la voz de L en latino.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://www.tiktok.com/@bruno_coronel/video/7125570347570564358",
+    "fuente": "TikTok (Bruno Coronel)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El propio actor, voz latina de Near.",
+    "para_que": "Segunda fuente de la voz de Near.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://www.tiktok.com/@rebecagomez_voz/video/7124101453160975621",
+    "fuente": "TikTok (Rebeca Gómez)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La propia actriz, voz latina de Misa.",
+    "para_que": "Fuente de la voz de Misa y cómo la interpreta.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish)",
+    "fuente": "The Dubbing Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del doblaje latino: reparto principal, duración del doblaje, plataformas.",
+    "para_que": "Segunda fuente de voces latinas.",
+    "licencia": "Wiki de fans (CC BY-SA). Sólo consulta."
+  },
+  {
+    "url": "https://knowyourmeme.com/memes/just-according-to-keikaku",
+    "fuente": "Know Your Meme",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Origen del meme «Just according to keikaku» (ep. 24) y de la papa frita.",
+    "para_que": "Lo que el fandom reconoce (§14).",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/118759/",
+    "fuente": "ねとらぼ (Nlab)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta 2021: L 1.º (397 votos), Light 2.º (272).",
+    "para_que": "Decidir quién es el más querido (§9).",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://www.anitabi.jp/works/296",
+    "fuente": "AniTabi",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mapa de lugares reales del anime con capturas.",
+    "para_que": "Fondos y sitios (§5.1).",
+    "licencia": "Capturas © Madhouse. Sólo referencia."
+  },
+  {
+    "url": "https://www.animepilgrimage.com/ja/map?data=death-note",
+    "fuente": "Anime Pilgrimage",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mapa con 24 lugares de Death Note.",
+    "para_que": "Fondos y sitios reales de Tokio.",
+    "licencia": "Sólo referencia."
+  },
+  {
+    "url": "https://www.artstation.com/artwork/442E1",
+    "fuente": "ArtStation (Sheridan Doose)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art de Ryuk y Light.",
+    "para_que": "Referencia de composición de la pareja. Mirar, no pegar.",
+    "licencia": "© Sheridan Doose. No pegar."
+  },
+  {
+    "url": "https://emilio_mansilla.artstation.com/projects/OyJ1E6",
+    "fuente": "ArtStation (Emilio Mansilla García)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art de Ryuk con estudio de luz.",
+    "para_que": "Cómo iluminar a Ryuk en la oscuridad.",
+    "licencia": "© Emilio Mansilla García. No pegar."
+  },
+  {
+    "url": "https://www.pixiv.net/en/tags/%E5%A4%9C%E7%A5%9E%E6%9C%88",
+    "fuente": "pixiv",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Etiqueta 夜神月 (unas 3.500 ilustraciones).",
+    "para_que": "Poses y estilo de fans japoneses.",
+    "licencia": "© de cada autor. No pegar."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=1182462",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "«Shadowed Pact»: Light y Ryuk.",
+    "para_que": "Fondo y paleta de referencia.",
+    "licencia": "Autor sin comprobar. Sólo referencia."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=961726",
+    "fuente": "Wallpaper Abyss (ncoll36)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Ryuk en 4K.",
+    "para_que": "Referencia de Ryuk y su luz.",
+    "licencia": "Sólo referencia."
+  },
+  {
+    "url": "https://www.deviantart.com/shoushinnokarera/art/Death-Note-How-to-use-it-79542089",
+    "fuente": "DeviantArt (ShoushinNoKarera)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recreación de la página «How to use it».",
+    "para_que": "Maquetar la página de reglas del cuaderno.",
+    "licencia": "© del autor. No pegar."
+  },
+  {
+    "url": "https://carboncostume.com/title/death-note/",
+    "fuente": "Carbon Costume",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guías de cosplay de Light, L, Misa, Near, Mello.",
+    "para_que": "Vestuario y colores (§16).",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/",
+    "fuente": "AniLoop",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis de la escena de la papa y de cómo la dirigió Araki.",
+    "para_que": "Tono épico para un gesto pequeño (§2.4).",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ryuk_(Death_Note)",
+    "fuente": "Wikipedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ryuk: diseño de Obata (de «estrella de rock» a reptil).",
+    "para_que": "Carácter y diseño de Ryuk (§8).",
+    "licencia": "CC BY-SA. Sólo consulta."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/L_(Death_Note)",
+    "fuente": "Wikipedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "L: sus manías y por qué Obata le puso ojeras.",
+    "para_que": "Carácter y poses de L (§8, §15).",
+    "licencia": "CC BY-SA. Sólo consulta."
+  }
+]
