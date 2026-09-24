@@ -64,3 +64,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 79-demon-slayer-paisajes-y-auras | video | sonnet | 16 | 187904 |
 | 79-demon-slayer-paisajes-y-auras | voz | sonnet | 17 | 245351 |
 | 78-vinland-saga | redactor (opus) | opus | 21 | 343246 |
+| 80-solo-leveling-el-sistema-y-las-sombras | voz | sonnet | 13 | 217899 |
