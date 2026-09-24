@@ -269,6 +269,10 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    concentración, lanzando el Shabon Spray — sirve para **pensar/concentrarse**. ·
    [wiki, `Shabon_spray.gif`](https://static.wikia.nocookie.net/sailormoon/images/8/80/Shabon_spray.gif)
    238×240 (medida) · ✅.
+3. **De civil, abrazando una pila de libros de colores contra el pecho**, un dedo
+   señalando una página, sonrisa tímida — sirve para **explicar/estudiar**. · [wiki,
+   `Ami_Mizuno_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/6/6a/Ami_Mizuno_-_Anime.png)
+   296×981 (medida) · ✅.
 
 #### Rei Hino / Sailor Mars
 
@@ -280,6 +284,11 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    agitado por el viento, mirada fiera, invocando el Fire Soul — sirve para
    **invocar/atacar con determinación**. · [wiki, `Fire_soul.gif`](https://static.wikia.nocookie.net/sailormoon/images/5/5d/Fire_soul.gif)
    255×240 (medida) · ✅.
+3. **Con el uniforme de miko del templo**, dando una patada alta al aire con un ofuda
+   (papel de exorcismo) sujeto en la mano en alto, boca abierta, mangas y pelo
+   ondeando con fuerza — sirve para **el clímax/exorcizar**. · [wiki,
+   `Rei_Hino_Miko_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/2/2c/Rei_Hino_Miko_-_Anime.png)
+   687×1629 (medida) · ✅.
 
 #### Makoto Kino / Sailor Jupiter
 
@@ -294,6 +303,10 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    («los brazos en cruz atraen el rayo») — sirve para **el clímax/ataque**. · [wiki,
    `Supreme.Thunder.png`](https://static.wikia.nocookie.net/sailormoon/images/1/11/Supreme.Thunder.png)
    393×292 (medida) · ✅ (marcada la fuente distinta).
+3. **De civil, con la mano derecha en la sien (saludo militar en broma) y un ojo
+   guiñado**, la mochila colgada al hombro con la otra mano — sirve para
+   **saludar/animar en tono ligero**. · [wiki, `Makoto_Kino_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/7/72/Makoto_Kino_-_Anime.png)
+   383×991 (medida) · ✅.
 
 #### Minako Aino / Sailor Venus
 
@@ -302,6 +315,11 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    ser Sailor V, la que ya era famosa antes que las demás) — sirve para **presentar
    con gracia/saludar**. · [wiki, `Minako_Aino_Sailor_Form_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/4/41/Minako_Aino_Sailor_Form_-_Anime.png)
    2199×3557 (medida) · ✅.
+2. **Como Sailor V** (su identidad de superheroína antes de ser Sailor Venus):
+   antifaz rosa tipo gafas, piernas muy abiertas en V, un brazo estirado hacia un
+   lado, el otro doblado, pelo y capa ondeando con fuerza — sirve para
+   **presentar/heroína en acción**. · [wiki, `Minako_Aino_Sailor_V_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/b/b4/Minako_Aino_Sailor_V_-_Anime.png)
+   997×1042 (medida) · ✅.
 
 #### Luna
 
@@ -391,10 +409,21 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
   debería haber rosas— así que unos hex medidos ahí saldrían falsos; lo dejo dicho en
   vez de inventar un dato «medido».)
 - Wiki de Fandom, imágenes de personajes y ataques: `prop=images` sobre las 5 páginas
-  de personaje (Ami, Rei, Makoto, Minako, Luna) + `prop=imageinfo` sobre 9 archivos
-  (hojas de modelo y gifs de ataque, mirados con Read uno por uno).
+  de personaje (Ami, Rei, Makoto, Minako, Luna) + `prop=imageinfo` sobre 13 archivos
+  (hojas de modelo, formas civiles y gifs de ataque, mirados con Read uno por uno).
 - WebSearch (5, inglés): escena «You are not alone» de Sailor Moon R: The Movie
   (confirmé que es de esa película, no de S: The Movie); tendencia de TikTok
   2025-2026; compositor Takanori Arisawa (dos fuentes más).
 - Nada de programas de terceros para saltar el bloqueo de YouTube: solo Internet
   Archive, Dailymotion y la wiki, como pide el aviso.
+
+Sigue: punto 14 pide **6-10 fotogramas por personaje** y me quedé en 2-3 cada uno
+(Usagi 3, Luna 3, Ami 3, Rei 3, Makoto 3, Minako 2) por el límite de la tanda — están
+todos vistos y citados de verdad, ninguno es relleno, pero falta sumar 3-7 poses más
+por personaje. Vía más rápida para la próxima tanda: mirar minuto a minuto los 3
+vídeos ya descargados y transcritos en `partes/episodios.md` (ep. 1, R Movie 40:00-
+55:00, Cosmos Parte 2 1:10:00-1:18:19) — ya tienen ficha con minutos, solo falta
+sacar más fotogramas de las secciones donde salen Ami/Rei/Makoto/Minako y describir
+la pose. Si no da tiempo, completar con más imágenes ya localizadas en la wiki
+(«A2 group», «A3 group concert» y similares en las galerías de cada personaje, sin
+abrir todavía) o con `investigar_serie.py --paginas` para hojas de contacto nuevas.

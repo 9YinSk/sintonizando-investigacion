@@ -659,7 +659,7 @@ números de `escenas_01.jpg`.
   **dispararle si se tuerce**. Es su conciencia. Tiradora; perro Black
   Hayate; 168 cm ✅ (wiki). Cara: herida, firme, junto a Roy (E11).
 - **Maes Hughes** (el secundario que más citan los fans, §9): mejor amigo de Roy y su
-  mayor apoyo; padre de familia que presume de su hija Elicia ✅
+  mayor apoyo; «padre de familia devoto», padre de Elicia ✅
   (AniList). Cálido y efusivo: **el más expresivo** de las voces medidas
   (23,3 semitonos, §10.3). Cara: serio con la pistola (E12, tráiler
   [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24));
@@ -1425,19 +1425,198 @@ por emoción:
 
 ## 19 · Estilo de dibujo, técnica, Blender y encuadres
 
-(pendiente)
+### 19.1 Quién lo hizo ✅ ([AniList, staff](https://anilist.co/anime/5114/staff))
+
+Dirección **Yasuhiro Irie**; diseño de personajes **Hiroki Kanno**; diseño
+mecánico **Masahisa Suzuki**; dirección de arte **Takeshi Satou**; diseño
+de arte **Kazushige Kanehira**; **color Fusako Nakao**; fotografía Mayuko
+Furumoto y Yoshiyuki Takei; logo **Tsuyoshi Kusano**; estudio **BONES**.
+
+### 19.2 Lo que cuentan el director y la autora
+
+- **Irie** ([ANN, 2017](https://www.animenewsnetwork.com/feature/2017-11-30/interview-yasuhiro-irie/.124659)) ✅:
+  «el estándar era el manga: era como **la Biblia**». Venía del 3D y quería
+  volver a la animación tradicional; entró tras dirigir el opening de *Soul
+  Eater* en BONES. El equipo mezcló animadores jóvenes y los cambios
+  visuales más fuertes llegan en la segunda mitad.
+- **Arakawa** ✅ ([wiki](https://fma.fandom.com/wiki/Hiromu_Arakawa) +
+  [The Mary Sue](https://www.themarysue.com/hiromu-arakawa-part-1/), citando
+  el artbook *Profiles*): estudió **pintura al óleo**; fue asistente de
+  **Hiroyuki Etō** (*Mahōjin Guru Guru*); para Amestris leyó sobre la
+  **Europa de la Revolución Industrial**, sobre todo Inglaterra; el
+  intercambio equivalente viene de la **granja lechera de sus padres en
+  Hokkaidō**; entrevistó a refugiados, veteranos y exyakuza para Ishval. Le
+  gusta dibujar **músculos y hombres mayores**: «si los dibujo muy
+  flacos, pensarán que mis personajes no comen».
+
+### 19.3 Cómo es el dibujo (medido y mirado)
+
+- **Anime**: personajes en **cel plano**, línea **de color** (Ed `#805142`,
+  Roy `#3C3D44`, Al `#707784`); Al es el de más línea (juntas y remaches).
+- **Póster oficial** ([Fmab-poster.png](https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png),
+  1143×1600): negros y grises cálidos con crema (`#050505`, `#212022`,
+  `#F6EFD9`, `#3E393C`, `#635555`, `#DDCDA9`, `#9C7360`, `#BAA282`);
+  **degradado pintado**, saturación 21 %; línea `#544D4A`, no negra ✅.
+- **Fondos**: pintados, degradados, casi sin contorno (§5).
+- **Portadas del manga**: gouache o acuarela, con salpicaduras en las
+  dramáticas (#17) ✅.
+- **Páginas en blanco y negro**: **rayado a mano** denso en rocas y
+  montañas, tramas de puntos en edificios lejanos, **negros sólidos** a
+  contraluz (#8) ✅.
+- **ED1**: otro mundo: *chibi* a mano sobre **papel de acuarela** (§11.3).
+
+### 19.4 Cómo reproducirlo ⚠️ (propuesta: no hay *making of* del estudio)
+
+No se encontró qué programas usó BONES en Brotherhood (RETAS, Toon Boom…):
+sólo que eran los normales en 2009-2010 ⚠️.
+
+**Photoshop**:
+1. Capa de línea en **Multiplicar** con marrón oscuro (`#544D4A` o el del
+   personaje), nunca negro puro.
+2. Personaje en **dos tonos** (luz y sombra) con borde casi duro; el fondo,
+   pintado con degradados suaves.
+3. **Ruido monocromo al 3-5 %** encima para el aire de emisión de 2009.
+4. Para una lámina de tono ED1: papel de acuarela (§20) en **Multiplicar**.
+
+**Blender**:
+1. Modelos de §4.1 (reloj, automail, círculo). El automail tiene **132 690
+   caras**: pasarle **Decimate** antes de nada (regla 9 del dueño: no
+   saturar el PC).
+2. Sombreado *toon*: **Shader to RGB → Color Ramp** de 2-3 pasos.
+3. Contorno con **Freestyle** o el modificador **Line Art**, en el marrón
+   de la línea; más orgánico que Solidify.
+4. Luz principal **dura** y un relleno flojo; nada de render realista
+   suave.
+5. **Texturas** de §5 y §20 encima (madera del suelo, metal cepillado,
+   papel).
+6. Pruebas a ×2 y sólo la final a ×3 (regla 10).
+
+### 19.5 Encuadres
+
+- **Plano medio en diagonal**: tuberías y vigas cruzan el cuadro; el
+  círculo de fondo explica el tema sin texto (hoja #7) ✅.
+- **Contrapicado** para mando (Roy, #59); **primer plano** de un ojo para
+  la emoción (E2); **de espaldas ante el paisaje** para despedirse (E22,
+  B30); **dúo en vertical** (#19); **grupo apiñado** en las portadas
+  (#14, #15).
+- ⚠️ No se sacó una tabla de encuadre por emoción de capítulos enteros
+  (no se pudieron abrir).
 
 ## 20 · Texturas 2D
 
-(pendiente)
+### 20.1 Del manga y la animación (miradas)
+
+- **Trama del manga**: rayado a mano en paralelo, más cerrado en la
+  sombra; puntos en lo lejano; negros sólidos ([0017-008.jpg](https://static.wikia.nocookie.net/fma/images/5/5c/0017-008.jpg),
+  1800×1350, hoja #8; `estilo.py`: «mixto, mucha línea», línea `#848484`) ✅.
+- **Pincelada suelta** y salpicaduras de tinta tipo acuarela ([Chapter108.jpg](https://static.wikia.nocookie.net/fma/images/2/20/Chapter108.jpg),
+  1855×1300, #17; línea `#74685A`) ✅.
+- **Papel de acuarela** naranja y mostaza del ED1 (B1-B31) ✅.
+- **Ropa**: **lisa, sin estampados** en los cuatro. La única superficie
+  con textura es el **automail**: placas de metal, remaches y juntas
+  (#4, #26, #27) ✅.
+
+### 20.2 Emblemas y logos (medidos)
+
+| Símbolo | Qué es | Colores | Imagen |
+|---|---|---|---|
+| **Cruz de Flamel** | cruz con alas, corona y serpiente; en la espalda de Ed, en Al y en el pecho de Izumi; firma de las portadas | negro sobre blanco (rojo en el pecho de Al y en el menú del juego) | [Flamel's cross](https://static.wikia.nocookie.net/fma/images/9/93/370px-Flamel%27s_cross.png) 370×615 ✅ |
+| **Escudo de Amestris** | criatura tipo dragón-león blanca sobre escudo verde con borde dorado; el del estandarte del Cuartel General | verde `#3D705C`, oro `#D8BD25`, blanco `#E0E8E1` | [Amestris_2.png](https://static.wikia.nocookie.net/fma/images/7/70/Amestris_2.png) 1174×1734 ✅ |
+| **Uróboros** | serpiente que se muerde la cola con un hexagrama: la marca de los homúnculos | rojo `#E90303` y `#C71214` | [Ouroboros_Tatoo.JPG](https://static.wikia.nocookie.net/fma/images/0/0c/Ouroboros_Tatoo.JPG) 200×200 ✅ |
+| **Reloj de plata** | dragón de Amestris con una espada sobre un hexágono, entre laureles | plata `#ECEEF2`, cojín morado `#4C3D64` | [Pocketwatch.png](https://static.wikia.nocookie.net/fma/images/1/1c/Pocketwatch.png) 1280×800 ✅ |
+| **Círculo de transmutación** | círculos, hexagrama y engranajes en línea fina | celeste `#7BB3C4` | portada del cap. 1, #7 ✅ |
+| Medallón gris | variante en relieve del escudo | gris `#CBC9CA` sobre negro | [State_alchemist_symbol.jpg](https://static.wikia.nocookie.net/fma/images/a/a7/State_alchemist_symbol.jpg) 600×600 ⚠️ (uso sin aclarar) |
+
+### 20.3 Texturas libres equivalentes (ambientCG, CC0) ⚠️
+
+(Licencia general del sitio; no se leyó cada ficha.)
+- **Metal cepillado** para el automail y el reloj: serie Metal009-Metal012
+  ([lista](https://ambientcg.com/list?type=Material&q=brushed+metal)).
+- **Paño de uniforme**: [Fabric019](https://ambientcg.com/view?id=Fabric019).
+- **Cuero** (guantes, correas, botas): [Leather037](https://ambientcg.com/view?id=Leather037).
+- **Papel** (manga, cartela, ED1): [Paper001](https://ambientcg.com/view?id=Paper001).
+- Madera, tierra, ladrillo, nieve y acero: §5.
+- ⚠️ **No se encontraron pinceles** ni packs de tramas libres para imitar
+  el rayado de Arakawa.
 
 ## 21 · Gustos y detalles de cada personaje
 
-(pendiente)
+De la wiki `fma` (Trivia e Infobox) y de las fichas de AniList. **No se
+encontró un *databook* oficial** traducido: lo que falta, falta.
+
+| Personaje | Edad | Altura | Cumpleaños | Come / no come | Siempre lleva | Cómo se ve |
+|---|---|---|---|---|---|---|
+| **Edward** | 15-16; 18 al final (AniList) | **149 cm** al empezar (wiki); 1,65 m al final (AniList) ⚠️ | ⚠️ no fijado en canon | **odia la leche**; ama el guiso; sándwiches sin corteza | el **reloj de plata**; escribe con la izquierda | se define por proteger a Al; odia que le llamen bajito |
+| **Alphonse** | 14-15 | la armadura es de lo más alto de la serie (más que Armstrong) | ⚠️ no fijado | no come (armadura) | — (ama los **gatos**) | carga con la culpa de Ed sin compartirla |
+| **Roy** | 29-32 | 173 cm (wiki, según la parte) ⚠️ | ⚠️ no encontrado | ⚠️ sin dato | **guantes de ignición**; casa con casi sólo un sofá | se hace pasar por vago y mujeriego; es un estratega con un plan de país |
+| **Winry** | 15-16 | ⚠️ sin dato | **9 de junio** (AniList) ⚠️ | ⚠️ sin dato | **llave inglesa**; muchos pendientes | mecánica antes que «la novia de Ed»; orgullo total de su automail |
+| **Riza** | — | **168 cm** (wiki) | ⚠️ no fijado | — | dos pistolas; su perro **Black Hayate** | la conciencia y el arma de Roy |
+| **Hughes** | 29 (AniList) | — | — | — | — (AniList: «padre de familia devoto») | el amigo que sostiene a todos |
+| **King Bradley** | 59-60 | — | **24 de agosto** (AniList) ⚠️ | — | su sable; parche | amable incluso al mandar a la guerra |
+| **Olivier** | 37 | — | — | — | la espada de la familia | «sobrevive el más fuerte» |
+| **Ling** | 15-18 | — | — | **siempre con hambre** | — | quiere ser emperador para proteger a su clan |
+
+- ⚠️ La parte de voz ponía a Roy un cumpleaños «24/8» que en AniList es de
+  **King Bradley**, y a Ed «165 cm con alzas (141 real)», que no coincide
+  con la wiki (149 cm). Corregido aquí (§28.2).
+- **La parte de voz buscó** «Fullmetal Alchemist character guidebook Winry
+  height» y «Roy Mustang favorite food databook» (inglés y japonés
+  romanizado) sin resultado fiable.
 
 ## 22 · Por qué la gente la ama, y las escenas que hacen llorar
 
-(pendiente)
+### 22.1 Los números
+
+- **MyAnimeList**: **9,11** con 2 326 893 votos; **puesto 3** histórico y
+  **1.º durante más de una década**; 244 136 favoritos; 3,7 millones de
+  miembros ✅ ([MAL](https://myanimelist.net/anime/5114), vía
+  [Jikan](https://api.jikan.moe/v4/anime/5114), 24-sep-2026).
+- **IMDb**: **9,1** ✅ ([IMDb](https://www.imdb.com/title/tt1355642/)).
+- **AniList**: nota media 90, 731 240 de popularidad ✅.
+
+### 22.2 Por qué
+
+- Una historia **madura**, rara en el anime; **cada personaje cuenta**,
+  aunque no sea del grupo principal ✅ ([DualShockers](https://www.dualshockers.com/reasons-why-fullmetal-alchemist-brotherhood-is-still-the-gold-standard-of-anime/),
+  GameRant).
+- **Una magia con reglas duras**: el intercambio equivalente tiene
+  consecuencias de verdad ✅.
+- **Mezcla drama y risa** sin romperse («pasa a la comedia sin esfuerzo…
+  y funciona», *The Anime Empire*, [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180)) ✅.
+- **Con quién se identifica la gente**: con **Ed** por terco y orgulloso;
+  con **Al** por cargar con el dolor sin quejarse (le llaman «santo») ✅
+  (r/FullmetalAlchemist).
+
+### 22.3 Las escenas que hacen llorar
+
+⚠️ Ninguna tiene minuto propio: no se pudo abrir ningún capítulo. Lo que
+hay de imagen está en los vídeos de §2.
+
+| Escena | Capítulo | Qué pasa y por qué duele | Fuente |
+|---|---|---|---|
+| **La transmutación humana** | ⚠️ sin confirmar: la parte de voz dice ep. 1; el listado de música, ep. 4 (18:29-20:57); el ep. 1 abre con McDougal (§12.3) | los niños intentan revivir a su madre; Ed pierde la pierna y Al el cuerpo; Ed da su brazo para atar el alma de Al a la armadura | Univision; wiki ✅ (el episodio, ⚠️) |
+| **Nina Tucker** | **ep. 4** | su padre la convierte en quimera; «el momento más triste y horrible que pueda existir» | Univision + wiki + Doblaje Wiki ✅ |
+| **La muerte de Hughes** | **ep. 10** «Separate Destinations» | Envidia, disfrazado de su esposa, le dispara en una cabina de teléfono; suena «Requiem for the Brigadier General» (16:45-18:49 ⚠️) | CBR + OtakuKart ✅ |
+| **Elicia en el entierro** | ep. 10-11 ⚠️ | explicarle a la niña pequeña que su papá ha muerto | Univision ⚠️ |
+| **Al se sacrifica** | final ⚠️ | da su alma para devolverle el brazo a Ed; la armadura queda tendida (E8, blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435)) | Univision ✅ |
+| **Hohenheim muere** | final ⚠️ | por fin su hijo le mira con respeto | Univision ⚠️ |
+| **El final** | ep. 64 | Ed se declara a Winry; toda la «familia» reunida; los hermanos de espaldas ante Resembool (E22, [1:51](https://archive.org/download/turner_video_11409/11409.mp4?t=111)) | Univision ✅ |
+
+- **Cómo reaccionó la gente**: «will always be my number 1, it still
+  hurts all these years later» (sobre Hughes, r/FullmetalAlchemist) ✅.
+  En TikTok, los *edits* tristes con música *indie* (§12.4) ⚠️.
+- **Cómo está dibujado lo triste** (visto en los vídeos): **lluvia**
+  (Scar, A36-A38; «Empezó a llover» de Roy), **sangre** en la cara (E3,
+  E18) y el **blanco vacío** de la Puerta (E21).
+
+### 22.4 Las que hacen reír o gritar
+
+- **Reír**: el golpe de llave de Winry (E6), Armstrong sacando músculo
+  (blooper 3:53), Havoc y Fuery sorprendidos (A30), el casco de Al con
+  ojos redondos (tráiler 0:39) ✅ (vistos).
+- **Gritar de emoción**: la rabia de Roy con quien mató a Hughes («Tú
+  mataste a Hughes…», §10.3) ✅; ⚠️ el resto de clímax del Día Prometido,
+  sin minuto.
 
 ## 23 · Fan dubs y comunidad hispana
 
