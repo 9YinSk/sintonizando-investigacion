@@ -26,6 +26,11 @@ pelis y juegos muy queridos.
 (p. ej. la 1 = encargos 01-04) y pégala en una sesión nueva. La sesión hace los
 cuatro a la vez con ayudantes.
 
+**Temas (para que tu Claude sea experto):** 16 temas en `temas/` (agentes,
+radio, locución, doblaje, canto, VTubers, Asia, 3D, diseño, generación con IA,
+redes, edición, Discord, skills y MCP, Minecraft, marketing), en 4 tandas al
+final de `TANDAS.md`. Siguen `TEMA.md` y dejan su informe en `investigaciones/`.
+
 ## Cómo se junta
 
 Cada sesión deja su trabajo en su propia rama. En la PC, un chat trae todas las
@@ -36,6 +41,7 @@ ramas, revisa cada dossier y lo copia a la bóveda de Obsidian
 
 - `ENCARGO.md` — las instrucciones completas para cada sesión.
 - `encargos/` — un encargo por serie (qué canal, qué objeto, qué personajes).
+- `TEMA.md`, `temas/` y `contexto/proyectos.md` — los encargos de temas y el resumen de tus proyectos.
 - `TANDAS.md` — los 72 encargos en 18 tandas de 4, con la frase lista para pegar.
 - `servidor/` — qué hay en cada canal y foro, y lo que el dueño ha rechazado o le gustó.
 - `biblias/_ya_hechas/` — ejemplos del nivel que se espera.

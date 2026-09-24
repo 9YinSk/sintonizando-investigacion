@@ -125,6 +125,27 @@ BIBLIOTECA = [
 ]
 
 
+# Temas de conocimiento (no series): para que su Claude principal sea experto.
+TEMAS = [
+    ("Agentes de IA", "coordinar varios agentes (Claude Code, subagentes, Proyectos, Codex, Antigravity), MCP, costos y límites, cómo repartir el trabajo y revisarlo"),
+    ("Radio en vivo", "producir una radio online en directo: programación, locución en vivo, música y derechos, efectos, ambientación, interacción con oyentes, y la estética de las radios antiguas de cada época"),
+    ("Locución", "técnica vocal, respiración, dicción, micrófonos, tratamiento acústico casero, cadena de procesado (EQ, compresión, de-esser), locución comercial y narración"),
+    ("Doblaje latino", "el oficio: sincronía labial, interpretación, dirección, adaptación de guiones, estudios de México y la región, cómo empezar, fandub y castings, pruebas de voz"),
+    ("Canto y covers", "técnica, registros, afinación, grabar en casa, mezcla vocal, covers de anime, derechos de las pistas"),
+    ("VTubers", "Live2D (rigging, física, expresiones), VTube Studio, See-through y separar capas con IA, seguimiento facial, directos, identidad y VTubers hispanos que funcionan"),
+    ("Altiplano a Asia", "conocer gente de China, Japón y Corea: apps de intercambio, redes locales (LINE, KakaoTalk, Xiaohongshu, note.com), costumbres, horarios, seguridad y cómo presentarse desde Puno"),
+    ("Modelado 3D y render", "Blender para ilustración: estilo anime (toon, NPR, Grease Pencil), integrar 2D y 3D, iluminación, modelos y texturas libres, render rápido en una GPU de 8 GB"),
+    ("Diseño gráfico e ilustración", "composición, tipografía, color, identidad visual, texturas; cómo lograr que un diseño no parezca hecho por IA; láminas y banners para comunidades"),
+    ("Generación con IA", "imagen (Firefly, Flux, Stable Diffusion, ComfyUI), video, voz y música: qué modelos hay, cuáles corren en su PC, licencias, cómo integrarlo sin aspecto artificial"),
+    ("Redes sociales y video corto", "algoritmos de TikTok, Shorts y Reels en 2026; qué fandubs y clips funcionan; guiones, portadas, subtítulos, horarios y hashtags; programar publicaciones"),
+    ("Edición de video y audio", "flujos con DaVinci Resolve gratis, Premiere, CapCut y herramientas por código (FFmpeg, Remotion); mezcla, limpieza de voz, subtítulos"),
+    ("Comunidades de Discord", "diseño de servidores, onboarding, bots, roles, moderación, eventos, retener gente; servidores de referencia con diseño destacado"),
+    ("Skills y MCP de Claude", "catálogo de skills y servidores MCP útiles para sus proyectos, cómo revisarlos antes de instalar y cuáles evitar"),
+    ("Servidores de Minecraft con mods", "Forge, NeoForge y Fabric; rendimiento, compatibilidad de mods, hosting barato, crossplay, errores típicos"),
+    ("Marketing para pymes peruanas", "presencia digital para una ladrillería y un negocio de hardware en Perú: Google Business, WhatsApp Business, redes, fotos de producto, SUNAT y trámites básicos"),
+]
+
+
 def slug(t):
     import re
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")[:40]
@@ -174,6 +195,31 @@ Lee primero `ENCARGO.md` (qué investigar y dónde dejarlo). Deja todo en `bibli
                    f"> Haz la tanda {n} de `TANDAS.md` siguiendo `ENCARGO.md`: "
                    + ", ".join(f"`encargos/{g}.md`" for g in grupo)
                    + ". Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.", ""]
+        lineas += [f"- [ ] {g}" for g in grupo] + [""]
+    # los temas de conocimiento, en su propia carpeta y con sus tandas
+    (AQUI / "temas").mkdir(exist_ok=True)
+    for f in (AQUI / "temas").glob("*.md"):
+        f.unlink()
+    for k, (tema, alcance) in enumerate(TEMAS, 1):
+        nombre = f"T{k:02d}-{slug(tema)}"
+        (AQUI / "temas" / f"{nombre}.md").write_text(f"""# Tema {k:02d} — {tema}
+
+Lee primero `TEMA.md` (qué investigar y dónde dejarlo) y `contexto/proyectos.md`.
+Deja todo en `investigaciones/{nombre}/`.
+
+- **Tema:** {tema}
+- **Qué abarca:** {alcance}.
+""", encoding="utf-8")
+    temas = sorted(p.stem for p in (AQUI / "temas").glob("*.md"))
+    lineas += ["# Tandas de temas (de 4 en 4)", "",
+               "Investigación para volverse experto en cada tema, aplicada a sus proyectos.", ""]
+    for t in range(0, len(temas), 4):
+        grupo = temas[t:t + 4]
+        n = t // 4 + 1
+        lineas += [f"## Tanda de temas {n}", "",
+                   f"> Haz la tanda de temas {n} de `TANDAS.md` siguiendo `TEMA.md`: "
+                   + ", ".join(f"`temas/{g}.md`" for g in grupo)
+                   + ". Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.", ""]
         lineas += [f"- [ ] {g}" for g in grupo] + [""]
     (AQUI / "TANDAS.md").write_text("\n".join(lineas), encoding="utf-8")
     # contexto del servidor
