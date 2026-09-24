@@ -475,23 +475,53 @@ Crédito tipo: «"Document File Folder" by Kami Rapacz, CC BY 4.0, Sketchfab»
   00:01:33), «BUILDING A - STUDENT HALL» (ep. 7, 00:14:01), «BERLINT GENERAL
   HOSPITAL» (ep. 20, 00:05:25), «WISE - SAFE HOUSE G» (ep. 21, 00:00:07).
 
-### 5.3 Luz y paleta ⚠️
-No hay códigos oficiales. Son **aproximados, de memoria**: mídelos con el
-cuentagotas en un fotograma antes de pintar.
+### 5.3 Luz y paleta (medida en la segunda pasada) ✅
 
-| Zona | Color | Hex aprox. |
+Hex **medidos con Pillow** (mediana de un cuadro de 17×17 px) en
+fotogramas del anime de la wiki, a 1920×1080. La tabla de la primera
+pasada era de memoria; queda abajo tachada para comparar.
+
+| Zona | Color | Hex medido | Dónde se midió |
+|---|---|---|---|
+| Piso Forger, papel pintado | crema rosado con rombos | `#DABAA1` | F·4, salón (ep. 11) |
+| Piso Forger, zócalo de madera | nogal rojizo | `#885C4D` | F·4 |
+| Mueble del salón | madera oscura | `#734B41` | F·4 |
+| Suelo en espiga | madera clara rosada | `#E3C0AF` | F·4 |
+| Sofá LC2 | negro cálido | `#28272B` | F·4 |
+| Mesa baja | teca | `#A56347` | F·4 |
+| Borde de la alfombra | gris verdoso | `#8C9C9B` | F·4 |
+| Cuarto de Anya, pared | rosa viejo | `#BD888C` | F·7 (ep. 36) |
+| Salón con luz de tarde, pared | madera cálida | `#986B4A` | P·19 (ep. 21) |
+| Expediente de WISE, papel | crema amarillento | `#D9D7B0` a `#ECE8C9` | O·1 (ep. 7) |
+| Sello «TOP SECRET» | rojo de tinta | `#E55B55` | O·1 (mediana de 1856 píxeles rojos) |
+| Tinta de máquina «CLASSIFIED» | casi negro verdoso | `#1C2110` | O·1 |
+| Ficha de Loid, fondo de la foto | azul carné | `#387FB6` | O·2 (ep. 7) |
+| Ficha de Loid, papel | blanco roto | `#F7F8F3` | O·2 |
+| Uniforme de Eden, chaqueta | carbón (no negro puro) | `#393937` | P·5 y P·6 (hojas de modelo oficiales) |
+| Uniforme de Eden, ribete | oro apagado | `#C2A884` a `#D4B383` | P·5 y P·6 |
+
+**Lo que se ve al medir**: nada es negro puro ni blanco puro. El piso
+Forger es **rosado y marrón** (crema, nogal, suelo claro), no el crema
+neutro que decía la primera pasada. El expediente de WISE del anime es
+**crema amarillento con un filtro verdoso** y el sello es un rojo más
+claro que el `#B3262D` de memoria.
+
+Idea de luz ✅ (ahora vista, no sólo leída en [Shapes](https://shapes.inc/fandom/spy-x-family/author)):
+la central de WISE (F·23, F·24) es **verde grisácea y fría**; el piso
+Forger, **cálido y rosado** (F·1 a F·7); el salón al atardecer (P·19) sale
+con un velo ámbar.
+
+<details><summary>Tabla de memoria de la primera pasada (sustituida)</summary>
+
+| Zona | Hex de memoria | Medido |
 |---|---|---|
-| Piso Forger, pared | crema cálido | `#EFE6D2` |
-| Piso Forger, madera | nogal | `#7A5234` |
-| Noche de Berlint por la ventana | azul pizarra | `#2C3A52` |
-| Luz de lámpara | ámbar | `#F6C77A` |
-| Carpeta de expediente | cartón manila | `#D9C08C` |
-| Tinta de sello | rojo | `#B3262D` |
-| Uniforme de Eden | negro con ribete dorado | `#1E1E24` / `#C9A13B` |
+| Piso Forger, pared | `#EFE6D2` | `#DABAA1` |
+| Piso Forger, madera | `#7A5234` | `#885C4D` |
+| Carpeta / papel | `#D9C08C` | `#D9D7B0` (papel del anime; la carpeta manila sigue siendo propuesta) |
+| Tinta de sello | `#B3262D` | `#E55B55` |
+| Uniforme de Eden | `#1E1E24` / `#C9A13B` | `#393937` / `#C2A884` |
 
-Idea de luz, según un análisis ⚠️ (una fuente, [Shapes](https://shapes.inc/fandom/spy-x-family/author)):
-misiones de Twilight en tonos **fríos**, casa Forger en tonos **cálidos**.
-Encaja con lo que se ve, pero no es una cita del staff.
+</details>
 
 ### 5.4 Texturas reales equivalentes (CC0)
 - Papel: [ambientCG Paper001](https://ambientcg.com/view?id=Paper001),
@@ -1003,25 +1033,29 @@ bloqueado. **Los minutos buenos son los de los capítulos (§2 y §15).**
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario (colores medidos) ✅
 
-Salvo lo marcado ✅, es **de memoria**: compruébalo en un fotograma.
+Segunda pasada: los hex salen **medidos con Pillow** en arte oficial o
+fotogramas de la wiki (se dice de cuál). Ojo: P·19 tiene luz de tarde
+(todo más cálido) y O·2 un filtro verdoso; P·5, P·6 y P·16 son los más
+neutros.
 
-| Personaje | Lo icónico | Colores aprox. |
-|---|---|---|
-| Loid | traje oscuro de los 60 con corbata; gabardina en las misiones; pelo rubio claro peinado | pelo `#EAD98E`, ojos verde azulado `#3E8E7E`, traje `#2F3845` |
-| Yor, Thorn Princess ✅ | vestido negro ajustado de cuello halter, **diadema dorada con rosas**, estiletes dorados, guantes negros sin dedos, pendientes de espina, rosa roja por dentro de la falda ([Finallure](https://www.finallure.com/blogs/2026-halloween-and-cosplay-character-guide/yor-forger-cosplay-guide-thorn-princess-costume-wig-makeup-lenses), [Fandom](https://spy-x-family.fandom.com/wiki/Yor_Forger)) | negro `#15141A`, oro `#D4A437`, rojo `#B3262D` |
-| Yor, en casa | jersey de punto rojo; pelo negro largo recogido | pelo `#1B1B22`, ojos rojos `#C3303A` |
-| Anya | **uniforme negro de Eden con ribetes dorados**; pelo rosa por los hombros con **dos adornos negros cónicos** ✅ (los adornos) | pelo `#F4B6C4`, ojos verdes `#5DBB8A` |
-| Bond | perro enorme, blanco y muy peludo | `#F3F1EA`, sombra `#BDBAB3` |
-| Damian | uniforme de Eden; pelo negro con raya | `#1F1D1D` |
-| Becky | uniforme de Eden; pelo castaño recogido | `#7B4A2E` |
+| Personaje | Lo icónico | Colores medidos | Dónde |
+|---|---|---|---|
+| Loid | traje oscuro de tres piezas y corbata; en casa, jersey verde de pico con camiseta blanca (P·19); pelo rubio claro con raya | pelo `#E7DDBC` (sombra `#CEC098`), piel `#F7E8CB`, jersey `#9AB37C` (sombra `#5B7A54`), pantalón `#514F4B`, traje `#151A24`, ojos verde azulado `#5B797A` | P·19 (ep. 21) y O·2 (ep. 7) |
+| Yor, en casa | **jersey de punto rojo** de hombros caídos; **diadema blanca** con adorno dorado; pelo negro largo recogido detrás | pelo `#3C3C3B` a `#51544F` (negro verdoso), jersey `#C54540`, diadema `#F4F2E3`, ojos rojizos `#B27366` | P·19 |
+| Yor, Thorn Princess ✅ | vestido negro de cuello halter, diadema dorada con rosas, estiletes dorados, guantes negros, forro rojo ([Finallure](https://www.finallure.com/blogs/2026-halloween-and-cosplay-character-guide/yor-forger-cosplay-guide-thorn-princess-costume-wig-makeup-lenses), [Fandom](https://spy-x-family.fandom.com/wiki/Yor_Forger)) | rojo `#9C031B`, oro `#B5A370` | P·2 (arte del tomo 3, acuarela de Endo) |
+| Anya, en casa | vestido marrón oscuro de manga larga con cuello de volante dorado; **dos adornos cónicos negros** con ribete dorado | pelo `#F4ABA2` (sombra `#C3827E`), ojos verdes `#6A9773`, vestido `#544C48`, adorno `#4A392B` | P·16 (ep. 15) |
+| Anya, Eden | uniforme de Eden de niña (ver Becky), boina los días de salida | chaqueta `#393937`, ribete `#DEB272` | P·5, P·6 |
+| Bond | perro enorme, blanco, muy peludo; **pajarita negra**; **patas con puntas oscuras** (se ve en P·4 y P·16) | pelo `#F0EDE2` (sombra `#B8B9B4`), pajarita `#443C40`, patas `#544E49`, nariz `#5B4F45` | P·16 |
+| Damian | uniforme de Eden de niño: chaqueta corta, pantalón corto, **tres franjas doradas en las mangas**, insignia en el pecho; pelo verde oliva oscuro con raya | chaqueta `#393937`, oro `#C2A884` a `#DEB272`, pelo `#505041` | P·5 (hoja de modelo oficial) |
+| Becky | uniforme de Eden de niña con **lazo rojo** al cuello; dos coletas con lazos | chaqueta `#393937`, lazo `#CB3F46`, piel `#F3E0D5` | P·6 (hoja de modelo oficial) |
 
 **Lo que todos reconocen**: Anya con el uniforme de Eden, Yor de Thorn
 Princess y Loid de traje. Para #presentaciones: Anya de uniforme (es «la
-nueva» que se presenta en el colegio) o de casa.
-
----
+nueva» que se presenta en el colegio) o de casa. El uniforme de Eden es
+**carbón con oro apagado**, no negro con amarillo: si se pinta negro puro
+queda falso.
 
 ## 17 · Paisajes y fondos de pantalla
 
