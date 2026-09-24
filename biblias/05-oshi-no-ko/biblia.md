@@ -1658,6 +1658,58 @@ title typography*, *harlequin diamond pattern background* (cartelas),
 *vtuber stream overlay, chat message window* (MEM), *TV news lower
 third* (noticiero), *countdown card with handwritten message*.
 
+### 17.1 · Para una IA de texto (repaso corto)
+
+_(pendiente)_
+
+---
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+_(pendiente)_
+
+---
+
+## Punto 19 · Texturas 2D (tramas, papel, patrones, emblemas y logos)
+
+_(pendiente)_
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+_(pendiente)_
+
+---
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar o gritar)
+
+_(pendiente)_
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+_(pendiente)_
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+_(pendiente)_
+
+---
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+_(pendiente)_
+
+---
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+_(pendiente)_
+
 ---
 ## 18 · Tres conceptos de lámina (uno por canal)
 
