@@ -2132,32 +2132,55 @@ un nivel de la tabla.
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen ni vídeo visto.** Sin red completa no hubo hojas de
-  contacto, ni colores medidos, ni minutos exactos.
-- **Cómo es exactamente la escala en el pecho de Baymax** (cuántas caras,
-  qué colores): sólo sé que es la Wong-Baker, de feliz a llorando ✅.
-  Los colores verde, amarillo y rojo de los pines no los vi.
-- **Frases latinas exactas**: sólo «Estoy satisfecho con mi cuidado»
-  tiene dos fuentes (de fans). El resto, ⚠️ hasta oírlas.
-- **Voces latinas de Fred, GoGo y Wasabi**: no las encontré.
-- **Estudio y director del doblaje latino**: sólo Doblaje Wiki.
-- **Voz latina de Baymax en ¡Baymax! (2022)**: sin confirmar.
+### Resuelto en la segunda pasada (antes en esta lista)
+- ~~Ninguna imagen ni vídeo visto~~ → 7 hojas (299 imágenes), 9 clips
+  mirados con fotograma y 3 clips doblados oídos (§3.0, §4.1, §10).
+- ~~Cómo es la escala en el pecho~~ → vista y medida: 10 caritas, 2 filas
+  de 5, del 1 al 10, amarillo → rojo (§1, §8).
+- ~~Frases latinas exactas~~ → 22 frases oídas con minuto (§10).
+- ~~Voces de Fred, GoGo y Wasabi~~ → Noé Velázquez, Erika Ugalde y Alan
+  Bravo, en tres fuentes (§10).
+- ~~Estudio y director, sólo Doblaje Wiki~~ → también dubdb y CHARGUIGOU.
+- ~~El logo sin comparar~~ → visto y medido; Bungee la más parecida (§7).
+- ~~Reddit y Arctic Shift~~ → Arctic Shift respondió, con «Timeout» a
+  ratos; no salió un hilo con votos de la escena (§D).
+- ~~Hex a ojo~~ → medidos (§6, §16).
+
+### Sigue sin verificar ⚠️
+- **Minuto dentro de la película entera**: todos los minutos son del
+  clip citado. La película está en Internet Archive (`1080_20260525`)
+  pero no se recortó.
+- **Las escenas que hacen llorar** (incendio, funeral, sacrificio): sin
+  clip ni minuto; descritas por Wikipedia, la wiki y TV Tropes (§D).
+- **Mochi y Baymax sin batería**: el investigador de vídeo lo atribuye al
+  corto *Big Chibi 6: «Low Battery»* (2019), con el guion del corto y el
+  clip de la película sin gato. Pero TV Tropes (Memes) pone el «bebé
+  peludo» como de la película y el clip visto sólo dura 1:04. **Antes de
+  usarlo, mirar la secuencia entera** en la película de Internet Archive.
+- **«Estoy satisfecho con mi cuidado» de Hiro**, de oído: dos fuentes de
+  texto, sin clip del clímax doblado.
+- **Tadashi en vídeo**: sin clip propio con cara; sus poses son de
+  memoria (§15).
+- **Voz latina de Baymax en ¡Baymax! (2022)** y de Hiro en la serie: una
+  fuente o ninguna.
+- **Colores de los pines** de la escala: YouTube pidió sesión.
+- **Luz de día** de la ciudad y del garaje: sin toma medida.
+- **Vistas de los fandubs** y minutos de los TikTok: no se dejaron ver.
+- **WildWords** en el manga de Yen Press: sin confirmar.
+- **Diseño de sonido** (la pelota que chirría): una fuente.
+- **Game UI Database** y el **Dribbble** de Roberta Tam: no cargaron.
 - **Cómo se abre el ticket en el servidor**: el inventario no lo dice.
-- **La escala del servidor** (qué entra en cada nivel) es propuesta mía:
+- **La escala del servidor** (qué entra en cada nivel) es propuesta:
   falta su sí.
-- **El logo**: no pude compararlo con las letras libres.
-- **Cajas de diálogo de los juegos** y **TCRF**: nada visto.
-- **Encuestas oficiales** de popularidad: no existen o no las encontré.
-- **Reddit** no dejó buscar (el buscador lo rechaza) y Arctic Shift no
-  responde desde aquí.
+- **Encuesta oficial de Disney** por personajes: no la encontré.
 
 ---
 
 ## 21 · Fuentes consultadas
 
-En el texto hay **214 enlaces distintos**. Aquí van las fuentes que
-sostienen algo, **por tipo** (97). Todas salieron en el buscador o se
-abrieron por GitHub.
+Primera pasada: 97 fuentes por tipo, del buscador o de GitHub. Segunda
+pasada: **57 más**, abiertas de verdad (al final). El total de webs
+distintas enlazadas lo da `revisar.py` (ver la tabla de cumplimiento).
 
 ### Oficiales y del equipo
 1. [Disney Animation, motor Hyperion](https://disneyanimation.com/technology/hyperion/)
@@ -2277,6 +2300,82 @@ abrieron por GitHub.
 (Más de doblaje en la tabla del punto 10: Infobae, El Informador,
 LatinUS, SoundCloud, Radio Disney MX, dubdb, eldoblaje, audiofrases.)
 
+### Segunda pasada (24-sep-2026, red abierta)
+
+Abiertas de verdad (API, descarga o vídeo mirado), no por resumen del
+buscador.
+
+**Oficiales y del equipo (segunda pasada)**
+98. [Póster latino «Un consejo saludable» (wiki de Disney)](https://static.wikia.nocookie.net/disney/images/3/32/Big-Hero-6-107.jpg)
+99. [Character Media, entrevista a los animadores (Shiyoon Kim)](https://charactermedia.com/big-hero-6-animators-discuss-their-creative-process/)
+100. [AWN, Roy Conli sobre la producción](https://www.awn.com/animationworld/roy-conli-talks-production-disneys-big-hero-6)
+101. [Disney Digital Studio Services, el sonido de Baymax](https://www.disneydigitalstudio.com/the-baymax-buzz-behind-the-mix-of-big-hero-6/)
+102. [Blog de Disney Animation, San Fransokyo](http://disneyanimation.tumblr.com/post/111288640767/don-wanted-to-figure-out-a-logical-explanation)
+103. [Tumblr oficial de 2014, ficha de Fred](https://disneysbighero6-bh6.tumblr.com/post/101558763514/fred)
+104. [Funko, Super Baymax with Mochi](https://funko.com/pop-super-baymax-with-mochi/84445.html)
+105. [Disney Sorcerer's Arena, notas oficiales](https://www.sorcerersarena.com/news/content-update-8-27/)
+106. [Manual de Blender, Toon BSDF](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/toon.html)
+
+**Wikis y referencia**
+107. [Wiki de BH6, transcripción de la película](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)
+108. [Wiki de BH6, corto «Low Battery»](https://bighero6.fandom.com/wiki/Low_Battery)
+109. [Wiki de BH6, chips de Baymax](https://bighero6.fandom.com/wiki/Baymax%27s_Chips)
+110. [Wiki de BH6, manga](https://bighero6.fandom.com/wiki/Big_Hero_6_(manga))
+111. [Wiki de BH6, cómics de Marvel](https://bighero6.fandom.com/wiki/Big_Hero_6_(Marvel_Comics))
+112. [Wiki de BH6, San Fransokyo](https://bighero6.fandom.com/wiki/San_Fransokyo)
+113. [Wiki de BH6, microbots](https://bighero6.fandom.com/wiki/Microbots)
+114. [Wiki de Disney, Baymax (juegos y atracciones)](https://disney.fandom.com/wiki/Baymax)
+115. [Wikipedia, la banda sonora](https://en.wikipedia.org/wiki/Big_Hero_6_(soundtrack))
+116. [Wikipedia, la película](https://en.wikipedia.org/wiki/Big_Hero_6_(film))
+117. [Fortnite Wiki, Hero Baymax](https://fortnite.fandom.com/wiki/Hero_Baymax)
+118. [Wiki de Disney Sorcerer's Arena](https://disney-sorcerers-arena.fandom.com/wiki/Big_Hero_6)
+119. [TV Tropes, TearJerker](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/BigHero6)
+
+**Prensa, crítica y datos**
+120. [ANN, Yen Press licencia el manga](https://www.animenewsnetwork.com/news/2014-08-31/yen-press-licenses-manga-version-of-disney-big-hero-6-film/.78236)
+121. [Box Office Mojo](https://www.boxofficemojo.com/release/rl2708621313/)
+122. [decentfilms, Steven D. Greydanus](https://decentfilms.com/reviews/bighero6)
+123. [The Tufts Daily, «Eye of the Tiger»](http://tuftsdaily.com/arts/2014/11/12/big-hero-6-succeeds-box-office)
+124. [Bleeding Cool, Lorcana](https://bleedingcool.com/collectibles/big-hero-6-arrives-for-disney-lorcana-azurite-sea-exclusive-reveal/)
+125. [GosuGamers, Fortnite](https://www.gosugamers.net/entertainment/news/73869-godzilla-is-stomping-into-fortnite-chapter-6-with-big-hero-6-s-baymax)
+126. [Siliconera, Disney Star Smash](https://www.siliconera.com/new-disney-mobile-game-star-smash-launched-in-japan/)
+127. [Cardboard Connection, Funko](https://www.cardboardconnection.com/2014-funko-pop-disney-big-hero-6-vinyl-figures)
+
+**Vídeo mirado (Dailymotion e Internet Archive)**
+128. [Tráiler oficial en español latino](https://www.dailymotion.com/video/x889whz)
+129. [«Meet Baymax»](https://www.dailymotion.com/video/x2553ox)
+130. [«Low Battery»](https://www.dailymotion.com/video/x283k45)
+131. [«Fist Bump»](https://www.dailymotion.com/video/x3wn7x2)
+132. [Batalla final](https://www.dailymotion.com/video/x7vbgp7)
+133. [Opening de la serie](https://www.dailymotion.com/video/x7we0ri)
+134. [Película doblada, inicio](https://www.dailymotion.com/video/x2hry42)
+135. [Película doblada, escaneo y Krei](https://www.dailymotion.com/video/x5hvz3y)
+136. [Escena eliminada, storyboard](https://archive.org/details/youtube-wnDrECylMOU)
+137. [Featurette «Animating Baymax»](https://archive.org/details/youtube-koKlm22FLk0)
+138. [Manga, tomo 1](https://archive.org/details/bighero6vol10000ueno)
+
+**Foros, comunidad y fan dubs**
+139. [ranking.net, encuesta japonesa](https://ranking.net/rankings/best-baymax-characters)
+140. [The RPF, armadura de foam](https://www.therpf.com/forums/threads/baymax-2-0-armor-with-foam-template-files.234327/)
+141. [Instructables, traje de Baymax](https://www.instructables.com/Baymax-from-Big-Hero-6-Costume/)
+142. [RobertMan FANDUBS, parodia](https://www.youtube.com/watch?v=pBPMBFzKmQ8)
+143. [Ken Asakura, parodia](https://www.youtube.com/watch?v=jo8Gk5Gt128)
+144. [TikTok, «Grandes Héroes Doblaje Latino»](https://www.tiktok.com/discover/grandes-h%C3%A9roes-doblaje-latino)
+145. [khwiki, San Fransokyo](https://www.khwiki.com/San_Fransokyo)
+
+**Recursos (3D, texturas, letras, fondos)**
+146. [Sketchfab, Baymax (Rigged)](https://sketchfab.com/3d-models/baymax-rigged-be0f190b63d546af8fdd53f49da0e8b6)
+147. [BlendSwap #13951](https://blendswap.com/blend/13951)
+148. [ambientCG, Plastic013A](https://ambientcg.com/view?id=Plastic013A)
+149. [Wallhaven, equipo de noche](https://wallhaven.cc/w/0jojkw)
+150. [Google Fonts, Comic Neue](https://fonts.google.com/specimen/Comic+Neue)
+151. [Comicraft, WildWords](https://www.comicbookfonts.com/Wildwords-font-p/bl003i.htm)
+152. [Tutorial de Freestyle en Blender](https://kirill-live.itch.io/tuesday-js/devlog/189455/blender-3d-freestyle-draw-contour-simulation-2d-art)
+
+**Doblaje latino (segunda pasada)**
+153. [The Dubbing Database](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes)
+154. [CHARGUIGOU, Disney International Dubbings](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html)
+
 ---
 
 ## Cumplimiento del encargo
@@ -2375,3 +2474,100 @@ LatinUS, SoundCloud, Radio Disney MX, dubdb, eldoblaje, audiofrases.)
   (sólo notas de prensa y wikis).
 - Comentarios del Blu-ray.
 - Hilos de Reddit (el buscador no deja).
+
+(Lo de arriba es de la primera pasada; varias de esas faltas se
+cerraron en la segunda, ver §20.)
+
+### Segunda pasada (24-sep-2026, red abierta, equipo de 4 + redactor)
+
+**Estado de la red**: abierta. YouTube, sí bloqueado: `yt-dlp` da «Sign
+in to confirm you're not a bot» (probado con `yl8yriCIzCE`); YouTube
+oEmbed sí responde (título y canal sin sesión). TikTok no deja ver
+vídeos. `tvtropes.org` y `memedroid.com` dieron 403 directo (dos
+intentos). Wayback Machine cortó la conexión a medio intercambio dos
+veces. Game UI Database y Dribbble volvieron vacíos (dos intentos).
+
+**Punto de partida**: `herramientas/recolectar.py` (gratis) dejó
+`partes/datos-*.md`: Doblaje Wiki con la ficha y el reparto, textos de
+personalidad de la wiki de Disney, las imágenes más grandes de la wiki y
+las 7 hojas. Sus búsquedas en Dailymotion y MusicBrainz trajeron cosas
+ajenas por el nombre genérico «Héroes»; AniList no aplica (película);
+Danbooru sin etiqueta; Reddit sin subreddit.
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- API de `disney.fandom.com`: `imageinfo` de 14 archivos (tamaño real),
+  `parse&prop=wikitext` de «Baymax» (juegos y atracciones),
+  `list=search&srnamespace=6` para «Tadashi cap», «SFIT», «crest»,
+  «emblem» (sin resultado).
+- API de Sketchfab `v3/search?q=baymax&downloadable=true`: 8 modelos con
+  licencia. API de Wallhaven: 18 resultados, 4 con autor y tamaño. API de
+  ambientCG para plástico, papel, tela y metal.
+- Buscador web (inglés, 7): Lorcana, Funko, Fortnite y cafés, cosplay de
+  foam, Disney Star Smash, Sorcerer's Arena, manga de Haruki Ueno.
+- Miradas con Read: las 7 hojas (299 miniaturas) y 12 imágenes oficiales
+  en grande; color medido con Pillow y `estilo.py`.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- API de Dailymotion, en inglés («Big Hero 6 Baymax hello», «fist bump»,
+  «flying scene San Fransokyo», «Immortals», «low battery Mochi»,
+  «microbots garage clip», «The Series opening intro», «Baymax Returns
+  short film») y en español («trailer latino», «Grandes Heroes trailer
+  español», «Baymax escaneando a Hiro», «Big Hero 6 escena»).
+- Internet Archive `advancedsearch.php`: 30 resultados; se usaron la
+  escena eliminada, el featurette y el sencillo de «Immortals».
+- Mirados con `fotogramas.py --cortes`: x2553ox, x3wn7x2, x31z3kn,
+  x283k45, x7vbgp7, wnDrECylMOU, x889whz (92 fotogramas), x7we0ri,
+  x7x6uz7. Color de 6 fotogramas con `estilo.py`. Los `.mp4` se borraron.
+- Wikipedia (API, inglés): la ficha del disco. Wiki de BH6: el corto
+  «Low Battery». Buscador web (2): la escena de «Immortals» y el sonido
+  de Baymax.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki `action=parse&prop=wikitext` de «Grandes héroes» (el
+  wikitext entero trae a Fred, GoGo y Wasabi). The Dubbing Database por
+  su API. CHARGUIGOU (Disney International Dubbings).
+- Wiki de BH6: fichas de Hiro, Baymax, Tadashi, Honey Lemon, Fred,
+  Wasabi, GoGo y Cass (infobox y trivia).
+- Dailymotion: tráiler latino y dos fragmentos doblados (x2hry42,
+  x5hvz3y), oídos con `voz.py --idioma es` en tramos de 60-80 s.
+- ranking.net abierta entera; eiga.com abierta (sin la taquilla);
+  Wikipedia en texto plano (taquilla, crítica, premios); CinemaSins wiki
+  (sin minutos reales).
+- Arctic Shift en `r/disney`, `r/bighero6`, `r/movies`, `r/animation`,
+  `r/MadeMeCry`: «Timeout» varias veces; sin hilo útil.
+- Buscador web (8, español e inglés): minuto de la muerte de Tadashi,
+  «made me cry», fandub latino, covers en español, TearJerker, memes
+  «bienvenidos a my house», vídeos de reacción, guion con tiempos.
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25)
+- API de `bighero6.fandom.com`: búsquedas (San Fransokyo, máscara,
+  chips, cómic de Marvel, escaneo, «scale of 1 to 10», logo) y wikitext
+  de San Fransokyo, Microbots, Yokai, los chips, el cómic, el manga,
+  Baymax, la película y su transcripción; `imageinfo` de 9 imágenes.
+- Google Fonts: 9 `.ttf` reales comprobados con fontTools.
+- Sketchfab (rig de Baymax), khwiki, Wikipedia (producción).
+- Buscador web (inglés, ~7): Hyperion, influencias (Akira, Blade
+  Runner), reseñas que comparan con *El gigante de hierro*, rig para
+  Blender, toon shader con Freestyle, WildWords de Yen Press.
+- Leídas enteras: decentfilms y Character Media. Skwigly y lwlies no se
+  dejaron leer (JavaScript).
+- `estilo.py` sobre 8 imágenes (logo, SFIT, 3 chips, 2 escaneos, escala).
+
+**Redactor**: miró las 3 hojas elegidas; bajó 4 imágenes de ellas para
+leer el texto (póster latino n.º 44, diagrama n.º 240, guía n.º 29, nota
+de Tadashi n.º 92) y midió con Pillow los colores del póster latino.
+
+### Lo que NO encontré en la segunda pasada
+- Minuto dentro de la película de las escenas que hacen llorar; clip
+  doblado del clímax (búsquedas «Grandes Heroes incendio Tadashi
+  español», «muerte Tadashi latino», «funeral escena español»).
+- Clip propio de Tadashi y el choque de puños de mitad de película
+  («Tadashi Hamada clip», «Big Hero 6 ba-la-la-la clip», «teach fist
+  bump»).
+- Sello del SFIT como vector suelto; café temático; autor de los fondos
+  de alphacoders; colores de los pines de la escala.
+- Vistas de los fandubs; doblajes de fans completos; cover en español de
+  «Immortals»; hilo de Reddit con votos de la escena de Baymax.
+- Segunda fuente del sonido de Baymax (Sound & Picture dio error de
+  Cloudflare); cita completa de Paul Felix; WildWords en el manga.
+- Encuesta oficial de Disney por personajes («ビッグヒーロー6 人気投票 公式»).
