@@ -934,7 +934,59 @@ y su visual en la wiki) ✅, y **Universal Studios Japan**, verano de 2026
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
-(pendiente)
+### 14.1 Los memes y gags que todos reconocen
+
+Fuentes: **Know Your Meme** (portada de la serie y sus 11 sub-entradas,
+leídas el 24-sep-2026), **Reddit r/Frieren** (archivo Arctic Shift, votos a
+esa fecha) y los episodios de §2.
+
+| Meme | De dónde sale | Por qué gusta | Fuentes |
+|---|---|---|---|
+| **Frieren atrapada en el mímico** («¡Está oscuro! ¡Tengo miedo!») | gag repetido desde el ep. 1 (§2, n.º 14). Primer redibujo en Pixiv, 28-ene-2021 (usuario Esu) | Frieren, la maga más fuerte, cae **siempre** en el mismo cofre. Es el meme más visual | [KYM](https://knowyourmeme.com/memes/frieren-stuck-in-mimic-chest) + Reddit: «Frieren eating cake vs Mimic eating cake» **7.240 votos** ([post](https://reddit.com/r/Frieren/comments/1lq8cpu/frieren_eating_cake_vs_mimic_eating_cake/)) ✅ |
+| **«Himmel lo habría hecho»** («勇者ヒンメルならそうしました») | frase del manga y del anime (T1-02 10:16…). Se hizo viral el **5-jun-2024**: un otaku frenó un ataque con cuchillo en el metro de Taichung (Taiwán) «porque Himmel lo habría hecho» | es la brújula moral de la serie; luego vino la broma «**Himmel would've pirated Photoshop**» | [KYM](https://knowyourmeme.com/memes/himmel-wouldve-done-that) + Reddit (§9.2) ✅ |
+| **«Aura, suicídate»** | T1-10 (22:24). Existía en el manga desde 2020; explotó con el anime (10-nov-2023) | Frieren gana con **una sola frase fría** | [KYM](https://knowyourmeme.com/memes/aura-death-scene-aura-kill-yourself) + §2 ✅ — **ver 14.3: no usar** |
+| **La hamburguesa ridículamente grande** (cumpleaños de Stark) | T1-12 | fans que la **cocinan de verdad** para su cumpleaños | Reddit: «I tried to make Warrior Honoring Hamburger for my birthday» (716 votos) y otras 5 con cientos de votos ✅; entró en la encuesta oficial (§9) ✅ |
+| **«Sólo veía la mitad del cielo»** | T1-18: Frieren se tumba en el regazo de Fern y los pechos de Fern le tapan el cielo | se redibujó con personajes de otras series | [KYM](https://knowyourmeme.com/memes/i-could-only-see-half-the-sky) ⚠️ una fuente; **tono pícaro: no para una lámina** |
+| **«A los hombres les das esto y se ponen contentos»** | T1-12: la poción que disuelve la ropa | plantilla de dos viñetas | [KYM](https://knowyourmeme.com/memes/you-can-just-give-this-kind-of-thing-to-men-and-they-will-be-thrilled) ⚠️ una fuente; **no para una lámina** |
+| **Portadas de videojuegos con Frieren** (Dark Souls, Bloodborne…) | fan art de @ononotsu desde dic-2023 | Frieren **encaja en cualquier mundo de fantasía** | [KYM](https://knowyourmeme.com/memes/frieren-video-game-cover-parodies) ⚠️ |
+| **«Friangle»** (Frieren dibujada desde abajo, con la barbilla mal) | dibujo de un aficionado en r/Frieren, 12-nov-2025; 35.000 votos en r/animation | broma cariñosa sobre dibujar mal | [KYM](https://knowyourmeme.com/memes/upward-angle-frieren-drawing-frieren-looking-up) ⚠️ |
+| **Las magias inútiles** (uvas agrias, quitar óxido, flores) | T1-02 y siempre | «Es sólo un pasatiempo» | §2, §8 ✅ |
+| **Fern la «mamá»** que despierta, peina y viste a Frieren | T1-04 («Ama, no me quiero levantar», §12.3) | Reddit: «Fern is definitely way more comfortable than any bed» **4.897 votos** ([post](https://reddit.com/r/Frieren/comments/1w9r25b/fern_is_definitely_way_more_comfortable_than_any/)) | ✅ |
+| **«Frieren the Slayer»** (葬送のフリーレン, «Frieren la del funeral»: el apodo que le dan los demonios) | el título de la serie | un tema de Evan Call se llama **«Frieren the Slayer»** (§11.2) | wiki + OST ✅ |
+| **«Mil añitos»** | los fans latinos: «¡¡FRIEREN HACE BERRINCHE A SUS 1000 AÑITOS!!» (clip doblado subido por un fan, 205 k vistas) | la gracia es que **una elfa milenaria hace pucheros** | [YouTube _ad1AUfjj6Q](https://www.youtube.com/watch?v=_ad1AUfjj6Q) ⚠️ una fuente |
+
+### 14.2 Lo que un fan sabe sin pensarlo
+- **Himmel está muerto** desde el capítulo 1. Sale en **recuerdos**
+  (luz dorada), en **estatuas** y en frases de los demás.
+- **Cada estatua de Himmel** es una promesa: las mandó hacer «para que
+  Frieren no esté sola en el futuro» (doblaje latino, §10.4).
+- **Frieren es una elfa de más de mil años** que parece una niña, **duerme
+  hasta el mediodía** y colecciona **grimorios**.
+- **Stark tiembla** antes de pelear, pero pelea.
+- **Fern se enfada con mofletes** y se le pasa con comida.
+- El **Mimic** es un personaje más (3.º en la encuesta de 2022).
+
+### 14.3 Qué NO hacer (le parecería falso a un fan, o no conviene)
+1. **Frieren riendo a carcajadas, gritando o con «¡¡!!».** Habla corto y
+   plano; sonríe poco y de lado (§8).
+2. **Himmel vivo y en el presente**, de pie junto a Fern y Stark, como si
+   viajara con ellos. Sólo en recuerdo, estatua o flashback (los tráileres
+   lo **desvanecen en blanco**, §12).
+3. **Fern diciendo «Frieren» a secas o tuteándola.** En latino es
+   «**Señora Frieren**» y de usted (§10.4).
+4. **Frieren con sombrero de bruja o varita.** Su bastón es **largo, rojo,
+   con media luna dorada** (§16).
+5. **Colores oscuros y sangrientos de «fantasía épica».** La serie es
+   **luminosa y pálida** (§5); los combates existen, pero no son su cara.
+6. 🔴 **«Aura, suicídate» en una lámina.** Es el meme más compartido, pero
+   **habla de suicidio**; además, en la historia **Fern iba a quitarse la
+   vida** de niña (§8). En un servidor con gente joven, **no se usa**.
+7. **Fan service**: los memes de la poción y del regazo existen, pero no
+   son el tono de la serie ni del servidor.
+8. **Copiar la tarjeta naranja de Crunchyroll** o la caja de diálogo de un
+   juego en colaboración (§12.3, §13).
+9. **Inventar hechizos con nombre**: sólo los de la serie (Zoltraak, campo
+   de flores, uvas agrias, quitar el óxido…).
 
 ## 15 · Poses analizadas por personaje
 

@@ -40,7 +40,49 @@ fecha: 2026-09-24
 
 ## 0 · Haikyuu!! no tiene canal: dónde encaja mejor
 
-(pendiente)
+### 0.1 La propuesta: **ıı・🎯・reto-de-la-semana**
+
+> **ıı・🎯・reto-de-la-semana** (foro) · etiquetas: Reto activo, Cerrado,
+> Doblaje, Canto, Locución, Para empezar, Con trampa, Libre — _Un reto
+> por semana: una línea, una escena, un tono. Se entrega dentro del hilo
+> del reto. No se gana nada y esa es la gracia: es para grabar_ (el
+> texto sigue cortado en `servidor/inventario.md`).
+
+**Por qué Haikyuu!!** (todo comprobado en §2, §7 y §9):
+- Media serie es **entrenamiento**: el campamento de verano son
+  partidos de práctica cada día. **Nadie gana nada**: el que pierde el
+  set hace **una vuelta de «flying»** a la cancha (se lanza en plancha),
+  y sigue («1セット毎に負けた方はペナルティーでフライングコート一周», T2-04,
+  *streaming* 05:58 ✅). Es la gracia del canal: **se juega para
+  mejorar**.
+- El objeto ya existe: el **marcador de cartones con una pizarrita de
+  tiza encima**, donde se escribe quién juega («フクロウ｜ネコ») y se
+  apuntan palotes 「正」 por cada set (T2-09, [0:39](https://www.dailymotion.com/video/x7og4pm?t=39) 👁).
+  Es **un tablón de reto** de verdad.
+- El anfitrión perfecto: **Bokuto**, el más *meme* de la serie, el que
+  **invita** a Hinata y a Tsukishima a entrenar con él de noche, y
+  **1.º de su puesto** en la gran encuesta de 2020 (§9).
+
+**Ojo, choque**: la biblia de **Naruto** (encargo 30) propone el mismo
+canal (los cascabeles de Kakashi). Si el dueño se lo da a Naruto,
+Haikyuu!! tiene dos canales de reserva: **#general-doblaje** (concepto
+B) y **#postulaciones** (concepto C).
+
+### 0.2 Todos los canales que miré
+
+| Canal o sala | Qué pondría Haikyuu!! | Encaje | Nota |
+|---|---|---|---|
+| **#reto-de-la-semana** | el marcador del campamento (§19 A) | ⭐⭐⭐ | también lo pide Naruto |
+| **#general-doblaje** | la pizarra blanca del tutorial, con Nishinoya explicando (§19 B) | ⭐⭐⭐ | el encargo 29 propone Monsters, Inc. |
+| **#postulaciones** (privado) | los **formularios de inscripción** del club y el capitán que los recibe (§19 C) | ⭐⭐ | nadie lo pide; pero está en PRIVADOS: sirve si lo ve quien postula |
+| 🎲 Juegos (voz) | **HAIKYU QUEST** (el RPG de 8 bits del juego de 3DS) y Kenma, el jugador | ⭐⭐ | el encargo 29 propone Ralph |
+| #eventos | Takeda llegando corriendo con **el cuadro del torneo** impreso (T1-14) | ⭐⭐ | el encargo 29 propone Phineas y Ferb |
+| #castings | «**El Aldeano B tiene lo suyo**» (T2-03): ningún papel es pequeño | ⭐⭐⭐ | **ya es de Oshi no Ko** (encargo 05) |
+| #proyectos | «Buscando gente»: Hinata sin equipo en secundaria, reclutando | ⭐⭐⭐ | **ya es de Arcane** (encargo 17) |
+
+**Lo que NO encaja**: canales serios o de normas (#reglas, #soporte,
+#log-mod). Haikyuu!! es alegre y de equipo; en una lámina de sanciones
+quedaría falso.
 
 ## 1 · Resumen para quien tenga prisa
 

@@ -535,7 +535,8 @@ HOT-Hakushu Tensho Kyokan, Dynafont 新篆書体 ⚠️ (según los artículos).
 **Mincho blanca abajo a la derecha** (títulos y hora-lugar), con
 **técnicas verticales entre 「」**, con **cajas de explicación** larguísimas
 (el famoso «Gege explica las reglas») y, en los juegos, con **una
-pizarra** o **placas hexagonales cian**.
+pizarra**, **placas hexagonales cian** o **dos viñetas con el borde roto
+sobre tinta azul petróleo** (el modo historia de *Cursed Clash*).
 
 ### 7.1 Lo que la serie pone en pantalla (visto)
 
