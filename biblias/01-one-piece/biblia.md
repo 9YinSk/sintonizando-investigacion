@@ -595,10 +595,32 @@ Crédito: «"<título>" de <autor> (Sketchfab), CC BY 4.0».
 
 **Comparación:** la plantilla de fans de PyPI (`#C3B69D`) es un poco más oscura y gris que el papel real del anime (`#DED0BE`). **Para la lámina, usa el del anime.**
 
+### Paleta del anime en movimiento (repaso del equipo, 24-sep-2026)
+
+Un fotograma por plano con `fotogramas.py --cortes`, medido con `estilo.py` (8 colores; % = parte de la imagen). Copias de Internet Archive y Dailymotion, porque YouTube pidió «iniciar sesión».
+
+**Los sitios de #bienvenidas (día, a bordo):**
+- **Cubierta del Sunny, los diez en contrapicado** (Nami con la mano en la cadera, Zoro con la espada al hombro, vela blanca con la calavera detrás): cielo `#35AAF1` 15 %, sombra de la vela `#A9BCCD` 19 %, nube `#E7E8ED`, madera del mástil `#B16744` / `#55363D`; brillo 65 % · [opening del ep. 1000, 1:25](https://archive.org/details/one-piece-episode-1000-opening-we-are-straw-hats-edition) ⚠️ (una copia). **El encuadre y la luz del concepto A.**
+- **El Sunny navegando a mediodía**: cielo `#2B9FF4` 40 %, nube `#DEEFF8`, mar turquesa `#31C2E7` / `#60D1F0`; **brillo 88 %, saturación 57 %: la luz más alta de la serie** · ep. 1000, 0:38 y 1:45 ✅ (los dos planos dan lo mismo: `#21B2EA` / `#2388EA` / `#26D7ED`).
+- **Luffy en la baranda, girando la moneda**: mar `#1E97E2` / `#19B1D7`, rojo `#9E293B`, piel `#DDBF8F` · ep. 1000, 1:37 ⚠️.
+- **La carta náutica del ep. 1000, con el Sunny dibujado** (la del ep. 1 llevaba el Merry): mar `#C8E3D3` / `#B0D0C1`, tierra `#D9CE8E` / `#B1A66A`, tinta `#4B4238`; rótulos a pluma con letras inventadas, rosa de los vientos roja, cinta amarilla; saturación 24 %, mucha línea · ep. 1000, 1:06 ✅ (cuadra con la del OP 1: `#B2D8C8` / `#D3D293`). **Fondo del concepto B.**
+- **Cubierta de madera del Red Force** (plano bajo, tablones al fondo): `#8F5D44` 23 %, `#81553C`, `#563725`, veta `#311915`; saturación 55 % · [clip del ep. 1082, 1:05](https://www.dailymotion.com/video/x8pee1a?start=65) ⚠️. **La madera de barco más cálida: suelo del concepto A.**
+
+**Qué dicen los números:** día a bordo = **brillo 85-89 %, saturación 55-60 %**, cielo entre `#2B9FF4` y `#35AAF1`. El `#057FEE` del arte del juego (tabla de arriba) es **más oscuro y saturado que el anime: para la lámina, mejor `#2B9FF4`**. Interiores y noche bajan a brillo 25-40 %; la carta y el papel, a saturación 20-25 %.
+
+**Otros sitios (para otros canales o eventos)** ⚠️ (una copia cada uno):
+- Loguetown de día: blancos azulados `#D2DDEC` / `#BBCCE0`, cielo `#195087` · [OP 28, 1:09](https://www.dailymotion.com/video/x9otrgy?start=69). **Bajo tormenta**: `#557B87` / `#385F6B` / `#26434E`, brillo 37 % · [OP 28, 1:07](https://www.dailymotion.com/video/x9otrgy?start=67).
+- Egghead: cian `#A8C8D1` / `#7BA5B4`, beige `#C7B2A3` · [tráiler, 0:09](https://www.dailymotion.com/video/x8r9xak?start=9). En llamas: `#212226`, fuego `#D76D29`, brillo 26 % · [OP 28, 0:16](https://www.dailymotion.com/video/x9otrgy?start=16).
+- Elbaf a mediodía: cielo `#63A9F9` / `#85C3F8`, piedra `#D1BDA1`, tronco `#A67A66`; brillo 83 % · [tráiler, 0:03](https://www.dailymotion.com/video/xa0d0cs?start=3). Bosque nevado: azul pizarra `#414C58` / `#657287` · [2.º tráiler, 0:15](https://www.dailymotion.com/video/xa3ktjs?start=15). Gigantes al atardecer: `#8C96A5`, rosa `#E0B1B0`, crema `#E5D9C3` · [0:08](https://www.dailymotion.com/video/xa3ktjs?start=8).
+- **El haki del rey** (Shanks frena a Ryokugyū, ep. 1082): rayos `#CF2033` / `#A71221` / `#791316` sobre `#21090C`; **saturación 77 %, la más alta medida**: la luz de amenaza · [clip, 0:39](https://www.dailymotion.com/video/x8pee1a?start=39) ✅ ([wiki, ep. 1082](https://onepiece.fandom.com/wiki/Episode_1082)).
+- **Luz de tragedia** (muerte de Ace, ep. 483, 20:00-22:00): cielo blanco quemado por el humo, en vez del azul saturado · mirado a ojo, sin medir ⚠️ (§4).
+
 ### Texturas reales (comprobadas por API)
 - **Poly Haven (CC0)**, hasta 8K: [weathered_planks](https://polyhaven.com/a/weathered_planks) (foto de Dimitrios Savva, procesado de Dario Barresi), [wood_floor_deck](https://polyhaven.com/a/wood_floor_deck) (Dimitrios Savva) y [old_wood_floor](https://polyhaven.com/a/old_wood_floor) (Guillaume Monsergent) ✅. Hay 137 maderas más en su API (`brown_planks_03`…`09`, `old_planks_02`).
 - **ambientCG (CC0)**: papel para el cartel y la carta, [Paper006](https://ambientcg.com/view?id=Paper006) (beige y marrón), [Paper003](https://ambientcg.com/view?id=Paper003) (arrugado) y [Paper001](https://ambientcg.com/view?id=Paper001) ✅.
 - **Sketchfab «Old Map 3D Model»** de Johana-PS (CC BY, 1.966 caras, 858 «me gusta»), un pergamino enrollado con papel envejecido (§5).
+- **Repaso del equipo** ✅ (API de cada banco): cuerda y red de ambientCG, CC0: [Rope001](https://ambientcg.com/view?id=Rope001), [Rope002](https://ambientcg.com/view?id=Rope002), [Net003A](https://ambientcg.com/view?id=Net003A) · **metal oxidado para clavos y argollas del cartel**, Poly Haven CC0: [rusty_metal_02](https://polyhaven.com/a/rusty_metal_02) (8K), [rusty_metal_sheet](https://polyhaven.com/a/rusty_metal_sheet) (16K) · tela de vela: [fabric_pattern_05](https://polyhaven.com/a/fabric_pattern_05) · **cielo HDRI para iluminar en Blender**: [secluded_beach](https://polyhaven.com/a/secluded_beach) (mañana-tarde, nubes sueltas) y [simons_town_harbour](https://polyhaven.com/a/simons_town_harbour) (puerto).
+- **Madera y cuerda reales del decorado de Netflix** ⚠️ (una copia): madera cruda del Baratie `#A17F5D` / `#7E5C46` / `#58453B`, veta `#271914` · [«Making-of des décors», 1:02](https://www.dailymotion.com/video/x8bfvq4?start=62); interior amarillo `#817336` · [1:22](https://www.dailymotion.com/video/x8bfvq4?start=82); aparejo de cuerda contra el cielo, cuerda `#B1AB7C` · [1:32](https://www.dailymotion.com/video/x8bfvq4?start=92); cartel tallado «Partys Bar» · [1:11](https://www.dailymotion.com/video/x8bfvq4?start=71).
 
 ### Fondos de pantalla (tamaño y autor)
 - **Oficiales, en la wiki (capturas del anime, 1920×1080):** «Straw Hat Pirates as a Family» (F5), «Straw Hats Stand United» (F8), «Crews Departure» (F4), «Going Merry's Funeral» (F6), «Thousand Sunny Climbing… Knock Up Stream» (F21). © Toei Animation. Enlaces en §3.0.
@@ -610,6 +632,11 @@ Crédito: «"<título>" de <autor> (Sketchfab), CC BY 4.0».
   - «[One piece wallpaper - Vast ocean](https://www.deviantart.com/prank0/art/One-piece-wallpaper-Vast-ocean-202140060)» de **Prank0** (2011), 1024×576.
   - **Descartados:** los de **PurewallFR** (2026, «4K»): tienen pinta de hechos con IA, justo lo que el dueño no quiere.
 - Datos por el RSS y el oEmbed públicos de DeviantArt.
+- **Los 3 más guardados de Wallhaven que son de la serie** (repaso del equipo; los demás eran mosaicos de varias series) ✅:
+  - «[Keep Sailing](https://w.wallhaven.cc/full/72/wallhaven-72lej9.png)» de **Ombobon** (DeviantArt), **7680×4320**, 842 «me gusta»: el Sunny entre nubes, pintura digital.
+  - [Yamato](https://w.wallhaven.cc/full/v9/wallhaven-v973e3.jpg), de la web MYGIORNI, **8192×4606**, 679.
+  - Mural panorámico con Luffy, Bartolomeo, Robin, Law y Usopp, **9874×1858**, 526 · [wallhaven](https://w.wallhaven.cc/full/yx/wallhaven-yx3kok.jpg), origen [Pixiv 101279304](https://www.pixiv.net/en/artworks/101279304).
+- **La web oficial no tiene fondos de pantalla descargables** (§3.2): para alta resolución, Wallhaven y DeviantArt, nunca como fuente oficial.
 
 ---
 
