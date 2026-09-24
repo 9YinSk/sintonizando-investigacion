@@ -7,7 +7,18 @@ fecha: 2026-09-24
 
 # Biblia · Oshi no Ko — para #redes-y-novedades, #en-directo y #castings
 
-> [!important] Cómo se hizo esta investigación
+> [!important] Cómo se hizo esta investigación (léelo primero)
+> **Dos pasadas.**
+> - **Segunda pasada, 24-sep-2026, con la red abierta.** Se pudo usar:
+>   la **wiki de Fandom** (`oshinoko.fandom.com`) por su API, con dos
+>   tandas de `investigar_serie.py` (**979 imágenes, 21 hojas**, y otra de
+>   sitios y episodios), **miradas**; 3 hojas propias en `hojas/` (§3.0);
+>   **Doblaje Wiki** por su API, **ANMTV** y la **API de noticias de
+>   Crunchyroll** (reparto y staff latino); **YouTube** con yt-dlp
+>   (bajar el vídeo pide «iniciar sesión», así que se miraron los
+>   *storyboards*, un cuadro por segundo); Sketchfab por su API;
+>   fontTools; Arctic Shift (Reddit). El detalle, en la bitácora (§21).
+> - **Primera pasada (misma fecha, red cerrada).**
 > La red del contenedor estaba cerrada: Fandom, Doblaje Wiki, Wikipedia,
 > YouTube, Crunchyroll, ANMTV, Sketchfab, Pixiv, X y la web oficial daban
 > error 403. Se usó el buscador web (47 búsquedas, en español,
@@ -25,14 +36,15 @@ fecha: 2026-09-24
 > - **Las letras de Google Fonts**: se bajaron los archivos y se comprobó
 >   letra por letra que traen á é í ó ú ñ ¿ ¡ y los corchetes 【 】.
 >
-> Sin red completa **no hay hojas de contacto** ni carpeta `hojas/`.
-> ✅ = confirmado en dos fuentes. ⚠️ = dudoso o una sola fuente.
+> En la primera pasada no hubo hojas de contacto; ahora sí (§3.0).
+> ✅ = confirmado en dos fuentes (o un archivo que abrí o medí).
+> ⚠️ = dudoso o una sola fuente.
+> «hoja P·7» = número 7 de `hojas/personajes_01.jpg`; «O·3» =
+> `hojas/objetos_01.jpg`; «V·5» = `hojas/video_01.jpg` (fotogramas).
 >
-> **Ojo con el wiki:** el encargo sugería `oshi-no-ko.fandom.com`. El wiki
-> que sale en todas las búsquedas es **`oshinoko.fandom.com`** ✅
-> ([Kana](https://oshinoko.fandom.com/wiki/Kana_Arima),
-> [MEM-cho](https://oshinoko.fandom.com/wiki/Mem-Cho)). Cuando haya red,
-> usar `--wiki oshinoko` en `investigar_serie.py`.
+> **Ojo con el wiki:** el encargo sugería `oshi-no-ko.fandom.com`, que
+> da **404**. El bueno es **`oshinoko.fandom.com`** ✅ (comprobado por su
+> API: 428 artículos, 2963 imágenes).
 
 > [!warning] Spoiler que condiciona todo
 > Ai muere en el episodio 1. El manga terminó en noviembre de 2024 con la
@@ -161,18 +173,151 @@ La revista Young Jump sí tiene una página propia para animar a Kana:
 
 ## 3 · Arte oficial reunido (poses vivas, no hojas de modelo)
 
-Sin red completa no se pudo bajar la wiki. Esto es lo que sí se vio o se
-localizó con su enlace.
+### 3.0 · Las hojas de contacto (segunda pasada) ✅
 
-### 3.1 · Imágenes miradas de verdad (bajadas de GitHub)
+Corrí `investigar_serie.py` dos veces sobre `oshinoko.fandom.com`:
+- `herramientas/referencias/oshi-no-ko/`: 11 páginas (Ai, Aqua, Ruby,
+  Kana, Akane, MEM-cho, B-Komachi, Gotanda, Pieyon, Miyako, Frill) y
+  sus galerías: **979 imágenes, 21 hojas**.
+- `herramientas/referencias/oshi-no-ko-sitios/`: 22 páginas (material
+  promocional, Ichigo Production, Yōtō, Lalalai, el reality, episodios
+  1, 5, 9, 11, 29 y 34, canciones): **531 imágenes, 12 hojas**.
+
+**Las miré.** Hay mucho oficial que no se conocía: cartones de cuenta
+atrás con **«ON AIR»**, cartelas de episodio, avisos de hitos del canal
+(«100.820 suscriptores»), dibujos de animadores con **«本日ON AIR»**
+(«hoy ON AIR»), renders de cuerpo entero sobre verde (recortables) y
+cajas de diálogo del juego *IDOLM@STER Shiny Colors*. Mucho otro no
+sirve: unas 150 son **genga y storyboards** a lápiz (fondo amarillo o
+verde) y unas 60 son **viñetas del manga** en blanco y negro.
+
+Monté **3 hojas propias** con Pillow (en `hojas/`). En cada celda va el
+tamaño real (API de la wiki) y, en la de vídeo, el minuto. Los vídeos se
+miraron por sus *storyboards* de YouTube (un cuadro por segundo, ±1 s):
+bajar el vídeo daba «Sign in to confirm you're not a bot».
+
+**`hojas/personajes_01.jpg`** (P·)
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Ai KV T1-2: guiño y micro | 2152×3044 | **Ai en directo**: guiño, micro, dedo a cámara → monitor del concepto B | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/e/e0/Season_1_Key_Visual_2.png) |
+| 2 | Ai KV T1: de espaldas | 2500×3535 | Ai de espaldas ante el público: portada, luz de escenario | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/5/5f/Season_1_Key_Visual.png) |
+| 3 | Ai señala (staff) | 1510×952 | Ai señalando a cámara (dibujo de animador): «¡mira aquí!» | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/d/dc/Idol_Ai_by_urkbil126.jpg) |
+| 4 | Ai render idol | 656×1584 | Ai de cuerpo entero, traje idol: recorte limpio | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/4/40/AiRender2.png) |
+| 5 | B-Komachi Newtype 2023-08 | 6080×4097 | **B小町 con el uniforme rojo**, Kana al centro con micro | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/2/27/Newtype_2023_08_Poster.jpg) |
+| 6 | B-Komachi KV T1-5 escenario | 2000×2828 | Las tres en el escenario con focos: fondo de #en-directo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/d/d3/Season_1_Key_Visual_5.png) |
+| 7 | Kana render uniforme | 1600×4057 | Kana de uniforme, cuerpo entero: recorte | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/e/ee/Kana_Arima_Anime.png) |
+| 8 | Kana boina, V (staff) | 2000×3000 | Kana con boina y «V»: saludar | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/b/b1/Kana_Ep6_by_bunyamadesu.jpg) |
+| 9 | Kana índice arriba (staff) | 1446×2048 | **Kana con el índice arriba**: explicar (concepto C) | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/f/f3/Kana_Episode_5_by_makitamikan.jpg) |
+| 10 | Kana señala (staff) | 1510×952 | **Kana señalando a cámara**: animar | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/0/00/Kana_Episode_11_by_urkbil126.jpg) |
+| 11 | Kana render POP IN 2 | 800×1479 | Kana traje «POP IN 2» (boina blanca, lunares): recorte | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/5/58/Kana_Arima_Anime-POP_IN_2.png) |
+| 12 | Kana BD vol. 4 | 1906×2382 | Kana sentada, sudadera: tono tranquilo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/a/ad/Volume_4_BD%26DVD.png) |
+| 13 | MEM BD vol. 6 | 1906×2382 | **MEM sentada con su nombre gigante detrás**: diseño de cabecera | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/f/f8/Volume_6_BD%26DVD.png) |
+| 14 | MEM verificada (Mengo) | 1804×2362 | **MEM con insignias de «verificada»** (Mengo): #redes | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/7/7a/MEMVerifiedbyMengo.jpg) |
+| 15 | MEM render POP IN 2 | 800×1479 | MEM traje «POP IN 2»: recorte | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/7/74/Mem-Cho_Anime-POP_IN_2.png) |
+| 16 | MEM render uniforme | 592×1712 | MEM de uniforme: recorte | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/b/b0/MemchoRender.png) |
+| 17 | Ruby idol, manos a cámara | 2000×2048 | Ruby con las dos manos a cámara y guiño: invitar | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/9/96/Idol_Ruby_by_pi_ro_ri.jpg) |
+| 18 | Ruby corazón (pose de Ai) | 1884×2048 | Ruby corazón con las manos: celebrar | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/9/98/Ruby_recreating_the_pose_of_Ai.png) |
+| 19 | Ruby render POP IN 2 | 800×1479 | Ruby traje «POP IN 2»: recorte | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/b/bf/Ruby_Hoshino_Anime-POP_IN_2.png) |
+| 20 | Ruby KV T3-4 plató | 1920×2715 | **Ruby en un plató con croma y cámaras**: #en-directo / #castings | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/b/b1/Season_3_Key_Visual_4.png) |
+| 21 | Akane ojos de estrella ep7 | 2560×1440 | Akane con estrellas en los ojos: actriz genio | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/2/2f/Ep_7_Akane_Captivating_Eyes.png) |
+| 22 | Akane render | 600×1550 | Akane cuerpo entero | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/63/Akane_Kurokawa_Anime.png) |
+| 23 | Aqua render | 600×1629 | Aqua cuerpo entero (uniforme) | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/d/d1/Aqua_Hoshino_Anime.png) |
+| 24 | Gotanda diseño | 472×1189 | **Gotanda**: pelo largo castaño, barba, chaqueta azul | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/3/3c/Taishi_Gotanda_Character_Design.png) |
+| 25 | Pieyon render | 472×1191 | Pieyon: cuerpo de culturista, cabeza de pollito | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/8/83/PieyonRender.png) |
+| 26 | Miyako render | 445×1263 | Miyako: pelo rosado, vestido granate y rebeca | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/4/4b/MiyakoRender.png) |
+| 27 | Akane imita a Ai (Mengo) | 1880×2074 | Akane imitando la «V» de Ai | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/7/7e/ActorAkanebyMengo.jpg) |
+
+**`hojas/objetos_01.jpg`** (O·)
+
+| N.º | Qué es | Tamaño | Para qué | Original |
+|---|---|---|---|---|
+| 1 | Cartón «hoy ON AIR» (Ai) | 1440×1080 | **Cartón oficial «hoy se estrena» con «ON AIR»**: modelo del concepto B | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/6b/%F0%9F%8C%9FToday%27s_broadcast_of_the_%F0%9F%8C%9F.png) |
+| 2 | Cartón «faltan 8 días» | 1440×1080 | Cartón «faltan 8 días»: pizarra blanca, firma, franja negra | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/4/49/%F0%9F%8C%9F_8_days_left_until_the_broadcast_%F0%9F%8C%9F.png) |
+| 3 | Cartón «faltan 3» (Kana) | 1440×1080 | Cartón «faltan 3 días» (Kana, firma de Megumi Han) | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/3/33/%F0%9F%8C%9F_3_days_left_until_the_broadcast_%F0%9F%8C%9F.png) |
+| 4 | Cartón «faltan 5» (MEM) | 1440×1080 | Cartón «faltan 5 días» (MEM) | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/5/51/%F0%9F%8C%9F_5_days_left_until_the_broadcast_%F0%9F%8C%9F.png) |
+| 5 | Pizarra MEM «entrevista en vivo» | 2048×1536 | **Pizarra de MEM «entrevista EN VIVO»**, a rotulador: #en-directo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/f/f8/%F0%9F%9A%A8The_TV_anime_that_will_be_live_just_before_the_emergency_%F0%9F%9A%A8.png) |
+| 6 | 100.820 suscriptores (MEM) | 1080×1885 | **MEM celebra 100.820 suscriptores** del canal oficial: #redes | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/4/47/%F0%9F%8C%9FOver_100%2C000_Subscribers_%F0%9F%8C%9F.png) |
+| 7 | 300.000 seguidores en X | 828×683 | 300.000 seguidores en X, con Ai: #redes | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/4/4c/%F0%9F%8C%9FOver_300%2C000_followers_%F0%9F%8C%9F.png) |
+| 8 | «Ep5 hoy ON AIR» (staff) | 1920×1082 | «Ep. 5, hoy ON AIR» a mano (animador): #en-directo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/b/b5/Akane_Ep5_by_naota0048.png) |
+| 9 | «Ep3 hoy ON AIR» (staff) | 1536×864 | «Ep. 3, hoy ON AIR» con Kana boceto: #en-directo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/c/c2/Kana_Episode_3_by_naota0048.png) |
+| 10 | Caja de diálogo IM@S: Kana | 1922×1079 | **Caja de diálogo de videojuego** (IDOLM@STER Shiny Colors) con Kana | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/2/28/Kana_x_IDOLM%40STER.jpg) |
+| 11 | Caja de diálogo IM@S: Ruby | 1915×1079 | Caja de diálogo del mismo juego con Ruby | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/f/fa/Ruby_x_IDOLM%40STER.jpg) |
+| 12 | Informe de doblaje (afureco) | 2000×1125 | **«Informe de doblaje»** con la actriz de Ruby en la cabina | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/2/21/%F0%9F%8E%99Post-recording_report_%F0%9F%8E%99.png) |
+| 13 | Periódico DAILY NEWS: Kana | 2897×4096 | **Periódico sensacionalista** sobre Kana: #redes-y-novedades | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/2/2f/DAILYNEWS_Extra.png) |
+| 14 | «Bicarbonato-chan» anuncio | 2897×4096 | Anuncio de «Bicarbonato-chan» (Kana): humor | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/6e/%22Baking_Soda-chan%22.png) |
+| 15 | Kana con el móvil ep11 | 1920×1080 | **Kana enseña el móvil** con un post: #redes | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/e/eb/Arima_Kana_Episode_11._2.jpg) |
+| 16 | Cuarto con aros de luz ep21 | 1920×1080 | Cuarto con dos aros de luz, micro y pantallas: set de directo | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/7/79/Ep_21_B-Komachi_do_a_tour_of_Kana%27s_room.png) |
+| 17 | Claqueta «Actors×Job» | 960×960 | Claqueta «Actors × Job»: #castings | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/64/Oshi_no_Ko_x_Taito_Toys_%28Actors_x_Job%29.png) |
+| 18 | Kana con guion (T2) | 1200×675 | **Kana con un guion en la mano**: #castings | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/7/7d/Episode_15_Teaser_4.png) |
+| 19 | Cartela ep11 «Idol» | 1920×1080 | **Cartela de episodio**: estrella negra sobre rombos rojos: marco de título | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/c/c3/Episode_11_Title_Card.png) |
+| 20 | Cartela ep5 | 1920×1080 | La misma cartela en cian | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/64/Episode_5_Title_Card.png) |
+| 21 | Cartela ep9 «B-Komachi» | 1920×1080 | La misma cartela en violeta | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/9/90/Episode_9_Title_Card.png) |
+| 22 | Cartela ep1: logo | 1920×1080 | Logo 【推しの子】 en blanco: medir la letra | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/6/63/Episode_1_Title_Card.png) |
+| 23 | Puerta «Ichigo Pro · Saitō» | 1920×1080 | **Placa «(株)苺プロ 斉藤» en la puerta**: sitio de #castings | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/8/83/Ichigo_Productions_Anime.png) |
+| 24 | Sala de ensayo Lalalai | 1920×1080 | Sala de ensayo de Lalalai: sitio de pruebas | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/0/04/Lala_Lai_Theatrical_Company_Anime.png) |
+| 25 | Instituto Yōtō | 1920×1080 | Instituto Yōtō por fuera | [enlace](https://static.wikia.nocookie.net/oshi_no_ko/images/9/9d/Youtou_High_Anime.png) |
+
+**`hojas/video_01.jpg`** (V·)
+
+| N.º | Qué es | Minuto · tamaño | Para qué | Enlace |
+|---|---|---|---|---|
+| 1 | OP T1 · ojo de Ruby | 0:03 · 320×180 | Estrella de seis puntas en el ojo | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=2) |
+| 2 | OP T1 · Ruby «shh» | 0:25 · 320×180 | **Ruby «shh»**, dedo en los labios, estrella: secreto, pedir silencio | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=25) |
+| 3 | OP T1 · buscador | 0:30 · 320×180 | Parodia de buscador «I'm feeling good»: #redes | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=30) |
+| 4 | OP T1 · MEM baila | 0:33 · 320×180 | **MEM bailando en una azotea**, brazos arriba: celebrar | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=33) |
+| 5 | OP T1 · Kana boina | 0:35 · 320×180 | Kana con boina, mano en la mejilla: pensar | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=35) |
+| 6 | OP T1 · Ai en escena | 0:57 · 320×180 | Ai con micro en escalera de luces rosa | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=56) |
+| 7 | OP T1 · logo | 1:16 · 320×180 | Logo: letra con remate (mincho), «の» rosa con estrella | [vídeo](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=76) |
+| 8 | ED T1 · Ruby magenta | 0:19 · 424×180 | Fondo plano magenta para Ruby | [vídeo](https://www.youtube.com/watch?v=0saw1cGIl1A&t=18) |
+| 9 | ED T1 · MEM amarillo | 0:25 · 424×180 | Fondo plano amarillo para MEM | [vídeo](https://www.youtube.com/watch?v=0saw1cGIl1A&t=24) |
+| 10 | ED T1 · Kana rojo | 0:27 · 424×180 | Fondo plano rojo para Kana | [vídeo](https://www.youtube.com/watch?v=0saw1cGIl1A&t=26) |
+| 11 | Tráiler · lente y Kana | 0:37 · 320×180 | **Lente de cámara con Kana dentro**: #castings | [vídeo](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=36) |
+| 12 | Tráiler · Akane y guion | 0:40 · 320×180 | **Akane leyendo un guion rojo**: #castings | [vídeo](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=40) |
+| 13 | Tráiler · directo de MEM | 0:44 · 320×180 | **Directo de MEM con marco de neón**: #redes / #en-directo | [vídeo](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=44) |
+| 14 | Tráiler · «ON AIR» | 1:01 · 320×180 | «4月12日(水) ON AIR» en mincho sobre blanco | [vídeo](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=61) |
+| 15 | Ep11 · escenario JIF | 0:03 · 320×180 | Escenario al aire libre, barras amarillas | [vídeo](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=2) |
+| 16 | Ep11 · MEM apunta | 0:07 · 320×180 | MEM apunta con los dos índices | [vídeo](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=6) |
+| 17 | Ep11 · Kana índice | 0:08 · 320×180 | Kana apunta arriba con guante rosa | [vídeo](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=7) |
+| 18 | Ep11 · las tres | 0:27 · 320×180 | Las tres en fila: pose de grupo | [vídeo](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=27) |
+| 19 | Cuarto MEM · rótulo | 0:05 · 320×180 | **Rótulo naranja «MEMちょだよー!»** en su directo | [vídeo](https://www.youtube.com/watch?v=TvIOIATbUYE&t=4) |
+| 20 | Cuarto MEM · mensaje | 1:29 · 320×180 | **Ventana blanca de mensaje de fan** («こんめむ〜♪») | [vídeo](https://www.youtube.com/watch?v=TvIOIATbUYE&t=88) |
+| 21 | Noticias · «NEWS» | 0:00 · 320×180 | Cartón rosa «Next Corner >>> NEWS» | [vídeo](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=0) |
+| 22 | Noticias · rótulo «Saishin» | 0:03 · 320×180 | **Rótulo de noticias: círculo rojo «最新» + franja blanca** | [vídeo](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=2) |
+| 23 | Noticias · barras conejo | 0:44 · 320×180 | **Carta de ajuste con conejos**: «estamos en pausa» | [vídeo](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=43) |
+| 24 | Noticias · uchiwa de fan | 0:15 · 320×180 | Uchiwa en corazón «アイ 無限恒久永遠推し!» | [vídeo](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=15) |
+| 25 | Ep9 · «Piman Taisou» | 0:00 · 320×180 | Cartela infantil de «Piman Taisou» | [vídeo](https://www.youtube.com/watch?v=BPvD-dfIiEs&t=0) |
+| 26 | Ep25 · Kana T3 | 0:19 · 320×180 | Kana con el traje de la T3 («Bのリベンジ») | [vídeo](https://www.youtube.com/watch?v=5B-ZPcq8KxQ&t=18) |
+
+**Otras joyas de los índices** (no caben en las hojas):
+- **Hojas de modelo oficiales** de Kana (trajes y caras,
+  [2048×1306](https://static.wikia.nocookie.net/oshi_no_ko/images/a/a7/Kana_Arima_Concept_Art.jpg)),
+  de Aqua y de Ai (índice personajes n.º 244, 246 y 558).
+- **Cartones de cuenta atrás** de todo el reparto (n.º 519-523, 604,
+  605): mismo diseño, cada uno con la firma de su seiyū.
+- **«MEMちょの【推しの子】NEWS»** y **«MEMちょの部屋»**: MEM-cho presenta
+  las novedades del anime en el canal oficial, como una streamer (§14).
+- **Colaboración real de *IDOLM@STER Shiny Colors*** (2023-2024):
+  tarjetas de Ruby, Kana, MEM y Akane (índice sitios n.º 191-192,
+  226-233, 372-374, 413-419).
+- **Juego real de escape (SCRAP)** «Escapa del escándalo tramado»:
+  Aqua con una revista, Ruby con el móvil, un portátil con el directo
+  de MEM (índice sitios n.º 214 y 340).
+- **«Good Oshi Day»** (4 de noviembre): 16 dibujos del staff, entre
+  ellos el director Daisuke Hiramaki y Kanna Hirayama (índice sitios
+  n.º 236-259).
+- **«47 prefecturas»**: un personaje por prefectura con su paisaje
+  (índice sitios n.º 77-104 y 282-302). Buenos fondos con personaje.
+
+### 3.1 · Imágenes de la primera pasada (bajadas de GitHub)
 Vienen de una extensión de navegador de fans que guarda 20 ilustraciones
 de B小町 en alta ([repositorio](https://github.com/jacobjuarezguerra/Oshi-No-Ko-Browser-extension-B-Komachi)).
 La extensión **no dice de dónde salen**. Se revisaron una a una:
 
 | N.º | Tamaño | Qué es | ¿Oficial? |
 |---|---|---|---|
-| `bg20` | 1920×1080 | Ruby, Kana y MEM con trajes de San Valentín, de cuerpo entero, fondo de regalos y corazones | ✅ **lleva el copyright del comité** «©赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会» |
-| `bg19` | 3840×2160 | Las tres con el uniforme rojo del festival, láseres y focos. Kana en el centro señalando a cámara | ⚠️ estilo del anime, sin firma |
+| `bg20` | 1920×1080 | Ruby, Kana y MEM de cuerpo entero, fondo de regalos y corazones. **Corrección:** no son «trajes de San Valentín»: son los **trajes de «POP IN 2»** (los mismos de los renders oficiales P·11, 15 y 19) | ✅ **lleva el copyright del comité** «©赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会» |
+| `bg19` | 3840×2160 | Las tres con el uniforme rojo del festival, láseres y focos. Kana en el centro señalando a cámara | ⚠️ estilo del anime, sin firma (el traje coincide con el del ep. 11, V·16-18) |
 | `bg12` | 4096×2257 | Kana con micro señalando arriba, Ruby con la lengua fuera, MEM con cara «:3» y **Akane** de uniforme escolar detrás | ⚠️ estilo oficial, sin firma |
 | `bg11` | 4096×2244 | Primer plano de Kana con texto «推しの子#11 よろしくお願い致します» | ⚠️ parece dibujo de staff para el episodio 11 |
 | `bg4` | 4096×2883 | San Valentín: las tres tumbadas entre bombones | ⚠️ 4kwallpapers tiene uno de B小町 del mismo tamaño ([enlace](https://4kwallpapers.com/anime/oshi-no-ko-b-25258.html)) |
@@ -187,11 +332,15 @@ Enlace directo a cada una:
 **Ai en el escenario** (key visual con micro, guiño y dedo apuntando a
 cámara, 2152×3044), guardada en un proyecto de fans de una cinta de
 casete 3D ([imagen](https://raw.githubusercontent.com/TheFabi8A/oshi-no-ko/HEAD/public/front-page/oshi-no-ko.webp),
-[proyecto](https://github.com/TheFabi8A/oshi-no-ko)). Estilo del anime,
-sin copyright visible ⚠️. En el mismo repositorio hay un fan art de Ai
+[proyecto](https://github.com/TheFabi8A/oshi-no-ko)). **Segunda pasada:
+es oficial ✅**, el *Season 1 Key Visual 2* de la wiki, mismo tamaño
+(P·1, [original](https://static.wikia.nocookie.net/oshi_no_ko/images/e/e0/Season_1_Key_Visual_2.png)). En el mismo repositorio hay un fan art de Ai
 firmado y su autógrafo (`back-page/ai.webp`, `firma.webp`).
 
-### 3.2 · Arte oficial localizado (sin poder abrirlo)
+### 3.2 · Arte oficial localizado en la primera pasada
+En la segunda pasada casi todo esto está en la wiki: los visuales de la
+T3 (*Season 3 Key Visual* 2-9, 1920×2715), las carátulas de los BD
+(*Volume 1-6 BD&DVD*, 1906×2382; P·12 y P·13) y los pósteres (§3.0).
 - **Web oficial, temporada 3**: nuevas ilustraciones de personajes
   ([noticia](https://ichigoproduction.com/Season3/news/index00540000.html)),
   **visual principal con Aqua y Ruby espalda con espalda** y PV 1
@@ -265,36 +414,84 @@ no el doblaje latino.
 | 11 | 06:19 | Ruby anuncia la canción: «¡Sign wa B!» | «“サインはB”！» | #en-directo |
 | 11 | 07:41–07:49 | **Kana ve a Aqua con la barra blanca**: «¡Voy a teñir tu barra de blanco! ¡Seré tu *oshi no ko*!» | «あんたのサイリウムを真っ白に染め上げてやる！」「あんたの推しの子になってやる！» | **la escena de Kana más querida** |
 
-**Temporada 3** (sin subtítulos en GitHub, **minuto sin verificar**):
-episodio 29 «Casting» y episodio 34 «Audición» (la prueba para hacer de
-Ai en la película *La mentira de 15 años*, donde Gotanda elige a Ruby
-frente a Akane y Frill) ([wiki](https://oshinoko.fandom.com/wiki/Episode_34),
-[Oricon](https://us.oricon-group.com/news/8027/)).
+**Temporada 3** (sin subtítulos en GitHub, **minuto sin verificar** ⚠️).
+**Corregido en la segunda pasada** (texto de la wiki por su API):
+- El **ep. 29** no se llama «Casting»: es **«営業» (*Eigyō*, «Marketing»)**,
+  emitido el 11-feb-2026 ([wiki](https://oshinoko.fandom.com/wiki/Episode_29)).
+- El **ep. 34** es **«個人間オーディション» («Audición entre ellas»;
+  en el canal oficial, *Private Audition*)**, 18-mar-2026. No es Gotanda
+  quien elige: **Ruby, Akane y Frill se prueban entre ellas** hasta la
+  noche por el papel de Ai en *La mentira de 15 años*, y Ruby gana. Es
+  un episodio oscuro (Ruby habla de morir): **no usar** en la lámina
+  ([wiki](https://oshinoko.fandom.com/wiki/Episode_34),
+  [avance oficial](https://www.youtube.com/watch?v=POxdm79d23c),
+  [epílogo oficial](https://www.youtube.com/watch?v=PYhvvBwIhIo)).
+
+### 4.1 · Minutos comprobados en clips oficiales (segunda pasada) ✅
+Miré estos vídeos del canal oficial por sus *storyboards* (±1 s). Los
+números V· son de `hojas/video_01.jpg`.
+
+| Vídeo | Minuto | Qué se ve | Sirve para |
+|---|---|---|---|
+| [Opening T1, «Idol»](https://www.youtube.com/watch?v=PgBvV9ofjmA) | [0:01-0:04](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=1) | ojos de Aqua, Ruby y Kana; estrella de **seis** puntas (V·1) | detalle |
+| ídem | [0:25-0:27](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=25) | **Ruby, dedo en los labios, sonrisa pícara**, fondo de puntos LED (V·2) | pose «shh» |
+| ídem | [0:30-0:31](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=30) | **buscador tipo Google «I'm feeling good»** (V·3) | #redes |
+| ídem | [0:32-0:33](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=32) | **MEM baila en una azotea**, jersey turquesa, brazos arriba (V·4) | celebrar |
+| ídem | [0:35-0:37](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=35) | Kana con boina, mano en la mejilla; luego en una puerta (V·5) | pensar |
+| ídem | [0:51](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=51) | pancarta de fan «アイ無限恒久永遠推し!!» | fans |
+| ídem | [0:57-0:58](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=57) | **Ai canta en una escalera de luces rosa** (V·6) | #en-directo |
+| ídem | [1:10](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=70) | matrícula «45510»: la **contraseña del blog de B小町** en el relato «45510» de Akasaka que inspiró «Idol» ([wiki](https://oshinoko.fandom.com/wiki/45510)) | guiño de fan, #redes |
+| ídem | [1:16-1:22](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=76) | **logo**: negro sobre blanco y blanco sobre azul `#22215A` (V·7) | tipografía |
+| [Ending T1, «Mephisto»](https://www.youtube.com/watch?v=0saw1cGIl1A) | [0:18-0:27](https://www.youtube.com/watch?v=0saw1cGIl1A&t=18) | cada personaje sobre **su color plano**: Aqua azul, Ruby magenta, Akane violeta, MEM amarillo, Kana rojo (V·8-10) | paleta |
+| ídem | [0:01-0:08](https://www.youtube.com/watch?v=0saw1cGIl1A&t=1) | conejo de peluche colgado de hilos, bajo un foco | tono oscuro: **no** |
+| [Tráiler principal 2 (T1)](https://www.youtube.com/watch?v=gKWEUJ4r5do) | [0:36-0:37](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=36) | **objetivo de una cámara con Kana dentro** (V·11) | #castings |
+| ídem | [0:40](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=40) | **Akane lee un guion rojo** (V·12) | #castings |
+| ídem | [0:44-0:45](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=44) | **MEM en directo con un marco de neón** cian y amarillo, sofá, osito (V·13) | #redes |
+| ídem | [1:01-1:04](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=61) | «4月12日(水) ON AIR» en mincho negro sobre blanco (V·14) | #en-directo |
+| [«STAR☆T☆RAIN», ep. 11](https://www.youtube.com/watch?v=S-UmqvA7uR8) | [0:03-0:05](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=3) | escenario al aire libre con torres de focos y un mar de **barras amarillas** (V·15) | #en-directo |
+| ídem | [0:07-0:09](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=7) | **MEM apunta con las manos en «pistola»; Kana, los dos índices junto a la cara; Ruby, el brazo arriba** (V·16-17) | animar |
+| ídem | [0:26-0:27](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=26) | las tres en fila, cada una con su gesto (V·18) | presentar |
+| ídem | [1:20](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=80) | **Ai aparece sobre Ruby**, brazo arriba | emoción |
+| [«Piman Taisou», ep. 9](https://www.youtube.com/watch?v=BPvD-dfIiEs) | [0:00-0:02](https://www.youtube.com/watch?v=BPvD-dfIiEs&t=0) | cartela infantil verde y amarilla; Kana niña entre dos pimientos (V·25) | humor |
+| [«Bのリベンジ», ep. 25](https://www.youtube.com/watch?v=5B-ZPcq8KxQ) | [0:19-0:20](https://www.youtube.com/watch?v=5B-ZPcq8KxQ&t=19) | Kana T3 con moños y lazos rojos (V·26) | vestuario T3 |
+| [«MEMちょの部屋» #37](https://www.youtube.com/watch?v=TvIOIATbUYE) | [0:05](https://www.youtube.com/watch?v=TvIOIATbUYE&t=5) · [1:29-2:13](https://www.youtube.com/watch?v=TvIOIATbUYE&t=89) | **MEM hace directo**: rótulo naranja «MEMちょだよー!» y **ventana blanca con el mensaje de un fan** (V·19-20) | **#redes** |
+| [«最新NEWS», canal oficial](https://www.youtube.com/watch?v=VjyCYUdmlnc) | [0:00-0:06](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=0) | **noticiero dentro de la serie**: cartón «NEWS» y rótulo **«最新»** (V·21-22) | **#redes-y-novedades** |
+| ídem | [0:44](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=44) | **carta de ajuste con conejos** (V·23) | #en-directo |
 
 ---
 ## 5 · 3D y fan art (sólo como referencia o con su licencia)
 
 ### 5.1 · Objetos 3D para Blender (Sketchfab y Poly Haven)
-La licencia sale del resultado de búsqueda. **Sketchfab no se pudo abrir**:
-hay que confirmar la licencia en la página antes de usar cada modelo ⚠️.
+**Segunda pasada:** licencias **comprobadas por la API de Sketchfab**
+(`api.sketchfab.com/v3/models/<uid>`) ✅. **Corrección:** los dos modelos
+de *plaggy* se llaman «CC0 - …» pero en Sketchfab están publicados con
+**CC Attribution** (CC BY 4.0): hay que dar crédito.
 
-| Objeto | Modelo | Licencia (según búsqueda) | Para qué |
+| Objeto | Modelo | Licencia (API) | Para qué |
 |---|---|---|---|
-| Letrero **ON AIR** | [On Air Sign, de aricshow](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156) | CC Attribution ⚠️ | **Concepto B** |
-| Caja de luz | [Light box, de .after moon.](https://sketchfab.com/3d-models/light-box-f0dbe7d7a8854e44b672f515667c8ff2) | CC Attribution ⚠️ | alternativa al ON AIR |
-| Neón | [CC0 Neon Sign Open, de plaggy](https://sketchfab.com/3d-models/cc0-neon-sign-open-9a924db296cf4a1eb12991702ab48da5) | CC0 (lo dice el título) | letrero de fondo |
-| **Claqueta** | [CC0 Clapperboard, de plaggy](https://sketchfab.com/3d-models/cc0-clapperboard-b541acf3a4f040f98b1bbf4137a66d09) | CC0 (lo dice el título) | **Concepto C** |
-| Claqueta | [Film Clapperboard, de Quince Creative](https://sketchfab.com/3d-models/film-clapperboard-free-3d-model-c5c798aa23024b868f7653229911b915) | gratis ⚠️ | alternativa |
-| **Portapapeles** | [Clipboard, de Cookie](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738) | gratis ⚠️ | **Concepto C** (la hoja) |
-| **Barra de luz** | [Glow Stick, de scbenoit](https://sketchfab.com/3d-models/glow-stick-e287b5f03d6d404198b7ed8c4cd91bc7) | gratis ⚠️ (hecha en Blender) | conceptos A y B |
-| Barra de luz | [Glowstick, de Rofnay](https://sketchfab.com/3d-models/glowstick-cbc7f31c658247219c32b083183513e5) | gratis ⚠️ | alternativa |
-| **Aro de luz** | [Ring Light, de Mehdi Shahsavan](https://sketchfab.com/3d-models/ring-light-fe2d9eda3939484ea10c3ebc4887c28a) | gratis ⚠️ | **Concepto A** |
+| Letrero **ON AIR** | [On Air Sign, de aricshow](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156) | CC BY ✅ | **Concepto B** |
+| Caja de luz | [Light box, de .after moon.](https://sketchfab.com/3d-models/light-box-f0dbe7d7a8854e44b672f515667c8ff2) | CC BY ✅ | alternativa al ON AIR |
+| Neón | [CC0 - Neon Sign Open, de plaggy](https://sketchfab.com/3d-models/cc0-neon-sign-open-9a924db296cf4a1eb12991702ab48da5) | **CC BY** ✅ (no CC0) | letrero de fondo |
+| **Claqueta** | [CC0 - Clapperboard, de plaggy](https://sketchfab.com/3d-models/cc0-clapperboard-b541acf3a4f040f98b1bbf4137a66d09) | **CC BY** ✅ (no CC0) | **Concepto C** |
+| Claqueta | [Film Clapperboard, de Quince Creative](https://sketchfab.com/3d-models/film-clapperboard-free-3d-model-c5c798aa23024b868f7653229911b915) | CC BY ✅ | alternativa |
+| **Portapapeles** | [Clipboard, de Cookie](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738) | CC BY ✅ | **Concepto C** (la hoja) |
+| **Barra de luz** | [Glow Stick, de scbenoit](https://sketchfab.com/3d-models/glow-stick-e287b5f03d6d404198b7ed8c4cd91bc7) | CC BY ✅ | conceptos A y B |
+| Barra de luz | [Glowstick, de Rofnay](https://sketchfab.com/3d-models/glowstick-cbc7f31c658247219c32b083183513e5) | CC BY ✅ | alternativa |
+| **Aro de luz** | [Ring Light, de Mehdi Shahsavan](https://sketchfab.com/3d-models/ring-light-fe2d9eda3939484ea10c3ebc4887c28a) | CC BY ✅ | **Concepto A** |
+| **Silla gamer** (la de MEM es rosa) | [Gaming Chair, de Kiiba](https://sketchfab.com/3d-models/gaming-chair-ccb3ada5917a4b90b689e1d1bf852dc2) | CC BY ✅ (nuevo) | **Concepto A** |
+| **Uchiwa** (abanico de fan) | [Japanese Uchiwa Hand Fan 02, de HQ3DMOD](https://sketchfab.com/3d-models/japanese-uchiwa-hand-fan-02-be561cd8b01b49c482a4b26a8ec20bf0) | CC BY ✅ (nuevo) | primer plano de B |
+| Focos de escenario | [STAGE LIGHTS, de Maxime GUINARD](https://sketchfab.com/3d-models/stage-lights-373fdaaa7fd94665b421c3a344cfbff5) | CC BY ✅ (nuevo) | concepto B |
+| Torre de focos | [Square Truss Straight Segment 21, de akerStudio](https://sketchfab.com/3d-models/square-truss-straight-segment-21-f43719b6267645a587a9d3959b5f2d2b) | CC BY ✅ (nuevo) | escenario del ep. 11 (V·15) |
+| Silla de director | [Director's Chair, de creativejenna](https://sketchfab.com/3d-models/directors-chair-d664c3ed7e1d48f5a0c0ad7f6581477b) | CC BY ✅ (nuevo) | fondo de C |
+| Micro de mano | [Hand Mic 3d low poly, de abdurrazzak3441](https://sketchfab.com/3d-models/hand-mic-3d-low-poly-model-693fc3c678204b7892ce135d3a697869) | CC BY ✅ (nuevo) | Ruby en B |
 | Papel | [Poly Haven, Paper & Card](https://polyhaven.com/textures/paper-card) | **CC0** | la hoja de audición |
 | Metal pintado | [Poly Haven, Painted Metal Shutter](https://polyhaven.com/a/painted_metal_shutter) | **CC0** | pasillo del plató |
 | Caja de cartón | [Poly Haven, Cardboard Box 01](https://polyhaven.com/a/cardboard_box_01) | **CC0** | trastienda del plató |
 
-**Crédito exacto** para un modelo CC BY: «"On Air Sign" de aricshow,
-Sketchfab, licencia CC BY 4.0» (comprobar la versión en la página).
+**Crédito exacto** para un modelo CC BY: «"On Air Sign" by aricshow
+(sketchfab.com/aricshow), CC BY 4.0». Igual con cada uno: nombre del
+modelo, autor, Sketchfab, CC BY 4.0. Los enlaces son los `viewerUrl` que da
+la API.
 
 **Modelos de personajes** (sólo para mirar volúmenes, **nunca** para la
 lámina: son personajes con copyright):
@@ -311,11 +508,18 @@ abre en 3D con capas (Atropos.js), de TheFabi8A
 Buena idea de objeto con capas, pero es de fans.
 
 ### 5.2 · Fan art (enlace y autor; nunca para pegar)
-El autor no se pudo leer (Pixiv bloqueado) ⚠️.
-- Kana, «あんたの推しの子になってやる！» ([pixiv 109531606](https://www.pixiv.net/en/artworks/109531606)).
-- Kana con traje de B小町, 2-ago-2023 ([pixiv 110449082](https://www.pixiv.net/en/artworks/110449082)).
-- Kana, «天才子役» ([pixiv 120384765](https://www.pixiv.net/en/artworks/120384765)).
-- Kana dibujada con ratón, «あ…あげる！» ([pixiv 122364606](https://www.pixiv.net/en/artworks/122364606)).
+**Segunda pasada:** autor, tamaño y fecha leídos de la API de Pixiv
+(`pixiv.net/ajax/illust/<id>`) ✅.
+- Kana, «あんたの推しの子になってやる！», de **62KI**, 4093×2774,
+  2-jul-2023, 1358 favoritos ([pixiv 109531606](https://www.pixiv.net/en/artworks/109531606)).
+- Kana, de **むぎ (Mugi)**, 2400×3000, 1-ago-2023 ([pixiv 110449082](https://www.pixiv.net/en/artworks/110449082)).
+- Kana, de **Nia (ニア)**, 2560×2560, 9-jul-2024 ([pixiv 120384765](https://www.pixiv.net/en/artworks/120384765)).
+- Kana, «あ...あげる！», de **ややちゃん**, 3188×3560, 12-sep-2024,
+  1145 favoritos ([pixiv 122364606](https://www.pixiv.net/en/artworks/122364606)).
+- **MEM en directo**: «『こんめむー、今日も来てくれてありがとー！』»
+  («¡Kon-memu! Gracias por venir hoy también»), de **ﾘﾝｺ (Rinko)**,
+  1337×1863, 25-nov-2023 ([pixiv 113692523](https://www.pixiv.net/en/artworks/113692523)).
+  Prueba de que los fans reconocen el saludo «こんめむ» (§8).
 - Ficha de B小町 en la enciclopedia de Pixiv ([dic.pixiv](https://dic.pixiv.net/a/B%E5%B0%8F%E7%94%BA)).
 - Fondos 4K: [Ai, 4kwallpapers](https://4kwallpapers.com/anime/ai-hoshino-oshi-no-16193.html),
   [B小町, 4kwallpapers](https://4kwallpapers.com/anime/oshi-no-ko-b-25258.html) (4096×2883),
@@ -335,6 +539,13 @@ El autor no se pudo leer (Pixiv bloqueado) ⚠️.
 | **Instituto Yōtō, sección de espectáculos** | ep. 2–4 | día, pasillos claros | secundario |
 | **Shibuya: Starbucks del TSUTAYA, 2.ª planta** (donde reclutan a Ai) | ep. 1 | día | secundario ([聖地巡礼.com](https://anime-pilgrimage.com/oshi-no-ko/)) |
 | **Takachiho (Miyazaki)**: hospital de Goro y santuario Aradate, **dios de las artes escénicas** | ep. 1, final de T2 | bosque, niebla, luz de tarde | no para estas láminas ([ciatr](https://ciatr.jp/topics/324247), [たかちほまびぃ](https://takachiho.online/archives/19611)) |
+| **Pasillo de Ichigo Pro con la placa «(株)苺プロ 斉藤»** (con una fresa) | anime (O·23, 1920×1080) | puerta azul noche `#121A25`, placa gris cálido `#CFC7C0` con letras `#7D6564`, luz fría de pasillo | **#castings** (la puerta de la agencia) ✅ |
+| **El cuarto de directo de MEM** (canal oficial) | «MEMちょの部屋» (V·19-20) | añil `#2A0F6E` y violeta `#9F4AC1`, luna amarilla, neón cian arriba, silla gamer rosa, peluches de B小町 | **#redes** ✅ |
+| **Plató de noticias** dentro de la serie | «最新NEWS» (V·22) | fondo celeste `#A4D9D3` con franjas blancas, presentador de traje | **#redes-y-novedades** ✅ |
+| **Cuarto con dos aros de luz, micro de brazo y dos pantallas** | T2, ep. 21 (O·16) | interior de día, luz blanca de aro | #en-directo ✅ |
+| **Sala de ensayo de Lalalai** | T2 (O·24) | nave grande, luz blanca | #castings ✅ |
+| **Instituto Yōtō** por fuera | T1-T2 (O·25) | día claro, edificio beige | secundario ✅ |
+| **Escenario al aire libre del Japan Idol Festival** | ep. 11 (V·15) | noche azul `#1E2F7D`→`#465EB9`, torres de focos, ciudad detrás, mar de barras amarillas | #en-directo ✅ |
 
 ### 6.2 · Paleta medida
 Medida con Pillow (mediana de cada zona, **±10 por canal** porque las
@@ -364,7 +575,37 @@ blanco, MEM-cho amarillo** ✅ (ep. 11, 03:34–03:53: «el rojo destaca»,
 «si da igual, blanco»; y [ciatr](https://ciatr.jp/topics/324070) /
 [manganasekai](https://manganasekai.com/bcomachi/)). Hay vasos oficiales
 con el «color de cada una» en Lawson ([Lawson](https://www.lawson.co.jp/lab/entertainment/art/20241008_bookoshinoko.html)).
-El color de Ai: no lo encontré ⚠️.
+**Segunda pasada:** lo confirman los nombres de las cartas oficiales de
+*IDOLM@STER Shiny Colors*: «**In Red** Ruby», «**In White** Kana»,
+«**In Yellow** MEMCho» (índice sitios n.º 226-231) ✅.
+El color de Ai: sigue sin encontrarse ⚠️ (busqué «image color»,
+«member color», «penlight» y «glow stick» en el texto de la wiki y en la
+ficha de B-Komachi; ninguna le asigna color).
+
+**Colores medidos en la segunda pasada** (Pillow; en *storyboards* de
+320 px, ±10 por canal; en archivos de la wiki, mediana por cuantización):
+
+| Qué | Hex | Dónde |
+|---|---|---|
+| Cartela de episodio: rombos rojo-rosa · blanco · negro | `#E74D64` · `#F8F8F8` · `#10110E` | O·19 (1920×1080) |
+| Cartela: variante cian · variante violeta | `#00AFCA` · `#9867A5` | O·20, O·21 |
+| Fondo azul del logo en el opening | `#22215A` (±`#282762`) | V·7 |
+| Fondos planos del ending: Aqua · Ruby · Akane · MEM · Kana | `#347DBA` · `#B5408B` · `#4A308E` · `#C9B33D` · `#A31D3A` | V·8-10 (ED 0:18-0:27) |
+| Cuarto de MEM: pared añil · luz violeta · blanco del mensaje · cabecera lila | `#2A0F6E`/`#411B6D` · `#9F4AC1` · `#FFFFFF` · `#9E81C3` | V·19-20 |
+| Rótulo de MEM: relleno naranja · borde crema · borde exterior morado | `#DCAC64` · `#FFF3CE` · `#A0628B` | V·19 |
+| Noticiero: cartón «NEWS» rosa · rojo del rótulo «最新» | `#D87FB9` · `#AC3065` (círculo) | V·21-22 |
+| Pelo de **Kana** (render oficial, sin luz de escenario) | `#83132C`, sombra `#58182E`; boina azul marino | P·7 |
+| Pelo de **MEM** (render) | miel `#E2A144`, sombra `#C08445`, puntas `#E5B266` | P·16 |
+| Pelo de **Ruby** (render) | rubio `#EAC189`/`#D8B682`, mechas rosa | P·19 |
+| Pelo de **Akane** (render) | azul pizarra `#4B4970`/`#50557A`, puntas verdosas | P·22 |
+| Pelo de **Ai** (render) | índigo `#31266A`/`#452872`, sombra `#211C52`, mecha rosa `#AF7794` | P·4 |
+| Traje idol de Ai (render) | carmesí `#D32650`, lazo `#441544`, blanco `#EFDEE7` | P·4 |
+| Pelo de **Gotanda** · su chaqueta | castaño `#794B56`/`#543541` · azul noche `#2E3150` | P·24 |
+
+**Ojo con los tonos:** bajo los focos (bg19, ep. 11) el pelo de Kana
+sale rojo vivo (`#E2102F`) y el de MEM, limón (`#FEE63E`); en los
+renders oficiales, sin luz de escenario, **Kana es carmesí oscuro y MEM
+es rubio miel**. Para una lámina de día, usar los del render.
 
 ### 6.3 · Luz de la serie
 - El director de fotografía **Takafumi Kuwano** propuso que **las
@@ -389,9 +630,23 @@ El color de Ai: no lo encontré ⚠️.
 ## 7 · Tipografía (y si trae tildes, ñ, ¿ y ¡)
 
 **El logo** es **【推しの子】**: el título va **dentro de corchetes
-lenticulares 【 】**, en japonés, gótica muy gruesa
-([Wikipedia, archivo del logo](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Oshi_no_Ko_logo.svg)).
-**No encontré el nombre de la letra oficial** ⚠️. Hay una guía japonesa
+lenticulares 【 】** ([Wikipedia, archivo del logo](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Oshi_no_Ko_logo.svg)).
+
+> [!warning] Corregido en la segunda pasada
+> Antes decía «gótica muy gruesa». **No es gótica: es una mincho**
+> (letra con remates, trazo grueso y fino, puntas de pincel). Lo vi en
+> la cartela del ep. 1 (O·22, 1920×1080) y en el opening (V·7,
+> [1:16](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=76)). Detalles
+> medidos con Pillow en la cartela:
+> - Letras en **negro puro `#000000`**; sobre azul `#22215A`, en blanco.
+> - La **«の» va en magenta `#E70082`** y lleva dentro, en blanco, una
+>   **estrella de seis puntas** (el ojo de la serie).
+> - Cada corchete 【 】 lleva **una raya fina vertical por fuera**.
+> - En los rótulos del tráiler, la misma mincho, pequeña, gris, con la
+>   palabra clave en rosa («アイドル»), y «ON AIR» en mincho latina
+>   ([tráiler, 1:01](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=61)).
+
+**El nombre de la letra oficial sigue sin aparecer** ⚠️. Hay una guía japonesa
 de letras que combinan con la serie ([DesignPocket #093](https://designpocket.jp/static/font/fontguide/093.html))
 y una letra gratis hecha por fans, «推しゴ», pensada para abanicos y
 carteles de idol ([ffont](https://ffont.jp/oshigo/), [BOOTH](https://booth.pm/ja/items/5635169));
@@ -404,7 +659,7 @@ Todas son **OFL** (libres).
 
 | Letra | á é í ó ú ñ ¿ ¡ | 【 】 | ★ ☆ | Uso |
 |---|---|---|---|---|
-| **Dela Gothic One** | ✅ | ✅ | ✅ | títulos con corchetes, estilo logo |
+| **Dela Gothic One** | ✅ | ✅ | ✅ | títulos gruesos con corchetes (**no** es la del logo: ver arriba) |
 | **M PLUS Rounded 1c** ExtraBold | ✅ | ✅ | ✅ | pantalla del móvil, texto amable |
 | **Zen Maru Gothic** Bold | ✅ | ✅ | ✅ | cuerpo de texto redondo |
 | **Mochiy Pop One** | ✅ | ✅ | ❌ (sí ♡) | letra de idol, pop |
@@ -416,6 +671,17 @@ Todas son **OFL** (libres).
 | **Bebas Neue** | ✅ | ❌ | ❌ | **ON AIR** (sólo mayúsculas latinas) |
 | **Courier Prime** | ✅ | ❌ | ❌ | guion, sello de fecha |
 | **Montserrat** ExtraBold | ✅ (latin) | — | — | textos largos en español |
+| **Shippori Mincho B1** ExtraBold | ✅ | ✅ | ✅ | **la más parecida al logo** (mincho) · nueva |
+| **Zen Old Mincho** Black | ✅ | ✅ | ✅ | títulos estilo logo, más negra · nueva |
+| **Noto Serif JP** Black | ✅ | ✅ | ✅ | mincho de reserva, muchos pesos · nueva |
+| **M PLUS Rounded 1c** Black | ✅ | ✅ | ✅ | **rótulo naranja de MEM** y «第X話» de las cartelas · nueva |
+| **Noto Sans JP** Black | ✅ | ✅ | ✅ | **rótulo de noticias «最新»** · nueva |
+| **Kaisei Decol** Bold | ✅ | ✅ | ✅ | alternativa redondeada con remate · nueva |
+| **Playfair Display** Italic | ✅ | ❌ | ❌ | el cartón **«NEWS»** en cursiva con remate (V·21) · nueva |
+
+(Las «nueva» se comprobaron en la segunda pasada con fontTools, sobre
+los .ttf de `google/fonts`: `á é í ó ú ñ Ñ ¿ ¡ 【 】 ★ ☆ ♡ ♪` y los
+kanji 最 新 推.)
 
 **Letra de los globos del manga:** no encontré cuál usa Yen Press ni
 Panini ⚠️ ([Yen Press](https://yenpress.com/series/oshi-no-ko)).
@@ -451,15 +717,72 @@ y la **pantalla**: todo es actuación y todo pasa por un dispositivo.
    Come on! Come on!» (ep. 11, 04:15). Mayúsculas y signos de
    exclamación, como en un concierto de idols.
 
-**El cuadro propio de cada lámina:**
-- **#redes:** una **tarjeta de post** con avatar redondo, nombre «MEM»
-  y detalles amarillos `#FEE63E`, en M PLUS Rounded 1c.
-- **#en-directo:** un **rótulo de TV (telop)**: texto blanco grueso
-  con borde de color, dentro de 【 】, en RocknRoll One, y las
-  **cartulinas del regidor (カンペ)** escritas a rotulador (objeto
-  real de la tele japonesa; no comprobé que salga en la serie ⚠️).
-- **#castings:** **notas a mano en la hoja de audición** (Hachi Maru
-  Pop) y un **sello rojo** de «ABIERTO» o «CERRADO».
+### 8.1 · Lo que encontré en la segunda pasada (visto, con minuto) ✅
+6. **Las cartelas de episodio** (O·19-21, 1920×1080): una **estrella
+   negra grande de cinco puntas, con las esquinas redondeadas**, en el
+   centro; arriba «第十一話» en letra redonda gruesa rosa `#E74D64`,
+   una fila de estrellitas blancas y el título en blanco. Detrás, un
+   **damero de rombos** (rojo-rosa y blanco en el ep. 11, cian en el 5,
+   violeta en el 9), manchas negras y puntos blancos. **Es el marco de
+   título más propio de la serie.**
+7. **El directo de MEM** («MEMちょの部屋», canal oficial,
+   [0:05](https://www.youtube.com/watch?v=TvIOIATbUYE&t=5) y
+   [1:29](https://www.youtube.com/watch?v=TvIOIATbUYE&t=89); V·19-20):
+   - lo que dice MEM va en un **rótulo naranja `#DCAC64` con doble
+     borde crema y morado**, abajo: «MEMちょだよー!» («¡Soy MEM-cho!»);
+   - lo que escriben los fans va en una **ventana blanca con cabecera
+     lila `#9E81C3`** («MEMber: サンデーエレファント»), sombra rosa y un
+     piquito abajo a la derecha, como un globo de chat;
+   - el saludo del canal es **«こんめむ〜♪»** (*kon-memu*, «hola» a lo
+     MEM) y el «buen trabajo», **«おつめむー!»** (*otsu-memu*); los dos
+     salen en los mensajes de fans que ella lee (1:29 y 2:28). A sus
+     fans los llama **«MEMber»** ✅ (vídeo oficial + fan art de Pixiv
+     que usa el saludo, §5.2).
+8. **El noticiero de la serie** («最新NEWS», canal oficial,
+   [0:00-0:06](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=0); V·21-22):
+   cartón rosa `#D87FB9` «Next Corner >>> **NEWS**» en cursiva con
+   remate, y el **rótulo de noticia**: círculo rojo con «**最新**»
+   («lo último») + franja blanca con el titular en gótica negra y una
+   raya roja debajo. **Es el cuadro natural de #redes-y-novedades.**
+9. **Los cartones oficiales de cuenta atrás** (O·1-4, 1440×1080): fondo
+   magenta con destellos, esquina negra con «あと8日» («faltan 8 días»)
+   o «本日放送» («hoy»), una **cartulina blanca escrita a rotulador y
+   firmada por el seiyū**, el chibi del personaje y una **franja negra
+   abajo: «【推しの子】4.12水 ONAIR»** con el papel y el nombre. **Es el
+   «ON AIR» de la propia serie.**
+10. **«本日ON AIR» a mano**: los animadores subían dibujos con «推しの子
+    5話 本日ON AIR» («hoy se emite el ep. 5») escrito a lápiz (O·8-9).
+11. **La pizarra de MEM** en un atril: «MEMちょの AJステージ直前 突撃"生"
+    インタビュー!» («¡entrevista *en vivo* de MEM antes del escenario de
+    AnimeJapan!»), a rotulador negro con estrellitas (O·5). **Es la
+    cartulina de directo que buscaba la primera pasada** (ya no hace
+    falta inventar la カンペ).
+12. **La carta de ajuste con conejos** (V·23,
+    [0:44](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=44)): barras de
+    colores con cabezas de conejo blancas y negras (el conejo es el
+    peluche de Ai). Para «volvemos enseguida».
+13. **Hitos del canal** (O·6-7): tarjeta «TVアニメ【推しの子】公式チャンネル
+    **100,820** チャンネル登録者数» con MEM celebrando, y la captura del X
+    oficial con **300.000** seguidores y Ai guiñando.
+
+**Estrellas:** en los **ojos**, seis puntas; en las **cartelas y la
+decoración**, cinco puntas (redondeadas). No mezclar: nada de estrella
+de cinco en un ojo.
+
+**El cuadro propio de cada lámina (actualizado):**
+- **#redes-y-novedades:** el **rótulo de noticia «最新»** (círculo rojo +
+  franja blanca) para el titular, y la **ventana de mensaje del directo
+  de MEM** (blanca, cabecera lila) para los pasos. Letra: Noto Sans JP
+  Black (rótulo) y M PLUS Rounded 1c (ventana). La frase de MEM, en su
+  **rótulo naranja** (M PLUS Rounded 1c Black).
+- **#en-directo:** el **cartón de cuenta atrás**: cartulina blanca
+  escrita a mano (Hachi Maru Pop) sobre magenta con destellos y la
+  **franja negra «ON AIR»** abajo (Shippori Mincho B1 para 【推しの子】,
+  Bebas Neue para ON AIR). El letrero ON AIR físico sigue valiendo.
+- **#castings:** la **cartela de estrella negra sobre rombos** para el
+  título, y la **ficha de talento de Ichigo Pro** (como las de la web
+  oficial: nombre, estatura, «活動実績» = «trabajos hechos») para la
+  hoja de audición; notas a mano (Hachi Maru Pop) y sello rojo.
 
 ---
 ## 9 · Personajes: quién es, cómo habla, qué le importa
@@ -493,7 +816,12 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   con MEM. Enamorada de Aqua.
 - **Su momento:** ep. 11, 07:41–07:49. Ve a Aqua con la barra blanca y
   jura: «¡Seré tu *oshi no ko*!».
-- **Voz:** Megumi Han (JA), Natalie Rial (EN), **Ginette Zavala** (LAT).
+- **Voz:** Megumi Han (JA), Natalie Rial (EN), **Ginette Zavala** (LAT) ✅.
+- **Estatura: 150 cm**, la más baja del grupo ✅ ([web oficial](https://ichigoproduction.com/talent/arima.html) + wiki).
+  La web oficial la trata como talento real de Ichigo Pro, con su lista
+  de «trabajos hechos»: la película *Sore ga Hajimari*, anuncios de
+  bicarbonato «重曹ちゃん» (O·14), pimientos de Miyazaki… Es humor
+  interno: **Kana vive de trabajos pequeños y los enseña con orgullo**.
 
 ### MEM-cho (MEMちょ) — la de las redes → **#redes-y-novedades**
 - **Quién es:** YouTuber y tiktoker. **370.000 suscriptores en YouTube y
@@ -514,7 +842,12 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
 - **Cómo celebra:** chilla con las cifras: «¡10.000 suscriptores!» (ep. 9,
   09:42).
 - **Con quién:** hermana mayor de B小町; cómplice de Aqua en el reality.
-- **Voz:** Rumi Ōkubo (JA), Juliet Simmons (EN), **Paulina García** (LAT).
+- **En su canal** (vídeos oficiales «MEMちょの部屋»): saluda con
+  «こんめむ〜♪», sus fans son los «MEMber», lee sus mensajes y responde
+  sonriendo a cámara, con la mano abierta o el índice en la barbilla
+  (V·19-20) ✅.
+- **Estatura: 155 cm** ✅ ([web oficial](https://ichigoproduction.com/talent/memcho.html) + wiki).
+- **Voz:** Rumi Ōkubo (JA), Juliet Simmons (EN), **Paulina García** (LAT) ✅.
 
 ### Ruby Hoshino (星野ルビー) — la idol → **#en-directo**
 - **Quién es:** hija de Ai. Renacida de Sarina, una niña enferma, fan de
@@ -528,7 +861,9 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   negra ([Attack of the Fanboy](https://attackofthefanboy.com/anime/oshi-no-ko-why-do-some-characters-eyes-have-bright-dark-stars/)).
 - **En el escenario:** anuncia las canciones: «¡Sign wa B!» (ep. 11,
   06:19). Estrella en el **ojo izquierdo**.
-- **Voz:** Yurie Igoma (JA), Alyssa Marek (EN), **Polly Huerta** (LAT).
+- **Estatura: 158 cm** ✅ ([web oficial](https://ichigoproduction.com/talent/ruby.html) + wiki).
+- **Voz:** Yurie Igoma (JA), Alyssa Marek (EN), **Polly Huerta** (LAT) ✅;
+  de niña, Lilian Vela; de bebé, Lucía Suárez ✅ (Doblaje Wiki + ANMTV).
 
 ### Ai Hoshino (星野アイ) — el icono
 - **Quién es:** «la as absoluta de B小町, la del centro, la chica más
@@ -540,8 +875,9 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   público quiere una mentira bonita» (65:15–65:24).
 - **Cómo es:** alegre, caprichosa («Hoshino Ai es codiciosa», 10:23),
   guiña el ojo, apunta al público. Estrella en **los dos ojos**.
+- **Estatura: 151 cm** ✅ ([web oficial](https://ichigoproduction.com/talent/ai.html) + wiki).
 - **Voz:** Rie Takahashi (JA), Donna Bella Litton (EN),
-  **Stephanie Filigrana** (LAT).
+  **Stephanie Filigrana** (LAT) ✅.
 
 ### Akane Kurokawa (黒川あかね) — la actriz genio
 - **Quién es:** «la joven estrella de la compañía Lalalai», **actriz de
@@ -551,7 +887,8 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   reality sufre acoso en redes (ep. 6). Vuelve **imitando a Ai** tan
   bien que a Aqua se le hiela la cara (ep. 8, 02:09).
 - **Cómo habla:** suave, llama a Aqua «アクアくん» (ep. 8, 18:24).
-- **Voz:** Manaka Iwami (JA), Kristen McGuire (EN), **María García** (LAT).
+- **Estatura: 163 cm**, la más alta ✅ ([web oficial](https://ichigoproduction.com/talent/kurokawa.html) + wiki).
+- **Voz:** Manaka Iwami (JA), Kristen McGuire (EN), **María García** (LAT) ✅.
 
 ### Aqua Hoshino (星野アクア) — el hermano frío
 - Renacido de Goro, el médico de Ai. Busca a quien mandó matar a su
@@ -559,8 +896,11 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   16:59). Pero hace el vídeo que salva a Akane (ep. 7) y baila con las
   barras de luz para animar a Kana (ep. 11) ✅ ([Game Rant](https://gamerant.com/oshi-no-ko-fulfilling-dreams/)).
   Estrella en el **ojo derecho**.
+- **Aspecto** (render oficial, P·23): rubio con flequillo largo, ojos
+  azules, uniforme de Yōtō (chaqueta azul, corbata roja, pantalón gris).
 - **Voz:** Takeo Ōtsuka (JA), Jack Stansbury (EN), **Manuel Carmona**
-  (LAT, adolescente).
+  (LAT, adolescente; Crunchyroll lo acreditó como «Mani») ✅; de niño,
+  Stefanie Izquierdo; de bebé, Ana Alvarado ✅ (Doblaje Wiki + ANMTV).
 
 ### Secundarios útiles
 - **Taishi Gotanda (五反田泰志)**, director de cine: brusco, cínico,
@@ -568,12 +908,22 @@ Latino: ver punto 12. Frases: subtítulos japoneses (traducción mía).
   [wiki](https://oshinoko.fandom.com/wiki/Taishi_Gotanda)). Explica
   castings (ep. 1, 43:15 y 47:26). Su «¡Qué época!» es meme. En la T3
   preside la prueba de *La mentira de 15 años* y elige a Ruby.
-  Su aspecto: no lo vi ⚠️.
+  **Su aspecto** (diseño oficial, P·24): pelo castaño largo y
+  despeinado, barba de tres días, chaqueta azul noche `#2E3150` sobre
+  camiseta oscura, vaqueros. En el tráiler 2 acaricia la cabeza de
+  Aqua niño en un banco del parque ([0:19](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=19)) ✅.
+  Voz latina: **Carlo Vázquez** ✅.
 - **Pieyon (ぴえヨン)**: YouTuber de fitness con **cabeza de pollito**,
   ex bailarín profesional y coreógrafo (ep. 10, 05:19). Entrena a B小町:
   «¡10 cuestas más!» (05:47). Su canción: «Pieyon Boot Dance» (ep. 5).
+  Aspecto (P·25): cuerpo de culturista, bañador azul, cabeza de
+  pollito amarillo. Voz latina: **Ángel Mota** ⚠️ (Doblaje Wiki;
+  Crunchyroll lo nombra sólo entre las voces adicionales).
 - **Miyako Saitō**: la presidenta de Ichigo Production, la que ficha a
-  todas (ep. 9, 01:42).
+  todas (ep. 9, 01:42). Aspecto (P·26): pelo largo rosado, vestido
+  granate y rebeca rosa. En el opening sale trabajando con un portátil
+  ([1:11](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=71)). Voz latina:
+  **Rosa María Martínez** ✅.
 
 ---
 
@@ -593,6 +943,13 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | `bg2` | en grupo | manos en corazón | sonrisa | celebrar |
 | ep. 3, 01:58 | (escena) | — | «¡Qué asco!» | **regañar** |
 | ep. 11, 07:41 | (escena) | — | decisión, emoción | **animar** |
+| **P·9** (animador, ep. 5) | de frente, medio cuerpo | **índice derecho arriba**, izquierda relajada | seria, un poco sonrojada | **explicar** ✅ |
+| **P·10** (animador, ep. 11) | escorzo hacia cámara | **índice a cámara**, guante rosa | boca abierta, grito alegre | **animar** ✅ |
+| **P·8** (animador, ep. 6) | de pie, boina | «V» con las dos manos | sonrisa suave | **saludar** ✅ |
+| **V·5** · [OP 0:35](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=35) | sentada, boina | mano en la mejilla, codo en la rodilla | sonrisa ladeada | **pensar** ✅ |
+| **V·17** · [ep. 11, 0:08](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=8) | cantando, coletitas | **los dos índices junto a la cara**, guantes rosa | boca abierta | **presentar** ✅ |
+| **O·18** (avance T2, ep. 15) | medio cuerpo | **guion en la mano izquierda** | sonrisa amplia | **#castings** ✅ |
+| **O·15** (ep. 11) | primer plano | **enseña el móvil** con un post | sorpresa | **#redes** ✅ |
 
 ### MEM-cho
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
@@ -602,6 +959,12 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | `bg20` | cuerpo entero, pierna atrás | puños arriba como garras | boca abierta | **celebrar** |
 | `bg13`, `bg16` | primer plano | dedo en la mejilla | sonrisa | presentar |
 | ep. 7, 11:16 | (escena) | — | presume de datos | **explicar** |
+| **O·6** (canal oficial, 100.820 suscr.) | chibi, de frente | **brazos abiertos, palmas a cámara** | boca abierta, feliz | **celebrar** ✅ |
+| **V·4** · [OP 0:33](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=33) | de pie en una azotea | **brazos arriba** | ojos cerrados, risa | **celebrar** ✅ |
+| **V·16** · [ep. 11, 0:07](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=7) | de frente, medio cuerpo | **las dos manos en «pistola», índices a cámara** | sonrisa, micro de diadema | **animar** ✅ |
+| **V·19** · [directo, 0:05](https://www.youtube.com/watch?v=TvIOIATbUYE&t=5) | sentada en su silla gamer | índice en la barbilla | boca abierta, saluda | **saludar, presentar** ✅ |
+| **P·13** (BD vol. 6, Hirayama) | sentada con las piernas cruzadas | manos en los tobillos | guiño, lengua fuera | **presentar** (su nombre gigante detrás) ✅ |
+| **P·14** (Mengo) | de rodillas, saltando | un brazo arriba | risa | **#redes** (insignias de verificada) ✅ |
 
 ### Ruby
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
@@ -611,20 +974,36 @@ Para escenas del anime sin fotograma, se dice qué pasa, no la pose.
 | `bg20` | cuerpo entero, dando un paso | «V» junto al ojo | boca abierta | **presentar** |
 | `bg9` | primer plano | «V» | guiño | saludar |
 | ep. 1, 23:34 | (escena, bebé) | — | enfado cómico | **regañar** |
+| **V·2** · [OP 0:25](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=25) | de tres cuartos, sudadera | **índice en los labios** | sonrisa pícara, estrella | **«shh», secreto** ✅ |
+| **P·17** (pi ro ri) | de frente, traje rojo | **las dos manos abiertas a cámara**, guantes negros | guiño | **invitar** ✅ |
+| **P·18** (wiki) | primer plano | **corazón con las manos** | guiño con estrella | **celebrar** ✅ |
+| **P·20** (KV T3) | de pie en un plató con croma | micro en la mano | mirada a cámara | **#en-directo, #castings** ✅ |
 
 ### Ai
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
 |---|---|---|---|---|
 | key visual (TheFabi8A) | escenario, cuerpo en diagonal | **micro en la derecha, índice izquierdo a cámara** | **guiño**, boca abierta, estrella | **presentar, en directo** |
 | fan art (mismo repo) | de frente | micro y dedo a cámara | guiño y lengua fuera | referencia |
+| **P·1** (KV T1-2, oficial) | escenario, cuerpo en diagonal | micro en la derecha, **índice izquierdo a cámara** | guiño, boca abierta | **presentar, en directo** ✅ |
+| **P·2** (KV T1, oficial) | **de espaldas**, en un círculo de luz, ante un mar de barras rojas | **brazo derecho arriba, índice al cielo** | — | portada, «¡aquí estoy!» ✅ |
+| **P·3** (animador) | escorzo | **índice a cámara**, micro | sonrisa | **animar** ✅ |
+| **V·6** · [OP 0:57](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=57) | cantando en una escalera de luz | micro a la boca | alegre | **#en-directo** ✅ |
 
 ### Akane
 | Imagen | Postura | Manos | Mirada y gesto | Sirve para |
 |---|---|---|---|---|
 | `bg12` | detrás, de uniforme escolar | mano en el pecho | seria, mirando de lado | **pensar, escuchar** |
+| **V·12** · [tráiler 2, 0:40](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=40) | de pie, camiseta celeste | **guion rojo abierto** | concentrada, habla | **#castings** ✅ |
+| **P·21** (ep. 7) | primer plano | — | **estrellas en los ojos** (imita a Ai) | actriz genio ✅ |
+| **P·27** (Mengo) | medio cuerpo | **«V» sobre el ojo**, como Ai | sonrisa | imitar ✅ |
+| **P·22** (render) | de pie, vestido azul | se coge la falda | tímida | recorte ✅ |
 
-**Aqua:** no pude mirar ninguna imagen suya ⚠️. Ver el visual «side
-Aqua» de la T3 ([noticia ANN](https://www.animenewsnetwork.com/news/2025-03-22/oshi-no-ko-anime-3rd-season-reveals-aqua-visual-video/.222695)).
+**Aqua** (segunda pasada): **P·23** render de uniforme, mano en la nuca;
+[OP 0:18-0:22](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=18) con
+sudadera negra en un escenario vacío y primer plano con ojos cerrados;
+[tráiler 2, 0:48](https://www.youtube.com/watch?v=gKWEUJ4r5do&t=48)
+sonriendo de lado. Sigue sin servir de anfitrión alegre. El visual
+«side Aqua» de la T3: [noticia ANN](https://www.animenewsnetwork.com/news/2025-03-22/oshi-no-ko-anime-3rd-season-reveals-aqua-visual-video/.222695).
 
 ---
 
@@ -640,15 +1019,38 @@ Aqua» de la T3 ([noticia ANN](https://www.animenewsnetwork.com/news/2025-03-22/
 - Cabeza: **Kana, sombrerito de copa negro**; **Ruby, lazo negro** en
   la coleta de lado; **MEM, cuernos negros de diablilla** y lazo (los
   lleva en todas las ilustraciones miradas).
+- Visto también en el clip oficial del ep. 11 (V·16-18,
+  [0:06-0:09](https://www.youtube.com/watch?v=S-UmqvA7uR8&t=6)): capa
+  roja con cinta blanca de dibujos verdes, micrófono de diadema, **Kana
+  con dos coletitas y el sombrerito**, guantes rosa (Kana) y negros
+  (Ruby); **MEM sin guantes**, con pulseras (una de cordón negro) ✅.
 
 **Ai:** vestido **fucsia de volantes** con cinturón negro, guantes rosa,
 **horquilla de conejito** con estrellas en el pelo índigo (key visual
 mirado; y guías de cosplay ✅ [Sketchok](https://sketchok.com/anime/oshi-no-ko/how-to-draw-ai-hoshino-from-oshi-no-ko-in-her-idol-outfit/),
 [YesStyle](https://www.yesstyle.com/blog/2023-07-05/idol-worthy-looks-inspired-by-oshi-no-ko-persona-investigator/)).
 
-**San Valentín oficial** (`bg20`): Ruby, vestido rojo de lunares y botas
-blancas; Kana, **boina blanca**, blusa con lazo amarillo y falda roja de
-lunares blancos; MEM, blusa amarilla con lazo y pantalón corto rojo.
+**Traje de «POP IN 2»** (antes lo llamé «San Valentín»; **corregido**:
+los renders oficiales de la wiki se llaman «…Anime-POP IN 2», P·11, 15
+y 19, y coinciden con `bg20`): Ruby, vestido rojo de lunares blancos
+con lazo negro y botas blancas; Kana, **boina blanca**, blusa con lazo
+amarillo y falda roja de lunares blancos con volantes; MEM, blusa
+amarilla con lazo y pantalón corto rojo ✅.
+
+**Uniforme del instituto Yōtō** (renders P·7, 16, 22, 23): chaqueta azul
+marino `#302F57`, camisa blanca, **lazo rosa-granate `#802D57`** (Kana),
+falda gris plisada `#B5B4B1`, calcetines blancos altos y mocasines.
+Kana lleva **boina azul marino**; MEM, chaleco negro sobre la camisa;
+Aqua, corbata roja y pantalón gris ✅.
+
+**Trajes de la T3** («Bのリベンジ», ep. 25,
+[0:19](https://www.youtube.com/watch?v=5B-ZPcq8KxQ&t=19), V·26): Kana
+con **dos moños y lazos rojos**, blusa blanca de hombros caídos y falda
+globo; MEM con un **volante amarillo** al cuello; Ruby con lazo rosa.
+
+**MEM en casa** (sus directos y el tráiler 2, V·13 y V·19): jersey
+turquesa de hombros caídos (tráiler) o camisón verde menta con diadema
+lila («MEMちょの部屋»).
 
 **Akane:** uniforme escolar: chaleco negro, camisa blanca, falda gris
 plisada (`bg12`).
@@ -659,64 +1061,117 @@ tres, y el **vestido fucsia con el conejito** para Ai.
 ---
 ## 12 · Doblaje latino
 
-**Sí hay doblaje latino oficial**, y es de 2026:
-- **Temporada 1:** en Crunchyroll desde el **14 de julio de 2026** ✅
-  ([Crunchyroll, anuncio del elenco](https://www.crunchyroll.com/es/news/announcements/2026/7/14/elenco-staff-doblaje-latino-oshi-no-ko-temporada-1),
-  [ANMTV](https://www.anmtvla.com/2026/07/oshi-no-ko-doblaje-de-la-primera.html)).
-- **Temporada 2:** desde el **4 de agosto de 2026** ✅
-  ([ANMTV](https://www.anmtvla.com/2026/08/oshi-no-ko-doblaje-de-la-2-temporada-ya.html),
-  [The Project Arcade](https://theprojectarcade.com/oshi-no-ko-estrena-doblaje-latino-en-crunchyroll-reparto-episodios-y-proximas-temporadas/)).
-- **Temporada 3:** no encontré doblaje latino ⚠️.
-- **Estudio: Audiomaster Candiani** (México). **Dirección: Jorge Reyes**
-  ✅ (Crunchyroll y ANMTV, según los resúmenes de búsqueda; la guía de
-  cuadros ya citaba el estudio desde [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Oshi_no_Ko)).
-- Crunchyroll sumó las dos primeras temporadas en febrero de 2026 (la
-  región no la vi ⚠️) ([ANN](https://www.animenewsnetwork.com/news/2026-02-25/crunchyroll-adds-oshi-no-ko-anime-1st-2-seasons/.234566)).
+> [!important] Segunda pasada: todo pasado por tres fuentes
+> 1. **Doblaje Wiki por su API** ([página](https://doblaje.fandom.com/es/wiki/Oshi_no_Ko)):
+>    ficha técnica, reparto completo, datos de interés y errores.
+> 2. **ANMTV**, los dos artículos abiertos de verdad
+>    ([T1](https://www.anmtvla.com/2026/07/oshi-no-ko-doblaje-de-la-primera.html),
+>    [T2](https://www.anmtvla.com/2026/08/oshi-no-ko-doblaje-de-la-2-temporada-ya.html)).
+> 3. **Crunchyroll**: su anuncio del elenco, leído por la API de noticias
+>    (`cr-news-api-service…/v1/es-419/stories?slug=…`), porque la web
+>    sólo carga con JavaScript ([anuncio](https://www.crunchyroll.com/es/news/announcements/2026/7/14/elenco-staff-doblaje-latino-oshi-no-ko-temporada-1)).
+> 4. Contraste: la ficha de **ANN** (idioma ES) en su copia de GitHub.
 
-**Reparto** (fuente 1: ficha de ANN, idioma ES, [copia en GitHub](https://raw.githubusercontent.com/ToshY/anime-news-network-encyclopedia/HEAD/encyclopedia/anime/25783.json);
-fuente 2: resultados de búsqueda de ANMTV, Doblaje Wiki y The Dubbing
-Database, [DubDB](https://dubdb.fandom.com/wiki/Oshi_no_Ko_(Latin_American_Spanish))):
+### 12.1 · La producción ✅
 
-| Personaje | Voz latina | Estado |
+| Dato | Valor | Fuentes |
 |---|---|---|
-| **Ai Hoshino** | **Stephanie Filigrana** | ✅ ANN + Doblaje Wiki/DubDB |
-| **Aqua** (adolescente) | **Manuel Carmona** (acreditado «Mani» al principio) | ✅ ANN + Doblaje Wiki |
-| Aqua (niño) | Stefanie Izquierdo | ⚠️ sólo resúmenes de búsqueda |
-| **Ruby Hoshino** | **Polly Huerta** | ✅ ANN + búsqueda (ANMTV) |
-| **Kana Arima** | **Ginette Zavala** | ✅ ANN + búsqueda (ANMTV) |
-| **Akane Kurokawa** | **María García** | ✅ ANN + búsqueda (ANMTV) |
-| **MEM-cho** | **Paulina García** | ✅ ANN + búsqueda (ANMTV) |
-| Taishi Gotanda | Carlo Vázquez | ⚠️ sólo ANN |
-| Miyako Saitō | Rosa María Martínez | ⚠️ sólo ANN |
-| Frill Shiranui | Andrea Soto | ⚠️ sólo ANN |
-| Pieyon | Ángel Mota | ⚠️ sólo resumen de búsqueda |
-| Yuki | Denisse Leguizamo | ⚠️ sólo ANN |
-| Nobuyuki Kumano | Armando Ibarrola | ⚠️ sólo ANN |
-| Abiko Samejima (T2) | Sofía Baltazar | ⚠️ sólo resumen de ANMTV |
-| Toshiro Kindaichi (T2) | Carlos Hernández | ⚠️ sólo resumen de ANMTV |
-| Taiki Himekawa (T2) | Jorge Valladares | ⚠️ sólo resumen de ANMTV |
+| Estudio | **Audiomaster Candiani** (México) | Doblaje Wiki + ANMTV + Crunchyroll ✅ |
+| Dirección | **Jorge Reyes** | las tres ✅ |
+| Adaptación | **Luis Fernando Gurrea** | Doblaje Wiki + Crunchyroll ✅ (nuevo) |
+| Mezcla | **Alejandro Yáñez** (Crunchyroll añade a Jorge Reyes) | Doblaje Wiki + Crunchyroll ✅ (nuevo) |
+| Producción | Karina Escalante, Luis Espinosa, Jahaziel Rodríguez, Rodolfo Olivares | Doblaje Wiki + Crunchyroll ✅ (nuevo) |
+| Grabación | inicios de 2026; guiones de Crunchyroll en inglés, audio japonés de referencia | Doblaje Wiki ⚠️ (una fuente) |
+| T1 en Crunchyroll | **14-jul-2026** (11 ep.) | Doblaje Wiki + ANMTV + Crunchyroll ✅ |
+| T2 en Crunchyroll | **4-ago-2026** (13 ep.) | Doblaje Wiki + ANMTV ✅ |
+| T3 | **sin doblaje latino anunciado** («próximamente» en Doblaje Wiki; «aún no se ha anunciado» en ANMTV) | ✅ |
+| Canciones | **se dejaron en japonés** (sólo el doblaje alemán cantó las de B小町) | Doblaje Wiki ⚠️ |
 
-> [!warning] ANN mezcla dos doblajes
-> La lista ES de ANN trae a **Magda Giner** (actriz de Barcelona) y un
-> segundo nombre para Kana, **Gracia Comitre**. Parecen del **doblaje
-> de España** (Crunchyroll España también tiene *Oshi no Ko* en
-> castellano, [Crunchyroll es-es](https://www.crunchyroll.com/es-es/series/GT00366791/oshi-no-ko),
-> [Doblaje España Wiki](https://doblaje-espana.fandom.com/es/wiki/Oshi_no_Ko)).
-> **No usar** esos nombres para el latino ⚠️.
+### 12.2 · Las voces (cada nombre con dos fuentes)
 
-**Dato curioso:** la Akane latina se llama igual que la **Bocchi**
-latina, María García (ver la biblia de Bocchi). Probablemente es la
-misma actriz ⚠️.
+| Personaje | Voz latina | Fuentes | Estado |
+|---|---|---|---|
+| **Ai Hoshino** | **Stephanie Filigrana** (Erika Kose en *Kaguya-sama*) | DW + ANMTV + CR + ANN | ✅ |
+| **Aqua** (joven) | **Manuel Carmona** (Crunchyroll lo acreditó «Mani») | DW + ANMTV + CR + ANN | ✅ |
+| Aqua (niño) · (bebé) | **Stefanie «Stefi» Izquierdo** · **Ana Alvarado** | DW + ANMTV + CR | ✅ (antes dudoso) |
+| Goro Amemiya | **Óscar López** | DW + ANMTV + CR | ✅ (nuevo) |
+| **Ruby** (joven) · niña · bebé | **Polly Huerta** · **Lilian Vela** · **Lucía Suárez** | DW + ANMTV + CR | ✅ |
+| Sarina Tendōji | **Jean Bautista** | DW + ANMTV + CR | ✅ (nuevo) |
+| **Kana Arima** | **Ginette Zavala** | DW + ANMTV + ANN | ✅ |
+| **Akane Kurokawa** | **María García** | DW + ANMTV + ANN | ✅ |
+| **MEM-cho** | **Paulina García** | DW + ANMTV + ANN (CR la pone en «voces adicionales» de la T1: MEM sale desde el ep. 5) | ✅ |
+| Miyako Saitō | **Rosa María Martínez** | DW + ANMTV + CR + ANN | ✅ (antes dudoso) |
+| Taishi Gotanda | **Carlo Vázquez** | DW + ANMTV + CR + ANN | ✅ (antes dudoso) |
+| Madre de Gotanda | **Magda Giner** | DW + ANMTV + ANN | ✅ (**corregido**, ver abajo) |
+| Ichigo Saitō | **Ferso Velázquez** | DW + CR | ✅ (nuevo) |
+| Frill Shiranui | **Andrea Soto** | DW + ANMTV + ANN | ✅ (antes dudoso) |
+| Minami Kotobuki | **Fernanda Ornelas** | DW + ANMTV + ANN | ✅ (nuevo) |
+| Yuki Sumi | **Denisse Leguizamo** | DW + ANMTV + ANN | ✅ (antes dudoso) |
+| Nobuyuki Kumano | **Armando Corona** | DW + ANMTV | ✅ (**corregido**: ANN dice Armando Ibarrola) |
+| Kengo Morimoto · Masaya Kaburagi | **José Luis Piedra** · **Galo Balcázar** | DW + ANMTV | ✅ (nuevo) |
+| Yoriko Kichijōji | **Valentina Souza** | DW + ANMTV + ANN | ✅ (nuevo) |
+| Director de *Love Now* | **Alberto Meléndez** | DW + ANMTV | ✅ (nuevo) |
+| Melt Narushima · Sumiaki Raida | **Dión González** · **Brandon Montor** | DW + ANMTV | ✅ (nuevo) |
+| Abiko Samejima (T2) | **Sofía Baltazar** | DW + ANMTV | ✅ (antes dudoso) |
+| Toshirō Kindaichi (T2) | **Carlos Hernández** | DW + ANMTV | ✅ (antes dudoso) |
+| Taiki Himekawa (T2) | **Jorge Valladares** | DW + ANMTV | ✅ (antes dudoso) |
+| GOA · Norio Mita · Mei Adashino (T2) | **Dave Ramos** · **Tommy Rojas** · **Susana Cohe** | DW + ANMTV | ✅ (nuevo) |
+| Hikaru Kamiki (T2, ep. 22 y 24) | **Daniel Lacy** | DW | ⚠️ (una fuente) |
+| Pieyon | **Ángel Mota** | DW; CR sólo en voces adicionales | ⚠️ |
+| Madre de Kana | **Ellie Rojo** | DW | ⚠️ (una fuente) |
 
-**Frases icónicas del doblaje latino: no encontré ninguna con fuente**
-⚠️. Las opiniones sobre el doblaje son **mixtas** ([X, SlimperSuprime](https://x.com/SlimperSuprime/status/2077560351114076657),
-[TikTok](https://www.tiktok.com/@joseluiswwe10/video/7589097918775233799)).
-Antes del oficial hubo **fandubs**: el ep. 1 por Sparrow Doblaje Studio
-([Patreon](https://www.patreon.com/posts/oshi-no-ko-1-114383809)) y
-muchas versiones de «Idol» en español (punto 13). Antes de rotular una
-frase «latina», hay que oírla en Crunchyroll.
+**Corrección importante.** La primera pasada decía que **Magda Giner**
+y **Gracia Comitre** eran del doblaje de España y que «no se usaran».
+**Magda Giner sí es del latino** ✅: dobla a la **madre de Gotanda**
+(Doblaje Wiki + ANMTV + ANN). **Gracia Comitre** sólo aparece en ANN
+como segunda voz de Kana; ni Doblaje Wiki, ni ANMTV, ni Crunchyroll la
+nombran ⚠️: no usarla hasta confirmarla.
 
----
+**Dato curioso, confirmado** ✅: la Akane latina **es la misma actriz
+que la Bocchi latina**. Su ficha personal de Doblaje Wiki
+([María García](https://doblaje.fandom.com/es/wiki/Mar%C3%ADa_Garc%C3%ADa))
+pone en su galería a Hitori «Bocchi» Gotoh y a Akane Kurokawa, junto a
+Kaede Kayano (*Assassination Classroom*) y Tsireya (*Avatar: El camino
+del agua*).
+
+### 12.3 · Frases propias del doblaje latino (textuales)
+**Clips oficiales doblados: no hay** en el canal de Crunchyroll en
+Español (busqué en su canal: los 4 clips de Oshi no Ko son de la T3,
+de febrero-abril de 2026, antes del doblaje). Los vídeos de fans con
+audio doblado no dejaron bajar subtítulos (YouTube, error 429). Lo
+textual que sí hay sale de **Doblaje Wiki** (una fuente ⚠️, pero son
+citas literales):
+- **Gotanda a Aqua (T1, ep. 2):** «**Pero tú nunca podrás ser tu
+  mamá.**» (Doblaje Wiki lo marca como error: en japonés dice «nunca
+  podrás ser Ai».)
+- **Aqua ante Ruby y Minami (T1, ep. 4):** «**Mi favorita siempre fue y
+  siempre será Ai Hoshino.**»
+- **La agencia se llama «Producciones Ichigo» en la T1 y «Frutilla
+  Producciones» en la T2** (error de continuidad). Para la lámina,
+  **«Producciones Ichigo»** (T1).
+- **Twitter se dice «X»** en el doblaje (el original es anterior al
+  cambio de nombre). En #redes, decir «X», no «Twitter».
+- El doblaje usa **modismos y referencias de internet latinoamericanas**
+  (como *Kaguya-sama*, del mismo equipo de producción de Crunchyroll).
+
+Minutos exactos de estas frases: no los tengo ⚠️ (no hay subtítulos
+latinos en GitHub y no se pudo oír el audio).
+
+### 12.4 · Reacciones y vídeos sobre el doblaje
+- «The Latin Spanish dub of Oshi no Ko is finally here: meet the voice
+  cast» ([KennedyCosplayAlan, 5:14](https://www.youtube.com/watch?v=5BcwY6jUxno))
+  y su versión de la T2 ([5:01](https://www.youtube.com/watch?v=0H8ZqcSNdtM)).
+- «I hate the dubbing of Oshi no Ko» y «The Oshi no Ko Latin Spanish dub
+  case» ([Nerdwork](https://www.youtube.com/watch?v=7E6WpqqCuNY),
+  [Nerdwork 2](https://www.youtube.com/watch?v=AaPMDlpG7yU)): opiniones
+  mixtas, como ya decía la primera pasada
+  ([X, SlimperSuprime](https://x.com/SlimperSuprime/status/2077560351114076657)).
+- Antes del oficial hubo **fandubs**: el ep. 1 por Sparrow Doblaje
+  Studio ([Patreon](https://www.patreon.com/posts/oshi-no-ko-1-114383809)),
+  BLANSSTER ([«La muerte de Ai»](https://www.youtube.com/watch?v=x0nvQBo1HKo)),
+  Yerxfandubs y muchas versiones de «Idol» en español (§13).
+- **Crunchyroll tiene también el castellano de España** (doblaje aparte;
+  Doblaje Wiki lo marca «Doblajes disponibles en España»). No mezclar.
 
 ## 13 · Música
 
@@ -724,7 +1179,7 @@ Fuente: fichas de ANN (T1, T2, T3).
 
 | Temporada | Opening | Ending | Ambiente (según la escena) |
 |---|---|---|---|
-| T1 (2023) | **«Idol» (アイドル), YOASOBI** | «Mephisto» (メフィスト), Queen Bee | pop de idol rápido y brillante que cuenta la mentira de Ai |
+| T1 (2023) | **«Idol» (アイドル), YOASOBI** | «Mephisto» (メフィスト), Queen Bee | **visto** (V·1-10): el opening es pop rápido, puntos LED rosa, ojos con estrella, logo en mincho; el ending es **oscuro y en panorámica** (2,35:1), un conejo de peluche colgado de hilos, cada personaje sobre su color plano |
 | T2 (2024) | «Fatale», GEMN | «Burning», Hitsujibungaku | teatro, rivalidad |
 | T3 (2026) | «TEST ME», CHANMINA | «Serenade» (セレナーデ), natori | la película y el pasado de Ai |
 
@@ -733,6 +1188,16 @@ Fuente: fichas de ANN (T1, T2, T3).
 - **Canciones de B小町:** «Sign wa B», «STAR☆T☆RAIN», «HEART's♡KISS»
   (versiones de Ai en el ep. 1 y nuevas del grupo en el 11), **«POP IN
   2»** (T2), **«B no Revenge»** (T3, ep. 25).
+  **Segunda pasada** (ficha de B-Komachi en la wiki + títulos del canal
+  oficial ✅): además **«Say What?»**, **«深海52Hz» (*Deep Sea 52Hz*)**,
+  y **una canción propia para cada una**: **«チェキチェキ LOVE ME»** (Ruby),
+  **«MY WILL»** (Kana) y **«キミインプレッション» (*Kimi Impression*)**
+  (MEM) ([canal oficial](https://www.youtube.com/@anime_oshinoko/videos)).
+  El canal publica **vídeos de práctica de «call»** (lo que grita el
+  público) para la gira «B小町 Live Tour 2026» (p. ej. [«POP IN 2»](https://www.youtube.com/watch?v=FsnRIQgdFCg)).
+- **«45510»**: relato corto de Akasaka que sirvió de base a «Idol»; el
+  número es la contraseña del blog de B小町 ([wiki](https://oshinoko.fandom.com/wiki/45510)).
+  Sale en el opening, en una matrícula ([1:10](https://www.youtube.com/watch?v=PgBvV9ofjmA&t=70)).
 - **Canciones de Kana:** «Piman Taisou» (su éxito de niña) y
   «Full moon...!» (ep. 9).
 - Canción de **Pieyon**: «Pieyon Boot Dance» (ep. 5).
@@ -751,8 +1216,32 @@ Fuente: fichas de ANN (T1, T2, T3).
 
 ## 14 · Vídeos
 
-Canal oficial: [@anime_oshinoko](https://www.youtube.com/@anime_oshinoko).
-**Minuto sin verificar** en todos (YouTube bloqueado).
+Canal oficial: [@anime_oshinoko](https://www.youtube.com/@anime_oshinoko)
+(496 vídeos listados con yt-dlp el 24-sep-2026).
+**Segunda pasada:** los **35 enlaces de YouTube** de esta biblia
+existen (comprobados uno a uno con el oEmbed de YouTube: título y
+canal) ✅. Los que miré fotograma a fotograma, con minuto, están en
+§4.1 y en `hojas/video_01.jpg`.
+
+**Series del canal oficial que sirven a estos canales** (nuevas):
+- **«MEMちょの【推しの子】NEWS»** (#01 a #28): **MEM-cho presenta las
+  novedades del anime** delante de una pizarra negra con dibujos de
+  neón ([#01, ene-2023](https://www.youtube.com/watch?v=DdiRyWNkYSc),
+  [#28](https://www.youtube.com/watch?v=vxxb2ekatzI)). **Es, literalmente,
+  un canal de «novedades» con MEM de anfitriona** → concepto A.
+- **«MEMちょの部屋»** (#31 a #37): MEM en su cuarto, lee mensajes de
+  fans ([#37, 1:29](https://www.youtube.com/watch?v=TvIOIATbUYE&t=89)).
+- **«最新NEWS»**: noticiero dentro de la ficción
+  ([0:03](https://www.youtube.com/watch?v=VjyCYUdmlnc&t=3)).
+- **«アフレコ現場を深掘れ☆ワンチャン!!»** («Metidos en el estudio de
+  doblaje»): visitas a la grabación de voces, con el reparto japonés
+  ([ep. 1 con Rumi Ōkubo, MEM](https://www.youtube.com/watch?v=RNd2UWSImOw),
+  [ep. 6 con Megumi Han y el director de sonido Takeshi Takadera](https://www.youtube.com/watch?v=izzRjaUZig4)).
+  **Para un servidor de doblaje, oro** (no lo miré entero ⚠️).
+- **Vídeos de «call»** para practicar lo que grita el público
+  ([«POP IN 2»](https://www.youtube.com/watch?v=FsnRIQgdFCg)).
+- **«B小町チャンネル!»**: las tres idols hacen retos como youtubers
+  ([#7](https://www.youtube.com/watch?v=HFkpwHJECoc)).
 
 | Vídeo | Para qué |
 |---|---|
@@ -764,16 +1253,16 @@ Canal oficial: [@anime_oshinoko](https://www.youtube.com/@anime_oshinoko).
 | [Anuncio para TV de la T3](https://www.youtube.com/watch?v=a506wjtia18) | — |
 | [PV de fin de la T3 (anuncia la T4)](https://www.youtube.com/watch?v=YZc8gUB0Y-Q) | — |
 | [Avance web del ep. 33](https://www.youtube.com/watch?v=A89c9EUbfvg) | — |
-| [Directo oficial de novedades de la T3](https://www.youtube.com/watch?v=tfD5wA0zAII) | **un directo oficial**: idea para #en-directo |
+| [Directo oficial de novedades de la T3](https://www.youtube.com/watch?v=tfD5wA0zAII) | **un directo oficial** («第3期新情報解禁生放送», desde el festival Kantō Nōryō): idea para #en-directo |
 | [Hirayama dibuja a Kana](https://www.youtube.com/watch?v=q4bzYqoFGvo) | **línea y color** |
 | [Hirayama dibuja a Ai](https://www.youtube.com/watch?v=CYxj4xCcGmI) | línea y color |
 | [«Llegó el doblaje latino, conoce las voces»](https://www.youtube.com/watch?v=5BcwY6jUxno) | voces latinas |
 
-**Análisis en español:**
+**Análisis en español** (autor comprobado por oEmbed ✅):
 [«El lado oscuro de la industria» (Multiverso Otaku)](https://www.youtube.com/watch?v=s0uRTRITzxQ),
-[«Oshi no Ko es maravilloso»](https://www.youtube.com/watch?v=Y9qroEAC6z0),
-[**«Arima Kana: el sinónimo de fracaso en la industria»**](https://www.youtube.com/watch?v=UHsHyERB89Q),
-[«Una crítica al entretenimiento»](https://www.youtube.com/watch?v=kE6I2RhIoPI).
+[«Oshi no Ko es maravilloso» (Shu Hoshino)](https://www.youtube.com/watch?v=Y9qroEAC6z0),
+[**«Arima Kana: el sinónimo de fracaso en la industria» (Teici C)**](https://www.youtube.com/watch?v=UHsHyERB89Q),
+[«Una crítica al entretenimiento» (Yez!)](https://www.youtube.com/watch?v=kE6I2RhIoPI).
 
 **TikTok:** el baile de «Idol» es tendencia desde 2023 y sigue en 2026,
 con cosplay de Ai ([TikTok, Idol dance](https://www.tiktok.com/discover/oshi-no-ko-idol-dance),
@@ -796,8 +1285,34 @@ iOS y Android, **desde el 25 de febrero de 2026** ✅
   [KADOKAWA](https://www.kadokawa.co.jp/product/game2659/)).
 - Reseñas: [GameFoliage](https://gamefoliage.com/2026/02/26/puzzle_star/),
   [Dengeki](https://dengekionline.com/article/202602/66916).
-- **Su caja de diálogo y sus menús: no los pude ver** ⚠️. No hay página
-  en The Cutting Room Floor (es un juego móvil de 2026).
+- **Segunda pasada: ya lo vi** ✅, en el vídeo oficial en que **MEM-cho
+  juega a *Puzzle Star* en su directo** ([canal oficial, 20-abr-2026](https://www.youtube.com/watch?v=LmVk85v-O5w),
+  *storyboard* cada ~5 s):
+  - pantalla **vertical de móvil**, con la **pantalla de inicio con tu
+    personaje favorito de pie en un cuarto** (MEM la tiene puesta,
+    [0:39](https://www.youtube.com/watch?v=LmVk85v-O5w&t=39));
+  - banner de gacha «スタートダッシュガチャ» ([0:59](https://www.youtube.com/watch?v=LmVk85v-O5w&t=59));
+  - tablero de **bloques de colores de unir tres** con la carta del
+    personaje arriba ([3:07](https://www.youtube.com/watch?v=LmVk85v-O5w&t=187));
+  - **«STAGE CLEAR»** en rosa ([5:54](https://www.youtube.com/watch?v=LmVk85v-O5w&t=354));
+  - modo **vestir y foto con marcos** ([7:03](https://www.youtube.com/watch?v=LmVk85v-O5w&t=423)).
+  - En el mismo directo, lo que dice MEM va en su **rótulo naranja** y
+    la explicación de una habilidad, en una **caja blanca de bordes
+    redondos** ([2:37](https://www.youtube.com/watch?v=LmVk85v-O5w&t=157)).
+- The Cutting Room Floor: no tiene página (juego móvil de 2026).
+
+**Colaboración oficial con *IDOLM@STER Shiny Colors*** (2023-2024,
+nueva) ✅: Ruby, Kana y MEM salieron como idols jugables (O·10-11;
+cartas «In Red Ruby», «In White Kana», «In Yellow MEMCho» en la wiki).
+**Su caja de diálogo** (O·10, 1922×1079): **ventana blanca translúcida
+de esquinas redondas** con una **pestaña de nombre** arriba a la
+izquierda («✦かな»), texto gris oscuro, botones «SKIP», «早送り×4 OFF»
+y «^» (historial), sobre un fondo 3D de sala de ensayo con espejo. En
+el cartel, la frase de Kana va en **dos franjas, roja con letra blanca
+y blanca con letra roja**: «また……終わった人扱い / されちゃうかな»
+(«¿otra vez me van a tratar como a una acabada?»), y su nombre en una
+**placa azul marino** («有馬 かな»). Es una caja de videojuego real y
+oficial con los personajes: **alternativa válida** al globo blanco.
 
 **Juegos de fans en GitHub** (sólo curiosidad): un selector de
 personajes estilo juego de lucha ([oshiNoKoSelector](https://github.com/ThomasRoR/oshiNoKoSelector))
@@ -821,15 +1336,31 @@ y un juego en Ren'Py ([Chompita](https://github.com/Chompita/OSHI-NO-KO)).
 - **Parodias del ending** con Getter Robo en Japón (TV Tropes).
 - **Kana contra Akane**: el debate eterno de la «mejor chica»
   ([CBR](https://www.cbr.com/oshi-no-ko-kana-or-akane-best-girl/)).
+- **«Bicarbonato-chan» se hizo real**: la marca de jabón Kaneyo sacó el
+  bicarbonato «重曹ちゃん» con Kana de imagen (O·14; web oficial) ✅.
+- **«こんめむ〜♪»**, el saludo de MEM en su canal (§8.1) ✅.
+- **«45510»**, la contraseña del blog de B小町, escondida en el opening
+  (§13) ✅.
+- **Reddit** (Arctic Shift, jul-ago 2026): lo más votado fueron fan art,
+  cosplay de Kana y el **guion de *La mentira de 15 años* firmado por
+  todo el reparto** ([hilo](https://reddit.com/r/OshiNoKo/comments/1vhzqqu/the_15_year_lie_script_with_all_of_the_cast/));
+  del doblaje latino **no hay hilos** en r/OshiNoKo esas semanas.
 
 ### Qué NO hacer (le parecería falso a un fan)
-- **Estrellas de cinco puntas.** Son de **seis**.
+- **Estrellas de cinco puntas en los ojos.** En los ojos son de
+  **seis** (V·1). *Corrección de la segunda pasada:* en las **cartelas
+  y la decoración** la serie sí usa estrellas de **cinco** puntas
+  redondeadas (O·19-21). La regla es: ojo = seis; adorno = cinco.
 - **Corchetes rectos [ ].** Son **【 】**.
 - **Estrella en el ojo equivocado:** Aqua derecho, Ruby izquierdo, Ai
   los dos. **Estrellas negras** sólo para la venganza.
 - **Colores cambiados:** Kana es **pelo rojo corto y color blanco**;
-  Ruby **rubia larga y color rojo**; MEM **rubia limón, cuernos y color
-  amarillo**; Ai **pelo índigo**, no rubio.
+  Ruby **rubia larga y color rojo**; MEM **rubia miel (limón sólo bajo
+  focos), cuernos y color amarillo**; Ai **pelo índigo**, no rubio.
+- **Escribir «Twitter»** o «Frutilla Producciones»: el doblaje latino
+  dice **«X»** y, en la T1, **«Producciones Ichigo»** (§12.3).
+- **Poner la letra del logo en gótica gruesa**: el logo es **mincho**
+  con la «の» magenta (§7).
 - **Tocar el final.** El manga acabó con la muerte de Aqua y el final
   fue muy criticado ([Dexerto](https://www.dexerto.com/anime/oshi-no-ko-manga-slammed-for-terrible-ending-2974344/),
   [Screen Rant](https://screenrant.com/oshi-no-ko-ending-good-bad-controversy/)).
@@ -854,10 +1385,11 @@ y un juego en Ren'Py ([Chompita](https://github.com/Chompita/OSHI-NO-KO)).
   **estrella blanca de seis puntas en los dos**, horquilla de conejito.
 - Ruby: pelo **rubio dorado** largo con coleta de lado y lazo negro,
   ojos rosa, estrella en el **izquierdo**.
-- Kana: **media melena roja con flequillo recto**, ojos rojos, sin
-  estrellas.
-- MEM-cho: **rubia limón corta con flequillo**, ojos azules, **cuernos
-  negros** de diablilla.
+- Kana: **media melena carmesí (`#83132C`) con flequillo recto**, ojos
+  rojos, sin estrellas; a menudo **boina** (P·7-8). Es **bajita**
+  (150 cm): la más baja junto a Ai (151).
+- MEM-cho: **rubia miel (`#E2A144`) corta con flequillo recto**, ojos
+  turquesa, **cuernos negros** de diablilla (P·16).
 - Akane: media melena **azul violeta**, ojos azules, mirada seria.
 
 **Estilo:** anime moderno de Doga Kobo. **Línea fina y limpia**, sombras
@@ -880,113 +1412,174 @@ five-pointed star, horror, blood* (salvo que se quiera lo oscuro),
 **Encuadre:** medio cuerpo, un poco desde abajo, personaje en diagonal
 señalando a cámara (así están `bg19`, `bg12` y el key visual de Ai).
 
-**Referencias de estilo:** `bg20` (oficial, cuerpo entero), `bg19`
-(luz de escenario), key visual de Ai (color y brillo). **De pose:**
-`bg19` Kana (animar), `bg12` MEM (explicar), key visual de Ai (en
-directo).
+**Referencias de estilo (segunda pasada, todas oficiales):** P·1 (KV
+de Ai: color y brillo), P·6 (B小町 en escenario), los **renders sobre
+verde** P·4, 7, 11, 15, 16, 19, 22-26 (cuerpo entero, línea limpia,
+para recortar o para que la IA copie proporciones), O·19 (cartela:
+rombos y estrella negra) y V·19-20 (el directo de MEM). **De pose:**
+P·9 Kana (explicar), P·10 Kana (animar), O·6 y V·4 MEM (celebrar),
+V·19 MEM (presentar), P·17 Ruby (invitar), V·2 Ruby («shh»), P·1 Ai
+(en directo).
+
+**Proporciones** (web oficial): Kana 150 cm, Ai 151, MEM 155, Ruby 158,
+Akane 163. En un grupo, Kana es la más baja y Akane la más alta.
+
+**Palabras extra que ayudan:** *six-pointed star in the eye*, *mincho
+title typography*, *harlequin diamond pattern background* (cartelas),
+*vtuber stream overlay, chat message window* (MEM), *TV news lower
+third* (noticiero), *countdown card with handwritten message*.
 
 ---
 ## 18 · Tres conceptos de lámina (uno por canal)
 
-### Concepto A — #redes-y-novedades · «El móvil de MEM-cho»
-**Objeto y sitio.** Un **móvil grande** en primer plano, sobre un
-**trípode de mesa con aro de luz** ([Ring Light](https://sketchfab.com/3d-models/ring-light-fe2d9eda3939484ea10c3ebc4887c28a)),
-en la oficina de Ichigo Production, donde B小町 monta su canal con
-MEM (ep. 9, 09:34–10:01: «gracias a MEM, nuestro canal hace vídeos que
-parecen de verdad»). El rincón exacto no lo vi ⚠️. Funda con pegatinas: una **estrella blanca de seis puntas**
-y una «B». De la funda cuelga una **barra de luz amarilla**, su color.
-Todo se hace en Blender: caja redondeada, pantalla emisiva, aro emisivo.
+> [!note] Segunda pasada: qué cambió en los conceptos
+> Los tres se mantienen (uno por canal), pero ahora se apoyan en
+> **formatos oficiales vistos de verdad**: A pasa del «post» inventado al
+> **directo de MEM y su noticiero** (V·19-22); B cambia las カンペ
+> inventadas por el **cartón oficial de «ON AIR»** y la **pizarra de
+> MEM** (O·1-5); C sitúa la hoja en la **puerta de Ichigo Pro** (O·23)
+> con la **cartela de estrella** de título (O·19). Las poses salen ahora
+> de las hojas (P·, V·), no de imágenes de origen dudoso.
 
-**Personaje.** **MEM-cho**, la experta en redes de la serie (ep. 7,
-11:16–11:30: «soy una profesional de hacer virales»). Pose de `bg19`:
-**guiño y palma abierta hacia quien mira**. Con la otra mano señala la
-pantalla (tomar la mano de `bg12`, la de la «L», girada).
+### Concepto A — #redes-y-novedades · «El directo de noticias de MEM-cho»
+**Objeto y sitio.** La lámina es **la pantalla del directo de MEM**,
+como sus vídeos oficiales «MEMちょの部屋» y «MEMちょの【推しの子】NEWS»
+(V·19-20; [0:05](https://www.youtube.com/watch?v=TvIOIATbUYE&t=5),
+[1:29](https://www.youtube.com/watch?v=TvIOIATbUYE&t=89)): su **cuarto
+añil** (`#2A0F6E`) con cortinas violeta, **lámpara de luna amarilla**,
+estrellas, **peluches de B小町**, un **disco de oro** en la pared y la
+**silla gamer rosa** ([Gaming Chair, CC BY](https://sketchfab.com/3d-models/gaming-chair-ccb3ada5917a4b90b689e1d1bf852dc2)).
+En la mesa, su **móvil** (el objeto del plan: en el directo de *Puzzle
+Star* lo sostiene con las dos manos, [0:39](https://www.youtube.com/watch?v=LmVk85v-O5w&t=39))
+y un **aro de luz** ([Ring Light, CC BY](https://sketchfab.com/3d-models/ring-light-fe2d9eda3939484ea10c3ebc4887c28a)).
+Arriba, la **barra de neón cian** del marco. Todo se modela en Blender.
 
-**Cómo habla.** Su frase es el **post fijado** en la pantalla: tarjeta
-con avatar redondo «MEM», detalle amarillo `#FEE63E`, letra **M PLUS
-Rounded 1c ExtraBold**. Nada flotando fuera del móvil.
+**Personaje.** **MEM-cho**, la YouTuber de la serie y **presentadora
+oficial de las novedades del anime** en el canal real. Pose de **V·19**
+(sentada en su silla, índice en la barbilla, boca abierta: «¡hola!»)
+o, para celebrar, **O·6** (brazos abiertos, palmas a cámara, la tarjeta
+oficial de los 100.820 suscriptores). Ropa de casa del tráiler (jersey
+turquesa de hombros caídos, V·13) o de uniforme (P·16).
+
+**Cómo habla.** Con los **tres cuadros reales** de sus vídeos, nada de
+burbuja blanca:
+- su frase, en el **rótulo naranja** `#DCAC64` con doble borde crema y
+  morado (M PLUS Rounded 1c Black), abajo, como «MEMちょだよー!»;
+- los pasos, en **ventanas de mensaje** blancas con **cabecera lila**
+  `#9E81C3` y piquito (M PLUS Rounded 1c), como los mensajes de sus
+  «MEMber»;
+- la novedad, con el **rótulo de noticia «最新»** (círculo rojo +
+  franja blanca, Noto Sans JP Black), sacado de «最新NEWS» (V·22).
 
 **Dónde va cada texto.**
-- Cabecera de la app: **【NUESTRAS REDES】** en Dela Gothic One.
-- Post fijado de MEM: **«¡Síguenos! Yo sé cómo se hace viral.»**
-- Una fila por red: icono, nombre y usuario (los reales del servidor).
-- **Notificación** que cae arriba de la pantalla: **«Cada vídeo nuevo
-  se avisa aquí.»** (es literalmente una «novedad»).
-- Botón grande al pie: **«Seguir»**, y debajo: «Dale a seguir y no te
-  pierdas nada.»
+- Cartón de entrada arriba a la izquierda, rosa `#D87FB9` con destellos
+  (V·21): **【NUESTRAS REDES】** en Shippori Mincho B1.
+- Rótulo naranja de MEM: **«¡Síguenos! Yo sé cómo se hace viral.»**
+  (guiño de fan opcional delante: «¡Konmemu~!»).
+- Ventana 1 (cabecera «MEMber: Sintonizando»): **«Aquí están todas
+  nuestras redes.»**
+- Ventanas 2, 3, 4…: **una por red**, con icono, nombre y usuario
+  reales en la cabecera (como si cada red fuera un fan escribiendo).
+- Rótulo «最新» → en español **«LO ÚLTIMO»** en el círculo rojo, y en
+  la franja: **«Cada vídeo nuevo se avisa aquí.»**
+- Pie, en letra pequeña de la barra del directo: **«Dale a seguir y no
+  te pierdas nada.»**
 
 **Cómo no queda plano.**
-- El **aro de luz detrás de MEM** le da un borde de luz blanco cálido.
-- La **pantalla ilumina su cara** en frío, desde abajo.
-- **Delante**, desenfocadas: la barra amarilla y una hoja de pegatinas.
-- **Detrás**, bokeh de lucecitas y un póster de B小町 borroso (`bg20`).
-- Paleta: amarillo MEM, rojo del uniforme, fondo rosa suave `#FDD6D0`.
+- La **pantalla del móvil** y el **aro de luz** iluminan a MEM de
+  frente en blanco frío; la **luna** mete un contraluz amarillo.
+- **Delante**, desenfocados: el **cojín de corazón** y la **estrella
+  amarilla** de su mesa, y el borde del teclado rosa.
+- **Detrás**, el póster de 【推しの子】 y los peluches, con bokeh.
+- Paleta: añil y violeta del cuarto, rosa de la silla, naranja del
+  rótulo, amarillo de su color de idol.
 
-### Concepto B — #en-directo · «El letrero ON AIR del programa musical»
+### Concepto B — #en-directo · «El letrero ON AIR y el cartón de cuenta atrás»
 **Objeto y sitio.** El **letrero ON AIR encendido en rojo** ([On Air
-Sign](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156))
+Sign, CC BY](https://sketchfab.com/3d-models/on-air-sign-0a5b90a7c5704803b2317c271fd8d156))
 sobre la puerta del plató del **programa musical en directo «Nステ»**
-donde Ai vuelve (ep. 1, 18:00: «es en directo, ¿puedes?»). Al lado, un **monitor
-del estudio** con un **fotograma de Ai cantando «Sign wa B»** (ep. 1,
-21:36). Apoyado en la pared, un **cuaderno de cartulinas del regidor
-(カンペ)** con los pasos escritos a rotulador.
+donde Ai vuelve (ep. 1, 18:00: «es en directo, ¿puedes?»). Al lado, un
+**monitor del estudio** con **Ai cantando** (pose de **P·1**, el key
+visual oficial: micro, guiño, dedo a cámara). Delante de la puerta, en
+un **atril**, una **pizarra de rotulador** como la de MEM «entrevista
+EN VIVO» (**O·5**). Y la **franja negra de los cartones oficiales**
+«【推しの子】 … ON AIR» (**O·1-4**) recorre el pie de la lámina.
 
 **Personaje.** **Ruby** de adolescente, con el **uniforme rojo de
-B小町** (`bg19`), asomada a la puerta con una **barra de luz roja**.
-Pose de `bg20` (Ruby: «V» junto al ojo, un paso adelante) o de `bg19`
-(dos «V» bajo la barbilla). En el monitor, **Ai** como en el key
-visual: micro, guiño, dedo a cámara.
+B小町** (visto en el ep. 11, V·17-18), asomada a la puerta con una
+**barra de luz roja**. Pose de **P·17** (las dos manos abiertas a
+cámara con guiño: «¡pasa!») o de **P·20** (en el plató con cámaras,
+micro en la mano). Si se quiere un toque pícaro: **V·2** («shh», dedo
+en los labios: «se está grabando»).
 
 **Por qué Ruby.** De bebé se enfadó porque no la despertaron: «¡Un
 directo tiene gracia verlo en vivo!» (ep. 1, 23:34). Es exactamente
 la idea del canal.
 
-**Cómo habla.** Un **rótulo de TV (telop)** bajo Ruby: letra blanca
-gruesa con borde rojo `#C41E34`, entre **【 】**, en **RocknRoll One**.
-Los pasos, **a mano** en las cartulinas (**Hachi Maru Pop**).
+**Cómo habla.** Como en los **cartones oficiales de cuenta atrás**:
+- la frase de Ruby, **escrita a mano en la pizarra** (Hachi Maru Pop,
+  rotulador negro con estrellitas y corazones, como O·1-5);
+- los pasos, en **tres notas** pegadas a la pizarra;
+- abajo, la **franja negra** con **【SINTONIZANDO】 EN DIRECTO · ON AIR**
+  (mincho blanca + Bebas Neue en rosa `#E70082`), como «【推しの子】4.12
+  ON AIR».
 
 **Dónde va cada texto.**
 - Letrero: **ON AIR** (Bebas Neue, en el acrílico).
-- Telop de Ruby: **【¡Estamos en vivo! ¡Pasa a mirar!】**
+- Pizarra de Ruby: **«¡Estamos en vivo! ¡Pasa a mirar!»**
   (alternativa fiel al ep. 1: «¡Los directos se ven en vivo!»).
-- Cartulina 1: **«¿Estás haciendo algo ahora? Dilo aquí.»**
-- Cartulina 2: **«Pon el enlace y qué estás haciendo.»**
-- Cartulina 3: **«Quien quiera, se mete a mirar.»**
-- Rótulo pequeño en la esquina del monitor: **EN DIRECTO**.
+- Nota 1: **«¿Estás haciendo algo ahora? Dilo aquí.»**
+- Nota 2: **«Pon el enlace y qué estás haciendo.»**
+- Nota 3: **«Quien quiera, se mete a mirar.»**
+- Esquina negra del cartón (arriba a la izquierda, en diagonal, como
+  «本日放送»): **«HOY»**.
+- En el monitor, junto a Ai, un rótulo pequeño: **EN DIRECTO**. Si se
+  quiere lámina 2 («volvemos enseguida»), la **carta de ajuste con
+  conejos** (V·23).
 
 **Cómo no queda plano.**
 - La **luz roja del ON AIR** tiñe la pared y el pelo rubio de Ruby.
 - El **monitor** mete luz rosa del escenario de Ai por el otro lado.
-- **Delante**, desenfocados: cables en el suelo, una caja de cartón
-  ([Poly Haven](https://polyhaven.com/a/cardboard_box_01)) y la punta
-  de una barra de luz.
+- **Delante**, desenfocados: cables, una caja de cartón
+  ([Poly Haven](https://polyhaven.com/a/cardboard_box_01)), la punta de
+  una barra de luz y un **uchiwa de fan** en corazón «アイ 無限恒久永遠推し!»
+  (V·24; [modelo de uchiwa, CC BY](https://sketchfab.com/3d-models/japanese-uchiwa-hand-fan-02-be561cd8b01b49c482a4b26a8ec20bf0)).
 - **Fondo**: pasillo de metal pintado que se pierde en la oscuridad.
 
-### Concepto C — #castings · «La hoja de audición de Kana»
+### Concepto C — #castings · «La hoja de audición de Kana en la puerta de Ichigo Pro»
 **Objeto y sitio.** Una **hoja de audición** sujeta a un **portapapeles**
-([Clipboard](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738))
-sobre la **mesa larga de una sala de pruebas**, como la de Gotanda
-(ep. 1, 43:15–48:30; T3 ep. 34). En la mesa: **claqueta**
-([CC0 Clapperboard](https://sketchfab.com/3d-models/cc0-clapperboard-b541acf3a4f040f98b1bbf4137a66d09)),
-**sello rojo** y su tampón, un bolígrafo rojo. En Blender, la hoja
-con una ligera curva y la pinza de metal ([papel CC0](https://polyhaven.com/textures/paper-card)).
+([Clipboard, CC BY](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738)),
+colgada en la **puerta azul noche de la agencia**, bajo la **placa
+real de la serie «(株)苺プロ 斉藤»** con su fresa (**O·23**, 1920×1080).
+La placa, en la lámina, dice **«Producciones Ichigo · Castings»** (el
+nombre que usa el doblaje latino en la T1). En una mesita al lado:
+**claqueta** ([CC0 - Clapperboard de plaggy, **CC BY**](https://sketchfab.com/3d-models/cc0-clapperboard-b541acf3a4f040f98b1bbf4137a66d09)),
+**sello rojo**, bolígrafo rojo y un **guion** con tapa azul (el que
+lleva Kana en O·18). Papel con curva ([Poly Haven, CC0](https://polyhaven.com/textures/paper-card)).
+Alternativa de sitio: la **sala de ensayo de Lalalai** (O·24).
 
 **Personaje.** **Kana**, la más querida y la que más sabe de pruebas:
-«¡la niña genio que llora en 10 segundos!» (ep. 1, 49:41). Se inclina
-sobre la mesa **señalando la hoja con el índice**. Pose de `bg20`
-(oficial, cuerpo entero: índice junto a la cara, sonrisa pícara) o de
-`bg12` (índice arriba, para «presentar»).
+«¡la niña genio que llora en 10 segundos!» (ep. 1, 49:41). Pose de
+**P·9** (dibujo de animador del ep. 5: **índice arriba, cara seria**,
+«te lo explico») con el **guion** de O·18 en la otra mano; o **P·10**
+(índice a cámara) si se quiere más energía. Con **boina azul marino**
+(P·7-8), que es su seña de todos los días.
 
-**Cómo habla.** **Notas a mano en rojo** en los márgenes de la hoja
-(**Hachi Maru Pop**), como si Kana corrigiera la ficha. Su frase, en un
-**pósit** pegado al portapapeles.
+**Cómo habla.** El **título** va en la **cartela de la serie**: estrella
+negra de cinco puntas redondeadas sobre rombos rojo-rosa `#E74D64` y
+blanco (**O·19**), con «**CASTINGS**» en blanco y, arriba, «第X話» →
+«**HOJA DE AUDICIÓN**» en letra redonda rosa. La **ficha** imita la de
+**talento de la web oficial** (nombre, estatura, «trabajos hechos»).
+Kana corrige a mano en rojo (Hachi Maru Pop) y su frase va en un
+**pósit**.
 
 **Dónde va cada texto.**
-- Impreso arriba de la hoja: **【HOJA DE AUDICIÓN】** (BIZ UDPGothic Bold).
+- Cartela arriba de la hoja: **CASTINGS / HOJA DE AUDICIÓN**.
 - Pósit de Kana: **«Un buen papel no se regala. ¡Se gana!»**
 - Nota 1, junto al título: **«Un casting, un hilo.»**
-- Casillas impresas de la ficha: **Proyecto, Personaje, Tipo de voz,
-  Líneas de prueba, Fecha límite, Pago** (cotejar con el hilo fijado ⚠️).
+- Casillas impresas de la ficha (BIZ UDPGothic Bold): **Proyecto,
+  Personaje, Tipo de voz, Líneas de prueba, Fecha límite, Pago**
+  (cotejar con el hilo fijado ⚠️).
 - Nota 2, con flecha a las casillas: **«Rellena la ficha.»**
 - Tres filas de casillas al pie: **Formato, Pago, Estado**, con la nota
   **«Ponle etiquetas.»**
@@ -994,16 +1587,19 @@ sobre la mesa **señalando la hoja con el índice**. Pose de `bg20`
   ciérralo.»**
 
 **Lámina 2 de #castings:** la segunda hoja con las **15 etiquetas**
-como casillas con sello, en tres grupos (punto 1.3).
+como casillas con sello, en tres grupos (punto 1.3), con la cartela
+en su variante cian (O·20) para distinguirla.
 
 **Cómo no queda plano.**
-- **Lámpara de mesa cálida** desde la izquierda; la **mano de Kana
-  proyecta sombra** sobre el papel.
-- **Claqueta delante**, desenfocada; **silla de director** vacía al
-  fondo, borrosa.
+- **Luz fría de pasillo** desde arriba (como O·23) y una **lámpara
+  cálida** desde la mesita: frío contra cálido.
+- La **mano de Kana proyecta sombra** sobre la hoja; la **claqueta**
+  delante, desenfocada; la **silla de director** ([CC BY](https://sketchfab.com/3d-models/directors-chair-d664c3ed7e1d48f5a0c0ad7f6581477b))
+  asoma al fondo del pasillo.
 - El papel curvado recibe la luz de forma desigual (así la tinta sigue
   la hoja, como pidió el dueño).
-- Paleta: rojo de Kana `#E2102F`, papel crema, madera, sello rojo.
+- Paleta: carmesí de Kana `#83132C`, puerta `#121A25`, placa
+  `#CFC7C0`, rombos `#E74D64`, sello rojo.
 
 ---
 
