@@ -57,3 +57,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 78-vinland-saga | video (relanzo) | sonnet | 7 | 116043 |
 | 79-demon-slayer-paisajes-y-auras | texto | sonnet | 13 | 242801 |
 | 79-demon-slayer-paisajes-y-auras | imagen | sonnet | 14 | 224994 |
+| 79-demon-slayer-paisajes-y-auras | video | sonnet | 16 | 187904 |
