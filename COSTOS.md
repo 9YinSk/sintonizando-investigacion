@@ -46,3 +46,4 @@ Sonnet (unos 16) y la construcción del sistema (unos 17).
 
 Con 100 dólares: unas 3 series nuevas o 5 repasos cortos, en unas 3 horas en
 cadena. Para abaratar el jefe: sesión nueva (conversación corta) y `/model sonnet`.
+| 24-sep | 02 Attack on Titan | repaso corto (en cadena) | voz, tanda 2 | Sonnet | 11 | 118 714 | 46 acciones; minuto exacto de las 3 escenas que hacen llorar con los subtítulos de kitsunekko |
