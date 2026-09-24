@@ -421,6 +421,12 @@ Todos con doble fuente: la wiki y la web oficial (`harrypotter.com`) ✅.
   citar (búsqueda: «Percy Jackson Harry Potter comparison review», no se
   hizo por límite de tanda — queda para quien retome, si hace falta más
   detalle).
+- ⚠️ **Aberración cromática u otro filtro óptico como decisión de estilo**
+  (uno de los ejemplos que pide el punto 18): no encontré ninguna
+  entrevista técnica que hable de eso en Harry Potter — sólo el grano de
+  película y el *bloom* de la magia (§18.1), que sí están confirmados.
+  Búsqueda: «Harry Potter film lens chromatic aberration vignette optical
+  effect cinematography», sin resultado específico a la saga.
 - No busqué **influencias en japonés o coreano**: Harry Potter es una obra
   británica, sin staff de esos países en su creación (el punto de
   «búsqueda en el idioma original» de `ENCARGO.md` aplica a obras

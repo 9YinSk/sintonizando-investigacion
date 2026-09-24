@@ -929,25 +929,139 @@ Tamaños por la API de la wiki. **Los miré en una hoja propia** y medí el colo
 
 ## Punto 20 · Gustos y detalles de cada personaje
 
-_(pendiente)_
+> Parte de voz. **Aviso:** Solo Leveling **no tiene *databook* oficial**: no hay alturas, pesos ni comidas favoritas oficiales. Lo dicen dos webs de fans por separado ([readsololevelingmanga.us](https://readsololevelingmanga.us/solo-leveling-character-heights-and-ages/), que marca todas las alturas como «estimadas», y [DualShockers](https://www.dualshockers.com/solo-leveling-characters-age-height-class/)) ✅. Las alturas que circulan son de fans.
+>
+> ⚠️ **Spoilers:** Suho y lo que viene tras la T2 (Bellion, Kandiaru, Ashborn) son del final. Sirven para escribir bien al personaje, **no para ponerlos en la lámina** (§17).
+
+### Sung Jinwoo
+- **Cumpleaños: 8 de marzo** ([AniList](https://anilist.co/character/129928) + [X oficial de *ARISE*](https://x.com/Sololv_ARISE_GL/status/1766225772581363774), citado por la [wiki del juego](https://solo-leveling-arise.fandom.com/wiki/Sung_Jinwoo#Trivia)) ✅.
+- **Edad:** 23-24 (AniList) ⚠️. **Altura:** sin dato oficial; los fans dan de 179 a 190 cm ⚠️.
+- **Lo que le importa:** su familia (AniList: «se preocupa muchísimo por su familia»). Su madre, Park Kyung-Hye, lleva cuatro años en coma por el «Sueño Eterno» ([wiki: Park Kyung-Hye](https://solo-leveling.fandom.com/wiki/Park_Kyung-Hye#History)) ✅.
+- **Cómo se veía antes:** tímido e inseguro por la pobreza y por ser rango E. Le escondía a Lee Joohee por qué seguía de cazador ([wiki: Personality](https://solo-leveling.fandom.com/wiki/Sung_Jinwoo#Personality)) ⚠️.
+- **Cómo se ve después:** el más fuerte del mundo, pero educado y sencillo. Le da igual lo material: se va a Jeju sin dudar a salvar a otros cazadores (wiki) ⚠️.
+
+### Cha Hae-In
+- **Cumpleaños: 24 de diciembre** ([wiki: Trivia](https://solo-leveling.fandom.com/wiki/Cha_Hae-In#Trivia) + [X oficial de *ARISE*](https://x.com/Sololv_ARISE_GL/status/1871420538591277239)) ✅.
+- **Edad:** 23 (AniList) ⚠️. **Altura:** estimación de fans, 160-170 cm ⚠️.
+- **Cargo:** vicepresidenta del Gremio de Cazadores, rango S, 9.ª cazadora de Corea; discípula del dojo de Song Chiyul ([AniList](https://anilist.co/character/138789)) ⚠️.
+- **Afición: el kendo.** Sigue yendo a clase dos años después de ser rango S (wiki) ⚠️.
+- **Lo que odia:** puede **oler el maná**, y le desagrada el olor de casi todos los cazadores. **El de Jinwoo, no** (AniList; se repite en reseñas) ⚠️.
+- **Cómo se ve a sí misma:** de joven fue **atleta de pista**. Una lesión de tobillo acabó con su carrera y sintió un vacío. Al despertar como cazadora encontró «una nueva pista» ([*ARISE*, Dossier #01-#05](https://solo-leveling-arise.fandom.com/wiki/Cha_Hae-In#Dossier) + [Poggers](https://poggers.com/blogs/anime/solo-leveling-chae-hae-in)) ✅.
+
+### Igris
+- **Nombre humano: Sian Halat.** Caballero plebeyo, famoso por su espada, con esposa e hijos. Los nobles, celosos, **mataron a su familia delante de él** y luego a él. Murió consumido por la sed de sangre y oyó «Arise» ([*ARISE*, Secret File](https://solo-leveling-arise.fandom.com/wiki/Igris#Secret_File) + [CBR](https://www.cbr.com/solo-leveling-arise-igris-backstory-hunter-origin/) + [GameRant](https://gamerant.com/solo-leveling-from-human-to-shadow-the-untold-tale-of-igris/)) ✅.
+- **Manía:** le trae a Jinwoo **las cabezas de los enemigos como trofeo**. Iron le copia y a Igris le molesta ([wiki: Trivia](https://solo-leveling.fandom.com/wiki/Igris#Trivia)) ⚠️ (también en §16).
+- **Cómo se ve:** leal, respetuoso, caballeroso. **Valora la educación**: discutió con Bellion para que Suho fuera a la escuela (wiki, spoiler) ⚠️.
+- Sin cumpleaños, altura ni comida: **no existen** en la wiki ni en el juego.
+
+### Beru
+- **Afición: los doramas coreanos de época.** De ahí su forma de hablar **arcaica y florida** ([wiki: Personality](https://solo-leveling.fandom.com/wiki/Beru#Personality)) ⚠️. Encaja con el doblaje: «mi rey» y siempre de usted (§12.3) ✅.
+- **Cómo se ve:** nació «para liderar a las hormigas» con una orden: exterminar a los humanos. Devoró todo, hasta a los suyos. Esa misma lealtad absoluta la pasa a Jinwoo ([*ARISE*, Secret File](https://solo-leveling-arise.fandom.com/wiki/Beru#Secret_File)) ⚠️.
+- **A quién quiere:** a Suho, el hijo de Jinwoo. Casi llora al saber que el niño lo olvidaría (wiki, spoiler) ⚠️.
+
+### Secundarios
+- **Yoo Jinho:** se compra **armaduras carísimas e inútiles** (gag). Ve a Jinwoo como a un hermano mayor y quiso dejar la empresa de su padre para seguirlo ([wiki](https://solo-leveling.fandom.com/wiki/Yoo_Jinho#Personality)) ⚠️. AniList le da 22 años; en el doblaje del ep. 5 dice «21 años y rango D» (§12.3).
+- **Go Gunhee:** odiaba hacerse mayor y no poder pelear. Trabajaba hasta dañar su salud ([wiki](https://solo-leveling.fandom.com/wiki/Go_Gunhee#Personality)) ⚠️.
+- **Sung Jinah:** cuando se enfada, le da patadas a Jinwoo… y se hace daño ella, porque él es duro como una piedra ([wiki](https://solo-leveling.fandom.com/wiki/Sung_Jinah#Personality)) ⚠️.
+- **El Sistema:** no tiene gustos. Es un programa del Arquitecto (Kandiaru) hecho para Ashborn y su recipiente humano ([wiki: System](https://solo-leveling.fandom.com/wiki/System#Trivia), spoiler) ⚠️.
+
+**Para la lámina:** la historia de Igris (un caballero que lo perdió todo y ahora sirve) da peso a su silencio. Beru habla florido porque ve doramas: eso justifica su «mi rey». Cha Hae-In, atleta que perdió su carrera por una lesión, sirve para un texto sobre superar un límite del cuerpo (la voz también se lesiona).
 
 ---
 
 ## Punto 21 · Por qué la gente la ama (y la escena que hace llorar)
 
-_(pendiente)_
+> Parte de voz, más lo que ya estaba en §3 y §16.
+
+### Los números
+- **Crunchyroll Anime Awards 2025** (25-may-2025, Tokio): **9 premios de 13 nominaciones**, entre ellos **Anime del año**, Mejor serie nueva, Mejor acción, Mejor banda sonora, **Mejor protagonista** y Mejor ending ([Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/2025-crunchyroll-anime-awards-winners-list-1236230002/) + [Kakao Entertainment](https://newsroom.kakaoent.com/news/solo-leveling-wins-top-honor-at-crunchyroll-anime-awards-2025/)) ✅. Kakao, dueña de la obra, lo presenta como la primera obra coreana que gana el premio mayor ⚠️.
+- **51 millones de votos**, récord de esos premios ([eeo Media](https://eeo.today/media/2025/06/02/229291/) + [ASCII.jp](https://ascii.jp/elem/000/004/277/4277087/), en japonés) ✅. **México, Chile y España** están entre los 10 países que más votaron (ASCII.jp) ⚠️.
+- El director, al recibirlo: «Este logro es del equipo apasionado, del reparto y de los fans que la abrazaron» (eeo Media, traducido del japonés) ⚠️.
+- **Más reseñas que One Piece en Crunchyroll** con sólo 23 episodios: 60 300 frente a 59 600 (17-mar-2025) ([Atento a Música](https://atentoamusicamedia.substack.com/p/solo-leveling-rompe-el-record-de), en español) ⚠️ (un blog).
+- **Oricon:** el tomo 24 del manhwa fue **n.º 1 de ventas de manga en Japón** su primera semana (~50 967 copias, marzo de 2026), por delante de One Piece y JoJo ([CBR](https://www.cbr.com/solo-leveling-volume-24-oricon-sales-ranking-win/)) ⚠️.
+- **El juego *ARISE* recaudó más de 100 millones de dólares en 3 meses** (Corea 33 %, EE. UU. 19 %) ([Sensor Tower](https://sensortower.com/blog/solo-leveling-arise-revenue-surpasses-usd100-million-in-3-months)) ⚠️.
+
+### Por qué se identifican con Jinwoo
+- **Del más débil del mundo al más fuerte.** Es la «fantasía de poder» que más citan reseñas y foros ([reseñas de MyAnimeList](https://myanimelist.net/profile/GRG3/reviews), [IMDb](https://m.imdb.com/news/ni65093385)) ⚠️.
+- **«Si quiere hacer algo, lo hace»:** un protagonista sin dudas eternas ni angustia de más (mismas fuentes) ⚠️.
+- Y lo hace **por su familia** (punto 20): la fuerza tiene un porqué.
+
+### La escena que hace llorar: «Lo valió todo» (ep. 21)
+- **Qué pasa:** Jinwoo conquista el Castillo de los Demonios, consigue el **Agua Sagrada de la Vida** y va directo al hospital. Su madre despierta tras cuatro años de coma. Lo primero que pregunta es cómo está Jinah ([wiki: Episode 21](https://solo-leveling.fandom.com/wiki/Episode_21) + [wiki: Park Kyung-Hye](https://solo-leveling.fandom.com/wiki/Park_Kyung-Hye#History); cap. 90 del webtoon) ✅.
+- **Cómo está dibujada** (fotograma visto en un [post de Reddit con 631 votos](https://www.reddit.com/r/sololeveling/comments/1j17hlz/i_cried_during_this/), [imagen](https://i.redd.it/vth9mmvyp4me1.jpeg)): **primer plano** de Jinwoo llorando, **luz azul fría**, una mano en la mejilla, lágrimas cayendo de la barbilla ✅ (visto).
+- **Por qué duele:** el comentario que lo resume: «**Está llorando feo.** Los animadores no quisieron que se viera varonil ni guapo. Me encanta esta escena» ✅ (citado textual).
+- **Cómo reaccionó la gente:** en algunos sitios el capítulo recibió votos negativos por mostrarlo «débil»; muchos lo defendieron: «fue hermoso y mostró cuánto había valido la pena hacerlo todo por su madre» ([Reddit, 75 votos](https://www.reddit.com/r/sololeveling/comments/1q64i1a/)) ⚠️.
+- **Música:** el ep. 21 tiene el tema de inserción «REVIVƎЯ» (SAWANO feat. SennaRin, §13) ⚠️: no sé si suena justo en ese momento.
+- **Minuto exacto: no lo tengo** ⚠️. El avance oficial del ep. 21 en Dailymotion (`x9fcj74`) da «Not found» y YouTube pide iniciar sesión.
+
+### Las que hacen gritar y reír
+- **Gritar de emoción:** cada «**Surge.**» (ep. 14 · 12:48; ep. 18 · 17:49; ep. 21 · 02:33, §12.3) y la pelea con Igris (ep. 12, §16) ✅. La exposición de Seúl tiene una estación para **invocar sombras gritando «Arise»** (punto 23): es el momento que todos reconocen ✅.
+- **Beru arrodillado pidiendo un nombre** (ep. 25 · 09:04, §12.3) ✅.
+- **Reír:** Iron copiándole a Igris lo de las cabezas, las armaduras inútiles de Jinho, Jinah pateando a su hermano (punto 20) y las sombras en *chibi* como mayordomos (§16).
+
+**Para la lámina:** el gancho es «la más votada del año» (51 millones de votos). La escena del ep. 21 es la emoción más fuerte, pero es triste: úsala sólo en un hilo que lo pida.
 
 ---
 
 ## Punto 22 · Fan dubs y comunidad hispana
 
-_(pendiente)_
+> Parte de voz. Cada vídeo, comprobado por `oembed` (existe, título y canal). **Las vistas no las pude leer** ⚠️: YouTube y TikTok no las dan por `oembed` y `yt-dlp` pide iniciar sesión.
+
+### Covers de los openings en español latino
+| Opening | Canal | Enlace |
+|---|---|---|
+| OP 1 «LEveL» | David Delgado (@daviddelgadocovers) | [YouTube](https://www.youtube.com/watch?v=TSMWCpek2vo) ✅ |
+| OP 1 «LEveL» | Edgardo Artieda, «André - A!» (@andreartieda) | [YouTube](https://www.youtube.com/watch?v=tPRRCivyjvI) ✅ |
+| OP 1 «LEveL» | The Covers Duo (@TheCoversDuo) | [YouTube](https://www.youtube.com/watch?v=6GpGXTykyjo) ✅ |
+| OP 1 «LEveL» | Yukisei (@Yukiseif) | [YouTube](https://www.youtube.com/watch?v=AweBtioFOIQ) ✅ |
+| OP 2 «REAWAKER» | Danie Green (@DanieGreen) | [YouTube](https://www.youtube.com/watch?v=rBylGc6RmlI) ✅ |
+| OP 2 «REAWAKER» | «André - A!» (el mismo del OP 1) | [YouTube](https://www.youtube.com/watch?v=edOetiCihSQ) ✅ |
+
+### Memes y parodias hispanas
+- **@yerastian** en TikTok, «Para lo que duran nememes» (#sololeveling #humor #sung #jinwoo) ([TikTok](https://www.tiktok.com/@yerastian/video/7484697888203771142)) ✅ (autor y título por `oembed`).
+- Tendencia «me vi TODO Solo Leveling pero creo que me perdí el mejor capítulo», atribuida a **@naruto_dominiicano** ⚠️: no encontré el enlace directo al vídeo.
+
+### La comunidad hablando del doblaje
+- **Antov**, «Las voces de Solo Leveling | Doblaje latino» ([YouTube](https://www.youtube.com/watch?v=LRy-ClfLQ_k), ya en §12.4) ✅. No es un fandub: es un fan presentando al reparto oficial.
+- **Nueva fuente del reparto:** *The Dubbing Database* tiene su ficha latina ([dubdb.fandom.com](https://dubdb.fandom.com/wiki/Solo_Leveling_(Latin_American_Spanish))): VSI México, Fernando Moctezuma, Sofía Huerta, Brandon Montor y **Daniel Lacy como Beru** ✅. Es una tercera fuente para esos nombres (§12.2).
+- **México, Chile y España** entre los 10 países que más votaron en los premios de Crunchyroll (punto 21) ⚠️.
+
+### Fandub con grupo propio: no lo encontré
+- Busqué fandubs latinos de episodios enteros (Frikidoblaje, SakuraDubs, Kudasai Fandub, AS Fandub) y revisé [Fandub Database](https://fandubdb.fandom.com/) y *The Dubbing Database*. En la de fandubs **sólo hay versiones en filipino e indonesio**.
+- Lo que sale son copias piratas de la temporada oficial mal etiquetadas como «fandub» y un fandub para adultos (no apto). **No digo que no exista**: no encontré uno limpio y comprobable.
+
+**Para la lámina y el servidor:** los covers son material listo para un post de «covers de la comunidad» en el canal de canto. En #guia, el hilo con etiqueta **Doblaje** puede enlazarlos. Un fandub propio del servidor sería el primero en español de esta serie que yo haya podido encontrar.
 
 ---
 
 ## Punto 23 · Colaboraciones, figuras y cosplay
 
-_(pendiente)_
+> Parte de imagen. Tamaños medidos con Pillow.
+
+### Videojuegos (cada cruce trae poses y ropa nuevas)
+- **Fortnite × *Solo Leveling: ARISE*:** tres trajes oficiales, **Sung Jinwoo, Cha Hae-In e «Igris, comandante rojo sangre»**, del 20-feb al 2-mar-2026 (antes, la «Arise Cup», 19-20 feb). El de Jinwoo es **reactivo**: cambia al eliminar rivales, como su paso a Monarca ([tienda de Fortnite](https://www.fortnite.com/item-shop/offers/sung-jinwoo-ed689683), [lote](https://www.fortnite.com/item-shop/offers/solo-levelingarise-bundle-bf68c9e7); [VideoGamer](https://www.videogamer.com/news/fortnite-solo-leveling-crossover-sung-jinwoo/) + [ExitLag](https://www.exitlag.com/news/solo-leveling-in-fortnite/)) ✅.
+- ***ARISE* × *Frieren*** (oct-2025): Frieren, Fern y Stark jugables, con misión especial ([imagen oficial, 1280×720](https://cdn5.idcgames.com/storage/image/1577/frieren-collaboration-update-pv/default.jpg); [IDC Games](https://idcgames.com/en/solo-levelingarise/news/frieren-joins-solo-leveling-arise-in-an-epic-collaboration-with-beyond-journey%E2%80%99s-end-2025-10-23-11-00-11653) + [Inven Global](https://www.invenglobal.com/articles/19808/solo-leveling-arise-announces-collaboration-with-frieren-beyond-journeys-end)) ✅. También en la biblia de Frieren (33).
+- **Grand Summoners × Solo Leveling** (desde el 12-jun-2026): Jinwoo, Choi Jong-In, Cha Hae-In e Igris jugables, con sus armas ([ANN, nota de prensa](https://www.animenewsnetwork.com/press-release/2026-06-12/grand-summoners-x-solo-leveling-now-available-in-many-territories-worldwide/.238449) + [CBR](https://www.cbr.com/solo-leveling-grand-summoners-game-crossover-collaboration/)) ✅.
+- ***ARISE* × (G)I-DLE** (K-pop): MIYEON y SHUHUA como cazadoras jugables (Game8) ⚠️. **Interesa al servidor: es de canto.**
+- ***ARISE* × OVERDRIVE** (código cruzado; dotgg.gg) ⚠️ y **Seven Knights Re:BIRTH × Solo Leveling** (gamefragger.com) ⚠️: una fuente cada uno.
+
+### Eventos, cafés y tiendas
+- **Exposición inmersiva en Seúl** (la primera de la serie): 22-nov-2025 a 1-mar-2026, DUEX Hongdae. Zonas del **templo de Cartenon**, **Jeju** y la **mazmorra de la estación de Hongdae**; **figuras a tamaño real de Jinwoo, Igris y el Rey Hormiga**; una estación para **invocar sombras gritando «Arise»**; café temático y licencias de cazador de mentira en la tienda ([visual, 1107×622](https://static.animecorner.me/2025/09/1759182098-938fb7693a9c38ba777e1cf5b0a4bc41.png); [Anime Corner](https://animecorner.me/solo-leveling-gets-first-visual-for-immersive-new-exhibition-in-korea/) + [The Korea Herald](https://www.koreaherald.com/article/10589225)) ✅.
+- **Café *ARISE* × ANIPLUS:** 22-ago a 6-oct-2024, Hapjeong, Seúl (web de reservas, world.nol.com) ⚠️.
+- **«System Sync»,** tienda temporal de **Solo Leveling × *Omniscient Reader's Viewpoint*** (las dos las publica Ize Press en inglés): 14-30 ago-2026, Manhattan, junto a Anime NYC. Ropa que brilla en la oscuridad ([ANN](https://www.animenewsnetwork.com/news/2026-07-17/solo-leveling-omniscient-reader-viewpoint-pop-up-store-to-open-in-new-york-in-august/.239721) + [Yen Press](https://yenpress.com/news/system-sync) + [CBR](https://www.cbr.com/solo-leveling-omniscient-readers-viewpoint-system-sync/)) ✅.
+- **Colaboración con marcas de ropa o bebidas** (tipo Uniqlo o 7-Eleven): **no la encontré** ⚠️.
+
+### Figuras oficiales (pose en 3D de verdad)
+- **Nendoroid Sung Jinwoo n.º 2597** (Good Smile): unos 10 cm, **3 caras** (mando, batalla, *chibi*) y piezas: **Knight Killer**, un soldado de sombra y **el panel del Sistema**. Salió en abril de 2025; se reedita en marzo de 2027 ([foto oficial, 750×1000](https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34792/u5732DjFSANprK9bicHCL4kxQ0RzWZUm.jpg); [Good Smile](https://www.goodsmile.com/en/product/34792) + [CBR](https://www.cbr.com/solo-leveling-sung-jinwoo-good-smile-company-nendoroid-concept-art-reveal/)) ✅. **Sirve de referencia 3D:** de pie, arma al hombro. La cara *chibi* **no** va en la lámina (punto 18).
+- Un peluche de Jinwoo de Good Smile se agotó enseguida (ScreenRant) ⚠️.
+
+### Cosplay bien hecho (volumen y materiales reales)
+- **Esil Radiru**, armadura roja y dorada hecha a mano, con relieve real en hombreras, peto y guantes ([foto, 4096×2731](https://i.redd.it/i917f5bdst6h1.jpg), de u/_Mikomihokina_, [post en r/SoloLeveling](https://www.reddit.com/r/sololeveling/comments/1u3r1le/)) ✅ (vista; autora identificada).
+- **Igris** sin casco: placas superpuestas de espesor real (goma EVA o worbla), capa, y el casco aparte en un pie ([foto, 4016×6016](https://i.redd.it/mv4qi4hnqjcg1.jpg), de u/Halfangel66, [post](https://www.reddit.com/r/sololeveling/comments/1q980kq/)) ⚠️ (una fuente, vista). **Enseña cómo brilla el metal grabado con luz de estudio.**
+- Con más votos, sin abrir: «Igris Cosplay» (5925 puntos, vídeo) y «Peak Igris Cosplay» (1635) ⚠️.
+- **Descartados:** un cosplay de Cha Hae-In con peluca rubia pero **ropa de calle**, no el uniforme; y el viral «Perfect cosplay of Jinwoo» (5598 puntos), que es un chico que se parece a Jinwoo y se enmarca la cara con una copa de vino: es un meme, no un disfraz.
+
+**Para la lámina:** la exposición demuestra que **invocar sombras es el gesto que todos reconocen**. El Nendoroid enseña el panel del Sistema como objeto físico: encaja con la idea del encargo (la ventana dentro de un sitio real). El cosplay de Igris, para el brillo del metal.
 
 ---
 

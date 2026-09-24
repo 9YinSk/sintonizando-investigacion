@@ -247,12 +247,96 @@ los 3 patrones de tela por casa que faltaban en el punto 19.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- **Textura CC0 medida** para túnica/jersey: Poly Wool Herringbone
+  (8216×8387) y Knitted Fleece (8103×8226) de Poly Haven — encajan con el
+  «objeto real en Blender» si algún concepto lleva ropa en primer plano.
+- **25 tartanes CC0** (OpenGameArt) como base tileable para pintar la
+  corbata o bufanda de una casa sobre los hex ya medidos en el punto 15.
+- El **símbolo de las Reliquias de la Muerte** en CC0 (600×600, Openclipart)
+  es el único emblema del fandom con licencia limpia de verdad; el resto
+  (Noun Project, Vecteezy) pide atribución o pago.
+- **Dobby en LEGO 2026** (set 76469): pose 3D oficial y reciente de un
+  personaje del encargo, con la caja/arte de producto como referencia.
+- **Vans×HP** fija de forma oficial el patrón de tela por casa (serpiente
+  Slytherin, tablero Ravenclaw, rayas Gryffindor): cierra el hueco del
+  punto 19 con una fuente comercial real, no inventada.
 
 ## No encontré
 
-(pendiente)
+- **Textura de grano de imprenta a puntos (halftone)** con licencia clara:
+  Unblast, Spoongraphics y Texturelabs bloquearon la lectura (403 o reto
+  anti-robots) en los dos intentos permitidos por sitio. Alternativa CC0
+  encontrada: «Old paper texture» y «Old-squared paper» de OpenGameArt (sin
+  el punto de imprenta, pero sirven de base).
+- **Silueta heráldica suelta de serpiente, águila y tejón** con licencia
+  clara (para montar los 4 escudos de casa desde cero): sólo confirmé el
+  león (Openclipart, CC0). Busqué `openclipart.org serpent heraldic`,
+  `openclipart eagle heraldic`, `openclipart badger heraldic` sin un
+  resultado tan claro como el del león.
+- **Licencia exacta** de los patrones «The Weasley Sweater» (Ravelry, Alison
+  Hansel) y «Weasley sweater» (RitaKhor): no comprobé si el PDF es gratis o
+  de pago.
+- **Página oficial de McFarlane Toys** para Harry Potter: dio 404 al
+  comprobarla (`mcfarlane.com/toys/brands/wizarding-world-of-harry-potter/`);
+  sólo queda un listado de reventa en Amazon, no lo cito como fuente firme.
+- **Cosplay documentado con materiales** de Hermione, Draco o Luna al mismo
+  nivel que el de Bellatrix (The Woodland Elf): no llegué a esa búsqueda
+  por el cupo de la tanda.
+- Quién diseñó el escudo de Hogwarts y el símbolo de las Reliquias de la
+  Muerte **para las películas** (nombre y año): logodesign.org no lo dice;
+  no encontré una fuente que lo confirme. No es una confusión del fandom:
+  simplemente no completé esa búsqueda en otro idioma.
 
 ## Bitácora
 
-(pendiente)
+- `datos-imagen.md` (recolectado antes, no repetido): wiki de Fandom por
+  personaje, Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse.
+- Web, español: «colaboración Harry Potter marca café tienda evento»
+  (dentro de las búsquedas de abajo, en inglés casi todo porque las notas
+  de prensa de moda/juguetes son en inglés).
+- Web, inglés: `Harry Potter house crest SVG free vector`, `Deathly Hallows
+  symbol free vector PNG texture`, `parchment paper texture free CC0 brush
+  Photoshop`, `who designed Hogwarts house crests Deathly Hallows symbol for
+  the films illustrator`, `Harry Potter house tie striped pattern seamless
+  texture free`, `Weasley sweater knit pattern free Fair Isle Ravelry`,
+  `halftone dot pattern free texture CC0 old newspaper print grain
+  overlay`, `Hogwarts crest icon Noun Project license`, `quill ink splatter
+  brush free Photoshop CC0`, `halftone dots pattern opengameart.org CC0`,
+  `openclipart.org lion silhouette heraldic CC0`, `Harry Potter Minecraft
+  Wizarding World DLC removed marketplace`, `"Harry Potter" videojuego
+  crossover Fortnite OR Roblox OR Wizards Unite AR`, `Harry Potter themed
+  cafe Tokyo Seoul pop-up official Warner Bros`, `Harry Potter Funko Pop
+  official figures Mattel dolls McFarlane`, `Harry Potter cosplay Hermione
+  Bellatrix armor build tutorial materials`, `LEGO Dimensions Harry Potter
+  crossover Minecraft LEGO sets 2026 anniversary`, `Mattel Harry Potter
+  dolls 2018 Wizarding World collector line McFarlane Toys figures`, `Harry
+  Potter Puzzles Spells Warner Bros Games gacha mobile crossover event
+  brand collaboration`, `Harry Potter Magic Awakened NetEase gacha
+  character card system limited banner`, `Harry Potter Vans Pandora
+  official brand collaboration collection 2020`, `"Vans" "Harry Potter"
+  collection sneaker news Hypebeast OR Footwear News`.
+- Fuentes abiertas directamente (`WebFetch`/`curl`): harrypotter.com
+  (emblemas, Vans, MinaLima Seúl, Puzzles & Spells), logodesign.org,
+  freesvg.org/deathlyhallows, vecteezy.com (403, bloqueado), flaticon.com
+  (403, bloqueado), heropatterns.com, api.polyhaven.com (fabric/knitted/
+  wool), unblast.com (bloqueado por captcha, 2 intentos), opengameart.org
+  (colección CC0, tartanes, papel), heraldicart.org, thebrickfan.com,
+  lego.com, thewoodlandelf.com, dexerto.com, soranews24.com, koreaherald.com,
+  mcfarlane.com (404).
+- Sitios que dieron 403/bloqueo y no insistí una tercera vez (regla de
+  AYUDANTE.md): Vecteezy, Flaticon, Unblast (captcha).
+- Nada de esto tocó `biblia.md`, `hojas/` ni las consultas ya hechas en
+  `datos-imagen.md`.
+
+Sigue: nada obligatorio pendiente de los puntos 19 y 23 (ver «Cumplimiento»
+abajo); lo que falta son extras ya listados en «No encontré». Si se retoma,
+seguir por: silueta heráldica de serpiente/águila/tejón en Openclipart,
+licencia de los patrones de Ravelry, y un cosplay documentado de Hermione o
+Draco con materiales (para completar el abanico de personajes del encargo).
+
+## Cumplimiento de mis puntos (19 y 23)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 19 · Texturas 2D | ✅ | emblemas oficiales (harrypotter.com), Reliquias de la Muerte CC0 medida, tartanes CC0, dos texturas de tela CC0 medidas por la API de Poly Haven, patrones de casa confirmados por Vans×HP (dos fuentes). Sin cerrar del todo: el halftone de imprenta (bloqueado dos veces) y la licencia exacta de los patrones de punto de Ravelry, ambos en «No encontré» como extra, no como obligatorio |
+| 23 · Colaboraciones y cruces | ✅ | Fortnite (con aviso de sensibilidad para el dueño), Wizards Unite, Puzzles & Spells, Magic Awakened (gacha confirmado), LEGO 25 aniversario (con pose nueva de Dobby), Vans, Pandora, Ariani, 3 cafés/tiendas-evento (Tokio ×2, Seúl), Funko Pop oficial (3 fuentes) y un cosplay documentado con materiales. McFarlane Toys y dolls de Mattel 2018 quedan con fuente floja, en «No encontré» como extra |
