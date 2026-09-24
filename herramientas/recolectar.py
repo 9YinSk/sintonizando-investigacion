@@ -93,6 +93,28 @@ def parecido(a, b):
     return difflib.SequenceMatcher(None, n(a), n(b)).ratio()
 
 
+# Obras de los canales (01-36) que no son anime; las demás salen del grupo de catalogo.py
+NO_ANIME = {"04": "pelicula", "08": "pelicula", "09": "occidental", "13": "occidental", "14": "occidental",
+            "15": "occidental", "17": "occidental", "21": "pelicula", "23": "pelicula", "26": "occidental"}
+
+
+def tipo_de(id, serie):
+    """anime, occidental, pelicula o juego (decide qué fuentes tienen sentido)."""
+    if id.split("-")[0] in NO_ANIME:
+        return NO_ANIME[id.split("-")[0]]
+    try:
+        sys.path.insert(0, str(RAIZ))
+        from catalogo import SERIES
+        for grupo, obras in SERIES.items():
+            if any(parecido(o[0], serie) > 0.9 for o in obras):
+                g = grupo.lower()
+                return ("juego" if "videojuego" in g else "occidental" if "occidental" in g
+                        else "pelicula" if "sagas" in g else "anime")
+    except Exception:                                                   # noqa: BLE001
+        pass
+    return "anime"
+
+
 def leer_encargo(id):
     t = (RAIZ / "encargos" / f"{id}.md").read_text(encoding="utf-8")
     campo = lambda k: (re.search(rf"\*\*{k}[^*]*:\*\*\s*(.+)", t) or [None, ""])[1].strip()
@@ -173,6 +195,9 @@ AL_Q = """query($s:String,$t:MediaType){Media(search:$s,type:$t,sort:SEARCH_MATC
 
 @paso("anilist")
 def anilist(ctx, s):
+    if ctx["tipo"] != "anime":
+        s.fallos.append(f"anilist: no aplica ({ctx['tipo']}; usa --tipo anime si lo es)")
+        return None
     m = None
     for tipo in ("ANIME", "MANGA"):
         for nombre in ctx["nombres"]:
@@ -183,15 +208,19 @@ def anilist(ctx, s):
             cand = (d.get("data") or {}).get("Media")
             if cand:
                 titulos = [cand["title"].get(k) or "" for k in ("romaji", "english", "native")] + cand["synonyms"]
-                if max(parecido(nombre, t) for t in titulos if t) >= 0.6:
+                sim = max(parecido(nombre, t) for t in titulos if t)
+                if sim >= 0.85:
                     m = cand
                     break
+                s.fallos.append(f"anilist: descarté «{cand['title'].get('english') or cand['title']['romaji']}» "
+                                f"({cand['format']}, parecido {sim:.2f} con «{nombre}»); si es la obra, usa --nombres")
             time.sleep(1)
         if m:
             break
     if not m:
         s.fallos.append("anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés)")
         return None
+    s.frag[s.actual]["fallos"] = []  # hubo un descarte antes del acierto: no es un fallo
     ctx["anilist"] = m
     # AniList junta los alias con el mismo campo: las voces en español van en otra consulta
     es = pedir("https://graphql.anilist.co", {"query": "query($i:Int){Media(id:$i){characters(sort:FAVOURITES_DESC,perPage:25)"
@@ -594,6 +623,8 @@ def openverse(ctx, s):
 
 @paso("animethemes")
 def animethemes(ctx, s):
+    if ctx["tipo"] != "anime":
+        return None
     nombre = (ctx.get("anilist") or {}).get("title", {}).get("romaji") or ctx["nombres"][0]
     r = pedir("https://api.animethemes.moe/anime?page[size]=3&include=animethemes.song.artists,"
               f"animethemes.animethemeentries.videos&filter[name]={q(nombre)}")
@@ -734,6 +765,7 @@ def main():
     ap.add_argument("--personajes", nargs="*", default=[])
     ap.add_argument("--solo", nargs="*", default=[], help="sólo estas fuentes (" + ", ".join(f.nombre for f in FUENTES) + ")")
     ap.add_argument("--hojas", action="store_true", help="también hojas de contacto con investigar_serie.py")
+    ap.add_argument("--tipo", choices=["anime", "occidental", "pelicula", "juego"], help="si la detección falla")
     a = ap.parse_args()
 
     enc = leer_encargo(a.id)
@@ -741,9 +773,9 @@ def main():
     nombres = a.nombres + [serie] + [re.sub(r"^(La|El|Los|Las)\s+", "", serie), serie.split(":")[0].strip()]
     ctx = {"id": a.id, "serie": serie, "nombres": list(dict.fromkeys(x for x in nombres if x)),
            "wiki": a.wiki or enc["wiki"], "personajes": a.personajes or enc["personajes"], "objeto": enc["objeto"],
-           "hojas": a.hojas, "crudo": RAIZ / "herramientas" / "referencias" / a.id / "recoleccion"}
+           "hojas": a.hojas, "tipo": a.tipo or tipo_de(a.id, serie), "crudo": RAIZ / "herramientas" / "referencias" / a.id / "recoleccion"}
     ctx["crudo"].mkdir(parents=True, exist_ok=True)
-    print(f"Recolectando «{serie}» · nombres {ctx['nombres']} · wiki {ctx['wiki'] or '—'} · personajes {ctx['personajes']}")
+    print(f"Recolectando «{serie}» ({ctx['tipo']}) · nombres {ctx['nombres']} · wiki {ctx['wiki'] or '—'} · personajes {ctx['personajes']}")
     s = Salida()
     for f in FUENTES:
         if not a.solo or f.nombre in a.solo or f.nombre == "anilist":
