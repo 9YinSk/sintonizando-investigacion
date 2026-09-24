@@ -833,10 +833,10 @@ enlace se comprobó con `yt-dlp` (título, canal, duración) el 24-sep-2026.
 | [Tráiler de 2012 (Pony Canyon)](https://www.youtube.com/watch?v=KKzmOh4SuBc) | créditos en mincho | ver §6; Mikasa con la bufanda y leña ([0:06-0:08](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=6)) |
 | [Tráiler del Especial 1, doblaje latino (Crunchyroll)](https://www.youtube.com/watch?v=sFuAhHTgABs) | créditos en español | ver §6; Hange de la T4 con capa, de frente ([0:30](https://www.youtube.com/watch?v=sFuAhHTgABs&t=30)) |
 | [«Declaración de Guerra» (Crunchyroll, doblado)](https://www.youtube.com/watch?v=pNRP0z8IwHQ) | escenario con foco: «anuncio» | ver §9.4 |
-| [Voz de Levi en español latino](https://www.youtube.com/watch?v=UTRAXM1PCFc) | el timbre de Basurto | VOZLEVI |
-| [Recopilación de cartelas T1-T4 (subida de fan, 10:02)](https://www.youtube.com/watch?v=0LU5UpvK2Vk) | las fichas «Información pública» en vídeo | CARTELAS |
-| [Emisión oficial de la fecha de *AoT 3* (Koei Tecmo, 9:12, 3-ago-2026)](https://www.youtube.com/watch?v=2yD_s-8A12s) | interfaz del juego nuevo | EMISION |
-| [Demo de *AoT 3*](https://www.youtube.com/watch?v=R2KM0OgyU-M) | menús y cajas | DEMO |
+| [Voz de Levi en español latino (subida de fan «Carl», 1:33, 17-ene-2022)](https://www.youtube.com/watch?v=UTRAXM1PCFc) | el timbre de Basurto | existe ✅; es audio: no se puede «ver» por *storyboard*. Escucharlo antes de escribir su frase |
+| [Recopilación de cartelas T1-T4 (subida de fan, versión inglesa, 10:02)](https://www.youtube.com/watch?v=0LU5UpvK2Vk) | las fichas «Información pública» en vídeo | la ficha del tribunal ([2:30](https://www.youtube.com/watch?v=0LU5UpvK2Vk&t=150)); las de la temporada final **siguen el mismo formato** ([8:40-10:00](https://www.youtube.com/watch?v=0LU5UpvK2Vk&t=520)). En la versión inglesa la cinta dice «Information We Can Share So Far»: **la cinta se traduce**, así que en español puede llevar texto en español |
+| [Emisión oficial de la fecha de *AoT 3* (Koei Tecmo, 9:12, 3-ago-2026)](https://www.youtube.com/watch?v=2yD_s-8A12s) | interfaz del juego nuevo | «12月10日(木)発売決定!» en serif blanca sobre los ojos de Eren ([0:55](https://www.youtube.com/watch?v=2yD_s-8A12s&t=55)); el productor lleva la chaqueta de recluta; creación de personaje ([3:10-3:20](https://www.youtube.com/watch?v=2yD_s-8A12s&t=190)); escenas con subtítulo blanco sin caja ([3:25-3:50](https://www.youtube.com/watch?v=2yD_s-8A12s&t=205)) |
+| [Demo de *AoT 3* (grabada por el canal SLOplays, 10:46)](https://www.youtube.com/watch?v=R2KM0OgyU-M) | menús y cajas | ver §12: diálogo sin caja ([0:05](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=5), [0:45](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=45)) y **franja de pincel oro viejo** de misión ([2:55](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=175)) |
 | TikTok: [Gabriel Basurto saluda como Levi](https://www.tiktok.com/@robb_g89/video/7343408637378858246) · [descubrir «give up your dreams»](https://www.tiktok.com/discover/give-up-your-dreams-and-die-scene?lang=en) · [arte nuevo de MAPPA](https://www.tiktok.com/discover/mappa-new-aot-official-art) | tendencias | — |
 
 Novedad: desde el Día de AoT (9-sep-2026) hay **canal oficial de YouTube**
@@ -855,8 +855,25 @@ Novedad: desde el Día de AoT (9-sep-2026) hay **canal oficial de YouTube**
 | *Attack on Titan TACTICS* (móvil) | personajes chibi, con historia original | [TCRF](https://tcrf.net/Attack_on_Titan_TACTICS) |
 | *AoT VR: Unbreakable* (Meta Quest) | eres un recluta nuevo, con Eren, Mikasa, Armin y Levi | [UploadVR](https://www.uploadvr.com/attack-on-titan-unbreakable-review/) · [Screen Rant](https://screenrant.com/attack-on-titan-vr-unbreakable-review/) |
 
-**Cajas de diálogo de los juegos: sin capturas.** Cuando salga *AoT 3* (10-dic)
-conviene capturar su caja: sería un segundo cuadro oficial.
+**La interfaz de *Attack on Titan 3*, vista en la demo** ([vídeo](https://www.youtube.com/watch?v=R2KM0OgyU-M),
+*storyboard* de 320×180, un fotograma cada 5 s; borroso, así que es aproximado):
+- **Diálogo en escena**: subtítulo blanco centrado abajo, «Nombre：frase», **sin
+  caja**, sobre bandas negras de cine ([0:05](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=5)).
+- **Diálogo jugando**: **retrato cuadrado pequeño** de quien habla, su nombre
+  encima y dos líneas de texto blanco, **sin caja**, abajo al centro; minimapa
+  redondo de papel sepia abajo a la izquierda ([0:45](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=45)).
+- **Título de misión** («DEFENSE MISSION / 防衛戦»): **una franja ancha de
+  pincel oro viejo** arriba (medida `#6D5A1B`-`#7E6922`), con un emblema en un
+  rombo a la izquierda, letras latinas pequeñas y espaciadas y el título
+  japonés en mincho oscuro; debajo, el mapa de la misión en papel sepia con una
+  flecha roja ([2:55-3:00](https://www.youtube.com/watch?v=R2KM0OgyU-M&t=175)).
+  **Es casi el mismo oro viejo que la cinta de la ficha del ep. 16**
+  (`#6D581E`-`#796120`): la cinta de pincel sigue siendo el sello de la
+  franquicia en 2026.
+- Arriba a la derecha sale la cámara de quien juega: no es del juego.
+
+De los juegos anteriores (*Wings of Freedom*, *AoT 2*) sigo **sin capturas** de
+su caja de diálogo (Game UI Database no tiene AoT).
 
 ---
 
