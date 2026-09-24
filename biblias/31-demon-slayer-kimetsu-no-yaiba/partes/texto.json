@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://sketchfab.com/3d-models/none-0ab5b317b7654fd29255d22182537ded",
+    "fuente": "Sketchfab (Light.k)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Tanjiro Kamado, totalmente rigueado (33.764 caras)",
+    "para_que": "Punto 18 · rig libre para posar y renderizar en Blender con toon-shading",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-327741c265db45c1b92ca9f1aeb57e99",
+    "fuente": "Sketchfab (Light.k)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Akaza (Superior 3), rigueado y texturizado (45.629 caras)",
+    "para_que": "Punto 18 · rig libre de un demonio Superior para escenas de combate en Blender",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-91a0c5978dd74ca5a0d4747c89270f99",
+    "fuente": "Sketchfab (Light.k)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Kyojuro Rengoku, totalmente rigueado (59.528 caras)",
+    "para_que": "Punto 18 · rig libre del personaje secundario más querido (Pilar de la Llama) para Blender",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c57b6393ddee4c86b28a26c26d7a7a8f",
+    "fuente": "Sketchfab (AikoX)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Nezuko, rigueado con shapekeys de expresión (122.561 caras)",
+    "para_que": "Punto 18 · rig libre con controles de cara, útil para posar emociones en Blender",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-dfebaddf7ec442cc8cf81f561fcb465b",
+    "fuente": "Sketchfab (K-)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Tanjiro haciendo la Danza del Dios del Fuego (Hinokami Kagura), con archivo .blend original enlazado",
+    "para_que": "Punto 18 · referencia de pose de acción y archivo fuente de Blender ya listo",
+    "licencia": "CC Attribution 4.0"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=1707223",
+    "fuente": "CLIP STUDIO ASSETS",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pincel oficial gratis \"Manga Line Brush\" para tinta de línea de manga",
+    "para_que": "Punto 18 · pincel de línea libre para imitar el trazo de tinta del manga en Clip Studio",
+    "licencia": "gratis (tienda oficial de Clip Studio, revisar términos de uso por ítem)"
+  },
+  {
+    "url": "https://www.deviantart.com/pearlpencil/art/Manga-Brush-Line-for-Photoshop-268440777",
+    "fuente": "DeviantArt (Pearlpencil)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pincel de línea manga gratis en formato .abr, nativo de Photoshop",
+    "para_que": "Punto 18 · pincel de tinta libre, listo para Photoshop (no requiere conversión)",
+    "licencia": "gratis (crédito al autor pedido en la página)"
+  },
+  {
+    "url": "https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/",
+    "fuente": "Sakuga Blog",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ensayo de análisis de animación: técnica de ufotable, animadores clave y compositing en Kimetsu no Yaiba",
+    "para_que": "Punto 18 · fuente escrita sobre línea variable, sombreado y compositing (no es imagen para pegar)",
+    "licencia": "artículo con derechos de autor del blog; sólo como referencia de lectura, no para reproducir imágenes"
+  },
+  {
+    "url": "https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/",
+    "fuente": "jb siraudin (blog personal)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ensayo de análisis de composición y encuadre en los combates de Demon Slayer",
+    "para_que": "Punto 18 · guía de encuadres/composición típicos por emoción, con ejemplos de combate",
+    "licencia": "artículo con derechos de autor del blog; sólo como referencia de lectura"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/25/Demon_Slayer_Corps_Insignia.png",
+    "fuente": "Kimetsu no Yaiba Wiki (kimetsu-no-yaiba.fandom.com), API imageinfo (ya citada en imagen.json; se repite aquí sólo como referencia cruzada del vocabulario del punto 25, no se descarga dos veces)",
+    "ancho": 559,
+    "alto": 553,
+    "que_es": "Insignia del Cuerpo de Cazadores de Demonios (rama de glicinia sobre el kanji 藤)",
+    "para_que": "Punto 25 · símbolo central del vocabulario del mundo (ya medido por imagen.json, no se repite el trabajo)",
+    "licencia": "captura de wiki de fans; uso como referencia, no como arte final"
+  }
+]

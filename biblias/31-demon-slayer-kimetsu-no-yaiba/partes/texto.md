@@ -553,5 +553,3 @@ Sword](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) ·
 Corps](https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps) ·
 [Britannica —
 Demon Slayer](https://www.britannica.com/topic/Demon-Slayer).
-
-Sigue: investigar punto 18 (técnica del estudio, cómo replicar en Photoshop/Blender, encuadres), punto 24 (obras parecidas más allá de AniList, influencias del autor, comparación con otras láminas del servidor) y punto 25 (mundo, arcos de la historia, símbolos) — todo con fuentes nuevas, distintas de las 52+ ya citadas.
