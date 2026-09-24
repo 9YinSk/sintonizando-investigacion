@@ -242,6 +242,21 @@ pero es la regla canon citada también por reseñas de la serie).
   (una fuente; coincide con la ficha de Igris que dice lo mismo al revés: «only rivaled by Beru and surpassed
   by Bellion», ya en `datos-voz.md`, así que en realidad son dos fuentes que se confirman entre sí → ✅).
 
+### Ninguna de las dos tiene rostro (visto directamente, dato nuevo de esta tanda)
+- Se abrieron dos fotogramas oficiales de la wiki (no un fotograma de episodio con minuto, sino render/captura
+  ya subida a la ficha del personaje) y se miraron con Read: **Beru** (`File:Beru_Anime1.png`, 1920×1080,
+  https://solo-leveling.fandom.com/wiki/File:Beru_Anime1.png) es un exoesqueleto negro con alas de luz
+  azul-cian muy brillantes, simétrico, con la cabeza tipo casco sin rasgos faciales, sobre fondo de cueva helada
+  azul. **Igris** (`File:Igris_Anime3.jpg`, 1920×1080,
+  https://solo-leveling.fandom.com/wiki/File:Igris_Anime3.jpg) es una armadura negra angulosa con brillos
+  violeta, el característico penacho rojo largo saliendo del casco, mirando hacia arriba, sobre fondo violeta
+  con partículas de luz. **Ninguno de los dos muestra un rostro humano**: la «cara en cada emoción» que pide el
+  punto 13 no aplica igual que en un personaje humano — su expresión pasa entera por la postura, el color de
+  brillo (azul en Beru, violeta en Igris) y el gesto de la armadura, no por un rostro. Esto confirma y explica
+  por qué su «actuación» depende tanto del audio (Beru) o del silencio total (Igris) y no del rostro. ⚠️ (dos
+  imágenes vistas directamente, sin minuto de episodio: es un dato de diseño de personaje, no de una escena
+  puntual; el fotograma con minuto exacto de cada emoción queda para el investigador de vídeo).
+
 ### Otras sombras con habla (variedad para no repetir sólo Beru/Igris)
 - **Kargalgan → «Colmillo» (Tusk):** antes de ser domado habla con gramática rota a propósito («ser muertos,
   torturados y devorados», «las monos imitan») — un recurso de guion para marcar que es una bestia hablando, no
@@ -387,10 +402,6 @@ pero es la regla canon citada también por reseñas de la serie).
 - **Voz propia de Bellion en el doblaje latino:** no tiene muestra en Doblaje Wiki (Bellion no ha aparecido
   todavía en los 25 episodios emitidos, según CBR — ver punto 21); su carácter se describe sólo por texto de
   wiki, sin audio que analizar. Correcto no inventarlo: es contenido aún no animado.
-
-## No encontré
-
-(pendiente)
 
 ## Bitácora de búsqueda
 

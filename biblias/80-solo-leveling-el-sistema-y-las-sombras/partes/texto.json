@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/ce/Anime_System.png/revision/latest?cb=20250401121047",
+    "fuente": "Solo Leveling Wiki (Fandom), archivo del anime oficial",
+    "ancho": 815,
+    "alto": 483,
+    "que_es": "La ventana STATUS del Sistema en el anime, nivel 100 de Jinwoo: panel oscuro translúcido con marco de circuito neón violeta-magenta",
+    "para_que": "Referencia exacta de color y maquetación para dibujar la ventana del Sistema (punto 6): medí con Pillow el violeta del marco (#D259FF), el fondo del panel (#1B2337) y el verde de los bonos (#2BE36A)",
+    "licencia": "© Aniplex / A-1 Pictures / Production I.G; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/3/3b/Shop.jpg/revision/latest?cb=20240402141811",
+    "fuente": "Solo Leveling Wiki (Fandom), panel del webtoon oficial",
+    "ancho": 718,
+    "alto": 630,
+    "que_es": "Panel del webtoon donde Jinwoo dice \"Shop.\" en un globo blanco normal con cola, la onomatopeya \"DING\" en letras con resplandor cian y el panel del Sistema (azul, versión temprana) apareciendo detrás",
+    "para_que": "Prueba de que el globo blanco con cola SÍ existe en la serie, pero es para lo que dice el personaje en voz alta, nunca para el Sistema; referencia de color para la ventana azul de novato (#4C8CFD) y la onomatopeya propia (#3B84BD)",
+    "licencia": "© Chugong / DUBU / D&C Media / REDICE Studio; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/781f8dad22220165704b0a7741b3324527597e67/ss_781f8dad22220165704b0a7741b3324527597e67.1920x1080.jpg?t=1781758887",
+    "fuente": "Steam (store.steampowered.com/api/appdetails?appids=2373990), captura oficial de Netmarble Neo",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Pantalla RESULT de Solo Leveling: ARISE OVERDRIVE: insignia de rango en rombo (\"SSS\" en rojo-naranja), panel de recompensas de cristal translúcido azul-marino con filete claro y esquina cortada en diagonal",
+    "para_que": "Única referencia medida de una interfaz de videojuego de la franquicia (punto 11): confirma que el sistema de rangos E-S (punto 25) se reutiliza como insignia de logro, y da el estilo de panel \"cristal frío\" para menús",
+    "licencia": "© Netmarble Neo; captura oficial de la ficha de Steam, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/d/d5/Ranks.png/revision/latest?cb=20240128142056",
+    "fuente": "Solo Leveling Wiki (Fandom), archivo de la ficha \"Class Ranks\"",
+    "ancho": 1886,
+    "alto": 4158,
+    "que_es": "Tabla oficial de la wiki con los seis rangos de cazador E a S",
+    "para_que": "Base visual para una lámina o hilo que explique los rangos de cazadores (punto 25); complementa el texto de la ficha (wikitext leído por API) que da la explicación de por qué el rango es de por vida y qué son los \"False Rankers\"",
+    "licencia": "© Chugong / DUBU / D&C Media; recopilación de la wiki, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/02/Guilds.jpg/revision/latest?cb=20240330152026",
+    "fuente": "Solo Leveling Wiki (Fandom), archivo de la ficha \"Guilds\" (versión webtoon)",
+    "ancho": 720,
+    "alto": 1300,
+    "que_es": "Ilustración del webtoon con varios Guild Masters/gremios reunidos",
+    "para_que": "Referencia de cómo se presentan los gremios de cazadores en grupo (punto 25), para una lámina que hable de la estructura del mundo (gremios, Asociación de Cazadores)",
+    "licencia": "© Chugong / DUBU / D&C Media; sólo referencia"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/exo-2@latest/latin-700-normal.ttf",
+    "fuente": "Fontsource (api.fontsource.org), redistribución de Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Exo 2 Bold, geométrica y redondeada, comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+    "para_que": "La letra libre más parecida al \"STATUS\"/\"100\" medido en la ventana del Sistema (punto 5); para cabeceras y números de nivel",
+    "licencia": "SIL Open Font License 1.1 (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/rajdhani@latest/latin-700-normal.ttf",
+    "fuente": "Fontsource (api.fontsource.org), redistribución de Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Rajdhani Bold, condensada y cuadrada, comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+    "para_que": "Alternativa para etiquetas cortas de interfaz (JOB, TITLE, STR, AGI) en la ventana del Sistema (punto 5)",
+    "licencia": "SIL Open Font License 1.1 (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/orbitron@latest/latin-700-normal.ttf",
+    "fuente": "Fontsource (api.fontsource.org), redistribución de Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Orbitron Bold, angular tipo ciencia-ficción dura, comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+    "para_que": "Candidata para la variante violeta \"Monarca\" de la ventana del Sistema (punto 5), más agresiva que Exo 2/Rajdhani",
+    "licencia": "SIL Open Font License 1.1 (gratis, uso comercial permitido)"
+  }
+]

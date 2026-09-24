@@ -62,7 +62,7 @@ relleno azul-violáceo oscuro translúcido `#1B2337`-`#211B32`, doble filete cla
 `#9229F9`/`#D259FF` (o azul `#4C8CFD` si es una ventana «de novato», temporada 1 temprana), cabecera en recuadro
 propio y MAYÚSCULAS, cuerpo blanco-cian, corchetes para nombres de objeto/misión, verde para bonos, rojo/carmesí
 sólo para advertencias. Nunca un globo con cola: el Sistema no «sale» de nadie. Si el personaje habla en voz alta
-（p. ej. para dar una orden como «Surge»/«Shop»), **eso sí** va en globo blanco normal con cola.
+(p. ej. para dar una orden como «Surge»/«Shop»), **eso sí** va en globo blanco normal con cola.
 
 **Otro cuadro de la serie, distinto del Sistema:** el aviso del **móvil de Jinwoo** / la Asociación de Cazadores —
 tarjeta blanca de app de oficina, no la ventana de juego (documentado en `biblias/03-solo-leveling` §4.2, ep. 8;
@@ -91,6 +91,29 @@ proporción del «STATUS»/«100» reales del panel.
 Esto **complementa** (no repite) la tabla ya construida en `biblias/03-solo-leveling/biblia.md` §5, que cubre el
 logo del anime, el logo del juego ARISE, los rótulos de tráiler y el ending — para esos usos, remito a esa tabla
 en vez de rehacer la misma investigación (ya está con `fontTools` y ✅ doble fuente).
+
+**Los usos que faltaban por cubrir** (globo normal, grito, pensamiento, onomatopeya, subtítulos), a partir de lo
+que vi yo mismo en `Shop.jpg` (webtoon oficial en inglés, la única versión con letras que pude abrir y medir):
+- **Globo normal** («SHOP.»): palo seco en mayúsculas, trazo grueso y uniforme, sin florituras — el rotulado
+  típico de webtoon en inglés (no es un manga japonés con letra caligráfica). No encontré el nombre exacto de la
+  fuente que usa D&C Media/REDICE para el rotulado en inglés ⚠️; como libre parecida, **Anime Ace 2.0 BB**
+  (Blambot, gratis, ya recomendada en la guía de franquicias del repositorio para otros manga/manhwa) o
+  **Komika Axis** cubren el mismo peso y proporción.
+- **Onomatopeya** («DING», la del Sistema): letras redondeadas gruesas con contorno y resplandor de color — no es
+  la tipografía del globo, es un rótulo aparte hecho a medida por escena (color según el contexto: cian para el
+  Sistema, previsiblemente otros tonos para golpes o rugidos, sin confirmar ⚠️). Libre parecida: **Bangers** o
+  **Krona One** (gruesas, redondeadas, con tildes/ñ/¿/¡ ya comprobadas en Google Fonts por catálogo, no reverificadas
+  aquí con fontTools por ahorrar cuota) ⚠️.
+- **Pensamiento y grito**: no encontré un panel propio con pensamiento o grito rotulado que pudiera abrir y medir
+  en esta pasada (las páginas del webtoon que la wiki aloja son sobre todo portadas y capítulos completos, no
+  siempre legibles en la resolución que sirve la API) ⚠️. Como referencia general del medio (no verificada en
+  esta serie en concreto): los webtoons coreanos suelen marcar el pensamiento en **cursiva sin globo** (así lo
+  hacen los subtítulos oficiales del anime, ver punto 6, §4.4 de `03-solo-leveling`) y el grito con el mismo tipo
+  de letra que el globo normal pero más grande y en un globo de bordes puntiagudos.
+- **Cartel del mundo** (letreros de la Asociación de Cazadores, paneles de tienda, etc.): no encontré un cartel
+  legible propio de esta franquicia (ni en las capturas de Steam ni en las páginas del webtoon abiertas) ⚠️.
+- **Subtítulos/créditos**: cubierto ya por `03-solo-leveling` §5 con el título del ending medido (`Anton`/`Bebas
+  Neue`); no lo repito.
 
 ### Punto 11 · Videojuegos: interfaz y cuadros de diálogo (con capturas propias)
 
@@ -156,6 +179,12 @@ siendo la mejor fuente sobre su interfaz. ⚠️ Sin capturas propias de ARISE (
   vectorial**, así que en Blender no se replica con Line Art/Freestyle sino con **geometría plana (planos con
   textura emissive)** o compuesto 2D encima del render, tal como recomienda ya `03-solo-leveling` para la luz de
   borde del personaje.
+- **Quién sigue haciendo el webtoon tras la muerte de DUBU** (Jang Sung-rak, 2022), en coreano, entrevista propia
+  no citada en `03-solo-leveling` ✅ ([ELLE Corea](https://www.elle.co.kr/article/1901699), mayo 2026): el estudio
+  **REDICE STUDIO** sigue al mando; la ilustración la firma **DISCIPLES** (작화) y el color, **지쳐버린 듀공**
+  («Dugoong Exhausted», 채색). La propia entrevista describe el estilo con una frase que resume el contraste
+  visual de la serie: *"검은 그림자와 푸른 광휘가 충돌하는 찰나"* («el instante en que chocan las sombras negras y
+  un resplandor azul») — encaja con lo medido: sombras oscuras casi sin línea + ventanas de Sistema en azul/cian.
 
 ### Punto 24 · Obras parecidas
 
@@ -169,6 +198,14 @@ siendo la mejor fuente sobre su interfaz. ⚠️ Sin capturas propias de ARISE (
   (`web.archive.org/cdx/search/cdx?url=tvtropes.org/pmwiki/pmwiki.php/*SoloLeveling*`) y **no hay ninguna captura
   con código 200** guardada de esa página (sólo redirecciones 301/302 sin contenido). Dos vías intentadas, las
   dos sin resultado: lo dejo pendiente en vez de inventar qué tropos lista.
+- **El género tiene nombre propio en coreano: 시스템물** («obra de Sistema»), buscado y confirmado en coreano ✅
+  (resultados de `WebSearch`, con **더스쿠프** y la propia **Wikipedia en coreano** como fuente): se define como el
+  género donde aparece una **ventana de juego que sólo ve el protagonista** («오직 그에게만 보이는 게임 퀘스트 창»,
+  literal: «una ventana de misión de videojuego que sólo él puede ver»), con misiones que sigue y monstruos que
+  caza para subir de nivel. Es el nombre exacto del género al que pertenece Solo Leveling en el mercado coreano de
+  webnovelas — más preciso que el inglés genérico «progression fantasy» o «LitRPG» que usa la prensa
+  occidental (ya citada en `03-solo-leveling`). Útil para un texto del bot que quiera nombrar el género «en
+  coreano» como dato curioso.
 - **El gancho concreto que comparte con sus «primos» es la ventana de estado**: *Tower of God*, *The Eminence in
   Shadow* y *God of High School* (ya en `03-solo-leveling`) tienen la misma raíz de «RPG hecho carne», pero
   **Solo Leveling es el que más se apoya en la ventana de notificación como recurso visual constante** (aparece
@@ -275,8 +312,9 @@ Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Gui
    visual de que el sistema de rangos E→S también se usa como marcador de logro en el videojuego — sirve de
    referencia si la lámina necesita un «marcador» o insignia.
 5. **Los siete grados de sombra** (Normal → Elite → Knight → Elite Knight → General → Marshal → Grand Marshal) dan
-   una escalera perfecta para una lámina de jerarquía tipo organigrama, con Igris (Marshal, antes «Comandante»
-   según la novela) y Beru (Grand Marshal / Rey Hormiga) como referencia.
+   una escalera perfecta para una lámina de jerarquía tipo organigrama, con Igris y Beru como ejemplo real: los
+   dos llegan a **Marshal Grade** (confirmado por capítulo en su ficha), un peldaño por debajo del único puesto de
+   Grand Marshal (que ninguno de los dos ocupa, según lo que pude comprobar).
 
 ## No encontré
 
@@ -324,6 +362,14 @@ Dungeon*, *Red Gate*, *Instance Dungeon*, *Essence Stone* / *Mana Crystal*, *Gui
 - Google Fonts vía `fonts.googleapis.com/css2` para Orbitron/Audiowide/Electrolize: bloqueado por una página de
   verificación anti-bot (`ppConfig`/reCAPTCHA) en dos de los cinco intentos; cambié a la API de Fontsource, que sí
   respondió, para las cinco.
+- **Búsquedas en japonés** (`WebSearch`): «ソロレベリング システム画面 デザイン インタビュー Production I.G» — sin
+  resultados específicos sobre el diseño de la ventana del Sistema; sólo entrevistas genéricas del estudio.
+- **Búsqueda en coreano** (`WebSearch`): «나 혼자만 레벨업 시스템창 디자인 인터뷰 웹툰» — encontré una entrevista
+  de ELLE Corea a los artistas actuales del webtoon (`elle.co.kr/article/1901699`), leída con `WebFetch`: sin
+  detalle técnico de la ventana del Sistema, pero sí confirma quién dibuja y colorea ahora (DISCIPLES, 지쳐버린
+  듀공) bajo REDICE STUDIO.
+- **Búsqueda en coreano** (`WebSearch`): «시스템물 웹소설 장르 나혼자만 레벨업 정의» — confirma el nombre del
+  (sub)género, **시스템물**, con la Wikipedia coreana y 더스쿠프 (thescoop.co.kr) como fuentes.
 
 Sigue: falta intentar de nuevo Game UI Database/TCRF más adelante (si el bloqueo de Cloudflare cede) para medir
 menús del juego móvil ARISE; y, si aparece cuota, buscar el id correcto de la app en Google Play para sus
