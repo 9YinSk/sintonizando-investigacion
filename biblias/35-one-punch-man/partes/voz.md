@@ -113,3 +113,41 @@ _Fuente: [Doblaje... no, wiki en inglés, «First Manga Popularity Poll»](https
   **Child Emperor** (le tiene cariño paternal). Fuma. Fuente: ficha ✅.
 - **Sneck**: da el discurso de graduación a los nuevos héroes (frase que salió
   en su muestra de doblaje, punto 8). Personaje menor, poca ficha en la wiki.
+
+---
+
+## Punto 8 · Frases del doblaje latino, textuales (con audio, minuto y cómo suena la voz)
+
+Transcritas con `herramientas/voz.py` (Whisper local) sobre las **muestras
+oficiales de audio que trae Doblaje Wiki** (formato `.ogg`, subidas por la
+propia wiki desde el doblaje emitido). Doblaje Wiki no dice de qué capítulo
+sale cada muestra, así que el «minuto» es el segundo **dentro del archivo de
+muestra** (no del episodio) — lo marco ⚠️ por eso, aunque la frase y el actor
+sí están confirmados (es la muestra oficial de la propia ficha del personaje).
+Datos de la voz: registro (grave/medio/agudo), expresividad en semitonos
+(cuánto sube y baja el tono) y velocidad de habla.
+
+| Personaje | Actor | Frase textual (muestra oficial) | Cómo suena | Fuente |
+|---|---|---|---|---|
+| **Saitama** | Víctor Ruiz | «Y creo que eso significa que no he hecho ninguna diferencia. [...] Mientras los días pasan, mis emociones desaparecen. Miedo, tensión, alegría, enojo. Ya no lo siento. A cambio de poder, quizá haya perdido algo que es esencial para ser humano.» | registro **grave** (109 Hz), **muy expresivo** (10.3 semitonos pese al tono plano del personaje — la voz sube en «triste» y baja en la resignación final), velocidad normal (2.7 palabras/s) | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/c/c6/Saitama_%28ESP-LA%29.ogg) ⚠️ minuto de la muestra, no del episodio |
+| **Genos** | Jhonny Torres | «Milagrosamente sobreviví, pero siendo un adolescente débil me encontraba solo y sin fuerzas [...] Le pedí al doctor que modificara mi cuerpo con cirugía para hacerme mejor, más fuerte, más rápido. [...] Le prometí al doctor Stench que terminaría con el cyborg y regresaría la paz a este mundo.» | registro grave (123 Hz), muy expresivo (8.4 semitonos), **velocidad rápida** (3.3 palabras/s: habla atropellado cuando cuenta su historia, coherente con su seriedad urgente) | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/c/c4/Genos_%28ESP-LA%29.ogg) ⚠️ |
+| **Tatsumaki** | Azul Valadez | «No puedo estar aquí. ¿Por qué? ¿Quieres decir que no soy tan buena? [...] Sería más rápido si fueras sola. Son unos idiotas.» | registro **muy agudo** (320 Hz, el más agudo de todo el reparto que medí), **la más expresiva de todas** (16.3 semitonos: sube y baja mucho, brusca), rápida (3.4 palabras/s) | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/a/af/Tatsumaki_%28OPM%29_%28ESP-LA%29.ogg) ⚠️ |
+| **Sonic** | Ricardo Loera | «Hoy es el día en que resolveremos... ¡Gusano insolente! ¿Crees que puedes subir de mí? ¿Pero qué? Ni siquiera vi lo que pasó. Te vi partir de la cara en dos, pero la espada se rompió.» | registro agudo (248 Hz), muy expresivo (21.5 semitonos), rápida (3.4 palabras/s): voz burlona y veloz, acorde a un ninja arrogante | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/d/da/Sonic_%28OPM%29.ogg) ⚠️ |
+| **Amai Mask** | Jaime Alberto Carrillo | «Escúchame, un héroe profesional siempre debe ser un hermoso símbolo de la justicia. Esa es mi filosofía, especialmente si eres clase S. ¡Vamos, no me veas de esa forma! Vine hasta acá sólo para verte, cómo estuvo tu examen.» | registro grave (104 Hz) pero **el más expresivo de todo el reparto** (22.7 semitonos: modula mucho, tono teatral y meloso), velocidad normal | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/6/6b/Kamen_Amai_%28ESP-LA%29.ogg) ⚠️ |
+| **Sneck** | Miguel Ángel Leal | «Felicitaciones por aprobar. Ahora, para hacer honesto uno de ustedes apenas pasó, así que a menos que quieran que su suerte desaparezca, espero verlos dándolo todo y no ser arrogantes ¿entendieron? Tengan su certificación de héroe en mente [...] espero que actúen humildemente, después de todo sus caras aparecerán en la página de la Asociación de Héroes.» | registro medio (213 Hz), muy expresivo (13.3 semitonos), normal (2.5 palabras/s): tono de sermón/regaño a nuevos héroes — probablemente del examen de héroes (T1-05 ⚠️ sin confirmar) | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/b/be/Sneck_%28ESP-LA%29.ogg) ⚠️ |
+| **Tanktop Tiger** | (sin confirmar en biblia §10.2) | «Un héroe ¿eh? No he escuchado de un héroe como tú. De cualquier modo le causas problemas aquí a todos. Si de verdad eres un héroe, entonces no asustes a las personas. Arruines la reputación de otros héroes.» | registro medio (185 Hz), muy expresivo (18.7 semitonos), rápida (3.2 palabras/s): tono de reclamo/regaño callejero | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/f/f9/Tanktop_Tiger_%28ESP-LA%29.ogg) ⚠️ |
+| **Hammerhead** | (sin confirmar en biblia §10.2) | «Es por eso que Joe Hammerhead cambiaré nuestra sociedad. Haré que sólo los que quieran trabajar, trabajen, mientras el resto será apoyado. Crearemos una utopía. La banda Toga, liderada por Hammerhead, lo logrará.» | registro **agudo** (310 Hz), el rango más amplio medido (**29.1 semitonos**: discurso casi cantado, de líder de secta/pandilla), velocidad normal | [muestra .ogg](https://static.wikia.nocookie.net/doblaje/images/2/20/Hammerhead_%28ESP-LA%29.ogg) ⚠️ |
+
+- **Para la lámina**: si se necesita una frase corta y reconocible en la voz
+  de Saitama, la mejor es su propia frase de presentación ya citada en biblia
+  §2.1 («Soy alguien que es héroe por diversión») — verificada con subtítulos
+  no oficiales, ⚠️. La frase de la muestra oficial de arriba («mis emociones
+  desaparecen») es más profunda pero menos icónica para una lámina corta.
+- **Lo que NO pude hacer**: bajar subtítulos en español de clips oficiales de
+  Netflix/Crunchyroll Latinoamérica con capítulo y minuto reales (YouTube pide
+  iniciar sesión desde este servidor todo el tiempo, y ni Netflix ni
+  Crunchyroll publican clips doblados sueltos en Dailymotion o Internet
+  Archive: los busqué, sólo hay trailers en versión original o inglés). Las
+  frases de arriba son the únicas frases del doblaje que pude verificar
+  textualmente con audio real. `Sigue` si otra sesión logra bajar subtítulos
+  `es-419` de un clip oficial de las plataformas.
