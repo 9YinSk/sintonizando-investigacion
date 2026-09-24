@@ -433,3 +433,120 @@ necesidad de iniciar sesión):
   («Coco Cancion Recuerdame (Anike nderesarai) | Doblaje en guaraní GuarpaR»), canal
   **GuarpaR.**, 3:04, 9 611 vistas, may-2018 — muestra el alcance de la película en toda
   Latinoamérica, no sólo en español. https://www.youtube.com/watch?v=TZtPe9zj818
+
+## Lo mejor para la lámina
+
+1. La frase de Imelda **«Y nunca olvides lo mucho que tu familia te ama»** (doblaje latino,
+   ✅ dos fuentes, minuto exacto 1:56 del tráiler oficial) — encaja perfecto en un canal de
+   doblaje/locución: habla de voz, memoria y familia a la vez.
+2. El contraste Héctor/Ernesto (timador entrañable vs. ídolo falso) da dos arquetipos de
+   voz muy distintos y reconocibles: registro rápido-travieso vs. grave-carismático — útil
+   si la lámina necesita dos personajes con personalidades opuestas.
+3. El dato de que **Gael García Bernal dobla a Héctor en inglés y en español** y de que
+   **España usó el doblaje latino en cines** es un gancho perfecto para un servidor de
+   doblaje hispanohablante: la película «habla mexicano» en todo el mundo.
+4. Abuelita y su chancla (heredada de Imelda) es un gesto/objeto muy visual y reconocible
+   para representar a un personaje secundario querido sin ser protagonista.
+5. Mamá Coco + «Recuérdame» es, con diferencia, el matrimonio personaje-canción-escena más
+   citado en toda la cobertura de prensa revisada: si la lámina necesita una emoción fuerte
+   con música, es la referencia más segura.
+
+## No encontré
+
+- ⚠️ Encuesta oficial de popularidad de Disney/Pixar sobre los personajes de Coco.
+  Búsquedas: «Coco Pixar encuesta personaje favorito», «Coco personaje favorito votación
+  Héctor vs Miguel Dante», «Coco most popular character reddit» — sin resultado. Se usó
+  como proxy indirecto el estatus de Héctor como «deuteragonista» y las vistas de fandubs.
+- ⚠️ *Databook* oficial de Coco en español con cumpleaños/estatura exactos de cada
+  personaje. Búsqueda: «Coco Pixar databook cumpleaños altura personajes» — no apareció
+  un libro específico, sólo fichas de wiki (usadas, marcadas ⚠️ donde no se cruzaron).
+- ⚠️ TV Tropes (`Film/Coco`) y su copia en Wayback Machine: ambos devolvieron bloqueo de
+  red desde este contenedor («Blocked by egress policy» / connect_rejected) en dos
+  intentos cada uno. Se cubrió lo que TV Tropes suele aportar (qué ama el fandom, qué NO
+  hacer) con reseñas de prensa y Reddit en su lugar.
+- ⚠️ r/pixar y r/movies vía Arctic Shift para «Coco cried»/«Coco favorite character»: la
+  búsqueda por `title` sin subreddit específico devolvió error 400/422 (timeout) tras dos
+  intentos; con `subreddit=Pixar&title=Coco` sí funcionó pero los hilos más votados eran
+  sobre Coco 2 (2026), no sobre reacciones a la película de 2017.
+- ⚠️ Minuto exacto (capítulo no aplica, es largometraje único) de las escenas que hacen
+  llorar, verificado sobre el archivo de vídeo completo: esta pasada trabajó sobre
+  tráileres y muestras de audio oficiales, no sobre la película entera con fotogramas.
+  Falta que el investigador de vídeo (o una pasada con el archivo completo) confirme el
+  minuto exacto de «Recuérdame a Mamá Coco» y del reencuentro final.
+- ⚠️ Fotogramas de «la cara de cada personaje en cada emoción» (alegría, rabia, tristeza,
+  miedo, vergüenza) pedidos por el punto 13: sólo se sacaron y miraron 3 fotogramas de un
+  tráiler (Miguel tocando, un abrazo familiar, el panteón nocturno). Falta una pasada
+  completa por personaje y emoción sobre escenas del tráiler/clips oficiales.
+- ⚠️ Entrevista directa de Lee Unkrich (o del equipo de Pixar) que confirme la edad exacta
+  de Mamá Coco al morir (100 años) y su año de nacimiento (1918): sólo se encontró citado
+  de segunda mano en Disney Wiki ES, sin la entrevista original.
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Qué pedía | Estado | Por qué |
+|---|---|---|---|
+| 7 | Personajes ppales/secundarios: personalidad, gestos, ropa, objetos, manías, con quién aparecen; encuestas de popularidad | ⚠️ | Rasgos, objetos y compañías completos y con dos fuentes para los 8 personajes; no hay encuesta oficial de popularidad (no existe, se buscó) |
+| 8 | Doblaje latino, actor/estudio/director, frases textuales, dos fuentes por nombre | ✅ | Reparto completo cruzado en 3 fuentes (Doblaje Wiki, Dubbing Database, ANMTV/noticine); 6 frases textuales con minuto o muestra oficial |
+| 12 | Qué ama el fandom (memes, chistes internos) y qué NO hacer | ⚠️ | Memes y consejo de «qué no hacer» cubiertos; faltan chistes internos específicos por bloqueo de TV Tropes/Reddit amplio |
+| 13 | Descripción profunda de cada personaje: miedo, arco, cómo se expresa, cara en cada emoción con fotograma/minuto, dinámicas | ⚠️ | Historia, miedo, arco, forma de hablar y dinámicas completos para 7 personajes; sólo 3 fotogramas de emoción vistos (falta cobertura por emoción) |
+| 20 | Gustos y detalles (comida, aficiones, cumpleaños, altura, objeto, autopercepción), con fuente | ⚠️ | Le gusta/no le gusta y objetos cubiertos para todos; cumpleaños/altura oficiales no existen o no se encontraron (se dice explícitamente, incluido un dato falso descartado) |
+| 21 | Por qué la gente la ama: reseñas, Reddit, encuestas, ventas, premios; escenas que hacen llorar con minuto/música/reacción | ⚠️ | Ventas, premios, reseñas y testimonios con nombre cubiertos; escenas que hacen llorar identificadas pero sin minuto exacto verificado sobre el archivo completo |
+| 22 | Fan dubs y comunidad hispana en YouTube/TikTok, con canal/enlace/escena/vistas; covers de openings; memes | ✅ | 7 fandubs/covers con canal, vistas y fecha; memes de TikTok cubiertos (sin poder citar vistas individuales por post) |
+
+## Bitácora de búsqueda
+
+**Red directa (API, sin buscador)**
+- Doblaje Wiki API (`action=parse&prop=wikitext&page=Coco (Disney•Pixar)`) — ficha completa
+  de doblaje, reparto, canciones, curiosidades. ✅
+- Doblaje Wiki API (`action=query&prop=imageinfo`) — URLs reales de 6 muestras .ogg
+  oficiales, bajadas y transcritas con `voz.py`.
+- Disney Wiki ES (`disney.fandom.com/es/api.php`) — búsqueda y wikitext de Miguel, Héctor,
+  Mamá Coco, Ernesto, Imelda, Abuelita (esta última vandalizada, descartada en parte).
+- Pixar Wiki EN (`pixar.fandom.com/api.php`) — wikitext limpio de los mismos 6 personajes +
+  Dante, usado como segunda fuente y para reemplazar la ficha vandalizada de Abuelita.
+- The Dubbing Database (`dubdb.fandom.com/api.php`) — wikitext de «Coco (Latin American
+  Spanish)», tercera fuente para todo el reparto de doblaje.
+- `yt-dlp --skip-download --print` sobre YouTube (funcionó para metadatos, sin necesidad de
+  iniciar sesión) — vistas/canal/fecha de 8 fandubs y covers de «Un Poco Loco»/«Recuérdame».
+- `herramientas/voz.py` sobre 6 muestras oficiales .ogg + 1 tráiler de Dailymotion completo.
+- `herramientas/fotogramas.py --fotograma` sobre el tráiler de Dailymotion (4 fotogramas,
+  3 mirados con Read).
+
+**Buscador web** (en español salvo donde se indica; ~10 de las ~50 búsquedas del cupo)
+- «ANMTV Coco doblaje latino reparto Marco Antonio Solís Angélica Vale» → artículo de ANMTV
+  y de noticine.com.
+- «Coco Pixar encuesta personaje favorito popularidad Héctor Miguel» → sin encuesta oficial.
+- «Coco Pixar Remember Me scene reaction crying reddit» (inglés) → reseñas, sin hilos de
+  Reddit citables directamente.
+- «Coco Pixar box office premios Oscar 2018 recaudación crítica» → Deadline, Hollywood
+  Reporter, Variety.
+- «Coco Pixar fandub español latino YouTube canal» → confirmó existencia de fandubs,
+  detalles sacados después con yt-dlp.
+- «Coco Pixar México recepción crítica identificación cultural Día de Muertos reseña» →
+  El Universal, Radiónica, Cine Premiere.
+- «Coco Pixar meme "no me acuerdo"/"recuérdame" meme internet viral» → memes de TikTok.
+- «"Un Poco Loco" cover español fandub YouTube Coco» → lista de covers, luego confirmados
+  uno a uno con yt-dlp.
+- «Coco Pixar "personaje favorito" encuesta votación Héctor vs Miguel Dante» → sin encuesta.
+- «Coco Pixar España estreno doblaje latino cines "no hubo doblaje" castellano» → Milenio,
+  35mm.es, NBC News (tercera fuente del dato de que España usó el doblaje latino).
+
+**Fuentes que fallaron** (con lo intentado)
+- `es.wikipedia.org` API: 429 (límite compartido de IP) en el primer intento; no se
+  reintentó (se cubrió lo mismo con otras fuentes).
+- `anmtv.la` (dominio corto): bloqueado por política de red del contenedor
+  (`connect_rejected`); se usó `anmtvla.com` (el blog real) en su lugar, que sí respondió.
+- `tvtropes.org` y su copia en Wayback Machine: bloqueados por política de red («Blocked by
+  egress policy»), dos intentos cada uno.
+- Arctic Shift (`arctic-shift.photon-reddit.com`) sin `subreddit` o con `subreddit=all`/
+  `movies`: error 400 (parámetro `q` no válido, hay que usar `title`) y luego 422/timeout
+  en subreddits grandes; funcionó sólo con `subreddit=Pixar&title=Coco`.
+
+**Sigue:** falta lo obligatorio del punto 13 (más fotogramas de «la cara de cada
+personaje en cada emoción» — alegría, rabia, tristeza, miedo, vergüenza — con minuto,
+sobre clips oficiales en Dailymotion/Internet Archive) y confirmar sobre el archivo de
+vídeo completo el minuto exacto de las escenas que hacen llorar del punto 21
+(«Recuérdame» a Mamá Coco, el reencuentro final). Retomar con
+`herramientas/fotogramas.py --fotograma <segundos>` sobre los tráileres/clips de
+`partes/datos-voz.md` y con `herramientas/episodio.py` si hay una copia completa
+disponible para el equipo de vídeo.
