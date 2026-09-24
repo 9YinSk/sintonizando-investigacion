@@ -33,6 +33,17 @@ del doblaje latino (verificar el minuto latino exacto es del rol de voz).
 
 ---
 
+⚠️ **Resolución**: el encargo pide 1080p o más. El episodio 1 de 1997 sólo
+existe en 480p (así lo dejó su emisión original de Cartoon Network/4Kids;
+no hay remaster oficial en Internet Archive) y los clips de Dailymotion van
+de 240p a 288p. La única fuente en alta que toqué la primera pasada era un
+**subtítulo no oficial** de la película *¡Yo te elijo!* (2017, si acaso en
+1080p en Netflix, pero YouTube/Netflix con inicio de sesión no están
+disponibles en este contenedor). Para fotogramas en alta de verdad, la
+siguiente tanda debería reintentar YouTube cuando el bloqueo pase (esperar
+3-5 min y probar de uno en uno, como pide `AYUDANTE.md`) o pedir la captura
+directa desde Netflix/Crunchyroll a quien tenga sesión.
+
 ## 2 · Fotogramas de escenas icónicas, con capítulo y minuto (mirados)
 
 ### 2.1 Escena 1 · El laboratorio de Oak — Episodio 1, real (inglés, 4Kids) ✅
@@ -203,6 +214,30 @@ actor en Doblaje Wiki (API, wikitext) y en la ficha musical de la serie:
   formato parecido para anuncios del canal.
 - El resto del punto 9 (Junichi Masuda, Shinji Miyazaki, arreglo de Ray
   Chen) ya estaba bien y con fuente: no lo repito aquí, sigue en la biblia.
+
+### 9.1 · Efectos de sonido y onomatopeyas (faltaba del todo en la biblia)
+`fotogramas.py` baja el vídeo **sin audio** (es su diseño, para ir rápido:
+`bv*` sin pista de sonido), así que esto NO lo comprobé de oído con Whisper
+(`voz.py`) en esta tanda — queda marcado ⚠️ salvo el primer dato:
+- ✅ **Pikachu no dice palabras humanas, sólo variaciones de su propio
+  nombre** ("pika", "pika-pika", "pikachu-u"), en japonés doblado por
+  **Ikue Ōtani** desde 1997 ([Wikipedia, "Pikachu"](https://en.wikipedia.org/wiki/Pikachu):
+  «primarily voiced in media by Ikue Ōtani»); es la base de la onomatopeya
+  más reconocible de toda la serie — cualquiera identifica un "¡Pikapi!"
+  sin subtítulos.
+- ⚠️ El **lema del Equipo Rocket** siempre cierra con el mismo efecto: tras
+  la coletilla, si les sale mal, explotan y salen volando con un silbido que
+  se apaga en un punto de luz (el chiste visual de "brillan y desaparecen").
+  Lo vi en el fotograma final de varias compilaciones del punto 2.3, pero no
+  tengo el efecto de sonido confirmado por una fuente escrita (una sola
+  fuente: mi propia observación visual, sin audio).
+- ⚠️ El **"bip" de la Pokédex** al identificar un Pokémon y el **tintineo**
+  al atrapar uno con la Pokébola son universalmente reconocidos por
+  cualquier fan, pero no encontré una ficha que los describa con palabras
+  (son efectos de sonido, no diálogo, y sin audio no puedo transcribir el
+  "cómo suenan" con propiedad). Si hace falta para la lámina, lo mejor es
+  pedir al rol de voz que pase el episodio 1 (o el tráiler del punto 10) por
+  `voz.py` para confirmarlo de oído.
 
 ---
 
