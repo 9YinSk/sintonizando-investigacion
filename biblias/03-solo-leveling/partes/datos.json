@@ -1,0 +1,952 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jin-U Seong",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hae-In Cha",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Igris",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ju-Hui Lee",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jin-A Seong",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Geon-Hui Go",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jin-Ho Yu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yun-Ho Baek",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jin-Cheol U",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jong-In Choi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Iron",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sin Sang",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hee-Jin Park",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Song-I Han",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151807-37yfQA3ym8PA.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/2/23/Season_2_anime_Sung_Jinwoo_illustration.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2304,
+  "alto": 4096,
+  "que_es": "Sung Jinwoo: Season 2 anime Sung Jinwoo illustration.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/d/dd/Anime_Episode_6_Storyboard_Group_1_picture_3.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2276,
+  "alto": 1890,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 1 picture 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/1c/Anime_Episode_6_Storyboard_Group_1_picture_2.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2276,
+  "alto": 1890,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 1 picture 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/4/4f/Manhwa_Webtoon_Volume_8_Cover.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1725,
+  "alto": 2475,
+  "que_es": "Sung Jinwoo: Manhwa Webtoon Volume 8 Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/a/a3/Manhwa_Webtoon_Volume_10_Cover.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1720,
+  "alto": 2475,
+  "que_es": "Sung Jinwoo: Manhwa Webtoon Volume 10 Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/4/46/Anime_Episode_6_Storyboard_Group_10_picture_2.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1754,
+  "alto": 2328,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 10 picture 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/e/e3/Anime_Episode_6_Storyboard_Group_10_picture_1.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1754,
+  "alto": 2328,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 10 picture 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/3/38/Anime_Episode_6_Storyboard_Group_5_picture_4.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1754,
+  "alto": 2276,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 5 picture 4.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/8f/Anime_Episode_6_Storyboard_Group_5_picture_3.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1754,
+  "alto": 2276,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 5 picture 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/c6/Anime_Episode_6_Storyboard_Group_5_picture_2.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1754,
+  "alto": 2276,
+  "que_es": "Sung Jinwoo: Anime Episode 6 Storyboard Group 5 picture 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/a/a9/Igris_2.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2880,
+  "alto": 5184,
+  "que_es": "Igris: Igris 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Igris_1.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2880,
+  "alto": 5124,
+  "que_es": "Igris: Igris 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/d/d7/Igris22.jpeg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1440,
+  "alto": 2530,
+  "que_es": "Igris: Igris22.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Anime_Episode_12_Igris_shadow_soldier.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 2415,
+  "alto": 1354,
+  "que_es": "Igris: Anime Episode 12 Igris shadow soldier.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/f/ff/Igris_Anime3.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Igris: Igris Anime3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/6e/Igris19.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 895,
+  "alto": 1486,
+  "que_es": "Igris: Igris19.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/5/57/Igris21.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1657,
+  "que_es": "Igris: Igris21.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/b3/Igris20.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 896,
+  "alto": 1265,
+  "que_es": "Igris: Igris20.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/5/57/Igris18.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 711,
+  "alto": 1565,
+  "que_es": "Igris: Igris18.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/4/44/Igris_Anime.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 885,
+  "alto": 1144,
+  "que_es": "Igris: Igris Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/f/fe/Beru_Anime1.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Beru: Beru Anime1.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/0e/Beru31.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 899,
+  "alto": 1327,
+  "que_es": "Beru: Beru31.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/86/Beru_CV.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 906,
+  "alto": 1280,
+  "que_es": "Beru: Beru CV.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/9/91/%EB%B2%A8%EB%A6%AC%EC%98%A86.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 719,
+  "alto": 1519,
+  "que_es": "Beru: 벨리온6.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/e/ef/Beru5.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1466,
+  "que_es": "Beru: Beru5.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/09/Beru1.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 717,
+  "alto": 1448,
+  "que_es": "Beru: Beru1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/1e/Beru30.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1396,
+  "que_es": "Beru: Beru30.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/a/a3/Beru32.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 719,
+  "alto": 1386,
+  "que_es": "Beru: Beru32.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/4/4f/Beru25.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1302,
+  "que_es": "Beru: Beru25.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/1b/Beru0.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 719,
+  "alto": 1079,
+  "que_es": "Beru: Beru0.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/9/91/Manhwa_Webtoon_Volume_5_Cover.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1045,
+  "alto": 1500,
+  "que_es": "Cha Hae-In: Manhwa Webtoon Volume 5 Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/b/b4/Cha34.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 800,
+  "alto": 1763,
+  "que_es": "Cha Hae-In: Cha34.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/3/38/Cha32.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 898,
+  "alto": 1457,
+  "que_es": "Cha Hae-In: Cha32.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/7/73/Cha6.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 718,
+  "alto": 1724,
+  "que_es": "Cha Hae-In: Cha6.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/6/68/Cha_Hae-In_Unknown.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1566,
+  "que_es": "Cha Hae-In: Cha Hae-In Unknown.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/1/16/Cha15.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 720,
+  "alto": 1536,
+  "que_es": "Cha Hae-In: Cha15.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/3/3e/Cha31.jpg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 900,
+  "alto": 1204,
+  "que_es": "Cha Hae-In: Cha31.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/8b/Cha_Hae-in_Anime_S2_CV.jpeg",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 900,
+  "alto": 1200,
+  "que_es": "Cha Hae-In: Cha Hae-in Anime S2 CV.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/0/0f/SoloLeveling_Anime_Episode_6_Picture_25.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Cha Hae-In: SoloLeveling Anime Episode 6 Picture 25.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/solo-leveling/images/7/70/Anime_Episode_8_picture_8.png",
+  "fuente": "Fandom solo-leveling",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Cha Hae-In: Anime Episode 8 picture 8.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/302674a694a37e49178236825db07ad60ea95a6f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1391,
+  "que_es": "Fan art de igris_(solo_leveling) (https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48eeb750-60aa-4764-8fe9-cc61c3e715c3/dfacn0r-017e2abf-b90a-4f08-85c1-93d3fa7bf967.png/v1/fill/w_900,h_1391/solo_leveling___sung_jinwoo_shadow_monarch_by_shumijin_dfacn0r.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM5MSIsInBhdGgiOiJcL2ZcLzQ4ZWViNzUwLTYwYWEtNDc2NC04ZmU5LWNjNjFjM2U3MTVjM1wvZGZhY24wci0wMTdlMmFiZi1iOTBhLTRmMDgtODVjMS05M2QzZmE3YmY5NjcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WdauUSoEOEhb2ePAA6GFrrmzclwkTRkmaoGoPdzYBcc)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4613/fc7a86e3c32e4062a3aefdf89741ee63759fbcee.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de igris_(solo_leveling) (https://twitter.com/SoloLevelingDNC/status/1874410238280872236)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/a343f5006d06d9e1d1f867ad83d294859cbc1836.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1280,
+  "que_es": "Fan art de igris_(solo_leveling) (https://twitter.com/KyeZzzz/status/1759857108529344735)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/a82ce8d40bda207c9a19f1c565086ebd73536918.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1664,
+  "alto": 2048,
+  "que_es": "Fan art de igris_(solo_leveling) (https://twitter.com/el_pozitoo/status/1767559147921314208)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4608/e0dbb66740539d6115b1b2487c1a41ea798dcda5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 819,
+  "que_es": "Fan art de igris_(solo_leveling) (https://twitter.com/hiyo_011oue/status/1389174945008082944)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/bb8133bdb1f62c9e6c0619b25e833ff7b5077101.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2288,
+  "alto": 4725,
+  "que_es": "Fan art de igris_(solo_leveling) (https://apexpredator.artstation.com/projects/3o50zv)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/d7b8f1158f658a3e8851e7a7a1970762490631b3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1753,
+  "alto": 2480,
+  "que_es": "Fan art de beru_(solo_leveling) (https://twitter.com/j_cstr/status/1776616883061711182)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7a5dd7341b8cdb92f34ec91d8e8414f044d95d08.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 637,
+  "alto": 900,
+  "que_es": "Fan art de beru_(solo_leveling) (https://twitter.com/wab_lev/status/1798706836830670873)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/519/8ab65441d6bb54fe77ef93f25516e5a73147c21d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1920,
+  "que_es": "Fan art de beru_(solo_leveling) (https://twitter.com/SirDinhosaur/status/1886858977813913866)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1797/a3ee577ac2ff990573c07758c647b860334234bb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1059,
+  "alto": 1500,
+  "que_es": "Fan art de beru_(solo_leveling) (https://i.pximg.net/img-original/img/2025/01/05/12/42/54/125921454_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3951/6979833efb5993208deb75cb3d410ef13fec2286.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1359,
+  "alto": 1279,
+  "que_es": "Fan art de kim_dokja (https://twitter.com/guding_nut/status/1563874971725639681)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4042/0a9b2d14a994ec27fdfb3e17cd36a0923e367747.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 649,
+  "alto": 1004,
+  "que_es": "Fan art de kim_dokja (https://twitter.com/_ya_qaq_/status/1584276781564993537)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/770/48b9e7709f908c238187af8f3b547d34ca9ca436.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2559,
+  "alto": 1440,
+  "que_es": "Fan art de kim_dokja (file://output.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/541/6704185a785336b9cb57c96aa6d3db87d49b23d7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1286,
+  "alto": 2048,
+  "que_es": "Fan art de kim_dokja (https://twitter.com/ebeevee/status/1661104064048910336)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4100/1d517598c52e15d1af247fc7b0c8ffc83b7ac1ac.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1858,
+  "que_es": "Fan art de kim_dokja (https://shweezyliz.tumblr.com/post/710129791006867456)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/553/4c5301ee0bb5f1d169045a09b2a680ad20a38ae5.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 686,
+  "alto": 1000,
+  "que_es": "Fan art de kim_dokja (https://twitter.com/dalchi09/status/1755955984470888577)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7233e4be3fdec6d22ce8996d758f03c1452b12ef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1228,
+  "alto": 713,
+  "que_es": "Fan art de sung_jin-woo (https://twitter.com/hiyo_011oue/status/1392106060870131720)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/771/7a2f94a5091f7bc0e409ec646a77d2333df07f36.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1186,
+  "alto": 1678,
+  "que_es": "Fan art de sung_jin-woo (https://i.pximg.net/img-original/img/2021/03/27/21/25/53/88743642_p19.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/773/8b3bd67f0a49b8064c3e123f7248204eb3bc3291.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3335,
+  "alto": 3748,
+  "que_es": "Fan art de sung_jin-woo (https://twitter.com/SoloLevelingDNC/status/1871873529651577067)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1027/c5dcae0a8a5592621c600a2da4684e66575b308b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1184,
+  "alto": 822,
+  "que_es": "Fan art de sung_jin-woo (https://i.pximg.net/img-original/img/2021/06/12/21/23/55/90506379_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/2361fcc9d4f091319c02dc74135d31ebc10dd7b3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1309,
+  "alto": 3200,
+  "que_es": "Fan art de sung_jin-woo (https://i.pximg.net/img-original/img/2024/07/12/20/49/01/120466265_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4147/2be65e95eab75e214f298b0faba76c84f5d4d784.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 3000,
+  "que_es": "Fan art de cha_hae-in (file://f9584c55-57d5-42f2-ad86-25ef96c8e2b4.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3391/90219270866ef2e356872f0a5fc7d2327e387e3b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1643,
+  "que_es": "Fan art de cha_hae-in (https://www.deviantart.com/kunsword/art/Cha-Hae-In-858675849)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4583/f6584ff878c3de28a96b51b96d3c199198a1297c.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5400,
+  "alto": 6300,
+  "que_es": "Fan art de cha_hae-in (https://i.pximg.net/img-original/img/2024/01/09/22/29/20/115034652_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4547/d724b8d749048f57a2e4f5d5e658a6846f16e772.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3200,
+  "alto": 6000,
+  "que_es": "Fan art de cha_hae-in (https://i.pximg.net/img-original/img/2024/02/03/08/56/09/115715587_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4613/0a394e33cf77aabaf2355c0be4b0df2efcf72e23.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4096,
+  "que_es": "Fan art de cha_hae-in (https://twitter.com/SoloLv_POPUP/status/1839608056633807324)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1539/ac06bca6ddd758feb8745f3c047ba2d66fa9cbc3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 637,
+  "alto": 900,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2024/10/10/12/28/15/123197623_p49.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1539/d2647fc059e16b3c05874771a78cdc52a67be5d4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 637,
+  "alto": 900,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2024/10/10/12/28/15/123197623_p46.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1539/ed058f9a2e0d81e3f9ae1aecca3272bf0d8be057.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 708,
+  "alto": 1000,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2024/10/10/12/28/15/123197623_p12.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1539/459a72007cad356314e0b13a7e493752894e552f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1782,
+  "alto": 2500,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2024/10/19/13/59/44/123473533_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/2ac32162f6265f4ac9444e94865fd9e71140de6a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2460,
+  "alto": 3480,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2024/02/25/08/30/01/116372203_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1027/9bfe448c137fe982be70007aa6652ed0c85110cf.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1280,
+  "que_es": "Fan art de kang_tae-shik (https://i.pximg.net/img-original/img/2021/03/03/01/57/13/88177289_p5.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1288/f5a930410c43d8015c162b7f38f968f9b58cda4d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2700,
+  "alto": 4050,
+  "que_es": "Fan art de esil_radiru (https://i.pximg.net/img-original/img/2025/02/24/04/46/20/127571399_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3391/93ad6cb40af2fc08310519d74ec810e83aefc87f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3530,
+  "alto": 3530,
+  "que_es": "Fan art de esil_radiru (https://kunsword.artstation.com/projects/J9Pzav)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/1fc2001d918c170198e270acc43b5c11d7672d3a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1097,
+  "alto": 820,
+  "que_es": "Fan art de esil_radiru (https://twitter.com/sololeveling_pr/status/1774100077453488560)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/286/cfbac37519d70871107cc5c6ac33a00089f1695a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2381,
+  "alto": 4096,
+  "que_es": "Fan art de esil_radiru (https://twitter.com/SLANewsEN/status/1879835748524065149)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3854/008590fcc61458824a11c2ef369d3bb6fba24b79.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3508,
+  "alto": 2480,
+  "que_es": "Fan art de esil_radiru (https://twitter.com/sololeveling_pr/status/1906005427286065625)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1031/5c97b1dadfd588da926b0e41bc83b705d3645114.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3762,
+  "alto": 3611,
+  "que_es": "Fan art de esil_radiru (https://static.wikia.nocookie.net/solo-leveling-arise/images/3/32/Esil_Radiru.png?format=original)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]
