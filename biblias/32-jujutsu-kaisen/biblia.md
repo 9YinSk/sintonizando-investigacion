@@ -28,6 +28,7 @@ fecha: 2026-09-24
 
 ## Índice
 
+- Segunda pasada · qué cambió (repaso de los puntos 18-25)
 0. Jujutsu Kaisen no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
 2. Las escenas que sirven (con minuto)
@@ -46,7 +47,15 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
+18. Guía para generar con IA (imagen y **texto**, 18.6-18.7 nuevos)
+- Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+- Punto 19 · Texturas 2D (tramas, pinceladas, patrones y emblemas)
+- Punto 20 · Gustos y detalles de cada personaje
+- Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+- Punto 22 · Fan dubs y comunidad hispana
+- Punto 23 · Colaboraciones, figuras y cosplay
+- Punto 24 · Obras parecidas y láminas vecinas
+- Punto 25 · El mundo, la historia por arcos y sus símbolos
 19. Tres conceptos de lámina
 20. Lo que no pude verificar
 - Cumplimiento del encargo
@@ -1476,7 +1485,9 @@ screen, wooden pointer stick`.
 se quiera la escena cómica), `cursed energy` (saca fuego morado y lo
 llena todo), `blood`, `demon`, `neon cyberpunk` (Shibuya es de noche,
 pero no es ciberpunk), `kawaii pastel`, `3D render`, `glowing eyes`,
-`ninja` (saca Naruto), `samurai`.
+`ninja` (saca Naruto), `samurai`. Para Sukuna, **nunca** `red haori`
+ni `flame pattern`: su haori es **negro liso** sobre kimono blanco (wiki);
+el rojo con llamas es un invento de tiendas de cosplay (Punto 19.2).
 
 ### 18.4 Qué imágenes darle como referencia
 
@@ -1498,6 +1509,195 @@ pero no es ciberpunk), `kawaii pastel`, `3D render`, `glowing eyes`,
   un onigiri.
 - Cámara **a la altura de un alumno sentado**: así el aula se ve desde
   el pupitre, como en F29.
+
+### 18.6 Etiquetas que entienden las IA de imagen (segunda pasada)
+
+Son las que **más se repiten** en los dibujos de cada personaje en
+Danbooru ([related_tag](https://danbooru.donmai.us/related_tag?query=gojo_satoru),
+en `partes/datos-imagen.md`). Es el vocabulario con el que se entrenan
+muchas IA de anime. Úsalas en inglés, tal cual:
+
+| Personaje | Etiquetas que ayudan |
+|---|---|
+| **Yuji** | `pink_hair`, `undercut`, `black_hair` (la nuca), `spiked_hair`, `hood_down`, `hoodie`, `facial_mark`, `scar_on_face`, `brown_eyes`, `black_jacket` |
+| **Gojo** | `white_hair`, `blue_eyes`, `colored_eyelashes`, `blindfold`, `high_collar`, `black_jacket`, `black_pants`; sin venda: `round_eyewear`, `sunglasses` |
+| **Megumi** | `black_hair`, `spiked_hair`, `hair_between_eyes`, `jujutsu_tech_uniform`, `high_collar`, `school_uniform` |
+| **Nobara** | `brown_hair`, `short_hair`, `swept_bangs`, `jujutsu_tech_uniform`, `skirt`, `pantyhose`, `holding_hammer`, `claw_hammer`, `holding_nail` |
+| **Sukuna** | `extra_eyes`, `red_eyes`, `facial_tattoo`, `arm_tattoo`, `chest_tattoo`, `shoulder_tattoo`, `black_nails`, `undercut`, `kimono`, `japanese_clothes` |
+| **Geto** | `hair_bun`, `single_hair_bun`, `ear_piercing`, `plug_(piercing)`, `black_kimono` |
+
+Para el **gesto**, el nombre de la etiqueta vale más que describirlo:
+`hand_up` (saludar), `holding` (con su objeto), `open_mouth, teeth`
+(gritar o reír), `closed_mouth` (serio). Las de estilo del 18.2 van
+delante; las de 18.3, nunca.
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Reglas generales** (de §7, §8 y §10):
+
+- **Frases cortas**. Gojo bromea en mitad del peligro; Nanami habla de
+  **usted**; Megumi dice poco y seco; Nobara grita y se burla; Sukuna
+  desprecia.
+- **Explican su técnica en voz alta** en mitad de la pelea (§7.2). Es
+  parte del estilo y del meme: un personaje puede «explicar» el canal.
+- **Gritos**: el nombre de la técnica, solo y con admiración:
+  «¡Destello Negro!», «Expansión de Dominio… Vacío Infinito».
+- **Inumaki** sólo dice ingredientes de onigiri (§8, concepto C): «¡Salmón!».
+- En el doblaje latino hay **guiños locales** («chipote chillón», «Eso es
+  todo, amigos», «gallo» para Yuji; §10.4). Uno por lámina, como mucho.
+- **Nada de** «jajaja» escrito, emojis ni «—» de relleno (regla 4 del
+  dueño).
+
+**Frases reales, por emoción** (doblaje latino ✅ o subtítulo con
+minuto; la fuente, en §2 y §10.4):
+
+| Emoción | Quién | Frase real | De dónde |
+|---|---|---|---|
+| **Alegre / presentarse** | Nobara | «Alégrense, chicos: soy la única chica» | T1-3, 3:06 (sub.) |
+| **Alegre** | Yuji | «¡Tokio! ¡Tokio!» | T1-3, 5:26 (sub.) |
+| **Alegre / burla** | Nobara (doblaje) | «…los destrozaré. Volarán y no volverán.» | muestra de Doblaje Wiki ✅ |
+| **Explicando** | Panda (doblaje) | «En realidad, el primer día son combates grupales y el segundo individuales.» | muestra de Doblaje Wiki ✅ |
+| **Explicando** | Gojo | «Esto es una Expansión de Dominio. Con energía maldita construyes a tu alrededor tu dominio interior» | T1-7, 12:05 (sub.) |
+| **Explicando, cansado** | Nanami (doblaje) | «Descubrí que trabajar es un asco.» | [HSZPNTXO-cw, 0:28](https://www.youtube.com/watch?v=HSZPNTXO-cw&t=28) ✅ |
+| **Animando** | Gojo | «No te preocupes. No hay nadie más fuerte que yo» | tráiler 1, sub. oficial ✅ |
+| **Animando / despedida** | Nanami | «Lo demás te lo dejo a ti» | T2-18, 13:30 (sub.) |
+| **Serio / amenaza** | Gojo (doblaje) | «Tu ejecución secreta ya se determinó.» | [x7xmacu, 0:43](https://www.dailymotion.com/video/x7xmacu) ✅ |
+| **Enfadado / desprecio** | Sukuna (doblaje) | «La carne de un espectro no tiene gracia. ¿Dónde está la gente?» | muestra de Doblaje Wiki ✅ |
+| **Harto** | Nanami | «Esto ya son horas extra» | T1-10, 21:12 (sub.) |
+| **Triste / decidido** | Yuji | «No quiero tener que arrepentirme por cómo viví» | tráiler 1, sub. oficial ✅ |
+
+**Vocabulario de la serie** (para que la IA de texto lo use bien; kanji
+en el Punto 25): energía maldita, espíritu maldito, hechicero,
+Expansión de Dominio (T2: «Expansión»; T1 decía «Extensión», §10.3),
+Destello Negro, velo, voto vinculante, restricción celestial, técnica
+maldita inversa, dominio simple, herramienta maldita, grado especial,
+«el más fuerte», «horas extra».
+
+**Vocabulario de gestos para la IA de imagen** (de lo visto en §7, §15
+y las etiquetas de 18.6): la **cara cómica chibi** con fondo de color
+para las escenas de risa (F5, `chibi`); **caras chibi pegadas en una
+tabla** para explicar (Panda, §7.1); para el miedo o la amenaza, el
+**segundo par de ojos y las marcas** de Sukuna (`extra_eyes`,
+`facial_tattoo`); el **signo de manos del dominio** (índice y corazón
+cruzados, §14). Gotas de sudor ni venas de enfado no las encontré
+documentadas en esta serie ⚠️: no las pidas sin mirar antes una
+escena.
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+Segunda pasada (24-sep-2026), del investigador de texto y técnica
+(`partes/texto.md`). Lo medido del anime ya estaba en §18: **contorno
+fino y uniforme, sombra de dos tonos con borde duro, fondos casi
+fotográficos, luz lateral**.
+
+### 18.a El manga: cómo dibuja Gege Akutami
+
+- **Sin trama de puntos** en las 4 páginas de acción miradas (T13, T15,
+  T17, T18 de `hojas/pantalla_y_letras_01.jpg`). El volumen sale de la
+  **línea**: rayado paralelo fino a mano y garabato suelto para pelo y
+  ondas de choque ✅ (visto en 4 páginas; detalle en Punto 19.1).
+- **Negro sólido con grietas blancas**, sin grises (el dominio de Sukuna,
+  T18). Contraste muy alto: blanco puro y negro puro ✅.
+
+### 18.b El anime: qué programas y cómo trabaja MAPPA
+
+- **2D y 3D mezclados «sin que se note cuál es cuál»**. En las calles con
+  gente, **el primer plano se dibuja en 2D y el fondo es 3D** para
+  ahorrar animadores. Lo cuenta el director de 3DCG, **Kentarō Kimura**
+  (木村謙太郎) ✅ ([CGWORLD, seminario CGWORLD JAM Vol.3](https://cgworld.jp/feature/202108-cgwjam03-mappa.html), en japonés).
+- Bosques de Kioto: árboles 3D colocados «según referencias artísticas
+  para mantener la coherencia» ⚠️ (misma fuente, un resumen).
+- **JJK0, *camera mapping***: se **proyecta el fondo pintado a mano
+  sobre geometría 3D simple** para mover la cámara sin perder el aspecto
+  de dibujo. Objetivo: «acercar la CGI al dibujo» (作画に近づける) ✅
+  ([CGWORLD, JJK0 3DBG](https://cgworld.jp/article/202203-jujutsukaisen.html)).
+  - Flujo: layout 2D del animador → modelo base (el estudio **Easter**
+    hizo Kioto y Shinjuku) → proyección del dibujo → sombras y luces en
+    **After Effects** ✅.
+  - Programas: **Blender** (layout 3D previo, lo hacen los propios
+    animadores de dibujo), **Maya** y herramientas internas, **After
+    Effects** ✅ (misma fuente).
+  - Diagrama del *camera mapping*, 1920×841, y comparativa en 4 paneles,
+    1783×790 (medidos; en `referencias.json`).
+- **Espíritus en 3D de JJK0** (el ciempiés, los peces): **3ds Max** y
+  **tyFlow** para las partículas; el ciempiés lo hizo **Yostar
+  Pictures** y lo animó **Larks Entertainment**, «con muchas repeticiones
+  para acercarlo al dibujo a mano» ✅ ([CGWORLD, JJK0 3D呪霊篇](https://cgworld.jp/article/202203-jujutsukaisen02.html)).
+- **Diseño de personajes**: **Tadashi Hiramatsu** (平松禎史), T1 y T2; en
+  la T2 se suma **Sayaka Koiso** y el diseño se hace «más moderno y
+  flexible»: **menos líneas de músculo y menos arrugas de ropa** ✅
+  ([Real Sound](https://realsound.jp/movie/2023/07/post-1368255_2.html),
+  en japonés; coincide con el blog siguiente).
+- **T1 → T2**: la T1 (Sunghoo Park) es «pesada y robusta», línea marcada
+  y sombreado detallado; la T2 (Shōta Goshozono, así en Variety, Punto 21.1; el blog pone
+  «Gotō») simplifica para
+  animar más rápido las peleas de Shibuya y apuesta por cámaras
+  dinámicas ⚠️ ([noteapex](https://noteapex.conohawing.com/958/), blog en
+  japonés). El ep. 41 recibió «correcciones masivas» en el Blu-ray.
+- **Programa 2D**: no encontré una entrevista de MAPPA que lo diga por
+  nombre ⚠️. Contexto de la industria: **RETAS** fue el estándar y lo
+  sustituye **Clip Studio Paint EX** ([Wikipedia, RETAS](https://en.wikipedia.org/wiki/RETAS),
+  [CLIP STUDIO ASK](https://ask.clip-studio.com/en-us/detail?id=57247));
+  un blog añade **Toon Boom Harmony** ([Dark Skies Film](https://darkskiesfilm.com/what-animation-software-does-mappa-use/)) ⚠️.
+- Fichas de animadores por escena: [作画@wiki, 平松禎史](https://w.atwiki.jp/sakuga/pages/213.html) ⚠️ (wiki de fans, sirve como índice).
+
+### 18.c Encuadres y composición
+
+- La T1 bebe del **cine de acción real**: persecuciones a lo *The Raid* y
+  *John Wick*, ángulos imposibles a lo *Inception*. El ángulo de la
+  cabeza, la luz y la distancia entre personajes dicen lo que no dice el
+  diálogo ⚠️ ([Anime Lore Hub](https://animelorehub.blogspot.com/2025/10/when-frame-speaks-louder-than-words.html), blog).
+- **Cada emoción, su montaje**: cortes rápidos en el pánico, **zoom
+  lento** en el duelo y la tristeza, planos aéreos para dar escala en las
+  peleas grandes ⚠️ (misma fuente).
+- Lo que dice el director (§18.1): Sunghoo Park probó desde el
+  *storyboard* que «el miedo se sienta real» ([Xportsnews](https://www.xportsnews.com/article/1540502), en coreano).
+- Para la lámina: **plano medio, luz lateral**, el personaje en un
+  tercio (§18.5). Para la escena triste, **plano cercano sin grito** (la
+  muerte de Nanami, Punto 21.4).
+
+### 18.d Cómo replicarlo en Photoshop
+
+1. **Línea limpia** en su capa, fina y uniforme.
+2. **Colores planos** con el cubo o el lazo, con «Bloquear píxeles
+   transparentes».
+3. **Sombra en capa Multiplicar**, formas sólidas con borde duro, **sin
+   degradado** (bajo la barbilla, el lado contrario a la luz).
+4. Zonas más oscuras con una segunda capa de sombra.
+   ✅ ([Adobe, «Cel Shading»](https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html),
+   guía oficial; lista de vídeos en [Concept Art Empire](https://conceptartempire.com/cel-shading-tutorials/) ⚠️).
+5. Encima de todo, capas de ajuste: **ruido monocromo** a baja opacidad
+   (grano), **canales R y B desplazados** un poco (aberración) y una capa
+   **Trama** suave en los contraluces ⚠️ (método general de
+   posproducción; ninguna fuente dice que MAPPA lo haga así en JJK).
+6. En **Clip Studio**: capa de **Tono** para tramas automáticas ⚠️
+   ([CLIP STUDIO TIPS](https://tips.clip-studio.com/en-us/articles/10901), tutorial de la comunidad).
+7. Para imitar el **manga**: rayado a mano con pinceles de tinta, no
+   trama (Punto 19.4).
+
+### 18.e Cómo replicarlo en Blender
+
+- **Sombra de dos tonos**: *Diffuse BSDF* → *Shader to RGB* →
+  *ColorRamp* en modo **Constant** (no *Linear*): corta el degradado en
+  dos tonos duros, como la sombra medida en §18 ✅
+  ([Blender Artists, «The Ultimate Cel-Shading Shader»](https://blenderartists.org/t/the-ultimate-cel-shading-shader/1413344)).
+- **Contorno**: **Line Art** (Grease Pencil, Blender 2.93 o más), o
+  **casco invertido**: segunda malla con *Solidify* hacia fuera,
+  material *Emission* negro y *Backface Culling*; o **Freestyle** ✅
+  (mismo hilo + [«Anime Cell Shader in 2 minutes»](https://www.youtube.com/watch?v=LJJkCI5u7Rw), YouTube).
+- **Fondos a lo MAPPA**: geometría simple + la textura pintada
+  **proyectada** (UV Project desde la cámara), como el *camera mapping*
+  de JJK0. Es la regla 1 del dueño hecha técnica.
+- **Estelas de movimiento**: complemento **Autosmear** (*smears* con
+  color y *mesh trails*), como en la animación fan **Sukuna contra
+  Mahoraga** de **FrameFiend** ✅ ([80 Level](https://80.lv/articles/jjk-s-sukuna-vs-mahoraga-fan-animation-in-blender)).
+- **Personaje en Blender con shading anime**: Yuta Okkotsu de **DAL**;
+  el desglose es de pago ⚠️ ([80 Level](https://80.lv/articles/artist-shares-tips-on-shading-anime-style-character-model)).
+- Modelos y *rigs* libres: los de Sketchfab con licencia de §4.1 (y la
+  ropa de Nobara de ChamberSu, CC BY, en `referencias.json`). Ninguno se
+  probó en Blender ⚠️.
+- Boceto de cara al estilo JJK (12 pasos, Yuta): ojos grandes y
+  redondos, cejas finas, barbilla puntiaguda suave ⚠️ ([Sketchok](https://sketchok.com/anime/jujutsu-kaisen/yuta-okkotsu-face-drawing-tutorial-jjk-style-in-12-steps/), tutorial de fan).
 
 ## 19 · Tres conceptos de lámina
 
