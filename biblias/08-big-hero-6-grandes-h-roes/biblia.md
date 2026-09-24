@@ -625,6 +625,34 @@ En dafont también preguntan por la letra del póster y la de los créditos
 [créditos](https://www.dafont.com/forum/read/204389/the-font-used-in-the-credits-of-big-hero-6)),
 sin respuesta que pudiera leer.
 
+### El logo, visto y medido (segunda pasada) ✅
+- Letras propias **gruesas y redondeadas**, con la base irregular, hechas
+  a mano. Mayúsculas blancas con contorno negro sobre rojo; el «6» negro
+  con una barra roja en medio ([Big_Hero_6_logo.png, 800×310](https://static.wikia.nocookie.net/bighero6/images/a/aa/Big_Hero_6_logo.png)).
+  Medido con `estilo.py`: rojo `#E00318`, negro `#020000`, blanco `#FEFDFE`.
+- **La más parecida de las libres: Bungee** (gruesa, redondeada, de
+  cómic); luego Baloo 2. Russo One es más recta y se aleja más.
+  Comparación mirando las dos imágenes, no superpuestas ⚠️.
+- **En latino** el logo se traduce a «GRANDES HÉROES» con la misma
+  familia de letra, en rótulo rojo con bisel blanco ✅ (visto, [tráiler
+  latino, 2:21](https://www.dailymotion.com/video/x889whz?t=141); y en el
+  póster latino n.º 44, §3.0).
+- Los rótulos del tráiler latino van en **mayúsculas condensadas**:
+  «MUY PRONTO» (0:51), «UN GRAN DESCUBRIMIENTO LLEGARÁ» (0:58), «ÉL NOS
+  GUIARÁ» (2:02), «ÉL NOS CUIDARÁ» (2:06), «ÉL CAMBIARÁ NUESTRO MUNDO»
+  (2:10) ✅ (vistos).
+- **Sello del SFIT**: círculo tipo engranaje con «SAN FRANSOKYO INSTITUTE
+  OF TECHNOLOGY» en letras redondeadas gruesas alrededor de un monograma
+  «SF». Hex: oro `#FDD340`, azul marino casi negro `#100730`, rojo oscuro
+  `#A82512`, naranja quemado `#C4651C` ✅ ([SFIT_Logo.png, 700×700](https://static.wikia.nocookie.net/bighero6/images/7/7e/SFIT_Logo.png)).
+- **Portada del manga en inglés** (Yen Press, tomo 1): «BIG HERO 6» en
+  letra de palo **blanca, gruesa y recta** en una banda roja, distinta
+  del logo del cine ✅ (vista, [Internet Archive](https://archive.org/details/bighero6vol10000ueno)).
+  La letra de los globos no se pudo ver (el libro está cifrado).
+- Letra estándar del manga traducido al inglés: **WildWords** (de pago)
+  ([Comicraft](https://www.comicbookfonts.com/Wildwords-font-p/bl003i.htm));
+  que este tomo la use, ⚠️ sin confirmar.
+
 ### Letras libres comprobadas una a una
 Se bajó cada archivo de `google/fonts` en GitHub y se miró si trae
 **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü**.
@@ -658,8 +686,29 @@ Se bajó cada archivo de `google/fonts` en GitHub y se miró si trae
 > real **no tiene ninguna letra con tilde, ni ñ, ni ¿ ¡**. Comprobado con
 > fontTools en `KosugiMaru-Regular.ttf`. No usarla.
 
-**Cuál se parece a qué** es propuesta ⚠️: no pude poner el logo al lado.
-Probar Russo One, Bungee y Exo 2 contra el logo en el PC.
+**Segunda comprobación con fontTools** (archivos reales de
+`fonts.gstatic.com`): Nunito, Share Tech Mono, Caveat, Russo One y
+Bungee siguen ✅; Kosugi Maru sigue ❌ (dos veces). **Nuevas, ✅ con todo:
+Comic Neue** (globo de manga), **Bangers** (grito, onomatopeya) y
+**Permanent Marker** (cartel a mano).
+
+**Una letra para cada uso** (todas traen á é í ó ú ñ ¿ ¡):
+
+| Uso | Letra libre |
+|---|---|
+| Logo o título | **Bungee** (la más parecida), o Russo One |
+| Lo que dice Baymax en su pecho | **Nunito** ExtraBold/Black |
+| Globo normal (manga o juego) | **Comic Neue** |
+| Grito | **Bangers** |
+| Pensamiento | Caveat |
+| Onomatopeya | Bangers o Bungee |
+| Cartel del mundo (tienda, calle) | Permanent Marker o Mochiy Pop One |
+| Interfaz de juego | Rajdhani, Chakra Petch o Titillium Web |
+| Subtítulos o créditos | Titillium Web |
+| Número de ticket | Share Tech Mono |
+
+Superponer el logo con Bungee en el PC antes de decidir ⚠️ (aquí se
+compararon a ojo).
 
 **Recomendación:** **Nunito** (ExtraBold o Black) para todo lo que dice
 Baymax. Es redonda, limpia y de clínica, como él. **Share Tech Mono**
@@ -677,12 +726,39 @@ para el número del ticket. **Caveat** si algo va escrito a mano.
   ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Funny/BigHero6),
   [Rated PT](https://ratedpt.wordpress.com/2021/02/16/big-hero-6-on-a-scale-of-1-10/)).
 - **No tiene boca a propósito.** Al principio iba a tenerla; el diseñador
-  Kim (el buscador no aclara si Jin o Shiyoon ⚠️) propuso quitarla para
-  que hable con **el cuerpo y el parpadeo**. El ilustrador japonés
+  **Shiyoon Kim**, diseñador principal de personajes, propuso quitarla
+  para que hable con **el cuerpo y el parpadeo** ✅ ([Character Media,
+  entrevista a los animadores](https://charactermedia.com/big-hero-6-animators-discuss-their-creative-process/),
+  y ねとらぼ abajo; antes decía «Kim, sin saber si Jin o Shiyoon»). El ilustrador japonés
   **Koyama Shigeto** propuso usar los **agujeros del cascabel** como ojos ✅
   ([ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/1501/19/news144.html),
   [Red Bull JP, Koyama](https://www.redbull.com/jp-ja/behind-the-mask-15),
   [eiga.com](https://eiga.com/news/20141201/6/)).
+
+- **La tabla del dolor en pantalla, vista y medida** (§1): cajita blanca
+  redondeada, 10 caritas en 2 filas de 5, números del 1 al 10, amarillo
+  `#F1E815` → naranja `#EDB413` → rojo `#F0764E`, fondo `#FDF9EF`
+  ([Scale_8.png](https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png), serie de TV).
+  Frase de guion: «On a scale of 1 to 10, how would you rate your pain?»
+  y antes «I was alerted to the need for medical attention when you said,
+  "ow."» ✅ ([transcripción](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)).
+- **Al escanear, sus ojos cambian**: en la serie los dos puntos se
+  vuelven **dos iconos de obturador de cámara girando** ✅ (visto,
+  [Baymax_scanning_eyes.png, 1920×1080](https://static.wikia.nocookie.net/bighero6/images/c/cc/Baymax_scanning_eyes.png)).
+  En la película, el escaneo sale como **interfaz azul** con «SYMPTOMS» y
+  números ✅ (visto, [Meet Baymax, 1:53](https://www.dailymotion.com/video/x2553ox?start=113)).
+- **El póster latino oficial ya lo hizo** (§3.0, n.º 44): Baymax **señala
+  su pecho encendido** con un icono y un aviso en español en mayúsculas
+  redondeadas rojas. Es el formato de #soporte, hecho por Disney ✅ (visto).
+- **Sus chips son otro cuadro**: el puerto está en el **lado izquierdo del
+  pecho**, con aspecto de insignia, y guarda hasta 4 chips ⚠️ (una fuente,
+  [ficha](https://bighero6.fandom.com/wiki/Baymax)). Chip de cuidados
+  **verde con un doctor sonriente** (hecho por Tadashi): `#546B60` /
+  `#78968B` sobre `#232627` ✅ ([imagen, 1920×808](https://static.wikia.nocookie.net/bighero6/images/c/ce/Baymax%27s_Healthcare_Chip.jpg),
+  [ficha de los chips](https://bighero6.fandom.com/wiki/Baymax%27s_Chips)).
+  Chip de pelea **rojo con calavera**: `#811A1D` / `#9A3640` sobre
+  `#28151C` ✅ ([imagen, 1416×808](https://static.wikia.nocookie.net/bighero6/images/b/b8/Baymax%27s_Fighting_Chip.jpg)).
+  Chip de superhéroe: `#0A242D` / `#97BBBA` con `#4B1415` ⚠️ (sólo medido).
 
 **Así que el cuadro de diálogo de Baymax es su barriga:** el texto sale
 **proyectado sobre el vinilo**, curvado con él, con un poco de brillo.
@@ -691,9 +767,13 @@ Nada de bocadillo de cómic
 
 ### Tadashi habla por **sus vídeos de prueba**
 Graba su trabajo con Baymax como un diario: «Aquí Tadashi Hamada y este
-es el **octogésimo cuarto ensayo**» ⚠️ (frase de audiofrases, sin saber
-el doblaje) ([audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397715)).
-Hiro los ve después en la pantalla de Baymax ⚠️ (de memoria).
+es el **octogésimo cuarto ensayo**» ⚠️ (frase de audiofrases, sin oír el
+doblaje) ([audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397715)).
+**Confirmado con el guion original** ✅: «A video appears on Baymax's
+torso»; las pruebas 1.ª, 7.ª, 33.ª y 84.ª («This is Tadashi Hamada, and
+this is the 84th… test. What do you say, big guy?») se proyectan **en el
+torso de Baymax**, no en otra pantalla, justo después de que Baymax dice
+«Tadashi is here» ([transcripción](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)).
 **Su cuadro:** un vídeo casero con número de ensayo.
 
 ### Hiro habla por **su programa de diseño**
@@ -709,7 +789,9 @@ en su web, pero el título dice «coming soon» ⚠️
   Baymax ✅ ([KH Wiki](https://www.khwiki.com/San_Fransokyo),
   [Kingdom Hearts Fandom](https://kingdomhearts.fandom.com/wiki/San_Fransokyo)).
   Sus cajas de diálogo están en [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=596)
-  ⚠️ sin abrir.
+  ⚠️ sin abrir (segunda pasada: la página volvió vacía dos veces).
+  **Ningún juego de la franquicia tiene una caja de diálogo propia y
+  reconocible**: lo reconocible es la barriga de Baymax (§13).
 - **Battle in the Bay** (3DS/DS, 2014): **no tiene voces ni escenas
   animadas** ✅ ([Nintendo Life](https://www.nintendolife.com/reviews/3ds/big_hero_6_battle_in_the_bay),
   [Comic Book Video Games](https://comicbookvideogames.com/2014/11/07/review-big-hero-6-battle-in-the-bay-nintendo-3ds/)).
