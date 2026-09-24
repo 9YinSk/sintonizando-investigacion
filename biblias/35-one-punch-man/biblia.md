@@ -1185,53 +1185,677 @@ tiempo es el de la muestra, no el del capítulo.
   La más profunda, «mis emociones desaparecen». ⚠️ Las frases de Mumen en
   latino **no se pudieron oír**: sólo en inglés.
 
-## 11 · Música
+## 11 · Música y sonido
 
-(pendiente)
+> [!tip] En una línea
+> **JAM Project** grita los openings (rock de anime heroico, a propósito
+> exagerado); **la voz de Saitama canta los endings**; y el sonido que
+> todos reconocen es **el silencio** justo después del golpe.
 
-## 12 · Vídeos
+### 11.1 Compositor ✅
 
-(pendiente)
+**Makoto Miyazaki (宮崎誠)** en las tres temporadas. Visto en pantalla: en
+los créditos del opening T1 («音楽 宮崎誠», 0:53) y del tráiler T3 («Music:
+Makoto Miyazaki», 1:50). También en [CDJapan](https://www.cdjapan.co.jp/product/LACA-15536)
+(álbum *One Take Man*) e [IMDb](https://www.imdb.com/name/nm4381951/).
+
+### 11.2 Openings y endings
+
+| Temporada | Tema | Quién | Ambiente | Fuente |
+|---|---|---|---|---|
+| **T1 OP** (2015) | **«THE HERO!! ～怒れる拳に火をつけろ～»** | **JAM Project** (Lantis); letra y música **Motoi Iwasaki**, arreglo Miyazaki | rock heroico a gritos; el logo rojo sobre la Tierra al amanecer (0:12-0:16) | créditos vistos en el [opening, 1:12](https://www.dailymotion.com/video/x7xerpa?start=72) + [Wikipedia](https://en.wikipedia.org/wiki/One-Punch_Man_season_1) ✅ |
+| **T1 ED** (eps. 1-11) | «星より先に見つけてあげる» | **Hiroko Moriguchi** | balada | Wikipedia ⚠️ |
+| **T1 ED** (ep. 12) | «悲しみたちを抱きしめて» | Hiroko Moriguchi | balada | Wikipedia ⚠️; audio en [Internet Archive](https://archive.org/details/opm-hiroko-moriguchi-kanashimitachi) |
+| **T2 OP** (2019) | «Seijaku no Apostle» (静寂のアポストル) | **JAM Project** | rock | [Wikipedia](https://en.wikipedia.org/wiki/One-Punch_Man_season_2) ⚠️ |
+| **T2 ED** | «地図が無くても戻るから» | **Makoto Furukawa** (la voz japonesa de Saitama) | tranquilo | Wikipedia ⚠️ |
+| **T3 OP** (2025) | **«Get No Satisfied!»** | **JAM Project feat. BABYMETAL** | rock y metal | [ANN](https://www.animenewsnetwork.com/news/2025-08-23/babymetal-contributes-to-jam-project-one-punch-man-season-3-opening-song/.227998) + [Weebwire](https://weebwire.com/news/makoto-furukawa-returns-headline-one-punch-man-season-3-ending-theme-20250805) ✅ |
+| **T3 ED** | «そこにある灯り» | **Makoto Furukawa** otra vez | tranquilo | mismas dos ✅ |
+
+### 11.3 La canción de todo el reparto ✅
+
+**«Everyone's One-Punch Song»** (タツマキとフブキのワンパン音頭), con la OVA 6
+(mayo de 2016, Lantis). La cantan **juntas las voces japonesas** de
+Saitama, Genos, Sonic, Tatsumaki, Fubuki, King y Mumen Rider (Furukawa,
+Ishikawa, Kaji, Yūki, Hayami, Yasumoto, Nakamura). Letra de Aira Yūki,
+música de Miyazaki ([wiki](https://onepunchman.fandom.com/wiki/Everyone%27s_One-Punch_Song)).
+**Buen dato para un servidor de doblaje**: los actores cantan.
+
+### 11.4 La música de las escenas emotivas
+
+- **Mumen Rider bajo la lluvia** (T1-09): según recopilaciones de fans,
+  una versión **lenta y orquestal del tema de Saitama** («Sad theme»)
+  ([vídeo de fans](https://www.youtube.com/watch?v=fTVY7400WnU); audio
+  «One punch man - Sad theme» en [Internet Archive](https://archive.org/details/OnePunchMan_))
+  ⚠️ no se pudo cruzar con el episodio ni con el álbum oficial.
+- **Garou contra Bang** (T2): tema propio de artes marciales
+  ([Internet Archive](https://archive.org/details/onepunchmanseason2ostmartialartsgarouvsbangthemeoriginal)) ⚠️ sin oír.
+
+### 11.5 Efectos de sonido y onomatopeyas
+
+- **El silencio después del golpe.** La música y el ruido se cortan un
+  instante tras cada golpe de Saitama, antes de que hable el otro. Muy
+  claro tras el Golpe Serio ([6:12-6:19](https://www.dailymotion.com/video/x9b8564?start=372)) ⚠️ oído por el investigador de vídeo.
+- **Un zumbido grave que sube** antes de cualquier ataque especial (Boros
+  cargando, Genos cargando el brazo: [2:20-2:23](https://www.dailymotion.com/video/x8raxsq?start=140), antes de «Incinerate!») ⚠️ ídem.
+- **El «King Engine»**: el tamborileo del corazón de King, que todos toman
+  por su poder (§7.2) ✅.
+- **Onomatopeyas del manga** (VIZ): «BAM», «WHOOSH», «INCINERATE!!!» en
+  vertical; en japonés, dibujadas enormes (§6.4). El chiste de la serie
+  es **un solo golpe**: la onomatopeya del puñetazo va sola, grande.
+
+## 12 · Vídeos y tendencias
+
+| Vídeo | Qué sirve, con minuto | Estado |
+|---|---|---|
+| [Opening T1](https://www.dailymotion.com/video/x7xerpa) (moviepilot, 1:29) | logo cromado 0:12 y rojo 0:14-0:16; acantilados 0:22; créditos de música 0:53 y 1:12 | ✅ visto |
+| [Saitama vs. Boros](https://www.dailymotion.com/video/x9b8564) (aniBattle, 6:32) | forma de Boros 1:36; fuego 2:09; Luna 4:02-4:16; Golpe Serio 6:11-6:24 | ✅ visto (copia con filtro de color) |
+| [Saitama vs. Genos](https://www.dailymotion.com/video/x8raxsq) (T1-05, 4:06, sub. inglés) | registro de héroes 0:00; cañón 0:59; «Okay, I win.» 2:33; reglas 2:51; udon 3:30 | ✅ visto |
+| [Tráiler T3](https://www.dailymotion.com/video/x8tl06u) (Vidaextra, 1:54, 76.923 vistas) | Garou 0:21-0:52; ojo de Saitama 1:15; «VS» 1:34; créditos 1:50 | ✅ visto |
+| [Mumen Rider bajo la lluvia](https://www.dailymotion.com/video/x8rl50h) (T1-09) | bici 3:00; se presenta 3:08; «I'm weak» 4:00; público 4:32; Saitama 5:12 y 6:00 | ✅ visto |
+| [PV2 1080p](https://archive.org/details/turner_video_135772) (Internet Archive, Turner) | «Take me as your disciple» 0:42; el súper 0:37; Mumen 1:07 | ✅ visto |
+| [PV3](https://www.youtube.com/watch?v=RzmFKUDOUgw&t=44) (TOHO) / [copia](https://www.dailymotion.com/video/x37ftv3) | **fichas de héroe** 0:44-1:45; cierre 2:00 | ✅ visto en copia |
+| [Tráiler T3 de VIZ](https://www.youtube.com/watch?v=oh7bd-CDY6U) / [copia](https://www.dailymotion.com/video/x9fpiio) | fichas «CAPED BALDY / CLASS B RANK 7» 0:02-0:24 | ✅ visto en copia, ±2 s |
+| [Recopilación latina](https://www.dailymotion.com/video/x6t9n9l) | «héroe por diversión» 0:34; «aburrido» 0:40; «OK» 2:38 | ⚠️ no oficial |
+
+**Tendencias**
+
+- **TikTok**: los *edits* van con **phonk lento de bajo pesado**: Garou con
+  phonk antiguo y **Saitama caminando entre escombros** con «MTG Prism»
+  ([One Punch Man Edits](https://www.tiktok.com/discover/one-punch-man-edits),
+  [Phonk Edit](https://www.tiktok.com/discover/one-punch-man-phonk-edit)).
+  ⚠️ Páginas de descubrimiento: no se pudo abrir un vídeo concreto ni
+  contar vistas.
+- **YouTube**: vídeos del **tema triste de Mumen Rider** y tutoriales de
+  piano del mismo tema. ⚠️ Sin minuto: YouTube bloqueado.
+- **Reddit**: el hilo «Season 2 Best Detailed Drawing Scene» (1.851 votos)
+  y «The animation quality of the Boros vs Saitama scene» (269 votos)
+  ([r/OnePunchMan](https://www.reddit.com/r/OnePunchMan/comments/1lmg5kn/the_animation_quality_of_the_boros_vs_saitama/)) ✅.
+- ⚠️ **No encontré** un videoensayo serio sobre la animación con minuto
+  comprobado: todos están en YouTube.
 
 ## 13 · Videojuegos de la franquicia
 
-(pendiente)
+> [!tip] En una línea
+> Cada juego tiene su piel: la consola usa **rojo y negro serio de la
+> Asociación**; el gacha móvil, **paneles azules «tech»**; el de mundo
+> abierto, **paneles rojos de esquinas redondeadas**.
+
+### 13.1 *A Hero Nobody Knows* (PS4, Xbox One, PC; Spike Chunsoft, 27-feb-2020) ✅
+
+Capturas oficiales de [Steam](https://store.steampowered.com/app/991560)
+(1920×1080), miradas y medidas con `estilo.py`. En Steam trae **textos en
+español de Hispanoamérica**.
+
+| Pantalla | Qué se ve | Captura |
+|---|---|---|
+| **Creación de héroe** | cinta roja diagonal con «**HERO Creation**» en blanco; pestañas *Base / Face / Height-Physique / Costume / Accessories / Colors* en gris casi negro `#1C1D22`; **sello circular de la Asociación** de marca de agua; «R1» en rojo; paleta de 90 tonos | [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_bedeee9ab3a00853f8e36fff0fefd4d6b9d7ae60.1920x1080.jpg) |
+| **Especial de Saitama** | kanji gigantes **「正義執行」** («ejecución de la justicia») en pincel negro; guante rojo a cámara; hierba a mediodía (`#93BB7F`, capa `#F2F2EC`, traje `#282A25`) | [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_4bcbd2c7b89cf384c5555074589f4d7cd62675d6.1920x1080.jpg) |
+| **Genos contra Sonic** | diagonal, estelas de movimiento, disparo amarillo con brillo (`#191C20` `#ECD647` `#2D689E`) | [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_cf3ebae34168af88903eb16bc254cdfdb1007dc7.1920x1080.jpg) |
+| **HUD de combate** (Saitama vs. Rey del Mar) | retratos redondos con aro **azul** (J1) y **rojo** (J2); vida rosa-roja y amarilla; «**1 HIT 99999 FIRST ATTACK**» en pincel amarillo con un infinito; botones de PlayStation | [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_235431b3ba4455e512a4a82821af052773c38f71.1920x1080.jpg) |
+
+- Menús con **pestañas rojas inclinadas** (`#E23137`, `#CE000C`) y una
+  **mano roja que señala** (§6.1).
+- Estilo medido: degradado suave sobre contorno negro (saturación 26-44%):
+  **no es cel plano puro**, es *toon shader* con luz realista.
+- DLC con Garou, Suiryu y Watchdog Man ([Steam](https://store.steampowered.com/app/1176373)).
+- ⚠️ **Ninguna captura enseña una caja de diálogo** del modo historia.
+
+### 13.2 *One Punch Man: The Strongest* (móvil, gacha por turnos) ✅
+
+Capturas de Google Play (1052×592):
+- **Combate**: **panel azul «tech»** con esquinas redondeadas; números de
+  daño **enormes, blancos con borde rojo y contorno negro** («−12727»,
+  «Total DMG 33842»), palo seco condensada en cursiva
+  ([captura](https://play-lh.googleusercontent.com/H1f1CeF1ocNXmW8KKAl9iw0lJZsKlnrS74ecnR5Txptl_rmvKV5e43S4IpEdpsm3l0k3YzGjA9aJr1vMWIwjqQ=w1052-h592)).
+- **Alineación** («Line up»): retratos circulares con nombre y «SP»,
+  anillos de color por rol, estrellas de rareza
+  ([captura](https://play-lh.googleusercontent.com/XXZ6Z1lnP14caZDrmBAr5sR4RcmJSK3VYvwI1v8wx7L48S5cDaTWqrLpysnQkOrM4TSne7Gu93XR-foUIWpE=w1052-h592)).
+- Crédito fijo: «©ONE, Yusuke Murata/SHUEISHA, Hero Association HQ».
+- Las reseñas (Metacritic, LDPlayer) la llaman **recargada y poco
+  legible**: justo lo que **no** hay que copiar.
+
+### 13.3 *One-Punch Man: World* (mundo abierto; 1-feb-2024, **cerró el 27-feb-2026**) ✅
+
+- Sólo la T1, hasta el arco del Rey del Mar; Z-City y A-City explorables
+  ([wiki](https://onepunchman.fandom.com/wiki/One_Punch_Man:_World)).
+- **Combate de jefe**: **marco rojo de esquinas redondeadas**; arriba el
+  nombre («Beast King»), vida en degradado rojo y contador «x15»; abajo a
+  la derecha, botón redondo con la **cara chibi de Saitama**
+  ([captura](https://images.mobi.gg/uploads/2024/02/1746/one-punch-man-screenshot-2.webp)).
+- Cartel: rojo diagonal con **textura de grieta** y «IT'S YOUR TURN TO
+  BECOME A HERO FOR FUN» en blanco muy grueso con sombra roja
+  ([captura](https://images.mobi.gg/uploads/2024/02/1747/one-punch-man-screenshot-1.webp)).
+
+### 13.4 Otros
+
+- ***Road to Hero* / *2.0*** (móvil, OASGames): juego de cartas. ⚠️ No
+  encontré capturas de su interfaz.
+- **PUBG Mobile × One Punch Man** (sep-oct 2026): cartel «**ONE PUNCH TO
+  WIN**» en blanco, palo seco condensada e inclinada; Saitama sentado en
+  escombros con una lata. Trajes: «Ordinary Hero Set» (Saitama), Genos,
+  Terrible Tornado, Hellish Blizzard, Watchdog Man, Garou; armas
+  «One-Punch Kar98K» y **«Grocery Bag Machete»** ([cartel](https://i0.wp.com/gamingonphone.com/wp-content/uploads/2026/09/EN-scaled.jpg),
+  [ANN](https://www.animenewsnetwork.com/press-release/2026-09-21/pubg-mobile-collaborates-with-one-punch-man-to-bring-world-strongest-heroes-to-game/.242058),
+  [Inven Global](https://www.invenglobal.com/articles/26315/pubg-mobile-announces-collaboration-with-one-punch-man)) ✅.
+- **The Cutting Room Floor**: 0 resultados para cualquier juego de One
+  Punch Man ([búsqueda del sitio](https://tcrf.net/index.php?search=One+Punch+Man&fulltext=1)). **No lo encontré**.
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
-(pendiente)
+### 14.1 Lo que todo fan reconoce ✅
+
+- **«OK»**: Boros explica que su armadura sellaba su poder y Saitama sólo
+  dice «OK» (manga cap. 34; T1-12). El meme de la serie
+  ([Know Your Meme](https://knowyourmeme.com/memes/saitama-ok)).
+- **«¿Y esta niña perdida tan insolente?»** a Tatsumaki (T1-10)
+  ([Know Your Meme](https://knowyourmeme.com/memes/whats-with-this-sassy-lost-child)).
+- **El súper y el día de oferta**: mata a un villano porque llega tarde a
+  la oferta (T1-03). La exposición oficial de 2026 vendió **entradas «día
+  de oferta»** con 200 ¥ menos.
+- **La cara simple** de Saitama (óvalo, dos puntos) junto a la cara seria
+  muy dibujada, en la misma viñeta.
+- **King, el farsante querido**, y su «King Engine».
+- **Genos acaba en pedazos** en cada pelea mientras Saitama gana de un
+  golpe ([hilo de Reddit, 800 votos](https://www.reddit.com/r/OnePunchMan/comments/tgyozl/why_is_genos_always_given_some_of_the_strongest/)).
+- **Mumen Rider**, meme **con respeto**: «el más débil», siempre con
+  admiración porque nunca huye.
+- **Saitama repartiendo plátanos** ([92 votos](https://www.reddit.com/r/OnePunchMan/comments/d1qbts/i_love_the_scene_where_saitama_is_giving_everyone/)).
+- **Cruces con Mob Psycho 100** (mismo autor): el cameo de Tatsumaki
+  (cap. 8 de Mob) y, en latino, **actores que repiten** (Manuel Campuzano,
+  Carlos Siller, Rick Loera).
+- **«Caped Baldy»** (ハゲマント), «**Class S**», «**Nivel de Desastre**»:
+  vocabulario que se usa como meme (§26).
+
+### 14.2 Qué NO hacer (lo que a un fan le parecería falso)
+
+- **Saitama sonriendo como héroe de acción** o haciendo muecas de
+  esfuerzo: su gracia es la **cara inexpresiva**. Nunca necesita
+  esforzarse.
+- **Genos gracioso a propósito**: es serio; el humor es que **él no lo
+  sabe**.
+- **Tatsumaki dibujada como una niña**: tiene **28 años** y odia que la
+  llamen niña. Y **nada de fan service** con ella ni con Fubuki (abunda en
+  Pixiv y Wallhaven; §17 descarta dos fondos por eso).
+- **Mumen Rider como chiste sin dignidad**: se le quiere porque no se
+  rinde.
+- **Nombres cruzados**: en latino es «**Tornado**», «**Ventisca**» y
+  «**Ciclista sin Licencia**», y Genos dice «**sensei**».
+- **Logo amarillo**: el logo es **rojo** (o cromado); el amarillo es del
+  traje.
+- **Traje repintado** de otros colores: es un chiste de fans (§4.3).
+- **Fotogramas feos de la T3**: la animación de la T3 fue muy criticada
+  (§19.2). Usar visuales oficiales, no capturas sueltas de la T3.
+- **Sólo comedia o sólo épica**: la serie es las dos cosas a la vez.
+- **Textos largos en boca de Saitama**: «20 palabras o menos».
 
 ## 15 · Poses analizadas por personaje
 
-(pendiente)
+Salen de los clips vistos fotograma a fotograma, de las hojas de `hojas/`
+y del arte oficial de la wiki. Nada de memoria.
 
-## 16 · Vestuario
+### 15.1 Saitama
 
-(pendiente)
+| # | Pose | Postura, manos, mirada | Dónde | Sirve para |
+|---|---|---|---|---|
+| 1 | De pie, quieto, **capa al viento**, ante el cañón | relajado, brazos caídos, mira al frente | [T1-05, 0:59](https://www.dailymotion.com/video/x8raxsq?start=59) ✅ | **presentar** |
+| 2 | **Brazos cruzados**, cara seria, escucha las reglas de Genos | «te escucho, pero no me impresionas» | [T1-05, 2:51-3:05](https://www.dailymotion.com/video/x8raxsq?start=171) ✅ | **explicar** o **regañar** |
+| 3 | Patea a Genos en el aire, cuerpo en diagonal | pierna estirada, **cara sin esfuerzo** | [T1-05, 3:25](https://www.dailymotion.com/video/x8raxsq?start=205) ✅ | presumir sin querer |
+| 4 | Camina junto a Genos, de perfil, **mano en la cadera** | flojo, lo mira de reojo: «¡a comer!» | [T1-05, 3:33](https://www.dailymotion.com/video/x8raxsq?start=213) ✅ | **animar** o charlar |
+| 5 | **Sale volando sin inmutarse** por el cañón de Genos | brazos y piernas sueltos, capa ondeando | [wiki 1080p](https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png) ✅ | **pensar** o «no me afecta» |
+| 6 | Sentado en un cráter **en la Luna**; luego agachado para saltar | piernas flexionadas, un brazo atrás | [T1-12, 4:07-4:12](https://www.dailymotion.com/video/x9b8564?start=247) ✅ | **pensar** («¿cómo vuelvo?») |
+| 7 | **Pose en cruz** a contraluz antes del Golpe Serio | brazos y piernas abiertos, silueta | [T1-12, 6:11](https://www.dailymotion.com/video/x9b8564?start=371) ✅ | el golpe final |
+| 8 | Tras ganar, **le toca la mejilla** a Genos | cara neutra: «Okay, I win.» | [T1-05, 2:33](https://www.dailymotion.com/video/x8raxsq?start=153) ✅ | **celebrar** sin alardear |
+| 9 | Puño enguantado al pecho, cara simple | visual T3, fondo rojo | `personajes_01.jpg` #1 ✅ | **presentar** tranquilo |
+| 10 | **Tumbado en pijama** viendo la tele | entre bolsas y tazas | `escenas_01.jpg` #8 ✅ | #en-directo (§27 A) |
+| 11 | Agachado junto a Mumen: «You did well. Nice fight.» | cara ladeada | [T1-09, 5:12](https://www.dailymotion.com/video/x8rl50h?t=312) ✅ | **felicitar** |
+
+### 15.2 Genos
+
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | **Brazo hecho cañón**, cargando, chispas naranjas en las juntas; se echa atrás | [T1-05, 2:23](https://www.dailymotion.com/video/x8raxsq?start=143) ✅ | el ataque |
+| 2 | De perfil, mirada fija, antes de «Incinerate!» | [2:20](https://www.dailymotion.com/video/x8raxsq?start=140) ✅ | **animar** o concentrarse |
+| 3 | Mira a Saitama de reojo, ceño fruncido, brazos a los lados | [3:03-3:08](https://www.dailymotion.com/video/x8raxsq?start=183) ✅ | **pensar**, admirar |
+| 4 | **Brazos mecánicos cruzados** (visual T3) | `personajes_01.jpg` #7 ✅ | presentar serio |
+| 5 | **Con delantal**, cocinando | `escenas_01.jpg` #9 ✅ | la vida en casa |
+| 6 | **Escribe su diario** con dibujos | `escenas_01.jpg` #25 ✅ | **explicar**, apuntar |
+
+### 15.3 Tatsumaki
+
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | **Brazos cruzados**, ceño, sobre escombros | [wiki](https://static.wikia.nocookie.net/onepunchman/images/6/62/Tatsumaki_Anime_Profile_Shot.png) ✅ | **regañar** |
+| 2 | **Señala a cámara** con un dedo, ceja arriba | [wiki 1080p](https://static.wikia.nocookie.net/onepunchman/images/b/b6/Tatsumaki_tells_Saitama_to_leave.png) ✅ | **regañar**, mandar |
+| 3 | Flota con los **brazos en alto**, ropa desgarrándose | [wiki](https://static.wikia.nocookie.net/onepunchman/images/e/e3/Tatsumaki_lifts_Monster_Association_base_out_of_ground.png) ✅ | el máximo esfuerzo |
+| 4 | **Mano abierta** hacia delante, «TERRIBLE TORNADO» | `personajes_01.jpg` #10 ✅ | **mandar**, presentar |
+| 5 | Flota entre escombros con aura verde (tomo 10) | `personajes_01.jpg` #14 ✅ | poder |
+
+### 15.4 Mumen Rider
+
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | **Lanza la bicicleta** y se planta | [T1-09, 3:00](https://www.dailymotion.com/video/x8rl50h?t=180) ✅ | decidirse |
+| 2 | **Guardia de boxeo** bajo la lluvia: «The righteous cyclist…» | [3:08](https://www.dailymotion.com/video/x8rl50h?t=188) ✅ | **presentar** |
+| 3 | Empapado, recto pese al miedo: «I'm weak…» | [4:00-4:12](https://www.dailymotion.com/video/x8rl50h?t=240) ✅ | **animar(se)** |
+| 4 | Cae y **Saitama lo atrapa** en el aire | [5:12](https://www.dailymotion.com/video/x8rl50h?t=312) ✅ | rescate, gracias |
+| 5 | **Puño al pecho**, fondo verde | PV2 1:07, `escenas_01.jpg` #3 ✅ | **presentar** |
+| 6 | Puños cerrados («¡aquí estoy!») | `personajes_01.jpg` #16 ✅ | **animar**, **celebrar** |
+
+### 15.5 Qué pose para qué
+
+| Para… | Pose |
+|---|---|
+| **Presentar** | Saitama #1 o #9; Mumen #2 o #5; Tatsumaki #4 |
+| **Explicar** | Saitama #2 (brazos cruzados); Genos #6 (el diario) |
+| **Celebrar** | Saitama #8 (sin alardear); Mumen #6 |
+| **Regañar** | Tatsumaki #1 o #2 |
+| **Pensar** | Saitama #5 o #6; Genos #3 |
+| **Animar** | Mumen #3; Saitama #11 («Nice fight») |
+
+**Boros** (de paso): forma verdadera, brazos arriba, boca abierta con
+dientes, ojo brillando ([1:36-2:11](https://www.dailymotion.com/video/x9b8564?start=96)) ✅: discurso de villano.
+
+## 16 · Vestuario, con hex medidos
+
+Medido con `estilo.py` sobre **hojas de modelo y visuales oficiales**.
+Cuando el fondo del visual tiñe el blanco, se dice.
+
+| Personaje | Ropa icónica | Hex medidos | De dónde |
+|---|---|---|---|
+| **Saitama** | **mono amarillo**, **capa blanca**, **guantes y botas rojos**, cinturón negro; calvo | amarillo `#F7C561`; rojo del cartel `#E70013`; guante en sombra `#BB3F29`, brillo `#BA030B`, sombra `#661E16`; piel `#EECFBC`; cuello y capa con rebote rojo `#80725C` | [visual T3](https://static.wikia.nocookie.net/onepunchman/images/9/90/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Saitama.png) ✅. ⚠️ La capa es **blanca**: el visual la tiñe de rojo; el blanco, de la hoja de modelo T1 (`personajes_01.jpg` #3) |
+| **Genos** | cíborg: **escleras negras, iris amarillos, pelo rubio**; brazos de metal; camiseta sin mangas | fondo clase S `#0D6FB4`; metal oscuro `#1B1C1D`, gris `#81837E`, brillo `#AFB0A8`; sombra de ropa `#483C3E`; piel y pelo `#F1EADA` | [visual T3](https://static.wikia.nocookie.net/onepunchman/images/b/b7/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Genos.png) ✅ |
+| **Tatsumaki** | **vestido negro** largo abierto en **cuatro partes** sobre la cadera; zapatos negros; **pelo verde** rizado en las puntas | fondo `#28A270`; vestido `#191B1C`; pelo `#537C64`, `#2B5C44`, brillo `#84D7AA`; piel `#FDF3EE`, sombra `#C1A59B` | [visual T3](https://static.wikia.nocookie.net/onepunchman/images/8/83/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Tatsumaki.png) ✅ |
+| **Mumen Rider** | **casco verde** con **gafas oscuras**, **armadura marrón**, traje negro, guantes | casco `#597356`; armadura `#664C37` y luz `#9D8062`; traje `#141210`; correa `#2F3228`; piel `#DCC1AE` | [hoja de modelo del anime](https://static.wikia.nocookie.net/onepunchman/images/0/06/License-less_Rider_anime_design.png), **sin luz de color**: la más fiable ✅ |
+
+**Otros trajes y ropa** (vistos en las hojas):
+
+- **Saitama en casa**: camiseta amarilla, bermudas, chanclas
+  (`personajes_01.jpg` #5); **pijama** (`escenas_01.jpg` #8); la
+  **sudadera «OPPAI»** (`escenas_01.jpg` #9); la **peluca** del torneo (T2).
+- **Genos de calle**: **chaleco vaquero** (`personajes_01.jpg` #9); en casa,
+  **delantal**.
+- **Fubuki**: **abrigo de piel blanco** y **perlas** (§21). El **Grupo
+  Fubuki** va con **traje de oficina negro y camisa blanca** (§26).
+- **King**: jersey de cuello alto; **tres cicatrices** en el lado izquierdo
+  de la cara; pelo rubio peinado hacia atrás (AniList).
+- **Garou**: **banda amarilla** en la cintura (§21).
+- **Sonic**: **bufanda morada** larga.
+
+**Los colores de rango** (fondos de los visuales T3): rojo `#E70013`
+(Saitama), azul `#0D6FB4` (Genos) y verde `#28A270` (Tatsumaki). Sirven
+para codificar fichas.
 
 ## 17 · Paisajes y fondos de pantalla
 
-(pendiente)
+### 17.1 Los sitios con su luz
 
-## 18 · Guía para generar con IA (imagen y texto)
+Tabla completa en §5.1. Lo esencial:
+- **Z-City** de día nublado (`#7895A5`), gris-azul en el anime.
+- **El apartamento** de día y de noche (`escenas_01.jpg` #6-7) y **Ciudad
+  Z desde arriba** (#30).
+- **La sede de la Asociación**, ciudad-fortaleza (#29).
+- **La Luna** y **la Tierra desde el espacio** (T1-12).
+- **El atardecer rojo-rosa** de la T3.
 
-(pendiente)
+### 17.2 Fondos de pantalla
 
-## 19 · Estilo de dibujo y técnica, y cómo replicarlo
+| Qué | Tamaño | Enlace | Nota |
+|---|---|---|---|
+| **Tatsumaki**, fondo cian y verde (fans) | 3839×2160 | [Wallhaven](https://w.wallhaven.cc/full/4y/wallhaven-4yyxwx.jpg) | ✅ apto; origen: [r/anime](https://www.reddit.com/r/anime/comments/3xtek3/fanartoc_tatsumaki_one_puuunch/) |
+| **Saitama**, fondo violeta (fans) | 1920×1080 | [Wallhaven](https://w.wallhaven.cc/full/5d/wallhaven-5dd255.jpg) | ✅ apto; sin origen |
+| **Visual del 10.º aniversario** (oficial) | 1400×1983 | [web oficial](https://onepunchman-anime.net/10th/img/visual/visual_01.jpg) | lo más parecido a un fondo oficial |
+| **Banner de AniList** (oficial) | — | [AniList](https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg) | horizontal |
+| **Saitama y una moto**, de WLOP | 4000×2566 | [Wallhaven](https://w.wallhaven.cc/full/yj/wallhaven-yjd23d.jpg) | ⚠️ protagoniza una mujer; Saitama al fondo |
 
-(pendiente)
+- ⚠️ **No usar**: `wallhaven-v9pqom` (Genos y Sonic) y `wallhaven-6dm36l`
+  (Fubuki): etiquetados como fan service.
+- ⚠️ **No encontré** una página oficial de fondos para descargar
+  (búsquedas «ワンパンマン 壁紙 公式» y «one punch man official wallpaper
+  download»).
+
+## 18 · Guía para generar con IA: imagen y texto
+
+> [!important] Para qué es
+> Para pedir a una IA de imagen (Firefly, Canva) **poses, fondos u
+> objetos** coherentes con la serie, y a una IA de texto **diálogos en su
+> voz**. La IA **no sustituye** al arte oficial: lo que salga se usa de
+> apoyo (un fondo, una pose), se integra con `v3/integrar.py` y se revisa
+> a 1:1 (reglas del dueño).
+
+### 18.1 IA de imagen
+
+**El chiste visual que no se puede perder.** Un **Saitama simplísimo**
+(cara de óvalo, dos puntos, boca raya) dentro de un **mundo muy
+detallado**. Si la IA lo dibuja todo igual de simple o todo igual de
+detallado, se pierde la serie.
+
+**Rasgos que nunca cambian**
+
+| Personaje | Siempre | Nunca |
+|---|---|---|
+| **Saitama** | **calvo**; ojos entornados; mono **amarillo** `#F7C561`, capa **blanca**, guantes y botas **rojos**, cinturón negro | pelo; sonrisa de héroe; músculos marcados en reposo; capa roja |
+| **Genos** | **escleras negras e iris amarillos**; pelo rubio corto; brazos de **metal** gris oscuro `#1B1C1D` con juntas | ojos normales; piel en los brazos; cara de broma |
+| **Tatsumaki** | pelo **verde** `#537C64` rizado en las puntas; ojos verdes; **vestido negro** `#191B1C` largo, abierto en cuatro sobre la cadera; bajita | aspecto de niña; ropa corta; fan service |
+| **Mumen Rider** | **casco verde** `#597356` de bici con **gafas oscuras**; **armadura marrón** `#664C37`; traje negro; guantes; su **bicicleta** | capa; poderes; cara de burla |
+
+**Paleta de la serie**: rojo del logo `#D20A31` (web: `#EF3033` → `#B12325`);
+amarillo de ficha `#FFF457`; fondo de ficha `#0B0C0D`; gris de rótulo
+`#636665`; Z-City `#888C98` / `#5F6881`; noche de Boros `#100305` +
+`#DB1515`; atardecer T3 `#2C0A15` + `#E5A8BA`.
+
+**Línea y sombreado**
+
+- **Anime T1** (Madhouse): **contorno negro** de grosor variable y
+  **sombra plana de 2-3 tonos** (cel). Detalle en los **pliegues del
+  guante** y la **suela de las botas** (lo pidió el director, §19.2).
+- **Manga** (Murata): tinta **muy contrastada**, anatomía semirrealista,
+  degradados digitales suaves y grises planos (§20).
+- **Golpes**: **fotograma de impacto**: blanco, negro y rojo casi solos,
+  líneas de velocidad radiales.
+
+**Luz**: día nublado para la ciudad; tele o lámpara para el apartamento;
+contraluz para la amenaza; blanco total para el golpe (§5.1).
+
+**Encuadre**: plano fijo y centrado con fondo vacío para el chiste;
+**contrapicado** a ras de suelo para el monstruo; diagonal con estelas
+para la pelea (§19.5).
+
+**Palabras que ayudan** (en inglés, que es como las entienden mejor):
+`One Punch Man anime style, Madhouse 2015, cel shading, thick black
+outline, flat colors, bald man, deadpan expression, simple dot eyes,
+yellow jumpsuit, white cape, red gloves, red boots, black belt` ·
+`cyborg, black sclera, yellow irises, blonde hair, mechanical arms` ·
+`petite woman, curly green hair, black long dress with side slits,
+telekinesis, floating, green aura` · `green bicycle helmet, dark goggles,
+brown armor, black bodysuit, bicycle, rain`. Etiquetas de Danbooru que
+más se repiten (§29): *bald, cape, white_cape, red_gloves,
+yellow_bodysuit, superhero_costume* · *black_sclera, yellow_eyes,
+mechanical_arms* · *green_hair, curly_hair, black_dress, side_slit,
+floating, telekinesis* · *helmet, goggles, armor, bicycle_helmet, rain*.
+
+**Palabras que lo estropean**: `muscular, heroic smile, epic pose` (para
+Saitama en reposo); `chibi` si no es a propósito; `child, loli, cute
+girl` (Tatsumaki); `sexy, fan service`; `green hair` o `green eyes` para
+Saitama (sale en Danbooru por mezcla con Deku: **ruido**); `hair`;
+`red cape`; `yellow logo`; `bubble speech` (la serie no usa burbuja
+genérica).
+
+**Imágenes para dar de referencia**
+
+| Para… | Usa |
+|---|---|
+| Estilo del anime | `personajes_01.jpg` #3 y #4 (hojas de modelo T1); [fotograma 1080p](https://static.wikia.nocookie.net/onepunchman/images/6/68/Genos_vs_Saitama_spar.png) |
+| Estilo del manga | `personajes_01.jpg` #6 y #28 (Murata a color) |
+| Pose de Saitama | §15.1 #1, #2, #9 |
+| Pose de Tatsumaki | §15.3 #2 y #4 |
+| Pose de Mumen | §15.4 #2 y #5 |
+| Fondo | `escenas_01.jpg` #6-7 (apartamento), #30 (Ciudad Z) |
+| Objeto | `pantalla_01.jpg` #12 (aviso «C»), #13 (volante), #23 (llave de jirafa) |
+
+**Ejemplo** (fondo para §27 A): «Interior of a small cheap Japanese
+apartment at night, low table, old CRT TV on a wooden stand glowing,
+convenience store bags on the floor, anime background art, Madhouse
+2015 style, flat cel shading, black outlines, muted blue-grey palette,
+warm TV light, no people». Luego se pone a Saitama **recortado de arte
+oficial**, no generado.
+
+### 18.2 IA de texto: cómo escribir sus diálogos
+
+**Reglas de voz**
+
+| Personaje | Cómo habla | Puntuación y gritos |
+|---|---|---|
+| **Saitama** | **frases cortas**, planas, de a pie; «20 palabras o menos»; una palabra si basta («OK») | casi sin exclamaciones; **sólo grita por la oferta del súper** |
+| **Genos** | formal y largo, **como un informe**; reglas numeradas; «**sensei**» | exclamación sólo en el ataque («Incinerate!» en el subtítulo inglés, T1-05 2:20) |
+| **Tatsumaki** | brusca, **insulta** («idiotas»), interrumpe, manda | preguntas retóricas y exclamaciones seguidas |
+| **Mumen Rider** | sincero, humilde, se presenta en voz alta | «¡Gracias!!» con doble cierre; se da ánimos solo |
+| **King** | calmado y serio… mientras tiembla | pocas palabras; su «voz» es el «King Engine» |
+| **Sonic** | burlón, rápido, reta | insultos cortos: «¡Gusano insolente!» |
+
+**Cómo exagera las emociones la serie**: no con palabras, **con el
+contraste**. Un monstruo gigante suelta un discurso largo y Saitama
+contesta «OK». Genos da un informe de diez puntos y Saitama dice
+«vamos por udon».
+
+**Frases reales, por emoción** (se dice de dónde sale cada una):
+
+| Emoción | Frase real | Quién y fuente |
+|---|---|---|
+| **Alegre** | «¡A comer! Vamos por udon.» (飯だ飯。うどん食いに行こうぜ) | Saitama, T1-05, 3:00 (japonés, traducción nuestra) |
+| **Alegre** | «¡Vamos, no me veas de esa forma! Vine hasta acá sólo para verte.» | Amai Mask, doblaje latino (§10.3) |
+| **Enfadado** | «Son unos idiotas.» | Tatsumaki, doblaje latino |
+| **Enfadado** | «¡Gusano insolente!» | Sonic, doblaje latino |
+| **Enfadado** | «Si de verdad eres un héroe, entonces no asustes a las personas.» | Tanktop Tiger, doblaje latino |
+| **Explicando** | «Le pedí al doctor que modificara mi cuerpo con cirugía para hacerme mejor, más fuerte, más rápido.» | Genos, doblaje latino |
+| **Explicando** | «Un héroe profesional siempre debe ser un hermoso símbolo de la justicia.» | Amai Mask, doblaje latino |
+| **Explicando** | «Felicitaciones por aprobar. […] sus caras aparecerán en la página de la Asociación de Héroes.» | Sneck, doblaje latino |
+| **Animando** | «I'm weak. I know that much. And yet, I have to try.» | Mumen Rider, T1-09, 4:00 (subtítulo inglés) |
+| **Animando** | «Mumen Rider, you can do it!» | el público, T1-09, 4:32 (subtítulo inglés) |
+| **Animando** | «You did well. Nice fight.» | Saitama, T1-09, 5:12 (subtítulo inglés) |
+| **Animando** | «If the heroes run away, who will fight?» | Saitama, cita de su ficha en la wiki |
+| **Triste** | «Mientras los días pasan, mis emociones desaparecen. Miedo, tensión, alegría, enojo. Ya no lo siento.» | Saitama, doblaje latino |
+| **Triste** | «Milagrosamente sobreviví, pero siendo un adolescente débil me encontraba solo y sin fuerzas.» | Genos, doblaje latino |
+
+**Vocabulario del mundo** para que suene a la serie: *Asociación de
+Héroes*, *clase S / A / B / C*, *rango*, *Nivel de Desastre* (Lobo, Tigre,
+Demonio, Dragón, Dios), *monstruo* o *kaijin*, *Ciudad Z*, *Golpe Serio*,
+*sensei*, *día de oferta* (§26).
+
+**Ejemplo** (Saitama para #en-directo, en su voz): «¿Estás haciendo algo?
+Dilo aquí. Yo miro.» (8 palabras, sin exclamaciones.)
+
+### 18.3 Vocabulario de expresiones (para que la IA de imagen entienda el gesto)
+
+| En la serie | Qué es | Dónde verlo |
+|---|---|---|
+| **Cara simple** | óvalo, **dos puntos** de ojos, boca en raya: aburrimiento o «OK» | `personajes_01.jpg` #2, #4; `pantalla_01.jpg` #20 |
+| **Cara seria** | la misma cara, **muy sombreada** y detallada | `personajes_01.jpg` #2 |
+| **Gotas de sudor** | nervios cómicos | [Saitama al saber que pueden echarlo](https://static.wikia.nocookie.net/onepunchman/images/f/fe/Saitama_finding_out_he_might_soon_be_fired.png) |
+| **Ojos como platos, boca enorme** | pánico | [King asustado](https://static.wikia.nocookie.net/onepunchman/images/3/37/King_scared.jpg) |
+| **Aura detrás** | rabia (fuego en Genos) o poder (verde en Tatsumaki) | [Genos](https://static.wikia.nocookie.net/onepunchman/images/c/ca/WC_Genos_rage.png); `personajes_01.jpg` #14 |
+| **Lágrimas grandes** | llanto de verdad (raro) | [Tatsumaki, cap. 137](https://static.wikia.nocookie.net/onepunchman/images/4/46/Tatsumaki_telling_Blast_that_she_was_sold_by_her_parents_while_crying_-_C137.png) |
+| **Fondo de estallido radial** | momento de impacto | cortinilla del ep. 12, `pantalla_01.jpg` #11 |
+| **Silueta negra sobre blanco** con un solo detalle de color | presentación (cortinilla) | `pantalla_01.jpg` #7-10 |
+| **Chibi** | cara pequeña y redonda de Saitama en botones y figuras | botón de *OPM: World* (§13.3); Nendoroid (§24) |
+| **Fotograma de impacto** | blanco, negro y rojo, líneas radiales | Golpe Serio, [6:11](https://www.dailymotion.com/video/x9b8564?start=371) |
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+> [!tip] En una línea
+> **Saitama simplísimo** dibujado con muchísimo cuidado, contra un **mundo
+> hiperdetallado**. En Blender: **cel de 2-3 bandas + contorno negro
+> variable** (Freestyle o Line Art). En Photoshop: **tinta dura y sombra
+> plana**.
+
+### 19.1 Las dos capas de dibujo del manga ✅
+
+- **ONE** (webcómic): trazo **tosco y rápido a propósito**, casi sin
+  sombra ([CBR](https://www.cbr.com/one-punch-man-webcomic-manga-artist-storyteller-success/),
+  [ComicBook.com](https://comicbook.com/anime/news/one-punch-man-yusuke-murata-art-realistic/)).
+- **Yusuke Murata** (manga desde 2012): anatomía semirrealista, **tinta muy
+  contrastada**, detalle obsesivo (practica pintando bolas de cristal).
+- **Cómo dibuja Murata de verdad** (fuentes en japonés, corrigen a las
+  inglesas): **entinta a mano, en papel**; lo digital (fondos, color) lo
+  hacen sus ayudantes.
+  - [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13217622713):
+    «基本的にペン入れまではアナログでしたね» («hasta el entintado, es
+    analógico»).
+  - [Logmi Business](https://logmi.jp/knowledge_culture/culture/325988),
+    charla con Jouji Morikawa: estudió cine de acción (Jackie Chan,
+    Spielberg) para que el papel «parezca que se mueve»; **todavía corrige
+    el contorno de la cara de Saitama** tras casi 10 años.
+  - Las fuentes en inglés decían que lo hacía todo en Clip Studio Paint ⚠️:
+    como mucho, en parte del proceso.
+
+### 19.2 El anime: quién y cómo ✅
+
+- **T1 (2015), Madhouse.** Director **Shingo Natsume**; personajes
+  **Chikashi Kubota**; logo **Takuya Igarashi**; dirección de arte
+  **Shigemi Ikeda** y **Yukiko Maruyama**; color **Satoshi Hashimoto**;
+  fotografía **Akane Fushihara** ([AniList](https://anilist.co/anime/21087/staff)).
+  Natsume y Kubota venían de ***Space Dandy***: le sirvió de referencia
+  **para el color y la imagen** ([entrevista, Yatta-Tachi](https://yattatachi.com/one-punch-man-interview)).
+- **Natsume, textual**: «As simplistic as Saitama is, he is a lot more
+  difficult to draw than what we would think. His facial expressions are
+  a difficult part... if you make a mistake, it is so obvious.» Quería que
+  se vieran **las arrugas del guante** al flexionar el brazo y **el dibujo
+  de la suela** de las botas.
+- **Kubota** (tuit del 26-oct-2015): el presupuesto de las series de TV es
+  parecido; lo que cambia es **el esfuerzo del equipo**.
+- Para las peleas llamaron a **animadores de acción** (*sakuga*) y
+  llenaron el estudio de **libros de referencia y figuras de músculos**.
+  Uno de ellos, **Yutaka Nakamura**, famoso por sus **fotogramas de
+  impacto** y manchas tipo *sumi-e* ([Wikipedia](https://en.wikipedia.org/wiki/Yutaka_Nakamura)).
+- **T2 (2019), J.C.Staff**: menos fluidez y **CGI mal integrado** (fondos
+  y piezas de Genos) ([ScreenRant](https://screenrant.com/one-punch-man-anime-season-3-studio-failure/),
+  [CBR](https://www.cbr.com/one-punch-man-season-3-worst-animation-ever/)).
+- **T3 (2025), J.C.Staff**: la crítica la llamó «la peor animación»; el
+  director **cerró sus redes** por el acoso ([Gulf News](https://gulfnews.com/entertainment/one-punch-man-director-deletes-social-media-amid-brutal-season-3-backlash-i-will-not-forgive-1.500318231),
+  [Yahoo](https://www.yahoo.com/entertainment/one-punch-man-announces-season-115744930.html)).
+  **Para la lámina: el estilo a imitar es el de la T1.**
+
+### 19.3 Cómo replicarlo en Photoshop
+
+- **Línea**: pincel redondo **duro, con grosor por presión** (fino en
+  curvas, grueso al cerrar), negro puro, capa «Línea» en Multiplicar.
+  Boceto a mano y **entintar en una pasada**, sin vectorizar: así no se
+  pierde el peso de la línea (lo que Murata dice que se escapa).
+- **Sombra**: **plana, de borde duro**, capa en Multiplicar al 60-70%,
+  tono **violeta-gris frío**. Degradado suave **sólo** en pelo y efectos de
+  energía (el brillo amarillo del disparo de Genos).
+- **Tramas**: `Filtro > Pixelizar > Semitono de color`, o un pack de tramas
+  libre (§20). ⚠️ Recomendación general.
+- **Golpe**: una capa de **fotograma de impacto**: umbral a blanco y negro,
+  rojo encima, líneas radiales.
+
+### 19.4 Cómo replicarlo en Blender
+
+- **Modelos y *rigs***: Saitama y Genos de **Godfrey (SteamySenpai)**,
+  hechos en Blender; Saitama de **MMKH** con esqueleto (§4.2). El
+  **apartamento** y el **mueble de la tele** (§4.1).
+- **Sombreado cel** (Eevee): **Shader to RGB → Color Ramp** en
+  **Constante**. Dos paradas = dos tonos; tres paradas = banda media (la
+  piel y el amarillo de Saitama, que llevan sombra a dos niveles).
+- **Contorno**, de más simple a más fiel:
+  1. **Solidify** con normales invertidas y *Backface Culling* (~0,01):
+     rápido, para objetos (la tele, el volante del súper).
+  2. **Freestyle**: grosor variable, **más parecido a la tinta de Murata**.
+  3. **Line Art** (Grease Pencil, Blender 2.93+): el más cercano a
+     entintar a mano; para primeros planos de cara.
+- **Luz y render**: **una luz clave dura** + relleno mínimo; sombras duras,
+  contraste alto; **Eevee** mejor que Cycles para el look plano.
+- **Texturas encima**: el emblema de la Asociación y el «正義執行» como
+  *decal*; papel y metal de §5.2.
+
+### 19.5 Encuadres y composición, por emoción
+
+| Emoción | Encuadre | Ejemplo |
+|---|---|---|
+| **Chiste, decepción** | plano medio o general, **quieto**, personaje centrado en **fondo vacío** | Saitama con el aviso «C» (`escenas_01.jpg` #12) |
+| **Amenaza** | **contrapicado extremo** a ras de suelo, contraluz que lo vuelve silueta | jefe de *OPM: World* (§13.3) |
+| **El golpe** | **fotograma de impacto**: una imagen plana de altísimo contraste con líneas radiales | Golpe Serio (6:11) |
+| **Pelea secundaria** | **diagonal**, estelas, cámara que sigue el proyectil | Genos contra Sonic (§13.1) |
+| **Emoción de verdad** | **lluvia**, tomas bajas que agrandan al monstruo y achican al héroe | Mumen Rider (T1-09) |
+| **Lo cósmico** | plano general enorme, **silencio** | la Tierra desde la Luna (4:07) |
+| **Presentación** | **banda inclinada** con viñeta de manga y dibujo de anime (ficha) | PV3 (§7.1 A) |
 
 ## 20 · Texturas 2D
 
-(pendiente)
+- **Trama del manga**: medida en una página a color del *databook*
+  (1920×1500) y en una página en blanco y negro
+  ([*Rocket Punch*](https://static.wikia.nocookie.net/onepunchman/images/9/92/Rocket_Punch_Manga.png),
+  1862×1787). `estilo.py` da en las dos «**sombreado mixto, mucha línea**»:
+  **degradados digitales suaves + grises planos**, no trama de puntos
+  clásica ✅.
+- **La ropa**: **colores planos, sin estampado** (mono amarillo, vestido
+  negro, armadura marrón), mirado en los cuatro visuales T3 ✅. La
+  excepción: la **sudadera «OPPAI»** de Saitama en casa (`escenas_01.jpg`
+  #9). ⚠️ No hay imagen limpia del logo de la sudadera: siempre sale
+  arrugada.
+- **Emblemas y logos**: el **emblema circular alado** de la Asociación
+  (`Herobadge.png`, §7.1 A); el **kanji 正義** en pincel (PV2, `escenas_01.jpg`
+  #1) y **正義執行** del juego; las **cabeceras «撃目»** con rayas de código
+  de barras; los **dos emblemas** de los Neo Héroes (§26).
+- **Papel**: el aviso de resultados, el volante del súper y la carta de
+  Mumen (§7.1 C).
+
+**Texturas y pinceles libres equivalentes**
+
+| Capa | Recurso | Licencia |
+|---|---|---|
+| Papel de manga y de los avisos | [Paper001-006, ambientCG](https://ambientcg.com/list?type=Material&q=paper) | CC0 ⚠️ por política del sitio |
+| Metal de Genos | [DiamondPlate006-009, ambientCG](https://ambientcg.com/list?type=Material&q=diamond+plate) | CC0 ⚠️ ídem |
+| Trama *halftone* gastada (12 texturas) | [Spoon Graphics](https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures) | gratis ⚠️ mirar la licencia exacta |
+| Tramas de manga para Krita/Procreate (4500×4500) | [Manga with Stef](https://manga-with-stef.com/free-screen-tone-collection-1) | gratis ⚠️ ídem |
+| Hormigón, metal, roca, madera | Concrete034, Metal063, Rock063, WoodFloor064 (§5.2) | CC0 ✅ |
 
 ## 21 · Gustos y detalles de cada personaje
 
-(pendiente)
+Fuente principal: el *databook* oficial ***One-Punch Man: Hero
+Encyclopedia***, citado con página en el Trivia de cada ficha de la wiki
+✅ (una fuente oficial). Edad y altura, también en AniList ✅. **El
+*databook* no trae cumpleaños ni comida favorita** para casi nadie: no se
+inventan.
 
-## 22 · Por qué la gente la ama
+| Personaje | Edad | Altura | Le gusta | Odia | Afición | Siempre lleva | Cómo se ve |
+|---|---|---|---|---|---|---|---|
+| **Saitama** | 25 | 175 cm | ⚠️ no listado; por conducta: **las ofertas del súper** | el aburrimiento | ir de compras | traje amarillo y capa | un tipo normal, héroe «por diversión», que ya no disfruta |
+| **Genos** | 19 | 178 cm | ⚠️ no listado; por conducta: mejorar su cuerpo | fallar a Saitama | mantener su cuerpo | sus piezas intercambiables | un arma de venganza que aprende a no serlo |
+| **Tatsumaki** | 28 | no revelada | **su hermana Fubuki**; sitios donde usar toda su fuerza | **los héroes hombres que se creen fuertes**; que la llamen niña | — | vestido negro | la esper más fuerte; le molesta que no la traten así |
+| **Mumen Rider** | — | — | la justicia; dar las gracias | el crimen, por pequeño que sea | ayudar en bicicleta | **bicicleta y guantes** | un héroe débil que tiene que intentarlo |
+| **Fubuki** | 23 | 167 cm | ⚠️ por conducta: la ropa cara | ser «la hermana de» | reclutar héroes | **perlas y abrigo de piel blanco** | merece ser la mejor por sí misma |
+| **King** | 29 | 187 cm | **el silencio y la paz** | **las multitudes y el ruido** | «entrenar» aislado (esconderse) | gorra con el kanji de «rey» ⚠️ | el más fuerte… y sabe que no lo es |
+| **Garou** | 18 | 177 cm | la actriz **«Kiiro»** de una serie *sentai* | los héroes, la gente popular | — | **banda amarilla** en la cintura | el monstruo que la sociedad quiso ver muerto |
+| **Sonic** | 25 | 174 cm | pelear con fuertes | perder | comprar armas | **bufanda morada** | ninja invencible, hasta Saitama |
+| **Bang** | 81 | 165 cm | — | la falta de ética de los clase S | — | túnica negra de artes marciales | maestro «más juguetón de lo que aparenta» |
+| **Boros** | — | 240 cm | pelear con alguien a su altura | — | buscar rivales por el universo | su armadura | el amo del universo que busca una buena pelea |
+| **Amai Mask** | 24 | 181 cm | **sus fans, la justicia, crema y tónico para la piel** | **el mal, las entrevistas molestas** | actuar (premio a Mejor Actor en la ficción) | su look impecable | el n.º 1 del mundo |
+| **Metal Bat** | 17 | 168 cm | su hermana **Zenko** y su gato **Tama** | — | el béisbol | **bate de metal** | no le importa el rango |
+| **Lindo-Lindo** | 33 | — | **ballet, ikebana, estofado**, regalos de su novio | — | ballet e ikebana | traje de preso a rayas | héroe con su propio código |
+| **Zombieman** | — | — | «muertes que crean ríos de sangre» (dato oficial, oscuro) | las reuniones | fumar | gabardina gris | ya no teme a la muerte |
 
-(pendiente)
+Objetos que definen a cada uno (para Blender): la **llave del
+apartamento con llavero de jirafa** (hoja de modelo «k-001»,
+`pantalla_01.jpg` #23), la **bolsa del súper** de Saitama, la **libreta**
+de Genos, la **bicicleta** de Mumen, la **consola** de King.
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar o gritar
+
+### 22.1 Las razones ✅
+
+- **Sátira del superhéroe**: no va de las peleas, va de **lo absurdo de
+  las peleas** ([The Nerds Junction](https://www.thenerdsjunction.com/post/one-punch-man-boredom-is-weakness-but-genius)).
+- **El aburrimiento de Saitama como espejo**: cuesta sentir satisfacción
+  hasta en la cima; debajo hay crítica al consumo y al «crecer sin fin»
+  (mismo artículo y [GameRant](https://gamerant.com/one-punch-saitama-fun-hero/)).
+- **Mumen Rider**: «no importa cuánto poder tienes, sino cómo usas el que
+  tienes» ([Sportskeeda](https://sportskeeda.com/anime/one-punch-man-finally-gives-mumen-rider-strength-deserves)).
+- **Ventas y premios**: **35 millones** de copias (oct-2025; 13 M en 2017);
+  nominado al **Manga Taishō 2014** y a los **Eisner 2015**; **ganó el
+  Sugoi Japan Award 2016** ([ComicBook.com](https://comicbook.com/anime/news/one-punch-man-sets-a-new-record-ahead-of-season-3/),
+  [AnimeExplained](https://www.animeexplained.com/news/one-punch-man-manga-has-more-than-31-million-copies-in-circulation-now/)).
+- **Nota media en AniList: 82**; 30.709 favoritos (T1).
+- **Con quién se identifica el público**: con **Saitama** por su hastío, y
+  con **Mumen Rider** por no rendirse.
+
+### 22.2 Las escenas que hacen llorar, gritar o reír
+
+| Escena | Cuándo y minuto | Qué pasa y por qué duele | Cómo está hecha | Música | Reacción |
+|---|---|---|---|---|---|
+| **Mumen Rider bajo la lluvia** (llorar y gritar) | T1-09; [3:00-6:00](https://www.dailymotion.com/video/x8rl50h?t=180) de la copia | un héroe **sin poderes** se enfrenta a un monstruo sabiendo que pierde; el público le grita «¡tú puedes!» (4:32) | **lluvia constante**, tomas bajas que agrandan al monstruo, el héroe empapado de rodillas | versión **lenta del tema de Saitama** ⚠️ (fans) | la escena **más citada** de Mumen; vídeos del «tema triste» y tutoriales de piano |
+| **Saitama vs. Boros** (gritar) | T1-12; [4:02-4:16](https://www.dailymotion.com/video/x9b8564?start=242) (Luna) y [6:11-6:24](https://www.dailymotion.com/video/x9b8564?start=371) (Golpe Serio) | por fin un rival: Boros lo patea a la Luna y él vuelve de un salto | **silueta en cruz**, fogonazo blanco, haz que llega al espacio; **silencio** después | — ⚠️ sin identificar | [269 votos](https://www.reddit.com/r/OnePunchMan/comments/1lmg5kn/the_animation_quality_of_the_boros_vs_saitama/): «de las mejores animaciones de la serie» |
+| **El monólogo de Saitama** (llorar) | doblaje latino, muestra de Doblaje Wiki (§10.3) ⚠️ episodio sin identificar | «mis emociones desaparecen… quizá perdí algo esencial para ser humano» | ⚠️ sin fotograma | — | la base de las reseñas sobre su hastío (§22.1) |
+| **Tatsumaki vendida por sus padres** (llorar) | manga, **cap. 137** (sin animar) | la heroína más arrogante, **rota**, de niña | primer plano, lágrimas grandes, una mano ajena la consuela | — (manga) | ⚠️ sin minuto: no está en el anime |
+| **Saitama salva a la policía y les deja el mérito** (gritar) | ⚠️ sin episodio | para que la gente no pierda la fe en sus héroes | — | — | [«Goosebump moments in OPM?»](https://www.reddit.com/r/OnePunchMan/comments/13u74ct/goosebump_moments_in_opm/) (81 votos) |
+| **Saitama mira a Garou tras ver «morir» a Genos** (gritar) | manga | la única vez que parece a punto de perder el control | — | — | mismo hilo |
+| **Dios en la Luna** (escalofríos) | manga | sale despacio de la oscuridad | **escala y silencio** del dibujo | — | citado dos veces, mismo hilo |
+| **El fantasma del futuro Garou visita a Tareo, aliviado** (llorar) | manga | Garou por fin en paz | — | — | mismo hilo |
+| **Saitama se hace el malo** (T1-09) | T1-09 | carga con la culpa para que no culpen a los héroes que perdieron | — | — | ✅ la wiki la ficha como imagen propia |
+| **«OK»** (reír) | T1-12; manga cap. 34; [recopilación 2:38](https://www.dailymotion.com/video/x6t9n9l) ⚠️ | Boros explica su poder; Saitama: «OK» | cara simple | — | el meme de la serie |
+| **Saitama reparte plátanos** (reír) | ⚠️ sin episodio | — | — | — | [92 votos](https://www.reddit.com/r/OnePunchMan/comments/d1qbts/i_love_the_scene_where_saitama_is_giving_everyone/) |
+
+⚠️ **Escenas de llanto sin minuto**: las del manga tardío (Tatsumaki,
+Garou, Dios) **aún no están animadas** (la T3 parte 1 llega al ep. 36).
 
 ## 23 · Fan dubs y comunidad hispana
 
