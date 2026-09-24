@@ -284,6 +284,9 @@ Detalle en §12. Lo más útil para la lámina:
 | 961 | `Shibuya Station Inokashira Line Gate (Anime).png` | 1920×1080 |
 | 1177 | `Tokyo Jujutsu High dorms (Anime).png` | 1920×1080 |
 | 1178 | `Tokyo Jujutsu High landscape (Anime).png` | 1920×1080 |
+| 1180 | `Tokyo Metropolitan Jujutsu Technical School (Anime).png` (vista aérea; 3.er ayudante) | 1920×1080 |
+| 139 | `Yuji and Megumi's school uniforms (Anime).png` (3.er ayudante) | 1920×1750 |
+| 1085 | `Aoi Todo calls Yuji his best friend (Anime).png` (3.er ayudante) | 1920×1080 |
 | 1540 | `Yuta's Jujutsu High ID (Anime).png` | 1920×803 |
 | 1579 | `Geto summons a curtain over Jujutsu High (Anime).png` | 1920×803 |
 | 1277 | `Jujutsu Kaisen Phantom Parade Key Visual (Cleaned).png` | 1919×1079 |
@@ -292,8 +295,9 @@ Detalle en §12. Lo más útil para la lámina:
 | F29 | `Toge Inumaki in class (Anime).png` | 1920×803 |
 
 (Emparejados por tamaño exacto y por lo que se ve en las hojas; los de
-1920×1080, por título. ⚠️ #139, #1085 y #1180 no los encontré por
-tamaño.)
+1920×1080, por título. #139, #1085 y #1180 los encontró el 3.er
+ayudante (24-sep): los bajó por la API y los **comparó a ojo** con las
+celdas P27, P20 y F2. Son la misma imagen ✅.)
 
 ### 3.1 Las tres hojas de esta carpeta (`hojas/`)
 
@@ -325,7 +329,7 @@ tamaño.)
 
 | Celda | Qué es | Para qué |
 |---|---|---|
-| **F1-F3** | la **Escuela de Tokio**: templos de madera en el monte, la entrada y los dormitorios (#1178, #1180, #1177) | fondo de día, «la casa» |
+| **F1-F3** | la **Escuela de Tokio**: templos de madera en el monte, la **vista aérea** del complejo (pagoda, edificio central de madera, pista de atletismo) y los dormitorios (#1178, #1180, #1177) | fondo de día, «la casa» |
 | F4 | almacén maldito, de noche (#1176) | fondo oscuro |
 | **F5** | el «paseo por Tokio» en estilo **cómico chibi** con «東京» grande (#503) | el tono de las escenas de risa |
 | F6 | los de 1.er año **de compras** (#445) | calle de día |
@@ -452,7 +456,7 @@ sirven de referencia y el dueño no quiere que la lámina «parezca de IA».
 | Sitio | Colores | De dónde |
 |---|---|---|
 | Escuela, paisaje | cielo `#6CBACD` y `#D0E5ED`, bosque `#476A4F`, madera en sombra `#1B1913` | #1178 |
-| Escuela, entrada | verdes `#487A4E` `#809D83`, piedra `#C3C4BC` | #1180 |
+| Escuela, vista aérea | verdes `#487A4E` `#809D83`, piedra `#C3C4BC` | #1180 (re-medido por el 3.er ayudante: `#46794D`, `#C5C6BF` ✅) |
 | Aula (JJK0) | sombras `#2F2831`, luz `#D3D0CF`, malvas `#7C6372` `#AA9AA2` | fotograma de JJK0 (wiki) |
 | **Celda de talismanes** | **amarillo farolillo `#EBD430` y `#FAF441`**, ocre `#C09E1C`, marrón `#523010` | clip doblado, 0:15 |
 | Shibuya de noche | azules casi negros `#111625` `#20293B`, gris `#616F76` | #1272 |
@@ -807,9 +811,12 @@ el 7.º: es una errata de la wiki (el número es el de Todo en la 1.ª).
 - **Inumaki**: siempre alto en las encuestas japonesas (4.º en la 1.ª)
   y muy querido por su diseño; «Why doesn't Inumaki just use TTS»
   (1.057 votos) muestra que el fandom **juega con su voz** ✅.
-- **Latinoamérica**: la serie ganó **Anime del Año** en los Crunchyroll
-  Anime Awards (2021) ⚠️ (una fuente: Cultura Geek). Encuesta latina propia: ⚠️ no
-  la encontré.
+- **Premios del público**: la serie ganó **Anime del Año** en los 5.º
+  Crunchyroll Anime Awards (19-feb-2021) ✅ (Cultura Geek + [Wikipedia en
+  inglés, «Crunchyroll Anime Awards»](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Awards),
+  3.er ayudante). La **T2 lo volvió a ganar** en los 8.º (2-mar-2024), y
+  *JJK0* ganó la película del año en los 7.º (2023) ✅ (Wikipedia; misma
+  tabla). Encuesta latina propia: ⚠️ no la encontré.
 
 ### 9.3 Qué sale de todo esto
 
@@ -1191,9 +1198,23 @@ veces: el túnel se corta). ⚠️ No pude mirar contenido descartado.
   chino simplificado (sale en títulos de vídeos chinos).
 - **Globo blanco redondo**, letras redondas o alegres, **Comic Sans**.
 - **Arte hecho con IA**: en DeviantArt abunda (§4.2). El dueño lo nota.
-- **Cambiar el gesto del dominio**: cada uno tiene el suyo. El de Gojo
-  es **índice y corazón cruzados** (visto). Los de Sukuna y Megumi son
-  otros ⚠️ (no los comprobé en vídeo).
+- **Cambiar el gesto del dominio**: cada uno tiene el suyo, y la wiki lo
+  dice: «hace falta un signo de manos propio de cada usuario»
+  ([«Domain Expansion»](https://jujutsu-kaisen.fandom.com/wiki/Domain_Expansion)).
+  - **Gojo**: **índice y corazón cruzados** junto a la cara (visto,
+    x7xhwib 0:33) ✅.
+  - **Sukuna**: el **«sello de la palma de Enma»** (閻魔天の掌印): las
+    dos manos juntas delante de la cara, **las puntas de índice y corazón
+    tocándose arriba** y el resto de los dedos entrelazados, como un
+    tejado ✅ (3.er ayudante: visto en el fotograma
+    [True Jujutsu (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9b/True_Jujutsu_%28Anime%29.png),
+    1920×1080, y en la viñeta del manga
+    [Sukuna uses Domain Expansion against Mahoraga](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/80/Sukuna_uses_Domain_Expansion_against_Mahoraga.png);
+    el nombre, en [«Malevolent Shrine»](https://jujutsu-kaisen.fandom.com/wiki/Malevolent_Shrine),
+    cap. 255, págs. 15-16).
+  - **Megumi**: **manos cerradas y apretadas una contra otra, dedos
+    entrelazados**, delante del pecho ⚠️ (una sola fuente: el fotograma
+    [Megumi satisfied with Domain Expansion (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/16/Megumi_satisfied_with_Domain_Expansion_%28Anime%29.png)).
 
 ## 15 · Poses analizadas por personaje
 
@@ -1286,10 +1307,16 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | # | Dónde | Postura | Uso |
 |---|---|---|---|
 | 1 | T1-19, copia [2:48](https://www.dailymotion.com/video/x80pjbn?start=168) | **manos juntas** delante del pecho: «Congratulations, brother» | **celebrar** |
-| 2 | #1085 | **manos abiertas** junto a la cara, sonrisa de loco | presentar con fuerza |
+| 2 | #1085 = [calls Yuji his best friend](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3f/Aoi_Todo_calls_Yuji_his_best_friend_%28Anime%29.png) | **manos abiertas** junto a la cara, sonrisa de loco, bosque | presentar con fuerza |
 | 3 | #1095 | **carcajada** enorme | celebrar |
 | 4 | #405 | **brazos cruzados**, camiseta morada, en un cuarto | preguntar («¿qué tipo de chica…?») |
 | 5 | #531 | junto a Yuji, **brazos arriba** | animar |
+| 6 | [Aoi Todo (Anime 2)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/59/Aoi_Todo_%28Anime_2%29.png) (943×1094) | de cuerpo entero, sin camisa, **brazo derecho estirado hacia arriba** con la mano abierta, puño izquierdo cerrado, sonrisa; faja blanca y pantalón ancho azul noche | **presentar** a lo grande, saludar ✅ visto (3.er ayudante) |
+| 7 | [interrupts the Tokyo first-years](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9a/Aoi_Todo_interrupts_the_Tokyo_first-years_%28Anime%29.png) | **brazos cruzados** apoyado en la cama, camiseta morada, ojos entornados; Yuji, Megumi y Nobara de espaldas | **preguntar**, meterse en la charla ✅ visto |
+| 8 | [encourages Yuji to keep fighting](https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/06/Aoi_Todo_encourages_Yuji_to_keep_fighting_%28Anime%29.png) | uniforme abierto en la estación de Shibuya (cartel amarillo), **puño cerrado delante del pecho**, gritando | **animar** («¡arriba!»; T2, ojo con el spoiler) ✅ visto |
+| 9 | [crying over his memories with Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/5a/Aoi_Todo_crying_over_his_memories_with_Yuji_%28Anime%29.png) | **cabeza hacia atrás, llorando a chorros** de emoción | **celebrar** en broma ✅ visto |
+| 10 | [ready to guide Yuji further](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/40/Aoi_Todo_ready_to_guide_Yuji_further_%28Anime%29.png) | **palma abierta levantada**, media sonrisa, chispas negras del Destello Negro | **explicar**, «te enseño» ✅ visto |
+| 11 | [first appearance](https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/1a/Aoi_Todo_first_appearance_%28Anime%29.png) (853×480) | **mirada de reojo**, ceño fruncido, camiseta morada | desconfiar, amenaza ✅ visto |
 
 ### Sukuna (añadido por el 2.º ayudante; imágenes de la wiki, 1920×1080 salvo la 1)
 
@@ -1303,6 +1330,7 @@ copia mirada) o en imágenes de la wiki (#N) o de mis hojas (P·, F·).
 | 6 | [Sukuna bored with Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f1/Sukuna_bored_with_Yuji_%28Anime%29.png) | **cara de aburrimiento**, ojos a medio cerrar | desdén, «qué pesados» |
 | 7 | [Sukuna sitting on Yuji](https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/0b/Sukuna_sitting_on_Yuji_%28Anime%29.png) | **sentado encima de Yuji**, en su dominio rojo | burla (no para lámina amable) |
 | 8 | OP1, [1:22](https://www.dailymotion.com/video/x84iff2?start=82) (visto) | sonrisa torcida, cabeza ladeada, marcas en la cara | el gancho |
+| 9 | [True Jujutsu (Anime)](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9b/True_Jujutsu_%28Anime%29.png) (1920×1080; 3.er ayudante) | **sello de la palma de Enma**: manos juntas delante de la nariz, puntas de índice y corazón tocándose; ojos rojos de reojo, capucha roja | **abrir su dominio** = «mi sala, mis reglas» (lámina de reglas) ✅ visto |
 
 ### Panda (añadido por el 2.º ayudante)
 

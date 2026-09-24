@@ -327,7 +327,7 @@ el fandom los adora.
 | 21 | Bokuto y Kuroo **adultos** (Bokuto de jugador, Kuroo de traje) | 1160×1630 | Kuroo «promotor»: le va a algo de organizar |
 | 22-23 | Oikawa e Iwaizumi / Kenma y Kuroo, dibujos del **tomo 45** con dedicatorias a mano | 1446×2048 | el trazo suelto de Furudate |
 | 24 | Portada a color del **cap. 209**: Kageyama y Hinata **con corona**; «独りじゃないから 信じて飛べ!!» («No estás solo: **confía y vuela**») | 1780×1299 | el lema que mejor resume la serie |
-| 25 | **Bokuto enseña a Hinata** (T2-09, [Best Episode 9, 1:39](https://www.dailymotion.com/video/x7og4pm?t=99)) 👁 | 1280×720 | pose de **maestro**: Bokuto le pone la mano a la altura de la cara, fondo de líneas de manga |
+| 25 | **Bokuto enseña a Hinata** (T2-09, [Best Episode 9, 1:39](https://www.dailymotion.com/video/x7og4pm?t=99)) 👁 | 1280×720 | pose de **maestro**: Bokuto **le sujeta la cabeza y la barbilla** para corregirle la postura, fondo de rayas amarillas (re-visto hoy 👁) |
 | 26 | **Ukai explica** con el **índice levantado** (T3, [WatchMojo 5:20](https://www.dailymotion.com/video/x6hvh6g?t=320)) 👁 | 1280×720 | pose de **explicar** |
 | 27 | Ukai grita con **las manos en bocina** (T4, [1:15](https://www.dailymotion.com/video/x7ytyal?t=45)) 👁 | 1280×720 | pose de **animar** |
 | 28 | Kageyama con los ojos cerrados; Hinata con **la mano en el pecho** (OP2, [1:18](https://www.dailymotion.com/video/x3hw69f?t=78)) 👁 | 1280×720 | pose de **promesa** |
@@ -635,15 +635,22 @@ para uso comercial). La muestra está en `hojas/objetos_01.jpg` (§3).
 | **Zen Kaku Gothic New Black** | **títulos de capítulo** del manga | ✅ todo | ✅ |
 | **Bangers** | onomatopeyas en español («¡PUM!») | ✅ todo | — |
 | **Anton** | cifras altas y estrechas (dorsal) | ✅ todo | — |
+| **Comic Neue Bold** | **globos de manga** en español (sustituye a Anime Ace) | ✅ todo (comprobada hoy) | — |
 
 **Globos del manga en español**: la edición mexicana es de **Panini**,
 en formato **3 en 1** (15 tomos, desde mayo de 2022)
 ([Geekmi](https://www.geekmi.news/comics/-Finalmente-el-manga-de-Haikyuu-llegara-a-Panini-Mexico-20211024-0037.html),
 [Panini Manga MX en Facebook](https://www.facebook.com/PaniniMangaMx/photos/a.204322466414128/1879176568928701/?type=3)).
-No vi páginas por dentro, así que **no sé su letra** ⚠️. Para globos en
-español, lo habitual y libre es **Anime Ace 2.0 BB** (Blambot); que
-tenga tildes y ñ lo dicen otras biblias de este repositorio, **yo no
-lo comprobé** ⚠️.
+No vi páginas por dentro, así que **no sé su letra** ⚠️.
+
+**Anime Ace 2.0 BB** (Blambot), la letra de globo más usada por fans:
+la bajé de [dafont](https://www.dafont.com/anime-ace-bb.font) y la abrí
+con fontTools (las 3 variantes, TTF y OTF). **Tiene tildes y ñ, pero NO
+trae ¿ ni ¡** ✅ (en su lista de glifos sólo hay `exclam` y `question`).
+Su licencia: gratis **sólo** para cómic independiente y uso sin ánimo
+de lucro (lo dice su `font info.txt`). **Para globos en español, mejor
+Comic Neue Bold** (OFL, [google/fonts](https://github.com/google/fonts/tree/main/ofl/comicneue),
+comprobada: ✅ todo) **o M PLUS Rounded 1c**.
 
 ### 6.3 Qué letra para qué
 
@@ -651,7 +658,8 @@ lo comprobé** ⚠️.
   `#ED830A`** (como el logo), o Graduate con textura (como el tráiler).
 - **Lema en el estandarte**: Yuji Boku en blanco sobre `#292E36`.
 - **Lo que dice el personaje**: M PLUS Rounded 1c dentro de la caja del
-  juego (§7), o Anime Ace en un globo de manga.
+  juego (§7), o **Comic Neue Bold** en un globo de manga (Anime Ace
+  no trae ¿ ni ¡).
 - **Notas escritas a mano**: Caveat o Kalam en rojo y negro de rotulador.
 - **Cifras** (marcador, dorsales): Zen Maru Gothic Black (redondas, como
   los cartones) o Anton (como el dorsal).
@@ -1388,7 +1396,7 @@ miré (👁).
 | # | Dónde | Postura | Manos | Mirada / gesto | Sirve para |
 |---|---|---|---|---|---|
 | 1 | P-15, ficha del manga | **de frente, piernas abiertas** | **las dos manos en la cadera** | sonrisa grande | **presentarse** (la mejor) |
-| 2 | P-25, T2-09 [1:39](https://www.dailymotion.com/video/x7og4pm?t=99) | de lado, inclinado hacia Hinata | la mano **a la altura de la cara de Hinata**, enseñando | serio y orgulloso, fondo de rayas amarillas | **explicar / enseñar** |
+| 2 | P-25, T2-09 [1:39](https://www.dailymotion.com/video/x7og4pm?t=99) | de lado, inclinado hacia Hinata | **una mano en la cabeza y otra en la barbilla** de Hinata, corrigiéndole la postura (re-visto hoy) | serio y orgulloso, fondo de rayas amarillas | **explicar / enseñar** |
 | 3 | T2-09 [0:30](https://www.dailymotion.com/video/x7og4pm?t=30) | primer plano | — | **sonrisa enorme de dientes** | **celebrar** |
 | 4 | T2-09 [0:21-0:27](https://www.dailymotion.com/video/x7og4pm?t=21) | de espaldas, hombros caídos, **rayas onduladas negras encima** | — | modo depre | **chiste**; «cuando algo sale mal» |
 | 5 | T2-09 [1:57](https://www.dailymotion.com/video/x7og4pm?t=117) | de frente | **puño cerrado** | seguro | **animar** |
@@ -1731,8 +1739,8 @@ latino lo hace **Sergio Morel, que además es el director del doblaje**
 **Cómo habla.** El **propio formulario** es el cuadro: las casillas
 llevan los textos, escritos a mano (Kalam) en letra de bolígrafo azul.
 Daichi habla en un **globo de manga** alto y estrecho (§7.1 B), de
-trazo fino, con Anime Ace (⚠️ tildes sin comprobar, §6.2) o M PLUS
-Rounded 1c.
+trazo fino, con **Comic Neue Bold** o M PLUS Rounded 1c (las dos con
+tildes, ñ, ¿ y ¡ comprobadas). **No Anime Ace**: no trae ¿ ni ¡ (§6.2).
 
 **Dónde va cada texto** (#postulaciones: «Solicitudes de staff y de
 proyectos»):

@@ -576,8 +576,11 @@ sirven tal cual**: por eso la lámina usa la ficha del anime o un objeto escrito
    campamento»: hablas con los personajes y eliges respuestas
    ([RPG Site](https://www.rpgsite.net/review/6932-attack-on-titan-2-review) ·
    [GodisaGeek](https://godisageek.com/reviews/attack-on-titan-2-review/)).
-   **Su caja de diálogo no la pude ver**; la de *Attack on Titan 3* sí (demo,
+   **Su caja de diálogo, vista en la web oficial** (§12): **sin caja**, nombre
+   pequeño sobre una línea crema fina y dos líneas de texto blanco con sombra,
+   con una ✓ al final. La de *Attack on Titan 3* sigue la misma idea (demo,
    §12): diálogo sin caja y una **franja de pincel oro viejo** para los títulos.
+   **La franquicia nunca usa globo blanco.**
 5. **Los discursos** son la otra «voz»: Erwin en los eps. 16 y 53. En la
    lámina, un discurso no va en globo: va **escrito en un objeto** (bandera,
    acta, tablón).
@@ -877,8 +880,46 @@ Novedad: desde el Día de AoT (9-sep-2026) hay **canal oficial de YouTube**
 - Arriba a la derecha hay un recuadro con una persona con bufanda roja: es de
   la grabación, no de la interfaz del juego.
 
-De los juegos anteriores (*Wings of Freedom*, *AoT 2*) sigo **sin capturas** de
-su caja de diálogo (Game UI Database no tiene AoT).
+**Los menús de *Attack on Titan 3*, en las capturas oficiales de Steam**
+(API `appdetails` de la app 2916700, 10 capturas de 1920×1080; las miré):
+- **Mejorar equipo** ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/228cc88fa364676b8dfd4a82b7cac9fe578cb8ec/ss_228cc88fa364676b8dfd4a82b7cac9fe578cb8ec.1920x1080.jpg)):
+  la hoja de la espada sobre **un plano técnico en pergamino manchado**
+  (`#7B6953`-`#AD9981`), encima de **una mesa de madera oscura** (`#32281F`-`#504742`),
+  con **clavos y un martillo** al lado. Los datos van a la derecha, en blanco,
+  sobre franjas grises translúcidas (`#3C352F`), separados por líneas finas. El
+  elegido brilla en **dorado** (`#B0944B`, destello `#F3C13C`). Arriba a la
+  izquierda, el emblema de los cadetes dibujado a línea dorada, como un sello.
+  **Es el objeto del concepto A**: papel viejo clavado sobre madera.
+- **Crear personaje** ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/525910341eb688c952e7e6b32c9b4e88e0d3576e/ss_525910341eb688c952e7e6b32c9b4e88e0d3576e.1920x1080.jpg)):
+  paneles oscuros (`#1D1815`) con **esquinas cortadas en diagonal**, la fila
+  elegida con **degradado dorado** (`#9B7C50`) y **rombos dorados** en los
+  deslizadores. Letra de los menús: sans humanista cursiva, en blanco roto.
+
+**La caja de diálogo de *Attack on Titan 2*, por fin vista** (web oficial
+japonesa, [sección «日常パート» y «交流»](https://www.gamecity.ne.jp/shingeki2/system2.html);
+12 capturas de 960×540, miradas):
+- **No hay caja.** El nombre va pequeño a la izquierda (リヴァイ), encima de
+  **una línea fina color crema** (`#CDC9BE`) que se deshace hacia la derecha.
+  Debajo, **dos líneas de texto blanco cálido** (`#FFFDF2`) con sombra negra
+  (`#0C0C0A`), sangradas. Al final, a la derecha, **una marca ✓** para seguir
+  ([captura de Levi](https://www.gamecity.ne.jp/shingeki2/images/img-system21-1.jpg)).
+- **Con respuestas**: tres opciones a la derecha, cada una con **su botón
+  redondo** (triángulo, cuadrado, equis) ([captura de Krista](https://www.gamecity.ne.jp/shingeki2/images/img5-3.jpg));
+  si aciertas, sale **un corazón con una barra verde** de amistad ([otra](https://www.gamecity.ne.jp/shingeki2/images/img5-4.jpg)).
+- **Levi con la ropa de limpiar, en el juego**: **pañuelo blanco en la cabeza y
+  otro tapándole nariz y boca**, camisa blanca y correas, en un patio de piedra
+  con sacos y cajas. Dice: 「……まぁいい、むしろ好都合だ　ちょうど、お前に
+  話があったんでな」 («…Bueno. Mejor así. Justo tenía algo que decirte»;
+  traducción nuestra) ([captura](https://www.gamecity.ne.jp/shingeki2/images/img-system21-1.jpg)).
+- **Los cadetes barren el patio con escobas de ramas**, levantando polvo, y
+  **Levi los vigila en el centro**, de pie y con los brazos caídos; detrás, un
+  campanario de piedra y cielo azul ([captura](https://www.gamecity.ne.jp/shingeki2/images/img-system1-4.jpg)).
+  Es la «vida en el campamento» de §7.3: **el castigo de limpiar es oficial
+  también en los juegos**.
+
+De *Wings of Freedom* las 5 capturas de Steam (app 449800) son de combate, sin
+diálogo; las 5 de *AoT 2* en Steam (app 601050), igual. Ahí sí enseñan que
+**Levi coge las hojas al revés** también en 3D ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449800/ss_0d04e9e2182378c8c54075fa18a9eda33076e092.1920x1080.jpg)).
 
 ---
 
@@ -1069,6 +1110,14 @@ minuto del episodio sale de los subtítulos de Netflix.
 | P·25 | en acción junto a la cara de un titán, emocionada | **celebrar**, pasión |
 | E·9 · ep. 14 | de pie, gafas, junto a Mike | presentar |
 | [tráiler latino 0:30](https://www.youtube.com/watch?v=sFuAhHTgABs&t=30) | T4: capa verde, parche, de frente, brazos caídos | presentar (T4) |
+| [H1](https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Hange_has_found_a_listener.png/revision/latest?cb=20130721120241) · 919×520 · eps. 14-16 (la noche en que le explica todo a Eren) | primer plano en penumbra, **las gafas brillan** y sonríe de oreja a oreja | **explicar de más**, con humor |
+| [H2](https://static.wikia.nocookie.net/shingekinokyojin/images/2/24/Hange_teases_Levi_as_they_leave_Trost_District.png/revision/latest?cb=20170921135907) · 1920×1080 · arco de Trost | con capa, **se inclina hacia Levi y sonríe**; Levi mira a otro lado, harto | **presentar** a los dos juntos |
+| [H3](https://static.wikia.nocookie.net/shingekinokyojin/images/4/4d/Hange_examines_an_object.jpg/revision/latest?cb=20170415044048) · 1920×1080 · T2 | inclinada sobre un **microscopio de latón**, entre torres de libros, frascos y un **quinqué** encendido | **pensar**, estudiar (sitio para una lámina de Hange) |
+| [H4](https://static.wikia.nocookie.net/shingekinokyojin/images/1/17/Hange_holds_a_meeting_in_Ehrmich.png/revision/latest?cb=20170715003338) · 1600×900 · T2 | de pie ante una mesa, a la luz de velas, con soldados encapuchados alrededor | **explicar** a un grupo |
+| [H5](https://static.wikia.nocookie.net/shingekinokyojin/images/e/ed/Hange_and_Levi_have_tea_with_the_reporters.png/revision/latest?cb=20240223053002) · 1920×1080 · T3 parte 2 | vista cenital: mesa redonda con té; Hange y Levi con dos periodistas | conversar, acordar |
+| [H6](https://static.wikia.nocookie.net/shingekinokyojin/images/1/1d/Hange_orders_to_attack_again.png/revision/latest?cb=20240222231531) · 1703×1080 · T3 parte 2 | agachada en un tejado, **grita la orden** con la mano abierta hacia delante | **animar**, ordenar |
+
+Las H1-H6 las miré en una hoja propia (tamaño por la API de la wiki; el arco sale de la [galería de Hange](https://attackontitan.fandom.com/wiki/Hange_Zo%C3%AB_(Anime)/Image_Gallery)).
 
 **Mikasa**
 
@@ -1079,6 +1128,13 @@ minuto del episodio sale de los subtítulos de Netflix.
 | P·29 | se toca la bufanda, sonríe con lágrimas | calma |
 | [ED 1:20](https://www.youtube.com/watch?v=eN_rq3FvJUs&t=80) | sepia, se toca la bufanda, mira de lado | **pensar** |
 | [PV 0:06-0:08](https://www.youtube.com/watch?v=KKzmOh4SuBc&t=6) | niña con la bufanda roja y leña a la espalda | presentar (infancia) |
+| [M1](https://static.wikia.nocookie.net/shingekinokyojin/images/a/a0/Mikasa_during_the_military_training.png/revision/latest?cb=20240124040551) · 1920×1080 · eps. 3-4 (instrucción) | en el aire con el equipo, **hojas abiertas**, bufanda al viento, cara impasible | **presentar** en acción |
+| [M2](https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Mikasa_is_not_amused.png/revision/latest?cb=20240124101659) · 1920×1080 · eps. 14-16 | la mejilla apoyada en la mano, **mira de reojo**, fastidiada, entre los reclutas | **regañar en silencio** |
+| [M3](https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Mikasa%27s_anger_with_Levi%27s_actions.png/revision/latest?cb=20240124065952) · 1920×1080 · eps. 14-16 (tras la patada del juicio) | **ojos en sombra**, boca recta, bufanda subida: rabia contenida contra Levi | **advertir** |
+| [M4](https://static.wikia.nocookie.net/shingekinokyojin/images/d/d5/Mikasa_threatens_a_merchant.png/revision/latest?cb=20180721195714) · 1920×1080 · arco de Trost | **estira la hoja** hacia el mercader que tapa la puerta; mirada fría, de lado | **advertir** (sin sangre) |
+| [M6](https://static.wikia.nocookie.net/shingekinokyojin/images/b/ba/Mikasa_comforts_Armin.png/revision/latest?cb=20240131070631) · 1920×1080 · T3 parte 1 | mirada blanda, **la mano en el hombro de Armin**, fusil a la espalda | **animar** |
+
+Las M1-M6 las miré en la misma hoja (la M5, Mikasa seria junto a Historia, no aporta pose).
 
 **Eren**
 
@@ -1089,6 +1145,13 @@ minuto del episodio sale de los subtítulos de Netflix.
 | E·3 · ep. 14 | de rodillas, encadenado al poste | **el que rompe las reglas** |
 | Dibujo de Isayama 2026 | adulto, **puño en alto**, ojos muy abiertos | amenaza (T4) |
 | G4 | levanta la mano herida, a contraluz | amenaza (T4) |
+| [R1](https://static.wikia.nocookie.net/shingekinokyojin/images/c/ca/Eren_becomes_a_soldier.png/revision/latest?cb=20130829142128) · 823×720 · eps. 3-4 | colgado **recto** en el aparato de equilibrio; Shadis, de espaldas, lo mira desde abajo | **cumplir** la prueba: celebrar |
+| [R6](https://static.wikia.nocookie.net/shingekinokyojin/images/2/2d/Eren_upside_down_during_his_balance_test.jpg/revision/latest?cb=20161019014719) · 1280×1399 · ep. 3 | **cabeza abajo** en el mismo aparato, delante de toda la promoción en fila | **el que falla** (humor; el reverso de R1) |
+| [R3](https://static.wikia.nocookie.net/shingekinokyojin/images/d/d9/Eren_confronts_a_military_guard.png/revision/latest?cb=20170731071336) · 1920×1080 · ep. 1 | Eren niño, de espaldas y **puños apretados**, planta cara a dos soldados de la Guarnición en la calle | **reclamar** (el que discute la norma) |
+| [R4](https://static.wikia.nocookie.net/shingekinokyojin/images/2/26/Eren_talks_with_his_friends.jpg/revision/latest?cb=20170731070826) · 1920×1080 · eps. 3-4 | en la mesa del comedor, a la luz de una vela, **cuenta** con la cuchara en la mano; los demás lo escuchan | **explicar** |
+| [R5](https://static.wikia.nocookie.net/shingekinokyojin/images/4/44/Eren_masters_using_ODM_gear.png/revision/latest?cb=20170804204232) · 1920×1080 · eps. 3-4 | vuela con el equipo **contra un atardecer dorado** | **animar** |
+
+Las R1-R6 las miré en la hoja de poses (arco según la [galería de Eren](https://attackontitan.fandom.com/wiki/Eren_Jaeger_(Anime)/Image_Gallery); la R2, Eren llorando de rabia, no sirve para #reglas).
 
 **Secundarios para este canal**
 

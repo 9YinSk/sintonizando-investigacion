@@ -1042,7 +1042,132 @@ esa fecha) y los episodios de §2.
 
 ## 15 · Poses analizadas por personaje
 
-(pendiente)
+**Cómo lo hice** (24-sep-2026): bajé de la Frieren Wiki **48 fotogramas
+oficiales** (1920×1080, uno de 2253×1259) y las **hojas de perfil** de cada
+uno, monté una hoja por personaje (`poses_<nombre>.jpg` en mi carpeta de
+trabajo, **no se sube**: `hojas/` ya tiene 3) y **las miré una a una**. El
+título de cada archivo de la wiki dice el episodio. **El minuto** lo saqué
+buscando la frase que se dice en ese plano en los **subtítulos japoneses del
+Blu-ray** (Moozzi2, espejo kitsunekko). El fotograma y la frase pueden estar
+a **±30 s**: por eso llevan «≈».
+
+Enlace de cada imagen: `https://frieren.fandom.com/wiki/File:<nombre>`
+(pongo el nombre corto). Las mejores están en `referencias.json`.
+
+### 15.1 Frieren
+
+| N.º | Imagen (ep., minuto) | Qué hace | Sirve para |
+|---|---|---|---|
+| F1 | [Frieren_anime_profile_3.png](https://frieren.fandom.com/wiki/File:Frieren_anime_profile_3.png) (perfil oficial, 553×680) | De cuerpo entero, **bastón cruzado en diagonal** con las dos manos delante del cuerpo, la cabeza del bastón arriba a la derecha. Una rodilla un poco doblada, como si diera un paso. Cara neutra, mira al frente. | **presentar** |
+| F2 | [Frieren_explains_how_Magic_of_the_Goddess_works_EP15.png](https://frieren.fandom.com/wiki/File:Frieren_explains_how_Magic_of_the_Goddess_works_EP15.png) — T1-15 ≈04:38 «女神様の魔法は 聖典に記されていて» | **De frente, detrás de una mesa**, con una vela a su izquierda. Brazos quietos, sin gestos. Mira a cámara con los **ojos medio abiertos**. **Fern y Stark detrás, de pie, escuchando**. Muro de piedra, luz de vela. | **explicar** (la mejor: «la profesora») |
+| F3 | [Frieren_praises_Stark_EP6.png](https://frieren.fandom.com/wiki/File:Frieren_praises_Stark_EP6.png) — T1-06 ≈10:02 «偉いぞ» («Bien hecho») | Se **inclina hacia Stark** por encima de su hombro, **cabeza ladeada**, **sonrisa pequeña con la boca cerrada**, ojos abiertos y cálidos. Stark mira al suelo, cortado. | **animar / felicitar** |
+| F4 | [Frieren_serves_the_hamburger_steaks_EP12.png](https://frieren.fandom.com/wiki/File:Frieren_serves_the_hamburger_steaks_EP12.png) — T1-12 20:07-21:21 | **Un plato en cada mano**, brazos abiertos a los lados, delantal blanco. Cara serena, mira de lado. Detrás, chimenea de piedra y fuego. | **celebrar**, dar una **bienvenida** |
+| F5 | [Frieren_pouts_remembering_being_called_an_old_hag_by_Stark_EP18.png](https://frieren.fandom.com/wiki/File:Frieren_pouts_remembering_being_called_an_old_hag_by_Stark_EP18.png) — T1-18 ≈03:23 «シュタルクが クソババアって言ったことも» | **Agachada abrazándose las rodillas**, la boca **escondida en la bufanda azul**, **párpados a media asta** y mirada de reojo. Rencor tranquilo. | **regañar** sin gritar |
+| F6 | [Frieren_thinks_about_Kanne's_observation_EP18.png](https://frieren.fandom.com/wiki/File:Frieren_thinks_about_Kanne%27s_observation_EP18.png) — T1-18 ≈22:45 «もしかしたら シュティレを 簡単に捕らえられるかも» | **Perfil**, **dedo índice en la barbilla**, mira hacia abajo. Luz azul de noche. | **pensar** |
+| F7 | [Frieren's_delight_over_her_findings_EP23.png](https://frieren.fandom.com/wiki/File:Frieren%27s_delight_over_her_findings_EP23.png) — T1-23, tras el mímico (≈11:20 «この中身は貴重な魔導書だよ» ⚠️) | **Abraza una esfera de cristal contra la mejilla**, **ojos cerrados**, sonrisa feliz. Fuego naranja detrás, desenfocado. | **celebrar** (su «alegría de coleccionista») |
+| F8 | [Frieren_pats_Sein_EP15.png](https://frieren.fandom.com/wiki/File:Frieren_pats_Sein_EP15.png) — T1-15 ≈11:49 «偉いぞ» | De espaldas, **estira el brazo para acariciar la cabeza de Sein**, que es más alto y se agacha. Cielo azul. | **animar** (gesto de «buen trabajo») |
+| F9 | [Frieren's_Holy_Emblem_EP11.png](https://frieren.fandom.com/wiki/File:Frieren%27s_Holy_Emblem_EP11.png) — T1-11 ≈09:47 «聖杖の証» | **Sólo la mano**: sostiene colgando un **colgante** (el emblema sagrado). Abrigo de invierno crema con botones rojos. | **presentar un objeto** (una insignia, un rango) |
+| F10 | [Frieren_cries_over_Himmel's_death_EP1.png](https://frieren.fandom.com/wiki/File:Frieren_cries_over_Himmel%27s_death_EP1.png) — T1-01 16:04 | **Llora**: ojos apretados, **rubor**, boca torcida, cabeza ladeada. Fondo cian. | emoción fuerte; **no** para una lámina de reglas |
+| — | [Frieren_gives_her_command_to_Aura_EP10.png](https://frieren.fandom.com/wiki/File:Frieren_gives_her_command_to_Aura_EP10.png) — T1-10 22:24 | De frente, **cara fría sin expresión**, Aura detrás. | 🔴 **no usar** (es «Aura, suicídate», §14.3) |
+| — | [Frieren_shows_off_her_potion_EP12.png](https://frieren.fandom.com/wiki/File:Frieren_shows_off_her_potion_EP12.png) — T1-12 13:05 «服だけ溶かす薬» | En camisón, **levanta un frasco morado** con sonrisa pícara. | 🔴 **no usar** (la poción que disuelve la ropa, §14.1) |
+
+**De vídeo** (visto, §12): **asoma los ojos por encima del grimorio** (PV1
+[x8lnihm](https://www.dailymotion.com/video/x8lnihm) 0:28-0:30) =
+**pensar / leer**; **sentada en los adoquines, mira de reojo, con bufanda**
+([3XUKmqUDEZc &t=28](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=28));
+**de pie sobre una roca con el bastón, sobre un mar de nubes** (PV2
+[x8mkolb](https://www.dailymotion.com/video/x8mkolb) 1:26) = **presentar**
+a lo grande; **saluda con la mano abierta** (arte oficial,
+`personajes_01` n.º 4) = **bienvenida**.
+
+### 15.2 Fern
+
+| N.º | Imagen (ep., minuto) | Qué hace | Sirve para |
+|---|---|---|---|
+| E1 | [Fern_anime_profile_2.png](https://frieren.fandom.com/wiki/File:Fern_anime_profile_2.png) (perfil oficial, 436×649) | Cuerpo entero, **bastón horizontal a la altura de la cadera** sujeto con las dos manos, el pelo y el abrigo al viento. Cara seria. | **presentar** |
+| E2 | [Fern_greets_Frieren_EP1.png](https://frieren.fandom.com/wiki/File:Fern_greets_Frieren_EP1.png) — T1-01 20:06 «フェルンといいます» | Fern niña, de frente, **manos juntas delante**, capa negra con capucha, lazo rojo. Mira a cámara, formal. | **presentarse**, dar la bienvenida con educación |
+| E3 | [Fern_pouts_at_Frieren_EP5.png](https://frieren.fandom.com/wiki/File:Fern_pouts_at_Frieren_EP5.png) — T1-05 | En la mesa, **cuchillo y tenedor en la mano**, **mofletes hinchados**, mira fijo a Frieren (de espaldas). | **regañar** (el enfado de niña) |
+| E4 | [Episode_22.png](https://frieren.fandom.com/wiki/File:Episode_22.png) — T1-22 ≈03:26 «むっ…» (800×450) | **Primer plano**, mofletes hinchados, **mira de reojo a cámara**. **Stark y Frieren detrás, preocupados**. | **regañar** (con los otros detrás: muy de la serie) |
+| E5 | [Fern's_mage_certificate_EP11.png](https://frieren.fandom.com/wiki/File:Fern%27s_mage_certificate_EP11.png) — T1-11 ≈09:23 «三級魔法使いの認定証» | **Sólo la mano**: levanta el **certificado de maga de tercera clase** (pergamino con sello y firma). | **presentar un papel oficial** (normas, rangos) |
+| E6 | [Fern_voices_her_dislike_of_gambling_EP13.png](https://frieren.fandom.com/wiki/File:Fern_voices_her_dislike_of_gambling_EP13.png) — T1-13 13:47 «ギャンブルする人は最低です» («Los que apuestan son lo peor») | **Sentada muy recta**, manos en el regazo, cara plana. Stark encogido a su lado; Frieren en la cama. | **regañar** (la regla seria) |
+| E7 | [Fern_considers_how_to_best_utilize_defensive_magic_EP3.png](https://frieren.fandom.com/wiki/File:Fern_considers_how_to_best_utilize_defensive_magic_EP3.png) — T1-03 ≈11:43-12:24 | **Palma abierta hacia arriba** con un **hexágono de luz** (escudo) flotando encima; mira a cámara pensativa. Bosque. | **explicar** / **pensar** (la mano sirve de «vitrina» para un icono) |
+| E8 | [Fern_drags_Stark_away_EP8.png](https://frieren.fandom.com/wiki/File:Fern_drags_Stark_away_EP8.png) — T1-08 ≈05:36 «行きますよ» | **Arrastra a Stark por el cuello de la chaqueta**; él con los ojos cerrados y los brazos colgando. | **regañar** con humor |
+| E9 | [Fern's_happy_walk_EP22.png](https://frieren.fandom.com/wiki/File:Fern%27s_happy_walk_EP22.png) — T1-22 (vuelta a la posada) | Calle de noche con **farolas azules**; Fern va delante, **brazos balanceándose**, media sonrisa. Frieren y Stark detrás. | **celebrar** |
+| E10 | [Episode_18.png](https://frieren.fandom.com/wiki/File:Episode_18.png) — T1-18 ≈07:45 (800×450) | **Tira de Frieren hacia atrás** (que quiere escaparse del examen). Fern con bufanda lila, cara impasible. | **regañar** / «¡apúntate!» (sirve para inscripciones) |
+| E11 | [Fern_prepares_to_fire_at_the_rock_EP1.png](https://frieren.fandom.com/wiki/File:Fern_prepares_to_fire_at_the_rock_EP1.png) — T1-01 23:41 | Fern niña **apunta con un bastón enorme** con las dos manos, decidida. Frieren al fondo. | **animar** (esfuerzo, reto) |
+| E12 | [Fern_blocks_the_ambush_EP19.png](https://frieren.fandom.com/wiki/File:Fern_blocks_the_ambush_EP19.png) — T1-19 | **Escudos hexagonales cian** paran ataques de noche. | acción; fondo de «protección» |
+
+**De vídeo**: **Fern con abrigo marrón y el bastón al hombro** en la calle
+nevada ([aIFWMH0dhbA &t=42](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=42));
+**Fern peina y viste a Frieren** (mismo clip, 0:07-0:16) = la «mamá»;
+**hace la V** (arte oficial, `personajes_01` n.º 12) = **celebrar**.
+
+**Frase que regaña de verdad** (T1-03 02:27): «返品してきなさい» (**«Vaya a
+devolverlo»**), cuando Frieren compra algo inútil. Sirve para una norma.
+
+### 15.3 Stark
+
+| N.º | Imagen (ep., minuto) | Qué hace | Sirve para |
+|---|---|---|---|
+| S1 | [Stark_anime_profile_2.png](https://frieren.fandom.com/wiki/File:Stark_anime_profile_2.png) (perfil oficial, 493×657) | **Salta** con el **hacha en diagonal** a dos manos, rodilla arriba, faldón al viento. | **animar** |
+| S2 | [Stark_cries_about_his_lack_of_battle_experience_EP5.png](https://frieren.fandom.com/wiki/File:Stark_cries_about_his_lack_of_battle_experience_EP5.png) — T1-05 ≈18:49 «怖くて 一歩も動けなかったんだよ» | **Llora a lo grande**: boca abierta, ojos apretados en «><», lagrimones. Líneas de velocidad. | gag; «no pasa nada si te da miedo» |
+| S3 | [Episode_6.jpg](https://frieren.fandom.com/wiki/File:Episode_6.jpg) — T1-06 | **De frente**, **hacha apoyada en el hombro**, cara seria y tranquila. Bosque con rayos de luz. | **presentar** (decidido) |
+| S4 | [Stark_launches_the_killing_blow_EP6.png](https://frieren.fandom.com/wiki/File:Stark_launches_the_killing_blow_EP6.png) — T1-06 | **Vuela** por el aire con el hacha lista para el golpe, cielo azul con cortes blancos. | acción, **animar** |
+| S5 | [Stark_confidently_declares_his_plan_EP9.png](https://frieren.fandom.com/wiki/File:Stark_confidently_declares_his_plan_EP9.png) — T1-09 | Primer plano, **hacha al hombro** con el guante sin dedos, **mirada de lado segura**. Fondo azul con líneas. | **animar** («yo me encargo») |
+| S6 | [Stark_buckles_after_Fern_pushes_him_EP15.png](https://frieren.fandom.com/wiki/File:Stark_buckles_after_Fern_pushes_him_EP15.png) — T1-15 ≈15:51 «シュタルク様　路銀のためです» | **Ojos cerrados**, resignado; **Fern le pone la mano en el hombro** por detrás, cara plana. Pasillo con arcos. | gag de pareja; Fern **regaña** |
+| S7 | [Stark_wearing_his_birthday_present_from_Fern_EP12.png](https://frieren.fandom.com/wiki/File:Stark_wearing_his_birthday_present_from_Fern_EP12.png) — T1-12 ≈16:38 | **Sólo las manos**: la muñeca con el regalo de Fern. | **celebrar** (un cumpleaños) |
+| S8 | [Stark_shows_Fern_the_results_of_his_training_EP15.png](https://frieren.fandom.com/wiki/File:Stark_shows_Fern_the_results_of_his_training_EP15.png) — T1-15 ≈16:26 | **De rodillas**, traje formal, **toma la mano de Fern**; ventanal enorme con luz de día. | **invitar** (a un evento, un baile) |
+| S9 | [Stark_mulls_over_his_fight_with_Fern_EP14.png](https://frieren.fandom.com/wiki/File:Stark_mulls_over_his_fight_with_Fern_EP14.png) — T1-14 | Sentado, **codo en la rodilla**, mira al suelo. Chaqueta de invierno. | **pensar** |
+| S10 | [Stark_offers_to_carry_Frieren_EP12.png](https://frieren.fandom.com/wiki/File:Stark_offers_to_carry_Frieren_EP12.png) — T1-12 02:00 «俺が背負うよ» | **Manos abiertas** a la altura del pecho, cara de «¿eh?». Invierno. | «¿te ayudo?» (ayuda, dudas) |
+| S11 | [Stark_prepares_to_fight_the_dragon_EP6.png](https://frieren.fandom.com/wiki/File:Stark_prepares_to_fight_the_dragon_EP6.png) — T1-06 | Plano general: **Stark diminuto frente a un dragón rojo** en un cañón. | escala, reto grande |
+| S12 | [Stark_intimidates_the_townsfolk_EP6.png](https://frieren.fandom.com/wiki/File:Stark_intimidates_the_townsfolk_EP6.png) — T1-06 | Brazo vendado, **agarra a un vecino** con cara de malo (y no lo es). Fern mira. | gag |
+
+**De vídeo y arte**: la misma frase con **manos que tiemblan** (T1-06 02:39,
+§2); **salta con el hacha** en el visual oficial (`personajes_01` n.º 14).
+
+### 15.4 Himmel (siempre en recuerdo)
+
+| N.º | Imagen (ep., minuto) | Qué hace | Sirve para |
+|---|---|---|---|
+| H1 | [Himmel_anime_profile_2.png](https://frieren.fandom.com/wiki/File:Himmel_anime_profile_2.png) (perfil oficial, 312×683) | De pie, **las dos manos sobre el pomo de la espada** clavada delante, capa abierta. Solemne. | **presentar** (como una estatua) |
+| H2 | [Himmel_convinces_Frieren_to_join_the_party_EP13.png](https://frieren.fandom.com/wiki/File:Himmel_convinces_Frieren_to_join_the_party_EP13.png) — T1-13 11:49 «僕たちと一緒に魔王を倒そう» | De pie en el bosque con Heiter y Eisen, **mira a Frieren**, que duda en primer plano. | **invitar** a unirse |
+| H3 | [Himmel_recruits_Frieren_into_his_party_EP10.png](https://frieren.fandom.com/wiki/File:Himmel_recruits_Frieren_into_his_party_EP10.png) — T1-10 | Misma escena desde otro ángulo: Himmel de pie, Frieren agachada entre hierbas. | **invitar** |
+| H4 | [Himmel_reaches_out_to_Frieren_EP17.png](https://frieren.fandom.com/wiki/File:Himmel_reaches_out_to_Frieren_EP17.png) — T1-17 10:26 «手を取れ フリーレン» («Toma mi mano, Frieren») | **Contrapicado**, boca abierta hablando, sonrisa, **mira hacia abajo a quien mira la imagen**. Hojas verdes a contraluz. | **animar** (la mejor para «únete») |
+| H5 | [Himmel_wishing_for_his_handsomeness_to_be_immortalized_EP7.png](https://frieren.fandom.com/wiki/File:Himmel_wishing_for_his_handsomeness_to_be_immortalized_EP7.png) — T1-07 07:44 «僕のイケメンぶりを 残しておかないと» | **Dedo en la frente**, ojos cerrados, **sonrisa presumida**, **brillos** sobre cian. | gag «qué guapo soy»; **presentar** con humor |
+| H6 | [Himmel_smiles_EP12.png](https://frieren.fandom.com/wiki/File:Himmel_smiles_EP12.png) — T1-12 ≈03:27 «じゃあ 本物になってやろうじゃないか» | Contrapicado contra el cielo, **ojos cerrados, sonrisa grande**, pétalos. | **celebrar** |
+| H7 | [Himmel_talks_about_his_sword_EP12.png](https://frieren.fandom.com/wiki/File:Himmel_talks_about_his_sword_EP12.png) — T1-12 ≈03:35 | **Sostiene la espada en vertical** delante del pecho; el grupo alrededor, cielo claro. | **explicar** |
+| H8 | [Himmel_proposes_to_Frieren_EP14.png](https://frieren.fandom.com/wiki/File:Himmel_proposes_to_Frieren_EP14.png) — T1-14 ≈19:35 (2253×1259) | **De rodillas**, le pone el **anillo** a Frieren; calle con torre del reloj al **atardecer rosa**. | emoción; **no** para reglas |
+| H9 | [Episode_37.png](https://frieren.fandom.com/wiki/File:Episode_37.png) — T2-37 ≈15:47 | **Sentado con una rodilla arriba**, **escribe con pluma** en un **cuaderno marrón** apoyado en la rodilla. Luz de fogata en la cara, sonrisa suave. | **escribir / biblioteca / diario** (la mejor para un canal de escritura) |
+| H10 | [Himmel_tells_why_he_bids_short_farewells_EP28.png](https://frieren.fandom.com/wiki/File:Himmel_tells_why_he_bids_short_farewells_EP28.png) — T1-28 22:38 «涙の別れなんて 僕たちには似合わない» | **Mira por encima del hombro**, sonríe, cielo azul. | **despedirse** |
+| H11 | [Aged_Himmel_greets_Frieren_EP1.png](https://frieren.fandom.com/wiki/File:Aged_Himmel_greets_Frieren_EP1.png) — T1-01 | **Himmel anciano**: calvo, bigote blanco enorme, túnica azul, saluda desde la puerta. | **saludar** (tierno) |
+| H12 | [Himmel_after_placing_the_flower_crown_on_Frieren_EP2.png](https://frieren.fandom.com/wiki/File:Himmel_after_placing_the_flower_crown_on_Frieren_EP2.png) — T1-02 | Primer plano, **sonrisa suave**, mira de lado hacia abajo; **lunar bajo el ojo**. | ternura |
+
+**De vídeo**: **se toca la frente con brillos** (clip doblado
+[K8XwKilGTg0 &t=21](https://www.youtube.com/watch?v=K8XwKilGTg0&t=21),
+0:21-0:24); **tiende la mano a cámara** (PV2
+[x8mkolb](https://www.dailymotion.com/video/x8mkolb) 1:18); **sonríe con
+los ojos cerrados** bajo los meteoros ([3XUKmqUDEZc &t=37](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=37));
+**su estatua señala al frente** (PV1 0:27).
+
+### 15.5 Qué pose para cada cosa (resumen)
+
+| Para… | Frieren | Fern | Stark | Himmel |
+|---|---|---|---|---|
+| **presentar** | F1 (bastón en diagonal), roca sobre nubes (PV2 1:26) | E1, E2 | S3 | H1, H5 |
+| **explicar** | **F2** (tras la mesa, con la vela) | E7 (palma con hexágono) | — | H7 |
+| **celebrar** | F4 (dos platos), F7 (ojos cerrados) | E9, la V | S7 | H6 |
+| **regañar** | F5 (bufanda, reojo) | **E4**, E6, E8, E10 | — | — |
+| **pensar** | F6 (dedo en la barbilla), ojos sobre el libro (PV1) | E7 | S9 | — |
+| **animar** | F3, F8 | E11 | S1, S5 | **H4** (contrapicado) |
+| **escribir / leer** | ojos sobre el grimorio (PV1 0:28) | leer bases (escenas_01 n.º 15) | — | **H9** (diario) |
+
+**Reglas que salen de mirar las 48**:
+- Frieren **casi nunca** abre los brazos ni señala. Sus poses son
+  **quietas**: el gesto está en los párpados y en la cabeza ladeada.
+- Fern **regaña con la cara**, no con el dedo: mofletes o mirada plana.
+- Stark **o tiembla o salta**: no hay término medio.
+- Himmel es el único que **mira a cámara en contrapicado y sonríe
+  abierto**. Si la lámina necesita calidez, es él (en recuerdo).
 
 ## 16 · Vestuario
 
