@@ -34,7 +34,7 @@ bajar desde el servidor). Siempre quedarán algunos.
 ## En marcha (19:45 UTC, uso normal de la cuenta al 76 %)
 
 Prueba en cadena:
-- **One Piece (01): redactor en Opus** editando la biblia (desde las 19:18) con
+- **One Piece (01): COMPLETA y subida** (19:45; 2 640 líneas, 345 referencias).
   las 12 partes. Si se cortó: relanzarlo con el mensaje del paso 5 de la skill
   (modo repaso); sigue desde lo que ya haya en `biblia.md`.
 - **One Punch Man (35): 4 investigadores en Sonnet** (desde las 19:21). Imagen
