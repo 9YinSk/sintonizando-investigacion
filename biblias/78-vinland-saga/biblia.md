@@ -1776,3 +1776,256 @@ redactor** en su voz (§18), no citas, salvo donde se dice.
   concepto 1.
 
 ---
+
+## 28 · Lo que no pude verificar
+
+Todo lo que sigue lleva ⚠️ o ❌ en su sección. Se dice «no lo encontré»,
+nunca «no existe», salvo el videojuego (dos fuentes).
+
+**Vídeo y minutos**
+
+- ⚠️ **Nada en 1080p**: YouTube bloqueó la descarga (403). Las tres
+  escenas icónicas y el ED1 sólo se vieron en storyboard de 160×90
+  (minuto ±2 s).
+- ⚠️ **PV5** (tráiler japonés oficial): no se pudo mirar.
+- ⚠️ **Minuto dentro del episodio completo** de las muertes de Thors y
+  Askeladd: sólo el del clip recortado.
+- ⚠️ **Episodio exacto del discurso de Canute** ante su ejército.
+- ⚠️ En el clip del ep. 24, **quién llora** junto a Askeladd (Thorfinn o
+  Canute). En el tráiler 1:31, **quién tira del tocón** (Thorfinn o
+  Einar). En el tráiler 1:21, si el líder es Askeladd.
+- ⚠️ **Making of en vídeo** del staff.
+- ⚠️ AnimeThemes caído todo el día (HTTP 522 y luego timeout).
+
+**Texto y letras**
+
+- ⚠️ **Un globo del manga japonés**: sólo se vio la edición inglesa en
+  la hoja (K Manga pide cuenta japonesa; la wiki sólo aloja portadas y
+  algunas viñetas).
+- ⚠️ Letras de **grito, onomatopeya y narrador**: son propuestas, no se
+  compararon con un panel japonés.
+- ⚠️ Si el anime pone en pantalla la **cartela de fecha y lugar**.
+- ⚠️ Si la **cenefa de runas** del logo de Kodansha USA dice algo.
+- ⚠️ El **rojo exacto de la cartela** del capítulo: no se midió.
+- ⚠️ El **programa digital** de Yukimura desde el cap. 168.
+- ⚠️ La URL directa del **mapa del cruce a Gales** (hoja `fondos_01.jpg`
+  #4, 1160×754) no está en las partes: buscar «WalesCrossing.png» en la
+  wiki.
+
+**Personajes y doblaje**
+
+- ⚠️ **Encuesta oficial de personajes** de Kodansha: no se encontró; sólo
+  la de mejores escenas y encuestas de fans.
+- ⚠️ La encuesta rancolle tiene **pocos votos** (39 el primero).
+- ⚠️ Caras sin fotograma: **vergüenza** de todos, **alegría** de
+  Askeladd y Canute, **tristeza** de Askeladd.
+- ⚠️ Comida y aficiones de **Askeladd y Einar**: no hay databook
+  traducido.
+- ⚠️ Voces de **Arnheid** (Danann Huicochea, Valeria Tavera): sólo
+  Doblaje Wiki.
+- ⚠️ **Frases del doblaje de Crunchyroll**: ninguna transcrita.
+- ⚠️ No hay **muestras de audio** en Doblaje Wiki ni clips doblados
+  oficiales en YouTube.
+- ⚠️ La escena de **cocina de Canute** (cap. 15) sale de la lista de la
+  votación oficial, sin verla.
+
+**Imagen, música y cruces**
+
+- ⚠️ **Portadas de Blu-ray o DVD**: no encontradas.
+- ⚠️ **Fondos de pantalla oficiales**: no encontrados.
+- ⚠️ **Modelo 3D libre de cuerpo entero** de Thorfinn, Canute o Einar.
+- ⚠️ Hex de la **armadura de Thorkell**.
+- ⚠️ **Texturas de nieve, paja y piedra**.
+- ⚠️ **Imágenes de la granja de Ketil** en la wiki (la página tiene 0).
+- ⚠️ Autor del barco de Sketchfab `ecc03f08…` (kreinin o FoxxAssets).
+- ⚠️ Segunda fuente del cruce con **Zombieland Saga**.
+- ⚠️ Qué **tema de la banda sonora** suena en cada escena (sólo nombres
+  de fans).
+- ❌ **Efectos de sonido del anime** que todos reconozcan: no se encontró
+  ninguna lista.
+- ⚠️ Búsquedas en **coreano o chino**: no se hicieron (sí en japonés,
+  inglés, español y alemán).
+
+---
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 5 key visuals, 4 tomos, capítulo 1, revista, artbook con 3 páginas miradas en grande, 15 retratos de AniList y la figma; las 3 hojas miradas número a número (§3). Sin portadas de Blu-ray ⚠️ |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 4 escenas icónicas con episodio y minuto, más el OP1 y el tráiler T2 a 1280×720. Las tres muertes y discursos sólo en storyboard de 160×90: **nada en 1080p** porque YouTube bloqueó la descarga (403) |
+| 3 · Fan art y 3D con licencia | ✅ | 11 fan arts con autor; 10 modelos CC BY de la serie y 4 genéricos, con la forma del crédito (§4). Sin cuerpo entero libre ⚠️ |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 12 paletas medidas con `estilo.py`, con vídeo y segundo; texturas CC0 de papel, tela, cuero, metal y madera. Faltan nieve, paja y piedra ⚠️ |
+| 5 · Tipografía, una letra por uso | ⚠️ | 11 usos, 6 letras libres comprobadas con fontTools (á é í ó ú ñ ¿ ¡). Globo, grito, onomatopeya y narrador sin panel japonés: son propuestas |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | Anime sin globos, visto con minuto; manga: cartela roja, globos de la edición inglesa, narrador y onomatopeya vistos en las hojas; qué cuadro usar (§7) |
+| 7 · Personajes y popularidad | ✅ | AniList, rancolle, TV Tropes, Danbooru y Crunchyroll Awards. **El más querido es Askeladd, un secundario** (§9). Sin encuesta oficial de personajes ⚠️ |
+| 8 · Doblaje latino y frases textuales | ✅ | Dos doblajes con estudio y dirección; 14 papeles con dos fuentes (Arnheid con una ⚠️); 4 frases textuales del doblaje de Netflix con clip y minuto. Ninguna del de Crunchyroll ⚠️ |
+| 9 · Música y sonido | ⚠️ | 6 temas con dos fuentes, OP1 y ED1 mirados enteros, compositor con dos fuentes. **Efectos de sonido del anime no encontrados**; onomatopeya sólo del manga |
+| 10 · Vídeos y tendencias con minuto | ✅ | Tráiler T2 plano a plano, OP1, 6 clips, TikTok de doblaje, short de Lalo Garza, edit vertical, Gigguk. PV5 sin mirar ⚠️ |
+| 11 · Videojuegos | ✅ | No hay videojuego oficial (dos fuentes). Aviso de «Dead in Vinland»; el cruce con *AC Valhalla* es cómic |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Frases, ojos de Thorfinn, Askeladd, dúos por arco, hilos de Reddit; 9 reglas de qué no hacer |
+| 13 · Descripción profunda de cada personaje | ⚠️ | Askeladd, Thorfinn, Canute y Einar a fondo, más 9 secundarios y 7 dinámicas; caras por emoción con minuto, pero sin **vergüenza** de nadie ni alegría de Askeladd y Canute |
+| 14 · Poses analizadas | ⚠️ | 28 poses con minuto o enlace (Askeladd 7, Thorfinn 7, Canute 6, Einar 6, Thors 2) y tabla de uso. **Celebrar** no tiene pose: la serie casi no celebra |
+| 15 · Vestuario con hex | ✅ | Thorfinn, Askeladd, Canute T1 y T2 y Einar medidos sobre diseños oficiales; jomsvikingos; etiquetas de Danbooru. Thorkell sin medir ⚠️ |
+| 16 · Paisajes y fondos de pantalla | ✅ | 9 sitios con luz y hora; 11 fondos de pantalla con tamaño y autor. Sin fondos oficiales ⚠️ |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor (§18): rasgos fijos, paleta, línea, encuadre, palabras que ayudan y que estropean, referencias; voz de cada personaje, frases reales por emoción y vocabulario |
+| 18 · Estilo y cómo replicarlo | ✅ | Equipo, entrevista a Yabuta y Abiru, artbook, Photoshop y Blender paso a paso, encuadres. Programa digital del autor sin confirmar ⚠️ |
+| 19 · Texturas 2D | ✅ | Pinceles de trama libres, papel, tela, cuero, metal, madera y emblemas jomsvikingos. Sin heráldica propia de las bandas ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños, alturas y objetos de 11 personajes. Comida y aficiones de Askeladd y Einar no documentadas |
+| 21 · Por qué la aman y escenas que hacen llorar | ✅ | Razones, premios y ventas; 5 escenas que hacen llorar y 1 de emoción, con capítulo, cómo están hechas y reacción. Minuto del episodio completo ⚠️ |
+| 22 · Fan dubs y comunidad hispana | ✅ | 2 fandubs y 1 cover con vistas, 2 covers más, página de Facebook y TikTok |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | *AC Valhalla*, *The Northman*, prefectura de Saga, Zombieland Saga ⚠️, figma y cosplay |
+| 24 · Obras parecidas | ✅ | AniList, 5 relaciones del autor y las láminas vecinas del servidor |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, 4 arcos con capítulos, tomos y episodios, objetos y vocabulario |
+| Tres conceptos de lámina | ✅ | Tres distintos (casa larga de noche, campo a mediodía, muelle nevado), con objeto para Blender, personaje, cuadro, textos y profundidad. Canal propuesto en §0: **#proyectos** |
+| Cuarenta fuentes distintas | ✅ | **65 webs distintas** enlazadas (medido con `revisar.py` al cerrar); los tipos, en la fila siguiente |
+| Tipos de fuente | ⚠️ | Oficiales ✅ (vinlandsaga.jp, Good Smile, Kodansha y WIT vía la wiki). Idiomas: japonés, inglés, alemán y español ✅; **coreano o chino, no** ⚠️. Wikis y TV Tropes ✅. TCRF no aplica (no hay juego). Wayback probado (TV Tropes y Natalie no archivados). Foros: Reddit y 4chan ✅. Arte: Pixiv, DeviantArt, X ✅. Vídeo ✅. Código: Sketchfab, ambientCG, Fontsource ✅; GitHub sólo un juego de fans ⚠️. Doblaje: Doblaje Wiki por la API, ANMTV, ANN ✅ |
+| Hojas de contacto | ✅ | 3 en `hojas/` (personajes, arte, fondos; de 300 a 370 KB), miradas número a número |
+| referencias.json | ✅ | 162 referencias, las mejores primero, sin las de otras series |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y del recolector. Idioma entre
+paréntesis. ✅ = dos fuentes o visto; ⚠️ = una fuente. Lo que no se
+encontró está en §28.
+
+### Recolector (`herramientas/recolectar.py`, 24-sep-2026, sin IA)
+
+- [AniList](https://anilist.co/anime/101348) (ficha, personajes, equipo,
+  recomendaciones), [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Vinland_Saga)
+  por la API, [wiki de Fandom](https://vinlandsaga.fandom.com/api.php),
+  [Danbooru](https://danbooru.donmai.us/posts?tags=vinland_saga),
+  [Safebooru](https://safebooru.org), [Wallhaven](https://wallhaven.cc),
+  [Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=vinland+saga&downloadable=true),
+  [Openverse](https://openverse.org), [Dailymotion](https://api.dailymotion.com/videos?search=vinland+saga),
+  [Internet Archive](https://archive.org/details/vinland-saga-latino_202107),
+  [MusicBrainz](https://musicbrainz.org) (sólo discos de otras «Saga»),
+  [Steam](https://store.steampowered.com) (vacío) y
+  [Reddit r/VinlandSaga](https://www.reddit.com/r/VinlandSaga).
+- Enlaces oficiales de AniList: [web japonesa](https://vinlandsaga.jp/),
+  [X del anime](https://twitter.com/V_SAGA_ANIME),
+  [Netflix](https://www.netflix.com/title/81249833),
+  [Crunchyroll](https://www.crunchyroll.com/series/GEXH3WKK0/vinland-saga),
+  [HIDIVE](https://www.hidive.com/tv/vinland-saga).
+- Falló: [AnimeThemes](https://api.animethemes.moe) (HTTP 522).
+- Contaminación: parte de Danbooru y Safebooru trajo personajes de otras
+  series; se descartaron.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- Wiki de Fandom por la API (inglés): categorías Locations, Weapons,
+  Merchandise, Media, Volumes, Gallery; todas las categorías; imágenes de
+  Iceland, Vinland, Jomsborg, Markland, Wales, Ketil's Farm, Jomsvikings,
+  Animation Works, Season 2; tamaño real de unos 25 archivos; búsqueda de
+  texto «emblem», «symbol», «banner» (nada) y «Blu-ray» en archivos
+  (nada).
+- Safebooru (inglés): thorfinn, thorfinn_thorsson, einar, vinland_saga.
+- Sketchfab (inglés): «Vinland Saga Thorfinn», «viking longship»,
+  «viking village hut».
+- [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper)
+  (inglés): Fabric, Wood, Leather, Metal, Paper (CC0).
+- goodsmile.info: imagen de la ficha de la figma.
+- Búsquedas web, 6 de ~50: «Vinland Saga colaboración anime crossover
+  café evento» (es), «Vinland Saga collaboration cafe event Japan» (en),
+  «Vinland Saga Thorfinn figura oficial Good Smile Company Pop Up
+  Parade» (es), «Vinland Saga cosplay Thorfinn armor build tutorial» (en),
+  «Vinland Saga artbook … key visual season 2» (en), «Vinland Saga
+  videojuego juego móvil app» (es), «free manga screentone halftone
+  texture pack» (en).
+- Colores con `estilo.py --colores 6`: 5 hojas de diseño, 2 mapas, 2
+  fondos de pantalla, retratos de AniList y una captura de Einar.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+
+- `yt-dlp` en YouTube: metadatos y storyboards sí (`i.ytimg.com/sb/…`,
+  160×90); descarga no (403).
+- Dailymotion (es, en): «Vinland Saga OP, ED, opening, ending, trailer,
+  escena, Torches, Drown, MUKANJYO, River…»; la búsqueda devuelve casi
+  siempre los mismos 10 vídeos: se abrió cada candidato.
+- Wiki de Fandom (inglés): wikitext de MUKANJYO, Torches, Dark Crow,
+  Drown, River, Without Love, Thors, Episode 4, 24 y 44, Canute, Einar y
+  la ficha del anime; búsquedas «opening theme song», «Thors death
+  episode», «Askeladd dies Thorfinn knife episode», «tide speech king»,
+  «command the tide», «soundtrack composer», «sound effect»,
+  «onomatopoeia».
+- AniList GraphQL: equipo del anime. [Jikan](https://api.jikan.moe) caído
+  (504). Wikipedia en inglés: límite de peticiones.
+- `ytsearch` (inglés): «Vinland Saga ED1 Torches Aimer creditless», «Thors
+  death scene official clip», «Askeladd death scene Thorfinn», «Canute
+  transformation king scene», «Einar scene clip».
+- Herramientas: `fotogramas.py` (OP1 entero, tráiler con `--cortes`, 97
+  planos), `estilo.py` (11 paletas).
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- Doblaje Wiki por la API (es): ficha y reparto de los dos doblajes.
+- Wiki de Fandom por secciones: Thorfinn, Askeladd, Canute, Einar,
+  Thorkell, Ylva, Gudrid, Leif, Arnheid, Snake, Thors; categoría
+  Characters entera.
+- Búsquedas web (es, en, ja): «TV Tropes Vinland Saga YMMV», «Vinland
+  Saga encuesta popularidad Newtype Kodansha», «ヴィンランド・サガ 人気投票
+  結果», «Vinland Saga Crunchyroll Anime Awards ranking», «ANMTV Vinland
+  Saga doblaje latino», «"Lalo Garza" Thorfinn», «"Víctor Tabarez"
+  Thorfinn Crunchyroll», «"Aldo Ramírez" Askeladd doblaje», «"Diego
+  Estrada" Einar», «fandub Vinland Saga español latino opening cover»,
+  «Vinland Saga escena que hace llorar Reddit», «memes "true warrior
+  needs no sword"», «Vinland Saga character book databook height
+  birthday», «Vinland Saga why fans love it pacifism review», «Vinland
+  Saga manga ventas premios Kodansha award», «Thorfinn dead eyes motif»,
+  «Vinland Saga fans hate adaptation tone», «r/VinlandSaga favorite
+  character poll», «Arnheid doblaje latino», «Vinland Saga meme español
+  latino chiste interno».
+- [Votación oficial de mejores escenas](https://vinlandsaga.jp/special/best-scene/)
+  (ja, 90 escenas) y [rancolle](https://rancolle.com/ranking/uid21_1739280400)
+  (ja, 4 ediciones), filtrados con Python.
+- 3 clips doblados de Facebook con `voz.py` (Whisper + Praat) y uno con
+  `fotogramas.py --cortes` (31 planos).
+- `yt-dlp --print` para vistas de fandubs y covers.
+- [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=VinlandSaga)
+  (archivo de Reddit): timeout; no se insistió.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- Wiki de Fandom (inglés): las 482 páginas; Story Arcs, Timeline,
+  Vinland, Jomsvikings, Official Guidebook, Animation Works, Makoto
+  Yukimura, Thors, Thorfinn, Askeladd, Canute; `Book1.png`,
+  `Chapter 001.jpg`, `Anime op vinland map.jpg`.
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vinland_Saga_simplified_logo.svg):
+  logo vectorial.
+- Búsquedas web (en): «Vinland Saga logo font typeface fontsinuse»,
+  «Makoto Yukimura interview drawing technique pen research», «WIT
+  Studio director Shuhei Yabuta interview», «season 2 MAPPA studio change
+  animation style», «color palette muted realistic lighting background
+  art», «manga art style line weight screentone hatching», «Vinland Saga
+  video game official», «tvtropes curse of the crown true warrior needs
+  no sword», «Makoto Yukimura Clip Studio Paint digital analog».
+- Búsquedas web (ja): «幸村誠 ヴィンランド・サガ 作画 デジタル アナログ ペン
+  インタビュー», «幸村誠 諫山創 対談 ヴィンランドサガ デジタル 168話 移行».
+- Leídas: Gizmodo y Anime Corner (entrevistas a Yukimura), AnimaniA (de),
+  hilo de @KamuyCentral (Yukimura y Noda), japannakama.co.uk (con
+  cautela), manga-kuroyan.com. TV Tropes y Comic Natalie dieron 403 y no
+  están en [Wayback Machine](https://web.archive.org/web/*/natalie.mu/comic/pp/vinlandsaga*).
+- [Fontsource](https://api.fontsource.org/v1/fonts?subsets=latin-ext):
+  Pirata One, Eater, Anton, Metamorphous, MedievalSharp, Playfair
+  Display, Noto Sans, EB Garamond descargadas y abiertas con fontTools.
+- Sketchfab: licencia y autor de cada modelo con `GET /v3/models/{uid}`.
+
+### Redactor
+
+- Leídas enteras las 4 partes y sus JSON; los `datos-*.md` y `datos.json`
+  para completar (equipo de sonido, reparto sólo de AniList, etiquetas de
+  Danbooru, fondos de pantalla).
+- **Miradas las 3 hojas** de `hojas/`, con recortes ampliados de
+  `personajes_01.jpg` #5 (globos del manga inglés) y `fondos_01.jpg` #7
+  (onomatopeya y narrador) y #9 (tableros del artbook).
+- **Correcciones** que salen de mirar: nombres cruzados de las páginas
+  del artbook y de los KV2 y KV3 (§3); el brazo encadenado es un fondo de
+  fans; el compositor pasa a ✅ con la ficha de equipo de AniList; el
+  barco `ecc03f08…` tiene dos autores distintos según la parte.
+- Canales: mirados `servidor/inventario.md`, los `encargos/` y el
+  `canal:` de cada biblia para proponer uno sin pisar a nadie (§0).
+- `referencias.json`: 162 entradas de `imagen.json`, `video.json`,
+  `voz.json`, `texto.json` y `datos.json`, sin duplicados, sin las de otras
+  series y con las correcciones.
