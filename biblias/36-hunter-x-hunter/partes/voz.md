@@ -521,8 +521,8 @@ minuto donde se puede**:
   63 fotogramas) y clip «Hunter x Hunter - Español Latino» (`xcg420`, 384 s,
   transcrito entero con `voz.py`, doblaje Cazador X 1999).
 - `herramientas/fotogramas.py --cortes` sobre el tráiler oficial → 2 hojas
-  de contacto miradas enteras con `Read` antes de elegir los 8 fotogramas
-  citados.
+  de contacto miradas enteras con `Read` antes de elegir los 12 fotogramas
+  citados (con minuto y enlace `?t=`) para el punto 13.
 - `herramientas/voz.py` sobre el clip doblado → transcripción completa (109
   líneas) con minuto y enlace `?t=`, más ficha de voz (tono, rango,
   velocidad).
