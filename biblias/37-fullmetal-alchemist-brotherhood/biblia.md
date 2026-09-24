@@ -744,7 +744,124 @@ guiño que como presentador.
 
 ## 10 · Doblaje latino y frases textuales
 
-(pendiente)
+Fuente base: el wikitext de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Fullmetal_Alchemist:_Brotherhood)
+por su API (`action=parse&prop=wikitext`). Tiene **dos pestañas de
+reparto**, una por doblaje. Segunda fuente: [ANMTV](https://www.anmtvla.com/2021/10/fullmetal-alchemist-brotherhood-estrena_88.html)
+y la ficha de [AniList](https://anilist.co/anime/5114) («Spanish VA»).
+
+### 10.1 Hay dos doblajes latinos completos
+
+| | Doblaje 1 · Animax | Doblaje 2 · Funimation (redoblaje) |
+|---|---|---|
+| País y años | **Venezuela**, 2011-2012 | **México**, 2021 |
+| Estudio | **M&M Studios**: fue **el último anime** que grabó antes de cerrar (abril de 2012) ✅ | **C&G Dubbing Studio** (antes Artworks Digital Studio) ✅ |
+| Dirección | casting de **Maythe Guedes**; sin director fijo ⚠️ | **Gerardo Ortega y Óscar López** ✅ (Doblaje Wiki + ANMTV) |
+| Traducción | del japonés, con un guion en inglés de apoyo | **Jennifer Medel** (ep. 1-49 y 61) y **Ai Enomoto** (el resto) |
+| Estreno | Animax, licencia de enero de 2011 ([ANMTV](https://www.anmtvla.com/2011/01/animax-latinoamerica-compro-fullmetal.html?m=1)) | Funimation, **14-oct-2021** (ep. 1-24), 28-oct (25-50), el resto en noviembre ✅ |
+| Ritmo | Animax dio **dos semanas para los 7 primeros capítulos** (Eder La Barrera) | — |
+
+### 10.2 Quién dobla a cada uno
+
+| Personaje | Seiyū | Animax (Venezuela) | Funimation (México) | Dos fuentes |
+|---|---|---|---|---|
+| **Edward Elric** | Romi Park | **José Manuel Vieira** | **José Manuel Vieira** | ✅ Doblaje Wiki + AniList |
+| **Alphonse Elric** | Rie Kugimiya | **Jhonny Torres** | **Jhonny Torres** | ✅ Doblaje Wiki + AniList |
+| **Roy Mustang** | Shinichirō Miki | **Rolman Bastidas** | **Rafael Escalante** | ✅ Doblaje Wiki + AniList |
+| **Winry Rockbell** | Megumi Takamoto | **Melanie Henríquez** | **Montserrat Aguilar** | ✅ Doblaje Wiki + AniList |
+| Riza Hawkeye | Fumiko Orikasa | Rocío Mallo | Annie Rojas | ✅ Doblaje Wiki + AniList (cita a las dos) |
+| Maes Hughes | Keiji Fujiwara | Sergio Pinto | Alfredo Gabriel Basurto | Funimation ✅; Animax ⚠️ |
+| Ling Yao | Mamoru Miyano | Eder La Barrera | Gerardo Ortega | Funimation ✅; Animax ⚠️ |
+| Greed / Codicia | Yūichi Nakamura | Salvador Pérez | Óscar López | Funimation ✅; Animax ⚠️ |
+| Scar / Cicatriz | Kenta Miyake | Adolfo Nittoli | Ricardo Brust | Funimation ✅; Animax ⚠️ |
+| Alex Louis Armstrong | Kenji Utsumi | Juan Guzmán | Octavio Rojas | Funimation ✅; Animax ⚠️ |
+| Olivier Mira Armstrong | Yōko Sōmi | Claudia Nieto | Liliana Barba | Funimation ✅; Animax ⚠️ |
+| King Bradley / Ira | Hidekatsu Shibata | José Granadillo | Carlos Segundo | Funimation ✅; Animax ⚠️ |
+| Van Hohenheim | Unshō Ishizuka | Héctor Indriago | Gerardo Reyero | Funimation ✅; Animax ⚠️ |
+| Envidia | Minami Takayama | Yvette García | Jahel Morga | Funimation ✅; Animax ⚠️ |
+| Izumi Curtis | Shōko Tsuda | Citlalli Godoy | Rommy Mendoza | Funimation ✅; Animax ⚠️ |
+| Lujuria | Kikuko Inoue | Elena Díaz Toledo | Georgina Sánchez | Funimation ✅; Animax ⚠️ |
+| Solf J. Kimblee | Hiroyuki Yoshino | Víctor Díaz | Manuel Campuzano | Funimation ✅; Animax ⚠️ |
+| May Chang | Mai Gotō | María José Estévez | Nycolle González | ✅ AniList cita a las dos |
+| Lan Fan | Nana Mizuki | Leisha Medina | Wendy Malvárez | Funimation ✅; Animax ⚠️ |
+| Jean Havoc | Yūji Ueda | Angel Balam | Carlos Monroy | Funimation ✅; Animax ⚠️ |
+| Pinako Rockbell | Miyoko Asō | Valentina Toro | Olga Hnidey | ⚠️ sólo Doblaje Wiki |
+| Trisha Elric | Yoshino Takamori | Maritza Rojas | Patricia Hannidez | ⚠️ sólo Doblaje Wiki |
+| La Verdad | (la voz de quien le habla) | José Méndez (y Nayip Rodríguez al final) | Eduardo Garza | Funimation ✅; Animax ⚠️ |
+
+Los nombres ⚠️ sólo salen en Doblaje Wiki (la tabla y sus «Datos de
+interés»): falta una segunda fuente. La lista completa (32 personajes por
+doblaje) la sacó el investigador de voz del wikitext.
+
+**Datos de oficio** (Doblaje Wiki, «Datos de interés»):
+- **Jhonny Torres** es el único actor que ha doblado a **Alphonse en todas
+  las versiones** de la franquicia ✅ (tabla + trivia).
+- En Animax **volvieron muchas voces de la serie de 2003**: Vieira, Torres,
+  Bastidas, Nittoli (Cicatriz), Víctor Díaz (Kimblee), Sergio Pinto
+  (Hughes), Maritza Rojas (Trisha)…
+- En Animax **todos los personajes con armadura** llevan **filtro de voz**
+  (en 2003 sólo Al). La Verdad tiene filtro de vibración en los caps. 2 y
+  20, y de eco en el resto.
+- En el cap. 4, la voz de Nina quimera **no** lleva filtro en el doblaje;
+  en el 5 (la pesadilla de Ed) sí; en el 26, Leisha Medina usa **su voz
+  grave** en vez de filtro.
+- Del *live action* de 2017 repiten en el redoblaje **Jhonny Torres** y
+  **Montserrat Aguilar** ⚠️.
+- **Herman López** (Sig Curtis) enfermó durante el redoblaje y murió el
+  19-dic-2021; un actor sin identificar le sustituyó desde el cap. 62 ⚠️.
+  Dato delicado: **no llevarlo a una lámina**.
+
+### 10.3 Frases textuales (muestras de audio de Doblaje Wiki, doblaje Animax)
+
+Transcritas con `voz.py` (Whisper en local). El minuto es **el segundo
+dentro de la muestra**, no el del capítulo. Registro, expresividad y
+velocidad, medidos.
+
+| Personaje (actor) | Frase textual | Segundo | Cómo suena |
+|---|---|---|---|
+| **Edward** (José Manuel Vieira) | «¿Por qué nadie entiende que **la alquimista de acero** soy yo?» | 0:53 | medio (177 Hz), muy expresivo (16,5 semitonos), **rápido** (3,18 palabras/s) |
+| **Edward** | «Parece que tendré que obligarte a entregármelo» | 0:49 | ídem |
+| **Roy** (Rolman Bastidas) | «Tú mataste a Hughes, será todo lo que necesitaba saber… ya no tienes que decir nada más» | 0:40-0:46 | **grave** (108 Hz), expresivo (10,7), ritmo normal (2,03) |
+| **Roy** | «Empezó a llover» | 0:35 | ídem |
+| **Maes Hughes** (Sergio Pinto) | «Los hombres son criaturas que dejan que sus acciones hablen por ellos… cuando sienten dolor no quieren que otros sufran ni se preocupen» | 0:34-0:38 | grave (134 Hz) pero **el más expresivo** (23,3) |
+| **Trisha** (Maritza Rojas) | «Son hijos de su padre, estoy orgullosa de ustedes» | 0:18-0:20 | agudo (227 Hz), expresiva (20,5) |
+| **Alphonse niño** | «Hermano, tengo hambre… hace frío… vayamos a casa» | 0:02-0:09 | medio (190 Hz), **lento** (1,79), triste |
+| **Winry niña** | «¿Están leyendo otra vez un libro que no es de la escuela?… no es justo, siempre guardan secretos entre ustedes» | 0:17-0:23 | muy agudo (305 Hz), la más rápida (3,56) y expresiva (28,3) |
+
+Audios: [Edward](https://static.wikia.nocookie.net/doblaje/images/0/04/EdwardElric%28Audio%29FMAB.mp3),
+[Roy](https://static.wikia.nocookie.net/doblaje/images/d/d0/RoyMustang%28Audio%29FMAB.mp3),
+[Hughes](https://static.wikia.nocookie.net/doblaje/images/1/1d/MaesHughes%28Audio%29FMAB.mp3),
+[Trisha](https://static.wikia.nocookie.net/doblaje/images/a/a1/TrishaElric%28Audio%29FMAB.mp3).
+✅ (transcripción propia sobre audio oficial). ⚠️ «la alquimista de acero»
+es lo que oyó Whisper: hay que confirmarlo oyendo (¿«el alquimista»?).
+
+### 10.4 Lo que no se pudo
+
+⚠️ No hay **clips oficiales doblados** que se pudieran bajar: YouTube pidió
+iniciar sesión (y dio 429 al reintentar), Dailymotion sólo tiene tráilers
+sin doblar e Internet Archive no tiene la serie doblada. Las frases de
+Ed, Al y Winry mayores **en una escena larga** quedan por oír (§28).
+
+### 10.5 El vocabulario del doblaje latino (Doblaje Wiki, «Datos de interés») ✅
+
+- **«Equivalencia de intercambio»** (Animax) pasó a **«intercambio
+  equivalente»** (Funimation; Animax también lo decía a veces).
+- **«Alquimista de Acero»** es el apodo de Ed; los avances del redoblaje
+  llaman a la serie «**Fullmetal Alchemist: El Alquimista de Acero**».
+- Los homúnculos: **Lujuria, Gula, Envidia, Avaricia/Codicia, Ira, Pereza,
+  Orgullo** y **Padre**. Greed empieza como «Avaricia» y luego es
+  «Codicia» («Codicia, el avaricioso»). Scar es **Cicatriz**; los de Ishval,
+  **ishvalanos**.
+- En el cap. 10, «Führer» se tradujo **«Generalísimo»**.
+- Cap. 2: Pinako a Ed: «no fue eso, **Pulgarcito**».
+- Cap. 53: un técnico de radio suelta «**¡Ahí te voy, San Pedro!**» (la
+  de Burro en *Shrek*). Cap. 56: Bradley dice «**Sabandija**», con un tono
+  a lo Piccolo.
+- En el redoblaje se oye «**carajo**» (Codicia y Havoc).
+- **Pronunciación**: «Winly» (Animax) / «Winrry» (Funimation); «Máis» /
+  «Mās» (Hughes); «Joenjáim» / «Jojenjáim» (Hohenheim); «Íshval» / «Ishvál».
+- **Envidia** va en **masculino** en los dos doblajes (en japonés no tiene
+  género). No cambiarlo al escribir.
+- En Venezuela, **Gary Matos** leía los letreros y las cartelas.
 
 ## 11 · Música y sonido
 
