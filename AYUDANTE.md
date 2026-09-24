@@ -70,6 +70,10 @@ Es la queja principal del dueño: «no miras vídeos, no te empapas». Leer rese
    `python3 herramientas/fotogramas.py "<url>" --cada 3 --salida <tu-carpeta-de-trabajo>/<nombre>`.
    Saca hojas con el número y el minuto de cada fotograma. **Ábrelas con Read y
    míralas** (`--fotograma <segundo>` saca uno en grande).
+   Si YouTube da 429 o pide «iniciar sesión» (es por ratos: somos varios
+   ayudantes con la misma IP), espera 3-5 minutos y reintenta, de uno en uno.
+   Plan B: los *storyboards* de YouTube, marcando el minuto como ±2 s. Borra el
+   `video.mp4` cuando ya tengas las hojas: el disco es compartido.
 2. Lo que escribas de poses, gestos, ropa, luz, encuadres y tipografía en
    pantalla sale de lo que viste, con **minuto y enlace `&t=`**. Las poses del
    punto 14 salen de aquí y de las hojas de la wiki, no de la memoria.
