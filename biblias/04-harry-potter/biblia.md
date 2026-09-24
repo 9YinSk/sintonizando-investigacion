@@ -38,11 +38,18 @@ fecha: 2026-09-24
 >     láminas, medidas), subtítulos en inglés otra vez (para cruzar minutos).
 >   - Colores **medidos con Pillow** en fotogramas, láminas de MinaLima y
 >     arte oficial de la wiki (se dice de cuál en cada hex).
-> - **Siguen cerradas o fallan:** Wikipedia y Wikimedia Commons (429), bajar
->   vídeo, audio o subtítulos de YouTube, Blog Hogwarts (503), ArtStation (403).
-> - La segunda pasada la hicieron **dos ayudantes seguidos** el mismo día: al
+> - **Siguen cerradas o fallan:** bajar vídeo, audio o subtítulos de YouTube
+>   (sólo dan *storyboards*), Wayback Machine (el túnel se corta), Blog
+>   Hogwarts (503), ArtStation (403), Texturelabs (reto antibots).
+> - La segunda pasada la hicieron **tres ayudantes seguidos** el mismo día: al
 >   primero lo cortó el límite de uso; el segundo terminó §15-§21,
->   `referencias.json`, la tabla de cumplimiento y la bitácora.
+>   `referencias.json`, la tabla de cumplimiento y la bitácora; el tercero
+>   (cierre, tarde del 24-sep-2026) miró **5 vídeos más de verdad con
+>   `fotogramas.py`** (tráiler y *teaser* oficiales de P1 y un fragmento de P1
+>   en 1080p del Internet Archive; Dobby libre y Luna en Dailymotion, 512 px),
+>   leyó la **Wikipedia en español por su API** (ya responde), **DubDB** y
+>   los **créditos de cine del doblaje** (P1 y P2), transcribió con Whisper
+>   las **voces de los insertos** del doblaje latino (§10.3) y resolvió dudas.
 
 **Leyenda**
 - ✅ **confirmado**: dos fuentes, o un archivo que abrí, medí o miré.
@@ -122,9 +129,47 @@ fecha: 2026-09-24
 - Aviso: hay **serie de HBO en marcha** («Harry Potter y la piedra
   filosofal», teaser latino de HBO Max, 2026). No confundir su reparto.
 
-**Marcas de duda:** había **55** antes de la segunda pasada; quedan
-**38** (contadas con `grep -o`; el número incluye la leyenda).
-Lo que sigue dudoso y por qué: §20.
+**Tercer ayudante (cierre): corregido (antes → ahora)**
+- **El tablón de Gryffindor sí sale en la película 1, y lo vi**: la mañana
+  de Navidad (P1 ≈01:28:25), detrás de Harry con la capa. Es **fieltro rojo
+  con una cuadrícula de cintas oscuras y un cordón trenzado rojo y oro** de
+  borde, con tarjetas de Navidad clavadas, junto al tapiz del unicornio
+  (fragmento en 1080p, [0:14](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=14)).
+  Antes sólo teníamos el de Pottermore (O·21). **Cambia el concepto C.**
+- **Quién lee El Profeta en P1**: de dudoso a ✅. Harry le pide el diario a Ron
+  («Can I borrow this?») y lo lee en voz alta (wiki + guion transcrito de
+  [Moviepedia](https://movies.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone/Transcript)).
+- **Luna lee El Quisquilloso al revés**, también en la película: la portada
+  boca abajo ([P5, 0:48 del clip](https://www.dailymotion.com/video/x3dhmzl?start=48);
+  la wiki lo cita del libro 5) ✅. Nuevo guiño para el concepto A.
+- **Doblaje P3**: la Wikipedia en español dice «Art Sound, dirección de
+  Helgar Pedrini»; Doblaje Wiki y DubDB dicen **Audio Post** y ponen a
+  Pedrini como **director creativo** de Warner. Queda Audio Post (dos
+  fuentes contra una, §10.1).
+- **Doblaje P5**: estudio **DAT** ✅ (Wikipedia + Doblaje Wiki). La
+  dirección no cuadra: Herman López (Doblaje Wiki) o Helgar Pedrini
+  (Wikipedia): sigue dudosa.
+- **Nick Casi Decapitado en Hogwarts Legacy es Álvaro Sarlich**, no
+  «Salarich» ([ANMTV](https://www.anmtvla.com/2023/02/hogwarts-legacy-warner-bros-games.html)).
+- **Logo de Hogwarts Legacy**: «Customized from the typeface Tongari»,
+  lo dice **Pentagram**, el estudio que lo diseñó ✅ (antes sólo FontBolt).
+
+**Tercer ayudante: añadido**
+- **La voz de los insertos del doblaje latino**: un narrador **lee en voz
+  alta los titulares de El Profeta** y los carteles («Silencio. TIMOS en
+  progreso…», «Dumbledore y Potter reivindicados», «Harry Potter, el
+  elegido»). Es el anuncio oficial hecho voz (§7.1, §10.3).
+- **Créditos de cine del doblaje** de P1 y P2 (fotos en Doblaje Wiki):
+  confirman estudio, director y voces (§10.1, §10.2).
+- **Logos latinos de cine**: el de P4 dice «Y EL CÁLIZ DE FUEGO», **con
+  tilde** (§6.1).
+- 5 vídeos más mirados con `fotogramas.py` (§12.1), poses nuevas de
+  Hermione, Luna, Dobby y Dumbledore (§15), la caja de diálogo de
+  *Hogwarts Mystery* medida (§7.2).
+
+**Marcas de duda:** había **55** antes de la segunda pasada; **38** cuando
+cerró el segundo ayudante; quedan **31** (contadas con `grep -o`; el número
+incluye la leyenda). Lo que sigue dudoso y por qué: §20.
 
 ---
 
@@ -391,7 +436,8 @@ Lo que dice el texto de la wiki y sirve:
   orientación profesional, clases de Aparición, los decretos de Umbridge y
   **«cada día se clavaban ahí el último Profeta y El Quisquilloso»** ⚠️ (la
   wiki no dice de qué fuente sale esa frase). Sale en las películas 1-6 como
-  decorado, en los juegos y en Pottermore.
+  decorado, en los juegos y en Pottermore. **En P1 lo vi** (mañana de
+  Navidad, 1080p, §3) ✅.
 
 ### 2.5 Libros ilustrados y portadas (2.ª pasada)
 Buscados en el espacio de archivos de la wiki y **mirados**; tamaño por la
@@ -434,12 +480,14 @@ Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 | Peli | Minuto | Qué pasa (lo visto o lo dicho) | Para qué |
 |---|---|---|---|
 | P1 | 00:03:08 a 00:03:37 | Dumbledore deja **una carta** sobre el bebé en la puerta de Privet Drive. Sobre de pergamino, tinta verde: «Mr. and Mrs. Dursley, 4 Privet Drive…». Después, el título dorado sobre nubes ([clip oficial 3:08](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=188), [3:23](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=203), [3:37](https://www.youtube.com/watch?v=PdVxAuFY1Bk&t=217)) ✅ visto | El primer «aviso» de la saga es una carta. |
-| P1 | 00:42:20 a 00:42:50 | Dumbledore, **de pie en la mesa de profesores, entre velas** (F·1): «I have a few start-of-term notices…». Prohíbe el Bosque Oscuro y el pasillo del tercer piso «a quien no desee sufrir una muerte muy dolorosa». En P1 **no hay atril del búho** ✅ (F·1 + wiki). Subtítulo oficial de HBO Max: «Los de primer año deben saber que el bosque oscuro está estrictamente prohibido» ([tráiler 1:12](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=72)) | **Un anuncio oficial en el mundo de la serie.** Concepto B. |
+| P1 | 00:42:20 a 00:42:50 | Dumbledore, **de pie en la mesa de profesores, entre velas** (F·1): «I have a few start-of-term notices…». Prohíbe el Bosque Oscuro y el pasillo del tercer piso «a quien no desee sufrir una muerte muy dolorosa». En P1 **no hay atril del búho** ✅ (F·1 + wiki). Subtítulo oficial de HBO Max: «Los de primer año deben saber que el bosque oscuro está estrictamente prohibido» ([tráiler 1:12](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=72)). **Visto en vídeo real** (tráiler oficial de 2001, 720p, [1:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=75)): Harris **de pie en el centro de la mesa**, brazos caídos dentro de la túnica, copa dorada delante; McGonagall sentada a su derecha, de terciopelo verde; velas blancas en candelabros sobre la mesa; detrás, paneles de madera y ventanales de rombos azul noche ✅ | **Un anuncio oficial en el mundo de la serie.** Concepto B. |
 | P1 | 00:53:45 | «Mail's here»: entran las lechuzas al desayuno. | El correo cae en la mesa. Concepto A. |
-| P1 | 00:54:38 a 00:54:57 | Leen El Profeta en voz alta: robo en Gringotts, cámara 713. Responde Harry: «That's the vault Hagrid and I went to». Lo lee **Harry**, según la wiki de la película («while reading the Daily Prophet, Harry mention Vault 713») ⚠️ una fuente; no encontré clip oficial de la escena. La portada de ese número: O·2. | **El Profeta sobre la mesa del Gran Comedor.** Concepto A. |
+| P1 | 00:54:38 a 00:54:57 | Leen El Profeta en voz alta: robo en Gringotts, cámara 713. Responde Harry: «That's the vault Hagrid and I went to». Lo lee **Harry**: a él no le llega correo, **le pide el diario a Ron** («Can I borrow this?») y lo lee en voz alta ✅ (wiki de la película + [guion transcrito de Moviepedia](https://movies.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone/Transcript)). No encontré clip oficial de la escena. La portada de ese número: O·2. | **El Profeta sobre la mesa del Gran Comedor.** Concepto A. |
 | P1 | 00:09:50 a 00:12:00 | «No more mail through this letterbox»; luego la lluvia de cartas por la chimenea (F·22). | Las novedades llegan sí o sí. |
+| P1 | ≈01:28:10 a 01:28:45 | Mañana de Navidad en la sala común: Harry se prueba la capa (01:28:20). **Detrás, el tablón de anuncios de Gryffindor**: fieltro rojo oscuro con una **cuadrícula de cintas finas**, **borde de cordón trenzado rojo y oro**, tarjetas de Navidad y notas a mano clavadas; al lado, el tapiz del unicornio con collar de lunas. Visto en 1080p (fragmento académico TECHNÈS, Univ. de Montreal, [0:14](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=14), [0:20](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=20), [0:29](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=29)) ✅ | **El tablón real de las películas.** Concepto C. |
 | P1 | 02:19:16 | Dumbledore da los últimos puntos: 50 para Hermione. | Celebrar. |
 | P2 | 00:34:11 a 00:34:56 | El vociferador en el desayuno: **se abre el sobre rojo** ([clip 0:17](https://www.youtube.com/watch?v=fBziSx7RtqY&t=17)), **se levanta de la mesa y es una boca con dientes de papel** ([0:25](https://www.youtube.com/watch?v=fBziSx7RtqY&t=25)), grita a Ron a la cara ([0:39](https://www.youtube.com/watch?v=fBziSx7RtqY&t=39)) y **se rompe en confeti** sobre libros abiertos ([0:57](https://www.youtube.com/watch?v=fBziSx7RtqY&t=57)) ✅ visto. **En 1080p** (vídeo «en 23 idiomas», §12): el sobre en la mano con etiqueta de caligrafía «Ronald Weasley, Hogwarts School of Witchcraft & Wizardry» ([0:16](https://www.youtube.com/watch?v=3KNNglv24a0&t=16)); la boca de papel con dientes y el texto de la carta dentro ([0:26-0:28](https://www.youtube.com/watch?v=3KNNglv24a0&t=26)); Ron con los ojos muy abiertos, encogido ([0:32](https://www.youtube.com/watch?v=3KNNglv24a0&t=32)). En latino: «**¡Ronald Weasley! ¡Cómo osaste robar el auto!**» ([15:55-16:03](https://www.youtube.com/watch?v=3KNNglv24a0&t=955), §10.3) ✅ | Otro «cuadro» que habla. En latino se llama **vociferador**. |
+| P2 | 02:25:12 a 02:26:30 | «Master has given Dobby a sock. Dobby is free.» Dobby **alarga un dedo hacia el calcetín** con media sonrisa pícara; luego **se planta delante de Harry**, pies separados y palmas abiertas, ante Lucius («You shall not harm Harry Potter», 02:25:41); al final, primer plano con la **cabeza ladeada y los ojos húmedos**. Visto en vídeo real (copia de fan en Dailymotion, audio francés, 512×216: [3:00](https://www.dailymotion.com/video/x3d4quh?start=180), [3:20](https://www.dailymotion.com/video/x3d4quh?start=200), [4:00](https://www.dailymotion.com/video/x3d4quh?start=240)) ✅ | La libertad de Dobby: celebrar. |
 | P3 | 00:10:36 | En el autobús noctámbulo, la foto de Sirius Black se mueve en El Profeta. | **La foto que se mueve.** |
 | P3 | 00:23:44 a 00:25:45 | **El atril del búho, por primera vez.** Dumbledore **abre los brazos** tras las alas doradas: «Welcome! Welcome to another year at Hogwarts» ([clip 0:43](https://www.youtube.com/watch?v=dvFehFzph7I&t=43)); presenta a Lupin ([1:05](https://www.youtube.com/watch?v=dvFehFzph7I&t=65)); **alza los dos índices**: «happiness can be found… if one only remembers to turn on the light» ([2:42](https://www.youtube.com/watch?v=dvFehFzph7I&t=162)) y **apaga una vela con los dedos** ([2:48](https://www.youtube.com/watch?v=dvFehFzph7I&t=168)) ✅ visto | **El discurso desde el atril.** Concepto B. |
 | P3 | 00:24:21 a 00:24:39 | **Anuncia a Hagrid como nuevo profesor**: «I'm delighted to announce… that his place will be taken by none other than our own Rubeus Hagrid». Dumbledore tras el atril ([clip 1:31-1:39](https://www.youtube.com/watch?v=dvFehFzph7I&t=91)), Hagrid se levanta en la mesa de profesores ([1:41-1:53](https://www.youtube.com/watch?v=dvFehFzph7I&t=101)) y **el comedor aplaude** ([1:55-1:57](https://www.youtube.com/watch?v=dvFehFzph7I&t=115)) ✅ visto (*storyboard* 160×90) y subtítulo inglés | **Un anuncio que alegra**: el tono justo para #anuncios. «Me complace anunciar» es la fórmula. |
@@ -448,10 +496,13 @@ Películas: **P1** La piedra filosofal · **P2** La cámara secreta ·
 | P4 | 00:16:31 a 00:17:02 | Dumbledore: «I'd like to make an announcement». Anuncia el Torneo. | **Otro anuncio desde el atril** (la wiki lo lista en P4). |
 | P4 | 00:20:04 | «Eternal glory». | Presentar con énfasis. |
 | P4 | 01:06:47 a 01:07:20 | **McGonagall anuncia el baile de Navidad** a los de Gryffindor. En latino: «La víspera de Navidad, junto con nuestros invitados, nos reunimos en el gran salón para una noche de recatada frivolidad» (§10.3) ✅ | Un aviso del staff, con humor. |
-| P5 | 00:29:41 a 00:30:06 | Luna en el carruaje: lee **El Quisquilloso tapándose la cara** ([clip 0:59](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=59)) y **mira a Harry por encima** ([1:09](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=69)) ✅ visto | Luna y su revista. |
+| P5 | 00:29:41 a 00:30:06 | Luna en el carruaje: lee **El Quisquilloso tapándose la cara** ([clip 0:59](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=59)) y **mira a Harry por encima** ([1:09](https://www.youtube.com/watch?v=8k2bj-R9m8E&t=69)) ✅ visto. En vídeo real (Dailymotion, 512×288, [0:48](https://www.dailymotion.com/video/x3dhmzl?start=48)): **la revista está al revés**, con el título «QUIBBLER» abajo y boca abajo; botas de agua rojas ([0:44](https://www.dailymotion.com/video/x3dhmzl?start=44)) ✅ (y la wiki lo cita del libro 5) | Luna y su revista. |
 | P5 | 00:50:13 | Umbridge cita el «Decreto de Educación n.º 23». | Los decretos clavados. |
 | P5 | 00:54:01 | Hermione abre la primera reunión del ED. En latino: «**Ya saben a qué vinieron**» (§10.3) ✅ | Explicar a un grupo. |
-| P6 | 00:22:36 a 00:22:57 | Luna reparte El Quisquilloso («Quibbler… Quibbler…») y explica los *wrackspurts*. Es **en el pasillo del expreso de Hogwarts**: la wiki lo dice en las diferencias libro-película («Luna is seen in the corridor selling issues of the Quibbler») ✅ | Luna repartiendo prensa. |
+| P5 | ≈01:34:20 | Examen de los TIMOS en el Gran Comedor (justo antes de los gemelos, 01:34:39). En latino, **una voz lee el cartel**: «Silencio. TIMOS en progreso. Examen de teoría de encantamientos. Comienza a las 16 horas, termina a las 18» (§10.3) ✅ oído | **Un aviso oficial leído en voz alta.** |
+| P5 | 02:03:25 a 02:04:35 | Tras «He's back», los titulares de El Profeta giran en pantalla. En latino **el narrador los lee**: «Dumbledore y Potter reivindicados. ¿Renunciará el ministro? … Director de Hogwarts, restituido» (§10.3) ✅ oído | **El Profeta, dicho en voz alta.** |
+| P6 | ≈00:03:15 | En un café muggle, Harry lee El Profeta con su foto. En latino, la voz de los insertos: «**Harry Potter, el elegido.** Se derrumba puente. Aumenta el número de muertos» (§10.3) ✅ oído | Titular leído en voz alta (tono oscuro). |
+| P6 | 00:22:36 a 00:22:57 | Luna reparte El Quisquilloso («Quibbler… Quibbler…») y explica los *wrackspurts*. Es **en el pasillo del expreso de Hogwarts**: la wiki lo dice en las diferencias libro-película («Luna is seen in the corridor selling issues of the Quibbler») y el guion transcrito dice «She runs down the aisle with the magazine in her hand» ([Moviepedia](https://movies.fandom.com/wiki/Harry_Potter_and_the_Half-Blood_Prince/Transcript)) ✅ | Luna repartiendo prensa. |
 | P7 | 00:32:51 | Xenophilius Lovegood: El Quisquilloso frente a El Profeta. | Prensa libre contra prensa oficial. |
 | P7 | 02:08:59 a 02:09:18 | Dobby: «Dobby has no master. Dobby is a free elf». En latino: «**Dobby no tiene amo. Dobby es un elfo libre**» (§10.3) ✅ | Una proclama. |
 | P8 | 00:35:09 a 00:36:33 | Snape, director, reúne al colegio. En latino: «Si cualquiera, estudiante o maestro, pretendiera ayudar al señor Potter, será castigado…» (§10.3) ✅ | Aviso del «staff», en tono oscuro: **qué NO**. |
@@ -555,6 +606,14 @@ del Studio Tour (§2.2).
   [HP Lexicon](https://www.hp-lexicon.org/thing/notice-board/)) ✅.
 - **El tablón oficial (Pottermore, O·21) es de fieltro rojo oscuro, no de
   corcho**, con marco de madera tallada casi negra.
+- **El de la película 1** (visto en 1080p, [fragmento TECHNÈS, 0:14](https://archive.org/download/670343/colombus_harry_potter_philosophers_stone_extrait.HD.mp4#t=14)):
+  también **fieltro rojo**, pero dividido en cuadros por **cintas finas
+  oscuras** y rematado con un **cordón trenzado rojo y oro**. Tarjetas de
+  Navidad y notas en papel crema, algunas torcidas. A su izquierda, el tapiz
+  de flores con **un unicornio blanco con collar azul de lunas**; delante,
+  butacas de terciopelo rojo. Luz de mañana de invierno, tenue y cálida.
+  Medido en ese fotograma (con su penumbra): fieltro `#32100F`, cordón con
+  luz `#704131`, tapiz `#401716`, butaca `#210D0F`.
 - Paleta medida en O·21 (1100×1100): fieltro `#51201D`, marco `#1D120C` /
   `#32231B`, tapiz `#4A211C`, papel de las notas `#D7D2CB`.
   ~~rojo tapiz `#7A1F1F` · dorado `#C8A04A` · fuego `#E0782F` · corcho `#B8895A` · pergamino `#E9DFC7`~~ (a ojo).
@@ -576,7 +635,7 @@ Comprobadas por la API de Poly Haven y ambientCG (autor y tamaño máximo) ✅.
 | Papel | [Paper001](https://ambientcg.com/view?id=Paper001), [Paper005](https://ambientcg.com/view?id=Paper005) | ambientCG | CC0 |
 | Periódico viejo | [Texturelabs paper_290](https://texturelabs.org/textures/paper_290/) | Texturelabs | gratis; la página de condiciones devuelve un reto antibots (202) y no la pude leer ⚠️ |
 | Corcho | [Cork001](https://ambientcg.com/view?id=Cork001) | ambientCG | CC0 |
-| Fieltro rojo del tablón | no busqué una textura de fieltro: teñir [Paper005](https://ambientcg.com/view?id=Paper005) o una tela a `#51201D` | — | — |
+| Fieltro rojo del tablón | no busqué una textura de fieltro: teñir [Paper005](https://ambientcg.com/view?id=Paper005) o una tela a `#51201D` (luz de Pottermore) o `#32100F` (penumbra de P1); el cordón trenzado rojo y oro, con una curva y un material de cuerda | — | — |
 | Cartón del marco | [Cardboard004](https://ambientcg.com/view?id=Cardboard004) | ambientCG | CC0 |
 
 MinaLima **prefiere escanear papeles antiguos reales** a usar vectores limpios
@@ -596,6 +655,27 @@ a propósito**, para que no parecieran cortados a máquina
   STONE», sobre nubes de noche. En el [tráiler de HBO Max Latinoamérica, 2:05](https://www.youtube.com/watch?v=ZgrCZVjPg9g&t=125)
   el mismo logo dice «**Harry Potter y la piedra filosofal**»: el título
   latino oficial ✅. Oro medido en el comienzo: `#B19F72` sobre `#3A3331`.
+- **Los logos latinos de cine** (fotos de la pantalla en Doblaje Wiki,
+  miradas): P1 «Harry Potter **Y LA PIEDRA FILOSOFAL**» en oro sobre nubes
+  ([imagen](https://static.wikia.nocookie.net/doblaje/images/c/cc/Harry_Potter_y_la_Piedra_Filosofal_Logo_Espa%C3%B1ol_para_Cines.png), 1342×622);
+  P3 «Y EL PRISIONERO DE AZKABAN» en acero ([imagen](https://static.wikia.nocookie.net/doblaje/images/5/54/Harry_Potter_y_el_prisionero_de_Azkaban_-_Logo_cine.png), 1886×881);
+  P4 «**Y EL CÁLIZ DE FUEGO**» en plata, **con la tilde en la Á**
+  ([imagen](https://static.wikia.nocookie.net/doblaje/images/0/02/Harry_Potter_y_el_C%C3%A1liz_de_Fuego_Logo_Espa%C3%B1ol_para_Cines.png), 1548×1045) ✅.
+  El subtítulo va en **versalitas con serifa en cuña**, la «Y» y el «EL»
+  pequeños y montados. Prueba de que en español el logo lleva tildes: la
+  letra que se use tiene que traerlas.
+- **La cartela del tráiler de 2001** (720p, [2:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=135)):
+  «THE MAGIC BEGINS» y luego «SOON», **versalitas doradas, espaciadas,
+  con serifas en cuña**, sobre nubes de tormenta azul pizarra. Es la misma
+  familia que el subtítulo del logo ✅ visto. Para #anuncios, una línea así
+  («PRÓXIMAMENTE») queda muy de la saga: la letra libre más cercana es
+  **Cinzel** o **IM Fell English SC** (§6.2).
+- **La letra de las cartas de Hogwarts** (*teaser* de 2001, [0:24](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=24)):
+  «Mr. H. Potter, The Cupboard under the Stairs, 4, Privet Drive, Little
+  Whinging, Surrey», **caligrafía de pluma en tinta verde oscura**,
+  mayúsculas y minúsculas mezcladas y alguna mayúscula pequeña dentro de
+  la palabra («StaiRs», «DRive»). Medido en el fotograma del *teaser*
+  (con poca luz): papel `#7E7063`, tinta `#4B4838`.
 - **Las cartelas de los tráileres** en español (P8, [WB Pictures Latinoamérica, 0:09](https://www.youtube.com/watch?v=-kDonIIXuqo&t=9)):
   «CADA MOMENTO DE SU VIDA», «ESTE AÑO», «SE ACABA». Mayúsculas romanas con
   serifa, grabadas en metal, entre humo gris. Tono oscuro: **no** para
@@ -618,8 +698,11 @@ a propósito**, para que no parecieran cortados a máquina
   [foro de dafont](https://www.dafont.com/forum/read/12072/the-daily-prophet-font)) ⚠️.
 - **Mapa del Merodeador**: dibujado a mano por Miraphora. Su letra se usó en
   los créditos de P3 y P4 ([MinaLima](https://minalima.com/product/the-marauders-map/)).
-- **Logo de Hogwarts Legacy**: versiones retocadas de *Tongari* y *Tautz*,
-  según una web de letras ([FontBolt](https://www.fontbolt.com/font/hogwarts-legacy-font/)) ⚠️.
+- **Logo de Hogwarts Legacy**: «Customized from the typeface **Tongari**,
+  the spurred serif…», con biselado y ligaduras propias; lo dice
+  [Pentagram](https://www.pentagram.com/work/hogwarts-legacy/story), el
+  estudio que lo diseñó, y lo repite [FontBolt](https://www.fontbolt.com/font/hogwarts-legacy-font/) ✅.
+  Que «LEGACY» vaya en *Tautz* sólo lo dice FontBolt ⚠️.
   La letra de sus menús y subtítulos **no la encontré**.
 - **Magic Awakened**: letra medieval un poco gótica, con el rayo de Harry
   como guiño ([GameRes](https://www.gameres.com/885575.html),
@@ -627,7 +710,8 @@ a propósito**, para que no parecieran cortados a máquina
 
 ### 6.2 Letras libres comprobadas por mí
 Bajé cada `.ttf` de [google/fonts en GitHub](https://github.com/google/fonts)
-y miré con fontTools si trae **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü**. Las 12 los traen.
+y miré con fontTools si trae **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü**. Las 13 los traen
+(Cinzel, añadida en el cierre: 367 glifos, no le falta ninguno).
 
 | Letra | Para qué | ¿Tildes, ñ, ¿ ¡? |
 |---|---|---|
@@ -636,6 +720,7 @@ y miré con fontTools si trae **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü**. 
 | **IM Fell DW Pica** | columnas de texto pequeño | ✅ |
 | **IM Fell English SC** | subtítulos en versalitas, rótulos del Mapa | ✅ |
 | **Cinzel Decorative** | titular de aviso solemne | ✅ |
+| **Cinzel** | versalitas tipo «THE MAGIC BEGINS» del tráiler de 2001 y el subtítulo del logo | ✅ |
 | **Almendra** | notas del tablón, aire medieval | ✅ |
 | **Grenze Gotisch** | cabecera gótica más legible | ✅ |
 | **Pinyon Script** | firma de Dumbledore o McGonagall | ✅ |
@@ -682,15 +767,22 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
      ([New Statesman](https://www.newstatesman.com/culture/2015/12/graphic-art-harry-potter-films-two-designers-bringing-fiction-life)).
    - Tenía de todo, como un diario real: lotería, horóscopos, esquelas.
      Y en el tiempo de cada número aparece **Caxambu**, el pueblo de Brasil
-     donde creció Eduardo Lima
-     ([Steps to Magic](https://stepstomagic.com/house-of-minalima-london-fun-facts/)) ⚠️ una fuente.
+     donde creció Eduardo Lima ✅
+     ([Steps to Magic](https://stepstomagic.com/house-of-minalima-london-fun-facts/);
+     y el propio Lima en [O Tempo, 2017](https://www.otempo.com.br/entretenimento/magazine/designer-mineiro-e-o-criador-de-diversos-objetos-de-harry-potter-1.1554532):
+     «Caxambu está até na previsão do tempo»). Lima hacía de editor: él
+     firmaba como reportero, su madre salía como «editora de Seguridad», y
+     hay titulares de broma como «Ginger witch arrested in Caxambu with fake
+     henna». **Un periódico lleno de guiños internos: justo lo que puede
+     llevar la lámina** (un titular pequeño con un guiño del servidor).
    - **En la lámina**: el titular dice el canal; la foto es un fotograma
      real; las columnas llevan los textos.
 2. **El discurso desde el atril del búho**: desde P3 (clip oficial, §3) y en
    P4, P5 y P6. En P1 Dumbledore da los avisos de pie en la mesa (00:42:20,
    F·1). En la lámina, un **pergamino sobre el atril** con los avisos.
 3. **El tablón de anuncios** de Gryffindor: en los libros, en los juegos,
-   en Pottermore (O·21) y de fondo en las películas 1-6 (según la wiki).
+   en Pottermore (O·21) y de fondo en las películas 1-6 (según la wiki; en
+   P1 lo vi: fieltro rojo en cuadros de cinta y cordón rojo y oro, §3, §5).
    **Fieltro rojo oscuro con marco tallado**; notas en papel crema, con letra
    de alumno a mano («LOST: a purple Care of Magical Creatures textbook»,
    «Potion Rules», «Top Ten Spells»). La wiki dice que ahí se clavaban cada
@@ -719,6 +811,14 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 9. **La cinta de pergamino de los créditos de P3**: cada nombre en una
    filacteria dibujada a pluma, con huellas alrededor (§6.1). Es un marco de
    texto del propio mundo, sin globo.
+10. **La voz de los insertos (sólo en el doblaje latino)** ✅: cuando sale
+    un texto en pantalla, **un narrador lo lee**. Así el público latino
+    «oyó» El Profeta: «Dumbledore y Potter reivindicados», «Harry Potter,
+    el elegido», y hasta el cartel del examen: «Silencio. TIMOS en
+    progreso» (§10.3). Lo hacen Francisco Colmenero (título de P1) y Helgar
+    Pedrini (P3-P6), según Doblaje Wiki. **Para la lámina**: el titular de
+    la portada puede escribirse como se leería en voz alta, corto y en
+    presente, igual que esos titulares.
 
 ### 7.2 En los videojuegos
 - **Magic Awakened**: interfaz «de escena». Papel medieval, libros de
@@ -740,8 +840,16 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - **La cámara secreta, Game Boy Color**: RPG con cajas de texto clásicas
   ([TCRF](https://tcrf.net/Harry_Potter_and_the_Chamber_of_Secrets_(Game_Boy_Color)),
   [Spriters Resource](https://www.spriters-resource.com/game_boy_gbc/harrypotterthechamberofsecrets/)).
-- **Hogwarts Mystery** (Jam City, 2018): retrato del personaje y caja de
-  texto; no llegué a ver capturas ⚠️
+- **Hogwarts Mystery** (Jam City, 2018): vista la [captura de la wiki](https://static.wikia.nocookie.net/harrypotter/images/4/4b/Rowan_mentions_Maya.png)
+  (1920×1080) ✅. La caja es **una franja ancha abajo, azul petróleo
+  translúcido** (`#0F222B` a `#103D4E`), con **el nombre en dorado con
+  serifa** (`#D6CCAC`) arriba a la izquierda, el texto en blanco azulado
+  (`#D8F3FD`) y las respuestas en **botones rectangulares** de fondo
+  `#023341` y filo turquesa `#118D94`. En otras capturas Dumbledore y Rita
+  Skeeter hablan **desde el atril del búho**
+  ([1](https://static.wikia.nocookie.net/harrypotter/images/9/93/Professor_Dumbledore%27s_start-of-term_speech_HM41.png),
+  [2](https://static.wikia.nocookie.net/harrypotter/images/a/aa/Rita_Skeeter%27s_Great_Hall_speech_HM.png)).
+  Es una caja de móvil, moderna: sirve como contraste, no para la lámina
   ([Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter:_Hogwarts_Mystery),
   [portafolio de su diseñador de UI](https://cargocollective.com/richoki/Harry-Potter-Hogwarts-Mystery)).
 
@@ -767,9 +875,12 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   por los elfos domésticos.
 - **Miedo**: suspender, que la expulsen. «Or worse, expelled» (P1 01:03:32).
 - **Relaciones**: corrige a Ron y acaba con él. Cuida a Harry. Choca con Draco.
-- **Cómo habla**: rápido, con datos, corrigiendo. Levanta la mano antes de
-  que acaben la pregunta ⚠️ (de memoria; en el clip de Pociones, a 160×90,
-  no se distingue). Explica con paciencia de profesora. Se enfada
+- **Cómo habla**: rápido, con datos, corrigiendo. **Levanta la mano muy
+  estirada** mientras Snape pregunta a Harry ✅ (guion transcrito de
+  [Moviepedia](https://movies.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone/Transcript):
+  «Hermione raises her hand… Hermione's hand raises again»; y la
+  [captura de la wiki](https://static.wikia.nocookie.net/harrypotter/images/9/9f/Hermione_with_her_Hand_Up.jpg),
+  500×759: brazo recto arriba, dedos juntos, ojos muy abiertos). Explica con paciencia de profesora. Se enfada
   en seco: «Ron, you spoiled everything!» (P4 01:22:02).
 - **Cuerpo** (visto en el [clip de Leviosa](https://www.youtube.com/watch?v=Qgr4dcsY-60&t=4)):
   **agarra el brazo de Ron** para frenarlo (0:04), explica con la cabeza
@@ -804,6 +915,10 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   (0:53-1:07), asoma los ojos por encima y **mira a Harry sin parpadear, con
   media sonrisa** (1:09-1:12). Luego la revista en el regazo (1:22). Mirada
   soñadora, cabeza un poco ladeada. Gafas espectrales y revista: P·11.
+  **La revista, al revés**: en vídeo real se ve el título «QUIBBLER» boca
+  abajo mientras ella mira a Harry por encima ([0:48](https://www.dailymotion.com/video/x3dhmzl?start=48)); en el libro 5
+  Harry la ve igual, «reading a magazine upside down» (wiki) ✅. Botas de
+  agua rojas y collar de corchos de cerveza de mantequilla.
 - **En latino** (Lu Leal, P5-P8): voz suave, frases cortas y raras dichas
   con calma. «Hola, Harry. **Torposoplos. Tienes la cabeza llena**» (P6;
   Whisper oyó «torposolos»: en los libros en español son «torposoplos» ⚠️).
@@ -826,7 +941,10 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 - **Cuerpo** (visto en el [clip del calcetín, P2](https://www.youtube.com/watch?v=8DTb-lseCdQ&t=59)):
   sostiene el diario con el calcetín dentro (0:59-1:03); **de pie, erguido,
   con el calcetín** (1:34); **cabeza ladeada, ojos húmedos y sonrisa** al
-  despedirse (1:58-2:00). En el arte: **chasquea los dedos con la mano en
+  despedirse (1:58-2:00). En vídeo real (Dailymotion, 512 px): **alarga un
+  dedo larguísimo hacia el calcetín**, pícaro ([3:00](https://www.dailymotion.com/video/x3d4quh?start=180)); **se planta delante de
+  Harry, pies separados y palmas abiertas**, pequeño y valiente ([3:20](https://www.dailymotion.com/video/x3d4quh?start=200));
+  y agradece con la **cabeza ladeada y los ojos húmedos** ([4:00](https://www.dailymotion.com/video/x3d4quh?start=240)). En el arte: **chasquea los dedos con la mano en
   alto** (P·18), **brazos en jarra** (P·19). Orejas de murciélago, funda de
   almohada.
 - **En latino** (Ismael Castro, P2 y P7): siempre en tercera persona.
@@ -854,7 +972,11 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   **abre los brazos en alto** tras el atril (0:43-0:45), camina hacia las
   mesas de espaldas (0:47-0:55), **alza los dos índices** para subrayar
   (2:42-2:44) y **apaga una vela con los dedos** (2:48). En P1 (Harris),
-  de pie en la mesa entre velas, túnica burdeos con dibujo dorado (F·1, P·27).
+  de pie en la mesa entre velas, túnica burdeos con dibujo dorado (F·1, P·27);
+  en el tráiler de 2001, **erguido en el centro de la mesa, los brazos
+  caídos dentro de la túnica**, solemne ([1:15](https://archive.org/download/harry-potter-and-the-sorcerers-stone-2001-720p-trailer/Harry%20Potter%20and%20the%20Sorcerers%20Stone_2001_720p_trailer.mp4#t=75)),
+  y en el *teaser*, **bebiendo de una copa dorada** con gorro de terciopelo
+  burdeos de estrellitas, en un sillón dorado tallado ([0:51](https://archive.org/download/HarryPotterTheSorcerersStoneTrailer1/HarryPotterTheSorcerersStoneTrailer1.mp4#t=51)).
 - **En latino** (César Arias): pausado, de abuelo sabio. «**Siempre se
   ayudará en Hogwarts, Harry, a quienes lo pidan.** Las palabras son, en mi
   no tan humilde opinión, nuestra fuente más inagotable de magia, capaces
@@ -872,7 +994,8 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
   Ugarte desde P3): deduce en voz alta, rápido. «Está buscando algo que era
   propiedad de Gregorovitch… **Me ponen los pelos de punta**» (P7).
 - **Para #anuncios**: el diario se lee en voz alta en el desayuno
-  (P1 00:54:38) y, según la wiki de la película, lo lee él (§3):
+  (P1 00:54:38) y lo lee él ✅ (wiki + guion transcrito, §3): no le llega
+  correo, **le pide el diario a Ron** («Can I borrow this?») y lee:
   «Somebody broke into Gringotts. Listen…» y «That's the vault Hagrid and I went to».
 
 ### Ron Weasley
@@ -914,8 +1037,8 @@ No hay globos. Ya lo dice la guía de cuadros de diálogo del repositorio
 | Encuesta | Votos | Resultado |
 |---|---|---|
 | Bloomsbury, editorial inglesa, 2011 | más de 70 000 | 1 **Snape** (20 %) · 2 Hermione · 3 Sirius · 4 Harry · 5 Ron · 6 **Luna** · 7 Ginny · 8 Dumbledore · 9 **Dobby** · 10 Draco ([Leaky Cauldron](http://www.the-leaky-cauldron.org/2011/08/30/severus-snape-chosen-as-favorite-harry-potter-character-via-bloomsbury-poll/), [SnitchSeeker](https://www.snitchseeker.com/harry-potter-news/bloomsbury-announces-severus-snape-voted-as-favourite-character-in-harry-potter-books-85213/)) ✅ |
-| MTV «Mundial de Harry Potter», 2011 | 7,4 millones | gana **Snape** entre 64 personajes ([Newsis](https://www.newsis.com/view/NISX20110721_0008742182)) ⚠️ una fuente |
-| National Book Tokens, 2017 | más de 10 000 | 1 **Hermione** · 2 Snape · 3 **Luna**. Harry, 6.º, por detrás de Sirius y **Dobby** ([Marie Claire UK](https://www.marieclaire.co.uk/entertainment/tv-and-film/favourite-harry-potter-character-518389)). La prensa coreana da 1.ª a Hermione y 5.º a Dobby; parece la misma encuesta ⚠️ ([Dispatch](https://www.dispatch.co.kr/1047033)) ✅ Hermione 1.ª |
+| MTV «Mundial de Harry Potter», 2011 | 7,4 millones | gana **Snape** entre 64 personajes; Rickman recogió el premio en el estreno de P8 en Nueva York ([Newsis](https://www.newsis.com/view/NISX20110721_0008742182), [IBTimes](https://www.ibtimes.com/severus-snape-named-greatest-harry-potter-character-alan-rickman-says-i-wont-miss-it-videos-645822), [IMDb News](https://www.imdb.com/news/ni12732815/)) ✅ |
+| National Book Tokens, 2017 | más de 10 000 | 1 **Hermione** · 2 Snape · 3 **Luna**. Harry, 6.º, por detrás de Sirius y **Dobby** ([Marie Claire UK](https://www.marieclaire.co.uk/entertainment/tv-and-film/favourite-harry-potter-character-518389)). La prensa coreana ([Dispatch, 26-dic-2017](https://www.dispatch.co.kr/1047033)) cuenta la misma votación del 20.º aniversario, de dos semanas y más de 10 000 votos: 1.ª Hermione, 5.º Dobby ✅ |
 | Cinema Today, Japón | 5 964 | 1 **Snape** 19 % · 2 Hermione · 3 **Luna** 12,4 % · 4 Draco · 5 Sirius · 6 Harry · 7 gemelos · 8 Ron · 9 McGonagall · 10 **Dobby** ([Cinema Today](https://www.cinematoday.jp/news/N0141040)) ✅ |
 | Nlab, Japón, 2023 | — | 1 **Harry** · 2 Hermione ([Nlab](https://nlab.itmedia.co.jp/research/articles/1785486/), [PressWalker](https://presswalker.jp/press/17011)) |
 
