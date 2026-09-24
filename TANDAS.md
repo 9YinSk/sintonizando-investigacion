@@ -6,7 +6,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 ## Segunda pasada · red completa
 
-Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda web y GitHub): sin hojas de contacto, sin Doblaje Wiki, sin minutos de YouTube. Esta pasada las corrige y completa con la red abierta, sin rehacerlas.
+Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda web y GitHub): sin hojas de contacto, sin Doblaje Wiki, sin minutos de YouTube. Esta pasada las corrige y completa con la red abierta, sin rehacerlas. Las 26-30 ya tuvieron la red abierta, pero se hicieron antes de las reglas de mirar los vídeos y de la tabla «Cumplimiento del encargo»: su repaso es sobre todo eso.
 
 Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja cada ayudante). Se intercala con las tandas nuevas: unos 7 ayudantes a la vez, y cada uno se sube con `herramientas/subir.sh <id>` (o `<id> repaso`).
 
@@ -35,6 +35,11 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] repaso 23-lilo-stitch
 - [ ] repaso 24-assassination-classroom
 - [ ] repaso 25-my-hero-academia
+- [ ] repaso 26-scooby-doo
+- [ ] repaso 27-cyberpunk-edgerunners
+- [ ] repaso 28-jojo-s-bizarre-adventure
+- [ ] repaso 29-por-decidir-seis-canales-sin-serie
+- [ ] repaso 30-naruto
 
 # Parte 1 · Series, películas y videojuegos
 

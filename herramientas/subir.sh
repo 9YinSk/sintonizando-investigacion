@@ -82,7 +82,7 @@ Claude-Session: https://claude.ai/code/session_01TvcDxGbBjSJPPm3XtsXCWt"
 for espera in 0 2 4 8 16; do
   sleep "$espera"
   if git push -q -u origin "$rama" 2>/dev/null; then
-    echo "OK: $msg · $lineas lineas · $nref referencias · $nhojas hojas · $resumen · hechas $hechas de 227 · repasos $repasos de 25"
+    echo "OK: $msg · $lineas lineas · $nref referencias · $nhojas hojas · $resumen · hechas $hechas de 227 · repasos $repasos de $(grep -c -- "^- \[.\] repaso " TANDAS.md)"
     exit 0
   fi
 done
