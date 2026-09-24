@@ -834,14 +834,25 @@ en su web, pero el título dice «coming soon» ⚠️
   ([Namuwiki](https://namu.wiki/w/%EB%B2%A0%EC%9D%B4%EB%A7%A5%EC%8A%A4)).
 - **Sus chips:** el de Tadashi (cuidar) y el de Hiro (pelear)
   ([wiki de BH6](https://bighero6.fandom.com/wiki/Baymax's_Chips)).
-  Colores verde y rojo ⚠️ de memoria.
+  Verde con un doctor sonriente y rojo con calavera: **medidos** en §8 ✅.
 - **Carácter:** tranquilo, literal, amable. Sólo le importa tu salud:
   «Eres mi paciente… tu salud es mi única preocupación» ⚠️
   ([audiofrases](https://audiofrases.com/frases-de-peliculas-disney/audio-frases-de-big-hero-6-2014/eres-mi-paciente-baymax-tu-salud-es-mi-unica-preocupacion)).
   Nunca tiene prisa. Nunca se enfada (salvo con el chip de pelea).
+- **Carácter, según su ficha** ✅ ([wiki de Disney, Personality](https://disney.fandom.com/wiki/Baymax#Personality)):
+  entregado a sus pacientes, **un poco ingenuo e infantil**, no entiende
+  el espacio personal ni si el paciente *quiere* ayuda; muy tranquilo
+  incluso en peligro; lento para lo que no es salud; **curioso y se
+  distrae**. Su docilidad viene del chip de Tadashi.
 - **Cómo se expresa:** voz plana y suave, frases completas y educadas.
   Saluda con «Hola». Explica con datos de su escáner. No se ríe. Con la
-  batería baja, habla como borracho ✅
+  batería baja, habla como borracho ✅. **Medido en el doblaje latino**
+  con `voz.py`: registro medio (150 Hz), **13,3 semitonos de
+  expresividad, el más bajo** de los medidos, 2,42 palabras por segundo
+  ✅ ([x5hvz3y, 0:52-0:55](https://www.dailymotion.com/video/x5hvz3y?t=52)).
+  **Nunca exclama.** Frases oídas: «Hola, yo soy Baymax» (tráiler, [0:18](https://www.dailymotion.com/video/x889whz?t=18)),
+  «Quiero ayudarte» ([0:52](https://www.dailymotion.com/video/x889whz?t=52)),
+  «Tu estado emocional ha mejorado» ([x5hvz3y, 0:52](https://www.dailymotion.com/video/x5hvz3y?t=52)).
   ([TV Tropes, memes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/BigHero6),
   [audiofrases, «Batería baja»](https://audiofrases.com/frases-de-peliculas-disney/audio-frases-de-big-hero-6-2014/bateria-baja)).
 - **Cuerpo que habla:** inclina la cabeza, parpadea, mueve las manos
@@ -850,6 +861,9 @@ en su web, pero el título dice «coming soon» ⚠️
   ([Sanlian](https://www.lifeweek.com.cn/article/149429)).
 - **Con quién:** Hiro (su paciente y amigo), Tadashi (su creador), el
   gato Mochi, la tía Cass.
+- **Robots reales que lo inspiraron**, además del brazo de la CMU: ASIMO y
+  **Pepper**, que también abraza y choca los puños ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Baymax)).
+  Gustos, altura y lo que odia: §C.
 
 ### Hiro Hamada — el genio de 14 años
 - Niño prodigio de la robótica; vive con su hermano y su tía. Tras perder
@@ -865,10 +879,32 @@ en su web, pero el título dice «coming soon» ⚠️
 - **Armadura:** morada con detalles rojos y negro; **placas magnéticas
   rojas** para engancharse a Baymax ✅
   ([wiki de BH6](https://bighero6.fandom.com/wiki/Hiro's_Super_Armor)).
-- **Cómo se expresa** ⚠️ de memoria: rápido, listo, algo impaciente y
-  burlón; de pronto frágil cuando sale Tadashi. Sobre Baymax: «Parece un
-  gigantesco malvavisco que camina, sin ofender» ⚠️
-  ([audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397135)).
+- **Carácter, según su ficha** ✅ ([wiki de Disney](https://disney.fandom.com/wiki/Hiro_Hamada#Personality)):
+  terminó la secundaria a los 13; **descarado y creído** (se aburre en la
+  pelea con Yama), pero sin ser odioso; orgulloso de saberlo todo;
+  apuesta en peleas de robots aunque Tadashi no lo aprueba.
+- **Cómo se expresa**: rápido, listo, algo impaciente y burlón; de pronto
+  frágil cuando sale Tadashi. **Medido en el doblaje latino** (Memo
+  Aponte): voz aguda (268 Hz), **24,3 semitonos**, 2,45 palabras por
+  segundo ✅ ([x2hry42, 0:04-0:11](https://www.dailymotion.com/video/x2hry42?t=4)).
+  Su frase de listillo, oída: «Las peleas robóticas no son ilegales.
+  Apostar en peleas robóticas, eso es ilegal, pero lucrativo» ✅ ([0:04-0:09](https://www.dailymotion.com/video/x2hry42?t=4)).
+  Sobre Baymax: «Parece un gigantesco malvavisco que camina, sin
+  ofender» ⚠️ ([audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397135));
+  en el tráiler dice «Estoy abrazando un… malvavisco» ⚠️ (cortada,
+  [0:59](https://www.dailymotion.com/video/x889whz?t=59)).
+- **Su cara en cada emoción** (vista en clips; minuto del clip):
+
+| Emoción | Qué hace | Dónde |
+|---|---|---|
+| Alegría tranquila | sentado en su cuarto, sonrisa suave mirando a Baymax | ✅ [tráiler latino, 0:48](https://www.dailymotion.com/video/x889whz?t=48) |
+| Alegría, celebrar | puño extendido hacia Baymax, torso hacia delante | ✅ [Fist Bump, 0:21](https://www.dailymotion.com/video/x3wn7x2?start=21) |
+| Miedo cómico | agachado tras la cama, ojos muy abiertos | ✅ [Meet Baymax, 1:17](https://www.dailymotion.com/video/x2553ox?start=77) |
+| Pedir ayuda | manos abiertas sobre el mostrador de la comisaría, hombros caídos | ✅ [tráiler latino, 1:14](https://www.dailymotion.com/video/x889whz?t=74) |
+| Preocupación | primer plano, cejas juntas | ✅ hoja `vestuario_concept_01.jpg`, n.º 72 (sin minuto) |
+| Tristeza (funeral, vídeos de Tadashi) | solo en lo alto de la escalera, sin hablar | ⚠️ descrita por TV Tropes; **no hubo clip** |
+| Rabia (ordena a Baymax matar a Callaghan) | — | ⚠️ sin clip ni fotograma |
+| Vergüenza | — | ❌ no encontré fotograma |
 
 ### Tadashi Hamada — el hermano mayor (el más llorado)
 - Estudiante de robótica en el SFIT y **creador de Baymax**. Amable,
@@ -879,7 +915,21 @@ en su web, pero el título dice «coming soon» ⚠️
   Ninja»**. Casi nunca se la quita. Se le cae antes del incendio y Hiro
   la guarda ✅ ([wiki de BH6](https://bighero6.fandom.com/wiki/Tadashi_Hamada),
   [Wikipedia](https://en.wikipedia.org/wiki/Tadashi_Hamada)).
-- **Su frase:** «Alguien tiene que ayudar» ⚠️ (una fuente, ver punto 10).
+- **Carácter, según su ficha** ✅ ([wiki de Disney](https://disney.fandom.com/wiki/Tadashi_Hamada#Personality)):
+  muy amable, animoso y trabajador; humor tonto y alegre; **no cree en
+  los «callejones sin salida»**; entiende de salud; le enseñó kárate a
+  Hiro; la única figura masculina en la vida de Hiro.
+- **Cómo habla**: pausado y cálido, de hermano mayor paciente. Oído en
+  latino (Alexis Ortega): «¿Hasta cuándo harás algo de valor con esa mente
+  brillante?» ✅ ([x2hry42, 1:26](https://www.dailymotion.com/video/x2hry42?t=86)) y
+  «Quizá no evite que vayas, pero no voy a dejarte ir solo» ✅ ([1:49](https://www.dailymotion.com/video/x2hry42?t=109)).
+- **Su frase:** «Alguien tiene que ayudar» ⚠️. En la película latina
+  **no tuvo traducción fija**: sus últimas palabras fueron «No puedo
+  dejarlo, comprende». La serie sí la dice así, dos veces, en «Baymax
+  Regresa» ✅ ([Doblaje Wiki, datos de interés](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes)).
+- **Ropa de la película**: gorra negra y chaqueta verde (conceptos de
+  ropa, hoja `colaboraciones_01.jpg`, n.º 236) ✅; el verde exacto no se
+  pudo medir (sus escenas son de noche) ⚠️. §16.
 - **Respeto:** muere en la película, y su voz latina murió en 2026. En la
   lámina va como mucho **su gorra**, en un rincón.
 
@@ -892,8 +942,29 @@ en su web, pero el título dice «coming soon» ⚠️
   química. **Wasabi:** el maniático del orden ✅
   ([Wikipedia, la serie](https://en.wikipedia.org/wiki/Big_Hero_6:_The_Series),
   [TV Tropes, personajes](https://tvtropes.org/pmwiki/pmwiki.php/Characters/BigHero6)).
+- **Cómo hablan, oído en latino** (segunda pasada):
+  - **Tía Cass**: «Las peleas robóticas son ilegales. ¿Quieres que te
+    arresten por esto?» ✅ ([x2hry42, 0:00](https://www.dailymotion.com/video/x2hry42?t=0)). Regaña con cariño.
+  - **Wasabi** (Alan Bravo): «Cada objeto tiene un lugar y un lugar cada
+    objeto» y «¡La sociedad tiene reglas!» ✅ ([3:29](https://www.dailymotion.com/video/x2hry42?t=209), [3:34](https://www.dailymotion.com/video/x2hry42?t=214)).
+    Habla **atropellado**, 4,1 palabras por segundo, el más rápido medido.
+    Le aterran las alturas.
+  - **GoGo** (Erika Ugalde): «Fred, no me hagas callarte con mi láser»,
+    rápida y seca ✅ ([x5hvz3y, 3:01](https://www.dailymotion.com/video/x5hvz3y?t=181)).
+    En el guion original: «Stop whining. Woman up.» ✅ ([transcripción](https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript)).
+    Pega un chicle a sus vehículos por suerte.
+  - **Fred** (Noé Velázquez): «¡Somos nerds!» ✅ ([tráiler, 1:25](https://www.dailymotion.com/video/x889whz?t=85));
+    se imagina jefe: «El líder Fred, los ángeles de Fred» ✅ ([x5hvz3y, 2:44](https://www.dailymotion.com/video/x5hvz3y?t=164)).
+    En su mansión: «Bienvenidos a **my house**» ✅ (Doblaje Wiki).
+  - **Honey Lemon**: se dobló a sí misma, Génesis Rodríguez; de
+    ascendencia hispana ✅ (§10, §C).
+- **Dinámicas para láminas de grupo**: GoGo calla a Fred; Wasabi se
+  agobia con el desorden de los demás; Honey Lemon anima; Hiro y Baymax
+  chocan los puños. Gustos de cada uno: §C.
 - **Mochi:** el gato de la casa, bobtail japonés
-  ([wiki de Disney](https://disney.fandom.com/wiki/Mochi)).
+  ([wiki de Disney](https://disney.fandom.com/wiki/Mochi)). Calicó de
+  tres colores pero **macho** (rarísimo), por eso Hiro dice «¡Sí que está
+  loco ese gato!» ✅ (Doblaje Wiki). **5.º en la encuesta japonesa** (§2).
 
 ---
 
@@ -906,14 +977,48 @@ en su web, pero el título dice «coming soon» ⚠️
 | **Hiro** | **Memo Aponte** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Memo_Aponte), [PRODU, entrevista](https://www.produ.com/television/noticias/actor-guillermo-aponte-de-disney-mi-voz-como-hiro-en-grandes-heroes-de-disney-representa-un-trabajo-actoral-muy-fuerte/), [Radio Disney MX](https://www.facebook.com/RadioDisneyMx/photos/memo-aponte-es-la-voz-de-hiro-hamada-en-la-versi%C3%B3n-para-latino%C3%A1merica-de-grandes/819762721380622/?locale=es_LA) | ✅ |
 | **Tadashi** | **Alexis Ortega** (1989-2026) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Alexis_Ortega), [El Imparcial](https://www.elimparcial.com/espectaculos/2026/01/27/fallece-alexis-ortega-voz-de-spider-man-en-espanol-latino-y-tadashi-en-grandes-heroes/), [El Informador](https://www.informador.mx/entretenimiento/alexis-ortega-personajes-iconicos-a-los-que-dio-voz-ademas-de-spider-man-20260127-0116.html), [LatinUS](https://latinus.us/entretenimiento/2026/1/27/fallece-alexis-ortega-actor-de-doblaje-que-le-dio-voz-spider-man-tadashi-hamada-162929.html) | ✅ |
 | **Honey Lemon** | **Génesis Rodríguez** (se dobla a sí misma) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [The Dubbing Database](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes) | ✅ |
-| Tía Cass | Patricia Palestino | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes) | ⚠️ una fuente |
-| Fred, GoGo, Wasabi | no lo encontré | — | — |
+| Tía Cass | Patricia Palestino | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ (antes ⚠️ una fuente) |
+| **Fred** | **Noé Velázquez Pedroza** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes) (wikitexto completo), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ nuevo |
+| **GoGo** | **Erika Ugalde** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ nuevo |
+| **Wasabi** | **Alan Bravo** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ nuevo |
+| Callaghan / Yokai | Humberto Vélez | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Alistair Krei | Idzi Dutkiewicz | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Abigail Callaghan | Yadira Aedo | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Padre de Fred | Jesse Conde | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Heathcliff, el mayordomo | Arturo Mercado Chacón | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Yama | Octavio Rojas | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| General | Paco Mauri | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Oficial Gerson | Germán Fabregat | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) («Sargento») | ✅ |
+| Réferi | Gabriela Guzmán | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+| Reportero | Agustín L. Lezama | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes), [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html) | ✅ |
+
+**Corrección:** la primera pasada dijo «Fred, GoGo, Wasabi: no lo
+encontré». **Sí estaban** en el wikitext de Doblaje Wiki (la tabla
+resumida no traía esas filas por un `colspan` distinto), y lo confirman
+The Dubbing Database y CHARGUIGOU (archivo de los créditos de Disney
+Character Voices International). Hiro, Baymax, Tadashi y Honey Lemon
+también salen en esas dos fuentes.
 
 - **Estudio y dirección:** Taller Acústico, S.C., dirigido por **Ricardo
   Tejedo**. Luis Daniel Ramírez eligió el reparto y se fue; se mantuvo su
-  reparto ⚠️ (sólo Doblaje Wiki, dos páginas)
-  ([Grandes héroes](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes),
-  [Memo Aponte](https://doblaje.fandom.com/es/wiki/Memo_Aponte)).
+  reparto ✅ (antes ⚠️; ahora también [dubdb](https://dubdb.fandom.com/wiki/Grandes_h%C3%A9roes) y [CHARGUIGOU](https://disneyinternationaldubbings.weebly.com/big-hero-6--latin-american-spanish-cast.html)).
+  Equipo completo: traducción Katya Ojeda Iturbide y Ricardo Tejedo;
+  **casting Luis Daniel Ramírez**; gerencia de producción Erika Sánchez
+  Santarelli; producción Yeri Casanova; edición **Diseño en Audio «DNA»**;
+  mezcla **Shepperton International** (Reino Unido); ejecutivo creativo
+  Raúl Aldana; versión de Disney Character Voices International ✅.
+- **Cómo se dobló** (Doblaje Wiki, datos de interés): **contra
+  storyboard**; Tejedo adaptó de oído y lo dejó en sincronía en unas
+  3 semanas. Es la primera película de Walt Disney Animation en la que
+  **los créditos del doblaje sustituyen a los del reparto en inglés**
+  (en cine y Disney+, no en DVD). Memo Aponte y Patricia Palestino ya
+  fueron Nemo y Dory con Tejedo en Taller Acústico ⚠️ (una fuente).
+- **33 voces adicionales** listadas sólo por CHARGUIGOU (Adriana Casas,
+  Berenice Vega, César Filio, Gwendolyne Flores, Herman López, Luis
+  Navarro, Pedro D'Aguillón Jr., Ricardo Tejedo, entre otros) ⚠️ (una
+  fuente; no dice qué papel hizo cada uno).
+- **Doblaje Wiki no tiene muestras de audio** de esta película (cero
+  etiquetas `<sm2>` en el wikitext): las frases oídas salen de clips.
 - Guion de doblaje subido por un usuario: [Scribd](https://www.scribd.com/document/526731325/DOBLAJE-GRANDES-HEROES) ⚠️ sin abrir.
 
 ### Serie 2D y ¡Baymax! (2022)
@@ -922,6 +1027,9 @@ en su web, pero el título dice «coming soon» ⚠️
   [cortos](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes:_La_serie/Cortos)).
   Alexis Ortega (Tadashi) sigue en ella ✅ (Doblaje Wiki y las notas de
   su muerte). Memo Aponte (Hiro) también ⚠️ (sólo Doblaje Wiki).
+  **Honey Lemon cambia de voz en la serie**: Génesis Rodríguez no
+  repitió; la dobla **Leyla Rangel** ⚠️ (Doblaje Wiki, datos de interés).
+  En pocos sitios se llamó «6 Grandes héroes».
 - **¡Baymax!** tiene tráiler en latino
   ([YouTube](https://www.youtube.com/watch?v=r8ysizKgmQA)). La actriz
   **Amanda Flores** dice que participó ([TikTok](https://www.tiktok.com/@amandaflores81/video/7114839094596816134),
@@ -940,21 +1048,70 @@ en su web, pero el título dice «coming soon» ⚠️
   [Animate Times](https://www.animatetimes.com/tag/details.php?id=9720),
   [Oricon](https://www.oricon.co.jp/special/68756/)).
 
-### Frases (latino)
-Los sitios de audios no dicen de qué doblaje son. Por eso casi todas van
-⚠️ hasta oírlas en la película latina.
+### Frases oídas en el doblaje latino (segunda pasada) ✅
+Transcritas con `voz.py` (Whisper, en local) de clips doblados de
+Dailymotion; los nombres propios se corrigieron a mano (Whisper oye
+«Deimax» por Baymax). **El minuto es del clip.**
+
+**Tráiler oficial en español latino** ([x889whz](https://www.dailymotion.com/video/x889whz), 2:31):
+
+| Minuto | Frase | Quién |
+|---|---|---|
+| [0:11](https://www.dailymotion.com/video/x889whz?t=11) | «Él es mi hermano mayor, Tadashi.» | Hiro ✅ |
+| [0:18](https://www.dailymotion.com/video/x889whz?t=18) · [0:37](https://www.dailymotion.com/video/x889whz?t=37) | «Hola, yo soy Baymax.» | Baymax ✅ |
+| [0:52](https://www.dailymotion.com/video/x889whz?t=52) | «Quiero ayudarte.» | Baymax ✅ |
+| [0:59](https://www.dailymotion.com/video/x889whz?t=59) | «Estoy abrazando un… malvavisco.» | Hiro ⚠️ (el corte se come una palabra) |
+| [1:25](https://www.dailymotion.com/video/x889whz?t=85) | «¡Somos nerds!» | Fred ✅ |
+| [1:37](https://www.dailymotion.com/video/x889whz?t=97) | «¿Por qué la ropa interior de fibra de carbono?» | GoGo o Wasabi ⚠️ (no se distingue la voz) |
+| [2:16](https://www.dailymotion.com/video/x889whz?t=136) | «¡Es solo una expresión!» | Wasabi ✅ |
+
+**Película doblada, inicio y laboratorio** ([x2hry42](https://www.dailymotion.com/video/x2hry42), 3:59, subido por un usuario):
+
+| Minuto | Frase | Quién |
+|---|---|---|
+| [0:00](https://www.dailymotion.com/video/x2hry42?t=0) | «Las peleas robóticas son ilegales. ¿Quieres que te arresten por esto?» | Tía Cass ✅ |
+| [0:04](https://www.dailymotion.com/video/x2hry42?t=4) | «Las peleas robóticas no son ilegales. Apostar en peleas robóticas, eso es ilegal, pero lucrativo.» | Hiro ✅ |
+| [1:26](https://www.dailymotion.com/video/x2hry42?t=86) | «¿Hasta cuándo harás algo de valor con esa mente brillante?» | Tadashi ✅ |
+| [1:37](https://www.dailymotion.com/video/x2hry42?t=97) | «¿Qué dirían mamá y papá ahora?» «No lo sé, ya no están. Tenía tres años cuando murieron.» | Tadashi e Hiro ✅ |
+| [1:49](https://www.dailymotion.com/video/x2hry42?t=109) | «Quizá no evite que vayas, pero no voy a dejarte ir solo.» | Tadashi ✅ |
+| [2:11](https://www.dailymotion.com/video/x2hry42?t=131) | «¡Qué lindo! Conoceré tu nerd lab.» | Hiro ✅ |
+| [2:45](https://www.dailymotion.com/video/x2hry42?t=165) | «Bienvenida a la tierra de los nerds.» | Hiro ✅ |
+| [3:29](https://www.dailymotion.com/video/x2hry42?t=209) | «Cada objeto tiene un lugar y un lugar cada objeto.» | Wasabi ✅ |
+| [3:34](https://www.dailymotion.com/video/x2hry42?t=214) | «¡La sociedad tiene reglas!» | Wasabi ✅ |
+
+**Película doblada, el escaneo y Krei** ([x5hvz3y](https://www.dailymotion.com/video/x5hvz3y), 4:23, subido por un usuario):
+
+| Minuto | Frase | Quién |
+|---|---|---|
+| [0:39](https://www.dailymotion.com/video/x5hvz3y?t=39) | «Sólo es una expresión.» | Hiro ✅ |
+| [0:52](https://www.dailymotion.com/video/x5hvz3y?t=52) | «Tu estado emocional ha mejorado.» | Baymax ✅ |
+| [0:55](https://www.dailymotion.com/video/x5hvz3y?t=55) | **«Puedo desactivarme si dices que estás satisfecho con tu cuidado.»** | Baymax ✅ |
+| [1:00](https://www.dailymotion.com/video/x5hvz3y?t=60) | «No, no quiero que te desactives.» | Hiro ✅ |
+| [2:44](https://www.dailymotion.com/video/x5hvz3y?t=164) | «El líder Fred, los ángeles de Fred.» | Fred ✅ |
+| [3:01](https://www.dailymotion.com/video/x5hvz3y?t=181) | «Fred, no me hagas callarte con mi láser.» | GoGo ✅ |
+| [4:14](https://www.dailymotion.com/video/x5hvz3y?t=254) | «Amigos, les presento el proyecto Silent Sparrow.» | Alistair Krei ✅ |
+
+**Corrección importante:** la frase de Baymax es **«…satisfecho con TU
+cuidado»**, no «mi cuidado», y es más corta que la de audiofrases. La
+de Hiro al final («Estoy satisfecho con mi cuidado») sigue sin oírse:
+el clímax doblado no apareció en Dailymotion ni en Internet Archive.
+
+### Frases (latino) de la primera pasada
+Los sitios de audios no dicen de qué doblaje son. Las que no salen en la
+tabla de arriba siguen ⚠️ hasta oírlas en la película latina.
 
 | Frase | Quién | Estado |
 |---|---|---|
 | «**Estoy satisfecho con mi cuidado.**» | Hiro, al final | ✅ [audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397730), [TikTok #grandesheroes](https://www.tiktok.com/@gabymg82/video/7414332757213498630), [YouTube](https://www.youtube.com/watch?v=F8zuGaDxwkk) |
 | «¿Estás satisfecho con tu cuidado?» | Baymax | ⚠️ [TikTok](https://www.tiktok.com/@cold_constellations/video/7189793084861975813) |
-| «No pueden desactivarme hasta que digas que estás satisfecho con mi cuidado.» | Baymax | ⚠️ [audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397146) |
+| ~~«No pueden desactivarme hasta que digas que estás satisfecho con mi cuidado.»~~ → **«Puedo desactivarme si dices que estás satisfecho con tu cuidado.»** | Baymax | ✅ corregida, oída ([x5hvz3y, 0:55](https://www.dailymotion.com/video/x5hvz3y?t=55)); la versión de [audiofrases](https://audiofrases.com/peliculas-disney/big-hero-6-2014/397146) no es la del doblaje |
 | «Hola, yo soy Baymax, **tu** / **su** asistente médico personal.» | Baymax | ⚠️ circulan las dos: [«tu»](https://audiofrases.com/frases-de-peliculas-disney/audio-frases-de-big-hero-6-2014/hola-yo-soy-baymax-tu-asistente-medico-personal), [«su»](https://audiofrases.com/frases-de-peliculas-disney/audio-frases-de-big-hero-6-2014/hola-yo-soy-baymax-su-asistente-medico-personal) |
 | «En una escala del uno al diez, ¿cómo calificarías tu dolor?» | Baymax | ⚠️ [blog de frases](https://frasesdecineparaelrecuerdo.blogspot.com/2015/01/frases-pelicula-big-hero-6.html), doblaje sin decir |
 | «Puedes llorar si quieres. Llorar es una respuesta natural al dolor.» | Baymax | ⚠️ mismo blog |
 | «Batería baja.» | Baymax | ⚠️ [audiofrases](https://audiofrases.com/frases-de-peliculas-disney/audio-frases-de-big-hero-6-2014/bateria-baja) |
-| «Alguien tiene que ayudar.» | Tadashi | ⚠️ la película no la tradujo siempre igual; la serie sí ([guía de cuadros](../_ya_hechas/_Cuadros%20de%20dialogo%20por%20franquicia%20(23-sep-2026).md)) |
-| «Bienvenidos a my house.» | Fred | ⚠️ una fuente (guía de cuadros) |
+| «Alguien tiene que ayudar.» | Tadashi | ✅ **en la serie** («Baymax Regresa», dos veces); en la película no tuvo traducción fija: Tadashi dice «No puedo dejarlo, comprende» e Hiro «La voy a salvar» ([guía de cuadros](../_ya_hechas/_Cuadros%20de%20dialogo%20por%20franquicia%20(23-sep-2026).md), [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Grandes_h%C3%A9roes)) |
+| «Bienvenidos a my house.» | Fred | ✅ guía de cuadros + Doblaje Wiki (en inglés es «Welcome a mi casa»: el doblaje lo dio la vuelta) |
+| «¡Sí que está loco ese gato!» | Hiro, por Mochi | ⚠️ una fuente (Doblaje Wiki) |
 
 Hay una comparativa de doblajes de Baymax y Tadashi en
 [TikTok](https://www.tiktok.com/@zachinin72/video/7353779444345064709) y
@@ -973,16 +1130,53 @@ un repaso del doblaje latino en
   [AWN](https://www.awn.com/news/big-hero-6-soundtrack-features-score-henry-jackman),
   [Bandcamp de Jackman](https://henryjackman.bandcamp.com/album/big-hero-6-original-motion-picture-soundtrack),
   [Discogs](https://www.discogs.com/master/1833271-Henry-Jackman-Big-Hero-6-Original-Score)).
-  Una pista se llama **«Huggable Detective»** ⚠️ (resumen del buscador;
-  lista completa en [AllMusic](https://www.allmusic.com/album/big-hero-6-original-motion-picture-soundtrack--mw0002772854)
-  y en la [wiki de Disney](https://disney.fandom.com/wiki/Big_Hero_6_(soundtrack))).
+  **Lista completa confirmada** ✅ (wikitext de [Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(soundtrack))
+  y [AllMusic](https://www.allmusic.com/album/big-hero-6-original-motion-picture-soundtrack--mw0002772854);
+  también en la [wiki de Disney](https://disney.fandom.com/wiki/Big_Hero_6_(soundtrack))):
+  20 temas, 53:57. Immortals (3:16) · Hiro Hamada (1:57) · Nerd School
+  (2:12) · Microbots (1:46) · Tadashi (1:46) · **Inflatable Friend** (1:56,
+  la activación de Baymax) · **Huggable Detective** (1:35) · The Masked
+  Man (1:29) · One of the Family (1:49) · Upgrades (2:27) · The Streets
+  of San Fransokyo (4:08) · To the Manor Born (1:15) · So Much More (3:01)
+  · First Flight (2:35) · **Silent Sparrow** (4:39) · Family Reunion
+  (2:39) · **Big Hero 6** (6:57, la batalla final) · **I Am Satisfied with
+  My Care** (5:29, el cierre) · Signs of Life (1:14) · Reboot (1:48).
+  Que «Silent Sparrow» sea la música de la muerte de Tadashi se deduce
+  por el nombre y el orden ⚠️ (no se oyó sobre la escena).
+  La edición japonesa añade «Story» de **AI**, en inglés ✅.
   Reseña de la partitura: [Entertainment Junkie](http://entjunkie.blogspot.com/2014/11/big-hero-6-score-review.html).
 - **Qué ambiente da:** cálido y emotivo en lo de Baymax y los hermanos;
   pulso electrónico y épico en la acción ⚠️ (de las reseñas, sin oírla).
+- **«Immortals» suena en el montaje** en que los nerds arman sus trajes y
+  se vuelven héroes, y otra vez en los **créditos** ✅ ([Dubbing Database](https://dubdb.fandom.com/wiki/Immortals_(Big_Hero_6)),
+  vídeos de la escena). Audio del sencillo en
+  [Internet Archive](https://archive.org/details/fall-out-boy-immortals-official-music-video-from-big-hero-6-160k).
+- **Suena «Eye of the Tiger»** (instrumental), que **no está** en el disco
+  ✅ ([The Tufts Daily](http://tuftsdaily.com/arts/2014/11/12/big-hero-6-succeeds-box-office), Wikipedia).
+- **El sonido de Baymax**: se evitaron los pitidos de robot para que
+  sonara «achuchable»; al moverse suena **una pelota de ejercicio que
+  chirría** (Skywalker Sound y Disney) ⚠️ (una fuente, [Disney Digital
+  Studio Services](https://www.disneydigitalstudio.com/the-baymax-buzz-behind-the-mix-of-big-hero-6/)).
+  Encaja con lo oído en los clips: pasos con chirrido de goma, nunca
+  bips.
+- **Onomatopeyas que todos reconocen**: el «¡ay!» de Hiro que lo activa
+  y el «ba-la-la-la-la» del choque de puños (dicho, no escrito). No
+  encontré una onomatopeya de cómic oficial para ese gesto.
+- **Kingdom Hearts III** tiene sus propios temas de San Fransokyo:
+  «Robot Overdrive» (batalla), «Heroes' Gathering» (día) y «AR
+  -Augmented Rhythm-» (noche) ✅ ([khwiki](https://www.khwiki.com/San_Fransokyo)).
 - **Serie 2D:** tema de **Adam Berry** ✅
   ([Wikipedia, Adam Berry](https://en.wikipedia.org/wiki/Adam_Berry),
   [tema en YouTube](https://www.youtube.com/watch?v=TeNwMzQEaYk)).
   Pistas nuevas de la serie: [Tumblr](https://multimonorail.tumblr.com/post/652529278925291520/new-big-hero-6-the-series-soundtrack-tracks).
+  **El opening de la serie, visto** ✅ («Season 3 Intro», [Dailymotion
+  x7we0ri](https://www.dailymotion.com/video/x7we0ri), 0:33): 0:03-0:06
+  el círculo rojo del botón de Baymax se ilumina y se funde con su
+  silueta; 0:07-0:09 Baymax abraza a Hiro dentro de un **panal hexagonal
+  rojo y dorado** (motivo propio de la serie); 0:15-0:25 paneles
+  hexagonales con cada héroe (GoGo velocidad, Wasabi cuchillas verdes,
+  Fred naranja, Honey Lemon esfera rosa); 0:32 logo «BIG HERO 6 THE
+  SERIES» sobre panal rojo.
 - **Para #soporte:** el lado tranquilo de Jackman, no «Immortals». Una
   consulta, no una pelea.
 
@@ -990,7 +1184,8 @@ un repaso del doblaje latino en
 
 ## 12 · Vídeos
 
-**Minuto sin verificar en todos** (YouTube y TikTok no abren desde aquí).
+**Minuto sin verificar en los de YouTube y TikTok** (no abren desde
+aquí). **Lo visto de verdad va en §12.1.**
 
 | Vídeo | Para qué sirve | Enlace |
 |---|---|---|
@@ -1017,6 +1212,33 @@ un repaso del doblaje latino en
   **Esto le va al servidor**: es de doblaje.
 - **Homenaje a Alexis Ortega** ([TikTok](https://www.tiktok.com/@lavidadeldoblaje_/video/7600428235201006868)).
 - Búsqueda «Hola soy Baymax»: [TikTok](https://www.tiktok.com/discover/hola-soy-baymax).
+- Minuto exacto dentro de cada TikTok: ⚠️ sin ver (TikTok no abre aquí).
+
+### 12.1 · Vídeos mirados en la segunda pasada (con minuto) ✅
+
+**Tráiler oficial en español latino** («Grandes Héroes», sensacinemx,
+Dailymotion, 2:31, [x889whz](https://www.dailymotion.com/video/x889whz)),
+visto entero con `fotogramas.py --cortes` (92 fotogramas). Va pegado a
+un avance de *Ralph, el Demoledor*:
+- 0:16-0:33: logo de Disney y *Ralph, el Demoledor*.
+- [0:39-1:00](https://www.dailymotion.com/video/x889whz?t=39): Baymax en el cuarto de Hiro, la escala de dolor, la interfaz de escaneo **en inglés** (el doblaje no traduce lo escrito en pantalla).
+- 1:00-1:16: humo negro y sirenas del incendio del SFIT; Hiro en la comisaría; Baymax aparece detrás del mostrador (gag).
+- 1:25-1:49: microbots, hologramas verdes, el traje rojo de Baymax, primer despegue.
+- 1:51-2:05: vuelo sobre San Fransokyo, el grupo entero en el aire.
+- Rótulos en español: «MUY PRONTO» (0:51), «UN GRAN DESCUBRIMIENTO LLEGARÁ» (0:58), «ÉL NOS GUIARÁ» (2:02), «ÉL NOS CUIDARÁ» (2:06), «ÉL CAMBIARÁ NUESTRO MUNDO» (2:10), logo «GRANDES HÉROES» (2:21).
+- Otros tráilers latinos del mismo tipo: [x889whh](https://www.dailymotion.com/video/x889whh), [x2ez5rq](https://www.dailymotion.com/video/x2ez5rq), [Tomatazos, x8x29d6](https://www.dailymotion.com/video/x8x29d6).
+
+**Clips de escenas** (§4.1): «Meet Baymax» [x2553ox](https://www.dailymotion.com/video/x2553ox),
+«Low Battery» [x283k45](https://www.dailymotion.com/video/x283k45),
+«Fist Bump» [x3wn7x2](https://www.dailymotion.com/video/x3wn7x2),
+batalla final [x7vbgp7](https://www.dailymotion.com/video/x7vbgp7),
+opening de la serie [x7we0ri](https://www.dailymotion.com/video/x7we0ri) (§11).
+
+**Material del estudio en Internet Archive**:
+- Escena eliminada «Hamada Brother Robotics», storyboard ([youtube-wnDrECylMOU](https://archive.org/details/youtube-wnDrECylMOU)).
+- Featurette oficial «Animating Baymax», 104 s ([youtube-koKlm22FLk0](https://archive.org/details/youtube-koKlm22FLk0)): anotado, **no se miró fotograma a fotograma** ⚠️.
+
+**Clips doblados oídos** (§10): [x2hry42](https://www.dailymotion.com/video/x2hry42) y [x5hvz3y](https://www.dailymotion.com/video/x5hvz3y).
 
 ---
 
@@ -1036,7 +1258,19 @@ un repaso del doblaje latino en
   in the Bay ni de Bot Fight.
 - **Cajas de diálogo de los juegos:** no vi ninguna ⚠️. No hay una caja
   propia de Grandes Héroes que el fan reconozca: lo reconocible es la
-  **pantalla de Baymax**.
+  **pantalla de Baymax**. **Segunda pasada, reforzado** ✅: de los cinco
+  juegos (KH3, Battle in the Bay, Bot Fight, Disney Infinity 2.0,
+  Mirrorverse) ninguno tiene caja propia. Game UI Database y el Dribbble
+  de Roberta Tam no cargaron (dos intentos cada uno).
+- **Interfaces vistas en las hojas**: Hiro en *Disney Heroes: Battle Mode*
+  con sus **SKILLS** (Megabot Call, Megabot Spin, Microbot Stun, Analyze),
+  en recuadros redondeados sobre rojo (`colaboraciones_01.jpg`, n.º 204)
+  ✅; Hiro en *Disney Sorcerer's Arena*, menú de mejora (n.º 234) ✅.
+  Vocabulario de habilidades reutilizable para textos del bot.
+- **KH3**: los temas del mundo se llaman «Robot Overdrive», «Heroes'
+  Gathering» y «AR -Augmented Rhythm-» ✅ ([khwiki](https://www.khwiki.com/San_Fransokyo)).
+- Más juegos y apps con Baymax (Lorcana, Fortnite, Sorcerer's Arena,
+  Star Smash…): §F.
 
 ---
 

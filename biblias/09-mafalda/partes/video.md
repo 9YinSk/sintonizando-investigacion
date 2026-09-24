@@ -255,6 +255,7 @@ hay nada que corregir aquí.
 | 6 | Brazo extendido señalando, boca apretada | 1972 ep5, 33:20 | **regañar / acusar** |
 | 7 | De pie, vestido rojo, postura neutra (cuerpo entero) | 1972 ep4, 33:20 | pose base para referencia de proporciones |
 | 8 | Caminando en exterior, vestido oscuro (⚠️ color de copia) | Dailymotion x5mwven, 0:30 | **caminar / curiosidad** |
+| 9 | Sentada, los dos puños cerrados sobre un libro, ojos apretados, boca muy abierta gritando | 1972 ep2, 30:00 | **gritar / protestar** (la más intensa de toda la tanda) |
 
 ### Papá (1 pose nueva)
 | # | Pose | Fuente | Sirve para |
@@ -292,6 +293,20 @@ hay nada que corregir aquí.
   secundaria si la lámina usa un personaje distinto a Mafalda.
 
 ## No encontré
+- ⚠️ **Manolito, Libertad y Miguelito en la animación de 1972**: muestreé los 5
+  episodios (cada 300-400 s) y no logré identificarlos con seguridad. Vi un
+  niño de pelo castaño liso y jersey turquesa en el episodio 2 (min. 35:00,
+  discutiendo con Mafalda) que **podría ser Felipe** (mismo color de jersey
+  que en el corto de ajedrez de Dailymotion) pero **no lo doy por Manolito**:
+  la wiki describe a Manolito con "pelo cortado en forma de cepillo, cejas
+  pobladas, gordito" y este niño no tiene esos rasgos. No afirmo que
+  Manolito, Libertad o Miguelito no aparezcan en la serie de 1972 — sólo que
+  no los encontré en el muestreo que hice (no es fotograma a fotograma).
+- ⚠️ **Efectos de sonido y onomatopeyas reconocibles** (parte del punto 9):
+  Mafalda es una tira hablada, no encontré un SFX propio tipo "¡bang!" que el
+  fandom reconozca; puede que no aplique a esta obra (no es un shonen de
+  acción). No lo doy por cerrado, sólo no apareció en nada de lo que miré o
+  escuché.
 - ⚠️ **Compositor de la cortina musical** de los cortos de 1972 ni de la
   serie de 1993: seguí sin encontrarlo (Internet Archive y Dailymotion no
   traen créditos musicales).
@@ -342,7 +357,7 @@ hay nada que corregir aquí.
 | 4 · Sitios, luz, paleta medida | ✅ | 7 hex medidos con Pillow en fotogramas reales (antes la biblia sólo tenía "propuesta, sin medir"); corrige la afirmación de que sólo Netflix tiene color |
 | 9 · Música | ⚠️ | cortina escuchada y descrita (tono, tipo), pero sin compositor ni banda sonora publicada (no existe en las fuentes abiertas) |
 | 10 · Vídeos con minuto | ✅ | tabla con 9 vídeos reales, duración y qué contiene cada uno; aviso sobre el tráiler falso |
-| 14 · Poses por personaje con minuto | ✅ | 13 poses (8 Mafalda, 1 Papá, 2 Felipe, 2 Susanita), todas con fotograma y minuto reales, ninguna de memoria |
+| 14 · Poses por personaje con minuto | ✅ | 14 poses (9 Mafalda, 1 Papá, 2 Felipe, 2 Susanita), todas con fotograma y minuto reales, ninguna de memoria. Manolito, Libertad y Miguelito no se identificaron con seguridad en el muestreo (ver «No encontré») |
 
 Sigue: nada obligatorio pendiente de los puntos 2, 4, 9, 10 y 14. Si hay
 tanda extra: abrir los cortos en italiano/francés de Dailymotion por si
