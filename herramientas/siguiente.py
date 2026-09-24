@@ -2,6 +2,7 @@
 
     python3 herramientas/siguiente.py        # las 10 siguientes
     python3 herramientas/siguiente.py 3      # las 3 siguientes
+    python3 herramientas/siguiente.py 5 --lote D   # sólo las del lote D (REPARTO.md)
 
 Orden: 1) series con partes/ a medias (se sigue lo empezado), 2) casi completas
 a las que sólo faltan los puntos 18-25 (repaso corto), 3) nuevas empezadas,
@@ -24,8 +25,15 @@ def num(i):
 
 
 def main():
-    n = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+    args = sys.argv[1:]
+    lote = args[args.index("--lote") + 1].upper() if "--lote" in args else ""
+    nums = [a for a in args if a.isdigit()]
+    n = int(nums[0]) if nums else 10
     encargos = sorted((p.stem for p in (RAIZ / "encargos").glob("*.md") if p.stem[:1].isdigit()), key=num)
+    if lote:
+        rangos = {"A": [(2, 5), (31, 36)], "B": [(6, 18)], "C": [(19, 30)], "D": [(37, 56)], "E": [(57, 76)],
+                  "F": [(77, 96)], "G": [(97, 116)], "H": [(117, 131)]}[lote]
+        encargos = [e for e in encargos if any(a <= num(e) <= b for a, b in rangos)]
     cola = []
     for id in encargos:
         d = RAIZ / "biblias" / id

@@ -14,6 +14,13 @@ investigadores, en `AYUDANTE.md` («Ahorra sin recortar»).
 fuente, minuto y tamaño. Al final, otra sesión de Claude hará las láminas
 guiándose sólo por las biblias: lo que no esté escrito, no existe.
 
+## Si eres un lote (varias cuentas a la vez)
+
+Lee `REPARTO.md`. Al empezar: `herramientas/juntar.sh` y `echo <letra> > .lote`.
+Usa `siguiente.py 5 --lote <letra>` y toca sólo tus series y `lotes/<letra>.md`
+(ahí van tu estado, tus avisos para el dueño y tus costos; ESTADO.md,
+DECISIONES.md, COSTOS.md y TANDAS.md los lleva la central).
+
 ## Una vez por contenedor
 
 1. `pip install -q -U "yt-dlp[default]" Pillow fontTools requests faster-whisper "scenedetect[opencv-headless]" praat-parselmouth onnxruntime`

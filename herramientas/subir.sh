@@ -54,7 +54,10 @@ if [[ "$modo" == "repaso" ]]; then
 else
   casilla="- [ ] $id"
 fi
-if grep -qxF -- "$casilla" TANDAS.md; then
+lote="$(cat .lote 2>/dev/null || true)"
+if [[ -n "$lote" ]]; then
+  echo "Lote $lote: no marco TANDAS.md (lo marca la central con juntar.sh --marcar)"
+elif grep -qxF -- "$casilla" TANDAS.md; then
   python3 - "$casilla" <<'PY'
 import sys
 c = sys.argv[1]
@@ -79,7 +82,7 @@ fi
 hechas=$(grep -E -c -- "^- \[x\] [^r]|^- \[x\] r[^e]" TANDAS.md || true)
 repasos=$(grep -c -- "^- \[x\] repaso " TANDAS.md || true)
 
-git add -- "$dir" TANDAS.md
+git add -- "$dir" TANDAS.md lotes 2>/dev/null || git add -- "$dir"
 if git diff --cached --quiet; then
   echo "Nada nuevo que subir en $dir"; exit 0
 fi
