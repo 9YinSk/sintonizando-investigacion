@@ -57,7 +57,95 @@
 
 ### Punto 20 · Gustos y detalles (SBS, Vivre Card, databooks, wiki)
 
-(pendiente)
+**Fuentes de este punto** (nuevo entero):
+- **Ficha oficial** de cada uno en one-piece.com (edad, cumpleaños, altura, origen, comida favorita), leída en el HTML: [Luffy](https://one-piece.com/character/luffy/index.html), [Zoro](https://one-piece.com/character/zoro/index.html), [Nami](https://one-piece.com/character/nami/index.html), [Usopp](https://one-piece.com/character/usopp/index.html), [Sanji](https://one-piece.com/character/sanji/index.html), [Chopper](https://one-piece.com/character/chopper/index.html), [Robin](https://one-piece.com/character/robin/index.html), [Franky](https://one-piece.com/character/franky/index.html), [Brook](https://one-piece.com/character/brook/index.html). Jinbe no tiene ficha (da 404).
+- **One Piece Wiki**, apartado «SBS-Based Trivia» de cada página «/Misc.» (con el número de SBS), p. ej. [Luffy/Misc.](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Misc.), y la caja de datos de cada personaje (API).
+- **Animate Times**, «麦わらの一味パーソナルデータまとめ» (4-ene-2025), que junta los SBS por tomo: [página 1](https://www.animatetimes.com/news/details.php?id=1735003864) y [página 2](https://www.animatetimes.com/news/details.php?id=1735003864&p=2).
+- Donde coinciden dos de las tres: ✅.
+
+**Ficha rápida (tras el salto de 2 años)** · ficha oficial + wiki + Animate Times · ✅ todo salvo lo marcado
+
+| Quién | Edad | Cumpleaños | Altura | Comida favorita | Lo que no come |
+|---|---|---|---|---|---|
+| Luffy | 19 | **5 de mayo** (Día del Niño en Japón: «por lo niño que es») | 174 cm (172 antes) | **Toda la carne** (肉全般) | la tarta de cerezas «de cierto sitio» (la de su cena con Barbanegra, cap. 223) |
+| Zoro | 21 | **11 de noviembre** | 181 cm | **arroz blanco, carne de rey marino y lo que acompañe al sake** | el chocolate («muy dulce») |
+| Nami | 20 | **3 de julio** (7-3 = «Na-mi») | 170 cm | **mandarinas** y toda la fruta | la naranja confitada con chocolate («la fruta, tal cual») |
+| Usopp | 19 | **1 de abril** (día de las bromas en Japón: el mentiroso) | 176 cm | **el paparda (サンマ) de isla de otoño** y el pescado de temporada | las setas («una vez le sentaron mal») |
+| Sanji | 21 | **2 de marzo** (3-2 = «San-ji») | 180 cm | **pasta picante de marisco** y lo que acompañe al té | la konjac («no alimenta») |
+| Chopper | 17 | **24 de diciembre** (Nochebuena) | 90 cm (forma mitad reno) | **algodón de azúcar**, chocolate y todo lo dulce | todo lo picante |
+| Robin | 30 | **6 de febrero** (2-6 = «Ni-ro») | 188 cm | **sándwiches**, tartas no muy dulces y lo que acompañe al café | el chicle («no se puede tragar») |
+| Franky | 36 | **9 de marzo** | 240 cm | **hamburguesas, papas fritas** y lo que acompañe a la **cola** | los malvaviscos («no son duros») |
+| Brook | 90 | **3 de abril** (4-3 = «Yo-mi», su fruta) | 277 cm | **curry** | los limones («no tiene mejillas para poner cara de ácido») |
+| Jinbe | 46 | **2 de abril** | 301 cm | alga *mozuku* en vinagre y fruta | el parfait («difícil de comer») · sin ficha oficial: wiki + Animate ✅ |
+
+- Lo que no comen sale del **SBS del tomo 73**; lo que les gusta, del **SBS 45** · wiki + Animate Times · ✅.
+- Usopp: la wiki dice que las setas le sentaron mal en el cap. 46, no en un SBS; Animate lo pone en el SBS 73 · ✅ el dato, ⚠️ de dónde sale.
+
+**Lo que se llevaron de Wano (SBS 103)** · wiki + Animate · ✅: Luffy *oden* · Zoro sushi · Nami *oshiruko* · Usopp caballa en miso · Sanji *chawanmushi* · Chopper *daifuku* de fresa · Robin soba · Franky *tendon* · Brook *dango* · Jinbe *ochazuke*.
+- Oda bromeó con que Zoro llama a sus ataques como el sushi (Onigiri, etc.) **porque nunca lo había probado** · wiki, SBS 44 · ⚠️ (broma de Oda).
+
+**El plato que mejor cocina cada uno (SBS 79)** · wiki + Animate · ✅: Luffy «carne cruda en un plato» · Zoro *sashimi* · Nami pato asado con salsa de mandarina · Usopp *fish and chips* · Sanji todo (lo mejor, marisco) · Chopper jugo mezclado · Robin guiso y paella · Franky barbacoa · Brook **churrasco** · Jinbe *tataki* de bonito.
+- **«Los únicos que cocinan de verdad son Nami, Usopp y Robin»; el resto sólo corta, asa o mezcla** · Animate (resumen del SBS 79) · ⚠️.
+
+**Su color, su número y su animal (SBS 20, 40, 59)** · wiki + Animate · ✅. **Sirve para la lámina**: cada paso del canal puede llevar el color de su personaje.
+- Colores: Luffy **rojo** · Zoro **verde** · Nami **naranja** · Usopp **amarillo** · Sanji **azul** · Chopper **rosa** · Robin **morado** · Franky **celeste** · Brook **blanco y negro** · Jinbe **ocre**.
+- Número (el orden en que entraron): Luffy 01 · Zoro 02 · Nami 03 · Usopp 04 · Sanji 05 · Chopper 06 · Robin 07 · Franky 08 · Brook 09 · Jinbe 10. Vivi tiene el **5,5** (SBS 76) · wiki · ⚠️ lo de Vivi.
+- Animal: Luffy mono · Zoro tiburón · Nami gato · Usopp armadillo · Sanji pato · Chopper reno · Robin grulla · Franky toro · Brook caballo · Jinbe oso.
+
+**Si One Piece pasara en el mundo real, cada uno sería de… (SBS 56)** · wiki + Animate · ✅
+- **Luffy, de Brasil.** Zoro, Japón · Nami, Suecia · Usopp, África · Sanji, Francia · Chopper, Canadá · Robin, Rusia · Franky, Estados Unidos · Brook, Austria · Jinbe, India. Law, Alemania (SBS 88, sólo wiki ⚠️).
+- **Para un servidor latino: Oda hizo a Luffy brasileño.** Es un guiño que se puede usar en un texto del bot.
+
+**Si no fueran piratas (SBS 76)** · wiki + Animate · ✅: Luffy **bombero** · Zoro policía · Nami **educadora de guardería** · Usopp diseñador gráfico · Sanji peluquero · Chopper **maestro de primaria** · Robin azafata · Franky piloto · Brook detective · Jinbe jefe de estación.
+
+**Si fueran una familia (SBS 48 y 99)** · wiki + Animate · ✅: Zoro el hermano mayor · Sanji el segundo («el rebelde») · Usopp el tercero · **Luffy el cuarto** · Chopper el pequeño · Nami la hija · Robin la madre · Jinbe el padre · Brook el abuelo · Franky era «el padre» y, al llegar Jinbe, Oda lo pasó a «abuela pervertida».
+
+**Cómo huele cada uno, según la nariz de Chopper (SBS 40)** · wiki + Animate · ✅: Luffy a **carne** · Zoro a **hierro** (la wiki dice «acero») · Nami a **mandarina y dinero** · Usopp a pólvora · Sanji a tabaco y marisco · Robin a flores · Franky a cola · Brook a **té** · Jinbe a mar · Chopper: «yo no lo sé».
+
+**A qué hora duermen (SBS 74)** · wiki + Animate · ✅
+- Luffy «cuando le entra sueño» y se despierta «cuando se despierta» (unas 5 horas) · **Zoro de 4 a 7, más las siestas** · Nami de 23 a 7 · Usopp de 1 a 8 · **Sanji y Brook de 0 a 5** (los que antes se levantan) · **Chopper de 21 a 7: el que antes se acuesta y más duerme** · Robin de 23 a 6 · Franky de 1 a 9 · Jinbe de 3 a 9.
+
+**Cada cuánto se bañan (SBS 67)** · wiki + Animate · ✅: Nami, Sanji y Robin a diario · Usopp, Chopper y Franky cada 3 días · **Luffy, Zoro y Brook una vez por semana**.
+
+**Carrera de 50 metros (SBS 85)** · wiki + Animate · ✅: 1 Brook («pesa poco») · 2 Sanji · 3 Luffy · 4 Chopper · 5 **Zoro («en una carrera más larga se saldría del camino»)** · 6 Usopp · 7 Nami · 8 Robin · 9 Franky. Jinbe, el último (wiki).
+
+**Quién aguanta más el alcohol (SBS 106)** · wiki + Animate · ✅: 1 Jinbe · 2 Zoro · 3 **Nami** · 4 Franky · 5 Sanji · 6 Robin · 7 Brook · 8 Usopp · 9 Luffy («podría beber más, pero prefiere comer») · 10 Chopper.
+
+**Su isla favorita (SBS 38)** · wiki + Animate · ✅: Luffy «el verano está bien, pero la nieve me hace feliz; **donde haya carne**» · Zoro, otoño en isla de otoño · Nami, verano en isla de primavera · Chopper, primavera en isla de invierno · **Sanji: «la Robin-chan de la isla Nami-san»** (Usopp dice que es de idiotas).
+
+**Lo que tienen en la cabeza (SBS 59)** · wiki · ⚠️ (Animate lo cita pero su página no lo copia): Luffy «**carne, carne, carne, carne, Rey de los Piratas**» · Zoro «espada, espada, fuerza, entrenar, dormir» · Nami «dinero ×4, belleza» · Usopp «guerrero, mentira, mentira, huir, huir» · Sanji «mujeres, cocinar, cocinar, Nami-san, Robin-chan» · Chopper «médico, medicina, dulce, confianza, bestia» · Robin «aprender, leer, historia, antiguo, secreto» · Franky «raro ×3, bailar, hierro» · Brook «bragas, broma, risa, té, té». **Y en todos, al fondo: «amistad» (仲間).**
+
+**Aficiones (SBS 82)** · wiki · ⚠️ una fuente (la de Luffy, ✅ con la ficha oficial: «le encantan los banquetes», 宴が大好き): Luffy aventuras y **banquetes** · Zoro entrenar y beber · Law pasear y coleccionar monedas conmemorativas.
+
+**Quién corta el pelo a bordo (SBS 70 y 99)** · wiki + Animate · ✅: Usopp, Sanji y Robin, «a quien le apetezca».
+
+**El objeto que siempre lleva** · fichas oficiales + wiki · ✅
+- Luffy: **el sombrero de paja**, prestado por Shanks («se lo confió», 預かった: tiene que devolverlo).
+- Zoro: **tres espadas** (una en la boca) y el pañuelo negro en el brazo.
+- Nami: la **vara del clima** (天候棒, Clima-Tact) y el Log Pose en la muñeca.
+- Usopp: **su tirachinas** y sus inventos («百発百中», no falla nunca).
+- Sanji: el **cigarro**; pelea sólo con las piernas porque **«las manos son la vida del cocinero»**.
+- Chopper: el **sombrero rosa del Dr. Hiluluk** y su maletín; las *Rumble Balls*.
+- Robin: sus libros (lee los *Poneglyph*); ninguna arma.
+- Franky: **gafas de sol, bañador tipo bikini** («su único traje de gala», del que está orgulloso) y **cola** como combustible.
+- Brook: **violín**, bastón con espada dentro y el afro; y la **taza de té**.
+
+**Cómo se ve cada uno a sí mismo** · fichas oficiales + wiki · ✅ salvo lo marcado
+- Luffy: libre; **no quiere ser héroe** («un héroe reparte su carne; yo me la quiero comer toda», cap. 522) · wiki · ⚠️ el capítulo.
+- Zoro: **el n.º 2 de la tripulación, no «vicecapitán»** (SBS del tomo 102) · [wiki, «Mythbusters»](https://onepiece.fandom.com/wiki/Mythbusters/Misunderstandings_and_Misinformation) · ⚠️ una fuente.
+- Usopp: se sabe cobarde y quiere ser **«un valiente guerrero del mar»** (勇敢な海の戦士), como su padre, Yasopp · ficha oficial + wiki · ✅.
+- Sanji: **«caballero»** (騎士道精神): prefiere morir a pegar a una mujer · ficha oficial · ✅.
+- Chopper: teme que lo vean como **monstruo**; quiere ser **«la medicina que lo cura todo»** (万能薬) · ficha oficial · ✅.
+- Franky: **orgulloso de ser «pervertido»** (lo toma como un cumplido) · ficha oficial + wiki · ✅.
+- Brook: **«Soul King»**, estrella de rock con gira mundial tras el salto · ficha oficial · ✅.
+
+**Secundarios más votados** · wiki (caja de datos y «Misc.») · ⚠️ una fuente salvo lo marcado
+- **Law**: 26 años, 191 cm, 6 de octubre · come *onigiri* y pescado asado; **odia el pan y la ciruela encurtida** (SBS 71 y 81).
+- **Ace**: 1 de enero, 185 cm · espaguetis con chile fantasma y carne de oso.
+- **Shanks**: 39 años, 199 cm, 9 de marzo (el mismo día que Franky) · arroz frito con kimchi y langosta; odia los arándanos; afición: vagabundear.
+- **Mihawk**: vino tinto; odia el *nabe*; aficiones: cultivar la tierra con calma y coleccionar vino.
+- **Carrot** (9.ª en Latinoamérica en 2026, 5.ª en 2021): **zanahorias**.
+- **Sabo**: ramen; odia las trufas.
 
 ### Punto 21 · Por qué la gente la ama
 
