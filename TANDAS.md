@@ -40,7 +40,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 - [ ] 13-rick-and-morty
 - [x] 14-adventure-time-hora-de-aventura
 - [ ] 15-spongebob-bob-esponja
-- [ ] 16-neon-genesis-evangelion
+- [x] 16-neon-genesis-evangelion
 
 ## Tanda S5
 
