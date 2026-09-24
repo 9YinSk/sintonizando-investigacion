@@ -87,7 +87,58 @@ una sala, megáfono con la voz de un personaje):
 
 ### Punto 25 · El mundo, la historia y sus símbolos
 
-(pendiente)
+**Las reglas del mundo, en cinco líneas** (wiki oficial, `action=parse` de las páginas de cada término, 24-sep-2026; los términos de dominio/velo/destello negro ya están en `biblia.md` §0 y §6, no se repiten)
+
+1. La **energía maldita** (呪力, *Juryoku*) sale de las emociones negativas de la gente (miedo, pena, rabia, vergüenza) y, si se acumula en sitios con mucho estrés (colegios, hospitales), forma **espíritus malditos** ✅ [wiki, «Cursed Energy»](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Energy).
+2. Sólo una maldición puede acabar con otra maldición: por eso existen los **hechiceros de jujutsu**, que absorben energía maldita y la usan con su propia **técnica maldita** heredada o innata ✅ (ficha general de la wiki, ya citada en `biblia.md`).
+3. Los **votos vinculantes** (縛り, *Shibari*) son contratos que un hechicero hace consigo mismo o con otro: aceptar una restricción a cambio de más poder; romperlos tiene consecuencias graves ✅ [wiki, «Binding Vow»](https://jujutsu-kaisen.fandom.com/wiki/Binding_Vow). Algunos nacen ya con una **restricción celestial** (天与呪縛, *Ten'yo Jubaku*): un voto de nacimiento que cambia el cuerpo a cambio de energía maldita (caso de Toji, sin energía maldita pero físicamente sobrehumano) ✅ [wiki, «Heavenly Restriction»](https://jujutsu-kaisen.fandom.com/wiki/Heavenly_Restriction).
+4. El poder se mide en **grados** (especial, 1 a 4), igual para hechiceros, maldiciones y **herramientas malditas** (呪具, *Jugu*): armas cargadas de energía maldita que hasta alguien sin poderes puede usar para matar sin que la ley normal lo alcance ✅ [wiki, «Cursed Tool»](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Tool).
+5. Gobierna todo la **Sede de Jujutsu** (Jujutsu Headquarters) y, por encima, las **Tres Grandes Familias** (御三家, *Gosanke*: Zenin, Gojo y Kamo), clanes con más de mil años (desde la era Heian) que heredan técnicas de sangre y deciden quién dirige las dos escuelas (Tokio y Kioto) ✅ [wiki, «Sorcerer Clan»](https://jujutsu-kaisen.fandom.com/wiki/Sorcerer_Clan).
+
+**La historia por arcos** (oficial, wiki: 9 arcos, 275 capítulos, 59 episodios y 1 película ✅ [wiki, «Story Arcs»](https://jujutsu-kaisen.fandom.com/wiki/Story_Arcs); confirmado en líneas generales por una 2.ª fuente con un desglose algo distinto, ver abajo)
+
+| Arco | Capítulos / episodios | Momento clave |
+|---|---|---|
+| **Cursed Child** | 0-1 a 0-4 · película *JJK 0* | Yuta Okkotsu acepta su ejecución por un espíritu que no controla; entra a la escuela en vez de morir |
+| **Fearsome Womb** | 1-18 · ep. 1-8 | Yuji se traga el dedo de Sukuna para salvar a sus amigos y queda «poseído» por el Rey de las Maldiciones |
+| **Vs. Mahito** | 19-31 · ep. 9-13 | Nanami y Yuji contra Mahito; Yuji entiende que las maldiciones disfrutan matando |
+| **Kyoto Goodwill Event** | 32-54 · ep. 14-21 | Torneo Tokio vs. Kioto; Yuji logra su primer **Destello Negro** (ya en `biblia.md`) |
+| **Death Painting** | 55-64 · ep. 22-24, 30 | Desapariciones en el antiguo colegio de Megumi; aparecen las «Pinturas de la Muerte» |
+| **Gojo's Past** («Hidden Inventory / Premature Death») | 65-79 · ep. 25-29 | Flashback: Gojo y Geto jóvenes escoltan a Riko Amanai; la muerte de Riko separa a los dos amigos para siempre |
+| **Shibuya Incident** | 79-137 · ep. 30-47 | El plan de Geto/Kenjaku sella a Gojo dentro de una **Prisión Realm**; mueren Nanami y Nobara queda herida; el golpe más duro de la serie para el fandom (§9 y §21 de `biblia.md`) |
+| **Culling Game** | 138-221 · ep. 48-59+ (T3 en emisión) | Batalla real de hechiceros por todo Japón, en **10 colonias**, del 1-nov al 24-dic; los altos mandos se vuelven contra los protagonistas |
+| **Shinjuku Showdown** | 222-271 | Choque final entre Sukuna y los hechiceros; Gojo liberado, Sukuna con cuerpo nuevo; el final del manga (29-sep-2024) |
+
+⚠️ Una 2.ª fuente (agregador, no wiki oficial) cuenta **11 arcos** en vez
+de 9 porque parte en tres el arco «Culling Game» de la wiki
+(«Itadori's Extermination» 137-143, «Perfect Preparation» 144-158,
+«Culling Game» 159-221): es sólo una forma distinta de nombrar los
+mismos capítulos, no un desacuerdo de hechos · [Beebom, «All Jujutsu Kaisen Arcs in Order»](https://beebom.com/jujutsu-kaisen-arcs-in-order/).
+La **T3** (9-ene a 27-mar-2026, ya en `biblia.md` §1) adapta el arranque
+del Culling Game.
+
+**Emblemas, objetos icónicos y grupos**
+
+- **Las Tres Grandes Familias (御三家)**: clan **Zenin** (orientado al combate puro), clan **Gojo** (la técnica del Límite Infinito/Seis Ojos, casi extinta salvo Satoru) y clan **Kamo** (sangre maldita); llevan más de mil años enfrentados en secreto, sobre todo Zenin y Gojo (sus antiguos cabezas de familia se mataron entre sí) ✅ [wiki, «Sorcerer Clan»](https://jujutsu-kaisen.fandom.com/wiki/Sorcerer_Clan).
+- **El origen real de Sukuna, y por qué su dominio es un templo budista**: Ryōmen Sukuna (両面宿儺) es una figura real de la mitología japonesa, del *Nihon Shoki* (crónica oficial del s. VIII): un ser de la provincia de Hida (actual Gifu) con **dos caras**, **cuatro brazos** y **cuatro piernas**; en la crónica imperial es un rebelde «que saqueaba al pueblo», pero en la tradición local de los templos de Hida (Zenkyūji, Senkōji) se le venera como **fundador de templos, guardián del budismo y manifestación del Bodhisattva Kannon de Once Cabezas** ✅ dos fuentes: [Yokai.jp, «Ryōmen Sukuna»](https://yokai.jp/en/yokai/ryomen-sukuna) + [Wikipedia, «Ryomen Sukuna»](https://en.wikipedia.org/wiki/Ryomen_Sukuna). Esto explica directamente por qué el «Santuario Malévolo» de Sukuna en la serie es un santuario budista con bocas y cráneos (ya medido en `biblia.md` §5: rojo y negro).
+- **Herramientas malditas (呪具) con nombre propio**, la versión «objeto icónico» de la serie (grado especial salvo que se diga lo contrario): **Split Soul Katana** (espada de Toji y luego de Maki, corta el alma de cualquier cosa, hasta objetos inertes), **Inverted Spear of Heaven** (daga jitte de Toji que anula cualquier técnica maldita al tocarla), **Chain of a Thousand Miles** (cadena de Toji que se alarga sin límite mientras no se vea el extremo), **Playful Cloud** (bastón de pura fuerza física, sin técnica, que ha pasado por Geto, Maki, Megumi, Todo y Toji), **Sword of Extermination** (la espada que empuña Mahoraga), **Slaughter Demon** (daga ancha de Maki y Yuji), el **martillo con clavos** de Nobara (su firma, ya en `biblia.md` §15/§16) ✅ [wiki, «Cursed Tool»](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Tool) + [plantilla con la lista completa](https://jujutsu-kaisen.fandom.com/wiki/Template:Cursed_Tools).
+- Todas las herramientas malditas de las Tres Grandes Familias se guardaban en el **almacén maldito** de la Escuela de Tokio, protegido por una barrera de Tengen, hasta que Zenin y Kamo las reclamaron tras el Incidente de Shibuya ✅ misma fuente.
+
+**Vocabulario propio** (para que la IA de texto lo reconozca; kanji comprobado en la wiki, 24-sep-2026; lo ya citado en `biblia.md` —Expansión de Dominio 領域展開, Destello Negro 黒閃, velo 帳— no se repite)
+
+| Término | Kanji / romaji | Qué es |
+|---|---|---|
+| Energía maldita | 呪力 · *Juryoku* | la «gasolina» de todo el mundo de JJK |
+| Voto vinculante | 縛り · *Shibari* | un contrato de poder a cambio de una regla |
+| Restricción celestial | 天与呪縛 · *Ten'yo Jubaku* | un voto de nacimiento (caso Toji) |
+| Técnica maldita inversa | 反転術式 · *Hanten Jutsushiki* | convertir energía maldita en curación |
+| Dominio simple | 簡易領域 · *Kan'i Ryōiki* | una defensa exprés sin abrir un Dominio completo |
+| Batalla Real / Culling Game | 死滅回遊 · *Shimetsu Kaiyū* | el torneo a muerte por todo Japón (T3) |
+| Tres Grandes Familias | 御三家 · *Gosanke* | Zenin, Gojo, Kamo |
+| Herramienta maldita | 呪具 · *Jugu* | arma cargada de energía maldita |
+
+Fuentes de esta tabla: las mismas fichas de la wiki citadas arriba, cada
+kanji comprobado en el wikitext, no de memoria.
 
 ## Lo mejor para la lámina
 
