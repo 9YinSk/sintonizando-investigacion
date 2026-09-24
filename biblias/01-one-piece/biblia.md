@@ -359,7 +359,7 @@ trae una plantilla de cartel de 786×1112 (de fans, basada en
 Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del anime miden unos 745×1080 en la wiki** (proporción 1:1,45; hoja O3-O9).
 
 **Fan art (sólo para mirar; enlace y autor):**
-- **Pixiv** (API pública de búsqueda, etiqueta 手配書 = «cartel de se busca»): una serie de carteles dibujados de la tripulación por **パッチ** ([Jinbe](https://www.pixiv.net/artworks/112625220), 2687×2356; [Brook](https://www.pixiv.net/artworks/112512203), 2778×2464; [Franky con el Sunny](https://www.pixiv.net/artworks/112487221), 2687×2392); un **cartel de Ace clavado en madera** por **パープル** ([enlace](https://www.pixiv.net/artworks/144627348), 503×745, etiqueta 木材 «madera»); y un Luffy de después del salto en cartel por **絵ノ修行僧** ([enlace](https://www.pixiv.net/artworks/149846890), 2845×4029). ⚠️ Pixiv marca como **hechos con IA** otros de la misma búsqueda (p. ej. [147503063](https://www.pixiv.net/artworks/147503063)): descartados.
+- **Pixiv** (API pública de búsqueda, etiqueta 手配書 = «cartel de se busca»): una serie de carteles dibujados de la tripulación por **パッチ** ([Jinbe](https://www.pixiv.net/artworks/112625220), 2687×2356; [Brook](https://www.pixiv.net/artworks/112512203), 2778×2464; [Franky con el Sunny](https://www.pixiv.net/artworks/112487221), 2687×2392); un **cartel de Ace clavado en madera** por **パープル** ([enlace](https://www.pixiv.net/artworks/144627348), 503×745, etiqueta 木材 «madera»); y un Luffy de después del salto en cartel por **絵ノ修行僧** ([enlace](https://www.pixiv.net/artworks/149846890), 2845×4029). **Ojo:** Pixiv marca como **hechos con IA** otros de la misma búsqueda (p. ej. [147503063](https://www.pixiv.net/artworks/147503063)): descartados.
 - **ArtStation** (API de búsqueda): «[Thousand Sunny at Sunset](https://www.artstation.com/artwork/z4w3m)» de **Mike Christensen**, «[Thousand Sunny (One Piece)](https://www.artstation.com/artwork/1NakR3)» de **Sean D. Phillips**, «[Going Merry](https://www.artstation.com/artwork/AqD6qe)» de **Michael Ollerton**, «[One Piece "The Journey Begins..."](https://www.artstation.com/artwork/8w1kJn)» de **Tobias Heib** y «[Straw Hats and the Flying Dutchman](https://www.artstation.com/artwork/Jv30Z)» de **Igor Wolski**.
 - La plantilla clásica de cartel de fans es la de
 [ei819 en DeviantArt](https://www.deviantart.com/ei819/art/One-Piece-Wanted-Poster-104165885)
@@ -446,7 +446,7 @@ Se bajó y se midió. Sólo como referencia de proporciones: **los carteles del 
   - «[One Piece Strawhat Pirate Ships Wallpaper](https://www.deviantart.com/weissdrum/art/One-Piece-Strawhat-Pirate-Ships-Wallpaper-411055532)» de **weissdrum** (2013), 1131×707: el Merry y el Sunny juntos.
   - «[Calm Days](https://www.deviantart.com/meldinar/art/Calm-Days-904227502)» de **Meldinar** (2022), 1192×670: Zoro y Chopper en la nieve.
   - «[One piece wallpaper - Vast ocean](https://www.deviantart.com/prank0/art/One-piece-wallpaper-Vast-ocean-202140060)» de **Prank0** (2011), 1024×576.
-  - ⚠️ Descarté los de **PurewallFR** (2026, «4K»): tienen pinta de hechos con IA, justo lo que el dueño no quiere.
+  - **Descartados:** los de **PurewallFR** (2026, «4K»): tienen pinta de hechos con IA, justo lo que el dueño no quiere.
 - Datos por el RSS y el oEmbed públicos de DeviantArt.
 
 ---
@@ -647,6 +647,21 @@ de nombre, no un rectángulo blanco.
 - **Vestuario** (medido en la hoja P23, anime antes del salto): sombrero rosa `#B9696D` con una **X blanca** `#D2D2D2` (`#DA5F5B` en el arte del juego, 0596), pelaje `#C6A882`, **nariz azul grisácea** `#628190` (en el manga a color, P22, azul marino `#192B63`), astas `#947255`, pantalón corto granate `#5D2C3F` y **maletín blanco de médico** (P23). Tras el salto, sombrero rosa y cian (1369). *Antes: pelaje `#937555` y nariz `#425582`, de una muestra pequeña y dudosa.*
 - **Voz latina:** Nallely Solís ✅.
 
+### Los secundarios más queridos (en corto, segunda pasada)
+
+El encargo pide también a los secundarios más queridos. En 2026 van **Law 5.º y Robin 6.ª** en el mundo (§2).
+
+**Nico Robin — la que llegó la última (6.ª mundial)** ✅ ([ficha oficial](https://one-piece.com/character/robin/index.html) + [wiki, ep. 130](https://onepiece.fandom.com/wiki/Episode_130) + clip mirado, §12)
+- **Por qué importa para #bienvenidas:** es **la historia de «alguien nuevo que sube al barco»**. La ficha oficial la titula «**de percha de paso a compañera de verdad**» (宿り木から真の仲間へ): se unió pensando que sería algo temporal, desconfiaba de todos y **el trato sin dobleces de la tripulación la fue ganando**.
+- **Carácter:** arqueóloga de Ohara, doctora desde niña; su sueño es leer el Rio Poneglyph. Siempre **tranquila y sonriente**; sigue las locuras de Luffy «con una sonrisa». A veces suelta una frase cortante, y **sus comparaciones, dichas muy seria, son negrísimas** (ficha oficial; la [wiki](https://onepiece.fandom.com/wiki/Nico_Robin/Personality_and_Relationships) lo llama «Morbid Behavior»: siempre imagina lo peor, **para susto de Nami y Usopp**). Es el chiste que el fandom le conoce.
+- **Cómo habla (latino, Kerygma Flores ✅):** explica con calma y datos: «Ahora mismo nos encontramos en la **Gran Ruta Marítima**. Es un **Log Pose**…» (§10.1). Buena voz para «cómo funciona el servidor».
+- **Poses vistas (ep. 130, [clip](https://www.dailymotion.com/video/x61uaq4)):** [0:45](https://www.dailymotion.com/video/x61uaq4?start=45) aparece en la puerta del camarote, brazos sueltos, blusa lila → **presentarse**; [1:24](https://www.dailymotion.com/video/x61uaq4?start=84) sonríe en la escalera → **saludar**; [1:42](https://www.dailymotion.com/video/x61uaq4?start=102) se estira en una tumbona → **tono relajado**; **[2:03](https://www.dailymotion.com/video/x61uaq4?start=123) barbilla en la mano, media sonrisa: «Let me… join your crew»** → **pedir entrar** (la pose del recién llegado); [2:06](https://www.dailymotion.com/video/x61uaq4?start=126) los chicos gritan «¡¿Qué?!» → humor.
+- **Recompensa:** 930.000.000 ✅ (ficha oficial + wiki).
+
+**Trafalgar Law — el aliado (5.º mundial)** ✅ ([ficha oficial](https://one-piece.com/character/law/index.html) + wiki)
+- Capitán de los Piratas Heart, «el Cirujano de la Muerte»; su fruta, la Ope Ope, le deja operar y cambiar cuerpos. De niño iba a morir de la enfermedad del plomo ámbar; lo salvó Corazón. **Se alió con los Sombrero de Paja para tumbar a Kaido.**
+- No es de la tripulación: en #bienvenidas sólo como **guiño** (un cartel suyo entre los carteles del concepto A). Su voz latina **no la encontré** en la página de Doblaje Wiki de la serie ni tiene página propia allí.
+
 ### Recompensas actuales (tras Wano, capítulo 1058) ✅
 Luffy **3.000.000.000**, Zoro **1.111.000.000**, Jinbe 1.100.000.000,
 Sanji **1.032.000.000**, Robin 930.000.000, Usopp 500.000.000, Franky 394.000.000, Brook 383.000.000,
@@ -794,7 +809,7 @@ Openings y endings según la ficha de ANN y, en la segunda pasada, las páginas 
 |---|---|
 | **Opening 1 «We Are!»** (oficial: [ONE PIECE Official - ENG, 1:51](https://www.youtube.com/watch?v=YoeP9w5UIlg); copia mirada: [Dailymotion x2gldv, 1:33](https://www.dailymotion.com/video/x2gldv)) | [0:03-0:18](https://www.dailymotion.com/video/x2gldv?start=3) **un pergamino viejo de bordes quemados** con la ejecución de Roger dibujada (papel `#CBB786`, quemado `#6B573B`). [0:21](https://www.dailymotion.com/video/x2gldv?start=21) la bandera pirata en gris con el mástil. [0:24-0:30](https://www.dailymotion.com/video/x2gldv?start=24) barcos en carrera sobre un mar azul intenso. [0:33](https://www.dailymotion.com/video/x2gldv?start=33) Luffy corre sobre verde. **[0:42-0:48](https://www.dailymotion.com/video/x2gldv?start=42) y [1:27-1:33](https://www.dailymotion.com/video/x2gldv?start=87): una carta náutica antigua a la acuarela, con el Going Merry dibujado navegando encima, una rosa de los vientos, rótulos a pluma y una cinta amarilla con texto; los créditos van escritos sobre el mapa** (mar `#B2D8C8`, tierra `#D3D293`, cinta `#D2BF78`, tinta `#41402E`). [1:00](https://www.dailymotion.com/video/x2gldv?start=60) puño de Luffy con el sombrero. [1:03](https://www.dailymotion.com/video/x2gldv?start=63) la tripulación en cubierta. [1:15](https://www.dailymotion.com/video/x2gldv?start=75) Luffy hace girar una moneda en el dedo. [1:18](https://www.dailymotion.com/video/x2gldv?start=78) Shanks. **[1:21](https://www.dailymotion.com/video/x2gldv?start=81) Nami, Luffy y Zoro juntos, cara a cámara, sonriendo**. [1:24](https://www.dailymotion.com/video/x2gldv?start=84) el Merry a toda vela: «We are, we are on the cruise!» |
 | **Ending 1 «memories»** (oficial: [ONE PIECE Official - ENG, 1:11](https://www.youtube.com/watch?v=N8XorsUsoL4); copia: [Dailymotion x2wazn](https://www.dailymotion.com/video/x2wazn)) | Todo es **un mar dorado al atardecer, lleno de destellos**, con **siluetas a contraluz que caminan**: una sola en [0:00](https://www.dailymotion.com/video/x2wazn?start=0); se le suman otras hasta ser cinco en [0:48-1:08](https://www.dailymotion.com/video/x2wazn?start=48) (mar `#836D2A`, sombra `#0B0601`). Créditos en blanco, en vertical. [1:10](https://www.dailymotion.com/video/x2wazn?start=70) el logo. **Ambiente: nostalgia, «la tripulación se va juntando».** |
-| **Tráiler de la serie de Netflix** («Tráiler oficial», copia de [3DJuegos México en Dailymotion, 3:07](https://www.dailymotion.com/video/x8njo84)) | [0:12](https://www.dailymotion.com/video/x8njo84?start=12) la ejecución de Roger. [0:57](https://www.dailymotion.com/video/x8njo84?start=57) **Nami lee un mapa sentada en cubierta**. [1:00](https://www.dailymotion.com/video/x8njo84?start=60) Luffy (Iñaki Godoy) sonríe bajo el sombrero. [1:42](https://www.dailymotion.com/video/x8njo84?start=102) la tripulación alrededor de una mesa. [1:45](https://www.dailymotion.com/video/x8njo84?start=105) el Going Merry. [2:24](https://www.dailymotion.com/video/x8njo84?start=144) Shanks le pone el sombrero a Luffy niño. **[2:42-2:45](https://www.dailymotion.com/video/x8njo84?start=162) una pared cubierta de carteles rotos y superpuestos: WANTED, «PIRATES? NO! NO! NO!», «SPEAK UP», «STOP», «DEAD OR ALIVE FOXY», «BELLAMY»**: papel amarillento, letras de imprenta negras, esquinas despegadas. Es **la mejor referencia de luz real** para el muro del concepto A. ⚠️ Es la serie con actores: sirve para la textura, no para el dibujo. |
+| **Tráiler de la serie de Netflix** («Tráiler oficial», copia de [3DJuegos México en Dailymotion, 3:07](https://www.dailymotion.com/video/x8njo84)) | [0:12](https://www.dailymotion.com/video/x8njo84?start=12) la ejecución de Roger. [0:57](https://www.dailymotion.com/video/x8njo84?start=57) **Nami lee un mapa sentada en cubierta**. [1:00](https://www.dailymotion.com/video/x8njo84?start=60) Luffy (Iñaki Godoy) sonríe bajo el sombrero. [1:42](https://www.dailymotion.com/video/x8njo84?start=102) la tripulación alrededor de una mesa. [1:45](https://www.dailymotion.com/video/x8njo84?start=105) el Going Merry. [2:24](https://www.dailymotion.com/video/x8njo84?start=144) Shanks le pone el sombrero a Luffy niño. **[2:42-2:45](https://www.dailymotion.com/video/x8njo84?start=162) una pared cubierta de carteles rotos y superpuestos: WANTED, «PIRATES? NO! NO! NO!», «SPEAK UP», «STOP», «DEAD OR ALIVE FOXY», «BELLAMY»**: papel amarillento, letras de imprenta negras, esquinas despegadas. Es **la mejor referencia de luz real** para el muro del concepto A. **Ojo:** es la serie con actores; sirve para la textura, no para el dibujo. |
 | **Escena 1 · ep. 37, «Luffy… ayúdame»** (copia vertical con subtítulos ingleses: [Dailymotion x9fibg6, 0:59](https://www.dailymotion.com/video/x9fibg6); oficial: [Toei Animation](https://www.youtube.com/watch?v=r6W0zGy3fcQ) y [doblada al latino, Crunchyroll en Español](https://www.youtube.com/watch?v=M-jKhyF1q20)) | [0:00-0:09](https://www.dailymotion.com/video/x9fibg6?start=0) Nami se clava el cuchillo en el hombro, llorando. [0:10](https://www.dailymotion.com/video/x9fibg6?start=10) Luffy sentado, la mira sin moverse. [0:13-0:18](https://www.dailymotion.com/video/x9fibg6?start=13) plano general de la calle del pueblo, palmeras. [0:37-0:42](https://www.dailymotion.com/video/x9fibg6?start=37) Luffy de pie, chaleco rojo, brazos caídos, cielo azul. **[0:48](https://www.dailymotion.com/video/x9fibg6?start=48) le pone el sombrero en la cabeza** y [0:51-0:52](https://www.dailymotion.com/video/x9fibg6?start=51) **Nami llora bajo el sombrero de paja**. [0:57](https://www.dailymotion.com/video/x9fibg6?start=57) Luffy grita con los brazos abiertos. En las miniaturas del clip latino: Nami llorando con el logo y **una etiqueta turquesa «LATINO»** arriba a la derecha (la marca de los clips doblados de Crunchyroll). |
 | **Escena 2 · ep. 312, el funeral del Merry** ([Marca en Dailymotion, 1:17](https://www.dailymotion.com/video/x9kpldw); subtítulos de España) | [0:02-0:06](https://www.dailymotion.com/video/x9kpldw?start=2) la tripulación de espaldas en un bote, mirando. [0:14-0:24](https://www.dailymotion.com/video/x9kpldw?start=14) **Luffy de pie ante el Merry en llamas, fuego naranja `#DA8730` y nieve cayendo**. [0:26-0:30](https://www.dailymotion.com/video/x9kpldw?start=26) Luffy llora apretando los dientes. [0:46-0:52](https://www.dailymotion.com/video/x9kpldw?start=46) el bote pequeño bajo el humo. [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66) Nami, Chopper y Robin lloran. Subtítulo: «Muchas gracias por haberme cuidado todo este tiempo». Es **la luz más bonita de la serie**, pero es una despedida: no para #bienvenidas. |
 | **Escena 3 · ep. 1, Luffy sale del barril** (captura de la wiki, hoja P5, y la «Straw Hats' Vow» del ep. 53, hoja O23) | No encontré copia del barril en vídeo que pudiera bajar: el [clip en inglés](https://www.youtube.com/watch?v=X5lBH4VzL4U) existe (miniatura: Luffy riendo junto al barril, chaleco rojo), pero YouTube no dejó bajarlo ⚠️. |
@@ -1036,7 +1051,7 @@ mejora con el cartel en blanco «TÚ» y pone a los cinco personajes pedidos.
 
 ---
 
-## 18 · Fuentes consultadas (68)
+## 18 · Fuentes consultadas (68 de la primera pasada + 50 de la segunda = 118)
 
 **Encuestas:**
 1. [ANN, encuesta 2026](https://www.animenewsnetwork.com/interest/2026-08-23/2nd-global-one-piece-character-poll-results-are-in/.240871)
@@ -1119,6 +1134,70 @@ mejora con el cartel en blanco «TÚ» y pone a los cinco personajes pedidos.
 Además, enlazadas en el texto: otros modelos de Sketchfab y texturas de
 Poly Haven, TV Tropes, GameFAQs, Game UI Database, Yahoo! Chiebukuro,
 Sportskeeda y los vídeos de YouTube y TikTok.
+
+**Nuevas en la segunda pasada (red abierta), abiertas de verdad:**
+
+*Oficiales y en japonés:*
+69. [one-piece.com, fichas de personaje (japonés)](https://one-piece.com/character/index.html)
+70. [one-piece.com, fichas de episodio (japonés)](https://one-piece.com/anime/1/index.html)
+71. [Wikipedia en japonés, «ONE PIECEの用語一覧»](https://ja.wikipedia.org/wiki/ONE_PIECE%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7)
+72. [ONE PIECE Official - ENG (YouTube de Toei): opening 1](https://www.youtube.com/watch?v=YoeP9w5UIlg)
+73. [ONE PIECE Official - ENG: ending 1](https://www.youtube.com/watch?v=N8XorsUsoL4)
+74. [Netflix Latinoamérica (YouTube): tráiler oficial](https://www.youtube.com/watch?v=JoO7TGG2Kms)
+75. [Steam, One Piece Odyssey (capturas oficiales)](https://store.steampowered.com/app/814000/)
+
+*Wikis de fans:*
+76. [One Piece Wiki (API): galerías, tamaños y personalidad](https://onepiece.fandom.com/wiki/Roronoa_Zoro/Personality_and_Relationships)
+77. [One Piece Wiki, «One Piece Music»](https://onepiece.fandom.com/wiki/One_Piece_Music)
+78. [One Piece Wiki, «Laughter Style»](https://onepiece.fandom.com/wiki/Laughter_Style)
+79. [One Piece Wiki, OST «NEW WORLD»](https://onepiece.fandom.com/wiki/One_Piece_OST_-_NEW_WORLD)
+80. [One Piece Wiki, episodio 130](https://onepiece.fandom.com/wiki/Episode_130)
+81. [One Piece Wiki en español, «One Piece en Latinoamérica»](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica) (ya citada, ahora leída entera por la API)
+
+*Doblaje latino:*
+82. [Doblaje Wiki, One Piece (4Kids)](https://doblaje.fandom.com/es/wiki/One_Piece_(4Kids))
+83. [Doblaje Wiki, One Piece (2023)](https://doblaje.fandom.com/es/wiki/One_Piece_(2023))
+84. [Doblaje Wiki, Film Red](https://doblaje.fandom.com/es/wiki/One_Piece_Film:_Red)
+85. [ANMTV, Thriller Bark (Daniel Lacy, cambio de voces)](https://www.anmtvla.com/2023/07/one-piece-netflix-estrena-nueva-tanda.html)
+86. [ANMTV, especial 2022 (Azteca 7, Red Uno)](https://www.anmtvla.com/2022/12/especial-que-animes-tuvieron-los_28.html)
+87. [ANMTV, segundo tráiler de Netflix (dirige Mireya Mendoza)](https://www.anmtvla.com/2023/07/one-piece-netflix-presenta-el-segundo.html)
+88. [Netflix Latinoamérica en Facebook (Iñaki Godoy)](https://www.facebook.com/NetflixLatino/posts/un-dato-sobre-one-piece-i%C3%B1aki-hizo-la-voz-de-luffy-en-espa%C3%B1ol-y-mayumi-takama-qu/699771622189788/)
+89. [X, One Piece Doblaje Latino News («cabeza de epazote»)](https://x.com/onepiecedoblat/status/1538676239560581121)
+90. [Crunchyroll en Español, clip del ep. 37 (latino)](https://www.youtube.com/watch?v=M-jKhyF1q20)
+91. [Crunchyroll en Español, clip del ep. 92 (latino)](https://www.youtube.com/watch?v=d0ocnJWtTvw)
+92. [Crunchyroll en Español, clip del ep. 94 (latino)](https://www.youtube.com/watch?v=aKJTIxcHKkY)
+93. [Toei Animation, ep. 521 doblado](https://www.youtube.com/watch?v=PBdrLzMgKDo)
+94. [Sonica, voces de la 2.ª temporada de Netflix](https://sonica.mx/curiosidades/2026/03/18/one-piece-doblaje-en-espanol-latino-del-live-action-quien-hace-la-voz-de-chopper-y-mas-personajes-de-la-serie-de-netflix-99350.html)
+
+*Vídeo mirado (copias):*
+95. [Dailymotion, opening 1](https://www.dailymotion.com/video/x2gldv)
+96. [Dailymotion, ending 1](https://www.dailymotion.com/video/x2wazn)
+97. [Dailymotion, ep. 37](https://www.dailymotion.com/video/x9fibg6)
+98. [Dailymotion, Marca: ep. 312](https://www.dailymotion.com/video/x9kpldw)
+99. [Dailymotion, ep. 130](https://www.dailymotion.com/video/x61uaq4)
+100. [Dailymotion, 3DJuegos México: tráiler latino](https://www.dailymotion.com/video/x8njo84)
+101. [Dailymotion, Sensacine México: avance de la 2.ª temporada](https://www.dailymotion.com/video/x9xmbj6)
+
+*Arte, 3D, texturas y letras:*
+102. [Sketchfab, API de modelos (13 licencias comprobadas)](https://sketchfab.com/3d-models/thousand-sunny-one-piece-59e09814b4a14ecfb27471c4abe78be4)
+103. [Pixiv, carteles de パッチ](https://www.pixiv.net/artworks/112625220)
+104. [ArtStation, «Thousand Sunny at Sunset» (Mike Christensen)](https://www.artstation.com/artwork/z4w3m)
+105. [DeviantArt, fondo de Vuenick](https://www.deviantart.com/vuenick/art/Thousand-Sunny-Sunset-wallpaper-325029338)
+106. [DeviantArt, fondo de weissdrum](https://www.deviantart.com/weissdrum/art/One-Piece-Strawhat-Pirate-Ships-Wallpaper-411055532)
+107. [DeviantArt, plantilla de ei819](https://www.deviantart.com/ei819/art/One-Piece-Wanted-Poster-104165885)
+108. [ClayStage, plantilla del cartel](https://claystage.com/one-piece-wanted-poster-template)
+109. [ambientCG, papeles CC0](https://ambientcg.com/view?id=Paper006)
+110. [Poly Haven, wood_floor_deck](https://polyhaven.com/a/wood_floor_deck)
+111. [1001fonts, Vertiky](https://www.1001fonts.com/vertiky-font.html)
+112. [Google Fonts (Tinos, Crimson Pro, Noto Serif…) medidas con fontTools](https://fonts.google.com/)
+
+*Foros, juegos y otros:*
+113. [Reddit (Arctic Shift), error de «Gol D. Roger»](https://reddit.com/r/OnePiece/comments/1p0s5bn/alguien_más_notó_este_error_en_el_doblaje_latino/)
+114. [Yahoo! Chiebukuro (japonés), el barril](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1046262015)
+115. [GameFAQs, Dramatic Log](https://gamefaqs.gamespot.com/pc/268803-one-piece-pirate-warriors-4/faqs/78239/dramatic-log)
+116. [TikTok, «cabeza de epazote»](https://www.tiktok.com/discover/cabeza-de-epazote-one-piece)
+117. [YouTube, NicoZ21: evolución de las voces de Luffy](https://www.youtube.com/watch?v=NYILNO80hOQ)
+118. [Sportskeeda, Roof Piece](https://sportskeeda.com/anime/twitter-breaks-one-piece-episode-1015-wows-viewers-start-roof-piece-stellar-animation)
 
 ---
 
