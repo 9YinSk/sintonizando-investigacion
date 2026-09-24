@@ -31,7 +31,8 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - Zeo Thorzeus Reinbolt — Anime Design · 1200×1600 · (hoja personajes_01.jpg nº13) · Fandom Wiki (Zeo_Thorzeus_Reinbolt) · ✅
 
 ### Arte manga (portadas de tomo) y páginas del capítulo 1 (Vertical/Kodansha, autor Toshi Aoi, guion Fujino Omori)
-- Volúmenes 1 a 16 del manga listados con página propia en la wiki (portadas no todas subidas todavía) · https://wistoria.fandom.com/wiki/Volume_1_(Manga) … Volume_16 · Fandom Wiki · ⚠️ (las páginas existen pero varias portadas no están subidas a la wiki: confirmar en la tienda oficial, ver Blu-ray abajo)
+- Portada oficial del tomo 1 del manga (講談社コミックス), editorial Kodansha · 640×957 · https://dvs-cover.kodansha.co.jp/0000349822/VjUQEJvrRcZBToVCKGJ7jrEDwSReFJi8pzg7GWnz.jpg · página oficial del producto: https://www.kodansha.co.jp/comic/products/0000349822 · ✅ (la propia editorial + catálogo completo en https://www.kodansha.co.jp/titles/1000038700) · autores: guion Fujino Omori, dibujo Toshi Aoi
+- Catálogo completo de los 15 tomos publicados hasta la fecha (con enlace a cada portada individual) · https://www.kodansha.co.jp/titles/1000038700 · Kodansha oficial · ✅ · Volúmenes 1 a 16 listados también con página propia (sin portada subida) en la wiki de Fandom: https://wistoria.fandom.com/wiki/Volume_1_(Manga) … Volume_16 · ⚠️ (la wiki no tiene las imágenes; se usó el catálogo oficial de la editorial en su lugar)
 - Blu-ray Volumen 1 (temp. 1, port. con Will) y Volumen 2 (temp. 1, port. con Elfaria); Blu-ray temp. 2 Vol. 1 (port. con Will) · https://wistoria.fandom.com/wiki/Blu-ray_Volumes · Fandom Wiki · ✅ (nombres de archivo BD Volume 1.png / BD Volume 2.png / BD S2 Volume 1.png confirmados en el wikitexto de la página)
 - Edición limitada japonesa del Blu-ray de la temporada 1: viene en caja con ilustración nueva de Toshi Aoi (autor del manga) · reseña: https://gamerant.com/crunchyroll-wistoria-wand-and-sword-blu-ray-review/ · Anime News Network (releases): https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53466 · ✅ (dos fuentes) · fecha: BD temp.1 26-sep-2025 (ANN); portada de la 2ª temporada anunciada por Bandai Namco, jul-2026: https://www.fandompost.com/2026/07/18/bandai-namco-reveals-1st-wistoria-wand-and-sword-anime-2nd-season-blu-ray-release-packaging/
 
@@ -149,7 +150,6 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - Colaboración con marcas grandes tipo Fortnite o un juego gacha: búsquedas «Wistoria Fortnite», «Wistoria gacha collab» — nada encontrado; el único crossover confirmado es con Magical Sisters Lulutto Lilly (jun-2026).
 - Emblema exacto de la familia Ulster (halcón de fuego) como imagen: mencionado sólo en texto de la wiki, sin archivo de imagen subido; búsqueda `srsearch=Ulster crest OR falcon` en la wiki sin resultado de imagen.
 - Modelo 3D con licencia libre de un objeto o sitio propio de la serie (Sketchfab, Poly Haven): no existe todavía ninguno con el nombre de la obra; se listan bases genéricas de torre/espada/catedral gótica como punto de partida.
-- Portadas de los 16 tomos del manga en la wiki: la mayoría de las páginas de volumen existen pero sin imagen de portada subida; se confirmaron en cambio las portadas de los 3 Blu-ray listados.
 - Un fotograma a color (no manga en blanco y negro) del Dungeon: las imágenes reunidas de los pisos son ilustraciones de manga; un fotograma de anime a color de la mazmorra es tarea del equipo de vídeo con `fotogramas.py`.
 
 ## Bitácora de búsqueda
