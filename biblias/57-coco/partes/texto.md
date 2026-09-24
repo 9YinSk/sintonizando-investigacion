@@ -22,6 +22,10 @@ los de sus adaptaciones (cómics, libro dorado, apariciones en juegos móviles D
     6. **Cartel del mundo** (letreros de Santa Cecilia/Tierra de Muertos) → descrito arriba, estilo cartel mexicano pintado a mano, sin fuente digital documentada ⚠️.
     7. **Interfaz de juego** → resuelto en el punto 11/6: HUD de Kingdom Hearts IV (marco papel picado + icono calavera) y globos de Disney Magic Kingdoms, ambos con tipografía sans de videojuego genérica, sin nombre de fuente publicado por el estudio ⚠️.
     8. **Subtítulos/créditos** → sans-serif blanca con borde negro, estándar de Disney/streaming, sin ficha técnica pública encontrada (buscado "Coco end credits typeface", sin resultado específico) ⚠️.
+  - **Letra libre sugerida para cada uso sin fuente oficial documentada** (el encargo pide "una letra libre más parecida" para cada uno; como no hay ficha oficial de éstas, se propone la más cercana por estilo, todas verificadas con fontTools para á é í ó ú ñ Ñ ¿ ¡ — **completas las tres**):
+    - **Globo normal / grito** (cómic, mayúsculas de impacto tipo Disney Cinestory) → **Bangers** (Fontsource `bangers`, OFL) · completa ✅
+    - **Interfaz de juego** (HUD tipo KH4/DMK, redondeada y amigable) → **Baloo 2** peso 700 (Fontsource `baloo-2`, OFL) · completa ✅
+    - **Subtítulos/créditos** (sans limpia, muy legible en pantalla chica) → **Open Sans** (Fontsource `open-sans`, Apache-2.0, la más usada del mundo para subtítulos) · completa ✅
   - **Letras en pantalla dentro de la película** (letreros de Santa Cecilia, arco de la Ofrenda, cartel "Sunrise Spectacular" de Ernesto de la Cruz, partitura de "Un Poco Loco"): son rótulos pintados a mano por el equipo de arte de producción, con serifas gruesas y adornos florales estilo cartel mexicano de mediados de s. XX (carteles de lucha libre / cine de oro) — no hay una fuente digital documentada públicamente para estos rótulos; anotado en «No encontré» ⚠️.
 
 ### Punto 6 — Cómo hablan y piensan en pantalla
@@ -183,5 +187,3 @@ Punto de partida: `partes/datos-texto.md` (recolectado por `recolectar.py`) — 
 - Imágenes de Fandom vía `action=query&prop=imageinfo` (tamaños reales medidos por la API de MediaWiki): logo Coco.svg, portada Cinestory Comic, captura de diálogo de Héctor en DMK.
 
 **Bloqueado/fallido**: `logos.fandom.com` y `fonts.fandom.com` devuelven 402 por la web normal (se resolvió con la API `action=parse`, como indica AYUDANTE.md); `tcrf.net` bloquea `curl` con reto de Cloudflare (se resolvió con `site:tcrf.net` en WebSearch); `tollbit.variety.com` (redirect de Variety) da 402 (sustituido por RenderMan oficial + fxguide, mismos datos).
-
-Sigue: empezar por punto 5 (tipografía del logo y rótulos).

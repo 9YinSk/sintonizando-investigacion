@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x6awfq0?t=22",
+    "fuente": "Dailymotion — Coco - Tráiler final en español latino (HobbyConsolas)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Fotograma del tráiler oficial doblado al español latino: Miguel toca la guitarra a escondidas, ojos cerrados, en el instante en que Abuelita grita '¡Sin música!'.",
+    "para_que": "Referencia de gesto/expresión de Miguel tocando música (punto 7 y 13: manía de cerrar los ojos al cantar).",
+    "licencia": "Copyright Disney/Pixar — material promocional oficial, sólo como referencia, no para reutilizar."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6awfq0?t=77",
+    "fuente": "Dailymotion — Coco - Tráiler final en español latino (HobbyConsolas)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Fotograma del tráiler oficial doblado: abrazo entre dos familiares esqueleto en la Tierra de los Muertos, en la escena 'Somos tu familia, mijo'.",
+    "para_que": "Referencia de pose de abrazo/reencuentro familiar cálido (punto 13: dinámica familiar, calidez).",
+    "licencia": "Copyright Disney/Pixar — material promocional oficial, sólo como referencia, no para reutilizar."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6awfq0?t=118",
+    "fuente": "Dailymotion — Coco - Tráiler final en español latino (HobbyConsolas)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Fotograma del tráiler oficial doblado: panteón nocturno con velas, flores de cempasúchil y ofrenda, justo cuando Imelda dice 'nunca olvides lo mucho que tu familia te ama'.",
+    "para_que": "Referencia de ambiente/luz nocturna de cementerio para la frase icónica de Imelda (punto 8 y 13).",
+    "licencia": "Copyright Disney/Pixar — material promocional oficial, sólo como referencia, no para reutilizar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/f/f8/Coco.Miguel.ogg/revision/latest?cb=20200116222648&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Coco.Miguel.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Miguel (Luis Ángel Gómez Jaramillo), escena final defendiendo a Héctor.",
+    "para_que": "Fuente textual y de tono de voz para el punto 8 y 13 (transcrita con voz.py).",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/9/9d/Coco.Mam%C3%A1Imelda.ogg/revision/latest?cb=20200116232722&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Coco.MamáImelda.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Imelda (Angélica Vale), discurso final sobre los sacrificios de ambos por sus sueños.",
+    "para_que": "Fuente textual y de tono de voz para el punto 8 y 13.",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  }
+]
