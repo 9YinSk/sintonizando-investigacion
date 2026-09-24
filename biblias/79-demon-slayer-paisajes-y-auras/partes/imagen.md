@@ -37,8 +37,7 @@ la Llama que pide el encargo: busqué aparte la información de Kyojuro.
     https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c0/Mugen_Train_Key_Visual_2.jpeg ✅
   - *Kimetsu no Yaiba Asakusa Arc Key Visual* — 1358×1920 — grupo caminando por la
     calle nocturna de Asakusa con linternas y letreros.
-    https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/... (indice.json, fila
-    «Asakusa Arc Key Visual») ✅
+    https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9a/Kimetsu_no_Yaiba_Asakusa_Arc_Key_Visual.png/revision/latest?cb=20210831024320 ✅
   - *Kimetsu no Yaiba Rehabilitation Training Arc Key Visual* — 1448×2048 — grupo en
     la Mansión Mariposa, jardín visible.
   - *Tanjiro cuts Enmu's head off with Hinokami [...] Clear Blue Sky* — 3840×2160 —
@@ -431,7 +430,13 @@ vía Openverse — búsqueda corregida, no «onigiri»):
 | 19 · Texturas 2D | ✅ | 12 respiraciones con hex medido y técnica de dibujo (a mano, casi sin 3DCG) confirmada en dos fuentes de prensa; texturas reales CC0 equivalentes |
 | 23 · Colaboraciones y cruces | ✅ | USJ (2 restaurantes-paisaje), Kimetsu Cafe, Joypolis, Nijigen no Mori, Bandai Namco, figuras con aura 3D, cosplay (patrón, ⚠️ crédito individual) |
 
-Sigue: nada obligatorio pendiente de mis puntos. Quedan sólo extras marcados con
-⚠️ arriba (hex limpio de Natagumo/Sagiri/Swordsmith/Asakusa sin overlay, color de
-Flor/Luna, crédito individual de fan art de Safebooru, textura CC0 de ichimatsu)
-por si el redactor o el jefe los piden explícitamente.
+Parte terminada: los 6 puntos (1, 3, 15, 16, 19, 23) tienen lo obligatorio del
+encargo, cada uno con al menos dos fuentes donde lo pide ENCARGO.md. Lo que falta
+son sólo extras, ya marcados con ⚠️ arriba y en «No encontré» (hex limpio de
+Natagumo/Sagiri/Swordsmith/Asakusa sin overlay de eyecatcher, color medido de
+Flor/Luna, crédito individual de cada fan art de Safebooru, textura CC0 de
+ichimatsu): si el redactor o el jefe los piden explícitamente, se retoman desde
+aquí. Nota aparte: **Poly Haven** (mencionado en el punto 3 de ENCARGO.md) es un
+banco de texturas/HDRIs genérico sin modelos de series de anime — no tenía nada
+de Demon Slayer que enlazar; usé ambientCG en su lugar para las texturas reales
+(madera, papel, roca) del punto 16/19.
