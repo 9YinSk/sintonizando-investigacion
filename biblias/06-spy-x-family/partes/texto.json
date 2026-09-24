@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://media.sketchfab.com/models/a00408ce59324b2dbda2b45357e51b6e/thumbnails/f522a596e72d49dfb4721d0d0ee055df/318c36a6db1f41e49367d4f5e24a4e7a.jpeg",
+    "fuente": "Sketchfab (tonyhoni) — https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D descargable de Anya Forger, 67640 caras, sin rig confirmado",
+    "para_que": "Punto 18: base real para Blender (contorno, shader tipo cel, luz)",
+    "licencia": "CC Attribution (CC-BY 4.0) — uso comercial permitido citando a tonyhoni, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/688f5be5228a41eb9a7cd0817d46b8f3/thumbnails/bb680ad50dc446a1ba3e087c680c3e03/4d56d18811084beb8761771fa4dda15d.jpeg",
+    "fuente": "Sketchfab (Acadd) — https://sketchfab.com/3d-models/none-688f5be5228a41eb9a7cd0817d46b8f3",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Yor Forger",
+    "para_que": "Punto 18: base real para Blender",
+    "licencia": "CC Attribution (CC-BY 4.0), autor Acadd, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/481783da76df4e419132062b77c1527b/thumbnails/159b43244f894ef1b1a78c81c1c62b38/9239bb0efb6148fda80c328329a5b57d.jpeg",
+    "fuente": "Sketchfab (won1) — https://sketchfab.com/3d-models/none-481783da76df4e419132062b77c1527b",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Bond Forger",
+    "para_que": "Punto 18: base real para Blender",
+    "licencia": "CC Attribution (CC-BY 4.0), autor won1, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/10/Stella_Star.png/revision/latest?cb=20230202185353",
+    "fuente": "Spy x Family Wiki (Fandom), ya en referencias.json de la biblia (O·19)",
+    "ancho": 808,
+    "alto": 808,
+    "que_es": "La Estrella Stella, insignia dorada de logro académico en Eden Academy",
+    "para_que": "Punto 25: símbolo/objeto icónico del mundo (premio académico); citado también junto al Rayo Tonitrus",
+    "licencia": "Fair use / arte oficial de la franquicia, vía wiki de fans"
+  }
+]
