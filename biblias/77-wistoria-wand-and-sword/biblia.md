@@ -13,8 +13,8 @@ fecha: 2026-09-24
 >   texto) escribieron `partes/` y el redactor escribió esta biblia **sólo
 >   con lo que hay en las partes**. Lo que falta se dice, no se inventa.
 > - **Se miró de verdad**: 2 tráileres oficiales fotograma a fotograma
->   (Dailymotion, 23 y 78 planos), 3 hojas de contacto (56 imágenes de la
->   wiki y 6 de la tienda oficial), el emblema de Albis Vina, la portada del
+>   (Dailymotion, 23 y 78 planos), 3 hojas de contacto (62 imágenes: 58 de la
+>   wiki y 4 de la tienda oficial), el emblema de Albis Vina, la portada del
 >   tomo 1 y dos páginas del manga.
 > - **Colores medidos** con `estilo.py` en arte oficial y capturas del anime.
 > - **Límites**: YouTube pidió «iniciar sesión» en todo; Bilibili dio bloqueo
@@ -1502,7 +1502,7 @@ japonesa, ventas de Blu-ray.
 | 24 | Obras parecidas y otras láminas del servidor | ✅ | 11 obras de AniList, el autor, y comparación con Harry Potter, AC, MHA, Frieren y Demon Slayer; TV Tropes 403 ⚠️ |
 | 25 | Mundo, historia por arcos y símbolos | ✅ | 5 líneas, 8 arcos con episodios, Wis, emblemas, calendario, vocabulario |
 | Conceptos | 3 conceptos de lámina, con canal propuesto | ✅ | A Aula, B #en-directo, C #destacados; choques avisados |
-| Fuentes | 40 fuentes distintas | ✅ | más de 40 webs enlazadas (ver bitácora) |
+| Fuentes | 40 fuentes distintas | ✅ | 56 webs distintas enlazadas (oficiales, wikis, foros, arte, vídeo, doblaje, recursos; ver bitácora) |
 | Oficiales | web, redes, entrevistas al staff | ✅ | sitio japonés e inglés, @Wistoria_PR, Kodansha, 2 entrevistas a los autores |
 | Idiomas | japonés, inglés (coreano o chino si aplica) | ✅ | japonés (2 entrevistas, búsquedas en japonés) e inglés; la obra es japonesa |
 | Wikis y TV Tropes | Fandom, TV Tropes | ⚠️ | wiki de la serie y Doblaje Wiki por API ✅; TV Tropes 403 |
@@ -1513,7 +1513,7 @@ japonesa, ventas de Blu-ray.
 | Código y recursos | GitHub, Sketchfab, texturas | ⚠️ | Sketchfab, ambientCG, Google Fonts ✅; **GitHub no se buscó** |
 | Doblaje latino | Doblaje Wiki, ANMTV, Crunchyroll | ✅ | Doblaje Wiki por API y ANMTV; Crunchyroll sin acceso |
 | Hojas | 3 hojas de contacto | ✅ | `personajes_01`, `fondos_01`, `objetos_01`, miradas y explicadas número a número |
-| Referencias | `referencias.json`, mínimo 20 | ✅ | todas las útiles de las partes, las mejores primero, tamaños medidos |
+| Referencias | `referencias.json`, mínimo 20 | ✅ | **134**: todas las útiles de las partes, las mejores primero (las de los conceptos arriba); tamaños medidos; las páginas de texto van al final sin tamaño |
 
 ## Bitácora de búsqueda
 

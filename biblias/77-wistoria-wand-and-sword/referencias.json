@@ -513,6 +513,24 @@
   "licencia": "uso personal (Wallhaven); crédito: MAKEMO"
  },
  {
+  "url": "https://w.wallhaven.cc/full/5g/wallhaven-5g9m99.png",
+  "fuente": "Wallhaven, subido por MAKEMO",
+  "ancho": 1920,
+  "alto": 970,
+  "que_es": "Fondo de pantalla de fans: Will y Elfaria en estilo manga (6 favoritos).",
+  "para_que": "Pareja en blanco y negro; composición ancha.",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l81j1l.png",
+  "fuente": "Wallhaven, subido por MAKEMO",
+  "ancho": 1920,
+  "alto": 970,
+  "que_es": "Variante del anterior (3 favoritos).",
+  "para_que": "Pareja; composición ancha.",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/The_emblems_of_the_current_Magia_Vander_factions.png",
   "fuente": "Wistoria Fandom Wiki",
   "ancho": 1006,
@@ -576,6 +594,24 @@
   "licencia": "CC Attribution — autor farooq.smurf"
  },
  {
+  "url": "https://sketchfab.com/3d-models/none-4a4e1101f4f74dbda6e0b5f2812c3e0b",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «FREE Fantasy Gothic-Baroque Cathedral Complex» (base genérica, no oficial).",
+  "para_que": "Base en Blender para la Academia Regarden.",
+  "licencia": "CC Attribution; autor sin anotar en la parte: mirarlo en la ficha"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-45bf4401910b42108b6649b989b8b148",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Citadel of the Ember Crown - castle» (base genérica, no oficial).",
+  "para_que": "Base para murallas y torres.",
+  "licencia": "CC Attribution; autor sin anotar en la parte: mirarlo en la ficha"
+ },
+ {
   "url": "https://ambientcg.com/view?id=Paper001",
   "fuente": "AmbientCG",
   "ancho": null,
@@ -600,6 +636,15 @@
   "alto": null,
   "que_es": "Textura de mármol/piedra clara CC0",
   "para_que": "capa de piedra para la Academia y la Torre",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Metal034",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de metal dorado CC0.",
+  "para_que": "Ribetes y bordado de oro (uniforme, estandartes).",
   "licencia": "CC0"
  },
  {
@@ -829,83 +874,83 @@
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/6/69/Zephros_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Zephros Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma viento, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c1/Melgitor.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Melgitor.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma forma Melgitor, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c0/Ignis_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Ignis Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma fuego de Sion, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/30/Glauss_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Glauss Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma hielo, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/a4/Fulbeth_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Fulbeth Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma forma Fulbeth, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/Dax_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 2230,
   "alto": 1600,
-  "que_es": "Will Serfort: Dax Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma forma Dax, con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Will_Serfort_%28Thorzeus_Fasce%29_-_Anime_Design.png",
   "fuente": "Fandom wistoria",
   "ancho": 780,
   "alto": 1600,
-  "que_es": "Will Serfort: Will Serfort (Thorzeus Fasce) - Anime Design.png",
-  "para_que": "pose, ropa y colores del personaje",
+  "que_es": "Hoja de modelo de Will con el traje de la facción del Trueno (hombreras doradas).",
+  "para_que": "Vestuario de facción (personajes_01 n.º 24).",
   "licencia": "© titulares; sólo referencia"
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/5b/Albis_Wis.png",
-  "fuente": "Fandom wistoria",
+  "fuente": "Wistoria Wiki (wistoria.fandom.com), galería de Will",
   "ancho": 836,
   "alto": 1200,
-  "que_es": "Will Serfort: Albis Wis.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
+  "que_es": "Página del manga: Will con Wis en su forma hielo de Elfaria («氷姫の魔剣»), con el rótulo vertical «…の魔剣!!» a pincel (personajes_01 n.º 1-6 y 30).",
+  "para_que": "Pose de ataque con la espada y modelo del grito rotulado sin globo (§6).",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha. Sólo referencia: no reproducir en la lámina."
  },
  {
   "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/4/45/Little_Elfie_and_Will.png",
   "fuente": "Fandom wistoria",
   "ancho": 430,
   "alto": 478,
-  "que_es": "Elfaria Albis Serfort: Little Elfie and Will.png",
-  "para_que": "pose, ropa y colores del personaje",
+  "que_es": "Will y Elfaria de niños.",
+  "para_que": "Flashback de la promesa.",
   "licencia": "© titulares; sólo referencia"
  },
  {
