@@ -118,7 +118,10 @@ texturas CC0 y colaboraciones/figuras/cosplay. Trabajo pesado en
 - Imágenes miradas de verdad (Read, no sólo listadas): hoja de contacto `herramientas/referencias/vinland-saga/hoja_01.jpg` (17 imágenes de personajes); hojas propias `hojas_fondos/hoja_01.jpg` (15 fondos/mapas/paisajes) y `hojas_arte/hoja_01.jpg` (15 portadas/key visuals); `AnimationWorksPreview_Thorfinn.png` y `_Askeladd.png` y `_Thorfinn2.png` en grande.
 - Colores medidos con `herramientas/estilo.py --colores 6`: 5 hojas de diseño de vestuario (Askeladd, Canute×2, Einar, Thorfinn granjero) + 2 mapas/paisajes (Iceland, Wales) + 2 wallpapers de Wallhaven (ruinas de noche, amanecer) + retratos AniList de Thorfinn/Askeladd + 1 captura de Einar.
 
-Sigue: nada obligatorio pendiente de los puntos 1, 3, 15, 16, 19 y 23. Si hay
-más tiempo: buscar portadas de Blu-ray a mano (Amazon Japón/CDJapan), una
-segunda fuente para el crossover con Zombieland Saga, y un modelo 3D con
-licencia de Askeladd o Canute más elaborado que el lowpoly encontrado.
+Parte terminada: los puntos 1, 3, 15, 16, 19 y 23 están cubiertos con lo
+obligatorio (arte oficial variado, fan art y 3D con licencia, vestuario con
+hex medidos, fondos y paisajes con luz/paleta, texturas 2D con libres
+equivalentes, colaboraciones/figuras/cosplay), 38 referencias en `imagen.json`
+y 3 hojas en `hojas/`. Lo que falta es sólo extra y ya quedó anotado con ⚠️ en
+«No encontré» (portadas de Blu-ray, segunda fuente del crossover con
+Zombieland Saga, modelo 3D más elaborado de Askeladd/Canute).
