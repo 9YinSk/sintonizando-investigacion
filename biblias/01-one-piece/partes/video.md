@@ -230,3 +230,10 @@ openings/trailers, así que no estaban en su lista.
   (`animenewsnetwork.com`) da 403 desde este servidor.
 - Carpeta de trabajo borrada al terminar: quedaron sólo 1,7 MB de hojas antes
   de borrar (`/tmp/claude-0/trabajo/01-video`).
+
+Sigue: cerrar los huecos de poses «vivas» oficiales (Zoro explicar/animar,
+Sanji explicar/regañar, Chopper regañar/pensar/animar) mirando uno a uno los
+números de Treasure Cruise del catálogo de la biblia §3.1 que no se hayan
+citado aún; buscar doblaje latino de los clips de los eps. 53 y 483; reintentar
+YouTube (storyboards) para lograr 1080p real de las 3 escenas nuevas cuando
+deje de pedir «iniciar sesión».
