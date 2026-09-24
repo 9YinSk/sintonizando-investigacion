@@ -64,7 +64,92 @@ fecha: 2026-09-24
 
 ## 6 · Tipografía
 
-(pendiente)
+### 6.1 Los logos (lo que vi y medí) ✅
+
+**Logo del anime** «ONE PUNCH MAN» + ワンパンマン:
+- Letras **rojas, altas y estrechas**, de palo recto y esquinas
+  apenas redondeadas. Debajo, **ワンパンマン** pequeño en blanco, katakana
+  gruesa y algo inclinada.
+- En el OP de la T1 sale **sobre la Tierra al amanecer**: primero cromado
+  con brillo azul (0:12) y luego **rojo sobre negro** (0:14-0:16)
+  ([OP T1](https://www.youtube.com/watch?v=oZU6QvWHBxY&t=14), visto en copia
+  de Dailymotion, ±1 s). Igual en el PV3 de 2015 (0:33) y en su cartel final.
+- **Rojo medido**: `#D20A31` en el fotograma del OP (copia 512×288, ±10);
+  en el logo PNG de V-STORAGE (Bandai Namco) sale `#E00010` a `#B80000`.
+  La web oficial dibuja el rojo con un **degradado `#EF3033` → `#B12325`**
+  (leído en su SVG `logo_2.svg`) y el título de personajes en `#B60005`.
+- En la web oficial el «ONE PUNCH MAN» es **cromado**: degradado de grises
+  `#757575` → `#FFFFFF` (mismo SVG).
+
+**Logo del manga** (tomos japoneses de Shūeisha, portadas de capítulo):
+- «**ONEPUNCH-MAN**» todo junto, **muy estrecho, gris o negro y gastado**,
+  como un sello de goma con los bordes comidos. Debajo: «STORY by ONE &
+  DRAW by YUSUKE MURATA» en versalitas con serifa (visto en la portada del
+  cap. 100 y en la página «Chapter 64» de la wiki).
+- Los capítulos se llaman **«撃目»** («golpe n.º»): una caja negra con
+  «100撃目 [ 光 ]» en blanco y rayas verticales como un código de barras.
+
+**Logo del 10.º aniversario (2025-26)**: un **«10» rojo gigante** con la
+**cara simple de Saitama** dentro del 0, y «ONE PUNCH MAN ANNIVERSARY» en
+rojo estrecho. Rojo medido en la web: `#C81818` a `#E00010`
+([web del 10.º aniversario](https://onepunchman-anime.net/10th/)).
+
+**Carteles de personaje de la T3 (2025)**: el nombre va **enorme, en
+rojo o blanco**, en una palo seco **cuadrada y muy negra** («SAITAMA»,
+«PURI-PURI PRISONER»), y debajo el logo pequeño «ONE PUNCH MAN» en rojo
+(visual de Saitama de la wiki, 2481×3508; fondo rojo **`#E40012`**,
+medido con Pillow). Cada héroe lleva un **fondo de un color plano**.
+
+**Interfaz del juego *A Hero Nobody Knows* (2020)**: pestañas **rojas
+inclinadas** (`#E23137`, `#CE000C`) sobre **gris casi negro** (`#1C1D22`),
+con el **emblema de la Asociación de Héroes** de marca de agua; el super de
+Saitama escribe **正義執行** («ejecución de la justicia») con **pincel negro**
+enorme (capturas oficiales de Steam, 1920×1080, medidas con Pillow).
+
+### 6.2 La letra libre más parecida (comprobada con fontTools)
+
+Abrí cada archivo con `fontTools` y busqué á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.
+
+| Para imitar… | Letra libre | Licencia | ¿Tildes, ñ, ¿, ¡? | Nota |
+|---|---|---|---|---|
+| Logo del anime y nombres de la T3 | **Teko** (Bold/SemiBold) | OFL (Google Fonts) | ✅ todas | la más cercana: estrecha, cuadrada, esquinas suaves |
+| Lo mismo, más negra | **Saira Condensed Black** / **Saira Extra Condensed Black** | OFL | ✅ todas | |
+| Nombres de la T3 más anchos | **Passion One Bold** / **Russo One** | OFL | ✅ todas | cuadradas y gruesas |
+| Logo gastado del manga | **Anton** o **Bebas Neue** + textura de sello | OFL | ✅ todas (Bebas sólo mayúsculas) | el desgaste se hace con máscara |
+| Katakana del logo (ワンパンマン) y rótulos japoneses | **Dela Gothic One** | OFL | ✅ todas + kana | gruesa, muy de anime |
+| Onomatopeyas japonesas dibujadas | **Rampart One** / **Reggae One** | OFL | ✅ todas + kana | |
+| Globos de diálogo en español | **Comic Neue Bold** | OFL | ✅ todas | legible, de cómic |
+| Globos «a lo manga» | Anime Ace 2.0 BB (Blambot) | gratis sólo sin fines comerciales | ❌ **no trae ¿ ni ¡** | no usar para textos con preguntas |
+| Carta a mano (Mumen Rider) | **Kalam Bold** / **Permanent Marker** | OFL / Apache | ✅ todas | |
+| Web oficial | **Oswald**, **Ubuntu Condensed**, **Noto Sans JP** | OFL | ✅ (Oswald) | las carga la propia web oficial (Google Fonts) |
+
+⚠️ **Black Han Sans** (parece la de los nombres) **no trae ninguna tilde
+ni la ñ**: descartada.
+
+### 6.3 Los globos del manga (Murata) y los rótulos
+
+- **Globos**: óvalos blancos de **línea fina y limpia**; el grito, en
+  globo **de pinchos**. Las **onomatopeyas** son **enormes y dibujadas a
+  mano** y rompen las viñetas: «INCINERATE!!!» en vertical, «WHOOSH»,
+  «BAM» (escaneos de VIZ en la wiki, hojas 1-2).
+- La cara de **Saitama «simple»** (óvalo, dos puntos, boca raya) convive con
+  el Saitama «serio» muy sombreado **en la misma página**. Es el chiste
+  visual base (la wiki: «su diseño cambia según el tono»).
+- **Las fichas de la guía oficial** (el *databook* de VIZ) mezclan
+  recortes, flechas, etiquetas en caja negra («PERSONALITY», «ABILITY»,
+  «PROFILE», «SPECIAL») y letra de máquina: parecen una **revista de
+  héroes** (wiki, «Saitama Databook», 1920×1500).
+- **Ediciones en español**: ⚠️ no comprobé la letra de los globos de Ivrea
+  ni de Panini (ver §20).
+
+### 6.4 Qué NO hacer
+
+- Poner el logo en **amarillo**: el amarillo es del traje, el logo es **rojo**
+  (o cromado).
+- Usar una letra redonda y alegre (tipo Bangers inclinada) para todo: el
+  logo es **recto y serio**; la gracia está en el contraste con la cara de
+  Saitama.
+- Textos largos en Anime Ace: **sin ¿ ni ¡**.
 
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
 
