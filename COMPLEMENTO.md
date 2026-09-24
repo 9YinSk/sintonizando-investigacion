@@ -49,9 +49,9 @@ bajar ⚠️ y añadir la tabla.
 8. **Los «no encontré»**: vuelve a buscar cada uno con la red abierta (texto
    de la wiki, idioma original). Varios salieron por la red cerrada, no porque
    no existan.
-9. **Los puntos que faltan del encargo**: compara la biblia con los 17 puntos de
+9. **Los puntos que faltan del encargo**: compara la biblia con los 25 puntos de
    `ENCARGO.md` (sobre todo 13 carácter y forma de hablar, 14 poses con minuto,
-   15 vestuario con hex, 16 fondos de pantalla con tamaño y autor, 17 guía para
+   15 vestuario con hex, 16 fondos de pantalla con tamaño y autor, 18-25 los añadidos el 24 de septiembre (técnica y cómo replicarla, texturas 2D, gustos, por qué la aman, fan dubs, colaboraciones, obras parecidas, mundo), 17 guía para
    IA) y complétalos. Añade la tabla «Cumplimiento del encargo» de `AYUDANTE.md`.
 
 ## Cómo dejarlo escrito
