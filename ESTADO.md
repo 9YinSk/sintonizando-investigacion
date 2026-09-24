@@ -31,7 +31,7 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## En marcha (19:45 UTC, uso normal de la cuenta al 76 %)
+## En marcha (19:56 UTC, uso normal de la cuenta, tras el reinicio)
 
 Prueba en cadena:
 - **One Piece (01): COMPLETA y subida** (19:45; 2 640 líneas, 345 referencias).
@@ -42,7 +42,11 @@ Prueba en cadena:
   se cortaron, relanzar cada rol con el mensaje del paso 3 («si tu parte ya
   existe, sigue desde donde quedó»). Luego su redactor en Opus (modo `nueva`,
   aprovechando la biblia a medias que ya tiene).
-- Después: `revisar.py`, `subir.sh 01-one-piece repaso`, `subir.sh 35-one-punch-man`,
+- **Attack on Titan (02): repaso corto** con 3 investigadores en Sonnet (desde
+  las 19:56): imagen (19, 23), voz (20, 21, 22 y lo nuevo de 9 y 13), texto (18,
+  24, 25 y lo nuevo de 5). Luego su redactor en Opus (modo repaso-corto).
+- Recolección por adelantado en marcha para 03, 04, 05, 31, 32 (gratis).
+- Después: `revisar.py`, `subir.sh 35-one-punch-man`, `subir.sh 02-attack-on-titan repaso`,
   y seguir en cadena con `siguiente.py`.
 
 ## Mejoras hechas (19:20 UTC), pedidas por el dueño: más rápido sin perder calidad
