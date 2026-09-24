@@ -75,6 +75,56 @@ ENCARGOS = [
 ]
 
 
+# La biblioteca: series, pelis y juegos muy queridos por el público latino, sin
+# canal todavía. Sirven para salas de voz, láminas 2, eventos y para cambiar un
+# anfitrión si él rechaza uno. (serie, wiki sugerida, por qué está, personajes)
+BIBLIOTECA = [
+    ("Naruto", "naruto", "anime clave del doblaje latino", "Naruto, Sasuke, Sakura, Kakashi, Jiraiya, Itachi"),
+    ("Demon Slayer (Kimetsu no Yaiba)", "kimetsu-no-yaiba", "de lo más visto en Latinoamérica", "Tanjiro, Nezuko, Zenitsu, Inosuke, Rengoku, Shinobu"),
+    ("Jujutsu Kaisen", "jujutsu-kaisen", "fenómeno actual", "Itadori, Gojo, Megumi, Nobara, Sukuna"),
+    ("Frieren", "frieren", "la más valorada de los últimos años", "Frieren, Fern, Stark, Himmel"),
+    ("Haikyuu!!", "haikyuu", "deporte y equipo", "Hinata, Kageyama, Nishinoya, Oikawa, Bokuto"),
+    ("One Punch Man", "onepunchman", "comedia de acción muy memeada", "Saitama, Genos, Tatsumaki, Mumen Rider"),
+    ("Hunter x Hunter", "hunterxhunter", "clásico de culto", "Gon, Killua, Kurapika, Leorio, Hisoka"),
+    ("Fullmetal Alchemist: Brotherhood", "fma", "de las mejor valoradas de la historia", "Edward, Alphonse, Roy Mustang, Winry"),
+    ("Sailor Moon", "sailormoon", "clásico enorme en Latinoamérica", "Usagi, Ami, Rei, Makoto, Minako, Luna"),
+    ("Saint Seiya (Los Caballeros del Zodiaco)", "saintseiya", "mito del doblaje latino", "Seiya, Shiryu, Hyoga, Shun, Ikki, Saori"),
+    ("Digimon Adventure", "digimon", "nostalgia de toda una generación", "Tai, Agumon, Matt, Gabumon, Sora"),
+    ("Dandadan", "dandadan", "fenómeno reciente", "Momo, Okarun, Turbo Granny, Aira"),
+    ("Blue Lock", "bluelock", "fútbol, enorme en Latinoamérica", "Isagi, Bachira, Nagi, Rin"),
+    ("Kaguya-sama: Love is War", "kaguyasama-wa-kokurasetai", "comedia romántica muy querida", "Kaguya, Shirogane, Chika, Ishigami"),
+    ("Your Lie in April (Shigatsu)", "shigatsu-wa-kimi-no-uso", "música y emoción: encaja con canto", "Kousei, Kaori, Tsubaki, Watari"),
+    ("Mob Psycho 100", "mob-psycho-100", "estilo visual único", "Mob, Reigen, Dimple"),
+    ("Sakamoto Days", "sakamoto-days", "reciente y muy compartido", "Sakamoto, Shin, Lu"),
+    ("Captain Tsubasa (Supercampeones)", "captaintsubasa", "nostalgia latina pura", "Oliver/Tsubasa, Benji/Genzo, Steve/Kojiro"),
+    ("Inuyasha", "inuyasha", "clásico de los 2000", "Inuyasha, Kagome, Sesshomaru, Miroku, Sango"),
+    ("Yu-Gi-Oh!", "yugioh", "cartas y duelos, nostalgia", "Yugi, Kaiba, Joey, el Mago Oscuro"),
+    ("Cardcaptor Sakura", "ccsakura", "clásico muy querido", "Sakura, Kero, Tomoyo, Syaoran"),
+    ("Studio Ghibli (Totoro, El viaje de Chihiro…)", "ghibli", "fondos y paisajes de referencia mundial", "Totoro, Chihiro, Haku, Kiki, Howl"),
+    ("Your Name (Makoto Shinkai)", "kiminonawa", "cielos y ciudades de referencia", "Taki, Mitsuha"),
+    ("Avatar: la leyenda de Aang", "avatar", "de las series animadas más queridas", "Aang, Katara, Sokka, Zuko, Toph, Iroh"),
+    ("Gravity Falls", "gravityfalls", "misterio y códigos ocultos", "Dipper, Mabel, Stan, Bill Cipher"),
+    ("Hazbin Hotel", "hazbinhotel", "musical, muy popular entre los que doblan", "Charlie, Alastor, Angel Dust, Vaggie, Husk"),
+    ("The Amazing Digital Circus", "the-amazing-digital-circus", "fenómeno de internet", "Pomni, Caine, Jax, Ragatha"),
+    ("Coco", "pixar", "México y la música", "Miguel, Héctor, Mamá Coco, Dante"),
+    ("Encanto", "disney", "Colombia y la música", "Mirabel, Bruno, Luisa, Isabela, Abuela Alma"),
+    ("Shrek", "shrek", "doblaje latino legendario (Eugenio Derbez)", "Shrek, Burro, Fiona, el Gato con Botas"),
+    ("Toy Story", "pixar", "clásico del doblaje latino", "Woody, Buzz, Jessie, Rex"),
+    ("Kung Fu Panda", "kungfupanda", "muy querida y memeada", "Po, Shifu, Tigresa, Oogway"),
+    ("Intensamente (Inside Out)", "pixar", "las emociones: ideal para actuación de voz", "Alegría, Tristeza, Furia, Desagrado, Temor, Ansiedad"),
+    ("Las Guerreras K-pop (KPop Demon Hunters)", "kpop-demon-hunters", "fenómeno musical reciente", "Rumi, Mira, Zoey, Jinu"),
+    ("Steven Universe", "steven-universe", "música y personajes queridos", "Steven, Garnet, Amatista, Perla"),
+    ("The Legend of Zelda", "zelda", "videojuego de referencia", "Link, Zelda, Ganon"),
+    ("Persona 5", "megamitensei", "la interfaz más copiada de los juegos", "Joker, Morgana, Ann, Ryuji"),
+    ("Hollow Knight", "hollowknight", "estética dibujada a mano", "el Caballero, Hornet, Quirrel"),
+    ("Undertale / Deltarune", "undertale", "cuadros de diálogo icónicos", "Frisk, Sans, Papyrus, Toriel, Kris"),
+    ("Genshin Impact", "genshin-impact", "muy jugado, arte oficial abundante", "Paimon, Venti, Zhongli, Raiden, Hu Tao"),
+    ("Minecraft", "minecraft", "el juego que todos conocen", "Steve, Alex, Creeper, Enderman"),
+    ("Five Nights at Freddy's", "freddy-fazbears-pizza", "terror muy popular (y su película)", "Freddy, Bonnie, Chica, Foxy"),
+    ("Hatsune Miku (Vocaloid)", "vocaloid", "canto: la voz sintética más famosa", "Miku, Rin, Len, Luka"),
+]
+
+
 def slug(t):
     import re
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")[:40]
@@ -97,6 +147,35 @@ Lee primero `ENCARGO.md` (qué investigar y dónde dejarlo). Deja todo en `bibli
 - **Wiki de Fandom sugerida (compruébala):** `{wiki or '—'}` → `python herramientas/investigar_serie.py --serie "{serie}" --wiki {wiki or '<wiki>'} --paginas "<personaje>" …`
 - Los textos, fichas y etiquetas reales del canal: búscalos en `servidor/inventario.md`.
 """, encoding="utf-8")
+    base = len(ENCARGOS)
+    for j, (serie, wiki, porque, pjs) in enumerate(BIBLIOTECA, base + 1):
+        nombre = f"{j:02d}-{slug(serie)}"
+        (AQUI / "encargos" / f"{nombre}.md").write_text(f"""# Encargo {j:02d} — {serie} (biblioteca)
+
+Lee primero `ENCARGO.md` (qué investigar y dónde dejarlo). Deja todo en `biblias/{nombre}/`.
+
+- **Serie:** {serie}
+- **Por qué está:** {porque}. Todavía **no tiene canal**: investiga la serie
+  entera, y en «3 conceptos de lámina» propón **para qué canal o sala** del
+  servidor encajaría mejor (mira `servidor/inventario.md`) y cómo sería la lámina.
+- **Personajes para empezar:** {pjs}
+- **Wiki de Fandom sugerida (compruébala):** `{wiki}` → `python herramientas/investigar_serie.py --serie "{serie}" --wiki {wiki} --paginas "<personaje>" …`
+""", encoding="utf-8")
+    # las tandas de 4
+    todos = sorted(p.stem for p in (AQUI / "encargos").glob("*.md"))
+    lineas = ["# Tandas de investigación (de 4 en 4)", "",
+              "En una sesión nueva en la nube, con este repositorio, pega la frase de la tanda.",
+              "La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**,",
+              "y deja cada uno en `biblias/<encargo>/`. Marca aquí las que ya estén hechas.", ""]
+    for t in range(0, len(todos), 4):
+        grupo = todos[t:t + 4]
+        n = t // 4 + 1
+        lineas += [f"## Tanda {n}", "",
+                   f"> Haz la tanda {n} de `TANDAS.md` siguiendo `ENCARGO.md`: "
+                   + ", ".join(f"`encargos/{g}.md`" for g in grupo)
+                   + ". Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.", ""]
+        lineas += [f"- [ ] {g}" for g in grupo] + [""]
+    (AQUI / "TANDAS.md").write_text("\n".join(lineas), encoding="utf-8")
     # contexto del servidor
     srv = AQUI / "servidor"
     srv.mkdir(exist_ok=True)
