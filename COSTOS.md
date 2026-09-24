@@ -19,3 +19,4 @@ panel de uso de la cuenta cuando el dueño los diga.
 | 24-sep | 01 One Piece | seguir (económico) | video, tanda 2 | Sonnet | 10 | — | parada a las 19:03 sin escribir: la cuenta se quedó sin saldo |
 
 En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del sistema en la sesión principal (Opus) y las 7 tandas de arriba.
+| 24-sep | 35 One Punch Man | nueva (económico, en cadena) | imagen | Sonnet | 18 | 185 569 | 68 acciones, una sola tanda sin «Sigue:»; 20 hex medidos, 28 referencias, 6 modelos 3D con licencia |
