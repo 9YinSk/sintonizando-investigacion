@@ -1140,7 +1140,7 @@ la sección Trivia de la wiki. ✅ = las dos fuentes coinciden.
 
 ## 21 · Por qué la gente la ama
 
-**Cifras** :
+**Cifras**:
 - **AniList 79/100**, 177.066 usuarios, 5.758 favoritos ✅ (medido 24-sep-2026).
 - **Crunchyroll 4.8/5** con más de **118.000** valoraciones, al nivel de
   Frieren o Black Clover ([CBR](https://www.cbr.com/crunchyroll-best-fantasy-wistoria-wand-and-sword/)) ⚠️.
@@ -1410,3 +1410,62 @@ ni paréntesis.
   usa a la **más querida**.
 - **C** usa el **salón de la Torre**, el sitio más solemne de la obra.
 - Choques con otras series: ver §0 y «Lo que no pude verificar».
+
+## Lo que no pude verificar
+
+**Para el dueño (decide usted)**:
+- **Canal**: el 🔊 Aula lo piden también Demon Slayer (31) y Monsters
+  University (29); #en-directo, One Punch Man (35); #destacados, Super Mario
+  Galaxy (29). ¿Cuál se queda Wistoria?
+- **Textos del Aula**: el inventario no trae descripción del Aula; los del
+  concepto A son propuesta.
+
+**Para ver u oír en persona** (anote serie, episodio, minuto y frase):
+- **Frases del doblaje latino con minuto**: el **episodio 1 doblado** está
+  en el YouTube de Crunchyroll LATAM; aquí YouTube pidió iniciar sesión.
+  Hacen falta 5-8 frases, sobre todo de Will y Elfaria (su «¡Mentiroso!»).
+- Quién dice «**No sabía que algo tan hermoso, podía ser tan mortal**» y en
+  qué minuto.
+- **Escena Ganbare** (T2 ep. 4): minuto, qué grita Sion en latino, música,
+  luz y encuadre.
+- **Qué pasa en el ep. 5 de la T2** («Will finally did it»).
+- **Caras de vergüenza y alegría** de Will; **pataleta** de Elfaria en vídeo.
+- Si la serie usa **gotas de sudor** o **fondos de emoción** cómicos.
+- **Efectos de sonido** reconocibles (sólo hay descripción de oído del
+  tráiler).
+
+**Datos que siguen dudosos**:
+- **Pelo de Will**: la wiki dice negro; el arte oficial, azul marino con
+  luces cian (**#94CFCC** / **#181727**); Danbooru, `blue_hair`. Se usa el
+  arte.
+- **Ojos de Will**: morados o azules; fucsia en T2 0:08.
+- **Colette en latino**: Jean Bautista (Doblaje Wiki) o Fernanda Ornelas
+  (nota de prensa de ANMTV).
+- Voces latinas con una sola fuente: Julius, Wignall, Zeo y la mayoría de
+  secundarios (§8).
+- **Quién dice** la frase de T2 1:01 (私の命は貴様らよりも軽い): la parte de
+  voz dice Will, pero no usa su «yo».
+- Identificación de **Lihanna** y **Sion** en los tráileres: por color de
+  pelo y ojos, sin cartela.
+- El **llavero chibi** de pelo verde (`objetos_01` n.º 6), ¿es Wignall? El
+  **standee** (n.º 3), ¿quién es?
+- **Nombre comercial de la letra del logo**: no encontrado.
+- **Software** del estudio y de Toshi Aoi: no encontrado.
+- **Crunchyroll 4.8/5** con 118.000 votos: sólo lo dice CBR.
+- Autores de dos modelos de Sketchfab (catedral y ciudadela): mirarlos en
+  la ficha antes de dar crédito.
+- Licencia CC0 de ambientCG: general, no mirada ficha por ficha.
+
+**Correcciones que hice al juntar las partes**:
+- La torre sale en `fondos_01` n.º **3, 4 y 5** (no en 5-6).
+- La URL de **Sion Incindia Barham** quedó confirmada con la API de la wiki.
+- Los fotogramas de Dailymotion son **512×288** (la parte de voz ponía
+  1920×1080).
+- La diseñadora es **Sayaka Ono** (la wiki pone «Saka Ono»).
+- Fuera: los 8 personajes de **otras series** que el recolector metió en la
+  lista de Danbooru y en `datos.json`.
+
+**No aplica** (comprobado): videojuego oficial y, por eso, página de TCRF.
+**No lo encontré** (buscado, ver bitácora): modelos 3D de la serie, figuras
+3D, cosplay documentado, cover en español del opening, encuesta oficial
+japonesa, ventas de Blu-ray.

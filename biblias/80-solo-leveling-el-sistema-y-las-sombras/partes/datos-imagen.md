@@ -4,13 +4,79 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/151807_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/151807-37yfQA3ym8PA.jpg
+
+## Sung Jinwoo: las imágenes más grandes de la wiki (485 en total)
+_Fuente: https://solo-leveling.fandom.com/wiki/Sung_Jinwoo_
+
+- 2304×4096 · Season 2 anime Sung Jinwoo illustration.jpg · https://static.wikia.nocookie.net/solo-leveling/images/2/23/Season_2_anime_Sung_Jinwoo_illustration.jpg
+- 2276×1890 · Anime Episode 6 Storyboard Group 1 picture 3.jpg · https://static.wikia.nocookie.net/solo-leveling/images/d/dd/Anime_Episode_6_Storyboard_Group_1_picture_3.jpg
+- 2276×1890 · Anime Episode 6 Storyboard Group 1 picture 2.jpg · https://static.wikia.nocookie.net/solo-leveling/images/1/1c/Anime_Episode_6_Storyboard_Group_1_picture_2.jpg
+- 1725×2475 · Manhwa Webtoon Volume 8 Cover.jpg · https://static.wikia.nocookie.net/solo-leveling/images/4/4f/Manhwa_Webtoon_Volume_8_Cover.jpg
+- 1720×2475 · Manhwa Webtoon Volume 10 Cover.jpg · https://static.wikia.nocookie.net/solo-leveling/images/a/a3/Manhwa_Webtoon_Volume_10_Cover.jpg
+- 1754×2328 · Anime Episode 6 Storyboard Group 10 picture 2.jpg · https://static.wikia.nocookie.net/solo-leveling/images/4/46/Anime_Episode_6_Storyboard_Group_10_picture_2.jpg
+- 1754×2328 · Anime Episode 6 Storyboard Group 10 picture 1.jpg · https://static.wikia.nocookie.net/solo-leveling/images/e/e3/Anime_Episode_6_Storyboard_Group_10_picture_1.jpg
+- 1754×2276 · Anime Episode 6 Storyboard Group 5 picture 4.jpg · https://static.wikia.nocookie.net/solo-leveling/images/3/38/Anime_Episode_6_Storyboard_Group_5_picture_4.jpg
+- 1754×2276 · Anime Episode 6 Storyboard Group 5 picture 3.jpg · https://static.wikia.nocookie.net/solo-leveling/images/8/8f/Anime_Episode_6_Storyboard_Group_5_picture_3.jpg
+- 1754×2276 · Anime Episode 6 Storyboard Group 5 picture 2.jpg · https://static.wikia.nocookie.net/solo-leveling/images/c/c6/Anime_Episode_6_Storyboard_Group_5_picture_2.jpg
+
+## Sung Jinwoo · Appearance (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Sung_Jinwoo#Appearance_
+
+Jinwoo is a tall, handsome, and muscular young man with gray eyes, sharp facial features, and black hair with bangs that dangle all the way down to his eyes. When using his powers or feeling intense emotions, his eyes glow purple and his facial features become more pronounced. He favors dark clothing and often seen in sleek and stylish outfits ranging from tailored suits to long hooded coats. After defeating the Monarchs in the revised timeline created by the Cup of Reincarnation, he also starts wearing a black glove on his left hand to cover up the burn scars that he received there during his rematch with Antares. Before he was chosen as the Player of the System, Jinwoo had a very different appearance. He was shorter and had a noticeably thinner physique, with long, bushy hair that covered up his ears. His face was very boyish, which made him look even younger than his sister Jinah…
+
+## Igris: las imágenes más grandes de la wiki (25 en total)
+_Fuente: https://solo-leveling.fandom.com/wiki/Igris_
+
+- 2880×5184 · Igris 2.jpg · https://static.wikia.nocookie.net/solo-leveling/images/a/a9/Igris_2.jpg
+- 2880×5124 · Igris 1.jpg · https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Igris_1.jpg
+- 1440×2530 · Igris22.jpeg · https://static.wikia.nocookie.net/solo-leveling/images/d/d7/Igris22.jpeg
+- 2415×1354 · Anime Episode 12 Igris shadow soldier.jpg · https://static.wikia.nocookie.net/solo-leveling/images/6/6d/Anime_Episode_12_Igris_shadow_soldier.jpg
+- 1920×1080 · Igris Anime3.jpg · https://static.wikia.nocookie.net/solo-leveling/images/f/ff/Igris_Anime3.jpg
+- 895×1486 · Igris19.jpg · https://static.wikia.nocookie.net/solo-leveling/images/6/6e/Igris19.jpg
+- 720×1657 · Igris21.png · https://static.wikia.nocookie.net/solo-leveling/images/5/57/Igris21.png
+- 896×1265 · Igris20.jpg · https://static.wikia.nocookie.net/solo-leveling/images/b/b3/Igris20.jpg
+- 711×1565 · Igris18.jpg · https://static.wikia.nocookie.net/solo-leveling/images/5/57/Igris18.jpg
+- 885×1144 · Igris Anime.png · https://static.wikia.nocookie.net/solo-leveling/images/4/44/Igris_Anime.png
+
+## Igris · Appearance (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Igris#Appearance_
+
+Igris is a large knight with a light purple glow, jet-black armor covering him from head to toe, a tattered black cape, and a long red hair-like ornament extending out of the back of his helmet. His left eye still bares the scar from Jinwoo during their battle while in the anime is the right eye that has the scar.
+
+## Beru: las imágenes más grandes de la wiki (18 en total)
+_Fuente: https://solo-leveling.fandom.com/wiki/Beru_
+
+- 1920×1080 · Beru Anime1.png · https://static.wikia.nocookie.net/solo-leveling/images/f/fe/Beru_Anime1.png
+- 899×1327 · Beru31.jpg · https://static.wikia.nocookie.net/solo-leveling/images/0/0e/Beru31.jpg
+- 906×1280 · Beru CV.jpg · https://static.wikia.nocookie.net/solo-leveling/images/8/86/Beru_CV.jpg
+- 719×1519 · 벨리온6.jpg · https://static.wikia.nocookie.net/solo-leveling/images/9/91/%EB%B2%A8%EB%A6%AC%EC%98%A86.jpg
+- 720×1466 · Beru5.jpg · https://static.wikia.nocookie.net/solo-leveling/images/e/ef/Beru5.jpg
+- 717×1448 · Beru1.jpg · https://static.wikia.nocookie.net/solo-leveling/images/0/09/Beru1.jpg
+- 720×1396 · Beru30.jpg · https://static.wikia.nocookie.net/solo-leveling/images/1/1e/Beru30.jpg
+- 719×1386 · Beru32.jpg · https://static.wikia.nocookie.net/solo-leveling/images/a/a3/Beru32.jpg
+- 720×1302 · Beru25.jpg · https://static.wikia.nocookie.net/solo-leveling/images/4/4f/Beru25.jpg
+- 719×1079 · Beru0.jpg · https://static.wikia.nocookie.net/solo-leveling/images/1/1b/Beru0.jpg
+
+## Beru · Appearance (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Beru#Appearance_
+
+Beru is a huge humanoid shadow ant with a light purple glow, neon eyes, sharp claws, and smoky wings. Following Jinwoo's decision to give him to Suho, he loses the majority of his powers and is reduced to nothing more than a floating head.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de solo-leveling.fandom.com (3 páginas y sus galerías)…
+  523 imágenes enlazadas, 476 grandes → 10 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/solo-leveling-el-sistema-y-las-sombras
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

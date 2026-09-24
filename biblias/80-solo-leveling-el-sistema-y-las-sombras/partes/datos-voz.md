@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/151807_
@@ -411,6 +411,36 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Solo_Leveling#Datos%20de%20inter%C3%
 - A su vez solo en los personajes menores o incidentales y una que otra terminología recibe nombres japoneses, esto se ve mas reflejado a partir de la 2 temporada.
 - En la primera temporada desde el inicio hasta el capítulo 6 se menciona al gremio de Baek Yoonho como "Tigre Blanco", pero desde el capítulo 8 en adelante el gremio se empezó a llamar "Baekho"; su nombre en japonés, generando una inconsistencia en los nombres.
 - En el capítulo 16, minuto 07:22, cuando Choi Jong-In ve a Baek Yoonho llegar, menciona que el gremio Baekho no está muy lejos de ahí, pero aún así llego corriendo a toda prisa, pero es un error ya que quiso decir que el gremio no estaba muy cerca de ahí.
+
+## Sung Jinwoo · Personality (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Sung_Jinwoo#Personality_
+
+Jinwoo is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power. His deep bond with his family also makes him absolutely merciless towards anyone who dares to hurt them, as displayed when he massacred Groctar and his minions for attempting to kill Jinah, and murdered Hwang Dongsoo for torturing Jinho. It should be noted that despite being the strongest hunter in the world, Jinwoo is not particularly arrogant and is both polite and easygoing in-person. He is also mostly indifferent to materialistic desires and can be very selfless, as displayed when he teleported to Jeju Island without a second thought to save the other Korean S-Rank Hunters from certain death. In battle, however, he…
+
+## Sung Jinwoo · Abilities (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Sung_Jinwoo#Abilities_
+
+As the second Shadow Monarch, Jinwoo is the strongest hunter in the world and one of the strongest beings in existence. *Immeasurable Strength: Jinwoo possesses tremendous amounts of physical strength. Even before obtaining his true power, he was strong enough to critically damage the Statue of God with just a few punches to its face and beat Thomas Andre, one of the five National Level Hunters, to the brink of death with just his bare hands. Upon being revived by Ashborn and receiving the full extent of the Shadow Monarch's powers, Jinwoo's strength was increased to the point that he was able to effortlessly repel Sillad's attacks with one hand, kill Rakan in just four blows, and hold his own against Antares, the strongest and oldest of the nine Monarchs, in battle. After spending 27 years waging war against the Monarchs in the revised timeline, Jinwoo has appeared to have grown even…
+
+## Igris · Personality (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Igris#Personality_
+
+Igris is loyal, respectful, and chivalrous, to the point that he tends to kneel to his master every time he finishes a battle for him. A running gag with his character is that he always brings the heads of his kills back to Jinwoo, which ultimately became a problem when Iron started to copy him. Much like Jinwoo, Igris also does not approve of Iron's dumb antics and typically gets irritated whenever Iron goes overboard in battle. In addition, despite his warrior mentality, Igris believes in the importance of education, as displayed by how he argued with Bellion that Suho would be better off studying in school instead of learning how to fight. Likewise, he is also fond of Suho, as he was pleased when the boy defeated him during a training exercise.
+
+## Igris · Abilities (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Igris#Abilities_
+
+As a Marshal-Grade shadow, Igris is an immensely powerful individual. He is one of the strongest shadows in Jinwoo's army and is only rivaled by Beru and surpassed by Bellion. During his time under Ashborn's command, Igris was also known as one of the "Two Wings" of the army of shadows for his strength. *Master Swordsman: Igris is highly proficient at swordsmanship and has eons of experience at wielding blades in battle, making him the most skilled swordsman in the shadow army. *High Intelligence: Igris possesses a very tactical and strategic mindset that gives him an edge in battle. He is also very knowledgeable in other subjects aside from combat, as shown when he helped Jinwoo study for his exams in the revised timeline. *Master Hand-to-Hand Combatant: Igris is highly proficient in hand-to-hand combat, displaying remarkable fighting prowess with just his fists, and would've defeated…
+
+## Beru · Personality (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Beru#Personality_
+
+Due to having been born to kill, Beru revels in his power and has an obvious bloodlust for battle. As such, he is extremely brutal towards his opponents, rarely holding back unless ordered to, and goes straight for his enemy's weak spots. He is also somewhat condescending towards his fellow shadow soldiers, as displayed when he started screaming furiously at them when they failed to follow his lead and break out of the Frost Monarch's ice prison. Outside of battle, however, Beru is fiercely loyal to his master and has a lighter side of his personality, even complimenting him in a middle of a fight. A running gag to his character is his strange hobby of watching Korean period dramas, which caused him to develop an amusingly historic way of speech. He is very fond of Jinwoo's son, Sung Suho, having been won over by the child's innocence and fascination with him, and was brought to tears…
+
+## Beru · Abilities (texto de la wiki)
+_Fuente: https://solo-leveling.fandom.com/wiki/Beru#Abilities_
+
+As a Marshal-Grade ranked shadow and the shadow of the Ant King, Beru is an immensely powerful individual and is the strategic weapon in the shadow army able to adapt to any situation. He is also one of the strongest shadows in Jinwoo's army and is only rivaled by Igris and surpassed by Bellion. *Immense Strength: Beru possesses immense physical strength. As a testament to this, he was able to effortlessly crush Cha's sword in his bare hand, one-shot an Arch Lich, break out of the Frost Monarch's ice prison, and slash off Querehsha's fingers. Over time his strength increased allowing him to fight against Nidhogg. *Immense Speed: Beru can move at immense speeds. He was able to effortlessly dodge Cha's attacks at point-blank range without moving his feet, plunge his hand into an Arch Lich's chest before it could even react, and fly from Jeju in Busan in a matter of minutes. *Immense…
 
 ## Los personajes más dibujados por los fans (Danbooru, 919 dibujos de «solo_leveling»)
 _Fuente: https://danbooru.donmai.us/posts?tags=solo_leveling_
