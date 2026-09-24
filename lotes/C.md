@@ -11,10 +11,11 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
   92 webs, 166 minutos citados, 87 hex, 3 hojas.
 - **21 Spider-Verse: COMPLETA y subida.** 2584 líneas, ✅28 ⚠️11 ❌0,
   197 referencias, 137 webs, 134 minutos citados, 55 hex, 3 hojas.
-- 22 Violet Evergarden: imagen, vídeo y texto listos; voz en su 2ª tanda
-  (sólo punto 8, doblaje latino); falta el redactor.
-- 23 Lilo & Stitch: 4 investigadores en marcha.
-- Datos recolectados (gratis) para 19-29.
+- **22 Violet Evergarden: COMPLETA y subida.** 2396 líneas, ✅24 ⚠️8 ❌0,
+  168 referencias, 116 webs, 270 minutos citados, 34 hex, 3 hojas.
+- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz en su 2ª tanda; falta
+  el redactor.
+- Datos recolectados (gratis) para 19-30 (lote C entero).
 
 ## Avisos para el dueño
 
@@ -38,6 +39,13 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
   (no hay clips suyos en Dailymotion y YouTube bloquea). También quedan ⚠️
   los hex de los trajes de Miles y Hobie, posturas de Peter B./Miguel/Hobie,
   comida favorita de 3 personajes y 2 frases icónicas en latino.
+- **22 Violet Evergarden — decisión pendiente:** su biblia propone para
+  #poemas «la hoja en la máquina de escribir», pero la biblia 33-frieren
+  (aún sin repasar) también propone algo para #poemas («diario con pluma y
+  tintero en luz dorada»). Hay que decidir qué serie se queda ese canal
+  antes de hacer las láminas. Del doblaje latino sólo hay 2 frases
+  textuales (audio de Doblaje Wiki, no clip oficial) y ningún fotograma
+  llega a 1080p (YouTube pide iniciar sesión).
 
 ## Costos
 
@@ -60,3 +68,9 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
 | 21 | voz (Sigue) | Sonnet | 10 | 191 mil |
 | 21 | texto | Sonnet | 11 | 180 mil |
 | 21 | redactor | Opus | 17 | 333 mil |
+| 22 | imagen | Sonnet | 13 | 205 mil |
+| 22 | vídeo | Sonnet | 16 | 199 mil |
+| 22 | voz | Sonnet | 17 | 218 mil |
+| 22 | voz (Sigue) | Sonnet | 9 | 114 mil |
+| 22 | texto | Sonnet | 10 | 167 mil |
+| 22 | redactor | Opus | 15 | ~330 mil |
