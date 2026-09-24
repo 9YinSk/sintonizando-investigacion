@@ -113,3 +113,507 @@ Las miré todas. Qué número sirve y para qué:
 **`hojas/emociones_01.jpg`** (20 fotogramas de la película, cada uno con personaje, emoción y minuto)
 - Sirve para la **cara de cada emoción** (§13) y para las escenas que hacen llorar (§21). La más útil: **Mamá Coco sonriendo, 1:33:07** y **Miguel con la carta y la guitarra, 1:32:52**.
 
+## Punto 1 · Arte oficial
+
+Todo de la wiki de Pixar (tamaños reales de la API) salvo donde se dice. Copyright Disney/Pixar: sólo referencia.
+
+**Carteles y stills de prensa** ✅ (wiki de Pixar, stills de prensa de 2017)
+- Póster teaser, 3225×5000: Miguel con la guitarra y Dante bajo papel picado. https://static.wikia.nocookie.net/pixar/images/8/8a/CocoteaserposterFRIDAY.jpg (A1)
+- Promo «COCO-RGB», 3877×1715: Dante en pose de juego, no de pie. https://static.wikia.nocookie.net/pixar/images/d/d3/COCO-RGB_c920_6b_pub.pub16.314-2.jpg (A3)
+- Primer still de Entertainment Weekly, 3863×1715: Miguel toca entre chispas de pétalos. https://static.wikia.nocookie.net/pixar/images/d/de/Coco-ew-firststill.jpg (A4)
+- «Miguel Guitar», 4096×1715: Miguel ante la ofrenda con velas. https://static.wikia.nocookie.net/pixar/images/4/4f/Miguel_Guitar.jpg
+- «Coco Balcony», 3000×2119: la ciudad de los muertos desde un balcón. https://static.wikia.nocookie.net/pixar/images/8/81/Coco_Balcony.jpg (F2)
+- «Coco Stage», 3328×2201: Héctor y Miguel en el escenario. https://static.wikia.nocookie.net/pixar/images/d/d6/Coco_Stage.jpg (F3)
+- Otras de la wiki: «Coco Leaves and Dog» 1920×804 (A7), «Remember Me - Hector & Coco» 2000×837 (A6), la foto sepia de Héctor 1702×1058 (A5), concept art de Miguel del D23 (750×411), fichas de *Disney Heroes* de Miguel, Héctor y Dante (unos 150×235). Fuente: `partes/datos-imagen.md`.
+
+**Renders en fondo blanco** (los mejores para recortar) ✅
+- Héctor de cuerpo entero, 2461×4497: https://static.wikia.nocookie.net/pixar/images/1/1e/Coco_Hector_render.png (A2)
+- Pepita, 1940×2048: https://static.wikia.nocookie.net/pixar/images/2/22/Pepita.png (B1)
+- Mamá Coco en su silla con rebozo, 516×637 (pequeña): https://static.wikia.nocookie.net/pixar/images/9/90/Mamacoco.jpg
+
+**Portadas de vídeo doméstico** ✅ (página «Coco Home Video»), 400×400 cada una: DVD https://static.wikia.nocookie.net/pixar/images/7/7e/Pr_coco_homeentertainment_dvd_47acddd1.png · combo https://static.wikia.nocookie.net/pixar/images/0/05/Pr_coco_homeentertainment_combopack_3c7173ef.png · 4K https://static.wikia.nocookie.net/pixar/images/5/59/Pr_coco_homeentertainment_4k_c8040da7.png
+
+**Making of**
+- Maqueta de arcilla de Mamá Coco, foto de 4032×1960 ✅: https://static.wikia.nocookie.net/pixar/images/9/9e/20180221_103402.jpg (B2)
+- Artbook **«The Art of Coco»** (Chronicle Books, 10-oct-2017, 160 págs., ISBN 9781452156439; textos de Lee Unkrich, Adrian Molina y John Lasseter): bocetos, esculturas, *color script* y storyboards ✅. No se pudo ver por dentro. https://www.chroniclebooks.com/products/the-art-of-coco
+- **Hojas de modelo** de Miguel, Héctor y Dante con expresiones, publicadas por Lee Unkrich y archivadas en Tumblr ⚠️ (una fuente; Tumblr dio 429): https://www.tumblr.com/ramenuzumaki/168840932588/some-images-from-pixar-cocos-model-sheets
+- Recopilación de arte de producción (de fans, cita las fuentes) ⚠️: https://characterdesignreferences.com/art-of-animation-9/art-of-coco
+
+**Arte nuevo (2026)** ✅
+- Atracción Coco de Disney California Adventure, arte del D23 2026: Miguel de charro rojo tocando con la banda de esqueletos, la cola como «casa museo» de Héctor. https://static.wikia.nocookie.net/pixar/images/a/a1/Coco_Attraction_D23_2026_Concept_Art_01.jpg (2000×870) · https://disneyparksblog.com/app/uploads/2026/08/Coco-New-Scene.png (1920×1080) · https://disneyparksblog.com/app/uploads/2026/08/Coco-Queue.png (1920×1080) (B6-B8, F7-F8)
+- Miguel corredor de *Disney Speedstorm*, temporada 22 (24-sep-2026), 1080×1350 (§11).
+- Fotograma del tráiler de Kingdom Hearts IV con el mundo de Coco, 1920×1080 (§11).
+
+**No aplica:** portadas de tomos, singles y cartones de cuenta atrás (es una película de estreno único). «Coco VR» (Oculus, 2017) sólo tiene tráiler en la wiki ⚠️: https://pixar.fandom.com/wiki/Coco_VR
+
+## Punto 2 · Fotogramas de escenas icónicas
+
+**Cómo se miró.** YouTube pedía iniciar sesión. El investigador de vídeo usó el plan B: una **copia completa de la película subida por usuarios a Internet Archive** (ítem `Coco.2017.STNAr.720p.BluRay.x264YTS.AG`, 1282×534, 105 min, audio en árabe). Primero usó las 105 miniaturas del ítem (una por minuto) como mapa, luego 13 ventanas de `fotogramas.py --cada 8` y fotogramas sueltos. El vídeo se borró.
+
+> ⚠️ **Aviso para el dueño:** esa copia no es una subida oficial (parece un *rip*), y el servidor tiene la norma de «nada pirata». Los minutos valen igual para cualquier copia legal (Disney+, Blu-ray). En `referencias.json` **no** va ese enlace. La copia es de **720p, no 1080p**: para la lámina, sacar el fotograma de nuevo de una fuente legal en 1080p.
+
+Minutos de la película, ±2 s:
+
+| Escena | Minuto | Lo que se ve | Estado |
+|---|---|---|---|
+| Miguel roba la guitarra de Ernesto y se vuelve esqueleto | 21:00-22:36 | 22:36: Miguel esqueleto, cara de pánico | ✅ visto + Wikipedia |
+| El **puente de cempasúchil** | 24:28-25:56 | plano general del puente en 25:16 y 25:24, arcos naranjas y gente cruzando | ✅ |
+| La **aduana** con pantallas que escanean la foto de la ofrenda | 26:48-27:12 | pantallas verdes y la «X» roja de rechazo | ✅ |
+| «Un Poco Loco» en la plaza | 49:00-51:56 | 51:00-51:24 primer plano de Miguel al micrófono; decorado de calavera en 48:04 | ✅ |
+| Mansión de Ernesto e invernadero con vitrales de calavera | 1:16:00-1:19:00 | encuentro con Imelda y Pepita | ✅ |
+| «La Llorona» en el gran escenario | 1:21:48-1:22:36 | Imelda sola al micrófono, Ernesto en silueta | ✅ visto + Wikipedia |
+| Persecución final: Dante alebrije | 1:24:40-1:25:56 | Dante con alas de colores volando junto a Miguel | ✅ |
+| **«Recuérdame» a Mamá Coco** | 1:29:40-1:33:13 | cara de Coco con los ojos cerrados en 1:31:00; «papá» en 1:32:46-1:33:07 | ✅ visto por vídeo y por voz |
+| Reencuentro final y fiesta | 1:34:17-1:36:08 | Héctor cruza la aduana, abraza a Imelda (1:34:38), «El Mundo Es Mi Familia» (1:35:44) | ✅ |
+
+**Tráiler oficial** («This Thanksgiving», Disney/Pixar), mirado entero cada 12 s en Dailymotion (Tomatazos, 2:27): https://www.dailymotion.com/video/x8x30c8
+- 0:12 Dante persigue a Miguel con la guitarra · 0:24 Abuelita persigue a Miguel · 0:36 partitura de «Remember Me» a la luz de una vela · 0:48 Miguel toca en un escenario · 1:12 la estación y el puente desde el aire · 1:48 Miguel esqueleto espantado · 2:00 la fiesta · 2:12 la familia a la mesa con Dante. ✅
+
+**Tráiler final doblado al español latino** (HobbyConsolas, 2:27): https://www.dailymotion.com/video/x6awfq0
+- 0:22 Miguel toca a escondidas con los ojos cerrados: https://www.dailymotion.com/video/x6awfq0?t=22
+- 1:17 abrazo de dos familiares esqueleto, «Somos tu familia, mijo»: https://www.dailymotion.com/video/x6awfq0?t=77 ⚠️ (la frase sólo está en la ficha de voz)
+- 1:58 panteón con velas, cempasúchil y ofrenda: https://www.dailymotion.com/video/x6awfq0?t=118
+
+## Punto 3 · Fan art y 3D con licencia
+
+**Fan art** (sólo referencia, nunca para pegar). Se filtró por la etiqueta exacta del personaje; lo de Wallhaven y Openverse del recolector era de la VTuber Kiryu Coco y se descartó.
+- Miguel, 1300×1000, origen en X/Twitter ⚠️: https://safebooru.org/images/2445/6f739231b37f0b84d2e79ed8e7924caf6ce80e48.png
+- Miguel, 850×964, origen X ⚠️: https://safebooru.org/images/2864/35798d28118c3708a244d6d0d10a801c879b0f6f.jpg
+- Miguel, 929×721, origen Pixiv 66638834 ⚠️: https://safebooru.org/images/2343/0bed91609d1f27156a0e212c9ce25c00a989abad.png
+- Miguel, 850×700, origen Pixiv 66584200 ⚠️: https://safebooru.org/images/2343/f9353dd7b2c206998c0ab87f8dfad1d3b6f61c1f.jpg
+- Dante, 3000×2000, origen Pixiv 68182106 ⚠️: https://safebooru.org/images/2447/bc31448ef88a9aa76e04b5be75cb4cb29bab5980.jpg
+- Dante, 900×1209, origen X ⚠️: https://safebooru.org/images/2444/e21c446148b4a6eea944acc0e7b56e43b818ecd1.png
+- Pixiv: **#COCO** 141 ilustraciones ✅ https://www.pixiv.net/en/tags/COCO/illustrations · **#ヘクター(COCO)**, sólo Héctor, 97 ✅ https://www.pixiv.net/en/tags/%E3%83%98%E3%82%AF%E3%82%BF%E3%83%BC(COCO)
+- Miguel en 3D de un artista (modelado, pelo, *rig*), ArtStation dio 403 ⚠️: https://www.artstation.com/artwork/xzk5Nr · también en https://www.zbrushcentral.com/t/miguel-pixar-character-from-the-movie-coco/359998
+- «Pixar COCO Miguel» de Amana-HB ⚠️: https://amana-hb.deviantart.com/art/Pixar-COCO-Miguel-719723177
+
+**Modelos 3D libres** (licencia leída en la API de Sketchfab ✅; crédito: «Modelo de <autor>, CC BY, Sketchfab»)
+
+| Qué | Autor | Licencia | ♥ | Enlace |
+|---|---|---|---|---|
+| Héctor | CG_Javohirbek | CC BY | 88 | https://sketchfab.com/3d-models/none-34920a6009314ce3830bdc6619772825 |
+| Héctor | Rached.Abdelkhalek | CC BY | 33 | https://sketchfab.com/3d-models/none-7f88ae1e20964e61806b6d36b36fa457 |
+| Miguel | ThisIsntAPerson | CC BY | 14 | https://sketchfab.com/3d-models/none-8d1f0dd84496441aa53ea217d8ee1873 |
+| Miguel esqueleto | ThisIsntAPerson | CC BY | 9 | https://sketchfab.com/3d-models/none-60ac7ea7baec4a4692b2a5fae755cfc3 |
+| Mamá Coco (piel sobre un *rig* de un juego de terror: sólo maniquí) | GTH SKIDDER | CC BY | 4 | https://sketchfab.com/3d-models/none-1b036804c2b54642834831b1ebacb8fd |
+| Guitarra inspirada en Coco | Krishanjith C Vinod | CC BY | 31 | https://sketchfab.com/3d-models/none-99ad2f6fa5d049f89ebf0da9ad9d20cb |
+| Guitarra mexicana *cartoon* | natalielaf | CC BY | — | https://sketchfab.com/3d-models/none-91e6d3d333c749518f0e924eedc70a5f |
+| Alebrije | PaolaCarrilloPerez | CC BY | — | https://sketchfab.com/3d-models/none-9e3e41c364c446c0915ca2c13c74ad66 |
+| Gatito alebrije | Javier.ConRod | CC BY | — | https://sketchfab.com/3d-models/none-949c2bd2f65e43c7b0b0ab404663158a |
+| Ofrenda de Día de Muertos | Jonnie_D | CC BY | — | https://sketchfab.com/3d-models/none-9b353dcc34b147d68e7eca9296c90431 |
+| Altar de Día de Muertos | aorv | CC BY | — | https://sketchfab.com/3d-models/none-4feeb88e7948441c9d9034e32af2e2be |
+| Papel picado | Sandy.Celic | CC BY | — | https://sketchfab.com/3d-models/none-38c0aa70f7c944dbbbbf68d1a0012622 |
+| Esqueleto *low poly* (proporciones de calaca) | — | CC BY-SA | — | https://sketchfab.com/3d-models/none-8856e0138f424d68a8e0b40e185951f6 |
+| Xolo, efigie precolombina (NCMA) | Museo de Arte de Carolina del Norte | CC BY | — | https://sketchfab.com/3d-models/none-32468aab446f40fd9a33a0e6bfa1b692 |
+
+No se encontró 3D oficial libre de Pixar. Poly Haven no se consultó (⚠️): las texturas salieron de ambientCG (§4 y §19).
+
+## Punto 4 · Sitios: luz, paleta y texturas reales
+
+**La regla visual de toda la película** ✅ (Harley Jessup, diseñador de producción, en VFX Voice y en Inside the Magic): los dos mundos se diseñaron para **contrastar y complementarse**.
+- **Santa Cecilia (vivos):** plana, horizontal, colores **apagados y polvorientos**, sol de mediodía, sombras duras, polvo en el aire. Color sólo en los adornos de la fiesta.
+- **Tierra de los Muertos:** vertical, **una explosión de color**, torres de casas sobre casas, luces cálidas sobre violeta frío.
+
+**Paletas medidas** con `estilo.py --colores 5` sobre fotogramas de la película (1280×534). El % es cuánto ocupa cada color. Coco es 3D con degradado suave: no hay línea de contorno.
+
+| Sitio | Minuto | Hex medidos | Luz | Textura real equivalente |
+|---|---|---|---|---|
+| Plaza de Santa Cecilia, de día | 4:22 | `#D39A90` 29% · `#D5C9D5` 22% · `#79494A` 18% · `#876F7A` 17% · `#46231E` 14% | día cálido, degradado suave | estuco o adobe rosado (ambientCG «Plaster») |
+| Ofrenda familiar, noche | 5:02 | `#30261E` 27% · `#C1DDF2` 26% · `#554238` 25% · `#7E6B60` 18% · `#CEA391` 4% | velas cálidas contra ventana azul fría | madera oscura y cera |
+| Taller de zapatero (calle, noche) | 43:08 | `#12101A` 40% · `#0C0B11` 30% · `#1C1627` 19% · `#25253F` 7% · `#333E70` 4% | casi negro, contraluz | — |
+| Puente de cempasúchil | 25:12 | `#492D41` 31% · `#5D4776` 26% · `#7172CA` 20% · `#A3B4EF` 12% · `#B56C76` 11% | pétalos naranjas contra cielo violeta | pétalos o papel naranja |
+| Estación Marigold, vestíbulo y aduana | 28:00 | `#241A21` 41% · `#343353` 22% · `#5B4D7D` 19% · `#8366A4` 11% · `#6C3824` 7% | hierro fundido y arañas de luz cálida | hierro forjado oscuro |
+| Ciudad de los muertos desde el aire | 47:08 | `#1A0D14` 35% · `#44141D` 23% · `#5C3E59` 21% · `#665B95` 15% · `#BC889F` 8% | noche, luces cálidas sueltas sobre violeta | — |
+| Escenario de «Un Poco Loco» | 48:04 | `#282849` 33% · `#3F4E90` 31% · `#7278C1` 20% · `#AF3562` 10% · `#E1C7D1` 7% | focos rosa y azul, telón morado | terciopelo morado |
+| Cenote de la mansión | 1:10:00 | `#150F11` 43% · `#254E5A` 22% · `#ADD1CE` 16% · `#71979D` 12% · `#754F3D` 7% | agua turquesa iluminada desde abajo | — |
+| **Cuarto de Mamá Coco, atardecer** | 1:31:00 | `#A13921` 32% · `#6C2A18` 26% · `#C66F41` 23% · `#FEF8DB` 12% · `#EBBE88` 7% | **la luz más cálida de la película**, dorada de ventana | tela tejida naranja (el rebozo) |
+
+**De dónde salen los sitios** ✅ (visto en pantalla y entrevistas de producción)
+- Ciudad de los muertos: **Guanajuato**, casas de colores apiladas en la ladera (Lee Unkrich). También la Ciudad de México, según el artbook (pág. 92, citado en la Disney Wiki).
+- Estación Marigold: edificios de hierro de principios del siglo XX, con el **Palacio de Correos de México** (1907) como modelo del vestíbulo.
+- Mansión de Ernesto: toma algo de la **Coit Tower** de San Francisco.
+- Santa Cecilia: pueblos visitados en el viaje de investigación (Michoacán, Guanajuato).
+- Fuentes: https://insidethemagic.net/2017/08/interview-disney-pixars-coco-production-design-team-created-towering-intricate-land-dead/ · https://renderman.pixar.com/stories/the-world-of-coco
+
+**Texturas reales libres (CC0, ambientCG)** ✅
+- Madera de guitarra y de la zapatería: https://ambientcg.com/view?id=Wood092
+- Papel de fotos viejas y cartas: https://ambientcg.com/view?id=Paper001
+- Cuero (los Rivera son zapateros; tirantes de Héctor): https://ambientcg.com/view?id=Leather026
+- Estuco, cera y tela de pétalos: sólo nombradas por el investigador de vídeo, sin archivo concreto ⚠️.
+
+## Punto 5 · Tipografía
+
+**El logo** ✅ (Logopedia por su API, campo `type=Rockwell Extra Bold`, y foro de DaFont): base **Rockwell Extra Bold** (Monotype, de pago), con las letras decoradas a mano con flores de Día de Muertos. No es la letra pelada.
+- Logo en SVG, 1000×521: https://static.wikia.nocookie.net/logopedia/images/e/ef/Coco.svg/revision/latest?cb=20180317094448
+- Hilo de DaFont: https://www.dafont.com/forum/read/342164/coco-2018-font
+
+**Una letra por uso.** Todas las libres de abajo se abrieron con **fontTools** (`getBestCmap`): traen **á é í ó ú ñ Ñ ¿ ¡** ✅.
+
+| Uso | Qué usa Coco | Letra libre | Licencia | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|---|
+| Logo o título | Rockwell Extra Bold decorada ✅ | **Bevan** (la más cálida) o **Alfa Slab One** (la más negra) | OFL | ✅ |
+| Título frío, tipo interfaz | — | **Roboto Slab** 900 | Apache 2.0 | ✅ |
+| Globo normal y grito | cómic Cinestory: palo seco en mayúsculas, sin nombre publicado ⚠️ | **Bangers** | OFL | ✅ |
+| Pensamiento | no se vio ningún ejemplo ❌ | usar la del globo normal | — | — |
+| Onomatopeya | no aplica: la película no dibuja onomatopeyas | — | — | — |
+| Cartel del mundo | rótulos **pintados a mano**, serifas gruesas y adornos florales, estilo cartel mexicano de cine de oro y lucha libre ⚠️ (sin letra digital documentada) | Bevan o Alfa Slab One pintadas con textura | OFL | ✅ |
+| Interfaz de juego | Kingdom Hearts IV y Disney Magic Kingdoms: palo seco redonda, sin nombre publicado ⚠️ | **Baloo 2** 700 | OFL | ✅ |
+| Subtítulos y créditos | palo seco blanca con borde negro fino (estándar Disney) ⚠️ | **Open Sans** | Apache 2.0 | ✅ |
+
+- Fontsource: https://fontsource.org/fonts/bevan · https://fontsource.org/fonts/alfa-slab-one · https://fontsource.org/fonts/roboto-slab · Bangers, Baloo 2 y Open Sans en la misma web.
+- Otras que sugieren webs de identificar letras, **sin comprobar**: ChunkFive Ex, Rokkitt Black, Ultra ⚠️.
+- La letra de *Disney Speedstorm* es una itálica de carreras; no es de Coco (banner oficial, 1920×424).
+
+## Punto 6 · Cómo hablan en pantalla (el cuadro de Coco)
+
+**Coco no tiene manga.** Habla en pantalla de cuatro maneras:
+
+1. **En la película:** sólo subtítulos (palo seco blanca con borde negro) y **carteles pintados a mano** dentro del mundo (el arco de la ofrenda, el cartel del Sunrise Spectacular, la partitura de «Un Poco Loco»). No hay cartelas de texto. ✅
+2. **El cómic «Coco Cinestory Comic»** (Joe Books, 2-ene-2018, 336 págs., con un corto extra de Dante): **fotogramas de la película con globos redondeados blancos** puestos encima, como el resto de la colección Cinestory ✅ (Disney Wiki y fichas de venta). No se pudieron ver páginas por dentro (préstamo restringido en Internet Archive). Portada, 478×739: https://static.wikia.nocookie.net/disney/images/e/e1/Coco_Cinestory_Comic.png/revision/latest?cb=20180131075507
+   - Hay otra edición, «Coco: The Story of the Movie in Comics» (ISBN 9781772755312) ⚠️, sin ver por dentro.
+3. **Disney Magic Kingdoms:** **globos blancos redondeados con cola** hacia el personaje, palo seco, mayúsculas para exclamar ✅. Captura del globo de Héctor, 660×437: https://static.wikia.nocookie.net/disneymagicalkingdoms/images/2/23/Clu-h%C3%A9ctor_rivera-4.png/revision/latest?cb=20191110204308
+4. **Kingdom Hearts IV** (tráiler del D23, agosto 2026), **mirado y medido** ✅: la barra de vida lleva **una calavera de azúcar y notas musicales**, y el menú de comandos va dentro de un **marco rojo y dorado con motivos de papel picado**. Es la primera vez que la saga viste su interfaz entera para un mundo. Fotograma, 1920×1080: https://www.kh13.com/uploads/monthly_2026_08/kingdomheartsiv(2).png.2c9b303072c3a5bde04137dbe9f84fe6.png
+
+**El cuadro para la lámina** (decisión del redactor, con lo anterior):
+- **No** la burbuja blanca de Cinestory ni la de Magic Kingdoms: son justo lo que el dueño rechaza.
+- **Sí** un **marco rojo y dorado con borde de papel picado** (como Kingdom Hearts IV), o un **cartel pintado a mano** sobre madera o papel, como los rótulos del mundo.
+- Nombre del que habla en **Alfa Slab One**; texto en **Baloo 2** o **Open Sans**, con borde oscuro fino si va sobre imagen.
+- Si el texto va escrito en un objeto (carta, partitura, letrero), no lleva marco: el objeto es el cuadro.
+
+**Así suenan en los juegos** (textual, en inglés; wikis de los juegos por su API ✅):
+- Héctor en *Disney Magic Kingdoms*: «Ahh... Such a sweet sentiment! ... At SUCH a bad time.» · «Nice! Hey, got any requests?» · «Showtime!» · «¡Epa! Now, THAT'S worth a grito!» (mete «¡Epa!» y el grito de mariachi en español). https://dmk.fandom.com/wiki/H%C3%A9ctor_Rivera
+- Miguel en *Disney Heroes: Battle Mode*, caja de cita con comillas grandes: «Sometimes I think I'm cursed 'cause of something that happened before I was even born.» https://disneyheroesbattlemode.fandom.com/wiki/Miguel_Rivera
+
+## Punto 7 · Personajes y popularidad
+
+Fichas cruzadas entre la Disney Wiki en español y la Pixar Wiki en inglés (wikitext por la API) ✅. **Ojo:** la ficha en español de Abuelita está **vandalizada** (nombres inventados e insultos en la caja de datos); sus rasgos salen de la Pixar Wiki.
+
+| Personaje | Cómo es | Objeto y manía | Con quién sale |
+|---|---|---|---|
+| **Miguel Rivera** (protagonista, 12 años; cumple 13 al final) | musical, travieso, curioso, rebelde, de buen corazón, decidido | su guitarra hecha a mano con piezas recicladas, que toca a escondidas; **cierra los ojos al tocar** (tráiler doblado, 0:22); al final hereda la de Héctor | Dante; en el otro mundo, Héctor e Imelda |
+| **Héctor Rivera, «Papá Héctor»** (tatarabuelo) | travieso, encantador, tramposo pero de buen corazón; un timador reformado | se **disfraza de Frida Kahlo** con acento falso para cruzar el puente; siempre busca un trato | Miguel, Chicharrón, Imelda, Coco |
+| **Mamá Coco** (Socorro Rivera, bisabuela) | cálida, gentil, olvidadiza; confunde a Julio con Miguel | guarda **las cartas de su padre** y **el trozo roto de la foto** | Miguel, Abuelita, Héctor |
+| **Ernesto de la Cruz** (villano) | encantador, cruel, mentiroso, arrogante, plagiador, asesino | la **guitarra blanca con calavera** (robada a Héctor), traje de mariachi blanco, su lema **«Vive tu momento»** | Héctor, Miguel, Pepita y Dante |
+| **Mamá Imelda** (tatarabuela, matriarca) | seria, obstinada, amorosa, amarga hasta que perdona | el **zapato** que lanza como arma | Pepita, Héctor, Miguel |
+| **Abuelita (Elena Rivera)** | manda en casa, pero muy cariñosa | la **chancla** para espantar mariachis y a Dante (herencia de Imelda); cierra ventanas cuando pasa música; da **tamales** para cuidar | Miguel, sus hijos, Mamá Coco |
+| **Dante** (perro) | xoloitzcuintle, el perro de México; en la creencia azteca guía a las almas | lengua de lado (no tiene dientes delanteros); al final le salen **alas de alebrije** | Miguel |
+| **Pepita** (alebrije de Imelda) | cuerpo de jaguar, alas de águila, cuernos de carnero turquesa, cola de iguana ✅ | — | Imelda |
+
+- Ernesto está inspirado en ídolos de la Época de Oro (Pedro Infante, Jorge Negrete, Vicente Fernández), según la wiki ⚠️ (sin entrevista del equipo).
+- Pixar llevó **un xoloitzcuintle real** al estudio para animar a Dante y grabar sus sonidos ✅.
+- Fichas: https://disney.fandom.com/es/wiki/H%C3%A9ctor · https://pixar.fandom.com/wiki/Abuelita · https://pixar.fandom.com/wiki/Dante
+
+**¿Quién es el más querido?**
+- ❌ **No hay encuesta oficial** de Disney o Pixar, ni de fans, que se encontrara (búsquedas en español e inglés, y Reddit por Arctic Shift).
+- Indicios de que es **Héctor** ⚠️:
+  - La Disney Wiki en español lo llama **deuteragonista**, no secundario ✅.
+  - Pixiv tiene una etiqueta sólo para él, **#ヘクター(COCO), con 97 dibujos** ✅.
+  - En Danbooru, `hector_rivera` tiene **152 dibujos** y `miguel_rivera` ni siquiera entra en la lista de 20 (menos de 136) ⚠️ (dato del recolector, que venía mezclado con otros fandoms).
+  - En Sketchfab el Héctor más votado tiene **88 ♥** y el Miguel más votado **14** ✅.
+  - Es el compañero de Miguel en **Kingdom Hearts IV** y corredor en **Disney Speedstorm** (§11).
+- **El corazón emocional es Mamá Coco** con «Recuérdame»: es la escena más citada en prensa (§21).
+- **Para una lámina:** Héctor para lo gracioso y lo cercano; Miguel para lo que se aprende y se canta; Mamá Coco para la emoción.
+
+## Punto 8 · Doblaje latino y frases textuales
+
+**La ficha técnica** (sólo Doblaje Wiki ⚠️): https://doblaje.fandom.com/es/wiki/Coco_(Disney%E2%80%A2Pixar)
+- Estudio: **Taller Acústico, S.C.** (México), con Animal Music (Argentina) e Igloo Music (Burbank).
+- Dirección: **Ricardo Tejedo**; colabora Raúl Aldana. Adaptación: Katya Ojeda. Letras de canciones: Raúl Aldana.
+- Dirección musical: Jack Jackson, Luis Gil y Raúl Aldana. Dirección creativa: Raúl Aldana. Gerente de producción: Erika Sánchez Santarelli.
+- Grabado en agosto y septiembre de 2017; mezcla en Skywalker Sound.
+
+**El dato estrella para el servidor** ✅ (tres fuentes): **España no hizo doblaje propio.** Por primera vez en más de 25 años un Pixar se estrenó en España (1-dic-2017) con **el doblaje latino**; hubo un tráiler de prueba con acento español que se descartó.
+- https://dubdb.fandom.com/wiki/Coco_(Latin_American_Spanish) · http://www.milenio.com/hey/coco-espana-espanol-mexicano-estreno-pelicula-disney-pixar_0_1074492693.html · https://www.nbcnews.com/news/latino/coco-latino-themed-movie-gets-it-right-n822921
+
+**Reparto** ✅ cada nombre en Doblaje Wiki (API) y The Dubbing Database; muchos también en ANMTV (anuncio del 4-oct-2017, https://www.anmtvla.com/2017/10/coco-disney-anuncia-el-cast-para.html) o Noticine.
+
+| Personaje | Voz original | **Voz latina** |
+|---|---|---|
+| Miguel | Anthony Gonzalez | **Luis Ángel Gómez Jaramillo** (también canta) |
+| Héctor | Gael García Bernal | **Gael García Bernal** (el mismo en los dos idiomas) |
+| Mamá Coco (habla) | Ana Ofelia Murguía | **Elena Poniatowska** (la escritora) |
+| Mamá Coco (canta) | — | Rocío Garcel |
+| Coco niña | Libertad García Fonzi | Lucy Hernández |
+| Ernesto (habla y canta) | Benjamin Bratt / Antonio Sol (canto) | **Marco Antonio Solís «El Buki»** (su primer doblaje) |
+| Mamá Imelda | Alanna Ubach | **Angélica Vale** |
+| Abuelita | Renée Victor | **Angélica María** |
+| Papá Enrique | Jaime Camil | César Costa |
+| Mamá Luisa | Sofía Espinosa | Sofía Espinosa |
+| Papá Julio | Alfonso Arau | Alfonso Arau |
+| Tía Rosita | Selene Luna | Cecilia Suárez |
+| Tía Victoria | Dyana Ortelli | Ana de la Reguera |
+| Tíos Óscar y Felipe | Herbert Sigüenza | Héctor Bonilla |
+| Frida Kahlo | Natalia Cordova-Buckley | Ofelia Medina |
+| Chicharrón | Edward James Olmos | Víctor Trujillo |
+| Gestor | Gabriel Iglesias | Andrés Bustamante |
+| Maestra de ceremonias | Blanca Araceli | Fernanda Tapia |
+| Agente de ingreso | Octavio Solís | Trino (el caricaturista) |
+| Oficial correccional | Cheech Marin | Xavier López «Chabelo» |
+| Guardia | Salvador Reyes | Salvador Reyes |
+| Dante | sin diálogo | sin diálogo ⚠️ (las dos listas coinciden en que no tiene actor) |
+
+**Frases del doblaje latino, textuales** (muestras oficiales de Doblaje Wiki pasadas por `voz.py` y revisadas contra el wikitext; y el tráiler doblado):
+
+| Quién | Frase | Dónde |
+|---|---|---|
+| Imelda | «**Y nunca olvides lo mucho que tu familia te ama.**» | tráiler doblado, 1:56-1:58 https://www.dailymotion.com/video/x6awfq0?t=116 y ficha de Imelda ✅ |
+| Imelda | «Ahora tú debes decidir.» | muestra oficial https://static.wikia.nocookie.net/doblaje/images/9/9d/Coco.Mam%C3%A1Imelda.ogg/revision/latest?cb=20200116232722&path-prefix=es ⚠️ |
+| Abuelita | «**¡Sin música! ¡Sin música!**» | tráiler doblado, 0:22-0:24 https://www.dailymotion.com/video/x6awfq0?t=22 ✅ |
+| Abuelita | «El Día de Muertos es la única noche del año en que nuestros ancestros nos visitan. Ponemos sus fotos en la ofrenda para que sus espíritus crucen de vuelta.» | https://doblaje.fandom.com/es/wiki/Archivo:Coco.AbuelaHelena.ogg ✅ |
+| Ernesto | «El éxito no se obtiene fácil, Miguel, hay que estar dispuestos a hacer lo necesario... hasta vivir tu momento.» Y su lema: «**Vive tu momento**». | https://doblaje.fandom.com/es/wiki/Archivo:Coco.ernestodelacruz.ogg ✅ |
+| Héctor | «¡Y necesito un amigo justo ahora! ¡Y los amigos tratan bien a sus amigos! Ayúdame a cruzar el puente esta noche y yo voy a compensarte.» | https://doblaje.fandom.com/es/wiki/Archivo:Coco.Hector.ogg ✅ |
+| Mamá Coco | «Papá, papá regresó al fin, papá ya vino, ¿quién eres tú? ... Mi papá me cantaba esa canción, conservé sus cartas...» | https://doblaje.fandom.com/es/wiki/Archivo:Coco-Mam%C3%A1coc%C3%B3.ogg ✅ |
+| Miguel | «Nada es más importante que la familia... Héctor debe estar en la ofrenda, es parte de la familia.» | https://doblaje.fandom.com/es/wiki/Archivo:Coco.Miguel.ogg ✅ |
+| (familia) | «Somos tu familia, mijo.» | tráiler doblado, 1:17 https://www.dailymotion.com/video/x6awfq0?t=77 ⚠️ |
+
+**Cómo suena cada voz** (medido con `voz.py` en las muestras oficiales; semitonos = cuánto sube y baja):
+
+| Personaje | Registro | Expresividad | Velocidad |
+|---|---|---|---|
+| Miguel | agudo, 255 Hz | 23,8 semitonos, la más viva | normal, 2,53 palabras/s |
+| Héctor | medio, 216 Hz | 20,7 | **rápida, 3,38 palabras/s**: labia de timador |
+| Abuelita | medio, 173 Hz | 18,8 | rápida, 3,2 palabras/s: manda |
+| Mamá Coco | medio, 195 Hz | 18,4 | **muy lenta, 0,65 palabras/s**: entrecortada |
+| Ernesto | **grave, 124 Hz** | 18,2 | normal, 2,23 palabras/s: barítono carismático |
+| Imelda | medio, 169 Hz | 15,9 | lenta, 1,96 palabras/s: solemne |
+
+- El equipo de doblaje grabó **4 versiones** de «Recuérdame» para cuatro momentos (wikitext de Doblaje Wiki) ⚠️.
+- No se encontraron **entrevistas en vídeo** a los actores latinos (YouTube pedía iniciar sesión) ❌.
+- Crunchyroll y Netflix no aplican: es una película de Disney.
+
+## Punto 9 · Música y sonido
+
+**No hay opening ni ending** (es película). Lo que aplica: 8 canciones originales y 26 piezas de partitura ✅.
+- Partitura: **Michael Giacchino**. Canciones: **Germaine Franco, Adrian Molina, Kristen Anderson-Lopez y Robert Lopez**. https://en.wikipedia.org/wiki/Coco_(soundtrack) · https://www.ascap.com/news-events/articles/2017/11/coco-franco-molina
+- Unos **6 años** investigando la música de México, con **50 músicos mexicanos** y Camilo Lara como consultor cultural ✅ https://remezcla.com/features/film/pixar-camilo-lara-germaine-franco-music-coco/
+- Discos publicados (MusicBrainz): la banda sonora original (10-nov-2017) y la edición en español «Coco: Banda sonora original y música inspirada en la película» (27-oct-2017) ✅ https://musicbrainz.org/release-group/3bb4bd88-5d42-4f42-83ca-dca49d1c5d16
+
+| Canción | Quién la canta en la película | Minuto | Ambiente |
+|---|---|---|---|
+| **«Recuérdame»** («Remember Me», Óscar a mejor canción) | Ernesto (versión de concierto), Miguel y Héctor, y **Miguel a Mamá Coco** | a Coco: 1:30:34-1:33:07 | la de Coco es **sólo guitarra y voz**, sin orquesta: íntima, de cuna ✅ |
+| **«Un Poco Loco»** (Franco y Molina) | Miguel y Héctor, con banda de mariachis esqueleto | 49:00-51:56 | fiesta, orquesta llena ✅ |
+| **«La Llorona»** (canción popular mexicana, dominio público) | Imelda y Ernesto a dúo | 1:21:48-1:22:36 | drama y acción a la vez ✅ (tres fuentes) |
+| **«El Mundo Es Mi Familia»** | toda la familia en la fiesta final | 1:35:44-1:36:08 | alegría coral ⚠️ (autoría sin segunda fuente) |
+
+- «Recuérdame» suena **4 veces** con arreglos distintos: nana de Héctor, himno de estadio de Ernesto, dúo, y nana final de Miguel a Coco ✅ https://en.wikipedia.org/wiki/Remember_Me_(Coco_song)
+- «La Llorona»: https://en.wikipedia.org/wiki/La_Llorona_(song) · https://insidethemagic.net/2023/05/the-queer-history-behind-one-of-coco-most-heart-breaking-songs-la-llorona-jnw1/
+- **La fanfarria de los alebrijes:** Giacchino dio a Pepita y los alebrijes un tema propio de **metales** (entrevista en SlashFilm) ✅. Se oye en 1:18:08 y en la persecución, ~1:25:00-1:25:56. https://www.slashfilm.com/554756/music-of-coco-michael-giacchino/
+- En las escenas que hacen llorar siempre suena «Recuérdame» ✅.
+
+**Sonidos que se reconocen** (oídos en la película; no hay onomatopeyas dibujadas porque es 3D, no manga):
+- el jadeo y las patas de Dante corriendo (11:12);
+- el rugido grave de Pepita-jaguar (1:18:08);
+- el «clic» y el flash de la cámara de la aduana (26:56).
+
+## Punto 10 · Vídeos
+
+| Vídeo | Enlace | Qué sirve (minuto del vídeo) | Estado |
+|---|---|---|---|
+| Tráiler oficial «This Thanksgiving» (Tomatazos, 2:27) | https://www.dailymotion.com/video/x8x30c8 | 0:12 Dante y la guitarra · 0:36 la partitura a la vela · 0:48 Miguel en el escenario · 1:48 Miguel esqueleto | ✅ mirado entero |
+| Tráiler final doblado al latino (HobbyConsolas, 2:27) | https://www.dailymotion.com/video/x6awfq0 | 0:22 «¡Sin música!» · 1:17 abrazo familiar · 1:56 frase de Imelda | ✅ mirado y oído |
+| Tráiler latino (Sensacine México, 1:16, 11 845 vistas) | https://www.dailymotion.com/video/x889t5d | existe; no se miró | ⚠️ |
+| Tráiler 2 latino (Sensacine México, 3:04) | https://www.dailymotion.com/video/x889tdz | existe; no se miró | ⚠️ |
+| Otros tráileres (MYmovies 2:33, JeuxVideo 2:42) | https://www.dailymotion.com/video/x81kei1 · https://www.dailymotion.com/video/x9hbi6g | no mirados | ⚠️ |
+| La película entera | copia de Internet Archive (ver aviso en §2) | todos los minutos de §2, §13, §14 y §21 | ✅ |
+
+- «Coco Morocco Trailer» de Dailymotion **no es de esta película** (un anuncio de moda): descartado.
+- **Análisis en YouTube** (Honest Trailers, finales explicados): **no se encontró uno con minuto comprobable** ❌. YouTube pedía iniciar sesión. Sí hay reseñas escritas: https://www.rogerebert.com/reviews/coco-2017 · https://www.deepfocusreview.com/reviews/coco/
+- **TikTok:** se repite la escena de «Recuérdame» como plantilla de humor, sobre todo con **«Despacito»** encima, y la frase-meme «mama coco did NOT die for this» ⚠️ (sólo páginas de etiqueta, sin vistas por vídeo): https://www.tiktok.com/discover/coco-despacito-remember-me · https://www.tiktok.com/discover/recuerdame-coco-meme
+- No hay un «challenge» con nombre y fecha ❌ (no se encontró).
+
+## Punto 11 · Videojuegos
+
+Coco **no tiene juego propio** de consola o PC. Aparece en juegos de Disney. Tampoco hay ficha en **The Cutting Room Floor** (sólo sale Coco Bandicoot) ✅.
+
+| Juego | Qué hay de Coco | Interfaz y diálogo | Estado |
+|---|---|---|---|
+| **Kingdom Hearts IV** (Square Enix, finales de 2027) | mundo de Coco revelado en el D23 (agosto 2026): Sora pelea junto a **Miguel y Héctor** en la Tierra de los Muertos; Sora con la cara pintada de **calavera de azúcar** y una Llave Espada con forma de **guitarra de calavera**; Benjamin Bratt vuelve como Ernesto | barra de vida con calavera y notas; menú en **marco rojo y dorado con papel picado** | ✅ Game Informer, cuenta oficial de Pixar en X, TheGamer, Wikipedia y Tech Times |
+| **Disney Speedstorm** (Gameloft) | **temporada 22 «Bridge of Marigolds», estrenada el 24-sep-2026**: Miguel (Speedster, épica), Héctor (Trickster, rara), Ernesto (Brawler, común); pista en la Tierra de los Muertos; eventos de Miguel 30-sep a 6-oct, Héctor 15-21 oct, Ernesto 5-11 nov | — | ✅ notas del parche y GoNintendo |
+| **Disney Magic Kingdoms** (móvil) | evento «Coco» del **15-oct-2019** (parche 4.4.0): Miguel, Héctor, Dante, Abuelita, Mamá Coco, Ernesto e Imelda; atracciones Land of the Dead, Musical Celebration, casa de los Rivera y tienda del mercado | globos blancos redondeados con cola | ✅ wiki del juego y TV Tropes |
+| **Disney Heroes: Battle Mode** (PerBlue, móvil, **cerrado el 31-may-2026**) | Miguel, apoyo de la fila de atrás; su habilidad «Crescendo» pone notas que curan | caja de cita con comillas grandes | ✅ dos wikis |
+| **Coco VR** (Oculus, 2017) | experiencia oficial de realidad virtual | no se vio | ⚠️ |
+
+- Arte de Miguel en Speedstorm, 1080×1350: https://static.wikia.nocookie.net/speedstorm/images/8/85/Miguel_Rivera_Teaser.jpg/revision/latest?cb=20260916011540
+- Parche oficial: https://disneyspeedstorm.com/news/disney-speedstorm-patch-notes-season-22
+- Wikis: https://disneyheroesbattlemode.fandom.com/wiki/Miguel_Rivera · https://en.wikipedia.org/wiki/Kingdom_Hearts_IV · https://www.techtimes.com/articles/324608/20260815/kingdom-hearts-iv-gets-coco-world-anime-series-late-2027-release-window.htm
+- No se encontró Coco en **Disney Dreamlight Valley** ni un evento de Coco en **Disney Solitaire** ⚠️.
+- Los juegos «Coco» de Steam del recolector (Coco Block, Light of Coco, Coco's Revenge…) **no tienen nada que ver**: descartados.
+
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que todos reconocen**
+- «Recuérdame» a Mamá Coco: la escena, la canción y la cara de Coco (§21).
+- **La chancla** de Abuelita, heredada del zapato de Imelda: el gesto pasa de generación en generación ✅.
+- **«¡Sin música!»** de Abuelita (tráiler doblado, 0:22).
+- Héctor **disfrazado de Frida Kahlo** para colarse por el puente ✅.
+- **«Vive tu momento»**, el lema de Ernesto, que termina siendo la frase del villano ✅.
+- Dante con la **lengua de lado** y su sorpresa final: también es alebrije ✅.
+- Memes ⚠️: la escena de «Recuérdame» con «Despacito» encima y la frase «mama coco did NOT die for this» cuando algo traiciona lo sentimental (§10).
+- ⚠️ No se encontraron **chistes internos** más finos: TV Tropes y Reddit amplio estaban bloqueados (ver bitácora).
+
+**Qué NO hacer** (sale de lo que la prensa y el público mexicano elogian, §21 y §24)
+- No pintar el Día de Muertos como **tétrico** ni como un «Halloween mexicano». Coco es familia, color y fiesta.
+- No poner **calaveras genéricas**: las de Coco llevan el estilo de la película (huesos color hueso, ojos grandes, adornos pintados) y vienen de **José Guadalupe Posada**.
+- No confundir el doblaje: **España usó el doblaje latino**, no al revés. Y nombrar bien a los actores mexicanos (Marco Antonio Solís, Angélica Vale, Angélica María, Gael García Bernal).
+- No hacer a Héctor villano ni a Ernesto bueno fuera de contexto: el giro es la película.
+- No hacer que Dante hable: **no tiene voz** en ningún idioma.
+- No usar la marca «Día de los Muertos» como si fuera de Disney: en 2013 Disney intentó registrarla y la retiró en 12 horas tras la protesta (§24).
+- No escribir «Coco» sin más en un buscador o una IA: salen la VTuber Kiryu Coco, El Coco (el Hombre del Saco) o Coco Bandicoot.
+- No usar colores alegres planos sin el contraste: el cálido de vela contra el violeta de la noche es la firma (§4).
+
+## Punto 13 · Personajes a fondo
+
+**Miguel Rivera**
+- **Arco:** quiere ser músico como Ernesto en una familia que odia la música. Descubre que su ídolo es un asesino y que su tatarabuelo es Héctor. Vuelve, su familia acepta la música y salva a Héctor del olvido cantándole a Mamá Coco.
+- **Miedo:** que lo olviden y decepcionar a su familia. **Lo que le importa:** la música y la familia; cree que son incompatibles y demuestra que no.
+- **Qué transmite:** ternura y esperanza. Da ganas de valorar a los que ya no están.
+- **Cómo habla:** voz aguda y muy viva; atropellado cuando está nervioso; suplicante con la familia. Cuando explica algo serio, despacio y directo: «Héctor debe estar en la ofrenda, es parte de la familia».
+- **Dinámicas:** hace reír a Héctor con su ingenuidad; discute con Abuelita por la música; se apoya en Dante cuando tiene miedo.
+
+**Héctor Rivera**
+- **Arco:** músico que dejó a Imelda y a Coco para ir de gira con Ernesto. Ernesto lo **envenenó** para robarle las canciones cuando quiso volver. Sin foto en ninguna ofrenda, está a punto de la Muerte Final. Se redime a través de Miguel.
+- **Miedo:** el olvido total. Ve desaparecer a su amigo **Chicharrón**. **Lo que le importa:** ver a Coco una vez más.
+- **Qué transmite:** tragedia disfrazada de comedia. Gracioso por fuera, roto por dentro. El giro más citado: escribió «Recuérdame» **para su hija**, no para el público.
+- **Cómo habla:** rápido, con labia de timador, encadena frases («¡Escucha! Ayúdame a cruzar el puente esta noche y yo voy a compensarte»). Usa diminutivos y apodos. Se ríe nervioso cuando miente.
+- **Dinámicas:** amigo de Miguel casi al instante; con Imelda, tensión hasta el final; con Ernesto, de amistad a traición.
+
+**Mamá Coco**
+- **Arco:** perdió a su padre de niña; guardó sus cartas y el trozo de foto casi un siglo; la memoria se le va. Miguel le canta la nana de su padre y **lo recuerda**.
+- **Qué transmite:** nostalgia y ternura. Que «ser recordado» es un acto de amor diario y frágil.
+- **Cómo habla:** voz quebrada, la más lenta (0,65 palabras/s); repite: «Papá, papá regresó al fin, papá ya vino».
+- **Dinámicas:** ternura mutua con su hija Elena; complicidad callada con Miguel (sabía, como Dante, que a él le gustaba la música).
+
+**Ernesto de la Cruz**
+- **Arco:** de ídolo a villano. Se quedó las canciones y la vida de Héctor. Muere aplastado por una campana. Expuesto ante todos, cae en el olvido.
+- **Miedo:** ser olvidado y perder la fama; justo es su castigo.
+- **Qué transmite:** el encanto que engaña. Su maldad (un asesinato) es rara por lo oscura en Pixar.
+- **Cómo habla:** la voz más grave (124 Hz); mentor paternal y motivador: «hay que estar dispuestos a hacer lo necesario».
+
+**Mamá Imelda**
+- **Arco:** crió sola a Coco; prohibió la música para proteger (y castigar); al saber la verdad perdona a Héctor y vuelve a cantar con él.
+- **Miedo:** que la familia repita el abandono. **Qué transmite:** fuerza y dolor guardado.
+- **Cómo habla:** lenta y solemne; cuando se emociona **baja la voz** en vez de subirla: «Ahora tú debes decidir».
+- **Dinámicas:** manda como Abuelita (herencia directa); canta «La Llorona» a dúo con Ernesto en pleno rescate.
+
+**Abuelita (Elena)**
+- Hereda la prohibición; al final deja que Miguel toque en la fiesta. **Grita** para defender («¡Sin música!») y **consuela con comida** («come más tamales»).
+
+**Dante**
+- Sin arco humano: es el guía de almas del folclore mexicano. Alivio cómico y cariño sin condiciones.
+
+**La cara en cada emoción** (hoja `emociones_01.jpg`; película entera recorrida cada 20 s y con 8 pasadas de zoom de 1 a 6 s) ✅ salvo lo marcado
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Miguel** | 1:32:10 sonrisa de esperanza ante Coco; tráiler 0:22 ojos cerrados con la guitarra | ⚠️ 17:49-17:53 tenso forcejeando con Abuelita, sin mueca clara | 1:27:54 manos en la cara, llorando | 23:40 manos en la boca, ojos muy abiertos, en el panteón | 18:14 mirada baja tras el regaño |
+| **Héctor** | 1:34:29 sonrisa enorme al pasar la aduana | ⚠️ no localizada (la escena del veneno tiene luz verde de recuerdo) | 1:12:00 apagado, hablando de Coco | ⚠️ 1:27:24 débil, miedo al olvido, sin primer plano | ⚠️ no encontrada |
+| **Mamá Coco** | 1:33:07 sonríe al reconocer la foto de su padre | ⚠️ no existe como plano | 1:31:52 de perfil, ausente | ⚠️ no encontrada | ⚠️ no encontrada |
+| **Ernesto** | 1:01:40 abraza a Miguel en su mansión (también 1:00:50) | ⚠️ no con la cara clara | ⚠️ no encontrada | 1:26:40 manos en alto ante Pepita | ⚠️ 1:26:00 salió borroso |
+| **Imelda** | 1:34:44 baila con Héctor | 33:20 señala y regaña (de perfil) | ⚠️ no encontrada | ⚠️ 1:17:20 seria y alerta | ⚠️ no encontrada |
+| **Abuelita** | 1:35:47 canta y ríe en la fiesta final | 17:56 boca abierta, mano en el pecho, indignada | ⚠️ | ⚠️ | ⚠️ |
+
+- 17 de 30 casillas con fotograma; las demás **no se encontraron** como plano propio tras recorrer toda la película (varias probablemente no existen: Mamá Coco con rabia, Abuelita con miedo).
+- Dante no aplica: es un perro; su registro es de cuerpo (orejas, cola, lengua).
+- En la hoja, el fotograma de 1:35:47 muestra a Miguel con la guitarra blanca y, al lado, una figura translúcida con trenzas y rebozo naranja que parece el espíritu de Mamá Coco ⚠️ (la parte de voz dice «junto al espíritu de Héctor»: comprobar en la película).
+
+## Punto 14 · Poses analizadas
+
+Minutos de la película entera (mirada con `fotogramas.py`, ±2 s). Formato: minuto · qué hace · para qué sirve.
+
+**Miguel** ✅
+1. 3:18 · agachado a la altura de Mamá Coco, sonriendo · **saludar, presentar**.
+2. 6:46-7:26 · sentado con un mariachi de la calle, mira sus manos para aprender un acorde · **aprender, explicar**.
+3. 12:00-13:36 · solo en su escondite, ojos cerrados, canta y toca su guitarra hecha a mano · **cantar, concentrarse**.
+4. 22:36 · ya esqueleto, boca abierta, manos separadas del cuerpo · **miedo**.
+5. 24:52 · en el puente, agarrado a Dante, mira al horizonte · **asombro**.
+6. 51:00-51:24 · de pie al micrófono, guitarra al frente, cuerpo echado hacia delante · **celebrar, actuar**.
+7. 1:17:52 · sentado en el suelo abrazando a Dante, aliviado · **calma, cariño**.
+8. 1:24:12-1:24:28 · de pie con una vela, mira a Ernesto; pasa de la esperanza al susto · **confrontar**.
+9. **1:30:44-1:31:16** · de rodillas ante Mamá Coco, guitarra en mano, le canta muy de cerca · **animar, consolar** (la pose más importante para una lámina emotiva).
+10. 1:35:44-1:36:00 · de pie con toda la familia, tocando, sonrisa grande · **celebrar en grupo**.
+
+**Héctor**
+1. 42:32-43:36 · tumbado en una hamaca, guitarra en el pecho, sombrero ladeado · **relajarse, presentarse** ✅.
+2. 44:00-44:16 · sentado, manos muy visibles en el mástil, cabeza ladeada escuchando · **explicar un acorde** ✅.
+3. 45:52 · de pie, carcajada con la boca muy abierta, sombrero hacia atrás · **reír** ✅.
+4. 49:08-49:16 · en el escenario con la banda detrás, tocando con Miguel · **celebrar en grupo** ✅.
+5. 53:04-53:12 · agachado, brazos hacia Miguel, cara de cariño · **animar, consolar** ✅.
+6. 1:21:48-1:22:04 · de pie junto al micrófono del gran escenario, erguido, cantando · **presentar** ⚠️ en ese mismo minuto el investigador ve a Imelda cantando «La Llorona» y a Ernesto en silueta: comprobar si es Héctor.
+7. 1:24:16-1:24:28 · con una vela junto a Miguel, serio, hombros caídos · **explicar algo grave** ⚠️ (el investigador dice que ahí cuenta la verdad; la parte de voz sitúa esa charla en 1:12:00).
+8. 1:34:24-1:34:56 · efecto de silueta y abrazo con Imelda en la puerta de «Departures» · **reencuentro** ⚠️ (es el epílogo: según la parte de voz Héctor **aparece** junto a la ofrenda en 1:34:17, no se desvanece).
+- Además: **A2**, render oficial con las **manos en la cintura**: la mejor pose de presentar, y en fondo blanco.
+
+**Mamá Coco** ✅
+1. 3:10 · sentada en su silla, manta a rayas en los hombros, mirada baja y perdida · **reposo** (su pose por defecto).
+2. 10:48-11:04 · mejilla con mejilla con Abuelita, mano en su brazo · **cariño en grupo**.
+3. 1:29:00-1:29:40 · mira la guitarra que le enseña Miguel, ceño fruncido, intentando recordar · **pensar, dudar**.
+4. **1:31:00** · primerísimo plano, ojos cerrados, boca entreabierta, escuchando · **emocionarse, recordar**.
+5. 1:31:40-1:32:04 · ojos abiertos y brillantes hacia Miguel, empieza a sonreír · **alegría** (con la anterior: la emoción completa en dos fotogramas).
+6. 1:32:12-1:32:52 · señala con la mano temblorosa algo fuera de cuadro, hablando · **explicar, señalar**.
+
+**Dante** ✅
+1. 4:46 · corre junto a Miguel, orejas atrás, lengua fuera · **jugar, energía**.
+2. 11:12-11:44 · apoya la cabeza en Miguel, que lo abraza · **cariño**.
+3. 14:08 · sólo los ojos, brillando en morado en la oscuridad, pegado a una ventana · **misterio** (detalle, no cuerpo entero).
+4. 54:48 · de pie en el empedrado, cabeza ladeada, orejas alzadas, mira a Miguel que lo señala · **curiosidad**.
+5. 1:24:40 · pequeño, alas verdes, rosas y doradas desplegadas junto a Miguel caído · **rescate**.
+6. 1:25:36-1:25:56 · volando, cuerpo estirado, alas abiertas contra el cielo morado · **heroico**.
+- Además: **A3**, agachado jugando con un hueso (still oficial).
+
+**Otros** (de la tabla de emociones, §13): Imelda **regaña señalando** (33:20); Abuelita **indignada** con la mano en el pecho (17:56); Ernesto **abraza como un padre** (1:01:40).
+
+**Qué pose para qué**
+
+| Para… | Mejor opción |
+|---|---|
+| **Presentar** | Héctor A2 (manos en la cintura) · Miguel 3:18 · Héctor en la hamaca 42:32 |
+| **Explicar** | Héctor 44:00-44:16 (manos en el mástil) · Miguel 6:46-7:26 · Mamá Coco señala 1:32:12 |
+| **Celebrar** | Miguel 51:00-51:24 · Héctor 49:08-49:16 · familia 1:35:44 |
+| **Regañar** | Imelda 33:20 · Abuelita 17:56 |
+| **Pensar** | Mamá Coco 1:29:00-1:29:40 |
+| **Animar** | Miguel 1:30:44-1:31:16 · Héctor 53:04-53:12 |
+
+## Punto 15 · Vestuario y hex medidos
+
+Medido con `estilo.py`, recortando antes al personaje para no medir el fondo.
+
+**Miguel**
+- **Ropa de calle, la icónica** (casi toda la película): **sudadera roja con capucha**, camiseta blanca, vaqueros azules y tenis blancos. En la Tierra de los Muertos, **cara pintada de calavera** blanca y negra. ⚠️ Sin hex: todos los stills grandes de Miguel tienen luz de vela o de noche. Fuente: guías de disfraz https://costumewall.com/dress-like-miguel-rivera/ y https://gogocosplay.com/miguel-rivera-costume/ (coinciden). Las guías dicen camiseta de rayas; en la hoja de emociones (1:32:10) se ve una camiseta blanca sin mangas ⚠️.
+- **Traje de charro rojo** (el de escenario, en la atracción de 2026 y en la fiesta final) ✅: rojo profundo **`#7C1919`**, realce de luz de escena **`#C96131`**, sombrero rojo a juego, **guitarra blanca con roseta de calavera**. Medido en https://static.wikia.nocookie.net/pixar/images/a/a1/Coco_Attraction_D23_2026_Concept_Art_01.jpg
+
+**Héctor** ✅ (render en fondo blanco, sin luz de escena: el dato más fiable)
+- Saco **malva polvoso `#70546C`** (sombra **`#543548`**), **pañuelo rojo** al cuello, **tirantes a rayas rojo y blanco**, pantalón a rayas marrón **`#57330E`** y dorado **`#93692E`**, **sombrero de paja** tejida, huesos color hueso **`#D1AD67`**.
+
+**Mamá Coco** ✅ (foto oficial en fondo blanco, 516×637)
+- **Rebozo naranja terracota `#9E5940`** (realce **`#BC7A5D`**), vestido de manta **crema `#E1D6CC`** bordado a mano con flores de colores (puntos muy pequeños, sin medir uno a uno), pelo cano en **trenzas**, pantuflas rosa pálido, **silla de ruedas de mimbre**. Es la versión que todos reconocen.
+- En casa, al principio (3:10), lleva una **manta a rayas** sobre los hombros.
+
+**Ernesto:** traje de mariachi **blanco** con adornos rojos y la guitarra blanca con calavera (§7 y hoja de emociones, 1:26:40). ⚠️ Sin hex.
+**Imelda:** vestido **morado** (B3 y hoja de emociones). ⚠️ Sólo la paleta de la escena, no del vestido: `#0B090D`, `#231B3D`, `#3A2B69` (fotograma 4K, 3840×1600).
+**Dante:** xoloitzcuintle sin pelo, piel con manchas rosas y grises. ⚠️ Sin hex: no se aisló un fotograma limpio.
+**Pepita:** colores saturados de alebrije, turquesa, magenta y naranja (§18); en B1 se ve cuerpo verde y alas rojas.
+
+**Lo que se reconoce al instante:** la sudadera roja de Miguel, el saco malva y el sombrero de paja de Héctor, el rebozo naranja de Mamá Coco en su silla, y el traje blanco de Ernesto.
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+**Sitios con su luz y su hora** (paletas del investigador de imagen, medidas en arte oficial; las de vídeo están en §4)
+
+| Sitio | Hora y luz | Hex | Imagen |
+|---|---|---|---|
+| **Tierra de los Muertos** desde el aire | noche, rascacielos de casas con luces de colores | `#422A47` · `#7C75CF` · `#AC687C` · `#C5ACD5` | https://static.wikia.nocookie.net/pixar/images/7/78/Coco_land_of_the_dead.png (1206×482) · F1 |
+| **Balcón** sobre la ciudad | noche, luz cálida de faroles | `#110709` · `#762D05` · `#D5BD40` | «Coco Balcony», 3000×2119 · F2 |
+| **Escenario del Sunrise Spectacular** (telón gigante de calavera de flores) | noche, focos de escenario | `#413453` · `#BEAFDB` · `#975053` · `#C37C82` | «Coco Stage», 3328×2201 · F3 |
+| **Puente de cempasúchil**, de noche | pétalos que brillan en naranja sobre azul violeta | `#100B15` · `#525D92` · `#D36C2E` | primer still de EW · A4, F4 |
+| **Puente**, de día (atracción 2026) | día, lleno de flores y velas | `#78433C` · `#C37050` · `#DDAA8F` | B7, F8 |
+| Imelda en la ciudad (fotograma 4K) | noche azul muy oscura | `#0B090D` · `#231B3D` · `#3A2B69` | https://static.wikia.nocookie.net/pixar/images/b/bb/4k-coco-animationscreencaps.com-15169.jpg (3840×1600) · B3 |
+
+- En el escenario del Sunrise Spectacular hay **letreros de neón con «Ernesto»** y una **guitarra de neón** gigante (F5), y una **multitud de esqueletos** (F6).
+- Algunas fuentes lo llaman «Sunset Spectacular»; la wiki y la película dicen **Sunrise Spectacular**.
+
+**Fondos de pantalla**
+- **De fans, 3840×1600**, con Dante, 13 favoritos, etiquetas `Coco (movie)` y `Pixar Animation Studios` ✅: https://w.wallhaven.cc/full/m9/wallhaven-m981jm.jpg (ficha: https://wallhaven.cc/w/m981jm). Autor no identificado ⚠️.
+- **Oficiales en alta** que sirven de fondo: el fotograma 4K de Imelda (3840×1600), «Miguel Guitar» (4096×1715), «Coco Balcony» (3000×2119) y el primer still (3863×1715) (§1).
+- ⚠️ **Wallhaven con «Coco» a secas** trae casi sólo a la VTuber Kiryu Coco: buscar «Coco Pixar» o la etiqueta `Coco (movie)`.
+- ❌ No se encontró un pack oficial de fondos de pantalla de Disney o Pixar.
+
