@@ -2,7 +2,9 @@
 """Dice qué biblias están completas según las reglas actuales.
 
 Una biblia está COMPLETA cuando tiene la tabla «Cumplimiento del encargo» con
-los 25 puntos de ENCARGO.md y sin ningún ❌ en la columna de estado, 20 referencias o más en referencias.json, 3 hojas en hojas/ y, si es
+los 25 puntos de ENCARGO.md y sin ningún ❌ en la columna de estado; 40 webs
+distintas enlazadas, 15 minutos citados, 10 colores hex, bitácora y 3 conceptos
+(lo que pide ENCARGO.md, medido en el texto); 20 referencias o más en referencias.json, 3 hojas en hojas/ y, si es
 una de las 01-30, la sección «Segunda pasada · qué cambió».
 Los ⚠️ no impiden que esté completa: son datos con una sola fuente o que hay
 que oír/ver en persona (se listan para que el dueño sepa qué falta confirmar).
@@ -55,10 +57,20 @@ def revisar(id, solo_falta=False):
     if refs < 20: falta.append(f"referencias ({refs})")
     if hojas != 3: falta.append(f"hojas ({hojas})")
     if num <= 30 and not repaso: falta.append("segunda pasada")
+    # lo que pidió el dueño, medido en el texto (ENCARGO.md, «Profundidad exigida»)
+    dominios = {re.sub(r"^www\.", "", d.lower()) for d in re.findall(r"https?://([^/\s)\]>»]+)", t)}
+    minutos = len(re.findall(r"(?<![\d:])\d{1,2}:\d{2}(?![\d:])", t)) + len(re.findall(r"[?&]t=\d+", t))
+    hexes = len(set(h.upper() for h in re.findall(r"#[0-9A-Fa-f]{6}\b", t)))
+    if len(dominios) < 40: falta.append(f"fuentes distintas ({len(dominios)} de 40)")
+    if minutos < 15: falta.append(f"minutos citados ({minutos} de 15)")
+    if hexes < 10: falta.append(f"colores hex medidos ({hexes} de 10)")
+    if not re.search(r"^#+ .*[Bb]itácora", t, re.M): falta.append("bitácora")
+    if not re.search(r"^#+ .*concepto", t, re.M | re.I): falta.append("3 conceptos de lámina")
     estado = "COMPLETA" if not falta else "falta: " + ", ".join(falta)
     if solo_falta:
         return falta
-    return f"{id[:30]:30} {len(t.splitlines()):5} lín  ⚠️{t.count('⚠️'):4}  tabla ✅{ok} ⚠️{wa} ❌{no}  {estado}"
+    return (f"{id[:30]:30} {len(t.splitlines()):5} lín  ⚠️{t.count('⚠️'):4}  tabla ✅{ok} ⚠️{wa} ❌{no}  "
+            f"{len(dominios)} webs {minutos} min {hexes} hex  {estado}")
 
 
 if __name__ == "__main__":
