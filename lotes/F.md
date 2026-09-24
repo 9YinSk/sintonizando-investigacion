@@ -43,3 +43,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
 | 77-wistoria-wand-and-sword | video | sonnet | 13 | 177307 |
+| 77-wistoria-wand-and-sword | texto | sonnet | 13 | 255268 |
