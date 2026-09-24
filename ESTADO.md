@@ -28,14 +28,26 @@ bajar desde el servidor). Siempre quedarán algunos.
 - **Nuevas pendientes:** 35 y 36 (en marcha) y de la 37 a la 131 (tandas S10-S33).
 - **Temas (A1-P1):** 0 de 96.
 
-## En marcha al cortar esta sesión (guardado a medias cada 5 min)
+## En marcha al cortar esta sesión (17:25 UTC)
 
-| Trabajo | Qué es |
-|---|---|
-| repaso 01-one-piece | casi cerrado |
-| repaso 06-spy-x-family | a medias: ya tiene 3 hojas |
-| 35-one-punch-man | recién empezado |
-| 36-hunter-x-hunter | recién empezado |
+**Piloto del equipo de 8 con One Piece (01)**, lanzado a las 17:15 UTC. Cada
+investigador escribe en `biblias/01-one-piece/partes/<rol>.md` y `.json`
+(roles en `EQUIPO.md`, «Equipo de 8»): arte, fanart-3d, escenas,
+musica-videos, doblaje, personajes, dialogos, tecnica-mundo. Si se cortó:
+relanzar cada rol con el mensaje de la skill `serie-en-equipo` («si tu parte ya
+existe, sigue desde donde quedó») y, cuando estén los 8, el redactor, que
+**edita la biblia que ya hay** y añade los puntos 18-25.
+Medir: hora de inicio y fin de cada uno, para saber cuánto tarda el equipo.
+
+Parados a medias (guardado, sin marcar): repaso 06-spy-x-family, 35-one-punch-man
+(≈450 líneas) y 36-hunter-x-hunter (esqueleto). Rehacerlos con el equipo.
+
+**Herramientas nuevas** (tabla «Herramientas por tarea» de `AYUDANTE.md`):
+`voz.py` (transcripción Whisper con minuto y ficha de voz), `estilo.py`
+(paleta medida, sombreado, línea y etiquetas de anime WD14),
+`fotogramas.py --cortes` (un fotograma por plano) y `tesseract` para leer texto.
+Instalar: `pip install -U "yt-dlp[default]" Pillow fontTools requests faster-whisper "scenedetect[opencv-headless]" praat-parselmouth onnxruntime`
+y `apt-get install -y ffmpeg tesseract-ocr tesseract-ocr-jpn tesseract-ocr-spa`.
 
 ## Cómo seguir en un contenedor nuevo
 
