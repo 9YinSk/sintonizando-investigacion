@@ -49,7 +49,7 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 - [x] 17-arcane
 - [x] 18-death-note
 - [x] 19-doraemon
-- [ ] 20-dr-stone
+- [x] 20-dr-stone
 
 ## Tanda S6
 
