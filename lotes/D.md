@@ -5,8 +5,8 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
 
 ## Estado
 
-- Arranque (24-sep-2026): herramientas instalándose, recolectando datos de 37-42.
-- 37 Fullmetal Alchemist: Brotherhood: primera de la cadena.
+- 37 Fullmetal Alchemist: Brotherhood: 4 investigadores (Sonnet) en marcha desde 21:35 UTC.
+- 38-42: recolectando datos (gratis).
 
 ## Avisos para el dueño
 
