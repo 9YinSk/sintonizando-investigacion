@@ -171,3 +171,42 @@ bloqueo de sesión):
   opinión · https://animecorner.me/wistoria-wand-and-sword-opening-released/
   · ✅ (coincide con la wiki en los cargos de producción)
 
+## Punto 2 · Fotogramas de escenas icónicas
+
+Sacadas de los dos tráileres oficiales (Plan B de AYUDANTE.md: YouTube
+bloqueado → Dailymotion). No son 1080p (Dailymotion sólo sirve 512×288 en
+estos dos vídeos, comprobado con `yt-dlp -F`) pero son clips oficiales
+mirados fotograma a fotograma; se anota igual para no dejar el punto vacío,
+con aviso de la resolución real.
+
+1. **Will activa el Wis con rayo** — el filo de su espada se carga de
+   electricidad blanca/azul y golpea a un mago de pelo blanco (posible «Mage
+   Killer», ver cartela 0:56 del mismo tráiler): tráiler S2, 1:32-1:39 ·
+   https://www.dailymotion.com/video/xa5iqfi?start=97 · 512×288 · ⚠️ (baja
+   resolución, personaje rival sin confirmar nombre en la wiki).
+2. **«Courage! Limiter Off»**: el pelo de Will se vuelve blanco y sus ojos
+   brillan con fuerza mientras grita «You already know... The magic that
+   lies inside you!»: tráiler S2, 1:36-1:51 ·
+   https://www.dailymotion.com/video/xa5iqfi?start=105 · 512×288 · ✅ (coincide
+   con la habilidad descrita en la ficha de Will: «turns Will's hair and body
+   white, drastically increasing all of his abilities»,
+   https://wistoria.fandom.com/wiki/Will_Serfort).
+3. **Los 5 Magia Vander alzando sus varas/espadas** bajo la cartela del ending
+   «Reachlight»: tráiler S2, 0:40-0:44 ·
+   https://www.dailymotion.com/video/xa5iqfi?start=40 · 512×288 · ✅ (los
+   colores de cada rayo de magia — rojo, blanco/plata, verde, azul, amarillo —
+   coinciden con las 5 facciones descritas en la ficha de Mercedes Caulis:
+   Fuego, Hielo, Viento/¿?, Trueno, y una quinta sin confirmar,
+   https://wistoria.fandom.com/wiki/Mercedes_Caulis).
+4. **Ataque de monstruos en el festival Terminalia**: fuegos artificiales
+   sobre la academia que se cortan con criaturas oscuras invadiendo la
+   fiesta y a la gente gritando: tráiler S2, 0:26-0:36 ·
+   https://www.dailymotion.com/video/xa5iqfi?start=26 · 512×288 · ✅ (el
+   nombre «Terminalia» existe en la wiki como arco real: Episodio 13,
+   Capítulo 21, Volumen 6-7 del manga — comprobado con
+   `srsearch=TERMINALIA` antes de dar el dato por bueno).
+5. **Salto con espada de luz** (probablemente escena de dungeon): tráiler
+   S1 teaser, 0:20-0:22 ·
+   https://www.dailymotion.com/video/x8slj34?start=20 · 512×288 · ⚠️
+   (personaje en silueta, sin confirmar si es Will).
+
