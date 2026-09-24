@@ -2005,27 +2005,41 @@ tu asistente de soporte. ¿Del 1 al 10, cuánto te duele?».
 
 ## 19 · Tres conceptos de lámina
 
-Los números «ref. n.º» son la posición en `referencias.json` (36
-referencias, contando desde 1). Las más usadas: 1 y 2 saludo de Baymax,
-3 choque de puños, 5 garaje, 12 y 13 Hiro con Baymax en 4K, 15 poses con
-esqueleto, 20 Lucky Cat Café, 21 malla 3D, 23 carrito, 24 y 25 HDRI,
-28 escala Wong-Baker real.
+**Segunda pasada:** las referencias van ahora por **número de hoja**
+(§3.0: «hoja 01 n.º 44» = `arte_oficial_01.jpg`, «hoja 02» =
+`vestuario_concept_01.jpg`, «hoja 05» = `colaboraciones_01.jpg`) o con
+enlace directo, porque `referencias.json` se reordenó. **Cambios**: la
+pose de Baymax pasa a ser la del **póster latino n.º 44** (señala su
+pecho encendido: Disney ya hizo un aviso así en español); la tabla
+copia la forma de la de la serie (**2 filas de 5, del 1 al 10**,
+amarillo → rojo medido); el concepto B se muda **al cuarto de Hiro**,
+donde de verdad se activa Baymax, con su luz medida.
 
 ### Concepto A — «La tabla del dolor de la consulta» (laboratorio de Tadashi)
 
 - **Objeto real:** una **tabla del dolor plastificada**, como las de las
   consultas de verdad, pegada con cinta en la pared del laboratorio.
   **Se hace en Blender:** un plano con brillo de plástico, una esquina
-  levantada y dos tiras de cinta. Las caras son **propias, al estilo de
-  Baymax** (dos puntos y una raya que se tuerce), del 0 al 10 en cinco
-  franjas. No son las de Wong-Baker (ref. n.º 28, sólo para ver cómo es
-  una de verdad).
+  levantada y dos tiras de cinta. **Forma de la tabla de la serie**
+  ([Scale_8.png](https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png)):
+  caja blanca `#FDF9EF` redondeada, **10 caritas en 2 filas de 5**,
+  números del 1 al 10 debajo, de amarillo `#F1E815` a naranja `#EDB413`
+  y rojo `#F0764E`; cinco franjas de color agrupan las parejas. Las caras
+  son **propias, al estilo de Baymax** (dos puntos y una raya que se
+  tuerce), no las de Wong-Baker ([PDF oficial](https://wongbakerfaces.org/wp-content/uploads/2016/06/FACES_Spanish_Blue_w-instructions.pdf),
+  sólo para ver cómo es una de verdad).
 - **Sitio:** el laboratorio de robótica del SFIT, donde Tadashi creó a
   Baymax. Luz de día por ventanales y relleno frío de fluorescente
-  (HDRI de hospital, ref. n.º 24).
-- **Personaje:** **Baymax** (el más querido). De pie junto a la tabla,
-  **un brazo levantado señalándola** y la cabeza un poco inclinada.
-  Pose de saludo de ref. n.º 1 y 2; cómo dobla el brazo, ref. n.º 15.
+  ([HDRI de hospital](https://polyhaven.com/a/hospital_room)). El
+  interior del laboratorio es ⚠️ de memoria; en el SFIT se vio una sala
+  con biombo japonés ([Fist Bump, 0:21](https://www.dailymotion.com/video/x3wn7x2?start=21)).
+- **Personaje:** **Baymax** (el más querido, 1.º en la encuesta). De pie
+  junto a la tabla, **señalándola con el índice**, cabeza de frente:
+  **la pose del póster latino** (hoja 01 n.º 44,
+  [original](https://static.wikia.nocookie.net/disney/images/3/32/Big-Hero-6-107.jpg)).
+  Si se prefiere más tierna, la cabeza un poco inclinada de la pose de
+  escaneo ([Meet Baymax, 1:12](https://www.dailymotion.com/video/x2553ox?start=72)).
+  Cómo dobla el brazo: las poses con esqueleto de [Kevin Nelson](http://artofkevinnelson.blogspot.com/2014/11/baymax-poses-with-visible-skeleton-from.html).
 - **Cómo habla:** su barriga proyecta **«Hola. Estoy aquí para
   ayudarte.»** en Nunito Black, luz clara sobre el vinilo, curvada.
 - **Dónde va cada texto:**
@@ -2036,35 +2050,41 @@ esqueleto, 20 Lucky Cat Café, 21 malla 3D, 23 carrito, 24 y 25 HDRI,
   - Tira impresa al pie de la tabla: **El ticket se cierra cuando digas
     que estás satisfecho con tu cuidado.**
 - **Para que no quede plano:** delante, a la izquierda y desenfocado, el
-  **carrito de herramientas** (ref. n.º 23) con **la gorra de Tadashi**
-  encima, pequeña. El plástico de la tabla refleja la ventana. Al fondo,
+  **carrito de herramientas** ([Poly Haven](https://polyhaven.com/a/tool_cart))
+  con **la gorra de Tadashi** encima, pequeña. El plástico de la tabla refleja la ventana. Al fondo,
   piezas de robot desenfocadas.
 
-### Concepto B — «El escaneo» (el garaje de Hiro, de noche)
+### Concepto B — «El escaneo» (el cuarto de Hiro, de tarde)
 
 - **Objeto real:** **la barriga de Baymax** como pantalla. En Blender se
   **proyecta la tabla sobre su barriga redonda**, así la imagen se curva
-  con el vinilo. La malla de Sketchfab (ref. n.º 21, CC BY) sirve sólo
-  para calcular esa curva; el Baymax visible sale de fotogramas por
-  `v3/integrar.py`.
-- **Sitio:** el garaje de Hiro de noche: banco de trabajo, pantallas,
-  lámpara cálida (ref. n.º 5; HDRI de garaje, ref. n.º 25).
-- **Personajes:** **Baymax** de pie, brazos un poco abiertos, la barriga
-  encendida (pose 3 del punto 15). **Hiro** sentado en el taburete,
-  **mano en la cabeza**, acaba de decir «¡ay!» y mira la barriga (ref.
-  n.º 1). Hiro es el usuario que abre el ticket.
-- **Cómo habla:** en la barriga, **«Del 0 al 10, ¿cuánto te duele?»** y
-  la escala de cinco caras debajo, en Nunito.
+  con el vinilo. La malla con huesos «Baymax (Rigged)»
+  ([Sketchfab](https://sketchfab.com/3d-models/baymax-rigged-be0f190b63d546af8fdd53f49da0e8b6), CC BY)
+  sirve para posar y calcular esa curva; el Baymax visible sale de
+  fotogramas por `v3/integrar.py`. Es lo que hace la película: el pecho
+  enciende la escala al activarse ([Meet Baymax, 1:02](https://www.dailymotion.com/video/x2553ox?start=62)).
+- **Sitio:** **el cuarto de Hiro**, donde se activa Baymax: luz de tarde
+  entrando por **la persiana**, paleta medida `#C5B9AA`, `#241203`,
+  `#4C2F11`, `#3B4B37`, `#F6F5E3` ([1:02](https://www.dailymotion.com/video/x2553ox?start=62)).
+  Arte conceptual del cuarto: hoja 02 n.º 95.
+- **Personajes:** **Baymax** con la cabeza inclinada hacia Hiro y **una
+  mano en su hombro**, la barriga encendida ([Meet Baymax, 1:12](https://www.dailymotion.com/video/x2553ox?start=72)).
+  **Hiro** sentado en la cama con **cara de preocupación** (hoja 02 n.º
+  72) o agachado del susto ([1:17](https://www.dailymotion.com/video/x2553ox?start=77)):
+  acaba de decir «¡ay!». Hiro es el usuario que abre el ticket.
+- **Cómo habla:** en la barriga, **«¿Del 1 al 10, cuánto te duele?»** y
+  la escala de 10 caritas debajo, en Nunito. Como en la película, un
+  rótulo de escaneo azul con «SYMPTOMS» puede ir a un lado ([1:53](https://www.dailymotion.com/video/x2553ox?start=113)).
 - **Dónde va cada texto:**
   - Título en la barriga: la pregunta.
   - Notas adhesivas de Hiro pegadas en su monitor, a mano (Caveat):
     **Abre un ticket.** / **Solo lo vemos tú y el staff.**
-  - Una nota más, en la puerta del garaje: **El ticket se cierra cuando
+  - Una nota más, en la puerta del cuarto: **El ticket se cierra cuando
     digas que estás satisfecho con tu cuidado.**
-- **Para que no quede plano:** **el gato Mochi** dormido en el banco, en
-  primer plano y desenfocado. Microbots sueltos en la mesa. **La luz de
-  la barriga ilumina la cara de Hiro** en frío; la lámpara, cálida, por
-  detrás.
+- **Para que no quede plano:** **el gato Mochi** (5.º en la encuesta)
+  dormido en la cama, en primer plano y desenfocado. Microbots sueltos en
+  el escritorio. **La luz de la barriga ilumina la cara de Hiro**; las
+  rayas de la persiana, cálidas, cruzan a los dos.
 
 ### Concepto C — «Ticket cerrado» (el mostrador del Lucky Cat Café)
 
@@ -2074,19 +2094,25 @@ esqueleto, 20 Lucky Cat Café, 21 malla 3D, 23 carrito, 24 y 25 HDRI,
   impresora, un sello a mano. El pincho de comandas es un objeto típico
   de café; **no comprobé que salga en la película** ⚠️.
 - **Sitio:** el Lucky Cat Café de la tía Cass: madera, farolillos,
-  flores de cerezo, gatos de la suerte (ref. n.º 20).
+  flores de cerezo, gatos de la suerte ([wiki](https://bighero6.fandom.com/wiki/Lucky_Cat_Caf%C3%A9);
+  arte conceptual del equipo en el café, hoja 05 n.º 213). Paleta de la
+  cocina medida: madera `#66462F` / `#975B44`, alacena verde agua
+  `#848E6E`, **encimera roja `#DA3F3D`** ([x283k45, 0:40](https://www.dailymotion.com/video/x283k45?start=40)).
 - **Personajes:** **Hiro y Baymax chocan el puño**, «ba-la-la-la-la»,
-  detrás del mostrador (ref. n.º 3; los dos juntos, ref. n.º 12 y 13).
+  detrás del mostrador. Pose vista: el choque del final, Hiro con el
+  torso hacia delante y Baymax imitándolo despacio ([Fist Bump, 0:21](https://www.dailymotion.com/video/x3wn7x2?start=21));
+  aquí **sin armadura**, en blanco.
   **Celebrar**: el ticket se cerró. La tía Cass saluda al fondo,
   desenfocada.
 - **Cómo habla:** la comanda es el cuadro. Texto impreso en **Share Tech
   Mono**, sello y nota a mano en **Caveat**. La barriga de Baymax,
-  pequeña: **«¿Estás satisfecho con tu cuidado?»**
+  pequeña: **«¿Estás satisfecho con tu cuidado?»** (adaptación de su
+  frase oída, §10).
 - **Dónde va cada texto (en la comanda):**
   - Arriba: **TICKET N.º 0001**
   - **PEDIDO: tu problema.**
   - **MESA: privada. Solo tú y el staff.**
-  - **DOLOR: 0 1 2 3 4 5 6 7 8 9 10**, con un número rodeado.
+  - **DOLOR: 1 2 3 4 5 6 7 8 9 10**, con un número rodeado.
   - Sello rojo a mano: **CERRADO. Estoy satisfecho con mi cuidado.**
   - En la pizarra del café, detrás: **Abre tu ticket aquí.**
 - **Para que no quede plano:** **un gato de la suerte** en el mostrador,
@@ -2096,7 +2122,11 @@ esqueleto, 20 Lucky Cat Café, 21 malla 3D, 23 carrito, 24 y 25 HDRI,
 
 **Lámina 2** (punto 1): la tabla completa con ejemplos, y los avisos de
 #sugerencias y de las sanciones. Encaja con el concepto A (otra tabla en
-la misma pared) o con el C (el «menú del día» del café).
+la misma pared) o con el C (el «menú del día» del café). **Formato
+visto**: Baymax de pie con **etiquetas redondas de color unidas por
+flechas de puntos** (revista japonesa, hoja 05 n.º 240) o las páginas
+rotuladas de *The Essential Guide* (hoja 01 n.º 29-30): cada etiqueta,
+un nivel de la tabla.
 
 ---
 
