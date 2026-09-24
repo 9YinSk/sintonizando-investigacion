@@ -2192,7 +2192,7 @@ hex de ropa y tatami (medidos), fondo del invento (visto en cartelas).
   Shin-Ei, Shogakukan (manga), Columbia (música), Museo Fujiko F. Fujio,
   Netflix, Steam.
 - **Entrevistas al staff**: eiga.com y CGWORLD sobre *Stand by Me*
-  (encontradas, no abiertas).
+  (encontradas, no abiertas en la primera pasada; CGWORLD sí en la segunda).
 - **En japonés**: Nlab, Mynavi, Macromill, pixiv, nokikero, futaman,
   Honcierge, Precious, numan, doranew, hatosan, @DIME, Famitsu, Anime!Anime!,
   eiga.com, Chiebukuro.
@@ -2219,3 +2219,97 @@ hex de ropa y tatami (medidos), fondo del invento (visto en cartelas).
 - Doblaje latino de la película del museo.
 - Fan art 2D con autor verificado.
 - Minutos exactos dentro de los vídeos de YouTube.
+
+### Segunda pasada (24-sep-2026, red abierta, equipo de 4 + redactor)
+
+**Qué respondió y qué no**: Doblaje Wiki, Fandom (en inglés y español),
+dubdb, ANMTV, Arctic Shift, Dailymotion (API), Internet Archive, Sketchfab
+(API), Wallhaven, Safebooru, Openverse, AniList, Steam, MusicBrainz,
+dora-world (HTML crudo), Shogakukan, CGWorld e ITmedia **sí**. YouTube
+(vídeo: pide sesión; la búsqueda de `yt-dlp` sí funciona), AnimeThemes
+(522), TV Tropes y The Cutting Room Floor (403), Wikipedia por API (429),
+gbf.wiki (Cloudflare) y TikTok **no**.
+
+**Herramientas**:
+- `recolectar.py` (datos de AniList, Doblaje Wiki, Fandom, Danbooru,
+  Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet
+  Archive, MusicBrainz, Steam y Reddit).
+- `investigar_serie.py --serie "Doraemon" --wiki doraemon` con las páginas
+  Doraemon, Nobita Nobi, Shizuka Minamoto, Takeshi Gouda, Suneo Honekawa, y
+  una segunda tanda con 4D Pocket, Anywhere Door, Time Machine, Small Light,
+  Big Light. Hojas miradas; el redactor las volvió a mirar y corrigió dos
+  números.
+- `fotogramas.py`: 7 vídeos de Dailymotion e Internet Archive (21
+  fotogramas mirados) y 7 episodios más de Internet Archive cada 3 s (unos
+  45 minutos) buscando caras.
+- `voz.py` (Whisper): el opening latino antiguo y «El Pueblo de Nobita».
+- `estilo.py` y Pillow: 11 fotogramas, 5 fondos oficiales y los retratos
+  oficiales (hex de §5.2 y §16).
+- `yt-dlp ytsearch`: 7 búsquedas de *fandubs* y covers.
+- API de Doblaje Wiki: *Doraemon (1979)*, *Doraemon (2005)*, *Quédate
+  conmigo, Doraemon* (wikitext completo).
+- El redactor bajó 2 fondos de Dropbox para comprobar cuál era cuál.
+
+**Búsquedas web (unas 20, en cuatro partes)**:
+
+| Idioma | Búsqueda (resumida) | Qué salió |
+|---|---|---|
+| es | Doraemon fandub español YouTube canal doblaje fans | Dobla2, ParodiAnime, covers |
+| es | cover opening español latino «El gato cósmico» | Lissette Chan, Unkos Channel |
+| es | cumpleaños Nobita Suneo Gigante Shizuka altura databook | nokikero; alturas que no coinciden |
+| es | escena que hace llorar «Sayonara Doraemon» reacción | *Adiós, Doraemon…* |
+| es | ventas manga tomos récord premios | 250-300 millones ⚠️ |
+| en | why beloved analysis nostalgia generations | Medium, Japan Times |
+| en | Stand by Me final scene audiences cry box office | 88,4 %, Variety |
+| en | 2008 anime ambassador foreign ministry | MOFA, ANN, CBC |
+| ja | スネ夫 ジャイアン しずかちゃん 誕生日 身長 体重 公式設定 | nokikero, oshiete.goo |
+| ja | ドラえもん なぜ人気 理由 世代を超えて | tamatebox, ampmedia |
+| ja | STAND BY ME ドラえもん ラストシーン 号泣 感想 | eiga.com, Cinematoday |
+| ja | ジャイアン のび太 スネ夫 しずか セリフ 口癖 話し方 | fichas de personaje |
+| es/en/ja | Stand by Me 3DCG Shirogumi · セルルック 3DCG 質感 インタビュー · 3ds Max 白組 | CGWorld, ITmedia |
+| en | Shin-Ei RETAS Toon Boom TVPaint software | nada específico ⚠️ |
+| en/es | Fujiko F. Fujio influencias Tezuka · series parecidas Perman Kiteretsu | Toons Mag, Fandom |
+| ja | 道具を出す 背景 2024年1月 変更 · 効果音 1979 2005 ちがい | el mismo post de X; questant, Chiebukuro |
+| en | Story of Seasons art style watercolor review | switchaboo |
+| ja | ドラえもん ロゴ 書体 デザイン 由来 | Dora-e-moji; nada oficial |
+| es/en | colaboraciones 2025-2026, artbook, Fortnite, gacha, cosplay, Granblue | UNIQLO×Louvre, New Era, Converse, Granblue; Fortnite no |
+
+**Búsquedas en Dailymotion (API, sin cupo)**: doraemon opening / ending /
+latino, «gato cósmico Maggie Vera», «stand by me doraemon trailer latino»,
+desfile de inventos, final, museo, recital de Gigante, puerta, dorayaki,
+descampado, habitación, capítulo completo latino, escena más triste, boda y
+padre, llorando, cero en el examen.
+
+**Internet Archive**: `q=doraemon` (2187 resultados), `title:("stand by me"
+doraemon)` (15), `doraemon español latino` (el doblaje cubano de 1985 y la
+colección de episodios doblados).
+
+**Fuentes nuevas por tipo** (además de las de la primera pasada):
+- **Oficiales**: dora-world (fondos bajados, artbook), Shogakukan (83
+  portadas), MOFA (embajador anime), Steam (capturas), CGWorld e ITmedia
+  (entrevistas al staff, **abiertas**).
+- **Otros idiomas**: japonés (nokikero, Cinematoday, eiga.com, tamatebox,
+  ampmedia, questant, oshiete.goo, cute-freefont), inglés (ANN, CBC, Japan
+  Times, Variety, ARAMA! JAPAN, Hypebeast, Siliconera, GamerBraves,
+  switchaboo, Toons Mag), chino (Bilibili, autor del fondo de Shizuka).
+  Coreano: no se buscó ⚠️.
+- **Wikis**: Doblaje Wiki y dubdb por API, Fandom en inglés por API,
+  Scratchpad Wiki, AniList. TV Tropes y TCRF, 403; Wayback, no se llegó a
+  probar ⚠️.
+- **Foros**: Reddit r/Doraemon por Arctic Shift (poco activo).
+- **Arte**: Safebooru (con origen en Pixiv y X), Danbooru (etiquetas),
+  Wallhaven, Openverse/Flickr.
+- **Vídeo**: Dailymotion, Internet Archive, YouTube (sólo búsqueda).
+- **Código y recursos**: Sketchfab (API), MusicBrainz, GitHub (primera
+  pasada).
+- **Doblaje latino**: Doblaje Wiki (API), dubdb, ANMTV, un episodio doblado
+  oído con Whisper.
+
+**Lo que NO encontré en la segunda pasada** (con búsqueda hecha): el sonido
+de sacar un invento fuera de YouTube; un clip limpio de la boda; poses de
+Shizuka, Suneo y Dorami solos; la rabia de Doraemon y la vergüenza de
+todos con minuto; el software 2D de Shin-Ei; filtros de cámara del anime;
+segunda fuente del fondo de 2024; *key visuals* de TV y Blu-ray; arte de
+*Granblue*; cosplay destacado; colaboración con Fortnite (**no existe**);
+licencia clara del modelo de Shizuka; alturas oficiales; actores cubanos
+de 1985; vistas de TikTok.

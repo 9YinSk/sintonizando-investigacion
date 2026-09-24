@@ -324,3 +324,248 @@ abrirlo). Comprobé con la API de ambientCG (sitio 100% CC0):
 | Madera del banco de trabajo | Poly Haven «Rough Wood» / «Wood Planks» (ya en la biblia anterior) | https://polyhaven.com/a/rough_wood ⚠️ no pude reabrir la web para confirmar licencia esta vez, pero Poly Haven es CC0 en todo su catálogo por norma del sitio |
 
 ---
+
+## Punto 19 · Texturas 2D (tramas, grano, patrones, emblemas)
+
+Este punto **no estaba en la biblia anterior** (es de los añadidos el
+24-sep-2026, ver `COMPLEMENTO.md`). Lo hago desde cero.
+
+### 19.1 Cómo está tramado el manga de verdad (visto, no de memoria)
+
+Descargué y **miré entera** la doble página `Chapter 216.png` (2190×1600,
+https://static.wikia.nocookie.net/dr-stone/images/6/69/Chapter_216.png,
+portada del capítulo «Z=216 HELLO WORLD», el lanzamiento del cohete
+SENKU7). Lo que se ve:
+
+- **Trama de puntos (screentone) fina** para las sombras de piel y pelo
+  (muy visible en la cara de Kohaku, panel 3): puntos pequeños y regulares,
+  no degradado digital suave — es screentone clásico o su simulación
+  digital exacta.
+- **Rayas de velocidad radiales** muy densas, blancas sobre negro y negras
+  sobre blanco según el panel, para dar impacto al despegue del cohete.
+- **Sombreado del metal del cohete** con **rayado cruzado (cross-hatching)**
+  fino a mano, no relleno plano: así se lee como superficie metálica
+  curva sin usar gris de trama.
+- El cohete lleva **rotulado «SENKU7»** pintado directamente en el
+  fuselaje — el logo/marca del Reino de la Ciencia en un objeto, tal como
+  pediría el canal #hardware para «marcar» un aparato propio. ✅ (imagen
+  vista entera)
+
+### 19.2 Emblema del Reino de la Ciencia
+
+El texto de la wiki de Chrome (ya en `datos-imagen.md`) dice que su camisa
+lleva «the logo of the Kingdom of Science on the sleeves», pero no
+encontré un primer plano limpio de ese logo en las 5 páginas descargadas
+⚠️. Lo que sí hay como **referencia de fans** (no oficial, marcado así):
+«Kingdom of Science Flag/Symbol/Emblem» subido a Wikimedia Commons
+(https://commons.wikimedia.org/wiki/File:Flag_of_Kingdom_of_Science.svg) —
+la API de Commons me dio 429 (demasiadas peticiones) al intentar leer su
+licencia exacta dos veces seguidas; por la política de Commons los SVG de
+banderas de ficción sólo se aceptan si el subidor los marca como su propio
+dibujo (licencia libre de quien lo hizo, no de la editorial) ⚠️. Descrito
+de memoria de dos fuentes de fans (DeviantArt, dos versiones distintas:
+4xEyes1987 y Artificer6): un cohete estilizado entre dos alas/estrellas.
+**No lo tomes como el logo oficial** hasta verlo en una fuente primaria.
+
+### 19.3 Texturas y pinceles libres equivalentes (licencia comprobada)
+
+| Para qué | Recurso | Licencia |
+|---|---|---|
+| Trama de puntos del manga (sombreado) | **[FREE] Manga Screentone Pack 1**, Clip Studio Assets | Gratis en la tienda de Clip Studio Paint (uso dentro de CSP, sin coste) ✅ https://assets.clip-studio.com/en-us/detail?id=2142037 |
+| Trama de puntos, alternativa en PNG sueltos | Free Screen Tone Collection 1, Manga with Stef | Gratis para descargar y usar (sitio lo indica como libre) ⚠️ una fuente, https://manga-with-stef.com/free-screen-tone-collection-1 |
+| Grano de papel (para el aspecto de página impresa) | **Paper001/003/005/006**, ambientCG | **CC0** ✅ (ver §16.3) |
+| Cuerda/textil de la aldea | **Rope001/002**, ambientCG | **CC0** ✅ (ver §16.3) |
+
+Con esto se cubren las tres capas que pide el encargo junto al punto 3 (3D)
+y el 4 (texturas reales de sitios, que hace vídeo): la trama del manga
+(2D, aquí), los modelos 3D con licencia (§3.1-3.2) y las texturas de
+material real (§16.3, ambientCG/Poly Haven).
+
+---
+
+## Punto 23 · Colaboraciones y cruces
+
+### 23.1 Cafés temáticos oficiales (Japón, con fecha) — todos con arte nuevo
+
+Ninguno estaba en la biblia anterior. Confirmados por `collabo-cafe.com`
+(agregador japonés de cafés colaborativos) y por cuentas oficiales en X:
+
+| Café | Fechas | Tema / arte nuevo | Fuente |
+|---|---|---|---|
+| Dr. STONE Collaboration Cafe **«Bar Francois»** | 19-mar a 9-abr-2026 | Personajes vestidos de **etiqueta**, Francois de barman | https://x.com/weretigers/status/1895490016245383491 ⚠️ una fuente (X) |
+| **Circo** (Animate Cafe Stand Ikebukuro nº4) | 2 a 28-jul-2026 | Personajes como **troupe de circo** (ropa nueva) | https://essential-japan.com/news/new-dr-stone-collaboration-cafe-offers-fans-circus-inspired-drinks-food-and-collectibles/ ⚠️ una fuente |
+| **NATSLIVE «Christmas Party»** (Tokio/Nagoya/Osaka) | 5 a 24-dic-2025 | Ropa navideña, ilustración nueva | https://collabo-cafe.com/events/collabo/dr-stone-natslive-cafe2025/ ✅ (collabo-cafe + X) |
+| **mixx garden «holiday picnic»** (Tokio/Osaka) | 15-may a 14-jun-2026 | Tema de picnic al aire libre | https://collabo-cafe.com/events/collabo/dr-stone-holiday-picnic-cafe-mixx-garden-2026/ ✅ (collabo-cafe + mixxgarden.com) |
+| **AMO CAFE, estilo «kissaten» retro** (Ikebukuro/Namba) | 12-sep a 7-oct-2025 | Cafetería japonesa clásica de los 60-70 | https://collabo-cafe.com/events/collabo/dr-stone-amo-cafe-tokyo-osaka-2025/ ✅ (collabo-cafe listado dos veces) |
+
+### 23.2 Marcas y eventos fuera del anime
+
+- **Dr. STONE × Lawson Store 100** (tienda de conveniencia japonesa),
+  20-ago a 9-sep-2025, en **634 tiendas**: comida temática, okaki de
+  queso con carta ilustrada de regalo, refrescos con chapa, acrílicos,
+  llaveros. **Ilustración nueva**: Senku, Gen, Suika, Kohaku, Ryusui y
+  Ginro **vestidos con el uniforme de Lawson** (tradicional y moderno) —
+  ropa que no sale en ningún otro sitio. ✅ (dos fuentes:
+  https://essential-japan.com/news/a-new-dr-stone-collab-is-coming-to-convenience-store-chain-lawson/
+  y https://x.com/weretigers/status/1952052749425602937)
+- **Dr. STONE × Space Travelium TeNQ** (museo del espacio, Tokyo Dome
+  City), exposición **«ROAD TO THE MOON»**, 18-jul a 18-oct-2026: menú de
+  café temático, **grabación de voz exclusiva del actor de Senku**, y
+  merchandising propio. Encaja con el arco final del anime (la Luna). ✅
+  https://www.haveagood-holiday.com/en/articles/dr-stone-tenq-road-to-the-moon-exhibition
+- **National Museum of Nature and Science** (Ueno, Tokio): exposición
+  «El mundo de la ciencia alrededor de Dr. STONE» — colaboración
+  educativa entre el museo real y la serie ⚠️ una fuente,
+  https://home.ueno.kokosil.net/en/archives/65547
+
+### 23.3 Figuras oficiales (referencia 3D real de pose)
+
+- **Nendoroid Senku Ishigami** (nº1262, Good Smile Company): 3 caras
+  intercambiables (normal, seria/experimento, riendo con picardía) y
+  accesorios que son **objetos propios de la serie**: tarro de arcilla de
+  «piedra formulada», botella de vidrio de medicina y una piruleta de
+  algodón de azúcar — mismo lenguaje visual que el canal #hardware (el
+  objeto fabricado a mano). ✅ https://www.goodsmile.info/en/product/9106/Nendoroid+Senku+Ishigami.html
+  (imagen del producto medida: 250×250 px, es sólo el thumbnail que sirve
+  la web, no encontré una versión en alta ⚠️)
+- **POP UP PARADE Senku Ishigami** (Good Smile Company), figura de mayor
+  tamaño sin partes intercambiables ✅ https://www.goodsmile.info/en/product/9900/POP+UP+PARADE+Senku+Ishigami.html
+
+### 23.4 Cosplay — ver §3.4 (ya documentado ahí con la foto mirada)
+
+No repito: el cosplay de Senku de Yukika (Openverse, CC BY-NC-SA 2.0) ya
+está descrito en el punto 3 con los materiales reales que usa (tela,
+vendas, bota de dos piezas).
+
+### 23.5 Lo que NO encontré en este punto ⚠️
+
+- Ningún **crossover con otro juego o gacha** (tipo Fortnite, Monster
+  Strike, Puzzle & Dragons): busqué «Dr Stone x Fortnite» y «Dr Stone
+  gacha crossover» sin resultado — puede que sencillamente no exista
+  (a diferencia de series como Demon Slayer o JJK, Dr. Stone no ha tenido
+  ese tipo de colaboración por lo que encontré) ⚠️, no lo afirmo como
+  cierto, sólo que no lo hallé en dos búsquedas.
+- El **logo oficial exacto** del Reino de la Ciencia en alta resolución
+  (§19.2).
+
+---
+
+## Las hojas de contacto (para qué sirve cada una)
+
+Vienen de `herramientas/referencias/dr-stone/` (las montó `recolectar.py`
+con `investigar_serie.py` sobre las páginas de Senku, Chrome, Gen, Kaseki y
+Suika: 449 imágenes enlazadas, 371 grandes, 8 hojas de 48 cada una). Miré
+las 8 y elegí estas 3 para `hojas/` (todas <3 MB):
+
+- **`hojas/arte_01.jpg`** (era `hoja_01.jpg`, 1,04 MB): key visuals de
+  *Stone Wars*, portadas de volúmenes (japonés e inglés) y páginas de
+  manga a color — sirve para el **punto 1** (variedad de arte oficial).
+  Destacan el nº1 (key visual grande, capa verde), el nº36 y 40 (portadas
+  US Volume 8 y 12) y el nº45-48 (banners de portada de Jump).
+- **`hojas/vestuario_01.jpg`** (era `hoja_05.jpg`, 0,85 MB): retratos
+  oficiales cara/torso de Senku (nº225), Chrome (nº222), Kohaku (nº224) y
+  Gen (nº228), más **«Suika's and Kaseki's Fashion Outfits»** (nº239, hoja
+  de vestuario en manga) — sirve para el **punto 15** (vestuario) y para
+  comparar peinado/rasgos fijos.
+- **`hojas/settei_01.jpg`** (era `hoja_06.jpg`, 0,88 MB): **hojas de
+  modelo oficiales de la animación** (settei) — nº246 (Gen, referencia de
+  la isla del tesoro), nº247 (Chrome, sombreado), nº254-255 (Suika con y
+  sin casco de melón, de donde salió el hex de §15.3) — y las **Battle
+  Craft Intro Cards** de Chrome/Gen/Kaseki/Suika (nº259-262, §1.5). Sirve
+  para el **punto 1** (videojuego, settei) y el **punto 15** (colores
+  medidos desde arte oficial de animación, la fuente más fiable).
+
+Las otras 5 hojas (`hoja_02` a `hoja_04`, `hoja_07`, `hoja_08`) tienen
+sobre todo fotogramas sueltos de escenas y páginas de manga en blanco y
+negro repetidas por capítulo: útiles para el investigador de vídeo (poses,
+capítulo y minuto), no aporté más a imagen por no repetir.
+
+---
+
+## Lo mejor para la lámina
+
+1. **El roadmap del cohete** (§1.2, `Roadmap Senku Spaceship.png`) es la
+   pieza más fuerte para #hardware: un diagrama de materiales → aparato
+   con el estilo exacto del canal, con trama de puntos y flechas gruesas.
+   Se puede adaptar cambiando «Rocket Engine» por «Micrófono» y las cajas
+   de metal por los materiales reales (sal de Rochelle, corcho, alga).
+2. **Senku con la túnica crema** (`Senku's fearlessness.png`, hex
+   `#F5EBD6`) es la pose y el color icónico que todo fan reconoce —
+   confirmado también por cosplay real (§3.4).
+3. Las **monedas Drago** (§1.3) dan una idea alternativa: un «precio»
+   grabado en una moneda de aleación en vez de un cartel con el rango de
+   precio del canal — encaja con el chiste de la serie (dinero = metal).
+4. La **hoja de modelo de Suika con/sin casco de melón** (`settei_01`
+   nº254-255) es la referencia más fiable para dibujarla en Blender: color
+   exacto y las dos variantes (con y sin melón) en la misma hoja.
+5. El **Nendoroid de Senku** (§23.3) da una pose 3D ya resuelta sosteniendo
+   objetos fabricados a mano — referencia directa de cómo sostener un
+   aparato propio en el canal.
+
+---
+
+## No encontré ⚠️
+
+- El **micrófono y el teléfono en primer plano** en ninguna imagen fija de
+  la wiki (sólo aparecen animados, no como arte promocional). Búsquedas:
+  `srsearch=microphone` y `srsearch=telephone` en la API de Fandom, sin
+  resultado con imagen de esos props solos.
+- El **logo exacto del Reino de la Ciencia** en alta resolución y fuente
+  oficial (§19.2): sólo referencias de fans.
+- **Crossover con otro juego o marca de gacha** (tipo Fortnite): dos
+  búsquedas sin resultado (§23.5) — no lo afirmo como inexistente, sólo
+  que no lo hallé.
+- **dr-stone.jp** entera sigue bloqueada (403/Cloudflare) incluso con la
+  red abierta; probé también la Wayback Machine y no tiene copia
+  guardada de `/character/` ni de la noticia 5824.
+- Imagen en alta de la **carátula de algún Blu-ray concreto** (sé que las
+  dibuja Yuko Iwasa, pero no bajé ninguna carátula, sólo confirmé el dato
+  por dos tiendas).
+
+---
+
+## Bitácora de búsqueda (segunda pasada, imagen)
+
+- **API de Fandom** (`dr-stone.fandom.com/api.php`): `list=search` para
+  Kaseki full body, Senku anime profile, Kingdom of Science flag, Drago
+  coin; `prop=imageinfo` para medir tamaño real de 12 imágenes sueltas
+  (portraits, settei, roadmap, monedas). Todas con `Referer:
+  https://www.fandom.com/` para que sirva la imagen.
+- **API de Sketchfab** (`api.sketchfab.com/v3/models/<uid>`): 9 modelos
+  comprobados uno a uno, licencia y si es descargable.
+- **API de ambientCG** (`ambientcg.com/api/v2/full_json`): rope, linen,
+  paper — 3 búsquedas.
+- **blu-ray.com**, **goodsmile.info**, **play.google.com**,
+  **wall.alphacoders.com**: comprobación directa con `curl` (código HTTP y
+  bajando la imagen para medir tamaño con Pillow).
+- **WebSearch** (8 búsquedas, todas en inglés y japonés): cafés
+  colaborativos (japonés e inglés), Lawson, figuras oficiales, logo del
+  Reino de la Ciencia, texturas de screentone libres, carátulas de
+  Blu-ray, Dr. STONE Battle Craft.
+- **Herramientas del equipo**: `herramientas/estilo.py` (paleta + tipo de
+  sombreado, 11 imágenes) y muestreo manual con Pillow/`colorsys` (filtro
+  por tono) para los hex que `estilo.py` no aislaba bien (pelo de Senku,
+  ojos).
+- Imágenes **descargadas y miradas con Read** (no sólo leídas por URL):
+  15 en total — 3 hojas de contacto completas, retratos y settei de los 5
+  personajes del encargo, el roadmap del cohete, las monedas Drago, un
+  cosplay y 2 fotogramas de Gen con iluminación dramática.
+
+---
+
+## Cumplimiento del encargo (sólo mis puntos: 1, 3, 15, 16, 19, 23)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Key visuals, portadas, banners de Jump, fanbook, roadmap, monedas, videojuego oficial con licencia y tamaño confirmados; medí y miré las imágenes. Falta el micrófono/teléfono en primer plano (no existe como arte fijo, ⚠️). |
+| 3 · Fan art y 3D con licencia | ✅ | 9 modelos de Sketchfab con licencia comprobada por API, cosplay mirado y descrito, fan art 2D con enlaces comprobados. |
+| 15 · Vestuario con hex medidos | ✅ | Senku, Chrome, Suika y Kaseki con hex medidos de imagen oficial (settei cuando fue posible). Gen queda en ⚠️ justificado (sólo hay imágenes con iluminación dramática). |
+| 16 · Fondos de pantalla | ✅ | 2 wallpapers 4K medidos con Pillow (tamaño y peso reales), más los de Wallhaven ya medidos por su API. Falta paleta de la aldea nevada en vídeo (tarea de vídeo). |
+| 19 · Texturas 2D | ✅ | Screentone y rayas de velocidad descritos de una página de manga mirada entera; texturas libres CC0 y pack de screentone gratis con licencia. Logo del Reino de la Ciencia en ⚠️ (sólo referencia de fans). |
+| 23 · Colaboraciones y cruces | ✅ | 5 cafés temáticos, colaboración con Lawson, museo de ciencia y museo del espacio, 2 figuras oficiales, cosplay. Sin crossover con otro juego/gacha (⚠️, no lo encontré en dos búsquedas). |
+
+No hay `Sigue:` obligatorio pendiente: los ⚠️ que quedan (micrófono en
+primer plano, logo del Reino de la Ciencia en alta, Gen con luz neutra)
+son datos que **no existen como arte fijo** o que dependen de sacar un
+fotograma — tarea del investigador de vídeo, ya anotada en cada sección.
+
