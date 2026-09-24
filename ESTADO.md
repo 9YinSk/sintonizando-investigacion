@@ -52,6 +52,24 @@ cuenta se gastaron unos 33 dólares desde el piloto, pero incluyen construir el
 sistema (recolector, reglas, pruebas) en la sesión principal con Opus; la
 próxima serie dará el costo limpio de una biblia.
 
+## Mejoras pendientes (pedidas por el dueño: más rápido, sin perder calidad)
+
+Hacerlas al empezar en la cuenta nueva, antes de seguir con las series:
+
+1. **En cadena:** mientras el redactor escribe una serie, lanzar ya los
+   investigadores de la siguiente. Y correr `recolectar.py` por adelantado para
+   las 5 siguientes (es gratis). Objetivo: una serie cada 35-40 minutos en vez
+   de una cada hora y cuarto.
+2. **Una sola tanda por investigador:** subir el tope a unas 90 acciones y que lo
+   menor se marque ⚠️ en vez de lanzar segundas tandas (las de One Piece eran
+   detalles).
+3. **`herramientas/episodio.py`** (nuevo): baja un capítulo o clip completo
+   (Internet Archive, Dailymotion, AnimeThemes), saca un fotograma por plano,
+   la transcripción con minuto (Whisper) y el texto en pantalla (tesseract), y
+   deja una ficha del capítulo en texto. El investigador lee la ficha (barato)
+   y abre sólo las hojas de los momentos que cite. 2 o 3 capítulos clave por
+   serie, no todos. Lo corre el jefe en el paso 2, junto al recolector.
+
 ## El sistema (18:45 UTC)
 
 Tras el piloto caro (8 investigadores, 25 minutos, unos 65 dólares, ninguno
