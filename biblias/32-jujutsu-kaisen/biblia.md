@@ -1115,8 +1115,24 @@ de madera `#30241E`, tiza `#DDD2CC` en **serif clásica**, el logo del
 juego arriba; Gojo con **venda**, de medio cuerpo, con un **puntero
 largo** en la mano derecha (tráiler, 0:18-0:54).
 
+**La caja del modo historia de *Cursed Clash*** ✅ (2.º ayudante,
+tráiler [3:06-3:09](https://www.dailymotion.com/video/x8scngs?start=189)):
+**dos fotogramas del anime recortados con el borde rasgado**, en
+diagonal, y la frase **al lado de cada uno**, en sans blanca, sobre
+**tinta azul petróleo** (`#314953`, `#202C33`, `#4C656D`). Es la caja
+**más propia** de la franquicia que encontré: sirve de cuadro de
+diálogo en una lámina (concepto C).
+
+**El lobby en línea** ✅ ([2:25](https://www.dailymotion.com/video/x8scngs?start=145)):
+«ONLINE / Online Lobby», los jugadores andan por un cruce morado de
+noche, con un menú «Stamp · Tactics · Talk · Unique»; y **frases
+rápidas** numeradas del 1 al 8 en casillas azul noche `#121D2A` con un
+icono de bocadillo cian ([2:39](https://www.dailymotion.com/video/x8scngs?start=159)).
+Es **la «sala» oficial** del juego: otra idea para CREAR SALA.
+
 **The Cutting Room Floor**: 403 desde aquí, y la Wayback Machine está
-bloqueada por la red del contenedor. ⚠️ No pude mirar contenido descartado.
+bloqueada por la red del contenedor (el 2.º ayudante lo reintentó dos
+veces: el túnel se corta). ⚠️ No pude mirar contenido descartado.
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
