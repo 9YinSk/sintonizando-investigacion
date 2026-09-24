@@ -118,10 +118,70 @@ Coco es 3D fotorrealista de Pixar (Presto + RenderMan), **no** tiene "línea" ni
 
 ## No encontré
 
-(pendiente)
+- **Fuente exacta de los rótulos pintados dentro de la película** (letreros de Santa Cecilia, cartel "Sunrise Spectacular", partitura de "Un Poco Loco"): son arte de producción pintado a mano, sin ficha tipográfica pública. Buscado: «Coco movie signage font», «Coco Pixar lettering production art» (inglés). ⚠️
+- **Fuente de subtítulos/créditos** de Disney/Blu-ray: sin ficha técnica pública. Buscado: «Coco 2017 end credits typeface font style» (inglés). ⚠️
+- **Páginas interiores del cómic Cinestory** para comparar letrado de grito/pensamiento/onomatopeya: el único ejemplar indexado está en préstamo restringido en Internet Archive (`cococinestorycom0000unse`), sin vista previa de páginas; no se encontró "look inside" en Amazon/Google Books accesible sin cuenta. Buscado: «Coco cinestory comic preview pages images look inside» (inglés). ⚠️
+- **"Coco: The Story of the Movie in Comics"** (la otra adaptación a cómic, distinta de la Cinestory): sólo confirmada su existencia por ficha de venta (Amazon, ISBN 9781772755312); no se pudo comparar su estilo de letra con la Cinestory por no tener vista previa. ⚠️
+- **Coco en Disney Dreamlight Valley**: búsqueda específica sin resultado de ningún "realm" o personaje de Coco anunciado en ese juego (sí hay Alice in Wonderland y otros). Buscado: «Disney Dreamlight Valley Coco Miguel Hector realm update» (inglés). Se documenta como ausencia, no como pendiente.
+- **Evento de Coco en Disney Solitaire**: el juego existe y organiza eventos por película, pero no se encontró un evento concreto de Coco. Buscado: «"Disney Solitaire" Coco Miguel Hector cards event» (inglés). ⚠️
+- **Detalle técnico completo de shading de piel/hueso de los esqueletos y del pelaje de Dante**: los talks técnicos de SIGGRAPH 2018 sobre Coco (`dl.acm.org/doi/10.1145/3214745.3214789` y `…3214801`) sólo tienen resumen público (abstract), el contenido completo de la sesión no está accesible. Buscado: «Coco Pixar technical papers animation rendering marigold bridge skeletons SIGGRAPH», fxguide, VFX Voice. ⚠️
+- **Ficha en The Cutting Room Floor (TCRF)**: confirmado que NO existe (sólo hay resultados de "Coco Bandicoot", personaje no relacionado) — no es un pendiente, es una ausencia comprobada en dos búsquedas (`site:tcrf.net Coco`, y el propio buscador interno de tcrf.net, bloqueado por Cloudflare, sustituido por la búsqueda de Google).
 
 ## Bitácora
 
-(pendiente)
+Punto de partida: `partes/datos-texto.md` (recolectado por `recolectar.py`) — sólo traía capturas de Steam de juegos llamados "Coco" sin relación con la película (Coco Block, Light of Coco, Coco's Revenge, etc.); descartados todos, no se repitió esa búsqueda.
+
+**Búsquedas web (WebSearch), todas en inglés salvo que se indique**:
+1. Coco 2017 Pixar movie logo font identify
+2. "Coco" Pixar font in use logo title
+3. "Coco" Pixar "Rockwell" font logo Día de Muertos
+4. Coco Pixar "The Art of Coco" production design Harley Jessup interview making of
+5. Coco Pixar technical papers animation rendering marigold bridge skeletons SIGGRAPH
+6. Coco Pixar "light" selection RenderMan Intel million lights Land of the Dead
+7. Coco color script Santa Cecilia muted Land of Dead vibrant contrast production designer
+8. Coco Pixar Cinestory Comic Joe Books graphic novel adaptation
+9. "Coco" Disney Pixar comic book adaptation speech bubbles panels
+10. "cinestory comic" Joe Books format dialogue caption font style explained
+11. Coco cinestory comic preview pages images look inside
+12. Disney Magic Kingdoms Coco event Miguel Hector characters
+13. Disney Speedstorm Miguel Rivera Coco character racer
+14. "Disney Speedstorm" "Bridge of Marigolds" season 22 release date Coco
+15. Disney Dreamlight Valley Coco Miguel Hector realm update
+16. Disney Heroes Battle Mode Coco Miguel character roster
+17. Kingdom Hearts Coco world Pixar confirmed Miguel
+18. Kingdom Hearts IV Coco world reveal trailer image Sora Miguel
+19. site:tcrf.net Coco
+20. Coco Pixar vs "The Book of Life" comparison similarities differences
+21. Coco Pixar Soul comparison music afterlife similar themes
+22. Pixar tried trademark "Dia de los Muertos" Coco controversy backlash
+23. Coco original title changed "Dia de los Muertos" to Coco why
+24. Coco 2017 rules Land of the Dead final death forgotten ofrenda
+25. Coco movie plot summary arcs Miguel Ernesto de la Cruz twist Hector
+26. Coco alebrije spirit guide Pepita Dante symbolism meaning
+27. Coco "Remember Me" song significance lullaby reprise meaning shoemaker family curse
+28. "Disney Solitaire" Coco Miguel Hector cards event
+29. Disney Speedstorm Season 22 Bridge of Marigolds key art image Miguel Hector Ernesto
+30. Disney Speedstorm Miguel Rivera racer card image screenshot
+31. Kingdom Hearts IV Gets 2027 Launch Window Coco World Reveal (dentro de #17-18)
+32. Blender tutorial Coco style marigold petals particle system Day of the Dead lighting
+33. Coco 2017 end credits typeface font style
+
+**Fuentes consultadas directamente (APIs/curl, sin gastar cupo de WebSearch)**:
+- `fonts.fandom.com/api.php` y `logos.fandom.com/api.php` (wikitext, confirma Rockwell Extra Bold)
+- `dafont.com/forum/read/342164/coco-2018-font` (identificación comunitaria de la fuente del logo)
+- `api.fontsource.org/v1/fonts` (candidatas libres slab-serif) + descarga y verificación con **fontTools** (`getBestCmap`) de `bevan.ttf`, `alfaslab.ttf`, `robotoslab900.ttf` para á é í ó ú ñ Ñ ¿ ¡
+- `archive.org/advancedsearch.php` y `archive.org/metadata/cococinestorycom0000unse` (cómic Cinestory, acceso restringido)
+- `disney.fandom.com/api.php` (Cinestory Comics, Land of the Dead, Héctor Rivera — wikitext)
+- `dmk.fandom.com/api.php` (Héctor Rivera, Disney Magic Kingdoms — diálogos reales del juego)
+- `disneyheroesbattlemode.fandom.com/api.php` (Miguel Rivera, habilidades y cita)
+- `speedstorm.fandom.com/api.php` (imagen teaser de Miguel Rivera)
+- `disneyspeedstorm.com/news/disney-speedstorm-patch-notes-season-22` (parche oficial Temporada 22)
+- `renderman.pixar.com/stories/the-world-of-coco` (fuente primaria de Pixar sobre iluminación)
+- `www.fxguide.com/fxfeatured/rendermans-visuals-for-coco/`, `vfxvoice.com/the-journey-of-coco…`, `remezcla.com` (Posada, Y Tu Mamá También, trademark)
+- `kh13.com` (captura oficial del tráiler de Kingdom Hearts IV, medida con Pillow: 1920×1080)
+- `api.sketchfab.com/v3/search` (alebrije, xoloitzcuintle, esqueleto rigged, licencias CC)
+- Imágenes de Fandom vía `action=query&prop=imageinfo` (tamaños reales medidos por la API de MediaWiki): logo Coco.svg, portada Cinestory Comic, captura de diálogo de Héctor en DMK.
+
+**Bloqueado/fallido**: `logos.fandom.com` y `fonts.fandom.com` devuelven 402 por la web normal (se resolvió con la API `action=parse`, como indica AYUDANTE.md); `tcrf.net` bloquea `curl` con reto de Cloudflare (se resolvió con `site:tcrf.net` en WebSearch); `tollbit.variety.com` (redirect de Variety) da 402 (sustituido por RenderMan oficial + fxguide, mismos datos).
 
 Sigue: empezar por punto 5 (tipografía del logo y rótulos).

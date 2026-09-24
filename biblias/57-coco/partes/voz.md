@@ -98,6 +98,128 @@ Disney Wiki ES + Pixar Wiki EN
 - Manía: se le cae la lengua de lado constantemente (rasgo real de la raza, sin dientes
   delanteros); en la Tierra de los Muertos se transforma en un alebrije gigante alado.
 
+## Punto 20 — Gustos y detalles de cada personaje
+
+De las fichas de personaje (infobox `le_gusta`/`no_le_gusta`/`familia`/`parafernalia`) de
+`disney.fandom.com/es` y `pixar.fandom.com`, cruzadas entre sí. Coco no tiene un *databook*
+oficial publicado en español que se haya encontrado (⚠️, ver «No encontré»), así que estos
+datos salen de las fichas de wiki, no de un libro oficial.
+
+- **Miguel**: le gusta el Día de Muertos, su familia, la música, admiraba a Ernesto de la
+  Cruz (antes). No le gusta que su familia discuta, que le prohíban la música, tocar en
+  público por primera vez. Objeto que siempre lleva (al final): la guitarra de Héctor.
+  Altura/cumpleaños oficiales: no confirmados por ninguna fuente fiable — la ficha en
+  español da una fecha de nacimiento («22 de febrero de 1991, Tantoyuca, Veracruz») que es
+  **matemáticamente imposible** (lo haría adulto durante la película, cuando tiene 12
+  años): se descarta como error o vandalismo de wiki, no se usa. ⚠️
+- **Héctor**: le gusta la música y su familia. No le gusta que lo hayan envenenado, que le
+  roben canciones. Se ve a sí mismo como un padre que falló, y busca redimirse.
+- **Mamá Coco**: nació en 1918 (según Disney Wiki ES); Lee Unkrich (codirector) reveló que
+  Coco muere a los 100 años. ⚠️ una sola fuente encontrada para ambos datos — no se cruzó
+  con una entrevista directa de Unkrich en esta pasada, sólo con la wiki que lo cita.
+  Le gusta la música (desde niña, por su padre). Objeto: las cartas de Héctor.
+- **Ernesto de la Cruz**: le gusta la fama, la salud, tocar música, ser recordado, ser
+  admirado. No le gusta ser olvidado, ser aplastado (irónico dado su muerte), poner en
+  riesgo su reputación. Se ve a sí mismo como «el músico más grande de la historia» — un
+  autoengaño que sostiene con mentiras. Objeto: su guitarra blanca con calavera (robada).
+- **Imelda**: nació en 1899 en Santa Cecilia (dato cruzado en Disney Wiki ES y Pixar Wiki
+  EN ✅); a los 19 años tuvo a Coco; murió a los 70. Le gusta la zapatería, el Día de
+  Muertos, el pan de muerto, cantar, bailar. No le gusta la música (antes), las
+  computadoras (mención suelta en la ficly, sin contexto claro en la película — ⚠️), el
+  asesinato. Se ve a sí misma como la protectora del legado familiar (los zapatos).
+- **Abuelita (Elena)**: le encanta cuidar a su familia con comida (tamales) y disciplina.
+  No le gusta la música fuera de control ni que rompan las reglas de la ofrenda.
+- **Dante**: le gusta la comida de la ofrenda (se la come sin permiso, gag recurrente);
+  altura ~1.75 pies (53 cm) a la cruz. ⚠️ una fuente.
+
+## Punto 21 — Por qué la gente la ama
+
+**Cifras** (✅ cruzadas en varias fuentes de prensa especializada):
+- Recaudación mundial: 807-823 millones de USD (varía algo según la fecha del reporte;
+  Deadline lo situó en 800M en mayo de 2018). En México: 57.8 millones de USD, récord para
+  una película animada fuera de temporada de verano. https://deadline.com/2018/05/coco-crosses-800-million-global-box-office-disney-pixar-1202380459/
+- Rotten Tomatoes: 96% fresco · CinemaScore: A+ de las audiencias.
+- Premios: **2 Óscar** (Mejor película animada y Mejor canción original, «Remember
+  Me»/«Recuérdame»), 11 de 13 categorías en los Annie Awards 2018, además de Globo de Oro,
+  BAFTA, PGA, National Board of Review y Critics' Choice. https://www.hollywoodreporter.com/movies/movie-news/coco-wins-2018-best-animated-feature-oscar-1089884/
+- Fue la transmisión más vista en México en Azteca 7 durante 2020 (5.2 millones de
+  espectadores), según Doblaje Wiki citando un tuit de PRODU. ⚠️ una fuente primaria (tuit).
+
+**Testimonios directos** (con nombre y cargo, de un reportaje de la agencia AP recogido por
+El Universal):
+- Magali Camacho, 25 años, espectadora en México: «Rescata mucha esencia de lo que es la
+  tradición, las ofrendas, la importancia de los muertos para los mexicanos.»
+- Francisco Eguren, director de programación de Cinemex (una de las 2 cadenas de cine más
+  grandes de México): «Una película que crezca de 170 millones de pesos en el primer fin
+  de semana a 206 en el segundo es histórico [...] ahí es como vemos que hubo una conexión
+  súper importante de los mexicanos hacia la película de 'Coco'.» Eguren también relacionó
+  el éxito con el ánimo del país tras los sismos de septiembre de 2017.
+  Fuente: https://www.eluniversal.com.mx/espectaculos/cine/por-que-coco-triunfo-en-mexico/
+- La crítica destacó que evita el estereotipo hollywoodense del Día de Muertos (a diferencia
+  de «Spectre» de James Bond, 2015): personajes auténticos, doblaje mexicano en el
+  original, xoloitzcuintle real, Frida Kahlo como personaje, cempasúchil. ✅ Reseñas
+  cruzadas: Cine Premiere (`cinepremiere.com.mx/coco-pixar-critica.html`) y Radiónica
+  (`radionica.rocks/cultura/cine-series/coco-pixar-hizo-del-dia-de-muertos-una-historia-universal`).
+
+**Con qué personaje se identifica el público**: los testimonios encontrados hablan más de
+identificación con la *tradición* (la ofrenda, recordar a los muertos propios) que con un
+personaje concreto — varias reseñas en inglés mencionan que ver la película hace pensar en
+un familiar fallecido propio (fuente: reseñas agregadas en la búsqueda web, sin un artículo
+único citable con nombre de autor — ⚠️).
+
+**Escenas que hacen llorar** (capítulo único, es largometraje; minuto aproximado según
+reseñas, sin acceso a copia íntegra en esta pasada — ⚠️ falta el minuto exacto verificado
+por el equipo de vídeo con el archivo completo):
+- **«Recuérdame» a Mamá Coco**: Miguel le canta la canción de cuna que Héctor le escribió
+  de niña; ella recuerda a su padre justo antes de perderlo todo a la demencia. Es LA
+  escena más citada en toda la cobertura de prensa revisada (NPR, filmdaze.substack.com,
+  goodmovie.substack.com) como el clímax emocional del filme.
+- **El casi-olvido de Héctor** (se empieza a volver transparente): dramatiza literalmente
+  qué significa ser olvidado; funciona como advertencia visual del clímax.
+- **El reencuentro final** de toda la familia Rivera fallecida cruzando el puente de
+  cempasúchil hacia la fiesta: escena coral, con luz cálida y la canción de fondo — no se
+  pudo confirmar el minuto exacto sin ver el archivo completo (⚠️).
+- Música en las escenas emotivas: siempre «Recuérdame», en distintos arreglos (de cuna,
+  a dueto, orquestal) — el propio equipo de doblaje grabó 4 versiones distintas de la
+  canción para otros tantos momentos (dato del wikitext de Doblaje Wiki, ver punto 8).
+
+## Punto 22 — Fan dubs y comunidad hispana
+
+**Fandubs de escenas/canciones en español** (YouTube, metadatos con `yt-dlp`, sin
+necesidad de iniciar sesión):
+- «Coco 'Recuérdame' COVER (ESPAÑOL/LATINO) [FANDUB]» — canal **Drann**, 2:50, 1 659
+  vistas, feb-2018. https://www.youtube.com/watch?v=aVGSkJWAJ94
+- «Coco recuerdame Fandub» — canal **RORODEAD**, 1:36, 215 vistas, dic-2017.
+  https://www.youtube.com/watch?v=TfWEpILOk6Q
+- «Un Poco Loco ~Coco (Cover en Español)» — canal **dualkeyx**, 1:52, **157 996 vistas**,
+  nov-2017 (el fandub/cover con más vistas encontrado). https://www.youtube.com/watch?v=62BAHOirvTk
+- «Un poco loco - Coco (Carolina Ross cover) #RossAPiano» — canal **Carolina Ross**
+  (cantante con canal propio), 51 s, **811 394 vistas**, feb-2018 — el cover más visto de
+  todos los encontrados. https://www.youtube.com/watch?v=0uXlNsmKijY
+- «Disney Pixar COCO - Un Poco Loco - cover fandub - español latino» — canal **RobertMan**,
+  36 s, 5 212 vistas, ene-2018. https://www.youtube.com/watch?v=pkIqmo4RRrc
+- «Un Poco Loco Coco Cover Doblaje Español Latino» — canal **Hiva**, 1:43, 4 028 vistas,
+  mar-2018. https://www.youtube.com/watch?v=w2QZ2bOYAQI
+- Curiosidad regional: existe incluso un doblaje de fans de «Recuérdame» **en guaraní**
+  («Coco Cancion Recuerdame (Anike nderesarai) | Doblaje en guaraní GuarpaR»), canal
+  **GuarpaR.**, 3:04, 9 611 vistas, may-2018 — muestra el alcance de la película en toda
+  Latinoamérica, no sólo en español. https://www.youtube.com/watch?v=TZtPe9zj818
+
+**Memes y comunidad**: el más repetido en TikTok es el de la escena de «Recuérdame» usada
+como plantilla de humor/nostalgia (parodias, ediciones tipo Despacito-meme) y la frase-meme
+«mama coco did NOT die for this», usada como reacción cuando algo traiciona el mensaje
+sentimental de la escena. ⚠️ Confirmado sólo por resultados de búsqueda agregados (varios
+enlaces de TikTok listados como `tiktok.com/discover/recuerdame-coco-meme`, sin un post
+individual con vistas que citar uno por uno).
+
+**Qué NO hacer** (para no sonar falso ante el fandom, deducido de cómo la prensa describe
+lo que SÍ funcionó): no presentar el Día de Muertos como algo tétrico o «Halloween
+mexicano»; no dibujar calaveras genéricas sin el estilo de alebrije/cempasúchil propio de
+la película; no ignorar que Coco tiene voces y actores **mexicanos reales** de peso (Marco
+Antonio Solís, Angélica Vale, Angélica María, Gael García Bernal) — nombrarlos mal o
+confundir el doblaje latino con el de España sería el error más notado por este fandom en
+concreto (recordar el punto 8: España usó el doblaje latino, no al revés).
+
 **Popularidad — encuestas oficiales y de fans**
 - ⚠️ **No se encontró una encuesta oficial de popularidad** (tipo «vota tu personaje
   favorito») de Disney/Pixar para Coco. Búsquedas hechas: «Coco Pixar encuesta personaje
