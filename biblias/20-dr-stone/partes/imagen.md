@@ -38,6 +38,22 @@ tamaño si aplica.
   `datos-imagen.md`, confirmado con la wiki de capítulos)
 - Portada **«Dr. STONE Speak Towards the Future»** (novela/guía) · 800×1259 ·
   hoja `settei_01` nº258 ✅ vista
+- **Catálogo oficial completo de key visuals**: la wiki tiene una
+  `Category:Key Visuals` con **22 imágenes**, una por temporada/especial —
+  Season 1 (4), Season 2/New World (5), especial Ryusui (2), Stone Wars
+  (4), Science Future (2), más el anuncio de fecha. Medí tres que no
+  estaban citadas antes: **New World Key Visual 1** (849×1200),
+  **Science Future Key Visual 1** (849×1200) y **Ryusui Key Visual 1**
+  (1420×2000, el más grande de esta categoría) ✅ (API de Fandom,
+  `imageinfo`). https://dr-stone.fandom.com/wiki/Category:Key_Visuals
+- **Cartones de cuenta atrás** («countdown»): confirmados para *Science
+  Future* parte 3 — «8 Days until the Premiere» y «it's finally here
+  tomorrow», publicados en la cuenta oficial antes del estreno de abril
+  2026 ✅ (X, dos publicaciones distintas de la misma cuenta:
+  https://x.com/animeupdates/status/2036759330528154071 y
+  https://x.com/animeupdates/status/2039517302257856758) ⚠️ (misma cuenta
+  reposteando lo oficial, no la cuenta oficial en sí — cuenta como una
+  fuente).
 
 ### 1.2 Hojas de ruta (roadmaps): así son de verdad, ya no es un ⚠️
 
