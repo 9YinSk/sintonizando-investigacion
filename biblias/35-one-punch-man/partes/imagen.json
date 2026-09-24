@@ -1,0 +1,236 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 650,
+    "que_es": "Portada oficial del anime en AniList",
+    "para_que": "Punto 1 · arte oficial, ficha rápida de la serie",
+    "licencia": "uso editorial/promocional del estudio, vía AniList"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/9/90/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Saitama.png",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 2481,
+    "alto": 3508,
+    "que_es": "Key visual oficial de Saitama para la temporada 3 (2025)",
+    "para_que": "Punto 1 y 15 · pose de presentar, vestuario y hex medidos (amarillo #F7C561, rojo #E70013/#BB3F29, piel #EECFBC)",
+    "licencia": "arte promocional oficial del estudio, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/b/b7/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Genos.png",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 1810,
+    "alto": 2560,
+    "que_es": "Key visual oficial de Genos para la temporada 3 (2025)",
+    "para_que": "Punto 1 y 15 · pose de combate, vestuario y hex medidos (azul de rango #0D6FB4, metal #1B1C1D/#81837E)",
+    "licencia": "arte promocional oficial del estudio, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/8/83/One-Punch_Man_Anime_Season_3_Hero_Visual_-_Tatsumaki.png",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 1240,
+    "alto": 1754,
+    "que_es": "Key visual oficial de Tatsumaki para la temporada 3 (2025), \"Terrible Tornado\"",
+    "para_que": "Punto 1 y 15 · pose de mando/telequinesis, vestuario y hex medidos (verde de rango #28A270, vestido negro #191B1C)",
+    "licencia": "arte promocional oficial del estudio, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/0/06/License-less_Rider_anime_design.png",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 770,
+    "alto": 700,
+    "que_es": "Hoja de modelo oficial del anime de Mumen Rider (frente, perfil y primeros planos)",
+    "para_que": "Punto 15 · vestuario exacto y hex medidos (casco #597356, armadura #664C37/#9D8062, traje #141210)",
+    "licencia": "material de producción del estudio, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/b/b8/Z-city_manga_colored.jpg",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 1720,
+    "alto": 1217,
+    "que_es": "Ilustración a color de Ciudad Z (manga)",
+    "para_que": "Punto 16 · paisaje del sitio principal, hex medidos (tierra #5D4633/#8E7358, cielo #7895A5)",
+    "licencia": "arte oficial del manga, sólo referencia"
+  },
+  {
+    "url": "https://onepunchman-anime.net/10th/img/visual/visual_01.jpg",
+    "fuente": "Web oficial japonesa (onepunchman-anime.net)",
+    "ancho": 1400,
+    "alto": 1983,
+    "que_es": "Visual oficial del 10.º aniversario del anime",
+    "para_que": "Punto 1 y 16 · el \"oficial en alta\" más cercano a un wallpaper; imagen de grupo",
+    "licencia": "arte promocional oficial del estudio, sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-42519b4d20884d7781d1dc242531f428",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D \"Garou Cosmic\" (Garou, forma final) por OlegPopka",
+    "para_que": "Punto 3 · referencia de pose/proporción para Blender, licencia comprobada hoy en la API",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-425d1e60d9834236801dadd3609de42c",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D \"Tatsumaki (Tornado of Terror)\" por jonas_hilschmann, 297.064 caras",
+    "para_que": "Punto 3 · el más detallado de Tatsumaki, referencia de pose de mando",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5933d345ad9441d499c93eb655a9b214",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D \"Saitama - Revised\" por mmkh",
+    "para_que": "Punto 3 · pose neutra de pie, base de retopología",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5f522a386f924033965c60ab9836647f",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D \"One_punch_genos_arms_mode\" (Genos, brazos de combate) por 20062020year",
+    "para_que": "Punto 3 · única pose de combate entre los modelos de Genos",
+    "licencia": "CC Attribution (comprobado con api.sketchfab.com/v3/models hoy)"
+  },
+  {
+    "url": "https://safebooru.org/images/2308/48ee249b6379989b667cc599eaa2089a9727e92a.jpg",
+    "fuente": "Safebooru (origen: Pixiv illust_id=66186034)",
+    "ancho": 1768,
+    "alto": 2500,
+    "que_es": "Fan art de Saitama mejor puntuado en Safebooru",
+    "para_que": "Punto 3 · referencia de composición, nunca para pegar",
+    "licencia": "derechos del autor de Pixiv, sólo referencia con crédito"
+  },
+  {
+    "url": "https://safebooru.org/images/2399/db2f06815091dcabdca1bda5b8066147cb461198.jpg",
+    "fuente": "Safebooru (origen: Twitter @NEBU_KURO)",
+    "ancho": 2407,
+    "alto": 3511,
+    "que_es": "Fan art de Genos mejor puntuado en Safebooru",
+    "para_que": "Punto 3 · referencia de composición, nunca para pegar",
+    "licencia": "derechos del autor, sólo referencia con crédito"
+  },
+  {
+    "url": "https://safebooru.org/images/4620/d6987b07f3c70a54e34ccca93b03b09925facb1b.jpg",
+    "fuente": "Safebooru (origen: Twitter @bongftah)",
+    "ancho": 3000,
+    "alto": 3539,
+    "que_es": "Fan art de Tatsumaki mejor puntuado en Safebooru",
+    "para_que": "Punto 3 · referencia de composición, nunca para pegar",
+    "licencia": "derechos del autor, sólo referencia con crédito"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4yyxwx.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3839,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla de fans de Tatsumaki, apto (comprobado sin fan service hoy)",
+    "para_que": "Punto 16 · fondo de pantalla en alta de fans",
+    "licencia": "derechos del autor original (hilo de r/anime), sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/5d/wallhaven-5dd255.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fans de Saitama sobre fondo violeta, apto",
+    "para_que": "Punto 16 · fondo de pantalla en alta de fans",
+    "licencia": "origen no declarado en Wallhaven, sólo referencia"
+  },
+  {
+    "url": "https://live.staticflickr.com/7557/27907660906_6fb80734fc_b.jpg",
+    "fuente": "Openverse (Flickr, Punapanda)",
+    "ancho": 683,
+    "alto": 1024,
+    "que_es": "Cosplay de Mumen Rider, armadura con volumen real",
+    "para_que": "Punto 23 · cosplay bien hecho, materiales y volumen reales",
+    "licencia": "CC BY-NC 2.0"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51546747522_0f81f1e512_b.jpg",
+    "fuente": "Openverse (Flickr, dcnerd)",
+    "ancho": 1024,
+    "alto": 615,
+    "que_es": "Cosplay de Saitama y Metal Bat juntos",
+    "para_que": "Punto 23 · cosplay en grupo, dinámica entre personajes",
+    "licencia": "CC BY-NC-ND 2.0"
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/5303/Nendoroid+Saitama.html",
+    "fuente": "Good Smile Company",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Figura oficial Nendoroid de Saitama, con cabeza seria/despreocupada y bolsa del súper",
+    "para_que": "Punto 23 · figura oficial, pose de referencia 3D (Saitama tranquilo en casa)",
+    "licencia": "producto oficial con licencia, sólo referencia de pose"
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/5762/Nendoroid+Genos+Super+Movable+Edition.html",
+    "fuente": "Good Smile Company",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Figura oficial Nendoroid de Genos, con delantal y escoba",
+    "para_que": "Punto 23 · figura oficial, pose doméstica de referencia 3D",
+    "licencia": "producto oficial con licencia, sólo referencia de pose"
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/6284/Tatsumaki.html",
+    "fuente": "Good Smile Company",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Figura oficial 1/8 de Tatsumaki (230 mm), vestido negro al viento",
+    "para_que": "Punto 23 · figura oficial, pose de referencia 3D de Tatsumaki en acción",
+    "licencia": "producto oficial con licencia, sólo referencia de pose"
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/10870/16d+Collectible+Figure+Collection+ONE+PUNCH+MAN+Vol+2.html",
+    "fuente": "Good Smile Company",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Set de figuras coleccionables 16d Vol. 2, incluye a Mumen Rider (6 cm)",
+    "para_que": "Punto 23 · única figura oficial de Mumen Rider en solitario encontrada",
+    "licencia": "producto oficial con licencia, sólo referencia de pose"
+  },
+  {
+    "url": "https://ambientcg.com/list?type=Material&q=paper",
+    "fuente": "ambientcg",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Serie de texturas de papel (Paper001-006), fotografiadas",
+    "para_que": "Punto 19 · grano de papel equivalente al del manga, para capas en Photoshop",
+    "licencia": "CC0 (política del sitio; no se confirmó el texto exacto en esta sesión)"
+  },
+  {
+    "url": "https://ambientcg.com/list?type=Material&q=diamond+plate",
+    "fuente": "ambientcg",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Serie de texturas de placa metálica (DiamondPlate006-009)",
+    "para_que": "Punto 19 · metal equivalente a la armadura de Genos",
+    "licencia": "CC0 (política del sitio; no se confirmó el texto exacto en esta sesión)"
+  },
+  {
+    "url": "https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures",
+    "fuente": "Spoon Graphics",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack de 12 texturas de trama (halftone) desgastada",
+    "para_que": "Punto 19 · trama tipo screentone para sombreado de estilo manga",
+    "licencia": "gratis para todos (verificar términos exactos antes de un uso comercial)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/onepunchman/images/9/92/Rocket_Punch_Manga.png",
+    "fuente": "One Punch Man Wiki (Fandom)",
+    "ancho": 1862,
+    "alto": 1787,
+    "que_es": "Página de manga en blanco y negro (Genos, Rocket Punch)",
+    "para_que": "Punto 19 · medida de la trama real del manga (sombreado mixto, mucha línea)",
+    "licencia": "arte oficial del manga, sólo referencia"
+  }
+]

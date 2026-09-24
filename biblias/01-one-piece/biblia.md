@@ -935,6 +935,15 @@ Sólo lo que está **visto** en una imagen o un vídeo de esta biblia. Lo que fa
 | **Chopper** | **P29**: salta con los brazos arriba · **4182**: lengua fuera · **P22**: boca abierta | ⚠️ sin imagen (se enfada cuando lo llaman tanuki: «¡Soy un reno!», wiki) | Ep. 312 [1:08](https://www.dailymotion.com/video/x9kpldw?start=68): llora a mares con la nariz azul | **P21**: asoma sudando · se esconde mal, con medio cuerpo fuera (wiki) | **P24** (SBS 61): insulta y dice «¡no me alegra!» **mientras baila de felicidad** |
 | **Robin** | Ep. 130 [1:24](https://www.dailymotion.com/video/x61uaq4?start=84): sonríe en la escalera | No aplica: **nunca grita a sus compañeros** (wiki + ficha) | Ep. 312 [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66): llora con Nami y Chopper · ep. 278 (sin minuto) | ⚠️ | ⚠️ |
 
+**Más caras y gestos, con su episodio** (capturas de la wiki por su API, miradas; tamaño real) ✅ imagen / ⚠️ el episodio sólo lo da la wiki:
+- **Alegría:** Robin ríe tranquila, ojos cerrados y mano junto a la boca, ep. 572 ([728×944](https://static.wikia.nocookie.net/onepiece/images/a/a8/Robin_Laughing.png/revision/latest?cb=20231205145353)) · **Jinbe se ríe a carcajadas, con lágrimas, al oír el sueño de Luffy**, ep. 1089 ([1440×1080](https://static.wikia.nocookie.net/onepiece/images/0/00/Jinbe_coment_on_Luffy_Dream.png/revision/latest?cb=20240812222028)) · **Nami abraza a Chopper** con los ojos cerrados en el reencuentro, ep. 519 ([1440×1080](https://static.wikia.nocookie.net/onepiece/images/7/72/Nami_Hugs_Chopper.png/revision/latest?cb=20241110020500)) · Luffy, Usopp y Chopper riendo en la hierba, ep. 207 ([1920×1080](https://static.wikia.nocookie.net/onepiece/images/8/8b/Luffy%2C_Usopp_and_Chopper_playing_in_the_grass.png/revision/latest?cb=20221127223619)) · Chopper y su baile de «¡No me alegra!», ep. 84 (195×264, pequeña).
+- **Asombro:** **Luffy con los ojos brillantes** ante el nuevo cuerpo de Franky, ep. 522 ([1388×1054](https://static.wikia.nocookie.net/onepiece/images/7/7f/Luffy_Impressed_by_Franky.png/revision/latest?cb=20230808221729)) · Jinbe con ojos saltones y boca enorme ([1920×1080](https://static.wikia.nocookie.net/onepiece/images/9/92/Jinbe_Very_Surprised.png/revision/latest?cb=20240812222338)).
+- **Rabia:** **Nami abofetea a Sanji**, ep. 808 ([1914×1080](https://static.wikia.nocookie.net/onepiece/images/b/bf/Nami_Slaps_Sanji.png/revision/latest?cb=20231022141444); no para bienvenidas) · Nami señala a Zoro y le cobra la deuda, Zoro aprieta los dientes, ep. 66 ([704×528](https://static.wikia.nocookie.net/onepiece/images/6/66/Nami_Extorts_Zoro.png/revision/latest?cb=20230417164556)) · Zoro y Sanji, chispas entre los ojos ([578×446](https://static.wikia.nocookie.net/onepiece/images/0/00/Zoro_and_Sanji.png/revision/latest?cb=20230701035145)).
+- **Tristeza que se niega:** **Franky llora a mares con las gafas puestas**, ep. 322 ([1440×1080](https://static.wikia.nocookie.net/onepiece/images/2/21/Emotional_Franky.png/revision/latest?cb=20251105203851)).
+- **Vergüenza:** **Usopp de rodillas, la cabeza en el suelo, pide perdón para volver**, ep. 323 ([1161×629](https://static.wikia.nocookie.net/onepiece/images/e/e3/Usopp_Apologizes.png/revision/latest?cb=20230604131248)).
+- **Serio, las reglas:** **Zoro, apoyado junto a la escalera, habla con Luffy de si Usopp puede volver**, ep. 323 ([1919×1026](https://static.wikia.nocookie.net/onepiece/images/b/ba/Zoro_Discusses_Usopp%27s_Membership_with_Luffy.png/revision/latest?cb=20230701034520)): **cubre el hueco de «Zoro explicando»** (§9.7).
+- **Acoger y celebrar:** **la fiesta en el césped del Sunny al entrar Franky**, ep. 324: brindis con jarras, barriles, mantel de cuadros; Luffy vuela con el brazo estirado, Nami ríe con los brazos abiertos, Robin sonríe con su jarra ([1280×720](https://static.wikia.nocookie.net/onepiece/images/9/99/Straw_Hat_Crew_Recruitment_Celebration.png/revision/latest?cb=20130619231150)) · **Brook se inclina ante Luffy para pedir entrar**, ep. 381 ([2150×1052](https://static.wikia.nocookie.net/onepiece/images/3/33/Brook_Asks_To_Join_Luffy%27s_Crew.png/revision/latest?cb=20220609134559)) · **Luffy invita a Zoro**, atado al poste, ep. 2 ([1920×1080](https://static.wikia.nocookie.net/onepiece/images/2/2e/Luffy_Asks_Zoro_to_Join_Crew.png/revision/latest?cb=20230102150843)) · Sanji le ofrece una flor a Nami, ep. 21 ([704×528](https://static.wikia.nocookie.net/onepiece/images/1/1c/Sanji_Meets_Nami.png/revision/latest?cb=20250507025821)) · Usopp cuenta una historia con los brazos abiertos bajo la ventana de Kaya, ep. 220 ([785×628](https://static.wikia.nocookie.net/onepiece/images/d/da/Usopp_Tells_Kaya_His_Stories.png/revision/latest?cb=20230910033404)).
+
 **Vocabulario de expresiones que se ve en esas imágenes:** ojos blancos que brillan y **vena roja** en la frente (enfado cómico, ep. 1086); **ojos de corazón** (Sanji); **gotas de sudor** (P21); **lágrimas a chorro** (Chopper, ep. 312); **chichones** (los golpes de Nami, Punto 12). Para una IA de imagen, ver §15.
 
 ### 9.3 Lo que faltaba de los cinco: miedos, con quién y cómo habla
@@ -1025,7 +1034,8 @@ Muestras de audio de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/One_Piece
 - **Nami regaña, ED 23 [0:17](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=17)**: tira de la oreja a Luffy y a Usopp → **regañar** (en broma).
 - **Zoro «pensar/decidir», ep. 53, 22:20**: brazos cruzados, cabeza ladeada, ojos entornados, media sonrisa ⚠️ (copia de fans).
 - **Luffy «pensar en serio», ep. 1071, [0:48-1:10](https://www.dailymotion.com/video/x8mwcbr)**: tumbado, ceño fruncido, ojos cerrados con fuerza, puños contra el suelo → **concentrado**, distinta de la P6 (pensar en broma) ⚠️ (sólo este clip).
-- **Huecos que siguen** ⚠️: poses oficiales de **Zoro explicando o animando**, **Sanji explicando o regañando** y **Chopper regañando o pensando**. Se buscó en la API de imágenes de la wiki (`Zoro Thinking`, `Chopper Angry`, `Sanji Explaining`…) y sólo salió merchandising. Falta mirar una a una las ilustraciones de *Treasure Cruise* del catálogo (§3.1).
+- **Zoro «explicar las reglas», ep. 323**: serio, apoyado junto a la escalera, hablando con Luffy (§9.2) ✅. **Usopp «explicar contando», ep. 220**: brazos abiertos ✅.
+- **Huecos que siguen** ⚠️: poses oficiales de **Zoro animando**, **Sanji explicando o regañando** y **Chopper regañando o pensando**. Se buscó en la API de imágenes de la wiki (`Zoro Thinking`, `Chopper Angry`, `Sanji Explaining`…) y sólo salió merchandising. Falta mirar una a una las ilustraciones de *Treasure Cruise* del catálogo (§3.1).
 
 ### 9.8 Dinámicas (para láminas en grupo)
 
@@ -1544,6 +1554,388 @@ arte oficial** (el dueño no quiere que parezca IA). Pixiv marca muchos carteles
 
 ---
 
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+> Nuevo en el repaso del equipo (24-sep-2026). Del investigador de texto y técnica, sobre trabajo de campo que dejó un piloto anterior (356 imágenes de la wiki medidas) y tres páginas japonesas leídas enteras.
+
+### 18.1 Las herramientas de Oda (manga en papel)
+
+Un blog que fotografió la **mesa de trabajo de Oda** reproducida en la exposición **ONE PIECE展** (Osaka, 2012-2013) enumera cada objeto expuesto ⚠️ (una fuente, pero describe objetos de la exposición oficial; [canrevb.com, 19-ene-2013](https://canrevb.com/archives/254), japonés):
+- **Plumilla G (Gペン)** en un mango de madera **BRAUSE 1614**, gastado de uso.
+- Lápiz **Mitsubishi B**, tinta **Pilot**, corrector **Misnon**.
+- Rotulador técnico **Pigma Graphic** para las rayas rectas de las viñetas.
+- **Copic**: 3 cajas de 72 colores y 1 de 36, para las ilustraciones a color.
+- Goma de miga de pan (練り消しゴム); 3 pinceles de distinto grosor y un rotulador-pincel **Pentel FP6L** para los negros sólidos (pelo, sombras).
+- Cuadernos **Kokuyo Campus** de ideas, rotulados a mano: «Wano», «Isla Gyojin», «técnica», «personaje».
+
+**Equipo del anime** ([AniList, staff](https://anilist.co/anime/21/staff)): diseño de personajes **Noboru Koizumi** (eps. 1-425) y **Kazuya Hisada** (385-891); música **Kōhei Tanaka** y **Shirō Hamaguchi** ✅ (AniList + ANN, §11).
+
+### 18.2 Tres «capas» de estilo, medidas (356 imágenes de la wiki)
+
+Script basado en `estilo.py` sobre **9 grupos de imágenes al azar** de la One Piece Wiki (categorías `Chapter_Images`, `Color_Spread_Images`, `Colored_Chapter_Images` y `Season_N_Episode_Images`; 40 por grupo, 16 de Oda) ✅ (medido; hojas de contacto miradas).
+
+| Grupo | Línea (% de píxeles) | Color de la línea | Sombreado | Saturación | Paleta cerrada (12 colores cubren…) | Viñeta (esquina/centro) |
+|---|---|---|---|---|---|---|
+| Manga B/N | **16,2 %** (la más densa: tramas y rayado) | `#585858` | mixto | 0 | 96 % | 0,99 |
+| *Color spread* de Oda (Copic) | 15,3 % | `#614F40` | mixto/degradado | 30,5 | **32 %** (pintura real) | 1,54 |
+| Manga coloreado digital | 10,5 % | `#5D4C41` | mixto, algo *cel* | 31,0 | 45 % | 1,22 |
+| Anime 1999 (East Blue) | 8,4 % | `#867B73` | degradado 36/40 | 29,0 | **74 %** (*cel* clásico) | 0,80 |
+| Anime 2001 (Alabasta/Skypiea) | 7,7 % | `#7C6E67` | degradado 32/40 | 29,0 | 45 % | 1,01 |
+| Anime 2010s HD | 8,3 % | `#776E64` | degradado 32/40 | 29,0 | 55 % | 0,69 |
+| Anime Wano | 6,8 % | `#635951` | degradado 39/40 | **49,5** (la más saturada) | 71 % | 0,66 |
+| Anime Egghead | 9,9 % | `#695854` | degradado 36/40 | 41,0 | 44 % | 0,88 |
+| Anime Elbaph (actual) | 7,3 % | `#5B4C5B` | degradado 34/40 | 36,0 | **31 %** | **0,42** (la más viñeteada) |
+
+**Qué dice, en corto:**
+- **El manga usa el doble de línea que el anime** (16 % contra 6-10 %): Oda rellena con **tramas y rayado**; el anime, con **degradado pintado**.
+- **El color se saturó hasta Wano** (49,5) y bajó un poco después, pero sigue por encima de 1999-2010 (29).
+- **La paleta se abrió**: en 1999, 12 colores cubrían el 74 % de la imagen; en Elbaph, sólo el 31 %.
+- **El viñeteado (esquinas oscuras) sube arco a arco**: casi nulo en 1999, muy marcado en Elbaph. Es un filtro de cámara digital, no del dibujo.
+- **El grano de papel sólo existe en el manga escaneado** (5,6-8,8 frente a 0,9-2,1 del anime): **simularlo sólo si el marco es una página de manga.**
+- **Luffy se dibuja con menos línea que Zoro**: en las fichas de manga, Luffy 3,8 % de línea; **Zoro 14 %**, casi sin zonas planas. Zoro va siempre más «duro» (Punto 19) ✅.
+- **Mirado, no sólo medido:** el manga tiene tramas de puntos, rayado de velocidad y grandes manchas negras (dramático); Elbaph es pintura digital de fondos muy saturada con líneas finas.
+
+### 18.3 Qué dicen el estudio y la prensa japonesa
+
+- **La línea se afinó de Wano a Egghead a propósito**: «el dibujo, que en Wano tenía una pincelada ruda y *gekiga*, cambió: el trazo se hizo más fino y el ambiente, más gráfico» ✅ ([Real Sound, 15-sep-2024](https://realsound.jp/movie/2024/09/post-1780386.html), japonés). El *storyboard* y la dirección del opening de Egghead fueron de **Ishitani Megumi** (la del «Roof Piece», ep. 1015), con dirección de animación de **Mori Keisuke**, buscando un aire «pop y artístico». El ep. 1072 contó con **Ohira Shingo**; el 1112 (Shanks contra Kid), con **Ota Akihiro**.
+- **El estudio de «撮影» (composición digital y filtros) cambió al empezar Wano.** El director de serie **Nagamine Tatsuya**: «vamos a hacer que la pantalla brille más, y cuando el color general vaya a quedar apagado, vamos a mostrar el Haki o los efectos de las Frutas del Diablo con **una luz de color muy vistosa**» y «como el equipo de fotografía cambia desde Wano, el ambiente de los filtros y efectos también va a cambiar» ✅ ([超！アニメディア, 30-jun-2019](https://cho-animedia.jp/article/2019/06/30/12998.html)).
+- Para Haki, frutas y golpes: **luces de color plano superpuestas en modo Trama o Luz, con un resplandor difuminado** (medido en el haki de Shanks: saturación 77 %, §6).
+
+### 18.4 Encuadres y composición (lo visto en los vídeos)
+
+| Encuadre | Dónde se ve | Qué emoción enmarca |
+|---|---|---|
+| **Contrapicado del grupo**, cielo detrás | Los diez en cubierta, opening del ep. 1000, 1:25 (§6) | Orgullo de tripulación: **el de #bienvenidas** |
+| **Cenital** (desde arriba) | Los cinco pies en el barril, ep. 53, 22:32 (§4); el Sunny desde arriba, OP 26 [0:07](https://www.dailymotion.com/video/x8r9tzd?start=7) | Pacto, unión |
+| **Primeros planos rápidos**, uno por personaje | Cada sueño, ep. 53, 22:35-22:45 | Presentar a cada uno |
+| **Contrapicado individual** | Luffy mira abajo con el cielo detrás, ep. 37 [0:42-0:47](https://www.youtube.com/watch?v=M-jKhyF1q20&t=42) | Decisión, protección |
+| **Detalle de manos u objeto** | La mano de Nami aprieta la arena, [0:29-0:32](https://www.youtube.com/watch?v=M-jKhyF1q20&t=29); el sombrero que cambia de cabeza, [1:15](https://www.youtube.com/watch?v=M-jKhyF1q20&t=75) | Dolor contenido, entrega |
+| **Ojos tapados por el ala del sombrero** | [1:10-1:12](https://www.youtube.com/watch?v=M-jKhyF1q20&t=70) y [1:16-1:19](https://www.youtube.com/watch?v=M-jKhyF1q20&t=76) | Rabia o llanto que no se enseña |
+| **De espaldas, frente al mar** | Luffy tras la muerte de Ace, ep. 483, 22:00; la tripulación saludando, ED 23 [1:02](https://www.youtube.com/watch?v=Qx-XXzEUm-8&t=62) | Silencio (tragedia) o despedida alegre |
+| **Personaje diminuto en un paisaje enorme** | Luffy en el prado de Elbaf, OP 29 [0:00](https://www.youtube.com/watch?v=X48ZNGHBa8A&t=0); Luffy en la nieve, visual de Elbaph | Aventura, escala |
+| **Plano bajo de los tablones** que se van al fondo | Cubierta del Red Force, ep. 1082 [1:05](https://www.dailymotion.com/video/x8pee1a?start=65) | Profundidad: sirve para el suelo del concepto A |
+
+### 18.5 Cómo replicarlo
+
+**En Photoshop** (sobre una pose ya recortada del arte oficial):
+1. **Línea**: pincel de entintado con presión, 2-4 px por cada 1000 px de alto del personaje; color **gris-marrón oscuro** (`#5D4C41` a `#776E64`, según la época), **nunca `#000000`**.
+2. **Color base plano**, 10-15 tonos por personaje (paleta cerrada, §9.5).
+3. **Sombra**: una forma con **borde duro** si se imita 1999-2010, o **difuminado 8-15 px** (Gaussiano) si se imita Wano, Egghead o Elbaph.
+4. **Luz de Haki o fruta** (si hace falta): modo **Trama** o **Luz suave**, color saturado, con **Desenfoque gaussiano 10-20 px**.
+5. **Viñeta**: óvalo negro al 10-20 % en las esquinas (casi nada para 1999; más para Elbaph).
+6. **Grano de papel** (Filtro > Ruido > Añadir ruido, monocromático, 3-5 %) **sólo si el marco es una página de manga**. Tramas: pinceles del Punto 19.
+7. Recortes, siempre por `v3/integrar.py` (regla 3 del dueño).
+
+**En Blender** (el cartel, el barril, la carta, la madera del barco):
+- **Material *toon***: *Shader to RGB* + *ColorRamp* de dos pasos, para que la sombra salga en dos tonos planos, no PBR.
+- **Contorno**: **Line Art** o **Freestyle**, o *Solidify* invertido con material negro; grosor ~2-3 % del tamaño del objeto en pantalla, **color gris-marrón**, como la línea medida.
+- **Resplandor** de Haki o fruta: *Emission* + *Glare* en composición.
+- **Luz**: HDRI de Poly Haven ([secluded_beach](https://polyhaven.com/a/secluded_beach) para mediodía; [simons_town_harbour](https://polyhaven.com/a/simons_town_harbour) para puerto) + un sol duro; **brillo de día 85-89 %** (§6).
+- **Modelos**: el cartel de lucq22 (572 caras), el barril `Barrel_01` de Poly Haven (2.682), el sombrero de tdonizetti (2.112), la bandera ondeando de DarvinAbraham (2.592) y los modelos CC0 de Kenney, que ya tienen **colores planos de juguete** (§5.1). Texturas: maderas, papel, cuerda y metal oxidado CC0 (§6).
+- **Modelos y *rigs* del personaje: no hay ninguno libre y legal.** Los de Sketchfab que dicen CC BY son **extraídos de juegos o resubidos** (§5.1); los hechos a mano sólo sirven de referencia de pose ⚠️. **El personaje va recortado del arte oficial**, no en 3D.
+- **Cómo queda un *toon shader* de anime en 3D**: los renders de fans de ArtStation (Zoro 3D Lookdev, Chopper de Romain Ménard, §5.1).
+- **Peso** (regla 9): una herramienta pesada a la vez; pruebas a ×2, la final a ×3; nada de modelos de 400.000 caras.
+
+---
+
+## Punto 19 · Texturas 2D (tramas, papel, pinceladas, patrones y logos)
+
+> Nuevo en el repaso del equipo. Imágenes de la wiki miradas y medidas con `estilo.py`; página de origen confirmada por la API de la wiki (inglés y japonés).
+
+### 19.1 Las tramas del manga, medidas
+
+| Qué | Cómo está hecho (estilo.py + mirado) | Imagen · tamaño |
+|---|---|---|
+| **Doble plana «llegan al Nuevo Mundo»** | **La más entramada**: 16,7 % de línea, sin color. **Líneas de velocidad**, **tramado cruzado** en el mar y las sombras, y **trama de puntos en degradado** para el brillo del fondo | [wiki](https://static.wikia.nocookie.net/onepiece/images/7/7e/Straw_Hats_Arrive_in_the_New_World.png) · 1520×1200 · capítulo exacto sin aislar ⚠️ |
+| **Cartel de SE BUSCA clásico** (O3) | Línea normal (7,8 %), **el 41 % en degradado: el papel envejecido se hace con puntos**, no con una foto de papel liso | O3 · 744×1074 ✅ |
+| **Cartel de Wano** (O10) | **Casi sin trama** (3,2 %), casi gris (saturación 7): **tinta a pincel sobre papel claro** | O10 · 825×1075 ✅ |
+| **Bandera pirata** (O13) | Casi toda color plano (57 %), poca línea (4,7 %): **un logo se lee de lejos, sin trama fina** | O13 · 1432×1029 ✅ |
+| **Logo «ONE PIECE» del manga** | 70 % color plano, línea marino `#151924`; **la calavera va dentro de la O**. Distinto del logo del anime (degradado `#1BBEED`→`#185CB2`) | [wiki](https://static.wikia.nocookie.net/onepiece/images/7/75/One_Piece_Logo.png) · 1600×548 ✅ |
+| **Luffy y Zoro, fichas de manga** | Luffy: saturación 74, poca línea (3,8 %). **Zoro: 14 % de línea, casi sin zonas planas** | [Luffy](https://static.wikia.nocookie.net/onepiece/images/7/72/Monkey_D._Luffy_Manga_Pre_Timeskip_Infobox.png) 1115×1500 · [Zoro](https://static.wikia.nocookie.net/onepiece/images/5/5d/Roronoa_Zoro_Manga_Pre_Timeskip_Infobox.png) 1095×1348 ✅ |
+| **Chopper, ficha de manga** | **Trama de puntos digital muy marcada** (22,8 % de línea, la más entramada de las fichas) | [wiki](https://static.wikia.nocookie.net/onepiece/images/c/cd/Tony_Tony_Chopper_Manga_Pre_Timeskip_Infobox.png) · 1158×1300 · cap. 507 o tomo 16 ✅ |
+| **Nami, ficha de manga** | Degradado pintado (51 %), brillo alto: **acuarela clara** | [wiki](https://static.wikia.nocookie.net/onepiece/images/2/2c/Nami_Manga_Pre_Timeskip_Infobox.png) · 1037×1200 · origen entre 4 posibles ⚠️ |
+| **Cartel de Roger a color** (O11) | Pintado (64 %), poca trama | [wiki](https://static.wikia.nocookie.net/onepiece/images/9/90/Gol_D._Roger_Wanted_Poster.png) · 1770×1440 · cap. 957, ep. 958 y [one-piece.com](https://one-piece.com/news/detail/20210117_11971) ✅ |
+| **«Hacha» Morgan, ficha B/N** | Sombreado plano tipo *cel* (67 %), línea `#262626` | [wiki](https://static.wikia.nocookie.net/onepiece/images/f/fc/Morgan_Manga_Infobox.png) · 460×1090 · portada del cap. 4 ✅ |
+| **Nekomamushi, ficha** | Mucha línea (15,1 %), sombreado mixto | [wiki](https://static.wikia.nocookie.net/onepiece/images/6/66/Nekomamushi_Manga_Infobox.png) · 672×1062 · capítulo entre 6 posibles ⚠️ |
+| Viñeta de taberna con un cartel en la pared de madera | **El tramado cruzado marca la madera** (15,9 % de línea) | sin página confirmada ⚠️ · 1250×924 |
+
+**Vocabulario de tramas** (mirado): **puntos en degradado** para un resplandor redondo; **rayado diagonal** para lluvia y velocidad; **tramado cruzado** para el mar y las sombras duras. **Contraste útil:** el cartel «de siempre» se hace con **trama de puntos**; el de Wano, con **pincel seco**.
+
+### 19.2 Patrones de ropa, emblemas y logos
+
+- **Seigaiha** (olas) y **asanoha** (hoja de cáñamo): los patrones japoneses que más se parecen a los estampados de los kimonos de Wano (§9.5) ⚠️ (comparación a ojo). **Texturas libres, CC0 comprobado** en la etiqueta `license` de la página: [freesvg.org/seigaiha-blue](https://freesvg.org/seigaiha-blue) y [freesvg.org/japanese-pattern](https://freesvg.org/japanese-pattern) ✅. Son SVG: se escalan sin perder nitidez.
+- **Emblemas**: la bandera de los Sombrero de Paja (O13, y en 3D con CC BY, §5.1), el sol del Sunny (§5.1) y el **logo plano del manga** (arriba). El símbolo de la Marina aislado no está en la wiki como imagen propia ⚠️.
+
+### 19.3 Grano de papel y pinceles libres
+
+- **Papel y madera**: ya en §6 (Poly Haven `weathered_planks` y ambientCG `Paper001/003/006`, todos CC0).
+- **Pinceles de trama** de **Clip Studio Assets** (la tienda de materiales de la app que usan los estudios de manga): «[halftone shading pack](https://assets.clip-studio.com/en-us/detail?id=1944085)» de jaqdawks, «[Essential Screentone Brushes](https://assets.clip-studio.com/en-us/detail?id=2087033)» de barev y «[Halftones](https://assets.clip-studio.com/en-us/detail?id=1807645)» (tres tamaños sin costura) · gratis, «licencia limitada» (uso dentro de la app) ⚠️ (la ficha de licencia de cada uno no se abrió).
+
+**Las capas completas de la lámina:** 3D con licencia (Punto 3, §5) + texturas reales (Punto 4, §6) + estas texturas 2D. **No falta ninguna.**
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+> Nuevo en el repaso del equipo. Fuentes: la **ficha oficial** de cada uno en one-piece.com ([Luffy](https://one-piece.com/character/luffy/index.html), [Zoro](https://one-piece.com/character/zoro/index.html), [Nami](https://one-piece.com/character/nami/index.html), [Usopp](https://one-piece.com/character/usopp/index.html), [Sanji](https://one-piece.com/character/sanji/index.html), [Chopper](https://one-piece.com/character/chopper/index.html), [Robin](https://one-piece.com/character/robin/index.html), [Franky](https://one-piece.com/character/franky/index.html), [Brook](https://one-piece.com/character/brook/index.html); Jinbe no tiene); el apartado **SBS** de cada página «/Misc.» de la wiki (p. ej. [Luffy/Misc.](https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Misc.)); y **Animate Times**, que junta los SBS por tomo ([página 1](https://www.animatetimes.com/news/details.php?id=1735003864), [página 2](https://www.animatetimes.com/news/details.php?id=1735003864&p=2)). Donde coinciden dos: ✅.
+
+| Quién | Edad | Cumpleaños | Altura | Comida favorita (SBS 45) | Lo que no come (SBS 73) |
+|---|---|---|---|---|---|
+| Luffy | 19 | **5 de mayo** (Día del Niño en Japón) | 174 cm | **toda la carne** | la tarta de cerezas «de cierto sitio» |
+| Zoro | 21 | **11 de noviembre** | 181 cm | arroz blanco, carne de rey marino y lo que acompañe al sake | el chocolate |
+| Nami | 20 | **3 de julio** (7-3, «Na-mi») | 170 cm | **mandarinas** y toda la fruta | la naranja confitada con chocolate |
+| Usopp | 19 | **1 de abril** (día de las bromas) | 176 cm | el paparda de isla de otoño | las setas |
+| Sanji | 21 | **2 de marzo** (3-2, «San-ji») | 180 cm | pasta picante de marisco | la konjac («no alimenta») |
+| Chopper | 17 | **24 de diciembre** | 90 cm | **algodón de azúcar** y todo lo dulce | lo picante |
+| Robin | 30 | **6 de febrero** (2-6, «Ni-ro») | 188 cm | sándwiches | el chicle |
+| Franky | 36 | 9 de marzo | 240 cm | hamburguesas, papas fritas y **cola** | los malvaviscos |
+| Brook | 90 | 3 de abril | 277 cm | curry | los limones («no tiene mejillas para poner cara de ácido») |
+| Jinbe | 46 | 2 de abril | 301 cm | alga *mozuku* en vinagre y fruta | el parfait |
+
+Todo ✅ (ficha oficial + wiki + Animate Times; Jinbe, wiki + Animate).
+
+**El objeto que siempre lleva** ✅: Luffy, **el sombrero de paja** que Shanks le **confió** (tiene que devolverlo) · Zoro, **tres espadas** y el pañuelo negro · Nami, la **Clima-Tact** y el Log Pose · Usopp, **su tirachinas** («no falla nunca») · Sanji, el **cigarro** (pelea con las piernas: «las manos son la vida del cocinero») · Chopper, **el sombrero de Hiluluk** y su maletín · Robin, sus libros · Franky, gafas de sol, bañador y **cola** de combustible · Brook, **violín**, bastón-espada, afro y **taza de té**.
+
+**Cómo se ve cada uno a sí mismo:** Luffy, libre; **no quiere ser héroe** («un héroe reparte su carne; yo me la quiero comer toda», cap. 634) ⚠️ · Zoro, el n.º 2, no «vicecapitán» (SBS 102) ⚠️ · Usopp, quiere ser «un valiente guerrero del mar» ✅ · Sanji, «caballero» que prefiere morir a pegar a una mujer ✅ · Chopper, teme que lo vean como monstruo; quiere ser «la medicina que lo cura todo» ✅ · Franky, orgulloso de ser «pervertido» ✅ · Brook, «Soul King» ✅.
+
+**Su color, su número y su animal** (SBS 20, 40, 59) ✅ — **cada paso de la lámina puede llevar el color de su personaje**:
+
+| | Luffy | Zoro | Nami | Usopp | Sanji | Chopper | Robin | Franky | Brook | Jinbe |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Color | rojo | verde | naranja | amarillo | azul | rosa | morado | celeste | blanco y negro | ocre |
+| Número | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
+| Animal | mono | tiburón | gato | armadillo | pato | reno | grulla | toro | caballo | oso |
+
+**Más SBS** (wiki + Animate Times ✅ salvo lo marcado):
+- **Si fueran del mundo real (SBS 56): Luffy, de Brasil.** Zoro, Japón · Nami, Suecia · Usopp, África · Sanji, Francia · Chopper, Canadá · Robin, Rusia · Franky, Estados Unidos · Brook, Austria · Jinbe, India. **Un guiño para un servidor latino: Oda hizo a Luffy brasileño.**
+- **Si no fueran piratas (SBS 76):** Luffy bombero · Zoro policía · Nami educadora de guardería · Usopp diseñador gráfico · Sanji peluquero · Chopper maestro de primaria · Robin azafata · Franky piloto · Brook detective · Jinbe jefe de estación.
+- **Si fueran una familia (SBS 48 y 99):** Zoro el hermano mayor · Sanji el segundo · Usopp el tercero · Luffy el cuarto · Chopper el pequeño · Nami la hija · Robin la madre · **Jinbe el padre** · Brook el abuelo · Franky «abuela pervertida».
+- **Cómo huele cada uno, según Chopper (SBS 40):** Luffy a carne · Zoro a hierro · **Nami a mandarina y dinero** · Usopp a pólvora · Sanji a tabaco y marisco · Robin a flores · Franky a cola · Brook a té · Jinbe a mar.
+- **A qué hora duermen (SBS 74):** Zoro de 4 a 7, más las siestas · Sanji y Brook de 0 a 5 (los que antes se levantan) · **Chopper de 21 a 7**.
+- **Carrera de 50 metros (SBS 85):** 1 Brook («pesa poco») · … · 5 Zoro («en una carrera más larga se saldría del camino»).
+- **Quién aguanta más el alcohol (SBS 106):** 1 Jinbe · 2 Zoro · **3 Nami** · … · 9 Luffy («prefiere comer») · 10 Chopper.
+- **Lo que se llevaron de Wano (SBS 103):** Luffy *oden* · Zoro sushi · Nami *oshiruko* · Sanji *chawanmushi* · Chopper *daifuku* de fresa.
+- **El plato que mejor cocina cada uno (SBS 79):** Nami, pato con salsa de mandarina · Usopp, *fish and chips* · Brook, **churrasco** · Luffy, «carne cruda en un plato».
+- **Lo que tienen en la cabeza (SBS 59)** ⚠️: Luffy «carne, carne, carne, carne, Rey de los Piratas» · Zoro «espada, espada, fuerza, entrenar, dormir» · Nami «dinero ×4, belleza» · **y en todos, al fondo: «amistad» (仲間)**.
+- **Secundarios** (wiki ⚠️): Law, 191 cm, 6 de octubre, **odia el pan** · Ace, 1 de enero · Shanks, 9 de marzo · Mihawk, vino tinto y huerto · Carrot, zanahorias · Sabo, ramen.
+
+---
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+> Nuevo en el repaso del equipo.
+
+### 21.1 Los números
+
+- **600 millones de tomos en el mundo** (4-mar-2026): 450 en Japón y 150 fuera ✅ ([one-piece.com](https://one-piece.com/news/78258/index.html) + [Nikkei](https://www.nikkei.com/article/DGKKZO94778980U6A300C2CE0000/)).
+- **Récord Guinness** de más copias de una serie de cómic de un solo autor (2015 y 2022) ✅ ([Guinness](https://www.guinnessworldrecords.com/world-records/118397-most-copies-published-by-a-single-author-for-the-same-comic-book-series) + [Hypebeast](https://hypebeast.com/2022/8/one-piece-manga-breaks-guinness-world-record-surpasses-500-million-copies)).
+- **Crunchyroll Anime Awards, «Mejor serie en curso»: 2023, 2024 y 2026** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Continuing_Series) + [Game Rant](https://gamerant.com/one-piece-beats-solo-leveling-crunchyroll-2026-awards-best-continuing-anime/)).
+- **La serie de Netflix fue n.º 1 en 84 países** (2023) ✅ ([GamesRadar](https://www.gamesradar.com/one-piece-netflix-number-one-countries-stranger-things-wednesday/) + [Tom's Guide](https://www.tomsguide.com/news/one-piece-just-broke-netflix-record-held-by-stranger-things-and-wednesday)); la 2.ª, n.º 1 en **Brasil, México, Costa Rica y República Dominicana** ⚠️ ([What's on Netflix](https://www.whats-on-netflix.com/news/top-10-reports/one-piece-season-2-tops-netflix-charts-but-how-do-the-premiere-numbers-compare-to-season-1/)).
+- **Los clips latinos más vistos son de risa**: Bon Clay (ep. 92) **2,69 millones** frente a los 262.509 del «ayúdame» (ep. 37) ✅. **El fan latino busca, sobre todo, reírse con su doblaje.**
+
+### 21.2 Las razones que da la gente
+
+- **Muchos personajes con los que conectar.** Ryuji Kochi (Toei Animation Europe): «muchos personajes únicos, más allá del protagonista, que permiten a las personas conectarse» ⚠️ ([CNN en Español, 15-sep-2023](https://cnnespanol.cnn.com/2023/09/15/por-que-one-piece-manga-exito-fenomeno-cultural-orix)). **Lo confirman los votos**: cada región elige un favorito distinto (§2) ✅.
+- **Sentirse parte de la tripulación.** Diego Cano (pódcast *Radio Pirata*): «**Crea una sensación de pertenencia**… al final los sientes un poco parte de tu vida» ⚠️ (CNN). **Es justo lo que tiene que decir #bienvenidas.**
+- **Libertad y sueños dichos en voz alta**: el Rey de los Piratas es «el más libre del mundo» (cap. 507) ✅; cada tripulante tiene su sueño ✅.
+- **Se entiende de niño y de adulto.** Oda: «Si puedes dibujar algo que los niños entiendan, también será interesante para los adultos» ⚠️ (CNN).
+- **Risa y drama a la vez**: Oda eligió un poder de goma «ridículo» para poder hacer el tonto por seria que se ponga la historia (SBS 65) ⚠️.
+- **Ha crecido con su público**: en Latinoamérica, manga desde 2003, 4Kids en Cartoon Network (2006-2008), Crunchyroll desde 2014, **un canal 24 h en Pluto TV desde 2020**, Netflix (2020) y **Azteca 7** (2022) ✅ Azteca y Netflix / ⚠️ el resto ([wiki en español](https://onepiece.fandom.com/es/wiki/One_Piece_en_Latinoam%C3%A9rica)).
+- **El misterio**: nadie sabe qué es el One Piece; Oda hundió la respuesta en el mar (§14.1) ✅.
+- En Reddit, el hilo «[one of the reason why i fell in love with one piece](https://www.reddit.com/r/OnePiece/comments/1oyo5qm/one_of_the_reason_why_i_fell_in_love_with_one/)» tiene 4.686 votos ⚠️ (título recogido por `recolectar.py`).
+
+**Con quién se identifica la gente:**
+- **Usopp, el más humano**: el débil entre monstruos, con miedo, que se siente una carga ✅ (wiki; hilos de Reddit como «[Why Usopp Might Be The Most Relatable](https://reddit.com/r/OnePiece/comments/1b265ee/why_usopp_might_be_the_most_relatable/)»).
+- **Luffy, el amigo que todos querrían**: 2.º personaje favorito de todo el anime en MyAnimeList ✅.
+- **En Latinoamérica, Zoro y Sanji** son los más votados (2026) ✅; **por qué, no lo encontré** con fuente ⚠️.
+- **Un Luffy mexicano**: Iñaki Godoy, que además se dobla a sí mismo ✅ ([Variety](https://variety.com/lists/one-piece-live-action-cast-netflix/monkey-d-luffy) + [Netflix Tudum](https://www.netflix.com/tudum/articles/one-piece-season-2-eiichiro-oda-inaki-godoy-favorite-moments)).
+
+### 21.3 Las escenas que hacen llorar (con minuto donde se miró)
+
+Dos rankings coinciden arriba: **el adiós al Merry y la muerte de Ace** ✅ ([みんなのランキング](https://ranking.net/rankings/best-onepiece-touching-scene), 729 votantes, y [Mirtomo](https://mirtomo.com/one-piece-best-scene/), ⚠️ cada uno por separado).
+
+| Escena | Minuto (vídeo mirado) | Qué pasa y por qué duele | Música | Cómo está dibujada |
+|---|---|---|---|---|
+| **Muerte de Ace**, ep. 483 | 10:00 · 17:30 · **20:00** · 21:20 · 22:00 ([copia en Internet Archive](https://archive.org/details/one-piece-0001-1000-1999-horrible-subs)) | Akainu lo atraviesa por proteger a Luffy; muere sonriendo, con la mano en la cara de Luffy («Gracias… por quererme», según la wiki) | ⚠️ no identificada | **Cielo blanco quemado por el humo**; primer plano ensangrentado; la mano que se afloja; **Luffy de espaldas, en silencio**, frente al mar |
+| **Funeral del Merry**, ep. 312 | [0:14-0:24](https://www.dailymotion.com/video/x9kpldw?start=14) · [0:26-0:30](https://www.dailymotion.com/video/x9kpldw?start=26) · [1:06-1:10](https://www.dailymotion.com/video/x9kpldw?start=66) | El barco que los llevó desde el principio se despide: «Muchas gracias por haberme cuidado todo este tiempo» (subtítulo de España) | «**Mother Sea**» (la de la tristeza) ⚠️ | **Fuego naranja `#DA8730`, nieve y cielo lavanda**; Luffy llora apretando los dientes; Nami, Chopper y Robin lloran |
+| **«Luffy… ayúdame»**, ep. 37 | [0:01-0:05](https://www.youtube.com/watch?v=M-jKhyF1q20&t=1) · **[1:07-1:09](https://www.youtube.com/watch?v=M-jKhyF1q20&t=67)** · [1:15](https://www.youtube.com/watch?v=M-jKhyF1q20&t=75) · [1:25](https://www.youtube.com/watch?v=M-jKhyF1q20&t=85) (clip latino oficial) | Nami se clava un cuchillo en el tatuaje de Arlong y por fin pide ayuda; Luffy le pone el sombrero | «Overtaken» en el paseo a Arlong Park ✅ | Detalle de manos; **el ala del sombrero tapa los ojos**; Luffy grita al cielo con los puños arriba |
+| Sanji se despide de Zeff, ep. 30 | ⚠️ sin mirar | Se arrodilla y le da las gracias por todo | ⚠️ | ⚠️ |
+| Chopper deja a Kureha, ep. 90 | ⚠️ sin mirar | Los cerezos de Hiluluk hacen nevar rosa | ⚠️ | ⚠️ |
+| Robin: «¡Quiero vivir!», ep. 278 | ⚠️ sin mirar | Pide ayuda por primera vez | ⚠️ | ⚠️ |
+| Zoro: «Aquí no pasó nada», ep. 377 | ⚠️ sin mirar | Carga con el dolor de Luffy; en latino: «¡Te daré mi cabeza en su lugar!» (§10.2) | ⚠️ | ⚠️ |
+| El adiós a Vivi (ep. 129), Jinbe levanta a Luffy (ep. 505), Corazón y Law (ep. 706), Bell-mère (ep. 36) | ⚠️ sin mirar | En el top 10 de Mirtomo | ⚠️ | ⚠️ |
+
+**Cómo reaccionó la gente:** el clip latino oficial del ep. 37 se llama «**Esta escena duele igual en japonés y en latino 😭**» (262.509 visitas) ✅; el hilo «[One of the best scene in Anime History "nothing happened"](https://www.reddit.com/r/OnePiece/comments/1gmam7k/one_of_the_best_scene_in_anime_history_nothing/)» ⚠️. Los comentarios más votados de cada vídeo no se pudieron leer (YouTube pedía iniciar sesión) ⚠️.
+
+**Lo que sí sirve para #bienvenidas:** varias de las que hacen llorar son **momentos de «me uno a la tripulación»** (Sanji deja el Baratie, Chopper deja a Kureha, Robin pide ir con ellos). **En One Piece, unirse emociona**: el que llega deja algo atrás y le despiden con cariño. Un texto de bienvenida puede tocar esa cuerda **sin ponerse triste**. Las despedidas y muertes, **nunca** en esta lámina.
+
+### 21.4 Las que hacen reír o gritar de emoción
+
+- **Reír**: Bon Clay en el ep. 92 (el clip latino más visto, 2,69 M, [0:45](https://www.youtube.com/watch?v=d0ocnJWtTvw&t=45)) ✅; el cartel dibujado de Sanji ✅; Chopper bailando «¡No me alegra!» ✅; Sogeking, al que Luffy y Chopper no reconocen ✅; Zoro perdido ✅; Brook y sus chistes ✅; Luffy y Zoro riéndose de la voz de Pica (1,9 M, Punto 22) ✅.
+- **Gritar de emoción**: el barril (ep. 53, 22:32) ✅; el **Gear 5** (ep. 1071), con vídeos de reacción como «[Españoles reaccionan a Gear 5](https://www.youtube.com/watch?v=CDXVkpgssbA)» (83.993) ✅; el «Roof Piece» (ep. 1015), tendencia mundial en X ✅; Shanks frenando a Ryokugyū con su haki (ep. 1082, [0:39](https://www.dailymotion.com/video/x8pee1a?start=39)) ✅.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+> Nuevo en el repaso del equipo. YouTube por la búsqueda de `yt-dlp` (da canal, vistas y duración aunque el vídeo pida iniciar sesión) y título confirmado por **oEmbed**; TikTok, por su página pública. **Vistas del 24-sep-2026.** ✅ = existe, dos lecturas.
+
+### 22.1 Fan dubs en español
+
+| Canal | Qué doblan | Enlace | Vistas |
+|---|---|---|---|
+| **Humbertory** (latino) | «Boa Hancock conoce a Nami y Robin», *comic dub* | [YouTube](https://www.youtube.com/watch?v=Owi62znIZDA) (1:36) | **1.423.188** |
+| Humbertory | «Boa Hancock conoce a Uta» | [YouTube](https://www.youtube.com/watch?v=wULfYhtpYDE) (0:56) | 605.975 |
+| **Mend VA Dubs** | «Akainu recrimina a los ancianos del Gorosei» (escena aún sin doblar) | [YouTube](https://www.youtube.com/watch?v=018fPPgkRYg) (1:27) | 141.882 |
+| Amyyanyfandub_latino | «Conociendo al novio», cómic LawLu | [YouTube](https://www.youtube.com/watch?v=2GGCldx4rjk) (1:26) | 139.164 |
+| Alex dubs | «Luffy vs Sanji» | [YouTube](https://www.youtube.com/watch?v=04kDW0r_KTk) (2:28) | 71.286 |
+| MerryRain15 | «La despedida de Perona» · «La Alianza» | [YouTube](https://www.youtube.com/watch?v=MQhfj7oIrG4) (2:07) · [YouTube](https://www.youtube.com/watch?v=9IrjKHNUbrE) | 64.791 · 20.122 |
+| Redkuni | «One Piece AU de escuela» · cómics de Shanks y Buggy | [YouTube](https://www.youtube.com/watch?v=p82RL7aF1Wg) (5:25) · [YouTube](https://www.youtube.com/watch?v=b3f2ZaungH4) | 64.019 · 26.088 |
+| Escardi Fandubs (España) | «Luffy encuentra el One Piece» | [YouTube](https://www.youtube.com/watch?v=MMhtba4M7oQ) (1:42) | 73.465 |
+| RdxFanDub | Opening 14 cantado | [YouTube](https://www.youtube.com/watch?v=GKbPhtPgVD4) (2:30) | 20.499 |
+| Edgar Tach | «Emet recuerda a Joy Boy» (Egghead, aún sin doblar) | [YouTube](https://www.youtube.com/watch?v=W5zYm3DiY64) (1:25) | 5.647 |
+| Jorge Valladares | Su voz para Chao (Dressrosa), en TikTok | [TikTok](https://www.tiktok.com/@jorgelixir_doblajes/video/7474058024148126981) (0:34) | 49.600 |
+| Firgun Fandubs | «Cap 411 – La aparición de Boa Hancock», con reparto de fans | [TikTok](https://www.tiktok.com/@firgun_dubs/video/7345159186239474949) (2:05) | 2.566 |
+| Andrés GLT | «El Rey del Fútbol de los Sueños» (2010) | [Dailymotion](https://www.dailymotion.com/video/x3llbh1) (5:43) | 462 |
+| «One piece doblaje latino fandub» | Proyecto con **castings por guion** | [Facebook](https://www.facebook.com/OnePieceLatinoFandub/) | ⚠️ (pide iniciar sesión) |
+
+**Lo que se ve:** lo que más se dobla son **cómics de fans** (parejas, Hancock celosa, AU de escuela) y **escenas que el doblaje oficial aún no alcanza** (Gorosei, Egghead, Joy Boy). El formato que funciona: **1-2 minutos**, título «… | Fandub Español Latino». **Idea para el servidor: retos de doblaje con escenas que aún no tienen doblaje latino.**
+
+### 22.2 Clips del doblaje oficial que la comunidad vuelve a subir
+
+«Luffy insulta a Zoro», ep. 130 ([1.856.752](https://www.youtube.com/watch?v=N1P-2Kmw6K8)) · **Luffy y Zoro se burlan de la voz de Pica** ([1.906.664](https://www.youtube.com/watch?v=Q7Js9yOaJsc); idioma sin comprobar ⚠️; la copia latina, [16.610](https://www.youtube.com/watch?v=EL6UpVDqFgE)) · «La hija de Sanji», ep. 217 ([737.203](https://www.youtube.com/watch?v=XIt_scFYCqQ)) · «IMITACIONES» ([454.005](https://www.youtube.com/watch?v=VsLT1piHOz0)) · Robin se une ([398.844](https://www.youtube.com/watch?v=UM0Aox4qPQ8)) · Luffy invita a Sanji ([370.146](https://www.youtube.com/watch?v=Vx5j-CufRi4)) · Luffy canta «El Sake de Binks» a Laboon ([215.434](https://www.youtube.com/watch?v=erYbjXSH4rE)) · el opening latino de la tele, versión 4Kids ([976.072](https://www.youtube.com/watch?v=9tm-F6G-Q6c)) ✅. **Chistes internos que salen:** la voz de Pica, «cabeza de epazote», «Aquí no pasó nada», «¡Síganme los buenos!».
+
+### 22.3 Covers de openings y canciones en español
+
+| Canción | Quién | Enlace | Vistas |
+|---|---|---|---|
+| «El Sake de Binks», letra latina | Sebas García | [YouTube](https://www.youtube.com/watch?v=IlHCsYnNm8A) | **3.834.022** |
+| «Fleeting Lullaby» (*Film Red*), letra latina | Cheshire Cat | [YouTube](https://www.youtube.com/watch?v=pKikkH2nDjY) | 3.455.555 |
+| «Binks no Sake» | **Miree** (España) | [YouTube](https://www.youtube.com/watch?v=xdulr_b-M5Q) | 1.027.578 |
+| Opening 20 «Hope» | The Covers Duo | [YouTube](https://www.youtube.com/watch?v=EfzUGdKPN_A) | 706.029 |
+| Opening 13 «One Day» · «Share the World» | **Omar Cabán «YuriFoX»** | [YouTube](https://www.youtube.com/watch?v=Q7Sg_Ti1H-w) · [YouTube](https://www.youtube.com/watch?v=dIoqbvVPF2k) | 688.852 · 539.898 |
+| «Backlight» (*Film Red*) | Danie Green | [YouTube](https://www.youtube.com/watch?v=fg-XNWfH62o) | 591.891 |
+| Opening 16 «Hands Up!» · OP 6 · OP 1 · OP 13 · OP 2 | **IG Studios** (México) | [OP 16](https://www.youtube.com/watch?v=haTqCIyWliE) · [OP 6](https://www.youtube.com/watch?v=eK8AoEp17KQ) · [OP 1](https://www.youtube.com/watch?v=NY_YcMScv-g) · [OP 13](https://www.youtube.com/watch?v=FB7e7NHeXnY) · [OP 2](https://www.youtube.com/watch?v=F_wslIQfFik) | 378.505 · 318.002 · 187.929 · 171.720 · 93.360 |
+| Opening 1 «We Are!» completo | David Delgado | [YouTube](https://www.youtube.com/watch?v=KGILTA08c4k) | 255.115 |
+
+**IG Studios** tiene casi todos los openings en latino: es la referencia de «cover en español» de la comunidad ✅.
+
+### 22.4 Canciones, raps y corridos originales en español
+
+«**Somos Mugiwaras** · El himno de los Sombrero de Paja», de **The Ghost Writer** ([YouTube](https://www.youtube.com/watch?v=LK7ariPYZJ4)) — **20.145.612** · «Luffy vs Ichigo», Épicas Batallas de Rap del Frikismo ([19.133.454](https://www.youtube.com/watch?v=GUSShX8ha_o)) · «Rap One Piece · Mugiwara», Sharkness ([6.446.888](https://www.youtube.com/watch?v=dGCLzOKK_g4)) · «El Barco del Rey», MelodicMythos ES ([6.303.844](https://www.youtube.com/watch?v=1q62t3UdPnY)) · «Marineford Rap», Kballero ([5.909.162](https://www.youtube.com/watch?v=jywDOsagH_I)) · «**Juramento** · La canción de Roronoa Zoro», The Ghost Writer ([5.413.383](https://www.youtube.com/watch?v=8gozfCr6kiU)) · «No toques a nuestro capitán», Meenssy ([5.236.417](https://www.youtube.com/watch?v=V9o2B4qb0MQ)) · «Aquí no ha pasado nada», rap de Zoro, Gomu Flow ([48.410](https://www.youtube.com/watch?v=p1OvV3g7dZg)) · **corridos**: «Luffy – Sombrero de Paja», Press Start Corridos ([14.508](https://www.youtube.com/watch?v=kVzMihNCYXA)) y «El corrido de Luffy», Mercy ONE ([11.566](https://www.youtube.com/watch?v=lZ4lzTdBc4M)) ✅.
+
+**Dato para el servidor:** la canción de fans en español más vista es **un himno de tripulación** («Somos Mugiwaras», 20 millones). **El tema que une a la comunidad es ser tripulación**, justo lo que dice #bienvenidas.
+
+### 22.5 Parodias y memes hispanos
+
+«El chico de goma que quería ser pirata», resumen de Ahora te cuento ([6.728.352](https://www.youtube.com/watch?v=CqqUPPA1gfI)) · «Los Sombrero de Paja llegan a México», MemoWickVR ([693.014](https://www.youtube.com/watch?v=3oYVkG34jk4)) · «¡Luffy conoce a Zoro! · One Piece si tuviera buenos diálogos», MemoWickVR ([548.756](https://www.youtube.com/watch?v=ZpqVJTNnan4)) · «Si One Piece fuese dominicano», Naruto Dominicano ([294.897](https://www.youtube.com/watch?v=5_FZCV7UuNg)) · «El Gomas», parodia del opening con el doblaje de España ([98.903](https://www.youtube.com/watch?v=-gI3gjhJXUE)) · **la polémica del Sanji canario** de Netflix, UmaruYT ([TikTok, 727.900](https://www.tiktok.com/@umaru.yt/video/7274537116422507809)) ✅.
+
+### 22.6 Los actores y la comunidad
+
+- Una fan conoce a **Desireé González** (Luffy) en La Mole, CDMX ([TikTok, 434.700 vistas](https://www.tiktok.com/@pao.black_/video/7482124709023255814)) · **Dafnis Fernández** en la Concomics de Guadalajara ([TikTok](https://www.tiktok.com/@andresfutbolmivida/video/7370824691352767750)) · **Mireya Mendoza** cuenta qué sintió al ser Luffy ([TikTok, 83.300](https://www.tiktok.com/@tiendaspanining/video/7447271354841320710)) · «Entrevista especial con Desirée González» ([Frikeandoo, 44:09](https://www.youtube.com/watch?v=gb_vZWO5liw)) ✅.
+- Noticias del doblaje: **One Piece Doblaje Latino News** en X ([@onepiecedoblat](https://x.com/onepiecedoblat)), **X-Tops** y **The Hikarino** ✅.
+- **Eventos 2026:** preestreno doblado en la CCXP México (25-abr); Toshio Furukawa (seiyū de Ace) en la AniMole 4 ([ANMTV](https://www.anmtvla.com/2026/08/mexico-animole-4-contara-con-la.html)); Iñaki Godoy de fiesta con fans en Ciudad de México ([¡Hola!](https://www.hola.com/us-es/entretenimiento/20260226886033/inaki-godoy-one-piece-netflix-fans-tacos-lucha-libre-entrevista/)) ⚠️ cada uno.
+- **Reddit en español es pequeño** (r/OnePiece_es, 560; r/OnePieceEsp, 465, por Arctic Shift): **la comunidad hispana vive en TikTok, YouTube, Facebook y X** ✅.
+
+---
+
+## Punto 23 · Colaboraciones y cruces
+
+> Nuevo en el repaso del equipo. Sirven sobre todo para el bot y las láminas 2: **ninguna encaja como objeto central de #bienvenidas**, que sigue siendo el cartel de SE BUSCA.
+
+**Marcas de moda:**
+- **BAPE × One Piece**, camisetas, 6-may-2017 ✅ ([us.bapepirate.com](https://us.bapepirate.com/blogs/news/a-bathing-ape-x-one-piece) + [tienda de BAPE](https://en.jp.bape.com/collections/one-piece)).
+- **Uniqlo UT × One Piece**, colaboración de años: **primavera-verano 2026 con arte de Elbaph** ([Hypebeast](https://hypebeast.com/2026/4/one-piece-uniqlo-ut-spring-summer-ss-2026-collaboration-collection-release-info)), Egghead (abr-2025), «UT Archive» con 6 diseños viejos (jun-2025) y el 100.º aniversario de Shueisha (mar-2026, [soranews24](https://soranews24.com/2026/03/26/uniqlo-announces-new-t-shirts-for-one-piece-naruto-and-more-for-manga-publishers-100th-birthday/)) ✅ (+ [uniqlo.com](https://www.uniqlo.com/es/es/spl/ut/one-piece)). **Arte nuevo con poses y ropa de Elbaph.**
+- One Piece × Levi's o × Vans propia: **no la encontré** (sólo BAPE con ellas).
+
+**Comida rápida:** **McDonald's × SpongeBob × One Piece** (ago-sep 2026): 15 juguetes del Happy Meal, cada personaje de Fondo de Bikini **vestido de un Sombrero de Paja** (Bob Esponja = Luffy, también en Gear 5; Patricio = Zoro; Arenita = Nami; Calamardo = Sanji; Gary = Chopper) ✅ ([wiki](https://onepiece.fandom.com/wiki/SpongeBob_SquarePants_x_One_Piece) + [ANN, 1-sep-2026](https://www.animenewsnetwork.com/interest/2026-09-01/one-piece-spongebob-squarepants-fuse-in-new-mcdonald-happy-meal-commercial/.241181)). **No en Japón** ⚠️ ([Game Rant](https://gamerant.com/one-piece-spongebob-mcdonalds-toys/)). *Guiño posible: la biblia 15 del servidor es de Bob Esponja.*
+
+**Videojuegos y gachas:**
+- **Fortnite: NO es oficial.** Sólo filtraciones de una piel de Luffy desde feb-2024 ⚠️ ([Dexerto](https://www.dexerto.com/fortnite/fortnites-one-piece-crossover-skins-3172559/) + [esports.gg](https://esports.gg/news/fortnite/fortnite-x-one-piece-collab-leaks-what-we-know-so-far/)). **No darlo por hecho en ninguna lámina.**
+- **Monster Strike × *Film Red*** (20-31 ago-2022, 10 personajes) ✅ ([QooApp](https://news.qoo-app.com/en/post/112106/monster-strike-one-piece)); la misma campaña llegó a **Puzzle & Dragons** y **Granblue Fantasy** ✅ ([QooApp](https://news.qoo-app.com/en/post/108990/one-piece-film-red-collab-2)).
+- **Dragon Ball Z × One Piece: Battle Experience** (2008), juguete-consola de Bandai: se juega gritando «Kamehameha» o «Gomu Gomu no…» a un micrófono ✅ ([wiki](https://onepiece.fandom.com/wiki/Dragon_Ball_Z_x_One_Piece:_Battle_Experience)). **Un juego de gritar a un micrófono: muy de un servidor de doblaje.**
+
+**Cruces oficiales de anime y manga:**
+- **Cross Epoch** (25-dic-2006): *one-shot* de **Oda y Toriyama** con personajes de las dos series ✅ ([wiki](https://onepiece.fandom.com/wiki/Cross_Epoch)).
+- **Toriko × One Piece × Dragon Ball Z**: eps. 492, 542 y 590 ✅ ([wiki, ep. 590](https://onepiece.fandom.com/wiki/Episode_590) + [ep. 492](https://onepiece.fandom.com/wiki/Episode_492)). *Artbook* **One Piece × Toriko JHF 3D Comics** (2011) ✅. **One Piece × Boruto Beginner's Book** (2019) ⚠️.
+
+**Eventos, parques y tiendas:**
+- **Universal Studios Japan**: el **«One Piece Premier Show»** cada año desde 2007 ✅ ([wiki](https://onepiece.fandom.com/wiki/One_Piece_Premier_Show)); en verano, un «One Piece × Story Ride» en Elbaf ✅ ([usj.co.jp](https://www.usj.co.jp/company/company_e/news/2025/pdf/0402_e.pdf)).
+- **ONE PIECE DAY**: 2025 en Tokyo Big Sight con la exposición «EPISODE OF ELBAPH»; **2026 el 22-23 de agosto en Makuhari Messe** (ahí salió el resultado de la encuesta) ✅ ([one-piece.com](https://one-piece.com/news/74741/index.html) + [onepiece-day](https://onepiece-day.onepiece-base.com/exhibition)). **ONE PIECE EMOTION** (25 años del anime), Osaka, nov-2025 ⚠️.
+- **Mugiwara Store**: 10 tiendas oficiales en Japón ⚠️; el **Cafe Mugiwara** (café-biblioteca con más de 600 tomos) ✅ ([otakumode](https://otakumode.com/news/57e1e402a2e5a47e0a87b5a0/Cafe-Mugiwara-Photo-Report)), que habría cerrado en 2026 ⚠️. Antes, el **Tokyo One Piece Tower** (2015-2020) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower)); J-WORLD Tokyo (2013-2019) ✅.
+
+**Figuras oficiales (su pose como referencia 3D):** no se buscaron en este repaso ⚠️. **Cosplay:** Openverse tiene fotos con licencia libre de cosplay y exposiciones (recogidas por `recolectar.py`), sin revisar una a una ⚠️. **Lo más cercano a «volumen real»**: el decorado de Netflix (madera, cuerda, mascarón; §6 y §12.3) y los actores recreando escenas del manga ([Reddit, 1.528 votos](https://www.reddit.com/r/OnePiece/comments/1uvduii/the_actors_from_the_liveaction_onepiece_movie/)) ⚠️.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+> Nuevo en el repaso del equipo.
+
+**Lo que el propio Oda reconoce:**
+- **Toriyama y *Dragon Ball*, la influencia más grande**: «copié una y otra vez el dibujo de Toriyama, y esa costumbre se me quedó para siempre» ✅ ([ComicBook](https://comicbook.com/anime/news/one-piece-creator-talks-his-history-with-dragon-ball-the-influence-of-toriyama-is-by-far-the-greatest/) + citas japonesas). En el primer *Color Walk* (2001) le confesó que lo que más le impactó fueron **las manos y las axilas** de sus personajes ✅ ([ScreenRant](https://screenrant.com/one-piece-oda-compliment-toriyama-dragon-ball-art/)). Hicieron juntos *Cross Epoch* (Punto 23).
+- ***Kinnikuman***, el otro manga que más le gusta ⚠️ (citas de segunda mano; no encontré la entrevista original).
+- ***Vicke el vikingo*** (anime de 1974), **el origen de que le gusten los piratas**: «me gustan desde siempre, empezando por Bicke»; le hizo ver que «los vikingos también son un tipo de pirata» ✅ ([SlashFilm](https://www.slashfilm.com/881423/the-forgotten-anime-classic-that-inspired-one-piece/)). **Y el arco actual es Elbaph, la tierra de los gigantes vikingos.**
+
+**Obras de tono parecido** (recomendaciones de usuarios de [AniList](https://anilist.co/anime/21), votos) ⚠️ una fuente: *Hunter x Hunter* (2011) 2.188 · *Naruto* 1.015 · *Naruto Shippuden* 674 · *Black Clover* 454 · *Dragon Ball* 394 · *Dragon Ball Z* 249 · *Bleach* 225 · *Fairy Tail* 194 · *Fullmetal Alchemist: Brotherhood* 117. Comparten el *shōnen* de aventura por arcos y el «equipo de amigos cada vez más fuerte». **One Piece es el único ambientado en el mar**: su objeto (barco, cartel pirata, carta náutica) no choca con ninguno.
+
+**Qué otras láminas del servidor se le parecen (para no repetir):** se revisaron los conceptos de Naruto (30), Hunter x Hunter (36), Jujutsu Kaisen (32), My Hero Academia (25), Demon Slayer (31), JoJo (28), Pokémon (07) y Solo Leveling (03) ✅ (leídos en sus biblias; no las 36).
+- **Solo Leveling (03)** usa en su concepto B **un tablón con papeles y chinchetas** del gremio: lo más cercano a «un muro con papeles clavados». **Para no confundirlos: el de One Piece es madera de barco vieja y clavos de hierro, papel envejecido y roto en los bordes (O3-O9), nunca corcho ni pizarra.**
+- **My Hero Academia (25)** usa un cuaderno que el fandom conoce de memoria; aquí esa función la cumple el cartel de SE BUSCA, aún más reconocible.
+- JoJo (flecha «To Be Continued»), Naruto (rollo y aula) y Pokémon (Pokébola 3D): **sin solape**.
+- **Bob Esponja (15)** comparte colaboración con One Piece (McDonald's, 2026): un guiño posible, no un choque.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+> Nuevo en el repaso del equipo. Reglas y símbolos verificados en el wikitexto de la One Piece Wiki (API, `action=parse`), que cita el capítulo donde se establece cada cosa ✅.
+
+### 25.1 Las reglas del mundo, en cinco líneas
+
+1. Un océano gigante partido por una tierra continua, la **Red Line** («Línea Roja» ⚠️), y cruzado por la **Grand Line** («**Gran Ruta Marítima**» ✅), la ruta «cementerio de piratas» ([wiki](https://onepiece.fandom.com/wiki/Grand_Line)).
+2. El **Calm Belt**, un mar sin viento lleno de Reyes Marinos, separa la Grand Line de los cuatro mares (East Blue = «**Mar del Este**» ✅) ([wiki](https://onepiece.fandom.com/wiki/Calm_Belt)).
+3. Gobierna el **Gobierno Mundial**, más de 170 países con sede en **Mary Geoise**, con los **Cinco Ancianos**, **Imu** detrás y los **Nobles Mundiales** como clase privilegiada ([wiki](https://onepiece.fandom.com/wiki/World_Government)).
+4. Tres grandes poderes: **la Marina**, los **Cuatro Emperadores** y (hasta que se abolieron) los **Siete Corsarios** ([wiki](https://onepiece.fandom.com/wiki/Three_Great_Powers)).
+5. Una **Fruta del Diablo** da un poder único a cambio de **no volver a nadar**; cuando su dueño muere, el poder renace en otra fruta ([wiki](https://onepiece.fandom.com/wiki/Devil_Fruit)).
+
+### 25.2 La historia por arcos (sólo lo que está en esta biblia)
+
+La **premisa** ✅ ([AniList](https://anilist.co/anime/21)): Gol D. Roger, el Rey de los Piratas, dijo antes de ser ejecutado que su tesoro, **el One Piece**, existe; empieza la **Gran Era de los Piratas**. Luffy sale al mar en un barril para ser el próximo Rey (ep. 1).
+
+| Arco | Episodios (donde están comprobados) | Momentos clave | Dónde se cita |
+|---|---|---|---|
+| **East Blue** | desde el 1; Loguetown en el 53 (el final exacto no se buscó ⚠️) | Luffy sale del barril (ep. 1) · se unen Zoro, Nami, Usopp y Sanji · Sanji deja a Zeff (ep. 30) · «Luffy… ayúdame» y el sombrero (ep. 37) · **primer cartel, 30 millones** (ep. 45) · **el juramento del barril** en Loguetown (ep. 53) | §4, §12 |
+| **Alabasta** (con Drum) | ⚠️ sin rango | Chopper se une y se despide de Kureha (ep. 90) · Bon Clay (ep. 92) · Vivi y Crocodile, «Los Barrocos» · la **X en el brazo** al despedir a Vivi (O24, ep. 129) · **Robin pide unirse** (ep. 130) | §4, §10 |
+| **Skypiea** | ⚠️ sin rango | La campana de oro (10.ª escena más emotiva en Japón) | Punto 21 |
+| **Water 7 / Enies Lobby** | ⚠️ sin rango | Usopp se pelea con Luffy por el Merry · **Robin: «¡Quiero vivir!»** (ep. 278) · **funeral del Merry** (ep. 312) · Franky construye el Sunny | §4, §9 |
+| **Thriller Bark** | ⚠️ sin rango; con este arco cambian las voces latinas de Luffy y Zoro (ANMTV, §10) | **Brook se une** («¡Únete a nosotros!») · **Zoro: «Aquí no pasó nada»** (ep. 377) | §10, Punto 21 |
+| **Sabaody, Impel Down, Marineford** | Law aparece en el 392 | **Muerte de Ace** (ep. 483) · Jinbe levanta a Luffy (ep. 505) · **el salto de dos años**; Zoro pide a Mihawk que lo entrene | §4, §10 |
+| **Reencuentro e Isla Gyojin** | el reencuentro tras el salto, desde el 517 (OP 15, «We Go!») | Los nueve juntos otra vez (OP 15, 1:13); Luffy invita a Jinbe; «no quiero ser héroe» (cap. 634) | §11, Punto 20 |
+| **Punk Hazard, Dressrosa** | Dressrosa 629-750 (tanda de Netflix ⚠️) | Alianza con Law · Doflamingo · el cartel de Sanji pasa a **ONLY ALIVE** | §10.2, §8 |
+| **Zou, Whole Cake** | Zou 751-771; Whole Cake desde el 772 (tandas de Netflix ⚠️; Netflix llega al 877) | Carrot · Luffy va a por Sanji · el «otro Luffy» del espejo | §10.2 |
+| **Wano** | 892-1085 | «Luffytaro», «Zorojuro», «O-Nami» (kimonos) · **Jinbe, el n.º 10** · el «Roof Piece» (ep. 1015) · **Gear 5** (ep. 1071) · el ドン!! se vuelve べべん!! · recompensas nuevas (cap. 1058) | §4, §8, §9 |
+| **Egghead** | desde el 7-ene-2024 (OP 26 en el 1089) | Vegapunk · trajes SSG · la ciudad del futuro en llamas | §12.3 |
+| **Elbaph** (el actual) | desde el 5-abr-2026; ep. 1171 el 24-sep-2026 | La tierra de los gigantes vikingos · Loki encadenado · ropa vikinga | §3.2, §12.3 |
+
+**Lo que falta** ⚠️: los rangos exactos de episodios de East Blue a Isla Gyojin y el resumen de cada arco no se buscaron en este repaso; sólo se juntó lo que ya estaba citado. No se inventa.
+
+### 25.3 Emblemas y objetos icónicos
+
+- **Jolly Roger**: cada tripulación tiene el suyo; el de los Sombrero de Paja es una calavera sonriente con el sombrero y dos tibias, **dibujado por Luffy** (O13, O14) ✅ ([wiki](https://onepiece.fandom.com/wiki/Jolly_Roger)). **La insignia que un fan reconoce al instante.**
+- **Log Pose y Eternal Pose**: la brújula no sirve en la Grand Line; el Log Pose apunta a la isla siguiente; Nami lo lleva en la muñeca (O19, O20) ✅ ([wiki](https://onepiece.fandom.com/wiki/Log_Pose)). **Un accesorio pequeño que cabe en cualquier concepto.**
+- **Vivre Card**: papel que arde despacio y **siempre señala hacia su dueño** ✅ ([wiki](https://onepiece.fandom.com/wiki/Vivre_Card)). **Una «carta de presentación mágica»: otro objeto posible para el paso «preséntate».**
+- **Berry (฿)**: una B con dos rayas ✅ ([wiki](https://onepiece.fandom.com/wiki/Belly)); en latino, «berries».
+- **Poneglyph**: bloques de piedra indestructibles con la historia escrita ✅ ([wiki](https://onepiece.fandom.com/wiki/Poneglyph)). **«Piedras con reglas escritas»: idea para #reglas.**
+- **Den Den Mushi**: caracol-teléfono («Caracol Transmisor» en latino ⚠️) ✅ ([wiki](https://onepiece.fandom.com/wiki/Den_Den_Mushi)); el del barco lleva el sombrero en la concha (O21). **Un icono posible para un canal de avisos.**
+- **El cartel de SE BUSCA** (§8) y **el sombrero de paja** de Shanks (Punto 20).
+
+### 25.4 Vocabulario que un fan reconoce al instante
+
+`Grand Line` (Gran Ruta Marítima) · `New World` (Nuevo Mundo) · `Paradise` · `Calm Belt` · `Red Line` · `nakama` (en latino, «compañero») · `Yonkō` (Cuatro Emperadores) · `Shichibukai` (Siete Corsarios) · `Marine` · `Cipher Pol` · `World Noble` · `Devil Fruit` con sus tres familias **Paramecia**, **Zoan** y **Logia** ✅ · `Haki` con sus tres tipos, **observación**, **armadura** y **el del rey** ✅ ([wiki](https://onepiece.fandom.com/wiki/Haki)) · `Will of D.` («la Voluntad de la D.») ✅ ([wiki](https://onepiece.fandom.com/wiki/Will_of_D.)) · `Pirate King` (Rey de los Piratas) · `One Piece` · `Laugh Tale` (la última isla).
+
+---
+
 ## 16 · Tres conceptos de lámina
 
 Los tres son distintos: un **muro de carteles**, una **carta náutica
@@ -1578,13 +1970,14 @@ sobre una mesa** y un **barril en la cubierta**.
   - Guiño para fans: un cartel de **Law** medio tapado detrás (5.º mundial, §9).
   - Cada cartel con su «DEAD OR ALIVE» y «MARINE» (para que un fan lo
     crea), y el texto corto del paso en el hueco de la recompensa.
-- **Personaje:** **Luffy**, pose 1403 (mano en el sombrero) o **P1**
-  (mano abierta y sonrisa de ojos cerrados: la de «¡bienvenido!»), a la
+- **Personaje:** **Luffy**, pose **P43** (repaso del equipo: el *eyecatcher* oficial del ep. 1000,
+  **sonrisa enorme de ojos cerrados, de cara, delante de su propio cartel**, 2560×1440; mejor que
+  P1, que es una estatua de cera) o 1403 (mano en el sombrero), a la
   izquierda y grande, de cintura para arriba **pero con el brazo
   apoyado en el mástil** (nada de brazos que salen de la nada).
   **ドン!!** a su lado.
 - **Cómo habla:** globo ancho de manga: «¡Shishishi! ¡Ya eres de la
-  tripulación!». Comic Neue; ドン!! en Dela Gothic One.
+  tripulación!» (es su chiste: «rechaza tu rechazo», §14.1). Comic Neue; ドン!! en Dela Gothic One.
 - **Dónde va cada texto:** título «BIENVENIDO A BORDO» arriba, en la
   letra del logo (sin tildes). Pasos en los carteles: «WANTED» y
   nombres en Tinos Bold comprimida, «DEAD OR ALIVE» en Crimson Pro Black (§7).
@@ -1593,6 +1986,15 @@ sobre una mesa** y un **barril en la cubierta**.
   la bandera pirata cruza los carteles; una **cuerda** desenfocada
   delante; salpicaduras de mar; el sombrero de paja real (Sketchfab)
   colgado de un clavo en primer plano.
+- **Repaso del equipo (24-sep):** el cartel central puede decir **«SE BUSCA / vivo o muerto»**:
+  el doblaje latino lo dice (§8), así que ya no suena a España; o todo en inglés, sin mezclar.
+  Carteles con el modelo ligero de **lucq22** (572 caras, esquinas rotas y cuatro clavos) y clavos
+  con **rusty_metal_02** (§5.1, §6). Suelo con la **madera del Red Force** (`#8F5D44`, §6), cielo
+  `#2B9FF4`. **La bandera ondeando** de DarvinAbraham da la sombra que cruza los carteles.
+  Referencia de fans: la cocina del Sunny con carteles clavados de **vinhnyu** (§5.1).
+  **Que no parezca el tablón de Solo Leveling**: madera de barco y clavos, nunca corcho (Punto 24).
+  **Lámina 2:** el **reverso del cartel «TÚ»** con la ficha de ONE PIECE BASE
+  (Apodo / Recompensa / Fruta / Haki / Afiliaciones, §8) explica #presentaciones.
 
 ### Concepto B — «La ruta de Nami» (carta náutica sobre su mesa)
 
@@ -1601,8 +2003,10 @@ sobre una mesa** y un **barril en la cubierta**.
   paredes `#4D6C83`, madera `#53443D`, suelo a cuadros; plano de Oda en
   **F13**). En Blender: papel con ondas, un **Log Pose** de cristal
   (hojas **O19**-**O20**; modelo CC BY «The Eternal Log Pose», §5)
-  sujetando una esquina, un tintero, una pluma y **una mandarina**.
-- **Cómo es la carta:** como la del opening oficial
+  sujetando una esquina, un tintero, una pluma y **una mandarina**. Repaso del equipo:
+  al lado, la **brújula de latón con tapa** de Poly Haven (*seadogs_compass*, CC0, §5.1).
+- **Cómo es la carta:** mejor aún, **la del opening del ep. 1000, con el Sunny dibujado**
+  (1:06, mar `#C8E3D3`, tierra `#D9CE8E`, tinta `#4B4238`, §6): el barco actual. O la del opening oficial
   ([1:04-1:11](https://www.youtube.com/watch?v=YoeP9w5UIlg&t=64): acuarela,
   el Merry dibujado, rótulo a pluma; mar `#B2D8C8`, tierra `#D3D293`) y
   los mapas de Nami (**O15**, cuadriculado con curvas de nivel; **O16**,
@@ -1622,7 +2026,8 @@ sobre una mesa** y un **barril en la cubierta**.
   sentada, 2075 con la vara).
   **Luffy** asoma por la ventana del fondo, pequeño, riéndose.
 - **Cómo habla:** Nami con globo ancho: «Sigue esta ruta y no te
-  pierdes.» Y un globo pequeñito hacia fuera: «Zoro, tú no.» (el chiste sale
+  pierdes.» (Si se la quiere de cuerpo entero, la pose oficial **P26**, brazo en alto y mano en la cadera.)
+  Y un globo pequeñito hacia fuera: «Zoro, tú no.» (el chiste sale
   de su ficha oficial, «desorientado extremo», y de la wiki ✅, §9).
 - **Dónde va cada texto:** título en un **cartucho de mapa** arriba
   (Pirata One o IM Fell English). Textos de las islas **a mano de Nami**
@@ -1636,8 +2041,10 @@ sobre una mesa** y un **barril en la cubierta**.
 - **Objeto y sitio:** **un barril de madera** en la cubierta del Going
   Merry, de noche, con lluvia y el faro de Loguetown al fondo (la escena
   del ep. 53 ✅, §4; plano cenital en la hoja **O23**: madera mojada y
-  oscura, cinco piernas). Barril y cubierta en Blender (Merry de Oliver
-  Edwards y barril de DZs, los dos CC BY, §5).
+  oscura, cinco piernas). **Repaso del equipo: la escena se miró en movimiento** (ep. 53,
+  22:10-23:00, §4): lluvia sobre la madera, relámpagos, Zoro con los brazos cruzados (22:20).
+  Barril y cubierta en Blender: **Merry ligero de RadhruinT** (22.512 caras, CC BY) y barril
+  **Barrel_01** de Poly Haven (2.682, CC0), por la regla 9 (§5.1); antes, Merry de Oliver Edwards (176.578).
 - **La idea:** cinco pies encima del barril (sandalia de Luffy, bota de
   Zoro, Nami, Usopp, zapato de Sanji) y **un hueco libre** con tiza:
   «Tu pie aquí».
@@ -1656,6 +2063,12 @@ sobre una mesa** y un **barril en la cubierta**.
 
 **Mi favorito para #bienvenidas: el A.** Es la idea del plan, la
 mejora con el cartel en blanco «TÚ» y pone a los cinco personajes pedidos.
+
+**Otra voz para el saludo (repaso del equipo):** si el texto necesita un «¡hola!» literal, es de
+**Brook**: «¡Hola! ¿Cómo están?… Mi barco es su barco. Siéntanse en casa.» (latino, §10.2).
+Puede ir en un cartel pequeño o en el pie, sin cambiar a Luffy de protagonista.
+Y para el grupo, la pose del **ED 23 (1:02-1:06)**: la tripulación de espaldas en la baranda,
+saludando con los brazos al atardecer (§12.3).
 
 ---
 
@@ -1682,9 +2095,29 @@ mejora con el cartel en blanco «TÚ» y pone a los cinco personajes pedidos.
 - El cartel rotulado para Latinoamérica: no lo encontré.
 - TCRF, TV Tropes y Game UI Database: 403 de Cloudflare, y la Wayback Machine (`web.archive.org`) no está permitida en este contenedor.
 
+**Revisado en el repaso del equipo (24-sep-2026, tarde)** (antes → ahora):
+- **Por qué se fue Mireya Mendoza** → ✅ lo cuenta ella: Toei pidió grabar en el estudio y renunció (§10). **Por qué se fue Dafnis** → sigue con una fuente para el motivo ⚠️; el hecho del cambio, ✅ (ANMTV + Cine PREMIERE).
+- **El cartel en español para Latinoamérica** → a medias: **«Se Busca» sí se oye en el doblaje latino** (Tashigi, §8) ✅; un cartel **dibujado** con «SE BUSCA» en la versión latina sigue sin encontrarse ⚠️.
+- **La risa de Brook** → ✅ «Yo-jo-jo-jo» (Whisper *medium*, dos veces).
+- **La voz latina de Law** → ✅ Geno Sánchez (§9, §10.2). **Mihawk y Vivi** → ✅. Doflamingo, Barbanegra y Tashigi tenían más voces de las que decía la biblia (§10.2).
+- **El barril del ep. 53 en vídeo** → ✅ mirado con minutos (22:10-23:10, §4).
+- **Endings del 279 al 1070** y **estreno de «Carmine»** → ✅ con cita textual y segunda fuente (§11.1).
+
+**Lo que sigue dudoso o no se hizo en el repaso** (con su aviso en el texto):
+- **Fotogramas a 1080p** de las escenas nuevas: sólo 1280×720 (Internet Archive) y 512×288 (Dailymotion); YouTube pidió iniciar sesión.
+- **Poses oficiales** de Zoro explicando o animando, Sanji explicando o regañando, Chopper regañando o pensando (§9.7).
+- **La cara con miedo o vergüenza** de Luffy, Nami y Sanji (§9.2).
+- **Minutos de las escenas que hacen llorar** de los eps. 30, 90, 129, 278, 377, 505 y 706, y los comentarios más votados de cada vídeo (Punto 21).
+- **Por qué Zoro, Sanji y Carrot gustan tanto en Latinoamérica** (Punto 21).
+- **Rangos de episodios** de cada arco de East Blue a Isla Gyojin (Punto 25).
+- **Figuras oficiales y cosplay** revisados uno a uno (Punto 23).
+- **La letra de Panini México** para los globos (§7) y la entrevista original de Oda sobre *Kinnikuman* (Punto 24).
+- **Si Oda usó de verdad seigaiha y asanoha** en los kimonos de Wano (Punto 19).
+- **Fortnite × One Piece**: sólo rumores (Punto 23).
+
 ---
 
-## 18 · Fuentes consultadas (68 de la primera pasada + 51 de la segunda = 119)
+## 18 · Fuentes consultadas (68 de la primera pasada + 51 de la segunda + 103 del repaso del equipo = 222)
 
 **Encuestas:**
 1. [ANN, encuesta 2026](https://www.animenewsnetwork.com/interest/2026-08-23/2nd-global-one-piece-character-poll-results-are-in/.240871)
@@ -1832,6 +2265,125 @@ Sportskeeda y los vídeos de YouTube y TikTok.
 117. [YouTube, NicoZ21: evolución de las voces de Luffy](https://www.youtube.com/watch?v=NYILNO80hOQ)
 118. [Sportskeeda, Roof Piece](https://sportskeeda.com/anime/twitter-breaks-one-piece-episode-1015-wows-viewers-start-roof-piece-stellar-animation)
 119. [航海王wiki (Fandom en chino), Luffy «其他»](https://onepiece.fandom.com/zh/wiki/%E8%92%99%E5%85%B6%C2%B7D%C2%B7%E9%AD%AF%E5%A4%AB/%E5%85%B6%E4%BB%96)
+
+*Repaso del equipo (24-sep-2026, tarde): fuentes nuevas*
+
+*Encuestas, personajes y por qué la aman:*
+120. [one-piece.com, «過去の人気投票をおさらい» (japonés)](https://one-piece.com/news/o20210505_12429/index.html)
+121. [one-piece.com, premio del WT100 (japonés)](https://one-piece.com/news/81812/index.html)
+122. [one-piece.com, fichas oficiales de personaje (japonés)](https://one-piece.com/character/luffy/index.html)
+123. [Oricon, primera semana del WT100 2026 (japonés)](https://www.oricon.co.jp/news/2442476/full/)
+124. [MyAnimeList, personajes favoritos](https://myanimelist.net/character.php)
+125. [Jikan, API de MyAnimeList](https://api.jikan.moe/v4/anime/21/characters)
+126. [Reddit (Arctic Shift), votos con bots](https://reddit.com/r/OnePiece/comments/1s3bfiy/for_those_that_care_the_current_popularity_poll/)
+127. [Reddit, encuesta de RogersBase (imagen)](https://i.redd.it/e1oh6oo7rt2c1.png)
+128. [Hebochans, 104 apodos de Luffy (japonés)](https://hebochans.com/one-piece-nickname-luffy/)
+129. [Animate Times, datos de los Sombrero de Paja por SBS (japonés)](https://www.animatetimes.com/news/details.php?id=1735003864)
+130. [One Piece Wiki, Straw Hat Pirates/Recruitment](https://onepiece.fandom.com/wiki/Straw_Hat_Pirates/Recruitment)
+131. [One Piece Wiki, Mythbusters](https://onepiece.fandom.com/wiki/Mythbusters/Misunderstandings_and_Misinformation)
+132. [CNN en Español, por qué One Piece es un éxito](https://cnnespanol.cnn.com/2023/09/15/por-que-one-piece-manga-exito-fenomeno-cultural-orix)
+133. [Guinness World Records](https://www.guinnessworldrecords.com/world-records/118397-most-copies-published-by-a-single-author-for-the-same-comic-book-series)
+134. [Nikkei, 600 millones de tomos (japonés)](https://www.nikkei.com/article/DGKKZO94778980U6A300C2CE0000/)
+135. [MANTANWEB, el secreto de Oda en el mar (japonés)](https://mantan-web.jp/article/20260303dog00m200047000a.html)
+136. [Wikipedia, Crunchyroll Award a la mejor serie en curso](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Continuing_Series)
+137. [GamesRadar, Netflix n.º 1 en 84 países](https://www.gamesradar.com/one-piece-netflix-number-one-countries-stranger-things-wednesday/)
+138. [Tom's Guide, récord de Netflix](https://www.tomsguide.com/news/one-piece-just-broke-netflix-record-held-by-stranger-things-and-wednesday)
+139. [What's on Netflix, 2.ª temporada](https://www.whats-on-netflix.com/news/top-10-reports/one-piece-season-2-tops-netflix-charts-but-how-do-the-premiere-numbers-compare-to-season-1/)
+140. [Variety, Iñaki Godoy](https://variety.com/lists/one-piece-live-action-cast-netflix/monkey-d-luffy)
+141. [Netflix Tudum, Oda e Iñaki](https://www.netflix.com/tudum/articles/one-piece-season-2-eiichiro-oda-inaki-godoy-favorite-moments)
+142. [みんなのランキング, escenas que emocionan (japonés)](https://ranking.net/rankings/best-onepiece-touching-scene)
+143. [Mirtomo, mejores escenas (japonés)](https://mirtomo.com/one-piece-best-scene/)
+144. [Danbooru, dibujos de fans de One Piece](https://danbooru.donmai.us/posts?tags=one_piece)
+
+*Doblaje y comunidad hispana:*
+145. [TikTok, Mireya Mendoza explica su salida (El Precio de los Cómics)](https://www.tiktok.com/@elpreciodeloscomicsofici/video/7317378700587175173)
+146. [El Heraldo (Colombia), entrevista a Dafnis Fernández](https://www.elheraldo.co/cultura/cine/2025/07/06/tyrion-lannister-es-un-parteaguas-en-mi-carrera-dafnis-fernandez-actor-de-doblaje/)
+147. [ANMTV, Netflix llega al ep. 877](https://www.anmtvla.com/2026/05/netflix-suma-mas-anime-su-catalogo.html)
+148. [ANMTV, doblaje de ONE PIECE HEROINES](https://www.anmtvla.com/2026/08/one-piece-heroines-contara-con-doblaje.html)
+149. [ANMTV, películas en el cine (BF Distribution)](https://www.anmtvla.com/2026/07/one-piece-bf-distribution-anuncia-la.html)
+150. [Mi Morelia, CCXP México 2026](https://mimorelia.com/lo-kawaii/fans-de-one-piece-vivir%C3%A1n-experiencia-inmersiva-en-ccxp-m%C3%A9xico-2026)
+151. [X, One Piece Doblaje Latino News: Doflamingo](https://x.com/onepiecedoblat/status/1708248955539112316)
+152. [Doblaje Wiki, ficha de Tashigi](https://doblaje.fandom.com/es/wiki/Tashigi)
+153. [Doblaje Wiki, Carlos Segundo](https://doblaje.fandom.com/es/wiki/Carlos_Segundo)
+154. [Doblaje Wiki, API: muestra TashigiOP2.mp3](https://doblaje.fandom.com/es/api.php?action=query&titles=Archivo:TashigiOP2.mp3&prop=imageinfo&iiprop=url&format=json)
+155. [¡Hola!, Iñaki Godoy con fans en Ciudad de México](https://www.hola.com/us-es/entretenimiento/20260226886033/inaki-godoy-one-piece-netflix-fans-tacos-lucha-libre-entrevista/)
+156. [TikTok, UmaruYT: el Sanji canario](https://www.tiktok.com/@umaru.yt/video/7274537116422507809)
+157. [YouTube, Humbertory: fandub de Hancock](https://www.youtube.com/watch?v=Owi62znIZDA)
+158. [YouTube, The Ghost Writer: «Somos Mugiwaras»](https://www.youtube.com/watch?v=LK7ariPYZJ4)
+159. [YouTube, IG Studios: opening 16 en latino](https://www.youtube.com/watch?v=haTqCIyWliE)
+160. [YouTube, Sebas García: «El Sake de Binks»](https://www.youtube.com/watch?v=IlHCsYnNm8A)
+161. [Facebook, proyecto de fandub latino](https://www.facebook.com/OnePieceLatinoFandub/)
+162. [TikTok, fan con Desireé González en La Mole](https://www.tiktok.com/@pao.black_/video/7482124709023255814)
+163. [YouTube, Frikeandoo: entrevista a Desireé González](https://www.youtube.com/watch?v=gb_vZWO5liw)
+
+*Vídeo y música:*
+164. [Internet Archive, lote HorribleSubs (eps. 53 y 483)](https://archive.org/details/one-piece-0001-1000-1999-horrible-subs)
+165. [Internet Archive, opening del ep. 1000](https://archive.org/details/one-piece-episode-1000-opening-we-are-straw-hats-edition)
+166. [Dailymotion, Meristation: Gear 5 (ep. 1071)](https://www.dailymotion.com/video/x8mwcbr)
+167. [Dailymotion, Meristation: haki de Shanks (ep. 1082)](https://www.dailymotion.com/video/x8pee1a)
+168. [Dailymotion, OP 28 «Carmine»](https://www.dailymotion.com/video/x9otrgy)
+169. [Dailymotion, tráiler de Elbaf](https://www.dailymotion.com/video/xa0d0cs)
+170. [Dailymotion, making-of de los decorados de Netflix](https://www.dailymotion.com/video/x8bfvq4)
+171. [YouTube, ED 23 «Sono Mirai» (oficial)](https://www.youtube.com/watch?v=Qx-XXzEUm-8)
+172. [YouTube, OP 29 «Luminous» (oficial)](https://www.youtube.com/watch?v=X48ZNGHBa8A)
+173. [YouTube, «We Are!» en THE FIRST TAKE](https://www.youtube.com/watch?v=HB4iNVa746E)
+174. [YouTube, X-Tops: entrevista a Aitza Terán y Yang Coutiño](https://www.youtube.com/watch?v=6mJIpPgO1SU)
+175. [YouTube, Netflix: «THE ONE PIECE»](https://www.youtube.com/watch?v=3Gmo0EXHyKg)
+176. [one-piece.com, estreno de «Luminous» (japonés)](https://one-piece.com/news/78689/index.html)
+177. [one-piece.com, campaña de TikTok (japonés)](https://one-piece.com/news/81187/index.html)
+178. [One Piece Wiki, One Piece Music](https://onepiece.fandom.com/wiki/One_Piece_Music)
+179. [One Piece Wiki, One Piece Soundtracks](https://onepiece.fandom.com/wiki/One_Piece_Soundtracks)
+180. [TikTok, cuenta oficial del staff](https://www.tiktok.com/@onepiece.staff.official)
+
+*Técnica, estilo, mundo y obras parecidas:*
+181. [超！アニメディア, entrevista a Nagamine Tatsuya (japonés)](https://cho-animedia.jp/article/2019/06/30/12998.html)
+182. [Real Sound, el cambio de estilo de Wano a Egghead (japonés)](https://realsound.jp/movie/2024/09/post-1780386.html)
+183. [canrevb.com, la mesa de Oda en la ONE PIECE展 (japonés)](https://canrevb.com/archives/254)
+184. [ComicBook, Oda sobre Toriyama](https://comicbook.com/anime/news/one-piece-creator-talks-his-history-with-dragon-ball-the-influence-of-toriyama-is-by-far-the-greatest/)
+185. [ScreenRant, las manos y las axilas de Toriyama](https://screenrant.com/one-piece-oda-compliment-toriyama-dragon-ball-art/)
+186. [SlashFilm, Vicke el vikingo](https://www.slashfilm.com/881423/the-forgotten-anime-classic-that-inspired-one-piece/)
+187. [AniList, ficha y staff del anime](https://anilist.co/anime/21/staff)
+188. [Clip Studio Assets, pinceles de trama](https://assets.clip-studio.com/en-us/detail?id=2087033)
+189. [freesvg.org, patrón seigaiha (CC0)](https://freesvg.org/seigaiha-blue)
+190. [One Piece Wiki, Grand Line y reglas del mundo](https://onepiece.fandom.com/wiki/Grand_Line)
+
+*Arte, 3D y texturas:*
+191. [one-piece.com, la tripulación en fila](https://one-piece.com/img/strawhatpirates/strawhatpirates_01.jpg)
+192. [X, @Eiichiro_Staff: cuenta atrás 1000 LOGS](https://x.com/Eiichiro_Staff/status/1340673498142818305)
+193. [X, @ToeiAnimation: key visual de Egghead](https://x.com/ToeiAnimation/status/1871272025517588963)
+194. [Web oficial de Film Red, hojas de modelo](https://www.onepiece-film.jp/en/info-en/63/)
+195. [Wallhaven, «Keep Sailing» de Ombobon](https://w.wallhaven.cc/full/72/wallhaven-72lej9.png)
+196. [Pixiv, «Mugiwara: taking a break» de vinhnyu](https://www.pixiv.net/artworks/9197401)
+197. [ArtStation, Going Merry de Dmytro Kostash](https://www.artstation.com/artwork/29L6ZK)
+198. [Sketchfab, cartel ligero de lucq22](https://sketchfab.com/3d-models/wanted-poster-584b307dd36f495e9446d6c3aeb3dc14)
+199. [Poly Haven, API de modelos (Smuggler's Cove)](https://api.polyhaven.com/assets?t=models)
+200. [Kenney, Pirate Kit (CC0)](https://kenney.nl/assets/pirate-kit)
+201. [Quaternius, Pirate Kit (CC0)](https://quaternius.com/packs/piratekit.html)
+202. [Printables, sombrero de Luffy (CC0)](https://www.printables.com/model/395105-luffys-straw-hat-one-piece-step-stl)
+203. [ambientCG, cuerda Rope001 (CC0)](https://ambientcg.com/view?id=Rope001)
+
+*Colaboraciones:*
+204. [BAPE × One Piece](https://us.bapepirate.com/blogs/news/a-bathing-ape-x-one-piece)
+205. [Hypebeast, Uniqlo UT de Elbaph](https://hypebeast.com/2026/4/one-piece-uniqlo-ut-spring-summer-ss-2026-collaboration-collection-release-info)
+206. [soranews24, Uniqlo por los 100 años de Shueisha](https://soranews24.com/2026/03/26/uniqlo-announces-new-t-shirts-for-one-piece-naruto-and-more-for-manga-publishers-100th-birthday/)
+207. [Uniqlo España, UT One Piece](https://www.uniqlo.com/es/es/spl/ut/one-piece)
+208. [ANN, McDonald's × SpongeBob × One Piece](https://www.animenewsnetwork.com/interest/2026-09-01/one-piece-spongebob-squarepants-fuse-in-new-mcdonald-happy-meal-commercial/.241181)
+209. [Game Rant, McDonald's fuera de Japón](https://gamerant.com/one-piece-spongebob-mcdonalds-toys/)
+210. [Dexerto, Fortnite (rumor)](https://www.dexerto.com/fortnite/fortnites-one-piece-crossover-skins-3172559/)
+211. [esports.gg, Fortnite (rumor)](https://esports.gg/news/fortnite/fortnite-x-one-piece-collab-leaks-what-we-know-so-far/)
+212. [QooApp, Monster Strike × Film Red](https://news.qoo-app.com/en/post/112106/monster-strike-one-piece)
+213. [Universal Studios Japan, ONE PIECE PREMIER SUMMER](https://www.usj.co.jp/company/company_e/news/2025/pdf/0402_e.pdf)
+214. [ONE PIECE DAY, exposición](https://onepiece-day.onepiece-base.com/exhibition)
+215. [otakumode, Cafe Mugiwara](https://otakumode.com/news/57e1e402a2e5a47e0a87b5a0/Cafe-Mugiwara-Photo-Report)
+216. [Wikipedia, Tokyo One Piece Tower](https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower)
+217. [One Piece Wiki, Cross Epoch](https://onepiece.fandom.com/wiki/Cross_Epoch)
+
+*Videojuegos:*
+218. [Steam, ONE PIECE: Grand Gourmet](https://store.steampowered.com/app/3905010/)
+219. [Steam, ONE PIECE Bounty Rush](https://store.steampowered.com/app/2918150/)
+220. [App Store México, Bounty Rush](https://apps.apple.com/mx/app/one-piece-bounty-rush/id1343688545)
+221. [App Store Japón, ONE PIECE BASE](https://apps.apple.com/jp/app/one-piece-base/id6499420991)
+222. [Dailymotion, tráiler de Grand Gourmet](https://www.dailymotion.com/video/xae7mxq)
 
 ---
 
