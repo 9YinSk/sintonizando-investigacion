@@ -100,7 +100,7 @@ mía: comprueba con el dueño si hay un máximo de etiquetas).
 | Objeto para la lámina | El **expediente de WISE** del plan, mejorado: una carpeta de cartón con la ficha escrita a máquina, foto sujeta con clip y sellos de goma. En Blender: carpeta, hojas, clip, sellos. |
 | El más querido | **Primer concurso oficial de popularidad (2025, 338.341 votos): 1.º Loid, 2.º Anya, 3.º Yor, 4.º Damian, 5.º Bond** ✅. Anya es la cara de los memes; Loid gana en votos. |
 | Letras | **Special Elite** (máquina de escribir) para la ficha. **Courier Prime** para textos largos. **Patrick Hand** o **Kalam** para las notas a mano. Todas traen todas las tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Loid **Miguel de León**, Yor **Romina Marroquín Payró**, Anya **Elizabeth Infante**, Damian **Ángel Rodríguez** ✅. Estudio **VSI México**, dirección **Karina Altamirano** ⚠️. |
+| Voz latina | Loid **Miguel de León**, Yor **Romina Marroquín Payró**, Anya **Elizabeth Infante**, Bond **Brandon Montor**, Damian **Ángel Rodríguez**, Becky **Susana Moreno** ✅. Estudio **VSI Mexico City**, dirección **Karina Altamirano**, adaptación **Cesia Estrada** ✅ (Doblaje Wiki + Crunchyroll, segunda pasada). |
 | Tono | Espías de los años 60, pero **comedia familiar cálida**. Nada sombrío ni sangriento, aunque Yor sea asesina. |
 
 ---
@@ -133,7 +133,7 @@ la del anime (25 episodios en la temporada 1).
 | Anya se presenta a los vecinos | ep. 1, 00:07:23 a 00:07:29 | «I'm Anya, my father's daughter from long ago.» (JP: «ずっと前から ちちの子供のアーニャです») Loid: «Don't say unnecessary things.» |
 | «¡Qué emoción!» | ep. 1, 00:06:45 a 00:06:47 | «Spy? Mission? How exciting!» (JP: «わくわく！»). En latino: «¡Qué emoción!» (ver §10). |
 | Me gusta / no me gusta | ep. 1, 00:09:05 | «Anya likes peanuts but not carrots.» |
-| «Papi, quiero mimir» | ep. 1, 00:09:49 | JP: «ちち アーニャ眠い 歩けない». EN: «Father, Anya's tired. I can't walk anymore…» La frase latina está en este sitio ⚠️ (el minuto es el del subtítulo japonés; no oí el audio latino). |
+| «Papi, quiero mimir» | ep. 1, 00:09:49 | JP: «ちち アーニャ眠い 歩けない». EN: «Father, Anya's tired. I can't walk anymore…» La frase latina está en este sitio ✅ (Doblaje Wiki: «En el episodio 1, Anya dice "Papi, quiero mimir"»; y el hilo de Reddit [«Anya quiere mimir… cap 1 latino»](https://reddit.com/r/SpyxFamily/comments/ubbb5g/anya_quiere_mimir_spy_x_family_cap_1_latino/), abril de 2022). El minuto es el del subtítulo japonés. |
 | Anya presenta a Chimera | ep. 3, 00:05:24 a 00:05:38 | Anya presenta su peluche a Yor con voz de muñeco: «I'm Kimera. Nice to meet you.» Yor: «Nice to meet you, Kimera. I'm Anya's mother.» **Presentación con objeto: perfecta para el canal.** |
 | Rótulo de sitio | ep. 3, 00:02:53 | «OSTANIA CAPITAL BERLINT / WEST WARD, PARK STREET» |
 | Rótulos de ficha | ep. 4, 00:11:44 y 00:12:48 | «WALTER EVANS, 59 / LANGUAGE TEACHER» y «MURDOCH SWAN, 47 / ECONOMICS TEACHER», mientras Loid los analiza. |
@@ -394,23 +394,30 @@ hecho para la lámina ✅ (una fuente, pero es el texto oficial de Panini).
 
 ### 4.1 Modelos 3D de personajes (Sketchfab)
 Son fan art de un personaje con derechos. **Sólo para mirar la pose o el
-volumen.** La licencia de cada uno no la pude abrir ⚠️: mírala en el pie
-de la página antes de usar nada.
+volumen.** Segunda pasada: licencia de cada uno leída en la API de
+Sketchfab ✅. Aunque diga CC BY, el personaje sigue siendo de Endo: sólo
+para mirar.
 
 | Modelo | Autor | Qué es |
 |---|---|---|
-| [Anya Forger (Spy x Family FanArt)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-fanart-6766c2b2e0b6401c90ab610faaace3ac) | PhixerArt | estatua pintada a mano de **Anya con Bond** |
-| [Anya Forger Spy x Family](https://sketchfab.com/3d-models/anya-forger-spy-x-family-61d7e6f03318492982c4a8d42f4aff1c) | hiko9 | Anya inclinada hacia delante, brazos abiertos |
-| [Anya Forger (Spy x Family)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-470b41ca5e074f1493a26940fa371ec3) | Hasksoft | figura |
-| [Anya Forger (SPY x FAMILY)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e) | tonyhoni | figura |
+| [Anya Forger (Spy x Family FanArt)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-fanart-6766c2b2e0b6401c90ab610faaace3ac) | PhixerArt | estatua pintada a mano de **Anya con Bond** · licencia **Free Standard** (API) |
+| [Anya Forger Spy x Family](https://sketchfab.com/3d-models/anya-forger-spy-x-family-61d7e6f03318492982c4a8d42f4aff1c) | hiko9 | Anya inclinada hacia delante, brazos abiertos · **CC BY** (API) |
+| [Anya Forger (Spy x Family)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-470b41ca5e074f1493a26940fa371ec3) | Hasksoft | figura · **CC BY** (API) |
+| [Anya Forger (SPY x FAMILY)](https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e) | tonyhoni | figura · **CC BY** (API) |
 | [Etiqueta spyxfamily](https://sketchfab.com/tags/spyxfamily) | varios | todo lo demás |
 
 ### 4.2 Modelos 3D de objetos para el expediente (libres)
 | Objeto | Enlace | Licencia |
 |---|---|---|
-| Carpeta de documentos A4 | [Document File Folder, Kami Rapacz](https://sketchfab.com/3d-models/document-file-folder-11390179bba7462484d344e2fe22c703) | descarga gratis; licencia a mirar en la página ⚠️ |
-| Carpeta con pestaña | [File Folder, saurabh.buradkar7](https://sketchfab.com/3d-models/file-folder-7564eaae51fe44ca9ac22b27e15ea6d7) | ⚠️ ídem |
-| Carpeta «secreta» | [Super Secret File, DaBois22](https://sketchfab.com/3d-models/super-secret-file-b8a2aed8d7304d8d97f5593b11a10ca4) | ⚠️ ídem |
+| Carpeta de documentos A4 | [Document File Folder, Kami Rapacz](https://sketchfab.com/3d-models/document-file-folder-11390179bba7462484d344e2fe22c703) | **CC BY** ✅ (API de Sketchfab) |
+| Carpeta con pestaña | [File Folder, saurabh.buradkar7](https://sketchfab.com/3d-models/file-folder-7564eaae51fe44ca9ac22b27e15ea6d7) | **Free Standard** (licencia propia de Sketchfab, no CC) ✅ |
+| Carpeta «secreta» | [Super Secret File, DaBois22](https://sketchfab.com/3d-models/super-secret-file-b8a2aed8d7304d8d97f5593b11a10ca4) | **CC BY** ✅ |
+| Máquina de escribir años 30, sin marca | [KWojcik](https://sketchfab.com/3d-models/1d6009449fe84fd79454c4081eb743bf) | **CC BY** ✅ (515 me gusta) |
+| Sello de goma antiguo | [Old Victorian Rubber Stamp, lux87](https://sketchfab.com/3d-models/be402a8d73c74fd6b9ca5acc057a208d) | **CC BY** ✅ |
+| Sello de tampón | [Treasurer's stamp, WirtualneMuzeaMalopolski](https://sketchfab.com/3d-models/57b6ce9f7f0244e2b691d33c1bbde4ad) | **CC0** ✅ (escaneo de museo) |
+| Clip de papel | [Simple Paper Clip, Blender3D](https://sketchfab.com/3d-models/7b9b151a336f4edcb9163a4d4bd06607) | **CC BY** ✅ |
+| Pluma estilográfica | [Fountain Pens, kirikom9000](https://sketchfab.com/3d-models/48de5fd3726d4792a474cb9781549155) | **CC BY** ✅ |
+| Ball Chair de Aarnio (la silla de Bond, tomo 4) | [inity3D](https://sketchfab.com/3d-models/accbf54e7aba424d9020a055239d0874) | **CC BY** ✅ |
 | Lámpara de brazo | [Desk Lamp Arm 01](https://polyhaven.com/a/desk_lamp_arm_01) | **CC0** (Poly Haven) ✅ |
 | Escritorio metálico | [Metal Office Desk](https://polyhaven.com/a/metal_office_desk) | **CC0** ✅ |
 | Mesa de madera | [Wooden Table 01](https://polyhaven.com/a/WoodenTable_01) | **CC0** ✅ |
@@ -418,8 +425,9 @@ de la página antes de usar nada.
 Sketchfab dice que sus descargas gratis van con licencias Creative Commons y
 que **el crédito tiene que acompañar al modelo**
 ([guía de Sketchfab](https://sketchfab.com/developers/download-api/guidelines)).
-Crédito tipo: «"Document File Folder" by Kami Rapacz, CC BY 4.0, Sketchfab»
-(cambia la licencia por la que ponga la página).
+Crédito tipo: «"Document File Folder" by Kami Rapacz, CC BY 4.0, Sketchfab».
+La lámpara PH5 y la LC2 no salen descargables en Sketchfab (búsqueda por
+API sin resultados).
 
 ### 4.3 Fan art 2D (mirar, nunca pegar)
 - Pixiv: [Loid y Anya, NiceAnnoying](https://www.pixiv.net/en/artworks/119795857),
