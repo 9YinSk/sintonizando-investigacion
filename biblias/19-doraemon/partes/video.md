@@ -38,6 +38,7 @@ moverse 1-2 s según la copia (aviso ya en la biblia principal).
 | **Escena icónica 1** — Gigante da su recital en el descampado | [x3402n2](https://www.dailymotion.com/video/x3402n2?t=20) ✅ (coincide con lo ya citado por subtítulo en la biblia: 2006-09-08 «Empieza el recital») | 0:05, 0:20, 0:40 | Gigante con esmoquin blanco y capa roja, ojos cerrados, boca muy abierta, brazo izquierdo extendido, micrófono en la mano derecha, confeti cayendo con focos de colores detrás | **presentar / celebrar** — pose de Gigante con el micrófono (la «pista sin voz» del canal) |
 | **Escena icónica 2** — Doraemon y Nobita gritan abrazados en el cuarto (de noche, sólo luz de ventana) | [x33a56v](https://www.dailymotion.com/video/x33a56v?t=60) ✅ (mismo tráiler de arriba) | 1:00 | ambos en primer plano, boca abierta, sobre el tatami, con la cómoda de madera oscura detrás; luz muy baja, casi a contraluz | **sorpresa / susto** compartido; referencia de luz nocturna del cuarto |
 | **Escena icónica 3** — Gigante, asustado, dentro de lo que parece una cabina o nave (⚠️ película no identificada con certeza; posible una de las películas de ciencia-ficción de Doraemon) | [x2uugoz](https://www.dailymotion.com/video/x2uugoz?t=25) ⚠️ (copia con texto de canal pirata superpuesto todo el clip; la animación sí es original) | 0:10, 0:25 | Gigante con camiseta turquesa a rayas, ojos muy abiertos, cejas en zigzag, junto a un personaje con hombrera lila/dorada tipo uniforme; consola verde oscuro alrededor | expresión de **sorpresa/miedo** de Gigante (para el punto 14 de voz/personajes, no descrita aquí) |
+| **Escena icónica 4** — episodio doblado completo «El Pueblo de Nobita» (serie clásica, doblaje **latino real**, grabación de TV con logo de canal ecuatoriano) | [Internet Archive · episodio-737-chip-de-reservacion](https://archive.org/details/episodio-737-chip-de-reservacion) ✅ (mismo ítem que ya usó el investigador de voz para el punto 8; lo reutilizo, no repito la búsqueda) → [Episodio 01 - El Pueblo de Nobita.mp4](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180) | 0:30, 1:30, 3:00, 5:00 | 0:30 Doraemon y Nobita señalan una placa diminuta en la pared exterior de la casa; 1:30 los dos sentados en el cuarto (tatami **verde**, no amarillo), Nobita tirado en el suelo, quejándose; 3:00 Nobita riega con una regadera un **pueblo en miniatura** hecho de casas de juguete, con humo/agua saliendo a escala; 5:00 plano general del pueblo miniatura con dos figuras a su tamaño real al lado | **el catálogo/uso de un invento** en pantalla: un gadget que crea un pueblo a escala — sirve literal para «aquí cabe de todo» del canal de recursos |
 
 > No cuento el **sonido de sacar un invento** (§12 de la biblia, enlace
 > YouTube `8PCLcvDnuh0`) porque no lo encontré en Dailymotion ni Internet
@@ -63,6 +64,8 @@ citados arriba, medidos con `herramientas/estilo.py`.
 | **Cuarto de Nobita, de día** (tráiler 3D, 0:30) | [x33a56v ?t=30](https://www.dailymotion.com/video/x33a56v?t=30) | `#A09B7F` 47% · `#B8B495` 26% (puertas correderas claras) · `#70624C` 15% · `#F9F9E1` 5% ✅ | tonos crema/beige, brillo 61% — de día la habitación es mucho más clara que de noche |
 | **Cielo del ending** (pastel, plano) | [x2vhonl ?t=10](https://www.dailymotion.com/video/x2vhonl?t=10) | `#B6B2B5` 62% · `#96A9B4` 17% · `#67788F` 9% ⚠️ (copia descolorida, puede no ser el color real) | **sombreado plano (cel)**, sin degradado — distinto del 3D del tráiler |
 | **Consola/nave, escena 3** | [x2uugoz ?t=10](https://www.dailymotion.com/video/x2uugoz?t=10) | `#303525` 36% (verde oliva oscuro) · `#D7CDC1` 31% (crema) · `#3D4A53` 14% · `#CD544B` 7% ⚠️ (película sin identificar) | degradado, línea normal `#D86860` |
+| **Calle y casa de Nobita, exterior, de día** (serie clásica, doblaje latino real) | [episodio-737, ep.01 ?t=30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30) | `#8D9679` 22% (verde grisáceo, arbustos) · `#83B3B2` 13% + `#B4D1C5` 12% (cielo celeste claro) · `#2B4036` 17% (verde oscuro seto) ✅ | degradado, línea normal `#5E665B`, brillo 47% — día despejado |
+| **Cuarto de Nobita, tatami** (serie clásica 2D, doblaje latino real) | [episodio-737, ep.01 ?t=90](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=90) | `#A7A741` 23% y `#658D36` 18% (**tatami verde amarillento**) · `#07150C` 24% (sombra) · `#DFDEC4` 6% (pared clara) ✅ | degradado, saturación alta (67%) — **corrige** el `#B9B77A` "de memoria" de la biblia (§5.2): la familia de color es la misma (verde-amarillo), el tono real medido es más saturado y algo más oscuro |
 
 **Lectura para la lámina**: la serie clásica en 2D usa **sombreado plano**
 (cel, sin degradado, como el ending) y colores saturados de foco (recital);
@@ -96,6 +99,12 @@ azul-negro del túnel, que es más para escenas de acción.
   pendiente (no sale cantante en el vídeo ni en su ficha de Dailymotion).
 - Punto ya cubierto por la biblia (openings/endings en japonés, tabla de 62
   temas): no repito esa parte, sólo añado la confirmación de audio.
+- `partes/datos-video.md` (recolector, llegó al final de la tanda) confirma
+  que **AnimeThemes también le falló a él** (522) y añade 3 álbumes en
+  MusicBrainz no citados en la biblia: *Doraemon Encyclopedia* (1995),
+  *Doraemon Sound Track History 2* (沢田完, 2010) y *DORA THE BEST* (20º
+  aniversario, 1999) — enlaces en la bitácora, para quien complete el punto
+  9 con más detalle de bandas sonoras editadas en disco.
 
 ---
 
@@ -112,6 +121,8 @@ subtítulo... la postura la deduzco"*. Estas sí están **vistas**:
 | **Gigante** | [x3402n2 ?t=20](https://www.dailymotion.com/video/x3402n2?t=20) | de pie, ojos cerrados, boca muy abierta, un brazo extendido al público, micrófono en la otra mano, capa roja al viento | **presentar/celebrar** — pose «recital» (la más citada por la biblia como icónica de Gigante) |
 | **Gigante** | [x2uugoz ?t=10](https://www.dailymotion.com/video/x2uugoz?t=10) ⚠️ película sin identificar | cejas en zigzag, ojos muy abiertos y redondos, boca entreabierta, quieto | **sorpresa/miedo** |
 | Grupo (**Nobita, Shizuka, Suneo, Gigante**) | [x8k1ck8 ?t=40](https://www.dailymotion.com/video/x8k1ck8?t=40) | los 4 de pie en fila, cabeza inclinada hacia arriba, mirando a Doraemon volar | **admirar/seguir con la mirada** — pose de grupo mirando un invento en el aire |
+| **Nobita** | [episodio-737, ep.01 ?t=180](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180) | agachado, sonrisa traviesa, sostiene una regadera de juguete con las dos manos y riega un pueblo a escala | **explicar/mostrar** — usando un invento en marcha, buena pose para «cómo se usa» |
+| **Doraemon** | [episodio-737, ep.01 ?t=30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30) | de pie junto a Nobita, brazos abiertos hacia arriba, mirando hacia una placa en la pared | **presentar** — serie clásica 2D (contraste de pose con el 3D de *Stand by Me*) |
 
 No pude confirmar con fotograma real las poses de **Shizuka y Suneo por
 separado** ni de **Dorami**: no encontré clips limpios en Dailymotion con
@@ -188,18 +199,22 @@ siguen con el aviso "deducida de subtítulo, no vista" tal cual estaba.
   `title:("stand by me" doraemon)` (15 resultados: DVDs ISO, bandas sonoras,
   doblajes al inglés/hindi/tagalo — ninguno es la fuente que necesitaba con
   minuto limpio, así que seguí con Dailymotion).
-- `herramientas/fotogramas.py` sobre 6 vídeos de Dailymotion (opening,
-  ending, tráiler ×2 tandas, 3 escenas): **17 fotogramas** sacados y
-  **mirados con Read** (no sólo generados).
-- `herramientas/estilo.py` sobre **8 fotogramas** para paleta y tipo de
-  sombreado (túnel, luna, fondo Da Vinci, recital, cuarto ×2, ending,
-  consola).
+- `herramientas/fotogramas.py` sobre 7 vídeos/episodios (Dailymotion ×6:
+  opening, ending, tráiler ×2 tandas, 3 escenas; Internet Archive ×1:
+  episodio 01 doblado): **21 fotogramas** sacados y **mirados con Read**
+  (no sólo generados).
+- `herramientas/estilo.py` sobre **11 fotogramas** para paleta y tipo de
+  sombreado (túnel, luna, fondo Da Vinci, recital, cuarto 3D ×2, ending,
+  consola, calle/casa real, tatami real ×2).
 - `herramientas/voz.py` sobre el opening (`x8k1ck8`, modelo *small*, es):
   transcripción con minuto real, ver Música arriba.
 - Comprobé `partes/datos-video.md` cada pocos minutos (dos esperas de
   ~4-5 min cada una, ~9 min en total): no llegó a existir en esta tanda.
+- **Reutilicé, sin repetir la búsqueda**, el ítem de Internet Archive
+  `episodio-737-chip-de-reservacion` (colección de episodios doblados al
+  español latino, grabados de TV con logo de canal ecuatoriano) que ya
+  aparece en `partes/voz.json` del investigador de voz: lo abrí con
+  `fotogramas.py` para ver de verdad el **episodio 01, "El Pueblo de
+  Nobita"** (metadata de `archive.org/metadata/...`: mp4 1280×720,
+  ~391 s), y saqué 4 fotogramas + 3 paletas de ahí.
 
-Sigue: nada obligatorio pendiente de los puntos 2, 4, 9, 10 y 14 (ver tabla
-de "No encontré" para lo que sí falta, que es material extra, no lo mínimo
-pedido). Si aparece `partes/datos-video.md` más tarde, revisarlo por si trae
-fuentes de AnimeThemes u otras escenas con Shizuka/Suneo/Dorami solos.
