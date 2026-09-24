@@ -126,40 +126,7 @@ BIBLIOTECA = [
 
 
 # Temas de conocimiento (no series): para que su Claude principal sea experto.
-TEMAS = [
-    # Láminas y diseño del Discord
-    ("Recortar personajes de anime sin halo", "comparar ToonOut, BiRefNet, anime-segmentation, Photoshop y See-through para recortar ilustraciones y fotogramas de anime con pelo suelto y líneas finas; ampliar sin perder la línea (Real-ESRGAN, waifu2x); flujo completo en una GPU de 8 GB"),
-    ("Integrar un personaje 2D en una escena", "cómo lo hacen los estudios de anime y los ilustradores: luz y sombra proyectada, luz de borde, igualar color y grano, profundidad, algo delante del personaje; técnicas de composición (satsuei) aplicables en Photoshop y HTML"),
-    ("Blender para objetos de ilustración anime", "papel, cuadernos, carteles, cajas y máquinas con aspecto de anime: sombreado toon, NPR, Grease Pencil, texto o tinta que sigue las arrugas (calcomanías, shrinkwrap), luz, render rápido en 8 GB"),
-    ("Tipografía de fans en español", "letras libres parecidas a los logos, rótulos y globos de las series del servidor; cuáles traen tildes, ñ, ¿ y ¡, cómo añadirlas si faltan, y licencias"),
-    ("Láminas y paneles de Discord que destacan", "servidores de Discord con diseño premiado o muy comentado: cómo presentan canales, reglas y foros; cómo se ven las imágenes en el móvil; componentes y botones nuevos de Discord"),
-    # Radio Console
-    ("Radios y equipos reales de cada época", "para sus cinco mundos: radios de los años 30 (Art Déco, Philco, de catedral), equipos y casetes de los 80, neones, Night City y la tecnología Hextech de Arcane; materiales, sonidos, y modelos 3D con licencia"),
-    ("Radio en vivo en Discord con dos presentadoras", "bots de audio, mezclar voz y música, retardo, escenarios de Discord, derechos musicales, y cómo lo hacen las radios comunitarias online"),
-    ("Karaoke con letras sincronizadas", "fuentes de letras con tiempos (LRC y similares), APIs, sincronizar con la música que suena, derechos"),
-    # VTuber
-    ("Live2D dentro de Cubism FREE", "rigging de cintura, brazos y física del pelo con los límites de la versión gratis (100 mallas, 30 partes, 30 parámetros, 50 deformadores); tutoriales en español"),
-    ("Separar ilustraciones en capas con IA", "See-through y alternativas en 2026 para preparar un modelo Live2D desde un dibujo entero: calidad, trucos y límites"),
-    ("VTuber con webcam y micro, sin iPhone", "VTube Studio, VBridger, sincronía de labios, ajustes de seguimiento en una PC con 8 GB de GPU"),
-    # Doblaje y voz
-    ("Fandub con calidad profesional en casa", "sincronía, separar voz y música (UVR, Demucs), mezclar con la pista de efectos, ecualizar para que suene a doblaje, subtítulos"),
-    ("Ejercicios y retos para una comunidad de doblaje", "retos semanales, pruebas de casting, guiones y escenas libres de derechos por dificultad, cómo dar devolución útil"),
-    ("Cambiadores de voz y clonación", "RVC, VCClient y alternativas en 2026: calidad, uso en directo, ética y límites"),
-    # Redes y comunidad
-    ("Fandubs y clips de anime en redes", "qué formatos funcionan en TikTok, Shorts y Reels; derechos y Content ID; cómo no ser bloqueado; portadas y títulos"),
-    ("Hacer crecer un servidor de doblaje", "dónde promocionarlo, alianzas con otros servidores, eventos que retienen gente, qué hacen los servidores hispanos grandes"),
-    # Altiplano a Asia
-    ("Conocer gente de China, Japón y Corea", "apps que funcionan en 2026 desde Latinoamérica, seguridad, cómo presentarse, traducción en tiempo real, diferencia horaria con Perú"),
-    ("Mostrar Puno y el Titicaca al público asiático", "qué contenido engancha en Xiaohongshu, LINE VOOM, note y Naver; fotos, poemas y voz como formato"),
-    # Agentes e IA
-    ("Coordinar agentes en trabajo creativo largo", "Proyectos de Claude Code, subagentes, Codex y Antigravity: memoria compartida, revisión, reparto y costos"),
-    ("Imágenes con IA que no parezcan IA", "flujos de ComfyUI con referencias de estilo y de pose (IP-Adapter, ControlNet), LoRAs de estilo anime, Firefly y Canva; licencias; en 8 GB de GPU"),
-    ("Skills y MCP para diseño y video", "cuáles existen en 2026, cuáles revisar e instalar, cuáles evitar y por qué"),
-    # Negocio y otros
-    ("Presencia digital de una ladrillería en Puno", "Google Business, catálogo de WhatsApp, fotos de producto, anuncios locales, precios de referencia en la región"),
-    ("Importar hardware a Perú y venderlo online", "courier, categorías de SUNAT, RUC y régimen, marketplaces, garantía"),
-    ("Servidores de Minecraft con mods, rendimiento", "NeoForge y Fabric en 2026: Voxy, Distant Horizons, C2ME, pregenerar el mundo, hosting barato, errores típicos"),
-]
+from catalogo import TEMAS, SERIES  # temas y series nuevas, por bloques
 
 
 def slug(t):
@@ -198,46 +165,90 @@ Lee primero `ENCARGO.md` (qué investigar y dónde dejarlo). Deja todo en `bibli
 - **Personajes para empezar:** {pjs}
 - **Wiki de Fandom sugerida (compruébala):** `{wiki}` → `python herramientas/investigar_serie.py --serie "{serie}" --wiki {wiki} --paginas "<personaje>" …`
 """, encoding="utf-8")
-    # las tandas de 4
-    todos = sorted(p.stem for p in (AQUI / "encargos").glob("*.md"))
+    # las series nuevas del catálogo, por bloques, numeradas después de la biblioteca
+    n = len(ENCARGOS) + len(BIBLIOTECA)
+    bloque_de = {}
+    for bloque, lista in SERIES.items():
+        for serie, fijarse, pjs in lista:
+            n += 1
+            nombre = f"{n:02d}-{slug(serie)}"
+            bloque_de[nombre] = bloque
+            (AQUI / "encargos" / f"{nombre}.md").write_text(f"""# Encargo {n:02d} — {serie} ({bloque})
+
+Lee primero `ENCARGO.md` (qué investigar y dónde dejarlo). Deja todo en `biblias/{nombre}/`.
+
+- **Serie:** {serie}
+- **En qué fijarse especialmente:** {fijarse}.
+- **Personajes para empezar:** {pjs}
+- Todavía **no tiene canal**: en «3 conceptos de lámina» propón para qué canal o
+  sala del servidor encajaría (mira `servidor/inventario.md`).
+- Busca su wiki de Fandom (`https://<nombre>.fandom.com`) y úsala con
+  `python herramientas/investigar_serie.py --serie "{serie}" --wiki <nombre> --paginas "<personaje>" …`
+""", encoding="utf-8")
+    # las tandas de series, de 4 en 4
+    todos = sorted((p.stem for p in (AQUI / "encargos").glob("*.md")), key=lambda x: int(x.split("-")[0]))
     lineas = ["# Tandas de investigación (de 4 en 4)", "",
               "En una sesión nueva en la nube, con este repositorio, pega la frase de la tanda.",
-              "La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**,",
-              "y deja cada uno en `biblias/<encargo>/`. Marca aquí las que ya estén hechas.", ""]
+              "La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**.",
+              "Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.", "",
+              "# Parte 1 · Series, películas y videojuegos", ""]
     for t in range(0, len(todos), 4):
         grupo = todos[t:t + 4]
-        n = t // 4 + 1
-        lineas += [f"## Tanda {n}", "",
-                   f"> Haz la tanda {n} de `TANDAS.md` siguiendo `ENCARGO.md`: "
+        k = t // 4 + 1
+        lineas += [f"## Tanda S{k}", "",
+                   f"> Haz la tanda S{k} de `TANDAS.md` siguiendo `ENCARGO.md`: "
                    + ", ".join(f"`encargos/{g}.md`" for g in grupo)
                    + ". Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.", ""]
         lineas += [f"- [ ] {g}" for g in grupo] + [""]
-    # los temas de conocimiento, en su propia carpeta y con sus tandas
+    # los temas, por bloques (código A01, A02…)
     (AQUI / "temas").mkdir(exist_ok=True)
     for f in (AQUI / "temas").glob("*.md"):
         f.unlink()
-    for k, (tema, alcance) in enumerate(TEMAS, 1):
-        nombre = f"T{k:02d}-{slug(tema)}"
-        (AQUI / "temas" / f"{nombre}.md").write_text(f"""# Tema {k:02d} — {tema}
+    lineas += ["# Parte 2 · Temas para volverse experto", ""]
+    for bloque, lista in TEMAS.items():
+        letra = bloque.split(" ")[0]
+        codigos = []
+        for k, (tema, alcance) in enumerate(lista, 1):
+            nombre = f"{letra}{k:02d}-{slug(tema)}"
+            codigos.append(nombre)
+            (AQUI / "temas" / f"{nombre}.md").write_text(f"""# {letra}{k:02d} — {tema} ({bloque})
 
 Lee primero `TEMA.md` (qué investigar y dónde dejarlo) y `contexto/proyectos.md`.
 Deja todo en `investigaciones/{nombre}/`.
 
 - **Tema:** {tema}
 - **Qué abarca:** {alcance}.
+- Profundidad: hasta el mínimo detalle. Herramientas con precio y licencia,
+  pasos concretos, ejemplos reales, trampas, y cómo replicarlo, mejorarlo o
+  fusionarlo para crear algo propio.
 """, encoding="utf-8")
-    temas = sorted(p.stem for p in (AQUI / "temas").glob("*.md"))
-    lineas += ["# Tandas de temas (de 4 en 4)", "",
-               "Investigación para volverse experto en cada tema, aplicada a sus proyectos.", ""]
-    for t in range(0, len(temas), 4):
-        grupo = temas[t:t + 4]
-        n = t // 4 + 1
-        lineas += [f"## Tanda de temas {n}", "",
-                   f"> Haz la tanda de temas {n} de `TANDAS.md` siguiendo `TEMA.md`: "
-                   + ", ".join(f"`temas/{g}.md`" for g in grupo)
-                   + ". Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.", ""]
-        lineas += [f"- [ ] {g}" for g in grupo] + [""]
+        for t in range(0, len(codigos), 4):
+            grupo = codigos[t:t + 4]
+            k = t // 4 + 1
+            lineas += [f"## Tanda {letra}{k} · {bloque}", "",
+                       f"> Haz la tanda {letra}{k} de `TANDAS.md` siguiendo `TEMA.md`: "
+                       + ", ".join(f"`temas/{g}.md`" for g in grupo)
+                       + ". Un ayudante por tema, en paralelo. Al terminar, commit y push de tu rama.", ""]
+            lineas += [f"- [ ] {g}" for g in grupo] + [""]
     (AQUI / "TANDAS.md").write_text("\n".join(lineas), encoding="utf-8")
+    # el mapa, para leerlo en el celular
+    mapa = ["# Mapa de la investigación", "",
+            "Todo lo que se investiga, ordenado. Las frases para pegar están en `TANDAS.md`.", "",
+            "## Series, películas y videojuegos", "",
+            f"- **Los canales del servidor** (encargos 01-{len(ENCARGOS):02d}): " + ", ".join(e[0] for e in ENCARGOS),
+            f"- **Biblioteca** (encargos {len(ENCARGOS)+1}-{len(ENCARGOS)+len(BIBLIOTECA)}): " + ", ".join(b[0] for b in BIBLIOTECA)]
+    for bloque, lista in SERIES.items():
+        mapa.append(f"- **{bloque}**: " + ", ".join(x[0] for x in lista))
+    mapa += ["", "## Temas para volverse experto", ""]
+    for bloque, lista in TEMAS.items():
+        letra = bloque.split(" ")[0]
+        mapa.append(f"### {bloque}")
+        mapa += [f"- **{letra}{k:02d} {t}**: {a}" for k, (t, a) in enumerate(lista, 1)]
+        mapa.append("")
+    total_temas = sum(len(v) for v in TEMAS.values())
+    total_series = len(todos)
+    mapa.insert(2, f"**{total_series} encargos de series** y **{total_temas} temas**.")
+    (AQUI / "MAPA.md").write_text("\n".join(mapa), encoding="utf-8")
     # contexto del servidor
     srv = AQUI / "servidor"
     srv.mkdir(exist_ok=True)
@@ -256,7 +267,7 @@ Deja todo en `investigaciones/{nombre}/`.
     h.mkdir(exist_ok=True)
     for f in ("investigar_serie.py", "wiki.py"):
         shutil.copy(V3 / f, h / f)
-    print(f"{len(ENCARGOS)} encargos · servidor/ · biblias/_ya_hechas/ ({len(list(ya.glob('*.md')))}) · herramientas/")
+    print(f"{len(list((AQUI / 'encargos').glob('*.md')))} encargos, {len(list((AQUI / 'temas').glob('*.md')))} temas · servidor/ · biblias/_ya_hechas/ ({len(list(ya.glob('*.md')))}) · herramientas/")
 
 
 if __name__ == "__main__":

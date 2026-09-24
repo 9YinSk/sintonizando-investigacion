@@ -18,18 +18,17 @@ dossier aquí. Después, un chat en la PC lo junta todo y hace las láminas.
 
 > Haz el encargo `encargos/05-oshi-no-ko.md` siguiendo `ENCARGO.md`.
 
-(cambia el número por el que toque). Hay **72 encargos** en `encargos/`: los 29
-primeros son los canales del servidor y del 30 al 72, una **biblioteca** de series,
-pelis y juegos muy queridos.
+(cambia el número por el que toque).
 
-**O por tandas de 4:** abre `TANDAS.md`, copia la frase de la tanda que toque
-(p. ej. la 1 = encargos 01-04) y pégala en una sesión nueva. La sesión hace los
-cuatro a la vez con ayudantes.
+**Mejor por tandas de 4:** abre `TANDAS.md`, copia la frase de la tanda que toque
+y pégala en una sesión nueva; la sesión hace los cuatro a la vez con ayudantes.
+- **Tandas S1-S33**: 131 series, películas y videojuegos (las 29 primeras son los
+  canales del servidor).
+- **Tandas A1-P1**: 96 temas para volverse experto, en 16 bloques (diseño,
+  personajes, VTubers, voz y doblaje, radio, redes, Discord, IA, webs y apps,
+  edición, negocio y becas, Asia, PC, Minecraft, videojuegos, recursos).
 
-**Temas (para que tu Claude sea experto):** 24 temas concretos en `temas/`,
-sacados de lo que tienes pendiente: láminas y diseño, la radio, el VTuber, el
-doblaje, las redes, Asia, los agentes, el negocio y Minecraft. Van en 6 tandas al
-final de `TANDAS.md`, siguen `TEMA.md` y dejan su informe en `investigaciones/`.
+**Todo ordenado en `MAPA.md`.**
 
 ## Cómo se junta
 
@@ -42,6 +41,8 @@ ramas, revisa cada dossier y lo copia a la bóveda de Obsidian
 - `ENCARGO.md` — las instrucciones completas para cada sesión.
 - `encargos/` — un encargo por serie (qué canal, qué objeto, qué personajes).
 - `TEMA.md`, `temas/` y `contexto/proyectos.md` — los encargos de temas y el resumen de tus proyectos.
+- `MAPA.md` — todo lo que se investiga, por bloques.
+- `catalogo.py` — la lista de temas y series nuevas: se añade una línea y se corre `armar_kit.py`.
 - `TANDAS.md` — los 72 encargos en 18 tandas de 4, con la frase lista para pegar.
 - `servidor/` — qué hay en cada canal y foro, y lo que el dueño ha rechazado o le gustó.
 - `biblias/_ya_hechas/` — ejemplos del nivel que se espera.
