@@ -1306,7 +1306,122 @@ alta más cercano: el banner de AniList (1900×1188) y el póster (1143×1600).
 
 ## 18 · Guía para generar con IA: imagen y texto
 
-(pendiente)
+Con todo lo anterior. La IA (Firefly, Canva) sirve para **poses, fondos
+o bocetos de composición**; el personaje final sale de las referencias
+oficiales y se integra con `v3/integrar.py` (regla 3 del dueño).
+
+### 18.1 Rasgos que nunca cambian
+
+- **Edward**: rubio dorado, **ojos dorados**, **trenza** hasta los hombros
+  y **un mechón de punta**; **brazo derecho de metal** (y pierna
+  izquierda); abrigo **rojo** con capucha y la **cruz de Flamel negra** en
+  la espalda; ropa negra; guantes blancos. Bajito para su edad.
+- **Alphonse**: **armadura enorme** gris azulada, casco con cresta,
+  pinchos en los hombros, **ojos de luz** (rojos o blancos) en la ranura,
+  **faldón blanco** a la cintura. Nunca se le ve la cara.
+- **Roy**: pelo negro sobre los ojos, ojos negros, **sin gafas**,
+  **uniforme azul marino**, **guantes blancos con un círculo en el dorso**.
+- **Winry**: rubia pálida, **ojos azules**, coleta alta con **pañuelo
+  verde**, **mono verde pálido atado a la cintura** y top negro,
+  **pendientes**, **llave inglesa**.
+- **Hughes**: **gafas rectangulares**, barba de tres días, uniforme azul.
+- **Riza**: rubia, pelo recogido, uniforme azul, pistola.
+
+### 18.2 Paleta
+
+Personajes: `#DA4332` (abrigo), `#0D1012` (negro), `#7C8592` (armadura),
+`#354565` (uniforme), `#D2D9B2` (mono), `#7E8E62` (pañuelo), `#F7F3DA`
+(rubio claro). Mundo: `#3D705C` y `#D8BD25` (escudo), `#87BAE8` (cielo de
+Resembool), `#808A87` (piedra de Central), `#B60A23` (fuego de Ishval),
+`#76A9EC` (Briggs). Póster: negros cálidos y crema (`#212022`, `#F6EFD9`).
+
+### 18.3 Línea, sombreado y luz
+
+- **Línea de color**, no negra: marrón rojizo en Ed (`#805142`), marrón
+  gris en el póster (`#544D4A`), verde oliva en Winry.
+- **Personajes en cel plano** (dos tonos); **fondos pintados** con
+  degradado y casi sin contorno.
+- Luz: sol limpio en Resembool; nublado gris en Central; **azul helado**
+  en Briggs; **rojo** de incendio en Ishval; lámpara cálida en interiores.
+
+### 18.4 Encuadre
+
+Plano medio **en diagonal** (hoja #7); **contrapicado** para la autoridad
+(#59); **primer plano de ojos** para la emoción (E2); **de espaldas ante
+el paisaje** para despedirse (E22); dúo en vertical, uno sobre el hombro
+del otro (#19).
+
+### 18.5 Palabras que ayudan y que estropean
+
+**Ayudan** (vocabulario de Danbooru, §4.3, en inglés):
+`2009 TV anime, flat cel shading, colored lineart, blonde_hair,
+yellow_eyes, single_braid, ahoge, red_coat, hood, black_pants,
+mechanical_arms, full_armor, helmet, amestris_military_uniform,
+white_gloves, blue_jacket, ponytail, bandana, earrings, wrench,
+early 20th century European town, steampunk, thin white transmutation
+circle`.
+
+**Estropean**: `chibi` (salvo gag), `3D render`, `glossy`, `neon`,
+`cyberpunk`, `pastel kawaii`, `thick black outlines`, `speech bubble`,
+`2003 anime` (otros diseños), `glasses` en Roy.
+
+**Ejemplo** (Firefly): *«2009 TV anime still, flat cel shading, colored
+lineart. Blond teenage boy with golden eyes, single braid and ahoge, red
+hooded coat over black clothes, metal right arm, clapping his hands in
+front of his chest, eyes half closed. Inside a wooden workshop at dusk,
+warm lamp light, thin white chalk transmutation circle on the floor.»*
+
+### 18.6 Qué imágenes dar como referencia
+
+- **Estilo**: hojas de modelo #77, #85, #72, #81; póster (§19).
+- **Pose**: #56 y A15 (aplauso), E1 (presentar), #32 (Winry con la
+  llave), E10 (Roy ligero), #19 (dúo).
+- **Fondo**: A4 y E22 (Resembool), E19 (Central), E20 (Briggs).
+- **Cartela**: E16 y #31-33.
+
+### 18.7 Para una IA de texto: cómo hablan
+
+- **Ed**: frases cortas, **exclamaciones y preguntas indignadas**, habla
+  rápido, presume y se defiende. Llama a su hermano «Al» (globo del ED1).
+  Roy es **coronel** (su rango en la serie). Explica con aplomo.
+- **Al**: suave, paciente, llama a Ed **«hermano»**. Nunca grita primero.
+- **Roy**: calmado, grave, **irónico**; manda sin levantar la voz; si
+  estalla, es frío y seco.
+- **Winry**: directa y cálida; **regaña si tocan su automail**; se
+  emociona hablando de piezas.
+- **Hughes**: efusivo, cariñoso, filosofa sin darse importancia.
+- **Puntuación**: «¡…!» y «¿…?» para Ed; puntos suspensivos para la
+  tristeza (Al niño); frases cerradas y sin exclamación para Roy.
+
+**Frases reales del doblaje latino** (las únicas textuales que hay, §10.3),
+por emoción:
+
+| Emoción | Frase | Quién |
+|---|---|---|
+| alegre, orgullosa | «Son hijos de su padre, estoy orgullosa de ustedes» | Trisha |
+| alegre, de broma | «¿Están leyendo otra vez un libro que no es de la escuela?… no es justo, siempre guardan secretos entre ustedes» | Winry niña |
+| enfadado | «¿Por qué nadie entiende que la alquimista de acero soy yo?» ⚠️ | Ed |
+| enfadado, frío | «Tú mataste a Hughes, será todo lo que necesitaba saber… ya no tienes que decir nada más» | Roy |
+| amenazando | «Parece que tendré que obligarte a entregármelo» | Ed |
+| explicando | «Los hombres son criaturas que dejan que sus acciones hablen por ellos… cuando sienten dolor no quieren que otros sufran ni se preocupen» | Hughes |
+| explicando (la ley) | «Para obtener algo, hay que perder algo de igual valor» (sinopsis oficial en AniList, traducida) | narración |
+| animando | «Para entrenar el espíritu, primero entrena el cuerpo» (lema de Izumi, wiki, traducido) | Izumi |
+| triste | «Hermano, tengo hambre… hace frío… vayamos a casa» | Al niño |
+| triste | «Empezó a llover» | Roy |
+
+⚠️ No hay más frases textuales latinas: no inventar citas «reales».
+
+### 18.8 Vocabulario visual de las emociones
+
+- **Gag**: deformación ***chibi*** (todo el ED1; el golpe de llave, E6),
+  **ojos blancos redondos** en el casco de Al (tráiler 0:39), **signos de
+  exclamación rojos** alrededor de la cabeza (Havoc y Fuery, A30).
+- **Drama**: **sangre** en la cara (E3, E18), **lluvia** (Scar, A36-A38;
+  la tristeza de Roy), fondo **rojo** de fuego (A8-A9, A24).
+- **Alquimia**: **rayos azules** y destello blanco (tráiler 0:14; A44).
+- **Acción**: líneas de velocidad azules (tráiler 0:18).
+- ⚠️ No se vieron **gotas de sudor** ni fondos de emoción con flores en lo
+  que se miró.
 
 ## 19 · Estilo de dibujo, técnica, Blender y encuadres
 
