@@ -8,7 +8,19 @@ fecha: 2026-09-24
 # Biblia · Spider-Verse — para #edicion
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (la wiki `spiderverse` y
+> - **Segunda pasada (24-sep-2026), con la red abierta.** Un equipo de 4
+>   investigadores (imagen, vídeo, voz, texto) y un redactor. Ya se pudo
+>   usar: la API de Fandom (`spiderverse` e `intothespiderverse`) y la de
+>   **Doblaje Wiki**, `investigar_serie.py` (**9 hojas de contacto**, 3 en
+>   `hojas/`), **Dailymotion** e **Internet Archive** con `fotogramas.py`
+>   (11 clips y un archivo de *storyboards* mirados de verdad), `estilo.py` (hex **medidos**), `voz.py`
+>   (5 muestras del doblaje latino oídas y transcritas), las API de
+>   Sketchfab y Wallhaven, y fuentes en japonés (CGWORLD, Fan's Voice,
+>   Bandai, TOHO). **YouTube siguió pidiendo iniciar sesión** y TV Tropes
+>   y The Cutting Room Floor dieron 403. Lo que cambió va justo debajo,
+>   en «Segunda pasada · qué cambió».
+> - **Primera pasada** (lo que sigue en este recuadro): la red de esta
+>   sesión estaba cerrada. Fandom (la wiki `spiderverse` y
 >   Doblaje Wiki), Wikipedia, YouTube, Reddit, la web de Sony, Sketchfab,
 >   Poly Haven, ambientCG, dafont, Fonts In Use, Cartoon Brew, AWN,
 >   befores & afters, Infobae, Disney Latino y Deadline daban **bloqueo**
@@ -118,10 +130,10 @@ las películas** (así la lámina 2 también enseña la serie):
 | Objeto para la lámina | **Tres propuestas** (§19): la **pared de grafiti del túnel** con las pegatinas de Miles; el **cuarto de Miles** con sus dibujos y una página de cómic impresa con desfase; y el **fanzine punk de Hobie**. Todo se puede hacer en Blender. |
 | El más querido | **No hay encuesta oficial** (Sony no las hace). En la de IMDb de pósters de personaje ganó **Gwen**, Miles 2.º, Hobie 6.º ✅. En la de Looper sobre la mejor historia ganó **Miles (51 %)**, Gwen 22 %, Miguel 5 % ✅. **Hobie** es el favorito de las redes: la cuenta oficial le dedicó un TikTok ✅. **Miguel** es el rey de los memes («evento canónico») ✅. |
 | Letras | **Bangers** (cómic, onomatopeyas), **Anton** o **Saira Extra Condensed** (títulos altos como el logo), **Comic Neue** (cajas), **Rubik Spray Paint** / **Sedgwick Ave Display** (grafiti de Miles), **Special Elite** + letras recortadas (Hobie), **Rubik Glitch** (glitch), **Orbitron** (2099). **Todas** traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Miles **Emilio Treviño** ✅, Gwen **Alondra Hidalgo** ✅, Peter B. **Miguel Ángel Ruiz** ✅, Miguel O'Hara **José Luis Rivera** ⚠️, Hobie **Óscar Garibay** ✅, Spider-Ham **Óscar Flores** ✅, la Mancha **Javier Ibarreche** ✅. **Estudio y director: no los encontré.** |
+| Voz latina | Miles **Emilio Treviño** ✅, Gwen **Alondra Hidalgo** ✅, Peter B. **Miguel Ángel Ruiz** ✅, Miguel O'Hara **José Luis Rivera** ✅ (el mismo en las dos películas), Hobie **Óscar Garibay** ✅, Spider-Ham **Óscar Flores** ✅, la Mancha **Javier Ibarreche** ✅. **Director de las dos: Gerardo García** ✅; estudio **New Art Dub** (UNU) y **VSI Mexico City** (ATSV) ✅ (§10, segunda pasada). |
 | Tono | Juvenil, urbano, **con mucho color y mucho ruido gráfico**, pero con **sombras duras** y noches (Brooklyn, túneles). Nada de dibujo «limpio» de Disney ni de 3D brillante de plástico. |
-| Juegos de la franquicia | No hay juego propio de las películas. Sí **trajes**: el traje «Un nuevo universo» en *Marvel's Spider-Man: Miles Morales* se mueve **a doses** ✅; hay trajes de ATSV en *Marvel's Spider-Man 2* ✅ y **aspectos en Fortnite** (Miles y Miguel, 23-may-2023; Spider-Gwen, 2022) ✅. |
-| Lo que viene | *Spider-Man: Beyond the Spider-Verse*, **junio de 2027** ✅ (el día cambia según la fuente: 4 o 18 de junio ⚠️). |
+| Juegos de la franquicia | No hay juego propio de las películas. Sí **trajes**: el traje «Un nuevo universo» en *Marvel's Spider-Man: Miles Morales* se mueve **a doses** ✅; hay trajes de ATSV en *Marvel's Spider-Man 2* ✅ y **aspectos en Fortnite** (Miles y Miguel, 23-may-2023; Spider-Gwen, 2022) ✅. Miles jugable en *LEGO Marvel Super Heroes 2*; cartas en *Marvel Snap* y luchadores en *Contest of Champions* ✅ (§13). |
+| Lo que viene | *Spider-Man: Beyond the Spider-Verse*, **25 de junio de 2027** ✅ (Hollywood Reporter y Variety AU; antes «4 o 18 de junio», ya corregido; §Punto 25). |
 
 ---
 
@@ -244,7 +256,10 @@ real** (la sala de la Spider-Society, con Miguel delante).
   fit perfectly.» (01:23:53).
 - **UNU 01:23:23** — «When do I know I'm Spider-Man?» «You won't.» «**A
   leap of faith.**» Y el **salto de fe**: Miles cae **boca abajo** hacia
-  la ciudad ✅ (el plano está invertido, de memoria ⚠️).
+  la ciudad ✅. **Visto en vídeo** (segunda pasada): el plano está
+  invertido de verdad; cae con las **piernas juntas, en silueta roja plana
+  sobre negro**, y abre los brazos después ✅
+  ([clip «Leap of Faith», 0:10](https://www.dailymotion.com/video/x6yq9yg?t=10); ver §2.8).
 - **ATSV 01:44:31** — Miles: «**Everyone keeps telling me how my story is
   supposed to go. Nah. I'm gonna do my own thing.**» («Todos me dicen cómo
   tiene que ir mi historia. No. Voy a hacer lo mío.»).
@@ -269,6 +284,30 @@ nonprofessional to have made». Fuentes:
 **Para qué sirve**: es la historia perfecta para un canal de edición de
 un servidor de aficionados. Puede ir en el mensaje fijado, no en la
 lámina.
+
+### 2.8 Mirado en vídeo de verdad (segunda pasada) ✅
+
+YouTube pedía iniciar sesión. Se miraron **clips oficiales en
+Dailymotion** y un archivo de **Internet Archive** con `fotogramas.py`, y
+se midió el color con `estilo.py`. El minuto es **del clip**, no de la
+película.
+
+| Escena | Clip y minuto | Lo que se ve de verdad |
+|---|---|---|
+| **Salto de fe** (UNU) | [«Leap of Faith», 0:05-0:35](https://www.dailymotion.com/video/x6yq9yg?t=10) | Miles en el borde con capucha (0:05); cae boca abajo, **piernas en rojo plano** sobre casi negro (0:10: `#3E0005` 52 %, `#5A0008` 23 %, `#E30014` 7 %); luego picado nocturno en azul muy oscuro ([0:35](https://www.dailymotion.com/video/x6yq9yg?t=35): `#020210`, `#0B143A`) |
+| **Torre del reloj** (ATSV, película 00:49:31) | [«Hanging With Gwen», 0:09-0:48](https://www.dailymotion.com/video/x8l73q0?t=9) | Gwen **de pie boca abajo contra la pared** del reloj, capucha colgando; Miles **sentado normal** a su lado. Cierra con **los dos sentados de espaldas** ante la ciudad ([0:48](https://www.dailymotion.com/video/x8l73q0?t=48)), casi el póster. Cielo **violeta y azul lavanda**, no naranja (§5.3) |
+| **Pelea final con Kingpin** (UNU), nueva | [«Get Up, Spider-Man», 2:36](https://www.dailymotion.com/video/x87pqho) | Miles solo en un **pasillo rojo** (primeros 30 s); golpes marcados con **manchas de tinta azul cian sobre blanco**, como acuarela ([0:55-1:50](https://www.dailymotion.com/video/x87pqho?t=55)); explosión naranja y dorada (2:00). La paleta cambia con la emoción: rojo → azul → fuego |
+| **Persecución en la Spider-Society** (ATSV), nueva | [«Stop Spider-Man!», 0:50](https://www.dailymotion.com/video/x8le5bg?t=8) | Decenas de variantes en la **sala amarilla triangular**, vista por dentro y en movimiento; acaba con Miles **estrellándose en el salón de Peter B.** (0:44) |
+| **Boceto → plano final** (ATSV), nueva | [storyboards, Internet Archive](https://archive.org/details/fz-kuox-0a-yaa-7-hm-7_202405) | Lado a lado, el **storyboard a lápiz** y el fotograma terminado: Miles asustado entre **líneas triangulares de neón** naranja, verde, turquesa y magenta ([imagen 2550×2564](https://archive.org/download/fz-kuox-0a-yaa-7-hm-7_202405/FzKUOX0aYAA7Hm7.jfif)). El crédito en pantalla es «Entertainment Access» (repost de prensa) ⚠️ |
+| **Título de UNU con glitch** | [tráiler UNU, 2:12](https://www.dailymotion.com/video/x942l02?t=132) | Letras negras con **halo cian y magenta desplazado**: el desfase de impresión que propone el encargo ya existe en la saga (`#8E0126`, `#B00137`, `#644581`) |
+| **Glitch de Gwen** (ATSV) | [tráiler ATSV, 2:06](https://www.dailymotion.com/video/x8gaz41?t=126) | Primer plano deformado en **amarillo, magenta y cian** casi puros (`#D3AE17`, `#BC1B22`, `#3BC7DB`): la paleta CMYK de imprenta sin el negro |
+
+**Para #edicion**: el boceto → plano final es el «de la idea al resultado»
+del canal; el título con desfase es el efecto exacto del objeto propuesto.
+
+**Sigue sin verse en vídeo**: el Guggenheim (los dos clips de Dailymotion,
+`x8l68ns` y `x8l7ilg`, daban 404) y el túnel del grafiti. Su minuto sigue
+siendo el del subtítulo ✅.
 
 ---
 
