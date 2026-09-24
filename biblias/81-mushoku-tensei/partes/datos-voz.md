@@ -325,7 +325,7 @@ Due to being constantly bullied, Sylphiette was very shy and meek when she was a
 _Fuente: https://danbooru.donmai.us/posts?tags=mushoku_tensei_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. frieren · 16290 dibujos
+1. frieren · 16291 dibujos
 2. megumin · 10877 dibujos
 3. mona_(genshin_impact) · 9962 dibujos
 4. aqua_(konosuba) · 6800 dibujos
@@ -388,16 +388,20 @@ _Fuente: https://www.reddit.com/r/mushokutensei_
 - (338 votos, 59 comentarios) Guess my favorite character based on my figures (Level: impossible) · https://www.reddit.com/r/mushokutensei/comments/1nesyif/guess_my_favorite_character_based_on_my_figures/
 - (71 votos, 35 comentarios) What scene/chapter made you realize who your favorite character is? · https://www.reddit.com/r/mushokutensei/comments/1wiix7y/what_scenechapter_made_you_realize_who_your/
 - (61 votos, 93 comentarios) Tell me your favorite character (in the anime) and · https://www.reddit.com/r/mushokutensei/comments/1rwlg0t/tell_me_your_favorite_character_in_the_anime_and/
+**«why I love»**
+- (725 votos, 28 comentarios) This is exactly why I love Roxy. Just look at her expression · https://www.reddit.com/r/mushokutensei/comments/1wji486/this_is_exactly_why_i_love_roxy_just_look_at_her/
+- (416 votos, 23 comentarios) This is why I love rudeus: · https://www.reddit.com/r/mushokutensei/comments/15fgj4f/this_is_why_i_love_rudeus/
+- (374 votos, 16 comentarios) Why I love Rudeus as a mc · https://www.reddit.com/r/mushokutensei/comments/190qpoa/why_i_love_rudeus_as_a_mc/
+- (225 votos, 25 comentarios) why i love mushoku tensei (because it broke me) · https://www.reddit.com/r/mushokutensei/comments/1601pdr/why_i_love_mushoku_tensei_because_it_broke_me/
+- (116 votos, 34 comentarios) This is why I love the LN😭 · https://www.reddit.com/r/mushokutensei/comments/171qjnp/this_is_why_i_love_the_ln/
+- (108 votos, 18 comentarios) Mushoku tensei world is dirty and raw and thats why I love it · https://www.reddit.com/r/mushokutensei/comments/mzy323/mushoku_tensei_world_is_dirty_and_raw_and_thats/
 **«best scene»**
 - (563 votos, 53 comentarios) LN readers, whats ur best guess for the exact scene this is showing? · https://www.reddit.com/r/mushokutensei/comments/1wj53ue/ln_readers_whats_ur_best_guess_for_the_exact/
 - (118 votos, 21 comentarios) Best scene on Mushoku Tensei Season 1 · https://www.reddit.com/r/mushokutensei/comments/1siekzx/best_scene_on_mushoku_tensei_season_1/
 - (39 votos, 10 comentarios) 5th best scene of the work · https://www.reddit.com/r/mushokutensei/comments/na5r4v/5th_best_scene_of_the_work/
 - (15 votos, 2 comentarios) Best Scene in Episode One! · https://www.reddit.com/r/mushokutensei/comments/kuip2a/best_scene_in_episode_one/
 - (4 votos, 6 comentarios) The Best CG Scene In The Anime Thus Far? · https://www.reddit.com/r/mushokutensei/comments/phwi48/the_best_cg_scene_in_the_anime_thus_far/
-**«unpopular opinion»**
-- (720 votos, 57 comentarios) Unpopular opinion: I actually prefer anime Oldeus’s facial design over the light novel. He may look less cool or… · https://www.reddit.com/r/mushokutensei/comments/1w99ir7/unpopular_opinion_i_actually_prefer_anime_oldeuss/
-- (584 votos, 112 comentarios) Unpopular Opinion: Sara is the best girl · https://www.reddit.com/r/mushokutensei/comments/t5mbe5/unpopular_opinion_sara_is_the_best_girl/
-- (196 votos, 66 comentarios) Unpopular Opinion : Paul Greyrat is a caring dad and good man · https://www.reddit.com/r/mushokutensei/comments/1dbyrhj/unpopular_opinion_paul_greyrat_is_a_caring_dad/
-- (62 votos, 11 comentarios) Probably unpopular opinion, but I think explicitly nude and lewd arts (as opposed to "sexy" art) should... · https://www.reddit.com/r/mushokutensei/comments/mff27f/probably_unpopular_opinion_but_i_think_explicitly/
-- (51 votos, 8 comentarios) Unpopular opinion: WE SHOULDN'T HYPE UP TP4 TOO MUCH FOR THE ANIME ONLYS · https://www.reddit.com/r/mushokutensei/comments/1jksggs/unpopular_opinion_we_shouldnt_hype_up_tp4_too/
-- (42 votos, 26 comentarios) Unpopular opinion? · https://www.reddit.com/r/mushokutensei/comments/11gwpyq/unpopular_opinion/
+**«iconic»**
+- (319 votos, 3 comentarios) Iconic scene (@keisuke_tochi) · https://www.reddit.com/r/mushokutensei/comments/1l6z5m0/iconic_scene_keisuke_tochi/
+- (167 votos, 4 comentarios) Sylphy with her iconic dress · https://www.reddit.com/r/mushokutensei/comments/17vlf5u/sylphy_with_her_iconic_dress/
+- (6 votos, 11 comentarios) What is/are Rudy's most iconic spell or signature spell ? · https://www.reddit.com/r/mushokutensei/comments/1hqkqhr/what_isare_rudys_most_iconic_spell_or_signature/

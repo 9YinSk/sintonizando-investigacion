@@ -22,27 +22,27 @@ _Fuente: https://anilist.co/anime/108465_
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
-**«Mushoku Tensei opening»**
+**«Mushoku Tensei: Jobless Reincarnation opening»**
 - Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
-- Mushoku Tensei - Tráiler Oficial del nuevo arco · 1:32 · Vidaextra · 23094 vistas · https://www.dailymotion.com/video/x8yhi8e
 - Mushoku Tensei: Jobless Reincarnation · 1:59 · JeuxVideo.com · 15117 vistas · https://www.dailymotion.com/video/x9j3vu2
-- Un meilleur anime isekai que Mushoku Tensei ? 🤯 · 0:14 · Tijaysan · 1849 vistas · https://www.dailymotion.com/video/xa55o48
-- mushoku tensei trailer saison 3 · 0:53 · Yuki Fizzle · 1613 vistas · https://www.dailymotion.com/video/xa3kune
-- Mushoku Tensei (Ep 4) ~ Ghislaine Is Thicc · 1:01 · evans58debora · 1014 vistas · https://www.dailymotion.com/video/x80lyyx
-**«Mushoku Tensei ending»**
-- Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
-- Mushoku Tensei - Tráiler Oficial del nuevo arco · 1:32 · Vidaextra · 23094 vistas · https://www.dailymotion.com/video/x8yhi8e
-- Mushoku Tensei: Jobless Reincarnation · 1:59 · JeuxVideo.com · 15117 vistas · https://www.dailymotion.com/video/x9j3vu2
-- Un meilleur anime isekai que Mushoku Tensei ? 🤯 · 0:14 · Tijaysan · 1849 vistas · https://www.dailymotion.com/video/xa55o48
-- mushoku tensei trailer saison 3 · 0:53 · Yuki Fizzle · 1613 vistas · https://www.dailymotion.com/video/xa3kune
-- Mushoku Tensei (Ep 4) ~ Ghislaine Is Thicc · 1:01 · evans58debora · 1014 vistas · https://www.dailymotion.com/video/x80lyyx
-**«Mushoku Tensei trailer»**
-- Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
-- Mushoku Tensei - Tráiler Oficial del nuevo arco · 1:32 · Vidaextra · 23094 vistas · https://www.dailymotion.com/video/x8yhi8e
-- Mushoku Tensei: Jobless Reincarnation · 1:59 · JeuxVideo.com · 15117 vistas · https://www.dailymotion.com/video/x9j3vu2
+- Mushoku Tensei: Jobless Reincarnation - Der Trailer zu Staffel 1 · 1:59 · MeinMMO · 11891 vistas · https://www.dailymotion.com/video/x8vdgd4
 - Mushoku Tensei: Jobless Reincarnation - temporada 2 Tráiler VOSE · 2:16 · Sensacine · 10723 vistas · https://www.dailymotion.com/video/x8c9d35
-- mushoku tensei trailer saison 3 · 0:53 · Yuki Fizzle · 1613 vistas · https://www.dailymotion.com/video/xa3kune
-- Mushoku Tensei Jobless Reincarnation - Tráiler Temporada 2 · 1:49 · FilmAffinity · 1004 vistas · https://www.dailymotion.com/video/x8m82b4
+- Mushoku Tensei: Jobless Reincarnation | show | 2021 | Official Trailer · 1:59 · JustWatch · 2577 vistas · https://www.dailymotion.com/video/x8hseis
+- Mushoku Tensei: Jobless Reincarnation Saison 1 - Official Trailer (EN) · 1:59 · BetaSeries · 2161 vistas · https://www.dailymotion.com/video/x8t0236
+**«Mushoku Tensei: Jobless Reincarnation ending»**
+- Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
+- Mushoku Tensei: Jobless Reincarnation · 1:59 · JeuxVideo.com · 15117 vistas · https://www.dailymotion.com/video/x9j3vu2
+- Mushoku Tensei: Jobless Reincarnation - Der Trailer zu Staffel 1 · 1:59 · MeinMMO · 11891 vistas · https://www.dailymotion.com/video/x8vdgd4
+- Mushoku Tensei: Jobless Reincarnation - temporada 2 Tráiler VOSE · 2:16 · Sensacine · 10723 vistas · https://www.dailymotion.com/video/x8c9d35
+- Mushoku Tensei: Jobless Reincarnation | show | 2021 | Official Trailer · 1:59 · JustWatch · 2577 vistas · https://www.dailymotion.com/video/x8hseis
+- Mushoku Tensei: Jobless Reincarnation Saison 1 - Official Trailer (EN) · 1:59 · BetaSeries · 2161 vistas · https://www.dailymotion.com/video/x8t0236
+**«Mushoku Tensei: Jobless Reincarnation trailer»**
+- Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
+- Mushoku Tensei: Jobless Reincarnation · 1:59 · JeuxVideo.com · 15117 vistas · https://www.dailymotion.com/video/x9j3vu2
+- Mushoku Tensei: Jobless Reincarnation - Der Trailer zu Staffel 1 · 1:59 · MeinMMO · 11891 vistas · https://www.dailymotion.com/video/x8vdgd4
+- Mushoku Tensei: Jobless Reincarnation - temporada 2 Tráiler VOSE · 2:16 · Sensacine · 10723 vistas · https://www.dailymotion.com/video/x8c9d35
+- Mushoku Tensei: Jobless Reincarnation | show | 2021 | Official Trailer · 1:59 · JustWatch · 2577 vistas · https://www.dailymotion.com/video/x8hseis
+- Mushoku Tensei: Jobless Reincarnation Saison 1 - Official Trailer (EN) · 1:59 · BetaSeries · 2161 vistas · https://www.dailymotion.com/video/x8t0236
 **«Mushoku Tensei escena»**
 - Mushoku Tensei: Jobless Reincarnation Tráiler · 1:59 · Sensacine · 64363 vistas · https://www.dailymotion.com/video/x8bc8ii
 - Mushoku Tensei - Tráiler Oficial del nuevo arco · 1:32 · Vidaextra · 23094 vistas · https://www.dailymotion.com/video/x8yhi8e
@@ -57,39 +57,26 @@ _Fuente: https://archive.org_
 - Baka! Baka! Baka! - Episode 128 - Mushoku Tensei Jobless Reincarnation! · audio · 1753 descargas · https://archive.org/details/bbb-128-mushoku-tensei-jobless-reincarnation
 - Mushoku Tensei Jobless Reincarnation - German · movies · 1673 descargas · https://archive.org/details/mushoku-tensei-jobless-reincarnation-german
 - Mushoku Tensei: Jobless Reincarnation · movies · 1588 descargas · https://archive.org/details/turner_video_18828
-- Anime 142 Primavera 24 04 Mushoku Tensei Seiyu Raijo The Grimm Variations · audio · 1404 descargas · https://archive.org/details/anime-142-primavera-24-04-mushoku-tensei-seiyu-raijo-the-grimm-variations
 - Mushoku Tensei: Jobless Reincarnation · movies · 1231 descargas · https://archive.org/details/turner_video_82695
-- Mushoku Tensei Isekai Ittara Honki Dasu Audio Latino Parte 2 · movies · 1129 descargas · https://archive.org/details/010_20240310_20240310_1954
-- Mushoku Tensei Isekai Ittara Honki Dasu Audio Latino · movies · 1053 descargas · https://archive.org/details/007_20240310_20240310
 - Mushoku Tensei Jobless Reincarnation 1080p dub · movies · 1026 descargas · https://archive.org/details/mushoku-tensei-jobless-reincarnation-e-2-1080p
 - Mushoku Tensei: Jobless Reincarnation · movies · 923 descargas · https://archive.org/details/turner_video_18827
 - Mushoku Tensei: Jobless Reincarnation · movies · 896 descargas · https://archive.org/details/turner_video_20427
-- Episodic Impressions: Mushoku Tensei season 2 (episode 1) · movies · 884 descargas · https://archive.org/details/youtube-F_369_CHXwE
-- Mushoku Tensei 01 Infancy Period (v 2) P 4 · movies · 604 descargas · https://archive.org/details/mushoku-tensei-01-infancy-period-v-2-p-4
 - 壽屋 無職轉生 艾莉絲 開箱 ! Mushoku Tensei: Jobless Reincarnation Eris KATOBUKIYA PVC figure UNBOXING · movies · 575 descargas · https://archive.org/details/youtube-3F8l-Mg5jh4
-- Mushoku Tensei Season 2 Opening Full 「spiral」 LONGMAN Lyrics\ · audio · 549 descargas · https://archive.org/details/mushoku-tensei-season-2-opening-full-spiral-longman-lyrics-kan-rom-eng
-- Slick | cw: Mushoku Tensei - @Touyarokii Mightyena and lycancroc midday · movies · 543 descargas · https://archive.org/details/twitter-1386287472477458436
-- Mushoku Tensei · movies · 338 descargas · https://archive.org/details/mushoku-tensei-jobless-reincarnation-season-2-episode-22-english-sub-0
-- Anime 110 - Verano ‘23 09 - One Piece, Jujutsu Kaizen, Mushoku Tensei · movies · 330 descargas · https://archive.org/details/anime-110-verano-23-09-one-piece-jujutsu-kaizen-mushoku-tensei
-- Mushoku Tensei Author "Apologizes" To Western Viewers For Fictional Character's View Of… · movies · 304 descargas · https://archive.org/details/youtube-zNg7U232Wi0
-- Mushoku Tensei Blood Pact Turning Point 4 Fan Animation · movies · 237 descargas · https://archive.org/details/mushoku-tensei-blood-pact-turning-point-4-fan-animation
-- Anime 107 Verano ‘ 23 06 My Happy Marriage, Mushoku Tensei, Zom 100, Dark Gathering · movies · 236 descargas · https://archive.org/details/anime-107-verano-23-06-my-happy-marriage-mushoku-tensei-zom-100-dark-gathering
+- Forsen reacts to Eris Intense First Impression | Mushoku Tensei: Jobless Reincarnation · movies · 82 descargas · https://archive.org/details/2026-07-11-15-05-00comp
+- They are Changing The Art Design in Mushoku Tensei Jobless Reincarnation Season 2 · movies · 11 descargas · https://archive.org/details/youtube-Z5m4ovS_mX0
+- Mushoku Tensei Jobless Reincarnation [ Hindi] 480 P S 01 E 01 · movies · 0 descargas · https://archive.org/details/mushoku-tensei-jobless-reincarnation-hindi-480-p-s-01-e-01
+- Mushoku Tensei - Jobless Reincarnation- S02 - Flac dual audio - Jap-Eng · audio · 0 descargas · https://archive.org/details/Mushoku-Tensei-Jobless-Reincarnation-s02-eng-jap-flac
 
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_
 
-- Kyuuyaku Megami Tensei · 増子司, 崎元仁 · 2012-06-19 · https://musicbrainz.org/release-group/69ecc71b-327b-4ae0-8d1b-96d674a53859
-- Shin Megami Tensei · Keisuke Nishino, Masamitsu Shindo · 1994-02-25 · https://musicbrainz.org/release-group/eee30797-af95-45d7-b3af-4ba90f8347ee
-- Megami Tensei: The Old Testament · Tsukasa Masuko, Hitoshi Sakimoto · 1995-03-31 · https://musicbrainz.org/release-group/ca1120b1-e13d-46be-a1eb-13f94059e7c0
-- Shin Megami Tensei: Strange Journey Soundtrack · 目黒将司 · 2010-03-23 · https://musicbrainz.org/release-group/92bc6298-52d8-489a-b906-3b5aa59bec69
-- Shin Megami Tensei II Sound Relation · 増子司 · 1994-06-17 · https://musicbrainz.org/release-group/9d363b72-f604-4291-b578-f2c5cc2d7261
-- Shin Megami Tensei IV Music Collection · 小塚良太 · 2013-07-16 · https://musicbrainz.org/release-group/2d0e26e5-f3fd-4a4c-b5a2-6fb554c524b9
-- Shin Megami Tensei NINE Original Soundtrack · ATLUS Sound Team · 2023-08-31 · https://musicbrainz.org/release-group/f3217f62-88b0-4bb0-a13f-ffd7424dbedf
-- Shin Megami Tensei IV Final Original Soundtrack · 小塚良太 · 2016-02-24 · https://musicbrainz.org/release-group/21109aef-8c03-4460-81f6-d4735ff30085
-- Shin Megami Tensei: Devil Summoner: Soul Hackers · 喜多條敦志 · 2012-08-30 · https://musicbrainz.org/release-group/36fce66f-25dd-481d-802c-2a8d457e5243
-- Shin Megami Tensei / II / if... Vinyl Soundtrack Box Set · 増子司 · 2025-04-17 · https://musicbrainz.org/release-group/03653aa0-40d2-41b3-8076-3ee5c3e27999
-- Shin Megami Tensei V: Vengeance Original Soundtrack Extended · ATLUS Sound Team · 2024-11-05 · https://musicbrainz.org/release-group/c9de019b-4ac2-4d9e-ad60-b29e74055442
-- Shin Megami Tensei (SEGA CD version) Original Soundtrack · ATLUS Sound Team · 2023-08-31 · https://musicbrainz.org/release-group/030d511e-77a0-46b1-8e56-3a8332f7aa86
-- Shin Megami Tensei: Digital Devil Saga 2 Original Soundtrack · 目黒将司 · 2005-10-04 · https://musicbrainz.org/release-group/189c55fe-fd53-4234-b2bd-c69bf5eebad3
-- Shin Megami Tensei if... (Super Famicom version) Original Soundtrack · ATLUS Sound Team · 2023-08-31 · https://musicbrainz.org/release-group/08dc9e79-3e8b-4cde-a882-e42aec6a2020
-- Shin Megami Tensei Ⅱ (Super Famicom version) Original Soundtrack · ATLUS Sound Team · 2023-08-31 · https://musicbrainz.org/release-group/33571cdc-a8d2-4834-adc7-645adc6b3919
+- Demon Lord Reincarnation · Romanus Surt · 2023-07-23 · https://musicbrainz.org/release-group/0e5c1423-ed9b-4525-b26e-7cebff0dade8
+- Never More —Reincarnation:PERSONA4— · 目黒将司 · 2011-10-26 · https://musicbrainz.org/release-group/68704689-1e2e-4660-a841-16057bdd733d
+- The Reincarnation of Peter Proud · Jerry Goldsmith · 2018-12-03 · https://musicbrainz.org/release-group/34d5772d-5a2f-4f55-8702-18617462a5af
+- テクノソフト・ゲームミュージック・コレクション VOL.7 「Reincarnation」 · 九十九百太郎 · 1997-05-01 · https://musicbrainz.org/release-group/f4f562b4-93d5-4641-b5b1-fc8b6ccbc099
+- 『無職転生II 〜異世界行ったら本気だす〜』オリジナル・サウンドトラック1 · 藤澤慶昌 · 2023-09-25 · https://musicbrainz.org/release-group/e6deb82c-3b81-450d-8fe9-814ebafc69e0
+- DATE A LIVE: Rio-Reincarnation OFFICIAL SOUNDTRACK · 林茂樹 · 2019-07-23 · https://musicbrainz.org/release-group/8c17df52-1088-4141-b85a-107d77b5b7f7
+- さくら、もゆ。–As the Night's, Reincarnation– ミュージックコレクション · 忍 · 2019-04-29 · https://musicbrainz.org/release-group/bc325862-0172-444b-975f-c94808bd0fb9
+- Reincarnation Nirvanienne de la Belle-mon Andromede · J.A. Seazer · ? · https://musicbrainz.org/release-group/797a669f-227f-384c-84e0-a6728339e825
+- アニメ「リィンカーネーションの花弁」オリジナルサウンドトラック · KOHTA YAMAMOTO · 2026-05-27 · https://musicbrainz.org/release-group/9c05529e-17fa-46aa-936d-1bd6b8ca981e
+- TVアニメ「最強陰陽師の異世界転生記」オリジナル・サウンドトラック · 桶狭間ありさ · 2023-03-29 · https://musicbrainz.org/release-group/68ce2094-e522-41ac-8e40-ae92c9d2640a
