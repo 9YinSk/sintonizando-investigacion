@@ -839,17 +839,45 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 - **Qué le importa**: al principio, **las órdenes** («命令», 33 veces en
   los subtítulos) ✅; luego, **el corazón de quien le pide la carta**.
 - **Cómo se expresa**: frases cortas, formales, sin adornos (§7.2).
-  **Casi no sonríe**; su sonrisa es pequeña y llega tarde en la serie ⚠️.
-  No grita; cuando se rompe, llora en silencio ⚠️. Explica las cosas
+  **Casi no sonríe**; su sonrisa es pequeña y llega tarde en la serie ✅
+  (2.ª pasada: capturas de los eps. 5 y 9, abajo). No grita: la única vez
+  que alza la voz es «¡Quiero saber qué es "te quiero"!» (ep. 1,
+  00:21:29) ✅. Cuando se rompe, llora **sin desfigurar la cara** ✅. Explica las cosas
   como un informe: primero el dato, luego la conclusión («Era distinto
   de una carta normal… me costó alabarlo», película, 00:13:35) ✅.
 - **Cómo saluda**: «Encantada. Allá donde el cliente lo desee, acudiré.
   Servicio de Auto Memory Dolls, Violet Evergarden» ✅, con una
   **reverencia formal** ⚠️ (de memoria: comprobar el gesto en el ep. 13,
   00:23:17).
-- **Lenguaje corporal** ⚠️: espalda recta, manos juntas delante, pasos
-  medidos; teclea muy rápido y sin mirar; se toca el **broche** cuando
-  piensa en el Mayor.
+- **Lenguaje corporal**: **espalda recta** ✅ (Takase cuidó «cómo se
+  mantiene erguida», §3.3); **no parpadea y mira de frente** ✅ (Ishidate,
+  §7.1). De memoria ⚠️: manos juntas delante, pasos medidos, teclea muy
+  rápido y sin mirar, se toca el **broche** cuando piensa en el Mayor.
+- **Nuevo (2.ª pasada) · Su cara en cada emoción** (capturas reales de la
+  wiki, miradas):
+  - **Alegría**: sonrisa breve, boca cerrada, ojos entornados:
+    [«Violet's smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/2/2a/Violet%27s_smile.jpg)
+    (1274×714, ep. 5, lazo rojo y cielo) y
+    [«Violet smile ep9.png»](https://static.wikia.nocookie.net/violet-evergarden/images/f/f1/Violet_smile_ep9.png)
+    (540×304, ep. 9, de perfil, luz de interior) ✅.
+  - **Tristeza**: [«Violet crying.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/8/8f/Violet_crying.jpg)
+    (1280×720): lágrimas en las mejillas, boca cerrada, broche a la vista
+    ✅; episodio exacto ⚠️. Y en la oficina, ep. 10, clip
+    [3:10](https://www.dailymotion.com/video/x80vbaj?t=190) ✅.
+  - **Vergüenza o torpeza**: [«Violet awkward smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/0/07/Violet_awkward_smile.jpg)
+    (700×394): **se empuja las comisuras con los dedos** para fabricarse
+    una sonrisa ✅. Resume el personaje: aprende a sentir practicando el
+    gesto.
+  - **Miedo**: no hay captura etiquetada ⚠️. Lo más cercano: sus ojos muy
+    abiertos en la batalla del tráiler ([0:44](https://www.dailymotion.com/video/x7t0he2?t=44)),
+    tensión y no llanto.
+  - **Rabia**: **no encontré ninguna** escena de Violet furiosa. Su enfado
+    es quietud tensa. **No dibujarle una cara de furia.**
+- **Nuevo · Datos oficiales**: **161 cm**; cumpleaños **25 de septiembre**
+  ✅ (Starter Book oficial, traducido en
+  [dennou-translations](https://dennou-translations.tumblr.com/post/173583642499/violet-evergarden-starter-book-character-profiles),
+  e infobox de la wiki). Al final **se casa con Gilbert** (la wiki la da
+  como su esposa) ✅: no contarlo en la lámina, es el final.
 - **Con quién aparece**: Gilbert (recuerdos), Hodgins, Cattleya,
   Benedict, Erica, Iris; en cada episodio, el cliente.
 
@@ -859,7 +887,13 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   verde**, del color de sus ojos (ep. 1, 00:00:22; ep. 8, 00:14:06) ✅.
   Le dijo **«愛してる»** al final de la guerra (ep. 9, 00:02:38) ✅.
 - Habla bajo y con cariño: «君は ここにいるんだ» («tú quédate aquí»,
-  ep. 8, 00:07:23) ✅. Voz japonesa: **Daisuke Namikawa** ✅ (Doblaje Wiki).
+  ep. 8, 00:07:23) ✅. Voz japonesa: **Daisuke Namikawa** ✅ (Doblaje Wiki;
+  y «cv 浪川大輔» en pantalla, tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56)).
+- **Nuevo (2.ª pasada)**: **185 cm, grupo O** (Starter Book + wiki) ✅✅;
+  **29 años** (novela, tomo 2, cap. 5) ✅. Pelo **azul muy oscuro** y ojos
+  **verdes** (hoja 1 nº12, 26, 31; Danbooru `blue_hair`, `green_eyes`) ✅.
+  En la película lleva **parche en un ojo** (hoja 2 nº59). Caras por
+  emoción: la wiki no tiene capturas etiquetadas ⚠️.
 - Sale sobre todo en **recuerdos**. Para #poemas **no es buen narrador**:
   su papel es ser **el destinatario** de las cartas de Violet.
 
@@ -867,7 +901,12 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 
 - Fundó y dirige la **compañía postal C.H.** en Leiden ✅
   ([wiki](https://violet-evergarden.fandom.com/wiki/C.H_Postal_Company)).
-  Amigo de Gilbert y tutor de Violet ⚠️.
+  **Amigo de Gilbert desde la Academia Militar** ✅ (Fanbook oficial,
+  [dennou-translations](https://dennou-translations.tumblr.com/post/184406019584/violet-evergarden-official-fanbook-character),
+  y wiki); tutor de Violet ⚠️.
+- **Nuevo (2.ª pasada)**: **192 cm, grupo A** ✅✅ (Starter Book + wiki). Pelo
+  **rojizo con coleta**, barba de pocos días (tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22);
+  Danbooru `red_hair`, `stubble`, `ponytail`) ✅.
 - La llama **«ヴァイオレットちゃん»** ✅. Bromista, cariñoso, un poco
   payaso: el meme de los **tres muñecos de animales** («¡elige uno ya,
   que se acaba el mundo!») sale de él ✅
@@ -876,12 +915,19 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   Violet no sabe que está herida por dentro.
 - **Para #poemas**: **escribe un haiku** en el especial (00:13:19) ✅.
   Es el más «poeta aficionado» de la oficina.
-- Voz japonesa: **Takehito Koyasu** ⚠️.
+- Voz japonesa: **Takehito Koyasu** (子安武人) ✅ (lista del Blu-ray y
+  «cv 子安武人» en pantalla en el tráiler, 0:22).
 
 ### Cattleya Baudelaire (カトレア・ボードレール) — la Doll estrella
 
-- La Doll **más solicitada** de C.H. ⚠️. Morena, labios rojos, elegante ⚠️.
-  Hace de **hermana mayor** de Violet.
+- La Doll **con más trayectoria** de C.H., **especialista en cartas de
+  amor** ✅ (Fanbook oficial). **Pelo negro largo, chaqueta roja,
+  colgante rojo**, elegante ✅ (tráiler [0:32](https://www.dailymotion.com/video/x7t0he2?t=32)).
+  **167 cm, grupo B** ✅✅. Hace de **hermana mayor** de Violet.
+- **Su cara de fastidio**: [«Angry Cattleya.png»](https://static.wikia.nocookie.net/violet-evergarden/images/6/66/Angry_Cattleya.png)
+  (1366×768): boca tensa, ceja alzada, mira de lado. Es la pelea con
+  Benedict del ep. 3, 00:20:03 a 00:20:13 («¡este tonto puso un vaso
+  mojado sobre la carta que escribí!») ✅✅.
 - Defiende el oficio: la máquina es un arma «**para que las mujeres que
   trabajamos luchemos en la sociedad**» (ep. 2, 00:08:25) ✅.
 - **Para #poemas**: es **la lectora crítica**. En el especial lee los
@@ -889,7 +935,8 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   subtítulo ⚠️), «…¿y esto qué es?» (00:13:45, tras leer en voz alta la
   hoja de Benedict, 00:13:40 ✅). Es la que mejor dice «**comenta el texto**».
 - Se pelea con Benedict y luego toman el té juntos (meme) ✅ (TV Tropes).
-- Voz japonesa: **Aya Endō** ⚠️. Voz latina: **Carla Castañeda** ✅ (§10).
+- Voz japonesa: **Aya Endō** ✅ (lista del Blu-ray y «cv 遠藤綾» en el
+  tráiler, 0:32). Voz latina: **Carla Castañeda** ✅ (§10).
 
 ### Benedict Blue (ベネディクト・ブルー) — el cartero
 
@@ -897,14 +944,19 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   ([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/694099/)).
   Guapo, seco pero honrado y amable ✅ (misma fuente). Lleva **botas de
   tacón** ⚠️ (el título de la entrevista de Takase habla de «High Heels»).
+- **Nuevo (2.ª pasada)**: **rubio**, camisa blanca con **tirantes** (tráiler
+  [0:28](https://www.dailymotion.com/video/x7t0he2?t=28)) ✅; **obsesionado
+  con la moda, no usa el uniforme oficial** de cartero ✅ (Fanbook).
+  **172 cm, grupo O** ✅✅.
 - Gruñón: «何だよ！ 何で俺がお茶を» («¿Y por qué tengo que hacer yo el
   té?», ep. 13, 00:22:32) ✅.
 - **Para #poemas**: en el especial propone «**¡hacemos nosotros la mejor
   letra!**» y escribe «Esto es el infierno, no hope / sin ti, no future:
   ¡el grito de mi alma!» (00:12:47 a 00:13:50) ✅. En la película:
   «el himno al mar sólo lo escribe quien es elegido» (00:14:05) ✅.
-- **2.º en la encuesta de fans de 2022** de ねとらぼ ⚠️ (una fuente).
-- Voz japonesa: **Kōki Uchiyama** ✅
+- **2.º en la encuesta de fans de 2022** y **3.º en la de 2021** de
+  ねとらぼ ✅✅ (§9): **el secundario más querido**.
+- Voz japonesa: **Kōki Uchiyama** ✅ («cv 内山昂輝» en el tráiler, 0:28;
   ([BTVA](https://www.behindthevoiceactors.com/characters/Violet-Evergarden/Cattleya-Baudelaire/), resumen).
 
 ### Erica Brown (エリカ・ブラウン) — la Doll que quería ser escritora
@@ -914,13 +966,36 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   sueño olvidado** (ep. 2, 00:20:36 a 00:20:49) ✅.
 - **Para #poemas**: es **la persona que escribe en el foro sin atreverse
   a publicar**. Perfecta para una frase de ánimo. Voz japonesa: **Minori
-  Chihara** ⚠️ (también canta el ending).
+  Chihara** ✅ (lista del Blu-ray y «cv 茅原実里» en el tráiler,
+  [0:36](https://www.dailymotion.com/video/x7t0he2?t=36); también canta el
+  ending).
+- **Nuevo (2.ª pasada)**: pelo castaño corto y **gafas redondas** (tráiler
+  0:36) ✅; **155 cm, grupo AB**, la más baja ✅✅. El Starter Book dice que
+  «**se preocupa por dentro en cada trato con un cliente y no tiene
+  confianza en sí misma**» ✅.
 
 ### Iris Cannary (アイリス・カナリー) — la Doll joven
 
 - Ambiciosa y quejica ✅ (ep. 2, 00:06:12). Viaja a su pueblo en el ep. 4
   ✅ (subtítulo 00:05:23). En la película: «**¡El año que viene el himno
   lo escribo yo!**» (00:14:02) ✅. Voz japonesa: **Haruka Tomatsu** ⚠️.
+- **Nuevo (2.ª pasada)**: viene de **Kazaly** y quiere ser mujer
+  independiente en la capital ✅ (Fanbook + ep. 2). **160 cm, grupo B** ✅✅.
+  Pelo corto castaño claro, ojos ámbar, collar de cuentas turquesa (hoja 1
+  nº13, 37-39; hoja 2 nº68) ⚠️ color sin medir. **Su cara de rabia**:
+  [«Iris angry.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/d/d7/Iris_angry.jpg)
+  (809×455): cejas muy fruncidas, dientes apretados. Es la cara más
+  «de anime clásico» del reparto: sirve de **contraste** con Violet.
+
+### Dinámicas para láminas en grupo (Nuevo, 2.ª pasada)
+
+- **Cattleya y Benedict** se pelean y luego toman el té juntos ✅.
+- **Hodgins** hace reír a toda la oficina (los muñecos) ✅; Cattleya se
+  burla de él (hoja 2 nº57).
+- **Violet y Erica** se parecen: ninguna se atreve al principio a escribir
+  algo propio ✅.
+- **Iris y Violet** chocan: Iris quiere que la vean; Violet no busca nada
+  para sí misma ✅.
 
 ### Secundarios de un episodio que sirven a #poemas
 
