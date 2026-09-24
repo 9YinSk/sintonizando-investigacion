@@ -9,9 +9,11 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
   92 webs, 166 minutos citados, 87 hex, 3 hojas.
-- 21 Spider-Verse: imagen, vídeo y texto listos; voz en su 2ª tanda (sólo
-  punto 13, caras con emoción); falta el redactor.
-- 22 Violet Evergarden: 4 investigadores en marcha.
+- **21 Spider-Verse: COMPLETA y subida.** 2584 líneas, ✅28 ⚠️11 ❌0,
+  197 referencias, 137 webs, 134 minutos citados, 55 hex, 3 hojas.
+- 22 Violet Evergarden: imagen, vídeo y texto listos; voz en su 2ª tanda
+  (sólo punto 8, doblaje latino); falta el redactor.
+- 23 Lilo & Stitch: 4 investigadores en marcha.
 - Datos recolectados (gratis) para 19-29.
 
 ## Avisos para el dueño
@@ -31,6 +33,11 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
   frases textuales del doblaje latino con minuto (YouTube pide iniciar
   sesión), la ropa de Gen medida, las poses de Gen y Kaseki en vídeo, y las
   vistas de los fandubs.
+- 21 Spider-Verse: el punto 13 (cara en cada emoción) queda ⚠️, sólo 7 de 25
+  combinaciones tienen fotograma y minuto; Miguel y Hobie no tienen ninguna
+  (no hay clips suyos en Dailymotion y YouTube bloquea). También quedan ⚠️
+  los hex de los trajes de Miles y Hobie, posturas de Peter B./Miguel/Hobie,
+  comida favorita de 3 personajes y 2 frases icónicas en latino.
 
 ## Costos
 
@@ -47,3 +54,9 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
 | 20 | voz | Sonnet | 14 | 213 mil |
 | 20 | texto | Sonnet | 13 | 219 mil |
 | 20 | redactor | Opus | 16 | 328 mil |
+| 21 | imagen | Sonnet | 10 | 222 mil |
+| 21 | vídeo | Sonnet | 12 | 200 mil |
+| 21 | voz | Sonnet | 13 | 236 mil |
+| 21 | voz (Sigue) | Sonnet | 10 | 191 mil |
+| 21 | texto | Sonnet | 11 | 180 mil |
+| 21 | redactor | Opus | 17 | 333 mil |
