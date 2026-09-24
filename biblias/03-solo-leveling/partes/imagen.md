@@ -258,5 +258,7 @@ lo que ya está en `biblia.md` (arte oficial §10, vestuario §8, modelos 3D
   vídeo, salvo los tráilers de los crossovers de videojuegos, que están
   descritos por las notas de prensa oficiales citadas arriba).
 
-Sigue: nada pendiente de los puntos 19 y 23 (obligatorio cubierto). Quedan
-sólo los ⚠️ de «No encontré», que son extras, no obligatorios.
+**Parte terminada.** Los puntos 19 y 23 están cubiertos con lo obligatorio del
+encargo (tramas/pinceladas/patrones/emblemas con equivalentes libres; juegos,
+eventos, cafés, figuras y cosplay con fuente y tamaño medido). Lo que falta
+son sólo los extras listados en «No encontré», con sus búsquedas.
