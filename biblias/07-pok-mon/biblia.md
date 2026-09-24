@@ -1791,13 +1791,101 @@ primaria** y choca con los 140 cm oficiales. **No usarlo.**
 
 ## P23 · Colaboraciones, cruces, figuras y cosplay
 
-_(pendiente)_
+**Marcas**
+- **Pokémon × Museo Van Gogh** (28-sep-2023 a 7-ene-2024): cuadros nuevos
+  de ilustradores del juego de cartas al estilo de Van Gogh: **Pikachu con
+  sombrero de fieltro gris**, Snorlax y Munchlax en el dormitorio de Van
+  Gogh, Sunflora entre girasoles ✅ ([Van Gogh Museum](https://www.vangoghmuseum.nl/),
+  [press.pokemon.com](https://press.pokemon.com/), Smithsonian Magazine).
+- **Uniqlo (UT)**: camisetas con arte del juego de cartas desde el
+  11-ago-2025; otra colección anunciada para 2026 ✅ (Hypebeast, CBR).
+- **Crocs**: zuecos de Gengar, Charizard, Snorlax y Jigglypuff (2024) ✅
+  (CBR, dos artículos).
+- **Starbucks Japón**: «Pikachu Honey Cream Latte» y **41 piezas**
+  (tazas, bolsas, delantales), anunciada para el **30-sep-2026** ✅
+  (Hypebeast, Dexerto, GoNintendo, SoraNews24).
+- **Build-A-Bear** (Cubone con poncho), **Le Creuset** y **KFC** (2024) ⚠️
+  (una fuente, sin fecha ni producto exacto).
+- **No se encontró** colaboración con **Fortnite**, con juegos *gacha* ni
+  con **New Era** ⚠️.
+
+**Eventos y cafés**
+- **Globo de Pikachu en el desfile de Macy's**: desde **2001**; una
+  Pokébola de 2006 a 2013; el actual, **Pikachu y Eevee** (34 pies de alto,
+  48 de largo), es de 2021; en 2025 sumó **25 años seguidos** ✅ (Macy's
+  Thanksgiving Wiki, Bulbagarden, pokemon.com, Business Wire). Es el nº122
+  de la hoja 3 de contacto.
+- **Pokémon Café** (Nihonbashi, Tokio): decoración temática en cada
+  superficie, **«Chef Pikachu»**, menú de temporada (curry de Pikachu,
+  hamburguesa de Eevee) ✅ ([pokemon-cafe.jp](https://www.pokemoncafe.jp/),
+  Tokyo Cheapo, Voyapon). Arte de temporada con Pikachu jardinero
+  ([«Grassy Gardening», 3387×4096](https://static.wikia.nocookie.net/pokemon/images/2/2e/Grassy_Gardening_by_%40kirisAki_29.jpg)).
+
+**Cruces con otros juegos**
+- **Super Smash Bros.**: Pikachu jugable desde la primera entrega; trofeos
+  de Melee y Brawl (1280×960 y 804×804) ✅ (hojas 3 y 4).
+- **Pokkén Tournament**: **Pikachu Libre** jugable (nº90) ✅.
+- **Pokémon UNITE**: trajes Holiday, Festival y Holo (nº13, nº5, nº175) ✅.
+- **Detective Pikachu** (película, 2019): merchandising con 7-Eleven
+  (vasos Slurpee) y ropa ✅ (press.pokemon.com, The Pop Insider). Pose con
+  gorro y lupa: nº168.
+
+**Figuras oficiales** (su pose es una referencia 3D) — línea **G.E.M.** de
+MegaHouse ✅ (Otaku Mode, Big Bad Toy Store, Animota, Kurama Toys):
+- **Ash, Pikachu y Charizard** (≈190 mm): Charizard con las alas abiertas,
+  Ash y Pikachu mirando al mismo lado.
+- **Ash, Pikachu y Greninja** lanzando «Shuriken de Agua» a la vez.
+- **Ash y Pikachu sobre Lapras**.
+- **«Crowd Figure»**: Ash en el suelo abrazando a Pikachu, rodeado de sus
+  amigos y sus Pokémon.
+
+**Cosplay**
+- La única foto con licencia libre: **cosplay de Snivy**
+  ([Flickr, nayukim, CC BY 2.0](https://live.staticflickr.com/5167/5275288494_795c5a6117_b.jpg),
+  1024×683) ✅.
+- La chaqueta de Ash, según fichas de venta: símil cuero azul, mangas y
+  cuello blancos, bolsillos con ribete amarillo ⚠️. **No se encontró** un
+  cosplay de Ash o Pikachu premiado y documentado.
 
 ---
 
 ## P24 · Obras parecidas y temas relacionados
 
-_(pendiente)_
+**Lo que reconoce el creador**
+- **Satoshi Tajiri** de niño quería ser entomólogo; su padre lo llamaba
+  **«Dr. Bicho»**. Ver dos Game Boy unidas por cable le dio la idea de
+  **coleccionar e intercambiar bichos** en un juego ✅
+  ([entrevista de TIME, 1999](http://edition.cnn.com/ASIANOW/time/magazine/99/1122/pokemon6.fullinterview1.html),
+  [TIME](https://time.com/6796536/history-origins-pokemon/)).
+- Vio cómo **su pueblo, Machida, se urbanizaba** y los bichos
+  desaparecían (punto 5.1) ✅.
+- **Ultraman**: sus «monstruos cápsula» que un humano guarda y suelta son
+  la semilla de la **Pokébola** ✅ ([Switchaboo](https://www.switchaboo.com/satoshi-tajiri-the-man-behind-pokemon/)).
+- **Dragon Quest V** (1992) ya dejaba reclutar monstruos; también jugaban
+  *SaGa*, *EarthBound* y *Ultraseven* ✅ ([One Chilled Gamer](https://onechilledgamer.com/history-of-pokemon/),
+  [Wikipedia, «Monster-taming game»](https://en.wikipedia.org/wiki/Monster-taming_game);
+  ⚠️ pueden repetir el mismo origen).
+
+**El género**
+- *Shin Megami Tensei* (1987) lo inventó; **Pokémon Rojo/Verde (1996) lo
+  fijó**: atrapar, entrenar, coleccionar, combatir por turnos ✅
+  ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Franchise/Pokemon), Wikipedia).
+- Del mismo tono (niños, criaturas, viaje), según AniList: **Digimon**,
+  **Yu-Gi-Oh!**, **Yo-kai Watch**, **Doraemon**, Dinosaur King, Medabots,
+  Monster Rancher, Bakugan, Beyblade ✅.
+- **Frente a Digimon**: Pokémon es **ligero y de aventura**; Digimon se
+  **oscurece** (duelo, muerte) y sus criaturas hablan ✅
+  ([CBR](https://www.cbr.com/digimon-vs-pokemon/), [ScreenRant](https://screenrant.com/digimon-beat-pokemon-anime-gaming/));
+  hoy son fandoms amigos ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/FandomRivalry/Pokemon)).
+
+**En el servidor «Sintonizando»**
+- **Sólo Pokémon usa #autoroles** ✅ (`grep` en `encargos/`).
+- Ninguna otra biblia usa «**elegir entre varias opciones sobre una
+  mesa**» ✅ (`grep «elige tu»` en las biblias hechas). La más parecida de
+  tono es **Doraemon** (19): su lámina de #recursos usa el **cajón de
+  pedidos** de Nobita, un objeto distinto ✅.
+- **Digimon, Yu-Gi-Oh! y Yo-kai Watch** no tienen encargo todavía ⚠️. Si
+  llegan, que no repitan la mesa de las Pokébolas.
 
 ---
 
