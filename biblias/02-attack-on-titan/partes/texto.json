@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://media.sketchfab.com/models/01ffa989559941ef807cc07b3fed40b8/thumbnails/16bf8a8a5d9a48358291696380823b7d/dc90fa75173842ed810d1f50ea4062e6.jpeg",
+    "fuente": "Sketchfab, modelo \"Levi Ackerman rig\" (api.sketchfab.com/v3/models/01ffa989559941ef807cc07b3fed40b8), 24-sep-2026",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D de Levi Ackerman CON ESQUELETO (rig), 29423 caras, listo para posar en Blender (glTF/FBX/OBJ)",
+    "para_que": "Punto 18: base 3D libre para posar a Levi (el más querido) sin dibujar desde cero; referencia de proporción, nunca para pegar tal cual",
+    "licencia": "CC BY 4.0 · autor ianadrielbravo (Sketchfab) · crédito obligatorio"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/e249261e7d4a4bb48ffbd0a7f84001a0/thumbnails/7edd2a7f649f47e7b8c7b99e30f763d7/06814c5b9d014f1693dc46cb853d91de.jpeg",
+    "fuente": "Sketchfab, modelo \"Eren - attack on titan\" (api.sketchfab.com/v3/models/e249261e7d4a4bb48ffbd0a7f84001a0), 24-sep-2026",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D de Eren Jaeger, 9409 caras, descargable",
+    "para_que": "Punto 18: referencia 3D de Eren para pose o composición; revisar al bajarlo si trae esqueleto",
+    "licencia": "CC BY 4.0 · autor AZlZ (Sketchfab) · crédito obligatorio"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/d697d4856d724144beccfd7471d9f5c9/thumbnails/2b33645f1a6d43c2848c04ff37f32dc9/dc486ed088b848ecb39732cf8dc38c5c.jpeg",
+    "fuente": "Sketchfab, modelo \"Aot Smiling Titan rig\" (api.sketchfab.com/v3/models/d697d4856d724144beccfd7471d9f5c9), 24-sep-2026",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D de un Titán sonriente, CON ESQUELETO (rig), 18196 caras",
+    "para_que": "Punto 18: referencia 3D de un Titán genérico posable, para escenas o fondos con titanes de lejos",
+    "licencia": "CC BY 4.0 · autor ianadrielbravo (Sketchfab) · crédito obligatorio"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/fa271e0452394ca6bece9fdefd5287d7/thumbnails/498eed505bfc458ba4efe6d56f40b3f1/15c479c7f58d46cdb6d68b28f5275ff3.jpeg",
+    "fuente": "Sketchfab, modelo \"Beast Titan rig\" (api.sketchfab.com/v3/models/fa271e0452394ca6bece9fdefd5287d7), 24-sep-2026",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D del Titán Bestia, CON ESQUELETO (rig), 24306 caras",
+    "para_que": "Punto 18 y 25: referencia 3D de uno de los Nueve Titanes con nombre (Titán Bestia, capaz de crear titanes por su grito, §25.1)",
+    "licencia": "CC BY 4.0 · autor ianadrielbravo (Sketchfab) · crédito obligatorio"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/eb79c080ba4645df8246bcf81ae8c759/thumbnails/a11b91e436f444e3ad32b6a36ab6420c/6eb52793f4f745f3877593bf9116fbfc.jpeg",
+    "fuente": "Sketchfab, modelo \"Aotwa_armin_arlelt rig\" (api.sketchfab.com/v3/models/eb79c080ba4645df8246bcf81ae8c759), 24-sep-2026",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Miniatura del modelo 3D de Armin Arlelt, CON ESQUELETO (rig), 26531 caras",
+    "para_que": "Punto 18: referencia 3D de un personaje secundario querido, para láminas de grupo",
+    "licencia": "CC BY 4.0 · autor ianadrielbravo (Sketchfab) · crédito obligatorio"
+  }
+]

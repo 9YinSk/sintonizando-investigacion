@@ -1,44 +1,58 @@
 ---
 tags: [biblia, serie, laminas, biblioteca]
 serie: "One Punch Man (ワンパンマン)"
-canal: "sin canal: propuesta pendiente (ver §0)"
+canal: "sin canal: propuesta #en-directo (reservas: 🎲 Juegos y #reto-de-la-semana, ver §0)"
 fecha: 2026-09-24
 ---
 
 # Biblia · One Punch Man — para la biblioteca
 
 > [!important] Cómo se hizo, y sus límites
-> - (pendiente)
+> - La escribió el **redactor** con las cuatro partes del equipo
+>   (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md`,
+>   `episodios.md`) y lo bueno de una pasada antigua. Nada nuevo sin fuente.
+> - **YouTube pidió «confirma que no eres un bot» todo el día.** Los vídeos
+>   se miraron en **copias de Dailymotion** (512×288 reales, aunque digan
+>   «HD» o «4K») y en el **PV2 1080p de Internet Archive**. El minuto que
+>   doy es **el del vídeo enlazado**, no el del episodio, salvo que diga
+>   otra cosa.
+> - **Frases del doblaje latino**: salen de las **8 muestras de audio de
+>   Doblaje Wiki**, transcritas con `voz.py`. No hay clips doblados
+>   oficiales que se pudieran bajar (§10.3).
+> - ✅ = dos fuentes o visto por nosotros. ⚠️ = una sola fuente, o minuto
+>   de una copia. Lo que no se encontró está en §28 y en la tabla final.
 
 ## Índice
 
+Entre corchetes, el punto de `ENCARGO.md` que cubre cada sección.
+
 0. One Punch Man no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
-2. Las escenas que sirven (con minuto)
-3. Arte oficial y hojas de contacto
-4. Fan art y 3D (sólo como referencia)
-5. Sitios, luz, paleta y texturas
-6. Tipografía
-7. Cómo hablan y piensan en pantalla (el cuadro de diálogo)
-8. Los personajes
-9. ¿Quién es el más querido?
-10. Doblaje latino
-11. Música
-12. Vídeos
-13. Videojuegos de la franquicia
-14. Lo que ama el fandom, y qué NO hacer
-15. Poses analizadas por personaje
-16. Vestuario
-17. Paisajes y fondos de pantalla
-18. Guía para generar con IA (imagen y texto)
-19. Estilo de dibujo y técnica, y cómo replicarlo
-20. Texturas 2D
-21. Gustos y detalles de cada personaje
-22. Por qué la gente la ama
-23. Fan dubs y comunidad hispana
-24. Colaboraciones y cruces
-25. Obras parecidas y láminas vecinas
-26. El mundo y sus símbolos
+2. Las escenas que sirven, con minuto [2]
+3. Arte oficial y hojas de contacto [1]
+4. Fan art y 3D, sólo como referencia [3]
+5. Sitios, luz, paleta y texturas reales [4]
+6. Tipografía: una letra para cada uso [5]
+7. Cómo hablan y piensan en pantalla: el cuadro de diálogo [6]
+8. Los personajes: qué transmiten, su cara en cada emoción y sus dinámicas [7, 13]
+9. ¿Quién es el más querido? [7]
+10. Doblaje latino y frases textuales [8]
+11. Música y sonido [9]
+12. Vídeos y tendencias [10]
+13. Videojuegos de la franquicia [11]
+14. Lo que ama el fandom, y qué NO hacer [12]
+15. Poses analizadas por personaje [14]
+16. Vestuario, con hex medidos [15]
+17. Paisajes y fondos de pantalla [16]
+18. Guía para generar con IA: imagen y texto [17]
+19. Estilo de dibujo, técnica, Blender y encuadres [18]
+20. Texturas 2D [19]
+21. Gustos y detalles de cada personaje [20]
+22. Por qué la gente la ama, y las escenas que hacen llorar o gritar [21]
+23. Fan dubs y comunidad hispana [22]
+24. Colaboraciones, figuras y cosplay [23]
+25. Obras parecidas y láminas vecinas [24]
+26. El mundo, la historia por arcos y sus símbolos [25]
 27. Tres conceptos de lámina
 28. Lo que no pude verificar
 - Cumplimiento del encargo
@@ -48,13 +62,79 @@ fecha: 2026-09-24
 
 ## 0 · One Punch Man no tiene canal: dónde encaja mejor
 
-(pendiente)
+### 0.1 La propuesta
+
+**#en-directo** (sección EN VIVO), libre hoy. Su texto:
+«¿Estás haciendo algo ahora? Dilo aquí y quien quiera se mete a mirar».
+
+- En One Punch Man **el héroe más fuerte se pasa la vida mirando la
+  tele** en pijama, entre bolsas del súper (hoja `escenas_01.jpg` #8).
+  Él es justo **el que «se mete a mirar»**.
+- El sitio existe en 3D con licencia libre: **el apartamento de Saitama**
+  y **su mueble de la tele** (Sketchfab, CC BY, §4). Es la regla 1 del
+  dueño: **un objeto real en un sitio real**, hecho en Blender.
+- La pantalla lleva **un fotograma de la serie** (regla 2): la tele «da en
+  directo» la pelea de Mumen Rider bajo la lluvia o el Golpe Serio.
+- Es un canal de **tono ligero**: encaja con una comedia. No es un canal
+  de normas ni de sanciones.
+
+Concepto completo en §27 A. **Reservas**: 🎲 **Juegos** (el cuarto de King
+y su consola, §27 B) y **#reto-de-la-semana** (Mumen Rider, §27 C).
+
+### 0.2 Todos los canales que miré
+
+| Canal o sala | Qué pondría One Punch Man | Encaje | Nota |
+|---|---|---|---|
+| **#en-directo** | la **tele de Saitama** con la pelea «en vivo»; Saitama tumbado mirando | ⭐⭐⭐ | **libre** |
+| 🎲 **Juegos** (voz) | **King y Saitama con la consola** en el cuarto de King (§2, escena 16) | ⭐⭐⭐ | el encargo 29 propone Ralph el demoledor |
+| **#reto-de-la-semana** | **Mumen Rider** bajo la lluvia; el público grita «It's not about winning or losing!» (subtítulo inglés, T1-09) ↔ el canal: «No se gana nada y esa es la gracia» | ⭐⭐⭐ | ya lo piden Naruto (30) y Haikyuu (34) |
+| **#ofertas-y-gratis** | **el volante del súper** «あったか鍋セール» y Saitama que mata monstruos para no perder la oferta | ⭐⭐⭐ | **ya es de Bob Esponja** (15); sirve de lámina 2 si el dueño cambia |
+| **#memes** | el panel del «**OK.**» (el meme de la serie) | ⭐⭐⭐ | **ya es de JoJo** (28) |
+| **#redes-y-novedades** | el **registro de héroes** con ranking de popularidad y clubs de fans (T1-05, §2.3) | ⭐⭐ | libre, pero el personaje «de redes» es Amai Mask, poco querido |
+| **#presentaciones** o **#demos** | la **ficha de héroe** de la Asociación (§7.1 A) | ⭐⭐ | ya tienen serie (y la ficha ya se parece a la de Evangelion en #demos) |
+| **#castings** | el **examen de héroe** y su aviso de resultados «C» | ⭐⭐ | **ya es de Oshi no Ko** (05) |
+
+**Lo que NO encaja**: #reglas, #soporte o #log-mod. Saitama no regaña ni
+sanciona; en un canal serio la cara simple parecería una burla.
 
 ## 1 · Resumen para quien tenga prisa
 
-(pendiente)
+**La serie.** Empezó como **webcómic de ONE**, de dibujo tosco a propósito.
+Desde 2012 lo redibuja **Yusuke Murata** (*Eyeshield 21*) en
+*Tonari no Young Jump* (Shūeisha). Más de **35 millones de copias** en
+octubre de 2025 ([ComicBook.com](https://comicbook.com/anime/news/one-punch-man-sets-a-new-record-ahead-of-season-3/)).
+Anime: **T1** de **Madhouse** (2015, 12 episodios), **T2** y **T3** de
+**J.C.Staff** (2019 y oct-dic 2025). La T3 parte 2 llega en **2027**.
 
-## 2 · Las escenas que sirven (con minuto)
+**De qué va.** Saitama se entrenó tres años y ahora **gana todo de un
+puñetazo**. Se quedó calvo y **se aburre**. Es una **sátira del
+superhéroe**: la gracia no está en la pelea, sino en lo absurdo de la
+pelea. Debajo del chiste hay algo triste: dice que **sus emociones se
+apagan** (§10.3).
+
+**Quién es el más querido.** Saitama gana en todo. Pero **una
+secundaria le pisa los talones**: en la **encuesta oficial de 2015,
+Fubuki quedó 2.ª** (8390 votos contra 8650), por delante de Genos y de
+Mumen Rider. En AniList la 2.ª es **Tatsumaki**, y es **la más dibujada**
+por los fans (§9). **Mumen Rider** es el favorito «del corazón»: el héroe
+sin poderes que nunca se rinde.
+
+**Cómo habla en pantalla.** No hay burbuja propia. Lo que usa la serie es
+**la ficha de héroe de la Asociación**: banda negra inclinada, filetes
+plateados, emblema alado detrás, nombre en amarillo `#FFF457` con borde
+negro (§7). Y **los papeles del mundo**: el aviso «C» del examen y el
+volante del súper.
+
+**Doblaje latino.** México, **Macías Group**. **Víctor Ruiz** es Saitama
+(y dirige la T3); **Jhonny Torres**, Genos; **Azul Valadez**, «Tornado».
+Mumen Rider se llama **Ciclista sin Licencia** (§10).
+
+**Para qué canal.** **#en-directo**: la tele de Saitama (§0, §27 A).
+
+**Tono.** Mitad comedia seca, mitad épica. **Nunca solo una de las dos**
+(§14.2).
+
+## 2 · Las escenas que sirven, con minuto
 
 **Cómo leer los minutos**: YouTube no me dejó bajar nada en toda la sesión
 («429» y «confirma que no eres un bot», 10+ intentos espaciados, §29). Miré
@@ -80,13 +160,13 @@ está anunciada para **2027** (V-STORAGE, may-2026; [Anime Corner](https://anime
 | 6 | **«En 20 palabras o menos»**: corta la historia de Genos | T1-02 ⚠️ | — (no lo vi) | textos cortos |
 | 7 | **El examen de héroe**: aprueba por **un punto**, clase C, 71/100; Genos, S | T1-05 | wiki «Results.png» | **el papel** del aviso de resultados |
 | 8 | **El meteorito**: Saitama lo revienta y la gente le culpa de los destrozos | T1-07 | wiki «EP7 - Genos visualizes Saitama…» | héroe sin reconocimiento |
-| 9 | **Mumen Rider contra el Rey del Mar Profundo**, bajo la lluvia: lanza la bici, se presenta, cae; el público le anima | T1-09 «Unyielding Justice / Justicia inquebrantable» (不屈の正義) | [copia en Dailymotion](https://www.dailymotion.com/video/x8rl50h): bici 3:00, «The righteous cyclist, Mumen Rider, is here!» 3:08, «I'm weak. I know that much.» 4:00, «And yet, I have to try.» 4:12, «Mumen Rider, you can do it!» 4:32 | **la escena más querida** de Mumen (Dengeki 2025, §9) |
+| 9 | **Mumen Rider contra el Rey del Mar Profundo**, bajo la lluvia: lanza la bici, se presenta, cae; el público le anima | T1-09 «Unyielding Justice / Justicia inquebrantable» (不屈の正義) | [copia en Dailymotion](https://www.dailymotion.com/video/x8rl50h): bici 3:00, «The righteous cyclist, Mumen Rider, is here!» 3:08, «I'm weak. I know that much.» 4:00, «And yet, I have to try.» 4:12, «Mumen Rider, you can do it!» 4:32 | **la escena más querida** de Mumen (§22) |
 | 10 | Saitama **coge a Mumen al caer**: «You did well. Nice fight.»; luego «**It's raining, so let's get this over with**» y un golpe | T1-09 | misma copia: 5:12 y 6:00 | felicitar; Saitama tranquilo |
 | 11 | Saitama **se hace el malo** para que la gente no culpe a los otros héroes | T1-09 | wiki «EP9 - Saitama turning the civilians against him» | por qué le quieren |
 | 12 | **«¿Y esta niña perdida tan insolente?»** a Tatsumaki (生意気な迷子) | T1-10 | wiki «Saitama called Tatsumaki a lost child»; meme en [Know Your Meme](https://knowyourmeme.com/memes/whats-with-this-sassy-lost-child) | Tatsumaki furiosa |
 | 13 | **Boros**: «esta armadura sellaba mi poder… ahora está rota» → Saitama: «**OK**» (el meme sale del manga, cap. 34) | T1-12 | latino: 2:38 de la recopilación; manga: [KYM](https://knowyourmeme.com/memes/saitama-ok) | el meme de la serie |
-| 14 | Boros patea a Saitama **a la Luna**; mira la Tierra, aguanta la respiración y salta de vuelta | T1-12 | [copia de aniBattle](https://www.dailymotion.com/video/x9b8564) 4:04-4:20 (⚠️ copia con filtro de color) | imagen épica |
-| 15 | **Golpe Serio** (マジ殴り) contra el Cañón de Estrella que Colapsa | T1-12 | misma copia 5:44-6:20 | clímax |
+| 14 | Boros patea a Saitama **a la Luna**; mira la Tierra, aguanta la respiración y salta de vuelta | T1-12 | [copia de aniBattle](https://www.dailymotion.com/video/x9b8564?start=242): sale volando 4:02, recoge una roca 4:16 (⚠️ copia con filtro de color) | imagen épica |
+| 15 | **Golpe Serio** (マジ殴り) contra el Cañón de Estrella que Colapsa | T1-12 | [misma copia](https://www.dailymotion.com/video/x9b8564?start=371): silueta en cruz 6:11, fogonazo blanco 6:12, el haz llega al espacio 6:19-6:24 | clímax; tres luces en tres segundos (§5) |
 | 16 | **King y Saitama juegan a la consola** en el cuarto de King | T2 (eps. 13-14) y manga | wiki «King and Saitama play video games», «King gamerboy» | el cuarto de King |
 | 17 | Saitama en el **torneo de artes marciales con peluca** (se hace pasar por Charanko) | T2-17 a T2-22 | wiki «Saitamaattournament», «Saitama vs Suiryu» | disfraz, gag |
 | 18 | **Garou apalea a Mumen Rider**, que aun así se levanta | T2 | wiki «Garou defeats Mumen Rider» | Mumen otra vez |
