@@ -18,9 +18,8 @@ fecha: 2026-09-24
 >   sobre metraje real). **El minuto es el del vídeo enlazado**, no el del
 >   capítulo, salvo que diga «ep.».
 > - **El redactor miró las hojas de contacto de vídeo** del equipo y
->   **corrigió 12 identificaciones** de las partes (Hughes que no era Roy,
->   Alphonse que no era Gluttony, Central que no era Ishval…). Todo está en
->   §28.2. La tercera hoja, `escenas_01.jpg`, la monté con esos fotogramas.
+>   **corrigió 22 datos** de las partes (Hughes que no era Roy, Alphonse
+>   que no era Gluttony, Central que no era Ishval…). Todo está en §28.2. La tercera hoja, `escenas_01.jpg`, la monté con esos fotogramas.
 > - **Frases del doblaje latino**: de las **6 muestras de audio de Doblaje
 >   Wiki**, transcritas con `voz.py`. No hay clips doblados oficiales que
 >   se pudieran bajar (§10.4).
@@ -1811,16 +1810,336 @@ Pereza, Orgullo) · **Padre** · **automail** · **ishvalanos** ·
 
 ## 27 · Tres conceptos de lámina
 
-(pendiente)
+Tres ideas distintas, cada una para un canal o sala (§0). Todas siguen
+las reglas del dueño: objeto real en un sitio real, pose que va con lo que
+dice, textos cortos en la voz de la serie, tono serio con luz de verdad.
+
+### A · #general-doblaje — «El círculo de tiza» (la propuesta principal)
+
+- **El objeto y el sitio**: un **círculo de transmutación dibujado con
+  tiza** sobre el **suelo de tablones** de un cuarto de estudio en
+  Resembool, con estantería de libros y ventana (como el cuarto de Al en el
+  ED1, B21). Se hace en **Blender**: un plano con madera
+  ([Wood095](https://ambientcg.com/view?id=Wood095)) y el círculo como
+  calcomanía, para que **la tiza siga las vetas**. Al lado, un trozo de
+  tiza, un cuaderno abierto y el **reloj de plata** abierto
+  ([modelo CC BY](https://sketchfab.com/3d-models/none-d01a4822154e4e9aa0efc616a4a07475)).
+  El círculo es de **tres anillos con hexagrama y engranajes**, como el de
+  la portada del cap. 1 (#7). **Nunca** el de la transmutación humana.
+- **El personaje**: **Edward** (el más querido), **de rodillas** al borde
+  del círculo, con **las palmas juntas** a punto de tocarlo: la pose A15
+  (OP1 0:28) y #56. Abrigo rojo `#DA4332`, trenza, automail a la vista. Al
+  fondo, en penumbra, **la armadura de Al** sentada (#85), con **los ojos
+  encendidos** y un gato asomando del pecho (el gag de §14).
+- **Cómo habla**: con la **cartela del eyecatch** (§7.1): arriba a la
+  izquierda, color plano naranja (como la de Havoc, E16), marco fino de
+  filigrana, «Edward Elric» en cursiva abajo a la derecha. Título en
+  **Rokkitt Black**; lo que dice, en **Comic Neue Bold**; lo escrito con
+  tiza, en **Permanent Marker** blanca.
+- **Dónde va cada texto** (el del canal, repartido; sin «·», «—» ni
+  paréntesis):
+  - Cartela, título: «general-doblaje».
+  - Cartela, Ed: «Aquí se habla del oficio.» / «Micros, voces, técnica y
+    dudas de novato.»
+  - Los tres anillos, en tiza: «Comprende la escena.» / «Desarma la
+    frase.» / «Rehazla con tu voz.»
+  - Dos flechas de tiza que salen del círculo: «¿Ya grabaste? A demos.» y
+    «¿Buscas papel? A castings.»
+  - Al borde, pequeño: «Para obtener algo, hay que dar algo a cambio.»
+- **Para que no quede plano**: dos luces, **azul frío de la ventana** al
+  anochecer por la izquierda y **lámpara cálida** por la derecha; un
+  **brillo azul** de transmutación que empieza a subir de las líneas y le
+  ilumina la cara desde abajo (los rayos del tráiler, 0:14); **polvo de
+  tiza** en el aire; **el reloj desenfocado en primer plano**; los ojos
+  de Al brillando al fondo.
+- **Lámina 2** (si el dueño la quiere): «Dos doblajes, dos voces» con las
+  dos cartelas (Venezuela 2011 y México 2021) y el dato de Jhonny Torres
+  (§10).
+
+### B · 🎚️ Mesa de Trabajo — «El banco de Winry»
+
+- **El objeto y el sitio**: **el banco de trabajo del taller de automail
+  Rockbell**, en Resembool (la casa del cartel «AUTO MAIL», §17). Sobre el
+  banco, lo que se ve en el ED1 (B17-B20): **tarros de tornillos, llave
+  inglesa, martillo, papeles**, y una ventana con cortina rosa. En medio,
+  **un brazo de automail abierto** ([modelo CC BY](https://sketchfab.com/3d-models/none-ee490a1766144addb9772e4cb14daeec),
+  con Decimate) sobre un paño. Clavada al banco, **una hoja de encargo**.
+- **El personaje**: **Winry**, con la **ropa de trabajo** (#81: mono verde
+  `#D2D9B2` atado a la cintura, top negro, pañuelo verde) y **la llave
+  inglesa en alto** (#32), sonrisa firme. Bajo el banco, **Den**, el perro
+  de la pierna de automail (#44).
+- **Cómo habla**: su nombre en una **cartela verde** (como la #65). Lo que
+  dice va **en la hoja de encargo**: el formulario en **Special Elite** y
+  sus notas a mano en **Permanent Marker**.
+- **Dónde va cada texto** ⚠️ (la sala **no tiene texto** en el
+  inventario: esto es una propuesta):
+  - Cartela: «Mesa de Trabajo».
+  - Hoja de encargo: «Trae tu proyecto.» / «Se trabaja en voz, codo con
+    codo.» / «Comparte pantalla y pide ayuda.»
+  - Nota de Winry, a mano: «Y cuida tus herramientas.»
+- **Para que no quede plano**: **luz de día** limpia entrando por la
+  ventana de atrás (el cielo de Resembool, `#87BAE8`); el **automail en
+  primer plano** con brillos de metal cepillado; la llave inclinada hacia
+  cámara; Den asomando por debajo; tarros con reflejos.
+- ⚠️ **Choque**: el encargo 29 pone aquí el taller de Monsters, Inc. «por
+  vecindad»; si #general-doblaje es de FMA, la Mesa de Trabajo también
+  sería de FMA y la sección quedaría de un solo mundo.
+
+### C · #staff — «El ajedrez de Roy»
+
+- **El objeto y el sitio**: **un tablero de ajedrez** (fácil en Blender)
+  sobre la mesa del **despacho de Roy** (hoja #58), entre papeles
+  militares. Cada pieza lleva **una etiqueta de papel** con su nombre del
+  equipo: Fuery peón, Falman alfil, Havoc caballo, Breda torre, Hawkeye
+  reina, Roy rey (§14).
+- **El personaje**: **Roy** (2.º en popularidad), sentado, **moviendo la
+  reina** con el **guante blanco** (el círculo de fuego en el dorso a la
+  vista), media sonrisa (la cara de E10, sin las flores). Detrás, de pie y
+  firme, **Riza** (3.ª) (modelo 3D de §4.1; E11 para la cara), con Black
+  Hayate a sus pies.
+- **Cómo habla**: cartela del eyecatch **azul** (como la #32) con «Roy
+  Mustang» en cursiva; lo que dice en Comic Neue; un **parte militar** en
+  Special Elite junto al tablero.
+- **Dónde va cada texto**:
+  - Cartela: «staff».
+  - Roy: «Aquí se coordina el equipo.»
+  - Parte militar: «Lo que no es moderación ni planificación.»
+  - Etiqueta de la reina, a mano: «Cada pieza sabe qué le toca.»
+- **Para que no quede plano**: **lámpara de mesa** baja y cálida que
+  proyecta las sombras de las piezas; **las piezas del primer plano
+  desenfocadas**; Riza en segundo plano con luz más fría; los papeles de
+  la mesa en diagonal hacia el fondo.
+- ⚠️ **Es un canal privado**: sólo si los privados llevan lámina. Si no,
+  la variante es **#destacados**: el **reloj de plata sobre su cojín
+  morado** (`#4C3D64`, [Pocketwatch.png](https://static.wikia.nocookie.net/fma/images/1/1c/Pocketwatch.png)),
+  que sólo recibe quien aprueba: «Lo que junta estrellas acaba aquí solo.»
+  (choca con Super Mario Galaxy del encargo 29).
 
 ## 28 · Lo que no pude verificar, y lo que corregí de las partes
 
-(pendiente)
+### 28.1 Lo que falta (con lo que se intentó)
+
+- **Ningún capítulo completo** se pudo abrir: YouTube pedía iniciar
+  sesión, Dailymotion e Internet Archive sólo tienen tráilers, extras y
+  el OP/ED. Por eso las escenas que hacen llorar no tienen minuto (§22) y
+  el episodio de la **transmutación humana** no está confirmado (ep. 1
+  según la parte de voz, ep. 4 según el listado de música).
+- **Caras**: faltan con fotograma la **tristeza y la vergüenza** de Ed, la
+  **rabia y la tristeza** de Winry adulta, y casi todo de Riza y Hughes
+  (§8, §15).
+- **Doblaje**: sin clips oficiales doblados; las voces de Animax de los
+  secundarios sólo salen en Doblaje Wiki (§10.2).
+- **Fan dubs**: sin vistas ni canal (§23); TikTok, sin vídeos concretos.
+- **Letras**: el nombre de la letra del logo sólo lo da fontmeme (⚠️); no
+  se abrió la **cursiva** de Libre Baskerville; **no hay letra libre**
+  comprobada para la interfaz de juego (§6).
+- **Juegos**: no se vio la **caja de diálogo** del modo historia (Game UI
+  Database y MobyGames dieron 403; TCRF, Cloudflare).
+- **Técnica**: no hay *making of* ni entrevista con los programas de BONES
+  (§19.4); no se encontraron **pinceles o tramas libres** (§20.3).
+- **Pantalla**: no se vieron **papeles militares** (§7.8); no se midieron
+  los colores de las **cartelas del eyecatch** (§7.1).
+- **Fondos**: no hay página oficial de fondos de pantalla (§17).
+- **Datos sueltos**: quién hizo la «final fan poll» de la wiki (§9); el
+  nombre del efecto de la transmutación (§11.5); la Filarmónica de Varsovia
+  (§11.4); cumpleaños de Ed, Al, Roy y Riza (no fijados en canon, §21);
+  ninguna encuesta hispana (§9).
+- **Colaboraciones**: sin Fortnite, sin figma, sin cosplay premiado, sin
+  el diseño de la camiseta de UNIQLO (§24).
+- **Webs bloqueadas**: TV Tropes (403, sin copia en Wayback), TCRF, Game UI
+  Database, MobyGames, fontmeme, Riot Pixels; el tráiler de YouTube
+  `1ac3_YdSSy0`.
+
+**Para oír en persona** (va a DECISIONES, §2):
+- Doblaje Animax, muestra de Edward, segundo 0:53: ¿dice «**la**
+  alquimista de acero» o «**el** alquimista de acero»?
+- FMA: Brotherhood, ep. 10: minuto de la cabina de teléfono de Hughes y la
+  frase latina de Roy al saberlo.
+
+### 28.2 Lo que corregí de las partes (miré sus hojas de contacto)
+
+El redactor abrió las hojas de fotogramas del equipo (OP1, ED1, tráiler,
+blooper y las miniaturas del tráiler de 2009) y las hojas de la wiki.
+Esto no cuadraba:
+
+| # | La parte decía | Lo que se ve o dicen las fuentes | Parte |
+|---|---|---|---|
+| 1 | tráiler 0:24, Roy apuntando | es **Hughes** (gafas y barba) | vídeo |
+| 2 | tráiler 0:26, la mano de Al en llamas | **dos manos humanas** entre llamas | vídeo |
+| 3 | tráiler 0:38-0:42, Gluttony | el **casco de Al** con ojos redondos (gag) | vídeo |
+| 4 | tráiler 0:36, Scar y su discípulo | **Hughes con un rifle** junto a un soldado | vídeo |
+| 5 | tráiler 0:12, silueta de lobo o quimera | una **figura con capa** | vídeo |
+| 6 | tráiler 0:16, tejados de Central al anochecer | **hombres de traje** en un callejón; la paleta violeta queda sin sitio | vídeo |
+| 7 | tráiler 0:34, Ed de espaldas ante ruinas | Ed **de frente**, Al detrás | vídeo |
+| 8 | blooper 1:29, guerra de Ishval | el tanque ataca el **Cuartel General de Central** (estandarte verde) | vídeo |
+| 9 | blooper 0:12, Roy con auriculares | no hay ese plano; el del auricular (1:12) es **otro militar** | vídeo |
+| 10 | blooper 1:20, Roy con gafas | Roy **sin gafas** | vídeo |
+| 11 | blooper 3:46, Al protege a May | plano en **negro**; Al con May está en **7:15** | vídeo |
+| 12 | blooper 5:54, Ed con la capa al viento | Ed con **coleta y camisa blanca** | vídeo |
+| 13 | blooper 6:02, Roy furioso con parche | son **las quimeras**; el del parche es **Bradley** (5:11) | vídeo |
+| 14 | blooper 7:26, Ed y Al ante Roy | **Winry niña** gritando en la colina | vídeo |
+| 15 | OP1 0:02-0:04, Winry en una ventana | **no es Winry** (un joven rubio sin identificar) | vídeo |
+| 16 | OP1 0:44, Roy con fuego | **Hughes**; Roy sale en **0:46** | vídeo |
+| 17 | OP1 0:26, el aplauso | es en **0:28** | vídeo |
+| 18 | tráiler 2009 ~0:46, Ed gritando | un personaje de **pelo negro con bufanda a rayas** | voz |
+| 19 | Hughes, el secundario con más favoritos en AniList | es el **8.º**; le ganan Ling y Greed | voz |
+| 20 | Roy cumple el 24/8; Ed mide 165 con alzas (141) | el 24/8 es de **Bradley**; la wiki da a Ed **149 cm** al empezar | voz |
+| 21 | hojas de modelo #25-32 en `personajes_02`; #86 «Volume 3» | están en **`personajes_01`** (#25-30); eyecatch #31-33; **#86 es Ed de WEBTOON** (#78 es el tomo 3) | imagen |
+| 22 | la exposición de Ginza está «activa ahora» | **cerró el 2-sep-2026**; sigue de gira | imagen |
+
+Además, `personajes_03.jpg` (sólo 3 imágenes) se cambió por
+`escenas_01.jpg`, montada con esas hojas de vídeo.
 
 ## Cumplimiento del encargo
 
-(pendiente)
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | 99 imágenes de la wiki en 2 hojas numeradas: tomos, portadas de capítulo, 9 eyecatches, hojas de modelo 2009 con el automail despiezado; póster, banner; exposición de 2026 (§3) |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 24 fotogramas elegidos y 76 del OP1 y ED1 con minuto (§2, `escenas_01.jpg`). El minuto es **del vídeo** (tráiler 1080p, blooper, OP/ED), no del capítulo: ningún capítulo se pudo abrir; sólo el ep. 4 y el 10 tienen número |
+| 3 | Fan art y 3D con licencia | ✅ | 6 modelos CC BY (reloj, automail, círculo, Al, Riza) con autor; fan art con origen; cosplay CC BY-NC (§4). El de Roy es NC |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | 13 sitios con luz y paleta medida con `estilo.py`; 9 texturas CC0 (§5, §20). ⚠️ la paleta violeta de Central quedó sin plano |
+| 5 | Tipografía: una letra para cada uso | ⚠️ | 7 usos con letra libre comprobada con fontTools (§6.2) y el logo visto. Falta letra para la **interfaz de juego**; el nombre de la letra del logo tiene una sola fuente; cursiva sin abrir |
+| 6 | Cómo hablan en pantalla (cuadro de diálogo) | ⚠️ | **la cartela del eyecatch** vista y descrita, portada de capítulo, objetos que hablan, globo del ED1, menú del juego (§7). Los globos del manga sólo en miniatura; sin caja de diálogo de ningún juego |
+| 7 | Personajes y encuestas de popularidad | ✅ | AniList, «final fan poll» de la wiki, *Animage* 2003, Danbooru, dos hilos de Reddit (§9). ⚠️ sin encuesta hispana; la de la wiki sin autor |
+| 8 | Doblaje latino y frases textuales | ⚠️ | **dos doblajes** con estudio y dirección en dos fuentes; 23 personajes por doblaje (los 4 principales y los de Funimation con dos fuentes); 8 frases textuales de las muestras con `voz.py` (§10). Sin clips doblados: el tiempo es de la muestra; las voces Animax de secundarios, una fuente |
+| 9 | Música y sonido | ⚠️ | 5 OP y 7 ED confirmados; OP1 y ED1 **mirados** plano a plano; banda sonora de Akira Senju (§11). Temas por escena, de un listado de fans; sin nombre del efecto de la transmutación |
+| 10 | Vídeos y tendencias con minuto | ⚠️ | tráiler 1080p, blooper, Dynit, Vidaextra y una reseña en vídeo, con minuto (§12). YouTube bloqueado; TikTok sin vistas |
+| 11 | Videojuegos: interfaz, menús, diálogo | ⚠️ | lista completa; menú y combate del juego de PSP vistos y medidos; Wii y móvil por texto (§13). **Sin caja de diálogo** del modo historia |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 9 cosas que todo fan reconoce, zona delicada y 9 «no hacer» (§14) |
+| 13 | Descripción profunda: qué transmite, cara en cada emoción, dinámicas | ⚠️ | 4 principales a fondo y 11 secundarios; 8 dinámicas (§8). Tablas de caras incompletas: faltan **tristeza y vergüenza** de Ed y casi todo de Winry adulta, Riza y Hughes en fotograma |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Ed 13, Al 9, Roy 8, Winry 10, con minuto o número de hoja, y tabla de qué pose para qué (§15) |
+| 15 | Vestuario con hex | ✅ | unos 20 hex medidos sobre hojas de modelo oficiales; traje icónico y de epílogo; corrección del mono de Winry (verde, no beige) (§16) |
+| 16 | Ciudades y fondos de pantalla | ⚠️ | 8 sitios con hora y luz; 5 fondos de fans con tamaño y autor (§17). **No encontré** página oficial de fondos |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, ejemplo, referencias; voz de cada uno, frases reales por emoción y vocabulario visual (§18) |
+| 18 | Estilo, técnica, Photoshop, Blender y encuadres | ⚠️ | staff, entrevista al director, fuentes de Arakawa, póster medido, receta de Photoshop y Blender, encuadres (§19). Sin *making of* ni programas de BONES; la receta es propuesta; sin encuadres por emoción de capítulos |
+| 19 | Texturas 2D | ⚠️ | trama y pincelada miradas; 6 emblemas con hex; 4 texturas CC0 (§20). **No encontré** pinceles ni tramas libres |
+| 20 | Gustos y detalles | ⚠️ | 9 personajes con lo que hay en la wiki y AniList (§21). Sin *databook*: faltan comidas, alturas y cumpleaños (no se inventan) |
+| 21 | Por qué la aman y escenas que hacen llorar o reír | ⚠️ | números (MAL, IMDb, AniList), razones con fuente, 7 escenas con capítulo, reacciones (§22). **Sin minuto** de las escenas; el capítulo de la transmutación humana, sin confirmar |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | 5 fandubs y covers con enlace, guiños y errores del doblaje que circulan (§23). **Sin vistas ni canal** (YouTube bloqueado); sin TikTok hispano |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | Puzzle & Dragons, Monster Strike, UNIQLO, 3 cafés, 2 exposiciones, 7 figuras, cosplay con licencia (§24). ⚠️ sin Fortnite ni figma |
+| 24 | Obras parecidas y láminas vecinas | ✅ | influencias de Arakawa, recomendaciones de AniList, franquicia, 6 láminas vecinas y cómo no chocar (§25) |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | 5 reglas, 13 arcos, símbolos con sus colores y vocabulario (§26) |
+| 3 conceptos | Tres láminas distintas con canal propuesto | ✅ | A #general-doblaje (propuesta), B 🎚️ Mesa de Trabajo, C #staff (o #destacados), con choques anotados (§0, §27) |
+| 40 fuentes | Mínimo 40 fuentes distintas | ✅ | 52 webs enlazadas |
+| Tipos de fuente | Oficiales, idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | oficiales (entrevista de Irie, Good Smile, Matsuya, Blu-ray), inglés, japonés (búsqueda y hojas), italiano (Dynit), Fandom, Doblaje Wiki, Reddit, Danbooru, Safebooru, Wallhaven, Sketchfab, ambientCG, Internet Archive, Dailymotion ✅. Sin entrevista en japonés, coreano o chino; **sin GitHub**; TV Tropes y TCRF bloqueados; sin entrevistas a actores latinos |
+| Minutos y colores | 15 minutos citados y 10 hex medidos | ✅ | cientos de minutos con enlace `?t=`; más de 100 hex |
+| Hojas | 3 hojas de menos de 3 MB | ✅ | `personajes_01.jpg` (960 KB), `personajes_02.jpg` (794 KB), `escenas_01.jpg` (1187 KB), numeradas en §3.1 |
+| referencias.json | Todas las útiles, las mejores primero | ✅ | **189** referencias de las cuatro partes y `datos.json`, sin tope; primero las de los 3 conceptos (hoja de modelo de Ed, el aplauso, reloj y automail en 3D, cartelas, ropa y banco de Winry, Roy); tamaños medidos en las imágenes |
 
 ## 29 · Bitácora de búsqueda
 
-(pendiente)
+Junta las bitácoras de las cuatro partes, la de `recolectar.py` y lo que
+hizo el redactor. Idioma entre paréntesis.
+
+### 29.1 Recolector gratuito (`herramientas/recolectar.py`, 24-sep-2026)
+
+- AniList (ficha, staff, personajes, recomendaciones), Doblaje Wiki (ficha,
+  «Datos de interés» y muestras de audio), wiki `fma` (imágenes y textos
+  de Ed, Al, Roy y Winry), Sketchfab, Openverse, Dailymotion, MusicBrainz,
+  Steam, hojas de contacto con `investigar_serie.py` (169 imágenes
+  enlazadas, 99 grandes).
+- **Fallaron**: AnimeThemes (522); Reddit («no encontré el subreddit»);
+  Danbooru, Safebooru y Wallhaven quedaron vacíos porque buscó con el
+  nombre largo de la serie en vez del tag `fullmetal_alchemist`; los
+  clips de Dailymotion estaban mal etiquetados (§12.2).
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **API de la wiki `fma`** (inglés): búsquedas de Resembool, Central City,
+  Ishval, Xerxes, Fort Briggs, Lior (la página real es «Reole»),
+  Ouroboros, State Alchemist, Amestris, Flamel; `prop=images` e
+  `imageinfo` con tamaño antes de bajar.
+- **Danbooru** (`related_tag`, tag `fullmetal_alchemist`, 6 647 posts) y
+  `<personaje> solo`; **Safebooru** (4 búsquedas, sin contenido adulto);
+  **Wallhaven** (API, etiquetas revisadas una a una); **Sketchfab** (API
+  v3: «Automail», «State Alchemist watch», «Fullmetal Alchemist», «Roy
+  Mustang», «transmutation circle»); **ambientCG** (wool, leather,
+  brushed metal, paper).
+- **`estilo.py`** sobre 17 imágenes (6 de vestuario, 7 de sitios, 4 de
+  símbolos, 2 de manga), todas miradas con Read.
+- **WebSearch** (8; español e inglés): colaboraciones con gachas,
+  Nendoroid y figma, cafés temáticos, UNIQLO UT, cosplay premiado,
+  Universal Studios Japan, figma de Ed, figuras de Winry. Y en **japonés**:
+  «フルメタル錬金術師 壁紙 公式 ダウンロード» (sin página oficial).
+- Sin 403 ni 404.
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- AnimeThemes: 522 cuatro veces (recolector, `--solo animethemes` y API
+  con espera).
+- **Dailymotion API** (español e inglés): «episodio 1 completo»,
+  «capítulo 1», «episode 1 full»: sólo tráilers y openings.
+- **Internet Archive** (`advancedsearch`): `fullmetal alchemist
+  brotherhood`, `identifier:turner_video_* AND fullmetal`,
+  `title:(fullmetal alchemist brotherhood)`: los extras de FUNimation, el
+  OP/ED sin créditos y la reseña de Blip.tv. `ffprobe` para medir cada
+  vídeo (el «1080p» del nombre era 852×480).
+- Wiki `fma` (temas musicales), Soundeffects Wiki, `fmabostlist` (música
+  por episodio), búsqueda web de efectos de la alquimia y de tendencias de
+  TikTok 2024-2025 (español e inglés).
+- `fotogramas.py` sobre el OP1 (cada 2 s), el ED1 (cada 3 s), el tráiler de
+  FUNimation (cada 2 s) y el de Vidaextra (cada 4 s); `episodio.py` ×4
+  (blooper, tráiler, ED1, reseña) → `partes/episodios.md`; `estilo.py`
+  sobre 8 fotogramas; ambientCG (Stone, Snow, Ice, RoofingTiles sin
+  resultado, Sand, WoodSiding sin resultado, Bricks, Wood, Metal).
+- YouTube pidió iniciar sesión todo el día.
+
+### 29.4 Investigador de voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Doblaje Wiki** por su API (`action=parse&prop=wikitext`): la tabla de
+  reparto con sus dos pestañas (el recolector sólo había sacado los
+  nombres de los audios) y los «Datos de interés».
+- **AniList** (ya recolectado), **Danbooru** (`counts`, tag correcto),
+  **Jikan/MyAnimeList**, **Arctic Shift** para r/FullmetalAlchemist (con
+  `title=`; `query=` da error: aviso para el recolector), **wiki `fma`**
+  (Trivia y Relationships de Ed, Al, Roy, Winry y Riza).
+- **Internet Archive**: miniaturas del tráiler de 2009 (`turner_video_11408`).
+- **6 muestras de audio** de Doblaje Wiki con `voz.py` (Whisper local).
+- **WebSearch** (8; español e inglés): ANMTV y el redoblaje 2021; encuesta
+  de popularidad (Newtype, Square Enix); escenas que hacen llorar
+  (→ Univision); fandubs en español (→ 6 vídeos); memes; por qué la aman
+  (→ DualShockers, GameRant); episodio de la muerte de Hughes (→ CBR,
+  OtakuKart); encuesta de *Animage* (→ furinkan.com).
+- **Fallaron**: TV Tropes (403 de Cloudflare, sin copia en Wayback
+  Machine, 2 intentos); reddit.com directo (bloqueo; se usó Arctic Shift);
+  un artículo de etc.cl (404); YouTube (sesión y 429 al reintentar).
+
+### 29.5 Investigador de texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **API de la wiki `fma`** (inglés): Amestris, Alchemy, The Truth,
+  Philosopher's Stone, Alchemist, Story Arcs/Manga, Flamel, Ouroboros,
+  Xerxes, Alkahestry, Xing, State Military, Chapter 1, Hiromu Arakawa,
+  List of Video Games; búsquedas de texto completo (Flamel cross, pocket
+  watch inscription, emblema, timeline, story arc, title page, Xingese,
+  newspaper).
+- **Imágenes miradas y medidas**: `Chapter1.jpg`, `Pocketwatch.png`,
+  `Truth.png`, `Fmab-poster.png` y 3 capturas del juego de PSP.
+- **fontTools** sobre 8 letras de Google Fonts y la Anime Ace v1.
+- **WebSearch** (12; inglés): letra del logo, globos y onomatopeyas del
+  manga, entrevista de Irie, influencias de Arakawa, capturas del PSP y de
+  la Wii, cierre del juego móvil, programas de animación de BONES, diseño
+  de color de los círculos, TV Tropes, TCRF, cartelas de título. **No se
+  buscó en japonés, coreano ni chino** (lo dice la parte: la documentación
+  técnica occidental estaba en inglés).
+- **Fetch directo**: The Mary Sue, The Video Games Museum, la API de
+  Steam (0 juegos).
+- **Bloqueadas** (403 «Just a moment…», 2 intentos cada una): Game UI
+  Database, MobyGames, fontmeme, TCRF, Riot Pixels; dafont sin resultados.
+
+### 29.6 Redactor
+
+- Leyó las cuatro partes, `episodios.md` y, para completar, los
+  `datos-*.md` (staff de AniList con el diseñador del logo, «Datos de
+  interés» del doblaje, fichas de personajes de AniList).
+- **Miró las hojas de fotogramas** del equipo (OP1, ED1, tráiler cortado
+  por planos y cada 2 s, las tres del blooper y las miniaturas del tráiler
+  de 2009) y las dos hojas de la wiki: corrigió **22 datos** (§28.2).
+- Montó `hojas/escenas_01.jpg` con Pillow desde esas hojas (A: OP1, B:
+  ED1, E1-E24 elegidos) y quitó `personajes_03.jpg` (3 imágenes).
+- Juntó `referencias.json` (189) desde `imagen.json`, `video.json`,
+  `voz.json`, `texto.json`, `datos.json`, el índice de las hojas y los
+  fotogramas con `?t=`; midió con Pillow el tamaño de las imágenes que no
+  lo traían.
+- Revisó los canales libres en `servidor/inventario.md`, los encargos y
+  las propuestas de las biblias 29-36 para no chocar (§0).
+- Comprobado con `python3 herramientas/revisar.py`.
