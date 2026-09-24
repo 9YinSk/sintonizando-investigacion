@@ -73,6 +73,19 @@ Este es el punto que más pesa en esta biblia. Hice mi propia búsqueda (no repe
 4. Los demonios nacen de la sangre de **Muzan Kibutsuji**, que se convirtió en el primer demonio al tomar una medicina experimental hecha con la **Glicina Azul** (青い彼岸花), una flor mítica que sólo florece 2-3 días al año, de día — por eso Muzan lleva siglos buscándola para curar su debilidad al sol. ✅ [Blue Spider Lily](https://kimetsu-no-yaiba.fandom.com/wiki/Blue_Spider_Lily).
 5. La **glicina (wisteria, 藤)** repele y envenena a los demonios: se usa como incienso protector, para atraparlos en el monte Fujikasane durante la Selección Final, y su flor en el blasón de una casa marca un refugio seguro para los Cazadores. ✅ [Wisteria](https://kimetsu-no-yaiba.fandom.com/wiki/Wisteria).
 
+**La historia por arcos** (estructura oficial de 6 arcos principales, del wikitext de [Story Arcs](https://kimetsu-no-yaiba.fandom.com/wiki/Story_Arcs); los nombres y el momento clave de cada uno cruzados con las páginas ya citadas arriba):
+
+| Arco | Qué pasa | Momento clave |
+|---|---|---|
+| **Resolución Inquebrantable** (Unwavering Resolve — 6 sub-arcos: Selección Final, Pantano del Secuestrador, Asakusa, Mansión Tsuzumi, Monte Natagumo, Entrenamiento de Recuperación) | Tanjiro entrena con Urokodaki, pasa la Selección Final en el monte Fujikasane cubierto de glicinias, entra al Cuerpo y conoce a Zenitsu e Inosuke | La Selección Final (demonios atrapados por la glicina) ✅ [Demon Slayer Corps](https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps) |
+| **Tren Mugen** (Mugen Train) | Misión con el Pilar de la Llama, Kyojuro Rengoku, contra el demonio Enmu y el Kizuki Superior 3, Akaza | Muerte de Rengoku, su frase «enciende tu corazón» |
+| **Distrito del Entretenimiento** (Entertainment District) | Misión con el Pilar del Sonido, Tengen Uzui, contra los hermanos demonio Gyutaro y Daki (Kizuki Superior 6) | Tengen se retira tras la batalla |
+| **Aldea de los Herreros** (Swordsmith Village) | Ataque de Hantengu y Gyokko (Kizuki Superiores 4) a la aldea que forja las espadas Nichirin; aparece Muichiro Tokito, Pilar de la Niebla | El bosque de 2 km² renderizado en CG (✅ punto 18, cita de Yuichi Terao) |
+| **Entrenamiento de los Pilares** (Hashira Training) | Los Pilares entrenan juntos a los Cazadores para la batalla final | Escenario con telón rojo del «Secreto de la era Taisho» (✅ punto 6) |
+| **Batalla Final** (Final Battle — 2 sub-arcos: Castillo Infinito, Cuenta Atrás del Amanecer) | Los Pilares y Muzan se enfrentan dentro del Castillo Infinito, el paisaje de gravedad deformada; Tanjiro se convierte brevemente en demonio antes del amanecer | El Castillo Infinito, adaptado en la trilogía de películas 2025-2026 (✅ punto 18, cita de 10x en velocidad de render) |
+
+✅ [Story Arcs, wikitext](https://kimetsu-no-yaiba.fandom.com/wiki/Story_Arcs) (estructura y capítulos/episodios de cada arco) + páginas cruzadas de arriba. ⚠️ la wiki no da una sinopsis en prosa por arco (sólo la lista de capítulos/episodios); las descripciones de la tabla son mías, hechas cruzando esa lista con las fichas de personajes/lugares ya citadas (Twelve Kizuki, Infinity Castle, Demon Slayer Corps) — no de memoria suelta.
+
 **Las 13 respiraciones y su símbolo/color** — tabla completa, sacada del wikitext de la página general de respiraciones (una sola fuente wiki, pero cita capítulo/tomo del manga como respaldo primario, y coincide con lo medido por el investigador de imagen/vídeo en vestuario y efectos):
 
 | Respiración (kanji) | Color asociado | N.º de formas | Quién la usa |
@@ -139,7 +152,7 @@ Este es el punto que más pesa en esta biblia. Hice mi propia búsqueda (no repe
 
 ## Bitácora de búsqueda
 
-- **Fandom** (`kimetsu-no-yaiba.fandom.com`, API `action=parse&prop=wikitext`, en inglés): `Breathing Style`, `Demon Slayer Corps`, `Nichirin Sword`, `Wisteria`, `Blue Spider Lily`, `Demon Slayer Mark`, `Twelve Kizuki`, `Hinokami Kagura`, `Infinity Castle`, `Tsuguko`, `Episode 5`, `Episode 14`. Búsquedas de texto (`list=search&srwhat=text`) para «Hanafuda» (no hay página propia; el dato sale dentro de Hinokami Kagura), «black blade unlucky» y «Kamaboko Squad».
+- **Fandom** (`kimetsu-no-yaiba.fandom.com`, API `action=parse&prop=wikitext`, en inglés): `Breathing Style`, `Demon Slayer Corps`, `Nichirin Sword`, `Wisteria`, `Blue Spider Lily`, `Demon Slayer Mark`, `Twelve Kizuki`, `Hinokami Kagura`, `Infinity Castle`, `Tsuguko`, `Story Arcs`, `Episode 5`, `Episode 14`. Búsquedas de texto (`list=search&srwhat=text`) para «Hanafuda» (no hay página propia; el dato sale dentro de Hinokami Kagura), «black blade unlucky» y «Kamaboko Squad».
 - **AniList** (GraphQL, `graphql.anilist.co`, en inglés): consulta propia por título exacto «Kimetsu no Yaiba» → id correcto **101922** (el de `datos-texto.md`, 21612, es «Onigiri», otro anime); recomendaciones y relaciones.
 - **Steam** (API pública, en inglés): `storesearch` para «Kimetsu no Yaiba» y `appdetails` para appid 2928600, 1490890, 2424110 — encontré *Sweep the Board!* que no estaba en `datos-texto.md` ni en la biblia hermana; bajé y miré 2 capturas oficiales con Pillow (1920×1080 exactas).
 - **The Cutting Room Floor**: búsqueda `"Hinokami Chronicles" site:tcrf.net` (WebSearch) → sin página.
@@ -158,4 +171,4 @@ Este es el punto que más pesa en esta biblia. Hice mi propia búsqueda (no repe
 | 11 · Videojuegos | ✅ | 3 juegos con datos de Steam API verificados hoy, incluido uno nuevo (*Sweep the Board!*) no encontrado antes; TCRF confirmado sin página. |
 | 18 · Estilo y cómo replicarlo | ✅ | Dos entrevistas técnicas nuevas con nombres, software (3ds Max + 7 plugins) y cifras concretas (2 km², ×10 renderizado); propuesta completa de Photoshop/Blender. |
 | 24 · Obras parecidas | ✅ | AniList con el id correcto (101922) + influencias declaradas por el autor + comparación de catálogo Ufotable (Fate, ⚠️ una fuente) + aviso al redactor de qué conceptos no repetir. |
-| 25 · Mundo y símbolos | ✅ | Tabla completa de las 13 respiraciones con kanji/color, tabla de las 9 Marcas de Cazador (el aura hecha piel), símbolos de la glicina, espadas Nichirin, Castillo Infinito y Doce Kizuki — con peso especial en los símbolos de aura, como pide el encargo. |
+| 25 · Mundo y símbolos | ✅ | 5 reglas del mundo, tabla de los 6 arcos con momento clave, tabla completa de las 13 respiraciones con kanji/color, tabla de las 9 Marcas de Cazador (el aura hecha piel), símbolos de la glicina, espadas Nichirin, Castillo Infinito y Doce Kizuki — con peso especial en los símbolos de aura, como pide el encargo. |
