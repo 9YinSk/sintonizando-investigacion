@@ -8,6 +8,8 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda web y GitHub): sin hojas de contacto, sin Doblaje Wiki, sin minutos de YouTube. Esta pasada las corrige y completa con la red abierta, sin rehacerlas.
 
+Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja cada ayudante). Se intercala con las tandas nuevas: unos 7 ayudantes a la vez, y cada uno se sube con `herramientas/subir.sh <id>` (o `<id> repaso`).
+
 - [ ] repaso 01-one-piece
 - [ ] repaso 02-attack-on-titan
 - [ ] repaso 03-solo-leveling

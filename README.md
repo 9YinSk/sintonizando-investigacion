@@ -39,6 +39,9 @@ ramas, revisa cada dossier y lo copia a la bóveda de Obsidian
 ## Qué hay aquí
 
 - `ENCARGO.md` — las instrucciones completas para cada sesión.
+- `AYUDANTE.md` — cómo trabaja cada ayudante de una tanda (red, herramientas, guardar por partes).
+- `COMPLEMENTO.md` — la segunda pasada de las biblias 01-25, hechas con la red cerrada.
+- `herramientas/subir.sh` — sube el trabajo de un ayudante y marca su casilla.
 - `encargos/` — un encargo por serie (qué canal, qué objeto, qué personajes).
 - `TEMA.md`, `temas/` y `contexto/proyectos.md` — los encargos de temas y el resumen de tus proyectos.
 - `MAPA.md` — todo lo que se investiga, por bloques.
