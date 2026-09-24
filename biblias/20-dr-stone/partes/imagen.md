@@ -544,8 +544,9 @@ capítulo y minuto), no aporté más a imagen por no repetir.
 
 - **API de Fandom** (`dr-stone.fandom.com/api.php`): `list=search` para
   Kaseki full body, Senku anime profile, Kingdom of Science flag, Drago
-  coin; `prop=imageinfo` para medir tamaño real de 12 imágenes sueltas
-  (portraits, settei, roadmap, monedas). Todas con `Referer:
+  coin; `list=categorymembers` sobre `Category:Key Visuals` (22 resultados);
+  `prop=imageinfo` para medir tamaño real de 15 imágenes sueltas
+  (portraits, settei, roadmap, monedas, key visuals). Todas con `Referer:
   https://www.fandom.com/` para que sirva la imagen.
 - **API de Sketchfab** (`api.sketchfab.com/v3/models/<uid>`): 9 modelos
   comprobados uno a uno, licencia y si es descargable.
@@ -554,10 +555,10 @@ capítulo y minuto), no aporté más a imagen por no repetir.
 - **blu-ray.com**, **goodsmile.info**, **play.google.com**,
   **wall.alphacoders.com**: comprobación directa con `curl` (código HTTP y
   bajando la imagen para medir tamaño con Pillow).
-- **WebSearch** (8 búsquedas, todas en inglés y japonés): cafés
-  colaborativos (japonés e inglés), Lawson, figuras oficiales, logo del
-  Reino de la Ciencia, texturas de screentone libres, carátulas de
-  Blu-ray, Dr. STONE Battle Craft.
+- **WebSearch** (9 búsquedas, en inglés y japonés): cafés colaborativos
+  (japonés e inglés), Lawson, figuras oficiales, logo del Reino de la
+  Ciencia, texturas de screentone libres, carátulas de Blu-ray, Dr. STONE
+  Battle Craft, cartones de cuenta atrás.
 - **Herramientas del equipo**: `herramientas/estilo.py` (paleta + tipo de
   sombreado, 11 imágenes) y muestreo manual con Pillow/`colorsys` (filtro
   por tono) para los hex que `estilo.py` no aislaba bien (pelo de Senku,

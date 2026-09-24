@@ -33,6 +33,79 @@ fecha: 2026-09-24
 >   lo vimos en el fotograma. ⚠️ **dudoso**: una sola fuente, o de memoria.
 >   Lo de memoria siempre va marcado.
 
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+- **Hojas de contacto**: «no hay» → **3 hojas miradas** en `hojas/`, con
+  tabla de números (§3.0).
+- **Ropa de Shizuka**: «falda rosa, blusa clara» → **top rosa `#F29FC2` y
+  falda granate `#B71840`**, medido en su retrato oficial (§16).
+- **Hex de la ropa**, «míos, a ojo» → **medidos** con Pillow: azul de
+  Doraemon `#18A2E7` → `#1D99C8`, rojo `#E61737` → `#E02333`, amarillo
+  `#FED037` → `#FCDC2A`, Nobita `#F5D23A` → `#FDD23C`, Gigante `#F08A24` →
+  `#F08E39`, Suneo `#3FA38C` → `#27B585` (§16).
+- **Paleta de sitios**, «de fans y de memoria» → **medida** en 5 fondos
+  oficiales y 9 fotogramas; tatami `#B9B77A` → `#A7A741`/`#658D36` (serie
+  clásica) y `#C1DBAA` (fondo oficial) (§5.2).
+- **Traductora de Netflix**: «Jennifer Mendel» → **Jennifer Medel**
+  (wikitext de Doblaje Wiki) (§10.1).
+- **Nobita niño en el doblaje clásico**: «Laura Torres, luego Rommy Mendoza
+  ⚠️» → **Laura Torres → Ariadna Rivas → Rommy Mendoza** ✅ (§10.2).
+- **Doblaje de los 80**: «una fuente» → Doblaje Wiki + Lost Media ✅; y
+  **Carlos Carrillo dobló a Doraemon y a Gigante** (§10.1).
+- **Voz latina de Dorami**: «no la encontré» → **María Fernanda Morales**
+  (1999-2011) y **Lupita Leal** (2014-2015) ✅ (§8, §10).
+- **Frases del doblaje latino**: «ninguna» → **3 frases textuales con
+  minuto**, oídas con Whisper en un episodio doblado (§10.6).
+- **Fondos oficiales**: «tamaño: no lo sé» → **1280×894 a 1280×929**,
+  bajados (§3.1, §17).
+- **Fondo del momento del invento**: «no lo vi» → **visto** en las
+  cartelas: rayos de color con destellos y letra con borde (§7.1).
+- **Licencias de Sketchfab**: «comprobar ⚠️» → **CC BY por la API** (§4.1).
+- A ✅: cumpleaños de Gigante (manga, 1980), boniatos de Shizuka (AniList),
+  Nobita adulto Miguel Ángel Ruiz, el apodo «Cósmico», la acuarela de *Story
+  of Seasons*, el pelo de Suneo, el bolsillo de media luna.
+- **Errores de las partes que corrige el redactor** (mirando las hojas y
+  bajando dos fondos): la hoja n.º 17 es Gigante con **guitarra**, no con
+  micrófono; el bolsillo 4D es el **n.º 58**, no el 64; los enlaces de
+  Dropbox de los fondos estaban **cruzados** (el 01 es el túnel, el 04 el
+  cuarto).
+- **Nuevo choque** ⚠️: el sonido del invento en la serie de 2005, «pua-pua…
+  ¡te-tte-rē!» o «¡bikān!» (§7.1).
+
+**Añadido:**
+- Escenas **miradas** en vídeo con minuto (§2.4), poses vistas (§15.0) y de
+  las hojas (§15.1), caras por emoción (§8).
+- Arte oficial nuevo: retratos 2005, cel de producción, artbook, hoja de
+  modelo, 83 portadas (§3.5); fan art con origen y etiquetas de Danbooru
+  (§4.3); fondos de pantalla de fans con tamaño y autor (§17).
+- Doblaje: repartos completos por temporada y película, el **doblaje
+  cubano de 1985**, **Irwin Daayán de Suneo a Doraemon**, por qué se fue
+  Laura Torres, nombres de inventos (§10).
+- El opening latino antiguo **oído** y por qué hay dos letras (§11).
+- Una letra por cada uso (§6.3); Dora-e-moji avisada (§6.1).
+- Guía de IA con paleta medida, etiquetas y **guía para IA de texto** con
+  frases reales por emoción (§18).
+- Secciones nuevas **Punto 18 a Punto 25**: técnica de Shin-Ei y Shirogumi
+  (CGWorld) y cómo replicarla en Photoshop y Blender; texturas 2D; gustos;
+  por qué la aman (88,4 % lloró); *fandubs* con vistas; colaboraciones
+  (UNIQLO × Louvre, Converse en México, *Granblue*); obras parecidas y
+  láminas vecinas; el mundo y sus símbolos.
+- Tabla «Cumplimiento del encargo» y bitácora de la segunda pasada.
+- `referencias.json`: de **35** entradas sin tamaño a **243**, **150 con
+  ancho y alto medidos**; primero el bolsillo, los fondos oficiales, los
+  retratos, las cartelas y los fotogramas vistos.
+
+**Conceptos de lámina**: la idea de los tres no cambia. **A** gana el fondo
+oficial exacto, el fondo de rayos visto (n.º 58) y el guiño del caramelo
+«Voice Thickener» (n.º 85). **C** pasa a la **noche con focos de recital**,
+con la pose de Gigante **vista** (0:20) o con su guitarra (n.º 17).
+
+**Los ⚠️**: había **73**. Unos **25** de los antiguos se resolvieron (los de
+arriba). El total sube a **153** porque la biblia casi dobla su tamaño
+(de 1233 a unas 2400 líneas) y cada dato nuevo con una sola fuente lleva su
+⚠️. Los que quedan y por qué, en §20.
+
 ---
 
 ## 0 · El canal y lo que tiene que decir
