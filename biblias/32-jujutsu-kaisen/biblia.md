@@ -1699,6 +1699,360 @@ fotográficos, luz lateral**.
 - Boceto de cara al estilo JJK (12 pasos, Yuta): ojos grandes y
   redondos, cejas finas, barbilla puntiaguda suave ⚠️ ([Sketchok](https://sketchok.com/anime/jujutsu-kaisen/yuta-okkotsu-face-drawing-tutorial-jjk-style-in-12-steps/), tutorial de fan).
 
+## Punto 19 · Texturas 2D (tramas, pinceladas, patrones y emblemas)
+
+Segunda pasada, del investigador de imagen (`partes/imagen.md`). Las
+texturas reales (papel de talismán, madera, CC0) ya están en §5.3.
+
+### 19.1 Cómo está hecho el manga (mirado)
+
+Celdas **T13, T15, T17 y T18** de `hojas/pantalla_y_letras_01.jpg`
+(páginas del manga), abiertas en grande:
+
+- **No hay trama de puntos**. El volumen es **rayado paralelo a mano**
+  (T17, los escombros de Shibuya: decenas de líneas casi rectas) y
+  **garabato suelto** para pelo y ondas de choque (T13, T15) ✅.
+- **Negro plano con grietas blancas en zigzag** (T18, el dominio de
+  Sukuna); ni un gris ✅.
+- Estilo **sucio a propósito** (*rough/scratchy*) ⚠️ (lectura propia
+  sobre 4 páginas).
+- **Grano de papel** de un tomo impreso: no lo encontré (sólo hay
+  páginas digitales de la wiki) ⚠️.
+
+### 19.2 Patrones de ropa y de piel
+
+| Qué | Cómo es | Fuente | Estado |
+|---|---|---|---|
+| **Tatuajes de Sukuna** (forma real) | marcas en **gancho** (⊃⊂) en hombros y pecho, **puntos negros grandes** en cada hombro, muñequeras con lunares | [portada del tomo 29](https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/74/Sukuna_%28Volume_29%29.png) (2598×3980), medida con `estilo.py`: negro `#010100` (29 %), piel en sombra `#6E3737` y `#9B524D`, línea `#512827`, sombreado mixto | ✅ imagen oficial + wiki |
+| **Kimono de Sukuna** (en el cuerpo de Yuji o Megumi) | **liso**: haori **negro**, kimono **blanco**, camiseta interior negra, cinturón negro, pantalón blanco, sandalias negras | wikitext de «Sukuna» | ✅ |
+| **Corrección**: el haori **rojo con llamas** | lo dibujan guías de cosplay (Punto 23.4); **no es el oficial** | costumary.com contra la wiki | ⚠️ no usar como color |
+| **Uniforme de la Escuela de Tokio** | chaqueta azul oscuro asimétrica, cuello alto; **dos pines a la izquierda** con el logo; **botones con forma del emblema** | wikitext de «Tokyo Metropolitan Curse Technical College» + el carnet de Yuta (19.3) | ✅ |
+| **Sudadera de Nobara** fuera del uniforme | blanca y azul, **estampado de flores** | wikitext de «Nobara Kugisaki» | ⚠️ una fuente; sin foto nítida |
+
+### 19.3 El emblema de la Escuela de Tokio (nuevo)
+
+- Un **cuadrado negro** con un **remolino blanco de cuatro brazos**
+  dentro de un aro blanco. Abstracto, no es un *mon* de flor o ave.
+- Sale **dos veces** en el [carnet de estudiante de Yuta](https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/54/Yuta%27s_Jujutsu_High_ID_%28Anime%29.png)
+  (1920×803): en la esquina del carnet y como **botón dorado** del cuello
+  (visto a ×4) ✅.
+- **Segunda fuente**: el adorno «[Jujutsu Kaisen Emblem](https://fortnite.fandom.com/wiki/Jujutsu_Kaisen_Emblem)»
+  de *Fortnite* (2023, licencia oficial) es **el mismo remolino, en
+  rojo**, sobre negro agrietado (256×256) ✅✅.
+- Sirve como **sello, botón o marca de agua**; se vectoriza fácil. El
+  logo 呪術廻戦 ya está en §6.1.
+
+### 19.4 Texturas y pinceles libres (con licencia)
+
+| Para qué capa | Recurso | Licencia | Estado |
+|---|---|---|---|
+| **Pinceladas de tinta** (el rayado de T13/T17) | [Manga Brushes, MyPhotoshopBrushes](https://myphotoshopbrushes.com/resources/3790/manga-brushes): lápiz, pluma, 2 de tramado cruzado, puntillismo, textura | **Free for Commercial Use** (dice la ficha) | ✅ |
+| Tinta, más variedad | [Comic Ink Brushes, Brusheezy](https://www.brusheezy.com/brushes/18074-comic-ink-brushes-by-mateo) | gratis; la licencia cambia por autor | ⚠️ revisar |
+| **Trama de manga** (si hace falta un tono plano) | [«[FREE] Manga Screentone Pack 1»](https://assets.clip-studio.com/en-us/detail?id=2142037), de Aku86941878 | gratis, términos de CLIP STUDIO ASSETS | ⚠️ leer los términos |
+| Trama, alternativa | [GraphicsBunker, Screentone Brushes](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) («$0» en Gumroad) | no se vio el texto de licencia | ⚠️ |
+| **Emblema japonés genérico** (no el de JJK) | [Kamon, SVG Repo](https://www.svgrepo.com/svg/80546/japanese-symbol-family-crest-kamon) | dice uso comercial libre; **no se pudo leer** (anti-bot, 2 intentos) | ⚠️ confirmar a mano |
+| **Papel** | Poly Haven y ambientCG de §5.3 | CC0 | ✅ |
+
+**Las capas, sin que falte ninguna**: 3D (§4.1 y Punto 18.e) → texturas
+reales (§5.3) → pinceladas y tramas (19.4) → emblema (19.3) → grano
+(Punto 18.d).
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Segunda pasada, del investigador de voz (`partes/voz.md`). Fuente: la
+sección «Trivia» de la [Jujutsu Kaisen Wiki](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo)
+(API `action=parse`) de 10 personajes, que cita el ***Jujutsu Kaisen
+Official Fanbook*** (el *databook* oficial) **con página** (Yuji pp. 4-7,
+Megumi pp. 8-11, Nobara pp. 12-15, Todo p. 36, Gojo pp. 40-43, Sukuna
+pp. 100-103). Sus preguntas son fijas: afición, comida favorita, comida
+que odia, qué le estresa. Cumpleaños y alturas, cruzados con
+[AniList](https://anilist.co/anime/113415).
+
+### 20.1 Tabla
+
+| Personaje | Cumpleaños | Altura | Le encanta | Odia | Afición · le estresa | Lo que siempre lleva |
+|---|---|---|---|---|---|---|
+| **Yuji** | 20 de marzo ✅ | 173 cm ✅ | arroz con algo encima, fideos | nada en especial | karaoke, tele (programas de comida), imitaciones · las ciencias | la **sudadera con capucha**, y no por gusto: «la lleva porque puede ser indeciso» ✅ (Fanbook) |
+| **Gojo** | 7 de diciembre ✅ (año ⚠️, abajo) | más de 190 cm ✅ | **dulces** (empezó «para estimular el cerebro») | **alcohol** | ninguna fija («puede hacer casi todo») · los superiores | la **venda** (§8) |
+| **Megumi** | 22 de diciembre ✅ | 175 cm ✅ | lo que combine con **jengibre** | pimiento rojo, todo acompañamiento dulce | leer no ficción · **la gente** | ropa cómoda de casa; su tableta **es del colegio** ✅ |
+| **Nobara** | 7 de agosto ✅ | poco menos de 160 cm ✅ | comida popular y **sandía** | encurtidos suaves | **ir de compras** (Balenciaga, Onitsuka Tiger) · deshidratarse | martillo y clavos (§8, §15) |
+| **Sukuna** | no tiene (más de mil años) | — | «su afición es **comer**» ✅ | «nada: **no le importa nada más que él mismo**» ✅ | — | nada: ocupa el cuerpo de Yuji o Megumi |
+| **Nanami** | 3 de julio ✅ | 184 cm ✅ | pan y **ajillo** | fideos planos | beber y cocinar para sí · **las horas extra** | el **reloj de pulsera** (abajo) |
+| **Inumaki** | 23 de octubre ✅ | casi 170 cm ✅ | **onigiri de atún con mayonesa** | huevas de pescado | ver YouTube (*mukbang*) · la asamblea de la mañana | el onigiri (se ve en el ED1, §12.0) |
+| **Todo** | 23 de septiembre ✅ | más de 190 cm ✅ | bistec de falda | nada | ver a su ídolo **Takada** · aburrirse | se arregla mucho para «oler siempre bien» ✅ |
+| **Maki** | 20 de enero ✅ | 170 cm ✅ | comida basura | comida vegetariana | especialidad: **aplastar latas vacías** · los trámites del clan Zenin | sus armas malditas (no tiene energía maldita) |
+| **Geto** | 3 de febrero ✅ | más de 180 cm ✅ | *zaru soba* (fideos fríos) | nada | artes marciales · absorber espíritus malditos | su *kesa* de cinco franjas ⚠️ (una fuente) |
+
+Los años (Yuji 2003, Megumi y Nobara 2002, Inumaki 2001, Todo 2000,
+Maki 2002, Nanami y Geto 1990) salen de la misma wiki. **El de Gojo
+(1989) choca**: la parte lo da con el Fanbook y a la vez dice que la
+wiki no lo precisa ⚠️. En una lámina, sólo día y mes.
+
+### 20.2 El detalle que vale una lámina
+
+- **El reloj de Nanami**: Akutami «se olvidaba de dibujárselo durante
+  Shibuya, pero aseguró a los fans que **de verdad estaba haciendo horas
+  extra**» ✅ (wiki, que cita el tomo 12, p. 46). Es el objeto-chiste
+  del meme de §9.2.
+- **Nanami nació para ser «alguien que deja su trabajo de oficinista»**;
+  al principio iba a ser villano ✅ (Fanbook, vía wiki).
+- **Inumaki** ve vídeos de *mukbang*: encaja con que sólo hable con
+  ingredientes de onigiri (concepto C).
+
+### 20.3 Cómo se ve a sí mismo cada uno
+
+- **Gojo**: invencible («sólo yo soy el honrado», §2.1). El Fanbook:
+  «puede hacer casi todo, así que procura **no involucrarse demasiado**
+  con nada; según él, todo es **por la siguiente generación**» ✅.
+- **Yuji**: no se ve como héroe; le importa **el valor de una vida** y
+  que la gente tenga **una muerte digna** ✅ (wiki).
+- **Megumi**: tampoco. El mundo es injusto; un hechicero es «una
+  herramienta para que la **gente buena** tenga más oportunidades de
+  vivir». Lo llama «su deseo egoísta» ✅ (wiki).
+- **Nobara**: guapa **y** fuerte a la vez, y no deja que nadie la cambie
+  ✅ (wiki + Fanbook: sus compras son parte de esa imagen).
+- **Sukuna**: sin sueños ni metas; los hechiceros se hacen fuertes por
+  tenerlos, él no ✅ (wiki).
+- **Nanami**: ya no cree en el trabajo de hechicero; volvió por una
+  «**razón difusa**» (ep. 42) ✅ (Fanbook, wiki).
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+Segunda pasada, del investigador de voz. Las **encuestas** ya están en
+§9; aquí van premios, ventas, reseñas, con quién se identifica el
+público y las escenas que hacen llorar o gritar.
+
+### 21.1 Premios y ventas
+
+- **11 premios** en los 8.º Crunchyroll Anime Awards (2-mar-2024), con
+  Anime del Año (§9.2): mejor dirección (**Shōta Goshozono**), acción,
+  diseño de personajes, fotografía, *opening* y *ending*, **mejor
+  personaje secundario (Gojo)** y varios de voz ✅
+  ([Variety](https://variety.com/2024/digital/news/crunchyroll-anime-awards-2024-winners-list-jujutsu-kaisen-1235928308/),
+  [Animation Magazine](https://www.animationmagazine.net/2024/03/jujutsu-kaisen-and-demon-slayer-win-top-prizes-at-the-2024-crunchyroll-anime-awards/)).
+- **El manga más vendido de Japón en 2021**: 30,91 millones de copias en
+  un año, por delante de *Kimetsu no Yaiba* (29,5). *JJK 0*: 1.930.831;
+  tomos 15 y 16: unos 2,3 y 2,1 millones ✅
+  ([Oricon](https://us.oricon-group.com/news/662/), [CBR](https://www.cbr.com/jujutsu-kaisen-demon-slayer-mha-best-selling-manga-2021/)).
+- **Sukuna, Mejor Antagonista** de los Crunchyroll Anime Awards 2021 ✅
+  (wiki + [CBR](https://www.cbr.com/crunchyroll-anime-awards-2021-antagonist-winner-nominees/)).
+
+### 21.2 Por qué engancha (reseñas)
+
+[CBR, «5 Issues Fans Have With the Writing (& 5 Things They Love)»](https://www.cbr.com/jujutsu-kaisen-fans-writing-likes-and-dislikes/)
+(22-ene-2024, leído entero) ✅: **peleas dinámicas**, **héroes y
+villanos memorables**, un **mundo crudo y realista**, un **sistema de
+poder detallado** y, sobre todo, **momentos emocionales bien resueltos**:
+«del colapso de Yuji al ver el daño que causó Sukuna en Shibuya a la
+tragedia de la muerte de Gojo, JJK nunca falla en hacer que sus fans
+sientan algo». La muerte de Gojo es del manga (Shinjuku) y **no está
+animada** todavía (§12).
+
+### 21.3 Con quién se identifica el público
+
+- **Nanami**, y a propósito: Akutami lo creó para representar «a alguien
+  que **deja su trabajo de oficinista**» ✅ (Fanbook, Punto 20.2).
+- Es «probablemente el más identificable para los fans mayores»: el
+  desencanto del *millennial* al entrar al mundo laboral ✅ (dos
+  artículos de CBR: [«Nanami… Is Underrated»](https://www.cbr.com/jujutsu-kaisen-nanami-best-character/)
+  y [«Why Nanami… Is Such a Fan Favorite»](https://www.cbr.com/jjk-nanami-fan-favorite/)).
+- Comentario sobre el ***burnout***: el trabajo «sólo vale la pena si
+  ayuda a alguien» ⚠️ ([Epicstream](https://epicstream.com/article/jujutsu-kaisen-nanami-kento-and-his-struggles-as-a-salary-man), paráfrasis).
+- **Gojo**: la fantasía del poder sin esfuerzo («Nah, I'd win», §9.2).
+  **Yuji**: el público se identifica con **su culpa**, no con su fuerza
+  (CBR, 21.2).
+- Para el servidor: la gente que dobla o hace locución **después del
+  trabajo** es el público de Nanami.
+
+### 21.4 Las escenas que hacen llorar
+
+**1. La muerte de Nanami** · T2-18 (ep. 42, «Right and Wrong», 理非),
+23-nov-2023 ✅ ([wiki, Episode 42](https://jujutsu-kaisen.fandom.com/wiki/Episode_42)).
+
+- **Minuto**: «Lo demás te lo dejo a ti» en el **13:30** (subtítulo
+  japonés con tiempos, §2.2); en el clip de Dailymotion, [0:18](https://www.dailymotion.com/video/x8upb66) ✅.
+- **Qué pasa**: con medio cuerpo quemado por Jogo, Nanami cruza el metro
+  de Shibuya pensando en **una playa de Malasia** donde nunca hizo su
+  casa ni leyó sus libros. Corta él solo a un grupo de humanos
+  transformados. Mahito le toca la espalda y le pide sus últimas
+  palabras. Nanami ve a Yuji, **sonríe** y le deja la tarea. Mahito lo
+  mata al instante ✅ (resumen de la wiki, leído entero).
+- **Por qué duele**: muere en el mismo episodio en que Yuji ya está roto
+  por lo que hizo Sukuna. No grita: muere pensando en el descanso que
+  nunca tuvo. El chiste de las «**horas extra**» (§2.1, #7 y #8) se
+  vuelve tragedia.
+- **Cómo está dibujada**: **metro de Shibuya con carteles amarillos**
+  (su sitio de trabajo, no un escenario especial); medio quemado,
+  **plano cercano a la cara**, **sin lluvia ni grito**; el golpe es la
+  sonrisa frente a la muerte que sigue ✅ (fotograma de §12.2).
+  ¿Silencio en ese instante? No se pudo oír ⚠️.
+- **Música**: **«Vague Reason»** (Yoshimasa Terui), el mismo nombre que
+  la «razón difusa» de Nanami ✅ ([YouTube, «Vague Reason (Nanami)»](https://www.youtube.com/watch?v=jyvxDmi4flU)).
+  Que suene justo en la muerte y no en otra escena del episodio ⚠️
+  (Tunefind sólo lista el ep. 43).
+- **Reacción**: en Reddit, «If you were given a chance to hijack Gege's
+  body… what you would do?» tiene **774 votos y 168 comentarios** ✅
+  ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=JuJutsuKaisen&title=Nanami)):
+  años después, el fandom sigue «negociando» para salvarlo. El hilo «why
+  is nanami's death song the best theme» y un post de
+  [Tumblr (@yuujies)](https://www.tumblr.com/yuujies/734882331849097216/nanami-kento-%E4%B8%83%E6%B5%B7%E5%BB%BA%E4%BA%BA-in-jujutsu-kaisen-episode-42),
+  sólo vistos en el buscador ⚠️.
+
+**2. La muerte de Junpei Yoshino** · T1, arco de Mahito (eps. 6-7).
+
+- **Qué pasa**: Mahito transforma y mata delante de Yuji a **Junpei**,
+  el primer amigo que Yuji hizo fuera de la escuela. El episodio hace
+  creer que Junpei se salvará y entrará en la escuela ✅
+  ([SlashFilm, «The 10 Best Death Scenes in Jujutsu Kaisen»](https://www.slashfilm.com/1696249/jujutsu-kaisen-best-deaths-ranked/)).
+- **Por qué duele**: la **primera pérdida** de Yuji tras su abuelo
+  (§2.1, #1); Junpei acababa de decir que Mahito «parecía buena persona».
+- **Reacción**: «I legit cried watching this scene. This boy just
+  couldnt get a break» (hilo pequeño, 4 votos, textual) ✅
+  ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=JuJutsuKaisen&title=cried)).
+- **Minuto exacto**: no lo encontré ⚠️ (sólo el rango de episodios).
+
+### 21.5 La que hace gritar de emoción
+
+**La Expansión de Dominio de Gojo contra Jogo** · T1-7, **14:25-14:30**
+(§2.1, #5; mirada en §12.2). Los dominios siguen siendo lo que más se
+celebra: en Reddit, el hilo del **triple choque de dominios** de la T3
+tiene 186 votos, y «What's the most iconic line in season 3?», **1.419**
+✅ (en `datos-voz.md`; son de la T3, no de esta escena). El signo de
+manos de Gojo es reto de fotos en TikTok (§12.5). Es el reverso de la
+muerte de Nanami: se grita, no se llora.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Segunda pasada, del investigador de voz. Vistas y duración **medidas**
+con `yt-dlp --skip-download` (sin bajar vídeo) o la API de Dailymotion,
+salvo donde digo.
+
+### 22.1 Doblajes de fans (fandubs)
+
+| Escena | Canal | Enlace | Duración | Vistas | Variante |
+|---|---|---|---|---|---|
+| «Compras con Nobara» (animación de illuxxxtrandy) | **LATAM Fandub Studios** (azuphie como Nobara, zerito_dubs como Itadori) | [Dailymotion](https://www.dailymotion.com/video/xagbkga) · [YouTube](https://www.youtube.com/watch?v=MxYto_HCjA0) (ahora privado ⚠️) | 1:07 | **9.306** ✅ | latino |
+| «Kugisaki Nobara», escena doblada | **NamiDUB** | [YouTube](https://www.youtube.com/watch?v=yzzGr4jH6BI) | 0:41 | 263 ✅ | **castellano** (13-ene-2022) |
+
+### 22.2 Covers del opening en español («Kaikai Kitan», OP1)
+
+| Cover | Canal | Vistas | Duración |
+|---|---|---|---|
+| [«KAIKAI KITAN \| Eve \| Cover Español Latino»](https://www.youtube.com/watch?v=JXSDUu_sVcQ) | **David Delgado** | **411.990** ✅ | 3:38 |
+| [«KAIKAI KITAN OPENING 1 FULL COVER ESPAÑOL LATINO»](https://www.youtube.com/watch?v=7WxKkSlioRE) | **Danie Green** | **195.811** ✅ | 3:38 |
+| [«(Full) Opening – Cover en Español Latino (Kaikai Kitan)»](https://www.youtube.com/watch?v=XJverP3wvfM) | **EnmaDS** | **118.586** ✅ | 3:55 |
+| [«Opening (KaiKai Kitan) [Cover En Español Latino]»](https://www.youtube.com/watch?v=6IqWx6e-sxw) | **0uter** | 1.643 ✅ | 1:33 |
+
+Hay público hispano que **canta** el opening: sirve para un reto de
+cover en los canales de canto.
+
+### 22.3 Parodias dobladas: ElRai (España)
+
+**ElRai** (`@ElRaiFanduber` en YouTube) dobla
+a personajes de anime **jugando a videojuegos**: fandub de personaje, no
+de escena.
+
+- [«Los Jujutsu Zenin JUEGAN JUJUTSU SHENANIGANS!»](https://www.youtube.com/watch?v=9uwA-lly6TM):
+  **993.871 vistas** ✅, 15:40, 7-may-2026.
+- [«Los Jujutsu Kaisen JUEGAN HYTALE!»](https://www.youtube.com/watch?v=5QyaDz3YSiU):
+  **393.995 vistas** ✅, 11:58, 23-feb-2026.
+
+Es **el fandub hispano más visto** de la serie que se encontró, muy por
+delante de los de escena. El canal hace lo mismo con Blue Lock,
+Invincible, My Hero Academia y Kimetsu ✅ (listado del canal).
+
+### 22.4 Memes hispanos
+
+- TikTok **@traductordemomosbv** sube memes de JJK en español
+  ([ejemplo](https://www.tiktok.com/@traductordemomosbv/video/7346331193773853958)).
+  Vistas y «me gusta» sin medir: TikTok no se abre desde aquí ⚠️.
+- Lo más repetido: **Sukuna en pánico** y **Gojo y Geto** en diálogos
+  absurdos doblados (#jujutsukaisen #jjk #itadori #JJKMemes) ⚠️ (resumen
+  del buscador).
+- Del doblaje oficial, los guiños que los fans latinos celebran («gallo»
+  para Yuji, «chipote chillón», «Eso es todo, amigos») están en §10.4.
+
+### 22.5 Qué sirve para el servidor
+
+- Para un **reto de fandub**: el formato que más engancha es la
+  **parodia de personaje** (ElRai), no la escena suelta.
+- Para un **reto de canto**: «Kaikai Kitan» con letra en español (David
+  Delgado, 411.990 vistas).
+- No se encontró una **encuesta latina** de personaje favorito (§20).
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+Segunda pasada, del investigador de imagen. Los juegos **propios** de la
+franquicia están en §13; aquí, los cruces con otras marcas.
+
+### 23.1 Ropa y marcas (2025-2026: la serie en su pico)
+
+| Marca | Qué trae (visto) | Fuente | Estado |
+|---|---|---|---|
+| **Uniqlo UT** (MANGA UT, 100 años de Shueisha) | 4 camisetas; la trasera de una es un **collage vertical nuevo**: Yuta con espada, Todo, Maki, Higuruma, Kusakabe, Mei Mei, Choso y Rika contra Sukuna ([imagen oficial](https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487560/item/usgoods_00_487560_3x4.jpg), 1500×2000) | [Hypebeast](https://hypebeast.com/2026/1/shueisha-100th-anniversary-uniqlo-ut-collaboration-collection-release-info-t-shirts-manga-jujutsu-kaisen-hunter-x-hunter-yu-yu-hakusho), [SoraNews24](https://soranews24.com/2026/01/17/massive-manga-collaboration-bringing-100-years-of-shueisha-manga-to-uniqlo-t-shirts%E3%80%90photos%E3%80%91/), [CBR](https://www.cbr.com/jjk-uniqlo-america-release-first-look/) | ✅ |
+| **HUGO** (Hugo Boss) | chaquetas reversibles, camisas de bolos, denim; una camiseta azul con **foto de carné** de Yuji y Megumi en blanco y negro y «JuJuTsu Kaisen» en **grafiti amarillo** (1200×675) | [nota de Hugo Boss](https://group.hugoboss.com/en/newsroom/news/news-detail/hugo-x-jujutsu-kaisen-a-style-curse-you-dont-want-to-break) | ✅ oficial |
+| **Under Armour** | camisetas HeatGear: **logo 呪術廻戦 bordado**, un brazo con el **dragón de sombra** de Megumi en una manga y la **mano ensangrentada** de Sukuna en la otra (1280×720) | [nota de Under Armour](https://about.underarmour.com/en/stories/2025/10/under-armour-and-jujutsu-kaisen-unleash-limited-edition-heatgear.html) | ✅ oficial |
+| **Subtitle** (con TOHO) | 18 piezas, 65-220 dólares | [Hypebeast](https://hypebeast.com/2026/3/subtitle-jujutsu-kaisen-apparel-collection-release-info) | ⚠️ una fuente |
+| SYUNSOKU | zapatillas de Gojo | sólo un revendedor en eBay | ⚠️ sin confirmar |
+| Puma | **no encontré** colaboración (sí la hay con Pokémon) | búsqueda | — |
+
+### 23.2 Otros juegos
+
+| Juego | Qué trajo | Fuente | Estado |
+|---|---|---|---|
+| ***Fortnite*** | **2023**: Yuji, Megumi, Nobara y Gojo, «Break the Curse!»; **feb-2026**: Sukuna, Toji y Mahito. Gojo sale **recoloreado en morado** y con el cuello simplificado (no es canon); el adorno del **emblema** (Punto 19.3); pantalla de carga «Jujutsu Sorcerers» | [esports.gg](https://esports.gg/news/fortnite/jjk-wave-2-fortnite-collaboration-all-skins-prices-and-more/), [Dexerto](https://www.dexerto.com/fortnite/fortnite-jujutsu-kaisen-collab-release-date-skins-2232902/), [Fortnite Wiki](https://fortnite.fandom.com/wiki/Category:Jujutsu_Kaisen_Set) | ✅ |
+| ***Puzzle & Dragons*** | desde el 28-sep-2021: Yuji, Gojo, Megumi, Nobara, Inumaki y Panda (6-8 estrellas) | [Crunchyroll News](https://www.crunchyroll.com/news/latest/2021/9/27/jujutsu-kaisen-kicks-off-collab-with-mobile-game-puzzle-dragons), [Pocket Gamer](https://www.pocketgamer.com/puzzle-dragons/puzzle-dragons-x-jujutsu-kaisen-collab-brings-special-dungeons-and-a-twitter-giv/) | ✅ |
+| ***Monster Strike*** | 3 colaboraciones; la de jul-2026 trae formas nuevas de Yuji, Nanami y Gojo. Sólo en Japón y China | [Screen Rant](https://screenrant.com/jujutsu-kaisen-monster-strike-july-2026-new-season/), [CBR](https://www.cbr.com/jujutsu-kaisen-monster-strike-new-2026-update/) | ✅ |
+
+### 23.3 Cafés, tiendas y eventos (Japón)
+
+| Qué | Cuándo y dónde | Fuente | Estado |
+|---|---|---|---|
+| **Café oficial del 5.º aniversario** | jul-sep 2026, Tokio (Shinjuku), Nagoya, Osaka; Yuji, Megumi, Choso, Yuta, Hakari, Kirara, Higuruma, Naoya | [web del café](https://jujutsukaisen-cafe.jp/cafe_menu/) | ✅ oficial |
+| **Café × Sanrio** | jun-jul 2025; menú 2.690 yenes, tarjeta | [JW Web Magazine](https://jw-webmagazine.com/tips/jujutsu-kaisen-x-sanrio-cafe-collaboration-in-japan-2025/), [web del café](https://jujutsu-sanrio-cafe.theme-cafe.jp/cafe_menu/) | ✅ |
+| **Sweets Paradise** (2.ª) | ene-feb 2025 | [web oficial](https://www.sweets-paradise.jp/collaboration/jujutsukaisen2) | ✅ |
+| **Lawson** | comida y objetos con **ilustraciones nuevas** de Gojo, Nobara y Yuji; otra en jun-2026 | [AniTrendz](https://anitrendz.net/news/2021/09/02/jujutsu-kaisen-teams-up-with-lawson-for-food-and-goods/), [Essential Japan](https://essential-japan.com/news/lawson-launches-huge-new-jujutsu-kaisen-collab-launches-this-june/) | ✅ |
+| Universal Studios Japan | comida y objetos | [TDR Explorer](https://tdrexplorer.com/jujutsu-kaisen-universal-cool-japan-food-merchandise-at-universal-studios-japan/) (no cargó) | ⚠️ |
+| Gyukaku (yakiniku) | menú | [Game Rant](https://gamerant.com/jujutsu-kaisen-gyukaku-collab/) | ⚠️ |
+| Sunshine City Prince Hotel | menú temático | [web del hotel](https://www.princehotels.co.jp/sunshine/restaurant/contents/jujutsukaisen/) | ⚠️ |
+
+### 23.4 Figuras (su pose es referencia 3D) y cosplay
+
+- **Good Smile Company** ([catálogo](https://www.goodsmile.info/en/jujutsukaisen)) ✅:
+  **Nendoroid** de los 5 protagonistas y de Maki, Inumaki, Nanami, Panda,
+  Sukuna, Geto, Toji, Shoko y Choso; **POP UP PARADE**; **figma** de 7.
+- **Ichiban Kuji «5th Anniversary FINAL!»** (26-sep-2026): premio A,
+  **Yuji de pie, 23 cm**, con la sonrisa de su entrada en la escuela;
+  premio B, **Yuta sonriendo** como al final de *JJK0* ✅
+  ([Toy People](https://www.toy-people.com/en/?p=109742), [Yasuee](https://yasuee.com/news/ichiban-kuji-jujutsu-kaisen-5th-anniversary-final-yuji-yuta-gojo-figures-revealed)).
+- **Grandista de Maki**: pose de combate, la **Nube Juguetona en alto**
+  ⚠️ ([Toy People](https://www.toy-people.com/en/?p=107825)).
+- **Cosplay con materiales** (guías de Costumary, estimaciones ⚠️):
+  **Sukuna** 150-350 dólares, 6 semanas: pintura corporal, peluca
+  carmesí en punta, kimono de algodón con **entretela gruesa en el
+  cuello**, uñas postizas ([guía](https://www.costumary.com/templates/jujutsu-kaisen/sukuna));
+  **Gojo** 90-240, 5 semanas: sarga negra con patrón de **cuello
+  mandarín**, cremallera separable, peluca blanca, venda de punto negro
+  ([guía](https://www.costumary.com/templates/jujutsu-kaisen/gojo-satoru)).
+  Ojo: su Sukuna lleva el haori rojo con llamas, que **no es el oficial**
+  (Punto 19.2).
+- **Fotos reales con licencia libre** (convención en Francia, 2021;
+  **timz2011** y **esby.photo** en Flickr, CC BY-NC-SA 2.0): [Gojo](https://live.staticflickr.com/65535/51990687193_31c8113f43_b.jpg)
+  (819×1024), [Megumi](https://live.staticflickr.com/65535/51322703318_ac0dd7ea48_b.jpg)
+  (1024×767) y [Sukuna](https://live.staticflickr.com/65535/52537756517_4762222af1_b.jpg)
+  (683×1024) ✅. Dicen de qué tela y grosor son la chaqueta y el uniforme.
+- Maki antes de Shibuya, con su lanza, de «Kerocchi» ⚠️ ([CBR](https://www.cbr.com/jujutsu-kaisen-cosplay-maki-pre-shibuya-incident/)).
+- Un cosplay **premiado** en concurso con nombre y fecha: no lo encontré.
+
+### 23.5 Qué sirve para la lámina
+
+- **Under Armour**: cómo poner un símbolo de la serie **sobre una
+  prenda** sin que parezca un parche pegado.
+- **Uniqlo**: cómo meter a 8 personajes en vertical sin que se pisen
+  (lámina 2 con todo el reparto).
+- **Fortnite** recolorea a Gojo en morado: **no** usarlo de referencia de
+  color.
+
 ## 19 · Tres conceptos de lámina
 
 Los tres son **distintos**: sitio, objeto, personaje y cuadro de diálogo
