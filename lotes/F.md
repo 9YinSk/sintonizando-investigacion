@@ -58,3 +58,4 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 79-demon-slayer-paisajes-y-auras | texto | sonnet | 13 | 242801 |
 | 79-demon-slayer-paisajes-y-auras | imagen | sonnet | 14 | 224994 |
 | 79-demon-slayer-paisajes-y-auras | video | sonnet | 16 | 187904 |
+| 79-demon-slayer-paisajes-y-auras | voz | sonnet | 17 | 245351 |
