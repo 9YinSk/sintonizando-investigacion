@@ -22,6 +22,10 @@ aquí la línea de aviso de su informe. Cuando el dueño decida algo, se tacha
       sin perder información: recolector gratuito, investigadores en Sonnet que
       leen sólo su parte, redactor en Opus, repasos cortos. Ver `EQUIPO.md`.
 
+- [ ] **One Punch Man (35)** no tiene canal: propone #en-directo (la tele de
+      Saitama), la sala 🎲 Juegos (choca con Ralph, encargo 29) y
+      #reto-de-la-semana (ya lo piden Naruto y Haikyuu). ¿Cuál?
+
 ## 2. Oír o ver en persona (no se puede desde el servidor)
 
 Al ver el capítulo, anote serie, episodio, minuto y frase (p. ej. «Bocchi,
@@ -39,7 +43,13 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
       minuto de 7 escenas que hacen llorar; escenas nuevas sólo en 720p (YouTube
       pide iniciar sesión). Si las ve, anote capítulo y minuto.
 
+- [ ] One Punch Man: no hay clips oficiales doblados; las frases latinas salen de
+      las 8 muestras de Doblaje Wiki (sin episodio). Las de Mumen Rider, sólo en
+      inglés.
+
 ## 3. Datos que siguen dudosos (⚠️ con una sola fuente o fuentes que chocan)
+
+- One Punch Man: la voz latina de Sneck (¿Miguel Ángel Leal o Edson Matus?).
 
 - Attack on Titan: Carlos Monroy, Ivett Toriz y el nombre «Legión de
   Exploración» en latino.
