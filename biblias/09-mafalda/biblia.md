@@ -1118,15 +1118,32 @@ chico (Reddit); **Papá** es el que más sufre las preguntas.
 
 ## 10 · Voces y frases (no hay «doblaje latino»: es original en español)
 
-### Cortos de 1972-73 (Argentina)
-| Personaje | Voz | Estado |
-|---|---|---|
-| **Mafalda** | **Rina Morán** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Rina_Mor%C3%A1n), [Infobae](https://www.infobae.com/teleshow/2025/03/20/murio-a-los-96-anos-rina-moran-voz-inolvidable-de-la-radio-argentina/) |
-| Manolito | Rina Morán | ✅ [La Capital](https://www.lacapital.com.ar/zoom/murio-los-96-anos-rina-moran-voz-inolvidable-la-radio-argentina-n10185583.html), [Perfil](https://www.perfil.com/noticias/sociedad/el-mundo-de-la-radiofonia-argentina-de-duelo-la-historica-locutora-rina-moran-murio-a-los-96-anos.phtml) |
-| Mamá | Nelly Hering | ✅ (ya estaba en la serie y repitió en la película: resumen de [Caras y Caretas](https://carasycaretas.org.ar/2022/07/09/mafalda-en-el-cine-y-la-television/) + [IMDb](https://www.imdb.com/title/tt0309827/fullcredits/)) |
-| Felipe y Miguelito | Cecilia Gispert | ✅ (mismas fuentes) |
-| Felipe | Pelusa Suero | ⚠️ sólo [IMDb](https://www.imdb.com/title/tt0298675/characters/nm1041650); choca con lo anterior |
+### Cortos de 1971-74 (Argentina, voces originales)
+Ficha completa de Doblaje Wiki por su API, cruzada con **The Fandub
+Database** (wiki inglesa que cataloga doblajes oficiales, no fandubs) ✅
+([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mafalda),
+[The Fandub Database](https://fandubdb.fandom.com/wiki/Mafalda)).
 
+| Personaje | Voz original | Estado |
+|---|---|---|
+| **Mafalda** | **Rina Morán** | ✅ Doblaje Wiki, Fandub Database, [Infobae](https://www.infobae.com/teleshow/2025/03/20/murio-a-los-96-anos-rina-moran-voz-inolvidable-de-la-radio-argentina/) |
+| Papá | Rolando Juan de Dios Russo (también dirigió las voces) | ✅ las dos wikis |
+| Mamá | Nelly Hering | ✅ las dos wikis |
+| Felipe | Pelusa Suero | ✅ las dos wikis e [IMDb](https://www.imdb.com/title/tt0298675/characters/nm1041650) |
+| **Manolito** | **Cecilia Gispert** | ✅ las dos wikis |
+| Susanita | Amalia Cherrutti | ✅ las dos wikis |
+| Miguelito | Cecilia Barmonde | ✅ las dos wikis |
+
+> [!warning] Corrección de la primera pasada
+> Decía **Manolito = Rina Morán** (por dos necrológicas) y **Felipe y
+> Miguelito = Cecilia Gispert**. Está mal para la serie: Rina Morán es
+> **Mafalda** y Cecilia Gispert es **Manolito**. Gispert pasó a Felipe y
+> Miguelito en la **película** (recasting). Las dos wikis coinciden.
+
+- Según Oscar Desplats (animador), el casting fue **más entre locutores
+  que entre actores de doblaje**. La versión rioplatense sólo se emitió en
+  **Canal 11** de Argentina; el resto del mundo recibió el doblaje neutro
+  ⚠️ (Doblaje Wiki, «Datos de interés»).
 - Rina Morán, gran locutora de radio, murió en marzo de 2025 a los 96.
   Dijo: *«Adoro la ternura de Mafalda»* ⚠️ (cita de las necrológicas;
   [Radio Nacional](https://www.radionacional.com.ar/murio-rina-moran-figura-indiscutida-de-la-radiofonia-argentina/)).
@@ -1139,31 +1156,65 @@ chico (Reddit); **Papá** es el que más sufre las preguntas.
   ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mafalda),
   [Caras y Caretas](https://carasycaretas.org.ar/2022/07/09/mafalda-en-el-cine-y-la-television/),
   [DVD en Amazon México](https://www.amazon.com.mx/Mafalda-Serie-Disc-Personajes-Animados/dp/B001QKA7EC)).
-- **Reparto mexicano: no lo encontré** ⚠️. La página de Doblaje Wiki lo
-  tiene, pero su API estaba bloqueada.
+- **Reparto mexicano (1974)**, segunda pasada, de la ficha de Doblaje Wiki
+  y las páginas de cada actor:
 
-### Película «Mafalda» (1982)
+| Personaje | Voz mexicana | Estado |
+|---|---|---|
+| Mafalda | Gloria González (Arcee en *Transformers*, Sayaka en *Mazinger Z*) | ⚠️ sólo Doblaje Wiki |
+| Papá | Carlos Rotzinger, **también director del doblaje** | ⚠️ sólo Doblaje Wiki |
+| Mamá (Raquel) | Queta Lavat | ✅ Doblaje Wiki e [Infobae](https://www.infobae.com/mexico/2023/12/04/estos-son-los-famosos-personajes-a-los-que-dio-voz-queta-lavat-en-el-doblaje/) |
+| Felipe | Juan Antonio Edwards | ⚠️ sólo Doblaje Wiki |
+| Susanita | Janet Arceo | ⚠️ sólo Doblaje Wiki |
+| Manolito, Miguelito | **no están** en Doblaje Wiki («¿?») | ❌ no encontrado |
+
+- Voces adicionales, sin saber a quién hace cada una: Arturo Mercado,
+  Carlos Petrel, Fernando Álvarez, Guillermo Romano, María Santander,
+  Rosanelda Aguirre, Rubens Medel.
+- El doblaje mexicano **mezcla modismos argentinos y mexicanos** ⚠️
+  (Doblaje Wiki).
+- Hay una muestra de audio de la mamá en Doblaje Wiki
+  ([A37 Mafalda - mamá de mafalda.wav](https://static.wikia.nocookie.net/doblaje/images/3/3f/A37_Mafalda_-_mam%C3%A1_de_mafalda.wav))
+  ⚠️ (no transcrita).
+
+### Película «Mafalda» (estreno 3-dic-1981)
 | Personaje | Voz | Estado |
 |---|---|---|
 | **Mafalda** | **Susana Klein** (probó siete voces en el casting) | ✅ [IMDb](https://www.imdb.com/title/tt0309827/fullcredits/), [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Susana_Klein) |
 | Felipe y Miguelito | Cecilia Gispert | ✅ |
 | Mamá | Nelly Hering | ✅ |
-| Papá | Oscar Silva | ⚠️ sólo IMDb |
-| Manolito | Paqui Balaguer | ⚠️ sólo IMDb |
-| Susanita | Susana Sisto | ⚠️ sólo IMDb |
+| Papá | **Carlos Silva** (IMDb ponía «Oscar Silva») | ⚠️ sólo Doblaje Wiki |
+| Manolito | Paqui Balaguer | ✅ IMDb y [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mafalda,_la_pel%C3%ADcula) |
+| Susanita | Susana Sisto | ✅ IMDb y Doblaje Wiki |
+
+- **Estreno en cines el 3 de diciembre de 1981** (Aries
+  Cinematográfica) ✅ (Doblaje Wiki y la fecha de las dos copias de
+  Internet Archive); 1982 es el año en otros países. Estudio
+  **Syncroson**, dirección de voces **Adolfo Duncan**, grabada en 1979 ⚠️
+  (sólo Doblaje Wiki).
+- Susana Klein, textual: *«Me pidieron hacer hasta siete voces distintas,
+  más dulce, más mayor…»* y sobre Quino: *«El día que al fin le conocí, lo
+  miraba y lloraba de emoción. Es un filósofo, es fantástico»* ✅
+  ([ABC Color](https://www.abc.com.py/espectaculos/cultura/voz-de-mafalda-celebra-el-premio-al-filosofo-quino-1299168.html),
+  Doblaje Wiki).
 
 - Dirección **Carlos D. Márquez**; producción **Daniel Mallo**; animación
   **Catú**; guion **Alberto Cabado**; música **Riz Ortolani** ⚠️ (IMDb
   y resumen del buscador).
-- **Contradicción** ⚠️: las necrológicas dicen que Quino eligió a Rina
-  Morán para Mafalda en «su largometraje»; IMDb pone a Susana Klein. Lo
-  más probable: Morán en los cortos, Klein en la película. **Sin
-  confirmar.**
+- **Contradicción resuelta** ✅: la ficha de la película en Doblaje Wiki
+  dice que hubo **recasting**; sólo **Cecilia Gispert y Nelly Hering**
+  repitieron. Morán en los cortos, Klein en la película (coincide con
+  IMDb).
 
 ### Serie de 1993 (Padrón)
-- **Sin diálogo comprensible** ⚠️ (punto 8). En Doblaje Wiki sale el
-  actor **Frank González** junto a esta serie, sin saber qué hizo ⚠️
-  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Frank_Gonz%C3%A1lez)).
+- **Sin diálogo ni voces** ✅ (sección 8; [Mafalda Wiki](https://mafalda.fandom.com/es/wiki/Mafalda):
+  «no existen diálogos ni trabajos de voz»; y la cita de Quino en NODAL).
+  Pero la página de Doblaje Wiki del cubano **Frank González** pone
+  «1994 · Mafalda (Doblaje. Serie de dibujos animados). Dir. Juan Padrón»
+  ⚠️ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Frank_Gonz%C3%A1lez)).
+  Quizá una narración breve o un crédito mal puesto: sin resolver.
+- Año: 1993 según [ENDAC](https://endac.org/encyclopedia/mafalda/), 1994
+  según la Mafalda Wiki ⚠️.
 
 ### Netflix (2027)
 - **Voces sin anunciar** ✅ ([Primera Hora](https://www.primerahora.com/entretenimiento/cine-tv/notas/asi-lucira-la-nueva-mafalda-de-netflix/),
@@ -1175,13 +1226,51 @@ chico (Reddit); **Papá** es el que más sufre las preguntas.
 - La NHK emitió la animación **doblada al japonés** como
   «おませなマハルダ» ⚠️ ([Weblio](https://www.weblio.jp/content/%E3%83%9E%E3%83%95%E3%82%A1%E3%83%AB%E3%83%80+%28%E6%BC%AB%E7%94%BB%29)).
 
+### Frases textuales con minuto (sacadas del audio)
+No hay clips doblados oficiales accesibles (YouTube pide iniciar
+sesión). Se bajaron **tramos de 40 s** de Internet Archive con ffmpeg y
+se transcribieron con `voz.py` (Whisper `small`, español), corrigiendo
+a oído los nombres que Whisper confunde.
+
+**[Película de 1981](https://archive.org/details/mafalda-la-pelicula-1981):**
+- **3:00** · Susanita: *«Me parte el alma ver gente pobre. ¿A vos no? Yo no
+  tengo nada contra los pobres, ¿viste? Todo lo contrario, creo que
+  necesitan ayuda y protección.»* · Mafalda: *«¿Pero qué maldad,
+  Susanita?»*
+- **3:34** · *«Este es Miguelito. ¿Cómo hará el tiempo para doblar las
+  esquinas en los relojes cuadrados?»* ✅ (la wiki la trae casi igual).
+- **10:12** · Mafalda: *«Decime, ¿qué es eso de la Guerra Fría?»* · Papá:
+  *«Mirá, Mafalda, si te lo explicara no lo entenderías… No es problema
+  para chicos.»* · Mafalda: *«¿Si me lo explicaras sin las partes
+  pornográficas?»* Sigue el **Nervocalm** (10:33).
+- **20:13** · Mamá: *«Felipe, ¿podrías ir a la lechería?»* · Felipe
+  (20:19): *«Lo siento, mamá, no tengo tiempo.»*
+- **45:07** · Maestra: *«Sí, Manolito, ¿qué es lo que no has entendido de
+  la lección?»* · Manolito: *«Bueno, este, a decir verdad, desde el
+  primer día hasta ahora no entendí nada.»*
+- **60:02** · el almacén: *«los costos suben y a nosotros también nos
+  aumentan, tanta inflación, tanta inflación…»*
+
+**[Cortos de 1972](https://archive.org/details/mafalda-la-serie-1972-1080p), episodio 1:**
+- **25:00** · *«Es difícil tener ánimo para bajar a este mundo.»* ·
+  *«No sé, Mafalda.»*
+- **33:20** · clase de matemáticas: *«Tres por uno, tres…»*
+- **41:40** · *«Adiós, este, Felipe.»*
+
+⚠️ **Qué pista de audio llevan estas copias** no está claro: el chiste de
+Miguelito suena casi igual en los cortos (ep. 1, 1:00) y en la película.
+El voseo («decime», «mirá», «¿viste?») apunta a voces argentinas. El
+audio original rioplatense, según Doblaje Wiki, casi no ha resurgido
+(hay una copia en 35 mm en el Museo del Cine).
+
 ### Frases: las reales y las falsas
 | Frase | Estado |
 |---|---|
 | «Como siempre: lo urgente no deja tiempo para lo importante.» | ✅ real ([Mafalda Digital](https://www.facebook.com/MafaldaDigital/posts/-como-siempre-lo-urgente-no-deja-tiempo-para-lo-importante-es-una-de-las-frases-/1254158292741675/), [El País](https://www.facebook.com/elpais/posts/como-siempre-lo-urgente-no-deja-tiempo-para-lo-importante-y-otras-frases-de-mafa/10152065116211570/)) |
 | «La sopa es a la niñez lo que el comunismo a la democracia.» | ⚠️ comprobada sólo en inglés ([Harte](https://harte.substack.com/p/soup-is-to-childhood-what-communism)) |
 | Libertad y el voto: «¡Pero jorobar! ¡Si tanto le fastidia ese candidato…!» | ⚠️ transcripción de prensa ([Cadena 3](https://www.cadena3.com/noticia/siempre-juntos/una-vineta-de-mafalda-de-1973-viral-por-describir-el-panorama-politico-actual_372684)) |
-| «¡Paren el mundo, que me quiero bajar!» | ❌ **FALSA**. Quino lo desmintió en 2012 en W Radio; viene de un musical de Broadway ([Chequeado](https://chequeado.com/el-explicador/no-mafalda-no-dijo-paren-el-mundo-que-me-quiero-bajar/), [BBC en MDZ](https://www.mdzol.com/bbc-mundo/2020/10/2/paren-el-mundo-que-me-quiero-bajar-la-frase-que-la-mafalda-de-quino-nunca-dijo-109132.html), [La Civiltà Cattolica](https://www.laciviltacattolica.es/2021/09/30/paren-el-mundo-que-me-quiero-bajar/)) |
+| «¿Qué habrán hecho algunos sures para merecer ciertos nortes?» | ⚠️ una sola fuente secundaria; no se encontró la tira |
+| «¡Paren el mundo, que me quiero bajar!» | ❌ **FALSA: no es de Mafalda**. Hasta prensa seria la repite junto al globo ([La Unión](https://launion.com.ar/nota/13823/2021/11/mafalda-y-el-globo-terraqueo)). Quino lo desmintió en 2012 en W Radio; viene de un musical de Broadway ([Chequeado](https://chequeado.com/el-explicador/no-mafalda-no-dijo-paren-el-mundo-que-me-quiero-bajar/), [BBC en MDZ](https://www.mdzol.com/bbc-mundo/2020/10/2/paren-el-mundo-que-me-quiero-bajar-la-frase-que-la-mafalda-de-quino-nunca-dijo-109132.html), [La Civiltà Cattolica](https://www.laciviltacattolica.es/2021/09/30/paren-el-mundo-que-me-quiero-bajar/)) |
 
 > [!warning] Más de la mitad de las «frases de Mafalda» de internet son falsas
 > Lo dijo **Daniel Divinsky**, su editor ✅
