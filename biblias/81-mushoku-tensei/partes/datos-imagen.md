@@ -4,7 +4,98 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Mushoku Tensei: Jobless Reincarnation» (TV, parecido 0.57 con «Mushoku Tensei»); si es la obra, usa --nombres · anilist: descarté «Mushoku Tensei: Redundant Reincarnation» (NOVEL, parecido 0.74 con «Mushoku Tensei»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
+
+## Portada y banner oficiales (AniList)
+_Fuente: https://anilist.co/anime/108465_
+
+- Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg
+- Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg
+
+## Rudeus Greyrat: las imágenes más grandes de la wiki (96 en total)
+_Fuente: https://mushokutensei.fandom.com/wiki/Rudeus_Greyrat_
+
+- 2340×1080 · Screenshot 20260119 144921 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/b/b8/Screenshot_20260119_144921_Gallery.jpg
+- 2340×1080 · Screenshot 20260119 142825 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/46/Screenshot_20260119_142825_Gallery.jpg
+- 2340×1080 · Screenshot 20260112 180150 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/2/28/Screenshot_20260112_180150_Gallery.jpg
+- 2340×1080 · Screenshot 20251121 120209 Anilab.jpg · https://static.wikia.nocookie.net/mushokutensei/images/5/58/Screenshot_20251121_120209_Anilab.jpg
+- 2340×1080 · Screenshot 20251121 120156 Anilab.jpg · https://static.wikia.nocookie.net/mushokutensei/images/c/c5/Screenshot_20251121_120156_Anilab.jpg
+- 2340×1080 · Screenshot 20250925 110937 Anilab.jpg · https://static.wikia.nocookie.net/mushokutensei/images/a/a6/Screenshot_20250925_110937_Anilab.jpg
+- 1920×1080 · MT-AN-S2-E24-PNG-52.png · https://static.wikia.nocookie.net/mushokutensei/images/4/48/MT-AN-S2-E24-PNG-52.png
+- 1920×1080 · MT-AN-S2-E24-PNG-45.png · https://static.wikia.nocookie.net/mushokutensei/images/0/0c/MT-AN-S2-E24-PNG-45.png
+- 1920×1080 · MT-AN-S2-E24-PNG-43.png · https://static.wikia.nocookie.net/mushokutensei/images/9/94/MT-AN-S2-E24-PNG-43.png
+- 1920×1080 · MT-AN-S2-E24-PNG-40.png · https://static.wikia.nocookie.net/mushokutensei/images/6/64/MT-AN-S2-E24-PNG-40.png
+
+## Rudeus Greyrat · Appearance (texto de la wiki)
+_Fuente: https://mushokutensei.fandom.com/wiki/Rudeus_Greyrat#Appearance_
+
+Rudeus stands at around average height (175cm), has a muscular body despite being a magician, and his looks weren't that poor when his family members are asked. He was born with light brown hair and green eyes. However, he later has Kishirika Kishirisu switch out both of his original eyes for demon eyes, causing them to be heterochromatic. Like his father, Paul, Rudeus also has a mole underneath his left eye and follows his ponytail hairstyle as he grows older. He is also always seen wearing gray robes but rarely covers his head during his time as an adventurer. At a young age, he is careless about the outfit he wears due to traveling the Demon Continent. He has worn the same gray robes when he entered Ranoa Magic Academy which has many cuts and hems from his countless battles that makes him look like a delinquent. During his 20's, he begins to pay more attention to the clothes he wears…
+
+## Roxy Migurdia Greyrat: las imágenes más grandes de la wiki (93 en total)
+_Fuente: https://mushokutensei.fandom.com/wiki/Roxy_Migurdia_Greyrat_
+
+- 2340×1080 · Screenshot 20260119 144820 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/0/00/Screenshot_20260119_144820_Gallery.jpg
+- 2340×1080 · Screenshot 20260119 144808 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/f/f6/Screenshot_20260119_144808_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 143442 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/0/01/Screenshot_20260115_143442_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 092049 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/47/Screenshot_20260115_092049_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 090606 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/f/fd/Screenshot_20260115_090606_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 004621 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/3/3e/Screenshot_20260115_004621_Gallery.jpg
+- 2340×1080 · Screenshot 20260114 234350 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/1/12/Screenshot_20260114_234350_Gallery.jpg
+- 2340×1080 · Screenshot 20260114 193520 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/2/29/Screenshot_20260114_193520_Gallery.jpg
+- 2340×1080 · Screenshot 20260114 193231 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/9/90/Screenshot_20260114_193231_Gallery.jpg
+- 2340×1080 · Screenshot 20260114 130330 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/f/f9/Screenshot_20260114_130330_Gallery.jpg
+
+## Roxy Migurdia Greyrat · Appearance (texto de la wiki)
+_Fuente: https://mushokutensei.fandom.com/wiki/Roxy_Migurdia_Greyrat#Appearance_
+
+Roxy is shown as a short statured adult woman in her physical teenage appearance between 15 or 16 years old. Her complexion is like sand but paler, and has long blue hair tied in 2 braids that reach below her waist. Her eyes match the color of her hair. Her hair color sometimes appears green in sunlight, which makes people distrustful or even afraid of her because of the similarity between her and the Superd Tribe's green hair. She wears a long-sleeve white and gray button-down shirt with black edges, matching her short black skirt that shows off her beautiful, well-worked legs. On top of this stood out a large light brown layer, with the edges sinking into white and being outlined by black. A black hat rests on her head. In the center, a gold line rounded the circumference of the garment while 2 other wider white lines were painted on both sides. The tip of her hat wilts lazily…
+
+## Eris Greyrat: las imágenes más grandes de la wiki (62 en total)
+_Fuente: https://mushokutensei.fandom.com/wiki/Eris_Greyrat_
+
+- 1920×1080 · Mushoten 06 05.jpg · https://static.wikia.nocookie.net/mushokutensei/images/1/13/Mushoten_06_05.jpg
+- 1920×1080 · Mushoten 06 02.jpg · https://static.wikia.nocookie.net/mushokutensei/images/e/e5/Mushoten_06_02.jpg
+- 1920×1080 · MT-AN-S1-OVA1-PNG-14.png · https://static.wikia.nocookie.net/mushokutensei/images/1/1d/MT-AN-S1-OVA1-PNG-14.png
+- 1920×1080 · MT-AN-S1-OVA1-PNG-13.png · https://static.wikia.nocookie.net/mushokutensei/images/c/c2/MT-AN-S1-OVA1-PNG-13.png
+- 1920×1080 · MT-AN-S1-OVA1-PNG-12.png · https://static.wikia.nocookie.net/mushokutensei/images/9/9d/MT-AN-S1-OVA1-PNG-12.png
+- 1920×1080 · MT-AN-S1-OVA1-PNG-09.png · https://static.wikia.nocookie.net/mushokutensei/images/9/97/MT-AN-S1-OVA1-PNG-09.png
+- 1920×1080 · MT-AN-S1-OVA1-PNG-02.png · https://static.wikia.nocookie.net/mushokutensei/images/6/62/MT-AN-S1-OVA1-PNG-02.png
+- 1920×1080 · MT-AN-S1-E23-PNG-01.png · https://static.wikia.nocookie.net/mushokutensei/images/2/29/MT-AN-S1-E23-PNG-01.png
+- 1920×1080 · MT-AN-S1-E22-PNG-12.png · https://static.wikia.nocookie.net/mushokutensei/images/c/c3/MT-AN-S1-E22-PNG-12.png
+- 1920×1080 · MT-AN-S1-E22-PNG-06.png · https://static.wikia.nocookie.net/mushokutensei/images/f/f1/MT-AN-S1-E22-PNG-06.png
+
+## Eris Greyrat · Appearance (texto de la wiki)
+_Fuente: https://mushokutensei.fandom.com/wiki/Eris_Greyrat#Appearance_
+
+She is pointed to be beautiful with long red hair, red eyes and nice figure. She also has swords around her waist on both the left and right sides. At the end of the Decisive Battle Chapter, she has streaks of white in her hair due to mana strain.
+
+## Sylphiette Greyrat: las imágenes más grandes de la wiki (57 en total)
+_Fuente: https://mushokutensei.fandom.com/wiki/Sylphiette_Greyrat_
+
+- 2340×1080 · Screenshot 20260119 143933 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/c/ca/Screenshot_20260119_143933_Gallery.jpg
+- 2340×1080 · Screenshot 20260119 143355 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/f/ff/Screenshot_20260119_143355_Gallery.jpg
+- 2340×1080 · Screenshot 20260119 142825 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/46/Screenshot_20260119_142825_Gallery.jpg
+- 2340×1080 · Screenshot 20260116 112820 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/0/07/Screenshot_20260116_112820_Gallery.jpg
+- 2340×1080 · Screenshot 20260116 112808 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/47/Screenshot_20260116_112808_Gallery.jpg
+- 2340×1080 · Screenshot 20260116 112613 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/9/96/Screenshot_20260116_112613_Gallery.jpg
+- 2340×1080 · Screenshot 20260116 112247 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/40/Screenshot_20260116_112247_Gallery.jpg
+- 2340×1080 · Screenshot 20260116 110531 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/4/44/Screenshot_20260116_110531_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 151046 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/8/8e/Screenshot_20260115_151046_Gallery.jpg
+- 2340×1080 · Screenshot 20260115 151004 Gallery.jpg · https://static.wikia.nocookie.net/mushokutensei/images/1/13/Screenshot_20260115_151004_Gallery.jpg
+
+## Sylphiette Greyrat · Appearance (texto de la wiki)
+_Fuente: https://mushokutensei.fandom.com/wiki/Sylphiette_Greyrat#Appearance_
+
+Sylphy has pale skin, elfish ears, and red eyes. In her childhood, she had short green hair. Her tomboyish appearance initially made Rudeus believe she was a boy. After the Teleport Incident, her hair became white. Although she grew to have a more feminine body, her slender appearance combined with her apparel made her look more masculine. She also now wears white gloves as her permanent accessory starting in Season 2. Sylphy is also noted to be very beautiful since childhood.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de mushokutensei.fandom.com (4 páginas y sus galerías)…
+  299 imágenes enlazadas, 237 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/mushoku-tensei
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
