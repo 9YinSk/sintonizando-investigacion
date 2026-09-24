@@ -1586,6 +1586,44 @@ de P7-P8, Reddit (§14).
 
 ---
 
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 601 imágenes de la wiki miradas; 100 elegidas en 3 hojas (§2.0): promos, renders del juego, figurines, Pottermore, props de papel, láminas de MinaLima (§2.1). Faltan portadas de libros y Jim Kay (§2.5) |
+| 2 · Fotogramas con capítulo y minuto | ✅ | minutos de los subtítulos ingleses (§3) y fotogramas 1080p del vociferador; fotogramas de wiki a 1920×800. El resto de clips, a 160-320 px |
+| 3 · Fan art y 3D con licencia | ✅ | 17 modelos de Sketchfab con licencia por la API (§4); fan art de ArtStation y DeviantArt, sólo enlazado |
+| 4 · Fondos, luz, paleta, texturas | ✅ | hex medidos en clips y arte (§5); texturas CC0 de Poly Haven y ambientCG. Texturelabs, licencia sin leer ⚠️ |
+| 5 · Tipografía con tildes | ✅ | 12 letras libres y 6 de fans abiertas con fontTools (§6) |
+| 6 · Cómo hablan en pantalla | ✅ | 9 «cuadros» del mundo (§7.1), juegos (§7.2) y qué NO (§7.3) |
+| 7 · Personajes y popularidad | ✅ | 5 encuestas, fuentes en inglés, japonés y coreano (§9): gana Snape; Hermione siempre arriba |
+| 8 · Doblaje latino con dos fuentes | ⚠️ | reparto principal ✅ con dos fuentes; P1 y P3 ahora con prensa. P4, P5, P6, P8 y 6 voces secundarias, sólo Doblaje Wiki (§10) |
+| 8b · Frases latinas textuales | ✅ | 20 frases (§10.3): muestras de Doblaje Wiki y el vociferador con minuto exacto en vídeo. No hay clips oficiales doblados con subtítulos |
+| 9 · Música | ✅ | compositores con fuente; el coro de ranas visto en el clip de P3 (§11) |
+| 10 · Vídeos con minuto | ✅ | 28 vídeos comprobados, casi todos con enlace `&t=` (§12); 2 mirados con `fotogramas.py` en vídeo real, el resto por *storyboard*. TikTok sin abrir ⚠️ |
+| 11 · Videojuegos: interfaz y diálogo | ✅ | 6 juegos (§13, §7.2); *Hogwarts Mystery* sin capturas ⚠️ |
+| 12 · Lo que ama el fandom y qué NO | ✅ | Reddit por Arctic Shift con votos (§14); 12 «qué NO» |
+| 13 · Descripción profunda y forma de hablar | ✅ | 6 personajes + Snape y McGonagall (§8), con cuerpo visto y voz latina transcrita |
+| 14 · Poses con minuto | ✅ | 6 tablas, 7-11 poses cada una (§15); casi todas vistas en clip u hoja; 3 gestos sin ver ⚠️ |
+| 15 · Vestuario con hex | ✅ | hex medidos en figurines y promos (§16) |
+| 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta, no ⚠️ |
+| 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18) |
+| 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19) |
+| 40 fuentes distintas | ✅ | unas 70 webs distintas enlazadas |
+| Oficiales | ✅ | harrypotter.com, MinaLima, Warner Bros. Games, canales oficiales de YouTube, soporte de Portkey |
+| Entrevistas al staff | ✅ | MinaLima, Magic Awakened, Hogwarts Legacy, Javier Rivero (su blog), Cuarón (prensa) |
+| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2) |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, doblaje), HP Lexicon, TCRF ✅; TV Tropes da 403; Wayback: la API de disponibilidad responde, las páginas guardadas no bajan |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, foro de dafont |
+| Arte | ✅ | ArtStation, DeviantArt (ArtStation da 403 a la API) |
+| Vídeo | ✅ | YouTube (oficial y análisis), Internet Archive; TikTok sin abrir |
+| Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab, Poly Haven, ambientCG |
+| Doblaje latino | ✅ | Doblaje Wiki (API y audios), prensa mexicana, entrevistas en YouTube |
+| Hojas (`hojas/`) | ✅ | 3 JPEG de menos de 1 MB, numeradas y descritas (§2.0) |
+| `referencias.json` | ✅ | 40 entradas: la imagen misma (o el vídeo), con ancho y alto medidos, uso y licencia |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
