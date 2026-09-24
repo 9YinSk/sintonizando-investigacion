@@ -58,33 +58,54 @@ un segundo sitio.
   84) ✅✅.
 
 ### 8.2 Reparto secundario y recurrente (nuevo: no estaba en biblia §10.1)
+
+> Aviso sobre el ✅/⚠️ de esta lista: casi todo sale de **una sola página**
+> (el wikitext de Doblaje Wiki), aunque biblia §10.3 ya citaba algunos de
+> estos cambios de actor — pero esa cita de biblia **viene de la misma
+> Doblaje Wiki** (lo dice datos-voz.md: recolectar.py la sacó de ahí), así
+> que no cuenta como segunda fuente independiente. Marco ✅ **sólo** donde
+> hay una fuente de verdad distinta (AniList, o dos búsquedas de biblia
+> §10.1/§10.2 hechas fuera de Doblaje Wiki); el resto va con ⚠️ **una
+> fuente**, a falta de ANMTV o los créditos de Crunchyroll por personaje.
+
 - Kinro → **Alan Huarte** (1ª) → **Diego Estrada** (2ª-4ª, posible cambio de
-  director) ✅ (Doblaje Wiki; biblia §10.3 ya menciona el cambio de Huarte).
+  director) ⚠️ (una fuente: Doblaje Wiki, aunque el hecho del cambio ya
+  salía citado en biblia §10.3 desde la misma wiki).
 - Ginro → **Francisco «Paco» Vargas** (1ª-4ª); un loop, **Michell Cerón**
-  (4ª, ep. 79) ✅.
-- Ruri → **Alexa Navarro** (1ª-4ª) ✅ (coincide con AniList).
-- Suika → **Valeria Mejía** (1ª-4ª); un loop del ep. 29, **Susana Moreno**
-  (que luego se queda con Mirai Shishio fija) ✅✅.
-- Kaseki → **Óscar Rangel** (1ª-4ª) ✅✅.
-- Magma → **Ismael Verástegui** (1ª-4ª) ✅✅ (coincide con AniList).
-- Kokuyo → **Alejandro Ortega** (1ª-) ✅.
-- François → **Carla Castañeda** (3ª-4ª) ✅.
+  (4ª, ep. 79) ⚠️ (una fuente).
+- Ruri → **Alexa Navarro** (1ª-4ª) ✅ (Doblaje Wiki **+** AniList, que en
+  su columna «voz Spanish» ya daba el mismo nombre: datos-voz.md).
+- Suika, loop del ep. 29 → **Susana Moreno** (luego voz fija de Mirai
+  Shishio) ⚠️ (una fuente: Doblaje Wiki).
+- Kaseki → **Óscar Rangel** (1ª-4ª) ✅ (Doblaje Wiki **+** biblia §10.1, que
+  ya lo daba con dos búsquedas de prensa hechas aparte, según su propia
+  nota de método en §10).
+- Magma → **Ismael Verástegui** (1ª-4ª) ✅ (Doblaje Wiki **+** AniList,
+  datos-voz.md, fila 22).
+- Kokuyo → **Alejandro Ortega** (1ª-) ⚠️ (una fuente).
+- François → **Carla Castañeda** (3ª-4ª) ⚠️ (una fuente).
 - Soyuz → **Carlo Vázquez** (3ª-4ª); de bebé, **Paola García** (3ª, eps.
-  51-52) ✅.
+  51-52) ⚠️ (una fuente).
 - Matsukaze → **Alfredo Gabriel Basurto** (3ª-4ª, eps. 48-66) →
-  **Óscar López** (4ª, ep. 67-) ✅ (ya en biblia §10.3 como curiosidad, aquí
-  con los dos nombres).
-- Sai Nanami → **Tommy Rojas** (4ª); de niño, actor sin identificar ⚠️.
-- Amo de Matsukaze → **Dión González** (4ª, ep. 59) ✅.
-- Madre de Soyuz → **Georgina Sánchez** (3ª, eps. 51-52) ✅ (ya en biblia).
+  **Óscar López** (4ª, ep. 67-) ⚠️ (una fuente: Doblaje Wiki; biblia §10.3
+  ya lo decía, pero viene de ahí mismo).
+- Sai Nanami → **Tommy Rojas** (4ª); de niño, actor sin identificar ⚠️ (una
+  fuente).
+- Amo de Matsukaze → **Dión González** (4ª, ep. 59) ⚠️ (una fuente).
+- Madre de Soyuz → **Georgina Sánchez** (3ª, eps. 51-52) ⚠️ (una fuente;
+  biblia la repite pero viene de la misma wiki).
 - Jasper → **Víctor Delgado** (hasta ep. 13) → **Andrés García** (desde ep.
-  14) ✅ (Doblaje Wiki; ya mencionado en biblia §10.3 sin el segundo nombre).
+  14) ⚠️ (una fuente: Doblaje Wiki).
 - Personajes episódicos con doblaje confirmado: Anciano y Profesor (ep. 4,
   16) → **Hugo Navarrete** y **Bardo Miranda**; Gozan (ep. 18) → **Hugo
-  Núñez**; Madre de Soyuz ya arriba. El resto de episódicos (Akashi,
+  Núñez** ⚠️ (una fuente cada uno). El resto de episódicos (Akashi,
   Kyoichiro, Morito, Sagara, tío de Ryusui, padre de Hyoga, padre de Sai y
   Ryusui) siguen **sin actor identificado** («¿?») en la propia Doblaje
-  Wiki ⚠️ → no inventar.
+  Wiki → no inventar.
+- **Para el redactor**: si hace falta subir estos nombres secundarios a
+  ✅✅, la vía más rápida es ANMTV (suele publicar el reparto completo al
+  anunciar cada temporada) o los créditos de cierre en Crunchyroll; no lo
+  hice por presupuesto de esta tanda.
 
 ### 8.3 Estudio, dirección y estreno (fuente primaria directa, ya no «una búsqueda»)
 - Estudio: **Audiomaster Candiani** (México) ✅ (ficha de Doblaje Wiki,
@@ -210,12 +231,12 @@ sección Trivia/Personality), con doble check contra AniList donde se pudo.
 |---|---|---|---|---|---|
 | **Senku** | 4 de enero · AB · 171 cm | Los videojuegos: cita a Mario, Civilization, Dragon Quest y sobre todo Monster Hunter (ch. 63) ✅; también Doraemon, de niño ✅ | El sentimentalismo y que le digan que algo es imposible («ni un milímetro») ✅ | La **bata blanca de laboratorio** ⚠️ (de memoria/imágenes, no un texto) | Genio frío que **no admite ser generoso**; bromea con su matrimonio-relámpago con Ruri y su divorcio para cortar el tema del romance ✅ |
 | **Gen** | 1 de abril · B · 175 cm | Su baraja de cartas hechas a mano; la Coca-Cola («strictly a cola man») ✅ | El alcohol (lo rechaza siempre) ✅ | Su **baraja con tres comodines** con frases ✅ | Se presenta como el mentalista más hábil del mundo; **esconde manos y encorva la espalda** para parecer más pequeño e inofensivo ⚠️ |
-| **Chrome** | 2 de abril · A · 170 cm | Coleccionar minerales y piedras desde niño; explorar | Que le digan «aficionado» en su campo (se ofende si Ryusui lo llama así, según biblia) | Su **bolsa de piedras** (ya en biblia §8) | Se llamaba a sí mismo «hechicero» antes de conocer a Senku; ahora se ve **«usuario de la ciencia»** ✅ |
-| **Kaseki** | 2 de septiembre · AB · 155 cm | Crear cosas nunca vistas con las manos; sus vehículos (coche, laboratorio móvil, el barco Perseus) ✅ | Que desguacen sus máquinas sin reconstruirlas | La **cuerda de artesano al cuello**, que le queda tras romperse la camisa (biblia §8) | El artesano de la aldea desde hace 50 años; comparte cumpleaños con Yakov Nikitin ✅ |
+| **Chrome** | 4 de febrero · A · 170 cm | Coleccionar minerales y piedras desde niño; explorar | Que le digan «aficionado» en su campo (se ofende si Ryusui lo llama así, según biblia) | Su **bolsa de piedras** (ya en biblia §8) | Se llamaba a sí mismo «hechicero» antes de conocer a Senku; ahora se ve **«usuario de la ciencia»** ✅ |
+| **Kaseki** | 9 de febrero · AB · 155 cm | Crear cosas nunca vistas con las manos; sus vehículos (coche, laboratorio móvil, el barco Perseus) ✅ | Que desguacen sus máquinas sin reconstruirlas | La **cuerda de artesano al cuello**, que le queda tras romperse la camisa (biblia §8) | El artesano de la aldea desde hace 50 años; comparte cumpleaños con Yakov Nikitin, 9 de febrero ✅✅ (AniList + trivia de la wiki, que además dice «February 9th») |
 | **Suika** | 9 de septiembre · sin dato · 119 cm | Ayudar y sentirse útil («¡Detective Suika!», ya en biblia); imitar voces | Que la llamen rara por el casco (aunque ya no le afecta) | El **casco de sandía** (hecho originalmente por Kaseki, no por ella) ✅ | De niña hablaba de sí misma en tercera persona; dejó el hábito de adulta ✅ |
 | **Kohaku** | 8 de agosto · B · 160 cm | Pelear, cazar, sobrevivir; cuida mucho a su hermana Ruri | Que la llamen «gorila» (sólo le molesta si lo dice Chrome o Ginro) ✅ | — | Se ve a sí misma como protectora de su aldea y de Ruri; primera persona en besar a Senku y, más adelante en la historia, primera en pisar la Luna ✅ |
 | **Ryusui** | sin dato AniList · 3ª-4ª temporada | El lujo, el mar, «amar a todo el mundo» (frase suya sobre el amor sin género) ✅ | — | Su barco y su fortuna | Se ve como un capitán de leyenda: «mi instinto de marinero nunca falla» (cita textual, quotes de la wiki) ✅ |
-| **Tsukasa** | 18 años · sin dato altura AniList | Un mundo sin jerarquías ni ciencia moderna (ideología «anarco-primitivista» según TV Tropes/wiki) ✅ | La ciencia que permite a los adultos hacer daño a los jóvenes | — | Se ve como el «protector de los jóvenes»; su nombre significa literalmente «rey león» (Shishiō) ✅ |
+| **Tsukasa** | 10 de octubre · 18 años · sin dato altura AniList | Un mundo sin jerarquías ni ciencia moderna (ideología «anarco-primitivista» según la wiki) ✅ | La ciencia que permite a los adultos hacer daño a los jóvenes | — | Se ve como el «protector de los jóvenes»; su nombre significa literalmente «rey león» (Shishiō) ✅ |
 
 ## 21 · Por qué la gente la ama (nuevo: no existía en la biblia)
 

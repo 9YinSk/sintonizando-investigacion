@@ -1631,10 +1631,298 @@ descampado, recital, «el gato cósmico».
 
 ---
 
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+### Quién lo hace y con qué
+
+- **Manga**: Fujiko F. Fujio, con **herramientas normales de papelería**,
+  sin materiales de pintura elaborados ⚠️ (dicho por la editorial según la
+  parte de imagen; sin enlace a la fuente original). Línea limpia de grosor
+  igual, **casi sin tramas**, sombra con negro plano ✅ (visto en
+  [«Gian manga.jpg»](https://static.wikia.nocookie.net/doraemon/images/a/a0/Gian_manga.jpg)).
+- **Anime de TV (1979 y 2005-hoy)**: **Shin-Ei Animation** (シンエイ動画),
+  fundado en 1976 por Daikichirō Kusube, antiguo animador de Toei ✅
+  ([Fandom](https://doraemon.fandom.com/wiki/Shin-Ei_Animation) y
+  Wikipedia). Qué programa usa: **no encontrado** ⚠️. Lo normal en la TV
+  japonesa es RETAS Studio de CELSYS ([Wikipedia](https://en.wikipedia.org/wiki/RETAS)),
+  pero no hay confirmación para Doraemon.
+- **Staff de la serie de 1973** (AniList): director jefe Mitsuo Kaminashi,
+  directores de arte Shōhei Kawamoto y Morishige Suzuki, fotografía
+  Nobuyuki Sugaya, efectos de sonido Yōzō Kataoka y Katsuo Ogawa ✅
+  ([AniList](https://anilist.co/anime/501/staff)).
+- ***Stand by Me Doraemon*** (2014) y ***2*** (2020), en **3DCG**:
+  **Shirogumi**, **Robot Communications** y Shin-Ei; dirección Takashi
+  Yamazaki y Ryūichi Yagi ✅. Software: **Autodesk 3ds Max** (2012 en la
+  primera, 2017 en la segunda) ✅ ([CGWorld](https://cgworld.jp/interview/1408-sbmd.html),
+  [ITmedia](https://www.itmedia.co.jp/pcuser/articles/1408/14/news030.html)).
+  En la segunda, render con **V-Ray** y composición en **Nuke** con color
+  **ACES/OpenColorIO** ✅ ([CGWorld 2021](https://cgworld.jp/feature/202101-cgw269t2dora.html)).
+  Grabaron las voces **antes** de animar, para el movimiento de labios ✅.
+
+### Cómo pensaron el 3D (entrevista de CGWorld al director de arte Makoto Hanabusa y a Yoshitaka Takeuchi) ⚠️ un solo medio, pero oficial
+
+- Probaron un Doraemon «electrodoméstico», con tornillos y azul
+  transparente. **Lo descartaron**: le quitaba calidez.
+- El **azul es «goma del futuro»** (goma y metal, con las huellas de Nobita)
+  y el **blanco, «plástico del futuro»**, lo más suave posible.
+- **La línea entre colores no es geometría**: es un **mapa de
+  desplazamiento en la textura** ([segunda parte](https://cgworld.jp/interview/1408-sbmd-2.html)).
+- El azul **cambia de tono** entre luz y sombra.
+- Los ojos se cierran del todo, con variantes de pupila, hasta «tres rayas».
+- El **Poko** (ポコ), el bultito del labio, tiene variantes «de lado» y «en
+  diagonal»; en Suneo el labio casi es un pico.
+- **Asimetría a propósito** en Gigante. A Gigante se le ven los dientes; a
+  Nobita y Shizuka no.
+- Cada cara se probó en **plano medio y en primer plano** por separado.
+
+### Cómo reproducirlo (guía práctica de la parte de texto: dato del estudio + adaptación)
+
+- **Photoshop (2D, estilo serie)**: pincel de tinta de **grosor fijo** (2-3
+  px a resolución de impresión), sin presión; relleno **plano** en una capa
+  bajo la línea; una sola capa de sombra en *Multiplicar* o ninguna; línea
+  negra en personajes y **gris verdosa `#7C8B7B`** en fondos. Sin trama. Sin
+  grano: el anime de TV no lo lleva marcado ⚠️ (no hay entrevista sobre sus
+  filtros).
+- **Blender (objeto 3D, estilo *Stand by Me*)**:
+  - **Contorno**: exterior con *Freestyle* (o *Solidify* con normales
+    invertidas); **las líneas entre colores, pintadas como textura** sobre
+    el UV, como hizo Shirogumi.
+  - **Sombreado**: *Shader to RGB* + *ColorRamp* de 2-3 escalones, **dos
+    azules** con corte duro y un brillo pequeño.
+  - **Materiales**: azul con *Principled BSDF* algo satinado («goma»);
+    blanco mate («plástico»); nariz y cascabel lisos, con reflejo.
+  - **Render**: **Cycles** + compositor de nodos + **AgX o Filmic** (el
+    equivalente a ACES) para que la luz no se queme.
+- **Encuadre**: presentar y explicar en **plano medio**; emociones fuertes
+  en **primer plano**. En la serie, cámara a la altura de un niño.
+- **Modelos libres**: Doraemon CC BY de Andy (Pandabox) y el cuarto de
+  Nobita CC BY (§4.1). **Rigs**: no encontrados ⚠️.
+
+## Punto 19 · Texturas 2D
+
+- **Trama del manga**: prácticamente **ninguna** ✅ (visto en
+  «Gian manga.jpg»). No hace falta pincel de trama.
+- **Papel**: el color de fondo de las cartelas y del manga es blanco limpio;
+  para el catálogo o el sobre de pedido, papel de ambientCG o Poly Haven
+  (CC0, §5.3).
+- **Tatami**: [Poly Haven · tatami_mat](https://polyhaven.com/a/tatami_mat) y
+  [ambientCG · Tatami005](https://ambientcg.com/view?id=Tatami005), CC0 ✅.
+- **Patrones de ropa**: **ninguno** de los cinco lleva estampado; todo liso
+  ✅. El único patrón es la **flor de la cola de Dorami**, sin ver en imagen ⚠️.
+- **Emblemas**: la **«G»** del equipo de béisbol de Gigante, letra de bloque
+  sobre gorra blanca (hoja `objetos_01.jpg`, n.º 62) ✅; las **rayas rojas
+  cruzadas** del bolsillo de Dorami ✅.
+- **Fondo de rayos del invento**: rayos azules con destellos (n.º 58) o
+  morados (n.º 74). Se hace en Photoshop con un degradado radial y
+  *Filtro › Distorsionar › Coordenadas polares* sobre rayas ⚠️ (técnica
+  propuesta, no del estudio).
+- **Pinceles libres**: no se buscaron en esta pasada ⚠️. Con un pincel
+  redondo duro de Photoshop basta, porque la línea es de grosor fijo.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+| Personaje | Cumpleaños | Altura y peso | Le gusta | Odia o teme | Objeto que siempre lleva |
+|---|---|---|---|---|---|
+| **Doraemon** | **3-sep-2112** ✅ | **129,3 cm / 129,3 kg** ✅ | dorayaki ⚠️ (AniList) | **ratones** ✅; médicos (la cirugía de orejas salió mal) ✅ | bolsillo mágico, cascabel ✅ |
+| **Nobita** | **7-ago** ✅ (manga, 1972) | sin ficha oficial ⚠️ | dormir (0,93 s), ayatori, puntería ✅ | los estudios, que le molesten ✅ | honda o tirachinas ⚠️; gafas ✅ |
+| **Shizuka** | **mayo** ✅ (sólo el mes) | sin ficha oficial ⚠️ | **boniatos** asados, violín, bañarse ✅ | el piano (lo toca bien) ✅ | muñecas ✅ |
+| **Gigante** | **15-jun** ✅ (manga, 1980) | el más alto, sin ficha oficial ⚠️ | cantar (mal), béisbol ✅ | — | micrófono; bate y gorra «G» ✅ |
+| **Suneo** | **febrero** ✅ (sólo el mes) | **el más bajo de la clase**, su complejo ✅ | presumir, juguetes caros, dibujar y diseñar ✅ | quedar por debajo | cámara, juguetes ✅ |
+| **Dorami** | **2-dic-2114** ✅ | **100 cm / 91 kg** ✅ | **pan de melón** ✅ | — | bolsillo de rayas, máquina tulipán ✅ |
+
+- **Cómo se ven a sí mismos**: Suneo se mira al espejo y se dice guapo ✅;
+  Gigante se cree un gran cantante ✅; Nobita se sabe torpe ✅ (AniList).
+- **Sueños**: Shizuka quiere ser **enfermera o azafata** ✅ (Fandom).
+- Fuentes: [nokikero](https://nokikero.com/dora-character-birthday/)
+  (cumpleaños con la revista y número de cada uno), AniList y Fandom, y lo ya
+  citado en §8. Las alturas de los niños **no tienen ficha oficial única**:
+  las webs de fans se contradicen
+  ([Scratchpad Wiki](https://scratchpad.fandom.com/wiki/Heights_of_the_Doraemon_Characters)) ⚠️.
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+**Razones** ✅ (análisis japoneses e internacionales):
+- **Doraemon no consiente demasiado ni abandona** a Nobita: un equilibrio
+  raro en la ficción infantil ([tamatebox](https://tamatebox.net/doraemon/),
+  [ampmedia](https://ampmedia.jp/2020/07/23/doraemon/)).
+- **El público se identifica con Nobita**, el torpe normal, no con un genio
+  (Medium «Why is Doraemon Popular» y tamatebox).
+- **Ritual de familia**: padres e hijos la ven juntos desde hace 50 años
+  ([Japan Times](https://www.japantimes.co.jp/culture/2020/02/01/general/doraemon-50th-anniversary/)).
+- **Mensajes que no envejecen**: ecología, familia, empatía, perseguir
+  sueños.
+- **Cifras**: manga de **250 a 300 millones** de copias según la fuente ⚠️;
+  más de **40 películas**; emitida en **más de 35 países** ✅; **primer
+  embajador anime** de Japón (2008) ✅; elegido por *TIME* en **2012** entre
+  **22 héroes asiáticos**, el único personaje de anime ✅; **residencia
+  oficial en Kawasaki** el 3-sep-2012 ✅ (Fandom).
+
+**La escena que hace llorar**: ***Stand by Me Doraemon*** (2014).
+- **01:08:32 → 01:09:02**: el **padre de Shizuka**, la noche antes de la
+  boda: «Nobita sabe desear la felicidad de los demás y sufrir con su
+  desgracia… tu futuro será brillante» ✅ (subtítulo). Duele porque es un
+  padre soltando a su hija y porque por fin alguien ve a Nobita por lo que
+  es.
+- **00:57:40 → 00:57:53**: los **dos Nobitas** se dan las gracias ✅.
+- **La despedida** de Doraemon y Nobita: lo que más citan las reseñas es que
+  **nunca se dicen en voz alta cuánto se necesitan**, y por eso golpea
+  ✅ ([eiga.com](https://eiga.com/movie/79515/review/)). Minuto, sin ver ⚠️.
+- **Reacción**: el **88,4 %** del público **lloró** (encuesta a la salida)
+  ✅ ([ARAMA! JAPAN](https://aramajapan.com/news/tvmovie/movies/88-4-of-stand-by-me-doraemon-moviegoers-cried-during-the-film/6358/)
+  y eiga.com); la votación **«Dora-naki»** de
+  [Cinematoday](https://www.cinematoday.jp/page/A0004197) ✅; **2.ª
+  animación más taquillera de Japón en 2014**, 183,4 millones de dólares,
+  sólo detrás de *Frozen* ✅ ([Variety](https://variety.com/2015/film/festivals/film-review-stand-by-me-doraemon-1201352301)).
+- Cómo está dibujada: 3D con **luz de noche de un solo rayo de ventana**
+  en el cuarto (tráiler [1:00](https://www.dailymotion.com/video/x33a56v?t=60),
+  brillo 13%) ✅. La escena del padre, sin fotograma ⚠️.
+- **Otra que duele**: *Adiós, Doraemon…* (1973 y repetida después):
+  Doraemon vuelve al futuro y Nobita decide seguir solo ✅
+  ([Doraenciclopedia](https://doraemon.fandom.com/es/wiki/Adi%C3%B3s%2C_Doraemon...)).
+  Sin clip latino con minuto ⚠️.
+- **Las que hacen reír**: el recital de Gigante ✅ y el Doraemon que huye de
+  un ratón ✅. Reddit: «Esta tiene que ser una de las mejores entradas de
+  Doraemon» (143 votos) ⚠️ ([hilo](https://www.reddit.com/r/Doraemon/comments/1fkivd1/this_got_to_be_one_of_doraemons_best_entrances/)).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Buscado con `yt-dlp ytsearch` (título, canal y vistas sin iniciar sesión;
+vistas del 24-sep-2026) ✅:
+
+| Qué | Canal | Vistas | Enlace |
+|---|---|---|---|
+| Parodia «Doraemon tapa del Pluto» | **Dobla2** (canal argentino de parodias de doblaje) | **394 565** | [YouTube](https://www.youtube.com/watch?v=D_hkGW0fZ_k) |
+| Ending de *El gato cósmico* con Maggie Vera | DobleHDMedia | 178 732 | [YouTube](https://www.youtube.com/watch?v=lLZX4c8wOBQ) |
+| Cortometraje parodia | ParodiAnime (das95balas) | 80 009 | [YouTube](https://www.youtube.com/watch?v=OqQ9XaTgkrs) |
+| Cover de *Stand by Me Doraemon* en latino | Unkos Channel | 76 990 | [YouTube](https://www.youtube.com/watch?v=mn1G54SY7Bo) |
+| Cover de «Doraemon no Uta» (1979) en latino | Lissette Chan | 46 460 | [YouTube](https://www.youtube.com/watch?v=SMJkerRUG2g) |
+| Fandub de «Himawari no Yakusoku» | SINAY PAOHLA | 20 756 | [YouTube](https://www.youtube.com/watch?v=wUurnNVqJZc) |
+| Ending «Nuestro Planeta» en latino | Doraemon Latino | 18 584 | [YouTube](https://www.youtube.com/watch?v=eljPM34kWmE) |
+| Cover de «Yume wo Kanaete Doraemon» | Lissette Chan | 7228 | [YouTube](https://www.youtube.com/watch?v=LxnVt7tYnio) |
+| «Doraemon el cirujano», parodia | Norita | 734 ⚠️ canal pequeño | [YouTube](https://www.youtube.com/watch?v=csvegcKHCIw) |
+
+> Ojo: la parte de voz da el 1979 y el 2005 de Lissette Chan con los
+> enlaces al revés en `voz.json`; se citan aquí los dos sin asegurar cuál es
+> cuál ⚠️.
+
+- **Todas las voces latinas de Doraemon** en un TikTok:
+  [@sengek56](https://www.tiktok.com/@sengek56/video/7500317759486561542)
+  ⚠️ (vistas sin medir: TikTok no se puede buscar desde aquí).
+- **Otras lenguas cercanas**: *Doraemon, o gato cósmico* en gallego
+  ([Internet Archive](https://archive.org/details/doraemon-galego_202208)) y
+  openings en catalán (TVC, TVV) en Dailymotion ✅.
+- **No encontrado** ⚠️: un canal de *fandub* que doble capítulos enteros;
+  sólo hay covers y parodias sueltas.
+- **Para el servidor**: Dobla2 es el ejemplo perfecto de parodia de doblaje;
+  y la historia de **Irwin Daayán (Suneo → Doraemon)** y de **Laura Torres**
+  (dejó a Nobita por la garganta y volvió en 2014) son anécdotas del gremio.
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+| Colaboración | Cuándo | Qué trae | Fuente |
+|---|---|---|---|
+| **UNIQLO UT × Museo del Louvre** | abril de 2025 | Doraemon **metido en cuadros del Louvre** (p. ej. de espaldas mirando el globo en *El astrónomo* de Vermeer); banner **1200×628**, productos 2000×2000 | [doraemon-world](https://www.doraemon-world.com/uniqlo-lanza-una-coleccion-de-doraemon-y-el-louvre/), [imagen](https://www.doraemon-world.com/wp-content/uploads/2025/04/25SS-Doraemon_Louvre_1200x628.jpg) ✅ |
+| **New Era** | enero de 2026 | gorras y ropa con dibujo a mano alzada, paneles de cómic y grafiti, siluetas de Nobita, Shizuka y Dorami | [Hypebeast](https://hypebeast.com/2026/1/doraemon-new-era-original-colleciton-caps-t-shirts-apparel-collaboration-collection-release-info) ✅ |
+| **Converse** | julio de 2026 | zapatillas y ropa; **también en México** | [El Sol de Cuautla](https://oem.com.mx/elsoldecuautla/tendencias/llega-la-coleccion-converse-y-doraemon-fecha-de-lanzamiento-precios-y-detalles-24681680) ✅ |
+| ***Granblue Fantasy*** (gacha) | diciembre de 2021 | evento «Nobita's Flying Ship»; Doraemon y Nobita jugables | [Siliconera](https://www.siliconera.com/granblue-fantasy-reveals-doraemon-collab-characters/), [GamerBraves](https://www.gamerbraves.com/granblue-fantasy-announces-doraemon-collab-for-december/) ✅; el arte, sin ver (Cloudflare) ⚠️ |
+| **Toyota «ReBorn»** | 2011 | los personajes 20 años mayores; **Jean Reno** hace de Doraemon en imagen real | Fandom ⚠️ (una fuente) |
+| **Doraemon F's Kitchen** (café oficial) | 7-nov a 31-dic-2025 | «Dorami Birthday Fair», menú por el cumpleaños de Dorami | [haveagood-holiday](https://www.haveagood-holiday.com/en/articles/doraemon-fs-kitchen-dorami-birthday-fair-2025) ✅ |
+| Gashapon «Doraemon Light Mascot» | septiembre de 2026 | cápsulas con luz | [collabo-cafe](https://collabo-cafe.com/en/events/collabo/doraemon-light-mascot-gashapon-2026/) ✅ |
+
+- **Fortnite**: **no hay colaboración oficial**; sólo fans pidiéndola
+  (2025). Es un «busqué y no hay», no un «no busqué».
+- **Figuras oficiales**: la **Figuarts ZERO del cuarto de Nobita**, con el
+  **cajón que se abre y el túnel del tiempo dentro** ✅
+  ([Dengeki Hobby](https://hobby.dengeki.com/news/953237/)). Es la mejor
+  referencia 3D del cajón abierto.
+- **Tienda oficial**: «Doraemon Mirai Department Store» en DiverCity Tokyo
+  (§3.4) ✅.
+- **Cosplay**: no apareció uno bien hecho, con materiales dignos de citar;
+  sólo disfraces de tienda ⚠️. Un robot sin rasgos humanos se hace más como
+  botarga que como cosplay.
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+- **Del mismo autor y del mismo estudio (Shin-Ei)** ✅
+  ([Fandom · Shin-Ei](https://doraemon.fandom.com/wiki/Shin-Ei_Animation)):
+  ***Perman*** (un niño con aparatos de un extraterrestre, héroe a ratos),
+  ***Kiteretsu Daihyakka*** (1988-1996; el niño **inventa** sus propios
+  aparatos, al revés que Nobita), ***Chinpui***, ***21-Emon***, ***Obake no
+  Q-Taro***.
+- **Del mismo estudio, otro autor**: ***Crayon Shin-chan***, humor familiar
+  de barrio ✅. Es además la obra que más recomiendan los usuarios de
+  AniList a quien le gusta Doraemon (15 votos); después *Ninja Hattori-kun*
+  (4) y *Takopi's Original Sin* (2) ✅ ([AniList](https://anilist.co/anime/501)).
+- **Influencias de Fujiko F. Fujio**: **Osamu Tezuka**. Leyó *Shin
+  Takarajima* (1947) y le marcó «como ver una película»; en 1954 se mudó a
+  Tokio para estar cerca de él y ayudó a terminar páginas de *Kimba, el león
+  blanco* ✅ ([Toons Mag](https://www.toonsmag.com/fujiko-fujio/) y Fandom).
+  Los cómics y dibujos animados de EE. UU., Hanna-Barbera incluido ⚠️ (una
+  fuente).
+- **Láminas del servidor que se le parecen** (para no repetir ideas):
+  - **Big Hero 6 / Grandes Héroes** (encargo 08): robot amigo que ayuda a un
+    chico. **Diferenciar**: aquí el protagonista es el **bolsillo/catálogo**,
+    no el robot.
+  - **Pokémon** (encargo 07): cuidado con repetir un «catálogo para elegir»
+    (la Pokédex). **Diferenciar**: aquí es una tienda con pedido y sobre.
+  - **Mafalda** (encargo 09): humor de niños y barrio; formato de tira.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ (Fandom):
+1. Doraemon es un robot gato **MS-903** de la fábrica Matsushiba, del año
+   2112.
+2. Lo manda **Sewashi**, descendiente de Nobita, para que la familia Nobi no
+   acabe arruinada.
+3. Todo sale del **bolsillo de cuatro dimensiones**: sin límite de tamaño ni
+   peso.
+4. Los **inventos** (ひみつ道具, *himitsu dōgu*) se piden por catálogo a los
+   **Grandes Almacenes del Futuro** (未来デパート).
+5. El futuro cambia según lo que Nobita hace hoy; hay una **Patrulla del
+   Tiempo** que vigila.
+
+**Por qué es azul** ✅: era **amarillo** y tenía orejas; un **ratón robot**
+se las comió, lloró tanto que **las lágrimas le lavaron la pintura** y quedó
+azul. Por eso teme a los ratones.
+
+**La historia por etapas** ✅ (Fandom):
+- **Manga**: de **diciembre de 1969 a 1996**, en seis revistas de
+  Shogakukan; 45 tomos *Tentōmushi*. *CoroCoro Comic* nace en 1977 como su
+  revista insignia.
+- **Anime**: **1973** (corto, poco éxito); **1979-2005** (1787 episodios,
+  voz de Nobuyo Ōyama); **2005-hoy** (rediseño, voz de Wasabi Mizuta).
+- **Películas**: **una al año desde 1980** (Toho), más aventureras, con
+  temas de ecología y tecnología; algunas sobre mitos (Atlántida, *Viaje al
+  Oeste*, *Las mil y una noches*). En 2013, con *El museo de los artilugios
+  secretos*, **superó a Godzilla** en entradas acumuladas (100 millones
+  contra 99).
+- **Momentos clave**: 2008 embajador anime; 2011 abre el **Museo Fujiko F.
+  Fujio** en Kawasaki; 2012 *TIME* y la residencia en Kawasaki; 2014 *Stand
+  by Me*; 2020, 50.º aniversario; 2026, película 45.
+  > La ficha de Fandom fecha el nombramiento de embajador en 2008 y en otra
+  > frase habla de 2012 ⚠️. El comunicado oficial del ministerio es de
+  > **marzo de 2008** ✅.
+
+**Símbolos y vocabulario** ✅ (fichas de Fandom):
+
+| Símbolo | Japonés | Cómo es |
+|---|---|---|
+| **Puerta a cualquier lugar** | どこでもドア | puerta **rosa**, color de ficha `#F17BAF`; lleva a donde pienses |
+| **Takecopter** | タケコプター | hélice **amarilla** en la cabeza, color de ficha `#FFC107`; en inglés *The Hopter* |
+| **Linterna pequeña** y grande | スモールライト | linterna verde con base naranja y amarilla que encoge (la grande agranda) |
+| **Cabina «¿Y si…?»** | もしもボックス | cabina de teléfono que cumple un «qué pasaría si…» |
+| **Bolsillo 4D** | 四次元ポケット | media luna blanca; el de Dorami, con rayas rojas cruzadas |
+| **Cascabel** | 鈴 | amarillo, en collar rojo; símbolo de su identidad (película 2013) |
+| **Máquina del tiempo** | タイムマシン | plataforma plana con mandos (hoja `objetos_01.jpg`, n.º 73); se entra por el cajón del escritorio |
+| **Logo** | ドラえもん | desde 2005, sólo la palabra, sin adorno; el de **Fujiko Pro** en todo lo oficial |
+
 ## 19 · Tres conceptos para la lámina de #recursos
 
 Los tres usan **un objeto real en un sitio real** de la serie, y el texto va
-**en el objeto**, no en una burbuja.
+**en el objeto**, no en una burbuja. **Segunda pasada**: los conceptos no
+cambian de idea, pero ya llevan **fondos oficiales medidos, poses vistas con
+minuto, hex medidos y números de hoja**; y el «fondo de colores» del invento
+ya se vio (rayos con destellos, hoja `objetos_01.jpg` n.º 58).
 
 ### Concepto A — «El catálogo de la tienda del futuro» (el recomendado)
 
@@ -1651,19 +1939,28 @@ donde cada cosa tiene su ficha, su precio (Gratis / De pago) y sus reglas.
   pedido**. Todo en **Blender**: escritorio, cajón, catálogo con páginas
   curvadas, sobre de papel, tatami CC0
   ([Poly Haven](https://polyhaven.com/a/tatami_mat)).
-- **Referencias**: el fondo oficial del **cuarto de Nobita**
-  ([dora-world 1399](https://dora-world.com/contents/1399)); medidas del
-  cuarto en [Sketchfab](https://sketchfab.com/3d-models/nobitas-roomdoraemon-3d-model-7ac2289be8be408292b29a06f8f40a71);
-  el cajón abierto de la [figura oficial](https://hobby.dengeki.com/news/953237/).
+- **Referencias**: el fondo oficial del **cuarto de Nobita, lado del
+  escritorio** (hoja `fondos_01.jpg` n.º 1,
+  [Wallpaper04, 1280×894](https://www.dropbox.com/s/vnho086qmwv4y0v/Wallpaper04.jpg?dl=1)),
+  con su paleta medida `#C1DBAA`, `#D3B177`, `#E7EBE6` (§5.2); medidas del
+  cuarto en [Sketchfab, CC BY de Cre8t!ve V!be](https://sketchfab.com/3d-models/none-7ac2289be8be408292b29a06f8f40a71);
+  el cajón abierto de la [figura oficial](https://hobby.dengeki.com/news/953237/);
+  el túnel del cajón en la hoja `objetos_01.jpg` n.º 73.
 - **Personaje**: **Doraemon**, de pie junto al escritorio, **una mano
   dentro del bolsillo y la otra levantando un invento** (pose 2 de §15,
-  *Stand by Me* 00:11:31, o la 3, serie 2006-11-10 · 00:16:23).
-  Detrás, pequeño, **Nobita** asomado al catálogo (pose de «pedir»).
+  *Stand by Me* 00:11:31, o la 3, serie 2006-11-10 · 00:16:23). Pose
+  **vista** para el cuerpo: los brazos abiertos de «El Pueblo de Nobita»
+  [0:30](https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30);
+  color del retrato oficial 2005 (azul `#1D99C8`, rojo `#E02333`, cascabel
+  `#FCDC2A`) y el **Poko** en la boca. Detrás, pequeño, **Nobita** asomado
+  al catálogo (pose de «pedir»; camiseta `#FDD23C`).
 - **Cómo habla**: el **anuncio del invento**, con corchetes japoneses y
   ¡!, grande, en **Fredoka**: «**｢Recursos｣！**». Debajo, su frase: «**¡Chan!
   Aquí cabe de todo.**» (de *Stand by Me* 00:06:18). **Sin globo**: la frase
-  va sobre el **fondo de colores y motivos** del momento del invento, recortado en
-  círculo detrás de él ⚠️ (comprobar el diseño real, §7.1).
+  va sobre el **fondo de rayos azules con destellos** del momento del
+  invento, recortado en círculo detrás de él, con la letra roja `#E02333`
+  y borde blanco de la cartela (hoja `objetos_01.jpg` n.º 58) ✅. Si es el
+  fondo de antes o de después de 2024, sin saber ⚠️.
 - **Dónde va cada texto**:
   - **Portada del catálogo**: «Recursos» + «Lo que le sirve a los demás».
   - **Página abierta, lista con dibujitos**, una línea por cosa y con su
@@ -1672,6 +1969,9 @@ donde cada cosa tiene su ficha, su precio (Gratis / De pago) y sus reglas.
   - **Recuadro de «condiciones de pedido»** en la página: «Un hilo por
     recurso» y «**Nada pirata. Ni cracks.**» (con un sello rojo, como el de
     un producto prohibido).
+  - Guiño para un servidor de voz: en la página, el invento de muestra es
+    el **caramelo «Voice Thickener» (コエカタマリン)**, con su cartela
+    (hoja `objetos_01.jpg` n.º 85).
   - **Sobre del pedido**, escrito a mano en **Klee One**: «Lee el hilo
     fijado antes de colgar».
 - **Cómo no queda plano**: tres luces (**ventana cálida** de lado, **brillo
@@ -1694,8 +1994,10 @@ del primer modelo al último**, cada uno en su vitrina con su placa, y un
 - **Objeto y sitio**: **tres vitrinas de cristal** en la sala del museo
   del siglo XXII, luminosa y blanca. Cada vitrina tiene **una placa de
   latón**. En Blender: vitrinas, pedestales, placas con el texto grabado.
-- **Referencias**: la película (00:09:37 a 00:18:28, §2.2). ⚠️ No vi
-  imágenes de la sala: hay que sacar capturas de la película.
+- **Referencias**: la película (00:09:37 a 00:18:28, §2.2). ⚠️ Tampoco en
+  la segunda pasada se vio la sala: hay que sacar capturas de la película.
+  La ficha de la película en [Fandom](https://doraemon.fandom.com/wiki/Doraemon:_Nobita%27s_Secret_Gadget_Museum)
+  da el equipo (dir. Yukiyo Teramoto, arte Makoto Dobashi).
 - **Personaje**: **Doraemon** de guía, **señalando** una vitrina (pose 4
   de §15, «explicar»). Opcional: **Dorami** al lado, con un folleto.
 - **Cómo habla**: su frase va en la **placa de bienvenida** de la entrada,
@@ -1722,20 +2024,25 @@ cosas, en el sitio más reconocible del barrio: **el descampado de las tres
 tuberías**, donde **Gigante da sus recitales** ✅. Y Gigante, para cantar,
 **necesita una pista sin voz**: el chiste se explica solo.
 
-- **Objeto y sitio**: **las tres tuberías de cemento** del descampado, al
-  atardecer. Sobre la tubería de arriba, **cajas de cartón abiertas** (una
+- **Objeto y sitio**: **las tres tuberías de cemento** del descampado, **de
+  noche con focos de recital** (visto en [0:20](https://www.dailymotion.com/video/x3402n2?t=20):
+  cielo `#395A81`, foco `#CA5E41`) o de día (fondo oficial, cielo `#67C3EE`).
+  El atardecer no se midió ⚠️. Sobre la tubería de arriba, **cajas de cartón abiertas** (una
   por tipo de recurso) donde van cayendo los inventos. Un **cartel de madera
   clavado** en una tubería con las reglas. En Blender: tuberías, cajas,
   cartel, hierba.
-- **Referencias**: el fondo oficial del **descampado**
-  ([dora-world 1399](https://dora-world.com/contents/1399)); fotos reales de
+- **Referencias**: el fondo oficial del **descampado** (hoja
+  `fondos_01.jpg` n.º 3, [Wallpaper03, 1280×894](https://www.dropbox.com/s/uk3juifiwls5geh/Wallpaper03.jpg?dl=1)); fotos reales de
   la **Harappa** del museo Fujiko, con tuberías de verdad
   ([camera10.me](https://camera10.me/blog/photospot/fujiko-museum),
   [web del museo](https://fujiko-museum.com/hiroba.html)).
 - **Personajes**: **Doraemon** sentado en la tubería, **sacando cosas del
   bolsillo** a manos llenas (la ráfaga de la serie, 2005-04-15 · 00:23:56).
-  A un lado, **Gigante** con su micrófono (pose 1, «bienvenidos a mi
-  recital»), señalando la caja «Pista sin voz».
+  A un lado, **Gigante** con su micrófono, **brazo extendido al público,
+  ojos cerrados, capa roja** (pose **vista** en el recital,
+  [0:20](https://www.dailymotion.com/video/x3402n2?t=20)), o con su
+  **guitarra** (hoja `personajes_01.jpg` n.º 17), junto a la caja «Pista sin
+  voz». Camiseta `#F08E39` si va de diario.
 - **Cómo habla**: Doraemon **canta el nombre de cada cosa** que saca, con
   los corchetes de la serie, en letras que salen del bolsillo hacia las
   cajas: «｢Programas｣！» «｢Plantillas｣！» «｢Pistas sin voz｣！». Letra
@@ -1746,9 +2053,10 @@ tuberías**, donde **Gigante da sus recitales** ✅. Y Gigante, para cantar,
   - **Las cajas**: una palabra cada una.
   - **Cartel clavado** (pintura a mano, **Klee One**): «Un hilo por
     recurso», «Nada pirata. Ni cracks.», «Lee el hilo fijado».
-- **Cómo no queda plano**: **sol bajo** de atardecer que alarga las
-  sombras de las tuberías; **hierba alta desenfocada** delante; los
-  objetos en el aire con desenfoque de movimiento.
+- **Cómo no queda plano**: de noche, **focos de colores** del recital desde
+  atrás y confeti delante (como en el clip); de día, sol lateral que
+  alarga las sombras de las tuberías; **hierba alta desenfocada** delante;
+  los objetos en el aire con desenfoque de movimiento.
 - **Riesgo**: es la más cargada; las cajas tienen que ser pocas (cinco) y
   grandes.
 
@@ -1758,34 +2066,48 @@ tuberías**, donde **Gigante da sus recitales** ✅. Y Gigante, para cantar,
 recibir gratis** en la tienda del futuro), tiene el fondo oficial del
 cuarto, se hace entera en Blender, y da una **lámina 2 natural** (el índice
 con 15 pestañas). **C** es la alternativa más alegre y más reconocible para
-el público latino. **B** es la más original, pero la película es la menos
-conocida en Latinoamérica.
+el público latino, y la que mejor usa lo **visto** en la segunda pasada
+(el recital de Gigante). **B** es la más original, pero la película es la
+menos conocida en Latinoamérica.
 
 ---
 
-## 20 · Lo que no pude verificar
+## 20 · Lo que no pude verificar (tras la segunda pasada)
 
-- **Ninguna imagen vista.** Fandom, Pixiv, dora-world, Sketchfab (su API),
-  Interface In Game, YouTube: todo bloqueado. Tamaños y calidad, sin saber.
+**Resuelto en la segunda pasada** (antes estaba en esta lista): imágenes
+vistas (3 hojas), licencias de Sketchfab (API), voz latina de Dorami,
+Dekisugi y todo el reparto de 2005, frases latinas textuales (3 con minuto),
+hex de ropa y tatami (medidos), fondo del invento (visto en cartelas).
+
+**Sigue sin verificar** ⚠️:
 - **El final de la descripción del canal** («ni cracks ni prog…»): cortado
   en el inventario.
 - **Qué significa «Verificado»** en el foro, y quién lo pone.
-- **El diseño exacto del fondo** del momento de sacar un invento (y su
-  cambio de enero de 2024).
-- **Frases del doblaje latino** línea por línea: ninguna fuente fiable.
-- **Voz latina de Dorami**, Dekisugi y del resto del reparto de la serie de
-  2005 (fuera de Doraemon y Nobita).
-- **Doblaje latino de la película del museo (2013)**: sólo encontré el de
-  España y una «propuesta de doblaje» de fans en Doblaje Wiki, lo que hace
-  pensar que **no existe** el latino.
-- **Licencias exactas** de los modelos de Sketchfab.
+- **Cuál es el fondo del invento de antes y cuál el de después de enero de
+  2024** (sólo un post de X).
+- **El sonido del invento en la serie de 2005**: «pua-pua… ¡te-tte-rē!» o
+  «¡bikān!» (§7.1).
+- **Quién dice** dos de las tres frases latinas (Whisper no separa voces),
+  y las frases latinas más famosas («¡Doraemon, haz algo!», «qué remedio»)
+  con minuto.
+- **Doblaje latino de la película del museo (2013)**: sólo el de España y
+  una «propuesta de doblaje» de fans en Doblaje Wiki; **no lo encontré**.
+- **Actores del doblaje cubano de 1985** (sólo el estudio, ICAIC).
+- **Quién canta el opening latino antiguo** («Doraemon, el gato cósmico…
+  Ojalá mi sueño se…»).
 - **Título del episodio** de cada fecha de emisión de §2.3 (el subtítulo
   no lo trae).
-- Los **hex de la ropa** y del tatami (míos, a ojo).
+- **Caras**: la rabia de Doraemon; la tristeza de Doraemon, Shizuka,
+  Gigante y Suneo; la vergüenza de todos, con minuto.
+- **Poses vistas** de Shizuka, Suneo y Dorami solos.
+- **Hex de Dorami** (no se midió).
+- **Software 2D de Shin-Ei** y filtros de cámara del anime de TV.
+- **Alturas oficiales** de los niños (no hay ficha única).
+- *Key visuals* de la serie de TV y portadas de Blu-ray; el arte de
+  *Granblue Fantasy*; un cosplay bien hecho.
 - «Lo tuyo es mío y lo mío es mío» de Gigante: no salió en los subtítulos
-  de 2005-2006 que revisé.
-
----
+  de 2005-2006 revisados.
+- **Vistas de TikTok** de los *fandubs*.
 
 ## 21 · Bitácora de búsqueda
 
