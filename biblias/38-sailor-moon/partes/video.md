@@ -258,6 +258,21 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
 3. **De perfil, ojos cerrados, cara tranquila** en la última pose de la
    transformación antes de abrir los ojos — sirve para **pensar/calmarse**. · ep. 1,
    min. 15:56 (hoja `ep01/hojas/hoja_06.jpg`, fotograma 258) · ✅.
+4. **Primer plano gritando, boca muy abierta, ojos llorosos**, coletas con los
+   odangos rojos encuadrando la cara — sirve para **suplicar/lamentar** (le grita a
+   Kunzite que pare). · ep. 39 (DiC dub), min. **3:43** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=223)
+   · ✅ (fotograma propio, `fotograma_00223.jpg`).
+5. **Como Princesa Serenity, primer plano de perfil, mirada calmada mirando hacia un
+   lado**, manos fuera de plano, expresión pensativa — sirve para **pensar/recordar**
+   (recordando el Reino de la Luna). · ep. 39, min. **6:41** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=401)
+   · ✅ (fotograma propio, `fotograma_00401.jpg`).
+6. **Cuerpo entero, en pleno salto, trazando un arco de luz dorada con el Cutie Moon
+   Rod, una pierna adelantada** — sirve para **el clímax/purificar** (ataque final
+   contra Kunzite). · ep. 39, min. **19:10** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=1150)
+   · ✅ (fotograma propio, `fotograma_01150.jpg`).
 
 #### Ami Mizuno / Sailor Mercury
 
@@ -273,6 +288,22 @@ ataque de cada una (también mirados). Cito siempre hoja/imagen y minuto.
    señalando una página, sonrisa tímida — sirve para **explicar/estudiar**. · [wiki,
    `Ami_Mizuno_-_Anime.png`](https://static.wikia.nocookie.net/sailormoon/images/6/6a/Ami_Mizuno_-_Anime.png)
    296×981 (medida) · ✅.
+4. **Cuerpo entero, brazos abiertos a los lados, ojos cerrados**, rodeada de un
+   círculo de pétalos de luz verde — invocando el Shine Aqua Illusion — sirve para
+   **pensar/concentrarse antes de atacar**. · ep. 39 (DiC dub), min. **9:14** ·
+   [archive.org, fotograma propio](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=554)
+   · ✅ (fotograma propio, `fotograma_00554.jpg`).
+5. **Primer plano, brazos cruzados en X frente al pecho, mirada decidida**, mismo
+   ataque un segundo después — sirve para **invocar/rematar el ataque**. · ep. 39,
+   min. **9:16** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=556)
+   · ✅ (fotograma propio, `fotograma_00556.jpg`).
+6. **De civil, junto a Rei y Makoto, manos juntas cerca del pecho, mirada de
+   alarma** — sirve para **alertar/reaccionar en grupo** (justo antes de que Kunzite
+   ataque). · ep. 39, min. **2:34** ·
+   [archive.org](https://archive.org/download/Sailor-Moon-Dic-Dub-English-DVD-H264/%5BSMC%5D%20Sailor%20Moon%2039%20-%20English%20Dub%20%28DVD.H264.AC3%29%20%5B1ECC02C4%5D.ia.mp4?t=154)
+   · ✅ (fotograma propio, `fotograma_00154.jpg`; comparte plano con Rei y Makoto,
+   descrito también en sus propias listas).
 
 #### Rei Hino / Sailor Mars
 
