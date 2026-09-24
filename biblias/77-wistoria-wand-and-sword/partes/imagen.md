@@ -133,3 +133,37 @@ repiten esas consultas) y de las hojas de `investigar_serie.py`.
 - **Cosplay**: no se encontró un concurso oficial de cosplay del estudio (búsqueda «Wistoria cosplay official contest» sin resultado propio); sí hay costureras/tiendas comerciales replicando el uniforme de Will (capa negra con ribete dorado) — ver `ezcosplay.com` y `cosplayclass.com` — y cosplay de fans sueltos en Instagram/TikTok (p. ej. de Finn) sin datos de materiales verificables · ⚠️ («no lo encontré» un cosplay documentado con materiales reales; lo que hay son tiendas de venta de disfraces, no referencia de «cosplay bien hecho»)
 - **Figuras**: no se encontró todavía una figura estática (PVC/resina) de gran escala anunciada (sólo acrílicos planos); búsqueda «Wistoria Wand and Sword figure PVC scale» sin resultado de una figura 3D oficial · ⚠️ («no lo encontré»: es un anime de 2024-2026, las figuras 3D suelen tardar más que los acrílicos en licenciarse)
 - No se encontró colaboración con marcas grandes (Fortnite, gachas, cafés físicos con local) más allá de lo listado arriba: búsquedas «Wistoria Fortnite», «Wistoria gacha collab», «ウィストリア コラボ カフェ» sin resultado adicional confirmado
+
+## Lo mejor para la lámina
+
+- El uniforme de Regarden (capa negra + ribete dorado + corbata de bolo) es el vestuario que MÁS se repite en todo el material oficial: es la ropa «segura» para cualquier personaje en la lámina.
+- La Mercedes Caulis (torre blanca y estrecha con punta luminosa, `hojas/fondos_01.jpg` nº5-6) es el objeto-lugar perfecto para el foco «academia y torres» del encargo: se puede tallar en Blender como una torre a lo lejos tras una ventana.
+- Will con Kiki (el familiar gato negro) sobre el hombro, caminando con el grupo hacia la torre (`hojas/objetos_01.jpg` nº4) es la pose de grupo más «viva» encontrada: sirve de referencia directa para una lámina con varios personajes.
+- El pelo real de Will en el anime es cian/verde agua, no negro: hay que usar el arte a color oficial (`character_1_main.png`, macarons, funda de cartas), no sólo el texto de la wiki en inglés.
+- Los emblemas de facción (`hojas/objetos_01.jpg` nº1-2) dan un vocabulario gráfico gótico-tribal listo para bordes, marcos o sellos de cuadros de diálogo con temática mágica.
+
+## No encontré ⚠️ (extras, no obligatorios)
+
+- Figura estática (PVC/resina) oficial de gran escala: búsquedas «Wistoria Wand and Sword figure PVC scale», «ウィストリア フィギュア PVC» — sólo acrílicos y standees, ninguna figura 3D de bazar anunciada todavía.
+- Cosplay «bien hecho» documentado con materiales y volumen reales: búsquedas «Wistoria cosplay official contest», «Wistoria wand and sword cosplay reddit» — sólo tiendas de disfraces comerciales y publicaciones sueltas de Instagram/TikTok sin detalle de materiales.
+- Colaboración con marcas grandes tipo Fortnite o un juego gacha: búsquedas «Wistoria Fortnite», «Wistoria gacha collab» — nada encontrado; el único crossover confirmado es con Magical Sisters Lulutto Lilly (jun-2026).
+- Emblema exacto de la familia Ulster (halcón de fuego) como imagen: mencionado sólo en texto de la wiki, sin archivo de imagen subido; búsqueda `srsearch=Ulster crest OR falcon` en la wiki sin resultado de imagen.
+- Modelo 3D con licencia libre de un objeto o sitio propio de la serie (Sketchfab, Poly Haven): no existe todavía ninguno con el nombre de la obra; se listan bases genéricas de torre/espada/catedral gótica como punto de partida.
+- Portadas de los 16 tomos del manga en la wiki: la mayoría de las páginas de volumen existen pero sin imagen de portada subida; se confirmaron en cambio las portadas de los 3 Blu-ray listados.
+- Un fotograma a color (no manga en blanco y negro) del Dungeon: las imágenes reunidas de los pisos son ilustraciones de manga; un fotograma de anime a color de la mazmorra es tarea del equipo de vídeo con `fotogramas.py`.
+
+## Bitácora de búsqueda
+
+- Fandom API (`wistoria.fandom.com/api.php`, `action=parse&prop=wikitext` y `action=query&list=allimages/allpages/search`): en inglés. Páginas leídas: Will Serfort, Elfaria Albis Serfort, Sion Ulster, Julius Reinberg, Colette Loire, Rosti Nauman, Zeo Thorzeus Reinbolt, Filvis Challia, Regarden Magical Academy, Mercedes Caulis, Dungeon, Urbus Regarden, Slumland Street, Wis, Blu-ray Volumes. Además `allimages` completo (916 archivos, paginado) filtrado por logo/emblem/crest/symbol.
+- `investigar_serie.py` corrido dos veces: una con 11 páginas de personajes/objeto Wis (40 imágenes grandes → `hojas/personajes_01.jpg`) y otra con 5 páginas de sitios (16 imágenes grandes → `hojas/fondos_01.jpg`). Ambas miradas con Read antes de citarlas.
+- `estilo.py` corrido 6 veces sobre 13 imágenes distintas (uniforme y traje de mazmorra de Will, vestido de Elfaria, Sion, Wis de Ignis/Zephros/Glauss/Dax en manga, Zion Alster Color, Julius Rainburg Color, Zeo Torzeus Rainbolt, fachada de la Academia, vista aérea de Urbus Regarden, arte oficial del sitio del estudio) para sacar hex reales, nunca de memoria.
+- AniList GraphQL (`graphql.anilist.co`, id 174576): portada, banner y primeros 12 personajes con retrato.
+- Sketchfab API (`api.sketchfab.com/v3/search`): «Wistoria», «gothic magic tower», «fantasy magic sword», «stone spire tower» — sin resultado propio de la obra, con resultado de bases genéricas CC Attribution.
+- Wallhaven API: `q=wistoria wand and sword` → 4 resultados totales, los 4 documentados.
+- Openverse API: `Wistoria wand and sword cosplay` → 0 resultados.
+- AmbientCG API: `paper`, `fabric`, `gold`, `marble` → assetId CC0 elegidos para papel, tela, metal y piedra.
+- WebSearch (cupo usado: 9 de ~50) — en español, inglés y japonés: «Wistoria Wand and Sword collaboration cafe merchandise», «Wistoria Wand and Sword figure official Will Elfaria», «ウィストリア 杖と剣 フィギュア アクリルスタンド グッズ», «"Wistoria" anime key visual Blu-ray cover art official», «"Wistoria" anime crossover event collaboration game 2026», «Wistoria Wand and Sword cosplay official contest», «ウィストリア 杖と剣 コラボ カフェ イベント», y 2 de reddit (arctic-shift, sin resultado en r/cosplay).
+- WebFetch directo a `wistoria-anime.com/character/` y `wistoria-anime.com/goods/` (HTML crudo con curl para sacar URLs de imagen reales, ya que el resumen de WebFetch no las daba) y a la noticia de ANN del crossover (403, se usó WebSearch + `luluttolilly.com` en su lugar).
+- Reddit vía Arctic Shift: `subreddit=cosplay&title=wistoria` (sin resultados) y `subreddit=anime&title=wistoria` (hilos generales de opinión, sin dato de imagen útil).
+
+Sigue: si hay más tiempo, sería un extra (no obligatorio) buscar un fotograma a color del Dungeon con fotogramas.py (tarea de vídeo) y confirmar con una segunda fuente el emblema de los Ulster. Todo lo obligatorio de los puntos 1, 3, 15, 16, 19 y 23 está cubierto arriba.
