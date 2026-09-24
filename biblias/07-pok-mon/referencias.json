@@ -1,326 +1,1109 @@
 [
-  {
-    "url": "https://www.netflix.com/mx/title/81046846",
-    "fuente": "Netflix México",
-    "ancho": null,
-    "alto": null,
-    "que_es": "La película Pokémon: ¡Yo te elijo! (2017), con doblaje latino. Rehace el capítulo 1 en alta.",
-    "para_que": "Fotogramas 1080p del laboratorio: 00:03:03 a 00:05:11; Pokébola del rayo hacia 00:04:12; Oak presenta a Pikachu en 00:04:34 (minutos de un subtítulo no oficial).",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=soM4HD71b6k",
-    "fuente": "Canal oficial de Pokémon en YouTube (Japón)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Capítulo 1 del anime, «ポケモン！きみにきめた！», completo y oficial.",
-    "para_que": "Ver el soporte de Pokébolas original y la Pokébola del rayo. Minuto sin verificar.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://github.com/imkira3/imkira3Keys",
-    "fuente": "GitHub (subtítulos en inglés, no oficiales)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Archivo «Subtitles/Pokémon Movie 20 - I Choose You.srt» con tiempos.",
-    "para_que": "Dar el minuto de cada frase de Oak, Ash y la Pokédex en la escena del laboratorio.",
-    "licencia": "Archivo de fans; sólo para consultar tiempos."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/data/text_boxes.asm",
-    "fuente": "pret/pokered (código de Pokémon Rojo/Azul)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Tabla de cajas de texto: MESSAGE_BOX de la casilla (0,12) a la (19,17).",
-    "para_que": "Proporción exacta de la caja: todo el ancho y el tercio de abajo.",
-    "licencia": "Código de ingeniería inversa; datos del juego © GAME FREAK."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/home/text.asm",
-    "fuente": "pret/pokered",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Rutinas de texto: la ▼ en la casilla (18,16), texto desde (1,14) y (1,16), flecha que parpadea.",
-    "para_que": "Colocar las dos líneas y la ▼ igual que en el juego.",
-    "licencia": "Código de ingeniería inversa."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font_extra.png",
-    "fuente": "pret/pokered",
-    "ancho": 128,
-    "alto": 16,
-    "que_es": "Gráficos del borde de la caja de texto: doble línea y esquinas con nudo.",
-    "para_que": "Dibujar el borde real de la caja (concepto A).",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font.png",
-    "fuente": "pret/pokered",
-    "ancho": 128,
-    "alto": 64,
-    "que_es": "La letra de 8×8 del juego, con ▼ y ▶.",
-    "para_que": "Comparar con pokemon-font y Press Start 2P.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/trainers/prof.oak.png",
-    "fuente": "pret/pokered",
-    "ancho": 56,
-    "alto": 56,
-    "que_es": "Sprite de Oak de Game Boy: bata, mano en el pecho.",
-    "para_que": "Pose de presentar; guiño retro dentro de una pantalla (lámina 2).",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/pokemon/front/pikachu.png",
-    "fuente": "pret/pokered",
-    "ancho": 40,
-    "alto": 40,
-    "que_es": "Sprite de Pikachu de Game Boy con chispas en las mejillas.",
-    "para_que": "Pose de avisar o enfadarse.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/pret/pokered/master/data/sgb/sgb_palettes.asm",
-    "fuente": "pret/pokered",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Paletas de Super Game Boy: Pueblo Paleta #CEE6DE y #A5D6FF, ruta #ADE65A, Pikachu #FFE673 y #D6A500.",
-    "para_que": "Paleta del fondo y de la caja.",
-    "licencia": "Código de ingeniería inversa."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/abcboy101/poke-corpus/main/corpus/RedBlue/es_msg.txt",
-    "fuente": "abcboy101/poke-corpus",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Texto oficial en español (de España) de Pokémon Rojo/Azul: Oak en el laboratorio, menús, PC, «¡Éste no es momento de usarlo!».",
-    "para_que": "Frases reales de Oak para adaptar al latino.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://github.com/pret/pokefirered",
-    "fuente": "pret/pokefirered (código de Rojo Fuego)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Código de Rojo Fuego: en include/constants/vars.h, colores de texto (azul para hombres, rojo para mujeres).",
-    "para_que": "Caja del concepto C: Oak y Ash hablan en azul.",
-    "licencia": "Código de ingeniería inversa."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-    "fuente": "PokeAPI/sprites",
-    "ancho": 475,
-    "alto": 475,
-    "que_es": "Arte oficial de Pikachu: salta con los brazos abiertos.",
-    "para_que": "Pose de celebrar; forma del personaje.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
-    "fuente": "PokeAPI/sprites (Pokémon HOME)",
-    "ancho": 512,
-    "alto": 512,
-    "que_es": "Render 3D de Pikachu con los brazos arriba; amarillo #FEE200 medido.",
-    "para_que": "Color de anime y pose de animar.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
-    "fuente": "PokeAPI/sprites",
-    "ancho": 475,
-    "alto": 475,
-    "que_es": "Arte oficial de Charmander: brazos abiertos, sonrisa, llama arriba.",
-    "para_que": "Personaje del concepto C.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
-    "fuente": "PokeAPI/sprites (Pokémon HOME)",
-    "ancho": 512,
-    "alto": 512,
-    "que_es": "Render de Charmander; naranja #F98200 medido.",
-    "para_que": "Color de Charmander en el concepto C.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
-    "fuente": "PokeAPI/sprites (Pokémon HOME)",
-    "ancho": 512,
-    "alto": 512,
-    "que_es": "Render de Bulbasaur; #7DC6BA y bulbo #54B235 medidos.",
-    "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
-    "fuente": "PokeAPI/sprites (Pokémon HOME)",
-    "ancho": 512,
-    "alto": 512,
-    "que_es": "Render de Squirtle; #70CFF6 medido.",
-    "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2",
-    "fuente": "Sketchfab, Pabluuu",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pokébola hiperrealista con materiales.",
-    "para_que": "Las cuatro Pokébolas del concepto A en Blender.",
-    "licencia": "CC BY según la búsqueda; comprobar en la página. Crédito: «Poké Ball» by Pabluuu."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/animated-poke-ball-2534c497425b4cde9cbb48181ea8a053",
-    "fuente": "Sketchfab, Ayan (@Ayanbeg)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pokébola animada que se abre.",
-    "para_que": "La Pokébola del rayo entreabierta.",
-    "licencia": "CC BY según la búsqueda; comprobar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/kanto-pokedex-33558224badf4058b5977bded912c70c",
-    "fuente": "Sketchfab, Alexander Walker",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pokédex roja de Kanto.",
-    "para_que": "Objeto del concepto B.",
-    "licencia": "Descarga gratis (Creative Commons); comprobar cuál."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/oak-lab-fbe85c2f81a04063aa573f9161824734",
-    "fuente": "Sketchfab, QuangCao",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Edificio del laboratorio de Oak.",
-    "para_que": "Fondo desenfocado por la ventana, o fondo del concepto C.",
-    "licencia": "Descarga gratis (Creative Commons); comprobar cuál."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/gameboy-dmg-01-29849a15fe0a40a6a18e01c9d544a0ed",
-    "fuente": "Sketchfab, Let's Do 3D",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Game Boy DMG-01, 18.100 triángulos.",
-    "para_que": "Variante retro o lámina 2.",
-    "licencia": "CC BY. Crédito: «GameBoy DMG-01» by Let's Do 3D."
-  },
-  {
-    "url": "https://polyhaven.com/a/wood_table_worn",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de mesa de madera gastada.",
-    "para_que": "La mesa del laboratorio (concepto A).",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=PaintedWood003",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Madera pintada de blanco.",
-    "para_que": "Muebles y paredes del laboratorio.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://github.com/cooljeanius/pokemon-font",
-    "fuente": "GitHub, Superpencil (pokemon-font / Johto font)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clon Unicode de la letra de Rojo/Azul; á é í ó ú ñ ¿ ¡ y ▼ comprobados.",
-    "para_que": "Texto de la caja de Game Boy.",
-    "licencia": "SIL OFL 1.1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pressstart2p/METADATA.pb",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Press Start 2P; latin y latin-ext; tildes, ñ, ¿, ¡ y ▼ comprobados.",
-    "para_que": "Pantalla de la Pokédex y letreros de píxel.",
-    "licencia": "SIL OFL 1.1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/METADATA.pb",
-    "fuente": "Google Fonts",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Lilita One, letra gorda redondeada; tildes comprobadas.",
-    "para_que": "Título «Autoroles» con aire de logo Pokémon, con licencia limpia.",
-    "licencia": "SIL OFL 1.1"
-  },
-  {
-    "url": "https://www.cdnfonts.com/pokemon-solid.font",
-    "fuente": "cdnfonts (Pokémon Solid, de fans)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Imitación del logo Pokémon; glifos en español comprobados en una copia de GitHub.",
-    "para_que": "Título, si el dueño acepta una letra de fans.",
-    "licencia": "Licencia poco clara (uso personal según algunas fuentes)."
-  },
-  {
-    "url": "https://www.creativeuncut.com/gallery-36/plgp-professor-oak.html",
-    "fuente": "Creative Uncut",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Arte oficial de Oak para Let's Go, de Ken Sugimori.",
-    "para_que": "Pose y ropa de Oak moderno.",
-    "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://www.deviantart.com/willdinomaster55/art/Professor-Oak-s-Lab-Background-939863010",
-    "fuente": "DeviantArt, WillDinoMaster55",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fondo del laboratorio donde se elige inicial (fan art).",
-    "para_que": "Distribución del laboratorio; sólo mirar.",
-    "licencia": "© del autor. No pegar."
-  },
-  {
-    "url": "https://www.pixiv.net/en/artworks/119328838",
-    "fuente": "pixiv",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pixel art en vóxeles del momento de elegir inicial en el laboratorio.",
-    "para_que": "Composición de la mesa con las Pokébolas.",
-    "licencia": "© del autor. No pegar."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/GeqxP3",
-    "fuente": "ArtStation",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Laboratorio de Oak en 3D, basado en Let's Go y el anime.",
-    "para_que": "Luz y materiales del interior.",
-    "licencia": "© del autor. No pegar."
-  },
-  {
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Ash's_clothing",
-    "fuente": "Bulbapedia",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Toda la ropa de Ash por región.",
-    "para_que": "No mezclar ropas: usar la de Kanto.",
-    "licencia": "Texto de wiki; imágenes © The Pokémon Company. Sólo referencia."
-  },
-  {
-    "url": "https://www.gameuidatabase.com/gameData.php?id=96",
-    "fuente": "Game UI Database",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Capturas de interfaz de Let's Go, Pikachu! y Eevee!",
-    "para_que": "Caja y menús modernos de Kanto.",
-    "licencia": "Capturas © de sus dueños; sólo referencia."
-  },
-  {
-    "url": "https://www.gameuidatabase.com/gameData.php?id=1579",
-    "fuente": "Game UI Database",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Capturas de interfaz de Escarlata/Púrpura (caja con pestaña azul marino).",
-    "para_que": "Alternativa moderna de caja de diálogo.",
-    "licencia": "Capturas © de sus dueños; sólo referencia."
-  }
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/6/69/Ash_and_Professor_Oak.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº24 de las hojas de contacto",
+  "ancho": 2876,
+  "alto": 1592,
+  "que_es": "Ash, Delia y el Profesor Oak en el laboratorio; Oak con bata a la izquierda.",
+  "para_que": "Oak en su sitio real: concepto A (presentar/explicar).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+  "fuente": "PokeAPI/sprites (GitHub)",
+  "ancho": 475,
+  "alto": 475,
+  "que_es": "Arte oficial de Pikachu (acuarela de los videojuegos)",
+  "para_que": "Pose de celebrar: salta, brazos abiertos, boca abierta.",
+  "licencia": "© Nintendo/Game Freak/The Pokémon Company, sólo referencia (no vender)."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+  "fuente": "PokeAPI/sprites (GitHub) · render de Pokémon HOME",
+  "ancho": 512,
+  "alto": 512,
+  "que_es": "Render 3D oficial de Pikachu, colores saturados (el más parecido al anime)",
+  "para_que": "Base de color para Pikachu en la lámina: amarillo #FEE200 medido en este render (ver datos-imagen.md).",
+  "licencia": "© Nintendo/Game Freak/TPC, sólo referencia."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/cd6f6c89fa5647d694991901f12becc2/thumbnails/121f5aecf5ed42ee9732c10db707036b/01032d0218f64094bb0febe2bcdfc8fb.jpeg",
+  "fuente": "Sketchfab · «Poké Ball» de Pabluuu · https://sketchfab.com/3d-models/poke-ball-cd6f6c89fa5647d694991901f12becc2 (licencia confirmada por la API v3 de Sketchfab)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D hiperrealista de una Poké Ball, 227.582 caras, con materiales ya hechos",
+  "para_que": "Base en Blender de las Poké Balls del concepto A (mesa del laboratorio).",
+  "licencia": "CC Attribution 4.0. Crédito: «Poké Ball» by Pabluuu, CC BY 4.0, Sketchfab. El diseño es de Nintendo/Game Freak."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/212d5d395ad14367aacac0be70922acb/thumbnails/eb9b9646c3bc4d6495f178fe85171b4c/610be34a039e4de5bb59cf00352d77ce.jpeg",
+  "fuente": "Sketchfab (lopuh22721) — https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb (confirmado por la API de Sketchfab, 24-sep-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D del Profesor Oak CON esqueleto/rig, 8068 caras (la biblia ya lo listaba en §4 pero con ⚠️ sin detalle ni autor real)",
+  "para_que": "Punto 18: confirma que este modelo de Oak SÍ trae rig y licencia clara — sube de ⚠️ a ✅ para posarlo en Blender",
+  "licencia": "CC BY 4.0 — crédito obligatorio a lopuh22721 (no '3D Resource' como decía la biblia), confirmado por la API de Sketchfab"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/f767f1a21b924033991a7fb1fb19820d/thumbnails/3a01cf9c636a4ef9be2754cfff79e789/d95b0d65d1544d74846333ae415c41b1.jpeg",
+  "fuente": "Sketchfab (Neut2000) — https://sketchfab.com/3d-models/ash-ketchum-f767f1a21b924033991a7fb1fb19820d (confirmado por la API de Sketchfab, 24-sep-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de Ash Ketchum CON esqueleto/rig, 8613 caras",
+  "para_que": "Punto 18: única referencia 3D libre de Ash encontrada; la biblia sólo tenía objetos (Pokébola, laboratorio, Game Boy), no personajes",
+  "licencia": "CC BY 4.0 — crédito obligatorio a Neut2000, confirmado por la API de Sketchfab"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/35716003a1964704b1b145e6c6a05b07/thumbnails/41ed2251105e44eb86597c97b5b92053/cbee8a564f5f4688ae6216d7e2fc1335.jpeg",
+  "fuente": "Sketchfab (Eleanie) — https://sketchfab.com/3d-models/pikachu-35716003a1964704b1b145e6c6a05b07 (confirmado por la API de Sketchfab, 24-sep-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de Pikachu CON esqueleto/rig, 106512 caras, sombreado tipo cómic configurable por nodos",
+  "para_que": "Punto 18: base real para posar a Pikachu en Blender sin dibujar desde cero; ningún modelo de personaje estaba listado antes en la biblia",
+  "licencia": "CC BY 4.0 — crédito obligatorio a Eleanie, confirmado por la API de Sketchfab"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/33558224badf4058b5977bded912c70c/thumbnails/94ba3eb07ec74b52a9bc59c650fc0f6d/97b77cab4f90400cb2bd1ce07d521e14.jpeg",
+  "fuente": "Sketchfab · «Kanto Pokédex» de Alexander Walker · https://sketchfab.com/3d-models/kanto-pokedex-33558224badf4058b5977bded912c70c (licencia confirmada por la API v3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de la Pokédex roja de Kanto, 6.590 caras",
+  "para_que": "Base del concepto B (la Pokédex en la Ruta 1).",
+  "licencia": "CC Attribution 4.0. Crédito: «Kanto Pokédex» by Alexander Walker, CC BY 4.0, Sketchfab."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/fbe85c2f81a04063aa573f9161824734/thumbnails/7ae56cb3ad664133bcfdb0f71abc87c2/c2c2359a6da946969264bec8548fe277.jpeg",
+  "fuente": "Sketchfab · «Oak Lab» de QuangCao · https://sketchfab.com/3d-models/oak-lab-fbe85c2f81a04063aa573f9161824734 (licencia confirmada por la API v3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D del edificio del laboratorio de Oak, 1.086 caras (low poly)",
+  "para_que": "Silueta del edificio para un fondo lejano del concepto A.",
+  "licencia": "CC Attribution 4.0. Crédito: «Oak Lab» by QuangCao, CC BY 4.0, Sketchfab."
+ },
+ {
+  "url": "https://archive.org/details/pokemon-indigo-league-season-1-1998",
+  "fuente": "Internet Archive (colección: Pokémon Indigo League - The Complete Collection, doblaje inglés 4Kids)",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Episodio 1 real y completo, \"Pokémon, I Choose You!\" (1997). Recorté con ffmpeg por rango HTTP los minutos 1:30-7:30 (laboratorio de Oak, elección de Pikachu) y 16:00-20:00 (Misty, ataque de Spearow, primera aparición de Ho-Oh) y los miré fotograma a fotograma con fotogramas.py --cortes.",
+  "para_que": "Minuto real y fotograma de la escena del laboratorio (punto 2), de la escena de Ho-Oh (punto 2) y de las poses de Ash/Pikachu/Oak/Gary (punto 14); confirma en vídeo el diseño del laboratorio (punto 4).",
+  "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia (no vender ni redistribuir el episodio)."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x69qn7q?t=18",
+  "fuente": "Dailymotion, canal Rahiwalayu — «Trailer Oficial La Película Pokémon ¡Yo te Elijo! [Español Latino] HD»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler oficial doblado, minuto 0:18: «Hola Pikachu, mi nombre es Ash y vamos a ser los mejores amigos»",
+  "para_que": "Punto 8: frase icónica del doblaje latino, con minuto y enlace &t= verificable sin YouTube",
+  "licencia": "© The Pokémon Company/Warner, tráiler promocional oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x69qn7q?t=64",
+  "fuente": "Dailymotion, canal Rahiwalayu — «Trailer Oficial La Película Pokémon ¡Yo te Elijo! [Español Latino] HD»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler oficial doblado, minuto 1:04: réplica de Gary/el rival, «la supremacía del más fuerte es la ley»",
+  "para_que": "Punto 13: cómo habla el arquetipo de rival en el doblaje latino",
+  "licencia": "© The Pokémon Company/Warner, tráiler promocional oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84bzwf?t=60",
+  "fuente": "Dailymotion (canal 3djuegos)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial en español de España de Pokémon Rojo/Pokémon Azul (Game Boy). Minuto 0:12 \"¡Hola a todos! ¡Bienvenidos al mundo de POKéMON!\"; 0:18 Oak \"¡Ven conmigo!\"; 0:24 Oak explica que quedan 3 iniciales; 1:00 combate de ejemplo con jugador \"ASH\" y su Pikachu.",
+  "para_que": "Vídeo oficial mirado del punto 10; texto real del cuadro de diálogo del juego (punto 6) y prueba de que \"Ash + Pikachu + elegir inicial\" es oficial del juego, no sólo del anime (concepto de lámina de #autoroles).",
+  "licencia": "© Nintendo/Game Freak/The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/4/44/XY006_17.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº147 de las hojas de contacto",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Ash tiende la mano hacia la cámara, en escorzo (fotograma de XY006).",
+  "para_que": "Pose de «elige»/invitar: base del concepto B.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/4/45/Ash_anime_Ruby_and_Sapphire.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº163 de las hojas de contacto",
+  "ancho": 675,
+  "alto": 1280,
+  "que_es": "Ash de cuerpo entero lanzando la Pokébola, pierna arriba (arte de Hoenn).",
+  "para_que": "Pose de acción, «¡yo te elijo!»; ropa de Hoenn.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/0/01/Ash_and_Pikachu.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº146 de las hojas de contacto",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Ash guiña un ojo con el puño apretado y Pikachu en el hombro.",
+  "para_que": "Pose de animar.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/9/9a/Pikachu_%28Super_Smash_Bros._for_3DS_-_WiiU_Artwork%29.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº1 de las hojas de contacto",
+  "ancho": 4574,
+  "alto": 4369,
+  "que_es": "Pikachu de pie, de frente (arte de Super Smash Bros. for 3DS/Wii U), la imagen más grande de la wiki.",
+  "para_que": "Pikachu presentando; recorte en alta.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/pokemon-lets-go-pikachu/pokemon-lets-go-pikachu-dialogue.jpg",
+  "fuente": "Interface In Game — captura real de Nintendo Switch (EXIF: manufacturer Nintendo co. ltd, 21-abr-2019)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Caja de diálogo de Pokémon Let's Go, Pikachu!: fondo blanco cálido #FDFCFA-#F3F4F1 con trama sutil, borde dorado-oliva #88893D-#C8C899, icono de Poké Ball en la esquina (medido con estilo.py)",
+  "para_que": "Punto 6/18: primera referencia real de esta caja (antes la biblia decía 'no pude abrirla'); para el cuadro de diálogo y el estilo de UI de Let's Go",
+  "licencia": "Captura de juego con copyright de Nintendo/Game Freak/The Pokémon Company, publicada por Interface In Game — sólo como referencia, nunca para pegar"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font_extra.png",
+  "fuente": "pret/pokered",
+  "ancho": 128,
+  "alto": 16,
+  "que_es": "Gráficos del borde de la caja de texto: doble línea y esquinas con nudo.",
+  "para_que": "Dibujar el borde real de la caja (concepto A).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/data/text_boxes.asm",
+  "fuente": "pret/pokered (código de Pokémon Rojo/Azul)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tabla de cajas de texto: MESSAGE_BOX de la casilla (0,12) a la (19,17).",
+  "para_que": "Proporción exacta de la caja: todo el ancho y el tercio de abajo.",
+  "licencia": "Código de ingeniería inversa; datos del juego © GAME FREAK."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/home/text.asm",
+  "fuente": "pret/pokered",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Rutinas de texto: la ▼ en la casilla (18,16), texto desde (1,14) y (1,16), flecha que parpadea.",
+  "para_que": "Colocar las dos líneas y la ▼ igual que en el juego.",
+  "licencia": "Código de ingeniería inversa."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/font/font.png",
+  "fuente": "pret/pokered",
+  "ancho": 128,
+  "alto": 64,
+  "que_es": "La letra de 8×8 del juego, con ▼ y ▶.",
+  "para_que": "Comparar con pokemon-font y Press Start 2P.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg",
+  "fuente": "Wikimedia Commons — usado como logo internacional en el artículo de Wikipedia sobre la franquicia",
+  "ancho": 1200,
+  "alto": 440,
+  "que_es": "Logo oficial 'Pokémon' (amarillo con borde azul y sombra 3D), vectorial; medido a 1200px con estilo.py tras pasarlo a PNG con cairosvg: amarillo #FECA02, borde #3566AE, sombra #213A71",
+  "para_que": "Punto 25 (§25.3, logo/emblema) y guía de IA de la biblia: hex reales del logo, medidos, no de memoria",
+  "licencia": "Wikimedia Commons lo cataloga como logo con copyright de Nintendo/Game Freak/The Pokémon Company, uso bajo criterio de imagen no libre — sólo como referencia, nunca para pegar"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/0/0f/Pok%C3%A9mon_the_Series_logo_English.png",
+  "fuente": "pokemon.fandom.com (imageinfo medido)",
+  "ancho": 1189,
+  "alto": 518,
+  "que_es": "Logo oficial en inglés de «Pokémon: la Serie»",
+  "para_que": "Referencia de logotipo/emblema para texturas o para no copiar mal las proporciones si se hace un rótulo propio.",
+  "licencia": "© The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/2/24/MuestraProfesorOak-Pokemon.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Hugo Navarrete como el Profesor Oak, con su muletilla «hay un problema con este último»",
+  "para_que": "Punto 8 y 13: frase firma de Oak, repetida en dos doblajes (serie y película 2017)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/38/POS_Ash_Ketchum_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon», muestra oficial de reparto)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Gabriel Ramos como Ash Ketchum, temporada 1 episodio 7 (~10 s)",
+  "para_que": "Punto 8 y 13: voz de referencia de Ash, medida con voz.py (agudo 247 Hz, 16.7 semitonos, 3.23 pal/s)",
+  "licencia": "© 4Kids/The Pokémon Company, muestra corta de Doblaje Wiki, sólo referencia de voz"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/d/d3/POS_Pikachu_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Pikachu (Ikue Ōtani, voz japonesa conservada), temporada 1 episodio 7",
+  "para_que": "Punto 8 y 13: confirma que Pikachu sólo dice su nombre, nunca palabras",
+  "licencia": "© The Pokémon Company, muestra corta de Doblaje Wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/a/a0/POS_Jessie_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Diana Pérez como Jessie diciendo su mitad del lema del Equipo Rocket, temporada 1 episodio 7",
+  "para_que": "Punto 8: frase textual del lema latino, con la voz original de Diana Pérez",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/b0/POS_James_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Pepe Toño Macías como James diciendo su mitad del lema del Equipo Rocket, temporada 1 episodio 7",
+  "para_que": "Punto 8: frase textual del lema latino, complementa la de Jessie",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/f/f7/POS_Meowth_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Gerardo Vásquez (director) como Meowth, temporada 1 episodio 7",
+  "para_que": "Punto 13: el personaje con más semitonos medidos de todo el reparto (25.6), útil para un cuadro de diálogo cómico",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/8/84/POS_Misty_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Xóchitl Ugarte como Misty, temporada 1 episodio 7",
+  "para_que": "Punto 8 y 13: voz de referencia de Misty (muy agudo 335 Hz, la más rápida del reparto, 3.83 pal/s)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/01/POS_Brock_S01E07.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Gabriel Gama como Brock, temporada 1 episodio 7",
+  "para_que": "Punto 8 y 13: voz de referencia de Brock (registro medio, el más calmado del grupo)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/06/POS_Gary_Oak_S05E59.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Gerardo del Valle como Gary Oak, temporada 5 episodio 59, fanfarroneando antes de un combate",
+  "para_que": "Punto 8 y 13: voz de referencia del rival de Ash, confirmada en dos fuentes (Doblaje Wiki + WikiDex)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/a/ad/POS_Giovanni_S01E63.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Alejandro Villeli como Giovanni, temporada 1 episodio 63, regañando a sus subordinados",
+  "para_que": "Punto 8 y 13: voz del jefe del Equipo Rocket, el registro más grave de todo el reparto (139 Hz)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/17/POS_Delia_Ketchum_S01E64.ogg",
+  "fuente": "Doblaje Wiki (página «Pokémon»)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio real de Patricia Hannidez como Delia Ketchum, la madre de Ash, preocupada por él",
+  "para_que": "Punto 13 y 20: cómo se expresa la madre de Ash (sube mucho el tono al preocuparse)",
+  "licencia": "© 4Kids/TPC, muestra corta de Doblaje Wiki"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper004",
+  "fuente": "ambientCG (API v2, tipo Material)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura de papel CC0 con foto de referencia en varias resoluciones (hasta 8K)",
+  "para_que": "Resuelve el ⚠️ de datos-imagen.md 5.4: la etiqueta de cartulina de las Poké Balls del concepto A.",
+  "licencia": "CC0 (ambientCG)."
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Cardboard002",
+  "fuente": "ambientCG (API v2, tipo Material)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura de cartón/kraft CC0",
+  "para_que": "Alternativa más rugosa para la misma etiqueta de las Poké Balls.",
+  "licencia": "CC0 (ambientCG)."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/8/89/Cosplay_Pikachu_anime.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº149 de las hojas de contacto",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cosplay Pikachu con sus 5 trajes, en el anime.",
+  "para_que": "Disfraces canon (vestuario, colaboraciones).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/b/b3/Ash_and_Gary.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº164 de las hojas de contacto",
+  "ancho": 1192,
+  "alto": 670,
+  "que_es": "Ash y Gary se dan la mano al atardecer.",
+  "para_que": "Dar la bienvenida; lámina en grupo.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/5/53/Ash_and_Brock.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº160 de las hojas de contacto",
+  "ancho": 1249,
+  "alto": 702,
+  "que_es": "Ash y Brock se dan la mano.",
+  "para_que": "Dar la bienvenida; grupo de Kanto.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/2/26/Ash_and_Dawn_high-fiving.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº172 de las hojas de contacto",
+  "ancho": 944,
+  "alto": 706,
+  "que_es": "Ash y Dawn chocan los cinco.",
+  "para_que": "Celebrar en grupo.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/e/e9/Ash_and_Misty.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº37 de las hojas de contacto",
+  "ancho": 2147,
+  "alto": 1600,
+  "que_es": "Ash y Misty discuten, Pikachu en el hombro (Kanto).",
+  "para_que": "Regañar en grupo, época de Kanto.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/5/55/Young_Ash_and_Gary.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº30 de las hojas de contacto",
+  "ancho": 2373,
+  "alto": 1800,
+  "que_es": "Ash y Gary de niños, riendo.",
+  "para_que": "Rivales que empezaron juntos.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/5/58/Pokemon_Day_Countdown_Pikachu.jpg",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº74 de las hojas de contacto",
+  "ancho": 1080,
+  "alto": 1920,
+  "que_es": "Cartón oficial de cuenta atrás del Pokémon Day: Pikachu en un cojín.",
+  "para_que": "Arte oficial de cuenta atrás (punto 1).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/2/29/Ash_anime_XY_and_XYZ.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº85 de las hojas de contacto",
+  "ancho": 1024,
+  "alto": 1592,
+  "que_es": "Ash de cuerpo entero corriendo, ropa de Kalos.",
+  "para_que": "Ropa de Kalos, sin mezclar eras.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/6/6d/Ash_anime_Journeys.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº92 de las hojas de contacto",
+  "ancho": 800,
+  "alto": 1920,
+  "que_es": "Ash de cuerpo entero con la mano en la gorra, ropa de Viajes.",
+  "para_que": "Ropa de Galar/Viajes.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/8/88/Ash_anime_Diamond_and_Pearl.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº47 de las hojas de contacto",
+  "ancho": 1202,
+  "alto": 1749,
+  "que_es": "Ash de cuerpo entero, ropa de Sinnoh.",
+  "para_que": "Ropa de Sinnoh.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/4/48/Pikachu_Libre_%28Pokk%C3%A9n_Tournament%29.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº90 de las hojas de contacto",
+  "ancho": 1311,
+  "alto": 1186,
+  "que_es": "Pikachu Libre, máscara de luchador (Pokkén Tournament).",
+  "para_que": "Disfraz canon para una lámina 2.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/3/39/0025Pikachu_Detective_Pikachu.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº168 de las hojas de contacto",
+  "ancho": 807,
+  "alto": 854,
+  "que_es": "Detective Pikachu con gorro y lupa.",
+  "para_que": "Pose nueva de una colaboración/película.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/d/d6/Ash_World_Coronation_Series_Trophy.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº60 de las hojas de contacto",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ash con el trofeo de la Serie de Coronación Mundial.",
+  "para_que": "Celebrar.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/9/9b/Hoenn_Badges.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº38 de las hojas de contacto",
+  "ancho": 2147,
+  "alto": 1597,
+  "que_es": "Estuche abierto con las 8 medallas de Hoenn.",
+  "para_que": "Objeto que se abre con piezas dentro; emblemas.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/5/58/Sinnoh_Badges.png",
+  "fuente": "pokemon.fandom.com (imageinfo medido)",
+  "ancho": 1437,
+  "alto": 804,
+  "que_es": "Las 8 medallas oficiales de la Liga Sinnoh",
+  "para_que": "Emblemas/logos para texturas 2D (punto 19) o para una lámina de progreso.",
+  "licencia": "© The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/Ash_and_his_Pok%C3%A9mon_in_the_Orange_League_Hall_of_Fame.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº31 de las hojas de contacto",
+  "ancho": 2357,
+  "alto": 1800,
+  "que_es": "Placa del Salón de la Fama de la Liga Naranja con huellas.",
+  "para_que": "Objeto con relieve para Blender.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/3/36/Generation_I.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº35 de las hojas de contacto",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Montaje oficial de la generación I: caja de Pokémon Rojo, viñetas de manga y Ash con Pikachu.",
+  "para_que": "Arte de caja y tramas de manga.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+  "fuente": "PokeAPI/sprites",
+  "ancho": 475,
+  "alto": 475,
+  "que_es": "Arte oficial de Charmander: brazos abiertos, sonrisa, llama arriba.",
+  "para_que": "Personaje del concepto C.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+  "fuente": "PokeAPI/sprites (Pokémon HOME)",
+  "ancho": 512,
+  "alto": 512,
+  "que_es": "Render de Charmander; naranja #F98200 medido.",
+  "para_que": "Color de Charmander en el concepto C.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+  "fuente": "PokeAPI/sprites (Pokémon HOME)",
+  "ancho": 512,
+  "alto": 512,
+  "que_es": "Render de Bulbasaur; #7DC6BA y bulbo #54B235 medidos.",
+  "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+  "fuente": "PokeAPI/sprites (Pokémon HOME)",
+  "ancho": 512,
+  "alto": 512,
+  "que_es": "Render de Squirtle; #70CFF6 medido.",
+  "para_que": "Si se dibujan los tres iniciales junto a sus Pokébolas.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/data/sgb/sgb_palettes.asm",
+  "fuente": "pret/pokered",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Paletas de Super Game Boy: Pueblo Paleta #CEE6DE y #A5D6FF, ruta #ADE65A, Pikachu #FFE673 y #D6A500.",
+  "para_que": "Paleta del fondo y de la caja.",
+  "licencia": "Código de ingeniería inversa."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/abcboy101/poke-corpus/main/corpus/RedBlue/es_msg.txt",
+  "fuente": "abcboy101/poke-corpus",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Texto oficial en español (de España) de Pokémon Rojo/Azul: Oak en el laboratorio, menús, PC, «¡Éste no es momento de usarlo!».",
+  "para_que": "Frases reales de Oak para adaptar al latino.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/trainers/prof.oak.png",
+  "fuente": "pret/pokered",
+  "ancho": 56,
+  "alto": 56,
+  "que_es": "Sprite de Oak de Game Boy: bata, mano en el pecho.",
+  "para_que": "Pose de presentar; guiño retro dentro de una pantalla (lámina 2).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/pret/pokered/master/gfx/pokemon/front/pikachu.png",
+  "fuente": "pret/pokered",
+  "ancho": 40,
+  "alto": 40,
+  "que_es": "Sprite de Pikachu de Game Boy con chispas en las mejillas.",
+  "para_que": "Pose de avisar o enfadarse.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8z7rq.jpg",
+  "fuente": "Wallhaven (medido por su API)",
+  "ancho": 2322,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla de fans: Ash Ketchum y Pikachu, ilustración estilo anime",
+  "para_que": "Fondo de pantalla de fans en alta resolución (punto 16).",
+  "licencia": "Wallhaven (uso no comercial de fans); autor original: twitter.com/Lv01KOKUEN, sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/73/wallhaven-73xpde.png",
+  "fuente": "Wallhaven (medido por su API)",
+  "ancho": 6000,
+  "alto": 2492,
+  "que_es": "Fondo de pantalla de fans en altísima resolución (retrato de Pokémon, arte pixiv)",
+  "para_que": "Fondo de fans en 4K+ (punto 16); origen: pixiv.net/en/artworks/77330141.",
+  "licencia": "Wallhaven (uso no comercial de fans), sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/rd/wallhaven-rd2jw1.png",
+  "fuente": "Wallhaven (medido por su API)",
+  "ancho": 6488,
+  "alto": 3244,
+  "que_es": "Fondo de pantalla de fans: «Lake of Rage», Gyarados y Magikarp, arte de videojuego",
+  "para_que": "Referencia de paisaje/agua con Pokémon salvajes (punto 16, no del canal pero sirve para otras láminas).",
+  "licencia": "Wallhaven (uso no comercial de fans); origen: reddit.com/r/pokemon, sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/nr/wallhaven-nr1jj0.png",
+  "fuente": "Wallhaven (API)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de fans: Charmander minimalista sobre beige.",
+  "para_que": "Fondo de fans en alta (punto 16).",
+  "licencia": "© su autor; sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/57/wallhaven-57eey1.png",
+  "fuente": "Wallhaven (API)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fans: Pokémon en pixel art.",
+  "para_que": "Fondo de fans en alta (punto 16).",
+  "licencia": "© su autor; sólo referencia."
+ },
+ {
+  "url": "https://mcdn.pokemon.com/pokemon-prod/raw/upload/v1/live/static-assets/content-assets/cms2/img/misc/_tiles/mattel/mega/wallpapers/inline/1920x1080.png",
+  "fuente": "pokemon.com/us/pokemon-news/download-mega-pokemon-digital-wallpapers (página oficial; descarga bloqueada por Incapsula al comprobar el tamaño real)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla OFICIAL de Pokémon (colaboración MEGA/Mattel, ladrillos con Pikachu, Charmander y Bidoof)",
+  "para_que": "El único fondo de pantalla oficial en alta que encontré con enlace directo (punto 16).",
+  "licencia": "© The Pokémon Company / Mattel. ⚠️ tamaño según el nombre del archivo de la propia página oficial; no pude descargarlo para medirlo (bloqueo anti-bot)."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/7/78/Generation_IX.png",
+  "fuente": "pokemon.fandom.com/wiki/Pikachu (imageinfo medido)",
+  "ancho": 3000,
+  "alto": 3000,
+  "que_es": "Montaje oficial de Pikachu por generación (una de nueve láminas de aniversario)",
+  "para_que": "Muestra la variedad de artes oficiales de un mismo personaje a través de los años.",
+  "licencia": "© The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/1/1b/Pikachu_%28Smash%29_trophy_SSBM.png",
+  "fuente": "pokemon.fandom.com (imageinfo medido)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Trofeo oficial de Pikachu en Super Smash Bros. Melee",
+  "para_que": "Colaboración/crossover con Nintendo (punto 23): Pikachu es personaje jugable desde Smash 64.",
+  "licencia": "© Nintendo/The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/2/2e/Grassy_Gardening_by_%40kirisAki_29.jpg",
+  "fuente": "pokemon.fandom.com/wiki/Pikachu (imageinfo medido)",
+  "ancho": 3387,
+  "alto": 4096,
+  "que_es": "Arte oficial de un evento de Pokémon Café/temporada (Pikachu jardinero, alta resolución)",
+  "para_que": "Arte oficial vertical de campaña estacional (punto 1), en muy alta resolución.",
+  "licencia": "© The Pokémon Company, sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/b/be/0025Pikachu_Holiday_Style_Pok%C3%A9mon_UNITE.png",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº13 de las hojas de contacto",
+  "ancho": 2668,
+  "alto": 3000,
+  "que_es": "Pikachu Holiday Style (Pokémon UNITE), traje de Papá Noel.",
+  "para_que": "Disfraces oficiales.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pokemon/images/f/ff/Pikachu_clothing_art.jpg",
+  "fuente": "pokemon.fandom.com (API imageinfo) · nº179 de las hojas de contacto",
+  "ancho": 735,
+  "alto": 702,
+  "que_es": "Pikachu con ropa de camuflaje.",
+  "para_que": "Disfraces oficiales.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company; sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/32ab2458321e495084fe3bc3b3bf6a91/thumbnails/0ee0afa4cb934de6a6a2aaf29f5d8cc6/7bf737520bac4466bd39ebaa8c48198f.jpeg",
+  "fuente": "Sketchfab · «Lucario» de GianmArt (corregido: el buscador decía «Gianmarco») · https://sketchfab.com/3d-models/none-32ab2458321e495084fe3bc3b3bf6a91 (verificado con la API v3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de Lucario, 63.606 caras",
+  "para_que": "Referencia de un Pokémon popular en pose de combate, para una lámina 2 de Pokémon.",
+  "licencia": "CC Attribution 4.0. Crédito correcto: «Lucario» by GianmArt, CC BY 4.0, Sketchfab."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/29849a15fe0a40a6a18e01c9d544a0ed/thumbnails/a62d1b9185634d24b15ec0378ad8de52/91c36fc44851475197825640e7cdbc3f.jpeg",
+  "fuente": "Sketchfab · «GameBoy DMG-01» de LetsDo3D · https://sketchfab.com/3d-models/gameboy-dmg-01-29849a15fe0a40a6a18e01c9d544a0ed (verificado con la API v3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de la Game Boy original DMG-01, 18.119 caras",
+  "para_que": "Prop de época (los juegos de Kanto son de Game Boy) para una lámina 2.",
+  "licencia": "CC Attribution 4.0. Crédito: «GameBoy DMG-01» by LetsDo3D, CC BY 4.0, Sketchfab."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/fd72e114d119488da71fe3a16f216c4f/thumbnails/0ed31390557444caa2c9f323a01cbcb7/53ab2981bd904a3eaf40ce918e20a1d8.jpeg",
+  "fuente": "Sketchfab · «Ultimate Monsters Pack» de quaternius · https://sketchfab.com/3d-models/none-fd72e114d119488da71fe3a16f216c4f (licencia confirmada por la API v3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pack de criaturas low-poly estilo monstruo de bolsillo, 212.178 caras en total",
+  "para_que": "Referencia de siluetas genéricas si hace falta un Pokémon de fondo sin usar el diseño exacto.",
+  "licencia": "CC Attribution 4.0. Crédito: «Ultimate Monsters Pack» by quaternius, CC BY 4.0, Sketchfab."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x2sqtay",
+  "fuente": "Dailymotion (usuario Lakeisha Alston)",
+  "ancho": 480,
+  "alto": 360,
+  "que_es": "Ending oficial de TV \"Friends to the End\" (etapa Liga Índigo, doblaje inglés). Animación real de la serie: Ash con la gorra de la Liga Pokémon (visera verde), Pikachu, Profesor Oak, combates y el estadio de la Liga Índigo.",
+  "para_que": "Vídeo del punto 10 (ending mirado, requisito de AYUDANTE.md); poses de Ash con Pikachu en brazos (minutos 0:56-1:28) para el punto 14.",
+  "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x88osgb",
+  "fuente": "Dailymotion (canal Sensacine)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Clip de un opening del anime, etapa Kanto-Johto (el vídeo no especifica el número exacto): Ash, Pikachu, Raichu, Growlithe, Charmander, Charizard, una Pokébola abriéndose en flash de luz y el logo \"Pokémon\".",
+  "para_que": "Vídeo del punto 10 (opening mirado, requisito de AYUDANTE.md); referencia de tipografía del logo clásico y de color de fondo del cielo/espacio de la secuencia.",
+  "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/xs14pe",
+  "fuente": "Dailymotion",
+  "ancho": 320,
+  "alto": 240,
+  "que_es": "Compilación \"Lema Team Rocket\" (35 s): Jessie y James en silueta contra un remolino de estrellas, primeros planos con gesto exagerado y cierre con Meowth.",
+  "para_que": "Escena icónica nº3 del punto 2 (mirada completa, un fotograma por plano); pose de presentación en grupo, útil también para el punto 6 (la \"R\" del uniforme) y point 14.",
+  "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+ },
+ {
+  "url": "https://bulbapedia.bulbagarden.net/wiki/EP001",
+  "fuente": "Bulbapedia (vía su API, action=query&prop=extracts)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa del episodio 1: blurb oficial, lista de debuts (incluye Ho-Oh) y trivia (el reloj Voltorb, el orden de las Pokébolas vacías, el único capítulo con Pikachu dentro de su Pokébola, el guiño al intro de los juegos).",
+  "para_que": "Segunda fuente para subir a ✅ varios ⚠️ del punto 2 y 14 (escenas y poses del episodio 1).",
+  "licencia": "Contenido de wiki de fans (CC BY-NC-SA vía Bulbagarden), sólo referencia de texto."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon/M%C3%BAsica",
+  "fuente": "Doblaje Wiki (vía su API, action=parse&prop=wikitext)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha musical completa del doblaje latino de Pokémon: cantantes de cada apertura (Óscar Roa, Rodrigo Zea...), letrista/adaptador (Adolfo Aguirre Gamboa, Jorge Roig), estudio de canciones (Audiomaster 3000), letra completa en español de \"¡Atrápalos ya!\", y los segmentos musicales post-episodio (Pokérap, Pikachu's Jukebox, Karaokémon).",
+  "para_que": "Confirma a ✅ el cantante latino del opening (punto 9) y añade datos nuevos de música no usados en la primera pasada de la biblia.",
+  "licencia": "Contenido de wiki de fans (licencia Fandom), sólo referencia de texto."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/%C3%93scar_Roa",
+  "fuente": "Doblaje Wiki (vía su API, action=parse&prop=wikitext)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del tenor mexicano Óscar Roa, confirma que cantó el primer opening latino de Pokémon.",
+  "para_que": "Segunda fuente (con la de arriba) para subir a ✅ el dato del punto 9.",
+  "licencia": "Contenido de wiki de fans (licencia Fandom), sólo referencia de texto."
+ },
+ {
+  "url": "https://archive.org/details/pokemon-capitulo-18-espanol-latino?t=102",
+  "fuente": "Internet Archive — «Pokémon Capitulo 18 (Español Latino)»",
+  "ancho": 960,
+  "alto": 720,
+  "que_es": "Doblaje latino raro del episodio 18 «Beauty and the Beach» (el episodio con la escena polémica que 4Kids no distribuyó fuera de Japón), minuto 1:42: narración de la isla donde quedan varados los protagonistas",
+  "para_que": "Punto 8 y 12: evidencia de un doblaje que, según Diana Pérez (Doblaje Wiki), sí se hizo aunque el episodio nunca se distribuyó oficialmente; dato único para un servidor de doblaje",
+  "licencia": "© 4Kids/TPC, copia de fan en Internet Archive, sólo referencia (episodio nunca vendido oficialmente en video latino)"
+ },
+ {
+  "url": "https://live.staticflickr.com/5167/5275288494_795c5a6117_b.jpg",
+  "fuente": "Openverse → Flickr, nayukim, CC BY 2.0",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Foto real de una persona cosplayando a Snivy de Pokémon",
+  "para_que": "Ejemplo de cosplay real bien hecho: volumen y tela reales (punto 23).",
+  "licencia": "CC BY 2.0, crédito: nayukim (Flickr)."
+ },
+ {
+  "url": "https://live.staticflickr.com/8652/28615487170_7b3bfba3c0_b.jpg",
+  "fuente": "Openverse → Flickr, Si-MOCs, CC BY-NC-SA 2.0",
+  "ancho": 602,
+  "alto": 1024,
+  "que_es": "Construcción de fans estilo LEGO («Pokémon LE-GO») de un Pokémon",
+  "para_que": "Referencia de fan art construido en ladrillo, para no repetir la idea si el canal ya usó algo así.",
+  "licencia": "CC BY-NC-SA 2.0, crédito: Si-MOCs (Flickr), sólo referencia."
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets · «[FREE] Manga Screentone Pack 1»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Pack de tramas (screentone) de manga gratis para Clip Studio Paint",
+  "para_que": "Textura 2D equivalente a las tramas del manga de Pokémon (punto 19).",
+  "licencia": "Gratis en Clip Studio Assets; revisar el plan requerido en la ficha (⚠️ no confirmé si permite uso comercial)."
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=1845097",
+  "fuente": "Clip Studio Assets · «Screentone Pack» de Vixial",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Pack gratis de 3 formas y 6 materiales de trama",
+  "para_que": "Alternativa de trama fina para sombreados planos.",
+  "licencia": "Gratis en Clip Studio Assets (⚠️ revisar términos exactos)."
+ },
+ {
+  "url": "https://github.com/cooljeanius/pokemon-font",
+  "fuente": "GitHub, Superpencil (pokemon-font / Johto font)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clon Unicode de la letra de Rojo/Azul; á é í ó ú ñ ¿ ¡ y ▼ comprobados.",
+  "para_que": "Texto de la caja de Game Boy.",
+  "licencia": "SIL OFL 1.1"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pressstart2p/METADATA.pb",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Press Start 2P; latin y latin-ext; tildes, ñ, ¿, ¡ y ▼ comprobados.",
+  "para_que": "Pantalla de la Pokédex y letreros de píxel.",
+  "licencia": "SIL OFL 1.1"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/METADATA.pb",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Lilita One, letra gorda redondeada; tildes comprobadas.",
+  "para_que": "Título «Autoroles» con aire de logo Pokémon, con licencia limpia.",
+  "licencia": "SIL OFL 1.1"
+ },
+ {
+  "url": "https://www.cdnfonts.com/pokemon-solid.font",
+  "fuente": "cdnfonts (Pokémon Solid, de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Imitación del logo Pokémon; glifos en español comprobados en una copia de GitHub.",
+  "para_que": "Título, si el dueño acepta una letra de fans.",
+  "licencia": "Licencia poco clara (uso personal según algunas fuentes)."
+ },
+ {
+  "url": "https://github.com/pret/pokefirered",
+  "fuente": "pret/pokefirered (código de Rojo Fuego)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Código de Rojo Fuego: en include/constants/vars.h, colores de texto (azul para hombres, rojo para mujeres).",
+  "para_que": "Caja del concepto C: Oak y Ash hablan en azul.",
+  "licencia": "Código de ingeniería inversa."
+ },
+ {
+  "url": "https://github.com/imkira3/imkira3Keys",
+  "fuente": "GitHub (subtítulos en inglés, no oficiales)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Archivo «Subtitles/Pokémon Movie 20 - I Choose You.srt» con tiempos.",
+  "para_que": "Dar el minuto de cada frase de Oak, Ash y la Pokédex en la escena del laboratorio.",
+  "licencia": "Archivo de fans; sólo para consultar tiempos."
+ },
+ {
+  "url": "https://polyhaven.com/a/wood_table_worn",
+  "fuente": "Poly Haven",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de mesa de madera gastada.",
+  "para_que": "La mesa del laboratorio (concepto A).",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=PaintedWood003",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Madera pintada de blanco.",
+  "para_que": "Muebles y paredes del laboratorio.",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://www.creativeuncut.com/gallery-36/plgp-professor-oak.html",
+  "fuente": "Creative Uncut",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Arte oficial de Oak para Let's Go, de Ken Sugimori.",
+  "para_que": "Pose y ropa de Oak moderno.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://www.deviantart.com/willdinomaster55/art/Professor-Oak-s-Lab-Background-939863010",
+  "fuente": "DeviantArt, WillDinoMaster55",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fondo del laboratorio donde se elige inicial (fan art).",
+  "para_que": "Distribución del laboratorio; sólo mirar.",
+  "licencia": "© del autor. No pegar."
+ },
+ {
+  "url": "https://www.pixiv.net/en/artworks/119328838",
+  "fuente": "pixiv",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pixel art en vóxeles del momento de elegir inicial en el laboratorio.",
+  "para_que": "Composición de la mesa con las Pokébolas.",
+  "licencia": "© del autor. No pegar."
+ },
+ {
+  "url": "https://www.artstation.com/artwork/GeqxP3",
+  "fuente": "ArtStation",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Laboratorio de Oak en 3D, basado en Let's Go y el anime.",
+  "para_que": "Luz y materiales del interior.",
+  "licencia": "© del autor. No pegar."
+ },
+ {
+  "url": "https://bulbapedia.bulbagarden.net/wiki/Ash's_clothing",
+  "fuente": "Bulbapedia",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Toda la ropa de Ash por región.",
+  "para_que": "No mezclar ropas: usar la de Kanto.",
+  "licencia": "Texto de wiki; imágenes © The Pokémon Company. Sólo referencia."
+ },
+ {
+  "url": "https://www.netflix.com/mx/title/81046846",
+  "fuente": "Netflix México",
+  "ancho": null,
+  "alto": null,
+  "que_es": "La película Pokémon: ¡Yo te elijo! (2017), con doblaje latino. Rehace el capítulo 1 en alta.",
+  "para_que": "Fotogramas 1080p del laboratorio: 00:03:03 a 00:05:11; Pokébola del rayo hacia 00:04:12; Oak presenta a Pikachu en 00:04:34 (minutos de un subtítulo no oficial).",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=soM4HD71b6k",
+  "fuente": "Canal oficial de Pokémon en YouTube (Japón)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Capítulo 1 del anime, «ポケモン！きみにきめた！», completo y oficial.",
+  "para_que": "Ver el soporte de Pokébolas original y la Pokébola del rayo. Minuto sin verificar.",
+  "licencia": "© Nintendo / Creatures / GAME FREAK / The Pokémon Company. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://www.gameuidatabase.com/gameData.php?id=96",
+  "fuente": "Game UI Database",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Capturas de interfaz de Let's Go, Pikachu! y Eevee!",
+  "para_que": "Caja y menús modernos de Kanto.",
+  "licencia": "Capturas © de sus dueños; sólo referencia."
+ },
+ {
+  "url": "https://www.gameuidatabase.com/gameData.php?id=1579",
+  "fuente": "Game UI Database",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Capturas de interfaz de Escarlata/Púrpura (caja con pestaña azul marino).",
+  "para_que": "Alternativa moderna de caja de diálogo.",
+  "licencia": "Capturas © de sus dueños; sólo referencia."
+ },
+ {
+  "url": "https://media.sketchfab.com/models/c22dab8fc3064c76a0c502d64555a74f/thumbnails/3c0ec05a5a3b41559ded3e8f6d02a3a7/21db0147ca2642a89ee73b499be5a230.jpeg",
+  "fuente": "Sketchfab (jacobjksn42) — https://sketchfab.com/3d-models/pikachu-c22dab8fc3064c76a0c502d64555a74f (confirmado por la API de Sketchfab, 24-sep-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Modelo 3D de Pikachu low-poly CON rig, 4500 caras",
+  "para_que": "Punto 18: alternativa ligera al modelo de Eleanie si el proyecto de Blender necesita menos polígonos (lámina 2 o pose lejana)",
+  "licencia": "CC BY 4.0 — crédito obligatorio a jacobjksn42, confirmado por la API de Sketchfab"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ae2858d8d212406ebe95927d4f17d328",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pokemon RSE - Pokemon Center de Wesai",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b23b6b253207463c97db2a7092adff74",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pokemon FireRed - Player's Room de Wesai",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fcc6fcbc2dcd48a2ad72c30b4af29797",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pokemon Professor Oak de JackTheOhio",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c4b9596279a14cbea8b286d246fce887",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pikachu de Murky",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-66f215311fb54c4a88de995f135dff4b",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: PiKaChuu de LeafChan",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-892e724659c44d6c8771252523075b54",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pokemon master's cap de Nick Pekarsky",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a13d6bc3844f4253b694f4b6a3074a01",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Pokeballs (Pokemon) de Yanez Designs",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Ash (Satoshi) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato oficial de Pikachu en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 359,
+  "que_es": "Retrato oficial de James (Kojirou) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 360,
+  "que_es": "Retrato oficial de Jessie (Musashi) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 360,
+  "que_es": "Retrato oficial de Brock (Takeshi) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 360,
+  "que_es": "Retrato oficial de Misty (Kasumi) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 360,
+  "que_es": "Retrato oficial de Meowth (Nyarth) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4848-vR9au1dEKjyy.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Gary (Shigeru) en AniList.",
+  "para_que": "Cara del personaje en el anime (punto 7).",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4012/5140003544_49f6d5dbdc_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1000,
+  "alto": 667,
+  "que_es": "Pokémon painting",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor peter_carrot"
+ },
+ {
+  "url": "https://live.staticflickr.com/2635/3679767253_0b4eb66df1_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Pikachu welcomes you to the Pokémon Centre",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor mutantlog"
+ },
+ {
+  "url": "https://live.staticflickr.com/15/21765104_13e844758b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Other plush Pokémon",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor mutantlog"
+ }
 ]

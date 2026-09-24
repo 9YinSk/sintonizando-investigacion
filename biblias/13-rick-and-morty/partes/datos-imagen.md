@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es)
 
 ## Rick Sanchez: las imágenes más grandes de la wiki (13 en total)
 _Fuente: https://rickandmorty.fandom.com/wiki/Rick_Sanchez_
@@ -82,6 +82,15 @@ _Fuente: https://rickandmorty.fandom.com/wiki/Pickle_Rick_%28episode%29_
 - 1920×1080 · S3e3 whos toilet.png · https://static.wikia.nocookie.net/rickandmorty/images/9/9e/S3e3_whos_toilet.png
 - 1920×1080 · S3e3 who would do this.png · https://static.wikia.nocookie.net/rickandmorty/images/3/30/S3e3_who_would_do_this.png
 - 1920×1080 · S3e3 who are these people.png · https://static.wikia.nocookie.net/rickandmorty/images/d/d0/S3e3_who_are_these_people.png
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de rickandmorty.fandom.com (5 páginas y sus galerías)…
+  248 imágenes enlazadas, 220 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/rick-and-morty
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
@@ -175,7 +184,54 @@ _Fuente: https://wallhaven.cc_
 ## Modelos 3D descargables con licencia (Sketchfab)
 _Fuente: https://sketchfab.com_
 
+**«Rick and Morty»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Rick»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Morty»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Summer»**
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Summer Smith 01 Pose · Placidone · CC Attribution · ♥ 46 · https://sketchfab.com/3d-models/none-a5d7833552364af6960835491e24a20a
+- Squanchy · David Glynch · CC Attribution · ♥ 28 · https://sketchfab.com/3d-models/none-32e69d89a7fe4ec188f2052a9a597ea6
+- Summer Smith · sean4297 · CC Attribution · ♥ 22 · https://sketchfab.com/3d-models/none-eabb8f7435614d5c9c180a1dd7eeb19f
+- Summer Rick and Morty · Mr.Vatrushka · CC Attribution · ♥ 0 · https://sketchfab.com/3d-models/none-92ba76fe128f4b89b0e4478532be1570
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
 _Fuente: https://openverse.org_
 
+- 1024×768 · LEGO® Rick and Morty: Rick's Spaceship car WABALABADUPDUP! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/659/22343854161_9526c15c82_b.jpg
+- 1024×683 · LEGO® Rick and Morty: 'What is my purpose?' · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3952/15354103210_b5d7f625e5_b.jpg
+- 1024×871 · Custom Lego Rick and Morty · AntMan3001 · CC BY-SA 2.0 · https://live.staticflickr.com/7457/27297929844_d25b81a62c_b.jpg
+- 1024×577 · LEGO® Rick and Morty: Steampunk'd · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/7696/17072580255_d5e1f72f82_b.jpg
+- 1024×710 · LEGO® Rick and Morty: Cthulu (from the opening theme song) · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/7629/16853651967_1516d4b804_b.jpg
+- 1024×683 · Rick and Morty · pasukaru76 · CC CC0 1.0 · https://live.staticflickr.com/4222/34861592711_f59e808a61_b.jpg
+- 1024×768 · LEGO® Rick and Morty: Wabalabadupdup! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/5594/14992447717_6c0e194e27_b.jpg
+- 1024×576 · Rick and Morty Season 1 DVD Art Contest · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3946/15498437286_446ee62cb7_b.jpg
+- 1024×710 · LEGO® Rick and Morty: Cthulu (from the opening theme song) · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/8788/16440907633_83b56094fe_b.jpg
+- 1024×496 · LEGO® Rick and Morty: Dan dan dada da dadaa! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/8687/16232330754_2d6e7148a0_b.jpg
+- 1024×683 · Rick and Morty Exploit the Fans for Art DVD Contest Entry #2 · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3956/15353714487_b17dba0e0f_b.jpg
+- 1024×759 · 20180106 1647 - Rick And Morty legos - Ricks & Meeseeks - 28471676 · Claire CJS · CC BY-NC-SA 2.0 · https://live.staticflickr.com/1850/42526348900_6cbf917958_b.jpg
+- 1024×683 · Wondercon 2016 - Rick and Morty Cosplay · W10002 · CC BY-SA 2.0 · https://live.staticflickr.com/1457/25988428002_52e77bfd60_b.jpg
+- 500×500 · Rick and Morty / 100 yrs / dot com · ▓▒░ TORLEY ░▒▓ · CC BY-SA 2.0 · https://live.staticflickr.com/7194/13989730662_610dc75491.jpg
+- 768×1024 · Rick and Morty BrickHeadz · LegoSamBo · CC BY-NC-SA 2.0 · https://live.staticflickr.com/4290/34837490110_2700425327_b.jpg
+- 1024×768 · Rick and Morty from Adult Swim marketing next to the Flatiron Building · Marianne O'Leary · CC BY 2.0 · https://live.staticflickr.com/7316/11300393144_9a472f5768_b.jpg
+- 1024×768 · Adult Swim's Rick and Morty marketing next to the Flatiron Building · Marianne O'Leary · CC BY 2.0 · https://live.staticflickr.com/3676/11300428003_760e996845_b.jpg
+- 680×1024 · Rick and Morty · Omar Echeverria · CC BY-NC-SA 2.0 · https://live.staticflickr.com/4350/36554909732_43b7f57c2e_b.jpg
+- 5184×3456 · Wondercon 2016 - Rick and Morty Cosplay (25988428002) · William Tung from USA · CC BY-SA 2.0 · https://upload.wikimedia.org/wikipedia/commons/b/b9/Wondercon_2016_-_Rick_and_Morty_Cosplay_%2825988428002%29.jpg
+- 683×1024 · Rick and Morty · Courtarro · CC BY-NC-ND 2.0 · https://live.staticflickr.com/4417/36281389373_fd594bb170_b.jpg
