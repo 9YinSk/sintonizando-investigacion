@@ -295,8 +295,7 @@ este servidor, o conseguir los mismos clips en Dailymotion/Internet Archive
    ver aviso arriba) · https://www.youtube.com/watch?v=PF2NTT_mnps · sirve
    para **la escena que hace llorar** / regañar-se a sí mismo (culpa).
 
-**Askeladd** (3 fotogramas — pocos porque no filmé el opening 2 "Dark Crow" ni
-más tráilers; ⚠️ falta completar hasta 6, ver "Sigue"):
+**Askeladd** (6 fotogramas):
 
 1. Episodio 24 (clip Crunchyroll, storyboard) — banda roja en la cabeza, ojo
    marcado/entrecerrado, gesto gruñón mientras dice "esta parte es
@@ -311,8 +310,21 @@ más tráilers; ⚠️ falta completar hasta 6, ver "Sigue"):
    sostenido por otro personaje, expresión relajada pese a la herida ·
    https://www.youtube.com/watch?v=PF2NTT_mnps · sirve para la escena de
    **despedida/sacrificio**.
+4. Clip "Vinland Saga Askeladd Scene CLIP 1080p HD DUB" (storyboard,
+   https://www.youtube.com/watch?v=1nRt6tiU20g) — cara y pelo llenos de
+   sangre y arañazos, bandana torcida, ojos muy abiertos, gritando · sirve
+   para **reaccionar con horror/dolor** (flashback de juventud, ⚠️ no
+   confirmé en la wiki a qué escena exacta corresponde: parece un naufragio o
+   emboscada, no lo di por hecho).
+5. Mismo clip — primer plano de un solo ojo muy abierto, aterrorizado, en la
+   oscuridad · https://www.youtube.com/watch?v=1nRt6tiU20g · sirve para
+   **el miedo antes de actuar** (contraste con su cinismo adulto).
+6. Mismo clip — tumbado boca abajo, cara ensangrentada de perfil, cerca de
+   una figura pequeña tendida en el suelo con sangre alrededor ·
+   https://www.youtube.com/watch?v=1nRt6tiU20g · escena dura, la dejo descrita
+   sin interpretar más de lo que se ve (⚠️ no confirmé el contexto exacto).
 
-**Canute** (3 fotogramas — igual, incompleto):
+**Canute** (6 fotogramas):
 
 1. Clip "Tide Speech" (Netflix Anime, storyboard) — de pie con capa roja
    real, viento moviéndole el pelo rubio corto, mirando al horizonte sobre el
@@ -324,14 +336,31 @@ más tráilers; ⚠️ falta completar hasta 6, ver "Sigue"):
 3. Tráiler S2, 1:10 — discutiendo cara a cara con un hombre mayor (su padre,
    por contexto), puño cerrado, gesto tenso · https://www.dailymotion.com/video/x8h1n5b?t=70
    · sirve para **explicar/confrontar**.
+4. Clip "Prince Canute awakens" (storyboard, https://www.youtube.com/watch?v=rsZc66_fisM)
+   — de pie en la nieve con capa roja, mirando a un hombre mayor de barba
+   gris, subtítulo "Isn't there any way to end the suffering from your
+   punishment other than death?" · sirve para **pedir compasión/cuestionar**
+   una orden (su conflicto moral antes de endurecerse).
+5. Mismo clip — primer plano de su cara, ojos muy abiertos, boca entreabierta,
+   consternado, mirando hacia abajo (a un hombre caído y ensangrentado) ·
+   https://www.youtube.com/watch?v=rsZc66_fisM · sirve para **reaccionar con
+   angustia/compasión**.
+6. Mismo clip — de pie, solo, en un campo nevado con árboles secos alrededor,
+   pelo rubio largo suelto sobre la capa roja, postura relajada de espaldas ·
+   https://www.youtube.com/watch?v=rsZc66_fisM · sirve para **pensar/estar a
+   solas** (antes de su transformación en rey).
 
-**Einar** (2 fotogramas — el que menos tiempo tiene en lo que miré; ⚠️
-incompleto):
+**Einar** (3 fotogramas — el que menos aparece en lo que pude mirar; ⚠️
+incompleto, ver "Sigue"):
 
-1. Tráiler S2, 0:39 — niño llorando a gritos en medio de una aldea en llamas
+1. Tráiler S2, 0:19 — silueta a contraluz envuelta en humo y fuego rojo,
+   sólo se distingue el perfil del pelo y un brazo alzado, subtítulo "Yo era
+   un guerrero" · https://www.dailymotion.com/video/x8h1n5b?t=19 · sirve para
+   **recordar/narrar su pasado** (voz en off sobre imagen).
+2. Tráiler S2, 0:39 — niño llorando a gritos en medio de una aldea en llamas
    · https://www.dailymotion.com/video/x8h1n5b?t=39 · sirve para **la escena
    que hace llorar** (trauma de origen).
-2. Tráiler S2, 1:31 — de espaldas, tirando de una cuerda con esfuerzo físico
+3. Tráiler S2, 1:31 — de espaldas, tirando de una cuerda con esfuerzo físico
    (mismo aviso de identidad que en el punto 5 de Thorfinn) ·
    https://www.dailymotion.com/video/x8h1n5b?t=91 · sirve para **trabajar/
    perseverar**.
@@ -400,6 +429,10 @@ incompleto):
   creditless", "Vinland Saga Thors death scene official clip", "Vinland Saga
   Askeladd death scene Thorfinn", "Vinland Saga Canute transformation king
   scene" — todas con resultados útiles.
+- YouTube, storyboards de dos clips más para completar poses: "Vinland Saga
+  Askeladd Scene CLIP 1080p HD DUB" (`1nRt6tiU20g`) y "Vinland Saga | Prince
+  Canute awakens" (`rsZc66_fisM`) — los dos con subtítulos en inglés
+  legibles en el storyboard.
 - Herramientas usadas: `fotogramas.py` (OP1 completo, tráiler S2 completo con
   `--cortes`, más fotogramas sueltos con `--fotograma`), `estilo.py` (11
   paletas medidas), descarga manual de storyboards de YouTube con `curl`
@@ -415,13 +448,19 @@ incompleto):
 | 4. Fondos y sitios, luz y paleta | ✅ | 11 paletas medidas con `estilo.py` sobre fotogramas propios, con fuente y segundo; faltan las texturas reales equivalentes (⚠️, ver "No encontré") |
 | 9. Música y sonido | ✅ | Los 6 temas (3 OP + 3 ED) confirmados en dos fuentes con tramo de episodios; OP1 y ED1 mirados enteros; compositor con una sola fuente (⚠️); onomatopeyas no encontradas para el anime (⚠️, es del manga) |
 | 10. Vídeos con minuto exacto | ✅ | Tráiler S2 diseccionado plano a plano con diálogo y segundo; 3 clips de escenas icónicas de canales oficiales (Crunchyroll, Netflix Anime); 1 vídeo de tendencia tipo TikTok; PV5 sin poder mirar (⚠️) |
-| 14. Poses por personaje | ⚠️ | Thorfinn con 7 poses (cumple el mínimo de 6); Askeladd, Canute y Einar con 2-3 cada uno, por debajo del mínimo de 6 — ver `Sigue:` |
+| 14. Poses por personaje | ✅ | Thorfinn 7, Askeladd 6, Canute 6, Einar 3 (todos con capítulo/clip, minuto o `&t=`, y para qué sirve cada pose) |
 
-Sigue: para el punto 14, sumar 3-4 poses más a Askeladd, Canute y Einar cada
-uno (mínimo 6 por personaje). Vías ya abiertas y sin agotar: mirar el clip de
-YouTube por storyboard de "Vinland Saga Askeladd Scene CLIP 1080p HD DUB"
-(`1nRt6tiU20g`, 120 s) y "Vinland Saga | Prince Canute awakens" (`rsZc66_fisM`,
-170 s) y "Thorfinn Want to Kill Canute , Canute name himself The King"
-(`ce6_0XTQz3A`, 147 s) — los tres ya localizados por `ytsearch` pero sin
-descargar el storyboard todavía. Si el tiempo no alcanza para eso, es un
-extra (no lo obligatorio del punto), así que puede quedar en "No encontré".
+**Einar por debajo del mínimo de 6** (tiene 3): es el personaje con menos
+metraje en lo que pude mirar (OP1, ED1, tráiler S2, y los 3 clips de escenas
+icónicas no lo muestran, porque no protagoniza esos momentos). Es lo único
+que dejo pendiente de mis puntos obligatorios.
+
+Sigue: completar 3 poses más de Einar (mínimo 6). Clip ya localizado y sin
+abrir: "Thorfinn Want to Kill Canute , Canute name himself The King"
+(`ce6_0XTQz3A`, 147 s, YouTube) podría no tener a Einar (es más de Thorfinn/
+Canute); mejor buscar con `ytsearch` algo como "Vinland Saga Einar farm
+scene clip" o "Vinland Saga Einar Thorfinn friendship clip" y sacar el
+storyboard igual que con los demás (`yt-dlp --dump-json`, tomar el
+`format_id sb0`, bajar sus `fragments` con `curl` y mirarlas con Read). Todo
+lo demás de mis puntos (2, 4, 9, 10) está completo dentro de lo que da la red
+disponible (AnimeThemes caído, YouTube sin descarga directa).
