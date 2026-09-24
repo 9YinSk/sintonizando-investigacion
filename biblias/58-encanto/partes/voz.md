@@ -158,6 +158,10 @@ Fuente base de personalidad e historia: `disney.fandom.com` (Personality/Backgro
 ### Agustín Madrigal (padre de Mirabel, sin don)
 - Carácter: torpe, propenso a accidentes, comprende a Mirabel porque tampoco «pertenece» del todo (se casó dentro de la familia sin tener magia). · disney.fandom.com/wiki/Agustin_Madrigal#Personality · ✅
 
+### Popularidad: revisión del dato de partida y qué se encontró
+- El conteo de Danbooru en `datos-voz.md` («444 dibujos de la etiqueta encanto») **no sirve**: se comprobó y la lista de personajes que trae (Raven de DC, Elsa y Anna de Frozen, Iron Man, Mickey Mouse…) no son de Encanto — Danbooru es un sitio de fan-art de anime/manga y la etiqueta «encanto» ahí choca con otra cosa (la palabra española «encanto», no la película). Se descarta como fuente para este punto. · comprobado a mano sobre `datos-voz.md` · ✅ (confirmado que el dato no aplica)
+- No existe encuesta oficial de Disney con resultados públicos (ver «No encontré»). Como proxy de cariño del público se usó Reddit r/Encanto (foro, no encuesta): Luisa es la más citada como favorita en el hilo de mayor puntaje (378 votos); Bruno es señalado en varias reseñas de prensa (ver Punto 21) como el personaje secundario que más trascendió, por la canción, pese a aparecer poco en pantalla — «un personaje secundario más querido que lo esperado», justo el tipo de dato que pide ENCARGO.md. · r/Encanto vía arctic-shift + reseñas de prensa halladas por búsqueda · ✅
+
 ## Punto 20 — Gustos y detalles de cada personaje
 Del infobox de personaje de `disney.fandom.com` (campos `likes`/`dislikes`, con referencia directa a un tuit de Jared Bush —guionista y codirector— citado dentro de la propia wiki para el dato de comida de Bruno) · ✅ (wiki + tuit del staff citado en la wiki) salvo que se diga lo contrario.
 
@@ -206,3 +210,32 @@ Del infobox de personaje de `disney.fandom.com` (campos `likes`/`dislikes`, con 
   - No reducir a Félix (el único personaje afrocolombiano principal) a un chiste secundario sin profundidad: la propia crítica latina (11 críticas reunidas en latinamedia.co) señala que los personajes afrocolombianos quedaron en roles secundarios/terciarios sin desarrollo propio — si se hace una lámina con él, dale peso real, no sólo comedia · latinamedia.co («11 Latina Critics on 'Encanto'») · ✅
   - No dibujar a la Abuela Alma sin su vela del milagro o su bastón: son su silueta reconocible, no un accesorio decorativo (ver Punto 13) · deducido de las hojas de personaje, imagen a confirmar con el investigador de imagen · ⚠️
   - No presentar a Encanto como «genérico latino»: para el público colombiano del servidor, la gracia es que ES Colombia específicamente (Eje Cafetero, Guatapé/Barichara como inspiración de arquitectura, la Guerra de los Mil Días como trasfondo histórico real) — no un "país latinoamericano inventado" · pressreader.com/Guardian (búsqueda) · ✅
+
+## Lo mejor para la lámina (máx. 5 líneas)
+- El dato más fuerte para «Colombia y la música»: Angie Cepeda (Julieta), Carolina Gaitán (Pepa), Mauro Castillo (Félix) y Maluma (Mariano) son la MISMA voz en inglés y en español — no hay doblaje real ahí, es la actriz/actor original hablando su propio idioma.
+- Voces medidas con datos reales (no de oído): Isabela y Alma comparten el registro más agudo (342 Hz) al confrontar a Mirabel; Camilo tiene la voz más rápida y expresiva de todo el reparto (4.55 palabras/s, 17.3 semitonos) — útil para animar diálogos de Camilo con mucho movimiento.
+- Luisa («Surface Pressure»/presión de cargar con todo) es el personaje secundario con el que más se identifica el público adulto en foros — buen candidato a protagonizar una lámina de un canal sobre «carga de trabajo» o similar.
+- Comida colombiana real como gusto oficial de personaje (ajiaco de Bruno y Julieta, bandeja paisa de Luisa, chocolate santafereño de Agustín): permite props auténticos y no genéricos en la lámina.
+- La Abuela Alma sin su vela o su bastón deja de leerse como ella: son irrenunciables si se la dibuja.
+
+## No encontré
+- ⚠️ Encuesta OFICIAL de popularidad de Disney (Twitter/D23/redes oficiales): no existe publicada; se usó como proxy datos de foro (Reddit) y prensa de crítica. Búsquedas: «Encanto encuesta personaje favorito oficial Disney Twitter poll resultado», «D23 Encanto character ages».
+- ⚠️ Altura en centímetros de los personajes: Disney no publicó un databook con medidas para esta película (a diferencia de animes). Búsqueda: «Encanto character height cm official».
+- ⚠️ Muestra de audio oficial en español de Bruno Madrigal (Alejandro Riaño): la ficha de Doblaje Wiki la trae vacía y no apareció en el tráiler transcrito ni en la búsqueda de `allimages` de la wiki.
+- ⚠️ Minuto exacto dentro de la PELÍCULA completa (no del tráiler) de las escenas que más hacen llorar («Dos Oruguitas», disculpa de la Abuela, «Waiting on a Miracle»): la única copia de la película completa encontrada en Dailymotion (`x91i0dk`, 91:30) fue dada de baja durante esta investigación («Not found» al intentar bajarla); habría que mirarla entera con `fotogramas.py --cortes` si aparece de nuevo, tarea pesada que corresponde más al investigador de vídeo.
+- ⚠️ Fandubs y covers hispanos con vistas verificadas y grandes (más allá de los 2-3 ejemplos hallados por búsqueda): YouTube bloquea este servidor y Dailymotion casi no tiene fandubs de Encanto, sólo clips oficiales o de prensa de cine.
+- ⚠️ Artículo específico de ANMTV sobre el doblaje de Encanto (lo pide ENCARGO.md como fuente): no apareció en `site:anmtv.la Encanto doblaje`; se cubrió el punto igual con Doblaje Wiki + Wikipedia ES + búsqueda sobre disneylatino.com (bloqueado directo con 403, sólo el titular indexado).
+- ⚠️ TV Tropes (`Memes/Encanto`) bloqueado en este servidor tanto en directo (403 Cloudflare) como vía Wayback Machine («Blocked by egress policy»): se cubrió el punto 12 con Reddit y búsqueda general en su lugar.
+
+## Bitácora de búsqueda
+- API Doblaje Wiki (`action=parse&prop=wikitext`) sobre la página `Encanto`: reparto completo, ficha de producción, «Datos de interés» (español) · directa, sin buscador.
+- API Doblaje Wiki `action=query&list=search` y `list=allimages` para confirmar actor de Bruno y buscar audio suyo (sin éxito) · directa.
+- API `disney.fandom.com` (`action=parse&prop=wikitext`) para 12 personajes (Mirabel, Bruno, Luisa, Isabela, Alma, Camilo, Dolores, Pepa, Félix, Antonio, Julieta, Agustín): Personality, Background, infobox `likes`/`dislikes`/`alias`/edades (inglés) · directa, sin buscador.
+- Wikipedia en español (`action=query&prop=revisions`) sobre «Encanto (película)», sección de reparto y doblaje · directa.
+- `herramientas/voz.py` sobre 7 muestras mp3 oficiales de Doblaje Wiki (Mirabel, Alma, Camilo, Dolores, Luisa, Isabela, Pepa) y sobre el tráiler doblado latino de Dailymotion (`x88agws`) · transcripción + ficha de tono/velocidad, en español.
+- `herramientas/fotogramas.py --cortes` sobre el mismo tráiler de Dailymotion: 90 fotogramas, 2 hojas de contacto, miradas con Read.
+- API de Dailymotion (`api.dailymotion.com/videos?search=`) en español: «No se habla de Bruno cover», «Dos Oruguitas cover», «Encanto fandub», «Encanto parodia» → sobre todo clips oficiales/prensa de cine, pocos fandubs reales.
+- Reddit vía Arctic Shift (`arctic-shift.photon-reddit.com`) sobre r/Encanto, en inglés: «underrated», «Camilo», «Dolores», «meme», «favorite», «cry», «worst», «iconic» (las tres últimas sin resultados).
+- WebSearch (9 búsquedas de las ~50 disponibles), en español e inglés: doblaje/ANMTV/Ricardo Tejedo; fandubs «No se habla de Bruno»; Oscar/Grammy/Billboard; memes de fandom; crítica de representación colombiana/estereotipos; encuesta de personaje favorito; sin doblaje de España; D23 edades oficiales; escena de la disculpa de la Abuela.
+- Intentos fallidos, con causa: TV Tropes directo (403 Cloudflare) y vía Wayback Machine (bloqueado por política de red del servidor, «Blocked by egress policy» en `web.archive.org`); disneylatino.com directo (403); eldoblaje.com con el ID equivocado (salió «El Encanto», película española de 2016, sin relación); película completa en Dailymotion dada de baja a mitad de la investigación («Not found»).
+- Imágenes/audio pesados NO subidos al repositorio: quedaron en `/tmp/claude-0/trabajo/58-encanto-voz/` (mp3 descargados, hojas de contacto del tráiler, wikitext de personajes).

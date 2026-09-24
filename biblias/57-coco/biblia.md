@@ -871,3 +871,52 @@ Metadatos sacados con `yt-dlp` (sin iniciar sesión) ✅:
 - **El título:** el de trabajo era «Día de los Muertos»; tras lo de la marca se cambió. Unkrich: *«I liked that people wouldn't know what [the title] meant»*: sólo se entiende al final ✅.
 - **La chancla** de Abuelita y el **zapato** de Imelda: la familia de zapateros usa el zapato como arma.
 
+## 3 conceptos de lámina
+
+Los tres son para **`#🎧・que-estas-escuchando`** (§ El canal). Textos del canal: «La canción que llevas en bucle. Pega el enlace y di por qué.» Las frases de personaje marcadas «propuesta» **no son de la película**: van en su voz (§17.2), pero hay que decirlo si se usan.
+
+### Concepto 1 · «La carta de Recuérdame» (el recomendado)
+
+- **El sitio real:** el cuarto de Mamá Coco al atardecer, la luz más cálida de la película (1:31:00; `#A13921`, `#6C2A18`, `#C66F41`, `#FEF8DB`). Referencias: hoja de emociones 1:31:52, 1:32:52 y 1:33:07.
+- **El objeto real (Blender):** el **atado de cartas de Héctor** que Coco guardó, con la **foto rota** encima, en una mesita junto a la silla de mimbre. La carta de arriba, abierta, es la ficha del canal. Papel con pliegues reales (ambientCG Paper001, CC0): la tinta sigue las arrugas (regla 1). La guitarra apoyada al lado (modelo CC BY de Sketchfab, §3).
+- **Los personajes:** **Mamá Coco** sentada, **señalando la carta** con la mano temblorosa (pose 1:32:12-1:32:52) o empezando a sonreír (1:31:40-1:32:04). **Miguel** de rodillas con la guitarra, de perfil en primer término (pose 1:30:44-1:31:16). Volumen de la cara: B2. Ropa: `Mamacoco.jpg` y §15.
+- **Cómo habla:** sin globo. **El texto está escrito en las cartas** (el objeto es el cuadro). Título en **Bevan**, cuerpo en **Open Sans** o **Baloo 2**. Si se quiere letra manuscrita, comprobar antes tildes, ñ, ¿ y ¡ con fontTools ⚠️ (no se probó ninguna). La frase de Miguel, abajo, en el **marco rojo y dorado con papel picado** (§6).
+- **Dónde va cada texto:**
+  - Sobre de la carta: «¿Qué estás escuchando?»
+  - Carta abierta, tres renglones: «La canción que llevas en bucle.» «Pega el enlace.» «Di por qué.»
+  - Reverso de la foto rota: «¿Disco nuevo? A musica-nueva.» «¿Tu cover? A demos-canto.»
+  - Miguel (propuesta): «Una canción no se olvida mientras alguien la cante.»
+- **Para que no quede plano:** la **mano de Coco con el brazo visible** y el rebozo naranja en primer plano (regla 7); el mástil de la guitarra cruzando por delante, desenfocado; luz de ventana lateral dorada con polvo en el aire; pétalos de cempasúchil sobre la mesa; el fondo del cuarto en penumbra.
+- **Por qué es el mejor:** es la escena más querida (§21), el corazón del canal («di por qué») y no se parece a ningún escenario con micrófono del servidor (§24).
+
+### Concepto 2 · «El neón del Sunrise Spectacular»
+
+- **El sitio real:** el gran escenario del Sunrise Spectacular, de noche (F3, F5, F6; «Coco Stage», 3328×2201). Paleta `#413453`, `#BEAFDB`, `#975053`, `#C37C82`, con focos del escenario de «Un Poco Loco» (`#3F4E90`, `#AF3562`).
+- **El objeto real (Blender):** los **letreros de neón** del escenario (F5 dice «Ernesto» con una guitarra de neón). Aquí el neón dice **«¿Qué estás escuchando?»**: el escenario del ladrón de canciones ahora enseña la canción de cada uno. Tubos con curva, bisel y emisión; una letra parpadeando. Delante, el **micrófono de pie** (51:00-51:24) y tres **atriles de la banda** de esqueletos con partituras.
+- **El personaje:** **Héctor**, el más querido según los indicios (§7). Pose de **carcajada** (45:52) o presentando con las **manos en la cintura** (A2), señalando el neón. Si va en dúo con Miguel: 49:08-49:16 (F3).
+- **Cómo habla:** **marco rojo y dorado con papel picado**, nombre «Héctor» en **Alfa Slab One**, texto en **Baloo 2** 700. Héctor (propuesta, con su «¡Epa!» real): «¡Epa! ¿Qué suena hoy?»
+- **Dónde va cada texto:**
+  - Neón: «¿Qué estás escuchando?»
+  - Marquesina bajo el neón: «La canción que llevas en bucle.»
+  - Partituras de los tres atriles: «Pega el enlace.» «Di por qué.» «¿Tu cover? A demos-canto.»
+  - Cartel pintado a mano al lado del escenario: «¿Disco nuevo? A musica-nueva.»
+- **Para que no quede plano:** esqueletos del público de espaldas en primer término, desenfocados (F6); papel picado colgando por delante; focos rosa y azul con volumen; el neón reflejado en las tablas; la ciudad en bokeh detrás.
+- **Ojo:** tiene que distinguirse de *Sing* (Teatro Moon, biblia 29): aquí mandan el neón, los esqueletos y el papel picado. Si el dueño prefiere Coco para **🎶・Karaoke**, este concepto sirve cambiando los textos.
+
+### Concepto 3 · «La aduana de las canciones»
+
+- **El sitio real:** la **Estación Marigold**, vestíbulo de hierro fundido inspirado en el Palacio de Correos de México, con arañas de luz cálida (28:00; `#241A21`, `#343353`, `#5B4D7D`, `#8366A4`, `#6C3824`). La aduana está en 26:48-27:12 y la puerta «Departures» en 1:34:32.
+- **El objeto real (Blender):** la **cabina de control con su pantalla**, que en la película escanea la foto de la ofrenda: **verde** si pasas, **«X» roja** si no. En la lámina alguien acerca su canción y la pantalla muestra su portada (regla 2: en una pantalla va una imagen, no texto suelto). La luz verde de la pantalla ilumina las caras.
+- **El personaje:** **Héctor** pasando por fin la aduana, con la sonrisa enorme de 1:34:29 (hoja de emociones). ⚠️ El agente de la cabina (voz latina de **Trino**) no tiene imagen en las partes: buscarla antes. El disfraz de Frida sería el gag perfecto, pero no hay fotograma localizado ⚠️.
+- **Cómo habla:** el título en un **letrero de la estación** con letras doradas (Bevan); la pantalla en **Baloo 2** (letra de interfaz); la frase de Héctor en el **marco rojo y dorado con papel picado**.
+- **Dónde va cada texto:**
+  - Letrero de la estación: «¿Qué estás escuchando?»
+  - Cartel sobre la cabina: «La canción que llevas en bucle.»
+  - Pantalla en verde: «Pega el enlace.» «Di por qué.»
+  - Pantalla con la «X» roja: «¿Disco nuevo? A musica-nueva.» «¿Tu cover? A demos-canto.»
+  - Héctor (propuesta): «¡Por fin! Con su porqué, pasa cualquiera.»
+- **Para que no quede plano:** arcos de hierro en perspectiva; arañas de luz arriba; la fila de esqueletos detrás, desenfocada; pétalos entrando por la puerta; reflejos en el suelo pulido.
+- **Por qué funciona:** la «X» roja explica «esto no va aquí» sin una palabra de más, y el fan reconoce al instante la aduana de los muertos.
+
+**Si una lámina se satura** (regla 5): la **lámina 2** lleva la lista de «lo que no va aquí» con los tres canales vecinos, en el mismo sitio y con otro plano.
+
