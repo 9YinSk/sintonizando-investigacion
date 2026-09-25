@@ -8,8 +8,9 @@ Cuenta: cuenta R47
 - Arranque (25-sep-2026, 03:20 UTC): rama juntada con todas las cuentas; herramientas instaladas; guardado cada 300 s.
 - 117 God of War: **COMPLETA** y subida (04:17). ✅21 ⚠️9 ❌0, 133 referencias, 71 webs, 254 minutos, 71 hex, 2347 líneas.
 - 118 Hellblade: 4 partes listas; redactor (Opus) en marcha desde 04:12.
-- 119 A Plague Tale: imagen, texto y voz (Sonnet) en marcha; video espera hueco.
-- 120-122: recolectados con hojas.
+- 119 A Plague Tale: 4 partes listas; redactor (Opus) en marcha desde 04:32.
+- 120 Days Gone: texto, voz y video (Sonnet) en marcha; imagen lista.
+- 121-122: recolectados con hojas; 123-127 recolectando.
 
 ## Avisos para el dueño
 
@@ -48,3 +49,4 @@ Cuenta: cuenta R47
 | 119 | texto | Sonnet | 17 | 218 mil |
 | 119 | voz | Sonnet | 17 | 204 mil |
 | 120 | imagen | Sonnet | 12 | 181 mil |
+| 119 | video | Sonnet | 18 | 225 mil |
