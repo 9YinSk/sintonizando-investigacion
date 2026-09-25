@@ -8,6 +8,25 @@ fecha: 2026-09-24
 # Biblia · Lilo & Stitch — para #fotos
 
 > [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada (24-25 de septiembre de 2026), con la red abierta.**
+>   Cuatro investigadores (imagen, vídeo, voz y texto) dejaron sus notas en
+>   `partes/`, y el redactor las metió aquí sección por sección. Esta vez
+>   **sí se miraron vídeos**: la película de 2002 entera en Internet Archive
+>   (copia `lilo-stitch-2002_202609`, 85 min, audio francés, imagen
+>   original), el tráiler de 2002, los créditos finales, el luau en 1080p y
+>   el tráiler latino de 2025 en Dailymotion, con `fotogramas.py`. Colores
+>   medidos con Pillow y `estilo.py`. Doblaje comprobado en Doblaje Wiki
+>   (API) y The Dubbing Database. Licencias de Sketchfab leídas en su API.
+>   Letras comprobadas con fontTools. 3 hojas de contacto en `hojas/`.
+> - **Ojo con los minutos**: los de la primera pasada (formato `00:22:54`)
+>   salen de subtítulos del Blu-ray. Los de la segunda (formato `22:10` y
+>   enlaces `?t=`) salen de la copia de Internet Archive: coinciden ±10 s,
+>   a veces hasta ~30 s por los créditos iniciales distintos.
+> - Lo que sigue abajo es el recuadro de la **primera pasada** (24-sep,
+>   red cerrada). Lo dejo como historia; lo que la segunda corrigió está
+>   en «Segunda pasada · qué cambió».
+>
+> **Primera pasada:**
 > - La red de esta sesión estaba cerrada. Fandom (también Doblaje Wiki y la
 >   wiki de Disney), Wikipedia, YouTube, IMDb, clip.cafe, eldoblaje.com,
 >   ANMTV, Game UI Database y los espejos de Fandom (BreezeWiki,
@@ -94,7 +113,9 @@ Una idea cada uno, sin «·», «—» ni paréntesis:
 
 - El 9 es una **adaptación** de la línea de 00:22:54. **No encontré la
   frase exacta del doblaje latino** ⚠️. Hay que oírla en la película
-  (Disney+) antes de rotularla como cita.
+  (Disney+) antes de rotularla como cita. **2.ª pasada**: la parte de voz
+  tampoco la encontró (sus 2 tandas se agotaron; queda ⚠️ en la tabla de
+  cumplimiento).
 - Alternativa de gancho, con frase latina sí documentada: «**Ohana
   significa familia**» (§10). Pero es la frase más gastada de la
   franquicia. Para un canal de fotos, la de la cámara es más propia.
@@ -111,7 +132,7 @@ blanco. Agrupadas en cuatro páginas o cuatro filas:
 | **Qué sale** | Paisaje · Retrato · Naturaleza · Ciudad · Nocturna | Paisaje: acantilados de Kauai. Retrato: un turista de la pared de Lilo (00:22:57). Naturaleza: el bosque donde Stitch se pierde (00:55:31). Ciudad: la calle del pueblo, inspirada en Hanapepe. Nocturna: la estrella fugaz (00:23:10). |
 | **Con qué** | Analógica · Con el móvil · Con cámara | Analógica: la cámara de carrete de Lilo. Con cámara: la misma, vista de frente. Con el móvil: la videollamada del final de 2025 ⚠️. |
 | **Cómo quedó** | Editada · Sin editar | La misma foto dos veces: una con colores de acuarela, otra tal cual. |
-| **Detrás de cámara** | Detrás de cámara | Una foto del montaje final: la familia arreglando la casa (01:17:18 en adelante) ⚠️ lo que se ve. |
+| **Detrás de cámara** | Detrás de cámara | Una foto del montaje final: la familia arreglando la casa (01:17:18 en adelante) ⚠️ lo que se ve. **2.ª pasada, visto**: la foto de familia de los créditos con **Stitch sentado fuera del marco**, colado en la esquina ([créditos, 1:20](https://archive.org/details/lilo-stitch-3?t=80)) ✅. Es el «detrás de cámara» perfecto. |
 
 - En la tabla de arriba el «·» separa etiquetas; **en la lámina no se
   usa**: cada etiqueta va en su foto.
@@ -197,9 +218,35 @@ buscador sobre listas de frases; no oído).
 | 00:40:27 | Lilo le lee a Stitch **El Patito Feo** | Nocturna, interior |
 | 00:46:05 | Surf con David: «Hawaiian Roller Coaster Ride» | **Paisaje**, acción |
 | 00:52:51 | Nani canta «Aloha ʻOe» a Lilo | Retrato íntimo |
-| 00:55:31 | Stitch, solo en el bosque con el libro: «Lost.» 00:55:41: «I'm lost.» | Naturaleza, luz de amanecer ⚠️ |
+| 00:55:31 | Stitch, solo en el bosque con el libro: «Lost.» 00:55:41: «I'm lost.» | Naturaleza, **de noche**: luz azul de luna y sin música (2.ª pasada, visto en [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327); antes decía «luz de amanecer», de memoria) ✅ |
 | 01:15:00 | Stitch: «This is my family. I found it all on my own. It's little and broken… But still good.» | Foto de familia |
 | 01:15:48 | Lilo: «I paid two dollars for him. See this stamp? I own him.» | El papel con sello: otro texto-objeto |
+
+### 2.4 Lo que se vio en vídeo (Nuevo, 2.ª pasada)
+
+Mirado con `fotogramas.py` en Internet Archive y Dailymotion (YouTube
+pedía iniciar sesión). Los minutos son **de cada vídeo**, con enlace.
+
+| Vídeo y minuto | Qué se ve | Para #fotos |
+|---|---|---|
+| Película 2002, [22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330) | Lilo sentada en la cama, abrazada a su peluche verde, mirando **la pared de fotos de turistas**, mirada baja ✅ | La pared de fotos, vista por fin. Tono triste |
+| Película 2002, [20:50](https://archive.org/details/lilo-stitch-2002_202609?t=1250) → 23:15 | Nani la arrastra a casa, bronca, Lilo llora sola con el peluche (21:30-22:15), Nani entra y se duermen abrazadas (22:20-22:55) ✅ | «Regañar → hacer las paces», para lámina en pareja |
+| Película 2002, [31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904) | Lilo y Stitch a carcajadas en el cohete de monedas «Space Adventure», frente a una tienda ✅ | Alegría; foto de pueblo |
+| Película 2002, [38:00](https://archive.org/details/lilo-stitch-2002_202609?t=2280) | Stitch construye a oscuras una maqueta de ciudad (puente, edificios, barco); Lilo lo mira desde la cama ✅ | «Cómo os montáis el rincón» |
+| Créditos 2002, [1:20](https://archive.org/details/lilo-stitch-3?t=80) | **Foto de familia pegada con cinta** sobre fondo azul (madre, padre con bigote y gafas de sol, dos chicas, bebé con ukelele) y **Stitch sentado fuera del marco blanco**, abajo a la derecha, colado ✅ | El gag «Stitch se cuela en la foto» dentro de la película |
+| Créditos 2002, [0:00](https://archive.org/details/lilo-stitch-3?t=0) · 0:10 · 0:20 · 1:20 | **Los créditos son un álbum**: fotos con borde blanco, pegadas en ángulo con cinta sobre azul liso, unas tapando a otras ✅ | Es el fondo de la lámina, hecho por Disney |
+| Tráiler 2002, [1:48](https://archive.org/details/LiloStitchTrailer?t=108) | La **cápsula azul con correas** de Stitch lleva dentro **una fotito de Lilo** (vestido rosa) pegada junto a un garabato de tela de araña ✅ | Otro objeto-foto, más pequeño que el álbum |
+| Tráiler 2002, [2:12](https://archive.org/details/LiloStitchTrailer?t=132) | Nani entra en el cuarto de noche, boca abierta, un brazo hacia Stitch, junto a Lilo dormida. Lámpara **verde con base de piña** ✅ | Susto; attrezzo nuevo |
+
+- **Sigue sin resolver** ⚠️: la marca de la cámara (Kodak de carrete o
+  polaroid). Ningún vídeo disponible llegaba a 00:22:54 con imagen
+  clara (el «Part 1 HD» de Internet Archive sólo llega a 7:59 y está
+  degradado). Para la lámina: **cámara sin marca**.
+- **Sigue sin resolver** ⚠️: el «TIMER DINGS» de 01:17:56. El clip de
+  créditos empieza ya con el *collage* avanzado; no se sabe si son las
+  mismas fotos del montaje 01:17:18-01:20:13.
+- **No encontrado en vídeo** ⚠️: la lección de Elvis (00:42-00:44) y si
+  los turistas le hacen fotos con flash a Stitch.
 
 ---
 
