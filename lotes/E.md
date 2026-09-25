@@ -1,9 +1,10 @@
 # Lote E: series nuevas 57-76
 
-Sesión: https://claude.ai/code/session_01SdkTzSsW5n1xjqdJhRDwb6 · rama `claude/lote-e-serie-equipo-x5k96u`
-Cuenta: cuenta A105
-(sigue desde `claude/lote-e-serie-equipo-sh35c4`, sesión session_01PTjYZQejJbQf4MSwH4sQbi, cuenta .108, que hizo 57 y 58
-y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01DpneLCtaxuW3zpMcPdQ1yy).
+Sesión: https://claude.ai/code/session_01HZxvmZum2UvemBLiHCLWha · rama `claude/serene-bardeen-9c4hg5`
+Cuenta: cuenta I50
+(sigue desde `claude/lote-e-serie-equipo-x5k96u`, sesión session_01SdkTzSsW5n1xjqdJhRDwb6, cuenta .105, que dejó 59
+con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (cuenta .108, hizo 57 y 58) y
+`claude/sweet-cerf-x81fcs`.)
 
 ## Estado
 
@@ -15,6 +16,8 @@ y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01D
 - Cambio de cuenta (25-sep, 04:03 UTC, cuenta .105): herramientas instaladas; guardar.sh cada 300 s.
   59: las 4 partes terminadas sin `Sigue:` obligatorio → redactor (Opus) en marcha desde 04:03.
   60: los 4 investigadores (Sonnet) relanzados desde cero a las 04:03.
+- Cambio de cuenta (25-sep, 06:55 UTC, cuenta cuenta I50): herramientas instaladas; guardar.sh cada 300 s.
+  59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
 
 ## Avisos para el dueño
 
