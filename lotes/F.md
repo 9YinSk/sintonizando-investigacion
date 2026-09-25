@@ -20,7 +20,7 @@ Cuenta: cuenta A104
 - 81 Mushoku Tensei: **COMPLETA y subida** (07:1x UTC). ✅22 ⚠️16 ❌0, 229 referencias, 51 webs, 1506 líneas.
 - 82 The Rising of the Shield Hero: **COMPLETA y subida** (07:3x UTC). ✅19 ⚠️11 ❌0, 133 referencias, 44 webs, 1169 líneas.
 - 83 Overlord: **COMPLETA y subida** (07:4x UTC). ✅16 ⚠️14 ❌0, 150 referencias, 43 webs, 700 líneas.
-- 84 No Game No Life: imagen y texto completos.
+- 84 No Game No Life: **COMPLETA y subida** (13:4x UTC). ✅14 ⚠️16 ❌0, 53 referencias, 50 webs, 717 líneas.
 - **Corte por límite de sesión** (07:5x-13:03 UTC, `rate_limit`, «resets 11:50am UTC»): 4 agentes
   murieron antes de escribir nada (84 voz, 84 vídeo, 85 imagen) o a mitad de tanda (85 texto,
   con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
@@ -70,6 +70,19 @@ Cuenta: cuenta A104
   masacre de Katze es T3 ep. 12 (no T1 ep. 7); Emiri Katō es Aura y Kenta Miyake es
   Cocytus (créditos del PV mal leídos). No hay frases del doblaje latino de Albedo,
   Shalltear ni Demiurge (sólo del narrador, ep. 1).
+
+- **84 No Game No Life:** más querida, Shiro (24 % encuesta japonesa del agregador
+  zonosite, 1.ª en AniList); Jibril, secundaria, supera a Sora en Japón (23 % vs 13 %) y
+  en fan art. Cuadro de diálogo propio: la cartela vertical de los Diez Pactos (blanco
+  lavanda `#E8E0F8`, halo magenta, numerada「二つ」). Láminas: A #reglas (Sora y Shiro
+  jurando «¡Aschente!», recomendada), B #a-que-juegas (Shiro y Sora con la tablet en la
+  terraza), C #recursos (la Gran Biblioteca de Jibril).
+  ⚠️ **Aviso sensible:** Shiro tiene 11 años. El redactor encontró hojas de contacto con
+  ilustraciones de la novela con desnudos censurados (una con Shiro) y las sacó de
+  `hojas/`; quedaron fuera de git en `herramientas/referencias/no-game-no-life/hojas_descartadas/`
+  (gitignoreado, comprobé que no se subió nada). §12 de la biblia lista qué evitar en
+  láminas. Corregidos 4 errores de identificación en fotogramas y un dato falso de la
+  parte de texto (sí hay doblaje latino: Paraíso Pro, Netflix 2020).
 
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
@@ -133,3 +146,4 @@ Cuenta: cuenta A104
 | 81-mushoku-tensei | redactor (opus, relanzo, cuenta .104) | opus | 10 | 247596 |
 | 82-the-rising-of-the-shield-hero | redactor (opus, cuenta .104) | opus | 12 | 262802 |
 | 83-overlord | redactor (opus, cuenta .104) | opus | 10 | 240466 |
+| 84-no-game-no-life | redactor (opus, cuenta .104) | opus | 14 | 277299 |
