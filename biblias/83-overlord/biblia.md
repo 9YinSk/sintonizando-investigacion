@@ -77,7 +77,7 @@ Wiki usada: [overlordmaruyama.fandom.com](https://overlordmaruyama.fandom.com/wi
 
 YouTube pedía iniciar sesión: los clips se miraron en Dailymotion con `fotogramas.py`. **Resolución: 1280×720, no 1080p** ⚠️.
 
-- **«Ia Shub-Niggurath»**, temporada 1, episodio 7 («Ruler of Conspiracy»), llanura de Katze. Ainz convoca una masa negra con una boca de dientes blancos que devora a 200 000 soldados. Grita «Applaud my supreme power!» con el brazo alzado y la capa abierta. [Clip, 3:28](https://www.dailymotion.com/video/x875tvm&t=208). La bola negra cae del cielo y crece entre 1:04 y 2:16. ✅ (coincide con [el resumen del episodio](https://overlordmaruyama.fandom.com/wiki/Overlord_Episode_7)).
+- **«Ia Shub-Niggurath»**, temporada 3, episodio 12 («Massacre», adapta el vol. 9), llanura de Katze. ⚠️ La parte de vídeo lo situó en la T1 ep. 7; el redactor lo corrigió con la [ficha del episodio](https://overlordmaruyama.fandom.com/wiki/Overlord_III_Episode_12). Ainz convoca una masa negra con una boca de dientes blancos que devora a 200 000 soldados. Grita «Applaud my supreme power!» con el brazo alzado y la capa abierta. [Clip, 3:28](https://www.dailymotion.com/video/x875tvm&t=208). La bola negra cae del cielo y crece entre 1:04 y 2:16. ✅ visto.
 - **Shalltear ejecuta a un soldado**, temporada 3, clip oficial de Crunchyroll (marca «Watch on CR!»). Bosque nocturno; lo atrapa bajo tierra y lo muerde entre risas; remata con «Salty.». [Clip, 1:10](https://www.dailymotion.com/video/x80vcd6&t=70). ✅ visto.
 - **Albedo contra Azuth Aindra**, temporada 4. Forma alada, cuernos, alas negras; combate en el cielo contra una armadura roja tipo robot entre magia verde y rayos. [Clip, 1:30](https://www.dailymotion.com/video/x8ffzkg&t=90). ✅ visto ([Azuth en la wiki](https://overlordmaruyama.fandom.com/wiki/Azuth_Aindra)).
 - **Logo del opening**: «OVERLORD» dorado sobre negro en el 0:12 del [opening 1](https://www.dailymotion.com/video/x6i4t6f&t=12). ✅
@@ -116,7 +116,7 @@ Paletas medidas con `estilo.py`:
 |---|---|---|---|
 | **Sala del trono de Nazarick** | casi negra, brillo 16 %, acento azul frío | `#100F14` 33 %, `#050406` 28 %, `#26325E` 6 %, `#3E57A1` 5 % | [fotograma EP01_052](https://static.wikia.nocookie.net/overlordmaruyama/images/b/b4/Overlord_EP01_052.png) ✅ |
 | **E-Rantel** de día | clara y cálida, brillo 71 % | `#907BC5` 21 %, `#A09BD3` 13 %, `#AC7E6B` 11 %, `#835B4E` 9 % | [E-Rantel.png](https://static.wikia.nocookie.net/overlordmaruyama/images/8/8a/E-Rantel.png) ✅ |
-| **Llanura de Katze** (T1 ep. 7) | cielo claro, tierra arena; Ainz violeta y oro | `#613C97` 25 %, `#2E2939`/`#1C1928` 40 %, `#DFDA7C` 12 %, `#807240` 6 % | [clip, 3:28](https://www.dailymotion.com/video/x875tvm&t=208) ✅ |
+| **Llanura de Katze** (T3 ep. 12) | cielo claro, tierra arena; Ainz violeta y oro | `#613C97` 25 %, `#2E2939`/`#1C1928` 40 %, `#DFDA7C` 12 %, `#807240` 6 % | [clip, 3:28](https://www.dailymotion.com/video/x875tvm&t=208) ✅ |
 | **Cielo de Albedo contra Azuth** (T4) | gris azulado | `#476F77`/`#709DA9` 43 %, `#0E0E10` 17 %, `#C1CECC` 6 % | [clip, 1:40](https://www.dailymotion.com/video/x8ffzkg&t=100) ✅ |
 | **Noche del PV** (Demiurge) | violeta nocturno | `#18102B`/`#382345`/`#4B3372` 68 % | [PV, 0:40](https://www.dailymotion.com/video/x2k9ltc&t=40) ✅ |
 
@@ -294,7 +294,7 @@ Base: fichas de personalidad de la wiki (leídas enteras) y AniList. Caras: clip
 
 16 poses con minuto, vistas con `fotogramas.py`. Uso: presentar, explicar, celebrar, regañar, pensar, animar.
 
-**Ainz** — [Katze, T1 ep. 7](https://www.dailymotion.com/video/x875tvm):
+**Ainz** — [Katze, T3 ep. 12](https://www.dailymotion.com/video/x875tvm):
 | Minuto | Qué hace | Sirve para |
 |---|---|---|
 | [0:40](https://www.dailymotion.com/video/x875tvm&t=40) | De pie en una colina, brazo extendido señalando al ejército, mirada al frente | **Presentar** desde arriba |
@@ -543,12 +543,12 @@ Hecha por el redactor con los datos de las partes. Úsala en Firefly, Canva u ot
 
 **La historia por arcos** ([Story Arcs](https://overlordmaruyama.fandom.com/wiki/Story_Arcs) + [Timeline](https://overlordmaruyama.fandom.com/wiki/Timeline)) ✅:
 - Vol. 1 **El Rey No Muerto**: el juego cierra, Momonga se queda y Nazarick despierta. Se rebautiza Ainz Ooal Gown.
-- Vol. 2 **El Guerrero Oscuro**: se hace pasar por el aventurero Momon, con Narberal. Muere la Espada de la Oscuridad.
-- Vol. 3 **La Valquiria Sangrienta**: Shalltear, controlada, se rebela; Ainz pelea contra ella.
-- Vol. 4 **Los Héroes Lagarto**: Cocytus contra las tribus de Zaryusu.
-- Vols. 5-6 **Los Hombres del Reino**: Sebas, las Ocho Garras; Demiurge como Jaldabaoth.
-- Vol. 7 **Los Invasores de la Gran Tumba**: los trabajadores (Foresight, Arche) entran en Nazarick.
-- Vols. 9-10: **Katze** y el nacimiento del Reino Hechicero; la conspiración.
+- Vol. 2 **El Guerrero Oscuro**: Ainz se hace pasar por el aventurero Momon.
+- Vol. 3 **La Valquiria Sangrienta**: la rebelión de Shalltear.
+- Vol. 4 **Los Héroes Lagarto**: Zaryusu y las tribus lagarto.
+- Vols. 5-6 **Los Hombres del Reino**: la guerra con el Reino de Re-Estize.
+- Vol. 7 **Los Invasores de la Gran Tumba**.
+- Vol. 9 **El Hechicero de la Destrucción**: la masacre de Katze (anime T3 ep. 12). Vol. 10 **El Gobernante de la Conspiración**.
 - Vol. 11 **El Artesano Enano**. Vols. 12-13 **El Paladín del Reino Santo** (la película). Vol. 14 **La Bruja del Reino Caído** (Albedo contra Azuth). Sigue hasta el vol. 17.
 
 **Símbolos**:
@@ -556,4 +556,62 @@ Hecha por el redactor con los datos de las partes. Úsala en Firefly, Canva u ot
 - **El gremio** ([wiki](https://overlordmaruyama.fandom.com/wiki/Ainz_Ooal_Gown_(Guild))): «los 41 Seres Supremos». Empezó como **«Nine's Own Goal»**, nueve jugadores de razas heteromorfas que se unieron contra el acoso. ✅
 - **Objetos icónicos**: el trono; el báculo dorado; el orbe rojo de Ainz; la máscara que usa para parecer humano; la espada de Momon; el hacha de Albedo; la lanza de Shalltear. ✅ (wiki, Sketchfab, clips)
 - **Vocabulario que un fan reconoce**: Ainz Ooal Gown, Nazarick, Seres Supremos, Guardianes de Piso, PNJ, YGGDRASIL, Reino Hechicero, E-Rantel, Pléyades, «Ainz-sama», Momon. ✅
+
+## Hojas de contacto
+
+Montadas por `investigar_serie.py` (31 hojas, 1531 imágenes de la wiki). Las 3 elegidas se miraron con Read. Cada casilla lleva número, tamaño y nombre del archivo de la wiki.
+
+- **`hojas/personajes_01.jpg`** — arte oficial variado.
+  - 1: *Mass for the Dead Part 2* (Albedo en acción). 2: *Albedo vs Azuth*. 3: *Ainz vs Go Gin*.
+  - 6-11: **hojas de modelo** del anime: Albedo normal, de gala y de primera ministra (6-8); Demiurge (9); Ainz (10); Shalltear (11). Base del vestuario y de los hex.
+  - 13: aniversario de los 10 años. 15-16: *Ainz's Fake Death*, *Meeting the Sorcerer King*. 18: *Ainz vs Shalltear*.
+  - 26-48: arte de eventos de *Mass for the Dead* (kimonos, Halloween, fiestas): ropa y poses nuevas.
+- **`hojas/personajes_02.jpg`** — fotogramas de la T2 y T3.
+  - 342-345: el trono con Ainz, Albedo y Demiurge (T3 ep. 9).
+  - 348-360: Albedo y Ainz por las calles de E-Rantel a pleno día (T3 ep. 13): contraste de luz.
+  - 362-365: Demiurge y Albedo en un pasillo con ventanales (sonrisa, mano explicando).
+  - 371-373 y 381: caras de Albedo ruborizada (T2 ep. 1).
+  - 374-380: **Ainz y Albedo en el escritorio con un mapa y bolsas de monedas** → concepto C.
+- **`hojas/personajes_03.jpg`** — caras y trono.
+  - 147: Demiurge en la colaboración con *Mah-Jong Fight Club*.
+  - 149-168: primeros planos de Albedo (alegría 157, rubor 161, rabia con aura 164-165, luna llena 167).
+  - 169-176: **la sala del trono del episodio 1**: Albedo de pie con las manos juntas, Ainz sentado con el báculo → concepto A.
+  - 177-192: los Guardianes en fila en un anfiteatro (T1 ep. 2): Demiurge, Albedo, Cocytus, Aura, Mare, Shalltear.
+
+La selección es buena: arte oficial, sitios y caras. Se dejan como están.
+
+## 3 conceptos de lámina
+
+Canales propuestos (Overlord no tenía canal): **#reglas**, **#bienvenidas** y **#staff**. Si otra serie pide el mismo, no bloquea nada.
+Tono para todos: mundo sombrío (regla 6 del dueño). Nada de colores alegres dentro de Nazarick.
+
+### A · #reglas — «El decreto de Nazarick»
+- **Objeto real en un sitio real**: un **pergamino-decreto** desplegado en los escalones del **trono del piso 10**, con **sello de lacre carmesí** (`#961B4C`) con el emblema de Ainz Ooal Gown. Detrás cuelga el **estandarte**. En Blender: pergamino con curva y sombra real; escalones con `Tiles141`/`Rock064`; oro con `Metal048A`. Plano del *databook* para la sala.
+- **Personaje**: **Albedo**, la favorita del fandom, como Supervisora que da la ley. Pose de protocolo, de pie con las manos juntas y las alas bajas (hoja 3, casilla 169). **Ainz** sentado al fondo, en penumbra, con el báculo (casillas 170 y 174). Sólo brillan sus cuencas rojas.
+- **Cómo habla**: recuadro rectangular **negro `#0C0B10` con filete dorado `#E1CF6B`**, como una cartela de ceremonia. Título en **Pirata One**. Cuerpo: ⚠️ letra por elegir y comprobar.
+- **Dónde va cada texto**:
+  - En el pergamino, título: «Reglas».
+  - En el pergamino, cuerpo: «Las normas. Al quedarte, las aceptas.» (texto real del canal).
+  - En el recuadro de Albedo: una frase corta, p. ej. «Por orden de Ainz-sama.»
+- **Que no quede plano**: columnas góticas oscuras en primer plano, desenfocadas; luz fría azul `#3E57A1` desde arriba y un brillo dorado cálido sobre el pergamino; el ala de Albedo tapa en parte el borde del pergamino; el trono se pierde en la niebla.
+
+### B · #bienvenidas — «Bienvenido a la Gran Tumba»
+- **Objeto real en un sitio real**: una **placa de piedra** grabada junto a la gran puerta de Nazarick. La luz entra desde fuera. En Blender: la placa con `Rock064`, letras en bajorrelieve rellenas de oro.
+- **Personaje**: **Ainz**, con la pose de **presentar** (brazo extendido, [Katze 0:40](https://www.dailymotion.com/video/x875tvm&t=40)), girado hacia quien llega. Detrás, los Guardianes en fila como en el [opening, 1:16](https://www.dailymotion.com/video/x6i4t6f&t=76).
+- **Cómo habla**: **la doble voz**, la firma de la serie.
+  - Lo que dice, en un recuadro negro y dorado: «Bienvenido a la Gran Tumba de Nazarick.»
+  - Lo que piensa, en un recuadro pequeño aparte, más pálido: «¿Y ahora qué le digo?… Inhibido.»
+  - La calavera no cambia. Sólo las cuencas brillan un poco más.
+- **Dónde va cada texto**: en la placa, «Bienvenidas» y «Aquí sale cada persona nueva. Salúdala.» Los dos recuadros de Ainz, arriba a su lado.
+- **Que no quede plano**: contraluz del exterior claro (E-Rantel, `#907BC5`) contra el interior negro; capa de Ainz ondeando hacia el espectador; polvo en el haz de luz; los Guardianes desenfocados al fondo.
+
+### C · #staff — «La mesa de mapas»
+- **Objeto real en un sitio real**: el **escritorio de Ainz con el mapa desplegado y bolsas de monedas** (hoja 2, casillas 376 y 379). En Blender: mapa con relieve de papel y chinchetas; bolsas de cuero `Leather037`; madera oscura. ⚠️ Textura de papel sin comprobar.
+- **Personaje**: **Demiurge** explicando el plan con la mano abierta (hoja 2, casilla 364), **Albedo** asintiendo (casilla 363) y **Ainz** sentado, callado.
+- **Cómo habla**:
+  - Demiurge, recuadro elegante negro y oro, frase larga y cortés: «Como sin duda Ainz-sama ya había previsto, repartiremos el trabajo así.»
+  - Pensamiento de Ainz, recuadro pequeño aparte: «…¿Lo había previsto?»
+  - Es el gag favorito del fandom: todos creen que Ainz es un genio.
+- **Dónde va cada texto**: sobre el mapa, en tinta: «Staff» y «Coordinación del equipo.»; en una nota clavada al borde: «Lo que no es moderación ni planificación.»; la Sala Staff (voz) puede ir como una puerta marcada en el mapa.
+- **Que no quede plano**: vela o lámpara dorada sobre la mesa, cabezas y manos en primer plano cortando el borde, cola plateada de Demiurge delante, fondo violeta oscuro `#292639`.
 
