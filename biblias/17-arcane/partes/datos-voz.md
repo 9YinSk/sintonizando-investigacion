@@ -260,7 +260,7 @@ _Fuente: https://danbooru.donmai.us/posts?tags=arcane%3A_league_of_legends_
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
 1. jinx_(league) · 3613 dibujos
 2. vi_(league) · 1846 dibujos
-3. spider-gwen · 1691 dibujos
+3. spider-gwen · 1692 dibujos
 4. caitlyn_(league) · 1662 dibujos
 5. lux_(league) · 1512 dibujos
 6. arcane_jinx · 1386 dibujos
@@ -298,6 +298,13 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/arcane: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/arcane_
 
+**«favorite character»**
+- (2139 votos, 118 comentarios) Even after finishing season 2, I still think this scene here just cannot be surpassed. Episode 9 made Jinx my favorite… · https://www.reddit.com/r/arcane/comments/1oa5gwy/even_after_finishing_season_2_i_still_think_this/
+- (437 votos, 29 comentarios) This scene had me so mad man because Jinx is my favorite female character of all time so when Isha went out like this,… · https://www.reddit.com/r/arcane/comments/1on22rc/this_scene_had_me_so_mad_man_because_jinx_is_my/
+- (378 votos, 129 comentarios) Who's your favorite character design in Arcane? · https://www.reddit.com/r/arcane/comments/1vh5mja/whos_your_favorite_character_design_in_arcane/
+- (168 votos, 1 comentarios) Mel has one of my favorite character designs · https://www.reddit.com/r/arcane/comments/1op6z79/mel_has_one_of_my_favorite_character_designs/
+- (164 votos, 406 comentarios) Tell me your favorite character · https://www.reddit.com/r/arcane/comments/1mtb17b/tell_me_your_favorite_character/
+- (143 votos, 17 comentarios) My friends always ask why is Jinx my favorite female character ever just off one season? I immediately think back to… · https://www.reddit.com/r/arcane/comments/1rjbagu/my_friends_always_ask_why_is_jinx_my_favorite/
 **«best scene»**
 - (1278 votos, 163 comentarios) What was the animator's obsession with slobbery mouths, and who had the best scene? (This isn't sexual. Don't make it… · https://www.reddit.com/r/arcane/comments/1hmlv7d/what_was_the_animators_obsession_with_slobbery/
 - (675 votos, 12 comentarios) One of the best scene · https://www.reddit.com/r/arcane/comments/1ox2zr5/one_of_the_best_scene/
@@ -305,10 +312,3 @@ _Fuente: https://www.reddit.com/r/arcane_
 - (228 votos, 18 comentarios) Best scene in all of Arcane (imo) · https://www.reddit.com/r/arcane/comments/1hnhm64/best_scene_in_all_of_arcane_imo/
 - (184 votos, 14 comentarios) The best Silco scene in my opinion. · https://www.reddit.com/r/arcane/comments/1oxhf7l/the_best_silco_scene_in_my_opinion/
 - (173 votos, 22 comentarios) [s2 act 3 spoilers] In a series filled with relationships, this scene was the most intimate to me. I have no idea why.… · https://www.reddit.com/r/arcane/comments/1h06h4z/s2_act_3_spoilers_in_a_series_filled_with/
-**«iconic»**
-- (9100 votos, 143 comentarios) I drew the most iconic shot from s2 using lyrics from the s2 soundtrack · https://www.reddit.com/r/arcane/comments/1jkciyo/i_drew_the_most_iconic_shot_from_s2_using_lyrics/
-- (1232 votos, 6 comentarios) Tried to do jinx doing the iconic guts pose · https://www.reddit.com/r/arcane/comments/1js2377/tried_to_do_jinx_doing_the_iconic_guts_pose/
-- (450 votos, 100 comentarios) Which song was the most iconic? · https://www.reddit.com/r/arcane/comments/1nm95tm/which_song_was_the_most_iconic/
-- (218 votos, 9 comentarios) [no spoilers] Hello! This is me and my friends cosplaying the iconic trio of Arcane! Hope you like it! Caitlyn by… · https://www.reddit.com/r/arcane/comments/16g13rh/no_spoilers_hello_this_is_me_and_my_friends/
-- (146 votos, 23 comentarios) Iconic Vi lines Season 1 vs Season 2 · https://www.reddit.com/r/arcane/comments/1koqsmm/iconic_vi_lines_season_1_vs_season_2/
-- (127 votos, 21 comentarios) Count Fag and Aftersex Cait are iconic, sure, but how are we not talking about THIS Caitlyn? Peak character design IMO · https://www.reddit.com/r/arcane/comments/1hrgteo/count_fag_and_aftersex_cait_are_iconic_sure_but/

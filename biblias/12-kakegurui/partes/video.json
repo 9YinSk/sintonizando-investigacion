@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x88p1dp?start=90",
+    "fuente": "Dailymotion (Sensacine), tráiler oficial Netflix sub. inglés",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Pantalla de créditos del staff en el tráiler oficial (minuto 1:30): director, guion, diseño de personajes, música, estudio",
+    "para_que": "confirma con una fuente independiente el staff que ya cita la biblia (punto 9 y la ficha técnica)",
+    "licencia": "© Netflix / MAPPA; sólo referencia, no usar como arte final"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88p1dp?start=36",
+    "fuente": "Dailymotion (Sensacine), tráiler oficial Netflix sub. inglés",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Yumeko sonriendo, subtítulo \"Looks like this just got pretty interesting\" (minuto 0:36)",
+    "para_que": "frase icónica en inglés con minuto exacto, punto 10",
+    "licencia": "© Netflix / MAPPA; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 01 [CrisAnime].mp4\", minuto 12:39",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Primer plano de Yumeko con los ojos rojos y la sonrisa abierta: la pose más icónica de la serie (transformación tras ganar)",
+    "para_que": "concepto de lámina con Yumeko en pose de \"celebrar/ganar\"; paleta medida con estilo.py: #1D171C 53%, #C23345 11%, #EFDADC 9%",
+    "licencia": "fandub/fansub de fans (CrisAnime), doblaje con derechos de Netflix; sólo referencia de pose y color, nunca para pegar"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 02 [CrisAnime].mp4\", minuto 21:30",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Kirari Momobami junto al acuario turquesa de la sala del consejo estudiantil",
+    "para_que": "confirma y mide el fondo/luz del punto 4 (antes ⚠️, sólo texto de Fandom); paleta: #30B5B9, #76FBF8, #211D25",
+    "licencia": "fandub/fansub de fans (CrisAnime); sólo referencia de sitio, luz y color"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 02 [CrisAnime].mp4\", minuto 5:00",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Kirari Momobami de pie sola en el pasillo del consejo, luz morada, pose tranquila",
+    "para_que": "pose de \"presentar/dar la bienvenida\" para un concepto de lámina con Kirari, punto 14",
+    "licencia": "fandub/fansub de fans (CrisAnime); sólo referencia de pose"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 02 [CrisAnime].mp4\", minuto 1:00",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Mary Saotome furiosa sosteniendo la placa con cadena \"ミケ\" (Mike), el nombre de mascota de un compañero con deudas",
+    "para_que": "objeto icónico (placa de mascota) para el canal de comandos-y-sorteos: ranking/economía del colegio; confirma con imagen lo que la biblia sólo citaba por subtítulo",
+    "licencia": "fandub/fansub de fans (CrisAnime); sólo referencia de objeto y pose"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 01 [CrisAnime].mp4\", minuto 6:29",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Mesa de la partida de piedra-papel-tijera entre Mary y Yumeko: podios enfrentados bajo un foco, caja de cartas en el centro, el resto del aula a oscuras",
+    "para_que": "referencia directa para el objeto del plan (mesa de casino, cartas y fichas) del encargo #comandos-y-sorteos",
+    "licencia": "fandub/fansub de fans (CrisAnime); sólo referencia de escenografía"
+  },
+  {
+    "url": "https://archive.org/details/kakegurui-latino",
+    "fuente": "Internet Archive, \"Kakegurui (Latino) - 01 [CrisAnime].mp4\", minuto 3:02 (créditos del opening)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Crédito en pantalla del opening \"Deal with the devil\": Tia (voz), ryo/supercell (letra, música y arreglo), DIVE II entertainment",
+    "para_que": "fuente propia para corregir el crédito de compositor del punto 9 (antes atribuido a TeddyLoid con una sola fuente débil)",
+    "licencia": "© Avex/MAPPA; captura de crédito oficial, sólo referencia de texto"
+  },
+  {
+    "url": "https://archive.org/details/admiralkusaka4",
+    "fuente": "Internet Archive, \"[NoobSubs] Kakegurui - Compulsive Gambler 01 (720p Blu-ray 8bit AAC)\"",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio 1 completo en 720p Blu-ray, sub. inglés (fansub NoobSubs) — mejor resolución que el doblaje latino usado en esta tanda",
+    "para_que": "fuente pendiente de descargar bien (se cortó dos veces) para sacar fotogramas de escenas icónicas en más resolución",
+    "licencia": "fansub de fans; sólo referencia, sin descargar con éxito en esta tanda"
+  }
+]

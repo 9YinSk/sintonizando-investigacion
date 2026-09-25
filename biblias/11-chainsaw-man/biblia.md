@@ -73,7 +73,86 @@ fecha: 2026-09-24
 
 ## Segunda pasada · qué cambió
 
-_(se rellena en esta pasada)_
+Hecha el **25-sep-2026** con la red abierta, por 4 investigadores
+(imagen, vídeo, voz y personajes, texto y técnica) y un redactor. Sus
+libretas están en `partes/` (`imagen.md`, `video.md`, `voz.md`,
+`texto.md`), con su bitácora.
+
+**Corregido (antes → ahora)**
+- **Butacas del cine**: rojo vino `#6E1F24` (propuesto) → **mostaza o
+  ámbar** `#544A36` / `#7C6D4A`, medido con `estilo.py` en el fotograma
+  de la sala llena (7:44 del corte EN) (§5.3).
+- **Haz del proyector**: azul frío `#CFE3F2` (propuesto) → **blanco
+  cálido con halo verde-violeta**, visto en el mismo fotograma (§5.3).
+- **Pelo de Makima**: rosa salmón para todo → **granate** `#4C201F` en la
+  película (6:52 del corte EN); el salmón `#D3978F` es sólo de la serie
+  (§16).
+- **Uniforme**: «camisa blanca, traje negro» → camisa **crema**
+  `#EDEDE3`-`#F0EFE7` y traje **gris pizarra** `#2F393A`-`#30393B`,
+  medidos en los 5 diseños oficiales del arco de Reze (§16).
+- **Denji celebrando**: brazos arriba (de memoria) → **dos puños tímidos a
+  la altura del pecho, ojos cerrados** (7:04 del corte EN) (§15).
+- **Opening**: un resultado de búsqueda decía que «KICK BACK» entra a los
+  34 s → entra en el **2:02** del ep. 1, tras un prólogo sin música (§11).
+- **2.ª encuesta**: Aki 88.568 → **88.868** votos (§9).
+- **Voces latinas**: Kobeni ⚠️ → ✅ **Paola García**; Himeno, Kishibe y
+  Beam «no encontrado» → **Mireya Mendoza, Víctor Franco e Iván
+  Bastidas** ✅ (Doblaje Wiki y AniList). Estudio de la película ⚠️ →
+  **Audiomaster Candiani** ✅ (§10).
+- **Licencias de Sketchfab**: sin comprobar → **30 modelos confirmados**
+  por su API; ojo con Last_Hawk (no comercial) y GinesMartinez (compartir
+  igual) (§4).
+- **La ropa de la cita**: «no se sabe» → Makima va **de calle**: cárdigan
+  claro, falda oscura, medias oscuras, zapatos planos y bolso pequeño
+  (viñeta del cap. 39) (§16).
+- **Bitácora**: «no existe un cuadro de diálogo propio» → «**no lo
+  encontré**» (regla de AYUDANTE.md) (§21).
+
+**Añadido**
+- **Vídeos mirados de verdad** (YouTube seguía pidiendo sesión): la
+  película entera en Internet Archive (corte EN; los fotogramas citados,
+  sacados en **1080p reales** del .mkv), los ep. 1, 2 y 7, y el tráiler
+  (Dailymotion) (§2, §11, §15).
+- **El cine se llama シネマ座** («Cinema-za»): letras plateadas sobre un
+  panel verde azulado, 9:12 del corte EN (§2, §5).
+- La **película de dentro** (verde azulado, 9:50), la **flor de la caja
+  de donativos** (11:52-12:40) y el **área de descanso** del ep. 2 (§2,
+  §5).
+- El **ending del ep. 1 no tiene animación**: créditos blancos sobre
+  negro (24:00-24:16), como en un cine (§11).
+- **Texturas de ambientCG miradas**: Fabric022 y Fabric026 para la
+  butaca (recoloreadas), Paper005 y Paper006 para la entrada (§5.4).
+- **El premio de Emilio Treviño** (Crunchyroll Anime Awards 2024, voz en
+  español latino por Denji), frases del doblaje con episodio, el
+  adaptador (Jaime Chaparro) y las fechas de grabación (§10).
+- **Crank-in!**: Kusunoki y Toya hablan de grabar la escena del cine
+  (§8, §18D).
+- Las 3 encuestas oficiales con su **top 10 y sus votos** (§9).
+- **Tamaños reales** (API de la wiki) de tomos, revistas y diseños;
+  Alpha Coders ya abre (§3, §17).
+- El juego **Chainsaw Man Mobile**, anunciado el 19-jun-2026 (§13).
+- **Los puntos 18-25**, nuevos: §18A a §18H.
+- La tabla **«Cumplimiento del encargo»** y `referencias.json` rehecho:
+  de 35 enlaces sin tamaño a **266** referencias (**142** con ancho y alto
+  medidos), las mejores primero.
+
+**Los ⚠️**
+- **Antes**: el número de la primera pasada **no quedó apuntado** (el
+  redactor anterior se cortó por el límite de uso antes de contarlo).
+- **Resueltos**, entre otros: las 4 voces latinas, el estudio de la
+  película, las licencias de Sketchfab, los hex «propuestos» del cine y
+  del vestuario, la ropa de Makima en la cita, las posturas que ya se
+  vieron en fotograma, los tamaños de imágenes y fondos.
+- **Quedan**: **147** ⚠️ en todo el texto (contados con `grep` al cerrar;
+  incluye los de la tabla y los de las secciones nuevas 18A-18H). Los
+  principales: la frase latina de Makima en el cine (no la oí), minutos y
+  vistas de YouTube y TikTok (piden sesión), caras por emoción y poses de
+  §15 sin fotograma, qué cine real inspiró シネマ座, el programa de dibujo
+  de Fujimoto (una fuente) y la fecha exacta del final del manga.
+
+**Conceptos de lámina**: los tres se quedan; se afinan con lo medido
+(butacas mostaza, haz cálido, pelo granate, el rótulo シネマ座 y los
+colores de Reze) (§19).
 
 ---
 
@@ -1676,49 +1755,573 @@ márcalos.» Denji, de réplica: «¡¿Y si es de las malas?!». Makima:
 
 ## 18A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
 
-_(se rellena en esta pasada)_
+### 18A.1 El manga (Tatsuki Fujimoto)
+- **Línea gruesa, suelta y «sucia»**, no la línea limpia y pareja de otros
+  shōnen. Se vuelve más nerviosa en el movimiento ✅
+  ([Anime News Network](https://www.animenewsnetwork.com/feature/2022-11-18/the-chainsaw-man-anime-style-feels-off/.191720),
+  [FandomWire](https://fandomwire.com/chainsaw-mans-6-ugliest-manga-panels-prove-tatsuki-fujimotos-artstyle-can-never-beat-gege-akutamis-jjk/)).
+- **Sombreado**: mucho **negro sólido a pincel** y **rayado cruzado**
+  (*cross-hatching*); **poca trama de puntos**, y sin fórmula fija de un
+  capítulo a otro ✅ (las dos fuentes de arriba, y visto en las páginas de
+  manga de la hoja 1, n.º 28-43).
+- **Composición**: diálogos con **fondos vacíos** y viñetas casi mudas,
+  como planos de cine; en las peleas, sombras cargadas y fondos llenos
+  de caos ✅ (ANN; [CBR](https://www.cbr.com/greatest-chainsaw-man-manga-panels/)).
+- **Programa**: dibuja en digital. En su charla con Kenshi Yonezu, en la
+  web oficial de la película, nombra **Clip Studio Paint**
+  ([chainsawman.dog](https://chainsawman.dog/movie_reze/special/)); un
+  hilo de [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14222070749)
+  dice que es digital y que sus ayudantes acaban a mano. Digital ✅ (dos
+  fuentes); el programa ⚠️ (una sola, aunque oficial).
+- En la viñeta del cine (cap. 39,
+  [717×582](https://static.wikia.nocookie.net/chainsaw-man/images/9/9f/Denji_and_Makima%27s_movie_date.png))
+  **el público es simple y sin sombra**; sólo Denji y Makima llevan
+  sombra y detalle ✅ (visto). Es el truco para la lámina.
+
+### 18A.2 El anime (MAPPA, 2022): quién y con qué
+- **Equipo** ✅ ([AniList, staff](https://anilist.co/anime/127230/staff)):
+  director **Ryū Nakayama**; diseño de personajes **Kazutaka Sugiyama**;
+  dirección de arte **Yūsuke Takeda**; diseño de color **Naomi Nakano**;
+  dirección de fotografía **Teppei Itō**; dirección de CG **Motoi Okunō**
+  y **Kazumasa Yokokawa**; música **Kensuke Ushio**.
+- **La idea**: un **3D «pegado al dibujo»** (作画に寄せた3DCG). El
+  director pidió que el 3D se fundiera con la animación a mano, no que
+  pareciera real ✅ ([CGWORLD, parte 1](https://cgworld.jp/article/202303-chainsawman1.html)).
+- **Programas del 3D** ✅ (CGWORLD, parte 1): **3ds Max 2022** (modelado),
+  **ZBrush 2021** (escultura de demonios), **Substance 3D Painter 2021**
+  (materiales), **Photoshop 2021** (retoque a mano de texturas),
+  **Pencil+ 4** (sombreado tipo *toon* y líneas) y **KM-3D Cloth Deform**
+  (tela sin simulación completa).
+- Chainsaw Man y Samurai Sword tienen **3 niveles de detalle**: plano
+  general, medio y primer plano con pupilas. El *rig* mueve **cada diente
+  y cada eslabón** por separado ✅ (CGWORLD, parte 1).
+- **Fotografía** (撮影) ✅ ([CGWORLD, parte 3](https://cgworld.jp/article/202303-chainsawman3.html)):
+  **After Effects** con **Magic Bullet Looks** y **PSOFT CelFX**. Itō
+  pone en cada plano un **color complementario** (naranja sobre las
+  escenas azules) que **baja contraste y saturación**: da aire de imagen
+  real. Añade **brillo alrededor de las luces**, cambios de color del
+  aire, humo, sangre y agua de archivo, y **desenfoque de profundidad**
+  hasta en detalles pequeños (la espuma de una cerveza).
+- **Grano y aberración**: el grano fino se ve en toda la película; en el
+  haz del proyector hay un **halo verde-violeta** (7:44 del corte EN) ✅
+  visto. Que el estudio use un filtro de aberración cromática **no lo
+  dice** CGWORLD ⚠️: Magic Bullet Looks lo trae, pero no está confirmado.
+
+### 18A.3 Encuadres y composición (cómo se enmarca cada emoción)
+- **Homenajes de cine** ✅ ([Anime Herald](https://www.animeherald.com/2023/06/03/how-the-chainsaw-man-anime-adaptation-grounded-itself-in-filmic-realism/)):
+  plano secuencia con primer plano extremo a lo **Tarantino** (Power
+  camino del despacho de Makima); **plano tatami** a lo **Ozu** (el
+  primer viaje en coche de Denji y Makima); **cámara subjetiva** en el
+  callejón del ep. 12; **planos generales** muy abiertos tras las peleas
+  para enseñar el destrozo.
+- En el ep. 8 (azotea) la cámara **sube** en primer plano sobre Katana
+  Man, **abre** a plano general y **vuelve** a primeros planos antes de la
+  carga: composición en capas ✅ (misma fuente).
+- El opening copia **plano a plano** escenas de películas reales ✅ (misma
+  fuente y §11).
+- **Por emoción**, en la escena del cine (§2, §15; vistos en el corte
+  EN) ✅: **alegría**, un encuadre que deja ver la cara y los puños al
+  pecho (Denji, 7:04); **explicar o recomendar**, ella sentada y girada
+  hacia él (Makima, 9:28); **llanto**, **de perfil**, una lágrima, en
+  silencio (Makima, 10:36); **final**, **plano general** con las dos
+  siluetas y la pantalla en blanco (10:43).
+
+### 18A.4 Cómo reproducirlo en Photoshop y Blender
+Guía propia hecha con lo de arriba (no es cita de nadie):
+- **Blender, personajes y demonios**: esculpir en *Sculpt Mode* (lo que
+  ellos hacían en ZBrush). Contorno grueso con **Solidify con las
+  normales invertidas** o con **Freestyle**, más grueso cerca de la cámara
+  (como sus 3 niveles de detalle). Ropa suelta con *Cloth*.
+- **Blender, sombreado**: *Shader to RGB* + *Color Ramp* de **2 o 3
+  tonos**, sin brillo especular duro. Luz de tres puntos suave.
+- **Blender, la sala**: todo oscuro menos las caras; el haz del proyector
+  como un volumen con **luz cálida**; butacas con Fabric022 o Fabric026
+  de ambientCG **recoloreadas a mostaza** (§5.4).
+- **Photoshop, color**: capa de **Balance de color o Curvas** con el tono
+  complementario (naranja sobre azul, o al revés), como Itō; bajar un poco
+  la saturación.
+- **Photoshop, textura**: **grano** (Filtro > Ruido, o una capa de grano en
+  Superponer al 8-15 %) y una **viñeta** suave; brillo suave alrededor de
+  las luces (capa duplicada, desenfocada, en Trama).
+- **Photoshop, manga**: pincel de tinta con presión, **rayado cruzado**
+  (§18B) y trama al 20-30 % sólo donde haga falta.
+- **Aberración** (opcional): mover 1-2 px los canales rojo y azul. Es
+  coherente con «cámara real», pero no está documentado como estilo
+  oficial ⚠️.
+
+### 18A.5 Modelos y *rigs* libres para partir
+Todos **fan art** con licencia **CC Attribution** (confirmada por la API
+de Sketchfab): citar autor y enlace, y usarlos para pose y proporción, no
+como el personaje final.
+- **Denji con huesos**: [Denji (Chainsaw-Man) (Yes Rigged bone)](https://sketchfab.com/3d-models/none-bdd7c53adfc54033b47fb8e3f60545b1),
+  de KenzoDkohno22T ✅.
+- **Chainsaw Man y Makima con huesos**: [Chainsaw-man and makima (Yes Rigged bone)](https://sketchfab.com/3d-models/none-2d08535cb4d94657976fbfc5d8b45e60),
+  de KenzoDkohno22T ✅.
+- [Denji (Chainsaw Man)](https://sketchfab.com/3d-models/none-55234e1109bc40819168fadbf5869fca),
+  de Scorpion4241, y [Denji and Pochita](https://sketchfab.com/3d-models/none-aa07c407793d48dca02f8b27ba79d397)
+  ✅.
+- **Butacas**: las de §4.2 (Glowbox 3D, qwerty14t, yuuuusukeeee…), todas
+  CC Attribution ✅.
+- La lista completa, con licencias, en §4.
+
+### 18A.6 La película (2025)
+- La búsqueda en CGWORLD (en japonés) sólo sacó el *making of* de la
+  serie (2023); **no encontré** uno técnico de la película ⚠️. Lo que sí
+  está medido: su paleta (§5.3) y el pelo granate de Makima (§16),
+  distinto del de la serie.
 
 ---
 
 ## 18B · Texturas 2D (punto 19)
 
-_(se rellena en esta pasada)_
+Las capas que hacen falta, de dentro afuera. Las texturas reales (tela,
+papel, moqueta) están en §5.4 y los modelos 3D en §4: aquí va lo 2D.
+
+### 18B.1 Qué textura tiene el manga (visto en las hojas)
+- Páginas de manga de la hoja 1 (n.º 28-43, 57-59, 72-89) y la hoja 2
+  (n.º 94): **negro sólido a pincel** y **rayado cruzado fino** para
+  sombra, movimiento y caos; **muy poca trama de puntos** ✅ (visto, y las
+  fuentes de §18A.1).
+- **Ropa sin estampados**: camisa, corbata y traje del uniforme son de
+  **tela lisa** en los 5 diseños medidos (§16) ✅ (visto). No hay cuadros,
+  rayas ni lunares que copiar.
+- **Papel**: el de los tomos de Jump Comics es **crema**, no blanco puro;
+  en color, la camisa también es crema (`#EDEDE3`-`#F0EFE7`, §16).
+
+### 18B.2 Pinceles y texturas libres equivalentes
+
+| Capa | Recurso | Licencia |
+|---|---|---|
+| **Rayado cruzado** (lo que más usa) | [Cross-hatching](https://assets.clip-studio.com/en-us/detail?id=1750715), 17 texturas, Clip Studio Assets | Gratis ✅ |
+| Rayado, pluma y punteado para **Photoshop** | [Manga Brushes](https://myphotoshopbrushes.com/resources/3790/manga-brushes), MyPhotoshopBrushes | Gratis, sin registro (lo dice la página) ⚠️ |
+| **Trama de puntos** (poca) | [FREE Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037) y [Essential Screentone Brushes](https://assets.clip-studio.com/en-us/detail?id=2087033), Clip Studio Assets | Gratis con cuenta gratuita ✅ |
+| **Papel** de la entrada o del tomo | [Paper005](https://ambientcg.com/view?id=Paper005) y [Paper006](https://ambientcg.com/view?id=Paper006) (crema y tostado, grano fino; mejores que Paper001 y 003, que son blancos), ambientCG | **CC0** ✅ |
+| **Terciopelo** de butaca (si se pinta en 2D) | [Fabric022](https://ambientcg.com/view?id=Fabric022) o [Fabric026](https://ambientcg.com/view?id=Fabric026), recoloreadas a mostaza | **CC0** ✅ |
+| **Grano de película** | Filtro > Ruido de Photoshop, en Superponer al 8-15 % (§18A.4) | propio |
+
+### 18B.3 Emblemas y logos
+- **Logo japonés** チェンソーマン en **SVG**:
+  [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chainsaw_Man_(Japanese)_logo.svg)
+  ✅. Es marca registrada: mirar la página de Commons antes de usarlo. Su
+  forma (letra a mano, bordes dentados) está en §6.
+- **Seguridad Pública**: **no encontré** un escudo, parche o insignia
+  propia. Busqué «badge», «emblem», «insignia» y «pin» en el texto de la
+  wiki, en VS Battles Wiki y en CBR. Se reconoce por el **traje negro con
+  corbata** ✅ ([CBR](https://www.cbr.com/chainsaw-man-public-safety-commission-explained/)).
+  Su nombre completo: **Tokyo Special Division 4**
+  ([VS Battles Wiki](https://vsbattles.fandom.com/wiki/Special_Division_4)).
+- El **rótulo del cine**, シネマ座, es el «logo» del sitio de la lámina:
+  letras plateadas en relieve sobre panel verde azulado (§5).
+
+### 18B.4 Un tratamiento gráfico fácil de copiar
+- La portada de **MEN'S NON-NO** n.º 464 (sep-2025): **todo en blanco y
+  negro menos el pelo y los ojos**, a color ✅ (hoja 1, n.º 4,
+  [3197×4093](https://static.wikia.nocookie.net/chainsaw-man/images/8/87/Men%27s_Non-No_No.464_Special_Edition.png)).
+  En Photoshop: capa en blanco y negro con máscara que deja ver sólo pelo
+  y ojos.
 
 ---
 
 ## 18C · Gustos y detalles de cada personaje (punto 20)
 
-_(se rellena en esta pasada)_
+**No encontré un *databook* oficial** con fichas de comida, cumpleaños y
+gustos: lo busqué en japonés (`チェンソーマン 公式ファンブック`) y en la
+wiki ⚠️. La wiki sí cita una guía oficial, *Love, Flower, Chainsaw
+Guide*, para el dato de Makima. Lo de abajo sale de las **fichas de
+AniList** (las alturas vienen de la tabla de alturas de la exposición
+oficial del anime) y de la **trivia de la wiki** (wikitext completo de
+cada personaje). La personalidad de cada uno está en §8.
+
+| Personaje | Altura | Lo que ama, su manía o su objeto | Fuente |
+|---|---|---|---|
+| **Denji** | 173 cm (180 transformado) | Su sueño de comida **cambia**: pan tostado con mermelada al principio (ep. 1, 9:12), un bistec más adelante. Objeto: el **cordón del pecho** | [AniList](https://anilist.co/character/130102), [wiki: Denji](https://chainsaw-man.fandom.com/wiki/Denji) ✅ |
+| **Makima** | 168 cm | **El cine**: ve películas para aprender cómo sienten los humanos. «Fuma» cigarrillos **«hi-fight»** (parodia de Hi-Lite) sin fumar de verdad. Edad: secreto de la trama | [AniList](https://anilist.co/character/137080), [wiki: Makima, Trivia](https://chainsaw-man.fandom.com/wiki/Makima#Trivia) ✅ |
+| **Power** | 170 cm | Su gata **Nyako** (ep. 3-4). Presume de lo que no puede hacer. Su nombre viene de las **Potestades**, un rango de ángeles | [AniList](https://anilist.co/character/137079), wiki ✅ |
+| **Aki** | 182 cm | **Piercings** en la oreja que le hizo Himeno, que insistió (cap. 31). Katana y moño alto | [AniList](https://anilist.co/character/137081), wiki ✅ |
+| **Reze** | no consta | Alias oficial «**Bomb Girl**». Trabaja en el café (§19, concepto C) | [AniList](https://anilist.co/character/148740), wiki ✅ |
+| **Himeno** | 175 cm | En el diseño original iba a ser **la hermana de Aki**; Fujimoto pensaba dejarla vivir más (Jump Festa 2022) | [AniList](https://anilist.co/character/144596), wiki ✅ |
+| **Kobeni** | 155 cm | Tiene **los mismos lunares** que Togata, de *Fire Punch* (otro manga de Fujimoto). Su **coche**, famoso (§14) | [AniList](https://anilist.co/character/144594), [wiki: Kobeni](https://chainsaw-man.fandom.com/wiki/Kobeni_Higashiyama#Trivia) ✅ |
+| **Kishibe** | 194 cm | Bebe **de una petaca** todo el rato | [AniList](https://anilist.co/character/144593), wiki ✅ |
+| **Beam** | 165 cm (176 con la aleta) | Adora a Chainsaw Man y sigue a Denji en todo | [AniList](https://anilist.co/character/157232) ✅ |
+| **Ángel** | 155 cm | Odia trabajar: dice preferir morir a trabajar | [AniList](https://anilist.co/character/152231) ⚠️ (una fuente) |
+| **Pochita** | — | Ladra y gime como un perro; su cola es el **cordón de arranque** de una motosierra | [AniList](https://anilist.co/character/170266) ⚠️ (una fuente) |
+
+**Cómo se ven a sí mismos** ✅ (wiki): Power se cree grandiosa y huye
+cuando pierde; Aki se ve como alguien normal que sí siente el duelo;
+Makima se hace una **máscara de persona amable** porque, según Fujimoto,
+le falta experiencia propia.
+
+**En el café oficial** (Tokio, Nagoya y Osaka, feb-2023) cada uno tuvo
+su plato: el **omurice de Denji**, el **parfait de pudín de Pochita** y
+la **«Bloody Orange Soda» de Power**, con dos pimientos de cuernos ✅
+([Soranews24](https://soranews24.com/2023/01/19/chainsaw-man-cafe-opening-in-three-cities-in-japan-food-looks-bloody-delicious%E3%80%90photos%E3%80%91/),
+[Siliconera](https://www.siliconera.com/chainsaw-man-cafe-merchandise-will-open-in-february-2023/)).
+Es menú de la colaboración, no de la obra.
+
+**Lo que falta** ⚠️: **cumpleaños** (ni AniList ni las partes los traen),
+y la **comida favorita** de Makima, Power, Aki y Reze dicha en la obra.
+Edades: Denji, 16 años (cap. 1-82); Kobeni, veintitantos; las demás no
+constan (AniList).
 
 ---
 
 ## 18D · Por qué la gente la ama (punto 21)
 
-_(se rellena en esta pasada)_
+### 18D.1 Las razones, con fuente
+- **Mezcla rara que funciona**: humor, violencia y fondo emocional a la
+  vez. **James Beckett** (*Anime News Network*) le da B+ al tomo 1;
+  **Julia Lee** (*Polygon*) alaba la acción y el humor negro; **Sheena
+  McNeil** (*Sequential Tart*) le da 9/10 y la compara con *Army of
+  Darkness*, *Devilman* y *Dorohedoro*; **Danica Davidson** (*Otaku USA*)
+  habla de una obra «rara pero sentida» ✅
+  ([Wikipedia, «Critical reception»](https://en.wikipedia.org/wiki/Chainsaw_Man#Critical_reception),
+  que enlaza cada reseña).
+- **No es unánime**: Ian Wolf (*Anime UK News*) le da 6/10; Katherine
+  Dacey (*The Manga Critic*) la llama «polarizante» ✅ (misma fuente).
+  Divide, y eso también la hace hablar.
+- **Premios** ✅ ([Wikipedia, «Awards»](https://en.wikipedia.org/wiki/Chainsaw_Man#Awards_and_nominations)):
+  - **Harvey a Mejor Manga** 2021, 2022 y 2023 (también
+    [Sportskeeda](https://www.sportskeeda.com/anime/news-chainsaw-man-manga-wins-harvey-award-announces-new-side-story-days-ahead-anime-s-premiere)).
+  - **66.º Premio Shogakukan**, categoría shōnen (2021).
+  - **Japan Expo Awards**: «Daruma» al mejor manga (2023).
+  - Selección oficial del **Festival de Angulema** (2024); nominada al
+    **Eisner** (2022).
+  - **Crunchyroll Anime Awards** (8.ª edición, 2024): **Mejor serie
+    nueva**, y **Emilio Treviño**, mejor voz en **español latino** por
+    Denji ([Wikipedia](https://en.wikipedia.org/wiki/8th_Crunchyroll_Anime_Awards),
+    [Mediotiempo](https://www.mediotiempo.com/otros-mundos/emilio-trevino-gana-premio-en-los-crunchyroll-anime-awards-2024-japon-conoce-lista-completa-ganadores)).
+    Tuvo 25 nominaciones, récord de esa edición.
+- **Ventas**: más de **36 millones** de copias hacia junio de 2026; 2.º
+  manga más vendido de 2026 por el empujón de la película ✅
+  ([Anime Explained](https://www.animeexplained.com/news/chainsaw-man-reaches-36-million-sales-before-final-volume-release/),
+  [ComicBook.com](https://comicbook.com/anime/list/5-highest-selling-manga-of-2026-so-far/)).
+  La taquilla de la película está en §10.
+
+### 18D.2 Con quién se identifica el público
+- **No hay un favorito fijo**: cada encuesta oficial la ganó otro (Power,
+  Aki, Reze; §9) ✅. En Reddit, los hilos «¿cuál es tu favorito?» tienen
+  hasta **92 comentarios** y ninguna respuesta domina ✅
+  ([r/ChainsawMan](https://www.reddit.com/r/ChainsawMan/comments/1qvuwrv/who_is_your_favorite_chainsaw_man_character_and/)).
+- **Lo que más dibujan los fans** (Danbooru): **Makima** 11.069 dibujos,
+  **Reze** 10.169, **Denji** 8.144, **Power** 6.727 ✅ (dato medido,
+  `datos-voz.md`).
+- Por qué cada uno (lectura del redactor a partir de §8, no de una
+  encuesta ⚠️): **Denji** quiere cosas pequeñas (pan con mermelada, una
+  vida normal); **Makima** atrae por el misterio; **Aki** es el hermano
+  mayor que sí sufre el duelo (§18C).
+- **Hasta el autor cambia de favorito**: Reze en 2020, Denji en 2021 ✅
+  (wiki de Reze y de Denji, que citan cada entrevista).
+
+### 18D.3 La escena que hace llorar: la cita en el cine
+- **Qué pasa** (§2.1): tras cinco películas malas, en la última Denji
+  llora en una escena «que no importa nada» y se esconde; mira a su lado
+  y **Makima también llora**, en silencio. A la salida: «Ese final no lo
+  olvido hasta que me muera.» / «Yo tampoco.»
+- **Minuto**: película, **10:05-10:41** en el subtítulo japonés (10:25-10:58
+  en el corte EN de Internet Archive) ✅.
+- **Por qué duele**: Denji, que se pregunta si tiene corazón, descubre que
+  sí; y Makima, que ve cine **para aprender a sentir** (§18C), siente algo
+  con él ✅ (wiki y Crank-in!).
+- **Qué suena**: **«our film»**, de Kensuke Ushio, la pieza que el propio
+  compositor pide oír en una sala buena ✅ (§11.2). Antes, el ruido del
+  proyector (9:21).
+- **Cómo está dibujada**: sala a oscuras, luz sólo de la pantalla;
+  **primer plano de perfil**, una lágrima, boca entreabierta (Makima,
+  10:36 EN); luego **plano general** de las dos siluetas con la pantalla
+  en blanco (10:43 EN) ✅ visto. La película de dentro va en **verde
+  azulado desaturado** (9:50) ✅.
+- **Cómo se actuó**: la dirección pedía «**llora en silencio, sin
+  ruido**». Tomori Kusunoki (Makima) no quiso sobreactuar: sólo **a ojos
+  de Denji** ella parece tierna. Kikunosuke Toya (Denji) dice que grabarla
+  fue «**un buen recuerdo**» ✅
+  ([Crank-in!, 14-sep-2025](https://www.crank-in.net/interview/172244/1)).
+- **Cómo reaccionó la gente**: Kusunoki dijo que ella misma quería
+  **verla en un cine de verdad** (misma entrevista); un análisis la llama
+  la mejor escena de la película ✅
+  ([Anime Fire](https://animefire.com/2025/11/10/the-best-scene-in-chainsaw-man-the-movie-the-reze-arc/));
+  el fandom la repite en fanfics y dibujos de «cita de cine» (デンマキ,
+  «映画デート» en Pixiv Enciclopedia, §4).
+
+### 18D.4 Las que hacen reír y las que hacen gritar
+- **Reír**: la **crítica de cine** de Makima y Denji: «No tuvo gracia. Eso
+  sí, la pantalla parecía cara.» (película, 7:56-8:03) ✅; **el coche de
+  Kobeni**, votado en dos encuestas oficiales (§9, §14); la **broma a
+  Aki** (§14); en latino, Kobeni: «Porque aún no han depositado el
+  aguinaldo» (ep. 12) ✅ (§10).
+- **Gritar de emoción**: el «**¡Bieeen!**» de Denji al aceptar la cita
+  (película, 6:44-6:46) ✅; el opening **«KICK BACK»**, que entra en el 2:02
+  del ep. 1 tras el prólogo sin música ✅ (§11); en latino, el clip
+  «**Ahuevooooo**» (§10).
+
+### 18D.5 Lo que falta ⚠️
+- **Otras escenas que hacen llorar** (las muertes de la temporada 1 y la
+  2.ª mitad del manga) no tienen minuto ni reacción medida en esta pasada.
+- **Los comentarios con más votos** sobre la escena del cine: Arctic
+  Shift dio *timeout* dos veces. El hilo de Reddit más votado recogido es
+  «¿Cuál es tu momento o personaje favorito?» (173 votos,
+  [r/ChainsawMan](https://www.reddit.com/r/ChainsawMan/comments/1mbl89t/whats_your_favorite_moment_or_character_in/)).
+- **Vídeos de reacción**: no los encontré (YouTube pide iniciar sesión).
 
 ---
 
 ## 18E · Fan dubs y comunidad hispana (punto 22)
 
-_(se rellena en esta pasada)_
+Interesa mucho: el servidor es de doblaje. YouTube y TikTok piden
+iniciar sesión desde el servidor, así que **las vistas de esas dos webs
+no están comprobadas** ⚠️; las de Dailymotion sí (por su API).
+
+### 18E.1 Fandubs en español
+
+| Qué | Canal | Dónde | Escena | Vistas |
+|---|---|---|---|---|
+| «**Makima y Denji en el Cine**» | LATAM Fandub Studios (animación de Maplestar) | TikTok y YouTube | **la misma cita del cine de la lámina** | sin comprobar ⚠️ (el título sale en varias búsquedas independientes ✅) |
+| «La Cafetería de Reze (Chainsaw Man) // Doblaje Español Latino» (0:52) | LATAM Fandub Studios | [Dailymotion x9oi0k4](https://www.dailymotion.com/video/x9oi0k4) | Reze en el café (concepto C) | **1.737** ✅ |
+| «¿Qué pasaría si Reze llegara al café? // Fandub Español Latino» (4:42) | LATAM Fandub Studios | [Dailymotion x9wjyoi](https://www.dailymotion.com/video/x9wjyoi) | Reze en el café | **578** ✅ |
+| «Makima abraza a Denji – Chainsaw Man / Fandub Latino» | sin nombre en la búsqueda | [YouTube](https://www.youtube.com/watch?v=ivDPlCp4N38) | Makima y Denji | sin comprobar ⚠️ (sólo el título) |
+
+LATAM Fandub Studios es el grupo hispano que más ha doblado esta serie
+en lo encontrado: **dos de sus vídeos tocan los sitios de los conceptos
+A y C** (el cine y el café).
+
+### 18E.2 Covers del opening en español
+- **Al menos 8 covers latinos de «KICK BACK»**, subidos entre oct-2022 y
+  ene-2023, de **David Delgado, 0uter, Alan Rojas, Iris, CGcover y
+  Tricker**, entre otros ✅ (títulos y fechas de los propios vídeos, vía
+  buscador). Enlaces y vistas: sin comprobar ⚠️.
+- Útil para el canal de canto del servidor: el opening generó comunidad.
+
+### 18E.3 Memes y orgullo hispano del doblaje
+- **«Pues no, mi ciela, ya quisieras»** (Denji a Himeno, ep. 8): el
+  propio doblaje mete un meme ✅ (Doblaje Wiki, §10).
+- **«Ahuevooooo»**: clip oficial de Crunchyroll en Español con la voz de
+  Emilio Treviño ✅ (§10).
+- **Emilio Treviño**, mexicano, ganó el Crunchyroll Anime Award a la
+  mejor voz en español latino por Denji (2024) ✅ (§10, §18D). Es el mejor
+  gancho para un servidor de doblaje.
+- **Los fans eligieron la voz de Himeno**: el director, Octavio Campos,
+  dejó que el público propusiera el reparto ✅ (Doblaje Wiki, dos notas).
+  Y Campos se dobla a sí mismo un personaje: **Yutaro Kurose** ✅.
+- El estreno de la película en cines de Latinoamérica, **doblada y
+  subtitulada** (23-oct-2025, Cinépolis y Cinemex), está en §10.
+
+### 18E.4 Lo que falta ⚠️
+- **Vistas y canal** de los fandubs y covers de YouTube y TikTok (piden
+  iniciar sesión desde el servidor).
+- **Parodias hispanas** propias (fuera de los memes del doblaje): no las
+  encontré.
 
 ---
 
 ## 18F · Colaboraciones, figuras y cosplay (punto 23)
 
-_(se rellena en esta pasada)_
+Su arte trae **poses y ropa nuevas**: sirve para salir del uniforme.
+
+### 18F.1 Portadas de revistas de moda (lo más documentado)
+Todas ✅ (imagen vista en las hojas y nota de prensa o wiki):
+- **MEN'S NON-NO** n.º 464 especial (sep-2025, por la película): Reze y
+  Makima, **en blanco y negro con pelo y ojos a color** (hoja 1, n.º 4,
+  [3197×4093](https://static.wikia.nocookie.net/chainsaw-man/images/8/87/Men%27s_Non-No_No.464_Special_Edition.png);
+  [Mantan Web](https://en.mantan-web.jp/e_article/20250901dog00m200009000c.html)).
+- **CUT** (oct-2025): **Denji y Reze abrazados con una flor** (hoja 1,
+  n.º 22, [2343×3000](https://static.wikia.nocookie.net/chainsaw-man/images/f/f7/CUT_2025-10.png));
+  y la de nov-2022 ([1586×2048](https://static.wikia.nocookie.net/chainsaw-man/images/0/03/CUT_2022-11.png),
+  hoja 2, n.º 95).
+- **UOMO** (nov-2022): hoja 2, n.º 93
+  ([1600×2048](https://static.wikia.nocookie.net/chainsaw-man/images/f/f0/UOMO_2023-1.png)).
+- **EYESCREAM** (ene-2023): **Power cubierta de sangre** con adornos en la
+  cabeza, de NAKAKI PANTZ (hoja 2, n.º 96,
+  [1586×2048](https://static.wikia.nocookie.net/chainsaw-man/images/7/74/EYESCREAM_2023-1.png);
+  [Anime Corner](https://animecorner.me/chainsaw-man-animes-power-featured-on-eyescream-magazine-cover/)).
+- **Nylon Japan** (feb-2023): Chainsaw Man con sangre en la sierra
+  ([CBR](https://www.cbr.com/chainsaw-man-fashion-icon-nylon-cover/)).
+- **an·an**: Aki en portada y contraportada, ilustración de MAPPA
+  ([Anime Corner](https://animecorner.me/aki-hayakawa-featured-on-the-cover-of-japanese-fashion-magazine-anan/)).
+
+### 18F.2 Ropa: UNIQLO UT (dos veces)
+- **2023**: 9 camisetas con el ilustrador **Kosuke Kawamura**, collage
+  rasgado sobre escenas del anime ✅
+  ([Anime News Network](https://www.animenewsnetwork.com/interest/2023-08-25/uniqlo-launches-chainsaw-man-x-kosuke-kawamura-ut-fashion-collection/.201630)).
+- **2025** (por la película): 3 diseños (2 negros, 1 blanco) con Pochita
+  y el Demonio Motosierra ✅
+  ([UNIQLO UT](https://www.uniqlo.com/us/en/contents/feature/ut-magazine/s188-chainsaw-man/),
+  [Hypebeast](https://hypebeast.com/2025/7/chainsaw-man-uniqlo-ut-collaboration-release-info)).
+
+### 18F.3 Cafés temáticos y eventos
+- **Feb-2023**: café en Tokio, Nagoya y Osaka, estilo **pastelería de
+  lujo**; los personajes dibujados **vestidos de pasteleros** en pósters y
+  posavasos ✅ (Soranews24, Siliconera; menú en §18C).
+- **Dic-2023 a feb-2024**: otro café temporal ✅ (Tokyo Cheapo, según la
+  parte de imagen).
+- **2025**: café de la película ✅ ([iwafu](https://www.iwafu.com/en/events/1033042)).
+- **Jump Festa 2025**: Denji, Aki, Makima y Power en **cartel pop de un
+  solo color de fondo** (hoja 1, n.º 18-21) ✅.
+- **Ichiban Kuji** (lotería de premios): tablero dibujado de Denji y Reze
+  (premio D) (§3).
+- **Exposición del anime**: foto de la zona de Chainsaw Man, con licencia
+  **CC BY-SA 4.0** ([Wikimedia Commons, 2400×1800](https://upload.wikimedia.org/wikipedia/commons/a/a0/Cosir_at_Chainsaw_Man_exhibition_area_20221106e.jpg))
+  ✅.
+
+### 18F.4 Figuras oficiales (pose 3D real)
+Good Smile Company ✅. Una figura es una **pose 3D hecha por escultores**:
+mejor referencia de ángulo y apoyo que un render de fan.
+- **Nendoroid Denji**, con piezas para pasar a Chainsaw Man y Pochita a
+  escala ([Good Smile](https://www.goodsmile.info/en/product/10715/Nendoroid+Denji.html)).
+- **Nendoroid Power**: 3 caras, martillo, cuchillos y Nyako en miniatura
+  ([Good Smile](https://www.goodsmile.info/en/product/10834/Nendoroid+Power.html)).
+- **Nendoroid Makima**: 3 caras, piruleta, gabardina
+  ([Good Smile US](https://www.goodsmileus.com/products/nendoroid-makima-59111)).
+- **Pop Up Parade**: Aki, Power, Makima, Himeno y Kobeni; Makima mide 16
+  cm, con **sonrisa conspiradora**
+  ([Good Smile: Chainsaw Man](https://www.goodsmile.info/en/chainsawman)).
+
+### 18F.5 Cosplay bien hecho
+- **Vinnegal**, como Makima (varias sesiones, una del arco de Reze) ✅
+  ([X de la cosplayer](https://x.com/Vinnegal/status/1547281320816041986),
+  [ComicBook.com](https://comicbook.com/anime/news/chainsaw-man-makima-cosplay-best-girls-anime/)).
+- **Wiru_Son**, como Denji, con colmillos ⚠️ (sólo el resumen de
+  [ComicBook.com](https://comicbook.com/anime/news/chainsaw-man-cosplay-perfect-denji/)).
+- Un Denji con **motosierra con motor de verdad** como accesorio ⚠️
+  (sólo el titular en ComicBook.com, sin nombre): buena referencia de
+  material y volumen.
+- Fotos libres de cosplay en Flickr (Openverse): Makima, **CC BY-SA 2.0**
+  ([marelywaffle](https://live.staticflickr.com/65535/52618867029_62e8c81ba2_b.jpg));
+  Yoru, CC BY-NC-ND 2.0 ([Flickr](https://live.staticflickr.com/65535/52269812384_9b786236fa_b.jpg)).
+
+### 18F.6 Cruces con otros juegos
+- **No encontré** ningún *crossover* con otro juego o marca de juegos
+  (busqué Fortnite, Identity V y «gacha collaboration», en inglés y
+  japonés). Queda como «no lo encontré», no como «no existe».
+- La franquicia sí tiene **juego propio anunciado**: **Chainsaw Man
+  Mobile** (MAPPA, 19-jun-2026), sin fecha (§13).
 
 ---
 
 ## 18G · Obras parecidas y temas relacionados (punto 24)
 
-_(se rellena en esta pasada)_
+### 18G.1 Lo que dice el propio Fujimoto
+- Llamó a su serie **«una copia de *Dorohedoro* y *Jujutsu Kaisen*»**, un
+  **«*FLCL* malvado»** y un **«*Abara* pop»** (*Abara*, de Tsutomu Nihei,
+  el de *Blame!*) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Chainsaw_Man));
+  ⚠️ cita de segunda mano: no vi la entrevista original en japonés.
+- Comparó el tono de la **2.ª parte** con ***El gran Lebowski*** (por su
+  final ambiguo) ✅ (misma fuente).
+
+### 18G.2 Influencias directas
+- ***La matanza de Texas*** (1974): «la motosierra molaba»; de ahí el
+  nombre ✅ ([FandomWire](https://fandomwire.com/tatsuki-fujimoto-took-inspiration-from-iconic-30-9-million-movie-texas-chainsaw-massacre/),
+  Wikipedia).
+- El clímax de la 1.ª parte sale de la pelea final de
+  ***Kizumonogatari III: Reiketsu*** (2016) ✅ (Wikipedia).
+- El arco de Reze (manga y película) sale de ***Jin-Roh: La Brigada del
+  Lobo*** (tono y alegoría de Caperucita Roja) y de ***Antes del
+  amanecer*** (*Before Sunrise*, Linklater: una cita que dura una noche)
+  ✅ ([SlashFilm](https://www.slashfilm.com/2020861/chainsaw-man-the-movie-reze-arc-romance-before-sunrise-inspiration/)).
+- Además cita, entre lo que le gusta, ***FLCL***, ***Sharknado***,
+  ***Interstellar***, ***El club del tifón*** (台風クラブ), ***Hereditary*** y
+  hasta *Winnie the Pooh* ✅ ([Real Sound](https://realsound.jp/book/2023/01/post-1229201.html),
+  [EpicStream](https://epicstream.com/article/things-that-inspired-chainsaw-man-creator-tatsuki-fujimoto)).
+  Su lista de películas recomendadas está en §11.3.
+
+### 18G.3 Con qué la compara la crítica
+- ***Devilman*** (Go Nagai): sexo y violencia crudos, un chico que muere y
+  vuelve fusionado con un demonio. Varios medios la llaman su heredera ✅
+  ([CBR](https://www.cbr.com/devliman-chainsaw-man-anime/),
+  [Seize the Press](https://www.seizethepress.com/2024/02/10/rip-and-tear-stp9/)).
+- *Army of Darkness* y *Dorohedoro* (Sequential Tart, §18D) ✅.
+
+### 18G.4 Obras parecidas (lo que recomiendan los fans)
+Recomendaciones de usuarios de [AniList](https://anilist.co/anime/127230),
+de más a menos votos ✅ (dato medido): ***Jujutsu Kaisen*** (1.099),
+***Dorohedoro*** (599), ***Devilman Crybaby*** (420), ***Dandadan***
+(381), ***Parasyte*** (311), ***Hell's Paradise*** (257), ***Kaiju
+No. 8*** (208), ***Tokyo Ghoul*** (161), ***Zom 100*** y ***Undead
+Unluck*** (90), ***Attack on Titan*** (89), ***Tatsuki Fujimoto 17-26***
+(84, sus historias cortas en anime) y ***FLCL*** (71).
+
+### 18G.5 Del mismo autor
+- ***Fire Punch***: Kobeni tiene **los mismos lunares** que Togata ✅
+  (wiki, §18C).
+- ***Tatsuki Fujimoto 17-26***: antología animada de sus historias cortas
+  (AniList, arriba) ⚠️ (una fuente).
+
+### 18G.6 Otras láminas del servidor (para no repetir)
+- **Ningún otro encargo** apunta a #que-estas-viendo ✅ (revisados con
+  `grep` los más de 130 archivos de `encargos/`).
+- En tono (sangre, tema adulto), las más cercanas son **18 Death Note**
+  (el cuaderno sobre la mesa) y **02 Attack on Titan** (la estela de
+  piedra). Usan otros canales y otros objetos. **El cine y las entradas
+  no se repiten** en ningún otro concepto ✅.
 
 ---
 
 ## 18H · El mundo, la historia y sus símbolos (punto 25)
 
-_(se rellena en esta pasada)_
+### 18H.1 Las reglas del mundo, en cinco líneas
+✅ en la wiki y en [Wikipedia](https://en.wikipedia.org/wiki/Chainsaw_Man).
+1. Los **demonios** nacen en el **Infierno** del miedo humano a algo:
+   cuanto más se teme, más fuerte es el demonio ([wiki: Devil](https://chainsaw-man.fandom.com/wiki/Devil)).
+2. Un demonio firma un **contrato** con un humano: poder a cambio de algo
+   (años de vida, un órgano, obediencia). Romperlo mata, salvo que el
+   contrato traiga una salida
+   ([wiki: Contract](https://chainsaw-man.fandom.com/wiki/Contract)).
+3. Un **endemoniado** (*Fiend*, 魔人) es un demonio dentro de un cadáver,
+   como Power; un **híbrido** es un humano fundido con un demonio, como
+   Denji con Pochita ([wiki: Fiend](https://chainsaw-man.fandom.com/wiki/Fiend)).
+4. La **Seguridad Pública** (gobierno) y el **sector privado** cazan
+   demonios en Japón ([wiki: Devil Hunter](https://chainsaw-man.fandom.com/wiki/Devil_Hunter)).
+5. Los **Cuatro Jinetes** (Control, Guerra, Hambruna y Muerte) son los
+   demonios más fuertes ([wiki: Four Horsemen](https://chainsaw-man.fandom.com/wiki/Four_Horsemen)).
+   Quién es cada uno es **spoiler**: no va en la lámina.
+
+### 18H.2 La historia por arcos
+✅ ([wiki: Public Safety Saga](https://chainsaw-man.fandom.com/wiki/Public_Safety_Saga),
+[Academy Saga](https://chainsaw-man.fandom.com/wiki/Academy_Saga)).
+
+**Parte 1, Seguridad Pública** (cap. 1-97, dic-2018 a dic-2020; la
+película adapta la Chica Bomba, cap. 39-52, y la serie de 2022 va antes,
+§2):
+- **Introducción** (1-4): Denji muere y renace como Chainsaw Man.
+- **Demonio Murciélago** (5-13): rescata a la gata de Power.
+- **Demonio Eternidad** (14-22): misión por un trozo del Demonio
+  Pistola.
+- **Katana Man** (23-38): venganza tras el ataque a la División 4.
+- **Chica Bomba** (39-52): **empieza con la cita del cine con Makima**
+  (cap. 39) y sigue con Reze. Es el arco de la película.
+- **Asesinos internacionales** (53-70): Denji, objetivo del mundo.
+- **Demonio Pistola** (71-79) y **Demonio Control** (80-97): el final de
+  la parte 1 (spoiler).
+
+**Parte 2, la Academia** (cap. 98-232, jul-2022 a mar-2026): Asa Mitaka
+y Yoru; las citas con Denji; la Iglesia de Chainsaw Man; el Demonio
+Vejez; el Demonio Muerte y el final de la obra.
+- **Fin del manga**: **232 capítulos y 24 tomos** ✅; el día no coincide
+  entre fuentes: **25-mar-2026** según la wiki, **24-mar-2026** según un
+  resumen de búsqueda ⚠️.
+
+### 18H.3 Símbolos y objetos que un fan reconoce al instante
+- **El cordón del pecho** de Denji: tira de él y salen las motosierras.
+  Es el gesto que define a Chainsaw Man ✅ (wiki: Denji y Pochita; se ve
+  en toda la mercancía). Sirve como detalle pequeño, sin sangre (un
+  llavero, un tirador).
+- **Pochita**: perro naranja con una motosierra en la cabeza y la cola de
+  cordón de arranque (§18C).
+- **El traje negro con corbata** de la Seguridad Pública ✅ (§18B; **sin
+  escudo propio**, no lo encontré).
+- **El logo チェンソーマン** a mano, con bordes dentados (§6, §18B).
+- **シネマ座**, el cine de la cita (§2, §5): el símbolo de esta lámina.
+- **Las entradas de cine y el pan con mermelada** (§14).
+- Curiosidad: en la página de Pochita, la wiki guarda una foto de una
+  **motosierra Makita** real, naranja (hoja 3, n.º 414; [1840×1110](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Makita_Chainsaw_%283%29.jpg))
+  ⚠️ (sin explicación oficial).
+
+### 18H.4 Vocabulario propio (para textos y para la IA)
+Demonio (*Devil*, 悪魔) · Endemoniado (*Fiend*, 魔人) · Híbrido
+(*Hybrid*) · Contrato (*Contract*) · Cazador de Demonios (*Devil
+Hunter*; **el doblaje latino lo deja en inglés**, §10) · Seguridad
+Pública · sector privado · **División Especial 4** (*Tokyo Special
+Division 4*) · Infierno (*Hell*) · Cuatro Jinetes · «**Katana Man**»
+(así llaman en latino a Samurai Sword) · «guau» (lo que Makima deja decir
+a Denji, §14).
 
 ---
 
@@ -1734,10 +2337,20 @@ sitios distintos del mismo mundo.
   brazo de una butaca, junto a un vaso de bebida (Denji sorbe su bebida
   en el 8:11 ✅). Todo en **Blender**: butacas de §4.2, tela de §5.4,
   entradas con el papel de §5.4 y una esquina doblada.
+  **Segunda pasada**: las butacas son **mostaza o ámbar** (`#544A36` en
+  sombra, `#7C6D4A` con luz; Fabric022 o Fabric026 recoloreadas), no rojo
+  vino; las entradas, en **Paper005 o Paper006** (crema con grano); el
+  público de delante, **simple y sin sombra**, como en la viñeta del
+  cap. 39 ([717×582](https://static.wikia.nocookie.net/chainsaw-man/images/9/9f/Denji_and_Makima%27s_movie_date.png))
+  (§5, §18A).
 - **Personajes**: **Makima y Denji** sentados, de espaldas, sólo se ven
   sus perfiles. Makima **girada hacia él** (pose Makima n.º 6, película
   9:09-9:19); Denji mirándola de reojo (Denji n.º 5). Makima es 2.ª en
-  las dos últimas encuestas y la escena es suya.
+  las dos últimas encuestas y la escena es suya. Makima con **pelo
+  granate** `#4C201F` (el de la película) y, si se le ve la ropa, la **de
+  calle de la cita** (cárdigan claro, falda oscura; §16), no el uniforme.
+  Referencia de pose en vídeo: Makima girada hacia él, 9:28 del corte EN
+  (§15).
 - **Cómo habla**: su frase va **como subtítulo** en la pantalla del cine,
   letra blanca con borde negro (**Zen Kaku Gothic New** Black):
   «Encuentro una buena de cada diez. Pero esa una te cambia la vida.»
@@ -1752,20 +2365,30 @@ sitios distintos del mismo mundo.
   - «¿Spoilers? Márcalos como spoiler.»: **en la entrada 2**, como la
     advertencia de letra pequeña, o **a mano** con bolígrafo (Yuji Syuku).
 - **Para que no quede plano**: el **haz del proyector** con polvo cruza
-  por encima de las cabezas; la **pantalla da luz de contra** (borde de
-  luz fría en el pelo de Makima); las **entradas y el vaso en primer
+  por encima de las cabezas, **blanco cálido con un halo verde-violeta**
+  (medido, 7:44 del corte EN); la **pantalla da luz de contra**: si es la
+  última película, **verde azulada** (`#415855`-`#7A8E87`, 9:50), un borde
+  en el pelo de Makima; las **entradas y el vaso en primer
   plano**, nítidos, y los personajes un poco desenfocados; el respaldo
-  de la butaca de delante tapa el borde de abajo.
+  de la butaca de delante tapa el borde de abajo. Encima, el tratamiento
+  de Itō: tinte complementario, grano fino y brillo en las luces (§18A.4).
 
 ### Concepto B — «La cartelera» (vestíbulo del cine, con Power)
 - **Objeto y sitio**: el **tablero de letras** de la entrada del cine
   (fondo negro con ranuras y letras blancas de plástico que se encajan a
   mano) sobre la **taquilla**. Se hace en Blender: cada letra es una
-  pieza con su sombra.
+  pieza con su sombra. **Segunda pasada**: encima, la **marquesina real
+  del cine**, con su nombre **シネマ座** en letras plateadas en relieve
+  (`#9CADAD`) sobre un **panel verde azulado metálico**
+  (`#464E4D`-`#758382`) y **4 focos colgantes** (9:12 del corte EN, §5).
+  El tablero de letras es propuesta; la marquesina, no.
 - **Personajes**: **Power**, subida a una silla, **encajando letras** y
   señalando el tablero con orgullo (pose Power n.º 1: «¡Inclínate ante
   mí!»); **Denji** abajo sujetando la silla, con cara de fastidio (Denji
   n.º 10). Power ganó la 1.ª encuesta y la de VIZ, y es la de los memes.
+  Referencias 3D de pose: el **Nendoroid** y la **Pop Up Parade** de Power
+  (§18F.4). Ojo con su **pupila en aspa** roja y amarilla si se ve de
+  cerca (ep. 2, 19:20, §15).
 - **Cómo habla**: subtítulo en las **franjas negras** de la imagen
   (formato cine): «¡Humanos! ¡Díganme qué están viendo! Si es malo, yo
   lo digo.» y Denji, en cursiva (pensamiento): «Ésta no ha visto ni una.»
@@ -1778,8 +2401,8 @@ sitios distintos del mismo mundo.
     cristal de la taquilla.
   - «¿Spoilers? Márcalos como spoiler.»: **letrero pequeño** de «aviso»
     junto a la ventanilla, como los de «prohibido grabar».
-- **Para que no quede plano**: la **luz cálida de la marquesina** de
-  arriba contra el vestíbulo más oscuro; el **cristal de la taquilla**
+- **Para que no quede plano**: la **luz cálida de los 4 focos de la
+  marquesina** de arriba contra el vestíbulo más oscuro; el **cristal de la taquilla**
   con reflejos delante de Denji; una **letra caída** en el suelo en
   primer plano. Los carteles de la pared, **inventados** (siluetas que
   recuerden a las películas del opening, §11), nunca carteles reales.
@@ -1793,7 +2416,11 @@ sitios distintos del mismo mundo.
 - **Personaje**: **Reze** (1.ª en la 3.ª encuesta, con el doble de votos),
   con la tiza en la mano, **medio girada hacia el que mira**, sonriendo
   con picardía (poses Reze n.º 3 y 6). Denji, de espaldas en la barra,
-  con su café sin tocar (le sabe «a alcantarilla», 17:40 ✅).
+  con su café sin tocar (le sabe «a alcantarilla», 17:40 ✅). Colores de
+  Reze medidos en su diseño oficial (§16): pelo `#3F395E` (morado
+  azulado oscuro), blusa `#EDE9F1`, shorts `#323037`. Guiño para el
+  servidor: el fandub latino «**La Cafetería de Reze**» pasa en este
+  mismo sitio (§18E).
 - **Cómo habla**: subtítulo en la franja negra de abajo: «¿Y tú qué
   estás viendo? Cuéntame. ¡Y nada de spoilers, eh!» (propuesto, en su
   tono juguetón ✅: «¡Correcto! ¡Genio!», «Te enseño»).
@@ -1819,27 +2446,87 @@ fácil de leer en el celular.
 
 ## 20 · Lo que no pude verificar
 
-- **Ningún fotograma mirado**: YouTube, Fandom y Crunchyroll estaban
-  bloqueados. Los minutos salen de subtítulos; **las posturas, de memoria
-  o del contexto** ⚠️.
-- **La ropa que llevan en la cita del cine**, el aspecto exacto de la sala
-  y de las entradas.
-- **La frase latina de Makima** en el cine: no oí el doblaje.
-- **Voces latinas** de Kobeni (dudosa), Himeno, Kishibe y Beam.
-- **Licencias exactas** de los modelos de Sketchfab y **qué textura** de
-  ambientCG es terciopelo.
-- **Tamaños** de las imágenes oficiales y de los fondos de pantalla.
-- **Minuto de cada plano** del opening.
-- **Hex** de la paleta: todos aproximados.
-- **Cine real** que sirvió de modelo a la sala.
-- **Reddit** (bloqueado para la búsqueda), **The Cutting Room Floor**
-  (no hay juego publicado) y **Wayback Machine** (no me quedó cupo).
+Primera pasada (24-sep), y lo que hizo con ello la segunda (25-sep):
+- ~~**Ningún fotograma mirado**~~ → **resuelto en parte**: la película y
+  los ep. 1, 2 y 7 se vieron en Internet Archive, y el tráiler en
+  Dailymotion. Siguen con ⚠️ las **posturas de §15** que no se vieron en
+  fotograma.
+- ~~**La ropa de la cita del cine y la sala**~~ → **resuelto**: Makima va
+  de calle (§16); la sala, con butacas mostaza y el rótulo シネマ座 (§5).
+  Sigue sin verse la ropa de **Denji** de cuerpo entero en la cita ⚠️, y
+  las **entradas** no salen en plano (son propuesta).
+- **La frase latina de Makima** en el cine: **sigue sin oírse** ⚠️
+  (YouTube pide iniciar sesión; la película doblada está en Crunchyroll).
+- ~~**Voces latinas** de Kobeni, Himeno, Kishibe y Beam~~ → **resuelto**
+  (§10).
+- ~~**Licencias de Sketchfab** y la textura de terciopelo~~ →
+  **resuelto** (§4, §5.4).
+- ~~**Tamaños** de imágenes oficiales y fondos~~ → **resuelto** con la API
+  de la wiki y Wallhaven. Alpha Coders: tamaños sí, enlace directo de
+  cada imagen no ⚠️.
+- **Minuto de cada plano** del opening: **en parte** (entra en el 2:02;
+  título «KICK BACK» 3:08-3:11; logo 3:41-3:44) ⚠️.
+- ~~**Hex aproximados**~~ → **medidos** en fotogramas y arte oficial
+  (§5.3, §16).
+- **Cine real** que sirvió de modelo a la sala: **sigue sin encontrarse**
+  ⚠️ (buscado también como シネマ座 en la wiki).
+- **Reddit**: sólo títulos de hilos (recolector); Arctic Shift dio
+  *timeout*. **The Cutting Room Floor**: no aplica (no hay juego
+  publicado). **Wayback Machine**: tampoco se usó en la segunda pasada
+  (ninguna parte lo anota) ⚠️.
+- Nuevos de la segunda pasada: vistas de fandubs y covers en YouTube y
+  TikTok (§18E), cumpleaños de los personajes (§18C), el programa de
+  dibujo de Fujimoto (§18A) y el día exacto del final del manga (§18H) ⚠️.
 
 ---
 
 ## Cumplimiento del encargo
 
-_(se rellena en esta pasada)_
+Los 25 puntos de ENCARGO.md, «Qué investigar», y lo demás que pide.
+✅ hecho · ⚠️ a medias (y por qué) · ❌ no hecho. Revisado el 25-sep-2026,
+al cerrar la segunda pasada.
+
+| Punto | Qué pide | Estado | Dónde y por qué |
+|---|---|---|---|
+| 1 | Arte oficial, en cantidad y variado | ✅ | §3 y §3A: tomos 1-11 (menos el 3) con tamaño, versiones sin texto, revistas, cartel IMAX, *key visuals*, Jump Festa, ilustraciones de revelado. Faltan los tomos 3 y 12-24 (detalle) |
+| 2 | Fotogramas de escenas icónicas en 1080p, con capítulo y minuto | ✅ | §2 y §15: la cita del cine vista entera y sus fotogramas en 1080p reales (Internet Archive); Power (ep. 2) y Aki (ep. 7) en fotograma |
+| 3 | Fan art y 3D con licencia libre | ✅ | §4: fan art con autor (Pixiv, ArtStation, Safebooru) y 30 modelos de Sketchfab con licencia leída en su API |
+| 4 | Fondos y sitios, luz, paleta y texturas reales | ✅ | §5: シネマ座 con paleta medida, área de descanso, lugares reales, texturas de ambientCG miradas. ⚠️ sin encontrar: qué cine real inspiró la sala |
+| 5 | Tipografía por uso, letra libre con tildes, ñ, ¿ y ¡ | ✅ | §6: una letra por uso, comprobadas con fontTools |
+| 6 | Cómo hablan en pantalla (el cuadro de diálogo) | ✅ | §7: el subtítulo de cine de la propia escena. No hay juego publicado con cajas de diálogo (§13) |
+| 7 | Personajes y encuestas de popularidad | ✅ | §8 y §9: 3 encuestas oficiales con top 10 y votos, VIZ, Danbooru y AniList |
+| 8 | Doblaje latino: reparto en dos fuentes y frases textuales | ⚠️ | §10: todo el reparto con nombre, ✅ en dos fuentes; frases con episodio (Doblaje Wiki) y clips. Falta el **minuto** de las frases y la **frase latina de Makima en el cine**: YouTube pide iniciar sesión y las muestras de Doblaje Wiki no se pasaron por `voz.py` |
+| 9 | Música y sonido | ✅ | §11: opening, endings (el del ep. 1 sin animación), piezas de Ushio para la escena del cine, sonido de cada película |
+| 10 | Vídeos y tendencias con minuto exacto | ⚠️ | §12: tráiler, opening y endings mirados con minuto. Los enlaces de YouTube y los de TikTok siguen **sin verificar** (piden sesión) |
+| 11 | Videojuegos: interfaz, menús, cajas de diálogo | ✅ | §13: no hay juego publicado (dicho y por qué); *Chainsaw Man Mobile* anunciado el 19-jun-2026, sin interfaz pública aún |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14 |
+| 13 | Descripción profunda de cada personaje y su cara en cada emoción | ⚠️ | §8: carácter, historia, cómo habla, dinámicas ✅. Caras con fotograma sólo algunas (alegría de Denji 7:04, llanto de Makima 10:36, grito de Power); **faltan rabia, miedo y vergüenza** en vídeo |
+| 14 | Poses analizadas (6-10 por personaje) con minuto | ⚠️ | §15: 49 poses con minuto o enlace; las marcadas ⚠️ salen del subtítulo o del contexto y **no se vieron en fotograma** |
+| 15 | Vestuario con hex | ✅ | §16: hex medidos con Pillow en diseños oficiales y fotogramas; ropa de la cita |
+| 16 | Ciudades, paisajes y fondos de pantalla | ✅ | §17: 15 fondos de Wallhaven con tamaño y autor, Alpha Coders con tamaños; sitios con luz y hora |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos, etiquetas, paleta medida, línea, luz, encuadre, palabras que ayudan y que estropean, frases reales por emoción |
+| 18 | Estilo de dibujo y técnica, y cómo replicarlo | ✅ | §18A: manga y anime (CGWORLD: programas, *rigs*, fotografía de Itō), encuadres, guía de Photoshop y Blender, *rigs* libres. ⚠️ el programa de Fujimoto (una fuente) |
+| 19 | Texturas 2D | ✅ | §18B: rayado, trama, papel, terciopelo, grano, logo, con licencia |
+| 20 | Gustos y detalles de cada personaje | ⚠️ | §18C: alturas, manías, objetos, trivia. **No hay *databook*** encontrado: faltan **cumpleaños** y comidas favoritas de varios |
+| 21 | Por qué la gente la ama y las escenas que hacen llorar | ⚠️ | §18D: crítica, premios, ventas, identificación y la escena del cine completa (minuto, música, dibujo, actuación). Faltan **otras escenas** con minuto y los **comentarios más votados** (Arctic Shift dio *timeout*) |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | §18E: fandubs de LATAM Fandub Studios (vistas de Dailymotion ✅), 8 covers de «KICK BACK», memes y premio del doblaje. **Vistas de YouTube y TikTok sin comprobar** |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | §18F: 6 revistas, UNIQLO UT ×2, cafés, figuras de Good Smile, cosplay con nombre. Cruces con otros juegos: no encontré |
+| 24 | Obras parecidas y temas relacionados | ✅ | §18G: lo que dice Fujimoto, influencias, crítica, recomendaciones de AniList y otras láminas del servidor |
+| 25 | El mundo, la historia y sus símbolos | ✅ | §18H: reglas en cinco líneas, arcos de las dos partes, símbolos y vocabulario. ⚠️ el día exacto del final del manga |
+| Conceptos | Tres conceptos de lámina distintos | ✅ | §19: A fila de butacas (Makima y Denji), B cartelera y marquesina シネマ座 (Power), C pizarra del café (Reze) |
+| Fuentes | Mínimo 40 fuentes distintas | ✅ | 130 webs distintas enlazadas (`revisar.py`) |
+| Tipo | Oficiales (web, redes, entrevistas, *making of*) | ✅ | chainsawman.dog, X oficial, Shōnen Jump, Crank-in!, CGWORLD, Natalie, Good Smile, UNIQLO |
+| Tipo | En otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (CGWORLD, Crank-in!, Real Sound, Yahoo!知恵袋), coreano (NamuWiki) y chino (Wikipedia china, Douban) en la primera pasada. ⚠️ ningún análisis de técnica en coreano o chino |
+| Tipo | Wikis de fans, TV Tropes, The Cutting Room Floor, Wayback Machine | ⚠️ | Fandom, Doblaje Wiki, TV Tropes, VS Battles, NamuWiki ✅. TCRF no aplica (no hay juego). **Wayback Machine no se usó** en ninguna pasada |
+| Tipo | Foros y comunidades | ✅ | Reddit (hilos con votos, vía recolector), X, Yahoo!知恵袋, Letterboxd, MyAnimeList. Arctic Shift dio *timeout* |
+| Tipo | Arte (Pixiv, ArtStation…) | ✅ | Pixiv, Pixiv Enciclopedia, ArtStation, Safebooru, Danbooru, Wallhaven |
+| Tipo | Vídeo con minuto exacto | ⚠️ | Internet Archive y Dailymotion mirados con minuto ✅; YouTube y TikTok sin abrir (piden sesión) |
+| Tipo | Código y recursos (GitHub, Sketchfab, texturas) | ✅ | subtítulos en GitHub, Google Fonts, Sketchfab (API), ambientCG, Clip Studio Assets |
+| Tipo | Doblaje latino (Doblaje Wiki, ANMTV, entrevistas, créditos) | ✅ | Doblaje Wiki por su API, AniList, ANMTV, entrevistas en prensa latina |
+| Hojas | 3 hojas de contacto en `hojas/`, JPEG de menos de 3 MB | ✅ | `imagen_01` (1,1 MB), `imagen_02` (1,2 MB), `imagen_03` (0,85 MB); qué número sirve, en §3A |
+| Referencias | `referencias.json`, mínimo 20, las mejores primero | ✅ | 266 referencias, 142 con tamaño medido; primero los fotogramas del cine en 1080p |
+| Minutos y hex | 15 minutos citados, 10 colores medidos | ✅ | más de 300 minutos y 45 hex (`revisar.py`) |
+| Repaso | «Segunda pasada · qué cambió» y bitácora ampliada | ✅ | arriba del todo y §21 |
 
 ---
 
@@ -1970,11 +2657,92 @@ _(se rellena en esta pasada)_
   Informador, Récord, Diario de México.
 
 ### Lo que NO encontré
-- Un **cuadro de diálogo propio** de la franquicia (no existe: no hay
-  juego publicado y el manga usa globos corrientes).
+- Un **cuadro de diálogo propio** de la franquicia: no lo encontré (no
+  hay juego publicado; *Chainsaw Man Mobile* sólo está anunciado, §13, y
+  el manga usa globos corrientes).
 - **La frase latina de Makima** en el cine y la ropa de la cita.
 - **Qué cine real** es la sala de la cita.
 - **Subtítulos o guiones en español** de la serie o la película en GitHub.
 - **Minutos** de los planos del opening y de los vídeos de TikTok.
 - Nada en **The Cutting Room Floor** (no hay juego) ni en **Wayback
   Machine** (sin cupo).
+
+### Segunda pasada (25-sep-2026, red abierta)
+Resumen de las bitácoras de las 4 partes (el detalle, en cada
+`partes/<rol>.md`). Cada investigador tenía su cupo de ~50 búsquedas web;
+usaron pocas porque la red directa dio casi todo.
+
+**Recolector gratuito** (`recolectar.py`, 24-sep): AniList (obra, staff,
+recomendaciones, fichas), Doblaje Wiki (reparto, muestras de audio,
+«Datos de interés»), Fandom (imágenes y texto), Danbooru, Safebooru,
+Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive,
+MusicBrainz, Steam y Reddit. Falló AnimeThemes (HTTP 522).
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- API de la wiki (inglés): tamaños de tomos 1-2 y 4-11, revistas y
+  diseños del arco de Reze; wikitext del cap. 39; categoría «Chapter 39
+  Images»; búsquedas «badge OR emblem Public Safety» e «insignia pin
+  uniform» (sin resultado).
+- API de Sketchfab: licencia y autor de 30 modelos, uno por uno.
+- Alpha Coders: ahora abre (HTTP 200); tamaños y un autor del HTML.
+- 12 búsquedas web (español, inglés, japonés): revistas de moda, cafés,
+  Good Smile, UNIQLO UT, tramas de Fujimoto, 藤本タツキ クリップスタジオ,
+  pinceles de Clip Studio y Photoshop, cosplay (Vinnegal, Wiru_Son),
+  juego para móvil.
+- Colores medidos con `estilo.py` y Pillow en los 5 diseños oficiales.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- Internet Archive: la película (`rezearc`, 100:08, 1920×1080) y los 12
+  episodios (`ep-03-cm`); usados el 1, el 2 y el 7. Fotogramas en 1080p
+  con `ffmpeg` por salto HTTP, sin bajar los 5,28 GB.
+- Dailymotion: tráiler `x8dsw0h`, visto entero.
+- `fotogramas.py` 9 veces y `estilo.py` 5 veces; vídeos borrados tras
+  sacar las hojas.
+- AnimeThemes: 522 en la API y en la CDN (descartado).
+- 2 búsquedas web (inglés): minuto del opening y el ending sin animación
+  del ep. 1.
+- Wiki: `srsearch` de «movie theater scene reference» y «シネマ座» (sin
+  resultado).
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki: wikitext completo de la serie y de la película.
+- AniList: 14 fichas de personaje (voz «Spanish» como segunda fuente).
+- Wiki en inglés: wikitext de Denji, Makima, Power, Aki, Reze, Himeno,
+  Kobeni y «Popularity Polls».
+- Wikipedia en inglés: «Critical reception», «Awards» y «8th Crunchyroll
+  Anime Awards».
+- Crank-in! (japonés): entrevista a Toya y Kusunoki (14-sep-2025).
+- 9 búsquedas web (español, inglés, japonés): premios, Emilio Treviño,
+  covers de «Kick Back», fandubs, ventas 2026, la frase de Makima,
+  楠木ともり マキマ インタビュー.
+- Arctic Shift: 2 intentos, los dos con *timeout*.
+
+**Texto y técnica** (puntos 18, 24, 25)
+- API de la wiki: `allpages`, «Public Safety Saga», «Academy Saga»,
+  «Devil», «Contract», «Fiend», «Devil Hunter», «Four Horsemen»,
+  «Pochita», «Denji»; búsquedas «story arc», «ripcord OR pull cord»,
+  «Public Safety emblem OR symbol».
+- Búsquedas web en inglés (6) y japonés (3): influencias de Fujimoto,
+  CGWORLD, *color grading*, estilo del manga, Devilman, División 4;
+  チェンソーマン 藤本タツキ 影響 映画, 藤本タツキ 作画 使用ソフト.
+- Leídos: Anime Herald, CGWORLD partes 1 y 3, Wikipedia en inglés.
+  **medium.com dio 403** (no sirvió).
+- `grep` sobre los más de 130 `encargos/` para las láminas parecidas.
+
+**Redactor**: leyó las 4 partes y los `datos-*.md` para completar;
+rehízo `referencias.json` con todo lo útil de `partes/*.json` y
+`datos.json` (266, las mejores primero); dejó fuera el fan art de otra
+serie que coló Danbooru (etiqueta de Bakugou), fotos de Flickr sin
+relación (motosierras de verdad) y un juego de Steam ajeno.
+
+**Lo que siguió sin encontrarse en la segunda pasada**
+- La frase latina de Makima en el cine (YouTube pide sesión).
+- Vistas de fandubs y covers en YouTube y TikTok.
+- Qué cine real inspiró シネマ座 y qué película homenajea la película de
+  dentro.
+- Un emblema de la Seguridad Pública (no hay escudo en la wiki).
+- Una segunda fuente para el programa de dibujo de Fujimoto.
+- Un *databook* con cumpleaños y comidas.
+- Un *crossover* con otro juego (Fortnite, Identity V, gachas).
+- Análisis de técnica en coreano o chino.
+- Wayback Machine: no se usó.
