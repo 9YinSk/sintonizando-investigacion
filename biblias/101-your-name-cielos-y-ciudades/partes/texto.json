@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://kiminonawa.fandom.com/wiki/Your_Name",
+    "fuente": "Kimi no Na wa Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página wikitext con el resumen completo de trama, producción y datos de personajes de la película",
+    "para_que": "Base de la historia por arcos y las reglas del mundo (punto 25); citas de producción (punto 18)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+  },
+  {
+    "url": "https://kiminonawa.fandom.com/wiki/Miyamizu_Shrine",
+    "fuente": "Kimi no Na wa Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Wikitext sobre el santuario Miyamizu: kuchikamizake, musubi, cometa Tiamat, incendio de Mayugoro, líneas de tiempo del desastre de Itomori",
+    "para_que": "Vocabulario propio y símbolos del mundo (punto 25)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+  },
+  {
+    "url": "https://remixfavoriteshowandgame.fandom.com/wiki/Great_Fire_of_Mayugoro",
+    "fuente": "Remix Favorite Show and Game Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda wiki independiente que documenta el mismo incendio histórico del santuario",
+    "para_que": "Segunda fuente para confirmar (✅ dos fuentes) el dato del Gran Incendio de Mayugoro",
+    "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+  },
+  {
+    "url": "https://kiminonawa.fandom.com/wiki/Your_Name_(Manga)",
+    "fuente": "Kimi no Na wa Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página sobre la adaptación a manga (Ranmaru Kotone, Kadokawa, 3 tomos)",
+    "para_que": "Verificar existencia y datos básicos de la adaptación a manga (punto 6, cuadros de diálogo)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+  },
+  {
+    "url": "https://www.bfi.org.uk/sight-and-sound/interviews/your-name-makoto-shinkai-interview",
+    "fuente": "BFI Sight & Sound (entrevista a Makoto Shinkai)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista directa a Shinkai sobre contraste de luz, atardecer neutro, realismo estilizado de Tokio y elección musical",
+    "para_que": "Citas primarias para el punto 18 (estilo y su replicación)",
+    "licencia": "Artículo periodístico, uso como cita/fuente de investigación, no reproducción de imagen"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/interview/2016-11-30/makoto-shinkai/.110150",
+    "fuente": "Anime News Network (entrevista a Makoto Shinkai, 2016)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista sobre el hilo rojo del destino/musubi, storyboards, easter egg de 'Garden of Words' y el vínculo cometa/terremoto de Tohoku 2011",
+    "para_que": "Fuente primaria para puntos 18 y 25 (símbolos del mundo y su origen real)",
+    "licencia": "Artículo periodístico, uso como cita/fuente de investigación"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/feature/2025-08-08/inside-the-studio-that-brought-your-name-to-life/.217914",
+    "fuente": "Anime News Network (reportaje de estudio, 2025)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recorrido por CoMix Wave Films: departamentos de animación, color, fondos, CG 3D y fotografía, con citas de artistas concretos",
+    "para_que": "Fuente primaria de flujo de producción para el punto 18 (cómo replicar el estilo)",
+    "licencia": "Artículo periodístico, uso como cita/fuente de investigación"
+  },
+  {
+    "url": "https://fonts.google.com/noto/specimen/Noto+Serif+JP",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Noto Serif JP, verificada con fontTools para tildes, ñ, ¿ y ¡ (subset propio bajado vía API CSS2)",
+    "para_que": "Equivalente libre propuesto para el logo y rótulos (aproximación a A1 Mincho), punto 5",
+    "licencia": "Open Font License (OFL), uso libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Shippori+Mincho",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Shippori Mincho, verificada con fontTools para tildes, ñ, ¿ y ¡ (subset propio bajado vía API CSS2)",
+    "para_que": "Segunda opción de equivalente libre para el logo (aproximación a A1 Mincho), punto 5",
+    "licencia": "Open Font License (OFL), uso libre"
+  },
+  {
+    "url": "https://api.fontsource.org/v1/fonts?subsets=latin-ext",
+    "fuente": "Fontsource API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Listado de variantes de Google Fonts disponibles con subset latin-ext (para tildes/ñ)",
+    "para_que": "Descubrir qué fuentes japonesas tienen soporte latino verificable, punto 5",
+    "licencia": "Datos públicos de API, uso de referencia"
+  }
+]
