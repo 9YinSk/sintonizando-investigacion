@@ -8,7 +8,18 @@ fecha: 2026-09-24
 # Biblia · Hora de aventura — para #musica-nueva
 
 > [!important] Cómo se hizo, y sus límites
-> - **La red estaba cerrada.** Fandom (las tres wikis: inglés, Hora de
+> - **Segunda pasada con la red abierta (25-sep-2026)**, por un equipo de
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Se
+>   pudo usar: la API de Fandom (wiki inglesa `adventuretime.fandom.com`,
+>   Hora de Aventura Wiki y Doblaje Wiki), `investigar_serie.py` (1188
+>   imágenes, 13 hojas, **3 en `hojas/`**), `fotogramas.py` sobre
+>   **Dailymotion** (YouTube pide sesión), `estilo.py` y Pillow para
+>   **medir colores**, `voz.py` (Whisper) sobre **6 audios reales del
+>   doblaje**, las API de Sketchfab, Wallhaven, ambientCG, MusicBrainz y
+>   TikTok (oEmbed), Reddit por Arctic Shift y `fontTools`. Siguieron
+>   cerrados: YouTube, Ranker (401), TCRF (403), Medium (403) y Scribd.
+>   Lo de abajo, de la primera pasada, queda como historia.
+> - Primera pasada (24-sep): **la red estaba cerrada.** Fandom (las tres wikis: inglés, Hora de
 >   Aventura y Doblaje Wiki), Discogs, Mondo, iam8bit, Flickr, Sketchfab
 >   (web y API), OpenSubtitles, Subtitle Cat, Art of the Title,
 >   cartoonnetwork.com e i.ibb.co daban error por curl. Wikipedia,
@@ -38,6 +49,68 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice la transcripción.
 >   ⚠️ **dudoso**: una sola fuente, o lo digo de memoria. Lo de memoria
 >   siempre va marcado.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+
+- **Piel de Marceline**: `#A9B8C2` gris azulado, de memoria → **`#D8E7E7`**
+  casi blanca con un toque menta, medida en el model sheet oficial (ep. 057)
+  y en «Drama Bomb». Con luz de escena se oscurece a **`#657471`** (medido
+  en «I'm Just Your Problem», 0:52). Usa la primera como color base.
+- **Pelo de Marceline**: `#1C1B2B` negro azulado → **negro puro `#000000`**
+  en el model sheet; en escena tira a rojo muy oscuro (`#150209`,
+  `#24080E`), **nunca a azul**.
+- **Piel de Finn**: «celeste» → **`#FDE5DA`** durazno pálido (el celeste era
+  la camiseta, `#018BCB`).
+- **Reparto latino**: ahora con la tabla completa de Doblaje Wiki (API) y
+  segunda fuente para cada voz principal. La Dulce Princesa: **Karla Falcón**
+  (1-2), **Claudia Urbán** (eps. 58-94) y **vuelve Falcón en «Rey Gusano»**
+  (ep. 96) tras **peticiones firmadas de fans**. BMO: **Gustavo Melgarejo**
+  (1-5) → **Héctor Emmanuel Gómez** (5.2-9). Director de las temporadas
+  6-9: **Arturo Castañeda**.
+- **«¡Oh por Glob!»**: era «dato confuso» → **confirmado**, es la muletilla
+  latina de la **Princesa Grumosa** (Doblaje Wiki + Hora de Aventura Wiki).
+- **Sketchfab**: el bajo low poly de cuxilrodas **no es Creative Commons**
+  («Free Standard»): sólo mirar. El de **Haxis** es **CC BY** (API).
+- **«I Remember You»**: no sólo lee notas; en la escena sale **una Polaroid
+  de Marceline niña** (1:36 del clip) y el Rey Helado toca **una batería
+  verde con «#1»**.
+- **Minutos**: los «≈» de transcripción de «Fry Song», «I'm Just Your
+  Problem», «I Remember You» y «Obsidian» → **minuto exacto visto** en
+  clips reales de Dailymotion.
+- **Wiki de Fandom**: el subdominio del encargo redirige; la buena es
+  `adventuretime.fandom.com`.
+
+**Añadido:**
+
+- **3 hojas de contacto** en `hojas/` (miradas) y la sección que dice qué
+  sirve de cada una (§3.6).
+- **6 frases textuales del doblaje latino**, de audios oficiales de Doblaje
+  Wiki pasados por Whisper, con el tono medido de cada voz (§10).
+- **12 poses de Marceline** vistas en vídeo, con minuto (§15) y **una cara
+  por emoción** de Finn, Rey Helado, Marceline, Jake, Dulce Princesa y BMO
+  con enlace `?t=` (§8).
+- **Paletas medidas**: casa de Marceline por dentro y el Reino de Cristal de
+  «Obsidian» (§5); vestuario de Marceline, Finn, Jake y Dulce Princesa (§16).
+- **Disco oficial en español** con sus 10 títulos reales (MusicBrainz), y
+  que «Everything Stays» habla de **la mamá de Marceline** (TikTok de
+  Rebecca Sugar) (§11).
+- **Fondos de pantalla** con tamaño y autor (Wallhaven) y la casa del árbol
+  en 3D CC BY (§17).
+- Fortnite, MultiVersus, LEGO Dimensions, Minecraft, Brawlhalla, Funko y
+  cosplay del bajo con materiales reales (punto 23).
+- Las **secciones nuevas de los puntos 18 a 25** (técnica y cómo
+  replicarla, texturas 2D, gustos, por qué la aman, fan dubs,
+  colaboraciones, obras parecidas, el mundo), antes de los conceptos.
+- La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
+  pasada.
+
+**Los ⚠️:** había **84** antes de esta pasada. Quedan los que se explican en
+«Lo que no pude verificar» (§20) y en la tabla de cumplimiento: sobre todo
+minutos de escenas sin clip (Anfiteatro Fantasma, «Henchman», «Marceline's
+Closet»), vistas de fan dubs (YouTube cerrado), cantantes latinas de
+Marceline, BMO y la corona de la Dulce Princesa sin medir.
 
 ---
 
