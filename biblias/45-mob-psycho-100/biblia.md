@@ -1180,3 +1180,199 @@ Fotogramas oficiales en 1920×1080 que sirven de fondo: los de los
 endings (hojas n.º 8 y 26) y casi todos los de la hoja 1 (n.º 2-28).
 
 ---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Sale de todo lo anterior. Para Firefly, Canva o parecidas: **sirve para
+fondos, bocetos de pose y texturas**, no para el personaje final (el
+dueño pide que no parezca hecho por IA; el personaje sale de un
+fotograma o de un dibujo propio).
+
+### 18.1 Rasgos que nunca cambian
+
+- **Mob**: cara **redonda y simple**, ojos pequeños y redondos, boca
+  mínima; pelo negro en casco con flequillo recto; gakuran negro con
+  botones oliva, zapatillas blancas (hojas n.º 34, 73).
+- **Reigen**: pelo rubio oscuro corto con raya, ojos medio cerrados de
+  aburrido; traje gris de un botón, camisa blanca, corbata rosa (n.º 30, 64).
+- **Dimple**: una **gota verde** con cola, dos bracitos y **dos mejillas
+  rojas redondas** (n.º 45, 71). No es azul.
+- **Teru**: rubio, blazer morado con corbata a rayas (n.º 70).
+- **Ritsu**: pelo en punta azul casi negro, gakuran, bolso azul (n.º 58).
+
+### 18.2 Paleta
+
+Cotidiano apagado: `#7F897D`, `#D3B59D`, `#A08D6C`, `#64645A`. Noche:
+`#0D0E12`, `#1E2126`. Poder: cian `#02EBFD`, violeta del aura, dorado
+`#DFB975` de foco. Ropa: `#262629`, `#D0C85D`, `#7C7882`, `#C893BE`,
+`#7963A1`. Logo: `#C01B8B`.
+
+### 18.3 Línea, sombra, luz y encuadre
+
+- **Línea**: en el anime, fina y **de color**, no negro puro; en el manga,
+  tosca e irregular. Nunca vectorial perfecta.
+- **Sombra**: **plana**, 1 o 2 tonos, sin degradado en ropa y piel; el
+  degradado y el neón sólo en los efectos y los fondos.
+- **Luz**: plana y gris en lo cotidiano; cuando hay poder, luz de
+  contorno cian o violeta y fondo saturado.
+- **Encuadre**: plano fijo y frontal para la calma (el gag es que Mob no
+  se inmuta); **primer plano cerrado** para regañar (Reigen, T1 ep. 1,
+  23:05); cámara que gira y composición torcida para el poder; **de
+  espaldas** para el dúo (hoja n.º 18, ending 1).
+
+### 18.4 Palabras que ayudan y que estropean
+
+- **Ayudan** (en inglés, como las entienden las IA; varias son etiquetas
+  reales de Danbooru): *flat cel shading, thin colored lineart, muted grey
+  suburban Tokyo, overcast, gakuran, black jacket, grey suit, pink necktie,
+  blush stickers, simple round face, cyan psychic aura, rough sketchy ink,
+  paint-on-glass, colored pencil texture, emotion title card, bold kanji on
+  white paper*.
+- **Estropean**: *handsome, beautiful, bishounen, sparkling detailed eyes,
+  glossy, hyperrealistic, 3D render, generic speech bubble, blue ghost*.
+- **Imágenes de estilo** para pasarle: hoja n.º 34 y 30 (cuerpo entero),
+  64 y 65 (hojas de modelo), 47 (paleta de poder), 56 (tarjeta), 29 y 41
+  (cartelas), 3 (lápiz de color), 36 (cara a lápiz). **De pose**: §15.
+
+### 18.5 Para una IA de texto: cómo habla cada uno
+
+| Quién | Cómo | Puntuación |
+|---|---|---|
+| **Mob** | frases cortas y educadas; dice «Maestro»; habla poco de sí y se infravalora | puntos y puntos suspensivos; **un solo** grito de golpe cuando se rompe |
+| **Reigen** | vendedor: se presenta con nombre y apellido y un título inventado; exagera; y de pronto un consejo sencillo y sincero | «¡…!» largos para venderse; frases cortas y llanas para aconsejar |
+| **Dimple** | socarrón, condescendiente, pone apodos («Shige-chan», «Ricchan») | «Vaya, vaya, vaya.»; preguntas con retintín |
+| **Ritsu** | contenido, culpable, mide cada palabra | frases cortas, sin exclamaciones |
+| **Teru** | discurso de héroe: formal y teatral | frases cerradas y rotundas |
+
+**Frases reales para imitar el tono**, por emoción (doblaje latino, §10.3,
+salvo donde se dice):
+
+- **Alegre, seguro**: «¡Así que yo, Arataka Reigen, acepto el caso!» ·
+  «La victoria es mía.» (Teru)
+- **Enfadado**: «¡Suelta a mi hermano!» (Mob)
+- **Explicando**: «Lo importante es que seas amable. Sé una buena
+  persona. Es todo.» (Reigen) · «Maestro, le pedí que dejara de llamarme
+  por sorpresa.» (Mob)
+- **Animando o presumiendo**: «¡El mayor psíquico de la historia
+  moderna, Arataka Reigen-sama!» · «Siempre te he admirado a ti.» (Ritsu)
+- **Burlón**: «Pero qué ingenuo es.» · «Déjale claro quién es el jefe.»
+  (Dimple)
+- **Triste**: «…a diferencia de mí, que no sé hacer nada sin mis
+  poderes.» (Mob) · «Yo tengo la culpa de esto. Cometí un error.» (Ritsu)
+  · «…sólo quería tener amigos» (Serizawa, texto de la wiki)
+
+**Gritos**: mayúsculas con tres exclamaciones, como el manga: «RAINBOW
+SEAL!!!». **Onomatopeyas**: katakana o su versión en español, sueltas y
+grandes. **Cómo exagera la serie**: no con caras de *manga* de ojos
+enormes, sino con el **porcentaje** y la **tarjeta de emoción**.
+
+### 18.6 Vocabulario de expresiones (para que la IA de imagen entienda el gesto)
+
+| Qué se pide | Cómo se ve en la serie |
+|---|---|
+| sonrojo | rayas rosas en diagonal en las mejillas (T1 ep. 1, 15:40) |
+| nervios o tristeza | lágrimas y sudor a la vez, cara roja (100 % Tristeza) |
+| a punto de estallar | pelo que se levanta, fondo que vira a morado, un % en pantalla |
+| 100 % | ojos que brillan sin pupila, contorno del pelo arañado, aura en anillos |
+| ???% | todo monocromo, pelo blanco, ojos rojos, cara vacía |
+| confusión | la cara pasa a **lápiz sin color** (hoja n.º 36) |
+| posesión por Dimple | dos mejillas rojas redondas en la cara del poseído |
+| fondo de emoción | **tarjeta de emoción**: kanji gigante sobre blanco |
+| *chibi* | sólo en el arte de los endings (hoja n.º 26), no en escenas |
+
+---
+
+## 19 · Estilo de dibujo, técnica, Photoshop, Blender y encuadres
+
+### 19.1 Quién lo hizo
+
+Estudio **Bones**. Director **Yuzuru Tachikawa** (立川譲; supervisor en la
+T3, con **Takahiro Hasui** de director). Diseño de personajes
+**Yoshimichi Kameda** (亀田祥倫). Dirección de arte **Ryou Kouno** (河野羚,
+habitual de Masaaki Yuasa en *Kaiba*, *The Tatami Galaxy*, *Devilman
+Crybaby*; falleció en oct-2024). Color **Shihoko Nakayama**; fotografía
+**Mayuko Furumoto** ✅ (AniList + Anime Corner + ANN).
+
+### 19.2 La decisión de fondo: no embellecer
+
+En una entrevista traducida en la
+[wiki](https://mob-psycho-100.fandom.com/wiki/Anime_Interviews),
+Tachikawa cuenta que probaron a dibujar a Mob **«como un chico guapo, un
+tipo que se veía genial»**, pero les pareció raro, y decidieron
+**«hacerlo exactamente como es»** en el manga, porque eso «lo hacía
+interesante». Todo el equipo «amaba el arte de ONE» y **prefirieron
+mantener sus imperfecciones** ✅ (otra entrevista en Anime Corner dice lo
+mismo).
+
+### 19.3 Una mezcla de técnicas, no una sola
+
+- **Óleo sobre cristal**: cada fotograma pintado al óleo sobre un cristal
+  y fotografiado; lo hizo la especialista **Miyo Sato**, para los
+  espíritus y las luchas por dentro ✅ (Cuestonian + Sakuga Blog).
+- **Arena**, **papel reflectante filmado**, **lápiz con color a medias**
+  para la confusión y **pinceladas abstractas** para las emociones ✅
+  (Cuestonian). Se ve en las hojas: la técnica de Reigen en lápiz de
+  color sobre amarillo (n.º 3), la cara de Mob a lápiz (n.º 36), Teru en
+  sepia (n.º 44).
+- **Opening de la T2 («99.9»)**: **zoótropo** y **animación de rejilla**
+  (*barrier-grid*); en un tramo desaparece el color y la cara se
+  descompone ✅ (artículo de Jianna Acerbo).
+- Según un resumen de fans, también *scanimation* y algo de rotoscopia ⚠️.
+- **Diseños simples = más tiempo para moverse**: la animación sale
+  «fuera de modelo», como los *Looney Tunes* ✅.
+- **Los episodios impares**, de animación más vistosa, con animadores
+  invitados y libertad de estilo; Kameda animó en persona una secuencia
+  de línea tosca y poses muy estilizadas ✅ (Sakuga Blog).
+
+### 19.4 Qué programa usaron
+
+**No se encontró** una entrevista que diga el programa de Bones para esta
+serie (Clip Studio, RETAS, Toon Boom…), en inglés ni en japonés ⚠️. Lo
+estándar en la animación japonesa es **RETAS** (Celsys) para entintar y
+colorear tras el lápiz, pero no está confirmado aquí ⚠️.
+
+### 19.5 Cómo reproducirlo en Photoshop
+
+(Propuesta del equipo a partir de lo anterior ⚠️.)
+
+- **Línea**: pincel de tinta con textura de **lápiz áspero**, grosor
+  irregular a propósito; en el anime, línea fina y de color, no negro
+  puro (el tono exacto de la línea no se midió ⚠️).
+- **Color**: plano, 1 o 2 tonos por zona. El contraste lo pone el color
+  saturado del efecto, no el modelado.
+- **Capas**: una capa de boceto a lápiz gris o azul visible donde haya
+  confusión; para espíritus y aura, una capa de **pincel de óleo** (tipo
+  *oil daub* o *wet media*) en vez de *cel*.
+- **Filtros**: grano de papel (Paper006, §5) y una **aberración cromática
+  leve** sólo en los momentos de más poder.
+
+### 19.6 Cómo reproducirlo en Blender
+
+(Propuesta ⚠️.)
+
+- **Contorno**: **Line Art** (Grease Pencil) mejor que Freestyle, porque
+  deja variar el grosor; romperlo con un modificador de ruido o repasarlo
+  a mano encima para que no quede perfecto.
+- **Shader**: **Toon BSDF** con 2 niveles de sombra para los personajes;
+  un *shader* aparte con textura de manchas y pinceladas para el aura del
+  100 % y los fantasmas.
+- **Luz y render**: luz de contorno fuerte cian o violeta en las escenas
+  de poder; nada de render fotorrealista.
+- **Modelos**: los de Sketchfab (§4) son estáticos, **sin rig
+  documentado** ⚠️. Para el objeto de la lámina (mesa, papel, cartel) se
+  modela a mano con las texturas de §5.
+
+### 19.7 Encuadres y composición
+
+- Tachikawa usa **cámara dinámica y composiciones no lineales** para que
+  el poder desoriente, y evita el CGI pesado: efectos a mano, «táctiles» ✅
+  (Anime Corner).
+- Mezcla «un aire de la vieja escuela con tipografía moderna, color
+  holográfico neón para los fantasmas y secuencias tipo óleo animado» ✅.
+- **Cada emoción**: calma en plano fijo frontal; regaño en primer plano
+  cerrado; poder con la cámara girando y el aura llenando el cuadro;
+  tristeza agachado en el suelo
+  (100 % Tristeza, «a cuatro patas» según TV Tropes); el dúo de espaldas
+  al atardecer.
+
+---

@@ -480,7 +480,7 @@ Hex medidos con `estilo.py` sobre renders y arte oficial; se dice de cuál sale 
 **Oficiales** (de la web de 2017, resolución baja)
 - Six, sanguijuelas, Nomes y el ojo · 714×714 · https://static.wikia.nocookie.net/littlenightmares/images/9/97/Six_Leech_Nomes_Eye_Wallpaper.png ✅
 - Conserje, Dama y el ojo · 751×669 · https://static.wikia.nocookie.net/littlenightmares/images/8/8c/Janitor_Lady_Eye_Wallpaper.png ✅
-- Reparto completo de LN1 · 829×1035 · https://static.wikia.nocookie.net/littlenightmares/images/c/c5/Six_Lady_Twin_Chefs_Nomes_Leeches_Maw_Wallpaper.png ✅
+- Emblemas de todo el reparto de LN1 en un adorno blanco sobre azul claro (#440) · 829×1035 · https://static.wikia.nocookie.net/littlenightmares/images/c/c5/Six_Lady_Twin_Chefs_Nomes_Leeches_Maw_Wallpaper.png ✅
 - Fondos de videollamada de LN2 (Cazador y Profesora), piden suscribirse al boletín · https://www.bandainamcoent.com/promotions/ln2-virtual-bg ⚠️
 - La Deluxe de LN2 trae un *wallpaper* dentro del bundle de Steam ⚠️
 - Las pantallas de juego de LN2 de la wiki a 3840×2160 y 2560×1440 sirven de fondo (en `referencias.json`) ✅
@@ -492,4 +492,189 @@ Hex medidos con `estilo.py` sobre renders y arte oficial; se dice de cuál sale 
 - 1920×1123, ♥63, bosque, por FISHMR13 · https://w.wallhaven.cc/full/72/wallhaven-72g553.jpg
 - Resto en `referencias.json` (uso personal, no comercial).
 - Foto de la Gamescom 2023 a 6960×6328 (punto 3), CC BY-SA ✅
+
+## 17 · Guía para IA de imagen y de texto
+
+Escrita por el redactor con los puntos 1-16. Sirve para Firefly, Canva o cualquier IA, y para escribir textos del bot en su voz.
+
+### Para una IA de imagen
+
+**Rasgos que nunca cambian**
+- **Six:** niña muy pequeña, delgada, descalza. Impermeable amarillo mostaza (`#AA9C26`) con capucha en **punta triangular**. Pelo negro corto que tapa los ojos. **No se le ve la cara.** Mechero en la mano.
+- **Mono:** niño delgado con **bolsa de papel marrón** en la cabeza, dos agujeros ovalados negros. Gabardina caqui grisácea (`#636157`) hasta la rodilla. Descalzo.
+- **Nome:** criatura diminuta, piel blanca de papel, **cabeza en cono** sin cara, cuerpo de saco.
+- **Los adultos:** gigantes deformes. Se ven a trozos: una mano, un brazo largo, una silueta que llena la puerta.
+
+**Escala y encuadre**
+- El niño ocupa **menos del 10 %** de la altura del plano. Los muebles de adulto son montañas.
+- Cámara lateral fija (2.5D), como un escenario de teatro visto de lado. O vista cenital en escaleras y pozos.
+- Un objeto grande y **desenfocado delante** del niño (una mano colgando, una pata de silla).
+
+**Luz**
+- **Una sola fuente dura y cálida** (bombilla colgante, mechero, ventana alta). El 80-90 % del cuadro, casi negro.
+- Haz con polvo o niebla volumétrica. Sin luz de relleno.
+
+**Paleta** (usa los hex medidos del punto 4 según el juego)
+- LN1: `#24201D`, `#453D30`, bombilla `#D2D09E`.
+- LN2: `#111D2B`, `#163B44`, acento magenta `#C27EAB` sólo en la Torre.
+- LN3: sepia `#663621`, `#947A4B`.
+
+**Línea y sombreado**
+- Sin contorno negro. Sombreado degradado, suave. Materiales **mate** de fieltro, trapo y barro. Pelo como masa sólida.
+- Encima: grano de película fino y viñeta oscura en las esquinas.
+
+**Palabras que ayudan** (en inglés, que las IA entienden mejor)
+`tiny child in a yellow raincoat with a pointed hood, face hidden by the hood and black hair, barefoot, holding a lit lighter, huge old wooden furniture, single hanging light bulb, pitch-black room, volumetric dust in the light beam, film grain, vignette, stop-motion puppet look, matte felt and clay textures, side view, 2.5D diorama, desaturated, eerie, dreamlike`
+Para Mono: `thin boy with a brown paper bag over his head, two oval eye holes, long khaki trench coat`.
+
+**Palabras que lo estropean**
+`anime, chibi, cute, big eyes, smiling, visible face, bright colors, saturated, cel shading, clean lineart, black outline, HUD, speech bubble, Tim Burton` (el estudio rechaza el parecido), `Reanimal`, cualquier texto en japonés o chino.
+
+**Imágenes para dar a la IA como referencia**
+- Estilo: capturas de Steam de LN1 y LN2 (punto 11) y las promos cuadradas #177-192.
+- Pose de Six: `Six.png` (de pie), `SixFlashlight.png` #458 (con el mechero), fotograma 51:00 (colgada), figura de Gecco (agachada con luz).
+- Pose de Mono: #447 (boceto), fotograma 28:20 de LN2 (corriendo con Six), #191 (ante el Hombre Delgado).
+- Luz: fotogramas 5:00 y 1:06:00 de LN1 (bombilla), 2:35:00 de LN2 (magenta).
+
+**Vocabulario de gestos** (no hay caras de anime: la emoción va en el cuerpo)
+- Miedo: agachada, corre mirando atrás.
+- Hambre: encogida, brazos sobre la tripa.
+- Duda: de pie, brazos caídos, en un círculo de luz.
+- Confianza: dos niños de la mano.
+- Alivio: colgada de algo, piernas recogidas.
+- Esconderse: bajo una mesa o dentro de un mueble.
+- Nada de gotas de sudor, venas, fondos de color ni *chibi*.
+
+### Para una IA de texto
+
+**La voz.** Los personajes no hablan. Quien habla es **el mundo**: la cuenta oficial, el cuaderno de personaje y el cómic. Tono seco, sombrío, con humor negro y preguntas que no se responden.
+
+**Reglas**
+- Frases cortas. Una idea cada una.
+- Sin exclamaciones alegres ni emojis. Una pregunta seca vale más («¿HORROR?»).
+- Deja cosas sin explicar. La ambigüedad es la marca.
+- Si un niño «dice» algo, que sea mínimo: «Hey.» «Oi.» O un gesto.
+- Sonidos, no palabras: gruñido de tripa, croar de Nome, estática.
+- Nombra el mundo con su vocabulario: el Maw, the Nowhere, la Transmisión, los Residentes, los Nomes.
+
+**Frases reales de ejemplo, por emoción** (en inglés como se publicaron; traducción del redactor entre corchetes)
+- *Tierna / alegre:* los Nomes sueñan con escapar del Maw en un yate de 32 pies llamado *The Endeavour*, beber champán y jugar al *shuffleboard* en pijama (desarrolladores, vía PlayStation Blog).
+- *Humor negro:* «when you know what the sausages aboard the Maw are made of, you can understand the choice» [cuando sabes de qué están hechas las salchichas del Maw, entiendes la elección] (cuenta oficial).
+- *Amenazante:* «She's learned all sorts of unpleasant things during her residence. It's best that we don't scratch the surface» [Ha aprendido toda clase de cosas desagradables durante su estancia. Mejor no rascar la superficie] (Tarsier, sobre la Dama).
+- *Explicando:* «A uncommonly single-minded child. When he sets himself to a task, he rarely gives up before it's completed.» [Un niño con una determinación poco común. Cuando se propone algo, casi nunca se rinde antes de acabarlo] (cuaderno de Mono, #447).
+- *Explicando el mundo:* «a world that could almost have been reported by a child… full of energy and hyperbole» [un mundo que casi podría haber contado un niño… lleno de energía y exageración] (Dave Mervik).
+- *Animando:* «Never has a nightmare been so appealing» [Nunca una pesadilla había sido tan atractiva] (Fingamer, tráiler de LN2, 0:16).
+- *Triste:* «Extracting someone from a fantasy can be deeply upsetting for everyone involved» [Sacar a alguien de una fantasía puede ser muy doloroso para todos] (cuenta oficial, sobre Six y Mono).
+- *Triste / ambiguo:* «Six's perspective of this will be different to Mono's, and different again to the player's» [La visión de Six será distinta a la de Mono, y otra distinta la del jugador] (Mervik).
+- *Promo:* «THE INNOCENT CHILD» (#450) · «HORROR?» (#153) · «TO BE CONTINUED [?]» (#81).
+
+**Ejemplo de cómo escribir un texto de canal en su voz** (propuesta del redactor, no cita): «El Maw es grande. Tú eres pequeño. Aquí está el mapa.» · «¿Te perdiste? Pregunta. Aquí nadie te come.»
+
+## 18 · Estilo de dibujo y técnica
+
+**Quién y con qué**
+- Tarsier Studios (Suecia) hizo LN1 y LN2. **Per Bergman** fue director de arte de LN1 y director de LN2 · https://www.laptopmag.com/features/systems-of-the-stars-little-nightmares-2 ✅. **Dave Mervik**, diseñador narrativo, es la voz del tono · https://medium.com/super-jump/creating-little-nightmares-462d5d880d · https://www.eurogamer.net/little-nightmares-2-interview ✅
+- Motor **Unreal Engine 4** (LN1, LN2); en 2024, ya Unreal 5.3/5.4 (punto 11) ✅. LN3: Supermassive Games.
+
+**La idea detrás, con sus palabras**
+- Mervik: «isolate the elements that comprise this identity, and then amplify, twist, and distort them until they take on a new life of their own» [aislar lo esencial, y luego ampliarlo, retorcerlo y deformarlo hasta que cobre vida propia] · https://gamingbolt.com/little-nightmares-interview-into-the-maw ✅
+- **La regla es la escala.** Lucas Roussel (productor, Bandai Namco): «root both environments and characters in a nightmarish logic with a child perspective» [lógica de pesadilla vista desde un niño] · https://news.xbox.com/en-us/2021/03/12/little-nightmares-2-interview/ ✅. Mesas y sillas son plataformas. Las puertas, muros. Tijeras y ollas, armas o arquitectura.
+
+**Cómo está pintado** (visto en cinco capturas de Steam)
+- **Claroscuro extremo:** 80-90 % negro, una luz que recorta al niño ✅
+- **Grano de película y viñeta** en los tres juegos: es un filtro buscado ✅
+- **Materiales de fieltro y trapo**, sin brillo duro. Por eso la prensa lo llama «stop-motion interactivo» ✅
+- **Sombreado:** degradado en casi todo; **plano** en la Pale City (punto 4) ✅
+- **Encuadres:** plano general lateral fijo con mucha profundidad; vistas cenitales en escaleras; objeto grande desenfocado delante como marco. Roussel: «more top views and in-depth character traversals» ✅
+
+**Cómo reproducirlo en Photoshop** (propuesta del investigador; no hay tutorial oficial ⚠️)
+1. Paleta de 2-3 tonos oscuros y un acento cálido (punto 4).
+2. Capa de sombra en Multiplicar al 85-95 % sobre todo, con un hueco de pincel suave alrededor de la luz.
+3. Ruido monocromático al 3-5 % y viñeta (Corrección de lente) al final.
+4. Pinceles de fieltro o papel para bordes, sin brillos duros.
+5. Un objeto enorme desenfocado delante.
+6. Recortes por `v3/integrar.py`, como pide el dueño.
+
+**Cómo reproducirlo en Blender**
+1. Personaje: color base mate, rugosidad 0,7-0,9. **Sin contorno negro** de *toon shader*.
+2. Una sola luz dura (Spot o Area) y el World casi negro.
+3. Volumétricos (Volume Scatter) para el haz con polvo.
+4. Cámara de 50-85 mm para aplanar y marcar la escala, o gran angular bajo para un adulto visto desde abajo.
+5. Profundidad de campo activada, primer plano desenfocado.
+6. Compositor: grano, viñeta y un Bloom bajo.
+7. Modelos libres de partida: Six con *rig*, bolsa de Mono, decorado de LN2 (punto 3).
+
+**Cómo se enmarca cada emoción**
+- Miedo: niño diminuto al borde del plano, amenaza gigante llenando el resto.
+- Soledad o duda: niño en el centro de un círculo de luz, todo negro alrededor.
+- Confianza: dos niños juntos en el mismo haz.
+- Tensión: vista cenital, el niño atrapado en un pozo de escalera.
+
+## 19 · Texturas 2D
+
+La saga no usa tramas de manga. Usa **superficies reales fotografiadas** con grano encima. Equivalentes libres de ambientCG, licencia **CC0** (dominio público):
+- Hule del impermeable de Six: `Rubber004` (caucho negro; hay que aclararlo y teñirlo de amarillo) · https://ambientcg.com/a/Rubber004 ⚠️
+- Madera vieja del Maw: `WoodFloor065B` · https://ambientcg.com/a/WoodFloor065B ✅
+- Metal oxidado de tuberías y jaulas: `Metal053C` · https://ambientcg.com/a/Metal053C ✅
+- Papel envejecido (notas, bolsa de Mono, el cuaderno): `Paper006` · https://ambientcg.com/a/Paper006 ✅
+- Lana para el cárdigan de Six o el kimono: `Fabric019` · https://ambientcg.com/a/Fabric019 ⚠️
+- Cuero de correas y delantales: `Leather037` · https://ambientcg.com/a/Leather037 ⚠️
+
+**Emblemas y logos**
+- **El ojo** de la franquicia: ojo dentro de un rombo, en blanco. Hoja de emblemas de personaje en blanco sobre azul claro, estilo grabado · hoja `vestuario_01` #440 · https://static.wikia.nocookie.net/littlenightmares/images/c/c5/Six_Lady_Twin_Chefs_Nomes_Leeches_Maw_Wallpaper.png ✅ (los emblemas sueltos no se encontraron ⚠️)
+- Adorno crema con llave y rata («Janitor Rat Key») · 1824×1787 · #64 · https://static.wikia.nocookie.net/littlenightmares/images/9/98/Janitor_Rat_Key.png ✅
+- El ojo aparece arriba a la derecha en toda la serie de promos de LN2 (#173-192) ✅
+
+**El cómic** (Titan) usa tinta con aguada, textura de acuarela y paneles de borde rasgado. Referencias: `JanitorArmsComicArt.jpg` · https://static.wikia.nocookie.net/littlenightmares/images/e/eb/JanitorArmsComicArt.jpg ✅
+
+**Papel del cuaderno** (#447): medido `#E2D6C9`, `#D4C7B9`, `#BFAE9D`; madera de la mesa en #448: `#281F17`, `#45362A`; tapa turquesa del manual del Cazador `#057A81` / `#06484B` ✅ (medidos por el redactor)
+
+## 20 · Gustos y detalles
+
+| Personaje | Gustos y manías | Objeto que siempre lleva | Datos | Fuente |
+|---|---|---|---|---|
+| Six | **No le gustan las verduras** (cuenta oficial). Come cualquier cosa con hambre. Aburrida, juega: una pelota en el patio de la Escuela | Mechero Zippo, impermeable amarillo | 9 años. Mide «un tercio» de un adulto | Wiki ✅ |
+| Mono | Taparse la cabeza con cosas (bolsas, cascos) | Bolsa de papel | Quizá le gusta Six: «Potentially disastrous choices in crushes, for one!» (Izmar, *Senior Creative Manager*), sin confirmar | Wiki ✅ / ⚠️ |
+| Runaway Kid | Cooperar con los Nomes | Linterna, grillete roto en el tobillo derecho | Más bajo que Six y Mono | Wiki ✅ / ⚠️ |
+| Low | Llegar a un lugar mítico con un portal a casa. Quizá zurdo: dibuja con la izquierda | Máscara de cuervo, arco y flechas, capa | — | Wiki ✅ / ⚠️ |
+| Alone | Investigar secretos; toca cadáveres y patea cabezas de marioneta | Casco de aviador, llave inglesa a la espalda | — | Wiki ✅ |
+| La Dama | Muñecas, a las que acaricia con una caja de música; retratos de sí misma. Odia su reflejo | Máscara blanca tipo Noh | — | Wiki ✅ |
+| El Conserje | Colecciona muñecas y juguetes. Acaricia una cuchara con un dedo | Etiqueta «Roger» | — | Wiki ✅ / ⚠️ |
+| Dime | **Ama las bombillas** (una docena en su rincón). Fabrica sombreros-antorcha y mandos | Su cabeza de lámpara | — | Wiki ✅ |
+
+- **Cumpleaños:** no encontré ninguno oficial. Buscado en inglés ⚠️ (puede estar en un artbook impreso).
+- **Alturas en centímetros:** no encontré. Sólo comparaciones: Six ≈ ⅓ de un adulto, la Profesora ≈ 4 veces a los niños ⚠️
+- **Cómo se ve Six a sí misma:** nada confirmado. Su indiferencia al matar sugiere que se ve como superviviente, ni buena ni mala ⚠️ (lectura de la wiki)
+
+## 21 · Por qué la gente la ama
+
+**Razones concretas**
+- **La atmósfera y el sonido** más que la historia: terror sin sustos baratos, crujidos de madera, bombillas que parpadean, nanas deformadas y silencio · https://www.washingtonpost.com/video-games/2021/04/10/little-nightmares-2-sounds/ ✅
+- **El misterio que no se cierra** (punto 12): se sigue discutiendo años después ✅
+- **Cada fan se identifica con uno distinto.** En Reddit, «adivina mi favorito» junta 77 votos y 163 comentarios con respuestas muy repartidas · https://www.reddit.com/r/LittleNightmares/comments/1vzcwek/ ✅
+- **Ventas y premios:** 12 millones de copias, nominaciones D.I.C.E., NAVGTR, Golden Joystick (punto 7) ✅
+- **La pelea por el heredero** (*Reanimal* contra LN3): sólo se discute así por algo que se quiere ✅
+- Crítica en tráilers: «Will get under your skin in the best way possible» (EDGE, 1:32 del tráiler de LN1) ✅
+
+**La escena que hace llorar: Six suelta a Mono (final de LN2)**
+- **Qué pasa:** en la Torre de Señal, al huir de una masa de carne y ojos, Mono salta; Six lo agarra en el aire… y lo suelta. Mono queda solo, envejece y se convierte en el Hombre Delgado ✅
+- **Por qué duele:** todo el juego construye su confianza (se dan la mano, él la salva). TheGamer: el momento que «clava un puñal en el estómago del jugador» · https://www.thegamer.com/little-nightmares-2-ending-explain-six-betray-mono/ · GameRant dedica un artículo al porqué · https://gamerant.com/little-nightmares-2-ending-why-did-six-betray-mono/ ✅
+- **Cómo está hecha:** en la Torre de Señal, con la única luz magenta y violeta de la saga (fotogramas 2:35:00 y 2:41:40); suenan *Signal Interference* y *Lost In Transmission* ✅
+- **Minuto exacto de la caída:** no se confirmó. Está en el capítulo de la Torre, antes de los créditos (2:48:20) del *longplay* de LN2 ⚠️
+
+**Las que hacen reír o gritar**
+- **Reír (humor negro):** Six se come al Nome de la salchicha (punto 12). La broma oficial «COOKING MONO» (#172) ✅
+- **Gritar:** el youtuber salvadoreño **Fernanfloo** jugó LN2; su clip «NO TE CAIGAS, NOOOOOOOOOOOO» corrió como meme · https://www.youtube.com/watch?v=WgMRMNrYEOI ⚠️ (el clip es un re-edit de fan con 267 vistas, 0:26)
+- **Reacción de la gente:** hilos de Reddit sobre el final, artículos de «ending explained» en varios medios ✅
+
+## 22 · Fan dubs y comunidad hispana
+
+- **No se puede doblar el juego** (no tiene frases). Lo que los fans doblan es **el cómic** e historias propias con los personajes ✅
+- **«Mono abrasa Six *Little Nightmares 2* (Fandub Español Latino)»**, canal Frisk X-Flower, **647 427 vistas**, 3 min, 8-may-2021 · https://www.youtube.com/watch?v=muoM911fA-w ✅ (metadatos medidos con yt-dlp)
+- Serie «Fandub español Six x Mono, Cómic (Little Nightmares)» y «Little Nightmares 2 Cómic (Fandub español latino)» ⚠️ (canal y vistas sin confirmar: YouTube bloqueó dos intentos)
+- Parodia hispana *BIG NIGHTMARES: Halloween Special (Little Nightmares Parodia) | Fandub Español Latino* ⚠️ (sin metadatos)
+- **Covers de opening en español:** no aplica. No hay opening cantado ✅
+- **Gameplays en español:** muchas series «Gameplay Español» y «Español Latino» en YouTube ✅. **Fernanfloo** jugó LN2 (punto 21) ⚠️
+- **TikTok hispano con cifras:** no encontré ⚠️
+- **Idea para el servidor:** es una saga perfecta para retos de doblaje **sin guion previo**: poner voz a gruñidos, respiraciones y a los globos del cómic.
 

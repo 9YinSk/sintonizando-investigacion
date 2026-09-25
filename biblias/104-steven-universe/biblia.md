@@ -378,3 +378,169 @@ Tildes, ñ, ¿ y ¡ **comprobadas con fontTools** sobre el archivo bajado (parte
 - **Peridot y Lapis**: Lapis se vuelve protectora con Peridot; las dos ven *Camp Pining Hearts* con Steven.
 - **Greg**: el padre, músico. **Rose Cuarzo**: la madre ausente, que era Diamante Rosa (punto 25).
 - Ranking de prensa (IGN 2019, Garnet 1.ª): **biblia 64, punto 7**.
+
+## Punto 8 · Doblaje latino y frases textuales
+
+**Sí hay doblaje latino**, y completo: 5 temporadas, la película y *Futuro*.
+
+**Ficha técnica** ([Doblaje Wiki, por su API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Steven_Universe); la ficha cita a ANMTVLA para el estreno) · ✅
+- Estudio: **Etcétera Group**, Caracas (Venezuela). Colaboran México (SDI Media), Chile (Groove Audio Post) y Argentina.
+- Casting: Walter Véliz y Ángel Lugo. Dirección musical: **Marielba Suárez**.
+- Estreno en Latinoamérica: **7-abr-2014** (preestreno el 30-mar-2014), Cartoon Network, bloque «Tele Héroes».
+
+**Reparto** (✅ = la tabla de la serie **y** la ficha propia del actor en Doblaje Wiki)
+| Personaje | Voz latina | Nota | Estado |
+|---|---|---|---|
+| **Steven** | **Leisha Medina** (T1-T5) · [ficha](https://doblaje.fandom.com/es/wiki/Leisha_Medina) | se inspiró al principio en Homero Simpson | ✅ |
+| Steven mayor (película y *Futuro*) | **Jorge Bringas** | voz más grave por pedido de Warner; lo comenta [Cafetoons](https://cafetoons.net) en su reseña | ✅ |
+| **Perla** | **María José Estévez** | la única elegida desde el primer casting; usa su voz natural | ✅ |
+| **Garnet** | **Rocío Mallo** · [ficha](https://doblaje.fandom.com/es/wiki/Rocío_Mallo) | su alias en la wiki: «Mamá Garnet» | ✅ |
+| **Amatista** | **Stefani Villarroel** · [ficha](https://doblaje.fandom.com/es/wiki/Stefani_Villarroel) | desde la T5 graba autodirigida desde Chile | ✅ |
+| Connie | Yasmil López (eps. 1-139), Abigaly Claro (ep. 121), Navid Cabrera (eps. 151-160) | | ✅ las 3 |
+| Greg | **Henrique Palacios** · [ficha](https://doblaje.fandom.com/es/wiki/Henrique_Palacios) | también algunos sonidos del León | ✅ |
+| Lars | Ángel Lugo | también director | ✅ |
+| Sadie | Karina Parra (T1-T2), Mariangny Álvarez | Mariangny también es **Cuarzo Ahumado**, la fusión de Steven y Amatista | ✅ |
+| **Peridot** | **Sofía Narváez** · [ficha](https://doblaje.fandom.com/es/wiki/Sofía_Narváez) | desde «Vuelo de amistad», tono más agudo | ✅ |
+| **Lapis Lázuli** | **Andrea Navas** · [ficha](https://doblaje.fandom.com/es/wiki/Andrea_Navas) | alias «Kypirinha», tiene TikTok | ✅ |
+| Rose Cuarzo / Diamante Rosa | **Maythe Guedes** | también adapta las canciones del personaje | ✅ |
+| **Rubí** | **Judith Noguera** (Venezuela T1-T2, Chile T3-T5) | llegó a la final del casting de Steven; eligió a Rubí | ✅ |
+| **Zafiro** | **Arelys González** · [ficha](https://doblaje.fandom.com/es/wiki/Arelys_González) | | ✅ |
+| Bismuto | Yvette García, Alix Ramírez, Catherine Reyes | tres voces | ✅ las 3 |
+| León | sin diálogo; gestos de Henrique Palacios y Ángel Mujica | | ⚠️ Mujica sin ficha |
+
+**Fusiones y doblaje (enfoque del encargo):** una fusión tiene **su propia actriz**. Garnet (Rocío Mallo) es Rubí (Judith Noguera) más Zafiro (Arelys González): **tres voces para una pareja**. Cuarzo Ahumado lo dobla Mariangny Álvarez.
+
+**Frases textuales** (muestras oficiales de audio de Doblaje Wiki, transcritas con `voz.py` y revisadas a oído; minuto dentro de la muestra) · ✅ oídas
+| Quién | Frase | Minuto |
+|---|---|---|
+| Steven | «Sí, pero nada permanece en la tierra, las cosas siempre están cambiando, las hojas, las ciudades, incluso Jersey cambia» | 0:00 |
+| Steven | «Mi papá dice que las paradas de descanso eran asquerosas, pero ahora venden Sushi» | 0:09 |
+| Perla | «¡Oh, Steven! Los humanos tienen una vida tan corta, aburrida e insignificante que inventan historias para sentir que forman parte de algo más grande» | 0:00 |
+| Perla | «¡Así es, yo soy Perla!» | 0:17 |
+| **Garnet** | **«Cuando dos gemas se combinan crean algo más grande que la suma de sus partes. Por eso soy tan genial»** | 0:00-0:04 |
+| Garnet | «La Tierra era de Diamante Rosado. La única forma de salvar el planeta era destruirla. Para que Amatista pudiera ser ella. Para que Perla fuese libre. Y para que pudiéramos estar juntas. Para que existieras tú» | 0:07-0:18 |
+| Amatista | «¡Nunca pedir ser lo que soy! ¡Nunca pedir ser creada!» | 0:00 |
+| Peridot | «Código número 312. Aquí Peridot, verificando el funcionamiento del portal terrestre» | 0:00 |
+| Lapis | «Soy Lapis Lázuli y no podrán mantenerme encerrada nunca más» | 0:07 |
+| Lapis | «¿Te das cuenta de que pasé los últimos meses atrapada dentro del océano, cierto? Fue una oscuridad aplastante e interminable. Húmeda, sombría y sofocante» | 0:18-0:28 |
+| Rose | «¿No es asombroso, Steven? Este mundo está lleno de tantas posibilidades. Cada ser viviente tiene una experiencia completamente única» | 0:00 |
+| Connie | «Quiero estar ahí para Steven y luchar a su lado. La tierra también es mi hogar. ¿No puedo ayudar a protegerla?» | 0:09-0:15 |
+| Greg | «Y, Connie, si necesitas hablar con otro humano sobre esto, yo siempre estaré aquí» | 0:10 |
+
+⚠️ Las muestras no dicen de qué capítulo sale cada frase. La de Garnet es un montaje de varias escenas (lo aclara la biblia 64).
+
+**Cómo suena cada voz** (medido con `voz.py` sobre esas muestras) · ✅ medido
+| Voz | Tono medio | Expresividad | Velocidad |
+|---|---|---|---|
+| Connie | 281 Hz, la más aguda | 23,3 semitonos | rápida, 3,3 pal/s |
+| Perla | 266 Hz | 20,7 | normal, 2,9 |
+| Steven | 243 Hz | 18 | rápida, 3,2 |
+| Lapis | 243 Hz | **30,2, la más expresiva** | normal, 2,2 |
+| Rose | 240 Hz | 15,5 | normal, 2,2 |
+| Peridot | 189 Hz | 12,9 | normal, 2,4 |
+| **Garnet** | **187 Hz, la más grave de las Gemas de Cristal** | 25 | rápida, 3,7 |
+| Greg | 129 Hz, la más grave | 15,2 | lento, 2,1 |
+
+**Curiosidades del doblaje** (Doblaje Wiki) · ⚠️ una fuente
+- **«Más Fuerte que Tú»** (Stronger Than You): «Can't you see that my relationship is stable?» se cantó **«¿No ves que esta batalla es en serio?»**. Se quitó la referencia a la pareja Rubí y Zafiro. Es el único caso así en todo el doblaje.
+- El capítulo 62 «Chille Tid» se tituló mal «Derríbalo Chile». Desde el siguiente hubo traductor fijo, Germán Esaá.
+- **«Sugilite»** se dejó así, no «Sugilita»: al director Ángel Lugo le sonaba demasiado suave para una fusión tan bruta.
+- Rocío Mallo le puso **acento sureño** a Garnet en «Demasiado lejos», cuando lleva una paja en la boca. Y nota que Garnet canta más agudo de lo que habla («Aquí viene un pensamiento»).
+- Nombres del opening en latino, canciones adaptadas y la voz cantada de Greg: **biblia 64, puntos 8 y 9**.
+
+## Punto 9 · Música y sonido
+
+**Es una serie cantada** (foco del encargo). Aquí va lo nuevo del 104. La tabla de canciones, los instrumentos de cada Gema y las versiones latinas están en la **biblia 64, punto 9**.
+
+**El opening, «We Are the Crystal Gems»** · ✅
+- Música de **Rebecca Sugar** y el dúo **Aivi & Surasshu**. La canta Steven en el piloto.
+- Versión completa con Zach Callison (Steven), Estelle (Garnet), Michaela Dietz (Amatista), Deedee Magno Hall (Perla) y Tom Scharpling.
+- Duraciones: **0:36** la corta, **2:23** la larga y **0:26** una versión *ska* · [ficha](https://steven-universe.fandom.com/wiki/We_Are_the_Crystal_Gems).
+- Lo que se ve, segundo a segundo: punto 2 (`OP`).
+
+**Los créditos, variaciones de «Love Like You»** · ✅ [ficha «Ending Theme»](https://steven-universe.fandom.com/wiki/Ending_Theme)
+- Cada capítulo cierra con una variación de «Love Like You».
+- **La instrumentación crece con la serie**: piano solo en la primera mitad de la T1; luego piano, glockenspiel, contrabajo y batería.
+- En *Steven Universe Future* la sustituye **«Being Human»** · ⚠️ sólo la wiki; no se miró un capítulo de *Future*.
+- La imagen: la mano de Steven hacia la mano de piedra de la estatua (`END` 0:02).
+
+**Las canciones de las fusiones y de las Gemas**
+- **«Stronger Than You»** («Más Fuerte que Tú»): **la canción de la fusión**. La canta Garnet (**Estelle**) en «Jail Break» mientras pelea con Jasper; música de Aivi & Surasshu con Rebecca Sugar. Dice que ella es una fusión y que por eso es más fuerte. El momento más emotivo de la T1 · ✅ (escena mirada, `STY` 1:04-2:56, y [Wikipedia](https://en.wikipedia.org/wiki/Jail_Break_(Steven_Universe)): la crítica alabó la interpretación de Estelle).
+- **«It's Over, Isn't It»**: la canción de **Perla** en «Mr. Greg». Rebecca Sugar la compuso; la canta **Deedee Magno Hall**; dura **2:20**. Perla canta que Rose eligió a Greg y no a ella. La que más hace llorar · [ficha](https://steven-universe.fandom.com/wiki/It%27s_Over,_Isn%27t_It) · ✅
+- **Arreglos de cuerda**: **Jeff Ball**, violinista y violista, arregla temas de Aivi & Surasshu y de Jeff Liu · [ficha](https://steven-universe.fandom.com/wiki/Jeff_Ball) · ⚠️
+- **La celesta es el instrumento de Lapis** (dato de Aivi & Surasshu, en la wiki) · ⚠️
+
+**Discos oficiales** ([MusicBrainz](https://musicbrainz.org/release-group/9ced52a8-db50-4e7e-b2de-17a87c936626)) · ✅ existen
+- *Soundtrack: Volume 1* (2-jun-2017) y *Volume 2* (12-abr-2019).
+- **Disco de karaoke** (12-abr-2019) · [MusicBrainz](https://musicbrainz.org/release-group/486f567b-ddac-4093-80ae-9ed5e4a5d9da). Base para 🎶 Karaoke.
+- *Steven Universe: The Movie* (2-sep-2019) y **su versión en español** (25-oct-2019) · [MusicBrainz](https://musicbrainz.org/release-group/065a1034-b94b-4630-8613-6724ade62833). ⚠️ No dice qué doblaje.
+- *Steven Universe Future* (23-oct-2020) · [MusicBrainz](https://musicbrainz.org/release-group/61a47204-c297-4fa9-9d45-c65a59f75910).
+- Partituras de la T2 (26-jun-2020) y la T3 (31-jul-2020) de Aivi & Surasshu · [T2](https://musicbrainz.org/release-group/bf6ea634-a1d1-405d-a00b-a43cb6388e1c) · [T3](https://musicbrainz.org/release-group/9b1e4cc1-759a-464c-ba9e-fd9f45ca9928).
+
+**Qué ambiente da cada música** (oído en los clips mirados) · ⚠️ impresión propia, sin ficha pista a pista
+- **Peleas y revelaciones** en interiores de cristal (la arena, el Templo): orquesta con coro y cuerdas.
+- **Escenas de risa** (`COA`): motivos ligeros de glockenspiel y xilófono, como la melodía de los créditos.
+
+**Sonidos que todos reconocen**
+- **El *poof***: la Gema herida se deshace en **nube de humo** y queda la piedra (`STY` 3:12) · ✅ visto; ⚠️ la wiki no tiene página de efectos de sonido.
+- **No hay onomatopeyas escritas** en pantalla (punto 5).
+- El destello al sacar un arma: **biblia 64, punto 9**.
+
+**La música fuera de la serie**
+- El **remix lo-fi del opening** de L.Dre (punto 10) y los covers en español de «Amar Como Tú» (punto 22).
+
+## Punto 10 · Vídeos y tendencias
+
+**Tráileres** (con minuto): el de la serie (`TR13`, logo de CN en 0:40) y el teaser de la película (`MOV`, 0:04-0:16). Ver punto 2.
+
+**Lo más visto en vídeo: las reacciones a «Stronger Than You»** · ⚠️ sólo títulos y miniaturas (YouTube bloqueado)
+- «THE ORIGINAL! Stronger Than You Reaction!», «MUSICIAN REACTS TO Steven Universe», «Steven Universe S1 Ep 51-52 (REACTION) STRONGER THAN YOU!!!» · [ejemplo 1](https://www.youtube.com/watch?v=C2c1R-Arlig) · [ejemplo 2](https://www.youtube.com/watch?v=H2n0yAxi44E)
+- Es el tipo de vídeo que más se repite al buscar la serie: señal de que la **fusión de Garnet** es el momento más comentado.
+
+**Análisis en vídeo y en papel**
+- Ensayo «QUEERNESS in STEVEN UNIVERSE» (la fusión de Rubí y Zafiro y su boda) · [YouTube](https://www.youtube.com/watch?v=zOS3qz22ty4) · ⚠️ no se pudo reproducir.
+- El mismo tema en un libro académico: Cooley, *Drawing Queerness Forward: Fusion, Futurity, and Steven Universe* · [Springer](https://link.springer.com/chapter/10.1007/978-3-030-31881-9_3) · ✅ existe. **La fusión como tema de estudio.**
+- Más ensayos (Saberspark, PhantomStrider) y el pódcast de McDonnell: **biblia 64, punto 10**.
+
+**Tendencia de TikTok: el opening en lo-fi**
+- El productor **L.Dre** (@ldrethegiant) hizo un remix lo-fi de «We Are the Crystal Gems». Según su web: **más de 50 millones de escuchas en Spotify** y **más de 10 millones de vídeos de TikTok** con ese sonido; lo usaron Will Smith y Kylie Jenner · [lofidre.com](https://www.lofidre.com/about) · ⚠️ una fuente, la del propio artista.
+- Vídeos de ejemplo: [TikTok 1](https://www.tiktok.com/@ldrethegiant/video/6909881757127019782) · [TikTok 2](https://www.tiktok.com/@ldrethegiant/video/7246467864339795242).
+- Otros memes por título: «Steven Universe New Intro Meme», un remix «brainrot» del tema de *Future*, el chiste de «saltar el intro» · ⚠️ sólo títulos.
+- Una recopilación de TikToks de fans vista entera: **biblia 64, punto 10** (`TT`).
+
+**La franquicia vuelve: *Lars of the Stars*** · ✅ dos fuentes
+- Rebecca Sugar la anunció en el **Festival de Annecy 2025**: una serie nueva, secuela, sobre **Lars y su tripulación pirata**, para **Prime Video**.
+- En **abril de 2026**, Ian Jones-Quartey dijo en redes que «seguimos trabajando en Lars of the Stars», sin fecha.
+- Fuentes: [ComicBook](https://comicbook.com/tv-shows/news/steven-universe-gets-promising-update-on-cartoon-network-revival/) · [Gizmodo](https://gizmodo.com/steven-universe-sequel-series-amazon-prime-lars-of-the-stars-2000614414).
+- Frame de Lars en la hoja: n.º 184-185.
+
+⚠️ No hay vídeos oficiales de TikTok de Cartoon Network con tendencias propias: sólo aparecieron remixes y *edits* de fans.
+
+## Punto 11 · Videojuegos
+
+**Los juegos de la franquicia** ([categoría de la wiki](https://steven-universe.fandom.com/wiki/Category:Video_Games)) · ✅
+| Juego | Año | Qué es |
+|---|---|---|
+| ***Attack the Light*** | 2015, móvil | RPG por turnos tipo *Paper Mario*, con toques a tiempo. La vida se llama **«harmony»**, no HP · [ficha](https://steven-universe.fandom.com/wiki/Attack_the_Light) |
+| ***Save the Light*** | 2017, consolas y PC | exploración 3D con puzles, 8 jugables, guion del equipo del show · [ficha](https://steven-universe.fandom.com/wiki/Save_the_Light) |
+| ***Unleash the Light*** | 2019 Apple Arcade, 2021 consolas y Steam | combate en **formación de diamante** (arriba, centro, abajo); 10 jugables · [ficha](https://steven-universe.fandom.com/wiki/Unleash_the_Light) |
+| *Tap Together* | móvil | ritmo, con el arte y la música de la serie (punto 23) |
+| *Soundtrack Attack* | navegador | rítmico |
+| *Beach-A-Palooza Card Battling Game* | — | cartas, sólo para mecenas de Kickstarter |
+| *Cartoon Network: Battle Crashers* | 2016 | *beat 'em up* con **Steven** jugable (punto 23) |
+
+- Si la vida llega a cero, la Gema **se retira a su piedra**, no muere: el *poof* hecho regla de juego.
+- En el modo difícil («Diamond Mode») **se ocultan las estrellas** de ataque y defensa.
+- ⚠️ Los tres juegos de Grumpyface se **retiraron de la venta el 23-24 de diciembre de 2024**. Dato citado en las fichas de la wiki (un post de Grumpyface), sin prensa que lo cubra.
+
+**La interfaz de *Unleash the Light*, vista en capturas** ([Game UI Database](https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121402-4858.jpg), 1920×887) · ✅ miradas
+- **Caja de diálogo**: rectángulo redondeado pastel con rabito, en el color de quien habla (punto 6). **Es el cuadro de la franquicia.**
+- **Menú de equipo**: los 4 del grupo, de pie **sobre una estrella de cinco puntas dibujada en un cuaderno de renglones rosas**. Tres marcas triangulares arriba señalan la formación. Abajo, iconos redondos con la barra de *harmony* en números («52/52», «7/67»).
+- **Botones**: **notas adhesivas amarillas** con iconos a mano (una X, una casita) arriba a la izquierda. A un lado, bloques de color plano con sombra de pestaña: MAP amarillo, PARTY SWAP morado, CRAFT celeste, EQUIP verde. Letra gruesa de rotulador.
+- **Cartel de etapa** («Stage 1-6»): degradado verde azulado, **borde magenta grueso**, título en letra de burbuja blanca con contorno morado, y tres botones rosas con iconos a mano (un regalo, un mapa con ruta de puntos, una paleta) · [captura](https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121402-67526.jpg).
+- **Los retratos van a lápiz de color**, con trazo suelto y sombreado a mano: una capa de «cuaderno» distinta del vector plano de la serie.
+- Los carteles de las colonias usan **Gem Glyph como letra**, una por cada letra inglesa, hechos por Steven Sugar.
+
+**Lo que no se pudo ver**
+- ⚠️ El contenido descartado de *Save the Light* en [The Cutting Room Floor](https://tcrf.net/Steven_Universe:_Save_the_Light_(Windows)): la página existe, pero da un reto de Cloudflare por cuatro vías (curl, `navegar.py`, Wayback Machine y un lector de texto).
+- La Mochila Hamburguesa (el inventario de *Unleash the Light*) como idea de lámina: **biblia 64, punto 11**.

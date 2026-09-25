@@ -46,8 +46,12 @@ fecha: 2026-09-25
   la autobiografía de Himmel en el lago Korridor** (Punto 6). No se
   contradicen: Korridor es la entrada del arco; la ciudad de oro aún no
   tiene fotograma (Punto 25) ⚠️.
-- **⚠️**: 31 en las secciones 0-15 al empezar esta sesión; el total al
-  cerrar está en «Cumplimiento del encargo».
+- **⚠️**: **31** en las secciones 0-15 al empezar esta sesión → **89** al
+  cerrar. Los nuevos están en los puntos 16-25 y en «Lo que no pude
+  verificar», que los repite juntos. Ninguno se quitó: son datos con una
+  sola fuente, minutos sin ver o webs bloqueadas.
+- **Tabla**: ✅ 28 · ⚠️ 3 (11 videojuegos, que no existe; 13 caras sin
+  minuto; tipos de fuente con coreano y chino bloqueados) · ❌ 0.
 
 ## Índice
 

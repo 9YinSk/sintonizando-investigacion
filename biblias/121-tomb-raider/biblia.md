@@ -564,3 +564,72 @@ Fuente: la página [«Tomb Raider Crossovers»](https://tombraider.fandom.com/wi
 - **Croft Manor**: la mansión, distinta en cada continuidad; nivel jugable en *Shadow*; escudo de la familia en *Blood Ties* ✅ ([ficha](https://tombraider.fandom.com/wiki/Croft_Manor)).
 - **Objetos icónicos**: las **dos pistolas**, la **trenza**, la **mochila**, el **arco**, el **piolet**, el **colgante de jade**, el **Scion**, la **bandeja de Winston**.
 - **Vocabulario que un fan reconoce**: Trinity, Yamatai, Solarii, Kitezh, Remnants, Paititi, Croft Manor, Endurance, Base Camp, Salvage, Survival Instinct, «little bird», «Tomb Raider» (lo que ella acepta ser) ✅.
+
+## Hojas de contacto
+
+Tres JPEG en `hojas/`, todos de menos de 0,6 MB, mirados número a número:
+
+- **`arte_oficial_01.jpg`** (314 KB, 20 imágenes de la wiki, hecha con `investigar_serie.py`): nº1 key art de *Rise* (arco en la nieve) · nº2 portada de TR1 · nº3 TR2 con el traje «Sola» · nº4 TR3 con gafas en Londres · nº5 *Chronicles*, mono negro · nº6 y nº19 «Many Changes of Lara Croft» · nº7 *Legend* escalando junto a una cascada · nº8 salto con dos pistolas · nº9 reliquia dorada (*Guardian of Light*) · nº10 *Underworld* ante la mansión · nº11 Egipto · nº12 «20 Years of Croft» · nº13 cómic, apoyada en cajas · nº14 muchas Laras ante la mansión · nº15 *Shadow* con eclipse · nº16 TR 2013 con el arco · nº17 portada de cómic con un hombre · nº18 Lara adolescente · nº20 «Evolution of Tomb Raider» (de fan).
+- **`vestuario_02.jpg`** (143 KB, 6 imágenes): nº1 TR1 clásica · nº2 *Legend* · nº3 reboot 2013 · nº4 **hoja de giro oficial** «Desert Tank Top» de *Rise*, firmada por Brenoch Adams · nº5 **hoja oficial** de *Shadow* (6 poses) · nº6 escudo de la familia Croft.
+- **`fondos_interfaz_03.jpg`** (556 KB, 18 imágenes): nº1-6 ruinas de Steam con paleta medida (templo de selva, ruinas nevadas, Paititi en fiesta, aldea con pirámide, puente con niebla, cueva con luz) · nº7-18 interfaz de *Shadow* (menú, objetivo, punto de habilidad, instinto de supervivencia, tutorial de trepar, mapa, audio e idiomas, reliquias y polaroid, tutorial de objetos, ficha de reliquia 3D, +15 XP, tutorial de sigilo).
+
+## Correcciones del redactor
+
+- La parte de imagen llama a la tercera hoja `hojas/fondos_03.jpg`; el archivo real es **`hojas/fondos_interfaz_03.jpg`** (lleva además 12 capturas de interfaz de la parte de texto). Los números nº1-6 coinciden.
+- **Key art de *Rise*** (hoja 1 nº1): la parte de imagen dice «escalando con un pico de hielo». En la imagen está **agachada con el arco tensado** en un bosque nevado.
+- **`Gol1.jpg`** (hoja 1 nº9): la parte de imagen lo describe como «Home of Adventure, Croft Manor, con arco tensado». En la imagen, Lara **tiende la mano a una reliquia dorada** sobre un pedestal. «Home of Adventure» es el modelo de Sketchfab de PippyJ.
+- **Hoja 1 nº17** («Lara comic 1.jpg») muestra a un **hombre**, no a Lara.
+- **El colgante de jade**: la parte de voz dice en un sitio que «se lo regaló su padre». El blog oficial sobre Roth dice que **Roth convirtió en colgante el jade que ella encontró**. Sigo al blog.
+- ***Rise***: la parte de texto dice que Lara busca la Divine Source «para curar a su padre» y que a Ana «la perdona o la mata según elección». Ninguna de las dos cosas tiene fuente en las partes (y su padre está muerto en esa continuidad); lo dejo neutro con ⚠️.
+- **Paititi**: la parte de texto dice «Perú/México». La de imagen, **selva peruana**; México es **Cozumel**, donde roba el puñal. Lo separo así.
+- **El doble de Lara**: la parte de voz lo sitúa «en el juego clásico». Las guías oficiales de cosplay ponen la **Doppelgänger** en ***Underworld*** (2008, continuidad Legend).
+- **La wiki**: `laracroft.fandom.com` da 404; la wiki es **`tombraider.fandom.com`** y sus imágenes viven en `static.wikia.nocookie.net/laracroft/`.
+- **`referencias.json`**: quité 26 referencias del recolector que no eran de la saga (fan art de Chun-Li, Link, Pikachu, Cloud, Mario y Samus, y un fondo de Ezio y Borderlands). Quedan **167**.
+- Los dos colores de interfaz (`#802810` y `#E6D178`) los medí yo en las miniaturas de la hoja 3 (500×281): son aproximados.
+
+## 3 conceptos de lámina
+
+Reglas del dueño que se cumplen en los tres: objeto real en sitio real, hecho en Blender; Lara con pose y cara que van con lo que dice; textos cortos en su voz, sin «·», «—» ni paréntesis; nada de burbuja blanca; tono terroso, no alegre. Letras: **TR Heavy** para el título, **Oswald** para lo demás.
+
+### A · #guia · «El cuaderno de campo» (recomendada)
+
+- **El canal**: 🗺️ guia (foro). «El mapa del servidor. Cada hilo responde una pregunta. Filtra con las etiquetas de arriba o usa el buscador del foro. Si no encuentras lo q…» (⚠️ el inventario corta el texto: completar con el real). Etiquetas: Primeros pasos, Roles y zonas, Si te atascas, Bots y comandos, Doblaje, Normas. 14 hilos, con «La guía, de un vistazo» fijado.
+- **El objeto y el sitio**: el **cuaderno de campo de Lara** (tapas de cuero gastado, gomilla, páginas con tinta), **abierto sobre una caja de madera** en un **campamento base** a la entrada de un templo de selva. El escritorio con su diario sale en «Turning Point» **0:24**; «Lara's Notebook» es una colección real del menú de reliquias (hoja 3 nº14). Sitio: la selva de la hoja 3 nº1. En Blender: el cuaderno con curvatura de página (la tinta sigue la curva), un lápiz, la cuerda y el **piolet** apoyados.
+- **El personaje**: **Lara Survivor** con la ropa de *Shadow* (tank top `#606B7C`, cargo `#444338`, colgante). Pose: **apoyada con las dos manos en la caja**, mirando el cuaderno y alzando la vista a cámara (hoja 1 nº13). La mano que señala una zona del mapa, del tráiler de *Shadow* **0:42** (explicar a su grupo). Cara seria y tranquila, no de combate.
+- **Cómo habla**: la **tarjeta de objetivo** (título en versales, línea fina, texto gris, icono redondo) y el **subtítulo blanco sin caja** para su frase. En el mapa del cuaderno, cada zona lleva un **rótulo como «LOCATION UNKNOWN»** del mapa del mundo (caja negra, versales blancas).
+- **Dónde va cada texto**:
+  - Arriba a la izquierda, tarjeta de objetivo: «LA GUÍA» y debajo «El mapa del servidor. Cada hilo responde una pregunta».
+  - En el mapa dibujado, seis zonas con su rótulo: PRIMEROS PASOS, ROLES Y ZONAS, SI TE ATASCAS, BOTS Y COMANDOS, DOBLAJE, NORMAS.
+  - Una **polaroid** sujeta con la gomilla: «Empieza por La guía, de un vistazo».
+  - Subtítulo de Lara, abajo: «Filtra con las etiquetas de arriba. O usa el buscador del foro.»
+  - Si satura, **lámina 2**: los 14 hilos como el **árbol de colecciones** del menú de reliquias, uno por línea.
+- **Para que no quede plano**: la **hoguera** abajo a la izquierda, fuera de foco, con luz cálida `#E9C392` en la cara y en el papel; detrás, la selva fría con **rayos de sol y niebla** (Volume Scatter); el **piolet** cruza el borde de la caja en primer plano; el antebrazo de Lara entero sobre la caja (regla 7: ninguna mano sin brazo).
+
+### B · #recursos · «La sala de reliquias»
+
+- **El canal**: 🧰 recursos (foro). «Lo que le sirve a los demás: programas, plantillas, pistas sin voz, efectos, tutoriales. Un hilo por recurso. NADA pirata: ni cracks ni prog…» (⚠️ texto cortado). Etiquetas: Verificado, Programa, Plantilla, Pista sin voz, Efectos de sonido, Música libre, Tutorial, Guion, Banco de voces, Gratis, De pago, Windows, Mac, Móvil, Online. Hilos: «Cómo colgar algo aquí (léeme)», «Audacity», «Cómo se pide una pista sin voz».
+- **El objeto y el sitio**: un **pedestal de piedra tallada** con una reliquia encima, en una **cámara de templo maya** con nichos en las paredes; cada nicho guarda otra reliquia (otro recurso). En Blender: el «Mayan Temple» de patrix (CC BY-SA) y la textura `Rock064`. Idea del juego: cada recurso es una **ficha de reliquia** (hoja 3 nº16).
+- **El personaje**: **Lara**, tendiendo la mano hacia la reliquia (hoja 1 nº9), con la ropa de *Shadow* (hoja 2 nº5). Cara de descubrimiento, boca entreabierta. Guiño para fans: la **bandeja de té de Winston** en un nicho, «lo que le sirve a los demás» ⚠️ no hay imagen de Winston en las partes: buscarla.
+- **Cómo habla**: la **ficha de reliquia** (marco punteado fino, nombre en versales, procedencia, párrafo) y el **árbol de colecciones** con su % del menú de reliquias (hoja 3 nº14).
+- **Dónde va cada texto**:
+  - Arriba a la izquierda: «RECURSOS» y debajo «Lo que le sirve a los demás».
+  - Árbol de colecciones a la izquierda, con las etiquetas en grupos: Tipo (Programa, Plantilla, Pista sin voz, Efectos de sonido, Música libre, Tutorial, Guion, Banco de voces), Precio (Gratis, De pago), Sistema (Windows, Mac, Móvil, Online) y Verificado.
+  - Ficha a la derecha: de nombre, «UN HILO POR RECURSO»; de procedencia, «Lee antes Cómo colgar algo aquí»; de párrafo, «Programas, plantillas, pistas sin voz, efectos y tutoriales».
+  - **Tallado en la piedra** del pedestal, con Sancreek: «NADA PIRATA».
+  - Si satura, **lámina 2** con una línea por etiqueta.
+- **Para que no quede plano**: una **antorcha** en primer plano a un lado (ámbar); un **haz de luz cenital** sobre el pedestal, como la cueva de la hoja 3 nº6 (`#3B444B`); polvo en el aire; la mano de Lara delante del pedestal; nichos en penumbra detrás.
+
+### C · #a-que-juegas · «La hoguera del campamento»
+
+- **El canal**: 🎮 a-que-juegas (texto). «Lo que estás jugando, capturas y quién se apunta a una partida.»
+- **El objeto y el sitio**: la **hoguera de un campamento base** (en los juegos, donde se descansa y se mejoran habilidades: «Upgrade skills at Base Camps») en la **playa del naufragio de Yamatai al atardecer** («Turning Point» **2:40-2:48**; paleta `#F5DDA4`, `#D3B07E`, `#101208`), con el barco hundido al fondo. Junto al fuego, **polaroids** clavadas en la tapa de una caja: son las capturas. En Blender: la hoguera, un tronco, la caja, las polaroids curvadas por el calor y una mochila.
+- **El personaje**: **Lara de 2013**, **agachada junto al fuego** con el arco apoyado (pose de «Turning Point» **2:32**; es el momento en que se dice «I can do this» junto a una hoguera). Cara cansada pero decidida.
+- **Cómo habla**: **subtítulo blanco sin caja** para su frase; **polaroids** con su pie; y la **moneda dorada «+1»** del punto de habilidad (`#E6D178`, hoja 3 nº9) para «quién se apunta».
+- **Dónde va cada texto**:
+  - Tarjeta de objetivo arriba: «A QUÉ JUEGAS» y debajo «Lo que estás jugando».
+  - En las polaroids, el pie: «Tus capturas, con su pie de foto».
+  - Moneda dorada abajo a la izquierda: «+1» y al lado «Quién se apunta a una partida».
+  - Subtítulo de Lara: «Siéntate. Cuéntame a qué juegas.» (texto del redactor, en su voz: corto y cálido).
+- **Para que no quede plano**: la hoguera **delante**, con chispas y humo, ilumina la cara desde abajo; el mar y el barco al atardecer detrás, fuera de foco; una polaroid en primer plano, algo borrosa; la luz fría del mar contra la cálida del fuego.
+
+**Choques de canal** (no bloquean): *117 God of War* también propone #guia y *124 No Man's Sky* también #a-que-juegas; las ideas son distintas.

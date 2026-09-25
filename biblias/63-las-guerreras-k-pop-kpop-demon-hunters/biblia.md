@@ -1371,7 +1371,7 @@ son los patrones de la ropa, los símbolos y los efectos.
 | Holográfico | Emblema de HUNTR/X, iridiscente | [Huntrix_Logo](https://static.wikia.nocookie.net/kpop-demon-hunters/images/2/25/Huntrix_Logo.jpg), 1194×1194 | Mapa de degradado (§19) |
 | Purpurina y *foil* | Look de póster K-pop | Libro de pósters con *foil* (§3) | Pinceles de [BrushWarriors](https://brushwarriors.com/glitter-brushes-procreate/) ⚠️ |
 | Trama de medios tonos | Para carteles y pegatinas | — | Pinceles de [Speckyboy](https://speckyboy.com/halftone-photoshop-brushes/) ⚠️ |
-| Ladrillo de Bukchon | Diseñado en Substance Designer, no foto | §19 | [AmbientCG](https://ambientcg.com/view?id=Concrete034) (CC0) |
+| Ladrillo de Bukchon | Diseñado en Substance Designer, no foto | §19 | ⚠️ las partes no dan uno |
 | Metal dorado | Accesorios, Honmoon dorado | — | [Metal048A](https://ambientcg.com/view?id=Metal048A) (CC0) |
 
 - **El Honmoon por colores**: azul normal, **dorado** completo,
@@ -1392,7 +1392,7 @@ Instagram oficial, citado por la wiki. ✅ salvo lo marcado.
 | Altura | ⚠️ no publicada | 170,4 cm (la más alta) | 1,52 m (la más baja) | 180 cm, 58 kg |
 | Ramyeon | «Superstar» | **«Spice Queen»** (picante) | **Hamburguesa** (su lado de EE. UU.) | — |
 | Objeto | Guitarra Fender Acoustasonic Telecaster decorada | Jersey de oso polar | Libretas de letras; colgante de tortuga | **Bipa** (laúd coreano), lo único que tenía de humano |
-| Le encanta | Cantar; comer (kimbap, ramyeon) | Su grupo, donde puede ser ella | **Las tortugas** (pijama, colgante, vídeos) y las Sunlight Sisters | Olvidar su culpa |
+| Le encanta | Comer: kimbap y ramyeon (hojas `vestuario_10` nº 478, `concept_02` nº 65) | Su grupo, donde puede ser ella | **Las tortugas** (pijama, colgante, vídeos) y las Sunlight Sisters | Quiere olvidar su culpa |
 | Apodos | «Popstar Royalty», «Rumi Nim» | «Oveja negra de la familia», «problem child» | «Cutest Maknae» | — |
 | Cómo se ve | Con vergüenza de sus marcas | Como «difícil»: franca, temperamental | Sus letras le parecían «inútiles y raras» | Preso de su vergüenza |
 | Curioso | Apellido probable: Kang (no «Ryu», que es de fans) | Look inspirado en la modelo Ahn So Yeon; pelo negro teñido | Nació en Corea, se crió en Burbank | Nombre por el dúo Jinusean; «murió» el 20-jun-2025, el día del estreno |
@@ -1405,4 +1405,51 @@ Instagram oficial, citado por la wiki. ✅ salvo lo marcado.
 - **La comida es parte del personaje**: los sabores de ramyeon salen en
   el merch oficial y son meme (§14). ✅
 - ⚠️ «Superstar» para Rumi sale del meme de TV Tropes, no de su ficha.
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar (punto 21)
+
+**Las cifras** ✅:
+- **La película más vista de la historia de Netflix**: 325,1 millones
+  de visionados (antes, *Red Notice*: 230,9) (The Hollywood Reporter,
+  sep-2025).
+- **481,6 millones** en la segunda mitad de 2025 y **52 semanas
+  seguidas** en el top 10 mundial (Deadline, jul-2026).
+- La película de *streaming* más vista de 2025 en EE. UU. según
+  Nielsen: unos **20.500 millones de minutos**.
+- Banda sonora: 4 canciones a la vez en el top 10 del Hot 100 y más de
+  3.000 millones de reproducciones.
+- **Ganó el Óscar**
+  ([Wikipedia, premios](https://en.wikipedia.org/wiki/List_of_accolades_received_by_KPop_Demon_Hunters)).
+  Hay fotos libres de la rueda de prensa del Óscar: los directores,
+  4559×3039
+  ([KOREA.NET en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/1e/Chris_Appelhans_and_Maggie_Kang_-_KPop_Demon_Hunters_Academy_Award_Win_Commemoration_Press_Conference_-_55181088831.jpg),
+  CC BY-SA 4.0). Hay más en `referencias.json`. ✅
+- **Sing-along**: más de 1.300 funciones agotadas y nº1 de taquilla un
+  fin de semana, meses después del estreno (Netflix Tudum).
+
+**Por qué conecta**:
+- **Aceptarse a una misma**: las marcas de Rumi son la metáfora de lo
+  que escondes. Es el motivo más citado; Azul Bötticher cuenta que su
+  *casting* fue con «Dorada», que habla de eso (Doblaje Wiki). ✅
+- **Con quién se identifican**: con **Rumi**, «la más identificable»
+  (Reddit) y «la más humana» (Collider). ✅ Mira es la favorita de
+  quien prefiere a «la dura» (Reddit). ✅
+- **Los villanos tienen matices**: niños entrevistados por CNN dicen
+  que les gusta porque «Jinu no es un demonio malo»
+  ([CNN](https://www.cnn.com/2025/08/23/entertainment/kpop-demon-hunters-kids-cec)). ⚠️
+- **Es K-pop de verdad**: cantantes reales, TWICE en «Takedown», covers
+  de ídolos (§24). ✅
+
+**Las escenas que hacen llorar, reír o gritar**:
+
+| Escena | Dónde | Qué pasa | Cómo está hecha | Reacción |
+|---|---|---|---|---|
+| 😢 **El sacrificio de Jinu** | Clímax. ⚠️ sin minuto (no hay clip) | Jinu se sacrifica por Rumi y recupera un instante el color humano de sus ojos | ⚠️ música y luz no comprobadas: no se vio la escena | **Jungkook (BTS)** contó que lloró ([Sportskeeda](https://www.sportskeeda.com/us/k-pop/news-he-s-real-fans-react-bts-jungkook-reveals-cried-kpop-demon-hunters-ending-calls-jinu-idiot-emotional-confession)) ⚠️; hilos de Reddit «heartbreaking finale» ✅ |
+| 😢 **Rumi ante el espejo** | «Golden» 1:48 | Escribe en el vaho que quiere dejar atrás sus marcas | Plano cerrado, luz fría, silencio salvo su voz | La más citada para hablar de su vergüenza ✅ |
+| 😢 **«Free»** | Dúo | Rumi sana su voz al confiar en Jinu | Canción a dos | — |
+| 🙌 **Triunfo en los Idol Awards** | «Golden» 2:12 | Rumi sola, brazos en «V», «UP UP UP» | Rojo y oro, foco cenital | «Golden», nº1 del Hot 100 ✅ |
+| 🙌 **Las tres con sus armas** | Tráiler 0:24 | Pose de batalla en niebla verde | Neón verde | La imagen de acción más reconocible ✅ |
+| 😂 **Ojos de corazón** | Escena de los Saja Boys ⚠️ sin minuto | Los ojos de las chicas cambian a *six-pack* y a mazorca | Gag *chibi* | Lo explicaron los directores en un panel ([AOL](https://www.aol.com/articles/kpop-demon-hunters-directors-break-150000307.html)) ⚠️ |
+| 😂 **Zoey no puede no bailar** | Dos veces con «Soda Pop» | Baila la canción de sus enemigos | — | ✅ (wiki) |
+| 😂 **Derpy** | Varias | Las caras del tigre | — | El meme nº1 (§14) ✅ |
 
