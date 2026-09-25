@@ -1064,3 +1064,376 @@ ventana holograma CC0 o el modelo 3D → grano.
 
 - ⚠️ **Sin datos** de comida favorita, altura ni cumpleaños de ninguna sombra.
 
+## 21 · Por qué la gente la ama
+
+**Las razones, con fuente**
+- **Fantasía de poder**: del cazador más débil al más fuerte (biblia 03, dos
+  fuentes) · ✅. Con las sombras se repite en pequeño: un ejército de
+  guerreros elige servir **por lealtad, no por miedo**, a alguien que empezó
+  débil.
+- **Cifras**: nota media 80, 448 701 personas la siguen y 20 921 la tienen de
+  favorita en [AniList](https://anilist.co/anime/151807) ✅. Ganó **9 de 13
+  categorías** de los Crunchyroll Anime Awards 2025, con 51 millones de votos
+  (biblia 03, dos fuentes) ✅.
+- **Sombras con carácter propio**: el fandom discute Igris contra Beru con
+  bandos con nombre («Knight Mains vs. Monster Mains»). Citas de fans: «Igris
+  has the cool and collected drip. Beru is more dramatic.» · «Beru's loyalty
+  knows no bounds. He is the best shadow in my eyes.» ·
+  [GameRant, Alex Trent, 17-jun-2025](https://gamerant.com/solo-leveling-igris-or-beru-fans-attempt-to-settle-rivalry-between-popular-jinwoo-shadows/) · ✅
+- **Lo mejor aún no ha llegado**: la prensa dice que el anime no ha
+  presentado todavía a la mejor sombra ([CBR](https://www.cbr.com/solo-leveling-beru-best-shadow-soldier/),
+  titular) y habla del «verdadero favorito» de Jinwoo
+  ([Screen Rant](https://screenrant.com/solo-leveling-new-manhwa-karma-igris/), titular) · ⚠️ sólo titulares.
+- **Con quién se identifica el público**: con Jinwoo, el débil que no se
+  rinde y cuida de su familia. ✅ (biblia 03)
+
+**Escenas que hacen llorar, reír o gritar**
+- **Llorar · «It Was All Worth It»** (ep. 21): Jinwoo lleva el Elixir de Vida
+  a su madre enferma en el hospital y la cura. Suena **«REVIVER»** (piano y
+  chelo, azul frío). Es el nombre que le da la wiki en la galería de la
+  canción. ✅ ⚠️ **sin minuto** y sin ver cómo está dibujada.
+- **Llorar · el nombre de Beru** (ep. 25 · 09:04-09:50): el Rey Hormiga,
+  ya sombra, suplica «concédame un nombre». Una sombra sin rostro se vuelve
+  alguien a quien querer. ⚠️ sin hilo de Reddit con votos que lo mida.
+- **Emocionar · «You're with me now.»** (ep. 12, [xb7cnoi](https://www.dailymotion.com/video/xb7cnoi)
+  1:27-1:41): Igris termina de formarse y los ojos de Jinwoo lloran. Silueta
+  negra, grietas cian, la capa roja como único color cálido. ✅
+- **Gritar de emoción · el «Arise»** (ep. 12): el *edit* más repetido de TikTok. ✅
+- **Gritar · Jinwoo contra el Rey Hormiga** (ep. 24, con «HØWL») y contra los
+  osos de hielo (ep. 13, «SHADOWBORN»). ✅ por la wiki; ⚠️ no vistos.
+- **Reír**: Iron copiando a Igris; las sombras de mayordomos en *chibi*;
+  Beru enganchado a los doramas. ✅
+- ⚠️ **Reacciones**: no hay comentarios con más votos ni vídeos de reacción
+  con minuto en las partes.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **«BERU LE HABLA A SU REY»**, TikTok de [@rghocd_3](https://www.tiktok.com/@rghocd_3/video/7487293973543881989):
+  *edit* con el doblaje latino del final de la T2 («mi rey»). Comprobado con
+  el *oembed* de TikTok (autor, título, sonido). ✅ ⚠️ sin vistas.
+- **«J Balvin se incorpora al doblaje de Solo Leveling»**, TikTok de
+  [@lamontanadeinosuke](https://www.tiktok.com/@lamontanadeinosuke/video/7469578855179701509):
+  noticia sobre Kargalgan/Colmillo. ✅ ⚠️ sin vistas.
+- **«🔥SURGE🔥 con los secretos detrás del doblaje de Solo Leveling»**, vídeo
+  oficial de @crunchyroll_la (biblia 03). ✅ referencia cruzada.
+- **Covers en español** de «LEveL» y «ReawakeR» (6 canales), el meme de
+  @yerastian y el canal de análisis del doblaje «Antov»: en la biblia 03,
+  punto 22. ⚠️ no repetidos aquí.
+- ⚠️ **No hay un fandub en español** de varios episodios, ni de las sombras:
+  sólo re-subidas del doblaje oficial mal etiquetadas.
+- **Idea para el servidor**: la escena de Beru es perfecta para un reto de
+  doblaje (voz grave, lenta y ceremoniosa; 103 Hz, 9,5 semitonos); Igris,
+  para un reto de **actuar sin voz**.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Fortnite × Solo Leveling: ARISE**: pack «Blood-Red Commander Igris» con
+  estilos, mochila **«Igris' Cloak»** y el gesto **«Shadow Shift»**. Desde el
+  18-feb-2026 (parche 39.50, Capítulo 7 Temporada 1) ·
+  [Sportskeeda](https://www.sportskeeda.com/fortnite/how-get-solo-leveling-arise-skins-fortnite-sung-jinwoo-blood-red-commander-igris-cha-hae-in)
+  · [GosuGamers](https://www.gosugamers.net/entertainment/news/78010-fortnite-teases-solo-leveling-arise-crossover-with-jinwoo-and-igris) · ✅
+- **Figura oficial de Igris** (vinilo, Youtooz, USD 29,99): estilo *chibi*,
+  casco con cuernos, cinta roja, armadura azul negra con líneas cian, espada
+  vertical delante. Pose de **presentar**; volumen útil, proporciones no ·
+  [imagen 676×1000](https://youtooz.com/cdn/shop/files/316t2d401i.png?v=1762268922)
+  · [producto](https://youtooz.com/products/igris) · ✅
+- **Cosplay de Jinwoo** (osskycos, Japan Expo Sud, foto de esby.photo):
+  gabardina negra, camiseta blanca, **dos dagas rojo, negro y oro con relieve
+  real** (resina o espuma pintada, desgaste visible), rodilla en tierra ·
+  1024×769 · **CC BY-NC-SA 2.0** ·
+  [foto](https://live.staticflickr.com/65535/54356837159_1b963d73b8_b.jpg)
+  · [Flickr](https://www.flickr.com/photos/22789397@N05/54355753072) ·
+  hoja `vestuario_03.jpg` n.º 3 · ✅. Hay 6 fotos más de la misma sesión
+  ([Openverse](https://openverse.org), «Solo Leveling cosplay»).
+- **Pop-up oficial**: una ilustración de Cha Hae-In viene de
+  [@SoloLv_POPUP](https://twitter.com/SoloLv_POPUP/status/1839608056633807324)
+  (2894×4096, vía Safebooru). ⚠️ sin más datos del evento.
+- ⚠️ Cafés temáticos, gachas y otras marcas: no están en las partes (la
+  biblia 03 tiene más).
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Recomendaciones de AniList** (votos): Sword Art Online (166), Tower of
+  God (88), The Eminence in Shadow (60), I Got a Cheat Skill… (56), The God of
+  High School (55), Tomb Raider King (52), Super Cube (40), The King's Avatar
+  (28), Shangri-La Frontier (16) · [AniList](https://anilist.co/anime/151807) · ✅
+- **El género tiene nombre en coreano: 시스템물** («obra de Sistema»): una
+  ventana de misión de videojuego **que sólo ve el protagonista**, misiones y
+  monstruos para subir de nivel. Fuentes: Wikipedia en coreano y
+  [더스쿠프](https://www.thescoop.co.kr). ✅ Más preciso que «LitRPG».
+- Solo Leveling se apoya en la ventana de notificación **más que sus primos**
+  (casi en cada episodio). ⚠️ lectura propia del investigador, sin comprobar
+  en las otras series.
+- Influencias que reconoce Chugong (Diablo, Skyrim, WoW): biblia 03. ⚠️
+- [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Anime/SoloLeveling):
+  403 con reto de Cloudflare y sin copia en [Wayback Machine](https://web.archive.org). ⚠️
+- **Láminas vecinas del servidor** (para no repetir):
+  - **03 Solo Leveling** ya usa **#guia** entera (14 hilos): mostrador de la
+    Asociación con el cristal negro, tablón de corcho con Cha Hae-In, **salón
+    del trono con Igris arrodillado**, el hospital, el desfile de sombras, un
+    portal en una valla de obra. **Aquí se evitan esos sitios y ese canal.**
+  - 79 (Demon Slayer) y 89 (Frieren) son otras segundas miradas; no chocan.
+  - #castings lo proponen también Oshi no Ko (05) y Hunter x Hunter (36).
+    Sólo nota: no bloquea nada.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** (wiki, leída por su API) ✅
+1. Aparecen **Puertas** (portales) al azar que llevan a **mazmorras**,
+   bolsillos de un mundo del caos. Si no se limpian en **7 días**, hay
+   **«Dungeon Break»**: los monstruos salen.
+2. Las personas con maná, las mazmorras y los monstruos tienen **rango E, D,
+   C, B, A o S**. El rango se fija al despertar y **es de por vida**, salvo un
+   rarísimo segundo despertar. De rango a rango, la fuerza se dispara.
+3. Los **cazadores** viven de limpiar mazmorras y vender **cristales de maná**
+   y piedras esencia; los **gremios** les dan seguridad y cobran menos
+   impuesto (40 % por libre, 10 % en gremio).
+4. **El Sistema** sólo lo ve Jinwoo: le da misiones, niveles, tienda,
+   inventario y **mazmorras de instancia** propias. Es el único que sube sin techo.
+5. Como **Monarca de las Sombras**, Jinwoo extrae la sombra de los muertos y
+   la convierte en soldado leal. Cada sombra tiene un **grado**.
+- Fuentes: [Class Ranks](https://solo-leveling.fandom.com/wiki/Class_Ranks) ·
+  [Dungeon](https://solo-leveling.fandom.com/wiki/Dungeon) ·
+  [Guilds](https://solo-leveling.fandom.com/wiki/Guilds) ·
+  [Shadows](https://solo-leveling.fandom.com/wiki/Shadows).
+
+**Tipos de mazmorra**: de rango bajo (E, D), de rango alto (A, S), **Puertas
+Rojas** (te encierran dentro hasta limpiarla o morir; el arco de los ep.
+13-14) y **de instancia** (sólo de Jinwoo, las crea el Sistema). ✅
+
+**Los siete grados de sombra** (de menor a mayor) ✅
+1. **Normal**: infantería; fuerza de cazador E, D o C.
+2. **Élite**: el más común; fuerza de B.
+3. **Caballero**: fuerza de A; **desde aquí se les puede dar nombre**.
+4. **Caballero de élite**: fuerza de S básico.
+5. **General / Comandante**: poder inmenso; **desde aquí hablan** (en lengua
+   de monstruo).
+6. **Mariscal**: lo más alto a lo que suele llegar una sombra.
+7. **Gran Mariscal**: único; la sombra más fuerte y **lugarteniente del
+   Monarca**. La parte de voz lo da a **Bellion** (su ficha de la wiki); la
+   de texto no lo vio en las fichas de Igris y Beru, que sólo dicen que
+   Bellion los supera. ⚠️
+- **Igris**: Caballero (webtoon cap. 45) → Caballero de élite (cap. 84) →
+  Mariscal (cap. 164). **Beru**: General (cap. 105) → Mariscal (cap. 164). ✅
+- Poderes de toda sombra: regenerarse, **hablar (General o más)**, crecer
+  (pero **subir de grado lo autoriza el Monarca**), esconderse en la sombra de
+  otra persona, transformarse en arma u objeto, no cansarse, no morir. ✅
+- La biblia 03 resumía la escalera en seis grados; la wiki distingue **siete**.
+
+**La historia por arcos** (episodios del anime, numerados del 1 al 25)
+- **Doble Mazmorra** (el comienzo): el Templo de Cartenon, la estatua que
+  mira; Jinwoo casi muere y despierta con el Sistema. Las primeras ventanas
+  salen en el ep. 2; «Congratulations on becoming a Player.», en el ep. 3. ✅
+- **Subir de nivel**: «Kill or Be Killed» con «DARK ARIA» (ep. 6) y el
+  montaje «Grinding XP» con «4eVR» (ep. 10). ✅
+- **Cambio de clase** (ep. 11-12): el trono vacío, Igris, el primer «Arise»;
+  Jinwoo es **Monarca de las Sombras**. Termina el opening 1. ✅
+- **Puerta Roja** (ep. 13-14): encerrados dentro hasta limpiarla; «Jinwoo
+  vs All the Ice Bears» (ep. 13). ✅
+- **La madre** (ep. 21): el Elixir de Vida y la llamada a la incursión de
+  Jeju. ✅
+- **Jeju y el Rey Hormiga** (ep. 24-25): la pelea con «HØWL» y el nacimiento
+  de **Beru**. ✅
+- ⚠️ Los ep. 15-20 y 22-23 no están detallados en las partes (la biblia 03
+  tiene la historia en 14 arcos).
+
+**Símbolos y objetos que un fan reconoce al instante**
+- La **ventana NOTIFICATION** con el «!» y los **[corchetes]**. ✅
+- Las **dos dagas** de Jinwoo. ✅
+- El **penacho rojo** de Igris y su **espada**. ✅
+- Las **grietas de luz** sobre negro. ✅
+- El **trono vacío**. ✅
+- La **insignia de rango** (E→S; «SSS» en el juego). ✅
+- El **círculo de la extracción** y la cinta «1/3». ✅
+
+**Vocabulario propio**: Puerta (*Gate*), mazmorra (*Dungeon*), *Dungeon
+Break*, mazmorra de campo (*Field-Type Dungeon*), Puerta Roja, mazmorra de
+instancia, piedra esencia / cristal de maná, maestro de gremio (*Guild
+Master*), falso rango (*False Ranker*, quien esconde su fuerza), Autoridad de
+las Sombras (*Shadow Authority*), Jugador, Moderador, **«Surge»** (*Arise* en
+latino). ✅
+
+## Las 3 hojas de contacto
+
+Las montó el investigador de imagen con Pillow a partir de imágenes ya
+medidas. Están en `hojas/`, cada una por debajo de 3 MB. El redactor las miró.
+
+**`hojas/sistema_01.jpg`** · el Sistema (343 KB)
+1. Webtoon, STATUS y misiones bajo la lluvia, Jinwoo de espaldas (717×1028):
+   **referencia de «el Sistema me habla»** y de ventanas ámbar.
+2. Anime, STATUS del Monarca en violeta neón (815×483): **la ventana para
+   copiar** en una lámina de ficha.
+3. Webtoon, inventario con rejilla ámbar y «SHWWP» (718×716): rejilla y
+   pestañas; iconos en silueta blanca.
+4. Webtoon, «SHOP.» en globo blanco con cola, ventana azul y «DING» (718×630):
+   **prueba de que el globo blanco es de Jinwoo, no del Sistema**; su cara
+   de media sonrisa con gota de sudor.
+
+**`hojas/sombras_02.jpg`** · las sombras (317 KB)
+1. Render oficial del ejército con Igris al frente (905×520): **grupo**.
+2. Key visual de Beru, T2 (906×1280): **silueta y grietas cian**.
+3. Igris, detalle de armadura y espada (2880×5184): **grietas lila, penacho
+   rojo, humo**.
+4. Beru en el anime, alas de luz en la cueva helada (1920×1080): **pose de
+   aparecer** y fondo azul.
+
+**`hojas/vestuario_03.jpg`** · Jinwoo (195 KB)
+1. Cartel cour 1: sudadera gris y dagas cruzadas (1440×2460): **pose para
+   presentar**.
+2. Turnaround oficial «Player» (443×1594): **colores planos para medir**.
+3. Cosplay en Japan Expo Sud (1024×769, CC BY-NC-SA 2.0): **volumen real de
+   las dagas** y rodilla en tierra.
+
+Hay 10 hojas genéricas más (476 imágenes de la wiki) en
+`herramientas/referencias/solo-leveling-el-sistema-y-las-sombras/`, fuera del
+repositorio; la n.º 9 tiene la primera misión (n.º 424) y a Ashborn (n.º 423).
+
+## Tres conceptos de lámina
+
+Tres ideas distintas, una por cada eje del encargo: **mazmorras**, **voz de
+las sombras** e **interfaz**. Ninguna usa #guia ni los sitios de la biblia 03.
+Los textos del canal salen de `servidor/inventario.md`. Reglas del dueño:
+objeto real en sitio real, pose que case con lo que dice, textos cortos sin
+«·», «—» ni paréntesis, tono sombrío, recortes por `v3/integrar.py`.
+
+### Concepto A · #castings · «La Puerta sobre el puente»
+
+- **Objeto real y sitio:** una **Puerta** (portal) abierta sobre el **puente
+  peatonal de Seúl**, de noche, con su **verja de cadena**. Los dos salen en
+  el opening «LEveL» (Seúl hacia 0:16-0:20; el portal violeta `#C330E0` en
+  la azotea); juntarlos es cosa de la lámina. En Blender: el puente como
+  cajas simples, la verja como malla con alfa, la Puerta como un disco con
+  emisión violeta. La ciudad, desenfocada: `#0F0F19`, `#1A3251`, `#376590`,
+  `#60BCD2`.
+- **Personaje:** **Jinwoo** (el más querido), en **guardia baja con las dagas
+  invertidas** (ep. 11, [x8xqany](https://www.dailymotion.com/video/x8xqany)
+  0:03): «a punto de entrar». De tres cuartos, mirando la Puerta. Ropa y cara
+  del cartel cour 1 (hoja `vestuario_03.jpg` n.º 1): sudadera `#9AADBB`,
+  pantalón `#26273B`.
+- **Cómo habla:** Jinwoo no habla. Hablan **dos ventanas NOTIFICATION**
+  junto a la Puerta: fondo `#071331`, borde `#2A9EDA`, «!» en círculo,
+  bordes redondeados. Cabecera en **Exo 2 Bold**; cuerpo en **Rajdhani**.
+- **Dónde va cada texto:**
+  - Ventana 1, cabecera «NOTIFICACIÓN»: «Se abrió una [Puerta de casting].»
+    y «Cada casting es un hilo.»
+  - Ventana 2, cabecera «MISIÓN»: «Cuando el papel esté cubierto, ciérralo.»
+  - Tres estados con el código de color de la serie, como insignias de
+    rango en la verja: **Abierto** en azul, **Cerrado** en verde `#02DE58`,
+    **Urgente** en carmesí `#E70D41`, como una «[Misión urgente]».
+  - El resto de etiquetas no cabe: **lámina 2** (abajo).
+- **Para que no quede plano:** la **verja de cadena delante**, desenfocada;
+  lluvia fina; la Puerta pone **luz de borde violeta** en la espalda de
+  Jinwoo y la ventana, luz cian en su cara. Ciudad desenfocada detrás.
+- **Por qué encaja:** en el mundo, una mazmorra limpia **se cierra sola**; un
+  casting cubierto también se cierra.
+- Nota: #castings lo proponen también Oshi no Ko (05) y Hunter x Hunter (36).
+
+### Concepto B · #demos · «La ficha de estado de Beru»
+
+- **Objeto real y sitio:** la **cueva helada** de Beru (`Beru_Anime1.png`,
+  1920×1080; azul `#1B3477`, blanco `#E6FCFE`; ⚠️ no se sabe de qué episodio
+  es). La ventana STATUS se proyecta **detrás de un bloque de hielo** y se ve
+  a través de él. En Blender: un bloque con material de hielo o vidrio y el
+  plano de la ventana con emisión detrás, así la luz se refracta de verdad.
+- **Personaje:** **Beru**, la sombra que tiene voz (Daniel Lacy). **Arrodillado
+  y con la cabeza baja**, como al pedir su nombre (ep. 25 · 09:04; ⚠️ sin
+  fotograma propio: silueta del key visual, hoja `sombras_02.jpg` n.º 2, y
+  alas de la n.º 4). Sin cara: la emoción va en la postura.
+- **Cómo habla:** la ventana **STATUS violeta** (marco `#8C1BF8` y `#D259FF`,
+  panel `#1B2337`, texto `#D2E7FF`, bonos en verde `#2BE36A`). La frase de
+  Beru va en **subtítulo blanco**, como en el anime, de **usted**: «Mi rey,
+  abra usted su ficha.»
+- **Dónde va cada texto:**
+  - Cabecera «STATUS» o «FICHA DE VOZ».
+  - Bajo el número de nivel: «Tu ficha de doblaje.»
+  - Filas NOMBRE y JOB: «Un hilo con tu nombre.» «Tus demos.»
+  - Rejilla de atributos: «Tu rango vocal.» Como ejemplo, los valores
+    medidos de Beru: **103 Hz**, **9,5 semitonos**, **1,8 palabras por
+    segundo**, con los bonos en verde.
+  - Las 19 etiquetas van en la **lámina 2**.
+- **Para que no quede plano:** **carámbanos delante**, desenfocados; la luz
+  de las alas, cian, y la de la ventana, violeta, se reflejan en el hielo;
+  humo negro a ras de suelo. Opcional: **Igris al fondo, en silencio**, la
+  sombra que no tiene voz; su penacho rojo es el único color cálido.
+
+### Concepto C · #autoroles · «Un color por sombra»
+
+- **Objeto real y sitio:** una **fila de soldados sombra arrodillados bajo
+  la lluvia** en una azotea de noche (la lluvia de `System1.jpg`; la azotea
+  del opening). En Blender: el modelo [Shadow Knight](https://sketchfab.com/3d-models/shadow-knight-solo-leveling-4f09d63a0ffd455b893b875bc8106620)
+  (CC BY, nea22906) duplicado. **Cada soldado con sus grietas de un color
+  distinto**: cada uno es un color de rol del servidor. Es la regla de la
+  serie: armadura negra y **un solo color de grieta** por sombra.
+- **Personaje:** **Igris**, la sombra más querida, **arrodillado al frente**
+  con sus grietas lila `#9E7EFF` y el penacho rojo `#901A32` (hoja
+  `sombras_02.jpg` n.º 3). Al borde, **Jinwoo de espaldas**, traje oscuro,
+  como en `System1.jpg` (hoja `sistema_01.jpg` n.º 1).
+- **Cómo habla:** Igris no habla: **habla el Sistema por él**. Una ventana
+  NOTIFICATION azul. Variante si se imita el webtoon: ventanas ámbar
+  `#93825A` sobre la lluvia.
+- **Dónde va cada texto:**
+  - Cabecera «NOTIFICACIÓN»: «Elige tu color y tu país.»
+  - Línea 2: «Reacciona abajo.»
+  - Línea 3: «Lo demás, en [Canales y roles], arriba del todo.»
+  - Pie en carmesí `#E70D41`: «Aquí no se escribe.»
+  - Cada color de rol, en la placa del suelo bajo su soldado. ⚠️ el
+    inventario no dice qué colores hay; y la descripción del canal está
+    cortada («si algo no funciona, abr…»): confirmarla antes de rotular.
+- **Para que no quede plano:** gotas grandes de lluvia delante, desenfocadas;
+  **charcos** que reflejan las grietas de colores; Igris cerca de la cámara y
+  la fila perdiéndose al fondo; luces de la ciudad borrosas.
+- Diferencia con la biblia 03: allí Igris se arrodilla en el trono vacío para
+  los rangos; aquí, bajo la lluvia, con un color por soldado.
+
+### Lámina 2 (si no cabe)
+- **#castings · «Rangos de Puerta»**: las 15 etiquetas como una tabla de
+  rangos E→S en una ventana QUEST INFO. Tipo (Anime, Videojuego, Serie,
+  Película, Corto, Comercial, Audiolibro, Canto), paga (Pagado, Sin paga),
+  estado (Abierto, Cerrado, Urgente), Oficial del servidor y +18 en carmesí.
+- **#demos · «Atributos»**: las 19 etiquetas como la rejilla STR/AGI/VIT de
+  una ficha. Voz (masculina, femenina, andrógina), edad (Infantil, Joven,
+  Adulto, Anciano), tipo (Narración, Comercial, Canto, Imitación), medio
+  (Anime, Series, Películas, Videojuegos, Audiolibro), Colaboración, y
+  Disponible en verde y Ocupado en carmesí.
+
+## Datos cruzados y correcciones
+
+Lo que el redactor encontró al juntar las partes. Nada de esto se inventa:
+cada línea dice de dónde sale.
+
+- **Kim Dokja no es de Solo Leveling** (es de *Omniscient Reader's
+  Viewpoint*, según su [ficha de Danbooru](https://danbooru.donmai.us/wiki_pages/kim_dokja.json)).
+  Salía 1.º con 4914 dibujos en los datos del recolector. **Excluido** del
+  ranking y de `referencias.json`. ✅
+- **La ficha «Anime awakened Sung Jinwoo Character design.webp»**: la parte
+  de imagen la descartó porque dice «Shun Mizushino». Pero **Shun Mizushino
+  es el nombre japonés de Jinwoo** (Doblaje Wiki). Lo que no cuadra es el
+  actor que pone (Yasuto Saka), porque AniList da a Taito Ban. **Sigue sin
+  usarse** hasta aclararlo. ⚠️
+- **Color de Beru**: la parte de texto proponía luz de borde «ámbar oscuro»
+  para Beru, pendiente de confirmar. Lo medido en arte oficial es **cian**
+  `#2CC6F2`. Manda lo medido.
+- **El ámbar es del webtoon, no del anime.** La parte de imagen sugería
+  «T1 ámbar, T2 violeta». Pero en el anime la NOTIFICATION es **azul** ya en
+  la T1 (ep. 11 y 12) y la STATUS violeta sólo se midió en nivel 100. ⚠️ No se
+  sabe si la STATUS de la T1 ya era violeta.
+- **Esquinas**: la parte de texto decía «esquinas rectas» para el Sistema. Es
+  cierto para la **STATUS**; la **NOTIFICATION** del anime tiene **bordes
+  redondeados** (vista tres veces en vídeo).
+- **El Gran Mariscal**: la parte de voz lo da a Bellion; la de texto no lo
+  encontró. ⚠️ una fuente.
+- **Siete grados de sombra**, no seis como resumía la biblia 03.
+- **Etiquetas de Beru en Danbooru** mezcladas con las de Jinwoo (`hoodie`,
+  `black_hair`): no usarlas para Beru.
+- **La wiki dice que Igris y Beru brillan «violeta claro»**; en el arte medido
+  Igris es lila y Beru cian. Se usan los hex medidos.
+- **Modelos 3D hechos con IA** (Igris de shrithik, Jinwoo de Meshy): sólo para
+  pose.
+- **Vídeos que no son el anime**: x9vvdrc (fans, 3D) y x9d28g8 (manhwa
+  animado).
+- **Tamaño de `System1.jpg`**: medido 717×1028. La parte de imagen menciona
+  «1080×1920 aprox» sin medir: no se usa.
+- **Recolector**: AnimeThemes dio 522; MusicBrainz devolvió obras ajenas
+  («I'm Just Ken»…); no encontró el subreddit, pero Arctic Shift sí respondió
+  a la parte de voz.
+
