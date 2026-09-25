@@ -33,6 +33,9 @@ Cuenta: cuenta R49
   0-23 de 25 escritos); 100 no llegó a guardar nada. Reanudado a las 12:59 UTC (aviso del dueño «Try
   again»): redactor de 98 relanzado para seguir desde donde quedó (no desde cero) y los 4 investigadores
   de 100 relanzados desde cero.
+- 98 El viaje de Chihiro: **COMPLETA y subida**. `revisar.py`: ✅23 ⚠️16 ❌0, 1047 líneas, 230 referencias
+  (56 webs distintas, 137 minutos, 114 hex medidos). El redactor siguió desde el punto 24 sin reescribir
+  lo anterior. Redactor de 99 lanzado en cuanto se liberó el hueco.
 
 ## Avisos para el dueño
 
@@ -45,6 +48,8 @@ Cuenta: cuenta R49
 - 99 El Castillo Ambulante: no existe videojuego oficial de la franquicia (confirmado en inglés y japonés,
   descartando un dato falso de Namco/PS2 que aparecía en búsquedas); TV Tropes y TCRF bloqueados por
   Cloudflare, no se pudieron leer; sin fuente fiable de la tipografía del logo internacional en inglés.
+- 98 El viaje de Chihiro: la descripción de #presentaciones sigue cortada en `servidor/inventario.md`
+  («nadie comenta…»); falta confirmar cómo termina antes de rotular la lámina.
 
 ## Costos
 
@@ -61,3 +66,4 @@ Cuenta: cuenta R49
 | 99 | imagen | Sonnet | 15 | 226 mil |
 | 99 | video | Sonnet | 20 | 203 mil |
 | 99 | voz | Sonnet | 21 | 238 mil |
+| 98 | redactor (2 tandas: rate limit) | Opus | 10 | 219 mil |
