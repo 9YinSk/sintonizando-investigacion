@@ -462,25 +462,36 @@ Fandom, «Greg Universe», Personality y Trivia · ⚠️
 
 ### Punto 22 — Fan dubs y comunidad hispana
 
-- Fandubs de cómics/animática en español latino (canal de YouTube, según
-  título): «Steven Universe: La Película TRAILER I (Fandub Español
-  Latino)» · https://www.youtube.com/watch?v=CDlMPzFdlvc · ⚠️ (YouTube
-  bloqueado para reproducir desde este servidor, dato sólo por título/URL
-  de la búsqueda, no visto)
-- «Steven Universe Comic: STEVEN SE CORROMPE (Fandub Español Latino)» y su
-  secuela «Steven se CORROMPE» de Steven Universe Future, con varias partes
-  · https://www.youtube.com/watch?v=iKEvhwwgEc4 y
-  https://www.youtube.com/watch?v=IGCT0C_r7_A · ⚠️
+- Fandubs de cómics/animática en español latino, canal **PixlToon-Fandub**:
+  «Steven Universe: La Película TRAILER I (Fandub Español Latino)» ·
+  https://www.youtube.com/watch?v=CDlMPzFdlvc · canal confirmado en vivo
+  con la API oEmbed de YouTube (`youtube.com/oembed?url=...&format=json`,
+  no bloqueada aunque la página completa sí lo está): título y autor
+  «PixlToon-Fandub» (https://www.youtube.com/@PixlToonFandub) · ✅ (dato de
+  búsqueda + confirmado con una segunda llamada directa a la API) · vistas
+  y comentarios exactos siguen sin verse (yt-dlp y la página completa dan
+  429 «demasiadas solicitudes» desde este servidor, confirmado de nuevo en
+  esta tanda)
+- «Steven Universe Comic: STEVEN SE CORROMPE I (Fandub Español Latino)»,
+  mismo canal PixlToon-Fandub · https://www.youtube.com/watch?v=iKEvhwwgEc4
+  · ✅ (oEmbed confirma título y canal); su segunda parte
+  https://www.youtube.com/watch?v=IGCT0C_r7_A da 403 al consultar oEmbed
+  (vídeo privado, borrado o restringido; no se pudo confirmar) · ⚠️
 - «VideoChat- Steven Universe- Español latino (Fandub)», de 2016, uno de
-  los fandubs de cómic más antiguos encontrados ·
-  https://www.youtube.com/watch?v=3iZ1e9JypBE · ⚠️
+  los fandubs de cómic más antiguos encontrados; canal confirmado con
+  oEmbed: **«StevenUniverse Fan- Tutoriales Fandubs Juegos y más»** ·
+  https://www.youtube.com/watch?v=3iZ1e9JypBE · ✅
 - «Steven Universe OP (Symphonic Metal Ver.) [Fandub Español Latino]»:
-  cover del opening en versión metal sinfónico, cantado en español ·
-  https://www.youtube.com/watch?v=UQlTq97ywAU · ⚠️
+  cover del opening en versión metal sinfónico, cantado en español; canal
+  confirmado con oEmbed: **«Ms. Ice Cream»**
+  (https://www.youtube.com/@MsIceCream) ·
+  https://www.youtube.com/watch?v=UQlTq97ywAU · ✅
 - Cover en español del ending «Amar Como Tú» (Love Like You), versión
   masculina, por Alan Ramírez Tamez, repostado en Dailymotion (canal
-  «artcantanteoficial») · https://www.dailymotion.com/video/x3fdt3q · ⚠️
-  (una fuente, vista sólo por metadatos: 99 s de duración)
+  «ARTcantanteOficial») · https://www.dailymotion.com/video/x3fdt3q ·
+  vistas reales confirmadas con la API de Dailymotion en esta tanda
+  (`api.dailymotion.com/video/x3fdt3q?fields=views_total`): **10 vistas** ·
+  ✅ (dato exacto, no estimado) · 99 s de duración
 - La propia Doblaje Wiki documenta que Leisha Medina (voz oficial de
   Steven) subió partes de «Amar Como Tú» cantadas por ella a su cuenta de
   Smule para mostrar a los fans cómo sonaba antes de la censura de Cartoon
@@ -526,31 +537,23 @@ Fandom, «Greg Universe», Personality y Trivia · ⚠️
   español («encuesta oficial personaje favorito Steven Universe»); no
   apareció ninguna, sólo listas de fans (ranker, screenrant, thetoptens) ·
   ⚠️ extra, no obligatorio (hay Danbooru + TV Tropes como proxys)
-- ANMTV directamente (la web `anmtvla.com`/`anmtv.la`) está bloqueada por
-  la política de red de este contenedor (proxy devuelve 502/`connect_rejected`
-  en varios intentos); sólo pude usar lo que el buscador web indexó de ese
-  sitio (un artículo sobre el doblaje de la película) antes de que se
-  agotara la cuota de búsquedas de este contenedor (compartida entre los
-  investigadores; llegó a 200/200 a media tanda) · anotado, intento
-  alternativo con `curl` directo también falló
-- Segunda fuente independiente (fuera de Doblaje Wiki) para los actores de
-  reparto secundario (Garnet, Amatista, Connie, Greg, Lars, Sadie, Peridot,
-  Lapis, Rose, Zafiro, Bismuto): con la cuota de búsqueda agotada no pude
-  cruzarlos uno por uno con ANMTV o entrevistas; quedan con ⚠️ (una fuente,
-  Doblaje Wiki) salvo los 4 casos donde el propio wikitext cita una
-  entrevista en YouTube.
-- Vistas y comentarios reales de los fandubs de YouTube listados en el
-  punto 22: YouTube pide iniciar sesión desde este servidor; sólo tengo
-  título y enlace por metadatos de búsqueda.
+- ANMTV (`anmtvla.com`): en esta tanda ya **no** da 502/bloqueo de red (se
+  probó de nuevo, HTTP 200), pero su buscador interno (`?s=...`, con y sin
+  codificar espacios) no devuelve resultados filtrados por «steven
+  universe»: entrega la portada genérica del sitio sin coincidencias de
+  texto. No tiene página de etiqueta (`/tag/steven-universe/` da 404).
+  Probé 2 veces (límite de la regla de la casa) y no saqué nada nuevo de
+  ahí; la ficha de reparto ya está confirmada por otra vía (ver abajo) ·
+  ⚠️ extra, no obligatorio (ya hay segunda fuente para todo el reparto)
+- Vistas y comentarios **exactos** de los fandubs de YouTube del punto 22:
+  la página completa y `yt-dlp` siguen dando 429 «demasiadas solicitudes»
+  en esta tanda (confirmado de nuevo); sólo pude confirmar canal y título
+  reales con la API oEmbed de YouTube (no bloqueada), que sí funcionó para
+  4 de los 5 enlaces — ver punto 22, ahora con canal real en vez de sólo
+  título de búsqueda · ⚠️ extra, no obligatorio
 - Reacciones en TikTok de fandubs o covers: no hay acceso directo a la API
-  de TikTok desde aquí y la cuota de búsqueda web se agotó antes de poder
-  explorar ese ángulo a fondo.
-
-Sigue: confirmar con una segunda fuente independiente (ANMTV, entrevista o
-Wikipedia) los actores de doblaje que quedaron con ⚠️ en el punto 8 (todos
-salvo Steven, Perla, Jorge Bringas y Rubí), y abrir directamente 2-3 de los
-enlaces de fandub del punto 22 para confirmar vistas/comentarios reales
-(YouTube o TikTok, con sesión o en otro momento sin bloqueo).
+  de TikTok desde este contenedor; no se encontró contenido de TikTok
+  específico de Steven Universe en español en esta tanda.
 
 ## Bitácora
 
@@ -587,3 +590,34 @@ enlaces de fandub del punto 22 para confirmar vistas/comentarios reales
 - ANMTV (`anmtvla.com`): bloqueado por la política de red de este
   contenedor (502 / `connect_rejected` en 3 intentos directos con curl);
   sólo accesible lo que indexó el buscador antes de agotarse la cuota.
+
+### Segunda pasada (relanzo)
+
+- Doblaje Wiki, API `action=parse&prop=wikitext`, página individual de cada
+  actor de reparto secundario para conseguir la segunda fuente que pedía
+  `Sigue:`: Rocío Mallo, Stefani Villarroel, Yasmil López, Abigaly Claro,
+  Navid Cabrera, Henrique Palacios, Ángel Lugo, Karina Parra, Mariangny
+  Álvarez, Sofía Narváez, Andrea Navas, Maythe Guedes, Arelys González,
+  Yvette García (la tabla de reparto decía «Ivette García», que es una
+  redirección), Alix Ramírez, Catherine Reyes — español. Las 15 fichas se
+  guardaron en `/tmp/claude-0/trabajo/104-voz/*.wikitext` (carpeta de
+  trabajo, no en el repositorio).
+- ANMTV (`anmtvla.com`): reintentado con `curl` directo (ya no da 502; HTTP
+  200) y con su buscador interno (`?s=steven+universe+doblaje`, dos
+  variantes de codificación); no filtra resultados por texto, así que no
+  sirvió para confirmar reparto — se confirmó por la vía de arriba en su
+  lugar.
+- YouTube, API oEmbed (`youtube.com/oembed?url=...&format=json`, no
+  bloqueada aunque la página completa sí): los 5 enlaces de fandub del
+  punto 22, para confirmar canal real (4 de 5 respondieron 200; uno dio
+  403). `yt-dlp --dump-json` sobre el primero: 429 (confirma que el
+  bloqueo de la página completa sigue activo esta tanda).
+- Dailymotion, API `api.dailymotion.com/video/x3fdt3q?fields=views_total`
+  para las vistas exactas del cover de «Amar Como Tú»; y una búsqueda más
+  (`api.dailymotion.com/videos?search=steven+universe+cover+español`) para
+  ver si había más covers de fans aparte de los ya listados — sólo aparecen
+  reposts oficiales (Cartoon Network, Cartoon Workshop), no fandubs nuevos.
+- WebSearch: intenté 2 consultas (ANMTV site:, «Rocío Mallo» actriz) pero
+  la cuota compartida del contenedor seguía en 200/200 desde antes del
+  relanzo; no se pudo usar el buscador web en esta tanda, todo lo de arriba
+  se sacó con `curl`/Python directo.

@@ -295,3 +295,140 @@ el final: **se hablan por escrito**. ✅ (wiki, [resumen completo](https://kimin
 - «¿Quién eres?» es la misma pregunta que sale escrita en el cuaderno (「お前は誰だ?」, tráiler 1:09). ⚠️ no se comprobó que la muestra salga de esa escena.
 - Las otras 9 muestras (.ogg) están enlazadas en `partes/datos-voz.md`; no se transcribieron. ⚠️
 - **No hay clips oficiales doblados** de escenas largas en YouTube accesible, Dailymotion ni Internet Archive. Los tráileres en español de Dailymotion ([x588f0a](https://www.dailymotion.com/video/x588f0a), [x5br0bw](https://www.dailymotion.com/video/x5br0bw), [x5bl31w](https://www.dailymotion.com/video/x5bl31w)) llevan voz en español encima; al menos el primero es de **Selecta Visión** (España), no el latino; los otros dos, sin comprobar. ⚠️ Las frases del clímax (cuando por fin se preguntan el nombre) hay que **oírlas en persona** en latino (HBO Max, Netflix o Prime Video).
+
+## 9. Música y sonido
+
+**Toda la música es de RADWIMPS** (grupo de rock japonés, voz y letras de Yōjirō Noda). Shinkai los eligió
+para salirse de lo habitual en el anime: quería «algo nuevo» ([BFI](https://www.bfi.org.uk/sight-and-sound/interviews/trading-places-makoto-shinkai-your-name)). ✅
+En el tráiler, el crédito «音楽 RADWIMPS» sale en 1:02-1:04 (visto).
+
+**El disco** ([Internet Archive](https://archive.org/details/kiminonawasoundtrack), lista de archivos leída por el redactor): **26 pistas** y 4 extra
+(versiones largas). ✅ (ítem + [Wikipedia](https://en.wikipedia.org/wiki/Your_Name))
+
+| Nº | Pista | Qué es |
+|---|---|---|
+| 01 | **夢灯籠** (*Yume Tōrō*, «farol de sueños») | Canción de la **apertura** con el título; 2:09 en el disco. Suena en la [secuencia de apertura](https://archive.org/details/kimi-no-na-wa-op-1) ✅ |
+| 04 | はじめての、東京 («Tokio por primera vez») | Tema de la ciudad ⚠️ (por título) |
+| 08 | **前前前世** (*Zenzenzense*) | La canción más conocida: rock rápido, montaje de la vida de los dos; 4:37 ✅ |
+| 09 | 御神体 («el cuerpo divino») | La subida al santuario del cráter ⚠️ (por título) |
+| 11 | 秋祭り («fiesta de otoño») | La noche del festival y del cometa ⚠️ |
+| 14 | 消えた町 («el pueblo que desapareció») | Cuando Taki descubre que Itomori fue destruido ⚠️ |
+| 15 | 図書館 («biblioteca») | Taki lee la lista de víctimas (tráiler 1:22, luz de lámpara) ⚠️ |
+| 18 | 口噛み酒トリップ | El viaje al beber el *kuchikamizake* ⚠️ |
+| 23 | **かたわれ時** (*Kataware-doki*) | El encuentro en el crepúsculo ⚠️ |
+| 24 | **スパークル** (*Sparkle*) | Canción larga (6:49 en el disco) del clímax ✅ |
+| 26 | **なんでもないや** (*Nandemonaiya*) | Canción final ✅ (wiki, página «Nandemonaiya (Movie Version)») |
+
+- ⚠️ Corrección: `partes/video.md` dice que *Sparkle* y 前前前世 son la misma canción. **No**: son las pistas 24 y 08.
+- ⚠️ El MV de *Sparkle* de Internet Archive ([ítem](https://archive.org/details/sparkle_201703)) lleva la **versión en inglés** de RADWIMPS y, según su descripción, escenas cortadas. Vale para mirar, no para oír la canción original.
+- Qué pista suena en cada escena: emparejada **por el título** de la pista; no se oyó la película entera. ⚠️
+- La escena del reencuentro en la escalera: la prensa dice que vuelve el tema principal; la pista exacta no se pudo oír. ⚠️
+
+**Sonidos que todos reconocen:**
+- Los **cascabeles dorados** de la danza de sacerdotisa (apertura 1:01, visto). ⚠️ sonido no oído aislado.
+- Campanilla de viento y tablillas de madera del santuario (ficha del [cometa Tiamat](https://kiminonawa.fandom.com/wiki/Comet_Tiamat)). ⚠️ una fuente.
+- El móvil: la película se cuenta mucho con él (tráiler 0:20, 0:49-0:53). ⚠️ sonido sin oír.
+- **No hay versión latina cantada**: las canciones son en japonés (y en inglés en la edición internacional de RADWIMPS). ✅
+
+## 10. Vídeos
+
+| Vídeo | Duración | Qué sirve, con minuto | Estado |
+|---|---|---|---|
+| [Tráiler oficial japonés](https://archive.org/details/YourNameKimiNoNaWaTrailer) (Internet Archive) | 1:25 | 0:00-0:13 cielo, cometa, cordones, primera cartela; 0:15-0:31 presentación de los dos con su nombre en grande (瀧 y 三葉); 0:35-1:00 el cambio de cuerpo y las notas; 1:07-1:22 cráter, pizarra, cuaderno, cometa y lágrimas | ✅ mirado entero, un fotograma por plano (53) |
+| [Apertura «Yume Tourou»](https://archive.org/details/kimi-no-na-wa-op-1) | 1:46 | 0:01-0:12 el cometa, visto por Taki en Tokio y por Mitsuha; 0:21 **logo**; 0:27-0:44 los dos entre siluetas lila; 0:49-1:05 Tokio; 0:54-1:01 kumihimo y danza; 1:23 Tokio desde la barandilla; 1:37-1:42 los dos tienden la mano a cámara | ✅ mirado entero (36 planos) |
+| [MV *Sparkle*](https://archive.org/details/sparkle_201703) (versión inglesa, con escenas cortadas) | 6:46 | 1:50 el tren; 2:40-2:50 la escalera; 3:30 las caras pintadas; 4:20-4:50 *kataware-doki* y la palma; 5:00-6:20 cometa e impacto; 6:40 la escalera | ✅ mirado cada 10 s (41) |
+| [Escena final en la escalera](https://www.dailymotion.com/video/x6vxp2a) (Dailymotion) | 0:22 | 0:10 **Mitsuha llora** al reconocerlo; lleva subtítulos en inglés y metraje añadido de fans desde 0:18 | ✅ (investigador de voz) |
+| [Tráiler en español](https://www.dailymotion.com/video/x5wv0f8) (Dailymotion) | 1:32 | 0:30 bosque de otoño a contraluz; 0:45 primer plano de trenzas | ✅ (investigador de voz) |
+| Resumen de 5:48 en [Dailymotion](https://www.dailymotion.com/video/x63fy51) | 5:48 | Sólo para situar escenas; parece montaje de fans | ⚠️ |
+
+**Tendencias.** La escalera del santuario Suga (Yotsuya, Tokio) es lo más imitado en TikTok: fans que van al sitio real y repiten el plano ([TikTok](https://www.tiktok.com/discover/kimi-no-nawa-stairs-scene) + [Tickets in Japan](https://www.ticketsinjapan.com/media/suga-shrine-stairs/)). ✅
+⚠️ Análisis en YouTube, vistas de TikTok y vídeos de reacción: no accesibles (YouTube pide iniciar sesión).
+
+## 11. Videojuegos
+
+**No hay videojuego oficial de *Your Name*.** Comprobado en inglés y en español: sólo salen un fondo de
+escritorio en Steam Workshop y juegos de fans sin relación en itch.io; la wiki no tiene página ni
+categoría de juego; la búsqueda del recolector en Steam no trajo nada. ✅ (búsqueda negativa)
+No hay cajas de diálogo ni menús de juego que estudiar. Para la lámina, el «interfaz» de esta película es
+**el móvil de Taki y Mitsuha** (punto 6).
+
+## 12. Lo que ama el fandom y qué no hacer
+
+**Lo que todos reconocen:**
+- **La palma con 「すきだ」** en vez del nombre, y la escena de escribirse en la mano al atardecer. Es el corazón de la película para el fandom. ✅ (wiki + hilos de [Reddit r/anime](https://www.reddit.com/r/anime/) «ending explained»)
+- **El diario del móvil** y las notas: el gag de dejarse reglas y reproches. ✅ (reseñas de Anime News Network y Crunchyroll, según la parte de voz)
+- **El kumihimo rojo** (el cordón del pelo de Mitsuha): el objeto que un fan reconoce al instante. ✅
+- **La escalera** de Tokio y la pregunta final por el nombre. ✅
+- **Los dos gritando en pantalla partida** con la cara pintada (tráiler 0:59; *Sparkle* 3:30). ✅ visto
+- El gag del primer despertar de Taki en el cuerpo de Mitsuha (se toca el pecho; Yotsuha lo pilla «al menos tres veces», dice la wiki). ✅ es canon.
+
+**Qué NO hacer** (lo que a un fan le parecería falso):
+- **Ropa cualquiera.** Mitsuha va de uniforme de verano (camisa blanca, lazo rojo, falda gris) o de sacerdotisa; Taki, de camisa blanca con ribete verde y corbata a rayas. Ver punto 15.
+- **Un cometa genérico.** El de la película es una estela larga azul y blanca que **se parte en dos** (tráiler 1:17), no una bola con cola.
+- **Mezclarla con *El tiempo contigo* (*Weathering With You*) o *Suzume*.** Mismo director, otros personajes y otro aspecto; sólo hay cameos.
+- **Olvidar el kumihimo.** Si sale Mitsuha, lleva el cordón.
+- **Globos blancos de manga.** Aquí todo se escribe a mano en objetos.
+- **Un atardecer naranja saturado.** El crepúsculo de Shinkai es lila, rosa y parejo (punto 4).
+- **Usar el gag del pecho en una lámina.** Es canon, pero ella es menor de edad: no va en el servidor. (Criterio del redactor.)
+- **Tratar el cometa como pura fantasía.** Shinkai dice que el desastre alude al terremoto y tsunami de Tōhoku de 2011 (entrevista de ANN, punto 25). Con respeto, sin espectáculo.
+- **Usar lo de Suntory** (el id 97962) como si fuera la película.
+
+## 13. Cada personaje a fondo
+
+Carácter y aspecto: texto de la wiki ([Taki](https://kiminonawa.fandom.com/wiki/Taki_Tachibana), [Mitsuha](https://kiminonawa.fandom.com/wiki/Mitsuha_Miyamizu)) y fichas de AniList. Caras y gestos: **mirados** en los vídeos (minuto al lado).
+
+### Taki Tachibana (立花瀧) · el chico de Tokio
+
+- **Cómo lo presenta el tráiler:** 「瀧 都心に住む高校生」, «Taki, estudiante que vive en el centro de Tokio» (0:23-0:26, visto; traducción del redactor).
+- **Carácter:** amable y trabajador. Va al instituto Jingu y trabaja a tiempo parcial, con mucho esfuerzo, en *Il Giardino delle Parole*, un restaurante italiano elegante. Su vida social es tranquila, con sus amigos. Confía en Tsukasa, que le ayuda a centrarse. ✅ (wiki + AniList)
+- **Aspecto:** pelo castaño de punta hasta la nuca, flequillo sobre la frente, ojos azul oscuro. **Suele llevar tiritas pequeñas en la cara** (la primera, blanca en la mejilla izquierda): actúa por impulso y se raspa. Envejece a lo largo de la película. ✅ (wiki)
+- **Qué le importa:** quiere ser **arquitecto**; de adulto trabaja en construcción contra desastres, por lo que vivió con Itomori. Dibuja paisajes y edificios: busca el pueblo de Mitsuha **con un dibujo hecho de memoria**. ✅
+- **Miedo:** olvidar. Toda su parte final es buscar algo que no recuerda.
+- **Qué transmite:** empeño y nostalgia. Es el que corre, salta y busca.
+- **Cómo se expresa:** directo, un poco brusco cuando está confundido; grita cuando discute con Mitsuha por las notas. En latino, voz media-aguda y juvenil (Bruno Coronel). ⚠️ muletillas propias no documentadas.
+- **Lenguaje corporal:** manos en los bolsillos al andar (apertura 0:42), mira hacia arriba (cometa, rascacielos), salta barandillas (tráiler 1:03-1:04).
+
+### Mitsuha Miyamizu (宮水三葉) · la chica de Itomori
+
+- **Cómo la presenta el tráiler:** 「三葉 東京に憧れる少女」, «Mitsuha, chica que sueña con Tokio» (0:29-0:33, visto; traducción del redactor).
+- **Carácter:** amable, cariñosa, ordenada y decidida; a veces terca. Sincera: dice lo que piensa, sobre todo si algo le molesta. Aventurera. **Está cansada del pueblo pequeño** y quiere ver mundo. Disfruta los detalles pequeños de la vida de Taki cuando se cambian. ✅ (wiki)
+- **Aspecto:** se parece a su madre muerta, Futaba. Ojos castaños, pelo negro hasta media espalda en **media coleta atada con el cordón kumihimo rojo en forma de lazo**, flequillo hacia la izquierda y **dos mechones trenzados** a los lados, como las sacerdotisas antiguas. Más tarde se corta el pelo corto. ✅ (wiki + visto)
+- **Historia:** hija del alcalde, Toshiki, y nieta de la sacerdotisa Hitoha. Ella y su hermana hacen de sacerdotisas en el santuario de la familia y preparan el *kuchikamizake*. ✅
+- **Qué le importa:** escapar de las expectativas de su padre y de la vida del pueblo; luego, salvar a todos.
+- **Qué transmite:** ternura y fuerza. Es la que decide y convence.
+- **Cómo se expresa:** afirma con calma («Mi nombre es Mitsuha Miyamizu.», voz cálida y aguda de Jocelyn Robles); cuando explota, **grita al aire** con los ojos cerrados (tráiler 0:35). ⚠️ muletillas no documentadas.
+- **Lenguaje corporal:** **se ata el pelo con el cordón** (tráiler 0:42 y 1:18, apertura 1:30): su gesto de todas las mañanas. Bosteza tapándose la boca (tráiler 0:30). Estira la mano hacia el cielo (apertura 1:37).
+
+### Su cara en cada emoción (fotograma y minuto)
+
+| Emoción | Taki | Mitsuha |
+|---|---|---|
+| Alegría | Sonríe y levanta la mano con dos dedos: [*Sparkle* 3:40](https://archive.org/details/sparkle_201703?t=220) ✅ | Sonríe tímida con la mano en el pelo, al atardecer: [*Sparkle* 4:30](https://archive.org/details/sparkle_201703?t=270) ✅; adulta, sonriente: `personajes_01` nº24 |
+| Rabia | Grita con las cejas fruncidas, pantalla partida: [tráiler 1:00](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=60) ✅ | Grita, boca abierta: [tráiler 0:59](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=59) ✅; grito al valle con ojos cerrados: [tráiler 0:35](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=35) ✅ |
+| Tristeza | Mano en la boca al ver el cráter: `personajes_01` nº30 ([Realize.png](https://static.wikia.nocookie.net/kiminonawa/images/f/fd/Realize.png)) ✅ sin minuto | Una lágrima, el cordón delante: [tráiler 1:19-1:20](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=80) ✅; llora de alivio en la escalera: [Dailymotion 0:10](https://www.dailymotion.com/video/x6vxp2a) ✅ |
+| Miedo | Horror ante la lista de víctimas, luz de lámpara en la biblioteca: [tráiler 1:22](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=82) ✅ | Corre de noche con el cometa partido: [*Sparkle* 5:00](https://archive.org/details/sparkle_201703?t=300) ✅; mira atrás con angustia al atardecer: [tráiler 1:05](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=65) ✅ |
+| Vergüenza | Se mira el pecho confundido (con Mitsuha dentro): [tráiler 0:39](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=39) ⚠️ lectura del redactor | Primer plano con las mejillas rojas: [*Sparkle* 2:00](https://archive.org/details/sparkle_201703?t=120) ⚠️ lectura del redactor |
+| Sorpresa | Despierta sin entender: [tráiler 0:38](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=38) ✅ | Se levanta de la mesa asustada: [tráiler 0:56](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=56) ✅ |
+
+⚠️ Los secundarios no tienen cara por emoción con minuto: los clips accesibles casi no los enseñan de cerca.
+
+### Los secundarios más queridos
+
+Datos de la wiki de personajes (texto y ficha); voces latinas en el punto 8.
+- **Katsuhiko «Tessie» Teshigawara** (勅使河原克彦). Amigo de Mitsuha, ruidoso y enérgico; su familia tiene una constructora que quieren que herede. Shinkai dijo que Tessie es **un reflejo de su propia infancia** (sus padres también tenían constructora; entrevista citada por la wiki, medio HeyUGuys). Cabeza rapada, cejas gruesas, va en bici con la cartera azul (`vestuario_fondos_01`, celda 1). Monta el plan de evacuación. Prometido de Sayaka. ✅
+- **Sayaka Natori** (名取早耶香), «Saya-chi» para Mitsuha. Tranquila y amable, del **club de radio** del instituto. Su hermana mayor trabaja en el ayuntamiento y maneja la megafonía: por eso Sayaka sabe usar el sistema de alarma en el clímax. ✅ Amplía su historia *Another Side: Earthbound*.
+- **Yotsuha Miyamizu** (宮水四葉). Hermana pequeña de Mitsuha. Tranquila y madura para su edad; la despierta cada mañana; más apegada a las tradiciones que su hermana. **Habla con el dialecto de Itomori**: termina las frases en «-ya» en vez de «-da». Madruga a las 6. ✅
+- **Hitoha Miyamizu** (宮水一葉). La abuela, antigua sacerdotisa. Tranquila incluso en crisis. Teje kumihimo y guarda el ritual para proteger la memoria de la familia. Explica el ***musubi*** en la subida al santuario. ✅
+- **Toshiki Miyamizu.** El padre, alcalde, antes sacerdote y folclorista. Estricto y analítico; viudo de Futaba, culpa al santuario de su muerte. Quiere a sus hijas pese a la dureza. En `personajes_01` nº31 sale con kimono morado de sacerdote. ✅ ⚠️ Teoría de fans sin confirmar: el taxista de guantes blancos del final sería él.
+- **Tsukasa Fujii.** Amigo de Taki, serio y agudo, el «hermano mayor»; el primero en notar que Taki actúa raro. Al final lleva anillo de casado: según una respuesta del autor citada por la wiki, **se casa con Okudera**. ✅
+- **Shinta Takagi.** Amigo de Taki, alegre y despreocupado; nota lo raro y lo acepta sin más. ✅
+- **Miki Okudera.** Compañera del restaurante, mayor que Taki, observadora; le gusta más el Taki «con Mitsuha dentro». Mitsuha le organiza una cita con ella. Fuma a escondidas por el estrés. Pelo granate, ojos ámbar. ✅
+- **Yukari Yukino.** La profesora de literatura clásica (la de la pizarra, tráiler 1:08). Es la misma de *El jardín de las palabras*. Mide 166 cm. ✅
+
+**Dinámicas para láminas en grupo:**
+- **Taki y Mitsuha:** se riñen por las notas, se ponen reglas, se pintan la cara; se buscan sin verse. La emoción es de complicidad a distancia.
+- **Mitsuha, Tessie y Sayaka:** el trío del pueblo; Tessie hace reír, Sayaka pone calma.
+- **Taki, Tsukasa y Shinta:** el trío de Tokio (nº2).
+- **Mitsuha y Yotsuha:** la pequeña la despierta y la pilla en sus rarezas.
+- **Mitsuha y su padre:** con quien discute.
+- **Mitsuha y la abuela:** con quien aprende (el kumihimo y el *musubi*).

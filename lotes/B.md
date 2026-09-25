@@ -9,6 +9,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 - 06-09: ya COMPLETAS (sesiones anteriores).
 - 10 K-On: **COMPLETA** y subida (02:4x). ✅19 ⚠️11 ❌0, 134 referencias, 106 webs, 2443 líneas.
+- 15 SpongeBob (Bob Esponja): **COMPLETA** y subida (23:05). ✅22 ⚠️9 ❌0, 172 referencias, 60 webs, 2169 líneas.
 - 11 Chainsaw Man: partes listas; redactor (Opus, repaso) en marcha.
 - 12 Kakegurui: 4 investigadores (Sonnet, repaso) en marcha.
 - 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
@@ -34,6 +35,8 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 ## Avisos para el dueño
 
+- **15 SpongeBob (Bob Esponja)** (repaso): más querido no hay encuesta oficial; en Ranker gana Patricio y los adultos se identifican con Calamardo. Para #ofertas-y-gratis manda Don Cangrejo (el dinero es suyo). Cuadro de diálogo propio: la serie no usa globos — se usan la tarjeta de tiempo del Narrador Francés (tela tiki y letra Some Time Later, OFL), el menú GALLEY GRUB con los céntimos pequeños y arriba, el cartel rojo «DAILY SPECIAL» pegado con cinta y el botón lila de Calamardo. Láminas: A «la caja de Don Cangrejo en el barquito» (recomendada, con la pose vista en la hoja C1), B Calamardo en la caja con el menú en soles y su botón, C el Crustáceo (fachada).
+
 - **13 Rick and Morty** (repaso): más querido, Rick, pero el secundario que más tira es **Pepinillo Rick** (Emmy 2018, 3.º en Ranker); el Sr. Meeseeks es el segundo gancho (el bot MEE6 de Discord lleva su nombre). Cuadro de diálogo propio: no hay globos — el rótulo de la tele, con nombre y eslogan abajo en pantalla (1×08, 11:18); en los videojuegos el texto va en objetos del mundo. Láminas: A «TV infinita» (recomendada, la tele del salón con la caja del cable), B Pepinillo Rick en el banco del garaje, C la caja Meeseeks en la mesa de la cocina (modelo 3D de pythagean, CC BY).
   Aviso importante: el redactor tocó varias secciones que se daban por buenas (§2,3,4,5,6,8,10,12,13,15,16,17,20 y la bitácora) porque seguían con datos de la primera pasada que contradecían lo investigado (Style Guide «sin ver» cuando ya se vio, licencias «sin comprobar» ya confirmadas, un motivo falso del cambio de reparto del anime). Sin resolver: YouTube pide iniciar sesión, así que no hay fotogramas 1080p del 1×08 ni 2×08; TV Tropes y The Cutting Room Floor dan 403.
 
@@ -56,6 +59,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 15 | equipo completo | Sonnet + Opus | — | — |
 | 13 | redactor (repaso) | Opus | 15 | 269 mil |
 | 12 | redactor (repaso) | Opus | 12 | 193 mil |
 | 14 | video | Sonnet | 11 | 172 mil |
