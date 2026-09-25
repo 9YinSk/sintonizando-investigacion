@@ -12,14 +12,13 @@ ahora lleva el lote H.)
 - 117 God of War: **COMPLETA** y subida (04:17). ✅21 ⚠️9 ❌0, 133 referencias, 71 webs, 254 minutos, 71 hex, 2347 líneas.
 - 118 Hellblade: **COMPLETA** y subida (04:35). ✅27 ⚠️10 ❌0, 207 referencias, 78 webs, 142 minutos, 70 hex, 1930 líneas.
 - 119 A Plague Tale: **COMPLETA** y subida (13:41). ✅22 ⚠️15 ❌0, 124 referencias, 57 webs, 129 minutos, 85 hex, 872 líneas.
-- 120 Days Gone: texto, voz y video (Sonnet) en marcha; imagen lista.
+- 120 Days Gone: **COMPLETA** y subida (18:32). ✅21 ⚠️16 ❌0, 114 referencias, 54 webs, 140 minutos, 38 hex, 856 líneas.
 - 121 Tomb Raider: imagen (Sonnet) en marcha.
 - 122: recolectado con hojas; 123-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
   120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
   121-126: recolectando otra vez con hojas (se perdieron con el contenedor).
-- 120 Days Gone: 4 partes listas (13:42); redactor (Opus) en marcha.
 - 121 Tomb Raider: imagen y video listos; voz y texto (Sonnet) en marcha.
 - 13:45-18:10: la cuenta .108 llegó a su límite de uso y se cortaron el redactor de 120, voz y texto
   de 121, e imagen y video de 122 (sin dejar nada escrito). Relanzados los 5 a las 18:12.
@@ -27,6 +26,21 @@ ahora lleva el lote H.)
   eldenring, finalfantasy) porque los encargos no la traen.
 
 ## Avisos para el dueño
+
+- **120 Days Gone**: más querido, Deacon (sin encuesta; en Reddit Deacon y Boozer son 1 y 2); el
+  secundario más discutido es Copeland (Radio Free Oregon). Cuadro de diálogo: sin globos, barra negra a
+  todo lo ancho abajo con «NOMBRE:» en blanco y negrita; grabaciones de NERO como guion de radio;
+  misiones en versales finas con etiqueta naranja. Letras Bebas Neue, Oswald y Rye. Láminas: A #hardware
+  ⭐ (la Drifter en el taller, Deacon y Boozer), B #textos (grabadora de NERO, guion de radio), C
+  #en-directo (Radio Free Oregon en la Highway 97 de noche; reserva: sala 📻 RADIO EN VIVO).
+  - Nota: #hardware también lo piden Dr. Stone, Shield Hero y God of War; #textos, Death Note, Shrek,
+    Vinland Saga, Hellblade y A Plague Tale; #en-directo, One Punch Man y Bocchi.
+  - Por comprobar de oído: si el doblaje latino dice «Reapers» o «Rippers» (Doblaje Wiki: el culto se
+    adaptó como «Los Muertos»); cómo se llaman los Freakers en latino; las 8 frases latinas vienen de
+    muestras de Doblaje Wiki, sin minuto; si el chaleco de Deacon es cuero negro o vaquero azul (`#20363A`).
+  - Corregido: el tráiler transcrito es el doblaje de España, no el latino; capturas de Steam mal
+    descritas (n.º 2, n.º 13 y la del contraluz); el anillo que buscan los fans es el de Deacon.
+  - Falta: no hay imagen de Boozer ni de Copeland en las partes (conceptos A y C con ⚠️/❌).
 
 - **119 A Plague Tale**: más querida, Amicia (la más dibujada; su actriz, nominada en The Game Awards
   2022); la secundaria con más cariño es Sophia (tiene juego propio, *Resonance*, 2026). No hay encuesta.
@@ -97,3 +111,6 @@ ahora lleva el lote H.)
 | 120 | video | Sonnet | 21 | 233 mil |
 | 119 | redactor (relanzado) | Opus | 22 | 332 mil |
 | 121 | video | Sonnet | 20 | 182 mil |
+| 121 | voz (relanzado) | Sonnet | 13 | 200 mil |
+| 122 | imagen (relanzado) | Sonnet | 15 | 246 mil |
+| 120 | redactor (relanzado) | Opus | 19 | 325 mil |
