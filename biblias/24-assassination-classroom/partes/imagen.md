@@ -457,7 +457,8 @@ construcción de la cabeza de Koro-sensei).
 | 19 · Texturas 2D | ✅ | 2 páginas de manga miradas de verdad (trama, línea, paneles diagonales); trama libre de Clip Studio y generador MIT en GitHub. Emblema de la escuela, no encontrado. |
 | 23 · Colaboraciones y cruces | ✅ | Videojuego crossover (J-Stars Victory VS), 3 cafés de 2026, figuras oficiales (Banpresto, Pop Up Parade), cosplay y adaptación a imagen real. Sección nueva completa. |
 
-Sigue: nada pendiente de mis puntos (1, 3, 15, 16, 19, 23). Quedan como
-⚠️ documentados (no como huecos): wallpapers oficiales, emblema de la
-escuela, franja morada sin hex, ficha de Good Smile para las Pop Up
-Parade, y la trama exacta del manga.
+**Parte terminada**: los 6 puntos (1, 3, 15, 16, 19, 23) están hechos y
+con fuente. Lo que quedó ⚠️ está documentado arriba con la búsqueda hecha,
+no son huecos silenciosos: wallpapers oficiales, emblema de la escuela,
+franja morada sin hex, ficha de Good Smile para las Pop Up Parade, y la
+trama exacta del manga.

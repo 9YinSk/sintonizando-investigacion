@@ -60,7 +60,67 @@ fecha: 2026-09-24
 
 ## Segunda pasada · qué cambió
 
-_(pendiente)_
+Repaso del 24-25 de septiembre de 2026 con la red abierta. Sale de las
+partes de los cuatro investigadores (`partes/imagen.md`, `video.md`,
+`voz.md`, `texto.md`) y de `partes/datos-*.md`. Se editó cada sección
+en su sitio; lo nuevo va marcado «**Nuevo, 2.ª pasada**» o «**2.ª
+pasada**».
+
+### Corregido (antes → ahora)
+
+| Qué | Antes | Ahora | Fuente |
+|---|---|---|---|
+| Voz latina de Nani, 2025 | Karen Vallejo (nota de prensa) | **Alicia Vélez** | Doblaje Wiki y The Dubbing Database (§10.2) |
+| Voz latina de Pleakley, 2025 | Arturo Castañeda (nota de prensa) | **Armando Guerrero** | ídem |
+| Voces de 2002 de Nani, Pleakley, Cobra y David | ❌ no encontradas | **Claudia Garzón, Rubén Trujillo, Rubén Moya, Noé Velázquez Pedroza** ✅✅ | ídem (§10.1) |
+| Mario Filio | «no sé a quién dobla» | **Kumu**, el profesor de hula | ídem |
+| Voz de Stitch en cine, 2002 | ¿Sanders, Aldana o mezcla? | Aldana sólo en los diálogos en español; gruñidos y ruidos, Sanders | Doblaje Wiki ⚠️ |
+| Intérprete de «Muero de amor por ti» | ❌ no encontrado | **Bandana** (Argentina) | ficha de Doblaje Wiki ⚠️ |
+| Licencia de «Set of four low-poly Cameras» | CC Attribution | **CC BY-NC-SA** (no comercial) | API de Sketchfab (§4.1) |
+| Fondos de pantalla oficiales | «no encontré ninguno» | **8 con tamaño**, el mayor de 3000×1535 | API de la wiki (§17.1) |
+| Artbook | «no encontré» | *Collected Stories From the Film's Creators*, Disney Press, 2002 | Worthpoint, LabyrinthBooks (§3.6) |
+| Noche del cuarto de Lilo | azul `#1F2E52` | **morada y roja**: `#432626`, `#62414D`, `#6A1B1B` | tráiler 2002, 2:12, `estilo.py` (§5.4b) |
+| Luau | noche fría | **cálida de antorchas**: `#8D4232`, `#813B2D` | luau 1080p, 0:48 y 1:00 |
+| Bosque del Patito Feo | luz de amanecer | **noche**, luz de luna, sin música | película, 55:27 (§2.1, §5.3) |
+| Truco de la sal de Maurice Noble | ⚠️ un resumen | ✅ dos fuentes | AV Club, Animation Obsessive |
+| Director del doblaje de 2002 | José Carlos Moreno ⚠️ | **en duda**: la ficha dice Ricardo Tejedo; Moreno sale de actor | Doblaje Wiki (§10.1) ⚠️ |
+| Datos de la parte de imagen | — | ruta de la hoja de Pleakley (`/7/74/` → `/7/7b/`), Britto (n.º 4 → 12), Disney Cruise Line (n.º 554 → 559); **retirado** «KH III con Stitch's Great Escape» (el n.º 535 es una foto del parque) | el redactor, mirando las hojas y con `curl` |
+
+### Añadido
+
+- **Hojas de contacto** (3, miradas y con cada número explicado).
+- **Vídeos mirados de verdad**: película entera, tráiler 2002, créditos,
+  luau 1080p, tráiler latino 2025, *featurette* musical (§2.4, §12.1).
+- **Caras por emoción con fotograma**, 14 de 25 (§8.2); **18 poses
+  vistas** con minuto (§15.1); **paleta medida** (§5.4b) y **vestuario
+  medido** (§16.1).
+- **Bocadillo real** del cómic Dynamite (§7.6); **9 letras por uso**
+  comprobadas con fontTools (§6.3).
+- **Créditos musicales** leídos en pantalla (§11.1); **lista completa de
+  videojuegos** (§13.1); **reparto latino completo** de 2002 y 2025.
+- **Guía de IA** puesta al día y **guía de IA de texto** (§18.7, §18.8).
+- **Puntos 18 a 25**, que no existían: técnica y cómo replicarla,
+  texturas 2D, gustos, por qué la aman, fandubs, colaboraciones, obras
+  parecidas y el mundo.
+- **Tabla de cumplimiento** y bitácora de la 2.ª pasada (21.6).
+- `referencias.json`: de 35 a todas las útiles de las partes, con tamaño
+  medido donde se pudo.
+
+### Los ⚠️
+
+- Antes: **97** ⚠️. Ahora hay más símbolos (se marcó cada dato nuevo con
+  una sola fuente y cada casilla vacía de caras por emoción), pero **se
+  resolvieron unos 30 de los viejos**: voces de 2002, estudio, voces de
+  2025, licencias, fondos, artbook, luz y paleta, orejas de Stitch,
+  «Muero de amor por ti», la sal, el pelo de Lilo.
+- **Quedan** (lo importante): la frase latina de la cámara, el director
+  del doblaje de 2002, 11 caras por emoción, la marca de la cámara y el
+  «TIMER DINGS», hex planos de Stitch, Jumba, Cobra y David, vídeos de
+  YouTube y TikTok sin mirar. Lista entera en §20 y en la tabla de
+  cumplimiento.
+- **Conceptos de lámina**: los tres siguen; ganan referencias vistas. B
+  gana el *collage* de los créditos con Stitch colado, que es la mejor
+  imagen para #fotos (§19).
 
 ---
 
@@ -148,13 +208,14 @@ blanco. Agrupadas en cuatro páginas o cuatro filas:
 |---|---|
 | Por qué encaja | Lilo **hace fotos**: tiene cámara de carrete y una pared con más de cien fotos de turistas ✅. La película **acaba con fotos** de la familia ✅. |
 | Escena clave | 00:22:54 «My camera's full again» → 00:22:57 «Aren't they beautiful?», en el cuarto de Lilo, con Nani ✅ (subtítulos). |
-| Cuadro de diálogo propio | **No hay globos**. El texto vive en **objetos**: la foto con su borde blanco, **la lista de Lilo** («número uno es el baile», 00:42:36), el libro del **Patito Feo** (00:40:27), el **papel de adopción con su sello** (01:15:48) ✅. Para la lámina: **pie de foto escrito a mano** en el borde blanco, con cinta de carrocero. |
+| Cuadro de diálogo propio | **No hay globos** en la película (salvo el del libro del Patito Feo). Si hace falta globo, el del **cómic oficial de Dynamite**: óvalo blanco, borde negro grueso, Comic Neue Bold en mayúsculas, palabra clave en cursiva (§7.6). El texto vive en **objetos**: la foto con su borde blanco, **la lista de Lilo** («número uno es el baile», 00:42:36), el libro del **Patito Feo** (00:40:27), el **papel de adopción con su sello** (01:15:48) ✅. Para la lámina: **pie de foto escrito a mano** en el borde blanco, con cinta de carrocero. |
 | Objeto para la lámina | **La pared de fotos del cuarto de Lilo** o **el álbum de la familia** del final. Los dos se hacen en Blender: tablero o pared, fotos con borde, chinchetas, cinta, cámara. |
 | El más querido | **Stitch**, de lejos: más de **4.000 millones de dólares** en ventas de productos en el año fiscal 2025 ✅. Pero **la que fotografía es Lilo**. Solución: **Lilo dispara, Stitch posa**. |
-| Voces latinas | 2002: Lilo **Anaís Portillo** ✅, Stitch **Raúl Aldana** ✅ (con matiz, ver §10). 2025: Stitch **Gerardo Becker** ✅, Nani **Karen Vallejo** ✅, Jumba **Sergio Gutiérrez Coto** ✅, Pleakley **Arturo Castañeda** ✅. |
+| Voces latinas | 2002: Lilo **Anaís Portillo** ✅, Stitch **Raúl Aldana** ✅ (sólo los diálogos; los ruidos son de Sanders), Nani **Claudia Garzón** ✅, Jumba **Maynardo Zavala** ✅, Pleakley **Rubén Trujillo** ✅ (§10). 2025: Stitch **Gerardo Becker** ✅, Nani **Alicia Vélez** ✅ (corregido: no Karen Vallejo), Jumba **Sergio Gutiérrez Coto** ✅, Pleakley **Armando Guerrero** ✅ (corregido: no Arturo Castañeda). |
 | Estilo | Formas **redondas y pesadas abajo**, «como un saco de harina» ✅ (IndieWire). Fondos **en acuarela** de verdad, lo primero así en Disney en unos 60 años ✅. |
 | Letras | Títulos: **Lilita One**, **Chewy** o **Kavoon**. Pies de foto a mano: **Gochi Hand**, **Reenie Beanie** o **Covered By Your Grace**. Todas traen á é í ó ú ñ ¿ ¡ (comprobado con fontTools). |
 | Tono | Tierno, raro y cálido. Hawái de verdad, no de postal. Nada de neón ni de tiki de souvenir. |
+| La mejor referencia nueva (2.ª pasada) | **Los créditos son un álbum**: fotos de borde blanco pegadas con cinta sobre azul, y **Stitch sentado fuera del marco** de una foto de familia ([1:20](https://archive.org/details/lilo-stitch-3?t=80)) ✅ visto. |
 
 ---
 
@@ -2556,3 +2617,84 @@ hay hojas de contacto** ni carpeta `hojas/`.
 - Hex medidos de la película.
 - La caja de diálogo de ningún juego vista con mis ojos.
 - Subtítulos en español (latino o de España) con tiempos.
+
+(Lista de la 1.ª pasada. En la 2.ª se resolvieron las hojas, las voces
+de 2002, el artbook, los fondos oficiales y los hex medidos; ver 21.6.)
+
+### 21.6 Segunda pasada (24-25 de septiembre de 2026, red abierta)
+
+Juntada de las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y
+`texto.md`. Punto de partida: `herramientas/recolectar.py` (Doblaje
+Wiki, Fandom, Wallhaven, Sketchfab, Openverse/Flickr, Dailymotion,
+Internet Archive, MusicBrainz, Steam; AniList y Danbooru no aplican: es
+una película y no tiene etiqueta), en `partes/datos-*.md`.
+
+**Estado de la red en la 2.ª pasada**
+
+| Sitio | Resultado |
+|---|---|
+| Fandom (disney, liloandstitch, doblaje, dubdb) por API | ✅ abrió |
+| Sketchfab API, ambientCG API, Google Fonts `css2` | ✅ |
+| Internet Archive, Dailymotion | ✅ (vídeos mirados) |
+| YouTube | pedía iniciar sesión para bajar; `yt-dlp -j` sí dio metadatos |
+| Wikimedia Commons | 429, un intento |
+| TCRF, MobyGames, TV Tropes (página general) | 403 (Cloudflare), dos intentos como mucho |
+| Disney Wiki web normal | 402 (se usó la API) |
+| Hollywood Reporter | redirige a pago; se usó el resumen del buscador |
+| TikTok | no abre desde el servidor |
+
+**Parte de imagen** (14 búsquedas web + 5 de API), en inglés: Stitch en
+Fortnite; «Stitch Crashes» Marvel; Lorcana Lilo & Stitch; Fab 50; colcha
+hawaiana en la película (no hay escena de colcha); Loungefly; Crocs
+Jibbitz; cosplay y *fursuit*; artbook oficial; fondos oficiales de
+movies.disney.com (nada; sí los de la wiki); invocación de KH II; tapa y
+kapa CC0 (nada); Stitch's Great Escape; Funko Pop. APIs: Sketchfab (3
+modelos), ambientCG (fabric, paper), Wikimedia (429).
+
+**Parte de vídeo** (0 búsquedas web): `advancedsearch.php` de Internet
+Archive (`title:(Lilo Stitch)`, `mediatype:movies`) y `archive.org/metadata`
+de cada vídeo; `fotogramas.py` sobre 6 vídeos (tráiler 2025 doblado,
+créditos 2002, luau 1080p, tráiler 2002, «Part 1 HD» descartado,
+*featurette* musical en francés); `estilo.py --colores` sobre 6
+fotogramas. Sin resultado: «Elvis lesson», «camera wall photos», «Lilo
+Stitch storyboard».
+
+**Parte de voz** (7 búsquedas web, español e inglés): popularidad
+oficial de Disney, cumpleaños y altura de Stitch, fandub español latino,
+escena que hace llorar, por qué la ama el público, covers en español,
+encuesta de Stitch Day. Además: película entera `lilo-stitch-2002_202609`
+con `fotogramas.py` (más de 25 fotogramas en 3 hojas: 14:10-15:40,
+20:50-23:15, 1:00:30-1:02:00), luau 1080p (48 fotogramas); Doblaje Wiki
+(Nani Pelekai, Jumba Jookiba, Lilo y Stitch 2025); The Dubbing Database
+(2002 y 2025); Lilo & Stitch Wiki (5 fichas); `yt-dlp -j` en 4 vídeos;
+WebFetch de The Walt Disney Company, Box Office Mojo y Wikipedia.
+
+**Parte de texto** (~13 búsquedas web): en inglés, Deep Canvas y
+acuarela, gouache y director de arte, influencias de Sanders (Totoro,
+E.T.), rotulación del cómic, «Ohana means family» exacta, simbolismo del
+Patito Feo, Sketchfab con licencia, Game UI Database de Kingdom Hearts,
+GBA 2002, Dreamlight Valley, *rig* y *toon shader* en Blender, cita de
+DeBlois sobre Totoro, *kuleana* y *mālama ʻāina*, páginas de *Stitch & the
+Samurai*; en **japonés**, 「スティッチ! アニメ 沖縄 設定 世界観」 y
+「殿とスティッチ 漫画 comic days ページ」. En español no dio mejores
+resultados que en inglés para lo técnico. Red directa: API de Fandom
+(wikitext de Grand Councilwoman, Experiments, Scrump, la franquicia,
+Stitch & the Samurai; búsquedas de Ohana, Deep Canvas, Aumākua, Galactic
+Federation), Sketchfab `v3`, 8 letras con fontTools, capturas del GBA,
+páginas del cómic en DuckTalks, portada en Tokyopop.
+
+**Redactor**: comprobó con `curl` la imagen de la hoja de modelo de
+Pleakley (la ruta `/7/74/` de la parte de imagen da 404; la buena es
+`/7/7b/`) y miró las 3 hojas: corrigió los números de Britto, Disney
+Cruise Line y el falso Kingdom Hearts III.
+
+**Lo que NO se encontró en la 2.ª pasada**: la frase latina de la
+cámara; el director del doblaje de 2002 con dos fuentes; 11 caras por
+emoción; fotograma de 00:22:54 (la cámara) y del «TIMER DINGS»; la
+lección de Elvis en vídeo; hex planos de Stitch, Jumba, Cobra y David;
+estampado hawaiano o kapa CC0; cosplay de Stitch con materiales;
+Fortnite oficial; la letra Buka Bird descargable; páginas interiores del
+manga; capturas de juego y la caja de Dreamlight Valley; software de
+color de 2002; *rig* libre de Lilo o Jumba; escudo de la Federación;
+encuesta oficial de popularidad; cumpleaños oficiales; vistas de
+reacciones y del cover; memes hispanos grandes; foto libre de Hanapepe.
