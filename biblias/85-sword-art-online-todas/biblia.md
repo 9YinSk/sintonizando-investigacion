@@ -774,3 +774,55 @@ Tres ideas distintas: Aincrad de día con Asuna, Aincrad de noche con Kirito y G
 | Hojas de contacto | ✅ | 3 en `hojas/`, descritas número a número |
 | referencias.json | ✅ | todas las útiles de las partes, las mejores primero |
 
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y lo que hizo el redactor.
+
+**Recolector (`recolectar.py`)**: casi vacío. AniList no encontró la obra por el «(todas)» del nombre; el encargo no traía wiki; Danbooru sin etiqueta; AnimeThemes, error 522; Reddit sin subreddit. Sólo sirvió la ficha de Doblaje Wiki de Alicization y sus muestras de audio.
+
+**Imagen** (inglés y español)
+- Wiki: `investigar_serie.py --wiki swordartonline --paginas "Kirito" "Asuna Yuuki" "Shino Asada" "Alice Zuberg" "Sword Art Online"` → 1.637 imágenes, 20 hojas.
+- APIs: Danbooru (`kirito`, `asuna_(sword_art_online)`, `shino_asada` vacío), Safebooru, Wallhaven (`purity=100`), Sketchfab (`sword art online`, `kirito sao`, `asuna sao`, `sinon sao`, `alice zuberg`, `eugeo sao`, `aincrad`, `underworld sao`, `alfheim`), [Openverse](https://api.openverse.org/v1/images/?q=sword+art+online+cosplay) (cosplay y figuras), MediaWiki (`Knights of the Blood`, `Asada Shino`).
+- Web: colaboraciones y cafés 2023-2025, fondos 4K, emblema K.O.B., tramas CC0, figuras de Good Smile y Kotobukiya.
+- Hex medidos con Pillow sobre imágenes de la wiki.
+
+**Vídeo** (inglés, francés, italiano)
+- [API de Dailymotion](https://api.dailymotion.com/videos?search=sword+art+online+trailer): opening, ending, tráiler, Kirito y Asuna, Sinon y el BoB, Alice, Kirito contra Heathcliff. 8 clips; `ffprobe` dio 248-360p.
+- Wiki por API: `Sleeping Knights ending theme`, `list of theme songs`, `The Gleam Eyes`, `Bullet of Bullets`, `"Link Start"`; wikitext de los ep. 1, 8, 9 y II-07.
+- Web: tendencia de *crossing field* en TikTok; ensayos de YouTube.
+- 8 paletas con `estilo.py`.
+
+**Voz** (español, inglés, japonés)
+- Wiki de personajes por API: Kirigaya Kazuto, Yuuki Asuna, Asada Shino, Alice Zuberg, Ayano Keiko, Shinozaki Rika, Tsuboi Ryoutarou, Kirigaya Suguha, Yui, Konno Yuuki, Eugeo.
+- Doblaje Wiki por API: T1, T2 y Alicization.
+- WebFetch: Dengeki Bunko, Canal 5, ANMTV.
+- Web en español: favorito y escena que hizo llorar, fandub latino, covers de *crossing field* e *IGNITE*, ANMTV y Luigi, ventas y premios, secundario más popular, parodia (sin resultado).
+- Japonés: «ソードアート・オンライン 人気投票 2020» (sin cifras).
+- [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=swordartonline&query=favorite+character): favorito y «cried»; dos veces «Timeout», reintentado espaciado.
+- `voz.py` sobre 6 muestras; tráiler de Alicization mirado cada 3 s.
+
+**Texto** (inglés)
+- Logo y letras, interfaz, A-1 Pictures, abec, obras parecidas, influencias de Kawahara, gremios, arcos, UI de Fatal Bullet y Lycoris, modelos 3D.
+- fontTools sobre Orbitron, Michroma, Anton, Baloo 2, Bangers, Exo 2, Rajdhani, Inter y Noto Sans: todas con á é í ó ú ñ Ñ ¿ ¡.
+
+**Redactor**
+- Abrió K.O.B_Simbol.png (es un fotograma del estandarte) y KOB_Logo.png (28×28); midió los rojos del estandarte con Pillow.
+- Midió con Pillow las 4 fotos de cosplay de Flickr y sacó de la API de Wallhaven la URL directa y el autor de 5 fondos.
+- Miró las 3 hojas y las describió número a número.
+- Cruzó `servidor/inventario.md` y los conceptos de las biblias 80, 81, 83 y 84.
+
+**Bloqueos**: YouTube pide iniciar sesión (yt-dlp: «Sign in to confirm you're not a bot»); AnimeThemes 522; TV Tropes 403 directo; ANN y Game UI Database 403; Wayback no accesible desde WebFetch; la wiki de Fandom dio 403/402 a WebFetch y curl de la parte de texto, pero sí respondió por API a las otras partes; el CDN de Danbooru dio 403 al medir.
+
+**No encontré** (con las búsquedas de arriba):
+- Clips en 1080p y el minuto del episodio emitido.
+- La pista exacta de la pelea contra The Gleam Eyes y de Mother's Rosario.
+- Encuesta oficial después de 2015.
+- Segunda fuente de la voz latina de Yuuki en Mother's Rosario.
+- Parodia hispana viral y TikTok hispano.
+- Software del estudio; tipografía oficial del logo.
+- Tatuaje de Laughing Coffin en imagen.
+- Modelos 3D libres de Alice y Eugeo; sitios 3D completos de Aincrad.
+- Fondos oficiales de Aniplex; GGO de día.
+- Fuentes en coreano o chino, TCRF, Pixiv, ArtStation, GitHub.
+
+**Confirmado frente a dudoso**: ✅ = dos fuentes o visto en vídeo o imagen; ⚠️ = una fuente, una sola imagen o vídeo de juego en vez del anime.
