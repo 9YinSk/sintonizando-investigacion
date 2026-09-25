@@ -1,0 +1,65 @@
+[
+ {
+  "url": "https://archive.org/details/rezearc",
+  "fuente": "Internet Archive (\"Chainsaw Man - The Movie: Reze Arc (EN-Sub)\")",
+  "ancho": 854,
+  "alto": 480,
+  "que_es": "Película completa Arco de Reze (2025), subtitulada en inglés, 100:08 min.",
+  "para_que": "Escena de la cita en el cine (min. 6:20-11:00 de este corte): pose de Denji y Makima, rótulo シネマ座, colores de las butacas y el haz del proyector, la escena de la flor después de la cita.",
+  "licencia": "© MAPPA / Shueisha / Sony Music; copia de fans en Internet Archive, uso de investigación (no descargable como asset final)."
+ },
+ {
+  "url": "https://archive.org/details/ep-03-cm/EP01CM.mp4",
+  "fuente": "Internet Archive (\"Chainsaw Man Season 1\", episodio 1 suelto)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Episodio 1 completo, 25:25 min, con audio japonés.",
+  "para_que": "Opening «KICK BACK» visto completo (min. 2:02-4:20) y confirmación de que el episodio 1 no tiene animación de ending (24:00-24:16, sólo créditos en texto).",
+  "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."
+ },
+ {
+  "url": "https://archive.org/details/ep-03-cm/EP02CM.mp4",
+  "fuente": "Internet Archive (\"Chainsaw Man Season 1\", episodio 2 suelto)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Episodio 2 completo, con audio japonés.",
+  "para_que": "Ending «Time Left» (ZUTOMAYO) visto completo (min. 22:16-23:40, siluetas verde oliva y electrocardiograma); primer plano de Power gritando (min. 19:20, pupila con forma de aspa); escena de Makima y Denji comiendo en un área de descanso al atardecer (min. 5:30).",
+  "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."
+ },
+ {
+  "url": "https://archive.org/details/ep-03-cm/EP07CM.mp4",
+  "fuente": "Internet Archive (\"Chainsaw Man Season 1\", episodio 7 suelto)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Episodio 7 completo, con audio japonés.",
+  "para_que": "Escena de Aki y Himeno comiendo en un restaurante tradicional (min. 6:10-7:18): pose de Aki sonriendo de lado, primer plano del ojo de Himeno.",
+  "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8dsw0h",
+  "fuente": "Dailymotion (canal Espinof)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"'Chainsaw Man' - Trailer final del anime\", 92 s, visto completo.",
+  "para_que": "Tráiler oficial de la serie con crédito de Fujimoto y logo MAPPA, plano de Power de perfil (0:20) y del combate final (1:12-1:24).",
+  "licencia": "Tráiler oficial © MAPPA/TV Tokyo, resubido por un medio de prensa (Espinof) a Dailymotion."
+ },
+ {
+  "url": "https://www.cbr.com/every-end-credit-sequence-chainsaw-man-season-1-explained/",
+  "fuente": "CBR",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo en inglés sobre los 12 endings de la temporada 1.",
+  "para_que": "Segunda fuente (con el propio vídeo) de que el episodio 1 usa sólo créditos en pantalla negra, sin animación, para «Chainsaw Blood».",
+  "licencia": "Artículo periodístico; sólo como fuente, no para copiar texto ni imagen."
+ },
+ {
+  "url": "https://archive.org/details/ep-03-cm",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado completo de los 12 episodios de la temporada 1 (EP01CM.mp4 … EP12CM.mp4), accesible episodio por episodio con yt-dlp.",
+  "para_que": "Fuente para sacar fotogramas de cualquier episodio de la serie sin pasar por YouTube (bloqueado en este servidor).",
+  "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."
+ }
+]

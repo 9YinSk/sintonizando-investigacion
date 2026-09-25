@@ -54,7 +54,7 @@ fecha: 2026-09-24
 >   medido** (`#654436`, `#483531`, `#E4D4BE`) en fotogramas.
 > - Doblaje latino: «un doblaje chileno de una sola fuente» → el **episodio
 >   1 doblado por Elocuencia Studio existe y se puede oír** (Internet
->   Archive); reparto de 4 actrices en **dos fuentes**; **13 frases
+>   Archive); reparto de 4 actrices en **dos fuentes**; **10 frases
 >   textuales con minuto**. Sigue sin haber doblaje latino **oficial**.
 > - Dos datos del recolector eran de otra serie: «Kon» de Doblaje Wiki es
 >   de *Bleach* y el Reddit «r/Konosuba» es de *Konosuba*. No se usan.
@@ -73,8 +73,10 @@ fecha: 2026-09-24
 >   obras parecidas (§G) y el mundo (§H). Tabla «Cumplimiento del encargo».
 > - Anime Grand Prix 2009: mejor serie, Yui mejor personaje (§9).
 >
-> **Los ⚠️**: había **94**. Quedan los que se dicen en cada sección y en la
-> tabla de cumplimiento (el recuento final, al pie de la tabla).
+> **Los ⚠️**: había **94**; ahora **161**, porque las secciones nuevas
+> marcan una a una lo dudoso. De los viejos se resolvieron la mayoría de
+> los de arte, colores, letras, juego, doblaje y fandom; lo que queda está
+> explicado en cada sección y en la tabla de cumplimiento.
 
 ---
 
@@ -178,7 +180,7 @@ dice). Es la función de #general dicha por la serie.
   Mio). Yui ganó además el **Anime Grand Prix 2009** a mejor personaje ✅.
 - **Doblaje latino oficial: no existe** ✅. Hubo un **piloto chileno no
   oficial** (Elocuencia Studio, 2020): el episodio 1 completo **sigue en
-  Internet Archive** y de ahí salen 13 frases textuales con minuto
+  Internet Archive** y de ahí salen 10 frases textuales con minuto
   (sección 10). Para la lámina: traducción nuestra del japonés, o una
   frase del piloto rotulada como «el doblaje perdido».
 - **Cuadro de diálogo propio:** el anime casi no pone texto en pantalla.
@@ -2211,7 +2213,7 @@ segunda pasada del equipo (24-25 sep 2026).
 |---|---|---|---|
 | 1 · Arte oficial variado | §3, §3.0, §F | ✅ | 958 imágenes de la wiki en 20 hojas (3 aquí, miradas y numeradas); staff de arte con dos fuentes; fondos oficiales de KyoAni con tamaño. Las portadas del Blu-ray, sin ver una por una. |
 | 2 · Fotogramas de escenas icónicas | §2, §2.1, §2.2 | ⚠️ | Opening, ending, tráiler y 3 escenas vistas con minuto exacto, pero en **SD** (640×360 y 480×280): YouTube pidió iniciar sesión. Los 1080p son fotogramas de la wiki, sin minuto. |
-| 3 · Fan art y 3D con licencia | §4, §17 | ✅ | 14 modelos de Sketchfab con licencia leída en su API (vajilla, pastel, instrumentos, «Giita!!!»); fan art con autor y enlace. |
+| 3 · Fan art y 3D con licencia | §4, §17 | ✅ | 13 modelos de Sketchfab con licencia leída en su API (vajilla, pastel, instrumentos, «Giita!!!»); fan art con autor y enlace. |
 | 4 · Sitios, luz, paleta y texturas | §5 | ⚠️ | La sala del club, con hex medidos en dos fotogramas y los cerezos en uno; Toyosato con fotos reales; texturas CC0. Faltan medir la escalera y el salón de actos, y la liebre y la tortuga de bronce tienen una fuente. |
 | 5 · Tipografía por uso | §6 | ✅ | Tabla de una letra por uso; Keifont y 10 letras de Google Fonts abiertas con fontTools (tildes, ñ, ¿, ¡). La letra del logo no está identificada; Bungee y Baloo 2 sin abrir. |
 | 6 · Cómo hablan en pantalla | §7 | ✅ | Cartel de reclutamiento visto y medido, páginas del manga vistas (capítulo y «bonus»), caja del juego vista (la burbuja que no se usa). Cuadro propio: el papel del club y la tira 4-koma. |
@@ -2221,8 +2223,8 @@ segunda pasada del equipo (24-25 sep 2026).
 | 10 · Vídeos y tendencias con minuto | §12, §2.1 | ⚠️ | Tráiler oficial visto entero con minuto; episodios en Internet Archive. Los análisis de YouTube siguen sin minuto (pide iniciar sesión) y no hay tendencia viral en TikTok. |
 | 11 · Videojuegos | §7.1, §13 | ✅ | Juego de PSP con 3 capturas vistas y medidas, botones con dos fuentes; *Kirara Fantasia*. La interfaz de *Kirara* y TCRF no cargaron. |
 | 12 · Lo que ama el fandom y qué no hacer | §14 | ✅ | Memes y momentos con fuente; lista de errores ampliada con lo visto (zurda, colores, burbuja del juego, contorno negro). |
-| 13 · Descripción profunda y caras por emoción | §8, §8.1, §8.2 | ⚠️ | Carácter, miedos, relaciones, forma de hablar y dinámicas de las 6. Caras con minuto: sólo 10 de 30 combinaciones (6 vistas); faltan casi toda la tristeza y el miedo. |
-| 14 · Poses con minuto | §15, §15.0 | ⚠️ | 7 poses vistas en vídeo con minuto y 6 en arte oficial; unas 36 más con el minuto del subtítulo, pero su postura es de memoria. |
+| 13 · Descripción profunda y caras por emoción | §8, §8.1, §8.2 | ⚠️ | Carácter, miedos, relaciones, forma de hablar y dinámicas de las 6. Caras con minuto: sólo 9 de 30 combinaciones (5 vistas en vídeo); faltan casi toda la tristeza y el miedo. |
+| 14 · Poses con minuto | §15, §15.0 | ⚠️ | 7 poses vistas en vídeo con minuto y 6 en arte oficial; 36 en las tablas por personaje con el minuto del subtítulo, casi todas con la postura de memoria. Pocas llegan a 6 por personaje vistas. |
 | 15 · Vestuario con hex | §16 | ✅ | Blazer y colores de 5 de las 6 medidos en arte oficial; trajes de escenario, ending, yukata y lluvia vistos. Cintas, camisa y Yui sin medir. |
 | 16 · Ciudades y fondos de pantalla | §17 | ✅ | 2 fondos oficiales y 5 de fans con tamaño, autor y origen; luz medida. |
 | 17 · Guía para IA de imagen y de texto | §18 | ✅ | Rasgos con hex medidos, estilo medido, palabras sí y no, etiquetas, vocabulario de gestos, referencias por número de hoja, forma de hablar de las 6 y 17 frases reales por emoción con minuto. |
@@ -2238,10 +2240,10 @@ segunda pasada del equipo (24-25 sep 2026).
 | 40 fuentes distintas | todo | ✅ | Más de 100 webs distintas enlazadas (lo cuenta `revisar.py`). |
 | Tipos de fuente | bitácora | ⚠️ | Oficiales, japonés, coreano y chino, wikis, foros, arte, vídeo, código y doblaje: sí. TCRF no cargó y la Wayback Machine no se usó. |
 | Hojas de contacto | `hojas/`, §3.0 | ✅ | 3 hojas (personajes, objetos, vestuario y texturas), menos de 1 MB cada una, miradas y citadas por número. |
-| `referencias.json` | archivo | ✅ | Todas las útiles de las partes y del recolector, las mejores primero, con tamaño medido donde se midió. |
+| `referencias.json` | archivo | ✅ | **134** referencias (antes 35): todas las útiles de las partes y del recolector, las mejores primero; 64 con ancho y alto medidos. Fuera quedan los falsos positivos del recolector (juegos de Steam y fotos de Openverse de otra cosa). |
 
-**⚠️ antes → después**: la primera pasada tenía **94**; ahora hay más
-marcas porque las secciones nuevas (A-H, caras por emoción, gustos)
+**⚠️ antes → después**: la primera pasada tenía **94**; ahora hay
+**161**. Hay más marcas porque las secciones nuevas (A-H, caras por emoción, gustos)
 señalan una a una lo dudoso. De los 94 viejos se resolvieron, entre otros:
 staff de arte, Keifont, cartel y globos, caja del juego, botones, colores
 medidos, reparto de 4 actrices, Junichi Eda, Oricon, ojos de Mio, zurda,
@@ -2252,7 +2254,7 @@ colores de instrumentos, fondos de pantalla y licencias de Sketchfab.
 
 ## 21 · Bitácora de búsqueda
 
-### Comprobación de red (24-sep-2026)
+### Primera pasada: comprobación de red (24-sep-2026)
 
 - `curl https://community.fandom.com` → **000** (el proxy rechaza el túnel, 403).
 - WebFetch bloqueado: somoskudasai.com, ultimatemegax.wordpress.com.

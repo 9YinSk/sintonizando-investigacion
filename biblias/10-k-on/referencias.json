@@ -127,12 +127,12 @@
   },
   {
     "url": "https://sketchfab.com/3d-models/cute-tea-pot-set-blend-d6977572a8214af9b3c16fe5750016a2",
-    "fuente": "Sketchfab (iamartzz)",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
     "ancho": null,
     "alto": null,
-    "que_es": "Juego de té en .blend.",
-    "para_que": "Tetera y tazas del concepto A.",
-    "licencia": "CC BY según el buscador; confirmar en la página y dar crédito."
+    "que_es": "Set de tetera y tazas en 3D, descargable en .blend",
+    "para_que": "Objeto del plan: la mesa del club con tazas",
+    "licencia": "CC Attribution (CC BY) — autor iamartzz"
   },
   {
     "url": "https://sketchfab.com/3d-models/tea-pot-and-cups-723c265903424b9d8e87cda4d4d63059",
@@ -145,21 +145,30 @@
   },
   {
     "url": "https://sketchfab.com/3d-models/slice-of-cake-1adc97c8421c4f6da647c77362796327",
-    "fuente": "Sketchfab (mrcgdi)",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
     "ancho": null,
     "alto": null,
-    "que_es": "Porción de pastel low poly.",
-    "para_que": "Pastel en los platos del concepto A.",
-    "licencia": "Descarga gratis; licencia sin comprobar."
+    "que_es": "Rebanada de pastel en 3D",
+    "para_que": "Objeto del plan: el pastel de la mesa del club",
+    "licencia": "CC Attribution (CC BY) — autor marcogodi1"
   },
   {
     "url": "https://sketchfab.com/3d-models/tea-set-194d8940512b40c591ee4dccaeabcb68",
-    "fuente": "Sketchfab (Asia Matusik)",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
     "ancho": null,
     "alto": null,
-    "que_es": "Juego de té.",
-    "para_que": "Alternativa para la mesa.",
-    "licencia": "Creative Commons, descarga gratis; tipo exacto sin comprobar."
+    "que_es": "Set de té en 3D",
+    "para_que": "Objeto del plan: la mesa del club con tazas",
+    "licencia": "CC Attribution-ShareAlike (CC BY-SA) — autor asiam"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/tea-set-3e6331747fb84794a35ed869e4f65714",
+    "fuente": "Sketchfab (3dhdscan), licencia leída en la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Juego de té escaneado en 3D",
+    "para_que": "Vajilla de la mesa del club (concepto A)",
+    "licencia": "CC BY 4.0: «Tea set» de 3dhdscan (Sketchfab)"
   },
   {
     "url": "https://sketchfab.com/3d-models/giita-87d99d809938482bb95d0f293550f778",
@@ -325,12 +334,12 @@
   },
   {
     "url": "https://somoskudasai.com/noticias/el-doblaje-latino-de-k-on-que-quizas-no-conocias/",
-    "fuente": "SomosKudasai",
+    "fuente": "SomosKudasai (medio de noticias de anime)",
     "ancho": null,
     "alto": null,
-    "que_es": "El doblaje chileno no oficial de Elocuencia Studio y su reparto.",
-    "para_que": "Saber que no hay doblaje latino oficial; reparto dudoso.",
-    "licencia": "Artículo. Sólo referencia."
+    "que_es": "Artículo sobre el doblaje perdido de K-On! por Elocuencia Studio, con 4 nombres del reparto",
+    "para_que": "Primera fuente del reparto del piloto (punto 8), cruzada con el vídeo de ROCKERO ISRAEL-anime",
+    "licencia": "Texto con derechos del medio, sólo cita"
   },
   {
     "url": "https://www.youtube.com/watch?v=XSiJjPNVOMg",
@@ -657,13 +666,13 @@
     "licencia": "CC0 (dominio público) — autor Fons Heijnsbroek"
   },
   {
-    "url": "https://sketchfab.com/3d-models/none-501de09aedc34f1598e3a536e16313df",
-    "fuente": "Sketchfab",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D: Yui Hirasawa de Tornier",
-    "para_que": "objeto o personaje 3D para Blender",
-    "licencia": "CC Attribution-NonCommercial-ShareAlike"
+    "url": "https://sketchfab.com/3d-models/yui-hirasawa-501de09aedc34f1598e3a536e16313df",
+    "fuente": "Sketchfab (api.sketchfab.com/v3/models), autor dwtornier",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D completo de Yui Hirasawa, rigged",
+    "para_que": "Referencia de proporciones/pose para el punto 18 (Blender) — NO usar en render final por su licencia",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) — sólo no comercial, sólo referencia"
   },
   {
     "url": "https://sketchfab.com/3d-models/none-5ca2f55afce642c2aae02b00bb3436fb",
@@ -770,42 +779,6 @@
     "ancho": null,
     "alto": null,
     "que_es": "Retrato de Megumi Sokabe",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© kakifly / Houbunsha / comité de K-On! (Kyoto Animation). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67011-gAp7CwVRuGVJ.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Yui to Ui no Haha",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© kakifly / Houbunsha / comité de K-On! (Kyoto Animation). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174314-oJCGdWvhJHo2.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Jane",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© kakifly / Houbunsha / comité de K-On! (Kyoto Animation). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174316-LIXLvVgGZ2NB.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Occult Club Member 2",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© kakifly / Houbunsha / comité de K-On! (Kyoto Animation). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174828-K4n8BaVMtuls.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Fumie Kimura",
     "para_que": "cara y colores base del personaje",
     "licencia": "© kakifly / Houbunsha / comité de K-On! (Kyoto Animation). Sólo referencia, no pegar."
   },
@@ -1104,7 +1077,7 @@
     "alto": null,
     "que_es": "Modelo 3D de fans de la sala del club.",
     "para_que": "Ver la distribución de muebles y ventanas.",
-    "licencia": "Licencia sin comprobar; fan art de obra con derechos. Sólo para mirar."
+    "licencia": "Licencia estándar de Sketchfab, no descargable (leído en la API v3/models): sólo mirar"
   },
   {
     "url": "https://sketchfab.com/3d-models/azusa-nakano-k-on-f09132fa11d64b8cba8f3bf9036a02c0",
@@ -1113,7 +1086,7 @@
     "alto": null,
     "que_es": "Modelo 3D de fans de Azusa, con esqueleto.",
     "para_que": "Probar ángulos y pose de Azusa.",
-    "licencia": "Licencia sin comprobar. Sólo referencia."
+    "licencia": "Licencia estándar de Sketchfab, no descargable (leído en la API v3/models): sólo mirar"
   },
   {
     "url": "https://polyhaven.com/a/wood_table_worn",
