@@ -30,9 +30,17 @@ capítulos completos sin gastar.
   entero con `episodio.py --idioma en` (319 planos, ficha en
   `partes/episodios.md`) y con `fotogramas.py` en tramos concretos (nacimiento
   2:00-5:00, créditos/ending 21:50-23:47).
-- Episodio 2, «Master» (introduce a Roxy como maestra) · mismo lote de
-  Internet Archive, `Mushoku_Tensei_Jobless_Reincarnation-E2-1080p.mp4` · ✅ —
-  visto con `fotogramas.py --cada 8` (hojas de contacto de todo el capítulo).
+- Episodio 2, «Master» (Roxy sigue como maestra; ella ya se había presentado
+  al cierre del ep. 1) · mismo lote de Internet Archive,
+  `Mushoku_Tensei_Jobless_Reincarnation-E2-1080p.mp4` · ✅ — visto con
+  `fotogramas.py --cada 8` (hojas de contacto de todo el capítulo).
+- Episodio 3, «A Friend» (introduce a Sylphiette) · mismo lote,
+  `Mushoku_Tensei_Jobless_Reincarnation-E3-1080p.mp4` · ✅ — visto con
+  `fotogramas.py --cada 10`.
+- Episodio 5, «A Young Lady and Violence» (introduce a Eris y su
+  secuestro/rescate en el mismo capítulo) · mismo lote,
+  `Mushoku_Tensei_Jobless_Reincarnation-E5-1080p.mp4` · ✅ — visto con
+  `fotogramas.py --cada 10`.
 
 ## Punto 9 · Música y sonido
 
@@ -102,7 +110,11 @@ créditos; no lo confirma ninguna wiki en texto)
 - ⚠️ No encontré (todavía) una fuente textual (artbook, entrevista de sonido)
   que liste onomatopeyas oficiales del anime en pantalla; búsqueda pendiente
   en el propio manga (puede que sea mejor terreno para el investigador de
-  texto, punto 6).
+  texto, punto 6). Sí confirmé el nombre oficial del hechizo que más se
+  repite en pantalla: «Water Ball» (ウォーターボール), según
+  https://mushokutensei.fandom.com/wiki/Magic_Spells y visto lanzado por
+  Roxy en el ep. 1 (18:07) — pero sin dato de la onomatopeya del efecto de
+  sonido en sí.
 
 ## Punto 2 · Fotogramas de escenas icónicas (capítulo y minuto)
 
@@ -276,6 +288,16 @@ turquesa)
 Fuente de las 8: E2 Internet Archive (dub 1080p) · `ep02/hoja_01.jpg` y
 `ep02/hoja_02.jpg` · minutos exactos arriba.
 
+9. **Extra, en acción**: ep. 1, 18:07-18:08 — lanza el hechizo «Water Ball»
+   con el báculo (punta en forma de garra) extendido, la explosión de agua
+   visible al impactar contra un árbol; a las 18:25 se agacha junto al tocón
+   partido con gesto de disculpa. Sirve para **presentar con su objeto, en
+   acción** (el báculo, el hechizo). Aquí lleva capa de viaje marrón, no el
+   uniforme con sombrero de la S2 del ep. 2 — dos vestuarios distintos
+   confirmados por vídeo. Fuente: E1 Internet Archive, ficha de
+   `episodio.py` (min. 16:00-21:00, ella se presenta: «My name's Roxy
+   Migurdia») · `ep01/hojas/hoja_06.jpg` fotogramas 251-252, 257 · ✅
+
 ### Sylphiette (ep. 3 «A Friend», la introduce como la niña con orejas de
 elfo que se hace amiga de Rudeus; pelo verde, ojos rosados, tímida al
 principio)
@@ -432,11 +454,16 @@ quedan como referencia de encuadre/pose, no de personaje concreto)
   reaction» → playlists de análisis y reacciones (YouTube bloqueado para
   abrir, sólo metadatos de búsqueda).
 
-Sigue: revisar la hoja de contacto de `ep02` (llegada de Roxy, episodio 2) que
-quedó generada pero sin mirar con Read; sacar 6-10 poses de Roxy y, si el
-tiempo alcanza, de Sylphiette (episodio 3, aún sin descargar) y Eris (episodio
-no identificado en el lote S1 disponible — buscar en qué episodio aparece);
-completar el punto 14 para los 4 personajes del encargo (Rudeus ya tiene 7
-poses, faltan Roxy, Eris y Sylphiette); rellenar `partes/video.json` con las
-referencias de vídeo citadas arriba (`url`, `fuente`, `ancho`, `alto`,
-`que_es`, `para_que`, `licencia`).
+Sigue: no queda nada obligatorio pendiente de los puntos 2, 4, 9, 10 y 14
+(los 4 personajes del encargo —Rudeus, Roxy, Eris, Sylphiette— ya tienen 6-9
+poses con capítulo y minuto; 9 paletas medidas; catálogo completo de
+openings/endings; escenas icónicas y tendencias con minuto/enlace;
+`partes/video.json` con 20 referencias). Lo que queda es EXTRA, ya anotado en
+«No encontré» con ⚠️: un ending oficial suelto (sin OP/ED separados en
+Dailymotion/Internet Archive, se usó el cierre real del ep. 1), AnimeThemes
+(sigue caído, 522), onomatopeyas oficiales (sin fuente dedicada) y la
+identificación de dos personajes de fondo en el tráiler. Si se retoma esta
+parte: episodios 7-11 del mismo lote de Internet Archive siguen sin mirar
+(quedan como reserva de más poses/escenas si el redactor pide más), y el
+arco «Turning Point» de Eris (bosque, S1E19+) no está en el lote disponible
+en este servidor — habría que buscarlo aparte.

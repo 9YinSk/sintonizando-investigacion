@@ -16,7 +16,7 @@ Cuenta: cuenta A106
 - **Sesión nueva** (25-sep-2026, 03:55 UTC, cuenta .106): herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: 79 redactor (sólo tabla, bitácora y referencias.json), 80 vídeo (el `Sigue:` y video.json, que faltaba), 81 vídeo, voz y texto desde cero (imagen ya está). 82-84 ya recolectadas; recolectando 85-86.
 - 79 Demon Slayer: **COMPLETA y subida** (04:0x UTC). ✅26 ⚠️12 ❌0, 130 referencias, 44 webs, 1820 líneas.
 - 80 Solo Leveling: las 4 partes completas; redactor lanzado.
-- 81 Mushoku Tensei: texto y voz terminados (sin Sigue:); imagen ya estaba; falta sólo vídeo (en marcha).
+- 81 Mushoku Tensei: las 4 partes completas; redactor lanzado.
 - 82 The Rising of the Shield Hero: lanzados imagen, texto y voz (vídeo entra al liberarse hueco).
 
 ## Avisos para el dueño
@@ -78,3 +78,4 @@ Cuenta: cuenta A106
 | 80-solo-leveling-el-sistema-y-las-sombras | video (relanzo corto) | sonnet | 6 | 116105 |
 | 81-mushoku-tensei | texto | sonnet | 14 | 230387 |
 | 81-mushoku-tensei | voz | sonnet | 14 | 229337 |
+| 81-mushoku-tensei | video | sonnet | 17 | 239381 |
