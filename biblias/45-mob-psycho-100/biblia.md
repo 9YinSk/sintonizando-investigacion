@@ -425,7 +425,7 @@ La oficina se modela a mano (§27).
 
 ## 5 · Sitios, luz, paleta y texturas reales
 
-La serie pasa casi entera en **Seasoning City** (調味市, ciudad
+La serie pasa casi entera en **Seasoning City** (ciudad
 ficticia): un barrio de Tokio gris y normal. Lo cotidiano va **apagado**;
 lo psíquico, **saturado y neón**. Ese contraste es la regla de color
 (§19). Todos los hex salen de `estilo.py` sobre fotogramas del anime.
@@ -442,8 +442,8 @@ lo psíquico, **saturado y neón**. Ese contraste es la regla de color
 | **Monte en otoño** (fin de la T1, setas matsutake) | T1 ep. 12, 23:20-23:40 | verde de día y luego hora dorada, árboles naranjas y rojos a contraluz | sin medir ⚠️ |
 | **Atardecer del ending 1** | T1 ep. 1, 23:05-23:50 | Mob y Reigen en silueta contra un degradado malva y naranja | sin medir ⚠️ |
 
-Otros sitios con imagen: el **colegio Salt** (塩中, patio de día, hoja
-n.º 37), el **instituto Black Vinegar** de Teru (hoja n.º 50, fachada), la
+Otros sitios con imagen: el **colegio Salt** (patio de día, hoja
+n.º 37), la calle con edificios detrás de Teru (n.º 50 y 70), la
 **ciudad destruida** vista desde arriba (n.º 25) y el **brócoli gigante**
 de la T3 (n.º 18).
 
