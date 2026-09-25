@@ -244,7 +244,11 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
   - Determinación/fiereza: ojos entornados, brazos abiertos, corriendo hacia cámara a
     contraluz dorado, en la fiesta que interrumpe al llegar de golpe · mismo vídeo [0:28].
   - Ternura/cariño: sonrisa suave rodeado de cachorros panda · mismo vídeo [1:52].
-  - Vergüenza: no se encontró un fotograma propio claro en este tráiler (⚠️, ver «No encontré»).
+  - Vergüenza: ojos bizcos, lengua fuera y agujas de acupuntura clavadas en la cara —Mantis
+    practicando en él delante de los Cinco Furiosos— cara puesta en ridículo durante el
+    entrenamiento de KFP1 · clip oficial «Kung Fu Panda movie clip - Young Tai Lung», Dailymotion,
+    https://www.dailymotion.com/video/x7vtk1n?t=185 [3:05] ✅ (mirado y capturado con
+    `fotogramas.py --fotograma`; sustituye el hueco anotado antes en «No encontré»).
 
 ### Maestro Shifu
 - **Carácter**: estricto, exigente, con un lado «travieso»/cruel-cómico al principio con Po,
@@ -267,7 +271,12 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
   KFP1 · https://www.dailymotion.com/video/x88nbws?start=40 [0:40] ✅. En contraste, calma
   paternal y afecto contenido (ojos entornados, sonrisa leve) recibiendo a la cachorra Tigresa ·
   «Secrets of the Furious Five» · https://archive.org/details/secrets-of-the-furious-five?t=1000
-  [16:40] ✅.
+  [16:40] ✅. Tristeza: mirada baja, orejas caídas y llanto contenido junto al árbol de melocotón,
+  la noche en que Oogway asciende y lo deja solo con la fe en Po · escena oficial «Kung Fu Panda
+  (2008) Master Oogway Leaves Shi Fu Scene», Dailymotion,
+  https://www.dailymotion.com/video/xa9x3qe?t=74 [1:14] ✅ (la fuente trae un recolor azul, quizá
+  de una versión 3D anaglifo: el gesto se lee bien, el color no es fiable) — primera vez que se
+  documenta esta emoción de Shifu con fotograma propio.
 
 ### Maestra Tigresa
 - **Carácter**: la más fuerte y valiente de los Cinco Furiosos, seria, poco sociable, muy
@@ -314,6 +323,12 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
   Cita: «Paz interior. Paz interior. Cosquillas en la nariz. Por fin» [0:00, audio oficial].
 - **Dinámicas**: maestro de Shifu; figura paterna espiritual de Po pese a apenas convivir con
   él; antiguo hermano de armas y némesis final de Kai.
+- **Cara**: serenidad total —ojos entornados, sin rastro de miedo ni tensión— mientras se
+  disuelve en pétalos de melocotón al ascender · escena oficial «Kung Fu Panda (2008) Master
+  Oogway Leaves Shi Fu Scene», Dailymotion, https://www.dailymotion.com/video/xa9x3qe?t=107
+  [1:47] ✅ (mismo clip que la tristeza de Shifu arriba; recolor azul de la fuente, el gesto se lee
+  bien, el color no es fiable) — primera cara propia con minuto para Oogway en esta biblia (antes
+  no tenía ninguna).
 
 ### Tai Lung (villano de KFP1, vuelve en KFP4)
 - **Carácter de adulto**: oscuro, peligroso, arrogante, seguro de que el título de Guerrero
@@ -333,6 +348,13 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
   pelea final, error que quedó en el doblaje · Doblaje Wiki, Datos de interés ⚠️ (una fuente).
 - **Dinámicas**: hijo desheredado de Shifu; hermano mayor desheredado de Tigresa; némesis
   original de Po.
+- **Cara**: de cachorro, alegría total y sin sombra —ojos brillantes, sonrisa enorme, brazos
+  abiertos hacia la luz— el día en que se le anuncia que será entrenado como guerrero · clip
+  oficial «Kung Fu Panda movie clip - Young Tai Lung», Dailymotion,
+  https://www.dailymotion.com/video/x7vtk1n?t=133 [2:13] ✅. De adulto, furia fría y
+  determinación —ojos entornados, mandíbula apretada, en plena carrera— escapando de la prisión
+  de Chorh-Gom · mismo clip, https://www.dailymotion.com/video/x7vtk1n?t=131 [2:11] ✅ —
+  primeras caras propias con minuto para Tai Lung en esta biblia (antes no tenía ninguna).
 - **Curiosidad de bestiario** (para que la lámina no repita el error): Tai Lung es un leopardo
   de las nieves, depredador natural del panda gigante (especie de Po) y del panda rojo (especie
   de Shifu) — y en la vida real los leopardos de las nieves no pueden rugir (le falta el tejido
@@ -352,6 +374,15 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
   los pocos personajes con el mismo actor en inglés (James Hong) y en español (Ismael Castro)
   en las 4 películas.
 - **Dinámica más citada por fans**: la escena de la sopa sin ingrediente secreto, ver punto 21.
+- **Cara**: emoción agridulce y gesto enfático —ala levantada, ojos muy abiertos— recordando en
+  voz alta el día en que encontró a Po bebé · escena oficial «Kung Fu Panda (2008) There Is No
+  Secret Ingredient Scene», Dailymotion, https://www.dailymotion.com/video/xaa228o?t=125 [2:05]
+  ✅. Segundos después, vulnerabilidad y nervio —pico entreabierto, mirada de lado— justo antes
+  de confesar que la sopa nunca tuvo ingrediente secreto · mismo clip,
+  https://www.dailymotion.com/video/xaa228o?t=135 [2:15] ✅ (la copia de Dailymotion es una
+  grabación de un reproductor de TV portátil, se ve el marco «Laser» en cada fotograma; el gesto
+  de la cara se lee igual de bien) — primeras caras propias con minuto para el Sr. Ping en esta
+  biblia (antes no tenía ninguna).
 
 ### Cinco Furiosos (secundarios, perfil breve por personaje — wiki oficial, ✅ web oficial KFP
 citada dentro de la wiki)
@@ -523,13 +554,24 @@ citada dentro de la wiki)
   No parece existir un *databook* oficial de la franquicia con esos datos, a diferencia de lo
   que sí existe para animes.
 - ⚠️ Catálogo completo de «cara en cada emoción» (alegría, rabia, tristeza, miedo, vergüenza)
-  con fotograma propio para los 6 personajes principales: se cubrió Po (4/5 emociones), Shifu
-  (2/5: fastidio y calma paternal) y Tigresa (1/5: nervio/esperanza de cachorra) sobre dos
-  tráilers (KFP1, KFP3, Dailymotion) y el corto oficial «Secrets of the Furious Five» (Internet
-  Archive), todos mirados con `fotogramas.py`. Faltan Oogway, Tai Lung y Sr. Ping por completo,
-  y varias emociones de Po/Shifu/Tigresa (sobre todo tristeza y vergüenza, poco frecuentes en
-  tráilers y en un corto centrado en los orígenes de los Cinco). No se procesaron películas
-  completas por presupuesto de acciones de esta tanda — ver «Sigue».
+  con fotograma propio para los 6 personajes principales: ampliado en una 2ª tanda con clips
+  oficiales de la propia KFP1 en Dailymotion. Ahora hay al menos una cara propia para los 6:
+  Po (5/5, se sumó vergüenza), Shifu (3/5, se sumó tristeza), Tigresa (sigue en 1/5: nervio/
+  esperanza de cachorra — no se encontró tristeza ni vergüenza suyas en esta pasada), Oogway
+  (1/5: serenidad en su ascensión, antes ninguna), Tai Lung (2/5: alegría de cachorro y rabia/
+  determinación de adulto, antes ninguna) y Sr. Ping (2/5: nostalgia/entusiasmo y vulnerabilidad,
+  antes ninguna). Sigue faltando: tristeza y vergüenza de Tigresa, tristeza de Po, vergüenza de
+  Shifu, y rabia/miedo de Oogway y del Sr. Ping. No se encontraron los cortos «Secrets of the
+  Masters» ni «Secrets of the Scroll» completos y en buena calidad: en Internet Archive sólo hay
+  un DVD sin capítulos identificados (`kung-fu-panda-secrets-collection`, ISO de 4,7 GB con
+  pistas .mp4 sin etiquetar); en Dailymotion sólo hay clips cortos sueltos de «Secrets of the
+  Masters» (uno se usó arriba, en el punto 12) y un supuesto «Secrets of the Scroll» (`x8uxhl4`)
+  cuyo protagonista —orejas grandes, antifaz oscuro— no se pudo identificar con certeza como
+  ninguno de los 6 principales, así que no se usó ninguna cara de ese clip por precaución. En su
+  lugar se usaron escenas oficiales completas de la 1ª película (la muerte/ascensión de Oogway,
+  el origen de Tai Lung, la sopa sin ingrediente secreto de Mr. Ping), igual de válidas para el
+  punto 13 y más fáciles de verificar. No se procesaron películas completas de principio a fin
+  por presupuesto de acciones — ver «Sigue».
 - ⚠️ Meme o parodia hispanohablante propia y documentada de Kung Fu Panda (con enlace y
   cifras). Búsquedas: «Kung Fu Panda meme español», «Kung Fu Panda parodia latino», «Kung Fu
   Panda TikTok español viral». Sólo se encontraron memes en inglés (punto 12) y fandubs sin
@@ -550,7 +592,7 @@ citada dentro de la wiki)
 | 7 | Popularidad, encuestas oficiales y de fans, quién es el más querido de verdad | ⚠️ | Sin encuesta oficial (se buscó y se documenta que no existe); sí hay 3 rankings de fans, Danbooru medido en vivo (dato propio, corrige el fallo del recolector) y el dato objetivo del Kids Choice Awards |
 | 8 | Doblaje latino, actor/estudio/director por dos fuentes, frases textuales | ✅ | Ficha de las 4 películas completa (estudio/dirección/traducción), 17 personajes con actor verificado (la mayoría ✅ en 2+ fichas), 5 frases textuales transcritas y medidas con audio oficial; 1 discrepancia (Han) señalada sin ocultar |
 | 12 | Qué ama el fandom (memes, chistes internos) y qué NO hacer | ✅ | 5 cosas que ama con fuente, 4 reglas de «qué NO hacer» con ejemplos reales y fuentes (Camaleona, MrBeast) |
-| 13 | Descripción profunda: carácter, historia, miedos, qué le importa, relaciones, cómo se expresa, cara por emoción con fotograma/minuto, dinámicas | ⚠️ | Completo en texto para 6 principales + 4 Furiosos + 4 villanos; el catálogo de «cara por emoción con fotograma propio» cubre Po (4/5), Shifu (2/5) y Tigresa (1/5) sobre 2 tráilers + 1 corto oficial mirados — falta ampliarlo para Oogway, Tai Lung, Sr. Ping y las emociones que quedan, ver Sigue |
+| 13 | Descripción profunda: carácter, historia, miedos, qué le importa, relaciones, cómo se expresa, cara por emoción con fotograma/minuto, dinámicas | ⚠️ | Completo en texto para 6 principales + 4 Furiosos + 4 villanos; el catálogo de «cara por emoción con fotograma propio» ya cubre los 6 principales al menos una vez (Po 5/5, Shifu 3/5, Tai Lung 2/5, Sr. Ping 2/5, Oogway 1/5, Tigresa 1/5), con 6 clips oficiales de Dailymotion mirados en 2 tandas — falta tristeza/vergüenza de Tigresa y algunas emociones sueltas del resto, ver Sigue |
 | 20 | Gustos y detalles (comida, aficiones, cumpleaños, altura, objeto, autopercepción), con fuente | ⚠️ | Cubierto para Po (altura/peso oficiales, nombre, Furioso favorito), Tigresa (comida), Shifu/Oogway/Tai Lung/Sr. Ping (nombre/trivia); no existe dato oficial de altura/cumpleaños para el resto, y se dice explícitamente |
 | 21 | Por qué la gente la ama: reseñas, Reddit, encuestas, identificación; escenas que hacen llorar con minuto/música/reacción | ✅ | 3 escenas emocionales con fuente y análisis (sopa sin ingrediente, pasado de Po, muerte de Oogway), recepción crítica de KFP4 con 4 fuentes, patrón de identificación del público con 3 personajes distintos |
 | 22 | Fan dubs y comunidad hispana en YouTube/TikTok con canal/enlace/escena/vistas; covers; memes | ⚠️ | 4 fandubs localizados con canal y enlace, sin vistas exactas (YouTube bloqueado); se explica por qué no hay «covers de opening» (la franquicia no tiene canciones con letra propias); no se encontró meme hispano propio documentado |
@@ -609,10 +651,30 @@ citada dentro de la wiki)
 - YouTube: bloqueo de sesión («inicia sesión») en los intentos de vistas de fandubs; no se
   insistió más de 2 veces por video, según indica AYUDANTE.md.
 
-Sigue: ampliar el catálogo de «cara en cada emoción con fotograma propio» del punto 13 —
-Oogway, Tai Lung y Sr. Ping siguen sin ninguna, y a Po/Shifu/Tigresa les falta sobre todo
-tristeza y vergüenza. Ya se miraron 2 tráilers (Dailymotion) y el corto «Secrets of the Furious
-Five» completo (Internet Archive, `--cada 25`); si se retoma, probar con `Secrets of the
-Masters` o `Secrets of the Scroll` (otros cortos oficiales de la franquicia, buscar su URL en
-Dailymotion/Internet Archive) o con un tramo de una película completa, mirando las hojas con
-Read antes de citar minuto.
+**2ª tanda (mismo día), ampliación del catálogo de caras por emoción — sin gastar cupo de
+búsqueda web (todo con `curl` directo a las APIs y con `fotogramas.py`):**
+- API de Internet Archive (`advancedsearch.php`) y de Dailymotion (`api.dailymotion.com/videos?
+  search=`) para localizar los cortos «Secrets of the Masters» y «Secrets of the Scroll»: no se
+  encontró ninguno de los dos suelto y en buena calidad (archive.org sólo tiene el DVD sin
+  capítulos `kung-fu-panda-secrets-collection`; Dailymotion sólo tiene clips cortos).
+- `herramientas/fotogramas.py --cortes` y `--fotograma` sobre 4 clips oficiales de KFP1 en
+  Dailymotion, todos mirados con Read antes de citar minuto:
+  - `x22o11a` «Most Notorious Villain Clip» (recorte de Secrets of the Masters, 0:47) → usado en
+    el punto 12 (dinámica Po/Tigresa en el Salón de los Guerreros).
+  - `x7vtk1n` «Young Tai Lung» movie clip (3:14) → caras de Tai Lung cachorro/adulto y vergüenza
+    de Po (punto 13).
+  - `xa9x3qe` «Master Oogway Leaves Shi Fu Scene» (3:45) → caras de Oogway y tristeza de Shifu
+    (punto 13).
+  - `xaa228o` «There Is No Secret Ingredient Scene» (2:52, grabación de un reproductor de TV
+    portátil «Laser») → caras del Sr. Ping (punto 13).
+  - Se descartó `x8uxhl4`, un supuesto «Kung Fu Panda: Secrets of the Scroll» de 4:37: su
+    protagonista (orejas grandes, antifaz oscuro) no se pudo identificar con certeza como ninguno
+    de los 6 principales — no se usó ninguna cara de ese clip, aunque sí parece contenido oficial
+    (trae marca de agua «Bandicam», es decir, es una grabación de pantalla, no un montaje de fan).
+
+Sigue: quedan sin cara propia la tristeza y la vergüenza de Tigresa (no aparecieron en las
+escenas miradas hasta ahora), la tristeza de Po, la vergüenza de Shifu, y la rabia/el miedo de
+Oogway y del Sr. Ping. Si se retoma: buscar clips oficiales de escenas concretas de KFP1-4 con
+Tigresa (por ejemplo cuando Shifu le grita en KFP1, o su reacción al fracaso de Po), y con
+Oogway/Ping enfadados o asustados (Oogway casi no tiene escenas de esas; puede que no exista tal
+fotograma y haya que decirlo). Mirar siempre las hojas con Read antes de citar minuto.
