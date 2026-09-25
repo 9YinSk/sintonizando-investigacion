@@ -897,3 +897,512 @@ Internet Archive, con metraje real.
   [Google Play](https://play.google.com/store/apps/details?id=com.pg.kpop.demon.hunters.game). ⚠️
 - **Dentro de otros juegos**: Fortnite y CookieRun: Kingdom (§24). ✅
 
+## 14 · Lo que ama el fandom, y qué NO hacer (punto 12)
+
+**Memes y chistes internos** (página de memes de
+[TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/KPopDemonHunters),
+leída entera):
+
+- **«No thoughts, only Derpy»** (o «No thoughts, head empty, only
+  Derpy»): el más repetido. Nació de un corto oficial de Netflix con las
+  caras de **Derpy**, el tigre azul
+  ([Netflix Tudum, ficha de Derpy](https://www.netflix.com/tudum/articles/kpop-demon-hunters-derpy-tiger-bio)).
+  A Sussie la llaman «Hat Bird»; a Derpy, «Goofy Ass Tiger». ✅ (tres
+  fuentes)
+- **Los tres sabores de ramyeon**: «Rumi: Superstar Flavour. Mira:
+  Spice Queen. Zoey: H A M B U R G E R.» ✅
+- **«Rumi sniffing / eating kimbap»** y «Rumi smiling»: caras de Rumi
+  usadas como reacción (hoja `vestuario_10` nº 478). ✅
+- **«Jinu Running»** y el **«HEHEHE»** de Jinu. ✅
+- Tras el final: **«Jinu is chilling in Rumi's sword»** y «Jinu is
+  alive!». ✅
+- **«The Cry Guys»**: los tres chicos que lloran citando a HUNTR/X. Al
+  demonio que llora lo llaman **«Jelly»**. ✅
+- **«Front Man»**: Gwi-Ma comparado con el villano de *El juego del
+  calamar*; en habla hispana, porque los dobla el mismo actor (§10). ✅
+- **#SodaPopChallenge** (§12). ✅
+
+**Qué NO hacer** (lo que un fan notaría al instante):
+
+1. **No escribir mal el título.** En latino es **«Las Guerreras
+   K-Pop»**, sin «cazadoras» ni «demonios»
+   ([Doblaje Wiki, datos de interés](https://doblaje.fandom.com/es/wiki/Las_guerreras_k-pop#Datos_de_inter%C3%A9s)). ✅
+2. **No mezclar los nombres de las canciones**: «Dorada», «Nocaut» y
+   «Soda Pop» (igual). ✅
+3. **No hacer un dibujo animado genérico.** Fans surcoreanos (foro
+   theqoo) llamaron al merch oficial de Netflix «tacky», «outdated» y
+   «too Western»
+   ([Koreaboo](https://www.koreaboo.com/news/kpop-demon-hunters-merch-criticism/)).
+   Hay que imitar el lenguaje real del K-pop: carteles de *comeback*,
+   *photocards*, *fancams*, rótulos de *variety show*. ✅
+4. **No poner a los Saja Boys como malos planos.** Para muchos fans,
+   Jinu «no es un demonio malo», y hubo enfado de verdad por su final
+   ([Sportskeeda](https://www.sportskeeda.com/us/k-pop/news-why-protest-trucks-kpop-demon-hunters-fans-hilariously-react-unconventional-male-female-idols-interaction)). ✅
+5. **No esconder las marcas de Rumi ni su vergüenza.** Es el corazón del
+   personaje. Siempre «perfecta» vacía su arco. ✅
+6. **No llamarla anime ni dibujarla en 2D.** La directora: «I don't
+   [consider it anime]». Tampoco es Spider-Verse: es 3D con gestos de
+   anime ([CBR](https://www.cbr.com/netflix-kpop-demon-hunters-not-anime/)). ✅
+7. **No confundir el traje «Free»** (sudadera lila y vaqueros) con la
+   **cazadora amarilla** (§16). ✅
+8. **No usar una burbuja blanca** (§7). ✅
+9. **No tomar de referencia los juegos falsos** de Google Play (§13) ni
+   las copias piratas de la película en Internet Archive. ✅
+10. **No dar por bueno el recuento de Danbooru** (§9). ✅
+
+## 15 · Poses analizadas por personaje (punto 14)
+
+Vistas fotograma a fotograma (vídeo) y en las hojas (redactor). Armas:
+Rumi, espada de luz (**sa-in-geom**); Mira, alabarda curva
+(**gok-do**); Zoey, dagas arrojadizas (**shin-kal**). ✅
+
+### Rumi
+
+| Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|
+| «How It's Done» [0:54](https://archive.org/details/youtube-QGsevnbItdU) | Puños en alto junto a Mira y Zoey, mirada al frente, negro y dorado, letrero detrás | **Presentar** |
+| Tráiler [0:24](https://www.dailymotion.com/video/x9k1104?t=24) | Espada de luz en vertical, cuerpo hacia delante, ceño fruncido | Pelear, **animar** a la acción |
+| «Golden» 1:48 | De pie ante el espejo, un brazo cruzado sobre el pecho, mirada baja, marcas visibles, bata | **Pensar** |
+| «Golden» 2:12 | Sola en el centro, brazos en «V» hacia arriba, un pie adelantado, botas altas de cordones | **Celebrar** |
+| «Golden» 3:02 | Camina del brazo de Mira y Zoey, una pierna en el aire (paso saltado), sonríe | Cierre, unidad |
+| «Takedown» 1:48 | De perfil, micrófono junto a la boca, boca abierta, cabeza atrás, cazadora amarilla, foco azul cenital | **Explicar** cantando |
+| Hoja `vestuario_10` nº 477 | Sentada, escribe en un cuaderno | **Explicar**, pensar |
+| Hoja `vestuario_10` nº 433 | Media sonrisa segura, cazadora amarilla | Presentar, **regañar** con gracia |
+| Hoja `personajes_01` nº 7 | Espada en diagonal, pierna adelantada | Pelear |
+| Hoja `vestuario_10` nº 469 | Render cantando, cuerpo entero | Cantar |
+
+### Mira
+
+| Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|
+| Tráiler 0:24 | Gok-do en alto con los dos brazos, capa roja al vuelo, piernas abiertas | Pelear |
+| «How It's Done» 0:54 | Gok-do en diagonal hacia arriba, de perfil, a un lado de Rumi | Presentar en grupo |
+| «Takedown» 1:06 | Puño junto a la sien, ceja alzada, media sonrisa | **Regañar** con guiño, animar |
+| Hoja `personajes_01` nº 23 | Cuerpo entero con el gok-do | Presentar |
+| Hoja `personajes_01` nº 16 | Retrato: top negro, falda naranja, gok-do | Presentar |
+| Hoja `vestuario_10` nº 448 | Dientes apretados, manos como garras | **Regañar** en serio |
+| Hoja `vestuario_10` nº 449 | Cara de fastidio | Regañar |
+| Hoja `vestuario_10` nº 435, 437 | Gorra, gafas, desconfía | **Pensar**, dudar |
+| Hoja `vestuario_10` nº 470 | En batalla, luz verde | Pelear |
+
+### Zoey
+
+| Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|
+| «How It's Done» 1:06 | Primer plano, dagas turquesa en una mano en alto, ceja levantada, mirada a cámara | **Regañar**, advertir |
+| Tráiler 0:24 | Dagas separadas en las dos manos, agachada hacia delante | Pelear |
+| Hoja `personajes_01` nº 3 | Salto con los *shin-kal* | Acción |
+| Hoja `personajes_01` nº 18 | Retrato: dagas en alto, top halter turquesa | Presentar |
+| Hoja `vestuario_10` nº 440 | Rapea al micrófono, señala | **Explicar** |
+| Hoja `vestuario_10` nº 457 | Pícara, puños junto a la barbilla | **Animar** |
+| Hoja `vestuario_10` nº 458 | Manos juntas, suplica | Pedir algo |
+| Hoja `vestuario_10` nº 466 | Abraza el disco de las Sunlight Sisters | **Celebrar** como fan |
+| Hoja `vestuario_10` nº 453 | Disfrazada, brazos abiertos | Humor |
+
+### Jinu y los Saja Boys
+
+| Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|
+| Tráiler [1:20](https://www.dailymotion.com/video/x9k1104?t=80) | Primer plano tres cuartos, media sonrisa a cámara, chaqueta blanca a cuadros, pendiente, marca en el cuello | **Presentar** seduciendo |
+| Hoja `vestuario_10` nº 438 | Silueta con *gat* y túnica negra, brazos abiertos | Amenazar |
+| Hoja `concept_02` nº 60 | Retrato sonriente | Presentar |
+| Hoja `concept_02` nº 89 | *Gat*, luz magenta, cara seria | Jinu demonio, momento serio |
+| Hoja `personajes_01` nº 22, 24 | Traje del programa de juegos y traje «Soda Pop» | Ídolo |
+| Tráiler [1:04](https://www.dailymotion.com/video/x9k1104?t=64) | Los cinco en fila, sombreros, contraluz azul | Presentar al grupo |
+| «Soda Pop» 0:24-0:42 | En corro, brazos hacia una chica con capucha rosa | Celebrar en la calle ⚠️ |
+
+### Las tres juntas
+
+- **Presentar**: alineadas, armas en alto, cámara centrada, frase
+  detrás («How It's Done» 0:54). ✅
+- **Animar al público**: de espaldas, brazos en alto, contraluz blanco
+  («How It's Done» 2:18). ⚠️
+- **Celebrar**: trajes dorados (hoja `vestuario_10` nº 476). ✅
+- **Humor**: comiendo ramyeon con los vasos de su nombre (hoja
+  `concept_02` nº 84). ✅
+
+**Qué pose para qué**: presentar → Rumi 0:54 o nº 433; explicar →
+Rumi nº 477 o Zoey nº 440; celebrar → Rumi «Golden» 2:12; regañar →
+Mira nº 448 o Zoey 1:06; pensar → Rumi «Golden» 1:48; animar → Zoey
+nº 457 o Mira «Takedown» 1:06.
+
+## 16 · Vestuario, con hex medidos (punto 15)
+
+Hex medidos con `estilo.py` en las hojas de modelo oficiales de la wiki
+(el % es del área; incluye el fondo del render). ✅ salvo lo marcado.
+
+| Quién · traje | Hex | Qué es | Imagen |
+|---|---|---|---|
+| Rumi · «Takedown» | `#040419` `#5675A6` `#151636` `#AB7FBD` `#7A497A` `#40335F` | Traje táctico oscuro, chaleco azul acero, pelo lila | [Takedown Outfit](https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/a5/Rumi_-_Takedown_Outfit.png), 3077×4096 |
+| Rumi · «What It Sounds Like» | `#C0AFF5` `#6F65C1` `#C381B8` `#9F5398` `#E5D6F0` `#512264` | Gala lila y violeta, el del clímax | [WISL Outfit](https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/a1/Rumi_-_What_It_Sounds_Like_Outfit.png), 3084×4096 |
+| Rumi · «Free» | `#443E83` `#594EAA` `#8073D8` `#A790EE` `#875A8B` `#AF74A7` | **Sudadera lila y vaqueros** (no la cazadora) | [Free Outfit](https://static.wikia.nocookie.net/kpop-demon-hunters/images/5/59/Rumi_-_Free_Outfit.png), 3065×4096 |
+| Mira · cuerpo entero | `#FCF9FC` `#100831` `#C9A5CE` `#2A1774` `#9A5BBA` `#9D335C` | Traje base, violetas y vino | [Full Body](https://static.wikia.nocookie.net/kpop-demon-hunters/images/3/3e/Mira_-_Full_Body.png), 2630×2356 |
+| Zoey · «Golden» | `#CAA297` `#BF6D37` `#FDFDFD` `#D3BFCD` `#916F82` `#5C3230` | Dorado cobrizo | [Golden Outfit](https://static.wikia.nocookie.net/kpop-demon-hunters/images/8/8f/Zoey_-_Golden_Outfit.png), 2259×4096 |
+| Jinu · «Soda Pop» | `#020202` `#C9C2BD` `#42678C` `#7F96AA` `#B17678` `#593958` | Camisa clara, vaquero azul, acento rosado | [Jinu sodapop](https://static.wikia.nocookie.net/kpop-demon-hunters/images/6/66/Jinu_sodapop.png), 1323×4467 |
+
+**La ropa icónica: la cazadora amarilla de Rumi.** Amarilla, con
+**hombrera de picos**, top corto, parches. Es la más repetida en
+cosplay y en los renders (hojas `personajes_01` nº 17; `concept_02`
+nº 56, 74; `vestuario_10` nº 433, 463, 469). Los parches y el patrón de
+la manga se texturizaron por capas en Substance (§19). ✅
+⚠️ **Sus hex no se midieron**: medir en
+[Rumi Portrait](https://static.wikia.nocookie.net/kpop-demon-hunters/images/3/31/Rumi_Portrait.png/revision/latest?cb=20250725045033)
+(2304×3072) antes de pintarla.
+
+**Otros trajes, prenda a prenda** (wiki, Appearance):
+- **Mira, «How It's Done»**: top corto negro con **ondas del Honmoon**
+  azules, texto «WON'T MISS» rosa fuerte, minifalda vaquera azafrán,
+  *norigae* (colgante coreano) carmesí. ✅
+- **Zoey, «How It's Done»**: top halter turquesa con tiras de cuero
+  negras y un loto rosa. ✅
+- **Trajes dorados de gala**: Rumi (`concept_02` nº 86), Mira (nº 95;
+  `vestuario_10` nº 443-446, chaqueta blanca con dorado), el trío
+  (nº 441, 476). ⚠️ sin hex.
+- **Fuera del escenario**: Mira con el jersey de oso polar
+  (`personajes_01` nº 1, 25, 26), en bata y toalla (`vestuario_10`
+  nº 450-452); Zoey disfrazada con sombrero amarillo y camisa floral
+  (nº 436, 453-455, 460) y en pijama (nº 456); Rumi en bata (nº 439,
+  462) y con sudadera rosa (nº 474-475). ✅
+- **Mira en una gala** (archivo «Mirametgala»): abrigo acolchado
+  negro hasta los pies (`vestuario_10` nº 447). ⚠️ la escena no se
+  identificó
+- **Jinu «Your Idol»** y los Saja Boys: **hanbok negro con *gat***
+  (sombrero coreano de ala ancha), el disfraz de *jeoseung saja*
+  (`concept_02` nº 75; `vestuario_10` nº 438). En su debut, ropa de
+  calle pastel (`concept_02` nº 58). ✅
+
+**Rasgos que nunca cambian** (wiki, Appearance):
+- **Rumi**: **trenza *mohawk* morada** hasta las pantorrillas con
+  *daenggi* (cinta) de seda dorada. Marcas moradas que brillan rosa.
+  En modo demonio, el **iris izquierdo** pasa de castaño a dorado con
+  pupila rasgada. En casa, a veces moño (nº 439). ✅
+- **Mira**: pelo **rosa** hasta el muslo, con dos coletas y mechones a
+  los lados; cejas negras (es teñida). La más alta (170 cm). ✅
+- **Zoey**: pelo negro, **moños trenzados** y flequillo corto recto;
+  **6 perforaciones en cada oreja**, pulsera dorada, aros de plata. La
+  más baja (1,52 m). ✅
+- **Jinu**: flequillo cortina negro, piel pálida y ojos marrones.
+  Pendientes, collares y gafas de sol de ídolo. En forma demonio: piel
+  morada con marcas, garras, dientes afilados, ojos dorados. ✅
+
+**Colores de marca** (logos, §26): HUNTR/X `#677D9A` `#4F466A`
+`#9A4893` sobre `#000000`; Saja Boys `#FC02A5` `#FD02BA`. ✅
+
+## 17 · Ciudades, paisajes y fondos de pantalla (punto 16)
+
+Paletas medidas de cada sitio en §5. Aquí, **la hora y la luz**:
+
+| Sitio | Hora y luz | Dónde verlo |
+|---|---|---|
+| Seúl desde la **HUNTR/X Tower** | Noche, azul medianoche con luces turquesa, muy oscura (23%) | [HUNTRX_Tower_Full](https://static.wikia.nocookie.net/kpop-demon-hunters/images/d/d4/HUNTRX_Tower_Full.png), 1920×800 |
+| **Namsan Tower** | Atardecer y anochecer, cielo lavanda (76%) | [Namsantowerkdh](https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/ab/Namsantowerkdh.jpg), 964×600 |
+| Seúl con el **Honmoon** encima | Atardecer, ondas turquesa y rosa sobre la ciudad | «Golden» 3:00 |
+| Colina sobre Seúl (diseño del Honmoon, nachomolina) | Noche azul, silueta de espaldas | hoja `personajes_01` nº 29-30 |
+| **Puente** o estación | Atardecer naranja y rojo, neón azul | «How It's Done» 2:48 |
+| **Calle de Seúl** | Noche de neón magenta con luz dorada de tiendas | «Soda Pop» 0:24 |
+| Escenario de los **Idol Awards** | Rojo y oro de templo, foco cenital | «Golden» 2:12 |
+| **Han Clinic** | Luz plana de baño, gris azulado | «Golden» 1:48 |
+| **Baños públicos** | Agua, niebla y reflejos; pelea con los *mul-gwishin* | §19 |
+| **Bukchon Hanok** | Ladrillo diseñado a medida en Substance Designer | §19 |
+| **Mundo Demonio** | Niebla, picos de roca, charcos, cielo cubierto | [wiki](https://kpop-demon-hunters.fandom.com/wiki/Demon_world) |
+
+✅ (fotogramas, arte oficial y wiki)
+
+**Fondos de pantalla en alta** (Wallhaven, sólo aptos; tamaño y ♥ de
+la propia ficha; autor original enlazado). ✅ Son de fans: sólo
+referencia.
+
+| Tamaño | ♥ | Qué | Autor original |
+|---|---|---|---|
+| [10665×6000](https://w.wallhaven.cc/full/po/wallhaven-pojd1j.jpg) | 43 | «Wallpaper Huntrix» | [wickellia (DeviantArt)](https://www.deviantart.com/wickellia/art/Wallpaper-Huntrix-1281696651) |
+| [8800×4950](https://w.wallhaven.cc/full/gw/wallhaven-gw7rdl.jpg) | 46 | Las tres, cazadora amarilla, nubes | [mietita (X)](https://x.com/mietita/status/1962709768302375195) |
+| [6400×3600](https://w.wallhaven.cc/full/3q/wallhaven-3ql62d.jpg) | 49 | Pista de tenis | [lulusketches (Instagram)](https://www.instagram.com/lulusketches/p/DPcasjFAdWt/) |
+| [5120×2880](https://w.wallhaven.cc/full/9o/wallhaven-9oz82w.jpg) | 65 | Versión mejorada del fondo final | [Reddit](https://www.reddit.com/r/KpopDemonhunters/comments/1mjwl2b/i_made_a_better_version_wallpaper_of_the_final/) |
+| [3840×2160](https://w.wallhaven.cc/full/9o/wallhaven-9o678d.jpg) | 102 | El trío de pie | sin origen (subió Gone65478) |
+| [3840×2160](https://w.wallhaven.cc/full/21/wallhaven-21od8m.jpg) | 77 | Rumi, Mira y Zoey | [lesly_oh (X)](https://x.com/lesly_oh/status/1938596689566199873) |
+| [3840×2160](https://w.wallhaven.cc/full/je/wallhaven-jewyl5.jpg) | 69 | El trío | [ArtStation](https://www.artstation.com/artwork/98V4Vo) |
+| [3840×2160](https://w.wallhaven.cc/full/w5/wallhaven-w5l86q.jpg) | 36 | Rumi, gatos, tigre, lluvia, paraguas | [DevinElleKurtz (X)](https://x.com/DevinElleKurtz/status/1958983294005268725) |
+| [2700×1572](https://w.wallhaven.cc/full/gw/wallhaven-gw7qzl.jpg) | 74 | Ciudad pintada | [lulusketches (X)](https://x.com/lulusketches/status/1947345396310663274/photo/1) |
+| [2560×1440](https://w.wallhaven.cc/full/vp/wallhaven-vpz5ql.jpg) | 75 | El trío (Jason Liang) | [Pixiv](https://www.pixiv.net/artworks/137893470) |
+| [2400×3653](https://w.wallhaven.cc/full/3q/wallhaven-3q9wx6.jpg) | 115 | Chica, vertical (el más guardado) | [artelsia (X)](https://x.com/artelsia/status/1937126231201517817) |
+| [3072×4096](https://w.wallhaven.cc/full/e8/wallhaven-e88q7k.jpg) | 58 | Cara de Rumi con lágrimas y grietas | [dannyisonfiree (X)](https://x.com/dannyisonfiree/status/1996042151168291077) |
+| [1920×1255](https://w.wallhaven.cc/full/5y/wallhaven-5yy7g1.jpg) | 67 | El trío con armas, oscuro | [ArtStation](https://www.artstation.com/artwork/0lvelK) |
+
+- ⚠️ No hay fondos de pantalla **oficiales** de Netflix en alta
+  localizados; lo oficial más grande es el arte de la wiki (§3).
+- La montaña con las caras de HUNTR/X y Saja Boys
+  ([Mountain.jpeg](https://static.wikia.nocookie.net/kpop-demon-hunters/images/1/1e/Huntrix_and_Saja_Boys_Mountain.jpeg),
+  2307×976) sirve de fondo panorámico. ✅
+
+## 18 · Guía para generar con IA: imagen y texto (punto 17)
+
+Hecha por el redactor con lo de §5-§17 y §19. Sirve para Firefly,
+Canva o cualquier IA de imagen, y para una IA de texto. **La IA no
+sustituye las referencias reales**: se usa para poses o fondos de
+apoyo, y lo que salga se compara con las imágenes de abajo.
+
+### Para la IA de imagen
+
+**El estilo, en una frase.** Animación 3D estilizada de cine, con
+expresiones de anime pero cuerpo y luz 3D; «alta costura» y
+«K-drama»; colores suaves con neón de concierto; luz de foto de moda
+editorial (§19).
+
+**Rasgos que nunca cambian** (si falla uno, se rehace):
+- **Rumi**: coreana de 23 años, **trenza *mohawk* morada muy larga**
+  hasta las pantorrillas con cinta dorada, ojos castaños, marcas
+  moradas en brazos y hombros (visibles u ocultas, según la escena).
+- **Mira**: la más alta, **pelo rosa larguísimo** con dos coletas,
+  cejas negras, gesto seco.
+- **Zoey**: la más baja, pelo negro con **moños trenzados** y
+  flequillo corto recto, muchas perforaciones en las orejas, sonrisa
+  enorme.
+- **Jinu**: chico coreano, flequillo cortina negro, piel pálida, media
+  sonrisa, marca morada en el cuello; alto (180 cm).
+
+**Paleta según el momento** (hex medidos en §5 y §16):
+
+| Momento | Colores | Hex base |
+|---|---|---|
+| Pelea, demonios | Verde neón sucio sobre negro | `#A0B481` `#495745` `#000000` |
+| Saja Boys, calle | Magenta y rosa de neón | `#C75CB4` `#FC02A5` |
+| Triunfo de HUNTR/X | Rojo y oro de templo | `#E0C66B` `#AF8351` `#793121` |
+| Final feliz | Lavanda pastel | `#ECD4FC` `#C5ADF5` `#8972D0` |
+| Honmoon, magia | Azul místico | `#1D579B` `#244B7C` |
+| Noche de Seúl | Azul medianoche con turquesa | `#060E1D` `#102E50` `#3E869C` |
+
+**Línea y sombreado.** No hay línea negra de cómic. Sombra **por zonas,
+suave**, con calidad de foto: ni *cel-shading* duro ni fotorrealismo.
+Brillos de satén en la ropa, bordados con relieve.
+
+**Luz.** Contraluz fuerte de concierto, focos cenitales, neón de color
+según el momento. Brillo bajo (22-38%) en conciertos y peleas; los cielos lavanda
+y el final suben (57-76%).
+
+**Encuadre.** Plano cerrado a la cara, «pegado a la cabeza», como un
+vídeo de TikTok o una *fancam*; en grupo, las tres en línea con Rumi en
+el centro (§19).
+
+**Palabras que ayudan** (en inglés suelen ir mejor): *stylized 3D
+animated feature, Sony Pictures Animation look, K-pop idol, K-drama
+lighting, high fashion editorial lighting, concert stage lights, neon
+rim light, Korean girl group, soft color palette, expressive anime-like
+eyes on 3D faces, satin fabric, embroidered stage outfit*.
+
+**Palabras que lo estropean**: *anime, 2D, manga, cel shading,
+Spider-Verse, comic book, speech bubble, chibi* (salvo para un gag),
+*cartoon, Disney princess, photorealistic, Demon Slayer*. Tampoco
+«demon hunter» a secas: puede salir un cazador genérico de fantasía.
+
+**Vocabulario de gestos** (para pedirlos por su nombre):
+- **Ojos de mazorca** (*corn eyes*) y **ojos de corazón rojo** que
+  cambian de forma: el gag de cuando ven a los Saja Boys (hoja
+  `concept_02` nº 93; §12). Cambio a estilo *chibi* sólo en ese golpe.
+- **Marcas que brillan rosa** cuando Rumi se asusta o se estresa.
+- **Iris izquierdo dorado** con pupila rasgada: Rumi en modo demonio.
+- **Brazo cruzado tapando el otro brazo**: la vergüenza de Rumi
+  («Golden» 1:48).
+- **Brazos en «V»** hacia arriba: el triunfo («Golden» 2:12).
+- **Armas de luz** que se invocan con el Honmoon: espada, alabarda
+  curva, dagas (hojas `concept_02` nº 76-78).
+
+**Imágenes de referencia de estilo y pose** (subirlas como referencia):
+- Estilo general: hojas de modelo de §16 y
+  [Rumi Portrait](https://static.wikia.nocookie.net/kpop-demon-hunters/images/3/31/Rumi_Portrait.png/revision/latest?cb=20250725045033).
+- Pose de triunfo: «Golden» 2:12. Pose de pensar: «Golden» 1:48.
+  Pose de grupo: «How It's Done» 0:54. Pelea: tráiler 0:24.
+- Fondos: [HUNTRX_Tower_Full](https://static.wikia.nocookie.net/kpop-demon-hunters/images/d/d4/HUNTRX_Tower_Full.png)
+  y [TheHonmoon1 setdesign](https://static.wikia.nocookie.net/kpop-demon-hunters/images/c/c2/TheHonmoon1_setdesign_nachomolina.jpg).
+
+**Ejemplo de encargo a la IA** (Rumi para demos-canto): *Stylized 3D
+animated feature film still, Korean K-pop idol girl, very long purple
+mohawk braid with golden ribbon, yellow cropped jacket with spiked
+shoulder pad, sitting in a recording booth writing lyrics in a
+notebook, studio microphone with pop filter in foreground, soft
+high-fashion lighting, violet and gold rim light, shallow depth of
+field*.
+
+### Para la IA de texto
+
+**Cómo hablan** (del doblaje latino, §10):
+- **Rumi**: frases de líder cuando hay público; a solas, frases que
+  dudan, se corrigen y se quiebran («no lo entiendo, pero de alguna
+  forma…»). Habla de su **voz** como de algo que se rompe o se cura.
+- **Mira**: frases cortas y secas. Se define con adjetivos duros sobre
+  sí misma. Poco adorno. Si se ablanda, lo dice sin rodeos: «me siento
+  bien».
+- **Zoey**: preguntas en cadena cuando está nerviosa (¿…? ¿…?).
+  Entusiasta. Habla de sus **letras y libretas**.
+- **Jinu**: burla ligera y coqueteo con Rumi; cuando habla de su culpa,
+  baja el tono y se vuelve lento.
+- **Celine**: rápida, urgente, protectora; propone planes («Cubramos…,
+  resolvamos…»).
+- **Gwi-Ma**: exclamaciones, amenazas, recuerda el «trato».
+- **Honoríficos y jerga**: «Rumi Nim» (el doctor Han), *maknae*,
+  *sunbae*, «¡gaja gaja gaja!» (§26). Escribir **Huntrix** y **Guima**
+  como suenan en latino.
+
+**Frases reales por emoción** (latino; ⚠️ las marcadas):
+
+| Emoción | Frase | Quién |
+|---|---|---|
+| Alegre, orgullo | «Pero con ustedes dos significan algo. Yo tengo valor.» | Zoey |
+| Alegre, grito de grupo | «¡Huntrix no se rinde!» ⚠️ (rótulo en inglés) | HUNTR/X |
+| Enfadado, amenaza | «No creas que puedes escapar de tu realidad.» | Gwi-Ma |
+| Enfadado, burla | «¿Qué eres, del siglo pasado?» | Jinu a Rumi |
+| Explicando | «Cubramos tus marcas y resolvamos las cosas.» | Celine |
+| Explicando, sincera | «Miren, soy una persona un poco difícil. Muy franca, temperamental, agresiva.» | Mira |
+| Animando, consolando | «Puedes contármelo, voy a entender. Soy el único que puede.» | Jinu |
+| Nerviosa | «¿Cómo lo resolvemos? ¿Qué sabrán los fans?» | Zoey |
+| Triste | «Me recuerdan mi vergüenza, una vergüenza de la que no puedo escapar.» | Jinu |
+| Triste que sana | «…de alguna forma mi voz estuvo sanando.» | Rumi |
+
+- ⚠️ No hay una frase latina **de Rumi enfadada** ni **de Mira
+  alegre** comprobadas: si hacen falta, escribirlas nuevas en su tono y
+  decir que no son del guion.
+- **Puntuación**: ¡! y ¿? siempre dobles. Mira casi sin exclamaciones.
+  Zoey con muchas. Nada de «—» ni paréntesis en el texto de una lámina
+  (regla del dueño).
+- **Frases de canción**: en pantalla van en **inglés** tal cual
+  («I'M GONNA SHOW YOU», «UP UP UP»), en mayúsculas, como grafismo.
+
+## 19 · Estilo de dibujo, técnica, Photoshop y Blender (punto 18)
+
+### Cómo quisieron que se viera
+
+- **«Alta costura» y «K-drama»**: colores suaves, un estilo «entre
+  caprichoso y contundente», luz de foto de moda (Nori Kaneko y Jody
+  Tidsbury, Imageworks, en
+  [No Film School](https://nofilmschool.com/kpop-demon-hunters-how-sony-pictures-imageworks-used-adobe-in-creating-the-global-phenomenon)). ✅
+- **Bocas y ojos «muy coreanos»** al hablar, aunque el diálogo sea en
+  inglés (Maggie Kang en
+  [Cartoon Brew](https://www.cartoonbrew.com/feature-film/the-directors-of-kpop-demon-hunters-discuss-the-unexpected-challenges-of-making-an-animated-k-pop-film-247998.html)). ✅
+- **3D, no 2D**: «wanted to translate that in a 3D way and not go 2D
+  like Spider-Verse does» (Kang, en
+  [CBR](https://www.cbr.com/netflix-kpop-demon-hunters-not-anime/)). ✅
+  ⚠️ Alguna prensa habla de «menos fotogramas, como Spider-Verse»; se
+  sigue a las directoras.
+- **Gags *chibi***: en golpes de humor como los ojos de mazorca cambian
+  a propósito a una estética *chibi*, por Los Simpson, Looney Tunes y
+  Chaplin (Kang, en
+  [Geeks OUT](https://www.geeksout.org/2025/07/16/interview-with-maggie-kang-creator-of-kpop-demon-hunters/)). ✅
+  ⚠️ El sistema facial se llamaría «Chibi» (Josh Beveridge, director de
+  animación): sale de un resumen, no del artículo.
+
+### Programas y proceso (*making of*, con nombre y cargo)
+
+| Paso | Programa | Quién lo cuenta |
+|---|---|---|
+| Animación de personajes | **Maya** | [Creative Bloq](https://www.creativebloq.com/art/animation/how-kpop-demon-hunters-animation-process-was-changed-by-unreal-engine-5) ✅ |
+| Previsualización y *layout* | **Unreal Engine 5** con **OpenUSD**, por primera vez en Imageworks: exportar una secuencia pasó de 6-8 horas a 5 minutos | Jonghwan Hwang y Adam Holmes ([Unreal Engine](https://www.unrealengine.com/spotlights/reimagining-previs-and-layout-for-kpop-demon-hunters-with-unreal-engine)) ✅ |
+| Multitudes | 7 cuerpos con ropa y pelo intercambiables; la herramienta **Foliage** (de vegetación) llena el estadio | Lillia Lai ✅ |
+| Luces de concierto | Animadas en UE5 y pasadas a **Katana** con un *plugin* propio | Creative Bloq ✅ |
+| Niebla y agua (pelea del baño) | Volumétricos en tiempo real en UE5 | Jason Baldwin ✅ |
+| Texturas | **Substance 3D Painter** (ropa, *props*, Seúl), **Designer** (el ladrillo de Bukchon), **Sampler** con filtro de bordado (hanbok y trajes de HUNTR/X; la cazadora amarilla, por capas, con brillo **anisotrópico**) | Jody Tidsbury, que texturizó a Rumi ✅ |
+| Variedad | Más de 1000 figurantes distintos; sólo la camiseta más común tenía 35 variantes | Tidsbury ✅ |
+| Grafismo de conciertos | **After Effects** | Nori Kaneko ✅ |
+| Referencia de actuación | El animador Daniel Ceballos se grabó actuando (planos «caóticos» de Zoey) | Creative Bloq ✅ |
+| Títulos y créditos | Picturemill recortó los modelos (brazos, cuerpo, pelo, caras) y los animó como recortes 2,5D | [Picturemill](https://picturemill.com/portfolio/kpop-demon-hunters/) ✅ |
+
+### Encuadres y composición
+
+- **Pegado a la cabeza** (*head-locked*), como en TikTok, y cobertura
+  de concierto en directo (Gary Lee, director de fotografía). ⚠️ (vídeo
+  de Collider no visto)
+- **Vergüenza**: plano cerrado, luz fría, silencio salvo su voz
+  («Golden» 1:48). ✅
+- **Triunfo**: plano general, la heroína sola en el centro, foco
+  cenital, letrero gigante detrás («Golden» 2:12). ✅
+- **Pelea**: las tres alineadas, cámara centrada, armas encendidas
+  (tráiler 0:24). ✅
+- **Seducción**: primer plano tres cuartos, mirada a cámara (tráiler
+  1:20). ✅
+- *Storyboards* de Simonbaek para ver cómo encuadra el estudio: hoja
+  `concept_02` nº 68-73. ✅
+
+### Cómo reproducirlo en Photoshop
+
+1. **Sombra por zonas**: color plano por zonas, como un *cel*, y
+   encima una capa en **Luz suave** con aerógrafo grande. Nada de
+   bandas duras.
+2. **Bordado de los trajes**: patrón limpio con *Superposición de
+   motivo*, una capa de relieve (filtro **Relieve** / *Emboss*) para
+   las puntadas y un brillo direccional en **Superponer** al 20-30%
+   para el satén.
+3. **Holográfico del logo HUNTR/X**: *Mapa de degradado* multicolor en
+   **Sobreexponer color** sobre ruido difuminado en diagonal, con
+   máscara sólo en los bordes del emblema (`#677D9A` `#4F466A`
+   `#9A4893`).
+4. **Neón de concierto**: contraluz de color del momento (§18) en
+   **Trama** o **Sobreexponer color**, y el grafismo de letras con
+   resplandor exterior.
+5. Todo recorte pasa por `v3/integrar.py` (regla del dueño).
+
+### Cómo reproducirlo en Blender
+
+1. **Contorno**: **Freestyle** (por geometría), no *Solidify*, que
+   aplana la luz de moda. Grosor fino.
+2. **Sombreado**: *Shader to RGB* + *ColorRamp* de 2-3 escalones.
+3. **Niebla del Mundo Demonio o del baño**: *Principled Volume* o
+   *Volume Scatter* en un cubo, con la vista de Eevee.
+4. **Luces de escenario**: *Light Linking* (Blender 4.x) para que los
+   focos no ensucien los primeros planos.
+5. **Caras exageradas**: *shape keys* con *drivers* para pasar de lo
+   normal a los ojos de mazorca con un control.
+6. **Multitudes**: nodos de geometría con instancias y material
+   aleatorio por instancia.
+7. **Modelos y *rigs* libres**: los de Sketchfab de §4 (CC BY, de fans,
+   basados en Fortnite). ⚠️ Revisar escala y *rig*.
+8. **Render**: ×2 para pruebas y ×3 la final; no pasar de ~4000 px
+   (regla del dueño, no saturar su PC).
+
+## 20 · Texturas 2D (punto 19)
+
+**No hay tramas de manga**: es 3D. Las «texturas 2D» de esta película
+son los patrones de la ropa, los símbolos y los efectos.
+
+| Capa | Qué es en la película | Dónde verla | Equivalente libre |
+|---|---|---|---|
+| Bordado | Bordado coreano de hanbok y trajes de gala, hecho con Substance Sampler | Trajes dorados (hoja `vestuario_10` nº 443-446) | Relieve en Photoshop (§19) |
+| Parches | Cazadora amarilla de Rumi, parches y manga por capas | `personajes_01` nº 17 | Cuero [Leather037](https://ambientcg.com/view?id=Leather037) (CC0) |
+| Estampado floral | Camisa de Zoey disfrazada | `vestuario_10` nº 436, 453 | — |
+| Ondas del Honmoon | Líneas onduladas azules en ropa y cielo | Top de Mira; «Golden» 3:00; efectos en `concept_02` nº 76-78 | Pintar a mano |
+| Marcas de demonio | Patrones morados en la piel, con el «lenguaje de formas» del mapa Daedongnyeojido | [wiki, Demon](https://kpop-demon-hunters.fandom.com/wiki/Demon) | Modelo [«Patterns»](https://sketchfab.com/3d-models/none-547051dd1fcd4fcb95d6ccd5d0261c98) de MIKESTEEZ (CC BY) |
+| Holográfico | Emblema de HUNTR/X, iridiscente | [Huntrix_Logo](https://static.wikia.nocookie.net/kpop-demon-hunters/images/2/25/Huntrix_Logo.jpg), 1194×1194 | Mapa de degradado (§19) |
+| Purpurina y *foil* | Look de póster K-pop | Libro de pósters con *foil* (§3) | Pinceles de [BrushWarriors](https://brushwarriors.com/glitter-brushes-procreate/) ⚠️ |
+| Trama de medios tonos | Para carteles y pegatinas | — | Pinceles de [Speckyboy](https://speckyboy.com/halftone-photoshop-brushes/) ⚠️ |
+| Ladrillo de Bukchon | Diseñado en Substance Designer, no foto | §19 | [AmbientCG](https://ambientcg.com/view?id=Concrete034) (CC0) |
+| Metal dorado | Accesorios, Honmoon dorado | — | [Metal048A](https://ambientcg.com/view?id=Metal048A) (CC0) |
+
+- **El Honmoon por colores**: azul normal, **dorado** completo,
+  **arcoíris** al final
+  ([glosario](https://kpopdemonhunterscoloringpages.com/glossary/honmoon)). ✅
+- ⚠️ Los packs de pinceles de terceros declaran «gratis»: revisar la
+  licencia al bajarlos.
+
+## 21 · Gustos y detalles de cada personaje (punto 20)
+
+De la ficha y la sección Trivia de la wiki; lo de Netflix Tudum y el
+Instagram oficial, citado por la wiki. ✅ salvo lo marcado.
+
+| | Rumi | Mira | Zoey | Jinu |
+|---|---|---|---|---|
+| Cumpleaños | 23 de octubre (Escorpio: «our Scorpio queen», Instagram oficial) | 22 de marzo | 21 de agosto | 17 de abril de 1623 |
+| Edad | 23 o 24 (AMA de Maggie Kang en Reddit) | — | 22 o 23 | Más de 400; parece de 23 |
+| Altura | ⚠️ no publicada | 170,4 cm (la más alta) | 1,52 m (la más baja) | 180 cm, 58 kg |
+| Ramyeon | «Superstar» | **«Spice Queen»** (picante) | **Hamburguesa** (su lado de EE. UU.) | — |
+| Objeto | Guitarra Fender Acoustasonic Telecaster decorada | Jersey de oso polar | Libretas de letras; colgante de tortuga | **Bipa** (laúd coreano), lo único que tenía de humano |
+| Le encanta | Cantar; comer (kimbap, ramyeon) | Su grupo, donde puede ser ella | **Las tortugas** (pijama, colgante, vídeos) y las Sunlight Sisters | Olvidar su culpa |
+| Apodos | «Popstar Royalty», «Rumi Nim» | «Oveja negra de la familia», «problem child» | «Cutest Maknae» | — |
+| Cómo se ve | Con vergüenza de sus marcas | Como «difícil»: franca, temperamental | Sus letras le parecían «inútiles y raras» | Preso de su vergüenza |
+| Curioso | Apellido probable: Kang (no «Ryu», que es de fans) | Look inspirado en la modelo Ahn So Yeon; pelo negro teñido | Nació en Corea, se crió en Burbank | Nombre por el dúo Jinusean; «murió» el 20-jun-2025, el día del estreno |
+
+- Fuentes: [Rumi](https://kpop-demon-hunters.fandom.com/wiki/Rumi),
+  [Mira](https://kpop-demon-hunters.fandom.com/wiki/Mira),
+  [Zoey](https://kpop-demon-hunters.fandom.com/wiki/Zoey),
+  [Jinu](https://kpop-demon-hunters.fandom.com/wiki/Jinu). La edad de
+  Jinu, del guion citado por Deadline. ✅
+- **La comida es parte del personaje**: los sabores de ramyeon salen en
+  el merch oficial y son meme (§14). ✅
+- ⚠️ «Superstar» para Rumi sale del meme de TV Tropes, no de su ficha.
+

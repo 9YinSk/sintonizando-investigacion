@@ -209,5 +209,287 @@ Dentro de los juegos no hay globos, gritos, pensamientos ni onomatopeyas escrita
 | Pensamiento | No existe. En el cómic hay globos con «…» (#443) y «!!!» (#460) ✅ (visto) | Los mismos signos, sin palabras | — |
 | Cartel del mundo | **No es letra real**: la «Lengua de the Nowhere», un alfabeto inventado que parece japonés o chino · https://littlenightmares.fandom.com/wiki/The_Language_of_The_Nowhere ✅ | Dibujar símbolos propios. Nunca japonés o chino de verdad | — |
 | Interfaz y menús | Texto normal en el idioma del jugador; no se consiguió captura del menú ⚠️ | **Nunito Sans** o **Work Sans** | Sí ✅ |
-| Créditos | Palo seco blanca sobre negro (fotograma 1:07:00 de LN1) ⚠️ nombre sin identificar | Work Sans | Sí ✅ |
+| Créditos | Salen en el fotograma 1:07:00 de LN1, pero su letra no se describió ni identificó ⚠️ | Work Sans (a falta de la real) | Sí ✅ |
+
+## 6 · Cómo hablan y piensan en pantalla
+
+**Lo más importante de esta biblia: en los juegos no hay ningún cuadro de diálogo.** Ni globo, ni subtítulo, ni barra de vida. Se miraron cinco capturas oficiales de Steam a 1920×1080 de los tres juegos: pantalla limpia ✅. La tabla de controles de la wiki no tiene botón de «hablar» · https://littlenightmares.fandom.com/wiki/Controls ✅. Una burbuja blanca aquí es lo más falso que se puede dibujar.
+
+**Cómo «hablan» de verdad**
+- **Con el cuerpo.** Jadeos al huir, tos, el ruido de tragar, el gruñido de la tripa de Six. Y posturas exageradas (punto 14) ✅
+- **Mono es el único que dice algo:** «Hey» y «Oi», para llamar a Six · https://littlenightmares.fandom.com/wiki/Mono ✅. En LN2 hay un botón de «Llamar» (Q) y otro para darse la mano ✅
+- **La luz que llevan en la mano** es lo único parecido a una interfaz: el aro del mechero o de la linterna ✅
+- **Los Pictogramas** de LN3 (DLC): figuras de palitos colgadas de hilos que sólo se ven con la linterna. Es el único «mensaje» del juego, y no lleva letras · https://littlenightmares.fandom.com/wiki/Pictograms ✅
+- **El mundo no escribe en ningún idioma real.** Carteles, periódicos, cajas de cereal: todo en la Lengua de the Nowhere. Hay una parada de autobús azul y blanca que imita las japonesas ✅
+- **Los únicos textos legibles dentro del juego:** la etiqueta con el nombre «Roger» en la chaqueta del Conserje · https://littlenightmares.fandom.com/wiki/The_Janitor ✅. Y los dibujos de tiza de los Matones en la Escuela (sin palabras) · #53 · https://static.wikia.nocookie.net/littlenightmares/images/3/34/BullyChalkArt.png ✅ (visto)
+
+**Donde la franquicia sí pone letras (lo que usa la lámina)**
+1. **El cuaderno de personaje** de la promo de LN2 (#447, punto 1): papel crema envejecido, boceto a lápiz, nombre en mayúsculas entre dos rayas y dos o tres frases manuscritas. Colores medidos por el redactor con `estilo.py`: papel `#E2D6C9` 29 %, `#D4C7B9`, `#BFAE9D`, `#DEC6AE`; sombra del papel `#9E8F80`; tinta `#0E0908`; línea `#362E26` ✅. Es un objeto real que se puede hacer en Blender.
+2. **La cartela del cómic** (Titan Comics): rectángulo **crema** con **borde negro ondulado** y mayúsculas negras. Los paneles tienen bordes **rasgados**, no rectos · https://static.wikia.nocookie.net/littlenightmares/images/8/8a/RainFerryman.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/aa/Children-Fire.png ✅
+3. **El globo del cómic**: óvalo blanco con borde fino. Sólo en el cómic, nunca en el juego ✅
+4. **Onomatopeyas del cómic**: rotuladas dentro del dibujo, sucias, sin caja: «SKREEK» (#156, `MonoEscapesNurses`) · https://static.wikia.nocookie.net/littlenightmares/images/b/bf/MonoEscapesNurses.png · «KAKKK» (#461) · https://static.wikia.nocookie.net/littlenightmares/images/d/d8/Sprinklers.jpg ✅ (vistas; la parte de texto no las encontró porque buscó en el juego)
+5. **Rótulos de promo** con pregunta seca: «HORROR?» (#153), «THE INNOCENT CHILD» (#450), «TO BE CONTINUED [?]» (#81) ✅
+
+**Qué NO hacer**
+- Burbuja blanca limpia con letra de imprenta.
+- Subtítulos como en un anime.
+- Un personaje con una frase larga en la boca: el mutismo es su seña.
+- Letras de un idioma real (japonés, chino, coreano) en un cartel del mundo.
+- Una barra de vida o de sigilo: ningún juego la tiene.
+
+## 7 · Popularidad: quién es el más querido
+
+- **No hay encuesta oficial** de Bandai Namco, Tarsier ni Supermassive. Se buscó en inglés y en español ✅ (negativo comprobado)
+- **Fan art medido en Danbooru** (25-sep-2026): Six 94 · Mono 40 · Nomes 9 · Runaway Kid 6 · el resto 0 ✅. Six más que duplica a Mono aunque en LN2 ella es la secundaria.
+- **Six es «el personaje femenino favorito» por defecto:** hilo de 241 votos · https://www.reddit.com/r/LittleNightmares/comments/1t8t5up/ ✅
+- **Secundario querido nº 1: los Nomes.** Son la «mascota» de la saga, tiernos aunque trágicos (punto 12) ✅
+- **Runaway Kid**, protagonista sólo de un DLC, tiene peluche Youtooz anunciado en 2026 · https://www.reddit.com/r/LittleNightmares/comments/1vz5b9i/runaway_kid_youtooz_plush/ ⚠️
+- **Dime**, la chica cabeza de lámpara del DLC de LN3 (2026), ya tiene fans que la ponen por delante de todos: hilo de 61 votos · https://www.reddit.com/r/LittleNightmares/comments/1u5q050/ ✅ · arte oficial · https://static.wikia.nocookie.net/littlenightmares/images/3/3b/Dime.png/revision/latest?cb=2026 ✅
+- **Los villanos también se quieren:** hilo «top 5 residents» · https://www.reddit.com/r/LittleNightmares/comments/1rjb9a6/ ⚠️
+- **Premios:** LN1 nominado al D.I.C.E. (dirección de arte), a varios NAVGTR y a los Golden Joystick · https://www.imdb.com/title/tt6795176/awards/ · https://www.filmaffinity.com/en/movie-awards.php?movie-id=487426 ✅. LN2 ganó el NAVGTR a Mejor Diseño de Personaje · https://www.imdb.com/title/tt12857290/awards/ ✅. LN3 entró en la lista larga de los BAFTA · https://www.bafta.org/media-centre/press-releases/games-awards-2025-nominations/ ⚠️
+- LN2 pasó el millón de copias en menos de un mes · https://en.bandainamcoent.eu/news/little-nightmares-ii-reaches-1-million-units-sold ✅
+- **Veredicto para las láminas:** Six es la cara de la saga. Mono va con ella. Los Nomes son el comodín tierno.
+
+## 8 · Voces y doblaje latino
+
+**No hay doblaje latino. Está comprobado, no es falta de búsqueda.**
+- Ningún personaje tiene diálogo con palabras. La wiki lo dice en la ficha de cada uno («does not speak») · https://littlenightmares.fandom.com/wiki/Six#Personality ✅
+- En Steam, sólo el inglés lleva el asterisco de «voces». El español de España y el de Hispanoamérica llevan sólo subtítulos, en LN1, LN2 y LN3 ✅ (wiki + Steam, dos fuentes)
+- Doblaje Wiki no tiene página: seis variantes del título devuelven `missing` · https://doblaje.fandom.com/es/api.php?action=query&titles=Little_Nightmares&format=json ✅
+- La herramienta `voz.py` sobre un tráiler oficial detectó 22,3 s de voz y **0 palabras** transcritas ✅
+- Por eso no hay «frases icónicas del doblaje latino» que citar. Las frases reales que sí existen (de la cuenta oficial y del equipo) están en el punto 17.
+
+**Quién pone los gruñidos y los gritos (voces originales)**
+| Personaje | Voz | Fuente | |
+|---|---|---|---|
+| Six | Anna Moberg (e «Hilda») | Archivos de sonido del juego, en la wiki · https://static.wikia.nocookie.net/littlenightmares/images/8/88/SoundFilesSixVoiceActors.jpg/revision/latest ✅ | ✅ |
+| La Dama | Anna Moberg | Entrevista en The Sound Architect · https://www.thesoundarchitect.co.uk/littlenightmaresinterview/ | ✅ |
+| Conserje, Cazador, Doctor, Chefs, Invitados | Tobias Lilja, Christian Vasselbring y Henrik Larsson (diseñadores de sonido de Tarsier) | Wiki | ⚠️ |
+| La Profesora | Christian Vasselbring | Wiki + Washington Post · https://www.washingtonpost.com/video-games/2021/04/10/little-nightmares-2-sounds/ | ✅ |
+| Low (LN3) | Suzie Rai | Wiki · https://littlenightmares.fandom.com/wiki/Low | ⚠️ |
+| Alone (LN3) | Penelope Rawlins | Wiki · https://littlenightmares.fandom.com/wiki/Alone | ⚠️ |
+| Mono, Hombre Delgado | Sin actor identificado | Wiki (campo vacío) | ⚠️ |
+
+- **Idiomas de texto:** LN1 trae español de Hispanoamérica y de España por separado. LN2, LN3, la VR y el DLC de LN3 traen sólo español de España ✅ (Steam)
+- **Para el servidor de doblaje:** la saga es un lienzo en blanco. Los fans ponen voz al cómic y a historias propias (punto 22).
+
+## 9 · Música y sonido
+
+- **Compositor de LN1 y LN2: Tobias Lilja**, director de audio de Tarsier · https://musicbrainz.org/release-group/a23f78a2-5bb6-49eb-a131-ddcbd33cba77 · entrevista https://www.thesoundarchitect.co.uk/littlenightmaresinterview/ ✅. Pódcast «Composing Fear» (2025) · https://www.youtube.com/watch?v=pK0ddN5ntOI · audio de LN2 · https://www.youtube.com/watch?v=vwT7NDC3LM0 ⚠️
+- Tarsier enseñó en vídeo cómo Lilja usó **una caja de música y papel perforado** en la música de LN2 · https://www.facebook.com/TarsierStudios/videos/2154753551326821/ ⚠️ (no se pudo abrir)
+- **No hay opening ni ending cantados.** Todo es instrumental ✅
+
+**Banda sonora de LN1 (2017, 24 temas)** · https://musicbrainz.org/release/8bdae4cc-7520-453a-993e-fa81e11e442d · copia en https://archive.org/details/24-prison-toys ✅
+| Tema | Dónde suena |
+|---|---|
+| *Prison Walls* | La Prisión |
+| *The Janitor Awaits* · *The Nomes' Nest* | La Guarida |
+| *A Feeling for Meat* | La Cocina |
+| *New Arrivals* · *March of the Guests* | Zona de Invitados |
+| *The Lady Circles* (3:32, el más largo) | La persecución final |
+| *Six's Theme Part I y II* | Tema de Six |
+| *Hunger I, II y III* | Los tres ataques de hambre |
+| *Lure of the Maw* | La melodía que canta la Dama ante Six (único tema cantado de un personaje) |
+
+**Banda sonora de LN2 (2021, 27 temas)** · https://musicbrainz.org/release/24a62acb-e6f4-4a35-a204-39a3194b375c ✅
+| Tema | Dónde suena |
+|---|---|
+| *Boots Through The Undergrowth* | El Bosque |
+| *The Nome In The Attic* · *Playtime* | La Escuela |
+| *Crackheads* · *Captive Audience* | El Hospital |
+| *The Man In The Hat* | El Hombre Delgado (2:21:40) |
+| *Circling The Throne* | El enfrentamiento final |
+| *Signal Interference* · *Lost In Transmission* | La Torre y el final |
+| *Togetherness I y II* | Six y Mono juntos (por nombre y posición en el disco ⚠️) |
+
+- LN3 ya tiene banda sonora (2025) · https://archive.org/details/01-little-nightmares-iii-main-theme ⚠️
+- Vinilo *The Music Box Collection* (2×LP, 29 temas de LN1 y LN2: caja de música, trombón, acordeón, voces) · https://vgmdb.net/album/111387 ✅
+- **Temas para las escenas que duelen:** *The Lady Circles* (LN1) y *Lost In Transmission* (LN2), justo antes de los créditos (1:07:00 y 2:48:20) ✅
+
+**Sonidos que todo fan reconoce** (oídos en los *longplays* ⚠️ salvo lo indicado)
+- El gruñido de la tripa de Six antes de comer (44:20 y 48:20 de LN1).
+- El crujido húmedo al morder.
+- El olfateo y la respiración áspera del Conserje, que es ciego.
+- El tarareo de la Dama ante el espejo ✅ (wiki + visto en 1:04:20).
+- En LN2: el arma del Cazador al amartillarse y la estática de televisor de los Viewers y del Hombre Delgado.
+- Nomes: un croar o chillido en vez de palabras ✅ (wiki)
+- La crítica en español también destaca que no hay diálogos: https://forbes.com.mx/little-nightmares-el-horror-infantil/ · https://www.zonared.com/analisis/analisis-de-little-nightmares/ ✅
+
+## 10 · Vídeos
+
+- **Tráilers oficiales** con minuto de cada plano: ver punto 2 ✅
+- **Longplays completos** (1080p y 4K) en Internet Archive: ver punto 2 ✅
+- **Análisis (en inglés):** *Little Nightmares - Story and Game Design analysis*, GameLogic, 8:10, 12-may-2017 · https://www.youtube.com/watch?v=FfS29g11-bU ✅ · *Little Nightmares and the Fear of Growing Up* · https://www.youtube.com/watch?v=BgQoPC7MkKo ⚠️ · *How "Little Nightmares" Explores Trauma | All 5 Games* · https://www.youtube.com/watch?v=-4Y9V9D4b-Q ⚠️
+- **Diseño narrativo:** Dave Mervik en el pódcast Game Dev Unchained. No querían llamarlo «sigilo» sino «escondite», para que el niño no se sienta poderoso. El Maw nació de «todo lo peor del mundo pudriéndose en un solo sitio» · https://gamedevunchained.com/2019/03/16/2018-9-11-episode182/ ⚠️
+- **TikTok:** la etiqueta pasa de 300 000 vídeos · https://www.tiktok.com/tag/littlenightmares ✅. Se repite comparar al Hombre Delgado saliendo de la tele con *The Ring*. Hay un *trend* de animación con su estética · https://www.tiktok.com/@ol1v14/video/7513421655503310088 ⚠️ · y el «Sinking Town Trend» · https://www.tiktok.com/@cr33pyp4sta_4life/video/7517395495690439950 ⚠️
+- **Citas de prensa dentro de los tráilers** (fuente primaria, vistas en el fotograma): EDGE «Will get under your skin in the best way possible» (LN1, 1:32) · Fingamer «Never has a nightmare been so appealing» (LN2, 0:16) · Twinfinite «…I couldn't stop playing» (LN2, 1:08) · Trusted Reviews «…a horror adventure well worth playing» (LN2, 1:28) ✅
+- **Del artbook de LN2**, vistazo en vídeo · https://www.youtube.com/watch?v=RoKLbqmDDL4 ⚠️
+- No hay todavía *longplay* de LN3 en Internet Archive ⚠️
+
+## 11 · Videojuegos de la franquicia
+
+| Juego | Fecha | Estudio | Qué añade |
+|---|---|---|---|
+| *Little Nightmares* | 27-abr-2017 | Tarsier Studios | Six y el mechero |
+| *Secrets of the Maw* (DLC) | 2017-18 | Tarsier | El Runaway Kid y la linterna |
+| *Very Little Nightmares* (móvil) | 30-may-2019 | Alike Studio | Puzles en vista isométrica, se toca la pantalla |
+| *Little Nightmares II* | 10-feb-2021 | Tarsier | Mono, botón «Llamar» y darse la mano |
+| *Little Nightmares III* | 9/10-oct-2025 | Supermassive Games | Low y Alone, cooperativo; paraguas, arco y llave inglesa |
+| *Little Nightmares VR: Altered Echoes* | 23-abr-2026 | ICONIK | Realidad virtual · https://store.steampowered.com/app/2482940 |
+| *LN III: El backstage* (*Secrets of the Spiral*, DLC) | 11-jun-2026 | Supermassive | Dime y el *flash* de linterna · https://store.steampowered.com/app/2088781 |
+
+Fechas: Steam + wiki ✅ (Steam da el 9-oct para LN3 y la wiki el 10-oct, por la zona horaria ⚠️).
+
+- **Caja de diálogo: ninguna** en los tres juegos numerados ✅
+- **Interfaz en partida: casi nada.** Sin vida, sin mapa, sin inventario. Sólo el aro de luz del objeto que lleva el niño ✅
+- **Mandos** (tabla completa en https://littlenightmares.fandom.com/wiki/Controls): LN1 mechero o linterna; LN2 «Llamar» y agarrarse de la mano; LN3 objetos equipables ✅
+- **Menús:** texto normal en el idioma del jugador. No se consiguió captura del menú ⚠️
+- **Very Little Nightmares:** su interfaz no se pudo mirar (sólo arte de tienda) ⚠️
+- **Capturas oficiales de Steam** a 1920×1080 de cada juego, en `referencias.json`. Ejemplo de LN1 · https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/8942672a817424d426e65ade0253e428a3f449ee/ss_8942672a817424d426e65ade0253e428a3f449ee.1920x1080.jpg ⚠️ (URL tomada de `referencias.json`)
+- **Motor:** Unreal Engine 4 en LN1 y LN2 · https://www.unrealengine.com/en-US/developer-interviews/how-little-nightmares-ii-plumbs-the-depths-of-adolescent-angst ✅. Tarsier programa en C++ con JetBrains Rider, Perforce y TeamCity · https://blog.jetbrains.com/dotnet/2024/06/04/how-tarsier-studios-brings-little-nightmares-to-life-with-jetbrains-rider/ ✅
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que aman**
+- **El gran misterio: ¿por qué Six suelta a Mono al final de LN2?** El guionista Dave Mervik no lo explica: «Six's perspective of this will be different to Mono's, and different again to the player's» · https://littlenightmares.fandom.com/wiki/Six#Trivia · https://www.thegamer.com/little-nightmares-2-ending-explain-six-betray-mono/ ✅
+- La cuenta oficial lo alimenta: «Extracting someone from a fantasy can be deeply upsetting for everyone involved» ✅ (wiki)
+- **El meme más citado: Six se come al Nome que le ofrece una salchicha** (en vez de la salchicha). La cuenta oficial bromeó: «when you know what the sausages aboard the Maw are made of, you can understand the choice» · https://littlenightmares.fandom.com/wiki/User_blog:Paperjam-Anime/Six's_Hunger_Explained. · https://www.tiktok.com/discover/little-nightmares-six-eats-gnome ✅. La escena del pan está en la hoja (#54-55, «Bread Giving Boy») ✅
+- **Los Nomes, mascota de la saga.** Chiquitos, sin cara, tiernos, y en el fondo niños transformados. Los desarrolladores contaron en broma que sueñan con huir del Maw en un yate de 32 pies llamado *The Endeavour*, beber champán y jugar al *shuffleboard* en pijama · https://littlenightmares.fandom.com/wiki/Nomes#Trivia ✅
+- **El drama de 2025-26:** Tarsier perdió la saga; LN3 lo hizo Supermassive. Tarsier sacó *Reanimal* (2026) y muchos lo llaman «el verdadero LN3» · https://en.wikipedia.org/wiki/Reanimal · hilo polarizado (54 votos, 52 comentarios) · https://www.reddit.com/r/LittleNightmares/comments/1o49dz1/ ✅
+
+**Qué NO hacer** (lo que un fan notaría al instante)
+- **No enseñar la cara.** Six va tapada por el pelo y la capucha. Mono, por la bolsa. Low, por la máscara. Alone, por el casco. Una cara expresiva de anime rompe el diseño ✅
+- **No ponerles a hablar** con frases largas. Si hablan, que sea con gesto u objeto ✅
+- **No «resolver» el final de LN2** ni pintar una reconciliación feliz de Six y Mono. El fandom vive de la duda ✅
+- **No pintar al Hombre Delgado «recordando con rencor» a Six.** La teoría de la venganza está desmentida por el pódcast oficial *The Sounds of Nightmares*: en the Nowhere se pierde la memoria · https://littlenightmares.fandom.com/wiki/Mono#Trivia ✅
+- **No mezclar con *Reanimal*** (mismo estudio, otros monstruos) ✅
+- **No usar colores alegres** ni saturados. Tampoco la estética de Tim Burton a la letra: el propio Mervik rechaza la comparación (punto 24) ✅
+- **No inventar colaboraciones.** No hay nada oficial con Fortnite, Brawl Stars ni Dead by Daylight: sólo *mods* y vídeos de fans ✅ (buscado y descartado)
+
+## 13 · Personajes a fondo
+
+Nadie habla, así que «cómo se expresa» es cuerpo y contexto. Su «cara en cada emoción» es la postura: la cara casi nunca se ve. Base: fichas de https://littlenightmares.fandom.com (✅ si hay entrevista o medio aparte).
+
+**Six** (protagonista de LN1; secundaria en LN2) · https://littlenightmares.fandom.com/wiki/Six
+- **Carácter:** antiheroína. Sólo quiere sobrevivir. Deja atrás a otros niños sin culpa ✅
+- **Historia:** 9 años según la sinopsis de 2014, cuando el juego se llamaba *Hunger*. Es la única edad exacta de la saga ✅
+- **Miedo y deseo:** el hambre. Crece durante el juego: de salchichas a seres vivos ✅
+- **Lista:** vence a la Dama con un espejo; lo dedujo de los espejos rotos de su cuarto ✅
+- **Su sombra:** la «Six Oscura» la observa cada vez que come y vuelve en el final secreto de LN2 ✅
+- **Qué transmite:** hambre, desesperación y una moral que incomoda. No da lástima limpia. Tose cuando está quieta ✅
+- **Cara en cada emoción (postura, con minuto de LN1):** miedo = corre agachada mirando atrás (28:20) · hambre/tristeza = encogida con los brazos en la tripa (44:20) · alivio = colgada del farol (51:00) · duda = de pie en el círculo de luz (1:01:40) · decisión = camina despacio hacia la amenaza (1:04:20) ✅. Vergüenza y rabia: no hay escena documentada ⚠️
+- **Dinámica:** con Mono, desconfía hasta que él la salva de los Matones; luego se dan la mano; al final lo suelta ✅
+
+**Mono** (protagonista de LN2) · https://littlenightmares.fandom.com/wiki/Mono
+- **Carácter:** protector. Libera a Six y la ayuda aunque ella lo rechace ✅
+- **Su bolsa:** según la descripción oficial, le ayuda a olvidar que el mundo lo odia y quiere que fracase. Se la quita sólo para mirar al Hombre Delgado a la cara ✅
+- **Ficha oficial del cuaderno:** «un niño con una determinación poco común; cuando se propone algo, casi nunca se rinde antes de acabarlo» (traducción del redactor de #447) ✅
+- **Arco:** envejece en la Torre y **se convierte en el Hombre Delgado**. Mervik: los dos protagonistas acaban pareciéndose al monstruo del que huían ✅
+- **Qué transmite:** determinación herida. El juego lo castiga más que a Six, y eso indigna al fandom ✅
+- **Cara en cada emoción (LN2):** cautela = encorvado, bolsa hacia el suelo (15:00) · asombro = quieto mirando el horizonte (25:00) · ánimo = corre junto a Six (28:20) · obediencia = sentado a la mesa con otros niños (55:00) · inquietud = quieto mirando arriba entre ganchos (1:21:40 ⚠️) ✅
+
+**Runaway Kid** (DLC de LN1) · https://littlenightmares.fandom.com/wiki/The_Runaway_Kid
+- Al revés que Six, **coopera**: recluta Nomes para alimentar un horno y escapar ✅
+- Lleva una linterna y un grillete roto en el tobillo, «por moda», según broma del estudio ⚠️
+- Final: Six se lo come, ya convertido en Nome. Transmite esperanza cortada en seco ✅
+
+**Low y Alone** (LN3) · https://littlenightmares.fandom.com/wiki/Low · https://littlenightmares.fandom.com/wiki/Alone
+- **Low:** sensible y tenaz, obsesionado con un lugar mítico con un portal a casa. Máscara blanca de cuervo, arco y flechas, capa azul oscuro ✅. No soporta separarse de Alone ✅
+- **Alone:** curiosa, «manitas incurable». Casco de aviador con gafas de latón y una llave inglesa imantada a la espalda ✅. Al final se disuelve al cruzar un espejo y deja su ropa y un dibujo de los dos ✅
+- **Pose de pareja:** de la mano por un pasillo de madera (tráiler LN3, 0:28) ⚠️
+
+**La Dama** (villana final de LN1) · https://littlenightmares.fandom.com/wiki/The_Lady
+- Elegante y serena por fuera, sin empatía. Colecciona retratos y estatuas de sí misma pero no soporta su reflejo; guarda un solo espejo escondido ✅
+- Canta *Lure of the Maw* antes del enfrentamiento ✅
+- Tarsier: «She's learned all sorts of unpleasant things during her residence. It's best that we don't scratch the surface» ✅
+
+**El Conserje, Roger** (LN1) · https://littlenightmares.fandom.com/wiki/The_Janitor
+- Ciego, con oído finísimo. Cazador implacable que cuida con cariño muñecas y juguetes ✅
+- Pierde los brazos en una puerta estanca. Su grito se llama en los archivos `SW_Janitor_DeathSqueal_long_distant` ✅
+
+**Los Chefs Gemelos** (LN1) · https://littlenightmares.fandom.com/wiki/The_Twin_Chefs
+- Los únicos villanos de LN1 que sobreviven. Humor negro: animaciones para meter a Six al horno o a la sopa ✅
+
+**El Cazador** (LN2) · https://littlenightmares.fandom.com/wiki/The_Hunter
+- Humano sin deformidad, obsesionado con la taxidermia. Mervik lo llama puro «id» ✅. Su libro: *Takidermy Workshop Manual* (#448) ✅
+
+**El Hombre Delgado** (LN2) · https://littlenightmares.fandom.com/wiki/The_Thin_Man
+- Calmado, paciente, siempre un paso por delante. Blanco y negro de cine de los 40-50. Controla los televisores ✅
+
+**La Profesora y el Doctor** (LN2) · https://littlenightmares.fandom.com/wiki/The_Teacher · https://littlenightmares.fandom.com/wiki/The_Doctor
+- La Profesora exige obediencia, pero a solas toca el piano con pasión. Su cuello largo viene del *rokurokubi*, un yokai ✅
+- El Doctor se lava las manos en un grifo sin agua. Se elige quemarlo o dejarlo morir de hambre ✅
+
+**Los Nomes** · https://littlenightmares.fandom.com/wiki/Nomes
+- Pequeños, piel de papel, cabeza en cono sin cara. Croan o chillan. Tarsier dijo que existieron antes que la Dama ✅
+
+**Dime** (DLC de LN3) · https://littlenightmares.fandom.com/wiki/Dime
+- Chica cabeza de lámpara. Ama las bombillas: tiene una docena en su «espacio seguro». Fabrica herramientas con lo que encuentra ✅
+
+## 14 · Poses analizadas
+
+Sin diálogo, «presentar, explicar, regañar o animar» se leen en la acción física. Son lecturas de postura del investigador de vídeo, no frases citadas.
+
+**Six (LN1)** · https://archive.org/details/PS4_Longplay_Little_Nightmares
+| Minuto | Postura, manos y mirada | Sirve para |
+|---|---|---|
+| 3:20 | Agachada, de puntillas sobre un tablón, cabeza gacha mirando dónde pisa | Pensar, avanzar con cuidado |
+| 5:00 | En pleno salto, brazos abiertos buscando equilibrio | Acción, superar un obstáculo |
+| 17:40 | Sentada en la alfombra, quieta, mirando un mueble alto | Observar, pensar |
+| 28:20 | Corre agachada, torso adelante, mira atrás por encima del hombro | Regañar o avisar («cuidado, viene algo») |
+| 44:20 | Encogida, brazos cruzados sobre la tripa | Pedir, necesidad |
+| 51:00 | Colgada de un farol con las dos manos, piernas recogidas | Celebrar, escapar con alivio |
+| 1:01:40 | De pie, brazos caídos, en un círculo de luz | Dudar, explicar «aquí estás tú» |
+| 1:04:20 | Camina despacio hacia la amenaza, hombros bajos | Animar(se), decidirse |
+
+Poses extra de arte oficial: con el mechero en alto andando (#458, **presentar**) · subiendo una escalera hacia la luz (#192, **animar**) · figura de Gecco agachada iluminando la oscuridad (punto 23, **explicar**).
+
+**Mono (LN2)** · https://archive.org/details/ps-5-longplay-little-nightmares-ii
+| Minuto | Postura, manos y mirada | Sirve para |
+|---|---|---|
+| 15:00 | Camina solo, encorvado, bolsa hacia el suelo | Pensar, explorar |
+| 25:00 | De pie en una duna mirando el horizonte | Presentar el sitio |
+| 28:20 | Corre al lado de Six, mismos brazos, misma dirección | Animar, avanzar en equipo |
+| 55:00 | Sentado recto a la mesa, manos sobre la mesa | Rutina en grupo, obediencia |
+| 1:21:40 | Quieto entre ganchos, brazos pegados, mira arriba | Inquietud ⚠️ |
+| 2:21:40 | (Aquí sale el Hombre Delgado de cuerpo entero) | Referencia de escala niño/adulto ⚠️ |
+
+Poses extra de arte oficial: boceto de pie en el cuaderno (#447, **presentar**) · con la tele encendida en la hierba (#178) · frente al Hombre Delgado bajo la lluvia (#191, **plantarse**) · figura Youtooz con un hacha al hombro (#162) ✅
+
+**Low y Alone (LN3):** de la mano, Low delante tirando suave de Alone (tráiler, 0:28) · https://www.dailymotion.com/video/x8nfeuk · **presentar la pareja** ⚠️ (sólo tráiler)
+
+## 15 · Vestuario con hex medidos
+
+Hex medidos con `estilo.py` sobre renders y arte oficial; se dice de cuál sale cada uno.
+
+- **Six, impermeable amarillo (LN1): la ropa que todos reconocen.** Capucha triangular en punta, tres botones, dos bolsillos. Pelo negro corto que tapa media cara. Descalza. Medido en `Six.png`: **`#AA9C26`** amarillo mostaza del hule · `#F0EDD9` brillo · `#B8AE84` sombra clara · `#7C6F2E` sombra media · `#44371F` pliegue oscuro ✅
+- **Six, cárdigan gris (LN2):** camisa carbón y cárdigan gris manchado hasta las rodillas · `#3B382F` · `#222523` · `#151818` ⚠️ (render oscuro a propósito: mejor pensar «gris oliva carbón»)
+- **Six en *Very Little Nightmares*:** camisa blanca de manga corta y pantalón corto ⚠️ (sólo descripción)
+- **Six en el mechero:** siempre lleva un **Zippo** (su única posesión) ✅
+- **Mono, gabardina (LN2):** caqui de un botón hasta bajo la rodilla, camisa y pantalón gris pardo, bolsa de papel con dos agujeros ovalados. Medido en `Mono-Bully-Promo.jpg`: `#636157` caqui grisáceo · `#908C7C` zona iluminada · `#393E42` / `#2A2F35` es la luz azul del ambiente, no la tela ✅ (el foro de la wiki llega a lo mismo: caqui grisáceo, no marrón)
+- **Mono se prueba cabezas:** bolsas, cascos, cajas · hoja de sombreros #452 · https://static.wikia.nocookie.net/littlenightmares/images/7/7a/Mono_Hats.jpg ✅
+- **El Conserje:** piel pálida cetrina. En el cómic: `#90824A` · `#C9B474` · `#433E22` ⚠️ (luz del cómic, no del juego)
+- **La Dama:** kimono largo marrón oscuro, moño alto, máscara blanca tipo Noh. En el cómic sale con luz azul (`#574E67`, `#74748B`, `#99A6BA`), no es su color real ⚠️
+- **Chefs Gemelos:** gorro y uniforme blancos manchados ⚠️ (sin medir)
+- **Low:** máscara blanca de cuervo con un ojo más pequeño, capa azul oscuro, arco ✅ · **Alone:** mono verde, casco de aviador con gafas de latón, llave inglesa ✅ (colores sin medir ⚠️)
+- **Dime:** cabeza de lámpara ✅
+- **Figuras de papel oficiales** (papercraft de Six, Nome, Conserje, Dama): hojas #81, #87-89, #146, #151-152, #154 ✅ (vistas)
+
+## 16 · Fondos de pantalla
+
+**Oficiales** (de la web de 2017, resolución baja)
+- Six, sanguijuelas, Nomes y el ojo · 714×714 · https://static.wikia.nocookie.net/littlenightmares/images/9/97/Six_Leech_Nomes_Eye_Wallpaper.png ✅
+- Conserje, Dama y el ojo · 751×669 · https://static.wikia.nocookie.net/littlenightmares/images/8/8c/Janitor_Lady_Eye_Wallpaper.png ✅
+- Reparto completo de LN1 · 829×1035 · https://static.wikia.nocookie.net/littlenightmares/images/c/c5/Six_Lady_Twin_Chefs_Nomes_Leeches_Maw_Wallpaper.png ✅
+- Fondos de videollamada de LN2 (Cazador y Profesora), piden suscribirse al boletín · https://www.bandainamcoent.com/promotions/ln2-virtual-bg ⚠️
+- La Deluxe de LN2 trae un *wallpaper* dentro del bundle de Steam ⚠️
+- Las pantallas de juego de LN2 de la wiki a 3840×2160 y 2560×1440 sirven de fondo (en `referencias.json`) ✅
+
+**De fans, en alta (Wallhaven, votos ♥)** ✅
+- 4093×2302, ♥79, por bubbleboba, Mono y Six · https://w.wallhaven.cc/full/g7/wallhaven-g7d26e.jpg
+- 3840×2160, ♥65, por mvson · https://w.wallhaven.cc/full/g7/wallhaven-g77d6q.jpg · otro suyo en morado, ♥37 · https://w.wallhaven.cc/full/y8/wallhaven-y8896x.jpg
+- 1920×1080, ♥40, por Dysantium, negro y amarillo, etiqueta «alone» · https://w.wallhaven.cc/full/zx/wallhaven-zxleqw.png
+- 1920×1123, ♥63, bosque, por FISHMR13 · https://w.wallhaven.cc/full/72/wallhaven-72g553.jpg
+- Resto en `referencias.json` (uso personal, no comercial).
+- Foto de la Gamescom 2023 a 6960×6328 (punto 3), CC BY-SA ✅
 

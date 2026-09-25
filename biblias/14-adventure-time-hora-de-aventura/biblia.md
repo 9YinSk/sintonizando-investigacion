@@ -674,7 +674,8 @@ las escenas que hacen llorar.
   mano** («Marceline, is it just you & me in the wreckage of the
   world?…»)
   ([1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d2/S4e25_Simon%27s_note_to_Marcy.png)).
-  **Es el papel con letra que pide el concepto B.**
+  **Es la referencia del papel y la letra de la hoja de canciones del
+  concepto A y de la setlist del concepto B.**
 - **417-424** «Simon & Marcy» (5×14): baloncesto, en el puente, viendo
   una película con Simon; **423** llorando con Hambo (5×29).
 - **425-431** capturas de 5×38 con Finn, Jake y la Princesa; **432**
@@ -1523,13 +1524,60 @@ de aventura!»
 > Para #musica-nueva, el ambiente es **el del estreno casero**: bajo,
 > voz y ritmo hecho con la boca. No una superproducción.
 
+### 11.3 Lo nuevo de la segunda pasada ✅
+
+- **«Everything Stays» habla de la mamá de Marceline.** Lo dice la propia
+  **Rebecca Sugar** en su TikTok: «I wrote this song for Adventure Time
+  after I'd left to create Steven Universe… I was so touched to be asked
+  to write a song for **Marcy's mom**». Grabada con Jeff (@Jeffthatnoise)
+  en cuerdas ([TikTok, verificado por oEmbed](https://www.tiktok.com/@rebeccasugar/video/7380076323168996650)).
+  Fuente primaria: la compositora.
+- **Amy Lee (Evanescence)** subió su versión: «One of my favorite
+  #adventuretime songs» ([TikTok](https://www.tiktok.com/@evanescence/video/7008939931548568837)).
+  Buen ejemplo de un **cover de estreno** para el canal.
+- **La intro cambia en cada miniserie**: hay versiones propias para
+  «Islands», «Stakes», «Food Chain» y «Fionna & Cake», de 24-26 s cada una
+  ([Islands](https://www.dailymotion.com/video/x5whnwn),
+  [Stakes](https://www.dailymotion.com/video/x5whnw2),
+  [Food Chain](https://www.dailymotion.com/video/x5whp1h)) ⚠️ (existencia y
+  duración por la API de Dailymotion; no se miraron fotograma a fotograma).
+- **El disco en español** tiene 10 títulos reales, con «Acompáñame» como
+  título latino de «Come Along With Me» (§3.4).
+- **Qué suena en las escenas que hacen llorar**: «Remember You» con
+  omnichord y batería en «I Remember You» (4×25); «Everything Stays» en
+  «Estacas»; «Time Adventure» de BMO y la «Island Song» en el final
+  (10×13) ✅ (transcripciones y clips).
+- **Sonidos que todos reconocen** (de las transcripciones): el **siseo** de
+  Marceline («[Hisses]», casi en cada episodio), el **beatbox** de Finn, el
+  «**Boompa-boompa-boom**» de Jake en el final y el **grito «¡Hora de
+  aventura!»** de la intro ✅. **No hay onomatopeyas dibujadas** en
+  pantalla: es animación americana, el sonido va sólo en el audio.
+
 ---
 
 ## 12 · Vídeos
 
-> YouTube y TikTok estaban cerrados: **no pude ver los vídeos ni dar el
-> minuto dentro de ellos**. Van con su enlace, tal como salieron en la
-> búsqueda. Los minutos de las escenas están en §2 (del episodio).
+> **Segunda pasada**: YouTube sigue pidiendo sesión, así que **los vídeos
+> se vieron en Dailymotion** con `fotogramas.py` (12.0). Los enlaces de
+> YouTube de abajo son de la primera pasada: existen, pero no se miraron.
+> Los TikTok se comprobaron con su API pública (oEmbed).
+
+### 12.0 Vistos de verdad, con minuto (segunda pasada) ✅
+
+| Clip | Duración | Canal | Qué sirve, y en qué minuto |
+|---|---|---|---|
+| [Opening doblado al latino](https://www.dailymotion.com/video/x8p2dsj) | 0:29 | Espinof | la intro entera en latino, 1080p (§2.9) |
+| [«I'm Just Your Problem»](https://www.dailymotion.com/video/x537pqr) | 2:07 | **Cartoon Network** | vuelo con el bajo [0:16](https://www.dailymotion.com/video/x537pqr?t=16); cantando con rabia [0:52](https://www.dailymotion.com/video/x537pqr?t=52); tocando apoyada [1:32](https://www.dailymotion.com/video/x537pqr?t=92) |
+| [«Fry Song» Sing-a-Long](https://www.dailymotion.com/video/x51arca) | 0:52 | Toon Tunes de CN | flota bocabajo tocando 0:00; grabadora amarilla [0:12](https://www.dailymotion.com/video/x51arca?t=12); Finn con audífonos [0:40](https://www.dailymotion.com/video/x51arca?t=40) |
+| [Créditos finales](https://www.dailymotion.com/video/x4fakxm) | 0:33 | reload con logos reales | staff real sobre verde lima |
+| [Tráiler «Obsidian»](https://www.dailymotion.com/video/x7xejon) | 1:30 | reload, logo HBO Max | tazas en la cocina [0:16](https://www.dailymotion.com/video/x7xejon?t=16); flota tocando hacia el Reino de Cristal [0:36](https://www.dailymotion.com/video/x7xejon?t=36); bajo al hombro [1:08](https://www.dailymotion.com/video/x7xejon?t=68) |
+| [Tráiler «BMO» doblado](https://www.dailymotion.com/video/x7vjn4d) | 1:54 | HobbyConsolas | tráiler oficial en español de «Tierras lejanas: BMO» |
+| [«I Remember You»](https://www.dailymotion.com/video/xzt1l7) | 1:58 | emisión CN HD, audio francés | batería del Rey Helado [0:42](https://www.dailymotion.com/video/xzt1l7?t=42); la lágrima [1:18](https://www.dailymotion.com/video/xzt1l7?t=78); la Polaroid [1:36](https://www.dailymotion.com/video/xzt1l7?t=96) |
+| [Tráiler «Fionna & Cake»](https://www.dailymotion.com/video/x8nce5e) | 2:05 | HobbyConsolas | 720p; no sale la Marceline clásica |
+| [Episodio piloto subtitulado](https://www.dailymotion.com/video/x84oaz2) | 7:30 | Capra TV | Rey Helado [4:05](https://www.dailymotion.com/video/x84oaz2?t=245); Finn avergonzado [6:00](https://www.dailymotion.com/video/x84oaz2?t=360) |
+| [«Slumber Party Panic»](https://www.dailymotion.com/video/x8ghhnc) | — | clip con logo CN | Dulce Princesa preocupada [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132) |
+| [«Jake the Starchild»](https://www.dailymotion.com/video/x6gkz32) | — | clip oficial CN | Jake orgulloso [1:39](https://www.dailymotion.com/video/x6gkz32?t=99) |
+| [«The More You Moe…»](https://www.dailymotion.com/video/x3q931u) | — | clip con logo CN | BMO en calma [2:36](https://www.dailymotion.com/video/x3q931u?t=156) |
 
 ### 12.1 Oficiales (Cartoon Network)
 
@@ -1557,6 +1605,11 @@ de aventura!»
 - «**Everything Stays**» es **viral en TikTok**: versiones, mezclas con
   «Drift Away» de Steven Universe y dúos de hermanos ✅
   ([búsqueda de TikTok](https://www.tiktok.com/discover/everything-stays-adventure-time-full)).
+- Segunda pasada: los cuatro vídeos de abajo (Sugar, Evanescence, acubick
+  y la entrevista a Karla Falcón) se comprobaron con la **API oEmbed de
+  TikTok**: existen, con ese autor y ese título ✅. La de acubick dice:
+  «Por qué Jake el perro cambió de voz en las últimas temporadas de
+  #horadeaventura? doblaje: José Arenas».
 - **Rebecca Sugar** tiene TikTok y subió «Everything Stays»:
   [vídeo](https://www.tiktok.com/@rebeccasugar/video/7380076323168996650) ✅.
 - **Evanescence (Amy Lee)** hizo su versión:
@@ -1577,14 +1630,27 @@ de aventura!»
 
 ---
 
-## 13 · Videojuegos de la franquicia ⚠️
+## 13 · Videojuegos de la franquicia
 
-Ver §7.3. Lo único confirmado: existen (WayForward 2012, 2014, Climax
-2018) y el de 2012 tiene **más de 50 personajes** de las temporadas 1-3
+Ver §7.3 (sus interfaces) y el punto 23 (Fortnite, MultiVersus, LEGO
+Dimensions, Minecraft, Brawlhalla). Segunda pasada, la lista ampliada:
+
+| Juego | Estudio y año | Cómo es | Estado |
+|---|---|---|---|
+| **Hey Ice King! Why'd You Steal Our Garbage?!!** | WayForward, DS/3DS, 20-nov-2012 | historia escrita con **Pendleton Ward**; mapa desde arriba y mazmorras de lado, tipo *Zelda II*; Jake va en la mochila y saca objetos; 4 zonas (Grass Lands, Candy Kingdom, Red Rock Pass, Ice Kingdom); **retratos «Mugshots»** junto al texto | ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Hey_Ice_King!_Why%27d_You_Steal_Our_Garbage%3F!!), [Giant Bomb](https://giantbomb.com/wiki/Games/Adventure_Time_Hey_Ice_King_Whyd_you_steal_our_garbage), [Nintendo Life](https://www.nintendolife.com/reviews/ds/adventure_time_hey_ice_king_whyd_you_steal_our_garbage)) |
+| **Explore the Dungeon Because I DON'T KNOW!** | WayForward, 2013, PS3/360/Wii U/3DS | mazmorras en cooperativo hasta 4 | ⚠️ ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don%27t_Know!)) |
+| **The Secret of the Nameless Kingdom** | WayForward, 2014 | tipo Zelda | ✅ |
+| **Pirates of the Enchiridion** | Climax Studios, 2018 | mundo abierto inundado | ✅ |
+| **Card Wars** | Kung Fu Factory / CN, 2014-2019 (retirada) | cartas; menú metálico azul grisáceo, botón rojo «BATTLE!» (§7.3) | ✅ ([wiki](https://adventuretime.fandom.com/wiki/Card_Wars_(application))) |
+| **Card Wars Kingdom** | móvil | secuela | ⚠️ (sólo tiendas de APK) |
+
+Lo de la primera pasada: el de 2012 tiene **más de 50 personajes** de las temporadas 1-3
 y lugares como el Dulce Reino, el Reino Helado, el Espacio Grumoso y la
 casa del árbol ✅ ([Gaming Nexus](https://www.gamingnexus.com/Article/Adventure-Time-Hey-Ice-King!--Whyd-you-steal-our-garbage!!/Item3804.aspx),
 [Mash Those Buttons](https://mashthosebuttons.com/review/adventure-time-hey-ice-king-whyd-you-steal-our-garbage-review/)).
-**No sé cómo son sus cajas de diálogo.** No los propongo como cuadro.
+Sus cajas de texto en sí siguen sin captura ⚠️; sí se vieron los
+retratos del de DS y el menú de Card Wars (§7.3). No los propongo como
+cuadro principal de la lámina.
 También existe **Card Wars** (el juego de cartas del episodio, hecho
 juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 
@@ -1606,7 +1672,15 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 - **«Everything Stays»** en TikTok ✅.
 - El **bajo-hacha**: los fans lo **construyen de verdad** y lo modelan en
   3D ✅ (§3.5, §4.1).
-- **«Oh my Glob»** (Princesa Grumosa) ⚠️ en latino.
+- **«¡Oh por Glob!»** (Princesa Grumosa) ✅ en latino (segunda pasada, §10.4).
+- **La lucha para que volviera Karla Falcón** como Dulce Princesa
+  (firmas, grupo de Facebook, foros) ✅: el fandom latino **defiende sus
+  voces** (§10.2).
+- **«Bubbline» reconocida**: «Obsidian» fue **nominado a un GLAAD Media
+  Award** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen)).
+- **BMO, el favorito de Pendleton Ward** ✅ (§9).
+- En **Reddit** (r/adventuretime, que sí existe) la gente cuenta que lloró
+  con el final (punto 21) ✅.
 
 ### 14.2 Qué NO hacer (lo que un fan notaría)
 
@@ -1616,16 +1690,24 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 - **Filos plateados** fuera de la temporada 1: desde la 2 son **rojos** ✅.
 - Marceline **chupando sangre** o con colmillos de película: chupa **el
   color rojo** ✅, y sus colmillos son pequeños ⚠️. **Dos puntitos de
-  mordida en el cuello** ⚠️ (de memoria).
+  mordida en el cuello** ⚠️: la wiki tiene una captura llamada «S2e26
+  Missing bite mark» (hoja `escenas_09`, n.º 387), que señala un fallo de
+  animación **porque la marca falta**; así que la marca va.
 - Marceline **caminando con los pies en el suelo** todo el rato: **flota** ✅.
 - **Ojos grandes de anime**, sombras suaves, pelo con mechones
   realistas: la serie usa **ojos de punto**, línea fina y colores planos
   ✅ (§18).
 - **Codos y rodillas marcados**: son **brazos de fideo** ✅.
 - **Finn sin su gorro** (sólo se lo quita en momentos muy especiales) ⚠️.
-- Nombres de España: «Princesa Chicle», «Rey Hielo», «Hora de Aventuras»
-  ⚠️ (de memoria; el latino es **Dulce Princesa**, **Rey Helado**,
-  **Hora de aventura** ✅).
+- Nombres de España: «Princesa Chicle», «Rey Hielo» ⚠️ (de memoria) y
+  «Hora de Aventuras» ✅ (§7.4); el latino es **Dulce Princesa**, **Rey
+  Helado**, **Hora de aventura** ✅.
+- **Poner la censura de Cartoon Network** como si fuera «la versión»: en
+  Canal 2 (El Salvador) y Canal 5 (México) se vio **sin cortes**, y los
+  fans comparan ✅ (Doblaje Wiki).
+- **Olvidar el rojo en la ropa de Marceline**: como come el color rojo,
+  **siempre lleva algo rojo** «por si acaso» (salvo en «Red Starved») ✅
+  (wiki, punto 20).
 - Poner a Marceline **alegre de colorines** en pleno día sin sombrero:
   **de día lleva sombrero de sol y guantes** ✅ (3×10).
 - **Burbuja blanca genérica** (§7).
@@ -1636,10 +1718,54 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 
 ## 15 · Poses analizadas por personaje
 
-> Sin fotogramas descargados. Las poses salen de las **acotaciones de las
-> transcripciones** ✅ (qué hace) con **minuto estimado** ⚠️ (dónde
-> mirar). La mano, la mirada y el gesto que añado son **descripción mía
-> de memoria** ⚠️: comprobar en el fotograma.
+> **Segunda pasada**: primero van las poses **vistas en vídeo real**, con
+> minuto exacto, y las **6 poses oficiales del model sheet** tocando el
+> bajo. Las tablas de la primera pasada (de transcripción, minuto
+> estimado ⚠️) siguen debajo para las escenas sin clip.
+
+### Marceline, vistas en vídeo (segunda pasada) ✅
+
+| # | Clip | Minuto | Qué hace: postura, manos, mirada | Sirve para |
+|---|---|---|---|---|
+| V1 | «Fry Song» | [0:00](https://www.dailymotion.com/video/x51arca) | **flota bocabajo tocando el bajo**, de espaldas | presentar el «estreno casero» |
+| V2 | «Fry Song» | [0:32](https://www.dailymotion.com/video/x51arca?t=32) | primer plano, **ojos entornados, boca abierta**, canta triste | emocionar |
+| V3 | «I'm Just Your Problem» | [0:16](https://www.dailymotion.com/video/x537pqr?t=16) | **vuela hacia la puerta con el bajo por delante**, sombrero de sol | **anunciar**, entrar en escena |
+| V4 | «I'm Just Your Problem» | [0:52](https://www.dailymotion.com/video/x537pqr?t=52) | primer plano, **ceño fruncido, colmillos**, canta con fuerza | **regañar** |
+| V5 | «I'm Just Your Problem» | [1:32](https://www.dailymotion.com/video/x537pqr?t=92) | **apoyada en la puerta, toca relajada** con el sombrero | pensar, tocar con calma |
+| V6 | «I Remember You» | [0:24](https://www.dailymotion.com/video/xzt1l7?t=24) | de pie, **una mano en la cabeza**, angustia | **pensar**, dolor |
+| V7 | «I Remember You» | [1:00](https://www.dailymotion.com/video/xzt1l7?t=60) | **sentada, toca con cara seria** junto al Rey Helado a la batería | tocar a dúo |
+| V8 | tráiler «Obsidian» | [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | sentada en la cocina con **una taza humeante** | conversar, momento tranquilo |
+| V9 | tráiler «Obsidian» | [0:20](https://www.dailymotion.com/video/x7xejon?t=20) | sentada, **toca el bajo** con la Princesa cocinando detrás | **explicar** en casa |
+| V10 | tráiler «Obsidian» | [0:36](https://www.dailymotion.com/video/x7xejon?t=36) | **flota tocando** sobre un camino de piedra hacia el Reino de Cristal | **animar**, avanzar tocando |
+| V11 | tráiler «Obsidian» | [1:08](https://www.dailymotion.com/video/x7xejon?t=68) | de pie, **bajo al hombro**, con la Princesa y dos figuras de cristal | **presentar en grupo**, celebrar |
+| V12 | tráiler «Obsidian» | [1:24](https://www.dailymotion.com/video/x7xejon?t=84) | primer plano, **cara de susto** | sorpresa |
+
+**Las 6 poses oficiales tocando el bajo** (model sheet, ep. 062 = 3×10,
+§3.7): **A** de pie en cuesta (**presentar**), **B** echada atrás cantando
+con los ojos cerrados (**celebrar**), **C** doblada casi bocabajo con el
+bajo en alto (solo exagerado, **celebrar**), **D-E** sentada en el aire
+(**explicar** con calma), **F** primer plano cantando fuerte (**animar**).
+
+**La mejor para presentar #musica-nueva, con imagen real**: la **B** del
+model sheet o la **V10** del tráiler (flotando y tocando). Para
+**«nada de vida personal»**: la **V4** (ceño y colmillos) o la 4 de
+abajo (guiño). Para **pensar**: la **V6**.
+
+### Otros personajes, vistos en vídeo (segunda pasada) ✅
+
+| Personaje | Clip y minuto | Qué hace |
+|---|---|---|
+| Rey Helado | «I Remember You», [0:42](https://www.dailymotion.com/video/xzt1l7?t=42) | toca **una batería verde con «#1»** en el bombo |
+| Dulce Princesa | tráiler «Obsidian», [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | sentada, **taza humeante** en las manos |
+| Dulce Princesa | tráiler «Obsidian», [1:12](https://www.dailymotion.com/video/x7xejon?t=72) | **conduce una moto** con Marceline detrás |
+| Dulce Princesa | «Slumber Party Panic», [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132) | **manos juntas contra el pecho**, preocupada |
+| Finn | «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?t=40) | de pie, **audífonos puestos**, grabadora en alto |
+| Finn | piloto, [4:05](https://www.dailymotion.com/video/x84oaz2?t=245) | **llave de cabeza** al Rey Helado por detrás |
+| Jake | «I'm Just Your Problem», [0:04](https://www.dailymotion.com/video/x537pqr?t=4) | **corre tocando la viola** |
+| Jake | «Jake the Starchild», [1:39](https://www.dailymotion.com/video/x6gkz32?t=99) | sonrisa enorme de orgullo |
+| BMO | «The More You Moe…», [2:36](https://www.dailymotion.com/video/x3q931u?t=156) | en brazos, ojos cerrados, contento |
+
+### Marceline, de la primera pasada (transcripción, minuto estimado ⚠️)
 
 ### Marceline
 
@@ -1659,9 +1785,9 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 | 12 | «Obsidian», ≈18:47 | **se echa el bajo al hombro**: «Next up…» | **animar**, pasar a lo siguiente |
 | 13 | «Obsidian», ≈33:37 | ojos rojos, **se vuelve murciélago**: «MY BASS!» | **regañar fuerte** (usar poco) |
 
-**La mejor para presentar el canal**: la 10 (escenario) o la 6
-(grabando). **Para la regla «nada de vida personal»**: la 4 (guiño
-burlón) o la 11 (desgana).
+Primera pasada: **la mejor para presentar el canal**, la 10 (escenario,
+⚠️ sin clip) o la 6 (grabando, ya vista: V1). **Para «nada de vida
+personal»**: la 4 (guiño burlón) o la 11 (desgana).
 
 ### Finn
 
@@ -1726,31 +1852,86 @@ burlón) o la 11 (desgana).
   («full biker gear», ≈11:49).
 - De niña: camiseta de tirantes verde, pantalón marrón morado, botas
   moradas oscuras; o camiseta rosa y peto azul ✅ (wiki, por búsqueda).
-- **Pelo**: **negro, lisísimo y larguísimo**, hasta las rodillas o más ⚠️.
-- **Fijo**: piel gris azulada, **orejas puntiagudas**, **dos marcas de
-  mordida en el cuello** ⚠️ (de memoria).
+- **Pelo**: **negro, lisísimo y larguísimo**, hasta las rodillas o más
+  ✅ (se ve así en todos los model sheets de la hoja `personajes_01`).
+- **Fijo**: **piel casi blanca con un toque menta** (medida, abajo),
+  **orejas puntiagudas**, **dos marcas de mordida en el cuello** ⚠️ (ver
+  §14.2).
+- **Siempre algo rojo** en la ropa, porque come el color rojo ✅ (punto 20).
 
-### Finn ⚠️ (de memoria)
-Gorro blanco con **orejas de oso**, camiseta celeste, pantalón corto azul
-oscuro, calcetines blancos altos, zapatos negros, **mochila verde**.
+### Marceline, hex MEDIDOS (segunda pasada) ✅
 
-### Jake ⚠️
-Sin ropa; amarillo anaranjado, **orejas caídas**, hocico claro.
+Medidos con `estilo.py` y Pillow sobre imágenes oficiales. **El model sheet
+manda** (no tiene luz de escena); las capturas salen más oscuras.
 
-### Dulce Princesa ⚠️
-Piel y pelo rosa chicle, **corona dorada** con gema azul, vestido rosa;
-bata de laboratorio y gafas cuando hace ciencia.
+| Traje o parte | Hex medido | De dónde |
+|---|---|---|
+| **Piel** (color base) | **`#D8E7E7`** (y `#D9E7E7`) | model sheet «New Costume #1» (ep. 057) y recorte de «Drama Bomb», dos medidas |
+| Piel con luz de escena | `#657471` | «I'm Just Your Problem», fotograma 0:52, 12 puntos |
+| **Pelo** | **`#000000`** en model sheet; `#150209` y `#24080E` en escena | tira a **rojo muy oscuro**, nunca a azul |
+| «New Costume #1»: vestido camisero azul grisáceo | **`#83A5BC`** | model sheet ep. 057 |
+| «New Costume #1»: zapatos granate | **`#8C284F`** | model sheet ep. 057 |
+| **Traje de 3×10**: sombrero de sol mostaza | **`#BBAB4C`** luz / `#75691D` sombra | «I'm Just Your Problem», 0:52 |
+| Traje de 3×10: cinta del sombrero | `#4A7AA2` | mismo fotograma |
+| Traje de 3×10: top rojo oscuro | `#8C000C` a `#90000A` | mismo fotograma |
+| **Suéter a rayas** (nocturno) | rojo `#5F120D` / azul negro `#090B25` | captura «S2e1 Drama bomb», de noche |
+| Suéter a rayas en «Fry Song» | rojo `#630515` / gris oscuro `#2C080C` | «Fry Song», 0:16 |
+| Bajo-hacha: filos | rojo `#9E1B1E` a `#C22B2F` ⚠️ | escenas; no salió un píxel limpio por el brillo |
 
-### BMO ⚠️
-Consola turquesa, **pantalla con cara**, cruceta amarilla, botones de
-colores, piernas y brazos finitos.
+**Corrige a la primera pasada**: además de la camiseta gris, son muy
+repetidos el **suéter a rayas rojo con cuello alto** y el **traje de 3×10
+con sombrero de sol**, que tiene **6 poses oficiales tocando** (§3.7). La
+hoja `personajes_01` enseña varios trajes de día (n.º 9-14, 19-23) y el
+murciélago (2-4).
+
+### Finn ✅ (segunda pasada, medido)
+Gorro blanco con **orejas de oso**, camiseta **azul `#018BCB`**, pantalón
+corto azul oscuro, calcetines blancos altos, zapatos negros, **mochila
+verde `#7BBB59`**, piel **durazno pálido `#FDE5DA`** (model sheet
+[«Original Finn»](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png),
+1467×2385). La primera pasada decía piel «celeste»: era la camiseta.
+
+### Jake ✅ (medido)
+Sin ropa; amarillo anaranjado **`#FEB925`** (40 % del model sheet
+[«Jakesalad»](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3b/Jakesalad.png)),
+**orejas caídas**, hocico claro.
+
+### Dulce Princesa ✅ (medido; corona ⚠️)
+Piel y pelo rosa chicle en dos tonos, **`#ED8ACE`** y **`#F3BBFB`** en la
+luz (captura [«Princess Bubblegum Duct Tape»](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f5/Princess_Bubblegum_Duct_Tape.png),
+2880×1618). **Corona dorada** con gema azul ⚠️ (sin medir), vestido rosa;
+bata de laboratorio cuando hace ciencia; capa roja en «Stakes» (hoja
+`personajes_02`, n.º 67-79). Es el personaje con **más vestuarios** ✅.
+
+### BMO ⚠️ (sin medir)
+Consola turquesa (`#6CC3B3`, de memoria: el fondo rosa tapaba la muestra),
+**pantalla con cara**, cruceta amarilla, botones de colores, piernas y
+brazos finitos.
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-- **No bajé ni medí ninguno** (red cerrada). Lo que existe y conviene
-  buscar desde un PC con red:
+- **Segunda pasada: fondos de pantalla con tamaño y autor** (API de
+  Wallhaven, filtro «sfw»). **Son fan art**, no oficiales ✅:
+
+  | Id | Tamaño | Autor | Favoritos | Qué es |
+  |---|---|---|---|---|
+  | [zxo8vg](https://wallhaven.cc/w/zxo8vg) | **3600×2400** | RaidMath | 40 | todo el elenco (Marceline, Dulce Princesa, Jake, Rey Helado, BMO, Lady Arcoíris) sobre fondo de Cartoon Network |
+  | [0wy167](https://wallhaven.cc/w/0wy167) | 1800×1000 | Oniofash | 52 | collage de Marceline, Simon y Dulce Princesa |
+  | [45zpo5](https://wallhaven.cc/w/45zpo5) | 1639×1165 | Linez | 34 | Jake, Finn, Dulce Princesa y Marceline |
+  | [0wxpgp](https://wallhaven.cc/w/0wxpgp) | 1920×1036 | 8bitcartoon | 57 | Finn y Jake en **pixel art** (paleta reducida) |
+
+- **Fondos oficiales en alta**: Cartoon Network no tiene página de
+  descargas ⚠️ (no encontré). Lo más cercano son las portadas de disco y
+  el key art de «Obsidian» (oficiales, pero no 16:9).
+- **Sitios vistos en capturas oficiales** (hojas): casa de Marceline por
+  dentro, rosa con piso azul verdoso (`escenas_09` n.º 385, 403); la puerta
+  dorada de 3×10 de día (393); el Dulce Reino rosa (`personajes_02`,
+  52-61); la playa al atardecer (94-95).
+- **La casa del árbol en 3D**, CC BY, de gleksono ([Sketchfab](https://sketchfab.com/3d-models/none-0131dc63d8894892b0c87dc852f23984)):
+  para darle luz real en Blender (§4.1.b).
+- Lo de la primera pasada, que sigue valiendo:
   - **Arte de los discos** (§3.4): la caja de Mondo (JJ Harrison), «Come
     Along With Me» y «BMO's Mixtape» (Jesse Balmer), «Obsidian» (Maya
     Petersen). Son **ilustraciones oficiales grandes y nuevas**.
@@ -1763,8 +1944,9 @@ colores, piernas y brazos finitos.
   - Una idea de fans para **LEGO de la casa-cueva de Marceline**:
     [LEGO Ideas](https://ideas.lego.com/product-ideas/8238723e-457a-45b2-894c-a13fca85eeda)
     (sirve para ver la casa en 3D) ⚠️.
-- La hora del día: **noche o cueva** para Marceline; **tarde dorada**
-  para la casa del árbol ⚠️ (§5.2).
+- La hora del día: **noche o cueva** para Marceline ⚠️; **de día con
+  sombrero** en 3×10 ✅; **violeta de noche mágica** en el Reino de Cristal
+  ✅; **tarde dorada** para la casa del árbol ⚠️ (§5.2).
 
 ---
 
@@ -1786,16 +1968,22 @@ colores, piernas y brazos finitos.
 - **Caras**: **ojos de punto negro** y **boca de una línea** o una
   curva ✅ (mismas fuentes).
 - **Fondos**: **pintados**, con más textura y detalle que los
-  personajes, y colores más suaves ⚠️.
+  personajes, y colores más suaves ⚠️. En «Tierras lejanas» (Obsidian)
+  el sombreado es **más pintado, con degradado** ✅ (§5.2).
+- Producción real: **dibujo a mano en papel**, compuesto y pintado en
+  digital; preproducción en Photoshop (punto 18) ✅/⚠️.
 
 ### 18.2 Marceline, rasgos fijos
 
-- Piel **gris azulada pálida**, **pelo negro lisísimo** hasta más abajo
-  de la cintura, flequillo partido ⚠️, **orejas puntiagudas**, colmillos
-  pequeños, **dos puntos de mordida en el cuello** ⚠️.
+- Piel **casi blanca con un toque menta** (`#D8E7E7`, medida; la primera
+  pasada decía gris azulada), **pelo negro puro** (`#000000`) lisísimo
+  hasta más abajo de la cintura, flequillo partido ⚠️, **orejas
+  puntiagudas**, colmillos pequeños, **dos puntos de mordida en el
+  cuello** ⚠️. **Siempre algo rojo** en la ropa.
 - **Flota**. Cuerpo largo y delgado.
 - Ropa por defecto: **camiseta gris de tirantes, vaqueros, botas rojas**
-  ✅.
+  ✅. De día: **sombrero de sol mostaza `#BBAB4C`** con cinta azul
+  `#4A7AA2`, top rojo oscuro `#8C000C` y botas marrones (3×10) ✅.
 - **El bajo-hacha**: hacha de doble filo **roja**, mástil de madera,
   **cuatro cuerdas**, **dos clavijas a cada lado** de la pala ✅.
 
@@ -1819,12 +2007,73 @@ realistic, 3D render, glossy, Pixar`, `vampire blood, gore` (Marceline
 
 ### 18.5 Qué referencias usar
 
-- **De estilo**: el arte de los discos oficiales (§3.4) y las cartelas
-  (§3.2).
-- **De pose**: los momentos de §15 (sobre todo Marceline 6, 8 y 10).
+- **De estilo**: el arte de los discos oficiales (§3.4), las cartelas
+  (§3.2) y **los model sheets** de §3.7 (línea y color limpios, sin luz de
+  escena).
+- **De pose**: las **6 poses oficiales tocando el bajo** (Special Pose
+  A-F, §3.7), las V1-V12 de §15 vistas en vídeo y, en las hojas,
+  `personajes_01` n.º 36 (tocando en el huerto) y `escenas_09` n.º 393
+  (cantando en la puerta).
 - **Del objeto**: el modelo 3D de Yogensia (§4.1) y las fotos de
   réplicas reales (§3.5).
 - **De luz para Blender**: el [HDRI Cave Wall](https://polyhaven.com/a/cave_wall) (§5.4).
+- **Frase de prompt para Marceline** (IA de imagen): `Marceline, pale
+  mint-white skin, very long straight pure black hair to the knees,
+  pointed ears, floating in the air, wide mustard sun hat with blue band,
+  dark red top, brown boots, playing a red double-bladed battle axe bass
+  guitar with 4 strings, flat 2D cartoon, thin uniform outline, dot eyes,
+  noodle arms, pink room background`.
+
+### 18.6 Para una IA de texto: cómo escribir en su voz
+
+**Reglas de voz** ✅ (transcripciones, audios de Doblaje Wiki y wiki):
+- **Marceline**: frases cortas y relajadas, burla suave, **cero
+  signos de exclamación salvo cuando se enfada**. Presume sin esfuerzo y
+  cambia a hablar bajito cuando algo le importa. Guiña después de asustar.
+  Su voz latina es **aguda y muy expresiva** (295 Hz, 17 semitonos).
+- **Finn**: todo con **exclamaciones**, rápido (3,5 palabras por segundo
+  en el audio), heroico, caballeroso; **«¡Matemático!»** y
+  **«¡Algebraico!»** en vez de palabrotas.
+- **Jake**: tranquilo, de hermano mayor; en latino, **modismos
+  mexicanos** («compadre», «¡Ay, mamachita!», «Nunca me hagan eso»).
+- **Dulce Princesa**: correcta, algo mandona, **palabras técnicas**;
+  muy aguda y rápida.
+- **BMO**: niño seguro de sí mismo, **a veces en tercera persona**, risas
+  largas («¡Jajajajaja!»).
+- **Princesa Grumosa**: **«¡Oh por Glob!»**. En Ooo, **«Glob»** es «Dios».
+
+**Frases reales, por emoción** (en inglés lo que es de transcripción; en
+español, lo que es del doblaje oído):
+
+| Emoción | Frase real | Quién, dónde |
+|---|---|---|
+| Alegre | «Hey, guys. What's up? I'm Marceline the Vampire Queen» | Marceline, 1×12 |
+| Alegre | «¡Jajajajajaja! ¡Juguemos a policías y ladrones!» | BMO, audio del doblaje |
+| Alegre | «I am proud of my punk daughter!» | Hunson, 10×07 |
+| Burlona | «Calm down, weenies» · «You know I eat the color red sometimes» [guiña] | Marceline, 1×12 y 1×22 |
+| Enfadada | «My bass. MY BASS!» [ojos rojos] | Marceline, «Obsidian» |
+| Enfadado | «¡La hora es suya, pero el día será mío!» | Rey Helado, audio del doblaje |
+| Explicando | «Music is powerful, man. It speaks to a primal pit in our brains» | Jake, 10×13 |
+| Explicando | «A good song can really wrap people up in a mood, better than any words alone could» | Hoyo Musical, 10×13 |
+| Explicando (mandona) | «Marceline, begin playing triplet quavers in mixolydian mode» | Dulce Princesa, 3×10 |
+| Animando | «Estoy para ti, hermano… Todo estará bien. Vayamos de compras» | Jake, audio del doblaje |
+| Animando | «¡Los veo en el dulce reino! ¡Esta noche!» | Dulce Princesa, audio del doblaje |
+| Animando | «Sing out, sister!» · «Everyone! I need you all to harmonize» | Rey Helado 4×25 · Dulce Princesa 10×13 |
+| Triste | «Daddy, there were tears there» | Marceline, «Fry Song», 0:48 |
+| Triste | «I was so afraid something bad would happen to you, and I wouldn't be there» | Marceline, 10×13 |
+| Triste (heroico) | «Uno de nosotros será sacrificado para que los otros vivan… No traten de convencerme» | Finn, audio del doblaje |
+
+**Vocabulario de expresiones para la IA de imagen** ✅ (visto en
+fotogramas y model sheets): **ojos de punto negro**; **boca en rayita**
+(vergüenza) con **óvalo rosa** en las mejillas; **boca en zigzag** y cejas
+caídas (molestia); **dientes apretados en triángulo** y **una sola
+lágrima** (tristeza de Marceline); **ceño fruncido y colmillos**
+(rabia); **ojos rojos** y **transformación en murciélago o monstruo**
+(rabia extrema); **ojos enormes blancos con franja negra** (Jake
+emocionado); **ojos en dos curvas** (BMO feliz); **manos juntas contra el
+pecho** (Dulce Princesa nerviosa). La serie **no usa gotas de sudor de
+anime, fondos de emoción ni chibi**: su versión «simplificada» son los
+retratos del juego de DS (§7.3).
 
 ---
 
@@ -1833,6 +2082,14 @@ realistic, 3D render, glossy, Pixar`, `vampire blood, gore` (Marceline
 Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 **traducción mía**, no del doblaje (no la encontré). Recortes siempre por
 `v3/integrar.py` y comprobados a 1:1.
+
+> **Segunda pasada: qué cambió en los conceptos.** Los tres siguen, pero
+> ahora tienen **imágenes reales vistas**: las **6 poses oficiales tocando
+> el bajo** (§3.7), las poses V1-V12 con minuto (§15), la **paleta medida**
+> de la casa de Marceline (§5.2.b), la **grabadora amarilla** de «Fry Song»,
+> la **nota de Simon** como modelo de papel escrito a mano (hoja
+> `escenas_09` n.º 408) y modelos 3D **CC BY** del bajo (Haxis), BMO y la
+> casa del árbol (§4.1.b).
 
 ### Concepto A — «El estreno en la caja» (Marceline en su casa)
 
@@ -1844,12 +2101,22 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   reflejos azules.
   - En Blender: caja de cartón con tapa, vinilos de colores (amarillo,
     azul oscuro y rosa, como los de Mondo), casete, el bajo (modelo de
-    Yogensia o hecho a mano), sofá sencillo. Cartón y madera de
-    ambientCG/Poly Haven (§5.4).
-- **Personaje**: **Marceline flotando** encima de la caja, **tumbada en
-  el aire boca abajo**, con un disco en la mano (pose de §15 n.º 2-3:
-  relajada, burlona). Referencia de pose: «Evicted!» ≈2:31 y «Marceline's
-  Closet» ≈8:41 (flota sobre la cama).
+    **Haxis, CC BY**, o el de Yogensia), sofá sencillo. Cartón
+    **Cardboard001-004** y madera **Wood092-095** de ambientCG, CC0 (§5.4).
+  - **Segunda pasada**: la casa por dentro es **rosa `#F8AEC5`** con techo
+    `#FBE0E8` y **sofá rojo `#D94344`** (medido en «Fry Song»); piso azul
+    verdoso (hoja `escenas_09` n.º 385 y 386: el sofá rojo con Finn y
+    Jake). Sobre la mesa, **la grabadora amarilla** de «Fry Song»
+    ([0:12](https://www.dailymotion.com/video/x51arca?t=12)): el objeto
+    con que Marceline graba sus estrenos.
+- **Personaje**: **Marceline flotando** encima de la caja, **sentada en
+  el aire con el bajo**, como la **Special Pose D** del model sheet
+  oficial (§3.7,
+  [imagen](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/59/Modelsheet_marceline_innewoutfit_playingaxebass_-_specialposed.jpg)),
+  o **bocabajo tocando** como en «Fry Song»
+  ([0:00](https://www.dailymotion.com/video/x51arca), pose V1). Ropa de
+  casa: camiseta gris y vaqueros, o el **suéter a rayas rojo** de «Fry
+  Song» (`#630515`), con su rojo de siempre.
 - **Cómo habla**: **no hay globo**. Su frase va **escrita con rotulador
   en la hoja de letras** que asoma de la caja, con **Rock Salt**:
   «**Sólo lo que acaba de salir. Lo demás, pa' otro lado.**» (mía).
@@ -1866,7 +2133,10 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   el **mástil del bajo cruza la imagen** por delante de la caja; luz
   **cálida de vela** desde un lado y **luz fría de la laguna** por la
   ventana del otro; un vinilo **medio fuera de la funda** proyectando
-  sombra.
+  sombra. Ojo: dentro de la casa la serie usa **luz plana y cálida**
+  (§5.2); la laguna por la ventana es lo único frío.
+- **La hoja de letras**: papel crema arrugado con letra a mano en tinta
+  negra, como **la nota de Simon** (`escenas_09` n.º 408).
 - **Lámina 2** (si se quiere explicar cómo publicar): la **contraportada
   de la caja**, con los campos del mensaje como si fuera la **lista de
   canciones** (artista, título, tipo, fecha, enlace). **Los campos los
@@ -1882,9 +2152,15 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   - En Blender: tablas del escenario, amplificador (caja con rejilla),
     papel arrugado con cinta, niebla volumétrica y un foco.
 - **Personaje**: **Marceline apareciendo entre la niebla** con el bajo
-  colgado (pose de §15 n.º 10, 10×07 ≈7:00), un brazo arriba saludando al
-  público. Alternativa: **echándose el bajo al hombro** («Obsidian»
-  ≈18:47) para «lo siguiente».
+  colgado (pose de §15 n.º 10, 10×07 ≈7:00 ⚠️: sin clip), un brazo arriba
+  saludando al público. **Segunda pasada, pose con imagen real**: la
+  **Special Pose B** (echada atrás, ojos cerrados, cantando,
+  [model sheet](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d6/Modelsheet_marceline_innewoutfit_playinaxebass_-_specialposeb.jpg))
+  o la **V4** (ceño y colmillos cantando con fuerza,
+  [0:52](https://www.dailymotion.com/video/x537pqr?t=52)). Alternativa:
+  **bajo al hombro** (tráiler «Obsidian»,
+  [1:08](https://www.dailymotion.com/video/x7xejon?t=68)) para «lo
+  siguiente».
 - **Cómo habla**: su saludo va **en el cartel del concierto** pegado a
   una lápida (cartel punk, **Bungee**), y la frase del personaje, **en la
   setlist**, con su letra (**Permanent Marker**): «**¡Hola, cementerio!
@@ -1911,11 +2187,17 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   apoyado** al lado, como la portada real de «**BMO's Mixtape**» (§3.4).
   BMO es un objeto que se puede modelar en Blender (una caja con
   pantalla y botones).
-- **Personajes**: **BMO** en la mesa; **Finn** haciendo beatbox y
-  **Jake con su viola** detrás (poses de §15: Finn 1, Jake 2), escuchando
-  como al final de la serie («Would you like to hear it?» «Sure!»
-  «Yeah!», 10×13 ≈43:04). Marceline puede asomar flotando por la ventana
-  con el bajo, para que la protagonista siga en la lámina.
+- **Personajes**: **BMO** en la mesa; **Finn con audífonos** escuchando
+  (visto en «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?t=40))
+  y **Jake con su viola** detrás (corre tocándola en «I'm Just Your
+  Problem», [0:04](https://www.dailymotion.com/video/x537pqr?t=4)),
+  escuchando como al final de la serie («Would you like to hear it?»
+  «Sure!» «Yeah!», 10×13 ≈43:04). Marceline puede asomar flotando por la
+  ventana con el bajo, para que la protagonista siga en la lámina.
+  - En Blender, segunda pasada: **BMO** ([featbear456978, CC BY](https://sketchfab.com/3d-models/none-ffeb3e9ab97e4e3dbed4ddc0650d8b9b))
+    y **la casa del árbol entera** ([gleksono, CC BY](https://sketchfab.com/3d-models/none-0131dc63d8894892b0c87dc852f23984)):
+    el sitio real en 3D. Dato para el texto: **BMO era el favorito de
+    Pendleton Ward** (§9).
 - **Cómo habla**: **en la pantalla de BMO**, con letra de píxel
   (**VT323**): «**¿QUIEREN OÍRLA? ES NUEVA.**» (mía, sobre la frase del
   Hoyo Musical).

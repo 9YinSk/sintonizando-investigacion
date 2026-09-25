@@ -84,7 +84,7 @@ fecha: 2026-09-25
 - Tres conceptos de lámina
 - Lo que no pude verificar
 - Cumplimiento del encargo
-- Bitácora de búsqueda
+- Bitácora
 
 ## 0 · Dónde encaja (Frieren sigue sin canal)
 
@@ -1687,3 +1687,588 @@ Leveling, Vinland Saga) están en **33 Punto 24**. Aquí, con la lupa del
 lo piden cinco series y #🌟・destacados, seis (buscado con `grep` en
 `biblias/*/biblia.md`). Se mantiene **A · #🌟・destacados** porque la
 estatua es el símbolo de la memoria en la serie; el dueño elige.
+
+## Punto 25 · El mundo, la historia y sus símbolos de memoria
+
+**Las reglas del mundo en cinco líneas** (maná, *Zoltraak*, rangos de la
+Asociación, esconder el maná, vidas de distinto largo) y **la historia por
+arcos** con capítulos están en **33 Punto 25.1 y 25.2** ✅. Resumen en
+una línea: **una elfa que vive mil años aprende, tarde, lo que valían diez
+años con unos humanos**. Aquí, los símbolos de la memoria.
+
+### 25.1 El mapa oficial es un mapa de recuerdos
+
+La página «旅の軌跡を辿る地図» numera los **28 episodios de la T1** como
+paradas de un viaje ·
+[frieren-anime.jp/special/map/](https://frieren-anime.jp/special/map/) ✅
+(texto leído con `navegar.py`; el dibujo no cargó ⚠️). Títulos, tal como
+salen (traducción mía de los que sirven para memoria):
+
+| N.º | Título | Qué dice |
+|---|---|---|
+| ① | 冒険の終わり | «El fin de la aventura» |
+| ② | 別に魔法じゃなくたって… | «No hace falta que sea magia…» |
+| ③ | 人を殺す魔法 | «La magia que mata» |
+| ④ | 魂の眠る地 | «La tierra donde duermen las almas» (Aureole) |
+| ⑤ | 死者の幻影 | «La ilusión de los muertos» |
+| ⑥ | 村の英雄 | «El héroe del pueblo» |
+| ⑦ | おとぎ話のようなもの | «Algo así como un cuento» |
+| ⑧ | 葬送のフリーレン | el título de la serie |
+| ⑨-⑮ | 断頭台のアウラ · 強い魔法使い · 北側諸国の冬 · 本物の勇者 · 同族嫌悪 · 若者の特権 · 厄介事の匂い | ⑪ «El invierno de los países del norte», ⑫ «El verdadero héroe» |
+| ⑯-㉑ | ⚠️ no se capturaron bien (orden del HTML) | — |
+| ㉒-㉗ | 次からは敵同士 · 迷宮攻略 · 完璧な複製体 · 致命的な隙 · 魔法の高み · 人間の時代 | ㉗ «La era de los humanos» |
+| **㉘** | **また会ったときに恥ずかしいからね** | «Porque me daría vergüenza cuando nos volvamos a ver»: **el cierre más «memoria» de la T1** |
+
+### 25.2 La estatua es una tumba (y una herencia)
+
+- Un despacho de gestión administrativa japonés, que escribe de herencias
+  y tumbas, analiza la estatua de Himmel **como una sepultura**: «el
+  monumento cumple la misma función que una tumba», un **«lugar de apoyo
+  para el corazón»** (心の拠り所) para que los vivos sigan unidos al muerto.
+  La fe de Himmel «sigue viva en Frieren, y luego **se hereda** a Fern y
+  Stark» (継承, «sucesión») ·
+  [office-tokiwa.com](https://office-tokiwa.com/eiga24/) (30-ago-2024) ✅
+  (amplía 33 Punto 25.3: «las estatuas de Himmel están en todas partes»).
+- La estatua sale en la **Capital**, la **ciudad fortificada**, **Turk**
+  con su hierba luna azul, **el monasterio de Korridor**, y hasta en
+  **MapleStory** (Punto 23.2). Hay **modelo 3D libre** (Punto 18.5).
+
+### 25.3 Los sitios y objetos de la memoria (lo que un fan reconoce)
+
+| Símbolo | Qué es | Dónde |
+|---|---|---|
+| **Aureole** (オレオール, 魂の眠る地) | «la tierra donde descansan las almas», **el Cielo**, en el norte (Ende); allí estaría la Diosa de la Creación. **El destino del viaje**: reencontrarse con Himmel | [wiki, «Aureole»](https://frieren.fandom.com/wiki/Aureole) ✅ · Punto 1 |
+| **Himmel = «cielo»** | el nombre del héroe apunta al sitio adonde se viaja | Punto 20 ⚠️ |
+| **La estatua de Himmel** | memoria hecha piedra, tumba y herencia | 25.2 |
+| **La hierba luna azul** (蒼月草) | la flor de su país, que Frieren hace crecer en su estatua | T1-02, 14:47-16:25 (33 §2) |
+| **Los meteoros de Era** | cada 50 años; la promesa de volver al mismo sitio | T1-01 (33 §2) · Punto 21.2 |
+| **La autobiografía de Himmel** | su letra, el viaje visto por él, **páginas en blanco** al final | T2-37, 15:47 · Punto 6 |
+| **Las siluetas translúcidas** | así se pintan los muertos | EP4, Flamme · Punto 2 |
+| **El monasterio del lago Korridor** | isla, biblioteca circular, estatua, hierba entre los bancos: **paisaje + memoria en un solo edificio** | `paisajes_01` n.º 33-37 |
+| **La Tierra Dorada** (黄金郷) | ciudad convertida en oro; arco del manga cap. 77-104 (33 Punto 25.2). Según la wiki, **empieza en el ep. 37** ([ficha del arco](https://frieren.fandom.com/wiki/The_Golden_Land_Arc)) | ⚠️ una fuente; sin fotograma del anime |
+
+### 25.4 La historia de la memoria, por arcos (en pocas líneas)
+
+Lo mínimo para entender los conceptos (el detalle, en 33 Punto 25.2):
+1. **Fin de la aventura**: vencen al Rey Demonio y ven juntos los
+   meteoros; prometen volver en 50 años.
+2. **Muerte de Himmel** (eps. 1-2): en el funeral, Frieren entiende tarde.
+   Montaje rápido de paisajes: pasan décadas en segundos.
+3. **El viaje al norte**, hacia **Aureole**, con Fern y Stark: vuelve a
+   sitios donde estuvo con Himmel y **encuentra sus estatuas**.
+4. **El lago Korridor** (T2-37): la autobiografía que acaba en blanco.
+5. **La Tierra Dorada** (manga; empieza al final de la T2 ⚠️).
+
+## Tres conceptos de lámina
+
+Frieren **no tiene canal** (§0). Tres ideas para tres canales, de más a
+menos recomendable, **distintas de las tres de 33** (grimorios, diario de
+Himmel en la ventana, meteoros en la plaza). Las tres siguen las reglas de
+la memoria de esta biblia:
+
+- **No hay globo**: la información va **escrita en un objeto del sitio**
+  (placa, mapa, libro) o no va (Punto 6.3).
+- **El personaje va pequeño o de espaldas**; Himmel, **sólo estatua o luz
+  dorada translúcida** (Punto 14 y 17.1).
+- **La luz manda**: una de las cinco del Punto 17.2.
+
+Los textos del canal salen de `servidor/inventario.md`. Las frases en la
+voz de la serie son **propuestas mías** salvo las que llevan fuente.
+
+### Concepto A · #🌟・destacados — «La estatua en el campo de hierba luna azul» ⭐ recomendado
+
+**Por qué**: el canal dice «Lo que junta estrellas acaba aquí solo. **Aquí
+no se escribe.**». Una estatua **se mira, no se escribe**. Himmel mandó
+hacer sus estatuas para que lo recordaran y para que Frieren **no estuviera
+sola en el futuro** (33 §2). Y Himmel es **el más votado** en las
+encuestas oficiales (Punto 7).
+
+- **Objeto real en sitio real**: **la estatua de bronce de Himmel** en su
+  pedestal, con **una placa de bronce grabada**, en **el campo de hierba
+  luna azul** que Frieren hizo crecer en la región de Turk (T1-02,
+  14:47-16:25; 33 `escenas_01` n.º 8). Aspecto del bronce verde:
+  `paisajes_01` n.º **31**; concept art de la estatua: n.º **77**.
+- **En Blender**: [«Himmel The Hero»](https://sketchfab.com/3d-models/none-18793206124245eb8e20fafc95b868ab)
+  y [«Himmel the Hero Pedastal»](https://sketchfab.com/3d-models/none-8f3f0a27429341149ccc442ef24ee0c0),
+  de **bmwylam**, **CC BY** (crédito: «Himmel The Hero» y «Himmel the Hero
+  Pedastal» by bmwylam, CC BY). Bronce con pátina de Poly Haven (33 §5.4).
+  **La placa se modela**: letras hundidas en el metal, para que la luz
+  real entre en el grabado (regla 1 del dueño). Suelo: Grass001 (Punto
+  19). Flores: fotos de las **nemófilas de Hitachi** como referencia
+  (Punto 18.1).
+- **Personajes**: **Himmel es la estatua**, en contrapicado suave (la guía
+  de 33 §18.1 reserva el contrapicado para Himmel, §15.4).
+  **Frieren**, pequeña, **de pie y de espaldas** a la izquierda, con el
+  **bastón apoyado en el suelo**, mirando la estatua (pose de
+  [PV2 1:27](https://www.dailymotion.com/video/x8mkolb?t=87),
+  `memoria_01` n.º 12; regla de pose del Punto 14). No se le ve la cara.
+- **Cómo habla**: **la placa es el cuadro de diálogo**. Letra **Kaisei
+  Tokumin 800**, en mayúsculas espaciadas, grabada (Punto 5.1). El
+  recuerdo de Himmel, en una **cartela de luz dorada translúcida** (la del
+  tráiler, 33 §7.4, pero dorada y medio transparente: Punto 6.3).
+- **Dónde va cada texto**:
+  - **Placa, grande**: «LO QUE JUNTA ESTRELLAS ACABA AQUÍ SOLO.»
+  - **Placa, debajo y pequeña**: «Aquí no se escribe.»
+  - **Cartela dorada**, a la derecha de la estatua, a la altura de su
+    cabeza: «Esto es para que no te sientas sola cuando estés en un futuro
+    lejano.» (Himmel, doblaje latino,
+    [K8XwKilGTg0 0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13)).
+    ⚠️ La palabra «futuro» está mal oída según 33: **escuchar el clip
+    antes de imprimirla**. Si no se confirma, dejar sólo la placa.
+  - **Frieren no dice nada** (*yohaku*, Punto 6.2).
+- **Luz y paleta**: **tarde dorada de otoño**, luz lateral (oro `#E0A053`
+  `#F2DA7E`, 33 §5.2); flores `#39375A` `#7D709A`; cielo `#F9F9E5`
+  `#F7F3B8`; bruma al fondo `#F1F4E8`.
+- **Para que no quede plano**: **flores azules desenfocadas en primer
+  plano**, tapando la parte baja del cuadro (como el PV2 1:27);
+  **pétalos al viento** cruzando por delante de la estatua; la luz lateral
+  **dibuja el borde del bronce** y entra en las letras de la placa;
+  Frieren **a contraluz**; niebla suave detrás.
+
+### Concepto B · #📸・fotos — «El mapa del viaje»
+
+**Por qué**: el canal es de fotos propias: «lo que veis, **dónde
+grabáis**». La web oficial ya convirtió la T1 en **un mapa con 28 paradas
+numeradas** ①-㉘ (Punto 25.1). Cada foto que se sube es **una parada**.
+
+- **Objeto real en sitio real**: **un mapa de papel del continente**,
+  desplegado sobre **la mesa de la terraza de la posada de Warm**, al
+  atardecer, con el mar y el acueducto curvo detrás (EP3; `memoria_01`
+  n.º 8; `paisajes_02` n.º **57**, **64** y **88**, la cena en la terraza en
+  el manga).
+- **En Blender**: un plano subdividido con **pliegues reales** del papel
+  (la tinta sigue las arrugas, regla 1 del dueño), textura Paper 006
+  (CC0, 33 Punto 19.2). Una esquina levantada por la brisa. La mesa, con
+  madera de Poly Haven (33 §5.4).
+- **Personajes**: **Frieren y Fern**, sentadas en el plano medio, **a
+  contraluz, casi en silueta**, mirando el mar (`memoria_01` n.º 8). Se
+  distingue el blanco de Frieren del morado de Fern (Punto 15).
+- **Cómo habla**: **el mapa es el cuadro de diálogo**. Título en **Zen
+  Antique** (letrero viejo), paradas con **números en círculo** (Punto 5.3;
+  ⚠️ comprobar que la letra los trae, o dibujarlos), tinta oscura.
+- **Dónde va cada texto**:
+  - **Cartela del título del mapa**, arriba a la izquierda: «Fotos que
+    hagáis vosotros.»
+  - **Debajo**: «Lo que veis. Dónde grabáis. Cómo os montáis el rincón.»
+  - **Paradas del mapa** (cinco etiquetas que son **sitios**), cada una con
+    su número y un dibujito de un sitio de la serie:
+    ① **Paisaje** (el campo de flores, PV2 0:41) · ② **Naturaleza** (el
+    puente del bosque, PV2 0:31) · ③ **Ciudad** (la Capital) · ④
+    **Nocturna** (el mirador de los meteoros, `paisajes_01` n.º 42) · ⑤
+    **Retrato** (la estatua de Himmel).
+  - **Leyenda del mapa**, abajo a la derecha, con un símbolo cada una: las
+    seis etiquetas de **cómo se hizo**: Analógica, Con el móvil, Con
+    cámara, Editada, Sin editar, Detrás de cámara.
+  - **Al pie del mapa**: «Un hilo por foto o por serie.»
+  - **Cartela de Frieren** (la del tráiler, 33 §7.4), en el cielo:
+    propuesta mía, «Cada sitio se ve distinto cuando vuelves.». Si el dueño
+    **no** hace el concepto C de 33, mejor la frase real del doblaje: «Sé
+    de un lugar donde la lluvia de meteoros se puede ver más clara.»
+    ([3XUKmqUDEZc 0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32)).
+  - **Si se satura → lámina 2**: la leyenda sola, ampliada, como el
+    **reverso del mapa**.
+- **Luz y paleta**: **atardecer melocotón sobre el mar** (`#F5C4A4`
+  `#DAB0B5`), sombras malva (`#9D635C` `#7F484D`).
+- **Para que no quede plano**: **el mapa en primer plano y enfocado**, los
+  personajes **desenfocados** detrás; la luz rasante del atardecer
+  **marca cada pliegue**; la esquina levantada proyecta sombra; el mar
+  brilla al fondo.
+
+### Concepto C · #📖・textos — «Las páginas en blanco»
+
+**Por qué**: el canal es de **guiones para practicar**. La autobiografía de
+Himmel **acaba en páginas en blanco** y Frieren las pasa igual, buscando
+que siga (Punto 6.1). **Lo que falta, lo escribes tú.** El hilo de ejemplo
+del canal ya pide «**tono contenido**»: el tono de la serie.
+
+- **Objeto real en sitio real**: **la autobiografía de Himmel, abierta en
+  un atril**, en **la biblioteca circular del monasterio del lago
+  Korridor**, bajo **el rayo de luz cenital**, con **la estatua de Himmel**
+  detrás, dentro del haz (`paisajes_01` n.º **36**; T2-37, 15:47). La
+  iglesia del mismo monasterio, con **hierba entre los bancos**, es el n.º
+  **33**.
+- **En Blender**: libro abierto con **páginas curvadas**, atril de madera,
+  estantería circular; el rayo con **Volume Scatter** y motas de polvo.
+- **Personajes**: **Frieren**, de pie junto al atril, **de medio perfil**,
+  con **una mano sobre la página en blanco** (brazo entero a la vista:
+  regla 7 del dueño). Párpados a media asta, sin lágrimas (Punto 13).
+  Referencia de sitio y postura: `paisajes_01` n.º 36 ⚠️ sin minuto.
+- **Cómo habla**: **la letra de Himmel en la página**, a mano: **Klee One**
+  o **Shippori Antique**, tinta sepia (Punto 5). **La otra página, en
+  blanco**. Sin cartela: aquí el silencio es el mensaje.
+- **Dónde va cada texto**:
+  - **Página izquierda**, letra de Himmel: «Guiones para practicar.»
+    «Monólogos, diálogos, escenas y narraciones.» «Un hilo por guion.»
+    «Di si es libre o si pide permiso.»
+  - **Página derecha**: **en blanco**. Es la que recibe más luz.
+  - **Lomos de los libros** de la estantería circular, uno por etiqueta,
+    en **Zen Antique** dorada sobre cuero: Monólogo, Diálogo, Escena de
+    anime, Comercial, Narración, Original, Libre para usar, Pide crédito,
+    Para dos voces. (En 33 las etiquetas eran **cintas**; aquí, **lomos**.)
+- **Luz y paleta**: **rayo cenital frío**: sombras `#1E2B3D` `#375472`
+  `#517595`, luz `#E6F4ED` `#BDDBD2` (33 §5.2).
+- **Para que no quede plano**: **el libro en primer plano**, con el rayo
+  cayendo justo en **la página en blanco** (el punto más claro de la
+  lámina); **polvo en el haz**; la estatua **al fondo, dentro de la luz**;
+  una mata de **hierba en el suelo de piedra** (el *wabi-sabi* del Punto
+  18.3); estanterías que se curvan y se pierden en la sombra azul.
+- ⚠️ **Choca con el concepto B de 33** (el mismo libro, en #poemas, en una
+  mesa con ventana dorada). Son distintos (sitio, luz, canal y las páginas
+  en blanco), pero **el dueño debería elegir uno de los dos**.
+
+### Qué concepto elegir
+
+- **A** si quiere la lámina **más limpia**: dos frases, un objeto, y el
+  personaje más querido. Y **#destacados no tiene lámina** fijada todavía.
+- **B** si quiere usar **muchas etiquetas** sin saturar: el mapa las
+  ordena solo. Ojo: #fotos lo piden cinco series (Punto 24.2).
+- **C** si quiere lo **emotivo** y un guiño al doblaje: practicar lo que
+  Himmel no llegó a escribir.
+
+## Lo que no pude verificar
+
+Todo lo que lleva ⚠️, junto. Lo de 33 que sigue abierto está en **33 §20**.
+
+**Minutos que faltan** (hay episodio y fotograma, no minuto)
+- Las **cinco caras de Frieren** (EP2, EP7, EP23, EP25) y **Fern enfadada**
+  (EP27), Punto 13: habría que ver los capítulos enteros.
+- **Flamme ante sus compañeros** (EP4), **la cuna vacía** (EP2) y **Frieren
+  ante la estatua bajo el rayo** (T2-37, `paisajes_01` n.º 36).
+
+**Doblaje y música**
+- La frase y el minuto de los dos clips nuevos de Crunchyroll en Español
+  («Patitas para que las quiero», «¿Batallas épicas?…»): YouTube pidió
+  iniciar sesión y no están en Dailymotion.
+- La palabra **«futuro»** en la frase de Himmel ([K8XwKilGTg0
+  0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13)): mal oída según
+  33. **Oírla antes de usarla** (concepto A).
+- Qué tema suena en **Aureole**, en **la cuna vacía** y en **la próxima
+  lluvia de meteoros** (no animada).
+- El dato del **hammered dulcimer** del OP de la T2 (Punto 9): la nota de
+  la parte está confusa.
+
+**Web oficial y archivos**
+- El **dibujo del mapa** de `frieren-anime.jp/special/map/` (Cloudflare y
+  JS; la Wayback Machine, bloqueada por la red del contenedor). Y los
+  títulos **⑯-㉑**, mal capturados.
+- Si la web oficial reparte **fondos de pantalla** propios.
+
+**Tipografía**
+- Que el avance de episodio use **文游明朝体 勇壮かな** (una sola respuesta de
+  Yahoo!知恵袋, con duda).
+- Qué letra libre trae los **números en círculo** ①-㉘.
+- Que Kaisei Tokumin «imite piedra»: **nadie lo dice**; se elige por peso.
+
+**Lugares y arte**
+- Un **lugar real único** como modelo del mundo: sólo guías de fans
+  («mezcla» de Alemania, Chequia y la Suiza sajona).
+- Que las **nemófilas de Hitachi** sean el modelo de la hierba luna azul:
+  asociación de fans (dos fuentes japonesas), no del estudio.
+- La prefectura de **Yufuin** y de **Lockheart Castle** (no consta en las
+  partes).
+- El **interior del Art Works Vol. 1** (sólo la ficha de venta) y un
+  **catálogo** de la exposición.
+- **Modelos 3D libres de un sitio** de la serie (no hay en Sketchfab con
+  los términos probados).
+- El portafolio de **@gmmarady** y dos fondos de Wallhaven **no vistos**
+  (`9depzk`, `vq3ykl`).
+- La **placa real** de una estatua de Himmel con su texto.
+- Un **pincel de acuarela libre** con descarga directa.
+
+**Fandom y comunidad**
+- Vistas del hashtag «**la melancolía de Stark y Fern**» y el vídeo
+  «**Himmel, 30 años después**» (TikTok sin sesión no abre).
+- El contenido de «**New background**» (2401 votos, r/Frieren): sólo el
+  título.
+- El **corte intermedio de la 3.ª encuesta** (Aura 6.ª): una fuente.
+
+**Mundo y técnica**
+- Un **fotograma de la Tierra Dorada** en el anime, y que el arco empiece
+  en el ep. 37 (una fuente wiki).
+- «**Himmel = cielo**» como intención del autor (una fuente; es la lectura
+  del alemán).
+- Las **variantes por estación** de cada sitio (un artículo) y el
+  vocabulario *mono no aware*, *ma*, *shizukesa*, *wabi-sabi* (un ensayo).
+- Las **cajas de diálogo** de MapleStory × Frieren (sin capturas).
+
+**Bloqueos**: TCRF, Namu Wiki y Zhihu (verificación anti-bot, dos intentos
+cada uno); AnimeThemes (error 522); `reddit.com` directo (se usó Arctic
+Shift).
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias o comprobado que no existe · ❌ no hecho. «33» es la
+biblia hermana, que cubre la serie entera; aquí, el enfoque de **fondos,
+luz y melancolía**.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 Arte oficial | ✅ | Official Guide Book, Art Works Vol. 1, exposición, concept art y bocetos de Yoshioka, medidos y vistos; el resto en 33 §3. Interior del Art Works sin ver |
+| 2 Escenas con minuto | ✅ | 6 fotogramas propios con `fotogramas.py` (PV2 0:31, 0:41, 0:47, 1:27; Qual 0:10, 2:00) + las 19 de 33 §2. Flamme y la cuna, sin minuto |
+| 3 Fan art y 3D | ✅ | fan art de paisaje (Wallhaven, Danbooru) y estatua de Himmel en 3D **CC BY**; no hay 3D libre de sitios de la serie (buscado) |
+| 4 Sitios, luz y paleta | ✅ | 10 sitios nuevos con hex medidos con `estilo.py`; cinco reglas de luz; entrevista de Yoshioka |
+| 5 Tipografía | ✅ | 3 letras OFL comprobadas con fontTools (tildes, ñ, ¿, ¡); una letra por uso; la del avance, sin segunda fuente |
+| 6 Cómo hablan en pantalla | ✅ | la memoria sin globo: placa, mapa, páginas en blanco (dos fuentes), el silencio; la cartela de 33 §7 |
+| 7 Popularidad | ✅ | 2.ª encuesta oficial con cifras exactas (tres medios); Himmel 1.º dos veces; 3.ª con una fuente |
+| 8 Doblaje latino | ✅ | reparto en Doblaje Wiki (API) + AniList; frases textuales con minuto en 33 §10.4 y Punto 17.7; 2 clips nuevos sin transcribir |
+| 9 Música y sonido | ✅ | entrevistas a Evan Call (instrumentos, nostalgia, «One Last Adventure»); OP/ED en 33 §11; no hay onomatopeyas propias |
+| 10 Vídeos | ✅ | PV2 y clip de Qual mirados con fotogramas; Sakuga Blog, tráiler T2 (dos fuentes); TikTok con una fuente |
+| 11 Videojuegos | ⚠️ | **no hay juego propio** (33 §13, TCRF sin páginas); colaboración MapleStory × Frieren con dos fuentes, sin capturas de diálogo |
+| 12 Fandom y qué NO hacer | ✅ | la reacción al sitio (meteoros, Reddit con votos); 2 «no hacer» nuevos + los 9 de 33 §14 |
+| 13 Personajes a fondo | ⚠️ | carácter y forma de hablar en 33 §8; aquí la cara en cada emoción con fotograma, **sin minuto** |
+| 14 Poses | ✅ | 10 poses dentro del paisaje, 5 con minuto; las 48 de 33 §15 |
+| 15 Vestuario | ✅ | hex de la ropa en 33 §16; la ropa según el clima, vista en las hojas |
+| 16 Paisajes y fondos de pantalla | ✅ | +30 sitios, ruinas, mapa oficial, sitios reales; fondos oficiales y de fans con tamaño y autor |
+| 17 Guía para IA | ✅ | imagen (luces con hex, prompts, palabras, referencias, errores) y texto (reglas y frases reales por emoción) |
+| 18 Técnica y cómo replicarla | ✅ | quién pinta el fondo y en qué orden; vocabulario estético; recetas de Photoshop y Blender; encuadres |
+| 19 Texturas 2D | ✅ | hierba, corteza, piedra con musgo, hielo (CC0, API); acuarela y decadencia; tramas y papel en 33 |
+| 20 Gustos y detalles | ✅ | Official Fan Book en 33, comprobado otra vez; Himmel = «cielo» (una fuente) y la flor de cerezo carámbano |
+| 21 Por qué la aman | ✅ | reseñas en español; 5 escenas ligadas a un sitio con minuto, dibujo y reacción; premios en 33 |
+| 22 Fan dubs y comunidad | ✅ | búsquedas repetidas (recolector + investigadora): no hay fandub nuevo; covers y fandub en 33; hueco para el servidor |
+| 23 Colaboraciones y cruces | ✅ | la exposición itinerante (dos fuentes), MapleStory, cosplay en Hitachi; figuras y cafés en 33 |
+| 24 Obras parecidas | ✅ | Yokohama Kaidashi Kikō, Kino, Ghibli; láminas vecinas del servidor buscadas con `grep` |
+| 25 Mundo y símbolos | ✅ | reglas y arcos en 33 §25; el mapa como mapa de recuerdos, la estatua como tumba, tabla de símbolos |
+| 3 conceptos de lámina | ✅ | A #destacados (estatua), B #fotos (mapa), C #textos (páginas en blanco), con objeto, pose, letra, textos y profundidad |
+| 40 fuentes distintas | ✅ | más de 50 webs enlazadas en el texto (`revisar.py`) |
+| Tipos de fuente | ⚠️ | oficiales, japonés, inglés, español, Fandom, Doblaje Wiki, Reddit, Pixiv, Danbooru, Sketchfab, ambientCG, Fontsource ✅; coreano y chino sólo por buscador (Namu Wiki y Zhihu bloquean); TCRF y Wayback bloqueados; GitHub en 33; TV Tropes dio 403 en 33 y no se reintentó |
+| Vídeos mirados | ✅ | `fotogramas.py` sobre el PV2 y el clip de Qual; OP/ED por storyboard en 33 §11 |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB: `memoria_01`, `paisajes_01`, `paisajes_02` |
+| `referencias.json` | ✅ | 141 (juntadas por `juntar_referencias.py`; quitadas 24 de fan art de otras series) |
+
+## Bitácora
+
+### Bitácora de imagen
+
+Partí de `partes/datos-imagen.md` (no repetí AniList, Danbooru genérico
+por personaje, Safebooru genérico, Wallhaven, Sketchfab de personajes ni
+Openverse) y de `biblias/33-frieren/partes/imagen.md` + su `biblia.md`
+(secciones 3, 4, 5, 16, 17, 19, 23, leídas con `sed`/`cat`, no con
+`seccion.py` porque es de otro encargo) para no repetir nada.
+
+**Red directa** (sin gastar buscador):
+- **Frieren Wiki (Fandom), API**: `list=categorymembers` sobre
+  `Category:Locations` (30+ sitios); `action=parse&prop=wikitext` sobre
+  **Official Guide Book**, **Ruins of the King's Tomb**, **Aureole**,
+  **Frieren: Beyond Journey's End Season 1/Gallery** y **Season
+  2/Gallery** (para las secciones «Concept Art» y «Exhibition
+  Illustrations»); `action=query&prop=imageinfo` para tamaños y URL de
+  6 imágenes.
+- **Descargas directas** (con `curl -A "Mozilla/5.0" -e
+  "https://www.fandom.com/"`, medidas con Pillow/`estilo.py`, **vistas
+  con Read**): Ruins of the King's Tomb, Rufen Region abandoned fort
+  draft, Bier Region ruins draft, Aureole EP4, Aureole concept art, el
+  wallpaper del árbol dorado (Wallhaven).
+- **`herramientas/investigar_serie.py --wiki frieren --paginas "Royal
+  Capital" "Aureole" "Ruins of the King's Tomb" "Lake Korridor" "Heiß"
+  "Warm"`**: 111 imágenes enlazadas, 91 grandes → `hoja_01.jpg` y
+  `hoja_02.jpg` (copiadas a `hojas/paisajes_01.jpg` y `paisajes_02.jpg`),
+  **vistas enteras con Read**.
+- **Danbooru API** (`posts.json?tags=sousou_no_frieren+scenery`) y
+  **Safebooru API** (mismo tag): 8 resultados cada una, cruzados por
+  `md5`/tamaño.
+- **Sketchfab API** (`/v3/search?type=models&q=…`): «frieren village»
+  (sin resultados), «frieren ruins» (sin resultados), «frieren statue»
+  (4 resultados, con Himmel), «medieval fantasy village low poly» (8
+  resultados genéricos).
+- **ambientcg API** (`/api/v2/full_json?type=Material&q=…`): Grass,
+  Moss, Bark, Water, Rock — elegidas Grass001, Bark014, Rock064, Ice002.
+- **Wayback Machine** (`archive.org/wayback/available`) para
+  `frieren-anime.jp/special/map/`: encontró snapshot pero la descarga
+  del snapshot dio «blocked by egress policy» (2 intentos, con y sin
+  `http/https`).
+
+**Buscador web** (4 búsquedas de mi cupo de ~50):
+- Japonés: «フリーレン展 原画展 background art exhibition Frieren»;
+  «フリーレン 聖地巡礼 風景 ロケハン 元ネタ ヨーロッパ».
+- Inglés: «"Sousou no Frieren" background art book "美術ボード" OR
+  "background art" exhibition 2025»; «Frieren background art real
+  Europe inspiration Rothenburg Dinkelsbühl location scouting».
+
+**Fallos y cómo los resolví**:
+- `frieren-anime.jp/special/map/`: **Cloudflare** (verificación JS) — no
+  hay `navegar.py` disponible en este contenedor (falta el navegador:
+  «Executable doesn't exist»); probé la Wayback Machine como plan B y
+  también falló (política de red del contenedor) — anotado en «No
+  encontré», no insistí una tercera vez.
+
+### Bitácora de video
+
+- Fandom API (`frieren.fandom.com/api.php`) — wikitext de `Locations`,
+  `Aureole`, `Qual`, `The Golden Land Arc`; búsqueda de texto para
+  «Flamme grave», «Aureole», «Titan Fortress Ruins». En español no hace
+  falta: la wiki es en inglés.
+- Descarga directa de imágenes de `static.wikia.nocookie.net` con cabecera
+  `Referer: https://www.fandom.com/` (AYUDANTE.md) — 3 imágenes, medidas
+  con `estilo.py`.
+- `fotogramas.py` sobre dos vídeos de Dailymotion (`x8mkolb` tráiler,
+  `x8qbrgb` fragmento de episodio): 6 fotogramas nuevos, todos mirados con
+  Read y medidos con `estilo.py --colores 5`.
+- `api.dailymotion.com/videos?search=…` para localizar clips (varios
+  intentos: «Sousou no Frieren Anytime Anywhere», «OP1 Yuusha» — sin vídeo
+  de vídeo real del OP, sólo el tráiler y el fragmento de episodio
+  sirvieron).
+- `archive.org/advancedsearch.php` — sin vídeo útil de OP/ED (uno resultó
+  ser audio).
+- WebSearch (en inglés): «Evan Call Frieren interview music nostalgia
+  memory theme», «Frieren background art director interview scenery
+  melancholy», «Frieren TikTok trend backgrounds aesthetic edit
+  landscapes», «Frieren video essay analysis background art direction»,
+  «Frieren season 2 trailer official landscape scenery minute».
+- `navegar.py` sobre `epicstream.com` y `gamerant.com` (artículos con JS;
+  hacía falta para leer el texto real, no sólo CSS).
+- `curl` directo sobre `anitrendz.com` y `blog.sakugabooru.com` (sí
+  responden a curl con cabecera de user-agent).
+- Arctic Shift (`arctic-shift.photon-reddit.com`) para r/Frieren, búsqueda
+  por título «background» y «Denken» — `reddit.com` directo da bloqueo
+  («blocked due to a network policy»).
+- AnimeThemes (`api.animethemes.moe`) — error 522, igual que le pasó al
+  recolector automático; no insistí (regla de dos intentos, AYUDANTE.md).
+
+### Bitácora de voz
+
+**Red directa** (sin gastar el buscador):
+- `frieren.fandom.com/api.php` — `action=query&list=search` (14 búsquedas de
+  imágenes por palabra de emoción en inglés: angry, embarrassed, scared,
+  cries, glares, delighted…, para las 5 caras del punto 13) y
+  `action=parse&prop=wikitext` para Frieren, Fern, Stark, Himmel (secciones
+  Trivia, para el punto 20) y `action=query&prop=imageinfo&iiprop=url|size`
+  para medir 6 fotogramas (todos 1920×1080).
+- Descarga directa de 6 imágenes de `static.wikia.nocookie.net` con cabecera
+  `Referer: https://www.fandom.com/`, **todas miradas con Read** antes de
+  describirlas (AYUDANTE.md).
+- `doblaje.fandom.com/es/api.php?action=parse&prop=wikitext` con el título
+  correcto en español (`Frieren: Más allá del final del viaje`) — el
+  recolector automático había fallado por usar el título en inglés.
+- `youtube.com/oembed?url=…&format=json` para 2 clips nuevos de Crunchyroll
+  en Español (sin necesitar sesión).
+- `yt-dlp --write-auto-subs --sub-langs "es.*"` sobre los 2 clips nuevos:
+  **bloqueado** («Sign in to confirm you're not a bot»), mismo bloqueo de
+  YouTube que ya documentan las otras partes.
+- `api.dailymotion.com/videos?search=` con 7 consultas (4 ya probadas por
+  el recolector, repetidas para comprobar que seguían sin resultado nuevo,
+  + 3 mías) — sólo un hallazgo nuevo (el AMV de IA).
+- `arctic-shift.photon-reddit.com/api/posts/search` en r/Frieren, `title=`
+  con «meteor», «Era meteor» (con pausas de 2 s) — encontré el post de 131
+  votos sobre la próxima lluvia de meteoros y confirmé los dos fan arts del
+  mismo motivo.
+- `curl` directo (con user-agent) sobre `espinof.com` y `efrenrodher.com`
+  — ambos respondieron sin bloqueo; filtré el HTML con una expresión
+  regular sobre `<p>` para no imprimir la página entera.
+
+**Buscador web** (6 de mi cupo de ~50):
+- Inglés: «Frieren character popularity poll official Shonen Sunday 2024
+  2025 ranking»; «Frieren Beyond Journey's End review backgrounds OR
+  scenery OR landscapes melancholy why fans love».
+- Español: «Frieren identifica personaje "por eso amo" OR "por qué me
+  encanta" melancolía paisaje reseña español»; «"Frieren" fandub latino OR
+  doblaje fans escena "campo de flores" OR "meteoros" reacción youtube»;
+  «Frieren fandub español "paisaje" OR "melancolía" OR "escena" reacción
+  youtube OR tiktok comunidad hispana».
+
+**Fallos y cómo los resolví**:
+- Recolector automático: falló en Doblaje Wiki por usar el título en
+  inglés — lo resolví buscando el título latino real en el propio
+  wikitext de la ficha de Crunchyroll.
+- `yt-dlp` sobre los 2 clips nuevos de Crunchyroll: bloqueado por login;
+  usé `oembed` (sin sesión) para al menos confirmar título y canal, y dejé
+  la frase exacta en «No encontré» en vez de inventarla.
+- Dailymotion: sin fandub de voz nuevo pese a repetir las 4 búsquedas del
+  recolector + 3 propias — confirma que la hermana ya encontró lo poco que
+  hay.
+
+**Parte terminada**: los 7 puntos (7, 8, 12, 13, 20, 21 y 22) tienen lo
+obligatorio del encargo cubierto, con fuente y, donde aplica, minuto o
+tamaño. No dejo ninguna línea «Sigue:».
+
+### Bitácora de texto
+
+- WebSearch (ja): `葬送のフリーレン 背景美術 聖地巡礼 ロケハン 実在の場所` →
+  [libert.co.jp](https://libert.co.jp/pilgrimage-guild/frieren-pilgrimage/),
+  [yutorilog.com](https://yutorilog.com/frieren-stage/)
+- WebSearch (en): `Frieren anime background art real world location inspiration pilgrimage`
+  → [AniTabi](https://anitabi.jp/works/36?lang=en)
+- WebFetch: frieren-anime.jp/special/map/ (403 con WebFetch normal) →
+  reintentado con `navegar.py --selector body` (200, texto completo de los
+  28 títulos); `--captura` dio pantalla en blanco (mapa dibujado con JS)
+- WebFetch: anitabi.jp/works/36 (lista de 7 sitios de peregrinaje)
+- WebSearch (ja): `葬送のフリーレン 聖地巡礼 ひたち海浜公園 ネモフィラ 蒼月草 モデル` →
+  [nlab.itmedia.co.jp](https://nlab.itmedia.co.jp/cont/articles/3377207/),
+  [anitabi.jp/spots/2841](https://www.anitabi.jp/spots/2841)
+- WebSearch (ja): `葬送のフリーレン 美術ボード 画集 背景 光 インタビュー 高木佐和子` →
+  [animageplus.jp](https://animageplus.jp/articles/detail/55395) (poco
+  contenido descriptivo, descartado)
+- WebSearch (en): `Frieren anime lighting nostalgia melancholy analysis mono no aware backgrounds article`
+  → [Unwinnable](https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/)
+- WebFetch/navegar: unwinnable.com (artículo completo, 23.6k caracteres,
+  leído en dos tandas)
+- WebSearch (en): `Frieren anime compared Studio Ghibli Isao Takahata landscape nostalgia influence article`
+  → [FandomWire](https://fandomwire.com/frieren-beyond-journeys-end-has-the-essence-of-a-studio-ghibli-film/)
+- WebFetch: fandomwire.com (citas textuales sobre fondos/paleta)
+- WebSearch (en): `"Frieren" anime "Yokohama Kaidashi Kikou" OR "Mushishi" landscape melancholy comparison essay`
+  → [CBR](https://www.cbr.com/10-cozy-anime-that-are-surprisingly-deep/),
+  MyAnimeList (recomendaciones cruzadas)
+- WebFetch: cbr.com (lista de animes parecidos, con cita por título)
+- WebSearch (ja): `葬送のフリーレン テロップ 字幕 "年後" 書体 フォント アニメ` →
+  [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14289239084)
+- WebFetch: chiebukuro.yahoo.co.jp (fuente del avance de episodio)
+- WebSearch (ja): `文游明朝体 勇壮かな フリーレン OR モリサワ 使用例` →
+  [morisawa.co.jp/fonts/specimen/6593](https://www.morisawa.co.jp/fonts/specimen/6593)
+  (ficha oficial del tipo, sin ejemplo de uso en Frieren)
+- WebSearch (ja): `葬送のフリーレン 墓 墓標 文字 刻まれた ヒンメル` →
+  [office-tokiwa.com/eiga24](https://office-tokiwa.com/eiga24/)
+- WebFetch: office-tokiwa.com/eiga24 (estatua de Himmel, tumbas y memoria)
+- WebSearch (ja): `フリーレン 2期 37話 ヒンメル 自伝 湖畔の街 修道院 書物` →
+  [frieren-anime.jp/story/2nd/ep37](https://frieren-anime.jp/story/2nd/ep37/),
+  [dogadaijobu2025.com](https://dogadaijobu2025.com/archives/8036),
+  [note.com/sakuraigo](https://note.com/sakuraigo/n/n179c6ef7e84e)
+- WebFetch: frieren-anime.jp/story/2nd/ep37 (sinopsis y créditos oficiales)
+- WebFetch/navegar: dogadaijobu2025.com (reseña larga del episodio 37)
+- WebFetch/navegar: note.com/sakuraigo (cita exacta de la página en blanco)
+- WebSearch (ja): `MapleStory Frieren collaboration map area background screenshot September 2026`
+  → [Noisy Pixel](https://noisypixel.net/maplestory-frieren-beyond-journeys-end-collaboration-september-2026/),
+  [Nexon](https://www.nexon.com/maplestory/micro-site/frieren)
+- WebFetch/navegar: noisypixel.net (detalle del evento, estatua de bronce)
+- WebSearch (Herramientas propias): `curl api.php` y `navegar.py` sobre
+  `tcrf.net` (bloqueado, verificación Cloudflare, 2 intentos); búsqueda
+  `site:tcrf.net Frieren` (cero resultados, confirma que no hay juego)
+- WebSearch (ko): `장송의 프리렌 배경 미술 풍경 분석 서정적` → namu.wiki (bloqueado al
+  intentar leerlo, 2 intentos: curl y `navegar.py`), ko.wikipedia.org
+- WebSearch (zh): `葬送的芙莉莲 背景美术 风景 光影 分析` → resultados de baja calidad
+  (wallpapers, sitios de dudosa fiabilidad), zhihu bloqueado al intentar
+  leer la pregunta de estilo de dibujo (2 intentos)
+- Fontsource API: `api.fontsource.org/v1/fonts?subsets=latin-ext` (lista
+  completa, filtrado por Python para familias «zen/shippori/antique/kaisei»)
+- Descarga y verificación con fontTools: `kaisei-tokumin.ttf`,
+  `shippori-antique.ttf`, `zen-antique.ttf` desde `fonts.gstatic.com`,
+  comprobados los 15 caracteres (á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü) con
+  `TTFont(f).getBestCmap()`
+- Herramientas propias: `python3 herramientas/seccion.py 33-frieren --indice`
+  y lectura de las secciones 6, 7, 13, Punto 18, Punto 24 y Punto 25 de
+  `biblias/33-frieren/biblia.md` (para no repetir)
+- Repositorio: `ls biblias/`, lectura de
+  `biblias/100-la-princesa-mononoke/biblia.md` (canal `#📸・fotos` ya usado
+  como candidato) y comprobación de que `101-your-name-cielos-y-ciudades`
+  y `102-el-estilo-ghibli-en-general` tienen partes pero no biblia
+- Lectura de `servidor/inventario.md` (canal `#📸・fotos`, etiqueta
+  «Paisaje», línea 172) y de las partes ya escritas por mi equipo:
+  `biblias/89-frieren-paisajes-y-memoria/partes/imagen.md` y `video.md`
+
+Revisado contra ENCARGO.md: los puntos 5, 6, 11, 18, 24 y 25 quedan
+cubiertos con fuentes propias (no repetidas de la hermana). Los ⚠️ de
+«No encontré» son detalle extra o bloqueos de red ya documentados con sus
+dos intentos, no puntos obligatorios sin cubrir.
+
+### Bitácora del redactor (segunda sesión, 25-sep-2026)
+
+- Modo «seguir»: leí sólo el índice (`seccion.py --indice`) y las secciones
+  0-6 y 14-15 para enlazar; añadí 16-25, conceptos, pendientes, tabla y
+  esta bitácora sin reescribir lo anterior.
+- `juntar_referencias.py` (165) y `juntar_bitacora.py`; quité de
+  `referencias.json` 24 fan arts de otras series (Bocchi, Megumin, Zelda,
+  Miku) que colaba Safebooru: quedan 141.
+- Para no repetir, leí de 33: §17, §18, Punto 18.c-d, 19.2-19.3, 21.3, 22,
+  24.3, 25 y los conceptos. Busqué con `grep` qué biblias proponen
+  #destacados y #fotos (Punto 24.2).
+- No encontré, por no estar en las partes: la prefectura de Yufuin y de
+  Lockheart Castle, el minuto de las caras y la música de las escenas de
+  Aureole y de la cuna vacía.

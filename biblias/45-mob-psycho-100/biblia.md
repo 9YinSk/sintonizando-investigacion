@@ -705,3 +705,478 @@ latino** (§10).
 | Tsubomi y Mob | Mob se pone rojo y nervioso | gag de vergüenza |
 
 ---
+
+## 9 · ¿Quién es el más querido?
+
+**Reigen, por delante del protagonista**, en dos rankings independientes
+con el mismo orden ✅:
+
+| Puesto | AniList (favoritos) | MyAnimeList (favoritos, mayo 2022) |
+|---|---|---|
+| 1 | **Reigen** 24 571 | **Reigen** 28 193 |
+| 2 | Mob 20 558 | Mob 20 059 |
+| 3 | Ekubo (Dimple) 3112 | Ekubo 1014 |
+| 4 | Teru 2374 | Teru 768 |
+| 5 | Narrador 2233 | Ritsu 416 |
+| 6 | Ritsu 1534 | Musashi Gouda 362 |
+| 7 | Musashi Gouda 757 | Tome Kurata 127 |
+| 8 | Tome Kurata 542 | Shou Suzuki 94 |
+
+Fuentes: [AniList](https://anilist.co/anime/21507) y MAL citado por
+[Sportskeeda](https://www.sportskeeda.com/anime/10-popular-characters-mob-psycho-100).
+
+- **Lo más dibujado** ([Danbooru](https://danbooru.donmai.us/posts?tags=mob_psycho_100),
+  2907 dibujos): Mob 1733, Reigen 1194, Ekubo 579, Ritsu 565, Teru 320,
+  Serizawa 201, Tome 180 ✅. Mob se dibuja más (tiene más escenas de
+  acción), pero **se quiere más a Reigen**.
+- **Por qué Reigen**: sin poderes, es «uno de los adultos más
+  responsables» del anime y hace reír sin dejar de ser un mentor de verdad
+  ✅ ([Collider](https://collider.com/why-we-love-mob-psycho-100-reigen-arataka/)
+  + [CBR](https://www.cbr.com/mob-psycho-100-anime-manga-reigen-popular-character/)).
+  Tras cada temporada se llena la etiqueta **#RedrawReigen** en Twitter.
+- **Sorpresas**: el **Club de Mejora Corporal** es *Ensemble Dark Horse*
+  en [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/MobPsycho100);
+  el **guardia poseído por Dimple** gustó tanto que el fanbook oficial le
+  puso nombre, **Mamoru Yoshioka** ✅.
+- **Encuesta oficial japonesa** (Shogakukan o Bones): no se encontró,
+  buscada en japonés («モブサイコ100 人気投票 公式»); sólo encuestas de
+  fans ⚠️.
+
+**Para las láminas**: Reigen es la voz natural de un canal que explica o
+atiende; Mob, la de un canal que siente o estalla; Dimple, la de uno que
+presenta o recluta.
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+### 10.1 Ficha
+
+- **Estudio**: SDI Media de México (T1-2) e **Iyuno · SDI Group**, México
+  (T3) ✅.
+- **Dirección**: **Elena Ramírez** (T1-2, también traducción) ✅; T3:
+  Doblaje Wiki dice «Luna Arjona» y el comunicado de Crunchyroll dice
+  «Luis Arjona» ⚠️ (sin tercera fuente).
+- **Adaptación T3**: Angie Domínguez. **Gerencia**: Gabriela Garay ✅.
+- **Dónde**: Crunchyroll; la T3 fue **doblaje simultáneo mundial** con
+  Japón, el primero de Crunchyroll. Cartoon Network lo emitió en 2020
+  con cortes ✅ (Doblaje Wiki).
+- Fuentes: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mob_Psycho_100)
+  (por su API) y el comunicado oficial de Crunchyroll LATAM republicado en
+  [AnimeCL](https://anime.cl/latinoamerica-elenco-y-staff-para-el-doblaje-de-mob-psycho-100-iii/)
+  (5-oct-2022).
+
+### 10.2 Reparto (cada nombre en dos fuentes)
+
+| Personaje | Voz latina | Temp. | Estado |
+|---|---|---|---|
+| Shigeo «Mob» Kageyama | **Carlos Siller** | 1-3 | ✅ Doblaje Wiki + Crunchyroll |
+| Arataka Reigen | **Manuel Campuzano** | 1-3 | ✅ |
+| Dimple / Ekubo (y Narrador) | **Carlos Hernández** | 1-3 | ✅ |
+| Ritsu Kageyama | **Javier Olguín** | 1-3 | ✅ |
+| Teruki Hanazawa | José Antonio Toledano (T1) → **Pascual Meza** (T2-3) | 1-3 | ✅ |
+| Katsuya Serizawa | Luis Fernando Orozco; su hermano Alejandro Orozco en tramos | 2-3 | ✅ |
+| Toichiro Suzuki | Andrés García (T1-2) → Carlo Vázquez (T3) | 1-3 | ✅ T1-2; ⚠️ el cambio de la T3 sólo en Doblaje Wiki |
+| Ichi Mezato | Nycolle González | — | ✅ |
+| Tome Kurata | Betzabé Jara | — | ✅ |
+| Tenga Onigawara | Bruno Coronel | — | ✅ |
+| Tsubomi Takane | Alessia Becerril | — | ✅ |
+| Musashi Gouda | Mark Pokora (Doblaje Wiki y AniList) **o** Marco Antonio Urbalejo (Crunchyroll, T3) | 1-3 | ⚠️ conflicto: puede ser un cambio de voz no anotado |
+
+Seiyū japoneses (AniList): Setsuo Ito (Mob), Takahiro Sakurai (Reigen),
+Akio Otsuka (Dimple y Narrador), Miyu Irino (Ritsu), Yoshitsugu
+Matsuoka (Teru).
+
+### 10.3 Frases textuales del doblaje latino (14, oídas con `voz.py`)
+
+Salen de las muestras oficiales de Doblaje Wiki. El minuto es dentro de
+cada clip corto.
+
+| Personaje | Minuto | Frase |
+|---|---|---|
+| Mob | 0:00 | «Maestro, le pedí que dejara de llamarme por sorpresa.» |
+| Mob | 0:16 | «¡Suelta a mi hermano!» |
+| Mob | 0:40 | «Ritsu es muy inteligente, a diferencia de mí, que no sé hacer nada sin mis poderes.» |
+| Reigen | 0:00 | «¡Así que yo, Arataka Reigen, acepto el caso!» |
+| Reigen | 0:11 | «¡El mayor psíquico de la historia moderna, Arataka Reigen-sama!» ⚠️ Whisper escribe «Reigenzama» |
+| Reigen | 0:43 | «Lo importante es que seas amable. Sé una buena persona. Es todo.» |
+| Ekubo | 0:00 | «Pero qué ingenuo es.» |
+| Ekubo | 0:07 | «Déjale claro quién es el jefe.» |
+| Ekubo | 0:27 | «Vaya, vaya, vaya. Me topé con una puerta muy especial.» |
+| Ritsu | 0:15 | «Siempre he querido tener poderes psíquicos. Y además, siempre te he admirado a ti.» |
+| Ritsu | 0:35 | «Yo tengo la culpa de esto. Cometí un error.» |
+| Teru | 0:05 | «Porque yo soy el protagonista de este mundo.» |
+| Teru | 0:17 | «Te informo que tienes el honor de ser mi primer enemigo.» |
+| Teru | 0:34 | «La victoria es mía.» |
+
+Audios: [Mob.ogg](https://static.wikia.nocookie.net/doblaje/images/3/32/Mob.ogg),
+[Reigen.ogg](https://static.wikia.nocookie.net/doblaje/images/b/b3/Reigen.ogg),
+[Ekubo.ogg](https://static.wikia.nocookie.net/doblaje/images/8/81/Ekubo.ogg),
+[Ritsu.ogg](https://static.wikia.nocookie.net/doblaje/images/e/e2/Ritsu.ogg),
+[Teru.ogg](https://static.wikia.nocookie.net/doblaje/images/d/db/Teru.ogg) ✅.
+
+- **«Moff»**: en la muestra de Reigen, Whisper escribe tres veces «Moff»
+  donde Reigen dice «Mob». La parte de voz lo lee como un apodo con
+  retintín ⚠️: **hay que oírlo** antes de usarlo como muletilla.
+- Hay **17 muestras más** en Doblaje Wiki sin transcribir (Koyama, Matsuo,
+  Musashi Goda, Sho, Narración, Mari, Chihiro…) ⚠️.
+
+### 10.4 Lo propio del doblaje (Doblaje Wiki, «Datos de interés»)
+
+- Mantiene **honoríficos** («-kun», «sensei») en la T1-2; se quitan en la T3.
+- A los maestros espirituales se les dice **«sensei»**, en japonés.
+- En la T2 ep. 3, Musashi presenta el club de fisicoculturismo como
+  **«club de atletismo»**.
+- Carlos Siller dobló a veces con el audio japonés y a veces con el inglés.
+- Varios actores de *One Punch Man* (mismo autor) repiten aquí.
+- En el ep. 4 hubo un *loop* sin audio («¿Nos vamos, Kageyama-kun?»),
+  corregido meses después. En la T2 ep. 13, varias risas de Mob quedaron
+  en japonés.
+
+Todo ⚠️ (una fuente, Doblaje Wiki).
+
+---
+
+## 11 · Música y sonido
+
+### 11.1 Openings y endings
+
+| Tema | Tipo | Quién | Detalles | Estado |
+|---|---|---|---|---|
+| **«99»** | OP T1 | MOB CHOIR | letra y música Junichi Sasaki, arreglos Wataru Maeguchi; 31-ago-2016 | ✅ [web oficial](https://mobpsycho100.com/1st/music/#music01) + créditos vistos en el OP (0:18) |
+| **«Refrain Boy»** (リフレインボーイ) | ED T1, eps. 1-12 | ALL OFF | letra y música Hirokazu Ebata | ✅ [wiki](https://mob-psycho-100.fandom.com/wiki/Refrain_Boy) + visto en el ep. 1 (23:05) |
+| **«99.9»** | OP T2 | MOB CHOIR feat. sajou no hana | todo de Tatsuya Kitani; 6-mar-2019 | ✅ [web oficial](https://mobpsycho100.com/2nd/music/#op) |
+| **«Gray»** (グレイ) | ED T2, eps. 13 y 19 | sajou no hana | Tatsuya Kitani | ✅ |
+| **«Memosepia»** (メモセピア) | ED T2, eps. 14-24 | sajou no hana | letra y música Sho Watanabe | ✅ [wiki](https://mob-psycho-100.fandom.com/wiki/Memosepia) |
+| **«1»** | OP T3 | MOB CHOIR | letra Sumiyo Mutsumi, música Wataru Maeguchi; 5-oct-2022 | ✅ |
+| **«Cobalt»** (コバルト) | ED T3 | MOB CHOIR | letra Sumiyo Mutsumi, música amazuti (KEYTONE) | ✅ [wiki](https://mob-psycho-100.fandom.com/wiki/Cobalt) |
+| **«Exist»** | ED T3, ep. 29 | — | equipo de «1» | ✅ [wiki](https://mob-psycho-100.fandom.com/wiki/Exist) |
+| «Ikiru Hitobito», «Mabuta no Ura» | T3 | — | citados de pasada en la wiki | ⚠️ sin abrir su ficha |
+
+- **Qué ambiente dan**: «99» lo canta un coro (MOB CHOIR) sobre puñetazos,
+  caídas en picado y un skyline pop rosa y verde; «Refrain Boy» es un
+  paseo al atardecer de Mob y Reigen en silueta ✅ (vistos el OP1 y el
+  ED1). Los de la T2 y la T3 no se vieron ⚠️.
+
+### 11.2 La banda sonora
+
+- **Kenji Kawai** (川井憲次): sale en los créditos del OP1 (0:12) y en
+  Wikipedia ✅.
+- Discos: *モブサイコ100 Original Soundtrack* (23-nov-2016,
+  [MusicBrainz](https://musicbrainz.org/release-group/73aadcfd-0136-4e8d-85ad-3127342a1293))
+  y *II* (3-abr-2019,
+  [MusicBrainz](https://musicbrainz.org/release-group/c9191af8-e35d-47bb-b308-1c5f4c5877ab)) ✅.
+- Dirección de sonido: Kazuhiro Wakabayashi; efectos: **Shizuo
+  Kurahashi** ✅ (AniList staff).
+
+### 11.3 Qué suena en las escenas que más pegan
+
+- **La explosión al 100 %** (T1 ep. 3, 19:30-21:00): **ninguna canción**.
+  Percusión de Kawai que crece y **silencios de golpe** antes del impacto.
+  El recurso es el contraste silencio → estallido ⚠️ (oído por el
+  investigador de vídeo; falta entrevista).
+- **La despedida de Dimple** (T3 ep. 6): suena **«Gray»** de sajou no hana
+  cuando Reigen encuentra a Mob y Dimple ✅ (TV Tropes).
+
+### 11.4 Efectos y onomatopeyas que se reconocen
+
+- Un **«pop» seco** cada vez que sube el contador de %, y un **silbido
+  agudo** cuando Mob empieza a levantar cosas ⚠️ (de oído).
+- En pantalla, el «sonido» se **escribe**: las tarjetas 怒り, 殺意, 悲しみ, el
+  contador «Progress Toward Mob's Explosion: XX%» y el cartel 戦わない
+  «"Don't Fight"» (T1 ep. 12, 2:40) ✅.
+- En el manga, katakana sueltas y desgarradas: ドカドカドカッ, ゴトッ,
+  ガコンッ (hoja n.º 62) ✅.
+
+---
+
+## 12 · Vídeos y tendencias
+
+YouTube pidió iniciar sesión toda la tanda: lo de YouTube va con título
+y enlace, **sin minuto propio** ⚠️. Lo que tiene minuto se vio de verdad
+(§2).
+
+### 12.1 Tráileres y clips oficiales
+
+- Tráiler de Funimation, [Internet Archive](https://archive.org/details/turner_video_10908):
+  0:16 «from the mind of ONE», 1:40 logo «100%», 1:48 aura de rayos ✅.
+- Opening 1 capturado en Toonami, [Internet Archive](https://archive.org/details/mob-psycho-100-opening-us-toonami-edit) ✅.
+- Tráiler de la T3 con subtítulos en español,
+  [Dailymotion, 1:36](https://www.dailymotion.com/video/x8ec8b9?start=96):
+  Mob con la mano levantada, «¡Detente!» ✅.
+- Tráiler principal de la T3, [Dailymotion](https://www.dailymotion.com/video/x8e7v5h)
+  (JeuxVideo.com, 2:03, 11 892 vistas) y tráiler de la T2,
+  [Dailymotion](https://www.dailymotion.com/video/x8e6cgw) (1:16) ⚠️ sin mirar.
+- Clips oficiales de Crunchyroll localizados por ID (para un repaso):
+  [«Mob Goes ???%»](https://www.youtube.com/watch?v=aT_P7R2ebsQ),
+  [ending «Refrain Boy»](https://www.youtube.com/watch?v=HSUljcXSdvI),
+  [opening](https://www.youtube.com/watch?v=pUdaXUUDUew),
+  [«Dimple vs Shibata»](https://www.youtube.com/watch?v=GmbPAL-xcX0),
+  [«Live However You Want To»](https://www.youtube.com/watch?v=jOEBNYSLfSo) ⚠️.
+
+### 12.2 Análisis en YouTube
+
+| Vídeo | De qué va | Enlace |
+|---|---|---|
+| «Mob Psycho 100 Animation Breakdown – KOYAMA vs MOB!» (ago-2023) | la pelea de animación más citada | [YouTube](https://www.youtube.com/watch?v=OW8u8PDSB54) ⚠️ |
+| «PSYCHIC EXPLOSION?! Therapist's First React… Episode 3» | reacción a la explosión del ep. 3 | [YouTube](https://www.youtube.com/watch?v=xNZIXJvubuQ) ⚠️ |
+| «Mob Psycho 100 Explained in 13 Minutes» | resumen | [YouTube](https://www.youtube.com/watch?v=U5HtFGGR_i4) ⚠️ |
+| «The Most Pretentious Mob Psycho 100 Video» (jul-2023) | ensayo: por qué funciona | [YouTube](https://www.youtube.com/watch?v=If0IoKxb7-s) ⚠️ |
+| «"It's Coming": How Bad Translation Changes a Scene» | cómo una mala traducción cambia una escena | [Internet Archive](https://archive.org/details/youtube-h2d1VyWwTL4) ⚠️ sin mirar |
+| «Mob VS Tatsumaki» (Death Battle) | cruce con *One Punch Man* | [Internet Archive](https://archive.org/details/youtube-KYTaY21z07I) ⚠️ |
+
+El de la mala traducción interesa a un servidor de doblaje: vale la pena
+mirarlo en un repaso.
+
+### 12.3 TikTok (confirmado por buscador, no abierto)
+
+- Edits con «99» y con sonidos *phonk* sobre la explosión;
+  `#mobpsycho100edit`, `#mobpsychoedit` ⚠️.
+- Baile «Nice One Mob» con Tsubomi ⚠️.
+- Edits de Reigen presumiendo sin poderes, p. ej.
+  [@alexthebucket](https://www.tiktok.com/@alexthebucket/video/7508514329080122655) ⚠️.
+- En español: clips del Club de Fisicoculturismo («El Club De
+  Fisicoculturismo Defiende A Mob», T3 ep. 11) y «Mob Psycho 100 frases
+  español» ⚠️.
+
+### 12.4 Otros vídeos útiles
+
+- **Las tres obras de teatro** con subtítulos en inglés,
+  [Internet Archive](https://archive.org/details/Mob-Psycho-Stage-Plays-English-Subtitle) ⚠️
+  sin mirar: vestuario y volumen reales (§24).
+- **Capítulo 2 con audio de México**,
+  [Internet Archive](https://archive.org/details/mob-psycho-100-capitulo-2-temporada-1-audio-mexico) ⚠️
+  sin mirar: la mejor cantera para más frases textuales del doblaje.
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+**No hay juego de PC ni de consola** (Steam no da nada). Hay **dos juegos
+de móvil oficiales, los dos cerrados**, y un cruce con otro juego.
+
+| Juego | Quién | Fechas | Qué es | Estado |
+|---|---|---|---|---|
+| ***Mob Psycho 100: Psychic Puzzle*** (モブサイコ100〜サイキックパズル〜) | Shogakukan | 26-sep-2016 (Japón) → cerrado may-2018 | *match-3* con personajes disfrazados (Alicia, sirvienta) | ✅ wiki + ANN; [web archivada](https://web.archive.org/web/20161005170859/https://mobpsycho100-puzzle.com/) |
+| ***Mob Psycho 100: Psychic Battle*** | Crunchyroll Games | 13-ago-2019 (China), 9-ene-2020 (EE. UU.) → cerrado 1-jun-2021 | RPG por turnos, 5 contra 5, más de 80 personajes, voces japonesas | ✅ wiki + MobileSyrup |
+| Cruce con ***LINE Rangers*** (gacha) | — | jun-2023 | misiones y personajes de la serie | ⚠️ [Pocket Gamer](https://www.pocketgamer.com/line-rangers/mob-psycho-crossover/) |
+
+### 13.1 La interfaz de *Psychic Battle* (vista en las capturas)
+
+- **Pantalla de carga**
+  ([2660×1498](https://static.wikia.nocookie.net/mob-psycho-100/images/7/7e/Psychic_Battle_3.jpg)):
+  un **marco de tele** de esquinas redondas; arriba a la izquierda, un
+  **sello rojo 中継** («en directo»), como un telediario japonés; abajo a la
+  derecha, «NEWS»; dentro, una **caja blanca redondeada con el nombre en
+  negrita** («Memory»); debajo del marco, la frase en **blanco con
+  contorno negro grueso**; abajo del todo, una **barra de carga morada**
+  con el porcentaje ✅.
+- **Póster**
+  ([1280×1920](https://static.wikia.nocookie.net/mob-psycho-100/images/1/1c/Psychic_Battle_9.jpg)):
+  el logo rosa y «Psychic Battle» en sans redondeada blanca dentro de una
+  etiqueta rosa; fondo **amarillo de cuadrícula** con rombos negros y una
+  franja diagonal negra con **«100%» repetido** ✅. El medidor de la serie
+  hecho adorno.
+- La letra de los menús no se identificó (Game UI Database pide pasar
+  un reto de Cloudflare) ⚠️. Propuesta: Nunito (§6).
+
+### 13.2 Lo que no se encontró
+
+- **The Cutting Room Floor**: bloqueado por Cloudflare en los dos
+  intentos (curl y navegador). No se sabe si hay página; no se da por
+  inexistente ⚠️.
+- En Steam sólo hay un **mod de fans** para otro juego,
+  [«Mob Psycho Mod»](https://steamcommunity.com/sharedfiles/filedetails/?id=3564609890):
+  no cuenta como juego de la franquicia.
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### 14.1 Lo que ama
+
+Casi todo de [TV Tropes (YMMV)](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/MobPsycho100):
+
+- **Reigen, «Fountain of Memes»**: a la vez *Memetic Badass* (su suerte
+  imposible, su labia) y *Memetic Loser* («un desastre humano con el que
+  te identificas»). Etiqueta **#RedrawReigen** tras cada temporada ✅
+  ([CBR](https://www.cbr.com/mob-psycho-100-anime-manga-reigen-popular-character/)).
+- **Los «Muscle Bros»** del Club de Mejora Corporal: los deportistas
+  buenos ✅.
+- **Guiños a *One Punch Man*** (mismo autor, ONE). ONE comparó el poder de
+  Mob con el de Tatsumaki ✅.
+- **Mamoru Yoshioka**, el guardia poseído por Dimple (hoja n.º 54): una
+  sola escena y el fanbook le dio nombre ✅.
+- **Mob leído como autista** por parte del fandom: enmascara sus
+  emociones, es literal con el sarcasmo ⚠️ (una fuente, con varias citas).
+- **Cruces del fandom**: Reigen con Saul Goodman (*Better Call Saul*) y
+  con Gojo (*Jujutsu Kaisen*); fandoms amigos: *One Punch Man*, *My Hero
+  Academia*, *Saiki K.*, *Chainsaw Man* ✅.
+- **Reddit** ([r/Mobpsycho100](https://www.reddit.com/r/Mobpsycho100/comments/fkiaey/best_scene/)):
+  el hilo «Best scene» tiene 275 votos; el fandom reacciona fuerte a las
+  **peleas coreografiadas**, no sólo al drama ✅.
+
+### 14.2 Qué NO hacer (lo que a un fan le parecería falso)
+
+- **No dibujar a Mob guapo ni con ojos grandes de shonen genérico.** Su
+  cara es simple y redonda a propósito. El director probó hacerlo guapo y
+  «se veía raro» (§19) ✅.
+- **No limpiar la línea tosca** de ONE: es su identidad ⚠️.
+- **No dejar a Reigen sólo como bufón**: el fandom lo quiere porque
+  también es un adulto responsable que cuida de Mob ✅.
+- **No sexualizar a Tsubomi ni a Tome**: va contra el tono ⚠️.
+- **No pintar a Dimple azul**: es **verde** (§28).
+- **No usar una burbuja blanca lisa para el grito** (es dentada) ni
+  olvidar la tarjeta de emoción (§7).
+- **No mezclarlo con el estilo de *One Punch Man***: allí dibuja Yusuke
+  Murata, con línea limpia y detallada; aquí dibuja ONE (§25).
+- **Ojo con los cambios de voz sin avisar**: cuando Crunchyroll cambió
+  voces del doblaje inglés de la T3, parte del fandom lo boicoteó ✅. Para
+  un servidor de doblaje: **se valora la continuidad y que se explique**.
+
+---
+
+## 15 · Poses analizadas por personaje
+
+Fotogramas vistos por el equipo (episodios de la T1 en 1080p de
+Internet Archive y clips de Dailymotion) y números de las hojas.
+
+### 15.1 Mob
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| Neutro, oyendo | T1 ep. 1, 10:20 | relajado, manos a los lados, ojos redondos, boca pequeña, no cambia de cara | presentar sin énfasis |
+| Pensando | T1 ep. 3, 5:20 | mirada de lado, cejas rectas, boca cerrada | **pensar** |
+| La sal por encima del hombro | T1 ep. 1, 5:00 | de perfil, resignado, Reigen le echa sal | explicar el gag del dúo |
+| El aura empieza | T1 ep. 3, 19:00 | cabeza baja, el pelo sube, fondo morado | aviso, suspense |
+| Al 100 % | T1 ep. 3, 19:30-20:15 | de pie, brazos algo separados, **palmas abiertas hacia el suelo**, ojos que brillan, aura en anillos | **regañar**, enfrentar |
+| Grito de furia | T1 ep. 12, 5:00 | boca muy abierta, ceño, primer plano | regañar |
+| Sonrojado | T1 ep. 1, 15:40 | mejillas con rayas rosas, ojos entrecerrados, sonrisa forzada | **celebrar** con timidez |
+| «¡Detente!» | [tráiler T3, 1:36](https://www.dailymotion.com/video/x8ec8b9?start=96) | mano levantada, flequillo tapando los ojos | «alto», poner una regla |
+| Grito bajo un rayo verde | tráiler Funimation, 0:12 | en el colegio, el poder sale hacia arriba | **animar**, estallido |
+| Listo para pelear | hoja n.º 20 | aura violeta, una mano hacia delante, mirada fija | retar |
+| Valor | hoja n.º 13 | grita con luces azules y violetas | animar |
+
+En imagen real (hojas n.º 73 y 75), el actor de Mob hace la palma hacia
+delante: sirve para ver cómo cae el gakuran en volumen.
+
+### 15.2 Reigen
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| Vendiendo | T1 ep. 1, 3:20 | de pie, un brazo extendido señalando un edificio, sonrisa de vendedor | **presentar** |
+| Explicando un «curso» | T1 ep. 1, 2:40 | sentado, mano abierta como enseñando un menú, mirando a cámara | **explicar** |
+| Lanzando sal | T1 ep. 1, 5:00 | brazo en alto lanzando, cuerpo inclinado, cara seria de falso poder | **animar** |
+| Discurso de héroe | T1 ep. 1, 14:20 | de perfil, mentón alto, puño frente al pecho | animar, presentarse |
+| Decepcionado | T1 ep. 1, 23:05 | primer plano, cejas bajas, boca entreabierta, luz malva | **regañar** |
+| Farol con pistola de juguete | T1 ep. 12, 9:00 | de pie, apunta a un enemigo real con cara neutra | desafiar |
+| Al teléfono | hoja n.º 30 | cuerpo entero, móvil a la oreja, peso en una pierna | atender una consulta |
+| Brazos cruzados | hoja n.º 22 | de pie, en la oficina, mira a Serizawa | esperar, juzgar |
+| Diagrama de técnica | hoja n.º 35 | golpe de rodilla con etiquetas | explicar paso a paso |
+| Arte del ending | hoja n.º 8 | de pie, sonriente, estrellas y Dimple | celebrar, tono amable |
+
+### 15.3 Dimple
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| Forma falsa | T1 ep. 1, 17:00-17:20 | nube de humo violeta con cara enorme de dientes afilados | amenazar, presentarse a lo grande |
+| Sorprendido | T1 ep. 1, 18:40 | pequeño, ojos como platos, boca en O | reaccionar, **pensar** |
+| Pide tregua | T1 ep. 1, 19:40 | las dos manitas arriba, palmas hacia delante, cejas de súplica | calmar |
+| Riéndose | OP1, 0:26-0:28 | verde ácido, boca abierta | **celebrar**, burlarse |
+| Hablando por Mob | hoja n.º 2 | Mob con la mejilla rosa de Dimple | hablar a través de otro |
+| Gigante | hoja n.º 52 | cuerpo musculoso verde, un brazo hacia la cámara | presentarse |
+| El guardia | hoja n.º 54 | traje, mejillas rosas, cara de aburrido | gag |
+| Cartel de imagen real | hoja n.º 76 | mano en la barbilla, sonrisa, letras 俺様と組まねえか? | **invitar**, reclutar |
+
+### 15.4 Teru y Ritsu
+
+| Quién | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| Teru | capa violeta, cayendo en picado | OP1, 0:06-0:10 | acción |
+| Teru | mirada fría | OP1, 0:34-0:36 | regañar con soberbia |
+| Teru | ríe con los brazos abiertos sobre la ciudad | hoja n.º 25 | presentarse soberbio |
+| Teru | presentación: sonrisa, una mano a la altura del hombro | hoja n.º 41 | **presentar** |
+| Teru | cabeza entre las manos | hoja n.º 79 | tristeza |
+| Teru | montaje de posturas de combate | hoja n.º 48 | acción |
+| Ritsu | halo de energía | OP1, 0:30-0:34 | poder recién llegado |
+| Ritsu | choca con Teru sobre magenta | tráiler Funimation, 0:40 | acción |
+| Ritsu | cuerpo entero con el bolso azul | hoja n.º 58 | presentar |
+| Ritsu | hoja de modelo con varias caras | hoja n.º 65 | expresiones |
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Medido con Pillow **sobre las hojas de modelo oficiales**, recortando
+sólo la prenda (sin contorno ni brillos). Todo junto en
+`hojas/vestuario_01.jpg`.
+
+| Personaje y ropa | Colores | Estado |
+|---|---|---|
+| **Mob**, gakuran negro del colegio Salt | chaqueta `#262629`, **botones oliva `#D0C85D`**, zapatillas `#E2E5E5`, pelo `#101010` | ✅ |
+| **Reigen**, traje de consultor | traje gris `#7C7882`, camisa `#D2D4D8`, **corbata rosa `#C893BE`**, pelo `#CA9E42`, zapatos `#393B3A` | ✅ |
+| **Ritsu**, el mismo gakuran | chaqueta `#262628` (igual que Mob), pelo azul casi negro `#090C22`, **bolso bandolera azul `#285A90`** | ✅ |
+| **Teru**, uniforme de la secundaria Black Vinegar | blazer morado `#7963A1`, corbata a rayas verde azulado `#4B7D8E`, camisa `#E5E9E8`, pelo `#E7DBA6` | ⚠️ una imagen |
+| **Dimple**, traje de imagen real | capucha `#47A9A8` (sombra `#3D9BA6`, brillo `#96D7C1`), mono negro `#0B0B0C` | ⚠️ una imagen |
+| **Dimple en el anime** | verde (hojas n.º 45, 52, 71) | ⚠️ **sin hex medido** |
+
+- **Lo icónico** que reconoce cualquier fan: el **gakuran negro de Mob**
+  y el **traje gris con corbata rosa de Reigen**. Son los de todas las
+  figuras y cosplays ✅ ([Carbon Costume](https://carboncostume.com/arataka-reigen/)
+  + Danbooru).
+- **No cambian por temporada**: Mob y Reigen llevan lo mismo en las tres.
+  Lo que cambia es el **pelo de Mob en el arco final** (más largo) ⚠️ sin
+  imagen grande.
+- **Teru cambia**: en la T2 lleva la gaviota bordada (§8.5).
+- **El verde `#052805`** de la hoja de vestuario **no es ropa de Mob**: es
+  el fondo verde de la hoja de modelo de la wiki que se coló en el
+  recorte (§28).
+- **Estado 100 %**: el pelo no cambia de color, cambia de forma: se eriza
+  y el contorno se vuelve «arañado». En ???% sí: **pelo blanco y ojos
+  rojos**, todo en monocromo (§8.1).
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+### 17.1 Los sitios y su hora
+
+- **Mañana o día nublado**: calle del barrio (T1 ep. 1, 3:20), patio del
+  colegio Salt (hoja n.º 37). Luz plana, pastel verde y arena.
+- **Tarde en interior**: la oficina de Reigen (T1 ep. 1, 9:40), beige y
+  oliva apagados.
+- **Atardecer**: el ending 1, Mob y Reigen en silueta contra malva y
+  naranja (T1 ep. 1, 23:05); el monte en otoño a contraluz (T1 ep. 12,
+  23:20-23:40).
+- **Noche**: callejón con farolas amarillas (T1 ep. 1, 4:00); calle con
+  neón y Dimple (hoja n.º 68, `#0D0E12`).
+- **Sin hora, «psíquico»**: el salón de la secta con un foco dorado (T1
+  ep. 3, 8:00) y todo lo que brilla en cian `#02EBFD`.
+- **Ciudad arrasada** vista desde arriba (hoja n.º 25) y el **brócoli
+  gigante** (n.º 18) para la T3.
+
+Paletas y hex en §5.
+
+### 17.2 Fondos de pantalla en alta (de fans, con autor)
+
+No se encontraron fondos **oficiales** de Bones o Crunchyroll en alta ⚠️.
+Los mejores de [Wallhaven](https://wallhaven.cc) (1920×1080 o más):
+
+| Tamaño | ♥ | Qué es | Enlace | Autor u origen |
+|---|---|---|---|---|
+| 3840×2160 | 115 | Mob minimalista | [imagen](https://w.wallhaven.cc/full/we/wallhaven-weqmlr.png) | subido por nachofaith, sin origen ⚠️ |
+| 3000×2400 | 131 | ojos en monocromo | [imagen](https://w.wallhaven.cc/full/og/wallhaven-ogxjxm.png) | SpeedLoover |
+| 1920×1714 | 95 | Mob pintado, buena luz | [imagen](https://w.wallhaven.cc/full/dp/wallhaven-dpklll.jpg) | Jacob Noble (ArtStation) |
+| 3840×2160 | 61 | Mob transformándose, minimalista | [imagen](https://w.wallhaven.cc/full/p9/wallhaven-p9k2kj.jpg) | Xz0Philip, sin origen ⚠️ |
+| 2560×1440 | 49 | Mob y Ekubo | [imagen](https://w.wallhaven.cc/full/p2/wallhaven-p2l61j.png) | CrisEVA01, sin origen ⚠️ |
+| 2160×3360 | 51 | cruce con *Dandadan* (Mob, Reigen, Ken, Momo) | [imagen](https://w.wallhaven.cc/full/gp/wallhaven-gpydql.jpg) | [jope0o](https://x.com/jope0o/status/1841772743521665224) |
+| 1920×1080 | 104 | minimalista | [imagen](https://w.wallhaven.cc/full/9m/wallhaven-9mow7w.jpg) | EdwardKenwayEzio ⚠️ |
+| 1920×1080 | 82 | monocromo, ojos que brillan | [imagen](https://w.wallhaven.cc/full/mp/wallhaven-mpvjp8.jpg) | mrdexterito ⚠️ |
+| 1920×1080 | 50 | Mob sobre blanco | [imagen](https://w.wallhaven.cc/full/mp/wallhaven-mpvw71.jpg) | SomeonePro99 ⚠️ |
+| 1920×1080 | 49 | collage de manga con texto | [imagen](https://w.wallhaven.cc/full/r2/wallhaven-r2e277.jpg) | [dinocozero](https://www.deviantart.com/dinocozero) |
+| 1920×1080 | 49 | parodia con Mob, Reigen y Ekubo | [imagen](https://w.wallhaven.cc/full/76/wallhaven-76w7r3.png) | stickydoona (Tumblr) |
+
+Fotogramas oficiales en 1920×1080 que sirven de fondo: los de los
+endings (hojas n.º 8 y 26) y casi todos los de la hoja 1 (n.º 2-28).
+
+---

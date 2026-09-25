@@ -391,3 +391,176 @@ Capturas oficiales de Steam medidas con `estilo.py` (`hojas/fondos_interfaz_03.j
 - **Fondos de fans en alta** ([Wallhaven](https://w.wallhaven.cc/full/k9/wallhaven-k9p181.jpg)): 4500×3971, selva con eclipse de *Shadow* (96 favoritos); 3840×2160 de *Rise* (268 favoritos, el más guardado); varios de *Shadow* en 3440×1440 y 3840×2160 (en `referencias.json`). ⚠️ sin licencia explícita: sólo referencia.
 - **Fondo oficial más «postal»**: el nº5 (puente con niebla). **El más tenso**: el nº6 (cueva).
 - **Para montar sin copyright**: los HDRI CC0 «Colosseum» y «Blue Grotto» de Poly Haven (punto 3).
+
+## 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con todo lo anterior.
+
+### Para una IA de imagen (Firefly, Canva)
+
+- **Elige primero la época.** No se mezclan:
+  - **Clásica (1996-2008)**: render CG limpio, colores vivos, luz de foco dura. Tank top menta, short marrón, trenza, dos pistolas en los muslos, mochila pequeña.
+  - **Survivor (2013-2018)**: fotorrealista, sucio, desaturado. Tank top gris o azul gris, cargo, arco, piolet, colgante de jade, barro, rasguños, vendas.
+- **Rasgos que nunca cambian**: ojos y pelo castaños; pelo largo recogido (trenza o coleta); guantes sin dedos; botas; cuerpo atlético; mirada decidida; siempre activa (escala, apunta, examina), casi nunca posando quieta.
+- **Paleta**: tierra y musgo (`#4C3F2D`, `#86714F`, `#3A604E`), luz dorada (`#E9C392`, `#F5DDA4`), frío de cueva y nieve (`#3B444B`, `#E9E3D2`). Un solo acento fuerte: el abrigo rojo `#922F27` o una antorcha.
+- **Línea y sombreado**: **sin contorno**. Es 3D: sombreado degradado, materiales reales (piedra, cuero, tela gastada).
+- **Luz**: rayos de sol entre árboles con niebla (*god rays*), antorchas en la oscuridad, contraluz a la entrada de un templo, un solo haz en una cueva. Grano fino y viñeta suave.
+- **Encuadre**: plano general con **Lara pequeña ante una ruina enorme** (escala), o **primer plano muy cerrado** de la cara en tensión.
+- **Palabras que ayudan** (en inglés): *female explorer, archaeologist, ancient jungle temple ruins, moss-covered carved stone, volumetric light rays, mist, torchlight, cinematic, photorealistic, muted earthy palette, dirt and scratches, climbing axe, recurve bow, fingerless gloves, long braid, jade pendant, rope bridge, cave with a single shaft of light*. Si la IA no acepta el nombre del personaje, descríbela así.
+- **Palabras que la estropean**: *anime, chibi, cel shading, cartoon outline, speech bubble, neon, pastel, glossy, pin-up, sexy pose, bikini, clean new clothes* (en la Survivor), *victim, tied up, helpless*.
+- **Referencias de estilo**: `hojas/arte_oficial_01.jpg` nº1 (nieve), nº15 (selva de noche), nº16 (naufragio); `hojas/fondos_interfaz_03.jpg` nº1, nº5 y nº6 (luz de ruina).
+- **Referencias de pose**: `hojas/arte_oficial_01.jpg` nº9 (reliquia), nº13 (apoyada), nº7 (escalando); `hojas/vestuario_02.jpg` nº4 y nº5 son **hojas de giro** (frente, perfil, espalda): las mejores para que la IA no invente la ropa.
+- **Vocabulario de expresiones**: no hay gotas de sudor, ojos de manga ni fondos de emoción. Se dice con gestos reales: *clenched jaw, furrowed brow, mud-streaked face, heavy breathing, wide eyes, looking down in thought, hand reaching out*.
+- **Ejemplo**: *photorealistic female explorer with a long brown braid, grey tank top, olive cargo pants, fingerless gloves, jade pendant, crouching and reaching toward a carved golden relic on a stone pedestal inside a moss-covered jungle temple, single torch as key light, god rays through mist, muted earthy palette, cinematic wide shot, film grain*.
+
+### Para una IA de texto (sus diálogos)
+
+- **Cómo habla Lara (Survivor)**: frases cortas. Educada, nunca vulgar con los suyos. **Ironía seca**. En peligro, dos o tres palabras: «Sigue moviéndote». Se habla a sí misma para darse valor: «Puedo hacerlo». Explica con datos: nombra mitos, pueblos, fechas. Sólo insulta a los villanos, y sólo al límite.
+- **Cómo habla la clásica**: más segura, más altiva, con humor de aristócrata inglesa.
+- **Puntuación**: pocas exclamaciones, casi siempre una sola. Nada de «¡¡!!», ni onomatopeyas escritas, ni emojis. Pausas con punto, no con puntos suspensivos en cada frase.
+- **Cómo exagera**: no exagera. La emoción está en lo que calla. Cuando estalla, es un grito corto.
+- **Frases reales por emoción** (inglés original; la traducción es del redactor, **no es el doblaje**, que no se encontró):
+  - **Alegre, ilusionada**: «I'd finally set out to make my mark; to find adventure.» (por fin salí a dejar huella, a buscar aventura). ⚠️ no hay una frase alegre de verdad: el tono es otro.
+  - **Enfadada**: «Run, you bastards! I'm coming for you all!» · «F**k you Rourke! I'm coming for you.»
+  - **Explicando**: «A famous explorer once said that the extraordinary is in what we do, not who we are.» (lo extraordinario está en lo que hacemos, no en quiénes somos).
+  - **Animando**: «When life flashes before us, we find something. Something that keeps us going. That pushes us.» · «Just keep moving.» · «I can do this.»
+  - **Triste, en paz**: «I'm done searching. I want to be around the living.» (he dejado de buscar; quiero estar entre los vivos).
+  - **Decidida**: «I'm not going home.» · «You don't know how far I've come.»
+  - **Sarcástica**: «Better keep your distance then.»
+- **Otros**: Jonah la llama **«little bird»** (pajarito). Winston es formal y la trata de «Lady Croft» (apodo de la ficha). Sam es cálida y bromista.
+- **Vocabulario de la saga**: Trinity, Solarii, Yamatai, Kitezh, Paititi, Croft Manor, Endurance, **Base Camp** (campamento base), **Salvage** (chatarra para fabricar), **Survival Instinct** (instinto de supervivencia), reliquia, tumba. ⚠️ el nombre oficial en la versión latina de cada término no se comprobó.
+
+## 18 · Estilo y técnica, y cómo replicarlo
+
+Tomb Raider **no es 2D**: es 3D realista con captura de movimiento. La «línea» y el «sombreado» son motores, *shaders* y materiales.
+
+- **Motores**: **Crystal Engine** en TR 2013 ✅ (Wikipedia y prensa técnica). **Foundation Engine** en *Rise* y *Shadow*, estrenado en *Temple of Osiris* (2014) ✅.
+- **El pelo**: en 2013, **TressFX**, el primer pelo **hebra a hebra** en tiempo real de un videojuego, hecho con AMD y Confetti Interactive. Grupos de pelo («Bangs», «Caps», «Fringe», «Ponytail») con gravedad y choque con cabeza y cuerpo ✅ ([fxguide](https://www.fxguide.com/quicktakes/day-2-at-fmx-2013/), [Wikipedia](https://en.wikipedia.org/wiki/TressFX) y otra). En *Rise*, **PureHair**: el pelo se simula con *compute shaders* y **7 búferes** ✅.
+- **Render de *Rise*** ([elopezr.com](https://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/)): renderizado **diferido**; las sombras de todo el nivel van en **un atlas único de 16384×8196** ✅.
+- **Materiales** (entrevista a **Dannie Carlone**, artista de entornos de *Rise*, [80.lv](https://80.lv/articles/combining-zbrush-and-substance-designer-for-games), 30-ene-2017): **PBR** (cada material con su color y su rugosidad reales); se esculpe en **ZBrush** y los materiales salen de **Substance Designer**, no de fotos sueltas ✅.
+- **Encuadres** (vistos): planos amplios con Lara pequeña ante la ruina; primeros planos muy cerrados en tensión (demo de *Rise*, **5:30**; «Turning Point» **2:24**).
+
+**Cómo hacerlo en Blender** (nada de Line Art ni Freestyle: no hay contorno):
+- Ruinas y rocas: **Sculpt Mode** con multirresolución (el papel de ZBrush). Base: el «Mayan Temple» o «Ancient Ruins» de Sketchfab (punto 3).
+- Materiales: **Principled BSDF** con los mapas CC0 de ambientCG (`Rock064`, `Gravel043`): color, rugosidad y normal.
+- Pelo: **partículas de pelo con físicas** (gravedad y colisión), como TressFX.
+- Luz: **Sol + luces de área** para los rayos entre árboles; **Volume Scatter** para la niebla húmeda. HDRI «Colosseum» o «Blue Grotto» para el ambiente.
+- Render: **Cycles** para la final; Eevee sólo para probar.
+- Personaje: los *rigs* libres de Lara de Sketchfab (YØD, Vala, Yxboireal), sólo para posar, con crédito.
+
+**Cómo hacerlo en Photoshop**:
+- Fotocomposición de la ruina más Lara recortada (con `v3/integrar.py`, regla 3 del dueño).
+- Curvas y Balance de color hacia **verde musgo con ámbar de antorcha**.
+- Capas de humo y rayos en modo **Trama**; viñeta suave; **grano fino**.
+
+## 19 · Texturas 2D, emblemas y parches
+
+No hay tramas de manga: es videojuego. Aquí van emblemas, logos, parches y texturas.
+
+- **Escudo de la familia Croft** (coleccionable del DLC *Blood Ties* de *Rise*, 747×747): escudo cuartelado **azul gris con cruz dorada**, yelmo con **dos espadas cruzadas**, una «C» en el centro y la cinta «Croft» debajo, marco de metal con remaches. Dorado envejecido `#7F7A6E` y `#C0B9A8`, sombreado casi plano ✅ ([imagen](https://static.wikia.nocookie.net/laracroft/images/7/72/Croft_Family_Crest.png), `hojas/vestuario_02.jpg` nº6).
+- **Emblema de Trinity**: parche **triangular rojo granate** en el uniforme de un cadáver, visto en una polaroid del juego (1019×1019). ⚠️ el hex no se puede medir: la foto está muy oscura. Hay también un **sello circular** de Trinity (518×612).
+- **Símbolo de los Solarii** (la secta de Yamatai), 300×300 ✅.
+- **Materiales de la ropa**, citados por el estudio: nylon, spandex, poliéster en malla, cuero, termoplástico moldeado. Para pintar la ropa de Lara, pensar en esas capas, no en «tela» ✅ (punto 15).
+- **Elementos 2D de la interfaz**: el **marco punteado** de la ficha de reliquia, el **marco blanco de polaroid**, la **línea fina** bajo los títulos, la **moneda dorada** del punto de habilidad (punto 11).
+- **Texturas CC0**: ambientCG [`PavingStones151`](https://ambientcg.com/view?id=PavingStones151) (piedra de cantera), `Rock064` (roca con musgo), `Ground068` (suelo de selva), `Gravel043` (grava).
+- ⚠️ **Pinceles libres** (papel de cuaderno, tinta de mapa, grano de foto vieja): no se buscaron.
+
+## 20 · Gustos y detalles
+
+**Lara Croft** (ficha Survivor de la wiki y biografías oficiales):
+- **Cumpleaños**: **14 de febrero** en las tres continuidades; en la Survivor, de **1992** ✅.
+- **Altura**: **1,75 m** (Core Design, 1996), unos **1,78 m** (Crystal Dynamics, 2006), **1,68 m** (Survivor, la más citada hoy) ✅.
+- **Ojos y pelo**: castaños. Soltera. Arqueóloga. Estudió en el **UCL**.
+- **Apodos**: «Little Bird», «Lady Croft», «Ixik», «Ahau», «Ix Chel» (los tres últimos, de *Shadow*).
+- **Comida**: **Jaffa Cakes**, que hasta ofrece a una cierva en Siberia ⚠️ una fuente.
+- **Aficiones**: la escalada (desde Gordonstoun), el tiro (se lo prohibieron de joven), leer, estudiar mapas y leyendas.
+- **El objeto que siempre lleva**: el **colgante de jade** que le hizo Roth (atado con un cordón de bota, según la parte de voz); en la Survivor, también el **piolet** de Roth.
+- **Lo que odia**: «I hate tombs», dicho en broma ⚠️. Que destruyan la historia (perfil de fans ⚠️).
+- **Cómo se ve a sí misma**: al final de *Shadow* **acepta ser «Tomb Raider»** (punto 25). En 2013 ya no quiere volver a casa.
+
+**Los demás** (lo que hay):
+- **Winston**: su bandeja de té y la mansión. **Roth**: su héroe es Shackleton. **Sam**: las fiestas y la gente.
+- ⚠️ Jonah, Sam, Roth y Natla **no tienen ficha** de cumpleaños, altura ni comida en las partes.
+
+## 21 · Por qué la aman
+
+**Razones concretas:**
+- **Es la heroína de videojuego por excelencia**: la más icónica según BAFTA (2024) y la más vendida y con más portadas según Guinness (punto 7). Lleva **30 años** viva en juegos, cine, cómic, anime y cruces (Fortnite, Call of Duty, Brawlhalla) ✅.
+- **La gente se identifica con su tesón, no con su cuerpo.** Pasó de «fantasía masculina» a «una heroína con la que las chicas se identifican y a la que los chicos respetan». Esa Lara más humana vendió **un millón en 48 horas** ✅ (The Artifice y Christ and Pop Culture).
+- **Es inteligente**: resuelve por lo que sabe. Arqueóloga de verdad, no sólo tiradora.
+- **Sam** es el personaje de quien quiere ver la amistad (o el amor) entre dos mujeres (punto 7).
+- **Los veteranos aman el silencio y la soledad** de los clásicos, y echan de menos su tema: el propio McCree lo compara con un Bond sin su música (punto 9).
+
+**Las escenas que hacen llorar** (TR 2013):
+- **La muerte de Conrad Roth.** Tras estrellarse el helicóptero en el que huían, Roth reanima a Lara con RCP y muere poco después, protegiéndola. Duele porque es **su padre de verdad**. Hay hilos enteros titulados «The saddest scene» ✅ ([Tomb Raider Forums](https://www.tombraiderforums.com/showthread.php?t=210514) y Game Rant).
+- **El sacrificio de Alex Weiss.** Sin balas, dispara a una tubería de gas y vuela con sus atacantes para que ella escape. Ella le da un beso en la mejilla y luego lo sueña en llamas ✅ (Fandom y [Steam Community](https://steamcommunity.com/app/203160/discussions/0/540736780917247220/)).
+- ⚠️ **Sin minuto exacto, sin música confirmada y sin análisis del plano**: son cinemáticas del juego; no están en los tráileres ni en el *longplay* mirado. Tampoco se leyeron comentarios con más votos ni vídeos de reacción.
+
+**Las que hacen gritar de emoción**: «Run, you bastards! I'm coming for you all!», con el lanzagranadas contra los Solarii, está entre sus frases oficiales más icónicas ✅. En el tráiler, el paso de la huida a la decisión de **2:24** a **2:32**.
+
+**Las que hacen reír**: Winston y el congelador (punto 12) ✅.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Croft Generation** (desde 2011): doblaje de fans en español, como mod, para *Tomb Raider I-III Remastered*, porque esos juegos no tuvieron doblaje oficial. Con análisis en su web ([Croft Generation](https://www.croftgeneration.com/en/2024/02/14/tomb-raider-i-ii-iii-remastered-fan-dubbing-and-analysis/)). ⚠️ una fuente, y es **español de España**, no latino.
+- **Fandub en directo de *Tomb Raider I Remastered***, subido luego a YouTube: lista «Tomb Raider I Remastered (Doblaje Fan Español)» ([YouTube](https://www.youtube.com/playlist?list=PLnZP7lXEcx1DJJKfjL6JYb-C9dXZrclaz)). ⚠️ una fuente; acento de España sin comprobar voz por voz.
+- **Vídeo sobre las voces latinas**: «Las Mujeres Detrás De La Voz de Lara Croft en Latino | Iceberg de Rise Of The Tomb Raider» (YouTube Shorts). No es un fandub, pero es comunidad hispana de doblaje ⚠️ sin ver.
+- **Memes hispanos en TikTok**: «cuando estoy triste, sólo miro la foto oficial de la pequeña Lara Croft»; Lara que hace de todo menos volver a casa; Lara «dramática» con el dinosaurio de *Anniversary*; «son la misma persona» con Lara y su doble (la Doppelgänger existe de verdad en el juego). ⚠️ sin canal ni vistas.
+- ⚠️ **No encontré** fandubs latinos con canal, enlace y vistas, ni covers en español (la serie de Netflix no tiene un *opening* cantado que versionar). Buscado en español e inglés.
+- **Idea para el servidor**: no hay un fandub latino fuerte de Tomb Raider. Es un hueco que el servidor podría llenar (los juegos clásicos no tienen doblaje latino).
+
+## 23 · Colaboraciones, figuras y cosplay
+
+Fuente: la página [«Tomb Raider Crossovers»](https://tombraider.fandom.com/wiki/Tomb_Raider_Crossovers) entera, cada cruce con su anuncio oficial.
+
+- **Fortnite** (Capítulo 2, Temporada 6): aspectos Lara Classic, 25.º aniversario, Gold y Survivor; accesorios «Little Bird», «Pry Axe», «Salvaged Chute». El evento **«Mystery at Croft Manor»** mete **la mansión entera** como isla (código `0116-9392-3142`) ✅ ([Epic Games](https://www.epicgames.com/fortnite/en-US/news/mystery-at-croft-manor-experience)).
+- **Call of Duty: Warzone / MWII** (23-ago-2023): «Tracer Pack: Tomb Raider» con el **piolet** y las **pistolas Mach-5** ✅ (tuit y blog oficiales).
+- **Dead by Daylight** (jul-2024), **Naraka: Bladepoint** (ago-2024), **Rainbow Six Siege** (aspecto de Ash, mar-2020), **Delta Force** (abr-2026) ✅.
+- **Magic: The Gathering, Secret Lair** (20-nov-2023): cartas ilustradas, entre ellas **«Kitezh, Sunken City»** ✅.
+- **Final Fantasy**: traje en *Lightning Returns* (con hacha de escalada gigante y escudo), traje en *FF XV* (parche 1.26, sep-2018), unidad en *Brave Exvius* y *War of the Visions* ✅.
+- **Más**: Ghost Recon Breakpoint (jul-2021), **PowerWash Simulator** (DLC «Croft Manor», ene-2023: la mansión de nuevo), Team Fortress 2 (dic-2014), World of Tanks (jul-2025, con **Keeley Hawes** de vuelta), Animal Crossing (ropa gratis, código `MA-5858-0335-8877`), Brawlhalla, Fall Guys, Hero Wars, State of Survival, The Walking Dead: Survivors, Pinball FX ✅.
+- ⚠️ La wiki tiene una página «Jeep Wrangler Rubicon and Tomb Raider Bundle»; la parte de imagen la leyó pero no anotó detalle. Colaboraciones de **moda** (Nike, MAC, Prada) para los juegos: **no encontradas**.
+
+**Figuras oficiales** (su pose es referencia 3D):
+- **Gaming Heads / Sideshow**: estatua 1:6 de poliresina (~14"), **pose clásica con las pistolas listas**, basada en la portada original ([Sideshow](https://www.sideshow.com/collectibles/tomb-raider-lara-croft-gaming-heads-903481/)). Más ediciones de TR III, Survivor y *Rise* ([Gaming Heads](https://www.gamingheads.com/rise-of-the-tomb-raider-lara-croft-exclusive-edition-statue.html)) ✅.
+- **Weta Workshop**: estatua 1:4 de *Shadow*, presentada en la Comic-Con de San Diego 2018, esculpida en ZBrush por **Daniel Cockersell**, 750 piezas; y **«Lara Croft: Quest for Avalon»** 1:4 (basada en *Underworld*, 2025) ✅ ([Weta](https://www.wetanz.com/us/lara-croft) y [Tomb Raider Horizons](https://tombraiderhorizons.com/2025/07/22/weta-workshop-unveils-lara-croft-quest-for-avalon-statue/)).
+
+**Cosplay**:
+- Crystal Dynamics tiene una **sección oficial de cosplay** con guías por traje (materiales exactos, punto 15) y pide subir fotos con `#TombRaider` ✅.
+- Fotos con licencia libre: **Kanracakes** (JAFAX 2013) y la exposición de *Rise* de **K-putt** (punto 3). Material a imitar: tank top de canalé, cargo reforzado, cuero en fundas y bolsas, termoplástico en correas.
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Indiana Jones** (las películas): la influencia que reconoce el propio **Toby Gard**, que habla del reto de estar «a la altura» de sus aventuras arqueológicas. También cita ***Tank Girl*** y ***Hard Boiled*** ✅ ([entrevista de 1996](https://core-design.com/interview23.html) y [Game Developer](https://www.gamedeveloper.com/design/interview-with-toby-gard)).
+- **Uncharted** (Naughty Dog): ida y vuelta. Empezó en 2007 como un «clon de Tomb Raider» con aire de Indiana Jones, y el reboot de 2013 tomó de él la cámara de cine, el trepado guiado y los tiroteos ✅ ([Game Rant](https://gamerant.com/indiana-jones-great-circle-tomb-raider-uncharted-differences/) y [Bell of Lost Souls](https://www.belloflostsouls.net/2022/02/explorer-showdown-uncharted-vs-tomb-raider-vs-indiana-jones)).
+- ***Indiana Jones and the Great Circle*** (2024, MachineGames): la prensa lo compara con los dos; más sigilo, menos disparos ✅ ([G2A](https://www.g2a.com/news/features/indiana-jones-the-great-circle-vs-uncharted-tomb-raider) y Game Rant).
+- **Cómics de Dark Horse**: mismo universo, mismo tono de culpa de superviviente (Rhianna Pratchett escribió los juegos de 2013 y *Rise*).
+- **La comparación que usa su compositor**: James Bond (punto 9).
+- **Láminas vecinas del servidor**: en `servidor/inventario.md` no hay otra serie de aventura arqueológica con lámina. En el repositorio, otras biblias de videojuego proponen canales cercanos: **117 God of War** propone **#guia**; **124 No Man's Sky** propone **#a-que-juegas**; **119 A Plague Tale** y **120 Days Gone**, otros. Coincidir de canal no es problema; la idea de lámina aquí es otra (cuaderno de campo, reliquias, hoguera).
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas:**
+1. Lara es arqueóloga y exploradora; cada juego busca una reliquia o ciudad perdida de un **mito real**.
+2. Casi siempre hay un rival con más medios que quiere el objeto por su poder: **Natla**, o la orden **Trinity**.
+3. Las ruinas tienen **trampas antiguas**: al principio todo parece real; lo sobrenatural se revela al final.
+4. Lara sobrevive **improvisando** (arco, piolet, cuerda), no con tecnología.
+5. El tono es **supervivencia y aventura**, con toques de terror; no fantasía abierta.
+
+**La historia por arcos:**
+- **Original (1996-2003)**: TR1 a *Angel of Darkness*. TR1: Lara busca el **Scion de la Atlántida** y se enfrenta a **Natla**. En *Angel of Darkness* muere su mentor **Von Croy**.
+- **Legend (2006-2008)**: *Legend*, *Anniversary* (remake de TR1) y *Underworld*. En *Underworld* Lara encuentra a su madre **Amelia** en **Helheim**, convertida en un «thrall», y la mata sin saber si quedaba algo de ella; Natla le revela que fue ella quien mató a Richard y convirtió a Amelia ✅.
+- **Survivor (2013-2018)**:
+  - **TR 2013**: naufragio en **Yamatai**; Lara mata por primera vez; se enfrenta a la secta **Solarii** y al espíritu de **Himiko**; mueren Roth y Alex.
+  - ***Rise*** (2015): busca en **Kitezh** (Siberia) la **Divine Source**, tras la pista de su padre (⚠️ el motivo exacto no está claro en las partes), y se enfrenta a Trinity y a **Ana**, la traidora.
+  - ***Shadow*** (2018): roba un puñal en **Cozumel** (México) y **desata sin querer un apocalipsis maya**; viaja a **Paititi** (selva de Perú); vence al líder de Trinity, **Pedro Domínguez**, y **acepta ser «Tomb Raider»**.
+- **Lo próximo**: *Legacy of Atlantis* (12-feb-2027, Crystal Dynamics y Flying Wild Hog) y *Catalyst* (2027).
+
+**Sitios y símbolos**:
+- **Trinity**: orden secreta de estilo Illuminati, «desde antes de Cristo», con un Alto Consejo y cuartel probable en el Vaticano. Líder: **Pedro Domínguez**; brazo armado: **Rourke**. Sello circular y parche triangular ✅ ([ficha](https://tombraider.fandom.com/wiki/Trinity_(Survivor_Timeline))).
+- **Yamatai**: reino perdido japonés de la **Reina del Sol Himiko**, que pasaba su alma a una sucesora para no morir. Su guardia de élite, los **Stormguard**; los náufragos convertidos en secta, la **Hermandad Solarii** ✅ ([ficha](https://tombraider.fandom.com/wiki/Yamatai)).
+- **Kitezh y la Divine Source**: ciudad rusa hundida en un lago de Siberia. El «Profeta sin muerte» (**Jacob**) halló la Fuente Divina en la isla de Rügen en el año 866; da la inmortalidad y roba el alma a quien la mira ✅ ([Kitezh](https://tombraider.fandom.com/wiki/Kitezh), [Divine Source](https://tombraider.fandom.com/wiki/Divine_Source), que cita la charla GDC «Raid on Rise: Narrative Creation»).
+- **Endurance**: el barco de Roth, casa del grupo antes del naufragio ✅.
+- **Croft Manor**: la mansión, distinta en cada continuidad; nivel jugable en *Shadow*; escudo de la familia en *Blood Ties* ✅ ([ficha](https://tombraider.fandom.com/wiki/Croft_Manor)).
+- **Objetos icónicos**: las **dos pistolas**, la **trenza**, la **mochila**, el **arco**, el **piolet**, el **colgante de jade**, el **Scion**, la **bandeja de Winston**.
+- **Vocabulario que un fan reconoce**: Trinity, Yamatai, Solarii, Kitezh, Remnants, Paititi, Croft Manor, Endurance, Base Camp, Salvage, Survival Instinct, «little bird», «Tomb Raider» (lo que ella acepta ser) ✅.
