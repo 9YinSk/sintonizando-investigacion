@@ -31,7 +31,7 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
 
 <!-- lotes -->
-## Costos de los lotes (25-09-2026, 02:23 UTC)
+## Costos de los lotes (25-09-2026, 02:38 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
 

@@ -1,10 +1,10 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 25-09-2026, 02:23 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 25-09-2026, 02:38 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 <!-- lotes -->
-## Cómo va por lotes (25-09-2026, 02:23 UTC)
+## Cómo va por lotes (25-09-2026, 02:38 UTC)
 
 Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 25** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 19, 20, 21, 22, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 77, 78.
 

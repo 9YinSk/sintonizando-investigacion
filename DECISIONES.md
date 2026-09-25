@@ -8,6 +8,11 @@ aquí la línea de aviso de su informe. Cuando el dueño decida algo, se tacha
 
 ## 1. Decide usted (choques entre canales o propuestas)
 
+- [x] ~~**Choques de canal**~~ **Decidido (25-sep):** las biblias son generales, no sólo para
+      Discord. El canal de cada serie es una propuesta; que dos series pidan el mismo canal
+      no bloquea nada. Los choques de abajo y los de los lotes quedan sólo como nota, por si
+      algún día se hacen esas láminas.
+
 - [ ] **#reto-de-la-semana**: lo piden Naruto (30) y Haikyuu (34). ¿Cuál se lo
       queda, o se turnan?
 - [ ] **➕ CREAR SALA** (Jujutsu Kaisen, 32): los textos son una propuesta.
@@ -89,7 +94,7 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
 - En China el personaje favorito de Attack on Titan es Mikasa, no Levi.
 
 <!-- lotes -->
-## 6. Avisos de los lotes (25-09-2026, 02:23 UTC)
+## 6. Avisos de los lotes (25-09-2026, 02:38 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando el dueño decida algo, que lo anote arriba, en su apartado.
 
@@ -100,7 +105,7 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando 
   tráiler de VIZ (mapa viejo marrón, texto blanco con serifa, letra Cinzel) y la carta de
   Greed Island (marco rojo, «Lv.» y rango). Láminas: A #castings (placas del Examen con
   Killua), B #postulaciones (Licencia de Cazador con Kurapika), C 🎲 Juegos (libro y cartas
-  de Greed Island). **Choque:** #castings ya lo propone Oshi no Ko (05). No hay frases
+  de Greed Island). Nota: #castings también lo propone Oshi no Ko (05). No hay frases
   textuales del doblaje latino de 2011 (Netflix): todas son de *Cazador X* (1999).
   Corregidos con hojas de contacto propias 7 datos del tráiler y del opening (§28).
 
@@ -108,8 +113,8 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando 
   en Japón hoy; Nishinoya en la alineación ideal. Cuadro de diálogo: la caja negra del
   juego de 3DS (filete naranja, pestaña con el nombre). Láminas: A #reto-de-la-semana
   (marcador del campamento con Bokuto), B #general-doblaje (pizarra del tutorial con
-  Nishinoya), C #postulaciones (ficha de inscripción con Daichi). Siguen pendientes de
-  usted #reto-de-la-semana (también lo pide Naruto) y Comic Neue en vez de Anime Ace.
+  Nishinoya), C #postulaciones (ficha de inscripción con Daichi). Nota: #reto-de-la-semana
+  también lo pide Naruto. Pendiente: Comic Neue en vez de Anime Ace.
   Corregido: el lema 「思い出なんかいらん」 es de Inarizaki, no de Date Tech; el enlace de
   AniList de Bokuto era el de Ushijima. Puntos 21 y 22 quedan ⚠️ (vistas y minutos:
   YouTube y TikTok no dejan). Regla: nada de rayos ni auras en la lámina.
@@ -118,8 +123,8 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando 
   2022 y 2024 y su escena del anillo (T1-14 ≈19:35) es la más votada. Cuadro de diálogo
   propio: la cartela de los tráileres (fondo blanco, niebla cian, mincho gris `#606A73`,
   sin marco). Láminas: A #recursos «La colección de grimorios» (recomendada), B #poemas
-  «El diario de Himmel», C #eventos «Los meteoros de Era». **Choque:** B pide #poemas,
-  que ya propone Violet Evergarden (22): decide usted. Quedan ⚠️ vistas de TikTok y de
+  «El diario de Himmel», C #eventos «Los meteoros de Era». Nota: #poemas también lo
+  propone Violet Evergarden (22). Quedan ⚠️ vistas de TikTok y de
   los covers, tela de los cosplays (Wikimedia 429), Uniqlo/GU sin confirmar y el sentido
   del Emblema Sagrado (las partes no coinciden).
 
