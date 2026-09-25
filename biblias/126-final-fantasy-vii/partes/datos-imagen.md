@@ -4,7 +4,92 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
+
+## Cloud Strife: las imágenes más grandes de la wiki (456 en total)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife_
+
+- 4126×4734 · Cloud Strife from FFVII Remake bust render.png · https://static.wikia.nocookie.net/finalfantasy/images/e/ef/Cloud_Strife_from_FFVII_Remake_bust_render.png
+- 3997×4242 · SSBU Cloud Strife render 001.png · https://static.wikia.nocookie.net/finalfantasy/images/2/2e/SSBU_Cloud_Strife_render_001.png
+- 5143×3000 · Advent Children Cloud & Sephiroth.jpg · https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg
+- 3757×3520 · Cloud recoded render.png · https://static.wikia.nocookie.net/finalfantasy/images/9/9b/Cloud_recoded_render.png
+- 2970×4368 · Cloud Strife from FFVII Remake battle render.png · https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Strife_from_FFVII_Remake_battle_render.png
+- 2881×4167 · Cloud Dissidia CG render 2.jpg · https://static.wikia.nocookie.net/finalfantasy/images/2/28/Cloud_Dissidia_CG_render_2.jpg
+- 2589×4441 · Cloud Dissidia Artwork.png · https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Dissidia_Artwork.png
+- 3400×3314 · SSBU Cloud Strife render 002.png · https://static.wikia.nocookie.net/finalfantasy/images/6/69/SSBU_Cloud_Strife_render_002.png
+- 3157×3532 · MetalChocobo.png · https://static.wikia.nocookie.net/finalfantasy/images/e/e7/MetalChocobo.png
+- 3061×3498 · FFEF Cloud.png · https://static.wikia.nocookie.net/finalfantasy/images/5/58/FFEF_Cloud.png
+
+## Cloud Strife · Appearance (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Appearance_
+
+Cloud is a young man with a lean and toned build and spiky blond hair. Cloud has blue eyes, which glow due to him having been exposed to mako. Because "mako eyes" are iconic to members of SOLDIER, Cloud is often assumed to be one. Cloud carries a large broadsword as his weapon of choice, with his three trademark weapons being the Buster Sword (a massive sword over five feet long), a set of Fusion Swords (six individual interconnecting swords that form one similar to the Buster Sword), and the Hardedge (another large broadsword with a different shape). He also has a silver earring in his left ear. Cloud's typical outfit is a variated standard uniform for a SOLDIER, seen first in Final Fantasy VII and most commonly throughout his appearances (with slight variations). This uniform comprises of indigo pants with a sleeveless shirt and a belt. Cloud also wears brown boots, gauntlets with a…
+
+## Tifa Lockhart: las imágenes más grandes de la wiki (302 en total)
+_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart_
+
+- 2525×4488 · Tifa Lockhart from FFVII Remake battle render.png · https://static.wikia.nocookie.net/finalfantasy/images/a/aa/Tifa_Lockhart_from_FFVII_Remake_battle_render.png
+- 2500×4000 · Tifa sporty dress from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/b/b8/Tifa_sporty_dress_from_FFVII_Remake_render.png
+- 2500×4000 · Tifa refined dress from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/2/29/Tifa_refined_dress_from_FFVII_Remake_render.png
+- 2500×4000 · Tifa Shining Spirit outfit from FFVII Rebirth render.png · https://static.wikia.nocookie.net/finalfantasy/images/f/f4/Tifa_Shining_Spirit_outfit_from_FFVII_Rebirth_render.png
+- 2322×4128 · Early Relationship Chart ENG.jpg · https://static.wikia.nocookie.net/finalfantasy/images/f/f4/Early_Relationship_Chart_ENG.jpg
+- 2683×3500 · Tifa3.jpg · https://static.wikia.nocookie.net/finalfantasy/images/2/27/Tifa3.jpg
+- 2200×4000 · Tifa exotic dress from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/8/82/Tifa_exotic_dress_from_FFVII_Remake_render.png
+- 1968×4431 · Tifa-d012ff-artwork.png · https://static.wikia.nocookie.net/finalfantasy/images/d/dd/Tifa-d012ff-artwork.png
+- 3828×2151 · Tifa in Chocobo Carriage from FFVII Remake.jpg · https://static.wikia.nocookie.net/finalfantasy/images/8/81/Tifa_in_Chocobo_Carriage_from_FFVII_Remake.jpg
+- 3819×2145 · Cloud cares for injured Tifa from FFVII Rebirth.png · https://static.wikia.nocookie.net/finalfantasy/images/f/f9/Cloud_cares_for_injured_Tifa_from_FFVII_Rebirth.png
+
+## Tifa Lockhart · Appearance (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Appearance_
+
+Tifa has very dark hair, varying brown to black, which typically falls below her waist and is tied at the tips to form a dolphin-tail split. In Final Fantasy VII: Advent Children and some other appearances, her hair is mid-back length. Tifa has red eyes, though they have been depicted as brown in some appearances. She has an athletic build, with a slender but toned physique and visible abdominals. Her bust-waist-hip measures are 92-60-88 cm (37-24-35 inches) and her bust size is Japanese G70 (American 32 DDD). Tifa's typical attire throughout all her appearances is some variation of a sleeveless top that exposes her midriff, a miniskirt, and a white teardrop earring on her left ear. The three main variants of this attire are her default Final Fantasy VII outfit (slightly modified in Remake), her tour guide cowgirl outfit, and her Leather Suit outfit. In Final Fantasy VII, Tifa wears a…
+
+## Aerith Gainsborough: las imágenes más grandes de la wiki (287 en total)
+_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough_
+
+- 4096×4096 · DDFF Planet's Protection.jpg · https://static.wikia.nocookie.net/finalfantasy/images/a/ac/DDFF_Planet%27s_Protection.jpg
+- 3900×3056 · Aerith Key Art from FFVII Remake.jpg · https://static.wikia.nocookie.net/finalfantasy/images/9/9c/Aerith_Key_Art_from_FFVII_Remake.jpg
+- 2542×4000 · Aerith Gainsborough from FFVII Remake battle render.png · https://static.wikia.nocookie.net/finalfantasy/images/4/42/Aerith_Gainsborough_from_FFVII_Remake_battle_render.png
+- 2500×4000 · Aerith dress 2 from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/b/be/Aerith_dress_2_from_FFVII_Remake_render.png
+- 2500×4000 · Aerith dress 1 from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/7/73/Aerith_dress_1_from_FFVII_Remake_render.png
+- 2256×4000 · Aerith dress 3 from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/2/25/Aerith_dress_3_from_FFVII_Remake_render.png
+- 3840×2160 · Aeriths resolution scene from FFVII Remake.png · https://static.wikia.nocookie.net/finalfantasy/images/5/5e/Aeriths_resolution_scene_from_FFVII_Remake.png
+- 3840×2160 · Aerith Reacts.png · https://static.wikia.nocookie.net/finalfantasy/images/1/13/Aerith_Reacts.png
+- 3840×2160 · Aerith FFVII by Masterline twitter.png · https://static.wikia.nocookie.net/finalfantasy/images/a/a1/Aerith_FFVII_by_Masterline_twitter.png
+- 3840×2154 · Aerith Intro from FFVII Remake.jpg · https://static.wikia.nocookie.net/finalfantasy/images/1/13/Aerith_Intro_from_FFVII_Remake.jpg
+
+## Aerith Gainsborough · Appearance (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough#Appearance_
+
+Aerith plaits her long light-brown hair with a large pink ribbon; within the ribbon, she keeps the White Materia orb given to her by her mother. Segmented bangs frame Aerith's face and she has emerald green eyes. She is 163 cm tall. Aerith's typical attire, first seen in Final Fantasy VII, comprises of a shin-length pink dress that buttons up the front and a red bolero jacket. She wears brown boots and has metal bracers on her wrists and around the edges of her jacket sleeves. In subsequent appearances, Aerith's attire is more detailed. Her jacket, button-up in Final Fantasy VII, is zip-up in Advent Children onwards and has zipper pockets and a belt at the bottom. In Advent Children, she wears leather belts in place of metal bands and, in Remake, her original cord necklace is replaced with a flower necklace with a pearl in the center on a leather ribbon and a trio of bracelets (gold,…
+
+## Sephiroth: las imágenes más grandes de la wiki (212 en total)
+_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth_
+
+- 6829×7941 · Masamune from FFVII Remake render.png · https://static.wikia.nocookie.net/finalfantasy/images/1/10/Masamune_from_FFVII_Remake_render.png
+- 7545×5756 · Sephiroth from Crisis Core Reunion boss render.png · https://static.wikia.nocookie.net/finalfantasy/images/b/b1/Sephiroth_from_Crisis_Core_Reunion_boss_render.png
+- 5143×3000 · Advent Children Cloud & Sephiroth.jpg · https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg
+- 4954×2910 · Sephiroth CG.jpg · https://static.wikia.nocookie.net/finalfantasy/images/2/25/Sephiroth_CG.jpg
+- 3173×3492 · Keyblade OWA.png · https://static.wikia.nocookie.net/finalfantasy/images/0/01/Keyblade_OWA.png
+- 2322×4128 · Early Relationship Chart ENG.jpg · https://static.wikia.nocookie.net/finalfantasy/images/f/f4/Early_Relationship_Chart_ENG.jpg
+- 3840×2160 · Genesis duels Sephiroth from Crisis Core Reunion.jpg · https://static.wikia.nocookie.net/finalfantasy/images/3/39/Genesis_duels_Sephiroth_from_Crisis_Core_Reunion.jpg
+- 3831×2154 · President Shinra killed by Sephiroth from FFVII Remake.jpg · https://static.wikia.nocookie.net/finalfantasy/images/b/b0/President_Shinra_killed_by_Sephiroth_from_FFVII_Remake.jpg
+- 3837×2145 · VIICC Nibelheim.jpg · https://static.wikia.nocookie.net/finalfantasy/images/d/d3/VIICC_Nibelheim.jpg
+- 3825×2151 · Sephiroth and Cloud in Shinra presentation from FFVII Remake.png · https://static.wikia.nocookie.net/finalfantasy/images/5/5c/Sephiroth_and_Cloud_in_Shinra_presentation_from_FFVII_Remake.png
+
+## Sephiroth · Appearance (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Appearance_
+
+Sephiroth is a tall man with a muscular build. His long silver hair has bangs parted to either side of his face.{{note|Sephiroth is said to maintain his long silver hair through daily consumption of a whole bottle of shampoo and conditioner, scented with thirteen kinds of perfumes, including rose and vanilla. These products are made and supplied by the Shinra Company and are of the highest grade, and the scent in the air when Sephiroth tosses his hair is said to change daily.(As the information originates from his fan club, it is likely to have an element of propaganda.)}} Sephiroth has bright cyan irises and slit cat-like pupils . Sephiroth's signature outfit is a long black coat with silver pauldrons, black boots, and black trousers. The top of his coat is open to reveal his bare chest, with his leather SOLDIER brown suspenders crossed over it. The wardrobe changes slightly between…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de finalfantasy.fandom.com (4 páginas y sus galerías)…
+  1186 imágenes enlazadas, 539 grandes → 12 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/final-fantasy-vii
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

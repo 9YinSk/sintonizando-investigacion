@@ -1,5 +1,385 @@
 [
  {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ef/Cloud_Strife_from_FFVII_Remake_bust_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 4126,
+  "alto": 4734,
+  "que_es": "Cloud Strife: Cloud Strife from FFVII Remake bust render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2e/SSBU_Cloud_Strife_render_001.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3997,
+  "alto": 4242,
+  "que_es": "Cloud Strife: SSBU Cloud Strife render 001.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 5143,
+  "alto": 3000,
+  "que_es": "Cloud Strife: Advent Children Cloud & Sephiroth.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9b/Cloud_recoded_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3757,
+  "alto": 3520,
+  "que_es": "Cloud Strife: Cloud recoded render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Strife_from_FFVII_Remake_battle_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2970,
+  "alto": 4368,
+  "que_es": "Cloud Strife: Cloud Strife from FFVII Remake battle render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/28/Cloud_Dissidia_CG_render_2.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2881,
+  "alto": 4167,
+  "que_es": "Cloud Strife: Cloud Dissidia CG render 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Dissidia_Artwork.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2589,
+  "alto": 4441,
+  "que_es": "Cloud Strife: Cloud Dissidia Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/6/69/SSBU_Cloud_Strife_render_002.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3400,
+  "alto": 3314,
+  "que_es": "Cloud Strife: SSBU Cloud Strife render 002.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e7/MetalChocobo.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3157,
+  "alto": 3532,
+  "que_es": "Cloud Strife: MetalChocobo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/58/FFEF_Cloud.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3061,
+  "alto": 3498,
+  "que_es": "Cloud Strife: FFEF Cloud.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/aa/Tifa_Lockhart_from_FFVII_Remake_battle_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2525,
+  "alto": 4488,
+  "que_es": "Tifa Lockhart: Tifa Lockhart from FFVII Remake battle render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b8/Tifa_sporty_dress_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2500,
+  "alto": 4000,
+  "que_es": "Tifa Lockhart: Tifa sporty dress from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/29/Tifa_refined_dress_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2500,
+  "alto": 4000,
+  "que_es": "Tifa Lockhart: Tifa refined dress from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f4/Tifa_Shining_Spirit_outfit_from_FFVII_Rebirth_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2500,
+  "alto": 4000,
+  "que_es": "Tifa Lockhart: Tifa Shining Spirit outfit from FFVII Rebirth render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f4/Early_Relationship_Chart_ENG.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2322,
+  "alto": 4128,
+  "que_es": "Tifa Lockhart: Early Relationship Chart ENG.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/27/Tifa3.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2683,
+  "alto": 3500,
+  "que_es": "Tifa Lockhart: Tifa3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/8/82/Tifa_exotic_dress_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2200,
+  "alto": 4000,
+  "que_es": "Tifa Lockhart: Tifa exotic dress from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/d/dd/Tifa-d012ff-artwork.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 1968,
+  "alto": 4431,
+  "que_es": "Tifa Lockhart: Tifa-d012ff-artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/8/81/Tifa_in_Chocobo_Carriage_from_FFVII_Remake.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3828,
+  "alto": 2151,
+  "que_es": "Tifa Lockhart: Tifa in Chocobo Carriage from FFVII Remake.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f9/Cloud_cares_for_injured_Tifa_from_FFVII_Rebirth.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3819,
+  "alto": 2145,
+  "que_es": "Tifa Lockhart: Cloud cares for injured Tifa from FFVII Rebirth.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ac/DDFF_Planet%27s_Protection.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 4096,
+  "alto": 4096,
+  "que_es": "Aerith Gainsborough: DDFF Planet's Protection.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9c/Aerith_Key_Art_from_FFVII_Remake.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3900,
+  "alto": 3056,
+  "que_es": "Aerith Gainsborough: Aerith Key Art from FFVII Remake.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/4/42/Aerith_Gainsborough_from_FFVII_Remake_battle_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2542,
+  "alto": 4000,
+  "que_es": "Aerith Gainsborough: Aerith Gainsborough from FFVII Remake battle render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/b/be/Aerith_dress_2_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2500,
+  "alto": 4000,
+  "que_es": "Aerith Gainsborough: Aerith dress 2 from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/7/73/Aerith_dress_1_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2500,
+  "alto": 4000,
+  "que_es": "Aerith Gainsborough: Aerith dress 1 from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/25/Aerith_dress_3_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2256,
+  "alto": 4000,
+  "que_es": "Aerith Gainsborough: Aerith dress 3 from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5e/Aeriths_resolution_scene_from_FFVII_Remake.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Aerith Gainsborough: Aeriths resolution scene from FFVII Remake.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/1/13/Aerith_Reacts.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Aerith Gainsborough: Aerith Reacts.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/a1/Aerith_FFVII_by_Masterline_twitter.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Aerith Gainsborough: Aerith FFVII by Masterline twitter.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/1/13/Aerith_Intro_from_FFVII_Remake.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3840,
+  "alto": 2154,
+  "que_es": "Aerith Gainsborough: Aerith Intro from FFVII Remake.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/1/10/Masamune_from_FFVII_Remake_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 6829,
+  "alto": 7941,
+  "que_es": "Sephiroth: Masamune from FFVII Remake render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b1/Sephiroth_from_Crisis_Core_Reunion_boss_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 7545,
+  "alto": 5756,
+  "que_es": "Sephiroth: Sephiroth from Crisis Core Reunion boss render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/25/Sephiroth_CG.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 4954,
+  "alto": 2910,
+  "que_es": "Sephiroth: Sephiroth CG.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/0/01/Keyblade_OWA.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3173,
+  "alto": 3492,
+  "que_es": "Sephiroth: Keyblade OWA.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/3/39/Genesis_duels_Sephiroth_from_Crisis_Core_Reunion.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Sephiroth: Genesis duels Sephiroth from Crisis Core Reunion.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/President_Shinra_killed_by_Sephiroth_from_FFVII_Remake.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3831,
+  "alto": 2154,
+  "que_es": "Sephiroth: President Shinra killed by Sephiroth from FFVII Remake.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d3/VIICC_Nibelheim.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3837,
+  "alto": 2145,
+  "que_es": "Sephiroth: VIICC Nibelheim.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5c/Sephiroth_and_Cloud_in_Shinra_presentation_from_FFVII_Remake.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3825,
+  "alto": 2151,
+  "que_es": "Sephiroth: Sephiroth and Cloud in Shinra presentation from FFVII Remake.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://safebooru.org/images/341/90882d9cc8205320fbefeb575a78e62654e896f1.jpg",
   "fuente": "Safebooru (fan art)",
   "ancho": 2770,

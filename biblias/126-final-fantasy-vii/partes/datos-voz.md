@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
 
 ## Doblaje latino: ficha de «Final Fantasy XVI» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI_
@@ -109,6 +109,46 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI#Datos%20de%20inter
 - Este es el primer proyecto de videojuegos de Mario Heras donde dirige de forma independiente.
 - Octavio Rojas es acreditado como Zoltan, cuando este en realidad dobló a Elwin Rosfield.
 - Gerardo Ortega y David Allende no son acreditados.
+
+## Cloud Strife · Personality (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Personality_
+
+On the surface, Cloud Strife presents himself as a hardened warrior, cocky and headstrong, coldhearted, and disinterested in anything beyond completing the hired job at hand. He tells others, often dismissively and with snark, that he has no interest in larger causes, such as the plight of the planet, and appears unshaken by the devastation the bombings he helped carry out cause. He is cool-headed and mostly carries himself as an expert and professional.{{note|Cloud is especially cool-headed next to Barret, more often intervening to stop fights rather than start them. Cloud stops Barret from arguing with passengers on the train to Sector 4, and during the raid on the Shinra Building, vetoes his head-on assault plan. Additionally, Cloud brings his expertise to help Barret, instructing him when fighting the Scorpion Sentinel, and teaching him to use materia.|name=cloud barret}} Beneath…
+
+## Cloud Strife · Abilities (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Abilities_
+
+Cloud's greatest strength is in his swordsmanship. Though Cloud fell short of the standards of candidates admitted into SOLDIER, his swordsmanship nonetheless impressed one of the Turks. As a result of mako experimentation by Hojo, Cloud was greatly enhanced as a super soldier, with superhuman strength, speed, and agility. This, coupled with him incorporating Zack Fair's fighting abilities into his own, made him capable of easily handling other SOLDIER members and Turks. In time, Cloud developed skills on his own, independently from Zack. Cloud has many swordsmanship techniques, seen most prominently in his limit breaks. The most potent and noteworthy of these is Omnislash (and Omnislash Version 5 with his Fusion Swords), in which Cloud performs a quick succession of powerful strikes from his sword. Cloud's abilities also allow him to use magic from his sword, seen in the form of firing…
+
+## Tifa Lockhart · Personality (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Personality_
+
+Tifa is empathic, motherly, intuitive, and reserved, both out of being observant and for being emotionally shy. Tifa identifies the feelings of others, offering sanctuary and protection for her teammates.{{note|In Final Fantasy VII, when Red XIII runs off in Cosmo Canyon, Tifa is more struck by his change in behavior than by the land itself, in contrast to the rest of the party. In Wutai, while Cloud and Cid scold Yuffie and show disinterest in her story when demanding their materia back, if Tifa is leader, she will instead show empathy and implore Yuffie to comply.}}{{note|name=aerith protective friendship| Tifa's friendship with Aerith highlights her observant, empathic, and protective nature, but also her co-dependence with friends to overcome her anxieties. In Final Fantasy VII Remake when Aerith is attacked by Whispers, Tifa recognizes she knows more than she is letting on and…
+
+## Tifa Lockhart · Abilities (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Abilities_
+
+Tifa is a martial artist who was taught by Zangan and, in contrast with her reserved personality, is deceptively strong. Her fighting style primarily involves punches and kicks and she uses knuckles and claws as her weapons to augment her strikes. Her skills put her on par with the rest of the party — including Cloud, an enhanced supersoldier; and Barret, a battle-hardened leader wielding a cybernetic gun-arm — despite not having the same advantages. Tifa has a strong physique with tight muscles, something that Zangan noticed upon deciding to train her as evidence of her aptitude. Tifa's techniques are showcased in her limit breaks. Among the most powerful are Dolphin Blow, an uppercut punch that summons a dolphin to attack with her, and Meteor Strike, where she lifts the enemy (of any size, including a giant mech or one of the planet's colossal Weapon monsters) over her head with a…
+
+## Aerith Gainsborough · Personality (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough#Personality_
+
+Aerith is compassionate, upbeat, and joyful, as well as street-smart with a spunky and cocky attitude. Aerith maintains a hopeful and positive outlook in the face of sadness and danger, cheering the others on when she can and always tries to see the good in people.{{note|Aerith makes a point that Rude is "not a bad person". While Cloud and Tifa are frightened of the Train Graveyard's ghosts, Aerith tries to commune with them, believing they are misunderstood. }} She is nonetheless still able to identify an unequivocal evil in the form of Shinra and Sephiroth. Against such threats, Aerith wishes to help however she can, but is morally opposed to violence and sees it as a last resort. She is not above harboring resentment for those who wrong her, although she puts on a front of cold defiance and conceals her weaknesses when distressed.{{note|When auditioning for Don Corneo, Aerith stands…
+
+## Aerith Gainsborough · Abilities (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough#Abilities_
+
+As the last living Cetra, Aerith has many unique powers in her ability to commune with the planet's life force. This leads her to being able to sense the loss of life around the world, seen most clearly with the loss of Elmyra's husband. The exact means of her communication with the planet are unknown: though Aerith talks to flowers, she confessed to Cloud that they do not simply have a conversation with her, but nonetheless, she believed that they had something important to say. Aerith's powers also allowed her to reach out to Red XIII and calm him, imparting knowledge to him. Her powers also include an ability to somehow affect the portal to the Singularity to follow Sephiroth, though her abilities are weaker than his as she is unable to control the Whispers like he can. In Final Fantasy VII Remake, it is implied that Aerith has inklings on what will happen in the future.{{note|Aerith…
+
+## Sephiroth · Personality (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Personality_
+
+As a SOLDIER before his madness, Sephiroth was cool, calm, well-spoken, and graceful, maintaining a professional demeanor. He is knowledgeable, especially on the subject of materia. In his youth, Sephiroth struggled with the expectations placed on him, not wanting to be a hero, though the help of comrades Glenn, Matt, and Lucia taught him not to constantly push himself to his breaking point and to ease up. Sephiroth's warmer side is also seen with his close friendship with Angeal, Genesis, and, later, Zack, caring for them to the point of offering to donate blood for Genesis and protecting them by opting to, with Zack, fail to defeat them on purpose. This extended beyond his SOLDIER comrades, but had its limits. After learning of the experiments that led to his birth, Sephiroth descended into madness and developed a messiah complex. He proclaimed himself to be "the chosen one" destined…
+
+## Sephiroth · Abilities (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Abilities_
+
+Sephiroth is regarded as the greatest SOLDIER 1st Class of all time, whose legendary accomplishments in the field of battle inspired many to join SOLDIER.{{note|Cloud told Tifa at the water tower that his plan was to join SOLDIER and become like Sephiroth. Genesis' old diary also denotes his plans to join SOLDIER to become like Sephiroth, his hero.}} Being the greatest byproduct of the Jenova Project, he has incredible inhuman physical prowess, extremely powerful magic skills, and is an extraordinarily skilled swordsman. Sephiroth's strength and swordsmanship are such that he can wield his Masamune, an ōdachi that is longer than he is tall, effortlessly with one hand and ambidextrously shift from his left to right hand with little loss of efficiency. His physical strength was also seen with his ability to rip bolted down metal structures with his own hands with little effort when he…
 
 ## Los personajes más dibujados por los fans (Danbooru, 41876 dibujos de «final_fantasy_vii»)
 _Fuente: https://danbooru.donmai.us/posts?tags=final_fantasy_vii_
