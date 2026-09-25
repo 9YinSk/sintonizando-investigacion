@@ -266,7 +266,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] 97-bocchi-the-rock-bandas-y-bajones
 - [ ] 98-el-viaje-de-chihiro
 - [ ] 99-el-castillo-ambulante
-- [ ] 100-la-princesa-mononoke
+- [x] 100-la-princesa-mononoke
 
 ## Tanda S26
 
