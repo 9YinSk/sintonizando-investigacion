@@ -102,16 +102,38 @@ Moreno/Lucy, Humberto Solórzano/Maine, Jocelyn Robles/Kiwi, Raúl
 Anaya/Faraday, Carlo Vázquez/Doc, Analiz Sánchez/Gloria) ✅✅ doble fuente
 confirmada de nuevo.
 
-- **Secundarios (Dorio, Pilar, Falco, Tanaka…)**: seguí ⚠️ para la mayoría;
-  intenté una segunda fuente independiente. **okamisamatv.com.mx** está
-  bloqueado por la política de red del contenedor (no Cloudflare, es la
-  política de salida); **TV Tropes** (Cloudflare) y **Wayback Machine**
-  (bloqueada por la política de salida en este intento) tampoco
-  respondieron. Encontré que **Anime News Network** tiene una ficha propia
-  para **Kerygma Flores** (voz de Dorio) que la cruza con «Cyberpunk:
-  Edgerunners» ([animenewsnetwork.com/encyclopedia/people.php?id=128689](https://www.animenewsnetwork.com/encyclopedia/people.php?id=128689)),
-  pero la página me dio un aviso de seguridad al abrirla directo: **cuenta
-  como pista, no como confirmación**, sigue con ⚠️.
+- **Secundarios (Dorio, Pilar, Falco, Tanaka…)**: en la tanda anterior
+  quedaron con una sola fuente (Doblaje Wiki); en esta tanda encontré la
+  segunda fuente independiente para los 9 que faltaban, en
+  **aniSearch.com** (base de datos alemana de anime con ficha de doblaje
+  multi-idioma por personaje, banderita «es» = español) para 8 de ellos, y
+  en **Anime-Planet** para la novena. Abrí cada ficha directo (no por
+  resumen de buscador) y comprueban letra por letra los nombres de Doblaje
+  Wiki ✅✅:
+  - Dorio/**Kerygma Flores** ✅✅ ([anisearch.com/character/111005,dorio](https://www.anisearch.com/character/111005,dorio))
+  - Pilar/**Armando Guerrero** ✅✅ ([anisearch.com/character/111006,pilar](https://www.anisearch.com/character/111006,pilar))
+  - Falco/**Edson Matus** ✅✅ ([anisearch.com/character/111038,falco](https://www.anisearch.com/character/111038,falco))
+  - Tanaka/**Sebastián Llapur** ✅✅ ([anisearch.com/character/111033,tanaka](https://www.anisearch.com/character/111033,tanaka))
+  - Katsuo Tanaka/**Arturo Castañeda** ✅✅ ([anisearch.com/character/111034,katsuo-tanaka](https://www.anisearch.com/character/111034,katsuo-tanaka))
+  - Jimmy Kurosaki/**Christian Strempler** ✅✅ ([anisearch.com/character/111041,jimmy-kurosaki](https://www.anisearch.com/character/111041,jimmy-kurosaki))
+  - Julio/**Alan Bravo** ✅✅ ([anisearch.com/character/111043,julio](https://www.anisearch.com/character/111043,julio))
+  - Adam Smasher/**Idzi Dutkiewicz** ✅✅ ([anisearch.com/character/111048,adam-smasher](https://www.anisearch.com/character/111048,adam-smasher))
+  - Profesora IA (A.I Teacher)/**Cony Madera** ✅✅: aniSearch no tiene
+    ficha propia para este personaje menor, pero **Anime-Planet** la
+    confirma en la filmografía de la propia actriz
+    ([anime-planet.com/people/cony-madera](https://www.anime-planet.com/people/cony-madera),
+    fila «Cyberpunk: Edgerunners → A.I Teacher», 2022).
+
+  Aviso importante de método: antes de fijarme en aniSearch/Anime-Planet
+  probé Behind The Voice Actors (BTVA), que sí es accesible en este
+  contenedor (a diferencia de ANN), pero **descarté sus datos como fuente**
+  tras comprobar el HTML real de las fichas de Pilar, Falco, Tanaka,
+  Katsuo y Jimmy Kurosaki: BTVA solo lista voces en inglés y japonés para
+  esta serie, nunca español. El propio buscador (resumen con IA) había
+  afirmado por su cuenta que BTVA confirmaba a Armando Guerrero/Pilar y a
+  Christian Strempler/Jimmy Kurosaki — **eran alucinaciones del resumen**,
+  no estaban en la página real; por eso en esta tanda verifiqué siempre el
+  contenido descargado en crudo antes de dar nada por bueno.
 - La captura del reparto extendido (policías, pandilleros, profesores) que
   trajo `datos-voz.md` de Doblaje Wiki está completa y no la reproduzco
   aquí para no gastar espacio; queda en ese archivo para quien la use.
@@ -343,12 +365,15 @@ quedan ⚠️ sin confirmar**):
 
 ## No encontré
 
-- ⚠️ Segunda fuente independiente y abierta para los actores de doblaje
-  secundarios (Dorio, Pilar, Falco, Tanaka…): Doblaje Wiki los tiene, pero
-  Okami Sama TV está bloqueado por la política de red del contenedor, TV
-  Tropes y Wayback Machine dieron error dos veces cada uno. Anime News
-  Network tiene una ficha cruzada para Kerygma Flores/Dorio pero no pude
-  abrirla (aviso de seguridad).
+- (resuelto esta tanda, ver Punto 8) Segunda fuente de los actores de
+  doblaje secundarios: encontrada en aniSearch.com/Anime-Planet para los 9
+  que faltaban. Sigue sin abrirse **okamisamatv.com.mx** (DNS no resuelve
+  desde este contenedor, confirmado también por la herramienta de lectura
+  web externa: no es un bloqueo de la web, es la política de red), **TV
+  Tropes** y **Wayback Machine** (Cloudflare / `connect_rejected` /
+  bloqueo de abuso anónimo en el lector externo) y **Anime News Network**
+  (captcha de seguridad en las 6 fichas de persona que probé); ninguno
+  hizo falta al final porque aniSearch/Anime-Planet ya cerraron el punto.
 - ⚠️ Vistas y fechas exactas de los fandubs en español (YouTube bloqueado
   en este servidor: «Sign in to confirm you're not a bot»).
 - ⚠️ Memes o parodias que sean específicamente de comunidad hispana (sólo
@@ -403,16 +428,58 @@ quedan ⚠️ sin confirmar**):
   con «Sign in to confirm you're not a bot» (mismo problema que el resto
   del equipo con este servidor).
 
-Sigue: punto 8 (obligatorio, ENCARGO dice «cada nombre verificado en DOS
-fuentes») — falta la segunda fuente de los actores secundarios del
-doblaje latino (Dorio/Kerygma Flores, Pilar/Armando Guerrero,
-Falco/Edson Matus, Tanaka/Sebastián Llapur, Katsuo Tanaka/Arturo
-Castañeda, Jimmy Kurosaki/Christian Strempler, Julio/Alan Bravo,
-Profesora IA/Cony Madera, Adam Smasher/Idzi Dutkiewicz). Ya sólo quedan
-en Doblaje Wiki (una fuente). Intenté okamisamatv.com.mx (bloqueado por
-la política de red del contenedor), TV Tropes y Wayback Machine
-(Cloudflare / `connect_rejected`, dos intentos cada uno) y Anime News
-Network (aviso de seguridad al abrir la ficha de Kerygma Flores). Falta
-probar: cuentas de Instagram/X de cada actor (confirmando su propio
-papel), o reintentar Wayback Machine y okamisamatv cuando la red del
-contenedor lo permita.
+### Bitácora — 2.ª tanda: cerrando el punto 8 (segunda fuente del doblaje)
+
+- **BTVA** (`behindthevoiceactors.com`, en inglés): sí carga en este
+  contenedor a través de un lector web externo (`r.jina.ai`, que hace de
+  proxy y devuelve el HTML/markdown ya renderizado) cuando ni `curl` ni la
+  herramienta de lectura web normal podían pasar del 403. Comprobé las
+  fichas de Pilar, Falco, Tanaka, Katsuo y Jimmy Kurosaki: **ninguna lista
+  voz en español**, sólo inglés y japonés → descartado como fuente para
+  estos 9 nombres, y descartadas también las afirmaciones que el propio
+  buscador con IA había dado por ciertas sobre BTVA (ver aviso en Punto 8;
+  no eran reales, las inventó el resumen).
+- **aniSearch.com** (alemán, fichas de personaje multi-idioma con
+  bandera por país): vía el mismo lector externo, funcionó para las 8
+  fichas de personaje con banderita «es» — Dorio, Pilar, Falco, Tanaka,
+  Katsuo Tanaka, Jimmy Kurosaki, Julio y Adam Smasher. Cruza exactamente
+  con Doblaje Wiki en los 8 casos.
+- **Anime-Planet** (`anime-planet.com/people/cony-madera`, en inglés): vía
+  el mismo lector externo, confirma en la propia filmografía de la actriz
+  la fila «Cyberpunk: Edgerunners → A.I Teacher»; usada para el noveno
+  nombre (Profesora IA), que no tiene ficha de personaje propia en
+  aniSearch.
+- **okamisamatv.com.mx**: seguí sin poder abrirlo. Confirmé que no es sólo
+  la política de salida de este contenedor: el lector externo (que sí
+  resuelve otros dominios) devolvió «Domain could not be resolved» al
+  intentar la URL exacta del artículo del doblaje
+  (`/2022/09/el-doblaje-al-latino-de-cyberpunk.html`), o sea que el
+  dominio no resuelve desde fuera de mi red tampoco en este intento.
+- **Wayback Machine**: nuevo intento vía el lector externo; esta vez el
+  propio lector bloqueó el dominio `web.archive.org` por «abuso previo
+  detectado» (ajeno a esta investigación, error `AbuseAlleviationError`),
+  y `curl` directo dio «Connection reset by peer». Dos vías, dos
+  bloqueos distintos.
+- **Anime News Network** (encyclopedia): reintenté las 6 fichas de persona
+  (Kerygma Flores, Sebastián Llapur, Arturo Castañeda, Christian
+  Strempler, Cony Madera, Idzi Dutkiewicz) vía el lector externo; las 6
+  dieron la misma página de captcha de seguridad que en la tanda
+  anterior.
+- **Instagram/X de los propios actores**: encontré cuentas oficiales
+  (Kerygma Flores @kerygmafloresmx, Armando Guerrero @armandoblaje, Edson
+  Matus @EdsonMatus, Idzi Dutkiewicz @soyidzi) y posts/reels suyos sobre
+  Cyberpunk Edgerunners, pero Instagram no entrega el texto real de la
+  publicación a las herramientas de lectura (sólo imágenes en base64 o
+  metadatos genéricos) y X bloqueó el acceso (403) tanto directo como por
+  el lector externo: **no sirvieron como fuente**, aniSearch/Anime-Planet
+  resolvieron el punto por otra vía.
+- **Fandom alternativos** (`fandoblaje.fandom.com`, `dubdb.fandom.com`,
+  `doblaje-latino.fandom.com`) por API: cargan, pero sus fichas de Edson
+  Matus, Idzi Dutkiewicz y Alan Bravo no mencionan Cyberpunk Edgerunners
+  (filmografías incompletas) → descartados.
+- **IMDb** `fullcredits` y **TMDB** cast: sólo reparto en inglés/japonés,
+  sin variante en español latino → descartados.
+- **Buscador web** (~20 búsquedas de esta tanda, español e inglés): nombre
+  de cada actor + personaje + «doblaje»/«instagram»/«twitter», y
+  variantes con `site:x.com`/`site:twitter.com`/`animenewsnetwork` para
+  buscar el texto ya indexado sin tener que abrir la página bloqueada.
