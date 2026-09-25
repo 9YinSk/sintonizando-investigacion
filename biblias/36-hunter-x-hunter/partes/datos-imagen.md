@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'Hunter x Hunter', '--wiki', 'hunterxhu · animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/136_
