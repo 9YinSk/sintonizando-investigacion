@@ -1572,8 +1572,8 @@ la película, sin «·», «—» ni paréntesis (regla 4 del dueño).
 
 ### Concepto B · #🎟️・eventos — «Lo que vio Bruno»
 
-- **El sitio real**: el **escondite de Bruno** dentro de la Casita: roca,
-  arena y luz verde. Referencias: el pasillo verde de `fondos_01` #425 y
+- **El sitio real**: la **torre escondida de Bruno** en la Casita (§26),
+  con arena y luz verde. Referencias: el pasillo verde de `fondos_01` #425 y
   la visión de arena de [No se habla de Bruno 3:02](https://archive.org/details/encanto-we-dont-talk-about-bruno-musical-number?t=182).
   **Sin hex medido** ⚠️: usar los verdes de su ruana `#4C9E65`, `#488452`,
   `#364C43` y medir en cuanto haya fotograma.
