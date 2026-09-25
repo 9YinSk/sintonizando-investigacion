@@ -26,7 +26,7 @@ fecha: 2026-09-24
 >     (Addic7ed, del 1×01 al 3×06). Con ellos doy **el minuto de cada
 >     escena**. Es el minuto de ese archivo: puede moverse uno o dos
 >     segundos según la versión (lo comprobé: «Nobody exists on purpose» está
->     en 00:18:01 en el Blu-ray y en 00:17:59 en la de TV).
+>     en 18:01 en el Blu-ray y en 17:59 en la de TV).
 >   - **Fotogramas de la serie** (300×300) del repositorio de
 >     [The Rick and Morty API](https://github.com/afuh/rick-and-morty-api/tree/master/images):
 >     de ahí **medí los colores** de cada personaje (hex, ±5 por canal).
@@ -34,13 +34,19 @@ fecha: 2026-09-24
 >     fans) y las libres de [google/fonts](https://github.com/google/fonts).
 >     Comprobé una a una, con fontTools, si traen á é í ó ú ñ ¿ ¡.
 > - **Cómo leo los episodios**: «1×08» es temporada 1, episodio 8. El
->   minuto va así: 00:18:01.
+>   minuto va así: 18:01.
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto,
 >   o lo medí yo en un archivo. ⚠️ **dudoso**: una sola fuente, o lo
 >   describo de memoria. Lo de memoria siempre va marcado.
 > - Las frases en **inglés** salen del subtítulo. Su versión en **español
 >   latino** sólo va como cita cuando encontré una fuente; si no, la marco
 >   como **traducción mía**.
+
+---
+
+## Segunda pasada · qué cambió
+
+_(pendiente: se rellena en esta segunda pasada)_
 
 ---
 
@@ -93,9 +99,9 @@ que confirmar el dueño.
 
 | Pregunta | Respuesta |
 |---|---|
-| Por qué Rick y Morty encaja | Tiene **su propio canal de noticias**: el **cable interdimensional**, «TV infinita de universos infinitos» (1×08, 00:01:00) ✅. Dentro salen **noticiarios de verdad**: «Opposite News with Michael Thompson» (2×08, 00:12:29) ✅, dos **«Breaking news»** (1×08, 00:19:09 y 2×08, 00:19:30) ✅, y el parte del tiempo de «Hamster in Butt World» (1×08, 00:21:20) ✅. Y la familia **siempre lo comenta en el sofá**: es el «debate». |
-| El objeto | **La tele de los Smith con la caja del cable interdimensional**. Rick la abre y le mete un **cristal de xantenita** que «conduce electrones entre dimensiones» (1×08, 00:00:30) ✅. En Blender: tele, caja, cristal y mando. Hay tele libre CC0 en [Poly Haven](https://polyhaven.com/a/Television_01). |
-| Cuadro de diálogo propio | La serie **no usa globos**. Su texto en pantalla es **el rótulo de la tele**: el nombre y el eslogan «abajo de la pantalla» (lo dice el vendedor de Puertas Falsas, 1×08, 00:11:18) ✅, la **cartela del programa** y la franja de **«Último momento»**. Y en los cómics de Oni Press, globo clásico ⚠️. |
+| Por qué Rick y Morty encaja | Tiene **su propio canal de noticias**: el **cable interdimensional**, «TV infinita de universos infinitos» (1×08, 1:00) ✅. Dentro salen **noticiarios de verdad**: «Opposite News with Michael Thompson» (2×08, 12:29) ✅, dos **«Breaking news»** (1×08, 19:09 y 2×08, 19:30) ✅, y el parte del tiempo de «Hamster in Butt World» (1×08, 21:20) ✅. Y la familia **siempre lo comenta en el sofá**: es el «debate». |
+| El objeto | **La tele de los Smith con la caja del cable interdimensional**. Rick la abre y le mete un **cristal de xantenita** que «conduce electrones entre dimensiones» (1×08, 0:30) ✅. En Blender: tele, caja, cristal y mando. Hay tele libre CC0 en [Poly Haven](https://polyhaven.com/a/Television_01). |
+| Cuadro de diálogo propio | La serie **no usa globos**. Su texto en pantalla es **el rótulo de la tele**: el nombre y el eslogan «abajo de la pantalla» (lo dice el vendedor de Puertas Falsas, 1×08, 11:18) ✅, la **cartela del programa** y la franja de **«Último momento»**. Y en los cómics de Oni Press, globo clásico ⚠️. |
 | Quién habla | **Rick** con el mando (el que trae la señal) y **Morty** a su lado. El secundario más querido para este canal: **Pepinillo Rick** (3.º en Ranker, detrás de Rick y Morty ⚠️) o **el Sr. Meeseeks** (el meme de «¡Mírenme!») ⚠️. Para el «debate», **Summer** ✅ (ver §8). |
 | Letras | Logo: **Get Schwifty** (gratis, de jonizaak) **no trae ni tildes, ni ñ, ni ¿ ¡, ni signos**: comprobado. Para títulos con tildes: **Creepster** (Google Fonts, sí las trae). Para el rótulo de noticias: **Anton** u **Oswald**. Todas comprobadas en el archivo. |
 | Voz latina | Rick **Juan Guzmán** ✅, Morty **Eder La Barrera** ✅, Summer **Lileana Chacón** ✅. Doblaje venezolano de **IDS** ✅. Siguen en la temporada 9 (HBO Max, 25 de mayo de 2026) ✅. |
@@ -119,70 +125,70 @@ En España se llamó «Sesenta Rick-nutos». La wiki en español lo titula
 
 | Minuto | Qué pasa y qué se dice (inglés) | Para qué sirve |
 |---|---|---|
-| 00:00:04 | La familia ve un reality en la tele del salón. Alguien (Rick, creo ⚠️; el subtítulo no dice quién): «none of it mattered and the entire show was stupid» (00:00:19) | Abre con **la familia criticando la tele**: el debate |
-| 00:00:21 | Jerry ⚠️: «Okay, I've got an idea, Rick. You show us your concept of good TV, and we'll crap all over that» | El espíritu del canal: **enseña y se comenta** |
-| 00:00:30 | Morty: «Is that crystallized xanthanite?» «It conducts electrons across dimensions» | **El cristal** que se mete en la caja: detalle para el objeto |
-| 00:00:38 | Rick: «I just upgraded our cable package with programming from every conceivable reality» | La frase que explica el canal |
-| 00:01:00 | Rick: «This is **infinite TV from infinite universes**» | **Lema posible** del canal |
-| 00:01:13 | «Letterman from a timeline where Jerry's famous» | La tele trae **estrenos de otros mundos** |
-| 00:02:38 | Rick: «Infinite timelines, infinite possibilities» | Otra frase de Rick |
-| 00:03:37 | Anuncio de **Ants in My Eyes Johnson** | El anuncio más famoso ✅ |
-| 00:05:56 | Tráiler de **«Two Brothers»** («It's in theaters now. Coming this Summer», 00:05:53) | Un **tráiler de estreno**: justo lo del canal |
-| 00:09:59 | Anuncio de **Real Fake Doors** | El segundo más famoso ✅ |
-| 00:11:18 | El vendedor: «That's our slogan. **See it on the bottom of the screen below our name.** Here's another slogan right below that one» | **El rótulo de abajo** es el cuadro de diálogo de esta serie (ver §7) |
-| 00:11:39 | **Gazorpazorpfield** | Otro favorito del fandom |
-| 00:16:00 | **Baby Legs** («Babylegs, you're a good detective») | Otro favorito |
-| 00:18:01 a 00:18:06 | Morty a Summer: «Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. **Come watch TV.**» («Come watch TV» cae en 00:18:06) | **La frase más famosa del episodio** ✅. Invita a sentarse a ver y comentar |
-| 00:19:09 | «**Breaking news**... Academy Award-Winning actor Jerry Smith is leading police on a slow-speed pursuit» | **Una noticia de última hora** dentro de la serie |
-| 00:19:20 | Jerry: «It's my life, and we're watching it» | La familia comenta la noticia |
-| 00:20:14 | Suena «Give me a name / Hear my faith…» (de **Mazzy Star**, que está en la banda sonora oficial ✅; el título, «Look On Down From The Bridge», de memoria ⚠️) | Música del momento triste |
-| 00:21:20 | «Ha ha, **Hamster in Butt World Weather** is done, and now it's **sports time** coming up» | **Un noticiero con su tiempo y sus deportes**. Toda la familia junta ante la tele, preguntando cosas: el mejor «debate» |
-| 00:21:45 | Rick: «I can't even hear the TV» | Rick harto de que comenten encima |
+| 0:04 | La familia ve un reality en la tele del salón. Alguien (Rick, creo ⚠️; el subtítulo no dice quién): «none of it mattered and the entire show was stupid» (0:19) | Abre con **la familia criticando la tele**: el debate |
+| 0:21 | Jerry ⚠️: «Okay, I've got an idea, Rick. You show us your concept of good TV, and we'll crap all over that» | El espíritu del canal: **enseña y se comenta** |
+| 0:30 | Morty: «Is that crystallized xanthanite?» «It conducts electrons across dimensions» | **El cristal** que se mete en la caja: detalle para el objeto |
+| 0:38 | Rick: «I just upgraded our cable package with programming from every conceivable reality» | La frase que explica el canal |
+| 1:00 | Rick: «This is **infinite TV from infinite universes**» | **Lema posible** del canal |
+| 1:13 | «Letterman from a timeline where Jerry's famous» | La tele trae **estrenos de otros mundos** |
+| 2:38 | Rick: «Infinite timelines, infinite possibilities» | Otra frase de Rick |
+| 3:37 | Anuncio de **Ants in My Eyes Johnson** | El anuncio más famoso ✅ |
+| 5:56 | Tráiler de **«Two Brothers»** («It's in theaters now. Coming this Summer», 5:53) | Un **tráiler de estreno**: justo lo del canal |
+| 9:59 | Anuncio de **Real Fake Doors** | El segundo más famoso ✅ |
+| 11:18 | El vendedor: «That's our slogan. **See it on the bottom of the screen below our name.** Here's another slogan right below that one» | **El rótulo de abajo** es el cuadro de diálogo de esta serie (ver §7) |
+| 11:39 | **Gazorpazorpfield** | Otro favorito del fandom |
+| 16:00 | **Baby Legs** («Babylegs, you're a good detective») | Otro favorito |
+| 18:01 a 18:06 | Morty a Summer: «Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. **Come watch TV.**» («Come watch TV» cae en 18:06) | **La frase más famosa del episodio** ✅. Invita a sentarse a ver y comentar |
+| 19:09 | «**Breaking news**... Academy Award-Winning actor Jerry Smith is leading police on a slow-speed pursuit» | **Una noticia de última hora** dentro de la serie |
+| 19:20 | Jerry: «It's my life, and we're watching it» | La familia comenta la noticia |
+| 20:14 | Suena «Give me a name / Hear my faith…» (de **Mazzy Star**, que está en la banda sonora oficial ✅; el título, «Look On Down From The Bridge», de memoria ⚠️) | Música del momento triste |
+| 21:20 | «Ha ha, **Hamster in Butt World Weather** is done, and now it's **sports time** coming up» | **Un noticiero con su tiempo y sus deportes**. Toda la familia junta ante la tele, preguntando cosas: el mejor «debate» |
+| 21:45 | Rick: «I can't even hear the TV» | Rick harto de que comenten encima |
 
 Nota: en la versión de TV (subtítulo de Addic7ed) la frase empieza en
-**00:17:59** y «Come watch TV» cae en **00:18:03**; en el Blu-ray, en
-**00:18:01** y **00:18:06**.
+**17:59** y «Come watch TV» cae en **18:03**; en el Blu-ray, en
+**18:01** y **18:06**.
 
 ### 2.2 «Interdimensional Cable 2: Tempting Fate» (2×08): la secuela
 
 | Minuto | Qué pasa y qué se dice (inglés) | Para qué sirve |
 |---|---|---|
-| 00:00:54 | En la **sala de espera** de un hospital alienígena. Rick: «Well, this won't do.» Morty: «What are you doing?» Rick: «**A sequel.**» | Rick **conecta su aparato a otra tele** (chispas en 00:01:13) |
-| 00:01:01 | Rick: «We pretty much nailed it the first time» | Humor de secuela |
-| 00:01:23 | «**Man vs. Car**, the newest hit show» | Un **estreno** anunciado |
-| 00:02:35 | Anuncio de **Eyeholes** | Otro anuncio famoso |
-| 00:05:53 | «Calling all **Jan Michael Vincents**» y el tráiler de «**Jan Quadrant Vincent 16**» (00:06:42) | Otro tráiler de estreno |
-| 00:07:23 | «Hey, I'm **Stealy**» | Otro favorito |
-| 00:08:03 | «We got a **plumbus**» | Presenta el plumbus |
-| 00:12:29 | Locutor: «It's the **opposite news with Michael Thompson**». Michael: «Hey, everybody. It's me, Michael Thompson. Today the pope didn't get killed» | **Un noticiero**. El presentador (**Michael Thompson**) sale con **papeles en la mano, traje azul oscuro y corbata**, sobre fondo azul grisáceo: lo vi en el fotograma [225.jpeg](https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/225.jpeg) ✅ |
-| 00:12:44 | Morty: «why is his body, like, sloping off to the right side of the screen?» | El presentador está **torcido**: es media pareja |
-| 00:12:52 | «Welcome to "**cooking things**." I'm **Pichael Thompson**» | Su **siamés**, cocinero ([264.jpeg](https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/264.jpeg)) |
-| 00:13:10 | Michael: «You quit tugging. **I'm in the middle of my news.**» | Chiste perfecto para un canal de noticias |
-| 00:13:27 | Summer: «**I don't want to be that girl, but** maybe there would be less conflict if they didn't shoot their shows at the same time» | **Summer opinando**: el tono del debate |
-| 00:14:52 | «Today on "**How They Do It**"... **Plumbuses**» | El plumbus explicado |
-| 00:16:49 | «Tune in next week to the best show ever… "**The Personal Space Show**"» | Anuncio de **próximo episodio** |
-| 00:19:05 | Summer: «Does all interdimensional TV have to rely on juvenile violence?» y **Morty le contesta con un discurso** (00:19:08 a 00:19:23) | **El debate** sobre lo que se ve en la tele |
-| 00:19:30 | «**Breaking news.** Shrimply Pibbles is being held hostage» | Otra **última hora** |
+| 0:54 | En la **sala de espera** de un hospital alienígena. Rick: «Well, this won't do.» Morty: «What are you doing?» Rick: «**A sequel.**» | Rick **conecta su aparato a otra tele** (chispas en 1:13) |
+| 1:01 | Rick: «We pretty much nailed it the first time» | Humor de secuela |
+| 1:23 | «**Man vs. Car**, the newest hit show» | Un **estreno** anunciado |
+| 2:35 | Anuncio de **Eyeholes** | Otro anuncio famoso |
+| 5:53 | «Calling all **Jan Michael Vincents**» y el tráiler de «**Jan Quadrant Vincent 16**» (6:42) | Otro tráiler de estreno |
+| 7:23 | «Hey, I'm **Stealy**» | Otro favorito |
+| 8:03 | «We got a **plumbus**» | Presenta el plumbus |
+| 12:29 | Locutor: «It's the **opposite news with Michael Thompson**». Michael: «Hey, everybody. It's me, Michael Thompson. Today the pope didn't get killed» | **Un noticiero**. El presentador (**Michael Thompson**) sale con **papeles en la mano, traje azul oscuro y corbata**, sobre fondo azul grisáceo: lo vi en el fotograma [225.jpeg](https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/225.jpeg) ✅ |
+| 12:44 | Morty: «why is his body, like, sloping off to the right side of the screen?» | El presentador está **torcido**: es media pareja |
+| 12:52 | «Welcome to "**cooking things**." I'm **Pichael Thompson**» | Su **siamés**, cocinero ([264.jpeg](https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/264.jpeg)) |
+| 13:10 | Michael: «You quit tugging. **I'm in the middle of my news.**» | Chiste perfecto para un canal de noticias |
+| 13:27 | Summer: «**I don't want to be that girl, but** maybe there would be less conflict if they didn't shoot their shows at the same time» | **Summer opinando**: el tono del debate |
+| 14:52 | «Today on "**How They Do It**"... **Plumbuses**» | El plumbus explicado |
+| 16:49 | «Tune in next week to the best show ever… "**The Personal Space Show**"» | Anuncio de **próximo episodio** |
+| 19:05 | Summer: «Does all interdimensional TV have to rely on juvenile violence?» y **Morty le contesta con un discurso** (19:08 a 19:23) | **El debate** sobre lo que se ve en la tele |
+| 19:30 | «**Breaking news.** Shrimply Pibbles is being held hostage» | Otra **última hora** |
 
 ### 2.3 Los personajes del plan, con su minuto
 
 | Personaje | Escena | Minuto | Frase (inglés) |
 |---|---|---|---|
-| **Sr. Meeseeks** | 1×05, Rick presenta la caja | 00:02:31 | «This is a **Meeseeks Box**. Let me show you how it works. You press this.» |
-| | primer Meeseeks | 00:02:35 | «**I'm Mr. Meeseeks! Look at me!**» |
-| | cumple y desaparece | 00:02:43 | «The Meeseeks fulfills the request.» «**All done!**» (00:02:44) |
-| | Rick avisa | 00:02:52 | «Just keep your requests simple. They're not gods.» |
-| | «Can do!» | 00:03:31 | «Ooh, yeah! **Can do!**» |
-| | el discurso | 00:16:42 | «**Existence is pain** to a Meeseeks, Jerry.» |
-| **Pepinillo Rick** | 3×03, sobre el banco del garaje | 00:00:23 | Rick: «**Flip the pickle over.**» |
-| | la revelación | 00:00:34 | «**Boom! Big reveal... I'm a pickle.**» |
-| | el grito | 00:00:55 | «**I'm Pickle Rick!**» |
-| | con Morty | 00:01:38 | «I don't do magic, Morty, I do science.» |
-| **Rick** | 1×11, Birdperson lo explica | 00:18:22 | «Wubba lubba dub dub» significa «**I am in great pain. Please help me.**» |
-| | 2×05, la cabeza gigante | 00:00:32 | «**Show me what you got.**» |
-| | 2×05, la canción | 00:05:54 | «You gotta **get schwifty**» |
-| | 3×01, la salsa | 00:05:03 | «a bunch of the **Szechuan sauce**» |
-| **Mr. Poopybutthole** | 2×10, la escena final | 00:22:01 | «Hi, I'm Mr. Poopybutthole from episode 204» |
+| **Sr. Meeseeks** | 1×05, Rick presenta la caja | 2:31 | «This is a **Meeseeks Box**. Let me show you how it works. You press this.» |
+| | primer Meeseeks | 2:35 | «**I'm Mr. Meeseeks! Look at me!**» |
+| | cumple y desaparece | 2:43 | «The Meeseeks fulfills the request.» «**All done!**» (2:44) |
+| | Rick avisa | 2:52 | «Just keep your requests simple. They're not gods.» |
+| | «Can do!» | 3:31 | «Ooh, yeah! **Can do!**» |
+| | el discurso | 16:42 | «**Existence is pain** to a Meeseeks, Jerry.» |
+| **Pepinillo Rick** | 3×03, sobre el banco del garaje | 0:23 | Rick: «**Flip the pickle over.**» |
+| | la revelación | 0:34 | «**Boom! Big reveal... I'm a pickle.**» |
+| | el grito | 0:55 | «**I'm Pickle Rick!**» |
+| | con Morty | 1:38 | «I don't do magic, Morty, I do science.» |
+| **Rick** | 1×11, Birdperson lo explica | 18:22 | «Wubba lubba dub dub» significa «**I am in great pain. Please help me.**» |
+| | 2×05, la cabeza gigante | 0:32 | «**Show me what you got.**» |
+| | 2×05, la canción | 5:54 | «You gotta **get schwifty**» |
+| | 3×01, la salsa | 5:03 | «a bunch of the **Szechuan sauce**» |
+| **Mr. Poopybutthole** | 2×10, la escena final | 22:01 | «Hi, I'm Mr. Poopybutthole from episode 204» |
 
 ---
 
@@ -266,8 +272,14 @@ del 1×06, no sirven para una lámina amable.
 - **Fotogramas en 1080p** de 1×08 y 2×08: no pude bajar ninguno. Los
   minutos de §2 dicen **dónde** parar el vídeo. Hay que sacarlos en el PC.
 - **La caja del cable**: no la he visto. Sé por el subtítulo que Rick la
-  abre y le mete el cristal (00:00:30) y por la wiki que la vuelve a
+  abre y le mete el cristal (0:30) y por la wiki que la vuelve a
   **conectar a la tele** ⚠️. Su forma exacta, sin comprobar.
+
+---
+
+## 3A · Las hojas de contacto (qué número sirve)
+
+_(pendiente: se rellena en esta segunda pasada)_
 
 ---
 
@@ -318,8 +330,8 @@ Colecciones para buscar más:
 | Sitio | Qué sé | Luz |
 |---|---|---|
 | **El salón de los Smith** | Paredes blancas, moqueta **tostada y verde**, **un sofá blanco y otro azul**, estantería marrón con libros y **la tele sobre un mueble** ⚠️ (una fuente: el wiki en inglés, por resumen de búsqueda). Aquí se ve el cable interdimensional (1×08) | Luz de día plana; de noche, la tele ilumina a la familia ⚠️ de memoria |
-| **El garaje de Rick** | Banco de trabajo con cacharros; ahí está Pepinillo Rick (3×03, 00:00:20: «On my work bench, Morty») ✅ | Luz de tubo fluorescente ⚠️ |
-| **Sala de espera del hospital** (2×08) | «Go in the waiting room, dad» (00:00:46) ✅. Rick conecta su aparato a la tele de la sala | Luz de hospital, fría ⚠️ |
+| **El garaje de Rick** | Banco de trabajo con cacharros; ahí está Pepinillo Rick (3×03, 0:20: «On my work bench, Morty») ✅ | Luz de tubo fluorescente ⚠️ |
+| **Sala de espera del hospital** (2×08) | «Go in the waiting room, dad» (0:46) ✅. Rick conecta su aparato a la tele de la sala | Luz de hospital, fría ⚠️ |
 | **El plató de «Opposite News»** | Fondo **azul grisáceo** con una curva más clara ✅ (visto en el 225) | Luz de plató, plana |
 | **La tienda de Real Fake Doors** | **Pared azul muy claro** llena de **puertas de colores** ✅ (visto en el 277) | Luz de anuncio barato |
 
@@ -406,17 +418,17 @@ de la tele**:
 1. **El rótulo de abajo** (el «zócalo»). El vendedor de Real Fake Doors lo
    dice en voz alta: «That's our slogan. **See it on the bottom of the
    screen below our name.** Here's another slogan right below that one»
-   (1×08, 00:11:18) ✅. Es decir: **nombre arriba, eslogan debajo, y otro
+   (1×08, 11:18) ✅. Es decir: **nombre arriba, eslogan debajo, y otro
    eslogan debajo del primero**. Una idea por línea: justo la regla 4
    del dueño.
-2. **La cartela del programa**: «Two Brothers» (1×08, 00:07:00),
-   «Jan Quadrant Vincent 16» (2×08, 00:06:42), «The Personal Space Show»
-   (2×08, 00:16:55) ✅ por el subtítulo. Cómo se ven, de memoria ⚠️.
+2. **La cartela del programa**: «Two Brothers» (1×08, 7:00),
+   «Jan Quadrant Vincent 16» (2×08, 6:42), «The Personal Space Show»
+   (2×08, 16:55) ✅ por el subtítulo. Cómo se ven, de memoria ⚠️.
 3. **El noticiero**: presentador de frente, con papeles, y el locutor que
    lo anuncia («It's the opposite news with Michael Thompson», 2×08,
-   00:12:29) ✅.
-4. **«Breaking news»** dicho por un locutor (1×08, 00:19:09; 2×08,
-   00:19:30) ✅. Si lleva franja escrita, no lo sé ⚠️.
+   12:29) ✅.
+4. **«Breaking news»** dicho por un locutor (1×08, 19:09; 2×08,
+   19:30) ✅. Si lleva franja escrita, no lo sé ⚠️.
 5. **El periódico «NEWS»** que lee Jon (fotograma 184) ✅.
 
 Fuera de la serie:
@@ -434,18 +446,18 @@ Fuera de la serie:
 
 | Quién | Rasgo | Ejemplo con minuto |
 |---|---|---|
-| **Rick** | **Eructa en mitad de las palabras** | «the best doctor in the ga-[Belches]-laxy» (2×08, 00:00:38) ✅. En los subtítulos de Addic7ed hay **unas 60 marcas de eructo** en 28 episodios |
-| | Dice «**Morty**» cada dos frases | «Pedal to the metal, Morty» (1×08, 00:15:10) |
-| | Cínico, rápido, desprecia lo que ve | «None of it mattered and the entire show was stupid» (1×08, 00:00:19; que lo dice él, de memoria ⚠️) |
-| | Presume de ciencia | «I don't do magic, Morty, I do science» (3×03, 00:01:38) |
-| **Morty** | **Tartamudea** al empezar | «W-why is his body, like, sloping off…» (2×08, 00:12:46) |
-| | «**Aw, geez**» y «Oh, man» | «geez» sale **60 veces** en esos 28 episodios (casi siempre de Morty); el primer «Aw, geez», 1×01, 00:06:17 ✅ |
-| | Cuando se harta, suelta un discurso | 2×08, 00:19:08 a 00:19:23 ✅ |
-| **Summer** | Adolescente sarcástica, opina de todo | «**I don't want to be that girl, but**…» (2×08, 00:13:27); «Does all interdimensional TV have to rely on juvenile violence?» (2×08, 00:19:05) ✅ |
-| | Dolida y seca | «Fine. I'll find a world where you bothered to have me» (1×08, 00:05:09) ✅ |
-| **Sr. Meeseeks** | Voz aguda y alegre, **siempre se presenta** | «I'm Mr. Meeseeks! Look at me!» (1×05, 00:02:35); «Ooh, yeah! Can do!» (00:03:31); «All done!» (00:02:44) ✅ |
-| **Pepinillo Rick** | Orgullo absurdo, repite | «I turned myself into a pickle, Morty!» (3×03, 00:00:32, 00:00:37 y 00:00:41); «Boom! Big reveal... I'm a pickle» (00:00:34) ✅ |
-| **Los presentadores del cable** | Improvisan, se trabucan, se ríen | «It's called "Two Brothers." "Two Brothers." It's just called "Two Brothers."» (1×08, 00:07:00) ✅. Todo el cable se **improvisaba** en la cabina (ver §12) |
+| **Rick** | **Eructa en mitad de las palabras** | «the best doctor in the ga-[Belches]-laxy» (2×08, 0:38) ✅. En los subtítulos de Addic7ed hay **unas 60 marcas de eructo** en 28 episodios |
+| | Dice «**Morty**» cada dos frases | «Pedal to the metal, Morty» (1×08, 15:10) |
+| | Cínico, rápido, desprecia lo que ve | «None of it mattered and the entire show was stupid» (1×08, 0:19; que lo dice él, de memoria ⚠️) |
+| | Presume de ciencia | «I don't do magic, Morty, I do science» (3×03, 1:38) |
+| **Morty** | **Tartamudea** al empezar | «W-why is his body, like, sloping off…» (2×08, 12:46) |
+| | «**Aw, geez**» y «Oh, man» | «geez» sale **60 veces** en esos 28 episodios (casi siempre de Morty); el primer «Aw, geez», 1×01, 6:17 ✅ |
+| | Cuando se harta, suelta un discurso | 2×08, 19:08 a 19:23 ✅ |
+| **Summer** | Adolescente sarcástica, opina de todo | «**I don't want to be that girl, but**…» (2×08, 13:27); «Does all interdimensional TV have to rely on juvenile violence?» (2×08, 19:05) ✅ |
+| | Dolida y seca | «Fine. I'll find a world where you bothered to have me» (1×08, 5:09) ✅ |
+| **Sr. Meeseeks** | Voz aguda y alegre, **siempre se presenta** | «I'm Mr. Meeseeks! Look at me!» (1×05, 2:35); «Ooh, yeah! Can do!» (3:31); «All done!» (2:44) ✅ |
+| **Pepinillo Rick** | Orgullo absurdo, repite | «I turned myself into a pickle, Morty!» (3×03, 0:32, 0:37 y 0:41); «Boom! Big reveal... I'm a pickle» (0:34) ✅ |
+| **Los presentadores del cable** | Improvisan, se trabucan, se ríen | «It's called "Two Brothers." "Two Brothers." It's just called "Two Brothers."» (1×08, 7:00) ✅. Todo el cable se **improvisaba** en la cabina (ver §12) |
 
 ### 7.3 Cómo se traduce a una lámina fija
 
@@ -500,18 +512,18 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 ### Rick Sánchez — el abuelo científico
 
 - **Quién es**: científico genial, cínico y bebedor («That is why he must
-  numb himself», dice Birdperson, 1×11, 00:18:30 ✅). Vive con la familia
+  numb himself», dice Birdperson, 1×11, 18:30 ✅). Vive con la familia
   de su hija Beth, tiene el laboratorio en el garaje y arrastra a su
   nieto Morty a sus aventuras.
 - **Qué le importa**: aunque lo niega, su familia. Birdperson revela que
   «wubba lubba dub dub» significa «**I am in great pain. Please help
-  me**» (1×11, 00:18:22) ✅: su risa es un grito de dolor.
+  me**» (1×11, 18:22) ✅: su risa es un grito de dolor.
 - **Miedo**: la soledad y perder a los suyos ⚠️ (lectura de fans).
 - **Cómo habla**: rápido, eructa, insulta con cariño, dice «Morty» sin
   parar (§7.2). **Cómo se ríe**: a carcajadas, con la boca muy abierta ⚠️.
   **Cómo se enfada**: párpados a media asta, ceja fruncida, dientes
   apretados (fotograma 1) ✅. **Cómo explica**: sin mirar, con prisa,
-  «20% accurate as usual, Morty» (1×08, 00:00:34) ✅.
+  «20% accurate as usual, Morty» (1×08, 0:34) ✅.
 - **Lenguaje corporal**: encorvado, bata abierta, una mano en el
   bolsillo o con la petaca ⚠️.
 - **Siempre con**: Morty. Su objeto: **la pistola de portales**.
@@ -524,13 +536,13 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
   (fotograma 180) ⚠️.
 - **Detalle clave para este canal**: el Morty de la serie **no es el
   original**: él y Rick vinieron de otro mundo y se enterraron a sí
-  mismos en el jardín (1×06; lo cuenta en 1×08, 00:17:28 a 00:17:50) ✅.
+  mismos en el jardín (1×06; lo cuenta en 1×08, 17:28 a 17:50) ✅.
 - **Cómo habla**: tartamudea, «Aw, geez» (§7.2). **Cómo explica**:
   palma hacia arriba, dientes a la vista (fotograma 630) ✅.
   **Cómo se asusta**: mira arriba con los ojos muy abiertos y los
   brazos caídos (fotograma 2) ✅.
 - **Frase de la serie para el canal**: «**Come watch TV**» (1×08,
-  00:18:06) ✅.
+  18:06) ✅.
 - **Voz latina**: **Eder La Barrera** ✅.
 
 ### Summer Smith — la hermana (la voz del debate)
@@ -542,7 +554,7 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
   y [Wikipedia](https://en.wikipedia.org/wiki/Summer_Smith), por
   resumen). En temporadas tardías, más **despiadada** ⚠️.
 - **Por qué ella para #noticias-series**: es la que **comenta y protesta
-  lo que sale en la tele** (2×08, 00:13:27 y 00:19:05) ✅. Es el «abre
+  lo que sale en la tele** (2×08, 13:27 y 19:05) ✅. Es el «abre
   un hilo» hecho persona.
 - **Cómo se enfada**: brazos cruzados, cejas bajas (fotograma 3) ✅.
   **Cómo protesta**: brazos abiertos y boca abierta (fotograma 339) ✅.
@@ -554,11 +566,11 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 
 - **Quién es**: criatura azul que sale de **la caja Meeseeks** al
   **pulsar el botón**. Cumple **una petición** y **desaparece** (1×05,
-  00:02:31 a 00:02:47) ✅.
+  2:31 a 2:47) ✅.
 - **Qué le importa**: acabar su tarea. «**Existence is pain** to a
-  Meeseeks, Jerry» (00:16:42) ✅. Si la tarea no se cumple, se vuelve loco.
+  Meeseeks, Jerry» (16:42) ✅. Si la tarea no se cumple, se vuelve loco.
 - **Cómo habla**: agudo, feliz, servicial: «Can do!», «Yes, siree!»
-  (00:02:41) ✅.
+  (2:41) ✅.
 - **Cuerpo**: alto, delgado, **brazos largos y sueltos**, sonrisa fija
   (fotograma 242) ✅.
 - **Por qué sirve**: una noticia = **una petición**. La caja se pulsa, el
@@ -569,9 +581,9 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 ### Pepinillo Rick — el meme
 
 - **Quién es**: Rick convertido en pepinillo **para no ir a terapia
-  familiar** (3×03, 00:02:26) ✅. Luego se hace un **traje con ratas**
+  familiar** (3×03, 2:26) ✅. Luego se hace un **traje con ratas**
   (fotograma 265) ✅.
-- **Cómo habla**: orgulloso y gritón: «I'm Pickle Rick!» (00:00:55) ✅.
+- **Cómo habla**: orgulloso y gritón: «I'm Pickle Rick!» (0:55) ✅.
 - **En latino**: HBO Max Latinoamérica tituló sus clips «**¡¡Soy un
   pepinillo!!**» y «¡Convertirse en un Pepinillo!» ✅
   ([TikTok de HBO Max LA](https://www.tiktok.com/@streammaxla/video/7271440286755130629),
@@ -583,7 +595,7 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 - **Premio**: el episodio ganó el **Emmy 2018 a mejor programa animado**,
   el primero de la serie ✅ ([Screen Rant](https://screenrant.com/rick-morty-wins-emmy-outstanding-animated-program/),
   [Toon Boom](https://www.toonboom.com/rick-and-morty-wins-its-first-emmy-and-the-case-for-2d-animation-series)).
-- **Frase para el canal**: «**Boom! Big reveal**» (00:00:34) ✅ =
+- **Frase para el canal**: «**Boom! Big reveal**» (0:34) ✅ =
   **«¡Bum! Gran revelación»** (traducción mía).
 
 ### Los secundarios que conviene tener a mano
@@ -591,7 +603,7 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 | Quién | Por qué | Dato |
 |---|---|---|
 | **Michael Thompson** | **El presentador de noticias** del cable (2×08) | Fotograma 225 ✅. Está unido a su siamés Pichael: por eso «se inclina» fuera del plano |
-| **Jerry Smith** | El padre; el que sale en «Breaking news» en otra realidad (1×08, 00:19:09) ✅ | Voz latina **Héctor Indriago** ✅ (Doblaje Wiki y los repartos del anime) |
+| **Jerry Smith** | El padre; el que sale en «Breaking news» en otra realidad (1×08, 19:09) ✅ | Voz latina **Héctor Indriago** ✅ (Doblaje Wiki y los repartos del anime) |
 | **Beth Smith** | La madre, cirujana de caballos | Voz latina: **Rebeca Aponte** y, desde la T7, **Carmen Lugo** ⚠️ (una fuente) |
 | **Mr. Poopybutthole** | Favorito de fans; sale en las escenas finales | «Ooh-wee!» ⚠️ |
 | **Evil Morty** | Favorito de fans por sus giros ✅ ([Collider](https://collider.com/best-rick-and-morty-characters-ranked/), [CBR](https://www.cbr.com/best-rick-and-morty-characters-ranked/)) | Parche en el ojo; su tema es «For the Damaged Coda» (§11) |
@@ -622,11 +634,34 @@ petición, una noticia»). **Summer** para el **debate**.
 
 ## 10 · Doblaje latino
 
-**Estudio**: Turner (hoy Warner Bros. Discovery) encargó el doblaje a
-**Sonoclips, hoy IDS**, en **Venezuela** ✅ (Doblaje Wiki y varios
-artículos del anime). La temporada 3 la grabó **AGP Productions** y desde
-la 4, **IDS** en su propio estudio ⚠️ (una fuente: Doblaje Wiki, por
-resumen). **Director de doblaje**: no lo encontré ⚠️.
+**Estudio** (corregido en la segunda pasada): Turner (hoy Warner Bros.
+Discovery) encargó el doblaje a **Sonoclips, hoy IDS**, en **Venezuela**
+✅ (Doblaje Wiki y varios artículos del anime). Pero Sonoclips **no lo
+grabó en su casa al principio**:
+
+- **T1-T2**: lo grabó **Dvinxi Studios**, subcontratado por Sonoclips.
+- **T3**: **AGP Producciones**.
+- **Desde la T4**: **IDS**, en su propio estudio (por la pandemia y
+  porque vio el éxito de la serie; pidió grabar en persona).
+
+⚠️ una fuente: [Doblaje Wiki, «Historia del doblaje»](https://doblaje.fandom.com/es/wiki/Rick_y_Morty#Historia_del_doblaje),
+leída entera por su API. No encontré otra que entre en la subcontratación.
+
+**Director de doblaje** (antes «no lo encontré»): **Ángel Balam** en la
+T1 y la T2; desde la T3, autodirección ✅ (dos páginas distintas de
+Doblaje Wiki: la de la serie y la [ficha de Ángel Balam](https://doblaje.fandom.com/es/wiki/Angel_Balam),
+«Dirección de doblaje»). Balam también leyó los **insertos** (títulos en
+pantalla) hasta la T3; desde la T4 los lee **Juan Guzmán** ⚠️ (Doblaje
+Wiki, «Datos de interés»).
+
+**Cómo se grabó** ⚠️ (Doblaje Wiki, «Datos de interés»): las dos primeras
+temporadas se doblaron **en tres semanas** (lo cuenta Eder La Barrera);
+Eder grabó a Morty **a distancia** para que Balam tuviera tiempo con los
+demás. Se dobló sobre la versión **sin censura** del Blu-ray. Por orden del
+cliente, los insultos fuertes se suavizan: «motherfucker» pasa a
+«**desgraciado**», «**hijo de perra**» o «**malnacido**». En latino **Rick
+eructa menos** que en inglés. Estreno del doblaje: **Netflix, 1-oct-2016**;
+en TV, **TBS, 1-abr-2018**.
 
 | Personaje | Actor | Estado |
 |---|---|---|
@@ -634,8 +669,10 @@ resumen). **Director de doblaje**: no lo encontré ⚠️.
 | **Morty Smith** | **Eder La Barrera** (venezolano, nacido en 1987) | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Eder_La_Barrera), [Fandoblaje](https://fandoblaje.fandom.com/es/wiki/Eder_La_Barrera) |
 | **Summer Smith** | **Lileana Chacón** (también Arenita en Bob Esponja y Raven) | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Summer_Smith), [Doblaje Latino Wiki](https://doblaje-latino.fandom.com/es/wiki/Lileana_Chac%C3%B3n) |
 | **Jerry Smith** | **Héctor Indriago** (el único que no ha cambiado desde el principio) | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Jerry_Smith) y los repartos del anime |
-| **Beth Smith** | **Rebeca Aponte**; desde la T7, **Carmen Lugo** (Rebeca se mudó a Madrid) | ⚠️ una fuente ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Beth_Smith)) |
-| **Sr. Meeseeks** | **Ángel Lugo** (venezolano, también director de doblaje) | ⚠️ lo dice [Fandoblaje](https://fandoblaje.fandom.com/es/wiki/%C3%81ngel_Lugo); Doblaje Wiki tiene su ficha [«Sr. Meeseeks»](https://doblaje.fandom.com/es/wiki/Sr._Meeseeks) pero no pude abrirla |
+| **Beth Smith** | **Rebeca Aponte** (T1-T6); **Carmen Lugo** (T7-T8; Rebeca se mudó a España en 2023); **Arlet Matute** (T9, Carmen se mudó a España en 2025) | ✅ las tres. Aponte: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Rick_y_Morty) y [Fandoblaje](https://fandoblaje.fandom.com/es/wiki/Rebeca_Aponte). Lugo: Doblaje Wiki y [su ficha](https://doblaje.fandom.com/es/wiki/Carmen_Lugo). Matute: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Rick_y_Morty#Historia_del_doblaje) y [World Dubbing News en X](https://x.com/WDN_Topic/status/2058748920721768777) |
+| **Sr. Meeseeks** | **Ángel Lugo** (venezolano, también director de doblaje) | ✅ (antes ⚠️) [reparto del 1×05 en Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Rick_y_Morty/1.%C2%AA_temporada) y [Fandoblaje](https://fandoblaje.fandom.com/es/wiki/%C3%81ngel_Lugo) |
+| **Sr. Pantalones de Popó** (Mr. Poopybutthole) | **Reinaldo Rojas** (T2-T3) → **Nayip Rodríguez** (T4-T6) → **Jaime de Abreu** (T7-) | ⚠️ una fuente ([Doblaje Wiki, «Sobre el reparto»](https://doblaje.fandom.com/es/wiki/Rick_y_Morty#Sobre_el_reparto)); ninguno tiene ficha en Fandoblaje |
+| **Hombre Pájaro** (Birdperson) | Salvador Pérez (T1-T2) → Alejandro Mejía (T3) → **Jonathan Avilán** (actual) | ⚠️ una fuente (Doblaje Wiki, «Datos de interés») |
 
 **Lo importante**: cuando despidieron a **Justin Roiland** (enero de 2023)
 y en inglés entraron **Ian Cardoni** (Rick) y **Harry Belden** (Morty)
@@ -673,8 +710,8 @@ ANMTV, TVLaint, FUNiAnime). Summer **Constanza de la Rosa**, Beth
 | **Tema de apertura** | Compuesto por **Ryan Elder**, el compositor de la serie ✅ ([Shazam](https://www.shazam.com/track/430354179/rick-and-morty-theme), [WhoSampled](https://www.whosampled.com/Rick-and-Morty/Rick-and-Morty-Theme/)) | Instrumental espacial de sintetizador, tipo «Doctor Who» ⚠️ de memoria |
 | **Disco oficial** | 26 canciones, 18 de Ryan Elder; con **Chaos Chaos, Belly, Blonde Redhead y Mazzy Star** ✅ (resumen de búsqueda) | — |
 | **«For the Damaged Coda»**, de **Blonde Redhead** | El **tema de Evil Morty** ✅ ([Apple Music](https://music.apple.com/us/album/for-the-damaged-coda-evil-morty-theme-song-from-rick/1564763349)) | Piano solemne; para un giro dramático |
-| Canción del momento triste del 1×08 | «Give me a name / Hear my faith…» en 00:20:14 ✅ (subtítulo). Es de Mazzy Star, «Look On Down From The Bridge» ⚠️ | Melancolía; mientras Jerry y Beth deciden seguir juntos |
-| **«Get Schwifty»** | La canción del 2×05 (00:05:54) ✅. En latino, «Ponte Ricoso» ⚠️ | Fiesta absurda |
+| Canción del momento triste del 1×08 | «Give me a name / Hear my faith…» en 20:14 ✅ (subtítulo). Es de Mazzy Star, «Look On Down From The Bridge» ⚠️ | Melancolía; mientras Jerry y Beth deciden seguir juntos |
+| **«Get Schwifty»** | La canción del 2×05 (5:54) ✅. En latino, «Ponte Ricoso» ⚠️ | Fiesta absurda |
 | **Tráiler de la T9** | Con **«Rebel Yell», de Billy Idol** (7 de abril de 2026) ✅ ([Space](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-promises-no-ai-slop-just-grade-a-organic-slop-when-it-drops-on-adult-swim-later-this-year), [JoBlo](https://www.joblo.com/rick-and-morty-season-9-trailer/)) | Rock de los 80, energía de estreno |
 
 Para #noticias-series no hace falta música, pero si la lámina se anima
@@ -732,7 +769,7 @@ Ver §7.4. Resumen para la lámina:
 
 - **«I'm Pickle Rick!»** (3×03). En latino, «¡Soy un pepinillo!».
 - **«Wubba lubba dub dub»**: y que en realidad significa «estoy sufriendo,
-  ayúdame» (1×11, 00:18:22).
+  ayúdame» (1×11, 18:22).
 - **El Sr. Meeseeks**: «¡Soy el Señor Meeseeks! ¡Mírenme!».
 - **«Get Schwifty»** y **«Show me what you got»** (2×05) ✅
   ([Know Your Meme](https://knowyourmeme.com/memes/show-me-what-you-got)).
@@ -796,9 +833,9 @@ vídeo en ese minuto y compruébala.
 | 290 | Tres cuartos, cansado, boca abierta, brazo apoyado | **Pensar** (con fastidio) |
 | 631 | **Palma arriba enseñando un objeto dorado**, la otra mano abierta, luz cálida | **Presentar** (cambia el objeto por el cristal o el mando) |
 | 353 | Tiny Rick con **las dos manos arriba** | **Celebrar** |
-| 1×08, 00:00:30 | Abre la caja del cable y mete el cristal ⚠️ | **Explicar** |
-| 1×08, 00:01:00 | «This is infinite TV from infinite universes»: mando en mano, hacia la tele ⚠️ | **Presentar el canal** |
-| 1×08, 00:21:47 | «All right, that's it»: harto de preguntas ⚠️ | **Regañar** |
+| 1×08, 0:30 | Abre la caja del cable y mete el cristal ⚠️ | **Explicar** |
+| 1×08, 1:00 | «This is infinite TV from infinite universes»: mando en mano, hacia la tele ⚠️ | **Presentar el canal** |
+| 1×08, 21:47 | «All right, that's it»: harto de preguntas ⚠️ | **Regañar** |
 
 ### Morty
 
@@ -808,8 +845,8 @@ vídeo en ese minuto y compruébala.
 | 630 | **Palma arriba**, boca abierta con dientes | **Explicar** |
 | 232 | Sentado a la mesa, con el tenedor | Escena doméstica |
 | 42 | Tres Mortys en fila | Grupo |
-| 1×08, 00:18:01 | Le dice a Summer «Come watch TV» ⚠️ | **Animar** / invitar |
-| 2×08, 00:19:08 | Su discurso a Summer ⚠️ | **Regañar** |
+| 1×08, 18:01 | Le dice a Summer «Come watch TV» ⚠️ | **Animar** / invitar |
+| 2×08, 19:08 | Su discurso a Summer ⚠️ | **Regañar** |
 
 ### Summer
 
@@ -819,7 +856,7 @@ vídeo en ese minuto y compruébala.
 | 339 | **Brazos abiertos, boca abierta**, en la mesa | **Debatir** / protestar |
 | 629 | De pie en la cocina, sorprendida | Reaccionar a una noticia |
 | 338 | Versión de mundo arrasado, con cicatrices | Acción (no para este canal) |
-| 2×08, 00:13:27 | «I don't want to be that girl, but…» ⚠️ | **Opinar**: el hilo |
+| 2×08, 13:27 | «I don't want to be that girl, but…» ⚠️ | **Opinar**: el hilo |
 | Arte T9 | Atleta con **medalla** ✅ (existe; no lo vi) | **Celebrar** |
 
 ### Sr. Meeseeks
@@ -827,18 +864,18 @@ vídeo en ese minuto y compruébala.
 | Ref. | Qué hace | Sirve para |
 |---|---|---|
 | 242 | De pie, sonrisa, brazos largos colgando | **Presentarse** |
-| 1×05, 00:02:35 | Sale de la caja: «I'm Mr. Meeseeks! Look at me!» ⚠️ | **Presentar** |
-| 1×05, 00:02:44 | «All done!» y desaparece ⚠️ | **Celebrar** |
-| 1×05, 00:03:31 | «Ooh, yeah! Can do!» ⚠️ | **Animar** |
-| 1×05, 00:16:42 | «Existence is pain» ⚠️ | **Regañar** (dramático) |
+| 1×05, 2:35 | Sale de la caja: «I'm Mr. Meeseeks! Look at me!» ⚠️ | **Presentar** |
+| 1×05, 2:44 | «All done!» y desaparece ⚠️ | **Celebrar** |
+| 1×05, 3:31 | «Ooh, yeah! Can do!» ⚠️ | **Animar** |
+| 1×05, 16:42 | «Existence is pain» ⚠️ | **Regañar** (dramático) |
 
 ### Pepinillo Rick
 
 | Ref. | Qué hace | Sirve para |
 |---|---|---|
 | 265 | En su traje de ratas, **brazos arriba, gritando** | **Celebrar** / anunciar |
-| 3×03, 00:00:34 | Tumbado en el banco: «Boom! Big reveal» ⚠️ | **Presentar** una noticia |
-| 3×03, 00:00:55 | «I'm Pickle Rick!» ⚠️ | **Celebrar** |
+| 3×03, 0:34 | Tumbado en el banco: «Boom! Big reveal» ⚠️ | **Presentar** una noticia |
+| 3×03, 0:55 | «I'm Pickle Rick!» ⚠️ | **Celebrar** |
 
 ### Los del cable
 
@@ -877,8 +914,8 @@ Accesorio de Rick: **la pistola de portales** (verde) y la petaca ⚠️.
 - **Hospital St. Gloopy Noops** (2×08: la API pone ahí al Dr. Glip-Glop,
   a Shrimply Pibbles y a un periodista, todos del episodio 19, que es el
   2×08 ✅): sala de espera con tele y **rueda de prensa**. Jerry sale a
-  hablar en 00:14:05 («Hello, everyone!») y un portavoz anuncia en
-  00:17:28: «Please, everyone, **I have news** about Shrimply Pibbles» ✅.
+  hablar en 14:05 («Hello, everyone!») y un portavoz anuncia en
+  17:28: «Please, everyone, **I have news** about Shrimply Pibbles» ✅.
 - **La Ciudadela de los Ricks** (otra ciudad de la serie ✅, en la API).
 
 ### Fondos de pantalla
@@ -938,6 +975,54 @@ deformada).
 
 ---
 
+## 18A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18B · Texturas 2D (punto 19)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18C · Gustos y detalles de cada personaje (punto 20)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18D · Por qué la gente la ama (punto 21)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18E · Fan dubs y comunidad hispana (punto 22)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18F · Colaboraciones, figuras y cosplay (punto 23)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18G · Obras parecidas y temas relacionados (punto 24)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
+## 18H · El mundo, la historia y sus símbolos (punto 25)
+
+_(pendiente: se rellena en esta segunda pasada)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #noticias-series
 
 Los tres usan los textos de §0. Donde una frase va «en la voz de la
@@ -952,11 +1037,11 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
   sobre su mueble ([Television 01, CC0](https://polyhaven.com/a/Television_01),
   retocada para que se parezca a la de la serie ⚠️ compárala antes) y,
   encima, **la caja del cable interdimensional abierta**, con el
-  **cristal de xantenita** brillando dentro (1×08, 00:00:30). Cables
+  **cristal de xantenita** brillando dentro (1×08, 0:30). Cables
   sueltos y **el mando** sobre el mueble. En Blender: tele, caja con
   tapa levantada, cristal emisivo, mando.
 - **La pantalla**: un **fotograma** del noticiero del cable, «Opposite
-  News» (2×08, 00:12:29 a 00:12:42), con **Michael Thompson** y sus
+  News» (2×08, 12:29 a 12:42), con **Michael Thompson** y sus
   papeles (ref. 225). La regla del dueño: si el marco es una pantalla,
   va un fotograma.
 - **Personajes**: **Rick** de pie junto a la tele, **palma arriba
@@ -965,13 +1050,13 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
 - **Cómo habla**: sin globo. La frase de Rick va en **la pantallita de
   la caja**, en VT323: **«TV infinita de universos infinitos»**
   (traducción mía de «infinite TV from infinite universes», 1×08,
-  00:01:00).
+  1:00).
 - **Dónde va cada texto**:
   - Cartela del programa, arriba en la pantalla: **Noticias de series**
     (Creepster, o Get Schwifty porque no lleva tildes).
   - Rótulo de abajo, primera línea: **Series y cine** (Anton).
   - Debajo, como los eslóganes apilados de Real Fake Doors (1×08,
-    00:11:18), tres líneas o tres pestañas: **Estrenos**,
+    11:18), tres líneas o tres pestañas: **Estrenos**,
     **Temporadas**, **Doblajes**.
   - Un **pósit** pegado en el marco de la tele, con letra de Morty:
     **¿Quieres opinar? Abre un hilo**.
@@ -984,19 +1069,19 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
 ### Concepto B — «¡Bum! Gran revelación» (Pepinillo Rick en el garaje)
 
 - **Objeto y sitio**: **el banco de trabajo del garaje** (3×03,
-  00:00:20: «On my work bench, Morty»). Encima, **Pepinillo Rick**
+  0:20: «On my work bench, Morty»). Encima, **Pepinillo Rick**
   tumbado, y a su lado **una tele pequeña de tubo** con la caja del
   cable. Los **tres cajones** del banco llevan **etiquetas de cinta de
   carrocero escritas a mano**. En Blender: banco, cajones, cinta arrugada
   (la tinta sigue las arrugas), tornillo de banco, herramientas.
 - **Personajes**: **Pepinillo Rick**, el secundario más famoso (Emmy
-  2018, 3.º en Ranker). Pose: tumbado, mirando a cámara (3×03, 00:00:34)
+  2018, 3.º en Ranker). Pose: tumbado, mirando a cámara (3×03, 0:34)
   ⚠️ compruébala. **Morty** entero a un lado, **inclinado sobre el
   banco** y con cara de «¿y?» (pose del 2). Ojo con la regla 7: nada de
   una mano sin brazo entrando en el cuadro.
 - **Cómo habla**: su frase va **en la pantalla de la tele pequeña**,
   como un rótulo de última hora, en Bangers: **«¡Bum! Gran revelación»**
-  (traducción mía de «Boom! Big reveal», 3×03, 00:00:34). Si se prefiere
+  (traducción mía de «Boom! Big reveal», 3×03, 0:34). Si se prefiere
   la frase **verificada en latino**: **«¡Soy un pepinillo!»**.
 - **Dónde va cada texto**:
   - Pantalla de la tele pequeña, arriba: **Noticias de series**.
@@ -1013,7 +1098,7 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
 ### Concepto C — «La caja Meeseeks» (una petición, una noticia)
 
 - **Objeto y sitio**: **la caja Meeseeks** sobre **la mesa de la cocina
-  de los Smith**. Es una caja con **un botón** arriba (1×05, 00:02:31:
+  de los Smith**. Es una caja con **un botón** arriba (1×05, 2:31:
   «This is a Meeseeks Box… You press this») ✅. En Blender: caja con
   botón, **funda de cartón impresa** como la de un juguete, mesa, platos
   del desayuno. Referencia 3D: [Meeseeks Box de MagunDongle](https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1)
@@ -1026,20 +1111,20 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
 - **Cómo habla**: el Meeseeks habla desde **la funda de la caja**, como
   el eslogan de un juguete: **«¡Soy el Señor Meeseeks! ¡Mírenme!»**
   («Señor Meeseeks» ✅ en latino; «¡Mírenme!» ⚠️ compruébalo en el 1×05,
-  00:02:35).
+  2:35).
 - **Dónde va cada texto**:
   - Tapa de la caja, grande: **Noticias de series**.
   - Frente de la funda: **Series y cine**.
   - Lo que sostiene cada Meeseeks: periódico **Estrenos**, claqueta
     **Temporadas**, banderita del micrófono **Doblajes**.
   - Etiqueta junto al botón: **¿Quieres opinar? Abre un hilo**. La idea:
-    igual que cada Meeseeks cumple **una** petición (1×05, 00:02:43),
+    igual que cada Meeseeks cumple **una** petición (1×05, 2:43),
     **cada noticia tiene su hilo**.
 - **Para que no quede plano**: un **plato con el desayuno** y un vaso de
   zumo desenfocados delante (como en el 339); luz de mañana por la
   ventana; el Meeseeks del centro **tapa un poco la caja**; sombras
   reales de los tres sobre la mesa.
-- **Variante**: la **rueda de prensa del hospital** (2×08, 00:17:28, «I
+- **Variante**: la **rueda de prensa del hospital** (2×08, 17:28, «I
   have news»), con el **periodista que levanta la mano** (ref. 460)
   como símbolo de «abre un hilo».
 
@@ -1079,6 +1164,12 @@ dueño**: no los invento.
 - **La tipografía de los cómics** de Oni Press (Crank!): sin identificar.
 - **Encuesta oficial de popularidad**: no existe o no la encontré.
 - **El verde de los portales**: sin medir.
+
+---
+
+## Cumplimiento del encargo
+
+_(pendiente: se rellena en esta segunda pasada)_
 
 ---
 

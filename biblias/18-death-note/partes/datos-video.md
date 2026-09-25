@@ -28,8 +28,8 @@ _Fuente: https://api.dailymotion.com_
 - Opening Death Note/Black Lagoon · 1:25 · mimi_02 · 390 vistas · https://www.dailymotion.com/video/x582gp
 - Opening death Note by Fuji · 1:28 · kk kkk · 382 vistas · https://www.dailymotion.com/video/x237pn
 - Death note opening · 1:19 · takada30 · 365 vistas · https://www.dailymotion.com/video/x4s7fq
-- Death Note - Opening 2 · 1:20 · Tomatazos · 353 vistas · https://www.dailymotion.com/video/x8x381q
-- 2º opening death note · 1:19 · Hassan Kyo · 201 vistas · https://www.dailymotion.com/video/x2vms1
+- Death Note - Opening 2 · 1:20 · Tomatazos · 354 vistas · https://www.dailymotion.com/video/x8x381q
+- Death Note Opening 1 HD 1080p · 1:20 · Good Shortfilms · 269 vistas · https://www.dailymotion.com/video/x31pve2
 **«DEATH NOTE ending»**
 - death note B 2nd ending what's up people · 1:36 · marco · 900 vistas · https://www.dailymotion.com/video/x47kz1
 - Alternate ending - death note - L's funeral · 7:28 · FiNaL_FaNTaSy_fanatic · 284 vistas · https://www.dailymotion.com/video/x5rxxi
@@ -45,12 +45,12 @@ _Fuente: https://api.dailymotion.com_
 - Death Note : trailer Netflix · 0:56 · Hitek · 2439 vistas · https://www.dailymotion.com/video/x5foym8
 - Death Note Trailer Legendado · 2:08 · adorocinema · 1361 vistas · https://www.dailymotion.com/video/x88par5
 **«Death Note escena»**
-- Death note · 4:28 · Sakuno123 · 1181 vistas · https://www.dailymotion.com/video/x1q88k
-- Death Note · 2:11 · tazdevil19 · 61 vistas · https://www.dailymotion.com/video/x4zav9
+- DEATH NOTE · 4:53 · kuseninarisou · 206 vistas · https://www.dailymotion.com/video/x33tf9
+- Death Note · 1:04 · Teaser Trailer · 115 vistas · https://www.dailymotion.com/video/x5frb52
 - Death Note · 1:42 · Télé 7 Jours · 57 vistas · https://www.dailymotion.com/video/x9o9pzy
+- Death note · 3:46 · Mike · 46 vistas · https://www.dailymotion.com/video/x4lpoz
 - Escena Eliminada De Death Note ELIMINADO De Teru Mikami Sub EspaÑol · 1:38 · IvoryDeborah87180737 · 25 vistas · https://www.dailymotion.com/video/x6ar8xu
 - Escena Eliminada De Death Note ELIMINADO De Teru Mikami Sub EspaÑol · 1:40 · EisseAcku21203247 · 24 vistas · https://www.dailymotion.com/video/x627up3
-- death note · 0:47 · mouad bouzerda · 14 vistas · https://www.dailymotion.com/video/x2n3ft
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
