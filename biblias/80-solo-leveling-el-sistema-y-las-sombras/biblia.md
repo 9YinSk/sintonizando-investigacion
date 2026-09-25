@@ -308,3 +308,302 @@ comercial). También hizo una plancha con «STATUS 100 Nv. ñÑ¿¡áéíóú».
   [Orbitron](https://cdn.jsdelivr.net/fontsource/fonts/orbitron@latest/latin-700-normal.ttf) ·
   ficha de cada una en [api.fontsource.org](https://api.fontsource.org/v1/fonts?subsets=latin-ext).
 
+## 6 · Cómo habla la serie: la ventana del Sistema (lo más importante)
+
+**Qué es.** Un «programa mágico» que elige a Jinwoo como su único
+**Jugador**. Nadie más lo ve. Detrás hay un **Moderador**, Kandiaru. Al final
+Jinwoo lo cambia y se lo pasa a su hijo Suho. Su primera frase: «*Congratulations
+on becoming a Player.*» (ep. 3) · [wiki System](https://solo-leveling.fandom.com/wiki/System) · ✅
+
+**Regla de oro: el color y la forma dependen del TIPO de ventana** (dos
+investigadores, vídeo e imagen fija, mismo patrón) ✅
+
+| Tipo | Dónde se vio | Forma | Colores |
+|---|---|---|---|
+| **NOTIFICATION** (aviso de evento, la que más sale) | tráiler 1:11; ep. 11 · 2:33; ep. 12 · 0:00 y 1:18 | panel translúcido de **bordes redondeados**, «!» en un círculo arriba a la izquierda, cabecera en mayúsculas | fondo `#071331`, borde y letras `#2A9EDA` / `#81D9EC` |
+| **STATUS** (ficha a demanda) | `Anime_System.png`, nivel 100 | marco de circuito neón, **esquinas rectas**, título en su propio recuadro | marco `#8C1BF8` / `#D259FF`, panel `#1B2337`, texto `#D2E7FF`, bonos `#2BE36A` |
+| **Cinta de límite** | ep. 12 · 0:52 | banda larga con doble filete azul, **sin fondo** | letras carmesí `#E70D41` |
+| **Campo para escribir** | ep. 12 · 0:08 y 1:19 | línea vacía con cursor que parpadea bajo la ventana | como NOTIFICATION |
+| **Webtoon** | `System1`, `SystemInventory1`, `Shop` | esquinas **cortadas en diagonal**, rejilla fina | ámbar `#93825A` / `#A29B39` sobre `#2B3136`, o azul `#4C8CFD` |
+
+**Dentro de la ventana**
+- Cabecera en MAYÚSCULAS en su propio recuadro: STATUS, NOTIFICATION, QUEST
+  INFO, STORE. ✅
+- Nombres de objetos, misiones, rangos y habilidades **entre corchetes**:
+  «[Urgent Quest: Defeat the Enemies.]», «[Knight Killer]», «[Skill: Shadow
+  Extraction]». Es la marca más reconocible. ✅
+- **Verde** = lo bueno (clase nueva, bonos). **Carmesí** = límite, coste o
+  amenaza. El resto, blanco o cian. ✅
+- En STATUS: número de nivel gigante, «JOB» y «TITLE» con su valor en blanco,
+  barras de HP y MP con icono (cruz y gota), rejilla STR/AGI/PER y VIT/INT
+  con el bono entre paréntesis en verde. ✅
+
+**Lo que NO es el Sistema**
+- **El globo blanco con cola es de Jinwoo**, cuando habla en voz alta
+  («SHOP.», webtoon). El Sistema nunca tiene cola: no «sale» de nadie. ✅
+- **Los diálogos del anime** van en subtítulo blanco simple, sin caja («Still
+  no good!», ep. 11). ✅
+- **La cartela de jefe** («KNIGHT COMMANDER IGRIS THE BLOODRED», ep. 11 ·
+  0:06) es rótulo azul angular sobre la imagen, no ventana. ✅
+- **El móvil de Jinwoo / la Asociación**: tarjeta blanca de app de oficina
+  (biblia 03, ep. 8). ⚠️ referencia cruzada.
+- ⚠️ Un vídeo de **fans** en 3D muestra un aviso de habilidad rosa-violeta con
+  borde *glitch* («[Skill: Fatal Strike] has been upgraded…», [x9vvdrc](https://www.dailymotion.com/video/x9vvdrc)
+  min 1:36). No se sabe si es del anime o del juego que imita: **no usar**.
+- **Onomatopeya del Sistema**: «DING», gruesa y redondeada, azul con borde
+  blanco, sin globo, junto al personaje (webtoon). ✅
+- El sonido de la ventana en el anime es un **tintineo electrónico corto y
+  agudo**; no lleva letras en pantalla. ⚠️ oído en tres clips, sin nombre
+  oficial.
+
+**La receta para una lámina, en una línea:** ventana NOTIFICATION azul
+(`#071331`, borde `#2A9EDA`, «!» en círculo) o STATUS violeta; cabecera en
+MAYÚSCULAS con Exo 2 Bold; cuerpo con Rajdhani; nombres entre corchetes;
+verde para lo bueno y carmesí sólo para avisos. Si alguien habla en voz alta,
+subtítulo blanco (anime) o globo blanco con cola (webtoon). Nunca una burbuja
+genérica para el Sistema.
+
+## 7 · Personajes y quién es el más querido
+
+**Encuestas y conteos**
+- **AniList** (favoritos, ficha del anime): 1.º Jinwoo 15 249 · 2.º Cha
+  Hae-In 4726 · 3.º el Narrador 2232 · **4.º Igris 1830** · 5.º Lee Joohee
+  522 · … 12.º Iron 217 · [AniList](https://anilist.co/anime/151807) · ✅
+- **Beru** tiene ficha aparte: **1384 favoritos** ·
+  [AniList](https://anilist.co/character/159849) · ✅. Igris le gana.
+- **Danbooru** (919 dibujos de fans, sin contar un cruce con otra obra): 1.º
+  Jinwoo 456 · 2.º Cha Hae-In 155 · 3.º Kang Taeshik 98 · **4.º Igris 86** ·
+  5.º Esil Radiru 42 · **6.º Beru 40** · Tank 35 · Iron 33 · Kaisel 30 ·
+  Tusk 21 · [Danbooru](https://danbooru.donmai.us/posts?tags=solo_leveling) · ✅
+- **Japón** (Nlab y Dengeki Online, abril de 2024): 1.º Jinwoo, 2.º Cha
+  Hae-In · ✅ (cruzado en la biblia 03).
+- **Reddit** r/sololeveling, tras el final de la T2: el post más votado sobre
+  las sombras es «The daily life of shadows» (345 votos): Igris, Tank e Iron
+  en *chibi*, de mayordomos de Jinwoo ·
+  [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=sololeveling) · ✅
+- **Conclusión:** el más querido es **Jinwoo**. Entre las sombras, **Igris**.
+  Beru es el más «meme» y el que tiene voz.
+
+**Quién es quién (foco del encargo)**
+- **Sung Jinwoo**: cazador de rango E, el más débil, que vuelve de la Doble
+  Mazmorra con el Sistema. Humilde, amable, muy unido a su madre y a su
+  hermana Jinah; sin piedad con quien las daña. Educado y tranquilo en
+  persona. Sus ojos brillan violeta al usar su poder (wiki). ✅
+- **Igris**, «Knight of Death», antes Sian Halat. Guardaba un **trono vacío**
+  en la mazmorra del cambio de clase. Leal, respetuoso, caballeroso. Se
+  arrodilla tras cada batalla. Segunda sombra más fuerte, a la par de Beru ✅.
+- **Beru**, la sombra del **Rey Hormiga** de Jeju. Nació para matar y goza la
+  pelea. Leal sin fisuras. Ve **doramas de época coreanos** y por eso habla
+  de forma antigua. Es la sombra que habla. ✅
+- **Iron**, la sombra de Kim Chul. Bocazas impulsivo: destroza de más, presume
+  de sus muertes, se frustra si su «Provocación» no funciona. Jinwoo lo
+  considera tonto, pero cumple · [wiki](https://solo-leveling.fandom.com/wiki/Iron#Personality) · ⚠️
+- **Bellion**, Gran Mariscal, la sombra más fuerte. Serio, casi sin emoción.
+  ⚠️ aún no sale en el anime (25 episodios).
+- **Kaisel**, el dragón montura: sin personalidad propia (grado Caballero) ·
+  [wiki](https://solo-leveling.fandom.com/wiki/Kaisel) · ⚠️
+- **Kargalgan → Colmillo (Tusk)**: enemigo que habla con gramática rota y
+  luego es sombra; lo dobla **J Balvin**. ✅
+- **Cha Hae-In**: rango S, subjefa del Gremio de Cazadores, 9.ª de Corea.
+  Huele el maná y le desagrada el olor de todos los cazadores menos Jinwoo.
+  Rubia, ojos violeta (etiquetas de Danbooru) · [AniList](https://anilist.co/character/138789) · ✅.
+  Ficha completa en la biblia 03.
+
+**Con quién aparecen:** las sombras siempre con Jinwoo (a su espalda, de
+rodillas ante él o saliendo de su sombra). Igris e Iron forman pareja cómica
+(Iron le copia las manías). Igris y Bellion discuten por Suho (en el webtoon).
+
+## 8 · Doblaje latino y frases textuales
+
+**Ficha** ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Solo_Leveling), por su API `action=parse`)
+- Estudio **VSI Mexico City**, con **Crunchyroll**. Dirección **Sofía
+  Huerta**. 2 temporadas, 25 episodios, 2024-2025. Traducción: Ilse Santillán
+  (T1) y Samuel Oseguera (T2). Mezcla: Óscar Galván (T1) y Mikel Andrade (T2).
+  Los diálogos de J Balvin se grabaron en **Dallas, Texas**. ✅ (con ANMTV,
+  cruzado en la biblia 03).
+- El doblaje latino **conserva los nombres coreanos** (en Japón Jinwoo se
+  llama Shun Mizushino) y los dice en orden occidental (nombre + apellido). ✅
+
+**Reparto que importa a este enfoque**
+
+| Personaje | Voz latina | Fuentes |
+|---|---|---|
+| Sung Jinwoo | **Fernando Moctezuma** (su primer protagónico de anime) | Doblaje Wiki + AniList + Infobae (biblia 03) ✅ |
+| Beru | **Daniel Lacy** | Doblaje Wiki + MAL (biblia 03) ✅ |
+| Igris | **nadie: no habla** | Doblaje Wiki (sin muestra) + MAL (sin actor) ✅ |
+| Kargalgan / Colmillo | **J Balvin** (también en inglés) | ANMTV, SDP Noticias, Excélsior (biblia 03) ✅ |
+| Iron (Kim Chul) | Olín Garcés (T2) | sólo Doblaje Wiki ⚠️ |
+| Cha Hae-In | Sofía Huerta | sólo AniList, que mezcla España y Latinoamérica ⚠️ |
+
+- **Por qué Igris no habla:** la habilidad «Comunicación» la gana al subir a
+  grado Mariscal, en el capítulo 164 del webtoon (221 de la novela). El anime
+  no ha llegado ahí: en pantalla habla con el cuerpo · [wiki Igris](https://solo-leveling.fandom.com/wiki/Igris) · ✅
+
+**Frases textuales** (muestras oficiales de Doblaje Wiki transcritas con
+`voz.py`; «cómo suena» medido, no de oído)
+- **Beru pide su nombre** (ep. 25 · 09:04-09:50): «Mi rey… necesito que usted
+  me dé un nombre. Se equivoca, yo no morí, mi rey. Es gracias a su mano que
+  yo he podido renacer. Todo mi ser se encuentra lleno de júbilo. Juro que voy
+  a servirle por la eternidad. Ahora, por favor, concédame un nombre.» Grave
+  (103 Hz), 9,5 semitonos, lento (1,8 palabras/s) ·
+  [muestra](https://static.wikia.nocookie.net/doblaje/images/5/57/Beru_%28Sombra%29_%28Audio%29_Solo_Leveling.ogg) · ✅ (coincide con la transcripción de la biblia 03)
+- **Kargalgan antes de ser domado**: «Por diversión, uno a uno ser muertos,
+  torturados y devorados. Ser el entretenimiento de mis soldados. […] Las
+  monos imitan, pero nunca ser intimidantes.» Verbos sin conjugar **a
+  propósito**. Grave (87 Hz), 33 semitonos (el más expresivo), lento ·
+  [muestra](https://static.wikia.nocookie.net/doblaje/images/d/d8/Kargalgan_%28Audio%29_Solo_Leveling.ogg) · ⚠️ sin subtítulo oficial que la confirme.
+- **Kim Chul humano, antes de ser Iron**: «Debido a mi rango, deberán seguir
+  mis indicaciones para que salgan vivos de esta misión. […] Pero les prometo
+  esto. El que esté conmigo sobrevivirá.» Agudo (226 Hz), 10 semitonos, 2,91
+  palabras/s · ⚠️ es la voz del humano, no hay muestra de Iron sombra.
+- **Beru en combate**: Whisper la transcribe mal («Vime para te guardarlo a
+  todo»). ⚠️ no citar el texto. Sí vale lo medido: sube a 149 Hz y 22,8
+  semitonos; habla más rápido (2,23 palabras/s).
+- **«Surge»** es como el latino traduce «Arise» en carteles y subtítulos
+  oficiales (ep. 14 · 12:48; ep. 18 · 17:49; ep. 21 · 02:33, biblia 03). El
+  detrás de cámaras de Crunchyroll LA se titula «🔥SURGE🔥». ✅ en texto.
+  ⚠️ Falta **oír** si el audio latino dice «Surge» (pendiente en `DECISIONES.md`).
+- ⚠️ **Faltan frases latinas de Jinwoo con minuto.** Hay tres muestras suyas
+  en Doblaje Wiki (Rango E, Rango B, niño) sin transcribir, y no hubo clips
+  oficiales doblados en YouTube. Sus frases de este documento están en
+  inglés (subtítulos de los clips).
+
+## 9 · Música y sonido
+
+Lista sacada de `Template:Music_Navigation` de la wiki; ambiente comprobado
+viendo los vídeos (storyboards de YouTube sin iniciar sesión). ✅ salvo aviso.
+
+| Tema | Quién | Dónde suena | Ambiente |
+|---|---|---|---|
+| **Opening 1 «LEveL»** | SawanoHiroyuki[nZk] : TOMORROW X TOGETHER | ep. 1-12; se cambia justo cuando Jinwoo es Monarca | Seúl de noche, portales violeta · [vídeo](https://www.youtube.com/watch?v=XqD0oCHLIF8) |
+| **Opening 2 «ReawakeR»** | LiSA ft. Felix (Stray Kids), música de Sawano | desde el ep. 13 | ⚠️ no se pudo ver |
+| **Ending 1 «request»** | krage | desde el ep. 2 (el mismo en que salen las primeras ventanas) | videoclip con grano, espacios vacíos · [vídeo](https://www.youtube.com/watch?v=CRZsOOOvg1I) |
+| **Ending 2 «UN-APEX»** | TK from Ling tosite sigure | desde el ep. 13 | ⚠️ no se pudo ver |
+| **«DARK ARIA»** (OST) | Sawano, voz XAI | ep. 6 («Kill or Be Killed») y ep. 23 | urgencia; luces rojas y cian · [directo](https://www.youtube.com/watch?v=ZGXOWPZ64DA) |
+| **«4eVR»** (OST) | Sawano, voces Laco, Benjamin, mpi | ep. 10 («Grinding XP», subir de nivel) | montaje de entrenamiento |
+| **«SHADOWBORN»** (OST) | Sawano, voces Benjamin, mpi | ep. 13, 18 y 25 («Jinwoo vs All the Ice Bears») | orquesta y rock, noir rojo y negro · [directo](https://www.youtube.com/watch?v=qUFRPDHs1Q8) |
+| **«REVIVER»** (OST) | Sawano, voz SennaRin | ep. 21 («It Was All Worth It»: el Elixir para su madre) | balada de piano y chelo, azul frío · [directo](https://www.youtube.com/watch?v=1LJnOQOBGp4) |
+| **«HØWL»** (OST) | Sawano, voz Aimee Blackschleger | ep. 24 («Sung Jinwoo vs The Ant King») | clímax antes de que Beru se una |
+
+- Los vídeos de Sawano son **actuaciones en directo**, no escenas del anime.
+- **Sonido del Sistema**: tintineo electrónico corto y agudo en cada ventana,
+  distinto del golpe grave de los combates. ⚠️ oído en tres clips, sin nombre
+  oficial.
+- **Onomatopeyas**: «DING» (ventana, webtoon), «SHWWP» (objeto que se guarda
+  en el inventario, blanco con borde negro). En el manhwa animado, los golpes
+  llevan letras coreanas encima ([x9d28g8](https://www.dailymotion.com/video/x9d28g8)). ✅
+- En Internet Archive hay el audio de «request» (ítem
+  `krage-request-solo-leveling-ed`, mp3) y una [lista de audio de la T2](https://archive.org/details/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow-playlist-1).
+  ⚠️ sin escuchar.
+- MusicBrainz no dio la banda sonora (sólo resultados de otras obras con «Ken»). ⚠️
+
+## 10 · Vídeos con minuto
+
+**Tráiler oficial 3** (Crunchyroll), espejo en [Internet Archive](https://archive.org/details/youtube-n24l9gvM3XM),
+854×480, mirado entero (87 planos). El original de YouTube (`HkIKAnwLZCw`)
+pedía iniciar sesión.
+- 0:00-0:16 · créditos «Original: CHUGONG · Original Illustration: DUBU ·
+  Written by: H-GOON» y el logo con resplandor azul sobre circuito.
+- 0:18-0:31 · «weakest hunter of all mankind»: Jinwoo con gafas discute con
+  Song-yi sobre dejar de ser cazador.
+- 0:41-1:02 · la Doble Mazmorra: «That huge stone statue... it was looking
+  at us», explosión, Jinwoo ensangrentado, «If I have another chance...!».
+- 1:00 · el puño con venas azules. 1:11-1:13 · la primera ventana
+  NOTIFICATION. 1:32-1:45 · «THIS WINTER» y el ojo con grietas.
+
+**Clips del anime mirados enteros** (re-subidas en Dailymotion)
+- [Jinwoo contra Igris, ep. 11](https://www.dailymotion.com/video/x8xqany) (2:43):
+  0:03 guardia baja · 0:06 cartela de jefe · 0:37 bloqueo en cruz · 1:54
+  arrodillado · 2:33 caja de victoria · 2:39 sentado contra la columna.
+- [El primer «Arise», ep. 12](https://www.dailymotion.com/video/xb7cnoi) (1:42):
+  0:00 cambio de clase · 0:08 palabra de mando · 0:52 cinta 1/3 · 1:18-1:22
+  el nombre · 1:41 Igris en pie.
+
+**Descartados o sin mirar** (para que nadie los use mal)
+- [Beru contra el Rey Hormiga, «Cinematic Short»](https://www.dailymotion.com/video/x9vvdrc):
+  **hecho por fans** (lo dice su primer fotograma). ⚠️ no es el anime.
+- [Jinwoo contra Beru, «season 2»](https://www.dailymotion.com/video/x9d28g8):
+  es **el manhwa animado** con capturas de un juego. ⚠️ no es el anime.
+- Tráiler de la T2 doblado al **hindi** (Crunchyroll India, 1080p) en
+  [Internet Archive](https://archive.org/details/solo-leveling-season-2-arise-from-the-shadow-official-hindi-dub-trailer-crunchyroll-india-1080p). ⚠️ existe, no se miró.
+- Opening 2 y ending 2 (`C0zMWogztQs`, `KxeHOxO3A3I`): YouTube pidió iniciar
+  sesión en todos los intentos. ⚠️
+
+**Tendencias**
+- **TikTok**: la escena del «Arise» (ep. 12) es un *edit* viral que se repite,
+  con `#sololevelingarise` y `#sololevelingedits`. ✅ (varias cuentas).
+- **TikTok en español**: «BERU LE HABLA A SU REY» ([@rghocd_3](https://www.tiktok.com/@rghocd_3/video/7487293973543881989))
+  sobre el doblaje latino. ✅ (ver punto 22).
+- ⚠️ No hay vídeos de análisis en YouTube con minuto en las partes.
+
+## 11 · Videojuegos: interfaz y menús
+
+**Solo Leveling: ARISE OVERDRIVE** (Netmarble Neo, PC/Steam, app 2373990).
+Las 8 capturas oficiales de [Steam](https://store.steampowered.com/api/appdetails?appids=2373990)
+(1920×1080) se miraron en una hoja propia. ✅
+- **Pantalla RESULT** (fin de combate) ·
+  [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/781f8dad22220165704b0a7741b3324527597e67/ss_781f8dad22220165704b0a7741b3324527597e67.1920x1080.jpg?t=1781758887):
+  - Título «RESULT» en palo seco condensado e inclinado, blanco con degradado
+    gris azulado. Debajo, «A New Start», pequeño y espaciado.
+  - Panel de **cristal esmerilado azul marino**, filete fino azul claro, nada
+    de esquinas redondeadas vistosas.
+  - Insignia de **rango en rombo**: «Rank» y «SSS» enorme en cursiva gruesa
+    **rojo-naranja**, con sombra.
+  - Filas de puntos en barras grises; la fila TOTAL con «»» y cifra **dorada**.
+  - Menú inferior sin caja («Rewards Details» / «Close»), pensado para mando.
+  - Panel «Rewards» con **esquina cortada en diagonal** y tres casillas
+    (piedra violeta, «EXP» azul, moneda dorada) y el botón «R3».
+- Las otras 7 capturas son de acción: vestíbulo del gremio con **emblema
+  dorado en la fachada**, combate contra un titán rojo, tres cazadoras con
+  relámpagos violeta. Útiles para fondos y poses.
+- **Solo Leveling: ARISE** (móvil): ⚠️ sin capturas propias; la Play Store no
+  dio la ficha con el id probado. Según la biblia 03, cuenta la historia con
+  viñetas de webtoon animadas y escenas 3D.
+- ⚠️ **Cajas de diálogo del juego**: no se vieron. [Game UI Database](https://www.gameuidatabase.com)
+  y [The Cutting Room Floor](https://tcrf.net) dieron 403 (reto de Cloudflare).
+- Juego de fans que imita la serie: el vídeo 3D de Beru (punto 10) añade un
+  panel «SKILLS». ⚠️ no oficial.
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que todos reconocen**
+- **«Mi rey»** de Beru: la cita de sombra más repetida; en TikTok circula
+  como «Beru y su rey» (ep. 25 · 09:04). ✅
+- **Igris arrodillado** tras cada batalla y **Iron copiándole** la manía de
+  traer las cabezas de los enemigos: el gag de sombras más repetido ·
+  [wiki Igris, Trivia](https://solo-leveling.fandom.com/wiki/Igris#Trivia) · ✅
+- **«The daily life of shadows»** (Reddit, 345 votos): las sombras en *chibi*
+  como mayordomos. El ejército «de casa» gusta tanto como el de batalla. ✅
+- **El «Arise» del ep. 12**: el *edit* que más se repite en TikTok. ✅ La
+  pelea de invocación de Igris se considera de lo mejor de la serie y dura
+  más que en el webtoon (namu.wiki, vía biblia 03) · ⚠️
+- **«Knight Mains vs. Monster Mains»**: el fandom se divide entre Igris
+  (frío y elegante) y Beru (teatral y leal) ·
+  [GameRant](https://gamerant.com/solo-leveling-igris-or-beru-fans-attempt-to-settle-rivalry-between-popular-jinwoo-shadows/) · ✅
+- **Los corchetes y la ventana azul**: cualquier «[Misión urgente]» se
+  reconoce al instante. ✅
+
+**Qué NO hacer** (a un fan le parecería falso)
+- ❌ **Igris con diálogo** o gritando. En el anime no tiene voz: se arrodilla,
+  sujeta la espada, inclina la cabeza.
+- ❌ **Beru tuteando** o con jerga moderna. Siempre de **usted** y «mi rey»,
+  ceremonioso.
+- ❌ **Confundir a Beru con Kargalgan**: Beru es solemne con su rey; Kargalgan,
+  antes de ser domado, es cruel y habla con verbos sin conjugar.
+- ❌ **Todas las sombras iguales**: el grado decide cuánto hablan. Kaisel no
+  habla, Bellion es serio, Iron es un bocazas.
+- ❌ **Cara humana en Igris o Beru**: no tienen rostro. Su emoción va en la
+  postura y en el color de su brillo.
+- ❌ **Cambiar los colores de grieta**: Igris es lila `#9E7EFF`, Beru cian
+  `#2CC6F2`. Y no mezclar las dos formas de Beru (armadura del key visual y
+  forma alada del anime) como si fueran un solo diseño.
+- ❌ **Ventanas ámbar en una escena del anime**: el ámbar es del webtoon. El
+  anime usa azul (NOTIFICATION) y violeta (STATUS).
+- ❌ **Una burbuja blanca para el Sistema.**
+- ❌ **Colores alegres**: es un mundo sombrío; la luz es de ventana, de portal
+  o de vela.
+- ❌ Dar por animado lo que no lo está: **Bellion** aún no sale; **Suho**
+  (y el cariño de Beru por él) es del webtoon.
+- ❌ Usar como fuente el vídeo de fans en 3D (x9vvdrc) o el manhwa animado
+  (x9d28g8) para decir «así es el anime».
+
