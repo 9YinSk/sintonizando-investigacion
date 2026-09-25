@@ -167,6 +167,7 @@ Fuente base de esta sección para los 10: wiki oficial `aplaguetale.fandom.com`,
 - ⚠️ Segunda fuente independiente para el reparto completo en francés (sólo la wiki oficial lo documenta con ese detalle).
 - ⚠️ Un meme o chiste interno único del fandom hispano (no se encontró nada más allá de la cobertura de prensa sobre el doblaje).
 - ⚠️ Muestra de audio real del doblaje en español de España en Dailymotion (los vídeos "en español" de sitios como Vandal/Meristation resultaron llevar el audio original en inglés).
+- ⚠️ «Su cara en cada emoción (alegría, rabia, tristeza, miedo, vergüenza) con fotograma y minuto», que pide el punto 13, no se cubrió sistemáticamente para los 10 personajes: sólo se tuvo tiempo/alcance para mirar un tráiler completo (con `voz.py`, no con `fotogramas.py`). Ese cruce fotograma-a-fotograma por emoción queda mejor cubierto por las partes de vídeo e imagen del equipo (puntos 2, 4, 9, 10, 14 de ENCARGO.md), que sí recorren capítulos enteros con `fotogramas.py`/`episodio.py`. Lo que sí se dejó, con fuente y cita, es el carácter, las frases textuales y una ficha de voz medida (tono/velocidad) de Amicia.
 
 ## Bitácora de búsqueda
 
@@ -181,5 +182,3 @@ Fuente base de esta sección para los 10: wiki oficial `aplaguetale.fandom.com`,
 - Reddit vía Arctic Shift: búsquedas `title=cry` y `title=scene` en r/APlagueTale.
 - Artículos leídos completos: TheGamer «8 Best Characters» y «Most Heartbreaking Moments», comprobados con `curl` + limpieza de HTML (no sólo el titular).
 - Intentos fallidos por bloqueo (Cloudflare/anti-bot), documentados y no reintentados más de dos veces: PCGamingWiki (directo y Wayback), BehindTheVoiceActors, MobyGames, IMDb, Twinfinite, Wikipedia (rate limit).
-
-Sigue: no queda pendiente ninguna consulta obligatoria de los puntos 7, 8, 12, 13, 20, 21, 22. Si se retoma, sería para profundizar en «No encontré» (altura/cumpleaños si aparece un artbook físico, reparto francés con segunda fuente, fandubs si cambia el panorama).

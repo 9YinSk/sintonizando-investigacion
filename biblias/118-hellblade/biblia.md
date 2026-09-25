@@ -61,3 +61,114 @@ fecha: 2026-09-25
 - Cumplimiento del encargo
 - Bitácora de búsqueda
 
+## 0 · Hellblade no tiene canal: dónde encaja mejor
+
+El encargo dice que **todavía no tiene canal** (`encargos/118-hellblade.md`).
+Esta biblia es general (sirve para láminas, vídeos, textos o doblajes); el
+canal es sólo una propuesta.
+
+**Por qué encaja en un servidor de doblaje**: Hellblade es, sobre todo,
+**voces**. Las Furias (las voces que oye Senua) se grabaron con micrófono
+binaural y ganaron el BAFTA de Logro de audio; Melina Juergens ganó el de
+Mejor intérprete (§Punto 7). Y **no tiene doblaje al español**: es terreno
+virgen para quien quiera doblarlo (§Punto 22).
+
+| Concepto | Canal (de `servidor/inventario.md`) | Por qué |
+|---|---|---|
+| **A ⭐ recomendado** | **ıı・📖・textos** (EL ESTUDIO, foro) | «Guiones para practicar: monólogos, diálogos, escenas y narraciones». En el juego, cada **piedra rúnica (Lorestone)** guarda un relato de Druth, el narrador. Una piedra que cuenta una historia es un guion para leer en voz alta |
+| **B** | **ıı・🎧・demos** (EL ESTUDIO, foro) | «Tu ficha de DOBLAJE». El **espejo de hierro** de Senua sirve para verse de verdad; las Furias son voces de todos los timbres. Tu ficha es tu espejo |
+| **C** | **ıı・🎯・reto-de-la-semana** (EL ESTUDIO, foro) | «Una línea, una escena, un tono». En *Hellblade II* hay **17 caras talladas en la roca** que susurran cuando te acercas: cada semana, una cara y una línea |
+
+- Otras que la parte de texto vio posibles: **ıı・🎮・noticias-gaming**
+  («Videojuegos: salidas, parches y presentaciones»), la misma que propone
+  God of War (117). Y la sala de voz **🎙️・Grabación**, que no tiene texto en el
+  inventario.
+- **Choques (sólo nota, no bloquean nada, decisión del 25-sep)**:
+  #reto-de-la-semana ya lo piden Naruto (30) y Haikyuu (34);
+  #noticias-gaming lo propone God of War (117).
+
+## 1 · Resumen para quien tenga prisa
+
+- **Qué es**: dos videojuegos de **Ninja Theory** (Cambridge, Reino Unido).
+  *Hellblade: Senua's Sacrifice* (2017, Unreal Engine 4) y *Senua's Saga:
+  Hellblade II* (2024, Unreal Engine 5). Imagen 3D **fotorrealista**, no
+  dibujo.
+- **Quién**: **Senua**, guerrera **picta** de las Orcadas (Escocia), siglo
+  VIII-IX. Vive con **psicosis**: oye voces (las **Furias**) y ve cosas. En el
+  1 baja a **Helheim** para salvar el alma de su amado **Dillion**; en el 2
+  viaja a **Islandia** y se enfrenta a «gigantes» que son personas rotas por
+  el dolor.
+- **La más querida**: **Senua**, sin rival. Los 5 dibujos de fans de
+  Danbooru son suyos; ningún secundario tiene ni uno. El secundario más
+  citado es **Druth**, el narrador de las piedras rúnicas.
+- **Cuadro de diálogo**: **no hay globo ni caja**. El juego pone un
+  **subtítulo blanco, flotante, centrado abajo, sin caja** (visto en 4
+  imágenes de la wiki, §Punto 6). En *Hellblade II* el subtítulo lleva un
+  **indicador de dirección** (de qué lado viene la voz). Las voces llegan
+  **por los lados**, en binaural.
+- **Letras**: título en **capitales romanas espaciadas** (Trajan Pro en la web
+  del 1; **Cinzel**, libre, en la web del 2). Cuerpo en **Outfit** (libre).
+  Runas del **Futhark Antiguo** reales: **Noto Sans Runic**. Las tres con
+  tildes o runas comprobadas con fontTools.
+- **Paleta**: niebla casi gris (7-26 % de saturación) **más un acento**:
+  fuego naranja o azul eléctrico. Pintura de guerra *woad* `#29394A`.
+- **Doblaje**: **no hay** (ni latino ni de España). Sólo subtítulos, en
+  «Español Latino» en el 2. Términos oficiales: «**las Furias**», «**la
+  Oscuridad**».
+- **Objetos**: el **espejo de hierro** (celta, con espiral triple), las
+  **piedras rúnicas**, la espada **Gramr**, la **Corrupción Oscura** que sube
+  por el brazo. La cabeza de Dillion, sólo con mucho cuidado.
+- **Tema delicado**: la psicosis se trató con el neurocientífico **Paul
+  Fletcher** y personas que la viven. Nada de monstruo, chiste ni «curada»
+  (§2).
+- **Tres láminas**: A ⭐ #📖・textos «La piedra que cuenta», B #🎧・demos «El
+  espejo de hierro», C #🎯・reto-de-la-semana «La cara en la roca».
+
+## 2 · Antes de nada: cómo tratar la psicosis con respeto
+
+Todo el juego se hizo con gente que sabe y con gente que lo vive. La lámina
+tiene que estar a esa altura. Esto sale de las partes de voz y de texto.
+
+**Cómo se hizo (por qué hay que respetarlo)**
+- Asesor desde 2013: el neurocientífico **Paul Fletcher** (Universidad de
+  Cambridge), primer crédito del juego como «Mental Health Advisor» ✅
+  ([Cambridge](https://www.cam.ac.uk/stories/hellblade-inner-demons),
+  [Safe In Our World](https://safeinourworld.org/podcasts/the-psychology-behind-hellblade-with-dr-paul-fletcher/)).
+- Financiación del **Wellcome Trust** y trabajo con **Recovery College East**
+  (NHS): personas con experiencia vivida de psicosis revisaron voces e
+  imágenes ✅ ([Cambridge](https://www.cam.ac.uk/stories/hellblade-inner-demons),
+  [BBC Science Focus](https://www.sciencefocus.com/the-human-body/how-hellblade-senuas-sacrifice-deals-with-psychosis)).
+- Las voces se grabaron siguiendo a **Charles Fernyhough** (Universidad de
+  Durham, experto en oír voces) y las probó un grupo real de personas que
+  oyen voces ✅ (parte de voz, Wikipedia).
+- En *Hellblade II* siguieron Fletcher y el **RCE Wellbeing Hub** ✅
+  ([Xbox Wire](https://news.xbox.com/en-us/2024/05/10/senuas-psychosis-hellblade-2-mental-health-feature/),
+  [Cambridge Independent](https://www.cambridgeindependent.co.uk/business/how-cambridge-game-developer-worked-with-addenbrooke-s-psych-9245228/)).
+  Premio BAFTA 2025 por esa colaboración ✅
+  ([Cambridge BRC](https://cambridgebrc.nihr.ac.uk/2025/04/10/more-bafta-glory-for-hellblade-collaborator-cambridge-professor-paul-fletcher/)).
+- Las ventas ayudaron a recaudar más de **60.000 libras** para la ONG de
+  salud mental Rethink Mental Illness ✅ (Cambridge).
+
+**Reglas para la lámina y los textos**
+1. **La psicosis no es un monstruo ni un chiste.** Nada de Senua «poseída»,
+   demoníaca o graciosa. El juego evita a propósito el estereotipo de «la loca
+   peligrosa» (parte de voz).
+2. **Senua no está «curada».** Su actriz, Melina Juergens, dijo que le
+   molestaba la idea de que Senua «superó toda su adversidad y sanó». Aprende a
+   vivir con ello. En *Hellblade II* es un «faro de esperanza» y usa sus voces
+   como herramienta (parte de voz). Nunca escribir que «venció su locura».
+3. **Sin sensacionalismo gráfico.** La Corrupción Oscura es una veta orgánica
+   oscura que sube por el brazo, no una herida de película de terror (parte de
+   texto, 18.5).
+4. **La cabeza de Dillion** es duelo, no decoración. Si sale, con cuidado
+   narrativo (parte de texto, 25.4). En una lámina de canal, mejor no.
+5. **Las palabras**: «psicosis», «oye voces», «las Furias», «la Oscuridad».
+   Evitar «loca», «locura» como insulto y «poseída» (se deduce de la regla 1).
+6. **No sexualizar a Senua.** Su diseño es realista y gastado: barro, sangre,
+   cicatrices. Es lo contrario del *fanservice* (parte de voz).
+7. **Las Furias no son el enemigo.** Unas animan, otras se burlan, otras
+   avisan del peligro (parte de vídeo, punto 9). Si «hablan» en una lámina,
+   pueden ayudar.
+8. **Tono**: serio y contenido. Senua **no se ríe** en ningún material
+   revisado (parte de voz, búsqueda de «laugh», «smile», «joke» en su ficha).
+
