@@ -237,12 +237,17 @@ que vi en vídeo:
   estaba cubierto. ✅ (pelo y cara coinciden con su diseño oficial; visto
   directamente, con minuto).
 
-Con esto **Kiwi llega a 6 poses** (dentro del 6-10 que pide el punto 14) y
-**Maine queda en 5** (uno por debajo). Busqué un sexto plano claro de Maine
-en la fiesta del Afterlife del ep. 3 (17:00-18:05, `ep3c/hoja_01.jpg`: gente
-bailando y bebiendo) pero **no pude identificarlo con seguridad** entre las
-siluetas sin que hable en ese plano exacto — mejor no adivinar (regla de
-AYUDANTE.md de no inventar). Lo dejo en «Sigue».
+- **Maine, de espaldas, con la capucha roja/naranja subida** (ep. 3, 18:00,
+  `ep3c/hoja_01.jpg` f13): sentado en la barra del Afterlife junto a otro del
+  grupo (armadura oscura, probablemente Dorio o Pilar), justo en el segundo
+  de su frase «Everybody gets a fair shake. Only way I operate.» (18:02, ya
+  citada por subtítulo en la biblia, §2.2). La capucha roja con banda
+  reflectante coincide con su diseño ya descrito en W29. Sirve para
+  **«marcar las reglas / repartir con justicia»**. ✅ (capucha y minuto
+  coinciden con el subtítulo exacto de esa frase).
+
+Con esto **Maine y Kiwi llegan a 6 poses cada uno**, dentro del 6-10 que
+pide el punto 14. Ya no falta nada obligatorio de este punto.
 
 ---
 
@@ -286,10 +291,10 @@ AYUDANTE.md de no inventar). Lo dejo en «Sigue».
 
 ## Bitácora de búsqueda (segunda pasada, vídeo)
 
-- `fotogramas.py` sobre 6 episodios completos de Internet Archive (360p):
-  ep. 1 (0:00-4:20), ep. 2 (19:30-21:30), ep. 3 (0:00-1:36 y 4:55-8:20),
-  ep. 4 (21:20-23:16), ep. 6 (22:10-22:50), ep. 7 (11:10-12:10). Cada
-  `video.mp4` se borró tras sacar las hojas.
+- `fotogramas.py` sobre 7 episodios completos de Internet Archive (360p):
+  ep. 1 (0:00-4:20), ep. 2 (19:30-21:30), ep. 3 (0:00-1:36, 4:55-8:20 y
+  17:00-18:05), ep. 4 (21:20-23:16), ep. 6 (22:10-22:50), ep. 7 (11:10-12:10),
+  ep. 9 (5:15-5:45). Cada `video.mp4` se borró tras sacar las hojas.
 - `fotogramas.py` sobre el tráiler oficial VOSE de Dailymotion
   (`dailymotion.com/video/x8ct6i8`, 2:59, cada 8 s).
 - `yt-dlp --skip-download --print "%(chapters)j"` y `%(description)s` sobre
@@ -307,7 +312,7 @@ AYUDANTE.md de no inventar). Lo dejo en «Sigue».
   (`api.animethemes.moe`, HTTP 522) y la API de imagen de Wikipedia para el
   logo (rate limit).
 
-**Sigue:** punto 14, Maine y Kiwi siguen en 5 poses cada uno (el mínimo del
-encargo es 6-10 por personaje); bajar el episodio 9 (el trabajo grande,
-donde actúan los dos) con `fotogramas.py` para sacar 1-2 planos más de cada
-uno y cerrar el mínimo.
+No queda nada obligatorio pendiente de mis puntos (2, 4, 9, 10, 14): los
+tres extras anotados arriba en «No encontré» (episodio exacto de la escena
+de tiro en 2nd Amendment, hex del logo, AnimeThemes caído) son mejoras, no
+huecos del mínimo del encargo.

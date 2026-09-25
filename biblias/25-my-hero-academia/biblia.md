@@ -33,6 +33,67 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
 >   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
 >   siempre va marcado.
+> - **Segunda pasada (25-sep-2026), con la red abierta.** La hizo un equipo:
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Se
+>   pudo usar la **API de Fandom** (wiki en inglés y Doblaje Wiki, wikitext
+>   entero), la **API de Sketchfab** (licencias reales), **Dailymotion** e
+>   **Internet Archive** (el episodio 1 entero, OP1, OP2, ED1, un tráiler y
+>   tres escenas, mirados con `fotogramas.py`), clips con **audio del
+>   doblaje latino** oídos con `voz.py`, y `estilo.py` para medir colores.
+>   YouTube siguió pidiendo iniciar sesión, y TV Tropes, konomanga.jp y la
+>   web de fondos de heroaca.com siguieron en 403.
+> - Ahora **sí hay hojas de contacto**: tres en `hojas/` (ver «Las hojas de
+>   contacto», antes de los conceptos).
+> - **Ojo con los minutos del episodio 1**: la copia de Internet Archive
+>   va **unos 4 minutos por detrás** de los subtítulos de Netflix que usé
+>   en la primera pasada. Pongo el de cada fuente y digo cuál es.
+
+---
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+
+- «**Tú** puedes ser un héroe» → el doblaje latino dice «**Puedes ser un
+  héroe**», sin el «Tú» (oído y visto, [Dailymotion x7xktih, 2:43](https://www.dailymotion.com/video/x7xktih?t=163)) ✅.
+- Aizawa en la T1: «José Arenas (dudoso)» → **Eduardo Wasveiler**, luego
+  redoblado entero por **Ernesto Daniel Rumbaut** (Doblaje Wiki, «Sobre el
+  reparto») ✅. Kurogiri: **Odin Subero** → **Héctor José Pernia** ✅.
+- Encuesta «Jump n.º 19» → es la **9.ª encuesta oficial** de la revista ✅.
+- Pose de Deku con el cuaderno en 1×01: «lo ofrece con las dos manos» →
+  **lo mira él mismo, orgulloso**, con «ALL MIGHT» recién escrito en
+  grande ✅ (visto en el fotograma).
+- Uraraka (Andrea Villaverde), Iida, Burnin, Sero, Aoyama y Bakugo (Rómulo
+  Bernal): de ⚠️ a ✅ con segunda fuente.
+- «Gina Sánchez dirigió la película 4» (3DJuegos): Doblaje Wiki sólo la
+  pone como **adaptadora** de la serie. Quedan las dos versiones ⚠️.
+- Poses, luz y paleta «de memoria» → **vistas en fotogramas y medidas**
+  con `estilo.py` (§2, §5, §15).
+- Hex de vestuario «a ojo» → **medidos sobre las hojas de modelo
+  oficiales** del anime (§16).
+
+**Añadido**
+
+- La portada real del cuaderno: libreta de espiral marca **«Campos»**,
+  lomo azul, «Análisis de héroes para el futuro», **«No. 13»** (§2).
+- Frases textuales del doblaje latino: «¡Yo he venido!», «¡Ya estoy
+  aquí!», los insultos de Bakugo, Kota, Rei Todoroki y «Yo también quiero
+  ser un héroe», todas con clip y minuto (§10).
+- Encuestas oficiales 1.ª a 9.ª con votos, acumulado total y **desglose
+  latinoamericano** del World Best Hero: **Kirishima 3.º** y **Aizawa 5.º**
+  en Latinoamérica (§9).
+- Nueve modelos 3D CC BY con licencia leída en la API, y modelos
+  rigueados para Blender (§4 y §18-b).
+- Perfiles oficiales de los *databooks* y tabla de gustos (§8 y §18-d).
+- Los puntos que faltaban del encargo: **técnica y cómo replicarla,
+  texturas 2D, gustos, por qué la aman, fan dubs, colaboraciones, obras
+  parecidas y el mundo** (§18-a a §18-h).
+- Tres hojas de contacto, la tabla «Cumplimiento del encargo» y la
+  bitácora de la segunda pasada.
+
+**Los ⚠️**: la primera pasada tenía **108**. Al cerrar esta pasada quedan
+los que se cuentan en la tabla de cumplimiento; los que siguen dudosos
+dicen por qué (casi todos: YouTube, TikTok o una web en 403).
 
 ---
 
@@ -55,6 +116,9 @@ El canal vecino de LA ACADEMIA es **ıı・📣・avisos-clases** (encargo 24,
 Assassination Classroom). Las dos láminas deberían parecer **del mismo
 colegio**: las dos series pasan en una escuela con profesores raros, así
 que encajan.
+
+La biblia de **81-mushoku-tensei** también tenía #material-de-clase, pero
+no propone lámina para él. No es un problema: las biblias son generales.
 
 ### Los textos de la lámina 1 (qué es el canal)
 
@@ -96,11 +160,11 @@ puede ser **el índice del cuaderno** con pestañas de colores.
 |---|---|
 | Por qué MHA encaja | Pasa en **un instituto para héroes (U.A.)** donde los profesores son héroes profesionales y cada uno da su materia. **All Might es un profesor novato que lee su clase de una chuleta** («¡Una chuleta!», カンペ, 1×06, 00:15:18 ✅). Y el protagonista **apunta todo en cuadernos numerados**: «Análisis de héroes para el futuro». Al final de la serie, **Deku es profesor en U.A.** y sigue escribiendo en su cuaderno (8×11, 00:05:44 «Deku-sensei» y 00:09:58 ✅; manga cap. 430 ✅). |
 | El objeto | **El cuaderno de Deku**, «将来の為のヒーロー分析» (Análisis de héroes para el futuro). El **n.º 13** tiene el borde **quemado** porque Bakugo lo hizo explotar y lo tiró a una fuente con peces (1×01, 00:10:33 a 00:11:58 ✅). **All Might se lo firmó** en el mismo episodio (00:19:19 ✅). Existe **réplica oficial con licencia** del n.º 13 quemado ✅ (ver §3). |
-| El más querido | **Bakugo**, 1.º en la encuesta mundial oficial **WORLD BEST HERO** (2024, 6,12 millones de votos) ✅. Deku 2.º, Todoroki 3.º y **Aizawa 4.º**: el profesor está por encima de All Might ✅. |
+| El más querido | **Bakugo**, 1.º en la encuesta mundial oficial **WORLD BEST HERO** (2024, 6,12 millones de votos) ✅. Deku 2.º, Todoroki 3.º y **Aizawa 4.º**: el profesor está por encima de All Might ✅. Bakugo es 1.º en **todas** las encuestas de Jump desde la 2.ª ✅. En **Latinoamérica**: Bakugo, Deku, **Kirishima 3.º**, Todoroki y **Aizawa 5.º** ✅ (§9). |
 | Quién habla en la lámina | Tres opciones: **Deku-profesor** (adulto, traje, cuaderno: es literalmente «un profe que sube su clase»), **Aizawa** (el profesor más querido) o **Bakugo** dando clase a gritos («¡Te voy a enseñar hasta matarte!», 2×21 ep. 34, 00:05:36 ✅). Ver §19. |
 | Cuadro de diálogo propio | **No es una burbuja blanca**: la serie pone texto en **la letra a mano de Deku en su cuaderno**, en el grito «**¡Más allá! ¡Plus Ultra!**» que cierra cada avance ✅, en **pizarritas** que los alumnos levantan al presentar su nombre de héroe (2×13 ep. 26: el diálogo ✅, la pizarra de memoria ⚠️), en la **chuleta** de All Might ✅ y en **viñetas de cómic americano** en el juego *One's Justice* ✅. Ver §7. |
 | Letras | **Caveat** o **Kalam** (letra de Deku), **Bangers** (rótulos de cómic, «SMASH»), **Anton** u **Oswald** para títulos gruesos. Todas traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Deku **Sebastián Reggio** ✅, Bakugo **Rómulo Bernal** (también dirige) ✅, All Might **Orlando Noguera** ✅, Todoroki **Juan Felipe Sierra** ✅, Aizawa **Ernesto Rumbaut** ✅, Uraraka **Andrea Villaverde** (T1 a T6 ep. 1, ⚠️ una fuente) y **Sofía Baltazar** (desde T6) ✅. Estudio **The Kitchen**, Miami ✅. Ver §10. |
+| Voz latina | Deku **Sebastián Reggio** ✅, Bakugo **Rómulo Bernal** (también dirige) ✅, All Might **Orlando Noguera** ✅, Todoroki **Juan Felipe Sierra** ✅, Aizawa **Ernesto Rumbaut** ✅, Uraraka **Andrea Villaverde** (T1 a T6 ep. 1, ✅ Doblaje Wiki y Behind The Voice Actors) y **Sofía Baltazar** (desde T6) ✅. Estudio **The Kitchen**, Miami ✅. Ver §10. |
 | Tono | Luminoso y de esfuerzo: cielo azul, verde de Deku, rojo y amarillo de héroe, **sombras duras de cómic americano** en All Might (hasta los personajes dicen que tiene «otro estilo de dibujo», 1×01, 00:19:11 ✅). Nada oscuro ni gris. |
 | Juegos | **One's Justice 1 y 2** (historia contada en **viñetas de cómic**) ✅, **All's Justice** (5 de febrero de 2026) ✅, **Ultra Rumble** y la app **ULTRA IMPACT** ✅. |
 
@@ -111,9 +175,10 @@ puede ser **el índice del cuaderno** con pestañas de colores.
 Todas salen de los subtítulos japoneses de Netflix (temporadas 1 y 2) y de
 Amazon (temporada final) de
 [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Boku%20no%20Hero%20Academia):
-el texto y el minuto están comprobados ✅. La traducción es mía. Lo que
-**se ve** en cada una (postura, luz) lo describo de memoria ⚠️: mira el
-fotograma antes de usarlo.
+el texto y el minuto están comprobados ✅. La traducción es mía. En la
+primera pasada lo que **se ve** iba de memoria. En la segunda se miraron
+los fotogramas del episodio 1 y de tres escenas: está en **2.4**. Lo que
+no sale en 2.4 sigue sin mirar.
 
 ### 2.1 El cuaderno de Deku (el objeto)
 
@@ -183,15 +248,59 @@ héroe»** (ヒーローノート) ✅ (nombre del archivo de Amazon).
 > los 13 subtítulos). Es un «cierre» que el fan reconoce: sirve de firma
 > de la lámina.
 
+En el **doblaje latino** la frase de 1×02 es «**Puedes ser un héroe**», sin
+«Tú» ✅ (oída en [Dailymotion x7xktih, 2:43](https://www.dailymotion.com/video/x7xktih?t=163)).
+La traducción de la tabla es la mía del japonés.
+
+### 2.4 Lo que se ve: fotogramas mirados en la segunda pasada
+
+**Episodio 1 entero** en Internet Archive
+([anime-kcd-boku-no-hero-academia-01](https://archive.org/details/anime-kcd-boku-no-hero-academia-01),
+1280×720, 24:32, subtítulos en español). Esta copia va **unos 4 minutos
+por detrás** de los minutos de Netflix de 2.1 ⚠️. Minutos de esta copia:
+
+| Minuto | Qué se ve | Sirve para |
+|---|---|---|
+| ~10:33 | **La portada del cuaderno**: libreta de espiral marca **«Campos»**, lomo azul, a mano «Análisis de héroes para el futuro» y «**No. 13**» subrayado. Bakugo se burla detrás ✅ | El objeto exacto de la lámina |
+| ~10:55 | Deku se acerca a Bakugo con los **puños apretados al pecho**, hombros encogidos, ojos muy abiertos ✅ | Pedir perdón, suplicar |
+| ~11:10 | La mano de Bakugo **humeando**, apoyada en su pecho, mandíbula tensa ✅ | Amenazar |
+| ~13:06 | Silueta de **All Might agachado** en un tejado roto, cielo naranja y rojo detrás, en silencio ✅ | Llegar, rescatar |
+| ~19:30 | Deku sostiene el cuaderno abierto con **las dos manos** y **mira él mismo** la página con «**ALL MIGHT**» escrito en grande ✅ | Presentar el objeto |
+| ~19:55 | All Might **flaco, de espaldas**, manos en la nuca, calle con niebla blanca ✅ | Pensar, confesar un secreto |
+
+Colores medidos con Pillow en esos fotogramas: pelo de Deku `#357459`,
+pelo de Bakugo `#F1E7CE`; el tejado de 13:06 `#170D0A` `#4D342B` `#888076`
+(negro óxido, nada de azul).
+
+**Tres escenas icónicas** (Dailymotion; el minuto es **del clip**, no del
+episodio):
+
+- **All Might «Plus Ultra» contra Nomu**, 1×12, arco USJ
+  ([x4hptj4](https://www.dailymotion.com/video/x4hptj4), 26 s). 0:00 puño
+  en primer plano, luz blanca lateral, «Go beyond!»; 0:03-0:06 se encoge
+  antes del golpe; 0:09 impacto contra **la cúpula del USJ**; 0:18-0:24
+  humo blanco contra el cielo nocturno. Episodio y arco confirmados en la
+  wiki ✅.
+- **Deku contra Muscular**, 3×04 (ep. 42), arco del campamento
+  ([x80pei3](https://www.dailymotion.com/video/x80pei3), 2:29). 1:10
+  «Mom, I'm sorry!»; 2:00 destello magenta y cian en estrella; 2:10
+  «**One For All, 1,000,000%! … Smash!**». El golpe se llama «1,000,000%
+  Delaware Detroit Smash» (ficha propia en la wiki) ✅.
+- **Uraraka contra Bakugo**, 2×09 (ep. 22), Festival Deportivo
+  ([x6soboa](https://www.dailymotion.com/video/x6soboa), 8:43, subtítulos
+  en español). 0:00 Bakugo con la cara iluminada por su explosión; 5:30
+  Uraraka de frente, **puño cerrado al pecho**: «¡Yo ganaré!»; 6:00 primer
+  plano con ojos llorosos: «¡Ganaré y seré como Deku!»; 8:00-8:30 en el
+  suelo, jadeando ✅.
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] No hay hojas de contacto
-> Fandom, la web oficial (`heroaca.com`), X, Pixiv y Crunchyroll estaban
-> bloqueados para esta sesión. **No bajé ninguna imagen**: aquí van los
-> **enlaces** que vi en los resultados, con lo que cada uno dice que
-> contiene. Hay que abrirlos en el PC antes de elegir.
+> [!note] Primera pasada sin imágenes; segunda con la wiki abierta
+> En la primera pasada no se bajó ninguna imagen: 3.1 a 3.4 son enlaces
+> vistos en el buscador. En la segunda se miraron 192 imágenes de la wiki
+> en hojas de contacto y se midieron tamaños reales: está en **3.5**.
 
 ### 3.1 Key visuals y material del anime
 
@@ -244,24 +353,79 @@ Para modelarlo en Blender hay **réplicas oficiales**:
 | **Llavero cuaderno de Deku** (Hot Topic) | [Hot Topic](https://www.hottopic.com/product/my-hero-academia-deku-hero-analysis-notebook-key-chain/12771317.html) | Portada en pequeño | ⚠️ |
 | Ficha del cuaderno en la wiki | [MHA Wiki](https://myheroacademia.fandom.com/wiki/Hero_Analysis_for_the_Future) | Datos: 13 cuadernos al empezar; del 1 al 12 se ven en el opening «THE DAY» y en el ep. 13.5; también apunta **diseños de traje, estrategias y técnicas** | ✅ (resumen de dos búsquedas) |
 
-**Cómo es el cuaderno** (de memoria ⚠️, compruébalo con la réplica y con
-el fotograma 1×01, 00:10:23):
-- Cuaderno escolar japonés, tapa blanda, **título escrito a mano con
-  rotulador**: 将来の為のヒーロー分析 y **No.13**.
+**Cómo es el cuaderno** (la portada, **vista** en el fotograma ~10:33 del
+episodio 1 de Internet Archive, §2.4 ✅; el resto, de memoria ⚠️):
+- **Libreta de espiral**, **lomo azul**, marca impresa «**Campos**» (así
+  se lee en el fotograma), **título escrito a mano**: 将来の為のヒーロー分析
+  («Análisis de héroes para el futuro») y **No. 13 subrayado** ✅.
 - Esquina y borde **chamuscados** en negro y marrón; papel **ondulado** por
   el agua de la fuente.
 - Dentro: páginas de **raya**, **letra diminuta y apretada**, dibujos de
   héroes a lápiz con **flechas y notas** alrededor, y **la firma de All
   Might** ocupando una página entera.
 
-### 3.4 Lo que falta ⚠️
+### 3.4 Lo que falta
 
-- Portadas de **Blu-ray**: sólo encontré las de los vol. 1 (§3.1), sin
-  verlas.
-- Arte de **tarjetas de cuenta atrás** del final: no lo encontré.
-- Cómo es por dentro una página «oficial» del cuaderno (maquetación
-  exacta): **no la vi**. Hay que mirarla en el bolso oficial o en los
-  fotogramas.
+- Portada del **Blu-ray de la serie TV, vol. 1**: sigue sin verse ⚠️
+  (búsqueda en la wiki por «Blu-ray cover volume 1»: sólo sale la de la
+  película, 3.5).
+- ~~Arte de tarjetas de cuenta atrás~~: **encontrado** en la segunda
+  pasada, docenas de ellas (3.5) ✅.
+- Una página interior del cuaderno maquetada entera: no la vi ⚠️. Lo más
+  cercano es la página «ALL MIGHT» del fotograma ~19:30 (§2.4).
+
+### 3.5 Segunda pasada: arte oficial mirado en la wiki
+
+Todo con tamaño real medido por la API de Fandom
+(`prop=imageinfo`). Las URL exactas están en `referencias.json`. Las
+imágenes de `static.wikia.nocookie.net` piden la cabecera
+`Referer: https://www.fandom.com/`.
+
+- **Key visuals de temporada** ✅: `Season 7 Izuku Midoriya.png`
+  (2895×4096, «DEKU», fondo verde) y `Season 7 Ochaco Uraraka.png`
+  (2896×4096, «URAVITY», fondo magenta). Pose de acción, cada uno con su
+  color de marca.
+- **10.º aniversario** ✅: `My Hero Academia 10th Anniversary Key Visual`
+  (2640×3491): todo el reparto junto, en acción.
+- **Pósters** ✅: `Season 7 Poster 1.png` (3029×2135), `Final Season
+  Armored All Might.png` (3043×2151), `Final Season Poster 1/3/7`,
+  `Season 4 Poster 1`, `Season 7 Trainees`.
+- **Mosaico del reparto** ✅: `List of Characters-min.png` (4096×1512),
+  todos en traje de héroe.
+- **Singles y bandas sonoras** ✅: `Starmarker cover.png` (3885×3458),
+  `Ours CD Cover.png` (3927×3500), la banda sonora de *World Heroes'
+  Mission* (3000×3000), `North Wind` (2000×2000), `Miss you` (3371×3000).
+- **Blu-ray** ✅: el de la película *World Heroes' Mission* (424×600).
+- **Contraportadas de EE. UU.** (VIZ, tomos 1 a 33) ✅: cada una con un
+  mini perfil del personaje y su recuadro de texto (hoja
+  `vestuario_juegos_01.jpg`, celdas #465-480).
+- **Cartones de cuenta atrás dibujados a mano** ✅: bocetos a rotulador
+  firmados y fechados por el estudio para cada capítulo y fiesta
+  («おかげさまで4周年!!», «HAPPY NEW YEAR 2020/2021/2026», «アニメこのあと
+  すぐ!!» con los personajes en *chibi*, `Christmas 2021/2023/2024
+  Sketch`, `Season 2/3/5 Teaser Sketch`, `Episode 42 … 170 Sketch`).
+  Están en `arte_oficial_01.jpg` (#11-24).
+- **Hojas de modelo del anime** ✅✅: `Izuku Midoriya Alpha/Beta/USJ/Gamma
+  Costume Anime Design Sheet` (la Beta, 693×492, es el traje más visto),
+  `Katsuki Bakugo Hero Costume Anime Design Sheet` (700×494), `Shoto
+  Todoroki Beta Costume` (700×494, y una «Upgraded Beta» ya sombreada),
+  `Ochaco Uraraka Hero Costume` (700×494), `Shota Aizawa Hero Costume
+  (Anime)` (153×555), `Toshinori Yagi Golden Age Hero Costume (Anime)`
+  (1124×1831), los **uniformes del 10.º aniversario** de los cuatro
+  alumnos y `All Might Anime Expressions Design Sheet` (hoja de
+  expresiones). Diez de ellas están juntas en `personajes_01.jpg`
+  (#1-10).
+- **Fichas tipo databook** en japonés: `Volume 7/8 (Team-Up Missions)
+  Character` (2256×1772) ✅.
+- **Videojuegos** ✅: key visuals de *All's Justice* (`arte_oficial_01.jpg`
+  #34 y #43) y `My Hero One's Justice Cast Artwork` (1449×2048,
+  `vestuario_juegos_01.jpg` #439). Ver §13.
+- **Escenografía sin personajes** ✅: `Field Gamma`, `Field Omega`,
+  `Ground Beta`, `Gym Gamma Outside`, `Development Studio Inside`,
+  `Conference Room (Anime)`, `U.A. Main Building` (1920×1080).
+- Los nombres Alpha, Beta, USJ y Gamma del traje de Deku son **nombres de
+  archivo** de la wiki ⚠️: falta el texto que diga en qué arco sale cada
+  uno.
 
 ---
 
@@ -280,8 +444,28 @@ el fotograma 1×01, 00:10:23):
 **Crédito exacto** para los dos de banabanaba (CC BY):
 «"My Hero Academia UA classroom" (https://skfb.ly/…) by banabanaba is
 licensed under Creative Commons Attribution». El enlace corto `skfb.ly` no
-lo vi: cópialo del botón de descarga ⚠️. La API de Sketchfab estaba
-bloqueada, así que **comprueba la licencia en la página** antes de usarlo.
+lo vi: cópialo del botón de descarga ⚠️.
+
+**Segunda pasada: licencias leídas en la API de Sketchfab**
+(`api.sketchfab.com/v3/models/<uid>`), con autor y caras exactos ✅:
+
+| Modelo | Autor | Licencia | Caras | Para qué |
+|---|---|---|---|---|
+| [My Hero Academia UA classroom](https://sketchfab.com/3d-models/none-b73f7ef0e095420d97489df7e0d08859) | banabanaba | CC BY | 57 286 | El aula 1-A entera ✅ |
+| [classroom desk and chair](https://sketchfab.com/3d-models/none-4e03d145808b46f6a3da68343f5d4c42) | banabanaba | CC BY | 3 714 | El pupitre del cuaderno ✅ |
+| [Katsuki_Bakugo_Hero](https://sketchfab.com/3d-models/none-cc8fcd2f64784f9292a279ef4a670ac9) | 20062020year | CC BY | 29 428 | Bakugo en traje |
+| [Todoroki shoto hero traje beta](https://sketchfab.com/3d-models/none-4ce1f840a18646a6bb85a18264dadafb) | victordavi1606 | CC BY | 70 678 | Todoroki en traje |
+| [Ochaco_Uraraka giggle](https://sketchfab.com/3d-models/none-9946350617474ab5a519c8c5b940d6cd) | Dhext3r | CC BY | 68 377 | Uraraka riéndose, animada |
+| [Aizawa](https://sketchfab.com/3d-models/none-557993be57a04b0cad5e4c0010fe5ed6) | vitgabi89 | CC BY | 217 038 | Aizawa, muy detallado |
+| [All Might: The number one hero!](https://sketchfab.com/3d-models/none-ab3d819d719745a0a0bde8b9de05daa0) | Phan21 | CC BY | 11 034 | All Might en pose heroica |
+| [Mirko](https://sketchfab.com/3d-models/none-de9ac30d334a4e3ba82fdcf3024f67b9) | Puzzle | CC BY | 738 242 | Secundaria muy querida |
+| [Deku (Izuku Midoriya)](https://sketchfab.com/3d-models/none-7dee03930f074f2995191a1668a7c353) | (ver página) | **CC BY-NC** ⚠️ no comercial | 2 184 | Sólo referencia |
+
+Crédito para los CC BY: `"<nombre del modelo>" (<enlace>) by <autor> is
+licensed under Creative Commons Attribution`. Ojo: los marcados **«Free
+Standard»** (p. ej. `Katsuki Bakugo (Gym Uniform)`) **no son Creative
+Commons**: se bajan gratis, pero no dicen que se puedan reutilizar. Los
+modelos **rigueados** para posar en Blender están en §18-a.
 
 ### 4.2 Fan art 2D (mirar, nunca pegar)
 
@@ -295,6 +479,26 @@ bloqueada, así que **comprueba la licencia en la página** antes de usarlo.
   cómo copiar una página (la de Kamui Woods) ✅
   ([Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14299827084)):
   el cuaderno es un objeto que el fan **conoce página a página**.
+- **Fan art mejor valorado en Safebooru**, con tamaño y enlace al autor
+  original ✅ (`partes/datos-imagen.md`). Los mejores de cada uno:
+  - All Might: [1768×2500](https://safebooru.org/images/2308/48ee249b6379989b667cc599eaa2089a9727e92a.jpg),
+    de [pixiv 66186034](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=66186034).
+  - Bakugo: [764×1080](https://safebooru.org/images/2425/8c12b4596c1f0b53cfda7181154017ae7bb86a54.jpg),
+    de [@SteamyTomatoes](https://twitter.com/SteamyTomatoes/status/988454678793932800).
+  - Uraraka: [2250×3000](https://safebooru.org/images/4100/99df2234bb1710397ea2674974699648eb539b89.jpg),
+    de [@khyleri](https://x.com/khyleri/status/1871224250125656117).
+  - Todoroki: [2014×3021](https://safebooru.org/images/772/057b08c3fca7e46f939adb3acf18387276545832.jpg),
+    de [@konsobastew](https://twitter.com/konsobastew/status/1618967069277528067).
+  - Aizawa: [1638×2323](https://safebooru.org/images/3078/479988a0818ac755244aaf78224ac6548c6ba0f4.jpg),
+    origen [@horikoshiko](https://twitter.com/horikoshiko/status/1884612079056998407)
+    (puede ser la cuenta del propio autor: no lo comprobé ⚠️), y
+    [4096×2843](https://safebooru.org/images/1088/40c36e9ca63aa0a2b7dc6f6ae7608c3a9a0566d0.jpg),
+    de [@nagumoxdays](https://x.com/nagumoxdays/status/1897100663794098441).
+  Sólo para mirar pose y composición.
+- **Cosplay con licencia libre** (Openverse, autor **timz2011**, CC BY-NC-SA
+  2.0) ✅: trajes de héroe de la 1-A, Kirishima, Hawks, All Might, Eri,
+  Fatgum. Sirve para ver cómo cae la tela de verdad. Ejemplo:
+  [Hero Uniforms, 1024×576](https://live.staticflickr.com/65535/51736046653_b2e51d408a_b.jpg).
 
 ---
 
@@ -327,10 +531,24 @@ bloqueada, así que **comprueba la licencia en la página** antes de usarlo.
   totalmente distinto!» (1×01, 00:19:11 ✅) y Ojiro: «Tiene un estilo tan
   distinto que me da escalofríos» (1×06, 00:10:26 ✅).
 
+**Luz medida en la segunda pasada** (`estilo.py` sobre fotogramas reales,
+no de memoria) ✅:
+
+| Sitio | Fotograma | Paleta medida | Luz |
+|---|---|---|---|
+| **Tejados de la ciudad, de día** | OP2 «Peace Sign», 0:06 ([Dailymotion x5pk6h7](https://www.dailymotion.com/video/x5pk6h7)) | `#406D84` 32% · `#B0E2F1` 19% · `#1F2630` 18% · `#76B1C9` 14% | Azul gris diurno, cielo claro, edificios oscuros a contraluz |
+| **Campo de noche** | ED1 «HEROES», 0:24 ([Internet Archive](https://archive.org/details/my-hero-academia-ending-1-heroes)) | `#0B0D25` 46% · `#10153B` 23% · `#050614` 14% · `#1B2356` 13% | Azul marino casi negro, estrellas blancas, brillo muy bajo |
+| **Estadio del Festival Deportivo** | 2×09 (ep. 22), clip 4:30 ([x6soboa](https://www.dailymotion.com/video/x6soboa)) | `#1E3A95` 26% · `#453C3F` 22% · `#1C1B43` 22% · `#E0E8F0` 11% | Azul intenso de gradas y carteles, gris piedra, cielo despejado |
+| **Cúpula del USJ tras el golpe** | 1×12, clip 0:09 ([x4hptj4](https://www.dailymotion.com/video/x4hptj4)) | `#170D0A` 23% · `#4D342B` 18% · `#888076` 14% | Negro óxido sin azul, luz de incendio naranja y rasante |
+
+En los cuatro: **pintado con degradado y poca línea**, línea gris
+parda `#635C58` a `#67676C`.
+
 ### 5.3 Paleta (aproximada ⚠️)
 
-No pude bajar ni medir imágenes. Son valores **de memoria**, para
-arrancar; **mídelos con el cuentagotas** en el fotograma antes de usarlos:
+Primera pasada: valores **de memoria**. Para la **ropa**, usa los hex
+**medidos** de §16; para la **luz**, la tabla de arriba. Lo que siga sólo
+aquí, mídelo con el cuentagotas antes de usarlo:
 
 | Qué | Hex aproximado |
 |---|---|
@@ -357,6 +575,9 @@ arrancar; **mídelos con el cuentagotas** en el fotograma antes de usarlos:
 | Más papeles | [ambientCG, categoría Paper](https://ambientcg.com/list?sort=Popular&category=Paper) | CC0 |
 | Madera del pupitre | Poly Haven, texturas de madera | **CC0** ✅ (resumen de búsqueda) |
 | Quemado del borde | No encontré una textura libre de papel quemado ⚠️: hacerlo en Blender con una máscara de ruido y un degradado negro-marrón-naranja | — |
+| Hormigón roto (cúpula del USJ, escombros) | [ambientCG Concrete044D](https://ambientcg.com/view?id=Concrete044D) y [Concrete042C](https://ambientcg.com/view?id=Concrete042C), 2048×2048 | **CC0** ✅ (API de ambientCG) |
+
+Las texturas **2D** (tramas de manga, tartán, emblemas) están en §18-b.
 
 ---
 
