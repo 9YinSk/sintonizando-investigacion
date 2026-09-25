@@ -141,10 +141,29 @@ reproducen escenas oficiales):
   justo antes de morder → sirve para **animar** (clímax de la escena, tono de
   horror) · ✅ visto
 
-Nota: en total 6+5+4 = 15 poses con minuto exacto y enlace `&t=`, repartidas
-en 3 personajes, además de otras 6 hojas de opening/ending disponibles en
-`/tmp/claude-0/trabajo/83-overlord-video/` para quien quiera más ejemplos. No
-se completaron poses de Demiurge por límite de tandas (ver «Sigue»).
+**Demiurge** (2 poses, en disfraz humano de caballero; no se encontró clip de
+escena larga de Demiurge en Dailymotion, sólo tráilers):
+- PV/tráiler de temporada 1 (https://www.dailymotion.com/video/x2k9ltc&t=40,
+  0:40): de perfil, cabeza ligeramente ladeada, gafas redondas bajadas sobre
+  la nariz, orejas puntiagudas visibles, traje de rayas naranja con corbata
+  roja, expresión seria y calculadora → sirve para **pensar/explicar** (su
+  papel de estratega) · ✅ visto; confirmado con la wiki (traje británico con
+  corbata, «dressed like a gentleman», orejas y piel oscura):
+  https://overlordmaruyama.fandom.com/wiki/Demiurge
+- Paleta medida con `estilo.py` en ese mismo fotograma: fondo nocturno
+  violeta `#18102B`/`#382345`/`#4B3372` (68%), piel/traje `#C77469` 18% (el
+  naranja del traje se ve reducido en la muestra porque domina el fondo
+  oscuro; a simple vista el traje es naranja/rojo a rayas, corbata roja,
+  camisa blanca) · ✅ medido + visto
+- Nota: no se encontró en Dailymotion ningún clip de una escena de combate o
+  diálogo largo de Demiurge (sólo aparece de fondo o en tráilers); su forma
+  demoníaca «Jaldabaoth» tampoco se pudo ver en vídeo por falta de clips
+  sueltos accesibles.
+
+Nota: en total 6+5+4+1 = 16 poses con minuto exacto y enlace `&t=`, repartidas
+en los 4 personajes del encargo (Ainz, Albedo, Shalltear, Demiurge), además de
+otras hojas de opening/ending/tráilers disponibles en
+`/tmp/claude-0/trabajo/83-overlord-video/` para quien quiera más ejemplos.
 
 ## Lo mejor para la lámina
 
@@ -161,9 +180,9 @@ se completaron poses de Demiurge por límite de tandas (ver «Sigue»).
 
 ## No encontré
 
-- ⚠️ No pude mirar el tráiler animado completo («Overlord - Anime Preview»,
-  https://www.dailymotion.com/video/x2k9ltc) fotograma a fotograma por límite
-  de tandas: sólo quedó listado, con duración y canal.
+- ⚠️ No hay clip suelto en Dailymotion de una escena larga de Demiurge (sólo
+  aparece en tráilers/PV); no se pudo ver su forma demoníaca «Jaldabaoth» en
+  vídeo, sólo confirmar su existencia por la wiki.
 - ⚠️ Efectos de sonido y onomatopeyas «que todos reconocen» sólo tienen una
   fuente (el propio clip visto), no un databook o entrevista que los
   confirme como icónicos.

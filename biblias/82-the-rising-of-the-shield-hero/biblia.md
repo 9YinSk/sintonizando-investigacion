@@ -905,3 +905,144 @@ Todos ⚠️: título encontrado por búsqueda web; **sin enlace directo, vistas
   Anison US (Facebook) que grabaron las dos versiones (Doblaje Wiki) · ⚠️ que sea meme, sin medir.
 - En Dailymotion, la búsqueda «Shield Hero fandub español» sólo dio fandubs de otras series.
 
+## 24. Colaboraciones, figuras y cosplay [23]
+
+**Colaboraciones:**
+- **Chain Chronicle** (gacha de SEGA, Japón), desde el **12-jun-2019**: 6 personajes, entre ellos Naofumi, Raphtalia y Filo ([MMO Culture](https://mmoculture.com/2019/06/chain-chronicle-tate-no-yuusha-invades-japan-server-of-mobile-rpg/) + [QooApp](https://news.qoo-app.com/en/post/38367)) · ✅
+- **The Alchemist Code** × Shield Hero ([Facebook oficial](https://www.facebook.com/thealchemistcode/posts/the-alchemist-code-x-the-rising-of-the-shield-hero-collaborationcollaboration-pe/1088654381617169/)) · ⚠️ una fuente, sin fecha.
+- **BOFURI** (la otra serie de escudos): evento en su juego móvil *~LINEWARS!~*, anunciado el 17-mar-2020 ([ANN](https://www.animenewsnetwork.com/interest/2020-03-16/shield-wielders-collide-in-upcoming-shield-hero-bofuri-collaboration/.157533)), y **arte cruzado por el «Día del Escudo»** (3/16, juego de palabras) el 16-mar-2022 ([ANN](https://www.animenewsnetwork.com/interest/2022-03-16/shield-hero-bofuri-celebrate-shield-day-with-crossover-art/.183675)) · ✅
+- ***Isekai Quartet*** (2, 3 y la película *Another World*): Naofumi, Raphtalia y Filo en versión **chibi** con Konosuba, Re:Zero y Overlord (AniList) · ✅
+- **Cafés temáticos o eventos físicos:** no lo encontré (búsquedas sólo en inglés) · ⚠️
+
+**Figuras oficiales** (su pose es referencia 3D):
+- **Nendoroid Filo** (Good Smile): forma humana, **3 caras**, brochetas de carne, un pez, guantes y efecto de ataque en espiral ([Good Smile](https://www.goodsmile.info/en/product/9348/Nendoroid+Filo.html)) · ✅
+- **Pop Up Parade Raphtalia** (T2, con espada) y **Pop Up Parade Naofumi** (~17 cm); **figma Raphtalia** (Max Factory) ([Otaku Mode](https://otakumode.com/otapedia/figures_and_merch/figures/the_rising_of_the_shield_hero)) · ⚠️ tienda, no fabricante.
+
+**Cosplay:** Raphtalia con el **traje miko** ganó **Best in Show Craftsmanship
+en Colossalcon 2022**, hecho en unas 6 semanas (ComicBook.com + [hilo del foro de la wiki](https://shield-hero.fandom.com/f/p/3207818924523744984)) · ✅.
+Materiales y volumen: ⚠️ no detallados en las partes. Más cosplays en la
+lista de CBR «10 Awesome Raphtalia Cosplays» (403, sólo título).
+
+## 25. Obras parecidas y temas relacionados [24]
+
+- **Recomendadas por AniList** (votos): *That Time I Got Reincarnated as a
+  Slime* (540), *Arifureta* (425), *Sword Art Online* (400), *Mushoku
+  Tensei* (309), *Redo of Healer* (297), *Cautious Hero* (180), *BOFURI*
+  (157), *Seirei Gensouki*, *DanMachi*, *Re:ZERO* · ✅
+- **Temas que comparte:** isekai (97 %), venganza (82 %), política (79 %),
+  antihéroe (78 %), *kemonomimi* (76 %), matriarcado (65 %), esclavitud
+  (62 %), familia encontrada (60 %), economía (53 %), religión (53 %) (etiquetas de AniList).
+- **El pariente más cercano:** **BOFURI**, la otra serie del escudo (tienen
+  colaboraciones, §24). Lo contrario en tono: BOFURI es alegre; Shield Hero, oscuro.
+- **Influencias que reconoce el autor:** no encontradas. Aneko Yusagi da muy
+  pocas entrevistas (Wikipedia) · ⚠️
+- **Otras láminas del servidor** (biblias de la misma tanda isekai): 81
+  Mushoku Tensei (propone #material-de-clase), 83 Overlord, 84 No Game No
+  Life, 85 Sword Art Online, 86 Tanya, 87 Tsukimichi, 88 Konosuba.
+  **Para no repetir:** evitar la «ventana de estado» tipo videojuego, que
+  usan Solo Leveling y otros; aquí el objeto es **físico** (mostrador,
+  mapa, carro), no una interfaz flotante.
+
+## 26. El mundo, la historia y sus símbolos [25]
+
+**Las reglas del mundo, en cinco líneas** (wiki: [Melromarc](https://shield-hero.fandom.com/wiki/Melromarc), [Legendary Weapons](https://shield-hero.fandom.com/wiki/Legendary_Weapons), [Iglesia de los Tres Héroes](https://shield-hero.fandom.com/wiki/The_Church_of_the_Three_Heroes); + AniList) · ✅
+1. El mundo sufre las **Olas de la Catástrofe**: grietas periódicas por donde entran monstruos y que pueden fundirlo con otros mundos.
+2. **Cuatro Armas Legendarias** (Escudo, Espada, Lanza, Arco) invocan a cuatro **Héroes Cardinales** de otro mundo (casi siempre Japón).
+3. **Melromarc** es una **matriarquía**: manda la reina; el rey sólo cuando ella no está. Discrimina a los **demihumanos** y permite la esclavitud.
+4. La **Iglesia de los Tres Héroes** venera espada, lanza y arco y pinta al Héroe del Escudo como **demonio**; por eso en Melromarc sólo la tienda de Erhard vende escudos. **Siltvelt**, nación demihumana, venera al Escudo.
+5. Al vencer las Olas, cada héroe elige: volver con tres deseos, quedarse venerado, o volver con derecho a regresar.
+
+**La historia por arcos:**
+- **T1 (2019, 25 ep.):** invocación y traición (ep. 1) → compra de Raphtalia (ep. 2) → primera Ola (ep. 3) → Raphtalia vence su trauma (ep. 4) → llega Filo (ep. 5) → aparece Melty (su escolta sale en el ep. 10, reparto de Doblaje Wiki) → Rifana y el pueblo de Raphtalia (ep. 14-15) → Cal Mira → la reina Mirellia limpia su nombre; «Basura» y la sentencia de Malty.
+- **T2 (2022, 13 ep.):** la **Tortuga Espiritual**, una Ola colosal; Raphtalia se vuelve miko.
+- **T3 (2023, 12 ep.):** la subasta de demihumanos de Lurolona; el arco **JUSTICE**, con Itsuki y su «justicia» torcida.
+- **T4 (julio 2025; 12 ep. si se restan de los 62 que da Doblaje Wiki):** ⚠️ el contenido no está en las partes (un clip de Dailymotion la sitúa en **Siltvelt**). Hay teaser de la **T5**.
+- La novela sigue mucho más allá (Siltvelt, Q'ten Lo, el Emperador Celestial, la guerra entre héroes).
+
+**Símbolos y vocabulario que un fan reconoce al instante:**
+- El **Escudo Legendario** con la gema: nunca ataca, sólo protege. Cambia de forma (más de 30).
+- **Armas Vasallo** (del escudo: martillo y garra).
+- El **«Demonio del Escudo»**, el estigma que le pone la Iglesia.
+- **Demihumanos** (orejas y cola), **filoliales**, **Raph**, **Raph-chan**.
+- **Escudo de la Ira** (Shield of Rage/Wrath: rojo y negro, ojo rojo central).
+- Palabras: Héroes Cardinales, Olas, Armas Legendarias, Melromarc, Siltvelt, Q'ten Lo, Castle Town, fruta Rucolu, «Basura».
+
+## 27. Tres conceptos de lámina
+
+Reglas del dueño que se aplican a las tres: objeto real en un sitio real,
+pose que va con lo que dice, textos cortos en la voz de la serie (sin «·»,
+«—» ni paréntesis), tono de la serie (nada de colores alegres de fantasía
+genérica) y recortes por `v3/integrar.py`.
+
+### A (recomendado) · #hardware · «El mostrador de Erhard»
+
+- **Objeto y sitio:** el **mostrador de madera de la herrería de Erhard**, en
+  Castle Town: la única tienda de Melromarc que vende escudos (§8, §26). En
+  Blender: mostrador (madera WoodFloor064), pared con **escudos colgados**
+  (Small Shield y Shield of Rage de G.Salmon, CC BY, §4; metal
+  DiamondPlate009) y **etiquetas de precio de cuero** atadas con cordel
+  (Leather030). ⚠️ No hay imagen del interior de la tienda en las partes:
+  se construye con la paleta del mercado (`#3A3A28` `#66523F` `#CFCCB9`).
+- **Personaje:** **Raphtalia** (la más querida por los fans), de pie tras el
+  mostrador, brazos cruzados y sonrisa suave (hoja objetos, casilla 97, o
+  la hoja [Raphtalia Anime](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/95/Raphtalia_Anime.png)).
+  Detrás, a un lado, **Naofumi** de perfil y brazos cruzados, evaluando
+  (archivo `tt9529546-1-1`, 42:12).
+- **Cómo habla:** el **panel del juego oficial** (§7): caja `#3C5051`
+  semitransparente, pestaña rosa «Raphtalia», retrato circular, texto blanco
+  en **M PLUS Rounded 1c**. Título del canal en una tabla colgada, en **Cinzel**.
+  Su frase de base es real: «Hoy vinimos aquí para poder comprarle nuevo equipo».
+- **Dónde va cada texto:**
+  - Tabla colgada arriba: «HARDWARE».
+  - Panel de Raphtalia: «Oiga, jefe. Aquí el equipo se compra con el precio delante.» / «Un hilo por cacharro.» / «Si lo tiene, diga cómo le fue de verdad.»
+  - Etiquetas de cuero en los escudos de la pared (una por escudo): Micrófono, Interfaz, Auriculares, Cámara, Tratamiento acústico.
+  - Etiquetas de precio en el mostrador: Menos de 50, De 50 a 150, De 150 a 400, Más de 400.
+  - Tres sellos de cera sobre el mostrador: Lo tengo y lo recomiendo, No lo compres, Alternativa barata.
+  - Si se satura: **lámina 2** con las etiquetas en el libro de cuentas de Erhard.
+- **Que no quede plano:** un escudo desenfocado en primer plano cortando la
+  esquina; lámpara cálida sobre el mostrador (`#DAC888` `#F4E4B9`); por la
+  puerta del fondo, la luz fría de día de Castle Town (`#579FA1`). Sombras
+  de las etiquetas colgando sobre la madera.
+
+### B · #guia · «El mapa de Melromarc»
+
+- **Objeto y sitio:** el **mapa oficial de Melromarc** (2544×2000, hoja fondos,
+  casilla 1) impreso como pergamino sobre una mesa de posada, de noche. En
+  Blender: plano con el mapa, arrugas suaves, velas; **alfileres** clavados
+  con banderitas.
+- **Personaje:** **Naofumi**, inclinado sobre la mesa, una mano apoyada en el
+  borde y la otra señalando el mapa (base: hoja objetos, casilla 115, para ropa
+  y cara; el gesto de brazo extendido del archivo `tt9529546-1-1`, 30:45, pero
+  con la cara calmada). La mano que señala **toca** el mapa (regla 7 del dueño).
+- **Cómo habla:** panel del juego con pestaña «Naofumi»; frases cortas y
+  secas, en **M PLUS Rounded 1c**. Título en **Cinzel** sobre la cartela
+  del mapa, como el «Melromarc Kingdom Map» del original.
+- **Dónde va cada texto:**
+  - Cartela del mapa: «GUÍA».
+  - Panel: «Esto es el mapa del servidor.» / «Cada hilo responde una pregunta.» / «Filtra por etiqueta o usa el buscador.»
+  - Banderitas en los alfileres, cada una en un pueblo del mapa: Primeros pasos, Roles y zonas, Si te atascas, Bots y comandos, Doblaje, Normas.
+- **Que no quede plano:** vela en primer plano, desenfocada, con luz dorada
+  de abajo; fondo de posada en penumbra oliva (`#2A2B1E` `#3A3A28`); el
+  **Small Shield** apoyado en la esquina de la mesa, delante del mapa.
+
+### C · #proyectos · «El carro de Filo»
+
+- **Objeto y sitio:** el **carro de madera que tira Filo** por un camino de
+  Melromarc, de día, con Castle Town al fondo (hoja fondos, casilla 5). En
+  Blender: carro con **cajas de madera**, una por proyecto. ⚠️ No hay imagen
+  del carro en las partes: el carro es un dato de carácter (a Filo le encanta
+  tirar de él), su diseño queda por buscar.
+- **Personaje:** **Filo** dos veces: en **forma de ave** tirando del carro
+  (PV T4, [1:05](https://www.dailymotion.com/video/x9ia4ma&t=65)) y en forma
+  humana, sentada en el pescante con los brazos abiertos (hoja objetos,
+  casilla 116). Si sólo cabe una, la de ave.
+- **Cómo habla:** panel del juego con pestaña «Filo», **siempre en tercera persona**.
+- **Dónde va cada texto:**
+  - Tabla en el lateral del carro: «PROYECTOS».
+  - Panel: «¡Filo lleva un proyecto en cada caja!» / «Filo quiere saber el equipo, el avance y las entregas.»
+  - Etiquetas pintadas en las cajas: Buscando gente, En traducción, En grabación, En edición, En revisión, Estrenado, En pausa, Cancelado.
+  - Dos banderines en el carro: Oficial del servidor, De la comunidad.
+- **Que no quede plano:** rueda y caja delanteras desenfocadas, polvo del
+  camino a contraluz, plumas blancas cayendo delante; luz de día fría
+  (`#8CC0C2`) y campo oliva (`#5F7358`).
+
