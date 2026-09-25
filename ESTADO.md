@@ -1,16 +1,16 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 25-09-2026, 02:07 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 25-09-2026, 02:23 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 <!-- lotes -->
-## Cómo va por lotes (25-09-2026, 02:07 UTC)
+## Cómo va por lotes (25-09-2026, 02:23 UTC)
 
-Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 22** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 19, 20, 21, 22, 31, 32, 35, 37, 38, 39, 40, 77, 78.
+Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 25** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 19, 20, 21, 22, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 77, 78.
 
 ### Lote A (la central): 02-05 y 31-36
 
-*Estado (02:05 UTC del 25, tercera cuenta)*
+*Estado (02:22 UTC del 25, tercera cuenta): LOTE A TERMINADO*
 
 Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama `claude/lote-a-series-inxhbf`.
 
@@ -20,25 +20,24 @@ Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
 - 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
 - 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
-- 33 Frieren: partes listas; redactor (Opus, repaso corto) en marcha.
-- 34 Haikyuu: partes listas; redactor (Opus, repaso corto) en marcha.
+- 33 Frieren: **COMPLETA** y subida (02:16). ✅30 ⚠️7 ❌0, 163 referencias, 89 webs, 2647 líneas.
+- 34 Haikyuu: **COMPLETA** y subida (02:17). ✅32 ⚠️9 ❌0, 175 referencias, 83 webs, 2938 líneas.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
-  dejó escritas §0-17). AnimeThemes sigue caído (522).
+- 36 Hunter x Hunter (nueva): **COMPLETA** y subida (02:22). ✅20 ⚠️10 ❌0, 183 referencias, 51 webs, 1615 líneas.
 
 Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:11 y
 `optimistic-dirac` desde las 22:43) y rehicieron 03, 04, 05 y 31. Al juntar se quedó
 03 de `cool-keller` (✅32 ⚠️5, una ⚠️ menos) y 04, 05 y 31 de `optimistic-dirac` (las
 subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 
-### Lote B: repasos 06-18
+### Lote B: 06-18 (repasos)
 
 *Estado*
 
-- ✅ 06-spy-x-family: COMPLETA (21:57 UTC). 2420 líneas, 183 referencias, tabla ✅24 ⚠️13 ❌0. Equipo: 1 h de principio a fin.
-- ✅ 07-pok-mon: COMPLETA (22:15 UTC). 2460 líneas, 123 referencias, tabla ✅20 ⚠️10 ❌0. Equipo: 1 h.
-- ✅ 08-big-hero-6-grandes-h-roes: COMPLETA (22:40 UTC). 2666 líneas, 156 referencias, tabla ✅26 ⚠️11 ❌0. Equipo: 1 h.
-- En marcha: 09-mafalda (redactor, Opus), 10-k-on (voz; lo demás listo) y 11-chainsaw-man (imagen, texto y vídeo).
+- 06-09: ya COMPLETAS (sesiones anteriores).
+- 10 K-On: partes listas (sin `Sigue:` obligatorio); redactor (Opus, repaso) en marcha.
+- 11 Chainsaw Man: 4 investigadores (Sonnet, repaso) en marcha.
+- 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
 
 ### Lote C: repasos 19-30
 

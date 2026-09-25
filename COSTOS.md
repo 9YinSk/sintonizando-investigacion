@@ -31,7 +31,7 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
 
 <!-- lotes -->
-## Costos de los lotes (25-09-2026, 02:07 UTC)
+## Costos de los lotes (25-09-2026, 02:23 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
 
@@ -52,33 +52,9 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
 | 04 | texto (`cool-keller`) | Sonnet | 11 | 172 mil |
 | 04 | imagen (`cool-keller`) | Sonnet | 12 | 185 mil |
 | 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
-
-### Lote B: repasos 06-18
-
-| Serie | Rol | Modelo | Minutos | Tokens |
-|---|---|---|---|---|
-| 06-spy-x-family | imagen | sonnet | 15 | 224644 |
-| 06-spy-x-family | texto | sonnet | 15 | 186364 |
-| 06-spy-x-family | voz (2 tandas) | sonnet | 36 | 330021 |
-| 06-spy-x-family | video (2 tandas) | sonnet | 33 | 269522 |
-| 07-pok-mon | texto (2 tandas) | sonnet | 26 | 259277 |
-| 07-pok-mon | imagen | sonnet | 20 | 218888 |
-| 06-spy-x-family | redactor | opus | 19 | 332036 |
-| 07-pok-mon | video | sonnet | 23 | 221111 |
-| 07-pok-mon | voz | sonnet | 23 | 219511 |
-| 08-big-hero-6 | imagen | sonnet | 19 | 233104 |
-| 08-big-hero-6 | texto | sonnet | 21 | 201889 |
-| 08-big-hero-6 | video | sonnet | 18 | 188117 |
-| 07-pok-mon | redactor | opus | 20 | 336707 |
-| 08-big-hero-6 | voz | sonnet | 26 | 234437 |
-| 09-mafalda | imagen | sonnet | 22 | 223356 |
-| 09-mafalda | texto | sonnet | 24 | 216347 |
-| 09-mafalda | video | sonnet | 19 | 193952 |
-| 10-k-on | imagen | sonnet | 13 | 187907 |
-| 09-mafalda | voz | sonnet | 20 | 219550 |
-| 08-big-hero-6 | redactor | opus | 19 | 344333 |
-| 10-k-on | texto | sonnet | 19 | 227344 |
-| 10-k-on | video | sonnet | 15 | 182927 |
+| 33 | redactor (repaso corto) | Opus | 11 | 224 mil |
+| 34 | redactor (repaso corto) | Opus | 12 | 234 mil |
+| 36 | redactor (retomado desde §18) | Opus | 18 | 303 mil |
 
 ### Lote C: repasos 19-30
 

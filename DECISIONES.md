@@ -89,11 +89,39 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
 - En China el personaje favorito de Attack on Titan es Mikasa, no Levi.
 
 <!-- lotes -->
-## 6. Avisos de los lotes (25-09-2026, 02:07 UTC)
+## 6. Avisos de los lotes (25-09-2026, 02:23 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando el dueño decida algo, que lo anote arriba, en su apartado.
 
 ### Lote A (la central): 02-05 y 31-36
+
+- 36 Hunter x Hunter: más querido, Killua (las tres encuestas oficiales de Jump); Kurapika
+  gana la reciente de Animate Times. Cuadro de diálogo propio: la tarjeta de rótulo del
+  tráiler de VIZ (mapa viejo marrón, texto blanco con serifa, letra Cinzel) y la carta de
+  Greed Island (marco rojo, «Lv.» y rango). Láminas: A #castings (placas del Examen con
+  Killua), B #postulaciones (Licencia de Cazador con Kurapika), C 🎲 Juegos (libro y cartas
+  de Greed Island). **Choque:** #castings ya lo propone Oshi no Ko (05). No hay frases
+  textuales del doblaje latino de 2011 (Netflix): todas son de *Cazador X* (1999).
+  Corregidos con hojas de contacto propias 7 datos del tráiler y del opening (§28).
+
+- 34 Haikyuu: más querido según quién vote: Hinata fuera de Japón; Kuroo, Kenma y Oikawa
+  en Japón hoy; Nishinoya en la alineación ideal. Cuadro de diálogo: la caja negra del
+  juego de 3DS (filete naranja, pestaña con el nombre). Láminas: A #reto-de-la-semana
+  (marcador del campamento con Bokuto), B #general-doblaje (pizarra del tutorial con
+  Nishinoya), C #postulaciones (ficha de inscripción con Daichi). Siguen pendientes de
+  usted #reto-de-la-semana (también lo pide Naruto) y Comic Neue en vez de Anime Ace.
+  Corregido: el lema 「思い出なんかいらん」 es de Inarizaki, no de Date Tech; el enlace de
+  AniList de Bokuto era el de Ushijima. Puntos 21 y 22 quedan ⚠️ (vistas y minutos:
+  YouTube y TikTok no dejan). Regla: nada de rayos ni auras en la lámina.
+
+- 33 Frieren: más querida, Frieren (1.ª en 2026 con un voto por persona); Himmel ganó
+  2022 y 2024 y su escena del anillo (T1-14 ≈19:35) es la más votada. Cuadro de diálogo
+  propio: la cartela de los tráileres (fondo blanco, niebla cian, mincho gris `#606A73`,
+  sin marco). Láminas: A #recursos «La colección de grimorios» (recomendada), B #poemas
+  «El diario de Himmel», C #eventos «Los meteoros de Era». **Choque:** B pide #poemas,
+  que ya propone Violet Evergarden (22): decide usted. Quedan ⚠️ vistas de TikTok y de
+  los covers, tela de los cosplays (Wikimedia 429), Uniqlo/GU sin confirmar y el sentido
+  del Emblema Sagrado (las partes no coinciden).
 
 - 02: quedan ⚠️ el punto 20 (comida favorita de Erwin, Hange, Eren y Mikasa: no
   encontrada) y el 22 (vistas de fan dubs en YouTube sin comprobar: pide iniciar
@@ -124,14 +152,6 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando 
   6 covers latinos; oír si el doblaje dice «Surge»). Más querido: Sung Jinwoo; cuadro de
   diálogo: la ventana del Sistema (`#112A39`, filete `#82F3FA`, rojo `#9F205C`). Láminas:
   A mostrador de la Asociación, B tablón de corcho, C salón del trono con Igris.
-
-### Lote B: repasos 06-18
-
-- 06 Spy x Family: «Papi, quiero mimir» y «¡Qué emoción!» siguen sin minuto exacto en latino (YouTube bloqueado; las muestras de Doblaje Wiki no las traen). Martha (Susana Romero) con una sola fuente.
-- 09 Mafalda: la wiki de Fandom es mafalda.fandom.com/es; recolectar.py e investigar_serie.py sólo prueban la inglesa (sin /es) y dan 404. Para la central: que acepten --wiki mafalda/es.
-- 07 Pokémon: el fandub «Pikamon» es para adultos (anotado sin enlace, fuera de la lámina); el ep. 18 doblado de Internet Archive tampoco sirve para la lámina. Pendiente de decidir: ¿el país se elige reaccionando en el canal o en Canales y roles? Para saber si el Pikachu del ep. 17 lo dobla Ana Lobo o Claudia Motta hay que oír el capítulo.
-- Para la central: recolectar.py no captura del wikitext de Doblaje Wiki a los actores de filas con otro colspan (en 08 faltaban Fred, GoGo y Wasabi, que sí tienen actor). Conviene revisar ese analizador.
-- 08 Big Hero 6: la escena de Mochi con Baymax en batería baja se atribuyó al corto *Big Chibi 6: «Low Battery»* (2019), pero el redactor duda: del clip de la película sólo se vio 1:04 y TV Tropes y un arte conceptual («Baymax Hairy Baby») la sitúan en la película. Ver la secuencia entera antes de usarla. Sin decidir: cómo se abre el ticket en el servidor y qué entra en cada nivel de la tabla del dolor.
 
 ### Lote C: repasos 19-30
 

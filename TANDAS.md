@@ -122,7 +122,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] 33-frieren
 - [x] 34-haikyuu
 - [x] 35-one-punch-man
-- [ ] 36-hunter-x-hunter
+- [x] 36-hunter-x-hunter
 
 ## Tanda S10
 
