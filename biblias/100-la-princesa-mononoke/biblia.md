@@ -255,23 +255,68 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 
 > Esta película tiene **TRES doblajes latinos distintos**, hechos 10 años aparte cada uno. Cualquier frase citada en el canal debe decir cuál.
 
-| Doblaje | Año/formato | Estudio/ciudad | Idioma origen | Dirección |
-|---|---|---|---|---|
-| Buena Vista/Miramax | 2001, VHS | Musitrón, Monterrey | inglés (edición Miramax) | — |
-| Zima Entertainment | 2010, DVD | "Tokio", Ciudad de México | japonés directo | — |
-| Wild Bunch/Netflix | 2020, streaming | Sysdub, Ciudad de México | japonés directo (el más fiel) | — |
+| Doblaje | Año/formato | Estudio/ciudad | Idioma origen | Dirección | Dónde se ve |
+|---|---|---|---|---|---|
+| Buena Vista/Miramax | grabado 2000, VHS 2001 | Musitrón S.A. de C.V., Monterrey (la única de Ghibli doblada ahí) | inglés (edición Miramax, con diálogos cambiados) | Juan Carlos García Amaro (gerente creativo: Raúl Aldana) | VHS México y Argentina; en ningún servicio activo |
+| Zima Entertainment | 2010, DVD «Rincón Ghibli» (15-abr-2010) | Estudio Tokio, Ciudad de México (un estudio de grabación musical, no una casa de doblaje) | japonés directo | Juan Alfonso Carralero | TV: Canal 22 (México, 30-abr-2014), Señal Colombia (16-dic-2015), Código Animé (Chile, 29-nov-2017), RCN (5-mar-2022) |
+| Wild Bunch/Netflix | grabado ene-2020 | Sysdub, Ciudad de México | japonés directo, «la única íntegra y más fiel» (única que dice «Tatarigami») | Alan Prieto (traducción: Doralí Sanginés; mezcla: Aaron Cedeño; productor: Joaquín Alpízar) | [Netflix](https://www.netflix.com/title/28630857) Latinoamérica desde 1-mar-2020 |
 
-- **Reparto Wild Bunch** (verificado con segunda fuente, https://dubdb.fandom.com, aunque ésta cita a su vez a Doblaje Wiki ⚠️): San — actriz confirmada en [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke); Ashitaka — Luis Leonardo Suárez; Moro — Maru Guzmán; Eboshi — Adriana Casas; Jigo — Héctor Lee ✅.
+Fuente: ficha real en [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke), bajada entera por su [API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=La%20princesa%20Mononoke) ✅. *(Segunda pasada: se añadieron dirección, fechas y canales, que faltaban.)*
+
+**Reparto por personaje, los tres doblajes** (`partes/voz.md`):
+
+| Personaje | Seiyū (JP) | Buena Vista 2001 | Zima 2010 | Wild Bunch 2020 |
+|---|---|---|---|---|
+| Ashitaka | Yōji Matsuda | ¿? (sin identificar) | Carlos Enrique Bonilla | Luis Leonardo Suárez |
+| San | Yuriko Ishida | Angélica Rodríguez Ovalle | Jahel Morga | **Harumi Nishizawa** |
+| Dama Eboshi | Yūko Tanaka | Nancy López Montemayor | Alejandra de la Rosa | Adriana Casas |
+| Jigo | Kaoru Kobayashi | Francisco López Montemayor | sin identificar | Héctor Lee |
+| Moro | Akihiro Miwa | Tere Salazar de Quintanilla | **Salvador Reyes** (un hombre, como en japonés) | Maru Guzmán |
+| Gonza | Tsunehiko Kamijō | Isidro Villarreal Pérez | Isidro Villareal Pérez | Víctor Hugo Aguilar |
+| Toki | Sumi Shimamoto | Lucero Garza | Diana Pérez | Pamela Cruz |
+| Kohroku | Masahiko Nishimura | sin identificar | Ricardo Rocha | Daniel Lacy |
+| Okkoto | Hisaya Morishige | Mario Agrediano Brambila | Arturo Acosta | Jorge Santos |
+| Hii-sama | Mitsuko Mori | Tere Salazar de Quintanilla | Love Santini | Olga Hnidey |
+| Kaya | Yuriko Ishida | Angélica Rodríguez Ovalle | Jahel Morga | Amellalli Guevara |
+| Narración | — | Mario Agrediano Brambila | Marcos Patiño | — |
+
+- **Dos fuentes**: San, Ashitaka, Eboshi, Jigo y Moro de Wild Bunch, y San, Ashitaka, Eboshi y Moro de Zima, coinciden nombre por nombre con [dubdb](https://dubdb.fandom.com) (fichas «Sysdub» y «Estudio Tokio») ✅. Matiz: dubdb cita a su vez a Doblaje Wiki, así que no es del todo independiente ⚠️. Para Buena Vista no hay segunda fuente ⚠️.
 - ⚠️ El actor de Ashitaka en el doblaje Buena Vista/Miramax 2001 no se identifica en ninguna fuente consultada (aparece como «¿?» incluso en Doblaje Wiki).
-- **Curiosidades documentadas** (sección «Datos de interés» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mononoke#Datos%20de%20inter%C3%A9s)): Moro la dobla un actor HOMBRE sólo en la versión Zima, coincidiendo con lo andrógino del original japonés ✅. Jahel Morga dobla a San Y a Kaya en Zima porque comparten seiyuu japonesa ✅. Wild Bunch pronuncia mal «Lady Hii» como «Lady Ji» ⚠️. Zima tiene varios loops mudos y un error de intercambio de voces ⚠️.
+- **Curiosidades documentadas** (sección «Datos de interés» de la [ficha](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke) — *corregido: la primera redacción enlazaba la ficha de «Mononoke», la serie de 2007*): Moro la dobla un actor HOMBRE sólo en la versión Zima, coincidiendo con lo andrógino del original japonés (Akihiro Miwa, actor especializado en *drag*) ✅. Jahel Morga dobla a San Y a Kaya en Zima porque comparten seiyū; Angélica Rodríguez Ovalle hace lo mismo en Buena Vista, aunque en inglés las hacían dos actrices ✅. Paco Mauri sale en Zima y en Wild Bunch con papeles distintos ✅. Wild Bunch pronuncia mal «Lady Hii» como «Lady Ji» ✅ (nota de la ficha). Zima tiene varios *loops* mudos (2 de Gonza, 1 de Eboshi, 1 de Jigo) y una escena donde Toki y otra mujer se cambian la voz 5 segundos ✅ (nota de la ficha). En los tres doblajes «Mononoke» se deja sin traducir ✅.
+
+**Frases textuales del doblaje latino** (transcritas con `voz.py` de las muestras **oficiales** de Doblaje Wiki y revisadas a oído por el investigador de voz; **el minuto es el de la muestra de audio, no el de la película**):
+
+| Personaje · doblaje | Frase textual | Muestra, segundo |
+|---|---|---|
+| San · Wild Bunch | «Déjalo. Él es mi presa.» | [Mononokebtisan.ogg](https://static.wikia.nocookie.net/doblaje/images/4/41/Mononokebtisan.ogg) 0:00 |
+| San · Wild Bunch | «Te encuentras mal herido. Vas a morir.» | ídem 0:02 |
+| San · Wild Bunch | «Te cortaré la garganta y no podrás seguir diciendo tonterías.» | ídem 0:08 |
+| San · Wild Bunch | «¡Silencio! Yo no recibo órdenes de humanos.» | ídem 0:11 |
+| San · Buena Vista | «¡No temo a la muerte! ¡Haré lo que sea para sacar a los humanos del bosque!» | [MononokeDisneySan.ogg](https://static.wikia.nocookie.net/doblaje/images/8/8c/MononokeDisneySan.ogg) 0:09 |
+| San · Buena Vista | «Lady Eboshi es una mujer malvada y nadie evitará que yo la mate.» | ídem 0:17 (Whisper oyó «Evoshi») |
+| Ashitaka · Wild Bunch | «Por favor, controla tu ira.» | [Mononokebtiashitaka.ogg](https://static.wikia.nocookie.net/doblaje/images/7/74/Mononokebtiashitaka.ogg) 0:03 |
+| Ashitaka · Wild Bunch | «¡Detente! ¡No destruyas nuestra aldea! ¡Basta! ¡Detente tu ira!» | ídem 0:10 |
+| Moro · Wild Bunch | «Ella es mi hija, San. Hay humanos en todos lados.» | [Mononokebtimoro.ogg](https://static.wikia.nocookie.net/doblaje/images/b/b4/Mononokebtimoro.ogg) 0:00 |
+| Moro · Wild Bunch | «El dios ciervo otorga vida y quita vida.» | ídem 0:06 (Whisper escribió «siervo») |
+| Moro · Wild Bunch | «San, ya he vivido una larga vida. El dios ciervo con gusto tomará mi vida antes que curarme herida.» | ídem 0:24 |
+| Eboshi · Wild Bunch | «¡Vamos! ¡Ya falta muy poco! ¡Manténganse alerta!» | [Mononokebtieboshi.ogg](https://static.wikia.nocookie.net/doblaje/images/c/cc/Mononokebtieboshi.ogg) 0:00 |
+| Eboshi · Wild Bunch | «Es una diosa, no murió. No morirá tan fácilmente.» | ídem 0:07 |
+| Eboshi · Wild Bunch | «Muchos están convencidos de que eres un espía de los samuráis o de los monstruos.» | ídem 0:16 |
+| Jigo · Wild Bunch | «Qué horror, esto sabe a agua caliente.» | [Mononokebtijikobo.ogg](https://static.wikia.nocookie.net/doblaje/images/1/1a/Mononokebtijikobo.ogg) 0:00 |
+| Jigo · Wild Bunch | «Es una pepita enorme de oro. Si son monedas lo que quieres, te las daré a cambio de esto.» | ídem 0:06 |
+| Jigo · Wild Bunch | «Yo creo que esto vale un saco de arroz... más bien, tres sacos.» | ídem 0:16 |
+
+- ✅ textuales (audio oficial + revisión a oído). ⚠️ En qué minuto de la película suena cada una: no se pudo (no hay clips oficiales doblados accesibles; YouTube pide sesión). Si alguien la ve en Netflix, que anote el minuto.
+- ⚠️ «¡Odio a los humanos!» es la frase más memeada, pero sale del meme en inglés («I hate humans»); **no está comprobado cómo la dice cada doblaje latino**. En la lámina, usar mejor «Yo no recibo órdenes de humanos» (textual, Wild Bunch).
+
 - **Voces medidas con `voz.py`** (Whisper + análisis de tono/ritmo, sobre audio oficial de Doblaje Wiki):
 
 | Personaje (doblaje) | Tono | Expresividad (semitonos) | Ritmo |
 |---|---|---|---|
-| San (Wild Bunch) | — | 16.2 (más expresiva que Buena Vista) | — |
-| San (Buena Vista) | — | 12.9 | — |
+| San (Wild Bunch, Harumi Nishizawa) | 325 Hz (muy agudo) | 16.2 (más expresiva que Buena Vista) | 3.34 palabras/s (rápido) |
+| San (Buena Vista, Angélica Rodríguez Ovalle) | 323 Hz (muy agudo) | 12.9 | 3.52 palabras/s (la más rápida) |
 | Ashitaka (Wild Bunch, Luis Leonardo Suárez) | 231 Hz (agudo) | 20.1 (el MÁS expresivo medido) | 3.36 palabras/s (rápido) |
-| Moro (Wild Bunch, Maru Guzmán) | 165 Hz (grave) | 8.6 (el MENOS expresivo, deliberadamente contenida) | — |
+| Moro (Wild Bunch, Maru Guzmán) | 165 Hz (medio-grave) | 8.6 (el MENOS expresivo, deliberadamente contenida) | no medido en `voz.md` |
 | Eboshi (Wild Bunch, Adriana Casas) | 193 Hz (medio) | 14.9 | 3.18 palabras/s (rápido) |
 | Jigo (Wild Bunch, Héctor Lee) | 219 Hz (medio) | 16.0 | 2.28 palabras/s (el MÁS pausado) |
 
@@ -279,17 +324,18 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 
 ## 9. Música y sonido
 
-
-
 - **Compositor**: Joe Hisaishi, banda tocada por la Tokyo City Philharmonic Orchestra dirigida por Hiroshi Kumagai ✅ (Ghibli Fandom + [MusicBrainz](https://musicbrainz.org/release-group/b0701a74-cce4-46f2-a392-72eadad32ef4)).
 - **Álbum original**: Tokuma Japan Communications, 2-jul-1997 (Japón); Milan Records, 12-oct-1999 (versión norteamericana) ✅.
 - **Tema principal** 「もののけ姫」 (*Mononoke Hime*), letra del propio Miyazaki, cantado por el contratenor **Yoshikazu Mera** (japonés) y por Sasha Lazard en la adaptación al inglés ✅ (Ghibli Fandom, dos páginas).
 - **«The Legend of Ashitaka»**: tema de apertura (1:39) y de cierre (5:03, créditos finales) — mismo leitmotiv en dos duraciones ✅.
 - **«Ashitaka and San»** (piano, instrumental): suena en la escena final de despedida (min ~1:56-1:58, coincide con el abrazo del punto 2) ✅. ⚠️ La wiki da dos duraciones distintas para esta pista según la página (3:12 en el índice, 4:01 en su ficha propia).
 - **Disco completo**: 33 pistas, todas de Hisaishi salvo las vocales. Cues útiles por tono: *The Demon God* y *Demon Power* (percusión grave, disonante) para los ataques de dioses poseídos por el odio; *Requiem* y variantes para escenas de muerte/duelo; *The Forest of the God* y *Kodamas* (arpa y campanas suaves) para el santuario; *Theme Song* coral con contratenor cierra sobre el bosque reverdecido. ⚠️ asociación por título/duración, no comprobada con audio sincronizado al metraje.
+- **Las 33 pistas con su duración** (tabla de [Ghibli Wiki](https://ghibli.fandom.com/wiki/Princess_Mononoke/Soundtrack), `partes/video.md`), para pedir el tema justo: The Legend of Ashitaka 1:39 · The Demon God 3:51 · Departure – To the West 2:33 · Demon Power 0:36 · The Land of the Impure 2:59 · The Encounter 0:53 · Kodamas 0:39 · The Forest of the God 0:41 · Evening at the Ironworks 0:39 · The Demon God II – The Lost Mountains 0:57 · Lady Eboshi 2:48 · **The Tatara Women Work Song 1:30 (letra de Miyazaki: la canción de las mujeres del fuelle)** · Furies 1:28 · The Young Man from the East 1:25 · Requiem 2:22 · Will to Live 0:32 · San and Ashitaka in the Forest of the Deer God 1:39 · Theme Song instrumental 2:08 · Requiem II 2:14 · Theme Song japonés 3:32 · Battle Drums 2:47 · The Battle in Front of the Ironworks 1:26 · Demon Power II 2:30 · Requiem III 0:55 · Retreat 1:31 · The Demon God III 1:14 · Adagio of Life and Death 2:09 · The World of the Dead 1:27 · The World of the Dead II 1:33 · Adagio of Life and Death II 1:07 · Ashitaka and San 3:12 · Theme Song 1:23 · The Legend of Ashitaka Theme (créditos) 5:03 ✅.
+- **Equipo de sonido** (staff de [AniList](https://anilist.co/anime/164/staff)): director de sonido Kazuhiro Wakabayashi; efectos de sonido Michihiro Itou ✅ (dato del recolector).
 - **Onomatopeya de los kodama**: suenan como «cientos de sonajeros de bebé agitados a la vez» al mover la cabeza; descrito como カタカタ (*kata-kata*, giongo de traqueteo) ✅ (PDF académico de Nottingham + guías de onomatopeya japonesa).
 - **Efectos de sonido documentados**: choque de espadas, disparo silenciado de rifle (armas de Irontown), galope, explosiones, «masa viscosa y reptante» (los tentáculos de la maldición), chapoteo de agua, graznido de halcón ✅ (https://soundeffects.fandom.com).
-- ❌ AnimeThemes: API caída (HTTP 522 y timeout); no aplica bien de todos modos, es película con un único tema, no serie con OP/ED por episodio.
+- ⚠️ AnimeThemes: API caída (HTTP 522 y timeout, dos intentos); no aplica bien de todos modos, es película con un único tema, no serie con OP/ED por episodio. Sustituida por Ghibli Wiki + MusicBrainz.
+- ⚠️ Qué pista suena en cada minuto de la película: sin comprobar con el audio (sólo por título y duración). Lo seguro: «Ashitaka and San» en la despedida final (1:56:00) y «Adagio of Life and Death» en la muerte de Moro y Okkoto (Tropedia).
 
 ## 10. Vídeos
 
@@ -302,10 +348,14 @@ YouTube pide iniciar sesión desde el servidor: lo mirado a fondo sale de Dailym
 | [Tráiler VO (Sensacine)](https://www.dailymotion.com/video/x88nkic) | 2:08 | ⚠️ | ⚠️ |
 | [Tráiler oficial (Sensacine México)](https://www.dailymotion.com/video/x88a6q7) | 1:42 | ⚠️ | ⚠️ |
 | [Tráiler oficial (Tomatazos)](https://www.dailymotion.com/video/x8x2e5w) | 1:42 | ⚠️ | ⚠️ |
-| [Tráiler japonés original de 1997 (YouTube, vía AniList)](https://www.youtube.com/watch?v=4OiMOHRDs14) | — | ❌ no se pudo ver (YouTube pide sesión); no apareció en Dailymotion ni Internet Archive |
+| [Tráiler japonés original de 1997 (YouTube, vía AniList)](https://www.youtube.com/watch?v=4OiMOHRDs14) | — | no se pudo ver (YouTube pide sesión); no apareció en Dailymotion ni Internet Archive | ⚠️ |
+| [La película entera en Internet Archive, 1920×1040](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke) | 133 min | la copia de la que salen **todos los minutos** de esta biblia (más de 165 fotogramas mirados). Sin licencia declarada: sólo referencia interna | ✅ |
 
 - **Análisis en español** (sólo enlace y título, YouTube bloqueado): «El lado oscuro de Ghibli que nadie entiende» (youtube.com/watch?v=mk3I-VLc51g) · «Análisis y Explicación» de Mr. Quinn (youtube.com/watch?v=5aANfYwywPk) ⚠️.
 - **Análisis escrito**: reseña de Cintilatio y un ensayo sobre lecturas religiosas/folclóricas ⚠️ una fuente cada uno.
+- **Making of en Internet Archive** (de `datos-video.md`, no mirado): el documental *How Mononoke Hime Was Born* en DVDrip, [disco 2](https://archive.org/details/fnscar-raws-how.-mononoke.-hime.-was.-born-disc.-2-dvdrip-704x-480-avc-yuv-420p-8-ac-3) y [disco 3](https://archive.org/details/fnscar-raws-how.-mononoke.-hime.-was.-born-disc.-3-dvdrip-704x-480-avc-yuv-420p-8-ac-3) (704×480) ⚠️. **Pendiente**: pasarle `episodio.py` para sacar técnica con minuto.
+- **Música en Dailymotion** (de `datos-video.md`): «Forest of the Shishi God», 6:09 ([x34a2o8](https://www.dailymotion.com/video/x34a2o8)) y «Ashitaka and San», 4:29 ([x34a2m0](https://www.dailymotion.com/video/x34a2m0)) ⚠️ no mirados.
+- **Aviso sobre IA**: en Dailymotion circula «Princesa Mononoke IA» de 3djuegos (1:07, [x97gcla](https://www.dailymotion.com/video/x97gcla)), con 13.481 vistas ⚠️ (sólo título y cifras de la API, no mirado). Es justo lo que el dueño no quiere que parezca la lámina.
 - **Tendencia en TikTok**: etiqueta «Princess Mononoke Edit» agrupa miles de montajes de fans; una tendencia usa «The Seed» de Aurora como música de fondo para montajes de San y Ashitaka ⚠️ (agregado, sin poder entrar a TikTok directamente). Vídeos concretos: [@rl_editt](https://www.tiktok.com/@rl_editt/video/7316653871705754886) · [@hwigyu](https://www.tiktok.com/@hwigyu/video/7315834904565058818) ⚠️ vistas no verificadas.
 
 ## 11. Videojuegos
