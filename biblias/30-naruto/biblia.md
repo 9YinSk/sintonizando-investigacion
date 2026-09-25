@@ -102,9 +102,11 @@ fecha: 2026-09-24
 - Tabla **«Cumplimiento del encargo»** y bitácora de la segunda pasada.
 - `referencias.json` ampliado con las referencias de las cuatro partes.
 
-**⚠️**: había **84**; se resuelven unos 20 (colores, pose, voces, música,
-bandana rayada). Los que quedan se explican donde están y en la tabla de
-cumplimiento.
+**⚠️**: había **84**; se resolvieron unos 20 de esos (colores, poses,
+voces, música, bandana rayada, «Rise»), pero el total queda en **94**
+porque las secciones nuevas (puntos 18-25, IA de texto) marcan con ⚠️ lo
+que tiene una sola fuente. Cada uno dice por qué, y la tabla de
+cumplimiento los resume.
 
 ---
 
@@ -192,7 +194,7 @@ tablón de misiones** de la oficina del Hokage (N006 ✅), con **tres grupos**:
 | Quién habla en la lámina | **Kakashi** (el que pone la prueba; 5.º, y el más reconocible como «profe»), con **Naruto** atado al poste como contrapunto cómico. De reserva: **Itachi** (2.º) para un reto «con trampa», o **Jiraiya** para textos. Ver §19. |
 | Cuadro de diálogo propio | **No es una burbuja blanca**. Naruto «habla» en **pergaminos** (makimono), en el **tablón de misiones**, en el **examen escrito** de Ibiki, en el **libro de Jiraiya**, en los **pensamientos entre 《 》** del subtítulo oficial y, en el juego *Storm*, en una **banda oscura translúcida con filete de bronce** (`#9A804A`, medido) y el nombre en una pestaña a la izquierda. Ver §7. |
 | Letras | **Ninja Naruto** (la del logo, gratis, **sin tildes ni ñ**: sólo para «RETO DE LA SEMANA»), **Yuji Syuku / Yuji Boku** (pincel japonés), **Shojumaru** (latín con aire japonés), **Potta One** / **Reggae One** (rótulos). Las de Google Fonts traen á é í ó ú ñ ¿ ¡: comprobado en el archivo. |
-| Voz latina | Naruto **Isabel Martiñón** ✅, Sasuke **Víctor Ugarte** ✅, Sakura **Christine Byrd** (Naruto y Shippuden 1-5) y **Montserrat Aguilar** (Shippuden 6-22) ✅, Kakashi **Alfonso Obregón** (y **Óscar López** en los ep. 440-500 de Shippuden) ✅, Itachi **Héctor Emmanuel Gómez** ✅, Jiraiya **Paco Mauri** ✅, Iruka **José Antonio Macías** ✅. Estudio **Art Sound México** (Naruto, 2006-2010) y **Labo** (Shippuden 6-22, 2023-2024); dirección y adaptación de **Eduardo Garza** ✅. Ver §10. |
+| Voz latina | Naruto **Isabel Martiñón** ✅, Sasuke **Víctor Ugarte** ✅, Sakura **Christine Byrd** (Naruto y Shippuden 1-5) y **Montserrat Aguilar** (Shippuden 6-22) ✅, Kakashi **Alfonso Obregón** (y **Óscar López** en los ep. 440-500 de Shippuden) ✅, Itachi **Héctor Emmanuel Gómez** ✅, Jiraiya **Paco Mauri** ✅, Iruka **José Antonio Macías** ⚠️ (una fuente; en Shippuden **Arturo Cataño** ✅). Estudio **Art Sound México** (Naruto, 2006-2010) y **Labo** (Shippuden 6-22, 2023-2024); dirección y adaptación de **Eduardo Garza** ✅. Ver §10. |
 | Tono | **Cálido y de esfuerzo**, con momentos tristes. Naranja de Naruto, verde de Konoha, cielo azul, madera. Nada de neón ni de estética «oscura» genérica: la tristeza de Naruto es **lluvia y atardecer**, no sangre. |
 | Juegos | **Ultimate Ninja Storm** (CyberConnect2): banda de diálogo **oscura translúcida** a todo lo ancho, **filete de bronce** arriba y pestaña con el nombre ✅ (captura medida). Tiene un minijuego escondido de **trepar árboles con tres niveles** ✅ (The Cutting Room Floor). **Storm Connections** (2023) ✅. Ver §13. |
 
@@ -1479,13 +1481,298 @@ traducción de los subtítulos japoneses con su minuto, §2):
 | Triste | «Aquí está grabado **el nombre de mi mejor amigo**» | Kakashi, N005 00:15:15 |
 
 **Vocabulario de expresiones** (para que la IA de imagen entienda el
-gesto): **gota de sudor** en la sien (vergüenza, «¿en serio?»), **vena**
+gesto; los que no llevan número de hoja son convenciones del anime ⚠️): **gota de sudor** en la sien (vergüenza, «¿en serio?»), **vena**
 en la frente (enfado cómico), **ojos en arco** (ojo sonriente de Kakashi),
 **ojos en blanco con boca enorme** (grito cómico de Naruto), **la Sakura
 interior** (silueta de línea blanca sobre negro con el puño en alto),
 **versión *chibi*** con cabeza enorme para los chistes, **fondo de rayas
 de velocidad** para gritos y sorpresas, **Sharingan** (ojos rojos con
 comas) para el tono serio.
+
+---
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+### Cómo dibuja Kishimoto (manga)
+
+| Paso | Qué hace | Fuente |
+|---|---|---|
+| Proceso | **Boceto → lápiz → entintado → sombreado → color**, igual en el manga que en sus ilustraciones a color | ✅ [Mykawaiistationery](https://www.mykawaiistationery.com/blogs/stationery-guide/ultimate-manga-drawing-supplies-guide) |
+| Entintado | Casi todo con **G-pen** (plumín flexible), fondos incluidos: trazo **vivo**, que pasa de fino a grueso con la presión | ✅ [niponica n.º 36](https://web-japan.org/niponica/niponica36/en/feature/feature05.html) + [JetPens](https://www.jetpens.com/blog/How-to-Use-Manga-Pen-Nibs/pt/901) |
+| Plumines | **G-pen** (línea viva), **Maru-pen** (detalle fino), pincel (masas negras) | ✅ JetPens |
+| Tramas | **Puntos (halftone)** para sombra y volumen, en vez de color | ✅ [pixelbuddha.net](https://pixelbuddha.net/brushes/2877-manga-screentone-brushes-for-illustrator) |
+
+### Cómo se animó (Studio Pierrot, 2002-2017)
+
+- Es la época en que el anime pasa del **cel físico al color digital**: la
+  industria usaba **RETAS Studio** (Celsys), con **Stylos** para entintar y
+  **PaintMan** para rellenar ([Anime News Network](https://www.animenewsnetwork.com/answerman/2018-03-30/.129615)) ⚠️: es el
+  estándar de la época, **no hay una fuente que diga que Pierrot lo usó en
+  Naruto**.
+- Equipo: director **Hayato Date**; personajes **Tetsuya Nishio** (parte 1)
+  e **Hirofumi Suzuki**; dirección de arte **Shigenori Takada**; color
+  **Takuya Kawami** ✅ (AniList).
+- En pantalla: **línea negra fina** (en el anime, de grosor casi
+  constante, §18.1), **2-3 tonos planos** con sombra de borde duro, fondos
+  pintados más suaves, **grano de vídeo ligero** y **brillo** en las
+  técnicas.
+
+### Cómo replicarlo en Photoshop
+
+- **Línea**: pincel de pluma con **Transferencia ligada a la presión**,
+  opacidad 100 %, color `#1A1A1A` (casi negro, como en los fotogramas).
+- **Sombra**: 2-3 tonos planos, sin degradado, borde **duro**; capa
+  **Multiplicar** recortada al lineart.
+- **Tramas** (carteles o páginas «de manga»): puntos al 15-20 % (Punto 19).
+- **Grano y brillo**: ruido monocromo al 3-5 % y una capa ámbar en
+  **Superponer** al 10 % para el chakra del Kyubi.
+
+### Cómo replicarlo en Blender
+
+- **Rigs libres, comprobados por la API de Sketchfab (CC BY,
+  descargables)**: «Naruto Rigged» de *rithul.kamesh* (18 196 caras, cara
+  incluida); «Naruto Uzumaki from Naruto: Shippuden (Rigged)» de
+  *aritrodebroy* (65 674 caras); «[Naruto & Sasuke Low Poly + Rig +
+  Texture](https://sketchfab.com/3d-models/none-b650b60a7bbd4f11b05a435e65116168)» de *ronildo.facanha* (11 992 caras) y «Low Poly Naruto with
+  Rig and Running Animation», del mismo autor (9 060 caras) ✅.
+- **Contorno**: **Freestyle** (grosor que varía solo, lo más parecido al
+  G-pen) o **Solidify invertido** con material negro sin sombra.
+- **Shader** (Eevee): Diffuse → **Shader to RGB** → **ColorRamp de 2-3
+  pasos** en constante. Luz principal **Sun dura** y relleno tenue
+  azulado, como en los interiores de Konoha (obj 8).
+- **Crédito CC BY**: «Modelo de <autor>, Sketchfab, CC BY 4.0».
+
+### Encuadres y composición
+
+- **Plano medio bajo** para retos y orgullo (cámara a la altura del pecho,
+  mirando un poco hacia arriba): Naruto sentado con el puño en alto (N025).
+- **Contrapicado** para técnicas y transformaciones.
+- **Primer plano de los ojos** para rabia o determinación (Naruto,
+  Sasuke, Itachi; §8, caras por emoción).
+- **Grupo a contraluz** al amanecer o atardecer (opening de Shippuden,
+  0:08 y 1:12, §12.1).
+
+---
+
+## Punto 19 · Texturas 2D
+
+| Capa | Qué usar | Licencia |
+|---|---|---|
+| **Tramas de manga** (pelo, nubes, fondos) | «[FREE] Manga Screentone Pack 1», [Clip Studio Assets](https://assets.clip-studio.com/en-us/detail?id=2142037) | Gratis, licencia de la tienda de CSP ⚠️ (un origen) |
+| Tramas para Illustrator | [pixelbuddha.net](https://pixelbuddha.net/brushes/2877-manga-screentone-brushes-for-illustrator) | Gratis con registro ⚠️ |
+| **Grano de papel** | Paper001-006 de [ambientCG](https://ambientcg.com/list?q=paper), aplanadas en **Multiplicar** | CC0 ✅ |
+| **Vendas** (Sasuke, Lee) | **Rough Linen** de [Poly Haven](https://polyhaven.com/a/rough_linen), aplanada | CC0 ✅ |
+| **Remolino Uzumaki** y **abanico Uchiha** | No hay versión libre del símbolo exacto (son de Shueisha/Pierrot). Base para **redibujar a mano**: [Flaticon «spiral»](https://www.flaticon.com/free-icons/spiral), [«swirl»](https://www.flaticon.com/free-icons/swirl) | Gratis con atribución ⚠️; nunca calcar el logo |
+| **Nube de Akatsuki** | Sin versión libre exacta; un pincel de «nube manga» de Clip Studio Assets como textura. Color `#9B3E35`, borde `#CFC3B7` | ⚠️ no se comprobó una ficha concreta |
+| **Rótulo de Shippuden** a pincel | Letra **Ninja Naruto** (§6): la única imitación gratis que hay | ver §6 |
+
+Junto con §4 (3D) y §5.4 (texturas reales), no falta ninguna capa: papel,
+cuerda, madera, tela, tramas y emblemas.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Del **databook oficial** vía la sección *Trivia* de Narutopedia, con
+altura y cumpleaños cruzados con AniList ✅.
+
+| Personaje | Le encanta comer | Odia comer | Afición | Altura | Cumpleaños | Detalle |
+|---|---|---|---|---|---|---|
+| [**Naruto**](https://naruto.fandom.com/wiki/Naruto_Uzumaki#Trivia) | Ramen de Ichiraku, *oshiruko* | Verdura cruda | Bromas, **regar plantas** | 145-180 cm | 10 de octubre | Su nombre viene del *narutomaki* del ramen |
+| [**Sasuke**](https://naruto.fandom.com/wiki/Sasuke_Uchiha#Trivia) | Onigiri de *okaka*, **tomate** | *Nattō*, lo dulce | Entrenar, pasear | 153-182 cm | 23 de julio | Palabra favorita: «poder» (力) |
+| [**Sakura**](https://naruto.fandom.com/wiki/Sakura_Haruno#Trivia) | Dango de anko, umeboshi, anmitsu | Lo picante | Juegos de preguntas, medicina | 149-161 cm | 28 de marzo | Palabra favorita: «valor» (勇気) |
+| [**Kakashi**](https://naruto.fandom.com/wiki/Kakashi_Hatake#Trivia) | Sanma a la sal, sopa miso con berenjena | Tempura, dulces | Leer *Icha Icha* | 180 cm | 15 de septiembre | Palabra favorita: «trabajo en equipo»; **nunca dice sus gustos** (N004) |
+| [**Jiraiya**](https://naruto.fandom.com/wiki/Jiraiya#Trivia) | Karaage, cebollín con shiso | Kiwi, gratén | «Investigar» en los baños | 191,2 cm | 11 de noviembre | Lema: «libre y desenfrenado» (自由奔放) |
+| [**Itachi**](https://naruto.fandom.com/wiki/Itachi_Uchiha#Trivia) | Col, onigiri de algas, **dango** | Bistec | Cafés tradicionales | 175 cm | 9 de junio | Palabra favorita: «paz» (平和) |
+
+**Cómo se ve a sí mismo**: Naruto, como **alguien a quien nadie
+reconoce** (N025 00:08:57); Sasuke, **sin gustos y con una sola
+ambición** (N004 00:05:12); Kakashi, como **alguien sin nada que contar**
+(N004 00:03:40), aunque el databook sí le da gustos; Sakura, de niña, se
+avergonzaba de **su frente ancha** hasta que Ino la defendió ⚠️ (una
+fuente, Narutopedia).
+
+**El objeto que siempre llevan**: Naruto, la **bandana de Iruka**; Kakashi,
+***Icha Icha***; Jiraiya, el **pergamino enorme**; Itachi, el **anillo 朱**;
+Iruka, la **carpeta** (§16, hojas).
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+- **Ventas**: más de **250 millones** de copias en 46 países (mayo de
+  2019); en 2014 ya pasaba de 200 millones ✅ ([ANN 2014](https://www.animenewsnetwork.com/daily-briefs/2014-11-08/naruto-manga-has-200-million-in-print-worldwide/.80771), [ANN 2010](https://www.animenewsnetwork.com/news/2010-04-26/naruto-is-5th-manga-with-100-million+copies-in-print)).
+- **MyAnimeList**: **8,02** con más de **2,15 millones** de votos, **3,14
+  millones** de usuarios, **87.057 favoritos**, **puesto 9** en
+  popularidad ✅ ([MAL vía Jikan](https://myanimelist.net/anime/20/Naruto), 25-sep-2026).
+- **Premios**: nominado en los **American Anime Awards 2007** (Mejor
+  Manga, Mejor Actor, Mejor Casting); ganó *Fullmetal Alchemist*. **No
+  encontré** un premio grande ganado ⚠️ ([ANN](https://www.animenewsnetwork.com/news/2007-02-07/american-anime-awards-finalists)).
+- **Por qué conecta**: un **marginado** que se vuelve héroe **sin
+  rendirse**; la **amistad y el equipo** pesan más que el talento ⚠️
+  (reseñas coincidentes en [Medium](https://medium.com/@yaxi.zeng.02/naruto-a-timeless-tale-of-bonds-growth-and-perseverance-updated-950c3ed69af5) y [entertainmentstore.in](https://entertainmentstore.in/blogs/news/why-is-the-anime-naruto-so-emotional-and-relatable), blogs).
+- **Con quién se identifican**: no sólo con Naruto. «Describe tu favorito
+  sin decir su nombre» (**445 votos**, 482 comentarios) y «Está bien que tu
+  favorito sea Orochimaru» (**329 votos**) en r/Naruto ✅
+  ([hilo 1](https://www.reddit.com/r/Naruto/comments/1v0vlxt/describe_your_favorite_naruto_character_without/), [hilo 2](https://www.reddit.com/r/Naruto/comments/1uyxaue/i_think_its_totally_fine_if_someones_favorite/)). Ver también §9.
+
+### Las escenas que hacen llorar
+
+Del hilo «¿Qué momentos te hicieron llorar?» (**314 votos**, r/Naruto,
+[vía Arctic Shift](https://www.reddit.com/r/Naruto/comments/1w3m2s8/what_moments_in_naruto_warmed_your_heart_or_made/)) ✅:
+
+| Escena | Dónde | Qué pasa y por qué duele | Cómo está hecha |
+|---|---|---|---|
+| **La muerte de Jiraiya** (la más nombrada) | S133; clip [Dailymotion](https://www.dailymotion.com/video/x2f7ri8) 0:42-2:38 | Tsunade lo cuenta; Naruto **no lo ve morir**, **estalla contra Tsunade** (1:00-1:24) y luego **llora a solas con Iruka** (2:38). Los últimos pensamientos de Jiraiya son el título de su próximo libro (S133 00:19:20) | Primeros planos de ojos, silencio; en el anime suele sonar «Sadness and Sorrow» ⚠️ (no comprobado en este clip) |
+| **Naruto y Minato**, y **Kushina es su madre** | Shippuden, arco de Pain ⚠️ (episodio sin mirar) | Los padres aparecen como espíritus dentro del sello | ⚠️ |
+| **Sasuke llora** al saber la verdad de Itachi y al final de su última pelea | S339 (despedida, 00:20:49) y final | El hermano que lo protegía | Frente contra frente (S339) |
+| **Kakashi ante la piedra** | N005 00:16:07 | El nombre de su mejor amigo | De espaldas, atardecer ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=967)) ✅ |
+
+- **La música en directo también hace llorar**: «Naruto Symphony en
+  Portugal me hizo llorar», **375 votos** ✅ ([r/Naruto](https://www.reddit.com/r/Naruto/comments/1sv7ucn/naruto_symphony_in_portugal_made_me_cry/)).
+- **Las que hacen reír o gritar**: el «**más perrón**» (ep. 44), el
+  **Naruto run**, la **técnica sexy** (N001 00:03:28) y el «¡Aprobados!»
+  con Naruto atado (§14, §2).
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+**Fandubs de escenas** (Dailymotion; vistas del día de la consulta) ✅:
+
+| Escena | Canal | Duración | Vistas |
+|---|---|---|---|
+| [«Sasuke quiere cortar sus lazos con Naruto», castellano](https://www.dailymotion.com/video/x798yel) | Ace | 4:43 | 37 |
+| [«Sasuke e Itachi se reencuentran», latino](https://www.dailymotion.com/video/x8ynpjc) | HFANDUB | 3:56 | 38 |
+| [«Kakashi Chronicles» ep. 119](https://www.dailymotion.com/video/xpx29p) | XxKittyluvUchihaXx | 2:40 | 39 |
+| [«Presentación Equipo 7»](https://www.dailymotion.com/video/x3dqpc) | bartaviaa | 2:38 | 28 |
+
+**Covers de openings y endings en español**:
+
+| Tema | Canal | Duración |
+|---|---|---|
+| [Opening 7 «Toumei Datta Sekai», latino](https://www.dailymotion.com/video/x3ibrvr) | Jaxojuzuj | 1:29 |
+| [Opening 16 «Silhouette», latino](https://www.dailymotion.com/video/x3h6um4) | Jaxojuzuj | 3:57 |
+| [Opening 18 «LINE», latino](https://www.dailymotion.com/video/x39xlh8) | Naruto (usuario) | 1:30 |
+| [Ending «Blue Bird»](https://www.dailymotion.com/video/x3jvuz6) | Jonathan T | 3:47 |
+| [Ending «Nakushita Kotoba», latino](https://m.soundcloud.com/sound-like-your-fandub/naruto-fandub-espanol-latino-ed-nakushita-kotoba-tricker-1) | Sound Like Your Fandub (SoundCloud) | ⚠️ |
+
+En YouTube, canales **Doblecero** (Opening 5 «Seishun Kyousoukyoku») y
+**Jeo Randuhr** (Opening 12 «Moshimo») ⚠️: una sola fuente, YouTube no
+abría desde el servidor, sin vistas.
+
+**Retos de doblaje**: **SDV (Servicios de Voz)** en TikTok reta a doblar
+la escena y compararse con la voz oficial: [n.º 1041, Kakashi](https://www.tiktok.com/@sdv_serviciosdevoz/video/7266928255179951365) y [n.º 252,
+Itachi](https://www.tiktok.com/@sdv_serviciosdevoz/video/7080604336459418886) ✅ (§10.5). **Es el formato que copia la lámina.**
+
+**Memes hispanos**: «**Soy el más perrón aquí**» (ep. 44) tiene su propio
+[hilo de TikTok](https://www.tiktok.com/discover/naruto-diciendo-soy-el-m%C3%A1s-perr%C3%B3n-aqu%C3%AD) ✅; el «**¡de veras!**» que salió de un niño en la calle
+(§10.4). No encontré otra parodia hispana distinta en esta pasada.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+| Qué | Cuándo | Qué trae de nuevo | Fuentes |
+|---|---|---|---|
+| **Fortnite**, 1.ª oleada: Naruto, Sasuke, Sakura, Kakashi | 16-nov-2021 | Poses y accesorios propios (kunai y shuriken como pico) | ✅ [Forbes](https://www.forbes.com/sites/paultassi/2021/11/16/here-are-all-fortnites-naruto-shippuden-crossover-skins-live-now/) |
+| **Fortnite**, 2.ª oleada: Hinata, Gaara, Itachi, Orochimaru; Sasuke solo el 23-jun-2022 | 2022 | Más pieles | ✅ [esports.gg](https://esports.gg/news/fortnite/naruto-fortnite-skin-collab-tease/), [fortnite.gg](https://fortnite.gg/cosmetics?id=5858) |
+| **Monster Strike** (mixi, gacha): Naruto Modo Sabio, Sasuke, Sakura, Yamato, Sai | 12-jun a 2-jul-2026 | Arte de gacha | ✅ [mixvale](https://www.mixvale.com.br/2026/06/11/game-monster-strike-announces-first-collaboration-with-naruto-shippuden-detailing-gacha-characters-like-kakashi-and-jiraiya-en/), [note.com](https://note.com/otsuki_days/n/n4d4b068b5843?hl=en) |
+| **UNIQLO UT**, 20 aniversario | 2022 | Naruto con clones sobre amarillo; Minato con kunai; diseño **azul marino Uchiha** con el Mangekyō | ✅ [uniqlo.com](https://www.uniqlo.com/us/en/special-feature/ut/naruto) |
+| **UNIQLO UT**, 100 años de Shueisha | reciente | Naruto y Sasuke en estilo ***ukiyo-e*** | ✅ [essential-japan.com](https://essential-japan.com/news/uniqlos-second-manga-ut-anniversary-collection-includes-one-piece-and-naruto/) |
+| **Ichiraku real**, Fukuoka | — | El local al que iba Kishimoto de estudiante | ✅ [SoraNews24](https://soranews24.com/2016/08/22/narutos-favorite-noodle-shop-ichiraku-ramen-is-real-and-we-just-visited-it/), [Hypebeast](https://hypebeast.com/2019/4/naruto-ramen-ichiraku-official-opening) |
+| **NARUTO×BORUTO Shinobi-zato**, Nijigen no Mori (Awaji) | parque fijo | **8000 m²**, Roca Hokage de 11 m, puerta de Konoha, **un Ichiraku de verdad** con tres caldos | ✅ [nijigennomori.com](https://nijigennomori.com/en/naruto_shinobizato/), [awajiisland.pasonagroup.co.jp](https://en.awajiisland.pasonagroup.co.jp/all-you-need-to-know-about-the-naruto-theme-park-naruto-boruto-shinobi-zato/) |
+
+- **No hay** atracción de Naruto en Universal Studios Japan (no confundir
+  con Awaji) ⚠️ ([Wikipedia USJ](https://en.wikipedia.org/wiki/Universal_Studios_Japan) no la lista). **No encontré** café
+  temático oficial tipo Animate Café: el Ichiraku de Awaji cumple ese papel.
+- **Figura**: **S.H.Figuarts «Naruto Uzumaki Sage Mode - Savior of
+  Konoha»** (Tamashii Nations): 14,5 cm, **capa de tela real**, 5 pares de
+  manos, 4 caras; monta la pose contra Pain ✅ ([Amazon](https://www.amazon.com/TAMASHII-NATIONS-Uzumaki-Shippuden-figuarts/dp/B0D7Q8HXZN), [ToyNewsI](https://toynewsi.com/136-52228)).
+  **Referencia 3D real** de cómo se planta Naruto con el Rasengan.
+- **Cosplay CC BY 2.0**: Naruto con Sasuke, Hinata y Shino en la AWA14,
+  por *mikemol*, 1024×768 ([Flickr](https://live.staticflickr.com/3151/2873209137_c367aea5a6_b.jpg)) ✅: enseña **cómo cae la tela
+  naranja** y el volumen de la ropa.
+- **3D con licencia** (además de §4): «Akatsuki coat - Itachi's clothes»,
+  *Marc Ed*, CC BY ([Sketchfab](https://sketchfab.com/3d-models/none-9871bf23b8a04d30a0a9b9731bae1d14)); «Rasengan», *Calfan*, **CC BY-NC**
+  ([Sketchfab](https://sketchfab.com/3d-models/none-b45a868303ca4c4ca8cb6a6e8c5c18c6)), sólo como referencia de forma ✅.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+- **El «Big Three» de la Jump**: *Naruto*, *One Piece* y *Bleach*, a la vez
+  en la revista y en Toonami: equipos, torneos o exámenes y villanos que
+  se redimen ✅ ([CBR](https://www.cbr.com/what-the-big-three-shonen-anime-have-in-common-naruto-bleach-one-piece/)). Las recomendaciones de AniList
+  añaden *Black Clover*, *My Hero Academia*, *Jujutsu Kaisen*, *Hunter x
+  Hunter*, *Dragon Ball* y *Demon Slayer* (817-1015 votos cada una) ✅.
+- **Lo que reconoce Kishimoto**: *Dragon Ball* le enseñó a enganchar al
+  lector (Naruto nace de Goku), además de *Akira*, *Blade of the Immortal*
+  y *YuYu Hakusho*; su mangaka favorito es **Yoshihiro Togashi** ✅
+  ([Looper](https://www.looper.com/1192288/the-important-lesson-naruto-creator-masashi-kishimoto-learned-from-dragon-ball/), [ScreenRant](https://screenrant.com/naruto-manga-inspiration-dragon-ball-akira-explainer/)).
+- **A quién influyó**: **Gege Akutami** tomó la pareja protagonista-bestia
+  sellada (Naruto y Kurama → Yuji y Sukuna) y quiso que *Jujutsu Kaisen*
+  fuera **lo contrario** de esa reconciliación; **Orochimaru** inspiró a
+  **Kenjaku** ✅ ([ComicBook.com](https://comicbook.com/anime/news/jujutsu-kaisen-manga-gege-akutami-bleach-naruto-inspiration/), [ScreenRant](https://screenrant.com/jujutsu-kaisens-creator-reveals-sukuna-inspriration-kurama-naruto/)).
+- **Láminas del servidor que se parecen** (leído en sus biblias): *One
+  Piece* (#bienvenidas), *My Hero Academia* (#material-de-clase), *JoJo*
+  (#memes), *Hunter x Hunter* (#castings), *Demon Slayer* (Aula,
+  #que-estas-escuchando), *Jujutsu Kaisen* (Crear sala, General). Ninguna
+  usa #reto-de-la-semana, pero **Haikyuu (34) también lo pide** (una
+  línea en DECISIONES.md: no bloquea). Para no repetir: nada de
+  **pergamino o sello como único objeto** (HxH y JJK también son shōnen de
+  pelea); aquí el objeto son **los cascabeles, el pupitre y el tablón de
+  misiones**.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas**
+
+1. El poder viene del **chakra**, que se moldea con **sellos de manos**
+   (*jutsu*): fuego, agua, viento, tierra y rayo.
+2. El mundo se reparte en **aldeas ocultas** (Konoha, Suna, Kiri, Kumo,
+   Iwa), cada una con su **Kage** y su **símbolo** en la bandana.
+3. Hay **rangos**: académico, genin, chūnin, jōnin, ANBU, Kage. **Se sube
+   por exámenes**, no por edad.
+4. **Nueve bestias con cola** (*bijū*) de chakra puro; quien lleva una
+   sellada es un **jinchūriki** (Naruto lleva al Kyubi, Kurama).
+5. Quien abandona su aldea es **renegado** y **raya** su bandana.
+
+- **La rueda de naturalezas**: Fuego > Viento > Rayo > Tierra > Agua >
+  Fuego ✅ ([GameRant](https://gamerant.com/naruto-characters-using-every-nature-type/), [FictionHorizon](https://fictionhorizon.com/heres-what-chakra-natures-naruto-has/)).
+- **Las bestias por aldea**: Suna tiene a **Shukaku** (en Gaara), Taki a
+  **Chōmei** (7 colas), **Konoha al Kyubi** ✅ ([Narutopedia, «Jinchūriki»](https://naruto.fandom.com/wiki/Jinch%C5%8Driki), [Naruto Boutique](https://naruto-boutique.com/en/blogs/naruto-blog/the-9-tailed-beasts-and-their-jinchuriki-the-complete-guide)).
+
+**La historia por arcos** ✅ ([Collider](https://collider.com/naruto-shippuden-arcs-in-order-without-fillers/), [Beebom](https://beebom.com/watch-naruto-in-order/)):
+
+1. **País de las Olas** (ep. 1-19): primera misión, Zabuza y Haku.
+2. **Exámenes chūnin** (20-67): el examen escrito, el Bosque de la
+   Muerte; Orochimaru marca a Sasuke.
+3. **Invasión de Konoha** (68-80): muere el Tercer Hokage.
+4. **Búsqueda de Tsunade** (81-100): Jiraiya enseña el Rasengan.
+5. **Recuperar a Sasuke** (107-135): el Valle del Fin.
+6. **Shippuden**: Akatsuki caza a los jinchūriki; **Pain destruye Konoha**
+   y muere Jiraiya (S133); **la Cuarta Guerra Ninja** contra
+   Madara, Obito y Kaguya; el duelo final Naruto-Sasuke.
+
+**Símbolos que un fan reconoce al instante**
+
+- **La hoja en espiral** de Konoha en la bandana; **con una raya** =
+  renegado; el kanji **忍** = Fuerzas Aliadas ✅ ([Narutopedia](https://naruto.fandom.com/wiki/Forehead_Protector)).
+- **El abanico Uchiha** rojo y blanco; **el remolino Uzumaki** naranja.
+- **La capa de Akatsuki**: las nubes rojas son **la lluvia de sangre** de
+  las guerras en Amegakure; para sus fundadores, **un símbolo de
+  justicia** ✅ ([Narutopedia, «Akatsuki»](https://naruto.fandom.com/wiki/Akatsuki), cap. 509).
+- **Los anillos de Akatsuki**, uno por dedo: Pain, pulgar derecho, **零**;
+  Itachi, anular derecho, **朱**; Orochimaru, meñique izquierdo, **空** ✅
+  (Narutopedia, del databook *Tō no Sho*).
+- **La Roca de los Hokage**, **los cascabeles**, **el sello de los clones**,
+  ***Icha Icha***, el **tazón de Ichiraku** (§12, §14).
+- **Vocabulario**: *dattebayo* («¡de veras!»), *jutsu*, *genin / chūnin /
+  jōnin / Kage*, *bijū*, *jinchūriki*, *Sharingan / Rinnegan*, *hitai-ate*
+  (bandana), *nukenin* (renegado), **camino ninja** (忍道).
 
 ---
 
@@ -1559,9 +1846,13 @@ la frase japonesa del subtítulo (con su minuto), salvo las que marco como
   - En Blender: **School Desk 01** y **Standing Chalkboard 01** (Poly
     Haven, CC0), papel **Paper001** de ambientCG. La tinta y el lápiz
     **siguen las ondas** del papel.
-- **Personaje**: **Naruto**, en la pose de **golpear la mesa y levantarse**
-  («¡Yo no huyo!», N025, 00:10:55 ✅; fotograma a sacar). Alternativa con
-  imagen ya vista: **Sakura pensando** con el lápiz (n.º 481 ✅).
+- **Personaje**: **Naruto**, **sentado en su pupitre, brazo derecho en alto
+  con el puño cerrado, sudando y con el ceño fruncido** («¡Yo no huyo!»,
+  N025, 00:10:45-00:10:54 ✅, [fotograma 10:48](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648); corregido en la segunda
+  pasada: **no** golpea la mesa ni se levanta). Encuadre de **plano medio
+  bajo** (Punto 18). Para probar la pose en 3D antes de dibujar: el rig
+  «Naruto & Sasuke Low Poly» (CC BY, Punto 18). Alternativa con imagen ya
+  vista: **Sakura pensando** con el lápiz (n.º 481 ✅).
 - **Cómo habla**: su frase va **escrita a lápiz en el margen** de la hoja,
   con letra torcida (**Klee One**): **«No me retracto. Ese es mi camino
   ninja»** (N025, 00:11:41 ✅, traducción mía).
@@ -1575,9 +1866,11 @@ la frase japonesa del subtítulo (con su minuto), salvo las que marco como
     respuesta, a lápiz: **Esa es la gracia**. (Es el chiste de la serie:
     la 10.ª pregunta **no existía**, la respuesta era atreverse ✅.)
   - **Pizarra** (lámina 2): las **8 etiquetas** a tiza, en tres columnas.
-- **Para que no quede plano**: **lápiz desenfocado** en primer plano; la
-  **mano de Naruto** golpeando el borde del pupitre levanta la hoja; filas
-  de pupitres que se alejan; **luz lateral** de ventana.
+- **Para que no quede plano**: **lápiz desenfocado** en primer plano; el
+  **puño en alto de Naruto** sale por encima de la hoja y proyecta sombra
+  sobre ella; la otra mano **sujeta el borde del pupitre** (así toca la
+  escena); **gotas de sudor**; filas de pupitres que se alejan; **luz
+  lateral** de ventana.
 
 ### Concepto C — «La barra de Ichiraku» (#general-doblaje)
 
@@ -1633,9 +1926,54 @@ serie): **el libro de Jiraiya** y su «continuación» (S133, 00:19:20; S174,
 - **Game UI Database** (reto de Cloudflare), **TV Tropes** y **The Cutting
   Room Floor** directos (403): TCRF lo leí por Wayback.
 - **Hojas de modelo oficiales** del anime.
-- **Si «Rise» sonaba cantado** en Cartoon Network Latinoamérica.
-- **Qué letra usan los globos** del manga de Panini México y de VIZ.
-- **Tamaño real** de los fondos oficiales de naruto-official.com.
+- ~~Si «Rise» sonaba cantado~~: **resuelto** en la segunda pasada (cantado,
+  en inglés).
+- **Qué letra usan los globos** del manga de Panini México (VIZ: resuelto a
+  medias, CC Wild Words / Anime Ace, §6).
+- ~~Tamaño real de los fondos oficiales~~: la web **no da tamaños ni
+  descarga** (comprobado).
+- **Segunda pasada**, sigue sin verificar: el miedo y la vergüenza de
+  Naruto en fotograma; el fotograma de Itachi con la capa en S135; un
+  ending oficial mirado en vídeo; la película del tráiler de Sensacine; un
+  premio grande ganado; la letra de Panini; una entrevista de Pierrot con
+  su programa; una segunda fuente para «Konoha = Nagi».
+
+---
+
+## Cumplimiento del encargo
+
+| # | Punto | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | §3: 30 imágenes de las hojas citadas por número, 20 key visuals de la web oficial, NARUTOP99 y ROAD OF NARUTO. Portadas de tomos, de memoria ⚠️ |
+| 2 | Fotogramas de escenas icónicas con minuto | ✅ | §2 con minutos de los subtítulos de Hulu; 6 escenas **miradas en fotograma** (archive.org) en la segunda pasada |
+| 3 | Fan art y 3D con licencia | ✅ | §4 y Punto 23: Sketchfab por su API (CC BY, rigs incluidos), fan art con autor |
+| 4 | Sitios, luz, paleta y texturas | ✅ | §5: paleta medida (más de 30 hex), luz del campo 3 mirada en fotograma, texturas CC0. La luz de los demás sitios sigue de memoria ⚠️ |
+| 5 | Tipografía por uso con letra libre | ⚠️ | §6: letras comprobadas con fontTools; falta la letra de Panini México (no encontrada) |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | §7: globos, Sakura interior, caja de diálogo de *Storm* medida, bandana confirmada |
+| 7 | Personajes y popularidad | ✅ | §8-9: NARUTOP99 y las encuestas de la Jump, con dos fuentes |
+| 8 | Doblaje latino y frases | ✅ | §10: 15 voces con dos fuentes (José Antonio Macías, una ⚠️); frases latinas de Doblaje Wiki. Sin audio de muestra en Doblaje Wiki |
+| 9 | Música y sonido | ✅ | §11: listas de temas, autor e instrumentos con dos fuentes; «Never Ending Spirit» descartado. Ningún ending mirado en vídeo ⚠️ |
+| 10 | Vídeos y tendencias con minuto | ✅ | §12: opening mirado con minuto; «hand seal dance» con dos fuentes. YouTube bloqueado desde el servidor |
+| 11 | Videojuegos: interfaz y diálogo | ✅ | §13 y §7.3: caja de diálogo de *Storm* medida; TCRF por Wayback |
+| 12 | Lo que ama el fandom y qué no hacer | ✅ | §14 |
+| 13 | Descripción profunda y cara en cada emoción | ⚠️ | §8: carácter, arco y habla con minuto; caras de alegría, rabia y tristeza con fotograma. **Faltan miedo y vergüenza** con fotograma |
+| 14 | Poses analizadas con minuto | ✅ | §15: 6-9 poses por personaje; las de Kakashi, Naruto, Jiraiya e Iruka corregidas en fotograma |
+| 15 | Vestuario con hex | ✅ | §16: medido con `estilo.py` (Sasuke, Sakura, Akatsuki, Iruka corregidos). Siguen ⚠️ las gafas de Naruto niño, la bandana negra de Shippuden y las uñas de Itachi |
+| 16 | Paisajes y fondos de pantalla | ✅ | §17: 11 sitios con imagen y tamaño; Wallhaven con tamaño y autor; la web oficial no da descargas (comprobado) |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos fijos con hex, palabras que ayudan y estropean, referencias, frases reales por emoción y vocabulario de gestos |
+| 18 | Estilo y técnica, cómo replicarlo | ⚠️ | Punto 18: G-pen, Photoshop y Blender con rigs libres. **No hay fuente** de qué programa usó Pierrot (sólo el estándar de la época) |
+| 19 | Texturas 2D | ✅ | Punto 19: tramas, papel, tela y emblemas; los emblemas no tienen versión libre (comprobado) |
+| 20 | Gustos y detalles | ✅ | Punto 20: databook vía Narutopedia + AniList para los 6 del encargo |
+| 21 | Por qué la aman y escenas que hacen llorar | ✅ | Punto 21: ventas, MAL, Reddit con votos, escenas con minuto. Ningún premio grande ganado (buscado) ⚠️ |
+| 22 | Fan dubs y comunidad hispana | ✅ | Punto 22: fandubs y covers con canal, duración y vistas; retos de SDV. Vistas de YouTube no disponibles ⚠️ |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | Punto 23: Fortnite, Monster Strike, UNIQLO, Awaji, S.H.Figuarts, cosplay CC BY. Sin café temático oficial (buscado) |
+| 24 | Obras parecidas | ✅ | Punto 24: Big Three, influencias de Kishimoto, JJK, láminas del servidor |
+| 25 | Mundo, historia y símbolos | ✅ | Punto 25: reglas, arcos, emblemas, anillos, vocabulario, con dos fuentes |
+| — | 3 conceptos de lámina | ✅ | §19: A cascabeles, B décima pregunta (pose corregida), C Ichiraku |
+| — | 40 fuentes distintas | ✅ | Más de 60 dominios enlazados en el cuerpo (§21.4) |
+| — | Tipos de fuente | ⚠️ | Oficiales, japonés, wikis, Reddit, arte, vídeo, GitHub, doblaje: sí. **Coreano y chino**: sólo *Naruto Mobile* (Tencent), sin tipografía propia. TV Tropes y TCRF directos, 403 |
+| — | Hojas de contacto | ✅ | 3 JPEG en `hojas/` (objetos_01, personajes_10, personajes_11), de menos de 3 MB |
+| — | `referencias.json` | ✅ | **262** referencias: las 38 de la primera pasada, las 41 de las partes y las 192 del recolector, sin repetidas, las mejores primero |
 
 ---
 
@@ -1755,3 +2093,40 @@ story mode dialogue».
 - Capturas de **Game UI Database**.
 - La letra de los **globos del manga** en español.
 - **Hojas de modelo** del anime.
+
+### 21.6 Segunda pasada (25-sep-2026)
+
+- **Imagen**: `seccion.py --rol imagen` y `--avisos`; `estilo.py` sobre
+  `Sasuke_Part_I.png`, `Sakura_Part_1.png`, `Edo_Itachi_NXB.png`,
+  `Itachi_Akatsuki_Mobile.png` e `Iruka_full.png` (API de Narutopedia);
+  WebFetch a naruto-official.com; 10 búsquedas (es, en): Fortnite, UNIQLO
+  UT, Ichiraku real, USJ, Monster Strike, cosplay, S.H.Figuarts, tramas
+  libres, símbolo de Konoha libre, café temático (sin resultado).
+  ArtStation dio 403.
+- **Vídeo**: `fotogramas.py` sobre `archive.org/download/naruto-completo`
+  (N001, N005, N025, N086) y `naruto-shippuden-lat` (86, 135; sólo llega
+  al 441); Dailymotion (opening x88r3bd, «ending» x1fsiw = AMV, tráiler
+  x8bc8i2); color medido con Pillow; MusicBrainz (OST vol. I, 21 pistas);
+  7 búsquedas (es, en, ja: «岸本斉史 出身 ナルト 木ノ葉隠れ 元ネタ», sin
+  resultado).
+- **Voz**: Doblaje Wiki por la API; AniList; ANMTV 2021; Fandoblaje Wiki;
+  daddyjim.ai; Narutopedia *Trivia* (databook) de los 6 personajes; Jikan
+  (MAL); Arctic Shift (r/Naruto: «Jiraiya death», «made me cry»);
+  Dailymotion API y `fotogramas.py --cortes` (dos clips). YouTube: «no
+  soy un robot»; AnimeThemes: error 522; Doblaje Wiki sin plantillas
+  `{{Sample}}` de audio.
+- **Texto**: Narutopedia API («Jinchūriki», «Forehead Protector»,
+  «Akatsuki»); Sketchfab API (4 rigs); búsquedas en inglés (influencias,
+  Pierrot, G-pen, tramas, naturalezas, arcos, Big Three, JJK, letras de
+  VIZ, alternativa a Anime Ace) y en español (Kishimoto y Takahashi,
+  rotulado de Panini). TV Tropes: 403 con `curl` y fallo de certificado
+  con `navegar.py`.
+- **No encontré**: café temático oficial; tamaños de la galería oficial;
+  letra de Panini; programa de Pierrot; premio grande ganado; caras de
+  miedo y vergüenza; fotograma de Itachi en S135; ending oficial mirado;
+  segunda fuente de «Konoha = Nagi»; vistas de los fandubs de YouTube.
+- **Redactor**: juntó las cuatro partes, aplicó las correcciones (pose de
+  la 10.ª pregunta, noche del «¡Aprobados!», vendas de Sasuke, `#85223F`,
+  `#58262D`/`#9B3E35`, «Never Ending Spirit» descartado), escribió los
+  puntos 17 (IA de texto), 18-25, la tabla de cumplimiento y amplió
+  `referencias.json`.
