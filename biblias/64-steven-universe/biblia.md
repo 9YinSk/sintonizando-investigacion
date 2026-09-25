@@ -690,3 +690,203 @@ Hex medidos con Pillow en las **fichas de producción** del punto 1 (zona plana 
 Los de «sin origen» sólo como referencia de ambiente: no se sabe quién los pintó.
 
 **Para reconstruir en Blender:** el Big Donut ya está modelado (CC BY, Kekê). Texturas CC0 del punto 4 (Wood095, Ground054/080, Rock064).
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Hecha por el redactor con los datos de los puntos 1-16. Sirve para Firefly, Canva u otra IA de imagen, y para una IA de texto que escriba en su voz.
+
+### Para una IA de imagen
+
+**El estilo en una frase:** personajes de **color plano** con **línea oscura limpia**, sobre **fondos pintados a pincel**, pastel y con **grano** suave.
+
+**Lo que nunca cambia**
+- **Línea:** contorno oscuro, más grueso por fuera y más fino dentro (cejas, boca, pliegues); el grosor varía con el trazo · ⚠️ (análisis de [Isaac Gordon](https://isaacgordon50.wordpress.com/2015/10/17/steven-universe-character-style-analysis/), coincide con las hojas).
+- **Sombra:** casi ninguna en los personajes; sólo con luz dramática · `estilo.py` dio «sombreado plano (cel), poca línea» en las 4 fichas medidas ✅.
+- **Fondos:** pincel visible tipo gouache, colores desaturados y brillos fuertes; **silueta antes que contorno** · [Chromosphere](https://chromosphere-la.com/case-study/steven/) ✅
+- **Grano** en toda la imagen, incluso en los efectos hechos por ordenador · Chromosphere ✅
+- **Color:** Beach City cálida y familiar; el espacio y Homeworld, fríos y extraños (el *color script* de Elle Michalka) · ✅
+- **Formas:** Garnet cuadrada, Amatista redonda, Perla cono · ✅
+
+**Rasgos fijos de cada uno** (con los hex del punto 15):
+- **Steven:** niño bajo y robusto, pelo castaño oscuro rizado, camiseta salmón `#FF5E6D` con estrella `#FFDE3F`, vaqueros `#1974A2` con vuelta, chanclas salmón, gema rosa en el ombligo. Ojos negros; **pupilas de estrella** cuando se emociona.
+- **Garnet:** muy alta (2.21 m), afro cúbico violeta, piel `#A53A84`, gafas de sol, mono `#000035` con hombreras `#CD1AAE`, guanteletes `#B50535`. Tres ojos (rojo, azul y morado) si se quita las gafas. Gemas en las palmas.
+- **Perla:** alta y delgadísima, piel `#F8F4E1`, nariz puntiaguda, pelo corto salmón, perla en la frente, top `#8DDACD` con estrella `#E0FF87`, lazo `#69F4E2`, falda-short `#F9D27D`. Postura de bailarina.
+- **Amatista:** baja y ancha, piel `#B898CC`, pelo `#DCD3EF` hasta el suelo, top `#232229`, gema `#CF67FE` en el pecho, short `#657188` con estrellas.
+
+**Luz**
+- Día: muy lavada, casi pastel (brillo 93%, saturación 20%, `GG` 0:10).
+- Atardecer: `#17251E` `#F7F6CE` `#ECD2A3` `#CD8891` (`GG` 11:00).
+- Interior: cálido de tarde (`GG` 3:30).
+
+**Encuadre:** la cara manda; el pelo y el cuerpo llevan la mirada a ella. Las fusiones y los momentos de poder, **centrados, frontales, de cuerpo entero**, con luz de abajo o de atrás · ⚠️ (análisis de fans).
+
+**Palabras que ayudan** (en inglés, que las IA entienden mejor):
+`flat colors, clean thin dark outline, no rendering, pastel gouache painted background, visible brush strokes, soft film grain, warm sunset, 2010s TV cartoon, full body, simple shapes`
+Y el vocabulario de Danbooru (punto 15): `toon (style)`, `gem (steven universe)`, `colored skin`, `forehead jewel`, `star (symbol)`, `afro`, `sunglasses`, `third eye`.
+
+**Palabras que lo estropean:** `anime`, `manga` (Danbooru tiene una etiqueta propia, `animification`, para los dibujos de estos personajes pasados a anime: es justo lo que no se quiere); `realistic`, `detailed shading`, `glossy`, `3D render`; `slim`, `thin waist`, `sexy` (adelgazar es lo que más enfada al fandom, punto 12); `speech bubble`, `chibi`, `sweat drop` (la serie no usa ese vocabulario del anime).
+
+**Imágenes de referencia**
+- **Estilo del fondo:** la [color key de Beach City](https://static.wikia.nocookie.net/steven-universe/images/4/4f/Beach_City_Color_Key.jpg) y el atardecer de `GG` 11:00.
+- **Estilo del personaje:** las 4 fichas de producción del punto 15 (fondo transparente).
+- **Pose:** punto 14. Las mejores: Garnet chasqueando (`STY` 2:42), Perla con la mano abierta (hoja n.º 15), Steven con la caja (`GG` 1:20), Amatista con el puño (hoja n.º 5).
+- **Grupo:** hoja n.º 47 (Garnet, Amatista y Steven), n.º 42 (Greg, Amatista y Steven en el sofá).
+
+**Prompt de ejemplo** (fondo sin personaje, para meter luego el recorte con `v3/integrar.py`):
+> `seaside boardwalk town at sunset, pastel gouache painted background, visible brush strokes, soft film grain, cream sky #F7F6CE, pink clouds #CD8891, dark green cliff silhouette #17251E, warm sand #ECD2A3, no characters, 2010s TV cartoon background`
+
+### Para una IA de texto
+
+**Reglas de la voz latina** (doblaje venezolano, Etcétera Group):
+- **Tutean**: «Para que existieras tú», «Si tú nos separas» (Garnet.ogg) · ✅
+- Frases enteras, sin jerga de ningún país. Exclamaciones con ¡! al empezar la frase.
+- **Nada de onomatopeyas escritas** tipo cómic: la serie no las usa.
+
+| Personaje | Cómo escribirle | Qué evitar |
+|---|---|---|
+| **Steven** | frases cortas y cálidas; consuela con cosas de todos los días (la comida, el pueblo); se entusiasma; a veces habla de sí mismo en tercera persona | el sarcasmo, el rencor |
+| **Garnet** | pocas palabras; **afirmaciones, nunca preguntas**; habla de unión y de fusión; seguridad tranquila | preguntar, dudar, gritar |
+| **Amatista** | ruidosa, con bromas y comida; suelta palabras en español de broma («¡No, mi torta!»); cuando se enfada, grita sobre sí misma | la solemnidad |
+| **Perla** | explica largo y con palabras cultas; se dirige a Steven por su nombre («¡Oh, Steven!»); un poco por encima de los humanos; se agobia cuando algo se desordena | la comida, el desorden |
+
+**Frases reales, por emoción** (✅ = oída en latino con `voz.py`; EN = original en inglés de las fichas, sin versión latina en las partes):
+
+| Emoción | Frase | Quién | Fuente |
+|---|---|---|---|
+| **Alegre, orgullosa** | «Cuando dos gemas se combinan crean algo más grande que la suma de sus partes, por eso soy tan genial» | Garnet | Garnet.ogg 0:00 ✅ |
+| Alegre | «Who needs to go see movies when you've got MAGIC?» | Amatista | *Guide to the Crystal Gems*, hoja n.º 2 · EN |
+| Alegre (gag) | «Cheeseburger backpack!» (cantado en bucle) | Amatista y Perla | punto 12 · EN |
+| **Enfadada** | «¡Nunca pedí ser lo que soy! ¡Nunca pedí ser creada!» | Amatista | Amatista.ogg 0:00 ✅ |
+| Enfadada (broma) | «¡No, mi torta!» | Amatista | Trivia, en español en el original ✅ |
+| **Explicando** | «¡Oh, Steven! Los humanos tienen una vida tan corta, aburrida e insignificante que inventan historias para sentir que forman parte de algo más grande» | Perla | Perla.ogg 0:00 ✅ |
+| Explicando | «…no entienden que es una compleja red de fuerzas interrelacionadas que nadie puede controlar» | Perla | Perla.ogg 0:07 ✅ |
+| **Animando** | «Este no es el mismo mundo que te mantuvo atrapada, ya no lo es» · «Y sé que no se siente como un hogar, pero tal vez eso pueda cambiar» | Steven | Steven.ogg 0:13 · 0:17 ✅ |
+| Animando (cantado) | «Si tú nos separas nos uniremos, y siempre seremos mejores que tú» | Garnet | Garnet.ogg 0:25 ✅ |
+| **Triste** | «Para que Amatista pudiera ser ella, para que Perla fuese libre y para que pudiéramos estar juntas» · «Para que existieras tú» | Garnet | Garnet.ogg 0:12 · 0:18 ✅ |
+| Triste | «Sí, pero nada permanece en la tierra, las cosas siempre están cambiando» | Steven | Steven.ogg 0:00 ✅ |
+
+⚠️ No hay frase latina de Perla triste en las partes («It's Over, Isn't It» no se transcribió en español).
+
+**Vocabulario de la serie** (lo que un fan reconoce):
+- En latino, oído: **Gemas de Cristal**, **Diamante Rosado** (Garnet.ogg 0:06; ⚠️ transcrito por Whisper), **Rose Cuarzo**, **Lapislázuli**, **Diamante Amarillo / Azul / Blanco**, **Ópalo**, **Cuarzo Arcoíris 2.0**, títulos «Escape de la Prisión», «El Señor Greg», «Taladro Gema», «Conoce tu Fusión».
+- En inglés, sin versión latina comprobada (⚠️ no usarlos traducidos a ojo): *poof*, *shatter* (fragmentar), *bubble* (burbujear), *Homeworld*, *corrupted Gem*, *Kindergarten*, *Cheeseburger Backpack*, *Cookie Cat*, *Big Donut*, *Beach City*.
+
+**Vocabulario de gestos para la IA de imagen** (lo que sí sale en la serie):
+- **ojos de estrella** = emoción y admiración (`STY` 0:54).
+- **una lágrima brillante con los ojos muy abiertos** = tristeza contenida (`IOI` 2:10).
+- **Steven todo rosa y brillando** = rabia o descontrol (hoja n.º 142; escudo de hexágonos rosa, n.º 153).
+- **destello geométrico en las manos** = sacar el arma (`GG` 3:30).
+- **burbuja rosa translúcida** = guardar algo o a alguien sin hacerle daño (`STY` 4:09).
+- **nube de humo y la gema sola** = *poof*.
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Cómo se hizo la serie**
+- **Guion gráfico en *Toon Boom Storyboard Pro*** · [Toon Boom](https://www.toonboom.com/top-animation-news-the-dragon-prince-steven-universe-and-more) + [Mundo Toon](https://www.mundotoon.net/en/toon-boom-the-software-behind-the-worlds-most-acclaimed-animations/) · ✅
+- **Animación final en Corea del Sur**: los estudios **Sunmin Image Pictures** y **Rough Draft Korea** · [Sunmin](https://steven-universe.fandom.com/wiki/Sunmin_Image_Pictures) + [Rough Draft Korea](https://steven-universe.fandom.com/wiki/Rough_Draft_Korea) + Wikipedia · ✅
+- ⚠️ Que se entintara y coloreara en *Toon Boom Harmony* **no está confirmado** (sólo hay tutoriales de fans).
+- **Secuencias de la película** (intro, portada del vinilo): **Chromosphere** usó **After Effects** para componer y **Blender** para piezas 3D (la gema que gira en el *teaser*). El libro de cuentos se montó en After Effects. Mezclaron 2D y 3D en la misma escena · [Chromosphere](https://chromosphere-la.com/case-study/steven/) · ✅
+- **El agua**: probaron animarla a mano y lo descartaron; usaron formas de After Effects con deformación de malla y **ruido en el alfa**, para que quedara geométrica y **con grano** · Chromosphere · ✅
+- **Diseño por formas (Bauhaus y Kandinsky)**: Garnet = cuadrado («la más estable»), Amatista = círculo («fluida»), Perla = cono («fija en su orientación») · del artbook *Art & Origins*, resumido en [Gizmodo](https://gizmodo.com/the-coolest-details-from-steven-universes-gorgeous-new-1797017304) y [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe) · ✅
+- **Guiones de color** de la directora de arte **Elle Michalka**: cálido y brillante al empezar una secuencia, frío y oscuro al acabar; lo conocido de Beach City frente a lo raro del espacio · Chromosphere · ✅
+
+**Línea, color y sombra** (medido y visto):
+- Personajes: color plano, una sola sombra si acaso; línea oscura, gruesa fuera y fina dentro · ✅ `estilo.py` + ⚠️ el análisis de la línea es de un blog.
+- Fondos: pincel visible, desaturados, brillos cegadores, silueta antes que contorno · ✅
+- Degradados: sólo en atardeceres, gemas y luz; se mezclan a pincel, no con la herramienta de degradado · ⚠️ tutorial de fan ([Redbubble](https://blog.redbubble.com/2019/07/how-to-steven-universe-characters-anushbanush/)).
+
+**Cómo replicarlo en Photoshop** (receta del redactor con lo de arriba; ⚠️ recomendación, no dato de producción):
+1. **Capas:** Línea · Color plano · Sombra plana (Multiplicar, un solo tono, sin degradado) · Brillos sueltos (Trama o Superponer) · **Grano** (ruido monocromo al 3-6%, Superponer).
+2. **Pinceles:** uno duro al 100% sin textura para el contorno, con grosor por presión; uno fino para los detalles de dentro.
+3. **Efectos de gema y energía:** pincel de mezcla suave con dos tonos; nunca un degradado recto.
+4. **Fondo:** pintar a pincel con papel de fondo (Paper006, punto 19) y bajar la saturación; dejar un brillo fuerte.
+
+**Cómo replicarlo en Blender**
+- **Contorno:** Solidify invertido (normales hacia fuera, material negro) o **Line Art/Freestyle** para afinar la línea con la cámara. Mezclar render de Blender con línea y color hechos después en Photoshop **es lo que hizo el propio estudio** (Chromosphere) · ✅
+- **Sombreado plano:** *Shader to RGB* → *Color Ramp* de 2-3 pasos en «Constant» (bordes duros).
+- **Luz:** una luz de área grande y suave y un relleno tenue del color contrario (cálido y frío, como los guiones de color). Render en **Eevee**; el grano, después, en composición.
+- **Modelos libres:** el **Big Donut** (Kekê, CC BY) y el **grupo de las 4 Gemas + Spinel** (RazyBerry, CC BY) en Sketchfab (punto 3). ⚠️ No se comprobó si traen esqueleto (*rig*); no se encontró un *rig* oficial ni libre.
+
+**Encuadres típicos**
+- La cara es el centro de casi todo plano de personaje · ⚠️ una fuente.
+- Fusiones y transformaciones: plano heroico, simétrico, frontal, cuerpo entero, luz de abajo o de atrás · ⚠️ visto en las hojas, sin fuente de producción.
+- Emoción íntima: primer plano, un solo personaje recortado contra un fondo desenfocado (`IOI` 2:10: Perla con la ciudad en *bokeh* azul-violeta) · ✅ visto.
+- Momento de equipo: plano general con las cuatro siluetas distintas (`GG` 10:20, `GG` 10:40-11:10).
+
+## Punto 19 · Texturas 2D
+
+La serie tiene dos capas: **personajes lisos** (color plano) y **fondos con pincel y grano**. No hay tramas de manga en la animación.
+
+| Capa | Cómo es en la serie | Equivalente libre | Licencia |
+|---|---|---|---|
+| **Papel y grano de fondo** | pincelada tipo gouache en nubes, hierba y rocas ([color key](https://static.wikia.nocookie.net/steven-universe/images/4/4f/Beach_City_Color_Key.jpg)) | **Paper006** · https://ambientcg.com/view?id=Paper006 | CC0 ✅ |
+| **Grano de película** | presente hasta en los efectos por ordenador (Chromosphere) | ruido monocromo en Photoshop (punto 18) | propio |
+| **Facetas de gema** | facetas triangulares con un **brillo de estrella de 4 puntas** en el centro; la de Amatista en 12 versiones (hojas n.º 17-28), la rosa pentagonal de Rose y Steven (n.º 158-159) | no hay una CC0 igual; vectores de cristal facetado en Vecteezy | ⚠️ licencia por archivo |
+| **Escudo de hexágonos** | el escudo del estado rosa, panal de hexágonos lila (hoja n.º 153) | dibujarlo con la cuadrícula de hexágonos de Illustrator o Photoshop | propio |
+| **Tela vaquera** | shorts de Amatista, vaqueros de Steven | **Fabric081C** · https://ambientcg.com/view?id=Fabric081C | CC0 ⚠️ genérica |
+| **Estrellas** | la estrella de 5 puntas `#FFDE3F` de Steven se repite en los guanteletes de Garnet, el escudo y el top de Perla; estrellas negras en el short de Amatista | dibujarla (forma simple) | propio ✅ |
+| **Trama de cómic** | puntos de *halftone* en algunas portadas de BOOM! ([#1 de 2017](https://static.wikia.nocookie.net/steven-universe/images/4/45/Boom_2017_001_A.jpg)) | pinceles de *halftone* de Clip Studio Assets o Krita | ⚠️ sin comprobar un paquete CC0 |
+| **Escritura del mundo** | **Gem Glyph** en carteles y columnas | las [notas de Steven Sugar](https://static.wikia.nocookie.net/steven-universe/images/2/27/The_Reef_gem_glyph.webp) (629×617) y el [banner de Homeworld](https://static.wikia.nocookie.net/steven-universe/images/7/7d/Homeworld_banner_zoomed_in.PNG) (366×516) como modelo | © CN, sólo referencia |
+| **Emblema** | la **estrella de 5 gemas** de la Puerta del Templo (rosa, crema, morada, roja, azul) | [Better Temple Door](https://static.wikia.nocookie.net/steven-universe/images/e/eb/Better_Temple_Door.png) (1953×3105) como modelo | © CN, sólo referencia |
+
+- **Texturas reales** (madera, arena, roca) en el punto 4. **Modelos 3D** en el punto 3.
+- ⚠️ **No hay logo oficial en alta** en la wiki (sólo el favicon). Para la cabecera, usar la letra **Crystal Universe** (punto 5) o la estrella de Steven.
+- ⚠️ No se encontró un paquete de pinceles CC0 de gouache ni de facetas: hay que comprobar la licencia de cada uno antes de usarlo.
+
+## Punto 20 · Gustos y detalles
+
+De la sección «Trivia» de cada ficha de la wiki, leída entera · ✅ salvo que se diga.
+
+| | **Steven** | **Garnet** | **Amatista** | **Perla** |
+|---|---|---|---|---|
+| **Cumpleaños / edad** | **15 de agosto** (el de Steven Sugar, hermano de la autora, en quien se basa); Leo; su piedra de nacimiento es el peridoto | — | unos **5500 años**: la más joven de las Gemas de Cristal originales | unos **8000 años** (por un diálogo) |
+| **Altura** | **1.68 m y 65.8 kg** a los 16 (el único con medidas oficiales) | **2.21 m** (7'3", tuit de Cartoon Network para la NBA) | baja | alta |
+| **Comida** | cocina muy bien; le gusta la **sopa de tomate** («Bluebird»); los **Cookie Cat** (abraza la caja en `GG` 1:20) | casi no come, «pero le gusta a veces»; **café** en el desayuno («Future Vision») | **come de todo** y disfruta la digestión | **odia comer** («el proceso digestivo me da asco», «Fusion Cuisine»); le gusta el **té** y hacer pastel, no comerlo |
+| **Aficiones** | dibujar (mal, es un chiste), cocinar, videojuegos (Nintendo 64, GameCube, Game Boy, PS2; *Zelda: Wind Waker*, *Animal Crossing*), su canal «TubeTube» de cocina | tocar el **keytar**; su música favorita es la de Estelle, su actriz | la lucha libre (Purple Puma), dormir, la **batería** | **colecciona espadas**; esgrima; baile |
+| **Lo que odia** | los **taparrabos** («Gem Heist»); es alérgico al polen («Warp Tour») | — | que le den órdenes | el desorden; los **chalecos salvavidas** le parecen «ridículos» |
+| **Lo que siempre lleva** | el **ukulele**; la gema en el ombligo; el escudo | los **guanteletes** y las **gafas** | el **látigo** | la **lanza** |
+| **Cómo se ve a sí mismo** | quiere ayudar a todos y calla lo suyo («Prickly Pair») | segura; es una relación, no sólo una Gema | **inferior** a las otras (Kindergarten) | «inútil» sin alguien a quien seguir |
+| **Detalles** | se marea con los giros; habla de sí en tercera persona | **nunca pregunta**; heterocromía | **orina en el mar** «porque es divertido»; su cuarto es «el más parecido a la vida real de Rebecca Sugar»; habla español | **ambidiestra**; no tiene carné de conducir ni papeles |
+
+Fuentes: [Steven](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)#Trivia) · [Garnet](https://steven-universe.fandom.com/wiki/Garnet#Trivia) · [Amatista](https://steven-universe.fandom.com/wiki/Amethyst#Trivia) · [Perla](https://steven-universe.fandom.com/wiki/Pearl#Trivia).
+
+- **La ficha oficial de Amatista** en *Guide to the Crystal Gems* (hoja n.º 2): Species Gem · Gem Type Quartz · Alignment Crystal Gem · pelo lavanda pálido · leggings con estrellas en las rodillas y camiseta ancha · gema en el pecho · arma el látigo · frase favorita «Who needs to go see movies when you've got MAGIC?» · ✅ visto.
+- ⚠️ Faltan: cumpleaños de las tres Gemas (no aparecen), altura exacta de Amatista y Perla, y comida favorita concreta de Garnet.
+- **Favoritos del equipo:** Garnet es la de Ian Jones-Quartey; Steven, la de Joe Johnston · ✅
+
+## Punto 21 · Por qué la aman
+
+**Premios y notas**
+- **Peabody** (2019) y **GLAAD Media Award** a mejor programa infantil y familiar (2019): la **primera serie animada** en ganar un GLAAD. 5 nominaciones al Emmy y 5 a los Annie · [BroadwayWorld](https://www.broadwayworld.com/bwwtv/article/STEVEN-UNIVERSE-Wins-GLAAD-Media-Award-for-Outstanding-Kids-Family-Programming-20190329) + [IMDb](https://www.imdb.com/title/tt3061046/awards/) · ✅. Foto del discurso de los Peabody (CC BY-SA 3.0, 1600×900) · https://upload.wikimedia.org/wikipedia/commons/1/15/Steven_Universe_-_78th_annual_Peabody_Awards_acceptance_speech.jpg
+- **100%** de la crítica (49 reseñas) y **84%** del público (más de 500 votos) en [Rotten Tomatoes](https://www.rottentomatoes.com/tv/steven_universe), comprobado el 25-sep-2026 · ✅
+- El disco *Volume 1*, **n.º 1 en iTunes** y en la *Billboard 200* (punto 9) · ✅
+
+**Las razones, en concreto**
+1. **Representación LGBT pionera** en la tele infantil: el compromiso y la boda de Rubí y Zafiro; Stevonnie leída como no binaria · [Wikipedia](https://en.wikipedia.org/wiki/Cartoon_Network_and_LGBTQ_representation) + [Autostraddle](https://www.autostraddle.com/steven-universe-and-the-importance-of-all-ages-queer-representation-281482/) · ✅
+2. **Cuerpos diversos**: Amatista, Garnet y Rose, anchas, son heroínas fuertes. Muchas personas gordas se vieron por fin representadas · [The A.V. Club](https://www.avclub.com/how-steven-universe-s-fat-bodies-helped-me-draw-my-own-1845830394) · ⚠️ una fuente central.
+3. **Temas adultos en 11 minutos**: duelo, trauma, identidad, salud mental, sin tratar al niño como tonto · ⚠️ resumen de reseñas.
+4. **La música**: más de 38 canciones cantadas por Steven · ✅
+
+**Con quién se identifica el público:** con **Perla** (la más dibujada: perfeccionista y rota, punto 7), con **Amatista** (el público gordo y quien se siente «defectuoso») y con **Steven de *Future*** (el trauma y la terapia) · ⚠️ interpretación del redactor con los datos de los puntos 7, 13 y 25.
+
+### Las escenas que hacen llorar
+
+**«It's Over, Isn't It»** (T3, «Mr. Greg», ep. 86) · `IOI` · ✅ visto
+- **Qué pasa:** Perla, con esmoquin, recuerda un baile con Rose (una silueta azulada entre pétalos) y canta que sigue enamorada de quien ya no puede quererla.
+- **Minuto:** 2:00 mira abajo con una rosa; **2:10 una lágrima** baja por su mejilla, ojos muy abiertos y brillantes.
+- **Cómo está dibujada:** noche azul y violeta, la ciudad desenfocada detrás (*bokeh*), Perla sola en primer plano recortada contra el cielo. Encuadre íntimo que la aísla.
+- **Por qué duele:** es el amor no correspondido de alguien que se cree «inútil» sin su líder (punto 13).
+- **Reacción:** de los temas más escuchados del disco · ⚠️ (el hilo de Reddit de «canción más icónica» habla más de «Love Like You»).
+
+**«The Answer»** (animatic oficial, `ANS`) · ✅ visto
+- 8:56-9:12 Rubí y Zafiro se dan la mano por primera vez; 11:04-11:20 brillan y nace Garnet. Es el origen de la pareja: llora quien lo ve por lo que significa, no por tristeza.
+
+⚠️ No se miraron otras escenas que suelen hacer llorar (el final de la T5, *Future*): el hilo «la mejor escena del final» tiene 1090 votos, pero no se vio.
+
+### Las que hacen gritar de emoción
+- **«Stronger Than You»** (`STY`): 2:42 Garnet **chasquea los dedos** y sonríe; 3:09-3:15 el puñetazo en vuelo; 4:09 Jasper encerrada en la burbuja rosa. Suena la canción de Estelle. Nave verde veneno, acción en planos cortos · ✅ visto.
+- En Reddit: «Rose burlándose de White Diamond es icónico» (1576 votos) · ⚠️ no visto.
+
+### Las que hacen reír
+- **«Cheeseburger Backpack»** (T1-E3): Amatista y Perla cantando el nombre de la mochila · ✅ (punto 12)
+- **Amatista** con Cookie Cat (`GG` 4:00) y su «¡No, mi torta!» en español.

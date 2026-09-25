@@ -12,7 +12,7 @@ fecha: 2026-09-24
 >   YouTube, Sketchfab, Steam, Game UI Database** y las webs de letras
 >   daban 403. Por eso **no se pudo correr** `herramientas/investigar_serie.py`:
 >   **no hay hojas de contacto** ni carpeta `hojas/`.
-> - Hice **48 búsquedas web** en español e inglés (lista en §21).
+> - Hice **48 búsquedas web** en español e inglés (lista en §30).
 > - Lo más útil salió de **GitHub**: los **subtítulos con tiempos** de 9
 >   temporadas ([1440kHz/sbsp-chs-eng-sub](https://github.com/1440kHz/sbsp-chs-eng-sub)).
 >   Con ellos doy el **minuto de cada escena** de Don Cangrejo y la caja.
@@ -26,6 +26,12 @@ fecha: 2026-09-24
 >   Puede moverse uno o dos minutos según la copia.
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto,
 >   o lo vi y medí yo. ⚠️ **dudoso**: una sola fuente, o de memoria.
+
+---
+
+## Segunda pasada · qué cambió
+
+_(pendiente)_
 
 ---
 
@@ -49,7 +55,7 @@ tiene que dejar claro qué NO va aquí: noticias sin precio.
 - «**Con el precio en soles**»: el público es de Perú y de toda
   Latinoamérica. La lámina tiene que enseñar un precio escrito como se
   escribe en Perú: **S/ 12.90** (símbolo «S/» y punto decimal) ⚠️. Antes de
-  rotular, copiar el formato exacto de una captura de Steam Perú (ver §20).
+  rotular, copiar el formato exacto de una captura de Steam Perú (ver §28).
 - «**Los gratis caducan: reclámalos**»: es un aviso con prisa. En la serie
   la prisa la pone el **Narrador Francés** con sus tarjetas de tiempo
   («Unos momentos después…», «Dos horas después…»).
@@ -67,7 +73,7 @@ Una idea cada uno, sin «·», «—» ni paréntesis:
 | 5 | **Los gratis caducan** | aviso |
 | 6 | **Reclámalos** | acción |
 | 7 | **Las noticias van en noticias-gaming** | qué no va aquí (sale del inventario) |
-| 8 | Frase del personaje, en su voz (ver §7 y §19) | gancho |
+| 8 | Frase del personaje, en su voz (ver §7 y §27) | gancho |
 
 ### Lámina 2 (si hace falta): cómo se publica una oferta
 
@@ -950,7 +956,55 @@ concha (§3.4).
 
 ---
 
-## 19 · Tres conceptos para la lámina de #ofertas-y-gratis
+## 19 · Estilo de dibujo y técnica, y cómo replicarlo
+
+_(pendiente)_
+
+---
+
+## 20 · Texturas 2D
+
+_(pendiente)_
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+_(pendiente)_
+
+---
+
+## 22 · Por qué la gente la ama
+
+_(pendiente)_
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+_(pendiente)_
+
+---
+
+## 24 · Colaboraciones, cruces, figuras y cosplay
+
+_(pendiente)_
+
+---
+
+## 25 · Obras parecidas y temas relacionados
+
+_(pendiente)_
+
+---
+
+## 26 · El mundo, la historia y sus símbolos
+
+_(pendiente)_
+
+---
+
+## 27 · Tres conceptos para la lámina de #ofertas-y-gratis
 
 Los tres usan los textos de §0. Donde pongo una frase «en su voz» es
 **traducción mía** del subtítulo inglés (no encontré la latina). Recortes
@@ -1067,7 +1121,7 @@ reconoce, pero lleva más dibujo.
 
 ---
 
-## 20 · Lo que no pude verificar
+## 28 · Lo que no pude verificar
 
 - **Cómo escribe Steam Perú el precio** (¿«S/ 12.90» o «S/.12.90»?) y el
   precio de hoy de *Titanes de la Marea*: Steam no abre desde aquí ⚠️.
@@ -1091,7 +1145,13 @@ reconoce, pero lleva más dibujo.
 
 ---
 
-## 21 · Bitácora de búsqueda
+## 29 · Cumplimiento del encargo
+
+_(pendiente: se rellena al final de la segunda pasada)_
+
+---
+
+## 30 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
 

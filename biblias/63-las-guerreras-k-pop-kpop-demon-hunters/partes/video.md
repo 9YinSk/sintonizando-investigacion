@@ -16,14 +16,21 @@ fotograma a fotograma con `fotogramas.py` (hojas en
 oficiales de Sony Animation en Internet Archive (llevan metraje real de la
 película, no sólo letras).
 
-- Tráiler oficial Netflix (Dailymotion, doblado del original en inglés): title card con 3 maniquíes
+- Tráiler oficial Netflix, en inglés (mirror en Dailymotion): title card con 3 maniquíes
   con vestuario de HUNTR/X (armario) · https://www.dailymotion.com/video/x9k1104?t=0 · ✅ (coincide con la escena de vestuario de la wiki) · 0:00
 - Rumi cantando a la cámara, luz violeta/verde azulada, plano muy cerrado · https://www.dailymotion.com/video/x9k1104?t=8 · ⚠️ · 0:08
 - **Escena icónica**: HUNTR/X (Zoey-Rumi-Mira) en pose de batalla con sus 3 armas invocadas
   (dagas de Zoey, espada de Rumi, gok-do/alabarda de Mira), niebla verde de neón,
   logo Netflix arriba a la derecha · https://www.dailymotion.com/video/x9k0bd2?t=24 (mismo plano en x9k1104?t=24) ·
   ✅ (coincide con la sección «Weaponry» de Mira/Zoey/Rumi en Fandom) · 0:24
-- Jinu (pelo azul) recibiendo/lanzando un rayo de energía púrpura en una calle nocturna · https://www.dailymotion.com/video/x9k1104?t=32 · ⚠️ · 0:32
+- Peatón con gorro y gafas absorto en el móvil mientras un rostro de demonio (ojos
+  amarillos, sombrero) emerge de un póster de «BOYS» y le lanza un rayo de energía
+  cian desde la boca — gag de robo de alma, no es Jinu (corrijo mi primera lectura
+  a baja resolución de la hoja de contacto) · https://www.dailymotion.com/video/x9k1104?t=32 · ⚠️ · 0:32
+- **Jinu, primer plano de presentación** (carismático, medio sonriendo, mirando a
+  cámara): pelo negro despeinado hacia un lado, un pendiente, marca de demonio
+  visible en el cuello (triángulo morado), chaqueta blanca a cuadros abierta, gente
+  con los puños alzados detrás fuera de foco · https://www.dailymotion.com/video/x9k1104?t=80 · ✅ (coincide con su descripción de «Appearance» en Fandom: pelo negro, tatuajes de marca demonio) · 1:20
 - Criatura pequeña semidesnuda (short blanco) frente a las 3 siluetas oscuras entre niebla verde-amarilla cenital (Gwi-Ma/imp cómico) · https://www.dailymotion.com/video/x9k1104?t=100 · ⚠️ (no identificado en wiki con ese nombre exacto) · 1:40
 - Saja Boys en fila, sombreros negros, siluetas a contraluz azul · https://www.dailymotion.com/video/x9k1104?t=64 · ✅ (coincide con su primera aparición en calle, «Love, Maybe») · 1:04
 - HUNTR/X en traje negro/dorado, público entre ellas fuera de foco, luz rosa fuerte · https://www.dailymotion.com/video/x9k1104?t=96 · ⚠️ · 1:36
@@ -238,6 +245,10 @@ Zoey = shin-kals (dagas arrojadizas), Mira = gok-do (alabarda/guja).
   blanco/dorado con botas altas de cordones · misma fuente · ✅ · 2:12
 - **Cierre/unidad**: caminando junto a Mira y Zoey, del brazo, una pierna flexionada en
   el aire (paso saltado), sonriendo, pelo suelto al viento · misma fuente · ✅ · 3:02
+- **Explicar/cantar (diss-track)**: de perfil, micrófono en alto junto a la boca,
+  boca abierta cantando, cabeza echada hacia atrás, coleta trenzada muy larga
+  (peinado distinto al habitual moño), chaqueta amarilla, foco cenital azul ·
+  https://archive.org/details/youtube-l8Dr7vzMSVE · ✅ · 1:48
 
 **Mira** (pelo rosa oscuro/magenta, bailarina principal):
 - **Pelear**: alabarda (gok-do) en alto con ambos brazos, capa roja al vuelo, mirada
@@ -245,6 +256,9 @@ Zoey = shin-kals (dagas arrojadizas), Mira = gok-do (alabarda/guja).
 - **Presentar en grupo**: alabarda apuntando hacia arriba en diagonal, top de dragón
   bordado, falda amarilla, de perfil respecto a cámara (siempre a un lado de Rumi) ·
   https://archive.org/details/youtube-QGsevnbItdU · ✅ · 0:54
+- **Regañar/confianza (gesto de guiño)**: puño cerrado junto a la sien, ceja alzada,
+  media sonrisa de lado, traje de cuero negro con detalles dorados del diss-track
+  «Takedown», pelo suelto muy largo · https://archive.org/details/youtube-l8Dr7vzMSVE · ✅ · 1:06
 
 **Zoey** (pelo negro con flequillo recto y moños trenzados, rapera/letrista):
 - **Regañar/advertir (mirada directa a cámara)**: primer plano, dagas gemelas de
@@ -266,6 +280,14 @@ Zoey = shin-kals (dagas arrojadizas), Mira = gok-do (alabarda/guja).
   de que se revelen sus caras · https://www.dailymotion.com/video/x9k1104?t=64 · ✅ · 1:04
 - **Bailar/celebrar en calle**: en corro alrededor de una integrante con capucha rosa
   (gag del humo/palomitas), brazos estirados hacia ella · https://archive.org/details/youtube-983bBbJx0Mk · ⚠️ · 0:24-0:42
+
+**Jinu** (demonio, cantante principal encubierto de los Saja Boys, pelo negro con
+flequillo, marcas de demonio moradas en el cuello y brazos):
+- **Presentar/seducir (carisma de ídolo)**: primer plano de perfil-tres cuartos,
+  medio sonriendo, mirando directo a cámara, chaqueta blanca a cuadros abierta
+  sobre el hombro, un pendiente visible, marca de demonio en el cuello ·
+  https://www.dailymotion.com/video/x9k1104?t=80 · ✅ (pelo negro, marcas confirmadas
+  en la sección «Appearance» de su ficha) · 1:20 (tráiler)
 
 Nota: la ficha detallada de personalidad, gestos cotidianos y expresiones faciales
 por emoción (puntos 7/12/13, con más fotogramas) le toca al investigador de voz y

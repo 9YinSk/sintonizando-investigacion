@@ -522,7 +522,7 @@ De [Wallhaven](https://wallhaven.cc), ya filtrados por el recolector. **Sólo Ta
 - 1920×1080, ♥57 y ♥50 · [76lepe](https://w.wallhaven.cc/full/76/wallhaven-76lepe.png) (ParanoidDollv2) y [vmjegm](https://w.wallhaven.cc/full/vm/wallhaven-vmjegm.png) (Okayama68). ⚠️ no mirados uno a uno.
 - 1920×1200, ♥53 · [8x8lm1](https://w.wallhaven.cc/full/8x/wallhaven-8x8lm1.png). ⚠️ no mirado.
 
-**Oficiales en alta**: visual de la película, 3502×4948 ([hoja 1 nº 1](https://static.wikia.nocookie.net/youjo-senki/images/1/12/Saga_of_Tanya_the_Evil_Movie_1st_Visual.jpg)); tercera visual, 2932×4332, Tanya con fusil y alas blancas detrás ([hoja 1 nº 2](https://static.wikia.nocookie.net/youjo-senki/images/3/36/Saga_of_Tanya_the_Evil_3rd_Visual.jpg)); arte a color de la novela, tomo 8, 4191×2248 ([hoja 1 nº 3](https://static.wikia.nocookie.net/youjo-senki/images/c/c3/Vol8_Color2.png)). ✅
+**Oficiales en alta**: visual de la película, 3502×4948 ([hoja 1 nº 1](https://static.wikia.nocookie.net/youjo-senki/images/1/12/Saga_of_Tanya_the_Evil_Movie_1st_Visual.jpg)); tercera visual, 2932×4332, Tanya con fusil y una figura alada de brazos abiertos detrás ([hoja 1 nº 2](https://static.wikia.nocookie.net/youjo-senki/images/3/36/Saga_of_Tanya_the_Evil_3rd_Visual.jpg)); arte a color de la novela, tomo 8, 4191×2248 ([hoja 1 nº 3](https://static.wikia.nocookie.net/youjo-senki/images/c/c3/Vol8_Color2.png)). ✅
 
 **Paisajes de fans con la luz de entreguerras** (sólo referencia):
 - Calle europea con lluvia, torre del reloj y **estandarte rojo del Imperio**; Tanya con abrigo y oficiales de espaldas. 1800×1200, de Kokoya_art ([imagen](https://safebooru.org/images/1344/94fa2e100cda808bb95309a3322e2a96abddf1e4.jpg), hoja de fondos nº 6). Grises azulados y un solo acento rojo. ⚠️ fan art.
@@ -531,3 +531,172 @@ De [Wallhaven](https://wallhaven.cc), ya filtrados por el recolector. **Sólo Ta
 **Cruces** (Isekai Quartet), para una lámina 2 cómica: oficial de la cuenta de la serie, 4096×2542 ([7312je](https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg), origen [@isekai_quartet](https://twitter.com/isekai_quartet/status/1115641595460587520)) y 10240×6400 ([vq3pgm](https://w.wallhaven.cc/full/vq/wallhaven-vq3pgm.jpg)). ✅
 
 ⚠️ No aparecieron fondos de fans en alta fuera de Wallhaven con tamaño comprobado.
+
+## 17 · Guía para IA de imagen y de texto
+
+Lo escribe el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquier IA. **La IA no sustituye a las referencias**: se le da una imagen de estilo y una de pose de las de abajo.
+
+### Para la IA de imagen
+
+**Rasgos de Tanya que nunca cambian**
+- Niña de **9 a 13 años**, bajita, cara redonda de muñeca ([AniList](https://anilist.co/character/121052)). **Nunca sexualizada**: ni poses ni ropa insinuantes.
+- Pelo **rubio ceniza** `#DED594`, corto por delante con un **mechón suelto arriba** (*ahoge*) y **coleta** atrás.
+- Ojos **azules grandes con brillo cian** `#86F1FF`. Dorados sólo en el trance del Tipo 95.
+- **Uniforme verde oliva casi negro** `#3D362D`, forro y ribetes rojos, **gorra de plato con banda roja** `#7B111A`, guantes negros, cruz de hierro, orbe rojo con latón al cuello.
+- Cara seria o sonrisa torcida. **Nunca una sonrisa tierna** sin amenaza detrás.
+
+**Visha**: chica más alta, pelo castaño cobrizo largo, ojos azules, el mismo uniforme; cara amable o asustada.
+
+**Paleta** (medida): negro cálido `#24201F`, bronce `#7C6D53`, gris perla `#BFC0B5`, verde musgo `#646559`, cielo crema `#E8E6CE`; acentos: fuego `#DE9F35`, rojo imperial `#B6231A`, oro `#FDC733`, magia cian `#63FFED`. **Saturación baja (19-31 %)**: la serie es gris y sepia.
+
+**Línea y sombreado**: línea fina **marrón oscura** `#474133`, no negra pura. Sombreado de 2 tonos, algo de degradado en el desierto y en el cielo. Viñeta oscura en los bordes. Manga: tinta limpia de 2-3 px y tramas de puntos.
+
+**Luz**: cielo cubierto sin dirección; el fuego o una lámpara es el único calor. Para amenazar, **luz desde abajo** (la explosión). De noche, bombillas o quinqué amarillos.
+
+**Encuadre**: contrapicado para mandar (T-7), primer plano con luz de abajo para amenazar (T-2), silueta de espaldas ante el incendio para lo épico (cap. 5, 1:00), gran plano de nubes para el vuelo.
+
+**Palabras que ayudan** (en inglés, que las IA entienden mejor):
+`young blonde girl officer, short hair with ahoge and small ponytail, big blue eyes, dark olive green WWI imperial German army uniform, M1910 Feldrock, peaked cap with red band, black gloves, iron cross, red jewel pendant with brass frame, 1910s interwar Europe, overcast sky, desaturated sepia palette, thin brown lineart, two-tone anime cel shading, vignette, cinematic low angle`.
+Del vocabulario de Danbooru (el que usan las IA de anime): `blonde_hair, blue_eyes, ahoge, hair_between_eyes, ponytail, military_uniform, hat, gloves, iron_cross, grin, teeth, looking_at_viewer` ([Danbooru](https://danbooru.donmai.us/posts?tags=youjo_senki)).
+
+**Palabras que lo estropean**: `cute, kawaii, pastel, sparkles, magical girl dress, chibi` (salvo Isekai Quartet), `sexy`, y todo lo nazi: `Nazi, swastika, SS, WW2`. El Imperio es de la **Primera** Guerra Mundial; su autor dice que en ese mundo «no habría lugar para un demagogo como Hitler» ([ANN](https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974)).
+
+**Referencias para darle a la IA**
+- De estilo: [hoja 1 nº 28](https://static.wikia.nocookie.net/youjo-senki/images/3/32/HorribleSubs-Youjo-Senki-10-1080p.mkv0044.jpg) (cara y gorra en 1080p), [hoja 1 nº 30](https://static.wikia.nocookie.net/youjo-senki/images/9/99/Tanya45.png) (luz de interior), visual de la película (hoja 1 nº 1).
+- De pose: T-1 a T-9 y H-1 a H-6 del punto 14; ficha oficial de cuerpo entero (hoja 2 nº 80).
+- Del escudo: [EmpireFlag.png](https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png).
+
+**Tres descripciones de ejemplo**
+1. *Explicar*: «Tanya de pie en un despacho de madera de noche, tablilla con pinza en la mano, gorra de plato, luz de quinqué a la izquierda, mirada seria a cámara, plano medio, paleta sepia.»
+2. *Amenazar*: «Primer plano en contrapicado, sonrisa de dientes, ojos que brillan, luz naranja de explosión desde abajo, humo gris detrás.»
+3. *Vuelo*: «Tanya en el aire entre nubes grises, inclinada hacia delante, fusil en una mano, orbe brillando, trazos de magia cian.»
+
+### Para la IA de texto
+
+**Cómo habla Tanya** (latino, Jocelyn Robles; japonés, Aoi Yūki)
+- Formal y burocrática, de **usted**. Habla como un jefe de personal: «costo-beneficio», «recurso», «incompetente», «eficiencia», «retaguardia».
+- Frases largas con subordinadas, como un parte. Pocas exclamaciones: **se enfada bajando la voz**, no gritando.
+- Por fuera, cortés y patriótica; **por dentro, sarcástica**. Su monólogo interior va en otra caja y en otro tono.
+- Grita sólo en combate o en arengas, y en alemán: «Los! Los! Los!», «Weiter! Weiter!».
+- Muletilla del cuartel alrededor de ella: «Sí, señor», «Mayor», «Cuento con usted».
+
+**Cómo habla Visha**: cálida, admirada, algo nerviosa; se sobresalta con signos de exclamación; cree en Dios y lo dice.
+
+**Frases reales, por emoción** (muestras de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Saga_of_Tanya_the_Evil) oídas con `voz.py`; minuto dentro de cada muestra)
+- **Explicando** (Tanya, narración del cap. 1): «En un mundo maldito, lleno de guerras continuas, había un país que era llamado Imperio.» [0:00] · «Poseía mentes militares brillantes y muchos magos.» [0:14]
+- **Animando** (Tanya): «De él, por su vasto poder militar e industrial, se decía: el Imperio es la victoria.» [0:06]. En inglés, película: «Glory to the Empire!» ([0:48](https://www.dailymotion.com/video/x96pfti?start=48)); la versión latina de esa frase no se encontró ⚠️.
+- **Con desdén** (el oficinista, José Gilberto Vilchis): «Sin embargo, soy mejor que el incompetente que está frente a mí.» [0:09] · «A diferencia de este incompetente, hablando de costo beneficio, yo me he vuelto muy valioso.» [0:14]
+- **Alegre y admirada** (Visha): «La teniente Tanya Degurechaff volaba firme, impasible, entre la lluvia de balas y proyectiles…» [0:00]
+- **Obediente** (Weiss): «Sí, señor. ¿Eliminamos a los enemigos restantes?» [0:00]
+- **Pánico** (Grantz): «¡Carajo! ¡Se ha vuelto loca!» [0:00] · «¡Maldita!» [0:05]
+- **Miedo del enemigo** (Drake): «Así que ella solo acabó con los bombarderos. Realmente es un demonio.» [0:11]
+- **Protocolo** (Mortiz-Paul von Han, a Tanya): «Alégrese, Mayor Degurechaff. Le informo que tiene usted una misión especial desde las 14:22 horas y aquí están los detalles.» [0:00] · «Requiere mucha agilidad. Cuento con usted.» [0:10]
+- **Triste**: ⚠️ no hay frase real triste en las partes. No inventarla.
+
+Ojo: el doblaje pronuncia el apellido de varias formas («Deguracheff», «Degureshaff» en algunos capítulos, según Doblaje Wiki). En texto escrito: **Tanya Degurechaff**.
+
+**Vocabulario de gestos** (para que la IA de imagen entienda cada emoción)
+- **Ojos dorados** = el poder de Being X, trance (cap. 5, 0:36).
+- **Halo dorado** = ángel falso, ironía (cap. 5, 2:24).
+- **Sonrisa de dientes con luz desde abajo** = amenaza (cap. 1, 0:40).
+- **Ojos azules enormes y brillantes** = inocencia fingida (cap. 5, 0:24).
+- **Ojos cerrados con taza humeante** = satisfacción (hoja 1 nº 30).
+- **Visha con ojos enormes y cejas arriba** = susto cómico (cap. 5, 0:48).
+- **Chibi**: sólo para Isekai Quartet. Gotas de sudor y fondos de emoción: ⚠️ no documentados en las partes.
+- **Onomatopeyas del manga**: grito en **globo negro con letras blancas** («And GOOD DAY!!!», hoja 1 nº 21) y rótulo a mano en alemán («Nein, mein Herr!!», hoja 1 nº 17).
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+### Quién lo hizo
+- Estudio **NUT** (fundado en 2017). Dirección de **Yutaka Uemura**; diseño de personajes y dirección de animación jefe, **Yuuji Hosogoe**; diseño de objetos y *eyecatch*, **You Moriyama**; asesor militar, **Reiichirou Oofuji**; sonido, Yoshikazu Iwanami ([AniList, créditos](https://anilist.co/anime/21613/staff)). ✅
+- NUT lo formaron veteranos de MAPPA, Madhouse, Gainax y Production I.G. ⚠️ (resumen de búsqueda; Wikipedia no abrió).
+- Director de 3DCG, **Masato Takahashi**; productor, **Sho Tanaka**, que preguntó a Carlo Zen cuánta filosofía meter y le dijo que priorizara el entretenimiento ([ja.wikipedia](https://ja.wikipedia.org/wiki/幼女戦記_(アニメ)) y la [web oficial, staff](https://youjo-senki.jp/tv/staffcast/)). ⚠️ (dato de resumen, sin cita textual).
+- Diseño original de la novela: **Shinobu Shinotsuki**. ✅
+
+### Cómo se ve
+- **Personajes en 2D** a mano; **tanques, aviones y batallas grandes en 3DCG**. Las reseñas de la época dicen que el 3D a veces desentona, pero que explosiones y humo están muy logrados. ⚠️
+- **Paleta desaturada, casi sepia**, con viñeta fuerte y una sola luz dura desde arriba. Medida en el fotograma de Being X como cascanueces: fondo `#0F121F`, madera `#C6C4B2`, rostro `#B5A898`, sombrero `#868177` ([imagen](https://static.wikia.nocookie.net/youjo-senki/images/a/a3/Unknown_%2817%29.png), 960×542). ✅
+- Sombreado **mixto** (plano con algo de degradado), saturación 22 % en el Rin y 31 % en el desierto; línea de contorno marrón `#474133` (`estilo.py` sobre los fotogramas del cap. 1 y de la película). ✅
+- **Manga** (cap. 1, pág. 1, visto): fondos pintados con degradados suaves, personajes con tinta limpia de 2-3 px y sombra plana de 2 tonos. La primera viñeta es un paisaje a página completa sin globos, sólo la cartela de fecha y lugar. ✅
+
+### Encuadres y composición
+- Abre con **plano panorámico** de paisaje, sigue con un plano medio aéreo y cierra en **primer plano contrapicado** con la cámara inclinada: vértigo de altura (manga, cap. 1). ✅
+- **Mandar**: contrapicado, Tanya arriba y la tropa abajo (película, 0:08).
+- **Amenazar**: primer plano, mentón bajo, luz de abajo (cap. 1, 0:40).
+- **Épica**: silueta de espaldas ante el fuego (cap. 5, 1:00).
+- **Calma**: plano medio en interior, luz lateral cálida (hoja 1 nº 30).
+
+### Cómo replicarlo en Photoshop
+Receta inferida de las imágenes medidas, no de un *making of* (no se encontró ninguno) ⚠️:
+1. Personaje: línea marrón oscura, no negra. Dos capas en **Multiplicar** (sombra base y sombra de contacto), sin degradado.
+2. Fondo: aerógrafo suave; encima, **grano de papel** en **Superponer** al 15-20 %.
+3. Color de conjunto: **Equilibrio de color** hacia ámbar en sombras, **Curvas** bajando las luces altas, viñeta con pincel negro suave al 20-30 % en los bordes.
+4. Magia: capa en **Sobreexponer color** con cian `#63FFED` o `#86F1FF` sólo en el orbe y los trazos.
+
+### Cómo replicarlo en Blender
+Recomendación del equipo, no del estudio ⚠️:
+- Objetos (orbe, cruz de hierro, radio de campaña, cascanueces): geometría simple con **Bevel** marcado en los bordes de metal.
+- Metal viejo (medallas, latón): **Principled BSDF** con rugosidad alta y ruido en la normal. Las medallas del anime se ven con sombra realista, no plana.
+- Si se quiere acabado de anime: **Shader to RGB** + **Color Ramp** de 2-3 tonos, y contorno con **Line Art** en marrón `#474133`.
+- Armas listas: [Gewehr 98](https://sketchfab.com/3d-models/gewehr-98-ww1-387295724d4d40c3867098e096a63318) (Janovich), Mondragón M1908 y Luger P08, las tres **CC Attribution** y descargables (ver punto 3). ✅
+- ⚠️ No se buscó ni se encontró un modelo o *rig* libre de Tanya o de Visha. Para el personaje, recorte 2D de las hojas.
+
+## 19 · Texturas 2D
+
+Junto con las armas 3D (punto 3) y las texturas reales (punto 4), son las capas de la lámina.
+
+- **Tramas del manga**: puntos clásicos en sombras de uniforme y en humo de explosión, con grano de escaneo. Vistas en [Vol 4 cap. 5, pág. 347](https://static.wikia.nocookie.net/youjo-senki/images/f/f0/Vol_4_Ch_5_Pg_347_Bad_scan_LQ.png) (1093×1600, hoja 1 nº 40) y [Vol 2 cap. 4, pág. 255](https://static.wikia.nocookie.net/youjo-senki/images/e/eb/Vol_2_Ch_4_Pg_255_Bad_scan_LQ.png) (676×1000, hoja 2 nº 71). ✅ Son escaneos malos: sirven para la trama, no para la línea.
+- **Pinceles de trama libres**: 34 pinceles de *halftone* para Photoshop en [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes), gratis para uso personal (mirar los términos si es comercial). ⚠️ No se bajó el `.abr`.
+- **El escudo del Imperio** como sello o marca de agua: águila bicéfala negra sobre escudo dorado, campo rojo con franjas negras y filetes blancos ([EmpireFlag.png](https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png), 1194×796, hoja de fondos nº 5). Medido: rojo `#B6231A` (47 %), negro `#040303` (25 %), oro `#FDC733` (14 %). ✅
+- **Camuflaje del pantalón**: manchas irregulares verde oliva y gris oscuro (`#747260`, `#31322C`). No tiene nombre histórico comprobado; llamarlo «manchado». ⚠️
+- **El alfabeto inventado** de la serie como textura de papeles, periódicos y formularios de fondo: letras [YS print y YS Fraktur](https://truefork.org/wp/deciphering-youjo-senki-part-3-fonts/) hechas por un fan. Sólo adorno: no traen ñ ni tildes. ⚠️ En la hoja 2 nº 64 se ven una esfera de reloj y una etiqueta de tinta escritas con ese alfabeto (visto por el redactor).
+- **Grano de papel y cartulina** para las cartelas de parte militar: capa en Superponer al 15-20 % (punto 18).
+- **Texturas reales CC0** de [ambientCG](https://ambientcg.com) para las capas de fondo: barro y tierra de trinchera, nieve y roca, arena, acero oscuro, madera de tablón. ⚠️ Nombres propuestos por la parte de vídeo (Mud, Ground, Snow, Rock, Sand, Metal, WoodPlank); los enlaces exactos no se comprobaron.
+- **Tela y cuero**: lana verde oliva, cuero negro, madera de culata, latón. No hay textura libre concreta en las partes ⚠️.
+
+## 20 · Gustos y detalles
+
+| | Tanya | Visha |
+|---|---|---|
+| **Cumpleaños** | **24 de septiembre** ([AniList](https://anilist.co/character/121052)) ✅ | No encontrado ⚠️ |
+| **Edad** | 9 a 13 años en la serie (AniList) ✅ | No encontrada ⚠️ |
+| **Altura** | Bajita, de niña; sin cifra oficial ⚠️ | Alta, más que Tanya (parte de voz); sin cifra ⚠️ |
+| **Comida y bebida** | **El café de Visha**: dice que no puede vivir sin él y que por eso la protegería «a cualquier costo» (novela *Abyssus abyssum invocat*, cap. 5, y manga) ✅ | **Chocolate** (adicta), salchichas, patatas y **K-Brot**, el pan de guerra ([wiki](https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov)) ✅ |
+| **Aficiones** | El trabajo de oficina tranquilo, los ascensos, la eficiencia ✅ | Las **cartas**: gana a todo el batallón y nadie quiere jugar con ella ✅ |
+| **Lo que ama** | Un puesto seguro en la retaguardia; la libertad individual; la racionalidad ✅ | Tanya y el batallón; su fe ✅ |
+| **Lo que odia** | **Being X**, la incompetencia, la desobediencia y que la juzguen por su aspecto ✅ | Ver a Tanya furiosa (se asusta) ✅ |
+| **Objeto que siempre lleva** | El **orbe Tipo 95**, colgado al cuello | Su orbe estándar y la **taza de café** para Tanya |
+| **Cómo se ve a sí misma** | Un recurso humano valioso, no una niña; un adulto racional atrapado en un cuerpo pequeño | Una soldado leal y la amiga de Tanya |
+
+**Detalles que un fan reconoce**
+- La escena del café tiene imagen: Tanya con los ojos cerrados y la taza humeante junto a la cafetera de sifón ([hoja 1 nº 30](https://static.wikia.nocookie.net/youjo-senki/images/9/99/Tanya45.png)). ✅ visto.
+- Visha comiendo dos panes en el comedor, cap. 8 ([hoja 1 nº 33](https://static.wikia.nocookie.net/youjo-senki/images/c/c2/HorribleSubs-Youjo-Senki-08-1080p.mkv0012.jpg)); el manga tiene otra viñeta de pan ([Bread.png](https://static.wikia.nocookie.net/youjo-senki/images/e/e1/Bread.png), hoja 2 nº 82). ✅ visto; que sea el K-Brot ⚠️ no confirmado.
+- En su vida anterior, el oficinista valoraba el descanso y los derechos laborales. Acabó en el ejército más irracional posible: el chiste de toda la serie.
+- **Zettour**: la estrategia racional y el bien del Imperio; sus documentos. **Being X**: quiere más creyentes. (AniList) ✅
+
+## 21 · Por qué la aman
+
+### Las razones, con datos
+- **Números**: nota media 78, **279.873** usuarios en AniList y 9.750 favoritos; Tanya sola suma 6.458 ([AniList](https://anilist.co/anime/21613)). ✅
+- **Un isekai al revés**: el protagonista no es un héroe amable, es un adulto frío en cuerpo de niña que aplica lógica de empresa a una guerra ([Studio Jake Media](https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime)). ✅
+- **El «campo de malentendidos»**: cada intento de Tanya de irse a la retaguardia la manda más al frente por brillante. El público espera el siguiente fracaso con gusto. ✅
+- **La estética militar de entreguerras**, rara en el anime: uniformes de la Primera Guerra Mundial, términos en alemán y francés, bloques de países. Atrae a quien le gusta la historia militar. ✅ (partes de voz y texto).
+- **Tanya como espejo del trabajo**: el que lo hace todo bien y recibe más trabajo y más peligro. El fandom adulto hispano se identifica con eso. ⚠️ (lectura de reseñas, sin encuesta).
+- **Visha**, la fiel que ve lo mejor en los demás, es con quien se identifica quien valora el dúo. ✅
+- **El regreso de 2026**: la temporada 2 reactivó Reddit, TikTok y X ([Mystiqora](https://mystiqora.com/saga-of-tanya-the-evil-season-2-release-date-confirmed-trailer-cast-and-reddit-community)). ✅
+- En r/YoujoSenki hay un hilo fijo del debate: «¿Cuál es la mejor escena y el momento más gracioso?» ([Reddit](https://www.reddit.com/r/YoujoSenki/comments/agq34h/which_is_the_best_scene_explain_why_and_funniest/), 8 votos, 6 comentarios). ⚠️ Pocos votos; no se leyeron las respuestas.
+
+### Las escenas que duelen, asustan o hacen gritar
+| Escena | Qué pasa | Por qué pega | Dónde |
+|---|---|---|---|
+| **Muerte de Rudersdorf** (T2, cap. 12, final) | Muere creyendo que falló a su amigo Zettour, sin saber la verdad. La serie no le da consuelo. | Amistad rota, traición política, resignación. Lo más comentado del final ([Soap Central](https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything)). ✅ | ⚠️ Sin minuto ni música: no hubo clip |
+| **La maldición de Being X** (cap. 2 / manga cap. 1) | El oficinista muere y renace niña «en un mundo no científico» para «conocer la guerra». | La disonancia hombre/niña es el gancho de la serie. | Manga, [hoja 1 nº 43](https://static.wikia.nocookie.net/youjo-senki/images/a/ab/MangaCh1Sc.png) ✅ |
+| **La narración del cap. 1** | «En un mundo maldito…»: el tono de todo en 40 segundos. | Muchos fans lo citan como el gancho. | Muestra de Doblaje Wiki, 0:00-0:19 ✅ |
+| **«¡Tamaya!»** (cap. 5) | Tanya entra en trance con ojos dorados y arrasa una ciudad de noche. | La escena más reconocida del fandom: terror y belleza. | [0:36](https://www.dailymotion.com/video/x5bp78t?start=36) a [1:00](https://www.dailymotion.com/video/x5bp78t?start=60) ✅ |
+| **El bombardero** (cap. 6) | Tanya derriba un bombardero con sonrisa maliciosa. | Acción pura, cielo y fuego. | [0:08](https://www.dailymotion.com/video/x5bp76k?start=8) y [1:12](https://www.dailymotion.com/video/x5bp76k?start=72) ✅ |
+
+**Las que hacen reír**: el entrenamiento en la nieve, con Visha escandalizada ([cap. 5, 1:28](https://www.dailymotion.com/video/x5bp70j?start=88)) y Tanya con cara inocente mientras tortura a la tropa ([0:24](https://www.dailymotion.com/video/x5bp70j?start=24)). ✅
+
+**Cómo están dibujadas**: de noche, un solo foco (el incendio o la lámpara); de día, cielo gris sin sombras. El drama va en la cara, en primer plano, no en la lluvia ni en el silencio.
+
+⚠️ Faltan: el minuto y la música de las escenas de la temporada 2, y comentarios con más votos o vídeos de reacción con cifras (YouTube bloqueado).
