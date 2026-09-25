@@ -1,7 +1,92 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 2026-09-24, 20:40 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 25-09-2026, 02:07 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
+
+<!-- lotes -->
+## Cómo va por lotes (25-09-2026, 02:07 UTC)
+
+Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 22** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 19, 20, 21, 22, 31, 32, 35, 37, 38, 39, 40, 77, 78.
+
+### Lote A (la central): 02-05 y 31-36
+
+*Estado (02:05 UTC del 25, tercera cuenta)*
+
+Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama `claude/lote-a-series-inxhbf`.
+
+- 02 Attack on Titan: **COMPLETA** y subida (20:52). ✅33 ⚠️6 ❌0, 218 referencias, 113 webs.
+- 03 Solo Leveling: **COMPLETA** y subida (01:17). ✅32 ⚠️5 ❌0, 148 referencias, 111 webs, 1760 líneas.
+- 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
+- 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
+- 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
+- 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
+- 33 Frieren: partes listas; redactor (Opus, repaso corto) en marcha.
+- 34 Haikyuu: partes listas; redactor (Opus, repaso corto) en marcha.
+- 35 One Punch Man: COMPLETA.
+- 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
+  dejó escritas §0-17). AnimeThemes sigue caído (522).
+
+Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:11 y
+`optimistic-dirac` desde las 22:43) y rehicieron 03, 04, 05 y 31. Al juntar se quedó
+03 de `cool-keller` (✅32 ⚠️5, una ⚠️ menos) y 04, 05 y 31 de `optimistic-dirac` (las
+subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
+
+### Lote B: repasos 06-18
+
+*Estado*
+
+- ✅ 06-spy-x-family: COMPLETA (21:57 UTC). 2420 líneas, 183 referencias, tabla ✅24 ⚠️13 ❌0. Equipo: 1 h de principio a fin.
+- ✅ 07-pok-mon: COMPLETA (22:15 UTC). 2460 líneas, 123 referencias, tabla ✅20 ⚠️10 ❌0. Equipo: 1 h.
+- ✅ 08-big-hero-6-grandes-h-roes: COMPLETA (22:40 UTC). 2666 líneas, 156 referencias, tabla ✅26 ⚠️11 ❌0. Equipo: 1 h.
+- En marcha: 09-mafalda (redactor, Opus), 10-k-on (voz; lo demás listo) y 11-chainsaw-man (imagen, texto y vídeo).
+
+### Lote C: repasos 19-30
+
+*Estado (22:15 UTC)*
+
+- **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
+  124 webs, 134 minutos citados, 79 hex, 3 hojas.
+- **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
+  92 webs, 166 minutos citados, 87 hex, 3 hojas.
+- **21 Spider-Verse: COMPLETA y subida.** 2584 líneas, ✅28 ⚠️11 ❌0,
+  197 referencias, 137 webs, 134 minutos citados, 55 hex, 3 hojas.
+- **22 Violet Evergarden: COMPLETA y subida.** 2396 líneas, ✅24 ⚠️8 ❌0,
+  168 referencias, 116 webs, 270 minutos citados, 34 hex, 3 hojas.
+- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz en su 2ª tanda; falta
+  el redactor.
+- Datos recolectados (gratis) para 19-30 (lote C entero).
+
+### Lote D: series nuevas 37-56
+
+*Estado*
+
+- 37 Fullmetal Alchemist: Brotherhood: **COMPLETA** (22:12). ✅16 ⚠️15 ❌0, 189 refs, 52 webs.
+- 38 Sailor Moon: **COMPLETA** (22:47). ✅23 ⚠️9 ❌0, 191 refs, 54 webs.
+- 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
+- 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
+- 41 Dandadan: imagen, texto y video completos; voz en marcha.
+- 42 Blue Lock: imagen y texto en marcha. 43-47: recolectados por adelantado.
+
+### Lote E: series nuevas 57-76
+
+*Estado*
+
+- Arranque (24-sep-2026, 21:30 UTC): herramientas instaladas; guardar.sh cada 300 s; recolectando datos de 58-62.
+- 57 Coco: 4 investigadores completos; redactor (Opus) en marcha desde 22:05 UTC.
+- 58 Encanto: 4 investigadores (Sonnet) en marcha desde 22:05 UTC.
+
+### Lote F: series nuevas 77-96
+
+*Estado*
+
+- Arranque (24-sep-2026, 21:45 UTC): herramientas instaladas; guardar.sh cada 300 s; comprobación cada hora.
+- 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
+- 78 Vinland Saga: **COMPLETA y subida** (22:52 UTC). ✅23 ⚠️7 ❌0, 162 referencias, 65 webs, 2031 líneas.
+- **Corte por límite de sesión** (23:06-23:50 UTC, `rate_limit`, «resets 11:20pm UTC»): 5 agentes vivos murieron a mitad de tanda (79 redactor, 80 video, 81 imagen/video/voz). Nada se perdió del todo: guardar.sh había subido lo hecho hasta el corte. Relanzo los 5 desde donde quedaron en cuanto pase el reinicio.
+- 79 Demon Slayer: redactor cortado justo tras «Tres conceptos de lámina» — faltan tabla de cumplimiento, bitácora y referencias.json. Relanzado 23:50 UTC.
+- 80 Solo Leveling: vídeo cortado con un `Sigue:` legítimo ya escrito (fotograma del Rey Hormiga). Relanzado como relanzamiento corto.
+- 81 Mushoku Tensei: imagen cortado justo después de escribir imagen.md (dice «Parte terminada») pero SIN escribir imagen.json ni hojas/ — relanzado sólo para eso. Vídeo y voz no llegaron a escribir nada: relanzados desde cero.
+<!-- /lotes -->
 
 ## Cuándo una biblia está completa
 
