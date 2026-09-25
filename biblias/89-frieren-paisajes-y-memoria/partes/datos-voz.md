@@ -73,29 +73,29 @@ _Fuente: https://anilist.co/anime/154587_
 - **Aura** (género Female) · https://anilist.co/character/219110
   Aura is one of the Seven Sages of Destruction directly serving the Demon King. [spoiler]
 
-## Los personajes más dibujados por los fans (Danbooru, 27252 dibujos de «sousou_no_frieren»)
+## Los personajes más dibujados por los fans (Danbooru, 27261 dibujos de «sousou_no_frieren»)
 _Fuente: https://danbooru.donmai.us/posts?tags=sousou_no_frieren_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146438 dibujos
-2. gotoh_hitori · 18063 dibujos
-3. princess_zelda · 16833 dibujos
-4. frieren · 16292 dibujos
-5. megumin · 10878 dibujos
-6. fern_(sousou_no_frieren) · 9763 dibujos
-7. marcille_donato · 5912 dibujos
-8. tatsumaki · 4981 dibujos
-9. laios_touden · 3390 dibujos
-10. stark_(sousou_no_frieren) · 2883 dibujos
-11. ubel_(sousou_no_frieren) · 2589 dibujos
-12. senshi_(dungeon_meshi) · 2425 dibujos
+1. hatsune_miku · 146462 dibujos
+2. gotoh_hitori · 18065 dibujos
+3. princess_zelda · 16838 dibujos
+4. frieren · 16294 dibujos
+5. megumin · 10879 dibujos
+6. fern_(sousou_no_frieren) · 9766 dibujos
+7. marcille_donato · 5915 dibujos
+8. tatsumaki · 4982 dibujos
+9. laios_touden · 3392 dibujos
+10. stark_(sousou_no_frieren) · 2884 dibujos
+11. ubel_(sousou_no_frieren) · 2593 dibujos
+12. senshi_(dungeon_meshi) · 2426 dibujos
 13. himmel_(sousou_no_frieren) · 2366 dibujos
 14. saitama_(one-punch_man) · 2124 dibujos
 15. maomao_(kusuriya_no_hitorigoto) · 2098 dibujos
 16. aura_(sousou_no_frieren) · 1435 dibujos
-17. serie_(sousou_no_frieren) · 689 dibujos
+17. serie_(sousou_no_frieren) · 690 dibujos
 18. land_(sousou_no_frieren) · 552 dibujos
-19. methode_(sousou_no_frieren) · 487 dibujos
+19. methode_(sousou_no_frieren) · 488 dibujos
 20. eisen_(sousou_no_frieren) · 479 dibujos
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)

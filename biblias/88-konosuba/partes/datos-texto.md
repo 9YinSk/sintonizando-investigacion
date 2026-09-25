@@ -10,7 +10,7 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 _Fuente: https://anilist.co/anime/21202_
 
 - Títulos: Kono Subarashii Sekai ni Shukufuku wo! · KONOSUBA -God's blessing on this wonderful world! · この素晴らしい世界に祝福を！ · también: Konosuba, Kono Subarashii Sekai ni Syukufuku wo!, Konosuba - As Bençãos de Deus Neste Mundo Maravilhoso, 为美好的世界献上祝福！, ขอให้โชคดีมีชัยในโลกแฟนตาซี!, Konosuba : Sois béni monde merveilleux !
-- Formato TV, año 2016, episodios 10, capítulos None, estado FINISHED, nota media 79, popularidad 519987, favoritos 22667
+- Formato TV, año 2016, episodios 10, capítulos None, estado FINISHED, nota media 79, popularidad 520174, favoritos 22667
 - Estudio: Studio DEEN · géneros: Adventure, Comedy, Ecchi, Fantasy
 - Sinopsis: Kazuma Satou decides that today is the day to get out of the house for a bit. Since he dies, pointlessly, it's clearly a bad choice. The goddess who greets him in the afterlife, however, offers him a chance to be reborn in a world not unlike that of a video game, and as a bonus she'll even throw in a cool item or power! Can't possibly be a bad choice, right? Except he arrives with no money at all, dead average skills, and his "bonus" isn't useful at all--since he picked the goddess, Aqua, herself. How are the two of them supposed to defeat the evil Devil King and live happily ever after?…
 - Temas y rasgos (etiquetas, % de acuerdo): Isekai 97%, Satire 94%, Parody 90%, Primarily Female Cast 86%, Ensemble Cast 85%, Male Protagonist 85%, Slapstick 82%, Magic 80%, Medieval 75%, Masochism 74%, Anti-Hero 74%, Gods 71%, Survival 70%, Chuunibyou 67%, Meta 66%, Dullahan 60%, Primarily Adult Cast 48%, Nudity 46%, Swordplay 41%, Heterosexual 40%, Surreal Comedy 40%, Dungeon 38%, Succubus 37%, Female Protagonist 10%

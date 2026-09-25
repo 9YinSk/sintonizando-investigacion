@@ -71,14 +71,14 @@ _Fuente: https://musicbrainz.org_
 
 - Kya Thi Wo Wajah · Spike, Hary Nair · 2019-12-22 · https://musicbrainz.org/release-group/5bfef16d-6739-45fb-90a0-c2e5e373f4fb
 - TVアニメ『この素晴らしい世界に祝福を!』サントラ&ドラマCD Vol.2「冒険者に天の御加護を!」 · 甲田雅人 · 2016-03-23 · https://musicbrainz.org/release-group/822f53f7-3af0-4c3d-aef5-490a1a36e912
-- TVアニメ『この素晴らしい世界に祝福を!』サントラ&ドラマCD Vol.1「旅立つ我らに祝福を!」 · 甲田雅人 · 2016-03-23 · https://musicbrainz.org/release-group/f184e4df-3edb-43c3-80da-b954bffdd64d
 - OVA HARU WO DAITEITA VOCAL&SOUNDTRACK · Sosaku Sasaki · 2005-04-22 · https://musicbrainz.org/release-group/aeaeaacb-344c-41ff-bceb-d6beda3842e5
 - Heidi, wo bisch du dihei? · Andrew Bond · 2019-10-01 · https://musicbrainz.org/release-group/0004f20f-a7e2-4f32-9221-d133fb971a9f
+- TVアニメ『この素晴らしい世界に祝福を!』サントラ&ドラマCD Vol.1「旅立つ我らに祝福を!」 · 甲田雅人 · 2016-03-23 · https://musicbrainz.org/release-group/f184e4df-3edb-43c3-80da-b954bffdd64d
 - WO LONG: FALLEN DYNASTY ORIGINAL SOUND TRACK · 末廣健一郎 · 2023-03-03 · https://musicbrainz.org/release-group/bf03c4be-03b1-40e3-b320-bf952a041355
 - Suspiria Intermezzo - Wo die Seelen sterben · Samsas Traum · 2021-11-27 · https://musicbrainz.org/release-group/8d42801d-c742-40c6-b6a3-2d8d2a209b16
 - Ashita Wo Narase - Fairy Tail Zero Opening · Amy B · ? · https://musicbrainz.org/release-group/b18c13f8-5ef7-4a7d-ad59-de41b4425e61
-- TVアニメ『この素晴らしい世界に祝福を!2』サントラ&ドラマCD Vol.3「受難の日々に福音を!」 · 甲田雅人 · 2017-03-22 · https://musicbrainz.org/release-group/1c8bf8de-25f9-43f3-9c7c-969c1b94bdb4
 - エースをねらえ! · 少年探偵団 · 1979-07-21 · https://musicbrainz.org/release-group/ecdc4ecd-77bc-4288-aded-8ccb3d074738
+- TVアニメ『この素晴らしい世界に祝福を!2』サントラ&ドラマCD Vol.3「受難の日々に福音を!」 · 甲田雅人 · 2017-03-22 · https://musicbrainz.org/release-group/1c8bf8de-25f9-43f3-9c7c-969c1b94bdb4
 - 君をのせて · 井上あずみ Azumi Inoue · 1988-03-25 · https://musicbrainz.org/release-group/291c90bf-8c74-4a72-9bcd-35ca4e04795a
 - 舟を編む オリジナルサウンドトラック · 池頼広 · 2016-12-21 · https://musicbrainz.org/release-group/877a9f1c-3cd8-4ae9-a069-fab4f5183d46
 - あの丘をめざして · ボケモン5 · 2002-07-10 · https://musicbrainz.org/release-group/eac3b72d-fdab-4d64-9526-03776a8923dc

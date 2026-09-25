@@ -10,7 +10,7 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 _Fuente: https://anilist.co/anime/101921_
 
 - Títulos: Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen · Kaguya-sama: Love is War · かぐや様は告らせたい～天才たちの恋愛頭脳戦～ · también: Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains, קאגויה סאמה, 辉夜大小姐想让我告白～天才们的恋爱头脑战～, 辉夜姬想让人告白, 辉夜姬想让人告白～天才们的恋爱头脑战～, 辉告
-- Formato TV, año 2019, episodios 12, capítulos None, estado FINISHED, nota media 83, popularidad 560718, favoritos 28865
+- Formato TV, año 2019, episodios 12, capítulos None, estado FINISHED, nota media 83, popularidad 560887, favoritos 28865
 - Estudio: A-1 Pictures · géneros: Comedy, Psychological, Romance, Slice of Life
 - Sinopsis: Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters? · · (Source: Aniplex)
 - Temas y rasgos (etiquetas, % de acuerdo): School 93%, Heterosexual 89%, Tsundere 88%, Primarily Teen Cast 87%, School Club 86%, Surreal Comedy 86%, Kuudere 85%, Ojou-sama 84%, Episodic 81%, Slapstick 78%, Parody 75%, Female Protagonist 73%, Seinen 69%, Male Protagonist 66%, Meta 65%, Ensemble Cast 60%, Archery 20%
