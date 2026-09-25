@@ -12,21 +12,22 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 - 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
 - 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
-- 32 Jujutsu Kaisen: imagen, voz y texto listos; redactor (Opus) relanzado (tabla de
-  cumplimiento 18-25 pendiente, contenido ya escrito).
-- 33 Frieren: imagen y voz listos; texto (Sonnet) relanzado tras límite de uso.
-- 34 Haikyuu: imagen lista; voz (Sonnet) relanzada (sólo faltaba voz.json); texto
-  (Sonnet) relanzado desde cero.
+- 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
+- 33 Frieren: imagen y voz listos; texto (Sonnet) en marcha.
+- 34 Haikyuu: imagen y voz listos; texto (Sonnet) en marcha.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): imagen, voz y texto listos; video (Sonnet) relanzado
-  (sólo faltaba video.json y comprobar ep. 147). Redactor pendiente de relanzar
-  cuando video.md esté cerrado. AnimeThemes sigue caído (522).
+- 36 Hunter x Hunter (nueva): los 4 roles listos; redactor (Opus) en marcha. AnimeThemes sigue caído (522).
 
 ## Avisos para el dueño
 
 - 02: quedan ⚠️ el punto 20 (comida favorita de Erwin, Hange, Eren y Mikasa: no
   encontrada) y el 22 (vistas de fan dubs en YouTube sin comprobar: pide iniciar
   sesión). Corregido: Levi no muere en el arco del Titán Femenina; muere su escuadrón.
+
+- 32 Jujutsu Kaisen: más querido, Gojo (4ª encuesta oficial); Megumi ganó la 2ª y
+  3ª. Cuadro de diálogo propio: título en Mincho blanca + hora/lugar + técnicas
+  verticales entre 「」. Corregidas dos afirmaciones falsas de la parte de imagen
+  (modelo de Nobara sin medir; diagramas de CGWORLD no estaban de verdad incluidos).
 
 - 31 Demon Slayer: más querido, Zenitsu (2ª encuesta oficial). Cuadro de diálogo propio:
   cartela vertical a pincel / tablilla «その1». Corregido: Fortnite NO tiene colaboración
@@ -58,3 +59,4 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 | 04 | redactor (repaso corto) | Opus | 12 | 210 mil |
 | 05 | redactor (repaso corto) | Opus | 14 | 245 mil |
 | 31 | redactor (repaso corto) | Opus | 13 | 228 mil |
+| 32 | redactor (repaso corto, 2 tandas por límite de uso) | Opus | 18 | 310 mil |
