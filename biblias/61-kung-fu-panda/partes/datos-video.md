@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Kung Fu Panda
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -15,32 +15,32 @@ _Fuente: https://api.dailymotion.com_
 
 **«Kung Fu Panda opening»**
 - Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
-- Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
-- Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
-- Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
-- Kung Fu Panda - Kung Fu Fighting · 2:03 · Top-Parents.fr · 178 vistas · https://www.dailymotion.com/video/x5rrlo
-- Kung Fu Panda - Kung Fu Fighting · 3:16 · Ivor Acy · 150 vistas · https://www.dailymotion.com/video/x31ufcj
-**«Kung Fu Panda ending»**
-- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
-- Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
-- Kung Fu Panda · 1:10 · TV-programme.com · 502 vistas · https://www.dailymotion.com/video/x9flap2
-- Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
-- Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
-- Kung Fu Panda - Kung Fu Fighting · 2:03 · Top-Parents.fr · 178 vistas · https://www.dailymotion.com/video/x5rrlo
-**«Kung Fu Panda trailer»**
-- Kung Fu Panda 4 Tráiler · 2:25 · Sensacine · 24470 vistas · https://www.dailymotion.com/video/x8qljll
-- Kung Fu Panda Tráiler · 1:14 · Sensacine · 23759 vistas · https://www.dailymotion.com/video/x88nbws
-- Kung Fu Panda - Trailer (Deutsch) · 2:03 · Moviepilot · 7342 vistas · https://www.dailymotion.com/video/x7xcx25
-- Kung Fu Panda 2 Tráiler · 0:54 · Sensacine · 6586 vistas · https://www.dailymotion.com/video/x88ndko
-- Kung Fu Panda 3 Tráiler · 2:38 · Sensacine · 5261 vistas · https://www.dailymotion.com/video/x88oh56
-- KUNG FU PANDA 4 - Trailer · 2:27 · Espinof · 4696 vistas · https://www.dailymotion.com/video/x8qiz9s
-**«Kung Fu Panda escena»**
-- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
 - Kung Fu Panda · 1:10 · Télé 7 Jours · 1012 vistas · https://www.dailymotion.com/video/x8qkuny
 - Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
 - Kung Fu Panda · 1:10 · TV-programme.com · 502 vistas · https://www.dailymotion.com/video/x9flap2
 - Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
 - Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
+**«Kung Fu Panda ending»**
+- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
+- Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
+- Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
+- Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
+- Kung Fu Panda - Kung Fu Fighting · 2:03 · Top-Parents.fr · 178 vistas · https://www.dailymotion.com/video/x5rrlo
+- Kung Fu Panda - Kung Fu Fighting · 3:16 · Ivor Acy · 150 vistas · https://www.dailymotion.com/video/x31ufcj
+**«Kung Fu Panda trailer»**
+- Kung Fu Panda 4 Tráiler · 2:25 · Sensacine · 24470 vistas · https://www.dailymotion.com/video/x8qljll
+- Kung Fu Panda Tráiler · 1:14 · Sensacine · 23762 vistas · https://www.dailymotion.com/video/x88nbws
+- Kung Fu Panda - Trailer (Deutsch) · 2:03 · Moviepilot · 7342 vistas · https://www.dailymotion.com/video/x7xcx25
+- Kung Fu Panda 2 Tráiler · 0:54 · Sensacine · 6588 vistas · https://www.dailymotion.com/video/x88ndko
+- Kung Fu Panda 3 Tráiler · 2:38 · Sensacine · 5263 vistas · https://www.dailymotion.com/video/x88oh56
+- KUNG FU PANDA 4 - Trailer · 2:27 · Espinof · 4696 vistas · https://www.dailymotion.com/video/x8qiz9s
+**«Kung Fu Panda escena»**
+- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
+- Kung Fu Panda · 1:10 · Télé 7 Jours · 1012 vistas · https://www.dailymotion.com/video/x8qkuny
+- Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
+- Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
+- Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
+- Kung Fu Panda - Kung Fu Fighting · 2:03 · Top-Parents.fr · 178 vistas · https://www.dailymotion.com/video/x5rrlo
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
