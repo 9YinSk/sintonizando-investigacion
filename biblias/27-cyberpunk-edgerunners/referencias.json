@@ -1,344 +1,2081 @@
 [
-  {
-    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Cyberpunk.%20Edgerunners",
-    "fuente": "GitHub (kitsunekko-mirror)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos de Netflix de los 10 episodios en japonés (para sordos, con quién habla) e inglés, con tiempos.",
-    "para_que": "Minuto exacto de cada escena y frase (§2, §8, §15).",
-    "licencia": "Subtítulos subidos por terceros. Sólo consulta."
-  },
-  {
-    "url": "https://doblaje.fandom.com/es/wiki/Cyberpunk:_Edgerunners",
-    "fuente": "Doblaje Wiki (API action=parse)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del doblaje latino: Grande Studios, Jessica Ángeles, reparto completo y datos de adaptación.",
-    "para_que": "Voces latinas (§10).",
-    "licencia": "CC BY-SA (Fandom). Consulta."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=c8YBuJhIVJY",
-    "fuente": "YouTube · ANISON USA",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista (1:01:26) a María José Moreno (Lucy) y José Ángel Torres (David), 25-sep-2022.",
-    "para_que": "Segunda fuente del doblaje; tono grave y frío de Lucy (19:49-20:15); libertad con las groserías (31:34).",
-    "licencia": "Vídeo de terceros. Consulta."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=D6ia1wjO7sg",
-    "fuente": "YouTube · Cyberpunk 2077 (oficial) · Inside Look #2",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Trigger explica cómo hizo Night City y a David y Lucy (5:45).",
-    "para_que": "Fondos pintados sobre fotos del juego (2:05-2:39); diseño de David (2:49) y Lucy (3:47); rótulos de nombre.",
-    "licencia": "© CD PROJEKT RED / Netflix. Consulta."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/52/David_Inside_Look_2_ScreenCap_CPEDGE.png/revision/latest?cb=20220801193609",
-    "fuente": "Cyberpunk Wiki (Fandom), W47 · File:David Inside Look 2 ScreenCap CPEDGE.png",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Rótulo de nombre DAVID: katakana arriba y nombre en letras condensadas con degradado lima (#45FF7D a #EBFF68).",
-    "para_que": "Tipografía propia para el nombre del canal (§6, concepto A).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/aa/Cyberpunk_Edgerunners_Teaser_Image_07.jpg/revision/latest?cb=20220612232410",
-    "fuente": "Cyberpunk Wiki (Fandom), W46 · File:Cyberpunk Edgerunners Teaser Image 07.jpg",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "El equipo en fila de noche (tráiler de junio de 2022): Dorio, Maine, Lucy, David, Pilar, Rebecca, Kiwi.",
-    "para_que": "Pose de grupo «nos apuntamos»; luz naranja de noche (§5.2, §15).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/JJaaGGo/PopArt-webPage-Cyberpunk-Edgerunners-Theme/blob/HEAD/Trend%20card%202.jpg",
-    "fuente": "GitHub (repositorio de fans), G26",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "El equipo caminando de espaldas; chaqueta amarilla de David con el emblema verde.",
-    "para_que": "Lámina «vamos de partida»; vestuario de David (§16).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/4/42/11Days_Rebecca_CPEDGE.jpeg/revision/latest?cb=20220903074000",
-    "fuente": "Cyberpunk Wiki (Fandom), W20 · File:11Days Rebecca CPEDGE.jpeg",
-    "ancho": 1430,
-    "alto": 2048,
-    "que_es": "Cartón de cuenta atrás «11 days to go!»: Rebecca agachada apuntando al espectador, fondo lima.",
-    "para_que": "Pose de Rebecca para invitar o retar (concepto A).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/AlexandreDresch/EdgeRunners/blob/HEAD/public/images/characters/rebecca.png",
-    "fuente": "GitHub (repositorio de fans), G09",
-    "ancho": 1200,
-    "alto": 1410,
-    "que_es": "Render oficial de Rebecca sobre negro, manos en los bolsillos de la sudadera.",
-    "para_que": "Recorte limpio para presentar/saludar; colores medidos (§16).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/8b/Edgerunners_2024_Goodies_Artwork_CPEDGE.jpg/revision/latest?cb=20241219184716",
-    "fuente": "Cyberpunk Wiki (Fandom), W116 · File:Edgerunners 2024 Goodies Artwork CPEDGE.jpg",
-    "ancho": 1000,
-    "alto": 800,
-    "que_es": "Arte de la lotería online 2024: David, Lucy y Rebecca tirados en un sofá; marco amarillo de interfaz.",
-    "para_que": "El tono de «pasar el rato» de #a-que-juegas; Rebecca saluda con guiño.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/JJaaGGo/PopArt-webPage-Cyberpunk-Edgerunners-Theme/blob/HEAD/Layout%20card%203.png",
-    "fuente": "GitHub (repositorio de fans), G33",
-    "ancho": 1408,
-    "alto": 792,
-    "que_es": "Rebecca con brazos de gorila, puños arriba, riendo, fondo de día.",
-    "para_que": "Pose de celebrar (lámina 2 del concepto A).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/86/Cyberpunk_Edgerunners_Rebecca_Guns_01_CPEDGE.jpg/revision/latest?cb=20260701204540",
-    "fuente": "Cyberpunk Wiki (Fandom), W9 · File:Cyberpunk Edgerunners Rebecca Guns 01 CPEDGE.jpg",
-    "ancho": 2560,
-    "alto": 1440,
-    "que_es": "Rebecca disparando con dos armas.",
-    "para_que": "Acción y celebración; referencia de Guts.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/b/bf/Edge_David_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220209",
-    "fuente": "Cyberpunk Wiki (Fandom), W26 · File:Edge David by Yoshiyuki Kaneko.png",
-    "ancho": 1280,
-    "alto": 1811,
-    "que_es": "Cartel amarillo de David: se señala con el pulgar, sonrisa enorme.",
-    "para_que": "Pose de presentar/animar (§15).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/2/29/Edge_Lucy_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220236",
-    "fuente": "Cyberpunk Wiki (Fandom), W28 · File:Edge Lucy by Yoshiyuki Kaneko.png",
-    "ancho": 1280,
-    "alto": 1811,
-    "que_es": "Cartel amarillo de Lucy: pistola levantada, mirada al espectador.",
-    "para_que": "Pose de advertir/regañar.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/2/24/Edge_Maine_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220306",
-    "fuente": "Cyberpunk Wiki (Fandom), W29 · File:Edge Maine by Yoshiyuki Kaneko.png",
-    "ancho": 1280,
-    "alto": 1811,
-    "que_es": "Cartel amarillo de Maine: busto, visor, sonrisa de lado.",
-    "para_que": "El jefe que acepta al nuevo (concepto B).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/60/Lucyna_Kushinada_Cosplay_Guide_04_CPEDGE.png/revision/latest?cb=20241216234609",
-    "fuente": "Cyberpunk Wiki (Fandom), W4 · File:Lucyna Kushinada Cosplay Guide 04 CPEDGE.png",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Guía oficial de cosplay de Lucy (cabeza y ojo), 2024.",
-    "para_que": "Colores medidos del pelo, maquillaje y traje (§16).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/89/Lucyna_Kushinada_Cosplay_Guide_05_CPEDGE.png/revision/latest?cb=20241216234611",
-    "fuente": "Cyberpunk Wiki (Fandom), W5 · File:Lucyna Kushinada Cosplay Guide 05 CPEDGE.png",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Guía oficial de cosplay de Lucy: puerto de buceo y tatuaje de la espalda.",
-    "para_que": "Vestuario de Lucy.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6a/Edgerunners_Original_Series_Soundtrack_Vinyl_Art_01_CPEDGE.jpg/revision/latest?cb=20231028163057",
-    "fuente": "Cyberpunk Wiki (Fandom), W104 · File:Edgerunners Original Series Soundtrack Vinyl Art 01 CPEDGE.jpg",
-    "ancho": 1123,
-    "alto": 1123,
-    "que_es": "Vinilo de la banda sonora: Lucy sentada abrazando las rodillas en un alféizar, luz violeta.",
-    "para_que": "Pose de pensar; concepto C.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/melendezdev/cyberpunk-edgerunners-project/blob/HEAD/src/assets/img/ICE.webp",
-    "fuente": "GitHub (repositorio de fans), G41",
-    "ancho": 1600,
-    "alto": 900,
-    "que_es": "Lucy escaneando a David en el tren con su HUD rojo.",
-    "para_que": "El HUD del ojo como cuadro de diálogo (§7, concepto C).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6f/Afterlife_01_EDGE.jpg/revision/latest?cb=20220915180335",
-    "fuente": "Cyberpunk Wiki (Fandom), W117 · File:Afterlife 01 EDGE.jpg",
-    "ancho": 1225,
-    "alto": 605,
-    "que_es": "El Afterlife por dentro: barra con luz verde menta.",
-    "para_que": "Sitio y luz del concepto B (#7CF6CC).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/50/Let-You-Down-MV-Maine-Crew.png/revision/latest?cb=20221030171706",
-    "fuente": "Cyberpunk Wiki (Fandom), W75 · File:Let-You-Down-MV-Maine-Crew.png",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "El equipo en un reservado del bar con bebidas (vídeo de «Let You Down»).",
-    "para_que": "Después de la partida; concepto B.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/d/db/Edgerunners_Slice_of_Life_Canvas_Art_CPEDGE.jpg/revision/latest?cb=20240718191457",
-    "fuente": "Cyberpunk Wiki (Fandom), W118 · File:Edgerunners Slice of Life Canvas Art CPEDGE.jpg",
-    "ancho": 1015,
-    "alto": 716,
-    "que_es": "Lienzo oficial «Slice of Life»: calle de noche con neón «Blue Moon», David junto al coche.",
-    "para_que": "Estilo de fondo nocturno (§18).",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6b/2_Year_Anniversary_Artwork_CPEDGE.jpg/revision/latest?cb=20241202160148",
-    "fuente": "Cyberpunk Wiki (Fandom), W2 · File:2 Year Anniversary Artwork CPEDGE.jpg",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Ilustración del 2.º aniversario (Yoshinari): todo el reparto en una nube, fondo lima.",
-    "para_que": "Fondo de pantalla 4K; paleta promocional.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/ec/Summer_Vibes_Artwork_CPEDGE.jpg/revision/latest?cb=20241202160546",
-    "fuente": "Cyberpunk Wiki (Fandom), W3 · File:Summer Vibes Artwork CPEDGE.jpg",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "«Summer Vibes»: Rebecca con Guts, David y Lucy en una azotea.",
-    "para_que": "Fondo 4K; grupo relajado.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/64/Edgerunners_Original_Series_Soundtrack_Vinyl_Art_02_CPEDGE.jpg/revision/latest?cb=20231028163100",
-    "fuente": "Cyberpunk Wiki (Fandom), W127 · File:Edgerunners Original Series Soundtrack Vinyl Art 02 CPEDGE.jpg",
-    "ancho": 733,
-    "alto": 731,
-    "que_es": "Vinilo 2: David con un radiocasete, el equipo alrededor en picado.",
-    "para_que": "Pose de presentar; tono musical.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/80/David_Martinez_Concept_Art_01_CPEDGE.jpg/revision/latest?cb=20220927173721",
-    "fuente": "Cyberpunk Wiki (Fandom), W93 · File:David Martinez Concept Art 01 CPEDGE.jpg",
-    "ancho": 1665,
-    "alto": 1022,
-    "que_es": "Arte conceptual de David: giro de cuerpo y versiones de la chaqueta.",
-    "para_que": "Vestuario de David.",
-    "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
-  },
-  {
-    "url": "https://cyberpunk.fandom.com/wiki/Roach_Race",
-    "fuente": "Cyberpunk Wiki (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "La recreativa Roach Race del parche 1.6 «Edgerunners»: tabla de récords, premios, «にんじんゲット！».",
-    "para_que": "Justifica el objeto y su tabla de récords (concepto A, lámina 2).",
-    "licencia": "CC BY-SA (Fandom). Consulta."
-  },
-  {
-    "url": "https://www.cyberpunk.net/en/news/45280/edgerunners-update-patch-1-6-list-of-changes",
-    "fuente": "cyberpunk.net (oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Notas del parche 1.6 «Edgerunners Update».",
-    "para_que": "Recreativas, chaqueta de David, Guts, pegatinas y fotos en vertical del modo foto (§13).",
-    "licencia": "© CD PROJEKT RED. Consulta."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-2938ae13a77c46e8afabb41eba18e699",
-    "fuente": "Sketchfab · Hawtor Studio",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Rusty Japanese Arcade», recreativa oxidada (4.206 caras).",
-    "para_que": "Objeto del concepto A en Blender.",
-    "licencia": "CC BY 4.0 (comprobado en la API). Crédito: «Rusty Japanese Arcade» by Hawtor Studio."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-fc863ca4e3f94b4c8729f091e36238cf",
-    "fuente": "Sketchfab · Hrvoje Wächter",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Old Arcade Cabinets», varias recreativas gastadas.",
-    "para_que": "Fila de máquinas en el callejón (concepto A).",
-    "licencia": "CC BY 4.0 (API). Crédito: «Old Arcade Cabinets» by Hrvoje Wächter."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/guts-c047b8e543ba4323969cd72950c34f62",
-    "fuente": "Sketchfab · charlloyd",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Guts, la escopeta de Rebecca (3.806 caras).",
-    "para_que": "Objeto en primer plano apoyado en la recreativa.",
-    "licencia": "CC BY 4.0 (API). Crédito: «Guts» by charlloyd. Diseño original © CD PROJEKT RED."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-fab087c62fc3459a8b7664757d980c28",
-    "fuente": "Sketchfab · YD Visual",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Rótulo LED de neón japonés animado.",
-    "para_que": "Primer plano de neón (conceptos A y C).",
-    "licencia": "CC BY 4.0 (API)."
-  },
-  {
-    "url": "https://polyhaven.com/a/shanghai_bund",
-    "fuente": "Poly Haven",
-    "ancho": 16384,
-    "alto": 8192,
-    "que_es": "HDRI de ciudad de noche con neones.",
-    "para_que": "Luz del concepto A.",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://polyhaven.com/a/metro_noord",
-    "fuente": "Poly Haven",
-    "ancho": 24576,
-    "alto": 12288,
-    "que_es": "HDRI de estación de metro.",
-    "para_que": "Luz del concepto C (andén del NCART).",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Asphalt025C",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Asfalto con charcos.",
-    "para_que": "Suelo mojado bajo la recreativa.",
-    "licencia": "CC0."
-  },
-  {
-    "url": "https://fonts.google.com/specimen/Rajdhani",
-    "fuente": "Google Fonts (comprobada con fontTools)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Rajdhani, la letra de la interfaz de Cyberpunk 2077.",
-    "para_que": "Subtítulo del personaje (nombre coral, texto cian).",
-    "licencia": "SIL OFL. Trae á é í ó ú ñ ¿ ¡."
-  },
-  {
-    "url": "https://fonts.google.com/specimen/Anton",
-    "fuente": "Google Fonts (comprobada con fontTools)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Anton, palo seco muy condensado.",
-    "para_que": "Imitar los rótulos de nombre (A QUÉ JUEGAS).",
-    "licencia": "SIL OFL. Trae á é í ó ú ñ ¿ ¡."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=2I4ONpf9W3k",
-    "fuente": "YouTube · clip con audio latino",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Momentos divertidos» de Edgerunners en español latino (11:48).",
-    "para_que": "Frases latinas con minuto (§10.4), p. ej. «¿Qué te parecería si trabajamos juntos desde hoy?» (0:03).",
-    "licencia": "Clip de terceros. Consulta."
-  }
+ {
+  "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Cyberpunk.%20Edgerunners",
+  "fuente": "GitHub (kitsunekko-mirror)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos de Netflix de los 10 episodios en japonés (para sordos, con quién habla) e inglés, con tiempos.",
+  "para_que": "Minuto exacto de cada escena y frase (§2, §8, §15).",
+  "licencia": "Subtítulos subidos por terceros. Sólo consulta."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Cyberpunk:_Edgerunners",
+  "fuente": "Doblaje Wiki (API action=parse)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del doblaje latino: Grande Studios, Jessica Ángeles, reparto completo y datos de adaptación.",
+  "para_que": "Voces latinas (§10).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=c8YBuJhIVJY",
+  "fuente": "YouTube · ANISON USA",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista (1:01:26) a María José Moreno (Lucy) y José Ángel Torres (David), 25-sep-2022.",
+  "para_que": "Segunda fuente del doblaje; tono grave y frío de Lucy (19:49-20:15); libertad con las groserías (31:34).",
+  "licencia": "Vídeo de terceros. Consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=D6ia1wjO7sg",
+  "fuente": "YouTube · Cyberpunk 2077 (oficial) · Inside Look #2",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Trigger explica cómo hizo Night City y a David y Lucy (5:45).",
+  "para_que": "Fondos pintados sobre fotos del juego (2:05-2:39); diseño de David (2:49) y Lucy (3:47); rótulos de nombre.",
+  "licencia": "© CD PROJEKT RED / Netflix. Consulta."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/52/David_Inside_Look_2_ScreenCap_CPEDGE.png/revision/latest?cb=20220801193609",
+  "fuente": "Cyberpunk Wiki (Fandom), W47 · File:David Inside Look 2 ScreenCap CPEDGE.png",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rótulo de nombre DAVID: katakana arriba y nombre en letras condensadas con degradado lima (#45FF7D a #EBFF68).",
+  "para_que": "Tipografía propia para el nombre del canal (§6, concepto A).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/aa/Cyberpunk_Edgerunners_Teaser_Image_07.jpg/revision/latest?cb=20220612232410",
+  "fuente": "Cyberpunk Wiki (Fandom), W46 · File:Cyberpunk Edgerunners Teaser Image 07.jpg",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "El equipo en fila de noche (tráiler de junio de 2022): Dorio, Maine, Lucy, David, Pilar, Rebecca, Kiwi.",
+  "para_que": "Pose de grupo «nos apuntamos»; luz naranja de noche (§5.2, §15).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://github.com/JJaaGGo/PopArt-webPage-Cyberpunk-Edgerunners-Theme/blob/HEAD/Trend%20card%202.jpg",
+  "fuente": "GitHub (repositorio de fans), G26",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "El equipo caminando de espaldas; chaqueta amarilla de David con el emblema verde.",
+  "para_que": "Lámina «vamos de partida»; vestuario de David (§16).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/4/42/11Days_Rebecca_CPEDGE.jpeg/revision/latest?cb=20220903074000",
+  "fuente": "Cyberpunk Wiki (Fandom), W20 · File:11Days Rebecca CPEDGE.jpeg",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Cartón de cuenta atrás «11 days to go!»: Rebecca agachada apuntando al espectador, fondo lima.",
+  "para_que": "Pose de Rebecca para invitar o retar (concepto A).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://github.com/AlexandreDresch/EdgeRunners/blob/HEAD/public/images/characters/rebecca.png",
+  "fuente": "GitHub (repositorio de fans), G09",
+  "ancho": 1200,
+  "alto": 1410,
+  "que_es": "Render oficial de Rebecca sobre negro, manos en los bolsillos de la sudadera.",
+  "para_que": "Recorte limpio para presentar/saludar; colores medidos (§16).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/8b/Edgerunners_2024_Goodies_Artwork_CPEDGE.jpg/revision/latest?cb=20241219184716",
+  "fuente": "Cyberpunk Wiki (Fandom), W116 · File:Edgerunners 2024 Goodies Artwork CPEDGE.jpg",
+  "ancho": 1000,
+  "alto": 800,
+  "que_es": "Arte de la lotería online 2024: David, Lucy y Rebecca tirados en un sofá; marco amarillo de interfaz.",
+  "para_que": "El tono de «pasar el rato» de #a-que-juegas; Rebecca saluda con guiño.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://github.com/JJaaGGo/PopArt-webPage-Cyberpunk-Edgerunners-Theme/blob/HEAD/Layout%20card%203.png",
+  "fuente": "GitHub (repositorio de fans), G33",
+  "ancho": 1408,
+  "alto": 792,
+  "que_es": "Rebecca con brazos de gorila, puños arriba, riendo, fondo de día.",
+  "para_que": "Pose de celebrar (lámina 2 del concepto A).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/86/Cyberpunk_Edgerunners_Rebecca_Guns_01_CPEDGE.jpg/revision/latest?cb=20260701204540",
+  "fuente": "Cyberpunk Wiki (Fandom), W9 · File:Cyberpunk Edgerunners Rebecca Guns 01 CPEDGE.jpg",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Rebecca disparando con dos armas.",
+  "para_que": "Acción y celebración; referencia de Guts.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/b/bf/Edge_David_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220209",
+  "fuente": "Cyberpunk Wiki (Fandom), W26 · File:Edge David by Yoshiyuki Kaneko.png",
+  "ancho": 1280,
+  "alto": 1811,
+  "que_es": "Cartel amarillo de David: se señala con el pulgar, sonrisa enorme.",
+  "para_que": "Pose de presentar/animar (§15).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/2/29/Edge_Lucy_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220236",
+  "fuente": "Cyberpunk Wiki (Fandom), W28 · File:Edge Lucy by Yoshiyuki Kaneko.png",
+  "ancho": 1280,
+  "alto": 1811,
+  "que_es": "Cartel amarillo de Lucy: pistola levantada, mirada al espectador.",
+  "para_que": "Pose de advertir/regañar.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/2/24/Edge_Maine_by_Yoshiyuki_Kaneko.png/revision/latest?cb=20220916220306",
+  "fuente": "Cyberpunk Wiki (Fandom), W29 · File:Edge Maine by Yoshiyuki Kaneko.png",
+  "ancho": 1280,
+  "alto": 1811,
+  "que_es": "Cartel amarillo de Maine: busto, visor, sonrisa de lado.",
+  "para_que": "El jefe que acepta al nuevo (concepto B).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/60/Lucyna_Kushinada_Cosplay_Guide_04_CPEDGE.png/revision/latest?cb=20241216234609",
+  "fuente": "Cyberpunk Wiki (Fandom), W4 · File:Lucyna Kushinada Cosplay Guide 04 CPEDGE.png",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Guía oficial de cosplay de Lucy (cabeza y ojo), 2024.",
+  "para_que": "Colores medidos del pelo, maquillaje y traje (§16).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/89/Lucyna_Kushinada_Cosplay_Guide_05_CPEDGE.png/revision/latest?cb=20241216234611",
+  "fuente": "Cyberpunk Wiki (Fandom), W5 · File:Lucyna Kushinada Cosplay Guide 05 CPEDGE.png",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Guía oficial de cosplay de Lucy: puerto de buceo y tatuaje de la espalda.",
+  "para_que": "Vestuario de Lucy.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6a/Edgerunners_Original_Series_Soundtrack_Vinyl_Art_01_CPEDGE.jpg/revision/latest?cb=20231028163057",
+  "fuente": "Cyberpunk Wiki (Fandom), W104 · File:Edgerunners Original Series Soundtrack Vinyl Art 01 CPEDGE.jpg",
+  "ancho": 1123,
+  "alto": 1123,
+  "que_es": "Vinilo de la banda sonora: Lucy sentada abrazando las rodillas en un alféizar, luz violeta.",
+  "para_que": "Pose de pensar; concepto C.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://github.com/melendezdev/cyberpunk-edgerunners-project/blob/HEAD/src/assets/img/ICE.webp",
+  "fuente": "GitHub (repositorio de fans), G41",
+  "ancho": 1600,
+  "alto": 900,
+  "que_es": "Lucy escaneando a David en el tren con su HUD rojo.",
+  "para_que": "El HUD del ojo como cuadro de diálogo (§7, concepto C).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger / Netflix, subida por un fan a GitHub. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6f/Afterlife_01_EDGE.jpg/revision/latest?cb=20220915180335",
+  "fuente": "Cyberpunk Wiki (Fandom), W117 · File:Afterlife 01 EDGE.jpg",
+  "ancho": 1225,
+  "alto": 605,
+  "que_es": "El Afterlife por dentro: barra con luz verde menta.",
+  "para_que": "Sitio y luz del concepto B (#7CF6CC).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/50/Let-You-Down-MV-Maine-Crew.png/revision/latest?cb=20221030171706",
+  "fuente": "Cyberpunk Wiki (Fandom), W75 · File:Let-You-Down-MV-Maine-Crew.png",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "El equipo en un reservado del bar con bebidas (vídeo de «Let You Down»).",
+  "para_que": "Después de la partida; concepto B.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/d/db/Edgerunners_Slice_of_Life_Canvas_Art_CPEDGE.jpg/revision/latest?cb=20240718191457",
+  "fuente": "Cyberpunk Wiki (Fandom), W118 · File:Edgerunners Slice of Life Canvas Art CPEDGE.jpg",
+  "ancho": 1015,
+  "alto": 716,
+  "que_es": "Lienzo oficial «Slice of Life»: calle de noche con neón «Blue Moon», David junto al coche.",
+  "para_que": "Estilo de fondo nocturno (§18).",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6b/2_Year_Anniversary_Artwork_CPEDGE.jpg/revision/latest?cb=20241202160148",
+  "fuente": "Cyberpunk Wiki (Fandom), W2 · File:2 Year Anniversary Artwork CPEDGE.jpg",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ilustración del 2.º aniversario (Yoshinari): todo el reparto en una nube, fondo lima.",
+  "para_que": "Fondo de pantalla 4K; paleta promocional.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/ec/Summer_Vibes_Artwork_CPEDGE.jpg/revision/latest?cb=20241202160546",
+  "fuente": "Cyberpunk Wiki (Fandom), W3 · File:Summer Vibes Artwork CPEDGE.jpg",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "«Summer Vibes»: Rebecca con Guts, David y Lucy en una azotea.",
+  "para_que": "Fondo 4K; grupo relajado.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/64/Edgerunners_Original_Series_Soundtrack_Vinyl_Art_02_CPEDGE.jpg/revision/latest?cb=20231028163100",
+  "fuente": "Cyberpunk Wiki (Fandom), W127 · File:Edgerunners Original Series Soundtrack Vinyl Art 02 CPEDGE.jpg",
+  "ancho": 733,
+  "alto": 731,
+  "que_es": "Vinilo 2: David con un radiocasete, el equipo alrededor en picado.",
+  "para_que": "Pose de presentar; tono musical.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/80/David_Martinez_Concept_Art_01_CPEDGE.jpg/revision/latest?cb=20220927173721",
+  "fuente": "Cyberpunk Wiki (Fandom), W93 · File:David Martinez Concept Art 01 CPEDGE.jpg",
+  "ancho": 1665,
+  "alto": 1022,
+  "que_es": "Arte conceptual de David: giro de cuerpo y versiones de la chaqueta.",
+  "para_que": "Vestuario de David.",
+  "licencia": "© CD PROJEKT RED / Studio Trigger. Sólo referencia."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/Roach_Race",
+  "fuente": "Cyberpunk Wiki (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "La recreativa Roach Race del parche 1.6 «Edgerunners»: tabla de récords, premios, «にんじんゲット！».",
+  "para_que": "Justifica el objeto y su tabla de récords (concepto A, lámina 2).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://www.cyberpunk.net/en/news/45280/edgerunners-update-patch-1-6-list-of-changes",
+  "fuente": "cyberpunk.net (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Notas del parche 1.6 «Edgerunners Update».",
+  "para_que": "Recreativas, chaqueta de David, Guts, pegatinas y fotos en vertical del modo foto (§13).",
+  "licencia": "© CD PROJEKT RED. Consulta."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2938ae13a77c46e8afabb41eba18e699",
+  "fuente": "Sketchfab · Hawtor Studio",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Rusty Japanese Arcade», recreativa oxidada (4.206 caras).",
+  "para_que": "Objeto del concepto A en Blender.",
+  "licencia": "CC BY 4.0 (comprobado en la API). Crédito: «Rusty Japanese Arcade» by Hawtor Studio."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fc863ca4e3f94b4c8729f091e36238cf",
+  "fuente": "Sketchfab · Hrvoje Wächter",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Old Arcade Cabinets», varias recreativas gastadas.",
+  "para_que": "Fila de máquinas en el callejón (concepto A).",
+  "licencia": "CC BY 4.0 (API). Crédito: «Old Arcade Cabinets» by Hrvoje Wächter."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/guts-c047b8e543ba4323969cd72950c34f62",
+  "fuente": "Sketchfab · charlloyd",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guts, la escopeta de Rebecca (3.806 caras).",
+  "para_que": "Objeto en primer plano apoyado en la recreativa.",
+  "licencia": "CC BY 4.0 (API). Crédito: «Guts» by charlloyd. Diseño original © CD PROJEKT RED."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fab087c62fc3459a8b7664757d980c28",
+  "fuente": "Sketchfab · YD Visual",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Rótulo LED de neón japonés animado.",
+  "para_que": "Primer plano de neón (conceptos A y C).",
+  "licencia": "CC BY 4.0 (API)."
+ },
+ {
+  "url": "https://polyhaven.com/a/shanghai_bund",
+  "fuente": "Poly Haven",
+  "ancho": 16384,
+  "alto": 8192,
+  "que_es": "HDRI de ciudad de noche con neones.",
+  "para_que": "Luz del concepto A.",
+  "licencia": "CC0."
+ },
+ {
+  "url": "https://polyhaven.com/a/metro_noord",
+  "fuente": "Poly Haven",
+  "ancho": 24576,
+  "alto": 12288,
+  "que_es": "HDRI de estación de metro.",
+  "para_que": "Luz del concepto C (andén del NCART).",
+  "licencia": "CC0."
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Asphalt025C",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Asfalto con charcos.",
+  "para_que": "Suelo mojado bajo la recreativa.",
+  "licencia": "CC0."
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Rajdhani",
+  "fuente": "Google Fonts (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Rajdhani, la letra de la interfaz de Cyberpunk 2077.",
+  "para_que": "Subtítulo del personaje (nombre coral, texto cian).",
+  "licencia": "SIL OFL. Trae á é í ó ú ñ ¿ ¡."
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Anton",
+  "fuente": "Google Fonts (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anton, palo seco muy condensado.",
+  "para_que": "Imitar los rótulos de nombre (A QUÉ JUEGAS).",
+  "licencia": "SIL OFL. Trae á é í ó ú ñ ¿ ¡."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=2I4ONpf9W3k",
+  "fuente": "YouTube · clip con audio latino",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Momentos divertidos» de Edgerunners en español latino (11:48).",
+  "para_que": "Frases latinas con minuto (§10.4), p. ej. «¿Qué te parecería si trabajamos juntos desde hoy?» (0:03).",
+  "licencia": "Clip de terceros. Consulta."
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Paper004.png",
+  "fuente": "ambientCG, API v2",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de grano de papel envejecido (Paper004), mapa hasta 2048x2048.",
+  "para_que": "Punto 19: grano de papel real equivalente al del manga/cartones de cuenta atrás.",
+  "licencia": "CC0 (ambientCG)."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/c/c8/Trauma_Team_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 3134,
+  "alto": 1064,
+  "que_es": "Logo oficial de la corporación médica Trauma Team.",
+  "para_que": "Punto 19: emblema/logo para texturas 2D.",
+  "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/67/Militech_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 3840,
+  "alto": 582,
+  "que_es": "Logo oficial de la corporación Militech.",
+  "para_que": "Punto 19: emblema/logo para texturas 2D.",
+  "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/5f/Arasaka_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Logo oficial de la corporación Arasaka (el mismo universo que Edgerunners).",
+  "para_que": "Punto 19: emblema/logo para texturas 2D (carteles, pegatinas de la recreativa).",
+  "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual, no reutilizar el archivo."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/c/c6/6th_Street_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Logo oficial de la banda 6th Street.",
+  "para_que": "Símbolo del mundo (punto 25).",
+  "licencia": "© CD PROJEKT RED. Sólo referencia."
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/cyberpunk-2077/cyberpunk-2077-dialogue.png",
+  "fuente": "Interface In Game",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura del subtítulo de diálogo de Cyberpunk 2077: sin caja, centrado abajo.",
+  "para_que": "Confirma el estilo de cuadro de diálogo del juego (punto 6).",
+  "licencia": "Captura de juego, archivo de terceros. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/4/4d/Tyger_Claws_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 1391,
+  "alto": 1059,
+  "que_es": "Logo oficial de los Tyger Claws: naranja/negro, garra estilizada.",
+  "para_que": "Símbolo del mundo (punto 25): banda de Night City.",
+  "licencia": "© CD PROJEKT RED. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/1/19/Maelstrom_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 1389,
+  "alto": 675,
+  "que_es": "Logo oficial de la banda Maelstrom: rojo, símbolo agresivo tipo calavera/máquina.",
+  "para_que": "Símbolo del mundo (punto 25): banda de Night City.",
+  "licencia": "© CD PROJEKT RED. Sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8ct6i8",
+  "fuente": "Dailymotion · Sensacine",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial VOSE (subtítulos en español de España, no latino), 2:59, 17272 vistas.",
+  "para_que": "Punto 10 (vídeo con minuto: \"Bienvenidos a Night City\" 0:28, \"Llévalo al límite\" 0:48, logo a 2:24).",
+  "licencia": "© Netflix. Vídeo de terceros, sólo consulta."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/5d/Kang_Tao_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 1920,
+  "alto": 407,
+  "que_es": "Logo oficial de la corporación armamentística Kang Tao.",
+  "para_que": "Símbolo del mundo (punto 25).",
+  "licencia": "© CD PROJEKT RED. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/1/15/Rebecca_Acquiring_Guts_CPEDGEMAD.jpg",
+  "fuente": "Cyberpunk Wiki (Fandom), manga Edgerunners MADNESS",
+  "ancho": 914,
+  "alto": 634,
+  "que_es": "Página del manga oficial MADNESS: Rebecca consigue la escopeta Guts, con trama de rejilla y líneas de velocidad.",
+  "para_que": "Punto 19: referencia real de la trama de manga (screentone) de la franquicia.",
+  "licencia": "Propiedad de CD PROJEKT RED / KADOKAWA; sólo mirar, no reutilizar el archivo."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/7/70/Rebecca_%28Madness%29_Infobox_CPEDGE.png",
+  "fuente": "Cyberpunk Wiki (Fandom), manga Edgerunners MADNESS",
+  "ancho": 702,
+  "alto": 816,
+  "que_es": "Retrato de Rebecca niña del manga MADNESS, con trama de rejilla en el cuello y hombros.",
+  "para_que": "Punto 19: otra muestra de la trama de manga oficial.",
+  "licencia": "Propiedad de CD PROJEKT RED / KADOKAWA; sólo mirar."
+ },
+ {
+  "url": "https://gear.cdprojektred.com/cdn/shop/files/GRID-1_6e4bd277-abaf-4892-85cb-142bf72faa52.jpg?v=1737383644",
+  "fuente": "CD PROJEKT RED Gear Store (tienda oficial)",
+  "ancho": 600,
+  "alto": 900,
+  "que_es": "Foto de producto de la litografía de aniversario de Edgerunners por Studio Trigger.",
+  "para_que": "Punto 1/23: confirma que la litografía es un producto oficial real (antes ⚠️ una fuente).",
+  "licencia": "Producto con copyright de CD PROJEKT RED / Studio Trigger; sólo referencia, no venta."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/4/49/Valentinos_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 506,
+  "alto": 845,
+  "que_es": "Logo oficial de los Valentinos.",
+  "para_que": "Símbolo del mundo (punto 25).",
+  "licencia": "© CD PROJEKT RED. Sólo referencia."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_01_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_01_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 1 completo, 360p. Mirado con fotogramas.py: confirma que no tiene opening cantado y la pelea bajo la lluvia (0:24-0:56) con la que arranca la serie.",
+  "para_que": "Punto 2 (escena icónica 1, el ambiente de la recreativa bajo la lluvia) y punto 4 (paleta medida: azul/violeta de sirena, cian apagado).",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_02_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_02_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 2 completo, 360p. Mirado 19:30-21:30: el BD lunar de David y Lucy con la canción de Rosa Walton.",
+  "para_que": "Punto 9 (minuto confirmado de \"I Really Want to Stay at Your House\") y punto 14 (poses de Lucy y David en el rover lunar).",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_03_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_03_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 3 completo, 360p. Mirado 0:00-1:36 (opening real \"This Fffire\"), 4:55-8:20 (interrogatorio/braindance) y 17:00-18:05 (celebración en el Afterlife, incluida la pose de Maine de espaldas con la capucha roja a 18:00).",
+  "para_que": "Punto 2 (opening real, filtro verde del interrogatorio), punto 10 (minuto exacto del opening) y punto 14 (pose de Maine \"marcar las reglas\").",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_04_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_04_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 4 completo, 360p. Mirado 21:20-21:58 (promesa de la luna, filtro nightvision verde entero) y 22:40-23:16 (ending real \"Let You Down\").",
+  "para_que": "Punto 2 (escena icónica 2, filtro de cámara verde) y punto 9/10 (ending real con minuto).",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_06_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_06_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 6 completo, 360p. Mirado 22:10-22:48: la muerte de Maine (visor fracturándose en verde, elipsis visual sin mostrar el golpe) y su pose de espaldas caminando por las Badlands junto a Dorio (22:22-22:24).",
+  "para_que": "Punto 2 (escena icónica 3), punto 4 (paleta medida del HUD verde) y punto 14 (pose de Maine \"liderar / ir al frente\").",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_07_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_07_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 7 completo, 360p. Mirado 11:10-12:10: Kiwi llama al Afterlife (aviso \"KIWI\" en pantalla, 11:25) y aparece junto a Faraday con su media máscara (11:40).",
+  "para_que": "Punto 14 (pose de Kiwi \"presentar con cautela / vigilar\").",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://archive.org/details/cyberpunk_edgerunners_09_360",
+  "fuente": "Internet Archive · cyberpunk_edgerunners_09_360",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Episodio 9 completo, 360p. Mirado 5:15-5:45: Kiwi agotada y triste tras la muerte de Maine, dormida en el sofá, David mirándola.",
+  "para_que": "Punto 14 (pose de Kiwi \"vulnerabilidad / bajón del grupo\", completa las 6 poses mínimas).",
+  "licencia": "© Netflix / Studio Trigger. Sólo consulta, se borró el vídeo tras sacar las hojas."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/ae/Kiroshi_Logo_CP2077.png",
+  "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+  "ancho": 502,
+  "alto": 116,
+  "que_es": "Logo oficial de la corporación Kiroshi Optics.",
+  "para_que": "Punto 19: emblema/logo para texturas 2D.",
+  "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"[FREE] Manga Screentone Pack 1\": pinceles de trama de manga gratis para Clip Studio Paint.",
+  "para_que": "Punto 19: recrear digitalmente la trama de manga vista en las hojas.",
+  "licencia": "Gratis en Clip Studio Assets; revisar términos de uso comercial antes de vender la lámina."
+ },
+ {
+  "url": "https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/",
+  "fuente": "GraphicsBunker",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pack gratuito de pinceles de screentone/manga para Procreate, Photoshop y Clip Studio Paint.",
+  "para_que": "Punto 19: alternativa gratis a la trama de manga, con más densidades de punto.",
+  "licencia": "Gratis (descarga a $0 en Gumroad); licencia comercial no aclarada, revisar antes de vender."
+ },
+ {
+  "url": "https://www.behance.net/gallery/71632077/My-digital-oil-painting-brushes-(FREE)-for-Photoshop",
+  "fuente": "Behance (Martina Palazzese)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pinceles de pintura al óleo digital gratuitos para Photoshop, de la ilustradora Martina Palazzese.",
+  "para_que": "Punto 19: pincelada para imitar los fondos pintados a mano de Trigger.",
+  "licencia": "Gratis, publicados por la autora en su propio portafolio de Behance."
+ },
+ {
+  "url": "https://gear.cdprojektred.com/collections/cyberpunk-edgerunners",
+  "fuente": "CD PROJEKT RED Gear Store (tienda oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Catálogo completo del merchandising oficial de Edgerunners: figuras (FigZero, Funko, Youtooz, Kotobukiya), réplicas, ropa y objetos de casa.",
+  "para_que": "Punto 23: qué objetos de la serie ya son merchandising real (pistas de qué es icónico).",
+  "licencia": "Tienda oficial de CD PROJEKT RED."
+ },
+ {
+  "url": "https://www.sideshow.com/collectibles/cyberpunk-2077-lucy-prime-1-studio-914452",
+  "fuente": "Sideshow Collectibles (distribuidor oficial de Prime 1 Studio)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Estatua de Lucy escala 1/4 (50 cm) de Prime 1 Studio, apoyada en la barra del Afterlife.",
+  "para_que": "Punto 23: figura oficial con pose de referencia 3D (Lucy relajada, apoyada).",
+  "licencia": "Producto con licencia oficial de CD PROJEKT RED, fabricado por Prime 1 Studio."
+ },
+ {
+  "url": "https://www.toy-people.com/en/?p=100665",
+  "fuente": "Toy People",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Estatua de Rebecca escala 1/4 de Prime 1 Studio, estilo realista del videojuego.",
+  "para_que": "Punto 23: figura oficial, referencia de pose y proporciones 3D de Rebecca.",
+  "licencia": "Producto con licencia oficial; nota de prensa del fabricante."
+ },
+ {
+  "url": "https://www.goodsmile.com/en/product/1140950",
+  "fuente": "Good Smile Company (fabricante oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "BUZZmod. Rebecca, figura de acción articulada 1/12 de Cyberpunk: Edgerunners.",
+  "para_que": "Punto 23: figura oficial articulada, útil para poses de Rebecca en varias posturas.",
+  "licencia": "Producto con licencia oficial de Good Smile Company."
+ },
+ {
+  "url": "https://www.insertcoinclothing.com/cyberpunk-edgerunners/",
+  "fuente": "Insert Coin Clothing (tienda con licencia oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colección de ropa con licencia oficial de Edgerunners: chaqueta de David, camisetas de Lucy y Rebecca.",
+  "para_que": "Punto 15/23: réplica real de la chaqueta icónica de David, con sus costuras y forro.",
+  "licencia": "Ropa con licencia oficial de CD PROJEKT RED."
+ },
+ {
+  "url": "https://www.tokyoweekender.com/entertainment/entertainment-roundup-stylish-streetwear-with-cyberpunk-edgerunners-collaboration/",
+  "fuente": "Tokyo Weekender",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre la colaboración de streetwear Nonsense x Cyberpunk Edgerunners (enero 2024): camisetas, balaclava, «Corporate Jacket» con logos de corporaciones.",
+  "para_que": "Punto 19/23: ejemplo real de los logos de corporaciones aplicados a una prenda.",
+  "licencia": "Artículo periodístico; la ropa es de la marca Nonsense con licencia."
+ },
+ {
+  "url": "https://www.yayahan.com/post/cosplaying-lucy-from-cyberpunk-edgerunners",
+  "fuente": "Yaya Han (cosplayer profesional), blog personal",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Making-of detallado del cosplay de Lucy: telas usadas, construcción de la chaqueta flotante con espuma EVA, peluca aerografiada.",
+  "para_que": "Punto 23: cosplay bien hecho, con materiales y volumen reales explicados paso a paso.",
+  "licencia": "Contenido propio de la autora (Yaya Han), sólo como referencia, no para copiar imágenes."
+ },
+ {
+  "url": "https://www.crunchyroll.com/news/latest/2025/4/25/cyberpunk-edgerunners-anime-insert-coin-david-jacket",
+  "fuente": "Crunchyroll News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota de prensa sobre la colaboración de ropa Insert Coin x Cyberpunk Edgerunners.",
+  "para_que": "Punto 23: segunda fuente que confirma la colaboración de ropa oficial.",
+  "licencia": "Artículo periodístico."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=EWB7ylAVObY&t=177s",
+  "fuente": "YouTube · Gigguk",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"The Cyberpunk Anime is Actually Incredible\" (11:29). Capítulos propios: Intro 0:00, Sponsor 2:01, análisis \"Edge Runners\" 2:57-11:29.",
+  "para_que": "Punto 10 (vídeo de análisis con minutado exacto, antes marcado como no disponible).",
+  "licencia": "Vídeo de terceros. Consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=3PTX0lO7tpU&t=808s",
+  "fuente": "YouTube · The Canipa Effect",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de la música de Cyberpunk 2077/Edgerunners (15:08). Capítulo dedicado a \"I Really Want to Stay at Your House\" (13:28-15:08).",
+  "para_que": "Punto 9 (análisis musical con minuto exacto de la canción de David y Lucy).",
+  "licencia": "Vídeo de terceros. Consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Xv9MdoAt3gQ",
+  "fuente": "YouTube · Swamp Jawn",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"Una historia en 6 segundos\" (9:33). Minutado en descripción: Intro 0:00, Anticipación 0:47, Impacto 5:31, Secuela 8:15.",
+  "para_que": "Punto 10 (vídeo de análisis de animación con minutado).",
+  "licencia": "Vídeo de terceros. Consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=j2nHAPtCjBk&t=585s",
+  "fuente": "YouTube · MankoMan",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de animación (23:27). Minutado en descripción: \"Kanada style animation\" 9:45, desglose de animación 11:10-21:58.",
+  "para_que": "Punto 10 (vídeo de análisis) y punto 18 (vocabulario técnico \"estilo Kanada\" para el redactor).",
+  "licencia": "Vídeo de terceros. Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/Doc_(Edgerunners)",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Doc: confirma que su clínica está en Arroyo, Santo Domingo, Night City.",
+  "para_que": "Punto 4 (segunda fuente del sitio de la clínica de Doc, pasa de ⚠️ a ✅).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/2nd_Amendment",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la cadena de armerías 2nd Amendment: confirma la tienda de Megaedificio H10, Little China.",
+  "para_que": "Punto 4 (segunda fuente del sitio de la escena de tiro de David y Rebecca).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/David%27s_Jacket",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la chaqueta de David: el logo verde de la espalda es el de la XBD 'Edgerunners' de Jimmy Kurosaki.",
+  "para_que": "Símbolo/objeto icónico (punto 25); resuelve la duda sobre el emblema de la espalda.",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/Jimmy_Kurosaki",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Jimmy Kurosaki, editor de braindance, autor de la serie XBD 'Edgerunners' (32 episodios).",
+  "para_que": "Segunda fuente que confirma el origen del logo de la chaqueta (punto 25).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/Streetslang",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Glosario oficial de la jerga del universo Cyberpunk (choom, gonk, eddies, preem, chrome, edgerunner...).",
+  "para_que": "Vocabulario propio del mundo (punto 25).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners",
+  "fuente": "Cyberpunk Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la serie: lista de los 10 episodios con duración exacta, personajes y locaciones.",
+  "para_que": "Historia por arcos y momentos clave (punto 25); staff e influencias (punto 24).",
+  "licencia": "CC BY-SA (Fandom). Consulta."
+ },
+ {
+  "url": "https://www.awn.com/animationworld/cyberpunk-edgerunners-vibrant-ode-retro-anime",
+  "fuente": "Animation World Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo con citas de Otsuka, Imaishi y Yoshinari sobre la técnica de animación (Sandevistan, escenas de red, influencias).",
+  "para_que": "Estilo y técnica, cómo replicarlo (punto 18); obras que influyeron (punto 24).",
+  "licencia": "Editorial, consulta y cita."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0105aad132d04217ad2371da44b51f7a",
+  "fuente": "Sketchfab (API v3)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de David Martinez, 190.508 caras.",
+  "para_que": "Rig libre del personaje para Blender (punto 18).",
+  "licencia": "CC Attribution. Requiere crédito al autor."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c9a1a0795acc469bad9c0c47158e436b",
+  "fuente": "Sketchfab (API v3)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Rebecca, 130.402 caras.",
+  "para_que": "Rig libre del personaje para Blender (punto 18).",
+  "licencia": "CC Attribution. Requiere crédito al autor."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7cc2f167a5e84a1aa0bc620ef9b5dcfd",
+  "fuente": "Sketchfab (API v3)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Lucy ('Sketchfab Broke').",
+  "para_que": "Rig libre del personaje para Blender (punto 18).",
+  "licencia": "CC Attribution. Requiere crédito al autor."
+ },
+ {
+  "url": "https://artisticrender.com/cel-shading-in-blender/",
+  "fuente": "Artisticrender.com (tutorial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guía de cel-shading en Blender: Shader to RGB, rampa de color, Freestyle y Solidify para el contorno.",
+  "para_que": "Cómo replicar el estilo en Blender (punto 18).",
+  "licencia": "Tutorial público, técnica libre de aplicar."
+ },
+ {
+  "url": "https://resourceboy.com/photoshop-brushes/glitch-brushes/",
+  "fuente": "Resource Boy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Más de 200 pinceles de Photoshop de glitch/aberración cromática, gratuitos.",
+  "para_que": "Cómo replicar los filtros de la animación en Photoshop (punto 18).",
+  "licencia": "Pinceles gratuitos (revisar cada pack; uso personal/comercial según licencia indicada)."
+ },
+ {
+  "url": "https://blog.spoongraphics.co.uk/tutorials/how-to-apply-cyberpunk-style-color-grading-neon-effects-to-your-photos",
+  "fuente": "Spoongraphics (tutorial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tutorial paso a paso de neón, grano y aberración cromática en Photoshop.",
+  "para_que": "Cómo replicar el estilo en Photoshop (punto 18).",
+  "licencia": "Tutorial público, técnica libre de aplicar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/mplusrounded1c/MPLUSRounded1c-Regular.ttf",
+  "fuente": "GitHub (google/fonts)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente M PLUS Rounded 1c, comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü.",
+  "para_que": "Letra libre para el katakana redondo de los rótulos (punto 5).",
+  "licencia": "SIL Open Font License."
+ },
+ {
+  "url": "https://anilist.co/anime/120377",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la obra: recomendaciones de usuarios (Akudama Drive, Ghost in the Shell, Psycho-Pass, Redline...).",
+  "para_que": "Obras parecidas (punto 24).",
+  "licencia": "Datos públicos de la API de AniList. Consulta."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/5f/Series_profile_edgerunners.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 2765,
+  "alto": 4101,
+  "que_es": "David Martinez: Series profile edgerunners.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/ec/Summer_Vibes_Artwork_CPEDGE.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: Summer Vibes Artwork CPEDGE.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/e3/Lucyna_Kushinada_Cosplay_Guide_07_CPEDGE.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: Lucyna Kushinada Cosplay Guide 07 CPEDGE.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/60/Lucyna_Kushinada_Cosplay_Guide_06_CPEDGE.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: Lucyna Kushinada Cosplay Guide 06 CPEDGE.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/89/Lucyna_Kushinada_Cosplay_Guide_05_CPEDGE.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: Lucyna Kushinada Cosplay Guide 05 CPEDGE.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/60/Lucyna_Kushinada_Cosplay_Guide_04_CPEDGE.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: Lucyna Kushinada Cosplay Guide 04 CPEDGE.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/6b/2_Year_Anniversary_Artwork_CPEDGE.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Lucyna Kushinada: 2 Year Anniversary Artwork CPEDGE.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/86/Cyberpunk_Edgerunners_Rebecca_Guns_01_CPEDGE.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Rebecca: Cyberpunk Edgerunners Rebecca Guns 01 CPEDGE.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/0/0c/CP_Edge_Rebecca%27s_thigh_tatto_detail.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Rebecca: CP Edge Rebecca's thigh tatto detail.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/84/Cyberpunk_Edgerunners_S1_Poster_Lucy_en.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1500,
+  "alto": 2222,
+  "que_es": "Lucyna Kushinada: Cyberpunk Edgerunners S1 Poster Lucy en.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/ab/Rebecca_concept_art.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1448,
+  "alto": 2048,
+  "que_es": "Rebecca: Rebecca concept art.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/b/b5/0Days_Edgerunners_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1431,
+  "alto": 2048,
+  "que_es": "Lucyna Kushinada: 0Days Edgerunners CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/88/8Days_Edgerunners_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Lucyna Kushinada: 8Days Edgerunners CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/7/7a/5Days_Lucy_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Lucyna Kushinada: 5Days Lucy CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/3/33/6Days_David_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "David Martinez: 6Days David CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/c/cd/12Days_David_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "David Martinez: 12Days David CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/81/10Days_JK_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "David Martinez: 10Days JK CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/3/34/4Days_Rebecca_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Rebecca: 4Days Rebecca CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/4/42/11Days_Rebecca_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Rebecca: 11Days Rebecca CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/b/bf/3Days_Kiwi_CPEDGE.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Kiwi: 3Days Kiwi CPEDGE.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1383,
+  "alto": 2048,
+  "que_es": "David Martinez: Cyberpunk Edgerunners Trigger 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/65/Kiwi_CPEDGE.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1266,
+  "alto": 2048,
+  "que_es": "Kiwi: Kiwi CPEDGE.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/b/bf/Edge_David_by_Yoshiyuki_Kaneko.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1280,
+  "alto": 1811,
+  "que_es": "David Martinez: Edge David by Yoshiyuki Kaneko.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/ea/Edge_Kiwi_by_Yoshiyuki_Kaneko.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1280,
+  "alto": 1811,
+  "que_es": "Kiwi: Edge Kiwi by Yoshiyuki Kaneko.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/d/d2/Kiwi_Mask_CPEDGE.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1471,
+  "alto": 1451,
+  "que_es": "Kiwi: Kiwi Mask CPEDGE.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/e/e3/Kiwi_Inside_Look_2_ScreenCap_CPEDGE.png",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kiwi: Kiwi Inside Look 2 ScreenCap CPEDGE.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/aa/Cyberpunk_Edgerunners_Teaser_Image_07.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kiwi: Cyberpunk Edgerunners Teaser Image 07.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/8/89/Cyberpunk_Edgerunners_Official_Trailer_Image_05.jpg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kiwi: Cyberpunk Edgerunners Official Trailer Image 05.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/65/Maine_2020HOTB.jpeg",
+  "fuente": "Fandom cyberpunk",
+  "ancho": 564,
+  "alto": 866,
+  "que_es": "Maine: Maine 2020HOTB.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/2y/wallhaven-2yggr6.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5588,
+  "alto": 8192,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Cyberpunk 2077, Lucyna Kushinada (Cyberpunk: Edgerunners), anime, anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por zireael; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ex/wallhaven-exzrmw.png",
+  "fuente": "Wallhaven",
+  "ancho": 4800,
+  "alto": 2880,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Lucyna Kushinada (Cyberpunk: Edgerunners), Cyberpunk 2077, anime, anime girls, anime boys)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/pk/wallhaven-pkr6mp.png",
+  "fuente": "Wallhaven",
+  "ancho": 4800,
+  "alto": 2700,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, anime, cyberpunk, neon, city, pillow)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqg75p.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2400,
+  "alto": 5200,
+  "que_es": "Fondo de pantalla (anime, anime girls, Lucyna Kushinada (Cyberpunk: Edgerunners), Cyberpunk: Edgerunners, portrait display, space)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Zains; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/jx/wallhaven-jx1ex5.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4425,
+  "alto": 2654,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Lucyna Kushinada (Cyberpunk: Edgerunners), anime girls, profile, cats, rain)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kx/wallhaven-kx996m.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4093,
+  "alto": 2527,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, space, spacesuit, artwork, anime, Lucyna Kushinada (Cyberpunk: Edgerunners))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MarcusTray; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpzve7.png",
+  "fuente": "Wallhaven",
+  "ancho": 4096,
+  "alto": 2494,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Cyberpunk 2077, anime, Echosdoodle, planet, window)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/3l/wallhaven-3lo8q3.png",
+  "fuente": "Wallhaven",
+  "ancho": 3830,
+  "alto": 2200,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, anime, anime girls, Lucyna Kushinada (Cyberpunk: Edgerunners), TV series, face)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/57/wallhaven-571998.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Lucyna Kushinada (Cyberpunk: Edgerunners), David Martinez (Edgerunners), Netflix TV Series, Netflix, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o3/wallhaven-o3km89.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, CD Projekt RED, trigger, anime, anime girls, STUDIO MASSKET)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por orsted2222; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7p/wallhaven-7pgm59.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2012,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, Cyberpunk 2077, Lucyna Kushinada (Cyberpunk: Edgerunners), anime girls, anime, city)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por andy19esp; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/72/wallhaven-72ddzy.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3332,
+  "alto": 2026,
+  "que_es": "Fondo de pantalla (anime girls, Moyu Marginal, Cyberpunk: Edgerunners, Rebecca (Cyberpunk: Edgerunners), cyberpunk, red eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por OneCivilization; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/rr/wallhaven-rr7xjq.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3440,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (David Martinez (Edgerunners), Lucyna Kushinada (Cyberpunk: Edgerunners), rear view, anime, anime boys, anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por fategenesisboii; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/q2/wallhaven-q2w5or.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Cyberpunk: Edgerunners, cyberpunk, Cyberpunk 2077, trigger, CD Projekt RED, Netflix)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por orsted2222; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqxgql.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Cyberpunk 2077, Cyberpunk: Edgerunners, Lucyna Kushinada (Cyberpunk: Edgerunners), anime, anime girls, minimalism)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Eraserhead; © su autor"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-6a0e3b97a8a54f2a909d351322916293",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Neighbourhood City Modular lowpoly de golukumar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "Free Standard"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3f24e5c5bf924f46b30d9a392afa9624",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Cyberpunk City de golukumar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2c02d343100f4e129f6d26ebdae128e3",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Beautiful city de golukumar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "Free Standard"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-14941a37dcbf4efd9c1f1d713aa157de",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: city de abhayexe",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5fad2351e34f4c069a2eec45cce0824c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Full Gameready City Buildings [retextured] de golukumar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-925230e8f5ef414d96e32e75078f9b58",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Futuristic Dystopian City Gameready de golukumar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "Free Standard"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1042ed786b0946b6b1aa910cfb37e96c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: LUCY (EDGERUNNER) de Adwerd Jr.",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4e5ee86e11e8470a8f621f6cc754bc40",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Wuthering Waves Lucy (downloadable) de Spessartite",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "Free Standard"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4ba0d61942274ccf94f7cfe5d6f0517a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Wuthering Waves Rebecca (downloadable) de Spessartite",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "Free Standard"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4fbd003f3a1748fe89e30d6a2fef9047",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: David Martinez de Xetirano",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7a4fde3b05a04ba6a4e2048eb2e6cc90",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: David_Martinez(Lego) de Noslider",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-01a65f54ef1e489486da658471926b22",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Low-poly Cyberpunk Exoskeleton Sandevistan de DarianDS",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-382c37b4f1c3435e8155b08d56222ce9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: LowPoly Rebecca (Cyberpunk Edgerunners) de KelpieBoye",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0e1eeeb683ab477a913e30b26851330d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Rebecca [CYBERPUNK: EDGERUNNERS] de Daniel GoE",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-NoDerivs"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1d4aa6e412794bdd94bf7cd91b0902c4",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: UMP Rebecca Edition - Cyberpunk Fan Art de Levi Giovani",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2461417b53ea4c4bad7d1a0f2e79f2d9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Rebecca Cyberpunk de Dalopera3D",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-836ad10b38b146478afadbf4f61ad302",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Militech M-76e Omaha - Cyberpunk 2077 de GlitchLab studio",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cosplay_of_Lucy_at_CWT63_%2852662663306%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 4000,
+  "alto": 6000,
+  "que_es": "Cosplay of Lucy at CWT63 (52662663306)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Wei-Te Wong"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Made_In_Asia_2023_-_Cyberpunk_Edgerunners_Lucy_Cosplayer.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 3520,
+  "alto": 5538,
+  "que_es": "Made In Asia 2023 - Cyberpunk Edgerunners Lucy Cosplayer",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Miguel Discart & Kiri Karma"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cosplay_of_Lucy_at_CWT63_%2852662663306%29_%28cropped%29_01.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 3200,
+  "alto": 5697,
+  "que_es": "Cosplay of Lucy at CWT63 (52662663306) (cropped) 01",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Wei-Te Wong"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anime_Las_Vegas_2025_Cyberpunk_Edgerunners_%2854515044617%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 2048,
+  "alto": 1254,
+  "que_es": "Anime Las Vegas 2025 Cyberpunk Edgerunners (54515044617)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Tomás Del Coro from Fabulous Las Vegas, Nevada, USA"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Anime_Las_Vegas_2025_Cyberpunk_Edgerunners_%2854516071709%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 2048,
+  "alto": 1074,
+  "que_es": "Anime Las Vegas 2025 Cyberpunk Edgerunners (54516071709)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Tomás Del Coro from Fabulous Las Vegas, Nevada, USA"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52551348865_f0749e03e4_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Cyberpunk: Edgerunners - Lucy",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52551174249_b5ecef0643_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Cyberpunk: Edgerunners - Lucy",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52551167479_c3ac0d4a2e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Cyberpunk: Edgerunners - Lucy",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53391874206_649a41d344_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "L.A. Comic-Con 2023 - CYBERPUNK EDGERUNNERS - REBECCA",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Howie Muzika"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53392058463_0e8ac1bb4d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "L.A. Comic-Con 2023 - CYBERPUNK EDGERUNNERS - REBECCA",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Howie Muzika"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53391874161_ab8a9ffa3d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "L.A. Comic-Con 2023 - CYBERPUNK EDGERUNNERS - REBECCA",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Howie Muzika"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53392311000_fcbb52fc13_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "L.A. Comic-Con 2023 - CYBERPUNK EDGERUNNERS - REBECCA",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Howie Muzika"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54520834455_1c3d7c469a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Cyberpunk: Edgerunners David",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor 香蕉芒果罐頭"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53767106284_4fc2633eef_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Cyberpunk Edgerunners Cosplayers",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor John Manard"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/53766970898_0b177cfb33_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Cyberpunk Edgerunners Cosplayers",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor John Manard"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54515044617_4564533e66_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 627,
+  "que_es": "Anime Las Vegas 2025 Cyberpunk Edgerunners",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor TDelCoro"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54516071709_bdd4a60460_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 537,
+  "que_es": "Anime Las Vegas 2025 Cyberpunk Edgerunners",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor TDelCoro"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076440/ss_0e3c4d575eee928d088de1a5031742c84de08e5a.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Fantasy Grounds - Cyberpunk RED - Cyberpunk: Edgerunners Mission Kit",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076440/ss_ebc981d9218f00aec36c8ba347043570a58ebcb0.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Fantasy Grounds - Cyberpunk RED - Cyberpunk: Edgerunners Mission Kit",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076440/ss_13a641ea85f23a0a45676cdbb31633b0bba5c615.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Fantasy Grounds - Cyberpunk RED - Cyberpunk: Edgerunners Mission Kit",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076440/ss_651eaa99dfdca5eec0645f652caad07454abe077.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Fantasy Grounds - Cyberpunk RED - Cyberpunk: Edgerunners Mission Kit",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076440/ss_df5a241f4c834620bc67ef15e8f418d4295bece5.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Fantasy Grounds - Cyberpunk RED - Cyberpunk: Edgerunners Mission Kit",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Lucy",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rebecca",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de David Martinez",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Maine",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kiwi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Falco",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Adam Smasher",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gloria Martinez",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Dorio",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ripperdoc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Pilar",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Faraday",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Delamain",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jimmy Kurosaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rogue Amendiares",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120377-c15oLS8CA31s.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b07dec8d1a676c4dee08fd24c7b0deef3883d3c9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5839,
+  "alto": 7563,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4111/eab819f9ce0b721448018eed687ab3c3938ed71d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4032,
+  "alto": 3024,
+  "que_es": "Fan art de gotoh_hitori (https://phenomen0ms.tumblr.com/post/713745808632250368)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/818/92e2a3e2b5138cb129c5a455f297aeed3072b9db.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 2901,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://x.com/miyama_crow/status/2034178238256451945)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4243/57057d1498d8352a310612c2b9424b7bc465c12c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/07/06/12/03/17/109665825_p18.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4339/80ba6426975365233eac129f662752db68ae2243.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2813,
+  "alto": 4096,
+  "que_es": "Fan art de rebecca_(cyberpunk) (https://twitter.com/PietheUnusual/status/1704517615853707350)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3984/37265054c1c28b25346d60669194de68490996bb.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 2813,
+  "que_es": "Fan art de rebecca_(cyberpunk) (https://i.pximg.net/img-original/img/2022/10/05/15/21/16/101701542_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4092/8101ca0e910c948464b512522109bcb215b3bd1d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3840,
+  "alto": 2600,
+  "que_es": "Fan art de maine_(cyberpunk) (https://i.pximg.net/img-original/img/2023/01/22/15/30/41/104720700_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1290/b577b81b79e2c4c01a355063061e2d4c4116f675.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2800,
+  "alto": 3500,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://twitter.com/stephengiannart/status/1903507768633344010)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3981/b71cd5d1086350307dcc251b2e8350e2c38cf3b1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3492,
+  "alto": 2635,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://i.pximg.net/img-original/img/2022/09/27/21/45/34/101529276_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3990/e9e02dc1e6b51ecb3ab447ab406f71b71ba6ffbd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2480,
+  "alto": 3508,
+  "que_es": "Fan art de maine_(cyberpunk) (https://twitter.com/AbsolumArt/status/1580346012530417664)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3979/9f2cce1478753caabb81dcb5adacaffb5050f00b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3969,
+  "alto": 2106,
+  "que_es": "Fan art de maine_(cyberpunk) (https://i.pximg.net/img-original/img/2022/09/29/21/36/18/101569998_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/784/2be64d65c7f66ea803af9f549e2f824839124207.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3508,
+  "alto": 2353,
+  "que_es": "Fan art de maine_(cyberpunk) (https://i.pximg.net/img-original/img/2025/05/26/20/59/47/130842433_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/eb8d7b559fcd8aa5df33b07f51f20282e4afd16a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2700,
+  "que_es": "Fan art de souryuu_asuka_langley (https://twitter.com/khyleri/status/1825570340333883886)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3986/8ee840ea6db0fbf01ac11c59d4c8251e7450294e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2366,
+  "alto": 3000,
+  "que_es": "Fan art de david_martinez (https://twitter.com/xyanaid/status/1577287925414625280)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4064/d817ff1ff07f56542f26d82256bfb67cf4314646.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2000,
+  "que_es": "Fan art de rebecca_(cyberpunk) (https://i.pximg.net/img-original/img/2022/12/27/00/03/44/103949043_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1290/ac340aa0a493de1856c9e5679dbc59683cbeb80c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2500,
+  "que_es": "Fan art de david_martinez (https://digital_pavlov.artstation.com/projects/lRv11V)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4286/c1d4f03bf622a5052c7fbad6e0bb63085d7741ae.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 2400,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/08/09/22/41/33/110681016_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4081/7fc9d95eefb8f46ad29c0cce8bbdd5f671078235.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1498,
+  "alto": 2732,
+  "que_es": "Fan art de maine_(cyberpunk) (https://i.pximg.net/img-original/img/2022/10/13/01/37/28/101889821_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3976/b6ef5d89d6ae189eefbee3ffa291f4aa4fae3bd1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de rebecca_(cyberpunk) (https://twitter.com/Zlix0n/status/1574302250117337088)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4482/41b32cac7611c37aa77c45074fd8874dc8217462.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/q7g7q/status/1741547171927740581)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4002/72e6b182b9f97fe53686ce9341e147be01811ea2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1958,
+  "que_es": "Fan art de kiwi_(cyberpunk) (https://i.pximg.net/img-original/img/2022/10/26/00/53/32/102234778_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/482/de7f1c1aabffeb630660d7139acf6d3afab431b6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1521,
+  "alto": 1698,
+  "que_es": "Fan art de souryuu_asuka_langley (http://img53.pixiv.net/img/entryfile/13293546.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4346/19112c2fc1f87fdec3ca0c3405a4e337c1cafa49.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 1500,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://i.pximg.net/img-original/img/2023/09/27/03/23/10/112064553_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1650,
+  "que_es": "Fan art de gotoh_hitori (https://reshanims.tumblr.com/post/714376654591541248)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2050/cc8acc60d810c8f9d580aa405fccb61c7ca4d3a7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1927,
+  "que_es": "Fan art de kiwi_(cyberpunk) (https://i.pximg.net/img-original/img/2024/10/31/22/59/51/123868402_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3992/65ec50ea8068c8ee66e60587c25c8b8f2ff30555.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de kiwi_(cyberpunk) (https://twitter.com/sawasa_c2/status/1580936476866580480)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4355/aebcb40becbc4831e004c2d64f2e2516.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1062,
+  "alto": 1500,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://bsky.app/profile/lalalalack.bsky.social/post/3lbw72m5pac2p)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3974/455df084d3a3410f8ffc492727ec5b0d32e669eb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1527,
+  "alto": 1000,
+  "que_es": "Fan art de david_martinez (https://i.pximg.net/img-original/img/2022/09/24/19/06/13/101454734_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/10/0d7694c3db6efb74039fb3308cb2b481799459e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 964,
+  "que_es": "Fan art de souryuu_asuka_langley (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;illust_id=6077838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/bc784ee95613c9982948bd70821f6fc774a64031.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1333,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4014/15ececf768c9725ce4aa82e0248968d7ede0f611.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1086,
+  "alto": 1113,
+  "que_es": "Fan art de rebecca_(cyberpunk) (https://twitter.com/OhasiArt/status/1588897810090688514)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3984/ac83bc1cb49558ecd8134f1ef1d99623150b91a5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1192,
+  "alto": 800,
+  "que_es": "Fan art de maine_(cyberpunk) (https://twitter.com/Quirkiliciouss/status/1576533476417089538)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3987/901acc56fc5727b287e5e79da2b630e58f2876c2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1150,
+  "que_es": "Fan art de lucy_(cyberpunk) (https://twitter.com/jdotkdot5/status/1578941781529440256)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/542/82d9479839e2a0710368672d371e150830da0ada.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 396,
+  "alto": 650,
+  "que_es": "Fan art de souryuu_asuka_langley (http://twitpic.com/3psi4p/full)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ }
 ]

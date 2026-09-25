@@ -46,6 +46,75 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o el subtítulo o vídeo con su minuto.
 >   ⚠️ **dudoso**: una sola fuente, o de memoria. **Lo que se VE** en un
 >   fotograma que no está en las hojas lo describo de memoria ⚠️.
+>
+> - **Segunda pasada (repaso del 25-sep-2026, red abierta, equipo de 4
+>   investigadores + redactor).** Se miraron de verdad **7 episodios
+>   completos** de Internet Archive y el **tráiler** de Dailymotion con
+>   `fotogramas.py` (YouTube pedía iniciar sesión); se midieron colores en
+>   esos fotogramas con Pillow; se cruzó el doblaje secundario con
+>   **aniSearch** y **Anime-Planet**; se leyó el wikitexto de la wiki
+>   `cyberpunk` con sus citas al *Cyberpunk: Edgerunners Mission Kit*
+>   (manual oficial del juego de rol); se añadieron los puntos 18 a 25 del
+>   encargo y la tabla «Cumplimiento del encargo». Lo que antes era «de
+>   memoria» y ya se vio en vídeo, lo digo en cada sección.
+
+---
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+
+- Carteles amarillos W26-W32: «¿error de la wiki con Kaneko?» → **no es
+  error**: Yuto Kaneko diseñó a Rebecca y Dorio; Yoshiyuki Kaneko hizo el
+  arte del opening y estos carteles (§3).
+- Emblema verde de la chaqueta de David: «¿es el logo de la serie?» → es el
+  logo de la **XBD «Edgerunners» de Jimmy Kurosaki**, un programa de
+  braindance *dentro* de la ficción; Lucy se lo proyectó en la chaqueta y
+  David lo pintó (§16 y punto 25).
+- «I Really Want to Stay at Your House»: «ep. 2, hacia 20:00-21:28 ⚠️» →
+  **ep. 2, 19:30-21:30**, visto en fotogramas (§11).
+- El opening «This Fffire» **no suena en los primeros 4:20 del ep. 1**: el
+  ep. 1 entra directo con la pelea bajo la lluvia. El opening completo se
+  vio en el ep. 3, 0:00-1:36 (§11).
+- Clínica de Doc: «al norte del bloque de pisos ⚠️» → **Arroyo, Santo
+  Domingo** ✅ (§5).
+- Doblaje secundario (Dorio, Pilar, Falco, Tanaka, Katsuo, Jimmy Kurosaki,
+  Julio, Profesora IA, Adam Smasher): una fuente ⚠️ → **dos fuentes ✅**
+  (Doblaje Wiki + aniSearch/Anime-Planet) (§10).
+- La muerte de Maine (ep. 6, 22:10-22:48): se describía por subtítulo → **se
+  vio**: el visor se agrieta como cristal verde y violeta y estalla en un
+  fogonazo blanco; **no se ve el disparo ni el cuerpo** (§2, §14).
+- Datos de pasado de David, Rebecca, Maine, Kiwi y Falco: «sólo wiki ⚠️» →
+  ✅, porque la wiki cita el *Mission Kit* oficial con página (§8).
+- M PLUS Rounded 1c: «no comprobada ⚠️» → ✅ con fontTools (§6).
+- Capítulos de los 4 análisis de YouTube: «no pude sacarlos ⚠️» → sacados
+  con yt-dlp (§12).
+
+**Añadido**
+
+- Lo que **se ve** en 7 episodios y el tráiler, con minuto (§2, §15).
+- Paleta medida en fotogramas propios: 8 hex nuevos (§5).
+- Poses nuevas de Maine y Kiwi (llegan a 6 cada uno) (§15).
+- Popularidad: **Kiwi es la favorita del director Imaishi**; **Rebecca la
+  añadió Trigger** y es la favorita del guionista Rafał Jaki (§9).
+- Qué NO hacer: la polémica de Rebecca con fuente, los tatuajes «PKDICK» y
+  la calavera de cabra, el pasado de Kiwi fuera de las láminas (§14).
+- Secciones nuevas de los **puntos 18 a 25** del encargo (técnica y cómo
+  replicarla, texturas 2D, gustos, por qué la aman, fan dubs,
+  colaboraciones, obras parecidas, el mundo y su jerga).
+- Guía para IA ampliada con la chaqueta «que flota» de Lucy (cosplay de
+  Yaya Han) y la jerga de la serie para la IA de texto (§18).
+- Conceptos de lámina: mejoras con la pose de Lucy apoyada en la barra
+  (figura de Prime 1 Studio) y los logos de corporación como pegatinas en
+  la recreativa (§19).
+- Tabla «Cumplimiento del encargo» y bitácora de la segunda pasada.
+- `referencias.json`: de **38 a 231** referencias.
+
+**⚠️: había 62, quedan __DESPUES__.** Los que quedan son sobre todo:
+minutos que no se pudieron volver a ver (YouTube pide iniciar sesión en el
+servidor), vistas de los fandubs, la lista vertical de opciones de diálogo
+del juego, el programa exacto de producción de Trigger y el amarillo exacto
+del logo.
 
 ---
 
@@ -161,7 +230,7 @@ Todas salen de los subtítulos de Netflix (japonés para sordos + inglés)
 de
 [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Cyberpunk.%20Edgerunners):
 **el texto, quién lo dice y el minuto están comprobados ✅**. La
-traducción al español es mía. Lo que se VE lo describo de memoria ⚠️.
+traducción al español es mía. Lo que se VE: en la 2.ª pasada se miraron con fotogramas las escenas de §2.6; el resto sigue de memoria ⚠️.
 
 ### 2.1 Night City bajo la lluvia (el ambiente del objeto)
 
@@ -233,6 +302,26 @@ traducción al español es mía. Lo que se VE lo describo de memoria ⚠️.
 | «You could say I'm special.» / «Well so the fuck am I!» | — | Adam Smasher / David | ep. 10, 17:10 |
 | «Sorry. Wish we could go to the moon together.» | 月 一緒に行けなくて ごめんな | David (a través de Falco) | ep. 10, 22:25 |
 
+### 2.6 Segunda pasada · lo que se ve en el fotograma
+
+Mirado con `fotogramas.py` sobre los episodios de
+[Internet Archive](https://archive.org/details/cyberpunk_edgerunners_01_360)
+(360p) y el [tráiler VOSE de Dailymotion](https://www.dailymotion.com/video/x8ct6i8).
+Todo ✅ visto.
+
+| Ep. y minuto | Qué se ve | Para qué sirve |
+|---|---|---|
+| ep. 1, 0:08-0:56 | Tras el logo de Netflix entra directo la **pelea bajo la lluvia**: ciberpsicópata con visor rojo golpea un coche de policía; sirenas rojo y azul; charcos que reflejan el neón; «BLAM» amarillas de las trazadoras (0:48-0:52) | **El ambiente de la recreativa bajo la lluvia** |
+| ep. 1, 2:52-3:16 | Persecución con fondo verde tóxico y sangre roja a contraluz | Contraste de un solo acento |
+| ep. 1, 3:16-3:58 | Aviso en un holo-teléfono azul: «ripperdoctors, cybercyphers don't rat» | Pantalla del mundo con texto |
+| ep. 1, 4:04-4:16 | David despierta en su cuarto: plano cenital, tonos ocre | Interior de H4 |
+| ep. 3, 0:00-1:36 | **El opening real**: paneles planos verde ácido, magenta, violeta y crema; créditos en sans condensada inclinada; un gólem verde gigante (0:56-1:04); «TRIGGER» (1:20) | Tipografía y color del opening (§6) |
+| ep. 3, 4:55-8:20 | Interrogatorio y braindance con **filtro verde militar** y tinta roja para las heridas | Filtro de un solo tono (punto 18) |
+| ep. 4, 21:20-21:58 | **La promesa de la luna** («I'll take you to the moon! I promise!», 21:54): filtro entero **verde de visión nocturna**; Lucy de perfil llorando (21:34-21:36); un fogonazo vertical blanco (21:48); Lucy con la mano en la cabeza | Escena triste: sirve la pose, no el filtro |
+| ep. 4, 22:40-23:16 | **El ending** «Let You Down»: pasillo industrial verde oscuro, silueta de espaldas a contraluz, créditos blancos condensados sobre negro | Créditos y luz del ending |
+| ep. 6, 22:10-22:48 | **La muerte de Maine**: su visor se agrieta como cristal verde y violeta; Maine y Dorio de espaldas en las Badlands (22:22); David con la capucha, ojos muy abiertos (22:26-22:36); fogonazo blanco y dorado (22:44) al oír «Fast is what you do, remember? Keep running» | Trigger **no muestra el golpe**, sólo el antes y el después |
+| tráiler, 0:28-2:40 | Subtítulos en **español de España** incrustados: «Bienvenidos a Night City» (0:28), «Llévalo al límite» (0:48), «Ese cromo está a otro nivel» (1:28), «¡Dámela tú, rata!» (2:24), «Es que eres adorable» (2:40); logo amarillo neón (2:24) | Minutos del tráiler. **No es doblaje latino** |
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
@@ -272,7 +361,7 @@ Hay **dos juegos de hojas**. Los números se citan así:
 | **W12-W22, W94, W95, W110** | **Cartones de cuenta atrás** («XX days to go!»), cada uno de un artista distinto, del 13 al 0 | ~1430×2048 | Estilos muy variados: manga en blanco y negro (W21 Maine), **Rebecca como maqueta de plástico en su bebedero** (W21: «4 days»), Kiwi con una hiena (W18) |
 | W23, W105 | Carteles de Trigger: Lucy y David sobre verde | 1383×2048 / 960×1200 | Key visual |
 | W25, W33 | Kiwi de pie; **hoja de diseño de su máscara** | 1266×2048 / 1471×1451 | Kiwi |
-| **W26-W32** | **Carteles de personaje sobre amarillo** (firmados «by Yoshiyuki Kaneko» en la wiki ⚠️; el diseñador de Rebecca es Yuto Kaneko): David, Kiwi, Lucy, Maine, Rebecca, Dorio, Pilar | 1280×1811 | **Las poses más vivas**: ver §15 |
+| **W26-W32** | **Carteles de personaje sobre amarillo** (firmados «by Yoshiyuki Kaneko» en la wiki ✅: **son dos personas**; Yuto Kaneko diseñó a Rebecca y Dorio, Yoshiyuki Kaneko hizo arte del opening y estos carteles, ver [Sakugabooru](https://www.sakugabooru.com/post/show/204453) e [IMDb](https://www.imdb.com/name/nm5608331/)): David, Kiwi, Lucy, Maine, Rebecca, Dorio, Pilar | 1280×1811 | **Las poses más vivas**: ver §15 |
 | W37 | Arte de los Juegos Olímpicos de 2024: el reparto nadando y corriendo | 1920×1080 | Humor, deporte |
 | W39 | Arte del Blu-ray («coming in 2025»), David con el ciberesqueleto | 1920×1080 | — |
 | W46 | **El equipo en fila** (tráiler, junio de 2022) | 1920×1080 | Presentar al grupo |
@@ -332,7 +421,7 @@ Fuentes GitHub: [AlexandreDresch/EdgeRunners](https://github.com/AlexandreDresch
 | **Key visual** de junio de 2022 | [Famitsu](https://www.famitsu.com/news/202206/09264322.html) + G28 | ✅ |
 | Nueva key visual de David y Lucy por **Yoh Yoshinari** (吉成曜) | [Comic Natalie](https://natalie.mu/comic/news/480860) | ✅ |
 | Ilustración del 2.º aniversario | [X de CD PROJEKT RED Japan](https://x.com/CDPRJP/status/1834532480126161225) + W2 | ✅ |
-| **Litografía de aniversario** de Trigger (casi un metro de ancho) | [CD PROJEKT RED Gear Store](https://gear.cdprojektred.com/products/cyberpunk-edgerunners-anniversary-lithograph-by-studio-trigger) | ⚠️ una fuente |
+| **Litografía de aniversario** de Trigger (casi un metro de ancho) | [CD PROJEKT RED Gear Store](https://gear.cdprojektred.com/products/cyberpunk-edgerunners-anniversary-lithograph-by-studio-trigger) | ✅ ficha oficial revisitada en la 2.ª pasada, foto 600×900 |
 | Vídeo: **Yoshinari dibujando a David y Lucy** (5:45, 10-oct-2022) | [Netflix Japan](https://www.youtube.com/watch?v=9lQamD4CfBU) | ✅ |
 | Dibujo en directo de Yoshinari (17-oct-2022) | [GAME Watch](https://game.watch.impress.co.jp/docs/news/1447266.html) | ⚠️ |
 | **Blu-ray BOX** japonés (28-may-2025) | [4Gamer](https://www.4gamer.net/games/189/G018964/20241213102/), [HMV](https://www.hmv.co.jp/news/article/241213145/) | ✅ |
@@ -514,9 +603,9 @@ Trigger pintó los fondos **sobre fotos tomadas dentro del juego**
 | **Megaedificio H4**, Arroyo (Santo Domingo) | Casa de David y Gloria; la lavadora sin saldo (ep. 1, 04:15) | Metro: Wollesen Street; en un callejón debajo hay **el símbolo de Edgerunners** | ✅ ([VULKK](https://vulkk.com/2022/09/17/all-locations-from-edgerunners-in-cyberpunk2077/), [wiki: David](https://cyberpunk.fandom.com/wiki/David_Martinez)) |
 | **Piso de Lucy**, Kabuki (Watson) | Bañera de hielo para bucear en la red; BD de la luna (ep. 2, 19:24) | Viaje rápido a Sutter St., edificio de cristal | ✅ (VULKK, [thegamer](https://www.thegamer.com/cyberpunk-2077-edgerunners-references/)) |
 | **Piso de Kiwi**, Kabuki | — | Sutter St., ascensor a la planta 13 | ⚠️ una fuente |
-| **Tren del NCART** (metro elevado) | Lucy roba chips; conoce a David (ep. 2, 07:46) | El metro se puede usar desde el parche 2.1 ⚠️ | ✅ subtítulo |
+| **Tren del NCART** (metro elevado) | Lucy roba chips; conoce a David (ep. 2, 07:46) | Sale en Edgerunners según su ficha de la [wiki](https://cyberpunk.fandom.com/wiki/Night_City_Area_Rapid_Transit) (`appears_other = EDGE`). Lo del parche 2.1 es del juego, no de la serie | ✅ subtítulo + wiki |
 | **Afterlife** (Little China, Watson): bar de mercenarios en una antigua morgue; sirve **bebidas con nombre de leyendas muertas** | Kiwi cita a David; aparece Faraday (ep. 7, 11:27-11:55) | Existe; tiene la bebida **«The David Martinez»** | ✅ ([wiki: Afterlife](https://cyberpunk.fandom.com/wiki/Afterlife), [Game8](https://game8.co/games/Cyberpunk-2077/archives/Edgerunners-Items)) |
-| **Clínica de Doc** (ripperdoc) | Le pone el Sandevistan (ep. 2, 00:11) | «Al norte del bloque de pisos» | ⚠️ |
+| **Clínica de Doc** (ripperdoc) | Le pone el Sandevistan (ep. 2, 00:11) | En **Arroyo, Santo Domingo**, el mismo barrio que el H4 de David ([wiki: Doc](https://cyberpunk.fandom.com/wiki/Doc_(Edgerunners))) | ✅ |
 | **Arasaka Academy / Arasaka Tower** (City Center) | Escuela de David; la torre del final (ep. 10, 14:30: «estoy en lo alto de la Torre Arasaka») | La torre existe | ✅ subtítulo |
 | **Memorial Park** (Corpo Plaza) | Donde mueren David y Rebecca (ep. 10) | En los arbustos del anillo suroeste está **Guts** | ✅ (wiki Rebecca, Den of Geek) |
 | **Tienda 2nd Amendment**, Megaedificio H10 | Práctica de tiro de David con Rebecca (ep. 4 ⚠️) | Existe | ⚠️ una fuente |
@@ -585,7 +674,7 @@ Colores de cada personaje: ver §16.
 | Pantallas y hologramas dentro del mundo | «Blender» y otras | **Chakra Petch**, **Oxanium**, **Share Tech Mono** | ✅ las tres |
 | Título del opening | «EDGE RUNNERS» en letras rotas, como mosaico (G45) | **Rubik Glitch** (aproximación) | ✅ |
 | Pantalla de recreativa | Píxeles | **VT323** o **DotGothic16** (trae japonés) | ✅ las dos |
-| Katakana de los rótulos | Gótica redonda gruesa | DotGothic16 no; mejor una redonda japonesa (M PLUS Rounded 1c) ⚠️ no comprobada | — |
+| Katakana de los rótulos | Gótica redonda gruesa | DotGothic16 no; mejor una redonda japonesa (M PLUS Rounded 1c) ✅ comprobada con fontTools en la 2.ª pasada | á é í ó ú ñ ¿ ¡ ✅ |
 
 **Comprobado por mí con fontTools** (archivos de
 [google/fonts](https://github.com/google/fonts)): Rajdhani, Orbitron,
@@ -721,7 +810,7 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 
 - **Quién es**: chico latino de Santo Domingo, **17 años** (ep. 1-6) y
   **18** (ep. 7-10); nació en 2058 **en la parte de atrás de una
-  ambulancia** ⚠️ (wiki). Vive con su madre, **Gloria**, técnica de
+  ambulancia** ✅ (wiki, que cita el *Cyberpunk: Edgerunners Mission Kit*, pág. 6 y 35). Vive con su madre, **Gloria**, técnica de
   emergencias, en el megaedificio H4. Estudia becado en la **Academia
   Arasaka**, donde no encaja (ep. 1, 10:38: «no tienes ni idea de
   cuánto desentono»). Vende braindances ilegales (XBD) en la escuela.
@@ -784,7 +873,7 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 - **Quién es**: *solo* (la de las armas) del equipo, **unos 20 años**,
   **bajita**. Hermana pequeña de **Pilar** ✅ (subtítulo: 「バカアニキ」,
   «el idiota de mi hermano», ep. 7, 09:18). La wiki cuenta que su padre
-  («Papa Sunrise») desapareció y los dos hermanos vivieron en un coche ⚠️.
+  («Papa Sunrise») desapareció y los dos hermanos vivieron en un coche ✅ (wiki, cita el *Mission Kit*, pág. 40).
 - **Qué le pasa**: pierde a Pilar en el ep. 4 («¡Sólo yo tenía derecho
   a matarle!», 「あいつを殺していいのはあたしだけだったのに！」, ep. 4,
   18:18 ✅). Se pone **brazos de gorila**. Está enamorada de David, pero
@@ -810,7 +899,7 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 ### Maine — el jefe del equipo
 
 - **Quién es**: líder del grupo, **cerca de 40 años**, enorme, rubio,
-  visor y bufanda. Ex boxeador y ex soldado ⚠️ (wiki). Pareja de
+  visor y bufanda. Ex boxeador, ex portero de discoteca y ex soldado de las NUSA SpecOps ✅ (wiki, cita el *Mission Kit*). Pareja de
   **Dorio**.
 - **Qué le importa**: **repartir justo** («Everybody gets a fair shake.
   Only way I operate», ep. 3, 18:02 ✅) y que cada uno se valga solo
@@ -830,7 +919,7 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 
 - **Quién es**: alta y delgada, **abrigo rojo largo**, **máscara roja**
   que tapa la mandíbula (le falta), bob rubio claro ✅ (se ve en W25,
-  W33; la historia de la mandíbula, ⚠️ wiki). Mentora de Lucy.
+  W33; la historia de la mandíbula, ✅ wiki con cita del *Mission Kit*; no para láminas, ver §14). Mentora de Lucy.
 - **Su frase**: «Never trust a soul in Night City» ✅ (ep. 9, 04:51; se
   lo había enseñado a Lucy, ep. 8, 10:47).
 - **Qué le pasa**: **traiciona al equipo** con Faraday (ep. 8-9), luego
@@ -847,8 +936,8 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
   ep. 4.
 - **Dorio**: grandona, rubia (W31, W46), pareja de Maine, la que le cuida
   («When's the last time you ate?», ep. 6, 02:27). Muere en el ep. 6.
-- **Falco**: conductor nómada, bigote, ropa del oeste, acento sureño ⚠️
-  (wiki). **Cumple su promesa** a David al final (ep. 10, 21:34-22:25).
+- **Falco**: conductor nómada, bigote, ropa del oeste, acento sureño ✅
+  (la [wiki](https://cyberpunk.fandom.com/wiki/Falco) lo dice con todas las letras: «a notable Southern drawl»; cuadra con su ropa y su camioneta). **Cumple su promesa** a David al final (ep. 10, 21:34-22:25).
   Rebecca se ríe de su bigote (ep. 9, 13:13).
 - **Faraday**: el *fixer* (el que reparte los encargos). Frío y
   traidor: «I do not pay you to think» (ep. 3, 19:40).
@@ -926,15 +1015,15 @@ para «me apunto».
 | **Faraday** | **Raúl Anaya** | Kazuhiko Inoue | Doblaje Wiki + Okami Sama TV | ✅ |
 | **Doc** (ripperdoc) | **Carlo Vázquez** | Kenjirō Tsuda | Doblaje Wiki + Okami Sama TV | ✅ |
 | **Gloria Martínez** | **Analiz Sánchez** | Yurika Hino | Doblaje Wiki + Okami Sama TV | ✅ |
-| Dorio | Kerygma Flores | Michiko Kaiden | Doblaje Wiki | ⚠️ una fuente |
-| Pilar | Armando Guerrero | Wataru Takagi | Doblaje Wiki | ⚠️ |
-| Falco | Edson Matus | Yasuyuki Kase | Doblaje Wiki | ⚠️ |
-| Tanaka | Sebastián Llapur | Tetsuo Komura | Doblaje Wiki | ⚠️ |
-| Katsuo Tanaka | Arturo Castañeda | Kaito Ishikawa | Doblaje Wiki | ⚠️ |
-| Jimmy Kurosaki | Christian Strempler | Yoshito Yasuhara | Doblaje Wiki | ⚠️ |
-| Julio | Alan Bravo | Sōma Saitō | Doblaje Wiki | ⚠️ |
-| Profesora IA | Cony Madera | Atsuko Sakuraoka | Doblaje Wiki | ⚠️ |
-| Adam Smasher | Idzi Dutkiewicz (actor polaco; la wiki lo pone también en latino) | Yukihiro Misono | Doblaje Wiki | ⚠️ raro, comprobar |
+| Dorio | Kerygma Flores | Michiko Kaiden | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Pilar | Armando Guerrero | Wataru Takagi | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Falco | Edson Matus | Yasuyuki Kase | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Tanaka | Sebastián Llapur | Tetsuo Komura | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Katsuo Tanaka | Arturo Castañeda | Kaito Ishikawa | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Jimmy Kurosaki | Christian Strempler | Yoshito Yasuhara | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Julio | Alan Bravo | Sōma Saitō | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Profesora IA | Cony Madera | Atsuko Sakuraoka | Doblaje Wiki + aniSearch/Anime-Planet | ✅ |
+| Adam Smasher | Idzi Dutkiewicz (actor polaco; la wiki lo pone también en latino) | Yukihiro Misono | Doblaje Wiki + [aniSearch](https://www.anisearch.com/character/111048,adam-smasher) | ✅ (dos fuentes; sigue siendo raro, oírlo) |
 
 Inglés, por si hace falta: David **Zach Aguilar**, Lucy **Emi Lo**,
 Rebecca **Alex Cazares**, Maine **William C. Stephens**, Faraday
@@ -993,7 +1082,7 @@ rara): «¿Qué te parecería si jugamos juntos?» (eco de Lucy) o «Oye,
 |---|---|---|---|---|
 | **«This Fffire»** (opening) | **Franz Ferdinand** (versión de 2004 producida por Rich Costey, muy recortada) | Opening de cada episodio (ep. 3, 00:11 a 01:34 en el subtítulo) | Rock nervioso, fuego y velocidad | ✅ ([wiki](https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners/Soundtrack), [Wikipedia](https://en.wikipedia.org/wiki/This_Fire_(Franz_Ferdinand_song))) |
 | **«Let You Down»** (ending) | **Dawid Podsiadło** | Al final de cada episodio (ep. 3, 22:40; letra en ep. 3, 22:56-24:02: «Forgive me for letting you down») | Balada triste, despedida | ✅ ([vídeo oficial](https://www.youtube.com/watch?v=BnnbP7pCIvQ), 4:44, 57,7 millones de vistas) |
-| **«I Really Want to Stay at Your House»** | **Rosa Walton** (de Let's Eat Grandma; en el juego, con Hallie Coggins) | El **BD de la luna del ep. 2** (hacia 20:00-21:28, sin diálogo, sólo risas y el motor del rover ⚠️ el minuto; que Imaishi la eligió para el final del ep. 2 ✅ wiki) | Pop dulce y melancólico; **la canción de David y Lucy** | ✅ |
+| **«I Really Want to Stay at Your House»** | **Rosa Walton** (de Let's Eat Grandma; en el juego, con Hallie Coggins) | El **BD de la luna del ep. 2** (**19:30-21:30**, visto con fotogramas en la 2.ª pasada; sin diálogo, sólo risas y el motor del rover; que Imaishi la eligió para el final del ep. 2 ✅ wiki) | Pop dulce y melancólico; **la canción de David y Lucy** | ✅ |
 | Banda sonora original | **Akira Yamaoka** (el de *Silent Hill*), **Marcin Przybyłowicz** y **P.T. Adamczyk** (compositores del juego) | Toda la serie | Electrónica sucia, tensa | ✅ |
 
 **La banda sonora** (27-oct-2023, 14 temas) ✅
@@ -1047,7 +1136,7 @@ to Stay…», **noche, neón y melancolía**, no el de un arcade alegre.
 (11:29, 2,9 M vistas), [The Canipa Effect: animación](https://www.youtube.com/watch?v=3PTX0lO7tpU)
 (15:08), [Swamp Jawn: «una historia en 6 segundos»](https://www.youtube.com/watch?v=Xv9MdoAt3gQ)
 (9:33), [MankoMan: análisis de animación](https://www.youtube.com/watch?v=j2nHAPtCjBk)
-(23:27). ⚠️ No pude sacar sus capítulos (YouTube pedía verificación).
+(23:27). Capítulos sacados en la 2.ª pasada con yt-dlp: ver «Segunda pasada» al final de esta sección.
 
 **TikTok**: la tendencia fue editar a **David y Lucy con «I Really Want
 to Stay at Your House»** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/I_Really_Want_to_Stay_at_Your_House),
