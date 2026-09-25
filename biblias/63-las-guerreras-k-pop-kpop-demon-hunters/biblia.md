@@ -314,3 +314,105 @@ redactor** una a una (corrige números de la parte de imagen, §28).
 | 477 | **Rumi escribiendo la letra de «Takedown»** en un cuaderno | Concepto A |
 | 478 | **Rumi comiendo kimbap** (meme) | Concepto C |
 
+## 4 · Fan art y 3D, sólo como referencia (punto 3)
+
+**Fan art mejor valorado** (Safebooru, con el autor original). Mirar,
+nunca pegar; si se cita, con el nombre del autor. ✅
+
+| Personaje | Imagen | Tamaño | Autor |
+|---|---|---|---|
+| Rumi | [safebooru 274/b2cc…](https://safebooru.org/images/274/b2cc64d7041764874da567ee977956f15e99366a.jpg) | 2160×2700 | [@nikkotari](https://twitter.com/nikkotari/status/1937224201108152333) |
+| Rumi, Mira y Zoey | [safebooru 1811/452b…](https://safebooru.org/images/1811/452be493d468c8f6751e52159ebda4e82c9fe18f.jpg) | 1868×1751 | [@Kiioki11](https://twitter.com/Kiioki11/status/1938591331196064123) |
+| Las tres | [safebooru 4370/e57b…](https://safebooru.org/images/4370/e57b7ec257f9021b280777c3a6b9139139395e26.jpg) | 1160×1240 | [@eni_ate](https://twitter.com/eni_ate/status/1937872983777026238) |
+| Mira | [safebooru 1558/21b7…](https://safebooru.org/images/1558/21b7ec8c05defb2b3d1a26b381c3a75ce31011c0.jpg) | 1500×1500 | [@tlsskdydrkfl](https://twitter.com/tlsskdydrkfl/status/1949369642419728531) |
+| Zoey | [safebooru 23/1b60…](https://safebooru.org/images/23/1b60ea23cab96e3bcc334b7fd9c93ed8051ae715.jpg) | 1639×2048 | [@rina4rt](https://twitter.com/rina4rt/status/1946228901505626314) |
+| Jinu | [safebooru 1046/e932…](https://safebooru.org/images/1046/e93298a19a1bedf5c3833d3afc5f87349435ec01.jpg) | 817×1300 | [@antenna2667](https://twitter.com/antenna2667/status/1943626817098690975) |
+| Jinu | [safebooru 4403/1c8b…](https://safebooru.org/images/4403/1c8b2ad465d2ade302b50bae8a919bd7775e4b87.png) | 1461×2048 | [l00llaby en Tumblr](https://l00llaby.tumblr.com/post/802510181526339584) |
+
+**Modelos 3D con licencia libre** (Sketchfab). Todos son **de fans,
+basados en las skins de Fortnite**, no de Netflix. Licencia visible en
+cada ficha. ✅
+
+| Modelo | Autor | Licencia | ♥ |
+|---|---|---|---|
+| [Zoey (Fortnite)](https://sketchfab.com/3d-models/none-aa3d9d519b34425ea5dd1456c4c67eaf) | Centrixe the Dodo | CC BY | 783 |
+| [Rumi (Fortnite)](https://sketchfab.com/3d-models/none-61401e8d527044b3bba43925669300e6) | Centrixe the Dodo | CC BY | 688 |
+| [Mira (Fortnite)](https://sketchfab.com/3d-models/none-7e5f6ef4b77e40f680e4eff68edaa8e1) | Centrixe the Dodo | CC BY | 576 |
+| [Rumi](https://sketchfab.com/3d-models/none-7d608f6e55174d79a6a1ff128396c4b4), [Zoey](https://sketchfab.com/3d-models/none-12f3da007bd4495999904a6fac70b19b), [Mira](https://sketchfab.com/3d-models/none-39a41da507cb4570b2128d63449b59f9) | Guilherme Navarro | CC BY | 196 / 155 / 150 |
+| [Arma de Mira (gok-do)](https://sketchfab.com/3d-models/none-eaa70194d746438c817706749eec880c) | Pursuits-Avenue | CC BY | 69 |
+| [Rumi dorada](https://sketchfab.com/3d-models/none-2cfb56bdf919444f896a27280bf8f384) | elsafrozenaninationfans2013 | CC BY | 45 |
+| [Rumi con las palmas juntas](https://sketchfab.com/3d-models/none-874791cc3bf5460e991bba4129f1bfd9) | XxDeafYesxx | CC BY | 27 |
+| [Rumi](https://sketchfab.com/3d-models/none-a1b07ddc7a114ef8ab699fec49016666) | azzman__ | CC BY-NC-SA (no comercial) | 38 |
+| [«Patterns» (marcas de demonio)](https://sketchfab.com/3d-models/none-547051dd1fcd4fcb95d6ccd5d0261c98) | MIKESTEEZ | CC BY | 102 |
+
+- **Crédito exacto** para CC BY: «Modelo "<nombre>" de <autor>
+  (Sketchfab), CC BY 4.0». ✅
+- **Poly Haven no tiene nada de la serie** (es un banco genérico). Sus
+  texturas de asfalto y ciudad nocturna sí valen de base. ⚠️ (búsqueda
+  negativa hecha)
+- ⚠️ La malla de ninguno se abrió en Blender: comprobar escala y
+  *rig* antes de usarlo.
+
+## 5 · Sitios, luz, paleta y texturas reales (punto 4)
+
+**Los sitios de la película** (ficha del film en la wiki, «Locations»):
+aldea de la era Joseon, Estadio Olímpico de Seúl, Mundo Demonio,
+HUNTR/X Tower, COEX K-Pop Square, Han Clinic, calle Myeongdong, baños
+públicos de hombres y de mujeres, aldea Bukchon Hanok, palacio
+Gyeongbokgung, parque Naksan, línea 7 del metro, puente Cheongdam,
+estación Jayang, Namsan Tower e isla de Jeju. ✅
+
+**Paletas medidas con `estilo.py`** (Pillow, k-means) en fotogramas
+propios o en arte oficial. Una muestra cada una: ⚠️ salvo que se diga.
+
+| Sitio | Hex medidos | Luz | Dónde se midió |
+|---|---|---|---|
+| Concierto nocturno, Rumi canta | `#010102` `#42375B` `#5D4168` `#232A59` `#3F5590` `#A1ACCA` | Violeta frío, brillo 32%, sombreado plano | Tráiler 0:08 |
+| Pelea en niebla verde | `#000000` `#495745` `#313A31` `#A0B481` `#748661` `#D3DEAF` | Verde neón sucio, brillo 35% | Tráiler 0:24 |
+| Niebla verde-amarilla cenital | `#000101` `#5F9A6A` `#35605F` `#19204D` `#675899` `#B2A5E5` | Verde y violeta, brillo 38% | Tráiler 1:40 |
+| Bambalinas del concierto | `#040204` `#2E1E26` `#533B42` `#676676` `#899DAD` | Vino y malva, brillo 25% | «How It's Done» 0:12 |
+| Trío a contraluz violeta | `#0A0827` `#000002` `#4F2A65` `#9C828F` `#E2E7F1` | Contraluz, brillo 24% | «How It's Done» 0:54 |
+| Zoey y sus dagas | `#0C0B34` `#010106` `#5D4B7C` `#AB81AA` `#EBE9F7` | Azul violeta con acento lila | «How It's Done» 1:06 |
+| Puente al atardecer | `#C85124` `#8E1815` `#040001` `#C52263` `#D384C9` | **El más cálido**: naranja y rojo, saturación 68% | «How It's Done» 2:48 |
+| Calle de Seúl, debut Saja Boys | `#C75CB4` `#AF49A0` `#7B3B7A` `#392E47` · `#4C3F63` `#847AC0` `#B07E4A` `#CB93D3` | Magenta de neón con luz dorada de tienda | «Soda Pop» 0:24 y 2:30 |
+| Trono de Gwi-Ma | `#040102` `#221B26` `#4F3741` `#92663D` `#E4CE74` | Negro con dorado verdoso, brillo 22% | «Golden» 0:30 |
+| Escenario de los Idol Awards | `#0A0503` `#3B6369` `#E0C66B` `#AF8351` `#793121` | Rojo y oro de templo, foco cenital | «Golden» 2:12 |
+| Seúl y la Namsan Tower | `#000000` `#BCB2E8` `#A095C6` `#DCD7F9` `#4B4D42` `#817D8A` | Lavanda pastel, brillo 57% | «Golden» 3:00 |
+| Cierre, las tres juntas | `#010102` `#564BA2` `#ECD4FC` `#C5ADF5` `#8972D0` | **El más claro**: lila, brillo 63% | «Golden» 3:02 |
+| HUNTR/X Tower, Seúl de noche | `#060E1D` `#121C32` `#102E50` `#464961` `#3E869C` `#D2D6CA` | Azul medianoche, brillo 23% ✅ | [HUNTRX_Tower_Full.png](https://static.wikia.nocookie.net/kpop-demon-hunters/images/d/d4/HUNTRX_Tower_Full.png), 1920×800 |
+| Namsan Tower, anochecer | `#BDBAF0` `#AAA1D4` `#DED1F5` `#383833` `#8683A6` `#615F5F` | Cielo lavanda, brillo 76% ✅ | [Namsantowerkdh.jpg](https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/ab/Namsantowerkdh.jpg), 964×600 |
+| Set del Honmoon (nachomolina) | `#1D579B` `#244B7C` `#07201A` `#233855` `#577DA8` `#B3C6D8` | **Azul místico**, saturación 70% ✅ | [TheHonmoon1_setdesign](https://static.wikia.nocookie.net/kpop-demon-hunters/images/c/c2/TheHonmoon1_setdesign_nachomolina.jpg), 2500×1776 |
+| Montaña con las caras | `#B2A6A1` `#D2D0D6` `#7F7D87` `#424C64` `#A3B9D8` `#649FD7` | Gris con azul frío, mucha línea | [Mountain.jpeg](https://static.wikia.nocookie.net/kpop-demon-hunters/images/1/1e/Huntrix_and_Saja_Boys_Mountain.jpeg), 2307×976 |
+
+- **La regla de color de la película**, repetida en los cuatro números
+  musicales mirados: **verde neón** = demonios y peleas; **magenta y
+  rosa** = Saja Boys y la calle; **dorado y rojo cálido** = triunfo de
+  HUNTR/X; **lavanda pastel** = el final feliz. ✅ (patrón visto en 4
+  clips distintos)
+- **Han Clinic** (espejo del baño, «Golden» 1:48): gris azulado
+  apagado, luz plana de baño, marcas rosa y violeta sobre la bata. Sin
+  hex medidos. ⚠️
+- **Mundo Demonio**: reino bajo el nuestro, niebla, picos de roca,
+  charcos, cielo siempre cubierto
+  ([wiki, Demon world](https://kpop-demon-hunters.fandom.com/wiki/Demon_world)). ✅
+- **HUNTR/X Tower**: rascacielos de Seúl con el logo del grupo en la
+  fachada; dentro, ático (habitaciones, cocina, sala), **estudio de
+  grabación** y vestidor
+  ([wiki](https://kpop-demon-hunters.fandom.com/wiki/HUNTR/X_Tower)). ✅
+- **Namsan Tower**: la N Seoul Tower real; allí tocan los Saja Boys al
+  final y HUNTR/X crea el nuevo Honmoon
+  ([wiki](https://kpop-demon-hunters.fandom.com/wiki/Namsan_Tower)). ✅
+
+**Texturas reales equivalentes** (CC0, AmbientCG). Son equivalencias
+genéricas, no copias del metraje. ⚠️
+
+| Para | Textura |
+|---|---|
+| Tejas de palacio y hanok (Gyeongbokgung, Bukchon, Joseon) | [RoofingTiles013A](https://ambientcg.com/view?id=RoofingTiles013A), [RoofingTiles006](https://ambientcg.com/view?id=RoofingTiles006) |
+| Madera oscura (Han Clinic, muebles) | [Wood051](https://ambientcg.com/view?id=Wood051), [WoodFloor051](https://ambientcg.com/view?id=WoodFloor051) |
+| Papel *hanji* (farolillos, carteles de Joseon, cuaderno) | [Paper006](https://ambientcg.com/view?id=Paper006), [Paper001](https://ambientcg.com/view?id=Paper001) |
+| Hormigón de Seúl (torre, puente Cheongdam) | [Concrete034](https://ambientcg.com/view?id=Concrete034), [Concrete047A](https://ambientcg.com/view?id=Concrete047A) |
+| Tela de trajes y telón | [Fabric081C](https://ambientcg.com/view?id=Fabric081C), Fabric061 |
+| Metal dorado (Honmoon, accesorios) | [Metal048A](https://ambientcg.com/view?id=Metal048A), Metal034 |
+| Cuero (cazadora, correas) | [Leather037](https://ambientcg.com/view?id=Leather037), Leather038 |
+

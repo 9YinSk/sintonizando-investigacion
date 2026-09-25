@@ -379,7 +379,7 @@ YouTube pide iniciar sesión desde el servidor: lo mirado a fondo sale de Dailym
 - Los Kodama en la entrada «Ugly Cute» de la YMMV de Tropedia — «raros pero entrañables», el secundario con más peso emocional sin decir una sola línea ✅.
 - Un cosplay artesanal de San con 1797 votos en Reddit ✅ (una fuente pero cifra verificada).
 - Momentos tan intensos que rozan lo «Narm» (unintentionally funny): «¡ESPÍRITU DEL BOSQUE! ¡TE DEVOLVEMOS TU CABEZA!» / «¡MI BRAAAZO!» ✅. Jigo murmurando con total calma en medio del pánico final: «un pequeño problema y todos entran en pánico» (Tropedia, Funny) ✅.
-- La nota real de Miyazaki pidiendo «sin cortes» de katana a la casa de doblaje inglesa, para no perder la violencia real de la coreografía ✅.
+- La **katana con «No cuts»** («sin cortes») enviada a la distribuidora en inglés para que no recortaran la película: el fandom la repite como prueba de que se respetó entera ✅ (el hecho). ⚠️ Las partes no coinciden en quién: Tropedia (`voz.md`) dice que la mandó Miyazaki con una nota; la wiki (`texto.json`, [foto](https://static.wikia.nocookie.net/studio-ghibli/images/4/4e/Suzuki_Sword.png), 500×325) dice que el productor **Toshio Suzuki** llevó una espada réplica a Harvey Weinstein gritando «Mononoke-hime, NO CUT!». Citar la versión de la wiki, que trae foto.
 
 **Qué NO hacer:**
 - No dibujar a San "linda y dócil": su escena de presentación es succionando sangre de la herida de bala de un lobo ✅.
@@ -709,6 +709,7 @@ Aviso honesto: Studio Ghibli **no publica fichas tipo databook** (cumpleaños/al
 - **Figuras oficiales**: serie completa en [Premium Bandai EE. UU.](https://p-bandai.com/us/series/princessmononoke/) ✅; figurín San+Ashitaka+lobo sobre peana (hoja `arte_01` 100) ⚠️ una fuente; figura de gacha de Okkoto y figura del Shishigami exclusiva de Ghibli Park, vistas sólo en reventa ([eBay](https://www.ebay.com/itm/176554118188)) ⚠️ sin ficha oficial. No encontré Figuarts ZERO de San o Ashitaka.
 - **Cosplay bien hecho** (materiales y volumen reales): [Tiffany Gordon](https://www.tiffanygordoncosplay.com/san-princess-mononoke), [Sweet Angel Cosplay](https://sweetangelcosplay.com/cosplay/san-princess-mononoke/), guía de 9 pasos de máscara y capa en PVC, madera y goma EVA en [Instructables](https://www.instructables.com/Princess-Mononoke-Costume/) y lista de materiales en [Carbon Costume](https://carboncostume.com/make-your-own-princess-mononoke/) ✅ (cuatro fuentes con fotos del proceso). Fotos CC en Flickr: punto 3. El cosplay de San más votado de r/ghibli tiene 1797 votos (punto 21).
 - **Mercancía de la máscara**: se vendieron réplicas de la máscara de San ✅ (Wikipedia EN, punto 25).
+- **Teatro**: la compañía Whole Hog Theatre la montó en Londres en 2013 con **títeres hechos de ropa y plástico reciclado** ([foto del montaje](https://static.wikia.nocookie.net/studio-ghibli/images/5/56/Mononoke_Whole_Hog_Theatre.jpg), 640×426; [San hablando con Moro](https://static.wikia.nocookie.net/studio-ghibli/images/c/c4/Mononoke_play.jpg), 640×350) ⚠️ una fuente (la wiki, `texto.json`). Buena referencia de cómo se ve Moro hecha con materiales reales.
 - ⚠️ No se encontró cruce oficial con Fortnite, gacha ni ningún otro juego (buscado en inglés; Ghibli ha sido reacio a estas colaboraciones). Lo más cercano es *Ni no Kuni*, colaboración real pero de otra franquicia (punto 11).
 - **Cruce no oficial pero documentado**: Shigeru Miyamoto reconoció en una entrevista de 1998 (revista *Gamejin*) que *The Legend of Zelda: Ocarina of Time* se desarrolló en paralelo y comparte diseños con Mononoke (Link/Epona ≈ Ashitaka/Yakul; el Goron Gigante ≈ Nightwalker) ✅ (dos fuentes que citan/traducen la misma entrevista).
 
@@ -771,6 +772,7 @@ En `hojas/`: exactamente 3 archivos JPEG, todos bajo el límite de 3 MB (arte_01
 - **60** `028` Jigo · **66** `042` y **69** `050` Eboshi → **poses E1-E2 y J1** (punto 14).
 - **72** boceto en acuarela de San de cuerpo entero · **73** **hoja de modelo** de Ashitaka, Kaya, じいじ y ヒイ様 · **76** **Michiyo Yasuda y sus modelos de color** → **técnica** (punto 18).
 - **74** **foto real de Yakushima** (2048×850), el bosque que inspiró el del Shishigami · **75** cartel japonés de Ashitaka sobre Yakul · **94** recortes de prensa de la taquilla (E.T. superado) · **96** pintura de época Muromachi (referencia histórica, **no es de Ghibli**).
+- **93** celuloide original de la película (pie de la wiki: «una de las últimas películas con animación tradicional en cel») → técnica.
 - Ruido de la wiki, **no usar**: **85** logo de HBO Max; **91** y **92** llevan nombres de archivo que no tienen que ver con la película.
 
 **`arte_01.jpg`** (31 recuadros, 97-127; arte y producción):

@@ -889,3 +889,52 @@ grupo, **Fern lleva la cara expresiva**; Frieren, no ✅ visto.
 - Para una lámina de memoria en grupo: **Fern y Stark de frente, Frieren
   un paso atrás y de espaldas, Himmel translúcido al fondo**.
 
+## Punto 14 · Poses dentro del paisaje
+
+**48 poses funcionales** (presentar, explicar, celebrar, regañar, pensar,
+animar), de 6 a 10 por personaje y con minuto, están en **33 §15**. Aquí
+va lo que 33 no cubrió: **el personaje integrado en el paisaje**, casi
+siempre de cuerpo entero o diminuto.
+
+| Quién | Dónde (minuto) | Pose: postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| **Frieren** | PV2 T1, [1:27](https://www.dailymotion.com/video/x8mkolb?t=87) · memoria_01 n.º 12 | de pie sobre un montículo, **bastón en la mano**, flores azules gigantes **desenfocadas delante**, cielo dorado | **presentar** a lo grande, con el paisaje de marco |
+| **Frieren** | PV2 T1, [0:47](https://www.dailymotion.com/video/x8mkolb?t=47) · n.º 11 | de pie en una barca, en una cueva de agua azul, sujeta el bastón cuya piedra **brilla**; plano cenital | **pensar**, viajar sola: figura pequeña en un espacio enorme y callado |
+| **Frieren** | PV2 T1, [0:41](https://www.dailymotion.com/video/x8mkolb?t=41) · n.º 10 | camina **de espaldas** por un campo de flores rosa hacia el horizonte; diminuta | **pensar**, el paso del tiempo, sin cara |
+| **Grupo de Himmel** (4) | PV2 T1, [0:31](https://www.dailymotion.com/video/x8mkolb?t=31) · n.º 9 | caminan **en fila y de espaldas** por un puente de piedra, luz entre hojas | **animar**, dar la bienvenida en grupo sin elegir caras |
+| **Frieren y Fern** | T1-03, [clip 0:10](https://www.dailymotion.com/video/x8qbrgb?t=10) y [2:00](https://www.dailymotion.com/video/x8qbrgb?t=120) · n.º 13-14 | dos siluetas diminutas al pie de una colina bajo cielo gris, frente a una figura gigante | **avisar** de algo serio: pequeñez ante lo enorme, sin caras de miedo |
+| **Flamme** | EP4 (fondo de la wiki) · n.º 2 | **de espaldas y quieta** ante las siluetas translúcidas de sus compañeros | **recordar, despedirse**: la pose de memoria por excelencia ⚠️ sin minuto |
+| **Frieren** | EP2 · n.º 15 | sentada, encorvada, **de espaldas** junto a la cuna vacía, luz diagonal | **tristeza** callada ⚠️ sin minuto |
+| **Frieren y Fern** | EP3 · n.º 8 (paisajes_02 n.º 57) | sentadas en la terraza, **a contraluz**, mirando el mar al atardecer | **pensar juntas**, hacer una pausa |
+| **Frieren** | T2-37 · paisajes_01 n.º 36 | de pie a un lado, mirando **la estatua bajo el rayo de luz** en la biblioteca circular | **recordar** (concepto C) ⚠️ sin minuto |
+| **Fern** | EP27 · n.º 19 | primer plano, labios ondulados, mirada fija | **regañar** (ella sí, con la cara) |
+
+**La regla que sale de mirarlas** ✅ (seis escenas de vídeo y tres fondos):
+cuando la serie habla de **memoria o de paso del tiempo casi nunca enseña
+la cara**. Usa **la espalda**, **la escala** frente al paisaje o, para los
+muertos, **la transparencia**. Una lámina melancólica no necesita una cara
+triste: basta con **ponerla pequeña y de espaldas en un paisaje grande**.
+
+Para **explicar** y **celebrar** no hay pose nueva de paisaje: usar las de
+33 §15 (Frieren explicando tras la mesa con la vela; los tres celebrando).
+
+## Punto 15 · Vestuario según el clima
+
+**Los hex de la ropa**, medidos, están en **33 §16** (rayas de la camisa de
+Frieren `#FFFFFF`/`#181818`, ribete dorado `#DFC27A`/`#C0B064`, y los colores
+de Fern, Stark y Himmel). Lo nuevo, visto en las 91 piezas de las hojas:
+
+- **La ropa cambia con la región**, no sólo con la temporada: en el norte
+  frío (Kühl, Heiß, el lago Korridor) llevan **capas y bufandas encima** de
+  la ropa de siempre (`paisajes_01` n.º **10**, la posada nevada; n.º **18**,
+  las termas de Heiß; `paisajes_02` n.º **56**, el puerto nevado de
+  Korridor); en el sur (Warm, la costa), ropa ligera ✅ comparado en la
+  misma hoja.
+- **El color de cada uno se lee a contraluz**: en el atardecer de Warm
+  (EP3, n.º 57) quedan casi en silueta y aun así se distingue **el blanco de
+  Frieren** del **morado oscuro de Fern** ✅ visto. **No se midieron hex
+  ahí a propósito**: el contraluz falsea la tela. Para la tela, 33 §16.
+- **Lo icónico sigue siendo lo de 33**: capa blanca con ribete dorado,
+  camisa de rayas, pendientes de gota y el bastón con la joya roja.
+  **Nada de sombrero de bruja** (33 §1).
+

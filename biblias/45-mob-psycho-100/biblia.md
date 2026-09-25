@@ -137,3 +137,106 @@ encaja palabra por palabra con el canal.
   de Mob al 100 %), C #presentaciones (la cartela de Dimple) (§27).
 
 ---
+
+## 2 · Las escenas que sirven, con minuto
+
+Todo esto lo miró el investigador de vídeo **fotograma a fotograma** con
+`fotogramas.py`. Los episodios salen del rip de la T1 en 1080p de
+[Internet Archive](https://archive.org/details/kusathegrass-anime-mob-psycho-100-s1)
+(subida de fans, con subtítulos en inglés; las frases en inglés de abajo
+son de esos subtítulos, no del doblaje latino).
+
+### 2.1 Opening 1 «99» (visto entero, 0:00-0:56)
+
+Fuente: captura de Toonami con logo de [adult swim] en
+[Internet Archive](https://archive.org/details/mob-psycho-100-opening-us-toonami-edit) ✅.
+
+| Minuto | Qué se ve | Para qué sirve |
+|---|---|---|
+| 0:00-0:06 | Mob da puñetazos a una pared, con rabia | la rabia contenida del protagonista |
+| 0:06-0:10 | Teru con capa violeta, cayendo en picado | Teru «protagonista de su mundo» |
+| 0:12 | créditos: 川井憲次 (Kenji Kawai, música) | fuente del compositor |
+| 0:12-0:16 | noria y skyline pop-art rosa y verde | fondo de ciudad estilizada |
+| 0:18 | créditos del tema: MOB CHOIR; letra y música Junichi Sasaki; arreglos Wataru Maeguchi | ficha del tema |
+| 0:24-0:26 | un brócoli gigante | gag que vuelve en la T3 (Divine Tree) |
+| 0:26-0:28 | Dimple riendo, verde ácido | Dimple burlón |
+| 0:30-0:34 | Ritsu con halo de energía | Ritsu y su envidia de los poderes |
+| 0:34-0:36 | Teru rubio, mirada fría | Teru antagonista |
+| 0:52-0:56 | logo «モブサイコ100» rosa neón sobre skyline pixel-art | cierre, logo |
+
+### 2.2 Ending 1 «Refrain Boy» (dentro del episodio 1)
+
+No hay clip suelto que se pudiera bajar. Se vio en el **episodio 1, de
+23:05 a 23:50**: Mob y Reigen caminan de espaldas, en silueta, contra un
+cielo malva y naranja en degradado; la letra en pantalla («afurete
+tomaranai…») coincide con la de la
+[wiki de Fandom](https://mob-psycho-100.fandom.com/wiki/Refrain_Boy) ✅.
+
+### 2.3 Tráileres
+
+- **Tráiler de Funimation para el Blu-ray** (2:00, 2016), visto entero
+  cada 4 s en [Internet Archive](https://archive.org/details/turner_video_10908) ✅:
+  - 0:12 Mob grita en el colegio bajo un rayo psíquico verde.
+  - 0:16 rótulo «from the mind of ONE, creator of ONE PUNCH MAN».
+  - 0:24 Tsubomi jugando al tenis.
+  - 0:28 brazo hipertrofiado y brillante (club de fisicoculturismo).
+  - 0:40 Ritsu y Teru chocan sobre fondo magenta.
+  - 1:40 logo rojo «100%».
+  - 1:48 aura de rayos alrededor de la cabeza de Mob, en la oscuridad.
+  - 1:52 portada del Blu-ray de la T1.
+- **PV3 japonés** (2:20):
+  [YouTube](https://www.youtube.com/watch?v=mV39saBlBLI). Título y
+  duración confirmados con yt-dlp; no se pudo bajar ⚠️.
+- **Tráiler de la serie** en Dailymotion (Hitek, 1:56, 35 998 vistas):
+  [x4g5kft](https://www.dailymotion.com/video/x4g5kft). En 0:48 sale Mob
+  sonrojado sobre fondo de burbujas ✅.
+- **Tráiler de la T3** con subtítulos en español de España (Sensacine):
+  [x8ec8b9](https://www.dailymotion.com/video/x8ec8b9). En 1:36, Mob con la
+  mano levantada y los ojos tapados por el flequillo, «¡Detente!» ✅.
+
+### 2.4 Tres escenas icónicas, vistas enteras
+
+1. **La primera explosión al 100 % de Mob** (T1, ep. 3) ✅
+   - 17:15 el medidor en pantalla: «Progress Toward Mob's Explosion: 88%».
+   - 19:00 baja la cabeza, el pelo empieza a subir, el fondo se vuelve morado.
+   - 19:30-20:15 al 100 %: aura violeta, ojos que brillan sin pupila, el
+     contorno del pelo se vuelve **irregular, como arañado**.
+   - 21:15 «These are my emotions» y el golpe que dispersa a la secta.
+2. **Dimple aparece y lo atrapan** (T1, ep. 1) ✅
+   - 17:00-17:40 finge ser un espíritu enorme de dientes afilados.
+   - 18:40 su forma real: pequeño, ojos como platos, boca en O
+     («Huh? That didn't hurt at all»).
+   - 19:40 levanta las dos manitas pidiendo clemencia («That's all I wanted to say!»).
+3. **«戦わない / Don't Fight»: Reigen contra Claw sin poderes** (T1, ep. 12) ✅
+   - 2:40 cartela blanca sobre negro «"Don't Fight" [戦わない]».
+   - 5:40 cartel rojo «100%» a toda pantalla.
+   - 9:00 Reigen apunta con una pistola de juguete («It's the ultimate
+     weapon of destruction»).
+   - 13:20 los cuerpos de miembros de Claw tras la purga interna.
+
+### 2.5 Más escenas con minuto (clips de Dailymotion, parte de voz)
+
+| Clip | Minuto | Qué pasa |
+|---|---|---|
+| [«RAGE MODE FIGHT» Mob vs. Koyama](https://www.dailymotion.com/video/x84g6ar) | 0:42 | cara de Mob con tensión: cejas rectas, boca en línea, pelo erizándose |
+| mismo | 1:54 | Mob con miedo, ojos muy abiertos, sangre en la boca: «S-Stop...» |
+| mismo | 2:48 | **???%**: monocromo, pelo blanco erizado, ojos rojos, cara sin expresión |
+| [«Mob vs Teru Explosion»](https://www.dailymotion.com/video/x4rj83n) (T1, ep. 5, corte de fan) | 0:00 | **100 % Tristeza**: Mob llora, cara roja, ojos cerrados, boca abierta |
+| mismo | 1:45 | Teru desnudo entre escombros: «¡Basta! ¡Lo siento!» (es Teru, no Mob) |
+
+El episodio de Mob vs. Koyama es el **8** según la parte de voz ⚠️ (el
+clip no lo dice; comprobar en la lista de episodios).
+
+### 2.6 Lo que falta de vídeo
+
+- Opening 2 y 3, y los endings de la T2 y T3: no se vieron (sólo sus
+  fichas, §11) ⚠️.
+- Escenas de la T2 y T3 (la muerte de Dimple, la rueda de prensa de
+  Reigen): sin fotograma propio ⚠️. Los clips oficiales de Crunchyroll
+  están localizados por su ID para un repaso: «Mob Goes ???%»
+  ([aT_P7R2ebsQ](https://www.youtube.com/watch?v=aT_P7R2ebsQ)), ending
+  «Refrain Boy» ([HSUljcXSdvI](https://www.youtube.com/watch?v=HSUljcXSdvI)),
+  opening (`pUdaXUUDUew`), «Dimple vs Shibata» (`GmbPAL-xcX0`) y «Live
+  However You Want To» (`jOEBNYSLfSo`).
+
+---
