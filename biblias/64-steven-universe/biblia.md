@@ -660,7 +660,7 @@ Hex medidos con Pillow en las **fichas de producción** del punto 1 (zona plana 
 | Sitio | Cómo es | Luz y hora | Dónde verlo |
 |---|---|---|---|
 | **Beach City** | pueblo costero de EE. UU. (en la costa de Delmarva): paseo de tablas, muelle, letrero «BEACH CITY» en la colina, faro en el acantilado | mañana nublada, difusa, fría (azul, verde, turquesa) | [color key oficial](https://static.wikia.nocookie.net/steven-universe/images/4/4f/Beach_City_Color_Key.jpg) 1280×720 ✅ · [mapa oficial](https://static.wikia.nocookie.net/steven-universe/images/2/24/SU-Beach_City_Map.jpg) 3626×2792 ✅ |
-| **La Casa Playa** | la casa de Steven, pegada al Templo | tarde cálida por la ventana | `GG` 3:30 · hoja n.º 141 (cocina, «Volleyball») |
+| **La Casa Playa** | la casa de Steven ([Beach House](https://steven-universe.fandom.com/wiki/Beach_House)) | tarde cálida por la ventana | `GG` 3:30 · hoja n.º 141 (cocina, «Volleyball») |
 | **El Templo de Cristal** | montaña con forma de mujer; dentro, pasillos de cristales triangulares | tenue, con brillos de cristal | `GG` 2:00-2:50 · hojas n.º 13-14 (la Puerta) |
 | **El Big Donut** | la tienda de rosquillas de Sadie y Lars | cálida, de vitrina | `GG` 1:00-1:50 · hoja n.º 107 · [modelo 3D CC BY](https://sketchfab.com/3d-models/none-b44b20b741ce4dbba2339fec366cc3c9) |
 | **La playa** | arena, acantilado | atardecer: cielo crema, rosa y silueta verde oscura | `GG` 10:40-11:10 |
@@ -890,3 +890,193 @@ Fuentes: [Steven](https://steven-universe.fandom.com/wiki/Steven_Universe_(chara
 ### Las que hacen reír
 - **«Cheeseburger Backpack»** (T1-E3): Amatista y Perla cantando el nombre de la mochila · ✅ (punto 12)
 - **Amatista** con Cookie Cat (`GG` 4:00) y su «¡No, mi torta!» en español.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+⚠️ **Las vistas no se pudieron contar**: YouTube pide iniciar sesión desde el servidor. Los enlaces están confirmados por el buscador.
+
+**Fandubs en español latino** (YouTube):
+
+| Qué es | Escena | Enlace |
+|---|---|---|
+| «Steven Universe Future: Volleyball (Español Latino) [FANDUB]» | capítulo de *Future* (el de Steven rosa, hoja n.º 142) | https://m.youtube.com/watch?v=kh5FAs2TpC4 |
+| «Todo está bien (capítulo 18 completo) \| Español Latino Fandub \| Steven Universe Futuro» | capítulo 18 de *Future*, entero | https://www.youtube.com/watch?v=pEFpBpEWyaw |
+| «Steven Universe Comic: STEVEN SE CORROMPE I (Fandub Español Latino)» | cómic doblado | https://www.youtube.com/watch?v=iKEvhwwgEc4 |
+| «Steven universe cómics -fandub español latino-» | cómic doblado | https://www.youtube.com/watch?v=ocLwOWl2Wjg |
+| «REESCRITO (FANDUB ESPAÑOL LATINO)» | cómic doblado | https://www.youtube.com/watch?v=_hZUkaCHUlA |
+| «Steven Universe: La Película TRAILER I (Fandub Español Latino)» | tráiler de la película | https://www.youtube.com/watch?v=CDlMPzFdlvc |
+| «Steven vs Bill Cipher Fandub Español Latino (Steven Universe X Gravity Falls)» | cruce con *Gravity Falls* | https://www.youtube.com/watch?v=dua-aXMuqG0 |
+
+**Lo que dice de la comunidad:** no sólo doblan la serie, **doblan el cómic oficial** (que no tiene doblaje) y *Future*, y cruzan series. Es justo lo que hace un servidor de doblaje: sirve de ejemplo para #📂・proyectos o #🎯・reto-de-la-semana.
+
+**Covers del opening en español**
+- Versión oficial: **«Somos las Gemas de Cristal»**, cantada por Leisha Medina · letra en [Letras.com](https://www.letras.com/steven-universo/somos-las-gemas-de-cristal-opening-extendido/) · ✅
+- Covers de fans: https://www.youtube.com/watch?v=qiG8AciRXzo · https://www.youtube.com/watch?v=-TjVIyyyFW0 · ⚠️
+- **En directo**: versión extendida en un concierto de la convención **Senka** (Mérida, Yucatán, México, 28 de mayo; año sin confirmar) · https://www.youtube.com/watch?v=AYhpxBTeb6A · ⚠️
+- Montaje de fans del intro con *My Little Pony*, en español latino (0:34) · https://www.dailymotion.com/video/x3klev8 · ⚠️ no visto.
+
+**Oficial en español que la comunidad usa:** los clips doblados de Dailymotion (`TIO`; «Stevonnie (Latino) — Solos y Juntos») son fáciles de recortar para memes o retos; y el disco de la película en español (punto 9).
+
+⚠️ No encontré cuentas de TikTok dedicadas a fandubs de la serie (se buscó «Steven Universe fandub tiktok español»): sólo clips sueltos oficiales.
+
+## Punto 23 · Colaboraciones y cruces
+
+**Juegos de otras marcas**
+- **Brawlhalla** (Ubisoft, gratis): evento «Steven Universe Event» del **4-dic-2019** (parche 3.53). **Garnet, Amatista, Perla y Stevonnie** jugables como *Epic Crossovers*, con animación de entrada y armas nuevas; se quedaron para siempre · [ComicBook](https://comicbook.com/gaming/news/brawlhalla-steven-universe-crossover-fighters-crystal-gems/) + [Brawlhalla Wiki](https://brawlhalla.wiki.gg/wiki/Steven_Universe_Event) · ✅. Arte: [guanteletes de Garnet](https://static.wikia.nocookie.net/steven-universe/images/e/eb/Garnet%27s_Gauntlets_%28Brawlhalla%29.png) 1280×1280 · [lanza de Perla](https://static.wikia.nocookie.net/steven-universe/images/7/7f/Pearl%27s_Spear_%28Brawlhalla%29.png) 1280×1280.
+- **MultiVersus** (Warner Bros. Games): **Steven y Garnet** jugables desde el anuncio del **18-nov-2021** · [Business Wire](https://www.businesswire.com/news/home/20211118005502/en) + [wiki del juego](https://multiversus.fandom.com/wiki/Steven_Universe) · ✅
+- **Cartoon Network: Battle Crashers** (2016): Steven jugable (punto 11) · ✅
+
+**Colaboración educativa**
+- **Adafruit × Cartoon Network**: kit para **construir los guanteletes de Garnet** con luces y sonido programables (Circuit Playground) · [Adafruit](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe) · ✅. Es un objeto real de la serie hecho de verdad: buena referencia de volumen.
+
+**Eventos**
+- **Exposición Steven Universe / Adventure Time** en Gallery Nucleus, con Cartoon Network: portadas variantes del cómic, láminas, firma y **actuación en directo de Rebecca Sugar** · [Gallery Nucleus](https://gallerynucleus.com/events/441/exhibition) + [Wendi Chen](https://www.wendichen.com/events/steven-universe-gallery-nucleus) · ✅
+- **San Diego Comic-Con**: paneles del reparto y del equipo desde 2013 · [Fandom](https://steven-universe.fandom.com/wiki/San_Diego_Comic-Con) · ✅
+- ⚠️ No encontré cafés temáticos ni zonas en parques (se buscó «Steven Universe pop-up cafe», «theme park official area»).
+
+**Figuras oficiales (su pose es una referencia 3D)**
+- **Funko Pop!**: 16 figuras. Primera oleada (14-dic-2015): Steven con su camiseta de estrella, **Garnet con gafas**, Amatista con la gema asomando y **Perla en pose de bailarina con los brazos abiertos**. Segunda oleada en marzo de 2017; variantes que brillan en la oscuridad (Hot Topic) · [Toynk](https://www.toynk.com/blogs/news/steven-universe-funko-pop-list) + [Cardboard Connection](https://www.cardboardconnection.com/funko-pop-steven-universe-figures) · ✅
+- Foto de un Funko mini de Steven (Sergey Galyonkin, CC BY-SA 2.0, 1022×1024) · https://live.staticflickr.com/4279/34589194024_b908708a78_b.jpg
+
+**Cosplay bien hecho**
+- **Garnet de Carbon Costume**: guanteletes de **goma EVA** (un rollo de 7"×18" para el cilindro del puño, cola de contacto, secado de 30 min a 24 h) y mono azul marino con hombreras · [Carbon Costume](https://carboncostume.com/make-your-own-garnet-from-steven-universe/) · ✅
+- Fotos con licencia libre (Openverse): Garnet en Sakura-Con 2016 (camknows, CC BY-NC-SA) · https://live.staticflickr.com/1536/25995790691_274aa59caf_b.jpg · Gemas *steampunk* (greyloch, CC BY-NC-ND) · https://live.staticflickr.com/4722/39737153114_29c452a569_b.jpg · Lapis (greyloch) · https://live.staticflickr.com/1599/24783048900_1d8585d39a_b.jpg · Blue Diamond (timz2011, CC BY-NC-SA) · https://live.staticflickr.com/65535/52127164069_c6e47a4080_b.jpg · Spinel (timz2011) · https://live.staticflickr.com/65535/49056594447_412af1e947_b.jpg · Amatista de LEGO hecha por fans (BRICK 101, CC BY-NC) · https://live.staticflickr.com/4183/34451032102_542dc526da_b.jpg
+
+**Cruces dentro de Cartoon Network**
+- Promos con *Power Rangers: Dino Charge* y *Hora de aventura: Estacas* (las únicas veces que Steven se dobló en México, punto 8) · ✅
+- Rebecca Sugar viene de *Hora de aventura* (punto 24).
+
+## Punto 24 · Obras parecidas
+
+**Influencias que reconoce Rebecca Sugar** ([CBR](https://www.cbr.com/anime-that-influenced-steven-universe/) y [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe)):
+- ***Revolutionary Girl Utena*** — la más directa: la esgrima de Perla, la Sky Arena (copia el duelo «End of the World»), Rose desenvainando en «Lion 2: The Movie», el traje de Mega Perla · ✅ dos fuentes.
+- ***Sailor Moon*** — un tomo del manga en la estantería de Steven («House Guest»); la transformación de Spinel imita la de Usagi; Jasper sacando el arma en «Jail Break» copia el Moon Rod · ✅
+- ***Neon Genesis Evangelion*** — la fusión Alexandrita («Fusion Cuisine», «Super Watermelon Island») y la escena de felicitación de «The Test» · ⚠️ una fuente.
+- ***Dragon Ball Z*** — la fusión; las naves como cápsulas saiyan; Garnet quitándose peso en «Garnet's Universe» (Piccolo); el traje de Connie en «Sworn to the Sword» (Gohan) · ⚠️
+- ***Gurren Lagann*** (las gafas de Garnet y Peridot al final de la T5; el taladro de Spinel) · ***Capitán Harlock*** (Lars pirata espacial) · *Kiki*, *Initial D* («Beach City Drift»), *Akira* (Connie derrapando sobre León), el cuento de Junji Ito *El enigma de la falla Amigara* · ⚠️ una fuente cada una.
+- ***Los Simpson*** y ***Conan, el niño del futuro*** (Miyazaki, 1978), como influencia del tono · ⚠️ resumen de Wikipedia.
+- **Rebecca Sugar viene de *Hora de aventura***: *storyboard* desde la T1, nominada al Emmy y al Annie; la dejó a principios de 2013 para su serie · [Wikipedia](https://en.wikipedia.org/wiki/Rebecca_Sugar) + [Fandom](https://steven-universe.fandom.com/wiki/Rebecca_Sugar) + TV Tropes · ✅
+
+**Series de tono parecido** ([ScreenRant](https://screenrant.com/steven-universe-shows-watch-if-miss/) y [Ranker](https://www.ranker.com/list/what-to-watch-if-you-love-steven-universe/watchworthy), ⚠️ listas de opinión): *The Owl House*, *Gravity Falls*, *Over the Garden Wall*, *Star vs. las fuerzas del mal*, ***She-Ra y las princesas del poder*** (la más citada), *The Dragon Prince*, *Amphibia*, *Summer Camp Island*, *Hilda*, *El increíble mundo de Gumball*, *OK K.O.!*
+
+**Otras láminas del servidor que se le parecen** (para no repetir ideas):
+- **14 *Hora de aventura*** (#musica-nueva): mismo origen y tono agridulce de Cartoon Network. Su biblia ya cita «Drift Away» de Steven Universe (comprobado en `biblias/14-adventure-time-hora-de-aventura/biblia.md`) · ✅. No repetir allí la idea de «canción de Steven».
+- **38 *Sailor Moon***: propone 🎲 Juegos, #eventos y #general-doblaje. Steven Universe no debe copiar su pose de **transformación** (es el préstamo reconocido).
+- **29 *Sing*** propone #🎵・canto; **58 *Encanto*** propone #🪪・presentaciones; **17 *Arcane*** y **78 *Vinland Saga*** piden #📂・proyectos. Son sólo notas (decisión del dueño del 25-sep).
+- **63 *Las guerreras K-pop***: mismo fondo (un grupo que canta y pelea con la música como arma). ⚠️ Su biblia aún no está escrita (sólo tiene `partes/`): no se pudo comprobar qué concepto propone. Si también va a #canto, diferenciar: aquí la música es **íntima** (ukulele, atardecer), no de escenario.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ([Gems](https://steven-universe.fandom.com/wiki/Gems), ✅):
+1. Las Gemas son alienígenas que **nacen adultas** de máquinas (Inyectores) en los Kindergartens; ya saben todo lo de su tipo.
+2. **Homeworld** es un imperio de **castas por tipo de piedra**, gobernado por las Diamantes. Fusionarse con otro tipo está mal visto.
+3. Hace **5750 años** Rose Cuarzo lideró una rebelión en la Tierra. Al irse, Homeworld lanzó una luz que **corrompió** a casi todas las Gemas que quedaban: son los monstruos.
+4. **Fusionarse** es un vínculo: dos o más Gemas bailan y se vuelven un solo cuerpo más grande. En Homeworld sólo se permite entre iguales y para pelear.
+5. Las Gemas **no tienen género binario**: el femenino es una convención (Rebecca Sugar, [AMA de Reddit](https://www.reddit.com/r/IAmA/comments/2e4gmx/)).
+
+**La historia por arcos** ([Wikipedia](https://en.wikipedia.org/wiki/List_of_Steven_Universe_episodes), ✅):
+- **T1 (2013-15):** Steven y las Gemas de Cristal protegen Beach City. Lapis («Mirror Gem», «Ocean Gem») trae la primera amenaza de Homeworld; Peridot y Jasper llegan en «Jail Break» (Garnet canta «Stronger Than You»).
+- **T2 (2015-16):** Peridot pasa de enemiga a aliada. El **Cluster**, una Gema gigante de fragmentos en el centro de la Tierra, podría destruirla. «Cry for Help»: Perla ocultaba cosas.
+- **T3 (2016):** Steven encierra el Cluster en una burbuja. Llega Bismuto (quería fragmentar enemigas). Aparece «It's Over, Isn't It».
+- **T4 (2016-17):** Yellow y Blue Diamond vienen a la Tierra. Steven se entrega y lo llevan a Homeworld. Conoce a White Diamond.
+- **T5 (2017-19):** el gran giro de «A Single Pale Rose»: **Rose Cuarzo era Diamante Rosa** disfrazada. «Change Your Mind»: Steven convence a las Diamantes de reformar Homeworld.
+- **La película (2019):** dos años después; **Spinel**, abandonada por Diamante Rosa hace 6000 años, ataca la Tierra con un arma que borraría la vida.
+- ***Future* (2019-20):** epílogo sobre la **salud mental** de Steven: trauma, poderes que se desbordan con sus emociones, terapia. Termina en «The Future».
+- ⚠️ Detalle capítulo a capítulo sin cruzar con la [cronología de Fandom](https://steven-universe.fandom.com/wiki/Timeline).
+
+**Emblemas**
+- **La estrella de cinco gemas** de la Puerta del Templo: rosa (Rose/Steven), crema (Perla), morada (Amatista), roja (Rubí) y azul (Zafiro). **Es el emblema de las Gemas de Cristal** · [Crystal Temple](https://steven-universe.fandom.com/wiki/Crystal_Temple) + hojas n.º 13-14 · ✅
+- **El logo de las Diamantes**: un rombo partido en cuatro, Blanca arriba, Amarilla a la izquierda, Azul a la derecha, Rosa abajo. **Tras la película se invierte** (Rosa/Steven arriba, Blanca abajo): la Era 3 cambió el poder · [Gem Glyph](https://steven-universe.fandom.com/wiki/Gem_Glyph) · ✅
+- **La estrella amarilla** de Steven (`#FFDE3F`), repetida en guanteletes, escudo y ropa (punto 19).
+
+**Gem Glyph, la escritura de las Gemas** · [Gem Glyph](https://steven-universe.fandom.com/wiki/Gem_Glyph) ✅
+- Es **logográfica** (cada signo es una idea), no un alfabeto. La cuida **Steven Sugar**, hermano de la autora y diseñador de fondos.
+- Un **rombo con una raya** arriba, abajo o a un lado dice de qué Diamante se habla (la raya copia su sitio en el logo). Palabras de Rebecca Sugar: «A line is placed above, below, or next to a diamond shape to indicate which Diamond is being referred».
+- Números del 1 al 8 descifrados (el 1 es un cuadradito; el 2 y el 3, columnas de dos y tres) · ⚠️ una fuente (notas de Steven Sugar en el artbook *End of an Era*).
+- En *Unleash the Light* es **una letra real**: sustitución letra a letra del inglés.
+
+**Objetos icónicos**
+- **La espada y el escudo de Rose**; el escudo (rosa, con estrella) lo hereda Steven.
+- **León**, el león rosa de Rose: guarda cosas dentro de su melena (un bolsillo a otra dimensión) (hojas n.º 109, 122).
+- **Las burbujas**: las Gemas encierran objetos o Gemas corruptas en burbujas de color y las guardan en el Templo. El gesto de «neutralizar sin matar».
+- **El Comunicador de las Diamantes**: octaedro con una cara por Diamante; proyecta una pantalla para hablar (punto 6).
+- **La Mochila Hamburguesa** (*Cheeseburger Backpack*), el **ukulele** de Steven y los **Cookie Cat**.
+- **El Cluster**: manos y brazos gigantes que salen de la tierra y del mar · [The Cluster](https://steven-universe.fandom.com/wiki/The_Cluster) ✅
+- **El Kindergarten**: Inyectores clavados en la roca; cada Gema nace con un código tipo «Facet-5 Cut-8XM» · [Kindergarten](https://steven-universe.fandom.com/wiki/Kindergarten) ✅
+
+**Vocabulario que un fan reconoce al instante**
+- ***Poof***: el cuerpo se deshace en humo y queda la gema; se recupera. ***Shatter***: romper la gema, la muerte de verdad, el gran tabú. ***Regenerate***: volver con un cuerpo nuevo (a veces con ropa nueva). ***Corrupted***: Gema convertida en monstruo. ***Off Colors***: Gemas «defectuosas» para Homeworld (T5) · ⚠️ no se abrió su página. ***The Famethyst***: las Amatistas del mismo Kindergarten que la nuestra · ⚠️
+- **Fusiones**: Garnet (Rubí + Zafiro) · Ópalo (Amatista + Perla) · Sardonyx (Garnet + Perla) · Sugilite (Garnet + Amatista) · Alexandrita (las tres) · Obsidiana (las cuatro con Steven) · Stevonnie (Steven + Connie) · Cuarzo Ahumado (Steven + Amatista) · ✅
+- **Lugares**: Homeworld, Beach City, el Templo, la Casa Playa, el Big Donut, Little Homeworld. **Gobierno**: la *Great Diamond Authority* ([ficha](https://steven-universe.fandom.com/wiki/The_Great_Diamond_Authority); ⚠️ su nombre en el doblaje latino no está en las partes).
+
+## 3 conceptos de lámina
+
+Reglas del dueño que se aplican: un objeto real en un sitio real (hecho en Blender si se puede), pose y cara que vayan con lo que dicen, recortes por `v3/integrar.py`, textos cortos en la voz de la serie y sin «·», «—» ni paréntesis. **Tono de la serie: cálido y pastel**, con grano; nada de oscuro ni sangriento. Letra de todos los textos: **Crewniverse** (la única comprobada con tildes, ñ, ¿ y ¡).
+
+### A · #🎵・canto — «El cancionero en el techo del vagón» ⭐ recomendado
+
+- **Objeto y sitio:** un **cancionero** de espiral abierto y el **ukulele** de Steven, sobre el **techo del vagón rojo** al atardecer, con Beach City y el mar al fondo. Base: **hoja n.º 46** («On the Run»; «On the Run» es también una canción del disco). En Blender: el cuaderno con Paper006 (la tinta sigue la curva de la hoja), el ukulele y el techo del vagón como una caja roja.
+- **Quién:** **Steven**, la voz de más de 38 canciones (en latino, Leisha Medina canta el opening). Sentado como en la n.º 46, con la cara **tranquila y sonriente, ojos entornados** (`TIO` 0:56-1:04). Una mano sobre el cancionero, como enseñándolo (el gesto de señalar de `GG` 1:30). **Amatista** a su lado, detrás y un poco desenfocada, comiendo un Cookie Cat (`GG` 4:00).
+- **Cómo habla:** sin globo. El nombre del canal como **cartela de título** de la serie, en el cielo. Lo demás, **escrito en el cancionero** y en una etiqueta pegada al estuche del ukulele.
+- **Dónde va cada texto:**
+  - Cielo, cartela: «canto».
+  - Página izquierda, Steven: «¡Aquí se habla de cantar!»
+  - Página derecha: «Técnica, canciones, dudas de voz.»
+  - Etiqueta del ukulele: «¿Tienes un cover? Va a #demos-canto. Un hilo por cover.»
+- **Para que no quede plano:** paleta medida del atardecer de `GG` 11:00 (cielo `#F7F6CE`, nubes `#CD8891`, arena `#ECD2A3`, acantilado en silueta `#17251E`). Luz de borde cálida en el pelo de Steven. **El mástil del ukulele cruza la esquina de abajo**, delante de todo. Amatista desenfocada detrás; el mar con el grano de la serie.
+- **Lámina 2 (si se satura):** las etiquetas de #demos-canto (Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl, Balada, Rock, Pop, Anime OP/ED) escritas como la lista de canciones del cancionero.
+
+### B · #🪪・presentaciones — «La Guía de las Gemas en la cocina»
+
+- **Objeto y sitio:** el libro oficial ***Guide to the Crystal Gems*** abierto sobre la **mesa de la cocina de la Casa Playa** (hoja n.º 141). En la página izquierda, **la ficha real de Amatista** (hoja n.º 2: cinta lila con estrella, «Species», «Weapon», «Favorite Quote»). En la derecha, **la misma ficha en blanco** para el servidor. En Blender: libro abierto con las páginas curvadas.
+- **Quién:** **Perla**, la más dibujada por los fans (1.ª en Danbooru) y la que lo explica todo. De pie junto a la mesa con la **mano abierta hacia el libro** (hoja n.º 15) y cara amable y orgullosa. **Amatista** asoma por el otro lado **señalando su propia ficha** (hoja n.º 143), con su sonrisa de broma. Es su dinámica real: Perla ordena, Amatista se ríe.
+- **Cómo habla:** el propio formato de la *Guía*: cada campo con su **cinta lila y estrella**, en Crewniverse. Las frases de Perla y Amatista, como pies de página del libro.
+- **Dónde va cada texto:**
+  - Cabecera de la página derecha: «Tu ficha».
+  - Campos con cinta: «Nombre», «País», «Qué haces», «Tu frase favorita».
+  - Bajo «País»: Sudamérica, México, Centroamérica y Caribe, España, Otro país.
+  - Bajo «Qué haces»: Doblaje, Canto, Locución, Edición, Arte, Escritura, Hacer amigos.
+  - Pie, Perla: «Es opcional. Pero así todos te ponen cara.»
+  - Pie, Perla: «Abre TU hilo con la plantilla fijada.»
+  - Pie, Amatista: «¡Y no te olvides de tu frase favorita!»
+- **Para que no quede plano:** luz de tarde por la ventana (paleta de `GG` 3:30: `#F4DACF`, `#CEA7B0`, `#7A5C74`), con la **sombra del marco de la ventana** cruzando el libro. **Una taza de té de Perla** delante, desenfocada (a Perla le gusta el té, no la comida). Amatista entra desde el borde, cortada por el marco.
+- ⚠️ El texto del canal en `servidor/inventario.md` está cortado («nadie comenta…»): confirmar cómo termina antes de rotular.
+
+### C · #📂・proyectos — «La Puerta del Templo»
+
+- **Objeto y sitio:** **la Puerta del Templo**, con la **estrella de cinco gemas** (hojas n.º 13-14 y [Better Temple Door](https://static.wikia.nocookie.net/steven-universe/images/e/eb/Better_Temple_Door.png), 1953×3105). En Blender: la puerta de piedra con el relieve de Rock064, el dintel geométrico y las cinco gemas con emisión de luz. El **camino de luz** que sale de la estrella (ondulado en la n.º 13, recto en la n.º 14) es el avance del proyecto.
+- **Quién:** **Garnet**, la mejor valorada por la prensa (1.ª en IGN) y **una fusión: un equipo que funciona**. De pie junto a la puerta, **chasqueando los dedos** con sonrisa confiada (`STY` 2:42). Sin preguntas en su texto: Garnet no pregunta nunca.
+- **Cómo habla:** lo que dice está **grabado y encendido en la piedra** (el cartel del mundo), en Crewniverse. De adorno, una cenefa copiada del [banner de Homeworld](https://static.wikia.nocookie.net/steven-universe/images/7/7d/Homeworld_banner_zoomed_in.PNG) en Gem Glyph (sólo adorno: no escribir glifos inventados).
+- **Dónde va cada texto:**
+  - Dintel: «proyectos».
+  - Cada gema de la estrella, una etapa: rosa «Buscando gente», crema «En grabación», morada «En edición», roja «En revisión», azul «Estrenado».
+  - Bajo la estrella, Garnet: «Un hilo por proyecto.»
+  - Garnet: «Equipo, avance, entregas.»
+  - Abajo, su frase real del doblaje: «Cuando dos gemas se combinan crean algo más grande que la suma de sus partes.»
+- **Para que no quede plano:** la luz de las gemas **ilumina a Garnet desde abajo** (el plano heroico de las fusiones). Una **burbuja rosa translúcida** flota delante de ella con un guion enrollado dentro (el gesto de guardar algo valioso, `STY` 4:09). Alrededor, un interior cálido y desenfocado en la paleta de `GG` 3:30. ⚠️ Las partes no dicen qué hay alrededor de la puerta: mirar un fotograma antes de modelarlo.
+- **Lámina 2:** las diez etiquetas del foro (Buscando gente, En traducción, En grabación, En edición, En revisión, Estrenado, En pausa, Cancelado, Oficial del servidor, De la comunidad), como burbujas de colores guardadas en el Templo.
+
+**Otra idea para más adelante:** #🧰・recursos con la **Mochila Hamburguesa** abierta (es el inventario de *Unleash the Light*).
+
+## Lo que corregí de las partes y lo que no se pudo verificar
+
+**Correcciones (antes → ahora)**
+- Parte de imagen: `objetos_01` tenía «modelos de producción de Steven y Garnet con escudo y guanteletes» → la hoja trae **fotogramas de la película e iconos** de gemas y fusiones (visto). Esos modelos están enlazados en el punto 1.
+- Parte de imagen: el Kindergarten y el granero estaban «en la hoja de fondos» con otros títulos → el Kindergarten es la **n.º 36** de `personajes_01` («Back to the Kindergarten», visto); el granero **no está** en las 3 hojas guardadas.
+- Parte de voz: la muestra de Garnet era «la canción Stronger Than You» → es **un montaje**: sólo 0:21-0:25 suena a la letra cantada; «la Tierra era de Diamante Rosado…» es de otra escena.
+- Parte de vídeo: decía a la vez que no hay tema de cierre y que «Love Like You» lo es → en el piloto los créditos son **instrumentales** (oído); «Love Like You (End Credits)» está en el disco. Sin comprobar en qué capítulos suena cantada.
+- Parte de texto: «Sailor Moon está en #demos (canal 16)» → Sailor Moon es la biblia **38** y propone 🎲 Juegos, #eventos y #general-doblaje (DECISIONES.md).
+- Parte de texto: el Comunicador de las Diamantes aparecía como «octaédrico» y como «pantalla cuadrada» → el **objeto es octaédrico** (ficha); la forma de la pantalla que proyecta, sin confirmar.
+- `voz.json` enlazaba Danbooru con la etiqueta `steven_universe_pearl` (no existe así) → en `referencias.json` va `pearl_(steven_universe)`.
+- Arena: la parte de vídeo usó **Ground054** y la de imagen **Ground080** → van las dos (punto 4).
+
+**Lo que no se pudo verificar** (va con ⚠️ en su punto)
+- Frases latinas de **clips oficiales doblados**: sólo hay muestras de Doblaje Wiki (sin capítulo). El clip `TIO` se vio pero no se transcribió.
+- Caras de 9 de las 20 combinaciones emoción-personaje (punto 13).
+- Letra de globos, gritos y onomatopeyas del **cómic de BOOM!** (no se encontró el rotulista) y **cajas de diálogo de los juegos** (Game UI Database y TCRF bloqueados).
+- **Crystal Universe** (letra del logo): la descarga dio 0 bytes; tildes y ñ sin comprobar.
+- **Vistas** de fandubs y covers (YouTube pide iniciar sesión).
+- Los análisis en vídeo de Saberspark y PhantomStrider y el pódcast de Chris McDonnell: sólo se leyó su ficha.
+- Hex de las variantes de vestuario (Steven de la película y de *Future*, Purple Puma, Perla de Homeworld).
+- Si el entintado se hizo en Toon Boom Harmony; si los modelos 3D libres traen esqueleto.
+- Nombres latinos de *poof*, *Homeworld*, *Cheeseburger Backpack* y demás vocabulario (punto 17).
