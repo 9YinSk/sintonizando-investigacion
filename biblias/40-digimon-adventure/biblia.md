@@ -217,7 +217,7 @@ No usar: 2, 3 (otras series), 33 (manga de *Xros Wars*).
 | Nº | Qué es | Para qué |
 |---|---|---|
 | **3** | **key visual de *tri.* «Reunión»** (1476×2080): Tai y Matt de uniforme sobre la espada de Omegamon, mirando arriba | pose viva: personaje pequeño y Digimon gigante |
-| 4, 5, 10, 11, 12, 24 | pósters de *tri.* (grupo saltando, grupo junto a un autobús, Tai y Matt con Agumon y Gabumon en la escuela, Tai pequeño con Agumon) | grupo |
+| 4, 5, 10, 11, 12, 24 | pósters de *tri.* (11: grupo saltando bajo el cielo; 10: Tai y Matt de uniforme con Agumon y Gabumon; 24: Tai pequeño con Agumon; 4, 5 y 12: grupo) | grupo |
 | 19, 20, 21, 36 | pósters «Loss», «Future», «Coexistence», «Confession» | composición en diagonal |
 | 1, 17, 23 | pósters de broma de April Fool (amarillo y rojo) | humor |
 | 13, 22 | pósters de *Last Evolution Kizuna* (22: el grupo adulto con «WE'LL ALWAYS BE TOGETHER») | adultos |
@@ -431,8 +431,9 @@ de [MagnaAngemon](https://static.wikia.nocookie.net/digimon/images/5/52/Magnaang
 - Paleta: #362E1E 17%, #1B0A02, beige #A69584 y #817060, rojo #79231F.
 
 **Quién lo lee.** Casi siempre **el propio Digimon** da los datos en voz
-alta mientras sale la ficha ✅. En el doblaje latino lo lee un
-**narrador**; Doblaje Wiki cita dos frases suyas (§10.4).
+alta mientras sale la ficha ✅. Del doblaje latino, Doblaje Wiki cita
+dos frases del **narrador** que describen a un Digimon como lo haría la
+ficha (§10.4) ⚠️.
 
 **En Latinoamérica** hubo dos másters de Cloverway: en Fox Kids y
 Jetix los nombres del Analyzer iban **en japonés**; en señal abierta,
@@ -714,9 +715,11 @@ AniList pone a **Blanca Rada** como voz «Spanish» de Tai: es de
 - **Cada actor dobló a un niño y al Digimon de otro niño** (salvo
   Cristina Hernández). Gloria Rocha les pidió **elegir su Digimon**;
   **Circe Luna eligió la primera: Gabumon**. Por eso Circe Luna es Sora
-  y Gabumon, y Uraz Huerta es Matt y Agumon (Doblaje Wiki, contado por
-  Circe Luna en Toonlandya y en el foro Pikaflash ✅, cuadra con el
-  reparto).
+  y Gabumon, y Uraz Huerta es Matt y Agumon (Doblaje Wiki, que cita a
+  Circe Luna en el programa Toonlandya ✅; cuadra con el reparto).
+- En el foro Pikaflash, Circe Luna contó que **Miguel Ángel Leal** fue
+  la primera voz de Tai **y de Gomamon**, y que Gerardo Meza lo
+  reemplazó en los dos (Doblaje Wiki ⚠️).
 - **Grababan juntos en el atril**, primero los niños y luego los
   Digimon; todos menos Gerardo Meza (Doblaje Wiki ⚠️).
 - Víctor Ugarte y Cristina Hernández son los únicos que doblan a su
@@ -863,7 +866,7 @@ Los covers de fans lo llaman «Si Tú Lo Deseas» (§23).
 
 | Juego | Año y plataforma | Interfaz y cajas | En español |
 |---|---|---|---|
-| ***Digimon World*** | 1999, PS1, Bandai | **caja azul petróleo #39464B** con borde cian, nombre amarillo verdoso, texto blanco en píxel; menú en rejilla verde; teclado en pantalla para poner nombre a ti y a tu Digimon (§7.3) ✅ visto | no |
+| ***Digimon World*** | 1999, PS1, Bandai | **caja azul petróleo #39464B** con borde cian, nombre amarillo verdoso, texto blanco en píxel; menú en rejilla verde; teclado en pantalla para poner nombre a ti y a tu Digimon (§7.3) ✅ visto | ⚠️ sin dato (el vídeo es de la versión PAL, en inglés) |
 | [***Digimon Story: Cyber Sleuth***](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1042550/ss_b85abb30e749ea91b3f3827b895e0cea) | 2015 (PC 2019), Bandai Namco | HUD holográfico cian: #182B49 33%, #6B799B, #72B0D5, #CBE1F3, #1C5AA3. Técnica en banner con doble filete; fichas con icono redondo y barras verdes y cian en marco con esquinas en bisel; turnos en cápsulas | no (inglés, alemán, japonés, coreano, chino) |
 | [***Digimon World: Next Order***](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530160/ss_fe455bbe5e3d876be318b7941a0e90ad) | 2016, Bandai Namco | arena de **baldosas hexagonales**; barras de vida flotantes con una letra (R, L, LY), sin caja. Gris pizarra #8A8A8F, #9F989B, celeste #D7E9F1 | **sí, latino** |
 | [***Digimon Survive***](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871980/ss_c893c6fe0bab058e3365e424b92afbebe) | 2022, Bandai Namco / Witch Craft | texto sin caja; decisiones en pastillas (§7.4) | **sí, latino** |
@@ -1581,7 +1584,7 @@ su voz (§18.7), cortos, una idea cada uno, sin «·», «—» ni paréntesis.
   enlace y di por qué.»):
   - Grabado en la armónica: **¿QUÉ ESTÁS ESCUCHANDO?**
   - Caja de Matt, arriba a la izquierda: «La canción que llevo en bucle.
-    Pega aquí la tuya.»
+    Pega el enlace de la tuya.»
   - Caja de Gabumon, más pequeña, abajo a la derecha: «¿Y por qué esa?
     Cuéntalo… yo te escucho.»
 - **Cómo no queda plano.** La armónica **delante**, un poco
@@ -1745,7 +1748,7 @@ su voz (§18.7), cortos, una idea cada uno, sin «·», «—» ni paréntesis.
 | 10 · Vídeos y tendencias con minuto | ⚠️ | 6 vídeos de Dailymotion, IA-V1, 7 episodios y un gameplay mirados con minuto (§12). **El único análisis no se miró** y **TikTok sin vídeo ni cifras** |
 | 11 · Videojuegos: interfaz y cajas | ✅ | *Digimon World* (PS1) visto y medido, 4 juegos de Steam con capturas medidas e idiomas (§13). TCRF bloqueado ⚠️ |
 | 12 · Lo que ama el fandom y qué NO hacer | ✅ | 6 cosas que todo fan reconoce y 8 reglas de qué no hacer (§14) |
-| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, arco, voz medida y dinámicas de los 5 (§8). **El investigador de voz agotó sus 2 tandas: 19 de 25 caras con fotograma y minuto.** Faltan **la alegría de Matt** (buscada en los eps. 43, 44, 51 y 54), **la tristeza y la vergüenza de Gabumon** (eps. 44 y 51; su alegría queda ⚠️, plano general) y **la rabia y la tristeza de Agumon** (la pelea del ep. 1 queda tapada por un rótulo del doblaje). Tai y Sora, completos |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, arco, voz medida y dinámicas de los 5 (§8). **El investigador de voz agotó sus 2 tandas: 19 de 25 caras con fotograma y minuto.** Faltan **la alegría de Matt** (buscada en los eps. 43, 44, 51 y 54), **la tristeza y la vergüenza de Gabumon** (eps. 44 y 51; su alegría queda ⚠️, plano general) y **la rabia y la tristeza de Agumon** (la pelea del ep. 1 queda tapada por un rótulo del doblaje). Tai y Sora, completos. No se inventó ninguna: están marcadas «falta» con lo buscado (§8.6) |
 | 14 · Poses analizadas, 6-10 por personaje | ✅ | Tai 9, Agumon 6, Matt 8, Gabumon 6, Sora 6, con minuto o imagen y para qué sirve cada una (§15). Gabumon casi siempre en grupo ⚠️ |
 | 15 · Vestuario con hex | ⚠️ | hex medidos de Tai, Sora, Agumon y Gabumon; ropa por época; la ropa de Tai, Matt y Sora corregida mirando las hojas (§16, §28). **Matt sin hex medido** (sólo un fotograma de noche) |
 | 16 · Ciudades, paisajes y fondos de pantalla | ⚠️ | 13 sitios con hora y luz, la Isla File entera (§17). **Sin fondo de pantalla apaisado en alta**: el de Wallhaven no es de Digimon; sólo pósters verticales |
