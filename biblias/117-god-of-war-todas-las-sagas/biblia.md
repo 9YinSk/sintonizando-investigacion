@@ -503,3 +503,291 @@ Uso y modificación libres, sin atribución obligatoria.
   vídeo no los trajo).
 
 ---
+
+## 6 · Tipografía: una letra para cada uso
+
+### Lo que usa el juego
+
+- **El logo** ha tenido **6 versiones** desde 2005 ✅
+  ([DesignYourWay](https://www.designyourway.net/blog/god-of-war-logo/),
+  [MadeGoodDesigns](https://madegooddesigns.com/god-of-war-ragnarok-font/)):
+  la de PS2 (2005-2007), serif agresiva y texturizada, rojo sangre sobre
+  negro; la de **2018**, serif propia con remates angulares afilados y
+  tono contenido; *Ragnarök* repite esa familia con el subtítulo dentro.
+  Es **rotulación a mano**, no hay archivo de fuente público ✅.
+- La **Ω (omega)** del logo es la marca de Kratos: el final del reinado
+  de los dioses griegos ✅. En 2018 se ve entre «GOD» y «WAR» (visto en
+  las capturas de Steam).
+- En el logo de 2018 hay **runas del Futhark Antiguo** escondidas
+  (Mannaz, Ingwaz, Gebo, Sowilo, Hagalaz) ⚠️ análisis de fans
+  ([Gameffine](https://www.gameffine.com/new-god-of-war-logo-explained-is-it-hiding-something/)).
+- Colores de marca que cita un blog: `#8B0000` `#C0392B` `#0A0A0A`
+  `#B8860B` ⚠️ sin medir.
+- **La interfaz de *Ragnarök* usa sólo dos letras** ✅ (Zach Bohn, Santa
+  Monica Studio, [GDC 2023](https://www.gdcvault.com/play/1029143/-God-of-War-Ragnarok),
+  resumida en [80.lv](https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface)):
+  **Berserker** para títulos y nombres, **Gill Sans WGL** para el cuerpo y
+  los subtítulos. [Typography.Guru](https://typography.guru/forums/topic/1688-looking-for-god-of-war-2018-caption-font/)
+  ya lo había adivinado para 2018 y
+  [para Ragnarök](https://typography.guru/forums/topic/138664-i-need-help-i-want-to-identify-the-source-of-the-god-of-war-ragnarok-subtitle/).
+- **Berserker no es pública**: la hizo el estudio. Las copias «gratis»
+  que circulan son de origen dudoso; no se descargaron ⚠️.
+- **Gill Sans WGL** es de Monotype (de pago). «WGL» cubre acentos, ñ, ¿ y
+  ¡ por diseño, pero no se pudo abrir el archivo ⚠️.
+- La fuente de dafont «**God Of War**» (`godofwar.font`, 2010, gratis)
+  es de fan, imita el rótulo de PS2. **Comprobada con fontTools: NO trae
+  tildes, NO trae ñ, NO trae ¿; sí trae ¡.** Sólo 94 glifos. Sólo para un
+  título corto sin acentos ✅.
+
+### Una letra para cada uso (letras libres)
+
+| Uso | Qué hace el juego | Letra libre | ¿Tildes, ñ, ¿ ¡? |
+|---|---|---|---|
+| **Logo o título** | Rotulación propia, serif angular | **Cinzel** (Google Fonts, OFL) o **MedievalSharp** (OFL) si se quiere más tallada a mano ⚠️ aproximación | Según la parte, sí ⚠️ (no comprobado con fontTools) |
+| **Nombre de quien habla**, encabezados de menú | Berserker | **Cinzel** en mayúsculas ⚠️ | Igual ⚠️ |
+| **Frase dicha (el «globo normal»)** | Subtítulo en Gill Sans WGL, sin caja | **[Cabin](https://fonts.google.com/specimen/Cabin)** (OFL, 84 % parecida a Gill Sans) | ✅ **Comprobado con fontTools**: á é í ó ú ñ Ñ ¿ ¡ ü Á É |
+| **Grito** | No existe: el juego no rotula gritos; el grito se oye | Cabin en negrita, sin signos de más ⚠️ propuesta | ✅ |
+| **Pensamiento** | No existe caja de pensamiento; se piensa en voz alta o se escribe en el Codex | La letra del Codex: lápiz a mano ⚠️ propuesta | según la letra |
+| **Onomatopeya** | No se rotulan; son sonido (§11) | No usar ⚠️ | — |
+| **Cartel del mundo nórdico** (runas de puertas, armas, reinos) | Runas del Futhark Antiguo reales | **[Noto Sans Runic](https://fonts.google.com/noto/specimen/Noto+Sans+Runic)** (OFL): bloque rúnico Unicode completo ✅ | No aplica: son runas de verdad, no letras latinas |
+| **Cartel del mundo griego** (inscripciones) | Alfabeto griego | **[GFS Didot](https://fonts.google.com/specimen/GFS+Didot)** (OFL, griego antiguo con acentos) ✅ | Latín no comprobado ⚠️ |
+| **Cartela de la saga griega** («THREE WEEKS EARLIER», 2005) | Serif en mayúsculas, azul plateado sobre negro (hoja `fondos_01.jpg` #489) | **Cinzel** ⚠️ aproximación, letra original sin identificar | ⚠️ |
+| **Interfaz de juego** (menús, HUD) | Berserker + Gill Sans WGL | Cinzel + Cabin | Cabin ✅ |
+| **Subtítulos y créditos** | Gill Sans WGL | **Cabin** | ✅ |
+
+**Qué no hacer**: la fuente de dafont para textos con tildes; runas
+inventadas «que parecen nórdicas»; letras latinas disfrazadas de runas.
+
+---
+
+## 7 · Cómo hablan en pantalla: el cuadro de diálogo
+
+**God of War no tiene manga.** Su «cuadro de diálogo» es la propia
+imagen del juego: subtítulos, cartelas y el cuaderno de Atreus. En
+ninguno hay burbuja blanca.
+
+### En el juego nórdico (2018 y *Ragnarök*)
+
+- **Subtítulo flotante, sin caja** ✅ (Zach Bohn, GDC 2023, vía
+  [80.lv](https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface)):
+  texto abajo, al centro o a la izquierda, sin panel ni recuadro. El
+  nombre de quien habla en **Berserker**, la frase en **Gill Sans WGL**.
+  Encaja con la cámara sin cortes: nada tapa la imagen.
+- **Un solo aviso a la vez**: un gestor de colas deja «only allow for one
+  message at a time» ✅ (misma fuente).
+- Los subtítulos completos dicen **quién habla** y los **sonidos**; la
+  letra se puede agrandar hasta XX-Large ✅.
+- **Modo Inmersivo** (2018): oculta todo el HUD con el touchpad; el
+  estudio quería que la interfaz «desapareciera»
+  ([Variety](https://variety.com/2018/gaming/news/god-of-war-hud-1202750307/)) ⚠️
+  sólo el resumen.
+- **El Codex, el diario de Atreus** ✅ ([wiki: Codex](https://godofwar.fandom.com/wiki/Codex)):
+  - Atreus **escribe y dibuja** el bestiario y la historia de lo que ven;
+    se rellena solo al avanzar.
+  - Cada entrada lleva **bocetos a lápiz «de Atreus»**, no arte pulido.
+  - Una página enseña el **alfabeto rúnico** que Atreus aprende con
+    Mimir: [«Runes shown in Atreus' journal», 1370×1468](https://static.wikia.nocookie.net/godofwar/images/5/53/Runes_shown_in_Atreus%27_journal.png/revision/latest?cb=20230204194657).
+  - La tapa: **cuero con escamas cosidas, correa y una mano amarilla
+    pintada** ([900×1100](https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410);
+    [concept, 1100×930](https://static.wikia.nocookie.net/godofwar/images/5/58/Gow-atreus-journal-concept.jpeg/revision/latest?cb=20221111102530)).
+    La misma mano amarilla está pintada en el árbol de la captura de
+    Steam de 2018 (visto por el redactor).
+- **Mimir narra**: buena parte del mundo se cuenta hablando (sus
+  «Cuentos de Mímir») mientras se camina o se rema ⚠️ de memoria en la
+  parte de texto.
+- **No hay burbuja de pensamiento**: lo que piensan se dice en voz alta o
+  queda en el Codex ⚠️ (ausencia en todas las fuentes de interfaz).
+
+### En la saga griega
+
+- **Cartela de texto**: «THREE WEEKS EARLIER / THE AEGEAN SEA» con una
+  línea pequeña debajo («Kratos had once been a champion of the gods»):
+  serif en mayúsculas, azul plateado sobre negro, centrada (hoja
+  `fondos_01.jpg` #489, visto por el redactor en miniatura) ⚠️ sin medir.
+- **Subtítulo blanco sobre la escena**, abajo (hoja `fondos_01.jpg`
+  #496) ⚠️ miniatura.
+- **Narradora**: la apertura de *III* es una voz en off sobre imágenes
+  («Before the age of…», [0:00](https://archive.org/details/LP_God_of_War_3?t=0)) ✅.
+
+### En el cómic oficial (Dark Horse, 2018-2019)
+
+- 4 números, guion de Chris Roberson, dibujo de Tony Parker, color de Dan
+  Jackson ✅ ([Dark Horse Digital](https://digital.darkhorse.com/series/897/god-of-war),
+  [wiki](https://godofwar.fandom.com/wiki/God_of_War_(Dark_Horse_Comics))).
+- Globo americano normal, pero cuando habla un nórdico **el globo va en
+  runas de verdad**, que corresponden letra a letra con lo que traduce
+  Atreus ([Trophy Unlocked](https://trophyunlocked.blogspot.com/2024/03/god-of-war-dark-horse-comic.html))
+  ⚠️ una reseña, sin páginas vistas.
+
+### Qué cuadro usar en la lámina
+
+1. **Subtítulo flotante del juego** (para cualquier lámina nórdica):
+   abajo, sin caja; **nombre en Cinzel mayúsculas**, en un color; **frase
+   en Cabin** blanca, con una sombra suave para leerse sobre la niebla.
+   Una sola frase a la vez, como en el juego.
+2. **Página del Codex** (para explicar reglas o listas): papel viejo,
+   texto a lápiz, bocetos al margen y runas de Noto Sans Runic como
+   adorno. Es un objeto real (§27, concepto A).
+3. **Cartela griega** (para una lámina de la saga vieja): fondo negro,
+   Cinzel mayúsculas azul plateado, una línea pequeña debajo (§27,
+   concepto B).
+
+**Qué NO hacer**: burbuja blanca con cola; globo de cómic con letras
+latinas para un nórdico que habla en su idioma; el Codex como una ficha
+fría de base de datos; varios mensajes a la vez.
+
+---
+
+## 8 · Los personajes: carácter, voz, cara en cada emoción y dinámicas
+
+La voz se midió con `voz.py` sobre las muestras latinas de Doblaje Wiki
+(registro en Hz, expresividad en semitonos, velocidad en palabras por
+segundo). Las caras, en fotogramas con minuto (§15 y parte de voz).
+
+### Kratos · el protagonista (y el más querido)
+
+- **Carácter** ✅ ([wiki: Kratos](https://godofwar.fandom.com/wiki/Kratos#Personality)):
+  en Grecia, un guerrero destructivo, cruel y obsesionado con la
+  venganza, que convierte su culpa en ira y culpa a otros. En el Norte,
+  más sabio, pero todavía sin aceptar del todo lo que hizo. Por sus
+  recuerdos es **estoico, cortante y contenido**; en combate, brutalmente
+  ruidoso. Cuando habla, **formal, culto y elocuente**.
+- **Historia**: engañado por Ares, mata a su esposa y a su hija; se
+  venga de todo el Olimpo; huye al Norte, se casa con Faye, tiene a
+  Atreus (§26).
+- **Qué transmite**: una amenaza contenida que puede desbordarse en
+  cualquier momento. En el Norte, **un padre que no sabe demostrar
+  cariño y lo intenta igual**. Cómo se siente verlo: respeto y un nudo en
+  la garganta.
+- **Miedo**: repetir su violencia con su hijo (lo que le echa en cara
+  Thor, §10). **Cómo se ve a sí mismo**: un monstruo que no merece la paz
+  (§21).
+- **Cómo habla** ✅ (medido): **grave, 83-89 Hz**, muy expresivo en
+  semitonos (18-26) pero **sin subir el volumen**: intensidad bajando el
+  tono y frenando. Frases cortas. Muletilla hacia Atreus: **«boy»,
+  «chico»**, seco. En 2018 corta (2,38 palabras/s); en *Ragnarök* más
+  cálido y fluido (3,01 palabras/s), ya habla de sentimientos.
+- **Cómo se ríe**: casi nunca. Según la wiki sólo sonrió al encontrar a
+  su hija Calíope en el Inframundo ⚠️.
+- **Cómo se enfada**: no abre la boca ni grita; **se cierra**: cejas
+  bajas, mandíbula tensa, pintura de guerra roja
+  ([tráiler de Ragnarök, 1:57](https://www.dailymotion.com/video/x8do3jy?t=117)) ⚠️ un fotograma.
+- **Cómo saluda a quien respeta**: **apretón de antebrazo**, mirada fija,
+  sin sonreír ([2:36](https://www.dailymotion.com/video/x8do3jy?t=156)) ⚠️.
+- **Cómo explica**: se agacha a la altura de Atreus, mano firme en su
+  hombro, cara a cara ([4:00](https://www.dailymotion.com/video/x92n352?t=240)) ✅.
+- **Lenguaje corporal**: quieto, pesado, casi sin gestos de manos; se
+  pone **entre su hijo y la amenaza**
+  ([1:36](https://www.dailymotion.com/video/x8kowmz?t=96)).
+- **Altura**: 7 ft 8 in en Grecia (la wiki dice «unos 2 metros»; la
+  parte de voz, 2,34 m) y **1,94 m en el Norte**, ajustado a Christopher
+  Judge para la captura de movimiento ⚠️ una fuente. 110 kg.
+
+### Atreus (Loki) · el hijo
+
+- **Carácter** ✅ ([wiki: Atreus](https://godofwar.fandom.com/wiki/Atreus#Personality)):
+  niño **feliz, curioso y amable**; cree que hay que ayudar a vivos y
+  muertos. Le encanta la mitología nórdica que le enseñan Mimir y Freya.
+  Su madre le enseñó **idiomas y caza**. Duda antes de matar, pero
+  **quiere demostrarle a su padre que puede solo**: se siente rechazado.
+  **No le tiene miedo a Kratos** y le lleva la contraria cuando hace
+  falta.
+- **Arco**: de niño frágil y enfermo a **Loki**, con poder real y
+  peligroso (*Ragnarök*) ✅.
+- **Qué transmite**: vulnerabilidad que se vuelve peligro; el mismo don
+  de lenguas de su padre, sin su freno.
+- **Cómo habla** ✅ (2018, medido): **agudo, 273 Hz**, casi **monótono**
+  (4 semitonos) y **muy rápido** (4,02 palabras/s): habla atropellado,
+  como quien llena el silencio de su padre. En *Ragnarök* cambia de
+  actor porque ya suena adolescente (§10).
+
+### Mimir · el secundario que lo explica todo
+
+- **Carácter** ✅ ([wiki: Mimir](https://godofwar.fandom.com/wiki/Mimir#Personality)):
+  educado, amable, **ingenioso y a veces sarcástico**. Decapitado, le
+  saca partido («mejor que estar preso»). Sabe muchísimo de dioses,
+  monstruos y los Nueve Reinos y se lo cuenta a Atreus. **Maestro de la
+  diplomacia**: sabe cuándo hablar, callar o llevar la contraria, incluso
+  con Kratos.
+- **Cómo habla** ✅: grave (104 Hz) pero **expresivo** (13 semitonos) y
+  **rápido** (3,24 palabras/s): ritmo de cuentacuentos que acelera cuando
+  llega al dato curioso. Su presentación en latino: «Me llaman Mimir, el
+  hombre más listo que existe» (§10).
+- **Es Puck**: *Ragnarök* confirma que Mimir es el duende del folclore;
+  para aguantar los cristales del Bifröst en los ojos bebió dieciséis
+  copas de aguamiel ✅
+  ([TheGamer](https://www.thegamer.com/god-of-war-mimir-trivia/),
+  [ScreenRant](https://screenrant.com/god-war-ragnarok-mimir-puck-goodfellow-origin/)).
+
+### Freya · la madre que protege de más
+
+- **Carácter** ✅ ([wiki: Freya](https://godofwar.fandom.com/wiki/Freya#Personality)):
+  al principio **amable, hospitalaria, maternal** con Atreus (lo cura).
+  Regaña a Kratos por esconderle su pasado a su hijo. Se casó con Odín
+  para salvar a su pueblo; lo perdió todo y quedó desterrada en Midgard.
+  Se volvió **paranoica y sobreprotectora** con su hijo Baldur: su hechizo
+  de invulnerabilidad acaba matándolo.
+- **Cómo habla** ✅: registro medio (178 Hz), expresiva sin exagerar
+  (8,7 semitonos), velocidad normal. **Habla como maestra**: párrafos
+  largos y metáforas («Nacimiento, crecimiento, muerte, renacimiento»).
+
+### Baldur · «El Forastero»
+
+- **Carácter** ✅ ([wiki: Baldur](https://godofwar.fandom.com/wiki/Baldur#Personality)):
+  contenido pero despiadado. Años sin sentir nada (la maldición) le
+  dejaron **arrogancia, odio y autodesprecio**. Resentido con su madre.
+- **Cómo habla** ✅: 204 Hz, **el más expresivo medido** (21,9
+  semitonos) pero **lento** (1,72 palabras/s): cada frase saboreada, como
+  quien busca sentir algo al pelear. Frase de la wiki: «Esperaba que tú
+  me hicieras sentir algo. Pero no puedes» ⚠️ sin clip latino.
+
+### Brok y Sindri · los herreros enanos
+
+- Hermanos que **dejaron de hablarse años** (trama de 2018); cada uno
+  tiene su taller. Sindri acaba viviendo cerca de Kratos y Atreus. Beben
+  y **hablan sin filtro**, con groserías y modismos en el doblaje latino
+  (§10). Brok muere en *Ragnarök* (§22) ✅ trama; ⚠️ detalle de una fuente.
+- En la hoja `vestuario_01.jpg` #392, **Brok en su tienda**: piel gris
+  azulada, luz ámbar de fragua (visto por el redactor en miniatura ⚠️).
+
+### Otros
+
+- **Thor** (*Ragnarök*): voz media (156 Hz), muy expresiva; su frase
+  resume el miedo de Kratos: «Eres un destructor, como yo» (§10) ✅.
+- **Odín**: se disfraza de Týr para infiltrarse (§22) ⚠️.
+- **Zeus y Atenea** (saga griega): Zeus, padre de Kratos, lo traiciona;
+  Atenea lo salva en el acantilado y lo hace dios (§2, §26).
+
+### Su cara en cada emoción (fotograma y minuto)
+
+| Emoción | Kratos | Atreus |
+|---|---|---|
+| Alegría o calma | Fogata con Atreus y Mimir, comiendo ([2:24](https://www.dailymotion.com/video/x8qej41?t=144)) ⚠️ calma, no alegría | La misma fogata, relajado ([2:24](https://www.dailymotion.com/video/x8qej41?t=144)) ⚠️ |
+| Rabia | Pintura roja, cejas bajas, boca cerrada ([1:57](https://www.dailymotion.com/video/x8do3jy?t=117)) | ⚠️ no encontrada en vídeo (sólo en voz: «Crees que soy débil…») |
+| Tristeza o duelo | Solo en el acantilado, brazos caídos ([10:30](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=630)) | Junto al túmulo, mirando a otro lado ([1:00](https://www.dailymotion.com/video/x8kowmz?t=60)) |
+| Miedo | ⚠️ no encontrado | Conmocionado, boca entreabierta ([5:00](https://www.dailymotion.com/video/x92n352?t=300)) ⚠️ más sorpresa que miedo |
+| Vergüenza | ⚠️ no encontrada | ⚠️ no encontrada |
+| Dolor | Se aleja malherido ([8:00](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=480)) | Tendido en el suelo, de costado ([1:15](https://www.dailymotion.com/video/x8do3jy?t=75)) |
+| Concentración | Listo en la cubierta con las Espadas ([1:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90)) | Arco tenso, mandíbula apretada ([0:52](https://www.dailymotion.com/video/x8do3jy?t=52)) |
+| Tensión entre los dos | De perfil, muy cerca, sin sonreír ([1:02](https://www.dailymotion.com/video/x8do3jy?t=62)) | igual |
+
+Mimir, Freya y Baldur: **sin caras con minuto** ⚠️ (sólo voz).
+
+### Dinámicas (para láminas en grupo)
+
+- **Kratos y Atreus**: de mentor distante a padre; «boy» → «hijo» al
+  final de 2018. Discuten de perfil, muy cerca, sin gestos (arriba).
+- **Kratos y Mimir**: Mimir es **el único que lo hace hablar sin
+  enfadarlo** (wiki de Mimir) ✅. Lo anima a abrirse sobre su pasado.
+- **Mimir y Atreus**: maestro y alumno: runas, historias, dioses.
+- **Freya y Kratos**: ella se ve reflejada en él («quizá sólo me caes
+  bien», bromea); lo regaña por callarse.
+- **Freya y Baldur**: la madre que protege de más y el hijo que la odia
+  por eso.
+- **Brok y Sindri**: hermanos que no se hablan y luego trabajan juntos;
+  el alivio cómico.
+- **Thor y Kratos**: dos destructores que se miran al espejo.
+- **Quién hace reír a quién**: Mimir y los enanos alivian el tono; el
+  fandom dice que sin Mimir el viaje «sería aburrido» (§14).
+
+---
