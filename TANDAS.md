@@ -317,7 +317,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 > Haz la tanda S31 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/121-tomb-raider.md`, `encargos/122-little-nightmares.md`, `encargos/123-reanimal.md`, `encargos/124-no-man-s-sky.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 121-tomb-raider
+- [x] 121-tomb-raider
 - [ ] 122-little-nightmares
 - [ ] 123-reanimal
 - [ ] 124-no-man-s-sky
