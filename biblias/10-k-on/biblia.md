@@ -1487,6 +1487,425 @@ En arte oficial (hojas, §3.0), sin minuto:
   el mejor arte oficial nuevo, pero no hay copia grande ⚠️.
 
 ---
+## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+> [!tip] En una línea
+> K-On! **no** es cel-shading duro de dos tonos: es **sombra degradada,
+> línea fina marrón cálida (nunca negra)** y luz de ventana suave. Se
+> replica con luces suaves y contorno gris cálido en Blender, y pincel de
+> tinta con opacidad y degradados suaves en Photoshop.
+
+### A.1 · El manga (kakifly): trazo sencillo a propósito
+
+- Línea **fina y uniforme**, casi sin variar de grosor; **casi sin
+  tramas**, salvo en objetos pequeños ✅ (visto en dos páginas «bonus» y en
+  las del cap. 2, hoja 20 #937-939).
+- Las **portadas de capítulo** sí llevan fondo de puntos en degradado
+  ✅ ([tomo 1, cap. 1](https://static.wikia.nocookie.net/k-on/images/6/6a/K-ON%21_Volume_1_Chapter_1_Cover.png),
+  904×640: Yui con su Les Paul y su amplificador).
+- kakifly dibuja las guitarras de las solapas **con su propia colección**,
+  y es **zurdo**: por eso Mio es zurda ✅
+  ([Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8D%E3%81%B5%E3%82%89%E3%81%84),
+  [K-ON! Wiki](https://k-on.fandom.com/wiki/Kakifly)).
+
+### A.2 · El anime (Kyoto Animation): quién y cómo
+
+- **Naoko Yamada**, directora a los 24 años; KyoAni tiene **animadores
+  en plantilla**, no por encargo, y eso deja cuidar cada plano ✅
+  ([Otakira](https://otakira.com/en/blog/naoko-yamada-silent-voice-director/)).
+- Su firma: «encuadrar de la cintura para abajo, **aislar las manos sobre
+  el instrumento**, usar sonido ambiente en vez de diálogo en los momentos
+  emotivos» ✅ (Otakira, más
+  [Medium](https://medium.com/@chowwern/naoko-yamada-legs-as-a-language-e2cfc9456112)
+  y [AV Club](https://www.avclub.com/naoko-yamada-reiko-yoshida-kensuke-ushio-interview-anime-collaboration):
+  tres fuentes).
+- Diseño de personajes **Yukiko Horiguchi**; dirección de arte **Seiki
+  Tamura** (también *Lucky Star* y *Haruhi*) ✅
+  ([TheMovieDB](https://themoviedb.org/person/144663-seiki-tamura));
+  color **Akiyo Takeda**; fotografía **Rin Yamamoto** (AniList).
+- El resultado, según la crítica: «luminoso pero melancólico: luz natural
+  cálida por las ventanas, interiores con cosas, línea suave y precisa…
+  como una acuarela en movimiento» ✅
+  ([Sakuga Blog](https://blog.sakugabooru.com/2018/08/25/the-evolution-of-kyoto-animation-a-unique-anime-studio-and-its-consistent-vision/)).
+- ⚠️ **Qué programas usó el estudio**: no lo encontré en entrevistas.
+
+### A.3 · Lo medido con `estilo.py`
+
+| Imagen | Sombreado | Color de línea | Saturación |
+|---|---|---|---|
+| Cartel de reclutamiento (T1 ep. 1) | degradado | `#988F89` | 9 % |
+| Caja de texto del juego | degradado, pintado | `#8A665B` | 27 % |
+| Pantalla de ritmo del juego | mixto | `#5F5849` | 12 % |
+| Menú de canciones del juego | mixto | `#4D5C42` | 57 % |
+| Cartel «Peace! in Budokan» (T1 ep. 6) | degradado, pintado | `#615527` | 63 % |
+
+Conclusión: **la línea nunca es negra** y la sombra **nunca es plana
+pura**. El color sólo se satura en fantasía y conciertos.
+
+### A.4 · Cómo replicarlo en Photoshop
+
+- **Línea**: pincel de tinta redondo, opacidad 85-90 %, color base
+  `#4A3E38`, en capa Multiplicar. Nunca `#000000`.
+- **Sombra**: aerógrafo suave o degradado corto en capa Multiplicar al
+  40-55 %, tono cálido (marrón melocotón en interiores).
+- **Fondo «acuarela»**: textura de papel (§B) en Multiplicar al 15-20 %
+  y un desenfoque suave sólo en el borde de la luz de ventana (brillo
+  suave, no HDR).
+- **Tramas** para portadas estilo manga: Filtro › Pixelizar › Semitono de
+  color, o un pack de tramas (§B).
+- **Cartel de fantasía**: saturación alta y **doble contorno**.
+
+### A.5 · Cómo replicarlo en Blender
+
+- **Sombreado**: *Shader to RGB* › *Color Ramp* en **interpolación
+  suave** (no constante), 3-4 paradas cálidas. El cel-shading de dos
+  bandas duras es de series de acción.
+- **Contorno**: Solidify o Freestyle con **material gris marrón
+  `#4A3E38`**, no negro. Es la diferencia más notoria con un shader
+  «anime» genérico.
+- **Luz**: ventana cálida (3200-4000 K), luz de área grande y sombra
+  suave; *bloom* suave en Eevee. Nada de contraluz extremo.
+- **Modelos y *rigs***: Yui con *rig* (CC BY-NC-SA, sólo referencia) y
+  los instrumentos y la vajilla CC BY (§4).
+
+### A.6 · Encuadres por emoción
+
+- **Día a día**: cámara a la altura de los ojos o más baja; **manos sobre
+  el instrumento**; pies antes que caras (ep. 1: Mio camina recta, Ritsu
+  va saltando).
+- **Presentar**: piernas y pies primero, la cara después.
+- **Vergüenza** (Mio): plano cerrado de las manos tapando la cara o
+  escribiendo.
+- **Celebrar**: foto de grupo frontal con ✌️ (T1 ep. 1, 20:34, visto).
+- **Concierto**: cámara más móvil, luces de escenario, contraste alto; es
+  lo único saturado de la serie.
+
+---
+
+
+## B · Texturas 2D (punto 19)
+
+Junto con el 3D (§4) y las texturas reales de madera (§5.5), para que no
+falte ninguna capa.
+
+- **Tramas y línea del manga real**, miradas: hoja 20 #937-939 (cap. 2) y
+  las páginas «bonus»: **casi sin trama**; sólo puntos en portadas y en
+  objetos pequeños ✅.
+- **Grano de papel** (CC0, licencia leída en la API de ambientCG) ✅:
+  [Paper001](https://ambientcg.com/view?id=Paper001),
+  [Paper003](https://ambientcg.com/view?id=Paper003),
+  [Paper005](https://ambientcg.com/view?id=Paper005),
+  [Paper006](https://ambientcg.com/view?id=Paper006). Sin crédito
+  obligatorio.
+- **Pincelada de tinta** (CC0, confirmada por la API de Openverse) ✅:
+  [«Small abstract 02»](https://upload.wikimedia.org/wikipedia/commons/d/da/%27Small_abstract_02.%27_-_gouache_and_ink_sketch_on_paper_with_black_brush_strokes_and_ink_texture%2C_created_by_Dutch_artist_Fons_Heijnsbroek_in_2004.png)
+  (5017×4084) y «Small abstract 01» (4223×3482), de Fons Heijnsbroek en
+  Wikimedia Commons.
+- **Tramas de screentone** gratis, **licencia sin aclarar** ⚠️:
+  [Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037)
+  (Clip Studio Assets, remite a sus términos generales) y
+  [FREE Basic Manga Pack](https://www.deviantart.com/theawesomeaki-kun/art/FREE-Basic-Manga-Pack-Screentone-Application-Tut-1263046438)
+  (DeviantArt, 27 tramas). Leer sus términos antes de publicar.
+- **Cuadros de la falda**: se generan desde cero, sin problema de licencia
+  ✅: [ProDesigner Tartan Generator](https://www.prodesigner.app/tools/tartan/)
+  (PNG o SVG sin marca de agua) y [Pattern Cooler](https://patterncooler.com/tartan).
+- **Emblemas y logos**: el de Ho-kago Tea Time (una taza con notas) y el
+  de Death Devil (calavera) tienen dueño. Hay un vector de fan del de HTT
+  (§4.3) para ver la forma, no para calcar. **No encontré** un icono libre
+  de «taza + nota» ya hecho ⚠️: hay que juntar dos iconos libres.
+- **Rotulador y papel del club**: el cartel de reclutamiento (§7.1) da la
+  referencia de trazo; se imita con Yusei Magic sobre Paper003.
+- **Pegatina de casete rosa** del separador del ep. 9 (11:21): referencia
+  de gráfico, sin archivo libre ⚠️.
+
+---
+
+
+## C · Gustos y detalles de cada personaje (punto 20)
+
+Altura, cumpleaños y edad: **[AniList](https://anilist.co/anime/5680) y la
+K-ON! Wiki coinciden** ✅ ([Yui](https://k-on.fandom.com/wiki/Yui_Hirasawa),
+[Mio](https://k-on.fandom.com/wiki/Mio_Akiyama),
+[Ritsu](https://k-on.fandom.com/wiki/Ritsu_Tainaka),
+[Mugi](https://k-on.fandom.com/wiki/Tsumugi_Kotobuki),
+[Azusa](https://k-on.fandom.com/wiki/Azusa_Nakano),
+[Sawako](https://k-on.fandom.com/wiki/Sawako_Yamanaka)). El peso y casi
+todos los grupos sanguíneos, sólo la wiki ⚠️. No hay *databook* citado.
+
+| | Yui | Mio | Ritsu | Mugi | Azusa | Sawako |
+|---|---|---|---|---|---|---|
+| Altura | 156 cm ✅ | 160 cm ✅ | 154 cm ✅ | 157 cm ✅ | 150 cm ✅ | 165 cm ✅ |
+| Cumpleaños | 27 nov ✅ | 15 ene ✅ | 21 ago ✅ | 2 jul ✅ | 11 nov ✅ | 31 ene ✅ |
+| Peso | 50 kg ⚠️ | 54 kg ⚠️ | 48 kg ⚠️ | 53 kg ⚠️ | 46 kg ⚠️ | 56 kg ⚠️ |
+| Sangre | O ✅ | A ✅ | B ⚠️ | O ⚠️ | AB ⚠️ | B ⚠️ |
+| Siempre lleva | **Gitah**, a la que habla como a una persona | **Elizabeth** y el cuaderno de letras | sus baquetas | el juego de té y algo dulce para repartir | **Muttan** | la guitarra de su pasado, escondida |
+| Comida | «lo que sea, si es dulce» ✅ | *gâteau au chocolat* ✅ | mucho arroz, sin plato favorito ⚠️ | dulces, para animar al club ⚠️ | pastel, pero **lo esconde** para no parecer tierna ⚠️ | pastel, aunque acabe de regañar ✅ |
+| Aficiones y manías | pone nombre a los objetos (Gitah, Elizabeth, Muttan, «Bukuro-chan» a unos guantes); no resiste un perro mono, sobre todo pugs; alérgica al aire acondicionado; se marea en coche | fotos con una Lomo LC-A; escribe tres veces el kanji de «persona» en la palma y se lo «come» si está nerviosa; jazz y música tranquila | fan de The Who y de **Keith Moon**; la más malhablada; toca la batería porque odia los movimientos finos de dedos | le gusta el *yuri*; estudió en casa de niña; habla perfecto dialecto de Kansai | sus padres tocan jazz; odia que la traten como a una niña o una gata, aunque se porta así sin querer | fue cantante y guitarrista de **Death Devil**, banda de speed metal, y lo oculta |
+| Cómo se ve | no se lo pregunta: vive el momento | se cree la adulta seria, y es la más infantil ✅ | la líder natural, **autoproclamada** | quiere vivir cosas «normales» con sus amigas; no presume de dinero | la única sensata, y a mucha honra | la profe dulce; que nadie sepa su pasado |
+
+Fuente de la fila de manías y de «cómo se ve»: las páginas de trivia de
+la wiki (leídas enteras) ⚠️ una fuente, salvo donde dice ✅. Sangre de
+Yui y Mio, con segunda fuente en
+[Anime Characters Database](https://www.animecharactersdatabase.com/characters.php?id=17064).
+
+- **Ui Hirasawa**: 154 cm, cumple el 22 de febrero, sangre O; lleva la
+  casa porque sus padres viajan ⚠️ (AniList).
+- **Nodoka Manabe**: 158 cm, cumple el 26 de diciembre, sangre A ⚠️
+  (AniList).
+
+---
+
+
+## D · Por qué la gente la ama (punto 21)
+
+### D.1 · Ventas y premios
+
+- **Más de 520 000 Blu-ray y DVD** (T1 y T2) a febrero de 2011: la cifra
+  más alta de un anime de TV hasta entonces, por encima de
+  *Bakemonogatari* ✅ ([ANN, 2011](https://www.animenewsnetwork.com/news/2011-02-22/k-on-is-1st-tv-anime-franchise-to-sell-500000+bds),
+  [ANN, 2010](https://www.animenewsnetwork.com/news/2010-09-21/k-on-tops-bakemonogatari-as-no.1-tv-anime-in-bd-sales)).
+- El **tomo 1** fue el **2.º Blu-ray más vendido de Japón** en su semana,
+  de cualquier tipo ✅ ([ANN](https://www.animenewsnetwork.com/news/2009-08-04/1st-k-on-volume-is-now-no.2-blu-ray-in-japan-so-far)).
+- La **película**: 226 000 copias en BD y DVD ✅
+  ([ANN](https://www.animenewsnetwork.com/news/2012-11-02/k-on-film-sells-226000-bd/dvd-copies-45000-in-rentals)).
+- **Anime Grand Prix 2009**: mejor serie, Yui mejor personaje, Aki
+  Toyosaki mejor actriz ✅ (§9).
+- Singles n.º 1 y n.º 2 de Oricon la misma semana ✅ (§11).
+
+### D.2 · Por qué conecta
+
+- «Codificó lo que hoy llamamos *moe*» y lanzó a **Naoko Yamada** ✅
+  ([Anime Herald](https://animeherald.com/2022/02/12/why-k-on-deserved-its-second-chance/)).
+- **Con quién se identifica el público**:
+  - **Yui**: «se apasiona por la guitarra para vencer la inseguridad de ir
+    a la deriva» (Anime Herald).
+  - **Azusa**: la menor, seria y sola; la serie no va de sueños cumplidos
+    sino de la vida real: «no todos están hechos para la cima» ✅
+    ([bateszi](https://bateszi.me/2013/04/11/all-good-dreamers-pass-this-way/)).
+- En Reddit, en 2025-2026, sigue siendo «mi anime favorito de siempre» ✅
+  ([hilo](https://reddit.com/r/anime/comments/1w6jgdr/today_i_confess_that_kon_is_my_favorite_anime_of/));
+  hay un vídeo-ensayo de 2026, [«Japan Was Never The Same After This
+  Anime»](https://reddit.com/r/anime/comments/1wi5gp6/japan_was_never_the_same_after_this_anime_video/),
+  y en el torneo de «Best Girl» del foro llega a la ronda de 128 ✅
+  ([hilo](https://reddit.com/r/anime/comments/1vct8ci/best_girl_if_ranime_had_any_taste_ro128_kon/)).
+  (Vía Arctic Shift; reddit.com da 403.)
+- **La peregrinación** a Toyosato: los fans toman té en la sala y
+  escriben en la pizarra ✅ (§5.1).
+
+### D.3 · La escena que hace llorar
+
+**La graduación, T2 ep. 24.** Las cuatro mayores se gradúan y **Azusa se
+queda sola en el club**. Ellas le cantan **«Tenshi ni Fureta yo!»** (*He
+tocado a un ángel*) como regalo ✅ ([Anime Herald](https://animeherald.com/2022/02/12/why-k-on-deserved-its-second-chance/):
+«a perfect moment of closure»; [Daily K-ON! en X](https://x.com/DailyKEION/status/1816279105337282647)).
+
+- **Minuto**: Azusa, «estoy bien, seguiré con el club… está Ton», **17:43**;
+  Mio pide que la escuche, **18:20**; la canción, **18:44** ✅
+  (subtítulos).
+- **Por qué duele**: es la primera vez que la serie dice que el club, y la
+  adolescencia, se acaban. Mucha gente cuenta en Reddit que lloró sin ser
+  sentimental, sobre todo cerca de su propia graduación ✅.
+- **Música**: la propia canción, tocada por las cuatro.
+- ⚠️ **Cómo está dibujada** (encuadre, luz) y los **comentarios con más
+  votos**: no se vieron. La T2 no está en la copia de Internet Archive que
+  se miró.
+
+### D.4 · Las que hacen reír o gritar
+
+- **Azu-nyan** (T1 ep. 9, 10:57-11:15, visto) ✅.
+- **Sawako regaña y se come el pastel** (T1 ep. 5, 14:19-14:37) ✅.
+- **«¡Amo el club de música!»** al final del primer festival (T1 ep. 12,
+  21:57) ✅.
+- ⚠️ Sin vídeos de reacción con minuto: YouTube no dejó.
+
+---
+
+
+## E · Fan dubs y comunidad hispana (punto 22)
+
+- **Lo más grande de la comunidad hispana es el doblaje perdido** (§10):
+  **ROCKERO ISRAEL-anime** le dedicó dos vídeos largos
+  ([reparto](https://www.youtube.com/watch?v=1vadpuqpMIU), 2825 vistas, y
+  [«toda la verdad»](https://www.youtube.com/watch?v=BH4oqr_m7Lk); unos 10
+  minutos y medio cada uno, julio de 2024; ⚠️ la parte de voz da 6171
+  vistas a uno de los dos sin decir a cuál) y al menos **7 TikToks**, uno por
+  personaje ([1](https://www.tiktok.com/@rockeroisrael.anime/video/7330431409305160965),
+  [2](https://www.tiktok.com/@rockeroisrael.anime/video/7389514905214340357)).
+  Habló con la actriz de Yui y con el fundador del estudio. Encaja con un
+  servidor de doblaje.
+- **Fandub** en español latino:
+  [«K-ON! fandub doblaje latino»](https://www.youtube.com/watch?v=scal1_PRGh8),
+  canal **NVEdelMIZTERIO**, 3-ago-2011, **728 vistas**, casero ✅ (ficha
+  bajada con yt-dlp).
+- **Cover cantado en español de «Fuwa Fuwa Time»**:
+  [canal **nani**](https://www.youtube.com/watch?v=XSiJjPNVOMg),
+  12-nov-2021, **1160 vistas** ✅. Hay más de los canales Lin Kaimane y
+  NeqqoVer ⚠️ (sólo por el título: YouTube bloqueó la ficha).
+- **Cover en español latino del ending** «Don't say "lazy"», de **Daniel
+  Sosa** en [SoundCloud](https://soundcloud.com/daniel-sosa-811799457/k-on-ending-tv-size-dont-say)
+  ⚠️ (no se pudo oír ni ver las escuchas).
+- **No encontré** un cover cantado en español de «Cagayake! GIRLS» (sólo
+  instrumentales y vídeos subtitulados), ni **parodias o memes hispanos
+  propios** de K-On! (se buscó «Azu-nyan», «Gitah» y «Mio» con «meme
+  español/latino»). La parodia conocida,
+  [*K-On! The Abridged Series*](https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/KOnTheAbridgedSeries),
+  es en inglés.
+- **Idea para el servidor**: un reto de doblaje con una escena del ep. 1
+  y el piloto de Elocuencia como referencia (§10.1).
+
+---
+
+
+## F · Colaboraciones, figuras y cosplay (punto 23)
+
+### F.1 · Colaboraciones con marcas (2010-2012)
+
+Todas ✅ en [ipfield.net](https://ipfield.net/tieup-summary/keion/), sitio
+japonés que resume las colaboraciones de anime:
+
+- **Zoff** (ópticas), 2012: 6 monturas diseñadas con el staff, una por
+  cada chica que lleva gafas en la serie.
+- **Denny's**, julio-septiembre de 2010: dos postres «After School Tea
+  Time».
+- **Shimamura / AVAIL** (ropa), noviembre de 2011: ropa de casa y medias
+  con las cinco.
+- **Keihan** (tren), agosto-diciembre de 2011: un tren decorado en la línea
+  Ishiyama-Sakamoto hasta el estreno de la película.
+- **Prefectura de Kioto**, septiembre-octubre de 2010: campaña del censo
+  con las cinco en carteles, radio y taxis.
+- **Lawson**, febrero de 2011: votación del sabor de «Karaage Kun».
+
+### F.2 · Juegos y cruces
+
+- **IDOLY PRIDE × K-On!** (28-abr a 14-may-2023): Yui y Azusa en el juego,
+  con gacha y un **cover de «Don't Say "Lazy"»** hecho para el evento ✅
+  ([Gamer](https://www.gamer.ne.jp/news/202304210076/),
+  [Dengeki Online](https://dengekionline.com/articles/182791/)). Arte nuevo
+  en la [galería oficial](https://idolypride.jp/gallery/tag/collabo/).
+- ***Kirara Fantasia***: kakifly las redibujó en versión fantasía (§13) ✅.
+- **Korg RK-100S «K-ON! Special»**, la keytar de Mugi, 300 unidades (§8) ✅.
+
+### F.3 · Tiendas y pop-ups recientes (2024-2026)
+
+De [collabo-cafe.com](https://collabo-cafe.com/events/category/k-on/) ✅:
+- **Kotobukiya Nihonbashi** (Osaka), 11-27 sep-2026: chapas, soportes
+  acrílicos y llaveros con **ilustraciones nuevas en chibi**.
+- **Kotobukiya Akihabara**, desde el 17-ago-2026: las chicas **de maid**
+  (el café del conejo de la T2).
+- **Cospa**, marzo de 2026: ropa con motivo británico (la película).
+- **CHILLfigg**, septiembre de 2026: figuras coleccionables.
+- Ilustración de grupo y reloj de 2024: §3.2.
+
+### F.4 · Figuras oficiales (referencia 3D de pose)
+
+- **figma** de Mio con su bajo (Max Factory / [Good Smile Company](https://www.goodsmile.com/en))
+  ✅: manos y caras intercambiables, muestran las poses que la industria
+  da por «icónicas» (de pie con el instrumento, sentada, saludando).
+- **POP UP PARADE L** de Yui y Mio (2025-2026) ✅: de pie con el
+  instrumento, mirando al frente. Buena base si el personaje va a Blender.
+- ⚠️ No hay fotos de las figuras con tamaño en las partes.
+
+### F.5 · Cosplay
+
+- **No encontré** un cosplay concreto con autor y convención para
+  citarlo ⚠️ (búsqueda «K-ON! cosplay Mio Akiyama bass costume»: sólo
+  tiendas). Las tiendas (HelloCosplay, FM-Anime, CosplayFancy) sirven para
+  ver **la tela y el volumen** del uniforme: plisado de la falda, corte
+  del blazer. Las réplicas licenciadas de MILESTONE (§16) son mejor
+  referencia.
+
+---
+
+
+## G · Obras parecidas y temas relacionados (punto 24)
+
+- **Recomendaciones de AniList** ✅ ([AniList](https://anilist.co/anime/5680)):
+  1.ª ***BOCCHI THE ROCK!*** (1196 votos), luego *Sound! Euphonium*, *A
+  Place Further Than the Universe*, *Laid-Back Camp*, *Tamako Market*,
+  *Lucky☆Star*, *Girls Band Cry*, *Love Live!*, *BanG Dream!*, *NEW GAME!*,
+  *Azumanga Daioh* y *Non Non Biyori*. Todo «chicas monas haciendo cosas
+  monas» e *iyashikei*.
+- **La inspiración del autor**: kakifly estuvo en el club de música
+  ligera de su universidad; su editor le ofreció serializar en *Manga
+  Time Kirara* y el foco fue «la amistad y el tiempo juntas» ✅
+  ([K-ON! Wiki](https://k-on.fandom.com/wiki/Kakifly),
+  [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8D%E3%81%B5%E3%82%89%E3%81%84)).
+- **Los apellidos vienen de la banda P-MODEL**, y cada una toca lo mismo
+  que su tocayo: Hirasawa (Susumu, guitarra), Akiyama (Katsuhiko, bajo),
+  Tainaka (Sadatoshi, batería), Kotobuki (Hikaru, teclado) ✅
+  ([ascii.jp](https://ascii.jp/elem/000/000/425/425222/),
+  [moto-neta](https://moto-neta.com/anime/keion-characte/),
+  [Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10197862055)).
+  En *K-On! Shuffle* los nombres salen de la banda **Skirt** ⚠️ (una
+  fuente, sin abrir).
+- **Yamada después**: *Tamako Market*, ***A Silent Voice*** (2016), *Liz
+  and the Blue Bird* (2018) y ***The Colors Within*** (2024, Science Saru),
+  con el mismo lenguaje de manos, pies y luz ✅
+  ([Otakira](https://otakira.com/en/blog/naoko-yamada-silent-voice-director/)).
+- **Para no repetir ideas en el servidor**: el encargo **97, Bocchi the
+  Rock!** (`encargos/97-bocchi-the-rock-bandas-y-bajones.md`) aún no tiene
+  biblia. Las dos son bandas de instituto: que K-On! se quede con **el té
+  y lo tranquilo** en #general, y Bocchi con **el *live house* y los
+  nervios**. La lámina de Bocchi con su caja ya gustó al dueño
+  (`servidor/reglas_del_dueno.md`): K-On! no debe repetir el objeto caja.
+
+---
+
+
+## H · El mundo, la historia y sus símbolos (punto 25)
+
+### H.1 · Las reglas del mundo, en cinco líneas
+
+1. Japón de hoy, sin magia: el instituto privado femenino **Sakuragaoka**
+   (私立桜が丘女子高等学校) ✅ ([K-ON! Wiki](https://k-on.fandom.com/wiki/Sakuragaoka_High_School)).
+2. La vida pasa por los **clubes**: si no llega a cuatro socias, el club
+   se disuelve. Así empieza todo (ep. 1, 「廃部!」).
+3. Casi sin conflicto, a propósito (*iyashikei*): exámenes, ensayar a
+   tiempo… o que prefieren **tomar té a ensayar**. No hay villanos.
+4. El tiempo pasa de verdad: tres cursos de instituto (T1, T2, película).
+5. El té y los dulces ordenan casi cada escena del club: la tetera es
+   casi un personaje.
+
+### H.2 · La historia por arcos
+
+- **Manga** (kakifly, *Manga Time Kirara*, mayo 2007 - octubre 2010, y
+  2011-2012): 4-koma de gags cortos, sin arcos marcados ✅; seguido por
+  ***K-On! College*** (Yui, Ritsu, Mugi y Mio en la universidad).
+- **T1** (13 episodios, TBS, 3-abr a 26-jun-2009): Yui se apunta sin
+  saber tocar, salvan el club, **primer festival** con «Fuwa Fuwa Time»
+  (ep. 6) ✅ ([K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_(Anime))).
+- **OVA «¡Live House!»** (20-ene-2010) ✅.
+- **T2 «K-On!!»** (26 episodios, 7-abr a 28-sep-2010): segundo y tercer
+  curso, Azusa ya en el grupo, la playa, otro festival, exámenes de
+  acceso, **«Tenshi ni Fureta yo!»** y la graduación ✅.
+- **OVA «Plan!»** (16-mar-2011): preparan el viaje.
+- **Película** (diciembre de 2011): el viaje de graduación a **Londres**,
+  cierre de todo ✅.
+
+### H.3 · Emblemas, objetos y palabras que un fan reconoce
+
+- **放課後ティータイム** (Houkago Tea Time, *el té de después de clase*):
+  nombre que puso **Sawako** porque pasan más tiempo tomando té que
+  ensayando ✅ ([imidas](https://imidas.jp/hotkeyword/detail/L-00-312-10-05-H009.html),
+  [Yahoo! Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10290035010)).
+- **軽音部** (*keionbu*, club de música ligera); 「けいおん!」 es la forma
+  corta y coloquial.
+- **Los instrumentos con nombre**: **Gitah** (Les Paul de Yui),
+  **Elizabeth** (Jazz Bass zurdo de Mio), **Muttan** (Mustang de Azusa) ✅
+  (§8). Batería Yamaha Hipgig y platillos Zildjian de Ritsu ⚠️; teclado
+  Korg de Mugi y su keytar ✅.
+- **La Gibson SG de 1960** que aparece en el armario del club (T2) y
+  venden por 500 000 yenes; la **Flying V** de Sawako ⚠️ (una fuente).
+- **Ton**, la tortuga de nariz de cerdo, desde la T2, ep. 2 ✅
+  ([K-ON! Wiki](https://k-on.fandom.com/wiki/Ton)).
+- **El cuaderno de letras de Mio**, **la pizarra** y **la tetera y las
+  tazas de Mugi** (§7).
+- **El logo de HTT** (taza con notas) y **Death Devil** (calavera) (§B).
+- **El chiste eterno**: nunca acaban de ensayar por culpa del té.
+
+---
+
+
 ## 18 · Guía para generar con IA (Firefly, Canva) — punto 17
 
 Sirve para bocetos de pose o de fondo, y para escribir textos en su voz.
@@ -1646,20 +2065,30 @@ A #demos», y el guiño «¡Pasa, que hay té!».
 ### Concepto A — «¡Hora del té!» La mesa del club (el objeto del plan, mejorado)
 
 - **Objeto y sitio:** la **mesa del club** en la sala del tercer piso, a
-  media tarde. En Blender: la mesa, el juego de té (Sketchfab, sección 4.2),
-  dos platos con pastel y, lo nuevo, **una carta del té de cartulina
-  doblada** escrita a rotulador por Mugi. La tinta sigue el doblez de la
-  cartulina. Detrás, **la pizarra** del club.
+  media tarde. En Blender: la mesa, el juego de té (Sketchfab, CC BY,
+  sección 4.2), dos platos con pastel ([Slice of cake](https://sketchfab.com/3d-models/slice-of-cake-1adc97c8421c4f6da647c77362796327),
+  CC BY) y, lo nuevo, **una carta del té de cartulina doblada** escrita a
+  rotulador por Mugi **como el cartel de reclutamiento del ep. 1** (rojo
+  para el título, verde para la pregunta, ♪ a los lados; §7.1). La tinta
+  sigue el doblez. Detrás, **la pizarra** del club; apoyada en la pared,
+  la Les Paul de Yui ([«Giita!!!»](https://sketchfab.com/3d-models/giita-87d99d809938482bb95d0f293550f778), CC BY).
+  Colores medidos: madera `#654436`, sombra `#372826`, mantel `#EADFC7`.
+  Referencia del conjunto: hoja 1 **#24** y el fotograma de T1 ep. 2,
+  5:32 (mesa llena de pasteles, §2.2).
 - **Personajes:**
   - **Mio**, la más querida, de pie junto a la mesa, **señalando la
-    carta** con cara de «esto no va aquí». Pose base: T1 ep. 2, 05:32
-    («¡el club no es una cafetería!», ⚠️ confirmar que es ella).
+    carta** con cara de «esto no va aquí». Cuerpo: hoja 2 **#74** (de pie,
+    recta, bajo colgado, zurda). ⚠️ No usar el fotograma de T1 ep. 2,
+    05:32 como pose: ahí Mio está sentada y quien habla es Ritsu (visto).
   - **Mugi**, sentada, **sirviendo el té**, sonrisa suave. Pose base: T1
-    ep. 1, 14:54.
+    ep. 1, 14:54 (subtítulo) y sus manos juntas de hoja 1 **#41**.
   - **Yui**, en primer plano a la derecha, con el tenedor en la boca.
-- **Cómo habla:** no hay globo. **Lo escrito está en la carta y en la
+  - Opcional, en una esquina: **Ton** en su pecera.
+- **Cómo habla:** no hay burbuja. **Lo escrito está en la carta y en la
   pizarra**, objetos de la serie. La única frase dicha, la de Mugi, va en
-  una **viñeta estrecha de 4-koma** con marco negro fino.
+  una **viñeta estrecha de 4-koma** con marco negro fino y **globo ovalado
+  alto de línea fina**, cortado por el borde (como el manga, hoja 20
+  #937-939).
 - **Dónde va cada texto:**
   - pizarra: **«¡general!»** en Mochiy Pop One, con una ♪ dibujada;
   - carta, arriba: «Menú de hoy: se habla de lo que sea» (Yusei Magic);
@@ -1669,7 +2098,9 @@ A #demos», y el guiño «¡Pasa, que hay té!».
 - **Para que no quede plano:** sol bajo por la ventana de la izquierda,
   sombras largas de las tazas sobre la mesa; **vapor** de la tetera;
   **taza y pastel desenfocados delante**, abajo a la izquierda; al fondo,
-  la pecera de **Ton** con reflejos de agua.
+  la pecera de **Ton** con reflejos de agua. Un guiño: la **cinta de
+  casete rosa** del separador del ep. 9 (11:21) como pegatina en la
+  carta.
 
 ### Concepto B — «Nuestro Budokan» El MC del festival
 
@@ -1678,9 +2109,10 @@ A #demos», y el guiño «¡Pasa, que hay té!».
   junto al pie de micro, escrita a rotulador. En Blender: el papel un poco
   curvado, la cinta americana y un monitor de escenario.
 - **Personajes:** **Yui** al micro, con Gitah colgada, **hablando al
-  público y señalando** (T1 ep. 12, 18:32-19:11; T2 ep. 20, 11:45). Detrás,
-  **Mio** con el bajo, zurda, sonrojada; Ritsu, Mugi y Azusa en sus
-  puestos.
+  público y señalando** (T1 ep. 12, 18:32-19:11; T2 ep. 20, 11:45). Cuerpo
+  de Yui con guitarra: hoja 2 **#76**. Detrás, **Mio** con el bajo, zurda
+  (hoja 2 #74), sonrojada; Ritsu, Mugi y Azusa en sus puestos (grupo con
+  instrumentos: hoja 2 #82).
 - **Cómo habla:** el MC es hablado; la información está **en la setlist**,
   que es como Yui guía al público. Letra: Yusei Magic, con números de
   canción.
@@ -1702,9 +2134,13 @@ A #demos», y el guiño «¡Pasa, que hay té!».
   clavados con chinchetas, con las esquinas levantadas.
 - **Personajes:** **Azusa**, la n.º 1 de las votaciones japonesas
   recientes, **clavando el cartel** muy seria. **Yui** la abraza por
-  detrás («¡Azu-nyan~!», el gesto que el fandom adora, T1 ep. 9, 11:09).
-- **Cómo habla:** los carteles son el cuadro. Azusa deja además **una
-  nota adhesiva** con su letra ordenada (Zen Maru Gothic).
+  detrás, mejilla con mejilla («¡Azu-nyan~!», el gesto que el fandom
+  adora, **visto** en T1 ep. 9, 10:57). Azusa con la gota de sudor de
+  11:09-11:15.
+- **Cómo habla:** los carteles son el cuadro, hechos **como el de
+  reclutamiento del ep. 1** (rotulador rojo y verde, ♪ dibujadas, una
+  guitarra a mano). Azusa deja además **una nota adhesiva** con su letra
+  ordenada (Zen Maru Gothic).
 - **Dónde va cada texto:**
   - cartel grande: **«¡general!»** y «Aquí se habla de lo que sea»;
   - cartel con flecha hacia arriba: «Micros, voces y técnica:
@@ -1712,8 +2148,9 @@ A #demos», y el guiño «¡Pasa, que hay té!».
   - cartel con flecha hacia el pasillo: «Tu voz grabada: #demos»;
   - nota de Azusa: «¡Pasa, que hay té!».
 - **Para que no quede plano:** la **tortuga de bronce de la barandilla
-  en primer plano**, desenfocada; luz de la ventana del rellano con polvo
-  en el aire; el pasillo se aleja al fondo.
+  en primer plano**, desenfocada (⚠️ la figura de bronce sólo está en una
+  fuente, §5.2: mirar fotos antes de modelarla); luz de la ventana del
+  rellano con polvo en el aire; el pasillo se aleja al fondo.
 
 ### Lámina 2 (si hace falta): «¿A dónde voy?»
 
@@ -1727,27 +2164,43 @@ una esquina de un cartel, como sello del club.
 
 **El A.** Es el objeto del plan, es el centro de la serie y lo dice
 Mio, la más querida, haciendo lo que hace en pantalla: poner orden con
-cariño. El B es el más espectacular. El C deja lista la lámina 2.
+cariño. La segunda pasada lo refuerza: la mesa llena de pasteles se ha
+visto (T1 ep. 2, 5:32), hay arte oficial de las cinco en esa mesa (hoja 1
+#24) y todos los objetos 3D tienen licencia CC BY confirmada. El B es el
+más espectacular. El C deja lista la lámina 2.
 
 ---
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen** abierta ni medida: sin hojas de contacto, sin tamaños.
-- **Poses concretas** (manos, mirada): de memoria. Los minutos, sí son
-  exactos del subtítulo.
-- **Reparto del doblaje de Elocuencia Studio:** una sola fuente, dudoso.
-- **Portadas del Blu-ray y del manga** una por una.
-- **Caja de texto del videojuego:** no vi capturas.
-- **Colores hex:** estimados, no medidos.
-- **Keifont:** si trae tildes y ñ, sin comprobar.
-- **Tráiler oficial** y tendencias de TikTok: no localizados.
-- **Reddit:** el buscador no deja entrar en reddit.com y Arctic Shift daba
-  error de conexión.
+Tachado lo que resolvió la segunda pasada.
+
+- ~~Ninguna imagen abierta ni medida~~ → 958 imágenes en hojas, hex
+  medidos (§3.0, §16).
+- **Poses concretas** (manos, mirada): 7 vistas en vídeo y 6 en arte
+  oficial (§15.0); **el resto sigue de memoria** ⚠️.
+- ~~Reparto del doblaje de Elocuencia Studio: una sola fuente~~ → las
+  cuatro principales en dos fuentes; **Ui, Nodoka y Sawako, y quién
+  dirigió, siguen en una** ⚠️ (§10).
+- **Portadas del Blu-ray y del manga** una por una ⚠️.
+- ~~Caja de texto del videojuego~~ → vista (§7.1, §13).
+- ~~Colores hex estimados~~ → medidos; quedan estimados la camisa y las
+  cintas ⚠️.
+- ~~Keifont: tildes y ñ~~ → comprobada con fontTools.
+- ~~Tráiler oficial~~ → visto (§2.1). **Tendencias de TikTok**: no
+  encontré ninguna viral ⚠️.
+- **Reddit**: Arctic Shift dio 10 hilos de r/anime y luego *timeout*;
+  reddit.com sigue dando 403 ⚠️.
+- **Quién dice «¡El club no es una cafetería!»** (T1 ep. 2, 05:32): el
+  fotograma apunta a Ritsu; falta oírlo ⚠️.
+- **Vídeos en 1080p**: todo lo visto es SD (YouTube pidió iniciar sesión) ⚠️.
+- **La letra del logo**, la **interfaz de *Kirara Fantasia***, **TCRF** y
+  TV Tropes del anime: no los encontré o no cargaron ⚠️.
 - Los minutos de la T2 salen de la emisión de TBS: en Crunchyroll pueden
   moverse uno o dos.
 
 ---
+
 
 ## 21 · Bitácora de búsqueda
 
