@@ -46,7 +46,11 @@ Es una libreta de datos: un dato por línea, con fuente, ✅ (dos fuentes) o ⚠
 - **Letra libre para el rúnico**: **Noto Sans Runic** (Google, parte de la familia Noto, licencia OFL): cubre el bloque Unicode Runic completo (Futhark Antiguo, anglosajón, Futhark Joven largo y corto, runas medievales escandinavas), 94 glifos. ✅ [Google Fonts: Noto Sans Runic](https://fonts.google.com/noto/specimen/Noto+Sans+Runic). Es una fuente de **glifos rúnicos reales** (no letras latinas disfrazadas), así que no aplica la comprobación de tildes/ñ del español — se usa para inscripciones dentro del mundo, no para texto legible en español.
 - **Letra libre para el griego** (inscripciones de la saga griega): **GFS Didot** (Google Fonts, OFL, de la Greek Font Society, diseño de Takis Katsoulidis 1994 sobre el Didot griego de 1805): cubre griego moderno y politónico (griego antiguo con acentos). ✅ [Google Fonts: GFS Didot](https://fonts.google.com/specimen/GFS+Didot).
 
-### 5.4 Subtítulos y accesibilidad
+### 5.4 Por qué faltan letras de "globo normal, grito, pensamiento, onomatopeya" (tipos de manga)
+- **God of War no es manga ni cómic seriado con esos códigos**: no tiene viñetas con globo ovalado normal, globo dentado de grito, nube de pensamiento u onomatopeyas en letras grandes dentro de la imagen (eso es un lenguaje del manga/cómic japonés, ver los ejemplos de otras franquicias en `biblias/_ya_hechas/_Cuadros de dialogo por franquicia`). Su único material impreso con globos es el cómic de Dark Horse (ver 6.1), que usa **globo de cómic americano estándar** (óvalo con cola), sin variantes de grito o pensamiento documentadas por las fuentes que consulté. ⚠️ no encontré un análisis de las páginas del cómic que distinga tipos de globo (grito vs. normal); sólo el dato de que usa runas de verdad para el diálogo nórdico (6.1).
+- Tampoco hay un mecanismo de "pensamiento" en el juego: no existe una caja o efecto visual para los pensamientos internos de Kratos o Atreus — lo que sabemos de lo que piensan se cuenta por diálogo hablado (banter con Mimir/Atreus) o por el propio Codex escrito a mano por Atreus (ver 6.2), nunca por una burbuja de pensamiento en pantalla. ⚠️ no lo vi desmentido en ninguna fuente, lo baso en la ausencia de menciones en todas las páginas de interfaz consultadas.
+
+### 5.5 Subtítulos y accesibilidad
 - Ragnarök lanzó con **más de 70 funciones de accesibilidad**, incluida la reasignación completa de botones, marcas de alto contraste y **subtítulos completos** (incluye quién habla, sonidos ambientales). El sistema tiene **escalado de fuente** (Font Scaling) desde el tamaño por defecto hasta XX-Large, y **Layouts Dinámicos** que reposicionan elementos según lo que hay en pantalla. ✅ [80.lv](https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface) (cita directa de Zach Bohn, GDC 2023).
 
 ---
@@ -131,7 +135,11 @@ El **Cutting Room Floor** sólo tiene página propia para *God of War II* y su p
 - **Shader de piel y metal desgastado**: en Blender (Cycles o Eevee), usar el **Principled BSDF** con *subsurface scattering* bajo para la piel (Kratos tiene la piel curtida, no traslúcida como un personaje joven), *roughness* variable pintado en textura para el sudor/aceite, y capas de *mix* con máscaras de vértice/textura procedural para simular nieve, barro o sangre "por región", igual que describe Longhi del sistema original (18.1).
 - **Contorno**: no aplica un *Line Art*/*Freestyle* clásico (God of War no lleva contorno de tinta); en su lugar, lo que da la silueta reconocible son el **rim light** (contraluz frío en escenas nórdicas) y el alto contraste de valores entre el personaje y el fondo brumoso.
 
-### 18.4 Cómo reproducir el material (Photoshop, para concept art)
+### 18.4 Filtros de post-procesado y encuadre por emoción
+- **Grano de película (Film Grain) y desenfoque de movimiento (Motion Blur)** son opciones reales y ajustables en las opciones gráficas de la versión de PC (activados por defecto con un grano ligero); no encontré una lista oficial que confirme aberración cromática o viñeta como opciones nombradas así. ✅ grano y desenfoque confirmados por dos fuentes de guías de PC ([PCGamer](https://www.pcgamer.com/god-of-war-best-settings/), [GameFAQs: hilo Film Grain](https://gamefaqs.gamespot.com/boards/191627-god-of-war/76535505)); ⚠️ aberración cromática/viñeta no confirmadas, no las doy por hechas.
+- **Encuadre por emoción** (lectura propia sobre las capturas miradas en el punto 11 y la descripción de la cámara en 18.2, sin cita puntual de un GDC que lo diga así con estas palabras — ⚠️): los combates y momentos de rabia usan **plano medio-corto muy pegado, cámara algo inestable** (por el *handheld* del plano-secuencia); los momentos de duelo/introspección (como esparcir las cenizas de Faye) usan **planos más abiertos y estáticos**, con Kratos de espaldas o de perfil, dejando aire/silencio en la composición; las revelaciones de escala (un dios, un paisaje nuevo) usan **contrapicado y gran angular** para transmitir asombro o amenaza.
+
+### 18.5 Cómo reproducir el material (Photoshop, para concept art)
 - El *pipeline* real del estudio para personajes es **ZBrush primero (forma y anatomía), producción de textura de detalle después**, no un dibujo 2D tradicional planteado desde cero; para una lámina 2D, lo más fiel es **pintar sobre un render 3D o una pose de referencia** (photobashing/*paint-over*), no dibujar de cero con pincel de tinta.
 - **Pinceles útiles**: textura de piedra/grano para las inscripciones rúnicas grabadas, pincel de "costras/óxido" para el metal de las armas y armaduras, y un pincel de dispersión tipo "salpicadura" para sangre/nieve — todos genéricos de Photoshop, no hay pack oficial publicado del estudio. ⚠️ recomendación propia, no confirmada por una fuente del estudio.
 - **Luz**: contraluces fríos (azules/verdosos) en las escenas nórdicas de nieve y niebla, y luz cálida de antorcha/fuego muy localizada como acento — la paleta general es desaturada con un solo acento de color cálido (fuego, sangre, runas encendidas) para que destaque. ⚠️ de las capturas de marketing miradas en el punto 11 (Ragnarök: verdosos/azules fríos de fondo con el fuego de las hachas como único acento cálido), no medido en hex por mí (es tarea del investigador de imagen, punto 16).
@@ -162,7 +170,43 @@ El **Cutting Room Floor** sólo tiene página propia para *God of War II* y su p
 <a name="punto-25"></a>
 ## Punto 25 — El mundo, la historia y sus símbolos
 
-(pendiente)
+### 25.1 Las reglas del mundo, en cinco líneas
+1. Kratos es un mortal (espartano) que se convirtió en Dios de la Guerra griego tras matar a Ares; huyó de Grecia tras destruir a los Olímpicos y llegó a las **tierras nórdicas**, donde volvió a envejecer y a tener un hijo, Atreus. ✅ [Fandom: God of War (series)](https://godofwar.fandom.com/wiki/God_of_War_(series)).
+2. El mundo nórdico son **Nueve Reinos** (Midgard, Alfheim, Asgard, Vanaheim, Niflheim, Muspelheim, Helheim, Svartalfheim y Jötunheim) que cuelgan de las ramas de **Yggdrasil**, el Árbol del Mundo, más un "Reino Entre Reinos" que actúa de espacio intermedio entre todos. ✅ [Fandom: Nine Realms](https://godofwar.fandom.com/wiki/Nine_Realms) (vía API).
+3. Antes de los Nueve Reinos sólo existía el vacío **Ginnungagap**, donde el Fuego y el Hielo se encontraron y crearon la **Chispa del Mundo** (Spark of the World), origen de todo. ✅ misma fuente.
+4. Cada mitología del juego tiene **su propia escritura**: griego antiguo con alfabeto griego, nórdico antiguo con runas (mayoritariamente Futhark Antiguo) — ver punto 5.3.
+5. **Ragnarök** es el fin del mundo nórdico profetizado: la trama de *God of War Ragnarök* gira en torno a si Kratos y Atreus pueden (o deben) evitarlo. ✅ (resumen de búsqueda, Wikipedia/consolepulse).
+
+### 25.2 La historia por arcos (con sus momentos clave)
+**Saga griega** (orden cronológico interno: *Ascension* → *Chains of Olympus* → *God of War* [2005] → *Ghost of Sparta* → *God of War II* → *God of War III*; *Sons of Sparta*, sobre Kratos y su hermano Deimos de jóvenes en el entrenamiento espartano, es el punto más temprano de la línea de tiempo):
+- Kratos, general espartano, es engañado por **Ares** para matar a su propia esposa e hija; las cenizas del Oráculo se le pegan a la piel para siempre (de ahí su piel de ceniza). Se convierte en el "Fantasma de Esparta" y sirve a los dioses del Olimpo a cambio de que le liberen de las pesadillas.
+- Mata a **Ares** y se convierte en el nuevo Dios de la Guerra (*God of War*, 2005).
+- Los dioses (sobre todo **Zeus**, su propio padre) lo traicionan; Kratos se venga sistemáticamente de todo el panteón griego a lo largo de *God of War II* y *III*, hasta **matar a Zeus** y destruir el Olimpo, liberando la Esperanza para la humanidad al final de la trilogía.
+✅ (resumen cruzado de Wikipedia/fandomwire, dos fuentes coinciden en el orden y los hitos).
+
+**Saga nórdica** (*God of War* 2018 → *God of War Ragnarök*, con el DLC *Valhalla*):
+- Kratos, ya viejo, vive en las tierras nórdicas con su segunda esposa, **Faye**, y su hijo **Atreus**. Faye muere al empezar el juego (2018) y padre e hijo emprenden un viaje para esparcir sus cenizas desde el pico más alto de los Nueve Reinos, cruzándose con **Baldur ("El Forastero"/The Stranger)**, hijo de Odín, que los persigue. El juego cambia el eje de Kratos: de la venganza a la contención y la paternidad. ✅ (Cory Barlog, ver punto 24).
+- En *Ragnarök* (2022), Kratos y Atreus intentan **evitar (o decidir si provocar)** el fin del mundo profetizado, enfrentándose a **Odín** y **Thor**; Atreus busca su propia identidad como el "Loki" de la profecía nórdica. ✅ (resumen cruzado Wikipedia/consolepulse).
+- El DLC gratuito *Valhalla* (2023) es un epílogo jugable: Kratos revive recuerdos de su pasado griego dentro de un "más allá" de prueba (roguelike), como cierre emocional del personaje. ✅ (ver punto 11.1, ScreenRant).
+
+### 25.3 Emblemas y símbolos
+- **Cada uno de los Nueve Reinos tiene su propio glifo/runa** que lo representa en toda la interfaz del juego (mapa, viaje rápido, menú): `RuneAlfheim`, `RuneAsgard`, `RuneJotunheim`, `RuneVanaheim`, `RuneMidgard`, `RuneSvartalfheim`, `RuneNiflheim`, `RuneHelheim`, `RuneMuspelheim` — son los "logos de facción/lugar" más reconocibles del juego, cada uno una runa distinta dibujada en un círculo. ✅ [Fandom: Nine Realms](https://godofwar.fandom.com/wiki/Nine_Realms) (vía API; nombres de archivo confirmados en el wikitext).
+- El **símbolo Ω (omega)** del logo, cicatriz de Kratos, representa el final del reinado griego y aparece grabado en su piel desde el primer juego (ver punto 5.1).
+- Las **runas de ataque rúnico** (símbolos de las habilidades mágicas de cada arma) son iconografía propia del juego, distinta para cada arma (ver punto 6.2 y 11.2).
+
+### 25.4 Objetos icónicos y su significado narrativo
+- **Blades of Chaos** (Cuchillas del Caos): las armas encadenadas a los brazos de Kratos desde que sirvió a Ares; personifican **el monstruo que fue** — el que mató a su familia. Las abandona durante años y sólo vuelve a usarlas por amor a su hijo. ✅ [Fandom: Blades of Chaos](https://godofwar.fandom.com/wiki/Blades_of_Chaos).
+- **Leviathan Axe** (Hacha Leviatán): arma de hielo forjada por los enanos, heredada de su segunda esposa Faye; personifica **el cambio** de Kratos — ya no mata por placer como Thor con Mjölnir, sólo para defenderse. ✅ [Fandom: Leviathan Axe](https://godofwar.fandom.com/wiki/Leviathan_Axe), [CBR: The Leviathan Axe Explained](https://www.cbr.com/god-of-war-ragnarok-leviathan-axe-explained/).
+- **Draupnir Spear**: la primera arma **hecha específicamente para Kratos** (no heredada ni impuesta): lanza dorada que simboliza justicia y nobleza — encaja con el Kratos que ya no busca venganza. Una lanza es, además, la primera arma que aprende un espartano, así que le devuelve su origen. ✅ [Fandom: Draupnir Spear](https://godofwar.fandom.com/wiki/Draupnir_Spear).
+- **La cabeza de Mímir**, guía parlante que Kratos lleva colgada del cinturón tras liberarlo, es quien narra buena parte del lore del mundo nórdico (sus "Cuentos de Mímir"). ⚠️ de memoria/común conocimiento, no cité fuente puntual.
+- **La Caja de Pandora** (saga griega) y las **cenizas de Faye** (saga nórdica) son los dos "macguffin" que estructuran cada trilogía: uno es un arma de poder, el otro es un viaje de duelo.
+
+### 25.5 Vocabulario que un fan reconoce al instante
+- **«Boy»**: cómo llama Kratos a Atreus casi siempre en vez de por su nombre; se volvió meme instantáneo tras el lanzamiento de 2018. El propio director necesitaba "un término cariñoso" que sonara natural en boca de un padre distante. ✅ [ScreenRant: Why Kratos Always Calls Atreus Boy](https://screenrant.com/god-of-war-why-kratos-calls-atreus-boy/).
+- **«The Stranger» / «El Forastero»**: como se refieren al personaje que resulta ser Baldur antes de revelar su identidad, al principio de *God of War* (2018). ✅ [Source Gaming: The Stranger](https://sourcegaming.info/2022/12/06/big-baddies-breakdown-the-stranger-god-of-war-2018/).
+- **Spartan Rage** (Ira Espartana): el estado de furia límite de Kratos, sustituye a la vieja "Rage of the Gods/Titans/Sparta" de la trilogía griega (ver 11.2).
+- **Nueve Reinos / Yggdrasil / Ragnarök / Jötunn**: vocabulario nórdico que cualquier fan reconoce de memoria por lo repetido que está en diálogos y menús.
+- **«Boy» + el gruñido característico de Kratos** y su frase de combate «**¡Mortal insensato!**» / en inglés «**Insolent whelp!**» de la trilogía griega son las citas más parodiadas del Kratos "antiguo", en contraste con el Kratos contenido de la saga nórdica. ⚠️ de memoria, sin verificar la frase exacta doblada al español (tarea del investigador de voz, punto 8).
 
 ---
 

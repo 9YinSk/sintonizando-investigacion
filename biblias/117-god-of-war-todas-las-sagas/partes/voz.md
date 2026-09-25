@@ -334,3 +334,97 @@ llevan, cómo se ven a sí mismos). Donde no hay dato de ese tipo, lo digo.
 - No encontré cumpleaños oficiales de ningún personaje (no aplica: no hay calendario in-universo
   publicado tipo databook de anime). ⚠️ búsquedas hechas: «Kratos birthday official», «Atreus
   cumpleaños ficha oficial».
+
+### Punto 21 — Por qué la gente la ama
+
+**Ventas y premios** (motivo "de números"): *God of War* (2018) vendió más de 5 millones en su primer
+mes y superó los 23 millones a nov-2022; ganó Juego del Año en The Game Awards 2018 ·
+https://en.wikipedia.org/wiki/God_of_War_(2018_video_game) · ✅ (Wikipedia + The Game Awards, cifra
+repetida en gamingbolt.com). *God of War Ragnarök* vendió 5,1 millones en su semana de lanzamiento
+(el lanzamiento first-party más rápido de la historia de PlayStation), 11 millones en 3 meses y más
+de 15 millones a dic-2023; en The Game Awards 2022 tuvo 11 nominaciones y ganó 6, y en los BAFTA
+Games logró 15 nominaciones (récord de la ceremonia) y 6 premios incluido Juego del Año ·
+https://www.videogameschronicle.com/news/sony-says-god-of-war-ragnarok-has-topped-11-million-sales-in-3-months/
+· ✅ (VGC + The Game Awards oficial en X + Wikipedia, coincide en los 11 millones/3 meses). Juntos,
+2018 y Ragnarök han generado más de 1.400 millones de dólares · https://gamingbolt.com/god-of-war-2018-and-god-of-war-ragnarok-combined-sold-1-4-billion-copies
+· ⚠️ (una fuente para esa cifra combinada específica, aunque las ventas por separado sí están en dos
+fuentes cada una).
+
+**Con qué personaje se identifica el público, y por qué**: el propio arco de Kratos —de un guerrero
+que sólo sabe destruir a un padre que aprende, torpemente, a no repetir el daño que le hicieron a
+él— es la razón más citada en reseñas y en Reddit. El "meme del boy" (punto 12) nace precisamente de
+esa incomodidad reconocible: un padre que no sabe decir "te quiero" y dice "boy" en su lugar. Varios
+usuarios de Reddit dicen identificarse con Atreus por su necesidad de demostrarle algo a un padre
+distante · hilos "I cried" / "So I cried" en r/GodofWarRagnarok con 140-246 puntos cada uno (ver
+abajo) · ⚠️ (comentarios de foro, no encuesta formal, pero es el tipo de fuente que pide el encargo
+para "con qué personaje se identifica el público").
+
+**La escena que más hace llorar, con capítulo/minuto y por qué**: el final de *God of War* (2018), en
+la cima de Jötunheim. Durante casi todo el juego Kratos no deja ni que Atreus cargue las cenizas de
+su madre Faye; en el tramo final, por primera vez, le pide a Atreus que las lleve él, y padre e hijo
+las esparcen juntos en la cumbre — es el cierre físico del viaje del juego (subir la montaña más alta
+de los Nueve Reinos) y el cierre emocional del vínculo: es el primer momento en que Kratos reconoce a
+Atreus como su hijo y no sólo como "boy" · https://www.denofgeek.com/games/god-of-war-ragnarok-ending-explained-summary-secrets/
+y https://www.resetera.com/threads/the-ending-of-god-of-war-2018-was-so-much-better-than-i-remembered-spoilers.375759/
+· ✅ (dos fuentes independientes describen la misma escena con el mismo significado). Reacción real de
+jugadores en r/GodofWarRagnarok: «So I cried» (180 puntos, 52 comentarios) y «I just completed the
+main story and I cried» (246 puntos, 98 comentarios) — hilos sobre el remaster/replay del juego
+original, no sobre Ragnarök, confirmando que el final de 2018 sigue emocionando años después ·
+https://reddit.com/r/GodofWarRagnarok/comments/1g462as/so_i_cried/ ,
+https://reddit.com/r/GodofWarRagnarok/comments/z3y5nf/i_just_completed_the_main_story_and_i_cried/
+· ✅ (puntuaciones verificadas en vivo vía Arctic Shift, 25-sep-2026).
+
+**Muerte de Brok, en Ragnarök**: el enano Brok es apuñalado por Týr (que resulta ser Odín disfrazado)
+tras sospechar de él; Kratos, ciego de rabia, se lanza a la batalla. Después hay una escena de velatorio
+donde Kratos, Mimir y Freya se despiden uno a uno del cuerpo de Brok · https://www.sportskeeda.com/esports/how-did-brok-die-in-god-of-war-ragnarok
+· ⚠️ (una fuente describe la escena en detalle; no se pudo mirar el clip directamente por el bloqueo
+de YouTube desde este servidor — pendiente, ver «Sigue»). Es una de las muertes más citadas por el
+fandom (ver el hilo de 433 puntos del punto 7, que habla de Brok y Sindri con cariño explícito).
+
+**Cómo reaccionó la crítica/prensa hispana al doblaje** (motivo "puede identificarse con la lengua
+propia"): ver la reseña de ANMTV en el punto 8 — el hecho mismo de que exista una reseña crítica
+dedicada en español, con opinión personal sobre cada actor, es señal de cuánto le importa el doblaje
+a la comunidad hispanohablante (coherente con que Sintonizando es un server de doblaje).
+
+### Punto 22 — Fan dubs y comunidad hispana
+
+Aviso: YouTube pidió iniciar sesión desde este servidor durante toda la tanda (confirmado con
+`yt-dlp`, error 429/"video unavailable" incluso sólo pidiendo metadatos) y en Dailymotion no hay
+fandubs reales de God of War (sólo tráilers oficiales y comparativas de doblaje, ver abajo) — así que
+lo de este punto sale de resultados de búsqueda web (título, canal y enlace visibles en el propio
+resultado), **no de haber visto el vídeo**. Lo marco todo ⚠️ por eso, tal como pide `AYUDANTE.md`.
+
+- **Fandubs y montajes encontrados** (existencia confirmada por el propio resultado de búsqueda, sin
+  cifra de vistas verificada por mí):
+  - «Kratos y CHICO | Parodia de God Of War | Fandub Español Latino» · https://www.youtube.com/watch?v=BcUvzCw5tqE
+  - «God Of War Ragnarok - Trailer del Gameplay en Español Latino | A N G R B O D A | FANDUB» · https://www.youtube.com/watch?v=SjJ8IXOLWJ4
+  - «God Of War III Comercial de GameSpot en Español Latino [Fandub]» · https://www.youtube.com/watch?v=jTZOqthd9vc
+    (fandub de un anuncio del juego griego, que nunca tuvo doblaje latino oficial — ver punto 8; es la
+    prueba de que la comunidad hispana "dobló" lo que Sony nunca dobló).
+  - «God of War - Kratos Griego con la voz de Idzi Dutkiewicz (Fandub/Montaje Latino)»: monta la voz
+    latina oficial de Kratos (la de la era nórdica) sobre metraje de la era griega, algo que la
+    comunidad pide desde hace años porque la trilogía original nunca se dobló · https://www.youtube.com/watch?v=cFBQ1BNSrxg
+  - «🇲🇽¿DOBLAJE LATINO o CASTELLANO?🇪🇸 - God of War #6»: serie de comparación latino/España, propia
+    de un canal de reacción · https://www.youtube.com/watch?v=E7TUvDY8h2c
+- **Comparativa oficial en Dailymotion** (encontrado y confirmado en vivo, sí es accesible sin
+  YouTube): «God of War - Doblaje España, Latinoamérica e inglés», canal Vandal, 258 s, 1 vista
+  registrada · https://www.dailymotion.com/video/x72mmh3 · ✅ (accesible y comprobado en vivo, aunque
+  el conteo de vistas de Dailymotion es bajo por ser un espejo poco visto) — sirve como referencia de
+  audio si se quiere comparar los tres doblajes sin usar YouTube.
+- **TikTok** (existencia confirmada por búsqueda, contenido no accesible desde este entorno para
+  verificarlo yo mismo): reto de doblaje «SDV reta a la voz oficial: Idzi Dutkiewicz» (cuenta
+  @sdv_serviciosdevoz, doblador imita a Kratos y lo compara con el oficial) ·
+  https://www.tiktok.com/@sdv_serviciosdevoz/video/7154541669998742790 · contenido sobre el cambio de
+  voz de Freya en el DLC Valhalla (@erik.nightmr, @fandoblajes) — coincide con el dato ya confirmado
+  en el punto 8 (Betzabé Jara sustituyó a Annie Rojas) · https://www.tiktok.com/@erik.nightmr/video/7312245649171303685
+  ⚠️ (no pude reproducir el vídeo, sólo el título/cuenta salió en la búsqueda).
+- **Concurso de doblaje de fans, con final real en estudio (dato "puente" entre fandub y doblaje
+  oficial)**: en octubre de 2012 Sony LatAm organizó el concurso «Inmortaliza tu voz con God of War:
+  Ascension» en toda Latinoamérica; ganó el colombiano Andrés "Reno" González Borda, quien viajó a
+  Los Ángeles a grabar en los estudios de Santa Monica la voz de un personaje menor (un soldado que
+  anima a Kratos) — fue el único concurso de este tipo que hizo SCEA para la región ·
+  https://doblaje.fandom.com/es/wiki/God_of_War:_Ascension#Datos%20de%20inter%C3%A9s ·
+  https://blog.latam.playstation.com/2012/10/18/inmortaliza-tu-voz-con-god-of-war-ascension/ · ✅
+  (dos fuentes: la ficha de Doblaje Wiki cita directamente el post oficial del blog de PlayStation
+  Latinoamérica). Es un dato fuerte para un server de doblaje: la propia Sony invitó a un fan
+  hispanohablante a doblar dentro del juego real.

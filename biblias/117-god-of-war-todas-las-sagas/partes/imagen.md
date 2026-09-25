@@ -154,6 +154,11 @@ minuto no aplica por ser imagen fija):
   `Atreus#Appearance`, ya en `datos-imagen.md`. ✅
 - La **Guía de Cosplay oficial** (PDF de Santa Monica Studio, ver punto 1) es la fuente más exacta para
   patrones y materiales reales de cada prenda: cuero, malla, correas de cáñamo, runas cosidas. ✅
+- **La ropa «icónica» que todos reconocen**: el torso desnudo con arnés de cuero cruzado, tatuaje y falda de
+  cuero de *God of War* (2018) es el look que la propia Sony usa como imagen de marca (key art, logo del
+  juego, figura NECA, skin de Fortnite) — se repite en todas las fuentes de arriba más que ningún otro
+  traje, incluida la era griega. ✅ (confirmado en al menos 4 fuentes independientes: NECA, Fortnite, Steam,
+  la portada del artbook de 2018)
 
 ### Punto 16 · Ciudades, paisajes y fondos de pantalla
 
@@ -184,6 +189,10 @@ Colores medidos con `estilo.py` sobre capturas reales (no íconos de mapa, que e
   Kratos (hoja 6, imágenes 265 y 271). ✅
 
 ### Punto 19 · Texturas 2D
+
+*God of War* es un videojuego, no manga: no hay tramas de screentone ni globos de diálogo con textura de
+papel que medir; en su lugar se buscó el equivalente real de la franquicia — grabados en piedra/metal,
+tatuajes y patrones de cuero/tela — que es lo que sí aparece en el juego y en el artbook.
 
 - **Tatuaje de Kratos**: rojo carmesí en la trilogía griega (simboliza el sacrificio de su familia, cubierto
   de su propia sangre y las cenizas de su mujer e hija); gris-ceniza en la era nórdica (la misma marca pero
@@ -220,6 +229,10 @@ Colores medidos con `estilo.py` sobre capturas reales (no íconos de mapa, que e
   no-muertos, autómatas y el mejor músico de la historia», haciendo canon esa participación dentro de la
   cronología · https://screenrant.com/god-war-ragnarok-playstation-allstars-reference-canon/ ✅ (guiño
   confirmado en dos fuentes: la wiki de PS All-Stars y el artículo)
+- **Cafés temáticos / exhibiciones físicas**: no encontré ninguno dedicado a God of War (a diferencia de
+  otras franquicias de anime que sí tienen cafés pop-up); lo más parecido son las exhibiciones de arte
+  original que PlayStation ha mostrado en eventos como PAX o el propio E3 al anunciar cada juego, pero no
+  como local fijo. Búsqueda hecha: `God of War café evento exhibición temático` (es) — sin resultado.
 - **Monster Hunter World**: **no hay colaboración oficial** con Capcom/God of War (comprobado: la búsqueda
   sólo devuelve un vídeo de fan usando el editor de «Layered Armor» del propio juego para imitar el look de
   Kratos con piezas ya existentes, no contenido con licencia). Se anota para no repetir el error de creer
@@ -233,6 +246,15 @@ Colores medidos con `estilo.py` sobre capturas reales (no íconos de mapa, que e
 - **Figuras oficiales**: NECA fabricó la figura articulada de Kratos (God of War 2018), escala 7" (36 puntos
   de articulación, incluye Leviathan Axe, daga y escudo) y una versión 1/4 de 18" — referencia real de pose
   y proporciones 3D · ficha oficial del fabricante: https://necaonline.com/2017/07/god-of-war-7-action-figure-kratos/ ✅
+- **Evento del 20.º aniversario («Odisea Oscura»)**: el 22 de marzo de 2025 la saga cumplió 20 años; Santa
+  Monica Studio sacó una actualización gratis para *God of War Ragnarök* (PlayStation y PC, desde el 20 de
+  marzo) con un vestuario negro y dorado para Kratos (aspecto, peto, brazales y cinturón), ropa a juego para
+  Atreus, vestido de bruja para Freya, y apariencias nuevas para el Hacha Leviatán, las Espadas del Caos, la
+  Lanza de Draupnir y 6 escudos — inspirado en el nombre de desarrollo original del juego y en recompensas de
+  *God of War II*. También hubo recursos gratis para redes y un avatar de PSN de regalo · fuente oficial:
+  https://blog.es.playstation.com/2025/03/14/celebramos-el-vigesimo-aniversario-de-god-of-war-con-la-coleccion-odisea-oscura-de-god-of-war-ragnarok/ ✅
+  (blog oficial de PlayStation en español; cuenta como colaboración/evento del punto 23 y da vestuario nuevo
+  para el punto 15 en cuanto se pueda medir en captura).
 
 ## Lo mejor para la lámina
 
@@ -257,6 +279,11 @@ Colores medidos con `estilo.py` sobre capturas reales (no íconos de mapa, que e
 - ⚠️ Galería oficial curada de **fotomodo** aparte de las capturas normales de Steam: existe el modo en el
   juego (confirmado por la wiki y el menú del juego) pero no una colección oficial separada de fotos de
   fotomodo con licencia clara para citar.
+- ⚠️ **Fondos de pantalla oficiales descargables** de Santa Monica Studio/PlayStation: se probó
+  `sms.playstation.com/stories/20-years-art-god-war` (página de aniversario del estudio) pero es una app
+  (React) que no sirve contenido en el HTML crudo — ni `curl` ni `WebFetch` devuelven el artículo, sólo la
+  plantilla vacía. Los wallpapers que sí se encontraron (WallpaperFlare) son de un agregador de fans, no del
+  estudio, así que no se citan como «oficiales» en `imagen.json`.
 - ⚠️ Pack de texturas 2D **CC0 verificado** «Greek key pattern» (meandro espartano) y de nudo nórdico con
   licencia confirmada pieza por pieza (Vecteezy mezcla piezas gratis y de pago; no se abrió cada una).
 - ⚠️ El contenido exacto (miniaturas, pie de foto) de los dos Art Blast de ArtStation Magazine: el dominio
@@ -303,6 +330,10 @@ buscar en esos idiomas para este punto de imagen):
 10. `God of War Kratos cosplay armor build tutorial foam EVA well made`
 11. `Kratos ArtStation` → `Monster Hunter World Kratos armor collaboration official Capcom PlayStation` (repetida para confirmar que NO es oficial)
 12. `NECA Kratos God of War official action figure 2018`
+13. `God of War official wallpaper download PlayStation Santa Monica Studio 4K`
+14. `God of War café evento exhibición temático PlayStation crossover mobile game gacha` → encontró el
+    evento real del 20.º aniversario («Odisea Oscura») por otra vía (el blog de PlayStation en español,
+    linkeado en los resultados de esta misma búsqueda)
 
 **Intentos fallidos, con qué se hizo en su lugar**:
 - `magazine.artstation.com` y `artstation.com` → 403 (Cloudflare) tanto en `curl` como en `WebFetch`, dos
@@ -313,9 +344,9 @@ buscar en esos idiomas para este punto de imagen):
 - Sketchfab «god of war temple/lake of nine» → sin resultados de sitios, sólo personajes/armas (ya
   reflejado arriba, no se repitió la consulta porque ya estaba en `datos-imagen.json`).
 
-Sigue: nada obligatorio pendiente de mis puntos (1, 3, 15, 16, 19, 23) — quedan como ⚠️/«No encontré»
-declarados el pack CC0 de meandro griego/nudo nórdico verificado pieza a pieza y la galería oficial de
-fotomodo, que son extras, no huecos obligatorios. Si se retoma esta parte: medir hex de 1-2 capturas más de
-Steam de *God of War* (2018, reino griego no aplica pero sí más biomas nórdicos: Vanaheim, Alfheim reales)
-para variar la paleta de fondos del punto 16, y completar `imagen.json` con las referencias si no está ya.
+**Parte terminada**: los 6 puntos (1, 3, 15, 16, 19, 23) están cubiertos con lo obligatorio del encargo.
+Quedan sólo extras en «No encontré» (con ⚠️): el pack CC0 de meandro griego/nudo nórdico verificado pieza a
+pieza, la galería oficial de fotomodo, wallpapers oficiales descargables y cafés/exhibiciones temáticas —
+ninguno es obligatorio, se buscaron y no aparecieron. `imagen.json` tiene 24 referencias y `hojas/` sus 3
+JPEG (`personajes_01.jpg`, `vestuario_01.jpg`, `fondos_01.jpg`, las 3 miradas con Read).
 
