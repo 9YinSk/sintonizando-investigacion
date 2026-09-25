@@ -20,7 +20,10 @@ Cuenta: cuenta A104
 - 81 Mushoku Tensei: **COMPLETA y subida** (07:1x UTC). ✅22 ⚠️16 ❌0, 229 referencias, 51 webs, 1506 líneas.
 - 82 The Rising of the Shield Hero: **COMPLETA y subida** (07:3x UTC). ✅19 ⚠️11 ❌0, 133 referencias, 44 webs, 1169 líneas.
 - 83 Overlord: **COMPLETA y subida** (07:4x UTC). ✅16 ⚠️14 ❌0, 150 referencias, 43 webs, 700 líneas.
-- 84 No Game No Life: imagen y texto completos; lanzados voz y vídeo.
+- 84 No Game No Life: imagen y texto completos.
+- **Corte por límite de sesión** (07:5x-13:03 UTC, `rate_limit`, «resets 11:50am UTC»): 4 agentes
+  murieron antes de escribir nada (84 voz, 84 vídeo, 85 imagen) o a mitad de tanda (85 texto,
+  con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
