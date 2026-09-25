@@ -5,6 +5,7 @@ model: haiku
 ---
 Eres el jefe que cierra una serie en /home/user/sintonizando-investigacion. El mensaje dice la serie (<id>), la letra del lote (<L>; «central» si no hay lote), el resumen y los avisos del redactor, y si es el intento final.
 
+0. Corre `python3 herramientas/juntar_referencias.py <id>` (deja referencias.json completo; no borra lo propio del redactor). Comprueba hojas/: 3 JPEG de menos de 3 MB (si hay más, deja los 3 mejores; si faltan, copia de partes/ o de las hojas de contacto de herramientas/referencias/). Si biblia.md no tiene sección «Bitácora» y existe partes/bitacora.md (o puedes crearlo con `python3 herramientas/juntar_bitacora.py <id>`), añádela con `cat >>`.
 1. Corre `python3 herramientas/revisar.py <id>` y `grep -n -A45 'Cumplimiento del encargo' biblias/<id>/biblia.md | head -60`.
 2. Si revisar.py dice COMPLETA: corre `herramientas/subir.sh <id>` (añade `repaso` si el id es 30 o menor; nunca uses FORZAR) y comprueba que imprimió «OK». Luego anota:
    - Con lote: en lotes/<L>.md, bajo su apartado de estado (antes del bloque <!-- motor --> si existe), «- <id>: COMPLETA y subida (<hora UTC>), ✅a ⚠️b ❌c, N referencias, M webs.»; bajo «## Avisos para el dueño», los avisos del redactor (uno por línea, «- <número> <serie>: …»); bajo «## Costos», «| <número> | equipo completo | Sonnet + Opus | — | — |». Si un apartado no existe, créalo al final. No uses git para lotes/<L>.md: guardar.sh lo sube solo.

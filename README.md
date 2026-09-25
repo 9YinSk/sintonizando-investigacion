@@ -55,8 +55,11 @@ entra con la cuenta Max, copia el pase (`sk-ant-oat…`) y pégalo cuando pida
 un año). Sin ese secreto los lotes no arrancan: el run avisa y no hace nada más.
 Si el pase deja de valer, el run falla con un aviso claro; se repite el doble clic.
 
-**Cuántos a la vez:** con la Max de 5x, tres letras en `.github/lotes-activos`
-(G, E y D, ya puestas); con la de 20x, las cinco (añade F y H, una por línea).
+**Cuántos a la vez:** con la Max de 5x, tres letras en `.github/lotes-activos`;
+con la de 20x, las cinco (una por línea). **Sólo pon una letra cuando ninguna
+sesión esté trabajando ese lote** (mira `CONTINUAR.md`): dos jefes en el mismo
+lote hacen el trabajo dos veces. Hoy está vacío porque la sesión central los
+lleva desde la nube.
 Poner más lotes no hace más trabajo: la cuenta tiene un límite de uso cada
 5 horas y otro semanal, y todos los lotes lo comparten.
 

@@ -643,8 +643,13 @@ def animethemes(ctx, s):
     if ctx["tipo"] != "anime":
         return None
     nombre = (ctx.get("anilist") or {}).get("title", {}).get("romaji") or ctx["nombres"][0]
-    r = pedir("https://api.animethemes.moe/anime?page[size]=3&include=animethemes.song.artists,"
-              f"animethemes.animethemeentries.videos&filter[name]={q(nombre)}")
+    try:  # su CDN lleva semanas dando 522: un intento y, si no, se anota para que nadie lo reintente a mano
+        r = pedir("https://api.animethemes.moe/anime?page[size]=3&include=animethemes.song.artists,"
+                  f"animethemes.animethemeentries.videos&filter[name]={q(nombre)}", intentos=1)
+    except Exception:                                                   # noqa: BLE001
+        s.sec("video", "Openings y endings (AnimeThemes)", "https://animethemes.moe")
+        s.l("video", "- AnimeThemes no responde hoy (522): no lo reintentes; OP/ED en Dailymotion, Internet Archive o la wiki")
+        return None
     s.sec("video", "Openings y endings con su vídeo descargable (AnimeThemes; fotogramas.py acepta estas URL)", "https://animethemes.moe")
     for a in r.get("anime", [])[:1]:
         for th in a.get("animethemes", []):

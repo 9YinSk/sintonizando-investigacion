@@ -79,6 +79,45 @@ subagentes por rol con modelo fijo; flujo guardado; `navegar.py` (navegador sin
 ventana para TV Tropes y Reddit); `hermanas.py`. Pendiente de aplicar: lo que
 diga el análisis de mejoras en curso (se anotará aquí abajo).
 
-## 7. Notas del análisis de mejoras
+## 7. Análisis de mejoras (25-sep, tres lentes y un juez; 25 propuestas confirmadas)
 
-(pendiente: se añade cuando termine)
+**Hechas ya** (en la rama):
+- `juntar_referencias.py` y `juntar_bitacora.py`: referencias.json y la bitácora
+  las arma un script; el redactor (Opus) ya no las teclea (≈ 10 % de su gasto).
+- El redactor lee sólo lo que necesita (fuera DECISIONES.md, inventario.md y
+  datos-*.md enteros: ~130 k caracteres menos de contexto).
+- `revisar_partes.py` + subagente `revisor-partes` (Haiku): mide las partes antes
+  de pagar el redactor y el flujo relanza una vez los roles flojos.
+- Investigadores: tablas fijas por punto (8, 13, 14, 15, 20) listas para pegar,
+  primer punto escrito antes de la acción 20, frontera imagen/texto en modelos
+  3D y tramas (puntos 3, 19 y 18).
+- AnimeThemes: un intento y nota «no reintentar» (lleva semanas caído).
+- `.github/lotes-activos` vacío mientras la nube trabaje esos lotes.
+
+**Pendientes, por valor** (para una sesión con tiempo; no bajan la exigencia):
+1. `armar_biblia.py`: montar biblia.md pegando las secciones de un solo rol
+   (5, 6, 11, 15, 16, 19, 20, 23) y que Opus escriba sólo lo suyo (§0, §1, §17,
+   conceptos, correcciones, tabla) y funda las mixtas (8, 10, 13, 14, 21).
+   Pilotar en 2 series y comparar tokens y ✅ antes de generalizar (≈ −15 %).
+2. Recolector más rico y gratis: subtítulos de kitsunekko para minutos de
+   escena; episodios con pista latina de Internet Archive transcritos en segundo
+   plano (`episodio.py`); muestras de Doblaje Wiki transcritas y medidas con
+   `voz.py` (sólo personajes del encargo + top 12); `letras.json` con las
+   letras más citadas comprobadas con fontTools; Safebooru por emoción como
+   referencia de expresión (no cuenta como fotograma).
+3. Series hermanas en «segunda mirada» con 2 roles + redactor (≈ 0,75 M en vez
+   de 1,3 M) cuando la primera ya tiene biblia; ojo con los 40 webs de revisar.py.
+4. `datos-voz.md` recortado (40 filas de reparto, resto en datos.json).
+5. TV Tropes, TCRF, ArtStation: sólo por `navegar.py` o Wayback, una vez, desde
+   el recolector.
+6. Que `cierre` reciba y apunte los tokens de cada agente.
+
+**Le toca al dueño** (dos secretos opcionales con gran ganancia): `YT_API_KEY`
+(YouTube Data API v3, gratis: vistas, búsquedas de fandubs y comentarios → los
+puntos 10, 21 y 22 dejan de quedar ⚠️) y `YT_COOKIES` (cookies.txt de una
+cuenta secundaria: vídeos a 1080p en `fotogramas.py`). Se ponen como secretos
+en GitHub y como variables de entorno en la nube o la PC.
+
+**Cifras del juez**: quedan 69 series en D-H (59 nuevas); a 1,3 M por nueva y
+0,33 M por «sólo redactor», unos 80 M de tokens (72 % Sonnet, 28 % Opus). Lo
+más barato por biblia es cerrar primero las que sólo necesitan redactor.
