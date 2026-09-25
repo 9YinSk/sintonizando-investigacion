@@ -26,10 +26,13 @@ fichas completas (planos, diálogo transcrito con Whisper) están en `partes/epi
 - **Masacre en la finca de los de Rune** (apertura): banquete familiar, jabalí, perro Léon, la
   Inquisición irrumpe a caballo, «Kill the sister! Take the boy alive!» · Story Trailer, 0:02-0:26 ·
   https://www.dailymotion.com/video/x747o01?t=9 · ✅ (ficha en episodios.md + visto en hoja).
-- **Corredor con antorcha, «Quick, the light! THE LIGHT!»**: Amicia grita y levanta la antorcha en un
-  pasadizo de piedra oscuro, puerta de madera a la izquierda · compilado de cinemáticas, min. 39:54 ·
+- **«Quick, the light! THE LIGHT!»**: interior de piedra tipo capilla, vidriera al fondo; una figura
+  adulta (no se identifica con certeza en este plano) señala con el brazo extendido hacia algo colgado
+  del techo — una especie de racimo de formas oscuras (¿ratas o murciélagos muertos, trofeo o señuelo?) —
+  y grita pidiendo luz · compilado de cinemáticas, min. 39:54 (fotograma sacado en 1920×1080 real por
+  HTTP range directo al `.mp4`, no de la miniatura) ·
   https://archive.org/details/APlagueTaleInnocenceAllCutscenesIn4KGameMovie · ✅ (fotograma propio,
-  `estilo.py`).
+  `estilo.py`) · ⚠️ identidad del personaje sin confirmar.
 - **Huida de la aldea sujetando la mano de Hugo**: corren entre una carreta y una valla de madera hacia
   una puerta, luz de atardecer entre nubes · mismo compilado, min. 1:19:57 · ✅.
 - **Jardín con mosaico romano**: Amicia agachada cuidando/vendando a Hugo (bufanda roja) sobre un suelo
@@ -80,9 +83,11 @@ Complementa el punto 16 de `imagen.md` (que midió arte oficial estático de la 
 de **fotogramas de cinemática en movimiento** (con niebla, grano, profundidad de campo), citando `estilo.py`
 sobre el fotograma exacto (barras negras de cine recortadas antes de medir, si las había).
 
-- **Pasadizo de piedra con antorcha** (Innocence, corredor interior) · fuego vs. piedra fría ·
-  `#0E0D0B` 28% / `#2D1D15` 25% / `#3F291E` 20% / `#57372A` 7% (`estilo_archive`, fotograma 39:54) ·
-  saturación 42%, brillo 16% (el fuego es el único punto de luz cálida en un plano casi negro) · ✅.
+- **Interior de capilla en penumbra** (Innocence, «Quick, the light!») · sin fuego visible en el plano
+  exacto, sólo luz fría de vidriera · `#1D1D1B` 27% / `#242421` 24% / `#181816` 20% / `#121210` 14%
+  (`estilo_hq`, fotograma 39:54, 1920×1080 real vía HTTP range al `.mp4`) · saturación 9%, brillo 12% —
+  el plano más neutro/gris de todos los medidos, corrige la primera lectura sobre la miniatura (que
+  parecía más cálida por la compresión). ✅.
 - **Aldea de noche con ratas** (Innocence, huida con antorcha) · rojo-naranja de las ratas y la antorcha
   contra negro casi total · `#361B14` 27% / `#010000` 27% / `#5C2B23` 20% / `#834932` 18% / `#F6C381` 4%
   (`estilo_inn`, fotograma 0:21 del tráiler de lanzamiento, recortado sin barras) · saturación 62%,
@@ -242,24 +247,22 @@ manos y mirada descritas de lo que se ve en el fotograma, no de memoria.
 ### Amicia
 1. **Guiar/proteger** — corre sujetando la mano de Hugo, torso girado medio hacia atrás para no soltarlo,
    mirada al frente hacia la puerta de salida · compilado, 1:19:57 · sirve para «animar, seguir aquí».
-2. **Alertar/urgencia** — de pie, antorcha en alto con el brazo extendido y el codo bloqueado, boca
-   abierta gritando, ceja fruncida · compilado, 0:39:54 · sirve para «avisar, dar una orden».
-3. **Atacar/defender** — semiagachada, arma arrojadiza (honda) sujeta a dos manos a la altura del pecho,
+2. **Atacar/defender** — semiagachada, arma arrojadiza (honda) sujeta a dos manos a la altura del pecho,
    mirada fija al objetivo, capucha de armadura de cuero · Requiem Story Trailer, 1:05 (fotograma 27 de
    la hoja) · sirve para «defender, plantar cara».
-4. **Pensar/sigilo** — agachada bajo un mueble, una mano apoyada en el suelo, cabeza ladeada escuchando ·
+3. **Pensar/sigilo** — agachada bajo un mueble, una mano apoyada en el suelo, cabeza ladeada escuchando ·
    compilado, 2:49:56 · sirve para «pensar, prestar atención».
-5. **Miedo** — primer plano, ojos llorosos, boca entreabierta, sujeta con fuerza la ropa de un adulto ·
+4. **Miedo** — primer plano, ojos llorosos, boca entreabierta, sujeta con fuerza la ropa de un adulto ·
    Story Trailer (Innocence), 0:29 · sirve para «tener miedo, pedir ayuda».
-6. **Cuidar/explicar** — agachada de espaldas a cámara junto a Hugo sentado, manos cerca de su cara/cuello
+5. **Cuidar/explicar** — agachada de espaldas a cámara junto a Hugo sentado, manos cerca de su cara/cuello
    (vendaje o consuelo), postura protectora inclinada hacia él · compilado, 1:49:55 · sirve para
    «explicar con calma, cuidar».
-7. **Consolar/celebrar reencuentro** — de pie, abraza a Hugo apoyando la barbilla en su cabeza, ojos
+6. **Consolar/celebrar reencuentro** — de pie, abraza a Hugo apoyando la barbilla en su cabeza, ojos
    cerrados, manos rodeándolo · Requiem Story Trailer, 1:09-1:10 · sirve para «celebrar, alegrarse de
    verlo».
-8. **Amenaza/determinación** — silueta a contraluz de un incendio, arrodillada con ballesta lista, sin
+7. **Amenaza/determinación** — silueta a contraluz de un incendio, arrodillada con ballesta lista, sin
    rasgos visibles salvo el contorno · Requiem Story Trailer, 1:31 · sirve para «amenazar, avanzar pase lo
-   que pase».
+   que pase; también vale como pose de alerta/urgencia».
 
 ### Hugo
 1. **Miedo** — detrás de una valla/reja, ojos muy abiertos, hombros encogidos hacia dentro · Story
@@ -327,7 +330,11 @@ manos y mirada descritas de lo que se ve en el fotograma, no de memoria.
   `estilo_archive`.
 - `curl` a `archive.org/metadata/...` del compilado de cinemáticas: usó las miniaturas `.thumbs/` ya
   generadas por Internet Archive (una por minuto) para mirar 10 puntos del vídeo sin descargar 3h46m de
-  vídeo — ahorro grande de disco y tiempo.
+  vídeo — ahorro grande de disco y tiempo. Para los 3 fotogramas citados en los puntos 2 y 4 se repitió
+  la extracción con `ffmpeg -ss <s> -i <url_directa_.mp4>` (Internet Archive acepta *HTTP range* en su
+  CDN, `dn711203.ca.archive.org`) para tener el fotograma real en 1920×1080 en vez de la miniatura
+  720×406: en un caso (min. 39:54) esto corrigió la lectura de color y de quién aparece en el plano —
+  la miniatura comprimida sugería una antorcha cálida que en el fotograma real no se ve así.
 - Wikitext de Doblaje... no aplica aquí (es del investigador de voz). Wikitext de
   `aplaguetale.fandom.com` (API `action=parse&prop=wikitext`) para las dos páginas de banda sonora y para
   «Child of Embers».
@@ -338,8 +345,9 @@ manos y mirada descritas de lo que se ve en el fotograma, no de memoria.
 - No se usó YouTube en ningún momento (bloqueado «iniciar sesión» desde este servidor, confirmado por el
   investigador de imagen también).
 
-Sigue: nada obligatorio pendiente — tráiler(es) ✅, 3+ escenas icónicas ✅ (10 citadas), luz/paleta de
-sitios con hex ✅, música con detalle de compositor/intérpretes/tema recurrente ✅, vídeos con minuto ✅,
-poses de Amicia y Hugo (8 y 6) con minuto y para qué sirven ✅. Quedan como extra opcional (ver «No
-encontré»): mirar fotograma a fotograma los 7 tráilers de Steam restantes y los vídeos de análisis en
-YouTube cuando el bloqueo de login se libere.
+**Parte terminada** (sin `Sigue:` pendiente): tráilers mirados fotograma a fotograma ✅ (5, con fichas en
+`episodios.md`), 10+ escenas icónicas con capítulo/minuto ✅, luz/paleta de 9 sitios con hex medido ✅,
+música con compositor/intérpretes/tema recurrente/diseño de sonido citado ✅, vídeos con minuto exacto ✅,
+poses de Amicia (7) y Hugo (6) con minuto y para qué sirven ✅. Lo que queda es extra opcional, listado
+arriba en «No encontré» con ⚠️ (los 7 tráilers de Steam no procesados y los vídeos de análisis de
+YouTube, bloqueado desde este servidor).

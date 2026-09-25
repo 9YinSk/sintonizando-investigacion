@@ -45,20 +45,20 @@
     "licencia": "distribución oficial en Dailymotion, sin login"
   },
   {
-    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_002394.jpg",
-    "fuente": "Internet Archive, miniatura oficial del ítem (una por minuto) de \"A Plague Tale -Innocence All Cutscenes In 4K\"",
-    "ancho": 720,
-    "alto": 406,
-    "que_es": "Fotograma minuto 39:54: Amicia grita \"Quick, the light! THE LIGHT!\" con la antorcha en alto en un pasadizo de piedra",
-    "para_que": "Punto 2, 4 y 14: escena icónica, paleta fuego-vs-piedra medida (#2D1D15/#57372A), pose de alerta",
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29.mp4",
+    "fuente": "Internet Archive, vídeo original (fotograma sacado con ffmpeg + HTTP range en el segundo 2394)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma minuto 39:54: interior de capilla en penumbra, una figura adulta señala hacia algo colgado del techo pidiendo luz (\"Quick, the light! THE LIGHT!\")",
+    "para_que": "Punto 2 y 4: escena icónica, paleta neutra/fría medida (#1D1D1B/#242421), interior sin fuego en plano",
     "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
   },
   {
-    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_006595.jpg",
-    "fuente": "Internet Archive, miniatura oficial del ítem",
-    "ancho": 720,
-    "alto": 406,
-    "que_es": "Fotograma minuto 1:49:55: Amicia cuida/venda a Hugo sentados en un jardín con mosaico romano",
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29.mp4",
+    "fuente": "Internet Archive, vídeo original (fotograma sacado con ffmpeg + HTTP range en el segundo 6595)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma minuto 1:49:55: Amicia (de espaldas, trenza) sentada junto a Hugo en un jardín con mosaico romano, diálogo \"The tree?\" en pantalla",
     "para_que": "Punto 2, 4 y 14: escena de cuidado, paleta cálida clara medida, pose de Amicia y Hugo",
     "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
   },
@@ -90,10 +90,10 @@
     "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
   },
   {
-    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_013494.jpg",
-    "fuente": "Internet Archive, miniatura oficial del ítem",
-    "ancho": 720,
-    "alto": 406,
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29.mp4",
+    "fuente": "Internet Archive, vídeo original (fotograma sacado con ffmpeg + HTTP range en el segundo 13494)",
+    "ancho": 1920,
+    "alto": 1080,
     "que_es": "Fotograma minuto 3:44:54: epílogo nevado tras el capítulo XVII \"For Each Other\", carreta abandonada entre árboles helados",
     "para_que": "Punto 2 y 4: escena de cierre y paleta fría pálida de amanecer",
     "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"

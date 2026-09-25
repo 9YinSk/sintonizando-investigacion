@@ -1741,3 +1741,189 @@ Todo lo dudoso, junto. Nada de esto se inventó: son huecos.
 **Bloqueado desde el servidor**: YouTube (pide iniciar sesión), ArtStation,
 TV Tropes, TCRF, IGDB (403) y una vez Wayback (el proxy cortó).
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Dónde y por qué |
+|---|---|---|
+| 1. Arte oficial, en cantidad y variado | ✅ | Punto 1: key art de los dos juegos, retrato oficial (confirmado por Steam), 6 fondos oficiales 8K, 19 capturas de Steam miradas una a una, logos, 4 artistas de ArtStation (403, citados por el buscador), 82 imágenes de la wiki en las hojas. ⚠️ sin artbook (no encontrado) |
+| 2. Fotogramas de escenas icónicas (1080p, minuto) | ✅ | Punto 2: 9 fotogramas propios en 1920×1080 de los tráileres de Steam y 18 momentos con minuto en Dailymotion; corregidos por el redactor los que la parte de vídeo llamó «Hela» (§3). No hay capítulos: es un juego |
+| 3. Fan art y 3D con licencia | ✅ | Punto 3: 3 modelos CC BY de Sketchfab (licencia por la API), 3 fan art con origen, foto CC BY-SA de Garm, 19 capturas CC BY-NC de Flickr. ⚠️ sin modelos libres de Gramr ni del espejo |
+| 4. Fondos, luz, paleta hex, texturas | ✅ | Punto 4: 9 fotogramas y 5 sitios con paleta medida con `estilo.py`; Islandia con 5 fuentes; texturas CC0 de ambientCG |
+| 5. Tipografía, una por uso, con tildes, ñ, ¿, ¡ | ✅ | Punto 5: letras reales de las dos webs oficiales (CSS leído), tabla por uso, Cinzel, Outfit y Noto Sans Runic comprobadas con fontTools. ⚠️ fuente de los logos sin identificar; Lato sin comprobar; no hay globos ni onomatopeyas escritas (no aplica) |
+| 6. Cómo hablan en pantalla (cuadro de diálogo) | ✅ | Punto 6: subtítulo sin caja **mirado en 4 imágenes** con su texto, indicador de dirección de HB2, voces binaurales como interfaz, cómic sin globos, y qué cuadro usar en la lámina |
+| 7. Personajes y encuestas de popularidad | ⚠️ | Punto 7: **no hay encuestas** (buscado en inglés y español); se mide con Danbooru (5 de 5, Senua), BAFTA a Mejor intérprete y lo que dicen reseñas y Reddit de Druth |
+| 8. Doblaje latino, frases y voces en dos fuentes | ⚠️ | Punto 8: **no hay doblaje latino** (Doblaje Wiki, 3DJuegos LATAM, LEVEL UP): no hay actor, estudio ni director que citar. Voces originales con fuentes (4 con una sola ⚠️) y 9 frases textuales en inglés con audio, subtítulo o minuto. Falta el texto exacto de los **subtítulos en español** (hay que verlo en el juego) |
+| 9. Música y sonido | ✅ | Punto 9: compositores de los dos juegos, tema del jefe final, canción de créditos, Heilung, equipo y técnica binaural con nombres. ⚠️ qué tema suena en el segundo exacto de la rendición; «Seidh» con una fuente |
+| 10. Vídeos con minuto y tendencias | ⚠️ | Punto 10: tráileres oficiales, making of visto con minuto, charla de GDC, 3 tendencias con varias fuentes. **TikTok sin mirar** y el tráiler de 2019 sin bajar (YouTube pide iniciar sesión) |
+| 11. Videojuegos: interfaz, menús, cajas | ✅ | Punto 11: ficha de los dos juegos, Focus, puertas de runas, piedras rúnicas, Rostros Escondidos, Dark Rot Mode. ⚠️ menú principal sin captura; TCRF 403 |
+| 12. Lo que ama el fandom y qué NO hacer | ✅ | Punto 12 y §2: farol del *permadeath*, auriculares, «los Otros», el giro de Hela, las runas ocultas; 7 «no hacer» y 8 reglas de respeto con la psicosis |
+| 13. Descripción profunda de cada personaje | ✅ | Punto 13: Senua a fondo (carácter, miedos, cómo habla, se ríe, se enfada, saluda, voz medida, cara en 7 emociones con minuto) y 12 secundarios; dinámicas. ⚠️ cara de vergüenza no encontrada |
+| 14. Poses analizadas (6-10) | ✅ | Punto 14: 10 poses con minuto y enlace, patrón de manos y tabla presentar / explicar / celebrar / regañar / pensar / animar. ⚠️ no hay pose de celebrar alegre (se da la más cercana) |
+| 15. Vestuario con hex | ✅ | Punto 15: traje de HB1 y de HB2 de la wiki y mirado, 6 medidas con hex, guía oficial de cosplay |
+| 16. Paisajes y fondos de pantalla | ✅ | Punto 16 y 1.2: 6 fondos oficiales 8K, capturas de paisaje, 12 sitios de la wiki, 4 fondos de fans re-medidos (11 más en `referencias.json` ⚠️ sin re-medir) |
+| 17. Guía para IA de imagen y de texto | ✅ | Punto 17 (del redactor): estilo, rasgos fijos de los dos juegos con hex, 5 descripciones en inglés, palabras que ayudan y estropean, referencias; IA de texto con reglas de cada voz, 10 frases reales por emoción y vocabulario de gestos. ⚠️ no hay frases alegres en el juego |
+| 18. Estilo y técnica, y cómo replicarlo | ✅ | Punto 18: captura en tiempo real con cifras (fxguide, Engadget, Inverse, PCGamesN), UE5 y MetaHuman, encuadres (TheGamer, The Fourth Focus), recetas de Photoshop y Blender |
+| 19. Texturas 2D | ✅ | Punto 19: pintura agrietada, triskel CC0, cuero y roca CC0, pinceles grunge, emblemas y marcas. No hay tramas de manga (no aplica). ⚠️ licencia de los pinceles de una sola web |
+| 20. Gustos y detalles de cada personaje | ⚠️ | Punto 20: **no hay *databook***: sin cumpleaños, comida ni altura (buscado). Tabla con lo que llevan, aman, temen y cómo se ven, de la wiki y Wikipedia |
+| 21. Por qué la aman y escenas que hacen llorar | ✅ | Punto 21: reseñas, 5 BAFTA, ventas, 3 hilos de Reddit con votos, 4 escenas con qué pasa, por qué duele, cómo está hecha y cómo reaccionó la gente. ⚠️ música y minuto exactos de dos escenas; no hay escenas de risa |
+| 22. Fan dubs y comunidad hispana | ⚠️ | Punto 22: un solo fandub (sin vistas: YouTube bloqueado); no hay covers (no hay opening cantado); sin memes hispanos propios. Terreno virgen para el servidor |
+| 23. Colaboraciones, figuras y cosplay | ⚠️ | Punto 23: consola Xbox a medida, cómic de Valiant, guía oficial de cosplay. **No encontré** figuras oficiales ni cruces con otros juegos; cafés y eventos no se buscaron a fondo |
+| 24. Obras parecidas y láminas vecinas | ✅ | Punto 24: *Ex Machina* (dos fuentes), 7 obras de tono parecido, 3 biblias vecinas (God of War, Vinland Saga, A Plague Tale) |
+| 25. Mundo, historia y símbolos | ✅ | Punto 25: 5 reglas, la historia de los dos juegos, espejo, Gramr, piedras, marcas y vocabulario. ⚠️ «nueve años» sin confirmar |
+| 3 conceptos de lámina | ✅ | A ⭐ #📖・textos (piedra rúnica), B #🎧・demos (espejo de hierro), C #🎯・reto-de-la-semana (cara en la roca), con objeto, sitio, pose, cuadro, letra, textos, lámina 2 y profundidad. C comparte canal con Naruto y Haikyuu (sólo nota) |
+| 40 fuentes distintas | ✅ | **78 webs distintas enlazadas** en esta biblia (`revisar.py`); sólo la parte de vídeo cuenta 31 fuentes propias |
+| Fuentes oficiales (web, staff, making of) | ✅ | hellblade.com y senuassaga.com (CSS), Steam, Xbox Wire (3 reportajes), entrevistas a Antoniades, Matthews, Attwell y García Díaz, making of visto, GDC. Sin comentarios de Blu-ray (es digital) ni artbook |
+| Otros idiomas | ⚠️ | inglés y español (3DJuegos LATAM, LEVEL UP, NextN, Kotaku en Español). Japonés, coreano y chino **no aplican**: obra británica. Wikipedia en dos idiomas |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Hellblade Wiki por la API (más de 30 páginas), Wikipedia, Doblaje Wiki. **TV Tropes y TCRF 403; Wayback cortado** por el proxy |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift (con votos), foros de Steam (6 hilos), Typography.Guru y fontgeek. Sin 4chan ni Discord (no hizo falta) |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation 403 (citado por el buscador), DeviantArt y ArtStation como origen del fan art de Safebooru, Wallhaven, Danbooru. **Pixiv no se buscó** |
+| Vídeo (análisis, staff, TikTok) | ⚠️ | 2 tráileres de Steam en 1080p, 4 clips de Dailymotion plano a plano, making of con minuto. **YouTube y TikTok bloqueados** |
+| Código y recursos (GitHub, Sketchfab, texturas) | ✅ | GitHub (guía de gráficos de Kataiser), Sketchfab por la API, ambientCG, FreeSVG, Google Fonts con fontTools |
+| Doblaje latino (Doblaje Wiki, ANMTV, créditos) | ✅ | Doblaje Wiki por la API (sin página), prensa hispana; **no hay doblaje**, dicho como pide el encargo |
+| Hojas de contacto (máx. 3, < 3 MB) | ✅ | `arte_01.jpg` 254 KB, `personajes_01.jpg` 583 KB, `fondos_01.jpg` 395 KB; explicadas número a número en 1.5 |
+| `referencias.json` (mínimo 20, todas las útiles) | ✅ | **207 entradas**, las mejores primero: las de los conceptos y el retrato oficial; luego Steam, subtítulos, vídeos con `?t=`, audios originales, 3D, texturas, letras, fondos de fans, Flickr y las 82 de la wiki. Corregidas 2 descripciones de `imagen.json` y los tamaños de Dailymotion (512×288). ⚠️ audios, modelos, letras y texturas sin ancho ni alto (no son imágenes). Fuera: los artículos de texto (están enlazados aquí) |
+
+## Bitácora de búsqueda
+
+### Cómo se trabajó (25-sep-2026)
+- **Paso 0, recolector** (`recolectar.py`, gratis): `datos-*.md` y
+  `datos.json` con la wiki, Danbooru, Safebooru, Wallhaven, Sketchfab,
+  Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam y Reddit.
+  Fallaron AniList (no aplica: es un juego) y Doblaje Wiki (no hay página). La
+  wiki que usó era la mala: la buena es `thehellblade.fandom.com`.
+- **Paso 1, cuatro investigadores** (imagen, vídeo, voz, texto), cada uno con
+  su parte en `partes/`.
+- **Paso 2, redactor**: leyó las cuatro partes, los `datos-*`, el encargo, las
+  reglas del dueño, el inventario y `DECISIONES.md`; **miró** las 3 hojas, 8
+  fotogramas del tráiler de HB1 en 1080p, las hojas de `episodio.py` de los dos
+  tráileres, las 19 capturas de Steam y 4 imágenes de la wiki con subtítulo;
+  consultó la API de la wiki una vez (para confirmar el dominio). Con eso
+  corrigió 9 datos (§3) y escribió esta biblia y `referencias.json`.
+
+### Parte de imagen (puntos 1, 3, 15, 16, 19, 23)
+- `investigar_serie.py --wiki hellblade --paginas` con 26 páginas: 96
+  imágenes, 82 grandes, 2 hojas (`personajes_01`, `fondos_01`).
+- API de Fandom (`allpages`, wikitext de Senua, Dillion, Druth, Astridr,
+  Fargrímr, Freyslaug), en inglés.
+- API de Sketchfab (licencia y autor de 3 modelos), API de Steam (`appdetails`
+  414340 y 2461850), `senuassaga.com/media` con `curl` (fondos 8K medidos
+  leyendo 64 KB de cabecera), API de ambientCG.
+- Buscador (inglés, 10): «Senua ArtStation Ninja Theory concept art»,
+  «"Hellblade" "Senua's Sacrifice" press kit key art official», «Senua's Saga
+  Hellblade II press kit screenshots official», «Senua Hellblade cosplay woad
+  paint», «Senua Hellblade official statue figure Gaming Heads», «Hellblade
+  Senua crossover collaboration Fortnite OR "Dead by Daylight" OR gacha»,
+  «"Senua" Hellblade cosplay best "materials" armor build photos»,
+  «Hellblade Senua's Sacrifice artbook "The Art of" OR making of book»,
+  «triskelion Pictish knotwork pattern free vector SVG», «Xbox Series X
+  Hellblade II special edition console controller skin design».
+- Falló: ArtStation 403 (tres páginas), IGDB presskit 403, Facebook (no deja
+  leer). No usó YouTube.
+
+### Parte de vídeo (puntos 2, 4, 9, 10, 14)
+- **Vídeo mirado de verdad**: tráiler oficial de HB1 (Steam, 1080p, 2:01) y de
+  HB2 (Steam, 1080p, 2:34) plano a plano con `fotogramas.py --cortes`; ficha
+  de `episodio.py` con Whisper de los dos (`partes/episodios.md`); «Hela
+  Trailer» y «Ragnarok Trailer» de Dailymotion. 9 fotogramas en 1920×1080 y
+  más de 15 en baja resolución, mirados con Read.
+- `estilo.py` en 9 fotogramas; `yt-dlp -F` para comprobar resoluciones; API de
+  Steam para el CDN de vídeo; ambientCG.
+- Buscador (inglés y español, 14): «Hellblade 2 soundtrack composer Andy
+  LaPlegua Heilung», «Hellblade Senua's Sacrifice binaural audio GDC talk
+  "voices in your head"», «Senua's Saga Hellblade II Orkney Iceland location
+  scanning photogrammetry», «Hellblade Senua's Sacrifice ending song
+  "Illusion" VNV Nation credits», «Hellblade 2 composers Matteo Tummino Jamie
+  Molloy soundtrack», «Hellblade 2 Heilung soundtrack track name which scene»,
+  «"Senua's Saga: Hellblade II" reveal trailer "The Game Awards" 2019 Heilung
+  "In Maidjan"», «Hellblade Senua's Sacrifice environment inspired Iceland
+  Norway landscape art director interview», «… photogrammetry», «… sound
+  effects onomatopoeia whispers reviewers describe», «… most emotional scene
+  ending reaction Reddit crying», «… soundtrack track name Hela final boss
+  surrender scene music», «… "Rot" curse hand mechanic permadeath trailer
+  TikTok viral», «… Paul Fletcher psychosis consultant Wellcome Trust
+  neuroscientist».
+- Leídas con WebFetch: A Sound Effect, MCV/Develop, Xbox Wire («The
+  Wanderers»), GamesRadar (truncada).
+- Falló: YouTube (iniciar sesión) para el tráiler de 2019 y el documental de
+  la música; un *longplay* de Internet Archive (varios GB, cortado y borrado).
+
+### Parte de voz (puntos 7, 8, 12, 13, 20, 21, 22)
+- API de la wiki (inglés): Senua, Druth, Dillion, Zynbel, Valravn, Hela,
+  Psychosis, los dos juegos, Galena, Astridr, Fargrímr, `allpages`.
+- **Doblaje Wiki por la API** (español): `action=parse` con 4 títulos → no
+  existe; `list=search` con «Hellblade» y «Senua» → nada.
+- Wikipedia en inglés (los dos juegos); prensa en español con `curl`:
+  3DJuegos LATAM, LEVEL UP, NextN, Kotaku en Español.
+- **Audio oído**: 6 `.mp3` originales de la wiki con `voz.py` (registro,
+  semitonos, velocidad, Whisper).
+- Reddit por Arctic Shift (inglés): «favorite character», «Druth», «cried»,
+  «emotional». Danbooru: `druth`, `dillion`, `zynbel`, `hela_(hellblade)`.
+- Buscador (5): BAFTA 2018, doblaje latino Hellblade, fandub español,
+  personaje favorito, artbook oficial.
+- Falló: YouTube (fandub sin vistas), TV Tropes 403, Wayback cortado por el
+  proxy (dos intentos).
+
+### Parte de texto (puntos 5, 6, 11, 18, 24, 25)
+- API de la wiki: Focus, Lorestones, Trials_of_Odin, Hidden_Faces, Dark_Rot,
+  Psychosis, Script, Gramr, Zynbel, Huldufólk, Northmen, Iron_Mirror, Hela,
+  Helheim, Surtr, Valravn, los dos juegos, `allpages` (70 páginas) e
+  `imageinfo`.
+- **CSS oficial leído**: `use.typekit.net/tvg7fkw.css` (hellblade.com) y
+  `senuassaga.com/_next/static/css/`. **fontTools**: Cinzel, Outfit, Noto Sans
+  Runic.
+- Imágenes miradas: `Iron_Mirror.png`, `Hidden_Faces.png`.
+- Buscador (inglés, unas 24): tipografía («Hellblade Senua's Sacrifice logo
+  font typeface identify», «… rune alphabet puzzle Pictish symbols meaning»,
+  «… real Norse Elder Futhark or invented glyphs», «"Hellblade" font
+  identification forum typography subtitle body text», «Hellblade 2 Senua's
+  Saga logo font title typeface», «… subtitles design font accessibility»,
+  «… caniplaythat subtitles»); interfaz («… minimal HUD no interface design
+  philosophy immersion», «Hellblade 2 combat interface HUD no health bar death
+  mechanic permadeath rumor», «… permadeath fake myth confirmed Ninja Theory
+  Antoniades», «"Hellblade" "Digital Comic" Ninja Theory motion comic
+  panels»); técnica (captura en tiempo real, UE4 y UE5, fotogrametría,
+  binaural y dearVR, Paul Fletcher); mundo (Senuna y los pictos, piedras
+  pictas, argumento de HB2, gigantes); obras parecidas (TCRF, «games like
+  Hellblade», influencias de Antoniades).
+- Japonés, coreano y chino: **no aplican** (obra británica).
+- Falló: `tcrf.net` 403 (Cloudflare, dos páginas), la wiki por navegador 403
+  (sólo la API), Creative Bloq (sólo el menú).
+
+### Fuentes consultadas, por tipo (enlazadas en esta biblia)
+- **Oficiales**: hellblade.com, senuassaga.com, Steam (tienda, noticias,
+  capturas, tráileres), Xbox Wire (3), Xbox.com, Valiant, GDC.
+- **Universidad y salud mental**: University of Cambridge, Cambridge BRC,
+  Cambridge Independent, Safe In Our World, BBC Science Focus.
+- **Wikis**: Hellblade Wiki (API), Wikipedia, Doblaje Wiki (API).
+- **Prensa en inglés**: PCGamesN, fxguide, Engadget, Inverse, TechAcute,
+  Windows Central, Gameranx, Game Rant, GamesRadar+, TheGamer, NME,
+  FandomWire, GamesBeat, TechSpot, ComicBook, ComicsBeat, Mic, Forbes, Louder
+  Sound, MCV/Develop, TechRaptor, Can I Play That?, Family Gaming Database,
+  Inside the Magic, The Scotsman, Logos-World, Hyperpix, Ranker, The Fourth
+  Focus, Medium (2), Heavenly Nariko, Gaming Conceptz.
+- **Prensa en español**: 3DJuegos LATAM, LEVEL UP, NextN, Kotaku en Español.
+- **Foros**: Reddit (Arctic Shift), foros y guías de Steam.
+- **Arte**: ArtStation (buscador), DeviantArt, Safebooru, Danbooru,
+  Wallhaven, Concept Art Association, Flickr y Wikimedia (Openverse).
+- **Vídeo y audio**: Steam CDN, Dailymotion (6 clips), YouTube (sólo
+  títulos), Internet Archive, Spotify, MusicBrainz, A Sound Effect.
+- **Recursos**: GitHub, Sketchfab, ambientCG, FreeSVG, MyPhotoshopBrushes,
+  Google Fonts, Anicossky.
+
+### Lo que NO encontré (y dónde lo busqué)
+- Doblaje al español: Doblaje Wiki (API, 4 títulos y búsqueda), ANMTV, prensa
+  hispana. **No existe según tres fuentes**; es el único «no hay» firme.
+- Encuestas de popularidad: Reddit y web, en inglés y español.
+- Artbook, *databook*, figura oficial, cruces: buscador en inglés, foros de
+  Steam.
+- Modelos libres de objetos: API de Sketchfab.
+- Fuente de los logos: dafont, fontgeek, Typography.Guru.
+- Contenido descartado: TCRF (403).
+- Fandubs con vistas y TikTok: YouTube y TikTok bloqueados.
+- Cara de vergüenza, menú principal, subtítulos en español: hace falta ver el
+  juego.
+
+### Confirmado y dudoso
+- ✅ = dos fuentes o comprobado mirando o midiendo (fotograma, CSS, fontTools,
+  API). ⚠️ = una fuente, transcripción automática o lectura propia.
+- Todo lo dudoso está junto en «Lo que no pude verificar».

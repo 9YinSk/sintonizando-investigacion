@@ -1,0 +1,1865 @@
+[
+ {
+  "url": "https://w.wallhaven.cc/full/vm/wallhaven-vm8gql.jpg",
+  "fuente": "Wallhaven; es arte oficial (el mismo retrato sale con el logo en la captura oficial de Steam ss_0161d…) · hoja arte_01 n.º 15",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Retrato oficial de Senua (HB1): pintura woad azul #29394A, tocado de plata con piedra turquesa, runas color óxido a la izquierda",
+  "para_que": "LA cara de Hellblade: referencia de cara, pintura y tocado del 1; de aquí se midió el hex de la pintura (punto 15, 17)",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no pegar"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_dabe173084173e66bc9d493d94f2b3b951214658.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340) · hoja arte_01 n.º 8",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua adulta de HB1 completa: woad en los ojos, raya en la barbilla, tocado con piedra turquesa, cuello de lobo; mira arriba con la boca entreabierta (NO es Senua niña, corregido por el redactor)",
+  "para_que": "mejor referencia de vestuario del 1 (punto 15); pose de presentar mirando arriba (punto 14); cara de los conceptos A y B",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/SenuaArmy_8K.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 2",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Senua's Army»: Senua al frente de una fila de guerreros, contraluz; rayas rojas y boca negra (HB2)",
+  "para_que": "pose de liderar y grupo (el dueño pide poses con otros); vestuario del 2; concepto C",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/SenuaChant_8K.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 3",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Senua Chant»: primer plano gritando o cantando, dientes, rayas rojas, luz de fuego (#24170A, #3C2410, #9A5D32)",
+  "para_que": "voz, grito, canto: la imagen más «de voz» de la saga; pintura del 2",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/a/aa/Lorestone.jpg.jpeg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 48",
+  "ancho": 792,
+  "alto": 1280,
+  "que_es": "Piedra rúnica (Lorestone): tótem con anillo de runas rojas del Futhark alrededor de una runa que brilla",
+  "para_que": "OBJETO del concepto A (#textos): modelar la piedra y su anillo de runas en Blender",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d4/Iron_Mirror.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 71",
+  "ancho": 1000,
+  "alto": 715,
+  "que_es": "El espejo de hierro de Senua, colgado del cinturón, con espiral triple (triskel) grabada; basado en un espejo celta real",
+  "para_que": "OBJETO del concepto B (#demos); símbolo picto más importante (punto 25)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/8/87/Full_charge.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 80",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "El espejo con la espiral triple encendida en turquesa (#0E6D79, #61AAB9 sobre #0B0505): Focus cargado",
+  "para_que": "brillo y color del espejo para el concepto B; paleta (punto 15)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/f1/Hidden_Faces.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, vía API imageinfo); mirada por la parte de texto",
+  "ancho": 690,
+  "alto": 388,
+  "que_es": "Un Rostro Escondido de Hellblade II: cara tallada en la roca",
+  "para_que": "OBJETO del concepto C (#reto-de-la-semana)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d7/Hellblade_II.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 1",
+  "ancho": 2732,
+  "alto": 4096,
+  "que_es": "Key art vertical oficial de Senua's Saga: Hellblade II: Senua con las manos en la cara; casi monocromo azul-negro (#040609, #0C1017)",
+  "para_que": "estilo y portada del 2; referencia de luz oscura",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_b794c2a9bcef64ff626ae726c19ceed94d15a234.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850) · hoja arte_01 n.º 14",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua de espaldas ante un lago al amanecer, trenza, chaleco de cuero (HB2) (no es «Senua con un aliado»: corregido)",
+  "para_que": "pose de espaldas y de explorar (concepto C); fondo cálido de Islandia",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/1f/HelaBargain.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 69",
+  "ancho": 1200,
+  "alto": 674,
+  "que_es": "Senua en azul suplicando a Hela, con el subtítulo del juego en pantalla: blanco, sans, centrado, sin caja",
+  "para_que": "EL cuadro de diálogo del juego visto de verdad (punto 6); frase textual (punto 8)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=81",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler de HB1, 1:21: Senua con el brazo estirado y la mano abierta hacia una luz azul; luego empuña la espada azul",
+  "para_que": "pose 10 (explicar, señalar un objeto): pose del concepto A",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=7",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler de HB2, 0:07: Senua de espaldas ante el mar con niebla tras el naufragio (saturación 7 %)",
+  "para_que": "pose 5 y fondo del concepto C; paleta de costa",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://theinsightproject.azureedge.net/uploads/2020/12/SenuaFire_8K.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 4",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Senua Fire»: Senua de perfil junto a una hoguera",
+  "para_que": "luz de hoguera para el concepto B; pose de pensar",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://theinsightproject.azureedge.net/uploads/2019/12/Volcano_8K-1.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 6",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Volcano»: Islandia con volcán humeante, sin personaje",
+  "para_que": "fondo de paisaje listo (concepto C)",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fc/Senua_in_golden.png",
+  "fuente": "Hellblade Wiki (datos.json)",
+  "ancho": 1947,
+  "alto": 1088,
+  "que_es": "Senua en la visión dorada: tocado dorado con gemas turquesa, cuello de piel, prado",
+  "para_que": "cara serena (punto 13); luz cálida; confirma que la «Hela» del tráiler 0:29 es Senua",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_1b594712d6bb9c5701692cb4f53d4072bd8feae0.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340) · hoja arte_01 n.º 7",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Silueta de Senua a contraluz dorado junto a un árbol con partículas (#A2741D, #CEA74F, #F8F4E8)",
+  "para_que": "la única escena cálida y luminosa; canal tranquilo; paleta (punto 15)",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_0161d2915ff43136bc79ec3ae3c91c00eb2551c7.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Logo «HELLBLADE / SENUA'S SACRIFICE» en capitales romanas con el retrato oficial y runas",
+  "para_que": "tipografía del título (punto 5); prueba de que el retrato vm8gql es oficial",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/75/Hellblade_1_cover.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 70",
+  "ancho": 720,
+  "alto": 1080,
+  "que_es": "Portada oficial de Hellblade: Senua's Sacrifice (#060404 fondo, #CDC1B8 piel)",
+  "para_que": "portada, paleta oscura (punto 1, 15)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/da/Jarnvior.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 26",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Jarnvior, el bosque de HB1, con niebla azul-gris (#8D99AE)",
+  "para_que": "FONDO del concepto A",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/dd/Reykjanesta.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 46",
+  "ancho": 1672,
+  "alto": 941,
+  "que_es": "Reykjanesta (HB2), atardecer azul (#556E8A)",
+  "para_que": "FONDO del concepto C",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/c3/Helheim.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 22",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Helheim: niebla blanca-hueso (#CEB4A7, #EDDCCE)",
+  "para_que": "fondo del 1; paleta clara",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/Arms_8K.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 1",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Arms»: postes con trofeos de guerra colgados en la niebla",
+  "para_que": "fondo duro sin personaje",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/Skulls_8K.jpg",
+  "fuente": "senuassaga.com/media (oficial) · hoja arte_01 n.º 5",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo oficial 8K «Skulls»: calaveras y huesos en el barro, niebla",
+  "para_que": "suelo y fondo sin personaje",
+  "licencia": "fondo de pantalla oficial (senuassaga.com/media), © Xbox Game Studios / Ninja Theory; uso no comercial, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_fbb6d36a25dd1610acc98d0e10d6c6e1cc4ee00a.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850) · hoja arte_01 n.º 12",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua ante un reflejo simétrico con dos discos (HB2)",
+  "para_que": "composición del reflejo para el concepto B",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_a900f22cf32635e1e3177c8954a5ddb56a8d317d.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850) · hoja arte_01 n.º 13",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Combate sobre lava y llamas; disco naranja en la cadera de Senua (#882F26, #CF5F53, #FCA82F)",
+  "para_que": "fuego vivo para fondos; paleta cálida",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_3a6935dd5e7a92b21d73521d9c0ca13b88bafa7d.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850) · hoja arte_01 n.º 11",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua con arma frente a un guerrero con máscara de cuernos y garrote ardiendo, de noche (parece un rival)",
+  "para_que": "pose de enfrentarse; ropa del 2",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_067bf57d04ccc1322184d6a33fd5284e2252a6b9.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ojo azul de Senua en primer plano con una mano roja borrosa delante",
+  "para_que": "estilo cámara en mano; cómo sugerir las voces con desenfoque (punto 17)",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_10c82e3cc0f38c433975168679e93a91310ef466.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua de espaldas en un valle de roca, noche azul",
+  "para_que": "fondo nocturno del 2",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_fcb80f5cb3eec049b95cdfde2988f919289f9c31.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sendero nocturno con postes y antorchas, figura lejana en la niebla",
+  "para_que": "fondo con profundidad",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_1428e5fca7e9670c4f63976f5226ff4a006ba45f.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 2461850)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua de espaldas en un desfiladero de roca, torre lejana, luz dorada",
+  "para_que": "fondo con luz cálida del 2",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_c873e1a5f9e9218d6d3b2038b7063489879d315d.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua de espaldas en un pantano con niebla y figuras lejanas (HB1)",
+  "para_que": "fondo con niebla; pose de espaldas",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_6d653f7215d5a60330a85c27116f07a0c5dbc670.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340) · hoja arte_01 n.º 9",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Combate contra un guerrero envuelto en llamas (HB1)",
+  "para_que": "pose de combate; fuego",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_e028a26ea54438d898a574ebe73d1c633c7cc8eb.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340) · hoja arte_01 n.º 10",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Comparación «OLD / UPDATED» del parche gráfico, orilla con postes (HB1)",
+  "para_que": "fondo de orilla; cómo mejoró la luz",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_f5c08e784ff587ad38d775c59ca6ad4bf6166ac9.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Primer plano de Senua sucia, pintura corrida, mirada de lado (HB1)",
+  "para_que": "cara cansada; la pintura que se lava (punto 15)",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_1d4bdcff22d37c9607beda20bf2d5bb2989b55f6.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua de espaldas ante un árbol en llamas con ofrendas colgando, agua (HB1)",
+  "para_que": "escena icónica de fuego",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_3d5d9400db904c5c9a94f0b36f52e9d3dab20eb2.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua pequeña en una cueva dorada con una mano gigante en primer plano (HB1)",
+  "para_que": "escala y primer plano (profundidad)",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_01a81f3bd0e4e9586cdd5289449417614a1c8e5c.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua con la espada ante una figura de plumas en azul noche (HB1)",
+  "para_que": "pose de combate; Valravn",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_4b1defc3237b654c8baaa2161c9622eda4e38dfa.1920x1080.jpg",
+  "fuente": "Steam (API appdetails, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Combate contra un enemigo con hacha, luz blanca (HB1)",
+  "para_que": "pose de combate en luz clara",
+  "licencia": "captura oficial de Steam, © Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/b/b0/Dillion_5.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 61",
+  "ancho": 1279,
+  "alto": 716,
+  "que_es": "Visión con subtítulo en pantalla: «This is your fault. You brought this plague to us!»",
+  "para_que": "cuadro de diálogo (punto 6); frase de enfado (punto 17)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/2c/Dillion_7.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 58",
+  "ancho": 1278,
+  "alto": 717,
+  "que_es": "Prado dorado con subtítulo: «You fought for love and spoilt by your darkness within…»",
+  "para_que": "el subtítulo se lee sobre fondo claro (punto 6)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d3/Hela_7.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 65",
+  "ancho": 1277,
+  "alto": 715,
+  "que_es": "Suelo de Helheim con subtítulo: «This now will be your story to witness.»",
+  "para_que": "cuadro de diálogo (punto 6)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fb/Gramr.png",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "La espada Gramr en manos de Senua, forjada por Odín",
+  "para_que": "Punto 25.4 (objeto icónico); punto 11.2 (arma de combate y las Cuatro Pruebas de Odín)",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/77/TheDarkRot.gif",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 600,
+  "alto": 337,
+  "que_es": "Animación de la Corrupción Oscura (Dark Rot) infestando el brazo de Senua",
+  "para_que": "Punto 6.1 (el indicador de 'salud' diegético que sustituye al HUD); punto 18.6 (cómo pintar la corrupción)",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/e4/Focus.gif",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 569,
+  "alto": 320,
+  "que_es": "Senua usando Focus para ralentizar a un enemigo en combate",
+  "para_que": "Punto 11.2 (la mecánica central del juego, ligada al espejo de hierro)",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/13/Mark_of_Valravn.png",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 164,
+  "alto": 189,
+  "que_es": "El símbolo/sello 'Marca de Valravn' que Senua obtiene tras vencer al dios de la ilusión",
+  "para_que": "Punto 25.3 (emblema/símbolo, 'llave narrativa' para abrir la Puerta a Helheim)",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/2d/Mark_of_Surtr.png",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 70,
+  "alto": 100,
+  "que_es": "El símbolo/sello 'Marca de Surtr' que Senua obtiene tras vencer al gigante de fuego",
+  "para_que": "Punto 25.3 (emblema/símbolo, segunda 'llave narrativa')",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/3/39/GoddessHela.png",
+  "fuente": "Hellblade Wiki (vía API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hela, diosa de los muertos y gobernante de Helheim, en su enfrentamiento con Senua",
+  "para_que": "Punto 25.2 (antagonista final del primer juego)",
+  "licencia": "© Ninja Theory; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/95/Hellblade_2_Runic_logo.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 82",
+  "ancho": 647,
+  "alto": 679,
+  "que_es": "Logo rúnico oficial de Hellblade II: signo blanco sobre verde oliva",
+  "para_que": "emblema tallado en madera o piedra (punto 19)",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/6/6d/Senua%27s_Sacrifce_Logo.png",
+  "fuente": "Hellblade Wiki (datos.json)",
+  "ancho": 256,
+  "alto": 256,
+  "que_es": "Logo de Senua's Sacrifice",
+  "para_que": "emblema pequeño",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/2c/Senua_game_logo.png",
+  "fuente": "Hellblade Wiki (datos.json)",
+  "ancho": 192,
+  "alto": 192,
+  "que_es": "Icono del juego",
+  "para_que": "emblema pequeño",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/6/61/Hellblade_2_Enhanced.png",
+  "fuente": "Hellblade Wiki · hoja personajes_01 n.º 5",
+  "ancho": 1440,
+  "alto": 2160,
+  "que_es": "Arte de Hellblade II Enhanced",
+  "para_que": "portada del 2",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=29",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 0:29: Senua dorada (no Hela), de frente, tocado dorado",
+  "para_que": "pose 1: presentar; serenidad",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=33",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 0:33: la sonrisa fija de delirio, con pintura (la parte de voz la puso en 0:38)",
+  "para_que": "psicosis sin monstruo (punto 13)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=77",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 1:17: Senua de rodillas gritando con una piedra en la mano",
+  "para_que": "rabia",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=94",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 1:34: combate en luz roja; espiral azul del espejo en la cadera",
+  "para_que": "pose 3: regañar; el espejo en uso",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=105",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 1:45: silueta de Senua hacia una luz blanca, hoguera pequeña",
+  "para_que": "pose 4: pensar, aceptar; contraluz",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=113",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 1:53: tarjeta de título en capitales romanas espaciadas",
+  "para_que": "tipografía del título (punto 5)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5v5lz0?t=91",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB1, 1:31: cara de miedo, ojos muy abiertos",
+  "para_que": "cara de miedo (punto 13)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=0",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 0:00-0:20: la voz de Senua «I've dreamt of this…»",
+  "para_que": "frase textual y voz medida (puntos 8 y 13)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=27",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 0:27: perfil de Senua muy cerrado, ceño",
+  "para_que": "cara de determinación",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=38",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 0:38: Senua asoma con los ojos muy abiertos, cielo malva y fuego",
+  "para_que": "pose 7: avisar",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=52",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 0:52: sendero de calaveras, brazos con sangre",
+  "para_que": "pose 6: advertir",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=104",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 1:44: primer plano llorando de miedo, cara sucia y mojada",
+  "para_que": "cara de miedo (punto 13)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=105",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 1:45: una mano gris agarra la cara de Senua",
+  "para_que": "pose 8; la Oscuridad (no usar en láminas de canal)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qciu2?t=116",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler HB2, 1:56: mira hacia abajo, hombros caídos",
+  "para_que": "cara de tristeza",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5pbur7?t=22",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Ragnarok Trailer, 0:22: primer plano gritando, pintura azul corrida",
+  "para_que": "pose 9: rabia",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5pbur7?t=38",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Ragnarok Trailer / diario de desarrollo, 0:38: artista dibujando a Senua en una Wacom",
+  "para_que": "making of (punto 18)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5pbur7?t=32",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Diario de desarrollo, 0:32: Dominic Matthews a cámara",
+  "para_que": "making of (punto 10)",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5pbur7?t=19",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Ragnarok Trailer, 0:19: Garm en la ventisca, casi todo blanco (#9CAABA, #D3DAE4)",
+  "para_que": "paleta de ventisca",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5rr6d4?t=38",
+  "fuente": "Dailymotion (copia de prensa; 512×288 medido con yt-dlp -F por la parte de vídeo)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Hela Trailer, 0:38: relámpago azul bajo la lluvia (#091018, sat. 53 %)",
+  "para_que": "acento azul eléctrico",
+  "licencia": "© Ninja Theory / Xbox Game Studios (copia de prensa en Dailymotion); sólo referencia"
+ },
+ {
+  "url": "https://store.steampowered.com/app/414340",
+  "fuente": "Steam (tienda oficial, appid 414340)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler oficial de Hellblade: Senua's Sacrifice (2:01), servido por el CDN de Steam a 1920x1080 real (medido extrayendo fotogramas con ffmpeg)",
+  "para_que": "fotogramas de escenas icónicas en 1080p (punto 2), poses de Senua (punto 14), paleta de niebla y luz (punto 4)",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no usar el vídeo entero"
+ },
+ {
+  "url": "https://store.steampowered.com/app/2461850",
+  "fuente": "Steam (tienda oficial, appid 2461850)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler oficial de Senua's Saga: Hellblade II (2:34, el de #TheGameAwards), servido por el CDN de Steam a 1920x1080 real",
+  "para_que": "fotogramas de escenas icónicas en 1080p (punto 2), poses de Senua (punto 14), paleta de niebla y luz (punto 4)",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no usar el vídeo entero"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691711/movie.293x165.jpg?t=1501516541",
+  "fuente": "Steam (miniatura oficial del tráiler)",
+  "ancho": 277,
+  "alto": 165,
+  "que_es": "Miniatura del tráiler oficial de Hellblade: Senua's Sacrifice",
+  "para_que": "icono/miniatura de referencia para enlazar el tráiler en la biblia",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987683/movie.293x165.jpg?t=1702054568",
+  "fuente": "Steam (miniatura oficial del tráiler)",
+  "ancho": 293,
+  "alto": 164,
+  "que_es": "Miniatura del tráiler oficial de Senua's Saga: Hellblade II",
+  "para_que": "icono/miniatura de referencia para enlazar el tráiler en la biblia",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257181429/c31598b64a402f041b30f9e0effa108347dda628/movie_600x337.jpg?t=1780854771",
+  "fuente": "Steam (miniatura oficial del tráiler)",
+  "ancho": 600,
+  "alto": 337,
+  "que_es": "Miniatura del tráiler «Enhanced release trailer» de Senua's Saga: Hellblade II",
+  "para_que": "icono/miniatura de referencia, versión Enhanced (ray tracing/DLSS/FSR)",
+  "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/HellbladeSenuasSacrificeEndingSongIllusionByVnvNation",
+  "fuente": "Internet Archive",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio: «Illusion» de VNV Nation, la canción de los créditos finales de Hellblade: Senua's Sacrifice",
+  "para_que": "branding sonoro / música de referencia para la lámina o el canal (punto 9)",
+  "licencia": "© VNV Nation / SPV Recordings; sólo referencia, no redistribuir el audio completo"
+ },
+ {
+  "url": "https://open.spotify.com/track/1UaYT2vE5plDKPD8kKOVGQ",
+  "fuente": "Spotify",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "«Hela», tema del jefe final de Hellblade: Senua's Sacrifice, de David García Díaz y Passarella Death Squad",
+  "para_que": "identificar el tema del combate final (punto 9)",
+  "licencia": "© titulares del sello; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=85uI1LA5lcc",
+  "fuente": "YouTube (extendido, subida de fan con el audio oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "«Seidh» de Heilung, tema usado en el tráiler de Hellblade II de The Game Awards (según el título del vídeo)",
+  "para_que": "identificar la música del tráiler cuando YouTube esté disponible (punto 9) — dato con una sola fuente, ⚠️",
+  "licencia": "© Heilung / sello; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/b/bd/Senua.mp3/revision/latest?cb=20240717161327",
+  "fuente": "Hellblade Wiki (Fandom), audio original del juego",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip mp3 original del juego: monólogo de apertura del Narrador/Furias ('Hello, who are you?...'), 64 kbps 48kHz. Analizado con voz.py: 117Hz medio, muy expresiva, lenta.",
+  "para_que": "Cita textual del punto 8, análisis de voz del punto 13; referencia de cómo suena de verdad la voz que abre el juego.",
+  "licencia": "Copyright Ninja Theory/Xbox Game Studios, uso como referencia de investigación (no redistribuir el audio)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/5/5b/The_Furies.mp3/revision/latest?cb=20240726022801",
+  "fuente": "Hellblade Wiki (Fandom), audio original del juego",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip mp3 original: coro de Furias urgiendo a Senua a escalar ('Climb, Senua. Climb.'). Analizado con voz.py: 238Hz agudo, muy expresiva, rápida (3.5 palabras/s).",
+  "para_que": "Ejemplo sonoro de las voces de la psicosis (punto 13/21) hablando en tropel, contradictorias y urgentes.",
+  "licencia": "Copyright Ninja Theory/Xbox Game Studios, uso como referencia de investigación (no redistribuir el audio)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/42/Furies.mp3/revision/latest?cb=20240920014714",
+  "fuente": "Hellblade Wiki (Fandom), audio original del juego",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip mp3 original: el Narrador presentando a 'los otros' ('Oh how rude of me...'). Analizado con voz.py: 84Hz grave, muy expresiva, velocidad normal.",
+  "para_que": "Referencia de la voz del Narrador (una de las Furias, interpretada por Chipo Chung).",
+  "licencia": "Copyright Ninja Theory/Xbox Game Studios, uso como referencia de investigación (no redistribuir el audio)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/78/Shadow.mp3/revision/latest?cb=20240726004753",
+  "fuente": "Hellblade Wiki (Fandom), audio original del juego",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip mp3 original: la Sombra/Zynbel amenazando a Senua ('I am your shadow...'). Voz procesada/distorsionada digitalmente.",
+  "para_que": "Referencia de la voz antagonista (Steven Hartley, también voz de Zynbel) para el punto 13.",
+  "licencia": "Copyright Ninja Theory/Xbox Game Studios, uso como referencia de investigación (no redistribuir el audio)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/6/6a/Druth.mp3.mp3/revision/latest?cb=20240718010921",
+  "fuente": "Hellblade Wiki (Fandom), audio original del juego",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip mp3 original: Druth presentándose ('Druth is my Truth'), voz de Nicholas Boulton.",
+  "para_que": "Referencia de voz del personaje secundario más citado por la crítica y el fandom (punto 7/13).",
+  "licencia": "Copyright Ninja Theory/Xbox Game Studios, uso como referencia de investigación (no redistribuir el audio)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fd560f8d33ed4d09be36f691b928e6ad",
+  "fuente": "Sketchfab, autor DshGames (confirmado con API api.sketchfab.com/v3/models)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Senua, 125 214 caras, 794 me gusta",
+  "para_que": "Referencia 3D con licencia libre para pose/anatomía (punto 3)",
+  "licencia": "CC Attribution (confirmada por API Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-380abf627b824228b30d53ef0e446b0e",
+  "fuente": "Sketchfab, autor johnalejandro_13 (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Senua, 120 348 caras",
+  "para_que": "Referencia 3D alternativa con licencia libre (punto 3)",
+  "licencia": "CC Attribution (confirmada por API Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-08ffeea7bf5b463193ce836e2b8bdd5d",
+  "fuente": "Sketchfab, autor johnalejandro_13 (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de 'Pig Head' (casco de cerdo de un Northman), 38 446 caras",
+  "para_que": "Referencia 3D de accesorio/objeto enemigo con licencia libre (punto 3)",
+  "licencia": "CC Attribution (confirmada por API Sketchfab)"
+ },
+ {
+  "url": "https://safebooru.org/images/3569/946386e530ddc684b3c9b89393638aa64dd4fca8.jpg",
+  "fuente": "Safebooru, origen DeviantArt (jefwu)",
+  "ancho": 2691,
+  "alto": 4177,
+  "que_es": "Fan art mejor valorado de Senua en Safebooru",
+  "para_que": "Referencia de estilo/pose de fan art, nunca para pegar (punto 3)",
+  "licencia": "derechos del autor original (DeviantArt); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3567/6a39bac9062aac563e935bfde66ac695651c9674.jpg",
+  "fuente": "Safebooru, origen ArtStation (thomasfray)",
+  "ancho": 984,
+  "alto": 984,
+  "que_es": "Fan art de Senua en Safebooru con origen ArtStation",
+  "para_que": "Referencia de estilo, nunca para pegar (punto 3)",
+  "licencia": "derechos del autor original; sólo referencia"
+ },
+ {
+  "url": "https://freesvg.org/pattern-triskelion",
+  "fuente": "FreeSVG.org",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Patrón triskel/nudo celta en SVG, el mismo motivo del tocado de Senua",
+  "para_que": "Textura/emblema libre equivalente para tallar o estampar (punto 19)",
+  "licencia": "CC0 (dominio público, declarado por el sitio)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Leather037",
+  "fuente": "ambientCG (API full_json)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de cuero, foto-escaneada",
+  "para_que": "Textura libre equivalente al cuero del tocado y la pechera de Senua (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://myphotoshopbrushes.com/brushes/id/3536/",
+  "fuente": "MyPhotoshopBrushes",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pack de 24 pinceles grunge en formato ABR para Photoshop",
+  "para_que": "Equivalente libre a la textura agrietada de la pintura woad (punto 19)",
+  "licencia": "gratis para uso comercial, sin crédito (declarado por el sitio)"
+ },
+ {
+  "url": "https://www.xbox.com/en-US/promotions/sweepstakes/senuas-saga-hellblade-II-xbox-series-x-custom-console-and-controller-sweepstakes",
+  "fuente": "Xbox.com (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Consola Xbox Series X, mando y soporte a medida con arte de Hellblade II (sorteo)",
+  "para_que": "Colaboración/cruce oficial de marca (punto 23)",
+  "licencia": "página promocional oficial de Microsoft/Xbox"
+ },
+ {
+  "url": "https://store.steampowered.com/news/app/414340/view/4546903098693967625",
+  "fuente": "Steam News (oficial, cuenta de Ninja Theory)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anuncio oficial de la guía de cosplay de Senua hecha por Ninja Theory",
+  "para_que": "Referencia oficial de vestuario y colaboración con la comunidad cosplay (puntos 15 y 23)",
+  "licencia": "noticia oficial de Steam"
+ },
+ {
+  "url": "https://www.conceptartassociation.com/2024-caa-finalists/illtauga-2-senuas-saga-hellblade-ii",
+  "fuente": "Concept Art Association",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Concept art de Illtauga (entorno de Hellblade II) finalista 2024, por Marco Teixeira",
+  "para_que": "Arte conceptual oficial de entorno con autor confirmado (punto 1)",
+  "licencia": "portafolio profesional del artista, referencia editorial"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Garm_in_Hellblade_Senuas_Sacrifice.png",
+  "fuente": "Openverse / Wikimedia Commons, autor Ahilcaspian",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotografía/captura de Garm (jefe final) en Hellblade: Senua's Sacrifice",
+  "para_que": "Referencia con licencia libre de un enemigo/jefe (punto 3)",
+  "licencia": "CC BY-SA 4.0"
+ },
+ {
+  "url": "https://safebooru.org/images/3581/705d92266606dc0fbd7a210a2e8940e544f9ac5d.jpg",
+  "fuente": "Safebooru, origen DeviantArt (firez-da)",
+  "ancho": 753,
+  "alto": 1000,
+  "que_es": "Fan art de Senua",
+  "para_que": "sólo referencia de pose y estilo, nunca pegar",
+  "licencia": "© su autor (https://www.deviantart.com/firez-da/art/Senua-830487734)"
+ },
+ {
+  "url": "https://freesvg.org/triskelion-an-ancient-motif",
+  "fuente": "freesvg.org",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Triskel antiguo en SVG (CC0)",
+  "para_que": "textura real equivalente (puntos 4 y 19); Blender",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Rock064",
+  "fuente": "ambientcg.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Roca volcánica PBR (CC0)",
+  "para_que": "textura real equivalente (puntos 4 y 19); Blender",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Cinzel",
+  "fuente": "Google Fonts (OFL, libre)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía Cinzel: la misma familia que usa oficialmente la web senuassaga.com para sus titulares (confirmado leyendo el CSS del sitio); con tildes, ñ, ¿, ¡ comprobadas con fontTools",
+  "para_que": "Punto 5.1: letra libre recomendada para el título/logo de la lámina",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Outfit",
+  "fuente": "Google Fonts (OFL, libre)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía Outfit: la misma familia que usa oficialmente la web senuassaga.com para su cuerpo de texto (confirmado en el CSS); con tildes, ñ, ¿, ¡ comprobadas con fontTools",
+  "para_que": "Punto 5.1: letra libre recomendada para cuerpo de texto de la lámina",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Runic",
+  "fuente": "Google Fonts, familia Noto (OFL, libre)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía con los 24 signos reales del Futhark Antiguo (comprobado con fontTools: 24/24 presentes, 426 glifos rúnicos en total)",
+  "para_que": "Punto 5.2: letra libre para inscripciones rúnicas decorativas del mundo nórdico de Hellblade",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://digital.valiantentertainment.com/",
+  "fuente": "Valiant Entertainment",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Editorial del cómic promocional 'Hellblade: Senua's Song #1' (guion Tameem Antoniades, arte Ben Templesmith)",
+  "para_que": "Punto 6.3: único material impreso oficial de la franquicia, sin globos de cómic tradicionales",
+  "licencia": "© Ninja Theory / Valiant; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/4e/Senua_2.jpg",
+  "fuente": "Fandom hellblade",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua: Senua 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/16/Senua.png",
+  "fuente": "Fandom hellblade",
+  "ancho": 1000,
+  "alto": 562,
+  "que_es": "Senua: Senua.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9olx7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3508,
+  "alto": 2105,
+  "que_es": "Fondo de pantalla (warrior, digital art, landscape, fantasy art, ninjas, Hellblade: Senua's Sacrifice)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por monxef; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/76/wallhaven-76jyq3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (video games, Hellblade: Senua's Sacrifice, looking into the distance, video game landscape, women with swords, fantasy art)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Highwind; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g7/wallhaven-g7l8me.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Hellblade: Senua's Sacrifice, video games, landscape, Ninja Theory)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por aminagha; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/13/wallhaven-13rrv3.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (digital art, artwork, CGI, dark, people, fictional)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Tʀʏᴘʟᴇ; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/lq/wallhaven-lqg2eq.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Hellblade: Senua's Sacrifice, video games, Ninja Theory)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Highwind; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4d/wallhaven-4dq9vl.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Hellblade: Senua's Sacrifice, warrior, fantasy art, blood, weapon, fantasy girl)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kw/wallhaven-kw8y17.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4100,
+  "alto": 1850,
+  "que_es": "Fondo de pantalla (video games, Hellblade: Senua's Sacrifice, sword, ultrawide, Fenrir, Ninja Theory)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Highwind; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vm/wallhaven-vmr26l.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Hellblade: Senua's Sacrifice, video games, video game characters, video game girls, Senua (Hellblade), Ninja Theory)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por CorycusDBL; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/01/wallhaven-01odk9.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (video games, Hellblade: Senua's Sacrifice, Senua (Hellblade), face, women, video game art)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por tolgak21; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p2/wallhaven-p2oyq3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (video games, Hellblade: Senua's Sacrifice, fantasy girl, fire, PC gaming, video game girls)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por JT42; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zy/wallhaven-zyl6dw.png",
+  "fuente": "Wallhaven",
+  "ancho": 3440,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Senua's Saga: Hellblade II, Senua (Hellblade), Xbox, Ninja Theory, CGI, Hellblade: Senua's Sacrifice)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por CynicalDuck; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g8/wallhaven-g86ql3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (video games, video game art, vikings, Norse mythology, dark, Senua (Hellblade))",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Str4yC4t; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/1j/wallhaven-1jmmxv.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Hellblade: Senua's Sacrifice, Senua (Hellblade), fantasy girl, face, video games)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por dreaminNB; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vg/wallhaven-vgo17p.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (screen shot, Hellblade: Senua's Sacrifice, Senua (Hellblade), video game characters, PC gaming, Ninja Theory)",
+  "para_que": "fondo de pantalla de fans en alta: sólo referencia de encuadre y luz (punto 16); tamaño de Wallhaven",
+  "licencia": "subido por Kardaz; © su autor"
+ },
+ {
+  "url": "https://live.staticflickr.com/4410/35621468424_b8ddd1c464_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Neon Demons - Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor AndrewCull"
+ },
+ {
+  "url": "https://live.staticflickr.com/4412/36460025746_927a034a75_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/1924/45775375701_5028ef05e7_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 512,
+  "que_es": "Hellblade Senua's Sacrifice 360° 2018",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC PDM 1.0, autor SergiuliKSC"
+ },
+ {
+  "url": "https://live.staticflickr.com/960/27871673618_5eb06b4932_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 584,
+  "que_es": "Hellblade Senua's Sacrifice 2018.04.27",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor Thenightislost"
+ },
+ {
+  "url": "https://live.staticflickr.com/972/42053036662_13817a1a2a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 635,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/971/28225106838_4df3238480_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 635,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/828/42053057922_410ed61bd5_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 635,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/908/42187618242_03495f961f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor kboldi"
+ },
+ {
+  "url": "https://live.staticflickr.com/971/27363070317_790775075b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor kboldi"
+ },
+ {
+  "url": "https://live.staticflickr.com/965/41332906805_28cfa1eda8_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor kboldi"
+ },
+ {
+  "url": "https://live.staticflickr.com/824/42233861851_471df0383b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor kboldi"
+ },
+ {
+  "url": "https://live.staticflickr.com/970/42053044982_2ff1b94b16_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 359,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/4376/35642108733_5c80fa5278_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade: Senua's Sacrifice - Credits",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor KarmaChang"
+ },
+ {
+  "url": "https://live.staticflickr.com/977/27203031547_d60220c616_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 771,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/949/42053061172_96379629a3_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 635,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/829/27227868887_125ee24747_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 359,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/910/27227900147_15934398c0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 359,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://live.staticflickr.com/4437/35671575603_9541610441_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Hellblade Senua's Sacrifice Super-Resolution 2017.08.10 - 06.29.56.84",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor jdaniels934"
+ },
+ {
+  "url": "https://live.staticflickr.com/944/27199206487_5b17b3e008_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 635,
+  "que_es": "Hellblade: Senua's Sacrifice",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Skyrim LE Ver and PC Games"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747350/ss_73d0c84ac47dbb20baebcd832495be36f3830174.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Hellblade: Senua's Sacrifice VR Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747350/ss_1e0cfee83078149a8b37e301be34d9073af55bb6.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Hellblade: Senua's Sacrifice VR Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747350/ss_6c1b14596480d0f9549ee7b3d6f0d4985bdf89f6.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Hellblade: Senua's Sacrifice VR Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/1e/SenuaEnd.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 2",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Senua en primer plano con cuello de piel (final)",
+  "para_que": "cara en alta 3840×2160",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/7c/Hellbladeval.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 3",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Senua contra Valravn con la espada",
+  "para_que": "pose de combate",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d9/Hellbladesurt.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 4",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Senua contra Surtr, fuego",
+  "para_que": "pose de combate; fuego",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/8/88/AstridrPhoto4.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 6",
+  "ancho": 1152,
+  "alto": 2048,
+  "que_es": "Retrato de Ástríðr (HB2), pañuelo rojo",
+  "para_que": "secundaria de HB2",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/11/Gate_of_Hel.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 7",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "La Puerta de Hel: piedra y dos antorchas",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/27/AstridrPhoto3.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 8",
+  "ancho": 1135,
+  "alto": 2018,
+  "que_es": "Retrato de Ástríðr (HB2)",
+  "para_que": "cara de secundaria",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/8/81/Dillon_visage.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 9",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Dillion en visión",
+  "para_que": "secundario",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/db/Dillon_visage1.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 10",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Dillion y Senua en visión",
+  "para_que": "dinámica Senua y Dillion",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/db/Hela.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 12",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hela, piel agrietada",
+  "para_que": "Hela",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fe/Hela1.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 13",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hela de cerca",
+  "para_que": "Hela",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/cc/Senua_vs_hela.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 14",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua contra Hela",
+  "para_que": "clímax del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/19/Senua_vs_hela1.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 15",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua contra Hela",
+  "para_que": "clímax del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/a/a3/Senua_vs_hela2.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 16",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua y Hela con espadas azules",
+  "para_que": "clímax del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/98/Astridr.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 17",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ástríðr (HB2)",
+  "para_que": "secundaria",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/a/a4/AstridrPhoto2.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 18",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ástríðr (HB2)",
+  "para_que": "secundaria",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/b/b3/Bardarvik.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 19",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Bardarvik (HB2)",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/cf/Freyslaug.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 20",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Freyslaug (HB2)",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/c5/Freyslaug1.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 21",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Freyslaug (HB2)",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fd/Hellblade_Senua%27s_Sacrifice_Screenshot_2017.08.22_-_10.44.06.16.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 23",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua ante un enemigo con cuernos, azul",
+  "para_que": "combate",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/e1/Hellblade_Senua%27s_Sacrifice_Screenshot_2017.08.22_-_11.10.51.38.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 24",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Muelle con una bestia al fondo",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fb/Hellblade_Senua%27s_Sacrifice_Screenshot_2017.08.22_-_14.48.50.58.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 25",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Silueta de Senua en una puerta frente a montañas nevadas",
+  "para_que": "pose de presentar un lugar",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/23/Raudholar.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 27",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Raudholar",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/b/b5/Senua_facing_enemy_at_sea_and_corpses.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 28",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua frente a un enemigo en el mar de cadáveres",
+  "para_que": "escena del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/1b/Senua_on_the_bridge.jpeg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 29",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua en el puente de Helheim",
+  "para_que": "escena del final del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/c6/Surtr01.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 30",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Surtr, fuego",
+  "para_que": "guardián del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/8/8f/Surtr02.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 31",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Surtr",
+  "para_que": "fuego",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/46/Surtr03.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 32",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Surtr",
+  "para_que": "fuego",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/77/Valravn01.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 33",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Valravn",
+  "para_que": "guardián del 1",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/3/38/Valravn02.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 34",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Valravn, plumas negras",
+  "para_que": "guardián",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d8/Valravn03.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 35",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Valravn y Senua",
+  "para_que": "combate",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/16/Village_Raudholar.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 36",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Poblado de Raudholar",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/9d/Gramr_released.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 37",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Gramr liberada, luz azul",
+  "para_que": "objeto",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/72/Gramr_released1.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 38",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Gramr en la mano, azul",
+  "para_que": "objeto",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d0/Gramr_senua1.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 39",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Senua alza Gramr con luz dorada",
+  "para_que": "pose de celebrar un logro",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/45/Gramr_tree.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 40",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Gramr en el árbol",
+  "para_que": "objeto y sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/5/59/Ruins_of_the_fortress.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 41",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ruinas de la fortaleza",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/ce/Surtr_Domain.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 42",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Dominio de Surtr, más ceniza que llama",
+  "para_que": "fondo; paleta #4C3E3B",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/5/57/Valravn_Fortress.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 43",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fortaleza de Valravn",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/71/Sutr%27s_Sacrifice.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 44",
+  "ancho": 1920,
+  "alto": 824,
+  "que_es": "El sacrificio de Surtr",
+  "para_que": "escena",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/9d/Borgarvirki_entrance.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 45",
+  "ancho": 1672,
+  "alto": 941,
+  "que_es": "Entrada de Borgarvirki (HB2)",
+  "para_que": "fondo de sitio",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/03/Midgard.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja personajes_01 n.º 47",
+  "ancho": 1672,
+  "alto": 941,
+  "que_es": "Midgard (HB2), paisaje",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/20/Dillion.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 49",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Dillion",
+  "para_que": "secundario",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/8/80/Hellbladehela.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 50",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Hela",
+  "para_que": "villana",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/6/63/AstridrPhoto1.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 51",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Ástríðr de perfil",
+  "para_que": "secundaria",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d4/Hela_2.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 53",
+  "ancho": 1281,
+  "alto": 718,
+  "que_es": "Hela",
+  "para_que": "villana",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/a/a6/Dillion_6.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 54",
+  "ancho": 1280,
+  "alto": 717,
+  "que_es": "Dillion y Hela",
+  "para_que": "visión",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/98/Dillion_8.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 55",
+  "ancho": 1280,
+  "alto": 717,
+  "que_es": "Visión en la niebla",
+  "para_que": "visión",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/03/Dillion_2.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 56",
+  "ancho": 1278,
+  "alto": 718,
+  "que_es": "Prado dorado",
+  "para_que": "luz cálida",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/40/Helheim_4.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 57",
+  "ancho": 1278,
+  "alto": 718,
+  "que_es": "Helheim",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/ec/Dillion_9.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 59",
+  "ancho": 1278,
+  "alto": 717,
+  "que_es": "Visión de Dillion",
+  "para_que": "visión",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/24/Helheim_2.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 60",
+  "ancho": 1278,
+  "alto": 717,
+  "que_es": "Helheim, Senua de espaldas ante una bestia",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/4/4b/Hela_5.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 62",
+  "ancho": 1274,
+  "alto": 718,
+  "que_es": "Senua con la espada azul ante Hela",
+  "para_que": "clímax",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/0e/Hela_3.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 63",
+  "ancho": 1278,
+  "alto": 715,
+  "que_es": "Hela, con subtítulo",
+  "para_que": "cuadro de diálogo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/00/Hela_6.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 64",
+  "ancho": 1277,
+  "alto": 715,
+  "que_es": "Hela",
+  "para_que": "villana",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/04/Hela_4.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 66",
+  "ancho": 1275,
+  "alto": 715,
+  "que_es": "Hela de rodillas",
+  "para_que": "clímax",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/e4/Helheim_5.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 67",
+  "ancho": 1275,
+  "alto": 714,
+  "que_es": "Helheim, luz violeta",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/9/9b/Illtauga.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 68",
+  "ancho": 1000,
+  "alto": 811,
+  "que_es": "Illtauga, la giganta (HB2); tierra #3E3228, #825943",
+  "para_que": "escena de «I know you»; paleta",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/e2/HelheimEntrance.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 72",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Entrada de Helheim",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/c6/SenuaClose.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 73",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Senua en primer plano, sucia",
+  "para_que": "cara",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/ee/SenuaSurt.jpg",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 74",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Senua contra Surt",
+  "para_que": "combate",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d4/Fargrimr.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 75",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "Fargrímr (HB2)",
+  "para_que": "secundario",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/1e/Gramr_Reforged.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 76",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "Gramr reforjada en alto",
+  "para_que": "pose de celebrar un logro",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/70/Sea_of_Corpses.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 77",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "Mar de cadáveres",
+  "para_que": "fondo",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/3/3d/Senua_vs_Garm.webp",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 78",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "Senua contra Garm, azul",
+  "para_que": "combate; fuego azul",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/13/Surtr.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 79",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "Surtr",
+  "para_que": "fuego",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hellblade-nt/images/0/02/Hidden_Folk.png",
+  "fuente": "Hellblade Wiki (thehellblade.fandom.com, tamaño por la API imageinfo) · hoja fondos_01 n.º 81",
+  "ancho": 1000,
+  "alto": 563,
+  "que_es": "El Huldufólk en una cueva verde (HB2)",
+  "para_que": "sitio de HB2",
+  "licencia": "© Ninja Theory (imagen del juego alojada en la wiki de Fandom); sólo referencia"
+ }
+]
