@@ -1,7 +1,9 @@
 # Lote B: 06-18 (repasos)
 
-Sesión: https://claude.ai/code/session_01TveMHTy85SKiqE5NxgSVyw · rama `claude/lote-b-serie-equipo-5dssdx`
-Cuenta: cuenta A102
+Sesión: https://claude.ai/code/session_01XhVgLkN4yShKtuhs4XK9Vh · rama `claude/optimistic-edison-gyhtgr`
+Cuenta: cuenta A107
+(sigue desde `claude/lote-b-serie-equipo-5dssdx`, sesión session_01TveMHTy85SKiqE5NxgSVyw, cuenta .102,
+que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC del 25-sep).
 
 ## Estado
 
@@ -10,6 +12,7 @@ Cuenta: cuenta A102
 - 11 Chainsaw Man: partes listas; redactor (Opus, repaso) en marcha.
 - 12 Kakegurui: 4 investigadores (Sonnet, repaso) en marcha.
 - 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
+- Cambio de cuenta (25-sep, 06:35 UTC, cuenta .107): ramas juntadas; instalando herramientas.
 
 ## Avisos para el dueño
 
