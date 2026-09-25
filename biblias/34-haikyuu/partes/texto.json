@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "url": "https://blog.sakugabooru.com/2020/02/04/the-evolution-of-haikyuus-exceptional-production-refining-reality/",
+    "fuente": "Sakuga Blog, análisis de producción (4-feb-2020)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis técnico de la animación de Haikyuu!!: cambios de línea en los remates clave, animadores clave (Chiba, Suetomi, Mukouda) y cámara precisa a escala real",
+    "para_que": "Punto 18: cómo es la línea y el sombreado en los momentos de clímax, y quién los dibuja",
+    "licencia": "Artículo de análisis; sólo cita y referencia, no redistribuir capturas"
+  },
+  {
+    "url": "https://wavemotioncannon.com/2016/12/22/interview-haikyuus-boya-liang/",
+    "fuente": "Wave Motion Cannon, entrevista a la animadora BoYa Liang (22-dic-2016)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista sobre el remate de 'Mad Dog' en T2: composición, imagen monocroma para la textura de línea, inspiración en el estilo áspero de Furudate, tiempos de trabajo",
+    "para_que": "Punto 18: técnica real de una animadora de la serie, con cita textual",
+    "licencia": "Entrevista publicada; sólo cita, no redistribuir"
+  },
+  {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%88%98%E6%98%A5%E4%B8%80",
+    "fuente": "Wikipedia en japonés, artículo «古舘春一» (Haruichi Furudate)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Biografía del autor: mangas favoritos (ONE PIECE, Tekkonkinkreet), por qué dibuja voleibol, premio (61.º Shogakukan)",
+    "para_que": "Punto 24: influencias que el propio autor reconoce",
+    "licencia": "Wikipedia, CC BY-SA; sólo cita de datos, no redistribuir texto completo"
+  },
+  {
+    "url": "https://vbm.link/5437/",
+    "fuente": "Volleyball Magazine (vbm.link), entrevista a Furudate",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Furudate habla de su 'admiración y complejo de inferioridad' hacia las técnicas especiales del shonen de acción, y de por qué Haikyuu!! se queda en técnica real",
+    "para_que": "Puntos 18 y 24: por qué el estilo de Haikyuu!! evita ataques de fantasía, y su diferencia de tono frente a otros shonen",
+    "licencia": "Entrevista publicada; sólo cita, no redistribuir"
+  },
+  {
+    "url": "https://www.cbr.com/how-realistic-is-haikyuu-volleyball/",
+    "fuente": "CBR, «Haikyuu!!'s Realistic Approach to Volleyball»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Validación de la técnica de voleibol por el jugador olímpico Erik Shoji; reglas básicas mostradas en el anime; comparación con otros animes deportivos (sin 'gimmicks')",
+    "para_que": "Puntos 18 y 25: realismo del mundo y reglas básicas del deporte",
+    "licencia": "Artículo editorial; sólo cita, no redistribuir"
+  },
+  {
+    "url": "https://ani-hub.com/en/entertainment/haikyu-high-school-volleyball-team-banner-list/",
+    "fuente": "ani-hub.com, «Haikyu!! Team Banners: Complete Overview»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de los lemas (banners) de cada equipo de Haikyuu!! (Karasuno 'Fly', Nekoma 'Connect', Aoba Johsai 'Rule the Court', Shiratorizawa, Fukurōdani, Date Tech, Inarizaki, Itachiyama) y su significado",
+    "para_que": "Punto 25: emblemas y símbolos de cada equipo, listos para carteles en Blender",
+    "licencia": "Artículo editorial; sólo cita, no redistribuir la tabla completa como imagen"
+  },
+  {
+    "url": "https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/",
+    "fuente": "GraphicsBunker, pinceles de screentone para cómic/manga",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pack de pinceles de trama (screentone) para Photoshop, descarga gratuita vía Gumroad ('$0')",
+    "para_que": "Punto 18: pinceles libres equivalentes al sombreado de trama del manga, para replicar el estilo en Photoshop",
+    "licencia": "Descarga gratuita según la propia página; uso de pincel de trabajo, no redistribuir el pack"
+  },
+  {
+    "url": "https://www.deviantart.com/antochibiart/art/Manga-Brush-Pack-for-Photoshop-933133265",
+    "fuente": "DeviantArt, AntoChibiArt, «Manga Brush Pack for Photoshop»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pack de pinceles de entintado y trama estilo manga para Photoshop",
+    "para_que": "Punto 18: alternativa de pinceles libres para línea y trama",
+    "licencia": "Gratuito según la ficha del autor en DeviantArt; comprobar términos exactos antes de uso comercial"
+  },
+  {
+    "url": "https://studio.blender.org/training/toon-character-workflow/",
+    "fuente": "Blender Studio, «Toon Character Workflow»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tutorial genérico (no de Haikyuu!!) de flujo de trabajo para personajes con sombreado tipo cel-shading en Blender: shader, contorno, render",
+    "para_que": "Punto 18: cómo replicar el sombreado plano de 2 tonos en Blender con EEVEE",
+    "licencia": "Contenido educativo de Blender Studio; libre de consultar, no redistribuir el curso"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/anime-model-beuatiful-boy-rigged-b1beef2688a1411ba88909f9089a1747",
+    "fuente": "Sketchfab, modelo de dequeijospizza, medido con la API de Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D genérico de 'chico anime' con rig completo (no es un personaje de Haikyuu!!, es una base para re-texturizar)",
+    "para_que": "Punto 18: base de rig libre para montar un personaje de Haikyuu!! en Blender, ya que no existe un rig propio con licencia libre",
+    "licencia": "CC Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/), autor dequeijospizza — citar autor y enlace al reutilizar"
+  },
+  {
+    "url": "https://www.goodreads.com/quotes/tag/haikyuu",
+    "fuente": "Goodreads, recopilación de citas etiquetadas «haikyuu»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cita de Kageyama traducida al inglés: 'you can't win alone, that's just how it is'",
+    "para_que": "Punto 25: frase que resume el tema central (trabajo en equipo) para usar como vocabulario de la serie",
+    "licencia": "Recopilación de fans; cita textual solamente, sin confirmar capítulo ni japonés original (⚠️)"
+  }
+]
