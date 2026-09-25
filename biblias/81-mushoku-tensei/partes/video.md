@@ -132,6 +132,16 @@ créditos; no lo confirma ninguna wiki en texto)
 - **Cena familiar con velas** — ep. 1, 21:54-22:02, Rudeus niño con sus
   padres Paul y Zenith y la sirvienta Lilia en la mesa · `ep01_ending/hoja_01.jpg`
   fotograma 2 · ✅
+- **Primer encuentro con Sylphiette** — ep. 3 «A Friend», 5:30-5:40, ella con
+  la capucha puesta escondiendo las orejas de elfo, luego se la baja · E3
+  Internet Archive · `ep03/hoja_01.jpg` fotogramas 31-32 · ✅
+- **Eris furiosa arrastrando a Rudeus** — ep. 5 «A Young Lady and Violence»,
+  6:20-6:30, ella tirando de él y gritando con el puño en alto: la primera
+  impresión «violenta» que da el propio título del episodio · E5 Internet
+  Archive · `ep05/hoja_01.jpg` fotogramas 39-40 · ✅
+- **Eris tras las rejas, arañando la pared** — ep. 5, 12:20, mazmorra en
+  tonos azul oscuro casi negro (paleta medida en punto 4) · `ep05/hoja_02.jpg`
+  fotograma 74 · ✅
 
 ## Punto 4 · Luz y paleta medidas en fotogramas (con `estilo.py`)
 
@@ -157,6 +167,27 @@ créditos; no lo confirma ninguna wiki en texto)
   `#563429` 11% · `#BB4F3A` 11%. Sombreado degradado, línea `#8C6848` normal,
   saturación 35%, brillo 54% (tierra y arena, tonos tostados). Fuente:
   fotograma propio · ✅
+- **Puente de piedra sobre río, campo verde** (ep. 3 «A Friend», 2:30) —
+  paleta: `#5A7978` 27% · `#8AA69D` 22% · `#354A3F` 18% · `#6ACEEA` 17% ·
+  `#D3EAE2` 12%. Sombreado degradado, línea `#587161` normal, saturación 33%,
+  brillo 63% (verdes apagados y un celeste de cielo muy claro; pueblo rural
+  tranquilo). Fuente: fotograma propio (E3, Internet Archive) · ✅
+- **Bosque de arces en otoño, camino con hojas** (ep. 3, 2:50) — paleta:
+  `#39371D` 23% · `#820E1E` 20% · `#BB8858` 17% · `#6F5F37` 15% · `#A64047`
+  13% · `#E5C476` 12%. Mucha línea (línea `#A1433C`), saturación 61%, brillo
+  54% (rojos y dorados intensos, el fondo más saturado de los medidos hasta
+  ahora). Fuente: fotograma propio (E3) · ✅
+- **Carreta cruzando trigal al atardecer** (ep. 5 «A Young Lady and
+  Violence», 2:50) — paleta: `#FCF3C4` 24% · `#AF591E` 17% · `#D07F7D` 17% ·
+  `#EFB89E` 16% · `#6E2B0E` 14% · `#D59138` 11%. Saturación 53%, brillo 80%
+  (crema y naranja muy luminosos, el atardecer más claro de los medidos).
+  Fuente: fotograma propio (E5) · ✅
+- **Mazmorra/celda donde retienen a Eris** (ep. 5, 10:10) — paleta: `#0C0F13`
+  33% · `#0F191E` 24% · `#070A0D` 14% · `#231B22` 13% · `#182C38` 12% ·
+  `#394F5D` 3%. Sombreado degradado, poca línea (línea `#16222C`), saturación
+  43%, **brillo 12%** (casi negro, el sitio más oscuro medido: sirve de
+  referencia para escenas de tensión/peligro). Fuente: fotograma propio (E5)
+  · ✅
 
 ## Punto 10 · Vídeos, análisis y tendencias (con minuto)
 
@@ -218,6 +249,79 @@ créditos; no lo confirma ninguna wiki en texto)
 Fuente de las 7: E1 Internet Archive (dub 1080p) · `ep01_inicio/hoja_01.jpg` ·
 minutos exactos arriba.
 
+### Roxy Migurdia (ep. 2 «Master», la introduce como maestra de magia de
+Rudeus; lleva su sombrero de bruja de ala ancha y trenza turquesa)
+1. 2:48 — Sentada junto a Rudeus en la mesa de estudio, postura recta,
+   presentándose como su nueva maestra. Sirve para **presentar**. ✅
+2. 3:44 — Se rasca la nuca, algo azorada, mirando hacia otro lado. Sirve para
+   **pensar/reaccionar** con timidez. ✅
+3. 4:00 — Ojos cerrados, gesto sereno mientras explica una lección. Sirve
+   para **explicar**. ✅
+4. 7:36 — Sentada en lo alto de un muro de piedra con el sombrero puesto y el
+   báculo apoyado, mirando hacia abajo a Rudeus. Sirve para **regañar/dar
+   instrucciones** desde una posición de autoridad. ✅
+5. 7:44 — Primer plano bajo el ala del sombrero, expresión seria, boca
+   abierta a media frase. Sirve para **explicar**. ✅
+6. 8:08 — De espaldas, caminando por un trigal con el báculo en la mano,
+   Rudeus seis pasos detrás. Sirve para **animar/guiar** (enseñanza al aire
+   libre). ✅
+7. 8:40 — Inclinada hacia Rudeus, mano cerca de su hombro. Sirve para
+   **animar/consolar**. ✅
+8. 9:04 — De pie junto a Rudeus, ambos apoyados en el muro, misma altura de
+   plano. Sirve para **celebrar/estar juntos** (cierre de la lección). ✅
+
+Fuente de las 8: E2 Internet Archive (dub 1080p) · `ep02/hoja_01.jpg` y
+`ep02/hoja_02.jpg` · minutos exactos arriba.
+
+### Sylphiette (ep. 3 «A Friend», la introduce como la niña con orejas de
+elfo que se hace amiga de Rudeus; pelo verde, ojos rosados, tímida al
+principio)
+1. 5:30 — Con la capucha puesta, asomando apenas la cara, mirada de lado,
+   encogida. Sirve para **pensar/dudar** (timidez al conocer a alguien). ✅
+2. 5:40 — Capucha baja, primer plano de cara con las orejas puntiagudas
+   visibles y ojos rosados muy abiertos. Sirve para **presentar** su diseño
+   (rasgo de elfo). ✅
+3. 6:10-6:20 — Rudeus le acaricia la cabeza con la mano; ella baja la mirada,
+   relajándose. Sirve para **animar/consolar**. ✅
+4. 6:40 — Sentada en el pasto junto a Rudeus, ambos con un libro abierto
+   entre las piernas. Sirve para **explicar/estudiar juntos**. ✅
+5. 7:00 — Primer plano con los ojos cerrados, gesto tranquilo, ya cómoda.
+   Sirve para **celebrar** (la amistad ya afianzada). ✅
+6. 7:50 — Plano general, sentada junto a Rudeus en el campo, de espaldas a
+   cámara, mirando el paisaje. Sirve para **pensar/contemplar** en compañía.
+   ✅
+
+Fuente de las 6: E3 Internet Archive (dub 1080p) · `ep03/hoja_01.jpg` ·
+minutos exactos arriba.
+
+### Eris Greyrat (ep. 5 «A Young Lady and Violence», arco «Home Tutor»: la
+presenta como la joven noble violenta a la que Rudeus tutela; pelo y ojos
+rojos, muy temperamental). Episodio localizado por wikitext de Fandom
+(https://mushokutensei.fandom.com/wiki/A_Young_Lady_and_Violence) y visto
+entero con `fotogramas.py --cada 10`.
+1. 5:50 — Primer plano furiosa, pelo rojo revuelto por el movimiento, ojos
+   muy abiertos y encendidos. Sirve para **regañar**. ✅
+2. 6:20 — Agarra a Rudeus y lo arrastra de lado, el jala resistiéndose.
+   Sirve para **regañar/atacar**. ✅
+3. 6:30 — Puño derecho en alto, boca abierta gritando, cuerpo inclinado hacia
+   adelante. Sirve para **regañar** (el gesto más «icónico» de su carácter
+   explosivo). ✅
+4. 12:20 — Tras un enrejado en una mazmorra, arañando la pared de piedra con
+   las uñas, expresión angustiada pero sin llorar. Sirve para **pensar/resistir**
+   (muestra su orgullo incluso capturada). ✅
+5. 13:40 — De pie junto a Rudeus de noche, ya a salvo, postura relajada por
+   primera vez en el capítulo. Sirve para **celebrar** (fin del rescate). ✅
+6. 14:20 — Primer plano con la mirada de lado, gesto desafiante/orgulloso,
+   labios apretados. Sirve para **explicar a su manera** (seca, sin admitir
+   debilidad). ✅
+
+Fuente de las 6: E5 Internet Archive (dub 1080p) · `ep05/hoja_01.jpg` y
+`ep05/hoja_02.jpg` · minutos exactos arriba. (El tramo 10:00-13:00, en tonos
+azules oscuros de mazmorra, es el secuestro/rescate de Eris dentro del mismo
+episodio 5; no es el arco de «Turning Point», que es posterior y no está en
+el lote de Internet Archive disponible en este servidor — sólo llega hasta
+el episodio 11.)
+
 ### Escenas de personaje (tráiler oficial, sin identificar con certeza —
 quedan como referencia de encuadre/pose, no de personaje concreto)
 8. 0:16-0:20 — Niño de espaldas mirando el atardecer desde un promontorio,
@@ -247,6 +351,12 @@ quedan como referencia de encuadre/pose, no de personaje concreto)
 - La escena viral de Geese/Ghislaine (TikTok, dos fuentes) es la prueba de
   qué momento mueve más al fandom hispano: útil para el redactor si el canal
   encaja con "voz.md"/emociones.
+- Las 4 fichas de pose (Rudeus, Roxy, Eris, Sylphiette) ya dan gestos
+  concretos con minuto para cubrir presentar/explicar/celebrar/regañar/
+  pensar/animar sin inventar nada: el más reutilizable es Eris a las 6:30 del
+  ep. 5 (puño en alto, grito) para una lámina de «reglas del canal» con tono
+  enérgico, y Roxy a las 7:36 del ep. 2 (sentada en el muro con el báculo)
+  para una lámina de canal de enseñanza/tutoriales.
 
 ## No encontré
 
@@ -271,6 +381,11 @@ quedan como referencia de encuadre/pose, no de personaje concreto)
 - Comprobado `datos-video.md` (ya recolectado): tráiler AniList, clips
   Dailymotion, Internet Archive, MusicBrainz — no se repitieron esas
   consultas, se partió de ahí.
+- Wiki de Fandom, búsqueda de texto (en inglés): «Eris Greyrat first
+  appearance episode» y páginas «Eris The Goblin Slayer», «Eris Greyrat», «A
+  Young Lady and Violence», «Abrupt Approach» → confirmó que Eris se
+  presenta en el episodio 5 de temporada 1 (arco «Home Tutor»), dentro del
+  lote de Internet Archive ya disponible.
 - `yt-dlp` directo sobre YouTube (`JoS7Z8MCD6E`): confirmado el bloqueo
   «Sign in to confirm you're not a bot» (HTTP 429 primero, luego el aviso de
   login) → se dejó YouTube y se trabajó con Dailymotion/Internet Archive.
@@ -301,10 +416,13 @@ quedan como referencia de encuadre/pose, no de personaje concreto)
   detectados, ficha añadida a `partes/episodios.md`.
 - `fotogramas.py` sobre: tráiler S1 completo, opening S2 completo, tramo de
   nacimiento del ep. 1 (2:00-5:00), tramo de créditos/ending del ep. 1
-  (21:50-23:47), y episodio 2 completo (cada 8 s) para ver la llegada de
-  Roxy.
-- `estilo.py` sobre 5 fotogramas propios (castillo de Ranoa, interior cálido,
-  trigal, mar/isla, caravana desierto) para paleta y tipo de sombreado.
+  (21:50-23:47), episodio 2 completo (cada 8 s, llegada de Roxy), episodio 3
+  completo (cada 10 s, llegada de Sylphiette) y episodio 5 completo (cada
+  10 s, llegada de Eris y su secuestro/rescate en el mismo capítulo).
+- `estilo.py` sobre 9 fotogramas propios en total (castillo de Ranoa,
+  interior cálido, trigal atardecer, mar/isla, caravana desierto, puente y
+  campo del ep. 3, bosque de arces del ep. 3, carreta al atardecer del ep. 5,
+  mazmorra del ep. 5) para paleta y tipo de sombreado.
 - WebSearch (es): «Mushoku Tensei escena viral TikTok momento icónico
   reacción» → escena de Geese/Ghislaine confirmada en dos TikToks distintos.
 - WebSearch (en): «Mushoku Tensei analysis video YouTube minute best scene
