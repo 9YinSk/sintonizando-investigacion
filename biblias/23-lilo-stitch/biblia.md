@@ -39,6 +39,12 @@ fecha: 2026-09-24
 
 ---
 
+## Segunda pasada · qué cambió
+
+_(pendiente)_
+
+---
+
 ## 0 · El canal y lo que tiene que decir
 
 Del inventario (`servidor/inventario.md`, categoría ✦ EL TALLER ✦):
@@ -995,6 +1001,60 @@ Fondos **en acuarela de verdad**, con bordes de agua y papel que se ve ✅.
 
 ---
 
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 19 · Texturas 2D (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 21 · Por qué la gente la ama (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 23 · Colaboraciones y cruces (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos (2.ª pasada)
+
+_(pendiente)_
+
+---
+
+## Las hojas de contacto (2.ª pasada)
+
+_(pendiente)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #fotos
 
 Las tres cumplen las reglas del dueño: **objeto real en un sitio real**,
@@ -1132,6 +1192,12 @@ dice **la fotógrafa**, y Stitch también sale. **B** va segunda: es el
 - **Fondos de pantalla oficiales** en alta: no encontrados ❌.
 - **Encuesta oficial** de popularidad por personaje: no existe o no la
   encontré ❌.
+
+---
+
+## Cumplimiento del encargo
+
+_(pendiente)_
 
 ---
 
