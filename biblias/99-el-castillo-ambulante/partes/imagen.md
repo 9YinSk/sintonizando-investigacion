@@ -382,5 +382,5 @@ imagen sale cada paleta.
 | 3. Fan art y 3D con licencia | ✅ | 4 modelos Sketchfab CC-BY con autor y enlace; fan art de Safebooru con puntaje, tamaño y origen. |
 | 15. Vestuario con hex medidos | ✅ | Colores medidos con estilo.py para Sophie, Howl (parcial ⚠️), Bruja, Calcifer, Markl; peinados y accesorios de la wiki (texto completo). |
 | 16. Fondos y paisajes | ✅ | 7 sitios distintos con paleta medida o descrita, más fondos de pantalla de fans en alta. Fondos "oficiales" resueltos con los fotogramas libres de ghibli.jp. |
-| 19. Texturas 2D | ⚠️ | 4 texturas CC0 medidas (metal, madera, papel, tela); no hay tramas de manga que replicar (la obra no viene de manga) y no encontré pinceles libres de "estilo Ghibli". |
+| 19. Texturas 2D | ⚠️ | 5 texturas CC0 medidas (metal, madera, papel, tela lisa, tela a cuadros); no hay tramas de manga que replicar (la obra no viene de manga) y no encontré pinceles libres de "estilo Ghibli". |
 | 23. Colaboraciones y cruces | ✅ | Ghibli Park (dos fuentes), Loewe (cuatro fuentes), figura oficial, ediciones coleccionables, cosplay (dos fuentes); café temático sólo con una fuente débil. |
