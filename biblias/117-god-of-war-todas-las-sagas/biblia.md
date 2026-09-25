@@ -86,7 +86,7 @@ que dos series pidan el mismo canal no bloquea nada, sólo se anota.
 
 | Canal o sala (de `servidor/inventario.md`) | Por qué encaja | Con quién coincide |
 |---|---|---|
-| **ıı・🗺️・guia**, un hilo: «**Tus zonas: abre y cierra lo que veas**» (foro de EMPIEZA AQUÍ: «El mapa del servidor. Cada hilo responde una pregunta»; etiquetas Primeros pasos, Roles y zonas, Si te atascas, Bots y comandos, Doblaje, Normas) | El mundo nórdico son **Nueve Reinos** que se abren y se cierran; el servidor tiene **8 zonas públicas y 1 privada**, nueve en total. **Mimir** es literalmente el que explica el mundo, y el **Codex de Atreus** es un cuaderno real con runas y bocetos | #guia es de Solo Leveling (03), pero cada uno de sus 14 hilos lleva su propia lámina: God of War pediría sólo uno |
+| **ıı・🗺️・guia**, un hilo: «**Tus zonas: abre y cierra lo que veas**» (foro de EMPIEZA AQUÍ: «El mapa del servidor. Cada hilo responde una pregunta»; etiquetas Primeros pasos, Roles y zonas, Si te atascas, Bots y comandos, Doblaje, Normas) | El mundo nórdico son **Nueve Reinos** que se abren y se cierran; el servidor tiene **8 zonas públicas** y las del staff (PRIVADOS y REGISTRO) cerradas con candado: nueve puertas si el staff cuenta como un solo reino cerrado. **Mimir** es literalmente el que explica el mundo, y el **Codex de Atreus** es un cuaderno real con runas y bocetos | #guia es de Solo Leveling (03), pero cada uno de sus 14 hilos lleva su propia lámina: God of War pediría sólo uno |
 | **ıı・🎯・reto-de-la-semana** (foro de EL ESTUDIO: «Un reto por semana: una línea, una escena, un tono»; etiquetas Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre) | El hilo de ejemplo es «**La misma frase, tres edades**»: Kratos existe en tres edades (joven, dios griego, padre nórdico). La **Caja de Pandora** es la sorpresa que se abre, con etiqueta «Con trampa» | Naruto (30) y Haikyuu (34) |
 | **ıı・🎛️・hardware** (foro de EL ESTUDIO: «Micros, interfaces, auriculares y cámaras, con el precio delante») | **Brok y Sindri**, los herreros enanos que el fandom adora, mejoran el equipo de Kratos en su taller: un mostrador con precios | Dr. Stone (20) |
 | Reservas: **ıı・🎮・a-que-juegas** (Cyberpunk: Edgerunners, 27), **🎲・Juegos** (Ralph, 29) y **ıı・📖・textos** lámina 2 (Death Note, 18; Vinland Saga la pide también) | Es un videojuego. En #textos, el hilo de ejemplo «Monólogo — hombre adulto, 40 segundos, tono contenido» es la voz de Kratos | Ver columna anterior |
@@ -144,5 +144,313 @@ Brok y Sindri).
   Atreus (recomendada); B #reto-de-la-semana «La Caja de Pandora» con el
   Kratos griego; C #hardware «El mostrador de Brok» con los herreros
   enanos.
+
+---
+
+## 2 · Las escenas que sirven, con minuto
+
+Miradas por el investigador de vídeo con `fotogramas.py` (hojas de
+contacto abiertas con Read). **Ninguna en 1080p**: YouTube pidió iniciar
+sesión; Dailymotion e Internet Archive dan 480×272 a 540×300 ⚠️. En
+1920×1080 sólo están las capturas oficiales de Steam (§3).
+
+### Saga griega
+
+- **La Hidra del puerto (God of War, 2005)**: la apertura del primer
+  juego. Kratos en la cubierta de un barco de guerra al amanecer; ataca
+  una criatura marina gigante. Del
+  [0:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=30)
+  al [4:00](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=240)
+  del longplay ✅.
+- **Duelo final con Ares y el trono (2005)**: combate contra Ares
+  gigante sobre un coliseo en llamas, del
+  [4:30](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=270)
+  al [8:15](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=495).
+  Luego Kratos solo al borde de un acantilado al atardecer, a punto de
+  saltar ([10:30](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=630)).
+  Atenea lo salva y lo hace Dios de la Guerra: sentado en el trono de
+  Ares, con capa roja ([14:15](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855)) ✅.
+- **El Coloso de Rodas y la traición de Zeus (God of War II)**: Kratos
+  ya es dios, en su trono con estandartes rojos
+  ([0:35](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=35)).
+  Zeus da vida a la estatua del Coloso, que ataca el puerto de noche
+  ([1:45](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=105)
+  a [6:25](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=385)).
+  Zeus lo apuñala por la espalda, con salpicón de sangre en pantalla
+  ([8:10](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=490)) ✅.
+- **La apertura de God of War III**: narración sobre Kratos «en el trono
+  como nuevo dios de la guerra», atormentado por su familia
+  ([0:00](https://archive.org/details/LP_God_of_War_3?t=0), transcrita
+  en inglés en `partes/episodios.md`) ✅.
+- **El final de God of War III, la Caja de Pandora**: tras matar a Zeus,
+  un espíritu translúcido verde le habla a Kratos («Cuando Zeus reunió
+  todos los males y los puso en la caja, temí lo que pasaría si volvía a
+  abrirse», [4:00](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=240)).
+  Primer plano de la **Caja de Pandora**, tallada con costillas y cuernos,
+  roja sobre negro ([5:20](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=320)).
+  Kratos se aleja malherido dejando sangre en el suelo
+  ([8:00](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=480)) ✅.
+  La parte llama al espíritu «de la Esperanza»; quién habla exactamente,
+  sin comprobar ⚠️.
+- **Ascension, tráiler «Ares God»**: un rostro en llamas con ojos rojos
+  (es **Ares**, no Kratos) entre piedras ardiendo
+  ([0:21](https://www.dailymotion.com/video/xv3hg7?t=21)); Kratos joven
+  lucha en un coliseo circular contra criaturas aladas de fuego
+  ([0:42](https://www.dailymotion.com/video/xv3hg7?t=42) a
+  [1:17](https://www.dailymotion.com/video/xv3hg7?t=77)) ✅.
+- **Chains of Olympus, tráiler 2008**: Kratos a caballo contra un
+  ejército persa ([0:10](https://www.dailymotion.com/video/x4pow1?t=10)
+  a [0:30](https://www.dailymotion.com/video/x4pow1?t=30)); un monstruo
+  gigante sale de la arena ([0:35](https://www.dailymotion.com/video/x4pow1?t=35)).
+  Subtítulos en francés. Qué estudio hizo el tráiler, sin confirmar ⚠️.
+- **Ghost of Sparta, tráiler** (Ready At Dawn en pantalla,
+  [0:08](https://www.dailymotion.com/video/x5mefjv?t=8)): Kratos sentado
+  en un trono envuelto en llamas amarillas, recordando
+  ([0:16](https://www.dailymotion.com/video/x5mefjv?t=16)); plano
+  submarino turquesa con ruinas ([1:20](https://www.dailymotion.com/video/x5mefjv?t=80)) ✅.
+
+### Saga nórdica
+
+- **La caza y las cenizas (God of War, 2018, tráiler)**: en la cabaña,
+  Atreus apunta con el arco a un jabalí tallado
+  ([0:24](https://www.dailymotion.com/video/x8kowmz?t=24)); padre e hijo
+  junto al túmulo nevado con la urna
+  ([1:00](https://www.dailymotion.com/video/x8kowmz?t=60)); Kratos sujeta
+  la cara de Atreus en pleno combate, protector y serio
+  ([1:36](https://www.dailymotion.com/video/x8kowmz?t=96)) ✅.
+- **Padre e hijo en la nieve (Ragnarök, cinemática)**: caminan por el
+  bosque nevado, la mano de Kratos en el hombro de Atreus
+  ([0:20](https://www.dailymotion.com/video/x8ca7zx?t=20)) ✅.
+- **Tráiler de Ragnarök**, 69 planos transcritos (`partes/episodios.md`):
+  «Everyone keeps secrets. Sometimes it's the only way to protect the
+  ones we love» ([0:00](https://www.dailymotion.com/video/x8do3jy?t=0));
+  la pelea verbal de Thor, «You don't care about anything beyond
+  yourself. Beyond the monster who kills without cause»
+  ([1:00](https://www.dailymotion.com/video/x8do3jy?t=60)); Kratos con
+  pintura de guerra roja y la mandíbula tensa
+  ([1:57](https://www.dailymotion.com/video/x8do3jy?t=117)) ✅.
+- **La visión del oso Björn (Ragnarök)**: Kratos joven con un látigo de
+  cadena en llamas contra un oso gigante rotulado «BJORN»
+  ([0:40](https://www.dailymotion.com/video/x92n352?t=40) a
+  [1:20](https://www.dailymotion.com/video/x92n352?t=80)); después Kratos
+  mayor agarra del hombro a un Atreus conmocionado y le explica
+  ([4:00](https://www.dailymotion.com/video/x92n352?t=240) a
+  [5:00](https://www.dailymotion.com/video/x92n352?t=300)) ✅.
+- **Epílogo de Ragnarök («Secret Ending», GamesRadar, con SPOILERS)**: un
+  cofre tallado con nudos nórdicos bajo raíces gigantes, niebla violeta
+  ([1:30](https://www.dailymotion.com/video/x8qej41?t=90)); fogata de
+  noche con Kratos, Atreus y Mimir comiendo juntos
+  ([2:24](https://www.dailymotion.com/video/x8qej41?t=144)) ✅.
+- **La cumbre de Jötunheim (final de 2018)**: Kratos deja por primera vez
+  que Atreus lleve las cenizas de Faye y las esparcen juntos. Descrita por
+  [Den of Geek](https://www.denofgeek.com/games/god-of-war-ragnarok-ending-explained-summary-secrets/)
+  y [ResetEra](https://www.resetera.com/threads/the-ending-of-god-of-war-2018-was-so-much-better-than-i-remembered-spoilers.375759/)
+  ✅; **sin mirar en vídeo ni minuto** ⚠️.
+- **La muerte de Brok (Ragnarök)**: Týr, que es Odín disfrazado, apuñala
+  a Brok; después, velatorio donde Kratos, Mimir y Freya se despiden
+  ([Sportskeeda](https://www.sportskeeda.com/esports/how-did-brok-die-in-god-of-war-ragnarok))
+  ⚠️ una fuente, sin vídeo.
+
+---
+
+## 3 · Arte oficial y hojas de contacto
+
+### Lo oficial, en cantidad
+
+**Artbooks** (fichas de la wiki, texto leído por la API) ✅:
+
+| Artbook | Páginas | Editorial y año |
+|---|---|---|
+| [The Art of God of War](https://godofwar.fandom.com/wiki/The_Art_of_God_of_War) | 184 | Dark Horse, 2018 |
+| [The Art of God of War II](https://godofwar.fandom.com/wiki/The_Art_of_God_of_War_II) | 122 | BradyGames, 2007 (con la guía de la Edición Limitada) |
+| [The Art of God of War III](https://godofwar.fandom.com/wiki/The_Art_of_God_of_War_III) | 272 | Ballistic Publishing, 2010 |
+| [The Art of God of War Ascension](https://godofwar.fandom.com/wiki/The_Art_of_God_of_War_Ascension) | 392 | Bluecanvas, 2013 (7 secciones: High Vision, Characters, Weapons/Props, Environment, VFX, Marketing) |
+| [The Art of God of War Ragnarök](https://godofwar.fandom.com/wiki/The_Art_of_God_of_War_Ragnar%C3%B6k) | 240 | Dark Horse, 2022; también **artbook digital** en [Steam](https://store.steampowered.com/app/2974340) |
+| The Art of God of War Sons of Sparta | ? | sólo listado en la [categoría Artbooks](https://godofwar.fandom.com/wiki/Category:Artbooks) ⚠️ |
+
+**Guías oficiales de cosplay** (lo más exacto para la ropa real):
+- [PDF gratis de Santa Monica Studio](https://secure.cdn.us.playstation.com/god-of-war/cosplay/god-of-war-cosplay-guide.pdf),
+  37 páginas, 2018: Kratos, Atreus, Freya y Baldur, más el Hacha
+  Leviatán, el Escudo del Guardián y el Arco Talon, con patrones y
+  materiales ✅ ([ficha en la wiki](https://godofwar.fandom.com/wiki/God_of_War_(2018)_Cosplay_Guide)).
+- [Página oficial de cosplay de PlayStation](https://www.playstation.com/en-us/god-of-war/community/cosplay/):
+  guías en PDF y vídeo de Kratos, Atreus, Freya, Angrboda, Thor, Týr,
+  Brok y Sindri, Thrúd, Odín, Heimdall y Gná (*Ragnarök*) ✅.
+
+**ArtStation Art Blast** (el estudio publica su arte con el nombre de
+cada artista) ⚠️: ArtStation da 403, sólo confirmado por el buscador.
+- [God of War, junio 2018](https://magazine.artstation.com/2018/06/santa-monica-studio-god-war-art-blast-concept-art/).
+- [Ragnarök, parte 1](https://magazine.artstation.com/2023/02/santa-monica-studio-god-of-war-ragnarok-art-blast/)
+  (Angela Rico, Andrew Ariza, Bernardo Cruzeiro, Amanda Irani, Vance
+  Kovacs) y [parte 2](https://magazine.artstation.com/2023/02/santa-monica-studio-god-of-war-ragnarok-art-blast-part-two/)
+  (Nidavellir, Niflheim, Vanaheim, VFX, luz e interfaz).
+
+**Artistas del estudio** ⚠️ (títulos vistos en el buscador):
+- **Raf Grassetti** diseñó a Kratos en 2018 y *Ragnarök*:
+  [perfil](https://grassetti.artstation.com),
+  [Kratos (Ragnarök)](https://www.artstation.com/artwork/3dKqbD),
+  [reveal E3 2016](https://www.artstation.com/artwork/Wk4dG).
+- **Vance Kovacs** (Thrúd, Sif, Thor, Odín, Freyr):
+  [galería propia](https://vancekovacs.com/games-gallery).
+- **Andrew Ariza**: [Thrúd](https://www.artstation.com/artwork/X1qgLL),
+  [Sif](https://www.artstation.com/artwork/qQ8eVa).
+
+**Concept art de Vance Kovacs en Internet Archive** (subido por él) ✅:
+[Odín temprano](https://archive.org/details/early-odin-concept-art-by-vance-kovacs)
+(1920×2815, medido),
+[Thor](https://archive.org/details/early-thor-concept-art-for-the-videogame-god-of-war-ragnarok-by-vance-kovacs),
+[Thrúd](https://archive.org/details/early-thrud-concept-art-for-the-videogame-god-of-war-ragnarok-by-vance-kovacs),
+[Sif y Thrúd](https://archive.org/details/god-of-war-ragnarok-sif-and-thrud-concept-arts-by-vance-kovacs),
+y también Faye y Freyr.
+
+**Láminas oficiales en Cook & Becker** (distribuidor autorizado):
+[«Ragnarök»](https://www.cookandbecker.com/en/artwork/3360/ragnarok-god-of-war-ragnarok-sie-santa-monica-studio.html)
+(batalla, 1600×900 medido en la miniatura) ✅,
+[«Father and Son»](https://www.cookandbecker.com/en/artwork/3292/father-and-son-god-of-war-ragnarok-sie-santa-monica-studio.html) ⚠️ y
+[«Týr's Escape»](https://www.cookandbecker.com/en/artwork/3300/tyr-s-escape-god-of-war-ragnarok-sie-santa-monica-studio.html) ⚠️.
+
+**Capturas oficiales de Steam, 1920×1080 medidas** ✅:
+- [God of War (2018)](https://store.steampowered.com/app/1593500), 10
+  capturas. La mejor: [Kratos con el Hacha Leviatán junto a un árbol con
+  una mano amarilla pintada](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg).
+- [Ragnarök](https://store.steampowered.com/app/2322010), 15 capturas.
+  La mejor: [Kratos con las **Espadas del Caos** al rojo contra draugr
+  helados](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg).
+  Visto por el redactor: son las dos hojas encadenadas, no el hacha
+  (las partes decían «hacha en llamas»).
+- **Modo foto**: existe en 2018, *Ragnarök* y *Valhalla* (poses, filtros,
+  profundidad de campo). Sin galería oficial aparte ⚠️.
+
+**Renders y arte de la wiki** (los más grandes, `datos-imagen.md`):
+[Kratos griego](https://static.wikia.nocookie.net/godofwar/images/6/65/Kratos_gospng.png)
+(4096×5358), [Kratos con las Espadas](https://static.wikia.nocookie.net/godofwar/images/8/82/Kratosbetpng.png)
+(4096×5358), [Atreus, render promocional de Ragnarök](https://static.wikia.nocookie.net/godofwar/images/b/bb/Atreus_Promo_Render_GoWR.jpeg)
+(4032×5040), [Atreus, concept de Dela Longfish](https://static.wikia.nocookie.net/godofwar/images/9/95/Atreus_Concept_Art_by_Dela_Longfish.jpg)
+(3000×4782), [Atreus.png](https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png)
+(2481×3508) y [«Surviving Fimbulwinter 3»](https://static.wikia.nocookie.net/godofwar/images/5/5d/Surviving_Fimbulwinter_3.jpg)
+(3840×2160) ✅ (tamaños de la API).
+
+### Las 3 hojas de contacto (`hojas/`), miradas número a número
+
+Hechas con `investigar_serie.py` (825 imágenes de las páginas de Kratos y
+Atreus, 548 grandes, 12 hojas). El investigador de imagen miró las 12 y
+eligió estas 3; el redactor las volvió a mirar y las deja.
+
+**`hojas/personajes_01.jpg`** (n.º 1-48, renders y concept):
+- #1 Kratos griego de cuerpo entero (`Kratos gospng`: piel de ceniza,
+  tatuaje rojo, falda roja con greca, Espadas del Caos) · **referencia de
+  la era griega**.
+- #2 Kratos griego en acción con las Espadas · #3 Kratos de *God of War
+  II* · #4 Kratos nórdico gris con barba (`Kratosvalpng`) · #5 Kratos y
+  Deimos de niños (`YoungDeimosKratospng`, estilo *Sons of Sparta*).
+- #6-9 y #18-25 bocetos en gris «F Kratos» (una Kratos femenina de
+  concept) · #10-14 y #26-35 «Kratos' Concept Drawings» a tinta: línea
+  suelta, manchas negras.
+- #15 póster de Atreus de *Ragnarök* («Sunny Suljic · ATREUS») · #16
+  Cronos · #17 Atreus en la niebla (Dela Longfish) · **referencia de
+  Atreus de pie**.
+- #39 Kratos contra Medusa (arte de portada del primer juego).
+- #41 Atreus con arco sobre verde · #45 cara de Atreus de cerca (pecas,
+  ojos claros) · #47 Atreus tensando el arco ante un paisaje · **poses
+  de Atreus**.
+- #44 Kratos nórdico agachado con el hacha, en la nieve.
+
+**`hojas/vestuario_01.jpg`** (n.º 385-432, escenas de las dos sagas):
+- #387 y #404 Kratos griego de cerca, tatuaje rojo y piel de ceniza ·
+  #390 Atenea y la armadura dorada.
+- #392 **Brok en su tienda** (luz ámbar) · #393 **Freya con Atreus** ·
+  #397 las Espadas del Caos sobre tela roja.
+- #407 **Kratos y Faye**, frente con frente · #409 Kratos estrangula a
+  Baldur · #412 Kratos nórdico de cerca · #413 **Kratos con la mano en
+  Atreus**.
+- #419 Thrúd mira a Atreus · #420 Thor golpea a Kratos · #421 la Serpiente
+  del Mundo entera · #422 rodaje con captura de movimiento (*Ascension*).
+- #417-418 pósteres dorados de *Sons of Sparta* · #429-432 capturas de
+  2005.
+
+**`hojas/fondos_01.jpg`** (n.º 481-528, sitios):
+- #482 camino en el acantilado al atardecer, mar detrás · #486 escalinata
+  de un palacio griego · #487 **pasillo con alfombra roja y antorchas** ·
+  #488 sala del trono con brillo rojo (todas de 2005).
+- #489 **cartela del juego de 2005**: «THREE WEEKS EARLIER / THE AEGEAN
+  SEA / KRATOS HAD ONCE BEEN A CHAMPION OF THE GODS», serif en
+  mayúsculas azul plateado sobre negro · **referencia de cartela griega**.
+- #496 escena con subtítulo blanco abajo (2005) · #506 Kratos ante
+  Poseidón (azul) · #509 un lobo de fuego · #510 **Mimir con Kratos y
+  Atreus** junto a un árbol.
+- #511 póster de *Chains of Olympus* (silueta ante una puerta dorada) ·
+  #512 póster de 2018 con Kratos y Atreus «by Lineage St» (autor sin confirmar ⚠️) · #517-520 ejército
+  espartano.
+- #524 **boceto del tatuaje** («Kratos' Concept Tattoo 12») · #527 dos
+  niños con lanzas en un paisaje (póster de *Sons of Sparta*).
+
+---
+
+## 4 · Fan art y 3D, sólo como referencia
+
+Fan art: **enlace y autor, nunca para pegar**. Sirve para ver poses y
+cómo lo dibujan otros.
+
+### Fan art (Safebooru, con origen)
+
+Kratos (`kratos_(god_of_war)`):
+- [2135×2500](https://safebooru.org/images/4619/97bd2fdb2dd693f1d26ef26226becb986b94ade1.jpg),
+  el mejor puntuado · [origen, ArtStation de maxes](https://maxes.artstation.com/projects/WBmGw3) ✅.
+- [1082×1600](https://safebooru.org/images/1038/d0627dbad57291ca1c0e3401387af8de4d27997a.jpg) ·
+  [origen](https://www.artstation.com/artwork/Kezew9).
+- [1378×2039](https://safebooru.org/images/4/2786061511e84e6d4695147b1de1e7d308042fe9.jpg) ·
+  [origen, ryosuketarou](https://twitter.com/ryosuketarou/status/1864685485144330655).
+- [1430×2048](https://safebooru.org/images/4619/2d82fada59f4b55b3fac0b1d2cef04c66c234028.jpg) ·
+  [origen, pyro_cri](https://twitter.com/pyro_cri/status/1594224464061149184).
+- [2496×1110, Kratos y Atreus juntos](https://safebooru.org/images/570/889cb056b6bcef519f9c5d36a2236db44ea4e289.jpg) ·
+  [origen, keenbiscuit](https://x.com/keenbiscuit/status/2062193042774450227) ⚠️.
+
+Atreus (`atreus_(god_of_war)`):
+- [2000×2000](https://safebooru.org/images/301/3e7c6706e1b99e2af86613bc22f4ea3cc24f168e.jpg) ·
+  [frskdraws](https://x.com/frskdraws/status/1632503073229742080).
+- [1352×2048](https://safebooru.org/images/301/87b980aac3cbc5290aed98e268b493ed461f0b68.jpg) ·
+  [GinkgoSan](https://x.com/GinkgoSan/status/1608723755702030338).
+- [1751×2048](https://safebooru.org/images/1327/9134000837ce9e4232d49887e186c5330fdb8a74.jpg) ·
+  [BUGAK1109](https://x.com/BUGAK1109/status/2011428844109254870).
+- [2048×1152](https://safebooru.org/images/1073/2d7494b1106c8b18924b49e497b490b2cc64d440.jpg) ·
+  [psycho_boi_m](https://x.com/psycho_boi_m/status/1895215575758143813).
+
+Ojo: en Danbooru el fan art lo vuelve a veces **«animificado»**
+(en Danbooru, los dibujos de Atreus llevan a menudo `animification`,
+`bishounen`, `smile` y `pout`). Eso **no** es el estilo del juego (§18).
+
+### Modelos 3D con licencia (Sketchfab)
+
+Todos **CC Attribution** salvo el cofre: se pueden usar y modificar
+**citando al autor** así: «"<título>" por <autor>, CC BY, Sketchfab».
+
+| Modelo | Autor | Licencia | Enlace |
+|---|---|---|---|
+| Kratos completo («God of War») | Julio César | CC BY · ♥625 | [ver](https://sketchfab.com/3d-models/none-dc80c2582d3446aab1cff9f4055e04ec) |
+| Kratos (descarga gratis) | eon | CC BY · ♥438 | [ver](https://sketchfab.com/3d-models/none-19bff2ed58a141adb4656434e848704b) |
+| Kratos de GoW III, **con rig y textura** (para posar en Blender) | S4int0fSSG | CC BY · ♥256 | [ver](https://sketchfab.com/3d-models/none-ad37e8d6a2e44f8691bf2f2ab5bdbfa9) |
+| Thor (*Ragnarök*) | GvMod | CC BY · ♥387 | [ver](https://sketchfab.com/3d-models/none-9ee22b2b334642e2bea4673dce5dd3f7) |
+| Espada del Caos | DeLeon | CC BY · ♥312 | [ver](https://sketchfab.com/3d-models/none-1c23158349954342ad74bc002d01007e) |
+| Hacha Leviatán | DeLeon | CC BY · ♥181 | [ver](https://sketchfab.com/3d-models/none-50143f73601246f2916e571df854b978) |
+| Cesto de Nemea | Julio César | CC BY · ♥185 | [ver](https://sketchfab.com/3d-models/none-df6e4c2d61f3496aadb99337d9e164fa) |
+| Cofre («God Of War Chest») | yura3d | **CC BY-NC** · ♥44 | [ver](https://sketchfab.com/3d-models/none-1baca65311744bfab9d19af31b505f27) |
+
+- **Rig de Kratos (2018) para Blender**: *Kratos Multi-Rig* en
+  [Open3DLab](https://open3dlab.com/project/c48b8970-89db-44a1-8255-0ee5e14ff066/),
+  `.blend` nativo, varias armaduras, el Hacha y las Espadas, texturas
+  aparte (938 MB). **CC BY-NC-ND 4.0**: sólo referencia de pose, no se
+  puede modificar ni redistribuir ✅.
+- **Sitios en 3D libres** (templos, el Lago de los Nueve, el salón de
+  Týr): **no se encontraron**; Sketchfab sólo devuelve personajes y armas
+  ⚠️. Para los sitios, texturas reales de §5.
+- **Fotos libres de cosplay y exposiciones** (Openverse, Flickr; sin
+  mirar una por una ⚠️):
+  [«MegaCon 2013 - God of War»](https://live.staticflickr.com/8099/8566663147_aa5c9e8c7f_b.jpg)
+  (Howie Muzika, CC BY-NC-ND 2.0),
+  [«Atreus - God of War»](https://live.staticflickr.com/65535/52514352997_8f4df1c698_b.jpg)
+  (timz2011, CC BY-NC-SA 2.0),
+  [«God of war»](https://live.staticflickr.com/7298/12797322963_62d389d78a_b.jpg)
+  (1upLego, CC BY-NC-SA 2.0). Las de «Ares» y «Mars» son de la mitología
+  real, no del juego.
 
 ---
