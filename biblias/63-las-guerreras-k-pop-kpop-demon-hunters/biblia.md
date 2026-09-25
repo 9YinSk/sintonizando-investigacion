@@ -1453,3 +1453,314 @@ Instagram oficial, citado por la wiki. ✅ salvo lo marcado.
 | 😂 **Zoey no puede no bailar** | Dos veces con «Soda Pop» | Baila la canción de sus enemigos | — | ✅ (wiki) |
 | 😂 **Derpy** | Varias | Las caras del tigre | — | El meme nº1 (§14) ✅ |
 
+## 23 · Fan dubs y comunidad hispana (punto 22)
+
+- **Cover de «Golden» en español latino**: «Las Guerreras KPOP |
+  Huntrix - GOLDEN (Cover Español Latino)», de la cantante
+  **HitomiFlor**
+  ([YouTube](https://www.youtube.com/watch?v=nvtGsaMv9yc)). ⚠️ (YouTube
+  pidió iniciar sesión: sin vistas ni duración)
+- **TikTok**: «Las Guerreras Kpop: Doblaje y Música en Español», de
+  [@melody._star](https://www.tiktok.com/@melody._star/video/7511256336668118278). ⚠️
+  Y mucho contenido bajo búsquedas como «Golden audio en español
+  completo», «Takedown en español latino» o «los actores de doblaje de
+  las guerreras de k pop». Es tendencia en el TikTok hispano, sin cifras
+  por vídeo. ⚠️
+- **Fandub de casting**: un blog de usuario de Doblaje Wiki propone un
+  reparto alternativo «localizado en México»
+  ([FanDubbing22](https://doblaje.fandom.com/es/wiki/Usuario_Blog:FanDubbing22/LAS_GUERRERAS_K-POP_(Localizado_en_M%C3%A9xico))). ✅
+- **Prensa hispana del doblaje**: ANMTV e Infobae publicaron quién dobla
+  a quién (§10). ✅
+- **Meme hispano**: el «Front Man» (Gwi-Ma y *El juego del calamar*,
+  mismo actor latino). ✅
+- **No se encontraron fandubs de escenas habladas** en Dailymotion ni en
+  Internet Archive. Búsquedas: «Las Guerreras Kpop escena español
+  latino», «KPop Demon Hunters clip doblaje latino», «fandub Jinu
+  Rumi», «parodia». ⚠️
+- **Para el servidor**: las muestras oficiales de §10 son el mejor
+  material para un reto de doblaje: frase corta, emoción clara, voz
+  medida.
+
+## 24 · Colaboraciones, figuras y cosplay (punto 23)
+
+**En otros juegos**:
+- **Fortnite**, dos oleadas. 1.ª (2-oct a 1-nov-2025): Rumi, Mira y
+  Zoey, pico y mochila de ramyeon para cada una y el gesto «Zoey's
+  Thumbs Up»; lote completo, 3500 V-Bucks
+  ([Forbes](https://www.forbes.com/sites/paultassi/2025/10/02/here-are-the-fortnite-kpop-demon-hunters-skins-and-cosmetics-prices/)).
+  2.ª (6-feb-2026): HUNTR/X doradas y **Jinu** en dos trajes («Soda
+  Pop» y el demoníaco de «Your Idol»); Rumi dorada trae un estilo con
+  las marcas en brazos y piernas
+  ([VICE](https://www.vice.com/en/article/kpop-demon-hunters-fortnite-wave-2-revealed-with-huntrix-golden-skins-jinu/),
+  [Dexerto](https://www.dexerto.com/fortnite/fortnite-x-kpop-demon-hunters-release-date-skins-emotes-more-3260330/)). ✅
+- **CookieRun: Kingdom** (versión 7.3): Rumi, Mira y Zoey Cookie (Rumi
+  cuerpo a cuerpo rápida, Mira tanque, Zoey a distancia), trajes de
+  HUNTR/X y Saja Boys, 4 edificios y el modo «Live! Survival on Stage»
+  ([Pocket Gamer](https://www.pocketgamer.com/cookie-run-kingdom/kpop-demon-hunters-collab-now-live/),
+  [esports.gg](https://esports.gg/news/cookie-run-kingdom/cookie-run-kingdom-kpop-demon-hunters-collab-new-idol-group-bites/)). ✅
+
+**Marcas**:
+- **McDonald's** (31-mar-2026): menú Saja Boys (Spicy Saja McMuffin
+  con salsa de Gwi-Ma) y menú HUNTR/X (McNuggets, papas «Ramyeon
+  McShaker», salsa Demon morada y salsa Hunter picante, 1 de 6 tarjetas
+  holográficas); McFlurry «Derpy»
+  ([Today](https://www.today.com/food/restaurants/kpop-demon-hunters-mcdonalds-rcna265117),
+  [Game Rant](https://gamerant.com/kpop-demon-hunters-mcdonalds-collab/)). ✅
+- **LEGO**: tema propio, primer set en preventa 2026-27
+  ([LEGO](https://www.lego.com/en-us/themes/kpop-demon-hunters/about),
+  [Brickset](https://brickset.com/article/129902/lego-kpop-demon-hunters-coming-soon!)). ✅
+- **Guía oficial de productos**: cosmética Anua, muñecas Mattel,
+  Hasbro, Furby, kits de ganchillo Woobles, ropa de Bershka
+  ([Netflix Tudum](https://www.netflix.com/tudum/articles/kpop-demon-hunters-products-guide)). ✅
+- **Tienda *pop-up***: Seúl (diciembre) y gira por Asia; en Hong Kong,
+  New Town Plaza, del 18-dic al 11-ene: *photocards* lenticulares,
+  *washi tape*, peluches, llaveros de mini-CD
+  ([Time Out](https://www.timeout.com/hong-kong/news/theres-a-k-pop-demon-hunters-pop-up-opening-in-hong-kong-121725)). ⚠️
+- ⚠️ No se encontró café temático oficial, ni Uniqlo, ni Crocs.
+
+**Ídolos reales**: TWICE (Jeongyeon, Jihyo, Chaeyoung) cantan
+«Takedown»; Cha Eunwoo bailó «Soda Pop» y cantó «Free» con Arden Cho;
+An Yujin (IVE), Lily (NMIXX), Solar (MAMAMOO) y Urban Zakapa hicieron
+covers de «Golden»
+([Korea Herald](https://www.koreaherald.com/article/10541560),
+[The Honey POP](https://thehoneypop.com/2025/08/04/k-pop-demon-hunter-covers/)). ✅
+
+**Figuras oficiales** (su pose sirve de referencia 3D):
+- **Youtooz**, con licencia de Netflix: vinilos de HUNTR/X y Saja Boys
+  desde 29,99 $; cajas «figure and pin» (hoja `personajes_01`
+  nº 34-36) y «Monitor Buddiez» (nº 13-14)
+  ([Youtooz](https://youtooz.com/collections/kpop-demon-hunters),
+  [Netflix Shop](https://www.netflix.shop/collections/kpop-demon-hunters-youtooz)). ✅
+
+**Cosplay bien hecho** (fotos libres):
+- Galaxy Con San José 2025, dos ángulos, 3000×2000
+  ([Wikimedia Commons, John E. Manard](https://upload.wikimedia.org/wikipedia/commons/a/a2/Cosplay_of_KPop_Demon_Hunters_at_Galaxy_Con_San_Jose_2025.jpg),
+  CC BY-SA 4.0). ✅
+- Derpy y Sussie en la Japan Expo 2026, 2448×3264
+  ([Wikimedia Commons, Eunostos](https://upload.wikimedia.org/wikipedia/commons/9/9d/Statue_du_tigre_bleu_et_de_la_pie_de_Kpop_Demon_Hunter_-_Japan_Expo_2026.jpg)). ✅
+- **Materiales de la cazadora de Rumi** (tutorial casero): óvalo de
+  fieltro negro con 4 picos cónicos pegados; camiseta de cuello alto con
+  cinta de gargantilla; short negro con cinturón de fieltro rosa; trenza
+  con tiza morada; menos de 10 $
+  ([Life at Cloverhill](https://lifeatcloverhill.com/2025/10/diy-rumi-costume-kpop-demon-hunters-tutorial.html)). ⚠️
+
+## 25 · Obras parecidas y láminas vecinas (punto 24)
+
+**Lo que reconoce la directora, Maggie Kang**
+([Geeks OUT](https://www.geeksout.org/2025/07/16/interview-with-maggie-kang-creator-of-kpop-demon-hunters/)):
+- Cine que le ponía su padre: Kurosawa, Kieślowski, Chaplin, Wong
+  Kar-wai, Kim Ki-duk, Kiarostami, Scorsese, Kubrick; y *Star Wars*,
+  *Indiana Jones*, *Los Goonies*, Disney. ✅
+- Humor: Los Simpson, Looney Tunes y Chaplin. ✅
+- Su camino: DreamWorks, Blue Sky, DreamWorks otra vez, jefa de
+  *storyboard* en *La Lego Ninjago Película*. ✅
+- La idea nació de leer sobre demonología coreana y las *mudang*
+  (chamanas); el K-pop llegó después
+  ([Variety](https://variety.com/2025/tv/festivals/kpop-demon-hunters-creator-maggie-kang-favorite-character-1236525113/)). ✅
+  Bong Joon-ho como inspiración para mezclar géneros. ⚠️ (Screendaily
+  no se pudo abrir)
+
+**K-pop real detrás**: HUNTR/X mezcla a **Itzy, Twice y Blackpink**;
+los Saja Boys, a **TXT, BTS, Stray Kids, ATEEZ, BIGBANG y Monsta X**
+(wiki, con Mashable y Forbes). ✅
+
+**Obras parecidas** (Collider, 15 recomendaciones): *Demon Slayer*,
+*Trollhunters*, *Star vs. the Forces of Evil* («la misma energía»),
+*Totally Spies!* y *Martin Mystery*
+([Collider](https://collider.com/shows-like-kpop-demon-hunters/)). ✅
+
+**Láminas vecinas del servidor** (para no repetir ideas):
+- `05-oshi-no-ko`: la doble vida de un ídolo y la industria por dentro.
+- `38-sailor-moon`: grupo de chicas con armas mágicas.
+- `97-bocchi-the-rock-bandas-y-bajones` y `10-k-on`: música en directo.
+  **Bocchi ya propuso `#🎼・demos-canto`** (y hay una «demos-canto 2»
+  con el teclado): el concepto A de aquí usa otro objeto (§27).
+- `31-demon-slayer-kimetsu-no-yaiba` y
+  `79-demon-slayer-paisajes-y-auras`: caza de demonios, mucho más seria.
+
+## 26 · El mundo, la historia por arcos y sus símbolos (punto 25)
+
+**Las reglas del mundo en cinco líneas**
+([wiki, Honmoon](https://kpop-demon-hunters.fandom.com/wiki/Honmoon);
+[Demon](https://kpop-demon-hunters.fandom.com/wiki/Demon)):
+1. Los demonios comen almas humanas. Los gobierna **Gwi-Ma** desde el
+   Mundo Demonio.
+2. Sólo **la voz y la música** crean y sostienen el **Honmoon**, la
+   barrera. Nació de rituales de *mudang* y hay que renovarla siempre.
+3. Las cazadoras son linajes secretos de mujeres que en público son
+   ídolos. Hay una generación nueva cada década o así; HUNTR/X es la
+   primera desde las **Sunlight Sisters** de los 90.
+4. Un humano se vuelve demonio por un pacto con Gwi-Ma nacido de la
+   desesperación. La piel se llena de «patrones». Sólo aceptarse a uno
+   mismo lo revierte.
+5. El color del Honmoon cuenta la historia: **azul** normal, **dorado**
+   completo (la meta de HUNTR/X), **arcoíris** al final: más fuerte,
+   pero no perfecto.
+
+✅
+
+**La historia por arcos**
+([wiki, Timeline](https://kpop-demon-hunters.fandom.com/wiki/Timeline)):
+- **Hace siglos**: tres *mudang* crean el primer Honmoon con música.
+- **Hace 400 años**: Jinu, plebeyo de Joseon, pacta con Gwi-Ma: voz
+  preciosa y favor del rey a cambio de abandonar a su familia. Acaba
+  demonio.
+- **Siglo XX**: cazadoras en los años 20, 40, 60 y 80. En los 90, las
+  Sunlight Sisters y el primer **International Idol Awards**.
+- **Hace 5 años**: Celine elige a Rumi, Mira y Zoey. HUNTR/X gana los
+  Idol Awards cinco años seguidos.
+- **La película**:
+  1. Los demonios asaltan su avión; después, **«How It's Done»**.
+  2. **«Golden»**: el Honmoon empieza a volverse dorado.
+  3. Llegan los **Saja Boys** con **«Soda Pop»** y se hacen virales en
+     el programa *Play Games With Us* (en latino, «**Jueguen con
+     nosotros**»).
+  4. Guerra de canciones: el *diss track* **«Takedown»**.
+  5. Rumi y Jinu se acercan: **«Free»**. ⚠️ la Timeline no dice en
+     qué punto exacto
+  6. Ruptura pública de HUNTR/X en los Idol Awards (la wiki la llama
+     «fingida»). ⚠️ revisar con la película
+  7. **«Your Idol»** en la Namsan Tower rompe el Honmoon; entra Gwi-Ma.
+  8. **«What It Sounds Like»**: Rumi se acepta, Jinu se sacrifica, nace
+     el Honmoon arcoíris.
+
+✅ (wiki, cruzada con la ficha del film)
+
+**Emblemas** (vistos y medidos):
+- **HUNTR/X**: cuadrifolio holográfico (cuatro óvalos en cruz) con una
+  **H** blanca; debajo «HUNTR/X» con la X como una diagonal ancha.
+  `#677D9A` `#4F466A` `#9A4893` sobre negro. 1194×1194. ✅
+- **Saja Boys**: «SAJA» a pincel en blanco y «BOYS» en magenta, con una
+  cabeza de león o tigre en un escudo de cinco lados. `#FC02A5`. ✅
+- **La película**: la estrella de cuatro puntas (§6). ✅
+
+**Objetos icónicos** (objetos chamánicos coreanos reales,
+[Korean Cultural References](https://kpop-demon-hunters.fandom.com/wiki/Korean_Cultural_References),
+que cita a KoreaTlas y Korea Travel Post):
+- **Sa-in-geom** (사인검), la espada de Rumi: «espada de los cuatro
+  tigres», forjada en el año, mes, día y hora del tigre. ✅
+- **Gok-do / wol-do** (곡도/월도), la alabarda curva de Mira. ✅
+- **Shin-kal** (신칼), las «cuchillas divinas» de Zoey. ✅
+- **Bipa** (비파), el laúd de Jinu. ✅
+- **Gat** (sombrero negro de ala ancha) de los Saja Boys. ✅ (hojas)
+- **Los vasos de ramyeon** con el nombre de cada una (`concept_02`
+  nº 84). ✅
+
+**Vocabulario que un fan reconoce al instante** ✅:
+- **Honmoon** (혼문): «puerta del alma».
+- **Mudang** (무당): chamana coreana.
+- **Dokkaebi** (도깨비): duendes y demonios comunes.
+- **Jeoseung saja** (저승사자): el mensajero del inframundo. De ahí el
+  nombre y el disfraz de los Saja Boys, aunque en público dicen que
+  *saja* es «león».
+- **Mul-gwishin** (물귀신): fantasmas de ahogados, los demonios del baño.
+- **Maknae** (막내): la más joven. **Sunbae / hoobae** (선배/후배):
+  veterano y novato.
+- **The Pride**: el club de fans de los Saja Boys (*saja* = león).
+- **Fansign** (팬사인): firma de autógrafos.
+- **Gaja gaja gaja** (가자): «¡vamos!».
+- **Daedongnyeojido** (대동여지도): el mapa histórico de Corea cuyas
+  formas inspiran las marcas de los demonios.
+- **Derpy** (el tigre) y **Sussie** (la urraca): de la pintura popular
+  *jak-ho-do*.
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas, una por canal de §0. Las tres usan un **objeto
+real en un sitio real** de la película y el cuadro de diálogo propio de
+la serie (§7), nunca una burbuja. Textos del canal copiados de
+`servidor/inventario.md`.
+
+### A · El cuaderno de letras en la cabina (`#🎼・demos-canto`) ⭐
+
+- **Objeto y sitio**: un **cuaderno de letras abierto** sobre el atril
+  del **estudio de grabación de la HUNTR/X Tower** (existe en la
+  película, §5). En Blender: cuaderno de espiral con hojas curvas y
+  arrugadas, **micrófono de estudio con filtro antipop**, auriculares
+  colgados. La tinta sigue la curva del papel.
+- **Personaje**: **Rumi**, la más querida y la que canta (§9). Detrás
+  del cristal de la cabina, **de perfil, cantando al micro, cabeza
+  atrás** («Takedown» 1:48). Referencia del gesto de escribir: hoja
+  `vestuario_10` nº 477
+  ([imagen](https://static.wikia.nocookie.net/kpop-demon-hunters/images/7/75/Rumi_writing_notes_for_Take_Down.jpg/revision/latest?cb=20260617125554)).
+  Cazadora amarilla: `personajes_01` nº 17. El estudio real: «Takedown»
+  0:30-1:00.
+- **Cómo habla**: **con su letra a mano**, como en el espejo del Han
+  Clinic («Golden» 1:48). Letra **Caveat**. El título, en la tapa, en
+  **Hunters K-Pop**.
+- **Dónde va cada texto**:
+  - Tapa del cuaderno: **demos-canto**.
+  - Página izquierda, a mano: «Tu ficha de canto, aparte de la de
+    doblaje.» y «Un hilo con tu registro y tus covers.»
+  - Margen, como nota de Rumi: «…de alguna forma mi voz estuvo
+    sanando» (frase real del doblaje, §10).
+  - Página derecha: las **etiquetas** como pestañas o pegatinas de
+    colores: registros (Soprano, Mezzosoprano, Contralto, Tenor,
+    Barítono, Bajo, Falsete, Growl), estilos (Balada, Rock, Pop, Anime
+    OP/ED) y estado (Disponible, Ocupado). Si no caben, **lámina 2**.
+  - Una esquina: «Lee el hilo fijado» con una flecha a mano.
+- **Que no quede plano**: el micro y el antipop **delante**, un poco
+  desenfocados; Rumi detrás del cristal con reflejo; contraluz violeta
+  y dorado de concierto (`#533B42` `#E0C66B`); ondas tenues del Honmoon
+  en el cristal.
+- **Lámina 2** (etiquetas): un **álbum de *photocards***, una por
+  etiqueta, como las *photocards* lenticulares del *pop-up* (§24). Cada
+  registro con una cara del trío cantando (`vestuario_10` nº 440, 461,
+  469).
+
+### B · El escenario de los Idol Awards (`🎭・Escenario`)
+
+- **Objeto y sitio**: el **escenario de los Idol Awards**, con su
+  decorado de templo coreano rojo y oro y un **micrófono de pie** en el
+  centro. En Blender: tarima, pilares, telón y la pantalla gigante del
+  fondo, donde va el grafismo.
+- **Personaje**: **Rumi sola, brazos en «V»**, un pie adelantado
+  («Golden» 2:12). Variante en grupo: HUNTR/X doradas (`vestuario_10`
+  nº 476) o el trío con los puños en alto («How It's Done» 0:54). Cuerpo
+  entero para recortar: `personajes_01` nº 39
+  ([Rumi IdolAwards Render](https://static.wikia.nocookie.net/kpop-demon-hunters/images/c/cd/Rumi_IdolAwards_Render.png/revision/latest?cb=20260626093239)).
+- **Cómo habla**: con **grafismo de concierto**, como «UP UP UP»:
+  mayúsculas enormes detrás de ella, en **Anton**, con resplandor dorado.
+  Lo explicativo, como **subtítulo de Netflix** (blanco con sombra,
+  **Roboto**).
+- **Dónde va cada texto**:
+  - Pantalla del fondo, gigante: **ESCENARIO**.
+  - Subtítulo, línea 1: «Charlas, entrevistas y directos.»
+  - Subtítulo, línea 2: «Sube quien invita el anfitrión.»
+  - Un cartel pequeño en hangul y español en el atril, como el del Han
+    Clinic (**Noto Sans KR**).
+- **Que no quede plano**: el **público de espaldas en silueta** delante,
+  con los brazos en alto («How It's Done» 2:18); **foco cenital** y humo;
+  rojo y oro (`#E0C66B` `#AF8351` `#793121`).
+
+### C · Los tres vasos de ramyeon (`#😂・memes`)
+
+- **Objeto y sitio**: los **tres vasos de ramyeon** con el nombre de
+  cada una (`concept_02` nº 84, 65) en la mesa de la **cocina de la
+  HUNTR/X Tower**, de noche. En Blender: vasos de cartón con tapa medio
+  abierta, palillos, vapor.
+- **Personaje**: **Derpy**, el tigre azul, el más querido de meme
+  (§14), asomado detrás de los vasos, con Sussie al lado. Referencias:
+  su ficha en
+  [Netflix Tudum](https://www.netflix.com/tudum/articles/kpop-demon-hunters-derpy-tiger-bio)
+  y, para el volumen en 3D, la estatua de la Japan Expo 2026 (§24).
+  ⚠️ No hay imagen de Derpy en las hojas. Y **Rumi
+  comiendo kimbap** con las mejillas llenas (`vestuario_10` nº 478), la
+  cara de meme.
+- **Cómo habla**: la etiqueta impresa de cada vaso y el **subtítulo de
+  Netflix amarillo sobre negro** (el estilo de alto contraste), que
+  parece un meme.
+- **Dónde va cada texto**:
+  - Etiquetas de los vasos: «Superstar», «Spice Queen» y «H A M B U R G
+    E R» (el meme de verdad).
+  - Tapa del vaso del centro: **memes**.
+  - Subtítulo amarillo: «El meme, sin más.»
+  - Un *post-it* pegado en un vaso, a mano (Caveat): «Si lo doblas, va a
+    fandub-de-memes.»
+- **Que no quede plano**: **vapor y palillos delante**, en diagonal hacia
+  cámara; luz cálida de cocina contra la ventana azul de Seúl de noche
+  (`#060E1D` `#102E50`); poca profundidad de campo.
+
+⚠️ Ninguno de los tres se ha probado a 1200×800: si el A se satura, las
+etiquetas van a la lámina 2.
+

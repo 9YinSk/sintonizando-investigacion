@@ -678,3 +678,119 @@ La saga no usa tramas de manga. Usa **superficies reales fotografiadas** con gra
 - **TikTok hispano con cifras:** no encontré ⚠️
 - **Idea para el servidor:** es una saga perfecta para retos de doblaje **sin guion previo**: poner voz a gruñidos, respiraciones y a los globos del cómic.
 
+## 23 · Colaboraciones, figuras y cosplay
+
+**Colaboración oficial: *Identity V* × Little Nightmares** (NetEase, terror asimétrico para móvil)
+- Anunciada el 14-mar-2024; evento del 25-abr al 23-may-2024 ✅
+- Trae a Six y Mono al «Oletus Manor»: disfraz A «Little Girl» para la superviviente, con un **mando de televisor** como accesorio, y disfraz A «Axe Boy» para el cazador, inspirado en Mono. Dos retratos coleccionables ✅
+- Da **poses y objetos nuevos** que no están en los juegos.
+- Fuentes: https://x.com/LittleNights/status/1793205304852648247 · https://www.siliconera.com/identity-v-will-have-little-nightmares-collaboration-skins/ · https://bleedingcool.com/games/identity-v-launches-new-little-nightmares-crossover-event/ ✅
+
+**Figuras oficiales (referencia 3D real)**
+- **Gecco, Mini Figure Collection** (escultor Shinya Yamaoka, pintura Katsushige Akeyama, PVC, 8-10 cm, con base): **Six agachada con el mechero encendido sobre libros** · https://www.sideshow.com/collectibles/little-nightmares-six-gecco-co-911034 · http://www.gecco.co.jp/sheet/ln_six-en.html ✅
+- **The Guests:** Six sobre una torre de platos huyendo de dos Invitados · https://gecco.co.jp/en/product/mini-figure-collection-the-guests/ · hoja #175 · https://static.wikia.nocookie.net/littlenightmares/images/b/bf/Guests_Statue_Gecco.png ✅
+- Colección completa: Six, Nome, Conserje, Chefs Gemelos, Invitados y la Dama · https://gecco.co.jp/en/brand/little-nightmares/ ✅. Hay también estatuas de Mono con televisor (#51, 2346×2346) ✅ (visto)
+- **Figuras «Monitor Tops»:** Six y Alone, y Mono y Low, sentados encima de monitores · #170, #171 · https://static.wikia.nocookie.net/littlenightmares/images/a/a4/SixAloneMonitorTops.png · https://static.wikia.nocookie.net/littlenightmares/images/9/97/MonoLowMonitorTops.png ✅ (vistas; marca sin identificar ⚠️)
+- **Peluches Youtooz y Fangamer** de Six y Mono (#86, #90, #93, #95) y Mono Youtooz con hacha (#162) ✅ (vistos)
+- «CreepyStatue»: estatua de Six encorvada en amarillo · #445 · https://static.wikia.nocookie.net/littlenightmares/images/3/3f/CreepyStatue.jpg ✅ (marca sin identificar ⚠️)
+
+**Otros productos**
+- Vinilo *The Music Box Collection* (2021, 2×LP 180 g, 29 temas) · https://store.bandainamcoent.eu/little-nightmares-the-music-box-collection/ · https://vgmdb.net/album/111387 ✅ · anuncio «OUT NOW VINYL» #157 ✅
+- Cuatro camisetas exclusivas de la tienda Bandai Namco · #158; camiseta de Six · #161 ✅ (vistas; fecha y venta actual sin confirmar ⚠️)
+- Papercraft oficial descargable (2015-16): Six, Conserje, Nome, Dama, y uno navideño del Conserje (#146) ✅. Las plantillas ya no están en la web; Wayback no respondió ⚠️
+- Cómics y novela: punto 1.
+
+**Cosplay:** el impermeable de Six hecho a mano con hule y alambre (punto 3) ⚠️. Un segundo cosplay con el mismo detalle técnico no se encontró ⚠️
+
+**No existen** colaboraciones oficiales con Fortnite, Brawl Stars ni Dead by Daylight (buscado) ✅
+
+## 24 · Obras parecidas
+
+**Influencias que reconoce el estudio**
+- ***El viaje de Chihiro*** (Miyazaki) y ***La ciudad de los niños perdidos*** (Caro y Jeunet, 1995) · https://www.hollywoodreporter.com/heat-vision/little-nightmares-lead-designers-studio-ghibli-influence-a-sequel-1008488 ✅. Los jugadores ven en la Zona de Invitados la casa de baños de Chihiro ⚠️
+- **El tema de LN1 es la codicia y el consumo.** Se iba a llamar *Hunger* (Hambre); lo cambiaron por *Los juegos del hambre* · https://www.eurogamer.net/little-nightmares-2-interview ✅
+- **Tim Burton, no:** Mervik: «I just don't see the similarity myself, and it's certainly not something that we've ever courted» · https://gamingbolt.com/little-nightmares-interview-into-the-maw ✅
+
+**Comparaciones de prensa y fans** (⚠️ salvo lo dicho)
+- ***Coraline*** (Laika): niña de pelo oscuro con impermeable amarillo; la Dama como la Otra Madre ⚠️
+- **Stop-motion de Laika y Burton** por la textura de fieltro ⚠️
+- ***Pesadilla en Elm Street*** para el Conserje ⚠️ · ***Salad Fingers*** (David Firth) para su manía con la cuchara ⚠️
+- **La Profesora:** el *rokurokubi* japonés ✅ y la enfermera Ratched ⚠️ · **El Cazador:** Jason Voorhees ⚠️ · **Los Chefs:** Tweedledee y Tweedledum ⚠️ · **Los Nomes:** su nombre viene de los libros de Oz ✅
+- ***LIMBO*** e ***INSIDE*** (Playdead): la comparación más repetida del género ✅
+- Juegos «para quitarse el antojo»: *Bramble: The Mountain King*, *The Midnight Walk*, *Darq*, *Bendy and the Ink Machine* · https://underlevelled.com/2025/10/10/6-games-to-scratch-that-little-nightmares-itch/ · https://www.eneba.com/hub/games/games-like-little-nightmares/ · https://www.gamingscan.com/best-games-like-little-nightmares/ ✅
+- ***Reanimal*** (Tarsier, 2026): el sucesor espiritual; tiene su propio encargo (123) ✅
+
+**Temas:** horror corporal, el miedo del niño al adulto («los adultos son a quien hay que temer»), la gula como monstruo, el muñeco y la marioneta que controla o es controlada.
+
+**Láminas del servidor que se le parecen:** ninguna hecha es de terror ni de muñecos. Choque de canal: `que-estas-viendo` lo propone también Chainsaw Man; no es problema. Para no repetir: nada de pantallas-interfaz sueltas (al dueño no le convencieron); sí objetos reales, como el disco de Bebop o la caja de Bocchi.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** · https://littlenightmares.fandom.com/wiki/The_Nowhere ✅
+1. Es **the Nowhere**: un mundo al que se entra soñando, cruzando **el Umbral**, una puerta sin picaporte que vigila **el Barquero** · https://www.gamerbraves.com/little-nightmares-iii-will-have-a-friend-pass-says-producer-coralie-feniello/ ✅
+2. **Todo es gigante** para los niños. Los adultos, los **Residentes**, son monstruos deformes. Hasta los animales son peligrosos.
+3. **El tiempo corre distinto.** Niños de épocas distintas se cruzan ahí.
+4. Los Residentes tienen **su propia sociedad y su idioma**, y se odian entre ellos.
+5. **El aire está viciado**, como si nunca entrara aire fresco.
+
+**La historia por arcos**
+1. ***Little Nightmares* (2017):** Six huye del **Maw**, un barco-restaurante sumergido que sólo asoma la chimenea. El Conserje pierde los brazos en una puerta. Six se come una rata viva y luego al Nome de la salchicha. Escapa del banquete por los faroles. Muerde el cuello de la **Dama**, gana su poder y sale andando mientras suena la bocina del barco · https://littlenightmares.fandom.com/wiki/Little_Nightmares_(video_game) ✅
+2. ***Secrets of the Maw* (DLC):** el Runaway Kid, un niño con aspecto de Nome, busca otra salida por las Profundidades, el Escondite y la Residencia ✅
+3. ***Little Nightmares II* (2021):** Mono sueña con una puerta con un ojo. Libera a Six del Cazador. Cruzan el mar en una puerta-balsa hasta la **Pale City**, llena de televisores que emiten **la Transmisión**. Escuela, Hospital. El Hombre Delgado secuestra a Six. Mono la salva rompiendo su caja de música. **Six lo suelta al abismo.** Mono se convierte en el Hombre Delgado · https://littlenightmares.fandom.com/wiki/Little_Nightmares_II_(video_game) ✅. Final secreto: una Six-sombra señala **un folleto del Maw**, que cierra el círculo con LN1 ✅
+4. ***Little Nightmares III* (2025):** Low y Alone cruzan **la Espiral**: la Necrópolis (Monster Baby, muñeca gigante que petrifica con la mirada), la Fábrica de Caramelos (la Supervisora), el Carnevale (feria en un dirigible, marionetas vivas) y el Instituto (el pasado real de Low). Alone se disuelve al cruzar un espejo · https://littlenightmares.fandom.com/wiki/Little_Nightmares_III_(video_game) ✅
+5. ***Secrets of the Spiral* (DLC, 2026):** Low y Dime buscan a Alone en el Backstage del Carnevale, donde vive la Titiritera ✅
+
+**Símbolos que un fan reconoce al instante**
+- **El ojo:** logo de la saga y los «Ojos», aparatos que petrifican con la luz · https://littlenightmares.fandom.com/wiki/The_Eyes ✅
+- **El impermeable amarillo** y **la bolsa de papel** ✅
+- **El mechero** de Six y **la linterna** ✅
+- **El hambre** (*Hunger*) ✅
+- **Las cajas de música:** en LN2 es lo que mantiene «normal» a Six gigante ✅
+- **Los espejos:** la Dama no soporta el suyo; en LN3 son puertas ✅
+- **Los televisores y la Transmisión** (LN2) ✅
+- **Muñecos y marionetas:** Monster Baby, la muñeca parecida a Alone, la Titiritera, los Nomes con cara de saco, los Invitados como maniquíes hinchados. Es el «horror de muñecos» que pide el encargo ✅
+- **Vocabulario:** el Maw, the Nowhere, el Umbral, el Barquero, los Residentes, los Nomes, la Transmisión, la Pale City, la Espiral, el Hombre Delgado (Thin Man), la Dama (The Lady), la Six Oscura.
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: objeto, sitio, personaje y canal distintos. Las tres siguen las reglas de la saga: escala enorme, una sola luz, caras tapadas y ningún globo blanco. Los textos van escritos **sobre objetos**, como en la promo oficial del cuaderno (#447).
+
+### Concepto 1 · «El cuaderno del Maw» · canal 🗺️ `guia` (propuesta principal)
+
+- **Objeto real en sitio real:** un **cuaderno abierto enorme** (el formato de la promo de LN2, #447) tirado en el suelo de tablones de **la Prisión** del Maw (LN1), bajo una bombilla colgante. Se hace en Blender: libro abierto con hojas curvadas, papel `Paper006` teñido a `#E2D6C9`, dos lápices azules como en #447. La tinta sigue la curva de la página.
+- **Página izquierda:** un boceto a lápiz del **Maw en corte**, como un barco visto de lado, de abajo arriba: Prisión, Guarida, Cocina, Zona de Invitados, Aposentos de la Dama y, en un rincón, las Profundidades.
+- **Personaje:** **Six** (la más querida). Diminuta, de pie **encima de la página**, con el mechero en alto iluminando el mapa. Pose de `SixFlashlight.png` (#458) · https://static.wikia.nocookie.net/littlenightmares/images/6/62/SixFlashlight.png. Para una pose de explicar, la figura Gecco agachada con el mechero (punto 23).
+- **Cómo habla:** como el cuaderno oficial. Título en mayúsculas entre dos rayas finas (Oswald 700). Texto manuscrito estrecho (Caveat), tinta `#0E0908`. Nada sale de su boca.
+- **Dónde va cada texto:**
+  - Página derecha, arriba, entre las rayas: «LA GUÍA».
+  - Debajo, manuscrito: «El mapa del servidor.» / «Cada hilo responde una pregunta.»
+  - Más abajo: «Filtra con las etiquetas de arriba o usa el buscador del foro.» y el resto de la frase del canal (en el inventario sale cortada: «Si no encuentras lo q…»).
+  - En el mapa, **una etiqueta por sala**, de abajo arriba: Primeros pasos = Prisión (donde se despierta) · Roles y zonas = Guarida · Si te atascas = Profundidades · Bots y comandos = Cocina (las máquinas) · Doblaje = Zona de Invitados · Normas = Aposentos de la Dama (quien manda en el Maw).
+- **Cómo se evita que quede plano:** bombilla arriba (`#D2D09E` sobre `#24201D`) y el mechero de Six como segunda luz cálida, pequeña. La sombra enorme de Six cae sobre el mapa. Delante, desenfocado, **un Nome asomado** al borde del cuaderno y la punta de un lápiz cruzando el plano. Grano y viñeta encima.
+- **Lámina 2 si se satura:** la lista de los 14 hilos como «índice» en la última página del cuaderno.
+- **Referencias:** #447 (formato), `Six.png`, #458, fotograma 5:00 de LN1 (luz de la Prisión), #182 (Six en la Prisión).
+
+### Concepto 2 · «La tele de la Pale City» · canal 📺 `que-estas-viendo`
+
+- **Objeto real en sitio real:** un **televisor viejo de tubo** en un cuarto de la **Pale City** (LN2), con lluvia en la ventana y cables. Se hace en Blender: carcasa de madera, pantalla curva, antena. Referencias: la promo de Six y Mono ante la tele (#187) · https://static.wikia.nocookie.net/littlenightmares/images/e/ea/Mono-Six-Thin_Man-promo.jpg · el callejón con tele (2:01:40 de LN2) · los Viewers del tráiler de LN2 (0:52-1:04).
+- **Personaje:** **Mono**, sentado en el suelo **de espaldas**, mirando la pantalla. Se ve la silueta de la bolsa contra el brillo. Pose de la mesa de la Escuela (55:00) o de #178. Six puede estar a su lado, pequeña, en la sombra.
+- **Cómo habla:** la tele es la voz. Texto blanco que brilla en la pantalla, con líneas de barrido y estática. Letra Work Sans en mayúsculas; título en Oswald 700.
+- **Dónde va cada texto:**
+  - En la pantalla, grande: «¿QUÉ ESTÁS VIENDO?»
+  - Debajo, en la pantalla: «Series, pelis, anime.» / «Lo que estás viendo y si lo recomiendas.»
+  - La regla del *spoiler*, en una **tira de papel crema** pegada con cinta al marco de la tele (formato cuaderno, Caveat): «Con spoilers, marca el texto como spoiler.» Y en la pantalla, parte del texto **tapado por estática**: el *spoiler* hecho imagen.
+- **Cómo se evita que quede plano:** la tele es **la única luz** (`#F1F5EE` sobre `#131D26`), que recorta a Mono. Luz azul de lluvia por la ventana. Delante, desenfocadas, **las cabezas de dos Viewers** mirando la tele, o el cable de la antena. El Hombre Delgado, si sale, sólo como silueta quieta en la estática; nunca «recordando con rencor» (punto 12).
+- **Choque de canal:** Chainsaw Man también lo propone. No importa.
+
+### Concepto 3 · «La caja de música de la Dama» · canal 🎵 `canto`
+
+- **Objeto real en sitio real:** una **caja de música** abierta sobre el tocador de los **Aposentos de la Dama** (LN1), junto al único espejo intacto que ella guarda. En la saga las cajas de música se repiten: la Dama acaricia sus muñecas con una sonando, y en LN2 una caja mantiene «normal» a Six ✅. Se hace en Blender: cilindro con púas, peine de metal, manivela y tapa de latón. De la caja sale una **tira de papel perforado** que se enrosca (el método de Tobias Lilja para la música de LN2 ⚠️).
+- **Personaje:** **Six**, sentada en el borde del tocador, escuchando (pose de 17:40 de LN1, sentada mirando algo alto). **La Dama sólo en el espejo:** su máscara blanca con los dos ojos brillando (1:04:20 de LN1; cara en #459). Ella es la única del reparto que canta (*Lure of the Maw*), por eso es la voz de este canal.
+- **Cómo habla:** la canción está escrita en la tira de papel, manuscrita (Caveat, tinta `#0E0908` sobre `#E2D6C9`). El nombre del canal, grabado en la tapa de latón (Amatic SC).
+- **Dónde va cada texto:**
+  - Grabado en la tapa: «CANTO».
+  - En la tira de papel, primer tramo: «Hablar de cantar.»
+  - Segundo tramo, donde la tira cae al suelo: «Tus covers van a demos-canto.» / «Un hilo por cover.»
+- **Cómo se evita que quede plano:** una sola vela o bombilla cálida (`#EBE7C0`) en una sala casi negra (`#131416`, brillo 19 %). El brillo en el latón. El espejo abre un segundo fondo con la máscara. Delante, desenfocada, **una muñeca de la Dama** o un peine. La tira de papel cruza de delante atrás y da profundidad.
+- **Referencias:** fotogramas 17:40, 1:04:20 y 1:06:00 de LN1 · #459 (cara de la Dama) · #160 (boceto del reflejo) · `Six.png`.
+

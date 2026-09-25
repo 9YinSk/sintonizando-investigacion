@@ -544,3 +544,294 @@ Tildes, ñ, ¿ y ¡ **comprobadas con fontTools** sobre el archivo bajado (parte
 **Lo que no se pudo ver**
 - ⚠️ El contenido descartado de *Save the Light* en [The Cutting Room Floor](https://tcrf.net/Steven_Universe:_Save_the_Light_(Windows)): la página existe, pero da un reto de Cloudflare por cuatro vías (curl, `navegar.py`, Wayback Machine y un lector de texto).
 - La Mochila Hamburguesa (el inventario de *Unleash the Light*) como idea de lámina: **biblia 64, punto 11**.
+
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que ama** (TV Tropes, [Ensemble Darkhorse](https://tvtropes.org/pmwiki/pmwiki.php/EnsembleDarkhorse/StevenUniverse), salvo donde se dice) · ⚠️ wiki de fans
+- **Las Perlas de Diamante Azul y de Diamante Amarillo**: casi sin diálogo, pero con muchos fans por el contraste con Perla.
+- **Centipeetle**, el monstruo del capítulo 8: «tierna y asquerosa a la vez». Su sacrificio en «Monster Buddies» fue la primera tragedia sin final feliz.
+- **Aquamarine**: tan mala que hace gracia.
+- **Padparadscha** («Off Colors»): famosa antes del estreno por un clip filtrado; «predice» el pasado en vez del futuro.
+- **Sardonyx** (la fusión de Perla y Garnet): popular de la noche a la mañana por **exagerada y teatral**. Lo confirma lo que se ve en `KYF` 1:52 ✅.
+- **La boda de Rubí y Zafiro** («Reunited», T5): el fandom la ve como un hito de representación. ⚠️ Que sea «la primera boda entre dos mujeres en una serie infantil de una gran cadena» es memoria muy repetida, pero no se leyó una fuente de prensa.
+- **Reddit** · ✅ votos visibles: «Rose making fun of white diamond is iconic» (1576 votos, [hilo](https://www.reddit.com/r/stevenuniverse/comments/1p0mk6n/rose_making_fun_of_white_diamond_is_iconic/)); «that's why i love the Steven universe fandom» (1538); «I saw this "live." One of the most iconic CN moments of all time» (1263); «In your opinion, what is the most iconic Steven Universe song? I love "Love Like You."» (203, [hilo](https://www.reddit.com/r/stevenuniverse/comments/1vb7f3s/in_your_opinion_what_is_the_most_iconic_steven/)).
+- **El chiste interno de *Crying Breakfast Friends!***: una serie dentro de la serie que Steven adora. Es una burla cariñosa de la crítica de que Steven Universe es «demasiado emotiva». Rebecca Sugar: «Steven Universe is not a tragedy or a dark comedy, it will always be warm and sweet» (Inverse, dic-2016, citada en TV Tropes) · ✅ dos fuentes.
+
+**Qué NO hacer** (lo que a un fan le parecería falso)
+- **Una burbuja blanca genérica.** La serie no usa globos (punto 6).
+- **Llamar «infantil» o «de niñas»** a la serie. El fandom se ofende con esa lectura; por eso existe el chiste de *Crying Breakfast Friends!*.
+- **Traducir de más los nombres.** «Sugilite» se dejó así en latino (punto 8). Usar el nombre del doblaje real.
+- **Equivocar los pronombres de las fusiones.** Casi todas usan «they» en inglés salvo cuatro excepciones (Trivia de Steven en la wiki) · ⚠️
+- **Poner a Perla comiendo con gusto.** Le da asco comer; disfruta haciendo té u horneando · ⚠️ wiki.
+- **Dibujar una fusión con una sola gema** o sin rasgos de las dos (punto 25).
+- **Oscurecer la paleta** con negros puros: las sombras son moradas (punto 4).
+- **Adelgazar** a Amatista, Garnet, Rose o Steven: **biblia 64, punto 12**.
+
+## Punto 13 · Personajes a fondo (y las fusiones como personajes)
+
+Carácter de las fichas de la [wiki](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)) (⚠️ una fuente, pero con citas del equipo). Caras con minuto, vistas en los clips (✅).
+
+**Steven Universe** (voz: Leisha Medina)
+- **Cómo es:** optimista, abierto, compasivo. Casi nunca guarda rencor y evita pelear si puede. Madura de niño ingenuo a adolescente con culpa y ansiedad al saber que su madre fue Diamante Rosa.
+- **Qué transmite:** calidez. Es quien une a todos.
+- **Cómo habla:** a veces se nombra en tercera persona. Cantarín; frases cortas que se vuelven largas cuando se pone nervioso. Duda con «eh…» cuando algo lo incomoda. Rápido (3,2 palabras por segundo).
+- **Caras:** miedo de broma, **ojos de estrella** y manos al frente (`COA` 0:30) · sorpresa, ojos muy abiertos y boca abierta al ver fusionarse a Garnet (`STY` 0:36) · tristeza, se agarra el brazo (hoja n.º 21) · alegría, salto con el puño en alto (n.º 16).
+
+**Garnet** (voz: Rocío Mallo) · **una fusión permanente de Rubí y Zafiro**
+- **Cómo es:** líder, práctica, tranquila casi siempre (la calma le viene de Zafiro). Cuando la pierde, es contundente y física.
+- **Qué transmite:** seguridad. «Garnet no pregunta nunca» (biblia 64).
+- **Su arco:** en «Jail Break» revela que es una fusión y lo canta («Stronger Than You»). En la T5, Rubí y Zafiro se casan.
+- **Cómo habla:** frases cortas y firmes, sin relleno. La voz más grave de las Gemas (187 Hz). Canta más agudo de lo que habla.
+- **Caras:** rabia, **tres ojos fruncidos**, mandíbula apretada ante Jasper (`STYcn` 0:12) · seria y reprobadora tras el visor (`COA` 0:50) · la revelación de la cara de tres ojos (`STY` 0:32).
+
+**Perla** (voz: María José Estévez) · la más dibujada por los fans
+- **Cómo es:** perfeccionista, **quiere aprobación**, se siente débil frente a los demás. Obsesiva con el orden y la simetría. Organizar es su pasatiempo.
+- **Qué transmite:** ternura y un poco de pena. Su amor por Rose no fue correspondido.
+- **Cómo habla:** frases largas y explicativas. Sube el tono cuando se defiende («¡Así es, yo soy Perla!»).
+- **Caras:** **euforia**, sonrisa de oreja a oreja al fusionarse en Sardonyx (`KYF` 0:28) · **tristeza**, mirada baja con una rosa en la mano (`IOI` 1:12), y **llorando**, ojos muy abiertos y brillantes (`IOI` 2:12) · **vergüenza ajena**, manos arriba y ceño fruncido al ver a Sugilite (`COA`, entre 1:15 y 1:20) · explicando con calma, agachada (`COA` 1:20).
+
+**Amatista** (voz: Stefani Villarroel)
+- **Cómo es:** divertida, despreocupada. Le encanta pelear, comer y dormir aunque no lo necesite. Tiene un alter ego de luchadora, el **Puma Morado**, para descargar las órdenes de Perla y Garnet.
+- **Qué transmite:** alivio y risa: la gamberra del grupo.
+- **Cómo habla:** informal, con muletillas tipo «o sea». **Ríe fuerte y fácil.**
+- **Caras:** carcajada, cabeza atrás (`COA` 1:10) · burla, encorvada imitando a otra (`COA` 1:05) · **rabia** a gritos, puños en alto, como Sugilite (`COA` 1:45; en audio, «¡Nunca pedir ser lo que soy!»).
+
+**Peridot** (voz: Sofía Narváez) · 3.ª más dibujada
+- **Cómo es:** empezó fría y calculadora; se vuelve cálida, curiosa y expresiva al unirse a las Gemas de Cristal. Villana torpe que acaba siendo amiga leal: con ella se identifican muchos fans.
+- **Cómo habla:** como quien **da un parte técnico** («Código número 312…»). Su insulto: «clod» (viene de una broma del guionista Ian Jones-Quartey). ⚠️ No se comprobó cómo se dice en latino.
+- **Caras:** **pánico**, se tapa la cara con las dos manos y sólo asoman los ojos (`PER` 0:42) · hostil, puño en alto y en guardia (`PER` 0:18).
+
+**Lapis Lázuli** (voz: Andrea Navas) · 2.ª más dibujada
+- **Cómo es:** marcada por **6000 años encerrada en un espejo**. Desconfiada, cortante y rencorosa al principio; luego protectora con Peridot y Steven. **Nunca lleva zapatos.**
+- **Cómo habla:** la voz más expresiva medida (30,2 semitonos). Baja y lenta al contar su encierro; grita segundos después.
+- **Caras:** miedo y sorpresa, ojos muy abiertos al ver el Templo (`LAP` 0:08) · alegría suave junto a Steven, ya reconciliados (`LAP` 2:08).
+
+**Connie Maheswaran** (voz: Yasmil López; Navid Cabrera en la T5)
+- Estudiosa, detallista, sensata frente a los arrebatos de Steven. Toca el violín. Habla con frases muy bien hechas, casi formales; rápida cuando está decidida.
+- Cara: **llorando**, manos en la boca (hoja n.º 178).
+
+**Greg Universe** (voz: Henrique Palacios)
+- Bonachón, sin prisa, siempre escucha. Músico. Su frase de cabecera (de la wiki, en inglés): si todas las costillas fueran perfectas, no existirían los perros calientes. ⚠️ sin versión latina.
+- La voz más grave (129 Hz) y lenta. **Rebecca Sugar dice que es su personaje favorito.**
+
+**Las fusiones como personajes** (foco del encargo)
+- **Sardonyx** (Perla + Garnet): alta y esbelta, **sombrero de copa**, destellos: una **maga de escenario, exagerada y teatral**. Presenta a Steven en la palma de la mano (`KYF` 1:24-1:38), hace gestos de showman (1:52), choca el puño (2:06) y maneja un **mazo** (2:20-2:34).
+- **Sugilite** (Garnet + Amatista): enorme, bruta, eufórica. Baila de forma escandalosa y avergüenza a Perla (`COA` 1:15-1:30). En su escena, **acentos granate y magenta** sobre el cian (punto 4).
+- **Garnet**: la fusión que es un personaje fijo. Su cara de tres ojos nace en `STY` 0:32.
+- **Cuarzo Ahumado** (Steven + Amatista): voz latina, Mariangny Álvarez (punto 8).
+
+**Dinámicas para láminas en grupo**
+- **Perla ordena y Amatista se burla** (`COA` 1:05). **Garnet supervisa** de brazos cruzados (`COA` 1:00).
+- **Perla desaprueba a Sugilite** (`COA` 1:30): la tensión entre la Gema del orden y la fusión del caos.
+- **Garnet protege**: carga a Steven y Amatista (`OP` 0:18).
+- **Steven y Sardonyx** celebran chocando el puño (`KYF` 2:06).
+- **Connie lucha al lado de Steven**; **Greg escucha** («yo siempre estaré aquí»).
+- Caras de las otras combinaciones emoción-personaje, del piloto: **biblia 64, punto 13**.
+
+## Punto 14 · Poses analizadas
+
+Vistas en los clips (✅). Para cada una: qué hace y **para qué sirve** en una lámina.
+
+**Steven**
+| Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|
+| `COA` 0:30 | a la defensiva, **las dos manos al frente**, ojos de estrella, boca abierta | reaccionar con miedo de broma |
+| `STY` 0:36 y 0:48 | quieto, cejas arriba, boca abierta | **pensar**, reaccionar a una revelación |
+| `OP` 0:16 | riendo mientras el León se le restriega en el pie | **presentar**, tono cercano |
+| `OP` 0:18-0:20 | en brazos de Garnet, en carrera, con Amatista y Perla | **animar**, acción de grupo |
+| `COA` 1:05 | se encoge de hombros, sonrisa incómoda | **explicar** algo embarazoso con humor |
+| `KYF` 2:06 | **choca el puño con Sardonyx**, mira hacia arriba, sonríe | **celebrar** |
+| hoja n.º 16 | salta con el puño en alto, escudo detrás | **animar**, «¡vamos!» |
+| hoja n.º 42 | **guiña y hace la V** con la mano | **saludar**, dar la bienvenida |
+
+**Garnet**
+| Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|
+| `OP` 0:10 | **puños cerrados al frente**, firme | **regañar**, plantar cara |
+| `STY` 0:16 | Rubí y Zafiro **de la mano**, gesto suave, a punto de fusionarse | **explicar** un vínculo, la colaboración |
+| `STY` 0:32 | la cara de tres ojos aparece, mira al frente | **presentar**, revelar |
+| `STY` 1:04 | de pie en el centro de la arena, brazos sueltos | **animar**, seguridad |
+| `COA` 0:50 | primer plano, visor, ceño fruncido, mira abajo | **regañar** |
+| `COA` 1:00 | brazos cruzados, cadera marcada | **regañar**, supervisar |
+| hoja n.º 15 | de pie, **manos en la cadera** | presentar con aplomo |
+
+**Amatista**
+| Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|
+| `OP` 0:08 y `COA` 0:35 | **cabezazo**, pelo alborotado, sonrisa traviesa | **celebrar**, jugar |
+| `COA` 0:55 | señala con la mano, boca abierta a media frase | **explicar** |
+| `COA` 1:10 | **carcajada**, ojos entornados, cabeza atrás | **celebrar** |
+| `COA` 1:05 | encorvada, imita a otra, sonrisa ladeada | **regañar** en broma |
+| `STYcn` 2:00 | salto con el **látigo en lazo** dorado | **animar**, acción |
+| `STYcn` 2:24 | tumbada, agotada tras la pelea | **pensar**, descansar |
+
+**Perla**
+| Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|
+| `OP` 0:02 | recta y formal ante la estatua del Templo | **presentar** |
+| `COA` 1:20 | **agachada a la altura de Steven**, manos juntas, tono suave | **explicar** |
+| `COA` 1:25 | manos entrelazadas, casi suplicando | **explicar**, pedir |
+| `COA` 1:30 | **brazos cruzados**, ceño fruncido | **regañar** |
+| `KYF` 0:28 | sonrisa enorme, ojos brillantes | **celebrar**, animar |
+| `KYF` 0:42-0:56 | gira sola en el cielo, brazos abiertos | **animar**, libertad |
+| hoja n.º 23 | de pie, **mano abierta hacia arriba** | **explicar**, señalar algo |
+| hoja n.º 11-13 | con la lanza apoyada | presentar con su objeto |
+
+**Fusiones**
+| Dónde | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|
+| `KYF` 1:10 | Sardonyx completa, sombrero de copa, destellos | **presentar** a lo grande |
+| `KYF` 1:24-1:38 | Sardonyx con **Steven en la palma** | **presentar** a alguien |
+| `KYF` 1:52 | Sardonyx, **brazo extendido de showman** | **anunciar**, explicar |
+| `KYF` 2:20-2:34 | Sardonyx balancea el mazo | **animar**, acción |
+| `COA` 1:15 y 1:30 | Sugilite da un golpe; luego brazos en alto, triunfal | **celebrar** a lo bruto |
+
+**Encuadre típico** (parte de texto) · ⚠️ observación visual: las transformaciones y fusiones van en **plano heroico, simétrico, frontal y de cuerpo entero**, con la luz desde abajo o desde atrás.
+
+## Punto 15 · Vestuario y hex medidos
+
+Medido con Pillow sobre las hojas de modelo oficiales (punto 1), sin el contorno negro ni el fondo blanco. **Perla, Garnet y Amatista** sobre PNG sin comprimir ✅. **Steven** sobre la hoja JPEG, con compresión ⚠️.
+
+| Personaje y traje | Pieza | Hex |
+|---|---|---|
+| **Steven**, habitual (hoja n.º 1, ⚠️ aproximado) | chaqueta rosa | `#FF80BD` |
+| | estrella del pecho | `#F9E64C` |
+| | vaqueros | `#22739A` |
+| | piel | `#DCB5AC` |
+| | camiseta | negro plano (⚠️ no aislado) |
+| **Perla**, clásico | top | `#92EBDA` |
+| | fajín | `#66FDF0` |
+| | pantalón corto | `#FFDF7A` |
+| | medias y zapatos | `#FFD0CE` |
+| | piel y pelo | `#FCCCB1` |
+| **Garnet**, debut del piloto | top, mitad clara | `#FF3876` |
+| | mitad oscura y pantalón negro | `#130000` |
+| | pierna granate | `#93011C` |
+| | visor (triángulos claros) | `#FEC7C7` |
+| | piel | `#BE4459` |
+| **Amatista**, clásico | piel y pelo | `#D4C7EE` |
+| | top | `#4F4B71` |
+| | mallas con estrellas | `#1A191E` |
+| | gema y sombra | `#AA83BD` |
+| | zapatos | `#E2E1E8` |
+
+- **Garnet clásica (T1-T5):** el lado rosa del top pasa a negro liso; la pierna granate y negra sigue asimétrica (hoja n.º 15) · ✅ visto, no remedido.
+- **Lo icónico que todos reconocen:** el afro de Garnet con **visor triangular**; el pelo corto y puntiagudo de Perla con la **gema en la frente**; la **melena lila** de Amatista sobre un ojo; la **camiseta con estrella** de Steven, en casi todos los arcos.
+- **Trajes por arco**, en las hojas: Perla en tres trajes (n.º 11-13); Amatista en cuatro (n.º 6-9); Garnet en tres (n.º 25-27); Steven con la piel rosa en *Future* (n.º 163) y con la paleta de la cabeza de Blanco (n.º 21 y 28).
+- **La estrella va en casi toda la ropa** de las Gemas de Cristal (punto 25).
+- ⚠️ Hex de la película, de *Future*, del Puma Morado y de las fusiones: sin medir.
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios** (luz y hora del día, medidos en el punto 4)
+- **Ciudad Playa** al atardecer: rosa y violeta pastel, con el Big Donut y la calle (`OP` 0:12).
+- **La playa y el Templo** de noche, con luna llena (`OP` 0:04). La estatua del Templo, de noche, en los créditos (`END` 0:02).
+- **Arenas de cristal** de las Gemas: verde menta, luz blanca (`STY` 1:04).
+- **Paisajes helados**: cian brillante (`COA` 1:36).
+- **La Fragua**: fuego (hoja n.º 146, 189-190). **Homeworld**: salas de un solo color (n.º 161).
+- **Cielo rosa de día** sobre la playa: n.º 148-150.
+
+**Fondos de pantalla** ([Wallhaven](https://wallhaven.cc)) · ⚠️ una fuente cada uno
+| Qué | Tamaño | Autor u origen | Enlace |
+|---|---|---|---|
+| Paisaje de Ciudad Playa, **oficial de Cartoon Network** | 1920×1080 | origen cartoonnetwork.com/backgrounds, subido por aznmike123 (♥ 39) | https://w.wallhaven.cc/full/73/wallhaven-73zzov.jpg |
+| Segundo fondo oficial de CN | 1920×1080 | misma colección (♥ 35) | https://w.wallhaven.cc/full/83/wallhaven-83qlxk.jpg |
+| Tercer fondo oficial de CN | 1920×1080 | misma colección (♥ 28) | https://w.wallhaven.cc/full/ey/wallhaven-ey5jo8.jpg |
+| **Paisaje 4K** tipo Ciudad Playa, con faro (fan) | **4096×2291** | lulusketches (♥ 31) | https://w.wallhaven.cc/full/yq/wallhaven-yq8e7l.jpg |
+| *Steven Universe Future* (fan) | 2048×1154 | grazielless (♥ 34) | https://w.wallhaven.cc/full/dg/wallhaven-dgqv8l.jpg |
+| Collage de series de CN con Steven (fan) | 1920×1080 | [hbrunatv, DeviantArt](https://www.deviantart.com/hbrunatv/art/VDF-02-Cartoon-Network-451673335) (♥ 39) | https://w.wallhaven.cc/full/4y/wallhaven-4yqgjd.png |
+
+- ⚠️ La página de origen de Cartoon Network (`cartoonnetwork.com/backgrounds/`) ya no responde; por eso la fuente es Wallhaven. Web oficial: [cartoonnetwork.com](https://www.cartoonnetwork.com).
+- **Fotogramas de sitio en 1920×1080:** toda la hoja `fondos_01` (n.º 145-192).
+- Más sitios (la cocina de la Casa Playa, el vagón, el Kindergarten): **biblia 64, punto 16**.
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Escrita por el redactor con lo de los puntos 1-16. Sirve para Firefly, Canva o cualquier IA de imagen, y para una IA de texto que escriba diálogos.
+
+### Para una IA de imagen
+
+**El estilo, en una frase:** personajes en **color plano** con **contorno limpio de grosor variable**, sobre **fondos pintados con grano**, en **paleta pastel** con sombras moradas.
+
+**Rasgos que nunca cambian**
+- **Steven:** niño rechoncho, pelo **negro rizado**, **camiseta con estrella amarilla** (`#F9E64C`), vaqueros (`#22739A`), sandalias. **Gema rosa en el ombligo.** Chaqueta rosa (`#FF80BD`) en los trajes de después. Escudo rosa con una rosa (hoja n.º 48).
+- **Garnet:** muy alta (2,21 m), **afro cuadrado**, **visor triangular**, piel granate oscura (`#BE4459`). **Dos gemas, una en cada palma**: la de Rubí, cuadrada; la de Zafiro, triangular (n.º 255-256). Guanteletes rojos con estrella (n.º 47). **Tres ojos** bajo el visor.
+- **Perla:** delgada y alta, **nariz puntiaguda**, pelo corto claro peinado hacia atrás en punta, **gema ovalada en la frente**. Top menta (`#92EBDA`), fajín turquesa (`#66FDF0`), pantalón corto amarillo (`#FFDF7A`). Lanza.
+- **Amatista:** bajita y ancha, **melena lila larguísima** (`#D4C7EE`) que tapa un ojo, gema en el pecho, top oscuro (`#4F4B71`), **mallas con estrellas**. Látigo.
+- **Las formas de Kandinsky** (punto 18): **Garnet es un cuadrado, Amatista una esfera, Perla un cono.** Pídelo así si la IA las deforma.
+
+**Paleta y luz**
+- **Atardecer de Ciudad Playa:** `#EABFCE` `#FDE4F7` `#F87D9B` y sombra `#653861`.
+- **Noche en la playa:** `#251A41` `#91A0EE` `#D5D5FA`.
+- **Interior de Gema (arena):** `#A3F8CD` `#68E7AC` `#EBFAE2`, sin sombras duras.
+- **Escena de fusión:** fondo claro (`#61C4F9` `#BFEBFE`) con **un solo acento fuerte**, magenta `#E03183` o granate `#48040D`.
+- **Sombras moradas o granates. Nunca negro puro.**
+
+**Línea y sombreado**
+- Contorno grueso por fuera, fino dentro (cejas, pliegues). El grosor varía con el trazo.
+- **Sombra plana de un solo tono**. Degradado sólo en gemas, brillos y atardeceres.
+- El color **un poco desalineado** respecto a la línea en algún borde (así se hacía en la serie, punto 18).
+- **Grano** suave encima, sobre todo en el fondo.
+
+**Encuadre**
+- Fusiones y transformaciones: **plano heroico**, frontal, simétrico, cuerpo entero, luz desde abajo o atrás.
+- Escenas tiernas: plano medio, luz de atardecer.
+
+**Palabras que ayudan** (en inglés para la IA): `flat colors`, `clean variable-weight outline`, `pastel palette`, `hand-painted background with soft grain`, `purple shadows`, `Cartoon Network 2010s TV animation`, `sunset over a small beach town`, `glowing gemstone`, `shape-based character design`.
+
+**Palabras que lo estropean:** `anime`, `manga`, `screentone`, `3D render`, `realistic`, `glossy`, `hard black shadows`, `speech bubble`, `comic sound effect text`. Y `slim` o `thin` para Amatista, Garnet, Rose o Steven.
+
+**Etiquetas de Danbooru** (así las entiende una IA entrenada con fan art; [related_tag](https://danbooru.donmai.us/related_tag?query=pearl_(steven_universe)))
+- Perla: `pearl_(steven_universe)`, `forehead_jewel`, `short_hair`, `pointy_nose`, `pale_skin`, `star_(symbol)`.
+- Garnet: `garnet_(steven_universe)`, `afro`, `sunglasses`, `purple_skin`, `kinky_hair`.
+- Lapis: `lapis_lazuli_(steven_universe)`, `blue_skin`, `blue_hair`, `crop_top`, `water`, `barefoot`.
+- Peridot: `peridot_(steven_universe)`, `green_skin`, `blonde_hair`, `face_shield`, `triangle-shaped_hair`, `petite`.
+
+**Cómo pedir una fusión**
+- Más alta que las dos Gemas juntas. **Con las gemas de las dos**, en sus sitios. Colores mezclados de las dos.
+- Rasgos repetidos: Garnet, **tres ojos**; Sardonyx, **sombrero de copa** y destellos (`KYF` 1:10).
+- **Un arma propia** (Sardonyx, un mazo).
+- **Nunca una fusión con una sola gema** ni con la cara de una de las dos sin cambiar.
+
+**Vocabulario de gestos** (para que la IA entienda cada cara)
+- **Miedo de broma:** ojos de estrella blancos, manos al frente (`COA` 0:30).
+- **Llanto:** ojos muy abiertos y brillantes, sin cerrar (`IOI` 2:12).
+- **Pánico:** manos tapando la cara, ojos entre los dedos (`PER` 0:42).
+- **Revelación:** cara de tres ojos que aparece (`STY` 0:32).
+- **Derrota:** *poof*, nube de humo y la piedra en el suelo (`STY` 3:12).
+- **Guardar algo:** **burbuja** translúcida de color (punto 25).
+- ⚠️ No es anime: **nada de gotas de sudor, venas ni fondos de emoción de manga**. Deducción (serie de EE. UU.), no se buscó expresamente.
+- ⚠️ *Chibi* sólo si se imita a los **Funko Pop** oficiales (punto 23).
+
+**Imágenes de referencia**
+- **Estilo y color:** la hoja de modelo de Perla (8192×4104, punto 1); `OP` 0:12; el cielo rosa de la n.º 148-150.
+- **Pose:** Steven n.º 16 y 42; Perla n.º 11-13 y 23; Garnet n.º 15 y 25-27; Amatista n.º 6-9; Sardonyx `KYF` 1:52.
+- **Caja de diálogo:** la captura de *Unleash the Light* (punto 6).
+
+### Para una IA de texto
+
+**Cómo habla cada uno**
+- **Steven:** entusiasta, frases que se aceleran, «eh…» cuando duda. A veces habla de sí en tercera persona. Muchas exclamaciones.
+- **Garnet:** **frases cortas y firmes**. Pocas palabras. **Nunca pregunta.** Un toque de orgullo seco («Por eso soy tan genial»).
+- **Perla:** frases **largas y explicativas**, un poco cursis. Se pone a la defensiva con exclamaciones. Habla de los humanos con cariño condescendiente.
+- **Amatista:** informal, «o sea», bromas y risas. Se burla de Perla.
+- **Peridot:** técnica, **como un parte** («Código número…»). Insulta con «clod».
+- **Lapis:** seca y cortante; triste y lenta cuando recuerda.
+- **Connie:** formal, bien construida, sensata.
+- **Greg:** tranquilo, cálido, ofrece ayuda.
+- **Sardonyx:** exagerada, de **presentadora de espectáculo**.
+
+**Frases reales del doblaje, por emoción** (punto 8)
+- **Alegre, maravillado:** Rose: «¿No es asombroso, Steven? Este mundo está lleno de tantas posibilidades.» · Steven: «Mi papá dice que las paradas de descanso eran asquerosas, pero ahora venden Sushi.»
+- **Orgulloso:** Garnet: «Cuando dos gemas se combinan crean algo más grande que la suma de sus partes. Por eso soy tan genial.» · Perla: «¡Así es, yo soy Perla!»
+- **Explicando:** Perla: «¡Oh, Steven! Los humanos tienen una vida tan corta, aburrida e insignificante que inventan historias para sentir que forman parte de algo más grande.» · Peridot: «Código número 312. Aquí Peridot, verificando el funcionamiento del portal terrestre.» · Steven: «Las cosas siempre están cambiando, las hojas, las ciudades, incluso Jersey cambia.»
+- **Enfadado:** Amatista: «¡Nunca pedir ser lo que soy! ¡Nunca pedir ser creada!» · Lapis: «Soy Lapis Lázuli y no podrán mantenerme encerrada nunca más.»
+- **Animando, apoyando:** Connie: «Quiero estar ahí para Steven y luchar a su lado.» · Greg: «Si necesitas hablar con otro humano sobre esto, yo siempre estaré aquí.»
+- **Triste:** Lapis: «Fue una oscuridad aplastante e interminable. Húmeda, sombría y sofocante.» · Garnet: «Para que Perla fuese libre. Y para que pudiéramos estar juntas. Para que existieras tú.»
+
+**Puntuación y exageración**
+- Exclamaciones con **¡ !** al abrir y cerrar. Preguntas con **¿ ?**.
+- Emoción **directa y sincera**, sin ironía cruel. La serie es «cálida y dulce» (Rebecca Sugar).
+- Nada de onomatopeyas escritas: si hace falta un ruido, **se describe**.
+
+**Vocabulario propio** (punto 25): *poof*, *burbujear*, fusión, gema corrupta, Homeworld, Diamantes, Gemas de Cristal, Kindergarten, Templo, Ciudad Playa, Big Donut, *harmony*. ⚠️ Cómo se dicen en latino *poof*, *Homeworld* o *bubble*: sin comprobar.

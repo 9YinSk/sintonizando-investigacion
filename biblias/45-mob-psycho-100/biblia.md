@@ -1209,8 +1209,9 @@ Cotidiano apagado: `#7F897D`, `#D3B59D`, `#A08D6C`, `#64645A`. Noche:
 
 ### 18.3 Línea, sombra, luz y encuadre
 
-- **Línea**: en el anime, fina y **de color**, no negro puro; en el manga,
-  tosca e irregular. Nunca vectorial perfecta.
+- **Línea**: en el anime, **fina** y oscura; en el manga, tosca e
+  irregular. Nunca vectorial perfecta. (El color exacto de la línea no
+  está bien medido: §28.)
 - **Sombra**: **plana**, 1 o 2 tonos, sin degradado en ropa y piel; el
   degradado y el neón sólo en los efectos y los fondos.
 - **Luz**: plana y gris en lo cotidiano; cuando hay poder, luz de
@@ -1223,7 +1224,7 @@ Cotidiano apagado: `#7F897D`, `#D3B59D`, `#A08D6C`, `#64645A`. Noche:
 ### 18.4 Palabras que ayudan y que estropean
 
 - **Ayudan** (en inglés, como las entienden las IA; varias son etiquetas
-  reales de Danbooru): *flat cel shading, thin colored lineart, muted grey
+  reales de Danbooru): *flat cel shading, thin lineart, muted grey
   suburban Tokyo, overcast, gakuran, black jacket, grey suit, pink necktie,
   blush stickers, simple round face, cyan psychic aura, rough sketchy ink,
   paint-on-glass, colored pencil texture, emotion title card, bold kanji on
@@ -1336,8 +1337,8 @@ colorear tras el lápiz, pero no está confirmado aquí ⚠️.
 (Propuesta del equipo a partir de lo anterior ⚠️.)
 
 - **Línea**: pincel de tinta con textura de **lápiz áspero**, grosor
-  irregular a propósito; en el anime, línea fina y de color, no negro
-  puro (el tono exacto de la línea no se midió ⚠️).
+  irregular a propósito; en el anime, línea fina y oscura (el tono exacto
+  no está bien medido ⚠️, §28).
 - **Color**: plano, 1 o 2 tonos por zona. El contraste lo pone el color
   saturado del efecto, no el modelado.
 - **Capas**: una capa de boceto a lápiz gris o azul visible donde haya
@@ -1374,5 +1375,194 @@ colorear tras el lápiz, pero no está confirmado aquí ⚠️.
   tristeza agachado en el suelo
   (100 % Tristeza, «a cuatro patas» según TV Tropes); el dúo de espaldas
   al atardecer.
+
+---
+
+## 20 · Texturas 2D
+
+Todas las capas que hacen falta, con su licencia. El 3D está en §4 y las
+texturas reales en §5.
+
+| Capa | Cómo es en la serie | Equivalente libre | Licencia |
+|---|---|---|---|
+| **Tarjeta de emoción** | fondo blanco puro, kanji de trazo grueso y roto, **sin trama de puntos** (hojas n.º 1, 56, 60, 61) ✅ | papel [Paper006](https://ambientcg.com/view?id=Paper006) + letra de §6 | CC0 |
+| **Tramas del manga** | grises de trama y **líneas de velocidad** en los golpes (n.º 59, 62) | [Free Screen Tone Collection 1](https://manga-with-stef.com/free-screen-tone-collection-1) | gratis para obra propia ⚠️ |
+| **Medios tonos** | — | [34 pinceles halftone de Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) | gratis con atribución ⚠️ |
+| **Lápiz de color** | trazos de lápiz visibles, color a medias (n.º 3, 36, 44) | pincel de lápiz de Photoshop, grano de papel encima | — |
+| **Óleo sobre cristal** | manchas de óleo que se mueven (espíritus, aura) | pincel *oil* o *wet media* de Photoshop | — |
+| **Tela del gakuran** | negro plano en el anime | [Fabric032](https://ambientcg.com/view?id=Fabric032) muy suave, sólo en 3D o en primer plano | CC0 |
+| **Energía psíquica** | cian `#02EBFD` y violeta, con brillo y degradado (n.º 16, 23, 47) | capa de color con modo «Sobreexponer» y desenfoque | — |
+| **Motivo «100%»** | franja diagonal negra con «100%» repetido sobre cuadrícula amarilla (póster de *Psychic Battle*) | se rehace con la letra del logo | — |
+| **Logo** | magenta `#C01B8B` con corte diagonal; en camisetas UNIQLO UT como estampado repetido ⚠️ | [SVG de Commons](https://upload.wikimedia.org/wikipedia/commons/5/57/Mob_Psycho_100_logo.svg) | PD-textlogo, marca registrada |
+| **Emblema de Claw** | una garra estilizada ([ClawLogo.png, 1366×768](https://static.wikia.nocookie.net/mob-psycho-100/images/7/77/ClawLogo.png)) ✅ | — | © titulares, sólo referencia |
+
+**Sombreado del anime**, medido con `estilo.py` en las hojas de modelo:
+**plano** (*cel*) en ropa y piel; **degradado** sólo en fondos y efectos ✅.
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+De la wiki de Fandom, que cita el **perfil oficial del manga** (cap. 91) y
+el **Official Fanbook**, cruzado con AniList cuando coincide.
+
+| Quién | Cumpleaños y altura | Le gusta | No le gusta | Otros detalles |
+|---|---|---|---|---|
+| **Mob** | **12 de mayo** ✅; 157,7 cm (wiki) / 157 cm (AniList) ✅ | takoyaki, leche y ramen; canciones alegres; cine de acción; **mirar el cielo** ✅ | cilantro, shiokara y langosta ✅ | su especialidad: **hacer flotar perros** ✅. Se ve a sí mismo como un *mob*, uno del montón (ONE a Otomedia, ago-2019, traducción de fan en [Tumblr](https://katyatalks.tumblr.com/post/187929202764)) ⚠️ |
+| **Reigen** | **10 de octubre** ✅; 179 cm ⚠️ (sólo AniList) | películas «serie B» (y dormirse en ellas); **coleccionar recuerdos a escondidas** ⚠️ | las cucarachas y el picante (quita el wasabi del sushi) ✅ | **no aguanta el alcohol**: se marea con un trago ✅ |
+| **Ritsu** | 2 de julio ⚠️; 159,4 cm ⚠️ (AniList) | tofu y cerdo hervido; **escribir un diario**; dramas humanos ✅ | las patas de cerdo ✅ | casi no oye música ✅ |
+| **Teru** | 13 de abril ⚠️; 161,4 cm ⚠️ (AniList) | bistec; ir al cine; el rock; recién empezó el cicloturismo ✅ | la ostra cruda, por una mala experiencia ✅ | su película favorita, «Flying Dead Pig», tiene un **póster en la oficina de Reigen** ✅ |
+| **Dimple** | — | no come, pero absorbe la energía de la comida: legumbres; el sake y el olor a cerveza ✅ | — | pasea a media altura, **espía televisores ajenos**, se queda cerca de Reigen si Mob no está ✅; al tacto es húmedo, suave y frío ⚠️ |
+| **Serizawa** | **31 de marzo**, **181 cm**, 72,7 kg, sangre O ✅ (fanbook) | gyūdon; mucho ramen de vaso ⚠️ | el picante (su estómago no lo aguanta) ✅ | sabe hacer el nudo de corbata; lo que mejor hace: **servir té**; su punto débil, los nervios ✅ |
+| **Tsubomi** | 7 de febrero; 151,1 cm; 41 kg; sangre A ⚠️ | — | — | Mob está enamorado de ella desde el principio y casi no han hablado ✅ |
+| **Tome** | — | videojuegos y extraterrestres ✅ | — | se llama como la abuela de Mob (lo dice él en el ep. 2) ⚠️ sin minuto |
+
+**Objetos que siempre llevan**: Mob, el gakuran; Reigen, el traje, el
+móvil y la **sal** (su «ataque»); Ritsu, el bolso azul; Serizawa, el
+**paraguas** ✅.
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Las razones
+
+- **Un protagonista que no quiere usar su poder**: la mayoría de shonen
+  buscan más fuerza; Mob dice «no los necesito para vivir» ✅ (Tachikawa +
+  sinopsis de AniList). Etiquetas de AniList: *Coming of Age* 88 %,
+  *Philosophy* 84 %, *Surreal Comedy* 76 %.
+- **Reigen**, el adulto sin poderes que cuida de verdad (§9) ✅.
+- **La animación**: en los 1.º Crunchyroll Anime Awards (2016) ganó
+  **Mejor Escena de Pelea** (Mob vs. Koyama, ep. 8) y **Mejor Acción** ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/1st_Crunchyroll_Anime_Awards)
+  + [Reddit, 101 votos](https://www.reddit.com/r/Mobpsycho100/comments/5na48u/));
+  la T2 ganó **Mejor Animación** en los 4.º ⚠️
+  ([Wikipedia](https://en.wikipedia.org/wiki/4th_Crunchyroll_Anime_Awards)).
+  Perdió Mejor Animación en 2016 contra *Yuri!!! on Ice* ⚠️.
+- **Con quién se identifican**: parte del fandom neurodivergente se ve en
+  Mob, que **enmascara lo que siente** para encajar ⚠️ (TV Tropes).
+- Nota media en AniList: **84**; popularidad 628 372 ✅.
+
+### 22.2 Las escenas que hacen llorar
+
+| Escena | Dónde | Qué pasa y por qué duele | Cómo está hecha | Reacción |
+|---|---|---|---|---|
+| **100 % Tristeza** | T1 ep. 5 («Ochimusha ~Psychic Powers and Me~»); clip de fans [Mob vs. Teru, 0:00](https://www.dailymotion.com/video/x4rj83n?start=0) | tras vencer a Teru sin querer, Mob revive cuando hirió a su hermano: «Voy a cambiar» | Mob llora **encogido a cuatro patas** mientras el colegio se rehace solo a su alrededor; cara roja, lágrimas y sudor | [TV Tropes, TearJerker](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/MobPsycho100) ✅; minuto exacto en el episodio ⚠️ |
+| **Adiós de Dimple** | T3 ep. 6 | Dimple se sacrifica contra el Lord Psycho Helmet; Mob llora hasta dormirse: «Gracias, Ekubo. Ekubo, fuiste mi amigo». En el manga lo decía el narrador; Bones se lo dio a Mob | suena **«Gray»** de sajou no hana cuando Reigen los encuentra | TV Tropes + Sportskeeda ✅; sin fotograma ⚠️ |
+| **Serizawa: «sólo quería tener amigos»** | T2, arco Claw | llora porque nadie entendió nunca su poder | — | wiki + TV Tropes ✅; sin minuto ⚠️ |
+| **Mob convence a Serizawa** | final de la T2 | top 1 de CBR | — | [CBR](https://www.cbr.com/mob-psycho-100-saddest-most-tragic-moments-anime/) ⚠️ |
+| **La casa ardiendo** (falsa, pero el miedo es real) | T2 | top 2 de CBR | — | CBR ⚠️ |
+| **Reigen y Mob se reconcilian** | arco Separate Ways | Reigen, «apretando el puño, sorprendido hasta las lágrimas» | — | TV Tropes ⚠️ sin fotograma |
+
+### 22.3 Las que hacen reír o gritar
+
+- **Dimple, de monstruo a gotita** (T1 ep. 1, 17:00 → 18:40): el gag de
+  presentación de la serie ✅.
+- **Reigen apunta con una pistola de juguete** a Claw (T1 ep. 12, 9:00):
+  «It's the ultimate weapon of destruction» ✅.
+- **La primera explosión al 100 %** (T1 ep. 3, 19:30-21:15): silencio,
+  estallido y «These are my emotions» ✅. Hay vídeo de reacción centrado en
+  ella ([YouTube](https://www.youtube.com/watch?v=xNZIXJvubuQ)) ⚠️.
+- **Mob vs. Koyama** (ep. 8): la pelea premiada; el hilo «Best scene»
+  suma 275 votos ✅.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+YouTube no dejó ver vistas desde el servidor: título y canal salen del
+buscador, **sin vistas comprobadas** ⚠️ (todo lo de esta sección).
+
+### 23.1 Fandubs en español latino
+
+| Qué | Canal o detalle | Enlace |
+|---|---|---|
+| Capítulo 11 completo | «Lilcrazy fandub», ago-2021 | [YouTube](https://www.youtube.com/watch?v=yruZrEwI4vM) |
+| Tráiler n.º 3 | «[ESPAÑOL LATINO / FANDUB]» | [YouTube](https://www.youtube.com/watch?v=pI27kg0Qf08) |
+| Tráiler | «Trailer Español Latino Fandub», 2016 | [YouTube](https://www.youtube.com/watch?v=VBTBa2pCjaQ) |
+| Episodio de la T2 «Aquello que es importante», parte 1 | abr-2019, sin fines de lucro | [YouTube](https://www.youtube.com/watch?v=DIqK-r0rMtg) |
+| Lista de clips doblados (18+) | canal de fans | [YouTube](https://www.youtube.com/playlist?list=PLuyKvtCwfMUTspvWyxv7ehqDNQs_JYg9T) |
+
+### 23.2 Covers de los openings en español
+
+| Tema | Versión | Enlace |
+|---|---|---|
+| «99» (T1) | «Español Latino Opening Cover ~ Mob Choir 99» | [YouTube](https://www.youtube.com/watch?v=jvIUrWudBU0) |
+| «99» (T1) | «Opening Español Latino - 99» | [YouTube](https://www.youtube.com/watch?v=rubNTMrCeJU) |
+| «99.9» (T2) | **Dianilis** | [YouTube](https://www.youtube.com/watch?v=9BAt_Umj6Ok) |
+| «99.9» (T2) | **LucA feat. CrisalMusic** | [YouTube](https://www.youtube.com/watch?v=EAdVNcMMDuE) |
+| «1» (T3) | «ONE Cover Latino!» | [YouTube](https://www.youtube.com/watch?v=Ge1EohWfD6Q) |
+
+### 23.3 Memes y comunidad
+
+- Cuentas de TikTok de memes en español, p. ej. `@reigen.arataka100`
+  (Serizawa y Reigen), y el agregador
+  [«Mob Psycho 100 Memes»](https://www.tiktok.com/discover/mob-psycho-100-memes) ⚠️.
+- Edits del Club de Fisicoculturismo y «frases en español» (§12.3) ⚠️.
+- **Lo que dice de la comunidad hispana**: Doblaje Wiki anota con lupa
+  cada cambio de voz y su motivo (Toledano → Meza, los hermanos Orozco)
+  ✅. La comunidad sigue el reparto de cerca: para un servidor de doblaje,
+  la continuidad importa.
+- Se buscó un meme hispano concreto (Serizawa y la gasolina) sin resultado.
+
+**Para el servidor**: un reto de fandub con la escena de Reigen
+aceptando el caso (Reigen.ogg, 0:00) o con Dimple («Vaya, vaya, vaya»,
+Ekubo.ogg, 0:27) usa frases con voz oficial para comparar.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Colaboraciones y eventos (su arte trae poses nuevas)
+
+- **Tiendas *pop-up***: «Mob Psycho 100 III EXHIBITION - POP UP SHOP-» en
+  [Matsumoto PARCO](https://en.art.parco.jp/matsumoto/detail/?id=1208), y
+  en Shibuya ediciones «Street Sports ver.», «Steampunk ver.», espacial
+  (ago-2025) y de vacaciones, **siempre con ilustraciones nuevas** ✅
+  (varias notas de essential-japan.com + MyFigureCollection). Es la mejor
+  cantera de **poses vivas fuera de la serie**.
+- **Animate Cafe**: «Mob Psycho 100 III x Animate Cafe» (oct-2022) ⚠️
+  ([Tumblr](https://www.tumblr.com/katyatalks/698607414481698816),
+  [Aitai Kuji](https://aitaikuji.com/series/mob-psycho-100)); un café de
+  papelería con figuras nuevas en jun-2025 ⚠️
+  ([post en X](https://x.com/KiraTheCatMan/status/1930118355324641418)).
+- **UNIQLO MANGA UT**: camisetas con arte de la serie ⚠️ (sólo
+  revendedores, [Aitai Kuji](https://aitaikuji.com/series/uniqlo-manga-ut-t-shirts);
+  sin página oficial de Uniqlo).
+- **LINE Rangers** (jun-2023) ⚠️ y los dos juegos propios (§13).
+- **No hay** colaboraciones con Fortnite ni con gachas grandes: buscado
+  en inglés sin resultado ⚠️.
+
+### 24.2 Imagen real y teatro
+
+- **Serie de imagen real**: 12 episodios en TV Tokyo (ene-abr 2018),
+  distribuida por **Netflix** ✅ (TV Tropes + AniList). Un investigador la
+  llama «Mob Psycho 100 THE MOVIE ~Loving Someone~» ⚠️ (una fuente).
+- **Obras de teatro**: tres montajes con subtítulos en inglés en
+  [Internet Archive](https://archive.org/details/Mob-Psycho-Stage-Plays-English-Subtitle);
+  la foto del actor de Reigen (hoja n.º 74) lleva el rótulo 舞台モブサイコ100 ✅.
+- El traje real de Dimple (capucha de tela, mono negro) es la mejor
+  referencia de **volumen** para modelarlo (§4.3).
+
+### 24.3 Figuras oficiales (pose en 3D real)
+
+| Figura | Qué trae | Enlace | Estado |
+|---|---|---|---|
+| Nendoroid Shigeo Kageyama | 3 caras (normal, despierto, sonrojado), mini-Dimple, **cuchara doblada**, ramen | [Good Smile](https://www.goodsmile.com/en/product/10623) + [goodsmile.info](https://www.goodsmile.info/en/product/12938) | ✅ |
+| Pop Up Parade de Shigeo y de Reigen | no articuladas, ~165 mm | [Good Smile](https://www.goodsmile.com/en/product/11013) | ✅ |
+| Nendoroid Ritsu Kageyama | — | [Hobby Genki](https://hobby-genki.com/en/nendoroid-figures-good-smile-company-official/38867) | ⚠️ |
+
+### 24.4 Cosplay bien hecho
+
+- **Reigen** ([Carbon Costume](https://carboncostume.com/arataka-reigen/)):
+  traje gris **de un botón**, camisa blanca, **corbata rosa**, zapatos
+  negros de vestir, peluca de puntas ✅.
+- **Matsuo** (Claw), guía en
+  [DeviantArt](https://www.deviantart.com/outfits-hub/art/Matsuo-Mob-Psycho-100-Cosplay-Guide-1363157663) ⚠️.
+- **Mob**: gakuran negro con botones oliva (`#D0C85D`), zapatillas
+  blancas; la palma hacia delante es la pose que se repite (hojas n.º 73,
+  75).
+- Foto libre de un evento: [Flickr, Henfermo](https://live.staticflickr.com/4687/38133434545_cd3cb573b4_b.jpg),
+  CC BY-NC-ND ⚠️.
 
 ---

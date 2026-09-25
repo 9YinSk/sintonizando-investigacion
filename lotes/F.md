@@ -27,6 +27,7 @@ Cuenta: cuenta A104
 - 85 Sword Art Online (todas): **COMPLETA y subida** (13:5x UTC). ✅26 ⚠️11 ❌0, 74 referencias, 52 webs, 828 líneas.
 - 86 Saga of Tanya the Evil: **COMPLETA y subida** (22:46 UTC). ✅15 ⚠️15 ❌0, 152 referencias, 51 webs, 946 líneas.
 - 87 Tsukimichi: lanzados imagen y texto.
+- 89 Frieren, paisajes y memoria: **COMPLETA y subida** (23:57 UTC). ✅28 ⚠️3 ❌0, 165 referencias, 55 webs, 2278 líneas.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
@@ -106,6 +107,9 @@ Cuenta: cuenta A104
 - **Aviso a `recolectar.py`** (bug real, puede afectar a otras series con nombre ambiguo): en 79-demon-slayer-paisajes-y-auras, el AniList y los juegos de Steam que trajo `--hojas` correspondían a otra obra («Onigiri», AniList id 21612), no a Kimetsu no Yaiba. El investigador de texto lo detectó, lo anotó y repitió las consultas a mano con el id correcto (101922). No toqué el script; lo dejo anotado por si el dueño quiere que alguien lo arregle.
 
 - **86 Saga of Tanya the Evil:** personaje más querido es Tanya (6.458 favoritos en AniList, 1.461 dibujos en Danbooru); la segunda es Visha (761). Cuadro de diálogo propio: el parte militar rectangular de esquinas rectas en papel crema con letra Special Elite; radio en globo hexagonal con cola recta («Fairy 08»); pensamiento de Tanya en tira aparte. Láminas: A #castings (expediente de selección del 203.º Batallón, recomendada), B #hardware (banco de pruebas con casco de sensores y orbe Tipo 95), C #en-directo (radio de campaña con Visha narrando y Tanya volando). Quedan 136 ⚠️ en la biblia, casi todos datos de una sola fuente o sin minuto.
+
+- **89 Frieren, paisajes y memoria:** más querido, Himmel (1.º en las dos primeras encuestas oficiales: 1.239.533 de 12.688.733 votos, aunque muere en ep. 1). Cuadro de diálogo propio: sin globo; la memoria habla con un objeto del sitio (placa grabada de estatua en Kaisei Tokumin, mapa oficial, páginas en blanco de la autobiografía de Himmel) o con silencio (yohaku). Láminas: A #destacados («La estatua en el campo de hierba luna azul», ⭐ recomendada), B #fotos («El mapa del viaje»), C #textos («Las páginas en blanco»). Avisos: Oír el clip de Himmel K8XwKilGTg0 en 0:13 antes de poner la frase en cartela de concepto A (según 33, «futuro» está mal oída). Elegir entre concepto C de esta biblia (páginas en blanco) y concepto B de 33 (diario): mismo libro, no hacer los dos. En concepto B cartela lleva frase del redactor; la real del doblaje (los meteoros) sólo si no se hace concepto C de 33. El mapa de frieren-anime.jp/special/map/ requiere navegador real (Cloudflare); faltan títulos 16-21. Faltan minutos de cinco caras de Frieren y Fern (eps. 2, 7, 23, 25, 27), de Flamme en Aureole y de la cuna vacía.
+
 ## Wikis de Fandom del lote
 
 - 77-wistoria-wand-and-sword: `wistoria`
@@ -164,6 +168,7 @@ Cuenta: cuenta A104
 | 84-no-game-no-life | redactor (opus, cuenta .104) | opus | 14 | 277299 |
 | 85-sword-art-online-todas | redactor (opus, cuenta .104) | opus | 11 | 228393 |
 | 86-saga-of-tanya-the-evil | equipo completo | Sonnet + Opus | — | — |
+| 89-frieren-paisajes-y-memoria | equipo completo | Sonnet + Opus | — | — |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 

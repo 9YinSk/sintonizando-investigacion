@@ -106,11 +106,15 @@ fecha: 2026-09-24
 - La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
   pasada.
 
-**Los ⚠️:** había **84** antes de esta pasada. Quedan los que se explican en
-«Lo que no pude verificar» (§20) y en la tabla de cumplimiento: sobre todo
-minutos de escenas sin clip (Anfiteatro Fantasma, «Henchman», «Marceline's
-Closet»), vistas de fan dubs (YouTube cerrado), cantantes latinas de
-Marceline, BMO y la corona de la Dulce Princesa sin medir.
+**Los ⚠️: 84 antes → 119 ahora.** Suben porque esta pasada **añadió unas
+1300 líneas** (8 secciones nuevas, el reparto completo, poses, paletas) y
+cada dato de una sola fuente lleva su marca. De los 84 viejos se
+resolvieron **unos 30** (lista en §20, «Resuelto»). Los que quedan se
+explican en §20 y en la tabla de cumplimiento: sobre todo minutos de
+escenas sin clip (Anfiteatro Fantasma, «Henchman», «Marceline's Closet»),
+vistas de fan dubs (YouTube cerrado), cantantes latinas de Marceline,
+papeles secundarios del doblaje con una sola fuente, y BMO y la corona de
+la Dulce Princesa sin medir.
 
 ---
 
@@ -166,8 +170,8 @@ campos como si fuera la lista de canciones (ver §19, concepto A).
 |---|---|
 | Por qué encaja con #musica-nueva | En la serie **se graban discos**. Marceline graba la «Canción de las papas» con Finn haciendo beatbox («Thanks for helping me record, Finn», 2×01, ≈0:07) ✅. En «Marceline's Closet» (3×21, ≈6:05) enciende su equipo de grabación y dice: «Toma uno para mi **nuevo álbum conceptual**, basado en quinientos años de mi diario» ✅. Y la serie **termina con un estreno**: el Hoyo Musical dice «he estado trabajando en **una canción nueva**. ¿Quieren oírla?» y suena el tema final (10×13, ≈43:04) ✅. |
 | El objeto | **El bajo-hacha de Marceline**, que era **el hacha de la familia** («Is this the family ax? Did you turn it into some kind of lute?», dice su padre en 2×01, ≈2:15) ✅. Y los **discos oficiales que existen de verdad**: la **caja de Mondo** con tres LP de 12", un 10", un CD y un casete (2019) ✅, el LP «Come Along With Me» ✅, el doble LP de «Obsidian» ✅ y «BMO's Mixtape» ✅. Hay **modelos 3D del bajo en Sketchfab**, al menos uno con licencia CC BY-NC-SA ✅. |
-| Cuadro de diálogo propio | **No hay globos.** La serie pone el texto en **papeles escritos a mano**: la nota de Finn («MARCY, PLEASE COME TO THE TREEHOUSE—IT'S AN AMERGENCY!», 3×21) ✅, las **notas de Simón que Marceline canta** en «I Remember You» (4×25, ≈8:49) ✅ y **el cuaderno de letras** de Marceline (3×21, ≈6:36) ✅. Y las **cartelas de título**, pintadas sobre **papel antiguo escaneado** y con **tramado de cómic viejo** ✅. |
-| Personaje | **Marceline**, sin duda: es la música de la serie. Es la favorita de mucha gente (la editorial BOOM! la llamó «fan-favorite» ⚠️; tuvo su miniserie «Estacas» y su especial «Obsidian» ✅). **No encontré una encuesta oficial** de popularidad. Secundarios que suman: **BMO** (tiene su propio disco), **Finn** (beatbox), **Jake** (viola) y la **Dulce Princesa**. |
+| Cuadro de diálogo propio | **No hay globos.** El más reconocible es **la nota de Simon** a Marcy: papel crema arrugado con mayúsculas a mano (hoja `escenas_09` n.º 408, segunda pasada). La serie pone el texto en **papeles escritos a mano**: la nota de Finn («MARCY, PLEASE COME TO THE TREEHOUSE—IT'S AN AMERGENCY!», 3×21) ✅, las **notas de Simón que Marceline canta** en «I Remember You» (4×25, ≈8:49) ✅ y **el cuaderno de letras** de Marceline (3×21, ≈6:36) ✅. Y las **cartelas de título**, pintadas sobre **papel antiguo escaneado** y con **tramado de cómic viejo** ✅. |
+| Personaje | **Marceline**, sin duda: es la música de la serie. Es la favorita de mucha gente (BOOM! la llamó «fan-favorite» ✅, *The Guardian* la llamó lo mejor de la serie ✅; tuvo su miniserie «Estacas» y su especial «Obsidian» ✅). **No encontré una encuesta oficial** de popularidad. Secundarios que suman: **BMO** (disco propio y favorito de Pendleton Ward ✅), el **Rey Helado / Simon** (el «mejor personaje» para *Vulture* ✅), **Finn** (beatbox), **Jake** (viola) y la **Dulce Princesa**. |
 | Voz latina de Marceline | **Isabel Martiñón** (habla) ✅. Sus canciones las cantaron otras: **Claudia Urbán** (temporadas 1-2), **Patty Urbán** (3-4) y **Carla Cerda** (5 en adelante, «Estacas», «Tierras lejanas») ⚠️. |
 | Voces latinas del resto | Finn **José Antonio Toledano** ✅, Jake **José Arenas** ✅, Dulce Princesa **Karla Falcón** ✅, Rey Helado **Óscar Flores** ✅. Estudio **Sensaciones Sónicas** (hasta media temporada 5) y luego **SDI Media de México** ✅. |
 | Noticia que viene justo | **«Hora de aventura: Misiones Secundarias»** llega a **Cartoon Network y HBO Max en Latinoamérica el 5 de octubre de 2026**, doblada, con **José Arenas** otra vez como Jake ✅. |
@@ -1177,7 +1181,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 ### Dulce Princesa (Princess Bubblegum, Bonnibel)
 
 - **Quién es**: la **gobernante del Dulce Reino** y **científica** ✅
-  (wikis). Tiene cientos de años ⚠️.
+  (wikis). Tiene **827 años** ✅ (ver «A fondo»).
 - **En la música**: quiere **dirigir**: «For our next attempt, **I
   wanna be the lead**» y da órdenes técnicas («triplet quavers in
   mixolydian mode») que nadie entiende (3×10) ✅. Toca a BMO como
@@ -2077,6 +2081,428 @@ retratos del juego de DS (§7.3).
 
 ---
 
+## Punto 18 del encargo · Estilo de dibujo y técnica, y cómo replicarlo
+
+Sección nueva de la segunda pasada.
+
+### Cómo se hizo de verdad
+
+- **Dibujo a mano en papel**, luego compuesto y pintado en digital
+  («hand-drawn on paper, which was then digitally composited and painted
+  with digital ink and paint») ✅
+  ([Wikipedia, «Animation»](https://en.wikipedia.org/wiki/Adventure_Time)).
+- La preproducción (personajes, objetos, fondos) se hizo **sobre todo en
+  Photoshop**, según **Phil Rynda**, diseñador líder ⚠️ (el dato del
+  Photoshop sólo lo da Wikipedia citando una entrevista que no encontré;
+  Rynda como diseñador líder sí está en dos fuentes:
+  [su ficha](https://adventuretime.fandom.com/wiki/Phil_Rynda) y los
+  créditos vistos en §2.9).
+- La animación se hacía en **Corea del Sur** (**Rough Draft Korea** o
+  **Saerom Animation**); diseño y color final en **Cartoon Network Studios**
+  (Burbank) ⚠️ (una fuente).
+- **Fred Seibert** comparó el estilo con **Felix the Cat** y los dibujos de
+  **Max Fleischer**, y dijo que el mundo bebe de los videojuegos ⚠️ (una
+  fuente).
+- Dirección de arte: **Nick Jennings** (pintó muchas cartelas, §3.2) ✅.
+  Fondos de la temporada 1: **Ghostshrimp** y **Santino Lascano**; pintura:
+  **Sue Mondt** y **Martin Ansolabehere** ⚠️.
+- **Línea y color** ⚠️ (análisis de fans y blogs que coinciden, no un
+  *making of*): contorno oscuro limpio con un **temblor leve «a mano»**, más
+  grueso en las primeras temporadas; **colores planos y saturados**, 1 o 2
+  tonos de sombra como mucho; formas simples. Los model sheets vistos
+  (§3.7) lo confirman: **línea fina uniforme, color plano, sin sombra**.
+- **Filtros**: no hay grano, brillo ni aberración en la serie normal ✅
+  (visto en los clips). En «Tierras lejanas» los fondos son **más
+  pintados, con degradado** (§5.2).
+- Reglas de dibujo de Ward: **brazos de fideo «al dente»** y ojos de punto
+  ✅ ([Acclaim](https://acclaimmag.com/culture/learn-draw-adventure-time-creator-pendleton-wards-detailed-occasionally-bizarre-notes/)).
+
+### Cómo reproducirlo en Photoshop
+
+(Propuesta práctica, coherente con el flujo real: papel → tinta digital →
+color plano.)
+
+- **Capa de línea** aparte: pincel de tinta duro, opacidad 100 %, sin
+  textura, unos **3-4 px sobre un lienzo de 1500 px** de ancho.
+- **Color base debajo** de la línea, con el bote de pintura (bordes duros,
+  sin degradado).
+- **Sombra en una sola capa «Multiplicar»**, un solo tono, sin aerógrafo.
+- Para una **cartela o un título**: textura de **papel viejo** en
+  «Multiplicar» o «Superponer» a baja opacidad, y una trama de **tramado
+  (dithering)** encima (punto 19).
+- Recortes de fotogramas: siempre por `v3/integrar.py`.
+
+### Cómo reproducirlo en Blender
+
+- **Contorno**: modificador **Solidify** con normales invertidas, grosor
+  ~0,01-0,02 (el «casco invertido», funciona en Eevee), o **Freestyle** en
+  la pestaña Render ✅
+  ([Blender Studio, Toon Character Workflow](https://studio.blender.org/training/toon-character-workflow/5859a5da1f47427e3fe82330/),
+  [BlenderNation](https://www.blendernation.com/2020/02/06/how-to-make-a-toon-shader-with-dynamic-outlines/)).
+- **Sombreado**: un **Toon Shader**, o Diffuse + **ColorRamp** en modo
+  Constant, cortando en 1 o 2 tonos duros.
+- **Luz**: una luz principal suave y cálida; en la cueva, el HDRI
+  [Cave Wall](https://polyhaven.com/a/cave_wall) (§5.4).
+- **Modelos y rigs libres** (licencia leída en la API de Sketchfab): bajo
+  de Haxis (CC BY), Marceline de coffe0wolf (CC BY), Finn de Agu.3D (CC BY,
+  64 992 caras) y de Nico Caraballo (CC BY, 1 548 caras), Jake de Mormont
+  (CC BY), BMO y la casa del árbol (CC BY) (§4.1.b).
+- **El objeto 3D no debe verse realista** al lado de un personaje plano:
+  material plano + contorno (§4.1).
+
+### Encuadres y composición
+
+- ⚠️ **No encontré** una entrevista o *making of* sobre planos y ángulos.
+  Lo visto en los clips (§2, §15): **plano general** para entrar en
+  escena (Marceline volando hacia la puerta), **primer plano frontal**
+  para cantar con rabia o tristeza, **primerísimo primer plano** con la
+  cabeza echada atrás para llorar (1:18 de «I Remember You»), **plano
+  medio sentado** para escenas de casa (tráiler de «Obsidian», 0:16-0:20).
+
+## Punto 19 del encargo · Texturas 2D
+
+Sección nueva de la segunda pasada. No es manga: **no hay tramas de manga**.
+
+- **Tramado (dithering) de las cartelas**: la textura «oficial» de la
+  serie, sobre **papel viejo escaneado** por Nick Jennings ✅ (§3.2).
+- **Cómics de BOOM!**: color plano con sombra en trama, típico del cómic
+  americano de la época ⚠️ (descripción, sin fuente de técnica).
+- **Texturas reales CC0** (nombres sacados de la API de ambientCG):
+  **Paper001-006** para cartelas y librillos, **Cardboard001-004** para la
+  funda del vinilo, **Fabric081C, Fabric061, Fabric066** para la ropa,
+  **Wood092, Wood094, Wood095** para el mástil y los muebles,
+  **Leather026, 030, 037, 038** para las botas ✅ (§5.4).
+- **Pinceles y patrones de trama libres**:
+  [12 texturas de halftone desgastado, Spoon Graphics](https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures)
+  ✅ (gratis, sin registro);
+  [+35 patrones de halftone, PhotoshopSupply](https://www.photoshopsupply.com/patterns-textures/halftone-texture)
+  ✅; [Brusheezy](https://www.brusheezy.com/free/halftone-texture) ⚠️ (la
+  licencia cambia en cada pincel: míralo antes).
+- **Emblemas y logos**: el logo oficial (§3.7), la corona del Rey Helado,
+  la Espada de Hierba y el Enchiridion (punto 25).
+- Con el punto 3 (3D, §4) y el 4 (texturas reales, §5.4) **no falta
+  ninguna capa**: trama, material real y 3D.
+
+## Punto 20 del encargo · Gustos y detalles de cada personaje
+
+Sección nueva de la segunda pasada. Sale de los infobox y de las
+curiosidades de la wiki inglesa, leídos por su API, con el episodio que
+lo confirma. **Ningún infobox trae la altura**: no la invento.
+
+### Marceline
+
+- **Come el color rojo**, no sangre. Por eso **toda su ropa lleva algo
+  rojo** «por si acaso» (salvo en «Red Starved») ✅. **Los tomates le dan
+  sueños lúcidos** (nota suya en «Marceline's Closet») ✅.
+- **Aficiones**: la música y el **baloncesto** («Simon & Marcy»; la hoja
+  `escenas_09` n.º 417-418 la muestra encestando) ✅.
+- **Mascota**: un **caniche zombi, Schwabl** ✅.
+- **Lo que siempre lleva**: **el bajo-hacha**, hecho del hacha de guerra de
+  la familia ✅.
+- **Protector solar «FPS 10 000 000»** ✅.
+- **Cumpleaños**: **27 de junio** ✅ (infobox, con la «House Hunting Song»
+  de 1×12: «I'm a thousand years old»).
+- **Cómo se ve a sí misma**: «No soy mala. Tengo mil años y perdí de vista
+  mi código moral» ⚠️ (traducción mía; no encontré el doblaje).
+- **Altura**: sin número; «alta y delgada», más alta que la Princesa y como
+  el Rey Helado ⚠️.
+
+### Finn
+
+- **Color favorito**: **azul bebé** «de niño» («The Silent King») ✅.
+- **Comida favorita**: **pastel de carne** (meatloaf), en tres episodios
+  («Still», «Jake Suit», «Three Buckets») ✅.
+- **Lo que le cuesta**: el romance (vomita en «Go With Me»); es
+  **daltónico rojo-verde** («Red Starved») ✅.
+- **Lo que siempre lleva**: su espada (varias) y la mochila; en «Jake vs.
+  Me-Mow», la **cajita de música de su madre adoptiva**, cuya nana se sabe
+  de memoria ✅.
+- **Cómo se ve**: quiere ser un gran héroe, el «sheriff moral» de Ooo ✅.
+
+### Jake
+
+- **Comida**: pay, hamburguesas y helado; **el chocolate lo mataría**
+  («Slumber Party Panic») ✅.
+- **Aficiones**: **cocinar** bien (bacon pancakes, café, «Everything
+  Burrito»), **la viola**, el beatbox ✅.
+- **Cómo se ve**: el mentor sabio de Finn, aunque sabe que sus consejos
+  fallan ✅.
+
+### Dulce Princesa
+
+- **Color favorito**: **rosa** («The Real You») ✅.
+- **Comida favorita**: **espagueti** («To Cut a Woman's Hair») ✅.
+- **Afición**: toca **la trompeta** («Bad Timing») ✅.
+- **Transporte**: **Morrow**, un pájaro muy veloz ✅.
+- **Lo inquietante**: en situaciones límite **come gente-caramelo** de su
+  reino para «reponer biomasa» (lo confirmó el showrunner **Adam Muto**) ✅.
+- **Edad**: 827 años (§8) ✅.
+
+### BMO
+
+- **Lo que más valora**: **su control**, «BMO's prized possession»
+  («What Was Missing») ✅.
+- **Ficha en broma** de un DVD: edad **«VER. 2600»**, especie **«110
+  VOLT-60 HERTZ SYSTEM»**, guiño a la Atari 2600 ✅.
+- **Lo que le hace llorar**: que Finn se rape para disfrazarse («Davey»),
+  aunque dice no tener emociones ✅.
+
+### Rey Helado / Simon
+
+- **Objetos**: la **corona** (poder y locura) y una **computadora vieja**
+  donde juega y dibuja princesas torpes ✅.
+- **Detalle**: un tatuaje de pingüino («Prisoners of Love», en un sueño) ⚠️.
+- **Cómo se ve**: como Simon, responsable de Marceline; como Rey Helado,
+  sólo sabe que «quiere una princesa» (el eco de Betty) ✅.
+
+**Fuente que falta**: la *Adventure Time Encyclopædia* (Martin Olson,
+Abrams, 2013) trae fichas de gustos «en la voz» de cada personaje, pero
+no se pudo leer (Scribd no cargó) ⚠️.
+
+## Punto 21 del encargo · Por qué la gente la ama
+
+Sección nueva de la segunda pasada.
+
+### Premios y reconocimiento ✅
+
+- **8 Primetime Emmy**, **1 Peabody**, **3 Annie**, **2 BAFTA infantiles**,
+  un premio de los editores de sonido y un premio *Kerrang!*
+  ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
+- **«Simon & Marcy»** (4×24), nominado al Emmy en 2013; el final, **«Come
+  Along With Me»**, nominado a un Emmy Creative Arts en 2019
+  ([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King),
+  [Wikipedia: Come Along with Me](https://en.wikipedia.org/wiki/Come_Along_with_Me_(Adventure_Time))).
+- **«Obsidian»**, nominado a un **GLAAD Media Award** (§14).
+
+### Por qué conecta, según la crítica ✅
+
+- **Crecer de verdad**: *Vox* (Emily VanDerWerff) la llamó «la mejor
+  historia de crecimiento de esta era»; Finn pasa «de niño a casi hombre».
+- **Salud mental**: el Rey Helado como metáfora del **Alzheimer** y la
+  soledad (*Vulture*); Marceline, de una **familia no tradicional**, con
+  emociones que «a veces reflejaban depresión» (*Teen Vogue*).
+- **Representación LGBTQ+**: la revista *Them* llamó a Marceline «uno de
+  los mejores retratos de angustia bisexual» en animación
+  ([Wikipedia: Marceline](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen)).
+- **Imaginación pura**: humor fácil con temas duros (guerra nuclear,
+  muerte, identidad) (Wikipedia, recepción).
+
+### Con quién se identifica el público ✅
+
+- **Finn**: crece con su público; *Entertainment Weekly* lo compara con
+  los niños que crecieron con Harry Potter.
+- **Rey Helado / Simon**: tragedia enorme mezclada con torpeza diaria; por
+  eso es «el favorito de mucha gente» (*Vulture*).
+- **Marceline**: lo punk, la tristeza bajo la fachada dura y, para el
+  público LGBTQ+, su relación con la Princesa.
+- **Cosplay**: Finn y Jake, de los disfraces más vistos en EE. UU. (*The
+  Daily Beast*, 2019); hubo **globo de Finn en el desfile de Macy's de
+  2013** ([wiki: Finn](https://adventuretime.fandom.com/wiki/Finn)).
+
+### Las escenas que hacen llorar (y cómo están hechas)
+
+- **«I Remember You»** (4×25): Marceline canta la carta que Simon le
+  escribió cuando aún era humano. **Cómo está dibujada** (vista en el
+  clip): casa rosa con luz plana, **primerísimo primer plano con la cabeza
+  atrás y una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?t=78)),
+  **una Polaroid** de ella niña ([1:36](https://www.dailymotion.com/video/xzt1l7?t=96))
+  y un **flashback entre ruinas** con Hambo. **Música**: «Remember You»
+  con omnichord y la batería del Rey Helado. *io9*: «una de las cosas más
+  intensas que he visto en años» ✅.
+- **«Simon & Marcy»** (4×24): nominado al Emmy; en listas de los 10
+  mejores episodios (*Geek.com*) ✅.
+- **El final, «Ven Conmigo»** (10×13): «desgarrador, aventurero e
+  inventivo»; tono «tierno y un poco lloroso» ✅. En **Reddit**
+  (r/adventuretime): «**I definitely cried on the last episode and my mom
+  thought I was faking**» (1186 puntos) y «Just cried when finishing the
+  last episode» (167) ✅
+  ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=adventuretime&title=cried&limit=15&sort=desc)).
+- **«Obsidian»**: «por fin, felices juntas», Marceline y la Princesa (§14).
+- **Para reír**: «Bacon Pancakes» (4×16) y el «¿qué es una corchea?» de
+  Marceline (3×10) (§14, §2.3).
+- ⚠️ Faltan **vídeos de reacción** con minuto: YouTube pide sesión.
+
+## Punto 22 del encargo · Fan dubs y comunidad hispana
+
+Sección nueva de la segunda pasada. **YouTube y TikTok no dejan ver vistas
+ni fechas desde este servidor**: van título, canal y tema; las métricas,
+⚠️.
+
+- **Fandubs latinos en YouTube** ⚠️ (existencia por buscador, sin vistas):
+  «Hora De Aventura - Chico Malo (Fandub Español Latino)»; «Hora de
+  aventura "Parodia" (Fandub español latino)»; «Hora De Aventura Demasiado
+  Joven (Fandub Español Latino) Clip»; «Muchachito malo | Hora de Aventura
+  | Español latino - Fandub»; y una serie de **«Cómics de Hora de aventura
+  (Fandub español)»** con al menos los n.º 2 a 7, el último de
+  **septiembre de 2024**: un proyecto sostenido.
+- **TikTok**: **@angelon_2002_fandubs** dobló una escena de **«Estacas»**
+  con el **Hierofante Vampiro** hecho por «Artista Galáctico», con
+  **#fandubcomunidad #fandoblaje #horadeaventura** ⚠️. **@whiderlin_hot**
+  comparó **«Soy tu problema»** en latino y en castellano ⚠️.
+- **Traducciones de canciones por fans**: LyricsTranslate, Letras.com y
+  Cifra Club tienen «I Remember You» y «Everything Stays» en español ✅.
+- **El disco oficial en español** (§3.4) es la base de muchos covers: ya
+  hay una versión cantada con la que comparar ✅.
+- **La campaña por Karla Falcón** (§10.2): firmas, un grupo de Facebook y
+  hilos en McAnime y Taringa **para que volviera a la Dulce Princesa**. Es
+  el ejemplo más fuerte de la comunidad hispana **defendiendo su doblaje**
+  ✅.
+- **Actores en convenciones**: Isabel Martiñón en la Expomac de Veracruz y
+  en Starcon; Karla Falcón en Festigame 2024 (§10.2) ✅.
+- **Memes hispanos**: los **modismos de Jake** («¡Ay, mamachita!»,
+  «compadre») y la polémica de su voz «neutra» (§10.3) ✅; HBO Max México
+  presume de que «no hay doblaje más icónico» (§12.2).
+- ⚠️ **No encontré** un canal de fandub con métricas grandes comprobables.
+  Quien tenga YouTube abierto: buscar «Hora de aventura fandub capítulo
+  completo».
+
+## Punto 23 del encargo · Colaboraciones y cruces
+
+Sección nueva de la segunda pasada. Fuente principal: la página
+[«References in other media»](https://adventuretime.fandom.com/wiki/References_in_other_media)
+de la wiki, leída entera, con prensa para fechas y precios.
+
+### Videojuegos con pieles o personajes ✅
+
+- **Fortnite**: Finn, Jake, Dulce Princesa y Marceline como **skins**
+  (1500 V-Bucks cada uno, 3800 el pack), update v34.30, **abril de 2025**
+  ([ScreenRant](https://screenrant.com/fortnite-adventure-time-skins/),
+  [Sportskeeda](https://www.sportskeeda.com/fortnite/how-get-finn-jake-princess-bubblegum-marceline-adventure-time-skins-fortnite)).
+  **El objeto del plan está dentro**: el **«Marcy's Ax Bass»** es pico y
+  **instrumento tocable en Fortnite Festival** («A family heirloom
+  converted into a wicked bass guitar»), junto a un keytar de la Princesa
+  ([Fortnite.gg](https://fortnite.gg/cosmetics?id=17683)). Mochilas:
+  Chicle Espacial, BMO, Hambo. Segunda tanda con Fionna, Cake, Conde
+  Limongrab y Rey Helado, **15-ene-2026**.
+- **MultiVersus**: Finn, Jake y un Guardia Banana desde 2024; **Marceline**
+  el **20-dic-2024** ([GameRant](https://gamerant.com/multiversus-marceline-adventure-time-release-date-price/)).
+  Mapa «Tree Fort». Cerró servidores el **30-may-2025** ⚠️.
+- **LEGO Dimensions** (2016): Level Pack con Finn, Team Pack con Jake y la
+  Princesa Grumosa (27-sep-2016), Fun Pack con **Marceline** (18-nov-2016).
+- **Minecraft**: el logro **«Adventuring Time!»** y el **«Adventure Time
+  Mash-up Pack»** (mapa de Ooo, texturas y skins), **30-may-2017**.
+- **Brawlhalla**: Finn, Jake y Dulce Princesa, mapa y efecto K.O.
+  ([nota oficial](https://www.brawlhalla.com/news/what-time-is-it-adventure-time-in-valhalla-patch-3-44/)).
+- **League of Legends** (el baile de Jinx, la piel de Zed) y **Skullgirls**
+  (Filia y Fionna): guiños ⚠️ (sólo la wiki).
+- **Xbox Live** (2012): 30 prendas de avatar, con la corona del Rey Helado
+  y **el bajo-hacha** ([Polygon](https://www.polygon.com/2012/10/9/3480640/adventure-time-avatar-items-xbox-live)).
+
+### Figuras oficiales (su pose es referencia 3D) ✅
+
+- **Funko Pop!**: Marceline **#31** y **#301 con guitarra** (exclusiva de
+  Hot Topic), y una versión **Adventure Time × Minecraft**
+  ([#31](https://www.tcgplayer.com/product/135801/funko-pop-vinyl-adventure-time-marceline),
+  [#301](https://www.tcgplayer.com/product/135786/funko-pop-vinyl-adventure-time-marceline-with-guitar),
+  [BoxLunch](https://www.boxlunch.com/product/funko-pop-adventure-time-x-minecraft-marceline-vinyl-figure/11442336.html)).
+  La #301 es la figura más directa de **Marceline con su bajo**.
+
+### Cosplay bien hecho: el bajo-hacha con materiales reales ✅
+
+- **MDF de ¼" + espuma aislante de ½"** a los dos lados, lijada
+  ([2StoryProps](http://2storyprops.blogspot.com/2013/03/marcelines-axe-bass-adventure-time.html)).
+- Cuerpo de **pino con plantilla**, mástil de **dos tablas de 2×3"**
+  atornilladas, paso a paso en [The RPF](https://www.therpf.com/forums/threads/marcelines-axe-bass-build-from-adventure-time.221761/).
+- Versión ligera: **cartón piedra y goma EVA**, cuerdas de alambre
+  ([Nerd Caliber](https://www.nerdcaliber.com/making-good-cosplay-great-marcelines-guitar-a-tutorial/),
+  [Cosplay Sass](https://cosplaysass.wordpress.com/2019/02/20/marceline-axe/)).
+- Sirven como **referencia de volumen y materiales** para el modelo 3D.
+
+### Parodias y cruces ✅
+
+- **MAD Magazine** n.º 520, con Finn como Alfred E. Neuman.
+- **Gaia Online** (2012): objetos virtuales y evento con Pendleton Ward
+  (22-mar-2012).
+- Cameos en **Steven Universe** («Sadie's Song») y **OK K.O.!** («Crossover
+  Nexus»).
+- ⚠️ No encontré colaboraciones de moda o belleza (Vans, OPI, Uniqlo) con
+  dos fuentes: sólo ropa con licencia en Hot Topic. **Cafés temáticos**:
+  no se buscaron ⚠️.
+
+## Punto 24 del encargo · Obras parecidas y temas relacionados
+
+Sección nueva de la segunda pasada.
+
+- **El semillero: «The Marvelous Misadventures of Flapjack»** (Cartoon
+  Network, 2008-2010). Pendleton Ward fue guionista y storyboarder ahí ✅
+  ([SlashFilm](https://www.slashfilm.com/1581694/flapjack-cartoon-network-disney-nickelodeon-descendants/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
+- Del mismo equipo, series de tono parecido (fantasía, humor y emoción) ✅:
+  **Gravity Falls** (Alex Hirsch), **Over the Garden Wall** (Patrick
+  McHale, director creativo de Adventure Time hasta la temporada 2),
+  **Steven Universe** (Rebecca Sugar, storyboarder de Adventure Time y
+  autora de las canciones de Marceline) y **Regular Show** (J.G. Quintel,
+  director creativo en las dos primeras temporadas).
+- **Influencias que reconoce Ward**: **Dungeons & Dragons** («Writing for
+  the show is a lot like playing DnD… I get all my dungeon crawls out in
+  writing the show») ⚠️
+  ([The Mary Sue](https://www.themarysue.com/pendleton-ward-interview/));
+  **Miyazaki / Totoro** para los momentos bonitos, **Home Movies** y **Dr.
+  Katz** para el diálogo relajado ⚠️ (Wikipedia).
+- Las cartelas beben de **novela pulp, D&D, Frazetta y cine de artes
+  marciales de los 70** ✅ (§3.2).
+- **Otras láminas del servidor**: hay una biblia en marcha de **Steven
+  Universe** (`biblias/64-steven-universe/`, sólo partes todavía). Tiene
+  el mismo aire (Rebecca Sugar, canciones): **no repetir** en ella la idea
+  de «disco o canción en papel» si esta lámina la usa.
+
+## Punto 25 del encargo · El mundo, la historia y sus símbolos
+
+Sección nueva de la segunda pasada.
+
+### Las reglas del mundo, en cinco líneas ✅
+
+1. **Ooo es la Tierra**, unos **mil años después de la Guerra de los
+   Champiñones**, un cruce nuclear de finales del s. XX o principios del
+   XXI ([wiki: Mushroom War](https://adventuretime.fandom.com/wiki/Mushroom_War)).
+2. La bomba **despertó al Lich** y **trajo de vuelta la magia**.
+3. Los humanos casi desaparecieron; de la mutación nacieron las razas
+   nuevas (gente-dulce, elementales…).
+4. Ooo se reparte en **reinos**: Helado, Dulce, Condado de Limongrab,
+   Wildberry, de Fuego, de las Nubes; el **Espacio Grumoso** es otra
+   dimensión ([wiki: Land of Ooo](https://adventuretime.fandom.com/wiki/Land_of_Ooo)).
+5. Frederator publicó **dos mapas oficiales** de Ooo (uno en blanco y negro
+   de Ghostshrimp, otro a color).
+
+### La historia por arcos
+
+- **T1-5**: episodios sueltos con pistas del pasado de Simon y de
+  Marceline ✅.
+- **T6**: Finn conoce a su padre humano ✅.
+- **T7, «Estacas»**: el pasado vampiro de Marceline; hace las paces con lo
+  que es ✅.
+- **T8, «Islands»**: Finn, Jake, BMO y Susan cruzan el mar; Finn conoce a su
+  madre ✅.
+- **T9, «Elements»**: la magia elemental vuelve Ooo una distopía ✅.
+- **T10, el final**: la Princesa contra su tío **Gumbald**, Finn contra el
+  lado oscuro de **Fern**, y **Betty** le quita la corona a Simon ✅.
+- Fuente del detalle por arcos: [Wikipedia, temporada 6](https://en.wikipedia.org/wiki/Adventure_Time_season_6)
+  y las siguientes ⚠️ (una fuente para el detalle).
+- Después: «Tierras lejanas» (2020-2021, con «Obsidian»), «Fionna & Cake»
+  (2023-2024) y «Misiones Secundarias» (2026) (§10.5).
+
+### Símbolos y vocabulario que un fan reconoce al instante
+
+- **El bajo-hacha** de Marceline (§3.5) ✅.
+- **El Enchiridion**, el manual del héroe; del griego *encheiridion*, «lo
+  que se lleva en la mano» ✅
+  ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AdventureTime),
+  [Wikipedia](https://en.wikipedia.org/wiki/The_Enchiridion!)).
+- **La corona del Rey Helado**, creada por Urgence Evergreen: la que
+  **volvió loco a Simon** ✅ ([wiki](https://adventuretime.fandom.com/wiki/Ice_King%27s_crown)).
+- **La Espada de Hierba** de Finn y luego su brazo de cactus ✅
+  ([wiki](https://adventuretime.fandom.com/wiki/Grass_Sword)).
+- **La Nocheósfera**, el inframundo de Hunson Abadeer ✅
+  ([wiki](https://adventuretime.fandom.com/wiki/Nightosphere)).
+- **Hambo**, el osito de Marceline, regalo de Simon ✅ (§8).
+- **Card Wars**, el juego de cartas que se volvió juego real ✅.
+- Palabras: **Ooo**, **Glob** (como «Dios»), **Nocheósfera**, **Espacio
+  Grumoso**, **«¿Qué hora es? ¡Hora de aventura!»**, y las muletillas
+  **«¡Algebraico!»** y **«¡Matemático!»** ⚠️ (TV Tropes; se usan sobre todo
+  al principio).
+
+---
+
 ## 19 · Tres conceptos para la lámina de #musica-nueva
 
 Los tres usan los textos de §0. Las frases «en la voz de la serie» son
@@ -2225,26 +2651,41 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen vista.** Todo lo visual (key art, portadas de discos,
-  cartelas) está descrito por texto de tiendas y noticias.
-- **Los minutos** son estimados por la posición en la transcripción (±1
-  minuto).
-- **Frases latinas de Marceline**: no encontré ninguna frase textual suya
-  en el doblaje (sólo títulos de canciones y del episodio). Tampoco la
-  del Hoyo Musical.
+Actualizado en la segunda pasada. Entre corchetes, lo que se resolvió.
+
+**Resuelto** ✅: [imágenes vistas: model sheets, capturas, 3 hojas] ·
+[minutos exactos de «Fry Song», «I'm Just Your Problem», «I Remember You»,
+tráiler de «Obsidian», piloto y 4 clips más] · [6 frases textuales del
+doblaje, en audio] · [BMO latino, directores y Claudia Urbán, con la tabla
+de Doblaje Wiki] · [fecha del disco en español: 25-oct-2019] · [licencias
+de Sketchfab por la API] · [hex medidos] · [la fuente de fans del logo:
+sólo trae tildes en tabla Mac Roman] · [«¡Oh por Glob!»] · [retratos del
+juego de DS y menú de Card Wars].
+
+**Sigue sin verificar** ⚠️:
+- **Minutos de escenas sin clip**: «Henchman» (1×22), «Marceline's Closet»
+  (3×21), el concierto del Anfiteatro Fantasma (10×07), y los minutos de
+  los episodios largos (final y «Obsidian» entero). Siguen por
+  transcripción (±1 min).
+- **La cueva de Marceline**: sin fotograma; su luz y paleta, de memoria.
 - **Quién canta** a Marceline en cada temporada (Claudia Urbán, Patty
-  Urbán, Carla Cerda): una sola fuente (Doblaje Wiki).
-- **BMO latino** (Gustavo Melgarejo) y los directores de doblaje: una
-  sola fuente.
-- **Estudio de «Misiones Secundarias»** (Iyuno México, Miguel Ángel
-  Leal): una sola fuente.
-- **Fecha del disco «Marceline Canta»**: 2019 según la wiki; puede ser 2020.
-- **Encuesta oficial de popularidad**: no existe o no la encontré.
-- **Las licencias** de los modelos 3D, salvo el de Yogensia.
-- **Las cajas de diálogo** de los videojuegos.
-- **Colores**: todos los hex son aproximados.
+  Urbán, Carla Cerda): una sola fuente.
+- **Episodio exacto** de cada audio de Doblaje Wiki (la wiki no lo dice).
+- **Frases latinas de Marceline** en las escenas de la lámina («Thanks for
+  helping me record», la del Hoyo Musical): no encontradas.
+- **Estudio de «Misiones Secundarias»** (Iyuno México, Miguel Ángel Leal):
+  una sola fuente.
+- **Encuesta oficial de popularidad**: no la encontré; Ranker da 401.
+- **Vistas y fechas de los fan dubs** (YouTube y TikTok cerrados).
+- **Cajas de texto** de «Nameless Kingdom» y «Pirates of the Enchiridion».
+- **Colores sin medir**: BMO (el fondo rosa tapaba), la corona de la
+  Dulce Princesa, los filos del bajo con luz de día.
+- **Licencias** de 6 modelos de Sketchfab (Z3bbz, Froes,
+  TravisEvashkevich, deadlygeek, Hoho, 10958533).
+- **Encuadres típicos** según el estudio (no hay *making of* sobre eso).
+- **Altura** de los personajes (ningún infobox la trae).
 - **«El sicario»** = «Hitman» (3×04): deducción mía.
-- La **fuente de fans «Adventure Time Logo»**: no sé si trae tildes.
+- **Variantes de la intro** por miniserie: existen, sin mirar a fondo.
 
 ---
 
