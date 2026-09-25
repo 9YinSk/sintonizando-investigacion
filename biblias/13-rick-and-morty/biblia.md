@@ -55,7 +55,68 @@ fecha: 2026-09-24
 
 ## Segunda pasada · qué cambió
 
-_(pendiente: se rellena en esta segunda pasada)_
+25 de septiembre de 2026, con la red abierta. Cuatro investigadores
+(imagen, vídeo, voz y texto, en `partes/`) y un redactor.
+
+### Corregido (antes → ahora)
+
+- **Hojas de contacto**: no había → **3 hojas** en `hojas/`, miradas, con
+  qué número sirve para cada concepto (§3A).
+- **Vídeo «Style Guide»**: «no pude verlo» → **visto entero** en Internet
+  Archive: Photoshop CC 2016.3, cómo dibuja a Morty y a Rick (§18A).
+- **Vídeos**: «YouTube da 403, sin minuto» → **8 vídeos mirados** en
+  Dailymotion e Internet Archive, con minuto y enlace `?t=`, entre ellos
+  el **tráiler de la T9 subtitulado en español** (§2.4, §12).
+- **Licencias 3D**: «Download Free, sin comprobar» → **10 licencias
+  leídas** en la API de Sketchfab. La caja Meeseeks de MagunDongle **no
+  tiene licencia**: el concepto C pasa a la de **pythagean (CC BY)** (§4).
+- **Verde de portal**: paletas de fans (`#97CE4C`) → **medido en vídeo**:
+  `#AFDB30` y `#DAF81E`, más lima que verde (§5).
+- **Pantalones de Rick y Morty**: una fuente → **medidos** en las hojas
+  de modelo, `#8E774D` y `#314568` (§5, §16).
+- **Sala del hospital (2×08)**: luz «de memoria» → **medida** (§5).
+- **Doblaje** (§10): «Sonoclips desde el principio» → **Dvinxi** (T1-T2),
+  **AGP** (T3) e **IDS** (desde la T4); director «no encontrado» →
+  **Ángel Balam**; Beth tiene una tercera voz, **Arlet Matute** (T9);
+  el Sr. Meeseeks y Beth, con dos fuentes; el anime **no** cambió de
+  reparto «porque no convencieron las pruebas venezolanas»: fue una
+  medida global de Max.
+- **Escenas del 1×08** (§2): quién habla en 0:04 (Rick) y 0:21 (Jerry),
+  confirmado con el transcript; el título latino, con Doblaje Wiki.
+- **Juegos** (§13): «sin capturas» → capturas miradas: **no hay cajas de
+  diálogo**, el texto va en carteles, notas y planos. Pocket Mortys es de
+  Big Pixel Studios.
+- **Tipografía** (§6): el rotulista del cómic es **Crank!**; letra libre
+  equivalente, **Comic Relief**, con tildes y ñ comprobadas.
+- **Fondos de pantalla** (§17): dos sin autor → cinco de Wallhaven con
+  tamaño medido y autor.
+- **Rick** (§8): su miedo, «de memoria» → **los piratas**, con dos
+  episodios.
+
+### Añadido
+
+- Las secciones de los puntos 18 a 25, que no existían: **§18A a §18H**.
+- **§2.4** (escenas vistas en vídeo) y **14 poses nuevas** en §15.
+- La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
+  pasada (§21).
+- `referencias.json`: de **36 a 93** entradas, con los fotogramas de los
+  conceptos primero.
+
+### Los conceptos de lámina
+
+Siguen los tres (§19). **C** cambia su modelo 3D a uno con licencia
+(pythagean, CC BY) y toma la pose del Meeseeks del vídeo (1×05, 0:16) y
+de la hoja 191. **A** y **B** ganan números de hoja (§3A): 186 (el sofá
+visto desde la tele), 145 y 149 (Pepinillo Rick vivo).
+
+### Los avisos ⚠️
+
+- **Antes: 97.** En las secciones que ya había quedan **78**: se
+  resolvieron unos 20.
+- Las secciones nuevas (§3A y §18A-§18H) traen **40 datos nuevos con una
+  sola fuente**, marcados como tal; la tabla de cumplimiento, 9 más.
+- **Total ahora: 130** en todo el texto. Lo que sigue pendiente está
+  en §20.
 
 ---
 
@@ -1229,7 +1290,7 @@ YouTube pedía iniciar sesión: lo miré en su copia de
   portales llevan **luz de borde** (*rim light*) verde ⚠️.
 - **Baba y líquidos**: formas gráficas planas (gotas, burbujas, anillos),
   nunca fluido realista ⚠️.
-- **Filtros**: en los 7 vídeos mirados (§12) no se ve grano ni
+- **Filtros**: en los 8 vídeos mirados (§12) no se ve grano ni
   aberración en las escenas normales: imagen limpia. La «señal de tele
   vieja» sólo aparece dentro de los anuncios del cable ⚠️ (no encontré
   fuente del estudio; hay que mirarlo en el 1×08).
@@ -1898,7 +1959,48 @@ Actualizado en la segunda pasada (25-sep-2026). Tachado = resuelto.
 
 ## Cumplimiento del encargo
 
-_(pendiente: se rellena en esta segunda pasada)_
+Estado al cerrar la segunda pasada (25-sep-2026). ✅ hecho, ⚠️ a medias,
+❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Hoja de modelo de Morty (9796×4482), Rick con su aparato, arte de producción del 3×03 con cuatro artistas, póster de Peter Slavik, key art de la T9, *artbooks* (§3, §3A). Falta abrir el pressroom de WBD (403) |
+| 2 · Fotogramas icónicos con capítulo y minuto | ⚠️ | Minutos exactos del 1×05, 1×08, 1×11, 2×05, 2×08, 3×01 y 3×03 por subtítulo, y 8 vídeos mirados con minuto (§2, §2.4). Pero **no hay fotogramas en 1080p del 1×08 ni del 2×08** (YouTube pide iniciar sesión): los de 1080p de las hojas son de otros capítulos |
+| 3 · Fan art y 3D con licencia | ✅ | 10 modelos con licencia leída en la API de Sketchfab (§4): tele, pistola, caja Meeseeks (pythagean, CC BY), plumbus, rig de Morty. Crédito exacto indicado. Fan art de ArtStation y Wallhaven, con autor |
+| 4 · Sitios, luz, paleta hex y texturas reales | ✅ | Paleta medida con Pillow (§5.2), hospital y portal medidos en vídeo, texturas de Poly Haven y ambientCG (CC0). La luz del salón de noche sigue de una fuente |
+| 5 · Tipografía por uso, con tildes | ✅ | Letra por cada uso con su libre equivalente, comprobadas con fontTools (§6); rotulista del cómic identificado (Crank!, rotula a mano) y Comic Relief como sustituto |
+| 6 · Cómo hablan en pantalla | ✅ | No hay globos: el **rótulo de la tele** (1×08, 11:18) y el texto dentro del mundo en los juegos (§7, §13) |
+| 7 · Personajes y popularidad | ✅ | Principales y secundarios (§8, §9); Ranker, Reddit (833 votos) y el Emmy de «Pickle Rick». **Encuesta oficial**: no existe o no la encontré (buscada en EN y ES) |
+| 8 · Doblaje latino, dos fuentes | ⚠️ | Rick, Morty, Summer, Jerry, las tres Beth, el Sr. Meeseeks, el director y el reparto del anime, con dos fuentes (§10). Con una sola: Mr. Poopybutthole, Hombre Pájaro, estudio por temporada. **Faltan frases latinas textuales** sacadas de clips doblados con minuto |
+| 9 · Música y sonido | ⚠️ | Ryan Elder (dos fuentes), no hay opening cantado (visto), Mazzy Star en 1×08 (20:14), Kishi Bashi en 5×03 (§11, §18D). El título de Mazzy Star, de memoria; **los efectos de sonido no se oyeron** con `voz.py` |
+| 10 · Vídeos con minuto | ✅ | 8 vídeos mirados con `fotogramas.py` y enlace `?t=` (§12). Los de YouTube de la lista siguen sin minuto propio |
+| 11 · Videojuegos | ✅ | Pocket Mortys (estudio, capturas de mapa y crafteo), Virtual Rick-ality (6 capturas de Steam) (§13). Sin ver: la pantalla de combate |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes, favoritos y la lista de qué no hacer, con la salsa Szechuan (§14) |
+| 13 · Personajes a fondo | ⚠️ | Carácter, miedos, manías, dinámicas y cómo hablan (§8, §18C). Falta **su cara en cada emoción** (alegría, tristeza, vergüenza) con fotograma y minuto para los cinco |
+| 14 · Poses por personaje | ⚠️ | §15 más 14 poses nuevas con vídeo o número de hoja. Muchas de la primera pasada salen de fotos de 300×300 **sin minuto** |
+| 15 · Vestuario con hex | ✅ | Hex de Rick y Morty medidos en las hojas de modelo y cruzados con ggsci (§16). Sin medir: la petaca y el traje de luchador de la T9 |
+| 16 · Paisajes y fondos de pantalla | ✅ | 5 fondos de Wallhaven con tamaño medido y autor, más 10 en `partes/` (§17) |
+| 17 · Guía para IA | ✅ | Rasgos fijos, paleta, línea, palabras que ayudan y que estropean, frases por emoción (§18) |
+| 18 · Estilo y técnica, y cómo replicarlo | ✅ | Toon Boom + Photoshop; el «Style Guide» visto entero; pasos en Photoshop y en Blender; encuadres vistos en vídeo (§18A) |
+| 19 · Texturas 2D | ✅ | Emblemas medidos, patrones y texturas libres con licencia (§18B). Explicado por qué no hay tramas |
+| 20 · Gustos y detalles | ✅ | Tabla por personaje con episodio (§18C). **No existe ficha oficial** de altura o cumpleaños: dicho y buscado |
+| 21 · Por qué la aman | ⚠️ | Premios, crítica, audiencias, Reddit y cinco escenas que hacen llorar (§18D). Sin minuto: 5×03 y 7×04; cómo están dibujadas, sin ver |
+| 22 · Fan dubs y comunidad hispana | ✅ | 5 fandubs (3 con vistas), el redoblaje del gag de *Los Simpson*, memes y TikTok (§18E). No hay covers porque no hay opening cantado |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite (3 tandas), MultiVersus, McDonald's, Studio DEEN, Funko, McFarlane, Dragon Con 2026 (§18F) |
+| 24 · Obras parecidas | ✅ | Origen en «Doc and Mharti», influencias, *Solar Opposites*, lista de TVLine y láminas del servidor que no repetir (§18G) |
+| 25 · Mundo, historia y símbolos | ✅ | Cinco reglas, cinco arcos, tabla de símbolos y palabras propias (§18H) |
+| 3 conceptos de lámina | ✅ | Tres distintos (§19): la tele, Pepinillo Rick en el garaje, la caja Meeseeks. Con números de hoja (§3A) y la caja Meeseeks CC BY |
+| 40 fuentes distintas | ✅ | Unas 97 webs distintas enlazadas (cuenta de `revisar.py`), más las consultadas por API |
+| Tipo: oficiales | ✅ | Adult Swim (ficha y vídeo del «Style Guide»), X oficial, HBO Max LA, Dark Horse, Toon Boom |
+| Tipo: otros idiomas | ⚠️ | Japonés y chino sólo en la primera pasada, por buscador. Sin coreano: la serie es de EE. UU. y no hay producción coreana |
+| Tipo: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Wiki de la serie (EN y ES), Doblaje Wiki, Fandoblaje, Wikipedia. **TV Tropes y The Cutting Room Floor dan 403** (Cloudflare); Wayback respondió 429. Dos intentos cada una |
+| Tipo: foros | ✅ | Reddit por Arctic Shift (hilos y comentarios con votos) |
+| Tipo: arte | ✅ | ArtStation, DeviantArt y Reddit (origen de los fondos), Wallhaven. Pixiv no aplica: casi no hay arte de la serie ahí |
+| Tipo: vídeo | ✅ | Dailymotion, Internet Archive, YouTube (metadatos), TikTok |
+| Tipo: código y recursos | ✅ | GitHub (subtítulos, fotogramas, letras), Sketchfab, Poly Haven, ambientCG, Fontsource |
+| Tipo: doblaje latino | ✅ | Doblaje Wiki por su API, Fandoblaje, ANMTV, El Heraldo, World Dubbing News |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, mirados, con qué número sirve para qué (§3A) |
+| `referencias.json` | ✅ | 93 entradas; las mejores primero (hojas de modelo, fotogramas de los conceptos, vídeos con `?t=`); tamaños de la API o medidos |
 
 ---
 
