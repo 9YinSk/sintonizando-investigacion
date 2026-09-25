@@ -110,7 +110,145 @@ lo digo en «No encontré».
 
 ### Punto 21 · Por qué la gente la ama
 
-(pendiente)
+**Ventas: crecimiento real, no sólo hype** ✅ **dos fuentes**
+([Wikipedia, «Oshi no Ko», sección Sales](https://en.wikipedia.org/wiki/Oshi_no_Ko),
+que cita a Oricon, + [ComicBook.com](https://comicbook.com/anime/news/oshi-no-ko-20-million-copies/)
+y [Sportskeeda](https://www.sportskeeda.com/anime/news-oshi-ko-manga-reaches-20-million-copies-circulation)):
+- 1 millón de copias en circulación (abr-2021) → 8 millones (may-2023,
+  con el estreno del anime) → 18 millones (jul-2024) → **20 millones,
+  confirmado por Oricon** (nov-2024) → **25 millones** (dic-2025).
+- La circulación **se multiplicó por 2,7** justo tras el estreno del
+  anime en abril de 2023 (Sportskeeda/ComicBook): el anime disparó las
+  ventas del manga, no al revés.
+- El volumen 16 tuvo una primera tirada de 550.000 copias, la 7.ª más
+  alta de Shueisha en 2024-2025 (Wikipedia).
+
+**Premios** ✅ (Wikipedia, sección Accolades, con Wikipedia como
+agregador de fuentes primarias — ANN y Kodansha/Shueisha):
+- **Ganó** el Next Manga Award (categoría impreso), ago-2021.
+- Nominado al Manga Taishō (5.º puesto en 2021, con 59 puntos; 8.º en
+  2022, con 49 puntos), al Shogakukan Manga Award (2021), al Tezuka
+  Osamu Cultural Prize (2022, 2024, 2025) y al Kodansha Manga Award
+  (2022, 2024). **Nunca ganó ninguno de estos**, sólo el Next Manga
+  Award.
+- El anime tuvo **2 nominaciones a Mejor Drama en los Crunchyroll Anime
+  Awards, sin ganar ninguna** (Wikipedia/Wikipedia inglés,
+  [Crunchyroll Anime Award for Best Drama](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Drama)) ⚠️.
+- **El opening «Idol» de YOASOBI SÍ ganó**: **Mejor Canción de Anime**,
+  **Top Global Hit from Japan** y **Mejor Vídeo Musical** en los
+  primeros **Music Awards Japan 2025** (21-22 mayo 2025); su compositor
+  Ayase ganó además «Canción del Año para Creadores» ✅ **dos fuentes**
+  ([Anime News Network](https://www.animenewsnetwork.com/news/2025-05-21/yoasobi-idol-wins-best-anime-song-creepy-nuts-bling-bang-bang-born-wins-7-awards-at-1st-music-/.224635),
+  [Crunchyroll News](https://www.crunchyroll.com/news/latest/2025/5/23/yoasobi-oshi-no-ko-opening-song-best-anime-song-award-music-awards-japan-2025)).
+  **El premio real de la serie está en su música, no en el propio
+  anime o manga.**
+
+**La prueba más concreta de que la gente la ama de verdad — una
+encuesta que no depende de fans de anime:**
+Según una encuesta de 2023 de **Benesse** (educación/editorial) a
+**18.802 niños japoneses** de 3.º a 6.º de primaria (12.859 niñas, 4.728
+niños, 1.215 otros), **Ai Hoshino quedó 3.ª** en la lista de «personas
+más admiradas», **sólo detrás de «un amigo» y «mamá»** —por delante de
+cualquier celebridad real. Las razones que dieron los niños: su
+**habilidad para cantar y bailar, lo linda que es, su positividad, su
+talento de idol y su compasión por los demás** ✅ (recogido en
+[Wikipedia, sección Reception/Popularity](https://en.wikipedia.org/wiki/Oshi_no_Ko),
+que cita la encuesta original de Benesse) ⚠️ (una fuente agregadora; no
+encontré el informe original de Benesse en español ni en japonés esta
+pasada). **Para una lámina:** es el dato más fuerte de que Ai (aunque ya
+no protagoniza) sigue siendo el icono emocional de la serie, incluso
+para gente que no es fan de anime.
+
+**El drama en imagen real tuvo éxito real:** la adaptación *live-action*
+de Amazon Prime Video logró un **récord de audiencia doméstica para un
+original de Amazon Prime en Japón en sus primeros 30 días** ✅
+([Wikipedia](https://en.wikipedia.org/wiki/Oshi_no_Ko), agregando la
+fuente original de Amazon/Nikkei, no verificada aparte esta pasada) ⚠️.
+
+**Con qué personaje se identifica el público, y por qué (Reddit r/OshiNoKo):**
+- **Kana Arima es la más citada como «relatable»**: el hilo «kana arima
+  - she's so relatable» (57 votos) —
+  [Reddit](https://www.reddit.com/r/OshiNoKo/comments/1kdye09/) ✅ (visto
+  el título, coincide con la popularidad medida en §2 de la biblia:
+  Kana es la más votada en varias encuestas). Se identifican con su
+  lucha por no ser olvidada y con presumir de trabajos pequeños (ya en
+  §9 y punto 20).
+- **Akane Kurokawa, identificación por agotamiento emocional**: el hilo
+  «"I don't want to think about anything anymore..." - I feel you
+  Akane... way more than I'd like to admit...» (129 votos) —
+  [Reddit](https://www.reddit.com/r/OshiNoKo/comments/1smmz7p/) ✅
+  (título visto): gente que se reconoce en el agotamiento de Akane, no
+  en su fama.
+- El hilo de encuesta «Who is your Favorite and Least Favorite female
+  character» (636 votos, 305 comentarios, ya en `datos-voz.md`) confirma
+  que **Kana y Akane son las dos que más debate generan** por ser
+  identificables, frente a Ai (admirada, pero como icono, no como
+  «alguien como yo»).
+
+**La crítica es sincera, no sólo elogios (contraste necesario):** ✅
+La recepción del **final del manga (nov-2024) fue controvertida**: el
+propio autor Aka Akasaka avisó un mes antes que generaría debate; medios
+como Game Rant y Screen Rant dijeron que el final se sintió
+**apresurado**, con «desarrollo malo y excesivo» que deshace el
+desarrollo positivo previo de los personajes ✅
+([Wikipedia, sección Critical reception](https://en.wikipedia.org/wiki/Oshi_no_Ko)).
+**Importante para el dueño:** por eso `biblia.md` ya avisa (línea 124)
+de no tocar el final ni la muerte de Ai en las láminas: es la parte que
+divide al fandom, no la que lo une.
+
+**La escena que más hace llorar, con capítulo:**
+- **La muerte de Ai, episodio 1** (anime, edición extendida de 90 min,
+  minutaje total 81:52 según los subtítulos ya usados en §4 de la
+  biblia). **Qué pasa:** un hombre con un ramo de flores llega a casa de
+  los Hoshino, apuñala a Ai en el estómago acusándola de haberle
+  mentido a él y a sus fans; ella, desangrándose, sigue diciendo que
+  «la mentira es el amor más grande», reconoce a su atacante (Ryōsuke
+  Sugano, un fan de sus eventos de apretón de manos) y muere abrazando
+  a Aqua mientras le dice a sus hijos que los quiere de verdad —
+  ✅ (resumen de la wiki, [Fandom, «Episode 1»](https://oshinoko.fandom.com/wiki/Episode_1),
+  contrastado con el minutaje y frases ya citados en §4 y §9 de
+  `biblia.md`).
+- **Por qué duele (con fuente, no de memoria):** el hilo de Reddit «This
+  was the first animated show that made me cry» (**394 votos, 32
+  comentarios**) lo explica: la persona esperaba una serie slice-of-life
+  sobre una idol y madre adolescente, y el shock de la muñalada la hizo
+  sentir «como si estuviera presenciando el asesinato ella misma» —
+  ✅ ([Reddit](https://www.reddit.com/r/OshiNoKo/comments/1skwn16/this_was_the_first_animated_show_that_made_me_cry/),
+  texto completo leído). Otro hilo, «Ai's death affected me in a way I
+  didn't expect» (39 votos) — [Reddit](https://www.reddit.com/r/OshiNoKo/comments/1v6yysu/) ⚠️
+  (sólo título visto, no el texto).
+- **Qué música suena:** en el episodio 1 se usan como *insert songs* tres
+  versiones en solitario de Ai: **«Sign is B - Ai Solo Ver.-»,
+  «STARTRAIN - Ai Solo Ver.-» y «HEART's KISS - Ai Solo Ver.-»**, en
+  escenas como el regreso de Ai a B小町 tras su parón ✅ ([ABEMA Times,
+  ficha completa de canciones de la serie](https://times.abema.tv/en/articles/-/10211901),
+  texto confirmado). Para la escena exacta del asesinato, una
+  entrevista al director de sonido **Takeshi Takadera** (Anime Trending,
+  en Anime Toronto/NYC 2023) dice que el compositor **Takurō Iga**
+  escribió una pieza **sólo de piano**, la última de 60 temas que
+  compuso para la temporada, pensada para transmitir el cariño de Ai (no
+  sólo tristeza) — el director la calificó de «fascinante» porque
+  esperaba algo triste centrado en los gemelos y salió otra cosa ⚠️
+  **una fuente indirecta**: la página (anitrendz.net) bloqueó el acceso
+  directo con un captcha en esta pasada; el dato viene de los
+  fragmentos que el buscador pudo leer, **no lo pude confirmar
+  literalmente** — para citarlo con seguridad hay que reintentar la
+  página o buscar la entrevista completa.
+- **Cómo reaccionó la gente:** además de los hilos citados, la muerte de
+  Ai se compara en la propia wiki con el apuñalamiento real de la
+  cantante japonesa Mayu Tomita (2016) — un caso real de acoso a idols
+  que inspiró la escena, **confirmado on the record por el autor Aka
+  Akasaka** vía Twitter y entrevistas (para el caso paralelo de Akane,
+  ver Fandom, Trivia de Akane, ya usado en punto 20) ✅.
+  **Aviso: no usar esta escena en ninguna lámina** (regla ya en
+  `biblia.md`, líneas 124-126 y 1598): sólo la documento porque el
+  encargo pide explicar «por qué duele», no para sugerirla como imagen.
+- **Contraste — la escena que hace llorar de alegría/emoción:** ya está
+  en `biblia.md` §4, ep. 11, 07:41-07:49: Kana ve a Aqua con la barra de
+  luz blanca y grita «¡Seré tu *oshi no ko*!» — descrita ahí como «la
+  escena de Kana más querida». No la repito entera aquí; la diferencia
+  es que ésa sí sirve para lámina (**#castings**, la reconciliación de
+  Kana) y la muerte de Ai no.
 
 ### Punto 22 · Fan dubs y comunidad hispana
 
