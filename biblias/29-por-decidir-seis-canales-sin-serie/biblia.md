@@ -312,8 +312,14 @@ remake de *Los Padrinos Mágicos* ✅ (UnoTV y SDP Noticias).
 ### 1.7 Música ⚠️ (de memoria)
 
 - El **vals del Observatorio del Cometa** (tranquilo, de caja de música) y
-  **Gusty Garden Galaxy** (orquesta épica). Compositor: **Mahito Yokota**,
-  con **Koji Kondo** ⚠️.
+  **Gusty Garden Galaxy** (orquesta épica). Compositores **del juego**:
+  **Mahito Yokota**, con **Koji Kondo** ⚠️.
+- **Corregido (segunda pasada)**: la banda sonora de **la película** (2026)
+  **no es de Yokota**: es de **Brian Tyler** (el de la película de 2023),
+  que remezcla los temas de los dos Galaxy y de Star Fox, con la
+  colaboración de **Koji Kondo** ⚠️ (una fuente:
+  [Wikipedia: The Super Mario Galaxy Movie (soundtrack)](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie_(soundtrack)),
+  que cita al sello Back Lot Music/iam8bit, 1 abr 2026).
 - El ambiente que da: calma de noche estrellada, cuento antes de dormir.
 
 **Vídeos** (encontrados con `yt-dlp`; YouTube no dejó bajar subtítulos, así
@@ -553,7 +559,7 @@ Datos que gustan ✅ (Doblaje Wiki):
 | pelo de Ferb | `#31B536` | #21 ✅ |
 | azul del plano | `#1E507C` / `#416C97` | #33 ✅ |
 | líneas del plano | `#2674B5` y blanco | #33 ✅ |
-| morado de Doofenshmirtz | `#6A3D9A` | ⚠️ a ojo |
+| Doofenshmirtz: bata, camisa, pelo | `#FFFFFD` / `#020202` / `#773B16` | medido en [Doofenshmirtz_Portrait.jpg](https://static.wikia.nocookie.net/phineasandferb/images/5/5d/Doofenshmirtz_Portrait.jpg) (800×1000) ✅. El `#6A3D9A` «morado» de la primera pasada **no aparece** en ningún arte oficial ni en 3 fotogramas de tráiler: quitado |
 
 - **Texturas reales**: papel de plano (cianotipo), madera de cerca pintada,
   cinta adhesiva, chinchetas. Libres (CC0) en Poly Haven:
@@ -751,7 +757,13 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 | Kenpachi | César Arias; en TYBW **José Luis Miranda** (Arias falleció en 2020) | ✅ Doblaje Wiki |
 
 - **Serie original** (2010): producción de **Macias Group**, estudio
-  **Famasound**, dirección de **Salvador Delgado** ⚠️ (una fuente).
+  **Famasound**. **Corregido en la segunda pasada**: **Salvador Delgado NO
+  dirigió la tanda de 2010**. Su propia ficha de Doblaje Wiki (sección
+  «Dirección de doblaje») sólo lo acredita en **Bleach, eps. 230-366
+  (2023, Famasound)**, la continuación que se dobló para llegar a TYBW ✅
+  ([Doblaje Wiki: Salvador Delgado](https://doblaje.fandom.com/es/wiki/Salvador_Delgado)
+  + [ficha de Bleach](https://doblaje.fandom.com/es/wiki/Bleach)). Quién
+  dirigió los eps. 1-109 de 2010: no lo encontré ⚠️.
 - ***Thousand-Year Blood War***: **Macias Group**, grabado en **MCS**,
   dirección de **Jorge Roig** (partes 1-3) ✅ ([ANMTV](https://www.anmtvla.com/2022/11/bleach-thousand-year-blood-war-estrena.html),
   [ANMTV parte 3](https://www.anmtvla.com/2025/02/bleach-thousand-year-blood-war-disney.html),
@@ -827,7 +839,10 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 | techo de la redacción | `#406050` | #283 ✅ |
 | verde exterior (ep. 138) | `#547A44` | #282 ✅ |
 | muros del Seireitei | `#EDEAE3` | ⚠️ a ojo |
-| uniforme shinigami | `#121212` | ⚠️ a ojo |
+| uniforme shinigami (shihakusho) | `#26272D` (negro azulado, no `#121212` puro) | medido con Pillow en [Hisagi Anime Fullbody.png](https://static.wikia.nocookie.net/bleach/images/7/73/Hisagi_Anime_Fullbody.png) (1050×1500) ✅ |
+| faja (obi) de Hisagi | `#B3B1AA` | misma imagen ✅ |
+| brazalete del 9.º escuadrón | `#BBAE7F` | misma imagen ✅ |
+| tarjeta de nombre de TYBW (magenta de campaña) | `#EA006F` | [primer tráiler TYBW, min. 1:00](https://www.dailymotion.com/video/x8c7qz9) ✅ |
 | mariposa infernal | cuerpo negro, alas moradas `#5B3B8C` con borde negro | wiki ✅, hex ⚠️ |
 
 - **Texturas reales**: papel de revista satinado, papel washi, tinta sumi.
@@ -846,8 +861,21 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 
 - Banda sonora de **Shirō Sagisu**: «**Number One**» (coros solemnes), la
   que todo fan reconoce.
-- Openings de antes: «Asterisk» (Orange Range), «Ichirin no Hana» (High and
-  Mighty Color). Opening de TYBW: «Scar» (Tatsuya Kitani).
+- Openings del **anime viejo (2004-2012)**: «Asterisk» (Orange Range),
+  «Ichirin no Hana» (High and Mighty Color) ⚠️. No mezclarlos con TYBW.
+- **TYBW, openings y endings por parte** (segunda pasada) ✅ (música de
+  **Shirō Sagisu**, el mismo del anime viejo;
+  [Wikipedia: Bleach TYBW](https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War),
+  que cita a Anime News Network y Comic Natalie):
+
+| Parte | Opening | Ending |
+|---|---|---|
+| 1 · The Blood Warfare (2022) | «Scar», Tatsuya Kitani | «Saihate», SennaRin |
+| 2 · The Separation (2023) | «Stars», w.o.d. | «Endroll», Yoh Kamiyama |
+| 3 · The Conflict (2024) | «Kotoba ni Sezu Tomo», Six Lounge | «Monochrome», Suisoh |
+| 4 · The Calamity (2026, la que se emite ahora) | «I-Bull», Jo0ji | «Rasen», 9Lana |
+
+- Si la lámina cita «el opening actual», es **«I-Bull»**, no «Scar».
 
 ### 3.8 Qué NO hacer
 
@@ -1062,7 +1090,9 @@ Disney **no siguió** con La Chilindrina para la secuela ✅ (Milenio).
 | pantalla de *Hero's Duty* | `#00B0D0` | #121 ✅ |
 | LED rojo de los letreros | `#E0302A` | ⚠️ a ojo |
 | rosa de *Sugar Rush* | `#FF9CC8` | ⚠️ a ojo |
-| verde de Vanellope | `#4FC3A1` | ⚠️ a ojo |
+| sudadera de Vanellope (sombra / luz) | `#5F8C73` / `#79AA8D` (no `#4FC3A1`, que era más turquesa) | medido con Pillow en [Vanellopewirdisney.png](https://static.wikia.nocookie.net/wreckitralph/images/a/ac/Vanellopewirdisney.png) (1728×3000) ✅ |
+| medias a rayas de Vanellope | `#60AF90` | misma imagen ✅ |
+| carretera arcoíris, franja verde / roja | `#51927C` / `#B27139` | [clip «Ralph vs. Turbo», min. 0:25](https://www.dailymotion.com/video/x39ewi4) ✅ (apagado por la compresión del vídeo) |
 | dorado del martillo | `#E8B530` | ⚠️ a ojo |
 
 - **Texturas reales**: vinilo de los laterales de una recreativa, rejilla de
@@ -1286,9 +1316,11 @@ Infinity* ✅ (las mismas dos fuentes).
 | persiana del Piso de Sustos | `#6060A0` / `#505080` | #66 ✅ |
 | suelo del Piso de Sustos | `#404060` | #66 ✅ |
 | casco de Mike | `#5080A0` | #66 ✅ |
-| verde de Mike | `#9BCB3C` | ⚠️ a ojo |
-| azul de Sulley | `#3AB4E8` | ⚠️ a ojo |
-| manchas de Sulley | `#8A4FBF` | ⚠️ a ojo |
+| piel de Mike (sombra / luz) | `#5C7531` / `#87A851` (no `#9BCB3C`) | medido en [MikeMAW.png](https://static.wikia.nocookie.net/pixar/images/9/96/MikeMAW.png) (763×775) ✅ |
+| iris de Mike | `#375B5B` | misma imagen ✅ |
+| pelaje de Sulley (sombra / luz) | `#2C7D74` / `#559C94` (verde azulado, no `#3AB4E8`) | medido en [SulleyMAW.png](https://static.wikia.nocookie.net/pixar/images/e/e7/SulleyMAW.png) (939×1268) ✅ |
+| manchas de Sulley | `#234163` (azul-morado oscuro, no `#8A4FBF`) | misma imagen ✅ |
+| otra puerta: roja en sombra / piloto encendido | `#42030E` / `#BC010C` | [tráiler de 2001, min. 0:45](https://www.dailymotion.com/video/x889mq6) ✅ |
 | luz roja de puerta activa | `#E0402E` | ⚠️ a ojo |
 
 - **Texturas reales**: chapa pintada, linóleo, papel de formulario, metal
@@ -1488,6 +1520,8 @@ Dirección musical de *Sing*: **Gaby Cárdenas**.
 | suelo del escenario | `#603020`, luz `#F09050` | #61 ✅ |
 | terciopelo del telón, en luz | `#9E1B2F` | ⚠️ a ojo |
 | dorado de molduras | `#D4A64A` | ⚠️ a ojo |
+| moldura dorada con luz de sala | `#CE704A` | [tráiler largo, min. 2:20](https://www.dailymotion.com/video/x889jpx) ✅ (medida en fotograma) |
+| butacas en sombra | `#471A17` | mismo fotograma ✅ |
 | volante | amarillo `#F6D34A` | ⚠️ a ojo (el color, ✅) |
 
 - **Texturas reales**: terciopelo (CC0: [velour_velvet](https://polyhaven.com/a/velour_velvet)
@@ -1576,10 +1610,15 @@ público latino**, y su doblaje es parte de la historia del oficio.
   locutores son **Bill y Marty** ✅ ([Simpsons Wiki: KBBL Radio](https://simpsons.fandom.com/wiki/KBBL_Radio),
   [Bill and Marty](https://simpsons.fandom.com/wiki/Bill_and_Marty), por su
   API). **Dos locutores**, como la radio que el dueño presenta con una amiga.
-- Voces latinas de los DJ de KBBL en un episodio de la T4 («Homero el
-  hereje»): **Agustín Sauret** y **Alejandro Mayén** ⚠️ (sólo Doblaje Wiki,
-  [ficha de la 4.ª temporada](https://doblaje.fandom.com/es/wiki/Los_Simpson/4%C2%AA_temporada);
-  puede que no sean los mismos en otros episodios).
+- **Corregido (segunda pasada): los DJ de KBBL no tienen actor latino
+  fijo; cambia de episodio a episodio**, como pasa con muchos secundarios de
+  la serie clásica. En la **T4** («Homero el hereje») fueron **Agustín
+  Sauret** y **Alejandro Mayén**; en la **T5**, a Bill lo hace **José María
+  Iglesias** en un episodio y **Víctor Delgado** en otro, y a Marty **Mario
+  Sauret** ✅ ([Doblaje Wiki: T4](https://doblaje.fandom.com/es/wiki/Los_Simpson/4%C2%AA_temporada),
+  [Doblaje Wiki: T5](https://doblaje.fandom.com/es/wiki/Los_Simpson/5%C2%AA_temporada)).
+  **En la lámina de Radio 24/7 no se nombra a ningún actor** para Bill y
+  Marty: basta «voces rotativas, como en toda la serie clásica».
 - **Homero**: **Humberto Vélez** (T1-T15), **Víctor Manuel Espinoza**
   (T16-T31) y otra vez **Humberto Vélez** desde la **T32 (2021)** ✅
   ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Los_Simpson), API;
@@ -1702,7 +1741,8 @@ imitarlo con una letra.
   juego.
 - **El diseño exacto del volante de Sing** (letras, colores): sólo sé que es
   amarillo. Sacarlo de la escena.
-- **Voces latinas de Bill y Marty** (KBBL): sólo las de un episodio (T4).
+- **Voces latinas de Bill y Marty** (KBBL): no hay actor fijo; varía por
+  episodio (T4 y T5 comprobadas, segunda pasada). No se nombra a nadie.
 - **Encuestas de popularidad** de Phineas y Ferb, Ralph, Monsters y Sing:
   no hay encuestas oficiales como las de la Shōnen Jump. Uso la taquilla,
   el doblaje y los memes.
