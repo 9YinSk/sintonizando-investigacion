@@ -10,9 +10,10 @@ Cuenta: cuenta I34
 - 38 Sailor Moon: **COMPLETA** (22:47). ✅23 ⚠️9 ❌0, 191 refs, 54 webs.
 - 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
-- 41 Dandadan: 4 investigadores completos (voz agotó 2 tandas); redactor en marcha.
-- 42 Blue Lock: imagen y texto completos; video y voz en marcha. 43-47: recolectados por adelantado.
-- 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados a las 00:20; el aviso decía «resets 4:30am UTC»). Al reanudar a las 06:44 ya estaba libre; se relanzó todo lo cortado.
+- 41 Dandadan: **COMPLETA** (07:20). ✅23 ⚠️11 ❌0, 178 refs, 50 webs.
+- 42 Blue Lock: imagen, texto y video completos; voz relanzada (punto 13).
+- 43 Kaguya-sama: imagen en marcha. 44-47: recolectados por adelantado.
+- 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
 ## Avisos para el dueño
 
@@ -31,6 +32,10 @@ Cuenta: cuenta I34
   - Sin choque directo con 37-39, pero A la pide también Demon Slayer (31) y B Jujutsu Kaisen (32) como segunda opción; C de reserva la pide Bleach (29).
   - Punto 13 ⚠️: 19 de 25 caras (faltan alegría de Matt; tristeza y vergüenza de Gabumon; rabia y tristeza de Agumon).
   - Kari es la más querida en la encuesta oficial de Toei (no Tai, que gana en AniList/fan art).
+- **41 Dandadan** propone 3 láminas: A (recomendada) 📻 RADIO EN VIVO (la revista ocultista de Okarun), B #log-mod privado (el gato sellado de Turbo Granny), C 🍿 Cine (Momo con pelis de Ken Takakura).
+  - Sin choque en A (nadie más lo pide); C choca sólo con Los Simpson (29). **Hace falta la lista real de comandos de 📻 RADIO EN VIVO** para ajustar la lámina.
+  - Punto 13 ⚠️: faltan tristeza/vergüenza de Aira despierta, casi todas las emociones de Turbo Granny, y el miedo de Momo (su vergüenza sí se encontró, en una hoja de vídeo).
+  - Okarun es el más querido en Japón (encuesta oficial); Momo gana en AniList/Danbooru (fuera de Japón).
 
 ## Costos
 
