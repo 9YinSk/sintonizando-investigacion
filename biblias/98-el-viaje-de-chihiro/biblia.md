@@ -371,3 +371,410 @@ Nada de burbujas blancas redondas ni cajas con borde negro.
 - The Cutting Room Floor no tiene entrada (es de videojuegos). ✅
 - Por eso el punto **no aplica**: no hay menús ni cajas de diálogo de juego. La «interfaz» de la película son sus carteles y el contrato (punto 6).
 
+## 12. Lo que ama el fandom y qué no hacer
+
+**Lo que todos reconocen:**
+- **El tren sobre el mar.** Chihiro sola, casi sin diálogo, al atardecer. El momento más querido y más melancólico: se lee como la soledad de crecer. ✅ ([Medium](https://medium.com/@simonelsmith/why-the-train-scene-from-spirited-away-makes-me-want-to-cry-5f73354bb20b) + [Screen Rant](https://screenrant.com/spirited-away-train-scene-miyazaki-opus-op-ed/))
+- **Los padres convertidos en cerdos.** De los recortes más compartidos en TikTok. ⚠️
+- **Sin Cara como icono propio.** 3.º en AniList, 285 dibujos en Danbooru, merchandising propio. Chiste de fans: «le doy oro a la gente que no quiero que se vaya». ⚠️ (el meme, una fuente)
+- **Haku dragón y el nombre recuperado.** ✅ (encuesta Simeji, punto 7)
+- **La liga del pelo morada**: la prueba de que todo fue real. ✅ (wiki)
+- **Comparar doblajes** («dioses» contra «espíritus»): muy de un servidor de doblaje. ✅ (punto 8)
+
+**Qué NO hacer** (documentado):
+- **No usar IA para «hacer estilo Ghibli».** Miyazaki llamó a la animación hecha por IA «un insulto a la vida misma» (documental de NHK, 2016); dijo sentirse «totalmente disgustado». ✅ ([IndieWire](https://www.indiewire.com/features/general/hayao-miyazaki-artificial-intelligence-animation-insult-to-life-studio-ghibli-1201757617/) + [Anime News Network](https://www.animenewsnetwork.com/interest/2016-12-09/hayao-miyazaki-calls-ai-cg-animation-presentation-an-insult-to-life-itself/.109717); también Variety, Kotaku y otros)
+- **Marzo de 2025**: miles de fotos pasadas a «estilo Ghibli» con ChatGPT-4o. Polémica fuerte por los derechos y el trabajo de los artistas; también en medios latinos. ✅ ([Diario Libre](https://www.diariolibre.com/revista/cultura/2025/03/27/la-tendencia-viral-de-crear-memes-al-estilo-del-studio-ghibli/3049463) + [Vértigo Político](https://www.vertigopolitico.com/cultura/notas/imagenes-virales-estilo-ghibli-desatan-controversia)). Encaja con la regla del dueño: «que no parezca hecho por IA».
+- **No mezclar los tres doblajes latinos ni el de España.** Un fan del doblaje lo nota al instante. ✅
+- **No ponerle cara a Sin Cara.** Ni sonrisa ni ojos «cute». Su máscara no cambia: la emoción va en la luz. ✅ (wiki No-Face, Behind the Scenes)
+- **No pintar el mundo espiritual alegre y saturado.** Su fuerza es la melancolía, el atardecer y el silencio. ⚠️ (lectura de crítica, no regla del estudio). Las paletas medidas lo confirman: interiores al 27-41% de brillo.
+- **No dibujar negro puro en la línea.** Las líneas medidas son marrones (`#604D34`, `#594024`, `#6D5937`). ✅ (estilo.py)
+- **No usar las etiquetas corporales de Danbooru** que salen para Chihiro. Es una niña de 10 años. Sólo pelo, ropa, pose y expresión.
+- **No usar a Kiki, Totoro o el Gatobús como si fueran de esta película.** En `hojas/espiritus_01.jpg` los n.º 25 y 26 son fan art de Totoro: descartarlos.
+
+## 13. Cada personaje a fondo
+
+### Chihiro Ogino (千尋 / Sen)
+- **Carácter.** Tímida, pesimista y quejica al principio. Trabajadora, responsable y valiente al final. ✅ (wiki + AniList)
+- **Historia.** Se muda. Sus padres entran en un «parque abandonado», comen sin permiso y se vuelven cerdos. Trabaja para Yubaba, que le roba el nombre y la llama Sen. ✅
+- **Miedo.** Perder su nombre y, con él, el camino a casa.
+- **Qué le importa.** Sus padres; luego Haku; luego sus amigos del balneario.
+- **Qué transmite.** Miyazaki: no es una historia de crecer, sino de sacar algo que ya tenías dentro. ✅ (cita recogida en la wiki)
+- **Cómo habla.** Frases cortas y asustadas al inicio. En el balneario aprende fórmulas de cortesía. Su forma de hablar mide cuánto ha madurado. ⚠️ (las frases de ejemplo de la parte de voz vienen de la wiki en inglés, no del doblaje)
+- **Voz latina medida (2020):** la más aguda (346 Hz) y rápida (3,52 palabras/s): una niña nerviosa. ✅
+- **Su cara en cada emoción** (tráiler latino, hojas de `episodio.py`, miradas):
+  - Alegría: corre sonriente entre flores rosas, brazos sueltos · [2:13](https://www.dailymotion.com/video/x889bq8?t=133) ✅
+  - Miedo: manos abiertas junto a la cara, boca abierta, cuerpo hacia atrás · [1:10](https://www.dailymotion.com/video/x889bq8?t=70); primer plano, ojos muy abiertos, ceño apretado, fondo rojo · [0:53](https://www.dailymotion.com/video/x889bq8?t=53) ✅
+  - Tristeza: llora abrazando a una criatura pequeña contra la cara · [1:53](https://www.dailymotion.com/video/x889bq8?t=113) ✅; se tapa la cara con las manos · [1:45](https://www.dailymotion.com/video/x889bq8?t=105) ✅
+  - Vergüenza / pequeñez: diminuta ante las puertas rojas, hombros encogidos · [1:12](https://www.dailymotion.com/video/x889bq8?t=72) ✅
+  - Rabia: ⚠️ no hay fotograma con minuto. Referencia sin minuto: storyboards `personajes_01` n.º 202 y 209 (boca abierta, gritando).
+- **Dinámicas.** Lin la regaña y la cuida como hermana mayor. Kamaji finge indiferencia y la ayuda. Con Sin Cara pasa de la compasión (lo deja entrar de la lluvia) a decirle que pare, sin dejar de ser amable. ✅
+
+### Haku (Nigihayami Kohakunushi)
+- **Carácter.** Frío y autoritario como aprendiz de Yubaba; cálido y protector a solas con Chihiro. ✅ (wiki)
+- **Historia.** Espíritu del río Kohaku. Rellenaron su río para hacer pisos: perdió casa y nombre. Sirve a Yubaba, que lo controla con un gusano negro. ✅
+- **Miedo y lo que le importa.** No recordar quién es; proteger a Chihiro aunque desobedezca.
+- **Cómo habla.** Frases breves y urgentes: «No puedes estar en este lugar», «vete antes de que oscurezca». ✅ (audio)
+- **Su cara:**
+  - Seriedad y determinación: primer plano, mirada dura, cejas bajas · [0:32](https://www.dailymotion.com/video/x889bq8?t=32) ✅; coge la mano de Chihiro con urgencia · [0:33](https://www.dailymotion.com/video/x889bq8?t=33) ✅
+  - Tristeza / emoción: llora mejilla con mejilla · [chihiro046](https://www.ghibli.jp/gallery/chihiro046.jpg) ⚠️ sin minuto
+  - Mirada vacía bajo el control de Yubaba; alivio cuando Chihiro dice su nombre. ⚠️ (descripción de la wiki, sin fotograma)
+  - Alegría, rabia, vergüenza: ⚠️ sin fotograma con minuto.
+- **Dinámicas.** Lin desconfía de él. Zeniba lo llama ladrón (robó su sello). Chihiro es la única que confía en él, y acierta. ✅
+
+### Yubaba
+- **Carácter.** Dominante, avara, obsesionada con el oro. Muy tierna con Boh. ✅
+- **Miedo.** Perder autoridad y perder a Boh: se hunde cuando él le dice que no la querrá si sigue tratando mal a Chihiro. ✅
+- **Cómo habla.** Frases cortas, tajantes, de mando: «¡Deja de balbucear de una vez!». Voz aguda (226 Hz) y muy expresiva. ✅
+- **Su cara:** rabia, cejas muy arqueadas, ojos entrecerrados · [1:16](https://www.dailymotion.com/video/x889bq8?t=76) y más intensa · [2:01](https://www.dailymotion.com/video/x889bq8?t=121) ✅; alegría: ríe (captura de la wiki [Yubaba_laughing.webp](https://static.wikia.nocookie.net/studio-ghibli/images/4/41/Yubaba_laughing.webp), 1920×1038) ⚠️ sin minuto; tristeza, miedo, vergüenza: ⚠️ sin fotograma.
+- **Detalle.** A diferencia de Zeniba, no lleva gafas. ⚠️ (trivia de la wiki; el tráiler la muestra leyendo con gafas de media luna en [1:16](https://www.dailymotion.com/video/x889bq8?t=76): las partes no cuadran, comprobar)
+- **Dinámicas.** Odia a Zeniba, su gemela. Adora a Boh. Explota a Haku. ✅
+
+### Sin Cara (Kaonashi)
+- **Carácter.** Espíritu solitario sin palabras propias. Aprende imitando. ✅
+- **Arco.** Chihiro lo deja pasar de la lluvia. Ve que el oro compra cariño y reparte oro falso hecho de barro. Chihiro lo rechaza y se vuelve un monstruo que lo come todo. Vomita con el dumpling del Espíritu del Río. Se calma con Zeniba, que le da algo que hacer: tejer. ✅
+- **Miedo.** La soledad. Sólo quiere que Chihiro lo mire a él. ✅
+- **Cómo se expresa.** Sin voz propia: habla con la de quien se traga. ✅ (audio)
+- **Su cara.** Máscara fija. Andō: «casi sin ninguna expresión», la emoción va con la luz. ✅ Silueta entre flores azules · [1:25](https://www.dailymotion.com/video/x889bq8?t=85) ✅. Monstruo con la boca enorme: `personajes_01` n.º 197 ✅ (mirado).
+- **No tiene género definido** en la wiki. ✅
+
+### Lin
+- **Carácter.** Fuerte, terca, mandona, sarcástica y de buen corazón. ✅
+- **Cómo habla.** Frases cortas de trabajo y regaños directos. ⚠️ (citas de la wiki en inglés)
+- **Su cara.** Sorpresa enorme con dos cuencos: `espiritus_01` n.º 2 y 27; brazos en jarras: n.º 28; agachada con un cubo: n.º 30. ✅ (mirados, sin minuto)
+- **Dinámicas.** Esconde a Chihiro y la sube hasta Yubaba. Negocia con Kamaji a base de comida. ✅
+
+### Kamaji, Zeniba y Boh
+- **Kamaji.** Refunfuña pero ayuda. Guarda billetes de tren desde hace más de 40 años. Prepara las hierbas de los baños. ✅
+- **Zeniba.** Misma cara que Yubaba, carácter contrario. Recibe a Chihiro, Sin Cara y Boh con té y pan casero. ✅
+- **Boh.** Mimado, gigante, come muchísimo; como ratón acompaña a Chihiro. ✅
+
+## 14. Poses analizadas
+
+Salen del tráiler latino (minuto y enlace) y de los fotogramas oficiales (enlace, sin minuto: ⚠️ en el minuto). Última columna: para qué sirve en una lámina.
+
+### Chihiro
+| # | Pose: postura, manos, mirada | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | Sentada en el coche abrazando el ramo, hombros encogidos, mirada baja | [chihiro001](https://www.ghibli.jp/gallery/chihiro001.jpg) | miedo, «no quiero» |
+| 2 | Sentada a la mesa del pueblo, echada hacia la comida | [chihiro004](https://www.ghibli.jp/gallery/chihiro004.jpg) | escena de los cerdos |
+| 3 | De pie, brazos pegados al cuerpo, gira la cabeza mirando alrededor | [0:23](https://www.dailymotion.com/video/x889bq8?t=23) ✅ | **pensar**, dudar |
+| 4 | Corre agarrada a la barandilla, brazo extendido hacia Haku, alarma | [0:31](https://www.dailymotion.com/video/x889bq8?t=31) ✅ | **animar**, avisar |
+| 5 | Uniforme coral, sonríe y **saluda con una mano**; la otra en el tirador de la puerta | [chihiro019](https://www.ghibli.jp/gallery/chihiro019.jpg) (visto en `fondos_01`) | **presentar**, saludar |
+| 6 | Carga un fardo a la espalda, inclinada, descalza, mirada al frente | [chihiro024](https://www.ghibli.jp/gallery/chihiro024.jpg) | **explicar** que ya es capaz |
+| 7 | Se tapa la cara con las manos, llora, hombros caídos | [1:45](https://www.dailymotion.com/video/x889bq8?t=105) ✅ | tristeza |
+| 8 | De pie en una barca, remando con una pértiga, piernas abiertas | [chihiro040](https://www.ghibli.jp/gallery/chihiro040.jpg) | esfuerzo |
+| 9 | De la mano de Haku niño, girada hacia él, sonrisa leve | [chihiro049](https://www.ghibli.jp/gallery/chihiro049.jpg) | **celebrar** |
+| 10 | Corre de la mano de alguien junto al mar, pelo al viento | [2:25](https://www.dailymotion.com/video/x889bq8?t=145) ✅ | celebrar, avanzar |
+| 11 | Corre con ropa de calle, brazos en movimiento (arte oficial recortado) | `personajes_01` n.º 213 | **animar** |
+| 12 | Sentada en el tren, manos en las rodillas, junto a Sin Cara | [chihiro042](https://www.ghibli.jp/gallery/chihiro042.jpg) | calma, escuchar |
+
+### Haku
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | Rígido junto a una estatua de piedra, protector | [chihiro002](https://www.ghibli.jp/gallery/chihiro002.jpg) | proteger |
+| 2 | Brazo extendido hacia el horizonte, guía el camino | [chihiro005](https://www.ghibli.jp/gallery/chihiro005.jpg) | **explicar** |
+| 3 | Primer plano, cejas fruncidas, advierte | [0:32-0:33](https://www.dailymotion.com/video/x889bq8?t=33) ✅ | **regañar**, advertir |
+| 4 | En el puente, mano junto al hombro de Chihiro, inclinado hacia ella | [0:34](https://www.dailymotion.com/video/x889bq8?t=34) ✅ | **presentar**, acoger |
+| 5 | Dragón herido, cabeza caída, en brazos de Chihiro | [1:18](https://www.dailymotion.com/video/x889bq8?t=78) ✅ | vulnerabilidad |
+| 6 | Dragón volando de noche con Chihiro encima, curva hacia arriba | [chihiro045](https://www.ghibli.jp/gallery/chihiro045.jpg) | **animar** |
+| 7 | Llorando, boca entreabierta | [chihiro046](https://www.ghibli.jp/gallery/chihiro046.jpg) | emoción |
+| 8 | Caminando por el puente con Chihiro y una rana, hombros sueltos | tráiler, plano 62 (≈2:05) ⚠️ la parte lo sitúa mal en el reel de 0:55 | alivio |
+| 9 | Retrato de frente con cielo | `personajes_01` n.º 214 | presentar |
+
+### Yubaba
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | Sentada al escritorio firmando, mirada de reojo, anillos en la pluma | [chihiro016](https://www.ghibli.jp/gallery/chihiro016.jpg) | **explicar**, negociar |
+| 2 | Grita con Boh en brazos, boca muy abierta, cuerpo adelante | [chihiro017](https://www.ghibli.jp/gallery/chihiro017.jpg) | **regañar** |
+| 3 | Entre trabajadores agachados, señala con la cabeza gigante inclinada | [chihiro028](https://www.ghibli.jp/gallery/chihiro028.jpg), [0:56](https://www.dailymotion.com/video/x889bq8?t=56) ✅ | regañar, dirigir |
+| 4 | Té con pasteles, meñique levantado | [chihiro044](https://www.ghibli.jp/gallery/chihiro044.jpg) | **presentar**, recibir |
+| 5 | Lee una carta, manos con anillos | [1:16](https://www.dailymotion.com/video/x889bq8?t=76) ✅ | **pensar** |
+| 6 | Sonrisa siniestra, ojos entornados | [2:01](https://www.dailymotion.com/video/x889bq8?t=121) ✅ | amenazar |
+| 7 | Tras su escritorio lleno de papeles | `personajes_01` n.º 212 | explicar normas |
+| 8 | Primer plano: párpados lila, uñas rojas | `personajes_01` n.º 201 | cara |
+
+### Sin Cara
+| # | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| 1 | Solo en el puente rojo, brazos caídos | [chihiro020](https://www.ghibli.jp/gallery/chihiro020.jpg) | **pensar**, observar |
+| 2 | Brazo extendido ofreciendo fichas de baño en la palma | [chihiro025](https://www.ghibli.jp/gallery/chihiro025.jpg) | **ofrecer**, invitar |
+| 3 | Silueta gigante, boca abierta, engulle; empleados huyen | [chihiro033](https://www.ghibli.jp/gallery/chihiro033.jpg), `personajes_01` n.º 197 | exceso |
+| 4 | En el banquete, brazos hacia toda la comida | [chihiro031](https://www.ghibli.jp/gallery/chihiro031.jpg) | glotonería |
+| 5 | Entre flores azules en la penumbra, quieto | [1:25](https://www.dailymotion.com/video/x889bq8?t=85) ✅ | acechar, esperar |
+| 6 | En la penumbra ante Chihiro, cabeza inclinada | [2:14](https://www.dailymotion.com/video/x889bq8?t=134) ✅ | escuchar |
+| 7 | Sobre las vías bajo el agua, mira hacia abajo | [chihiro041](https://www.ghibli.jp/gallery/chihiro041.jpg) | **pensar** |
+| 8 | Sentado en el tren, manos en las rodillas | [chihiro042](https://www.ghibli.jp/gallery/chihiro042.jpg), reel [0:43](https://www.dailymotion.com/video/x9f6hg0?t=43) ✅ | acompañar, calmar |
+| 9 | En el puente con Haku y Chihiro | `personajes_01` n.º 200 | grupo |
+
+### Lin (de `hojas/espiritus_01.jpg`, mirada por mí)
+- Sorpresa con dos cuencos: n.º 2 y 27 · brazos en jarras junto a Chihiro: n.º 28 · agachada con un cubo: n.º 30 · remando en una tina sobre el agua: n.º 8 y 9 · mano en la cadera junto a una rana: n.º 24. ⚠️ sin minuto.
+
+**Resumen por uso:** presentar → Chihiro 5, Haku 4, Yubaba 4 · explicar → Haku 2, Yubaba 1 y 7 · celebrar → Chihiro 9 y 10 · regañar → Yubaba 2 y 3, Haku 3 · pensar → Chihiro 3, Yubaba 5, Sin Cara 1 y 7 · animar → Chihiro 4 y 11, Haku 6.
+
+## 15. Vestuario
+
+Hex medidos con Pillow en la zona de la prenda (el color más repetido, no un píxel suelto). Película única: no hay «temporadas», hay **dos mundos**.
+
+### Chihiro
+- **Ropa del mundo real** (la icónica fuera del balneario, también en el tren): medida en [chihiro001](https://www.ghibli.jp/gallery/chihiro001.jpg). ✅ (medido + wiki)
+  - Camiseta blanca `#EDECD8` con **rayas verdes** `#B4D979` (sombra `#80A560`) · shorts rojo coral `#BA6562` · piel `#EDC5A2` · calcetines blancos · tenis amarillos de velcro.
+- **Uniforme del balneario** (la ropa que todos reconocen): *kariginu* coral `#EE7E7C` (sombra `#C35F61`), *hitoe* blanco debajo, pantalón *sashinuki*, cordón *tasuki* para las mangas, descalza. Medido en [chihiro021](https://www.ghibli.jp/gallery/chihiro021.jpg). ✅
+- **Pelo:** castaño a los hombros, coleta. Ojos marrones grandes, mejillas sonrosadas. ✅ (wiki)
+- **Accesorio clave:** la liga del pelo morada y brillante que le regalan al final. ⚠️ (wiki; no hay fotograma medido)
+
+### Lin
+- Uniforme del mismo corte en blanco crudo `#E9EADA` con tirantes azules (en [chihiro021](https://www.ghibli.jp/gallery/chihiro021.jpg)). En las hojas se ve también con túnica rosa y falda azul (`espiritus_01` n.º 2, 7, 28). ✅
+- Pelo largo castaño oscuro con flequillo recto. ✅
+
+### Haku
+- Túnica blanca con fajín lavanda, según la wiki. En el fotograma nocturno [chihiro046](https://www.ghibli.jp/gallery/chihiro046.jpg) sale `#849CA6`, **teñido por la luz azul**: no es el color real. ⚠️
+- Pelo verde oscuro medido `#2A3936`, corte recto con flequillo. Dragón: cuerpo blanco escamado y melena verde azulada. ⚠️ (dragón sin medir)
+
+### Yubaba
+- Vestido azul marino `#27415C` · pendientes dorados `#B7904D` · sombra de párpados lila `#A6AEDD` · uñas rojas · pelo blanco crema en un moño enorme. Medido en [chihiro016](https://www.ghibli.jp/gallery/chihiro016.jpg). ✅
+
+### Sin Cara
+- Cuerpo negro casi puro `#1A1011` · máscara marfil `#E7E6D2` · marcas lila grisáceas `#9B8EA2`. Medido en [chihiro025](https://www.ghibli.jp/gallery/chihiro025.jpg). ✅
+- Un boceto temprano le ponía una túnica con estrellas (`personajes_01` n.º 211). Sólo boceto: no es su ropa en pantalla.
+
+### Boh
+- Peto rojo `#E7605A` con 坊 blanco `#EBECDC`. ✅
+
+**Lo icónico en una línea:** Chihiro con el uniforme coral y descalza; Sin Cara negro con máscara blanca; Yubaba de azul con joyas; Haku de blanco.
+
+## 16. Ciudades, paisajes y fondos de pantalla
+
+**Los sitios, con su luz y su hora** (paletas completas en el punto 4):
+- **La casa de baños (油屋, *Aburaya*).** Sobre un pantano medio seco en la isla Yūya del mundo de los espíritus. Rojo, verde y marrones; cascada junto al puente. De noche, oro de farolillos. ✅ (wiki Bathhouse, citando *The Art of Spirited Away*, p. 76)
+  - Inspiración: **Dōgo Onsen** (Matsuyama, Ehime); el equipo lo dibujó antes del diseño final. ✅ (travel.rakuten.com + nihongomaster.com, citando el artbook)
+  - También se citan el **Kodakara-yu** (Museo de Arquitectura al Aire Libre Edo-Tokio) y el estilo *giyōfū* (擬洋風, «falso occidental»): «Japón, Occidente y el Palacio del Dragón». ⚠️ (blogs de fans: [note.com](https://note.com/hatamove/n/nc1fbe1bf2674), [ghiblog.com](https://ghiblog.com/chihiro-yuya/))
+- **El puente rojo.** De día, rojo laca y cielo turquesa ([020](https://www.ghibli.jp/gallery/chihiro020.jpg)). Al anochecer, se cruza corriendo ([008](https://www.ghibli.jp/gallery/chihiro008.jpg)).
+- **El pueblo fantasma de comida.** Calles de colores de día ([003](https://www.ghibli.jp/gallery/chihiro003.jpg)); de noche, vidrieras rojas y vapor ([007](https://www.ghibli.jp/gallery/chihiro007.jpg)).
+- **Interiores.** Despacho de Yubaba, oscuro con azules ([017](https://www.ghibli.jp/gallery/chihiro017.jpg)). Pasillos claros de día ([028](https://www.ghibli.jp/gallery/chihiro028.jpg)). Cocina con ranas cocineras ([030](https://www.ghibli.jp/gallery/chihiro030.jpg)). Sala de calderas con tuberías (`espiritus_01` n.º 21).
+- **El mar y el tren.** Vías bajo el agua ([041](https://www.ghibli.jp/gallery/chihiro041.jpg)), vagón con pasajeros de sombra ([042](https://www.ghibli.jp/gallery/chihiro042.jpg)), tren al atardecer ([043](https://www.ghibli.jp/gallery/chihiro043.jpg)).
+- **La cabaña de Zeniba**, en el pantano: rueca y hilos (`personajes_01` n.º 199). ⚠️ (título de la wiki dudoso, ver bitácora)
+
+**Fondos de pantalla:**
+- **Oficial:** https://www.ghibli.jp/images/chihiro1.jpg · 1920×1081 · Studio Ghibli · calle de noche. ✅
+- **De fans en alta (Wallhaven)**, con corazones y quién lo subió: ✅ (recolector)
+  - 3516×1808 · ♥413 · Chihiro corriendo sobre agua, vista cenital · https://w.wallhaven.cc/full/5g/wallhaven-5g3pl8.jpg · subido por caonimageb
+  - 3840×2160 · ♥374 · paisaje con agua y nubes · https://w.wallhaven.cc/full/x6/wallhaven-x621xo.png · subido por jrmnt
+  - 1920×1080 · ♥348 · fotograma, cielo y hierba · https://w.wallhaven.cc/full/ex/wallhaven-ex3m8k.jpg · subido por Bongic
+  - 1920×1254 · ♥260 · Chihiro y Sin Cara · https://w.wallhaven.cc/full/l3/wallhaven-l35pw2.jpg · subido por bubbleboba
+  - 1920×1200 · ♥196 · parque con sol entre árboles · https://w.wallhaven.cc/full/01/wallhaven-017v10.jpg
+  - 3840×2160 · ♥188 · campo, ilustración 4K · https://w.wallhaven.cc/full/6d/wallhaven-6dzvzw.jpg · subido por jrmnt
+  - 3840×2076 · ♥180 · dibujo con cielo y flores · https://w.wallhaven.cc/full/ex/wallhaven-exjvek.jpg · subido por Cyb3rCr0w
+  - 1920×1080 · ♥168 · minimalista con varios Ghibli («Waiting for the Bus», DeviantArt *ramy*) · https://w.wallhaven.cc/full/0w/wallhaven-0wy2z7.jpg
+  - ⚠️ Autor original desconocido en casi todos: buscar el origen antes de citar.
+
+## 17. Guía para IA de imagen y de texto
+
+### Antes de nada: el límite
+- Miyazaki llamó a la animación por IA «un insulto a la vida misma». En 2025 el «estilo Ghibli» con IA fue una polémica enorme (punto 12). El dueño pide que nada **parezca hecho por IA**.
+- Por eso la IA (Firefly, Canva) sólo sirve para **bocetos**: probar una pose, un encuadre o una luz. Nunca como imagen final ni como «referencia» inventada.
+- Lo final sale de los fotogramas oficiales (uso libre, punto 1), de Blender y de pintura a mano, pasado por `v3/integrar.py`.
+- **Nunca** escribir «Studio Ghibli style» ni «Miyazaki style» en un prompt.
+
+### IA de imagen
+
+**Rasgos que nunca cambian:**
+- **Chihiro:** niña de 10 años, bajita y delgada. Pelo castaño a los hombros con coleta. Ojos marrones grandes, mejillas sonrosadas. Mundo real: camiseta blanca con rayas verdes, shorts rojos, calcetines blancos, tenis amarillos. Balneario: túnica coral con las mangas atadas, descalza.
+- **Haku:** chico adolescente. Pelo verde muy oscuro, corte recto con flequillo recto. Ojos verdes. Túnica blanca con fajín lavanda. Como dragón: dragón oriental blanco de melena verde azulada.
+- **Yubaba:** anciana de cabeza enorme, moño blanco crema gigante, nariz ganchuda, verrugas, arrugas. Vestido azul marino, pendientes dorados, anillos, párpados lila, uñas rojas.
+- **Sin Cara:** figura alta de sombra negra, algo transparente. Máscara blanca ovalada con marcas lila encima y debajo de los ojos. **Nunca sonríe ni cambia de cara.**
+- **Susuwatari:** bolitas negras peludas con dos ojos blancos.
+
+**Paleta** (hex medidos, puntos 4 y 15):
+- Noche en la casa de baños: `#342E2C`, `#4C3D32`, `#6A543A`, `#917446`, `#BF9959`, oro `#ECC571`.
+- Puente de día: rojo `#BA4A4B` contra cielo `#93D1D6`.
+- Tren al atardecer: `#5F7DC4`, `#E3B49F`, `#9A8EAA`.
+- Ropa: coral `#EE7E7C`, raya verde `#B4D979`, azul Yubaba `#27415C`, máscara `#E7E6D2`, sombra `#1A1011`.
+
+**Línea y sombreado:**
+- Personajes: línea fina, marrón oscura, nunca negra. Color plano con **una sola sombra dura** (cel de dos tonos).
+- Fondos: pintados a mano, tipo gouache o acuarela, con degradados suaves. Mucha línea en interiores (sala del Hedor, calle de día); casi ninguna en cielo y mar.
+
+**Luz:**
+- Noche: farolillos y ventanas doradas, cálidas, sobre negros marrones (brillo 27-41%).
+- Día: luz clara, cielo turquesa, brillo alto (66-70%).
+- Tren: atardecer rosado y azul violeta, silencioso.
+
+**Encuadre:**
+- Personaje pequeño ante una arquitectura enorme (Chihiro ante las puertas, [1:12](https://www.dailymotion.com/video/x889bq8?t=72)).
+- Primer plano quieto para la emoción (Haku, [0:32](https://www.dailymotion.com/video/x889bq8?t=32)).
+- Planos largos y en silencio (el *ma*). ⚠️ rasgo general de Miyazaki, sin minuto comprobado en esta película.
+
+**Palabras que ayudan** (en inglés, como las entienden Firefly y Canva):
+- Estilo: `hand-painted gouache background`, `watercolor paper texture`, `2D cel animation`, `two-tone shading`, `thin dark brown lineart`, `warm paper lanterns`, `red lacquered wooden bridge`, `Japanese bathhouse at night`, `quiet dusk light`, `melancholic`.
+- Personajes, con el vocabulario de Danbooru (sólo pelo, ropa y pose):
+  - Chihiro: `brown_hair, ponytail, brown_eyes, striped_shirt, shorts, japanese_clothes, barefoot`.
+  - Haku: `bob_cut, blunt_bangs, green_eyes, green_hair, kariginu, white_shirt, eastern_dragon`.
+  - Yubaba: `old_woman, blue_dress, earrings, eyeshadow, ring, red_nails, wrinkled_skin, grey_hair`.
+
+**Palabras que lo estropean:**
+- `Studio Ghibli style`, `Miyazaki style` (copia de estilo con derechos, justo la polémica).
+- `3D render`, `Pixar`, `glossy`, `neon`, `vibrant saturated colors`, `hyperrealistic`.
+- `thick black outline`, `cute smile` o `big sparkly eyes` (y nada de cara en Sin Cara).
+- `chibi`, `kawaii`: no son de esta película.
+- Las etiquetas corporales que Danbooru asocia a Chihiro: **jamás**. Es una niña.
+
+**Qué imágenes usar de referencia:**
+- Estilo de fondo: [chihiro1](https://www.ghibli.jp/images/chihiro1.jpg) (noche), [011](https://www.ghibli.jp/gallery/chihiro011.jpg), [020](https://www.ghibli.jp/gallery/chihiro020.jpg), [043](https://www.ghibli.jp/gallery/chihiro043.jpg); `hojas/fondos_01.jpg` entera.
+- Estilo de personaje: `personajes_01` n.º 213 (Chihiro), 214 (Haku), 201 (Yubaba); [chihiro025](https://www.ghibli.jp/gallery/chihiro025.jpg) (Sin Cara).
+- Espíritus: `espiritus_01` n.º 4, 22 y 23 (hollín), 12-14 (rábano), 15-20 (río).
+- Poses: las tablas del punto 14.
+
+**Vocabulario de expresiones** (lo que se ve en esta película):
+- **Miedo:** ojos muy abiertos, ceño apretado, manos abiertas junto a la cara, cuerpo hacia atrás.
+- **Tristeza:** llora en silencio, se tapa la cara, hombros caídos.
+- **Vergüenza o pequeñez:** hombros encogidos, figura diminuta en un plano general.
+- **Rabia (Yubaba):** cejas muy arqueadas, ojos entrecerrados, boca tensa o muy abierta, cuerpo hacia delante.
+- **Sorpresa (Lin):** boca enorme abierta, cuencos en las manos (`espiritus_01` n.º 2).
+- **Sin Cara:** la emoción va en la luz y en la postura, nunca en la máscara.
+- En las 3 hojas **no vi** gotas de sudor, venas de enfado, fondos de emoción ni versiones *chibi*. No añadirlos. ⚠️ (sólo mirado en las hojas, no en la película entera)
+
+### IA de texto
+
+**Reglas generales:**
+- Habla de película doblada, no de manga: frases completas y cortas.
+- Signos españoles: ¿ ¡. Gritos con un solo ¡!, sin mayúsculas ni letras repetidas.
+- Nada de onomatopeyas escritas en los diálogos. Los sonidos (hollín, jadeos de Sin Cara) van aparte, como efecto.
+- Elegir **un** doblaje y no mezclarlo. Por defecto el de 2020 (Netflix): «espíritus», «ustedes», «váyanse».
+- Reglas del dueño: una idea por texto; sin «·», «—» ni paréntesis.
+
+**Cómo habla cada uno:**
+- **Chihiro:** dudosa y rápida al principio; luego firme y educada. Su frase fuerte afirma quién es.
+- **Haku:** imperativos cortos y urgentes («vete», «vamos»). Protege dando órdenes.
+- **Yubaba:** manda, insulta en seco, amenaza, habla de dinero, contratos y clientes.
+- **Sin Cara:** casi nada («a… a…»). Si habla, exige como un cliente, con voz ajena.
+- **Lin:** regaños de compañera mayor, directos, con cariño detrás.
+
+**Frases reales por emoción** (textuales del doblaje latino; fuente en el punto 8):
+- **Alegre / orgullosa:** «Quiero que sepas que mi verdadero nombre es Chihiro.» (tráiler) ⚠️ no hay otra frase alegre textual en las partes.
+- **Enfadada:** «¡Deja de balbucear de una vez! ¡No eres más que una cobarde inútil!» (Yubaba, 2020)
+- **Explicando:** «Esta es una casa de baños donde ocho millones de espíritus vienen a descansar.» (Yubaba, 2020) · «Si lo olvidas nunca podrás regresar a tu casa.» (tráiler)
+- **Animando:** «Están encendiendo las lámparas, vamos.» (Haku, 2020) · «Haku me ayudó antes. Ahora es mi turno de ayudarlo.» (Chihiro, tráiler)
+- **Advirtiendo:** «No puedes estar en este lugar, fuera de aquí.» (Haku, 2020) · «No tomes un atajo, siempre nos perdemos.» (tráiler)
+- **Preocupada:** «¡Está lastimado!» (Chihiro, tráiler) ⚠️ no hay frase triste textual en las partes.
+- **Cómica / exigente:** «Oye, jefe, quiero comer. Muero de hambre.» (Sin Cara, 2020)
+
+**Vocabulario de la serie:** casa de baños · Aburaya · Sen · Kohaku · ficha de baño · contrato · sello de oro · hollín (susuwatari) · espíritus · Sin Cara · «tu nombre me pertenece».
+
+## 18. Estilo de dibujo y técnica, y cómo replicarlo
+
+**Quién lo hizo** (AniList staff): dirección Hayao Miyazaki · dirección de arte **Yōji Takeshige** (ayudante Noboru Yoshida) · diseño de color **Michiyo Yasuda** · fotografía **Atsushi Okui** · montaje Takeshi Seyama · logo Kaoru Mano. Diseño de personajes: **Masashi Andō** (así lo cita la wiki desde *The Art of Spirited Away*). ✅
+
+**Cómo se hizo:**
+- **Unos 100 planos en 3D de unos 1400** (≈8%), mezclados sin costura con el dibujo a mano. ✅ ([All the Anime](https://blog.alltheanime.com/toonz-toon-shaders-and-studio-ghibli/) + [xsisupport.com](https://xsisupport.com/tag/spirited-away/), citando al supervisor de CG Mitsunori Kataama)
+- **Toonz** para entintar, colorear y componer. Es el programa que Ghibli ayudó a liberar gratis en 2016 como **OpenToonz**. ✅ ([Engadget](https://www.engadget.com/2016-03-21-toonz-studio-ghibli-edition-open-source.html) + All the Anime)
+- 3D en **Softimage|3D** con **Toon Shaders** de **Michael Arias** (ya usados en *La princesa Mononoke*). ✅
+- Un **«2D Texture Shader» propio**: proyectaba los fondos **pintados a mano** sobre modelos 3D simples, para cámaras difíciles y multitudes (el puente lleno de espíritus, el interior del tren). Agua con *ray tracing* para los reflejos del tren. ✅ (xsisupport, cita a Kataama)
+- Fondos pintados a mano (gouache o acuarela), escaneados y coloreados en digital. ✅
+
+**Qué se ve** (medido con `estilo.py`):
+- Línea marrón, no negra: `#604D34` (torre), `#594024` (calle de noche), `#6D5937` (sala del Hedor), `#636358` (calle de día).
+- Fondos con **degradado**; personajes con **cel de dos tonos**.
+- Mucha línea en interiores recargados; casi ninguna en cielos y mar (tren).
+- ⚠️ Filtros (grano, aberración): no encontré ninguna fuente de producción que hable de un filtro digital a propósito.
+
+**Cómo reproducirlo en Photoshop:**
+- Capas separadas: línea / color plano / sombra dura (una sola) / luces.
+- Línea con pincel de tinta de grosor algo variable, en marrón oscuro (`#604D34`), no negro.
+- Fondos con pincel de gouache seco sobre textura de papel, con degradados de negro cálido a oro (fondo oficial de noche).
+- 🔴 Regla del dueño: borrar las capas tras exportar cada recorte, no pasar de ~4000 px.
+
+**Cómo reproducirlo en Blender:**
+- Arquitectura: geometría simple (planos y cajas) con **textura pintada a mano proyectada** (modificador *UV Project* o proyección desde cámara). Es el mismo truco que el shader del estudio.
+- Contorno: **Freestyle** o un **Solidify** invertido, en marrón oscuro o verde oscuro, nunca negro puro.
+- Luz: direccional cálida + un *rim* dorado para ventanas de noche (como en [011](https://www.ghibli.jp/gallery/chihiro011.jpg)).
+- Modelos libres para partir: ABURAYA (Deimon), Chihiro que camina (xuanxuann11), Sin Cara animado (klaimtrev), Haku dragón (soukosouji). Todos CC BY: citar autor (punto 3).
+- Textura encima: papel CC0 (Paper001) en el contrato y los farolillos; madera (WoodFloor051) en tablillas.
+
+**Encuadres y composición:**
+- Personaje diminuto frente a lo enorme = miedo o vergüenza ([1:12](https://www.dailymotion.com/video/x889bq8?t=72)).
+- Primer plano quieto = decisión o advertencia ([0:32](https://www.dailymotion.com/video/x889bq8?t=32)).
+- Plano general horizontal con horizonte bajo = calma y soledad (tren, [043](https://www.ghibli.jp/gallery/chihiro043.jpg)).
+- Cámara 3D móvil para multitudes y tránsito (puente, tren).
+- ⚠️ Planos largos en silencio (*ma*): sin minuto comprobado.
+
+## 19. Texturas 2D
+
+- **No hay tramas de manga**: la película es original, no viene de un manga. El punto se cumple con las otras capas. ✅
+- **Grano de papel y pincelada:** fondos en gouache/acuarela. Equivalente libre: Paper001 y Paper006 (CC0, ambientCG) + pincel de gouache seco (punto 18).
+- **Patrones de ropa:** rayas horizontales verdes sobre blanco en la camiseta de Chihiro (`#B4D979` sobre `#EDECD8`); vestido liso de Yubaba; túnica de estrellas sólo en el boceto de Sin Cara (`personajes_01` n.º 211). ✅
+- **Emblemas y logos:**
+  - **油 en un círculo**, bandera del balneario ([011](https://www.ghibli.jp/gallery/chihiro011.jpg)). ✅
+  - **Rótulo 「油屋」** tallado ([048](https://www.ghibli.jp/gallery/chihiro048.jpg)). ✅
+  - **Cortina *noren* con 湯** («agua caliente», el símbolo japonés de casa de baños) en la entrada. ✅ (la parte de imagen la vio en el fondo oficial)
+  - **坊** en el peto de Boh ([035](https://www.ghibli.jp/gallery/chihiro035.jpg)). ✅
+- **Texturas libres (CC0, ambientCG):** [Tatami001](https://ambientcg.com/view?id=Tatami001) · [WoodFloor064](https://ambientcg.com/view?id=WoodFloor064) · [Metal047B](https://ambientcg.com/view?id=Metal047B) · [PaintedPlaster001](https://ambientcg.com/view?id=PaintedPlaster001) · [RoofingTiles013A](https://ambientcg.com/view?id=RoofingTiles013A) · [Paper001](https://ambientcg.com/view?id=Paper001). ✅
+- **Pinceles y letras libres:** las 9 letras OFL del punto 5. ⚠️ No hay pinceles de Photoshop libres enlazados en las partes.
+- Capas completas: 3D (punto 3) + texturas reales (punto 4) + estas 2D.
+
+## 20. Gustos y detalles de cada personaje
+
+- **No hay *databook* oficial** con comida favorita, cumpleaños o altura para esta película. Buscado aposta: ni la wiki ni *The Art of Spirited Away* los dan. ✅ (búsqueda dedicada de la parte de voz). Lo que sí hay:
+- **Chihiro:** 10 años (la única edad oficial del reparto infantil). Lleva al final la **liga del pelo morada**, tejida por Zeniba y sus amigos con hilos de todos: la prueba de que fue real. Se ve a sí misma como «no puedo hacer nada» al principio; al final dice «mi verdadero nombre es Chihiro». ✅ (wiki + AniList)
+- **La familia:** coche Audi A4 Quattro de 1996. Padre, Akio, 38 años (AniList): optimista y confiado de más. ✅
+- **Haku:** sin edad (es un río); parece adolescente. Lo que más le importa: recordar su nombre, Kohaku, y proteger a Chihiro. Sus ojos brillantes en primer plano fueron idea de **Hideaki Anno**, que rechazó dibujarlo transparente como quería Miyazaki. ✅ (wiki, Trivia)
+- **Yubaba:** ama el oro y a Boh; odia que le recuerden a Zeniba. Fuma (captura [Smoking.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/1/13/Smoking.jpg) en la wiki). ✅
+- **Sin Cara:** no come para vivir: come para parecerse a alguien y estar cerca. Lo que más quiere es que Chihiro lo mire. ✅
+- **Lin:** su moneda son las **salamandras asadas**: las pide y las da a cambio de favores. ✅
+- **Kamaji:** guarda billetes de tren desde hace más de 40 años; cuida sus hierbas para los baños. ✅
+- **Zeniba:** teje; recibe con té y pan casero. ✅
+- **Espíritu del rábano:** no habla; sube en el ascensor con Chihiro. **Ootori-sama:** les encanta bañarse, siempre en grupo. ✅ (AniList)
+- ⚠️ Cumpleaños y alturas: no existen oficialmente (no es un olvido).
+
+## 21. Por qué la aman y escenas que hacen llorar
+
+**Razones concretas:**
+- **Taquilla:** la película más taquillera de Japón durante más de 20 años (¥31 700 millones), hasta *Kimetsu no Yaiba: Mugen Train* en 2021. Sigue siendo la 2.ª de Ghibli. ✅ ([nippon.com](https://www.nippon.com/en/japan-data/h01730/) + [CBR](https://www.cbr.com/studio-ghibli-spirited-away-demon-slayer-lose/))
+- **Premios:** Óscar 2003 a mejor película animada y Oso de Oro de Berlín 2002. ✅ (tráiler [0:00](https://www.dailymotion.com/video/x889bq8?t=0) + [24/7 Wall St.](https://247wallst.com/media/2022/06/06/spirited-away-is-the-best-coming-of-age-movie-ever/), que la llama la mejor película de crecer de la historia)
+- **Crítica:** 97% en Rotten Tomatoes (185 reseñas, media 8,62/10): «una fábula deslumbrante… deja al espectador un poco más curioso». ⚠️ ([Rotten Tomatoes](https://www.rottentomatoes.com/m/spirited_away), una fuente)
+- **Votos del público:** 1.ª en Ranking.net como mejor película de Ghibli. ✅ (punto 7)
+- **Con quién se identifica la gente:** con Chihiro. De niño ves la fuerza que descubres dentro; de adulto, la nostalgia y la rutina de los espíritus sin cara del balneario. ✅ (Medium + Screen Rant)
+
+**Escenas que hacen llorar o emocionan:**
+1. **El tren sobre el mar.** Qué pasa: Chihiro viaja sola con Sin Cara hacia Zeniba. Por qué duele: crecer y dar un paso importante sola. Música: *La sexta estación* (6番目の駅). Cómo está dibujada: horizonte de agua sin fin, atardecer rosa y azul, casi sin línea, silencio ([043](https://www.ghibli.jp/gallery/chihiro043.jpg), [042](https://www.ghibli.jp/gallery/chihiro042.jpg)). Reacción: dos ensayos independientes la eligen como «la que más te rompe». ✅ · Minuto en la película: ⚠️ no visto (reel [0:43](https://www.dailymotion.com/video/x9f6hg0?t=43)).
+2. **Chihiro recuerda que Haku es el río Kohaku.** Ella se cayó de niña a ese río, que luego rellenaron. El recuerdo rompe el hechizo. Por qué emociona: un recuerdo pequeño de infancia salva a alguien. Música: el vuelo sobre el dragón lleva *Reprise* ✅. Dibujo: vuelo nocturno, cuerpo del dragón en curva ([045](https://www.ghibli.jp/gallery/chihiro045.jpg)); llanto mejilla con mejilla ([046](https://www.ghibli.jp/gallery/chihiro046.jpg)). ✅ escena · ⚠️ minuto.
+3. **Haku dragón herido en brazos de Chihiro.** Vulnerabilidad total, sangra ([038](https://www.ghibli.jp/gallery/chihiro038.jpg)). Tráiler [1:18](https://www.dailymotion.com/video/x889bq8?t=78). ✅
+4. **La despedida: cruza el túnel sin mirar atrás** con sus padres. Agridulce. Luz dorada de día ([050](https://www.ghibli.jp/gallery/chihiro050.jpg)). ⚠️ (fuentes genéricas, sin minuto)
+5. **Chihiro llora comiendo** (se tapa la cara, hombros caídos): tráiler [1:45](https://www.dailymotion.com/video/x889bq8?t=105). ⚠️ contexto de la escena no confirmado.
+
+**Las que hacen reír o gritar:**
+- Los padres convertidos en cerdos (meme de TikTok). ⚠️
+- Sin Cara monstruo tragándose a los empleados ([033](https://www.ghibli.jp/gallery/chihiro033.jpg)).
+- El espíritu del rábano apretujando a Chihiro en el ascensor (AniList). ✅
+
+⚠️ No hay comentarios con votos (YouTube, Reddit) ni vídeos de reacción citables: las búsquedas sólo dieron ensayos.
+
+## 22. Fan dubs y comunidad hispana
+
+- **Fandub latino de escena:** «Chihiro se entera que Haku es un Dragón | Fandub Latino»: https://www.youtube.com/watch?v=760LBALdvZ0 ⚠️ vistas sin contar (YouTube pide iniciar sesión)
+- **Draquio**, «Las Voces del Viaje de Chihiro (Doblaje Argentino)»: https://www.youtube.com/watch?v=iHqHPVJmcMs ⚠️ vistas sin contar
+- **Comparación de doblajes** lado a lado: https://www.youtube.com/watch?v=xMXVnlusstA ⚠️
+- **Así se hizo el doblaje castellano** (España): https://www.youtube.com/watch?v=8Qs276Nv34U ✅ (también en Generación Ghibli)
+- **Covers en español de «Itsumo Nando Demo»** («Siempre, una y otra vez»): al menos 3 versiones; una marcada COVER ESPAÑOL: https://www.youtube.com/watch?v=FRRl3j2S3vQ. Letra traducida para cantar: [lyricstranslate.com](https://lyricstranslate.com/en/%E3%81%84%E3%81%A4%E3%82%82%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82-itsumo-nando-demo-por-siempre-y-en-todo-momento.html). ✅
+- **La polémica de la IA «estilo Ghibli»** se vivió en medios latinos (Diario Libre, Vértigo Político). ✅
+- **Reestreno con doblaje 2020 en Cinemex** (Festival Mundo Ghibli 2025) y el reel de Sensacine México con 191 388 vistas. ✅
+- **El doblaje perdido de 2002** («El espíritu del río») es un tema propio de la comunidad de *lost media* en español. ✅
+- **Para el servidor:** comparar la misma línea en Argentina y México («dioses» contra «espíritus», «descarados» contra «tuvieron mucho valor») es un reto de doblaje listo. Muestras de audio en el punto 8.
+- ⚠️ No encontré parodias ni memes hispanos con autor propio, ni vistas de TikTok. Buscar en la app: «el viaje de chihiro doblaje».
+
+## 23. Colaboraciones y cruces
+
+- **LOEWE × Studio Ghibli, cápsula *Spirited Away*** (enero de 2022, Jonathan Anderson; la 2.ª tras Totoro en 2021). Camisas con Sin Cara, jerséis con hollín en intarsia, sudaderas con Chihiro, bolsos y mantas con Chihiro, Yubaba y Kaonashi. Parte en técnica *boro* (parches teñidos de índigo). De 550 a 6400 USD. ✅ ([Highsnobiety](https://www.highsnobiety.com/p/spirited-away-studio-ghibli-loewe-collab-capsule/) + [Dazed](https://www.dazeddigital.com/fashion/article/55174))
+- **Pop-up LOEWE en Harajuku** (Tokio, ene-2022): fachada como la casa de baños con farolillos; dentro, réplica del puente rojo y del vagón del tren. El «set real» más cercano. ✅ ([CBR](https://www.cbr.com/spirited-away-pop-up-shop-loewe-ghibli/) + Time Out Tokio)
+- **Exposición «The Story of Studio Ghibli»**, Gardens by the Bay (Singapur), 18-dic-2026 a 4-jul-2027: **casa de baños de 8 m** y sala de calderas de Kamaji con brazos animatrónicos. ✅ ([Danamic](https://www.danamic.org/) + [Time Out Singapur](https://www.timeout.com/singapore))
+- **UNIQLO UT × Studio Ghibli** (2024 y julio de 2025): sudadera con Sin Cara (arte de Kanyada Phatan). 24,90 USD camiseta, 29,90 USD sudadera. ✅ ([Hypebeast](https://hypebeast.com/2025/6) + [SoraNews24](https://soranews24.com/2025/06/04/))
+- **Café temático** de una exposición Ghibli en Tokio: arroz con sésamo negro en forma de susuwatari y dulces de estrella. ⚠️ ([grapeejapan.com](https://www.grapeejapan.com/112804), una fuente)
+- **Tienda oficial Donguri Kyowakoku** (Benelic), categoría Chihiro: https://www.donguri-sora.com/category/CHIHIRO/ ✅
+- **Cosplay con licencia libre** (volumen y telas reales, nunca para pegar):
+  - Otakon 2009, cosplay Ghibli, 1024×768, CC BY 2.0: https://live.staticflickr.com/2620/3736719112_c338b4794f_b.jpg ✅
+  - «spirited away», 1024×683, CC BY 2.0: https://live.staticflickr.com/5523/14030273223_f2dc76f420_b.jpg ✅
+  - Sin Cara, 1024×683, CC BY-NC-SA 2.0 (vmcampos): https://live.staticflickr.com/2913/14768504282_69c6898250_b.jpg ✅
+  - Réplica del asiento del tren con Sin Cara (Tampa): punto 3. ✅
+- **Figura oficial de Haku dragón**: la parte de imagen la vio en la hoja de personajes de la wiki (n.º 159), pero esa imagen no quedó en `hojas/personajes_01.jpg`. ⚠️
+- ⚠️ **No encontré** figuras de Good Smile Company de esta película (sólo tiendas de reventa), ni colaboración oficial con **Fortnite** ni con juegos gacha (sólo mapas y vídeos de fans). Búsquedas en japonés e inglés.
+- Ghibli colaboró en *Ni no Kuni* (Level-5), pero sin personajes de Chihiro. ✅ (parte de texto)
+
