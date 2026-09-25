@@ -14,10 +14,11 @@ fecha: 2026-09-25
 >   Nada nuevo sin fuente.
 > - **YouTube pidió iniciar sesión** y **AnimeThemes estaba caído**
 >   (HTTP 522). Los vídeos se miraron en **Internet Archive** (episodios
->   1 a 8 de la T1, a 720p) y **Dailymotion** (tráileres, a 512×288).
->   Los fotogramas en 1920×1080 son los de la wiki, sin minuto.
+>   1 a 8 de la T1) y **Dailymotion** (tráileres, a 512×288). Los eps.
+>   2-8 están en **1920×1080** y el 1 en 960×540 (medido por el redactor
+>   con yt-dlp); las hojas se sacaron a 720p como mucho.
 > - **Frases del doblaje latino**: 2 oídas con `voz.py` en el episodio 1
->   con audio latino de Crunchyroll, más 12 que cita Doblaje Wiki con su
+>   con audio latino de Crunchyroll, más 13 que cita Doblaje Wiki con su
 >   episodio (§10).
 > - El redactor **miró las 3 hojas de `hojas/` número a número** y las
 >   hojas de fotogramas de la parte de vídeo. Corrigió cosas de las
@@ -162,7 +163,7 @@ capítulo 1 con su minuto.
 ## 2 · Las escenas que sirven, con minuto
 
 Vistas de verdad con `episodio.py` y `fotogramas.py` sobre Internet
-Archive (sub. inglés, 720p) y Dailymotion. Las frases van como las dice
+Archive (sub. inglés; hojas a 720p como mucho) y Dailymotion. Las frases van como las dice
 el subtítulo inglés del vídeo o la transcripción japonesa de
 `episodios.md`. **No son el doblaje latino** (ése está en §10).
 
@@ -213,9 +214,13 @@ casi todas las caras.
 | [Tráiler de «Evil Eye»](https://www.dailymotion.com/video/x9khv6a) (0:47, ADN) | [0:30](https://www.dailymotion.com/video/x9khv6a?start=30), [0:34](https://www.dailymotion.com/video/x9khv6a?start=34) | Momo agachada con la mano brillando; Okarun con el ojo encendido: «Momo, utilise ton super-pouvoir!». En cines el 7 y 8 de junio (0:45) |
 | [Tráiler T2 con subtítulos en español](https://www.dailymotion.com/video/x9puf5e) (1:45) | [0:23](https://www.dailymotion.com/video/x9puf5e?start=23), [0:44](https://www.dailymotion.com/video/x9puf5e?start=44), [0:55](https://www.dailymotion.com/video/x9puf5e?start=55) | Kinta y su «bola dorada»; el **kaiju** en la ciudad («宇宙怪獣 出現!»); un chico de pelo morado: «¿Quieres palmarla?» |
 
-⚠️ **Resolución.** Los capítulos están a 720p y los tráileres a 512×288.
-En 1080p sólo hay fotogramas sueltos de la wiki, **sin minuto**
-(«Momo's compassion», «Psychic Grip», «Episode 7»…, §3).
+⚠️ **Resolución.** Medido por el redactor con yt-dlp: en Internet
+Archive, los **eps. 2 a 8 están en 1920×1080**, el **ep. 1 en 960×540**
+y el ep. 1 latino en 1280×720. Las hojas de las partes se sacaron a
+720p como mucho: para un fotograma en 1080p, `fotogramas.py
+--fotograma <segundo>` con el minuto de estas tablas. Los tráileres
+están a 512×288. La wiki tiene fotogramas sueltos en 1920×1080, **sin
+minuto** («Momo's compassion», «Psychic Grip», «Episode 7»…, §3).
 
 ---
 
@@ -2018,7 +2023,7 @@ dicen; textos cortos en la voz de la serie; y el tono de Dandadan
 | Punto de `ENCARGO.md` | Estado | Por qué |
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | 6 key visuals oficiales (con Turbo Granny yokai y Seiko), modelo de color, logo, 3 Blu-ray, 2 tomos, encuesta ilustrada, obra de teatro, concept art, arte de 3 juegos; 3 hojas miradas número a número (§3). Sin artbook ⚠️ |
-| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 16 momentos del ep. 1 y 10 de los eps. 2-8 con minuto, vistos de verdad, más 4 tráileres (§2). **Ninguno en 1080p con minuto**: episodios a 720p, tráileres a 512×288; los 1920×1080 de la wiki no traen minuto |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 16 momentos del ep. 1 y 10 de los eps. 2-8 con minuto, vistos de verdad, más 4 tráileres (§2). **Las hojas se miraron a 720p**: los eps. 2-8 están en 1920×1080 en Internet Archive (medido), pero nadie sacó los fotogramas a ese tamaño; el ep. 1 sólo existe a 960×540 y los tráileres a 512×288. Los 1920×1080 de la wiki no traen minuto |
 | 3 · Fan art y 3D con licencia | ✅ | 7 modelos de Sketchfab con autor y licencia CC-BY; fan art con autor de Safebooru y Reddit; etiquetas de Danbooru; 2 fotos CC BY-SA de Taiwán sin mirar ⚠️ (§4) |
 | 4 · Fondos, luz, paleta y texturas reales | ⚠️ | 6 sitios con paleta medida con `estilo.py` y la regla cotidiano/sobrenatural; 4 sitios reales de Japón (§5). **Texturas reales (papel, tatami, madera) no se buscaron** |
 | 5 · Tipografía, una letra por uso | ✅ | logo rotulado a mano visto; 9 usos con letra libre comprobada con fontTools; **Anime Ace no trae ¿ ni ¡**, avisado (§6). Letra del opening y onomatopeya de cerca, sin encontrar ⚠️ |
@@ -2050,7 +2055,7 @@ dicen; textos cortos en la voz de la serie; y el tono de Dandadan
 | `referencias.json` | ✅ | todas las útiles de las 4 partes y de `datos.json`, las mejores primero, con tamaños medidos (los que faltaban, medidos por el redactor); la figura mal nombrada, corregida |
 | Frases del doblaje latino textuales, con vídeo y minuto | ⚠️ | 2 frases oídas con su minuto en el episodio con audio latino, más una tercera con ruido (§10.3). Las 13 de Doblaje Wiki, **sin minuto**; sin clips oficiales doblados |
 | Mirar los vídeos de verdad | ⚠️ | tráileres y 8 episodios mirados con `fotogramas.py` y `episodio.py`. **Opening y ending sin mirar** |
-| Colores medidos, no inventados | ✅ | más de 40 hex, todos de `estilo.py` sobre fotogramas o arte oficial; el de «Evil Eye», a ojo y avisado ⚠️ |
+| Colores medidos, no inventados | ✅ | 37 hex distintos, todos de `estilo.py` sobre fotogramas o arte oficial; el de «Evil Eye», a ojo y avisado ⚠️ |
 
 ---
 
@@ -2179,7 +2184,9 @@ fuente o por comprobar.
 - Leyó el **wikitext de Doblaje Wiki** que dejó la parte de voz para
   saber qué frase es de qué versión.
 - **Midió** con Pillow los 17 retratos, portada y banner de AniList que
-  el recolector dejó sin tamaño.
+  el recolector dejó sin tamaño, y con `yt-dlp --print` la resolución de
+  los 9 vídeos de Internet Archive (eps. 2-8 en 1920×1080, ep. 1 en
+  960×540, el latino en 1280×720).
 - Para el canal: `grep '^canal:'` en todas las biblias, los 3 ejemplos
   de `_ya_hechas/`, la tabla de salas de la biblia 29 y los avisos de
   `lotes/D.md`.
