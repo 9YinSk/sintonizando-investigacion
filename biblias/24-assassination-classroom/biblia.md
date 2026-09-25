@@ -213,8 +213,10 @@ clase (ver §2, 2×06, 00:00:02).
   ([«第1話～第8話イッキ見»](https://www.youtube.com/watch?v=iETpifp-27Y)).
   Varias frases se repiten en la película. Lo cito como «KJ-n».
 
-El texto y el minuto están comprobados ✅. Lo que **se ve** en cada escena
-(postura, luz) no lo pude mirar: no hay vídeo en este contenedor ⚠️.
+El texto y el minuto están comprobados ✅. **2.ª pasada**: ahora sí se
+miraron en vídeo (Internet Archive, 480p) el ep. 1 y los 2×01, 2×06,
+2×07, 2×21, 2×24 y 2×25: lo que se ve está en **§2.5** y en la hoja
+`hojas/fotogramas_01.jpg`.
 
 ### 2.1 Anunciar una clase o un examen (lo que hace el canal)
 
@@ -262,6 +264,39 @@ El texto y el minuto están comprobados ✅. Lo que **se ve** en cada escena
 | **2×07** | 00:06:00 → 00:06:22 | Karasuma le da un regalo a Irina por su cumpleaños (00:06:06 «誕生日 おめでとう»). Irina: «やば… 超うれしい» (Ay… qué feliz) | Irina fuera de su pose de femme fatale |
 | **2×11** | 00:15:39 / **2×21** 00:00:18 | «第二の刃» (*el segundo filo*): la lección de Koro-sensei. Tener siempre un segundo plan. En 2×21 es **aprobar el examen de acceso al instituto** (todos entran «como mucho en su segunda opción») ✅; que para él el segundo filo sea estudiar en general ⚠️ | Lema posible para las clases ⚠️ (no sé cómo lo dice el latino) |
 | **2×24** | 00:17:08 | Nagisa repite sus últimas palabras: «“卒業おめでとう”» (felicidades por graduarse). En el manga es el cap. 176 (lista) y 177 (despedida) ✅ ([萌娘百科](https://zh.moegirl.org.cn/%E6%9D%80%E8%80%81%E5%B8%88)) | **No usarla de broma**: es el final |
+
+### 2.5 Escenas miradas en vídeo (2.ª pasada)
+
+Fuente: Internet Archive, episodio 1 suelto
+([`AnsatsuKyoushitsuEpisode001480pX264`](https://archive.org/details/AnsatsuKyoushitsuEpisode001480pX264))
+y los 25 episodios de la T2
+([`ansatsu-kyoushitsu-2x-23_20260520`](https://archive.org/details/ansatsu-kyoushitsu-2x-23_20260520)),
+854×480 ⚠️ (no hay 1080p fuera de YouTube, que pide iniciar sesión).
+Minuto del archivo. El n.º es el de `hojas/fotogramas_01.jpg`.
+
+| N.º | Escena | Lo que se ve | Para qué sirve |
+|---|---|---|---|
+| 1-2 | **2×06, 0:02-0:09** | Pizarra verde-negra `#272726`. Tiza **rosa** («対», dentro de un estallido), **blanca** («二学期中間テスト») y **amarilla** («苦手科目強化特訓»). Koro-sensei no lleva su toga: **traje ceremonial oscuro con cuello dorado y sombrero de paja**, tentáculos en alto ✅ visto | **El aviso de examen**: modelo directo de la lámina |
+| 3 | **2×06, 1:18** | Opening «QUESTION» con animación; cartela de créditos en placas grises translúcidas con letra mincho | Estilo de rótulo de créditos |
+| 4 | **2×06, 21:38** | Ending «欠けた月»: dibujos a crayón blanco sobre fondo **sepia-naranja** `#E8744C`, que pasa a dorado | Fondo cálido «de cuaderno» |
+| 5 | **2×21, 0:13** | Edificio viejo de la 3-E de día: cielo `#2964DC`, monte `#2D372A` | Fondo exterior |
+| 6 | **2×21, 0:18** | Koro-sensei **celebrando**: mejillas sonrojadas, boca enorme, tentáculos juntos como aplaudiendo, burbujas blancas; pizarra negra detrás ✅ | Pose **celebrar** («¡todos aprobados!») |
+| 7 | **2×24, 7:21** | Koro-sensei con la toga, el cordón amarillo y la luna al cuello, sosteniendo **el libro de asistencia negro, rotulado «出席簿»** (visto por mí en la hoja; la parte de vídeo lo llamó «carpeta amarilla») ✅ | **El objeto del canal**: la lista de clase |
+| 8 | **2×24, 7:29** | Toda la clase de espaldas, de noche, al aire libre, ante el edificio viejo | Composición en grupo |
+| 9 | **2×24, 7:51** | Karma en primer plano, noche azul: cejas bajas, boca recta, chándal con «E» | Karma serio |
+| 10 | **2×24, 8:50** | Kayano con los ojos húmedos y, en pantalla, la cartela **«Ⅲ-E〔7〕茅野カエデ»** (clase, número de lista, nombre) en gris claro ✅ visto | **Formato de texto real** para nombres |
+| 11 | **2×24, 9:29** | Aula de madera vacía, luz de día cálida: `#CAC1AA`, `#8B7F69`, `#5F5038` | Fondo interior |
+| 12 | **2×01, 14:31** | Irina **muerta de vergüenza**: cara rosa `#E29ECB`, ojos «＞＜», boca dentada gritando, manos en el pelo ✅ | Cara de vergüenza |
+| 13 | **2×07, 6:22** | Ojos de Irina: iris verde-azulado, rayitas de sonrojo | Irina emocionada (el regalo) |
+| 14 | **2×25, 21:33** | Aula de instituto llena de grafitis («HEAVEN», «Die»); Nagisa de camisa, chaleco gris y corbata, manos juntas | Nagisa profesor |
+| 15-16 | **2×25, 22:28 y 22:50** | Nagisa, sonrisa lateral tranquila (pelo `#ABC6D5`) | «Empieza la clase» |
+
+Además, en el **episodio 1** (T1) no hay opening animado: de 3:15 a 4:30
+sale un **título-crédito** («暗殺教室 ASSASSINATION CLASSROOM» sobre rojo,
+3:30), una cuadrícula de siluetas con los nombres de los alumnos (3:45),
+«三日月» (4:00) y el rótulo «オープニング‥» (4:15) ✅. Y el ending «Hello,
+Shooting Star» abre con una silueta en el tejado y la **luna creciente**
+(21:16-21:28) ✅. Fuente: `partes/video.md`.
 
 ---
 
