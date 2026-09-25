@@ -12,7 +12,8 @@ Cuenta: cuenta I43
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
 - 41 Dandadan: 4 partes listas (voz agotó sus 2 tandas; punto 13 queda ⚠️). Redactor (Opus) en marcha desde 25-sep.
 - 42 Blue Lock: imagen y texto listos; video y voz (Sonnet) en marcha desde 25-sep. 43-48: recolectando de nuevo con hojas (se perdieron con el contenedor).
-- 43 Kaguya-sama: texto y voz (Sonnet) en marcha; imagen y video cuando haya hueco.
+- 43 Kaguya-sama: texto listo (31✅ 16⚠️, 23 refs); descubrió que el «juego de Steam» de la serie es una estafa (fan art robado), marcado para no usarlo. Imagen en marcha; video y voz cuando haya hueco.
+- 47 Captain Tsubasa: la recolección automática casi no encontró nada con ese nombre — el título latino es **«Oliver y Benji»**. Hay que repetir: `python3 herramientas/recolectar.py 47-captain-tsubasa-supercampeones --nombres "Captain Tsubasa" "Oliver y Benji" --wiki captaintsubasa --personajes "Tsubasa Oozora" "Genzo Wakabayashi" "Kojiro Hyuga" --hojas`.
 
 ## Avisos para el dueño
 
