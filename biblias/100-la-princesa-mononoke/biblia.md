@@ -182,7 +182,7 @@ Paletas medidas con `herramientas/estilo.py` sobre fotogramas HD reales (1920×1
 | Bosque profundo del dios ciervo (musgo) | [1:09](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4195) | filtrada verde-azulada, casi submarina, incluso de día | `#404F20` `#728A1D` `#576B17` `#366278` `#527C36` · saturación 63% (la más alta medida), brillo 45% | [Ground037](https://ambientcg.com/a/Ground037) · [Rock064](https://ambientcg.com/a/Rock064) |
 | Puerta y murallas de Irontown (Tatara-ba), de noche | [1:14:40](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4480) | antorchas y fuego de fragua, cielo casi negro | `#1A1917` `#2D2A25` `#423F37` `#9DC3AC` `#76091D` (rojo escaso, estandartes) · saturación 22% (la más baja medida), brillo 30% | [Wood095](https://ambientcg.com/a/Wood095) · [Wood094](https://ambientcg.com/a/Wood094) · [Metal063](https://ambientcg.com/a/Metal063) · [CorrugatedSteel009](https://ambientcg.com/a/CorrugatedSteel009) |
 | Cima donde vive Moro, escena nocturna | [1:21](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) | luz de luna fría azul-verdosa | `#14233C` (cielo, 30.3%) `#A3C7AF` (pelaje iluminado, 22.2%) `#749F98` (pelaje en sombra) · saturación 44%, brillo 46% | — |
-| Bosque de los espíritus de día ([Mononoke_Forest.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/7/7d/Mononoke_Forest.jpg), 2048×850, `escenas_02` 74) | sin minuto | verde saturado, troncos a contraluz | `#475D53` 12.9% `#567966` 12.6% `#69947E` 9.4% · sombra morada `#231324` 18.9% `#1A0514` 15.1% · línea `#2D3735` (de las pocas escenas con contorno visible sobre el fondo) | [Bark014](https://ambientcg.com/view?id=Bark014) · [Bark015](https://ambientcg.com/view?id=Bark015) |
+| **Yakushima, el bosque real** que inspiró el del Shishigami ([Mononoke_Forest.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/7/7d/Mononoke_Forest.jpg), 2048×850, `escenas_02` 74): **es una fotografía**, no un fotograma (pie de foto de la wiki: «Yakushima Island… helped inspire the film's setting»; mirada por el redactor) | — | luz verde difusa bajo el dosel, rocas cubiertas de musgo | `#475D53` 12.9% `#567966` 12.6% `#69947E` 9.4% · sombras `#231324` 18.9% `#1A0514` 15.1% (medido en `imagen.md`, que la tomó por escena de la película: corregido) | la foto misma es la textura real; más [Bark014](https://ambientcg.com/view?id=Bark014) · [Bark015](https://ambientcg.com/view?id=Bark015) |
 | Santuario del Shishigami de día ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg), oficial) | sin minuto | luz dorada que cae entre los troncos, motas como nieve | `#3C3326` 22.9% `#2A2522` 19.0% `#524327` 17.2% `#CDC878` 14.6% (la luz) `#705921` 9.9% `#97791B` 7.0% · saturación 44%, brillo 42%, degradado 77%, línea `#6C5228` · medido por el redactor | [Ground037](https://ambientcg.com/a/Ground037) |
 | Colina de los kodama al anochecer ([mononoke024](https://www.ghibli.jp/gallery/mononoke024.jpg), oficial) | sin minuto | azul frío, los kodama como puntos blancos | `#254150` 21.0% `#076698` 20.4% `#1F2B35` 17.8% `#0D81A6` 14.1% `#195E71` 11.0% `#93C0BC` 6.7% · saturación 64% (la más alta medida en toda la biblia) · medido por el redactor | — |
 | Transformación del dios ciervo, noche ([Deer_God_Transforming](https://static.wikia.nocookie.net/studio-ghibli/images/5/58/Deer_God_Transforming.jpeg), 1920×1038, `escenas_01` 30) | sin minuto | noche azul, cuerpo translúcido | `#959383` 16.7% (hueso) `#212A35` 16.1% `#191B22` 15.7% `#2A5D92` 10.8% (cuerpo azul) | — |
@@ -395,7 +395,7 @@ YouTube pide iniciar sesión desde el servidor: lo mirado a fondo sale de Dailym
 
 | Emoción | San | Ashitaka | Moro |
 |---|---|---|---|
-| Alegría / ternura | abrazo final, [1:56:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) | sonríe junto a Yakul al sol, [mononoke048](https://www.ghibli.jp/gallery/mononoke048.jpg) (sin minuto, visto en miniatura ⚠️) | protege a San dormida en su lomo, [1:19:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4740) |
+| Alegría / ternura | abrazo final, [1:56:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) | habla animado, boca abierta y ojos vivos, con Yakul detrás en un prado al sol, [mononoke048](https://www.ghibli.jp/gallery/mononoke048.jpg) (sin minuto) ✅ | protege a San dormida en su lomo, [1:19:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4740) |
 | Rabia | grita con la pintura de guerra, [0:53:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=3180) | tensa el arco contra Nago, dientes apretados, [0:04:20](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=260) | colmillos bajo la luna, [1:21:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) |
 | Tristeza / dolor | atrapada en los gusanos, [1:43:45](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6225) | cara ensangrentada tras la batalla, [2:03:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7320) | ojo entrecerrado y cansado, [1:10:50](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4250) |
 | Miedo / alarma | sobresalto junto a su hermano lobo, [1:10:25](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4225) | arco en alto avisando a la aldea, [0:06:40](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=400) | — (no se le ve miedo: acepta su muerte) |
@@ -755,42 +755,54 @@ Aviso honesto: Studio Ghibli **no publica fichas tipo databook** (cumpleaños/al
 
 ## Las 3 hojas de contacto
 
-En `hojas/`: exactamente 3 archivos, todos JPEG bajo el límite de 3 MB.
+En `hojas/`: exactamente 3 archivos JPEG, todos bajo el límite de 3 MB (arte_01 551 KB, escenas_01 688 KB, escenas_02 725 KB). **Mirados de verdad en la segunda pasada**: la primera redacción tenía mal varios números (el figurín, la hoja de modelo, el storyboard y la pintura Muromachi); abajo, lo que hay en cada recuadro que sirve. Los `MononokeNNN.jpg` son los fotogramas oficiales de ghibli.jp (punto 1).
 
-- **`arte_01.jpg`** (551 KB): arte oficial y merchandising. Recuadro **97** = key visual pintado de San de cuerpo entero con lanza (estilo ilustración, no fotograma). Recuadro **98** = hoja de modelo (character sheet) con turnarounds y anotaciones de color. Recuadro **100** = figura de plástico oficial sobre peana (mercancía). Recuadro **103** = pintura histórica de referencia estilo ukiyo-e ("Muromachi_Period.jpg") que usa la wiki para dar contexto de época — **no es arte promocional de Ghibli**, no citar como key visual.
-- **`escenas_02.jpg`** (725 KB): producción real. Recuadro **76** = página de storyboard real con dibujos y notas manuscritas de cámara.
-- **`escenas_01.jpg`** (688 KB): fotogramas y merchandising. Recuadro **8** = figurín San+Ashitaka+lobo ("Mononoke_with_San_and_Ashitaka_-_figurine.jpg").
+**`escenas_01.jpg`** (48 recuadros, 1-48; casi todo fotogramas oficiales 1920×1038):
+- **1** cartel inglés «PRINCESS MONONOKE» (2000×3000) · **2** promo San en la loba + Ashitaka en Yakul (2560×1024) · **3** cartel japonés con 生きろ。 y el logo rojo (1200×1800) → **tipografía y portada**.
+- **4** San con sangre en la boca junto a Moro · **8** `mononoke007`, San con cuchillo, capa y máscara a la espalda · **10** `015`, San con la máscara puesta, agachada con el cuchillo · **33/40** San con la máscara subida a la cabeza (primeros planos) → **presentar a San**.
+- **22** `039`, San entre los gusanos rojos · **24** `044`, el abrazo · **23** `043`, Ashitaka saca a San del agua → **escenas que hacen llorar**.
+- **27-29** Moro gruñendo y riendo de noche → **Moro**.
+- **30** el dios ciervo transformándose · **32** `010`, el Shishigami de día en el bosque dorado → **espíritus** (lo que pide el encargo).
+- **43** `003`, Ashitaka tensa el arco sobre Yakul · **44** `004`, Hii-sama · **45** `005`, Ashitaka se corta el moño · **46** `006`, Kaya → **arco 1, el destierro**.
+
+**`escenas_02.jpg`** (48 recuadros, 49-96):
+- **51** `013`, **el fuelle de Tatara-ba** con las mujeres · **49** `011`, cena en Irontown alrededor del fuego · **52** `017`, batalla de noche en la puerta → **Tatara-ba** (concepto 2).
+- **56** `023` y **57** `024`, **kodama** en el bosque y en la colina · **58** `025` y **67** `045`, el Nightwalker → **espíritus** (conceptos 1 y 3).
+- **60** `028` Jigo · **66** `042` y **69** `050` Eboshi → **poses E1-E2 y J1** (punto 14).
+- **72** boceto en acuarela de San de cuerpo entero · **73** **hoja de modelo** de Ashitaka, Kaya, じいじ y ヒイ様 · **76** **Michiyo Yasuda y sus modelos de color** → **técnica** (punto 18).
+- **74** **foto real de Yakushima** (2048×850), el bosque que inspiró el del Shishigami · **75** cartel japonés de Ashitaka sobre Yakul · **94** recortes de prensa de la taquilla (E.T. superado) · **96** pintura de época Muromachi (referencia histórica, **no es de Ghibli**).
+- Ruido de la wiki, **no usar**: **85** logo de HBO Max; **91** y **92** llevan nombres de archivo que no tienen que ver con la película.
+
+**`arte_01.jpg`** (31 recuadros, 97-127; arte y producción):
+- **97, 99, 115-117, 119-121, 123** bocetos en acuarela (San con máscara y lanza, San con los lobos, San con capucha roja entre kodama) → **mano pintada** para el punto 18.
+- **98** pared de modelos de color de un *making of* · **108** escaneo a mano de un celuloide (pie de la wiki, `texto.json`) · **100** **figurín oficial** San+Ashitaka+lobo · **101** promo de grupo · **102** San con sangre y máscara · **103** página de *El viaje de Shuna* con el yakul · **106** cartel del LaserDisc con el logo.
+- **107** Nightwalker · **109** primer plano de San con la pintura y los pendientes · **110** Ashitaka y Moro · **111, 114** Eboshi (cara; rifle al hombro) · **112** Ashitaka con capucha roja sobre Yakul · **122** Moro y sus cachorros · **124** dos hombres charlando junto a una chimenea (encaja con la charla Miyazaki-Kurosawa ⚠️) · **125** San en la loba entre kodama · **126** San y Moro · **127** Jigo.
 
 ## 3 conceptos de lámina
 
-Esta serie **todavía no tiene canal asignado**. Se proponen 2 candidatos reales del inventario del servidor (un choque con otra serie no es problema): **#🎨・arte** (foro, etiqueta "Fanart"/"Ilustración") y **#📸・fotos** (foro, etiqueta "Naturaleza"). El concepto ⭐ recomendado usa el primero.
+Esta película **todavía no tiene canal**. Las biblias son generales: el canal es una propuesta. Tres candidatos reales de `servidor/inventario.md`, uno por concepto: **#🎨・arte** (foro; etiquetas Dibujo, Digital, Fanart, Miniatura, Diseno, Edit o AMV, Boceto, Proceso, Terminado, Acepto encargos), **#🎼・demos-canto** (foro; Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl…) y **#📸・fotos** (foro; Paisaje, Naturaleza, Nocturna…). Otras biblias también mencionan #🎼・demos-canto (Bocchi, Coco, Encanto…) y #📸・fotos (Your Name, Frieren…): no es problema, sólo una nota. *(Segunda pasada: el concepto 2 no tenía canal y los tres no decían dónde va cada texto real del canal; ahora sí, con imágenes concretas.)*
 
-### Lámina 1 — La máscara en el poste ⭐ recomendado
-- **Objeto y sitio**: la máscara de arcilla roja de San (dos orejas blancas, tres agujeros amarillos), colgada de un poste de madera tallada a la entrada del bosque, con musgo real en la base y luz filtrada verde-azulada (paleta del punto 4, santuario del Shishigami).
-- **Por qué encaja**: la máscara es EL objeto más reconocible y sencillo de modelar en Blender (confirmado en `partes/texto.md`), sin depender de personaje completo.
-- **Personaje**: San, de perfil, agachada junto al poste, mano apoyada en la madera — pose S6 del punto 14 (contemplar) adaptada.
-- **Cómo habla**: registro directo y agresivo, sin cortesías (ver punto 17); si lleva texto, una frase corta tipo "¡Odio a los humanos!" en registro de aviso, no de saludo.
-- **Dónde va cada texto**:
-  - Título del canal/serie: esquina superior, letra Yuji Syuku (pincel japonés).
-  - Diálogo de San: caja RECTANGULAR de borde fino (modelo フィルムコミック, punto 6), pegada al lateral derecho, letra Shippori Antique.
-  - Nombre de la serie en español: pie de imagen, letra Rye (imita madera tallada).
-- **Cómo no queda plano**: luz direccional única (filtrada por dosel, ver punto 4) que crea sombra proyectada real del poste y la máscara sobre el musgo; textura CC0 real de musgo/roca (Ground037/Rock064) en primer plano para dar profundidad frente al personaje en cel-shading plano.
+### Lámina 1 — La máscara en el poste · #🎨・arte ⭐ recomendado
+- **Objeto real en un sitio real**: la **máscara roja de San** (arcilla, dos orejas, tres agujeros), colgada de un poste de madera a la entrada del santuario del Shishigami, con musgo en la base. En Blender: base el modelo [San's Mask](https://sketchfab.com/3d-models/none-8d58161d9506468d87e70c5ea8c754d7) de remoj (CC BY, crédito obligatorio), poste con Wood095 y suelo con Ground037/Rock064 (CC0). Referencia de la máscara puesta: [mononoke015](https://www.ghibli.jp/gallery/mononoke015.jpg); de la máscara colgada a la espalda: [mononoke007](https://www.ghibli.jp/gallery/mononoke007.jpg).
+- **Personaje**: **San** (la más querida en Occidente: 2471 favoritos en AniList), agachada junto al poste, una mano apoyada en la madera, mirando al que llega: mezcla de S6 (1:19:40, contemplar) y la cautela de 0:26:10. Dos kodama asoman detrás del poste ([mononoke023](https://www.ghibli.jp/gallery/mononoke023.jpg)).
+- **Cómo habla**: seco y corto, como en el doblaje Wild Bunch («¡Silencio! Yo no recibo órdenes de humanos»). Caja **rectangular de borde fino** estilo *Film Comic*, fondo de papel Paper001, letra **Shippori Antique**; el título en **Yuji Syuku** rojo `#8F3342`, como el logo de los carteles.
+- **Dónde va cada texto del canal**: arriba, el título «arte» a pincel. En la caja de San, la función del canal en dos frases suyas: «Dibujo, ilustración, diseño y fanart.» / «Un hilo por pieza o por serie.». Las etiquetas, pintadas a pincel sobre **tablillas de madera** colgadas del mismo poste (Dibujo, Digital, Fanart…); «Acepto encargos» en la tablilla más baja, con la pintura roja de la cara de San (`#552018`) como marca.
+- **Cómo no queda plano**: luz dorada filtrada del santuario (`#CDC878`, [mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg)) de un solo lado; la máscara 3D en primer plano con sombra real sobre el musgo; San en cel plano detrás, integrada con `v3/integrar.py`; motas de luz cayendo por delante.
 
-### Lámina 2 — El fuelle de Tatara-ba
-- **Objeto y sitio**: el fuelle/horno de la fundición de Irontown, de noche, con chispas y el resplandor naranja del fuego real (paleta punto 4, Tatara-ba).
-- **Por qué encaja**: objeto real, modelable en Blender con las texturas CC0 ya reunidas (Wood095, Metal063, CorrugatedSteel009).
-- **Personaje**: Dama Eboshi, de pie, capa negra y gorro rojo, mirando al fuego (sin pose analizada con minuto exacto, ver punto 14 — usar referencia de arte oficial del punto 1).
-- **Cómo habla**: autoritaria y rítmica (punto 17); frase corta de mando.
-- **Dónde va cada texto**: diálogo en caja rectangular sobre el resplandor del fuego (para contraste de lectura), letra Shippori Antique; cartel de Tatara-ba en letra Rye tallada en madera junto al fuelle.
-- **Cómo no queda plano**: contraste fuerte cálido/frío (fuego naranja vs. cielo casi negro, saturación 22% medida) + textura de metal forjado en primer plano.
+### Lámina 2 — El fuelle de Tatara-ba · #🎼・demos-canto
+- **Por qué este canal**: el tema de la película lo canta un **contratenor**, Yoshikazu Mera (etiqueta **Falsete**), y la banda sonora trae «The Tatara Women Work Song» (canción de trabajo de las mujeres de Tatara, letra de Miyazaki, 1:30). ⚠️ En qué escena exacta suena no está comprobado con el audio.
+- **Objeto real en un sitio real**: el **fuelle de pie** de la fundición, con la cuerda colgando del techo y la tabla donde saltan las mujeres ([mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg), `escenas_02` 51). En Blender: tablones Wood094/Wood095 y metal Metal063/CorrugatedSteel009 (CC0).
+- **Personajes**: las mujeres del fuelle, riendo y tirando de la cuerda (pose de grupo del punto 14), y **Eboshi** a un lado, sonriente, presentando (pose E2, [mononoke050](https://www.ghibli.jp/gallery/mononoke050.jpg)). Ashitaka puede quedar tirando de la cuerda, como en el fotograma.
+- **Cómo habla**: Eboshi, con órdenes cortas en plural, como en su frase textual «¡Vamos! ¡Ya falta muy poco! ¡Manténganse alerta!». Caja rectangular fina (Shippori Antique) sobre un tablón oscuro; cartel del sitio en **Rye**, tallado.
+- **Dónde va cada texto del canal**: en la caja de Eboshi, «Tu ficha de canto, aparte de la de doblaje.» / «Un hilo con tu registro y tus covers.». Cada registro (Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, **Falsete**, Growl) va grabado en una **tablilla colgada de la cuerda del fuelle**; los estilos (Balada, Rock, Pop, Anime OP/ED) y el estado (Disponible, Ocupado) en un tablón de la pared. Si no cabe: **lámina 2** con las etiquetas.
+- **Cómo no queda plano**: luz cálida de fragua (`#8E4A38`, `#B76258`) desde abajo y de un lado, chispas por delante del fuelle, la cuerda en primer plano cruzando el cuadro; paleta del fotograma oficial, línea marrón `#5C4441`, nunca negra.
 
-### Lámina 3 — El abrazo final en el bosque reverdecido
-- **Objeto y sitio**: un kodama solitario sobre un tronco quemado pero con brote verde nuevo (min 2:07:00 del punto 2), en un claro de bosque en regeneración.
-- **Por qué encaja**: canal #📸・fotos, etiqueta "Naturaleza" — coincide con la escena de renacimiento del bosque, el ángulo más "foto de naturaleza" de toda la película.
-- **Personaje**: San y Ashitaka de espaldas, abrazados (pose S9/A9 del punto 14), pequeños en el encuadre frente al paisaje.
-- **Cómo habla**: sin diálogo, o una sola línea breve de despedida entre los dos; si hay texto, tono íntimo, no de acción.
-- **Dónde va cada texto**: nombre del canal en esquina superior con letra EB Garamond (créditos/cierre); sin caja de diálogo si se opta por silencio, coherente con que ninguno promete nada al otro en la escena real.
-- **Cómo no queda plano**: planos muy amplios (wide shot, técnica confirmada en punto 18) con los personajes pequeños frente a la naturaleza inmensa — el propio contraste de escala da profundidad sin degradado en el personaje.
+### Lámina 3 — El claro de los kodama · #📸・fotos
+- **Objeto real en un sitio real**: un **tronco quemado con un brote verde nuevo** en el bosque que renace (2:07:00, [t=7620](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7620)), con un solo kodama encima, como el del final. En Blender: kodama de [patrakeevasveta](https://sketchfab.com/3d-models/none-2981b7c17eaa4978880801e913f3ce03) (CC BY), corteza Bark014/Bark015.
+- **Personaje**: **Ashitaka** (el más querido en Japón, n.º 1 en ranking.net), sentado en una roca con las manos sobre las rodillas, escuchando (pose A5, [1:20:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4800)); o San y Ashitaka pequeños de espaldas (S9/A9, 1:56:00) si se quiere sin diálogo.
+- **Cómo habla**: calmado, pide antes de ordenar («Por favor…»), como en el doblaje Wild Bunch. Caja rectangular fina con Shippori Antique; título en EB Garamond, como un crédito final.
+- **Dónde va cada texto del canal**: en la caja de Ashitaka, «Fotos que hagáis vosotros: lo que veis, dónde grabáis, cómo os montáis el rincón.» / «Un hilo por foto o por serie.». Las etiquetas (Paisaje, Retrato, Naturaleza, Ciudad, Nocturna, Analógica, Con el móvil, Con cámara, Editada, Sin editar, Detrás de cámara) como **kodama que sostienen piedras planas** con el nombre, repartidos por el claro; «Naturaleza» en el del tronco.
+- **Cómo no queda plano**: plano muy abierto con el paisaje enorme (verde `#69935A`/`#538044` y troncos quemados de 2:07:00); el tronco y el kodama en primer plano, desenfocados apenas; luz de mañana de un solo lado.
 
 ## Cumplimiento del encargo
 

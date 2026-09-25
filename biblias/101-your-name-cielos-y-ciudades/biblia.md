@@ -432,3 +432,187 @@ Datos de la wiki de personajes (texto y ficha); voces latinas en el punto 8.
 - **Mitsuha y Yotsuha:** la pequeña la despierta y la pilla en sus rarezas.
 - **Mitsuha y su padre:** con quien discute.
 - **Mitsuha y la abuela:** con quien aprende (el kumihimo y el *musubi*).
+
+## 14. Poses analizadas
+
+Todas **miradas** por el redactor en `hojas/escenas_01.jpg` o `hojas/personajes_01.jpg`. Para cada una:
+postura, manos, mirada, gesto y para qué sirve (presentar, explicar, celebrar, regañar, pensar, animar).
+
+### Taki (10)
+
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | [Apertura 0:42](https://archive.org/details/kimi-no-na-wa-op-1?t=42) (B8) | De pie, de perfil, **manos en los bolsillos**, cabeza baja, sobre fondo blanco | presentar (tranquilo) |
+| 2 | [Apertura 0:49](https://archive.org/details/kimi-no-na-wa-op-1?t=49) (B11) | Entre rascacielos, una mano en el bolsillo, mira hacia arriba y al lado | presentar la ciudad |
+| 3 | [Tráiler 0:48](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=48) (A28); [apertura 1:23](https://archive.org/details/kimi-no-na-wa-op-1?t=83) (B26) | De espaldas en la barandilla, cartera al hombro, mira Tokio | pensar, observar |
+| 4 | [Tráiler 0:26](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=26) (A14) | De camarero con chaleco y pajarita, **un plato en cada mano**, entre mesas | explicar, servir |
+| 5 | [Tráiler 0:53](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=53) (A34) | Sentado en la cama, **lee el móvil** en la mano derecha, ceño fruncido | explicar (leer una nota) |
+| 6 | [Tráiler 1:03-1:04](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=63) (A42-43) | **Salta la barandilla** con Tokio detrás, cuerpo en el aire | celebrar, animar |
+| 7 | [Apertura 1:41](https://archive.org/details/kimi-no-na-wa-op-1?t=101) (B32) | **Tiende la mano abierta a cámara**, mirada fija | animar, invitar |
+| 8 | [Tráiler 1:17](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=77) (A50) | De tres cuartos, mira el cometa partirse, boca entreabierta | pensar, asombro |
+| 9 | [Tráiler 1:00](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=60) (A39) | Inclinado hacia delante, grita, puños cerca del cuerpo | regañar |
+| 10 | `personajes_01` nº30 ([Realize.png](https://static.wikia.nocookie.net/kiminonawa/images/f/fd/Realize.png)) | En el borde del cráter, **mano en la boca** | pensar (darse cuenta) |
+
+### Mitsuha (10)
+
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | `personajes_01` nº1 ([2640×2160](https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png)); [tráiler 1:18](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=78) (A51) | **Se ata el pelo con el cordón**, las dos manos arriba, sonrisa leve | presentar (su gesto propio) |
+| 2 | [Apertura 0:30](https://archive.org/details/kimi-no-na-wa-op-1?t=30) (B6) | Entre la gente, una mano tendida a un lado, mira de reojo | presentar, buscar |
+| 3 | [Apertura 0:54-0:56](https://archive.org/details/kimi-no-na-wa-op-1?t=54) (B13-15) | Sentada en kimono junto al telar, hilos rojos entre los dedos | explicar (un oficio) |
+| 4 | [Tráiler 0:35](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=35) (A20) | Grita con los ojos cerrados, manos juntas al pecho | regañar, desahogarse |
+| 5 | [Tráiler 0:59](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=59) (A38) | Se inclina hacia delante y grita | regañar |
+| 6 | [Apertura 1:37](https://archive.org/details/kimi-no-na-wa-op-1?t=97) (B30) | En una colina, **estira el brazo hacia el cielo** | celebrar, animar |
+| 7 | [Apertura 1:39](https://archive.org/details/kimi-no-na-wa-op-1?t=99) (B31) | **Mano abierta hacia cámara**, mirada seria y dulce | animar, invitar |
+| 8 | [*Sparkle* 4:30](https://archive.org/details/sparkle_201703?t=270) (C28) | Sonríe con la mano en el pelo, luz de atardecer | celebrar (tímida) |
+| 9 | [Tráiler 0:30](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=30) (A17) | Bosteza tapándose la boca, ojos cerrados | humor, «¿nuevo por aquí?» |
+| 10 | [Apertura 0:58-1:00](https://archive.org/details/kimi-no-na-wa-op-1?t=58) (B16-18) | Sacerdotisa con tocado dorado, de perfil, mirada baja | explicar (ritual), solemne |
+
+### Los dos juntos
+
+- **Espalda con espalda** con el hilo rojo flotando: [apertura 0:36](https://archive.org/details/kimi-no-na-wa-op-1?t=36) (B7). Para presentar a la pareja.
+- **De pie a cada lado del cielo**, pequeños: [apertura 1:12](https://archive.org/details/kimi-no-na-wa-op-1?t=72) (B23) y el cartel. Para una lámina de cielo grande.
+- **Frente a frente en el crepúsculo**, siluetas: [*Sparkle* 4:20](https://archive.org/details/sparkle_201703?t=260) y `personajes_01` nº10. Para el momento emotivo.
+- **Él arriba de la escalera, ella abajo**: *Sparkle* 6:40 (C41) y nº39. Para «encontrarse».
+
+**Encuadres que se repiten** (visto): personajes **pequeños y de espaldas** frente a un cielo enorme o una ciudad; primeros planos muy cerrados de manos y objetos (cordones, móvil, cuaderno, palma); **pantalla partida** para los dos a la vez; fondos blancos y lila sin decorado en la apertura.
+
+## 15. Vestuario
+
+Hex **medidos por el redactor con Pillow** sobre fotogramas de la apertura (cuerpo entero sobre fondo
+blanco o plano medio), salvo donde se dice. La luz lila de la apertura tiñe un poco los colores.
+
+**Taki, uniforme de verano de Tokio** (el icónico) ✅ medido:
+- Camisa blanca de manga corta `#F0EDE4`, con **ribete verde** en cuello y mangas `#81A87F` (apertura 0:27).
+- **Corbata a rayas diagonales** verde oscuro `#516A58` y verde oliva `#889257`.
+- Escudo del instituto bordado en el pecho, marrón `#513B3D`.
+- Pantalón gris `#575C6A`, zapatos negros; cartera negra al hombro (tráiler 0:48).
+- Pelo castaño oscuro con reflejo violeta `#51404A`; una tirita en la cara.
+
+**Taki, uniforme de invierno:** blazer **azul marino** `#343A4D` con ribete gris y escudo, la misma corbata (apertura 1:16). Hoja de modelo en la wiki ([Suit.png](https://static.wikia.nocookie.net/kiminonawa/images/a/ab/Suit.png)). ✅ medido
+**Taki, en el trabajo:** chaleco negro y pajarita de camarero (tráiler 0:26). **De adulto:** traje oscuro de oficina (`personajes_01` nº23 y nº29). ✅ visto
+
+**Mitsuha, uniforme de verano de Itomori** (el icónico) ✅ medido:
+- Camisa blanca `#F3F1E4` con **lazo rojo** grande al cuello `#B14861` (bajo luz lila).
+- **Falda plisada gris oscuro** `#545860` (a la sombra, `#3E3B49`).
+- Calcetines altos negros con tono violeta `#4B384A` y mocasines marrón rojizo `#6B4152`.
+- **El cordón kumihimo** en la media coleta: `#9C2D2C` en la apertura (0:30), `#A55849` con luz de día en el retrato de la wiki (medido por el investigador de imagen), `#912323` en el tráiler 1:20. Es rojo oscuro, **no** rojo de caricatura.
+- Pelo negro con reflejo violeta `#4D414F`.
+- En otras escenas lleva **chaleco de punto amarillo** encima de la camisa (tráiler 1:10 y 1:18). ✅ visto
+- Cartera escolar **azul acero** `#40728B` (en la de Tessie, `#407289`).
+
+⚠️ **Corrección a `partes/imagen.md`**: decía que `#40728B` era «la chaqueta del uniforme». Es **la cartera
+escolar**: en la hoja de modelo no hay chaqueta, sólo camisa blanca, y el azul coincide con la cartera
+(celdas 1 y 2 de `vestuario_fondos_01`). La celda 1 además es **Tessie**, no Taki (etiqueta corregida en la hoja).
+
+**Mitsuha, sacerdotisa** ✅ visto: kimono blanco (*hakui*), ***hakama* roja**, **tocado dorado** con flores
+y **cascabeles dorados** con cintas en la mano (apertura 0:58-1:01; [Miyamizu Attire](https://static.wikia.nocookie.net/kiminonawa/images/5/5f/Miyamizu_Attire.jpg), [cascabeles](https://static.wikia.nocookie.net/kiminonawa/images/2/29/Miyamizu_Gohei.jpg/revision/latest?cb=20260115122926), [tocado](https://static.wikia.nocookie.net/kiminonawa/images/9/98/Miyamizu_Headdress.jpg/revision/latest?cb=20260115122926)). En la escena nocturna el blanco se ve crema `#F7F2C6` y hay lila `#9D7FA0` de la luz. ⚠️ color de la tela con luz neutra sin medir.
+**Mitsuha, en casa:** kimono rosa claro para trenzar (apertura 0:54); pijama rosa (tráiler 0:46). **Yukata** azul con flores blancas y *obi* rojo (apertura 1:18). ✅ visto; ⚠️ que sea la del festival es deducción
+**Mitsuha, después:** pelo corto a la altura de la barbilla (tráiler 1:05). **De adulta** (2022), ropa de ciudad clara y el cordón en el pelo (`personajes_01` nº24). ✅ visto
+
+**Lo icónico que todos reconocen:** ella con camisa blanca, lazo rojo y el cordón; él con camisa blanca de ribete verde y corbata a rayas.
+
+## 16. Ciudades, paisajes y fondos de pantalla
+
+### Tokio (real)
+
+Lugares confirmados por [Tofugu](https://www.tofugu.com/japan/your-name-locations/) y [AnimeTrivia](https://animetrivia.app/articles/guide/anime-pilgrimage-in-japan-a-guide-to-seichi-junrei), que los citan como el ejemplo más famoso de peregrinación de fans (*seichi junrei*). ✅
+- **Escalera del santuario Suga** (Yotsuya). La del reencuentro final. **El fondo real más reconocible de la película.** Luz de mañana casi blanca: medida en [*Sparkle* 2:40](https://archive.org/details/sparkle_201703?t=160), `#FFFEFF` `#AEACB0` `#BCBABE` `#CFCAC8` `#DFD8D5` `#EDE4E3` (saturación 3 %, brillo 87 %). Barandilla roja, muro con plantas, casas bajas.
+- **Estación de Yotsuya** (salida Akasaka) y el cruce con el Lawson 100 camino del santuario.
+- **National Art Center** (Roppongi), paredes de madera y cristal, y **Tokyo City View** (Roppongi Hills): la cita de Taki con Okudera.
+- **Shinjuku**: la pantalla gigante **Yunika Vision**, donde se ve la noticia del cometa, y el cruce con la **Cocoon Tower** al fondo. En la apertura, 0:49 y 1:34, Taki entre rascacielos y pantallas (visto).
+- **Café La Bohème** (Shinjuku Gyoen): inspiró el restaurante *Il Giardino delle Parole*.
+- Un **balcón con barandilla** desde el que se ve el skyline de Shinjuku, con una bici aparcada (tráiler 0:48; apertura 1:23). ⚠️ sitio exacto sin identificar.
+- Una **pasarela peatonal** al atardecer (apertura 0:52) y una **calle comercial** llena de gente (*Sparkle* 3:00). ✅ visto
+- Shinkai dice que su Tokio es fiel a lo que se ve, pero es «**el Tokio que sueña Mitsuha**», un estereotipo ([BFI](https://www.bfi.org.uk/sight-and-sound/interviews/trading-places-makoto-shinkai-your-name)). ✅
+
+### Itomori (ficticio) y Hida
+
+- **Itomori no existe.** Está inspirado en **Hida (Gifu)** y el **lago Suwa (Nagano)**. ✅ (Tofugu)
+- Lo que se ve (visto): el **lago redondo** entre montes (apertura 1:27), el **cráter verde** del santuario (tráiler 1:07), una **escalera de piedra** que baja hacia el lago (tráiler 0:29), **vías de tren entre campos** (0:31), **campos de cultivo** con una moto (0:33), el **instituto** junto al lago (*Sparkle* 3:10) y la **casa Miyamizu** de madera con *shoji* (apertura 0:54).
+- Luz de Itomori: verde claro al mediodía (`#C0E279`), rosa con niebla al alba (`#F6CAC6`), lila en el crepúsculo (`#9C7EB1`). Tabla completa en el punto 4.
+- **Hida** es donde Taki busca el pueblo: la biblioteca con luz de lámpara (tráiler 1:22) y el *ryokan* (pista 16 del disco). ⚠️ sin fotograma del ryokan.
+
+### Fondos de pantalla
+
+- [Wallhaven 8oy372](https://w.wallhaven.cc/full/8o/wallhaven-8oy372.jpg), **3840×2160**, etiquetas «Kimi no Na Wa / night / night sky», **sin autor**. Paleta medida: `#283B50` `#4C6C92` `#19232A` `#3E5B7B`. ✅ medido.
+  ⚠️ Corrección: la parte de imagen dice «cielo sobre Itomori». Es **Tokio de noche** (azotea, antenas, edificios con luces, una figura en la barandilla y el cometa arriba), el mismo plano que la apertura 0:01.
+- El **cartel latino** en 2000×3000 sirve de fondo de móvil (punto 1).
+- Fan art grande de 4777×3230 en [Safebooru](https://safebooru.org/images/2428/458920a80171b1979493a23dca32160f9c0ec8a4.jpg) (punto 3). ⚠️ sin mirar.
+- **Fondos oficiales** repartidos por CoMix Wave o Toho: no encontrados. ⚠️ Búsqueda en [la API de Wallhaven](https://wallhaven.cc/api/v1/search?q=kimi%20no%20na%20wa): sólo fondos de fans.
+
+## 17. Guía para IA de imagen y de texto
+
+Escrita por el redactor con todo lo anterior. **Aviso:** el dueño pide que nada parezca hecho por IA.
+Úsala para bocetos, poses y fondos de prueba; la lámina final se termina en Blender y Photoshop
+con las referencias reales (puntos 1, 2 y 14).
+
+### Para una IA de imagen (Firefly, Canva)
+
+**Rasgos que nunca cambian**
+- **Taki:** chico de 17 años, pelo **castaño** de punta hasta la nuca con flequillo, ojos **azul oscuro**, **una tirita pequeña en la mejilla**, camisa blanca de manga corta con **ribete verde** en cuello y mangas, **corbata a rayas diagonales verde oscuro y oliva**, pantalón gris.
+- **Mitsuha:** chica de 17 años, pelo **negro** hasta media espalda en **media coleta** atada con un **cordón trenzado rojo oscuro en forma de lazo**, **dos mechones trenzados** a los lados, flequillo a la izquierda, ojos **castaños**, camisa blanca con **lazo rojo** grande, **falda plisada gris oscuro**, calcetines negros altos.
+- **El cometa:** estela larga, fina, **azul y blanca con un borde violeta**, que **se parte en dos**; no es una bola de fuego.
+
+**Paleta** (medida, punto 4)
+- Cielo de día: `#059BDB` `#0472B7` `#074D9A` con nubes `#E1E4E7`.
+- Tokio de día: `#7FC8D4` `#6199C6` `#B1C5CD`. Tokio de noche: `#506580` `#445F74` `#1F2B38`.
+- Crepúsculo: `#5061AC` `#9C7EB1` `#CB9CB8` `#F3C9C5`.
+- Itomori: `#C0E279` `#859D69` `#40594D`.
+- Acentos: cordón `#9C2D2C`, lazo `#B14861`, ribete `#81A87F`.
+
+**Línea y sombreado**
+- **Poca línea y de color**, no negra: el contorno medido va de `#768887` (gris verdoso) a `#A28B88` (malva). Densidad de línea entre 1,5 % y 6 %.
+- Personajes en **cel con una o dos sombras**, planos; fondos **pintados en degradado** muy detallados. Ese salto entre fondo y personaje es a propósito (Shinkai, ANN).
+- Sombras con color (azul o violeta), **nunca gris ni negro**.
+
+**Luz**
+- Destellos de lente, **rayos de sol entre nubes** (apertura 1:05), contraluz.
+- En el crepúsculo, luz pareja y suave: «nada más brillante que nada».
+- Saturación baja o media (17-40 %), brillo alto en Tokio (60-80 %).
+
+**Encuadre**
+- Personajes **pequeños** frente a un **cielo enorme** o una ciudad; o **primerísimo plano** de manos y objetos.
+- Pantalla partida para los dos a la vez.
+
+**Palabras que ayudan** (vocabulario de Danbooru y de las etiquetas WD14 medidas):
+`brown_hair, blue_eyes, school_uniform, striped_necktie, green_necktie` (Taki);
+`black_hair, brown_eyes, hair_ribbon, red_ribbon, sidelocks, ponytail, red_bowtie, pleated_skirt, white_shirt` (Mitsuha);
+`sky, cumulonimbus clouds, comet trail splitting in two, crepuscular rays, lens flare, light_rays, sunlight, twilight purple and pink sky, Tokyo skyline, Shinjuku skyscrapers, rural Japanese lake town, torii, detailed painted background, soft cel shading, thin colored lineart`.
+
+**Palabras que lo estropean:** `orange sunset` saturado, `chibi`, `speech bubble`, `screentone`, `thick black outline`, `neon`, `cyberpunk`, `fireball`, `Studio Ghibli` (otro aspecto), `Weathering With You` o `Suzume` (otros personajes), `blazer` para Mitsuha (en verano no lleva).
+
+**Qué referencias usar**
+- Estilo general y cielo: el **cartel** (2000×3000) y la **apertura 1:05** (Tokio con rayos).
+- Crepúsculo: [Kataware Doki](https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png/revision/latest?cb=20240307211813) (1920×1080).
+- Cometa: **tráiler 1:17** y apertura 0:01-0:12.
+- Pose de Mitsuha: nº1 de `personajes_01` (se ata el pelo). Pose de Taki: apertura 0:42 (manos en los bolsillos).
+- Vestuario: apertura 0:27, 0:30 y 0:42 (hex del punto 15).
+
+**Vocabulario de expresiones** (lo que se ve en esta película)
+- **Mejillas rojas** (*blush*) para vergüenza o emoción; **una sola lágrima** o lágrimas con ojos cerrados para el llanto (`tears`, `closed_eyes`).
+- **Grito con ojos cerrados y boca muy abierta** (tráiler 0:35), la expresión más exagerada.
+- **Pantalla partida** con los dos gritando para las peleas.
+- **Fondo blanco y lila con siluetas** para lo que no se recuerda (apertura 0:27-0:44).
+- **No hay** *chibi*, gotas de sudor ni fondos de emoción de manga en lo visto. ⚠️ película no vista entera.
+
+### Para una IA de texto (diálogos en su voz)
+
+**Cómo escriben**
+- **Notas cortas**, como en el móvil o el cuaderno: una idea por línea.
+- **Signos dobles** para el susto: «¿¡…!?». Preguntas directas: «¿Quién eres?».
+- **Reglas y reproches** entre los dos, en forma de lista, cuando se cambian. ⚠️ las reglas concretas no se copiaron en las partes: no inventarlas como si fueran de la película.
+- Ternura en **una sola palabra** («te quiero», en vez de un nombre).
+- Mitsuha: afirma con calma y es sincera; si se enfada, explota. Taki: directo, un poco brusco cuando no entiende. Yotsuha: dialecto de Itomori, frases que acaban en «-ya».
+- Sin muletillas inventadas: la parte no documenta ninguna.
+
+**Frases reales, por emoción**
+- **Alegre o tierno:** 「すきだ」, «te quiero» (lo que Taki escribe en la palma; wiki, I love you.png).
+- **Enfadado o descolocado:** 「何なんだ!?」, «¿¡Pero qué es esto!?» (cuaderno, tráiler 0:54; traducción del redactor ⚠️).
+- **Duda:** «¿Quién eres?» (Taki, doblaje latino, muestra oficial) y 「お前は誰だ?」 (cuaderno, tráiler 1:09).
+- **Explicando o presentándose:** «Mi nombre es Mitsuha Miyamizu.» (Mitsuha, doblaje latino, muestra oficial).
+- **Broma:** «gracias a mis poderes femeninos» (primer memo de Mitsuha; traducido del inglés de la wiki ⚠️).
+- **Narrador, animando:** 「動き出した、奇跡の物語。」, «Empieza una historia de milagro» (cartela, tráiler 1:00; traducción ⚠️).
+- **Triste:** ⚠️ no hay frase triste textual en las partes; oírla en la película.
+
+**Vocabulario propio** (punto 25): *musubi* (el lazo que une personas y tiempo), *kumihimo* (cordón trenzado), *kataware-doki* (el crepúsculo), *kuchikamizake* (el sake del ritual), Tiamat (el cometa), Itomori, *tasokare* («¿quién es aquel?»).

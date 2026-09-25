@@ -151,5 +151,41 @@
     "que_es": "Página de texto (sin imagen) que lista personajes secundarios que se volvieron más populares de lo esperado, con la razón concreta de cada uno (Perla de Diamante Azul, Centipeetle, Aquamarine, Padparadscha, Sardonyx, etc.).",
     "para_que": "Puntos 7 y 12: qué personajes secundarios ama el fandom y por qué.",
     "licencia": "Wiki de fans (TV Tropes), texto bajo su propia licencia CC BY-NC-SA; usar sólo como referencia de datos, no reproducir el texto entero."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3fdt3q",
+    "fuente": "Dailymotion, cover de fan «Amar Como Tú (Love Like You) — versión masculina» por Alan Ramírez Tamez, canal ARTcantanteOficial",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cover en español latino del ending «Love Like You», 99 s, 10 vistas totales (dato exacto confirmado con la API de Dailymotion en esta tanda).",
+    "para_que": "Punto 22: fan dub / cover en español con vistas reales, no estimadas.",
+    "licencia": "Cover de fan, no oficial; sólo como referencia (enlace y autor), nunca para pegar el audio."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Rocío_Mallo",
+    "fuente": "Doblaje Wiki, ficha individual de la actriz Rocío Mallo (voz de Garnet)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de actriz con su alias «Mamá Garnet», muestra de audio Garnet.ogg y su filmografía de doblaje completa. Segunda fuente (independiente de la tabla de reparto) para confirmar el nombre de la actriz de Garnet.",
+    "para_que": "Punto 8: verificación en dos fuentes del reparto de doblaje latino.",
+    "licencia": "Página de wiki de fans (Fandom), texto bajo CC BY-SA; usar como fuente de datos, no reproducir la ficha entera."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3lmesb",
+    "fuente": "Dailymotion, clip oficial CN «The Real Peridot (Clip) Catch And Release»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Peridot encerrada en el Clúster: en 0:18 postura de combate defensiva (rabia/hostilidad), en 0:42 se tapa la cara con las manos (miedo/pánico).",
+    "para_que": "Punto 13: cara de Peridot en emoción, con fotograma y minuto exactos.",
+    "licencia": "Material oficial de Cartoon Network, espejo en Dailymotion. Sólo referencia, no publicar el vídeo."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6viabp",
+    "fuente": "Dailymotion, clip oficial CN «Lapis Lazuli's Backstory (Clip) Same Old World»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Lapislázuli recién salida del espejo: en 0:08 ojos muy abiertos (miedo/sorpresa); en 2:08 sonrisa suave junto a Steven (alegría, reconciliación).",
+    "para_que": "Punto 13: cara de Lapislázuli en emoción, con fotograma y minuto exactos.",
+    "licencia": "Material oficial de Cartoon Network, espejo en Dailymotion. Sólo referencia, no publicar el vídeo."
   }
 ]
