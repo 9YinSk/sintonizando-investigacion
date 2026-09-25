@@ -107,6 +107,19 @@ para ampliarlo)**:
    cromática muy leve** sólo en los bordes de alto contraste del contraluz
    rojo, para imitar el look «gritty» de la 1.ª temporada que menciona
    Hayashi.
+6. **Grano**: una capa de ruido fino (2-3%, modo Superponer) sobre toda la
+   imagen ayuda a igualar el aspecto «gritty» de la temporada 1; para la
+   temporada 2 (más vibrante, según la misma entrevista) hay que bajarlo o
+   quitarlo y subir un poco la saturación. No encontré ninguna entrevista que
+   diga el filtro exacto que usa el estudio en fotografía (撮影): esto es una
+   receta para llegar al mismo resultado visual, no una copia de su proceso.
+
+**Qué programas usó el estudio**: no encontré ninguna entrevista que nombre
+el software de animación digital (Clip Studio Paint, RETAS, Toon Boom…) que
+usó MAPPA en Kakegurui ⚠️ — sólo confirmé que hay un CG Director en cada
+temporada (arriba) y la cita sobre cámara/luz de Hayashi. Busqué en japonés e
+inglés («撮影 賭ケグルイ», «Kakegurui RETAS OR Toon Boom OR Clip Studio») sin
+resultado; lo dejo en «No encontré» en vez de inventar un programa.
 
 **Encuadres y composición** (a partir de lo que ya está mirado en fotogramas,
 §2 y §18 de la biblia, más la idea de Hayashi de «pensar en cine»):
