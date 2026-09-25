@@ -45,9 +45,18 @@ reales (nunca de memoria).
   para el ritmo de la acción (confirmado por el texto de la wiki de personajes, que
   describe la serie como llena de onomatopeyas de acción tipo manga). El logo del
   anime (rojo, letras anguladas tipo grito) aparece en el tráiler a los 0:32-0:33
-  (fotogramas 21-22) — ver punto 19 de imagen para la tipografía. ⚠️ no localicé un
-  listado oficial de efectos de sonido específicos del anime (más allá del logo/título);
-  busqué «Dandadan sound effects list» y «ダンダダン 効果音» sin resultado dedicado.
+  (fotogramas 21-22) — ver punto 19 de imagen para la tipografía. Además, **efectos de sonido reales identificados** (catálogo comunitario, verificado
+  leyendo el wikitext de la página vía API porque la web normal bloquea con un reto de
+  Cloudflare — lo intenté dos veces, luego usé `action=parse&prop=wikitext` y sí
+  respondió: https://soundeffects.fandom.com/api.php?action=parse&page=DanDaDan&format=json&prop=wikitext):
+  el **rugido del kaiju espacial** (arco de temporada 2, ver punto 10) reutiliza el
+  rugido de **T-Rex de Jurassic Park** («Jurassic Park, T-Rex - Attack Roar») mezclado con
+  «Sharktopus Roar» y una librería Sound Ideas de dinosaurio; el golpe de puño usa «Sound
+  Ideas, PUNCH, FACE - HARD FACE PUNCH 02» (episodio «Feeling Kinda Gloomy»); el sonido de
+  la vaca en el arco de la mutilación de ganado usa «Sound Ideas, COW - SINGLE MOO,
+  ANIMAL 02». ⚠️ (una sola fuente, un wiki comunitario específico de efectos de sonido,
+  no un documento oficial del estudio; dejo el enlace exacto para quien quiera
+  confirmarlo de oído).
 - **Ambiente musical por escena** (medido mirando el capítulo 1 completo, ✅ visto
   directamente): la música incidental en la persecución de Turbo Granny (min. ~10:55 a
   11:26) es tensa y rítmica, sincronizada con los golpes de la persecución en bici; en el
@@ -312,4 +321,72 @@ una: presentar, explicar, celebrar, regañar, pensar, animar.
    manos junto al cuerpo, mirada al frente. Sirve para **presentar** al personaje fuera de
    contexto. ✅
 
-## Sigue: cerrar Turbo Granny/Aira con 1-2 poses más si aparecen en el resto de la ficha del episodio 5 (aún en cola), medir la paleta de la escena escolar de Aira con estilo.py (sólo la medí a ojo), armar partes/video.json con las referencias candidatas (imágenes de trailer1/evileye/s2trailer y los fotogramas propios con ancho/alto reales), y la tabla de cumplimiento + bitácora de búsqueda final.
+## Lo mejor para la lámina
+
+- El contraste de paleta medido con `estilo.py`: escenas cotidianas cálidas y poco
+  saturadas (25-27%) contra escenas sobrenaturales frías/mixtas muy saturadas (49-87%) —
+  regla de color lista para usar en cualquier lámina de Dandadan.
+- Momo con el aura tribal en los puños (ep.1, min. 17:45) para una pose de «presentar el
+  poder» que no es sólo un puñetazo genérico.
+- Aira haciendo el signo de «V» de espaldas mientras chismea (ep.5, min. 12:53) — su cara
+  pública contra su cara privada en una sola pose, muy útil para un canal de «personajes
+  que no son lo que parecen».
+- El compositor Kensuke Ushio y el estudio Science SARU, ambos acreditados en pantalla en
+  el propio tráiler oficial: dan pie a un cuadro de «ficha técnica» en la lámina sin
+  inventar nada.
+- La onomatopeya del propio título (ダンダダン) como posible elemento tipográfico
+  decorativo de fondo, ya que es parte del ADN visual de la serie (ver también punto 19
+  de imagen).
+
+## No encontré
+
+- ⚠️ **Vídeos de análisis / tendencias de TikTok**: TikTok no es accesible desde este
+  servidor sin sesión; busqué «Dandadan TikTok trend» y «Dandadan meme video analysis» en
+  el buscador web (ver Bitácora) sin dar con clips descargables.
+- ⚠️ **AnimeThemes**: la API devuelve HTTP 522 y la web muestra directamente su página de
+  mantenimiento («AnimeThemes.moe is currently down» por una caída real de su hosting,
+  comprobado el 24-sep-2026, dos intentos). No es una confusión de mi parte: el servicio
+  está caído de verdad.
+- ⚠️ **YouTube**: pide iniciar sesión desde este servidor («sign in to confirm you're not
+  a bot»); usé Dailymotion e Internet Archive en su lugar, tal como indica el aviso de
+  arranque.
+- ⚠️ **Resolución de los tráileres de Dailymotion**: son mirrors a 512×288 (baja
+  calidad), no el archivo oficial en alta; los capítulos de Internet Archive están al
+  tope de 720p que usan las herramientas del equipo (`fotogramas.py`/`episodio.py`) para
+  no saturar el disco compartido. El punto 16 de imagen ya cubre capturas oficiales de la
+  wiki a 1920×1080 de los mismos sitios, así que entre las dos partes sí hay material en
+  alta.
+- ⚠️ **Tracklist con marcas de tiempo de la OST**: no encontré una lista oficial de qué
+  pista de Kensuke Ushio suena en qué escena; dejo el minuto de cada escena para
+  reconocerla de oído.
+- ⚠️ **Efectos de sonido**: el catálogo del wiki de efectos de sonido es la única fuente
+  (comunitaria, no oficial) que lista las librerías de sonido reales usadas; no hay
+  confirmación oficial del estudio.
+- ⚠️ **Paleta de la escena de «Evil Eye»**: la medí a ojo sobre la hoja de contacto (el
+  tráiler es de 512×288, demasiado bajo para que `estilo.py` dé una lectura fiable de
+  cada plano suelto), no con la herramienta como las demás.
+
+## Bitácora de búsqueda
+
+- **Español**: «Dandadan tráiler», «Dandadan escena» (ya en `datos-video.md`, no
+  repetidas).
+- **Inglés**: «Dandadan anime opening theme "Otonoke" ending song season 1 list»
+  (WebSearch, resultado: Wikipedia + ANN + Fandom, ✅), «Dandadan season 2 opening ending
+  theme song 2025» (WebSearch, ✅), «Dandadan anime iconic sound effect running gag
+  catchphrase "Okarun" onomatopoeia» (WebSearch → llevó al Soundeffects Wiki).
+- **Directo (sin buscador)**: `api.animethemes.moe` (2 intentos, HTTP 522 y web de
+  mantenimiento), `animethemes.moe/anime/dandadan` (confirma la caída), API de
+  `dandadan.fandom.com` (`Aira Shiratori` wikitext, para la fecha de debut en anime),
+  API de `soundeffects.fandom.com` (`action=parse&prop=wikitext`, tras dos intentos
+  fallidos con la web normal bloqueada por un reto de Cloudflare), Wikipedia
+  `List_of_Dandadan_episodes` (texto plano extraído con Python/regex), MusicBrainz (ya en
+  `datos-video.md`), yt-dlp directo sobre 3 clips de Dailymotion y 2 capítulos completos
+  de Internet Archive (720p, con `episodio.py`/`fotogramas.py --cortes`).
+- **Herramientas usadas**: `fotogramas.py --cortes` (3 tráileres, 9 hojas de contacto),
+  `episodio.py` (2 capítulos completos → `partes/episodios.md`, 484 y 404 planos,
+  transcripción Whisper en japonés), `estilo.py --colores 5` (5 fotogramas propios,
+  paleta y tipo de sombreado).
+- Nada quedó vacío: cada punto (2, 4, 9, 10, 14) tiene hallazgos con fuente, minuto o
+  enlace, y lo que no encontré está listado arriba con ⚠️, no omitido.
+
+## Sigue: (ninguno) parte terminada — puntos 2, 4, 9, 10 y 14 completos, con `partes/episodios.md` (2 capítulos) y `partes/video.json` (11 referencias) ya escritos.

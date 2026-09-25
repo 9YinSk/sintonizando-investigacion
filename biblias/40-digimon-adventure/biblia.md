@@ -1326,3 +1326,220 @@ cita el *Character File Book* y el *Memorial Book*, pero sin esos
 campos. Agumon y Gabumon no tienen gustos documentados.
 
 ---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Las razones
+
+1. **La despedida.** LEVEL UP: *«incluso sin memoria directa del
+   episodio, ciertos elementos evocan una emoción cuyo origen muchos
+   fans no recuerdan»*. La escena pasó de generación en generación
+   ([LEVEL UP](https://www.levelup.com/noticias/la-aventura-digievoluciona-a-19-anos-de-la-emision-del-ultimo-episodio-de-digimon-adventure/) ✅).
+2. **Te identificas con un secundario.** Kari gana la encuesta oficial;
+   Matt supera al protagonista (§9) ✅.
+3. **Matt ayuda de verdad.** Una fan chilena con cáncer le escribió a
+   Uraz Huerta que Matt la ayudó a superarlo. Matt es perseverar en
+   silencio ([El Universal](https://www.eluniversal.com.mx/espectaculos/magia-de-digimon-toca-sus-actores/) ✅).
+4. **Las voces de la infancia vuelven.** Gerardo Meza dejó 15 años el
+   doblaje y volvió para *Kizuna* (2020) ✅.
+5. **Los Digimon hablan y piensan**, y digievolucionan por el **vínculo
+   emocional** con su niño («la Digivolución canaliza la energía
+   emocional del Niño Elegido», wikitext) ⚠️ sin reseña que lo diga así.
+6. Cifras en AniList: nota media **76**, popularidad **71 686**, **2599
+   favoritos** ✅.
+
+### 22.2 Las escenas que hacen llorar
+
+| Escena | Minuto | Qué pasa | Cómo está hecha | Música |
+|---|---|---|---|---|
+| **La despedida** (ep. 54) | IA-C, [13:28](https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x54%20-%20The%20Fate%20of%20Two%20Worlds%20(2).mp4?t=808) a [14:48](https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x54%20-%20The%20Fate%20of%20Two%20Worlds%20(2).mp4?t=868) | los niños vuelven a la Tierra sin sus Digimon. Matt toca la armónica ante Gabumon; Kari con el silbato; Mimi corre tras el tren | de día, en la playa; primeros planos: Matt con los ojos cerrados (13:28), Tai y Agumon abrazados (14:00), Sora con los ojos brillantes en el tren (14:28) | «Butter-Fly» de Kouji Wada, que el doblaje latino dejó en japonés (Doblaje Wiki ⚠️) |
+| **Tai pide perdón** (ep. 16) | IA-C, [19:40](https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x16%20-%20The%20Arrival%20of%20Skullgreymon%20%5Ba.k.a.%20The%20Arrival%20of%20Scar%20Greymon%5D.mp4?t=1180) | tras SkullGreymon, Tai abraza a Koromon, que se disculpa por el destrozo y lo perdona | mirada baja, cara apagada; Koromon le sujeta la cara (19:00) | ⚠️ sin dato |
+| **Matt y Gabumon en la cueva** (ep. 51) | IA-C, [5:25](https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=325) a [9:00](https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=540) | Matt se aísla, echa a Gabumon; al final se abrazan y se prometen ser amigos para siempre | cueva **oscura**; Matt encogido abrazándose las rodillas | ⚠️ sin dato |
+
+### 22.3 Las que hacen gritar de emoción
+
+- **La primera digievolución** de Agumon en Greymon: destello blanco,
+  cartela, campanas (IA-V1, ~38:20).
+- **Omnimon**: WarGreymon y MetalGarurumon se funden ([x405gc9](https://www.dailymotion.com/video/x405gc9), metraje de *02*).
+- **Tai le pega a Matt** en *tri.* ([x5zbgmg](https://www.dailymotion.com/video/x5zbgmg), 0:54): la más comentada y polémica.
+
+### 22.4 Las que hacen reír ⚠️
+
+Poco en las partes: Tai presumiendo el pez ante un Matt escéptico
+(IA-V1, 48:00) y los pósters de broma de April Fool (§3).
+
+### 22.5 Cómo reaccionó la gente ⚠️
+
+**Sin comentarios con más votos ni vídeos de reacción**: en Arctic
+Shift, «cry» no dio resultados válidos y «goodbye» dio *timeout*;
+YouTube y TikTok, bloqueados.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+- **Covers del opening en español**, con el título «**Si Tú Lo
+  Deseas**»: [David Delgado](https://www.youtube.com/watch?v=n_UaGJmKa_U),
+  César Franco y Claudio Carrizo ⚠️ **sin vistas** (YouTube pide
+  iniciar sesión; sólo catalogados por título).
+- **Fandub latino de *tri.*** (Gomamon), canal Jose Alejandro, 166
+  vistas ([Dailymotion](https://www.dailymotion.com/video/x3y8eso)) ✅.
+- **Tendencia de TikTok** «esta será la última digievolución» (§12.3) ⚠️.
+- **«Digi-Rap» en español** en comerciales de juguetes de 2001-2002: la
+  serie nunca lo usó (Doblaje Wiki ⚠️).
+- **La comunidad todavía lo celebra**: Toei Animation LA felicitó a
+  Uraz Huerta ([X](https://x.com/ToeiAnimationLA/status/1796360947251982648));
+  prensa de México (El Universal, LEVEL UP) y Argentina (AnimeArgentina);
+  en 2021 **La Tele de Paraguay** estrenó un máster remasterizado con
+  textos en español (Doblaje Wiki).
+- ⚠️ **Sin parodias ni memes hispanos concretos**: TikTok sin cuenta y
+  sin foros hispanos de doblaje en las partes.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Colaboraciones
+
+| Qué | Cuándo y dónde | Fuente |
+|---|---|---|
+| **Hypland × Digimon** (ropa de calle): sudaderas, chaquetas acolchadas y camisetas con Agumon, Gabumon, Greymon, Angewomon, Biyomon, Palmon | EE. UU., catálogo activo | [hypland.com](https://hypland.com/collections/digimon) + [Toy People](https://www.toy-people.com/en/?p=107062) ✅ |
+| **Animate Cafe** de Seúl-Hongdae: 8 bebidas, una por pareja (Tai y Agumon: naranja con perlas de fresa; Matt y Gabumon: curaçao azul y lichi), posavasos, galletas, latte con dibujo | 5-jun a 7-jul-2026, Corea | [With the Will](https://withthewill.net/threads/digimon-adventure-collaboration-at-animate-cafe-in-korea-starting-june-5th-new-art-drinks-cookies-more.36204/) ⚠️ una fuente, con menú y precios |
+| **LB Pop-Up Theater «デジモンショップ Part2»**: arte de grupo nuevo con *Adventure*, *02* y *Tamers* | Shibuya PARCO, 21-feb a 16-abr-2020 | nº 16 de `objetos_01.jpg` ⚠️ (la imagen) |
+| **Café de *Last Evolution Kizuna*** | Tokio y Osaka, feb-2020 | [Anime Anime Global](https://animeanime.global/2020/01/31/51239.html) ⚠️ |
+| **Bandai × BEAMS**: camisetas por *tri.* | Japón, 2015 | ⚠️ repost en Tumblr; la nota original ya no está |
+| **Uniqlo**: mascota virtual con forma de Digivice | — | ⚠️ sólo anuncios de reventa |
+| Ropa con Digimon de la marca «@Cuidadoconelperro», menos de 99 pesos | México, sep-2024 | El Heraldo de México ⚠️ (no dice si es licencia oficial) |
+
+**Sin Fortnite ni gachas ajenos**: buscado en inglés y japonés
+(«デジモン フォートナイト コラボ»), sin resultado. Digimon tiene sus
+propios juegos de gacha (*ReArise*).
+
+### 24.2 Figuras (referencia de pose en 3D)
+
+- **Tamashii Nations «Digivolving Spirits 01»**: Agumon que se
+  transforma en WarGreymon, 155 mm ([ficha oficial](https://www.shfiguarts.com/products/detail/7160/) ✅).
+- **MegaHouse G.E.M.**: Tai y Agumon juntos, en acción ([Amazon](https://www.amazon.com/Megahouse-Digimon-Adventure-Kamiya-Taichi/dp/B00FQCWHL2) ⚠️).
+- **Matt con Gabumon a la espalda** y **S.H.Figuarts MetalGarurumon**:
+  fotos con licencia libre (§4.2).
+
+### 24.3 Cosplay bien hecho
+
+- **WarGreymon en goma EVA**, armadura completa con volumen real, de
+  u/TDR1411 ([ComicBook](https://comicbook.com/anime/news/digimon-adventure-wargreymon-anime-cosplay/) ✅).
+- **Tai con un Agumon de tela** ([ComicBook](https://comicbook.com/anime/news/digimon-cosplay-tai-agumon-bromance/) ⚠️ mismo medio).
+- Angewomon y Lillymon con alas de volumen real; Wizardmon con capa;
+  Tai de *tri.* y Kari (Flickr, §4.2).
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Parecidas, según la comunidad de AniList ✅
+
+Pokémon (79 votos), Digimon Tamers (50), Digimon Frontier (29),
+Yu-Gi-Oh! (21), Monster Rancher (19), Medabots (12), Dinosaur King
+(12), Beyblade (8). Todas: **niño + criatura compañera que se
+transforma**.
+
+### 25.2 Influencias ✅
+
+- **Tamagotchi**: «Akiyoshi Hongo», el creador acreditado, es un
+  seudónimo colectivo que incluye a **Aki Maita** (cocreadora del
+  Tamagotchi), a **Hiroshi Izawa** (autor del manga *V-Tamer*) y a
+  **Takeichi Hongo** (marketing de Bandai) ([wiki](https://digimon.fandom.com/wiki/Akiyoshi_Hongo) + búsqueda web ✅).
+  El ADN de Digimon es **criar y cuidar**, no sólo coleccionar.
+- **Cómics infantiles americanos**: los reconoce Kenji Watanabe (§19) ✅.
+- **Frente a Pokémon**, lo que más repite el fandom: los Digimon
+  **hablan y razonan** y digievolucionan **por el vínculo, y no para
+  siempre**. ⚠️ Sin reseña o entrevista que lo diga así; sólo el
+  wikitext de *Digivolution* lo apoya. [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonAdventure)
+  dio 403.
+- No hay entrevista de Izawa o del equipo Hongo con otras influencias
+  en las partes ⚠️.
+
+### 25.3 Láminas vecinas del servidor (para no repetir)
+
+Comprobado con `grep` en las demás biblias (24-sep-2026). La parte de
+texto decía que no había lámina de Pokémon: **sí la hay** (§28).
+
+| Biblia | Canal | Qué hay que no repetir |
+|---|---|---|
+| **Pokémon (07)** | #autoroles | «La Pokédex en la Ruta 1»: una ficha de criatura. El concepto C (el Analyzer) **no puede parecer una Pokédex**: pantalla oscura con rejilla y cápsula de color, nada de aparato rojo |
+| **Demon Slayer (31)** | propone #que-estas-escuchando de 2.ª opción | «Zenko y el shamisen»: **otro personaje con instrumento**. Si el dueño le da ese canal a Demon Slayer, el concepto A repetiría la idea |
+| **Jujutsu Kaisen (32)** | propone 🍟 General de 2.ª opción | «¡Salmón!» (Inumaki y sus palabras de onigiri): otra idea, no choca en lo visual |
+| **Sailor Moon (38)** y **Saint Seiya (39)** | varios | las otras dos series de Toei de los 90 del lote D: cuidado con repetir pósters de grupo |
+| Dragon Ball (`_ya_hechas`) | — | otra de Toei; no hay otras de Yu-Gi-Oh!, Beyblade ni Monster Rancher |
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. El **Mundo Digital** es un universo paralelo **hecho de datos**,
+   nacido de las redes de telecomunicaciones de la Tierra.
+2. Copia la geografía de la Tierra, pero es **maleable**: se puede
+   levantar una montaña o deshacer una isla en segundos.
+3. Lo habitan los **Digimon**, criaturas de datos conscientes, que a
+   veces cruzan al Mundo Real por portales.
+4. Casi nadie en la Tierra sabe que existe.
+5. Está ligado al **inconsciente colectivo**: hay Digimon con forma de
+   seres del folclore.
+
+(Wikitext de *Digital World* y de la página de la serie.)
+
+### 26.2 La historia por arcos ✅
+
+| Arco | Episodios | Qué pasa | Momento clave |
+|---|---|---|---|
+| **Isla File** | 1-13 | siete niños de un campamento de verano cruzan al Mundo Digital con sus Digivices; conocen a sus compañeros; Devimon | la primera digievolución (ep. 2) |
+| **Etemon** | 14-20 | cruzan al **Continente Server**; buscan sus **Emblemas** uno a uno; Andromon ayuda | **SkullGreymon** (ep. 16) |
+| **Myotismon** | 21-39 | Myotismon invade la Tierra por **Odaiba**; aparece la octava niña, **Kari**, con Gatomon y el Emblema de la Luz; cae VenomMyotismon | Sora y su Emblema del Amor (ep. 26) |
+| **Los Amos Oscuros** | 40-53 | de vuelta al Mundo Digital, derrotan a MetalSeadramon, Puppetmon, Machinedramon y Piedmon | Matt en la cueva (ep. 51) |
+| **Apocalymon** | 54 | Apocalymon, que creó a los villanos con el odio de los Digimon destruidos, cae; los niños vuelven **sin sus compañeros** | **la despedida** |
+
+### 26.3 Objetos y emblemas que un fan reconoce al instante
+
+- **Los 8 Emblemas** (紋章, *monshō*), cada uno en su **Etiqueta**
+  colgada al cuello. Forma según la wiki y color según la versión 2020
+  (⚠️ a ojo):
+
+| Emblema | Quién | Forma | Color (2020) |
+|---|---|---|---|
+| **Valor** | Tai | sol de puntas | naranja |
+| **Amistad** | Matt | remolino con forma de ala | azul |
+| **Amor** | Sora | corazón con espiral | rojo |
+| Sinceridad (la parte también dice «Pureza») | Mimi | gota | verde |
+| Conocimiento | Izzy | gafas con un cristal más grande | violeta |
+| Fiabilidad (la parte también dice «Sinceridad») | Joe | cruz con cuatro triángulos | blanco |
+| Esperanza | T.K. | estrella fugaz | amarillo |
+| Luz | Kari | estrella | magenta |
+
+- **Etiqueta dorada** de recuerdo con el Emblema grabado (nº 12-13 de
+  `personajes_01.jpg`) y en 3D (§4.1). En la tarta de Flickr, azul con
+  el Emblema del Valor dorado (§4.2).
+- **Digivice**: canaliza la emoción del niño para digievolucionar (nº 3
+  de `objetos_01.jpg`).
+- **Las goggles** de Tai, la **armónica** de Matt, el **silbato** de
+  Kari, el **portátil «PiBook»** de Izzy.
+- **Objetos humanos en la naturaleza**: teléfonos públicos (IA-V1,
+  30:00), cartel de tráfico (45:00), televisores de Binary Castle, vías
+  de Railroad Plains.
+- **El Digimon Analyzer** (§7).
+- El origen: **mascota virtual** de bolsillo (Digimon Twin, nº 15 de
+  `objetos_01.jpg`).
+
+### 26.4 El vocabulario propio ✅
+
+- **Digievolución** (進化, *shinka*): **Bebé** (幼年期I) → **En
+  entrenamiento** (幼年期II) → **Novato** (成長期) → **Campeón**
+  (成熟期) → **Máximo** (完全体, «forma perfecta») → **Mega** (究極体,
+  «forma definitiva»). ⚠️ Los nombres de nivel en el doblaje latino no
+  están en las partes; el narrador dice «Digimon **adulto**» (§10.4) y
+  Doblaje Wiki habla de «nivel **perfeccionado**».
+- **Niños Elegidos** (DigiDestined), **Digimundo**, **Mundo Real**,
+  **Continente Server**, **Isla File**, **Montaña Espiral**, **DigiCore**
+  (el núcleo de datos de un Digimon).
+
+---
