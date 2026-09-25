@@ -8,7 +8,18 @@ fecha: 2026-09-24
 # Biblia · Chainsaw Man — para #que-estas-viendo
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada: `community.fandom.com` daba
+> - **Segunda pasada (25-sep-2026), con la red abierta.** La hizo un
+>   equipo: 4 investigadores (imagen, vídeo, voz, texto) y un redactor.
+>   Se pudo usar: la API de la wiki de Fandom (tamaños reales, wikitext),
+>   Doblaje Wiki por su API, AniList, la API de Sketchfab (licencias),
+>   Internet Archive y Dailymotion para **mirar de verdad** la película y
+>   los episodios con `fotogramas.py` (YouTube seguía pidiendo iniciar
+>   sesión), `estilo.py` para **medir colores** en fotogramas y en arte
+>   oficial, CGWORLD y Crank-in! en japonés, y las 3 hojas de contacto de
+>   `hojas/`. Lo que cambió está en «Segunda pasada · qué cambió», justo
+>   debajo. Lo que sigue es la primera pasada (24-sep), corregida en su
+>   sitio donde las partes nuevas decían otra cosa.
+> - Primera pasada: la red de esta sesión estaba cerrada: `community.fandom.com` daba
 >   **000/403**, y también Doblaje Wiki, YouTube, Somos Kudasai y casi todo
 >   lo demás por WebFetch. Por eso **no se pudo correr**
 >   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
@@ -36,7 +47,11 @@ fecha: 2026-09-24
 > [!warning] Una corrección al plan
 > El plan dice «butacas de cine y entradas (**la cita del ep. 8**)». La cita
 > en el cine **no está en el episodio 8** ni en la temporada 1 del anime:
-> - En el **manga** es el **capítulo 39** ✅ (tomo 5 ⚠️, de memoria)
+> - Es una cita de **Denji con Makima**, no con Reze ✅ (wikitext del
+>   capítulo 39 y la película vista fotograma a fotograma). Reze aparece
+>   después, en la cabina de teléfono.
+> - En el **manga** es el **capítulo 39**, «Tearjerker» (きっと泣く), primer
+>   capítulo del arco de la Chica Bomba ✅ (tomo 5 ⚠️, de memoria)
 >   ([Chainsaw Man Wiki: Chapter 39](https://chainsaw-man.fandom.com/wiki/Chapter_39),
 >   [Sequential Planet](https://sequentialplanet.com/manga-review-chainsaw-man-chapter-39/),
 >   [Top Level Canon](https://www.toplevelcanon.com/reviews/chainsaw-man-39-43-part-one)).
@@ -53,6 +68,12 @@ fecha: 2026-09-24
 >
 > El objeto (butacas y entradas) **sirve y es el mejor posible** para este
 > canal. Sólo cambia de dónde sale: de la película, no del ep. 8.
+
+---
+
+## Segunda pasada · qué cambió
+
+_(se rellena en esta pasada)_
 
 ---
 
@@ -261,6 +282,12 @@ va con su enlace para que se baje en el PC.
   una.
 - **Hojas de modelo** del anime y de la película.
 - **Fotogramas** mirados por mí: todo sale de subtítulos y artículos.
+
+---
+
+## 3A · Las hojas de contacto (qué número sirve)
+
+_(se rellena en esta pasada)_
 
 ---
 
@@ -1030,6 +1057,54 @@ de fans como referencia de estilo.
 
 ---
 
+## 18A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18B · Texturas 2D (punto 19)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18C · Gustos y detalles de cada personaje (punto 20)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18D · Por qué la gente la ama (punto 21)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18E · Fan dubs y comunidad hispana (punto 22)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18F · Colaboraciones, figuras y cosplay (punto 23)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18G · Obras parecidas y temas relacionados (punto 24)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18H · El mundo, la historia y sus símbolos (punto 25)
+
+_(se rellena en esta pasada)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #que-estas-viendo
 
 Los tres usan **el subtítulo de cine** como cuadro de diálogo (§7.2) y
@@ -1142,6 +1217,12 @@ fácil de leer en el celular.
 - **Cine real** que sirvió de modelo a la sala.
 - **Reddit** (bloqueado para la búsqueda), **The Cutting Room Floor**
   (no hay juego publicado) y **Wayback Machine** (no me quedó cupo).
+
+---
+
+## Cumplimiento del encargo
+
+_(se rellena en esta pasada)_
 
 ---
 
