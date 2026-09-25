@@ -1,9 +1,10 @@
 name: Lote con la Max
+run-name: "Lote ${{ inputs.lote || 'todos los activos' }} (${{ github.event_name == 'schedule' && 'cron' || 'lanzada' }})"
 # Un jefe de lote trabajando ~5 h 20 por vuelta en una máquina de GitHub, con
-# la suscripción Max del dueño (secreto CLAUDE_CODE_OAUTH_TOKEN, sacado con
-# `claude setup-token`). Al terminar lanza la vuelta siguiente si su letra
-# sigue en .github/lotes-activos. (Antes fue con MWAPI: el 25-sep-2026 se
-# quemaron 500 USD en 2 h, sin caché y a doble tarifa.)
+# la suscripción Max del dueño: el secreto CLAUDE_CODE_OAUTH_TOKEN, que se crea
+# en la PC con «MAX EN GITHUB.cmd» (corre `claude setup-token`; vale un año).
+# Al terminar, cada lote lanza su vuelta siguiente si su letra sigue en
+# .github/lotes-activos. Sin el secreto no arranca nada (el run avisa y ya).
 # Para pararlo: quitar la letra de ese archivo (la vuelta en curso termina y
 # no se lanza otra) o cancelar el run en la pestaña Actions.
 
@@ -11,12 +12,13 @@ on:
   workflow_dispatch:
     inputs:
       lote:
-        description: "Letra del lote"
-        required: true
-        default: "G"
+        description: "Letra del lote (vacío = todos los de .github/lotes-activos)"
+        required: false
+        default: ""
   schedule:
-    # Red de seguridad por si una vuelta no encadena: el cron de GitHub llega
-    # tarde, pero la concurrencia impide que se pisen dos vueltas del mismo lote.
+    # Red de seguridad por si una vuelta no encadena, y reintento cuando la
+    # cuenta topa un límite largo: el cron de GitHub llega tarde, pero la
+    # concurrencia impide que se pisen dos vueltas del mismo lote.
     - cron: "23 */3 * * *"
 
 permissions:
@@ -29,19 +31,25 @@ jobs:
     outputs:
       lotes: ${{ steps.l.outputs.lotes }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           sparse-checkout: .github
       - id: l
         env:
           PEDIDO: ${{ github.event.inputs.lote }}
+          HAY_PASE: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
         run: |
           activos=$(tr -cs 'A-Za-z' '\n' < .github/lotes-activos | tr a-z A-Z | grep -xE '[A-Z]' | sort -u || true)
           if [ -n "$PEDIDO" ]; then
-            p=$(echo "$PEDIDO" | tr a-z A-Z)
+            p=$(echo "$PEDIDO" | tr -d ' ' | tr a-z A-Z)
             lista=$(echo "$activos" | grep -x "$p" || true)
+            [ -n "$lista" ] || echo "::warning::El lote $p no está en .github/lotes-activos: no lo lanzo."
           else
             lista="$activos"
+          fi
+          if [ -n "$lista" ] && [ "$HAY_PASE" != "true" ]; then
+            echo "::warning::Falta el secreto CLAUDE_CODE_OAUTH_TOKEN: no lanzo ningún lote. En la PC: doble clic en «MAX EN GITHUB» (escritorio) y pega el pase."
+            lista=""
           fi
           echo "lotes=$(echo "$lista" | python3 -c 'import sys,json; print(json.dumps([l.strip() for l in sys.stdin if l.strip()]))')" >> "$GITHUB_OUTPUT"
           echo "activos: $(echo $activos) | esta vez: $(echo $lista)"
@@ -62,14 +70,7 @@ jobs:
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
     steps:
-      - name: Pase de la cuenta Max
-        run: |
-          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
-            echo "::error::Falta el secreto CLAUDE_CODE_OAUTH_TOKEN (en la PC: MAX EN GITHUB.cmd)"
-            exit 1
-          fi
-
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -96,15 +97,26 @@ jobs:
         if: success() || failure()
         env:
           GH_TOKEN: ${{ github.token }}
+          L: ${{ matrix.lote }}
         run: |
-          if [ ! -f /tmp/vuelta-ok ]; then
-            echo "Esta vuelta no llegó a trabajar 30 minutos: no encadeno otra (la red de seguridad lo reintenta)."
+          git fetch -q origin main
+          if [ -f /tmp/lote-terminado ]; then
+            # El lote acabó todas sus series: se quita solo de la lista para que
+            # el cron no lo vuelva a lanzar (en una copia aparte de main).
+            git worktree add -q /tmp/main origin/main
+            sed -i "/^[[:space:]]*${L}[[:space:]]*$/Id" /tmp/main/.github/lotes-activos
+            git -C /tmp/main add .github/lotes-activos
+            git -C /tmp/main commit -q -m "Lote $L terminado: fuera de .github/lotes-activos" && git -C /tmp/main push -q origin HEAD:main || true
+            echo "El lote $L terminó todas sus series."
             exit 0
           fi
-          git fetch -q origin main
-          if git show origin/main:.github/lotes-activos | tr -cs 'A-Za-z' '\n' | tr a-z A-Z | grep -qx "${{ matrix.lote }}"; then
-            gh workflow run lote.yml --ref main -f lote=${{ matrix.lote }}
-            echo "Lanzada la vuelta siguiente del lote ${{ matrix.lote }}"
+          if [ ! -f /tmp/vuelta-ok ]; then
+            echo "Esta vuelta no encadena otra (el motor dijo por qué); la red de seguridad lo reintenta cada 3 h."
+            exit 0
+          fi
+          if git show origin/main:.github/lotes-activos | tr -cs 'A-Za-z' '\n' | tr a-z A-Z | grep -qx "$L"; then
+            gh workflow run lote.yml --ref main -f lote="$L"
+            echo "Lanzada la vuelta siguiente del lote $L"
           else
-            echo "El lote ${{ matrix.lote }} ya no está en .github/lotes-activos: no sigo."
+            echo "El lote $L ya no está en .github/lotes-activos: no sigo."
           fi
