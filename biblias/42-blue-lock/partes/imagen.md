@@ -253,3 +253,90 @@ estadios de los partidos). Se investigó a fondo el único gran "lugar":
   cosplay" en Openverse son resultados de hardware real (candados azules), no
   de la serie
 
+## Lo mejor para la lámina
+
+- El **exterior del edificio Blue Lock** (captura oficial, azul intenso de
+  noche/día despejado) como fondo/objeto real: encaja con la regla del dueño
+  de "objeto real en un sitio real", y el plano de planta permite construirlo
+  en Blender con precisión (pentágono, 5 estratos).
+- **Isagi o Rin con el bodysuit oficial** (negro + raya azul/gris, hex ya
+  medido) en pose de juego, nunca de pie parado: hay fan art de alta puntuación
+  y el propio modelo oficial "anime design" para la silueta exacta.
+- La colaboración **REMATCH × Blue Lock** (recién lanzada, 24-sep-2026) trae
+  arte fresco de los 4 personajes del encargo — vale la pena para una lámina 2
+  o para un aviso al dueño de que hay contenido oficial nuevo esta semana.
+- El **logo "BLUE LOCK"** (diamante verde con cadena) tal cual aparece en la
+  fachada del edificio es el emblema más reconocible de la serie para un
+  detalle de fondo o esquina de la lámina.
+- El **balón con el patrón oficial** (modelo 3D de Sketchfab + textura de
+  cuero de ambientCG) es el objeto más simple y icónico para poner "en la mano
+  o a los pies" del personaje.
+
+## No encontré
+
+- ⚠️ Cuenta atrás/countdown boards de aniversario (los que sí buscó pero no
+  encontró para otras series): no aparecieron en la wiki ni en Danbooru;
+  búsquedas hechas: `srsearch=countdown` en la wiki (sin resultados) y
+  "Blue Lock countdown board" en Google. Puede que esta franquicia no use ese
+  formato promocional.
+- ⚠️ Escudos/emblemas sueltos de los equipos de fantasía (Manshine City, Paris
+  X Gen, FC Barcha, Ubers, Arsenaly): no hay archivo de imagen subido a la
+  wiki en inglés; sólo aparecen dentro de viñetas de manga. Búsqueda hecha:
+  `list=allimages&aiprefix=Manshine` y `aiprefix=Team` (sin coincidencias
+  útiles).
+- ⚠️ Nendoroid oficial de Nagi o de Rin: no se encontró en la búsqueda hecha
+  (Good Smile, AmiAmi); puede que sólo existan en prize figures/figuras de
+  premio no numeradas, no confirmado por falta de tiempo.
+- ⚠️ Licencia exacta de los paquetes de screentone gratuitos citados en el
+  punto 19 (existen y cargan, pero su página no deja claro el término de uso
+  comercial).
+- ⚠️ Fecha y ciudad exactas de las colaboraciones Treevillage Cafe y JR
+  Central: sólo confirmadas por el cartel de la propia wiki, sin una segunda
+  fuente (no dio tiempo a buscar en prensa japonesa).
+
+## Bitácora de búsqueda
+
+- Wiki de Fandom (`bluelock.fandom.com/api.php`, inglés): imageinfo de
+  personajes, edificio, película live-action; `list=search` para
+  "collaboration/crossover", "facility stadium location"; `list=allimages`
+  con prefijos "Blue Lock LA", "Team", "Manshine"; wikitext de la página
+  "Blue Lock" (la instalación) y de las 4 fichas de personaje (ya en
+  `datos-imagen.md`).
+- Danbooru (`danbooru.donmai.us`, `posts.json` y `related_tag.json`, inglés):
+  tag correcto de Rin Itoshi (`itoshi_rin`, no "rin_itoshi" como probó el
+  recolector) — corrige un hueco real del recolector automático.
+- Safebooru (`safebooru.org/index.php?page=dapi`, inglés): fan art de Rin
+  Itoshi por puntuación (`itoshi_rin sort:score`).
+- Sketchfab (`api.sketchfab.com/v3/search`, inglés): "soccer ball", "blue lock
+  stadium", "blue lock facility" (sí había resultados fan-made, corregido tras
+  un primer intento fallido con otra frase); Poly Haven (`api.polyhaven.com`)
+  para confirmar que no tiene assets de la franquicia.
+- ambientCG (`ambientcg.com/api/v2/full_json`, inglés): concrete, metal,
+  grass, leather, fabric, paper — todas licencia CC0.
+- Wallhaven (`wallhaven.cc/api/v1/search`, inglés): búsqueda por texto "Blue
+  Lock" en vez de sólo `id=` (la del recolector traía ruido de Madoka Magica y
+  Chrono Cross por coincidencia de tags genéricos).
+- Web (WebSearch, inglés y japonés): "Blue Lock eFootball collaboration 2023
+  official"; "Blue Lock official figure Nendoroid Union Creative"; "Blue
+  Lock video game PS4 Switch Have a Dream" (sin resultado, corregido con
+  búsqueda en japonés "ブルーロック ゲーム アプリ 公式"); "REMATCH game Blue
+  Lock collaboration training pack Steam"; "Blue Lock Sanrio collaboration
+  2023 goods"; "Blue Lock Umamusume collaboration crossover" (confirmó que NO
+  existe); "Blue Lock Ado chando collaboration song"; "Blue Lock live action
+  movie 2026 poster cast official image"; "ブルーロック EGOIST BIBLE
+  キャラクターブック 公式"; "free manga screentone brushes CC0 halftone".
+- Steam (`store.steampowered.com/api/appdetails`, inglés): ficha de REMATCH:
+  BLUE LOCK TRAINING PACK (app 4868930).
+- Openverse (`api.openverse.org/v1/images`, inglés): "Blue Lock cosplay" (la
+  búsqueda genérica del recolector sólo traía fotos de candados reales).
+- Se miraron con Read (no sólo se leyeron datos): las 15 hojas de contacto ya
+  generadas por el recolector (`herramientas/referencias/blue-lock/hoja_01..15.jpg`,
+  687 imágenes de la wiki), más 8 imágenes sueltas bajadas para medir color
+  con `estilo.py` (edificio, plano de planta, 4 modelos de uniforme, 1 key
+  visual, 1 fondo de cancha, 1 cosplay).
+
+**Parte terminada**: los 6 puntos (1, 3, 15, 16, 19, 23) tienen dato con fuente
+y al menos una imagen mirada. Lo que falta son extras marcados con ⚠️ arriba
+en «No encontré» (escudos sueltos de equipos de fantasía, fecha exacta de dos
+colaboraciones, licencia de un paquete de screentone, Nendoroid de Nagi/Rin),
+ninguno bloquea la lámina.
