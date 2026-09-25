@@ -4,39 +4,39 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
 **«Elden Ring opening»**
-- Elden Ring - Malenia · 4:16 · JeuxVideo.com · 83196 vistas · https://www.dailymotion.com/video/x89wlj1
-- Elden Ring Trailer · 2:59 · MeinMMO · 17717 vistas · https://www.dailymotion.com/video/x8k9aab
+- VT Elden Ring · 8:47 · JeuxVideo.com · 318317 vistas · https://www.dailymotion.com/video/x89nydl
 - Elden Ring - Margit · 3:31 · JeuxVideo.com · 15841 vistas · https://www.dailymotion.com/video/x89nzu4
-- Elden Ring - Godrick · 3:08 · JeuxVideo.com · 15609 vistas · https://www.dailymotion.com/video/x89nz00
-- Elden Ring - Rennala · 5:05 · JeuxVideo.com · 15340 vistas · https://www.dailymotion.com/video/x89nyhu
-- Elden Ring - Morgott · 2:05 · JeuxVideo.com · 13409 vistas · https://www.dailymotion.com/video/x89wlou
-**«Elden Ring ending»**
-- VT Elden Ring · 8:47 · JeuxVideo.com · 318290 vistas · https://www.dailymotion.com/video/x89nydl
-- Elden Ring Update · 1:08 · JeuxVideo.com · 255343 vistas · https://www.dailymotion.com/video/x8g4wij
-- Elden Ring - Mohg · 2:32 · JeuxVideo.com · 35019 vistas · https://www.dailymotion.com/video/x89wlo1
-- Elden Ring - Radahn · 2:27 · JeuxVideo.com · 25164 vistas · https://www.dailymotion.com/video/x89nzty
-- Elden Ring - Margit · 3:31 · JeuxVideo.com · 15841 vistas · https://www.dailymotion.com/video/x89nzu4
-- Elden Ring - Rennala · 5:05 · JeuxVideo.com · 15340 vistas · https://www.dailymotion.com/video/x89nyhu
-**«Elden Ring trailer»**
-- elden ring - story trailer · 3:50 · JeuxVideo.com · 3635941 vistas · https://www.dailymotion.com/video/x89nx9b
-- ELDEN RING - Accolades Trailer · 0:30 · JeuxVideo.com · 420641 vistas · https://www.dailymotion.com/video/x89p7l4
-- Elden Ring : Trailer de gameplay · 2:59 · MGG France · 250087 vistas · https://www.dailymotion.com/video/x84nwis
-- Elden Ring - Tráiler de Lanzamiento · 2:35 · MGG Spain · 133943 vistas · https://www.dailymotion.com/video/x885r01
-- Elden Ring Trailer · 2:59 · MeinMMO · 17717 vistas · https://www.dailymotion.com/video/x8k9aab
-- Elden Ring - Trailer · 6:29 · xataka · 15106 vistas · https://www.dailymotion.com/video/x8837gv
-**«Elden Ring escena»**
-- VT Elden Ring · 8:47 · JeuxVideo.com · 318290 vistas · https://www.dailymotion.com/video/x89nydl
-- Elden Ring - Malenia · 4:16 · JeuxVideo.com · 83196 vistas · https://www.dailymotion.com/video/x89wlj1
-- Elden Ring Trailer · 2:59 · MeinMMO · 17717 vistas · https://www.dailymotion.com/video/x8k9aab
-- Elden Ring - Margit · 3:31 · JeuxVideo.com · 15841 vistas · https://www.dailymotion.com/video/x89nzu4
-- Elden Ring - Rennala · 5:05 · JeuxVideo.com · 15340 vistas · https://www.dailymotion.com/video/x89nyhu
+- Elden Ring - Rennala · 5:05 · JeuxVideo.com · 15341 vistas · https://www.dailymotion.com/video/x89nyhu
 - ELDEN RING · 10:05 · Level Up · 6102 vistas · https://www.dailymotion.com/video/x8x1p5e
+- Elden Ring - Pat · 2:35 · JeuxVideo.com · 1990 vistas · https://www.dailymotion.com/video/x89nzuc
+- Elden Ring - Esgar · 1:26 · JeuxVideo.com · 1744 vistas · https://www.dailymotion.com/video/x89nyki
+**«Elden Ring ending»**
+- VT Elden Ring · 8:47 · JeuxVideo.com · 318317 vistas · https://www.dailymotion.com/video/x89nydl
+- Elden Ring - Malenia · 4:16 · JeuxVideo.com · 83198 vistas · https://www.dailymotion.com/video/x89wlj1
+- Elden Ring - Mohg · 2:32 · JeuxVideo.com · 35023 vistas · https://www.dailymotion.com/video/x89wlo1
+- Elden Ring Trailer · 2:59 · MeinMMO · 17718 vistas · https://www.dailymotion.com/video/x8k9aab
+- Elden Ring - Margit · 3:31 · JeuxVideo.com · 15841 vistas · https://www.dailymotion.com/video/x89nzu4
+- Elden Ring - Rennala · 5:05 · JeuxVideo.com · 15341 vistas · https://www.dailymotion.com/video/x89nyhu
+**«Elden Ring trailer»**
+- elden ring - story trailer · 3:50 · JeuxVideo.com · 3636312 vistas · https://www.dailymotion.com/video/x89nx9b
+- ELDEN RING - Accolades Trailer · 0:30 · JeuxVideo.com · 420662 vistas · https://www.dailymotion.com/video/x89p7l4
+- Elden Ring : Trailer de gameplay · 2:59 · MGG France · 250104 vistas · https://www.dailymotion.com/video/x84nwis
+- Elden Ring Trailer · 2:59 · MeinMMO · 17718 vistas · https://www.dailymotion.com/video/x8k9aab
+- Elden Ring - Trailer · 6:29 · xataka · 15106 vistas · https://www.dailymotion.com/video/x8837gv
+- ELDEN RING – Trailer general · 6:29 · Vidaextra · 9794 vistas · https://www.dailymotion.com/video/x881yys
+**«Elden Ring escena»**
+- Elden Ring Update · 1:08 · JeuxVideo.com · 255364 vistas · https://www.dailymotion.com/video/x8g4wij
+- Elden Ring - Malenia · 4:16 · JeuxVideo.com · 83198 vistas · https://www.dailymotion.com/video/x89wlj1
+- Elden Ring - Mohg · 2:32 · JeuxVideo.com · 35023 vistas · https://www.dailymotion.com/video/x89wlo1
+- Elden Ring - Radahn · 2:27 · JeuxVideo.com · 25169 vistas · https://www.dailymotion.com/video/x89nzty
+- Elden Ring Trailer · 2:59 · MeinMMO · 17718 vistas · https://www.dailymotion.com/video/x8k9aab
+- Elden Ring - Margit · 3:31 · JeuxVideo.com · 15841 vistas · https://www.dailymotion.com/video/x89nzu4
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_

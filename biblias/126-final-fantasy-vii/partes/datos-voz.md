@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
 
 ## Doblaje latino: ficha de «Final Fantasy XVI» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI_
@@ -110,49 +110,19 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI#Datos%20de%20inter
 - Octavio Rojas es acreditado como Zoltan, cuando este en realidad dobló a Elwin Rosfield.
 - Gerardo Ortega y David Allende no son acreditados.
 
-## Tifa Lockhart · Personality (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Personality_
-
-Tifa is empathic, motherly, intuitive, and reserved, both out of being observant and for being emotionally shy. Tifa identifies the feelings of others, offering sanctuary and protection for her teammates.{{note|In Final Fantasy VII, when Red XIII runs off in Cosmo Canyon, Tifa is more struck by his change in behavior than by the land itself, in contrast to the rest of the party. In Wutai, while Cloud and Cid scold Yuffie and show disinterest in her story when demanding their materia back, if Tifa is leader, she will instead show empathy and implore Yuffie to comply.}}{{note|name=aerith protective friendship| Tifa's friendship with Aerith highlights her observant, empathic, and protective nature, but also her co-dependence with friends to overcome her anxieties. In Final Fantasy VII Remake when Aerith is attacked by Whispers, Tifa recognizes she knows more than she is letting on and…
-
-## Tifa Lockhart · Abilities (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Abilities_
-
-Tifa is a martial artist who was taught by Zangan and, in contrast with her reserved personality, is deceptively strong. Her fighting style primarily involves punches and kicks and she uses knuckles and claws as her weapons to augment her strikes. Her skills put her on par with the rest of the party — including Cloud, an enhanced supersoldier; and Barret, a battle-hardened leader wielding a cybernetic gun-arm — despite not having the same advantages. Tifa has a strong physique with tight muscles, something that Zangan noticed upon deciding to train her as evidence of her aptitude. Tifa's techniques are showcased in her limit breaks. Among the most powerful are Dolphin Blow, an uppercut punch that summons a dolphin to attack with her, and Meteor Strike, where she lifts the enemy (of any size, including a giant mech or one of the planet's colossal Weapon monsters) over her head with a…
-
-## Aerith Gainsborough · Personality (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough#Personality_
-
-Aerith is compassionate, upbeat, and joyful, as well as street-smart with a spunky and cocky attitude. Aerith maintains a hopeful and positive outlook in the face of sadness and danger, cheering the others on when she can and always tries to see the good in people.{{note|Aerith makes a point that Rude is "not a bad person". While Cloud and Tifa are frightened of the Train Graveyard's ghosts, Aerith tries to commune with them, believing they are misunderstood. }} She is nonetheless still able to identify an unequivocal evil in the form of Shinra and Sephiroth. Against such threats, Aerith wishes to help however she can, but is morally opposed to violence and sees it as a last resort. She is not above harboring resentment for those who wrong her, although she puts on a front of cold defiance and conceals her weaknesses when distressed.{{note|When auditioning for Don Corneo, Aerith stands…
-
-## Aerith Gainsborough · Abilities (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough#Abilities_
-
-As the last living Cetra, Aerith has many unique powers in her ability to commune with the planet's life force. This leads her to being able to sense the loss of life around the world, seen most clearly with the loss of Elmyra's husband. The exact means of her communication with the planet are unknown: though Aerith talks to flowers, she confessed to Cloud that they do not simply have a conversation with her, but nonetheless, she believed that they had something important to say. Aerith's powers also allowed her to reach out to Red XIII and calm him, imparting knowledge to him. Her powers also include an ability to somehow affect the portal to the Singularity to follow Sephiroth, though her abilities are weaker than his as she is unable to control the Whispers like he can. In Final Fantasy VII Remake, it is implied that Aerith has inklings on what will happen in the future.{{note|Aerith…
-
-## Sephiroth · Personality (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Personality_
-
-As a SOLDIER before his madness, Sephiroth was cool, calm, well-spoken, and graceful, maintaining a professional demeanor. He is knowledgeable, especially on the subject of materia. In his youth, Sephiroth struggled with the expectations placed on him, not wanting to be a hero, though the help of comrades Glenn, Matt, and Lucia taught him not to constantly push himself to his breaking point and to ease up. Sephiroth's warmer side is also seen with his close friendship with Angeal, Genesis, and, later, Zack, caring for them to the point of offering to donate blood for Genesis and protecting them by opting to, with Zack, fail to defeat them on purpose. This extended beyond his SOLDIER comrades, but had its limits. After learning of the experiments that led to his birth, Sephiroth descended into madness and developed a messiah complex. He proclaimed himself to be "the chosen one" destined…
-
-## Sephiroth · Abilities (texto de la wiki)
-_Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Abilities_
-
-Sephiroth is regarded as the greatest SOLDIER 1st Class of all time, whose legendary accomplishments in the field of battle inspired many to join SOLDIER.{{note|Cloud told Tifa at the water tower that his plan was to join SOLDIER and become like Sephiroth. Genesis' old diary also denotes his plans to join SOLDIER to become like Sephiroth, his hero.}} Being the greatest byproduct of the Jenova Project, he has incredible inhuman physical prowess, extremely powerful magic skills, and is an extraordinarily skilled swordsman. Sephiroth's strength and swordsmanship are such that he can wield his Masamune, an ōdachi that is longer than he is tall, effortlessly with one hand and ambidextrously shift from his left to right hand with little loss of efficiency. His physical strength was also seen with his ability to rip bolted down metal structures with his own hands with little effort when he…
-
-## Los personajes más dibujados por los fans (Danbooru, 41873 dibujos de «final_fantasy_vii»)
+## Los personajes más dibujados por los fans (Danbooru, 41876 dibujos de «final_fantasy_vii»)
 _Fuente: https://danbooru.donmai.us/posts?tags=final_fantasy_vii_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. tifa_lockhart · 17111 dibujos
-2. cloud_strife · 16035 dibujos
-3. 2b_(nier:automata) · 12427 dibujos
-4. aerith_gainsborough · 11983 dibujos
-5. kirby · 11064 dibujos
+1. tifa_lockhart · 17112 dibujos
+2. cloud_strife · 16037 dibujos
+3. 2b_(nier:automata) · 12428 dibujos
+4. aerith_gainsborough · 11984 dibujos
+5. kirby · 11065 dibujos
 6. sephiroth · 5855 dibujos
 7. zack_fair · 3373 dibujos
 8. yuffie_kisaragi · 2894 dibujos
-9. moogle · 2444 dibujos
+9. moogle · 2445 dibujos
 10. terra_branford · 2407 dibujos
 11. sora_(kingdom_hearts) · 2368 dibujos
 12. squall_leonhart · 2153 dibujos
@@ -200,13 +170,6 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/FinalFantasyVII: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/FinalFantasyVII_
 
-**«favorite character»**
-- (242 votos, 166 comentarios) What are your favorite qualities of this character? · https://www.reddit.com/r/FinalFantasyVII/comments/1im6duz/what_are_your_favorite_qualities_of_this_character/
-- (140 votos, 151 comentarios) Who is your favorite side character? · https://www.reddit.com/r/FinalFantasyVII/comments/1bl0157/who_is_your_favorite_side_character/
-- (91 votos, 38 comentarios) Why Cloud is my favorite character in all Final Fantasy · https://www.reddit.com/r/FinalFantasyVII/comments/1gsdcqe/why_cloud_is_my_favorite_character_in_all_final/
-- (57 votos, 95 comentarios) Who Is your favorite Final Fantasy VII character ? · https://www.reddit.com/r/FinalFantasyVII/comments/18qys0o/who_is_your_favorite_final_fantasy_vii_character/
-- (55 votos, 175 comentarios) Who's your Least Favorite Character in the Compilation? · https://www.reddit.com/r/FinalFantasyVII/comments/173p5dn/whos_your_least_favorite_character_in_the/
-- (51 votos, 87 comentarios) Who’s your favorite side character voice actor? · https://www.reddit.com/r/FinalFantasyVII/comments/1btfun8/whos_your_favorite_side_character_voice_actor/
 **«why I love»**
 - (18 votos, 3 comentarios) Why I LOVE Final Fantasy VII · https://www.reddit.com/r/FinalFantasyVII/comments/8mhixf/why_i_love_final_fantasy_vii/
 - (10 votos, 1 comentarios) One reason why I love FF7, to make references in moments like these. · https://www.reddit.com/r/FinalFantasyVII/comments/zbx9kg/one_reason_why_i_love_ff7_to_make_references_in/
@@ -228,3 +191,10 @@ _Fuente: https://www.reddit.com/r/FinalFantasyVII_
 - (57 votos, 69 comentarios) A very unpopular opinion but · https://www.reddit.com/r/FinalFantasyVII/comments/1fn8x9l/a_very_unpopular_opinion_but/
 - (54 votos, 321 comentarios) *Maybe unpopular opinion about where the plot of Remake trilogy is going · https://www.reddit.com/r/FinalFantasyVII/comments/1cphpbn/maybe_unpopular_opinion_about_where_the_plot_of/
 - (41 votos, 42 comentarios) Unpopular opinion: Dyne and Barret’s arc in Rebirth is really good · https://www.reddit.com/r/FinalFantasyVII/comments/1wih4it/unpopular_opinion_dyne_and_barrets_arc_in_rebirth/
+**«iconic»**
+- (1072 votos, 44 comentarios) Painted this iconic scene from this amazing game · https://www.reddit.com/r/FinalFantasyVII/comments/198b4sc/painted_this_iconic_scene_from_this_amazing_game/
+- (621 votos, 16 comentarios) They only had the remake variant, but I'm now a proud owner of the iconic sword · https://www.reddit.com/r/FinalFantasyVII/comments/sxb9u5/they_only_had_the_remake_variant_but_im_now_a/
+- (348 votos, 26 comentarios) Sephiroth walking through the flames will never stop being iconic 🔥 · https://www.reddit.com/r/FinalFantasyVII/comments/1w18t5t/sephiroth_walking_through_the_flames_will_never/
+- (249 votos, 21 comentarios) Rebirth Iconic Shot · https://www.reddit.com/r/FinalFantasyVII/comments/1amdw75/rebirth_iconic_shot/
+- (193 votos, 5 comentarios) My Timelapse of me painting this iconic battle · https://www.reddit.com/r/FinalFantasyVII/comments/199t72k/my_timelapse_of_me_painting_this_iconic_battle/
+- (138 votos, 111 comentarios) What, in your opinion, makes Cloud Strife such an iconic character? · https://www.reddit.com/r/FinalFantasyVII/comments/1c4sr2a/what_in_your_opinion_makes_cloud_strife_such_an/

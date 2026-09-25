@@ -4,44 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
-
-## Melina: las imágenes más grandes de la wiki (119 en total)
-_Fuente: https://eldenring.fandom.com/wiki/Melina_
-
-- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
-- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
-- 3840×2160 · Melina reveal.png · https://static.wikia.nocookie.net/eldenring/images/c/c7/Melina_reveal.png
-- 3840×2160 · Melina cloacked 2.png · https://static.wikia.nocookie.net/eldenring/images/c/cd/Melina_cloacked_2.png
-- 3840×2160 · Melina Cloacked.png · https://static.wikia.nocookie.net/eldenring/images/7/74/Melina_Cloacked.png
-- 3840×2160 · ER melina hood.jpg · https://static.wikia.nocookie.net/eldenring/images/0/07/ER_melina_hood.jpg
-- 3840×2160 · ER Render Melina03.png · https://static.wikia.nocookie.net/eldenring/images/7/7e/ER_Render_Melina03.png
-- 3840×2160 · ER Render Melina02.png · https://static.wikia.nocookie.net/eldenring/images/d/d9/ER_Render_Melina02.png
-- 3840×2160 · ER Melina intro.png · https://static.wikia.nocookie.net/eldenring/images/e/eb/ER_Melina_intro.png
-- 3840×2160 · ER Melina intro 2.png · https://static.wikia.nocookie.net/eldenring/images/4/49/ER_Melina_intro_2.png
-
-## Malenia, Blade of Miquella: las imágenes más grandes de la wiki (166 en total)
-_Fuente: https://eldenring.fandom.com/wiki/Malenia%2C_Blade_of_Miquella_
-
-- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
-- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
-- 3000×3000 · ER Icon Key Item Unalloyed Gold Needle.png · https://static.wikia.nocookie.net/eldenring/images/d/d1/ER_Icon_Key_Item_Unalloyed_Gold_Needle_%28Broken%29.png
-- 3000×3000 · ER Icon Key Item Unalloyed Gold Needle (Broken).png · https://static.wikia.nocookie.net/eldenring/images/d/d1/ER_Icon_Key_Item_Unalloyed_Gold_Needle_%28Broken%29.png
-- 3840×2160 · Haligtree Promenade Demigods Statue 2.jpg · https://static.wikia.nocookie.net/eldenring/images/3/39/Haligtree_Promenade_Demigods_Statue_2.jpg
-- 3840×2160 · Elden Ring Screenshot 07.jpg · https://static.wikia.nocookie.net/eldenring/images/5/54/Elden_Ring_Screenshot_07.jpg
-- 3840×1630 · ER Promo 07 3840x1630.png · https://static.wikia.nocookie.net/eldenring/images/7/75/ER_Promo_07_3840x1630.png
-- 2538×1428 · Malenia Haligtree Statue Crown.jpg · https://static.wikia.nocookie.net/eldenring/images/f/f8/Malenia_Haligtree_Statue_Crown.jpg
-- 2880×1223 · Malenia and Radahn preparing to battle each other.jpg · https://static.wikia.nocookie.net/eldenring/images/0/00/Malenia_and_Radahn_preparing_to_battle_each_other.jpg
-- 2880×1222 · Malenia vs Radahn (story trailer).jpg · https://static.wikia.nocookie.net/eldenring/images/1/10/Malenia_vs_Radahn_%28story_trailer%29.jpg
-
-## Hojas de contacto (investigar_serie.py)
-_Fuente: herramientas/referencias/_
-
-```
-· imágenes de eldenring.fandom.com (2 páginas y sus galerías)…
-  206 imágenes enlazadas, 105 grandes → 3 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/elden-ring
-
-```
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
@@ -108,7 +71,7 @@ _Fuente: https://wallhaven.cc_
 - 1920x1080 · ♥ 455 · https://w.wallhaven.cc/full/rd/wallhaven-rd1qrq.jpg · subido por billfinger · origen: — · Malenia (Elden Ring), Elden Ring, artwork, fan art, video games, red
 - 2467x3700 · ♥ 387 · https://w.wallhaven.cc/full/wq/wallhaven-wqkxyp.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, fantasy girl, hat
 - 3840x2160 · ♥ 365 · https://w.wallhaven.cc/full/3l/wallhaven-3ljjwd.png · subido por ABAnarchy · origen: — · Needle Knight Leda, medieval, digital art, armor, sword, knight
-- 4712x2752 · ♥ 351 · https://w.wallhaven.cc/full/72/wallhaven-72k6py.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, witch, hat
+- 4712x2752 · ♥ 352 · https://w.wallhaven.cc/full/72/wallhaven-72k6py.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, witch, hat
 - 8400x4725 · ♥ 345 · https://w.wallhaven.cc/full/d6/wallhaven-d6yrml.jpg · subido por jrmnt · origen: https://t.bilibili.com/940495931191590944 · WLOP, digital art, artwork, illustration, digital painting, women
 - 3840x2160 · ♥ 285 · https://w.wallhaven.cc/full/8o/wallhaven-8ow3q1.jpg · subido por HKkkkkkkkk · origen: — · PlayStation, video game art, video games, Elden Ring
 - 3198x1800 · ♥ 270 · https://w.wallhaven.cc/full/m9/wallhaven-m9mwqy.jpg · subido por stepbro · origen: https://www.pixiv.net/en/artworks/96695071 · anime, anime girls, artwork, weapon, Elden Ring, Malenia (Elden Ring)
