@@ -1,0 +1,668 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/6/67/Abec_Art_Works_Cover-Back.jpg",
+  "fuente": "Sword Art Online Wiki (Fandom), del artbook abec Art Works (Kadokawa/ASCII Media Works)",
+  "ancho": 5175,
+  "alto": 3488,
+  "que_es": "Portada+contraportada del artbook oficial abec Art Works: Kirito, Asuna, Alice, Eugeo, Sinon, Leafa, Silica y Klein juntos con sus trajes icónicos",
+  "para_que": "Referencia maestra de vestuario, paleta y pose de grupo (punto 1 y 15)",
+  "licencia": "Arte oficial con copyright (Kadokawa/abec); sólo como referencia, no reutilizable comercialmente"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/d/da/K.O.B_Simbol.png",
+  "fuente": "Sword Art Online Wiki (Fandom), infobox del gremio Knights of the Blood",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma del anime: estandarte rojo de los Caballeros de la Sangre colgado en una sala de ventanales blancos, con la espada-cruz y las letras K.O.B (medido y mirado por el redactor)",
+  "para_que": "Objeto real del concepto A (#presentaciones): tela para Blender; rojos medidos #511F23 y #422022",
+  "licencia": "Arte oficial con copyright; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/8/8e/Abec_Art_Works_Alice_%26_Eugeo_designs.jpg",
+  "fuente": "Sword Art Online Wiki (Fandom), abec Art Works",
+  "ancho": 4940,
+  "alto": 7020,
+  "que_es": "Hoja de modelo (settei) de Alice y Eugeo, niños y adultos, con sus espadas",
+  "para_que": "Referencia de vestuario por edad/arco y diseño de la Blue Rose Sword (punto 1 y 15)",
+  "licencia": "Arte oficial con copyright; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/b/bf/Asuna_PB_Character_Design.png",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 1280,
+  "alto": 880,
+  "que_es": "Turnaround oficial de Asuna con su uniforme escolar real (chaqueta blanca, falda escocesa granate)",
+  "para_que": "Colores planos exactos del uniforme real para el punto 15",
+  "licencia": "Arte oficial con copyright; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/2/2f/Kazuto-Body-Design_SAOII.png",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 1280,
+  "alto": 880,
+  "que_es": "Turnaround oficial de Kazuto (Kirito) con su ropa real de calle (chaqueta negra, vaqueros)",
+  "para_que": "Colores planos exactos de la ropa real para el punto 15",
+  "licencia": "Arte oficial con copyright; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/9/9c/Shino.png",
+  "fuente": "Sword Art Online Wiki (Fandom), imagen de perfil oficial de la página de Asada Shino",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma oficial de Sinon con su uniforme escolar real (blazer gris, corbata roja)",
+  "para_que": "Colores del uniforme escolar de Sinon (punto 15)",
+  "licencia": "Fotograma del anime con copyright; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x41mo7i?start=96",
+  "fuente": "Dailymotion (canal Anime Fights, recopilación de fotogramas reales del anime)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Pelea Kirito vs. The Gleam Eyes (jefe del piso 74, Aincrad), episodios 8-9 de Sword Art Online, con Starburst Stream y HUD de vida",
+  "para_que": "Escena icónica (punto 2), poses de combate de Kirito y Asuna (punto 14), interfaz de vida (punto 10)",
+  "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia de minuto y pose, nunca para reusar"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qqmbf?start=9",
+  "fuente": "Dailymotion, tráiler oficial de Aniplex para Sword Art Online: Alicization",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial (75 s) mirado fotograma a fotograma con herramientas/fotogramas.py para sacar la cara de cada personaje en varias emociones",
+  "para_que": "Fuente de las caras por emoción con minuto exacto del punto 13 (Kirito confundido 0:09, Eugeo cálido 0:15, Alice cautelosa 0:30, Asuna sorprendida 0:51)",
+  "licencia": "Tráiler oficial de Aniplex, con copyright; sólo como referencia, no reutilizable"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8hvbsi?start=45",
+  "fuente": "Dailymotion (distribuidora Wakanim, tráiler oficial en francés)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial de Sword Art Online Alicization War of Underworld (estreno 11 julio 2020)",
+  "para_que": "Vídeo oficial con minuto exacto (punto 10), poses de Asuna y Alice (punto 14), paleta del cielo de Underworld (punto 4)",
+  "licencia": "Tráiler oficial de la distribuidora; sólo como referencia, no para reusar el vídeo"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x23wv4c?start=32",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Sinon y Kirito en el pasillo hexagonal de teletransporte antes del Bullet of Bullets, Sword Art Online II (arco Phantom Bullet, GGO)",
+  "para_que": "Escena icónica (punto 2), poses de Sinon (punto 14), paleta de la sala GGO (punto 4)",
+  "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x31uoid?start=63",
+  "fuente": "Dailymotion",
+  "ancho": 440,
+  "alto": 248,
+  "que_es": "Reencuentro de Kirito y Asuna tras la batalla contra The Gleam Eyes, cueva con luz de cristal verde",
+  "para_que": "Escena icónica (punto 2), poses de cariño/promesa de Kirito y Asuna (punto 14), paleta de la cueva (punto 4)",
+  "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-67e18b82f18e4a99afa9cb53791b0857",
+  "fuente": "Sketchfab (autor: Kroed)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de la espada Elucidator de Kirito",
+  "para_que": "Prop 3D importable a Blender para dar profundidad delante del personaje (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cffc4b99140b408ca795a5b96411ce77",
+  "fuente": "Sketchfab (autor: fizzlefreshh)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D del lobby de Gun Gale Online",
+  "para_que": "Sitio 3D con licencia libre para fondo de la lámina (punto 3 y 16)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e12d1bf75e554e0caa8827aebebeb769",
+  "fuente": "Sketchfab (autor: R4ven3D)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de la Blue Rose Sword de Eugeo",
+  "para_que": "Prop 3D importable a Blender (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/7/7e/Kirito_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Kirito (Luis Leonardo Suárez), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal (registro, expresividad, velocidad) para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/36/Asuna_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Asuna (Alejandra Delint), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/6/6c/Sinon_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Sinon (Lupita Leal), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/4/4b/Alice_Schuberg_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Alice (Alicia Barragán), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/1b/Eugeo_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Eugeo (Elliot Leguizamo), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/01/Silica_-_Sword_Art_Online_Alicization.ogg",
+  "fuente": "Doblaje Wiki (Fandom), muestra oficial de audio",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Silica (Wendy Malvárez), transcrita y analizada con herramientas/voz.py",
+  "para_que": "Frase textual con minuto y análisis vocal para el punto 8",
+  "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
+ },
+ {
+  "url": "https://live.staticflickr.com/8631/15464151893_53f08f611c_b.jpg",
+  "fuente": "Flickr vía Openverse",
+  "ancho": 1024,
+  "alto": 682,
+  "que_es": "Foto de cosplay de Sinon (Gun Gale Online)",
+  "para_que": "Referencia real de materiales y volumen de tela para el traje GGO (punto 3 y 23)",
+  "licencia": "CC BY-SA 2.0"
+ },
+ {
+  "url": "https://live.staticflickr.com/7439/10408103156_7dec420ef1_b.jpg",
+  "fuente": "Flickr vía Openverse",
+  "ancho": 680,
+  "alto": 1024,
+  "que_es": "Foto de cosplay de Asuna",
+  "para_que": "Referencia real de materiales y volumen de tela (punto 3 y 23)",
+  "licencia": "CC BY-SA"
+ },
+ {
+  "url": "https://live.staticflickr.com/3683/10408132766_d6ea2a9aaa_b.jpg",
+  "fuente": "Flickr vía Openverse",
+  "ancho": 679,
+  "alto": 1023,
+  "que_es": "Foto de cosplay de Asuna (segunda toma)",
+  "para_que": "Punto 3 y 23: volumen y tela real del uniforme",
+  "licencia": "CC BY-SA"
+ },
+ {
+  "url": "https://live.staticflickr.com/563/20776554476_c905008e1b_b.jpg",
+  "fuente": "Flickr vía Openverse",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Cosplay de grupo de Sword Art Online en una convención",
+  "para_que": "Punto 23: materiales reales de varios trajes",
+  "licencia": "CC BY 2.0"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9yjze.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 6956,
+  "alto": 3897,
+  "que_es": "Fondo de pantalla de fan de Sword Art Online, el de mayor resolución encontrado",
+  "para_que": "Fondo de alta resolución para la lámina o lámina 2 (punto 16)",
+  "licencia": "Fan art, uso no comercial salvo permiso del autor (verificar en la ficha de Wallhaven)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5g2pq.jpg",
+  "fuente": "Wallhaven (fuente original: zarory en DeviantArt, https://www.deviantart.com/zarory/art/Asuna-841685945)",
+  "ancho": 4000,
+  "alto": 2775,
+  "que_es": "Fondo de pantalla de fan de Sword Art Online, el más votado (395 favoritos)",
+  "para_que": "Fondo alternativo de alta resolución (punto 16)",
+  "licencia": "Fan art, uso no comercial salvo permiso del autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o5/wallhaven-o53ro5.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2835,
+  "alto": 4368,
+  "que_es": "Fondo de pantalla de fan de Sword Art Online en vertical",
+  "para_que": "Fondo para formato móvil (punto 16)",
+  "licencia": "Fan art, uso no comercial salvo permiso del autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x1/wallhaven-x1xy9l.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fan de Sword Art Online en 4K (292 favoritos)",
+  "para_que": "Punto 16: fondo en alta",
+  "licencia": "Fan art, uso no comercial salvo permiso del autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ey/wallhaven-ey7vjl.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla de fan de Sword Art Online (382 favoritos)",
+  "para_que": "Punto 16: fondo en alta",
+  "licencia": "Fan art, uso no comercial salvo permiso del autor"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5cgnco?start=20",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Opening/cierre visual del arco Mother's Rosario (Sword Art Online II), tema 'courage' de Tomatsu Haruka",
+  "para_que": "Música por arco (punto 9), paleta de la pantalla de título y de la sala de ALO (punto 4)",
+  "licencia": "Contenido con derechos de Aniplex; sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x33t3vs?start=40",
+  "fuente": "Dailymotion",
+  "ancho": 480,
+  "alto": 360,
+  "que_es": "Ending del arco Aincrad de Sword Art Online (coincide visualmente con 'Yume Sekai')",
+  "para_que": "Música por arco (punto 9), paleta del bosque de ALO (punto 4)",
+  "licencia": "Contenido con derechos de Aniplex; sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x7wcnga?start=90",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Cinemática de videojuego: Kirito, Asuna y Alice contra un monstruo abisal en combate espacial",
+  "para_que": "Poses de Alice, Kirito y Asuna juntos (punto 14) — única fuente con Alice en movimiento accesible sin YouTube",
+  "licencia": "Contenido con derechos de Bandai Namco/Aniplex (videojuego SAO); sólo como referencia"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Orbitron",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Orbitron (bold), sans-serif geométrica estilo HUD/sci-fi",
+  "para_que": "Punto 5 — letra libre para logo/título de canal y rótulos de interfaz de juego; tildes/ñ/¿/¡ comprobadas con fontTools",
+  "licencia": "OFL-1.1 (Open Font License), gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Michroma",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Michroma (regular), sans-serif geométrica ancha",
+  "para_que": "Punto 5 — segunda opción libre para logo/interfaz de juego; tildes/ñ/¿/¡ comprobadas con fontTools",
+  "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Anton",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Anton, condensada de trazo grueso",
+  "para_que": "Punto 5 — letra libre para globo normal de manga y grito/énfasis; tildes/ñ/¿/¡ comprobadas",
+  "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Bangers",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Bangers, estilo cómic de trazo grueso",
+  "para_que": "Punto 5 — alternativa libre para grito/onomatopeya; tildes/ñ/¿/¡ comprobadas",
+  "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Exo+2",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Exo 2, sans-serif geométrica fina",
+  "para_que": "Punto 5 y 11 — letra libre para interfaz de los videojuegos (menús, HUD); tildes/ñ/¿/¡ comprobadas",
+  "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Rajdhani",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tipografía Rajdhani, sans-serif técnica condensada",
+  "para_que": "Punto 5 y 11 — segunda opción libre para interfaz de videojuego/HUD; tildes/ñ/¿/¡ comprobadas",
+  "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d107038c01bb46408a97c345ab5f2cae",
+  "fuente": "Sketchfab (autor: Senpai3689)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D simplificado de Kirito",
+  "para_que": "Referencia de proporciones o base de pose 3D (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-677b4ab2d76444dd81dc520a40111abe",
+  "fuente": "Sketchfab (autor: Senpai3689)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Asuna (SAO:LS)",
+  "para_que": "Referencia de proporciones o base de pose 3D (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9a0aa3e82dd349e7b85eaabe60a482f7",
+  "fuente": "Sketchfab (autor: Senpai3689)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Sinon",
+  "para_que": "Referencia de proporciones o base de pose 3D (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-aba812a1fa3e479d8e3817b44e105b93",
+  "fuente": "Sketchfab (autor: pcmonster)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de la cabaña (Cabin) de Sword Art Online",
+  "para_que": "Sitio 3D con licencia libre para fondo de la lámina (punto 3 y 16)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-072503179c2a4a56ac2e9fc2d8b64b9c",
+  "fuente": "Sketchfab (licencia leída en la API)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tres variantes de la espada de Kirito (sirerdees)",
+  "para_que": "Punto 3: modelo 3D importable en Blender con crédito",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7a1715af60a74e0baf1391833e843006",
+  "fuente": "Sketchfab (licencia leída en la API)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Asuna guerrera (CesPaul)",
+  "para_que": "Punto 3: modelo 3D importable en Blender con crédito",
+  "licencia": "CC Attribution-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f488abd66db34e18b48b76cbf10782fc",
+  "fuente": "Sketchfab (licencia leída en la API)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Sinon en alta poligonización (liye.yan1994)",
+  "para_que": "Punto 3: modelo 3D importable en Blender con crédito",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e2110c991a24429c936d3eaceeb89cce",
+  "fuente": "Sketchfab (licencia leída en la API)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Aula de Sword Art Online en 3D (ani111)",
+  "para_que": "Punto 3: modelo 3D importable en Blender con crédito",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://blendswap.com/blend/14849",
+  "fuente": "Blend Swap (autor: chelyzmarx)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Kirito de baja poligonización, rigueado y animado (hecho para un mod, exportable), Blender 2.7x",
+  "para_que": "Punto 18 — modelo/rig libre de partida para practicar el shader toon y el contorno en Blender",
+  "licencia": "CC-BY (atribución obligatoria al autor), comprobada en la página"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "CLIP STUDIO ASSETS",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Pack gratuito de tramas de screentone para manga",
+  "para_que": "Textura 2D libre equivalente a las tramas del manga de SAO (punto 19)",
+  "licencia": "Gratuito, licencia de la tienda Clip Studio Assets (uso en obras propias)"
+ },
+ {
+  "url": "https://www.goodsmile.info/en/product/4053/Asuna+Knights+of+the+Blood+Ver.html",
+  "fuente": "Good Smile Company (ficha oficial del producto)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Figura oficial 1/8 de Asuna (Knights of the Blood ver.) posando con su espada Lambent Light",
+  "para_que": "Referencia 3D de pose oficial licenciada (punto 23)",
+  "licencia": "Producto oficial con copyright; sólo referencia de pose"
+ },
+ {
+  "url": "https://myfigurecollection.net/item/126835",
+  "fuente": "MyFigureCollection",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Figura Kotobukiya Asuna Aincrad ver. 1/8",
+  "para_que": "Punto 23: pose 3D de referencia",
+  "licencia": "Producto oficial con copyright; sólo referencia"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts/4895802",
+  "fuente": "Danbooru (autor: nyantcha)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fan art más votado de Sword Art Online en Danbooru (score 1592)",
+  "para_que": "Referencia de estilo de fan art popular, nunca para pegar (punto 3)",
+  "licencia": "Fan art con copyright del autor; sólo referencia"
+ },
+ {
+  "url": "https://www.moshimoshi-nippon.jp/181099",
+  "fuente": "MOSHI MOSHI NIPPON",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Café temático oficial de Sword Art Online: Alicization en SEGA Akihabara",
+  "para_que": "Dato de colaboración/evento oficial (punto 23)",
+  "licencia": "Nota de prensa, sin imagen descargable citada"
+ },
+ {
+  "url": "https://www.tiktok.com/@soundnime/video/7372160452756802821",
+  "fuente": "TikTok",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Edit de anime con el opening 'Crossing Field' (LiSA) de Sword Art Online, tendencia activa 2024-2025",
+  "para_que": "Tendencia de TikTok con enlace real (punto 10)",
+  "licencia": "Vídeo de usuario en TikTok; sólo como referencia de tendencia"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Anime_Main_Page",
+  "fuente": "Fandom (swordartonline.fandom.com, vía api.php action=parse)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Lista completa de aperturas y cierres por arco de todo el anime de SAO, con referencias oficiales citadas",
+  "para_que": "Música y sonido (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Episode_09",
+  "fuente": "Fandom",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del episodio 9 'The Blue-Eyed Demon', pelea contra The Gleam Eyes y su resolución",
+  "para_que": "Confirmar capítulo/minuto de la escena icónica (punto 2)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online",
+  "fuente": "Fandom",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página general de la serie: confirma el comando de voz 'Link Start' y el anuncio del sistema de Kayaba",
+  "para_que": "Efectos de sonido y frases de sistema reconocibles (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "http://dengekibunko.jp/special2015/sao/20151004/",
+  "fuente": "Dengeki Bunko (Kadokawa), encuesta oficial de popularidad para la portada de abec Art Works",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página oficial con el ranking de popularidad 2015 (68.993 votos): Asuna 1ª, Yuuki 2ª, Sinon 3ª, Kirito 4º, Eugeo 5º",
+  "para_que": "Prueba oficial de que un personaje secundario (Yuuki) y una no protagonista femenina (Asuna) superan a Kirito en popularidad (punto 7 y 21)",
+  "licencia": "Página informativa oficial de Kadokawa, sólo como fuente de datos, no reutilizable como imagen"
+ },
+ {
+  "url": "https://www.televisa.com/canal5/anime/sword-art-online/platicamos-con-luigi-la-voz-de-kirito-en-sword-art-online",
+  "fuente": "Canal 5 / Televisa (México)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Entrevista oficial a Luis Leonardo Suárez, voz latina de Kirito, sobre el doblaje de Sword Art Online",
+  "para_que": "Cita directa del actor y del productor japonés Taro Maki elogiando el doblaje latino (punto 8 y 21)",
+  "licencia": "Artículo periodístico oficial de la televisora, sólo como fuente de texto"
+ },
+ {
+  "url": "https://www.anmtvla.com/2022/03/sword-art-online-alicization-funimation.html",
+  "fuente": "ANMTV Latinoamérica",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Artículo con el reparto latino completo del doblaje de Sword Art Online: Alicization (Funimation)",
+  "para_que": "Segunda fuente independiente de Doblaje Wiki para confirmar cada actor de doblaje (punto 8)",
+  "licencia": "Artículo periodístico, sólo como fuente de texto"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Sword_Art_Online",
+  "fuente": "Doblaje Wiki (Fandom), ficha de la temporada 1",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Reparto latino de la temporada 1 (KORA International, dirección Arturo Cataño)",
+  "para_que": "Confirma que el reparto principal (Kirito, Asuna, Leafa, Yui, Klein, Silica, Lisbeth, Agil) se mantuvo igual en toda la franquicia (punto 8)",
+  "licencia": "Wiki de fans, contenido bajo CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Sword_Art_Online_II",
+  "fuente": "Doblaje Wiki (Fandom), ficha de la temporada 2",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Reparto latino de la temporada 2 (introduce a Sinon con Lupita Leal)",
+  "para_que": "Segunda fuente para el actor de Sinon y confirmación del resto del reparto (punto 8)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Kirigaya_Kazuto",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Kirito: personalidad, trivia, gustos, cita a la Q&A de popularidad de 2005 y al ranking de Kono Light Novel ga Sugoi!",
+  "para_que": "Base de personalidad, gustos y popularidad de Kirito (puntos 7, 13, 20)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Yuuki_Asuna",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Asuna: personalidad, trivia, altura/peso oficiales, popularidad",
+  "para_que": "Base de personalidad, gustos y popularidad de Asuna (puntos 7, 13, 20)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Asada_Shino",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Sinon: personalidad, trivia, lema, sueño de ser policía",
+  "para_que": "Base de personalidad y gustos de Sinon (puntos 7, 13, 20)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Alice_Zuberg",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Alice: personalidad, trivia, cumpleaños explicado por el autor",
+  "para_que": "Base de personalidad y gustos de Alice (puntos 7, 13, 20)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://swordartonline.fandom.com/wiki/Konno_Yuuki",
+  "fuente": "Sword Art Online Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Yuuki Konno: personalidad, trivia, arco de Mother's Rosario",
+  "para_que": "Personaje secundario más votado que Kirito en la encuesta oficial; base de la escena que hace llorar (puntos 7, 13, 21)",
+  "licencia": "Wiki de fans, CC BY-SA; sólo como fuente de texto"
+ },
+ {
+  "url": "https://palabrasdesdeotromundo.com/2017/02/10/sword-art-online-ii-mothers-rosario/",
+  "fuente": "Palabras desde otro mundo (blog en español)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Reseña en español del arco Mother's Rosario, citada como 'el arco más fuerte de la serie'",
+  "para_que": "Fuente de por qué la escena de la muerte de Yuuki hace llorar al público (punto 21)",
+  "licencia": "Blog personal, sólo como fuente de texto"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/daily-briefs/2017-04-04/sword-art-online-light-novels-have-20-million-copies-in-print-worldwide/.114365",
+  "fuente": "Anime News Network",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Nota confirmando 20 millones de copias impresas de la novela ligera en el mundo",
+  "para_que": "Dato de ventas para 'por qué la gente la ama' (punto 21)",
+  "licencia": "Artículo periodístico, sólo como fuente de texto"
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Memes/SwordArtOnline",
+  "fuente": "TV Tropes",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Lista de memes reconocidos del fandom (Sandwich-kun, A God Am I, Capítulo 16.5, memes de Gun Gale Online)",
+  "para_que": "Lo que el fandom ama y reconoce al instante (punto 12)",
+  "licencia": "Wiki colaborativa; sólo como fuente de texto (la página bloqueó el acceso directo, se usó vía buscador)"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x7lomd8",
+  "fuente": "Dailymotion, canal de fan 'ilonkaplay'",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cover en español del ending 'ADAMAS' de Sword Art Online: Alicization, verificado con yt-dlp (3:49 min, 58 vistas)",
+  "para_que": "Cover hispano real y verificado para el punto 22 (fan dubs y comunidad hispana)",
+  "licencia": "Cover de fan, sin licencia comercial; sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8q623x",
+  "fuente": "Dailymotion, canal de fan 'cupidomegas'",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cover en español del opening 'Crossing Field' de Sword Art Online, verificado con yt-dlp (4:18 min, 20 vistas)",
+  "para_que": "Cover hispano real y verificado para el punto 22",
+  "licencia": "Cover de fan, sin licencia comercial; sólo como referencia"
+ },
+ {
+  "url": "https://www.reddit.com/r/swordartonline/comments/1v0g0h0/what_are_yalls_favorite_character_and_arc/",
+  "fuente": "Reddit r/swordartonline (vía Arctic Shift)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Hilo real de fans votando su personaje y arco favorito",
+  "para_que": "Con qué personaje se identifica el público, en sus propias palabras (punto 21)",
+  "licencia": "Contenido de usuarios de Reddit, sólo como fuente de texto/cita"
+ },
+ {
+  "url": "https://www.gameuidatabase.com/gameData.php?id=394",
+  "fuente": "Game UI Database",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Colección de capturas reales de interfaz de Sword Art Online: Fatal Bullet (menú de armas, mapa, diálogo de misión)",
+  "para_que": "Punto 11 — referencia visual directa de menús y cajas de diálogo del videojuego",
+  "licencia": "Con derechos (Bandai Namco); uso editorial/referencia, la base de datos es de acceso libre para consulta"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/swordartonline/images/5/5b/KOB_Logo.png",
+  "fuente": "Sword Art Online Wiki (Fandom), infobox del gremio Knights of the Blood",
+  "ancho": 28,
+  "alto": 28,
+  "que_es": "Icono del gremio Knights of the Blood, 28×28 (medido por el redactor)",
+  "para_que": "Sólo como icono pequeño; demasiado pequeño para textura",
+  "licencia": "Arte oficial con copyright; sólo referencia"
+ }
+]
