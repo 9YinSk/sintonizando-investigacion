@@ -3,7 +3,7 @@
 Sesión anterior: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
 (parte de `claude/peaceful-maxwell-fklpkp`).
 
-## Estado (02:05 UTC del 25, tercera cuenta)
+## Estado (02:22 UTC del 25, tercera cuenta): LOTE A TERMINADO
 
 Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama `claude/lote-a-series-inxhbf`.
 
@@ -16,8 +16,7 @@ Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama
 - 33 Frieren: **COMPLETA** y subida (02:16). ✅30 ⚠️7 ❌0, 163 referencias, 89 webs, 2647 líneas.
 - 34 Haikyuu: **COMPLETA** y subida (02:17). ✅32 ⚠️9 ❌0, 175 referencias, 83 webs, 2938 líneas.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
-  dejó escritas §0-17). AnimeThemes sigue caído (522).
+- 36 Hunter x Hunter (nueva): **COMPLETA** y subida (02:22). ✅20 ⚠️10 ❌0, 183 referencias, 51 webs, 1615 líneas.
 
 Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:11 y
 `optimistic-dirac` desde las 22:43) y rehicieron 03, 04, 05 y 31. Al juntar se quedó
@@ -25,6 +24,15 @@ Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:
 subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 
 ## Avisos para el dueño
+
+- 36 Hunter x Hunter: más querido, Killua (las tres encuestas oficiales de Jump); Kurapika
+  gana la reciente de Animate Times. Cuadro de diálogo propio: la tarjeta de rótulo del
+  tráiler de VIZ (mapa viejo marrón, texto blanco con serifa, letra Cinzel) y la carta de
+  Greed Island (marco rojo, «Lv.» y rango). Láminas: A #castings (placas del Examen con
+  Killua), B #postulaciones (Licencia de Cazador con Kurapika), C 🎲 Juegos (libro y cartas
+  de Greed Island). **Choque:** #castings ya lo propone Oshi no Ko (05). No hay frases
+  textuales del doblaje latino de 2011 (Netflix): todas son de *Cazador X* (1999).
+  Corregidos con hojas de contacto propias 7 datos del tráiler y del opening (§28).
 
 - 34 Haikyuu: más querido según quién vote: Hinata fuera de Japón; Kuroo, Kenma y Oikawa
   en Japón hoy; Nishinoya en la alineación ideal. Cuadro de diálogo: la caja negra del
@@ -94,3 +102,4 @@ subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 | 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
 | 33 | redactor (repaso corto) | Opus | 11 | 224 mil |
 | 34 | redactor (repaso corto) | Opus | 12 | 234 mil |
+| 36 | redactor (retomado desde §18) | Opus | 18 | 303 mil |
