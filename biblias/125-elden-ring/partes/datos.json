@@ -1,5 +1,325 @@
 [
  {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3132,
+  "alto": 3132,
+  "que_es": "Melina: Promotional Wallpaper 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/c/c7/Melina_reveal.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: Melina reveal.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/c/cd/Melina_cloacked_2.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: Melina cloacked 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/7/74/Melina_Cloacked.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: Melina Cloacked.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/0/07/ER_melina_hood.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: ER melina hood.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/7/7e/ER_Render_Melina03.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: ER Render Melina03.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/d/d9/ER_Render_Melina02.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: ER Render Melina02.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/e/eb/ER_Melina_intro.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: ER Melina intro.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/4/49/ER_Melina_intro_2.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Melina: ER Melina intro 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/d/d1/ER_Icon_Key_Item_Unalloyed_Gold_Needle_%28Broken%29.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3000,
+  "alto": 3000,
+  "que_es": "Malenia, Blade of Miquella: ER Icon Key Item Unalloyed Gold Needle.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/3/39/Haligtree_Promenade_Demigods_Statue_2.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Malenia, Blade of Miquella: Haligtree Promenade Demigods Statue 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/5/54/Elden_Ring_Screenshot_07.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Malenia, Blade of Miquella: Elden Ring Screenshot 07.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/7/75/ER_Promo_07_3840x1630.png",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 1630,
+  "que_es": "Malenia, Blade of Miquella: ER Promo 07 3840x1630.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/f/f8/Malenia_Haligtree_Statue_Crown.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2538,
+  "alto": 1428,
+  "que_es": "Malenia, Blade of Miquella: Malenia Haligtree Statue Crown.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/0/00/Malenia_and_Radahn_preparing_to_battle_each_other.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2880,
+  "alto": 1223,
+  "que_es": "Malenia, Blade of Miquella: Malenia and Radahn preparing to battle each other.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/1/10/Malenia_vs_Radahn_%28story_trailer%29.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2880,
+  "alto": 1222,
+  "que_es": "Malenia, Blade of Miquella: Malenia vs Radahn (story trailer).jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/7/76/ER.Ranni_Quest_cutscene_4.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni Quest cutscene 4.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/c/c0/ER.Ranni_Quest_cutscene_2.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni Quest cutscene 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/8/82/ER.Ranni_AotS_cutscene_8.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni AotS cutscene 8.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/d/d9/ER.Ranni_AotS_cutscene_7.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni AotS cutscene 7.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/7/74/ER.Ranni_AotS_cutscene_5.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni AotS cutscene 5.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/3/30/ER.Ranni_AotS_cutscene_3.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni AotS cutscene 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/b/ba/ER.Ranni_AotS_cutscene_2.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ranni the Witch: ER.Ranni AotS cutscene 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/f/f8/ER_Promo_Screenshot_20.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Ranni the Witch: Three Fingers Icon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/9/90/Miquella_Appearance.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Starscourge Radahn: Miquella Appearance.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/5/5e/Figuarts_Mini_Radahn.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Starscourge Radahn: Figuarts Mini Radahn.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/3/39/ER_trailer_demigods_fight.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Starscourge Radahn: ER trailer demigods fight.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/6/64/Starscourge_Radahn_concept_art.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 1920,
+  "alto": 2095,
+  "que_es": "Starscourge Radahn: Starscourge Radahn concept art.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/2/26/Promised_Consort_Radahn_Gate.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Starscourge Radahn: Promised Consort Radahn Gate.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/f/f0/Promised_Consort_Radahn_CloseUp.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Starscourge Radahn: Promised Consort Radahn CloseUp.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/d/da/Promised_Consort_Boss.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Starscourge Radahn: Promised Consort Boss.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/c/c7/Consort_of_Miquella_Boss.jpg",
+  "fuente": "Fandom eldenring",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Starscourge Radahn: Consort of Miquella Boss.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://safebooru.org/images/3791/b74997a3d213eac62a45eb9885ced0b677489c55.jpg",
   "fuente": "Safebooru (fan art)",
   "ancho": 1440,

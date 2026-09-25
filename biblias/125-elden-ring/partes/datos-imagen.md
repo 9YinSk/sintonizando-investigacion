@@ -4,7 +4,72 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
+
+## Melina: las imágenes más grandes de la wiki (119 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Melina_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3840×2160 · Melina reveal.png · https://static.wikia.nocookie.net/eldenring/images/c/c7/Melina_reveal.png
+- 3840×2160 · Melina cloacked 2.png · https://static.wikia.nocookie.net/eldenring/images/c/cd/Melina_cloacked_2.png
+- 3840×2160 · Melina Cloacked.png · https://static.wikia.nocookie.net/eldenring/images/7/74/Melina_Cloacked.png
+- 3840×2160 · ER melina hood.jpg · https://static.wikia.nocookie.net/eldenring/images/0/07/ER_melina_hood.jpg
+- 3840×2160 · ER Render Melina03.png · https://static.wikia.nocookie.net/eldenring/images/7/7e/ER_Render_Melina03.png
+- 3840×2160 · ER Render Melina02.png · https://static.wikia.nocookie.net/eldenring/images/d/d9/ER_Render_Melina02.png
+- 3840×2160 · ER Melina intro.png · https://static.wikia.nocookie.net/eldenring/images/e/eb/ER_Melina_intro.png
+- 3840×2160 · ER Melina intro 2.png · https://static.wikia.nocookie.net/eldenring/images/4/49/ER_Melina_intro_2.png
+
+## Malenia, Blade of Miquella: las imágenes más grandes de la wiki (166 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Malenia%2C_Blade_of_Miquella_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3000×3000 · ER Icon Key Item Unalloyed Gold Needle.png · https://static.wikia.nocookie.net/eldenring/images/d/d1/ER_Icon_Key_Item_Unalloyed_Gold_Needle_%28Broken%29.png
+- 3000×3000 · ER Icon Key Item Unalloyed Gold Needle (Broken).png · https://static.wikia.nocookie.net/eldenring/images/d/d1/ER_Icon_Key_Item_Unalloyed_Gold_Needle_%28Broken%29.png
+- 3840×2160 · Haligtree Promenade Demigods Statue 2.jpg · https://static.wikia.nocookie.net/eldenring/images/3/39/Haligtree_Promenade_Demigods_Statue_2.jpg
+- 3840×2160 · Elden Ring Screenshot 07.jpg · https://static.wikia.nocookie.net/eldenring/images/5/54/Elden_Ring_Screenshot_07.jpg
+- 3840×1630 · ER Promo 07 3840x1630.png · https://static.wikia.nocookie.net/eldenring/images/7/75/ER_Promo_07_3840x1630.png
+- 2538×1428 · Malenia Haligtree Statue Crown.jpg · https://static.wikia.nocookie.net/eldenring/images/f/f8/Malenia_Haligtree_Statue_Crown.jpg
+- 2880×1223 · Malenia and Radahn preparing to battle each other.jpg · https://static.wikia.nocookie.net/eldenring/images/0/00/Malenia_and_Radahn_preparing_to_battle_each_other.jpg
+- 2880×1222 · Malenia vs Radahn (story trailer).jpg · https://static.wikia.nocookie.net/eldenring/images/1/10/Malenia_vs_Radahn_%28story_trailer%29.jpg
+
+## Ranni the Witch: las imágenes más grandes de la wiki (112 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Ranni_the_Witch_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3840×2160 · ER.Ranni Quest cutscene 4.jpg · https://static.wikia.nocookie.net/eldenring/images/7/76/ER.Ranni_Quest_cutscene_4.jpg
+- 3840×2160 · ER.Ranni Quest cutscene 2.jpg · https://static.wikia.nocookie.net/eldenring/images/c/c0/ER.Ranni_Quest_cutscene_2.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 8.jpg · https://static.wikia.nocookie.net/eldenring/images/8/82/ER.Ranni_AotS_cutscene_8.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 7.jpg · https://static.wikia.nocookie.net/eldenring/images/d/d9/ER.Ranni_AotS_cutscene_7.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 5.jpg · https://static.wikia.nocookie.net/eldenring/images/7/74/ER.Ranni_AotS_cutscene_5.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 3.jpg · https://static.wikia.nocookie.net/eldenring/images/3/30/ER.Ranni_AotS_cutscene_3.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 2.jpg · https://static.wikia.nocookie.net/eldenring/images/b/ba/ER.Ranni_AotS_cutscene_2.jpg
+- 1920×1080 · Three Fingers Icon.png · https://static.wikia.nocookie.net/eldenring/images/f/f8/ER_Promo_Screenshot_20.jpg
+
+## Starscourge Radahn: las imágenes más grandes de la wiki (185 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Starscourge_Radahn_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3840×2160 · Miquella Appearance.jpg · https://static.wikia.nocookie.net/eldenring/images/9/90/Miquella_Appearance.jpg
+- 3840×2160 · Figuarts Mini Radahn.jpg · https://static.wikia.nocookie.net/eldenring/images/5/5e/Figuarts_Mini_Radahn.jpg
+- 3840×2160 · ER trailer demigods fight.jpg · https://static.wikia.nocookie.net/eldenring/images/3/39/ER_trailer_demigods_fight.jpg
+- 1920×2095 · Starscourge Radahn concept art.jpg · https://static.wikia.nocookie.net/eldenring/images/6/64/Starscourge_Radahn_concept_art.jpg
+- 2560×1440 · Promised Consort Radahn Gate.jpg · https://static.wikia.nocookie.net/eldenring/images/2/26/Promised_Consort_Radahn_Gate.jpg
+- 2560×1440 · Promised Consort Radahn CloseUp.jpg · https://static.wikia.nocookie.net/eldenring/images/f/f0/Promised_Consort_Radahn_CloseUp.jpg
+- 2560×1440 · Promised Consort Boss.jpg · https://static.wikia.nocookie.net/eldenring/images/d/da/Promised_Consort_Boss.jpg
+- 2560×1440 · Consort of Miquella Boss.jpg · https://static.wikia.nocookie.net/eldenring/images/c/c7/Consort_of_Miquella_Boss.jpg
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de eldenring.fandom.com (4 páginas y sus galerías)…
+  311 imágenes enlazadas, 208 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/elden-ring
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
