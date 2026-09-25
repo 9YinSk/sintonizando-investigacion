@@ -19,8 +19,8 @@ Cuenta: cuenta A104
 - 80 Solo Leveling: **COMPLETA y subida** (07:0x UTC). ✅13 ⚠️24 ❌0, 127 referencias, 42 webs, 1572 líneas.
 - 81 Mushoku Tensei: **COMPLETA y subida** (07:1x UTC). ✅22 ⚠️16 ❌0, 229 referencias, 51 webs, 1506 líneas.
 - 82 The Rising of the Shield Hero: **COMPLETA y subida** (07:3x UTC). ✅19 ⚠️11 ❌0, 133 referencias, 44 webs, 1169 líneas.
-- 83 Overlord: las 4 partes completas; redactor lanzado.
-- 84 No Game No Life: lanzados imagen y texto.
+- 83 Overlord: **COMPLETA y subida** (07:4x UTC). ✅16 ⚠️14 ❌0, 150 referencias, 43 webs, 700 líneas.
+- 84 No Game No Life: imagen y texto completos; lanzados voz y vídeo.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
@@ -56,6 +56,17 @@ Cuenta: cuenta A104
   del 25-sep no bloquea, sólo nota. Todo el vídeo en 720p (YouTube bloqueado); frases
   latinas sin episodio ni minuto (sólo muestras de Doblaje Wiki); Filo sin ninguna cara con
   minuto en vídeo.
+
+- **83 Overlord:** más querido en Japón, Ainz (encuesta oficial Dengeki 2024); fuera de
+  Japón, Albedo gana en AniList y Danbooru (2.ª en Japón). Cuadro de diálogo propio: la
+  doble voz de Ainz — lo que dice en recuadro negro `#0C0B10` con filete dorado `#E1CF6B`,
+  lo que piensa aparte; la calavera nunca cambia, sólo brillan sus cuencas rojas. Títulos
+  en Pirata One. Láminas: A #reglas (Albedo con el decreto, Ainz en penumbra), B
+  #bienvenidas (Ainz junto a la placa de la puerta de Nazarick), C #staff (Demiurge
+  explicando en la mesa de mapas). Corregidos dos errores de la parte de vídeo: la
+  masacre de Katze es T3 ep. 12 (no T1 ep. 7); Emiri Katō es Aura y Kenta Miyake es
+  Cocytus (créditos del PV mal leídos). No hay frases del doblaje latino de Albedo,
+  Shalltear ni Demiurge (sólo del narrador, ep. 1).
 
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
@@ -118,3 +129,4 @@ Cuenta: cuenta A104
 | 80-solo-leveling-el-sistema-y-las-sombras | redactor (opus, relanzo, cuenta .104) | opus | 8 | 99941 |
 | 81-mushoku-tensei | redactor (opus, relanzo, cuenta .104) | opus | 10 | 247596 |
 | 82-the-rising-of-the-shield-hero | redactor (opus, cuenta .104) | opus | 12 | 262802 |
+| 83-overlord | redactor (opus, cuenta .104) | opus | 10 | 240466 |
