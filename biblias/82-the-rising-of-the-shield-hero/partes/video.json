@@ -79,5 +79,41 @@
     "que_es": "Banner oficial del anime en AniList",
     "para_que": "Arte oficial de referencia general (uso principal del investigador de imagen)",
     "licencia": "Material promocional oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://vgmdb.net/album/84770",
+    "fuente": "VGMdb",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial del álbum \"The Rising of the Shield Hero Original Soundtrack \"Dusk\"\" (COCX-40782, Kevin Penkin, 2019) con tracklist completo, incluye \"Raphtalia\" (pista 18) y \"Falling Through Starlight\" (ft. Amelia Jones / ft. Asami Seto, pistas 22 y 25)",
+    "para_que": "Confirmar en segunda fuente el tema de la escena mas emotiva de la Temporada 1 (punto 9) y tener el tracklist oficial completo del OST",
+    "licencia": "Ficha de catalogo, solo referencia/consulta"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/interest/2019-01-31/rising-of-the-shield-hero-english-dub-will-include-alternative-insert-song-for-episode-4/.142809",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Articulo que confirma el insert song \"Falling Through Starlight\" del episodio 4, con version alternativa en ingles para el doblaje",
+    "para_que": "Fuente 1 de 2 para confirmar el tema de la escena mas emotiva de Raphtalia en la T1 (punto 9)",
+    "licencia": "Articulo periodistico, solo referencia"
+  },
+  {
+    "url": "https://twitter.com/ShieldHeroEN/status/1103859242556108800",
+    "fuente": "X/Twitter oficial (@ShieldHeroEN)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Publicacion oficial con los creditos completos de \"Falling Through Starlight\": compositor Kevin Penkin, version japonesa por Asami Seto (voz de Raphtalia), version inglesa por Amelia Jones",
+    "para_que": "Fuente 2 de 2 para confirmar el tema de la escena mas emotiva de Raphtalia en la T1 (punto 9)",
+    "licencia": "Cuenta oficial del anime, solo referencia"
+  },
+  {
+    "url": "https://www.tiktok.com/discover/the-rising-of-the-shield-hero-fandom",
+    "fuente": "TikTok (pagina de descubrimiento)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pagina de descubrimiento con hashtags activos (#shieldhero, #raphtalia, #naofumi) y ediciones de fans; sin un trend/audio unico coordinado, actividad dispersa con pico en el estreno de la T4 (jul-sept 2025)",
+    "para_que": "Cubrir el subpunto de tendencias de TikTok/YouTube del punto 10",
+    "licencia": "Plataforma publica, solo referencia de tendencia, no material a reutilizar"
   }
 ]

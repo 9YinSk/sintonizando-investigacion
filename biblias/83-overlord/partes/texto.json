@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/overlordmaruyama/images/thumb/f/f6/AOG_Banner.png",
+    "fuente": "overlordmaruyama.fandom.com (Flag of Ainz Ooal Gown)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bandera/emblema de la guild Ainz Ooal Gown, colgada en el 10º piso de Nazarick y usada como bandera del Reino Hechicero",
+    "para_que": "Sello o marca de agua del canal; símbolo central del punto 25 (mundo y símbolos)",
+    "licencia": "Copyright Kadokawa/Madhouse, uso como referencia no comercial (imagen alojada por la wiki de Fandom)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782150/ss_140e43222226f7607197e1740387bf8075f78db7.1920x1080.jpg",
+    "fuente": "Steam - OVERLORD: ESCAPE FROM NAZARICK (appid 1782150)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de juego: pasillo gótico de Nazarick con arcos apuntados, luz azul-violeta",
+    "para_que": "Referencia de fondo/arquitectura gótica y paleta de la Gran Tumba de Nazarick (puntos 11 y 18)",
+    "licencia": "Captura promocional oficial de Steam (Kadokawa/Engines Inc.), uso como referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782150/ss_287d7671785e55f43fe0c4aeda605e8948cde107.1920x1080.jpg",
+    "fuente": "Steam - OVERLORD: ESCAPE FROM NAZARICK (appid 1782150)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de juego: HUD de vida naranja, dial de habilidades violeta/rosa neón, minimapa, círculos de magia carmesí",
+    "para_que": "Referencia directa de interfaz de videojuego oscura para el punto 11 y para diseñar una ventana de \"sistema\" propia de Nazarick sin copiar el HUD azul de Solo Leveling",
+    "licencia": "Captura promocional oficial de Steam (Kadokawa/Engines Inc.), uso como referencia"
+  },
+  {
+    "url": "https://store.steampowered.com/app/1782150/OVERLORD_ESCAPE_FROM_NAZARICK/",
+    "fuente": "Steam store page",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de la tienda del juego oficial Overlord: Escape from Nazarick, con más capturas y descripción",
+    "para_que": "Fuente primaria del punto 11 (videojuegos de la franquicia)",
+    "licencia": "Página pública de Steam, no descargable como imagen única"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Mass_for_the_Dead",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del juego oficial para móvil Mass for the Dead (Exys Inc.), gacha por turnos",
+    "para_que": "Fuente del punto 11, para citar mecánicas e imágenes del sistema del juego",
+    "licencia": "Texto de wiki bajo CC-BY-SA (licencia de Fandom); imágenes propias de Kadokawa"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Overlord:_King_of_Nazarick",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del juego de cartas para móvil Overlord: King of Nazarick / Lord of Nazarick (bilibili / Crunchyroll Games)",
+    "para_que": "Fuente del punto 11, tercer juego oficial de la franquicia",
+    "licencia": "Texto de wiki bajo CC-BY-SA; imágenes propias de bilibili/Kadokawa"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Pirata+One",
+    "fuente": "Google Fonts / Fontsource (pirata-one)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía gótica libre (OFL-1.1), comprobada con fontTools: incluye ñ, Ñ, á, é, í, ó, ú, ¿, ¡",
+    "para_que": "Letra libre para el logo/título del canal, equivalente gratuito a \"Squealer\" (punto 5)",
+    "licencia": "SIL Open Font License 1.1 (libre, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Metal+Mania",
+    "fuente": "Google Fonts / Fontsource (metal-mania)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía gótica/heavy-metal libre, en subconjunto latin-ext (rango unicode cubre ñ/tildes/¿/¡)",
+    "para_que": "Alternativa de letra libre para títulos o cartelas del mundo (punto 5)",
+    "licencia": "SIL Open Font License (libre, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Nosifer",
+    "fuente": "Google Fonts / Fontsource (nosifer)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía de horror/goteo libre, en subconjunto latin-ext (rango unicode cubre ñ/tildes/¿/¡)",
+    "para_que": "Alternativa de letra libre para onomatopeyas o gritos con estética oscura (punto 5)",
+    "licencia": "SIL Open Font License (libre, uso comercial permitido)"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Story_Arcs",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista oficial de arcos argumentales de la novela con volúmenes, capítulos de manga y episodios de anime correspondientes",
+    "para_que": "Base del punto 25 (historia por arcos)",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Timeline",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cronología oficial de todos los volúmenes, especiales y dramas CD en orden narrativo",
+    "para_que": "Confirma y cruza el orden de arcos del punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/New_World",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del mundo donde transcurre Overlord: reglas físicas, traducción automática del habla, especie humana ficticia",
+    "para_que": "Base del punto 25 (reglas del mundo en cinco líneas)",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Ainz_Ooal_Gown_(Guild)",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la guild Ainz Ooal Gown: origen como \"Nine's Own Goal\", significado \"41 Seres Supremos\"",
+    "para_que": "Vocabulario propio y símbolos del punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Sorcerer_Kingdom",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Reino Hechicero (Sorcerer Kingdom), la nación fundada por Ainz, con su bandera",
+    "para_que": "Nación y símbolo del punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://yenpress.com/news/artist-showcase-the-art-of-so-bin",
+    "fuente": "Yen Press (editorial oficial en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo oficial de la editorial sobre el estilo pictórico de so-bin, diseñador de personajes original",
+    "para_que": "Fuente del punto 18 (estilo de dibujo y cómo replicarlo)",
+    "licencia": "Artículo editorial de Yen Press, citar con enlace, no reproducir imágenes sin permiso"
+  },
+  {
+    "url": "https://www.dafont.com/forum/read/371528/overlord-font",
+    "fuente": "dafont.com (foro de identificación de tipografías)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo del foro donde se identifica el logo de Overlord como la fuente \"Squealer\"",
+    "para_que": "Fuente del punto 5 (tipografía del logo)",
+    "licencia": "Foro público, sólo texto de referencia"
+  },
+  {
+    "url": "https://www.dafont.com/forum/read/384964/overlord-movie-logo-font",
+    "fuente": "dafont.com (foro de identificación de tipografías)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo del foro que confirma \"Squealer\" también para el logo de la película de Overlord",
+    "para_que": "Segunda fuente para el punto 5, confirma la identificación del logo",
+    "licencia": "Foro público, sólo texto de referencia"
+  },
+  {
+    "url": "https://store.steampowered.com/api/appdetails?appids=1782150",
+    "fuente": "Steam Web API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Endpoint JSON con metadatos y lista de capturas oficiales del juego Escape from Nazarick",
+    "para_que": "Fuente técnica usada para obtener las capturas del punto 11",
+    "licencia": "API pública de Valve/Steam"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Re-Estize_Kingdom",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Reino de Re-Estize con su bandera e infobox",
+    "para_que": "Nación vecina de Nazarick, punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Baharuth_Empire",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Imperio de Baharuth con su bandera e infobox",
+    "para_que": "Nación vecina de Nazarick, punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Slane_Theocracy",
+    "fuente": "overlordmaruyama.fandom.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Teocracia de Slane con su bandera e infobox",
+    "para_que": "Nación vecina de Nazarick, punto 25",
+    "licencia": "Texto de wiki bajo CC-BY-SA"
+  }
+]

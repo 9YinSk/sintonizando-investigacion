@@ -347,7 +347,7 @@ de juegos con el nombre «Overlord» que NO son de la franquicia). Wiki usada:
 - No se usó `seccion.py` porque `biblia.md` de este encargo aún no existe
   (se está creando desde cero); se partió sólo de `datos-texto.md`.
 
-Sigue: falta cerrar el ⚠️ de la tipografía interior de Yen Press (revisar
-colofón físico si el dueño tiene un ejemplar) y reintentar TCRF/TV Tropes más
-tarde por si el bloqueo de Cloudflare es temporal. El resto de los 6 puntos
-(5, 6, 11, 18, 24, 25) está a fondo, con ✅ mayoritario.
+Los 6 puntos (5, 6, 11, 18, 24, 25) están completos, con lo obligatorio de
+cada uno cubierto y en ✅ mayoritario. No queda «Sigue» obligatorio: lo que
+falta (tipografía interior de Yen Press, TCRF/TV Tropes bloqueados) es extra
+y ya está en «No encontré» con ⚠️, con las búsquedas hechas documentadas.
