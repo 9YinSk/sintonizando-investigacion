@@ -245,7 +245,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 > Haz la tanda S23 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/89-frieren-paisajes-y-memoria.md`, `encargos/90-kaguya-sama-love-is-war.md`, `encargos/91-the-apothecary-diaries-el-diario-de-la-b.md`, `encargos/92-a-silent-voice-la-chica-sorda.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 89-frieren-paisajes-y-memoria
+- [x] 89-frieren-paisajes-y-memoria
 - [ ] 90-kaguya-sama-love-is-war
 - [ ] 91-the-apothecary-diaries-el-diario-de-la-b
 - [ ] 92-a-silent-voice-la-chica-sorda
