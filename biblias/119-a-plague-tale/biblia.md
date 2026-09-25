@@ -485,3 +485,248 @@ Descripción de la wiki (sección «Appearance» de [Amicia](https://aplaguetale
   - 1920×1080 · ♥13 · corriendo con ratas · [imagen](https://w.wallhaven.cc/full/8x/wallhaven-8x9ex1.jpg) ✅.
   - Los de ⚠️: tamaño leído en la ficha, no descargados.
 
+## 17 · Guía para IA de imagen y de texto
+
+Escrita por el redactor con todo lo anterior. Las IA de imagen (Firefly, Canva) entienden mejor el inglés: los bloques de prompt van en inglés; la explicación, en español.
+
+### Para una IA de imagen
+
+**El estilo en una línea**: videojuego 3D **realista y cinematográfico**, Francia de 1348, luz de antorcha contra oscuridad, niebla, colores terrosos y apagados. No es anime ni dibujo animado.
+
+**Bloque de estilo** (pegar siempre):
+`realistic cinematic video game still, 14th century rural France, 1348 black plague, muted earthy palette, warm torchlight against cold darkness, volumetric fog, god rays, soft film grain, shallow depth of field, subsurface scattering skin, dirt and wear on clothes, no outlines`
+
+**Rasgos que nunca cambian**
+- **Amicia** (15): pelo castaño **trenzado** (una trenza a la espalda; al principio moño alto con cinta rosa), **ojos azules**, cara con **cicatrices finas** en el puente de la nariz, el labio inferior y la barbilla (tras el asalto), **capucha o capa corta con cuello de piel**, jubón de cuero oscuro, **honda** al cinto. En *Requiem*: gambesón acolchado, placa en el codo derecho, **ballesta**, pelo cada vez más corto.
+  `teenage girl, brown hair in a single braid, blue eyes, thin scars on nose bridge and chin, fur-trimmed hooded capelet, dark leather jerkin, sling in hand`
+  Etiquetas de Danbooru de Amicia (vocabulario que entienden las IA): `brown_hair`, `blue_eyes`, `braid`, `half_up_braid`, `capelet`, `fur_trim`, `freckles`, `injury`, `realistic` ✅ (recolector).
+- **Hugo** (5): niño pequeño y menudo, **pelo castaño largo y despeinado**, **ojos azules grandes**, pecas; túnica **verde, azul, roja o morada** con camisa blanca (*Innocence*) o **chaleco verde y bufanda óxido con broche redondo** (*Requiem*). Si está enfermo: **venas oscuras** que suben por el cuello.
+  `small five-year-old boy, messy shoulder-length brown hair, big blue eyes, freckles, green tunic over white shirt, rust-colored scarf with round brooch`
+- **Las ratas**: `a dense swarm of black rats, glinting eyes, piling over each other, stopping at the edge of the torchlight circle`. Siempre en masa, siempre fuera del círculo de luz.
+
+**Paleta** (hex medidos, §4, §15 y §16): negro de cripta `#030202`, sombra caliente `#361B14`, fuego `#E0801C` / `#F6C381`, cuero `#27170E`, capa a la antorcha `#40241E`, niebla de amanecer `#9D9481`, noche azul `#17212D`, nieve `#B9D0E0`, sol de Provenza `#E5C289`, ladrillo `#C38D68`, rojo del logo `#8C0000`.
+
+**Línea y sombreado**: **sin contorno**. Materiales realistas (PBR), piel con dispersión de luz, degradados suaves. El arte promocional (portada, Ponsonnet) es **pintura digital** de bordes que se deshacen en niebla, casi monocroma.
+
+**Luz**: **una sola fuente cálida** (antorcha, vela, ventana) y el resto frío y oscuro; niebla con rayos de luz; contraluces al atardecer. «*A candle's glow should warp perception*» (artista de iluminación, GDC 2023) ⚠️.
+
+**Encuadre**: (1) plano de viaje: figuras pequeñas ante paisaje grande, de espaldas, hacia la luz; (2) primer plano íntimo a dos, cámara baja y muy cerca; (3) silueta a contraluz (§18).
+
+**Palabras que ayudan**: `torchlight`, `candlelit`, `volumetric fog`, `overcast dawn`, `muted desaturated colors`, `medieval French village`, `stone and thatch`, `battlefield mist`, `oil painting` (sólo para un estilo de portada), `cinematic still`, `siblings`.
+
+**Palabras que lo estropean**: `anime`, `cartoon`, `chibi`, `cel shading`, `outline`, `vibrant`, `colorful`, `fantasy armor`, `glowing magic aura`, `cute rat`, `clean clothes`, `smiling heroine`, `shining knight`, `neon`, `sword` (para Amicia).
+
+**Vocabulario de expresiones**: el de anime (**gotas de sudor, fondos de emoción, *chibi***) **no aplica**. Aquí la emoción se dice con:
+- **La cara real**: lágrimas con suciedad, labios apretados, ojos muy abiertos, mandíbula tensa, sangre seca. `tear streaks on a dirty face`, `wide frightened eyes`, `clenched jaw`.
+- **La luz**: más cálida = más seguro; apagarse = miedo.
+- **Las ratas como «fondo de emoción»**: cuanto más enfadado o enfermo está Hugo, más ratas y más negra la **Nebula** (niebla negra del portador) ✅ (wiki).
+- **Las venas de la Macula** en el cuello de Hugo = la enfermedad avanza ✅.
+
+**Qué imágenes usar de referencia**
+- Estilo de portada: `fondos_01` #63 (portada) y #62 (Amicia y ratas).
+- Luz de antorcha: `fondos_01` #70 (Early Concept Art 1) y `arte_01` #13 (antorcha entre ratas).
+- Cara de Amicia: `personajes_01` #46 (tres caras) y #5 (retrato 4K); cuerpo entero: #45 (frente y espalda).
+- Cara de Hugo: `personajes_01` #7 y #11.
+- Grupo y alegría: `arte_01` #2 (Hugo a hombros de Amicia). Ternura: `personajes_01` #41.
+- Paisaje: `arte_01` #16 (asedio con niebla) y #6 (mercado de Provenza).
+
+### Para una IA de texto
+
+**Cómo hablan**
+- **Amicia**: frases cortas, órdenes para proteger, cariño seco. En calma, cortés (es noble). Bajo presión repite «no». Cuando estalla, **pausas con puntos suspensivos y el final en mayúsculas**: «Soy... Amicia de Rune... ¡Y no me arrodillo... ANTE NADIE!». En *Requiem*, sarcasmo duro.
+- **Hugo**: preguntas, palabras de niño, «mamá», «¿por qué?», «perdón». Dice lo que ve sin filtro. Se entusiasma con flores y animales. Cuando se enfada, protesta corto: «¡No soy tonto!».
+- **Béatrice**: frases serenas, casi proverbios. **Lucas**: explica con términos de alquimia y nombres latinos. **Sophia**: ironía de marinera, honor y tratos. **Mélie**: burla cariñosa. **Rodric**: tosco y breve. **La Inquisición**: amenazas solemnes, fuego y luz.
+- **Puntuación**: puntos suspensivos para las pausas; mayúsculas sólo en el clímax; exclamaciones pocas. **Sin emojis ni onomatopeyas de cómic**; los ruidos van en la imagen (ratas, fuego).
+- **Español**: no hay doblaje latino. Escribir en **español neutro latino** (ustedes, no vosotros) y marcar «traducción nuestra». El castellano de *Requiem* existe pero es de España.
+
+**Frases reales por emoción** (original en inglés, con fuente; la traducción es nuestra)
+- **Alegre**: Hugo, «It's true, it's dangerous out there... But sometimes it's fun too...» → «Es verdad, afuera es peligroso... Pero a veces también es divertido...» (*The Apprentice*, wiki ⚠️). «I promise you, tonight we shall dine like kings!» → «¡Te lo prometo, esta noche cenaremos como reyes!» (Story Trailer de *Innocence*, 0:00-1:00, Whisper ⚠️).
+- **Enfadado**: Amicia, «I'm... Amicia de Rune... And I kneel... TO NO ONE!» (*The Life We Deserve* ⚠️; tráiler 1:39 ✅). «This is a constant reminder that I should kill you.» → «Esto me recuerda a cada rato que debería matarte.» (Story Trailer de *Requiem*, 1:01 ✅). Hugo, «I hate you!» → «¡Te odio!» (tráiler de lanzamiento, Whisper ⚠️). Nicholas, «Since you refuse to go to hell... I shall bring hell to YOU!» → «Ya que no quieres ir al infierno... ¡yo te traeré el infierno!» (*Remembrance* ⚠️).
+- **Explicando**: Béatrice, «Monsters are those things to which we have never given a name.» → «Los monstruos son las cosas a las que nunca les hemos dado un nombre.» (⚠️). Lucas, «The Macula cares for neither good nor evil... It evolves with its host.» → «A la Macula no le importan ni el bien ni el mal... Evoluciona con su portador.» (*The Ravens' Spoils*, wiki ✅).
+- **Animando**: Amicia, «I'll carry you.» → «Yo te llevo.» y «Everything is alright.» → «Todo está bien.» (tráiler de lanzamiento, Whisper ⚠️). Mélie, «Try to be a bit more enthusiastic, will you?» → «Pon un poco más de ganas, ¿quieres?» (⚠️). Rodric, «THIS, at least, I know how to do!» → «¡ESTO, al menos, sé hacerlo!» (⚠️).
+- **Triste**: Hugo, «Amicia, I want to see mommy.» / «I want her to come back.» → «Amicia, quiero ver a mamá.» / «Quiero que vuelva.» (tráiler de lanzamiento, 0:00-1:00, Whisper ⚠️). *Requiem*: «This world hurts. I want to hurt it back.» / «But it's a fight you cannot win, Amicia.» → «Este mundo duele. Quiero hacerle daño yo también.» / «Pero es una pelea que no puedes ganar, Amicia.» (Story Trailer, entre 1:04 y 1:39, Whisper ⚠️ quién lo dice). Blake por Sean Bean: «Father, speak to your little boy, or else I shall be lost.» (tráiler «The Little Boy Lost» ✅).
+
+**Vocabulario propio** (tal cual, en cursiva si hace falta): *Prima Macula* / la Macula · el Mordisco (*Bite*) · la *Nebula* · *Sanguinis Itinera* · *V.I.T.R.I.O.L.* · *Ignifer* · Guyenne · la Inquisición y su lema *Ad Ignem. Ad Lucem.* · la Orden · La Cuna · la Ciudad Roja · el Niño de las Ascuas (*Child of Embers*) · el herbario de Hugo · curiosidades · *Souvenirs* · la honda. Los nombres oficiales en los subtítulos latinos **no se recogieron** ⚠️: usar el original.
+
+## 18 · Estilo y técnica, y cómo replicarlo
+
+**Cómo lo hizo el estudio**
+- **Motor propio, Zouna**. Nace a finales de los 90 en Kalisto Entertainment como «TotemTech»; Asobo (fundado por ex-Kalisto) lo hereda en 2002. Con *Innocence* llegan la luz dinámica, la puesta en escena de cine y el sistema de ratas; *Requiem* lo renueva entero. El mismo linaje mueve *Microsoft Flight Simulator* ✅ ([wiki](https://aplaguetale.fandom.com/wiki/Zouna), [Hacker News](https://news.ycombinator.com/item?id=22966499), [GitHub widberg/fmtk](https://github.com/widberg/fmtk/wiki/TotemTech-ToonTech-Zouna-ACE-BSSTech-Opal-Timeline)).
+- **No es *toon***: aunque una rama del motor se llamó «ToonTech», el juego es **render realista (PBR)** ✅.
+- **Las ratas**: comportamiento, no física. **4 niveles de detalle** (las cercanas con detalle, las lejanas se funden en sombra) y cálculo en varios núcleos: **5000 ratas visibles + 5000 detrás** en *Innocence*; **cientos de miles** en *Requiem* ✅ ([PlayStation Blog 2019](https://blog.playstation.com/archive/2019/05/09/how-a-plague-tale-innocences-horrifying-rat-swarm-was-created/), [2022](https://blog.playstation.com/2022/09/28/the-ps5-features-bringing-a-plague-tale-requiem-to-life/)).
+- **La luz**: iluminación global precalculada + oclusión ambiental (SSAO) + reflejos (SSR) + **niebla volumétrica y rayos de luz**. Kevin Pinson: «*Specifically, we are a game about light*»; más luces dinámicas en *Requiem* ✅ (gamingtrend y wccftech). Cita del artista de iluminación en la GDC 2023, de segunda mano ⚠️.
+- **Piel con *subsurface scattering***; variedad de materiales mezclándolos y rompiéndolos con **calcas** (*decals*) ⚠️ ([iamag](https://www.iamag.co/the-art-of-a-plague-tale-innocence-by-olivier-ponsonnet/), dio 403).
+- **Captura de movimiento**: sólo de cuerpo en *Innocence*; **completa** en *Requiem*, para una Amicia «más expresiva y humana» ✅ ([Xbox Wire](https://news.xbox.com/en-us/2022/09/28/powering-the-astounding-journey-of-a-plague-tale-requiem-with-xbox-series-x-s)).
+- **El arte promocional** (Ponsonnet): pintura digital, pincelada suelta, bordes que se deshacen en niebla, sin línea; `estilo.py` lo mide como línea muy fina y sombreado en degradado ✅.
+
+**Cómo replicarlo en Blender** (receta propuesta con lo confirmado; no hay *making of* línea a línea porque Zouna es cerrado ⚠️)
+- **Modelo**: el de Amicia de Sketchfab (CC BY, §3). No hay *rig* oficial libre ⚠️.
+- **Material de piel**: Principled BSDF con **Subsurface** activado; ropa con texturas CC0 de cuero y tela (§4) y una capa de suciedad.
+- **Contorno**: **ninguno**. Freestyle, Line Art y Solidify apagados.
+- **Luz**: una luz de punto naranja (antorcha, ~1800-2000 K) con sombras suaves; un **Sun** muy bajo y frío de relleno; **Volume Scatter** en el mundo o en un cubo para la niebla y los rayos.
+- **Ratas**: un sistema de partículas o Geometry Nodes con muchas instancias de una rata simple; **una máscara esférica** alrededor de la antorcha que las borra (el círculo de luz).
+- **Render**: Cycles o Eevee con niebla volumétrica; profundidad de campo corta; ligero grano.
+
+**En Photoshop**
+- Viñeteado, **grano fino**, temperatura **fría en exteriores y lluvia, cálida con antorcha**.
+- Para el estilo portada: base casi monocroma gris beige, niebla blanca que se come los bordes, pincel de óleo suelto y las ratas como una única mancha oscura.
+
+**Encuadres y composición** (documental oficial y tráileres, §2) ✅:
+- **Plano de viaje**: personajes pequeños, horizonte alto, de espaldas hacia la luz ([0:45](https://www.dailymotion.com/video/x8ddp8o?t=45); tráiler de *Requiem* 0:32 y 3:44).
+- **Primer plano a dos**, cámara baja y cerca, para lo emotivo ([5:15](https://www.dailymotion.com/video/x8ddp8o?t=315)).
+- **Contraluz** al atardecer o ante el fuego ([3:45](https://www.dailymotion.com/video/x8ddp8o?t=225); Story Trailer de *Requiem* 1:31).
+- Cada emoción: miedo en primer plano cerrado; ternura en plano a dos; amenaza en silueta; esperanza en plano abierto con luz al fondo.
+
+## 19 · Texturas 2D
+
+- **Tramas de manga**: no aplica (juego 3D realista, sin cómic) ✅.
+- **Pincelada y grano de pintura digital** de la portada y el «Early Concept Art 2»: la textura del arte promocional ✅.
+- **Estampado de la túnica de Hugo** (*Requiem*): **topos o rombos claros** repetidos sobre verde oliva (`#252415`) ✅ (recorte de `arte_01` #6).
+- **Bordado dorado** de la túnica negra de Hugo con la Inquisición (`personajes_01` #8) y **corpiño bordado rojo** de Amicia (`arte_01` #2) ✅ vistos.
+- **Emblema del león verde devorando el sol**, símbolo alquímico de la disolución; coleccionable «Iconography» de *Innocence*, tallado en el Château d'Ombrage. Icono 359×359 · [imagen](https://static.wikia.nocookie.net/a-plague-tale-innocence/images/d/da/Plaguetale31.png) · [ficha](https://aplaguetale.fandom.com/wiki/Iconography) ✅. Tallable en madera o piedra en Blender.
+- **Los tres escudos del DLC «Coats of Arms»** (vistos por el redactor en la captura de Steam): cada uno con un **árbol**, un sol o una luna y su lema en latín en una cinta, y tres **medallones redondos** con árboles sobre el título «COATS OF ARMS» en capitales romanas ✅:
+  - morado y negro con árbol y sol: «*Haud Vita Sine Morte*»;
+  - verde y blanco con sol, árbol y luna: «*Victoria Pro Fidelitate*»;
+  - rojo y azul con chevrón y árbol rojo: «*Ruber Sanguis Est Nobis*».
+  - Es un cosmético de tienda; la wiki no documenta un blasón **canónico** de los de Rune ⚠️.
+- **Cruz patriarcal** (de dos brazos) de la Inquisición y **«pall» con ganchos** (una Y con los brazos acabados en gancho) de la Orden (§25) ✅. En el salón de pétalos (`arte_01` #3) cuelgan escudos con una forma de Y ⚠️ (parece la de la Orden; sin confirmar).
+- **Equivalentes libres** (CC0, ambientCG): cuero [Leather030](https://ambientcg.com/a/Leather030), piedra [Rock064](https://ambientcg.com/a/Rock064), tela [Fabric061](https://ambientcg.com/a/Fabric061), **papel o pergamino** para el Códex [Paper006](https://ambientcg.com/a/Paper006) ✅. Pinceles de óleo libres: no están en las partes ⚠️.
+- **Las ratas no son una textura**: son un enjambre de partículas; en 2D, una **mancha compacta** de lomos negros con brillos, como en la portada ✅.
+
+## 20 · Gustos y detalles
+
+De la ficha de cada personaje en la wiki (infobox y «Trivia»). **No hay alturas ni cumpleaños exactos** en ninguna ficha (el campo `height` está vacío en las diez) ⚠️. Tampoco comidas favoritas ⚠️.
+
+| Personaje | Edad y nacimiento | Pelo y ojos | Lo que ama o lleva | Fuente |
+|---|---|---|---|---|
+| **Amicia** | 15; nace hacia **1333** (voz) o **1334** (cronología) ⚠️ las partes chocan | castaño, azules | la honda (regalo de su padre), luego ballesta y alquimia; su perro **Lion**; leer; le gustaría **tocar un instrumento** (se lo dice a un vendedor de laúdes, capítulo *Newcomers*) | wiki ✅ |
+| **Hugo** | nace en **1343**; 5 años en *Innocence* (imagen) o 6-7 (voz) ⚠️ | castaño, azules | **flores y botánica** (de su madre); el **herbario**, una flor por capítulo; en *Requiem*, «Hugo's Collection» (flores y plumas) | wiki ✅ |
+| **Lucas** | 12; hacia 1336 | castaño, azules | alquimia y libros; según Amicia, a veces ve mal (*The Way of Roses*) | wiki ⚠️ |
+| **Béatrice** | — | castaño, marrones | alquimista; no se sabe si ya lo era antes de la enfermedad de Hugo | wiki ⚠️ |
+| **Rodric** | sin edad | castaño, marrones | herrero, hijo del herrero del pueblo | wiki ⚠️ |
+| **Mélie** | 16 | **rojo**, azules | ganzúa; ladrona | wiki + hilo del guionista ✅ |
+| **Arthur** | 16; hacia 1332 | — | fuego y explosivos | wiki + guionista ✅ |
+| **Nicholas** | finales de los 30 | — | espadón; capitán | wiki (vía Tumblr de un desarrollador) ⚠️ |
+| **Vitalis** | — | grises, grises | Gran Inquisidor | wiki ⚠️ |
+| **Sophia** | nace hacia 1312; 37 en *Requiem*, 22 en *Resonance* | castaño, marrones | espada, daga, la Esfera Minoica y el Prisma; **tesoros** y peligro; **miedo a las alturas**; apodo «**The Scorpion of the Seas**» | wiki + devblog de Focus ✅ |
+
+- **Cómo se ve a sí mismo Hugo**: capaz de «cosas malas»; lo resume su «You're too evil!» ⚠️.
+- **Aviso de fechas**: una parte dice que Hugo muere en Marsella en julio de 1349; la cronología pone *Requiem* entre junio de 1349 y junio de 1350 ⚠️ por comprobar. Es *spoiler* del final.
+- **El perro**: la wiki lo llama **Lion**; en el tráiler se oye «Go Leon!» y la parte de vídeo escribe «Léon» ⚠️ (Whisper; quizá la pronunciación francesa).
+
+## 21 · Por qué la aman
+
+**Premios y ventas**
+- *Requiem*: **5 nominaciones en The Game Awards 2022**: Juego del Año, Mejor Narrativa, Mejor Banda Sonora, **Mejor Interpretación (Charlotte McBurney, Amicia)** y Mejor Acción/Aventura. También Mejor Narrativa en los BAFTA ✅ ([TGA wiki](https://thegameawards.fandom.com/wiki/A_Plague_Tale:_Requiem) + Focus).
+- *Requiem* pasó **1 millón de jugadores en su primera semana** ✅ ([BusinessWire, Focus](https://www.businesswire.com/news/home/20221102005863)).
+- *Innocence*: nominado a Mejor Narrativa en The Game Awards 2019 ✅; notas de 8 a 10 sobre 10 en la portada de Steam (GameSpot 8, Windows Central 9, ScreenRant 10) ✅ visto.
+
+**Por qué conecta**
+- **Los hermanos**. Es la razón número uno en reseñas y en Reddit ✅.
+- Una historia «emocional, desgarradora y dura sobre pagar el precio de las propias acciones»; *Requiem* «empezó lleno de ligereza y esperanza y descendió hacia la depresión» ✅ (TheFandomentals + [TheGamer](https://www.thegamer.com/a-plague-tale-requiem-heartbreaking-moments/)).
+- **Con quién se identifica el público**: con **Amicia** por su transformación (de protectora a alguien que pierde la empatía) y con **Hugo** por la inocencia perdida ✅.
+- La **música** de Derivière y el **coro** en francés; la **luz** como forma de contar ✅ (§9, §18).
+
+**Las escenas que hacen llorar** (ranking de TheGamer para *Requiem*, ⚠️ un medio; Reddit lo confirma en general)
+1. «**Hugo deja de hablar**» (puesto 1).
+2. **La muerte de Hugo** por la Macula, capítulo final *Dying Sun* (capítulo 15) (puesto 7): «de todas las muertes de los dos juegos, la más desgarradora» ⚠️.
+3. Arnaud se sacrifica por sus amigos (9) · Béatrice asesinada delante de Amicia (10) · Amicia sufre en silencio (6) · una moribunda confunde a Amicia con otra persona (2) ⚠️.
+- *Innocence*: la escena final lleva «**The Wrath**» ✅; la muerte del perro, «Grieving» ✅; Rodric cae a las puertas de la catedral ✅.
+- **Minuto exacto** de estas escenas, encuadre y reacción con votos: **no están en las partes** ⚠️ (YouTube bloqueado; no hay vídeo de las escenas finales mirado).
+- **Lo que emociona sin llorar**: la fiesta de las flores (Launch Trailer 0:55), Hugo a hombros de Amicia entre aplausos (`arte_01` #2), el reencuentro en el barco (Story Trailer 1:09) ✅.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Fandub en español**: no lo encontré, ni en YouTube, TikTok ni Dailymotion (búsquedas en español e inglés: «fandub español», «doblaje de fans», API de Dailymotion) ⚠️. Tiene sentido: no hubo doblaje latino y no es un anime de frases cortas.
+- **Es una oportunidad para el servidor**: Amicia y Hugo **nunca tuvieron voz latina**. Un reto o un proyecto de doblaje sería el primero ⚠️ (idea del redactor).
+- **Contenido hispano que sí hay** (sin mirar, ⚠️):
+  - Vídeos en YouTube como «A Plague Tale Requiem: la historia de Hugo y Amicia continúa» y «El fin del viaje: el destino de Hugo y Amicia».
+  - En Internet Archive, «[La Plaga Del Año 1300, El Juego (A Plague Tale Innocence) || Roberttson](https://archive.org/details/la-plaga-del-ano-1300-el-juego-a-plague-tale-innocence-roberttson)» y el pódcast «[El Complejo Lambda 13x11](https://archive.org/details/cl13x11elcomplejolambda)» dedicado a *Innocence*.
+- **Prensa hispana**: 3DJuegos, Vandal, SomosXbox, HobbyConsolas, Meristation, **Level Up (Chile)**, 3DJuegos México, NextGame, AllGamersIn y GeneracionXbox dieron como noticia el doblaje al castellano de *Requiem* (octubre de 2022) ✅.
+- **Covers en español**: no hay opening cantado que cubrir; la única canción es «O Ma Belle Lune», en francés. No encontré covers ⚠️.
+- Memes hispanos propios: no encontrados ⚠️.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**Figuras oficiales** (su pose sirve de referencia 3D)
+- ***Innocence*, Amicia & Hugo Premium Statue, Silver Edition**: resina, **23 cm**, **500 unidades**, esculpida por el equipo de Asobo con Silver Fox Collectibles; venía con el juego ✅ ([Focus](https://store.focus-entmt.com/eu/product/631994/a-plague-tale-innocence-amicia-hugo-premium-statue-silver-edition-pc) + [tienda oficial](https://store.aplaguetale.com/products/amicia-hugo-premium-statue-silver-edition)).
+- ***Requiem*, Collector's Edition**: estatua de resina de **20 cm**, Amicia y Hugo en acción con la ropa de *Requiem*; **broche metálico con la pluma de Hugo**, **vinilo de 45 rpm** con la banda sonora y 3 litografías A4. 189,99 USD ✅ ([EGM](https://egmnow.com/a-plague-tale-requiems-collectors-edition-includes-amicia-and-hugo-statue/) + [Twinfinite](https://twinfinite.net/news/a-plague-tale-requiem-collectors-edition-revealed-includes-amicia-hugo-statue/)).
+- Fotos de las estatuas en alta: no están en las partes ⚠️.
+
+**Cosplay**
+- **Guía oficial** de Asobo (Amicia, *Requiem*, 31-may-2023) ✅ (§15).
+- **Rogue Heart Cosplay**: la **ballesta de Amicia** en goma EVA, Worbla, Plasti Dip y pintura PlaidFX; unas 33 horas; madera pintada y falso metal en el lateral · [Tumblr](https://rogueheartcosplay.tumblr.com/post/701640770252341248/amicias-crossbow-from-a-plague-tale-requiem) ⚠️.
+- **unpetitrat**: guía de cosplay de Amicia (*Innocence*) · [Tumblr](https://www.tumblr.com/unpetitrat/186301781264/amicia-cosplay-guide) ⚠️.
+- Traje comercial «Amicia De Rune New Edition» · [ezcosplay](https://www.ezcosplay.com/a-plague-tale-innocence-amicia-de-rune-new-edition-cosplay-costume-ecm1684.html) ⚠️.
+- Fotos de **Scarlizz** en Flickr («Amicia», «Vitalis») (§3) ⚠️.
+
+**Mercancía**: tienda oficial con camisetas («Amicia de Rune T-Shirt») y funda de móvil; la tienda dio 503 ⚠️.
+
+**Cruces con otras marcas** (Fortnite, gachas, Dead by Daylight), cafés o exposiciones: **no los encontré** (búsquedas en inglés) ⚠️.
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Influencias que reconoce el estudio**: «*The most obvious references are the Naughty Dog's games, especially Last of Us... It's difficult to ignore games like Ico, Brothers – A Tale of Two Sons, or Journey, which succeed marvelously at building a relationship between player and companion*» ✅ ([FandomWire](https://fandomwire.com/a-plague-tale-requiem-developers-discuss-plans/) + otra nota sobre *Innocence*, que suma *The Witcher 3*).
+- Asobo **querría** hacer una entrega en el presente, por lo mucho que le inspiró *The Last of Us* ⚠️ ([TechRadar](https://www.techradar.com/gaming/asobo-games-says-it-would-love-to-make-a-modern-day-entry-in-the-a-plague-tale-series-since-naughty-dogs-the-last-of-us-was-a-big-inspiration)).
+- **Parecidos según tiendas y prensa**: *Vampyr* (mismo compositor, chelo), *GreedFall*, *Hellblade* I y II, *Metro* ⚠️ (listas automáticas).
+- **Literatura**: el poema «The Little Boy Lost» de William Blake, de *Songs of Innocence* (1789), da eco al título del primer juego ✅.
+- **Historia real**: la peste negra de 1348, la Guerra de los Cien Años y el año santo de 1350 (§25) ✅.
+- **Dentro de la franquicia**: *Resonance: A Plague Tale Legacy* (2026), precuela con Sophia, mismo motor y compositor ✅.
+
+**Láminas vecinas del servidor** (para no repetir ideas):
+- **Hellblade (118)** y **God of War (117)** son encargos hermanos: también realistas y oscuros. Hellblade propone #textos con una **piedra rúnica**. Aquí #textos usa **papel y fuego**, no piedra.
+- **Death Note (18)** y **Shrek (59)** también piden #textos; **Frieren (33)** usa la idea de «colección de grimorios» en #recursos (por eso aquí el herbario va a #fotos, no a #recursos).
+- **Encanto (58)**, **Mushoku Tensei (81)** y Scooby-Doo proponen algo para #dudas.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** (wiki, [Prima Macula](https://aplaguetale.fandom.com/wiki/Prima_Macula), y Lucas en *The Ravens' Spoils*) ✅:
+1. La **Prima Macula** («primera mancha») viaja en la sangre de ciertas familias y despierta en un portador al nacer.
+2. Cuando despierta, **atrae enjambres de ratas** y trae la plaga, el **Mordisco**.
+3. El portador puede, en parte, **mandar a las ratas**.
+4. No es buena ni mala: «**evoluciona con su portador**».
+5. Ya causó la **Peste de Justiniano** (541, portador Basilius) antes de despertar en **Hugo**.
+- Y la regla práctica: **las ratas no entran en la luz**; el fuego las espanta ✅.
+
+**La historia por arcos** (cronología de la [wiki](https://aplaguetale.fandom.com/wiki/Timeline)) ✅:
+- **Antes**: Robert y Béatrice de Rune viven en Guyenne. Nace Amicia (1333-1334) y, en 1343, Hugo. Desde 1337, la Guerra de los Cien Años.
+- ***Innocence*** (fin de 1348 a 1349): la Inquisición asalta la finca de los de Rune; la madre se queda atrás y Amicia huye con Hugo. Se unen Lucas, Mélie, Arthur y Rodric. La Inquisición captura a Béatrice; Arthur muere torturado y Rodric cae a las puertas de la catedral. El enemigo final es el Gran Inquisidor Vitalis. Epílogo en la nieve: capítulo XVII, «For Each Other».
+- ***Tenebris*** (novela, principios de 1349).
+- ***Requiem*** (junio de 1349 a junio de 1350): viaje al sur con Béatrice y Lucas buscando la **isla** de los sueños de Hugo. Sophia, Arnaud, La Cuna, el culto del **Niño de las Ascuas** del conde Victor de Arles, la Ciudad Roja. Final: capítulo *Dying Sun* ⚠️ (*spoiler*).
+- **Después**: 1453, fin de la guerra. La wiki cierra con un gancho: la URSS (1960-1991) crea una peste artificial, y en «20XX» la Macula reaparece en un descendiente de los de Rune ✅.
+- **Consultora histórica real**: la Dra. **Roxane Chilà** (Universidad Bordeaux Montaigne) revisó *Requiem* y aportó el campamento de peregrinos del año santo de 1350 ✅ ([universidad, en francés](https://www.u-bordeaux-montaigne.fr/fr/actualites/culture/annee-2022-2023-2/recherche-et-jeu-video-roxane-chila-consultante-pour-le-jeu-a-plague-tale-requiem.html) + wiki).
+
+**Facciones y emblemas** ✅ ([Inquisition](https://aplaguetale.fandom.com/wiki/Inquisition), Order):
+- **La Inquisición**: religiosa y militar, de Guyenne; su misión «nunca fue aprobada por la Iglesia». Blasón: **cruz patriarcal**. Lema: «***Ad Ignem. Ad Lucem.***» («Al fuego. A la luz.»). Jefes: Vitalis y Nicholas, con la Guardia Púrpura.
+- **La Orden**: alquimistas griegos desde el 400 a. C., vigilan el regreso de la Macula; su Santuario está en la isla de La Cuna. Blasón: **una Y con los brazos acabados en gancho**.
+- **Los de Rune**: familia noble; **sin blasón canónico** (los escudos del DLC son cosméticos, §19) ⚠️.
+
+**Objetos icónicos**: la **honda** de Amicia · la **ballesta** (*Requiem*) · la **antorcha** · el **herbario** de Hugo · el libro ***Sanguinis Itinera*** («Viajes de la Sangre», manuscrito alquímico prohibido guardado en la Universidad) · el **león verde que devora el sol** · la **pluma de Hugo** (broche de la edición de coleccionista) ✅.
+
+**Vocabulario que un fan reconoce**: *Prima Macula* · el Mordisco · *Nebula* · *Sanguinis Itinera* · *V.I.T.R.I.O.L.* · *Ignifer* · Guyenne · el Gran Quiebre (*Great Break*, cuando la Macula despierta; traducción nuestra ⚠️) · *Prudence / Aggressive / Opportunism* · *Ad Ignem. Ad Lucem.* ✅.
+
+**La franquicia**: *Innocence* (14-may-2019) · *Requiem* (2022) · novela *Tenebris* (Cédric Degottex, Bragelonne, 5-dic-2022, en francés) · ***Resonance: A Plague Tale Legacy*** (precuela con Sophia; 26 o 27 de agosto de 2026 ⚠️ las partes dan los dos días; dirige David Dedeine, música de Derivière) ✅.
+
+## Hojas de contacto
+
+Tres JPEG en `hojas/`, todos de menos de 1 MB, mirados uno a uno por el redactor.
+
+**`hojas/personajes_01.jpg`** (casillas 1-48, wiki: páginas de Amicia y Hugo)
+- **Caras**: #5 Amicia 4K a la antorcha · #15 Amicia de *Requiem* (ficha) · #46 tres estudios de cara de Ponsonnet · #7 y #11 Hugo.
+- **Cuerpo entero**: #45 hoja de modelo de Amicia (frente y espalda).
+- **Icono**: #12 Amicia con halo dorado, estilo bizantino.
+- **Ternura**: #41 Hugo venda a Amicia · #44 Hugo corre a abrazarla · #26 cara a cara · #10 Béatrice y Hugo.
+- **Grupo**: #33 Arnaud y el grupo · #48 Amicia protege a Hugo · #43 Hugo, Sophia y la flor · #23 Amicia y Robert a caballo · #22 Amicia y Lion.
+- **Objetos**: #38 el brazal de Amicia (4 versiones) · #8 túnica de Hugo con bordado dorado.
+- **Sitios pintados**: #36 playa al atardecer · #37 valle soleado · #39 camino de montaña (Damien Papet).
+
+**`hojas/fondos_01.jpg`** (casillas 49-70)
+- **Portada y pinturas**: #63 portada con ratas · #62 Amicia y ratas en gris · #64 los hermanos en la ventana · #69 y #70 conceptos tempranos (#70 con antorcha).
+- **Sitios**: #49 barco · #50 la plaza con aplausos · #51 salón de pétalos · #53 mercado · #54 túnel como nido con una antorcha · #56 calle de pueblo · #57 cripta · #58 asedio · #60 antorcha entre ratas y picas.
+- **Grupo**: #68 Amicia, Hugo, Béatrice y Lucas bajo vidrieras · #67 Amicia, Lucas y Hugo consolándose · #66 Amicia salva a Sophia.
+
+**`hojas/arte_01.jpg`** (casillas 1-20, las 20 capturas oficiales de Steam en 1920×1080)
+- **Las tres mejores**: **#2** Hugo a hombros de Amicia entre aplausos (alegría y grupo) · **#13** Amicia con antorcha sobre la alfombra de ratas (la regla de la luz) · **#16** asedio al amanecer (Francia medieval y guerra).
+- Luz de antorcha: #14, #18. Día: #6, #11, #17. Mar: #1, #9. Emoción: #7 (Hugo llora), #12 (Amicia lo carga).
+- #10 es la portada con el **logo** (rata en la G) y las notas de prensa.
+

@@ -185,37 +185,44 @@ minuto y para qué sirve cada una en una lámina:
    manos pegado al pecho, cabeza gacha escuchando ·
    [1:22](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=82)
    · sirve para **pensar** o pedir silencio.
-3. **Apuntar con pistola, brazo extendido**: de pie en el bosque de día, brazo derecho totalmente
-   extendido apuntando al frente, mirada fija, hombros cuadrados ·
-   [0:54](https://www.dailymotion.com/video/x84cgbc?t=54) · sirve para **advertir/regañar**.
-4. **Explicar/hablar con otro personaje**: de perfil, mano derecha abierta a media altura en
-   gesto explicativo, mirando a un interlocutor fuera de cuadro, en un garaje en penumbra ·
-   [1:33](https://www.dailymotion.com/video/x84cgbc?t=93) · sirve para **explicar**.
-5. **Cabizbajo junto al fuego**: sentado o de pie cerca de una hoguera, mirada baja y perdida,
-   hombros caídos, luz naranja de abajo ·
-   [1:29](https://www.dailymotion.com/video/x84cgbc?t=89) · sirve para **pensar/lamentar**
-   (útil para un momento serio del canal, no para animar).
-6. **Combate cuerpo a cuerpo, inclinado golpeando**: agachado sobre un enemigo caído, brazo en
-   alto con un arma improvisada (bate con clavos), salpicadura de sangre en el suelo ·
+3. **Montado en la Drifter Bike, inclinado hacia delante**: manos en el manillar, torso inclinado
+   sobre el depósito, casco/gorro oscuro, colándose entre dos camiones aparcados de noche ·
+   [0:03](https://www.dailymotion.com/video/x84cgbc?t=3) · sirve para **presentar** su moto (el
+   objeto que más lo identifica, ver punto 25 de `texto.md`).
+4. **Escuchar de perfil mientras otro motero gesticula al hablar**: Deacon en primer plano, de
+   perfil, quieto y serio, mientras un segundo motero (barba, chaqueta verde) gesticula con la
+   mano detrás — sirve de contraplano cuando el diálogo de la lámina lo dice OTRO personaje y
+   Deacon reacciona · [0:52](https://www.dailymotion.com/video/x84cgbc?t=52).
+5. **Recelo en un túnel, a contraluz**: Deacon de perfil con la mandíbula tensa y la mirada de
+   lado, mientras otro hombre (calvo, chaqueta clara) se acerca desde un túnel iluminado a
+   contraluz rojo — postura defensiva, sin arma a la vista todavía ·
+   [1:01](https://www.dailymotion.com/video/x84cgbc?t=61) · sirve para **alertar/desconfiar**
+   (un aviso serio, no un regaño).
+6. **Avanzar encorvado entre chatarra**: espalda encorvada hacia delante caminando por un
+   vertedero a pleno sol, bate de béisbol con clavos y rifle cruzados sobre la mochila, cara
+   fuera de cuadro (plano trasero) ·
    [7:42](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=462)
-   · sirve para **avisar de peligro**, nunca para "celebrar" (es brutal, no festivo).
-7. **Correr huyendo de la horda, mirando atrás**: torso girado hacia la cámara mientras corre,
-   arma en mano, decenas de Freakers detrás en la pasarela de madera ·
+   · sirve para **avanzar con cautela** en terreno hostil.
+7. **De pie eligiendo arma en la rueda radial**: parado en un camino de tierra hacia un puente,
+   con el menú circular de armas arrojadizas abierto (seleccionando una granada de fragmentación)
+   y la mochila con bate y rifle bien visible de espaldas ·
    [8:56](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=536)
-   · sirve para **avisar/urgencia** ("corre a leer esto").
-8. **Forcejeo cuerpo a cuerpo con cuchillo**: ambas manos sujetando el brazo de un enemigo contra
-   la pared de piedra de una cueva, luz de farol lateral ·
-   [0:29](https://www.dailymotion.com/video/x89n0df?t=29) · sirve para **defenderse/tensión**.
-9. **Apuntar rifle de pie junto a una ventana**: perfil recortado contra la luz de una ventana de
-   madera, rifle a dos manos, postura firme y erguida ·
+   · sirve para **explicar el equipo** que lleva encima (bueno para una lámina de "inventario").
+8. **Forcejeo cuerpo a cuerpo en la cueva**: Deacon de espaldas a la cámara, agarrado con un
+   enemigo que alza ambos brazos para golpear, dentro de una cueva de roca iluminada por faroles
+   de aceite dispersos y un resplandor rojo de fondo ·
+   [0:34](https://www.dailymotion.com/video/x89n0df?t=34) · sirve para **defenderse/tensión**.
+9. **Agachado disparando la escopeta dentro de una nave de madera**: rodilla en tierra, escopeta
+   en alto, un enemigo sale despedido hacia atrás por el impacto (nube de sangre en el aire), luz
+   dura entrando por las rendijas de las paredes ·
    [12:06](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=726)
-   · sirve para **vigilar/anunciar** algo importante.
-10. **De pie tras la victoria, respirando**: quieto, arma baja, mirando el patíbulo de tren lleno
-    de cadáveres tras la Death Train Horde, hombros relajados por primera vez en la escena ·
+   · sirve para **regañar/repeler una amenaza** de forma contundente.
+10. **Revisar el arma agachado en un callejón**: agachado de espaldas entre dos paredes de tablón
+    pintado (rojo desconchado a blanco), mirando hacia abajo el arma improvisada que lleva en las
+    manos, como comprobándola antes de seguir ·
     [13:03](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=783)
-    · sirve para **celebrar/cerrar** un logro (lo más parecido a "celebrar" que hace Deacon: no
-    sonríe ni salta, sólo baja el arma — coherente con su personalidad seria, punto 13 de
-    `voz.md`).
+    · sirve para **pensar/prepararse** antes de la acción (distinto del sigilo de la pose 2: aquí
+    revisa el equipo, no escucha).
 
 Sólo se documenta a Deacon (personaje "para empezar" del encargo); Boozer y Sarah casi no
 aparecen en postura clara en el metraje mirado — cuando el redactor necesite sus poses, que pida
@@ -223,7 +230,11 @@ al investigador de imagen las hojas de contacto de la wiki (arte oficial), que s
 
 ## Lo mejor para la lámina
 
-(pendiente)
+1. La pose 1 (contemplar el valle, [0:39](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=39)) — Deacon de espaldas con el equipo cruzado, ideal para un canal de "primeros pasos/guía": presenta sin tapar la cara.
+2. La paleta del cementerio boscoso (`#08141C`/`#0E1F2A`/`#18313D`, punto 4) para un fondo serio y con profundidad (niebla en capas) sin ser plano.
+3. El cruce **"You're Safe Now"** = pista 14 del álbum + storyline de la misión "I Kept My Name": si el redactor necesita un momento de calma/rescate, esa pista encaja por título con la escena de Lisa.
+4. La rueda radial de armas (pose 7, [8:56](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=536)) para una lámina que explique "herramientas/comandos" con un HUD de juego real, no inventado.
+5. El texto exacto del compositor sobre **"Sarah's Theme"** ("probablemente la pieza más feliz del juego") para acompañar cualquier panel sobre el vínculo Deacon-Sarah.
 
 ## No encontré
 

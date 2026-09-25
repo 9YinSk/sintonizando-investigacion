@@ -142,14 +142,28 @@ Days Gone es un videojuego realista, sin globos de manga: «cómo hablan en pant
 
 ## Lo mejor para la lámina
 
-(pendiente)
+1. **La barra negra de subtítulos con «Nombre:» en negrita** (punto 6, `guidb_thumbs`/Game UI Database): es el cuadro de diálogo real del juego, ni de lejos una burbuja blanca — perfecto para un canal de doblaje/locución.
+2. **El parche bordado «NOMAD»** de la chaqueta de Deacon (letra slab western, marrón sobre beige) — un objeto real, del propio uniforme del personaje, con letra libre ya encontrada (Rye).
+3. **«785 DAYS GONE»** en la pantalla de challenges: el propio título del juego usado como contador narrativo de tiempo — un dato citable y curioso para cualquier texto del canal.
+4. El logo de **Mongrels MC** (perro mordiendo su cadena, negro/blanco/rojo) para parches, banderas o fondos de moteros.
+5. **Config**, la fuente propia de Bend Studio (condensada, geométrica, con tildes y ñ ya incluidas) como pista de estilo de marca, con Oswald/Bebas Neue/Rye/Fjalla One como sustitutos libres ya comprobados con fontTools.
 
 ## No encontré
 
-(pendiente)
+- **The Cutting Room Floor (TCRF) no tiene página de Days Gone.** Comprobado con `tcrf.net/Days_Gone` (403 Cloudflare), `archive.org/wayback/available?url=tcrf.net/Days_Gone` (sin snapshot) y `site:tcrf.net "Days Gone"` en Bing (sin resultados del propio sitio). Es razonable: TCRF se centra en datamining de ROMs/prototipos de disco, no en shooters modernos con assets encriptados. Usé en su lugar la `Category:Cut_content` de la propia wiki de Fandom (MATADOR, Mini-Gun, Flamethrower, Tactical 9/Glock 34) y un artículo dedicado de GameRant sobre el sistema de decisiones cortado.
+- **TV Tropes** (`tvtropes.org`) da 403 directo por protección anti-bot, y su espejo en Wayback Machine no cargó en esta sesión (conexión reiniciada dos veces); usé el snippet de búsqueda de Google/Bing sobre la página oficial, que sí cita tropos concretos con fuente verificable en la propia URL.
+- No pude bajar el archivo de fuente real del HUD del propio juego (los assets de Unreal Engine no son de descarga pública); la pista de «Config» de Bend Studio es un cruce de marca, no una extracción del juego. ⚠️ ya señalado en el punto 5.
+- No encontré una segunda fuente independiente (más allá de la reseña de DualShockers, «Top 10 Must-Play Games For Fans Of Days Gone») que compare explícitamente Days Gone con Dying Light, Mad Max o Red Dead Redemption: Undead Nightmare — quedan con ⚠️ de una sola fuente en el punto 24.
+- Days Gone es un juego estadounidense (Sony Bend, Oregón), no viene de Japón/Corea/China, así que no busqué fuentes en esos idiomas para este punto (decisión tomada según el propio encargo: «si la obra viene de ahí»); si el equipo de voz encuentra doblaje o cobertura en coreano (el juego sí está traducido al coreano en Steam), lo cruzarán ellos en su parte.
+- Extra (no obligatorio): no llegué a comparar letra a letra el archivo `config-bold-webfont.woff2` contra un fotograma ampliado del HUD del juego (sólo comparación visual de familia/peso); quien monte la lámina puede hacer ese cotejo fino si quiere usar Config en vez de la libre.
 
 ## Bitácora
 
-(pendiente)
-
-Sigue: rellenar todos los puntos (5, 6, 11, 18, 24, 25) desde cero.
+- Español: `daysgone.fandom.com/api.php` (siteinfo, wikitext de Freakers, Deschutes_County_Militia, Trust_Level, Survival_Wheel, Skills, Rippers, NERO, Drifter_Bike, Mongrels, Category:Cut_content, MATADOR, Mini-Gun, Flamethrower, Tactical_9); Doblaje Wiki no aplicó a este rol.
+- Español: `store.steampowered.com/app/1259420` y `/3238470` (capturas e idiomas, ya en `datos-texto.md`); medición propia con Pillow de 5 capturas.
+- Inglés: WebSearch — `tvtropes.org VideoGame DaysGone tropes`, `tcrf.net "Days Gone" cut content unused`, `"Deschutes County Militia" Days Gone`, `"Adam Ladd" "Config" font typeface`, `Days Gone review compared to The Last of Us State of Decay open world`, `Days Gone "better than" Dying Light "Mad Max" review comparison`, `Variety Days Gone John Garvin Red Dead Redemption World War Z "The Road" influences`.
+- Inglés: WebFetch — `consolecreatures.com` (interview, en blanco), `gamesbeat.com`/`venturebeat.com` (403), `gamerant.com/days-gone-choices-removed` (✅, cita textual), `well-played.com.au/days-gone-review` (✅, cita textual), `dualshockers.com/best-games-like-days-gone` (✅, lista completa con citas), `web.archive.org` para Variety (falló dos veces por corte de conexión — ver «No encontré»).
+- Inglés: `curl` directo — `bendstudio.com/assets/site/css/fout.css` y los `.woff2` de Config (200 OK); `gameuidatabase.com/uploads/...thumb.jpg` (200 OK directo, aunque `gameData.php` da 403 Cloudflare); `dafont.com/forum/read/301026` (200 OK); `ambientcg.com/api/v2/full_json` (bark, rust, rock).
+- Inglés: `youtube.com/oembed` para confirmar sin login el título de la entrevista de Garvin (`XlVs57XPcTs`).
+- Comprobación de letras con `fontTools.ttLib.TTFont(...).getBestCmap()`: Anton (spot-check propio, ✅ á é í ó ú ñ Ñ ¿ ¡ ü) y Config Bold/Regular real de Bend Studio (✅ mismo resultado); Oswald, Bebas Neue, Rye, Fjalla One y Barlow Semi Condensed quedan con la verificación ya hecha por el investigador anterior de esta misma parte (✅ declarado, mismo método).
+- Páginas caídas o bloqueadas anotadas y no reintentadas más de dos veces: `tcrf.net` (403 Cloudflare + sin snapshot), `tvtropes.org` (403 + r.jina.ai bloqueado hasta 2035 por abuso), `ign.com` y `psu.com` (403 a bots de `curl`, no se reintentó por no ser crítico — quedan citados igualmente, revisar en navegador si hace falta re-confirmar), `web.archive.org` (conexión reiniciada varias veces en esta sesión; funcionó para `archive.org/wayback/available` pero no para descargar snapshots completos).
