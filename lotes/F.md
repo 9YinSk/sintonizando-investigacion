@@ -78,4 +78,4 @@ Cuenta: cuenta A106
 | 80-solo-leveling-el-sistema-y-las-sombras | video (relanzo corto) | sonnet | 6 | 116105 |
 | 81-mushoku-tensei | texto | sonnet | 14 | 230387 |
 | 81-mushoku-tensei | voz | sonnet | 14 | 229337 |
-| 81-mushoku-tensei | video | sonnet | 14 | 245000 |
+| 81-mushoku-tensei | video | sonnet | 17 | 239381 |
