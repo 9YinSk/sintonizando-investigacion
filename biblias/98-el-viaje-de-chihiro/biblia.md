@@ -778,3 +778,270 @@ Hex medidos con Pillow en la zona de la prenda (el color más repetido, no un p�
 - ⚠️ **No encontré** figuras de Good Smile Company de esta película (sólo tiendas de reventa), ni colaboración oficial con **Fortnite** ni con juegos gacha (sólo mapas y vídeos de fans). Búsquedas en japonés e inglés.
 - Ghibli colaboró en *Ni no Kuni* (Level-5), pero sin personajes de Chihiro. ✅ (parte de texto)
 
+## 24. Obras parecidas y temas relacionados
+
+**Lo que la gente recomienda después de verla** (usuarios de AniList, con votos; dato directo de https://anilist.co/anime/199):
+
+| Obra | Votos | Nota AniList |
+|---|---|---|
+| *El castillo ambulante* | 804 | 85 |
+| *Mi vecino Totoro* | 397 | 81 |
+| *Kiki: entregas a domicilio* | 281 | 81 |
+| *Ponyo* | 209 | 79 |
+| *La princesa Mononoke* | 190 | 85 |
+| *A Whisker Away* | 142 | 73 |
+| *El niño y la garza* | 118 | 77 |
+| *Arrietty* | 99 | 77 |
+| *Nausicaä del Valle del Viento* | 80 | 81 |
+| *El niño y la bestia* | 43 | 79 |
+| *Porco Rosso* | 39 | 78 |
+| *Your Name* | 37 | 85 |
+| *Hotarubi no mori e* (*Into the Forest of Fireflies' Light*) | 33 | 79 |
+| *Suzume* | 30 | 81 |
+| *El castillo en el cielo* | 28 | 80 |
+
+- **En qué se parecen** las seis primeras de Miyazaki/Ghibli: una protagonista niña o joven que crece en un viaje fantástico. ✅ (parte de texto + AniList)
+- **Mi vecino Totoro** comparte diseño con los **susuwatari** de la sala de calderas. ✅ ([wiki Susuwatari](https://ghibli.fandom.com/wiki/Susuwatari))
+- ⚠️ El porqué de cada una de las demás (fuera de Ghibli) no está investigado en las partes: sólo consta que la gente las recomienda.
+
+- **Etiquetas que más la definen** (AniList, % de acuerdo): Youkai 89%, protagonista chica 89%, crecer (*coming of age*) 86%, maldiciones 80%, magia 79%, mitología 77%, **trabajo 77%**, *isekai* 75%, dioses 67%, bruja 62%, dragones 58%, memoria manipulada 57%, posada 53%, trenes 47%. Es una historia de **niña que trabaja** en un mundo de espíritus. ✅ (AniList)
+
+**Influencias que se reconocen:**
+- **La novela *Kiri no mukō no fushigi na machi*** (霧のむこうのふしぎな町, «La ciudad misteriosa al otro lado de la niebla», 1975), de **Sachiko Kashiwaba**. Una niña trabaja en un pueblo mágico. Miyazaki quiso adaptarla antes de *Mononoke*. La trama final es otra, pero el ambiente viene de ahí. ✅ ([Japan Society](https://japansociety.org/events/the-village-beyond-the-mist-with-bestselling-childrens-author-sachiko-kashiwaba/) + [GLLI-US](https://glli-us.org/2026/09/15/worldkidlit-month-focus-on-japan-two-translations-of-sachiko-kashiwabas-first-novel/))
+- En *Susurros del corazón* (Ghibli, 1995) un personaje lee ese mismo libro. ⚠️ (sólo la parte de texto, sin enlace)
+- **Dōgo Onsen** (Matsuyama, Ehime), el balneario real que el equipo dibujó antes de diseñar el Aburaya. ✅ (la parte de imagen: travel.rakuten.com + nihongomaster.com, ambas citando el artbook *The Art of Spirited Away*). Foto libre en el punto 4.
+- **Kodakara-yu**, baño público del Museo de Arquitectura al Aire Libre Edo-Tokio. ⚠️ (sólo blogs de fans: [note.com/hatamove](https://note.com/hatamove/n/nc1fbe1bf2674) + [ghiblog.com](https://ghiblog.com/chihiro-yuya/))
+- **El *kamikakushi***: la creencia japonesa de que los dioses «esconden» a los niños que desaparecen. Es la mitad del título. ✅ (wiki + diccionario, parte de texto)
+- ⚠️ No pude leer **TV Tropes** (403). No hay más influencias confirmadas en las partes: no invento otras.
+
+**Películas Ghibli del servidor (para no repetir ideas).** El 25-sep hay otros encargos Ghibli en marcha: `99-el-castillo-ambulante`, `100-la-princesa-mononoke`, `102-el-estilo-ghibli-en-general` y, de tono parecido, `101-your-name-cielos-y-ciudades`. Ninguno tenía aún `biblia.md`. ✅ (mirado en `biblias/`)
+- Chihiro se queda con lo suyo: **la casa de baños, los espíritus clientes, el nombre robado, la comida y el tren sobre el mar**.
+- Se dejan a las otras: el bosque y los *kodama* (Mononoke), el castillo y el fuego (Howl), el cielo y el cometa (Your Name), el «estilo Ghibli» en general (102).
+
+**Láminas del servidor que ya usan los mismos canales** (mirado en las biblias; sólo nota, no bloquea nada):
+- **#🪪 presentaciones**: es de *Spy×Family* (encargo 06, «Expediente»). También lo proponen *Encanto* (58, «La puerta con tu nombre») y *Bocchi* (97, «El pase de backstage»). Ojo: *Encanto* ya juega con **el nombre en una puerta**. Aquí el nombre va en **un contrato que se firma**, no en una puerta.
+- **#🎫 soporte**: es de *Grandes Héroes* (encargo 08).
+- **#👋 bienvenidas**: es de *One Piece* (encargo 01, cartel de «Se busca»). Aquí sería un farolillo, no un cartel.
+
+## 25. El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas:**
+1. De día el pueblo está vacío; **de noche despiertan los espíritus**. Un mar separa su mundo del humano y deja a Chihiro atrapada. ✅ (sinopsis de [AniList](https://anilist.co/anime/199) + tráiler latino: «Váyanse antes de que oscurezca, deben cruzar el río», [0:00](https://www.dailymotion.com/video/x889bq8?t=0))
+2. **Comer la comida de los espíritus sin permiso** convierte a un humano en cerdo. ✅ ([wiki](https://ghibli.fandom.com/wiki/Spirited_Away) + AniList)
+3. **Quien te quita el nombre te controla.** Yubaba lo roba con un contrato. Si olvidas tu nombre de verdad, no vuelves a casa. ✅ (wiki Yubaba + tráiler [1:00](https://www.dailymotion.com/video/x889bq8?t=60): «Si lo olvidas nunca podrás regresar a tu casa»)
+4. **El oro (金) es la moneda de los espíritus.** El oro falso de Sin Cara corrompe a quien lo desea. ✅ ([wiki Gold](https://ghibli.fandom.com/wiki/Gold))
+5. **Los ríos y montañas tienen espíritu** y van a la casa de baños a descansar. Haku es el río Kohaku, que rellenaron para hacer casas. Nombre entero: **Nigihayami Kohakunushi** (饒速水小白主). ✅ ([wiki Haku](https://ghibli.fandom.com/wiki/Haku), que cita el *Roman Album* de Tokuma)
+- ⚠️ **Corrección:** la parte de texto dice que el tráiler latino repite «no miren atrás». En la transcripción del tráiler (`partes/episodios.md`) **no está**. Lo de salir del túnel sin mirar atrás sale en reseñas (punto 21) y en el fotograma final [050](https://www.ghibli.jp/gallery/chihiro050.jpg), donde **sí mira atrás una vez**. Oír la frase en la película antes de usarla.
+
+**La historia por arcos** (wiki de la película cruzada con las de Yubaba, Zeniba, Haku y Chihiro ✅):
+1. **Llegada.** La familia entra en un «parque temático abandonado». Los padres comen y se vuelven cerdos. Aparece Haku. Momento clave: el primer anochecer. [004](https://www.ghibli.jp/gallery/chihiro004.jpg), [007](https://www.ghibli.jp/gallery/chihiro007.jpg).
+2. **Pedir trabajo.** Kamaji y Lin la ayudan. Firma el contrato; Yubaba le deja sólo 千: ahora es **Sen**. [016](https://www.ghibli.jp/gallery/chihiro016.jpg).
+3. **El cliente apestoso.** Sen baña al «Espíritu del Hedor». Es un río lleno de basura. Al limpiarlo le da una bola medicinal. Se gana a la casa. `espiritus_01` n.º 1, 16-20.
+4. **Sin Cara se descontrola.** Reparte oro falso, come y se traga a empleados. [033](https://www.ghibli.jp/gallery/chihiro033.jpg).
+5. **El viaje a Zeniba.** Haku, herido por los papelitos-pájaro de Yubaba, había robado el sello de oro de Zeniba. Sen va en tren a devolverlo, con Sin Cara y Boh. [038](https://www.ghibli.jp/gallery/chihiro038.jpg), [042](https://www.ghibli.jp/gallery/chihiro042.jpg), [043](https://www.ghibli.jp/gallery/chihiro043.jpg).
+6. **El nombre y la vuelta.** En el vuelo, Chihiro recuerda que Haku es el río Kohaku y él recupera su nombre ([045](https://www.ghibli.jp/gallery/chihiro045.jpg)). Prueba final de Yubaba: «ninguno de estos cerdos es mi padre o mi madre». Acierta, recupera su nombre y a su familia ([049](https://www.ghibli.jp/gallery/chihiro049.jpg), [050](https://www.ghibli.jp/gallery/chihiro050.jpg)).
+
+**Emblemas, objetos y palabras que un fan reconoce al momento:**
+
+| Símbolo | Qué es | Dónde verlo |
+|---|---|---|
+| 「油屋」 tallado | el nombre de la casa de baños, en madera | [048](https://www.ghibli.jp/gallery/chihiro048.jpg), madera `#B87D4B`, talla `#6A4D3F` ✅ |
+| Bandera 油 en círculo | el *mon* (emblema) del edificio | [011](https://www.ghibli.jp/gallery/chihiro011.jpg) ✅ |
+| 坊 en el peto rojo | Boh, el bebé gigante | [035](https://www.ghibli.jp/gallery/chihiro035.jpg), rojo `#E7605A` ✅ |
+| El contrato | papel donde se pierde el nombre | tráiler [1:00](https://www.dailymotion.com/video/x889bq8?t=60) ✅ |
+| Fichas de baño de madera | las que da el capataz para cada tina; Sin Cara se las ofrece a Sen | [wiki Foreman](https://ghibli.fandom.com/wiki/Foreman), [025](https://www.ghibli.jp/gallery/chihiro025.jpg) ✅ |
+| Sello de oro de Zeniba | lo roba Haku; mueve la 2.ª mitad | [wiki Gold](https://ghibli.fandom.com/wiki/Gold) ✅ |
+| Liga del pelo morada | tejida con hilos de todos; brilla al final | [wiki Zeniba](https://ghibli.fandom.com/wiki/Zeniba) ✅ |
+| Papelitos-pájaro (*shikigami*) | los que cazan a Haku | [wiki Shikigami](https://ghibli.fandom.com/wiki/Shikigami) ✅ |
+| Susuwatari | bolitas de hollín que cargan carbón; comen caramelos | [014](https://www.ghibli.jp/gallery/chihiro014.jpg), [wiki](https://ghibli.fandom.com/wiki/Susuwatari) ✅ |
+| Tren sobre el mar | el viaje a Zeniba; su música es *La sexta estación* | [043](https://www.ghibli.jp/gallery/chihiro043.jpg) ✅ |
+| Puente rojo | la entrada a la casa de baños | [020](https://www.ghibli.jp/gallery/chihiro020.jpg) ✅ |
+
+**Vocabulario propio:**
+- **Aburaya** (油屋): la casa de baños. Quiere decir «casa del aceite», no «de agua caliente» (eso sería 湯屋, *yuya*). ✅ (rótulo + wiki)
+  - Hay fans japoneses que lo leen como guiño a los barrios de placer antiguos, donde también se usaban nombres falsos. ⚠️ (interpretación de fans, [note.com](https://note.com/hatamove/n/nc1fbe1bf2674))
+- **Sen** (千, «mil»): el nombre que le deja Yubaba. **Chihiro** (千尋) lleva ese mismo 千. ✅
+- **Kaonashi** (カオナシ): Sin Cara. **Kamaji** (釜爺), **Yubaba** (湯婆婆) y **Zeniba** (銭婆). ✅ (AniList). Yubaba lleva el 湯 de «agua caliente», el mismo de 湯屋. El significado de los otros nombres no está en las partes. ⚠️
+- **«Ocho millones de dioses»**: los espíritus que van a la casa de baños. En latino 2020 son «ocho millones de **espíritus**»; en Argentina, «de **dioses**». ✅ (punto 8, audio)
+- **Kamikakushi** (神隠し): desaparecer escondido por los dioses. ✅
+- Arquitectura *giyōfū* (擬洋風, «pseudo-occidental»): Japón, Occidente y el Palacio del Dragón mezclados. ⚠️ (blogs de fans que citan a Miyazaki de segunda mano)
+
+## Las 3 hojas de contacto
+
+Están en `hojas/`. Las miré las tres enteras. Para citar: «`fondos_01`, fotograma 043» o «`espiritus_01` n.º 19».
+
+**`hojas/fondos_01.jpg`** (9 imágenes oficiales de ghibli.jp, montada por la parte de imagen):
+- Fila 1: fondo oficial de la calle de noche (farolillos delante, callejón dorado) · 003 calle de tiendas · 011 torre de noche con la bandera 油.
+- Fila 2: 019 · 020 · 041 (Sin Cara sobre las vías bajo el agua).
+- Fila 3: 042 (tren por dentro) · 043 (tren sobre el mar) · 030 (puesto de comida con ranas cocineras).
+- ⚠️ **Rótulos equivocados en la hoja:** el 019 dice «puente rojo, Sin Cara», pero es **Chihiro saludando con una mano, en uniforme, junto a una puerta**. El 020 («puente rojo, día») es **Sin Cara solo en el puente**. El 003 dice «atardecer» y es **de día** (brillo 53%, la familia caminando). En la biblia ya se usan bien (punto 14).
+- Sirve para: fondos listos (el fondo oficial de noche es el mejor para poner un personaje delante), paletas del punto 4 y poses de Chihiro 5 y Sin Cara 1, 7 y 8.
+
+**`hojas/espiritus_01.jpg`** (30 imágenes de la wiki: espíritus, Lin y la casa de baños):
+- Espíritu del Hedor y del río: n.º 1 (los empleados tiran de la cuerda), 3, 5, 6, 15-20. El n.º 19 es **el Espíritu del Hedor cruzando el puente bajo la lluvia**, no «el puente al atardecer».
+- Espíritu del rábano: n.º 10-14. Susuwatari: n.º 4, 22 (rodean a Boh convertido en ratón), 23.
+- Lin: n.º 2 y 27 (cuencos), 7, 8 y 9 (tina en el agua), 24, 28 (brazos en jarras), 29, 30.
+- Sala de calderas, pasillo de tuberías: n.º 21.
+- ⚠️ **No usar los n.º 25 y 26**: son fan art de *Mi vecino Totoro* (Mei y el Gatobús) que se colaron en la hoja.
+- Sirve para: «baños + espíritus» a la vez, que es lo que pide el encargo.
+
+**`hojas/personajes_01.jpg`** (22 imágenes de la wiki, n.º 193-214):
+- Sin Cara: n.º 193 y 197 (monstruo, boca abierta), 194 y 198 (penumbra), 195 (vías bajo el agua), 196 y 199 (con Yubaba o Zeniba ⚠️ el archivo dice Yubaba), 200 (en el puente con Haku y Chihiro).
+- Yubaba: n.º 201 (primer plano, párpados lila) y 212 (tras su escritorio con papeles).
+- Chihiro: storyboards a lápiz n.º 202-206 y 208-210 (caras de miedo, llanto y sorpresa), n.º 207 (en el cuarto de Boh), n.º 213 (arte recortado, corriendo).
+- n.º 211: boceto de Sin Cara con capa azul de estrellas («Spirited Away Sketch 36»). ⚠️ Parece de preproducción, sin fuente.
+- Haku: n.º 214 (retrato de frente con cielo).
+- ⚠️ La figura oficial de Haku dragón (n.º 159) **no está** en esta hoja (punto 23).
+
+## 3 conceptos de lámina
+
+La obra no tiene canal. Estas son tres propuestas distintas: sitio, objeto y personaje cambian en cada una. Las biblias son generales: que otra serie tenga ya ese canal es sólo una nota (punto 24).
+
+Reglas del dueño que se aplican en las tres: objeto real en sitio real, hecho en Blender si se puede; recortes por `v3/integrar.py`; textos cortos en la voz de la película, sin «·», «—» ni paréntesis; nada de burbuja blanca; **nada hecho con IA de imagen** (aquí más que nunca: punto 12). En su PC, **no usar el Haku dragón de 1,5 millones de caras** (punto 3): satura la máquina.
+
+### Concepto A · #🪪 presentaciones: «El contrato» ⭐ recomendado
+
+- **Objeto real en sitio real:** el **contrato de trabajo** sobre el escritorio del despacho de Yubaba. En Blender: una hoja de papel con pliegues y la esquina levantada (textura [Paper001](https://ambientcg.com/view?id=Paper001)), un pincel, un tintero y dos anillos de Yubaba encima. El escritorio con papeles apilados sale en `personajes_01` n.º 212.
+- **Sitio y luz:** el despacho ([017](https://www.ghibli.jp/gallery/chihiro017.jpg)): oscuro `#272321`, madera `#9C8A73`, dos azules fríos de ventana `#284058` y `#3A6294`. Una lámpara cálida sobre el papel, el resto en penumbra.
+- **Personajes:** **Chihiro** delante, en uniforme, saludando con una mano: pose 5 ([019](https://www.ghibli.jp/gallery/chihiro019.jpg)), la de **presentar**. Detrás, **Yubaba** sentada, mirando de reojo con la pluma: pose 1 ([016](https://www.ghibli.jp/gallery/chihiro016.jpg)). La que se presenta es la niña; la bruja mira.
+- **Cómo habla:** el propio contrato es el cuadro de diálogo. Papel crema, tinta oscura a pincel.
+  - Título en una **tablilla tallada** encima del escritorio: madera `#B87D4B`, letras en relieve `#6A4D3F`, letra **Shippori Mincho B1**.
+  - Frase de Chihiro, textual del tráiler latino ([1:00-2:00](https://www.dailymotion.com/video/x889bq8?t=60)): «Quiero que sepas que mi verdadero nombre es Chihiro.» Letra **Klee One**, escrita a mano en el margen del papel.
+- **Dónde va cada texto del canal** (inventario):
+  - Tablilla: «Presentaciones».
+  - Cabecera del contrato: «Tu ficha del servidor».
+  - Cláusulas, una por línea:
+    1. «Es opcional.»
+    2. «Es lo que hace que la gente te ponga cara.»
+    3. «Abre TU hilo con la plantilla fijada.»
+    4. «Nadie comenta…» ⚠️ **la descripción del canal está cortada en `servidor/inventario.md`**: confirmar cómo termina antes de rotular.
+  - Nota a pincel al pie, en **Yomogi**: «Aquí nadie te quita el nombre.» Es el giro: en la película el contrato roba el nombre; en el servidor lo presenta.
+  - El hilo fijado «📌 Cómo presentarte (léeme)» va como un papelito doblado con clip.
+- **Etiquetas (12)**: Sudamérica, México, Centroamérica y Caribe, España, Otro país, Doblaje, Canto, Locución, Edición, Arte, Escritura, Hacer amigos. No caben bien en el contrato: van a una **lámina 2**, como **fichas de baño de madera** colgadas de un cordel (una por etiqueta). Las de país en un color de madera y las de oficio en otro.
+- **Que no quede plano:** los anillos y el pincel en primer plano, desenfocados. El papel con sombra real de sus pliegues. Yubaba en segundo plano, algo desenfocada, con el azul de la ventana detrás. Humo de su pipa cruzando el haz de la lámpara.
+- **Nota de canal:** #presentaciones es de *Spy×Family* (06); también la proponen *Encanto* (58) y *Bocchi* (97). *Encanto* usa el nombre en una puerta; aquí es un contrato que se firma.
+
+### Concepto B · #🎫 soporte: «La ficha de baño»
+
+- **Objeto real en sitio real:** una **ficha de baño de madera**, la que da el capataz para cada tina ([wiki Foreman](https://ghibli.fandom.com/wiki/Foreman)). Un ticket de la casa de baños es un ticket de soporte. En Blender: una tablilla rectangular con cordel, madera [Planks030A](https://ambientcg.com/view?id=Planks030A) o [WoodFloor051](https://ambientcg.com/view?id=WoodFloor051), texto pintado.
+- **Sitio y luz:** el **pasillo interior de día** ([028](https://www.ghibli.jp/gallery/chihiro028.jpg)), el interior más claro de la película: `#DBCFB0`, `#DEAD7A`, `#42618C`, brillo 66%. Vapor de las tinas al fondo.
+- **Personaje:** **Sin Cara**, 3.º más querido y el icono del merchandising. Pose 2: brazo extendido **ofreciendo fichas de baño en la palma** ([025](https://www.ghibli.jp/gallery/chihiro025.jpg)). Es su gesto más famoso y es exactamente «toma tu ticket».
+- **Cómo habla:** Sin Cara casi no habla. No lleva globo: **el texto está escrito en la ficha** que ofrece y en una tablilla colgada junto a la tina.
+  - Ficha en su mano: «Abre un ticket.» Letra **Shippori Mincho B1**, tinta `#6A4D3F`.
+  - Tablilla de la pared: «Solo lo vemos tú y el staff.» Misma letra, madera `#B87D4B`.
+  - Sin onomatopeyas escritas: sus jadeos son efecto de sonido, no texto (punto 17).
+  - ⚠️ No vi de cerca qué pone en las fichas de la película: ampliar el 025 antes de copiar su diseño.
+- **Dónde va cada texto:** título «Soporte» en la tablilla de la puerta de la tina. Las dos frases del canal, una en la ficha y otra en la pared. Nada más: el canal no tiene etiquetas.
+- **Que no quede plano:** vapor delante de las piernas de Sin Cara. La ficha en primer plano, nítida y grande, con el brazo entrando en perspectiva. Sin Cara es **medio transparente** en los fotogramas (020, 041): dejar ver la madera a través del cuerpo.
+- **Nota de canal:** #soporte es de *Grandes Héroes* (08).
+
+### Concepto C · #👋 bienvenidas: «Están encendiendo las lámparas»
+
+- **Objeto real en sitio real:** un **farolillo de papel** en el **puente rojo**, al anochecer. En Blender: cilindro con costillas, papel [Paper001](https://ambientcg.com/view?id=Paper001) y luz naranja dentro. El texto pintado sobre el papel se curva con él.
+- **Sitio y luz:** el puente de la casa de baños al anochecer, con la torre iluminada detrás ([011](https://www.ghibli.jp/gallery/chihiro011.jpg)). Paletas medidas: callejón de noche ([008](https://www.ghibli.jp/gallery/chihiro008.jpg)) `#282323`, faroles `#CF896C`; fondo oficial [chihiro1](https://www.ghibli.jp/images/chihiro1.jpg) de negro a dorado `#ECC571`. Rojo del puente `#BA4A4B`. Modelo del edificio para sacar el ángulo: ABURAYA de Sketchfab (CC BY 4.0, punto 3).
+- **Personajes:** **Haku**, el más querido (1.º en AniList). Pose 4 ([0:34](https://www.dailymotion.com/video/x889bq8?t=34)): en el puente, inclinado, la mano junto al hombro de Chihiro. Es la pose de **acoger**. Chihiro a su lado, de espaldas o de tres cuartos, mirando la casa (pose 3, [0:23](https://www.dailymotion.com/video/x889bq8?t=23)): es «la nueva».
+- **Cómo habla:** el farolillo es el cuadro de diálogo. Una sola frase grande pintada a pincel.
+  - Frase de Haku, textual del doblaje 2020 (muestra de Doblaje Wiki, punto 8): «Están encendiendo las lámparas.» Letra **Yuji Syuku**, tinta oscura sobre papel encendido.
+  - Debajo, en un farolillo más pequeño o en una tablilla del puente, en dos líneas: «Aquí sale cada persona nueva.» y «Salúdala.» Letra **Klee One**.
+  - Título «Bienvenidas» en la tablilla tallada del poste del puente (**Shippori Mincho B1**).
+- **Dónde va cada texto:** el título en el poste, la frase de Haku en el farolillo grande y las dos frases del canal en el pequeño. Cada farolillo que se enciende es una persona que llega.
+- **Que no quede plano:** una fila de farolillos en primer plano, desenfocados (como el fondo oficial). Haku y Chihiro en el medio. La casa de baños al fondo, con niebla y ventanas doradas. Pétalos o chispas en el aire: Haku aparece entre pétalos (punto 7).
+- **Tono:** noche cálida, no alegre de colores planos (punto 12: el mundo de los espíritus no es «colorido»).
+- **Nota de canal:** #bienvenidas es de *One Piece* (01).
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias · ❌ no hecho. Límite real de esta obra: es una película, no hay capítulos ni opening; la película completa no se pudo ver (Internet Archive da 401) y YouTube pide iniciar sesión. Los minutos salen del tráiler latino y del reel de Sensacine.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 Arte oficial variado | ✅ | 50 fotogramas oficiales de ghibli.jp (1920×1038, medidos), fondo oficial, póster japonés, Blu-ray GKIDS, Image Album, postales Memorial Box, storyboards. No hay tomos (no es manga) ni juego oficial |
+| 2 Fotogramas de escenas icónicas | ⚠️ | En 1080p oficiales, pero sin minuto de la película: sólo hay minuto en lo que sale en el tráiler |
+| 3 Fan art y 3D con licencia | ✅ | 10 fan art con autor y tamaño, 11 modelos Sketchfab CC BY con autor, fotos CC. No encontré susuwatari en 3D ni nada en Poly Haven |
+| 4 Fondos, luz, paleta y texturas | ✅ | 12 sitios con paleta medida con `estilo.py` y Pillow; texturas CC0 de ambientCG comprobadas en su API |
+| 5 Tipografía | ✅ | 9 letras libres, una por uso, con tildes, ñ, ¿ y ¡ comprobados con fontTools. ⚠️ el logo (Kaoru Mano) y el 千 de Suzuki, una fuente; letra de los subtítulos latinos no encontrada |
+| 6 Cómo hablan en pantalla | ✅ | Contrato, rótulo 「油屋」, bandera 油, peto 坊; no hay globos de pensamiento; 4 cuadros propuestos |
+| 7 Personajes y popularidad | ✅ | AniList (Haku 1.º), Ranking.net, encuesta Simeji Gen Z, Danbooru (Chihiro la más dibujada) |
+| 8 Doblaje latino y frases | ✅ | 3 doblajes latinos y el de España, principales en dos fuentes; frases textuales de 5 audios de Doblaje Wiki y del tráiler con minuto. ⚠️ secundarios en una fuente; no hay clips oficiales doblados en YouTube a la vista |
+| 9 Música y sonido | ✅ | Disco completo (MusicBrainz), tema final, *La sexta estación* y *Reprise* en sus escenas, sonido de los susuwatari. ⚠️ que *One Summer's Day* suene en los créditos iniciales y la voz de Sin Cara: una fuente |
+| 10 Vídeos | ⚠️ | Tráiler latino y reel mirados plano a plano con minuto. YouTube (tráiler japonés, 3 análisis en español) enlazado pero sin mirar; TikTok sólo con un enlace |
+| 11 Videojuegos | ✅ | No hay videojuego oficial (búsquedas en japonés e inglés); sólo un juego de fans estilo NES (GIGAZINE). Ghibli colaboró en *Ni no Kuni* sin personajes de Chihiro |
+| 12 Lo que ama el fandom y qué no hacer | ✅ | Memes (cerdos, Sin Cara y el oro), tren, polémica de la IA «estilo Ghibli», lista de qué no hacer. Algunos datos con una fuente |
+| 13 Cada personaje a fondo | ⚠️ | Carácter, historia, dinámicas y forma de hablar de 8 personajes (Chihiro, Haku, Yubaba, Sin Cara, Lin, Kamaji, Zeniba, Boh). Faltan varias caras con minuto, por ejemplo la rabia de Chihiro y la alegría, rabia y vergüenza de Haku |
+| 14 Poses analizadas | ✅ | 12 de Chihiro, 9 de Haku, 8 de Yubaba, 9 de Sin Cara y 6 de Lin, con enlace o minuto y su uso (presentar, explicar, celebrar, regañar, pensar, animar) |
+| 15 Vestuario | ✅ | Hex medidos de Chihiro, Lin, Haku, Yubaba y Sin Cara. ⚠️ la túnica de Haku sólo de noche; la liga morada sin medir |
+| 16 Ciudades, paisajes y fondos | ⚠️ | Sitios con luz y hora, fondo oficial y 8 fondos de fans con tamaño. Casi ningún fondo de fans tiene autor original conocido |
+| 17 Guía para IA de imagen y de texto | ✅ | Rasgos fijos, paleta, línea, luz, palabras que ayudan y que estropean, referencias; frases reales por emoción. ⚠️ faltan frases textuales alegres y tristes |
+| 18 Estilo y técnica, y cómo replicarlo | ✅ | Toonz y Softimage según fuentes técnicas; Photoshop y Blender paso a paso; encuadres. ⚠️ no hay fuente de filtros digitales; el *ma* sin minuto |
+| 19 Texturas 2D | ⚠️ | Papel, madera, emblemas y letras libres. No hay pinceles de Photoshop libres enlazados |
+| 20 Gustos y detalles | ⚠️ | Gustos, manías y objetos de la wiki y AniList. Cumpleaños y alturas oficiales: no los encontré (una búsqueda en inglés) |
+| 21 Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, premios, crítica y 5 escenas con música y dibujo. Sin minuto en la película y sin comentarios con votos de Reddit o YouTube |
+| 22 Fan dubs y comunidad hispana | ⚠️ | Fandub, comparación de doblajes, covers, doblaje perdido. Sin vistas contadas (YouTube pide iniciar sesión) ni TikTok |
+| 23 Colaboraciones y cruces | ⚠️ | LOEWE, UNIQLO, exposición de Singapur, café, cosplays CC. Figuras oficiales: no encontré Good Smile; la de Haku dragón no quedó en la hoja |
+| 24 Obras parecidas | ✅ | 15 recomendaciones de AniList con votos, novela de Kashiwaba (dos fuentes), Dōgo Onsen, otros encargos Ghibli y láminas del servidor en los mismos canales. TV Tropes dio 403 |
+| 25 El mundo, la historia y sus símbolos | ✅ | 5 reglas, 6 arcos, 11 símbolos y vocabulario. Corregido «no miren atrás» (no está en el tráiler) |
+| Tres conceptos de lámina | ✅ | A #presentaciones (contrato), B #soporte (ficha de baño), C #bienvenidas (farolillo): sitio, objeto, personaje, letra y textos distintos |
+| Mirar vídeos de verdad | ⚠️ | Tráiler latino (70 planos) y reel mirados; 50 fotogramas oficiales mirados. No hay opening ni ending; YouTube bloqueado; película completa no disponible |
+| Colores medidos | ✅ | 114 hex distintos, de fotogramas oficiales con `estilo.py` y Pillow |
+| Cuarenta fuentes distintas | ✅ | 56 dominios enlazados en esta biblia |
+| Fuentes oficiales | ⚠️ | ghibli.jp, Tokuma, tienda oficial, Netflix. Sin entrevistas directas al staff: el artbook y el *Roman Album* sólo citados por la wiki; la cita de Miyazaki sobre la IA, por dos medios |
+| Fuentes en otros idiomas | ⚠️ | Japonés (ghibli.jp, note.com, ghiblog, Tokuma, GIGAZINE) e inglés sí. Coreano y chino no se buscaron |
+| Wikis, TV Tropes, TCRF y Wayback | ⚠️ | ghibli.fandom.com, Doblaje Wiki y Lost Media Wiki sí. TV Tropes dio 403; TCRF sin resultado (no hay juego oficial); Wayback no se usó |
+| Foros y comunidades | ⚠️ | El recolector no encontró el subreddit; las búsquedas no dieron hilos de Reddit citables; no se probó Arctic Shift |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Autores de Pixiv, X, DeviantArt, ArtStation y Nico Seiga localizados vía Safebooru; Danbooru para el ranking |
+| Vídeo (YouTube, TikTok) | ⚠️ | Dailymotion mirado; YouTube enlazado sin ver; un TikTok |
+| Código y recursos | ⚠️ | Sketchfab, ambientCG y Fontsource sí. GitHub no se usó |
+| Doblaje latino (fuentes) | ✅ | Doblaje Wiki por su API, ANMTV, Lost Media Wiki, hugozapata.com.ar, eldoblaje.com. ⚠️ entrevistas a actores en YouTube no vistas |
+| Hojas de contacto | ✅ | 3 hojas en `hojas/`, miradas; corregidos 4 rótulos y marcado el fan art de Totoro que se coló |
+| referencias.json | ✅ | 230 referencias de todas las partes y de `datos.json`, las mejores primero; tamaños medidos (24 fotogramas y 17 imágenes de AniList medidos por el redactor) |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y `texto.md`, lo del recolector y lo que comprobó el redactor. El detalle de cada búsqueda está en su parte.
+
+**Recolector (`herramientas/recolectar.py`, sin IA, 25-sep):**
+- Respondieron: AniList (ficha, equipo, personajes, recomendaciones), Doblaje Wiki (ficha y 5+ muestras de audio), ghibli.fandom.com, Danbooru, Safebooru (44 fan art), Wallhaven (15 fondos), Sketchfab, Openverse (Flickr y Wikimedia), Dailymotion, Internet Archive, MusicBrainz.
+- Fallaron: **AnimeThemes** (HTTP 522, reintentado una vez), **Reddit** (no encontró el subreddit), **Steam** (sin juegos de la película).
+
+**Imagen (inglés y japonés):**
+- API de ghibli.fandom.com: «Bathhouse», «Aburaya», «Radish Spirit», «River Spirit», «Stink Spirit», «Susuwatari», «Zeniba's Cottage», «Boiler Room»; wikitext de «Bathhouse» (cita *The Art of Spirited Away*, p. 76).
+- `investigar_serie.py --wiki ghibli`, 3 tandas (15, 30 y 16 imágenes grandes).
+- ghibli.jp: galería de 50 fotogramas y fondo para videoconferencia (japonés).
+- Sketchfab API: «spirited away bathhouse», «chihiro haku», «yubaba», «no-face spirited away», «chihiro ogino», «susuwatari soot sprite» (cero).
+- ambientCG API: «wood planks», «tatami», «copper metal», «plaster wall red», «roof tiles». Openverse: «chihiro spirited away cosplay», «dogo onsen», «yubaba bathhouse mural» (cero).
+- Buscador, inglés: Dōgo Onsen como inspiración, Ghibli Park 2026, UNIQLO UT, LOEWE, Blu-ray GKIDS, videojuego oficial, Fortnite o gacha, cafés. Japonés: 「千と千尋の神隠し ゲーム ゲームボーイアドバンス 2001」, 「スタジオジブリ 千と千尋の神隠し コラボ グッズ フィギュア Good Smile」.
+
+**Vídeo (español e inglés):**
+- Buscador, español: tendencias de TikTok 2024-2025; análisis de fondos en YouTube. Inglés: escena del tren en TikTok, *Reprise* y el vuelo del dragón, sonido de los susuwatari.
+- Mirado entero: tráiler latino de Sensacine (Dailymotion x889bq8, 70 planos, `partes/episodios.md`) y reel «Dame 1 minuto» (x9f6hg0). 50 fotogramas oficiales en 5 hojas propias; 11 paletas con `estilo.py`.
+- MusicBrainz (disco de 21 pistas), ghibli.fandom.com («Always with Me», «Reprise/Again»), Sonic Dictionary de Duke.
+
+**Voz y personajes (16 búsquedas, español e inglés):**
+- Español: reparto Wild Bunch en ANMTV; Enzo Fortuny como Haku; eldoblaje.com (España); cambio de voz de Haku (El Comercio); fandub y parodias; covers de *Itsumo Nando Demo*; TikTok y memes 2024-2025.
+- Inglés: encuesta Ranking.net; hilos de Reddit sobre escenas que hacen llorar (sin resultado citable); taquilla (nippon.com); memes; cita de Miyazaki sobre la IA; Rotten Tomatoes; altura y cumpleaños (nada oficial); ensayos sobre el tren.
+- API y audio: wikitext de 8 páginas de personajes; eldoblaje.com con curl; `voz.py` sobre 5 muestras de Doblaje Wiki (Whisper + tono, semitonos y velocidad).
+
+**Texto, juegos y técnica (japonés e inglés):**
+- Japonés: 「千と千尋の神隠し ロゴタイトル 真野薫 デザイン フォント」, 「"千と千尋" ロゴ 「千」 鈴木敏夫 手書き」, 「千と千尋の神隠し アニメコミック 徳間書店 セリフ 吹き出し」, 「千と千尋の神隠し ゲーム 公式 携帯 アプリ」, 「湯屋 油屋 千と千尋 看板 文字 デザイン 意味」, 「千と千尋の神隠し 字幕 スペイン語 フォント」.
+- Inglés: videojuego oficial; Toonz y la escena del tren; composición digital y *making of*; «The Cutting Room Floor» Spirited Away (sin resultado); novela de Kashiwaba.
+- Fontsource API (9 letras bajadas y comprobadas con fontTools); ghibli.fandom.com (Bathhouse, Yubaba, Zeniba, Gold, Foreman, Kasuga, Susuwatari, Haku, Chihiro Ogino, Shikigami); tesseract en japonés sobre los carteles.
+
+**Redactor (esta pasada):**
+- Miré las 3 hojas de contacto enteras. Corregí rótulos de `fondos_01` (019, 020, 003) y de `espiritus_01` (n.º 19); marqué los n.º 25-26 como fan art de Totoro.
+- Medí con Pillow el tamaño de 24 fotogramas de ghibli.jp y 17 imágenes de AniList que faltaban en las partes (todas 1920×1038; retratos de AniList 230×345 o 225×225, portada 460×656, banner 1920×576).
+- Revisé `partes/episodios.md`: el tráiler **no** dice «no miren atrás» (corregido en el punto 25).
+- Busqué en las otras biblias quién usa #presentaciones, #soporte y #bienvenidas (punto 24).
+- `servidor/inventario.md`: la descripción de #presentaciones está **cortada** («nadie comenta…»).
+
+**Lo que NO se encontró** (con su búsqueda en la parte correspondiente):
+- Minutos de las escenas dentro de la película (Internet Archive 401; YouTube pide iniciar sesión).
+- Vídeos de YouTube vistos: ninguno (tráiler japonés y 3 análisis en español, sólo enlazados).
+- TV Tropes (403), Wayback Machine (no usada), GitHub (no usado), Arctic Shift (no probado), fuentes en coreano o chino (no buscadas).
+- Videojuego oficial; figuras de Good Smile de esta película; colaboración con Fortnite o gachas; susuwatari en 3D con licencia.
+- Letra de los subtítulos latinos; páginas escaneadas del *film comic* de Tokuma; el texto del cartel azul con 臨.
+- Cumpleaños y alturas oficiales; comentarios con votos de Reddit o YouTube; vistas de fandubs y covers; parodias hispanas con autor.
+- Segunda fuente para: el 千 del logo rehecho por Toshio Suzuki; *One Summer's Day* en los créditos iniciales; la voz de Sin Cara; Kodakara-yu como modelo; la lectura de 油屋 como barrio de placer.
+
+**Confirmado frente a dudoso:**
+- ✅ Confirmado (dos fuentes o medido): reparto de los 3 doblajes latinos y el de España; fotogramas y paletas; letras con fontTools; Dōgo Onsen; novela de Kashiwaba; taquilla y premios; LOEWE y UNIQLO; reglas del mundo y arcos (wiki + AniList + tráiler).
+- ⚠️ Dudoso (una fuente): secundarios del doblaje que sólo están en Doblaje Wiki; logo de Kaoru Mano; Kodakara-yu y *giyōfū*; café temático; figura de Haku dragón; «no mirar atrás»; Whisper escribió «Hakun», «lluvaba» y «seguro» (oír antes de rotular).
