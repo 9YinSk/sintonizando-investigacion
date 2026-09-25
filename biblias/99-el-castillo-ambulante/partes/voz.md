@@ -210,10 +210,9 @@ Todas las muestras completas, con transcripción minuto a minuto, quedaron en
 `/tmp/claude-0/trabajo/99-el-castillo-ambulante-voz/voz_*` (carpeta de
 trabajo, no sube al repo).
 
-## No hay fan dub en español que reemplace al oficial para las frases del
-canal — usar SIEMPRE las líneas de arriba (dos doblajes oficiales entre los
-que elegir según el tono que se busque: ZIMA más contenido, Wild Bunch más
-expresivo).
+**Para el canal: usar SIEMPRE las líneas de doblaje oficial de arriba** (dos
+doblajes entre los que elegir según el tono que se busque: ZIMA más
+contenido, Wild Bunch más expresivo), no un fandub.
 
 ## 13. Descripción profunda de cada personaje
 
@@ -598,13 +597,29 @@ documentado, con fuente:
   dice identificarse).
 - **Escenas que hacen llorar o gritar de emoción** (capítulo/minuto: al ser
   película sin capítulos, se da el momento de la trama):
-  - El final, cuando el castillo (ya destruido y reconstruido con alas)
-    vuela sobre el valle en flor mientras suena «Merry-Go-Round of Life» y
-    Howl y Sophie se besan — descrita repetidamente como la escena más
-    citada para «llorar de felicidad», aunque no se pudo confirmar el
-    minuto exacto ni el hilo de Reddit específico (búsqueda sin resultado
-    exacto, ver Bitácora) · ⚠️ (mencionado en reseñas generales, sin cifra
-    de votos ni minuto exacto verificado por mí).
+  - **La escena del viaje al pasado** (tercio final de la película): Sophie
+    cruza la puerta mágica de colores del castillo y llega al pasado de
+    Howl; ve a un Howl niño atrapar una estrella fugaz —Calcifer— y darle su
+    corazón. Antes de que la manden de vuelta al presente, Sophie les grita
+    a ambos que la busquen en el futuro. Es la escena que explica, con
+    varios minutos de adelanto en la trama, por qué Howl le dijo a Sophie
+    adulta al principio que «llevaba buscándola por todas partes»: el amor
+    de los dos es, literalmente, un bucle en el tiempo — de ahí el nombre
+    del tema musical, «Merry-Go-Round of Life» (carrusel de la vida) · dos
+    fuentes de análisis coinciden en el mismo giro narrativo:
+    https://www.looper.com/1345713/howls-moving-castle-ending-explained/ y
+    https://sites.create.ou.edu/lexielliott/?p=98 · ✅ (qué pasa y por qué
+    duele/emociona, confirmado en dos fuentes) · ⚠️ (ninguna de las dos da
+    el minuto exacto de la escena dentro de la película, y no se pudo
+    confirmar viendo la película completa — sólo el tráiler — así que el
+    minuto no se inventa).
+  - El final, cuando el castillo (ya reconstruido con alas) vuela sobre el
+    valle en flor con «Merry-Go-Round of Life» de fondo y Howl y Sophie se
+    besan — descrito de forma constante en reseñas como el cierre que
+    «cierra los hilos emocionales antes que los políticos, priorizando el
+    cambio interior sobre la resolución externa» (Looper, arriba) · ⚠️
+    (mismo límite: no se confirmó el minuto exacto ni un hilo de reacciones
+    con votos).
   - No se encontró un hilo de Reddit con votos concretos sobre una escena
     puntual de llanto (se intentó `arctic-shift` con varias palabras clave,
     sin resultados) — lo que SÍ se confirmó con votos reales es el cariño
@@ -648,3 +663,104 @@ documentado, con fuente:
   Castillo Ambulante español latino») y no apareció nada dedicado, distinto
   de recortes/tráilers repetidos · esto se anota como «no encontré», no
   como «no existe» (ver `AYUDANTE.md`).
+
+## Lo mejor para la lámina
+
+1. Howl es el favorito real del fandom (tres encuestas independientes lo
+   confirman), no Sophie la protagonista: usarlo a él como cara del canal
+   suele acertar más que a ella.
+2. Calcifer es el #2 en cariño y el que mejor «explica» un canal con humor
+   (chispeante, sarcástico, el corazón literal de la trama) — ideal si el
+   canal necesita un tono ligero.
+3. Hay DOS doblajes latinos con reparto distinto (ZIMA 2005 / Wild Bunch
+   2020): cualquier frase citada debe decir cuál, con el actor correcto.
+4. El «moco verde» (colapso de vanidad de Howl) y el desayuno de tocino son
+   los dos momentos que el fandom más recrea fuera de la pantalla — sirven
+   de referencia de tono, no sólo de imagen.
+5. El mundo es steampunk victoriano con magia: nada de letras planas ni
+   castillo ordenado; la chatarra asimétrica y las texturas de latón/vitral
+   son parte de la identidad visual, no un detalle menor.
+
+## No encontré
+
+- ⚠️ Encuesta de popularidad hecha por el propio Studio Ghibli (no publican
+  rankings oficiales de personajes; sólo hay encuestas de revistas/medios
+  japoneses y de comunidades de fans, ya citadas en el punto 7).
+- ⚠️ Databook o ficha oficial con cumpleaños exacto o altura de los
+  personajes (Ghibli no publica ese formato para sus películas; se buscó en
+  AniList, Ghibli Wiki, MyAnimeList y Doblaje Wiki).
+- ⚠️ Contenido completo del hilo de Doblaje Wiki sobre qué redoblaje
+  prefieren los fans («¿cuál es el mejor o el menos peor?»): la web normal
+  de Doblaje Wiki da error 402 fuera de `api.php`, y ese hilo es un foro
+  (no una página de wiki), así que la API de `action=parse` tampoco lo
+  trae. Sólo se pudo citar el título.
+- ⚠️ TV Tropes (`Funny/HowlsMovingCastle`, `Tearjerker/HowlsMovingCastle`,
+  `Heartwarming/HowlsMovingCastle`): da 403 directo, con `curl` y por la
+  Wayback Machine (que además tuvo una caída «Temporarily Offline» durante
+  la búsqueda). Se cubrió lo mismo por otras vías (TikTok, Tumblr, Pinterest,
+  Reddit, CBR) sin depender de TV Tropes.
+- ⚠️ Hilo de Reddit con votos concretos sobre una escena puntual de llanto
+  (se buscó en r/ghibli y r/studioghibli con varias palabras clave; la API
+  de Arctic Shift no devolvió resultados para "cry" ni "breakfast" como
+  título exacto — sí funcionó para "howl" como término suelto).
+- No se buscaron memes o parodias hispanas MÁS ALLÁ de fandubs/covers
+  (búsqueda explícita sin resultado dedicado, distinto de fandubs ya
+  citados en el punto 22) — esto se anota como «no encontré», no «no
+  existe».
+- No se profundizó en el minuto exacto (dentro de los 119 minutos de
+  película) de ninguna escena, porque no se descargó ni vio la película
+  completa (fuera del alcance de este rol: `episodio.py`/`fotogramas.py`
+  sobre la película entera es más bien tarea del investigador de vídeo,
+  punto 2). Lo que se pudo, se sacó de tráileres oficiales completos vistos
+  fotograma a fotograma.
+
+## Bitácora de búsqueda
+
+**Fuentes usadas directamente (API/descarga), sin buscador**:
+- Doblaje Wiki, API `action=parse&prop=wikitext` sobre «El increíble
+  castillo vagabundo» y sobre la ficha de «Alan Prieto» (para corregir el
+  error del recolector automático, que había bajado la ficha de otra
+  película).
+- Ghibli Wiki (fandom), API `action=query&prop=revisions` sobre Howl,
+  Sophie, Calcifer, Bruja del Páramo, Markl, Suliman, Cabeza de Nabo, Heen y
+  Lettie (9 fichas completas, filtradas con Python para no volcar wikitext
+  crudo).
+- Audio oficial de Doblaje Wiki (`static.wikia.nocookie.net`): 9 muestras
+  `.ogg` descargadas y transcritas con `herramientas/voz.py` (Whisper
+  `small`, en español) — Howl, Sophie, Calcifer (dos versiones de doblaje
+  cada uno salvo Sophie), Markl, Bruja Calamidad, Suliman.
+- `herramientas/fotogramas.py --cortes` sobre el tráiler oficial VOSE en
+  Dailymotion (Espinof, https://www.dailymotion.com/video/x927qmu): 50
+  fotogramas, uno por plano, mirados directamente con Read.
+- `yt-dlp --skip-download --print` sobre 3 videos de YouTube (metadatos de
+  título/vistas/duración, sin descargar ni necesitar sesión): dos fandubs y
+  una comparación de doblajes.
+- `api.dailymotion.com` (búsqueda directa, no buscador) para covers.
+- API de MyAnimeList vía WebFetch (favoritos de Howl, Sophie, Calcifer).
+- API de Reddit vía `arctic-shift.photon-reddit.com` sobre r/ghibli.
+- `web.archive.org/wayback/available` y `web.archive.org/cdx/search/cdx`
+  para intentar rescatar TV Tropes (sin éxito, ver «No encontré»).
+
+**Buscador web (idioma entre paréntesis), de un cupo de ~50**:
+1. ANMTV redoblaje Wild Bunch reparto (es)
+2. IMDb voces español Howl's Moving Castle (en)
+3. ハウルの動く城 人気投票 キャラクターランキング (ja)
+4. Howl's Moving Castle why fans love it Reddit (en)
+5. Karina Altamirano Sophie doblaje (es)
+6. Alan Prieto voz Howl redoblaje Netflix (es)
+7. El Castillo Ambulante fandub español TikTok/YouTube (es)
+8. Howl's Moving Castle Oscar Venecia taquilla premios (en)
+9. Sophie Howl fandub audio español latino escena (es)
+10. El Castillo Ambulante parodia español latino (es)
+11. ANMTV Ghibli Netflix redoblaje México actores (es)
+12. MyAnimeList favoritos de personaje (en, por WebFetch)
+13. CBR por qué Calcifer es favorito de fans (en)
+14. Howl's Moving Castle iconic meme moco verde bathroom (en)
+15. Reseña El Castillo Ambulante México Latinoamérica (es)
+16. "nunca he visto un corazón tan feo" Howl castillo ambulante (es) — sin
+    resultado, no se usó la frase sin confirmarla en el doblaje real.
+17. Howl's Moving Castle ending scene analysis timestamp Merry-Go-Round (en)
+18. Looper ending explained (en, por WebFetch)
+
+Todo lo pesado (audios, fotogramas, jsons de la wiki) quedó en
+`/tmp/claude-0/trabajo/99-el-castillo-ambulante-voz/`, fuera del repo.
