@@ -1594,3 +1594,227 @@ oscuro, una sola luz cálida, un solo color saturado**.
   las láminas de la biblia 31** (§0).
 
 ---
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (falta algo, o una sola fuente) · ❌ no hecho.
+Cada fila dice **por qué**. Lo que falta está también en «No encontré»,
+en la bitácora.
+
+### Los 25 puntos de «Qué investigar»
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| **1** · Arte oficial variado | ✅ | 4 key visuals y portadas con tamaño medido por la API, las 12 *Zenshuchuten* (una por respiración), poses vivas de los 4 y 52 hojas miradas. 3 imágenes sin enlace directo en la parte ⚠️ |
+| **2** · Fotogramas de escenas icónicas | ✅ | 4 clips mirados enteros con `fotogramas.py`, con minuto del clip. Se miraron a 720p; los fotogramas 1080p+ salen de la wiki. Rui sin minuto de episodio ⚠️ |
+| **3** · Fan art y 3D con licencia | ✅ | 8 modelos de Sketchfab con autor y licencia exactos. Fan art de Wallhaven con su origen en Pixiv o X. A los 8 de Safebooru **les falta el autor** ⚠️. Poly Haven no tiene nada de la serie |
+| **4** · Sitios: luz, paleta y texturas | ✅ | Hex medidos con `estilo.py` en Mansión Mariposa, Castillo Infinito, glicinas, Natagumo, Yoshiwara y el bosque de Rengoku. Texturas CC0 de ambientCG. Sin hex limpio: Aldea de Herreros, Asakusa, Sagiri, Ubuyashiki y el tren ⚠️ |
+| **5** · Tipografía por uso | ⚠️ | Letras libres con tildes, ñ, ¿ y ¡ comprobadas con fontTools para globo, grito, onomatopeya, cartel, cartela e interfaz. **Sin comprobar**: pensamiento, subtítulos y logo occidental. La letra del HUD de los juegos no se vio |
+| **6** · Cómo hablan en pantalla | ✅ | Cartelas verticales con kanji, subtítulo del tráiler, blasón de glicina (ep. 14), cuervo mensajero; globos del manga en la biblia 31. Las cajas de los juegos van en el 11 ⚠️ |
+| **7** · Popularidad, con su aura | ✅ | Las 2 encuestas oficiales (cruzadas en la biblia 31 con tres fuentes) y el color oficial de cada uno. Muichiro supera a Tanjiro en 2020. Premio latino 2026 en dos fuentes |
+| **8** · Doblaje latino y frases | ⚠️ | Reparto en dos fuentes (Doblaje Wiki + ANMTV, biblia 31; dubdb). Frases **textuales** de las 4 muestras oficiales oídas con `voz.py`, pero **sin episodio ni minuto**: no hubo clips doblados oficiales con minuto |
+| **9** · Música, sonido y efecto de cada respiración | ⚠️ | OP y ED de todas las temporadas y el efecto de cada respiración mirado en vídeo, con hex. **No se encontró** fuente para las onomatopeyas de espada, ni un clip del ED1 «from the edge» |
+| **10** · Vídeos y tendencias con minuto | ✅ | 9 vídeos con enlace y minuto (`?t=`). La tendencia de la Hinokami Kagura en TikTok lleva cifra, pero **sin un vídeo concreto** ⚠️ |
+| **11** · Videojuegos | ⚠️ | 3 juegos con datos de la API de Steam, incluido *Sweep the Board!* (nuevo). **Ningún menú ni caja de diálogo visto**: las capturas oficiales no los enseñan. TCRF no tiene página |
+| **12** · Lo que ama el fandom y qué NO hacer | ✅ | «Aura» como palabra del fandom (3 hilos de Reddit con votos), el Nichirin negro, y una lista de errores de color que un fan notaría. Memes generales en la biblia 31 |
+| **13** · Personajes a fondo | ⚠️ | Los 4 a fondo (aura = carácter, voz medida, dinámicas) y los secundarios. **Faltan caras**: vergüenza de los 4 y miedo de 3; las demás, sin minuto |
+| **14** · Poses por personaje | ✅ | 6-7 poses de cada uno de los 4, con minuto, enlace y para qué sirve (presentar, explicar, celebrar, regañar, pensar, animar) |
+| **15** · Vestuario con hex | ⚠️ | Hex medidos de Tanjiro, Rengoku y Muichiro. **Shinobu sin hex propio** (la imagen tenía 77 % de fondo blanco). Por temporada, sólo lo básico |
+| **16** · Ciudades, paisajes y fondos | ✅ | 10 sitios con hora, luz y ánimo; 4 fondos oficiales en alta y 4 de fans con tamaño y origen. El director de fondos (Ebisawa) sin enlace guardado ⚠️ |
+| **17** · Guía para IA (imagen y texto) | ✅ | La escribió el redactor: rasgos fijos, paleta, línea, luz, palabras que ayudan y estropean, imágenes de referencia. Voz de cada uno con frases reales por emoción. **Enfadado**, sin frase latina en las partes ⚠️ |
+| **18** · Estilo de ufotable y cómo replicarlo | ✅ | Dos entrevistas técnicas en japonés (Autodesk AREA) y una en inglés (Popverse): 3ds Max, V-Ray, PhoenixFD, tyFlow, Pencil+. Receta para Photoshop y Blender, y encuadres |
+| **19** · Texturas 2D | ✅ | 12 auras con hex medido, marcas, patrones de ropa y emblemas; texturas CC0 equivalentes. El *ichimatsu* de Tanjiro sin textura CC0 clara ⚠️ |
+| **20** · Gustos y detalles | ✅ | Comida, afición, cumpleaños, altura y peso de 9 personajes, de la Trivia de la wiki que cita los *databooks* |
+| **21** · Por qué la aman | ⚠️ | Razones con cifras (taquilla, premios 2026) y 4 escenas que hacen llorar. **Minuto de episodio** sólo en la de Rengoku; la de Ubuyashiki no se miró |
+| **22** · Fan dubs y comunidad hispana | ⚠️ | 3 covers latinos, 1 fandub de escena en YouTube y 1 en TikTok, memes. **Vistas y fechas sin comprobar**: YouTube pidió iniciar sesión |
+| **23** · Colaboraciones y cruces | ✅ | USJ (dos restaurantes-paisaje), Kimetsu Cafe, Joypolis, Nijigen no Mori, Namja Town, FiguartsZERO con llama, teatro. Cosplay: patrón visto, sin crédito de cada foto ⚠️ |
+| **24** · Obras parecidas | ✅ | AniList con el id bueno (101922), influencias que declara el autor (dos fuentes) y catálogo de ufotable. Láminas del servidor que no repetir |
+| **25** · Mundo, historia y símbolos | ✅ | 5 reglas, 6 arcos, las 14 respiraciones con kanji y color, las Marcas de cada Pilar, glicina, Nichirin, Doce Kizuki y vocabulario |
+
+### Lo demás que pide el encargo
+
+| Qué | Estado | Por qué |
+|---|---|---|
+| Tres conceptos de lámina | ✅ | Paisaje (A), tablero-mapa (B) e interior imposible (C), cada uno con objeto real, sitio, personaje, letra, textos y profundidad. Frases de Zenitsu y Muichiro **propuestas**, no reales ⚠️ |
+| Canal propuesto | ✅ | #📸・fotos (choca con Lilo & Stitch, 23) y 🍿 Cine de reserva, ver §0 |
+| Mínimo 40 fuentes distintas | ✅ | 40 webs enlazadas en el texto antes de esta tabla, y más en la bitácora |
+| Fuentes oficiales | ✅ | Wiki con arte oficial, Steam, entrevistas del staff (Terao, Sotozaki, equipo 3D), p-bandai. Sin artbook ni comentario de Blu-ray ⚠️ |
+| En otros idiomas | ⚠️ | Inglés y japonés (Autodesk AREA, note.com). **Ni coreano ni chino**: no se buscó |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, dubdb y TCRF (sin página). **TV Tropes y Wayback no se usaron** |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift (4 hilos con votos, §12 y §21). Sin Tumblr ni 4chan (no hizo falta) |
+| Arte (Pixiv, ArtStation…) | ⚠️ | Pixiv como origen de los fondos de Wallhaven; Danbooru y Safebooru. **Sin ArtStation ni DeviantArt** |
+| Vídeo con minuto | ✅ | Dailymotion, Internet Archive y YouTube (ufotable en los Oscars), todos con minuto. TikTok sin vídeo abierto ⚠️ |
+| Código y recursos | ✅ | Sketchfab, ambientCG, Openverse, Fontsource, un análisis en GitHub Pages |
+| Doblaje latino | ⚠️ | Doblaje Wiki por la API y dubdb; ANMTV en la biblia 31. **Sin entrevistas a actores ni créditos de Crunchyroll** abiertos aquí |
+| Las 3 hojas de contacto | ✅ | `auras_01` (2400×1267), `fondos_01` (2400×1508) y `colaboraciones_01` (2400×1704), JPEG de menos de 1,2 MB, explicadas casilla a casilla |
+| `referencias.json` | ✅ | **130** referencias: todas las útiles de las partes, las mejores primero (81 imágenes con tamaño medido; vídeos con `?t=`). Sin lo de *Onigiri* ni la galería de Ruka Rengoku |
+
+**Lo que el dueño debe saber**: `recolectar.py` trajo datos de otra
+serie (*Onigiri*, AniList 21612). Nada de eso se usó. Conviene corregirlo
+en la herramienta antes de otra serie con subtítulo en el nombre.
+
+---
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes (`partes/imagen.md`,
+`video.md`, `voz.md`, `texto.md`) y lo que hizo el redactor. Fecha:
+24-25 de septiembre de 2026.
+
+### Cómo se trabajó
+
+- **Recolector** (`recolectar.py`): buscó en AniList el título entero del
+  encargo y encajó con *Onigiri* (id 21612). Sus bloques de AniList,
+  Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion,
+  Internet Archive, Steam y Reddit **se descartaron enteros**. Sí valió
+  el bloque de Doblaje Wiki (consulta directa a la página de la serie) y
+  las 52 hojas de `investigar_serie.py` (wiki correcta).
+- **Cada investigador rehízo sus consultas** con el término bueno
+  (`kimetsu_no_yaiba`, `demon slayer`, id **101922**).
+- **Redactor**: leyó las cuatro partes, el encargo, `servidor/inventario.md`
+  (textos de #fotos y del Cine, §0) y la biblia 31 para no repetir. Montó
+  `auras_01` y `fondos_01` con Pillow, quitó la hoja 09 y la portada
+  `bx21612` (de *Onigiri*), y escribió él solo §0, el resumen, la tabla
+  maestra, el §17 y los conceptos.
+
+### Webs y API consultadas, por investigador
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23):
+- [API de la wiki](https://kimetsu-no-yaiba.fandom.com/api.php) (inglés):
+  `Category:Locations` (19 páginas) y `Category:Breathing Styles` (14 +
+  Hinokami Kagura); wikitext de 12 lugares y 15 técnicas; `imageinfo`
+  para el tamaño real de unas 25 imágenes; `srnamespace=6` para las
+  *Zenshuchuten* y las imágenes de Kyojuro (no de su madre).
+- 52 hojas de contacto miradas con Read (01, 08, 09, 11 y 20 en detalle).
+- Danbooru `related_tag` y Safebooru `kimetsu_no_yaiba scenery` /
+  `water_breathing` (inglés).
+- Wallhaven por favoritos (1 300 resultados; los más votados).
+- [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=demon+slayer&downloadable=true):
+  `demon slayer`, `torii gate`, `japanese village house`.
+- Openverse (`wisteria flowers japan`, `bamboo forest`, uso comercial) y
+  ambientCG (`wood`, `paper`, `stone wall`).
+- `estilo.py --colores` sobre 21 imágenes (12 auras, 3 lugares, 6 de
+  vestuario).
+- WebSearch, 6 (inglés y japonés): director de fondos de ufotable;
+  efectos del agua y *making of*; Yuichi Terao y la cámara del Castillo
+  Infinito; restaurantes de USJ y Kimetsu Cafe; FiguartsZERO de Rengoku;
+  cosplay con efecto de respiración.
+- WebFetch: la guía de colores de espadas de animekatana.com.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14):
+- API de la wiki (inglés): `Category:Music`, openings, endings y lugares;
+  wikitext de 15 temas (de «Gurenge» a «Shine in the Cruel Night») y de 7
+  lugares; `imageinfo` de 4 fotogramas de lugares.
+- [API de AnimeThemes](https://api.animethemes.moe/anime?filter[slug]=kimetsu-no-yaiba):
+  **caída** (HTTP 522 / tiempo agotado) en dos intentos; voz lo probó 3
+  veces más.
+- [API de Dailymotion](https://api.dailymotion.com/videos?search=Kimetsu+no+Yaiba+opening+official)
+  (inglés), 15 búsquedas: opening, ED1, Rengoku vs Akaza, Hinokami Kagura,
+  Shinobu vs Doma, Muichiro contra Gyokko y Kokushibo, tráilers de
+  *Hinokami Keppūtan*…
+- Internet Archive `advancedsearch` (inglés): opening, ending, tráiler,
+  «Muichiro». Un resultado era un PDF del censor indio, no un vídeo.
+- `fotogramas.py`: **8 vídeos mirados enteros** (hojas + Read); cada
+  `video.mp4` borrado después. `estilo.py`: 10 imágenes y fotogramas.
+- WebSearch, 3 (inglés): análisis de luz y color de ufotable; tendencia
+  de TikTok de la Hinokami Kagura; onomatopeyas y efectos de sonido.
+- WebFetch: el análisis de jbsiraudin.github.io.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22):
+- API de la wiki (inglés): búsqueda de texto `aura`; páginas enteras de
+  las respiraciones, Nichirin, Hinokami Kagura y 9 personajes
+  (Personality, Abilities, Trivia); `imageinfo` de 6 caras.
+- [API de Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Demon_Slayer:_Kimetsu_no_Yaiba)
+  (español) y dubdb (inglés): reparto y emisión en Cartoon Network.
+- `voz.py` sobre las 4 muestras oficiales (Tanjiro, Rengoku, Muichiro,
+  Shinobu).
+- Arctic Shift, r/KimetsuNoYaiba: `aura`, `cried`, `most aura` (inglés).
+- WebSearch, 12 (español, inglés y japonés), entre ellas: `Demon Slayer
+  black Nichirin blade rare omen Tanjiro meaning` · `鬼滅の刃 呼吸 色 性格
+  アニメ演出 インタビュー` · `Yuichi Terao Ufotable compositing director
+  interview` · `Demon Slayer Crunchyroll Anime Awards premios ganados
+  lista` · `fandub latino Demon Slayer Kimetsu no Yaiba español opening
+  cover YouTube` · `fandub Tanjiro Rengoku español TikTok Demon Slayer
+  parodia`.
+- WebFetch: AWN ✅, Popverse, jbsiraudin ✅, Tokyo Manga Shelf ✅.
+  Deadline dio **402** (de pago); YouTube pidió iniciar sesión; TikTok no
+  da los datos.
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25):
+- API de la wiki (inglés): Breathing Style, Demon Slayer Corps,
+  Nichirin, Wisteria, Blue Spider Lily, Demon Slayer Mark, Twelve Kizuki,
+  Hinokami Kagura, Infinity Castle, Tsuguko, Story Arcs, episodios 5 y
+  14; búsquedas de texto `Hanafuda`, `black blade unlucky`, `Kamaboko
+  Squad`.
+- [AniList por GraphQL](https://graphql.anilist.co) (inglés): id bueno
+  101922, recomendaciones y relaciones.
+- API de Steam: `storesearch` y `appdetails` de 2928600, 1490890 y
+  2424110 (este último, *Sweep the Board!*, no estaba en ningún sitio).
+  2 capturas oficiales bajadas y medidas (1920×1080).
+- TCRF: `"Hinokami Chronicles" site:tcrf.net`: **sin página**.
+- WebSearch, 4: departamento de fotografía de ufotable (inglés);
+  influencias de Gotouge (inglés); texto en pantalla con kanji (inglés);
+  `鬼滅の刃 ufotable 背景美術 エフェクト 制作 インタビュー` (japonés).
+- WebFetch, leídas enteras: Popverse (Terao) y Autodesk AREA Japan,
+  partes 1 y 2 (japonés).
+- Fontsource + jsDelivr: Cinzel y Zen Old Mincho Black comprobadas con
+  `fontTools` (á é í ó ú ñ ¿ ¡ ü).
+
+### Idiomas
+
+- **Español**: Doblaje Wiki, fandubs, premios 2026 (El Comercio, El
+  Financiero).
+- **Inglés**: la mayor parte (wiki, API, prensa, Reddit).
+- **Japonés**: 2 búsquedas propias, Autodesk AREA Japan y el ensayo de
+  note.com.
+- **Coreano y chino**: **no se buscó**. Queda para un repaso.
+
+### Lo que falló o se descartó
+
+- YouTube: «inicia sesión» todo el día. Plan B: Dailymotion e Internet
+  Archive, a 720p.
+- AnimeThemes: caído (522) en 5 intentos entre vídeo y voz.
+- Deadline: 402 (de pago). TikTok: no da el HTML con datos.
+- Todo lo de *Onigiri* del recolector, y la galería de **Ruka** Rengoku
+  (la madre) que venía como «Rengoku».
+- El clip de Tanjiro vs Rui es una **resubida pirata**: sólo para mirar y
+  medir.
+
+### Lo que NO se encontró (con lo que se buscó)
+
+- **Onomatopeyas de espada**: una búsqueda en inglés, sin fuente que las
+  liste. No se inventaron.
+- **Clip del ED1 «from the edge»**: 3 búsquedas en Dailymotion e Internet
+  Archive. Se usó el cierre del ep. 19.
+- **Menús y cajas de diálogo de los juegos**: ninguna captura oficial de
+  Steam los enseña; TCRF sin página.
+- **Frases latinas con episodio y minuto**: sólo las 4 muestras de
+  Doblaje Wiki (sin minuto). No hubo clips doblados oficiales abiertos.
+- **Caras**: vergüenza de los cuatro; miedo de Rengoku, Muichiro y Shinobu.
+- **Hex limpio** de Aldea de Herreros, Asakusa, Monte Sagiri, Mansión
+  Ubuyashiki y el tren (la imagen traía la cartela blanca encima o no se
+  midió). *Swordsmith Village (Anime).png*, 1920×1080, está localizada.
+- **Hex de Shinobu** (77 % de fondo blanco) y de las respiraciones de
+  **Flor** y **Luna** (sólo manga en b/n; no hay *Zenshuchuten*).
+- **Autor** de cada fan art de Safebooru y de cada foto de cosplay.
+- **Textura CC0 de *ichimatsu***: dos búsquedas en Openverse.
+- **Vistas y fechas** de los fandubs y un vídeo de TikTok concreto.
+- **Minuto de episodio** de la escena de Rui y de las que hacen llorar,
+  salvo la de Rengoku (biblia 31).
+- **La superstición del Nichirin negro** con capítulo: sólo blogs de fans.
+- **Una entrevista** que explique el color de cada aura, personaje por
+  personaje: sólo declaraciones generales de Terao y Sotozaki.
+- **Enlace exacto** de las notas de USJ (SoraNews24, Comicbook.com) y de
+  las que nombran a Kazuo Ebisawa.
+
+### Confirmado y dudoso
+
+- **Confirmado** (dos fuentes, o medido o visto por el equipo): los hex
+  de las 12 *Zenshuchuten* y de los sitios medidos, las encuestas, el
+  reparto latino, el premio 2026, el software de ufotable, los tamaños
+  de imagen (API), los minutos de los clips mirados.
+- **Dudoso** (una fuente, lleva ⚠️ en el texto): el color de Piedra,
+  Sonido y Bestia (el hex medido no coincide con el oficial), el
+  director de fondos, la superstición del Nichirin negro, el tema de
+  Akaza, la cifra de TikTok, las frases que son traducción de la wiki o
+  del inglés, y las frases **propuestas** de los conceptos B y C.

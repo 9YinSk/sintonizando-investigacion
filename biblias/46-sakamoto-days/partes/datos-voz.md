@@ -323,13 +323,6 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/SakamotoDays: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/SakamotoDays_
 
-**«favorite character»**
-- (278 votos, 74 comentarios) Who is your favorite female character? · https://www.reddit.com/r/SakamotoDays/comments/1kto75a/who_is_your_favorite_female_character/
-- (225 votos, 63 comentarios) Who is your favorite female character? · https://www.reddit.com/r/SakamotoDays/comments/1lh83ez/who_is_your_favorite_female_character/
-- (185 votos, 69 comentarios) Who is your favorite male character? · https://www.reddit.com/r/SakamotoDays/comments/1lhuxe7/who_is_your_favorite_male_character/
-- (183 votos, 18 comentarios) Fanart i did of Shishiba from one of my favorite fights in the manga. I end up liking characters like him. What trope… · https://www.reddit.com/r/SakamotoDays/comments/1jwuiok/fanart_i_did_of_shishiba_from_one_of_my_favorite/
-- (153 votos, 39 comentarios) Just got back from Japan. Can you guess my favorite character based on what I bought? · https://www.reddit.com/r/SakamotoDays/comments/1kwn576/just_got_back_from_japan_can_you_guess_my/
-- (106 votos, 8 comentarios) My Favorite Character (Not because she's hot) Rion Akao, The Star Who's Light Faded Too Soon, (Art By… · https://www.reddit.com/r/SakamotoDays/comments/1j95yr3/my_favorite_character_not_because_shes_hot_rion/
 **«why I love»**
 - (253 votos, 23 comentarios) I know it's not the most impressive thing he's ever done, but creative moves like this are why I fell in love with this… · https://www.reddit.com/r/SakamotoDays/comments/11xdqus/i_know_its_not_the_most_impressive_thing_hes_ever/
 - (54 votos, 2 comentarios) Idk why I love this panel so much · https://www.reddit.com/r/SakamotoDays/comments/1prkpgh/idk_why_i_love_this_panel_so_much/
@@ -337,6 +330,10 @@ _Fuente: https://www.reddit.com/r/SakamotoDays_
 - (16 votos, 1 comentarios) One thing I love about Anime and Manga Communities and why its always a blast reading posts complaining about realism. · https://www.reddit.com/r/SakamotoDays/comments/1aogvlj/one_thing_i_love_about_anime_and_manga/
 - (5 votos, 0 comentarios) Bro these moments are why sakamoto days is so enjoyable to me. I mean sakamoto himself can be a mf Jujutsu sorcerer on… · https://www.reddit.com/r/SakamotoDays/comments/1254u6o/bro_these_moments_are_why_sakamoto_days_is_so/
 - (4 votos, 18 comentarios) Why I love Sakamoto days · https://www.reddit.com/r/SakamotoDays/comments/1jd9lox/why_i_love_sakamoto_days/
-**«best scene»**
-- (81 votos, 14 comentarios) Sakamoto vs Kanaguri is literally the Best Choreography of Yuto Suzuki (mainly that shadow and laser beam scene 🔥) · https://www.reddit.com/r/SakamotoDays/comments/1qbhnkr/sakamoto_vs_kanaguri_is_literally_the_best/
-- (38 votos, 0 comentarios) The best scene in CH110 🔥🤣 · https://www.reddit.com/r/SakamotoDays/comments/12cxddp/the_best_scene_in_ch110/
+**«iconic»**
+- (387 votos, 162 comentarios) The Iconic Boiled vs Sakamoto fight is here!!! Episode 5 · https://www.reddit.com/r/SakamotoDays/comments/1if8ftj/the_iconic_boiled_vs_sakamoto_fight_is_here/
+- (326 votos, 14 comentarios) this is so iconic · https://www.reddit.com/r/SakamotoDays/comments/1n90rm9/this_is_so_iconic/
+- (203 votos, 21 comentarios) Most iconic page for most iconic fights · https://www.reddit.com/r/SakamotoDays/comments/1i6kuar/most_iconic_page_for_most_iconic_fights/
+- (161 votos, 20 comentarios) Most iconic page for most iconic fights: Final Round · https://www.reddit.com/r/SakamotoDays/comments/1i6rnid/most_iconic_page_for_most_iconic_fights_final/
+- (151 votos, 4 comentarios) The most iconic pages of the most iconic fights, now completed · https://www.reddit.com/r/SakamotoDays/comments/1i76xtt/the_most_iconic_pages_of_the_most_iconic_fights/
+- (137 votos, 4 comentarios) Oh shit, Iconic days? · https://www.reddit.com/r/SakamotoDays/comments/1t6gr0m/oh_shit_iconic_days/
