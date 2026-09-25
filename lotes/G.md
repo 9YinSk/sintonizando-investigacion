@@ -18,8 +18,13 @@ Cuenta: cuenta R49
   los datos de 102 y 103 para no quedarnos sin cola.
 - 97 Bocchi the Rock: **COMPLETA y subida** (07:2x UTC). `revisar.py`: ✅26 ⚠️11 ❌0, 1422 líneas, 185
   referencias (66 webs distintas, 168 minutos, 50 hex medidos).
-- 99 El Castillo Ambulante: texto e imagen listos (sin `Sigue:` obligatorio); video y voz aún en marcha.
-- 98 El viaje de Chihiro: redactor (Opus) lanzado en cuanto se liberó el hueco del redactor de 97.
+- 99 El Castillo Ambulante: las 4 partes listas, sin `Sigue:` obligatorio (766 líneas voz, 377 video, 49 refs
+  imagen, 17 refs texto). Redactor en cola: entra en cuanto se libere el hueco del redactor de 98.
+  Corrigió un error del recolector automático: `datos-voz.md` traía el reparto de OTRA película
+  («El castillo maldito», Scared Stiff 1953) por un fallo de búsqueda en Doblaje Wiki; el investigador de
+  voz lo rehizo desde la ficha real (dos doblajes latinos completos: ZIMA 2005 y Wild Bunch-Netflix 2020).
+- 98 El viaje de Chihiro: redactor (Opus) lanzado en cuanto se liberó el hueco del redactor de 97, en marcha.
+- 100 La princesa Mononoke: 4 investigadores (Sonnet) lanzados a la vez con el redactor de 98 (5 agentes vivos).
 - Reintento fallido: recolecté de nuevo 102 (El estilo Ghibli en general) sin `--nombres`/`--wiki` y pisé
   datos mejores (AniList/Fandom no la encontraron sin esas pistas); revertido con `git checkout` antes de
   subir nada. Para 102, recolectar con `--nombres` y `--wiki` explícitos cuando le toque.
@@ -49,3 +54,5 @@ Cuenta: cuenta R49
 | 98 | imagen | Sonnet | 18 | 253 mil |
 | 99 | texto | Sonnet | 15 | 254 mil |
 | 99 | imagen | Sonnet | 15 | 226 mil |
+| 99 | video | Sonnet | 20 | 203 mil |
+| 99 | voz | Sonnet | 21 | 238 mil |
