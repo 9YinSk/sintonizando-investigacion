@@ -14,8 +14,9 @@ oficial ni videojuego con licencia — se comprueba y se dice, no se inventa.
 ### Punto 5 · Tipografía
 
 **El logo del título**
-- El logo de `千と千尋の神隠し` usa una fuente base, pero el carácter 千 ("Chi") se rehízo a mano
-  porque no cuadraba en proporción con el resto del logo (según se cuenta) · fuente: cuenta de fans
+- El logo de `千と千尋の神隠し` usa una fuente base, pero el carácter 千 ("Chi") no cuadraba en
+  proporción con el resto y lo habría reescrito a mano el productor **Toshio Suzuki** (según se
+  cuenta) · fuente: cuenta de fans
   [@ghibli_world en X](https://x.com/ghibli_world/status/1814525645466034560) (jul-2026) · ⚠️ una
   sola fuente, no oficial — no encontré quién lo dibujó ni una segunda fuente que lo confirme.
 - Letra libre para un logo/título con ese aire pintado a pincel: **Yuji Syuku** (Google
@@ -177,6 +178,26 @@ archivo `.woff2` real, no de memoria — todas OFL-1.1, Google Fonts/Fontsource,
   servidor y no llegué a montar `fotogramas.py` sobre un clip largo en Dailymotion/Internet
   Archive dentro de esta tanda · ⚠️ **pendiente de comprobar con fotograma y minuto** — lo puede
   cerrar el investigador de vídeo con `fotogramas.py` si le queda cupo, o yo en la siguiente tanda.
+  (Aviso del jefe: el archivo completo de Internet Archive `SenToChihiroNoKamikakushi` está
+  restringido, da 401 al descargar — no usarlo; sólo tráileres/clips de Dailymotion y los
+  fotogramas oficiales de ghibli.jp, que es justo lo que usé aquí.)
+- **Modelos y *rigs* libres del personaje (Sketchfab, CC Attribution, comprobado con la API
+  `api.sketchfab.com/v3`):** "*walking animation of chihiro*" de xuanxuann11 (7.018 caras, ya
+  animado caminando) — [sketchfab.com/3d-models/walking-animation-of-chihiro-47360c43be15476ca2e22529b668c928](https://sketchfab.com/3d-models/walking-animation-of-chihiro-47360c43be15476ca2e22529b668c928);
+  "*Animated Monster (Kaonashi - No Face)*" de klaimtrev (156.844 caras, animado) —
+  [sketchfab.com/3d-models/animated-monster-kaonashi-no-face-37434fa7e31a4b90a21006820e75b59b](https://sketchfab.com/3d-models/animated-monster-kaonashi-no-face-37434fa7e31a4b90a21006820e75b59b);
+  "*Dragon Haku*" de soukosouji (1.495.520 caras, muy detallado) —
+  [sketchfab.com/3d-models/dragon-haku-0a92ffdf9d5e476387a0a3d6042c6dcb](https://sketchfab.com/3d-models/dragon-haku-0a92ffdf9d5e476387a0a3d6042c6dcb)
+  · todos **CC Attribution**, fan art 3D — sirven como base/referencia de proporciones para
+  Blender, citando siempre al autor; no son assets oficiales de Ghibli · ✅ (licencia y autor
+  confirmados por la API de Sketchfab).
+- **Filtros de la animación (grano, brillo, aberración):** no encontré ninguna fuente de
+  producción (entrevista, *making of*, artbook) que documente un filtro digital deliberado de
+  grano de película o aberración cromática en *El viaje de Chihiro* · ⚠️ **No encontré** — lo que sí
+  está confirmado (ver arriba) es la mezcla 2D/3D con Toonz y Toon Shaders; el aspecto "de película"
+  vendría del propio celuloide/telecine de una producción de 2001, no de un filtro digital
+  intencional, pero no tengo una fuente que lo diga explícitamente, así que lo dejo como aviso y no
+  como dato.
 
 ### Punto 24 · Obras parecidas
 

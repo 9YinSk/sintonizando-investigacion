@@ -178,5 +178,32 @@
   "que_es": "Explicación del nombre 油屋 (Aburaya) y de las referencias arquitectónicas reales de Miyazaki",
   "para_que": "vocabulario propio y diseño del mundo (punto 25) — marcado ⚠️, fuente secundaria",
   "licencia": "© autor del blog; sólo como fuente"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/walking-animation-of-chihiro-47360c43be15476ca2e22529b668c928",
+  "fuente": "Sketchfab (autor: xuanxuann11)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Chihiro con animación de caminar (7.018 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/animated-monster-kaonashi-no-face-37434fa7e31a4b90a21006820e75b59b",
+  "fuente": "Sketchfab (autor: klaimtrev)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D animado de Sin Cara / Kaonashi (156.844 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/dragon-haku-0a92ffdf9d5e476387a0a3d6042c6dcb",
+  "fuente": "Sketchfab (autor: soukosouji)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D muy detallado del Haku dragón (1.495.520 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
  }
 ]

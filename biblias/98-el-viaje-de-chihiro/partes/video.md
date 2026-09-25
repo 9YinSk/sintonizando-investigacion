@@ -6,11 +6,14 @@ opening/ending semanal, sino créditos iniciales/finales, tráiler y escenas ic�
 
 YouTube pidió iniciar sesión en este contenedor: trabajé con Dailymotion (tráiler doblado que ya
 procesó `episodio.py` en `partes/episodios.md`), la galería oficial 100% libre de
-`ghibli.jp/works/chihiro`, Internet Archive, MusicBrainz y Ghibli Wiki (Fandom). La ficha minuto a
-minuto de la película completa (`herramientas/episodio.py`) seguía sin hojas al cerrar esta tanda
-(carpeta `/tmp/claude-0/trabajo/98-el-viaje-de-chihiro-episodios/pelicula/hojas` vacía): cuando el
-jefe la tenga, hay que releer `partes/episodios.md` y sustituir los «según la galería oficial»
-por minuto exacto de la película.
+`ghibli.jp/works/chihiro`, Internet Archive, MusicBrainz y Ghibli Wiki (Fandom).
+
+**Aviso del jefe (recibido durante esta tanda): la ficha minuto a minuto de la película completa NO
+va a salir** — el archivo de Internet Archive (`SenToChihiroNoKamikakushi`) está restringido, la
+descarga da 401. No se reintentó. Por eso los fotogramas de la película que no vienen del tráiler
+doblado (que sí tiene minuto exacto con `&t=`) quedan citados como «still oficial de `ghibli.jp`,
+sin minuto de vídeo» y marcados ⚠️ en vez de con un timecode — es lo máximo que da de sí esta obra
+sin acceso a la película completa ni a YouTube.
 
 ## Fuentes de imagen fija usadas
 
@@ -320,9 +323,11 @@ Todas las paletas son de fotogramas oficiales 1920×1038 de `ghibli.jp`, medidas
 - ❌ AnimeThemes no respondió en esta tanda (ya había fallado con HTTP 522 en `datos-video.md`;
   reintenté una vez, sin respuesta) — no es crítico porque es película, no tiene openings/endings de
   serie en ese catálogo.
-- ⚠️ La ficha minuto a minuto de la película completa (`herramientas/episodio.py`) no estaba lista
-  al cerrar esta tanda — los minutos de las escenas fuera del tráiler quedan con still oficial en
-  vez de timecode; falta releerla cuando exista.
+- ⚠️ La ficha minuto a minuto de la película completa **no se va a hacer**: el jefe avisó a mitad
+  de esta tanda de que el archivo de Internet Archive (`SenToChihiroNoKamikakushi`) da 401
+  (descarga restringida) y no hay que reintentarlo. Los minutos de las escenas fuera del tráiler y
+  del reel promocional se quedan con still oficial de `ghibli.jp` (sin timecode) en vez de minuto
+  exacto — no es una tarea pendiente, es el límite real de las fuentes disponibles para esta obra.
 
 ## Bitácora de búsqueda
 
@@ -352,9 +357,9 @@ Todas las paletas son de fotogramas oficiales 1920×1038 de `ghibli.jp`, medidas
 - Colores medidos con `estilo.py`: 11 fotogramas oficiales (ver punto 4), JSON en
   `/tmp/claude-0/trabajo/98-el-viaje-de-chihiro-video/estilo/lugares.json` y `lugares2.json`.
 
-Sigue: falta releer `partes/episodios.md` cuando el jefe termine la ficha minuto a minuto de la
-película completa (carpeta `pelicula/hojas` seguía vacía) y sustituir los stills «oficial, sin
-minuto» de los puntos 2 y 14 por su minuto exacto donde la ficha lo permita. Falta también una
-segunda fuente para «One Summer's Day = tema de apertura» y para el registro de voz de Sin Cara (ver
-«No encontré»); si aparecen, pasan de ⚠️ a ✅. El resto de los puntos 2, 4, 9, 10 y 14 está completo
-para esta tanda.
+Sigue: la ficha de la película completa no va a salir (aviso del jefe, ver arriba), así que no hay
+que esperarla. Sólo queda opcional, no obligatorio: una segunda fuente para «One Summer's Day = tema
+de apertura» y para el registro de voz de Sin Cara (ver «No encontré», ambos ⚠️ de un solo dato).
+Los puntos 2, 4, 9, 10 y 14 están completos para el nivel que permiten las fuentes disponibles
+(tráiler doblado con minuto exacto + 50 stills oficiales de `ghibli.jp` + reel promocional + 11
+paletas medidas con `estilo.py`). Parte terminada.
