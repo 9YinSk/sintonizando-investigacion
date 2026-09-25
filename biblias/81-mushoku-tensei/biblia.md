@@ -403,3 +403,410 @@ Wiki, «Datos de interés») ✅.
 oscura, con textura y hojas.
 
 ---
+
+## 8 · Los personajes: qué transmiten, su cara en cada emoción y sus dinámicas
+
+Fuentes: wikitext de [la wiki](https://mushokutensei.fandom.com/wiki/Rudeus_Greyrat)
+(Personality, Trivia, infobox), fichas de [AniList](https://anilist.co/character/88348),
+audios latinos medidos con `voz.py` y fotogramas propios.
+
+### Rudeus Greyrat — el hombre que decide tomarse la vida en serio
+- **Qué transmite**: ternura y vértigo a la vez. Un niño brillante con
+  la cabeza de un adulto que ya fracasó una vez.
+- **Carácter**: humilde por miedo a volver a ser el NEET que fue. Amable,
+  protector, educado hasta incomodar. Con quien amenaza a su familia, sale
+  una rabia enorme ✅.
+- **Miedo**: volver a ser el de antes. Le pesa no haber cuidado a sus
+  padres en su otra vida ✅.
+- **Cómo habla**: de niño, agudo y entusiasta cuando explica magia; como
+  el hombre de 34, grave, resignado, irónico ✅ (audios, §10).
+- **Manías**: nombró sus cuatro extremidades (Tindalos, Baskerville,
+  Hulk, Hércules); fundó una «religión» de tres diosas (§14) ⚠️.
+- **Objetos**: túnica gris de mago y báculo; lunar bajo el ojo izquierdo.
+- **Arco**: bebé que despierta → niño prodigio con tutora → aventurero con
+  Eris y Ruijerd → joven hundido y curado en Ranoa → padre de familia.
+
+### Roxy Migurdia — la maestra (la más querida)
+- **Qué transmite**: calma, competencia y un poco de torpeza entrañable.
+- **Carácter**: tranquila, lista, deduce rápido. De joven huyó de su
+  tribu. Se traba en momentos tensos ✅.
+- **Miedo**: que la tomen por una niña por su estatura. De pequeña le
+  daban pánico los Superd ✅/⚠️.
+- **Cómo habla**: **rápido y directo**, en modo profesora: «obsérvalo,
+  memorízalo, hazlo» (la más rápida de las cuatro voces: 3,19 palabras por
+  segundo) ✅.
+- **Objetos**: sombrero de bruja negro (regalo de su maestro, luego uno de
+  Rudeus y Sylphiette); **báculo con gema azul** en todas sus hojas ✅.
+- **Arco**: tutora viajera → colega adulta → segunda esposa de Rudeus.
+
+### Eris Boreas Greyrat — la furia que aprende a querer
+- **Qué transmite**: energía, fuego, orgullo. Da risa y da miedo.
+- **Carácter**: impulsiva, desafiante, de mal genio (lo copió de su abuelo
+  Sauros). Muy tímida por dentro: tapa la vergüenza a golpes ✅.
+- **Miedo**: sentirse menos que Rudeus. Por eso se va sola a entrenar a
+  la Tierra Santa de la Espada ✅.
+- **Cómo habla**: **preguntas retóricas encadenadas** cuando se enoja
+  («¿Qué cosa? ¿No qué? ¿Qué descaro?»). Voz muy aguda con la mayor
+  variación medida (23,3 semitonos) ✅.
+- **Objetos**: dos espadas a la cintura; diadema negra; una espada de
+  madera como símbolo ⚠️.
+- **Arco**: niña noble violenta → compañera de viaje del grupo «Dead End»
+  → Reina de la Espada.
+
+### Sylphiette — la amiga que se vuelve fuerte
+- **Qué transmite**: dulzura, lealtad y valentía callada.
+- **Carácter**: de niña, tímida y dependiente por el acoso que sufría por
+  su pelo verde. Luego disciplinada; como **Fitz**, fría en público e
+  insegura en privado; casada, cariñosa y segura ✅.
+- **Miedo**: que Rudeus la rechace si descubre quién es bajo el disfraz ✅.
+- **Cómo habla**: la voz más aguda (461 Hz), vulnerable, pregunta bajito ✅.
+- **Objetos**: guantes blancos desde la T2; gafas oscuras de Fitz; pelo
+  verde que se vuelve blanco tras el Incidente de Teletransporte.
+- **Arco**: niña escondida bajo la capucha → guardia encubierta de la
+  princesa Ariel → primera esposa de Rudeus y madre de Lucy.
+
+### Secundarios más queridos
+- **Ruijerd Superdia**: guerrero de su pueblo, discriminado como
+  «asesino de niños» por un malentendido. Protector estoico ✅.
+- **Ghislaine Dedoldia**: cara inexpresiva que asusta, pero emocional.
+  No sabía leer hasta que Rudeus le enseñó. Frases cortas y secas ✅.
+- **Paul Greyrat**: padre bocazas y mujeriego, pero protector feroz.
+  Muere salvando a Rudeus (ep. 46) ✅.
+- **Orsted**: el Dios Dragón. Una maldición hace que todos le teman. Voz
+  latina muy grave y pausada (95 Hz) ✅.
+
+### Su cara en cada emoción (fotograma y minuto)
+
+| | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Rudeus** | En brazos de Paul, sonriendo (ep. 1, 4:24) ✅ | Grito a la luz del fuego ([x8yhi8e 1:15](https://www.dailymotion.com/video/x8yhi8e?t=75)) ✅ | ⚠️ no hay fotograma | Ante la hidra ([1:09](https://www.dailymotion.com/video/x8yhi8e?t=69)) ✅ | ⚠️ no hay fotograma |
+| **Roxy** | Junto a Rudeus en el muro (ep. 2, 9:04) ✅ | ⚠️ | ⚠️ | Alerta en un barco ([x8bc8ii 0:45](https://www.dailymotion.com/video/x8bc8ii?t=45)) ⚠️ (escena sin ubicar) | Se rasca la nuca y aparta la mirada (ep. 2, 3:44) ✅; ruborizada, mano en la boca (hoja `personajes_01`, n.º 112) |
+| **Eris** | Sonrisa feroz de combate ([x8bc8ii 0:33](https://www.dailymotion.com/video/x8bc8ii?t=33)) ✅; tranquila tras el rescate (ep. 5, 13:40) | Puño en alto gritando (ep. 5, 6:30) ✅ | ⚠️ | Angustia en la mazmorra (ep. 5, 12:20) ✅ | ⚠️ |
+| **Sylphiette** | Ojos cerrados, cómoda (ep. 3, 7:00) ✅ | ⚠️ | Hablando de su pelo, sólo en audio (§10) ⚠️ | ⚠️ | Encogida bajo la capucha (ep. 3, 5:30) ✅ |
+
+Faltan 9 de 20 caras: los episodios de la T2 y la T3 no se pudieron mirar
+(YouTube bloqueado; el lote de Internet Archive llega al ep. 11) ⚠️.
+
+### Dinámicas (para láminas en grupo)
+- **Rudeus y Roxy**: admiración de alumno a maestra. Ella se agobia, él la
+  anima («ganaste experiencia», ep. 1, 20:00).
+- **Rudeus y Eris**: ella lo arrastra, él aguanta. Complejo de
+  inferioridad mutuo que causa malentendidos.
+- **Rudeus y Sylphiette**: estudian juntos en el pasto; él le acaricia la
+  cabeza (ep. 3, 6:10). Complicidad tranquila.
+- **Eris y Ghislaine**: hermana mayor y pequeña; espada.
+- **Rudeus y Paul**: el padre lo pica con consejos de mujeriego.
+- **Roxy y Sylphiette**: casi hermanas, las dos discriminadas por su
+  aspecto ⚠️.
+- **Quién lo hace reír**: Paul. **Con quién discute**: Eris.
+
+---
+
+## 9 · ¿Quién es el más querido?
+
+| Medida | 1.º | 2.º | 3.º | 4.º |
+|---|---|---|---|---|
+| Favoritos en [AniList](https://anilist.co/anime/108465) | **Roxy 11 574** | Rudeus 8539 | Eris 7271 | Sylphiette 4462 |
+| Dibujos en [Danbooru](https://danbooru.donmai.us/posts?tags=mushoku_tensei) | **Eris 2795** | Roxy 2714 | Sylphiette 1812 | Rudeus 1229 |
+
+Siguen en AniList Ruijerd (1893), Ghislaine (1214), Paul (1114) y Orsted
+(900). En Danbooru, Ghislaine (1084).
+
+**Conclusión: Roxy**. Gana en favoritos y queda a un pelo de Eris en
+dibujos. En el [foro de MyAnimeList](https://myanimelist.net/forum/message/65611948?goto=topic)
+se habla de «Roxy supremacy» ⚠️. En Reddit, «This is exactly why I love
+Roxy» tiene 725 votos ([hilo](https://www.reddit.com/r/mushokutensei/comments/1wji486/this_is_exactly_why_i_love_roxy_just_look_at_her/)).
+**No hay encuesta oficial** de popularidad encontrada ⚠️.
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+**Estudio**: Haymillian México / BDG Studios (T1-T2, Cuernavaca) y
+TransPerfect Media (T3). **Dirección**: Denisse Leguizamo (su primera
+dirección). **Plataforma**: Funimation (T1), Crunchyroll (T2-).
+Fuentes: [Doblaje Wiki por su API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Mushoku_Tensei:_Jobless_Reincarnation)
+y [ANMTV](https://www.anmtvla.com/2021/08/mushoku-tensei-jobless-reincarnation-se.html) ✅.
+
+| Personaje | Japonés | Latino | Segunda fuente |
+|---|---|---|---|
+| Rudeus niño y joven | Yumi Uchiyama | **Rubén Quezada** «Rubecai» | ANMTV y [Funianime Latam](https://x.com/funianime/status/1810071658411028647) ✅ |
+| Rudeus, vida pasada (pensamientos) | Tomokazu Sugita | **Elliot Leguizamo** | AniList ✅ |
+| Roxy | Konomi Kohara | **Effy Estrada** | ANMTV y Funianime ✅ |
+| Eris | Ai Kakuma | **Rose Mendoza** | Funianime ✅ |
+| Sylphiette / Fitz | Ai Kayano | **Denisse Leguizamo** | Funianime ✅ |
+| Ruijerd | Daisuke Namikawa | Luba Flores | AniList ✅ |
+| Ghislaine | Megumi Toyoguchi | Adriana Rodríguez | AniList ✅ |
+| Paul | Toshiyuki Morikawa | Juan Carlos Román | AniList ✅ |
+| Orsted | Kenjirō Tsuda | Carlos Reynoso | AniList ✅ |
+| Zenith | Hisako Kanemoto | Karen Hernández | AniList ✅ |
+| Elinalise | Rie Tanaka | Dayana Trujillo (Doblaje Wiki) o Dayana Santiaguillo (AniList) | ⚠️ no coinciden |
+
+**Datos de interés** (Doblaje Wiki, una fuente ⚠️): Rose Mendoza hizo
+casting para Eris y para Sylphiette. Nanahoshi tuvo dos actrices por
+error (Valeria Tavera y Paloma Segarra). Hitogami se dijo «Dios Hombre» y
+luego «Hombre Dios». En la T1 parte 1 se **suavizaron** los diálogos
+sexuales de Rudeus. Los idiomas inventados se doblaron tal cual.
+
+### Frases textuales (muestras oficiales de Doblaje Wiki, transcritas con `voz.py`)
+
+No hay clip oficial doblado mirado: YouTube pidió iniciar sesión. El
+minuto es el **de la muestra**. Las dos primeras se ubicaron en el ep. 1
+cruzándolas con la transcripción inglesa (18:00-19:00).
+
+- **Rudeus niño** ([muestra](https://static.wikia.nocookie.net/doblaje/images/d/d8/MushokuTensei_Rudeus_Greyrat_%28ESP-LA%29.ogg), 0:00-0:11):
+  «Mi mamá cuidó mucho ese árbol, creo que se va a enojar cuando lo vea.
+  También sabes usar la magia curativa, ¡qué increíble!» (en el ep. 1,
+  18:00). Agudo (320 Hz), muy expresivo.
+- **Rudeus, vida pasada** ([muestra](https://static.wikia.nocookie.net/doblaje/images/9/90/MushokuTensei_Vida_pasada_de_Rudeus_%28ESP-LA%29.ogg), 0:00-0:24):
+  «Parece que he reencarnado, no puedo creer que algo tan loco me haya
+  pasado… tengo 34 años así que son unos niños para mí» (en el ep. 1,
+  2:00-3:00). Grave (103 Hz).
+- **Roxy** ([muestra](https://static.wikia.nocookie.net/doblaje/images/0/00/MushokuTensei_Roxy_Migurdia_%28ESP-LA%29.ogg), 0:00-0:14):
+  «Ahora usaré la magia de agua nivel santo. Solo puedo hacerlo una vez.
+  Obsérvalo bien, memorízalo y hazlo luego. Ese es tu examen final.»
+- **Eris** ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/ab/Eris_Boreas_Greyrat_%28ESP-LA%29.ogg), 0:00-0:13):
+  «¿Qué cosa? ¿Eres más joven que yo? ¿Me estás llevando la contraria?
+  ¿Quién crees que soy? ¡Debes respetar a tus mayores!»
+- **Sylphiette** ([muestra](https://static.wikia.nocookie.net/doblaje/images/a/ab/Sylphiette_%28ESP-LA%29.ogg), 0:00-0:11):
+  «Oye, ¿para ti no es importante cómo me veo? … Mi cabello es de un color
+  diferente al de mis papás.»
+- **Paul** ([muestra](https://static.wikia.nocookie.net/doblaje/images/8/8f/Paul_Greyrat_%28ESP-LA%29.ogg), 0:01-0:20):
+  «¿Quieres escuchar un consejo de tu padre? Escúchame, hijo. A las
+  mujeres les gustan nuestras fortalezas, pero también nuestras
+  debilidades.»
+- **Ghislaine** ([muestra](https://static.wikia.nocookie.net/doblaje/images/3/35/Ghislaine_Dedoldia_%28ESP-LA%29.ogg), 0:00-0:16):
+  «Yo no sé leer, así que hazlo en voz alta… ¿Qué dijiste?» (Whisper
+  confunde el principio ⚠️).
+- **Orsted** ([muestra](https://static.wikia.nocookie.net/doblaje/images/2/24/MTJR-Orsted-audio.mp3), 0:00-0:36):
+  «Me llamo Orsted… Has mejorado considerablemente. Siempre pensé que
+  tenías potencial.»
+
+**Por oír en persona** (⚠️): el episodio y minuto exactos de las frases de
+Roxy, Eris, Sylphiette, Paul, Ghislaine y Orsted.
+
+---
+
+## 11 · Música y sonido
+
+Fichas en [la wiki](https://mushokutensei.fandom.com/wiki/Opening_Theme_1) ✅.
+Compositor de la banda sonora: **Yoshiaki Fujisawa** (AniList); OST de la
+T2 en [MusicBrainz](https://musicbrainz.org/release-group/e6deb82c-3b81-450d-8fe9-814ebafc69e0).
+
+**Openings de la T1: todos son la misma canción**, 旅人の唄 («Canción del
+viajero», Yuiko Ōhara), reescrita por arco:
+1. «Traveller's Song» (desde el ep. 1). En el propio ep. 1 suena **al
+   cierre**, con la ficha de créditos a las 23:06 ✅ (visto).
+2. «Awakening Song» (目覚めの唄).
+3. «Inheritance Song» (継承の唄).
+4. «Prayer Song» (*Inori no uta*), desde el ep. 17 «Reunion».
+5. «Distant Lullaby Song» (遠くの子守の唄).
+6. «Traveller's Song ~Homecoming~», desde el ep. 22.
+
+**Openings de la T2**: «spiral» de **LONGMAN** ([audio en Internet Archive](https://archive.org/details/mushoku-tensei-season-2-opening-full-spiral-longman-lyrics-kan-rom-eng))
+y «on the front line» de **HITORIE** (2024).
+
+**Endings**: «Only» (ep. 2), «Kaze to Iku Michi» 風と行く道 (ep. 15, suena
+con el reencuentro con Zenith), «Clover» y «Musubime» ムスビメ, todos de
+Yuiko Ōhara.
+
+**Qué ambiente dan**: folk acústico y nostálgico, de viaje (Ōhara) en la
+T1; banda de rock en la T2, más tensa ⚠️ (deducido de artistas y títulos, no de una fuente).
+
+**Escenas y sonido**:
+- El nacimiento (ep. 1, 2:00-3:48): **sin música**, sólo ambiente y llanto.
+- La cena del ep. 1 (21:50): velas, tono íntimo, y luego la canción.
+- La muerte de Paul: **no se sabe qué tema suena** ⚠️.
+
+**Efectos y onomatopeyas**: no se encontró lista oficial ⚠️. El hechizo
+que más se oye es **«Water Ball»** (ウォーターボール), gritado por Roxy en el
+ep. 1, 18:07. Director de sonido: Jin Aketagawa; efectos: Rei Ueno (AniList).
+
+---
+
+## 12 · Vídeos y tendencias
+
+| Vídeo | Enlace y minuto útil | Estado |
+|---|---|---|
+| Tráiler oficial T1 (PV 2020, 1:59) | [Dailymotion](https://www.dailymotion.com/video/x8bc8ii?t=8): trigal en 0:08, isla 0:24, Eris 0:33, Roxy 0:45, manos 1:12, combate 1:42 | ✅ visto |
+| Tráiler del nuevo arco (1:32) | [Dailymotion](https://www.dailymotion.com/video/x8yhi8e?t=30): Rudeus 0:30, 1:09, 1:15 | ✅ visto |
+| Tráiler T2 VOSE (2:16) | [Dailymotion](https://www.dailymotion.com/video/x8c9d35) | ⚠️ no mirado |
+| Opening T2 sin créditos (UHD) | [Internet Archive](https://archive.org/details/creditless-mushoku-tensei-season-2-op-opening-uhd-60-fps): castillo 0:39, mesa 0:51 | ✅ visto (número de OP ⚠️) |
+| Episodio 1 completo (dub inglés, 1080p) | [Internet Archive](https://archive.org/download/mushoku-tensei-jobless-reincarnation-e-2-1080p/Mushoku_Tensei_Jobless_Reincarnation-E1-1080p.mp4?t=1020): la clase de Roxy desde 17:00 | ✅ visto (319 planos) |
+| Reacción al teaser de la T3 | [Internet Archive](https://archive.org/details/youtube-qpngswo2lc4) | ⚠️ |
+| Escena viral: muerte de Geese y reencuentro con Ghislaine | TikTok de [@el_luiisiitto](https://www.tiktok.com/@el_luiisiitto/video/7367669814531263749) y [@normanlance](https://www.tiktok.com/@normanlance/video/7485145190907284791) («La escena que marcó la temporada 2») | ✅ dos vídeos |
+| Reacción a T2 ep. 17 | [YouTube](https://www.youtube.com/watch?v=XAnoAkTQN5o) | ⚠️ no abierto |
+| Lista de análisis | [YouTube](https://www.youtube.com/playlist?list=PLAZDgAKa6ylrua9mTzvDstGQDDzQZy63A) | ⚠️ no abierta |
+| «Están cambiando el diseño en la T2» | [Internet Archive](https://archive.org/details/youtube-Z5m4ovS_mX0) | ⚠️ sólo título (datos del recolector) |
+| Unboxing de la figura de Eris de Kotobukiya | [Internet Archive](https://archive.org/details/youtube-3F8l-Mg5jh4) | ⚠️ sólo título |
+
+**Tendencia en Reddit** (títulos con más votos, recolector): retratos en
+pixel art de todos los personajes (845 votos), «This is exactly why I love
+Roxy» (725), «Which character do you dislike the most?» (532), «This is
+why I love Rudeus» (416), «Sylphy with her iconic dress» (167)
+([r/mushokutensei](https://www.reddit.com/r/mushokutensei/comments/16wc43c/all_of_my_pixel_art_character_portraits_which/)) ⚠️.
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+### *Quest of Memories* (LANCARSE, 19-jun-2024, PC)
+[Steam](https://store.steampowered.com/app/2459420). Idiomas: inglés,
+chino tradicional y japonés; voces sólo en japonés. **Sin español** ✅.
+Tres interfaces:
+1. **Diálogo tipo novela visual**: la caja de §7.
+2. **Combate por turnos**: panel oscuro redondeado arriba a la izquierda
+   con ATTACK / SKILL / ITEM / GUARD / ESCAPE e iconos; **retratos
+   circulares con barras HP/SP** abajo; AUTO y SKIP arriba a la derecha
+   ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_5afb445c4839d38631432454e4db4794550c761e.1920x1080.jpg)).
+3. **Gestión de un restaurante** en isométrica: contador de recursos
+   («50/50»), reloj y tarjeta «MAIN GOAL» en letra de palo; clientes en
+   *chibi* ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_9bfc25604f0f1e7303165ae029112a3c28b147d2.1920x1080.jpg)).
+
+### *Game ni Nattemo Honki Dasu* (gacha, Aiming / Beaglee)
+Salió el 27-mar-2021 y **cerró el 31-ago-2022** ([wiki](https://mushokutensei.fandom.com/wiki/Mobile_Game)) ✅.
+Novela visual con voces parciales y **retratos Live2D**; equipos de 3 más
+un apoyo; moneda «Phantom Stones»; rarezas de 3★ a 5★. Tenía historias
+exclusivas supervisadas por el autor. No se pudieron ver capturas propias
+(cuenta japonesa) ⚠️.
+
+**Colaboraciones en otros juegos**: §24. **The Cutting Room Floor**:
+bloqueado por Cloudflare, sin página encontrada ⚠️.
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### Lo que ama
+- **Roxy por encima del protagonista** («Roxy supremacy», §9).
+- **La «religión» de Rudeus**: tres diosas, Roxy (Sabiduría), Eris
+  (Guerra, con una espada de madera) y Sylphiette (Amor) ⚠️ (wiki).
+  **Ojo**: los objetos «sagrados» de Roxy y Sylphiette son **sexuales** en
+  la novela. Sólo se puede aludir a la idea de «diosas», nunca al objeto.
+- El **mechón rebelde** (*ahoge*) idéntico de Rudeus y sus tres esposas ⚠️.
+- Los nombres griegos de la familia de Eris (Boreas, Anemoi, Zephyrus) y
+  el de Eris, diosa de la discordia ⚠️.
+- El apodo «Luffy» de Sylphiette: sus primeras sílabas en japonés
+  (シルフィエット) suenan como el de One Piece ✅.
+- El tono crudo: «el mundo de Mushoku Tensei es sucio y crudo, por eso lo
+  amo» (108 votos en [Reddit](https://www.reddit.com/r/mushokutensei/comments/mzy323/mushoku_tensei_world_is_dirty_and_raw_and_thats/)) ⚠️.
+- El retrato serio de la **depresión y la ansiedad** de Rudeus en la T2.
+- El doblaje latino: sus propios errores famosos (Doblaje Wiki): en el
+  ep. 18, Rudeus pide «arroz con bolas de carne» por «bolas de arroz»; el
+  «desastre de maná» se tradujo de cuatro formas ⚠️.
+
+### Qué NO hacer
+- **Nada sexualizado ni infantilizado**. Es lo más criticado de la obra
+  (Kotaku pidió que se dejara de recomendar, según
+  [Somos Kudasai](https://somoskudasai.org/noticias/anime/kotaku-exige-a-los-fans-que-dejen-de-recomendar-mushoku-tensei/)).
+  En el servidor: magia, familia, viaje y crecimiento.
+- **No hacer chiste del trauma** de Rudeus.
+- **No poner a Roxy ni a Ghislaine de adorno**, pasivas: son maestra genio
+  y Reina de la Espada ⚠️.
+- **No poner a Eris de «dama en apuros»** sin motivo ⚠️.
+- **No usar una nube de pensamiento** sobre Rudeus (§7).
+- **No usar burbuja blanca**: la caja es oscura con hiedra (§7).
+- **No dibujar a Roxy sin báculo ni sombrero**, ni a Sylphiette joven con
+  pelo verde: el verde es de su infancia ✅ (aunque en el arte de la T3 su
+  pelo se ve algo verdoso, §28 ⚠️).
+- **No pintar con colores saturados de videojuego**: la serie es de
+  degradados suaves (§19).
+- Los crossovers de gacha **no son canon**: si se usan, se dice.
+
+---
+
+## 15 · Poses analizadas por personaje
+
+Visto en los episodios de Internet Archive (§2). Minuto exacto.
+
+### Rudeus (ep. 1)
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| 2:36 | Bebé, ojos verdes muy abiertos al techo | **presentar** |
+| 2:48 | Agarra el dedo de Zenith | ternura |
+| 3:12 | Boca abajo en la cuna, sonríe, manitas arriba | **celebrar** |
+| 3:18-3:24 | Gatea mirando la luz de una ventana | **animar**, explorar |
+| 3:36 | De pie en una tina, alcanza algo de una repisa | **pensar**, investigar |
+| 4:24 | En brazos de Paul, sonríe con las manos a cámara | celebrar en familia |
+| 4:36 | De pie junto a una ventana redonda, mira fuera | **pensar**, mirar lejos |
+| hoja `personajes_01` n.º 137 | Ante la pizarra de Ranoa | **explicar** |
+| hoja `personajes_01` n.º 143 | Mano en la barbilla | **pensar** |
+| hoja `modelo_01` n.º 212 | De pie con el báculo de orbe azul (T3) | **presentar** con su objeto |
+
+### Roxy (ep. 1 y ep. 2)
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| ep. 2, 2:48 | Sentada a la mesa de estudio, espalda recta | **presentar** |
+| ep. 2, 3:44 | Se rasca la nuca, aparta la mirada | pensar, vergüenza |
+| ep. 2, 4:00 | Ojos cerrados, serena, explicando | **explicar** |
+| ep. 2, 7:36 | Sentada en lo alto de un muro, sombrero y báculo, mira abajo | **regañar**, dar instrucciones |
+| ep. 2, 7:44 | Primer plano bajo el ala del sombrero, seria, a media frase | **explicar** |
+| ep. 2, 8:08 | De espaldas en el trigal, báculo en mano, Rudeus detrás | **animar**, guiar |
+| ep. 2, 8:40 | Se inclina hacia Rudeus, mano cerca de su hombro | **animar**, consolar |
+| ep. 2, 9:04 | Junto a Rudeus, los dos apoyados en el muro | **celebrar** |
+| ep. 1, 18:07 | Lanza «Water Ball» con el báculo extendido | **presentar en acción** |
+| ep. 1, 18:25 | Agachada junto al tocón, gesto de disculpa | vergüenza |
+
+### Eris (ep. 5)
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| 5:50 | Primer plano furiosa, pelo revuelto | **regañar** |
+| 6:20 | Arrastra a Rudeus de lado | regañar, atacar |
+| 6:30 | **Puño derecho en alto**, grita, cuerpo hacia delante | **regañar**, **animar** con energía |
+| 12:20 | Tras las rejas, araña la piedra | resistir |
+| 13:40 | De pie junto a Rudeus de noche, relajada | **celebrar** |
+| 14:20 | Mirada de lado, labios apretados, orgullosa | **explicar** a su manera |
+| [tráiler 0:33](https://www.dailymotion.com/video/x8bc8ii?t=33) | Sonrisa feroz con un arma | animar |
+
+### Sylphiette (ep. 3)
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| 5:30 | Capucha puesta, mirada de lado, encogida | **pensar**, dudar |
+| 5:40 | Se baja la capucha: orejas de elfo y ojos muy abiertos | **presentar** |
+| 6:10-6:20 | Rudeus le acaricia la cabeza; baja la mirada | **animar**, consolar |
+| 6:40 | En el pasto con un libro abierto junto a Rudeus | **explicar**, estudiar |
+| 7:00 | Ojos cerrados, tranquila | **celebrar** |
+| 7:50 | De espaldas junto a Rudeus mirando el campo | pensar |
+| hoja `modelo_01` n.º 209 | De pie con el uniforme de Ranoa (T2) | presentar de joven |
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Hex medidos con `estilo.py` sobre las hojas de modelo de la T3 de la wiki.
+
+- **Rudeus**: túnica gris de mago con capucha, casi siempre; gastada y
+  cortada en su etapa de aventurero. Hex: gris `#7B7677`, sombra
+  `#302C2B` y `#171616`, claro `#DBCEC0`, marrón `#B29B82`
+  ([S3](https://static.wikia.nocookie.net/mushokutensei/images/0/05/MT-AN-S3P1-Rudeus-FullBody.png)) ✅.
+  De niño, ropa clara y pantalón corto rojizo. En Ranoa, **uniforme**:
+  camisa blanca con ribete rojo y pantalón oscuro. Pelo castaño claro,
+  ojos verdes, **lunar bajo el ojo izquierdo**, coleta de mayor.
+- **Roxy**: **el traje icónico**. Camisa blanca de manga larga con bordes
+  negros, falda corta negra, capa marrón clara con borde blanco y negro y
+  línea dorada, **sombrero negro de punta caída**, **báculo con gema
+  azul**. Pelo azul en **dos trenzas** muy largas. Hex: crema `#F0ECE6`,
+  azul gris oscuro `#353537` y `#5B5D67`, lavanda gris `#9493A4`, piel
+  `#E6CDB7` ([S3](https://static.wikia.nocookie.net/mushokutensei/images/1/1f/MT-AN-S3P1-Roxy-FullBody.png)) ✅.
+- **Eris**: pelo largo rojo, ojos rojos, **diadema negra**, dos espadas a
+  la cintura. De niña, vestido con capa (hoja `modelo_01` n.º 219); en la
+  T3, armadura ligera de cuero sobre camisa clara, o traje de
+  entrenamiento ceñido. Hex: crema `#E7E3DB`, rojo marrón del pelo en
+  sombra `#7C473D`, oscuros `#181616` y `#43322F`
+  ([S3](https://static.wikia.nocookie.net/mushokutensei/images/9/90/MT-AN-S3-Eris-FullBody.png)) ✅.
+  Más tarde le salen mechones blancos ✅.
+- **Sylphiette**: orejas de elfo, ojos rojos (la parte de vídeo los ve
+  rosados en el ep. 3 ⚠️). Pelo **verde y corto** de niña; **blanco**
+  desde el Incidente. Guantes blancos desde la T2. Como **Fitz**: gafas
+  oscuras y capa azul (`modelo_01` n.º 207). Hex de la T3: crema
+  `#EFE9DF`, verde oliva `#8F9166`, `#55523A` y `#7A7151`, piel `#DFCBB8`
+  ([S3](https://static.wikia.nocookie.net/mushokutensei/images/e/e2/MT-AN-S3P1-Sylphiette-FullBody.png)) ✅.
+- **Uniforme de Ranoa**: camisa blanca, ribete rojo o burdeos, pantalón o
+  falda oscura. Lo comparten Rudeus, Sylphiette y Ariel: la ropa segura
+  para una lámina de grupo ✅.
+
+**Lo icónico que todos reconocen**: el sombrero y el báculo de Roxy, la
+túnica gris de Rudeus, el pelo rojo y la diadema de Eris, las orejas y el
+pelo blanco de Sylphiette.
+
+---
