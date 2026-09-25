@@ -22,11 +22,13 @@ fecha: 2026-09-25
 > - El redactor **miró las 3 hojas de `hojas/` número a número** y corrigió
 >   varias cosas de las partes (§28): la «forma humana de Turbo Granny» del
 >   ep. 5 es en realidad **Seiko**, la abuela de Momo; la figura «TENITOL de
->   Momo» es otra foto de **Okarun transformado**; y las figuras son de
->   **FuRyu**, no de Good Smile.
+>   Momo» es otra foto de **Okarun transformado**; y las figuras TENITOL y
+>   F:NEX de la hoja 3 son de **FuRyu** (Good Smile US sólo las vende). La
+>   key visual «Turbo Granny humana» es en realidad **el gato**.
 > - **Punto 13 incompleto**: el investigador de voz agotó sus 2 tandas.
 >   Faltan la **vergüenza de Momo**, la **tristeza y la vergüenza de Aira
->   consciente** y **Turbo Granny en alegría, tristeza y miedo** (§8.6).
+>   consciente** y **Turbo Granny en alegría, tristeza, miedo y
+>   vergüenza** (§8.6). No se relanza: queda ⚠️ en la tabla final.
 > - ✅ = dos fuentes o visto por nosotros. ⚠️ = una sola fuente, o algo que
 >   hay que comprobar. Lo que falta está en §28 y en la tabla final.
 
@@ -170,7 +172,7 @@ no traen minuto: van al final.
 
 | Escena | Cap. y minuto | Qué se ve | Para qué sirve |
 |---|---|---|---|
-| **La apuesta** | ep. 1, [4:00-5:00](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=240) | Okarun lee una revista ocultista; Momo se burla. Él la corrige: «UFO no, **UAP**». Ella: «Creo en fantasmas, no en aliens» | la dinámica base de los dos; concepto B (§27) |
+| **La apuesta** | ep. 1, [4:00-5:59](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=240) | Okarun lee una revista ocultista; Momo se burla. Él la corrige: «UFO no, **UAP**». Ella: «Creo en fantasmas, no en aliens» | la dinámica base de los dos; concepto B (§27) |
 | **Los ojos en el túnel** | ep. 1, [10:49-11:26](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=649) | a los **10:55** sólo dos ojos amarillos en la oscuridad; luego la silueta de Turbo Granny corriendo contra un fondo rojo (11:10-11:26) | presentar a Turbo Granny sin enseñarla; concepto A |
 | **El despertar de Momo** | ep. 1, [13:16-14:10](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=796) | secuestrada en el OVNI, Momo activa por primera vez su poder. Todo se vuelve **cian** (#94EDF4, #1696EB) | la escena que arranca la serie; «presentar el poder» |
 | **La maldición de Okarun** | ep. 1, [14:11-16:25](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=851) | se transforma en monstruo para protegerla: «Por ella, hasta me vuelvo un monstruo» (14:34). Rosa, cian y violeta | el giro del protagonista |
