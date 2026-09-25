@@ -24,7 +24,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] repaso 12-kakegurui
 - [ ] repaso 13-rick-and-morty
 - [ ] repaso 14-adventure-time-hora-de-aventura
-- [ ] repaso 15-spongebob-bob-esponja
+- [x] repaso 15-spongebob-bob-esponja
 - [ ] repaso 16-neon-genesis-evangelion
 - [ ] repaso 17-arcane
 - [ ] repaso 18-death-note

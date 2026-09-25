@@ -11,7 +11,7 @@ Cuenta: cuenta I34
 - 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
 - 41 Dandadan: **COMPLETA** (07:20). ✅23 ⚠️11 ❌0, 178 refs, 50 webs.
-- 42 Blue Lock: imagen, texto y video completos; voz relanzada (punto 13).
+- 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
 - 43 Kaguya-sama: imagen en marcha. 44-47: recolectados por adelantado.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
@@ -36,8 +36,13 @@ Cuenta: cuenta I34
   - Sin choque en A (nadie más lo pide); C choca sólo con Los Simpson (29). **Hace falta la lista real de comandos de 📻 RADIO EN VIVO** para ajustar la lámina.
   - Punto 13 ⚠️: faltan tristeza/vergüenza de Aira despierta, casi todas las emociones de Turbo Granny, y el miedo de Momo (su vergüenza sí se encontró, en una hoja de vídeo).
   - Okarun es el más querido en Japón (encuesta oficial); Momo gana en AniList/Danbooru (fuera de Japón).
+- **42 Blue Lock** propone 3 láminas: A (recomendada) #castings (la carta de convocatoria con cadena en la sala hexagonal de rejilla azul, con Rin de brazos cruzados), B #demos (la ficha de jugador como carta holográfica, con Bachira en la sala «1st STAGE LV.1»), C #a-que-juegas (el móvil de Nagi y su cactus Choki en el cuarto, con su frase real «Sí. Quiero jugar»).
+  - Sin choques directo en A ni B. C no requiere tabla de cumplimiento especial (ya completado en punto 13).
+  - Cuadro de diálogo propio: cartel de rango (número pequeño y nombre enorme en gótica negra con filo blanco). Para textos largos sirve el panel azul oscuro '#191E32' con filete '#374F8B' del juego Project: World Champion.
+  - Rin Itoshi es el más querido en Japón (encuesta oficial); Bachira gana en AniList/Danbooru (fuera de Japón).
 
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 42 | equipo completo | Sonnet + Opus | — | — |

@@ -77,7 +77,7 @@ fecha: 2026-09-24
 
 **⚠️**: había **63** en la primera pasada. Unos 20 pasaron a ✅ (voces,
 licencias, vestuario, luz, Karen, el Balde, el precio…) y el material nuevo
-trae los suyos, cada uno con su motivo; el total al cerrar se dice en §29.
+trae los suyos, cada uno con su motivo: **105 al cerrar** (§29).
 
 ### Índice: dónde está cada punto del encargo
 
@@ -1993,7 +1993,7 @@ Los 25 puntos de «Qué investigar» de `ENCARGO.md` y lo demás que pide.
 
 **⚠️ en el texto**: 63 en la primera pasada; unos 20 pasaron a ✅ y el
 material nuevo trae los suyos, cada uno con su motivo. Total al cerrar:
-**ver la bitácora**.
+**105** (incluidos los 13 de esta tabla y los de las tablas de datos).
 
 **Qué haría falta para cerrar los ⚠️**: un investigador de vídeo cuando
 YouTube no dé 429 (clips doblados, caras de tristeza y vergüenza, poses de
@@ -2044,9 +2044,9 @@ los juegos, arte del 25.º aniversario, fondos de Wallhaven, alturas
 oficiales, cafés temáticos, GOG y Epic en soles. **No usé** Wikipedia (429),
 TV Tropes, TCRF ni Wayback en esta pasada.
 
-**⚠️ al cerrar la segunda pasada**: ver el recuento de `revisar.py` (el
-texto trae los ⚠️ de la primera pasada que siguen en pie y los nuevos, cada
-uno con su motivo).
+**⚠️ al cerrar la segunda pasada**: **105** en el texto (63 en la primera).
+Suben porque ahora cada casilla dudosa de las tablas nuevas (gustos,
+caras por emoción, cumplimiento) lleva su ⚠️ en vez de callarse.
 
 ### Primera pasada (24-sep-2026)
 
