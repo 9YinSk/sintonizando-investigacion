@@ -466,3 +466,35 @@ Lista completa sacada del wikitext de [*Shrek (franchise)*](https://shrek.fandom
 
 **Lo que falta:** una captura en alta de un menú o una caja de diálogo de un juego clásico ⚠️; la letra de sus menús (punto 5) ❌.
 
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+**Memes globales** ✅
+- **«Shrek is love, Shrek is life»**: copypasta nacida en 4chan el 14-ene-2013; lecturas dramáticas en YouTube (feb-2013); explota el 18-mar-2014 con la animación CGI de Sykotic, que llegó a 27 millones de vistas tras la reacción de Fine Bros. De ahí sale el «shrekismo», un culto irónico de nostalgia ([Know Your Meme](https://knowyourmeme.com/sensitive/memes/shrek-is-love-shrek-is-life), Daily Dot).
+- **Shrekfest**: festival real de fans disfrazados en Massachusetts (según Syfy) ⚠️.
+- **Shrek Rave**: fiestas temáticas de promotores independientes (Ka5sh), **no de DreamWorks**. DreamWorks sólo se sumó una vez, en 2022, con el estreno de *El último deseo* ([Vice](https://www.vice.com/en/article/shrek-rave-uk-photos/)) ✅.
+- «All Star» como himno meme de la saga.
+
+**Memes en español, salidos del doblaje** ✅ (TikTok, varias fuentes agregadas)
+- **«Pregúntame, pregúntame»**: la muletilla de Derbez, usada como plantilla de «hazte el interesante».
+- **«Agarro el mínimo de confianza y soy el burro de Shrek»**: para quien se vuelve parlanchín de golpe.
+- **«Porque 'toy solito»**: otra frase de Burro, formato de meme de soledad.
+- Las curiosidades del doblaje (Pin Pon, Paquita la del Barrio) circulan como datos virales entre fans del doblaje.
+
+**Momentos que todo fan reconoce**
+- La cebolla y las capas.
+- «Bienvenidos a Duloc», el número de los muñecos.
+- El pajarito que estalla cuando Fiona canta (49:56).
+- La transformación y el beso en la boda (1:19:50 y 1:20:57).
+- El ataque de pánico del Gato en *El último deseo* (punto 21): el momento más comentado de la saga reciente, y no por gracioso.
+- En Reddit, «john lithgow doing his iconic lord farquaad line» (194 votos) y «Forgot how iconic the scene was» (202) ([r/Shrek](https://www.reddit.com/r/Shrek/comments/1jb5ijm/john_lithgow_doing_his_iconic_lord_farquaad_line/)).
+
+**Qué NO hacer** (lo que a un fan le sonaría falso)
+- **No hacer a Shrek bruto y gritón.** Sus mejores chistes (la cebolla) dependen de que hable **despacio y con lógica aplastante** (1,71 palabras/s en la muestra).
+- **No poner a Shrek solo.** Burro y el Gato roban la película en las listas de fans. Shrek sin compañía pierde lo que el fandom más pide.
+- **No tratar al Gato sólo como chiste.** Su arco de *El último deseo* es sobre el miedo a la muerte y la ansiedad; burlarse de eso es el error que más notaría ese público.
+- **No mezclar el doblaje latino con el de España.** Son equipos distintos, y dentro del latino hay acentos a propósito (rioplatense en *El último deseo*). En un servidor de doblaje se nota.
+- **No dar por hecho que Obregón sigue siendo Shrek.** No vuelve en *Shrek 5*; es un tema sensible ahora mismo.
+- **No inventar una colaboración con Fortnite.** No encontré ninguna oficial: dos fuentes la tratan como rumor (punto 23).
+- **No dibujar contorno negro de anime** ni cel-shading: Shrek es CG sin línea (punto 18).
+- **No cambiar el vestido de Fiona al transformarla**: la ropa es la misma en humana y en ogra (punto 1).
+
