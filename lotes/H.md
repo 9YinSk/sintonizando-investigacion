@@ -18,3 +18,4 @@ Cuenta: cuenta R47
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
 | 117 | imagen | Sonnet | 12 | 208 mil |
+| 117 | texto | Sonnet | 14 | 249 mil |
