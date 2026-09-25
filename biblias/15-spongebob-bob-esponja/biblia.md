@@ -54,8 +54,11 @@ tiene que dejar claro qué NO va aquí: noticias sin precio.
   nada, y **le cuesta decir «gratis»** (ver §2).
 - «**Con el precio en soles**»: el público es de Perú y de toda
   Latinoamérica. La lámina tiene que enseñar un precio escrito como se
-  escribe en Perú: **S/ 12.90** (símbolo «S/» y punto decimal) ⚠️. Antes de
-  rotular, copiar el formato exacto de una captura de Steam Perú (ver §28).
+  escribe en Perú. **Steam Perú lo escribe «S/.38.50»**: «S/.», sin espacio,
+  y punto decimal ✅ (API de la tienda con `cc=pe`, 25-sep-2026: *Titanes de la
+  Marea* **S/.77.00 → S/.38.50, -50 %**, [ficha](https://store.steampowered.com/app/2479650/SpongeBob_SquarePants_Titans_of_the_Tide/?l=latam)).
+  En Perú también se escribe «S/» sin punto ⚠️ (de memoria, sin fuente abierta);
+  para copiar a Steam, usar «S/.».
 - «**Los gratis caducan: reclámalos**»: es un aviso con prisa. En la serie
   la prisa la pone el **Narrador Francés** con sus tarjetas de tiempo
   («Unos momentos después…», «Dos horas después…»).
@@ -151,7 +154,7 @@ subtítulos en chino e inglés, **con tiempos**, de las temporadas 1, 2, 3,
 | Archivo y minuto | Episodio | Qué pasa |
 |---|---|---|
 | 03x10 00:14:11 | *Krusty Krab Training Video* | El vídeo de formación la presenta: «Here you see our **automated money-handling system**». Y le dicen «**Don't touch**». |
-| 03x10 00:14:28 | *Krusty Krab Training Video* | Calamardo al cliente (por el contexto ⚠️): «Now are you going to buy something or just stand there 'cause **there's a standing fee**». |
+| 03x10 00:14:28 | *Krusty Krab Training Video* | **Don Cangrejo**, en su demostración (hoja C4; corregido en la segunda pasada, antes decía Calamardo): «Now are you going to buy something or just stand there 'cause **there's a standing fee**». En latino (transcripción de fans): «¿Y si no compra? También le cobraremos.» |
 | 03x10 00:15:11 | *Krusty Krab Training Video* | El empleado «no tan bueno»: Calamardo, con el botón **«I Really Wish I Weren't Here Right Now»** en el uniforme. |
 | 02x01 00:15:17 a 00:16:07 | *Squid's Day Off* | Calamardo, de «nuevo gerente», «asciende» a Bob Esponja para escaquearse: «You get to run **the cash register**… You'll be wearing two hats now». Y le enseña a usarla en una frase: «**You push the button and put the money inside**» (00:16:07). |
 | 02x04 00:01:43 | *Dying for Pie* | Calamardo: «Mr. Krabs, you pay me to **stand behind this register**». |
@@ -382,19 +385,37 @@ El generador de tarjetas de [Jordy3D](https://github.com/Jordy3D/Jordy3D.github.
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
-### 4.1 Modelos 3D en Sketchfab ⚠️ licencia
+### 4.1 Modelos 3D en Sketchfab ✅ licencia leída en la API
 
-Sketchfab no abre desde aquí; los datos salen del resultado de búsqueda.
+Segunda pasada: la licencia, el autor y las caras de cada modelo salen de la
+[API de Sketchfab](https://api.sketchfab.com/v3/models/cc79260fc5f44d73b8268f68dfb83a3f).
+Todos los de la tabla son **CC BY** salvo el de Mrlunettes (**CC BY-NC**).
+Los de «SMF Features» están **sacados del juego**: la licencia CC BY la puso
+el que los subió, pero el diseño es de Nickelodeon y THQ Nordic.
 
 | Modelo | Autor | Licencia que dice | Ojo |
 |---|---|---|---|
-| [BFBBR - Krusty Krab Cash Register](https://sketchfab.com/3d-models/bfbbr-krusty-krab-cash-register-cc79260fc5f44d73b8268f68dfb83a3f) | SMF Features Developed From Cheryl Hill (@cherylhill28) | descarga gratis | **Sacado del juego** *Rehydrated*: el copyright es de THQ Nordic. Mirar, no publicar. |
-| [SBFBBR - The Krusty Krab](https://sketchfab.com/3d-models/sbfbbr-the-krusty-krab-8c26feea1c244336aba17c138f894810) | el mismo | CC BY (según la búsqueda) | igual: sacado del juego. |
-| [TSCP - Krusty Krab Interior](https://sketchfab.com/3d-models/tscp-krusty-krab-interior-360b06ee55de4fda975b7f58f4568045) | el mismo | descarga gratis | interior entero: barco de la caja, mesas. |
-| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-45f210e1a77b481a872040b627832415) | pizzabrian | CC BY (según la búsqueda) | hecho por un fan. Comprobar licencia antes. |
-| [The Krusty Krab!](https://sketchfab.com/3d-models/the-krusty-krab-4db13d7b4ac642028f51072a2b8b1eb5) | Phillyy cheesesteakk gamingg (@milene2009) | CC BY (según la búsqueda) | fan. |
-| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-e109df8b1cb1487dbf2553e5e2d7eff1) | Mrlunettes | descarga gratis | fan, interior y exterior. |
-| [Cash Register](https://sketchfab.com/3d-models/cash-register-1e04d7a73a004e2380e2ee715ce7bd06) | BumBácBonifác (@ondraman43) | descarga gratis | **caja genérica**: la más segura como base para modelarla a mano. |
+| [BFBBR - Krusty Krab Cash Register](https://sketchfab.com/3d-models/bfbbr-krusty-krab-cash-register-cc79260fc5f44d73b8268f68dfb83a3f) | SMF Features Developed From Cheryl Hill (@cherylhill28) | CC BY (API), 676 caras | **Sacado del juego** *Rehydrated*: el copyright es de THQ Nordic. Mirar, no publicar. |
+| [SBFBBR - The Krusty Krab](https://sketchfab.com/3d-models/sbfbbr-the-krusty-krab-8c26feea1c244336aba17c138f894810) | el mismo | CC BY (API) | igual: sacado del juego. |
+| [TSCP - Krusty Krab Interior](https://sketchfab.com/3d-models/tscp-krusty-krab-interior-360b06ee55de4fda975b7f58f4568045) | el mismo | CC BY (API), 186 123 caras | interior entero: barco de la caja, mesas. |
+| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-45f210e1a77b481a872040b627832415) | pizzabrian | CC BY (API) | hecho por un fan. Comprobar licencia antes. |
+| [The Krusty Krab!](https://sketchfab.com/3d-models/the-krusty-krab-4db13d7b4ac642028f51072a2b8b1eb5) | Phillyy cheesesteakk gamingg (@milene2009) | CC BY (API) | fan. |
+| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-e109df8b1cb1487dbf2553e5e2d7eff1) | Mrlunettes | **CC BY-NC** (API) | fan, interior y exterior. |
+| [Cash Register](https://sketchfab.com/3d-models/cash-register-1e04d7a73a004e2380e2ee715ce7bd06) | BumBácBonifác (@ondraman43) | CC BY (API), 32 570 caras | **caja genérica**: la más segura como base para modelarla a mano. |
+
+**Personajes en 3D con licencia** (recolector, licencia comprobada en la API):
+
+| Modelo | Autor | Licencia | Caras | Ojo |
+|---|---|---|---|---|
+| [BOB ESPONJA RIGGED](https://sketchfab.com/3d-models/none-ba715233cda9453fb2ec47c6a641d84d) | Sapx | CC BY | 128 740 | **con *rig***: poses de prueba en Blender (hoja F20) |
+| [Plankton](https://sketchfab.com/3d-models/none-3f1a3065100c44038aa0fee5886e5818) | Vin D'Alembert | CC BY | 1 594 | muy simple (F21) |
+| [«Calamardo Fuerte Hermosura»](https://sketchfab.com/3d-models/none-79e86cbc30a94005af544fd1e8203c53) | Mike BlueG | CC BY | 10 728 | el meme «Calamardo guapo» (F22) |
+| [Calamardo en Reposo](https://sketchfab.com/3d-models/none-84f4d2a5a4af43f1810045daabffdf6b) | Mike BlueG | CC BY | 10 542 | — |
+| [Garry The Snail](https://sketchfab.com/3d-models/none-873d034079d84b70b2c22bfe1d121558) | Osvaldo Mendes | CC BY | 4 172 | — |
+| [Colorburgers - Pretty Patties](https://sketchfab.com/3d-models/none-d95d332a61114c788b03aac3047c2fdf) | David Tena C. | CC BY | 568 656 | Cangreburguers de colores para decorar |
+
+Los personajes **no se pegan en 3D** en la lámina (§14): el *rig* sirve
+para probar ángulos y luz antes de recortar el fotograma real.
 
 **Recomendación**: modelar la caja y el barquito a mano en Blender (son
 formas simples) mirando estas referencias. Si se usa un modelo CC BY, el
@@ -445,14 +466,36 @@ Según [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Krusty_Krab)
 - **El Balde de Carnada** (Chum Bucket), de Plankton y Karen: el
   restaurante que **no triunfa** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Plankton_and_Karen),
   [Plankton: The Movie](https://en.wikipedia.org/wiki/Plankton:_The_Movie)). Está
-  **enfrente** del Crustáceo ⚠️ (de memoria).
+  **justo enfrente** del Crustáceo ✅ ([Encyclopedia SpongeBobia: Chum Bucket](https://spongebob.fandom.com/wiki/Chum_Bucket)
+  y la ficha oficial de Plankton del año 2000, hoja de la wiki
+  [«Plankton early bio 2000»](https://spongebob.fandom.com/wiki/Sheldon_J._Plankton)). Es un **cubo de metal
+  gris** con asa; dentro, paredes metálicas, mesas rojas y la ventana
+  «ORDERS» (hojas C22 y C23).
   En la 1.ª temporada latina se llamó **«El Balde de Bocados»** ✅ (Doblaje Wiki).
 - **Barg'N-Mart**: la tienda barata (01x01 00:06:02, subtítulo) ✅.
 - **El cielo de Fondo de Bikini**: nubes con forma de **flor**. Hillenburg
   dijo que eran para dar **«sensación hawaiana»** ⚠️ (una fuente: [foro de SBMania](https://www.sbmania.net/forums/threads/what-up-with-the-flower-clouds.43079/)).
   El **arco de flores** ya estaba en su biblia de 1996 ✅ ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Flower_arch)).
 
-### 5.4 Luz ⚠️ (de memoria; comprobar en fotogramas)
+### 5.4 Luz (segunda pasada: medida en fotogramas) ✅
+
+Medido con `estilo.py` en cuatro fotogramas del Crustáceo (hojas C10, C11,
+C12 y C16): **saturación baja, 25-36 %**, **brillo medio-alto, 68-70 %**,
+sombreado **pintado con degradado suave** en los fondos y **línea de color
+oscuro, nunca negra pura** (`#4D6251`, `#5A6744`, `#4C584C`, `#596867`).
+Lo que se ve en las hojas:
+
+- **Crustáceo por dentro**: pared **celeste grisácea** (`#A8B4D0`, `#9DC2CC`)
+  con remaches, suelo de tablas **verde** (`#4EA533` en HD, `#58A36A` en la
+  temporada 1), puertas y marcos **azul lavanda** (`#92B1E2`). Luz de día,
+  pareja, sin sombras duras. Por los ventanales entra el **agua turquesa con
+  rayos diagonales** (C1).
+- **La caja** (C1): gris azulado (`#4E667E` en la cara del cajón, sombras
+  `#30425A`) sobre un **baúl rojo oscuro** `#841E24` con **cerradura dorada**
+  `#847812` y correas marrones, dentro del barquito blanco con **franja roja**
+  (`#7A1024`).
+
+Lo de la primera pasada sigue valiendo:
 
 - **Dentro del Crustáceo**: luz cálida de día, tonos de madera, sin
   sombras duras. Los ojos de buey dejan ver agua azul.
@@ -482,6 +525,39 @@ Según [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Krusty_Krab)
 | Madera de la fachada | `#6A4B2D` | medido §3.4 ✅ |
 | Tarjeta de tiempo roja (letra lila) | `#890008` / `#EF7EF2` | guía de cuadros de diálogo ✅ |
 
+**Segunda pasada: colores oficiales y medidos** ✅
+
+Los de «P18» son la mediana de cada muestra del **escaneo** de la hoja
+oficial (Pillow); no son la conversión exacta de Pantone. Los de «C…»,
+de fotogramas de la wiki.
+
+| Qué | Hex | De dónde |
+|---|---|---|
+| Bob, frente de la esponja (Pantone 101) | `#EAEA51` | muestra Pantone de la hoja oficial (P18) |
+| Bob, **línea de toda la esponja** (Pantone 392) | `#8C9239` | P18: **la línea de Bob es verde oliva, no negra** |
+| Bob, agujeros de delante (583) y de lado (399) | `#A5C118` `#9C9D32` | P18 |
+| Bob, lado en sombra (585) | `#D4E64C` | P18 |
+| Bob, pantalón (723) y su sombra (724) | `#BA7F48` `#A76046` | P18 |
+| Bob, corbata (1788) | `#E64550` | P18 |
+| Bob, iris (298) y raya alta del calcetín (2718) | `#36AAE7` `#2F6DCA` | P18 |
+| Bob, mejillas y pecas (173) | `#E04E41` | P18 |
+| Don Cangrejo, caparazón (HD) | `#F74B3C` | fotograma de *Hot Crossed Nuts* (C10) |
+| Don Cangrejo, caparazón (temporada 3) | `#CC2A30` | *Training Video* 055 (C1) |
+| Don Cangrejo, camisa celeste | `#9CCFE9` / `#8AB4CC` | C10 / C1 |
+| Don Cangrejo, **pantalón morado** | `#665481` / `#6C5AA2` | C10 / C1 |
+| Calamardo, camisa marrón mostaza | `#B48A22` (HD) / `#9B6B0E` (temp. 1) | C10 / C11 |
+| Calamardo, piel | `#A9C4AB` | C11 (temp. 1) |
+| Menú GALLEY GRUB, tabla y letras | `#D8C68A` `#1E0C0C` | C2 (temp. 3) |
+| Menú en HD | `#F8F0B8` | C10 |
+| Cartel ORDER HERE, fondo verde y letras | `#7FB24B` `#421F04` | C11 |
+| Cartel DAILY SPECIAL, rojo | `#D00000` | C10 |
+| Botón de Calamardo, lila y letras | `#CCA2CC` `#5A005A` | C5 |
+| Caja registradora (cara) y baúl | `#4E667E` `#841E24` | C1 |
+
+Los colores de la primera pasada que salían de juegos (`#427193` para la
+caja) se quedan como **versión de videojuego**: en la serie la caja es **más
+gris** (`#4E667E`).
+
 Las paletas de fans salen de [un hilo de Encyclopedia SpongeBobia](https://spongebob.fandom.com/f/p/4400000000000374215)
 y [Brand Palettes](https://brandpalettes.com/spongebob-squarepants-color-codes/).
 
@@ -490,8 +566,13 @@ y [Brand Palettes](https://brandpalettes.com/spongebob-squarepants-color-codes/)
 - Madera de la fachada y del barquito: [Weathered Planks](https://polyhaven.com/a/weathered_planks),
   [Wood Floor Deck](https://polyhaven.com/a/wood_floor_deck),
   [Wood Planks](https://polyhaven.com/a/wood_planks) (Poly Haven, CC0).
-- Papel del ticket: cualquier papel térmico; buscar en Poly Haven o
-  ambientCG (no lo busqué ⚠️).
+- Papel del ticket y del menú: [Paper 005](https://ambientcg.com/view?id=Paper005)
+  y [Paper 006](https://ambientcg.com/view?id=Paper006) (ambientCG, CC0) ✅.
+- Cuerdas del menú y red de la fachada: [Rope 001](https://ambientcg.com/view?id=Rope001),
+  [Net 002 A](https://ambientcg.com/view?id=Net002A) (CC0) ✅.
+- Suelo de tablas: [Wood Floor 043](https://ambientcg.com/view?id=WoodFloor043) (CC0),
+  **teñido de verde** como el del Crustáceo ✅.
+- La esponja de Bob en 3D: [Sponge 001](https://ambientcg.com/view?id=Sponge001) (CC0) ✅.
 - **Ojo**: la serie es **plana y pintada**. Si se usa textura real, que
   sea suave, como un fondo pintado a mano, no una foto.
 
@@ -565,10 +646,21 @@ lámina:
 - **«ORDER HERE»** (puesto de pedidos) y **«OPEN»** (ventana).
 - **La concha del letrero** con «THE KRUSTY KRAB».
 - **El botón de Calamardo**: «**I Really Wish I Weren't Here Right Now**»
-  (03x10 00:15:11). Un botón de uniforme con una frase: **un cuadro de
-  diálogo que existe en la serie**.
-- **La pantalla de Karen**: Karen es un ordenador; su cara es una pantalla
-  ⚠️ (de memoria: una onda verde que se mueve al hablar; comprobar).
+  (03x10 00:15:12). Un botón de uniforme con una frase: **un cuadro de
+  diálogo que existe en la serie**. Visto en grande (hoja C5): **círculo
+  lila** `#CCA2CC` con borde más oscuro y **letras morado oscuro** `#5A005A`,
+  a mano, en cuatro líneas.
+- **El cartel de oferta del día** ✅ visto (hoja C10, *Hot Crossed Nuts*):
+  rectángulo **rojo** con un **estallido amarillo** dentro y «DAILY SPECIAL /
+  BBQ NUTS» en letras marrones de palo, **pegado con cinta** bajo el menú.
+  Es lo más parecido a un anuncio de rebaja que tiene la serie.
+- **El rótulo de capítulo del vídeo de formación** (hoja C7): número grande
+  verde lima, **línea láser roja** hasta una hamburguesa y el título en
+  mayúsculas amarillas sobre azul noche. Sirve para numerar pasos.
+- **La pantalla de Karen**: Karen es un ordenador; su cara es una
+  **pantalla negra con una línea verde** que se mueve al hablar ✅ (visto en
+  la hoja C17 y en C22; la wiki la describe «blue-gray with black screen and
+  light green facial features», [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Karen_Plankton)).
 - **El ticket de la caja**: no encontré una escena con ticket impreso ⚠️.
   Es invención mía, pero pega con el objeto.
 
@@ -683,9 +775,9 @@ Las frases con minuto salen del subtítulo inglés (§2).
 - **Cómo atiende**: seco, «**What'll it be?**» (02x03 00:14:20, en *Bubble
   Buddy*). Cuando Don Cangrejo le amenaza, lo dice bien, de mala gana:
   «May I take your order?» (02x03 00:14:50).
-- **Cómo se burla del cliente**: «Now are you going to buy something or
-  just stand there 'cause **there's a standing fee**» (03x10 00:14:28;
-  por el contexto lo dice Calamardo desde la caja ⚠️, comprobar).
+- **Cómo mira al cliente**: con desgana, leyendo una revista en el
+  barquito (hoja C14, C12). La frase del «standing fee» (03x10 00:14:28)
+  **no es suya**: la dice Don Cangrejo (corregido en la segunda pasada).
 - **Cómo se queja**: «I'm getting paid overtime for this, right, Mr.
   Krabs?» (03x10 00:15:20).
 - **Voz inglesa**: Rodger Bumpass ✅.
@@ -713,6 +805,26 @@ Las frases con minuto salen del subtítulo inglés (§2).
 - **Para este canal**: es **la tienda sin clientes**, la mala oferta. El
   meme «Krusty Krab vs. Chum Bucket» lo usa así (§14).
 - **Voces inglesas**: Mr. Lawrence (Plankton), Jill Talley (Karen) ✅.
+
+### Su cara en cada emoción (segunda pasada) ✅ visto en las hojas
+
+| Emoción | Don Cangrejo | Calamardo | Bob Esponja | Patricio |
+|---|---|---|---|---|
+| Alegría | P6 (ojos cerrados, pinzas arriba), C1 | — (sólo sonríe de burla) | P11 (manos junto a la cara) | P12 |
+| Rabia | C4 (grito, pinza en la cadera) | C11 (fastidio, pulgar atrás) | P24 (llora de rabia) | — |
+| Tristeza | ⚠️ no está en las hojas | P9 (harto, más aburrido que triste) | ⚠️ | P22 (primerísimo plano), P20 (hoja de modelo con lágrimas) |
+| Miedo | P7 | ⚠️ | ⚠️ | P23 (fondo de rayos) |
+| Vergüenza | ⚠️ | ⚠️ (03x08 00:13:52, «You're a cashier», sin fotograma) | ⚠️ | ⚠️ |
+
+Las casillas con ⚠️ **no se buscaron en vídeo** en esta pasada (YouTube dio
+429 y no hubo investigador de vídeo). Los números son de las galerías de la
+wiki, no de un vídeo con minuto.
+
+**Dinámicas** (quién con quién, de lo visto): Don Cangrejo y Calamardo
+chocan en la caja (C10: Don Cangrejo en la escalera, Calamardo quejándose);
+Bob y Calamardo son la **pareja de la caja** (C6, C11); Don Cangrejo y
+Plankton, rivales de enfrente (§5.3); Patricio es el cliente imposible
+(C13).
 
 ### El Narrador Francés
 
@@ -764,17 +876,20 @@ confirma que DAT graba a Don Cangrejo desde México).
 | Personaje | Voz latina | Cuándo | Fuentes |
 |---|---|---|---|
 | Bob Esponja | **Luis Carreño** | desde la 2.ª temporada (2000) hasta hoy | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Carre%C3%B1o), [ANMTV 2025](https://www.anmtvla.com/2025/07/bob-esponja-en-busca-de-los-pantalones.html), [Xataka](https://www.xataka.com.mx/videojuegos/bob-esponja-the-cosmic-shake-se-actualiza-gratis-incluye-doblaje-latino-actores-serie-television) |
-| Bob Esponja (1.ª temporada) | Kaihiamal Martínez (habla); Luis Miguel Pérez (canto) | 1999 | ⚠️ sólo Doblaje Wiki |
+| Bob Esponja (1.ª temporada) | Kaihiamal Martínez (habla); Luis Miguel Pérez (canto) | 1999, hasta el ep. 17 | ✅ [Doblaje Wiki, ficha de la serie](https://doblaje.fandom.com/es/api.php?action=parse&format=json&page=Bob_Esponja&prop=wikitext), [ficha de Kaihiamal Martínez](https://doblaje.fandom.com/es/wiki/Kaihiamal_Mart%C3%ADnez), [Noroeste](https://www.noroeste.com.mx/entretenimiento/gente/visita-mazatlan-kai-martinez-la-voz-oficial-de-la-primera-temporada-de-bob-esponja-HF2070595) |
 | Patricio | **Alfonso Soto** | desde la 4.ª temporada | ✅ Doblaje Wiki, ANMTV 2025, [VGEzone](https://vgezone.com/cinetv/noticias/voces-bob-esponja-al-rescate-doblaje-latino/) |
 | Calamardo | **Renzo Jiménez** | desde 1999, **todas** las temporadas | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Calamardo_Tent%C3%A1culos), ANMTV 2025, VGEzone |
-| Don Cangrejo | **Luis Pérez Pons** | temporadas 1 a mitad de la 6, y 9 a 13. **Murió el 24 de octubre de 2023**, a los 72 años | ✅ [El Financiero](https://www.elfinanciero.com.mx/espectaculos/2023/10/24/muere-luis-perez-pons-actor-de-don-cangrejo-en-bob-esponja-a-los-72-anos/), [El Tiempo](https://www.eltiempo.com/cultura/cine-y-tv/murio-luis-perez-pons-la-iconica-voz-en-espanol-latino-de-don-cangrejo-en-bob-esponja-819537), Doblaje Wiki |
+| Don Cangrejo | **Luis Pérez Pons** | temporadas **1 a 5** y **9 (desde el ep. 190) a 13**. **Murió el 24 de octubre de 2023**, a los 72 años | ✅ [El Financiero](https://www.elfinanciero.com.mx/espectaculos/2023/10/24/muere-luis-perez-pons-actor-de-don-cangrejo-en-bob-esponja-a-los-72-anos/), [El Tiempo](https://www.eltiempo.com/cultura/cine-y-tv/murio-luis-perez-pons-la-iconica-voz-en-espanol-latino-de-don-cangrejo-en-bob-esponja-819537), Doblaje Wiki |
+| Don Cangrejo | **Carlos Vitale** | temporadas **6 a 9** (ep. 102-189); su último episodio se estrenó el 29-ago-2015. **Faltaba en la primera pasada** | ✅ [Doblaje Wiki, ficha de la serie](https://doblaje.fandom.com/es/api.php?action=parse&format=json&page=Bob_Esponja&prop=wikitext), [ficha de Carlos Vitale](https://doblaje.fandom.com/es/wiki/Carlos_Vitale), [Encyclopedia SpongeBobia, «International»](https://spongebob.fandom.com/wiki/Eugene_H._Krabs) |
+| Don Cangrejo | Walter Véliz | un solo *loop*: temporada 7, ep. 148 («El Ataque de los Welk») | ⚠️ sólo la ficha de la serie |
 | Don Cangrejo | **Olin Garcés** (México) | desde la 14.ª temporada (2024) | ✅ [ANMTV](https://www.anmtvla.com/2024/04/bob-esponja-olin-garces-se-convierte-en.html), [SuperGeek](https://www.supergeek.cl/noticias/cultura-pop/escuchen-a-la-nueva-voz-latina-de-don-cangrejo-en-bob-esponja/2024-04-16/211945.html), [TikTok de Luis Carreño](https://www.tiktok.com/@luiscarrenovoz/video/7358633626436750635) |
 | Plankton | **Ángel Mujica** | desde la 9.ª temporada | ✅ Doblaje Wiki, ANMTV 2025 |
-| Plankton (antes) | Óscar Zuloaga, Luis Miguel Pérez, Héctor Indriago | temporadas anteriores | ⚠️ sólo el título de un [TikTok](https://www.tiktok.com/@nickvan029/video/7381272630441053446) |
+| Plankton (antes) | **Óscar Zuloaga** (temp. 1-2, ep. 3-28), **Luis Miguel Pérez** (temp. 2-8, desde el ep. 34), **Héctor Indriago** (sólo el ep. 183) | hasta el ep. 183; Mujica desde el 184 | ✅ [Doblaje Wiki, ficha de la serie](https://doblaje.fandom.com/es/api.php?action=parse&format=json&page=Bob_Esponja&prop=wikitext) y el [TikTok](https://www.tiktok.com/@nickvan029/video/7381272630441053446) |
 | Arenita | **Lileana Chacón** | desde la 6.ª temporada | ✅ Doblaje Wiki, ANMTV 2025 |
-| Karen | Melanie Henríquez | antes; luego se mudó a España | ⚠️ sólo Doblaje Wiki. La voz actual: no la encontré |
+| Karen | Melanie Henríquez (temp. 5-9, hasta el ep. 186), María José Estévez (temp. 8, ep. 170-177), Gabriela Belén (temp. 9, ep. 198-203), Sixnalie Villalba (temp. 10-16, ep. 230-325) | antes | ✅ episodios en la ficha de la serie; ⚠️ el motivo del cambio de Henríquez |
+| Karen | **Paulina Monfort** (México) | desde el ep. 327A, temporada 16 (2025) | ✅ [Doblaje Wiki, ficha de la serie](https://doblaje.fandom.com/es/api.php?action=parse&format=json&page=Bob_Esponja&prop=wikitext), [ficha de Paulina Monfort](https://doblaje.fandom.com/es/wiki/Paulina_Monfort) |
 | **Narrador Francés** y rótulos | **Orlando Noguera** | 1.ª temporada | ✅ Doblaje Wiki, [TikTok de Luis Carreño](https://www.tiktok.com/@luiscarrenovoz/video/7473616154968296734) |
-| **Narrador Francés** y rótulos | **Juan Guzmán** | desde la 2.ª temporada | ✅ Doblaje Wiki ([Juan Guzmán](https://doblaje.fandom.com/es/wiki/Juan_Guzm%C3%A1n), [Narrador francés](https://doblaje.fandom.com/es/wiki/Narrador_franc%C3%A9s)); una sola wiki, dos fichas |
+| **Narrador Francés** y rótulos | **Juan Guzmán** | desde la 2.ª temporada | ✅ Doblaje Wiki: [Juan Guzmán](https://doblaje.fandom.com/es/wiki/Juan_Guzm%C3%A1n), [Narrador francés](https://doblaje.fandom.com/es/wiki/Narrador_franc%C3%A9s) y la ficha de la serie (tres páginas) |
 
 - En la película de 2025 **vuelven todos los actuales**: Carreño, Soto,
   Chacón, Jiménez, **Garcés** y Mujica; doblaje en México con
@@ -806,6 +921,51 @@ confirma que DAT graba a Don Cangrejo desde México).
 | «¿Hola, es el Crustáceo Cascarudo? — No, soy Patricio» | Patricio | ⚠️ los resultados dicen «soy» y «habla»; escucharlo |
 | «Qué mal que Bob Esponja no está aquí para disfrutar que Bob Esponja no está aquí» | Calamardo | ⚠️ una fuente |
 | «echar el muerto» (venezolanismo) | «Una Cangreburguer inmunda» | ✅ Doblaje Wiki y guía |
+
+### Frases latinas oídas en la segunda pasada ✅ audio
+
+Muestras oficiales de voz de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Bob_Esponja)
+(archivos `.ogg`/`.mp3` de cada ficha), transcritas con `voz.py` (Whisper
+en local). Corregí sólo errores evidentes de Whisper («Oyeron tacaños,
+paguen me» → «Oigan, tacaños, páguenme»; «Duplique» → «Dupliqué»). **No
+es oído humano**: antes de rotular una frase, escucharla ⚠️. La muestra
+no dice el episodio: el minuto es **dentro del audio**.
+
+| Quién (actor) | Frase textual | Audio y segundo | Cómo suena (voz.py) |
+|---|---|---|---|
+| Don Cangrejo (Carlos Vitale, temp. 9) | «Sabes una cosa, muchacho, toda esta experiencia me ha dejado una lección sobre la codicia… Descubrí que no me pagan intereses… ¡Oigan, tacaños, páguenme intereses!… ¡Dupliqué mi dinero!» | [muestra](https://static.wikia.nocookie.net/doblaje/images/4/4e/Don_Cangrejo_audio_-_Bob_Esponja_temp_9_%28online-audio-converter.com%29.mp3) 0:00-0:26 | registro medio (213 Hz), muy expresiva (23,9 semitonos) |
+| Don Cangrejo (Carlos Vitale) | «¡Je, je, je! **Al menos yo tengo clientes.**» | [muestra](https://static.wikia.nocookie.net/doblaje/images/5/56/Don_cangrejo_2.ogg) 0:00 | agudo (241 Hz), 24,7 semitonos |
+| Don Cangrejo (Luis Pérez Pons) | «Pensé que había sido muy claro cuando dije que nunca usen la palabra once, u otra de las trece malas palabras.» | [muestra](https://static.wikia.nocookie.net/doblaje/images/d/d9/Don_Cangrejo_Clip_Primera_Voz.ogg) 0:00 | medio (169 Hz), 18,7 semitonos |
+| Don Cangrejo (Olin Garcés, temp. 14) | «El viejo y conocido sabor de la derrota, ¿no?» (a Plankton) | [muestra](https://static.wikia.nocookie.net/doblaje/images/c/c8/Don_Cangrejo_T14.mp3) 0:06 | agudo (289 Hz), 26,1 semitonos |
+| Calamardo (Renzo Jiménez) | «Oh, eso sería lo más divertido que podría pasarme en la vida… Pero no puedo. Adiós.» (sarcasmo, *Jellyfishing*) | [muestra](https://static.wikia.nocookie.net/doblaje/images/e/e5/Calamardo_1er_tono.ogg) 0:04-0:22 | medio (187 Hz), 12,6 semitonos: **el menos expresivo** |
+| Calamardo (Renzo Jiménez) | «Tengo que admitirlo. Despertó mi curiosidad.» | [muestra](https://static.wikia.nocookie.net/doblaje/images/2/2a/Calamardo.ogg) 0:00 | lento (1,7 palabras/s) |
+| Bob Esponja (Luis Carreño) | «Chicos, este es su peor intento hasta ahora…» | [muestra](https://static.wikia.nocookie.net/doblaje/images/4/49/Sponja.ogg) 0:00 | agudo (247 Hz), **muy rápido** (4,2 palabras/s) |
+| Patricio (Alfonso Soto) | «¡No le hagas caso, Bob Esponja! ¡Tú sólo sigue tu corazón!» | [muestra](https://static.wikia.nocookie.net/doblaje/images/1/1e/Patrick_star.ogg) 0:00 | agudo (278 Hz), 21,8 semitonos |
+| Plankton (voz de la muestra) | «¿Esta es la cosa secreta? ¡No luce muy prometedora!» | [muestra](https://static.wikia.nocookie.net/doblaje/images/2/24/Plankton_1.ogg) 0:05 | medio (186 Hz), rápido |
+
+**Lo que dice cada voz**: Don Cangrejo es el más expresivo del reparto (de
+19 a 26 semitonos): sube y baja la voz como un marinero que canta.
+Calamardo es el más plano (12,6): su tono es su chiste.
+
+### El vídeo de formación, en latino ⚠️ transcripción de fans
+
+La [Bob Esponja Wiki](https://bobesponja.fandom.com/wiki/Video_de_Entrenamiento_del_Crust%C3%A1ceo_Cascarudo/transcripci%C3%B3n)
+trae la transcripción **latina** (y aparte la de España) de *Video de
+Entrenamiento del Crustáceo Cascarudo* (03x10, desde 00:14:07). No la oí:
+
+- Don Cangrejo con la caja: «**Y este, nuestro sistema automatizado del
+  dinero. ¡No se toca!**» (00:14:11).
+- Don Cangrejo, justo después: «**¿Y si no compra? También le cobraremos.**»
+  (00:14:28). **Corrección**: la frase del «standing fee» la dice **Don
+  Cangrejo** en su demostración (se ve en la hoja, C4), no Calamardo.
+- Un recorte de Don Cangrejo con el cartel «**¡El dinero siempre tiene la
+  razón!**».
+- El botón de Calamardo: «¡Cómo me gustaría estar aquí ahora!» (así lo
+  copia la wiki; seguramente falta un «no» ⚠️).
+- La sigla POOP se adaptó como **CACA**: «**Clientes Adoran Comer Aquí**».
+- La caja tiene nombre en la wiki latina: **Betsy Dinerillo** («Betsy» en
+  *Banned in Bikini Bottom*, «Dinerillo» en *SpongeBob vs. The Big One*;
+  Betsy es el nombre de la madre de Don Cangrejo) ([Bob Esponja Wiki](https://bobesponja.fandom.com/wiki/Betsy_Dinerillo)) ⚠️ una wiki.
 
 **No encontré** cómo dice Don Cangrejo en latino «free» en *Delivery of
 DOOM* ni en *Christmas Who*. Las frases de la lámina basadas en esas
@@ -879,8 +1039,10 @@ minutos útiles están en §2 (subtítulos de los episodios).
 > [!tip] Un ejemplo de oferta que es de la propia serie
 > **Titanes de la Marea** se vende en **Steam y GOG**, dos de las tres
 > tiendas del canal, y ya ha estado rebajado. Es el ejemplo perfecto
-> para la lámina: «Bob Esponja: Titanes de la Marea, **-40 %**». El precio
-> en soles hay que copiarlo de Steam Perú el día que se haga ⚠️.
+> para la lámina. **El 25-sep-2026 estaba a S/.38.50 (antes S/.77.00, -50 %)**
+> en Steam Perú ✅ (API `appdetails`, `cc=pe`). *Rehydrated*: S/.74.95 →
+> **S/.18.73 (-75 %)** ese mismo día. *El juego de Patricio Estrella*: S/.77.00,
+> sin rebaja. Los precios cambian: se copian el día de la lámina.
 
 ---
 
@@ -917,7 +1079,8 @@ minutos útiles están en §2 (subtítulos de los episodios).
   el Krusty Krab es el «Crustáceo Crujiente»). Usar **Crustáceo
   Cascarudo**, **Balde de Carnada**, **Cangreburguer**.
 - **Dibujo en 3D realista o brillante**: la serie es 2D, plana, con borde
-  negro. El 3D sólo para el objeto, y con aspecto pintado.
+  de color oscuro (no negro puro, §19). El 3D sólo para el objeto, y con
+  aspecto pintado.
 - **El Balde de Carnada lleno de clientes**: sólo si es un chiste
   (como en *Plankton: La película*).
 - **Poner «$»** en la lámina: en la serie los precios van en dólares, pero
@@ -928,11 +1091,31 @@ minutos útiles están en §2 (subtítulos de los episodios).
 
 ## 15 · Poses analizadas por personaje
 
-> [!warning] Cómo leer esta sección
-> No pude ver los episodios. Para cada minuto sé **qué dice** el
-> personaje (subtítulo) y deduzco la pose del diálogo. **La postura
-> exacta hay que comprobarla en el fotograma** antes de recortar. Las
-> portadas de §3.1 sí las vi.
+### 15.0 Poses vistas en la segunda pasada ✅ (hojas de §3.0)
+
+Vistas en fotogramas de la wiki (galerías numeradas de cada episodio) y en
+el arte oficial. El minuto sale del subtítulo del mismo momento.
+
+| Hoja | Quién | Dónde y minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|---|
+| **C1** | Don Cangrejo | *Training Video*, 03x10 00:14:11 | apoyado con las **dos pinzas en el borde del barquito**, cuerpo inclinado hacia la caja, sonrisa enorme de dientes cuadrados, ojos arriba en las antenas | **presentar la caja** (concepto A) |
+| **C3** | Don Cangrejo | 03x10 00:14:07 | de frente, espátula en alto en una pinza, la otra abierta | **explicar** con un objeto |
+| **C4** | Don Cangrejo | 03x10 00:14:28 | boca abierta gritando, pinza en la cadera, antenas rectas | **regañar** («¿y si no compra?») |
+| **P1** | Don Cangrejo | arte oficial | piernas abiertas, pinzas abiertas a los lados, sonrisa de oreja a oreja | **presentar** |
+| **P2** | Don Cangrejo | arte de la wiki | **billete de 10 millones** en alto con las dos pinzas, mirada de enamorado | **celebrar el dinero** |
+| **P5** | Don Cangrejo | *Mall Girl Pearl* 034 | plano cenital: **abre la cartera** con las dos pinzas | **pagar / reclamar** |
+| **P6** | Don Cangrejo | *Clams* 164 | ojos cerrados, boca abierta, pinzas arriba | **celebrar** |
+| **P7** | Don Cangrejo | *Scaredy Pants* 109 | se tapa la cara con una pinza, boca temblando | **miedo** |
+| **C12**, **C14** | Calamardo | *Pickles* 027; *Training Video* 120 | apoyado en la caja o **leyendo una revista** dentro del barquito; párpados a media asta | **pensar**, desgana |
+| **C11** | Calamardo y Bob | *Employee of the Month* 003 | Calamardo **señala con el pulgar hacia atrás** con cara de fastidio; Bob sonríe mirando arriba | **explicar a regañadientes** |
+| **C13** | Patricio | *Big Pink Loser* 066 | **al teléfono de la caja**, sonrisa boba | chiste del «No, soy Patricio» |
+| **C17** | Karen | *Single Cell Anniversary* 058 | pantalla en la caja del Crustáceo | Karen **cobrando** |
+| **C8** | Bob | *Training Video* 076 | de pie, sonriendo, sobre tela tiki, con **letras rojas** al lado | **presentar una lista** |
+
+> [!warning] Lo de abajo es de la primera pasada
+> Para cada minuto se sabía **qué dice** el personaje (subtítulo) y se
+> dedujo la pose del diálogo. Lo que no está en 15.0 sigue **sin mirar**
+> en el fotograma ⚠️. Las portadas de §3.1 sí se vieron.
 
 ### Don Cangrejo
 
@@ -953,7 +1136,7 @@ minutos útiles están en §2 (subtítulos de los episodios).
 
 | # | Dónde | Qué pasa | Sirve para |
 |---|---|---|---|
-| 1 | 03x10 00:14:28 | «there's a standing fee» al cliente que no compra | **regañar** con desgana |
+| 1 | hoja C14 (*Training Video* 120) | lee una revista dentro del barquito; el pedido le da igual ✅ visto | **regañar** con desgana |
 | 2 | 03x10 00:15:11 | le enfocan el botón «I Really Wish I Weren't Here Right Now» | **presentar** (el botón = cuadro de texto) |
 | 3 | 03x10 00:15:20 | «I'm getting paid overtime for this, right?» | queja |
 | 4 | 02x03 00:14:20 y 00:14:50 | «What'll it be?» y, obligado por Don Cangrejo, «May I take your order?» | **atender** de mala gana |
@@ -993,13 +1176,19 @@ minutos útiles están en §2 (subtítulos de los episodios).
 
 | Personaje | Ropa icónica | Colores | Estado |
 |---|---|---|---|
-| **Bob Esponja** | camisa blanca, **corbata roja**, pantalón **marrón cuadrado**; cinturón negro, calcetines altos con rayas, zapatos negros brillantes | `#FDEE4A` piel, `#FCFAF1` camisa, `#DE1A11` corbata, `#AC5810` pantalón | camisa, corbata y pantalón ✅ medido en la portada; el resto ⚠️ de memoria |
-| Bob en el trabajo | gorro de papel del Crustáceo ⚠️ | blanco y azul ⚠️ | de memoria |
-| **Don Cangrejo** | camisa azul claro, pantalón azul oscuro con cinturón ⚠️ | cuerpo rojo `#EA3941` ⚠️ | de memoria + paleta de fans |
-| **Calamardo** | camisa marrón ⚠️; en el trabajo, el **botón** con frase ✅ | piel verde azulado `#54DBC2` ⚠️ | botón ✅ subtítulo; resto ⚠️ |
-| **Patricio** | sólo un bañador **verde con flores moradas** ⚠️ | rosa `#FF808B` ⚠️ | de memoria |
+| **Bob Esponja** | camisa blanca (sombra celeste), **corbata roja**, pantalón **marrón cuadrado** con cinturón negro, calcetines altos con **dos rayas** (azul arriba, roja abajo), zapatos negros brillantes | piel `#EAEA51`, línea `#8C9239`, corbata `#E64550`, pantalón `#BA7F48`, sombra de camisa `#A5DAFC`, raya azul `#2F6DCA` | ✅ hoja oficial Pantone (P18); la portada de *BFBB* daba `#FDEE4A` `#DE1A11` `#AC5810` (versión de juego) |
+| Bob en el trabajo | **gorro de marinero blanco** con un **ancla azul** y **visera azul marino** | visera `#254E67` | ✅ visto (C11, C10) |
+| **Don Cangrejo** | **camisa celeste** de manga corta con cuello, **pantalón morado**, **cinturón negro** con hebilla dorada | caparazón `#F74B3C` (HD) / `#CC2A30` (temp. 3), camisa `#9CCFE9`, pantalón `#665481` | ✅ visto y medido (C1, C10). Antes decía «pantalón azul oscuro»: era morado |
+| **Calamardo** | camisa **marrón mostaza** de manga corta; en el trabajo, gorro del Crustáceo y **el botón** lila | camisa `#B48A22`, piel `#A9C4AB`, botón `#CCA2CC` | ✅ visto (C5, C11, C12) |
+| **Patricio** | sólo un bañador **verde lima con flores moradas** | rosa: sin medir en fotograma ⚠️ | bañador ✅ visto (P12, C13); hex del rosa ⚠️ paleta de fans `#FF808B` |
 | **Plankton** | nada; un ojo, antenas | verde `#68A079` ⚠️ | fans |
-| **Narrador** | traje de buzo antiguo, **gorro rojo** | — | ✅ dos fuentes |
+| **Karen** | gris azulado con pantalla negra y rasgos verde claro | — | ✅ [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Karen_Plankton) |
+| **Narrador** | **escafandra de latón antigua** y **gorro rojo** | — | ✅ visto (P16) y dos fuentes |
+| **Arenita** | traje espacial blanco, casco de cristal con **flor** | cara `#FBF17C`, pétalos `#CD72B9`, centro `#F88B42`, pelo `#BA804D` | ✅ hoja Pantone (P18) |
+
+**Ropa por época** ✅ (hojas): en *Kamp Koral* (P4) Don Cangrejo lleva
+**uniforme verde de campamento**; en la Armada (P8), **traje de marinero**.
+En la lámina se usa la ropa de la serie clásica.
 
 ---
 
@@ -1033,14 +1222,18 @@ personaje**: el personaje sale de un fotograma o una portada real.
 - Bob: **esponja cuadrada amarilla** con agujeros verde oliva, dos dientes
   grandes, ojos azules enormes con tres pestañas, camisa blanca, corbata
   roja, pantalón marrón cuadrado.
-- Don Cangrejo: **cangrejo rojo**, ojos en antenas altas, pinzas grandes,
-  camisa azul ⚠️.
+- Don Cangrejo: **cangrejo rojo**, ojos verdes pálidos en antenas altas,
+  pinzas enormes, **camisa celeste de manga corta, pantalón morado,
+  cinturón negro** ✅ (visto, §16).
+- Hoja de modelo para proporciones: P17; colores: P18 (§3.0).
 - Calamardo: **pulpo verde azulado**, nariz larga caída, párpados medio
   cerrados.
 - Plankton: **diminuto, verde, un ojo rojo**.
 
-**Estilo**: dibujo animado 2D de los 2000, **línea negra gruesa y
-limpia**, colores planos sin degradado en los personajes. **Fondos
+**Estilo**: dibujo animado 2D de los 2000, **línea gruesa y limpia de
+color oscuro, no negra** (en Bob, verde oliva `#8C9239`, «self ink» de la
+hoja oficial; medido `#4D6251`-`#5A6744` en fotogramas), colores planos
+con **una sola sombra dura** en los personajes. **Fondos
 pintados** a mano, con textura de acuarela o gouache, estampados tiki y
 hawaianos, flores en el cielo.
 
@@ -1050,7 +1243,7 @@ hawaianos, flores en el cielo.
 primer término.
 
 **Palabras que ayudan**: «2000s Nickelodeon cartoon style», «flat cel
-animation», «thick black outlines», «hand-painted tropical background»,
+animation», «thick dark olive outlines», «colored line art», «hand-painted tropical background»,
 «tiki pattern», «nautical wooden restaurant interior», «lobster trap
 building», «hawaiian flowers in the sky», «underwater light, turquoise».
 
@@ -1059,7 +1252,75 @@ building», «hawaiian flowers in the sky», «underwater light, turquoise».
 
 **Imágenes de referencia de estilo**: portada de *BFBB* (§3.1), los fondos
 de tarjeta 009, 011 y 016 (§3.5), el menú «Galley Grub» y el letrero de
-concha (§3.4).
+concha (§3.4). **Segunda pasada**: para estilo, **C1, C2, C10 y C11**
+(fotogramas reales del Crustáceo); para proporción, **P17**; para color,
+**P18**; para pose, la tabla de §15.0.
+
+**Prompt de ejemplo para un fondo** (inglés, que es lo que mejor entienden):
+«hand-painted 2D cartoon background, interior of a nautical fast-food
+restaurant, pale blue riveted walls, green wooden plank floor, small white
+rowboat used as a counter with a grey cash register on a red sea chest,
+cream wooden menu board hanging from ropes, soft even daylight, low
+saturation, thick dark olive outlines, no characters, no text». Y después se
+rotula a mano (§6).
+
+### 18.1 Vocabulario de gestos para la IA de imagen ✅ visto en las hojas
+
+| Gesto de la serie | Cómo pedirlo | Ejemplo |
+|---|---|---|
+| Ojos que suben en las antenas (Don Cangrejo) | «eyes on tall stalks, stretched upward» | C1, C4 |
+| Primerísimo plano pintado con mucho detalle | «extreme painted close-up, detailed skin texture» | P22, C5 |
+| Fondo de rayos de color detrás de un susto | «radiating burst background» | P23 |
+| Párpados a media asta (Calamardo) | «half-closed heavy eyelids, bored» | P9, C12 |
+| Letras que salen sobre tela tiki | «red hand-painted letters over blue tiki pattern» | C8 |
+| Sudor y lágrimas en chorro | «cartoon tears streaming» | P20, P24 |
+
+### 18.2 Para una IA de texto: cómo escribir en su voz
+
+**Don Cangrejo** (el del canal):
+- Habla de **marinero**: «muchacho» (latino, muestra de Vitale), «me money»,
+  «lads», «boy-o», «ahoy» en inglés (§8).
+- **Todo lo mide en dinero**. Se ríe corto: «¡Je, je, je!» (muestra de
+  Vitale, 0:00). Exclama mucho: una frase de cada dos lleva «¡!».
+- Cuando algo es **gratis y para él**, se le ilumina la cara; cuando tiene
+  que **dar** algo gratis, tartamudea («it's f-f-f…», 15x11 00:01:20).
+- Lógica tramposa para regañar: «you stole it, you stole it, or you stole it».
+
+**Frases reales por emoción** (inglés: subtítulo con minuto; latino: audio o
+transcripción de fans, §10):
+
+| Emoción | Frase real | Fuente |
+|---|---|---|
+| Alegre | «Cha-ching, cha-ching, cha-chingaree» · latino: «¡Dupliqué mi dinero!» | 04x05 00:01:24 · muestra de Vitale 0:26 |
+| Enfadado | «three possibilities: you stole it, you stole it, or you stole it» · latino: «Pensé que había sido muy claro…» | 03x07 00:13:48 · muestra de Pérez Pons 0:00 |
+| Explicando | «Here you see our automated money-handling system. Don't touch» · latino: «Y este, nuestro sistema automatizado del dinero. ¡No se toca!» | 03x10 00:14:11 · Bob Esponja Wiki ⚠️ |
+| Animando | «Any fella who's giving away free stuff is a friend o' mine» | 02x08 00:06:00 |
+| Burlón | latino: «El viejo y conocido sabor de la derrota, ¿no?» · «Al menos yo tengo clientes» | muestras de Garcés 0:06 y Vitale 0:00 |
+| Triste | ⚠️ no hay frase triste suya con fuente en las partes | — |
+
+**Calamardo**: frases cortas, **sarcasmo** que parece amable y cierra con un
+no («Oh, eso sería lo más divertido que podría pasarme en la vida… Pero no
+puedo. Adiós.», muestra 0:04-0:22). Queja de trabajador: «I'm getting paid
+overtime for this, right, Mr. Krabs?» (03x10 00:15:20). Nunca exclama de
+alegría.
+
+**Bob Esponja**: entusiasmo repetido («I'm ready!» tres veces, 01x01
+00:03:12), habla **muy rápido** (4,2 palabras/s en su muestra).
+
+**Patricio**: frases simples y seguras de sí aunque no tengan sentido
+(«Is mayonnaise an instrument?», 02x15 00:15:10; latino: «¡Tú sólo sigue tu
+corazón!»).
+
+**El Narrador**: tarjetas de tiempo cortas y en mayúsculas desiguales («UNOS
+MOMENTOS DESPUÉS…»), y voz de documental admirado.
+
+**Onomatopeyas**: «cha-ching» (la caja), el «¡Je, je, je!» de Don Cangrejo.
+Lo demás (el ruido de sus pasos, la risa de Patricio) no está escrito en las
+partes ⚠️.
+
+**Qué NO escribir**: Don Cangrejo generoso sin motivo; Calamardo contento;
+nombres de España («Crustáceo Crujiente» ⚠️); emojis o jerga de internet en
+boca de los personajes.
 
 ---
 
@@ -1230,8 +1491,8 @@ reconoce, pero lleva más dibujo.
 
 ## 28 · Lo que no pude verificar
 
-- **Cómo escribe Steam Perú el precio** (¿«S/ 12.90» o «S/.12.90»?) y el
-  precio de hoy de *Titanes de la Marea*: Steam no abre desde aquí ⚠️.
+- ~~Cómo escribe Steam Perú el precio~~ **Resuelto en la segunda pasada**:
+  «S/.38.50» (§0, §13).
 - **GOG en soles**: no encontré si GOG cobra en soles en Perú. **Epic**:
   un resultado dice que sí, sin fuente clara ⚠️.
 - **La frase latina exacta** de Don Cangrejo en «Choque Cultural», *Delivery

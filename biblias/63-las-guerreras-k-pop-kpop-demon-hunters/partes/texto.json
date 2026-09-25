@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/kpop-demon-hunters/images/2/25/Huntrix_Logo.jpg",
+    "fuente": "KPop Demon Hunters Wiki (Fandom)",
+    "ancho": 1194,
+    "alto": 1194,
+    "que_es": "Logo oficial del grupo HUNTR/X: cuadrifolio holográfico con monograma H y wordmark HUNTR/X",
+    "para_que": "Emblema para lámina/objeto 3D; hex medidos con estilo.py (negro #000000, iridiscencia #677D9A/#4F466A/#9A4893)",
+    "licencia": "arte de producción, uso editorial/referencia (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kpop-demon-hunters/images/e/ed/Saja_Boys_Logo.jpg",
+    "fuente": "KPop Demon Hunters Wiki (Fandom)",
+    "ancho": 1000,
+    "alto": 443,
+    "que_es": "Logo oficial del grupo Saja Boys: wordmark cursivo SAJA BOYS + emblema de cabeza de león/tigre",
+    "para_que": "Emblema rival para lámina; hex medidos con estilo.py (magenta #FC02A5/#FD02BA sobre negro)",
+    "licencia": "arte de producción, uso editorial/referencia (wiki de fans)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/ad/KPop_Demon_Hunters_Logo.png",
+    "fuente": "KPop Demon Hunters Wiki (Fandom), diseño de Picturemill",
+    "ancho": 1000,
+    "alto": 266,
+    "que_es": "Logo oficial de la película (K-POP DEMON HUNTERS), diseñado por el estudio de títulos Picturemill",
+    "para_que": "Referencia de logo/título para lámina; base para elegir la letra libre 'Hunters K-Pop' (comprobada con fontTools)",
+    "licencia": "arte de producción/marketing oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://www.fontspace.com/hunters-k-pop-font-f150441",
+    "fuente": "FontSpace / Chequered Ink (diseñadora Allison J. James)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre 'Hunters K-Pop', inspirada en el logo oficial de la película",
+    "para_que": "Tipografía de título/logo/grafismo de concierto; comprobada con fontTools: trae tildes, ñ, ¿ y ¡",
+    "licencia": "gratis para uso personal; licencia comercial de pago en chequered.ink/font-license/"
+  },
+  {
+    "url": "https://picturemill.com/portfolio/kpop-demon-hunters/",
+    "fuente": "Picturemill (estudio oficial de títulos de la película)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de portfolio con el making-of de los títulos de inicio y los créditos finales de la película",
+    "para_que": "Fuente primaria para el Punto 18 (técnica de animación de logo/créditos) y el Punto 5 (autoría del logo)",
+    "licencia": "página informativa del estudio, no es un archivo descargable"
+  }
+]

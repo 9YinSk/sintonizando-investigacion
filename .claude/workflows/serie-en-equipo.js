@@ -18,6 +18,7 @@ const INV = { type: 'object', properties: { sigue_pendiente: { type: 'boolean' }
 const RED = { type: 'object', properties: { resumen: { type: 'string' }, avisos: { type: 'string' } }, required: ['resumen'] }
 const CIERRE = { type: 'object', properties: { completa: { type: 'boolean' }, falta: { type: 'string' }, subido: { type: 'boolean' } }, required: ['completa', 'falta', 'subido'] }
 const OK = { type: 'object', properties: { ok: { type: 'boolean' }, aviso: { type: 'string' } }, required: ['ok'] }
+const FLOJAS = { type: 'object', properties: { flojas: { type: 'array', items: { type: 'object', properties: { rol: { type: 'string' }, por_que: { type: 'string' } }, required: ['rol'] } } }, required: ['flojas'] }
 
 async function seguro(fn) { try { return await fn() } catch (e) { log(`error de agente: ${String(e).slice(0, 200)}`); return null } }
 const hermana = it => it.hermana ? ` Serie hermana (misma obra, otro encargo): ${it.hermana}.` : ''
@@ -50,6 +51,16 @@ const etapaInv = async (s, it) => {
     log(`${it.id}: relanzo ${pend.join(', ')}`)
     const r2 = await parallel(pend.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo relanzo.${hermana(it)}`, { label: `inv2:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
     if (pend.some((_, i) => !r2[i])) return { ...s, estado: 'cortada', donde: 'relanzo' }
+  }
+  // medir las partes antes de pagar el redactor: lo flojo se relanza una vez más (modo seguir)
+  if (it.modo !== 'repaso-corto') {
+    const rp = await seguro(() => agent(`Serie ${it.id}. Roles: ${roles.join(', ')}.`, { label: `revisor-partes:${it.id}`, phase: 'Investigar', schema: FLOJAS, agentType: 'revisor-partes', effort: EF.aux }))
+    const flojas = rp ? rp.flojas.filter(f => roles.includes(f.rol) && !pend.includes(f.rol)) : []
+    if (flojas.length) {
+      log(`${it.id}: partes flojas: ${flojas.map(f => `${f.rol} (${f.por_que || ''})`).join(', ')}; un relanzo`)
+      const r3 = await parallel(flojas.map(f => () => seguro(() => agent(`Serie ${it.id}, modo seguir. Tu parte está floja según revisar_partes.py: ${f.por_que || 'corta'}. Completa lo obligatorio que falte de tus puntos, hasta 50 acciones.${hermana(it)}`, { label: `inv3:${it.id}:${f.rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${f.rol}`, effort: EF.inv }))))
+      if (flojas.some((_, i) => !r3[i])) return { ...s, estado: 'cortada', donde: 'relanzo de partes flojas' }
+    }
   }
   return { ...s, estado: 'sigue' }
 }
