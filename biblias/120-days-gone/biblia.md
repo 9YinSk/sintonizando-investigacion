@@ -652,3 +652,62 @@ No hay tramas de manga (videojuego). Las capas 2D de esta obra son **parches bor
 - **Hellblade** (118): tono sombrío, un personaje solo.
 - **God of War** (117) propone para #hardware «El mostrador de Brok» en la fragua; **Shield Hero** (82), «El mostrador de Erhard»; **Dr. Stone** (20) también #hardware. Ninguno usa una moto ni un taller mecánico: el concepto A de Days Gone no repite su idea.
 - Ninguna otra biblia del repositorio combina **moteros y bosque del noroeste** ✅ (carpeta `biblias/` revisada).
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ ([Freakers](https://daysgone.fandom.com/wiki/Freakers) y [ficha del juego](https://daysgone.fandom.com/wiki/Days_Gone)):
+1. La empresa **Cloverdale** creó en secreto un arma biológica disfrazada de biobotánica. Un empleado, David Gorman, robó una muestra para denunciarla, se contagió sin saberlo y el virus dio la vuelta al mundo en dos semanas.
+2. Murieron **2500 millones** de personas. La costa este de EE. UU. cayó en dos días; el oeste, menos poblado, aguantó más. Quedan campamentos pequeños.
+3. El virus también infecta **animales** (lobos, osos, cuervos). Los Freakers son feroces, caníbales, con llagas y casi sin pelo; se guían por feromonas y en grupo actúan como una sola mente.
+4. **El clima manda**: la lluvia les apaga los sentidos; la nieve los hace más fuertes pero ven peor. De día duermen en cuevas; de noche salen.
+5. Dos años después, en **Farewell, Oregón**, Deacon busca a Sarah. Tercera persona, mundo abierto con sitios reales de Oregón.
+
+**La historia por arcos** ✅ (wiki: [Drifter Bike](https://daysgone.fandom.com/wiki/Drifter_Bike), [Trust Level](https://daysgone.fandom.com/wiki/Trust_Level), [Rippers](https://daysgone.fandom.com/wiki/Rippers), [NERO](https://daysgone.fandom.com/wiki/National_Emergency_Response_Organization), [Milicia](https://daysgone.fandom.com/wiki/Deschutes_County_Militia)):
+1. **Llegada y Boozer herido**: buscan a Leon; la moto se rompe; los Rippers emboscan a Boozer; Deacon recupera la Drifter, que se había quedado el campamento de Copeland, y empieza a trabajar para los campamentos.
+2. **Campamentos y hordas**: Deacon hace de cazarrecompensas para Copeland, Tucker (Hot Springs) e Iron Mike (Lost Lake); sube la confianza; mejora la moto.
+3. **Rippers y NERO**: el culto R.I.P. de Carlos (antes Jessie Williamson, expulsado de los Mongrels por matar a un miembro) adora a los Freakers. Deacon rastrea puestos de NERO buscando a Sarah.
+4. **Sarah y la Milicia**: Sarah vive, en un campamento de NERO. Batalla final contra la **Milicia del Condado Deschutes** (coronel Matthew Garret, con una «t»; capitán Skizzo), que mueren los dos. Si dos campamentos llegaron a confianza 3, se unen a la batalla.
+5. **2025**: remaster para PS5 y DLC *Carretera Rota* con modos nuevos.
+
+**Emblemas y grupos**:
+- **Mongrels MC**: perro con sangre en la boca que **muerde su propia cadena**; negro, blanco y rojo; lema **«Ride the Broken Road»** ✅.
+- **NERO** (Organización Nacional de Respuesta a Emergencias): **trajes HAZMAT amarillos**, blindados MRAP con ametralladora, controles con vallas y carteles de cuarentena; logo propio ✅.
+- **Rippers** (culto R.I.P., *Rest In Peace*): **sin logo**; su marca son las **cicatrices rituales**, ropa rasgada, arneses de la Segunda Guerra Mundial, empalizadas de madera y hogueras ✅.
+- **Milicia de Deschutes**: brazaletes rojos, chalecos, camuflaje; base en Wizard Island y Diamond Lake ✅.
+
+**Objetos icónicos**: la **Drifter** (moto, inventario móvil; el **depósito** es el regalo de Sarah) · el **chaleco con los colores** · los **anillos** · las **orejas de Freaker** (moneda de recompensas) · la **rueda de supervivencia** · la **ballesta** · el bate con clavos · las **grabaciones de campo** de NERO ✅.
+
+**Vocabulario que un fan reconoce al instante** ✅:
+- **Freakers** («Freaks»), y sus tipos: **Swarmer** (el básico, en manada), **Horde** (cientos juntos), **Newt** (crío, ataca si estás débil), **Screamer** (grita y llama a la horda), **Breaker** (aguanta mucho), **Reacher** (listo, con pelo), **Bleacher** (albino), **Runner** (lobo, más rápido que la moto), **Rager Bear** (oso), **Crier** (cuervo). La wiki les da nombres pseudolatinos, como *Homo sapiens mūtans*.
+- **«Deek»**, **los colores**, **nómada**, **1%**, **NERO**, **R.I.P.**, **confianza**, **créditos**, **«785 DAYS GONE»**, **«Horde Killer»**, **«SURROUNDED»**, **«Ride the Broken Road»**.
+
+## Hojas de contacto
+
+Tres JPEG en `hojas/`, todos por debajo de 0,5 MB. Mirados por el redactor.
+
+**`personajes_01.jpg`** (2400×284, imágenes de la wiki de Deacon):
+- n.º 1 · hoja de modelo del artbook, de frente y de espaldas (3300×3000): **ropa y parches**.
+- n.º 2 · Deacon contra un Freaker, a cuchillo, en un cobertizo (1920×1080): acción cuerpo a cuerpo.
+- n.º 3 · Deacon y Sarah antes del brote, ella abrazada a su espalda en la moto (1200×630): **la única imagen feliz**; ternura.
+- n.º 4 · cuatro versiones de concepto de Deacon, de pie (859×602): evolución del vestuario.
+
+**`simbolos_02.jpg`** (1140×760):
+- n.º 0 · Deacon ante una horda de noche, en una ladera: **escala de la horda**.
+- n.º 1 · pintura del artbook, horda en un valle nevado (3300×3000): paleta pictórica, casi sepia.
+- n.º 2 · logo de los Mongrels («MONGREL», perro encadenado, «MC», «FAREWELL ORIGINAL»): **el emblema**.
+- n.º 3 · réplica real de la Drifter (1024×767): **volumen, óxido, rueda de tacos** para modelarla.
+- n.º 4 · Sarah junto a su moto, con camisa de cuadros; Deacon de espaldas delante: pose de conversación.
+
+**`capturas_03.jpg`** (1920×1080, las 14 capturas oficiales de Steam, numeradas 0-13):
+- 0 · asalto nocturno a un campamento en llamas · 1 · huida de la horda bajo una torre de alta tensión · 2 · **Deacon en la Drifter en una pradera, monte nevado** (fondo postal) · 3 · **molotov con el chaleco y «NOMAD»** · 4 · pelea en un campamento con tendederos, a contraluz · 5 · Deacon de espaldas en una pradera con bosque y monte · 6 · moto de noche en carretera, cuerpo en el suelo · 7 · salto en moto, filtro en blanco y negro del modo foto · 8 · combate junto a una torre de agua · 9 · campamento ardiendo visto desde arriba, monte nevado · 10 · derrape en moto en un bosque de noche · 11 · francotirador contra una horda junto a una torre de vigilancia · 12 · **granja de madera entre niebla al amanecer** (fondo tranquilo) · 13 · Deacon dispara desde la moto con un Freaker corriendo al lado.
+
+## Correcciones del redactor
+
+Lo que las partes decían y no cuadra con lo mirado o con otra parte:
+1. **El tráiler argumental transcrito es el doblaje de España, no el latino.** La parte de voz proponía citar «Nunca hemos hablado de ello…» como doblaje latino. Pistas: «Para vosotros, jugadores», y las líneas de Copeland e Iron Mike están traducidas distinto que en las muestras latinas (§8).
+2. **Captura de Steam n.º 2** (`ss_364f…`): la parte de imagen dice «Deacon y Boozer en la Drifter». Se ve **sólo a Deacon** (mirado en la hoja y en una copia de 600 px).
+3. **Captura n.º 13**: no es una «imagen partida» con Boozer. Es Deacon disparando desde la moto con un Freaker al lado.
+4. **Pies de foto de la parte de texto**: `ss_a947…` no es una persecución en moto, es la **pelea a pie a contraluz entre tendederos**; y `ss_364f…` no es un contraluz, es la moto en la pradera a pleno sol. Corregido en §18 y en `referencias.json`.
+5. **El anillo** más buscado por los fans es el de **Deacon** (hilo «Deacons iconic ring»), no el de Sarah.
+6. **El chaleco**: la wiki dice cuero negro; medido y visto es azul petróleo apagado. Queda como ⚠️ por mirar de cerca (§15).
+7. **El culto**: la wiki del juego dice **Rippers**; Doblaje Wiki escribe «Reapers». Por oír en el juego (§8).
