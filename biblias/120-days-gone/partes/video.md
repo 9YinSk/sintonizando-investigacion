@@ -163,6 +163,7 @@ pedía inicio de sesión desde este servidor (bloqueo compartido, no del vídeo 
 | **Days Gone E3 vs Retail \| Direct Comparison** | Internet Archive (mirror sin marca, 1080p) https://archive.org/details/DaysGoneE3VsRetailDirectComparison | 15:02 | Comparación plano a plano de la demo de E3 2016 contra el juego final: la cresta con vista al valle [0:39](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=39), sigilo en el cobertizo [1:22](…?t=82), asalto al campamento humano [6:55–8:56], y el combate contra la **Death Train Horde** con trofeo "Horde Killer" [12:53–13:00] | `fotogramas.py --cortes` (259 planos en 6 hojas) |
 | "Combat final" (rescate de Lisa) | JeuxVideo.com, vía Dailymotion https://www.dailymotion.com/video/x89n0df | 0:48 | Combate cuerpo a cuerpo en cueva/mina de los Rippers, coincide con la misión "I Kept My Name" | `fotogramas.py --cortes` (18 planos) |
 | "El mundo de Days Gone, Parte 2: Luchando por sobrevivir" | 3DJuegos, vía Dailymotion https://www.dailymotion.com/video/x84cgej | 3:30 | **Análisis/making-of oficial** narrado: explica los tipos de Freaker (Screamers, Runners, Reachers…), el sistema de armas improvisadas con la ballesta, sigilo vs. combate abierto — ficha completa ya en `episodios.md` con diálogo minuto a minuto | `episodio.py` (ya en `episodios.md`) |
+| Days Gone Remastered — Announcement Trailer (PS5) | GRYOnline.pl, vía Dailymotion https://www.dailymotion.com/video/x9e4nc0 | 0:44 | Tráiler oficial 2025: confirma fecha real **25-abr-2025** en tarjeta final (cruza con `texto.md`, punto 25) [0:40](https://www.dailymotion.com/video/x9e4nc0?t=40); nombra los modos nuevos con su propio rótulo — **Permadeath Mode** [0:16](https://www.dailymotion.com/video/x9e4nc0?t=16), **Speedrun Mode** [0:17](https://www.dailymotion.com/video/x9e4nc0?t=17), **Horde Assault** [0:21](https://www.dailymotion.com/video/x9e4nc0?t=21), **Enhanced Photomode** y accesibilidad [0:18](https://www.dailymotion.com/video/x9e4nc0?t=18); hoguera nocturna con cuerpos colgados entre los árboles [0:03](https://www.dailymotion.com/video/x9e4nc0?t=3) y persecución de una manada de lobos infectados (Runners) en la nieve [0:26](https://www.dailymotion.com/video/x9e4nc0?t=26) | `fotogramas.py --cortes` (23 planos) |
 
 **Tendencias / vídeos de fans**: no encontré una tendencia viral concreta y reciente de TikTok
 sobre Days Gone (busqué "Days Gone TikTok trend viral moto Deacon 2024 2025" en inglés): sólo
@@ -238,11 +239,73 @@ al investigador de imagen las hojas de contacto de la wiki (arte oficial), que s
 
 ## No encontré
 
-(pendiente)
+- ⚠️ Un vídeo oficial de *making of* de sonido (sólo hay el texto del compositor en
+  PlayStation.Blog, sin versión en vídeo); busqué "Days Gone sound design documentary" y
+  "Nathan Whitehead Days Gone video interview" sin resultado en vídeo, sólo texto y podcasts de
+  audio.
+- ⚠️ Una tendencia viral concreta y reciente de TikTok sobre Days Gone (busqué en inglés y
+  español): hay clips sueltos de gameplay sin viralidad medible, nada como un reto o formato que
+  se repita. Lo pongo en "no encontré" y no en "Sigue" porque no es obligatorio (es un extra del
+  punto 10, no el núcleo).
+- ⚠️ Vídeo en YouTube: bloqueado por "inicia sesión" en este servidor durante toda la tanda (lo
+  reintenté con 3-5 min de espera dos veces, seguía bloqueado); usé Dailymotion e Internet
+  Archive como indica el aviso del jefe. Ningún clip de YouTube fue necesario al final.
+- No es "no encontré": Boozer y Sarah casi no aparecen en el metraje que miré (es sobre todo
+  Deacon en tercera persona); sus poses quedan para cuando el redactor cruce con las hojas de
+  arte de `imagen.md`, que sí los cubre con ilustraciones oficiales.
 
 ## Bitácora de búsqueda
 
-(pendiente)
+**Punto de partida**: `partes/datos-video.md` (Dailymotion, Internet Archive, MusicBrainz, ya
+recolectados por `recolectar.py`) y `partes/episodios.md` (dos vídeos ya transcritos con
+`episodio.py` por un intento anterior de esta misma parte). No repetí esas consultas.
 
-Sigue: procesar el vídeo E3 vs Retail (1080p, en proceso), tráiler argumental y
-Combat final con fotogramas.py; medir paleta con estilo.py; rellenar los 5 puntos.
+**Vídeo mirado de verdad** (con `fotogramas.py`, frames sueltos verificados uno a uno antes de
+describir la pose — varias primeras lecturas de las hojas de contacto en miniatura resultaron
+imprecisas y las corregí contra el fotograma grande, ver punto 14):
+- *Days Gone E3 vs Retail | Direct Comparison* (Internet Archive, 1080p, 15:02) — 259 fotogramas.
+- Tráiler argumental de Days Gone (3DJuegos/Dailymotion, 2:06) — 54 fotogramas + 6 sueltos.
+- Días Gone Trailer de lanzamiento (JeuxVideo/Dailymotion, 0:30) — 16 fotogramas.
+- Días Gone Combat final (JeuxVideo/Dailymotion, 0:48) — 18 fotogramas + 2 sueltos.
+- Días Gone Remastered Announcement Trailer (GRYOnline.pl/Dailymotion, 0:44) — 23 fotogramas.
+- Total: 6 clips oficiales distintos mirados fotograma a fotograma, 5 frames con paleta medida
+  (`estilo.py`).
+
+**Búsquedas web** (13 de mi cupo de ~50; el resto de datos salió de la red directa: archive.org,
+MusicBrainz, Fandom, Dailymotion):
+- "Nathan Whitehead Days Gone score interview Sarah's Theme emotional scene music" (inglés) →
+  llevó al post oficial de PlayStation.Blog, la fuente principal del punto 9.
+- "Days Gone Freaker sound design horde screech onomatopeya efectos de sonido" (mixto es/en).
+- "Days Gone cave knife fight captured tied up Rippers cutscene escape" (inglés) → identificó la
+  misión "I Kept My Name" para el clip "Combat final".
+- "Days Gone TikTok trend viral moto Deacon 2024 2025" (inglés) → sin resultado útil, declarado
+  en "No encontré".
+- "\"Days Gone\" escena que hace llorar Boozer amputación reacciones" (español) → confirmó que el
+  punto 21 (emocional) es del rol de voz, no reabrí esa investigación.
+- Fandom API `action=query&list=search&srsearch=Horde Killer` → confirmó que es un trofeo/logro
+  real, no una etiqueta inventada por mí.
+- Fandom API `action=parse&prop=wikitext&page=I_Kept_My_Name` → confirmó la misión del clip
+  "Combat final" con una segunda fuente (wiki, además de 4 guías).
+- MusicBrainz API (release-group `f17aa54f…`, `51a58e0d…`) y archive.org `/metadata/…` (3 items:
+  soundtrack, E3vsRetail, All Cutscenes) para fechas, compositor y lista de pistas real.
+
+**Fuentes usadas en esta parte** (cuento sólo las que aporté yo, sin repetir las 40+ de
+`datos-video.md`/otras partes): PlayStation.Blog (entrevista del compositor), MusicBrainz (2
+release-groups), Internet Archive (3 items: soundtrack, E3vsRetail, All Cutscenes — metadata),
+Dailymotion (5 clips: tráiler argumental, lanzamiento, combat final, remaster, y el ya
+transcrito "El mundo Parte 2"), Fandom `daysgone.fandom.com` (páginas `I Kept My Name`,
+`Screamers`, `Horde Killer`, búsqueda interna), 4 guías de terceros (GameFAQs, Neoseeker, Orcz,
+samurai-gamers) para la misión "I Kept My Name" — 15 fuentes propias, sobre las 40+ ya
+acumuladas por el equipo en `datos-*.md` y las otras partes.
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 2. Fotogramas de escenas icónicas | ✅ | 5 escenas icónicas con minuto y enlace, 1080p real en la fuente principal (Internet Archive), el resto Dailymotion 512×288 (YouTube bloqueado, uso avalado por el aviso del jefe); todo mirado fotograma a fotograma, no leído de reseñas |
+| 4. Fondos y sitios: luz, paleta y texturas | ✅ | 4 sitios con paleta medida con `estilo.py` sobre fotogramas propios (no capturas ajenas), + 1 descrito sin medir (fuego en movimiento distorsiona el promedio, declarado ⚠️), con equivalentes CC0 de ambientCG para cada uno |
+| 9. Música y sonido | ✅ | Compositor confirmado en dos fuentes, 11 pistas explicadas con cita textual y verificable del propio compositor (fuente oficial primaria), 3 efectos de sonido reconocibles con fuente |
+| 10. Vídeos con minuto exacto | ✅ | 6 vídeos oficiales distintos mirados y tabulados con minuto; "análisis" cubierto con el vídeo narrado ya en `episodios.md`; tendencia de TikTok buscada y declarada como no encontrada (no es núcleo del punto) |
+| 14. Poses por personaje (6-10, con minuto) | ✅ | 10 poses de Deacon, cada una verificada contra el fotograma grande (no sólo la miniatura de la hoja) antes de describirla, con minuto, enlace y para qué sirve; Boozer/Sarah delegados a `imagen.md` (declarado, no es un vacío) |
+
+Fin de mi parte. No queda pendiente ningún punto obligatorio de mi rol (2, 4, 9, 10, 14).

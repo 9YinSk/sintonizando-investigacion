@@ -730,3 +730,49 @@ Tres JPEG en `hojas/`, todos de menos de 1 MB, mirados uno a uno por el redactor
 - Luz de antorcha: #14, #18. Día: #6, #11, #17. Mar: #1, #9. Emoción: #7 (Hugo llora), #12 (Amicia lo carga).
 - #10 es la portada con el **logo** (rata en la G) y las notas de prensa.
 
+## 3 conceptos de lámina
+
+Canales propuestos (A Plague Tale no tenía canal): **#textos**, **#fotos** y **#dudas**. Textos reales de `servidor/inventario.md`. Si otra serie pide el mismo canal, no bloquea nada (§24).
+Para las tres: mundo sombrío (regla 6 del dueño), **una sola luz cálida** y el resto oscuro, cuadros **sin burbuja** (§6), letras **Cinzel** y **Belleza** (con ¿ ¡ ñ y tildes comprobadas).
+
+### A · #textos — «El círculo de luz» (recomendada)
+- **Objeto real en un sitio real**: un **fajo de hojas de guion** sobre una **caja de madera volcada**, junto a una **antorcha clavada en el suelo**, en la **Cripta de los Tres Santos** (`arte_01` #18; `#030202`). Las hojas siguen el formato de los *Souvenirs*: NOMBRE en versalitas y la frase debajo. En Blender: hojas con curva y bordes gastados (`Paper006`), caja con `Planks009`, antorcha con luz de punto naranja, ratas como instancias que **se paran en el borde del círculo**.
+- **Personajes**: **Amicia y Hugo**, porque el canal pide «Para dos voces». Amicia de rodillas sostiene la antorcha sobre las hojas (pose 8, `arte_01` #13, y pose 5, compilado 1:49:55). Hugo, sentado en la caja, señala su línea con el dedo (pose 2 de Hugo, Story Trailer de *Innocence* 0:27).
+- **Cómo hablan**: subtítulo de la serie, **entre dos líneas finas**, nombre en Cinzel y frase en Belleza, crema sobre oscuro.
+  - HUGO: «¿La leemos juntos? Tú haces de mí.»
+  - AMICIA: «Quédate en la luz. Y lee despacio.»
+- **Dónde va cada texto**:
+  - En la hoja de arriba, título: «Textos».
+  - En la misma hoja: «Guiones para practicar: monólogos, diálogos, escenas y narraciones.»
+  - En la segunda hoja, asomando: «Un hilo por guion.» y «Di si se puede usar libre o hay que pedir permiso.»
+  - Etiquetas (Monólogo, Diálogo, Escena de anime, Comercial, Narración, Original, Libre para usar, Pide crédito, Para dos voces): en **lámina 2**, como fichas del Códex sujetas con cuerda (`Rope001`).
+- **Que no quede plano**: la llama de la antorcha delante y desenfocada; ojos de ratas brillando en el borde (`#5C2B23` al fuego); arcos de la cripta perdiéndose en la niebla; cálido `#F6C381` en las caras y negro alrededor.
+- **Guiño para el servidor**: Amicia y Hugo **nunca tuvieron voz latina**. El primer guion puede ser suyo.
+
+### B · #fotos — «El herbario de Hugo»
+- **Objeto real en un sitio real**: el **herbario de Hugo** abierto, con flores prensadas y fichas escritas, sobre el **suelo de mosaico romano con musgo** del jardín (compilado 1:49:55; `#937F6A` `#AC9A7E` `#C9B6A1`). En Blender: cuaderno con curva de página, flores recortadas en plano, papel `Paper006`. ⚠️ Textura libre de mosaico sin comprobar en las partes.
+- **Personajes**: **Hugo** enseña una flor (pose 9, `personajes_01` #43, y pose 2, señalar). **Amicia** agachada a su lado, escuchando (pose 5 de Amicia, 1:49:55).
+- **Cómo habla**: ficha del Códex en la página, título en Cinzel y texto de enciclopedia en Belleza. Hugo, con subtítulo entre dos líneas:
+  - HUGO: «Mira, Amicia. Esta la encontré yo.»
+- **Dónde va cada texto**:
+  - Página izquierda, como ficha de flor: «Fotos».
+  - Debajo, en tono de herbario: «Fotos que hagáis vosotros: lo que veis, dónde grabáis, cómo os montáis el rincón.»
+  - Página derecha: «Un hilo por foto o por serie.» Hugo junta una flor por capítulo; cada uno, una foto por hilo.
+  - Etiquetas (Paisaje, Retrato, Naturaleza, Ciudad, Nocturna, Analógica, Con el móvil, Con cámara, Editada, Sin editar, Detrás de cámara): como **nombres bajo cada flor prensada**; si no caben las 11, **lámina 2** con la página siguiente.
+- **Que no quede plano**: rayos de sol entre hojas; hojas y flores desenfocadas en primer plano; la trenza y el hombro de Amicia cortando el borde; el mosaico en perspectiva. Colores apagados, sin verdes chillones.
+
+### C · #dudas — «La rueda de Béatrice»
+- **Objeto real en un sitio real**: una **rueda de madera con 8 frascos** tapados con corcho sobre una mesa de alquimista. Copia la **rueda de creación de *Innocence*, que tiene 8 casillas** ([4:08](https://www.dailymotion.com/video/x76ok0c?t=248)), y #dudas tiene **8 etiquetas**. Sitio: la sala de las vidrieras donde están juntos Amicia, Hugo, Béatrice y Lucas (`fondos_01` #68) ⚠️ (el taller de Béatrice no está en las partes). En Blender: disco de madera con agujeros, vidrio con refracción, etiquetas de papel, una vela.
+- **Personajes**: **Béatrice**, la madre alquimista, sentada y serena, con la mano en un frasco (explicar). **Hugo** de pie, apoyado en la mesa, preguntando: siempre quiere saber el porqué (pose 4 de Hugo, escuchar).
+- **Cómo hablan**: subtítulo entre dos líneas finas.
+  - HUGO: «¿Y si mi pregunta es tonta?»
+  - BÉATRICE: «Los monstruos son las cosas a las que nunca les hemos dado un nombre.» (frase real del juego; traducción nuestra).
+- **Dónde va cada texto**:
+  - En el cuaderno abierto: «Dudas» y «Pregunta sin miedo, por tonta que te parezca.»
+  - En la hoja de al lado: «Un hilo por duda.»
+  - En el centro de la rueda, como el nombre del objeto en el juego: «Etiqueta la disciplina.»
+  - Una etiqueta en cada frasco: Doblaje, Canto, Locución, Edición, Del programa, Del micro. El frasco **«Resuelta» sellado con lacre** y el de **«Sigue abierta» destapado**, con una nota: «Marca Resuelta cuando lo esté.»
+- **Que no quede plano**: la vela delante y desenfocada; luz fría de la vidriera detrás y cálida de la vela en las caras; la mano de Hugo entrando en primer plano; polvo en el haz de luz.
+
+**Choques de canal** (sólo nota): #textos también lo piden Death Note (18), Shrek (59) y Hellblade (118); #dudas, Encanto (58), Mushoku Tensei (81) y Scooby-Doo; #fotos, no vi otra propuesta en DECISIONES.md.
+
