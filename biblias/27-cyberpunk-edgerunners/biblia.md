@@ -483,8 +483,30 @@ Fuentes GitHub: [AlexandreDresch/EdgeRunners](https://github.com/AlexandreDresch
 
 ### 3.7 Lo que falta ⚠️
 - No vi el **artbook** por dentro.
-- **Fotogramas 1080p con minuto**: los minutos están en §2; hay que
-  capturarlos en Netflix.
+- **Fotogramas 1080p con minuto**: los minutos están en §2. En la 2.ª
+  pasada se miraron en **360p** (Internet Archive, §2.6); la captura en
+  1080p sigue pendiente en Netflix ⚠️.
+
+### 3.8 Segunda pasada · arte oficial confirmado
+
+- **El manga *Cyberpunk: Edgerunners MADNESS*** (hojas W103, W106, W108,
+  W124-W126) es oficial ✅: sale en *Comic Alive+* de KADOKAWA desde el
+  13-dic-2024, dibujo de **Asano** (de *BNA*) y guion de **Bartosz
+  Sztybor** (CD PROJEKT RED); Dark Horse lo publica en inglés (tomo 1,
+  feb-2026) ([Kadokawa Global](https://group.kadokawa.co.jp/global/information/promotional_topics/2024121301_en.html),
+  [Anime News Network](https://www.animenewsnetwork.com/news/2024-12-13/cyberpunk-edgerunners-madness-manga-launches-dark-horse-to-release-in-print-in-english/.218983),
+  [Dark Horse](https://www.darkhorse.com/books/3015-353/cyberpunk-edgerunners-madness-volume-1-tpb/)).
+  Medidas por la API: W124 914×634, W125 702×816, W126 932×611.
+- **Los dos Kaneko** ✅: Yuto Kaneko (diseño de Rebecca y Dorio) y
+  Yoshiyuki Kaneko (arte del opening y carteles amarillos) son personas
+  distintas ([Sakugabooru](https://www.sakugabooru.com/post/show/204453),
+  [TheGamer](https://www.thegamer.com/cyberpunk-edgerunners-rebecca-age-character-design/)).
+- **La litografía de aniversario** de Trigger, revisitada en la
+  [tienda oficial](https://gear.cdprojektred.com/products/cyberpunk-edgerunners-anniversary-lithograph-by-studio-trigger):
+  foto medida 600×900 ✅.
+- El diseñador **Yoh Yoshinari** cuidó que Lucy **no se pareciera a Motoko
+  Kusanagi** (*Ghost in the Shell*) ✅ ([wiki: Lucy](https://cyberpunk.fandom.com/wiki/Lucyna_Kushinada),
+  cita el vídeo «Quick Draw» de Netflix Anime).
 
 ---
 
@@ -608,7 +630,7 @@ Trigger pintó los fondos **sobre fotos tomadas dentro del juego**
 | **Clínica de Doc** (ripperdoc) | Le pone el Sandevistan (ep. 2, 00:11) | En **Arroyo, Santo Domingo**, el mismo barrio que el H4 de David ([wiki: Doc](https://cyberpunk.fandom.com/wiki/Doc_(Edgerunners))) | ✅ |
 | **Arasaka Academy / Arasaka Tower** (City Center) | Escuela de David; la torre del final (ep. 10, 14:30: «estoy en lo alto de la Torre Arasaka») | La torre existe | ✅ subtítulo |
 | **Memorial Park** (Corpo Plaza) | Donde mueren David y Rebecca (ep. 10) | En los arbustos del anillo suroeste está **Guts** | ✅ (wiki Rebecca, Den of Geek) |
-| **Tienda 2nd Amendment**, Megaedificio H10 | Práctica de tiro de David con Rebecca (ep. 4 ⚠️) | Existe | ⚠️ una fuente |
+| **Tienda 2nd Amendment**, Megaedificio H10, Little China | Práctica de tiro de David con Rebecca (ep. 4 ⚠️, sólo por el nombre del archivo W65) | Ubicación confirmada en la [wiki](https://cyberpunk.fandom.com/wiki/2nd_Amendment) | ✅ el sitio · ⚠️ el episodio |
 | **Las Badlands** (desierto) | El convoy del ep. 9 | Existe | ✅ subtítulo |
 
 ### 5.2 La luz (medida en las hojas)
@@ -659,6 +681,25 @@ Colores de cada personaje: ver §16.
 - **Pantalla CRT** de la recreativa: textura de líneas de barrido y leve
   curvatura. Night City mezcla lo muy nuevo con lo viejo.
 
+### 5.5 Segunda pasada · paleta medida en fotogramas propios
+
+Medida con Pillow sobre los fotogramas de la 2.ª pasada (episodios de
+[Internet Archive](https://archive.org/details/cyberpunk_edgerunners_04_360),
+recorte de 80×40 px, color más repetido). ✅ medido.
+
+| Escena | Luz | Fondo | Acento |
+|---|---|---|---|
+| ep. 1, 0:32 · pelea, visor del ciberpsicópata | Sirenas sobre lluvia | `#3C6C9C` · `#3C6090` (azul) | `#906C84` (malva de la sirena) |
+| ep. 1, 0:44 · calle bajo la lluvia | Noche muy oscura, un solo acento | `#000C24` · `#000018` (negro azulado) | `#243C54` (cian apagado) |
+| ep. 4, 21:20-21:58 · promesa de la luna | Visión nocturna, sin negro puro | `#002400` (verde oscurísimo) | `#78B46C` (verde claro) |
+| ep. 6, 22:32 · visor de Maine roto | HUD verde fracturado | `#001800` (verde casi negro) | `#0C5400` (verde HUD) |
+
+**Qué se saca**: confirma la regla de §5.2 (negro casi puro y un solo
+acento de neón). Y enseña un recurso nuevo: el **filtro verde entero**
+(luna, visor de Maine, braindance del ep. 3). Para #a-que-juegas, si se
+quiere verde, mejor el verde HUD `#0C5400` del visor (más «de juego») que
+el de la luna (demasiado triste).
+
 ---
 
 ## 6 · Tipografía
@@ -695,6 +736,22 @@ Glitch, Bungee y DotGothic16 **traen todas á é í ó ú ñ Ñ ¿ ¡ ü**.
 - **Carteles y pegatinas** del sitio: Chakra Petch / Oxanium.
 - Nada de letras de cómic redondas (Comic Neue, Bangers): **no es un
   anime de globos**.
+
+### 6.3 Segunda pasada · tipografía
+
+- **M PLUS Rounded 1c** ✅ trae á é í ó ú ñ Ñ ¿ ¡ ü (fontTools sobre el
+  archivo de [google/fonts](https://raw.githubusercontent.com/google/fonts/main/ofl/mplusrounded1c/MPLUSRounded1c-Regular.ttf)).
+- **Créditos del opening**, vistos en el ep. 3 (0:00-1:36): sans **bold
+  condensada e inclinada**, negro sobre crema o blanco sobre magenta
+  («Screen story by BARTOSZ SZTYBOR», «Directed by HIROYUKI IMAISHI»).
+  Para imitarla: Bebas Neue o Anton en cursiva falsa de 8-10°.
+- **Créditos del ending** (ep. 4, 22:40): condensada blanca sobre negro.
+- **Logo «CYBERPUNK»**: sigue sin letra libre equivalente (buscado en
+  dafont y Fontsource, variantes «glitch» y «cyberpunk»). Usar el logo como
+  imagen ⚠️ (no lo encontré; no digo que no exista).
+- **Amarillo exacto del logo** (`#F8EE08` o `#FCEE09`): no se pudo medir en
+  esta pasada (AnimeThemes caído con error 522 y la API de imágenes de
+  Wikipedia limitó las peticiones) ⚠️.
 
 ---
 
@@ -797,6 +854,24 @@ de estas maneras:
 - Signos «·» o «—» de relleno (regla del dueño).
 - Poner el logo de *Cyberpunk* rehecho con una letra parecida: queda
   falso. O el logo original, o nada.
+
+### 7.7 Segunda pasada · el cuadro, confirmado
+
+- **Subtítulo del juego sin caja** ✅: en una captura real de *Cyberpunk
+  2077* (NPC en el Afterlife) el texto va centrado abajo, **sin caja**,
+  cian claro con contorno oscuro
+  ([Interface In Game](https://interfaceingame.com/wp-content/uploads/cyberpunk-2077/cyberpunk-2077-dialogue.png),
+  1920×1080). Es subtítulo de cinemática, por eso no lleva el nombre en
+  coral de §7.2. Confirma la regla: **nada de burbuja**.
+- **Opciones de diálogo**: se navegan arriba y abajo y se resaltan en
+  amarillo o azul según el tipo ✅ ([Game8](https://game8.co/games/Cyberpunk-2077/archives/Dialogue-Options)).
+  La captura limpia de la lista vertical sigue sin conseguirse ⚠️ (Game UI
+  Database tras Cloudflare, sin copia en Wayback).
+- **Manga *MADNESS***: además del globo, lleva **onomatopeyas dibujadas a
+  mano** en katakana y letras latinas rotas («ミシッ», «CHK» repetido)
+  pegadas al borde de la viñeta (visto en W124, `hojas/hoja_03.jpg`).
+- **La jerga**: los subtítulos dicen *choom*, *gonk*, *preem*, *eddies*,
+  *delta*. En la lámina dan el tono sin traducir mal (glosario en «Punto 25»).
 
 ---
 
@@ -948,6 +1023,42 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 - **Adam Smasher**: el villano, un cíborg total («All the same meat to
   me», ep. 10, 20:59). **No usarlo en una lámina amable.**
 
+### Segunda pasada · lo nuevo de cada uno (wiki con cita al *Mission Kit*)
+
+La wiki `cyberpunk` cita el **manual oficial *Cyberpunk: Edgerunners
+Mission Kit*** (juego de rol) con su página. Por eso estos datos pasan a ✅.
+
+- **David** ✅: nació **en la parte de atrás de una ambulancia**; Gloria
+  acababa de suturar a un mercenario, y ese mismo merc cortó el cordón con
+  las cuchillas mantis que ella le había arreglado (*Mission Kit*, pág. 6 y
+  35; [wiki](https://cyberpunk.fandom.com/wiki/David_Martinez)). Apodos:
+  «Dee» (Gloria), «Davey» (Doc).
+- **Lucy** ✅: nació en **Varsovia**; sus padres, **Takeshi Kushinada** y
+  **«Shimmer»**. Rafał Jaki le puso **el nombre de su propia madre**;
+  «Lucyna» viene de *Lūcīna*, «la que trae a la luz», diosa romana de los
+  partos ([wiki](https://cyberpunk.fandom.com/wiki/Lucyna_Kushinada), cita
+  un post del creador). Encaja con su final: «da a luz» su libertad en la
+  luna. Apodo: «Luce».
+- **Rebecca** ✅: tras perder el piso por deudas de juego del padre («Papa
+  Sunrise»), vivieron en su coche averiado; la ayudó **Wakako Okada**. Es
+  **más tierna de lo que parece**: perdía encargos por pararse a abrazar
+  un cachorro o por defender a una camarera, y una vez perdonó a un
+  objetivo «porque tenía los ojos tristes, pobre gonk» (*Mission Kit*,
+  pág. 40; [wiki](https://cyberpunk.fandom.com/wiki/Rebecca)).
+- **Maine** ✅: nació en **Portland (estado de Maine)**: de ahí su nombre.
+  Boxeador, luego portero de discoteca (lo echan por pegar a cinco tipos
+  que eran de las NUSA SpecOps), y esas fuerzas lo reclutan al día
+  siguiente; sirvió en Sudamérica con **Solomon Reed** (el de *Phantom
+  Liberty*) y desertó. Fue reuniendo su «familia»: salvó a Dorio cuando a
+  ella le fallaba un encargo; luego Falco, Pilar, Rebecca, Sasha y Kiwi
+  ([wiki](https://cyberpunk.fandom.com/wiki/Maine_(Edgerunners))).
+- **Kiwi** ✅ pero **no para láminas**: su pasado (vendida de niña, joytoy
+  a la fuerza, un cliente le arrancó la mandíbula; de ahí la máscara) es
+  canon y muy oscuro ([wiki](https://cyberpunk.fandom.com/wiki/Kiwi)). Su
+  «Never trust a soul in Night City» (ep. 9, 04:51) nace de ahí.
+- **Falco** ✅: «a notable Southern drawl», acento sureño marcado
+  ([wiki](https://cyberpunk.fandom.com/wiki/Falco)).
+
 ---
 
 ## 9 · ¿Quién es el más querido?
@@ -989,6 +1100,21 @@ la wiki sola va con ⚠️ si no lo confirma la serie.
 «quién se apunta»: es la que invita, anima y dispara. Lucy funciona
 para un tono más tranquilo (compartir capturas, «mira esto»). David,
 para «me apunto».
+
+**Segunda pasada · dos datos que lo matizan**
+
+- **Rebecca no estaba en el guion original** de CD PROJEKT RED: la
+  **añadió Trigger** y convenció con su diseño; el guionista **Rafał Jaki**
+  dijo en X que es **su favorita** ✅ ([wiki: Rebecca](https://cyberpunk.fandom.com/wiki/Rebecca)).
+- **El director Hiroyuki Imaishi dijo en un AMA de Reddit que su favorita
+  es Kiwi** ✅ ([r/Edgerunners AMA](https://www.reddit.com/r/Edgerunners/comments/z9hre7/comment/iyh0ftw/),
+  citado en la [wiki: Kiwi](https://cyberpunk.fandom.com/wiki/Kiwi)).
+- Cariño medible: el vídeo «Cyberpunk Edgerunners but just Rebecca» de
+  Kakuchopurei pasó **1,2 millones de vistas en 6 días** ✅
+  ([KnowYourMeme](https://knowyourmeme.com/memes/rebecca-edgerunners-character)).
+
+**Veredicto, igual que antes**: para el público, **Rebecca**. Kiwi queda
+como dato curioso («la favorita del director»).
 
 ---
 
@@ -1074,6 +1200,33 @@ Moreno y José Ángel Torres ([vídeo](https://www.youtube.com/watch?v=c8YBuJhIV
 rara): «¿Qué te parecería si jugamos juntos?» (eco de Lucy) o «Oye,
 ¿te apuntas?» (tono Rebecca). Ver §19.
 
+### 10.5 Segunda pasada · doblaje
+
+- **Reparto principal** revisado otra vez contra
+  [ANMTV](https://www.anmtvla.com/2022/09/cyberpunk-edgerunners-ya-esta.html):
+  coincide letra por letra con Doblaje Wiki (Grande Estudios, Jessica
+  Ángeles, Amalia Bobadilla y los 7 principales) ✅✅.
+- **Secundarios**: la segunda fuente sale de **aniSearch** (fichas por
+  personaje con bandera «es»): [Dorio](https://www.anisearch.com/character/111005,dorio),
+  [Pilar](https://www.anisearch.com/character/111006,pilar),
+  [Falco](https://www.anisearch.com/character/111038,falco),
+  [Tanaka](https://www.anisearch.com/character/111033,tanaka),
+  [Katsuo Tanaka](https://www.anisearch.com/character/111034,katsuo-tanaka),
+  [Jimmy Kurosaki](https://www.anisearch.com/character/111041,jimmy-kurosaki),
+  [Julio](https://www.anisearch.com/character/111043,julio) y
+  [Adam Smasher](https://www.anisearch.com/character/111048,adam-smasher);
+  la Profesora IA (Cony Madera), en la filmografía de la actriz en
+  [Anime-Planet](https://www.anime-planet.com/people/cony-madera). ✅✅
+- **Aviso de método**: el buscador con resumen de IA dijo que **Behind The
+  Voice Actors** confirmaba a Armando Guerrero y a Christian Strempler.
+  **Era falso**: BTVA sólo lista inglés y japonés para esta serie. Se
+  descartó y se comprobó todo en la página real.
+- Sin cambios en «Cómo suena en latino» ni en los datos de interés
+  («Deivid», groserías, el error de «construcción»): coinciden con el
+  wikitexto de Doblaje Wiki.
+- **Tráiler de Dailymotion**: sus subtítulos son de **España**, no del
+  doblaje latino (§2.6). No citarlo como latino.
+
 ---
 
 ## 11 · Música
@@ -1105,6 +1258,21 @@ Run to the Edge · Let You Down.
 
 Para la lámina: el **ambiente** es el de «Let You Down» y «I Really Want
 to Stay…», **noche, neón y melancolía**, no el de un arcade alegre.
+
+**Segunda pasada · música vista en el vídeo**
+
+- **Opening «This Fffire»**: completo en el ep. 3, 0:00-1:36 (título en
+  pantalla a 1:04). En los **primeros 4:20 del ep. 1 no suena**: el ep. 1
+  arranca directo con la pelea bajo la lluvia ✅ (visto).
+- **Ending «Let You Down»**: ep. 4 desde 22:40; mismo montaje al final del
+  ep. 6 ✅ (visto).
+- **«I Really Want to Stay at Your House»**: la secuencia de la luna del
+  ep. 2 va de **19:30 a 21:30** ✅ (visto). Ojo: **no es el opening**, es
+  la canción de la escena (una parte de voz la llamó «opening» por error).
+- Análisis con minuto: [The Canipa Effect](https://www.youtube.com/watch?v=3PTX0lO7tpU&t=808s)
+  dedica **13:28-15:08** a esta canción.
+- Los `.webm` de [AnimeThemes](https://animethemes.moe/) siguen caídos
+  (error 522, dos intentos) ⚠️.
 
 ---
 
@@ -1144,6 +1312,24 @@ to Stay at Your House»** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/I_Reall
 circulan con subtítulos («#subtitulosenespañol», [ejemplo](https://www.tiktok.com/@donllama/video/7210438811875167494)).
 Retos de doblaje de fans a la voz oficial de David
 ([SDV Servicios de Voz](https://www.tiktok.com/@sdv_serviciosdevoz/video/7152659901645360390?lang=es)).
+
+**Segunda pasada · capítulos de los análisis** (yt-dlp, sin descargar) ✅
+
+| Vídeo | Minutos útiles |
+|---|---|
+| [Gigguk](https://www.youtube.com/watch?v=EWB7ylAVObY&t=177s) (11:29) | Intro 0:00 · patrocinio 2:01 · **el análisis, 2:57-11:29** |
+| [The Canipa Effect](https://www.youtube.com/watch?v=3PTX0lO7tpU&t=808s) (15:08) | Por tema musical; **«I Really Want to Stay at Your House», 13:28-15:08** |
+| [Swamp Jawn](https://www.youtube.com/watch?v=Xv9MdoAt3gQ&t=142s) (9:33) | Anticipación 0:47 · **espaciado de fotogramas 2:22** · primer plano 3:42 · impacto 5:31 · secuela 8:15 |
+| [MankoMan](https://www.youtube.com/watch?v=j2nHAPtCjBk&t=585s) (23:27) | Por qué funciona 2:11 · dirección de arte 5:37 · diseños 7:46 · **«estilo Kanada» 9:45** · desglose 11:10-21:58 |
+
+Episodios completos mirados (360p): [ep. 1](https://archive.org/details/cyberpunk_edgerunners_01_360),
+[ep. 2](https://archive.org/details/cyberpunk_edgerunners_02_360),
+[ep. 3](https://archive.org/details/cyberpunk_edgerunners_03_360),
+[ep. 4](https://archive.org/details/cyberpunk_edgerunners_04_360),
+[ep. 6](https://archive.org/details/cyberpunk_edgerunners_06_360),
+[ep. 7](https://archive.org/details/cyberpunk_edgerunners_07_360),
+[ep. 9](https://archive.org/details/cyberpunk_edgerunners_09_360).
+Tráiler oficial VOSE: [Dailymotion](https://www.dailymotion.com/video/x8ct6i8) (2:59).
 
 ---
 
@@ -1219,6 +1405,17 @@ septiembre de 2022) y **1 millón de jugadores al día** ✅
   pero **la lámina debe ser de la primera temporada** (los personajes
   conocidos). No mezclar equipos.
 
+### 13.5 Segunda pasada · juegos
+
+- **The Cutting Room Floor** tiene página de *Cyberpunk 2077*
+  ([tcrf.net](https://tcrf.net/Cyberpunk_2077)): un modo en tercera persona
+  descartado, el cambio de nombre del mapa (`01_nightcity` →
+  `03_night_city`) y cambios regionales por censura. Nada de recreativas ni
+  de Edgerunners. ⚠️ Visto sólo por el extracto del buscador: la página da
+  403 (Cloudflare) y no hay copia en Wayback.
+- **Cruces con otros juegos** (Overwatch, Apex Legends, Fortnite): ver
+  «Punto 23».
+
 ---
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
@@ -1263,6 +1460,27 @@ septiembre de 2022) y **1 millón de jugadores al día** ✅
   emergencias con sombra **naranja** `#C26D03` y forro cian.
 - **Lucy con el pelo blanco liso**: lleva el **degradado pastel** en las
   puntas (§16).
+
+### 14.3 Segunda pasada · más cosas que NO hacer
+
+- **Rebecca, nunca infantilizada ni sexualizada**. Ahora con el origen de
+  la polémica: tras el ep. 3 (13-sep-2022) el fandom discutió si su diseño
+  era un cliché «loli»; el 16-sep el dibujante **@FracturedInn** publicó un
+  cómic de 4 viñetas que llegó a **9.000 «me gusta» en 3 días** ✅
+  ([KnowYourMeme](https://knowyourmeme.com/memes/rebecca-edgerunners-character)).
+  Dibujarla adulta (unos 20 años), con volumen real.
+- **No quitarle ni inventarle tatuajes a Rebecca**: lleva **«PKDICK»**
+  (por Philip K. Dick) y una **calavera de cabra** (guiño a *Shadowrun*) ✅
+  ([wiki: Rebecca](https://cyberpunk.fandom.com/wiki/Rebecca), Trivia).
+- **No hacer chiste del pasado de Kiwi** (joytoy, la mandíbula). Si sale,
+  con la máscara puesta y sin explicarlo.
+- **No enseñar la violencia de frente**: en la muerte de Maine (ep. 6,
+  22:10-22:48) Trigger no muestra el disparo ni el cuerpo; usa el visor
+  que se rompe y un fogonazo. Si una lámina toca algo duro, elipsis.
+- **No usar el filtro verde entero de la luna** (ep. 4, 21:20-21:58) en un
+  canal alegre: es la escena más triste.
+- **No pintar telas con estampado** (cuadros, camuflaje, pata de gallo): la
+  ropa de la serie es de color plano con ribetes (ver «Punto 19»).
 
 ---
 
@@ -1322,6 +1540,8 @@ episodio y minuto. Lo que describo de W y G **lo he visto** en las hojas
 | G13 (render) | Busto de tres cuartos | — | Sonrisa torcida | Presentar |
 | W46 | Caminando | Brazo sobre Dorio | Carcajada | «El equipo» |
 | W75 (vídeo ending) | Sentado en el reservado del bar | Bebida | Relajado | Después de la partida |
+| ep. 3, 18:00 ([IA](https://archive.org/details/cyberpunk_edgerunners_03_360)) | De espaldas en la barra del Afterlife, capucha roja con banda reflectante subida | Sobre la barra | Justo cuando dice «Everybody gets a fair shake. Only way I operate.» (18:02) ✅ | **Marcar las reglas, repartir** |
+| ep. 6, 22:22-22:24 ([IA](https://archive.org/details/cyberpunk_edgerunners_06_360)) | De espaldas, caminando por las Badlands junto a Dorio; hombros anchos, paso firme | Sueltas | No se le ve la cara; la capucha lo delata ✅ | **Liderar, ir al frente** |
 
 ### Kiwi
 
@@ -1331,6 +1551,8 @@ episodio y minuto. Lo que describo de W y G **lo he visto** en las hojas
 | W25 | De pie en un pasillo oscuro | Una mano a la altura de la cadera | Mira de reojo | Presentar |
 | W18 (cuenta atrás «3») | Caminando con **una hiena con correa** | Sujeta la correa | De perfil | Humor raro |
 | W33 | Hoja de diseño de la máscara | — | — | Detalle |
+| ep. 7, 11:40 ([IA](https://archive.org/details/cyberpunk_edgerunners_07_360)) | De perfil en el Afterlife junto a Faraday, media máscara puesta | — | Seria; poco después de la llamada «KIWI» (11:25) ⚠️ reconocida por diseño, no por el audio | **Vigilar, presentar con cautela** |
+| ep. 9, 5:39 ([IA](https://archive.org/details/cyberpunk_edgerunners_09_360)) | Sentada en un sofá, a punto de dormirse; David de pie la mira (5:42) | Caídas | Cara triste, agotada tras la muerte de Maine ✅ | **Bajón del grupo, vulnerabilidad** |
 
 **Resumen por intención** (para elegir rápido):
 
@@ -1350,7 +1572,9 @@ episodio y minuto. Lo que describo de W y G **lo he visto** en las hojas
 ### David
 - **La icónica**: la **chaqueta amarilla de técnica de emergencias** de
   su madre (cuello alto, forro **cian luminoso** `#39CAF8`, **emblema
-  verde de Edgerunners pintado en la espalda**). Amarillo en luz `#FDCB1D`
+  verde pintado en la espalda**: el logo de la XBD «Edgerunners» de Jimmy
+  Kurosaki, un programa de braindance dentro de la ficción, no el logo de la
+  serie; ver «Segunda pasada» abajo). Amarillo en luz `#FDCB1D`
   / `#DCC007`, sombra **naranja** `#C26D03` ✅ (G01, G25, G26; wiki).
 - Debajo: camiseta negra, **dos cadenas de oro** (la de abajo con una
   cruz), pantalón de chándal gris corto con **dos tiras amarillas**,
@@ -1409,6 +1633,25 @@ episodio y minuto. Lo que describo de W y G **lo he visto** en las hojas
 La **chaqueta amarilla de David**, el **pelo arcoíris pastel de Lucy** y
 las **coletas menta con la sudadera gigante de Rebecca**. Si sólo se ve
 una silueta, que sea una de estas tres.
+
+### Segunda pasada · el emblema y la chaqueta real
+
+- **El emblema verde** de la espalda ✅: no es el logo de la serie, sino el
+  de la **XBD «Edgerunners» de Jimmy Kurosaki** (32 episodios de
+  braindance dentro de la ficción; sale en el ep. 5). Lucy se lo proyectó
+  en la chaqueta, a David le gustó y lo pintó a mano
+  ([wiki: David's Jacket](https://cyberpunk.fandom.com/wiki/David%27s_Jacket),
+  [wiki: Jimmy Kurosaki](https://cyberpunk.fandom.com/wiki/Jimmy_Kurosaki)).
+  Un guiño dentro del guiño: si la lámina lo usa, que sea sabiéndolo.
+- **La chaqueta existe de verdad** ✅: réplica oficial de **Insert Coin**,
+  100 % algodón, forro reflectante, 167,49 $
+  ([Crunchyroll News](https://www.crunchyroll.com/news/latest/2025/4/25/cyberpunk-edgerunners-anime-insert-coin-david-jacket),
+  [Insert Coin](https://www.insertcoinclothing.com/outerwear/david.html)).
+  Sirve para ver costuras, cuello alto y forro de una prenda real.
+- **Lucy con la chaqueta que «flota»**: el cosplay de **Yaya Han** la
+  sostiene con **espuma EVA de 2 mm forrada** para que no caiga
+  ([Yaya Han](https://www.yayahan.com/post/cosplaying-lucy-from-cyberpunk-edgerunners)).
+  Ver «Punto 23».
 
 ---
 
@@ -1504,6 +1747,486 @@ reales en la pantalla, `sexy` / `pin-up` (sobre todo con Rebecca).
 - **Luz de grupo de noche**: W46 / G25-G26.
 - **Composición «pasar el rato»**: W116, W75.
 - **Paleta promocional**: W2 (lima), G06 (magenta), G10 (lima).
+
+### 18.6 Segunda pasada · más pistas para la IA de imagen
+
+- **La chaqueta de Lucy flota, no cae**: tiene cuerpo (en el cosplay de
+  Yaya Han, espuma EVA de 2 mm forrada). Pedir `stiff cropped jacket
+  standing away from the body`; evitar `flowing`, `draped`.
+- **Aberración cromática y grano**, suaves: `subtle chromatic aberration
+  on edges, light film grain`. Sólo en logo, pantallas y glitches, no en
+  toda la imagen.
+- **La velocidad se dibuja**: la Sandevistan son **copias de color del
+  personaje**, fotograma a fotograma, no un desenfoque. Pedir `colored
+  afterimages trailing, smear frames, Kanada-style effects animation`;
+  evitar `motion blur`.
+- **Un solo acento por plano** (medido en §5.5): `near-black blue night
+  #000C24, single cyan accent`. Si hay verde, el del HUD `#0C5400`, no el
+  de visión nocturna.
+- **Ropa de color plano**, sin estampado: evitar `plaid`, `camo`,
+  `pattern fabric`.
+- **Carteles del fondo**: los logos de Arasaka, Militech, Kiroshi y Trauma
+  Team (ver «Punto 19»), recreados, nunca pegados.
+- **Referencia de pose relajada**: la figura de Lucy de Prime 1 Studio
+  apoyada de espaldas en la barra del Afterlife
+  ([Sideshow](https://www.sideshow.com/collectibles/cyberpunk-2077-lucy-prime-1-studio-914452)).
+
+### 18.7 Guía para una IA de texto (escribir en su voz)
+
+**Reglas de voz**
+
+- **Frases cortas, de calle.** Nada de explicaciones largas: dicen una
+  cosa y la rematan con jerga.
+- **Jerga** (sin traducir): *choom*, *gonk*, *preem*, *nova*, *eddies*,
+  *chrome*, *gig*, *delta*, *flatline* (glosario en «Punto 25»).
+- **En latino**: «neurodanza» por *braindance*, «mocoso», «pana», «plata»
+  para el dinero, groserías sin miedo pero sin relleno (§10).
+- **Puntuación**: exclamaciones dobles en Rebecca (¡…!), puntos secos en
+  Lucy y Kiwi, interrogaciones retadoras en David.
+- **Onomatopeyas**: «BLAM» de las trazadoras (ep. 1, 0:48), «CHK» del
+  manga, «ミシッ» (crujido); en español, «¡pum!», «¡clac!».
+- **Emociones exageradas**: Rebecca se pasa de alegría y de rabia (「ブッころ！」
+  «¡te mato!», ep. 9, 05:51); Lucy casi no sube la voz; David grita
+  cuando se juega todo («Well so the fuck am I!», ep. 10, 17:10).
+
+**Frases reales, por emoción** (subtítulo de Netflix o doblaje latino)
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| Alegre | «¡Preeem!» | Pilar, ep. 4, 05:35 |
+| Alegre | «¿Por qué tan serio, David? Deja de coquetear y mejor vamos a bailar» | Rebecca, latino, [clip](https://www.youtube.com/watch?v=2I4ONpf9W3k) 10:35 |
+| Alegre | 「イーハー！」 («¡yija!») | Rebecca, ep. 7, 03:45 |
+| Enfadado | «Well so the fuck am I!» | David, ep. 10, 17:10 |
+| Enfadado | 「ブッころ！」 («¡te mato!») | Rebecca, ep. 9, 05:51 |
+| Explicando | «Edgerunners? It's another word for cyberpunk.» | Lucy, ep. 2, 17:01 |
+| Explicando | «Riesgo enorme, pero la plata es jugosa. Si no quieren arriesgarse, será mejor que se vayan» | David, latino, [clip](https://www.youtube.com/watch?v=2I4ONpf9W3k) 8:51 |
+| Explicando | «Everybody gets a fair shake. Only way I operate.» | Maine, ep. 3, 18:02 |
+| Animando | «I believe in you, Lucy.» | David, ep. 6, 07:12 |
+| Animando | «No te preocupes, yo te cuido» | Rebecca, latino, [clip](https://www.youtube.com/watch?v=2I4ONpf9W3k) 11:40 |
+| Animando | «Fast is what you do, remember? Keep running.» | Maine, ep. 6, 22:32 |
+| Triste | «Sorry. Wish we could go to the moon together.» | David, ep. 10, 22:25 |
+| Triste | «You're remembered by how you die.» | Lucy, ep. 4, 21:29 |
+| Frío | «Never trust a soul in Night City.» | Kiwi, ep. 9, 04:51 |
+
+**Vocabulario de expresiones para la IA de imagen** (esta serie no usa
+gotas de sudor ni *chibi*; su «idioma» de gestos es otro):
+
+- **Ojos**: pupilas que **tartamudean y se duplican** en la cyberpsicosis
+  (`glitching doubled eyes`); ojos muy abiertos de shock (David, ep. 6,
+  22:26).
+- **Fondos de emoción**: **filtro de un color entero** (verde de visión
+  nocturna en la tristeza, ep. 4, 21:20; verde militar en la tensión,
+  ep. 3, 4:55); fogonazo blanco en el golpe final (ep. 6, 22:44).
+- **Glitch** y aberración cian/magenta cuando algo se rompe.
+- **Sonrisa de lado con dientes** (Maine, Rebecca) para la chulería.
+- **Nada de chibi, gotas ni venitas**: se sale del tono (§14).
+
+---
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+*(Sección nueva de la segunda pasada. Los puntos 18 a 25 del encargo van
+aquí seguidos, antes de los conceptos.)*
+
+### 18.a Cómo lo hizo Trigger (según entrevistas)
+
+- **2D nítido de trazo grueso con memoria de anime de los 70-90** ✅
+  ([Animation World Network](https://www.awn.com/animationworld/cyberpunk-edgerunners-vibrant-ode-retro-anime),
+  con citas de la entrevista de Netflix a Otsuka, Imaishi y Yoshinari).
+- **La Sandevistan se anima a mano**: repartieron los fotogramas de la
+  acción y rellenaron los huecos con **copias del personaje en colores
+  distintos**. Yoshinari: «un estilo que existía en el anime japonés
+  antiguo… lo desempolvamos» ✅ (AWN). Los análisis lo llaman **«estilo
+  Kanada»** ([MankoMan, 9:45](https://www.youtube.com/watch?v=j2nHAPtCjBk&t=585s)) y
+  explican el **espaciado de fotogramas** ([Swamp Jawn, 2:22](https://www.youtube.com/watch?v=Xv9MdoAt3gQ&t=142s)).
+- **El buceo en la red** (netrunners) se dibujó con **referencias
+  analógicas antiguas**, no copiando el juego (Imaishi) ✅ (AWN).
+- **Fondos pintados encima de capturas de Night City** del juego (ya en
+  §3, *Inside Look #2*, 2:05-2:39) ✅.
+- **Programa exacto** (RETAS, Clip Studio, Toon Boom): **no lo encontré**
+  en entrevistas en inglés ni japonés. Lo habitual en Trigger es 2D en
+  RETAS o Clip Studio y 3D propio para vehículos; **no confirmado para
+  esta serie** ⚠️.
+
+### 18.b Lo que se ve
+
+- **Línea**: gruesa; en escenas de neón se **tiñe de cian o magenta**; muy
+  marcada en los primeros planos de acción ⚠️ (visto en las hojas, sin
+  medir un fotograma nuevo).
+- **Sombreado**: cel plano de 2-3 tonos; degradados sólo en neones y
+  hologramas ✅.
+- **Filtros**: **un color entero** en escenas clave (verde militar en el
+  braindance, ep. 3, 4:55-8:20; verde de visión nocturna en la promesa de
+  la luna, ep. 4, 21:20-21:58; HUD verde roto de Maine, ep. 6, 22:10) ✅
+  visto. Grano suave y aberración cian/magenta en logo y glitches ⚠️ (una
+  fuente, [playcyberpunk.com](https://www.playcyberpunk.com/cyberpunk_edgerunners_gif/)).
+
+### 18.c Cómo reproducirlo en Photoshop
+
+Capas, de arriba abajo:
+
+1. **Línea** (Multiplicar), pincel duro de trazo grueso.
+2. **Viñeta**.
+3. **Aberración cromática**: duplicar, mover 2-3 px los canales R y B,
+   modo Trama.
+4. **Grano** (Superponer, 8-15 %).
+5. **Neón** (Sobreexponer color o Trama): pincel blando, flujo bajo, varias
+   pasadas ([Spoongraphics](https://blog.spoongraphics.co.uk/tutorials/how-to-apply-cyberpunk-style-color-grading-neon-effects-to-your-photos)).
+6. **Sombra plana** (Multiplicar, 60-70 %).
+7. **Color plano**.
+
+Pinceles de glitch gratis: [Resource Boy](https://resourceboy.com/photoshop-brushes/glitch-brushes/)
+(revisar la licencia de cada pack).
+
+### 18.d Cómo reproducirlo en Blender
+
+- **Contorno**: modificador **Solidify** con normales invertidas y
+  material negro (grosor 0,01-0,03), o **Freestyle**. Para el contorno de
+  color, material emisivo cian o magenta en el Solidify
+  ([Artisticrender](https://artisticrender.com/cel-shading-in-blender/),
+  [Blender Artists](https://blenderartists.org/t/the-ultimate-cel-shading-shader/1413344)).
+- **Cel**: *Shader to RGB* + *Color Ramp* de 2-3 bandas duras en Eevee
+  ([Medium, 4 métodos](https://medium.com/@josephclaytonhansen/four-different-methods-for-making-cel-shaders-in-blender-eevee-2-8-2-9-6d976ce2555d)).
+- **Luz**: áreas de color (cian, magenta, amarillo) de lado; *Bloom*;
+  niebla volumétrica baja para la lluvia.
+- **Modelos libres** (fan-made, CC BY, crédito al autor; para pose, no
+  para vender): [David](https://sketchfab.com/3d-models/none-0105aad132d04217ad2371da44b51f7a)
+  (190.508 caras), [Rebecca](https://sketchfab.com/3d-models/none-c9a1a0795acc469bad9c0c47158e436b)
+  (130.402), [Lucy](https://sketchfab.com/3d-models/none-7cc2f167a5e84a1aa0bc620ef9b5dcfd) ✅ (API de Sketchfab).
+- **Texturas encima**: por UV, con ruido en la rugosidad para el «sucio»
+  de Night City (texturas en «Punto 19»).
+
+### 18.e Encuadres y composición
+
+- **Contrapicado muy cerrado** en las peleas ⚠️ (visto en hojas).
+- **Planos anchos y vacíos para la soledad**, primerísimos planos para la
+  emoción fuerte ✅ (AWN y §2).
+- **La cámara imita la Sandevistan**: paneos rápidos con estirones de
+  fotograma (*smears*) en vez de interpolar limpio ✅ (AWN).
+- **La muerte fuera de cuadro**: antes y después, nunca el golpe (ep. 6,
+  22:10-22:48) ✅ visto.
+
+---
+
+## Punto 19 · Texturas 2D
+
+Junto con §4 (3D y HDRI) y §5.4 (texturas reales), así no falta ninguna
+capa.
+
+- **Tramas del manga *MADNESS***: **rejilla fina** (no el punto clásico)
+  en sombras de ropa y piel, **líneas de velocidad radiales** en la
+  sorpresa, onomatopeyas a mano pegadas al borde (W124-W125, en
+  `hojas/hoja_03.jpg`) ✅ visto. La otra parte del manga (W106, W108) va a
+  color, sin trama, con cel de dos tonos y una viñeta de luz cálida.
+  - Pinceles libres: [Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037)
+    (Clip Studio Assets, gratis) y el pack de
+    [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/)
+    (Photoshop, Procreate, CSP) ⚠️ uso comercial sin aclarar.
+- **Grano de papel**: [ambientCG Paper004](https://ambientcg.com/view?id=Paper004),
+  **CC0**, hasta 2048×2048 ✅ (API). Hay Paper001-006 y Cardboard001-004
+  para un grano más grueso o de revista vieja.
+- **Pinceladas** (fondos pintados de Trigger): «My digital oil painting
+  brushes (FREE)» de Martina Palazzese
+  ([Behance](https://www.behance.net/gallery/71632077/My-digital-oil-painting-brushes-(FREE)-for-Photoshop)) ✅.
+- **Glitch y aberración**: [Resource Boy](https://resourceboy.com/photoshop-brushes/glitch-brushes/) (ver Punto 18).
+- **Emblemas y logos** (medidos por la API de la wiki; se ven pintados en
+  las calles de la serie, hojas W46, W91, W99, W117) ✅. **Son de CD
+  PROJEKT RED: sólo referencia; en la lámina se recrean**, no se pega el PNG.
+
+| Logo | Tamaño | Enlace |
+|---|---|---|
+| Arasaka | 1920×1080 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/5/5f/Arasaka_Logo_CP2077.png) |
+| Militech | 3840×582 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/6/67/Militech_Logo_CP2077.png) |
+| Kiroshi | 502×116 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/a/ae/Kiroshi_Logo_CP2077.png) |
+| Trauma Team | 3134×1064 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/c/c8/Trauma_Team_Logo_CP2077.png) |
+| Maelstrom | 1389×675 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/1/19/Maelstrom_Logo_CP2077.png) |
+| Tyger Claws | 1391×1059 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/4/4d/Tyger_Claws_Logo_CP2077.png) |
+| Valentinos | 506×845 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/4/49/Valentinos_Logo_CP2077.png) |
+| 6th Street | 1920×1080 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/c/c6/6th_Street_Logo_CP2077.png) |
+| Kang Tao | 1920×407 | [wiki](https://static.wikia.nocookie.net/cyberpunk/images/5/5d/Kang_Tao_Logo_CP2077.png) |
+
+- **Patrones de ropa**: **no hay**. Busqué camuflaje, cuadros y pata de
+  gallo (en inglés) y la ropa es de **color plano con piezas y ribetes**.
+  Es un dato: no inventar una tela estampada ⚠️ (comprobado que no sale,
+  no es que no se buscara).
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+No hay *databook* de fichas al estilo shonen: **no hay altura ni
+cumpleaños oficiales** de nadie ⚠️ (buscado; las edades aproximadas las
+dio el guionista en Reddit, §8). Lo que sigue sale de la
+[wiki](https://cyberpunk.fandom.com/wiki/David_Martinez) (que cita el
+*Mission Kit*) y de la serie.
+
+| Personaje | Le gusta / le importa | Odia | Su objeto | Cómo se ve |
+|---|---|---|---|---|
+| **David** | Su madre; llegar alto (el sueño de Gloria) | Las bebidas con gas y el tabaco (ep. 2, 16:34); que le llamen «Davis» (ep. 4, 04:02) | El radiocasete de su madre (W127) y luego la Sandevistan | «Creo que estoy hecho diferente» (ep. 5, 18:00): se cree especial. Nació en 2058 |
+| **Lucy** | Irse a la luna; **los gofres** (se la ve comiendo una bolsa en el sofá del grupo, W116) | Night City, «una jaula de luces» (ep. 7, 16:50) | El monowire | Introvertida, no habla de su pasado; apodo «Luce» |
+| **Rebecca** | **Los perros** (llegó tarde a un encargo por abrazar un cachorro); su hermano Pilar | — | **«Guts»**, su escopeta Carnage modificada | Dura por fuera, compasiva por dentro («pobre gonk»); apodos Becca, Becs, «Lil' B» |
+| **Maine** | Repartir a partes iguales; su «familia» de mercs; Dorio | — | Su visor y los brazos de cromo | El que reúne al equipo; ex boxeador y ex soldado |
+| **Kiwi** | Sobrevivir; fue la mentora de Lucy | Confiar («Never trust a soul», ep. 9, 04:51) | La máscara de la mandíbula | Fría por necesidad |
+| **Falco** | Su coche; cumplir su palabra (ep. 10) | — | Su camioneta | Nómada de acento sureño |
+
+**Para la lámina**: la bolsa de gofres de Lucy o un cachorro de peluche
+de Rebecca encima de la recreativa humanizan sin contar historias oscuras.
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+**Las razones, con cifras**
+
+- **Crítica y público**: **100 %** en Rotten Tomatoes (16 reseñas) y
+  **95 %** del público (más de 2.500 valoraciones) ✅, leído en el JSON de
+  la [página](https://www.rottentomatoes.com/tv/cyberpunk_edgerunners/s01).
+- **Anime del Año** en los Crunchyroll Anime Awards 2023, 18 millones de
+  votos ✅ (§9).
+- **Devolvió la gente al juego**: el pico de jugadores de *Cyberpunk 2077*
+  en Steam pasó de 10.000-15.000 a **más de 85.000 en 24 horas** tras el
+  estreno ✅ ([PC Gamer](https://www.pcgamer.com/skyrocketing-cyberpunk-2077-player-counts-prove-the-netflix-boost-is-real/)).
+  Otros medios hablan de «+300 %» y de volver a lo más vendido de Steam
+  ⚠️ (Forbes dio captcha). **Es el dato perfecto para #a-que-juegas**:
+  una serie que hizo que todos volvieran a jugar.
+- **Con quién se identifica el público**: con **David**, el chico de la
+  calle sin nada que perder que se lo juega todo por su familia elegida;
+  y engancha el tema de **pagar un precio por mejorar el cuerpo** ⚠️ (una
+  reseña de blog, Peter Joosten en Substack, más MyAnimeList).
+- **Rebecca** como sorpresa (§9) y el **final sin trampas**: la broma de
+  los foros es «disfruta tus nueve episodios de felicidad» ✅ (varias
+  reseñas).
+
+**Las escenas que hacen llorar**
+
+| Escena | Ep. y minuto | Qué pasa | Por qué duele | Música y dibujo |
+|---|---|---|---|---|
+| **La luna del BD** | ep. 2, 19:30-21:30 | David y Lucy juegan en la luna con traje espacial y rover; ríen (21:18) | Es el único momento de paz, y el espectador sabe que es mentira | Suena **«I Really Want to Stay at Your House»**; sin diálogo |
+| **La promesa** | ep. 4, 21:29-21:54 | «You're remembered by how you die» / «I'll take you to the moon! I promise!» | La promesa que no se cumple | **Filtro entero verde de visión nocturna**; Lucy de perfil llorando (21:34) ✅ visto |
+| **Muere Maine** | ep. 6, 22:10-22:48 | «Fast is what you do, remember? Keep running.» | Se rompe la familia; David hereda el mando | Lluvia antes (18:25); visor que se agrieta, fogonazo blanco; **no se ve el disparo** ✅ visto |
+| **El final** | ep. 10, 21:34-22:25 | Falco cumple la promesa; David, por boca de Falco: «Sorry. Wish we could go to the moon together.» | Mueren Rebecca y David; Lucy llega sola a la luna | Vuelve «I Really Want to Stay at Your House» (§11) |
+
+**Las que hacen reír o gritar**: las pullas de Rebecca («Si no tuviera
+bigote, te tendría enamorada», a Falco; «No voy a emborracharme con este
+par de boomers») en el clip latino
+[Momentos divertidos](https://www.youtube.com/watch?v=2I4ONpf9W3k)
+(10:09 y 11:06, **1,9 M vistas**); y «Well so the fuck am I!» contra Adam
+Smasher (ep. 10, 17:10).
+
+**Cómo reaccionó la gente**: el hilo «I found Rebecca's grave!»
+(r/cyberpunkgame, 2.338 votos, §14) y la tendencia de TikTok de David y
+Lucy con la canción (§12). El hilo más votado sobre el final en
+r/Edgerunners **no lo pude sacar** (Arctic Shift daba timeout) ⚠️.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+YouTube pide iniciar sesión desde el servidor: **las vistas y fechas de
+los fandubs quedan sin confirmar** ⚠️. Los enlaces son reales.
+
+**Fandubs en español latino**
+
+| Vídeo | Escena | Enlace |
+|---|---|---|
+| Rebecca // Cyberpunk Edgerunners (Fandub Español Latino) | Rebecca | [YouTube](https://www.youtube.com/watch?v=-t0Hen4lR1U) ⚠️ vistas |
+| La revancha de David contra Katsuo (Fandub Latino) | David vs Katsuo | [YouTube](https://www.youtube.com/watch?v=2tCe6MJt9kc) ⚠️ |
+| David Martinez vs Adam Smasher (Demo de voz, Fandub) | Pelea final, ep. 10 | [YouTube](https://www.youtube.com/watch?v=rx3C3dUyjrA) ⚠️ |
+| **Itsumoissho_Dubs**: «Los últimos minutos de Cyberpunk: Edgerunners», en dos partes | Final, ep. 10 | [TikTok](https://www.tiktok.com/@itsumoissho_dubs/video/7291039726017056006) ✅ existe |
+| Retos de doblaje a la voz oficial de David | David | [SDV Servicios de Voz](https://www.tiktok.com/@sdv_serviciosdevoz/video/7152659901645360390?lang=es) (§12) |
+
+**Covers en español**
+
+- **«Let You Down» (ending)** en español, de **Cesar Powers** (2023) ✅
+  ([Spotify](https://open.spotify.com/track/5Io7rX4u4LmLe45s1zKiHI),
+  [Apple Music](https://music.apple.com/us/song/let-you-down-from-cyberpunk-edgerunners-spanish-cover/1668852365)).
+- **«I Really Want to Stay at Your House»** (canción de la serie, no el
+  opening) en español: [YouTube](https://www.youtube.com/watch?v=3OLCRvB6Chk) ⚠️ canal y vistas.
+- *Lyric videos* traducidos en TikTok (p. ej. @kawaiirodri) y edits con
+  «#subtitulosenespañol» (§12): más edición que doblaje ⚠️.
+
+**Memes hispanos propios**: **no los encontré** (buscado «memes
+Cyberpunk Edgerunners español latino reddit forocoches»). Circulan los
+ingleses traducidos (Rebecca, §14). No digo que no existan.
+
+**Para el servidor**: el clip oficial latino más visto,
+[Momentos divertidos](https://www.youtube.com/watch?v=2I4ONpf9W3k)
+(1,9 M), da escenas cortas y conocidas para un reto de fandub de Rebecca.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+**Videojuegos**
+
+- **Overwatch × Edgerunners**: anunciado en BlizzCon 2026; David Martinez
+  y Talia Yang llegan como aspectos en **2027**, con la temporada 2
+  (20-oct-2026) ✅ ([MasGamers](https://www.masgamers.com/blizzard-y-cd-projekt-red-extienden-su-alianza-con-una-colaboracion-de-aspectos-de-cyberpunk-edgerunners-en-overwatch/),
+  [PC Master Race LATAM](https://www.pcmrace.com/2026/09/13/cyberpunk-2077-edgerunners-2-battlenet/)).
+- **Apex Legends × Edgerunners**: evento con aspectos y armas (julio) ⚠️
+  una fuente ([CBR](https://www.cbr.com/apex-legends-cyberpunk-edgerunners-crossover/)).
+- **Fortnite**: sólo una mención ⚠️
+  ([MultiAnime](https://multianime.com.mx/2026/09/14/cyberpunk-edgerunners-ii-llegara-a-overwatch-y-fortnite-con-nuevas-colaboraciones-de-alto-voltaje-anime-cyberpunkedgerunners-games-crossovers/));
+  sin nota de Epic.
+
+**Ropa con licencia**
+
+- **Insert Coin** (abril de 2025): chaqueta de David (167,49 $), camiseta
+  de Lucy (27,91 $), camisa de Rebecca con iconografía rosa (33,49 $) ✅
+  ([Crunchyroll News](https://www.crunchyroll.com/news/latest/2025/4/25/cyberpunk-edgerunners-anime-insert-coin-david-jacket),
+  [tienda](https://www.insertcoinclothing.com/cyberpunk-edgerunners/)).
+- **Nonsense** (Joey «The Anime Man», enero de 2024): camiseta «Netizen»
+  amarillo neón, balaclava reflectante, y una **«Corporate Jacket»** con
+  los logos de Arasaka, Militech y compañía ✅
+  ([Tokyo Weekender](https://www.tokyoweekender.com/entertainment/entertainment-roundup-stylish-streetwear-with-cyberpunk-edgerunners-collaboration/)).
+  Es la prueba de cómo quedan los logos del Punto 19 sobre algo real.
+- **Atsuko**: aparece con línea de Edgerunners ⚠️ una fuente
+  ([tienda](https://atsuko.com/collections/cyberpunk-edgerunners)).
+
+**Merchandising oficial** ([CD PROJEKT RED Gear Store](https://gear.cdprojektred.com/collections/cyberpunk-edgerunners),
+visto entero) ✅: réplica del **collar de David** (45 $), FigZero 1/6 de
+David, figuras simples, **Funko Pop!** de David, Lucy (con monowire) y
+Rebecca, peluches y vinilos de **Youtooz**, estatua de Lucy de
+**Kotobukiya**, anorak de Adam Smasher de **ARK8**, lámpara y una
+**caja-diorama del apartamento de David** (145 $). Pistas de qué objetos
+ya son icónicos: el collar, el llavero de Guts.
+
+**Figuras (su pose es referencia 3D)**
+
+- **Prime 1 Studio**, 1/4 (unos 50 cm): David, Lucy y Rebecca ✅
+  ([Toy People, Lucy](https://www.toy-people.com/en/?p=98572),
+  [Toy People, Rebecca](https://www.toy-people.com/en/?p=100665),
+  [MyFigureCollection](https://myfigurecollection.net/item/2423349)).
+  **Lucy apoyada de espaldas en la barra del Afterlife**, base con las
+  luces del bar; la deluxe trae el dron Wyvern y cabezas intercambiables
+  ([Sideshow](https://www.sideshow.com/collectibles/cyberpunk-2077-lucy-prime-1-studio-914452)) ✅.
+  **La mejor referencia de pose relajada, de «esperar a que se arme la
+  partida».**
+- **Good Smile**: «Hello! Good Smile» de David y Lucy (chibi, dirección de
+  arte de Shigeto Koyama) y **BUZZmod. Rebecca** 1/12 ✅
+  ([Good Smile](https://www.goodsmile.com/en/product/1140950),
+  [Amazon](https://www.amazon.com/Good-Smile-Company-Figure-Cyberpunk/dp/B0G5YPC63P)).
+
+**Cosplay bien hecho**
+
+- **Yaya Han, Lucy**: **8 telas** (panal, espejo holográfico, elásticos
+  de 4 vías, scuba hex); chaqueta del patrón McCall's M7733 modificado con
+  **EVA de 2 mm forrada** para que se sostenga sola; peluca aerografiada
+  (80 % alcohol, 20 % color) con tiza para el degradado; **90 horas** ✅
+  ([blog](https://www.yayahan.com/post/cosplaying-lucy-from-cyberpunk-edgerunners)).
+- Fotos con licencia libre (Openverse, en `referencias.json`): Rebecca en
+  la Comic-Con de L.A. 2023 (CC BY-NC-ND, Howie Muzika), Lucy en Made In
+  Asia 2023 y CWT63 (CC BY-SA, Wikimedia Commons), Anime Las Vegas 2025
+  (CC BY-SA).
+
+**No encontré**: café temático oficial en Japón (buscado en español e
+inglés); no digo que no exista.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+- **Influencias que nombra el equipo**: *Akira*, *Ghost in the Shell* y
+  *Blade Runner* ✅ ([AWN](https://www.awn.com/animationworld/cyberpunk-edgerunners-vibrant-ode-retro-anime)).
+  Y a propósito **se evitó que Lucy recordara a Motoko Kusanagi** (§3.8).
+- **La casa**: Imaishi dirigió *Gurren Lagann*, *Kill la Kill* y
+  *Promare*; Yoshinari, *Little Witch Academia* y *BNA*; el guionista
+  Yoshiki Usa, *SSSS.GRIDMAN* ✅ ([wiki de la serie](https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners)).
+  De ahí la línea gruesa y la acción exagerada.
+- **Lo que recomienda el público** ([AniList](https://anilist.co/anime/120377)),
+  de más a menos votos: *Akudama Drive*, *Ghost in the Shell*,
+  *PSYCHO-PASS*, *Redline*, *Promare*, *Black Lagoon*, *Gurren Lagann*,
+  *LAZARUS*, *Akira*, *Akame ga Kill!*, *Devilman Crybaby*, *Cowboy Bebop*,
+  *Kill la Kill* ✅. Las más cercanas en tono: *Akudama Drive*,
+  *PSYCHO-PASS* y *Black Lagoon*.
+- **Láminas del servidor que se le parecen**: el encargo **114, *Cyberpunk
+  2077* (el juego)**, es el mismo universo y aún no tiene canal. Si se
+  hace, que use **personajes del juego** (V, Johnny Silverhand, Judy,
+  Panam) y no la recreativa, para no repetir esta. No hay otro anime
+  cyberpunk entre los encargos 01-127 ✅ (comprobado sobre los títulos de
+  `encargos/`). *Cowboy Bebop* sí tiene lámina (el disco que le gustó al
+  dueño): no repetir su sobriedad jazz; aquí manda el neón.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+### Las reglas del mundo en cinco líneas
+
+1. **Night City**, 2076: ciudad-estado de California donde mandan las
+   corporaciones; la policía (NCPD, MaxTac) va detrás ✅
+   ([wiki](https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners), AniList).
+2. **El chrome** (implantes) te mejora, pero cuanto más llevas, más cerca
+   estás de la **cyberpsicosis** ✅ (ep. 1, el ciberpsicópata del
+   arranque).
+3. **Un edgerunner** es un mercenario que vive al filo: sin corporación
+   que lo cubra, un error lo mata ✅.
+4. **Arasaka y Militech** son el poder real ✅.
+5. **Todo es barato y carísimo a la vez**: megaedificios como el H4 abajo,
+   torres de cristal arriba; lluvia y neón siempre; hasta la lavadora
+   funciona con saldo (ep. 1, 04:15) ✅.
+
+### La historia por arcos
+
+Duraciones de la [wiki](https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners#Episodes) ✅.
+
+**Arco 1 · De la calle a edgerunner (ep. 1-4)**
+- ep. 1 «Let You Down» (24:14): David, hijo de Gloria, en H4; se pone la
+  Sandevistan; muere su madre.
+- ep. 2 «Like A Boy» (24:12): venganza en la Academia Arasaka; conoce a
+  Lucy en el tren; la luna del BD (19:30).
+- ep. 3 «Smooth Criminal» (24:20): entra en el equipo de Maine.
+- ep. 4 «Lucky You» (24:12): Lucy lo entrena; la promesa de la luna (21:54).
+
+**Arco 2 · El ascenso (ep. 5-7)**
+- ep. 5 «All Eyez On Me» (23:30): David propone el plan; el objetivo es
+  más peligroso de lo que parecía.
+- ep. 6 «Girl on Fire» (25:48): la cyberpsicosis de Maine; su muerte
+  (22:10-22:48).
+- ep. 7 «Stronger» (24:14): David, ya líder y con más chrome; Faraday le
+  ofrece el gran trabajo.
+
+**Arco 3 · La caída (ep. 8-10)**
+- ep. 8 «Stay» (24:16): Faraday entre Arasaka y Militech; Lucy y Rebecca
+  le reprochan a David cuánto ha cambiado.
+- ep. 9 «Humanity» (25:18): descubren el pasado de Lucy; el trabajo sale
+  mal.
+- ep. 10 «My Moon My Man» (26:54): David, al borde de la cyberpsicosis,
+  va a por Lucy; Adam Smasher; Lucy llega sola a la luna.
+
+### Emblemas y objetos icónicos
+
+- **Logos de corpos y bandas**: tabla del Punto 19.
+- **El emblema verde de David**: el logo de la XBD de Jimmy Kurosaki
+  (§16).
+- **La Sandevistan**, **el monowire** de Lucy, **Guts** (la escopeta de
+  Rebecca), **la máscara de Kiwi**, **la luna**.
+- **Para #a-que-juegas**: la **recreativa de *Roach Race*** (§13) sigue
+  siendo el mejor objeto real.
+
+### Jerga (la reconoce cualquier fan)
+
+De la [wiki: Streetslang](https://cyberpunk.fandom.com/wiki/Streetslang) ✅,
+cruzada con los subtítulos (§7.5).
+
+| Palabra | Qué es |
+|---|---|
+| **Choom** / choomba | Amigo, colega |
+| **Gonk** | Idiota; «gonk move», mala decisión |
+| **Eddies** | Dinero (eurodólares) |
+| **Preem** | Genial |
+| **Nova** | Guay |
+| **Delta** | Largarse |
+| **Flatline** | Matar, morir |
+| **Chrome** | Implantes |
+| **Gig** | Encargo |
+| **Edgerunner** / **merc** | Mercenario al filo |
+| **ICE** | Defensas contra hackers |
+| **Ripperdoc** | Cirujano clandestino |
+| **Cyberpsicosis** | Perder la humanidad por el chrome |
+| **Braindance (BD)** | Grabación sensorial; en latino, «neurodanza» |
+| **Netrunner** | Hacker que entra en la red |
+| **Sandevistan** | Implante que ralentiza el tiempo |
 
 ---
 
@@ -1635,25 +2358,35 @@ más natural para las horas.
 
 ## 20 · Lo que no pude verificar ⚠️
 
+**Sigue sin verificar**
+
 - **La lámina actual** de #a-que-juegas que le gustó al dueño: no está
   en el repositorio; no sé qué personaje ni qué objeto usa.
-- Voces latinas de **Dorio, Pilar, Falco** y secundarios: sólo Doblaje
-  Wiki. La de **Adam Smasher** (Idzi Dutkiewicz) parece rara.
 - Las frases latinas de §10.4 salen de **subtítulos automáticos**.
-- El **minuto exacto** de «I Really Want to Stay at Your House» en el
-  ep. 2 (lo deduzco del hueco sin diálogo, 20:00-21:28).
-- El **aspecto de la holo-llamada** y de las opciones de diálogo del
-  juego (Game UI Database pedía un reto de Cloudflare; no lo salté).
-- Los capítulos de los vídeos de análisis (YouTube pedía verificación).
-- El **autor** de los carteles amarillos W26-W32 («Yoshiyuki Kaneko»
-  según la wiki; el diseñador de Rebecca es Yuto Kaneko).
-- Si el emblema verde de la espalda de David es exactamente el logo de
-  la serie (la wiki dice «Edgerunners emblem»; en G26 se ve una runa
-  verde).
+- El **aspecto de la lista vertical de opciones de diálogo** del juego
+  (Game UI Database pide un reto de Cloudflare; no lo salté).
 - **No hay encuesta oficial de popularidad** de personajes.
 - En qué episodio exacto sale la práctica de tiro de Rebecca y David en
   la tienda 2nd Amendment (W65-W66, «EP4» según el nombre del archivo).
+- Fotogramas en **1080p**: en la 2.ª pasada sólo se pudo mirar en 360p.
+- El **programa exacto de producción** de Trigger (RETAS, Clip Studio,
+  Toon Boom): ninguna entrevista en abierto lo dice.
+- **Vistas y fechas** de los fandubs en español (YouTube pide iniciar
+  sesión), y **memes propios de la comunidad hispana** (sólo encontré los
+  ingleses traducidos).
+- El **amarillo exacto del logo** (`#F8EE08` o `#FCEE09`).
+- La colaboración con **Fortnite** y la tienda **Atsuko** (una sola fuente
+  cada una), y si hubo **café temático oficial** en Japón (no lo encontré).
+- Kiwi en el ep. 7, 11:40: reconocida por el diseño, no por el audio.
 
+**Resuelto en la segunda pasada** ✅
+
+- Voces latinas de los secundarios y de Adam Smasher: dos fuentes (§10.5).
+- Minuto de «I Really Want to Stay at Your House»: ep. 2, 19:30-21:30 (§11).
+- Capítulos de los vídeos de análisis (§12).
+- Autor de los carteles amarillos: los dos Kaneko existen (§3.8).
+- Emblema verde de David: el logo de la XBD de Jimmy Kurosaki (§16).
+- Clínica de Doc: Arroyo, Santo Domingo (§5).
 ---
 
 ## 21 · Bitácora de búsqueda
