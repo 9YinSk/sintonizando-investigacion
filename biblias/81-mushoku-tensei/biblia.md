@@ -1376,3 +1376,131 @@ relieve de hiedra y texto blanco en **PT Serif**.
   **repositorios de GitHub** de la serie.
 
 ---
+
+## Cumplimiento del encargo
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | Hojas de modelo S1-S3 de los cuatro, Blu-ray hasta 4096×2642, key visuals, novela, manga, juego móvil (§3). La web oficial japonesa da 403 |
+| 2 | Fotogramas de escenas icónicas con minuto | ⚠️ | 17 escenas vistas con minuto (§2), eps. 1, 2, 3 y 5 en 1080p y tráileres en 720p. Las grandes escenas de la T2 (ep. 37 y 46) no se vieron: YouTube bloqueado |
+| 3 | Fan art y 3D con licencia | ✅ | Fan art con autor u origen y 7 modelos CC BY con crédito (§4). Eris sólo tiene modelo con licencia Editorial |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | 14 sitios con hex medidos con `estilo.py` y texturas CC0 de ambientCG (§5) |
+| 5 | Tipografía por uso con tildes | ⚠️ | Logo medido y letra para cada uso comprobada con fontTools (§6). Grito, onomatopeya y créditos del manga y del anime no vistos; letras propuestas por aproximación |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | Caja propia del juego *Quest of Memories* medida; pensamientos con otra voz, no nube; cartelas rojas (§7). Globos del manga sólo en forma |
+| 7 | Personajes y encuestas de popularidad | ⚠️ | AniList, Danbooru, MAL y Reddit dan a Roxy (§9). No se encontró encuesta oficial |
+| 8 | Doblaje latino y frases textuales | ⚠️ | Reparto con dos fuentes por nombre salvo Elinalise; 8 frases textuales de muestras oficiales de Doblaje Wiki (§10). Sin clip oficial doblado ni episodio exacto de 6 frases |
+| 9 | Música y sonido | ⚠️ | Todos los OP y ED con artista y episodio; ambiente del ep. 1 visto (§11). Sin onomatopeyas oficiales ni tema de la muerte de Paul |
+| 10 | Vídeos y tendencias con minuto | ⚠️ | Tráileres, opening y ep. 1 con minuto; TikToks y Reddit (§12). Análisis de YouTube sin abrir |
+| 11 | Videojuegos: interfaz y cajas | ✅ | *Quest of Memories* (3 interfaces medidas) y el gacha cerrado (§13). TCRF bloqueado |
+| 12 | Lo que ama el fandom y qué no hacer | ✅ | Memes, gags, errores del doblaje y 9 reglas de qué no hacer (§14) |
+| 13 | Descripción profunda y cara por emoción | ⚠️ | 4 principales y 4 secundarios a fondo con voz medida (§8). Faltan 9 de 20 caras por emoción con fotograma |
+| 14 | Poses analizadas con minuto | ✅ | Rudeus 10, Roxy 10, Eris 7, Sylphiette 7, con minuto y uso (§15) |
+| 15 | Vestuario con hex | ✅ | Hex medidos de los cuatro en hojas de la T3; uniforme de Ranoa; lo icónico (§16) |
+| 16 | Ciudades y fondos de pantalla | ✅ | 6 sitios con luz y hora; 7 fondos en alta con tamaño y autor (§17). No se buscaron fondos sólo de paisaje |
+| 17 | Guía para IA de imagen y de texto | ✅ | Prompts, palabras que ayudan y que estropean, rasgos Danbooru, gestos y frases reales por emoción (§18) |
+| 18 | Estilo, técnica, Photoshop y Blender | ⚠️ | Equipo con dos fuentes, estilo medido, cómo replicarlo y encuadres (§19). No se encontró el programa del estudio |
+| 19 | Texturas 2D | ✅ | Tramas con pinceles libres, emblemas, patrón de hiedra, papel CC0 (§20) |
+| 20 | Gustos y detalles | ⚠️ | Gustos, miedos, objetos y cómo se ven (§21). Faltan alturas y cumpleaños de varios; sin *databook* |
+| 21 | Por qué la aman y escenas que hacen llorar | ⚠️ | Ventas, premios, identificación; escenas de llorar, reír y gritar (§22). Sin minuto ni música de las dos escenas de la T2 |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | 5 covers, 2 fandubs y 2 TikToks con enlace (§23). Sin vistas (YouTube bloqueado) ni memes hispanos |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | 6 colaboraciones, 3 Nendoroid, tiendas, cosplay del báculo (§24). Sin café temático |
+| 24 | Obras parecidas y láminas vecinas | ✅ | AniList, influencias del autor con fuente, Frieren y Solo Leveling (§25) |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | Reglas, arcos, escudos, monumentos, mural y vocabulario (§26) |
+| Conceptos | Tres conceptos de lámina | ✅ | A #material-de-clase, B #reto-de-la-semana, C #dudas (§27). Choques anotados en §0, sólo como nota |
+| Fuentes | 40 webs distintas | ✅ | Más de 40 dominios enlazados (ver `revisar.py`) |
+| Oficiales | Web, staff, entrevistas | ⚠️ | Staff en AniList y crítica japonesa; la web oficial da 403; sin artbook ni *making of* |
+| Otros idiomas | Japonés, inglés, coreano o chino | ⚠️ | Japonés (Real Sound, búsquedas) e inglés; chino sólo por un fan art de Bilibili; **coreano, nada** |
+| Wikis | Fandom, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki a fondo; TV Tropes y TCRF bloqueados por Cloudflare; Wayback sin copia |
+| Foros | Reddit, foros, Tumblr, X | ✅ | Reddit, MyAnimeList, X de Funianime y del anime |
+| Arte | Pixiv, Danbooru, ArtStation | ✅ | Pixiv, Safebooru, Danbooru, Wallhaven. ArtStation no consultado |
+| Vídeo | YouTube y TikTok con minuto | ⚠️ | Dailymotion e Internet Archive con minuto; YouTube bloqueado; TikTok sin minuto |
+| Código y recursos | GitHub, Sketchfab, texturas | ⚠️ | Sketchfab y ambientCG sí; **ningún repositorio de GitHub** de la serie |
+| Doblaje | Doblaje Wiki, ANMTV, créditos | ✅ | Doblaje Wiki por API, ANMTV y Funianime Latam |
+| Vídeos mirados | Opening, ending, tráiler, 3 escenas | ✅ | Opening T2, ending del ep. 1, dos tráileres y cuatro episodios con `fotogramas.py` y `episodio.py` |
+| Hojas | 3 hojas de contacto | ✅ | `personajes_01`, `modelo_01`, `fondos_01`, descritas en §3 |
+| Referencias | `referencias.json` ≥ 20 | ✅ | Todas las útiles de las partes, las mejores primero |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+### Lo que hizo el recolector (`recolectar.py`, 24-sep)
+AniList (obra, staff, personajes, recomendaciones), Doblaje Wiki por la
+API con 8 muestras de audio, wiki de Fandom, Danbooru, Safebooru,
+Wallhaven, Sketchfab, Openverse (sin resultados útiles), Dailymotion,
+Internet Archive, MusicBrainz, Steam y Reddit. **AnimeThemes caído**
+(HTTP 522).
+
+### Imagen (inglés, japonés)
+- Fandom API: `list=search`, `allpages`, `allimages` y `fileusage` para
+  saber a qué sitio pertenece cada captura; `generator=images` en la
+  página «Blu-ray».
+- `investigar_serie.py` sobre 8 páginas de sitios (84 imágenes, 75
+  grandes) más las de personajes. Todas las hojas miradas con Read.
+- `estilo.py` sobre 8 imágenes (4 hojas de modelo y 4 sitios).
+- [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=mushoku%20tensei&downloadable=true):
+  «mushoku tensei», «Eris Greyrat», «Eris Boreas», «isekai magic staff»,
+  «medieval fantasy village anime», «elf girl anime».
+- ambientCG: Paper, Wood, Fabric, Stone.
+- WebSearch (7): cafés y merchandising 2025-2026, Nendoroid, crossovers
+  gacha, cosplay, web oficial (inglés y japonés «無職転生 公式サイト»).
+- mushokutensei.jp: 403 por curl, curl con navegador y WebFetch; sin copia
+  en [Wayback](https://web.archive.org/web/*/mushokutensei.jp/character/).
+
+### Vídeo (inglés, español)
+- YouTube: «Sign in to confirm you're not a bot» y 429. Se dejó.
+- [API de Dailymotion](https://api.dailymotion.com/videos?search=mushoku+tensei):
+  «OP1», «opening 1 creditless», «ED1 creditless», «Only ending», «Kaze to
+  Iku Michi», «Clover ending», «Eris Goblin Slayer», «episode 17 Reunion».
+- Internet Archive (`advancedsearch` y `metadata`): opening, OST, episode
+  1, ending, creditless, trailer, OP1, ED1, spiral. Encontró el lote de la
+  T1 en 1080p (sin el ep. 6) y el opening T2 sin créditos.
+- Wiki: fichas de los 8 openings y 4 endings, episodios clave.
+- `episodio.py` sobre el ep. 1 (319 planos); `fotogramas.py` sobre el
+  tráiler, el opening T2 y los eps. 1, 2, 3 y 5; `estilo.py` sobre 9
+  fotogramas.
+- WebSearch (2): «Mushoku Tensei escena viral TikTok momento icónico
+  reacción» (es) y «analysis video YouTube minute best scene reaction» (en).
+
+### Voz y personajes (español, inglés)
+- Doblaje Wiki por la API `action=parse` (la web da 402).
+- Wiki: Personality, Trivia e infobox de 7 personajes.
+- `voz.py` sobre las 8 muestras latinas; `fotogramas.py --cortes` sobre
+  los dos tráileres de Dailymotion, con 6 fotogramas en grande.
+- Wikipedia por `action=parse`: temporada 2 (eps. 37 y 46).
+- WebSearch (15 de ~50), entre ellas: «ANMTV Mushoku Tensei doblaje latino
+  reparto Rubén Quezada», «"Effy Estrada" Roxy», «"Rose Mendoza" Eris»,
+  «"Denisse Leguizamo" directora», «"Dayana Trujillo" OR "Dayana
+  Santiaguillo" Elinalise», «Paul dies reddit reaction», «anxiety
+  depression realistic portrayal», «Crunchyroll Anime Awards nomination
+  sales», «fan dub español latino youtube», «opening español latino
+  cover», «tiktok meme español latino parodia», «Fitz reveal reunion
+  crying».
+
+### Texto, juegos y técnica (inglés, japonés)
+- Wiki: Seven Great Powers, Asura Kingdom, Greyrat Family, Adventure
+  Guild, Classes, Magic, Six-Faced World, Races, Human-Demon Wars, Gods,
+  Story Arcs, Timeline, Magic Spells, Migurd, Laplace Factor, Superd,
+  Mobile Game.
+- `estilo.py` 4 veces (captura de Steam, caja de diálogo, portada del
+  manga, mural). fontTools sobre 8 letras de Google Fonts (bajadas de
+  fonts.gstatic.com): Luckiest Guy, Cinzel, IM Fell English, Special
+  Elite, MedievalSharp, Uncial Antiqua, Metal Mania, Pirata One.
+- WebSearch (9): «anime logo font typeface» (en), «Studio Bind art style
+  making of interview» (en), «無職転生 アニメ 美術監督 背景 インタビュー 制作»
+  (ja), «cel shading toon shader» (en), «無職転生 アニメ 美術 CLIP STUDIO
+  OR Photoshop OR SAI 三宅昌和» (ja), «Rifujin na Magonote interview
+  influences» (en).
+- WebFetch: Wikipedia, Real Sound, dafont, Wikimedia Commons, Anime
+  Corner, Animated Times.
+- Bloqueados, dos intentos cada uno: Anime News Network (403), ddnavi.com
+  (403, también por Wayback), Seven Seas (403),
+  [TV Tropes](https://tvtropes.org) y [TCRF](https://tcrf.net)
+  (Cloudflare), GitHub raw (403).
+
+### Redactor
+- Leyó las cuatro partes, `episodios.md`, los `datos-*.md` que hacían
+  falta y miró las 3 hojas con Read. No hizo búsquedas nuevas.
+
+### Lo que NO se encontró
+Está en §28 y en la tabla de arriba.
