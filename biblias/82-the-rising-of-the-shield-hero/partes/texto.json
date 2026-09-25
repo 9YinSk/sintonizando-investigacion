@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_5771c91618589a4bce8c2147bd8ffdd6d057583e.1920x1080.jpg?t=1654506120",
+    "fuente": "Steam (store.steampowered.com, appid 1146100, The Rising of the Shield Hero: Relive The Animation)",
+    "ancho": 816,
+    "alto": 624,
+    "que_es": "Captura oficial de la pantalla de título del videojuego: logo rojo con textura de goteo y menú New Game/Continue/Options",
+    "para_que": "Referencia real de tipografía de logo (medí el rojo ~#a3182a) y de caja de menú oscura con borde",
+    "licencia": "Captura de producto oficial en la ficha pública de Steam; uso como referencia editorial, no para redistribuir el juego"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_ffac4916f520baefc2ebdff65c9f9d6c7ae2834e.1920x1080.jpg?t=1654506120",
+    "fuente": "Steam (store.steampowered.com, appid 1146100)",
+    "ancho": 815,
+    "alto": 624,
+    "que_es": "Captura oficial de la interfaz de batalla por turnos (barras HP/MP/SP, iconos Seize/Protect/Skills/Spells/Equipment/Items)",
+    "para_que": "Referencia de videojuego (punto 11) y de interfaz para IA de imagen/lámina tipo ficha de personaje",
+    "licencia": "Captura de producto oficial en la ficha pública de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_3db7a21cefe8a25bfe86cf7841e72866ca884634.1920x1080.jpg?t=1654506120",
+    "fuente": "Steam (store.steampowered.com, appid 1146100)",
+    "ancho": 815,
+    "alto": 625,
+    "que_es": "Captura oficial del cuadro de diálogo del juego: panel verde-azulado oscuro (#3c5051 medido), pestaña de nombre rosa, retrato circular",
+    "para_que": "Referencia directa de 'cómo habla' la serie en pantalla (punto 6), evita la burbuja blanca genérica",
+    "licencia": "Captura de producto oficial en la ficha pública de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_beb25e2dadf8a6d975f4bb734fca4655cd78ec26.1920x1080.jpg?t=1654506120",
+    "fuente": "Steam (store.steampowered.com, appid 1146100)",
+    "ancho": 815,
+    "alto": 624,
+    "que_es": "Captura oficial del menú de estadísticas por personaje (tarjetas teal con nivel, HP, MP)",
+    "para_que": "Referencia de interfaz de juego y color de fondo teal oscuro (#041c1c medido) para paneles de la lámina",
+    "licencia": "Captura de producto oficial en la ficha pública de Steam"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/e8/007.png/revision/latest?cb=20150628095837",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 007.png)",
+    "ancho": 1600,
+    "alto": 2276,
+    "que_es": "Página/portada oficial de manga con Raphtalia y su katana, línea limpia y fondo con trama degradada",
+    "para_que": "Referencia de línea y sombreado de manga a replicar en Photoshop (punto 18)",
+    "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo, no para redistribuir"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/1/18/006.png/revision/latest?cb=20150625103122",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 006.png)",
+    "ancho": 1600,
+    "alto": 2276,
+    "que_es": "Portada de manga con Naofumi y grupo en batalla, líneas de efecto tipo llama/pluma",
+    "para_que": "Referencia de composición en pirámide y efectos de magia dibujados (punto 18)",
+    "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/d/d2/009.png/revision/latest?cb=20150628100342",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 009.png)",
+    "ancho": 1600,
+    "alto": 2276,
+    "que_es": "Portada de manga con grupo de personajes en shock, líneas de choque marcadas detrás de las caras",
+    "para_que": "Referencia de líneas de choque para escenas de sorpresa (punto 18)",
+    "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo"
+  },
+  {
+    "url": "https://webnewtype.com/report/staff/185671.html",
+    "fuente": "WebNewtype (entrevista en japonés al director Takao Abo y al diseñador de personajes Masahiro Suwa)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista oficial de prensa especializada sobre el diseño de personajes de la serie",
+    "para_que": "Cita textual de la filosofía de línea y sombreado ('reducir líneas manteniendo la sensación de detalle') para el punto 18",
+    "licencia": "Artículo periodístico; no es imagen, sólo texto citado con enlace"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Eater",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente tipográfica gratuita 'Eater' (estilo goteo/sangre), comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+    "para_que": "Letra libre equivalente al logo de la serie (punto 5), para el título del canal",
+    "licencia": "SIL Open Font License (OFL), uso comercial libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/M+PLUS+Rounded+1c",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente tipográfica gratuita redondeada de estilo japonés-gaming, comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+    "para_que": "Letra libre equivalente a la interfaz de los videojuegos oficiales (punto 5 y 11)",
+    "licencia": "SIL Open Font License (OFL), uso comercial libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente tipográfica gratuita serif monumental, comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+    "para_que": "Letra libre para carteles del mundo (reino de Melromarc, letreros medievales) (punto 5)",
+    "licencia": "SIL Open Font License (OFL), uso comercial libre"
+  },
+  {
+    "url": "https://store.steampowered.com/app/1146100/The_Rising_of_the_Shield_Hero__Relive_The_Animation/",
+    "fuente": "Steam (ficha del producto)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial del videojuego RPG 'Relive The Animation', con descripción del sistema de batalla defensivo",
+    "para_que": "Fuente del punto 11 (videojuegos de la franquicia)",
+    "licencia": "Página pública de producto; texto citado como fuente, no redistribuido"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=jp.shieldhero.game",
+    "fuente": "Google Play",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial del RPG idle móvil 'Shield Hero RERISE'",
+    "para_que": "Fuente del punto 11 (videojuegos de la franquicia)",
+    "licencia": "Página pública de producto"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_The_Rising_of_the_Shield_Hero_episodes",
+    "fuente": "Wikipedia en inglés",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Lista de episodios con fechas y directores por temporada",
+    "para_que": "Estructura de arcos por temporada para el punto 25 (historia por arcos)",
+    "licencia": "CC BY-SA (Wikipedia); texto citado, no imagen"
+  },
+  {
+    "url": "https://shield-hero.fandom.com/wiki/Melromarc",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del reino de Melromarc: sistema matriarcal, religión, esclavitud de demihumanos",
+    "para_que": "Reglas del mundo para el punto 25",
+    "licencia": "CC BY-SA (Fandom); texto citado"
+  },
+  {
+    "url": "https://shield-hero.fandom.com/wiki/Legendary_Weapons",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de las cuatro Armas Legendarias y su origen en las Waves of Calamity",
+    "para_que": "Símbolos y vocabulario del mundo para el punto 25",
+    "licencia": "CC BY-SA (Fandom); texto citado"
+  },
+  {
+    "url": "https://shield-hero.fandom.com/wiki/The_Church_of_the_Three_Heroes",
+    "fuente": "Wiki de Fandom shield-hero.fandom.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la antigua religión que estigmatiza al Héroe del Escudo como demonio",
+    "para_que": "Símbolo/conflicto central del mundo para el punto 25",
+    "licencia": "CC BY-SA (Fandom); texto citado"
+  }
+]
