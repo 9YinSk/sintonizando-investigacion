@@ -36,6 +36,38 @@ Cuenta: cuenta R49
 - 98 El viaje de Chihiro: **COMPLETA y subida**. `revisar.py`: ✅23 ⚠️16 ❌0, 1047 líneas, 230 referencias
   (56 webs distintas, 137 minutos, 114 hex medidos). El redactor siguió desde el punto 24 sin reescribir
   lo anterior. Redactor de 99 lanzado en cuanto se liberó el hueco.
+- 100 La princesa Mononoke: las 4 partes listas, sin `Sigue:` obligatorio. Corrigió otro error del
+  recolector automático: `datos-voz.md` traía el reparto de la SERIE de 2007 «Mononoke», no de la
+  película (tres doblajes latinos reales: Buena Vista/Miramax 2001, Zima 2010, Wild Bunch-Netflix 2020).
+  Redactor en cola para cuando se libere un hueco.
+- 101 Your Name: 4 investigadores (Sonnet) lanzados a la vez con el redactor de 99 (5 agentes vivos);
+  avisado el de voz para revisar con cuidado el reparto del recolector (van dos series con el error).
+- Segundo límite de uso (~13:20 UTC, reset 17:50): se cortaron los 5. El dueño pidió no relanzar.
+- 99 El Castillo Ambulante: el redactor llegó a cerrar la biblia antes del corte. `revisar.py`: **COMPLETA**
+  (✅27 ⚠️12 ❌0, 993 líneas, 62 webs, 251 minutos, 98 hex). Subida.
+
+### Para quien siga (paso a la compu del dueño con MWAPI, 25-sep 19:20 UTC)
+
+El dueño compró saldo en MWAPI; el lote G sigue desde su compu (`LOCAL.md`), rama `claude/lote-g-local`.
+La nube (sesión optimistic-turing) queda parada, sin agentes ni guardado automático.
+- 97, 98, 99: COMPLETAS y subidas.
+- 100 La princesa Mononoke: las 4 partes listas, sin `Sigue:` obligatorio → **lanzar su redactor**.
+- 101 Your Name: cortado. Sólo quedó `partes/voz.md` a medias (204 líneas): relanzar voz para que siga
+  desde ahí, e imagen, video y texto desde cero.
+- 102 El estilo Ghibli en general: datos de la cuenta anterior (no volver a recolectar sin `--nombres` y
+  `--wiki`). 103 Hazbin Hotel y Helluva Boss: datos recolectados.
+- Ojo con `datos-voz.md`: en 99 y 100 el recolector trajo el reparto de otra obra con nombre parecido.
+
+### Comprobación de modelos (compu del dueño, MWAPI, 25-sep 2026)
+
+`GET /v1/models` devuelve 7 modelos: `claude-haiku-4-5-20251001`, `claude-opus-4-6`,
+`claude-opus-4-7`, `claude-opus-4-8`, `claude-opus-5`, `claude-sonnet-4-6`, `claude-sonnet-5`.
+Los 4 con «opus» en el nombre respondieron a la petición mínima y cada uno ecoó su propio
+nombre en el campo `model`. Como advierte LOCAL.md, esto es sólo comprobación de nombres
+(el revendedor pone lo que quiera), no garantía real. Elegí `claude-opus-5` (el de nombre más
+alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
+`ANTHROPIC_DEFAULT_OPUS_MODEL` y reabra `claude --continue`. La prueba real sigue siendo
+`revisar.py` dando COMPLETA.
 
 ## Avisos para el dueño
 
@@ -67,3 +99,9 @@ Cuenta: cuenta R49
 | 99 | video | Sonnet | 20 | 203 mil |
 | 99 | voz | Sonnet | 21 | 238 mil |
 | 98 | redactor (2 tandas: rate limit) | Opus | 10 | 219 mil |
+| 100 | imagen | Sonnet | 13 | 221 mil |
+| 100 | video | Sonnet | 14 | 216 mil |
+| 100 | texto | Sonnet | 16 | 237 mil |
+| 100 | voz | Sonnet | 20 | 289 mil |
+| 99 | redactor (cortado al cerrar) | Opus | ? | ? (sin aviso de fin) |
+| 101 | 4 investigadores (cortados) | Sonnet | ? | ? (sin aviso de fin) |

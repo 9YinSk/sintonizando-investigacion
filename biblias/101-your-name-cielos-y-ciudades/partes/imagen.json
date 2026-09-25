@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
+    "fuente": "AniList (id 21519, el correcto — no el 97962 de datos-imagen.md, que es un especial de Suntory)",
+    "ancho": 460,
+    "alto": 690,
+    "que_es": "Portada oficial (key visual): Mitsuha y Taki de espaldas viendo el cometa Tiamat partirse sobre Tokio al atardecer",
+    "para_que": "arte oficial principal, referencia de composición y paleta de cielo",
+    "licencia": "cortesía promocional del estudio, vía AniList; sólo como referencia, no para redistribuir"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21519-1ayMXgNlmByb.jpg",
+    "fuente": "AniList (id 21519)",
+    "ancho": 1900,
+    "alto": 400,
+    "que_es": "Recorte panorámico del mismo key visual del cometa",
+    "para_que": "paleta de atardecer (crema-rosado-violeta) para fondos de lámina",
+    "licencia": "cortesía promocional del estudio, vía AniList; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/3/3b/Your_Name.jpg/revision/latest?cb=20240213023736&path-prefix=es",
+    "fuente": "Doblaje Wiki (https://doblaje.fandom.com/es/wiki/Your_Name)",
+    "ancho": 2000,
+    "alto": 3000,
+    "que_es": "Póster oficial de la edición latina (mismo key visual del cometa, con logo y créditos en español)",
+    "para_que": "referencia de tipografía del logo latino y arte oficial en alta resolución",
+    "licencia": "cortesía promocional de distribución latina; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/d/de/Itomori_High_MaleUni.png/revision/latest?cb=20260207105001",
+    "fuente": "Fandom kiminonawa.fandom.com (wiki de la serie, API imageinfo)",
+    "ancho": 1432,
+    "alto": 2160,
+    "que_es": "Hoja de modelo oficial del uniforme masculino de Itomori High (frente y espalda), el vestuario icónico de Taki",
+    "para_que": "vestuario icónico, colores medidos (azul acero #40728B, corbata #8CA39B)",
+    "licencia": "material de producción/wiki de fans; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/4/4f/Itomori_High_FemaleUni.png/revision/latest?cb=20260207105027",
+    "fuente": "Fandom kiminonawa.fandom.com",
+    "ancho": 1150,
+    "alto": 1990,
+    "que_es": "Hoja de modelo oficial del uniforme femenino de Itomori High, el vestuario icónico de Mitsuha",
+    "para_que": "vestuario icónico, mismo azul acero #40728B confirmado en las dos hojas",
+    "licencia": "material de producción/wiki de fans; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/2/29/Miyamizu_Gohei.jpg/revision/latest?cb=20260115122926",
+    "fuente": "Fandom kiminonawa.fandom.com",
+    "ancho": 1280,
+    "alto": 697,
+    "que_es": "Fotograma del ritual sintoísta familiar: kimono blanco de miko (hakui) y gohei ceremonial de papel",
+    "para_que": "vestuario ceremonial de las sacerdotisas Miyamizu",
+    "licencia": "fotograma de la película; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/9/98/Miyamizu_Headdress.jpg/revision/latest?cb=20260115122926",
+    "fuente": "Fandom kiminonawa.fandom.com",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del tocado ceremonial de las sacerdotisas Miyamizu",
+    "para_que": "vestuario ceremonial, detalle de tocado",
+    "licencia": "fotograma de la película; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png/revision/latest?cb=20181114193828",
+    "fuente": "Fandom kiminonawa.fandom.com (wiki, página Mitsuha Miyamizu)",
+    "ancho": 2640,
+    "alto": 2160,
+    "que_es": "Retrato de Mitsuha con luz de día neutra, cordón kumihimo rojo visible con claridad",
+    "para_que": "medir el hex real del cordón kumihimo (#A55849, rojo terracota apagado)",
+    "licencia": "material de producción/wiki de fans; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png/revision/latest?cb=20240307211813",
+    "fuente": "Fandom kiminonawa.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de la escena de Kataware-doki (atardecer, la escena más citada por el fandom)",
+    "para_que": "referencia de pose y luz para escena emotiva de lámina",
+    "licencia": "fotograma de la película; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kiminonawa/images/0/0f/Mitsuha_comet.png/revision/latest?cb=20181117142036",
+    "fuente": "Fandom kiminonawa.fandom.com",
+    "ancho": 1279,
+    "alto": 687,
+    "que_es": "Fotograma de Mitsuha mirando el cometa Tiamat",
+    "para_que": "referencia de pose de personaje mirando el cielo/cometa",
+    "licencia": "fotograma de la película; sólo como referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/8o/wallhaven-8oy372.jpg",
+    "fuente": "Wallhaven (https://wallhaven.cc/w/8oy372)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla de fans: cielo estrellado nocturno sobre el pueblo de Itomori",
+    "para_que": "paleta de noche medida (#283B50, #4C6C92, #19232A) para la 'luz de Shinkai'",
+    "licencia": "fan art, sin autor declarado en Wallhaven; sólo como referencia de estilo, nunca para pegar"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c64d94871bc541a0a5b11d98b787b82e",
+    "fuente": "Sketchfab (API search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de torii gate (puerta de santuario sintoísta), genérico",
+    "para_que": "referencia 3D descargable para el santuario de Itomori o Suga Shrine",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e12d2fa1b2b94928b8b87cb7787e2462",
+    "fuente": "Sketchfab (API search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de torii gate, estilo asset de videojuego",
+    "para_que": "alternativa 3D descargable para el santuario",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-cb74e1c1c6a64e7491e4e94ddb9acbbc",
+    "fuente": "Sketchfab (API search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Par de figuras guardianas (Zuishin) de museo, escaneo 3D",
+    "para_que": "decoración de santuario con licencia más permisiva",
+    "licencia": "CC0 Public Domain"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-6cbd6ce6354f44a4b6517e8176d8741b",
+    "fuente": "Sketchfab (API search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de estación de tren estilo japonés (Nazo no eki)",
+    "para_que": "referencia 3D para las escenas de estación de Tokio (Yotsuya, Shinjuku)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-19a605237de941edbd9fe829ca0cfedf",
+    "fuente": "Sketchfab (API search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D animado de torniquete de estación japonesa",
+    "para_que": "detalle de estación de tren para escenas urbanas",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://ambientcg.com/get?file=Paper001_1K-JPG.zip",
+    "fuente": "ambientCG (API full_json, type=Material)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura de papel realista",
+    "para_que": "textura de las notas/cuaderno que se escriben Taki y Mitsuha",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/get?file=Wood051_1K-JPG.zip",
+    "fuente": "ambientCG (API full_json, type=Material)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura de madera realista",
+    "para_que": "interiores de Itomori/casa de Taki en Tokio",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://safebooru.org/images/2646/ccd0c12e610fb75a070eb0391296fd19e6973414.jpg",
+    "fuente": "Safebooru (ya listado en datos-imagen.md, origen Pixiv 63465513)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fan art de Taki y Mitsuha juntos, el más votado con ambas etiquetas",
+    "para_que": "referencia de estilo de color de fans (nunca para pegar)",
+    "licencia": "derechos del autor de Pixiv; sólo como referencia, no redistribuible"
+  },
+  {
+    "url": "https://live.staticflickr.com/5795/31429921955_847ef8c692_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 727,
+    "alto": 1024,
+    "que_es": "Foto de arte de fans de Kimi no Na wa expuesto en una convención",
+    "para_que": "referencia de cómo se expone el fan art de la serie en eventos",
+    "licencia": "CC BY-NC-ND"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+    "fuente": "Clip Studio Assets",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack gratuito de tramas de manga (screentones) para Clip Studio Paint",
+    "para_que": "texturas 2D de trama para ilustración estilo manga",
+    "licencia": "gratuito con cuenta de Clip Studio (uso libre declarado por la plataforma)"
+  }
+]
