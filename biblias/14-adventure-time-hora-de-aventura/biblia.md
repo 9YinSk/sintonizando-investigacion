@@ -85,7 +85,7 @@ fecha: 2026-09-24
 **Añadido:**
 
 - **3 hojas de contacto** en `hojas/` (miradas) y la sección que dice qué
-  sirve de cada una (§3.6).
+  sirve de cada una (§3.8).
 - **6 frases textuales del doblaje latino**, de audios oficiales de Doblaje
   Wiki pasados por Whisper, con el tono medido de cada voz (§10).
 - **12 poses de Marceline** vistas en vídeo, con minuto (§15) y **una cara
@@ -373,6 +373,27 @@ Cartoon Network HD, con audio francés, 1:58
 - Glassboy es **fan** de Marceline: tiene **una muñeca suya**. Simón le
   dice: «big Marcy fan, huh?».
 
+**Visto en vídeo (segunda pasada)** ✅: tráiler oficial de «Obsidian»,
+1:30, 1920×1080, termina con el logo de HBO Max (1:28)
+([Dailymotion](https://www.dailymotion.com/video/x7xejon)):
+
+- **0:16**: Marceline y la Princesa en la **cocina** (piso turquesa,
+  gabinetes verdes), **cada una con una taza humeante**. Confirma la
+  escena de ≈4:41.
+- **0:20**: Marceline, en camiseta gris, **toca el bajo sentada** mientras
+  la Princesa cocina detrás.
+- **0:36**: **flota tocando el bajo sobre un camino de piedra** hacia el
+  Reino de Cristal, con picos morados y una torre al fondo
+  ([0:36](https://www.dailymotion.com/video/x7xejon?t=36)).
+- **0:44-1:00**: se vuelve **monstruo alado gigante de ojos rojos** y
+  pelea; luego vuelve a flotar tocando entre cristales morados y turquesa.
+- **1:08**: **bajo al hombro**, de pie junto a la Princesa y dos figuras
+  de cristal, luz cálida de atardecer.
+- **1:12**: las dos **en una motocicleta** entrando en la ciudad de
+  cristal.
+- **1:24**: primer plano de Marceline con **cara de susto**, fondo oscuro
+  estrellado.
+
 ### 2.7 El estreno con que termina la serie (10×13 «Come Along With Me», latino «¡Ven conmigo!») ✅
 
 - **≈35:55**: BMO canta «**Time Adventure**» con Jake en brazos: «You
@@ -406,14 +427,36 @@ Cartoon Network HD, con audio francés, 1:58
 > Para la lámina: Marceline ya era **una artista con conciertos
 > anunciados** desde la temporada 1.
 
+⚠️ «Henchman» (§2.8), el concierto del Anfiteatro Fantasma (§2.5) y
+«Marceline's Closet» (§2.2) **no tienen clip** en Dailymotion (se buscaron
+por canción y por escena). Sus minutos siguen estimados por transcripción.
+
+### 2.9 El opening y los créditos, vistos enteros (segunda pasada) ✅
+
+- **Opening doblado al latino** (29 s, 1920×1080,
+  [Dailymotion, Espinof](https://www.dailymotion.com/video/x8p2dsj)):
+  **0:00** laguna helada con montañas; castillo del Dulce Reino con
+  personajes; valle verde; la casa del árbol por dentro con Finn, Jake y
+  un perrito caliente gigante; Jake tocándose las orejas; Finn y Jake
+  corriendo por una cresta bajo nubes de tormenta; y al final el logo
+  «ADVENTURE TIME — Created by Pendleton Ward».
+- **Créditos en inglés** (33 s, 1280×720,
+  [Dailymotion](https://www.dailymotion.com/video/x4fakxm)): fondo **verde
+  lima plano** con abejas y mariposas animadas, nombres reales del staff
+  («Supervising Director Larry Leichliter», «Lead Character & Prop
+  Designer Phil Rynda», «Character & Prop Designers Natasha Allegri, Tom
+  Herpich»…) y, al final, los logos de **Frederator Studios** y
+  **Cartoon Network Studios**.
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Sin imágenes descargadas
-> Todas las webs de imágenes estaban cerradas. Aquí van **las piezas que
-> existen y dónde están**. Antes de dibujar, hay que abrirlas desde un PC
-> con red normal y guardarlas en `referencias/hora-de-aventura/`.
+> [!note] Segunda pasada: ahora sí hay imágenes vistas
+> La primera pasada no pudo abrir ninguna imagen. Ahora hay **model sheets
+> de producción** y **concept art** vistos y medidos (§3.7) y **3 hojas de
+> contacto** en `hojas/` (§3.8). El resto de esta sección sigue valiendo
+> como lista de piezas oficiales y dónde están.
 
 ### 3.1 Libros de arte oficiales
 
@@ -475,20 +518,22 @@ Blender: **funda, galleta, color del vinilo, librito**.
 | **Distant Lands – Obsidian** (iam8bit / WaterTower) | **Doble LP**, 32 canciones | Vinilo **«Glassboy Blue»**. Arte de **Maya Petersen**. **La letra de «Monster» va grabada en la cara 4** del disco, diseñada por Half Shy | [iam8bit](https://www.iam8bit.com/products/adventure-time-distant-lands-obsidian-original-soundtrack-2xlp), [Plastic Stone](https://plasticstone.net/products/amanda-jones-adventure-time-distant-lands-obsidian-original-soundtrack-2xlp-glassboy-blue-vinyl), [WaterTower](https://www.watertower-music.com/release/adventure-time-distant-lands-obsidian-original-soundtrack-deluxe-edition/) |
 | **BMO's Mixtape (Gilligan Moss Mix)** (iam8bit) | LP de **11 remezclas** («Robot Cowboy», «Bacon Pancakes», «Eternity With You»…) | Vinilo **«Groovy Cosmic Splatter»** (salpicado), funda con **barniz brillante en zonas**. Arte nuevo de **Jesse Balmer**, **con BMO** | [iam8bit](https://www.iam8bit.com/products/adventure-time-distant-lands-bmos-mixtape-gilligan-moss-mix-vinyl-soundtrack), [Gamers Heroes](https://www.gamersheroes.com/gaming-news/iam8bit-adventure-time-distant-lands-vinyl-and-cd-soundtracks-pre-orders-live/) |
 | **Monster** (single) | **Single digital** con **King Princess** | Portada: sin ver ⚠️ | [Spotify](https://open.spotify.com/album/1F9JG1CnaKLmYqsDHdOxey), [Bleeding Cool](https://bleedingcool.com/tv/adventure-time-distant-lands-obsidian-king-princess-sings-monster/) |
-| **Marceline Canta: Timeless Songs (Versión en español)** | **Disco oficial en español** con **10 canciones de Marceline** | Hay también **versión en portugués**. La wiki dice **2019** ⚠️ (el número de Apple Music apunta más bien a 2020) | [Spotify](https://open.spotify.com/album/6x28Z0ItbmOHSpPUtExumt), [Deezer](https://www.deezer.com/us/album/153622342), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_Canta:_Timeless_Songs), [Apple Music](https://music.apple.com/us/album/marceline-canta-timeless-songs/1515397280) |
+| **Marceline Canta: Timeless Songs (Versión en español)** | **Disco oficial en español** con **10 canciones de Marceline** | Hay también **versión en portugués**. Fecha: **25 de octubre de 2019** ✅ (MusicBrainz y la wiki dicen 2019) | [Spotify](https://open.spotify.com/album/6x28Z0ItbmOHSpPUtExumt), [Deezer](https://www.deezer.com/us/album/153622342), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_Canta:_Timeless_Songs), [Apple Music](https://music.apple.com/us/album/marceline-canta-timeless-songs/1515397280), [MusicBrainz](https://musicbrainz.org/release-group/1f39e3d6-9a3b-4838-bae0-3e59b37e69eb) |
 
-**Lista del disco en español** (según la wiki; el episodio va entre
-paréntesis tal como lo da) ⚠️:
-1. ¿Qué soy para ti? («Lo que estaba perdido»)
-2. Soy tu problema («Lo que estaba perdido»)
-3. Pequeña mujer («Muchachito malo»)
-4. Recordándote («Te recuerdo»)
-5. Ya no lo puedo soportar / Siento fuego dentro de mí («Incendio»)
-6. Canción de las papas («Llegó de la Nocheósfera»)
-7. Todo se queda («Todo se queda / La nube oscura»)
-8. Cadena alimenticia («Cadena alimenticia»)
-9. Siempre entonces se podrá volver («¡Ven conmigo!»)
-10. Acompáñame («¡Ven conmigo!»)
+**Lista del disco en español**, con el título y la duración que da
+MusicBrainz (segunda pasada) y, entre paréntesis, el episodio según la
+wiki ✅:
+1. «¿Qué soy para ti?» 2:41 («Lo que estaba perdido»)
+2. «Soy tu problema» 2:00 («Lo que estaba perdido»)
+3. «Niño malvado» 1:54 («Muchachito malo»). La wiki lo llamaba «Pequeña
+   mujer» ⚠️: vale el de MusicBrainz, que es el de la ficha del disco.
+4. «Recordándote» 2:19 («Te recuerdo»)
+5. «Ya no lo puedo soportar / Hay un fuego dentro de mí» 1:29 («Incendio»)
+6. «Papi, te comiste mis papas» 1:43 («Llegó de la Nocheósfera»)
+7. «Todo se queda» 2:26 («Todo se queda / La nube oscura»)
+8. «Cadena alimenticia» 1:32 («Cadena alimenticia»)
+9. «Siempre entonces se podrá volver» 2:10 («¡Ven conmigo!»)
+10. «Acompáñame» 1:49 («¡Ven conmigo!»): es «Come Along With Me».
 
 > **Idea fuerte**: los tres formatos del canal existen en la franquicia.
 > **Disco** = el LP de 12". **Single** = «Monster». **EP** = el 10" de
@@ -534,23 +579,124 @@ paréntesis tal como lo da) ⚠️:
 - En España los cómics se editaron como «Hora de Aventuras», con tomos
   como la «**Edición Matemática**» ✅ ([Amazon.es](https://www.amazon.es/HORA-AVENTURAS-EDICION-MATEMATICA-COLECCION/dp/8467918675)).
 
+### 3.7 Model sheets y concept art de producción (vistos, segunda pasada) ✅
+
+Todos con el sello **© Cartoon Network Studios** y su ficha de producción
+(episodio, id). Tamaños medidos con la API de la wiki.
+
+- **«Marceline In New Outfit Playing Axe Bass — Special Pose A a F»**,
+  episodio de producción **062**, ids `C062s074_203` a `C062s089_218`.
+  **Seis poses oficiales tocando el bajo**, con el **sombrero de sol
+  mostaza**, vestido rojo y botas marrones: es el traje de «What Was
+  Missing» (3×10), el mismo que se ve en el clip de §2.3. Las miré:
+  - **A**: de pie sobre una cuesta, bajo cruzado, un pie adelantado
+    ([1024×608](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/4/45/Modelsheet_marceline_innewoutfit_playingaxebass_-_specialposea.jpg)).
+  - **B**: echada hacia atrás, **ojos cerrados, boca abierta cantando**,
+    pierna levantada ([1024×608](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d6/Modelsheet_marceline_innewoutfit_playinaxebass_-_specialposeb.jpg)).
+  - **C**: doblada hacia atrás casi bocabajo, el bajo en alto
+    ([1024×608](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0c/Modelsheet_marceline_innewoutfit_playingaxebass_-_specialposec.jpg)).
+  - **D y E**: **sentada en el aire**, flotando, bajo vertical, en línea
+    sin color ([D](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/59/Modelsheet_marceline_innewoutfit_playingaxebass_-_specialposed.jpg),
+    [E](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/13/Modelsheet_marceline_innewoutfit_playingaxebase_-_specialposee.jpg)).
+  - **F**: primer plano, cabeza ladeada bajo el ala del sombrero,
+    **cantando con la boca muy abierta**
+    ([1024×608](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/7b/Modelsheet_marceline_innewoutfit_playingaxebass_-_specialposef.jpg)).
+- **«Marceline — New Costume #1»**, ep. **057**, id `C057s011_472`: de
+  frente y de espaldas, **vestido camisero azul grisáceo** y **zapatos
+  granate**
+  ([4079×2421](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/34/Modelsheet_Marceline_-_New_Costume_-1.png)).
+  Hex medidos en §16.
+- **«Marceline Stock Night»**: vuelta de caminata en 4 poses, en gris de
+  construcción, para proporciones
+  ([5100×3300](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0b/Modelsheet_marceline_stocknight.jpg)).
+- **«Marceline Bat» 1 y 2**: bocetos a lápiz de su forma de murciélago,
+  firmados «Bat Marceline Rough — Phil»
+  ([3600×3000](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9b/Modelsheet-MarcelineBat1.jpg)).
+- **«Modelsheet axbass withrims»**: **el bajo-hacha solo**, en rojo, con
+  sus llantas marcadas
+  ([4104×2454](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/58/Modelsheet_axbass_withrims.png)).
+  La mejor referencia para modelarlo.
+- **«Original Finn»** y **«Jakesalad»**: model sheets a color de Finn y
+  Jake ([1467×2385](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png),
+  [1700×2455](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3b/Jakesalad.png)).
+- **Bocetos de vestuario de Tom Herpich** para el final («Come Along with
+  Me original costume sketches for Marceline», 1280×1673) y
+  «Modelsheet princessbubblegumtiedup» (1478×1494).
+- **Concept art de «Obsidian»** (galería `Obsidian-concept-1` a `-15`,
+  subida el 30-ene-2021): el **9** son bocetos a lápiz rojo de los
+  «Shards» del Reino de Cristal
+  ([1002×810](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9e/Obsidian-concept-9.png));
+  el **1**, la montaña-criatura de tinta negra
+  ([1280×989](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/38/Obsidian-concept-1.png)).
+- **Logo oficial**: [1069×519](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/thumb/b/bd/Adventure_Time_logo.png).
+
+### 3.8 Las hojas de contacto (en `hojas/`) ✅
+
+`investigar_serie.py` sobre la wiki inglesa (páginas Marceline Abadeer,
+Finn the Human, Jake the Dog, Princess Bubblegum, Ax Bass y BMO) juntó
+**1188 imágenes** en 13 hojas. Hay 3 en `hojas/`. Los números son los de
+cada hoja; el nombre del archivo va debajo de cada miniatura.
+
+**`personajes_01.jpg`** (1-48): lo mejor para **vestuario y producción**.
+- **1** «Stock Night», **2-4** Marceline murciélago, **5** el bajo-hacha
+  con llantas, **9-14** «New Costume» 1 a 3 (varios trajes de día),
+  **15** Marceline gritando (pose especial, ojos rojos), **17** Marceline
+  adolescente, **18** Marceline niña, **20** el traje con **sombrero de
+  sol**.
+- **25** «S2e1 Drama bomb» (suéter a rayas, noche), **35** Simon y Marcy
+  en moto (5×14), **36** «**S7e7 Marceline playing ax bass**»: de pie en
+  un huerto, **tocando de verdad**, 2880×1620. **La mejor pose con su
+  instrumento.**
+- **43** la Dulce Princesa con cinta adhesiva, **45** Jake, **48** Finn
+  (model sheets a color).
+
+**`personajes_02.jpg`** (49-96): lo mejor para **la Dulce Princesa**.
+- **49** el bajo-hacha solo sobre verde, **51** «Marceline Presentation»
+  (de cuerpo entero, fondo blanco), **62** BMO transformándose, **64**
+  Marceline con ropa informal (model sheet).
+- **67-96**: capturas de 1920×1200 de la Dulce Princesa en muchos trajes
+  (capa roja de «Stakes», bata de laboratorio, vestido de fiesta, en la
+  playa con Finn y Marceline con su paraguas, **94**).
+
+**`escenas_09.jpg`** (385-432): lo mejor para **Marceline y Simon** y para
+las escenas que hacen llorar.
+- **385** Marceline presenta a sus fantasmas en su **casa rosa** (2×26),
+  **386** asusta a Finn y Jake en el **sofá rojo**.
+- **391-393** «What Was Missing» (3×10): con la Princesa y el sombrero de
+  sol, y **393 cantando sobre la puerta dorada**
+  ([1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d3/S3e10_Marceline_singing.png)).
+- **396-408** «I Remember You» (4×25): **396** tocando con el Rey Helado
+  en la batería, **403** Marceline con el **omnichord**
+  ([1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/8/80/S4e25_Marceline_playing_Omnichord.png)),
+  **404** **la lágrima**
+  ([1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/2/2f/S4e25_Marceline_shedding_a_tear.png)),
+  **407** Marcy niña sin Hambo y **408** **la nota de Simon escrita a
+  mano** («Marceline, is it just you & me in the wreckage of the
+  world?…»)
+  ([1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d2/S4e25_Simon%27s_note_to_Marcy.png)).
+  **Es el papel con letra que pide el concepto B.**
+- **417-424** «Simon & Marcy» (5×14): baloncesto, en el puente, viendo
+  una película con Simon; **423** llorando con Hambo (5×29).
+- **425-431** capturas de 5×38 con Finn, Jake y la Princesa; **432**
+  «Betty» (5×48), Marceline en grupo con Betty, Finn y Jake.
+
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
 ### 4.1 Modelos 3D del bajo-hacha (Sketchfab)
 
-Sketchfab no abría (ni la web ni su API), así que **no pude leer la
-licencia de casi ninguno**. Los que en el título dicen «Download Free»
-son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
-**Comprueba la licencia en la ficha antes de usar.**
+**Segunda pasada**: las licencias se leyeron en la **API de Sketchfab**
+(`api.sketchfab.com/v3/search`), que es quien certifica la licencia. Donde
+dice «API» está comprobado. Los que siguen «sin ver» no traían el campo
+de licencia en esa consulta: **mira su ficha antes de usarlos**.
 
 | Modelo | Autor | Licencia | Nota |
 |---|---|---|---|
-| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-2224d0a363a24ba883614f209761454c) | **Yogensia** | **CC BY-NC-SA 4.0** ✅ (lo dice su ficha, según la búsqueda) | Descargable. Crédito: «Marceline's Ax Bass» by Yogensia, CC BY-NC-SA 4.0. **Sin uso comercial**: vale para el Discord si no se vende nada |
-| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-417178d709774642b0d5b5a02181caa2) | Haxis | descargable, licencia sin ver ⚠️ | |
-| [Low Poly Marceline's Ax Bass](https://sketchfab.com/3d-models/low-poly-marcelines-ax-bass-adventure-time-101d7036f35b411295e6a500c86e952b) | Roberto Cuxil (@cuxilrodas) | descargable, sin ver ⚠️ | **Texturas pintadas en Blender con aspecto de dibujo animado**: la más fiel al estilo |
-| [Marceline's Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-477b56a2db134065947b2c931c52b3aa) | denizin | descargable, sin ver ⚠️ | textura iridiscente (se aleja del estilo plano) |
+| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-2224d0a363a24ba883614f209761454c) | **Yogensia** | **CC BY-NC-SA 4.0** ✅ (ficha y API) | Descargable. Crédito: «Marceline's Ax Bass» by Yogensia, CC BY-NC-SA 4.0. **Sin uso comercial**: vale para el Discord si no se vende nada |
+| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-417178d709774642b0d5b5a02181caa2) | Haxis | **CC BY** ✅ (API) | **El más libre**: permite uso comercial con crédito. Crédito: «Marceline's Ax Bass» by Haxis, CC BY |
+| [Low Poly Marceline's Ax Bass](https://sketchfab.com/3d-models/low-poly-marcelines-ax-bass-adventure-time-101d7036f35b411295e6a500c86e952b) | Roberto Cuxil (@cuxilrodas) | **«Free Standard»**, NO es CC (API) | Texturas pintadas en Blender con aspecto de dibujo animado, la más fiel al estilo, **pero sólo para mirar**: pedir permiso al autor |
+| [Marceline's Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-477b56a2db134065947b2c931c52b3aa) | denizin | **CC BY-NC** ✅ (API) | textura iridiscente (se aleja del estilo plano) |
 | [Marceline axe bass guitar](https://sketchfab.com/3d-models/marceline-axe-bass-guitar-adventure-time-9bc622d77287423391e4e5451c05ca77) | Z3bbz | sin ver ⚠️ | |
 | [Marceline Bass Axe](https://sketchfab.com/3d-models/marceline-bass-axe-b6f6f74eb92f4bbfbcbd2d4d01f3b8df) | Froes | sin ver ⚠️ | 16,5 mil triángulos |
 | [(SGP) Marceline's Bass Axe](https://sketchfab.com/3d-models/sgp-adventure-time-marcelines-bass-axe-6e72178681c44722a0cb5226deff7e8e) | TravisEvashkevich | sin ver ⚠️ | |
@@ -558,6 +704,25 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 | [Marceline's guitar bass](https://sketchfab.com/3d-models/marcelines-guitar-bass-c003bed4b97244d1b705626dd5bb5e69) | Hoho (@hoho03) | sin ver ⚠️ | trae versión alta y baja en polígonos |
 | [Marceline's Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-e111ddfd74f9426dab13a70fce789d44) | 10958533 | sin ver ⚠️ | |
 | [Axe bass – Marceline](https://www.artstation.com/artwork/BmZxOm) (ArtStation) | Victor Cavalcante Vk | sólo para mirar | render 3D |
+| [Marceline`s Bass guitar](https://sketchfab.com/3d-models/none-bac567bac05b46039f0e5510bf0c3062) | coffe0wolf | **CC BY-NC** ✅ (API) | nuevo en la segunda pasada |
+| [Marceline's Axe/Guitar](https://sketchfab.com/3d-models/none-412c96ee288a4bcdb01a7433dff90fa7) | ScoobSter_ | **CC BY** ✅ (API) | nuevo |
+
+### 4.1.b Personajes y sitios en 3D con licencia (API de Sketchfab, segunda pasada) ✅
+
+| Modelo | Autor | Licencia (API) | Para qué |
+|---|---|---|---|
+| [Marceline the vampire queen](https://sketchfab.com/3d-models/none-f520806111dc454ba3455947e51b04de) | coffe0wolf | **CC BY** | Maniquí del cuerpo entero de Marceline: proporciones y volumen |
+| [Finn - (Adventure Time)](https://sketchfab.com/3d-models/finn-adventure-time-309e158598764644a5c6068e0cfdc898) | Agu.3D | **CC BY** | Finn, 64 992 caras, el más completo para posar |
+| [Finn Adventure Time](https://sketchfab.com/3d-models/none-19255b56148247eaa213bff7974304a4) | Nico Caraballo (theniloart) | **CC BY** | Finn ligero (1 548 caras), para pruebas |
+| [Finn - Adventure Time](https://sketchfab.com/3d-models/none-b3c5b1d5e4274eb0ba7f42ea00ed0ad2) · [Finn's Demon Blood Sword](https://sketchfab.com/3d-models/none-7f919633863140a49e6d51a8f0d87aab) | RenataDiFlorio · Haxis | **CC BY** | Finn y su espada |
+| [Jake](https://sketchfab.com/3d-models/jake-6326c036c6f14d09bf0708ca4289d699) · [Jake el Perro Toon](https://sketchfab.com/3d-models/none-6fd2e3f4ef614842add5cec885cec2f2) | Mormont · Luis Angel | **CC BY** | Jake |
+| [Bmo - Adventure Time](https://sketchfab.com/3d-models/none-ffeb3e9ab97e4e3dbed4ddc0650d8b9b) · [Adventure Time BMO](https://sketchfab.com/3d-models/none-57a8b359d2ad41a3bacc41facfc77531) | featbear456978 · ezgibakim | **CC BY** | BMO, para el concepto con su pantalla |
+| **[The Treehouse](https://sketchfab.com/3d-models/none-0131dc63d8894892b0c87dc852f23984)** · [Finn and Jake's Treehouse](https://sketchfab.com/3d-models/none-a390d3c9873c4c219959d0b930aabe52) | gleksono | **CC BY** | **La casa del árbol entera**: un sitio real en 3D, con luz de verdad |
+
+**Recomendación nueva**: el bajo de **Haxis** (CC BY, el más libre) o el de
+**Yogensia** (CC BY-NC-SA, sin vender nada); el cuerpo de **coffe0wolf**
+como maniquí. **Figura de referencia 3D**: el **Funko Pop! #301 de
+Marceline con guitarra** (punto 23).
 
 > Recomendación: usar **el de Yogensia** (licencia conocida) o modelarlo
 > desde cero siguiendo §3.5. Es un objeto sencillo: dos hojas de hacha,
@@ -572,6 +737,12 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 - [Marceline Plays the Bass](https://www.deviantart.com/disneyponyfan/art/Marceline-Plays-the-Bass-924284143), Disneyponyfan.
 - [Marceline Bass](https://www.deviantart.com/minty-kitty-art/art/Marceline-Bass-510877467), Minty-Kitty-Art (se vendió como lámina).
 - Diseños del bajo solo: [DavaDs](https://www.deviantart.com/davads/art/Marceline-s-Axe-Bass-382362695), [TheBreakfastUnicorn](https://www.deviantart.com/thebreakfastunicorn/art/Marcelines-axe-bass-3-304673345).
+
+### 4.3 Fotos con licencia libre (Openverse)
+
+Son **disfraces caseros** de Halloween (usuario «Violently Japy» en Flickr,
+CC BY-NC 2.0), no cosplay de estudio: están en `referencias.json` pero sirven
+poco. El **cosplay bien hecho, con materiales reales**, está en el punto 23.
 
 ---
 
@@ -600,15 +771,57 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 - **El Reino de Cristal** («Obsidian»): escenario con telones, un
   **horno** donde está encerrado el dragón y un pueblo de cristal ✅.
 
-### 5.2 Luz ⚠️ (de memoria)
+### 5.2 Luz (segunda pasada: vista en vídeo donde se pudo)
 
+- **La casa por dentro**: luz **plana y cálida**, paredes rosa, casi sin
+  sombras ✅ (vista en «Fry Song» y en la cocina del tráiler de
+  «Obsidian»).
+- **La puerta del Señor de las Puertas** («I'm Just Your Problem»): **tarde
+  despejada**, nubes blancas iluminadas, **al aire libre** ✅. No es la
+  cueva: la primera pasada mezclaba los dos sitios.
+- **El Reino de Cristal**: luz **violeta y magenta fría** con toques cian,
+  de noche mágica; sombreado **pintado, con degradado**, más que en la
+  serie normal (lo da `estilo.py` en el fotograma 0:44 del tráiler) ✅.
+- **Créditos**: verde lima plano con insectos animados; es color de marca,
+  no un sitio ✅.
 - Cueva: luz **fría, azul violeta**, con puntos cálidos de **velas**;
-  reflejos de la laguna.
-- La casa por dentro: **cálida**, lámparas y velas.
-- Escenario del cementerio: **noche**, niebla verde azulada y un foco.
-- Casa del árbol: **luz de tarde dorada** entrando por ventanas redondas.
+  reflejos de la laguna ⚠️ (de memoria: no hubo clip de la cueva).
+- Escenario del cementerio: **noche**, niebla verde azulada y un foco ⚠️
+  (de memoria, sin clip).
+- Casa del árbol: **luz de tarde dorada** por ventanas redondas ⚠️ (de
+  memoria; hay modelo 3D CC BY para ponerle luz real, §4.1.b).
 
-### 5.3 Paleta ⚠️ (aproximada, de memoria: **muestrear en un fotograma** antes de usar)
+### 5.2.b Paleta MEDIDA en fotogramas reales (segunda pasada) ✅
+
+Medida con `estilo.py` y Pillow sobre fotogramas de los clips de §2 y sobre
+model sheets. **Usa esta tabla antes que la de 5.3.**
+
+| Qué | Hex medido | De dónde |
+|---|---|---|
+| Casa de Marceline: pared rosa | **`#F8AEC5`** (37 % del cuadro) | «Fry Song», 0:16 |
+| Casa: techo o pared clara | `#FBE0E8` | «Fry Song», 0:16 |
+| Casa: sillón rojo | `#D94344` | «Fry Song», 0:00 |
+| Cocina de la casa: fondo rojo vino | `#4D252C` | tráiler «Obsidian», 0:16 |
+| Cocina: electrodomésticos turquesa | `#5B8890` | tráiler «Obsidian», 0:16 |
+| Cocina: pared rosa en sombra | `#B04E5E` | tráiler «Obsidian», 0:16 |
+| Reino de Cristal: camino y cielo violeta | **`#422D6B`** (36 %) | tráiler «Obsidian», 0:44 |
+| Reino de Cristal: violeta medio | `#6A53A0` | tráiler, 0:44 |
+| Reino de Cristal: rosa de luz | `#E7D1D9` | tráiler, 0:44 |
+| Reino de Cristal: magenta de acento | `#8F3F6E` | tráiler, 0:44 |
+| Reino de Cristal: cian pálido del cristal | **`#E1F7F9`** (53 %) | tráiler, 0:00 |
+| Reino de Cristal: cielo claro | `#BDE0F5` | tráiler |
+| Picos de cristal | `#9055C3` y `#D3A0E8` | tráiler, 1:00 |
+| Cielo de «I'm Just Your Problem» | `#EFEFFF` / `#A5B9F6` | clip CN, 0:52 |
+
+Marco de ventana gris azulado de la casa: `#7A8A96` ⚠️ (a ojo; el
+programa no lo separó).
+
+### 5.3 Paleta de la primera pasada ⚠️ (de memoria; donde choque con 5.2.b o §16, manda lo medido)
+
+Corregido en la segunda pasada: piel de Marceline → `#D8E7E7` (§16), pelo
+→ `#000000`, Finn: la camiseta medida es `#018BCB` y la mochila
+`#7BBB59`; Jake `#FEB925`; Dulce Princesa `#ED8ACE` / `#F3BBFB`; casa rosa
+por dentro `#F8AEC5`.
 
 | Qué | Hex aproximado |
 |---|---|
@@ -638,7 +851,18 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 - Roca de la cueva: [Rock Wall 05 (Poly Haven, 8K)](https://polyhaven.com/a/rock_wall_05) y [Rock Wall 13 (16K)](https://polyhaven.com/a/rock_wall_13) ✅ CC0.
 - Luz de cueva real para Blender: [Cave Wall HDRI (Poly Haven)](https://polyhaven.com/a/cave_wall) ✅ CC0 (cueva con río y vegetación, luz suave).
 - Cartón de la funda del disco, papel de la nota, madera del mástil:
-  **ambientCG** (CC0) o la [sección de texturas de Poly Haven](https://polyhaven.com/textures) ✅. No busqué la textura concreta.
+  **ambientCG** (CC0) o la [sección de texturas de Poly Haven](https://polyhaven.com/textures) ✅.
+  Segunda pasada, nombres exactos sacados de la API de ambientCG, todos
+  **CC0**: papel **Paper001-006**
+  ([ambientCG](https://ambientcg.com/list?type=Material&q=paper)), cartón
+  **Cardboard001-004**
+  ([ambientCG](https://ambientcg.com/list?type=Material&q=cardboard)),
+  madera del mástil **Wood092, Wood094, Wood095**
+  ([ambientCG](https://ambientcg.com/list?type=Material&q=wood)), tela
+  **Fabric081C, Fabric061, Fabric066**
+  ([ambientCG](https://ambientcg.com/list?type=Material&q=fabric)), cuero
+  de las botas **Leather026, 030, 037, 038**
+  ([ambientCG](https://ambientcg.com/list?type=Material&q=leather)).
 - **Papel viejo de las cartelas**: escanear papel real amarillento
   (como hacía Jennings) o una textura de papel de ambientCG.
 
@@ -656,12 +880,17 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 - Hay una **fuente de fans, «Adventure Time Logo»**, gratis en
   [Font Meme](https://fontmeme.com/fonts/adventure-time-font/) y
   [font.download](https://font.download/font/adventure-time-logo) ✅.
-  **No pude bajarla** para ver si trae tildes y ñ ⚠️. Las fuentes de fans
-  de logos casi nunca las traen: **compruébalo antes**.
+  **Segunda pasada: bajada y revisada con fontTools** desde
+  [dafont](https://www.dafont.com/adventure-time.font). Tiene dibujos
+  para á é í ó ú ñ ¿ ¡ ü, **pero sólo en la tabla Mac Roman**: no trae
+  tabla Unicode de Windows. En Photoshop sobre Windows, la ñ o el ¿
+  **probablemente no salgan** ✅. **No usarla para texto en español**:
+  sólo para las palabras «Adventure Time» tal cual.
 - **Las cartelas de título**: cada una **rotulada a mano** por el pintor,
   distinta en cada episodio, sobre papel viejo ✅ (ver §3.2).
-- **Los cómics de BOOM!**: globos con letra de cómic a mano ⚠️ (de
-  memoria; no busqué el rotulista).
+- **Los cómics de BOOM!**: globos con letra de cómic a mano. El letrista
+  es **Steve Wands** ✅ ([Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Steve_Wands),
+  [League of Comic Geeks, n.º 41](https://leagueofcomicgeeks.com/comic/3374523/adventure-time-41)).
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -680,6 +909,30 @@ con fontTools: **todas traen á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü** ✅.
 | Pantalla de BMO | **VT323** o **Press Start 2P** | píxel, de consola vieja | OFL |
 | Guiño «de vampira» (sólo una palabra) | **Creepster** o **Eater** | letra que gotea | OFL |
 | Cartel de concierto punk | **Bungee** o **Rubik Doodle Shadow** | bloque, de póster | OFL |
+
+Segunda pasada: **VT323, Press Start 2P, Creepster, Eater, Rubik Doodle
+Shadow y Bungee** se volvieron a bajar de
+[Fontsource](https://cdn.jsdelivr.net/fontsource/fonts/vt323@latest/latin-400-normal.woff2)
+y a revisar con fontTools: las seis traen las 15 letras ✅. **Ojo**: baja
+el subset **«latin»**, no «latin-ext»: los acentos españoles están en
+«latin»; el «latin-ext» sólo no los trae.
+
+### 6.3 Una letra para cada uso
+
+La serie no tiene globos ni onomatopeyas en pantalla (§7): lo de abajo es
+la propuesta para la lámina con las letras ya comprobadas.
+
+| Uso | Letra | Por qué |
+|---|---|---|
+| Logo o título | **Chewy** (o Luckiest Guy) | gordita y redonda como el rótulo del logo |
+| Texto normal que dice un personaje | **Mali SemiBold** | de mano, clara en el celular |
+| Grito | **Luckiest Guy** en mayúsculas | pesada, de cartel |
+| Pensamiento o nota íntima de Marceline | **Rock Salt** o **Permanent Marker** | su cuaderno de letras |
+| Nota de Finn | **Gochi Hand** o **Short Stack** | lápiz de niño (la nota del «AMERGENCY») |
+| Onomatopeya (si hace falta una) | **Bungee** | bloque de póster; úsala poco: la serie no las dibuja |
+| Cartel del mundo (concierto, Dulce Reino) | **Baloo 2** o **Fredoka**; **Creepster** para una palabra vampira | letreros redondos de Ooo |
+| Interfaz de juego o pantalla de BMO | **VT323** o **Press Start 2P** | píxel, de consola vieja; Card Wars usa letra blanca gruesa tipo **Luckiest Guy** en sus botones |
+| Subtítulos o créditos | **Mali** o **Patrick Hand** | los créditos reales usan letra de palo sencilla sobre verde lima (§2.9) |
 
 > **No** usar Comic Sans ni fuentes «de anime». **No** usar la fuente
 > de fans del logo para frases largas: sólo para una o dos palabras.
@@ -700,15 +953,30 @@ Cuando **aparece texto**, sale en **objetos**:
      avión**.
    - **Las notas de Simón** que Marceline canta en «I Remember You»
      (4×25, ≈8:49): papeles viejos con fotos. **La letra de la canción
-     sale de las notas**.
+     sale de las notas**. Segunda pasada: la nota se ve entera en la hoja
+     `escenas_09`, n.º **408**: **papel crema arrugado, letra de
+     mayúsculas a mano en tinta negra, ligeramente inclinada** («Marceline,
+     is it just you & me in the wreckage of the world?…») ✅
+     ([captura 1920×1080](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d2/S4e25_Simon%27s_note_to_Marcy.png)).
+     Y en el clip de la escena sale además **una Polaroid** de Marcy niña
+     (1:36). **Este papel es el cuadro de diálogo más reconocible de la
+     serie.**
 2. **El cuaderno de Marceline** ✅: lo abre para cantar la «Canción del
    diario» (3×21, ≈6:36). Y su álbum sale de **quinientos años de
    diario**.
 3. **Las cartelas de título** ✅: ilustración pintada con el título
    rotulado a mano, **papel viejo escaneado de borde** y **tramado de
    cómic** (§3.2). Es lo más parecido a una «caja de texto oficial».
-4. **La pantalla de BMO** ⚠️ (de memoria): su cara es una pantalla;
-   a veces muestra imágenes o texto de videojuego.
+4. **La pantalla de BMO**: su cara es una pantalla; a veces muestra
+   imágenes o texto de videojuego. Segunda pasada: su diseño es **parodia
+   de las consolas portátiles retro de Nintendo** ✅ (dos fuentes: un
+   [mod real de Game Boy Color convertido en BMO](https://www.instructables.com/Adventure-Times-BMO-Roommate-GBC-Mod/)
+   y la web oficial interactiva de Active Theory para «Tierras lejanas:
+   BMO», que usa su cara como menú,
+   [resumen en Medium](https://medium.com/active-theory/adventure-time-distant-lands-bmo-5997687372b7)).
+   Su cara en calma: **dos curvas de ojos cerrados y una boca curva**
+   (clip de «The More You Moe», [2:36](https://www.dailymotion.com/video/x3q931u?t=156)).
+   ⚠️ Sigue sin fotograma de **texto escrito** en su pantalla.
 5. **Los discos** ✅: la **letra de «Monster» va grabada en el vinilo**
    de «Obsidian» (§3.4). Un disco oficial usa el propio objeto para
    poner texto.
@@ -724,11 +992,12 @@ Cuando **aparece texto**, sale en **objetos**:
 - Si hace falta que un personaje «diga» algo, que lo **diga en un papel
   que sostiene** o en **una hoja pegada a su lado**, con su letra (ver
   §6.2).
-- En los cómics sí hay globos (BOOM!), redondos y de línea negra fina
-  ⚠️. Si al final se usa un globo, que sea **de cómic de BOOM!**, con
-  cola curva y letra de mano, **nunca** una burbuja blanca lisa genérica.
+- En los cómics sí hay globos (BOOM!, rotulados por **Steve Wands** ✅),
+  redondos y de línea negra fina ⚠️ (forma de memoria). Si al final se usa
+  un globo, que sea **de cómic de BOOM!**, con cola curva y letra de mano,
+  **nunca** una burbuja blanca lisa genérica.
 
-### 7.3 En los videojuegos ⚠️
+### 7.3 En los videojuegos
 
 - Hay muchos: **«Hey Ice King! Why'd You Steal Our Garbage?!!»**
   (WayForward, DS y 3DS, 2012; Pendleton Ward ayudó con la historia),
@@ -737,10 +1006,22 @@ Cuando **aparece texto**, sale en **objetos**:
   ([Gaming Nexus](https://www.gamingnexus.com/Article/Adventure-Time-Hey-Ice-King!--Whyd-you-steal-our-garbage!!/Item3804.aspx),
   [Destructoid](https://www.destructoid.com/reviews/review-adventure-time-pirates-of-the-enchiridion/),
   [IMDb](https://www.imdb.com/title/tt9863808/)).
-- **No encontré cómo son sus cajas de diálogo** (Game UI Database tiene
-  reto de Cloudflare y no sale en búsquedas). Creo recordar que el de DS
-  usa **retratos de los personajes junto a una caja de texto** ⚠️, pero
-  **no lo pude comprobar**: no lo uses sin ver una captura.
+- **«Hey Ice King!» (DS)**, segunda pasada: vista la hoja de sprites
+  **«Mugshots»**, 759×673: **retratos de cuerpo entero, simplificados**,
+  de unos 28 personajes (Finn, Jake, BMO, Dulce Princesa, Flama Princesa,
+  Rey Helado, Marceline, Lady Arcoíris, Gunter…), hechos para ir **junto
+  al cuadro de texto** ✅
+  ([The Spriters Resource](https://www.spriters-resource.com/ds_dsi/adventuretimehicwysog/asset/54668/)).
+- **«Card Wars»** (app, 2014-2019): vista una captura del menú, 2560×1440.
+  **Marcos metálicos biselados azul grisáceo**, barra de vida y XP con
+  **retrato** arriba a la izquierda, monedas y gemas arriba a la derecha,
+  tapete **hexagonal** de madera y piedra, y un **botón rojo redondeado
+  «BATTLE!»** con letra blanca gruesa ✅
+  ([GitHub shishkabob27/CardWars](https://github.com/shishkabob27/CardWars),
+  [captura](https://i.imgur.com/cXUolY0.jpg)).
+- ⚠️ **No encontré** la caja de texto en sí de «The Secret of the Nameless
+  Kingdom» ni de «Pirates of the Enchiridion» (la API de Steam no dio sus
+  fichas; TCRF da 403).
 
 ### 7.4 Qué NO hacer con el texto
 

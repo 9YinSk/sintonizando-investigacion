@@ -26,6 +26,23 @@ fecha: 2026-09-25
 >   «Free» de Rumi **no** es la cazadora amarilla). Está todo en §28.
 > - ✅ = dos fuentes o visto por nosotros. ⚠️ = una sola fuente, o algo
 >   que hay que comprobar. Lo que falta está en §28 y en la tabla final.
+> - **Hubo una segunda sesión del redactor** (modo «seguir», 25-sep): la
+>   primera se cortó tras §5. Ver el apartado de abajo.
+
+## Segunda pasada · qué cambió
+
+- **Antes**: la biblia llegaba hasta §5 (419 líneas, 16 ⚠️), sin
+  `referencias.json`, sin conceptos, sin tabla y sin bitácora.
+- **Ahora**: escritas §6 a §29, la tabla «Cumplimiento del encargo» y la
+  bitácora. `referencias.json` armado con `juntar_referencias.py` (174) y
+  12 más del redactor, sacadas de las hojas con su tamaño medido por la
+  API de la wiki (186 en total).
+- **Corregido**: en `referencias.json`, el traje «Free» de Rumi decía
+  «cazadora amarilla»; es la **sudadera lila con vaqueros** (hoja
+  `personajes_01`, nº 6). Las demás correcciones de las partes, en §28.
+- **Mismas fuentes**: no se buscaron datos nuevos. Todo sale de las
+  cuatro partes y de las tres hojas, que el redactor volvió a mirar. La
+  API de la wiki sólo se usó para el enlace de esas 12 imágenes.
 
 ## Índice
 
@@ -415,4 +432,232 @@ genéricas, no copias del metraje. ⚠️
 | Tela de trajes y telón | [Fabric081C](https://ambientcg.com/view?id=Fabric081C), Fabric061 |
 | Metal dorado (Honmoon, accesorios) | [Metal048A](https://ambientcg.com/view?id=Metal048A), Metal034 |
 | Cuero (cazadora, correas) | [Leather037](https://ambientcg.com/view?id=Leather037), Leather038 |
+
+## 6 · Tipografía: una letra para cada uso (punto 5)
+
+**El logo de la película** lo hizo el estudio de títulos
+**Picturemill**, que también hizo los títulos de inicio y los créditos
+finales ([portfolio de Picturemill](https://picturemill.com/portfolio/kpop-demon-hunters/)). ✅
+
+- Cómo es (medido en el
+  [archivo oficial de la wiki](https://static.wikia.nocookie.net/kpop-demon-hunters/images/a/ad/KPop_Demon_Hunters_Logo.png),
+  1000×266): sans geométrica **blanca**, en dos líneas («K-POP» /
+  «DEMON·HUNTERS»), con **sombra gris en diagonal**. La K, la N, la R y
+  la H tienen **cortes en diagonal**. Una **estrella de cuatro puntas**
+  hace de punto del guion y separa «DEMON» de «HUNTERS». ✅
+- El prototipo de 2021 era un degradado neón rosa y azul sobre azul
+  oscuro, más chillón que el final
+  ([1000logos](https://1000logos.net/k-pop-demon-hunters-logo/)). ⚠️
+- El logo de **HUNTR/X** (el del grupo) sería una **Blanka
+  modificada**, según los aficionados del
+  [foro de dafont](https://www.dafont.com/forum/read/577458/kpop-demon-hunters-font).
+  Blanka es de pago: no se comprobó. ⚠️
+- El de los **Saja Boys** es otra cosa: firma a pincel, «SAJA» en
+  blanco y «BOYS» en magenta `#FC02A5`
+  ([logo en la wiki](https://static.wikia.nocookie.net/kpop-demon-hunters/images/e/ed/Saja_Boys_Logo.jpg)). ✅
+
+**Una letra para cada uso.** Todas las libres se **descargaron y se
+abrieron con `fontTools`**: la columna «¿Trae?» es comprobada, no de
+memoria.
+
+| Uso | Qué hay en la película | Letra libre | ¿Trae á é í ó ú, ñ, ¿, ¡? | Licencia |
+|---|---|---|---|---|
+| Logo o título | Sans geométrica de Picturemill, cortes en diagonal, estrella de 4 puntas | **Hunters K-Pop** (Chequered Ink, Allison J. James, 2025), la que propone el [hilo de dafont](https://www.dafont.com/forum/read/577458/kpop-demon-hunters-font); bajada de [FontSpace](https://www.fontspace.com/hunters-k-pop-font-f150441) | ✅ las 11 | Gratis uso personal; comercial de pago ([Chequered Ink](https://chequered.ink/font-license/)) |
+| Logo de HUNTR/X | Blanka modificada (⚠️) | **Hunters K-Pop** | ✅ | Igual |
+| Logo de Saja Boys | Firma a pincel | **Permanent Marker** ([archivo de Fontsource](https://cdn.jsdelivr.net/fontsource/fonts/permanent-marker@latest/latin-400-normal.ttf)) | ✅ | OFL |
+| Grito (grafismo de concierto) | Frases enormes que laten con la música, hechas en After Effects | **Anton**, recorte «latin» | ✅ (el «latin-ext» **no** trae tildes) | OFL |
+| Pensamiento (manuscrito) | Rumi escribe con el dedo en el vaho del espejo | **Caveat** | ✅ | OFL |
+| Onomatopeya | No hay. Lo más parecido: el rótulo «SHINING» sobre el Honmoon («Golden» 0:48) y el neón verde «HAH» del trono (0:24-0:30) | **Anton** (el mismo grafismo) | ✅ | OFL · ⚠️ letra exacta no comprobada |
+| Cartel del mundo (hangul) | Letrero **HAN의원** de la clínica, logo en la fachada de la torre | **Noto Sans KR**, recorte «latin» | ✅ y todo el hangul | OFL |
+| Interfaz de juego (Roblox) | **Builder Sans** desde 2024; lo viejo en Gotham pasa a Montserrat, y Arial a Arimo ([foro oficial de Roblox](https://devforum.roblox.com/t/introducing-builder-font-deprecating-gotham-and-arial/2868222)) | **Montserrat** o **Arimo** | ✅ las dos | OFL |
+| Subtítulos y créditos | Netflix Sans en la app; Arial en los archivos de subtítulos ([guía de Netflix](https://partnerhelp.netflixstudios.com/hc/en-us/articles/215758617-Timed-Text-Style-Guide-General-Requirements)) | **Roboto** | ✅ | OFL |
+
+- **Truco de Fontsource**: en fuentes partidas en recortes, las tildes
+  españolas suelen estar en «latin», no en «latin-ext». Pedir siempre
+  el «latin». ✅ (comprobado en Anton)
+- El grafismo de conciertos lo hizo el equipo de Sony Pictures
+  Imageworks en **After Effects**, cada canción con su línea de tiempo
+  (Nori Kaneko, en
+  [No Film School](https://nofilmschool.com/kpop-demon-hunters-how-sony-pictures-imageworks-used-adobe-in-creating-the-global-phenomenon)). ✅
+
+## 7 · Cómo hablan en pantalla: el cuadro de diálogo (punto 6)
+
+**No hay globos.** Es una película con voces, no un manga. Una burbuja
+blanca sería falsa. La película tiene **cinco maneras reales** de poner
+texto en pantalla:
+
+1. **Grafismo de concierto (el «cuadro» propio de la serie).** Frases
+   enormes que aparecen detrás o alrededor de las chicas y laten con la
+   música, como letreros de escenario. Ejemplos vistos con minuto:
+   - «I'M GONNA SHOW YOU», detrás del trío con los puños en alto
+     ([«How It's Done» 0:54](https://archive.org/details/youtube-QGsevnbItdU)). ✅
+   - «HUNTRIX DON'T QUIT!», con Zoey y sus dagas («How It's Done»
+     1:06). ✅
+   - «UP UP UP», detrás de Rumi en los Idol Awards
+     ([«Golden» 2:12](https://archive.org/details/golden-official-lyric-video-kpop-demon-hunters-sony-animation_202511)). ✅
+   - «ROTTEN» y «WORLD OF PAIN» en el escenario
+     ([«Takedown» 0:30-1:00](https://archive.org/details/youtube-l8Dr7vzMSVE)). ✅
+   - Lo hizo Imageworks en After Effects, sincronizado a cada canción
+     ([No Film School](https://nofilmschool.com/kpop-demon-hunters-how-sony-pictures-imageworks-used-adobe-in-creating-the-global-phenomenon)). ✅
+2. **Letra a mano en el vaho del espejo.** El único «pensamiento»
+   visible: Rumi, en el baño del Han Clinic, escribe con el dedo «Put
+   these patterns all in the past now» («Golden» 1:48). Es su letra,
+   no un rótulo. ✅
+3. **Subtítulo de Netflix.** Centrado, abajo o arriba. El espectador
+   elige entre 4 estilos: blanco, blanco con sombra, negro sobre
+   blanco o amarillo sobre negro
+   ([ayuda de Netflix](https://help.netflix.com/en/node/100267)). ✅
+4. **Karaoke del *sing-along*.** En la reposición para cantar en el
+   cine, la letra salía en pantalla sobre la película
+   ([The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/kpop-demon-hunters-sing-along-box-office-first-netflix-win-1236352043/)). ✅
+5. **Carteles del mundo en hangul**: el letrero **HAN의원** de la
+   clínica (juego con el apellido del doctor y «clínica de medicina
+   tradicional»), el logo en la fachada de la torre, y el mensaje que
+   Jinu le escribe a Rumi y ella lee en voz alta
+   ([wiki, Korean Cultural References](https://kpop-demon-hunters.fandom.com/wiki/Korean_Cultural_References)). ✅
+
+**Qué recurso para qué texto de una lámina**:
+
+| Texto | Recurso | Letra |
+|---|---|---|
+| El título o la orden principal («¡Sube tu cover!») | Grafismo de concierto, grande, detrás del personaje | Anton |
+| Un consejo íntimo o un ánimo | Letra a mano en vaho o en un cuaderno | Caveat |
+| Una explicación neutra (cómo se usa) | Subtítulo de Netflix, blanco con sombra | Roboto |
+| Nombre de un sitio o de una sala | Cartel del mundo, con hangul | Noto Sans KR |
+| Etiquetas, rangos | *Photocard* o pegatina de merch (§24) | Hunters K-Pop |
+
+- ⚠️ «50,000 fans are waiting for you» («How It's Done» 0:06) parecía
+  una pantalla de móvil. Es letra del grafismo, no un chat. No usarla
+  como «pantalla de teléfono» sin ver el fotograma.
+- ⚠️ **No hay caja de diálogo de misión** en las 9 capturas oficiales
+  del juego de Roblox: son de tienda y promoción (§13).
+
+## 8 · Los personajes a fondo: carácter, cara y dinámicas (punto 13)
+
+Fuentes: fichas de la wiki (Personality, Appearance, Trivia), las 6
+muestras oficiales del doblaje latino oídas con `voz.py`, y los
+fotogramas y hojas mirados. La voz medida (Hz, semitonos) es de esas
+muestras.
+
+### Rumi — la líder que esconde lo que es
+
+- **Qué es.** Líder y voz principal de HUNTR/X, 23 o 24 años. Es
+  **mitad demonio** (*cambion*) y lo oculta: tiene marcas moradas en la
+  piel que brillan rosa cuando se estresa
+  ([wiki, Rumi](https://kpop-demon-hunters.fandom.com/wiki/Rumi)). ✅
+- **Carácter.** Segura en público, ambiciosa, responsable, «la mayor».
+  Se exige más que nadie: sigue cantando con la voz rota aunque el grupo
+  le pide parar. Terca, casi nunca pide ayuda. ✅
+- **Miedo.** Que la descubran y perder al grupo y a los fans. ✅
+- **Qué transmite.** Ternura y nudo en la garganta: la chica perfecta
+  que por dentro se avergüenza de sí misma. Es con quien más se
+  identifica el público (§22).
+- **Arco.** Esconde las marcas → su voz se rompe → sana cantando con
+  Jinu («Free») → la descubren → se acepta en «What It Sounds Like» y
+  crea el Honmoon arcoíris (§26). ✅
+- **Cómo se expresa.** Autoridad de líder hacia fuera; en privado,
+  frases que dudan y se quiebran. En latino (Azul Bötticher) suena
+  reflexiva y algo temblorosa: tono agudo (232 Hz), expresividad
+  normal (4,2 semitonos). ✅
+- **Su cara en cada emoción**:
+
+| Emoción | Cómo es | Dónde |
+|---|---|---|
+| Alegría, triunfo | Sonrisa amplia, cabeza atrás, brazos en «V» | «Golden» [2:12](https://archive.org/details/golden-official-lyric-video-kpop-demon-hunters-sony-animation_202511) ✅ |
+| Vergüenza, miedo | Ceja fruncida, boca entreabierta, mirada de lado, un brazo tapando las marcas del otro | «Golden» 1:48 ✅ |
+| Miedo (demonio) | Piel azulada, cara angustiada, en la oscuridad | hoja `personajes_01` nº 38; `vestuario_10` nº 471 ✅ |
+| Tristeza | Suplica a Celine, plano 4K | `personajes_01` nº 19 ✅ |
+| Rabia, pelea | Ceño fruncido, cuerpo hacia delante, espada | Tráiler [0:24](https://www.dailymotion.com/video/x9k1104?t=24) ✅ |
+| Sorpresa | Boca abierta, sudadera rosa | `vestuario_10` nº 474 ✅ |
+| Segura, reta | Media sonrisa, cazadora amarilla | `vestuario_10` nº 433 ✅ |
+| Glotona feliz | Mejillas llenas de kimbap | `vestuario_10` nº 478 ✅ |
+
+### Mira — la dura que por fin encontró su sitio
+
+- **Qué es.** Segunda al mando, bailarina y coreógrafa principal. Su
+  familia la rechazó por ser como es; en HUNTR/X puede ser ella misma
+  ([wiki, Mira](https://kpop-demon-hunters.fandom.com/wiki/Mira)). ✅
+- **Carácter.** Directa, sarcástica, desconfiada al principio, «el
+  músculo del trío». Genio corto. Se ablanda enseguida con sus amigas. ✅
+- **Qué transmite.** Seguridad y risa seca. La amiga que te dice la
+  verdad a la cara y luego te defiende.
+- **Cómo se expresa.** Frases cortas e inexpresivas (*deadpan*). En
+  latino (Karin Zavala) se define sola: «franca, temperamental,
+  agresiva». Tono medio (184 Hz), muy expresiva (10,7 semitonos). ✅
+- **Su cara**: rabia con dientes apretados y manos como garras
+  (`vestuario_10` nº 448); fastidio (nº 449); desconfianza con gorra y
+  gafas (nº 435, 437); susto en bata (nº 450); guiño con el puño en la
+  sien y media sonrisa
+  ([«Takedown» 1:06](https://archive.org/details/youtube-l8Dr7vzMSVE)). ✅
+  ⚠️ No hay fotograma con minuto de su tristeza.
+
+### Zoey — la pequeña que escribe las letras
+
+- **Qué es.** Rapera y letrista, la más joven (*maknae*). Nació en
+  Corea y se crió en Burbank, California
+  ([wiki, Zoey](https://kpop-demon-hunters.fandom.com/wiki/Zoey)). ✅
+- **Carácter.** Efusiva, cariñosa con fans y amigas, algo ingenua
+  (cree que los tónicos del doctor Han curan la voz), muy distraída:
+  dos veces no puede evitar bailar «Soda Pop» aunque la canten sus
+  enemigos. ✅
+- **Miedo.** Que sus letras sean «inútiles y raras». El grupo le da
+  valor. ✅
+- **Qué transmite.** Alegría pura y ternura. La que levanta el ánimo.
+- **Cómo se expresa.** Habla rápido y encadena preguntas cuando se
+  pone nerviosa. En latino (Tatul Bernodat): tono agudo (264 Hz), muy
+  expresiva (9,6 semitonos). ✅
+- **Su cara**: desafiante con las dagas en alto y ceja levantada
+  («How It's Done» 1:06); pícara (`vestuario_10` nº 457); suplicando
+  con las manos juntas (nº 458); triste (nº 459); deslumbrada (nº 465);
+  fan abrazando el disco de las Sunlight Sisters (nº 466); **ojos de
+  mazorca** (`concept_02` nº 93). ✅
+
+### Jinu — el demonio que quería olvidar
+
+- **Qué es.** Líder de los Saja Boys, demonio. Hace 400 años era un
+  plebeyo de Joseon: pactó con Gwi-Ma para salir de la pobreza y
+  abandonó a su madre y a su hermana pequeña
+  ([wiki, Jinu](https://kpop-demon-hunters.fandom.com/wiki/Jinu)). ✅
+- **Carácter.** Listo, carismático y manipulador. Pacta con Gwi-Ma que
+  le borre los recuerdos a cambio de ayudar a romper el Honmoon. Odia a
+  Gwi-Ma, pero le obedece. ✅
+- **Qué transmite.** Encanto y pena. El público lo quiere pese a ser
+  demonio: «no es un demonio malo» (§22).
+- **Arco.** Seduce a Rumi para desestabilizarla → se le acerca de verdad
+  («Free») → se sacrifica por ella en el clímax y recupera un momento el color
+  humano de sus ojos. ✅
+- **Cómo se expresa.** Se burla y coquetea con Rumi. Al hablar de su
+  vergüenza baja la voz de golpe: en latino (Juan Balvín) es la más
+  grave del reparto, 112 Hz. ✅
+- **Su cara**: media sonrisa seductora a cámara
+  ([tráiler 1:20](https://www.dailymotion.com/video/x9k1104?t=80));
+  silueta con *gat* (`vestuario_10` nº 438); retrato sonriente
+  (`concept_02` nº 60); demonio con *gat* y luz magenta (nº 89). ✅
+
+### Los secundarios
+
+- **Gwi-Ma**, el villano. Demonio que devora almas, atrapado; sólo
+  actúa a través de sus siervos. En latino (Carlo Vázquez Díaz) tiene
+  el rango de voz más amplio: 32,8 semitonos, de grave amenazante a
+  gritos. ✅
+- **Celine**, mentora de Rumi y su madre adoptiva, antigua cazadora.
+  Protectora y urgente: habla rápido (3,06 palabras por segundo). ✅
+- **Bobby**, el mánager. Rompe el cliché del mánager codicioso: sólo se
+  lleva el 3%
+  ([Collider](https://collider.com/kpop-demon-hunters-characters-likability-ranked/)). ✅
+- **Derpy y Sussie**, las mascotas de Jinu: un tigre azul y una urraca
+  de seis ojos con sombrero, sacados de la pintura popular *jak-ho-do*
+  ([wiki](https://kpop-demon-hunters.fandom.com/wiki/Derpy_and_Sussie)). ✅
+- **El doctor Han** (Healer Han): llama a Rumi «Rumi Nim». ✅
+
+### Dinámicas (para láminas en grupo)
+
+- **Mira y Rumi discuten** por lo cerrada que es Rumi. ✅
+- **Zoey es la que más anima a Rumi** y la que hace bajar la guardia a
+  Mira. ✅
+- **Jinu pica y coquetea con Rumi** para desestabilizarla. ✅
+- **Celine protege a Rumi** pidiéndole tapar sus marcas («Cubramos tus
+  marcas», §10). ✅
+- En grupo, Rumi va **en el centro**, Mira a un lado, siempre de
+  perfil respecto a cámara («How It's Done» 0:54). ✅
 

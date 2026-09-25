@@ -25,9 +25,33 @@ fecha: 2026-09-25
 >   nuevos del doblaje); el mapa dibujado de la web oficial está tras
 >   Cloudflare (sólo se leyó su texto); TCRF, Namu Wiki y Zhihu bloquean.
 >   Todo lo dudoso lleva ⚠️ y está junto en «Lo que no pude verificar».
+> - **Dos sesiones de redacción** (25-sep-2026): la primera llegó hasta el
+>   Punto 15 y se cortó; la segunda (modo «seguir») la terminó **sin
+>   reescribir** lo que ya estaba. Ver el recuadro de abajo.
+
+## Segunda pasada · qué cambió
+
+- **Antes**: la biblia acababa en el Punto 15. Faltaban los puntos 16-25,
+  los 3 conceptos, «Lo que no pude verificar», la tabla de cumplimiento,
+  la bitácora y `referencias.json`.
+- **Ahora**: añadidos, en su sitio y en el orden del índice, los puntos
+  **16 a 25** (el 17, guía para IA de imagen y de texto, escrito por el
+  redactor), los **3 conceptos** (A #🌟・destacados, B #📸・fotos,
+  C #📖・textos, los mismos que anunciaba §1), la tabla y la bitácora.
+- **`referencias.json`**: 165 referencias, juntadas con
+  `juntar_referencias.py` de las cuatro partes y del recolector.
+- **Hojas**: las mismas 3 (`memoria_01`, `paisajes_01`, `paisajes_02`).
+- **Corrección de lectura**: el arco de la Tierra Dorada «empieza en el
+  ep. 37» según la wiki (parte de vídeo), pero el ep. 37 oficial es **el de
+  la autobiografía de Himmel en el lago Korridor** (Punto 6). No se
+  contradicen: Korridor es la entrada del arco; la ciudad de oro aún no
+  tiene fotograma (Punto 25) ⚠️.
+- **⚠️**: 31 en las secciones 0-15 al empezar esta sesión; el total al
+  cerrar está en «Cumplimiento del encargo».
 
 ## Índice
 
+- Segunda pasada · qué cambió
 0. Dónde encaja (Frieren sigue sin canal)
 1. Resumen para quien tenga prisa
 2. Qué hay aquí y qué ya está en 33-frieren
@@ -938,3 +962,634 @@ de Fern, Stark y Himmel). Lo nuevo, visto en las 91 piezas de las hojas:
   camisa de rayas, pendientes de gota y el bastón con la joya roja.
   **Nada de sombrero de bruja** (33 §1).
 
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+La luz según la hora del día y los fondos generales en alta ya están en
+**33 §17** (tabla de horas, 9 fondos oficiales, 6 de fans). Aquí va lo
+que mira este encargo: **los sitios de la memoria**, las ruinas y los
+fondos **sin personajes o con el personaje pequeño**.
+
+### 16.1 Más de 30 sitios con nombre propio
+
+- La categoría `Locations` de la wiki trae **más de 30 entradas** ·
+  [Frieren Wiki, API](https://frieren.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Locations) ✅.
+- Algunas: Alt Woods, Appetit, Federación Aufgabe, **Aureole**, bosque de
+  Bande, **región de Bier**, aldea de Bohne, Bredt, Decke, **castillo del
+  Rey Demonio**, Drachen, Eiseberg, el Imperio, **Ende**, dominio del conde
+  Dach, gran bosque de Sanft, cañón de Great Tor, **Heiß**, tierras de la
+  compañía Norm, cañón de Riegel, **Capital real**, **Tumba del Rey**,
+  **región de Rufen**, Turk, Waal…
+- 33 midió 12 de ellos (33 §5.2). Aquí se suman Aureole, Warm, la cueva
+  del PV2, la colina de Qual y las ruinas (Punto 4).
+
+### 16.2 Qué sitio para qué emoción (la memoria)
+
+| Emoción | Sitio | Luz y hora | Dónde verlo |
+|---|---|---|---|
+| **Recuerdo feliz, más allá** | **Aureole** | blanco casi total, niebla, un rayo dorado | `memoria_01` n.º 1 y 3 |
+| **Despedida de los muertos** | Aureole con Flamme | lo mismo, figuras translúcidas | n.º 2 |
+| **Calma que duele** | terraza de **Warm** | atardecer sobre el mar, contraluz | n.º 8 · `paisajes_02` n.º 57 y 64 |
+| **Pena, amenaza** | colina de **Qual** | cielo cubierto, sin sol | n.º 13-14 |
+| **Paso del tiempo** | campo de flores rosa | mediodía despejado, figura diminuta | n.º 10 · [PV2 0:41](https://www.dailymotion.com/video/x8mkolb?t=41) |
+| **Homenaje** | **estatua de Himmel** | tarde dorada (T1-02) o plaza (n.º 31) | `paisajes_01` n.º 31, 43 · 33 §2 n.º 8 |
+| **Lo que se guarda** | **biblioteca circular** de Korridor | rayo cenital frío | `paisajes_01` n.º 36 |
+| **La cita que vuelve** | mirador de los **meteoros** | noche índigo, lago con estrellas | `paisajes_01` n.º 42 · `paisajes_02` n.º 90 |
+
+### 16.3 Las ruinas: el fondo constante de la memoria
+
+El mundo de Frieren **está lleno de restos** que el grupo cruza sin
+pararse mucho. Hay ruina en **al menos cuatro sitios con nombre** ✅
+(parte de imagen):
+
+- **Tumba del Rey** (EP23): tumba tallada en un acantilado, columnas
+  medio cubiertas de verde, escalinata larga · [fondo oficial,
+  1277×742](https://static.wikia.nocookie.net/frieren/images/f/f5/Ruins_of_the_King%27s_Tomb.png).
+- **Fuerte abandonado de Rufen** (T2, boceto): torre con el tejado roto,
+  puente de madera caído, cuervos, abetos.
+- **Monasterio abandonado del lago Korridor** (manga cap. 78,
+  `paisajes_02` n.º 71): cúpula en grises. La iglesia del mismo monasterio,
+  en el anime, tiene **hierba entre los bancos** (`paisajes_01` n.º 33).
+- **Ruinas de Bier** (T2, boceto 1 y 2): portalón de piedra en penumbra.
+
+**Cómo se pintan**: **decadencia digna**. Musgo, piedra lavada, plantas
+ordenadas dentro de la estructura. **Nunca fuego, sangre ni escombro
+trágico** (Punto 18.3).
+
+### 16.4 El mapa oficial del viaje
+
+- La web oficial tiene **«旅の軌跡を辿る地図»** («el mapa que traza las huellas
+  del viaje»), con los 28 episodios de la T1 como paradas numeradas ①-㉘ ·
+  [frieren-anime.jp/special/map/](https://frieren-anime.jp/special/map/).
+- Se leyó **el texto** (títulos), no **el dibujo** ⚠️: Cloudflare y JS lo
+  tapan; la Wayback Machine también falló (dos investigadores, dos vías).
+  Los títulos, en el Punto 25.
+
+### 16.5 Sitios reales que se le parecen (para fotos de textura)
+
+**No hay un lugar real único** confirmado por el estudio ⚠️. Guías
+japonesas de peregrinaje hablan de una **mezcla**: piedra alemana,
+entramado de madera checo (tipo Praga) y paisaje de la **Suiza sajona** ·
+[libert.co.jp](https://libert.co.jp/pilgrimage-guild/frieren-pilgrimage/)
+y [yutorilog.com](https://yutorilog.com/frieren-stage/). Úsalo como
+**ambiente**, no como localización.
+
+Los **7 sitios de peregrinaje** que marcan los fans en
+[AniTabi](https://anitabi.jp/works/36?lang=en) ✅:
+
+| Sitio real | Dónde | Qué recuerda |
+|---|---|---|
+| **Yufuin** | Japón (la prefectura no consta en las partes) | pueblo balneario de aire europeo, al pie del monte Yufu |
+| **Huis Ten Bosch** | Nagasaki | pueblo holandés (parque temático) |
+| **Warmth Forest** | Shizuoka | parque de aire medieval |
+| **Lockheart Castle** | Japón (no consta) | castillo escocés trasladado piedra a piedra |
+| **Ruinas del ferrocarril Kumaen** | Kumamoto | refugios de piedra octogonales; tour oficial «Welcome to Kumamoto Journey» |
+| **Laguna Ten Bosch** | Aichi | evento de colaboración oficial |
+| **Parque Marino de Hitachi**, colina Miharashi | Ibaraki | **campo de nemófilas = la hierba luna azul** (Punto 18.1) |
+
+### 16.6 Fondos oficiales de la memoria (medidos)
+
+Todos © Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project.
+**Sólo referencia**, nunca para pegar.
+
+| Fondo | Tamaño | Autor | Qué tiene |
+|---|---|---|---|
+| [Aureole EP4](https://static.wikia.nocookie.net/frieren/images/2/27/Aureole_EP4.png) | 1920×1080 | fotograma del anime | árbol dorado en un templete, niebla, rayo de luz |
+| [Aureole, concept art](https://static.wikia.nocookie.net/frieren/images/4/47/Aureole_concept_art_by_Seiko_Yoshioka.png) | 1427×798 | **Seiko Yoshioka** | el mismo sitio antes de animarlo (brillo 92 %) |
+| [Fuerte de Rufen, boceto](https://static.wikia.nocookie.net/frieren/images/3/3d/Rufen_Region_abandoned_fort_exterior_draft_by_Seiko_Yoshioka.png) | 1920×1080 | Seiko Yoshioka | torre rota en **gris puro** (0 % de saturación) |
+| [Ruinas de Bier, boceto](https://static.wikia.nocookie.net/frieren/images/7/79/Bier_Region_ruins_draft_by_Seiko_Yoshioka.png) | 1920×1080 | Seiko Yoshioka | portalón en penumbra, figura en rosa para la escala |
+| [Puerto de Korridor, boceto 2](https://static.wikia.nocookie.net/frieren/images/8/8e/Lake_Korridor_port_city_draft_2_by_Seiko_Yoshioka.png) | 1920×1080 | Seiko Yoshioka | embarcadero nevado, el grupo en rosa |
+| [Atardecer en Warm, EP3](https://static.wikia.nocookie.net/frieren/images/f/f8/Frieren_and_Fern_watch_the_sunset_in_Warm_EP3.png) | 1920×1080 | fotograma del anime | ciudad costera con acueducto curvo, sol sobre el mar |
+| Tumba del Rey, EP23 | 1277×742 | fotograma del anime | ver 16.3 |
+
+Todos medidos por la API de la wiki y **vistos enteros** por los
+investigadores ✅. La web oficial **no se pudo abrir** para ver si reparte
+fondos de pantalla propios (33 §17.2) ⚠️.
+
+### 16.7 Fondos de fans con el mismo tono (sólo referencia)
+
+| Fondo | Tamaño | Autor | Estado |
+|---|---|---|---|
+| [Árbol dorado-violeta con mariposas y ruinas](https://w.wallhaven.cc/full/gp/wallhaven-gpl8d3.jpg) | **4500×3048**, ♥581 | Owl279 ([Pixiv 116555120](https://www.pixiv.net/en/artworks/116555120)) | **visto**: Frieren de espaldas bajo un árbol gigante; paleta `#716CBF` `#544C88` `#2D315A` `#CEB6D9` ✅. Es un «Aureole» de fan: misma gramática, sin calcar |
+| [Paisaje puro, Danbooru `scenery`](https://cdn.donmai.us/original/14/cd/14cd567a57a384af93761bf06478c808.jpg) | 3277×4096 | [@gmmarady](https://x.com/gmmarady/status/2092266418553454594) | medido por API ✅; pinta paisaje de la serie **4 veces** ⚠️ |
+| [Paisaje puro, Danbooru `scenery`](https://cdn.donmai.us/original/95/e4/95e43dd58529e9f0ffdc8bf65312c8e8.jpg) | 2000×3500 | [@Porukana_Art](https://x.com/Porukana_Art/status/2095829730612379750) | medido por API ✅ |
+| [Frieren sentada, ojos cerrados](https://w.wallhaven.cc/full/9d/wallhaven-9depzk.jpg) | 3840×2160, ♥255 | [Pixiv 114900900](https://www.pixiv.net/en/artworks/114900900) | ⚠️ sólo etiquetas del recolector, no visto |
+| [Frieren, ojos cerrados](https://w.wallhaven.cc/full/vq/wallhaven-vq3ykl.jpg) | **6055×3462**, ♥242 | [Pixiv 114234634](https://www.pixiv.net/artworks/114234634) | ⚠️ no visto |
+
+Los seis fondos de fans ya medidos y comprobados sin IA en Pixiv
+(«回忆の魔法书», la fogata, el camino con charcos, **las ruinas con flores
+azules**, la nieve con farol, el mar de flores) están en **33 §17.3**.
+
+- En **r/Frieren** la comunidad comparte fondos hechos por fans: «New
+  background» (**2401 votos**) y «Background practice ft the gang» (25),
+  vía Arctic Shift ⚠️ (visto sólo el título).
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+La guía de **personajes** (rasgos fijos con hex, descripciones listas en
+inglés, palabras que ayudan y que estropean, errores típicos de la IA y la
+voz de cada uno) está en **33 §18**. Vale entera. Aquí va la guía de
+**fondos, luz y memoria**, que 33 no tiene.
+
+**Para qué sí y para qué no**: la IA (Firefly, Canva) sirve para
+**bocetos de fondo, luz y composición**. Nunca para la lámina final tal
+cual: el dueño pide que «no parezca hecho por IA». Lo que salga se
+repinta encima, con la paleta del Punto 4. Firefly y Canva suelen
+bloquear nombres con derechos: las descripciones **no usan nombres** ⚠️
+(aviso de uso, de 33 §18).
+
+### 17.1 Lo que nunca cambia en un paisaje de Frieren
+
+1. **Fondo pintado, como acuarela**, con **tonos medios** «que recuerdan
+   a los impresionistas» (Seiko Yoshioka, Punto 4.3). Más detalle en el
+   fondo que en el personaje.
+2. **Casi sin línea en el fondo**: en Aureole la línea es un verde claro
+   `#B9C488`, no negro. El personaje sí lleva línea fina (33 §18.1).
+3. **Una sola fuente de luz**, clara: sol de lado, rayo cenital, fogata,
+   vela. Bruma suave al fondo.
+4. **Saturación baja**: Aureole 16 %, Qual 15-23 %, Tumba del Rey 20 %.
+   Sólo **la magia** se permite un punto saturado (la cueva, 59 %).
+5. **Nunca negro**: la noche es índigo `#202D6D` `#2A32A5` (33 §17.1) y lo
+   más oscuro de la cueva sigue siendo azul (`#154B94` `#2D4866`).
+6. **La memoria no enseña la cara**: personaje **pequeño y de espaldas**,
+   o **translúcido** si es un muerto (Punto 14).
+7. **Himmel, en el presente, sólo como estatua** (bronce verde) o como
+   silueta de luz dorada. Nunca sólido al lado de Fern y Stark (33 §14.3).
+
+### 17.2 Las cinco luces de la memoria, con su paleta medida
+
+| Luz | Para qué | Hex (Punto 4.1) | En inglés para la IA |
+|---|---|---|---|
+| **Blanco del más allá** | recuerdo feliz, los muertos | `#F1F4E8` `#C6F1F8` `#EAEB96` · siluetas `#D4E5AF` `#B3C891` | *overexposed pale light, soft white mist, low saturation, pastel* |
+| **Cielo cubierto** | pena, aviso, algo enorme | `#B2BEC6` `#9AA7B9` · hierba `#444C2C` `#4F5B45` | *overcast grey sky, muted olive grass, no sun, desaturated* |
+| **Atardecer melocotón** | calma que duele, despedida | `#F5C4A4` `#DAB0B5` `#9D635C` `#7F484D` | *peach and mauve sunset over the sea, backlit silhouettes* |
+| **Dorado con flores** | presentar, esperanza | cielo `#F9F9E5` `#F7F3B8` · flores `#39375A` `#7D709A` | *golden hour, giant blue flowers blurred in the foreground* |
+| **Rayo cenital frío** | lo que se guarda, leer | `#1E2B3D` `#375472` `#517595` · luz `#E6F4ED` `#BDDBD2` (33 §5.2) | *single beam of light from a round skylight, cool blue shadows, dust in the air* |
+
+### 17.3 Descripciones listas (en inglés, sin nombres)
+
+**Estilo** (al final de cualquier prompt de fondo):
+> hand-painted anime background, soft watercolor texture, mid tones like
+> impressionist painting, almost no outlines, one soft light source, light
+> mist in the distance, low saturation, calm and quiet, 2020s TV anime
+> background art, Central European medieval countryside
+
+**El más allá** (tipo Aureole):
+> a golden tree inside a small round stone temple with columns on a hill,
+> pale ruins half hidden in white mist, one ribbon of golden light
+> crossing the sky, overexposed pastel light, pale cyan sky, almost white,
+> no shadows, serene
+
+**Ruina con decadencia digna** (tipo Tumba del Rey):
+> ancient tomb carved into a cliff, classical columns half covered in
+> green moss and vines that follow the arches, long stone staircase, beige
+> weathered stone lighter where rain falls, quiet afternoon, dignified
+> decay, no fire, no rubble
+
+**Cielo cubierto** (tipo Qual):
+> vast grassy hill under a fully overcast grey sky, muted olive grass, two
+> tiny figures at the bottom seen from far away, a huge seated silhouette
+> on the top, cold still air, desaturated
+
+**Estatua en el campo de flores** (concepto A):
+> green-bronze statue of a young hero on a stone pedestal with an engraved
+> plaque, in a field of small blue flowers covering the ground, autumn
+> golden afternoon light from the side, petals in the wind, blurred blue
+> flowers in the foreground, a small figure with long white twin tails
+> seen from behind
+
+**Boceto de valores** (para la composición, como Yoshioka):
+> greyscale value sketch of a snowy lake harbour with a wooden pier and a
+> lantern, only light and shadow, no colour, characters marked as flat
+> pink shapes for scale
+
+### 17.4 Palabras que ayudan y palabras que lo estropean (fondos)
+
+| Ayudan | Estropean (y por qué) |
+|---|---|
+| *watercolor*, *mid tones*, *impressionist*, *soft mist*, *pastel* | *epic*, *dramatic lighting*, *dark fantasy*, *8k*, *hyper detailed* (oscuro y brillante: lo contrario) |
+| *overcast*, *muted*, *desaturated*, *low saturation* | *vibrant*, *saturated*, *neon*, *HDR* (la prensa y el estudio insisten en la paleta apagada) |
+| *dignified decay*, *moss*, *weathered stone*, *vines following the arches* | *burning ruins*, *blood*, *war*, *rubble*, *post-apocalyptic* (la ruina de Frieren no es trágica) |
+| *seen from behind*, *tiny figure*, *wide shot*, *still camera* | *close-up crying face*, *tears*, *dutch angle*, *dynamic pose* |
+| *translucent silhouettes*, *golden flashback light* | *ghost*, *spirit*, *glowing eyes*, *horror* (los muertos no dan miedo) |
+| *single beam of light*, *round skylight* | *god rays everywhere*, *lens flare*, *bloom* |
+
+### 17.5 Qué imágenes usar de referencia (de las que hay aquí)
+
+**De estilo** (luz y color):
+1. **Aureole EP4** (`memoria_01` n.º 1; `referencias.json` n.º 4): la luz
+   del recuerdo.
+2. **Aureole, concept art** de Yoshioka (n.º 3; ref. n.º 17): el mismo
+   sitio pintado a mano.
+3. **Tumba del Rey** (n.º 4; ref. n.º 22): ruina digna.
+4. **Atardecer en Warm** (n.º 8; ref. n.º 7): contraluz melocotón.
+5. **Cuenta atrás en acuarela de Yoshioka** (33 §17.2): el tono amable.
+
+**De composición**:
+- Los **bocetos en gris** de Rufen, Bier y Korridor (n.º 5-7; ref. n.º 5,
+  6 y 10) y las **maquetas de terreno** de Warm (`paisajes_02` n.º 85-86).
+
+**De pose en el paisaje**:
+- Presentar: [PV2 1:27](https://www.dailymotion.com/video/x8mkolb?t=87)
+  (n.º 12). Pensar: [PV2 0:47](https://www.dailymotion.com/video/x8mkolb?t=47)
+  y [0:41](https://www.dailymotion.com/video/x8mkolb?t=41). Grupo:
+  [PV2 0:31](https://www.dailymotion.com/video/x8mkolb?t=31). Tristeza: la
+  cuna vacía (n.º 15; ref. n.º 13). Recordar: Flamme en Aureole (n.º 2).
+
+**Nunca** subir el fan art (n.º 20, Owl279) como referencia a una IA: es
+obra de otra persona. ⚠️ Subir arte oficial también puede chocar con las
+condiciones del servicio: lo más seguro es un **boceto propio** hecho
+mirando estas imágenes (33 §18.5).
+
+### 17.6 Cómo se nota que es IA en un paisaje (y se corrige a mano)
+
+- **Cielo con degradado perfecto** y nubes repetidas: pintar encima con
+  pincel de acuarela (Punto 19).
+- **Rayos de luz por todas partes**: dejar uno solo.
+- **Ruinas «de guerra»** con fuego o escombro: cambiar por musgo y
+  piedra lavada.
+- **Flores de fantasía** sin referencia: usar las nemófilas de Hitachi
+  (Punto 18.1).
+- **Texto falso** en placas o mapas: todo texto va a mano con las letras
+  del Punto 5.
+- **Personaje grande en primer plano** con cara triste: hacerlo pequeño y
+  de espaldas.
+
+### 17.7 Para una IA de texto: escribir en el registro de la memoria
+
+La voz de cada personaje (cómo tutea Frieren, el «Señora Frieren» de
+Fern, el humor de Himmel) está en **33 §18.7**. Para textos de memoria,
+añade esto:
+
+**Reglas**
+- **Frases cortas y en calma.** Una idea por frase. Sin «¡!».
+- **Puntos suspensivos** para la pena: «pero… ¿por qué no… intenté
+  conocerlo mejor?».
+- **El lugar es la promesa**: se habla de **volver a un sitio**, no de lo
+  que se siente. «Sé de un lugar…».
+- **Números de tiempo** en vez de emociones: «10 años», «cada 50 años».
+  El tiempo largo es la emoción.
+- **Himmel habla del futuro de los otros**: la estatua es «para que no te
+  sientas sola» (frase de abajo).
+- **Deja un hueco**: la última línea puede quedar en blanco (*yohaku*,
+  Punto 6).
+- **Sin onomatopeyas** en una lámina de memoria (no hay lista propia de la
+  serie, 33 §18.7) ⚠️.
+
+**Frases reales, por emoción** (doblaje latino, de 33 §10.4 y §18.7)
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| Alegre, presumido | Himmel | «Es una flor de mi país. Es muy hermosa… Bueno, no tan hermosa como yo.» | [0:08](https://www.youtube.com/watch?v=sMMRWL0XG5E&t=8) |
+| Explicando | Himmel | «La lluvia de meteoros de Era pasa una vez cada 50 años.» | [0:08](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8) |
+| Explicando, promesa | Frieren | «Sé de un lugar donde la lluvia de meteoros se puede ver más clara.» | [0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32) |
+| Animando, tierno | Himmel | «Esto es para que no te sientas sola cuando estés en un futuro lejano.» ⚠️ «futuro» mal oído | [0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13) |
+| Triste | Frieren | «Viajamos juntos sólo por 10 años.» | [0:22](https://www.youtube.com/watch?v=wDWOKITcRzg&t=22) |
+| Triste | Frieren | «Sabía que sus vidas son cortas, pero… ¿por qué no… intenté conocerlo mejor?» | [0:33](https://www.youtube.com/watch?v=wDWOKITcRzg&t=33) |
+| Enfadada, regañando | Fern | «De verdad es tan descuidada… diría que hasta es irresponsable.» | [0:45](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=45) |
+
+**Frases oficiales de la memoria en japonés** (títulos de episodio del
+mapa oficial, Punto 25; traducción mía, no del doblaje):
+- ④ 魂の眠る地 · «La tierra donde duermen las almas».
+- ⑤ 死者の幻影 · «La ilusión de los muertos».
+- ㉘ また会ったときに恥ずかしいからね · «Porque me daría vergüenza cuando
+  nos volvamos a ver».
+
+**Lo que la estropea**: «¡Nunca te olvidaremos!», «descansa en paz»,
+emojis, frases largas que explican el duelo, Frieren diciendo «estoy
+triste».
+
+**Vocabulario de gestos para la IA de imagen** (lo de 33 §18.7, más
+esto):
+- **De espaldas y pequeña**: *seen from behind, tiny in a vast landscape*
+  (PV2 0:41).
+- **Silueta translúcida verde-dorada**: *translucent green-gold
+  silhouettes, only outline and flat shadow* (Flamme, EP4).
+- **Luz dorada de recuerdo**: *warm golden flashback light* (33 §7).
+- **Párpados a media asta**, sin rubor ni gota de sudor: *half-lidded
+  eyes, no blush, no sweat drop* (Punto 13).
+- **Encorvada junto a algo vacío**: *hunched, sitting beside an empty
+  cradle, diagonal window light* (EP2).
+- *Chibi*: sólo para humor, **nunca** en una lámina de memoria (33 §18.7).
+
+## Punto 18 · Estilo y técnica de los fondos, y cómo replicarlo
+
+El estilo del **personaje** (línea, *cel shading* de una o dos sombras,
+Clip Studio, el *shader* de Blender, Freestyle) está en **33 Punto 18**.
+Aquí va **el fondo**: quién lo pinta, en qué orden y cómo se consigue la
+melancolía.
+
+### 18.1 De dónde sale el paisaje: la hierba luna azul es real
+
+- El **campo de nemófilas del Parque Marino de Hitachi** (colina
+  Miharashi) es el modelo real que los fans asocian a la **hierba luna
+  azul** (蒼月草), la flor que Frieren hace crecer alrededor de la estatua
+  de Himmel (T1-02, 14:47-16:25, 33 §2 n.º 8). Azul-violeta que **cubre el
+  suelo**. Cada abril-mayo se llena de cosplay de la serie ·
+  [nlab.itmedia.co.jp](https://nlab.itmedia.co.jp/cont/articles/3377207/)
+  (cosplay viral, 230 mil «me gusta») y
+  [AniTabi, ficha del sitio](https://www.anitabi.jp/spots/2841) ✅ (dos
+  fuentes japonesas).
+- ⚠️ Es asociación de los fans, no del estudio. Sirve como **foto de
+  referencia real** para pintar las flores, en vez de un azul inventado.
+- El resto del mundo: mezcla de Alemania, Chequia y la Suiza sajona,
+  sin un sitio único (Punto 16.5) ⚠️.
+
+### 18.2 Quién pinta el fondo, y en qué orden
+
+- **Seiko Yoshioka**: *concept artist*, **diseñadora de *layout*** de cada
+  episodio y, desde el ep. 3, **«ilustradora de la cosmovisión»**. Hace el
+  **color script**. El director **Keiichirō Saitō** dice que, como le
+  costaba explicarlo todo con palabras, **dejó que sus pinturas lo
+  explicaran**. Yoshioka imaginó también cómo vive la gente y qué fabrica,
+  con plantas y utensilios reales de cada región ·
+  [Sakuga Blog](https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/)
+  ✅ (lo mismo en la entrevista de mdn.co.jp que cita 33).
+- **Sawako Takagi** dirige la pintura de fondos, en el estudio **Wyeth**
+  (Punto 4.3) ✅. Comenta las **planchas de fondo** («art board») por
+  bloques de episodios en el **Official Guide Book** (Punto 1) ✅.
+- **Yoshiko Matsumura** (EP4) insistió en dar **«textura de
+  decadencia»** a un sello mágico que se degrada con el tiempo: la
+  decadencia **se anima como textura**, no sólo se pinta (Sakuga Blog) ✅.
+- **Manae Yamatogi** (OP de la T2): el grupo **camina en el sitio y el
+  paisaje cambia alrededor** (Punto 4.3) ✅.
+
+**El orden de trabajo** (visto en los bocetos oficiales, `memoria_01`
+n.º 5-7) ✅:
+1. **Valores en gris**: el fondo entero sólo en luz y sombra. Rufen: 0 %
+   de saturación, brillo 48 %. Bier: brillo 31 %.
+2. **Encaje de cámara**: los personajes, **manchas de un solo color
+   (rosa)** para la escala. Nada de detalle.
+3. **Maqueta de terreno en 3D** si el sitio es complejo: bloques de color
+   plano, sin textura (Warm, `paisajes_02` n.º 85-86; Heiß n.º 3; puerto
+   de Korridor n.º 6).
+4. **El color, al final**, en acuarela y tonos medios.
+5. **Variantes por estación** de casi todos los sitios, desde el concept
+   art: por eso el mismo sitio se ve distinto cuando Frieren vuelve años
+   después (Sakuga Blog) ⚠️ un solo artículo lo dice así.
+
+### 18.3 El vocabulario de la melancolía
+
+Un ensayo en inglés explica el estilo con cinco palabras japonesas ·
+[Unwinnable, Beatrix Kondo, 16-mar-2026](https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/)
+⚠️ (un solo artículo crítico, no del estudio):
+
+| Palabra | Qué es | Cómo se ve en la serie |
+|---|---|---|
+| **mono no aware** | la belleza de lo que se acaba | los mismos campos y caminos, visitados otra vez tras décadas o siglos |
+| **ma** | el silencio con peso | la cámara **se queda quieta en un paisaje** (montaña al amanecer, bosque en otoño, pueblo nevado) antes y después de una escena fuerte |
+| **shizukesa** | la quietud | **pasteles apagados**: verdes suaves, azules tenues, tierras cálidas; casi sin movimientos bruscos de cámara |
+| **wabi-sabi** | la belleza de lo imperfecto | ruinas, vigas podridas, estatuas con musgo, jardines invadidos: **decadencia digna**, nunca trágica |
+| **yohaku** | el espacio en blanco a propósito | la autobiografía de Himmel acaba en **páginas en blanco** (Punto 6) ✅ dos fuentes |
+
+- **Parecido con Ghibli**: «los fondos se parecen más a las escenas hechas
+  a mano de Ghibli que a otras series modernas», con paleta suave, sin los
+  colores muy saturados del anime actual ·
+  [FandomWire, 28-jun-2025](https://fandomwire.com/frieren-beyond-journeys-end-has-the-essence-of-a-studio-ghibli-film/)
+  ⚠️; coincide con Unwinnable en la paleta pastel → ✅ en ese punto.
+- **La acuarela del manga**: su textura «evoca suavidad, melancolía y una
+  cierta fragilidad, como si cada imagen estuviera a punto de desvanecerse
+  con el tiempo» ·
+  [efrenrodher.com](https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/)
+  ⚠️; y Yoshioka tomó para el OP de la T2 **la transparencia de la
+  acuarela de Abe en la portada del tomo 1** (Punto 4.3) ✅.
+
+### 18.4 Cómo hacerlo en Photoshop (el fondo)
+
+La receta del personaje (línea sin negro puro en Multiplicar, color base
+plano, una sola sombra dura) está en **33 Punto 18.c**. Allí el fondo es
+acuarela con el detalle encima a pincel duro. Aquí, **el orden** del fondo:
+
+1. **Capa de valores**: pinta todo en grises. Marca a los personajes con
+   **una mancha rosa**. No pases al color hasta que la luz funcione.
+2. **Color encima** en modo **Color** o **Luz suave**, con la paleta de la
+   luz que toque (Punto 17.2). Tonos medios, nada puro.
+3. **Pincel de acuarela** con bordes que se abren, y **textura de papel**
+   encima en Multiplicar (33 Punto 19.2 y 19.3).
+4. **Bruma**: un degradado claro (`#F1F4E8` o `#C6F1F8`) de abajo al
+   horizonte, al 20-40 %.
+5. **Para el recuerdo**: pinta el **mismo sitio en otra estación** y pon
+   una versión pequeña a **25-35 % de opacidad** con un halo dorado (parte
+   de texto) ⚠️ receta propuesta, no del estudio.
+6. **Ruinas dignas**: musgo verde apagado (`#62845F`), piedra **más clara
+   donde cae la lluvia**, enredaderas **siguiendo las líneas del arco**, no
+   al azar.
+7. **Letra grabada** en placas: Kaisei Tokumin o Zen Antique (Punto 5),
+   nunca palo seco.
+
+### 18.5 Cómo hacerlo en Blender (el fondo)
+
+El *shader* toon y el contorno del personaje: **33 Punto 18.d**. Para el
+fondo, lo que enseñan las maquetas de Yoshioka:
+
+1. **Bloquea el terreno con cubos y planos de color plano**, sin textura,
+   como `paisajes_02` n.º 85-86. Sirve para la perspectiva y la luz.
+2. **Una sola luz** (Sun) con el ángulo de la hora que toque; niebla con
+   **Volume Scatter** muy suave o *Mist pass*.
+3. **Render en gris** (sin materiales) = tu capa de valores del paso 1 de
+   Photoshop. Luego **pinta encima en 2D**.
+4. **Objetos modelables**: la estatua y su pedestal ([«Himmel The Hero»](https://sketchfab.com/3d-models/none-18793206124245eb8e20fafc95b868ab)
+   y [«Himmel the Hero Pedastal»](https://sketchfab.com/3d-models/none-8f3f0a27429341149ccc442ef24ee0c0),
+   bmwylam, **CC BY**); casas y muros genéricos:
+   [«Medieval castle with village»](https://sketchfab.com/3d-models/none-5109b5e46e064790badecedf8f6d2ef6)
+   (isogl, CC BY) y
+   [«Low Poly Medieval Environment Pack»](https://sketchfab.com/3d-models/none-a850530905a24d97bc4aa83353aba134)
+   (anastasita.3d, CC BY) ✅ licencias de la parte de imagen.
+5. **Texturas CC0** de ambientCG para musgo, corteza, hierba y hielo
+   (Punto 19).
+
+### 18.6 Encuadres de la melancolía
+
+- **Plano fijo y largo sobre un paisaje vacío** (*ma*): sin nadie, o con el
+  personaje **muy pequeño** (Unwinnable + Sakuga Blog) ⚠️/✅.
+- **Montaje rápido de paisajes** para decir «pasaron años»: el primero,
+  tras la despedida de Himmel, eps. 1-2 (Sakuga Blog, Punto 4.3) ✅.
+- **Primer plano vegetal brillante + fondo oscuro**, visto desde abajo: la
+  fogata del ep. 1 («los colores brillantes de las flores contrastan con
+  el fondo oscuro del bosque») ·
+  [wherecreativityworks.com](https://wherecreativityworks.com/the-art-of-frieren/)
+  ✅, la misma composición que las flores del PV2 (0:41 y 1:27).
+- **Plano cenital** para la soledad: la barca en la cueva
+  ([PV2 0:47](https://www.dailymotion.com/video/x8mkolb?t=47)) ✅ visto.
+- **De espaldas y a contraluz** para la calma: Warm, EP3 ✅ visto.
+
+## Punto 19 · Texturas 2D del paisaje
+
+Las tramas del manga, el papel (Paper 006, CC0), la acuarela, las rayas de
+la ropa y el Emblema Sagrado están en **33 Punto 19**. Las texturas reales
+de madera, mármol, bronce y nieve (Poly Haven, CC0), en **33 §5.4**. Aquí
+van las que faltaban para **pintar el paisaje mismo**.
+
+### 19.1 Suelo, árbol, ruina y hielo (ambientCG, CC0)
+
+Todas **CC0: sin crédito obligatorio**. Muestra de 1024×1024 y descarga
+hasta 2048×2048 en PNG, JPG o WEBP, comprobado por la
+[API de ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=stone) ✅.
+
+| Textura | Para qué | Enlace |
+|---|---|---|
+| **Grass001** (hierba) | colinas, el campo de la estatua | [ambientcg.com/a/Grass001](https://ambientcg.com/a/Grass001) |
+| **Bark014** (corteza) | el árbol de Aureole, los abetos del norte | [ambientcg.com/a/Bark014](https://ambientcg.com/a/Bark014) |
+| **Rock064** (piedra con musgo) | la Tumba del Rey, el fuerte de Rufen | [ambientcg.com/a/Rock064](https://ambientcg.com/a/Rock064) |
+| **Ground037** (tierra con musgo) | suelo de ruinas | ambientCG, misma API |
+| **Ice002** (hielo) | Heiß, el lago Korridor nevado | [ambientcg.com/a/Ice002](https://ambientcg.com/a/Ice002) |
+
+**Cómo usarlas en 2D**: no pegarlas tal cual. En Photoshop, capa en
+**Multiplicar** o **Luz suave** al 15-30 % encima de la pintura, y borrar
+donde da la luz. Así queda acuarela con grano, no foto.
+
+### 19.2 La textura de la memoria: acuarela transparente
+
+- La referencia de color del OP de la T2 fue **la transparencia de la
+  acuarela** de Tsukasa Abe en la **portada del tomo 1** (Yoshioka,
+  Punto 4.3) ✅.
+- En el manga, esa acuarela «evoca melancolía y fragilidad»
+  (efrenrodher.com, Punto 18.3) ⚠️.
+- **No hay un pincel de acuarela libre** con descarga directa: 33 Punto
+  19.3 ya lo buscó (Rawpixel y Freepik piden cuenta) ⚠️. Plan: el pincel
+  «Acuarela húmeda» de Photoshop sobre Paper 006.
+
+### 19.3 La textura de la decadencia
+
+- **Se anima**: Yoshiko Matsumura pidió «textura de decadencia» para un
+  sello que se degrada con el tiempo (EP4, Punto 18.2) ✅.
+- **Para pintarla**: Rock064 o Ground037 en Multiplicar sobre la piedra;
+  más clara donde cae el agua. Enredaderas a mano, siguiendo el arco.
+- **Los muertos**: no llevan textura. Son **contorno y sombra plana**,
+  translúcidos (`#D4E5AF` `#B3C891`, Punto 4).
+
+### 19.4 Emblemas y marcas de la memoria
+
+- **Números en círculo** ①-㉘ del mapa oficial (Punto 5.3): el «pin» del
+  recuerdo. ⚠️ Comprobar con fontTools qué letra libre los trae.
+- **La placa grabada** de una estatua: letra Kaisei Tokumin, tallada
+  (Punto 5.1). No hay una placa real de la serie documentada con su texto
+  ⚠️.
+- El **Emblema Sagrado** y los emblemas de ropa: 33 Punto 19.5.
+
+## Punto 20 · Gustos y detalles
+
+La tabla completa del **Official Fan Book** (comida favorita, edad,
+altura, el objeto que siempre llevan, cómo se ven a sí mismos) de
+Frieren, Fern, Stark, Himmel y 6 secundarios está en **33 Punto 20**. La
+parte de voz la **volvió a comprobar** con la ficha de cada uno en la wiki
+en inglés (`action=parse&prop=wikitext`) y sigue igual ✅.
+
+Lo nuevo, los dos ligados al paisaje:
+
+- **«Himmel» significa «cielo» en alemán**, y el personaje va en azul.
+  La propia wiki lo pone junto a **Aureole**, «el lugar donde descansan
+  las almas, también llamado **el Cielo**», adonde Frieren viaja para
+  reencontrarse con él · [Frieren Wiki, «Himmel», Trivia](https://frieren.fandom.com/wiki/Himmel)
+  ⚠️ una fuente (es la lectura directa del nombre alemán, no una
+  interpretación). **El nombre del héroe muerto ya apunta al paisaje al
+  que se viaja para recordarlo.**
+- La flor de invierno favorita de Frieren es la **flor de cerezo
+  carámbano** (manga cap. 36, pág. 11) ✅ (33 Punto 20 y la wikitext). Un
+  gusto **de paisaje**: sólo existe en un clima y una estación.
+- **La flor de Himmel**: la hierba luna azul es «una flor de mi país»
+  (Himmel, doblaje, [0:08](https://www.youtube.com/watch?v=sMMRWL0XG5E&t=8))
+  y Frieren la hace crecer en su estatua (T1-02). Real más parecida: las
+  nemófilas de Hitachi (Punto 18.1).
+
+**Para una lámina**: el **objeto que siempre lleva** cada uno está en
+33 Punto 20. Para memoria, el objeto **no lo lleva nadie**: es **la estatua**, **el libro** o **la
+flor** que se quedan en un sitio.
+
+## Punto 21 · Por qué la gente la ama (y lo que hace llorar)
+
+**Premios y ventas** (Manga Taishō, Crunchyroll Anime Awards, más de 30
+millones de copias) y **con quién se identifica el público** (Stark,
+«tiene miedo y pelea igual»; Frieren, «para quien ha perdido a alguien»)
+están en **33 Punto 21**. Aquí va **por qué la melancolía y el paisaje son
+la razón**, con fuentes nuevas.
+
+### 21.1 Lo que dice la crítica en español
+
+- **Espinof**: «'Frieren' es una serie increíblemente **nostálgica y
+  melancólica**. […] las escenas del presente se van intercalando con
+  flashbacks de los recuerdos de Frieren con su antiguo grupo […] también
+  te deja con esa sensación de tristeza [por] lo que nunca llegó a ser».
+  Y: «el anime **no es un dramón ni una tragedia**, sino que es acogedor,
+  tranquilo y reconfortante» ·
+  [Espinof](https://www.espinof.com/criticas/que-frieren-beyond-journeys-end-uno-mejores-animes-ano-melancolica-reflexion-paso-tiempo-a-traves-viaje-lleno-magia) ✅.
+- **efrenrodher.com**, sobre el art book: la acuarela «evoca suavidad,
+  **melancolía** y una cierta fragilidad. Como si cada imagen estuviera a
+  punto de desvanecerse con el tiempo» ·
+  [efrenrodher.com](https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/) ⚠️.
+- **Lo mismo desde dentro**: Yoshioka sacó del OP las palabras
+  «**nostalgia, sensación de pérdida**, luminosidad y calidez» (Punto 4.3),
+  y Evan Call buscó «**nostalgia, melancolía, pero no siempre
+  melancólica**» (Punto 9). Crítica, color y música dicen **la misma
+  palabra** ✅.
+- **El más querido es un recuerdo**: Himmel, **muerto en el ep. 1**, ganó
+  las dos primeras encuestas oficiales (la 2.ª con 1.239.533 de
+  12.688.733 votos, Punto 7) ✅. El público ama **a quien ya no está**.
+
+### 21.2 Las escenas que hacen llorar, ligadas a un sitio
+
+Las tres de 33 (el **anillo** T1-14 ≈19:35, el **funeral** T1-01
+15:00-16:17 y los **modales de Stark**) están en **33 Punto 21.3**, con su
+reacción en Reddit. Las de esta biblia pasan **en un paisaje**:
+
+| Escena | Dónde | Qué pasa y por qué duele | Música | Cómo está dibujada | Cómo reaccionó la gente |
+|---|---|---|---|---|---|
+| **Los meteoros de Era, con Himmel** | T1-01, **06:19-06:46** y **11:47-12:59** (33 §2) | el grupo sale a verlos «por última vez»; es la promesa de volver al mismo sitio en 50 años | **«One Last Adventure»**, lo confirma Evan Call ([Epicstream](https://epicstream.com/article/frieren-evan-call-interview-soundtrack)) ✅ | noche índigo `#2A32A5`, lago con estrellas (`paisajes_01` n.º 42) | dos fan arts de @tsuicaa del mismo sitio: **3225** y **2864** votos ([Reddit 1](https://www.reddit.com/r/Frieren/comments/1p9tl4u/frieren_and_the_meteor_shower_animated_by_tsuicaa/), [Reddit 2](https://www.reddit.com/r/Frieren/comments/1p0ymdx/frieren_looking_at_the_meteor_shower_by_tsuicaa/)) ✅ |
+| **La próxima lluvia de meteoros** | **aún no animada** | el sitio seguirá ahí y Himmel no: duele **antes** de pasar | no se sabe ⚠️ | — | «the thought of Frieren, Fern and Stark watching it together at the same spot Frieren watched it last with Himmel made me sad» (**131 votos**, [Reddit](https://www.reddit.com/r/Frieren/comments/1qcs15z/it_just_occurred_to_me_that_there_will_be_another/)) ✅ |
+| **La cuna vacía** | EP2 (`memoria_01` n.º 15) ⚠️ sin minuto | Frieren, ante la muerte cercana de Heiter | no consta ⚠️ | cuerpo entero, **de espaldas**, encorvada; luz de tarde en diagonal, penumbra | no consta ⚠️ |
+| **Flamme ante sus compañeros** | EP4 · manga cap. 7 (n.º 2) ⚠️ sin minuto | Flamme visita Aureole y ve a sus amigos muertos | no consta ⚠️ | **siluetas translúcidas verde-doradas**, nadie mira a cámara | no consta ⚠️ |
+| **Las páginas en blanco** | **T2-37, 15:47** (33 §2) | la autobiografía de Himmel se acaba; Frieren sigue pasando páginas | no consta ⚠️ | biblioteca circular, **rayo cenital** (`paisajes_01` n.º 36) | «quizá la tristeza es como pasar páginas en blanco» ([note.com](https://note.com/sakuraigo/n/n179c6ef7e84e)) ✅ |
+
+**Por qué funciona**: la serie hace llorar **sin tragedia en pantalla**.
+Basta con **un sitio + una promesa + mucho tiempo** (parte de voz). Es la
+idea que sostiene los tres conceptos de lámina.
+
+### 21.3 Las que hacen reír o gritar
+
+No hay datos nuevos en las partes. El **Mimic** (EP23, `referencias.json`
+n.º 14), el berrinche de mil años y «Aura, suicídate» están en
+**33 §14 y Punto 22.3**.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Lo que hay está en **33 Punto 22**: el fandub **«El recuerdo de
+FRIEREN【Comic Fandub】»** de **Dari Studio**, **5 covers** latinos de
+«Yuusha» y «Haru», la versión de estudio de **Lin**, el meme «**Frieren
+hace berrinche**» y las entrevistas a **Erika Ugalde** y **Azucena
+Estrada**.
+
+### 22.1 Lo que se buscó otra vez (y lo poco nuevo)
+
+- La parte de voz **repitió las 4 búsquedas** de Dailymotion del
+  recolector («Frieren fandub español», «Frieren fandub latino», «Sousou no
+  Frieren cover español latino», «Frieren opening cover español») y 3
+  propias: **no hay fandub de voz completo nuevo** ✅ (comprobado dos veces,
+  por el recolector y por la investigadora).
+- Único hallazgo: **«Vivir sin Miedo - Sousou no Frieren AMV»**, canal
+  `MusicAI001`, canción hecha con IA (Suno) sobre imágenes del anime ·
+  [Dailymotion](https://www.dailymotion.com/video/x93x27m) ⚠️, **22
+  visitas**. **No sirve**: no es voz ni canto de una persona.
+- En TikTok, el hashtag **«la melancolía de Stark y Fern»** y vídeos bajo
+  «Frieren crying scene why»: la comunidad hispana **analiza la melancolía
+  y el llanto**, no sólo el gag ⚠️ (agregador de búsqueda; TikTok no abre
+  sin sesión, sin vistas).
+
+### 22.2 Clips oficiales doblados nuevos (no son de fans)
+
+Dos clips del canal **Crunchyroll en Español** que 33 no tenía (título y
+canal confirmados por oEmbed):
+[«Patitas para que las quiero»](https://www.youtube.com/watch?v=zP5D8_cJFuQ)
+y [«¿Batallas épicas?, Frieren las tiene»](https://www.youtube.com/watch?v=j1-6bsi5K6o).
+⚠️ Sin frase ni minuto: YouTube pidió iniciar sesión (Punto 8).
+
+### 22.3 Lo que significa para un servidor de doblaje
+
+- **Hay hueco**: no existe un **fandub de voz** de Frieren en español con
+  alcance. Sólo Dari Studio y contenido de IA.
+- La comunidad **sí canta** la serie (5 covers) y **sí comenta** su
+  melancolía.
+- **Idea para el servidor**: un reto de doblaje de **una escena de
+  memoria** (el meteoro, la cuna vacía, las páginas en blanco). Pocas
+  líneas, mucho silencio: práctica de **pausa y tono contenido**. Encaja
+  con el hilo de ejemplo de #📖・textos («Monólogo, tono contenido») y con
+  el concepto C.
