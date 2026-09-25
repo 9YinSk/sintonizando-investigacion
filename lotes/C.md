@@ -9,19 +9,23 @@ Antes: sesión https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV (rama
 https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb (rama `claude/lote-a-series-inxhbf`),
 que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más después de las 02:43.
 
-## Estado (03:16 UTC del 25)
+## Estado (03:31 UTC del 25)
 
-- 23 Lilo & Stitch: voz y vídeo acaban en «Sigue:» y ya llevan sus 2 tandas: no se
-  relanzan. Redactor (Opus, repaso) en marcha desde las 03:16; marca ⚠️ lo que falte.
-- 24 Assassination Classroom: los investigadores de la central no llegaron a escribir
-  nada. 4 investigadores nuevos (Sonnet, repaso) en marcha desde las 03:16.
+- **23 Lilo & Stitch: COMPLETA y subida (03:31).** 2703 líneas, ✅19 ⚠️11 ❌0, 193
+  referencias, 123 webs, 271 minutos citados, 47 hex, 3 hojas. Quedan ⚠️ en la tabla:
+  11 de 25 caras del punto 13 (Jumba y Pleakley), la frase de la pared de fotos del
+  8.3 en latino, y de vídeo el fotograma de la cámara, del «TIMER DINGS» y la lección
+  de Elvis (YouTube/TikTok sin mirar).
+- 24 Assassination Classroom: imagen, vídeo y texto listos, sin «Sigue:». Voz terminó
+  con un «Sigue:» legítimo (caras de Nagisa/Karma/Irina en T2) y ya va en su 2.ª tanda
+  (relanzada 03:29); cuando acabe, lanzo el redactor.
 - 25-30: datos recolectados; faltan sus equipos.
 
 **Si esta cuenta se corta:** la siguiente cuenta del lote C sigue así:
 `herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 --lote C`.
-- 23: si `revisar.py 23-lilo-stitch` no da COMPLETA, relanza sólo su redactor (repaso)
-  para lo que falte; no relances voz ni vídeo.
-- 24: relanza sólo los roles cuya parte falte o acabe en «Sigue:» (desde donde quedó).
+- 24: si voz sigue en «Sigue:» tras su 2.ª tanda, no la relances más — lanza el
+  redactor directamente y que marque ⚠️ lo que falte.
+- 25-30: aún sin equipos; siguen en orden.
 - **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
@@ -66,6 +70,15 @@ que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más de
   antes de hacer las láminas. Del doblaje latino sólo hay 2 frases
   textuales (audio de Doblaje Wiki, no clip oficial) y ningún fotograma
   llega a 1080p (YouTube pide iniciar sesión).
+- 23 Lilo & Stitch: corrección de reparto del doblaje latino de 2025 — Nani es
+  Alicia Vélez (no Karen Vallejo) y Pleakley es Armando Guerrero (no Arturo
+  Castañeda), confirmado en dos fuentes. Concepto de lámina ganador: el álbum
+  de fotos de los créditos finales, con Stitch colado fuera del marco.
+- 24 Assassination Classroom: el encargo trae mal la wiki de Fandom
+  (assassinationclassroom.fandom.com da 404); la correcta es
+  ansatsukyoshitsu.fandom.com. También: la wiki listaba un ending sin decir de
+  qué película, y es de la película de 2016, no la de 2026 — evita una
+  confusión si se usa esa canción.
 
 ## Costos
 
@@ -94,3 +107,8 @@ que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más de
 | 22 | voz (Sigue) | Sonnet | 9 | 114 mil |
 | 22 | texto | Sonnet | 10 | 167 mil |
 | 22 | redactor | Opus | 15 | ~330 mil |
+| 23 | redactor (repaso) | Opus | 16 | 331 mil |
+| 24 | imagen | Sonnet | 15 | 236 mil |
+| 24 | vídeo | Sonnet | 13 | 213 mil |
+| 24 | voz | Sonnet | 13 | 215 mil |
+| 24 | texto | Sonnet | 11 | 186 mil |
