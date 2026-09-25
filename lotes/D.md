@@ -11,7 +11,8 @@ Cuenta: cuenta I43
 - 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
 - 41 Dandadan: 4 partes listas (voz agotó sus 2 tandas; punto 13 queda ⚠️). Redactor (Opus) en marcha desde 25-sep.
-- 42 Blue Lock: imagen y texto listos; video y voz (Sonnet) en marcha desde 25-sep. 43-47: datos recolectados.
+- 42 Blue Lock: imagen y texto listos; video y voz (Sonnet) en marcha desde 25-sep. 43-48: recolectando de nuevo con hojas (se perdieron con el contenedor).
+- 43 Kaguya-sama: texto y voz (Sonnet) en marcha; imagen y video cuando haya hueco.
 
 ## Avisos para el dueño
 
