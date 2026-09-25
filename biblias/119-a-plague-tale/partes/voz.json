@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/6/6b/LoganHannan.jpg/revision/latest?cb=20250115191600&path-prefix=es",
+    "fuente": "Doblaje Wiki, ficha de Logan Hannan",
+    "ancho": 602,
+    "alto": 752,
+    "que_es": "Foto del actor Logan Hannan, voz francesa e inglesa de Hugo; su ficha es la ÚNICA mención de \"A Plague Tale\" en toda Doblaje Wiki, y es como actor ORIGINAL, no como doblaje latino",
+    "para_que": "Ilustrar el punto 8: por qué se confirma que A Plague Tale no tiene doblaje latino (el propio Doblaje Wiki lo prueba por ausencia)",
+    "licencia": "© Doblaje Wiki / Fandom; sólo referencia, no libre"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8e2l3c?t=100",
+    "fuente": "Dailymotion, mirror de FilmAffinity: \"A Plague Tale Requiem - Story Trailer\"",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler oficial de historia de Requiem, audio en inglés (Charlotte McBurney como Amicia); minuto 1:40, línea \"I'm Amicia!\"",
+    "para_que": "Cita textual con minuto de una frase icónica de Amicia (punto 8, 13); transcrita y medida con herramientas/voz.py",
+    "licencia": "© Focus Entertainment / Asobo Studio; sólo referencia"
+  },
+  {
+    "url": "https://www.doblajevideojuegos.es/fichajuego/a-plague-tale-requiem",
+    "fuente": "DoblajeVideojuegos.es",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa del doblaje en español de España de A Plague Tale: Requiem: reparto, estudio (Keywords Studios Spain), directores, traductores y premio a Mejor Doblaje Femenino",
+    "para_que": "Fuente principal y verificable del punto 8 (doblaje en castellano, el único que tiene la saga)",
+    "licencia": "Página de datos, no es una imagen; url de referencia documental"
+  },
+  {
+    "url": "https://www.doblajevideojuegos.es/fichajuego/resonance-a-plague-tale-legacy",
+    "fuente": "DoblajeVideojuegos.es",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de doblaje en español de Resonance: A Plague Tale Legacy (spin-off de Sophia, 2026), con Sandra Villa repitiendo como Amicia",
+    "para_que": "Prueba de que Sophia es un personaje secundario con peso suficiente para protagonizar su propio juego (punto 7)",
+    "licencia": "Página de datos, no es una imagen; url de referencia documental"
+  }
+]

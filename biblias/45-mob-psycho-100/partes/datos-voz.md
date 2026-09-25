@@ -1,6 +1,6 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Mob Psycho 100
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -12,10 +12,10 @@ _Fuente: https://anilist.co/anime/21507_
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
 | 1 | Arataka Reigen (霊幻新隆) | 24571 | MAIN | Takahiro Sakurai | Manuel Campuzano |
-| 2 | Shigeo Kageyama (影山茂夫) | 20565 | MAIN | Setsuo Itou | Carlos Siller |
+| 2 | Shigeo Kageyama (影山茂夫) | 20558 | MAIN | Setsuo Itou | Carlos Siller |
 | 3 | Ekubo (エクボ) | 3112 | MAIN | Akio Ootsuka | Carlos Hernández |
-| 4 | Teruki Hanazawa (花沢輝気) | 2375 | SUPPORTING | Yoshitsugu Matsuoka | José Antonio Toledano |
-| 5 | Narrator (ナレーター) | 2232 | BACKGROUND | Akio Ootsuka | — |
+| 4 | Teruki Hanazawa (花沢輝気) | 2374 | SUPPORTING | Yoshitsugu Matsuoka | José Antonio Toledano |
+| 5 | Narrator (ナレーター) | 2233 | BACKGROUND | Akio Ootsuka | — |
 | 6 | Ritsu Kageyama (影山律) | 1534 | MAIN | Miyu Irino | Javier Olguín |
 | 7 | Musashi Gouda (ムサシ) | 757 | SUPPORTING | Toshihiko Seki | Mark Pokora |
 | 8 | Tome Kurata (暗田トメ) | 542 | SUPPORTING | Atsumi Tanezaki | Betzabé Jara |
@@ -219,7 +219,7 @@ At the beginning of the story, Dimple wanted to be a god. Specifically, he wante
 _Fuente: https://danbooru.donmai.us/posts?tags=mob_psycho_100_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146415 dibujos
+1. hatsune_miku · 146428 dibujos
 2. denji_(chainsaw_man) · 8144 dibujos
 3. anya_(spy_x_family) · 6789 dibujos
 4. tatsumaki · 4981 dibujos
@@ -246,7 +246,7 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 latino»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
-- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
+- Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
@@ -260,14 +260,14 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 fandub español»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
-- Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
+- Mob Psycho 100 Mob Vs Hanazawa Full Fight · 4:39 · lawrenceburgos69 · 164 vistas · https://www.dailymotion.com/video/x810m4w
 **«Mob Psycho 100 fandub latino»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
-- Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
+- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
@@ -275,27 +275,10 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/Mobpsycho100: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/Mobpsycho100_
 
-**«why I love»**
-- (1271 votos, 11 comentarios) Parts like these are why I love mob psycho 100 · https://www.reddit.com/r/Mobpsycho100/comments/f35m6z/parts_like_these_are_why_i_love_mob_psycho_100/
-- (261 votos, 11 comentarios) Recently been invested in Better Call Saul (currently on season 4 lol) and i now understand why ppl compare him to… · https://www.reddit.com/r/Mobpsycho100/comments/wwpgxk/recently_been_invested_in_better_call_saul/
-- (76 votos, 13 comentarios) My boyfriend bought this for me for my birthday! I don't think anyone else would understand why I love it so much.So… · https://www.reddit.com/r/Mobpsycho100/comments/10ezihp/my_boyfriend_bought_this_for_me_for_my_birthday_i/
-- (71 votos, 1 comentarios) This is why i love one · https://www.reddit.com/r/Mobpsycho100/comments/ccrxr7/this_is_why_i_love_one/
-- (32 votos, 0 comentarios) I. LOVE. MOB. PSYCHO. I love it so much, I decided to make a video on it. It talks about why Mob Psycho is an example… · https://www.reddit.com/r/Mobpsycho100/comments/mfb8x7/i_love_mob_psycho_i_love_it_so_much_i_decided_to/
-- (29 votos, 9 comentarios) This simpsons Clip explains why I love MP100 · https://www.reddit.com/r/Mobpsycho100/comments/53qdyu/this_simpsons_clip_explains_why_i_love_mp100/
-**«best scene»**
-- (275 votos, 3 comentarios) Best scene. · https://www.reddit.com/r/Mobpsycho100/comments/fkiaey/best_scene/
-- (101 votos, 38 comentarios) Mob Psycho 100 won both best fight scene and best action scene in the crunchyroll anime awards · https://www.reddit.com/r/Mobpsycho100/comments/5na48u/mob_psycho_100_won_both_best_fight_scene_and_best/
-- (43 votos, 20 comentarios) This fight scene is too good....the best in the series in my opinion · https://www.reddit.com/r/Mobpsycho100/comments/asr7pp/this_fight_scene_is_too_goodthe_best_in_the/
-- (2 votos, 1 comentarios) So anyone found the song used for the best scene in S0201? · https://www.reddit.com/r/Mobpsycho100/comments/ae0kuj/so_anyone_found_the_song_used_for_the_best_scene/
-- (1 votos, 0 comentarios) Really liked this scene from the anime so tried my best to recreate it 😁 feedback appreciated · https://www.reddit.com/r/Mobpsycho100/comments/o6097r/really_liked_this_scene_from_the_anime_so_tried/
-**«unpopular opinion»**
-- (8 votos, 12 comentarios) Unpopular opinion: · https://www.reddit.com/r/Mobpsycho100/comments/lhktrw/unpopular_opinion/
-- (1 votos, 0 comentarios) Unpopular Opinion on MP100 Amvs · https://www.reddit.com/r/Mobpsycho100/comments/f9wsoz/unpopular_opinion_on_mp100_amvs/
-- (0 votos, 43 comentarios) Unpopular opinion · https://www.reddit.com/r/Mobpsycho100/comments/11ch14d/unpopular_opinion/
-**«iconic»**
-- (970 votos, 16 comentarios) Iconic Regan moment commissioned by me. Artist u/agitated-action. Check out @tedtazticartworks on Instagram for more · https://www.reddit.com/r/Mobpsycho100/comments/i0pbft/iconic_regan_moment_commissioned_by_me_artist/
-- (113 votos, 2 comentarios) Iconic Duo · https://www.reddit.com/r/Mobpsycho100/comments/c01rfm/iconic_duo/
-- (63 votos, 6 comentarios) A fellow Mogami Arc enthusiast and I recreated one of the most iconic scenes in season 2!! · https://www.reddit.com/r/Mobpsycho100/comments/11me0y3/a_fellow_mogami_arc_enthusiast_and_i_recreated/
-- (48 votos, 7 comentarios) Question about the manga creation: ONE said he has an assistant that does character shades, so does that mean that the… · https://www.reddit.com/r/Mobpsycho100/comments/atsfoh/question_about_the_manga_creation_one_said_he_has/
-- (13 votos, 1 comentarios) An iconic video from @ swagamicchi on Twitter · https://www.reddit.com/r/Mobpsycho100/comments/bmq2f2/an_iconic_video_from_swagamicchi_on_twitter/
-- (2 votos, 8 comentarios) name a more iconic duo.. i'll wait · https://www.reddit.com/r/Mobpsycho100/comments/5qfjdj/name_a_more_iconic_duo_ill_wait/
+**«favorite character»**
+- (937 votos, 16 comentarios) My favorite character in the series my man Regien tell me if you agree or who’s your favorite character. Oh and by the… · https://www.reddit.com/r/Mobpsycho100/comments/jfthth/my_favorite_character_in_the_series_my_man_regien/
+- (721 votos, 81 comentarios) I believe he just became my #1 favorite character, Deku has nothing on my boy Shigeo "Mob" · https://www.reddit.com/r/Mobpsycho100/comments/ou6y5s/i_believe_he_just_became_my_1_favorite_character/
+- (588 votos, 19 comentarios) Just finished S1, Reigen might be my favorite anime character of all time · https://www.reddit.com/r/Mobpsycho100/comments/1n0l427/just_finished_s1_reigen_might_be_my_favorite/
+- (487 votos, 70 comentarios) Who are y'alls favorite character, it's Reigen personally · https://www.reddit.com/r/Mobpsycho100/comments/1g72198/who_are_yalls_favorite_character_its_reigen/
+- (406 votos, 57 comentarios) Who is your favorite character? (My personal favorite is Reigen) · https://www.reddit.com/r/Mobpsycho100/comments/1giaqmz/who_is_your_favorite_character_my_personal/
+- (149 votos, 28 comentarios) Can you guys tell who my favorite character is? (broke ahh version😭🙏💸) · https://www.reddit.com/r/Mobpsycho100/comments/1h1f97k/can_you_guys_tell_who_my_favorite_character_is/

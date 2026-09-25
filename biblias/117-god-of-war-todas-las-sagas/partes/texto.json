@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/5/53/Runes_shown_in_Atreus%27_journal.png/revision/latest?cb=20230204194657",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+    "ancho": 1370,
+    "alto": 1468,
+    "que_es": "Página del Codex de Atreus con el alfabeto rúnico (Futhark Antiguo) dibujado a mano a lápiz, con adornos decorativos arriba y abajo",
+    "para_que": "Punto 5.3 (escritura del mundo) y 6.2 (el Codex como cuadro de diálogo/interfaz propia); mirada directamente y confirmada: coincide con la tabla de runas de la wiki",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+    "ancho": 900,
+    "alto": 1100,
+    "que_es": "Tapa del Codex/diario de Atreus: cuero con escamas cosidas, correa y una huella de mano amarilla pintada encima",
+    "para_que": "Punto 6.2: el objeto real del \"cuadro de diálogo\" de God of War, en vez de una burbuja genérica — un cuaderno de cuero con textura de escamas",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/5/58/Gow-atreus-journal-concept.jpeg/revision/latest?cb=20221111102530",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+    "ancho": 1100,
+    "alto": 930,
+    "que_es": "Arte conceptual del Codex de Atreus (boceto de diseño previo al modelo final)",
+    "para_que": "Punto 18 (proceso de concept art del estudio, referencia visual del objeto)",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/a/af/RuneAlfheim.webp/revision/latest?cb=20221221200508",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+    "ancho": 614,
+    "alto": 614,
+    "que_es": "Glifo/runa que representa el reino de Alfheim en el mapa e interfaz del juego",
+    "para_que": "Punto 25.3 (emblemas de los Nueve Reinos): cada reino tiene su propio símbolo circular, el \"logo de facción/lugar\" más reconocible del juego",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/4/42/RuneAsgard.webp/revision/latest?cb=20221221200453",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+    "ancho": 614,
+    "alto": 614,
+    "que_es": "Glifo/runa que representa el reino de Asgard en el mapa e interfaz del juego",
+    "para_que": "Punto 25.3 (emblemas de los Nueve Reinos)",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/godofwar/images/8/80/RuneMidgard.webp/revision/latest?cb=20221221200607",
+    "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+    "ancho": 614,
+    "alto": 614,
+    "que_es": "Glifo/runa que representa el reino de Midgard (donde viven Kratos y Atreus) en el mapa e interfaz del juego",
+    "para_que": "Punto 25.3 (emblemas de los Nueve Reinos)",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg",
+    "fuente": "Steam store (ficha de God of War, app 1593500) — ya en datos-texto.md",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de marketing: Kratos de perfil con el Hacha Leviatán frente a un árbol con una marca de mano amarilla; el logo \"GOD OF WAR\" en la esquina inferior derecha",
+    "para_que": "Punto 5.1 (logo actual, tipografía Berserker) — mirada directamente; sin HUD visible",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg",
+    "fuente": "Steam store (ficha de God of War Ragnarök, app 2322010) — ya en datos-texto.md",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de marketing: Kratos en combate con las dos hachas en llamas contra un draugr helado; el logo \"GOD OF WAR RAGNARÖK\" en la esquina inferior izquierda",
+    "para_que": "Punto 5.1 (logo con subtítulo, tipografía Berserker) — mirada directamente; sin HUD visible",
+    "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cabin",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Cabin (OFL): alternativa más cercana a Gill Sans WGL, la fuente de cuerpo real de la interfaz de God of War Ragnarök",
+    "para_que": "Punto 5.2/5.5: texto de subtítulos e interfaz en una lámina — comprobada con fontTools (trae á é í ó ú ñ Ñ ¿ ¡ ü Á É)",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Runic",
+    "fuente": "Google Fonts (familia Noto)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Noto Sans Runic (OFL): glifos rúnicos reales, cubre el Futhark Antiguo y variantes históricas",
+    "para_que": "Punto 5.3: inscripciones nórdicas del mundo (puertas, objetos, cartelas) en una lámina",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/GFS+Didot",
+    "fuente": "Google Fonts / Greek Font Society",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre GFS Didot (OFL): griego moderno y politónico (antiguo), diseño de Takis Katsoulidis sobre el Didot griego de 1805",
+    "para_que": "Punto 5.3: inscripciones griegas del mundo (saga griega) en una lámina",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://open3dlab.com/project/c48b8970-89db-44a1-8255-0ee5e14ff066/",
+    "fuente": "Open3DLab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Kratos Multi-Rig (God of War 2018): modelo 3D de Kratos completo, con varias armaduras, el Hacha Leviatán y las Blades of Chaos, rigged, nativo de Blender (.blend)",
+    "para_que": "Punto 18.3: referencia de pose y anatomía en Blender (nunca para redistribuir ni usar en nada comercial, ver licencia)",
+    "licencia": "Creative Commons BY-NC-ND 4.0 (no comercial, sin derivados; sólo como referencia interna, no redistribuible modificado)"
+  }
+]

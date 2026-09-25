@@ -1,24 +1,27 @@
 # Lote C: repasos 19-30
 
-Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude/trusting-davinci-274hb9`
-(parte de `claude/peaceful-maxwell-fklpkp`, juntada con los lotes A y B).
+Sesión: https://claude.ai/code/session_013xa9LevYk3W3Dk4tmJzsjh · rama `claude/ecstatic-bardeen-wwjh43`
+Cuenta: cuenta A109
 
-## Estado (02:50 UTC del 25)
+Lo lleva desde las 03:16 UTC del 25 (juntada con todas las ramas a las 03:10, sin choques).
+Antes: sesión https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV (rama
+`claude/trusting-davinci-274hb9`, hasta las 22:59 del 24) y la central,
+https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb (rama `claude/lote-a-series-inxhbf`),
+que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más después de las 02:43.
 
-Desde las 02:45 lo lleva la central: sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb
-· rama `claude/lote-a-series-inxhbf` (la cuenta anterior paró a las 22:59 del 24).
+## Estado (03:16 UTC del 25)
 
-- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz relanzada (tanda corta: caras de
-  miedo, vergüenza y rabia del punto 13); luego su redactor.
-- 24 Assassination Classroom: 4 investigadores (Sonnet) en marcha desde las 02:45.
+- 23 Lilo & Stitch: voz y vídeo acaban en «Sigue:» y ya llevan sus 2 tandas: no se
+  relanzan. Redactor (Opus, repaso) en marcha desde las 03:16; marca ⚠️ lo que falte.
+- 24 Assassination Classroom: los investigadores de la central no llegaron a escribir
+  nada. 4 investigadores nuevos (Sonnet, repaso) en marcha desde las 03:16.
 - 25-30: datos recolectados; faltan sus equipos.
 
-**Si esta cuenta se corta (iba al 90 % del límite a las 02:43):** la siguiente cuenta del
-lote C sigue así: `herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 --lote C`.
-- 23: si `partes/voz.md` aún acaba en «## Sigue:», no la relances otra vez (ya lleva 2
-  tandas): lanza directamente su redactor en modo `repaso` y que marque ⚠️ lo que falte.
-- 24: sus 4 investigadores empezaron a las 02:42; relanza sólo los roles cuya parte
-  falte o acabe en «Sigue:» (desde donde quedó).
+**Si esta cuenta se corta:** la siguiente cuenta del lote C sigue así:
+`herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 --lote C`.
+- 23: si `revisar.py 23-lilo-stitch` no da COMPLETA, relanza sólo su redactor (repaso)
+  para lo que falte; no relances voz ni vídeo.
+- 24: relanza sólo los roles cuya parte falte o acabe en «Sigue:» (desde donde quedó).
 - **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
@@ -31,6 +34,11 @@ lote C sigue así: `herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 
 
 ## Avisos para el dueño
 
+- Desde las 03:16 los commits de `subir.sh` y `guardar.sh` de este lote llevan el enlace
+  `Claude-Session` de otra sesión (session_01PTjYZQejJbQf4MSwH4sQbi): no cambié esos dos
+  archivos. Cada cuenta nueva que cambia esa línea hace que su rama choque en esos dos
+  archivos con cualquier otra que también la haya cambiado, y entonces `juntar.sh` no
+  junta esa rama.
 - 19 Doraemon: la descripción del canal de recursos en servidor/inventario.md
   está cortada («ni cracks ni prog…»); hay que confirmar cómo termina antes
   de rotular la lámina. Sigue sin decidirse qué significa la etiqueta

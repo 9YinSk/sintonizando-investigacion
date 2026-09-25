@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Sakamoto Days
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -35,7 +35,7 @@ _Fuente: https://api.dailymotion.com_
 - Sakamoto Days - Trailer [Vostfr] · 1:29 · Sekai · 73247522 vistas · https://www.dailymotion.com/video/x9c6rxi
 - Sakamoto Days - Trailer · 1:00 · JeuxVideo.com · 13065 vistas · https://www.dailymotion.com/video/x8z9l4q
 - Sakamoto Days - Segundo tráiler · 1:26 · Vidaextra · 8187 vistas · https://www.dailymotion.com/video/x9b782c
-- Sakamoto Days - Trailer de Netflix · 1:13 · Espinof · 4679 vistas · https://www.dailymotion.com/video/x93pj28
+- Sakamoto Days - Trailer de Netflix · 1:13 · Espinof · 4680 vistas · https://www.dailymotion.com/video/x93pj28
 - Sakamoto Days Teaser Trailer · 1:21 · meristation · 2330 vistas · https://www.dailymotion.com/video/x8z7qrk
 - Sakamoto Days - Trailer 1 · 1:00 · Espinof · 1955 vistas · https://www.dailymotion.com/video/x8z7qlw
 **«Sakamoto Days escena»**

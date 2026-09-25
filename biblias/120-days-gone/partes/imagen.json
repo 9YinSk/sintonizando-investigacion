@@ -1,0 +1,335 @@
+[
+ {
+  "url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2018/11/Days-Gone-Box-Art.jpg",
+  "fuente": "DualShockers (recogiendo key art oficial de Sony Bend, nov-2018)",
+  "ancho": 1211,
+  "alto": 1500,
+  "que_es": "Portada/key art oficial PS4: Deacon sentado contra la Drifter, pistola en mano, horda y cadáveres detrás",
+  "para_que": "pose viva de referencia: personaje + moto + horda, para lámina de bienvenida o portada de canal",
+  "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/the-art-of-days-gone",
+  "fuente": "Internet Archive (préstamo) — 'The Art of Days Gone', Dark Horse Books / Bend Studio, texto de John Garvin",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Artbook oficial completo (200+ páginas): bocetos de Deacon, la Drifter, freakers, estatuas ZBrush",
+  "para_que": "citas de diseño (kutte hecho a mano, por qué existe la Drifter, referencia real de Oregón) y páginas de concept art para estilo",
+  "licencia": "© Dark Horse/Bend Studio; préstamo digital, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/daysgone/images/6/69/The_Art_of_Days_Gone-004.jpg",
+  "fuente": "Fandom daysgone (página de 'Hordes'), escaneo del artbook",
+  "ancho": "3300",
+  "alto": "3000",
+  "que_es": "Pintura conceptual oficial: horda de freakers bajando un valle nevado hacia una carretera",
+  "para_que": "referencia de composición y paleta pictórica (pintura digital desaturada) para una escena de horda",
+  "licencia": "© Bend Studio/Dark Horse; sólo referencia"
+ },
+ {
+  "url": "https://www.artstation.com/artwork/zAx5Dd",
+  "fuente": "ArtStation — Julie Tardieu, 'days gone key art' (citado por buscador, ArtStation bloquea curl con 403)",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Key art oficial de Days Gone firmada por la artista de marketing de PlayStation",
+  "para_que": "fuente adicional del key art de portada, variedad de artista",
+  "licencia": "© PlayStation/artista; sólo referencia, ArtStation da 403 a peticiones directas"
+ },
+ {
+  "url": "https://jmandish.artstation.com/projects/zDqowD",
+  "fuente": "ArtStation — Joel Mandish (Senior Concept Artist, Bend Studio), 'Days Gone Props and Collectibles' (citado por buscador, 403 directo)",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Concept art oficial de props y objetos coleccionables de Days Gone",
+  "para_que": "vocabulario visual de objetos del mundo (linternas, radios, cassettes) para fondos y bodegones",
+  "licencia": "© Bend Studio/Joel Mandish; sólo referencia"
+ },
+ {
+  "url": "https://jmandish.artstation.com/projects/e04Wqw",
+  "fuente": "ArtStation — Joel Mandish, 'Days Gone Environment Concepts' (citado por buscador, 403 directo)",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Concept art oficial de entornos/paisajes de Oregón",
+  "para_que": "referencia de luz y paleta de los bosques y carreteras rotas para fondos",
+  "licencia": "© Bend Studio/Joel Mandish; sólo referencia"
+ },
+ {
+  "url": "https://www.artstation.com/artwork/xJDXL4",
+  "fuente": "ArtStation — Roman Kropotov, trabajo para Bend Studio en Days Gone (citado por buscador, 403 directo)",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Arte de producción (Bend Studio) publicado por el artista",
+  "para_que": "variedad de artistas oficiales del estudio",
+  "licencia": "© Bend Studio/Roman Kropotov; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_364f3048399fcb95df5e878c708c94e934cd53d4.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Deacon y Boozer sobre la Drifter cruzando una pradera con diente de león, montaña nevada al fondo (luz de tarde)",
+  "para_que": "pose viva en moto + fondo de pantalla oficial: cielo #8AA1AF, montaña #7C9FB2, pinos #4E7187, pradera seca #67562A",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_80bbb5ea187cc422012f7a84e694f20f87a26862.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Deacon con el chaleco (kutte) puesto, con parche 'NOMAD' visible, lanzando un cóctel molotov contra una horda que sale de un camión pintado",
+  "para_que": "vestuario de cerca (kutte teal-gris) y horda de freakers; paleta medida con estilo.py: #45473D 25.9%, #EDEDEB 22.9%, #27312E 19.7%",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_843983586becf445a10b6a181c29e71fbefd4b32.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Vista aérea de un campamento marauder ardiendo, con el monte Hood-like nevado detrás, bosque de coníferas",
+  "para_que": "paisaje de Oregón de día, paleta medida con estilo.py: #48453D 20.1%, #31302D 19.7%, #1C1E1F 18.9%, #B5B7BD 15.7%",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_0aad6c9a76a9e22cc1b62daca2efb6f53e4a875a.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Deacon francotirando una horda de freakers junto a una torre de vigilancia de un campamento, niebla",
+  "para_que": "horda de freakers con hex medidos: paleta estilo.py #49514A 24.2%, #353936 21.7%, #9BB6B1 15.5%",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_7b63c1b0d9bd6e3951a1358f374ecd473e0f10b0.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Amanecer con niebla sobre una granja de madera abandonada entre pinos, tractor oxidado en primer plano",
+  "para_que": "fondo de pantalla atmosférico: niebla #EDECE8, pinos entre niebla #596460, madera #4C5554",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_8d958e566d5315463d099b21eae729d0f462caad.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 1259420)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Asalto nocturno a un campamento marauder en llamas, Deacon corriendo con fusil",
+  "para_que": "escena de acción nocturna con luz de fuego, para contraste de paleta",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; captura oficial de la ficha de Steam, sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d8dbeb8fd24e4a7281be1b79eb9d419a",
+  "fuente": "Sketchfab — 47fortyseven, 'Drifter Bike - Deacon St. John - Days Gone'",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Modelo 3D fan-made de la Drifter Bike de Deacon (13 018 vistas, 119 me gusta)",
+  "para_que": "referencia de volumen/mecánica de la moto para un render 3D propio (NO tiene licencia libre, no descargable)",
+  "licencia": "Sin licencia libre; sólo referencia visual, crédito al autor"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9a7c5636cc7244e38488f12a996a15a2",
+  "fuente": "Sketchfab — TrueSingh, 'Mongrel Jacket Sleeveless Days Gone'",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Modelo 3D fan-made del chaleco/kutte sin mangas de los Mongrels",
+  "para_que": "referencia de patrón/costuras del chaleco para vestuario 3D",
+  "licencia": "Sin licencia libre; sólo referencia, crédito al autor"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a5d4f141ecec45b3a7e4f3a632e9cdc4",
+  "fuente": "Sketchfab (búsqueda 'Days Gone') — Subin, 'Maruti Suzuki Omni x Outlaw Project'",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Modelo 3D CC Attribution de una furgoneta estilo 'outlaw'/motero",
+  "para_que": "ambientación de vehículo motero degradado (licencia libre, si se necesita un vehículo secundario)",
+  "licencia": "CC Attribution — Subin, sketchfab.com"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8011df8990914703bc6c7d7a7f48cf0e",
+  "fuente": "Sketchfab (búsqueda 'Days Gone') — Alexander Kurmanin, 'Post-apocalypse Pillow pack'",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Pack de objetos post-apocalípticos con licencia CC Attribution",
+  "para_que": "props de campamento (mantas, almohadas sucias) con licencia libre para una escena 3D",
+  "licencia": "CC Attribution — Alexander Kurmanin, sketchfab.com"
+ },
+ {
+  "url": "https://www.deviantart.com/murloc1989/art/Days-Gone-Deacon-St-John-938337593",
+  "fuente": "DeviantArt — Murloc1989",
+  "ancho": "895",
+  "alto": "893",
+  "que_es": "Ilustración fan-art digital de Deacon St. John (vista previa recortada por DeviantArt)",
+  "para_que": "referencia de estilo de fan art para moodboard, nunca para pegar",
+  "licencia": "© Murloc1989; sólo referencia"
+ },
+ {
+  "url": "https://www.deviantart.com/luxosmods/art/Deacon-Days-Gone-918255907",
+  "fuente": "DeviantArt — luxosmods",
+  "ancho": "1191",
+  "alto": "671",
+  "que_es": "Ilustración fan-art digital de Deacon St. John, +8500 vistas",
+  "para_que": "referencia de estilo de fan art para moodboard, nunca para pegar",
+  "licencia": "© luxosmods; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/daysgone/images/f/fe/The_Art_of_Days_Gone-011_deacon_model.jpg",
+  "fuente": "Fandom daysgone — Deacon St. John (recolectado por recolectar.py)",
+  "ancho": 3300,
+  "alto": 3000,
+  "que_es": "Hoja de modelo oficial (artbook): Deacon de pie, dos ángulos, con y sin kutte",
+  "para_que": "referencia de vestuario completo (kutte, camiseta blanca, vaqueros, botas) de cuerpo entero",
+  "licencia": "© Bend Studio/Dark Horse; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/daysgone/images/9/93/Mongrel_MC.png",
+  "fuente": "Fandom daysgone — página 'Mongrels Motorcycle Club'",
+  "ancho": 512,
+  "alto": 512,
+  "que_es": "Parche/colores del club Mongrels MC: calavera de perro encadenada con sangre, rockers 'MONGREL' y 'FAREWELL ORIGINAL'",
+  "para_que": "emblema exacto de la espalda del kutte de Deacon; paleta medida con estilo.py: negro #151413, blanco #FEFEFE, rojo oscuro #694646",
+  "licencia": "© Bend Studio; sólo referencia (recreación gráfica del emblema del juego)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_80bbb5ea187cc422012f7a84e694f20f87a26862.1920x1080.jpg",
+  "fuente": "Steam API appdetails",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Primer plano del kutte de Deacon con el parche 'NOMAD' y tatuajes en los brazos",
+  "para_que": "color de cuero/mezclilla del chaleco medido con estilo.py sobre recorte del torso: #20363A / #32494B (denim teal-gris oscuro)",
+  "licencia": "© Sony Interactive Entertainment/Bend Studio; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/daysgone/images/2/26/Real_Drifter_Bike.jpg",
+  "fuente": "Fandom daysgone — página 'Drifter Bike'",
+  "ancho": 1024,
+  "alto": 767,
+  "que_es": "Foto de una réplica física real de la Drifter Bike (moto custom construida a partir del diseño del juego)",
+  "para_que": "referencia de mecánica/soldadura real para un modelo 3D de la moto en Blender",
+  "licencia": "© propietario de la réplica; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j3/wallhaven-j3wqo5.png",
+  "fuente": "Wallhaven (fondo de fans, subido por tiago0289)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de Days Gone: Days Gone, montañas nevadas, vista de paisaje",
+  "para_que": "fondo de pantalla en alta resolución para canal/lámina; 167 favoritos; color dominante Wallhaven #424153",
+  "licencia": "Wallhaven no especifica licencia del wallpaper (uso personal/fan); sin fuente declarada por el subidor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6k/wallhaven-6kwkm7.jpg",
+  "fuente": "Wallhaven (fondo de fans, subido por deleted)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de Days Gone: Deacon en moto por autopista entre niebla y bosque",
+  "para_que": "fondo de pantalla en alta resolución para canal/lámina; 86 favoritos; color dominante Wallhaven no informado",
+  "licencia": "Wallhaven no especifica licencia del wallpaper (uso personal/fan); sin fuente declarada por el subidor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vg/wallhaven-vgydo8.jpg",
+  "fuente": "Wallhaven (fondo de fans, subido por Skush)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de Days Gone: Arte de videojuego de Deacon St. John (Bend Studios)",
+  "para_que": "fondo de pantalla en alta resolución para canal/lámina; 33 favoritos; color dominante Wallhaven no informado",
+  "licencia": "Wallhaven no especifica licencia del wallpaper (uso personal/fan); sin fuente declarada por el subidor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/8o/wallhaven-8oyxyy.png",
+  "fuente": "Wallhaven (fondo de fans, subido por hrishikesh)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de Days Gone: Motero en la nieve al atardecer, paisaje natural",
+  "para_que": "fondo de pantalla en alta resolución para canal/lámina; 23 favoritos; color dominante Wallhaven no informado",
+  "licencia": "Wallhaven no especifica licencia del wallpaper (uso personal/fan); sin fuente declarada por el subidor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p99zzj.jpg",
+  "fuente": "Wallhaven (fondo de fans, subido por Truthrevealed20)",
+  "ancho": 6200,
+  "alto": 2880,
+  "que_es": "Fondo de pantalla de Days Gone: Deacon St. John con la moto, formato ultra ancho",
+  "para_que": "fondo de pantalla en alta resolución para canal/lámina; 23 favoritos; color dominante Wallhaven no informado",
+  "licencia": "Wallhaven no especifica licencia del wallpaper (uso personal/fan); sin fuente declarada por el subidor"
+ },
+ {
+  "url": "https://polyhaven.com/a/misty_pines",
+  "fuente": "Poly Haven (HDRI)",
+  "ancho": "8192",
+  "alto": "4096",
+  "que_es": "HDRI 'Misty Pines': bosque de pinos con niebla, luz de mañana/tarde nublada, bajo contraste",
+  "para_que": "referencia de iluminación real equivalente al bosque de Oregón con niebla de Days Gone, para render 3D de fondo",
+  "licencia": "CC0 — Poly Haven"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/daysgone/images/b/b0/Horde.jpg",
+  "fuente": "Fandom daysgone — página 'Hordes'",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Horda completa de freakers bajando una colina hacia la carretera, de noche",
+  "para_que": "hex de horda medidos con estilo.py: #21292E 27%, #2C353B 22.1%, #39434B 18.5%, #171D1F 16.4% (paleta azul-gris nocturna)",
+  "licencia": "© Sony/Bend Studio; sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Leather037",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de cuero envejecido (CC0)",
+  "para_que": "equivalente libre del cuero negro del kutte de Deacon, para render 3D/2D del chaleco",
+  "licencia": "CC0 — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric030",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de tela/lona (CC0)",
+  "para_que": "equivalente libre de la mezclilla desgastada del chaleco/camisa de Deacon",
+  "licencia": "CC0 — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Bark014",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de corteza de pino (CC0)",
+  "para_que": "equivalente libre de la corteza de los bosques de coníferas de Oregón para fondos",
+  "licencia": "CC0 — ambientCG"
+ },
+ {
+  "url": "https://www.gamestop.com/toys-collectibles/collectibles/statues/products/days-gone-deacon-vs-freakers-statue/10176631.html",
+  "fuente": "GameStop / Toyark (reseña) — estatua oficial",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Estatua oficial 'Deacon vs Freakers' de polystone, 14.5 pulgadas, coproducida por Level52 Studios y esculpida por Greg Callahan (artista principal de personajes de Bend Studio)",
+  "para_que": "figura oficial 3D como referencia de pose de combate (Deacon vs freakers) confirmada también en el artbook (sección STATUES)",
+  "licencia": "© Sony/Bend Studio/Level52 Studios; producto oficial con licencia, sólo referencia"
+ },
+ {
+  "url": "https://screenrant.com/days-gone-deacon-maul-cosplay-bend-studio/",
+  "fuente": "ScreenRant",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Cosplay de Deacon St. John por 'Maul Cosplay', elogiado y compartido oficialmente por Bend Studio en redes",
+  "para_que": "cosplay con reconocimiento oficial del estudio: materiales y kutte de cuero reales como referencia de volumen",
+  "licencia": "© Maul Cosplay / prensa; sólo referencia"
+ },
+ {
+  "url": "https://blog.playstation.com/2025/05/09/share-of-the-week-days-gone-remastered-deacon/",
+  "fuente": "PlayStation Blog — 'Share of the Week: Days Gone Remastered – Deacon' (9-may-2025)",
+  "ancho": "-",
+  "alto": "-",
+  "que_es": "Selección oficial semanal de PlayStation con capturas de modo foto de jugadores sobre Days Gone Remastered (PS5, 2025)",
+  "para_que": "fotomodo curado oficialmente: composición y poses elegidas por PlayStation para mostrar el remaster",
+  "licencia": "© autores de cada foto, curado por PlayStation Blog; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54504641160_cefc9a8a47_b.jpg",
+  "fuente": "Flickr (vía PlayStation Blog Share of the Week)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Captura de modo foto de un jugador sobre Days Gone Remastered",
+  "para_que": "ejemplo medido de fotomodo (819×1024) citado en el blog oficial de PlayStation",
+  "licencia": "© autor de la foto; compartido con permiso en PlayStation Blog, sólo referencia"
+ }
+]

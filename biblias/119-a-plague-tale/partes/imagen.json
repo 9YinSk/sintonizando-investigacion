@@ -1,0 +1,263 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/7/79/Olivier-ponsonnet-boxart.jpg",
+    "fuente": "Wiki de Fandom (arte de Olivier Ponsonnet, director de arte de Asobo)",
+    "ancho": 1063,
+    "alto": 1600,
+    "que_es": "Portada oficial (key art) de A Plague Tale: Innocence: Amicia y Hugo con un enjambre de ratas subiendo por el pecho",
+    "para_que": "Arte oficial principal (punto 1); resume Francia medieval + ratas de un vistazo",
+    "licencia": "material oficial de Asobo Studio / Focus Home Interactive, uso editorial/fan no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/2/2b/Early_Concept_Art_1.jpeg",
+    "fuente": "Wiki de Fandom (concept art oficial)",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "Arte conceptual temprano: Amicia y Hugo atrancando una puerta con una viga, ella sostiene una antorcha encendida",
+    "para_que": "Luz de fuego/antorcha real (punto 1 y 17), pose de equipo",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/7/7a/Early_Concept_Art_2.jpeg",
+    "fuente": "Wiki de Fandom (concept art oficial)",
+    "ancho": 800,
+    "alto": 1200,
+    "que_es": "Retrato pintado temprano de Amicia y Hugo en paleta teal-gris, distinta a la del juego final",
+    "para_que": "Arte oficial alternativo (punto 1)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/9/92/APTI-1-Amicia-1.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Retrato oficial 4K de Amicia, luz cálida de antorcha, capucha de piel",
+    "para_que": "Arte oficial y hex de vestuario con luz de fuego (puntos 1 y 15)",
+    "licencia": "material oficial de Asobo Studio / Focus"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/3/30/APTI-22-Hugo-2.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Retrato oficial 4K de Hugo, luz cálida de antorcha",
+    "para_que": "Arte oficial y hex de vestuario con luz de fuego (puntos 1 y 15)",
+    "licencia": "material oficial de Asobo Studio / Focus"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_8775c109d7303faf8aa94c532905107b75064d48.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 752590 (A Plague Tale: Innocence)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: Amicia y Hugo caminando de la mano por una calle de pueblo medieval de día",
+    "para_que": "Arte oficial, sitio y vestuario con luz de día (puntos 1, 15, 16)",
+    "licencia": "material oficial de Focus Entertainment / Asobo Studio, capturas de la store page de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_a8a06fa546620d6bd6e35809c9030c4ddf5c00f0.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 752590",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: asedio al amanecer con catapulta, niebla y cadáveres en el suelo",
+    "para_que": "Fondo/sitio con luz y ambiente de guerra (punto 16), la imagen que mejor cruza Francia medieval + luz + tragedia",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_dc1d4b2aef9ee44b300229f47fff802dd075ffc9.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 752590",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: molino en llamas de noche, dos siluetas con lanzas junto al fuego",
+    "para_que": "Luz de fuego/antorchas en un sitio (punto 16)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_1429300fd4c86bac7a5abfd31c3e14a4115bf641.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 1182900 (A Plague Tale: Requiem)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: Amicia y Hugo alzados sobre los hombros de una multitud que los aclama, catedral al fondo",
+    "para_que": "Personajes en grupo/celebración, no solos de pie (punto 1, pide reglas_del_dueno.md)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_fa576728d10fa09f16aa129dcad8b46e8b743ec4.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 1182900",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: mercado de pueblo con castillo fortificado detrás, banderas amarillas y negras, sol de día",
+    "para_que": "Sitio completo con luz de día y vestuario de Requiem visible en ambos personajes (puntos 15 y 16)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_a8ce48e34efa5b0bbb4fbe6efa601ed7a33f6c23.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 1182900",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: salón con el suelo cubierto de pétalos de rosa rojos, cortinas rojas, luz dramática",
+    "para_que": "Sitio con paleta y luz distintivas (punto 16)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/3/39/Castle_Outer1.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Château d'Ombrage (castillo de la familia de Rune) de noche entre niebla azul",
+    "para_que": "Sitio con hex medido, luz nocturna fría (punto 16)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/3/35/Hugo%27s_Two-Teeth_Island.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Isla de Requiem con costa mediterránea soleada, tonos arena y roca dorada",
+    "para_que": "Sitio con hex medido, luz cálida de día (punto 16)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/d/d6/The_Red_City.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Vista aérea de la Ciudad Roja con niebla dorada al amanecer, ciudad amurallada",
+    "para_que": "Sitio con hex medido, fondo de pantalla potencial (punto 16)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/5/53/Three_Saints_Rat_Nest.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Interior de la Cripta de los Tres Santos, oscuridad casi total con antorchas puntuales, nido de ratas",
+    "para_que": "Sitio más oscuro medido, ambiente de ratas (punto 16)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-9fc2ea8894be4f23862d36ff400870ef",
+    "fuente": "Sketchfab (API v3/models, confirmado autor y licencia)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Alicia De Rune' de avishka0977 (MrRealistic), 93877 caras, descargable",
+    "para_que": "Referencia 3D con licencia (punto 3)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://safebooru.org/images/2778/ffe3456d69a140777d35e557303bd29db6fbe0e9.jpg",
+    "fuente": "Safebooru (autor/origen Twitter ticcytx)",
+    "ancho": 1200,
+    "alto": 824,
+    "que_es": "Fan art de Amicia, mejor valorado en Safebooru",
+    "para_que": "Referencia de pose/estilo de fan art (punto 3), nunca para pegar",
+    "licencia": "derechos del autor original (Twitter @ticcytx), sólo como referencia enlazada"
+  },
+  {
+    "url": "https://safebooru.org/images/837/6c7cde8c53fa6e63c9ef1d7de03cbbcc679b2085.jpg",
+    "fuente": "Safebooru (autor/origen ArtStation quentin_uza_gillet)",
+    "ancho": 3840,
+    "alto": 4164,
+    "que_es": "Fan art de Amicia en alta resolución, origen ArtStation",
+    "para_que": "Referencia de pose/estilo de fan art (punto 3), nunca para pegar",
+    "licencia": "derechos del autor original, sólo como referencia enlazada"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/d/da/Plaguetale31.png",
+    "fuente": "Wiki de Fandom (icono del coleccionable 'Iconography')",
+    "ancho": 359,
+    "alto": 359,
+    "que_es": "Símbolo alquímico del león verde devorando el sol, coleccionable del juego",
+    "para_que": "Emblema/logo tallable en un objeto (punto 19)",
+    "licencia": "material oficial de Asobo Studio"
+  },
+  {
+    "url": "https://ambientcg.com/a/Leather030",
+    "fuente": "ambientCG (API full_json)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura PBR de cuero, equivalente libre al jubón de Amicia",
+    "para_que": "Textura real equivalente (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/a/Rock064",
+    "fuente": "ambientCG (API full_json)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura PBR de roca/piedra de muro, equivalente a los castillos y pueblos del juego",
+    "para_que": "Textura real equivalente (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://store.focus-entmt.com/eu/product/762950/a-plague-tale-requiem-artbook-fr",
+    "fuente": "Focus Entertainment Store",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artbook oficial 'The Art of A Plague Tale: Requiem', 196 páginas, concept art y entrevistas al equipo",
+    "para_que": "Fuente oficial de arte y proceso creativo (punto 1)",
+    "licencia": "producto comercial oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://egmnow.com/a-plague-tale-requiems-collectors-edition-includes-amicia-and-hugo-statue/",
+    "fuente": "EGM (reseña de la Collector's Edition)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Estatua oficial de Amicia y Hugo (Requiem), resina, 20 cm, diseñada por el equipo de arte de Asobo",
+    "para_que": "Referencia 3D/pose oficial en la Collector's Edition (punto 23)",
+    "licencia": "producto comercial oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://store.aplaguetale.com/products/amicia-hugo-premium-statue-silver-edition",
+    "fuente": "A Plague Tale Store (tienda oficial de la serie)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Estatua oficial de Amicia y Hugo (Innocence), Silver Edition, 23 cm, 500 piezas, con Silver Fox Collectibles",
+    "para_que": "Referencia 3D/pose oficial de Innocence (punto 23)",
+    "licencia": "producto comercial oficial, edición limitada"
+  },
+  {
+    "url": "https://rogueheartcosplay.tumblr.com/post/701640770252341248/amicias-crossbow-from-a-plague-tale-requiem",
+    "fuente": "Tumblr, Rogue Heart Cosplay",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Réplica cosplay de la ballesta de Amicia (Requiem): EVA foam, Worbla, Plasti Dip, pinturas PlaidFX",
+    "para_que": "Cosplay con materiales y volumen reales (punto 23)",
+    "licencia": "trabajo del autor, enlazado como referencia, crédito a Rogue Heart Cosplay"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/8x/wallhaven-8x9ex1.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fans: Amicia corriendo con ratas visibles, artwork",
+    "para_que": "Fondo de pantalla centrado en las ratas (punto 16)",
+    "licencia": "subido por usuario 'narcoticvibes', licencia no especificada por Wallhaven, uso de referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_b3eee5fa907fe897c650f4720629931db65b4dbb.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 752590",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: cripta con una sola antorcha encendida en la oscuridad",
+    "para_que": "Luz de antorcha en interior oscuro (punto 16)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_9cbcd6b81cc32ecf75b36f40b92157da78a19598.1920x1080.jpg",
+    "fuente": "Steam API appdetails, appid 1182900",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: proa de un barco con vela roja/blanca a rayas, grupo a bordo",
+    "para_que": "Arte oficial en grupo, viaje/mar (punto 1)",
+    "licencia": "material oficial de Focus Entertainment"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/a-plague-tale-innocence/images/0/04/Olivier-ponsonnet-amicia-byz.jpg",
+    "fuente": "Wiki de Fandom (arte de Olivier Ponsonnet)",
+    "ancho": 1440,
+    "alto": 2160,
+    "que_es": "Retrato pintado de Amicia por el director de arte, estilo painterly",
+    "para_que": "Arte oficial adicional del director de arte (punto 1)",
+    "licencia": "material oficial de Asobo Studio"
+  }
+]
