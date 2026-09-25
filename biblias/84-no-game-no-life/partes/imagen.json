@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+    "fuente": "AniList",
+    "ancho": 225,
+    "alto": 319,
+    "que_es": "Portada oficial de AniList del anime",
+    "para_que": "Referencia rápida de key visual y paleta general",
+    "licencia": "Copyright Madhouse/Kadokawa, uso editorial/referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/a/a9/Artbook_cover.jpg",
+    "fuente": "Wiki de Fandom (no-game-no-life.fandom.com)",
+    "ancho": 1061,
+    "alto": 1500,
+    "que_es": "Portada del artbook oficial No Game No Life: Yuu Kamiya Art Works (2019)",
+    "para_que": "Referencia de estilo de arte oficial del creador para pose y color",
+    "licencia": "Copyright Yuu Kamiya/Kadokawa, referencia editorial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/5/5f/Artbook_Box1.jpg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1061,
+    "alto": 1500,
+    "que_es": "Caja ilustrada del artbook oficial",
+    "para_que": "Referencia de composición de grupo en arte oficial",
+    "licencia": "Copyright Yuu Kamiya/Kadokawa"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/6/6a/Light_Novel_Volume_7_Cover.jpeg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1135,
+    "alto": 1600,
+    "que_es": "Portada de la novela ligera volumen 7",
+    "para_que": "Pose de grupo en arte oficial de portada",
+    "licencia": "Copyright Yuu Kamiya/MF Bunko J"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/7/78/Manga_Volume_1_English_Cover.jpeg",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1437,
+    "alto": 2048,
+    "que_es": "Portada del manga (edición en inglés, Yen Press)",
+    "para_que": "Referencia del estilo de dibujo del manga (distinto del anime)",
+    "licencia": "Copyright Mashiro Hiiragi/Yen Press"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/2/29/Rock_paper_scissors.png",
+    "fuente": "Wiki de Fandom (fotograma del anime)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma: Sora jugando piedra-papel-tijera contra Steph",
+    "para_que": "Pose viva 'en acción/juego', no de pie sin más",
+    "licencia": "Copyright Madhouse, fotograma con fines de referencia/crítica"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/d/d2/Screen_Shot_2020-01-16_at_11.50.51_PM.png",
+    "fuente": "Wiki de Fandom (captura del anime)",
+    "ancho": 1026,
+    "alto": 1376,
+    "que_es": "Sora con la camiseta icónica 'I ♥ 人類'",
+    "para_que": "Vestuario icónico de Sora, con texto y color exactos",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/0/05/Sora_Anime_HQ.png",
+    "fuente": "Wiki de Fandom",
+    "ancho": 1988,
+    "alto": 4182,
+    "que_es": "Render oficial de cuerpo entero de Sora (versión anime)",
+    "para_que": "Medición de hex de vestuario (camiseta amarilla, pantalón morado)",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/d/dc/Shiro_Anime_HQ.png",
+    "fuente": "Wiki de Fandom",
+    "ancho": 2804,
+    "alto": 3368,
+    "que_es": "Render oficial de cuerpo entero de Shiro (versión anime)",
+    "para_que": "Medición de hex de vestuario (uniforme marinero morado)",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/d/d0/Steph_Anime_HQ.png",
+    "fuente": "Wiki de Fandom",
+    "ancho": 2184,
+    "alto": 3701,
+    "que_es": "Render oficial de cuerpo entero de Stephanie Dola (versión anime)",
+    "para_que": "Medición de hex de vestuario (vestido hecho de su sábana)",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/5/5b/Jibril_Anime_HQ.png",
+    "fuente": "Wiki de Fandom",
+    "ancho": 3010,
+    "alto": 4216,
+    "que_es": "Render oficial de cuerpo entero de Jibril (versión anime)",
+    "para_que": "Medición de hex de vestuario, alas y halo",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/2/2b/1st_version_Great_war_map.PNG",
+    "fuente": "Wiki de Fandom (página Disboard)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Mapa del Gran Mundo/Disboard con las 16 razas Exceed",
+    "para_que": "Emblema/mapa del mundo para punto 19 y 25",
+    "licencia": "Copyright Madhouse, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/no-game-no-life/images/4/49/Uchihime_Official_Crossover.jpg",
+    "fuente": "Wiki de Fandom (página Uchihime × No Game No Life)",
+    "ancho": 512,
+    "alto": 300,
+    "que_es": "Arte promocional de la colaboración con el gacha Uchihime (2017)",
+    "para_que": "Referencia de colaboración/crossover oficial con vestuario nuevo",
+    "licencia": "Copyright CyberAgent/Ameba Studios + Madhouse, referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1209/ce18a96be091026a3afad472be830e7d.jpeg",
+    "fuente": "Safebooru",
+    "ancho": 1276,
+    "alto": 1719,
+    "que_es": "Fan art de Shiro mejor valorado en Safebooru",
+    "para_que": "Referencia de estilo de fan art, nunca para pegar",
+    "licencia": "Autor no identificado, sólo referencia visual"
+  },
+  {
+    "url": "https://safebooru.org/images/1435/e8f6693b37d4fe46b766a2e311c987f0a167a569.jpg",
+    "fuente": "Safebooru / Pixiv (img-original)",
+    "ancho": 765,
+    "alto": 544,
+    "que_es": "Fan art de Stephanie Dola mejor valorado, origen rastreado a Pixiv",
+    "para_que": "Referencia de estilo de fan art con autor/origen",
+    "licencia": "Pixiv, autor no identificado por nombre, sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/eo/wallhaven-eoj2p8.png",
+    "fuente": "Wallhaven / Pixiv artworks/53964102",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla fan de Shiro, origen rastreado en Pixiv",
+    "para_que": "Fondo de pantalla en alta con autor identificable",
+    "licencia": "Pixiv, ver origen; uso de referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/r2/wallhaven-r27wyj.jpg",
+    "fuente": "Wallhaven / Pixiv artworks/44227853",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla fan de Izuna Hatsuse, origen rastreado en Pixiv",
+    "para_que": "Fondo de pantalla en alta de personaje secundario",
+    "licencia": "Pixiv, ver origen; uso de referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/w8/wallhaven-w82z9x.png",
+    "fuente": "Wallhaven / Alphacoders",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla con temática de ajedrez (motivo central de la serie)",
+    "para_que": "Fondo de pantalla temático del patrón de ajedrez",
+    "licencia": "Alphacoders, ver origen; uso de referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-4a4fdf57cdb74e4598b481a9bad1950b",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D fan de Shiro (MrReinelt)",
+    "para_que": "Referencia de silueta/pose 3D, licencia libre",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-6a0e3b97a8a54f2a909d351322916293",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Neighbourhood City Modular lowpoly' (golukumar)",
+    "para_que": "Base de escenario urbano libre, no es de la serie pero sirve de referencia de ambientación",
+    "licencia": "Free Standard (Sketchfab)"
+  },
+  {
+    "url": "https://okamichiba.gumroad.com/l/okamimangabrushset",
+    "fuente": "Gumroad (Okami Chiba)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Manga Set gratuito: paneles, screentones lisos y con textura, sellos",
+    "para_que": "Equivalente libre a las tramas de manga vistas en el manga de la serie",
+    "licencia": "Gratis (según la propia página del autor)"
+  },
+  {
+    "url": "https://www.goodsmile.com/en/product/4229/Shiro",
+    "fuente": "Good Smile Company",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Figura oficial 1/8 de Shiro con piezas intercambiables",
+    "para_que": "Referencia de pose 3D real con crédito, para el punto 23",
+    "licencia": "Producto comercial, sólo referencia de pose/proporciones"
+  },
+  {
+    "url": "https://www.kotobukiya.co.jp/en/product/detail/p4934054055944/",
+    "fuente": "Kotobukiya",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Figura oficial de Shiro con base de tablero de ajedrez",
+    "para_que": "Referencia de pose 3D con el motivo de ajedrez de la serie",
+    "licencia": "Producto comercial, sólo referencia"
+  }
+]
