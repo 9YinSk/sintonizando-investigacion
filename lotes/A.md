@@ -12,9 +12,15 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 - 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
 - 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
-- 32 Jujutsu Kaisen: imagen y voz listos; texto (Sonnet) en marcha. 33 Frieren: imagen lista; voz (Sonnet) en marcha. 34 Haikyuu: imagen (Sonnet) en marcha.
+- 32 Jujutsu Kaisen: imagen, voz y texto listos; redactor (Opus) relanzado (tabla de
+  cumplimiento 18-25 pendiente, contenido ya escrito).
+- 33 Frieren: imagen y voz listos; texto (Sonnet) relanzado tras límite de uso.
+- 34 Haikyuu: imagen lista; voz (Sonnet) relanzada (sólo faltaba voz.json); texto
+  (Sonnet) relanzado desde cero.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): imagen, video y voz listos; texto (Sonnet) en marcha. AnimeThemes sigue caído (522), se usa Dailymotion/Fandom/AniList en su lugar.
+- 36 Hunter x Hunter (nueva): imagen, voz y texto listos; video (Sonnet) relanzado
+  (sólo faltaba video.json y comprobar ep. 147). Redactor pendiente de relanzar
+  cuando video.md esté cerrado. AnimeThemes sigue caído (522).
 
 ## Avisos para el dueño
 
