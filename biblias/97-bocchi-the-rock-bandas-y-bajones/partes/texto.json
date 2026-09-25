@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Bocchi_the_Rock!_logo.svg",
+    "fuente": "Wikimedia Commons (sacado de bocchi.rocks)",
+    "ancho": 512,
+    "alto": 159,
+    "que_es": "Logo oficial de Bocchi the Rock! (anime): bloque muy grueso, condensado, casi sin curvas, diseñado por Tomoyuki Uchikoga (créditos AniList)",
+    "para_que": "Referencia de tipografía para el logo/título de la lámina (punto 5); base visual para elegir Anton como letra libre equivalente",
+    "licencia": "Marcado como texto de dominio público en Japón (no alcanza el umbral de originalidad) con aviso de posible marca registrada; el trazado SVG del archivo, CC BY-SA 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/kita-ikuyo-bocchi-the-rock-fe5a7f390ad5495cbbfe64d82cfba5a8",
+    "fuente": "Sketchfab (autor: Hobbybird23)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Ikuyo Kita con rig de cuerpo completo, hecho en Blender 4.2.1 (165 652 caras)",
+    "para_que": "Rig libre de referencia para posar personajes en Blender, punto 18 (licencia no permite uso comercial ni derivados)",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs"
+  },
+  {
+    "url": "https://archive.org/details/opening-closing-to-bocchi-the-rock-vol.-1-2022-blu-ray-japanese-copy",
+    "fuente": "Internet Archive (vídeo oficial del menú del Blu-ray vol. 1, Aniplex), minuto 0:55",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): cartela de episodio en forma de ticket de concierto inclinado, magenta #D10249 medido con estilo.py, «BOCCHI THE ROCK!» en bloque blanco + número/título a mano",
+    "para_que": "Referencia real de tipografía y color para rótulos/cartelas de concierto (puntos 5 y 6)",
+    "licencia": "Producto oficial de Aniplex (menú de Blu-ray); sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://archive.org/details/opening-closing-to-bocchi-the-rock-vol.-1-2022-blu-ray-japanese-copy",
+    "fuente": "Internet Archive (vídeo oficial del menú del Blu-ray vol. 1, Aniplex), minuto 1:15",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): menú «BACK STAGE PASS» de selección de episodio (carnet rosa #D83D6D y ámbar #EEAB1B, medidos con estilo.py) y portada del tomo 1 con logo mixto bloque+script",
+    "para_que": "Referencia real de interfaz/rótulo tipo pase de backstage para la lámina (puntos 5, 6 y 25)",
+    "licencia": "Producto oficial de Aniplex (menú de Blu-ray); sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://github.com/google/fonts",
+    "fuente": "Google Fonts (9 familias bajadas y comprobadas con fontTools)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anton, Bungee, M PLUS Rounded 1c, Titan One, Baloo 2, Bangers, Monoton, Zen Maru Gothic y M PLUS 1: las 9 confirmadas con getBestCmap() con tildes, ñ, Ñ, ¿ y ¡ completos",
+    "para_que": "Letras libres recomendadas por uso (logo, globo, grito, pensamiento, onomatopeya, cartel de neón, interfaz de juego, subtítulos) del punto 5",
+    "licencia": "SIL Open Font License (OFL), libre incluso para uso comercial"
+  }
+]
