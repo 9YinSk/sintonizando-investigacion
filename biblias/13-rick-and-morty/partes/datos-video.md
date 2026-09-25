@@ -1,27 +1,27 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Rick and Morty
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fans_booru: HTTP Error 500: Internal Server Error
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
 **«Rick and Morty opening»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 - Rick and Morty - Mirage · 0:30 · Teaser Trailer · 220 vistas · https://www.dailymotion.com/video/x8ox3ex
 **«Rick and Morty ending»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 **«Rick and Morty trailer»**
 - Rick and Morty: the Anime - Trailer · 1:54 · Espinof · 4965 vistas · https://www.dailymotion.com/video/x8mrm4x
@@ -31,11 +31,11 @@ _Fuente: https://api.dailymotion.com_
 - Rick and Morty - Season 1 - Trailer · 1:35 · TV SHOWS · 601 vistas · https://www.dailymotion.com/video/x66njfm
 - Rick and Morty - Tráiler: Temporada 1 · 1:35 · Tomatazos · 294 vistas · https://www.dailymotion.com/video/x8x2yao
 **«Rick and Morty escena»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
@@ -47,7 +47,7 @@ _Fuente: https://archive.org_
 - Youtube: 7ecYoSvGO60 - Simpsons Couch Gag | Rick and Morty | Adult Swim · movies · 2875 descargas · https://archive.org/details/youtube-7ecYoSvGO60
 - 8vo Cap 3 Temp Rick And Morty Mezcla · audio · 2845 descargas · https://archive.org/details/8voCap3TempRickAndMortyMezcla
 - It's Spoilerin' Time 485: Rick and Morty Season 7 · movies · 2114 descargas · https://archive.org/details/sn-2023-12-18
-- Rick and Morty: The Complete Fifth Season - Exclusive "Evil Morty" Bonus Featurette · movies · 1999 descargas · https://archive.org/details/youtube-WTZ728XrBMg
+- Rick and Morty: The Complete Fifth Season - Exclusive "Evil Morty" Bonus Featurette · movies · 2087 descargas · https://archive.org/details/youtube-WTZ728XrBMg
 - Do You Feel It ( Chaos Chaos Remix Original As Heard On Rick And Morty S 2 E 3) · audio · 1833 descargas · https://archive.org/details/doyoufeelitremix
 - Rick And Morty Evil Morty ( Trap Remix) · audio · 1831 descargas · https://archive.org/details/RickAndMortyEvilMortyTrapRemix
 - Justin Roiland & Ryan Ridley // Rick and Morty · movies · 1776 descargas · https://archive.org/details/justin-roiland-ryan-ridley
