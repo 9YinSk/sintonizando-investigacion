@@ -18,7 +18,9 @@ antes, `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, q
   41: redactor (Opus) relanzado a las 04:12 (el anterior se cortó con 220 líneas).
   42: video (Sonnet) relanzado para terminar su parte; imagen, voz y texto listos.
   43: video (Sonnet) nuevo y voz (Sonnet, 2.ª tanda: caras de Hayasaka e Iino) a las 04:16; imagen tras recolectar con hojas.
-  43-48: recolectando con hojas (47 con «Oliver y Benji»).
+  43: voz terminada (caras de Hayasaka e Iino con arte oficial, sin `Sigue:`); imagen (Sonnet) en marcha desde 04:30.
+  44: recolectado (AniList repetido con «Your Lie in April»); texto (Sonnet) en marcha desde 04:32.
+  45-48: recolectando con hojas (47 con «Oliver y Benji»).
 - 47 Captain Tsubasa: la recolección automática casi no encontró nada con ese nombre — el título latino es **«Oliver y Benji»**. Hay que repetir: `python3 herramientas/recolectar.py 47-captain-tsubasa-supercampeones --nombres "Captain Tsubasa" "Oliver y Benji" --wiki captaintsubasa --personajes "Tsubasa Oozora" "Genzo Wakabayashi" "Kojiro Hyuga" --hojas`.
 
 ## Avisos para el dueño
@@ -43,3 +45,4 @@ antes, `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, q
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 43 Kaguya-sama | voz (2.ª tanda) | Sonnet | 9 | 163 143 |
