@@ -1,11 +1,11 @@
 [
  {
-  "url": "https://archive.org/details/rezearc",
+  "url": "https://archive.org/download/rezearc/csmrezearc.mkv",
   "fuente": "Internet Archive (\"Chainsaw Man - The Movie: Reze Arc (EN-Sub)\")",
-  "ancho": 854,
-  "alto": 480,
-  "que_es": "Película completa Arco de Reze (2025), subtitulada en inglés, 100:08 min.",
-  "para_que": "Escena de la cita en el cine (min. 6:20-11:00 de este corte): pose de Denji y Makima, rótulo シネマ座, colores de las butacas y el haz del proyector, la escena de la flor después de la cita.",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Película completa Arco de Reze (2025), subtitulada en inglés, 100:08 min, .mkv original 60 fps (también hay un derivado .mp4 854x480 más liviano).",
+  "para_que": "Escena de la cita en el cine (min. 6:20-11:00 de este corte): pose de Denji y Makima, rótulo シネマ座, colores de las butacas y el haz del proyector, la escena de la flor después de la cita. Fotogramas sueltos en 1080p reales se sacaron con ffmpeg -ss apuntando a esta URL (salto por rango HTTP, sin bajar los 5.28 GB completos).",
   "licencia": "© MAPPA / Shueisha / Sony Music; copia de fans en Internet Archive, uso de investigación (no descargable como asset final)."
  },
  {
@@ -20,8 +20,8 @@
  {
   "url": "https://archive.org/details/ep-03-cm/EP02CM.mp4",
   "fuente": "Internet Archive (\"Chainsaw Man Season 1\", episodio 2 suelto)",
-  "ancho": null,
-  "alto": null,
+  "ancho": 1920,
+  "alto": 1080,
   "que_es": "Episodio 2 completo, con audio japonés.",
   "para_que": "Ending «Time Left» (ZUTOMAYO) visto completo (min. 22:16-23:40, siluetas verde oliva y electrocardiograma); primer plano de Power gritando (min. 19:20, pupila con forma de aspa); escena de Makima y Denji comiendo en un área de descanso al atardecer (min. 5:30).",
   "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."
@@ -29,8 +29,8 @@
  {
   "url": "https://archive.org/details/ep-03-cm/EP07CM.mp4",
   "fuente": "Internet Archive (\"Chainsaw Man Season 1\", episodio 7 suelto)",
-  "ancho": null,
-  "alto": null,
+  "ancho": 1920,
+  "alto": 1080,
   "que_es": "Episodio 7 completo, con audio japonés.",
   "para_que": "Escena de Aki y Himeno comiendo en un restaurante tradicional (min. 6:10-7:18): pose de Aki sonriendo de lado, primer plano del ojo de Himeno.",
   "licencia": "© MAPPA / TV Tokyo; copia de fans, uso de investigación."

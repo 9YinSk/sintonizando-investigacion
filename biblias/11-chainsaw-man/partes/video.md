@@ -17,17 +17,23 @@ Carpeta de trabajo (hojas de contacto e índices): `/tmp/claude-0/trabajo/11-cha
 - La escena de la cita en el cine (película *Arco de Reze*) **existe también
   en un doblaje/subtitulado en inglés** en Internet Archive, item «Chainsaw
   Man - The Movie: Reze Arc (EN-Sub)»: <https://archive.org/details/rezearc>
-  (100 min). La bajé con `fotogramas.py` (formato 854×480, el único ≤720p
-  que ofrece el item; el original es un .mkv 1080p de 5.28 GB, demasiado
-  pesado para esta tanda) y saqué hojas de 6:20 a 15:00 y fotogramas sueltos.
-  ✅ (dos fuentes: este vídeo + los subtítulos japoneses ya citados en la
-  biblia; el orden y las líneas coinciden, con un desfase de **+15 a +20 s**
-  entre este corte en inglés y el corte japonés que usó la biblia).
+  (100 min). Primero la exploré con `fotogramas.py` (hojas de contacto, que
+  bajan el formato ≤720p del item, aquí 854×480) para no gastar banda de
+  más; una vez elegidos los fotogramas que sirven, los **volví a sacar en
+  1080p reales** apuntando `ffmpeg -ss <segundo> -i` directo a la URL del
+  .mkv original (`archive.org/download/rezearc/csmrezearc.mkv`, 1920×1080,
+  60 fps) con salto HTTP por rango: sale en segundos y no hace falta bajar
+  el archivo entero (5.28 GB) para una sola imagen. Cumple el «1080p o más»
+  del punto 2 para los fotogramas citados abajo. ✅ (dos fuentes: este
+  vídeo + los subtítulos japoneses ya citados en la biblia; el orden y las
+  líneas coinciden, con un desfase de **+15 a +20 s** entre este corte en
+  inglés y el corte japonés que usó la biblia).
 - **El cine se llama シネマ座 («Cinema-za»)**: se lee en el rótulo de la
   marquesina, letras plateadas en relieve sobre un panel verde azulado
-  metálico, con 4 focos colgantes. Fotograma en grande:
-  `/tmp/claude-0/trabajo/11-chainsaw-man-video/cine_sueltos/fotograma_00552.jpg`
-  (minuto 9:12 de este corte). ✅ — nombre nuevo, no estaba en la biblia.
+  metálico, con 4 focos colgantes. Fotograma en 1080p real:
+  `/tmp/claude-0/trabajo/11-chainsaw-man-video/marquee_1080.jpg`
+  (minuto 9:12 de este corte, 1920×1080). ✅ — nombre nuevo, no estaba en
+  la biblia.
 - **La sala por dentro**: butacas en **tono mostaza/ámbar envejecido**, NO
   rojo vino como proponía la biblia (§5.3, marcado «propuesto»). Medido con
   `estilo.py` sobre el fotograma de la sala llena (7:44 de este corte,
@@ -96,6 +102,18 @@ Carpeta de trabajo (hojas de contacto e índices): `/tmp/claude-0/trabajo/11-cha
 - Pelo de Denji, medido en fotograma real (`denji_poses/fotograma_00424.jpg`,
   min. 7:04): `#E1B760` (rubio dorado cálido), piel `#F2C89E`. ✅ coincide
   con lo ya dicho en la biblia, ahora con medición real en vez de memoria.
+- **Texturas de ambientCG ya miradas** (la biblia §5.4 las dejó sin abrir,
+  «no pude abrirlas»): bajé las miniaturas de las 9 candidatas y monté una
+  hoja (`texturas/hoja_texturas.jpg`). Resultado: **Fabric022** (pana/terciopelo
+  azul acanalado) y **Fabric026** (pana/terciopelo rojo acanalado) son las
+  que tienen el **canalado de terciopelo de butaca de cine** correcto; hay
+  que recolorearlas a mostaza/ámbar en el shader de Blender (el mapa de
+  altura y rugosidad sirve igual, el color base no). Fabric004 (carbono),
+  Fabric019 (nube blanca) y Fabric031 (tweed gris) no sirven para butaca.
+  Para el **papel de la entrada**: **Paper005** y **Paper006** ya son de
+  un crema/tostado muy parecido al `#EDE6D6` propuesto, con grano fino —
+  mejor opción que Paper001/003 (blancos, sin ese tono cálido). ✅ (visual,
+  miniaturas oficiales de ambientCG).
 - Sitio nuevo (no estaba en la biblia): un **área de descanso de carretera**
   al atardecer (bancas de madera, montañas moradas de fondo, coches
   estacionados), donde Makima y Denji comen juntos en el episodio 2 —
@@ -136,6 +154,14 @@ Carpeta de trabajo (hojas de contacto e índices): `/tmp/claude-0/trabajo/11-cha
   detalles dorados**, un electrocardiograma que se aplana (22:28-22:32,
   presagio visual), Tokio de noche, Denji tirado en el suelo mirando la
   tele solo. Hoja: `ed2/hoja_01.jpg`. ✅ visto directamente.
+- **Sonido de cada película-dentro-de-la-película**: los subtítulos de
+  sonido de este corte marcan un cue distinto para cada una de las 6
+  películas que ven: **«[action music playing]»** (7:44, la de peleas que
+  hace reír a todos menos a ellos), **«[viewers sniffling]»** (8:32, el
+  drama que hace llorar a la sala a la fuerza) y **«[classical music
+  playing]»** (8:52, la que Makima dice que «la música estaba bien»). Es
+  diseño de sonido deliberado: cada género de «película falsa» tiene su
+  propia música-ambiente. ✅ (mismo vídeo, subtítulo de sonido en pantalla).
 - **Tráiler visto** (no sólo enlazado): Dailymotion, «'Chainsaw Man' -
   Trailer final del anime» (id `x8dsw0h`, ya estaba en `datos-video.md`),
   92 s completos con `fotogramas.py`. Confirma: crédito de Fujimoto Tatsuki
@@ -181,8 +207,8 @@ el contexto de la frase». Confirmé estas seis con el fotograma real
 | Denji | `denji_poses/fotograma_00424.jpg` (min. 7:04, película, corte EN) | Ojos cerrados, sonrisa suave, **los dos puños a la altura del pecho**, ligeramente levantados — un «yay» tímido, no un puño triunfal grande | **celebrar** (versión contenida) ✅ |
 | Denji | `pareja_llanto/fotograma_00636.jpg` (min. 10:36) | De perfil, boca tapada con la mano, ceño fruncido conteniendo el llanto, mira de reojo | **pensar/emoción contenida** ✅ |
 | Makima | `cine3/hoja_01.jpg` fotograma 1 (min. 9:28) | Sentada, girada hacia Denji, mirada tranquila, dice la frase clave | **explicar/recomendar** ✅ |
-| Makima | `pareja_llanto/fotograma_00636.jpg` (min. 10:36) | De perfil, una lágrima cayendo, boca entreabierta, pelo rojo oscuro le tapa parte de la cara | **pensar/emoción** ✅ (además corrige el color de pelo, ver punto 4) |
-| Power | `power_poses/fotograma_01160.jpg` (ep. 2, min. 19:20) | Primer plano, boca muy abierta con colmillos afilados, cejas bajas, **pupila con forma de aspa/engranaje rojo y amarillo** (no es un iris normal) | **presentar** (grito de entrada) ✅ — detalle nuevo del diseño del ojo, no estaba en la biblia |
+| Makima | `llanto_1080.jpg` (min. 10:36, 1920×1080 real) | De perfil, una lágrima cayendo, boca entreabierta, pelo rojo oscuro le tapa parte de la cara | **pensar/emoción** ✅ (además corrige el color de pelo, ver punto 4) |
+| Power | `power_1080.jpg` (ep. 2, min. 19:20, 1920×1080 real) | Primer plano, boca muy abierta con colmillos afilados, cejas bajas, **pupila con forma de aspa/engranaje rojo y amarillo** (no es un iris normal) | **presentar** (grito de entrada) ✅ — detalle nuevo del diseño del ojo, no estaba en la biblia |
 | Aki | `aki_close/fotograma_00434.jpg` (ep. 7, min. 7:14) | De pie, comisura levantada en una sonrisa leve, mirada de lado, traje verde oliva con camisa blanca y corbata negra | **explicar/complicidad** (con Himeno) ✅ — la biblia sólo tenía portadas de manga para Aki, ahora hay un fotograma de anime real |
 | Himeno | `aki7/hoja_01.jpg` fotogramas 15-17 (ep. 7, min. 7:06-7:10) | Primer plano de un solo ojo (el otro tapado por el parche), pelo corto verde menta, mirada de lado | referencia nueva de personaje secundario, no pedida por el encargo pero disponible si el redactor la quiere | ⚠️ (una sola fuente, un plano) |
 
