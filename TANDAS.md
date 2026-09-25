@@ -24,7 +24,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] repaso 12-kakegurui
 - [ ] repaso 13-rick-and-morty
 - [ ] repaso 14-adventure-time-hora-de-aventura
-- [ ] repaso 15-spongebob-bob-esponja
+- [x] repaso 15-spongebob-bob-esponja
 - [ ] repaso 16-neon-genesis-evangelion
 - [ ] repaso 17-arcane
 - [ ] repaso 18-death-note
@@ -138,7 +138,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S11 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/41-dandadan.md`, `encargos/42-blue-lock.md`, `encargos/43-kaguya-sama-love-is-war.md`, `encargos/44-your-lie-in-april-shigatsu.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 41-dandadan
-- [ ] 42-blue-lock
+- [x] 42-blue-lock
 - [ ] 43-kaguya-sama-love-is-war
 - [ ] 44-your-lie-in-april-shigatsu
 

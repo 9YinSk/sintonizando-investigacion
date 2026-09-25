@@ -306,7 +306,7 @@ wiki (`countdown`) y fuera, sin resultado ⚠️.
 | 10 | Key visual 3: cristal roto, «2022年10月8日» | El vitral roto |
 | 11 | Key visual T2: Isagi con cadenas verdes | Aura y cadenas |
 | 12 | Key visual T2: Isagi chuta de día | Pose de remate |
-| 13 | Cap. 1 a color: logo «BLUELOCK» con un candado en la O | El logo |
+| 13 | Cap. 1 a color: logo «BLUELOCK» con **el emblema pentagonal en lugar de la O**, letras blancas con brillo azul | El logo |
 | 14 | Cap. 2: el edificio con el emblema y «青い監獄» (la cárcel azul), «育てろエゴイスト!!» (¡cría egoístas!) | Sitio y lema |
 | 16-19 | Retratos del manga en blanco y negro: Bachira, Rin, Nagi, Isagi | Cara y línea del manga |
 | 20, 32, 33 | **Nagi, Bachira e Isagi con la camiseta roja de Liverpool** y cadenas | Colaboración con Liverpool ⚠️ (§24) |
@@ -464,7 +464,8 @@ CC0 comprobado en la respuesta de la API de ambientCG ✅.
   En el tomo 1 va sobre verde neón `#96FC02`, con la palabra «BLUE»
   gigante, navy con filo blanco, cortada por el borde
   ([tomo 1 en la wiki](https://bluelock.fandom.com/wiki/File:JP_Volume_1.png)) ✅.
-  En el cap. 1 la O de «BLUELOCK» es un **candado** (hoja `arte_01`
+  En el cap. 1 la O de «BLUELOCK» es **el emblema pentagonal**, como
+  el panel de un balón, y las letras llevan brillo azul (hoja `arte_01`
   n.º 13, visto por el redactor).
 - **Nadie ha identificado la fuente del logo**: un hilo de
   [dafont](https://www.dafont.com/forum/read/526334/somebody-please-help-me-identify-similar-fonts-to-the-bluelock-anime-logo)
@@ -1597,3 +1598,461 @@ fecha salen del buscador. Sin vistas ni minuto ⚠️.
 | **Captain Tsubasa (47)** | aún sin biblia | — | Mismo deporte y mismo lote: revisar cuando exista |
 
 ---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas
+
+1. Japón cae en el Mundial de 2018 y la Federación decide que le falta
+   **un delantero egoísta** de nivel mundial.
+2. **Anri Teieri** propone el plan y **Jinpachi Ego** encierra a **300
+   delanteros** de instituto en la instalación **Blue Lock**.
+3. Se entrenan y se enfrentan entre ellos; **quien pierde queda fuera
+   de la selección para siempre**.
+4. Lo que se entrena es el **ego**: la obsesión por marcar uno mismo.
+5. Al final sólo uno debe quedar como **el mejor delantero del mundo**
+   para llevar a Japón a ganar el Mundial.
+
+Fuentes: wikitext de la wiki, AniList y el discurso de Ego (T2-14,
+18:00-19:00) ✅.
+
+### 26.2 La historia por arcos
+
+| Arco | Capítulos (manga) | Anime | Qué pasa |
+|---|---|---|---|
+| Introducción | 1-4 | T1 | Isagi pierde la final de la prefectura y lo convocan, 299.º de 300 |
+| **Primera selección** | 5-38 | T1 | Equipo Z contra los demás equipos; Isagi conoce a Bachira, Chigiri, Kunigami; Nagi y Reo en el Equipo V |
+| **Segunda selección** | 39-86 | T1 | Tríos que se «roban» jugadores; aparece **Rin, el Rank 1**, y se lleva a Bachira (ep. 13) |
+| **Tercera selección** | 87-108 | T1 | Se forma el **Blue Lock Eleven** |
+| **Blue Lock contra la Sub-20 de Japón** | 109-151 | T2 (*VS. U-20 JAPAN*) | Contra Sae; gana Blue Lock 4-3 con el gol de Isagi; al final aparece **Kaiser** (Doblaje Wiki lo pone en el ep. 38) |
+| **Neo Egoist League** | 152-302, sigue | T3 anunciada, sin fecha | Clubes de Alemania, Inglaterra, España, Italia y Francia entrenan en Blue Lock; cada jugador elige club |
+
+Capítulos contrastados por la parte de texto con la wiki y listas de
+fans ✅; el reparto de arcos por temporada, con lo visto y la wiki ⚠️.
+Aparte: **película *Episode Nagi*** (2024) y su **manga** (2022-2025,
+36 capítulos, dibujo de **Kota Sannomiya**) ✅.
+
+### 26.3 Símbolos y objetos
+
+- **El azul**: Kaneshiro lo eligió porque **la selección japonesa jugó
+  sus mejores partidos de azul**; y sobre el ego: «al final todos
+  vivimos para nosotros mismos, ¿por qué no dejar correr tu ego?»
+  (entrevista en Animania, citada por
+  [CBR](https://www.cbr.com/blue-lock-muneyuki-kaneshiro-color-significance/)) ✅.
+- **Las cadenas**: en portadas, trajes y colaboraciones. **El autor
+  nunca explicó qué significan**; el fandom las lee como el ego, el
+  lazo con el proyecto o con el fútbol japonés ✅.
+- **El pentágono en la O**: la O de «BLUELOCK» es el emblema
+  pentagonal en el cap. 1 (hoja `arte_01` n.º 13) ✅ visto. **«青い監獄»,
+  la cárcel azul** (cap. 2, n.º 14).
+- **El emblema**: diamante verde con cadena en la fachada y
+  [en Wikimedia](https://upload.wikimedia.org/wikipedia/commons/3/35/Blue_Lock_Logo_Japan.png);
+  **pentágono** sobre la entrada al estadio (n.º 26) y en la carta de
+  REMATCH ✅.
+- **El ranking**: cada jugador es un número («280位», «RANK 1»). Isagi
+  entra el 299.º ✅.
+- **La pieza de puzle en el ojo de Isagi** (T2, `fondos_01` n.º 186 y
+  190) ✅ visto.
+- **El vitral azul roto**: portada del tomo 1, juego y key visual 3 ✅.
+- **Objetos**: el balón, el bodysuit, la carta de convocatoria, el
+  cactus Choki, el móvil de Nagi, las mascarillas de Rin, el marcador
+  colgado.
+
+### 26.4 Vocabulario que un fan reconoce
+
+| Palabra | Qué es |
+|---|---|
+| **Ego / egoísta** | El valor central: no es soberbia, es lo que desbloquea tu potencial |
+| **Arma** | Lo que cada delantero hace mejor que nadie («mi mayor arma es mi regate») |
+| **Diamantes en bruto** (才能の原石) | Cómo llama Ego a los jugadores |
+| **Monstruo** | El instinto de Bachira que juega dentro de él |
+| **Flow** | El estado de concentración total, con aura |
+| **破壊獣**, la bestia destructora | El apodo de Rin tras despertar |
+| **Raumdeuter** | «Investigador del espacio»: el arquetipo de Isagi |
+| **Blue Lock Eleven** | La selección de Blue Lock contra la Sub-20 |
+| **Neo Egoist League** | La fase 2: ligas con clubes europeos |
+| **Bastard München, Manshine City, FC Barcha, Paris X Gen, Ubers** | Los clubes, parodias de Bayern (con ropa «Abibas»), Manchester City, Barcelona, PSG y un italiano ([Blue Lock Store](https://bluelockstore.co/blogs/infos/guide-equipes-neo-egoist-league-blue-lock), [bluelock.wiki](https://bluelock.wiki/story-and-plot/what-teams-are-in-neo-egoist-league)) ✅ |
+| **Re AL** | El club de Sae (parodia del Real Madrid, por el nombre) ⚠️ |
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Las tres siguen las reglas del dueño: **objeto real en un sitio real**
+de la serie, hecho en Blender cuando se puede; pose y cara que van con
+lo que dicen; textos cortos, en la voz de la serie, sin «·», «—» ni
+paréntesis; y lámina 2 si se satura.
+
+### A · #castings — «La convocatoria» (recomendada)
+
+- **El objeto y el sitio**: una **carta de convocatoria** doblada en
+  tres, papel azul noche con cadenas impresas y el emblema pentagonal
+  (como la carta de REMATCH, §7.1), abierta sobre la banca de metal de
+  la **sala hexagonal de rejilla azul**, delante de las taquillas
+  (tráiler, [0:29-0:46](https://archive.org/details/youtube-QAlsuW5EXUg?t=35)).
+  Una **cadena real** cruza la carta y la cierra con el **emblema
+  pentagonal** del logo (la O de «BLUELOCK», n.º 13). Blender: plano con pliegues y [Paper001](https://ambientcg.com/view?id=Paper001),
+  cadena con *Array*, taquillas con Metal063.
+- **Quién**: **Rin Itoshi**, el 1.º de la encuesta oficial. Apoyado
+  en la taquilla, **brazos cruzados**, mirada fría a cámara. Cara:
+  tráiler U-20 [0:30](https://www.dailymotion.com/video/x98n4ks?t=30);
+  ropa: uniforme azul n.º 10 con brazalete (hoja `arte_01` n.º 37) o
+  bodysuit (n.º 2).
+- **Cómo habla**: su **cartel de rango** arriba a la izquierda, «1位»
+  pequeño y «ITOSHI RIN» grande en Anton negra con filo blanco. Su
+  frase, **suelta y blanca, sin globo**, en Anton sobre la zona oscura
+  a su lado.
+- **Dónde va cada texto**:
+
+| Sitio | Texto |
+|---|---|
+| Cartel de rango | «1位» / «ITOSHI RIN» |
+| Frase de Rin | «Aquí entran muchos.» «El papel es para uno.» |
+| Cabecera de la carta | «CONVOCATORIA» |
+| Cuerpo de la carta, una línea cada idea | «Cada casting es un hilo.» «Di el papel, el proyecto y si se paga.» «Ponle sus etiquetas.» «Cuando el papel tenga dueño, ciérralo.» |
+| Pie de la carta | «Antes de abrir el tuyo, lee el hilo fijado.» |
+| **Lámina 2** | Las 15 etiquetas como chips rojos del juego, en tres filas: tipo de obra (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro), pago (Pagado, Sin paga), estado (Abierto, Cerrado, Urgente) y extras (Oficial del servidor, Canto, +18) |
+
+- **Para que no quede plano**: luz de neón azul que sube de la rejilla
+  del suelo (`#285A78` sobre `#020D18`); Rin a media distancia, en
+  semisombra, con **luz de contorno turquesa** (su aura, `fondos_01`
+  n.º 164); la carta en primer plano, nítida; la cadena delante de
+  todo, desenfocada; un balón en el suelo; reflejo del neón en el metal
+  de las taquillas.
+
+### B · #demos — «Tu ficha de jugador»
+
+- **El objeto y el sitio**: una **carta de jugador** física, como la
+  del Training Pack de REMATCH ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868930/b89d62480d3e067a1ebe6f4cac11191684c395de/ss_b89d62480d3e067a1ebe6f4cac11191684c395de.1920x1080.jpg))
+  y las hojas de parámetros de los tomos (§3.1): fondo navy `#191E32`,
+  filete azul `#374F8B`, barras de estadística. Sitio: la **sala «1st
+  STAGE LV.1»**, rejilla celeste y portero-máquina al fondo (`fondos_01`
+  n.º 148). Blender: carta con brillo holográfico, esquinas rectas.
+- **Quién**: **Bachira**, el 1.º de AniList. Sostiene la carta hacia
+  cámara con una mano, **guiño y sonrisa afilada** (teaser
+  [0:30](https://www.dailymotion.com/video/x89nzmm?t=30) y
+  [0:28](https://www.dailymotion.com/video/x89nzmm?t=28)); ropa: azul
+  n.º 8 (`arte_01` n.º 35). Detrás, la **sombra de su monstruo**.
+- **Cómo habla**: cartel de rango «280位» / «MEGURU BACHIRA»; frase
+  suelta, blanca, al lado de la sonrisa. Datos de la carta en Oswald
+  Bold; etiquetas en Rajdhani.
+- **Dónde va cada texto**:
+
+| Sitio | Texto |
+|---|---|
+| Cartel de rango | «280位» / «MEGURU BACHIRA» |
+| Frase de Bachira | «Mi mayor arma es mi regate.» «¿Cuál es la tuya?» |
+| Carta, campos | «NOMBRE: el tuyo» «RANGO: tu rango vocal» «ARMA: tus demos» «ESTADO: Disponible u Ocupado» |
+| Carta, abajo | «Un hilo con tu nombre, tus demos y tu rango vocal.» |
+| Pantalla de la sala | «Lee la ficha fijada antes de abrir la tuya.» |
+| **Lámina 2** | Las 19 etiquetas como estadísticas de la carta: voz (Masculina, Femenina, Andrógina), edad (Infantil, Joven, Adulto, Anciano), tipo (Narración, Comercial, Canto, Imitación), medio (Anime, Series, Películas, Videojuegos, Audiolibro), estado (Disponible, Ocupado, Colaboración) |
+
+- **Para que no quede plano**: la carta cerca de cámara con reflejo
+  holográfico; Bachira a medio plano; el monstruo como silueta oscura
+  detrás, más grande que él; la rejilla en perspectiva hacia el fondo;
+  un balón desenfocado abajo.
+
+### C · #a-que-juegas — «El móvil de Nagi»
+
+- **El objeto y el sitio**: **el móvil de Nagi** con una partida en
+  pantalla y, al lado, **el cactus Choki** en su maceta, en el suelo
+  del **cuarto** de Blue Lock: colchonetas verdes y ropa tirada
+  (`fondos_01` n.º 155). Blender: móvil con pantalla emisiva, cactus,
+  colchoneta.
+- **Quién**: **Nagi**, el más constante en todas las encuestas.
+  **Tumbado bocabajo**, ojos entornados, el móvil entre las manos
+  (teaser 8, [0:16](https://www.dailymotion.com/video/x8cmhe2?t=16)).
+  Sudadera o bodysuit.
+- **Cómo habla**: la escena real de *Episode Nagi*
+  ([31:00](https://archive.org/details/film-vostfr-blue-lock-episode-nagi?t=1860)):
+  Reo le pregunta si quiere el móvil y él dice que sí, que quiere
+  jugar. Va como **dos avisos en la pantalla**, paneles navy con filete
+  azul del juego (§7.1), en Rajdhani. Nada de globo.
+- **Dónde va cada texto**:
+
+| Sitio | Texto |
+|---|---|
+| Aviso 1, de Reo | «¿Quieres el móvil?» |
+| Aviso 2, de Nagi | «Sí. Quiero jugar.» |
+| Pantalla del juego, título | «¿A QUÉ JUEGAS?» |
+| Pantalla, tres botones | «Lo que estás jugando» «Tus capturas» «Quién se apunta» |
+| Pequeño, junto al cactus | «Qué pereza. Una partida y ya.» |
+
+- **Para que no quede plano**: la luz fría de la pantalla sube a su
+  cara desde abajo; fluorescente blanca arriba; el cactus en primer
+  plano, desenfocado; la colchoneta en perspectiva; ropa y un balón al
+  fondo.
+
+---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que corregí (con la prueba)
+
+1. **«Suit anime design» es el bodysuit, no un «traje formal de gala»**
+   (parte de imagen). Visto en la hoja `arte_01` n.º 2, 6, 45 y 47. Y
+   los PNG tienen **fondo transparente** (56-59 % de los píxeles): el
+   «negro 27 %» y el «blanco 31 %» medidos eran el fondo. El redactor
+   los volvió a medir sólo sobre lo opaco (§16.1).
+2. **El ending 1 lo canta Shūgo Nakamura (仲村宗悟)**, actor de voz de
+   Gagamaru, no «un ex vocalista de Galneryus» (AniList, staff).
+3. **El opening de la T2 se lee «Gōman»** (傲慢), no «Boujaku».
+4. **Nagi ficha por Manshine City**, no por «Brightneon» (wiki +
+   parte de texto + parte de imagen).
+5. **Colores de pelo**: un resumen de la parte de voz decía Bachira
+   «verde azulado», Nagi «violeta» y Rin «bicolor». La wiki y Danbooru
+   dicen: Bachira castaño oscuro con mechas doradas por debajo, Nagi
+   blanco, Rin verde oscuro (§16.3).
+6. **Los ojos de Nagi son grises** (wiki, `grey_eyes`), no marrones ni
+   ocre.
+7. **Bachira sí juega el partido contra la Sub-20**: la wiki describe
+   su uniforme de ese partido y su madre está en la grada (T2-09,
+   4:20). La parte de voz decía que no jugaba; lo que pasa es que la T2
+   **no se miró entera**.
+8. **Isagi lleva el n.º 11 contra la Sub-20**, no el 10 (hoja n.º 41;
+   el 10 con brazalete es de Rin, n.º 37).
+9. **El final de la T2 es contra la Sub-20 de Japón** (con Sae), no
+   «contra Sae y el PXG».
+10. **«Je n'attends plus que votre feu vert» no lo dice Isagi**: la
+    transcripción japonesa de las 22:00 es Ego ante la Federación,
+    «あとは皆さんのアグリーだけ». La imagen de Isagi a las 23:00 sigue
+    valiendo como pose.
+11. **«世界一尊敬される馬鹿になる» y lo de la familia lista no es de la
+    familia de Nagi**: en *Episode Nagi*, 34:00, habla un compañero de
+    equipo de su propia familia («俺以外はみんなかしこい», todos son listos
+    menos yo) y luego le pregunta a Nagi por qué juega. Por el contexto
+    es Zantetsu ⚠️.
+12. **Los números de hoja** de la parte de imagen (n.º 60, 110…) son de
+    las 15 hojas del recolector, que no están en el repositorio. Aquí se
+    usan los de `hojas/`. La hoja n.º 33 («Isagi Blue Lock x
+    Liverpool») no es el uniforme de Japón: es una **colaboración con
+    Liverpool** (§24).
+13. **Fechas leídas en los carteles** (JR, Sanrio, Treevillage): §24.
+
+### 28.2 Lo que no se pudo verificar
+
+- **Frases del doblaje latino con minuto**: ningún clip oficial
+  doblado al alcance; sólo las 3 de Doblaje Wiki con episodio.
+  *Hay que oírlas*: el «¡SIUUUU!» (ep. 7), «perdón que te sal-piqué»
+  (ep. 16) y «¡que pase el desgraciado!» (ep. 32).
+- **Caras**: la **rabia de Bachira**, la **vergüenza de Nagi** y la
+  **de Rin** (§8.5). Para Bachira, mirar la T2 entera o la 2.ª
+  selección de la T1.
+- **Opening y ending sin mirar** (AnimeThemes 522, YouTube bloqueado).
+  Títulos de OP2, ED2 y OP de la T2 con una sola fuente.
+- **Qué música suena en cada escena**: la huella acústica no dio
+  coincidencia.
+- **Efectos de sonido** que reconozca el fandom: no encontrados.
+- **Vistas de TikTok y de los fandubs**: no se pudieron abrir.
+- **Fuente del logo**: nadie la ha identificado.
+- **Letra para globo normal, pensamiento y subtítulos**: no se buscó.
+- **Interfaz de *Blaze Battle*** por dentro: no vista.
+- **Licencia de los paquetes de trama** gratuitos.
+- **Escudos sueltos** de los clubes de la Neo Egoist League.
+- **Nendoroid de Nagi y de Rin**.
+- **Club de Isagi en la Neo Egoist League**: no está en las partes.
+- **Encuesta latinoamericana** de personajes.
+- **El «1:14» del tráiler**: ojos brillando sin identificar.
+- **TV Tropes** dio el reto de Cloudflare a la parte de texto (la de
+  voz sí llegó a la página YMMV). **TCRF** no tiene página. **Coreano y
+  chino**: no se buscó nada.
+
+---
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Key visuals T1 y T2, *Episode Nagi*, tomos, portadas a color de la revista, hojas de parámetros, modelos del anime por arco, plano de la instalación, libro *EGOIST BIBLE*, arte de 2 juegos y de REMATCH; 3 hojas miradas número a número (§3). Sin cartones de cuenta atrás ⚠️ |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | Más de 40 momentos con minuto en 2 tráileres, 3 teasers, 3 episodios y la película, vistos de verdad (§2). **Ningún fotograma propio en 1080p**: vídeos a 720p como mucho (YouTube bloqueado); los 1920×1080 de la wiki no traen minuto. Los minutos de la grabación de Toonami son del archivo |
+| 3 · Fan art y 3D con licencia | ✅ | Fan art con autor de Safebooru, Pixiv, X y Tumblr; 8 modelos de Sketchfab con autor y licencia CC BY; crédito exacto (§4). Dos modelos de fans con crédito dudoso ⚠️ |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 4 sitios con paleta medida con `estilo.py` y 5 más descritos con su luz; regla fuera cálido, dentro frío; plano oficial; 9 texturas CC0 (§5). Estadio, sala «1st STAGE» y cuarto sin hex ⚠️ |
+| 5 · Tipografía, una letra por uso | ⚠️ | Logo, cartel de rango, declaraciones, carteles, juego descritos; 6 usos con letra libre comprobada con fontTools y el aviso del subconjunto `latin` (§6). **Globo normal, pensamiento y subtítulos: no se investigó**; fuente del logo sin identificar |
+| 6 · Cómo hablan en pantalla | ✅ | Cartel de rango (anime y manga), declaración sin globo, monólogo de Isagi con el ojo y el puzle, marcador, interfaz del juego medida, carta de convocatoria; receta y qué no hacer (§7) |
+| 7 · Personajes y encuestas de popularidad | ✅ | 2 encuestas oficiales con votos, AniList y Danbooru; Rin 1.º oficial, Bachira 1.º en AniList, Isagi el más dibujado (§9). Sin encuesta latinoamericana ⚠️ |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ⚠️ | Estudio, dirección y equipo; los 4 principales y 6 secundarios con dos o tres fuentes; star talent con dos fuentes (§10). **Frases latinas: sólo 3 de Doblaje Wiki con episodio, sin minuto**; no hay clips oficiales doblados accesibles y el único tráiler doblado oído era de España |
+| 9 · Música y sonido | ⚠️ | 6 temas con intérprete, compositor, un tema por personaje en el álbum oficial, intento con huella acústica (§11). **OP y ED sin mirar**, 3 títulos con una fuente, **efectos de sonido no encontrados** |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 12 vídeos con enlace y minuto, uno de análisis (§12). **TikTok sin vistas ni fecha**; tráiler de imagen real sin mirar |
+| 11 · Videojuegos: interfaz y cajas | ✅ | *Project: World Champion* con interfaz medida (paneles, filetes, chips, fondo), *Blaze Battle*, REMATCH con su traje y carta, eFootball (§13). Interfaz de combate de *Blaze Battle* sin ver ⚠️; TCRF sin página |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 8 cosas que todo fan reconoce y 10 reglas de qué no hacer, con fuente (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | Historia, carácter, arco, cómo habla, cuerpo y dinámicas de los 4, más 7 secundarios (§8). **17 de 20 caras con minuto**: faltan la rabia de Bachira y la vergüenza de Nagi y de Rin; el miedo y la tristeza de Rin son de niño. Ninguna inventada |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | Isagi 10, Bachira 9, Nagi 9, Rin 10, con minuto o número de hoja, y tabla de cuál sirve para presentar, explicar, celebrar, regañar, pensar y animar (§15) |
+| 15 · Vestuario con hex | ✅ | Bodysuit y camisetas medidos de nuevo sin el fondo transparente, dorsales de los 4 en 6 arcos, pelo y ojos fijos, ropa de colaboraciones (§16). Club de Isagi en la Neo Egoist League sin dato ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | Sitios con hora y luz; 11 fondos con tamaño y quién los subió, uno oficial de 3840×2160; 48 capturas oficiales en la hoja (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Estilo común, prompt, rasgos fijos, etiquetas y referencias de cada uno, fondos, palabras que ayudan y que estropean; voz de cada uno y 21 frases reales por emoción; vocabulario visual (§18). Varias frases vienen del manga en inglés ⚠️ |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Autores con formación y cita textual de Nomura, estudio y uso de CG, staff completo, recetas de Photoshop y Blender, 7 encuadres por emoción (§19). Programa de dibujo sin confirmar ⚠️ |
+| 19 · Texturas 2D | ✅ | Trama, líneas de velocidad, papel, malla, cuero, vitral, cadenas, logo con licencia (§20). Licencia de los paquetes de trama sin confirmar ⚠️ |
+| 20 · Gustos y detalles | ✅ | Cumpleaños, altura y sangre con dos fuentes; comida, aficiones, animal, jugador favorito, objeto y cómo se ven, del libro oficial vía la wiki (§21) ⚠️ una fuente en esos campos |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Razones con fuente, 4 escenas de llorar con minuto y cómo están hechas, 5 de gritar o reír (§22). **Comentarios más votados y vídeos de reacción sin abrir** (YouTube) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 6 fandubs, 6 covers y etiquetas de TikTok con enlace y fecha (§23). **Ninguno reproducido: sin vistas ni minuto**; sin comunidad hispana propia encontrada |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 9 colaboraciones (fechas leídas en los carteles), 2 Nendoroid, 1 cosplay CC BY, y la falsa de Umamusume descartada (§24). Liverpool y Treevillage con una fuente ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 14 obras de AniList con votos y matiz, influencias de los autores, 9 láminas vecinas (§25) |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | Reglas en 5 líneas, 6 arcos con capítulos y temporada, 8 símbolos, 11 palabras propias (§26) |
+| Tres conceptos de lámina | ✅ | A #castings (carta, Rin), B #demos (ficha, Bachira), C #a-que-juegas (móvil, Nagi), con objeto, sitio, pose, letra, textos y profundidad (§27) |
+| Canal propuesto | ✅ | #castings recomendado, con dos alternativas y 4 ideas más; coincidencias anotadas, sin bloquear nada (§0) |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas en el cuerpo: wikis en 3 sitios de Fandom, AniList, Doblaje Wiki, prensa en inglés, español y japonés, tiendas, juegos, bancos de arte, 3D, vídeo, Reddit, GitHub, Wayback |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | ✅ oficiales (web y redes, tráileres, juegos), entrevista a los autores, japonés (Design Pocket, blog de UI, transcripciones), wikis, TV Tropes (YMMV), Reddit, arte (Pixiv, Danbooru, Safebooru, Wallhaven), vídeo, GitHub, Wayback, 3D, doblaje latino. ⚠️ **Coreano y chino: nada**; TCRF sin página; entrevistas a actores latinos, no |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (988, 279 y 742 KB), miradas número a número (§3.2) |
+| `referencias.json` | ✅ | Todas las útiles de las 4 partes y de `datos.json`, las mejores primero, con tamaños medidos |
+| Frases del doblaje latino textuales, con vídeo y minuto | ⚠️ | Sólo con episodio (§10.3) |
+| Mirar los vídeos de verdad | ⚠️ | Tráileres, teasers, 3 episodios y la película mirados; **opening y ending no** |
+| Colores medidos, no inventados | ✅ | Más de 40 hex de `estilo.py` sobre fotogramas y arte oficial, y 12 re-medidos por el redactor sobre los modelos del anime |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes, la del recolector y lo que
+hizo el redactor. ✅ = confirmado con dos fuentes o visto; ⚠️ = una
+fuente o por comprobar.
+
+### 29.1 Recolector (`recolectar.py`, sin IA, 24-sep-2026)
+
+- **AniList**: ficha, staff, 25 personajes con favoritos y voces,
+  recomendaciones, relacionadas ([AniList](https://anilist.co/anime/137822)).
+- **Doblaje Wiki** por su API: ficha y reparto (la tabla de los
+  principales vino vacía; **sin muestras de audio** para esta serie).
+- **Wiki de Fandom** (`bluelock`): imágenes de 4 fichas con tamaño,
+  Appearance, Personality y Abilities; **15 hojas de contacto** con 687
+  imágenes en `herramientas/referencias/blue-lock/`.
+- **Danbooru** (etiquetas y recuento), **Safebooru** (fan art),
+  **Wallhaven** (fondos; trajo ruido de otras series), **Sketchfab**,
+  **Openverse** (sólo candados reales), **Dailymotion**, **Internet
+  Archive**, **MusicBrainz** (sólo falsos positivos por «lock»),
+  **Steam** (REMATCH Training Pack) y **Reddit** (r/BlueLock).
+- **Falló**: AnimeThemes, HTTP 522.
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **Red directa**: API de la wiki (`imageinfo`, `list=search`,
+  `list=allimages` con «Blue Lock LA», «Team», «Manshine»); Danbooru
+  (`itoshi_rin`, la etiqueta que faltaba); Safebooru
+  (`itoshi_rin sort:score`); Sketchfab («soccer ball», «blue lock
+  stadium», «blue lock facility»); Poly Haven (nada de la serie);
+  ambientCG (concrete, metal, grass, leather, fabric, paper); Wallhaven
+  por texto «Blue Lock»; Steam `appdetails`; Openverse «Blue Lock
+  cosplay».
+- **Buscador** (inglés y japonés): eFootball, Nendoroid, juegos
+  («ブルーロック ゲーム アプリ 公式»), REMATCH, Sanrio, Umamusume (no existe),
+  Ado, película de imagen real, «ブルーロック EGOIST BIBLE», tramas libres.
+- **Miró** las 15 hojas del recolector y 8 imágenes sueltas medidas con
+  `estilo.py`.
+- **No encontró**: cartones de cuenta atrás, escudos sueltos de los
+  clubes, Nendoroid de Nagi y Rin, licencia de las tramas, fecha y
+  ciudad de Treevillage y JR (las leyó después el redactor).
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- **YouTube** pidió iniciar sesión («Sign in to confirm you're not a
+  bot»). **AnimeThemes**: 522 tres veces. **Jikan**: 504.
+  **Wikipedia**: 429 dos veces, respondió a la tercera.
+- **Dailymotion** por su API: «opening full», «episode 1», «Isagi
+  awakening», «Crunchyroll clip», «Bachira Meguru», «Teaser Isagi»,
+  «Teaser Itoshi», «Animé Teaser» (así salieron los teasers numerados).
+- **Internet Archive**: `title:(blue lock) AND mediatype:(movies)`, 200
+  filas; `metadata` de cada candidato (descartó `bl-s1` y
+  `blue-lock-s-1-part-2_202311`, vacíos).
+- **Buscador** (3 búsquedas): lista de OP y ED (ANN + Wikipedia),
+  tendencias de TikTok (floja), efectos de sonido (nada).
+- **Mirado con `fotogramas.py`**: tráiler (36 planos), recopilación T1
+  1-4 (más de 180 fotogramas en 3 pasadas), T2-14 (24), *Episode Nagi*
+  (55), grabación de Toonami (61), teaser de Bachira (27), teasers 7 y 8
+  (27), tráiler U-20 (24), Eight Bit (3). `estilo.py` sobre 3
+  fotogramas propios. `episodio.py` en T2-14 (13:00-23:51) y *Episode
+  Nagi* (30:00-40:00), 344 planos.
+- **Huella acústica**: audio de T2-14 (19:55-23:05) contra «RIN» y
+  «NAGI» con `fpcalc` (Chromaprint): sin coincidencia limpia.
+
+### 29.4 Investigador de voz (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Buscador** (12 búsquedas, español e inglés): «ANMTV Blue Lock
+  doblaje latino elenco», «Blue Lock encuesta popularidad oficial
+  Kodansha», «Blue Lock fandub español latino youtube», «Blue Lock
+  reddit made me cry», «Blue Lock meme siuu Cristiano Ronaldo», «Blue
+  Lock por qué es popular Latinoamérica», «Blue Lock CONCACAF
+  colaboración», «Blue Lock fans complain out of character fanart»,
+  «Blue Lock Chigiri crying scene episode 7», «TV Tropes Blue Lock
+  YMMV», «Blue Lock ship Isagi Bachira Nagi Rin», «Blue Lock opening
+  cover español latino».
+- **Red directa**: API de Doblaje Wiki; API de la wiki en inglés y en
+  español (Quotes, Trivia, Personality, Relationships, Encuestas de
+  popularidad); Dailymotion; Internet Archive.
+- **Mirado**: T2-14, T2-09 (principio), *Episode Nagi* (cada 25 s y dos
+  pasadas finas en 1:18-1:23), la grabación de Toonami del ep. 13 (V4);
+  unos 470 fotogramas en 11 hojas.
+- **`voz.py`** sobre dos tráileres de Dailymotion: uno era doblaje de
+  **España**, el otro sin diálogo aprovechable. Búsquedas en Dailymotion
+  sin resultado: «El mayor egoísta BLUELOCK doblaje», «Isagi potencial
+  BLUE LOCK doblaje», «Nagi traiciona Reo BLUE LOCK», «Blue Lock tráiler
+  doblaje latino Crunchyroll», «Blue Lock avance latino», «Blue Lock
+  Crunchyroll Latinoamérica», «Blue Lock español latino escena».
+- Buscó el ep. 22 «Voice» y el 19 en Internet Archive y Dailymotion: no
+  están.
+
+### 29.5 Investigador de texto (puntos 5, 6, 11, 18, 24, 25)
+
+- **Buscador**: español («Blue Lock juego oficial videojuego móvil»,
+  «Blue Lock manga español editorial Panini Ivrea»), inglés (juegos,
+  *Blaze Battle*, TCRF, «Blue Lock logo font identify dafont»,
+  fontsinuse, DSEG7, entrevista a Nomura, 8bit y CG, Nomura e Isayama,
+  arcos, simbolismo del azul y las cadenas, clubes de la Neo Egoist
+  League, colores de aura, REMATCH) y japonés («ブルーロック フォント 書体
+  ロゴ», «ブルーロック 単行本 ロゴ フォント 制作»).
+- **Red directa**: Google Play, App Store, bluelock-pwc-gl.com, TapTap,
+  API de Fandom (manga, Yusuke Nomura), Wayback Machine,
+  api.fontsource.org y jsDelivr (5 fuentes comprobadas con fontTools),
+  Sketchfab.
+- **Bloqueos**: TV Tropes (Cloudflare, dos intentos); ficha de *Blaze
+  Battle* en Google Play («Not found», dos veces); vídeo de *Blaze
+  Battle* borrado.
+
+### 29.6 Redactor (esta biblia)
+
+- Leyó todas las partes, `datos-*.md` y los `.json`.
+- **Miró las 3 hojas de `hojas/`** y amplió con Pillow los n.º 14, 21,
+  23, 24, 26, 31, 33-40, 42, 44, 673, 674 y 680 para leer carteles,
+  dorsales y el cartel de rango.
+- **Bajó 4 modelos del anime de la wiki** (Isagi «suit» y «uniform»,
+  Rin «suit», Nagi «uniform») y midió el color **sólo en los píxeles
+  opacos** (corte por mediana, 6 colores): así salió que «suit» es el
+  bodysuit y que el fondo transparente había entrado en las medidas.
+- Cruzó el ending 1 con el staff de AniList, el club de Nagi con la
+  wiki y la parte de texto, y las frases de T2-14 y de *Episode Nagi*
+  con la transcripción de `episodios.md`.
+- Revisó los canales de las demás biblias (`grep '^canal:'`) y el
+  inventario del servidor.
+
+### 29.7 Fuentes consultadas, por tipo
+
+- **Oficiales**: [bluelock-pr.com](https://bluelock-pr.com/tv1st/),
+  [X oficial en japonés](https://twitter.com/bluelock_pr) y
+  [en inglés](https://x.com/Blue_Lock_En),
+  [Crunchyroll](https://www.crunchyroll.com/series/G4PH0WEKE/blue-lock),
+  [Netflix](https://www.netflix.com/title/81640753),
+  [Hulu](https://www.hulu.com/series/82c637ed-3f67-4488-bf73-eacf1beafe17),
+  [Bilibili TV](https://www.bilibili.tv/media/2069747/), webs de los
+  juegos, Steam, Konami, Good Smile, Ivrea.
+- **Wikis**: [wiki de Blue Lock](https://bluelock.fandom.com/wiki/Blue_Lock_Wiki),
+  su versión en español, Doblaje Wiki, wiki de *shipping*,
+  [bluelock.wiki](https://bluelock.wiki/story-and-plot/what-teams-are-in-neo-egoist-league),
+  TV Tropes.
+- **Prensa**: Anime News Network, CBR, Anime Corner, Abema Times,
+  Gematsu, Gamespress, Sportskeeda, SDP Noticias, Posta Deportes, ANMTV.
+- **Japonés**: Design Pocket, [blog de UI de juegos](https://appgameui.hatenablog.com/entry/2024/06/01/214015), sitebk.com, transcripciones de Whisper.
+- **Comunidad**: [Reddit r/BlueLock](https://www.reddit.com/r/BlueLock/),
+  TikTok, dafont.
+- **Arte**: Safebooru, Danbooru, Pixiv, Tumblr, X, Wallhaven.
+- **3D y texturas**: Sketchfab, ambientCG, Wikimedia Commons, Flickr
+  (vía Openverse).
+- **Código y letras**: [GitHub (DSEG)](https://github.com/keshikan/DSEG),
+  jsDelivr, Fontsource.
+- **Vídeo**: Internet Archive, Dailymotion, YouTube (bloqueado).
+- **Música**: Internet Archive, [MusicBrainz](https://musicbrainz.org/)
+  (sin resultados útiles).
+- **Páginas borradas**: [Wayback Machine](http://web.archive.org/web/20260222052038/https://bluelock.fandom.com/wiki/Yusuke_Nomura).
+
+### 29.8 Lo que NO se encontró
+
+Está todo en §28.2. Lo principal: frases latinas con minuto, tres caras
+por emoción, opening y ending mirados, efectos de sonido, vistas de
+TikTok y de los fandubs, fuentes en coreano y chino.

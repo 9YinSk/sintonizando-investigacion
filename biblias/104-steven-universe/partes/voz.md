@@ -71,34 +71,62 @@ citado en el propio wikitext; ⚠️ = sólo la tabla de reparto):
   le pareció «una personalidad similar a la de ella», según ella misma) ·
   Doblaje Wiki + entrevista en YouTube citada en el wikitext («El Retake con
   Luis Carreño») · ✅
-- Garnet · Rocío Mallo (1.ª-5.ª, Venezuela) · Doblaje Wiki ⚠️ (no hallé
-  segunda fuente independiente en esta tanda)
+- Garnet · Rocío Mallo (1.ª-5.ª, Venezuela; su propio alias en Doblaje Wiki
+  es «Mamá Garnet») · Doblaje Wiki (tabla de reparto) +
+  https://doblaje.fandom.com/es/wiki/Rocío_Mallo (ficha propia, con la
+  muestra Garnet.ogg) · ✅ (segunda fuente: página individual)
 - Amatista · Stefani Villarroel (1.ª-5.ª; desde la 5.ª temporada graba
-  autodirigida desde Chile, lo que le cambia el tono) · Doblaje Wiki ⚠️
-- Connie Maheswaran · Yasmil López (temporadas 1.ª-5.ª, eps. 1-139),
-  Abigaly Claro (ep. 121, 4.ª temp.), Navid Cabrera (eps. 151-160, 5.ª) ·
-  Doblaje Wiki ⚠️
-- Greg Universe · Henrique Palacios (1.ª-5.ª) · Doblaje Wiki ⚠️
+  autodirigida desde Chile, lo que le cambia el tono) · Doblaje Wiki +
+  https://doblaje.fandom.com/es/wiki/Stefani_Villarroel · ✅
+- Connie Maheswaran · Yasmil López (temporadas 1.ª-5.ª, eps. 1-139; su ficha
+  propia dice que ahora vive en España y se tomó un retiro temporal del
+  doblaje), Abigaly Claro (ep. 121, 4.ª temp.), Navid Cabrera (eps. 151-160,
+  5.ª) · Doblaje Wiki + páginas individuales
+  https://doblaje.fandom.com/es/wiki/Yasmil_López ,
+  https://doblaje.fandom.com/es/wiki/Abigaly_Claro ,
+  https://doblaje.fandom.com/es/wiki/Navid_Cabrera · ✅ (las 3 voces)
+- Greg Universe · Henrique Palacios (1.ª-5.ª) · Doblaje Wiki +
+  https://doblaje.fandom.com/es/wiki/Henrique_Palacios (confirma también
+  que hace «algunos gestos» del León) · ✅
 - Lars Barriga · Ángel Lugo (1.ª-5.ª, también director de doblaje) ·
-  Doblaje Wiki ⚠️
-- Sadie Miller · Karina Parra (1.ª-2.ª), Mariangny Álvarez (3.ª-5.ª) ·
-  Doblaje Wiki ⚠️
+  Doblaje Wiki + https://doblaje.fandom.com/es/wiki/Ángel_Lugo · ✅
+- Sadie Miller · Karina Parra (1.ª-2.ª; su ficha dice que también dobló a
+  Lindsay/Zoey de Drama Total y a Selim Bradley en Fullmetal Alchemist:
+  Brotherhood), Mariangny Álvarez (2.ª voz de Sadie; también dobla a Smoky
+  Cuarzo, la fusión de Steven y Amatista) · Doblaje Wiki + páginas
+  individuales https://doblaje.fandom.com/es/wiki/Karina_Parra ,
+  https://doblaje.fandom.com/es/wiki/Mariangny_Álvarez · ✅ (las 2 voces)
 - Peridot · Sofía Narváez (1.ª-5.ª; desde «Vuelo de amistad» le da un tono
   más agudo y expresivo siguiendo el desarrollo del personaje, igual que la
-  actriz original Shelby Rabara) · Doblaje Wiki ⚠️
-- Lapislázuli · Andrea Navas (1.ª-5.ª) · Doblaje Wiki ⚠️
+  actriz original Shelby Rabara) · Doblaje Wiki +
+  https://doblaje.fandom.com/es/wiki/Sofía_Narváez · ✅
+- Lapislázuli · Andrea Navas (1.ª-5.ª; alias «Kypirinha», con cuenta propia
+  de TikTok) · Doblaje Wiki + https://doblaje.fandom.com/es/wiki/Andrea_Navas
+  · ✅
 - Rose Cuarzo / Diamante Rosa · Maythe Guedes (1.ª-5.ª; también adapta
-  canciones del personaje) · Doblaje Wiki ⚠️
+  canciones del personaje; su ficha la acredita además como Gatúbela en
+  animaciones de DC y como Stormy en Winx Club) · Doblaje Wiki +
+  https://doblaje.fandom.com/es/wiki/Maythe_Guedes · ✅
 - Rubí · Judith Noguera (Venezuela 1.ª-2.ª, luego Chile 3.ª-5.ª; hizo
   audición para Steven, llegó a la final con Leisha Medina, y cuando
   aparecieron Rubí y Zafiro el director le pidió elegir con cuál se sentía
   más identificada) · Doblaje Wiki, con referencia a entrevista en YouTube
   (canal «Carlos Sagaón») citada en el wikitext · ✅
-- Zafiro · Arelys González (1.ª-5.ª) · Doblaje Wiki ⚠️
-- Bismuto · Ivette García (99-100), Alix Ramírez (150-153), Catherine Reyes
-  (157-160) · Doblaje Wiki ⚠️
+- Zafiro · Arelys González (1.ª-5.ª) · Doblaje Wiki +
+  https://doblaje.fandom.com/es/wiki/Arelys_González · ✅
+- Bismuto · Yvette García (1.ª voz, ep. 99-100; su ficha la acredita también
+  como Martha, la madre de Lars, dato no listado antes en esta parte), Alix
+  Ramírez (2.ª voz, 150-153), Catherine Reyes (3.ª voz, 157-160; su ficha
+  además la acredita en «Steven Universe: La película») · Doblaje Wiki
+  (el nombre de la tabla de reparto, «Ivette García», es una redirección a
+  «Yvette García») + páginas individuales
+  https://doblaje.fandom.com/es/wiki/Yvette_García ,
+  https://doblaje.fandom.com/es/wiki/Alix_Ramírez ,
+  https://doblaje.fandom.com/es/wiki/Catherine_Reyes · ✅ (las 3 voces)
 - León (mascota) · sin diálogo doblado («No aplica»); algunos gestos vocales
-  por Henrique Palacios y Ángel Mujica · Doblaje Wiki ⚠️
+  por Henrique Palacios (confirmado en su ficha propia) y Ángel Mujica ·
+  Doblaje Wiki · ⚠️ (Ángel Mujica no tiene ficha propia en Doblaje Wiki para
+  confirmar aparte)
 
 **Frases textuales, sacadas de las muestras oficiales de audio de Doblaje
 Wiki y transcritas con `herramientas/voz.py`** (Whisper local; nombres

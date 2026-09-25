@@ -149,7 +149,7 @@ Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Inter
 - **Fan art famoso fuera de los booru** (vía Wallhaven, con su origen): San con el lobo de perfil, 2250×1266, ♥496, de [artfulbeast en ArtStation](https://www.artstation.com/artfulbeast); San de Sakimichan, 1920×1080, ♥190, [en DeviantArt](http://sakimichan.deviantart.com/art/Princess-Mononoke-Prints-for-sale-275280478); San de robusta-mania, 3535×5047, ♥178, [en DeviantArt](https://www.deviantart.com/robusta-mania/art/Ms-Sammy-Artwork-06-Mononokehime-674195728); San entre espíritus, 2000×1334, ♥109, [en Pixiv](https://www.pixiv.net/en/artworks/77601882); kodama minimalista, 1920×1200, ♥128, de [SLiD3](http://cargocollective.com/SLiD3/). ⚠️ Licencia de cada autor: sólo referencia.
 - **Cosplay con licencia Creative Commons** (Openverse → Flickr, `datos.json`): sesión «Shooting Mononoke» en Nantes de esby.photos, CC BY-NC-SA 2.0 ([foto](https://live.staticflickr.com/65535/51325923277_ee86ec35bf_b.jpg), 1024×767); «Megan Marie as San» de Gabbo T, CC BY-NC-SA 2.0 ([foto](https://live.staticflickr.com/8464/8137492787_a8b360f86c_b.jpg), 1024×683); dos fotos de Liebre.De.Mar, **CC BY 2.0** ([1](https://live.staticflickr.com/8564/16727026042_164a84f4ab_b.jpg), 896×1024 · [2](https://live.staticflickr.com/8594/16540680940_b2e5015b8b_b.jpg), 768×1024). Útiles para ver volumen real de la capa de piel y la máscara (punto 23).
 - Volumen de fan art ([Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime), tag mixto de la obra): San 786, Ashitaka 272, Kodama 192 (`datos-voz.md`) ✅.
-- Ilustración de fans en alta calidad fuera de los booru: el eclipse solar sobre Irontown de Anato Finnstark en [ArtStation](https://www.artstation.com/artwork/NR65d) (2560×1176), también espejado como fondo de pantalla en [Wallhaven](https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg) ⚠️ (licencia del autor, pedir permiso antes de reutilizar).
+- Ilustración de fans en alta calidad fuera de los booru: el bosque con el ciervo de Anato Finnstark en [ArtStation](https://www.artstation.com/artwork/NR65d) (2560×1440), también espejado como fondo de pantalla en [Wallhaven](https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg) ⚠️ (licencia del autor, pedir permiso antes de reutilizar). *(Corregido: la primera redacción le atribuía el eclipse sobre Irontown, que es otro fondo, de 2560×1176, sin autor conocido.)*
 
 **Modelos 3D descargables, licencia CC Attribution (crédito al autor obligatorio), sacados de la API de Sketchfab:**
 
@@ -360,13 +360,14 @@ YouTube pide iniciar sesión desde el servidor: lo mirado a fondo sale de Dailym
 
 ## 11. Videojuegos
 
-**No hay ningún videojuego oficial de La princesa Mononoke.** Búsqueda hecha en español, inglés y japonés, sin resultado de un juego licenciado ❌ (confirmado, no sólo "no encontré"):
-- Un vídeo-tributo estilo 8-bit de CineFix («8-Bit Cinema») es una animación imitando el estilo retro, NO un juego jugable ✅.
+**No encontré ningún videojuego oficial de La princesa Mononoke.** Búsqueda hecha en español, inglés y japonés (investigadores de texto e imagen), sin resultado de un juego licenciado ⚠️ (comprobado a fondo; no es falta de búsqueda):
+- Un vídeo-tributo estilo 8-bit de CineFix («8-Bit Cinema») es una animación imitando el estilo retro, NO un juego jugable ✅ ([Vice](https://www.vice.com/en/article/a-miyazaki-masterpiece-gets-remixed-into-an-8-bit-video-game) + [Open Culture](https://www.openculture.com/2015/09)).
+- *Soulframe* (Digital Extremes) está inspirado libremente en Mononoke, sin licencia (`partes/imagen.md`) ⚠️.
 - ghibli.jp no lista ningún juego ni app oficial de Mononoke ✅.
 - La máquina de pachinko «フィーバーもののけ» (SANKYO, 2001) usa el mismo juego de palabras («mononoke» = espíritu) pero NO está licenciada por Ghibli ✅. Menciones sueltas de una posible «Pもののけ姫～生きろ～» en foros de rumores no se pudieron verificar (sitio bloqueado, 403) ⚠️, no se cuenta como confirmado.
 - TCRF devolvió error 403 en dos intentos; no se pudo revisar directamente ⚠️.
 
-**Lo más cercano (aclarando que NO es Mononoke)**: *Ni no Kuni: Wrath of the White Witch* (Level-5, 2011) fue colaboración real con Ghibli (música de Hisaishi, animación de Ghibli) ✅, pero es otra franquicia. *Zelda: Ocarina of Time* comparte diseños reconocidos por Miyamoto (ver punto 24) pero no es un cruce oficial.
+**Lo más cercano (aclarando que NO es Mononoke)**: *Ni no Kuni: Wrath of the White Witch* (Level-5, 2011) fue colaboración real con Ghibli (música de Hisaishi, animación de Ghibli); *Ni no Kuni II* (2018) ya no tuvo a Ghibli, pero sí al diseñador ex-Ghibli Yoshiyuki Momose ✅ ([ANN](https://www.animenewsnetwork.com/news/2018-01-26) + [Wikipedia](https://en.wikipedia.org/wiki/Ni_no_Kuni)). Es otra franquicia: sirve sólo para ver cómo es una caja de diálogo de RPG «con aire Ghibli». *Zelda: Ocarina of Time* comparte diseños reconocidos por Miyamoto (ver punto 24) pero no es un cruce oficial.
 
 **Conclusión para la lámina**: si el canal necesita una caja de estética de videojuego, lo más fiel es inventar una interfaz nueva con Zen Maru Gothic (punto 5) y la paleta/textura del punto 19, no copiar de otra franquicia.
 
@@ -390,6 +391,21 @@ YouTube pide iniciar sesión desde el servidor: lo mirado a fondo sale de Dailym
 
 ## 13. Cada personaje a fondo
 
+**Su cara en cada emoción** (segunda pasada: tabla juntada de `video.md`, `voz.md` y los fotogramas oficiales mirados por el redactor). Minuto = película en [Internet Archive](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke).
+
+| Emoción | San | Ashitaka | Moro |
+|---|---|---|---|
+| Alegría / ternura | abrazo final, [1:56:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) | sonríe junto a Yakul al sol, [mononoke048](https://www.ghibli.jp/gallery/mononoke048.jpg) (sin minuto, visto en miniatura ⚠️) | protege a San dormida en su lomo, [1:19:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4740) |
+| Rabia | grita con la pintura de guerra, [0:53:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=3180) | tensa el arco contra Nago, dientes apretados, [0:04:20](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=260) | colmillos bajo la luna, [1:21:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) |
+| Tristeza / dolor | atrapada en los gusanos, [1:43:45](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6225) | cara ensangrentada tras la batalla, [2:03:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7320) | ojo entrecerrado y cansado, [1:10:50](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4250) |
+| Miedo / alarma | sobresalto junto a su hermano lobo, [1:10:25](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4225) | arco en alto avisando a la aldea, [0:06:40](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=400) | — (no se le ve miedo: acepta su muerte) |
+| Cautela / pensar | lo mira de reojo cargándolo, [0:26:10](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=1570) | revisa su brazo en el musgo, [1:09:55](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4195) | escucha a Ashitaka tumbada, [1:20:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4800) |
+| Determinación | ceño fruncido antes del combate, [1:40:25](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6025) | se corta el moño ante los ancianos, [mononoke005](https://www.ghibli.jp/gallery/mononoke005.jpg) (sin minuto) | se interpone entre San y Ashitaka, [1:10:25](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4225) |
+| Vergüenza | ⚠️ no encontrada (no se buscó a propósito; la película apenas la muestra) | ⚠️ no encontrada | — |
+
+- **Lenguaje corporal de San**: casi siempre agachada o a cuatro patas, corre y salta como un lobo, nunca con porte de princesa ⚠️ (Ghibli Wiki, sin minuto). **De Ashitaka**: quieto, manos sobre las rodillas cuando escucha (1:20:00), cuerpo interpuesto cuando protege (1:10:25). **De Moro**: la cabeza baja y los colmillos hablan más que la voz.
+- **Cómo se ríe / cómo se enfada**: San casi no ríe en pantalla; se enfada gritando corto («¡Silencio!»). Ashitaka se enfada suplicando («¡Basta! ¡Detente tu ira!»). Moro se ríe con la boca abierta de par en par ([Moro_laughing.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/b/b2/Moro_laughing.jpg), `escenas_01` 29). Frases textuales en el punto 8.
+
 ### San
 Humana criada por lobos desde bebé, rechaza activamente su propia especie y se identifica como loba, no como humana ✅. Escena que la define: da de comer a Ashitaka herido boca a boca "a la manera de los lobos", sin entender el significado humano del gesto ✅. Su cara en la emoción que la define: primer plano gritando con la cara pintada de guerra, min 0:53:00 (`t=3180`), furia pura tras atacar Irontown — visto directamente ✅. Miedo: qué será de ella cuando Moro (su madre adoptiva) ya no esté para protegerla ✅. Voz (Wild Bunch): más expresiva (16.2 semitonos) que en Buena Vista (12.9) — la interpretación de 2020 suena más quebrada emocionalmente ✅. ⚠️ Discrepancia sin resolver: ojos "azul real" según Ghibli Wiki, pero etiquetados `brown_eyes` en Danbooru — se mencionan ambas fuentes, no se elige una sin más evidencia.
 
@@ -400,10 +416,10 @@ Ex-príncipe de la aldea Emishi, maldito al matar a Nago (jabalí-dios corrompid
 Diosa loba de 300 años, madre adoptiva de San, entiende y habla el idioma humano ✅. Rasgo único: dos colas, ningún otro lobo de la manada las tiene ✅. Su muerte: herida por disparo de Eboshi, acepta morir con calma; su cabeza cortada muerde el brazo de Eboshi antes de apagarse — venganza más allá de la propia muerte ✅. ⚠️ Dato poco citado (una fuente japonesa de segunda mano): Okkoto habría sido su antiguo amante. Miedo: ninguno para sí misma, sólo por San. Voz (Wild Bunch, Maru Guzmán): la MENOS expresiva del reparto (165 Hz, 8.6 semitonos) — nunca "grita" aunque hable de matar, coherente con una diosa vieja que ya aceptó su muerte ✅.
 
 ### Dama Eboshi
-Fundadora y señora de Irontown; antagonista "gris", no villana simple ✅. Lado bueno: compra la libertad de mujeres obligadas a prostituirse y las pone a dirigir la fragua, acoge y cuida leprosos ✅. Lado cruel: usa a sus propios subordinados como carnada para los jabalíes a sabiendas de que morirán, esconde bombas para una matanza masiva ✅. Pasado: fue *shirabyōshi*, luego rehén y esposa forzada de un pirata; lo mató con Gonza y con esas armas conquistó el Bosque de Cedros donde fundó Irontown ✅. Su plan real ("Kunikuzushi"): romper el monopolio samurái sobre el hierro ✅. Voz (Wild Bunch, Adriana Casas): 193 Hz, 14.9 semitonos, ritmo rápido (3.18 palabras/s) — autoritaria con energía ✅. ⚠️ No hay fotograma propio de su cara en el material reunido.
+Fundadora y señora de Irontown; antagonista "gris", no villana simple ✅. Lado bueno: compra la libertad de mujeres obligadas a prostituirse y las pone a dirigir la fragua, acoge y cuida leprosos ✅. Lado cruel: usa a sus propios subordinados como carnada para los jabalíes a sabiendas de que morirán, esconde bombas para una matanza masiva ✅. Pasado: fue *shirabyōshi*, luego rehén y esposa forzada de un pirata; lo mató con Gonza y con esas armas conquistó el Bosque de Cedros donde fundó Irontown ✅. Su plan real ("Kunikuzushi"): romper el monopolio samurái sobre el hierro ✅. Voz (Wild Bunch, Adriana Casas): 193 Hz, 14.9 semitonos, ritmo rápido (3.18 palabras/s) — autoritaria con energía ✅. Según el folleto oficial citado en la wiki, el ataque final de los samuráis es «un karma» para ella y para Irontown ✅. Miedo: que Irontown se derrumbe sin ella; por eso nunca duda en público ✅. **Sus caras** (segunda pasada, no hay minuto): sonrisa segura con labios rojos ([mononoke050](https://www.ghibli.jp/gallery/mononoke050.jpg)); puntería fría con el ishibiya ([mononoke042](https://www.ghibli.jp/gallery/mononoke042.jpg)); primer plano serio ([Eboshi_(2).png](https://static.wikia.nocookie.net/studio-ghibli/images/a/ae/Eboshi_%282%29.png), 627×648, `arte_01` 111); rifle al hombro ([Lady_Eboshi_(4).png](https://static.wikia.nocookie.net/studio-ghibli/images/d/d0/Lady_Eboshi_%284%29.png), 843×469, `arte_01` 114). Mirados ✅.
 
 ### Jigo (Jiko-bō)
-Monje itinerante, antagonista oculto: quiere la cabeza del Espíritu del Bosque para el Emperador a cambio de una recompensa ✅. Líder del Karakasa-Ren, bajo el Shishō-Ren (sociedad secreta al servicio imperial) ✅. Comic relief pese a ser el villano: murmura con calma en medio del pánico final ✅. Miedo: quedar atrapado en la destrucción que él mismo provoca. Voz (Wild Bunch, Héctor Lee): 219 Hz, 16.0 semitonos, pero el ritmo MÁS PAUSADO del reparto (2.28 palabras/s) — habla despacio y calculador ✅.
+Monje itinerante, antagonista oculto: quiere la cabeza del Espíritu del Bosque para el Emperador a cambio de una recompensa ✅. Líder del Karakasa-Ren, bajo el Shishō-Ren (sociedad secreta al servicio imperial) ✅. Comic relief pese a ser el villano: murmura con calma en medio del pánico final ✅. Miedo: quedar atrapado en la destrucción que él mismo provoca; cuando el bosque enloquece intenta huir con la cabeza ✅. **Su cara**: sonrisa torcida de pícaro, nariz roja, gorro rojo y carga a la espalda ([mononoke028](https://www.ghibli.jp/gallery/mononoke028.jpg); [Jigo_(2).jpg](https://static.wikia.nocookie.net/studio-ghibli/images/7/79/Jigo_%282%29.jpg), 638×479, `arte_01` 127) ✅ mirado, sin minuto. Voz (Wild Bunch, Héctor Lee): 219 Hz, 16.0 semitonos, pero el ritmo MÁS PAUSADO del reparto (2.28 palabras/s) — habla despacio y calculador ✅.
 
 ### Kodama
 Espíritus de los árboles viejos, cabezas blancas con ojos/boca de tres puntos que traquetean (かたかた, kata-kata) ✅. Señal visual de la salud del bosque: mueren junto con el bosque cuando decapitan al Shishigami, y al final reaparece uno solo cuando la tierra sana ✅. ⚠️ Anécdota sin confirmar como canon: Miyazaki comentó a los animadores que el Kodama solitario del final "es un Totoro joven".
@@ -415,8 +431,6 @@ El elk rojo (アカシシ) que monta Ashitaka desde el inicio, ya aparecía en *
 Fotograma del abrazo final (min 1:56:00, `t=6960`), de espaldas en la oscuridad, la marca de la maldición ya casi borrada — imagen que mejor resume su vínculo sin ser escena de romance convencional, ninguno se besa ni promete quedarse con el otro ✅. Citada como «Cooldown Hug» en la página Heartwarming de Tropedia (ver punto 21).
 
 ## 14. Poses analizadas
-
-
 
 Todas de fotograma real (Read directo), no de memoria ni de arte promocional. Enlace `https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=<segundo>`. Uso: presentar, explicar, celebrar, regañar, pensar, animar.
 
@@ -456,19 +470,49 @@ Todas de fotograma real (Read directo), no de memoria ni de arte promocional. En
 | M5 | [1:10:50](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4250) | primer plano del ojo, entrecerrado y cansado, sin fiereza | sufrimiento/vejez |
 | M6 | [1:22:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4920) | tumbada quieta, San arrodillada a su lado con la cabeza gacha | **pensar/despedirse** |
 
-- ⚠️ Eboshi y Jigo no tienen 6-9 poses analizadas con minuto en las partes; sólo apariciones puntuales en los puntos 1, 13 y 15.
+### Eboshi y Jigo (segunda pasada: sin minuto, de fotogramas oficiales y de la wiki, mirados por el redactor)
+| # | Imagen | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| E1 | [mononoke042](https://www.ghibli.jp/gallery/mononoke042.jpg) | de tres cuartos, apunta el ishibiya con las dos manos, la cara pegada a la culata, mirada fija por el cañón | **regañar/advertir** (amenaza tranquila) |
+| E2 | [mononoke050](https://www.ghibli.jp/gallery/mononoke050.jpg) | de frente, cabeza un poco ladeada, sonrisa con labios rojos | **presentar** (anfitriona segura) |
+| E3 | [Lady_Eboshi_(4)](https://static.wikia.nocookie.net/studio-ghibli/images/d/d0/Lady_Eboshi_%284%29.png) (`arte_01` 114) | rifle apoyado en el hombro, mirada de reojo | **explicar** con autoridad |
+| E4 | [Eboshi_(2)](https://static.wikia.nocookie.net/studio-ghibli/images/a/ae/Eboshi_%282%29.png) (`arte_01` 111) | primer plano, mirada de lado, labios rojos, gesto serio | **pensar/decidir** |
+| J1 | [mononoke028](https://www.ghibli.jp/gallery/mononoke028.jpg) | sonrisa torcida, palo al hombro, carga a la espalda | **explicar** (el que «sabe» y negocia) |
+| J2 | [Jigo_(2)](https://static.wikia.nocookie.net/studio-ghibli/images/7/79/Jigo_%282%29.jpg) (`arte_01` 127) | primer plano, gorro rojo, gesto satisfecho | **celebrar** (con picardía) |
+
+- ⚠️ Con minuto de la película sólo hay poses de San, Ashitaka y Moro; las de Eboshi y Jigo llevan imagen oficial pero no minuto.
+
+### Poses de grupo (para láminas con varios)
+- San en la loba y Ashitaka en Yakul, de día, en el prado: [San_and_Ashitaka.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/2/2f/San_and_Ashitaka.jpg) (2560×1024, `escenas_01` 2) → **presentar** a los dos mundos juntos.
+- Ashitaka tirando del fuelle con las mujeres de Tatara-ba, que ríen: [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg) (`escenas_02` 51) → **animar** (trabajo en grupo, canto).
+- San sentada en la roca con Moro y Ashitaka escuchando: [1:20:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4800) → **explicar** (diálogo tranquilo de tres).
+- Kodama en fila sobre las ramas: [mononoke023](https://www.ghibli.jp/gallery/mononoke023.jpg) → **animar** sin palabras (señalan el camino).
 
 ## 15. Vestuario
 
-Colores medidos con `herramientas/estilo.py` sobre fotograma real, no arte promocional. ✅ salvo que se diga.
+Colores medidos con `herramientas/estilo.py` (8 colores dominantes) sobre fotogramas reales de 1920×1038 o 1920×1040. Son **aproximados**: el % es de la imagen entera, fondo incluido. *(Segunda pasada: la tabla anterior traía un hex de la máscara, `#7A2E1E`, que no sale de ninguna parte; se quitó. Estos salen de `partes/imagen.md` y `partes/video.md`, y los marcados «redactor» de fotogramas oficiales medidos en esta pasada.)*
 
-| Personaje | Prenda/objeto | Hex medido |
-|---|---|---|
-| San | máscara de arcilla roja oscura | `#7A2E1E` aprox. (medido sobre fotograma de máscara) |
-| San | pelaje/manto sobre los hombros | tonos crema/blanco quebrado |
-| Ashitaka | túnica azul de viaje | azul apagado, ver punto 4 para paleta de sitio |
-| Moro | pelaje | blanco con sombra verde-azulada bajo luz de luna (ver punto 4) |
-| Eboshi | capa negra + gorro rojo "eboshi" | negro + rojo saturado |
+| Personaje | Prenda / rasgo | Hex medido | De qué imagen |
+|---|---|---|---|
+| San | capa de piel clara | `#989387` 18.8% · `#A3AD9D` (de noche) | [San_hi_koality](https://static.wikia.nocookie.net/studio-ghibli/images/6/6f/San_hi_koality.jpg) · [San_HD](https://static.wikia.nocookie.net/studio-ghibli/images/0/06/San_HD.jpg) |
+| San | top azul oscuro | `#1A2E32` 17.6% · azul verdoso `#1A4949` 11.9% | San_hi_koality |
+| San | piel | `#816E69` 13.3% | San_hi_koality |
+| San | pintura facial roja (dos rayas y marca en la frente) | `#552018` 4-5% ⚠️ una sola medida, no es un plano limpio de la cara | San_(1).jpg |
+| Ashitaka | túnica azul | `#385B80` 10.2% · `#20364E` 9.3% · `#38627E` | [Ashitaka_looks](https://static.wikia.nocookie.net/studio-ghibli/images/8/8e/Ashitaka_looks.jpg) · [mononoke043](https://www.ghibli.jp/gallery/mononoke043.jpg) |
+| Ashitaka | piel | `#AB7E68` 10.6% · `#804738` 9.6% | Ashitaka_looks |
+| Ashitaka | brazo maldito | negros `#1D1B1B` `#29221D` `#3C2B21` (70%) · vena roja `#713E38` 4% · piel `#B57665` | [Cursed_Arm.png](https://static.wikia.nocookie.net/studio-ghibli/images/c/c9/Cursed_Arm.png) |
+| Moro | pelaje en sombra | `#879293` 37.5% · `#555B66` 22.7% · blanco verdoso `#C4D1AF` 6.3% | [Moro.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/8/87/Moro.jpg) |
+| Moro | pelaje con luna | `#6C9A98` 21.1% · `#A1C7AF` 21.1% · noche `#152139` 29.7% | Moro_laughing.jpg |
+| Eboshi | ribete dorado del kimono | `#976843` 10.5% | [Eboshi_(2).png](https://static.wikia.nocookie.net/studio-ghibli/images/a/ae/Eboshi_%282%29.png) |
+| Eboshi | rojo vino del kimono | `#660E0D` 5.3% · `#330A06` 6% | Eboshi_(2).png |
+| Eboshi | capa azul-morada | `#344164` 15.0% (redactor) | [mononoke050](https://www.ghibli.jp/gallery/mononoke050.jpg) |
+| Eboshi | sombrero cónico rojo | `#8F3342` 5.8% (redactor; es el único rojo del cuadro) | [mononoke042](https://www.ghibli.jp/gallery/mononoke042.jpg) |
+| Jigo | gorro y chaleco rojos | `#972532` 18.2% · blanco de la ropa `#D8CEBD` 11.5% · piel `#C09E8E` 17.3% (redactor) | [mononoke028](https://www.ghibli.jp/gallery/mononoke028.jpg) |
+| Mujeres del fuelle | kimonos cortos claros y uno rojo | `#9D8A88` 15.2% · `#CDB0A4` 13.8% · rojo `#B76258` 3.8% (redactor) | [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg) |
+
+- **Ropa icónica que todos reconocen**: la capa de piel blanca + máscara roja de San (no la lleva todo el metraje, pero es la de la mercancía y las figuras) y la túnica azul + capucha roja de Ashitaka ✅ (wiki + etiquetas de Danbooru + figuras oficiales).
+- **Ashitaka cambia de ropa**: al principio lleva el pelo en moño; se lo corta al ser desterrado ([mononoke005](https://www.ghibli.jp/gallery/mononoke005.jpg)) y desde ahí lleva el pelo en capas con flequillo ✅ (wiki, sección Appearance, en `datos-imagen.md`). En el viaje: túnica azul, pantalón claro, capucha roja-anaranjada, calentadores marrones.
+- **Moro**: pelaje blanco largo, ojos oliva con el blanco enrojecido, nariz morada-marrón, **dos colas** ✅ (wiki). Casi todas sus imágenes grandes son de noche: ⚠️ no hay un plano suyo a plena luz de día entre las 10 imágenes grandes de la wiki.
 
 - **Máscara de San**: arcilla roja oscura, dos orejas blancas, líneas blancas onduladas y tres agujeros amarillos (boca y ojos) — su rasgo icónico más reconocible ✅ (dos fuentes: Ghibli Wiki + Wikipedia, que menciona réplicas vendidas como merchandising).
 - **Collar de colmillos** (huesos blancos de lobo) y pendientes ovalados blancos de San, llevados toda la película ⚠️ (una fuente, descripción física de la wiki).
@@ -485,39 +529,107 @@ Colores medidos con `herramientas/estilo.py` sobre fotograma real, no arte promo
 - **Aldea Emishi**: pintada a partir de Shirakami-Sanchi (Ajigasawa, paso de Tsugaru, Tengu, Hitotsumori), visitada por el director de arte Kazuo Oga en 1995 ✅.
 - **Bosque del Shishigami**: inspirado en la isla de Yakushima (bosques antiguos de cedro) ✅.
 - **Tatara-ba (Irontown)**: fundición donde se funde hierro con fuelles pisados por mujeres por turnos; "Irontown" es la traducción inglesa del nombre japonés ✅.
-- **Wallpaper oficial**: fondo de videollamada oficial de ghibli.jp (ver punto 1). Wallhaven tiene wallpapers de fans con licencia variable ⚠️.
+- **Irontown** es «タタラ場» (Tataraba, «suelo del horno tatara»): protegida por un lago y murallas altas; vive de forjar hierro y armas; muchas de sus habitantes son antiguas prostitutas y leprosos acogidos por Eboshi ⚠️ (una fuente: [Ghibli Wiki](https://ghibli.fandom.com/wiki/Irontown)).
+- **Hora del día por sitio** (visto en fotogramas): la aldea Emishi y el primer tramo del viaje, de día soleado; el bosque de los kodama y casi todo lo de San y Moro, de noche o con niebla; Irontown, de día (mercado, fragua, [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg)) y de noche (ataque [1:14:40](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4480), templo); el santuario del Shishigami, luz dorada filtrada de día ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg)) y azul de noche ✅.
+
+**Fondos de pantalla oficiales**
+- [mononoke1.jpg](https://www.ghibli.jp/images/mononoke1.jpg), 1920×1081, fondo de videollamada de Studio Ghibli (uso personal, no redistribuir) ✅.
+- Los 50 fotogramas de [ghibli.jp/gallery](https://www.ghibli.jp/works/mononoke/#frame), 1920×1038, sin marca de agua, sirven como fondos oficiales ✅.
+
+**Fondos de pantalla de fans** (Wallhaven, «sólo aptos», con ♥ guardados y origen; sólo referencia, © de cada autor):
+
+| Fondo | Tamaño | ♥ | Autor / origen |
+|---|---|---|---|
+| [Póster de personajes 113 Character](https://w.wallhaven.cc/full/yj/wallhaven-yjd3ld.jpg) | 1920×2715 | 720 | Egor Klyuchnyk, [Kickstarter](https://www.kickstarter.com/projects/585926215/universe-113-character-poster) |
+| [San y el lobo de perfil](https://w.wallhaven.cc/full/xl/wallhaven-xl635v.jpg) | 2250×1266 | 496 | artfulbeast (ArtStation) |
+| [Fotograma de la película](https://w.wallhaven.cc/full/3l/wallhaven-3lwxdd.jpg) | 1920×1080 | 215 | subido por Bongic |
+| [San de Sakimichan](https://w.wallhaven.cc/full/nz/wallhaven-nzmeqg.jpg) | 1920×1080 | 190 | Sakimichan (DeviantArt) |
+| [San de robusta-mania](https://w.wallhaven.cc/full/73/wallhaven-739w19.jpg) | 3535×5047 | 178 | robusta-mania (DeviantArt) |
+| [Ashitaka, nubes y montañas](https://w.wallhaven.cc/full/p8/wallhaven-p8e9pm.jpg) | 1920×1080 | 142 | collage, subido por FISHMR13 |
+| [Bosque con el ciervo](https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg) | 2560×1440 | 132 | Anato Finnstark ([ArtStation](https://www.artstation.com/artwork/NR65d)) |
+| [Kodama minimalista](https://w.wallhaven.cc/full/4g/wallhaven-4g9py3.jpg) | 1920×1200 | 128 | SLiD3 |
+| [Eclipse solar sobre Irontown](https://w.wallhaven.cc/full/3k/wallhaven-3krojd.png) | 2560×1176 | 111 | subido por Skitter |
+| [San entre espíritus](https://w.wallhaven.cc/full/r2/wallhaven-r2e9mq.jpg) | 2000×1334 | 109 | Pixiv 77601882 |
+
 - **Ghibli Park — Mononoke Village**: zona temática real del parque en Japón ✅ (ver punto 23 para más detalle).
-- ❌ No hay fotograma propio ni textura oficial de la fragua/horno tatara en sí con licencia libre — usar las texturas CC0 del punto 4/19 como sustituto razonado.
+- ⚠️ No hay textura oficial ni modelo libre de la fragua/horno tatara (comprobado en Sketchfab y Poly Haven): usar [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg) como referencia del sitio y las texturas CC0 del punto 4/19 para construirlo.
 
 ## 17. Guía para IA de imagen y de texto
 
-*(Sección propia del redactor, no copiada de ninguna parte — síntesis de los 4 investigadores.)*
+*(Sección propia del redactor: síntesis de las 4 partes. Reescrita en la segunda pasada con hex, etiquetas y frases reales.)*
 
-**Para IA de imagen:**
-- **Paleta por sitio** (ver punto 4, medida): aldea Emishi = verdes claros de día limpio; santuario del Shishigami = verde-azulado muy saturado, casi submarino; Tatara-ba de noche = gris-marrón apagado con rojo puntual de fuego/estandartes; cima de Moro = azul-verde frío de luna.
-- **Estilo de línea y sombreado**: contorno NO negro puro, sino "色トレス" (color-tracing) — línea de color distinto según zona iluminada/sombreada; relleno PLANO por zonas (sin degradado en el personaje); el degradado real está sólo en el fondo pintado (gouache/acuarela). Palabras clave útiles: "cel shading", "flat color fill", "hand-painted gouache background", "Studio Ghibli 1997 cel animation". Palabras que dañan el estilo: "photorealistic", "3D render", "smooth gradient on character", "airbrush skin".
-- **Personajes fijos**: San = máscara de arcilla roja + dos orejas blancas + tres agujeros amarillos + collar de colmillos, pelo castaño chocolate. Ashitaka = túnica azul, pelo castaño oscuro, brazo derecho con marca oscura ramificada (la maldición). Moro = pelaje blanco, DOS colas (rasgo único), ojos oliva con esclerótica roja.
-- **Encuadre típico**: planos muy amplios para bosque/Shishigami (personajes pequeños frente a la naturaleza); primeros planos muy cerrados en momentos de posesión/maldición.
-- **Cómo evitar planitud** (ver también "3 conceptos"): usar un objeto real en primer plano con textura marcada (madera, musgo, metal forjado) + luz direccional de una sola fuente (antorcha, luna, luz filtrada de dosel) para dar volumen sin perder el sombreado plano de los personajes.
-- **Texturas CC0 reales para apoyo/entrenamiento de fondo**: ver puntos 1, 2, 4, 9 (ambientCG: Ground037, Rock064, Wood095, Wood094, Metal063, CorrugatedSteel009, Paper001, Fabric061, Bark014).
+> **Antes de nada.** Miyazaki llamó a la animación hecha por IA «un insulto a la vida misma» y el dueño pide que nada **parezca hecho por IA**. La IA sirve para bocetar poses y fondos de apoyo; la lámina final se integra a mano (`v3/integrar.py`) y lleva un objeto real con textura real.
 
-**Para IA de texto (diálogo/voz de personaje):**
-- **Caja de diálogo propia de la franquicia**: fotograma/ilustración real + caja de texto RECTANGULAR de borde fino, nunca burbuja blanca redonda (modelo del フィルムコミック oficial).
-- **San**: frases cortas, directas, sin cortesías; registro agresivo/defensivo salvo con Moro o Ashitaka. Ejemplo de tono (no traducción literal, sólo registro): "¡Odio a los humanos!" — corta, tajante, sin matices.
-- **Ashitaka**: habla pausado pero firme, media más hacia la razón que hacia la fuerza incluso bajo amenaza; nunca insulta a ningún bando.
-- **Moro**: frases largas y calmadas, casi nunca sube el tono aunque hable de matar (medido: la voz menos expresiva de todo el reparto).
-- **Eboshi**: autoritaria, rítmica, nunca duda en público aunque la decisión sea cruel.
-- **Jigo**: el más pausado y calculador del reparto (2.28 palabras/s medidas) — nunca habla apresurado, siempre con un aire de quien controla la conversación, incluso en broma.
-- **Vocabulario propio** (usar, no traducir a genérico): Mononoke (espíritu vengativo, no nombre propio), Tatara-ba, Jibashiri, Shishigami/Daidarabotchi (Nightwalker), Ishibiya, Shishō-Ren, Karakasa-Ren.
-- **Onomatopeya de apoyo**: kata-kata (カタカタ) para los kodama.
+### Para IA de imagen (Firefly, Canva…)
+
+**Rasgos que nunca cambian**
+- **San**: pelo castaño corto, diadema oscura, **pintura roja** (dos rayas en las mejillas y una marca en la frente, `#552018` aprox.), pendientes blancos grandes y ovalados, **collar de colmillos**, top azul oscuro (`#1A2E32`), capa de piel blanca (`#989387` en sombra), **máscara roja de arcilla** con dos orejas blancas. Suele ir con sangre en la boca o en la cara. Nunca pose de princesa.
+- **Ashitaka**: pelo castaño oscuro en capas con flequillo (sin moño tras el destierro), túnica azul (`#385B80`), capucha roja-anaranjada, arco y aljaba, **brazo derecho con marcas negras retorcidas** (`#1D1B1B`/`#3C2B21` con venas `#713E38`). Casi siempre con Yakul, el ciervo rojo de cuernos largos.
+- **Moro**: loba blanca gigante (`#879293` en sombra, `#A1C7AF` con luna), **dos colas**, ojos oliva con el blanco rojo, nariz morada. Sentada, San le llega a la cabeza.
+- **Eboshi**: pelo negro azulado en melena recta con flequillo, **labios rojos**, sombrero cónico rojo (`#8F3342`), capa azul-morada (`#344164`), kimono rojo vino con ribete dorado (`#660E0D`/`#976843`), ishibiya en la mano.
+- **Kodama**: cuerpo blanco translúcido pequeño, cabeza redonda con tres agujeros (ojos y boca). En grupo, como puntos blancos (`mononoke024`).
+
+**Paleta por sitio** (medida, punto 4): aldea Emishi `#69935A`/`#538044` de día limpio · santuario `#728A1D`/`#366278` y luz dorada `#CDC878` · colina de kodama `#076698`/`#0D81A6` · Irontown de noche `#1A1917`/`#2D2A25` con rojo `#76091D` · fuelle de día `#8E4A38`/`#CDB0A4` · cima de Moro `#14233C`/`#A3C7AF`.
+
+**Línea y sombreado**: personajes en **cel plano** (2 tonos, sin degradado en la piel), línea fina de color (marrón o gris oscuro, no negro: línea medida `#5C4441` en el fuelle, `#6E4D3F` en Jigo); fondos **pintados a mano** en gouache con degradado (67-77% de degradado medido). La luz de los fondos es direccional: sol filtrado, antorcha, luna.
+
+**Encuadre**: planos muy abiertos con los personajes pequeños ante el bosque; primeros planos muy cerrados para la maldición y la rabia (punto 18).
+
+**Palabras que ayudan** (en inglés, que es como mejor las entienden): `1997 cel animation`, `hand-painted gouache background`, `flat cel shading`, `thin colored line art`, `Muromachi period Japan`, `ancient cedar forest, moss, Yakushima`, `dappled sunlight`, `wolf girl, red clay mask, tooth necklace, facepaint`, `white wolf with two tails`, `red elk`. Etiquetas de [Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime) que más se repiten (`datos-imagen.md`): San → `facepaint`, `tooth_necklace`, `earrings`, `mask`, `cape`, `headband`, `short_hair`, `brown_hair`, `bare_arms`; Ashitaka → `red_hood`, `bow_(weapon)`, `scar`, `injury`, `hood`; Moro → `white_wolf`.
+
+**Palabras que lo estropean**: `photorealistic`, `3D render`, `octane`, `smooth gradient skin`, `airbrush`, `glossy`, `neon`, `chibi`, `kawaii`, `sparkles`, `bokeh`, `princess dress`, `smiling San` (San casi no sonríe).
+
+**Imágenes de referencia** (usar éstas, no otras):
+- Estilo general y color: los 50 fotogramas oficiales de [ghibli.jp](https://www.ghibli.jp/works/mononoke/#frame).
+- San: [mononoke007](https://www.ghibli.jp/gallery/mononoke007.jpg) (presentación con sangre y máscara), [San_hi_koality](https://static.wikia.nocookie.net/studio-ghibli/images/6/6f/San_hi_koality.jpg), poses S1-S9 del punto 14.
+- Ashitaka: [mononoke003](https://www.ghibli.jp/gallery/mononoke003.jpg) (arco), [mononoke005](https://www.ghibli.jp/gallery/mononoke005.jpg) (moño), hoja de modelo [Mononoke_char_3](https://static.wikia.nocookie.net/studio-ghibli/images/f/f6/Mononoke_char_3.jpg).
+- Moro: [Moro.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/8/87/Moro.jpg), minuto [1:21:00](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860).
+- Sitios: [mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg) (santuario), [mononoke024](https://www.ghibli.jp/gallery/mononoke024.jpg) (kodama), [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg) (fuelle).
+- **No usar** como referencia de estilo: los fan art de WLOP o Sakimichan (pintura semirrealista con brillos, lejos del cel plano de 1997; criterio del redactor) ni el vídeo «Princesa Mononoke IA».
+
+**Expresiones** (vocabulario para que la IA entienda el gesto): la emoción se hace con la **cara entera y el cuerpo**, no con símbolos de manga. Rabia = boca muy abierta, cejas bajas, cuello tenso, colmillos (San y Moro). Miedo = ojos redondos, pupila pequeña. Dolor = un ojo cerrado, cuerpo torcido. Ternura = de espaldas, cabezas juntas. ⚠️ Ninguna parte registra gotas de sudor, versiones *chibi* ni fondos de emoción de manga en esta película (no se buscó a propósito, pero no aparecen en los más de 165 fotogramas mirados): no los uses.
+
+### Para IA de texto (diálogos en su voz)
+
+**Cómo habla cada uno** (voces medidas con `voz.py`, punto 8):
+- **San**: frases **muy cortas**, órdenes y amenazas, cero cortesía, ningún «por favor». Tutea a todos. Muchas exclamaciones cortas («¡Silencio!»). Nunca explica sus sentimientos: los actúa. Voz aguda y rápida.
+- **Ashitaka**: calmado pero urgente; pide antes de ordenar («Por favor, controla tu ira»). Repite la orden cuando grita («¡Basta! ¡Detente tu ira!»). Nunca insulta.
+- **Moro**: frases largas, graves, sentenciosas; habla de la vida y la muerte con calma; llama a San por su nombre. La voz más contenida del reparto: **no uses exclamaciones con ella**.
+- **Eboshi**: órdenes rítmicas en plural («¡Manténganse alerta!»), segura, a veces irónica; nunca duda en voz alta.
+- **Jigo**: despacio, cuenta, regatea, se queja de la comida; humor cínico («un pequeño problema y todos entran en pánico», Tropedia, traducido del inglés ⚠️).
+
+**Frases reales por emoción** (textuales del doblaje Wild Bunch salvo que se diga; fuente y segundo de la muestra en el punto 8):
+
+| Emoción | Frase real | Quién |
+|---|---|---|
+| Alegre / humor | «Yo creo que esto vale un saco de arroz... más bien, tres sacos.» | Jigo |
+| Alegre / humor | «Qué horror, esto sabe a agua caliente.» | Jigo |
+| Enfadado | «¡Silencio! Yo no recibo órdenes de humanos.» | San |
+| Enfadado | «Te cortaré la garganta y no podrás seguir diciendo tonterías.» | San |
+| Enfadado | «¡No temo a la muerte! ¡Haré lo que sea para sacar a los humanos del bosque!» | San (Buena Vista) |
+| Explicando | «El dios ciervo otorga vida y quita vida.» | Moro |
+| Explicando | «Muchos están convencidos de que eres un espía de los samuráis o de los monstruos.» | Eboshi |
+| Animando | «¡Vamos! ¡Ya falta muy poco! ¡Manténganse alerta!» | Eboshi |
+| Animando / calmando | «Por favor, controla tu ira.» | Ashitaka |
+| Triste | «San, ya he vivido una larga vida. El dios ciervo con gusto tomará mi vida antes que curarme herida.» | Moro |
+| Triste / aviso | «Te encuentras mal herido. Vas a morir.» | San |
+
+- ⚠️ No hay frase alegre de San en las muestras: en la película casi no la tiene. No se la inventes.
+- **Puntuación**: San y Eboshi con ¡…! cortos; Moro con punto y seguido; Jigo con puntos suspensivos cuando calcula. Nada de emojis ni risas escritas («jaja»).
+- **Onomatopeyas**: el traqueteo de los kodama, カタカタ (*kata-kata*); gruñidos de lobo; el crujido de los gusanos de la maldición («masa viscosa y reptante», créditos de sonido).
+- **Vocabulario propio** (úsalo, no lo traduzcas a genérico): Mononoke (espíritu vengativo, **no** es el nombre de San), Tatara-ba, Tatarigami, Shishigami / dios ciervo, Daidarabotchi (el Nightwalker), Ishibiya, Jibashiri, Shishō-Ren, Karakasa-Ren, Emishi, kodama.
+- **Eslogan de la película**: «生きろ。» / «Vive.» (en inglés «Live.»), de Shigesato Itoi (punto 25).
 
 ## 18. Estilo de dibujo y técnica, y cómo replicarlo
 
-- Última película de Ghibli animada casi enteramente en celuloide tradicional; más de 144.000 celuloides (lo normal en Ghibli eran 50.000-70.000), Miyazaki retocó a mano unos 80.000 personalmente ✅.
-- CG 3D sólo en 5 minutos (sangre/heridas en la cara de San, el Nightwalker/Daidarabotchi) ✅ (dos fuentes que se complementan). Otros 10 minutos usaron pintura digital de color. Total: 15 minutos de los 133 con técnica digital.
-- **Software real usado**: Ghibli montó una sala de CG nueva para esta película, dirigida por Yoshinori Sugano; el programa de pintura/coloreado digital fue **Toonz**, liberado en 2016 como **OpenToonz** (gratis y de código abierto) — la forma más fiel de reproducir el flujo de coloreado digital real de la película, más que Photoshop/Blender directamente ✅ (tres fuentes independientes).
-- **Colorista jefa Michiyo Yasuda** aprendió el sistema digital en una visita a Fox Animation Studios; mantenía carpetas físicas con instrucciones exactas de color por personaje ✅.
-- **Línea y sombreado en cel** (técnica de la industria, aplicable a esta película que se hizo en cel): "色トレス" (color-tracing, línea de color distinto entre zona iluminada y sombreada) + "塗り分け" (relleno plano por zonas, sin degradado real en el cel); los degradados que sí se ven en pantalla (resplandor del Shishigami) se lograban con máscaras negras y aerógrafo sobre el propio cel en cámara ⚠️ (técnica general del cel-anime japonés, no cita específica a Mononoke, pero aplica).
+- Última película de Ghibli animada casi enteramente en celuloide tradicional; más de 144.000 celuloides (lo normal en Ghibli eran 50.000-70.000), Miyazaki retocó a mano unos 80.000 personalmente ✅ ([Ghibli Wiki](https://ghibli.fandom.com/wiki/Princess_Mononoke) + [Wikipedia EN](https://en.wikipedia.org/wiki/Princess_Mononoke)).
+- CG 3D sólo en 5 minutos (sangre/heridas en la cara de San, el Nightwalker/Daidarabotchi; también composición multicapa 多重合成) ✅ ([funawatariblog](https://funawatariblog.com/archives/9398), japonés, + Ghibli Wiki). Otros 10 minutos usaron sólo tinta y pintura digital; los 5 de CG usaron mapeado de texturas, render 3D, *morphing*, partículas y composición digital, sobre todo en los Tatarigami ✅ ([80.lv](https://80.lv/articles/see-what-princess-mononoke-s-cg-scenes-looked-like-on-crt-monitor)). Total: 15 minutos de los 133 con técnica digital.
+- **Software real usado**: Ghibli montó una sala de CG nueva para esta película, dirigida por Yoshinori Sugano; el programa de pintura/coloreado digital fue **Toonz**, liberado en 2016 como **OpenToonz** (gratis y de código abierto) — la forma más fiel de reproducir el flujo de coloreado digital real de la película, más que Photoshop/Blender directamente ✅ (tres fuentes: [80.lv](https://80.lv/articles/see-what-princess-mononoke-s-cg-scenes-looked-like-on-crt-monitor), [Open Culture](https://www.openculture.com/2016/03), [Engadget](https://www.engadget.com/2016-03-21-toonz-studio-ghibli-edition-open-source.html)).
+- **Colorista jefa Michiyo Yasuda** aprendió el sistema digital en una visita a Fox Animation Studios; mantenía carpetas físicas con instrucciones exactas de color por personaje ✅. **Se ve en las hojas**: `escenas_02` 76 ([CelMichiyo.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/3/3e/CelMichiyo.jpg)) muestra a Yasuda (rótulo 色彩設計 保田道世) y sus modelos de color con flechas a cada zona: así se decide el color de sombra de cada pieza. Para replicarlo: haz una **hoja de color** por personaje con el hex de luz y el de sombra de cada zona (punto 15) antes de pintar.
+- **Arte de fondos**: el director de arte Kazuo Oga pintaba con **gouache y acuarela sobre papel**; en 1995 fue a Shirakami-Sanchi para la aldea Emishi; Yakushima inspiró el bosque del Shishigami ✅ (Ghibli Wiki + Wikipedia EN). Staff de arte ([AniList](https://anilist.co/anime/164/staff)): directores de arte Naoya Tanaka, Kazuo Oga, Nizou Yamamoto, Youji Takeshige y Satoshi Kuroda; diseño de color Michiyo Yasuda; dirección de fotografía Atsushi Okui ✅.
+- **Línea y sombreado en cel** (técnica de la industria, aplicable a esta película que se hizo en cel): "色トレス" (color-tracing, línea de color distinto entre zona iluminada y sombreada) + "塗り分け" (relleno plano por zonas, sin degradado real en el cel); los degradados que sí se ven en pantalla (resplandor del Shishigami) se lograban con máscaras negras y aerógrafo sobre el propio cel en cámara ⚠️ (técnica general del cel-anime japonés, no cita específica a Mononoke, pero aplica; fuentes en japonés: [GarageFarm](https://garagefarm.net/jp-blog/traditional-animation-the-art-of-cel-animation-explained) y [mikazukidou](https://mikazukidou.com/anime-cel-lp/animecel)).
+- **Lo medido en esta pasada lo confirma**: en los fotogramas oficiales el color de línea nunca es negro (`#5C4441`, `#6E4D3F`, `#6C5228`, `#4A606E`), y el cuadro es 67-77% degradado (fondo pintado) con zonas planas donde están los personajes (hasta 51% de zonas planas en el primer plano de Eboshi, `mononoke050`) ✅ (estilo.py, redactor).
+- **Grano**: viene del rodaje en celuloide, no de un filtro digital; no hay fuente que hable de brillo o aberración cromática como efecto buscado ⚠️ (ausencia razonada). Para imitarlo: grano fino de película muy suave, nunca aberración cromática.
 - El efecto "gusanos" de la maldición (Nago, Okkoto) mezcla técnica digital y tradicional; Miyazaki lo describió como parecido a "espagueti con tinta de calamar negro" ✅.
 
 **Cómo replicarlo en Photoshop:**
@@ -534,9 +646,13 @@ Colores medidos con `herramientas/estilo.py` sobre fotograma real, no arte promo
 ## 19. Texturas 2D
 
 - **No existe un emblema oficial** de San/la manada ni de Irontown más allá de lo ya documentado — en vez de inventar uno, construirlo a partir de elementos reales confirmados: la máscara de San (arcilla roja + orejas blancas + tres agujeros amarillos), su collar de colmillos, y el patrón de la maldición (líneas onduladas oscuras ramificadas) ⚠️ (síntesis propia a partir de datos confirmados, no un emblema que exista ya).
-- **Texturas CC0 reales medidas por sitio** (ver punto 4): Ground037, Rock064 (santuario del Shishigami); Wood095, Wood094, Metal063, CorrugatedSteel009 (Tatara-ba); Paper001, Fabric061, Bark014 (de imagen.md, uso general).
-- **Pinceles sumi-e** (Brusheezy, licencia libre) para texturas de tinta/pincelada, coherentes con el estilo de fondo pintado a mano.
-- Patrón de la maldición: líneas onduladas finas y ramificadas, negro con halo rojo oscuro alrededor — ver técnica de replicación en el punto 18.
+- **Buscado sin resultado**: «emblem», «crest», «insignia» en el texto de la wiki y en las páginas de Irontown y Emishi. La película pasa en el Japón Muromachi y no usa heráldica de tipo occidental ⚠️ (comprobado).
+- **Texturas CC0 reales por sitio** (ver punto 4; [ambientCG](https://ambientcg.com), CC0, sin atribución obligatoria): [Ground037](https://ambientcg.com/a/Ground037), [Rock064](https://ambientcg.com/a/Rock064) (santuario); [Wood095](https://ambientcg.com/a/Wood095), [Wood094](https://ambientcg.com/a/Wood094), Wood092, [Metal063](https://ambientcg.com/a/Metal063), Metal049A, [CorrugatedSteel009](https://ambientcg.com/a/CorrugatedSteel009) (Tatara-ba); [Bark014](https://ambientcg.com/view?id=Bark014), [Bark015](https://ambientcg.com/view?id=Bark015) (troncos); Leather037, Leather030 (correas y aljaba de Ashitaka) ✅.
+- **Grano de papel** (cartelas, fondo del cuadro de diálogo): [Paper001](https://ambientcg.com/view?id=Paper001), Paper003, Paper005, Paper006 (CC0) ✅.
+- **Tela** (top de San, túnica de Ashitaka, kimono de Eboshi): [Fabric061](https://ambientcg.com/view?id=Fabric061), Fabric066, Fabric081C (CC0) ✅.
+- **Pinceles sumi-e** gratis para Photoshop: [Sumi Ink Brushes](https://www.brusheezy.com/brushes/1183-sumi-ink-brushes) y [82 Sumi Strokes](https://www.brusheezy.com/brushes/21160-82-sumi-strokes) (licencia «free» en la ficha) ✅. Para la pincelada del fondo y el logo.
+- **Patrón de la maldición** (el motivo más original de la película): zarcillos negros-rojos que se retuercen; medido en [Cursed_Arm.png](https://static.wikia.nocookie.net/studio-ghibli/images/c/c9/Cursed_Arm.png): `#1D1B1B`/`#29221D`/`#3C2B21` y venas `#713E38`. En la batalla final se vuelven gusanos **rojos** ([mononoke039](https://www.ghibli.jp/gallery/mononoke039.jpg)). No hay textura libre «venas de maldición»: deformar corteza (Bark014) con *Licuar* o pintar con pincel de venas (punto 18).
+- **Tramas de manga**: no hay. El único cómic oficial es el «フィルムコミック» (Film Comic) de [Tokuma](https://www.tokuma.jp/book/b503719.html), hecho con fotogramas reales; **sin tramas dibujadas** ✅ (Tokuma + Kinokuniya). Si una lámina pide «textura de cómic», es la del fotograma, no una trama.
 
 ## 20. Gustos y detalles
 
@@ -547,7 +663,9 @@ Aviso honesto: Studio Ghibli **no publica fichas tipo databook** (cumpleaños/al
 - **Moro**: 300 años (fallecida) ✅. Rasgo que la define: sus dos colas ✅. Ama a San por encima incluso de su odio a los humanos ✅. Odia a Eboshi en concreto, no a los humanos en abstracto — es personal, por haberla dejado inválida de un disparo ✅.
 - **Dama Eboshi**: edad no especificada en ninguna fuente. Le encanta el hierro y la tecnología — su proyecto Kunikuzushi es su obsesión de vida ✅. Objeto que la define: su rifle Ishibiya y su capa negra con gorro rojo ✅. Detalle único: la única mujer de la película que usa lápiz labial ⚠️.
 - **Jigo**: mediana edad ✅. Le encanta la comida y el dinero fácil — se queja del agua caliente e intenta cambiar oro por sacos de arroz ✅. Su menaje de lujo y ofrecer miso sin dudar delatan que es de más alto estatus del que aparenta ⚠️ (una fuente).
-- ❌ Ningún personaje tiene cumpleaños exacto ni altura oficial publicada (buscado en las 4 fuentes de arriba).
+- ⚠️ Ningún personaje tiene cumpleaños exacto ni altura oficial publicada: buscado en [AniList](https://anilist.co/anime/164/characters), [MyAnimeList](https://myanimelist.net/anime/164/Mononoke_Hime/characters), [Ghibli Wiki](https://ghibli.fandom.com/wiki/San) y [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke). Comprobado: no es falta de búsqueda. No se inventa.
+- **Altura relativa** (lo único medible): sentada, Moro es tan alta que San le llega a la cabeza ✅ (wiki, en `datos-imagen.md`).
+- **Kodama y Yakul**: sin diálogo ni ficha. Yakul es un serau («elk rojo», アカシシ) que ya salía en *El viaje de Shuna* (hoja `arte_01` 103) ✅.
 
 ## 21. Por qué la aman y escenas que hacen llorar
 

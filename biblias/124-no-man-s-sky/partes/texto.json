@@ -106,5 +106,32 @@
     "que_es": "Charla técnica del GDC sobre la generación continua de mundo por voxels/ruido en No Man's Sky",
     "para_que": "Fuente técnica oficial para el punto 18 (cómo se construye el terreno, base para replicarlo en Blender)",
     "licencia": "charla de conferencia, contenido oficial de Hello Games; sólo referencia, no descargable libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/63/NMS1dot3GalaxyMap.jpg",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura real de la interfaz del Galactic Map (mapa de la galaxia): fondo casi negro-azulado, etiqueta de sistema con distancia en años luz, ficha de icono+texto por fila",
+    "para_que": "Referencia de interfaz de juego, punto 11 (mapa), y de paleta sin negro puro, punto 18",
+    "licencia": "captura del juego (Hello Games), alojada en wiki de fans, uso de referencia"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NMSCD/Expedition-Alphabet/main/public/assets/font/nms-alphabet.ttf",
+    "fuente": "github.com/NMSCD/Expedition-Alphabet",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente TTF real \"NMS Alphabet\" (67 glifos) que convierte A-Z/números al alfabeto-glifo alienígena del juego; comprobada con fontTools: NO trae tildes, ñ ni ¿¡",
+    "para_que": "Letra libre para cartelas del mundo en el alfabeto alien, punto 5 (con el aviso de que no sirve para español sin tildes)",
+    "licencia": "FontStruct License (declarada en el propio archivo, no es OFL; revisar términos de FontStruct.com antes de redistribuir)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/f2/NMSAtlasInterface.jpg",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura real del juego en una Atlas Interface: esfera roja facetada dentro de un marco de diamante con borde de neón rojo, sala oscura",
+    "para_que": "Confirmación visual directa del símbolo del Atlas, punto 25 (emblemas y símbolos)",
+    "licencia": "captura del juego (Hello Games), alojada en wiki de fans, uso de referencia"
   }
 ]
