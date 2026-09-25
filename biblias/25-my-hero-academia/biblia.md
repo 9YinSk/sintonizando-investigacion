@@ -92,9 +92,16 @@ fecha: 2026-09-24
 - Tres hojas de contacto, la tabla «Cumplimiento del encargo» y la
   bitácora de la segunda pasada.
 
-**Los ⚠️**: la primera pasada tenía **108**. Al cerrar esta pasada quedan
-los que se cuentan en la tabla de cumplimiento; los que siguen dudosos
-dicen por qué (casi todos: YouTube, TikTok o una web en 403).
+**Los ⚠️**: la primera pasada tenía **108**; ahora hay **unos 170**. No hay
+más dudas que antes: la biblia creció de 1282 a unas 2380 líneas (los
+puntos 18-25 y todo lo nuevo), y cada dato de una sola fuente lleva su
+⚠️. De los antiguos se resolvieron, entre otros: el doblaje (los seis
+nombres de arriba, Aizawa, Kurogiri, la T8), los artistas de OP1, OP2,
+ED1 y T3, los colores de ropa y luz, las poses vistas, el aspecto de
+Bakugo, Todoroki y All Might, la portada del cuaderno y la mitad de las
+12 líneas de «Lo que no pude verificar». Los que quedan dicen por qué (casi
+todos: YouTube, TikTok o una web en 403). En la tabla de cumplimiento:
+**27 ✅, 10 ⚠️, 0 ❌**.
 
 ---
 
@@ -2140,6 +2147,57 @@ de OP1, OP2, ED1 y T3.
 - Modelo 3D **rigueado** de Aizawa (no hay).
 ---
 
+## Cumplimiento del encargo
+
+Estado al cerrar la segunda pasada (25-sep-2026). ✅ hecho · ⚠️ a medias ·
+❌ no hecho.
+
+| Punto | Estado | Dónde | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | §3, §3.5, hojas | Key visuals, pósters, 10.º aniversario, CD, BD de la película, 2 juegos, hojas de modelo de los 6, cartones de cuenta atrás, contraportadas VIZ; tamaños medidos. Falta el BD de la serie TV vol. 1 |
+| 2 · Fotogramas de escenas icónicas con minuto | ✅ | §2, §2.4 | Subtítulos con minuto de 1×01 a 8×11 + episodio 1 mirado entero y 3 escenas miradas. El episodio es 1280×720; los fotogramas de la wiki, 1920×1080 |
+| 3 · Fan art y 3D con licencia | ✅ | §4 | 9 modelos con licencia leída en la API de Sketchfab, fan art de Safebooru con autor, cosplay CC BY-NC-SA |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | §5 | 4 sitios con paleta medida en fotogramas; papel, madera y hormigón CC0 |
+| 5 · Tipografía por uso, con tildes | ✅ | §6 | 10 usos con letra libre comprobada con fontTools; logo «PLUS ULTRA ver.» visto. La letra de globo de VIZ no se encontró |
+| 6 · Cómo hablan en pantalla (cuadro de diálogo) | ✅ | §7 | Cuaderno, voz en off, pizarritas, chuleta, viñeta de *One's Justice*, fichas VIZ, cartones a mano |
+| 7 · Personajes y encuestas | ✅ | §8, §9 | Encuestas 1.ª a 9.ª con votos, acumulado, World Best Hero con desglose latino, favoritos de AniList |
+| 8 · Doblaje latino y frases textuales | ✅ | §10 | Doblaje Wiki leída entera + segunda fuente por nombre; 8 frases oídas con clip y minuto; dirección y adaptación. Queda la duda de la película 4 |
+| 9 · Música y sonido | ⚠️ | §11 | OP1, OP2, ED1 y T3 con dos fuentes y tema del ep. 13; faltan el minuto de «You Say Run», los artistas de T2-T7 y los efectos de sonido con fuente propia |
+| 10 · Vídeos con minuto | ⚠️ | §12 | 11 vídeos mirados en Dailymotion e Internet Archive con minuto; YouTube y TikTok bloqueados: sin tráileres de YouTube ni tendencias |
+| 11 · Videojuegos: interfaz y cajas de diálogo | ⚠️ | §13 | 6 juegos con datos y arte; las capturas de interfaz (Game UI Database) no se pudieron abrir |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | §14 | Memes, errores de adaptación, reglas del doblaje con cita literal |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | §8 | Perfiles oficiales y 12 caras con fotograma y minuto; faltan tristeza y vergüenza con fotograma |
+| 14 · Poses analizadas con minuto | ✅ | §15 | 16 poses vistas en fotograma para los 6 personajes + tablas por uso (presentar, explicar, regañar, animar…) |
+| 15 · Vestuario con hex | ✅ | §16 | Uniforme y traje de los 6, hex medidos sobre hojas de modelo oficiales; falta el traje Edad de Plata medido |
+| 16 · Paisajes y fondos de pantalla | ✅ | §17 | Oficiales en alta (pósters de la wiki) y de fans de Wallhaven con tamaño y autor; la web oficial de fondos sigue en 403 |
+| 17 · Guía para IA de imagen y de texto | ✅ | §18 | Rasgos con etiquetas de Danbooru, paleta y línea medidas, referencias por número de hoja, frases reales por emoción, vocabulario de expresiones |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | §18-a | Manga y anime con fuentes, Photoshop y Blender paso a paso, modelos rigueados. No se sabe qué programa usa Horikoshi |
+| 19 · Texturas 2D | ⚠️ | §18-b | Tramas y papel con licencia; el tartán de Bakugo sólo con licencia por archivo y el emblema de U.A. suelto no se encontró |
+| 20 · Gustos y detalles | ✅ | §18-c | Tabla de los 6 + Kirishima con perfiles oficiales y AniList |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | §18-d | Ventas, premios, encuestas, 5 escenas con minuto y cómo están hechas; faltan vídeos de reacción y la música de 3 escenas |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | §18-e | Actores oficiales en fandubs ✅; canales, covers y TikTok sin vistas (YouTube y TikTok bloqueados) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | §18-f | Marvel, USJ, 5 cafés y restaurantes, PAC-MAN, S.H.Figuarts, cosplay con licencia; sin la foto de las figuras |
+| 24 · Obras parecidas | ✅ | §18-g | AniList, influencias del autor, láminas vecinas del servidor |
+| 25 · Mundo, historia y símbolos | ✅ | §18-h | 5 reglas, 3 sagas por arcos, emblemas, vocabulario |
+| Los 3 conceptos de lámina | ✅ | §19 | Tres distintos, con objeto, sitio, personaje, pose con referencia, cuadro de diálogo, letra, textos y profundidad |
+| 40 fuentes distintas | ✅ | toda la biblia | `revisar.py` cuenta 103 webs enlazadas |
+| Tipos de fuente: oficiales | ✅ | §3, §18-a, §18-f | heroaca.com, BONES, Bandai Namco, Marvel, entrevista de VIZ |
+| Tipos: otros idiomas (japonés, chino, coreano) | ⚠️ | §2, §9, bitácora | Subtítulos japoneses, Animate Times, Tencent y Facebook en chino; konomanga.jp en 403; coreano sólo por resumen de búsqueda (Namu Wiki, Wikipedia coreana, Aniplus) |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | §3.5, §10 | Fandom en inglés y Doblaje Wiki enteras; TV Tropes en 403; Wayback bloqueado por la red; **TCRF no se buscó** en ninguna pasada |
+| Tipos: foros y comunidades | ✅ | §14, §18-d | Reddit por Arctic Shift, Yahoo Chiebukuro |
+| Tipos: arte (Pixiv, DeviantArt…) | ✅ | §4.2 | Safebooru con enlace al original en Pixiv y X, DeviantArt, Wallhaven |
+| Tipos: vídeo con minuto | ⚠️ | §12 | Dailymotion e Internet Archive sí; YouTube y TikTok no |
+| Tipos: código y recursos | ✅ | §4, §6, §18-a | GitHub (subtítulos, google/fonts), Sketchfab por API, ambientCG |
+| Tipos: doblaje latino | ✅ | §10 | Doblaje Wiki por API, ANMTV, Crunchyroll, IMDb, Behind The Voice Actors |
+| Hojas de contacto (3) | ✅ | «Las hojas de contacto» | `arte_oficial_01.jpg`, `vestuario_juegos_01.jpg` y `personajes_01.jpg` (nueva, 16 celdas), miradas y descritas |
+| `referencias.json` (≥ 20) | ✅ | archivo aparte | 240 referencias sin repetir, las mejores primero; 154 con tamaño medido |
+
+**Ningún punto queda en ❌.** Los ⚠️ son por bloqueos de red (YouTube,
+TikTok, TV Tropes, heroaca.com) o porque la fuente no da más; están
+explicados en su sección y en §20.
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
@@ -2247,3 +2305,79 @@ Por idioma: **ES 14 · EN 23 · JA 7 · ZH 1 · KO 1**.
 - **Fotogramas en 1080p**: no pude bajar ninguno; los minutos de §2 son
   el camino para sacarlos.
 - **Cómo es por dentro una página oficial del cuaderno.**
+
+### Segunda pasada (25-sep-2026, red abierta)
+
+Cuatro investigadores y un redactor. Lo que en la primera pasada estaba
+bloqueado y ahora **sí** se usó: Fandom y Doblaje Wiki por API, Sketchfab
+por API, Reddit por Arctic Shift, Dailymotion, Internet Archive y
+ambientCG. **Seguían bloqueados**: YouTube (pide iniciar sesión), TikTok,
+TV Tropes (403, y su Wayback por la red), heroaca.com/special/wallpaper
+(403, y su Wayback), konomanga.jp, AsiaPacificArts, Behind The Voice
+Actors (403: se citó el resultado del buscador), la ficha «Bones
+(Studio)» de la wiki (402), japanpop.fr (DNS) y AnimeThemes (522, tres
+intentos).
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- API de Fandom `myheroacademia`: `list=search` en archivos para las hojas
+  de modelo de los 6, «U.A. uniform», «Blu-ray cover volume 1», «U.A. High
+  School logo/emblem»; `prop=images` de «Katsuki Bakugo», «Shoto
+  Todoroki» y «U.A. High School» (el recolector había cogido «Bakugo
+  House» y «Rei Todoroki» por error); `imageinfo` para tamaños.
+- API de Sketchfab: «My Hero Academia», «classroom» y cada personaje con
+  `downloadable=true`, y `/v3/models/<uid>` para licencia, autor y caras.
+- Buscador (ES/EN): colaboraciones y cafés 2026, USJ, Marvel y
+  Horikoshi, S.H.Figuarts, *All's Justice* en Switch 2, emblema de U.A.,
+  tramas CC0, tartán CC0.
+- Miradas con Read: 4 hojas de contacto (192 imágenes) y 6 hojas de
+  modelo; `estilo.py` sobre 14 imágenes oficiales.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- API de Dailymotion (EN): openings, ending, «Detroit Smash», Festival
+  Deportivo, *Two Heroes*, Aizawa → `x7s67y3`, `x5pk6h7`, `x4hptj4`,
+  `x80pei3`, `x6soboa`, `x6u2yxy`, `x6tcw9u` (y `x6j7vj6`, descartado por
+  ser AMV).
+- Internet Archive: `advancedsearch` («my hero academia» ending) → ED1; el
+  episodio 1 entero con subtítulos en español.
+- `fotogramas.py` sobre 7 vídeos y 9 segundos sueltos del episodio 1;
+  `estilo.py` sobre 5 fotogramas; los `video.mp4` (~444 MB) se borraron.
+- Fichas de la wiki: episodios 12, 13, 22, 39 y 42, «THE DAY», «You Say
+  Run 10th Anniversary Ver.», «1,000,000% Delaware Detroit Smash».
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki por API: `My_Hero_Academia` (114 268 caracteres) y
+  `My_Hero_Academia/8ª_temporada` (45 581), leídas enteras.
+- Wiki en inglés: Izuku, Toshinori, Katsuki, Shoto, Ochaco, Shota
+  (ficha y curiosidades) y `Popularity_Polls` (102 464 caracteres).
+- Dailymotion (ES): «My Hero Academia All Might latino», «Bakugo latino
+  doblaje» → `x618t31`, `x7xktih`, `x7xksc8`, `x7xkvbk`, oídos con
+  `voz.py` y mirados con `fotogramas.py`.
+- Arctic Shift: «Papa All Might» en r/BokuNoHeroAcademia.
+- Buscador (ES/EN, 6): fandub latino, covers en latino, Samuel Lazcano
+  T8, por qué la aman, ventas y premios, Andrea Villaverde, memes en
+  TikTok.
+
+**Texto, técnica y mundo** (puntos 18, 24, 25)
+- Buscador (EN, ~14; JA, 1): herramientas de Horikoshi, producción de
+  BONES, influencias y cómic americano, composición de viñetas, *toon
+  shader* en Blender, *cel shading* en Photoshop, manos de Shigaraki,
+  «Símbolo de la Paz», emblema de U.A., origen de «Plus Ultra», Umakoshi,
+  paso a digital en 2020, filtros de BONES; en japonés, 堀越耕平 影響を
+  受けた漫画 アメコミ インタビュー.
+- Wiki: «Story Arcs», «Quirk», «One For All», «League of Villains», «Hero
+  Public Safety Commission», «Nomu», «U.A. High School».
+- Sketchfab por API: modelos rigueados de cada personaje.
+- Lectura de las biblias 24 (*Assassination Classroom*) y 81 (*Mushoku
+  Tensei*) y de los canales de las demás.
+
+**Redactor**
+- Tercera hoja (`personajes_01.jpg`) montada con Pillow con 16 imágenes
+  de la wiki que ya citaban las partes, bajadas con la cabecera
+  `Referer: https://www.fandom.com/` y miradas con Read.
+- `referencias.json` juntado de las cuatro partes, `datos.json` y la
+  primera pasada: 240 sin repetir (fuera los fondos de Wallhaven de otras
+  series y un modelo 3D ajeno).
+
+**Lo que sigue sin encontrarse**: ver §20. Resuelto respecto a la primera
+pasada: Reddit por Arctic Shift, frases del doblaje, fotogramas (en 720p
+del episodio y 1080p de la wiki), hojas de contacto.
