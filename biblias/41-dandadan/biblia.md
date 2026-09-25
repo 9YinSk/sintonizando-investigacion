@@ -910,3 +910,384 @@ pidió iniciar sesión). Las frases con audio salen del episodio completo
 de Internet Archive.
 
 ---
+
+## 11 · Música y sonido
+
+### 11.1 Openings y endings ✅
+
+Dos fuentes cada uno: [Wikipedia, lista de episodios](https://en.wikipedia.org/wiki/List_of_Dandadan_episodes)
+(cita a Anime News Network) y los tráileres.
+
+| Temporada | Opening | Ending |
+|---|---|---|
+| T1 (2024) | **«Otonoke»** (オトノケ), **Creepy Nuts** | **«Taidada»**, **Zutomayo** (ずっと真夜中でいいのに。) |
+| T2 (2025) | **«Kakumei Dōchū»** (革命道中, «De camino»), **Aina the End** | **«Doukashiteru»** (どうかしてる), **WurtS** |
+
+- «Otonoke» ganó **Mejor Secuencia de Apertura** en los 9.º Crunchyroll
+  Anime Awards (mayo 2025) ([Wikipedia](https://en.wikipedia.org/wiki/9th_Crunchyroll_Anime_Awards)) ✅.
+- Ese opening se hizo con **recortes de papel y lápiz de verdad**, no
+  con un filtro: su director de secuencia, **Abel Góngora**, quería «ir
+  en la dirección contraria a la IA»
+  ([ComicBook.com](https://comicbook.com/anime/news/dandadan-director-ai-anime/)) ✅.
+- ⚠️ **El opening no se miró** como vídeo propio (AnimeThemes caído,
+  YouTube bloqueado). El ep. 1 de Internet Archive se llama «op-join» y
+  sus minutos 22-23 tienen muchos cortes (31-35 planos por minuto en
+  `episodios.md`): quizá sea el opening pegado. Sin comprobar.
+- Cover de fans del OP2: «On the Way», Miura Jam, 2025-08-21
+  ([MusicBrainz](https://musicbrainz.org/release-group/0806bfc8-4e82-498a-aa60-db7d149b54b1)) ⚠️.
+
+### 11.2 La banda sonora ✅
+
+- **Kensuke Ushio** (牛尾憲輔). Sale en el tráiler oficial («MUSIC / 音楽
+  牛尾憲輔», 0:20) y en MusicBrainz: [banda sonora](https://musicbrainz.org/release-group/5ff86679-629c-4d56-82e4-32ef8f93aed5)
+  (2024-12-06) y [*Lead Trax*](https://musicbrainz.org/release-group/7fb6a561-9cd0-457a-a709-2c5d41037555) (2024-11-08).
+- Usa **Big Beat electrónico** y **graba sonidos falsos** para
+  samplearlos, en vez de usar muestras con derechos
+  ([Sakuga Blog](https://blog.sakugabooru.com/2024/10/03/dandadan-production-notes-01/)) ✅.
+- Sonido: dirección **Eriko Kimura**, efectos **Shouta Yaso**, selección
+  musical **Maiko Gouda** ([AniList](https://anilist.co/anime/171018/staff)).
+
+### 11.3 Lo que suena en las escenas clave (visto en el ep. 1)
+
+- **Persecución del túnel** (10:55-11:26): música tensa y rítmica,
+  pegada a los golpes de la persecución.
+- **Despertar de Momo** (13:16-14:10): la música sube con capas de
+  sintetizador a la vez que todo se vuelve cian.
+- **Ep. 7, la escena que hace llorar**: la música **baja a silencio** en
+  los momentos clave (parte de voz).
+- ⚠️ No hay lista de pistas con minutos: los nombres de las pistas no se
+  saben. Se reconocen de oído con estos minutos.
+
+### 11.4 Las canciones dentro de la serie (y el doblaje) ✅ Doblaje Wiki
+
+| Ep. | Quién canta | Qué | Netflix | Crunchyroll |
+|---|---|---|---|---|
+| 1 | Okarun | «Too Shy Shy Boy!» (Alisa Mizuki) | José Luis Piedra **la canta en japonés** | la cambian por **«Tímido» de Flans** (sale del manga de Panini) |
+| 8-9 | el Dover Demon | «Chiquitita» (ABBA) | en japonés | con **la letra en español del propio ABBA** |
+| 12 | Okarun y Jiji | opening y ending de ***Slam Dunk*** | en japonés | en español, con **la letra latina de 1998 de Loretta Santini** («…a mi lado por siempre, chiquita») |
+| 17 | Jiji | «Olvida la amargura» (*Ranma ½*) | japonés con subtítulos de Jorge Roig | cantada con la adaptación de Jorge Roig |
+| 18 | la banda **Hayasii** (inspirada en X Japan) | «Hunting Soul» | en japonés | en español, **Nando Fortanell** |
+
+- **Irwin Daayán** insistió en Netflix para doblar *Slam Dunk* y *Ranma*
+  como gesto a los fans, y **dirigió a Dalí González cantándolas**,
+  pero no entró en el resultado final ✅ (Doblaje Wiki).
+- En el avance del ep. 10 de la T2 sí se dobló «Char ga kuru» (*Gundam*)
+  que canta Kinta; en el episodio quedó en japonés.
+
+### 11.5 Efectos y onomatopeyas
+
+- **El título es una onomatopeya**: ダンダダン suena a redoble de tambor
+  ✅.
+- ⚠️ Según la [wiki de efectos de sonido](https://soundeffects.fandom.com/api.php?action=parse&page=DanDaDan&format=json&prop=wikitext)
+  (una fuente, comunitaria): el rugido del **kaiju** es el del **T-Rex
+  de *Jurassic Park*** mezclado con «Sharktopus Roar»; el puñetazo es
+  «Sound Ideas, PUNCH, FACE - HARD FACE PUNCH 02»; la vaca del arco de
+  la mutilación de ganado, «Sound Ideas, COW - SINGLE MOO».
+
+---
+
+## 12 · Vídeos y tendencias
+
+### 12.1 Mirados de verdad ✅
+
+Los tres tráileres de §2.3 (`fotogramas.py --cortes`: 29 fotogramas del
+japonés, 59 del de la T2) y los **episodios 1 a 8** de §2.1-2.2 (el 1 y
+el 5 enteros con `episodio.py`: 484 y 404 planos, con transcripción
+japonesa; los demás, cada 15 s).
+
+### 12.2 Otros útiles, sin mirar ⚠️
+
+| Vídeo | Dónde | Vistas | Nota |
+|---|---|---|---|
+| Tráiler oficial | [YouTube](https://www.youtube.com/watch?v=rJo1MnsuxyY) | — | el de AniList; YouTube pidió iniciar sesión |
+| «Dandadan - trailer» | [Dailymotion](https://www.dailymotion.com/video/x8uepus) | 88.781 | JeuxVideo.com |
+| «Tráiler Dan Da Dan Temporada 2» | [Dailymotion](https://www.dailymotion.com/video/x9b3u3c) | 350.490 | 3DJuegos, 0:15 |
+| 3.er PV (estreno 3-oct-2024) | [Internet Archive](https://archive.org/details/tv-anime-dan-da-dan-3rd-pv-24.10.3-broadcast-started) | — | — |
+| Opening hecho por fans con «Ashura-chan» de Ado | [Internet Archive](https://archive.org/details/dandadan-fanmade-opening-ashura-chan) | 606 descargas | tendencia de fans |
+| Entrevista «¡El anime caótico regresa!» con Azucena Estrada e Iván Bastidas | Doblaje Wiki, «Muestra multimedia» | — | las voces de Momo (Netflix) y Okarun (Crunchyroll) juntas |
+| Pódcasts *Ani-Gamers* y *Baka! Baka! Baka!* 209 y 223 | [Internet Archive](https://archive.org/details/bbb-209-dan-da-dan) | — | reseñas en audio |
+
+### 12.3 Tendencias ⚠️
+
+- **Reddit**: «It was ICONIC that Okarun says his name & background
+  goes KABOOM» (**3515 votos**) es plantilla de meme
+  ([hilo](https://www.reddit.com/r/Dandadan/comments/1mu93jv/it_was_iconic_that_okarun_says_his_name/)) ✅.
+- **TikTok**: no se pudo entrar sin sesión. Sin cifras.
+- **Análisis en vídeo**: no se encontró ninguno descargable.
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+**Dandadan no tiene videojuego propio** ✅. Comprobado: la API de
+[Steam](https://store.steampowered.com/api/storesearch/?term=dandadan)
+da 0 resultados; The Cutting Room Floor no tiene página; en tiendas
+móviles sólo hay juegos de fans (Roblox, itch.io). Vive en
+**colaboraciones con juegos ajenos**:
+
+| Juego | Cuándo | Qué trae | Fuentes |
+|---|---|---|---|
+| ***Monster Strike*** (XFLAG, móvil) | 1-14 oct 2025 | Momo, Okarun y Jiji de 6 estrellas **con sus seiyū**; Aira y Kinta de 5; Turbo Babaa y Hoshiko en el paquete de inicio. Enemigos: Mongolian Death Worm, Dover Demon, Kitou Naki, Flatwoods Monster, Serpo | [Animeworld](https://animeworld.info/2025/09/29/dandadan-x-monst-collaboration-begins-momo-okarun-jiji-more-join-limited-gacha-goods-also-available/) ⚠️ una fuente |
+| ***Honor of Kings*** (Tencent) | 1-31 ago 2026 | aspectos: Okarun sobre Lam, Momo sobre Daji, Turbo Granny sobre Mozi; mapa temático y líneas de voz propias | [UNGEEK](https://www.ungeek.ph/2026/08/honor-of-kings-x-dandadan-collab-is-live-now-until-august-31/), [LapakGaming](https://www.lapakgaming.com/blog/en-my/honor-of-kings-x-dandadan/) ✅ |
+| *Jump+ Jumble Rush* | — | Okarun en *chibi*, normal y transformado (hoja 2 n.º 52 y 54) | wiki ✅ |
+| *Grand Summoners* | — | Momo (agua), Okarun (rayo verde), Aira (fuego), normales y «Super Awakening» (hoja 2 n.º 56-61) | wiki ✅; fecha sin confirmar |
+
+- ⚠️ **Ninguna caja de diálogo de estas colaboraciones se vio**: no hay
+  capturas de interfaz en las partes.
+- **Qué NO hacer**: inventar «la pantalla del juego de Dandadan». Si una
+  lámina necesita algo de juego, mejor el lenguaje del manga (§7).
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### 14.1 Lo que todo fan reconoce ✅
+
+- **El robo de las «bolas doradas»** (*kintama*) de Okarun: el chiste que
+  sostiene medio primer arco. El doblaje de Crunchyroll lo dice con
+  **«banana»** («Nos va a tener que dar su banana», ep. 1, 14:59), y el
+  tráiler también («Please give us your banana», 0:12).
+- **Okarun diciendo su nombre y una explosión detrás** (Reddit, 3515
+  votos).
+- **Momo y Okarun** como pareja; el arco de Kinta que retrasa el romance
+  divide («this arc was needed», 908 votos).
+- **Aira y Momo cargan las peleas** (1218 votos).
+- **El ep. 7** hace llorar: «Third time I've drowned in tears», «made a
+  grown man shed a tear»
+  ([Sportskeeda](https://www.sportskeeda.com/anime/dandadan-episode-7-review-science-saru-proves-perfect-blend-action-emotion), que cita los foros de MyAnimeList).
+- **Los memes del doblaje latino**: «¿Te parece que somos ricos?»,
+  «Oye, despacio cerebrito», «¡Cállense, cállense que me desesperan!»
+  (§10.3).
+- El **gato de la suerte** de Turbo Granny, con su 千万両.
+
+### 14.2 Qué NO hacer ✅
+
+- ❌ **Mezclar los doblajes.** «Turbo Abuela» y «Chico misterio» son
+  **Netflix**; «Turbo Ruca» y «Ocultista» son **Crunchyroll**. Se elige
+  uno y se sigue. El propio Doblaje Wiki lo anota como dato: el fandom
+  se fija.
+- ❌ **Turbo Granny tierna.** Es cruel y malhablada; su lado compasivo es
+  un secreto de fondo, no su cara pública.
+- ❌ **Aira como «chica tonta y linda».** Es vanidosa y calculadora, y
+  pelea.
+- ❌ **Quitar el chiste de las bolas.** Sin él se cae el arco. Para un
+  servidor público, basta con el eufemismo del propio doblaje: la
+  «banana».
+- ❌ **Confundir a Seiko con Turbo Granny.** Las dos son ancianas de
+  pelo blanco; Seiko lleva **lentes rojos** y Turbo Granny **ojos
+  amarillos que miran a los lados**. (Hasta una parte se equivocó, §28.)
+- ❌ **El pelo de Okarun castaño.** En el manga es castaño, **en el anime
+  es negro** (wiki, *Appearance*).
+- ❌ **Cambiar los colores de bando** (§7.2).
+- ❌ **«¡Nyoron!»** como grito de Okarun: sin fuente (§8.2).
+- ⚠️ No se encontró una lista hecha por fans de «lo que les parece
+  falso»: esto sale de reseñas, la wiki y el audio.
+
+---
+
+## 15 · Poses analizadas por personaje
+
+De la parte de vídeo (vistas en los eps. 1 y 5 y en las hojas de la
+wiki), con dos correcciones del redactor (§28). Los enlaces llevan al
+segundo exacto.
+
+### 15.1 Momo (9) ✅
+
+| # | Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|---|
+| 1 | Furiosa, protectora | [ep. 1, 13:20](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=800) | ojos muy abiertos, pelo levantado por la energía, mandíbula tensa, de frente | **regañar** |
+| 2 | Grito de rescate | [ep. 1, 13:43](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=823) | puños cerrados, cuerpo hacia delante, boca abierta | **animar** |
+| 3 | Poder desatado | [ep. 1, 17:45](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1065) | brazos cruzados ante el pecho, aura geométrica blanca en los puños | **presentar** |
+| 4 | Aviso | [ep. 1, 18:11](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1091) | primer plano, ojos entrecerrados, ceño | **regañar** |
+| 5 | Agotada, cayendo | [ep. 1, 18:34](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1114) | cuerpo flojo de espaldas | después del esfuerzo |
+| 6 | Riendo | [ep. 1, 21:54](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1314) | cabeza atrás, ojos cerrados, sonrisa amplia, mano en el pelo | **celebrar** |
+| 7 | Caminando de noche | [ep. 1, 21:02-21:33](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1262) | manos en los bolsillos, hombros sueltos | charla tranquila |
+| 8 | Psicoquinesis | hoja 2 n.º 50 | en el aire, una pierna doblada, manos hacia abajo | **explicar** su poder |
+| 9 | Salto de portada | hoja 1 n.º 37 | piernas encogidas, uniforme al viento, mira abajo | portada |
+
+Extra, visto por el redactor: **disculpa ruborizada, mano en la
+cabeza** ([ep. 5, 14:26](https://archive.org/details/english-sub-s-01.-e-05?t=866)) y
+**llorando de risa** ([ep. 5, 15:12](https://archive.org/details/english-sub-s-01.-e-05?t=912)).
+
+### 15.2 Okarun (7) ✅
+
+| # | Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|---|
+| 1 | Incómodo | [tráiler, 0:16](https://www.dailymotion.com/video/x8u8yoq?start=16) | mano en la sien ajustando los lentes, ceño, encogido | **pensar** |
+| 2 | Aterrado | [ep. 1, 11:52-12:03](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=712) | manos abiertas empujando, cuerpo arqueado hacia atrás | miedo |
+| 3 | Transformado, protector | [ep. 1, 14:27](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=867) (la frase «If it's for her sake…» llega a las 16:12) | agachado, garras hacia delante, ojo rojo | **animar** |
+| 4 | Suplicando | [ep. 1, 14:39-14:46](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=879) | manos juntas al pecho, cabeza inclinada | pedir ayuda |
+| 5 | Explicando avergonzado | [ep. 1, 21:29-21:39](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1289) | mano en la nuca, mirada de lado | **explicar** |
+| 6 | Dos dedos en los lentes | [ep. 5, 14:18-14:50](https://archive.org/details/english-sub-s-01.-e-05?t=858) | cabeza algo baja, cara seria | **pensar**, pausa antes de hablar |
+| 7 | En guardia (*chibi*) | hoja 2 n.º 52 | de pie, puños arriba, ceño | **presentar** |
+
+Extra: **niño leyendo su revista** en el pupitre ([ep. 1, 15:50-15:57](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=950);
+hoja 2 n.º 77 y 80) y **mirando al cielo** (15:47). Son las de §27 A.
+
+### 15.3 Turbo Granny (7) ✅ con corrección
+
+| # | Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|---|
+| 1 | Ojos en la oscuridad | [ep. 1, 10:55](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=655) | sólo dos ojos amarillos y colmillos | **presentar** la amenaza |
+| 2 | Persiguiendo en silueta | [ep. 1, 11:10-11:23](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=670) | encorvada, corriendo, contra fondo rojo | velocidad |
+| 3 | Forma yokai atacando | [ep. 1, 18:41-18:59](https://archive.org/details/english-sub-s-01.-e-01-op-join?t=1121) | de pie, brazos arriba con garras, melena blanca sobre media cara, boca abierta | **regañar**, amenazar |
+| 4 | De pie, neutra | hoja 2 n.º 75 (concept art) | cuerpo entero, kimono rojo, pelo blanco a un lado, erguida | **presentar** |
+| 5 | El gato con el talismán | [ep. 5, 16:05](https://archive.org/details/english-sub-s-01.-e-05?t=965) | el gato sentado, talismán pegado al costado | **explicar** (§27 B) |
+| 6 | El gato con la pata alzada | [ep. 5, 16:51](https://archive.org/details/english-sub-s-01.-e-05?t=1011) | pata levantada, mirada de lado | **llamar**, saludar |
+| 7 | El gato sobre la mesa baja | [ep. 5, 17:16](https://archive.org/details/english-sub-s-01.-e-05?t=1036) | de frente, talismán «家内安全 / 厄除» | la lámina B |
+
+⚠️ La parte de vídeo tenía 3 poses más de «Turbo Granny en forma
+humana» (ep. 5, 15:24-16:54). **Son de Seiko** (lentes rojos, fuma, da
+órdenes con un abanico): las paso a §15.5.
+
+### 15.4 Aira (7) ✅
+
+| # | Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|---|
+| 1 | Disculpándose | [ep. 5, 11:49-12:19](https://archive.org/details/english-sub-s-01.-e-05?t=709) | inclinada, manos junto al pecho, ojos grandes | **presentar** su cara amable |
+| 2 | Sonrisa halagadora | [ep. 5, 12:15-12:19](https://archive.org/details/english-sub-s-01.-e-05?t=735) | cabeza ladeada, mano en el pelo | **celebrar**, coquetear |
+| 3 | La V con sus amigas | [ep. 5, 12:53-13:06](https://archive.org/details/english-sub-s-01.-e-05?t=773) | de espaldas, dedos en V, en corro | **celebrar** en privado |
+| 4 | Sorprendida de verdad | [ep. 5, 13:36-13:38](https://archive.org/details/english-sub-s-01.-e-05?t=816) | ojos muy abiertos, se gira hacia Momo que cae | preocupación real |
+| 5 | Burlona | [ep. 5, 13:50](https://archive.org/details/english-sub-s-01.-e-05?t=830) | media sonrisa, ceja alzada, mirando de lado | **regañar** con sarcasmo |
+| 6 | Patada alta | hoja 1 n.º 20 («Aira kicks Chorus giant», [1920×1080](https://static.wikia.nocookie.net/dandadan/images/5/5d/Aira_kicks_Chorus_giant.png)) | pierna arriba, brazos abiertos, pelo y falda al viento | **animar** |
+| 7 | De pie (concept art) | hoja 2 n.º 66 | manos junto al cuerpo, mirada al frente | **presentar** |
+
+### 15.5 Seiko (3, antes atribuidas a Turbo Granny)
+
+| Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| Examinando de cerca | [ep. 5, 15:54-16:01](https://archive.org/details/english-sub-s-01.-e-05?t=954) | cabeza adelante, ceño, lentes rojos: «There's something hiding inside him» | **pensar** |
+| Fumando, dedos en alto | [ep. 5, 16:09](https://archive.org/details/english-sub-s-01.-e-05?t=969) | cigarro en la boca, mano levantada | explicar con calma |
+| Dando órdenes con el abanico | [ep. 5, 16:45-16:54](https://archive.org/details/english-sub-s-01.-e-05?t=1005) | abanico de papel en la mano | **mandar** |
+
+Y el key visual con el **bate al hombro** (hoja 3 n.º 6 y la figura n.º 25).
+
+### 15.6 Qué pose para qué
+
+| Para… | Momo | Okarun | Turbo Granny | Aira |
+|---|---|---|---|---|
+| presentar | 3 (aura) | 7 (guardia) | 1 (ojos) o 4 | 1 o 7 |
+| explicar | 8 (psicoquinesis) | 5 (nuca) | 5 (gato y talismán) | — |
+| celebrar | 6 (risa) | — ⚠️ | — ❌ | 2 o 3 |
+| regañar | 1 o 4 | — | 3 (yokai) | 5 |
+| pensar | — | 1 o 6 (lentes) | — | — |
+| animar | 2 (grito) | 3 (protector) | — | 6 (patada) |
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Colores con `estilo.py` sobre **arte oficial** (key visuals del sitio y
+modelo de color), quitando el fondo.
+
+### 16.1 La ropa icónica de cada uno ✅
+
+- **Momo · uniforme de Kami High** (el que todos reconocen): **suéter
+  rosa** de manga larga sobre camisa blanca, **lazo rojo** suelto, falda
+  plisada **azul marino**, **calcetas blancas holgadas**, mocasines
+  marrones. **Aretes redondos verdes** y **gargantilla negra** con
+  adorno verde, que conserva con cualquier ropa. Pelo caoba medio, que
+  enmarca **el lado derecho** de la cara; ojos carmesí. Estilo *kogal*
+  de gyaru (wiki).
+  - Key visual: rosa claro **#F5C6C1**, rosa sombra **#CC9694**, falda
+    **#795566**.
+  - Modelo de color: piel **#EDD5C7**, blanco cálido **#F9F2F1**, sombra
+    **#433547**. Línea **#6F544C** / **#645552**.
+  - Fuentes: [key visual](https://anime-dandadan.com/_assets/images/char/detail/momo_pc.png)
+    y [modelo de color](https://static.wikia.nocookie.net/dandadan/images/d/da/Momo_Ayase_full_appearance_%28color_scheme%29.png) ✅.
+- **Okarun · *gakuran* de Kami High**: chaqueta y pantalón **gris carbón
+  casi negro**, cuello alto, **botones dorados redondos**, zapatillas
+  blancas. **Lentes redondos** de montura fina. Pelo **negro en el
+  anime** (castaño en el manga), antes en tazón, **despeinado** desde el
+  Flatwoods Monster. Se le marcan los músculos con el entrenamiento.
+  - Key visual: **#363838**, **#1E2020**, piel **#CEB9AD**. Línea
+    **#5F5F5F** / **#5C544F**
+    ([key visual](https://anime-dandadan.com/_assets/images/char/detail/ken_pc.png)) ✅.
+  - **Transformado**: pelo blanco, ojos rojos, **máscara de dientes** en
+    la boca, marcas rojas en la cara, uñas negras, ropa rota (etiquetas
+    de Danbooru; figura TENITOL, hoja 3 n.º 23).
+- **Turbo Granny · dos cuerpos**:
+  - **El gato** (maneki-neko): porcelana blanca, orejas rojas por dentro,
+    **collar rojo y verde con cascabel dorado**, **medallón dorado con
+    千万両** («diez millones de *ryō*», amuleto de dinero). Medido en el
+    [concept art](https://static.wikia.nocookie.net/dandadan/images/a/aa/Turbo_Granny_Anime_Concept_Art_Doll.png):
+    crema **#F4F4F0**, negro **#0B0C0A**, rojo teja **#A2412E**, dorado
+    arena **#C2B076** ✅.
+  - **La yokai**: *haori* rojo con **damasco floral** rojo sobre rojo,
+    mangas a rayas, pantalón corto azul verdoso, pelo blanco largo y
+    desgreñado sobre media cara, piel rojiza arrugada, **ojos amarillos
+    que miran a los lados**, descalza con garras
+    ([key visual](https://anime-dandadan.com/_assets/images/char/detail/turbo-granny-changed_pc.png)) ✅.
+- **Aira · uniforme del arco Acrobatic Silky**: blazer azul marino casi
+  negro con **el escudo del colegio** en el pecho izquierdo, vivos
+  granate y crema, **lazo rojo grande**, falda corta, calcetas altas
+  blancas. Pelo **rosa claro corto** que enmarca **el lado izquierdo**
+  (al revés que Momo); ojos rosa oscuro.
+  - Key visual: blazer **#4A3F59**, piel **#EFD1C3**, malva **#B87C7F**
+    ([key visual](https://anime-dandadan.com/_assets/images/char/detail/aira_pc.png)) ✅.
+  - ⚠️ Los zapatos: la parte de imagen ve «mary jane grises»; la wiki
+    dice «sandalias». Mirar el key visual antes de dibujarlos.
+
+### 16.2 Otras ropas (vistas en las hojas) ✅
+
+- Momo: de camarera (hoja 1 n.º 2), de sirvienta (n.º 39), con ropa de
+  médium (n.º 10), con gafas (n.º 48). **En casa**, una **sudadera verde
+  grande** con un dibujo (ep. 5, 17:08).
+- Aira: chaqueta marrón con cuello alto blanco (hoja 2 n.º 63); ropa del
+  arco del kaiju (n.º 62).
+- Seiko: pelo blanco recogido con tela blanca, **lentes rojos**,
+  camiseta de tirantes (ep. 5); chaqueta bordada y bate (key visual).
+  ⚠️ Sin hex medido.
+- ⚠️ No hay imagen suelta del **escudo de Kami High**: sólo el texto de
+  la wiki.
+- Bolso escolar tipo Boston (Aira, hoja 3 n.º 16) ⚠️ una imagen.
+
+### 16.3 Cosplay como referencia de volumen ✅
+
+[Carbon Costume](https://carboncostume.com/momo-ayase-from-dandadan/)
+lista las piezas de Momo: peluca con flequillo cruzado, aretes
+«alienígenas», lazo rojo, gargantilla negra, camisa blanca, suéter
+rosa, falda plisada azul marino, calcetas blancas holgadas, zapatos
+marrones. Coincide con lo medido.
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+### 17.1 Sitios con su luz y su hora ✅
+
+| Sitio | Hora y luz | Dónde verlo |
+|---|---|---|
+| **Túnel** de Turbo Granny | noche, linterna dorada contra negro | ep. 1, 10:49-11:26 |
+| **OVNI** de los Serpo | luz cian saturada | ep. 1, 12:00-14:10 |
+| **Aula** de la infancia de Okarun | día; carteles de caligrafía **勇気** («valor») en la pared, pizarra, pupitre de madera | ep. 1, 15:50-15:57 |
+| **Pasillo de Kami High** | tarde, marrones apagados | ep. 5, 11:36-14:04 |
+| **Calle residencial al atardecer** | cielo rosa y lila, edificios bajos | ep. 5, 14:11-15:04 |
+| **Casa de Seiko** | tarde; tatami, mesa baja de madera, puertas correderas, tele | ep. 5, 15:12-17:23 |
+| **Fachada de Kami High** | día despejado | [wiki, 1920×1080](https://static.wikia.nocookie.net/dandadan/images/7/72/High_School_%28Anime%29.png) |
+| **Daija Town** | día, montañas verdes, escalinata | [wiki, 1920×1080](https://static.wikia.nocookie.net/dandadan/images/f/fb/Daija_Town_%28Anime%29.png) |
+| **Torre eléctrica y luna** | noche | [Wallhaven, captura del anime, 1920×1080](https://w.wallhaven.cc/full/kx/wallhaven-kxo3rq.png) |
+
+### 17.2 Fondos de pantalla ✅ ([Wallhaven](https://wallhaven.cc/search?q=Dandadan), con tamaño y autor)
+
+| Tamaño | Qué es | Subido por / origen |
+|---|---|---|
+| **8192×4096** | Momo en un interior de noche, sofá y lámpara | SagXD / [Pixiv 133070020](https://www.pixiv.net/artworks/133070020) |
+| 4400×2200 | Momo | Elisban |
+| 4400×2200 | Okarun | Elisban |
+| 4078×3053 | Momo y Okarun de perfil | Ramces |
+| 3840×2160 | Okarun y Momo | leoscau |
+| 3840×2160 | pelo blanco y castaño (¿Okarun transformado?) ⚠️ | Elisban / [pinjirooo](https://x.com/pinjirooo/status/1860305772099604922) |
+| 2666×1500 | Momo con el gato de la suerte | Elisban / [Pixiv 123208924](https://www.pixiv.net/en/artworks/123208924) |
+| 2560×1440 | Momo gyaru | TheWitch |
+| 1966×3000 | Momo y Turbo Granny, de Mirco Cabbia | jrmnt / [sciamano240](https://x.com/sciamano240/status/1870129953464815847) |
+| 1920×1080 | Momo, primer plano violeta | MrPato |
+| 1920×1080 | Seiko con gafas (captura) | MrPato |
+| 1920×1080 | Okarun, naranja (captura) | MrPato |
+
+- Para el celular: los **key visuals** del sitio oficial (984×1570, fondo
+  transparente) con un fondo liso detrás.
+- ⚠️ **No hay fondos oficiales para descargar** (ni en
+  anime-dandadan.com ni en Crunchyroll: revisado el HTML).
+
+---
