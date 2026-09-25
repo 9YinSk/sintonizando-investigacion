@@ -70,6 +70,19 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
     (la cebolla es en un campo de verduras); hay dos copias con relojes distintos (las de Dailymotion
     van marcadas (DM)). No poner en la lámina fija la noticia de Obregón y *Shrek 5*.
 
+- **60 Toy Story** (COMPLETA, 1170 líneas, 197 referencias, 55 webs; ✅20 ⚠️17 ❌0): sin encuesta oficial
+  de popularidad; en listas de fans ganan Woody y Buzz, pero en el canon Jessie es la nueva sheriff
+  (protagonista de TS5) y los Marcianitos son el secundario más querido del fandom. Cuadro de diálogo:
+  no hay globos (3D), el texto va en objetos — el estallido amarillo de la caja de juguete, la suela
+  con «ANDY» a rotulador, la cartela blanca del tráiler y el cartel western de *Woody's Roundup*
+  (letras Baloo 2, Luckiest Guy, Orbitron, con tildes/ñ/¿/¡). Láminas: A #demos ⭐ «La caja de tu voz»
+  (Buzz), B #castings «La Garra de Pizza Planeta» (los Marcianitos y Woody), C #que-estas-viendo
+  «La tele de *Woody's Roundup*» (Jessie y Rex).
+  - Choque: #demos también lo piden Evangelion y Hellblade (sólo nota, no bloquea).
+  - Corregido con las hojas: el sombrero de Jessie es rojo, no amarillo; el azul de Rex era el de su caja.
+  - Por comprobar de oído: las frases latinas del incinerador (Dailymotion `x3mvnel`) y las de los
+    Marcianitos, que nadie transcribió. 19 de las 55 webs enlazan a la portada del medio, no al artículo.
+
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
@@ -78,3 +91,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 58 | redactor | Opus | 25 | 388 mil |
 | 59 | imagen | Sonnet | 17 | 261 mil |
 | 59 | video, voz, texto y redactor | Sonnet / Opus | — | sin medir (sesión .105; su aviso de fin se perdió) |
+| 60 | redactor (puntos 18-25 y cierre) | Opus | — | sin medir (aviso de fin no trajo tokens) |
