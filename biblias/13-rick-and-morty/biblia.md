@@ -279,7 +279,74 @@ del 1×06, no sirven para una lámina amable.
 
 ## 3A · Las hojas de contacto (qué número sirve)
 
-_(pendiente: se rellena en esta segunda pasada)_
+Tres hojas en `hojas/`, montadas con `herramientas/investigar_serie.py`
+sobre la wiki de Fandom (220 imágenes en 5 hojas; elegí 3 y **las miré
+con Read**). El número es el del recuadro amarillo. Cada imagen lleva
+debajo su tamaño real y su nombre de archivo en la wiki. Los originales
+están en `static.wikia.nocookie.net` (piden la cabecera
+`Referer: https://www.fandom.com/`).
+
+### `personajes_01.jpg` (números 1-48) · personajes y poses variadas
+
+| N.º | Qué es | Tamaño | Para qué |
+|---|---|---|---|
+| **1** | [Hoja de modelo oficial de Morty](https://static.wikia.nocookie.net/rickandmorty/images/9/9e/Morty_model_sheet.jpg) (Starburns Industries): giro completo y 7 poses, con Rick en línea a la izquierda | 9796×4482 | **Proporciones exactas** de Morty. Base para el 3D o para calcar la silueta |
+| **2** | [Póster promocional de «Pickle Rick»](https://static.wikia.nocookie.net/rickandmorty/images/f/fe/S3e3_Peter_Slavik_promo.jpg), de Peter Slavik | 1920×2898 | **Arte promocional vertical** con logo: ejemplo de portada con acción y láser |
+| **3** | [Rick con un aparato en la mano](https://static.wikia.nocookie.net/rickandmorty/images/6/6b/Pubescent_Rick.png), en el marco de una puerta | 2454×1620 | **Rick con su objeto**: pose para «explicar» o «presentar un invento» |
+| **4** | [Morty recortado, enfadado y sudando](https://static.wikia.nocookie.net/rickandmorty/images/c/ce/MortyTransparent.png) (fondo transparente) | 1259×1920 | **Morty para regañar** o quejarse. Ya viene recortado |
+| **7** | [Summer, Morty y Rick en la nave](https://static.wikia.nocookie.net/rickandmorty/images/5/5b/Love_Connection_Experience.png) | 1920×1090 | **Grupo de tres** mirando algo delante: pose para «mirad esta noticia» |
+| **8** | [Beth abraza a Morty](https://static.wikia.nocookie.net/rickandmorty/images/f/fe/S2e4_beth_comforts_morty.png) (2×04) | 1920×1090 | Escena tierna: láminas de ánimo |
+| **10** | [Sr. Meeseeks de cerca](https://static.wikia.nocookie.net/rickandmorty/images/2/21/Meeseeks_and_Destroy_6.png) (1×05) | 1920×1088 | **Meeseeks sonriente** para «¡pregúntame!» o para ayudar |
+| **11** | [Morty sonriendo en el garaje](https://static.wikia.nocookie.net/rickandmorty/images/f/f7/S1e1_smiling_morty.png) (1×01) | 1920×1088 | **Morty contento**: para dar la bienvenida |
+| **13** | [La familia en el salón de la terapeuta](https://static.wikia.nocookie.net/rickandmorty/images/9/9f/S3e3_Mooom.png) (3×03) | 1920×1080 | **Sofá verde y luz de interior**: referencia de salón |
+| **18** | [Pepinillo Rick cayendo a la alcantarilla](https://static.wikia.nocookie.net/rickandmorty/images/f/f7/S3e3_rick_falling_into_sewer.png) | 1920×1080 | Pepinillo en acción, con luz verde azulada |
+| **21** | [Rick y Morty juntos](https://static.wikia.nocookie.net/rickandmorty/images/e/e7/Vlcsnap-2015-01-31-04h33m02s175.png), fondo claro | 1920×1080 | **El dúo en plano medio**: Rick mira a Morty. Pose de charla |
+| **30** | [La familia en el coche](https://static.wikia.nocookie.net/rickandmorty/images/2/27/S3e3_truly_awful_parental_units.png) (3×03) | 1920×1080 | **Los cinco en un plano**: lámina de grupo |
+| **35** | [Pepinillo Rick con su pistola de pilas](https://static.wikia.nocookie.net/rickandmorty/images/b/b1/S3e3_battery_gun.png) | 1920×1080 | **Pepinillo con arma**, en acción (lo que pide el dueño: «con un arma») |
+| **46** | [La familia en el garaje](https://static.wikia.nocookie.net/rickandmorty/images/e/e4/S3e3_cant_u_turn_normal.png) (3×03) | 1920×1080 | **El garaje de día** con la mesa de trabajo: fondo para los conceptos |
+
+### `pickle-rick_01.jpg` (números 145-192) · Pepinillo Rick en acción y el dúo
+
+| N.º | Qué es | Tamaño | Para qué |
+|---|---|---|---|
+| **145** | [Pepinillo Rick «listo para irse»](https://static.wikia.nocookie.net/rickandmorty/images/2/23/S3e3_rick_is_ready_to_go.png) con su traje de rata | 1920×1080 | **Pose de celebrar**: brazo arriba, garra abierta |
+| **147** | [Pepinillo Rick satisfecho](https://static.wikia.nocookie.net/rickandmorty/images/8/8c/S3e3_rick_pleased.png) | 1920×1080 | Media sonrisa de listillo: **para presentar** |
+| **148** | [Pepinillo Rick en una pantalla](https://static.wikia.nocookie.net/rickandmorty/images/7/7c/S3e3_rick_watching_u.png) | 1920×1080 | **Personaje dentro de un monitor**: sirve tal cual para el concepto de la tele |
+| **149** | [Pepinillo Rick con su arma](https://static.wikia.nocookie.net/rickandmorty/images/1/15/S3e3_ricks_weapon.png) | 1920×1080 | Plano frontal, mira a cámara: **para regañar** |
+| **151** | [«Run run run»](https://static.wikia.nocookie.net/rickandmorty/images/c/cc/S3e3_run_run_run.png) | 1920×1080 | Carrera con rayos: acción pura |
+| **153** | [Grito en pantalla partida](https://static.wikia.nocookie.net/rickandmorty/images/7/71/S3e3_scream_split_screen.png) (Jaguar y Pepinillo) | 1920×1080 | **Grito**: la cara de «¡noticia urgente!» |
+| **156** | [Beth, Morty y Summer sentados](https://static.wikia.nocookie.net/rickandmorty/images/0/00/S3e3_sitting_smiths.png) | 1920×1080 | Tres personajes en sofá: **público que mira** |
+| **173** | [Pepinillo Rick visto entre dos agentes](https://static.wikia.nocookie.net/rickandmorty/images/1/1b/S3e3_what_the_hell_is_that.png) | 1920×1080 | Encuadre con **algo delante** (hombros en primer plano): cómo evitar lo plano |
+| **176** | [Morty en el garaje](https://static.wikia.nocookie.net/rickandmorty/images/3/30/S3e3_who_would_do_this.png), brazos abiertos | 1920×1080 | **Morty explicando** o sorprendido, con la mesa de Rick detrás |
+| **182** | [Rick y Summer en el garaje](https://static.wikia.nocookie.net/rickandmorty/images/5/5b/Vlcsnap-2015-01-31-02h39m43s236.png) | 1920×1080 | El garaje abierto a la calle, de día |
+| **185** | [Rick y Morty cavando en el jardín](https://static.wikia.nocookie.net/rickandmorty/images/b/b3/Vlcsnap-2015-01-31-03h28m32s141.png) | 1920×1080 | Exterior de la casa con **luz de día y verde** |
+| **186** | [Rick y Morty en el sofá del salón](https://static.wikia.nocookie.net/rickandmorty/images/f/fa/Vlcsnap-2015-01-31-03h49m20s197.png) | 1920×1080 | **El sofá azul visto desde la tele**: el punto de vista del concepto A ⚠️ (capítulo sin identificar) |
+| **188** | [Morty y Rick de cerca](https://static.wikia.nocookie.net/rickandmorty/images/d/d0/Vlcsnap-2015-01-31-02h41m31s87.png) | 1910×1080 | Plano de dos caras: **conversación** |
+| **191** | [Sr. Meeseeks recortado](https://static.wikia.nocookie.net/rickandmorty/images/f/f2/MrMeeseeks-render.png), mano levantada | 765×1462 | **Meeseeks de cuerpo entero para presentar**. Ya viene recortado |
+
+### `arte-produccion_01.jpg` (números 193-220) · arte de producción del 3×03
+
+| N.º | Qué es | Tamaño | Para qué |
+|---|---|---|---|
+| **196-203, 213-214** | Storyboards de fondos de **Tommy Scott** ([ejemplo, 198](https://static.wikia.nocookie.net/rickandmorty/images/e/ec/S3e3_Tommy_Scott_bgs3.jpg)): rascacielos, pasillos, despacho | 1280×720 | **Cómo se dibuja un fondo** antes de pintarlo: perspectiva y línea |
+| **194, 195, 205, 207, 211** | Pinturas de **Corey Booth** ([207, Pepinillo en su trono](https://static.wikia.nocookie.net/rickandmorty/images/2/22/S3e3_Corey_Booth_paints.jpg)) | 1280×683 a 750 | **Color y luz finales** sobre el boceto |
+| **204** | [Rick oficial, busto](https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png) | 848×1080 | **Rick serio**, de frente: para regañar o para avisos |
+| **208** | [Rick joven, busto](https://static.wikia.nocookie.net/rickandmorty/images/3/3f/Young_Adult_Rick.png) | 850×1000 | Variante (sin babas ni ojeras) |
+| **209, 215-217** | Conceptos de **Justin Noel** ([209](https://static.wikia.nocookie.net/rickandmorty/images/e/ef/S3e3_Justin_Noel_concepts.jpg)): ratas y monstruos en línea limpia | 1200×656 | **Tipo de línea sin color**: guía del contorno |
+| **210** | [Rick de cuerpo entero con el aparato del vial verde](https://static.wikia.nocookie.net/rickandmorty/images/6/68/FullBodyRick.png) | 696×1082 | **La pose oficial de Rick con objeto**. De aquí se midió el pantalón `#8E774D` |
+| **218** | [Pelota antiestrés del Sr. Meeseeks](https://static.wikia.nocookie.net/rickandmorty/images/a/ad/14120_mrmeeseeksstressball_1525053727.jpg) (producto) | 631×1024 | Objeto real de merchandising |
+| **219-220** | Fondos de **Brianne Neumann** ([219](https://static.wikia.nocookie.net/rickandmorty/images/a/ac/S3e3_Brianne_Neumann_bg6.jpg)) | 1280×452 / 1000×564 | Fondos azul grisáceo sin personajes |
+
+**Las mejores para cada concepto de §19**: A (la tele del salón) → 186
+(el sofá visto desde la tele), 210 y 3 (Rick con su aparato), 148
+(personaje dentro de una pantalla) y 156 (público sentado). B (Pepinillo
+Rick en el garaje) → 46 y 176 (el garaje y su mesa), 145, 147, 149 y 35
+(el Pepinillo vivo, no quieto). C (la caja Meeseeks en la cocina) → 191
+(Meeseeks recortado), 10 (su sonrisa) y 190 (la mesa de la cocina de los
+Smith, con Jerry y Morty). Para calcar proporciones: 1 (Morty) y 210
+(Rick). Las hojas 2 y 3 que no
+subí (números 49-144) quedan en `herramientas/referencias/rick-and-morty/`,
+con su lista en `indice.json`.
 
 ---
 
