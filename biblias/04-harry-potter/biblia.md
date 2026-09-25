@@ -1691,6 +1691,54 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
 
 ---
 
+> [!note] Puntos 18-25 del encargo (repaso corto, 25-sep-2026)
+> Salen de las partes de tres investigadores: imagen (19, 23), voz (20, 21,
+> 22) y texto (18, 24, 25), en `partes/`. Van aquí, entre la guía para IA y
+> los conceptos, como en el encargo. La guía para una IA de texto (punto 17)
+> está en §18.1.
+> - Punto 18 · Estilo y técnica, y cómo replicarlo
+> - Punto 19 · Texturas 2D
+> - Punto 20 · Gustos y detalles de cada personaje
+> - Punto 21 · Por qué la gente la ama
+> - Punto 22 · Fan dubs y comunidad hispana
+> - Punto 23 · Colaboraciones y cruces
+> - Punto 24 · Obras parecidas y láminas vecinas
+> - Punto 25 · El mundo, la historia y sus símbolos
+
+## Punto 18 · Estilo y técnica, y cómo replicarlo
+
+_(pendiente)_
+
+## Punto 19 · Texturas 2D
+
+_(pendiente)_
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+_(pendiente)_
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+_(pendiente)_
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+_(pendiente)_
+
+## Punto 23 · Colaboraciones y cruces
+
+_(pendiente)_
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+_(pendiente)_
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+_(pendiente)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #anuncios
 
 ### Concepto A — «El correo de la mañana» (el que pedía el plan, mejorado)
