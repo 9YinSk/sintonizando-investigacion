@@ -487,3 +487,200 @@ con `herramientas/fotogramas.py`, `video.mp4` borrado tras sacar las hojas.
   la quiera. Transmite lo mismo que Lotso pero con final opuesto: al final de la 4ª película
   encuentra una niña que la adopta pese a su caja de voz rota — la sola posibilidad de un final
   feliz distinto al de Lotso.
+
+
+## Punto 20 — Gustos y detalles de cada personaje
+
+De `pixar.fandom.com` (EN, secciones de personalidad/trivia de cada ficha). ⚠️ A diferencia de
+personajes humanos de otras franquicias, los juguetes de Toy Story **no tienen cumpleaños ni
+altura de ficha oficial** — son objetos manufacturados, no personas con biografía de ese tipo; no
+se encontró un *databook* oficial en español que liste esos datos, y no se inventó ninguno. En su
+lugar, sus «gustos» documentados son de personalidad, manías y el objeto que los define.
+
+- **Woody**: le gusta ser el favorito/ser querido por un niño, liderar, resolver problemas para
+  el grupo. No le gusta que lo reemplacen ni sentirse innecesario. Se ve a sí mismo, en las 3
+  primeras películas, como «el juguete de Andy» ante todo; desde la 4ª aprende a verse como
+  alguien con propósito propio, más allá de tener un dueño fijo — el cambio central de su arco.
+  Objeto que siempre lleva: su placa de sheriff y el cordón de voz en la espalda.
+- **Buzz Lightyear**: le gusta la exploración, la acción, sentirse útil («al infinito y más
+  allá» como filosofía, no solo frase). No le gusta la inacción ni, en el fondo, la indecisión —
+  su arco en la 5ª gira en torno a vencer justo eso para declararse a Jessie. Se ve a sí mismo,
+  tras superar su crisis de identidad de la 1ª película, como un juguete que ayuda a otro juguete
+  (a Woody) a sentirse querido — frase suya citada en su propia ficha (punto 7, relación con
+  Woody). Objeto icónico: sus alas y su casco.
+- **Jessie**: le encanta el yodel, la vida de vaquera, moverse y estar activa (contraste directo
+  con su terror a estar guardada/quieta). No le gusta la soledad ni el encierro — claustrofobia
+  de ficha. Se veía a sí misma, tras el abandono de Emily, como alguien fácil de dejar atrás; hoy,
+  como sheriff, se ve como quien no deja atrás a nadie del grupo. Objeto icónico: su sombrero y
+  su trenza.
+- **Rex**: le encantan los videojuegos (en particular el de Buzz Lightyear: Guardián Espacial).
+  No le gusta la confrontación de ningún tipo ni la idea de «otro dinosaurio» ocupando su lugar.
+  Se ve a sí mismo como el T-Rex menos feroz posible — su propia ironía central, que él vive con
+  ansiedad, no con orgullo. No tiene un objeto separado de sí mismo: su cuerpo/cola es su propia
+  «manía» (choca cosas sin querer al moverse, gag visual recurrente).
+- **Sr. Cara de Papa**: le gusta hacer de villano en broma y molestar con cariño; no le gusta que
+  le quiten piezas (chiste físico recurrente: pierde partes del cuerpo todo el tiempo). Se ve a
+  sí mismo como el «gruñón con corazón» del grupo.
+- **Jam (Hamm)**: le gusta la televisión y estar al tanto de todo lo que pasa fuera de la
+  ventana; su «comida» es literal, monedas (es una alcancía). Se ve a sí mismo como el más listo
+  del grupo con la tecnología.
+- **Bo Peep**: tras su reinvención (4ª película), le gusta la aventura y la vida fuera del
+  sistema de «un solo niño dueño»; no le gusta la pasividad que tenía en las 2 primeras
+  películas. Objeto icónico: su cayado, ahora usado como arma/herramienta, no solo de adorno.
+- **Sid Phillips**: de niño le gustaba el heavy metal y experimentar (destructivamente) con
+  juguetes; de adulto, mantiene el gusto por el metal pero canalizado en su trabajo, sin dañar
+  nada — su placer cambia de «romper» a «llevarse la basura», dato irónico y tierno a la vez.
+- **Forky**: no le gusta «ser un juguete» al principio — se ve literalmente a sí mismo como
+  basura, hasta el final de la 4ª. Objeto/manía: su propia existencia es su obsesión (intenta
+  tirarse a la basura una y otra vez).
+- **Gabby Gabby**: le gusta la compañía y las conversaciones (habla con cualquiera que entre a la
+  tienda de antigüedades). No le gusta su propia caja de voz rota ni la soledad de décadas sin un
+  niño. Se ve a sí misma como defectuosa hasta que encuentra una niña que la quiere igual.
+
+
+## Punto 21 — Por qué la gente la ama
+
+**Cifras y reconocimiento** ✅ prensa cruzada (búsqueda web, ver Bitácora)
+- Toy Story (1995) fue el **primer largometraje totalmente animado por computadora** de la
+  historia del cine — hito técnico, no solo comercial (dato de cultura general confirmado en
+  múltiples notas de aniversario, ej. diariodecuyo.com.ar, «Toy Story sopla las 30 velitas»).
+- **Toy Story 5 (2026, muy reciente)**: mejor estreno de 2026 en Norteamérica (160 millones de
+  USD el fin de semana de estreno, superando el debut de la 4ª, que fue de 120 millones), más de
+  **1.100 millones de USD en taquilla global** a la fecha de esta investigación. Crítica: 92% en
+  Rotten Tomatoes; audiencia: 95% — con el regreso de las voces originales en inglés (Tom Hanks,
+  Tim Allen, Joan Cusack) señalado como uno de los grandes atractivos. Algunas críticas cuestionan
+  que la historia «no sea tan llamativa como para justificar una secuela más» — reseña dividida
+  pero éxito comercial rotundo. Fuentes: El Tiempo Monclova, Infobae (×2 notas), Espinof.
+- Toy Story 3 (2010) y Toy Story 4 (2019) ganaron el Óscar a Mejor Película Animada cada una —
+  la franquicia entera tiene una reputación de calidad sostenida poco común en secuelas de
+  animación (dato de cultura general, confirmable en cualquier lista de premios Óscar).
+
+**Por qué la ama la crítica y la prensa — temas que trascienden «película de niños»** ✅
+- Bo Peep como reinvención feminista (4ª película, 2019) generó debate real en prensa: para unos,
+  es «el gran acierto» de la cinta al crear un referente femenino fuerte, «moderna, independiente,
+  capaz y segura de sí misma»; otros cuestionaron que siga enamorándose («eso no es feminismo»).
+  El debate en sí (El Español, Tomatazos, Slate, Milenio) demuestra que el personaje se tomó en
+  serio como para discutirlo, no solo consumirlo.
+- Forky y su «crisis existencial»: analizado por muchísimos medios (BioBioChile, KQED, Syfy,
+  Medium/Wisecrack, La Máquina Medio) como una forma sorprendentemente profunda de hablar del
+  sentido de la propia existencia dentro de una película familiar — comparado por un crítico con
+  «una mini-criatura de Frankenstein con tendencias suicidas» que Pixar convierte en algo tierno.
+
+**Escenas que hacen llorar (y las que hacen gritar de emoción)** — con capítulo, minuto y por qué
+- **La escena del incinerador (Toy Story 3)**: acorralados por el fuego del basurero, los
+  juguetes se dan la mano en silencio y aceptan el final juntos, sin gritar — Buzz toma la mano
+  de Jessie, ella la de Bullseye, así hasta que Woody cierra el círculo — justo antes de que los
+  Marcianitos los rescaten con la garra al último segundo. Fuente de la secuencia:
+  popmatters.com («Toy Story 3 and the Best Scene of the Summer»). ✅ Con fotograma propio del
+  momento de tensión (min. 1:40-2:00 del Clip 1, ver punto 13) verificado con `fotogramas.py`
+  sobre la emisión doblada de Disney XD. Es, según cruce de varias fuentes de crítica, **la
+  escena más citada de toda la franquicia** en listas de «mejores momentos de animación».
+- **«Cuando ella me amaba» / «When She Loved Me» (Toy Story 2)**: flashback musical de Jessie
+  recordando cómo Emily, su niña, creció y la abandonó en una caja de beneficencia. Reddit
+  (r/toystory) tiene hilos dedicados solo a esta canción («When She Loved Me @BrenniMurasaki»,
+  117 votos) y a comparar qué personaje tiene «la mejor relación niño-juguete» citando
+  explícitamente a Jessie y Emily (38 votos) — sigue generando contenido nuevo décadas después.
+- **El final de Toy Story 3**: Andy, ya adulto, regala sus juguetes a Bonnie y juega con ellos
+  una última vez antes de irse a la universidad — comentado en Reddit como «gut wrenching»
+  («The scene of Woody being given away is still gut wrenching»).
+- **Novedad de Toy Story 5 (2026), muy reciente**: una escena en la que Bonnie sufre acoso
+  cibernético («cyberbullying») está generando el mismo tipo de reacción de llanto que las
+  escenas clásicas — hilo de Reddit «Did you cry or almost cry when Bonnie was getting
+  cyberbullied?» (33 votos, 14 comentarios) y «When did Toy Story become about making 'adults
+  cry?'» (34 votos, 26 comentarios) — muestra que la franquicia sigue actualizando sus temas
+  dolorosos a la vida real de hoy (acoso digital), no solo repitiendo la fórmula del abandono.
+- ⚠️ No se pudo verificar el minuto exacto (dentro del metraje oficial completo, no de un clip
+  recortado) de la escena del incinerador ni de «Cuando ella me amaba»: no se descargó ninguna
+  película completa en esta pasada (tiempo/cupo), solo clips ya recortados de Dailymotion. El
+  minuto dado arriba es el del propio clip citado, no el de la película entera.
+
+**Con qué personaje se identifica el público y por qué**
+- Con **Woody y Jessie** por el miedo a volverse obsoleto/reemplazado — tema que golpea sobre
+  todo a espectadores adultos que vieron la 1ª película de niños y ahora identifican ese miedo
+  con perder relevancia al crecer (lectura recurrente en la prensa de aniversario).
+- Con **Forky** por la ansiedad de «no saber para qué sirvo» — identificación explícitamente
+  señalada por varios de los análisis citados arriba, más allá del público infantil original.
+- Con **Bo Peep** por su reinvención — identificación específica de lectoras que valoran verla
+  «crecer» de personaje decorativo a protagonista con agencia propia.
+
+
+## Punto 22 — Fan dubs y comunidad hispana
+
+**Fan dubs en español (YouTube, no verificable con vistas por el bloqueo de YouTube en este
+servidor — ver aviso de `AYUDANTE.md`)** ⚠️ encontrado solo por búsqueda web, no bajado con
+`yt-dlp` por el bloqueo:
+- «Toy Story (*Fandub Español*) (1995) Yo Soy Tu Amigo Fiel» — fandub amateur del tema principal,
+  localizado en la búsqueda («fandub Toy Story español latino cover Yo soy tu amigo fiel»); no se
+  pudo verificar canal exacto, fecha ni vistas por el bloqueo de YouTube. ⚠️
+- Título recurrente de TikTok: «Video De Toy Story Yo Soy Tu Amigo Fiel» y «Yo soy tu amigo fiel
+  Toy Story» (varias cuentas), usado como plantilla de nostalgia/lipsync — un usuario lo describe
+  literalmente como «la canción favorita de mi amigo que más de 20 veces fue infiel», mostrando
+  cómo el fandom hispano resignifica la letra original con humor.
+- «Andy Tira A Woody Ya No Te Quiero Más Español» — tendencia de TikTok de edición triste sobre
+  la escena de la despedida de Andy (ver también punto 12).
+
+**Clips oficiales doblados en Dailymotion (de `datos-voz.md`, ya verificados y usados en este
+punto)** ✅
+- «Toy Story de Terror - Muestra de Doblaje» (3:11, thebardock23) — clip específicamente
+  etiquetado como muestra de doblaje, de interés directo para este servidor.
+- «TOY STORY 3 "ESCENA DEL INCINERADOR" LATINO» (3:18, KARAPULKRA20) — usado también en punto 13
+  para fotogramas propios; es la escena más compartida de la franquicia en español latino según
+  el propio volumen de resultados de búsqueda (varios canales distintos la subieron).
+- Tráileres oficiales doblados de las 5 películas, varios canales (FilmAffinity, Tomatazos,
+  HobbyConsolas, El Séptimo Arte, Qore) — confirman que hay cobertura hispana activa de cada
+  estreno, incluido el más reciente (Toy Story 5, 2026).
+
+**El caso de doblaje como fenómeno de comunidad (el más relevante de todo este punto para un
+servidor de doblaje)** ✅✅ ya documentado con fuentes en el punto 8, Caso 1:
+- La campaña de fans por mantener a Carlos Segundo como Woody en Toy Story 3 (petición con más de
+  5000 firmas, difusión por el programa *Toonlandya*) es, en sí misma, un ejemplo real de
+  comunidad hispana organizándose específicamente **por el doblaje**, no por la película en
+  general — el tipo exacto de historia que puede resonar en un servidor de doblaje y locución.
+- La despedida pública de Carlos Segundo a Carlos del Campo en 2026 (Caso 3, punto 8) muestra que
+  esa comunidad de actores y fans del doblaje latino de Toy Story sigue activa y visible hoy.
+
+**Parodias y memes hispanos** — cubiertos ya en el punto 12 («Al infinito y más allá» como
+expresión de uso diario, «Andy Tira A Woody» como formato de TikTok, «¿Ya llegamos?» de Rex).
+
+
+## Lo mejor para la lámina
+
+- **Jessie como nueva sheriff** (canon desde 2019, protagonista en 2026): personaje secundario
+  que hoy es el centro real de la franquicia — encaja exactamente con el aviso del dueño de que
+  «quizá un personaje secundario es más querido que el principal», aquí con respaldo del propio
+  canon, no solo de encuestas de fans.
+- **El caso Carlos Segundo/Arturo Mercado Jr. en Woody** (punto 8): una historia real de doblaje
+  con polémica, campaña de firmas y hasta secreto contractual — cuadro de diálogo o texto de
+  canal que cite este caso conecta directo con la identidad de doblaje del servidor.
+- **La escena del incinerador** (mano con mano, sin gritos): la imagen más fuerte y con más peso
+  emocional de toda la franquicia, con fotograma propio ya verificado (punto 13).
+- **«Al infinito y más allá»**: frase que ya vive fuera de la película en el habla cotidiana en
+  español — cuadro de diálogo con garantía de reconocimiento instantáneo.
+- **Actualidad viva de 2026**: Toy Story 5 recién estrenada (taquilla récord), la muerte reciente
+  de Carlos del Campo (Slinky) y los cameos de Bad Bunny/Bizarrap/Penélope Cruz dan a esta serie
+  un ángulo de «ahora mismo» que pocas biblias de este proyecto tienen.
+
+
+## No encontré
+
+- ⚠️ Encuesta **oficial** de Disney/Pixar tipo «vota tu personaje favorito» para Toy Story
+  (búsquedas en español e inglés, ver Bitácora) — se usó como sustituto el cruce de 3 rankings de
+  fans más el patrón de «Underrated character of the week» de Reddit (punto 7).
+- ⚠️ *Databook* oficial en español con altura/cumpleaños de los personajes (punto 20): no existe
+  para juguetes de esta franquicia de la misma forma que para personajes humanos de otras series
+  — se documentó por qué en el propio punto 20, no se inventó el dato.
+- ⚠️ Minuto exacto (sobre el metraje oficial completo, no un clip recortado) de la escena del
+  incinerador y de «Cuando ella me amaba» (punto 21): no se descargó ninguna película completa en
+  esta pasada por tiempo/cupo, solo clips ya recortados de Dailymotion — el minuto dado es el del
+  clip, no el de la película.
+- ⚠️ Fotogramas propios de emociones específicas (alegría, rabia, tristeza, vergüenza) para
+  Woody, Buzz y Rex, y de Rex en cualquier emoción: solo se pudieron sacar 2 clips cortos
+  (incinerador + tráiler de TS5), no las películas completas — quedó cubierto el miedo para
+  Buzz/Jessie y acción/liderazgo para Jessie, documentado con ⚠️ en cada caso concreto del punto
+  13 en vez de forzar un fotograma dudoso.
+- ⚠️ Vistas y canal exacto de fandubs de YouTube (punto 22): YouTube pide iniciar sesión desde
+  este servidor (aviso ya conocido del encargo); se documentaron los títulos encontrados por
+  búsqueda web sin poder verificar el canal con `yt-dlp`.
+- ⚠️ Estudio de doblaje y director exactos de Toy Story 2, 4 y 5 (tabla del punto 8): la ficha de
+  Doblaje Wiki de esas 3 páginas no trae esos campos en el infobox como sí trae TS1 y TS3 — se
+  dejó la celda vacía en vez de adivinar.

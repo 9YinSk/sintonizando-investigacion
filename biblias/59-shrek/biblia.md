@@ -790,3 +790,153 @@ Shrek es 3D, no manga: no hay tramas. Aquí «textura 2D» son **las superficies
 
 **Las tres capas, juntas:** 3D (modelos del punto 3) + texturas reales CC0 (punto 4) + estas superficies pintadas. No falta ninguna.
 
+## Punto 20 · Gustos y detalles
+
+No hay *databook* oficial de Shrek en las partes (se buscó) ⚠️. Todo sale de las fichas de [Fandom en inglés](https://shrek.fandom.com/wiki/Shrek_(character)) (infobox y cuerpo) y del guion.
+
+| | Shrek | Burro | Fiona | Gato con Botas |
+|---|---|---|---|---|
+| **Cumpleaños** | 5 de abril ⚠️ | 6 de marzo ⚠️ | no encontrado | no encontrado |
+| **Altura / edad** | 213 cm (7'0"); 30 años en la 1, 40 en la 2 ⚠️ | no encontrada | no encontrada | no encontrada |
+| **Le gusta** | Baños de lodo, la soledad, comer cosas asquerosas (gusanos, ojos de rana) | Cantar, charlar, hacer amigos a toda costa | **Las piñas coladas y que la sorprenda la lluvia** (lo dice el Espejo Mágico al presentarla). Eructar sin pena, pelear cuerpo a cuerpo | La aventura, contar historias, cantar, bailar, la guitarra; en 2022, comer sin parar tras dejar de ser héroe |
+| **No le gusta** | Que lo juzguen por su aspecto; que invadan su pantano | El silencio, las alturas, estar solo | Que la traten como princesa indefensa o como trofeo | Que le recuerden que le queda 1 vida de 9; sentirse «ordinario» |
+| **Su objeto** | Su pantano y su cabaña | Ninguno: sus muletillas | Su corona o tiara; la ropa de viaje | Sombrero, botas y espada (los pierde y los recupera en 2011) |
+| **Cómo se ve** | Al principio, «un monstruo que asusta porque así debe ser»; al final, padre y esposo | «El mejor amigo» de quien se cruce, aunque no le correspondan | Al final, una ogra de verdad, por elección | Al principio, una leyenda viva; al final, «sólo el Gato con Botas», y le basta |
+| **Familia** | Fiona; trillizos Fergus, Farkle y Felicia | La Dragona; 6 Dronkeys: Eclair, Peanut, Bananas, Parfait, Coco y Debbie (nombres de postre) | Shrek; sus padres Harold y Lillian | Kitty; Humpty Dumpty (hermano jurado que lo traiciona); los Tres Diablos (adoptados al final de 2022) |
+
+**Secundarios**
+- **Lord Farquaad:** le gusta el orden, la perfección de Duloc y las estatuas de sí mismo. Odia su estatura (sin admitirlo) y a las criaturas de cuento. Se cree «el único capaz de gobernar bien».
+- **Jengi:** hecho por el Hombre de las Galletas («papá»), hermano de Mongo (la galleta gigante). Quiere ser vaquero. Odia que lo mojen en leche.
+- **Dragona:** su castillo y, desde que lo conoce, Burro. Se ve como guardiana; luego como esposa y madre.
+
+**Falta** ⚠️: altura y cumpleaños de Fiona, el Gato y Farquaad (búsqueda «Fiona Shrek altura cumpleaños oficial ficha», sin resultado). La comida favorita de cada uno, salvo las piñas coladas de Fiona.
+
+## Punto 21 · Por qué la aman
+
+**Cifras y premios** ✅ (varias fuentes de prensa)
+- ***Shrek* (2001):** unos 494 millones de dólares, 4.ª más taquillera de 2001. **Primer Óscar a Mejor Película de Animación de la historia** (la categoría nació ese año). Primera animada de estudio en la Selección Oficial de Cannes (palomaynacho.com, socialfuturo.com, excelsior.com.mx).
+- ***Shrek 2* (2004):** **la película más taquillera del mundo en 2004** (unos 919-920 millones), el mayor estreno de una animada hasta entonces y la más taquillera de DreamWorks hasta que la superó *Toy Story 3* (infobae.com, cronista.com, lanueva.com).
+- ***El último deseo* (2022):** **la mejor valorada de la franquicia** en [Rotten Tomatoes](https://www.rottentomatoes.com/m/puss_in_boots_the_last_wish), 97-98% según la fecha ⚠️. Unos 484 millones con 90-110 de presupuesto. Reseñas la llaman «el *Logan* de la saga Shrek» (screenrant.com, comicbook.com).
+
+**Por qué la ama la crítica: Fiona** ✅ (sipse.com, plenitudmental.com, univa.mx)
+- Un icono feminista temprano de la animación de masas: sabe pelear, no espera que la rescaten y **elige quedarse ogra** en vez de «curarse». Da la vuelta al final de cuento.
+- Su maldición se lee como metáfora de **las máscaras** y de los cánones de belleza.
+
+**Con quién se identifica el público**
+- En las clásicas, con **Shrek**, de forma general: «no juzgues por las apariencias».
+- En *El último deseo*, con **el Gato**, en primera persona: «me pasó igual», «así se siente de verdad».
+
+### Las escenas que hacen llorar
+
+**1. El ataque de pánico del Gato** (*El último deseo*, 2022) ✅✅ la razón más citada hoy
+- **Minuto:** según fans de Reddit, la aparición de la Muerte hacia **55:17** y la huida por el bosque de **56:11 a 58:37**; otro fan pone el ataque en **~1:02:32** ([hilo](https://www.reddit.com/r/pussinboots/comments/1es8i42/)) ⚠️ sin fotograma propio; los cortes pueden variar.
+- **Qué pasa:** huyendo de un lobo encapuchado (la Muerte), el Gato entiende que sólo le queda una vida. Tiembla, hiperventila, se desconecta. **Perrito lo calma con presión profunda**, apoyando la cabeza en él.
+- **Por qué duele:** el héroe que «se ríe en la cara de la muerte» tiene miedo de verdad, y la película no lo convierte en chiste.
+- **Cómo está hecha:** el animador **Prashanth Cavale se grabó a sí mismo** para añadir temblores y tics reales. El cuerpo del Gato cambia por completo: se encoge.
+- **Música:** no está en las partes ⚠️.
+- **Reacción:** 9 artículos independientes la elogian como una de las representaciones de un ataque de pánico más precisas del cine familiar ([MovieWeb](https://movieweb.com/puss-in-boots-panic-attack-scene-realistic/), thedigitalfix, ucsdguardian, animatornotebook, sixmilepost, mcccagora, sceneandheardnu). En r/pussinboots: [«What would kitty do if she found puss having his panic attack?»](https://www.reddit.com/r/pussinboots/comments/16t829t/what_would_kitty_do_if_she_found_puss_having_his/) (415 votos, 55 comentarios), «Thoughts on the panic attack scene» (41) y [«27M in the veterinary field and cried uncontrollably»](https://www.reddit.com/r/pussinboots/comments/11ofkpx/27m_in_the_veterinary_field_and_cried/) (17), de alguien del área de la salud que valida el realismo.
+
+**2. «Hallelujah»** (*Shrek*, 2001) ✅
+- **Qué pasa:** Shrek, dolido, deja a Burro y vuelve solo al pantano; Fiona, igual de triste, se prepara para casarse con Farquaad.
+- **Música:** «Hallelujah» en la versión de **John Cale** (punto 9).
+- **Minuto:** no está en las partes ⚠️. Es antes de la boda (1:16:56).
+
+**3. La frase de Perrito** (*El último deseo*): «una vida… sea suficiente». Los mismos hilos de Reddit lo señalan como el que hace llorar de ternura ⚠️ (texto de su ficha).
+
+**4. La transformación en la boda** (*Shrek*) ✅
+- **1:19:50:** Shrek extiende las manos hacia la luz dorada del hechizo. **1:20:57:** beso ya ogros, luz azul de vitral detrás.
+- **Por qué emociona:** Fiona se queda ogra, y es un final feliz.
+- **Reacción:** «Will there ever be a more iconic ending to a movie than this one?» (117 votos, r/Shrek).
+
+### Las que hacen reír
+- El **pajarito que estalla** cuando Fiona canta (49:56).
+- **La cebolla** (Shrek y Burro).
+- **Jengi y «Pin Pon»** en la sala de tortura (17:56).
+- **Burro y la Dragona** (37:57).
+- **«I'm a Believer»** para terminar «con una carcajada», como pidió Katzenberg.
+
+**Lo que falta** ⚠️: un testimonio con nombre y cargo de por qué la gente ama *Shrek* (2001) en concreto; el minuto propio de las escenas de *El último deseo*.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+**Aviso de método.** YouTube pidió iniciar sesión («Sign in to confirm you're not a bot») y dio 429; TikTok no abre desde el servidor. Se usó Dailymotion por su API y el buscador. **Casi no hay vistas comprobadas** ⚠️.
+
+- **«Bienvenidos A Duloc - Shrek El Musical»**, canal **Teatro Catalina** (Chinandega, Nicaragua), 4:26, **12 311 vistas**, subido el 28-sep-2021: el número musical más citado, en español y en vivo ✅ (metadatos con `yt-dlp --print`) · [youtube.com/watch?v=tVSNUNHA4q8](https://www.youtube.com/watch?v=tVSNUNHA4q8). El fandom hispano no sólo dobla: monta el musical en teatros locales.
+- **Covers en español:** «All Star - Shrek (Cover en Español Latino)» y «Shrek 1- Bienvenidos a Duloc» aparecen en el buscador con esos títulos exactos; **sin canal ni vistas comprobadas** ⚠️.
+- **El musical en México:** Mario Filio, el Espejo Mágico del doblaje, fue **Shrek en el musical de 2014** (Doblaje Wiki) ⚠️.
+- **Especial de Halloween en latino:** «"Shrek" Special De Halloween "Español Latino" (THRILLER) HD», 5:06, 1167 vistas ([Dailymotion](https://www.dailymotion.com/video/x2xbz48)) ⚠️ no mirado.
+- **Memes hispanos del doblaje** (punto 12): «Pregúntame, pregúntame», «Agarro el mínimo de confianza y soy el burro de Shrek», «Porque 'toy solito». Son el «Shrek is love» en español, hechos con las muletillas de Derbez.
+- **La conversación de doblaje de ahora:** la salida de Alfonso Obregón de *Shrek 5* generó reacciones masivas de aficionados al doblaje mexicano en Instagram y redes (Infobae, Milenio, El Gráfico, jun-2026). Justo el tipo de charla de un servidor de doblaje.
+- **Tráileres doblados** en Dailymotion (latino y España) y notas de Reporte Indigo y Milenio sobre Obregón y Derbez (punto 8): material de referencia, no fandub.
+
+**Para practicar en el servidor** (idea del redactor): la escena de la cebolla es corta, para dos voces y con la muestra oficial como guía de ritmo (Shrek a 1,71 palabras/s, Burro a 3,0). Encaja con el concepto A.
+
+**Falta** ⚠️: vistas y canal de los covers; fandubs de TikTok con enlace; covers en español de «All Star» o de «Accidentally in Love» con datos.
+
+## Punto 23 · Colaboraciones y cruces
+
+**Oficiales, con fecha** ✅
+
+| Colaboración | Cuándo | Qué trae de nuevo | Fuente |
+|---|---|---|---|
+| **Crocs × Shrek** («Shrocs») | Sep-2023; repuesto en feb-2025 | Zueco verde lima con nariz y orejas de Shrek, correa trasera «peluda» marrón (el chaleco), Jibbitz de Shrek, Fiona, Burro, el Gato y la Dragona | [CNN](https://www.cnn.com/2023/09/17/style/shrek-crocs-collaboration-cec/index.html) + [Hollywood Reporter](https://www.hollywoodreporter.com/lifestyle/shopping/shrek-crocs-classic-clogs-release-date-pricing-1235588846/) |
+| **McFarlane Toys, «Movie Maniacs» de 12"** | 2024 (el trato con DreamWorks es de 2001) | Shrek y la Dragona en pose de escultor: **referencia 3D real** | [Collider](https://collider.com/shrek-dragon-figures-mcfarlane-toys/) ⚠️ una fuente |
+| **DreamWorks Land** (Universal Orlando) | 14-jun-2024 | Zona con el pantano de Shrek, «Shrekzels», encuentro con Shrek, Fiona y Burro, «King Harold's Swamp Symphony» | [blooloop](https://blooloop.com/theme-park/news/universal-orlando-dreamworks-land-open/) ⚠️ una fuente · foto del encuentro en H2-91 |
+| **«Shrek & Fiona's Happily Ogre After»** (Universal Kids Resort, Texas) | 1-jul-2026 | Primera atracción de paseo de Shrek en EE. UU.: carruajes al aire libre con **viñetas «de madera»** de escenas | [Attractions Magazine](https://attractionsmagazine.com/shrek-ride-fionas-happily-ogre-after-universal-kids-2026/) ⚠️ una fuente |
+| **Shrek the Musical** (Broadway, West End, giras desde 2008) | Activo | Vestuario y decorados teatrales, distintos del 3D. Fotos CC BY 2.0 del Theatre Royal Drury Lane (Londres) | [Openverse](https://openverse.org) · [foto](https://live.staticflickr.com/7009/6447466563_243901daed_b.jpg) |
+| **DLC de *PowerWash Simulator*** | 10-oct-2024 | Casa y letrero del pantano en 3D (punto 11) | [Steam](https://store.steampowered.com/app/2983890) ✅ |
+
+**Figuras y modelos como referencia 3D.** Los Sketchfab del punto 3 salen de juegos con licencia (*Pocket Shrek*, *All-Star Kart Racing*, *SuperSlam*): hay modelos con *rig* sacados de productos oficiales.
+
+**Lo que NO es colaboración oficial** (no inventar)
+- **Fortnite:** no encontré colaboración oficial. Circulan capturas «filtradas» en TikTok, pero Epic no lo confirmó ([TechWiser](https://techwiser.com/fortnite-shrek-collab-skins/) + [esports.gg](https://esports.gg/news/fortnite/is-shrek-in-fortnite-here-is-what-we-know/)) ⚠️. **No usar en láminas.**
+- **Vans:** no encontré nada oficial, sólo zapatillas pintadas por fans ⚠️.
+- **Shrek Rave:** de promotores independientes, no de DreamWorks (salvo una vez en 2022) ([Vice](https://www.vice.com/en/article/shrek-rave-uk-photos/)) ✅.
+
+**Cruces de fans:** el póster-fusión de SiIvaGunner (punto 3), fondos de pantalla con Mario, Thanos o Gandalf (punto 16) y el modelo «Shrek Wazowski» (punto 3).
+
+**Cosplay:** no encontré una foto de cosplay con autor verificable; sólo tiendas de disfraces y Pinterest sin crédito ⚠️. Hay fotos con licencia libre en Openverse de disfraces y figuras, sin autor de cosplay: p. ej. [«Hello I'm Fiona»](https://live.staticflickr.com/2463/3618155269_7c8d848151_b.jpg) (CC BY-NC-SA) y la [figura de cera](https://live.staticflickr.com/4121/4800640370_f13f385bf3_b.jpg) (CC BY-NC-ND).
+
+## Punto 24 · Obras parecidas
+
+- **Mismo estudio, mismo humor:** *Kung Fu Panda* (DreamWorks; encargo 61 de esta biblioteca): chiste físico, guiños para adultos, protagonista grandote e inseguro con un mentor o compañero. También *Madagascar* (2005) y *Flushed Away* (2006) ⚠️ (una fuente agregadora).
+- **Cuentos de hadas «rotos» o parodiados:** *La princesa prometida* (1987), *Hook* (1991) y *Las aventuras del barón Munchausen* (1988) ⚠️ (una lista de ScreenRant).
+- **Su propio universo:** el spin-off del Gato (2011, 2022) y la serie *Las aventuras del Gato con Botas* (2015-2018, no canónica), más de aventura que de parodia ✅.
+- **De dónde sale el tono** ✅ (dos referencias): **Farquaad parodia a Michael Eisner**, entonces jefe de Disney, que había frenado a Jeffrey Katzenberg, cofundador de DreamWorks. **Duloc se parece a Disneylandia** a propósito (torniquetes, tienda de recuerdos, muñecos que cantan). Toda la saga es una pulla a Disney.
+- **Influencia que reconoce el director:** Andrew Adamson quería «deconstruir el cuento de hadas y reconstruirlo como uno nuevo» (punto 18).
+
+**Láminas del servidor que se le parecen** (para no repetir ideas)
+- La «biblioteca sin canal»: **Coco** (57), **Encanto** (58), *Toy Story* (60), *Kung Fu Panda* (61) e *Intensamente* (62). Ninguna es parodia de cuentos; el choque de tono es bajo.
+- **Riesgo de repetir:** Coco usa como concepto 1 **un atado de cartas** («La carta de Recuérdame»). El concepto A de Shrek usa **un libro de cuentos**. No es lo mismo (libro narrado con capitular frente a cartas manuscritas), pero conviene que se vea claramente **libro de cuento medieval**, no «papel con carta» ⚠️.
+- El **periódico** del concepto C y el **letrero** del concepto B no se parecen a nada de las biblias vecinas que miré.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** (parte de texto)
+1. Un reino de cuento donde conviven **todos** los personajes clásicos a la vez: Blancanieves, los tres cerditos, Pinocho, Caperucita, el Hada Madrina…
+2. Dos polos: el **pantano** de Shrek (naturaleza, aislamiento, feo por fuera) y **Muy Muy Lejano**, la capital, parodia de Beverly Hills.
+3. Las criaturas de cuento son una **clase discriminada**: desterradas al pantano hasta que Shrek negocia su vuelta.
+4. La magia es real pero **burocrática**: pociones de «final feliz» que se fabrican y se venden (la fábrica del Hada Madrina).
+5. El humor nace del choque entre lo medieval y lo moderno: Duloc con torniquetes, telerrealidad, famosos.
+
+**La historia por arcos** ✅ ([Shrek (franchise)](https://shrek.fandom.com/wiki/Shrek_(franchise)))
+1. ***Shrek* (2001):** rescata a Fiona para Farquaad → se enamoran → ella rompe la maldición quedándose ogra → boda en el pantano. **Momentos clave:** el libro (0:58), la cebolla, la dragona (37:57), el pajarito (49:56), la boda y la transformación (1:16:56-1:20:57).
+2. ***Shrek 2* (2004):** visitan a los padres de Fiona en Muy Muy Lejano → el Hada Madrina y el Príncipe Encantador intentan separarlos → se quedan juntos y ogros por decisión propia. **Clave:** llega el Gato (37:27).
+3. ***Shrek tercero* (2007):** Shrek hereda el trono a la fuerza → busca a Arturo (Artie) para que reine → Fiona está embarazada → nacen los trillizos.
+4. ***Shrek para siempre* (2010):** Shrek, «domesticado», firma con Rumpelstiltskin y despierta en un Muy Muy Lejano donde nunca nació → debe reconquistar a Fiona en 24 horas.
+5. **Especiales:** *Shrek the Halls* (Navidad, 2007), *Scared Shrekless* y *Donkey's Christmas Shrektacular* (2010), *Thriller Night* y *The Pig Who Cried Werewolf* (2011).
+6. **El Gato:** *Gato con botas* (2011, precuela) → *El último deseo* (2022, después de *Shrek para siempre*) → corto *The Trident* (2023).
+7. **Lo que viene:** ***Shrek 5*** (30-jun-2027 según la wiki; verano de 2027 según Movie Insider) con Myers, Murphy, Diaz y **Zendaya como Felicia**, la hija; la familia va a la ciudad de **Further Further Away** con los trillizos ya crecidos ⚠️. Un **spin-off de Burro** para 2028 ⚠️ (una fuente wiki).
+
+**Símbolos y objetos que un fan reconoce al instante**
+- **La cebolla y las capas.** La metáfora que define a Shrek, dicha en un campo de verduras camino del castillo. En la boda, una cebolla se convierte en **el carruaje de los novios** (H2-61) ✅ (página «Onions» de la wiki).
+- **El libro de cuentos** que abre y cierra las películas y los capítulos del juego: el narrador oficial del universo.
+- **Duloc:** ciudad perfecta y uniforme, castillo, muñecos que cantan *Welcome to Duloc* ✅.
+- **El *Far Far Away Times*:** el periódico del reino ✅.
+- **La fábrica del Hada Madrina** (pociones en serie) y **el Espejo Mágico**, que funciona como una tele o una agencia de citas: la magia es negocio.
+- **El zapato de cristal, la torre con dragona y el pantano:** «lo que se espera de un cuento» contra «lo que Shrek hace con ello».
+- **La poción de amor marcada «IX»** del Hada Madrina: los fans discuten por qué lleva ese número (807 votos en r/Shrek) ⚠️.
+- **El cartel de «WANTED»** de Fiona en *Shrek para siempre* (H2-75).
+
+**Vocabulario propio:** ogro, pantano, capas, Muy Muy Lejano, Duloc, Dronkeys, el beso de amor verdadero, «Había una vez…», «final feliz», Príncipe Encantador (en la 1, Príncipe Azul).
+
