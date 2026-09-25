@@ -247,6 +247,19 @@ jugables (Gek, Korvax, Vy'keen) como arquetipos.
 - **Centinelas**: drones policía de origen y motivos poco claros; son el
   antagonista recurrente más común de todo el juego · wikitext de
   «Sentinel» · https://nomanssky.fandom.com/wiki/Sentinel · ✅
+- **«Cara en cada emoción» (alegría, rabia, tristeza, miedo, vergüenza) — no
+  aplica a esta obra, y lo comprobé**: ni el Viajero (sin rostro, exotraje
+  vacío, ya lo confirmó `video.md` en el punto 14) ni Nada/Polo/Artemis/
+  Apollo/-null- tienen sets de expresión facial por emoción — sus cascos y
+  caras son modelos estáticos sin animación facial de ese tipo (es un juego
+  con generación procedural de cuerpos, no una obra dibujada a mano). Busqué
+  imágenes con `list=search` (namespace de archivos, «Nada angry OR happy OR
+  sad») y con `list=allimages&aiprefix=Korvax` en la wiki: no hay ni una sola
+  imagen etiquetada como expresión emocional de un personaje, sólo nombres de
+  planetas/plantas que casualmente contienen «Happy» o «Sad» y fichas
+  técnicas (banderas, emblemas, mercaderes) · Fandom API ·
+  https://nomanssky.fandom.com/api.php · ✅ (búsqueda real, no de memoria; lo
+  más parecido son las poses generales ya documentadas por `video.md`)
 - **Telamon**: protocolo/IA que el Atlas incorpora al exotraje del jugador
   para «vigilar sus propias acciones»; se convierte en la voz de aviso del
   traje (peligros, salud); en sus registros habla de que «nos están

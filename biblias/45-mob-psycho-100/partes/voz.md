@@ -83,10 +83,13 @@ https://anime.cl/latinoamerica-elenco-y-staff-para-el-doblaje-de-mob-psycho-100-
   reparto por temporada en ese nombre).
 - Ichi Mezato → **Nycolle González** (Nycolle González Andrade) · Doblaje
   Wiki (AniList) + AnimeCL/Crunchyroll · ✅.
-- Musashi Gouda → **Marco Antonio Urbalejo** (AnimeCL/Crunchyroll, temp. 3) ·
-  ⚠️ (Doblaje Wiki y AniList no traen este nombre en las tablas recolectadas;
-  sólo AnimeCL, así que queda con una fuente hasta confirmar con Doblaje
-  Wiki directamente).
+- Musashi Gouda → **dato en conflicto entre las dos fuentes**: Doblaje Wiki
+  dice **Mark Pokora** para las tres temporadas (1ª-3ª, wikitext completo:
+  «Musashi Gouda | Toshihiko Seki | Mark Pokora | 1ª-3ª»), pero el comunicado
+  oficial de Crunchyroll (vía AnimeCL) para la 3ª temporada da **Marco
+  Antonio Urbalejo**. Puede ser un recast no documentado en Doblaje Wiki o
+  una errata en una de las dos; lo dejo marcado como ⚠️ con las dos
+  versiones, no elijo una sin una tercera fuente.
 - Tome Kurata → **Betzabé Jara** (Betzabé Jara Carreto) · Doblaje Wiki (AniList)
   + AnimeCL/Crunchyroll · ✅.
 - Tenga Onigawara → **Bruno Coronel** (Bruno Abundis Coronel) · Doblaje Wiki
@@ -211,12 +214,19 @@ cada emoción.
     personificación de sus emociones reprimidas, no “él” en sentido estricto
     · mismo clip · 2:48 · https://www.dailymotion.com/video/x84g6ar&t=168 ·
     ✅ (fotograma propio) + wiki Fandom (sección «???%») · ✅.
-  - **Tristeza (100% Sadness)**: no lo pude fotografiar en un clip oficial
-    corto disponible en esta tanda (la escena está en el episodio de la
-    pelea con Teru, capítulo del arco «Teruki Hanazawa»); descrita en detalle
-    por TV Tropes: Mob llora encogido en el suelo, a cuatro patas, mientras
-    la escuela se reconstruye sola detrás — queda en «No encontré» con
-    minuto exacto pendiente.
+  - **Tristeza (100% Sadness)**: cara enrojecida, ojos cerrados, boca bien
+    abierta, lágrimas y sudor cayendo a la vez, diciendo «Voy a cambiar» —
+    justo tras noquear a Teru sin querer, cuando revive el recuerdo de haber
+    herido a su hermano · clip «Mob vs Teru Explosion» (Dailymotion, corte de
+    fan con subtítulos en inglés del episodio 5, arco «Teruki Hanazawa») ·
+    0:00 · https://www.dailymotion.com/video/x4rj83n&t=0 · ✅ (fotograma
+    propio + descripción de la escena confirmada en TV Tropes, TearJerker:
+    «Mob crying his eyes out... hunched over on all fours»). El mismo clip
+    trae, un poco después, a Mob desnudo y de rodillas entre los escombros
+    diciendo «¡Basta! ¡Lo siento!» tras la explosión (1:45,
+    https://www.dailymotion.com/video/x4rj83n&t=105) — es Teru reaccionando
+    al ver a Mob así, no Mob mismo, así que se deja sólo como apoyo de
+    contexto, no como fotograma de «cara de Mob».
 - Dinámica con otros: Reigen lo hace reír y confiar (es su «brújula moral»,
   ver AniList); Ritsu lo hace sentir culpa e inferioridad social; Dimple es
   su mejor amigo entre risas; Tsubomi lo pone nervioso/tímido (ver fotograma
@@ -497,3 +507,139 @@ por segunda fuente donde se indica)** · https://tvtropes.org/pmwiki/pmwiki.php/
   servidor de doblaje como Sintonizando, la lección es que la comunidad
   valora mucho la **continuidad y transparencia** en el reparto, no sólo
   la calidad de la voz.
+
+### Punto 22 · Fan dubs y comunidad hispana
+
+YouTube devuelve 429/«inicia sesión» para bajar metadatos con `yt-dlp` desde
+este contenedor (aviso ya conocido de AYUDANTE.md); los datos de abajo salen
+del buscador web (título, canal, fecha aproximada), no de `yt-dlp`, así que
+quedan con ⚠️ hasta que alguien los abra directo en YouTube para confirmar
+vistas exactas.
+
+- **Fandub de capítulos completos**: canal «Lilcrazy fandub», capítulo 11 en
+  español latino (ago-2021) · https://www.youtube.com/watch?v=yruZrEwI4vM ·
+  ⚠️.
+- **Fandub de tráileres**: «MOB Psycho 100 Trailer #3 [ESPAÑOL LATINO /
+  FANDUB]» · https://www.youtube.com/watch?v=pI27kg0Qf08 · ⚠️ · y «Mob Psycho
+  100 Trailer Español Latino Fandub» (2016) · https://www.youtube.com/watch?v=VBTBa2pCjaQ
+  · ⚠️.
+- **Fandub de episodio con parte narrativa** («Aquello que es importante»,
+  parte 1 de la 2ª temporada, abr-2019, se describe a sí mismo como trabajo
+  sin fines de lucro) · https://www.youtube.com/watch?v=DIqK-r0rMtg · ⚠️.
+- **Covers de los openings en español latino** (punto pedido explícitamente
+  por el encargo, «interesa mucho: el servidor es de doblaje»):
+  - **«99» (1ª temporada)**, varias versiones: «MOB PSYCHO 100 (Español
+    Latino Opening Cover) ~ Mob Choir 99» · https://www.youtube.com/watch?v=jvIUrWudBU0
+    · y otra versión, «Mob Psycho 100 Opening Español Latino - 99» ·
+    https://www.youtube.com/watch?v=rubNTMrCeJU · ⚠️ (dos vídeos distintos,
+    no dos fuentes del mismo dato, así que cada uno queda con una fuente).
+  - **«99.9» (2ª temporada)**, con nombre de cantante: cover con **Dianilis**
+    · https://www.youtube.com/watch?v=9BAt_Umj6Ok · y otro cover con **LucA
+    feat. CrisalMusic** · https://www.youtube.com/watch?v=EAdVNcMMDuE · ⚠️
+    cada uno.
+  - **Opening 3 («1»)**: «Mob Psycho 100 Opening 3 - ONE Cover Latino!» ·
+    https://www.youtube.com/watch?v=Ge1EohWfD6Q · ⚠️.
+- **Memes hispanos**: cuentas de TikTok dedicadas casi en exclusiva a memes
+  de la serie en español, p. ej. `@reigen.arataka100` (temática Serizawa y
+  Reigen) y compilaciones bajo el hashtag «Mob Psycho 100 Memes» ·
+  https://www.tiktok.com/discover/mob-psycho-100-memes · ⚠️ (agregador de
+  TikTok, no un post concreto — no se pudo abrir TikTok directo desde este
+  contenedor para confirmar vistas).
+- **Playlist de clips en español latino** recopilada por un canal de
+  fans (18+ clips cortos de escenas dobladas) · https://www.youtube.com/playlist?list=PLuyKvtCwfMUTspvWyxv7ehqDNQs_JYg9T
+  · ⚠️ — útil como cantera de más frases textuales del doblaje si se necesita
+  ampliar el punto 8 en una siguiente pasada.
+- **Lo que reconoce el fandom hispano específicamente**: en Doblaje Wiki
+  (punto 8) se documenta con detalle cada cambio de actor entre temporadas,
+  señal de que la comunidad de doblaje hispano sigue el reparto con lupa —
+  coherente con la sección «qué no hacer» del punto 12 sobre recastings sin
+  avisar · Doblaje Wiki · ✅ (ya citado arriba).
+
+## Lo mejor para la lámina
+
+- **Reigen, no Mob, es el personaje más querido** (dos rankings de favoritos
+  independientes lo confirman) — encaja perfecto si el canal es de doblaje o
+  interpretación: es el «vendedor» carismático, con una frase de cierre tipo
+  anuncio que puede convertirse en el cuadro de diálogo del canal.
+- **El apodo «Moff»** que Reigen le pone a Mob (oído en el propio audio del
+  doblaje latino) es un detalle de cariño-burla muy específico, mejor que
+  cualquier frase genérica, para dar voz propia a la lámina.
+- **La cara simple y redonda de Mob** es la clave visual: cualquier gesto
+  (sonrojo, ojos muy abiertos) destaca mucho más que en un personaje con cara
+  detallada — ideal para expresiones claras y legibles en una lámina pequeña.
+- **El estado ???% (monocromo, pelo blanco, ojos rojos)** es el recurso
+  visual más reconocible de toda la serie para una lámina de acción o de
+  «modo poder».
+- **La frase de Serizawa** («sólo quería tener amigos») resume el tema
+  central de la serie (poder + soledad) mejor que cualquier lema genérico, si
+  el canal busca calidez en vez de acción.
+
+## No encontré
+
+- **Encuesta de popularidad oficial japonesa** (organizada por la editorial
+  Shogakukan o el estudio BONES, tipo「モブサイコ100 公式人気投票」): busqué
+  en japonés («モブサイコ100 人気投票 公式») y sólo aparecen encuestas de
+  fans (nijimen, ranking.net), no una encuesta oficial de la editorial. Dejo
+  el ranking de favoritos de AniList/MyAnimeList (punto 7) como la mejor
+  medida disponible de popularidad con dos fuentes.
+- **Cara de Reigen llorando/furioso con fotograma propio**: descrita por
+  texto (TV Tropes) pero no conseguí un clip corto en Dailymotion centrado en
+  esa escena del arco «Separate Ways» para sacar el fotograma yo misma.
+- **Vistas exactas de los fandubs y covers en YouTube** (punto 22): YouTube
+  devolvió 429/«inicia sesión» con `yt-dlp` en toda la tanda (ya avisado en
+  `datos-voz.md` y en AYUDANTE.md como problema conocido del contenedor
+  compartido); los datos de título/canal salen del buscador web, sin cifra
+  de vistas verificada.
+- **TikTok directo**: no se pudo abrir tiktok.com desde este contenedor con
+  `navegar.py` para confirmar cuentas o vistas de los memes hispanos citados
+  en el punto 22; quedan sólo con el enlace de descubrimiento (agregador),
+  no con un vídeo concreto medido. Búsqueda hecha: «Mob Psycho 100 parodia
+  meme español latino tiktok compilación».
+- **Segunda fuente para «Luis/Luna Arjona»** (director de doblaje, 3ª
+  temporada): no encontré una tercera fuente (créditos en pantalla, ficha de
+  ATA México) que desempate el nombre entre Doblaje Wiki («Luna Arjona») y el
+  comunicado de Crunchyroll vía AnimeCL («Luis Arjona»). Queda con ⚠️.
+- **Nombre de Musashi Gouda en Doblaje Wiki** (punto 8): la tabla de
+  `datos-voz.md` no lo trae; sólo lo tengo por AnimeCL (Marco Antonio
+  Urbalejo). Falta una segunda fuente propia de Doblaje Wiki para pasar a ✅.
+
+## Bitácora
+
+- Punto de partida: `partes/datos-voz.md` (recolectado con `recolectar.py`:
+  AniList favoritos y fichas, Doblaje Wiki ficha + reparto + audios, Danbooru,
+  Dailymotion, Reddit) — comprobado y ampliado, no repetido.
+- Doblaje Wiki API (`doblaje.fandom.com/es/api.php?action=parse&prop=wikitext`)
+  para la tabla completa de reparto principal (el recolector automático no
+  había parseado bien las filas con `rowspan`, así que se sacó a mano).
+- `mob-psycho-100.fandom.com/api.php` (secciones Personality, Notes & Trivia,
+  Quotes, infobox) para Shigeo Kageyama, Arataka Reigen, Dimple, Ritsu
+  Kageyama, Teruki Hanazawa, Katsuya Serizawa, Tome Kurata, Tsubomi Takane —
+  en inglés (la wiki en español de la serie no tiene tanto detalle).
+- `herramientas/voz.py` sobre 5 muestras de audio oficiales de Doblaje Wiki
+  (Mob, Reigen, Ekubo, Ritsu, Teru) → frases textuales con minuto y ficha de
+  voz (tono, semitonos, velocidad) para los puntos 8 y 13.
+- `herramientas/fotogramas.py` sobre 5 clips de Dailymotion (tráiler general,
+  «RAGE MODE FIGHT Mob vs Koyama», tráiler 3ª temporada sub. español, «Mob À
+  100%» y «Mob vs Teru Explosion») → 9 fotogramas propios para la cara de Mob
+  en distintas emociones (punto 13), incluida la tristeza («100% Sadness»).
+  Se borraron los `video.mp4` de la carpeta de trabajo tras sacar las hojas.
+- `navegar.py` para TV Tropes (TearJerker y YMMV de Mob Psycho 100, ambas
+  páginas enteras) y para AnimeCL (elenco oficial de doblaje 3ª temporada,
+  republicado del comunicado de Crunchyroll) — ambas webs bloquean a `curl`.
+- WebSearch (cupo usado: 12 de ~50): «ANMTV Mob Psycho 100 doblaje latino
+  elenco director» (es), «Mob Psycho 100 encuesta popularidad oficial
+  personaje favorito Japón» (es), «Mob Psycho 100 fandub español latino
+  youtube» (es), «モブサイコ100 人気投票 公式» (ja, sin resultado oficial),
+  «Mob Psycho 100 why fans love it Reigen most popular character review»
+  (en), «Mob Psycho 100 crying scene episode reddit saddest moment 100%»
+  (en), «Crunchyroll Anime Awards Mob Psycho 100 wins best character best
+  fight» (en), «Mob Psycho 100 Serizawa gasolina meme lata gasolina español»
+  (es, sin resultado), «"Mob Psycho 100" cover opening español latino "99"
+  OR "99.9" youtube» (es), «reddit Mob Psycho 100 which character do you
+  relate to most identify» (en), «Mob Psycho 100 episode list wikipedia
+  Spring of Youth Teruki Hanazawa Arc episode number season 1» (en), «Mob
+  Psycho 100 parodia meme español latino tiktok compilación» (es).
+- MyAnimeList (vía reseña de Sportskeeda, ya que la web de MAL no cargó texto
+  con `navegar.py`) para el ranking de favoritos por personaje.
+- `Read` sobre los 9 fotogramas propios para describir de verdad lo que se
+  ve (no de memoria), como pide AYUDANTE.md.

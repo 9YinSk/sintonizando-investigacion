@@ -185,7 +185,11 @@ manga — dicen lo mismo: **la contención es el estilo**, no un accidente.
 
 **La cara de Frieren en cada emoción** (todas ellas vistas por mí,
 fotogramas de la Frieren Wiki, medidos con la API — 1920×1080 salvo que se
-diga otra cosa):
+diga otra cosa). ⚠️ **Aviso de exactitud**: la wiki da el episodio pero no
+el minuto de estos fotogramas concretos (no son los mismos que ya cronometró
+la biblia hermana con los subtítulos japoneses del Blu-ray en su §15); no
+invento un minuto que no comprobé, así que la columna queda en «episodio,
+ficha» hasta que alguien lo cronometre viendo el capítulo entero:
 
 | Emoción | Fotograma (ep., ficha) | Qué se ve |
 |---|---|---|
@@ -213,3 +217,237 @@ Himmel (sólo en recuerdo) Frieren es la única que baja la guardia — de las
 cinco emociones de la tabla, **ninguna ocurre estando Himmel presente**: su
 gama emocional completa se ve después de perderlo, otro dato a favor del
 tema «memoria» del encargo 89.
+
+### Punto 20 · Gustos y detalles de cada personaje
+
+La biblia hermana ya sacó del **Official Fan Book** (Shōgakukan) la comida
+favorita, edad, altura, el objeto que siempre llevan y cómo se ven a sí
+mismos de Frieren, Fern, Stark y Himmel, más 6 secundarios (su Punto 20) —
+tabla completa, no la repito. Verifiqué yo mismo, con la wikitext en inglés
+de cada ficha (`action=parse&prop=wikitext`), que esos datos siguen igual
+✅ y añado dos detalles que no estaban, los dos ligados al eje de 89
+(paisaje/memoria):
+
+- **El nombre «Himmel» significa «cielo» en alemán**, y el diseño del
+  personaje está pensado en azul por eso — la propia wiki lo señala junto a
+  **Aureole**, «el lugar donde descansan las almas, también llamado el
+  Cielo, para reencontrarse con él» · [Frieren
+  Wiki, «Himmel», Trivia](https://frieren.fandom.com/wiki/Himmel) ⚠️ una
+  fuente (dato de la propia wiki, sin un segundo medio que lo confirme,
+  pero es una lectura directa del nombre alemán, no una interpretación).
+  Encaja con lo que ya encontró la parte de vídeo sobre Aureole como «el
+  paisaje-meta de toda la serie»: el nombre del héroe muerto **ya apunta al
+  paisaje al que Frieren viaja para recordarlo**.
+- La flor de invierno favorita de Frieren, la **flor de cerezo carámbano**
+  (manga cap. 36, pág. 11) — ya citada por la biblia hermana, la confirmo
+  yo con la misma wikitext ✅ — es en sí misma un gusto «de paisaje»: una
+  flor que sólo existe en un clima y una estación concretos, no un objeto
+  que se lleva encima.
+
+**No investigué más a fondo el punto 20** porque el trabajo grande (el
+Official Fan Book entero) ya está hecho y verificado en la biblia hermana;
+dedico el resto del cupo a los puntos 21 y 22, donde el ángulo de 89 aporta
+más.
+
+### Punto 21 · Por qué la gente la ama (con el ángulo de 89: paisaje y memoria)
+
+La biblia hermana ya cubrió premios/ventas (Manga Taisho, Crunchyroll Anime
+Awards, +30 millones de copias) y con qué personaje se identifica el
+público (Stark, «tiene miedo y pelea igual»; Frieren, «para quien ha
+perdido a alguien») — no lo repito. Esta parte se centra en **por qué la
+melancolía y el paisaje son, en sí mismos, la razón que da la crítica y el
+fandom**, con fuentes que la hermana no usó:
+
+**21.1 Reseñas en español, textuales** (nuevas, no citadas por la biblia
+hermana, que trabajó sobre todo en inglés):
+
+- **Espinof** («Por qué 'Frieren…' es uno de los mejores animes del año»):
+  *«'Frieren' es una serie increíblemente nostálgica y melancólica. […] las
+  escenas del presente se van intercalando con flashbacks de los recuerdos
+  de Frieren con su antiguo grupo […] también te deja con esa sensación de
+  tristeza [por] lo que nunca llegó a ser»*; y remata: *«el anime no es un
+  dramón ni una tragedia, sino que es acogedor, tranquilo y
+  reconfortante»* · [Espinof](https://www.espinof.com/criticas/que-frieren-beyond-journeys-end-uno-mejores-animes-ano-melancolica-reflexion-paso-tiempo-a-traves-viaje-lleno-magia)
+  ✅ (medio de Webedia, ya usado por otras biblias del servidor para reseñas
+  en español; coincide en tono con la reseña inglesa de Screen Rant que ya
+  citó la hermana).
+- **efrenrodher.com** (análisis del art book): la textura de acuarela del
+  color en el manga **«evoca suavidad, melancolía y una cierta fragilidad.
+  Como si cada imagen estuviera a punto de desvanecerse con el tiempo,
+  igual que los [recuerdos]»** · [efrenrodher.com](https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/)
+  ⚠️ una fuente en español, pero dice con palabras casi idénticas lo mismo
+  que la cita en inglés de la **directora de color de fondos Seiko
+  Yoshioka** que ya tiene la parte de vídeo («nostalgia, sensación de
+  pérdida»): dos profesionales de campos distintos (bloguero de manga,
+  directora de color del anime) describiendo el mismo efecto con la misma
+  palabra, **melancolía**.
+
+**21.2 La escena que hace llorar ligada a un lugar, no a un objeto** (nueva,
+distinta de las tres que ya tiene la biblia hermana —el anillo, el funeral,
+los modales de Stark—: aquella son escenas que YA pasaron; ésta es una que
+**todavía no ha pasado en la historia**):
+
+- **La próxima lluvia de meteoros de Era** (evento que sólo ocurre cada 50
+  años; Frieren promete en el doblaje latino, T1-01, «sé de un lugar donde
+  se puede ver más clara», §8 de esta parte): un post de r/Frieren con
+  **131 votos y 16 comentarios**, título «It just occurred to me that there
+  will be another Era Meteor Shower», dice textualmente: **«the thought of
+  Frieren, Fern and Stark watching it together at the same spot Frieren
+  watched it last with Himmel made me sad»** · [Reddit](https://www.reddit.com/r/Frieren/comments/1qcs15z/it_just_occurred_to_me_that_there_will_be_another/)
+  ✅ (confirmado por dos fan arts del mismo motivo con miles de votos cada
+  uno: 3225 y 2864, mismo hilo emocional, misma autora — @tsuicaa — en
+  fechas distintas, señal de que el fandom vuelve sobre esta escena futura
+  una y otra vez). **Por qué duele**: no hace falta que pase nada trágico
+  en pantalla; basta con que el espectador sepa que **el sitio va a seguir
+  ahí y la persona no**. Es el mecanismo emocional más «paisaje y memoria»
+  de toda la serie, y no estaba en ninguna de las dos bibias hasta ahora.
+- Música: no encontré una entrevista que confirme qué tema sonará en esa
+  escena futura (todavía no se ha animado) — no invento el título, lo dejo
+  en «No encontré».
+
+**21.3 Resumen para el redactor**: si la biblia hermana ya explica CON QUÉ
+personaje se identifica el público (Stark) y qué escenas YA hicieron
+llorar (el anillo, el funeral), esta parte añade el POR QUÉ estructural:
+la serie hace llorar **antes de que pase la escena**, sólo con paisaje +
+promesa + tiempo. Es el dato más útil para un canal que hable de «lo que se
+siente al escuchar/leer algo que todavía no ha pasado» (voces en off,
+narración, doblaje de tráileres).
+
+### Punto 22 · Fan dubs y comunidad hispana
+
+La biblia hermana ya fichó 5 covers del OP en español latino, un fandub de
+voz sobre fancómic («Dari Studio»), el meme «Frieren hace berrinche» en
+TikTok y las entrevistas a las actrices latinas (su Punto 22) — no repito
+esa lista. Repetí sus mismas búsquedas de Dailymotion («Frieren fandub
+español», «Frieren fandub latino», «Sousou no Frieren cover español
+latino», «Frieren opening cover español») para comprobar si había algo
+nuevo desde entonces: **sigue sin haber fandub de voz completo verificable
+en Dailymotion**, sólo lo mismo que ya tenía ella (el tráiler y el clip de
+Qual, que no son fandubs).
+
+- Único hallazgo nuevo en Dailymotion: **«Vivir sin Miedo - Sousou no
+  Frieren AMV»**, canal `MusicAI001`, con una canción hecha con
+  inteligencia artificial (Suno) sobre imágenes editadas del anime · [Dailymotion](https://www.dailymotion.com/video/x93x27m)
+  ⚠️ una fuente, **22 visitas únicamente**: lo anoto por transparencia (es
+  contenido hispano real sobre la serie), pero **no lo recomiendo para la
+  lámina**: es una canción de IA, no un fandub de voz ni un cover cantado
+  por una persona, y no tiene alcance.
+- El hashtag de TikTok **«la melancolía de Stark y Fern»** y contenido
+  bajo «Frieren crying scene why» muestran que la comunidad
+  hispanohablante analiza explícitamente el tema de la melancolía y el
+  llanto en la serie (no sólo el gag del berrinche que ya tenía la
+  hermana) · agregador de búsqueda ⚠️ una fuente, sin poder abrir TikTok
+  directo desde el contenedor para confirmar vistas o el vídeo concreto
+  (mismo bloqueo que documentó la parte de vídeo).
+
+**Para el redactor**: en fan dubs de VOZ (no covers de canción) la
+comunidad hispana de Frieren es floja todavía — sólo un canal serio
+(«Dari Studio», ya en la biblia hermana) y contenido de IA de bajo alcance.
+Donde sí es fuerte es en **covers cantados** (5 versiones ya fichadas) y en
+**memes y análisis de la melancolía** (el berrinche + estos hashtags). Es
+un dato útil en sí mismo para un servidor de doblaje: **hay hueco** para un
+fandub de voz completo de Frieren en español que todavía no existe con
+alcance.
+
+## Lo mejor para la lámina
+
+1. **La cara de Frieren nunca es grande**: en las cinco emociones que miré
+   (alegría, rabia, tristeza, miedo, vergüenza) el gesto más fuerte es
+   meterse dentro de un cofre-mímico; el resto son párpados a media asta y
+   sonrisas pequeñas. Para dibujarla «triste», mejor su postura y la luz
+   detrás (como en la escena de la cuna vacía) que una cara con lágrimas.
+2. La **próxima lluvia de meteoros de Era** (aún no animada): un lugar real
+   de la serie que va a doler **antes de que pase la escena**. Sirve para
+   un texto de canal que hable del tiempo o de esperar algo con ilusión.
+3. **Himmel significa «cielo» en alemán**, y el destino final del viaje
+   (Aureole) también es «el Cielo». El nombre del héroe muerto ya apunta al
+   paisaje al que Frieren viaja para recordarlo: un gancho de texto fuerte
+   para una lámina sobre memoria.
+4. La frase del doblaje latino **«Sé de un lugar donde la lluvia de
+   meteoros se puede ver más clara»** (Frieren, T1-01) es la promesa de
+   volver a un sitio concreto: sirve como frase de bienvenida a un canal
+   («vuelve cuando quieras a este lugar»).
+5. **12,6 millones de votos** en la 2.ª encuesta oficial de Shōnen Sunday, y
+   el héroe muerto en el episodio 1 (Himmel) **ganándola dos veces
+   seguidas** por delante de la protagonista: el dato exacto que responde
+   a la duda del dueño sobre «quizá un personaje secundario es más
+   querido».
+
+## No encontré
+
+- ⚠️ **El minuto exacto de los 5 fotogramas de «cara en cada emoción»** del
+  punto 13 (sí tienen episodio y ficha de la wiki, verificados por mí, pero
+  no crucé la escena con los subtítulos del capítulo entero para dar el
+  minuto — habría que ver los episodios 2, 7, 23, 25 y 27 completos, algo
+  que no me daba el cupo de esta tanda). No invento el minuto.
+- ⚠️ **La frase exacta y el minuto** de los dos clips nuevos de Crunchyroll
+  en Español («Patitas para que las quiero», «¿Batallas épicas?, Frieren
+  las tiene»): `yt-dlp` dio «Sign in to confirm you're not a bot» y ninguno
+  de los dos está espejado en Dailymotion (probé sus títulos exactos, sin
+  resultado). Dejo el título y el canal, confirmados por oEmbed, pero no
+  invento la frase.
+- ⚠️ **Qué tema musical sonará** en la futura lluvia de meteoros (§21.2):
+  todavía no está animada, así que ninguna entrevista lo menciona. No
+  invento el título.
+- ⚠️ **Vistas y alcance real** del hashtag de TikTok sobre «la melancolía
+  de Stark y Fern»: TikTok no deja ver el contador sin iniciar sesión
+  desde este contenedor; sólo pude confirmarlo por un agregador de
+  búsqueda, sin abrir un vídeo concreto.
+- El resto de mis 7 puntos (7, 8, 12, 13, 20, 21, 22) tiene lo obligatorio
+  del encargo cubierto arriba, con fuente y, donde aplica, minuto.
+
+## Bitácora
+
+**Red directa** (sin gastar el buscador):
+- `frieren.fandom.com/api.php` — `action=query&list=search` (14 búsquedas de
+  imágenes por palabra de emoción en inglés: angry, embarrassed, scared,
+  cries, glares, delighted…, para las 5 caras del punto 13) y
+  `action=parse&prop=wikitext` para Frieren, Fern, Stark, Himmel (secciones
+  Trivia, para el punto 20) y `action=query&prop=imageinfo&iiprop=url|size`
+  para medir 6 fotogramas (todos 1920×1080).
+- Descarga directa de 6 imágenes de `static.wikia.nocookie.net` con cabecera
+  `Referer: https://www.fandom.com/`, **todas miradas con Read** antes de
+  describirlas (AYUDANTE.md).
+- `doblaje.fandom.com/es/api.php?action=parse&prop=wikitext` con el título
+  correcto en español (`Frieren: Más allá del final del viaje`) — el
+  recolector automático había fallado por usar el título en inglés.
+- `youtube.com/oembed?url=…&format=json` para 2 clips nuevos de Crunchyroll
+  en Español (sin necesitar sesión).
+- `yt-dlp --write-auto-subs --sub-langs "es.*"` sobre los 2 clips nuevos:
+  **bloqueado** («Sign in to confirm you're not a bot»), mismo bloqueo de
+  YouTube que ya documentan las otras partes.
+- `api.dailymotion.com/videos?search=` con 7 consultas (4 ya probadas por
+  el recolector, repetidas para comprobar que seguían sin resultado nuevo,
+  + 3 mías) — sólo un hallazgo nuevo (el AMV de IA).
+- `arctic-shift.photon-reddit.com/api/posts/search` en r/Frieren, `title=`
+  con «meteor», «Era meteor» (con pausas de 2 s) — encontré el post de 131
+  votos sobre la próxima lluvia de meteoros y confirmé los dos fan arts del
+  mismo motivo.
+- `curl` directo (con user-agent) sobre `espinof.com` y `efrenrodher.com`
+  — ambos respondieron sin bloqueo; filtré el HTML con una expresión
+  regular sobre `<p>` para no imprimir la página entera.
+
+**Buscador web** (6 de mi cupo de ~50):
+- Inglés: «Frieren character popularity poll official Shonen Sunday 2024
+  2025 ranking»; «Frieren Beyond Journey's End review backgrounds OR
+  scenery OR landscapes melancholy why fans love».
+- Español: «Frieren identifica personaje "por eso amo" OR "por qué me
+  encanta" melancolía paisaje reseña español»; «"Frieren" fandub latino OR
+  doblaje fans escena "campo de flores" OR "meteoros" reacción youtube»;
+  «Frieren fandub español "paisaje" OR "melancolía" OR "escena" reacción
+  youtube OR tiktok comunidad hispana».
+
+**Fallos y cómo los resolví**:
+- Recolector automático: falló en Doblaje Wiki por usar el título en
+  inglés — lo resolví buscando el título latino real en el propio
+  wikitext de la ficha de Crunchyroll.
+- `yt-dlp` sobre los 2 clips nuevos de Crunchyroll: bloqueado por login;
+  usé `oembed` (sin sesión) para al menos confirmar título y canal, y dejé
+  la frase exacta en «No encontré» en vez de inventarla.
+- Dailymotion: sin fandub de voz nuevo pese a repetir las 4 búsquedas del
+  recolector + 3 propias — confirma que la hermana ya encontró lo poco que
+  hay.
+
+**Parte terminada**: los 7 puntos (7, 8, 12, 13, 20, 21 y 22) tienen lo
+obligatorio del encargo cubierto, con fuente y, donde aplica, minuto o
+tamaño. No dejo ninguna línea «Sigue:».
