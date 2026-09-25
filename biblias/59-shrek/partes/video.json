@@ -1,0 +1,110 @@
+[
+ {
+  "url": "https://archive.org/details/shrek-1#start=58",
+  "fuente": "Internet Archive · shrek-1",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Shrek (2001) completa, archivo real .mp4/.mkv (no sólo miniaturas); fotograma citado: apertura del libro de cuentos, 0:58",
+  "para_que": "escena icónica de apertura (punto 2); base para todos los fotogramas de Shrek 1 citados en video.md",
+  "licencia": "© DreamWorks; copia subida por un usuario, sólo referencia de estudio, nunca para publicar"
+ },
+ {
+  "url": "https://archive.org/details/shrek-1#start=3305",
+  "fuente": "Internet Archive · shrek-1",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 55:05: Fiona hace una voltereta cómica en el bosque, Shrek se ríe apoyado en un árbol, Burro sonríe en primer plano",
+  "para_que": "poses de Shrek/Fiona/Burro (punto 14): función animar/celebrar",
+  "licencia": "© DreamWorks; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/shrek-1#start=4790",
+  "fuente": "Internet Archive · shrek-1",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1:19:50: transformación final, Shrek con las manos extendidas hacia la luz dorada del hechizo",
+  "para_que": "escena icónica y pose (puntos 2 y 14): función pensar/decidir",
+  "licencia": "© DreamWorks; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/shrek-2-2004-full-screen_202406#start=2247",
+  "fuente": "Internet Archive · shrek-2-2004-full-screen_202406",
+  "ancho": 1920,
+  "alto": 1440,
+  "que_es": "Fotograma 37:27 de Shrek 2 (edición Full Screen 4:3): primera aparición de Puss en Botas, reverencia con el sombrero",
+  "para_que": "escena icónica y pose de presentación de Puss en Botas (puntos 2 y 14)",
+  "licencia": "© DreamWorks; edición pan-and-scan 4:3, no es la relación de aspecto original; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/shrek-2-2004-full-screen_202406#start=2280",
+  "fuente": "Internet Archive · shrek-2-2004-full-screen_202406",
+  "ancho": 1920,
+  "alto": 1440,
+  "que_es": "Fotograma 38:00 de Shrek 2: duelo Shrek/Puss en Botas, Shrek agachado en guardia frente al gato diminuto",
+  "para_que": "pose de escala cómica Shrek/Puss (punto 14)",
+  "licencia": "© DreamWorks; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x88nk3f",
+  "fuente": "Dailymotion · Sensacine",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial de Shrek en español, 1:55, visto completo con fotogramas.py (15 fotogramas cada 8 s)",
+  "para_que": "tráiler oficial con minuto exacto (punto 10)",
+  "licencia": "© DreamWorks / distribuidora; material promocional, sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Wood095",
+  "fuente": "ambientcg.com",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de madera envejecida (tablas)",
+  "para_que": "equivalente real para la letrina y cercas de madera del pantano de Shrek (punto 4)",
+  "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=PavingStones138",
+  "fuente": "ambientcg.com",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de adoquín de piedra",
+  "para_que": "equivalente real para las calles de Duloc y Muy Muy Lejano (punto 4)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Moss002",
+  "fuente": "ambientcg.com",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de musgo/liquen",
+  "para_que": "equivalente real para el musgo colgante del pantano de Shrek (punto 4)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Bark014",
+  "fuente": "ambientcg.com",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura PBR de corteza de árbol",
+  "para_que": "equivalente real para los árboles del bosque de Muy Muy Lejano (punto 4)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/List_of_songs_featured_in_Shrek",
+  "fuente": "Wikipedia (en)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Listado completo de canciones por película y especial, con notas de en qué escena suena cada una",
+  "para_que": "música y sonido, todas las películas y especiales (punto 9)",
+  "licencia": "CC BY-SA (texto de Wikipedia); sólo consulta, no imagen"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=z8R8DZkFJVE",
+  "fuente": "YouTube · Cineasta Mundial",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "«El Significado OCULTO de SHREK 2 | Análisis», 11:14 (metadata confirmada con yt-dlp; no se pudo mirar el contenido por el bloqueo de sesión de YouTube en este servidor)",
+  "para_que": "vídeo de análisis en español (punto 10)",
+  "licencia": "© del canal; sólo referencia"
+ }
+]
