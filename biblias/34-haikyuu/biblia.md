@@ -63,6 +63,60 @@ fecha: 2026-09-24
 
 ---
 
+## Segunda pasada · qué cambió
+
+Repaso corto del 24 y 25-sep-2026: la biblia se hizo con un encargo de
+17 puntos y le faltaban los **puntos 18-25**. Tres investigadores
+(imagen, voz y texto) y el redactor. **No se tocó** lo que ya estaba
+bien: sólo se añadió.
+
+**Lo añadido**
+
+- **P18 · Estilo y técnica**: la línea gruesa y casi monocroma de los
+  remates (*cut-in*), la mano delante de la cámara de Liang, el color
+  plano con sombra negra bajo la barbilla, **ni una técnica especial**
+  (Furudate). Receta de Photoshop y Blender (Freestyle, *toon shader*
+  de 2 tonos, EEVEE).
+- **P19 · Texturas 2D**: **5 escudos** de instituto con hex medidos,
+  patrones de ropa de 4 equipos, tramas, papel CC0 e iconos con licencia.
+- **P20 · Gustos**: fichas del *databook* oficial de los 5 del encargo
+  y 5 secundarios (comida, manías, cómo se ven).
+- **P21 · Por qué la aman**: 75 millones de copias, Premio Shogakukan,
+  ¥11.050 millones de la película, con quién se identifica cada uno y 4
+  escenas que hacen llorar.
+- **P22 · Fandubs**: 1 cover medido en Dailymotion, 6 fandubs, 6 covers
+  de openings, TikTok y los memes del propio doblaje.
+- **P23 · Colaboraciones**: la **SV.LEAGUE** (Furudate dibuja para la
+  liga real), 2 cafés con arte nuevo, Nendoroid, Ichiban Kuji, 3
+  exposiciones y cosplay con materiales.
+- **P24 · Obras parecidas**: 15 series de AniList, las influencias del
+  autor (ONE PIECE, *Tekkonkinkreet*) y los choques con otras láminas.
+- **P25 · El mundo**: 5 reglas, 6 arcos con capítulos y episodios, **8
+  estandartes con su lema** y el vocabulario del fan.
+- **§18.7**: lo nuevo para la IA de imagen y de texto.
+- **§19**: mejoras de los tres conceptos (pose de celebrar de Bokuto,
+  ficha del *databook* en el formulario, pizarra que no se confunda con
+  las de My Hero Academia y Assassination Classroom) y dos «no hacer»
+  más.
+- **§20**: lo que sigue sin verificar de P18-P25.
+- **`referencias.json`**: de 37 a **175** entradas.
+- **Fuentes**: de **31 a 83 webs distintas** enlazadas.
+
+**Corregido (antes → ahora)**
+
+- «No hay otro encargo deportivo» → **Blue Lock (42)** y **Captain
+  Tsubasa (47)** tienen encargo, aún sin biblia.
+- Lema 「思い出なんかいらん」 de «Date Tech» → de **Inarizaki**.
+- Bokuto «confirmado en AniList» → el enlace era el de **Ushijima**:
+  queda con una fuente ⚠️.
+- T3-07 «Obsesión», «*flashback* de Ushijima» → **de Tendō**.
+- La tabla de cumplimiento pasa de 17 a **25 puntos**.
+
+**Los ⚠️**: había **45**; ahora hay unos **115**. No es que empeore: los
+puntos nuevos traen datos de una sola fuente (sobre todo fandubs y
+vistas que YouTube no deja abrir) y quedan marcados en vez de
+callarlos. Los principales, en §20.
+
 ## 0 · Haikyuu!! no tiene canal: dónde encaja mejor
 
 ### 0.1 La propuesta: **ıı・🎯・reto-de-la-semana**
