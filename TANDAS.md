@@ -185,7 +185,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] 61-kung-fu-panda
 - [ ] 62-intensamente-inside-out
 - [ ] 63-las-guerreras-k-pop-kpop-demon-hunters
-- [ ] 64-steven-universe
+- [x] 64-steven-universe
 
 ## Tanda S17
 

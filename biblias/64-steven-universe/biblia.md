@@ -14,6 +14,15 @@ fecha: 2026-09-25
 > - **Los vídeos se miraron de verdad**, pero en **Internet Archive y Dailymotion**: YouTube pide iniciar sesión desde el servidor. Se vieron enteros el capítulo piloto «Gem Glow», la escena de «Stronger Than You», el animatic oficial de «The Answer», el tráiler de la película y dos recopilaciones de fans; y dos clips en Dailymotion («El Tío», doblado, y «It's Over, Isn't It»).
 > - **Las voces latinas se oyeron**: 4 muestras de Doblaje Wiki (Steven, Garnet, Amatista, Perla) pasadas por `voz.py` (frase textual, tono en Hz, velocidad).
 > - **Los colores se midieron** con Pillow y `estilo.py` en fichas de producción y en fotogramas del piloto.
+> - **Se escribió en dos tandas** (25-sep-2026): la primera llegó al punto 8; la segunda (modo «seguir») añadió del 9 al 25, los conceptos, la tabla, la bitácora y `referencias.json`, con las mismas partes.
+
+## Segunda pasada · qué cambió
+
+- **Añadido:** los puntos 9 a 25 (el 17, guía para IA, escrito por el redactor), los 3 conceptos de lámina, «Lo que corregí de las partes», la tabla «Cumplimiento del encargo» y la «Bitácora de búsqueda».
+- **Añadido:** `referencias.json` con 152 referencias (antes no existía), las mejores primero.
+- **Corregido (antes → ahora):** el Kindergarten y el granero «en la hoja de fondos» → el Kindergarten es la n.º 36 de `personajes_01` y el granero no está en las hojas; el cierre «sin canción» y «con Love Like You» → créditos instrumentales en el piloto y «Love Like You» en el disco; Sailor Moon «en #demos» → biblia 38 con otros canales.
+- **Fuentes:** de 25 a más de 60 webs distintas enlazadas.
+- **⚠️:** los del punto 1-8 siguen igual (28); los nuevos se explican en su punto y en la tabla. Ningún punto queda ❌.
 
 **Leyenda:** ✅ confirmado en dos fuentes o visto con los propios ojos · ⚠️ una sola fuente, dudoso o a medias.
 
@@ -36,6 +45,7 @@ En el texto se citan como **hoja n.º X**.
 
 ## Índice
 
+- Segunda pasada · qué cambió
 - 0 · Steven Universe no tiene canal: dónde encaja mejor
 - 1 · Lo esencial
 - 2 · Las 3 hojas de contacto, número a número
@@ -1021,8 +1031,9 @@ Reglas del dueño que se aplican: un objeto real en un sitio real (hecho en Blen
 - **Dónde va cada texto:**
   - Cielo, cartela: «canto».
   - Página izquierda, Steven: «¡Aquí se habla de cantar!»
-  - Página derecha: «Técnica, canciones, dudas de voz.»
-  - Etiqueta del ukulele: «¿Tienes un cover? Va a #demos-canto. Un hilo por cover.»
+  - Etiqueta del ukulele: «¿Tienes un cover? Va a #demos-canto.»
+  - Página derecha: «Un hilo por cover.»
+  - Todo sale del texto real del canal: «Hablar de cantar. Tus covers van a demos-canto, un hilo por cover.»
 - **Para que no quede plano:** paleta medida del atardecer de `GG` 11:00 (cielo `#F7F6CE`, nubes `#CD8891`, arena `#ECD2A3`, acantilado en silueta `#17251E`). Luz de borde cálida en el pelo de Steven. **El mástil del ukulele cruza la esquina de abajo**, delante de todo. Amatista desenfocada detrás; el mar con el grano de la serie.
 - **Lámina 2 (si se satura):** las etiquetas de #demos-canto (Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl, Balada, Rock, Pop, Anime OP/ED) escritas como la lista de canciones del cancionero.
 
@@ -1080,3 +1091,91 @@ Reglas del dueño que se aplican: un objeto real en un sitio real (hecho en Blen
 - Hex de las variantes de vestuario (Steven de la película y de *Future*, Purple Puma, Perla de Homeworld).
 - Si el entintado se hizo en Toon Boom Harmony; si los modelos 3D libres traen esqueleto.
 - Nombres latinos de *poof*, *Homeworld*, *Cheeseburger Backpack* y demás vocabulario (punto 17).
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | fichas de producción de los 4, concept art de 2012, *Art & Origins*, *Guide to the Crystal Gems*, arte de 3 juegos, portadas de cómic, fondos oficiales de CN; 3 hojas de contacto miradas |
+| 2 · Fotogramas de escenas icónicas | ✅ | 5 vídeos vistos con capítulo y minuto (`GG`, `STY`, `ANS`, `IOI`, `TRL`); `ANS` y las hojas en 1920×1080. `GG` en 1280×714 (recorte de un 1080p) |
+| 3 · Fan art y 3D con licencia | ✅ | 7 fan arts con autor, 11 modelos de Sketchfab con licencia y crédito (Big Donut y el grupo, CC BY), fotos CC de Openverse. Fan art de Steven y Amatista en Safebooru, vacío |
+| 4 · Sitios, luz, paleta y texturas | ✅ | 5 paletas medidas con `estilo.py` en fotogramas + la color key oficial; texturas CC0 de ambientCG |
+| 5 · Tipografía por uso | ⚠️ | logo, cartelas y créditos con letra libre (Crewniverse ✅ con tildes, ñ, ¿, ¡; Creditverse sin ellas; Crystal Universe sin comprobar). Globo, grito, pensamiento y onomatopeya sólo existen en el cómic: rotulista no encontrado. Interfaz de juego sin identificar (Game UI Database bloqueado) |
+| 6 · Cómo hablan en pantalla | ⚠️ | la serie no usa globos (comprobado); su «cuadro» es la cartela, el Comunicador y el Gem Glyph. Sin ver el diseño exacto de la cartela, del globo del cómic ni de las cajas de los juegos |
+| 7 · Personajes y popularidad | ⚠️ | Danbooru (cifra exacta: Perla 1.ª), IGN (Garnet 1.ª, una fuente), Reddit y favoritos del equipo. No hay encuesta oficial de Cartoon Network (buscada en inglés y español) |
+| 8 · Doblaje latino y frases | ⚠️ | los 4 principales con dos fuentes; 4 muestras oídas con `voz.py` (frases textuales, minuto, tono). Secundarios con una fuente. Ninguna frase sale de un clip oficial doblado con capítulo |
+| 9 · Música y sonido | ✅ | opening (oído), cierre, canciones emotivas con capítulo, 8 discos oficiales, instrumentos, *poof* y sonido de sacar arma. Sin página de efectos de sonido en la wiki |
+| 10 · Vídeos y tendencias | ⚠️ | tráiler y TikToks con minuto vistos; 3 tráileres de Dailymotion y los análisis (Saberspark, PhantomStrider, pódcast) sólo por ficha. YouTube pide iniciar sesión |
+| 11 · Videojuegos | ⚠️ | 6 juegos con mecánica e interfaz por texto («harmony», «starpower», cuadrícula de diamante, Gem Glyph). Sin capturas de caja de diálogo ni menús: Game UI Database y TCRF bloqueados |
+| 12 · Fandom y qué NO hacer | ✅ | memes con dos fuentes, hilos de Reddit con votos y 9 reglas de qué no hacer (la de no adelgazar, con dos fuentes) |
+| 13 · Personajes a fondo | ⚠️ | los 4 principales, Lapis y Peridot a fondo (carácter, miedos, arco, voz medida, dinámicas). Faltan 9 de 20 caras por emoción con minuto; Connie y Greg sin ficha completa |
+| 14 · Poses analizadas | ✅ | 8-10 poses por personaje con minuto o número de hoja y su uso; tabla de qué pose para qué. Faltan algunas combinaciones (dicho en el punto) |
+| 15 · Vestuario con hex | ✅ | 19 hex medidos en fichas de producción; lo icónico y las variantes. Variantes sin hex (dicho) |
+| 16 · Ciudades y fondos de pantalla | ✅ | 12 sitios con luz y hora; 10 fondos con tamaño y autor u origen (3 oficiales de CN) |
+| 17 · Guía para IA de imagen y texto | ✅ | escrita por el redactor: rasgos fijos con hex, línea, sombra, luz, encuadre, palabras que ayudan y que estropean, referencias, prompt; voz por personaje con 11 frases reales por emoción y vocabulario |
+| 18 · Estilo y técnica | ✅ | Storyboard Pro, estudios coreanos, Chromosphere (After Effects y Blender), Bauhaus, guiones de color; receta de Photoshop y Blender. Harmony y los *rigs*, sin confirmar |
+| 19 · Texturas 2D | ⚠️ | papel CC0, tela CC0, grano, facetas, hexágonos, estrellas, Gem Glyph y emblema con enlace. Sin paquete CC0 de pinceles gouache, facetas ni *halftone*; sin logo en alta |
+| 20 · Gustos y detalles | ✅ | cumpleaños, altura, comida, aficiones, lo que odian, objeto y cómo se ven, de la Trivia de la wiki. Faltan cumpleaños de las Gemas (no aparecen) |
+| 21 · Por qué la aman | ✅ | premios con dos fuentes, Rotten Tomatoes, 4 razones; escena que hace llorar con minuto, dibujo y música (`IOI` 2:10) y las que hacen gritar y reír. Otras escenas del final, sin ver |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 7 fandubs, 2 covers y una versión en directo en México, con enlace. Sin vistas (YouTube) ni cuentas de TikTok |
+| 23 · Colaboraciones y cruces | ✅ | Brawlhalla y MultiVersus con dos fuentes, Adafruit, Gallery Nucleus, Comic-Con, 16 Funko, cosplay con materiales. Sin cafés ni parques (buscado) |
+| 24 · Obras parecidas | ✅ | influencias con episodio (Utena y Sailor Moon con dos fuentes), series de tono parecido, cruce con las biblias 14, 17, 29, 38, 58, 63 y 78 |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, 7 arcos, emblemas, Gem Glyph descifrado, objetos y vocabulario |
+| 3 conceptos de lámina | ✅ | A #🎵・canto (recomendado), B #🪪・presentaciones, C #📂・proyectos; cada uno con objeto, sitio, personaje, pose, cuadro, textos y profundidad |
+| 40 fuentes distintas | ✅ | más de 60 webs distintas enlazadas en el texto (`revisar.py`) |
+| Tipos de fuente: oficiales | ✅ | Cartoon Network, Chromosphere, Toon Boom, Abrams, BOOM! Studios, Business Wire, Adafruit |
+| Tipos de fuente: otros idiomas | ⚠️ | inglés y español. La obra es de EE. UU.; no se buscó en coreano (los estudios de animación son coreanos) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom en inglés y español, Doblaje Wiki, Brawlhalla Wiki, MultiVersus Wiki, Wikipedia. TV Tropes sólo citado; TCRF y Wayback dieron 403 |
+| Tipos de fuente: foros y redes | ✅ | Reddit (hilos con votos y el AMA de Rebecca Sugar), Tumblr, X/Twitter |
+| Tipos de fuente: arte | ✅ | Safebooru, Danbooru, DeviantArt, Wallhaven, Openverse. Sin Pixiv ni ArtStation propios |
+| Tipos de fuente: vídeo | ✅ | Internet Archive, Dailymotion y YouTube (enlaces), con minuto |
+| Tipos de fuente: código y recursos | ⚠️ | Sketchfab (API), ambientCG (API), DaFont con fontTools. No se usó GitHub |
+| Tipos de fuente: doblaje latino | ✅ | Doblaje Wiki por la API, ANMTV, ModoGeeks (entrevista), wiki en español |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 3 MB en `hojas/`, miradas y citadas por número |
+| `referencias.json` | ✅ | 152 referencias, las mejores primero; tamaños medidos de la wiki y las APIs |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las 4 partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md`) y lo que hizo el redactor. Idiomas: **inglés** (la obra es de EE. UU.) y **español** (doblaje y comunidad).
+
+**Recolector (`recolectar.py`, sin IA):** Doblaje Wiki (ficha, reparto y muestras de audio), Fandom (Steven y Garnet: imágenes y textos), Danbooru (recuentos y etiquetas), Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam (sin ficha de la serie) y Reddit. Fallaron: AniList (no aplica, es occidental) y las páginas «Amatista» y «Perla» (la wiki está en inglés: son *Amethyst* y *Pearl*).
+
+**Imagen**
+- `investigar_serie.py` con «Pearl» y «Amethyst» (108 imágenes, 90 grandes) además de Steven y Garnet; 3 hojas elegidas y miradas.
+- API de Fandom: `imageinfo` de unos 25 archivos (tamaños reales), `list=search` en el espacio de archivos, `prop=images` de Beach City, Beach House, el cómic y los juegos.
+- Sketchfab API (`q=Pearl Steven Universe`), ambientCG API (Rock, Sand, Wood, Fabric; Denim sin resultado).
+- Hex medidos con Pillow a mano (el *k-means* de `estilo.py` mezclaba el fondo transparente con la línea negra).
+- Buscador, en inglés: artbook *Art & Origins*; portadas de BOOM!; Brawlhalla; MultiVersus y Battle Crashers; cosplay de los guanteletes; Funko; eventos y cafés; parque temático (sin resultado).
+- Fallaron: Safebooru con `steven_universe_(character)` y `amethyst_(steven_universe)` (vacío, dos intentos); páginas «Sky Arena», «Homeworld» y «Temple» sin imágenes.
+
+**Vídeo**
+- Internet Archive, `advancedsearch.php` (`title:(steven universe) AND mediatype:(movies)`, 100 resultados) y una búsqueda por títulos («The Answer», «Reunited», «Jail Break», «Full Disclosure»). Cada vídeo comprobado con `/metadata/` antes de bajarlo. Descartados: el .rar de 8.4 GB y las *blind reactions*.
+- Vistos con `fotogramas.py`: `GG` entero cada 10 s, `STY` cada 3 s, `ANS` cada 8 s, `TRL` cada 2 s, `1S` cada 2 s, `TT` cada 3 s. 6 hojas miradas con Read y 5 fotogramas sueltos para medir paletas con `estilo.py`.
+- Fandom: `list=search` («list of songs», «Main Title Theme», «Crystal Temple», «onomatopoeia sound effect», «"poof" retreat gem») y el texto de 4 canciones y del disco.
+- Dailymotion: los clips del recolector comprobados; los franceses de 0:21-0:33 eran avisos de programación.
+- YouTube: pide iniciar sesión desde el servidor (plan B de AYUDANTE.md: Internet Archive y Dailymotion).
+
+**Voz y personajes**
+- Doblaje Wiki por la API (`action=parse`, texto entero: reparto, «Datos de interés», sesiones de grabación).
+- Fandom: «Personality» y «Trivia» enteras de Steven, Garnet, Amatista, Perla, Lapis y Peridot; la canción «It's Over Isn't It».
+- `voz.py` (Whisper local) sobre Steven.ogg, Garnet.ogg, Amatista.ogg y Perla.ogg: frase, Hz, semitonos y palabras por segundo.
+- `fotogramas.py` sobre `TIO` (22 fotogramas, cada 8 s) e `IOI` (16, cada 10 s); los `video.mp4` se borraron.
+- Rotten Tomatoes leída en directo el 25-sep-2026.
+- Buscador en español: los 4 actores principales, «encuesta personaje favorito oficial», fandubs y covers latinos, «fandub tiktok español» (sin resultado), «memes fandom hispano» (sin resultado). En inglés: ranking de IGN, premios, memes, la polémica del fan art, reseñas.
+- ⚠️ **Aviso de seguridad:** una búsqueda sobre representación LGBT devolvió enlaces envenenados con dominios universitarios falsos y rutas de adultos. No se abrieron ni se usaron; no hay ningún dato suyo en esta biblia.
+
+**Texto, juegos y técnica**
+- Fandom por la API: Gems, Gem Glyph, The Great Diamond Authority, The Cluster, Kindergarten, Crystal Temple, Diamond Communicator, los 3 juegos, Soundtrack Attack, Beach-A-Palooza, el cómic, Keep Beach City Weird, Rebecca Sugar; búsquedas «arc season story», «Temple Gate star», «thought bubble» (sin resultado).
+- Wikipedia en inglés: Steven Universe, la lista de episodios, Rebecca Sugar, Battle Crashers.
+- Buscador en inglés (13 búsquedas): software y Toon Boom; Bauhaus; línea y color; letra del logo; rotulista del cómic (sin resultado); influencias (Utena, Sailor Moon, Dragon Ball); series parecidas; interfaz de los juegos.
+- Leídas: Chromosphere, CBR, ScreenRant, el blog de Toon Boom, el análisis de Isaac Gordon.
+- `fontTools` sobre `crewniverse_font.ttf` y `creditverse_font.ttf` (14 caracteres cada una).
+- Bloqueados (dos intentos cada uno): **TCRF** (403 directo y por Wayback), **Game UI Database** (reto de Cloudflare), **comicosity.com** (DNS), **Wayback Machine** (403), la descarga de **Crystal Universe** (0 bytes).
+
+**Redactor (esta pasada)**
+- Leídas las 4 partes, los 5 `datos-*`, `ENCARGO.md`, `AYUDANTE.md`, `EQUIPO.md`, `PETICIONES.md`, `DECISIONES.md`, las reglas del dueño y el inventario (#🎵・canto, #🎼・demos-canto, #🪪・presentaciones, #📂・proyectos).
+- Miradas las 3 hojas; ampliada la n.º 36 para confirmar el Kindergarten.
+- Cruzado con otras biblias: la 14 (`grep` de «Drift Away»), la 29 (#canto), la 63 (aún sin biblia) y DECISIONES.md (38, 58, 17, 78).
+- `referencias.json` armado con las de `partes/*.json` y `datos.json`, sin repetir y sin lo que no es de la serie (Miku, Kirby, Sonic, un fondo de Mario).
+
+**Lo que no se encontró** (con las búsquedas de arriba): encuesta oficial de popularidad; rotulista y globo del cómic; letra de la interfaz de los juegos; cajas de diálogo de los juegos; página de efectos de sonido; vistas de fandubs; fandubs en TikTok; memes propios del fandom hispano; cafés o parques temáticos; logo oficial en alta; texturas CC0 de facetas y *halftone*; *rig* libre de los personajes; cumpleaños de las Gemas.
