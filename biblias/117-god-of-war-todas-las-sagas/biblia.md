@@ -791,3 +791,1032 @@ Mimir, Freya y Baldur: **sin caras con minuto** ⚠️ (sólo voz).
   fandom dice que sin Mimir el viaje «sería aburrido» (§14).
 
 ---
+
+## 9 · ¿Quién es el más querido?
+
+- **No hay encuesta oficial** de Sony o Santa Monica ⚠️ (buscada en
+  inglés y español).
+- **Dibujos de fans en Danbooru** (recuento en vivo, 25-sep-2026) ✅
+  ([Kratos](https://danbooru.donmai.us/posts?tags=kratos_%28god_of_war%29)):
+  Kratos **245** · Atreus 48 · Freya 24 · Thor 21 · Mimir 11 · Baldur 6 ·
+  Zeus 4 · Angrboda 3 · Odín 1. Brok y Sindri no tienen etiqueta.
+  (El ranking de `datos-voz.md` venía roto: traía personajes de otras
+  sagas.)
+- **Ranking «según Reddit»** de [ScreenRant](https://screenrant.com/god-of-war-best-characters-reddit/) ⚠️
+  sin votos: 1 Hefesto, 2 Deimos, 3 Hades, 4 Freya, 5 Kratos, 6 Mimir,
+  7 Sindri, 8 Atenea, 9 Atreus, 10 Jörmungandr.
+- **Brok y Sindri**: el hilo [«How many people on this subreddit love
+  sindri and brok»](https://reddit.com/r/GodofWarRagnarok/comments/1uh1fmi/how_many_people_on_this_subreddit_love_sindri_and/)
+  tiene **433 puntos y 62 comentarios** ✅ (Arctic Shift).
+- **«Reddit Decides GoW character quotes»** (el subreddit vota la frase
+  de cada personaje, día a día): Kratos 74 puntos (día 3), Mimir y
+  Atreus 40 (día 9), **Brok y Sindri 171** (día 11) ✅.
+- El hilo más votado del subreddit sobre la saga: [«Iconic 😍 The video
+  game saga of #GodOfWar over 20 years»](https://www.reddit.com/r/GodofWarRagnarok/comments/1qi0uj5/iconic_the_video_game_saga_of_godofwar_over_20/),
+  1207 votos ✅.
+
+**Conclusión**: el más querido es **Kratos** (el protagonista, esta vez
+sí). De los secundarios, **Brok y Sindri** despiertan tanto cariño como
+un protagonista, y **Mimir** es el favorito para explicar. Para una
+lámina de reglas o guía, Mimir; para una informal, los enanos.
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+### Qué juegos tienen doblaje latino
+
+- ***God of War* (2005), *II* y *III*: nunca se doblaron al latino**; se
+  jugaron subtitulados ✅.
+- ***Ascension* (2013)**: el primero, **en Argentina**, estudio The Sound
+  Studio / Vogo Sound Studios, dirección de Diego Calvar ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/God_of_War:_Ascension):
+  «el primer videojuego de la saga en ser doblado al español
+  latinoamericano»).
+- ***God of War* (2018)**: **Pink Noise, México**; dirección Eduardo
+  Garza, Beto Castillo y Alfonso Obregón; casting Eduardo Garza;
+  ingeniero Eduardo Robles; grabado a finales de 2017 ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/God_of_War) +
+  [ANMTV](https://www.anmtvla.com/2018/04/critica-doblaje-latino-de-god-of-war.html)).
+- ***Ragnarök* (2022)**: **Pink Noise, México**; dirección coral con
+  **Susana Moreno** (la voz de Atreus en 2018), Alan Fernando Velázquez,
+  Rick Loera, Alfonso Obregón, Rebeca Gómez, Beto Castillo, Gaby Willer,
+  Angélica Villa, Analiz Sánchez, Marc Winslow y Mario Heras; casting
+  Rebeca Gómez; productor Alejandro Lizardi ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/God_of_War_Ragnar%C3%B6k)).
+- ***Sons of Sparta* (2026)**: **Argentina**, estudio Sound in Words;
+  Kratos adulto grabado en México por Idzi Dutkiewicz ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/God_of_War_Sons_of_Sparta)).
+
+### Reparto latino (la tabla reconstruida por la parte de voz)
+
+✅ = Doblaje Wiki **y** ANMTV o la página de franquicia. ⚠️ = sólo
+Doblaje Wiki.
+
+| Personaje | Voz original | Latino 2018 | Latino *Ragnarök* | |
+|---|---|---|---|---|
+| Kratos | Christopher Judge | **Idzi Dutkiewicz** | Idzi Dutkiewicz | ✅ |
+| Atreus / Loki | Sunny Suljic | **Susana Moreno** | **Carlos Siller** | ✅ |
+| Freya | Danielle Bisutti | Annie Rojas | Annie Rojas (Betzabé Jara en *Valhalla*) | ⚠️ |
+| Mimir | Alastair Duncan | **Sergio Gutiérrez Coto** | Sergio Gutiérrez Coto | ✅ |
+| Baldur | Jeremy Davies | Enrique Cervantes | Enrique Cervantes (archivo) | ⚠️ |
+| Brok | Robert Craighead | **Beto Castillo** | Beto Castillo | ✅ |
+| Sindri | Adam J. Harrington | Enzo Fortuny | Enzo Fortuny | ⚠️ |
+| Odín | Richard Schiff | — | Jorge Ornelas | ⚠️ |
+| Thor | Ryan Hurst | — | Raúl Solo | ⚠️ |
+| Týr | Ben Prendergast | — | Óscar Flores | ⚠️ |
+| Angrboda | Laya DeLeon Hayes | — | Nycolle González | ⚠️ |
+| Zeus | Corey Burton | Blas García | — | ✅ |
+| Atenea | Carole Ruggier | Rebeca Manríquez | — | ✅ |
+| Ardilla Amargada (Ratatoskr) | Troy Baker / SungWon Cho | Ernesto Lezama | Armando Guerrero | ⚠️ |
+
+Unos 45 papeles más (valquirias, Sif, Heimdall, Freyr…) están en el
+wikitext de Doblaje Wiki, con una sola fuente ⚠️.
+
+**No confundir con el doblaje de España** ✅ (dirige Fernando Elegido;
+[2018](https://www.eldoblaje.com/datos/FichaPelicula.asp?id=52382),
+[Ragnarök](https://www.eldoblaje.com/datos/FichaPelicula.asp?id=67681)):
+Kratos es Rafael Azcárraga, Atreus Ramón de Arana, Mimir Gabriel
+Jiménez, Freya Sara Heras. **En el servidor, siempre los nombres
+latinos.**
+
+### Lo que dijo la crítica hispana (ANMTV, 26-abr-2018) ✅
+
+- Kratos (Idzi Dutkiewicz): «muy buen trabajo, pero me da la impresión
+  de que a veces fuerza demasiado su tono de voz».
+- Atreus (Susana Moreno): la voz «suena demasiado chillona», dice el
+  crítico.
+- Elogia a Brok, a Freya y sobre todo a **Mimir**, «magistral».
+- Conclusión: «bastante bueno», «muy superior» al argentino de
+  *Ascension*.
+
+### Datos de interés (Doblaje Wiki) ✅
+
+- El cambio de actor de Kratos entre sagas pasa también en inglés y en
+  casi todos los idiomas.
+- Para Atreus, Sony mandó de referencia la voz de una actriz haciendo de
+  niño: el casting fue sólo de actrices (también probaron Elsa Covián,
+  Isabel Martiñón y Laura Torres).
+- **Groserías y modismos latinos**, sobre todo en la Ardilla Amargada.
+- Casi todos los nombres mitológicos se dicen en español, salvo
+  **«Baldur»** (no «Balder») y **«Atreus»** (no «Atreo»).
+- *Ragnarök*: Eduardo Garza no volvió (lo despidieron de Pink Noise);
+  Ernesto Lezama se retiró; Annie Rojas no repitió en *Valhalla* porque
+  pidió grabar a distancia y no la llamaron
+  ([su mensaje en X](https://x.com/AnnieRojas_/status/1905056752040587320)).
+- Las frases en nórdico antiguo de los einherjar **no se doblan**; las
+  de los berserkers en danés, sí.
+- **Guiño local**: al rescatar un Ciervo Estacional, Kratos dice **«No me
+  simpatizas»**, la frase de Quico (*El Chavo del 8*).
+- Errores documentados: «Sir» siempre como «Sí, señor»; Kratos dice
+  «Deimos» distinto al resto; a Eir la llaman «ese miserable».
+
+### Frases textuales del doblaje latino (con minuto)
+
+Oídas con `voz.py` (Whisper) sobre las **muestras oficiales** de Doblaje
+Wiki; nombres propios revisados a oído ✅.
+
+- **Kratos** (2018,
+  [Kratos_GOD4.ogg](https://static.wikia.nocookie.net/doblaje/images/3/3e/Kratos_GOD4.ogg/revision/latest?cb=20250219180611&path-prefix=es)):
+  - 0:00 «Cierra tu corazón. En este viaje nos van a atacar todo tipo de
+    criaturas.»
+  - 0:06 «Cierra tu corazón a su desesperación, cierra tu corazón a su
+    sufrimiento.»
+  - 0:11 «No sientas lástima por ellos. Ellos no sentirán lástima por ti.»
+- **Kratos** (*Ragnarök*,
+  [GoWRAG_Kratos.ogg](https://static.wikia.nocookie.net/doblaje/images/9/9c/GoWRAG_Kratos.ogg/revision/latest?cb=20250220163841&path-prefix=es),
+  0:00-0:18): «Tu madre... caló en mí. Me dio el espacio para encontrar
+  mi camino, pero tienes razón, Atreus. Ella fue mi guía. Puede que
+  nuestras acciones en Alfheim no traigan la paz, pero al acabar con la
+  tormenta y devolver la luz a esta tierra, quizás hayamos plantado las
+  semillas.»
+- **Atreus** (2018,
+  [Atreus_Loki_GOD4.ogg](https://static.wikia.nocookie.net/doblaje/images/7/78/Atreus_Loki_GOD4.ogg/revision/latest?cb=20250219180541&path-prefix=es),
+  0:00-0:10): «Crees que soy débil porque no soy como tú […] sé que nunca
+  he sido lo que querías.»
+- **Baldur** (2018,
+  [GOW4_Baldur.ogg](https://static.wikia.nocookie.net/doblaje/images/9/9a/GOW4_Baldur.ogg/revision/latest?cb=20250219180601&path-prefix=es),
+  0:00-0:24): «¡Ah! Cuando Odín me mandó aquí, sólo necesitaba
+  respuestas, pero tú tenías que darte aires. ¡Lánzame lo que tengas a
+  mano! […] Seguiré viniendo, ese viejo cuerpo fallará […] ¡No siento
+  nada!»
+- **Freya** (2018,
+  [GOW4_Freya.ogg](https://static.wikia.nocookie.net/doblaje/images/5/57/GOW4_Freya.ogg/revision/latest?cb=20250219180604&path-prefix=es),
+  0:06-0:28): «El árbol de la vida está ligado al destino del mundo, al
+  igual que nosotros […] Nacimiento, crecimiento, muerte, renacimiento.»
+- **Mimir** (2018,
+  [GOW4_Mimir.ogg](https://static.wikia.nocookie.net/doblaje/images/c/c9/GOW4_Mimir.ogg/revision/latest?cb=20250219180607&path-prefix=es),
+  0:00-0:11): «Soy el mayor embajador de los dioses, de los gigantes y de
+  todas las criaturas de los Nueve Reinos […] Me llaman Mimir, el hombre
+  más listo que existe.»
+- **Thor** (*Ragnarök*,
+  [GoWRAG_Thor.ogg](https://static.wikia.nocookie.net/doblaje/images/3/38/GoWRAG_Thor.ogg/revision/latest?cb=20250220163914&path-prefix=es),
+  0:00-0:04): «¿Te crees que puedes venir aquí, convertirte en padre,
+  empezar de nuevo? Así no es como funciona. Eres un destructor, como yo.»
+- **Sin transcribir** (quedan en Doblaje Wiki para quien las necesite):
+  [Brok](https://static.wikia.nocookie.net/doblaje/images/7/76/Brok_GOD4.ogg/revision/latest?cb=20250219180543&path-prefix=es),
+  [Sindri](https://static.wikia.nocookie.net/doblaje/images/e/e2/GOW4_Sindri.ogg/revision/latest?cb=20250219180609&path-prefix=es),
+  [Atenea](https://static.wikia.nocookie.net/doblaje/images/6/6c/Athena_GOD4.ogg/revision/latest?cb=20250219180539&path-prefix=es),
+  [Zeus](https://static.wikia.nocookie.net/doblaje/images/6/63/Zeus_GOD4.ogg/revision/latest?cb=20250219180640&path-prefix=es),
+  la Ardilla y las valquirias ⚠️.
+- **«Boy» en latino es «chico»** (parte de voz). La frase griega «¡Mortal
+  insensato!» / «Insolent whelp!» sale de memoria, sin comprobar en un
+  doblaje ⚠️ (la trilogía griega no tuvo doblaje latino).
+- **Sin clips oficiales doblados** en YouTube accesibles desde aquí ⚠️.
+
+---
+
+## 11 · Música y sonido
+
+No hay opening ni ending: la música es la banda sonora de cada juego.
+
+### Compositores
+
+- **Saga griega: Gerard K. Marino**, con Mike Reagan, Cris Velasco, Ron
+  Fish y Winifred Phillips según la entrega ✅✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/2caaea4c-11ff-3a09-a23c-5a22e9718e20)
+  y los **créditos del propio juego**, vistos al final del longplay de
+  2005: «Original Score Composed by: Gerard Marino, Mike Reagan, Ron Fish,
+  Winifred Phillips with Winnie Waldron, Cris Velasco, Marcello De
+  Francisci» y «Music Director: Chuck Doud»,
+  [18:00](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=1080)).
+  Marino fue nominado al BAFTA por *II*
+  ([wiki](https://godofwar.fandom.com/wiki/Gerard_Marino)).
+- **Excepción**: *Ascension* (2013) la firma **Tyler Bates** según
+  [MusicBrainz](https://musicbrainz.org/release-group/5a04ce5c-b38b-4857-8e47-5bcc3bce6601)
+  ⚠️ (la parte de vídeo decía que el compositor no cambia dentro de la
+  saga griega; *Ascension* es la que no encaja).
+- **Saga nórdica: Bear McCreary** ✅✅
+  ([2018](https://godofwar.fandom.com/wiki/God_of_War_(2018)_Soundtrack),
+  [Ragnarök](https://godofwar.fandom.com/wiki/God_of_War_Ragnar%C3%B6k_(Original_Soundtrack)),
+  [MusicBrainz](https://musicbrainz.org/release-group/5c8eb21c-4073-45eb-81d1-d4d5eb1a97b2)).
+  El disco de 2018 ganó el **BAFTA** a mejor banda sonora. Voz destacada:
+  **Eivør Pálsdóttir** (feroesa). *Ragnarök* suma letras e
+  interpretación de **Hozier**.
+- *Sons of Sparta* tiene disco propio (26 pistas; una canción,
+  «Brotherhood», con el rapero Logic) ⚠️ una fuente, sin investigar.
+
+### Qué suena en las escenas emotivas ⚠️
+
+Por el título y el orden del tracklist oficial; **no se oyó sonando en
+la escena**:
+- **«Memories of Mother»** (feat. Eivør), 2018: los recuerdos de Faye.
+- **«Remembering Faye»**, *Ragnarök*: el mismo tema de duelo.
+- **«The Reach of Your Godhood»**, 2018: el clímax sobre quién es
+  Kratos.
+
+### Efectos de sonido (el equipo de sonido lo cuenta)
+
+Del mini-documental oficial **«The Sound of God of War»**, transcrito
+entero con `voz.py`. Habla el diseñador de sonido líder **Mike
+Niederquell** (rotulado en 0:18). Confirmado en asoundeffect.com
+(«Behind the award-winning sound of 'God of War'») y en Shacknews («God
+of War interview: Building a world out of sound») ✅✅; la parte no guardó
+sus enlaces.
+
+- **El Hacha Leviatán**: el «whoosh» de vuelta a la mano **se adelanta o
+  se retrasa según la distancia**, para que «siempre termine en whoosh
+  justo al caer en tu mano»
+  ([4:09](https://www.dailymotion.com/video/x75bv9a?t=249)). El golpe es
+  un «thud» húmedo y pesado que se oye **por encima de todo**, incluso de
+  los gritos de Kratos ([3:33](https://www.dailymotion.com/video/x75bv9a?t=213)).
+- **La voz de Jörmungandr, la Serpiente del Mundo**: canto de garganta
+  con autotune, más **ronroneo de gatito, resoplido de búfalo, rugido de
+  tigre y clics de beluga**
+  ([1:18](https://www.dailymotion.com/video/x75bv9a?t=78)). Suena a un
+  zumbido grave, como un didgeridoo.
+- **Alas de los elfos oscuros**: una **bramadera** casera (tabla ovalada
+  girando en una cuerda) ([4:34](https://www.dailymotion.com/video/x75bv9a?t=274)).
+- **Pisadas de criaturas de carne**: grabadas **caminando sobre bistecs
+  crudos** ([5:05](https://www.dailymotion.com/video/x75bv9a?t=305)).
+- **«Boy» → «son»**: «los sonidos de la paternidad en el juego son
+  "boy", y al final es "son"». El cambio de palabra **es un efecto de
+  sonido** pensado ([5:57](https://www.dailymotion.com/video/x75bv9a?t=357)) ✅.
+- La idea general del juego es del director **Cory Barlog**.
+
+**Onomatopeyas que todos reconocen**: el «whoosh» y el «thud» del
+hacha, el zumbido de la Serpiente y el **gruñido de Kratos**. El juego no
+las escribe en pantalla (§6).
+
+---
+
+## 12 · Vídeos y tendencias
+
+### Los 13 vídeos mirados (hojas con `fotogramas.py`)
+
+| # | Vídeo | Dónde | Dura |
+|---|---|---|---|
+| 1 | God of War (2018), tráiler PS4 | [Dailymotion](https://www.dailymotion.com/video/x8kowmz) | 2:56 |
+| 2 | *Ascension*, «Ares God Trailer» | [Dailymotion](https://www.dailymotion.com/video/xv3hg7) | 1:39 |
+| 3 | *Ragnarök*, cinemática «Padre e Hijo» | [Dailymotion](https://www.dailymotion.com/video/x8ca7zx) | 0:30 |
+| 4 | God of War Collection (PS3), tráiler | [Dailymotion](https://www.dailymotion.com/video/x8bb7lu) | 2:05 |
+| 5 | *Chains of Olympus*, «Coming 2008» | [Dailymotion](https://www.dailymotion.com/video/x4pow1) | 1:20 |
+| 6 | «The Sound of God of War», documental oficial | [Dailymotion](https://www.dailymotion.com/video/x75bv9a) | 7:55 |
+| 7 | *Ragnarök*, «Secret Ending & Bonus Scenes» | [Dailymotion](https://www.dailymotion.com/video/x8qej41) | 3:03 |
+| 8 | *Ragnarök*, visión de Kratos joven y el oso | [Dailymotion](https://www.dailymotion.com/video/x92n352) | 5:18 |
+| 9 | *Ghost of Sparta*, tráiler | [Dailymotion](https://www.dailymotion.com/video/x5mefjv) | 1:58 |
+| 10 | God of War (2005), longplay parte 1 | [Internet Archive](https://archive.org/download/LP_God_of_War/godofwar_01.ogv) | 12:45 |
+| 11 | God of War (2005), longplay parte 26 (final) | [Internet Archive](https://archive.org/download/LP_God_of_War/godofwar_26.ogv) | 18:45 |
+| 12 | *God of War II*, longplay parte 1 | [Internet Archive](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv) | 18:39 |
+| 13 | *God of War III*, longplay parte 24 (final) | [Internet Archive](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv) | 17:44 |
+
+Además, con `episodio.py`: el **tráiler de *Ragnarök*** plano a plano
+([Dailymotion](https://www.dailymotion.com/video/x8do3jy), 3:01) y la
+**apertura de *III*** ([Internet Archive](https://archive.org/details/LP_God_of_War_3)).
+Frases del tráiler de *Ragnarök*, en inglés, con minuto ✅:
+- [0:00](https://www.dailymotion.com/video/x8do3jy?t=0) «Everyone keeps
+  secrets. Sometimes it's the only way to protect the ones we love.» ·
+  «God killer.» · «What is it you will not tell me?» · «I can't talk
+  about it. But I just need you to trust me.»
+- [1:00](https://www.dailymotion.com/video/x8do3jy?t=60) «Because all
+  that matters is that you are safe.» · «But that's not all that
+  matters.» · «You don't care about anything beyond yourself. Beyond the
+  monster who kills without cause.»
+
+### Análisis y charlas del estudio
+
+- **GDC 2019, «The Sound Design for God of War»** (Niederquell):
+  [gdcvault.com/play/1026054](https://gdcvault.com/play/1026054) ⚠️ no
+  mirada.
+- **GDC 2023, la interfaz de *Ragnarök*** (Zach Bohn), vía 80.lv (§6) ✅.
+- **GDC, la cámara de un solo plano** y **«Keyframes and Cardboard
+  Props»** (§19) ✅.
+- **Comparativa de doblajes** España, Latinoamérica e inglés (Vandal):
+  [Dailymotion](https://www.dailymotion.com/video/x72mmh3), 258 s ✅.
+
+### Tendencias ⚠️ (existen, sin vistas comprobadas)
+
+TikTok no deja leer vistas desde aquí.
+- [#god-of-war-boy](https://www.tiktok.com/discover/god-of-war-boy?lang=en)
+  y «i-am-a-god-boy» (la frase «I'm a God, boy» de Kratos a Atreus).
+- [«I'm done with you and your son»](https://www.tiktok.com/discover/im-done-with-you-and-your-son-thor),
+  frase de Thor en *Ragnarök*.
+- Montajes de Atreus con *Beautiful Boy* de John Lennon.
+- Reddit: [Free Bird sobre una escena de *Ragnarök*](https://www.reddit.com/r/GodofWarRagnarok/comments/17mivuj/slight_spoiler_i_put_free_bird_over_an_iconic_god/) ✅.
+
+---
+
+## 13 · Los videojuegos: interfaz, menús y cajas de diálogo
+
+God of War **es** la franquicia de videojuegos. Todos en tercera persona;
+el HUD siempre en una esquina de la izquierda.
+
+| Juego | Salud | Magia | Ira | Lo propio |
+|---|---|---|---|---|
+| *God of War* (2005) | Barra **roja** arriba a la izquierda | Barra **azul** | «Rage of the Gods», se llena con orbes rojos | Contador de **orbes rojos** (la moneda de mejora); combos por golpe |
+| *II* (2007) | Roja | Azul | «Rage of the Titans», orbes **dorados** | Igual, pulido |
+| *III* (2010) | Roja | Azul | «Rage of Sparta», orbes **blancos** | Nueva **barra amarilla de objetos** (crece con Cuernos de Minotauro) |
+| *Chains of Olympus* y *Ghost of Sparta* (PSP) | Mismo esquema de orbes | | Ira propia | ⚠️ diferencias sin comprobar |
+| *Ascension* (2013) | Roja | Azul | Propia | **HUD de multijugador** ⚠️ |
+| *God of War* (2018) | Barra **verde amarilla** mínima, abajo a la izquierda | Ya no hay magia | **Ira Espartana** junto a la salud | **Modo Inmersivo** (sin HUD); **Codex** en vez de bestiario; **ataques rúnicos** en vez de hechizos; sin números de combo |
+| *Ragnarök* (2022) | Igual, refinado | — | Ira Espartana | **HUD de combate** + **HUD de compañero**; un aviso a la vez; hasta 3 barras de jefe; más de 80 tutoriales y más de 70 opciones de accesibilidad |
+| *Valhalla* (DLC, 2023) | Kratos **pierde armadura y runas** al entrar | — | «Sellos de Maestría» | Dificultad tipo **roguelike** elegida al empezar cada partida |
+
+Fuentes ✅: [wiki: Orbs](https://godofwar.fandom.com/wiki/Orbs),
+[StrategyWiki](https://strategywiki.org/wiki/God_of_War_III/Items),
+[80.lv](https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface),
+[Variety](https://variety.com/2018/gaming/news/god-of-war-hud-1202750307/),
+[ScreenRant: Valhalla](https://screenrant.com/god-war-ragnarok-valhalla-new-features-dlc/),
+[Hardcore Gamer](https://hardcoregamer.com/videos/god-of-war-ragnarok-valhalla-dlc-adds-roguelike-action-next-week/481469/).
+
+**El gran cambio**: de **juntar orbes de colores** (rojo, azul, verde,
+dorado, blanco: lenguaje de recreativa) a **leer runas**. El HUD
+acompaña el cambio de tono: de un dios que arrasa marcadores a un padre
+que aprende a leer ✅.
+
+**Colores del HUD sin medir** ⚠️: las capturas de Steam son de
+marketing, sin interfaz.
+
+### Contenido descartado (TCRF y wiki de cortes)
+
+- The Cutting Room Floor sólo tiene páginas de *God of War II*:
+  [la del juego](https://tcrf.net/God_of_War_II) y
+  [la del prototipo](https://tcrf.net/Proto:God_of_War_II) ✅ (Cloudflare
+  no dejó leerlas; título por el buscador).
+- El **prototipo del 25-ene-2007** de *II* tenía otra magia («Ice, Atlas,
+  Poseidon Rage») ✅ ([Hidden Palace](https://hiddenpalace.org/God_of_War_II_(Jan_25,_2007_prototype))).
+- **Cortado** ✅ ([wiki: Cut Content](https://godofwar.fandom.com/wiki/Cut_Content)):
+  un Cíclope Armado y gigantes en *Ascension*; Artemisa jugable con
+  cuerpo de esfinge; en 2018, los «Norse Warriors» de la demo de 2015
+  (cambiados por los Hel-Walkers) y el «Drummer» de cuatro brazos
+  (cambiado por el Revenant); en *Ragnarök*, una misión larga de Sinmara
+  al final.
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### Lo que ama
+
+- **«Boy» / «Dad of Boy»** ✅ ([Know Your Meme](https://knowyourmeme.com/memes/dad-of-boy)):
+  nace el día del estreno, 20-abr-2018. Kratos casi nunca dice «Atreus»,
+  sólo «boy», seco. El 23-abr, la recopilación «Kratos diciendo Boy» pasa
+  de **620.000 vistas**; Jacksepticeye parodia el logo (3.800 retuits,
+  34.000 me gusta); un cosplay en Reddit supera los **10.000 puntos**. El
+  director buscaba «un término cariñoso» natural en un padre distante
+  ([ScreenRant](https://screenrant.com/god-of-war-why-kratos-calls-atreus-boy/)).
+  Es **EL chiste interno**: nació del fandom, así que usarlo no suena a
+  forzado.
+- **«I'm a God, boy»** y **«I'm done with you and your son»** (Thor):
+  frases de montaje en TikTok ⚠️.
+- **Brok y Sindri**: humor de enanos herreros, cada uno con su acento;
+  para muchos, lo que «humaniza» el tono serio (§9).
+- **Mimir**: «brought the necessary amount of levity», «can't imagine how
+  boring it would have been» sin él ([ScreenRant](https://screenrant.com/god-of-war-best-characters-reddit/)) ⚠️.
+- **Mimir es Puck** y la anécdota del aguamiel (§8) ✅.
+- **El guiño a *PlayStation All-Stars***: en *Ragnarök*, Mimir le
+  pregunta a Kratos por «un torneo… bestias, granujas, princesas,
+  no-muertos, autómatas y el mejor músico de la historia» ✅
+  ([ScreenRant](https://screenrant.com/god-war-ragnarok-playstation-allstars-reference-canon/)).
+- **«No me simpatizas»**, el Quico del doblaje mexicano (§10).
+- **El final de 2018** hace llorar años después (§22).
+
+### Qué NO hacer (lo que a un fan le parecería falso)
+
+1. **Kratos sonriente o gesticulando**: su registro es contenido, todo
+   pasa en la mandíbula y la mirada.
+2. **Mezclar eras sin querer** ✅ visto por el redactor:
+   - **Grecia**: piel **blanca de ceniza**, tatuaje rojo, perilla oscura,
+     cabeza rapada, Espadas del Caos, falda roja con greca.
+   - **Norte**: piel **morena**, el **tatuaje sigue rojo** (se ve en el
+     hombro en la captura de *Ragnarök*), **barba poblada**, calvo, Hacha
+     Leviatán o Espadas.
+   - La parte de imagen decía «tatuaje gris ceniza en el Norte» porque
+     midió un render griego mal etiquetado: **no hacer caso**.
+   - Las proporciones también cambian: más alto en Grecia (§8).
+3. **Burbuja blanca de cómic**: el juego no tiene globos; mejor un
+   subtítulo sin caja, el Codex o una runa grabada.
+4. **Atreus sólo «tierno»**: se le quiere por su arco (niño frágil →
+   Loki), no por ser mono. Tampoco «animificado» (§4).
+5. **Runas inventadas** o letras latinas decorativas en el mundo nórdico:
+   usar el Futhark de verdad (§26).
+6. **El Codex como una ficha fría**: es un cuaderno con bocetos.
+7. **Colores alegres**: el mundo es sombrío; un solo acento cálido.
+8. **Inventar colaboraciones**: **no hay** colaboración oficial con
+   *Monster Hunter World* (sólo un fan imitando la armadura) ✅.
+9. **Nombres de España**: en el servidor, Idzi Dutkiewicz, no Rafael
+   Azcárraga. Y «Baldur» y «Atreus», no «Balder» ni «Atreo».
+10. **La trilogía griega «doblada al latino»**: no existe; lo que hay son
+    fandubs (§23).
+
+---
+
+## 15 · Poses analizadas por personaje
+
+De los vídeos mirados por el equipo (§12) y de las hojas. Postura,
+manos, mirada, y para qué sirve.
+
+### Kratos (9 del vídeo + 3 de fotogramas sueltos)
+
+| # | Pose | Sirve para | Fuente |
+|---|---|---|---|
+| 1 | De pie en la cubierta, **Espadas del Caos en las manos**, mirada al frente | **presentar**, alerta | [1:30, 2005](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90) |
+| 2 | Contra Ares gigante: cadenas en arco, cuerpo echado adelante | luchar | [5:15, 2005](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=315) |
+| 3 | Solo al borde del acantilado al atardecer, brazos caídos, mira el horizonte | **pensar**, duelo | [10:30, 2005](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=630) |
+| 4 | **Sentado en el trono de Ares**, capa roja, un brazo en el reposabrazos, cabeza erguida | **celebrar** (llega al poder) | [14:15, 2005](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855) |
+| 5 | Agarra la cara de Atreus con una mano, el cuerpo entre el hijo y el peligro | **regañar**, proteger | [1:36, tráiler 2018](https://www.dailymotion.com/video/x8kowmz?t=96) |
+| 6 | Camina por la nieve con **la mano en el hombro de Atreus**, los dos miran al frente | **animar**, guiar | [0:20, Padre e Hijo](https://www.dailymotion.com/video/x8ca7zx?t=20) |
+| 7 | Sostiene a un Atreus herido, el brazo bajo el suyo | proteger, cuidar | [2:20, visión](https://www.dailymotion.com/video/x92n352?t=140) |
+| 8 | **Agachado hacia Atreus**, mano firme en su hombro, cara a cara | **explicar** | [4:00, visión](https://www.dailymotion.com/video/x92n352?t=240) |
+| 9 | Joven, sin canas: lanza el látigo de cadena en llamas al oso, torso girado, un pie adelante | luchar (joven) | [0:40, visión](https://www.dailymotion.com/video/x92n352?t=40) |
+| 10 | Apretón de antebrazo con otro guerrero, mirada fija | **saludar**, respeto | [2:36, tráiler Ragnarök](https://www.dailymotion.com/video/x8do3jy?t=156) ⚠️ |
+| 11 | Primer plano, pintura roja, mandíbula tensa | **regañar** en serio, rabia | [1:57, tráiler Ragnarök](https://www.dailymotion.com/video/x8do3jy?t=117) ⚠️ |
+| 12 | Apoyado de lado ante un árbol, **Hacha Leviatán en la mano**, mira abajo al espectador | **presentar** (tranquilo) | [captura de Steam 2018](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg) |
+
+### Atreus (6 del vídeo + 3 de fotogramas sueltos)
+
+| # | Pose | Sirve para | Fuente |
+|---|---|---|---|
+| 1 | Arco tenso hacia un jabalí tallado, un pie adelante, ceño concentrado | **pensar**, concentrarse | [0:24, tráiler 2018](https://www.dailymotion.com/video/x8kowmz?t=24) |
+| 2 | Junto al túmulo nevado, arco al hombro, mira a otro lado | pensar, duelo | [1:00, tráiler 2018](https://www.dailymotion.com/video/x8kowmz?t=60) |
+| 3 | Habla de cerca con su padre, **mano abierta explicando** | **explicar** | [0:20-0:22, Padre e Hijo](https://www.dailymotion.com/video/x8ca7zx?t=20) |
+| 4 | Cara conmocionada, boca entreabierta, mirada fija | sorprenderse | [5:00, visión](https://www.dailymotion.com/video/x92n352?t=300) |
+| 5 | **En la fogata** con Kratos y Mimir, comiendo, relajado | **animar** (grupo, descanso) | [2:24, epílogo](https://www.dailymotion.com/video/x8qej41?t=144) |
+| 6 | De pie, arco a la espalda, junto a Kratos ante un cofre nórdico que brilla | **presentar** (un objeto o un lugar) | [1:30, epílogo](https://www.dailymotion.com/video/x8qej41?t=90) |
+| 7 | Varios planos de arco tensado, mirada fija al blanco | concentrarse, acción | [0:47-0:55, tráiler Ragnarök](https://www.dailymotion.com/video/x8do3jy?t=52) ⚠️ |
+| 8 | Tendido de costado, sin mirar a cámara | derrota, cansancio | [1:15, tráiler Ragnarök](https://www.dailymotion.com/video/x8do3jy?t=75) ⚠️ |
+| 9 | Encarado de perfil con Kratos, muy cerca, sin sonreír | **discutir** con su padre | [1:02, tráiler Ragnarök](https://www.dailymotion.com/video/x8do3jy?t=62) ⚠️ |
+
+De las hojas: Atreus de pie en la niebla (`personajes_01.jpg` #17),
+tensando el arco ante un paisaje (#47), cara de cerca (#45).
+
+### Resumen: qué pose para qué
+
+| Para… | Kratos | Atreus |
+|---|---|---|
+| **Presentar** | #1 cubierta o #12 junto al árbol | #6 ante el cofre |
+| **Explicar** | #8 agachado, mano en el hombro | #3 mano abierta |
+| **Celebrar** | #4 en el trono (la serie casi no celebra) | #5 fogata ⚠️ |
+| **Regañar** | #5 o #11 | #9 encarado |
+| **Pensar** | #3 acantilado | #1 o #2 |
+| **Animar** | #6 mano en el hombro | #5 fogata |
+
+**Mimir, Freya, Brok y Sindri**: sin poses con minuto ⚠️. De las hojas:
+Mimir con Kratos y Atreus junto a un árbol (`fondos_01.jpg` #510), Brok
+en su tienda (`vestuario_01.jpg` #392), Freya con Atreus (#393).
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Hex medidos con `estilo.py` por el investigador de imagen. **Ojo a la
+corrección**: el render `Kratos_gospng.png` que midió es de la **era
+griega** (visto por el redactor: piel de ceniza, tatuaje rojo, Espadas,
+falda roja con greca), no de la nórdica.
+
+### Kratos, era griega (2005-2013)
+
+- **Medido** en el [render `Kratos_gospng.png`](https://static.wikia.nocookie.net/godofwar/images/6/65/Kratos_gospng.png)
+  (4096×5358): `#9E8E80` (el tono más claro: la **piel de ceniza**),
+  `#341409` y `#4D2618` (rojo marrón oscuro: falda y botas), `#5C483A`
+  y `#7B6959` (cuero de las correas) ✅ medido; ⚠️ qué hex es qué prenda,
+  por interpretación del redactor.
+- **Tatuaje rojo** que cruza el cráneo y la cara, y baja en espiral por
+  un hombro y el pecho ✅ (visto en la hoja `personajes_01.jpg` #1-3 y en
+  `vestuario_01.jpg` #387 y #404). Hex del tatuaje **sin medir** ⚠️; como
+  referencia de rojo de la saga, la Caja de Pandora `#78130C`.
+- **Ropa** ✅: falda espartana con cinturón de cuero, brazo izquierdo
+  vendado, sandalias con correas altas; en *III*, hombreras y grebas
+  doradas tras conseguir la Armadura de Zeus o de Ares.
+- *Ascension*: piel más pálida, **cadenas rotas colgando de las muñecas**
+  ✅. De joven (*Sons of Sparta*, la wiki): tela marrón sobre los hombros,
+  manta espartana con dibujos naranjas, brazo izquierdo vendado,
+  descalzo ⚠️.
+- **Simbolismo de color** del juego ✅ ([wiki: Colors](https://godofwar.fandom.com/wiki/Colors)):
+  azul claro = objetos y poderes del Olimpo; azul oscuro = el mar y sus
+  dioses. Por eso la interfaz y algunas armas griegas son azules aunque
+  la piel y el cuero sean tierra.
+
+### Kratos, era nórdica (2018-2022)
+
+- Visto por el redactor en las capturas de Steam ✅: **calvo, barba
+  poblada gris castaña, piel morena**, el **tatuaje rojo** todavía en el
+  hombro y el brazo; hombrera de cuero con escamas, brazales vendados,
+  cinturón con placas grabadas. **Hex de piel sin medir** ⚠️.
+- **La ropa icónica**: torso desnudo con arnés de cuero cruzado,
+  hombrera y falda de cuero (*God of War* 2018). Es la imagen de marca
+  que usan el key art, la figura de NECA, la skin de Fortnite y la
+  portada del artbook ✅ (cuatro fuentes).
+- **Armaduras medidas en iconos de inventario**:
+  - **Armadura de Ares** (2018, [icono 640×1026](https://static.wikia.nocookie.net/godofwar/images/2/21/GOW-AresSet.png)):
+    cuero `#795E67` (malva ciruela) y `#4D3641`. El lila `#A2BAF4` es el
+    fondo del icono, no la prenda ✅.
+  - **Set Berserker** (*Ragnarök*, [icono 562×821](https://static.wikia.nocookie.net/godofwar/images/a/ad/Ragnarok_Armor-Berserker.png)):
+    `#243648` azul petróleo, `#453D39` marrón cálido, `#838989` gris
+    piedra ✅.
+- **«Odisea Oscura»** (20.º aniversario, marzo 2025): traje **negro y
+  dorado** gratis para Kratos, ropa a juego para Atreus, vestido de bruja
+  para Freya y aspectos nuevos del Hacha, las Espadas, la Lanza de
+  Draupnir y 6 escudos ✅
+  ([blog de PlayStation en español](https://blog.es.playstation.com/2025/03/14/celebramos-el-vigesimo-aniversario-de-god-of-war-con-la-coleccion-odisea-oscura-de-god-of-war-ragnarok/)).
+  Sin medir ⚠️.
+
+### Atreus
+
+- **Medido** en [`Atreus.png`](https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png)
+  (2481×3508): piel clara `#A79284` `#CAB7AE`; piel de lobo y cuero
+  `#48382E` `#62554C`; un óxido `#904628` (sombra de la bufanda o del
+  cordón) ✅.
+- **La Túnica de la Esperanza**: el azul del icono (`#60749D`,
+  `#7B99D0`) es el fondo de rareza del juego, **no la tela** ⚠️.
+- **Cómo es** ✅ ([wiki: Atreus#Appearance](https://godofwar.fandom.com/wiki/Atreus#Appearance)):
+  en 2018 tiene **once años**, **pelo rojizo**, cara pálida, pecas
+  suaves, **ojos azul hielo** y una marca pálida en la cara como la de su
+  tío Deimos. **Runas nórdicas** en los brazos y el lado derecho de la
+  nuca (de su madre). **Piel de lobo** sobre camisa de malla gastada;
+  **bufanda amarilla** de su madre escondida bajo la ropa; carcaj con
+  correa de cáñamo y cuero al hombro izquierdo; cuerda de malla como
+  cinturón, con **el cuchillo de su madre**; falda de cuero. (Danbooru
+  le pone `brown_hair`: entre castaño y rojizo ⚠️.)
+
+### Freya, Mimir, Brok, Sindri, Thor
+
+- Sin hex medidos ⚠️. Ropa real en las **guías oficiales de cosplay**
+  (§3) y en las hojas (`vestuario_01.jpg` #392, #393, #420).
+
+### Vocabulario de las IA (Danbooru, lo que más se repite al dibujarlos)
+
+- **Kratos**: `male_focus, muscular, facial_hair, bald, beard,
+  bodypaint, weapon, mature_male, chain_blades, tattoo, scar, pale_skin,
+  blades_of_chaos, armor, belt, holding_weapon`.
+- **Atreus**: `short_hair, blue_eyes, brown_hair, bow_(weapon),
+  fur_trim, scar_on_face, child, yellow_shirt, arrow_(projectile)`.
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+### Los sitios, con su luz y su hora
+
+| Sitio | Hora y luz | Dónde verlo |
+|---|---|---|
+| **Bosque de Midgard** (casa de Kratos y Atreus) | Amanecer con niebla, contraluz frío | [Steam 2018](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg); [nieve, 0:20](https://www.dailymotion.com/video/x8ca7zx?t=20) |
+| **Bosque nevado**, visión de Kratos joven | Atardecer azul gris | [4:20](https://www.dailymotion.com/video/x92n352?t=260) |
+| **Ruinas heladas** (*Ragnarök*) | Día nublado, luz turquesa plana | [Steam Ragnarök](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg) |
+| **Raíces de Yggdrasil** con el cofre | Niebla violeta, noche o penumbra | [1:30](https://www.dailymotion.com/video/x8qej41?t=90) |
+| **Campamento con fogata** | Noche, luz de fuego | [2:24](https://www.dailymotion.com/video/x8qej41?t=144) |
+| **Cumbre de Jötunheim** (final de 2018) | ⚠️ sin mirar | §22 |
+| **Mar Egeo**, barco de guerra | Amanecer | [0:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=30) |
+| **Pasillos de Atenas** | Interior oscuro, oliva | [1:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90) |
+| **Coliseo en llamas** (duelo con Ares) | Fuego | [4:30](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=270) |
+| **Acantilado** | Atardecer | [10:30](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=630); hoja `fondos_01.jpg` #482 |
+| **Trono de Ares** en el Olimpo | Interior, capa y estandartes rojos | [14:15](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855); hoja `fondos_01.jpg` #486-488 |
+| **Puerto de Rodas** | Noche de luna | [3:30](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=210) |
+| **Esparta** | Sol mediterráneo | [Sparta_1.jpg](https://static.wikia.nocookie.net/godofwar/images/9/91/Sparta_1.jpg) |
+| **Ruinas bajo el agua** (*Ghost of Sparta*) | Turquesa saturado | [1:20](https://www.dailymotion.com/video/x5mefjv?t=80) |
+
+Paletas medidas de cada uno: §5. Más sitios en las hojas (templos con
+columnas y antorchas, el Egeo, salones dorados del Olimpo): §3.
+
+### Los Nueve Reinos (el mapa del mundo nórdico) ✅
+
+Midgard, Alfheim, Asgard, Vanaheim, Niflheim, Muspelheim, Helheim,
+Svartalfheim y Jötunheim, colgados de **Yggdrasil**, más el **Reino
+Entre Reinos** ([wiki: Nine Realms](https://godofwar.fandom.com/wiki/Nine_Realms)).
+El Art Blast de *Ragnarök* muestra Nidavellir, Niflheim y Vanaheim (§3).
+
+### Fondos de pantalla
+
+- **Oficiales descargables**: **no se encontraron** ⚠️. La página del
+  20.º aniversario del estudio no carga sin JavaScript.
+- **Oficiales en 4K de la wiki**: [«Surviving Fimbulwinter 3»](https://static.wikia.nocookie.net/godofwar/images/5/5d/Surviving_Fimbulwinter_3.jpg)
+  y [«Surviving Fimbulwinter 2»](https://static.wikia.nocookie.net/godofwar/images/8/8a/Surviving_Fimbulwinter_2.jpg),
+  3840×2160 cada uno ⚠️ (origen oficial sin confirmar).
+- **Capturas oficiales de Steam** 1920×1080: 10 de 2018 y 15 de
+  *Ragnarök* (§3), más 6 de la edición Deluxe.
+- **Wallhaven**: sólo **1 de 15** es de la serie:
+  [`wallhaven-7p39gy`](https://w.wallhaven.cc/full/7p/wallhaven-7p39gy.png),
+  1920×1080, ♥575, «God of War (2018), fire, axes, table», sin autor ⚠️.
+  Los demás eran de otras sagas (Wallhaven no filtra bien el nombre).
+- **Fotos de Flickr** del tipo «God of War iPhone wallpaper» (320×480):
+  demasiado pequeñas.
+
+---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Hecha por el redactor con todo lo anterior. Sirve para Firefly, Canva o
+cualquier IA de imagen, y para una IA de texto que escriba los diálogos.
+**Primero decide la era**: griega o nórdica. Nunca las dos a la vez sin
+querer (§14).
+
+### A. Para una IA de imagen
+
+**Estilo general (las dos eras)**
+- Render 3D **realista y pictórico**, como un videojuego AAA de PS5: sin
+  contorno de tinta, sin *cel shading*. Piel con poros, cuero gastado,
+  metal rayado, barro, nieve o sangre **por zonas** (§19).
+- **Paleta desaturada con un solo acento cálido** (fuego, runa,
+  semilla).
+- Cámara **al hombro, muy cerca**, el personaje algo descentrado; para
+  escala, contrapicado y gran angular (§19).
+
+**Rasgos que nunca cambian**
+
+| Personaje | Siempre |
+|---|---|
+| **Kratos griego** | Calvo; **piel blanca de ceniza**; **tatuaje rojo** por el cráneo, la cara, un hombro y el pecho; perilla oscura; cicatrices; muy musculoso; falda roja con greca y cinturón de cuero; brazo izquierdo vendado; **Espadas del Caos** encadenadas a los antebrazos. Mirada furiosa |
+| **Kratos nórdico** | Calvo; **barba poblada gris castaña**; piel **morena**; **tatuaje rojo** en el hombro y el brazo; hombrera de cuero con escamas y arnés cruzado; brazales vendados; **Hacha Leviatán** (o las Espadas); con Mimir colgado del cinto en 2018. Mirada cansada y contenida, **nunca sonriente** |
+| **Atreus** (2018) | Niño de 11 años; pelo corto rojizo; cara pálida, pecas; **ojos azul hielo**; **piel de lobo** sobre malla; runas en los brazos; bufanda amarilla; **arco y carcaj**; cuchillo de su madre al cinto |
+| **Mimir** | Una **cabeza cortada** que habla, colgada del cinto de Kratos ⚠️ rasgos de la cara sin describir en las partes: usar la hoja `fondos_01.jpg` #510 |
+
+**Luz**
+- **Norte**: amanecer o día nublado, niebla, contraluz frío azul
+  `#9DA7AF` o turquesa `#BEDED9`; sombras `#413A38`; un acento
+  `#D96D4A` o `#E46838`.
+- **Grecia**: sol directo o antorchas; piedra `#CAAF67`, tierra
+  `#7F6441`; en interiores, rojo sobre negro `#78130C` / `#060101`.
+
+**Palabras que ayudan** (en inglés, que las IA entienden mejor)
+- Kratos nórdico: `God of War 2018 style, Kratos, bald, thick grey-brown
+  beard, red tattoo on shoulder, leather harness, Leviathan Axe, stoic,
+  weathered skin, Norse forest, cold fog, rim light, cinematic,
+  over-the-shoulder camera, photorealistic 3D render, desaturated`.
+- Kratos griego: `God of War 2005 style, Kratos, ash-white skin, red
+  tattoo across face and chest, goatee, Spartan skirt with Greek key
+  border, Blades of Chaos with chains, Greek temple, torchlight, blood
+  red and gold`.
+- Atreus: `Atreus, young boy, auburn hair, freckles, icy blue eyes, wolf
+  fur tunic, bow and quiver, Norse runes on arms, determined`.
+- Detalles del mundo: `Elder Futhark runes, carved Norse knotwork,
+  Yggdrasil roots, snow, mist`.
+- Las etiquetas de Danbooru de §16 (`chain_blades`, `bodypaint`,
+  `fur_trim`, `bow_(weapon)`) sirven en modelos de estilo anime, pero
+  **llevan a un estilo que no es el del juego**: úsalas sólo para la pose.
+
+**Palabras que lo estropean**
+`anime`, `chibi`, `cute`, `smiling Kratos`, `cel shading`, `cartoon`,
+`speech bubble`, `bright colors`, `Viking horned helmet` ⚠️ (idea del
+redactor), `Kratos with hair`, `ash-white skin` en una escena nórdica, o
+`beard` en una griega.
+
+**Imágenes de referencia (de estilo y de pose)**
+- Estilo nórdico: las dos [capturas de Steam](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg)
+  (§3) y el [concept de Atreus de Dela Longfish](https://static.wikia.nocookie.net/godofwar/images/9/95/Atreus_Concept_Art_by_Dela_Longfish.jpg).
+- Estilo griego: el [render `Kratos_gospng.png`](https://static.wikia.nocookie.net/godofwar/images/6/65/Kratos_gospng.png)
+  y la hoja `vestuario_01.jpg` #387, #404.
+- Poses: §15 (Kratos #1, #6, #8, #12; Atreus #1, #3, #6).
+- Ropa exacta: la [guía de cosplay](https://secure.cdn.us.playstation.com/god-of-war/cosplay/god-of-war-cosplay-guide.pdf).
+- Objeto del Codex: [tapa](https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410)
+  y [página de runas](https://static.wikia.nocookie.net/godofwar/images/5/53/Runes_shown_in_Atreus%27_journal.png/revision/latest?cb=20230204194657).
+
+**Plantilla de prompt** (rellenar):
+> `<personaje y era>, <pose de §15>, <sitio de §17> at <hora>, <luz>,
+> palette <3 hex de §5>, one warm accent from <fuego/runa>, God of War
+> Ragnarök in-game cinematic, photorealistic 3D, no outline, no text`.
+
+**Cómo se dicen los gestos** (no hay códigos de anime: nada de gotas de
+sudor, fondos de emoción ni *chibi*; la emoción va en la cara y la luz):
+
+| Emoción | En God of War | Para la IA |
+|---|---|---|
+| Rabia | Boca cerrada, cejas bajas, pintura roja, fuego de la Ira Espartana | `clenched jaw, furrowed brow, red war paint, glowing rage` |
+| Tristeza | De espaldas o de perfil, plano abierto, silencio, nieve | `from behind, wide shot, lonely, falling snow` |
+| Ternura | Mano en el hombro, sin mirarse | `hand on son's shoulder, both looking ahead` |
+| Sorpresa | Boca entreabierta, mirada fija (Atreus) | `stunned, mouth slightly open` |
+| Poder | Contrapicado, runas o armas encendidas | `low angle, glowing runes, embers` |
+
+### B. Para una IA de texto (diálogos en su voz)
+
+**Kratos**
+- Frases **cortas**, formales, casi sin adjetivos. Imperativos: «Cierra
+  tu corazón». Nada de muletillas modernas ni jerga.
+- Llama a Atreus **«chico»** (el «boy»); **«hijo»** sólo en un momento
+  grande.
+- **No grita en el texto**: sin mayúsculas ni signos múltiples. El
+  enfado es una frase más corta y más seca.
+- No bromea. Cuando se ablanda (*Ragnarök*), pausas con puntos
+  suspensivos: «Tu madre... caló en mí».
+
+**Atreus**
+- Habla **rápido**, pregunta mucho, frases encadenadas. Le lleva la
+  contraria a su padre. De niño, curioso y amable; en *Ragnarök*, más
+  seguro y con carácter.
+
+**Mimir**
+- **Cuentacuentos**: educado, ingenioso, algo sarcástico. Se presenta con
+  pompa («el hombre más listo que existe»). Da el dato curioso y remata
+  con una broma. Es el que **explica reglas**.
+
+**Freya**
+- Párrafos largos, **metáforas de la naturaleza** y del ciclo de la vida.
+  Tono de maestra. Cuando se enfada, reproche directo.
+
+**Brok y Sindri**
+- **Groserías y modismos latinos**, sin filtro. ⚠️ Faltan frases textuales
+  latinas (las muestras están sin transcribir, §10).
+
+**Baldur y Thor**
+- Baldur: burla lenta, provocadora, busca sentir algo. Thor: preguntas
+  retóricas que acusan («¿Te crees que…?»).
+
+**Frases reales por emoción** (doblaje latino salvo que diga inglés)
+
+| Emoción | Frase real | Quién y dónde |
+|---|---|---|
+| **Enfadado** | «¿Te crees que puedes venir aquí, convertirte en padre, empezar de nuevo? Así no es como funciona. Eres un destructor, como yo.» | Thor, *Ragnarök* (§10) |
+| **Enfadado** | «Crees que soy débil porque no soy como tú.» | Atreus, 2018 |
+| **Enfadado** | «¡Lánzame lo que tengas a mano! […] ¡No siento nada!» | Baldur, 2018 |
+| **Explicando** | «El árbol de la vida está ligado al destino del mundo, al igual que nosotros.» | Freya, 2018 |
+| **Explicando** | «Soy el mayor embajador de los dioses, de los gigantes y de todas las criaturas de los Nueve Reinos.» | Mimir, 2018 |
+| **Animando** (a su manera) | «Cierra tu corazón. En este viaje nos van a atacar todo tipo de criaturas.» | Kratos, 2018 |
+| **Animando** | «No sientas lástima por ellos. Ellos no sentirán lástima por ti.» | Kratos, 2018 |
+| **Triste, tierno** | «Tu madre... caló en mí. Me dio el espacio para encontrar mi camino.» | Kratos, *Ragnarök* |
+| **Triste** | «Sé que nunca he sido lo que querías.» | Atreus, 2018 |
+| **Protector** (inglés) | «Sometimes it's the only way to protect the ones we love.» | tráiler de *Ragnarök*, 0:00 |
+| **Alegre** | ⚠️ no hay frase latina textual alegre en las partes. Lo más cerca: la presentación pomposa de Mimir, y «No me simpatizas» como chiste | §10 |
+
+**Vocabulario de la serie** (usar tal cual): chico, hijo, los Nueve
+Reinos, Yggdrasil, Midgard, Asgard, Jötunheim, Ragnarök, runas, Ira
+Espartana, el Hacha Leviatán, las Espadas del Caos, la Lanza de
+Draupnir, el Forastero, valquiria, draugr, einherjar, Fimbulwinter,
+Jötunn (gigante), la Caja de Pandora, el Olimpo, Esparta, «Fantasma de
+Esparta».
+
+**Puntuación y onomatopeyas**: el juego no escribe onomatopeyas; si hace
+falta una, que sea sonido del mundo («whoosh» del hacha) y fuera del
+diálogo. Nada de «¡¡¡!!!»: una exclamación como mucho, y en Kratos casi
+ninguna.
+
+**Plantilla para la IA de texto**:
+> «Escribe como Mimir de God of War (doblaje latino): educado, ingenioso,
+> cuentacuentos, un dato curioso y una broma al final. Frases cortas, sin
+> emojis. Explica en 3 frases: <texto del canal>.»
+
+---
+
+## 19 · Estilo, técnica, Blender y encuadres
+
+**No es un estilo de línea.** Todo God of War es **render 3D realista y
+pictórico**, sin *toon shader* ni contorno. El «dibujo» vive en el
+**concept art pintado** y en el **desgaste** de pieles y objetos.
+
+### Quién y con qué (lo dice el estudio)
+
+- **Motor propio** de Santa Monica, de 2018 a *Ragnarök*, para PS4 y PS5
+  ✅ ([foro3d](https://foro3d.com/en/2026/february/the-technology-behind-the-graphics-of-god-of-war-ragnark.html)).
+- **Programas** ✅ ([foro3d](https://foro3d.com/en/2026/julio/god-of-war-ragnarok-el-motor-que-mueve-el-ragnarok.html)):
+  **ZBrush** para esculpir (poros, arrugas, desgaste), **Maya** para
+  modelar y hacer el *rig*, **Substance Painter** para texturas PBR,
+  **Houdini** para nieve y partículas, **MotionBuilder** para la captura
+  de movimiento, y herramientas propias de animación facial.
+- **Efectos por zonas del cuerpo**: barro, nieve, humedad, veneno,
+  sangre y escarcha se pintan por región, en tiempo real, sin tocar la
+  malla. Lo cuenta **Glauco Longhi**, director de arte de 2018 ✅
+  ([glaucolonghi.com](http://www.glaucolonghi.com/work/god-of-war-x33j7)).
+- **Raf Grassetti**, director de arte de personajes en 2018, esculpe en
+  ZBrush pensando ya en el *rig* final ✅
+  ([ZBrushLIVE](https://pixologic.com/zbrushlive/god-of-war-art-director-rafael-grassetti-the-zbrush-podcast-episode-24/),
+  [ArtStation Magazine](https://magazine.artstation.com/2018/07/rafgrassetti/)).
+- **Maquetas de cartón**: para ensayar la cámara usaron ogros de cartón,
+  **fideos de piscina** como Espadas del Caos y animadores **caminando
+  de rodillas** para la altura de los enanos ✅
+  ([SVG](https://www.svg.com/1089665/what-god-of-war-looks-like-without-special-effects/),
+  charla GDC «Keyframes and Cardboard Props» de Erica Pinto,
+  [GDC Vault](https://gdcvault.com/browse/gdc-19/play/1026390)).
+- **Render**: sin *ray tracing*; reflejos en espacio de pantalla; en
+  *Ragnarök*, un reescalado propio (TAAU) y mejor luz precalculada ⚠️
+  (resumen del análisis de Digital Foundry,
+  [hilo de ResetEra](https://www.resetera.com/threads/digital-foundry-god-of-war-ragnar%C3%B6k-on-ps5-the-digital-foundry-tech-review.650793/)).
+- **Filtros**: **grano de película** (ligero, activo por defecto) y
+  **desenfoque de movimiento** en PC ✅
+  ([PC Gamer](https://www.pcgamer.com/god-of-war-best-settings/),
+  [GameFAQs](https://gamefaqs.gamespot.com/boards/191627-god-of-war/76535505)).
+  Aberración cromática y viñeta, sin confirmar ⚠️.
+
+### La cámara: un solo plano, sin cortes
+
+- Desde 2018, **todo el juego es un plano continuo**, sin cortes ni
+  pantallas de carga visibles; la cámara va **al hombro de Kratos, muy
+  cerca** ✅ ([GDC: The Cinematography of God of War](https://gdcvault.com/play/1025986/Creating-a-Deeper-Emotional-Connection),
+  [Variety](https://variety.com/2018/gaming/features/god-of-war-single-shot-camera-1202793441/)).
+- Barlog lo tomó de las películas **Rope** (Hitchcock) y **Birdman** ⚠️
+  cita indirecta (§25).
+
+### Encuadres por emoción ⚠️ (lectura de la parte de texto, no cita)
+
+- **Combate y rabia**: plano medio corto muy pegado, cámara que tiembla.
+- **Duelo**: planos abiertos y quietos, Kratos de espaldas o de perfil,
+  aire y silencio (esparcir las cenizas).
+- **Revelación** (un dios, un paisaje): **contrapicado y gran angular**.
+- **Diálogo padre e hijo**: los dos de perfil, muy cerca (§15).
+
+### Cómo reproducirlo en Blender (propuesta de la parte de texto)
+
+1. **Personaje**: el *rig* libre de Sketchfab (Kratos de *III*, CC BY) o,
+   sólo para posar, el *Kratos Multi-Rig* de Open3DLab (no se puede
+   modificar ni publicar) (§4).
+2. **Piel**: *Principled BSDF* con *subsurface* **bajo** (piel curtida,
+   no traslúcida); *roughness* pintado para sudor y grasa.
+3. **Desgaste por zonas**: capas *Mix* con máscaras de vértice o
+   procedurales para nieve, barro o sangre, como el sistema de Longhi.
+4. **Sin contorno**: nada de Line Art ni Freestyle. La silueta sale del
+   **rim light frío** y del contraste con la niebla.
+5. **Luz**: un contraluz azul o turquesa, niebla volumétrica, y **una
+   sola fuente cálida** (brasas, runa).
+6. **Cámara**: una sola, que sigue un *path*, con ruido leve (*noise
+   modifier*) para el temblor al hombro; personaje en un tercio;
+   profundidad de campo suave en los diálogos.
+7. **Texturas**: las CC0 de §5 debajo, y el grano de película encima al
+   final.
+
+### Cómo reproducirlo en Photoshop (para concept o lámina 2D)
+
+- El estudio **esculpe primero y pinta después**: lo más fiel es
+  **pintar encima de un render o de una pose** (*paint-over*), no
+  dibujar con tinta desde cero.
+- Pinceles: textura de piedra para runas grabadas, costra y óxido para el
+  metal, salpicadura para sangre o nieve ⚠️ genéricos, no hay pack del
+  estudio.
+- Paleta **desaturada con un solo acento cálido**.
+
+---
+
+## 20 · Texturas 2D
+
+God of War no es manga: no hay tramas ni papel de globo. Sus «texturas
+2D» son **grabados, tatuajes, runas y patrones de cuero y tela**.
+
+- **Tatuaje de Kratos**: rojo en todas las eras (§16). Boceto oficial
+  del diseño en la hoja `fondos_01.jpg` #524 («Kratos' Concept Tattoo
+  12»). No hay vector oficial del trazo ⚠️.
+- **Runas del Futhark Antiguo**: tabla completa en §26; letra **Noto Sans
+  Runic** (OFL) ✅. El juego mezcla a propósito Futhark Antiguo y Joven ⚠️
+  ([Norse Tradesman](https://norsetradesman.com/blogs/news/god-of-war-vs-the-viking-reality)).
+- **Cifrados de cada reino**: Muspelheim (fuego), Niflheim (hielo), los
+  enanos y los elfos escriben las runas «a su estilo»; todos se descifran
+  a runas normales al avanzar ✅
+  ([wiki: Languages](https://godofwar.fandom.com/wiki/Languages)).
+- **Glifos de los Nueve Reinos**: una runa en un círculo para cada reino,
+  en el mapa y el viaje rápido ✅. Tres de ellos a 614×614:
+  [Alfheim](https://static.wikia.nocookie.net/godofwar/images/a/af/RuneAlfheim.webp/revision/latest?cb=20221221200508),
+  [Asgard](https://static.wikia.nocookie.net/godofwar/images/4/42/RuneAsgard.webp/revision/latest?cb=20221221200453),
+  [Midgard](https://static.wikia.nocookie.net/godofwar/images/8/80/RuneMidgard.webp/revision/latest?cb=20221221200607).
+- **Nudos nórdicos tallados** (armas, brazales, puertas, cofres):
+  vectores gratis en [Vecteezy](https://www.vecteezy.com/free-vector/norse-knot)
+  ⚠️ la licencia cambia pieza a pieza: comprobarla antes.
+- **Greca espartana** (meandro): se ve en la falda de Kratos griego (hoja
+  `personajes_01.jpg` #1) y en frisos de templos. **Pack CC0 no
+  encontrado** ⚠️.
+- **La mano amarilla**: pintada en la tapa del Codex y en los árboles de
+  Midgard (§7). Sirve de marca propia de la lámina.
+- **Cuero con escamas cosidas** (tapa del Codex, hombrera de Kratos):
+  referencia en la [tapa del Codex](https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410).
+- **Grano y pincelada de los artbooks**: no medido, sin páginas en alta ⚠️.
+- **Capas reales y 3D**: texturas CC0 de ambientCG (§5) y modelos de
+  Sketchfab (§4). Juntas cubren piedra, nieve, madera y metal; faltan
+  **cuero y pergamino** libres ⚠️.
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+God of War **no publica fichas tipo databook** (comida favorita,
+cumpleaños). Lo que hay sale de la wiki y de entrevistas. **Cumpleaños
+oficiales: no existen** ⚠️ (buscado «Kratos birthday official»,
+«Atreus cumpleaños ficha oficial»).
+
+| Personaje | Altura, edad | Objeto que siempre lleva | Lo que ama o bebe | Cómo se ve a sí mismo |
+|---|---|---|---|---|
+| **Kratos** | 7 ft 8 in en Grecia, **1,94 m** en el Norte; 110 kg ⚠️ | Espadas del Caos (Grecia); Hacha Leviatán y **las cenizas de Faye** (2018) | A su hijo, aunque no lo diga | Un monstruo que no merece la paz |
+| **Atreus** | 11 años en 2018 | **Arco** y **cuchillo de su madre**; el Codex | La mitología, los idiomas, ayudar a vivos y muertos | El «hijo débil» que su padre no valora; luego, dudas por ser Loki |
+| **Freya** | — | Magia (seidr) y curación; vive en una cabaña en el bosque de Midgard | Su pueblo y su hijo | Una madre que fracasó |
+| **Mimir** | — | **Su propia cabeza**, colgada del cinto de Kratos | El **aguamiel** (dieciséis copas) ⚠️ | «El hombre más listo que existe» |
+| **Brok y Sindri** | — | Su fragua y su tienda | Beber y hablar sin filtro | — ⚠️ |
+
+- **La Lanza de Draupnir**: la primera arma **hecha para Kratos**, no
+  heredada ni impuesta ✅ (§26).
+- **El Hacha Leviatán** era de **Faye** ✅.
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### Razones concretas
+
+- **Ventas y premios** ✅:
+  - *God of War* (2018): más de **5 millones** en su primer mes, más de
+    **23 millones** a nov-2022; **Juego del Año** en The Game Awards 2018
+    ([Wikipedia](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game))).
+  - *Ragnarök*: **5,1 millones** en su semana de estreno (el estreno
+    propio más rápido de PlayStation), 11 millones en 3 meses, más de 15
+    millones a dic-2023; 6 premios en The Game Awards 2022 (11
+    nominaciones) y **15 nominaciones en los BAFTA** (récord), con 6
+    premios incluido Juego del Año
+    ([VGC](https://www.videogameschronicle.com/news/sony-says-god-of-war-ragnarok-has-topped-11-million-sales-in-3-months/)).
+  - Los dos juntos, más de 1.400 millones de dólares ⚠️
+    ([GamingBolt](https://gamingbolt.com/god-of-war-2018-and-god-of-war-ragnarok-combined-sold-1-4-billion-copies)).
+- **La paternidad**: el arco de Kratos, de guerrero que sólo destruye a
+  padre que aprende a no repetir el daño, es **la razón más citada**. El
+  tono nace de la experiencia de **Cory Barlog como padre** ✅
+  ([Time](https://time.com/5248154/god-of-war-kratos-atreus/),
+  [Vice](https://www.vice.com/en/article/god-of-war-creative-director-cory-barlog-on-nihilism-and-fatherhood/)).
+- **Con quién se identifica el público**: con **Atreus**, que necesita
+  demostrarle algo a un padre distante; y con un Kratos que dice «boy»
+  porque no sabe decir «te quiero» ⚠️ (comentarios de Reddit).
+- **El doblaje importa a los hispanos**: hay una reseña crítica entera,
+  actor por actor, en ANMTV (§10).
+
+### Las escenas que hacen llorar
+
+- **Las cenizas en la cumbre (final de 2018)** ✅ (Den of Geek y
+  ResetEra, §2): durante todo el juego Kratos no deja que Atreus lleve
+  las cenizas de Faye. Al final, por primera vez, se las da. Las esparcen
+  juntos desde **el pico más alto de los Nueve Reinos**. Cierra el viaje
+  y el vínculo: **por primera vez lo reconoce como hijo**.
+  - **Música**: por el tracklist, «Memories of Mother» ⚠️ no oído.
+  - **Cómo está hecha**: plano abierto y quieto, silencio ⚠️ (lectura de
+    la parte de texto, no vista).
+  - **Reacción**: «[So I cried](https://reddit.com/r/GodofWarRagnarok/comments/1g462as/so_i_cried/)»
+    (180 puntos, 52 comentarios) y «[I just completed the main story and
+    I cried](https://reddit.com/r/GodofWarRagnarok/comments/z3y5nf/i_just_completed_the_main_story_and_i_cried/)»
+    (246 puntos, 98 comentarios), años después ✅.
+  - **Minuto**: no encontrado ⚠️.
+- **La muerte de Brok** (*Ragnarök*): lo apuñala Týr, que era Odín;
+  Kratos se lanza ciego de rabia; después, **velatorio** donde Kratos,
+  Mimir y Freya se despiden uno a uno ⚠️ (una fuente, sin vídeo).
+- **Kratos se aleja malherido** al final de *III*, dejando sangre en el
+  suelo ([8:00](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=480)) ✅
+  visto.
+
+### Las que hacen gritar de emoción ⚠️ (momentos de subidón vistos; la reacción del público no se midió)
+
+- **Kratos llega a dios** en el trono de Ares (2005,
+  [14:15](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855)) ✅.
+- **El Coloso de Rodas cobra vida** (*II*,
+  [1:45](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=105)) ✅.
+- Reacciones de la gente a estas dos: no buscadas ⚠️.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+YouTube pidió iniciar sesión todo el día: **existencia confirmada por el
+buscador, vistas sin comprobar** ⚠️.
+
+- **Fandubs en español latino** ⚠️:
+  - [«Kratos y CHICO | Parodia de God Of War | Fandub Español Latino»](https://www.youtube.com/watch?v=BcUvzCw5tqE).
+  - [«God Of War Ragnarok - Trailer del Gameplay en Español Latino | ANGRBODA | FANDUB»](https://www.youtube.com/watch?v=SjJ8IXOLWJ4).
+  - [«God Of War III Comercial de GameSpot en Español Latino [Fandub]»](https://www.youtube.com/watch?v=jTZOqthd9vc):
+    los fans **doblaron lo que Sony nunca dobló**.
+  - [«Kratos Griego con la voz de Idzi Dutkiewicz (Fandub/Montaje
+    Latino)»](https://www.youtube.com/watch?v=cFBQ1BNSrxg): la voz latina
+    oficial sobre la saga griega, algo que la comunidad pide desde hace
+    años.
+  - [«¿DOBLAJE LATINO o CASTELLANO? - God of War #6»](https://www.youtube.com/watch?v=E7TUvDY8h2c),
+    serie de comparación.
+- **Comparativa en Dailymotion** (Vandal): [España, Latinoamérica e
+  inglés](https://www.dailymotion.com/video/x72mmh3) ✅.
+- **TikTok** ⚠️: el reto «**SDV reta a la voz oficial: Idzi
+  Dutkiewicz**» ([@sdv_serviciosdevoz](https://www.tiktok.com/@sdv_serviciosdevoz/video/7154541669998742790)):
+  un doblador imita a Kratos y se compara con el oficial. Vídeos sobre el
+  cambio de voz de Freya en *Valhalla*
+  ([@erik.nightmr](https://www.tiktok.com/@erik.nightmr/video/7312245649171303685),
+  @fandoblajes).
+- **El concurso de Sony para fans** ✅✅ (el dato más fuerte para un
+  servidor de doblaje): en octubre de 2012, **Sony Latinoamérica** hizo
+  «**Inmortaliza tu voz con God of War: Ascension**». Ganó el colombiano
+  **Andrés «Reno» González Borda**, que viajó a Los Ángeles a grabar en
+  Santa Monica la voz de un soldado que anima a Kratos. Fue el único
+  concurso así para la región
+  ([blog de PlayStation Latam](https://blog.latam.playstation.com/2012/10/18/inmortaliza-tu-voz-con-god-of-war-ascension/),
+  [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/God_of_War:_Ascension#Datos%20de%20inter%C3%A9s)).
+- **Covers en español de la música**: no buscados ⚠️ (la saga no tiene
+  opening cantado).
+- **Podcasts hispanos** en Internet Archive: [«El Complejo Lambda: God of
+  War»](https://archive.org/details/CL11x20ElComplejoLambda) y
+  [«Pildorita 17 God Of War Ragnarok»](https://archive.org/details/pildorita-17-god-of-war-ragnarok)
+  ⚠️ sin escuchar.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+- **Fortnite** ✅ ([blog de PlayStation](https://blog.playstation.com/2020/12/03/join-the-hunt-as-kratos-in-fortnite-chapter-2-season-5/),
+  [wiki](https://godofwar.fandom.com/wiki/Fortnite)): Kratos llegó el
+  3-dic-2020 con la skin «**Oathbreaker**» (Escudo del Guardián como
+  planeador, Hacha Leviatán como pico, **mochila de Mimir**, gesto
+  «Freezing Burst»); en PS5, estilo «Armored Kratos». Diseño de 2018.
+- **Mortal Kombat 9** (2011): Kratos invitado en PS3 y Vita, el primer
+  invitado de la saga; frase de entrada «You... will not see the end of
+  this day!» ✅ ([wiki](https://godofwar.fandom.com/wiki/Kratos_(Mortal_Kombat))).
+- **PlayStation All-Stars Battle Royale** (2012): Kratos jugable; en
+  *Ragnarök* Mimir lo cita como canon ✅ (§14).
+- **Monster Hunter World**: **no hay colaboración** ✅ (sólo un fan
+  imitando el aspecto con piezas del juego). No usar.
+- **20.º aniversario**, «Odisea Oscura» (2025): vestuario negro y dorado,
+  recursos para redes y un avatar de PSN ✅ (§16).
+- **Cafés o exposiciones fijas**: no encontrados ⚠️.
+- **Figura oficial**: **NECA**, Kratos de 2018, 7 pulgadas, **36 puntos
+  de articulación**, con Hacha, daga y escudo; y una versión 1/4 de 18
+  pulgadas ✅ ([NECA](https://necaonline.com/2017/07/god-of-war-7-action-figure-kratos/)).
+  Referencia real de pose y proporciones en 3D.
+- **Cosplay oficial** ✅ ([PlayStation](https://www.playstation.com/en-us/god-of-war/community/cosplay/)):
+  tutoriales de Baldsasquatch (Kratos: metal y cuero), Opal Ink Cosplay
+  (Atreus: tela y maquillaje), Ibelinn Cosplay (Freya), Kizuki Cosplay
+  (Angrboda: pelucas) y The Ronin Cosplay (Thor: patrón de armadura).
+  Tutoriales de goma EVA para el cinturón y la hombrera en YouTube, sin
+  ver ⚠️.
+- **Lámina de colección** oficial de Cook & Becker (§3).
+
+---
