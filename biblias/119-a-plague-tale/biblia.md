@@ -198,7 +198,7 @@ A Plague Tale **no tiene manga ni cómic**: sólo juegos, un spin-off y novelas.
 3. **Los «Souvenirs» de *Requiem***: recuerdos que reproducen una conversación pasada **como un guion**: NOMBRE en versalitas y la frase debajo. Ej.: «Best Player», el juego de feria con Hugo (capítulo *Newcomers*) ✅ (wikitext).
 4. **Marcas de interfaz sin caja**: el objeto se señala con un **rombo** de contorno blanco, y al lado una cajita **con una línea fina arriba y otra abajo**, sin lados, en versalitas pequeñas: «+2 Salpeter (4/12)» · [Gameplay Trailer de *Innocence*, 3:04](https://www.dailymotion.com/video/x76ok0c?t=184) ✅ (visto).
 
-**Cómo se piensa**: no hay pensamientos escritos. Lo que el personaje piensa se ve en la cara, la música y la luz ✅ (así lo cuentan la parte de vídeo y la de texto).
+**Cómo se piensa**: no hay pensamientos escritos (no hay globos de pensamiento, parte de texto ✅). Lo que el personaje piensa se ve en la cara, la música y la luz ⚠️ (lectura del redactor con las escenas de §2).
 
 **El cuadro de diálogo propio de la serie**, para la lámina:
 - **Texto en versalitas entre dos líneas finas horizontales**, sin marco ni burbuja. Es lo mismo que hacen el logo (INNOCENCE y REQUIEM entre dos líneas) y la notificación del juego.
@@ -277,7 +277,6 @@ A Plague Tale **no tiene manga ni cómic**: sólo juegos, un spin-off y novelas.
 **El sonido que todos reconocen** (no hay onomatopeyas escritas; es un juego):
 - **Las ratas**: en *Requiem* hay 300 000 y suenan como un **retumbo grave** más chillidos cortos y **húmedos** («*squish and liquid layers*»), mezclados al azar según coman, esperen o ataquen. Director de audio, Aurélien Piters · [A Sound Effect](https://www.asoundeffect.com/a-plague-tale-requiem-game-audio/) ✅ (cita directa).
 - **El crepitar de la antorcha** en la luz contra el **rumor de la marea de ratas** en la sombra: el contraste de luz hecho sonido ✅.
-- El **zumbido de la honda** y el golpe de la piedra ⚠️ (no descrito en las partes con fuente).
 
 ## 10 · Vídeos y tendencias
 
@@ -471,7 +470,7 @@ Descripción de la wiki (sección «Appearance» de [Amicia](https://aplaguetale
 **Sitios completos en las capturas oficiales** (`arte_01`): calle de pueblo de piedra y teja con humo de chimenea (#11), asedio al amanecer con catapulta y niebla (#16), molino ardiendo de noche (#15), arco de árboles en otoño (#17), cripta con una antorcha (#18), mercado soleado con castillo y banderas amarillas y negras (#6), salón con pétalos rojos y cortinas rojas (#3), barco con vela a rayas en el mar (#1), playa con barco encallado al atardecer (#9) ✅.
 
 **Hora del día y emoción** (lectura del redactor a partir de las medidas de §4 y §16):
-- **Noche con antorcha** = peligro y ratas. **Amanecer con niebla** = guerra y muerte. **Día de Provenza** = una calma que no dura. **Nieve** = el final y el duelo ✅.
+- **Noche con antorcha** = peligro y ratas. **Amanecer con niebla** = guerra y muerte. **Día de Provenza** = una calma que no dura. **Nieve** = el final y el duelo ⚠️.
 
 **Fondos de pantalla**
 - Oficial en alta: no hay galería propia (la web de medios y la tienda dieron 503) ⚠️. Lo oficial en alta son las 20 capturas de Steam (1920×1080) y los retratos 4K de la wiki (3840×2160).
@@ -776,3 +775,98 @@ Para las tres: mundo sombrío (regla 6 del dueño), **una sola luz cálida** y e
 
 **Choques de canal** (sólo nota): #textos también lo piden Death Note (18), Shrek (59) y Hellblade (118); #dudas, Encanto (58), Mushoku Tensei (81) y Scooby-Doo; #fotos, no vi otra propuesta en DECISIONES.md.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Portada, pinturas y hoja de modelo de Ponsonnet, conceptos de Papet, 11 imágenes 4K de la wiki, 20 capturas oficiales de Steam, artbook de *Requiem*; poses vivas en grupo y con objeto. Sin artbook de *Innocence* |
+| 2 · Fotogramas de escenas icónicas | ✅ | 19 escenas con minuto: tráileres de Steam en 1080p y 3 fotogramas reales de 1920×1080 del compilado; el resto del compilado en miniatura de 720 |
+| 3 · Fan art y 3D con licencia | ⚠️ | Fan art con autor; un solo modelo 3D libre (Amicia, CC BY). Sin 3D de Hugo, armas, ratas ni sitios; Danbooru dio 403 |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 8 sitios con hex medidos en fotogramas; 8 texturas CC0 de ambientCG |
+| 5 · Tipografía por uso | ⚠️ | Logo mirado (rata en la G, corregido), Cinzel, Belleza y Sura comprobadas con fontTools. Belleza y Sura con una fuente; sin letra libre para la interfaz de *Requiem*, carteles ni créditos. Globo, grito y onomatopeya no aplican |
+| 6 · Cómo hablan y piensan en pantalla | ⚠️ | Códex, Souvenirs y marcas de interfaz vistos o citados; el subtítulo por defecto no se vio en ningún fotograma |
+| 7 · Popularidad | ⚠️ | Sin encuesta oficial ni de fans. Danbooru, nominación de Amicia, spin-off de Sophia y la lista de TheGamer (una fuente) |
+| 8 · Doblaje latino y frases | ⚠️ | No existe doblaje latino (Steam + prensa). Reparto de España con dos fuentes en 3 nombres; frases textuales sólo en inglés, con minuto; sin clip con audio en castellano; voz francesa de Hugo en duda |
+| 9 · Música y sonido | ✅ | Compositor, temas por escena, «The Wrath», coro, diseño de sonido de las ratas con cita directa |
+| 10 · Vídeos y tendencias | ✅ | 8 vídeos oficiales mirados con minuto; TikTok con una fuente; análisis de YouTube sin mirar |
+| 11 · Videojuegos: interfaz | ✅ | HUD, rueda de creación, recogida, panel de mejora, árbol de habilidades y logros, vistos en fotogramas o en la wiki |
+| 12 · Fandom y qué NO hacer | ⚠️ | Hilos con votos y lista de errores a evitar; sin meme ni chiste interno propio encontrado |
+| 13 · Personajes a fondo | ⚠️ | 10 personajes con carácter, frases y dinámicas; caras por emoción con minuto sólo en parte y sin vergüenza |
+| 14 · Poses analizadas | ✅ | Amicia 11 y Hugo 10 poses, con minuto o casilla y para qué sirven; regañar sin fotograma |
+| 15 · Vestuario con hex | ✅ | Trajes de los dos juegos; 11 medidas con su imagen y su luz (6 nuevas del redactor en `arte_01` #2) |
+| 16 · Ciudades y fondos de pantalla | ✅ | 4 sitios medidos, sitios completos en Steam, 7 fondos de Wallhaven con tamaño y origen; sin galería oficial en alta |
+| 17 · Guía para IA de imagen y texto | ⚠️ | Rasgos, paleta, luz, encuadre, palabras buenas y malas, referencias y frases por emoción. Frases reales sólo en inglés (traducción nuestra) y varias transcritas con Whisper |
+| 18 · Estilo y cómo replicarlo | ✅ | Motor, ratas, luz y captura de movimiento con fuentes oficiales; receta de Blender y Photoshop propuesta a partir de eso; encuadres del documental |
+| 19 · Texturas 2D | ✅ | Estampados, bordados, emblema del león, escudos del DLC, blasones de facciones y texturas CC0; tramas no aplican |
+| 20 · Gustos y detalles | ⚠️ | Edades, pelo, ojos, objetos y aficiones de 10; sin alturas, cumpleaños ni comidas; fechas que chocan |
+| 21 · Por qué la aman | ⚠️ | Premios, ventas, razones y ranking de escenas; sin minuto, encuadre ni reacción con votos de las escenas que hacen llorar |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Sin fandub ni cover encontrados; prensa hispana y vídeos en español localizados, sin mirar |
+| 23 · Colaboraciones, figuras y cosplay | ⚠️ | Dos estatuas oficiales con dos fuentes, guía oficial de cosplay y cosplays con materiales; sin cruces con marcas; tienda caída |
+| 24 · Obras parecidas y láminas vecinas | ✅ | Influencias con cita del estudio, parecidos de crítica y láminas vecinas del servidor |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas, arcos, cronología, facciones con blasón y lema, consultora histórica (fuente en francés), vocabulario |
+| Conceptos de lámina | ✅ | Tres distintos: #textos, #fotos y #dudas, con objeto, sitio, personaje, cuadro, textos y profundidad |
+| Fuentes distintas | ✅ | Más de 40 webs enlazadas (revisar.py las cuenta) |
+| Fuentes oficiales | ✅ | Steam, Focus, PlayStation Blog, Xbox Wire, Bandcamp del compositor, documental *In Focus*, entrevistas |
+| En otros idiomas | ⚠️ | Francés (universidad de Burdeos, letra de «O Ma Belle Lune») e inglés; japonés, coreano o chino no aplican (obra francesa) y no se buscó en ellos |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Wiki de Fandom, Doblaje Wiki y English Voice Over Wikia; TCRF sin página (403); Wayback bloqueado; TV Tropes no consultado |
+| Foros y comunidades | ✅ | Reddit (Arctic Shift), foros de Steam, Hacker News, Tumblr |
+| Arte | ⚠️ | Safebooru, Wallhaven, Flickr; ArtStation dio 403 (citado por el buscador); Pixiv y DeviantArt no consultados |
+| Vídeo | ✅ | Dailymotion, Steam, Internet Archive con minuto; YouTube y TikTok sólo enlazados |
+| Código y recursos | ✅ | GitHub (widberg/fmtk), Sketchfab, ambientCG, Fontsource |
+| Doblaje latino | ✅ | Doblaje Wiki por la API (sin página), DoblajeVideojuegos para España; no hay créditos latinos que buscar |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB, mirados y descritos casilla a casilla |
+| referencias.json | ✅ | 124 referencias, las mejores primero; descripciones de Steam corregidas; fuera los dibujos de otras series |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y lo que hizo el redactor. Idioma entre paréntesis.
+
+**Recolector** (`herramientas/recolectar.py`, sin IA): wiki de Fandom (imágenes de Amicia y Hugo), Danbooru y Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam y Reddit. **Falló**: AniList (no aplica, es un juego) y Doblaje Wiki (sin página de la obra).
+
+**Imagen** (11 búsquedas web, inglés)
+- API de Fandom: páginas de Amicia, Hugo, *Iconography*, *De Rune family* y sitios (Château d'Ombrage, La Cuna, Ciudad Roja, Cripta de los Tres Santos).
+- API de Steam `appdetails` (752590 y 1182900): 20 capturas bajadas y montadas en `arte_01.jpg`.
+- `estilo.py`: 11 medidas de hex (3 retratos, 4 sitios, 2 conceptos, 2 recortes de ropa).
+- API de Sketchfab (6 búsquedas) y de ambientCG (4 texturas).
+- Búsquedas: artistas de Asobo en ArtStation, prensa y fondos oficiales, artbook, estatuas, cosplay, cruces con Fortnite o gachas, exposiciones.
+- **Bloqueos**: ArtStation y ArtStation Magazine, 403 (4 intentos); `aplaguetale.com/en/media` y `store.aplaguetale.com`, 503 (2 cada uno); Danbooru, 403 de Cloudflare (2).
+- **No encontré**: artbook de *Innocence*, fondos oficiales en alta, más 3D libre, vocabulario Danbooru de Hugo y Mélie, cruces con marcas.
+
+**Vídeo** (7 búsquedas web, inglés)
+- Tráileres oficiales por la API de Steam (`.m3u8` en 1080p): *Requiem* Story y Launch, *Innocence* «The Little Boy Lost».
+- `episodio.py` sobre 5 tráileres (Whisper, inglés) → `partes/episodios.md`.
+- Compilado de cinemáticas de Internet Archive: miniaturas por minuto (`.thumbs/`) y 3 fotogramas reales de 1920×1080 con `ffmpeg` por rango HTTP.
+- `estilo.py` sobre 10 fotogramas; wikitext de las dos bandas sonoras y de *Child of Embers*.
+- Búsquedas: banda sonora, Sean Bean, sonido de las ratas, TikTok, análisis, Game Awards 2019.
+- **No mirado**: 7 tráileres más de Steam; análisis de YouTube (pide iniciar sesión).
+
+**Voz y personajes** (10 búsquedas web, español e inglés)
+- Doblaje Wiki por la API: `A_Plague_Tale` y variantes (`missingtitle`), búsqueda de texto (sólo Logan Hannan) y 8 actores ingleses sin crédito.
+- API de Steam (`supported_languages`) para saber qué idiomas llevan voz.
+- Wiki de Fandom: fichas de 10 personajes (Personality, Trivia, infobox).
+- [English Voice Over Wikia](https://english-voice-over.fandom.com/wiki/A_Plague_Tale:_Requiem_(2022)) como segunda fuente del reparto inglés; [DoblajeVideojuegos](https://www.doblajevideojuegos.es/buscar?q=plague+tale) para España.
+- `voz.py` sobre el Story Trailer de *Requiem* ([Dailymotion](https://www.dailymotion.com/video/x8e2l3c?t=100)).
+- Reddit por Arctic Shift (`cry`, `scene`); artículos de TheGamer leídos enteros.
+- **Bloqueos**: PCGamingWiki (directo y Wayback), BehindTheVoiceActors, MobyGames, IMDb, Twinfinite y Wikipedia (límite de peticiones); eldoblaje.com, 404.
+- **No encontré**: alturas y cumpleaños, fandub en español, cover en español, meme hispano, clip con audio en castellano.
+
+**Texto, juegos y técnica** (unas 14 búsquedas web, inglés; una fuente en francés)
+- Subdominio correcto de la wiki: `aplaguetale.fandom.com` (el nombre del encargo daba 404).
+- Wikitext de *Zouna*, *Achievements*, *Curiosities*, *Iconography*, *Timeline*, *Hugo's Herbarium*, *Hugo's Collection*, *Prima Macula*, *Inquisition*, *Order*, *De Rune family*, *Sanguinis Itinera*, *V.I.T.R.I.O.L.*, *Souvenirs*, *Tenebris*, *Resonance*.
+- CSS real de focus-entmt.com; letras de Fontsource abiertas con fontTools.
+- `fotogramas.py` sobre el Gameplay Trailer de *Innocence* (`x76ok0c`), el de *Requiem* (`x8d3rrf`) y el documental *In Focus* (`x8ddp8o`).
+- Búsquedas: motor, ratas y luz en GDC, juegos parecidos, letra del logo, TCRF, HUD y accesibilidad, director de arte, consultora histórica (francés), influencias.
+- **Bloqueos**: `tcrf.net`, 403 (sin página de la obra); Wayback bloqueado por la política de salida; iamag, 403.
+- **No encontré**: nombre real de la letra del logo (hilos de ZenHAX sin respuesta), *making of* técnico de sombreadores, blasón canónico de los de Rune.
+- No se buscó en japonés, coreano ni chino: la obra es francesa.
+
+**Redactor** (sin búsquedas web)
+- Miró las 3 hojas de contacto casilla a casilla.
+- Bajó de Steam las capturas citadas en las partes para comprobarlas: **4 descripciones de *Innocence* estaban corridas** en `imagen.json`; corregidas en `referencias.json`.
+- Recortó el logo de la portada de Steam: en *Innocence* la G lleva **una rata**, no un cuervo; midió el rojo `#8C0000`.
+- Miró la captura del DLC «Coats of Arms» (en `datos.json`): tres escudos con lema latino.
+- Midió con Pillow 7 colores de la captura de la plaza (`arte_01` #2): ropa de *Requiem*, piel y ladrillo.
+
+**Lo que chocaba entre partes** (queda con ⚠️): año de nacimiento de Amicia (1333 o 1334); edad de Hugo en *Innocence* (5 o 6-7); voz francesa de Hugo (Logan Hannan o Cécile Gatto); fecha de *Resonance* (26 o 27 de agosto de 2026); nombre del perro (Lion o Léon); quién venda a quién en el documental (5:15).
+
+**Confirmado frente a dudoso**: ✅ = dos fuentes o visto y medido; ⚠️ = una sola fuente, Whisper sin revisar o lectura del redactor. Hay 0 puntos ❌.

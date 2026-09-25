@@ -4,7 +4,27 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
+
+## Six · Personality (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/Six#Personality_
+
+Like most characters in the Little Nightmares series, Six does not speak; however, her personality can be inferred through her actions. Six frequently displays the characteristics of an anti-hero; she does not seem to care about saving the other children trapped aboard the Maw and will do whatever it takes to survive and escape the resort by herself, with little to no help from anyone else. She has an insatiable hunger and will eat virtually anything to satisfy it, with her diet gradually becoming darker and more desperate over the course of the game. On one occasion, a friendly Nome offered Six who was starving a sausage to eat. Instead, she chose to feast on the Nome, displaying a clear indifference to killing, at least while overcome by her hunger. To other children littered about the world, Six is ​​clearly distrustful. She almost never makes any attempt to help them or, as in the…
+
+## Mono · Personality (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/Mono#Personality_
+
+Like most other characters in the series, Mono rarely speaks. Instead, his personality is shown in his actions, and it was stated in an interview that Mono is protective, particularly towards Six. Mono appears to be a confident, well-meaning boy who is willing to go out of his way to help others, as shown when he persists in freeing Six from her apparent imprisonment in the Hunter's cabin and offers his hand to her. He stays by her side, offering his help again when she asks for it despite her initial rejection of his assistance. He has a degree of compassion, being very clearly disturbed by the decaying bodies in the Hunter's house, as well as initially being shocked upon seeing Six in her monster form when he finds her in the Signal Tower. Although Mono shows compassion for some, he is not hesitant to kill any foes who intend to harm him and Six. Should they encounter them, Mono is…
+
+## The Janitor · Personality (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Janitor#Personality_
+
+Like many of the other Little Nightmares characters, the Janitor does not speak, but his personality can be inferred from his actions. Like many of the other inhabitants of the Maw, he dutifully performs his work, trapping any children who attempt to escape. The Janitor is blind, and so he has acquired acute hearing and swift reflexes. If he hears the slightest noise, made by child or Nome, he will immediately seek out and pursue its source. The Janitor is smart, but too persistent, which ultimately results in the loss of both of his arms (and his life) when Six severs them with a watertight door after he gives chase. Though dutiful, the Janitor is also implied to be a collector or hoarder of sorts, having a room full of dolls and other toys he presumably collected over the years. The Janitor appears to have an affinity for these many objects, as he is has been seen carefully…
+
+## The Lady · Personality (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Lady#Personality_
+
+Like most other characters in the Little Nightmares franchise, the Lady rarely speaks, but her personality is shown through her actions. She elegantly glides across the Maw with unnerving grace and serenity. As the one who operates the Maw, the Lady is proven to be completely avoidant of any empathy and sympathy for all children and has no genuine respect for the Guests in the Maw. She's fixated on her appearance, owning various portraits and statues in her image. Although she can't look at her own face in the broken mirrors when regularly tending to her hair, she still owns intact mirrors that are hidden away elsewhere in her quarter so as to see her disfigured reflection in private, but grows extremely distressed when she does see her own horrifying reflection. Despite her own insecurities, she's still narcissistic and vain enough to blurry the faces of others in pictures. For unknown…
 
 ## Los personajes más dibujados por los fans (Danbooru, 101 dibujos de «little_nightmares»)
 _Fuente: https://danbooru.donmai.us/posts?tags=little_nightmares_

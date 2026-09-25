@@ -4,7 +4,92 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
+
+## Six: las imágenes más grandes de la wiki (384 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/Six_
+
+- 3000×3000 · Little Dreams logo.png · https://static.wikia.nocookie.net/littlenightmares/images/a/a8/Little_Dreams_logo.png
+- 3840×2160 · TheLairBookcase.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/6a/TheLairBookcase.jpg
+- 3840×2160 · TheJanitor3.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b3/TheJanitor3.jpg
+- 3840×2160 · TheJanitor2.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b9/TheJanitor2.jpg
+- 3840×2160 · TheJanitor1.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/04/TheJanitor1.jpg
+- 3840×2160 · StatueSecretroom.jpg · https://static.wikia.nocookie.net/littlenightmares/images/f/f5/StatueSecretroom.jpg
+- 3840×2160 · Singing Lady.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/7f/Singing_Lady.jpg
+- 3840×2160 · RatDeath.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/6c/RatDeath.jpg
+- 3840×2160 · PrisonNomes.jpg · https://static.wikia.nocookie.net/littlenightmares/images/5/59/PrisonNomes.jpg
+- 3840×2160 · Ladysquarters5.png · https://static.wikia.nocookie.net/littlenightmares/images/4/49/Ladysquarters5.png
+
+## Six · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/Six#Appearance_
+
+Six is much smaller than the adult characters of the series, being barely a third of their height with an extremely small, thin frame. She wears a bright yellow raincoat that ends just above her knees with three buttons, two pockets, and a rhombus-shaped hood. Up close, she has messy black bob-cut hair with long bangs that completely obscure the top half of her face, only revealing her pointed chin and tiny nose and mouth. Her feet and hands are bare. Her only possession is a zippo lighter. In Very Little Nightmares she wore a white, short-sleeved shirt and matching shorts. Her hair also looks neatly combed compared to other designs of her in other Little Nightmares media. This appearance of Six is similar to that of her in the concept art of the six children. In Little Nightmares II, Six wears a charcoal shirt under a button-up, stained, gray cardigan that reaches to her knees instead…
+
+## Mono: las imágenes más grandes de la wiki (235 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/Mono_
+
+- 3840×2160 · Gc little nightmares ii unveiled-21096.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/1f/Gc_little_nightmares_ii_unveiled-21096.jpg
+- 3328×1872 · SixMonoThinManEmergeVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/07/SixMonoThinManEmergeVR.jpg
+- 3328×1872 · SixKidnappedVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/85/SixKidnappedVR.jpg
+- 3328×1872 · DarkSixSeparatedVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/e/ef/DarkSixSeparatedVR.jpg
+- 2008×3047 · DtNCover4.jpg · https://static.wikia.nocookie.net/littlenightmares/images/5/52/DtNCover4.jpg
+- 2346×2346 · Mono Statues Gecco.jpg · https://static.wikia.nocookie.net/littlenightmares/images/4/4d/Mono_Statues_Gecco.jpg
+- 2560×1440 · M-iTlhY zeY.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/85/M-iTlhY_zeY.jpg
+- 2560×1440 · Eo41PK0W8AAnodY.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/75/Eo41PK0W8AAnodY.jpg
+- 2560×1440 · ElCRARiXUAMpXBT.png · https://static.wikia.nocookie.net/littlenightmares/images/6/63/ElCRARiXUAMpXBT.png
+- 2400×1350 · LNI and II buldle poster.jpg · https://static.wikia.nocookie.net/littlenightmares/images/d/db/LNI_and_II_buldle_poster.jpg
+
+## Mono · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/Mono#Appearance_
+
+Mono is a short and scrawny pale-skinned boy whose head is hidden by a light brown paper bag with two round eye holes that allow him to see. He wears a one-buttoned khaki trench coat that reaches below his knees above a brownish-gray shirt tucked into his long brownish-gray pants, rolled up at the end of his legs. His hands and feet are bare. Mono can also wear items like a key on the side of his coat. Under the paper bag he wears, Mono has short, messy black hair that sticks out a little bit. He also has a fairly skinny and slightly more angular facial structure and dark eyes.
+
+## The Janitor: las imágenes más grandes de la wiki (61 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Janitor_
+
+- 3840×2160 · TheJanitor3.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b3/TheJanitor3.jpg
+- 3840×2160 · TheJanitor2.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b9/TheJanitor2.jpg
+- 3840×2160 · TheJanitor1.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/04/TheJanitor1.jpg
+- 2008×3047 · Memories.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/82/Memories.jpg
+- 2008×3047 · LittleNightmaresComicSeriesJanitorTV.jpg · https://static.wikia.nocookie.net/littlenightmares/images/9/9c/LittleNightmaresComicSeriesJanitorTV.jpg
+- 2008×3047 · JanitorReachComicArt.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/13/JanitorReachComicArt.jpg
+- 2008×3047 · JanitorArmsComicArt.jpg · https://static.wikia.nocookie.net/littlenightmares/images/e/eb/JanitorArmsComicArt.jpg
+- 2880×1609 · BullyChalkArt.png · https://static.wikia.nocookie.net/littlenightmares/images/3/34/BullyChalkArt.png
+- 1824×1787 · Janitor Rat Key.png · https://static.wikia.nocookie.net/littlenightmares/images/9/98/Janitor_Rat_Key.png
+- 2000×1350 · SecretsOfTheMaw.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/aa/SecretsOfTheMaw.jpg
+
+## The Janitor · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Janitor#Appearance_
+
+The Janitor is humanoid monster whose proportions are greatly warped and exaggerated compared to a normal human. His skin is extremely pale and chalky while his head is large and connected to his torso by a wrinkled neck which bends his back into a hunch by its sheer weight. The most striking feature of his head is how the top half of its skin seems to have collapsed and sags down over his eyes, revealing the top of his bare skull and leaving him blinded by the folds of flesh. His mouth is stretched wide from ear to ear, and almost always wears a sinister grin while grinding his many teeth. More so than his head, The Janitor's arms and legs are the most grossly dis-proportioned: while his legs are almost comically short and stumpy, his arms stretch to over twice his body length, and can stretch even longer at will, ending in large hands with long, bony fingers that constantly twitch and…
+
+## The Lady: las imágenes más grandes de la wiki (45 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Lady_
+
+- 4000×2700 · 1519111647-7518-card.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/19/1519111647-7518-card.jpg
+- 3840×2160 · The Ladies elevator.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/bd/The_Ladies_elevator.jpg
+- 3840×2160 · Singing Lady.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/7f/Singing_Lady.jpg
+- 3840×2160 · Ladysquarters5.png · https://static.wikia.nocookie.net/littlenightmares/images/4/49/Ladysquarters5.png
+- 3840×2160 · Final boss battle.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/a4/Final_boss_battle.jpg
+- 2008×3047 · Memories.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/82/Memories.jpg
+- 2008×2131 · TheLadyInComic.jpg · https://static.wikia.nocookie.net/littlenightmares/images/c/c6/TheLadyInComic.jpg
+- 2400×1350 · LNI and II buldle poster.jpg · https://static.wikia.nocookie.net/littlenightmares/images/d/db/LNI_and_II_buldle_poster.jpg
+- 2072×1170 · Little Nightmares Papercraft.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/62/Little_Nightmares_Papercraft.jpg
+- 2048×1152 · TheLadyStartGame.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/a5/TheLadyStartGame.jpg
+
+## The Lady · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Lady#Appearance_
+
+The Lady is an unnaturally tall, slender woman with the appearance of a Japanese geisha. She has long raven-black hair and a large bun over her head. She is adorned in a long dark brown kimono, which seems to trail moderately behind her when she walks. Her face is perpetually covered by a white porcelain mask similar to a Japanese Noh mask, through which two lifeless black eyes stare out. In spite of nearly all of her body being covered, the skin tone on her neck seems to be a pale demitasse color. It is heavily implied from the various mannequins in the Lady’s quarters that the Lady wears a wig over her natural hair.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de littlenightmares.fandom.com (4 páginas y sus galerías)…
+  621 imágenes enlazadas, 511 grandes → 11 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/little-nightmares
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

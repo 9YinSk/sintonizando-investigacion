@@ -4,7 +4,65 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto)
+
+## Traveller: las imágenes más grandes de la wiki (5 en total)
+_Fuente: https://nomanssky.fandom.com/wiki/Traveller_
+
+- 2486×1658 · Traveller - Heads 2.png · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fc/Traveller_-_Heads_2.png
+- 1670×1740 · Traveller - Heads.png · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e1/Traveller_-_Heads.png
+- 1920×1080 · TravellerInFreighter.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/TravellerInFreighter.jpg
+- 1124×1011 · TwoTravellers.png · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/5/57/TwoTravellers.png
+- 1200×675 · Hub Traveler Reference 2.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/f5/Hub_Traveler_Reference_2.jpg
+
+## Traveller · Appearance (texto de la wiki)
+_Fuente: https://nomanssky.fandom.com/wiki/Traveller#Appearance_
+
+There are 22 different "species" that comprise the Travellers, most Travellers have slim humanoid bodies and the same average height, but besides that their physical features can greatly vary. They have been found with cat-like, bug-like, and amphibious-like facial features, or even entirely alien or with robotic heads. Artemis is a traveller whose appearance is very similar to stereotypical Roswell Grey aliens, while Apollo is a traveller whose body was almost entirely replaced by a mechanical casing, and -null- has a body that seems to be composed of large wires and computer plugs. All NPC Travellers seem to appear as holographic displays rather than physical bodies, when they guide the player to a grave, it is revealed that the Travellers that gave them the directions are dead.
+
+## Artemis: las imágenes más grandes de la wiki (3 en total)
+_Fuente: https://nomanssky.fandom.com/wiki/Artemis_
+
+- 1920×1080 · Art-PL.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/0e/Art-PL.jpg
+- 468×1080 · Artemis Front.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/63/Artemis_Front.jpg
+- 343×285 · Artemis 2.png · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/Artemis_2.png
+
+## Priest Entity Nada: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://nomanssky.fandom.com/wiki/Priest_Entity_Nada_
+
+- 1920×1080 · Nada.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/4d/Nada.jpg
+- 1080×1920 · Nada Cape.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/9e/Nada_Cape.jpg
+- 1155×1080 · NadaPrisms.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/6e/NadaPrisms.jpg
+- 1280×720 · NadaNoAtlas.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/b/b2/NadaNoAtlas.jpg
+- 1280×720 · NadaLearn.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/47/NadaLearn.jpg
+- 480×480 · PriestEntityNada.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/90/PriestEntityNada.jpg
+
+## Specialist Polo: las imágenes más grandes de la wiki (8 en total)
+_Fuente: https://nomanssky.fandom.com/wiki/Specialist_Polo_
+
+- 1920×1080 · SpecialistPolo.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e9/SpecialistPolo.jpg
+- 1920×1080 · Polo.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/6e/Polo.jpg
+- 1920×1080 · Polo-PL.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/81/Polo-PL.jpg
+- 1920×1080 · Backstory-PL.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e4/Backstory-PL.jpg
+- 1920×1061 · Polo pur3.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/3/31/Polo_pur3.jpg
+- 1920×1061 · Polo pur2.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fe/Polo_pur2.jpg
+- 1920×1061 · Polo pur1.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7d/Polo_pur1.jpg
+- 1155×1080 · PoloPrisms.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/75/PoloPrisms.jpg
+
+## The Atlas: las imágenes más grandes de la wiki (2 en total)
+_Fuente: https://nomanssky.fandom.com/wiki/The_Atlas_
+
+- 1848×2167 · NMSAtlas.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8e/NMSAtlas.jpg
+- 1920×1080 · Atlas-PL.jpg · https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/88/Atlas-PL.jpg
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de nomanssky.fandom.com (5 páginas y sus galerías)…
+  24 imágenes enlazadas, 22 grandes → 1 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/no-man-s-sky
+
+```
 
 ## Fondos de pantalla más guardados (Wallhaven, sólo aptos, 1920×1080 o más)
 _Fuente: https://wallhaven.cc_
