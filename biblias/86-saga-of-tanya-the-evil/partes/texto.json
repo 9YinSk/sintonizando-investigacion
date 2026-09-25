@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/youjo-senki/images/7/70/Manga_Ch_1_Pg_1.jpeg/revision/latest?cb=20170211013558",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": 1114,
+    "alto": 1600,
+    "que_es": "Primera página del manga: logo, paisaje, cartelas de fecha/lugar y globo de radio hexagonal 'Fairy 08'",
+    "para_que": "Referencia de tipografía del logo japonés y de cuadros de diálogo/cartelas militares (puntos 5 y 6)",
+    "licencia": "Copyright Kadokawa/Carlo Zen/Chika Tojo, uso de referencia (fair use editorial), enlace directo a la imagen alojada en Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a3/Unknown_%2817%29.png/revision/latest?cb=20170831113657",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": 960,
+    "alto": 542,
+    "que_es": "Fotograma del anime: Being X representado como cascanueces, con paleta sepia y viñeteado fuerte",
+    "para_que": "Colores medidos con Pillow (#0f121f, #c6c4b2, #b5a898, #868177) y ejemplo de estilo de luz/paleta (punto 18)",
+    "licencia": "Copyright NUT/Kadokawa, uso de referencia (fair use editorial), enlace directo a la imagen alojada en Fandom"
+  },
+  {
+    "url": "https://www.4gamer.net/games/509/G050970/20201210187/TN/001.jpg",
+    "fuente": "4Gamer.net",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Arte clave del videojuego móvil Youjo Senki: Madoushi Kaku Tatakaeri, hecho por Studio NUT",
+    "para_que": "Referencia del punto 11 (videojuegos de la franquicia) y del logotipo del juego",
+    "licencia": "Copyright NUT inc./Esprit, uso de referencia editorial; crédito visible en la imagen 'Main visual by NUT inc.'"
+  },
+  {
+    "url": "https://www.4gamer.net/games/509/G050970/20201210187/TN/004.jpg",
+    "fuente": "4Gamer.net",
+    "ancho": 240,
+    "alto": 180,
+    "que_es": "Banner promocional de lanzamiento del videojuego con la Cruz de Hierro del uniforme de Tanya",
+    "para_que": "Referencia de emblema/objeto icónico (punto 25) usado en material de marketing del juego",
+    "licencia": "Copyright NUT inc./Esprit, uso de referencia editorial"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki_Light_Novel",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla oficial de los 14 títulos en latín de la novela ligera con su traducción (Deus lo vult, Plus Ultra, etc.)",
+    "para_que": "Vocabulario y símbolos de la franquicia, estructura de arcos por volumen (punto 25)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom; los títulos citados son propiedad de Kadokawa/Enterbrain"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Operation_Orb",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Orbe de Cómputo (Computation Orb), objeto mágico-tecnológico central de la serie",
+    "para_que": "Objeto icónico modelable en Blender, vocabulario propio (punto 25)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Silver_Wings_Assault_Medal",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la máxima condecoración militar del Imperio, casi siempre póstuma",
+    "para_que": "Emblema/objeto icónico para lámina o prop (punto 25)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Terminologies",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla comparativa de traducciones discrepantes de términos clave (rangos, naciones, Operation Orb)",
+    "para_que": "Evitar mezclar traducciones al citar diálogos o rangos (punto 25/6)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  },
+  {
+    "url": "https://truefork.org/wp/deciphering-youjo-senki-part-1-text/",
+    "fuente": "The True Fork (blog de fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis fotograma a fotograma de los textos inventados que aparecen en pantalla en el anime, con las bromas ocultas (ZORUCA, CARLOZEN KONZERN)",
+    "para_que": "Cómo hablan/escriben en pantalla (punto 6), detalle de easter eggs para vocabulario (punto 25)",
+    "licencia": "Blog personal, contenido con copyright del autor; enlace de referencia, no para reproducir imágenes"
+  },
+  {
+    "url": "https://truefork.org/wp/deciphering-youjo-senki-part-3-fonts/",
+    "fuente": "The True Fork (blog de fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reconstrucción del alfabeto ficticio 'print' y 'Fraktur' de la serie en dos fuentes .ttf descargables",
+    "para_que": "Letra libre decorativa para 'cartel del mundo' (punto 5)",
+    "licencia": "Fuentes hechas por un fan (no oficiales), descarga gratuita en http://truefork.org/resources/; no cubren ñ/tildes/¿/¡"
+  },
+  {
+    "url": "https://www.dafont.com/forum/read/350705/y-jo-senki-saga-of-tanya-the-evil-font",
+    "fuente": "dafont.com (foro de identificación de fuentes)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo donde la comunidad identifica el logo internacional de la serie como la fuente Goudy Text (blackletter)",
+    "para_que": "Base para elegir la letra libre del logo (punto 5): UnifrakturMaguntia/UnifrakturCook",
+    "licencia": "Foro público; la identificación no es oficial (⚠️ una sola fuente)"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/unifrakturmaguntia/v22/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVunw.ttf",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente UnifrakturMaguntia (blackletter), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+    "para_que": "Letra libre para el logo/título en la lámina (punto 5)",
+    "licencia": "SIL Open Font License, gratuita"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhnc.ttf",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Special Elite (máquina de escribir), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+    "para_que": "Letra libre para dossiers/telegramas militares en pantalla (punto 5)",
+    "licencia": "SIL Open Font License, gratuita"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDw.ttf",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Black Ops One (stencil militar), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+    "para_que": "Letra libre para gritos/onomatopeyas de combate (punto 5)",
+    "licencia": "SIL Open Font License, gratuita"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FsOs.ttf",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Rajdhani (técnica/angulosa), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+    "para_que": "Letra libre para interfaz de videojuego/HUD militar (punto 5)",
+    "licencia": "SIL Open Font License, gratuita"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Carlo Zen sobre la premisa histórica alternativa (WWI/WWII fusionadas) del Imperio",
+    "para_que": "Reglas del mundo en cinco líneas (punto 25), inspiración real (punto 24)",
+    "licencia": "Artículo periodístico, enlace de referencia"
+  },
+  {
+    "url": "https://news.denfaminicogamer.jp/interview/youjo-senki",
+    "fuente": "Dengeki/Famitsu Nico Gamer (denfaminicogamer.jp)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista en japonés (2017) con referencias al mundo mezclando vocabulario de la Primera y Segunda Guerra Mundial",
+    "para_que": "Fuente en japonés para las reglas del mundo (punto 25) y contexto de producción (punto 18)",
+    "licencia": "Artículo periodístico en japonés, enlace de referencia"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2021-12-04/saga-of-tanya-the-evil-smartphone-game-ends-service-in-january/.180243",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia del cierre del videojuego móvil Madoushi Kaku Tatakaeri (17-ene-2022)",
+    "para_que": "Ficha del videojuego de la franquicia (punto 11)",
+    "licencia": "Artículo periodístico, enlace de referencia"
+  },
+  {
+    "url": "https://www.4gamer.net/games/509/G050970/20201210187/",
+    "fuente": "4Gamer.net",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura en japonés del lanzamiento del videojuego móvil (10-dic-2020), roles de combate y mecánicas",
+    "para_que": "Detalle de mecánica y roles del videojuego (punto 11)",
+    "licencia": "Artículo periodístico en japonés, enlace de referencia"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki:_Madoushi_Kaku_Tatakaeri",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del videojuego móvil: desarrollador, roles de combate, guionista de eventos",
+    "para_que": "Punto 11 (videojuegos de la franquicia)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Empire",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la nación 'Imperio', con la cita de Carlo Zen sobre su inspiración en la Alemania de Weimar",
+    "para_que": "Reglas del mundo (punto 25)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki_Timeline",
+    "fuente": "Youjo Senki Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cronología completa de la historia por etapas: vida anterior, academia militar, frentes de guerra",
+    "para_que": "Historia por arcos (punto 25)",
+    "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+  }
+]
