@@ -305,10 +305,78 @@ arte **Yasunao Moriyasu** · diseño de color **Asuka Yokota** · CG: productor
   instrumento) — [Sakuga Blog](https://blog.sakugabooru.com/2022/12/26/bocchi-the-rock-complete-production-notes-and-final-impressions/) ✅.
   Para la lámina: un encuadre bajo/cercano al instrumento (guitarra, bajo o
   batería) funciona como referencia de composición fiel a la serie.
-- No pude ver los 12 episodios completos para catalogar ángulos por emoción de
-  forma exhaustiva (YouTube pide login; el vídeo del Blu-ray en Internet
-  Archive sólo cubre el OP/ED, 102 s) — **esto queda pendiente**, ver
-  «Sigue:» al final.
+
+**Segunda tanda (mirado con `fotogramas.py --cortes` sobre tráilers oficiales
+de Dailymotion, ya que los 12 episodios completos siguen sin verse — YouTube
+sigue pidiendo iniciar sesión)**: catalogado por emoción, con vídeo y minuto
+(±2 s son la ficha de planos, no de memoria):
+
+- **Pánico / bajón (ansiedad)**:
+  - Primer plano extremo, dibujo deliberadamente **garabateado/fuera de
+    modelo** (líneas temblorosas, proporciones rotas) cubriéndose media cara
+    con el pelo: [Dailymotion x9696u6, plano 11, 0:13](https://www.dailymotion.com/video/x9696u6?t=13)
+    ✅ (visto yo mismo, hoja 1 de `recap-mx/hojas`).
+  - Ojos muy abiertos en primerísimo primer plano + texto en pantalla enorme
+    superpuesto («I don't want to work, I'm scared! Society is scary!»):
+    [x9696u6, planos 19-20, 0:27-0:28](https://www.dailymotion.com/video/x9696u6?t=27) ✅.
+  - Silueta a contraluz tocando la guitarra sola en un cuarto oscuro (plano
+    introspectivo/triste, cámara fija, sin música ni gente): [x9696u6, plano 21, 0:29](https://www.dailymotion.com/video/x9696u6?t=29) ✅.
+  - **Tarjeta de personaje con distorsión tipo VHS/glitch** (líneas de escaneo,
+    aberración cromática rosa neón, marco roto) para presentar a Bocchi, y la
+    misma plantilla en amarillo para Nijika y en rojo para Kita — es la MISMA
+    familia de «bajón» visual (quiebre de imagen) aplicada al grafismo del
+    tráiler, no sólo a la animación: [Dailymotion x8esy25, plano 8, 0:11](https://www.dailymotion.com/video/x8esy25?t=11),
+    [plano 28, 0:43](https://www.dailymotion.com/video/x8esy25?t=43) (Nijika),
+    [plano 70, 1:40](https://www.dailymotion.com/video/x8esy25?t=100) (Kita) ✅
+    (tres cartas vistas, mismo recurso con 3 personajes distintos → dos
+    fuentes/casos cruzados dentro del propio material oficial).
+- **Euforia de concierto**:
+  - Silueta de cuerpo entero a contraluz con luces de escenario rojo/naranja
+    muy saturadas, pelo en movimiento, plano bajo (la cámara mira hacia
+    arriba): [x8esy25, planos 57-58, 1:20-1:21](https://www.dailymotion.com/video/x8esy25?t=80) ✅.
+  - Primer plano de cantante con micrófono, boca abierta, mirada intensa hacia
+    el público (no a cámara): [x9696u6, planos 61-63, 1:26-1:28](https://www.dailymotion.com/video/x9696u6?t=86) ✅.
+  - Plano medio de dos personajes cantando muy cerca de un mismo micrófono,
+    contraluz de neón rojo/azul con el letrero «STARRY» visible detrás:
+    [x9696u6, plano 58, 1:22](https://www.dailymotion.com/video/x9696u6?t=82) ✅.
+- **Ternura / cotidiano**:
+  - Dos personajes de perfil, uno frente al otro, fondo de cielo estrellado
+    difuminado (bokeh), plano medio simétrico, conversación íntima nocturna:
+    [x9696u6, planos 70-71, 1:38-1:39](https://www.dailymotion.com/video/x9696u6?t=98) ✅.
+  - Dos personajes sentados en juegos de resorte de un parque infantil
+    (columpios de muelle), plano general, luz de atardecer cálida, figuras
+    pequeñas en el encuadre: [x8esy25, planos 68-69, 1:38-1:39](https://www.dailymotion.com/video/x8esy25?t=98) ✅.
+  - Bocchi sola de espaldas en el escenario vacío, foco único cenital, guitarra
+    en alto: [x9696u6, plano 75, 1:45](https://www.dailymotion.com/video/x9696u6?t=105) ✅.
+- **Vergüenza**:
+  - Manos juntas en gesto de súplica, ojos cerrados, cabeza ligeramente
+    inclinada, plano medio-corto: [x8esy25, plano 20, 0:33](https://www.dailymotion.com/video/x8esy25?t=33) ✅.
+  - Primer plano con fondo de flores rosa desenfocadas, mirada de lado
+    evitando cámara, negando avergonzada («I don't, actually»):
+    [x8esy25, plano 42, 1:03](https://www.dailymotion.com/video/x8esy25?t=63) ✅.
+- **Comedia / deformación** (para variar del «bajón» serio): reacción
+  exagerada con cara aplastada/arrugada y onomatopeya en pantalla («キター!»),
+  primer plano muy cerrado: [x9696u6, planos 29-30, 0:36-0:37](https://www.dailymotion.com/video/x9696u6?t=36) ✅.
+  Símbolo de emoción simplificado: rayitas onduladas junto a la cabeza para
+  indicar apuro/desánimo cómico (chiste de «estoy en bancarrota»): [x8esy25,
+  plano 61, 1:26](https://www.dailymotion.com/video/x8esy25?t=86) ✅ — vocabulario
+  de expresión útil para el punto 17 (guía de IA de imagen).
+
+**La OVA/AMV de Internet Archive (`youtube-MWsCjdC6Siw`, «secret OVA: Rabbit
+Hole Side Concert»)**: revisada de nuevo a propósito con `fotogramas.py`. El
+primer fotograma (0:00) sí muestra un rótulo real de la serie, el banner
+**«第◯回 秀華祭»** (festival cultural Shūka) que también aparece en el tráiler
+oficial ([x9696u6, plano 60, 1:24](https://www.dailymotion.com/video/x9696u6?t=84))
+✅ — coincide. Pero el resto del vídeo (0:12 en adelante) mezcla ese arranque
+con métricas ajenas a Bocchi the Rock: un perrito caliente/corndog de un meme
+distinto, una barra de vida con texto en japonés no relacionado, y una
+secuencia tipo formulario web repetido «Rabbit Hole… YES» — la descripción del
+propio ítem lo confirma: es un **AMV/音MAD de fans** (Blender + Krita,
+canción de DECO\*27) que **remezcla** clips reales con material ajeno, no
+metraje limpio de un episodio. **No lo uso como fuente de encuadre** más allá
+del primer fotograma (festival), para no mezclar planos inventados con planos
+reales — ya lo había marcado en «No encontré» de la primera tanda y se
+mantiene la misma conclusión, ahora comprobada por segunda vez.
 
 ### Hallazgo visual propio: menú del Blu-ray oficial (vol. 1), mirado con fotogramas.py
 
