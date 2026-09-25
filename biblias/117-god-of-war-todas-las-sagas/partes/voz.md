@@ -495,3 +495,29 @@ resultado), **no de haber visto el vídeo**. Lo marco todo ⚠️ por eso, tal c
 Sigue: mirar el vídeo real de la muerte de Brok (con minuto exacto) y de un clip de fandub en cuanto
 YouTube deje de bloquear, y buscar una reseña de doblaje dedicada a *Ragnarök* (no sólo a 2018) si
 aparece alguna en ANMTV o similar más adelante.
+
+**Cara y lenguaje corporal, visto en fotogramas** (tráiler de *Ragnarök*, con las hojas de contacto ya
+sacadas por el investigador de vídeo con `episodio.py` en
+`/tmp/claude-0/trabajo/117-episodios/ragnarok-trailer/hojas/`, miradas por mí con `Read`; cito minuto
+y enlace con `&t=` sobre la fuente real, Dailymotion) · https://www.dailymotion.com/video/x8do3jy · ✅:
+- **Kratos, saludo/respeto entre guerreros**: en el 2:36 Kratos y otro guerrero se dan la mano
+  agarrándose el antebrazo (el saludo vikingo clásico), mirándose fijo, sin sonreír — así saluda
+  Kratos a quien respeta, nunca con un apretón de manos normal ·
+  https://www.dailymotion.com/video/x8do3jy?t=156 · ⚠️ (un fotograma, sin diálogo claro que lo
+  confirme, pero el gesto es inequívoco).
+- **Kratos, ira contenida**: en el 1:57 primer plano de Kratos con la pintura de guerra roja muy
+  marcada, cejas bajas, mandíbula tensa — la cara de rabia de Kratos no abre la boca ni grita, se
+  cierra · https://www.dailymotion.com/video/x8do3jy?t=117 · ⚠️.
+- **Kratos y Atreus, tensión/reproche**: en el 1:02 padre e hijo se encaran de perfil, muy cerca,
+  ninguno sonríe — es la postura típica de sus discusiones: cuerpo firme, sin gestos de manos ·
+  https://www.dailymotion.com/video/x8do3jy?t=62 · ⚠️.
+- **Atreus, concentración/determinación**: entre 0:47 y 0:55 varios planos de Atreus con el arco
+  tensado, mirada fija al objetivo, mandíbula apretada — postura de tiro, muy distinta a su cara de
+  niño curioso de las escenas de diálogo · https://www.dailymotion.com/video/x8do3jy?t=52 · ⚠️.
+- **Atreus, vulnerabilidad/dolor**: en el 1:15 aparece tendido en el suelo junto a una criatura
+  gigante herida, de costado, sin mirar a cámara — postura de derrota o agotamiento, contrasta con
+  su pose de tiro pocos segundos antes · https://www.dailymotion.com/video/x8do3jy?t=75 · ⚠️.
+
+Estos 5 fotogramas son un complemento con lo que ya vio el investigador de vídeo para el punto 14
+(poses); aquí los uso sólo para la cara/cuerpo en cada emoción del punto 13, no repito el resto de
+su ficha de planos.
