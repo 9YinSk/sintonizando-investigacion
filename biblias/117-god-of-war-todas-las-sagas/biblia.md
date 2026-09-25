@@ -1820,3 +1820,362 @@ buscador, vistas sin comprobar** ⚠️.
 - **Lámina de colección** oficial de Cook & Becker (§3).
 
 ---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### Influencias que reconoce el estudio
+
+- **Cory Barlog**: la cámara sin cortes viene del plano continuo de
+  **Rope** (Hitchcock) y **Birdman**; quería que el final se sintiera
+  como **Adaptation** ⚠️ cita indirecta
+  ([Variety](https://variety.com/2018/artisans/production/god-of-war-camera-unbroken-takes-1202819072/),
+  [Game Developer](https://www.gamedeveloper.com/production/barlog-i-god-of-war-i-s-single-shot-camera-trick-was-a-tough-sell-for-devs)).
+- El **40 % del equipo** no entendió la idea del plano único hasta jugar
+  el resultado ✅ (Game Developer).
+- El **tono padre e hijo** nace de su vida como padre ✅ (Time, Vice, §22).
+
+### Obras de tono parecido (prensa) ✅
+
+Listas de [GamesRadar+](https://www.gamesradar.com/games-like-god-of-war/)
+y [TheGamer](https://www.thegamer.com/games-like-god-of-war-ragnarok/),
+cruzadas:
+- **Hellblade: Senua's Sacrifice**: protagonista atormentada, **también
+  mitología nórdica**, cámara pegada, tono introspectivo (la más citada).
+- **Dark Souls**: atajos y puntos de viaje (como las Puertas Místicas),
+  combate exigente.
+- **The Last of Us Part II** (también de Sony): cuerpo a cuerpo brutal,
+  cámara al hombro, vínculo de cuidado.
+- **Shadow of Mordor** y **Final Fantasy XVI**: arma pesada y escenas de
+  dioses; **Lies of P**: un mito clásico en tono oscuro.
+
+### Láminas del servidor que se le parecen (para no repetir)
+
+- **Vinland Saga (78)**: también vikingos; su concepto 1 es un **mapa de
+  campaña en la casa larga, de noche, con el hogar encendido**, y su
+  canal #proyectos. Aquí **no** se repite: nada de casa larga ni mapa de
+  pergamino a la luz del fuego.
+- **Saint Seiya (39)**: también mitología griega, y su concepto A usa la
+  **«Pandora Box»** (la caja de la armadura) en #general-doblaje. La Caja
+  de Pandora de God of War (concepto B) es otro objeto (tallada con
+  costillas y cuernos, luz roja), pero si el dueño las ve demasiado
+  parecidas, el concepto B puede pasar al **trono de Ares**.
+- En la lista de encargos hay otros juegos que pueden cruzarse:
+  **Hellblade (118)**, también nórdica: no repetir piedras rúnicas
+  iguales; **The Last of Us (116)**.
+- Hunter x Hunter y Attack on Titan ya usan **Cinzel** para títulos: aquí
+  va en mayúsculas azul plateado (griega) o con Cabin debajo (nórdica),
+  para que no parezca la misma lámina.
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### Las reglas del mundo en cinco líneas ✅
+
+1. Kratos, un mortal espartano, se hizo **Dios de la Guerra** griego al
+   matar a Ares; tras destruir el Olimpo huyó a las **tierras nórdicas**,
+   donde envejeció y tuvo un hijo ([wiki](https://godofwar.fandom.com/wiki/God_of_War_(series))).
+2. El Norte son **Nueve Reinos** que cuelgan de **Yggdrasil**, más un
+   **Reino Entre Reinos** en medio ([wiki: Nine Realms](https://godofwar.fandom.com/wiki/Nine_Realms)).
+3. Antes sólo existía el vacío **Ginnungagap**; el Fuego y el Hielo se
+   encontraron y crearon la **Chispa del Mundo**.
+4. Cada mitología tiene **su escritura**: griego antiguo en la saga
+   griega, **runas** en la nórdica (§6).
+5. **Ragnarök** es el fin del mundo nórdico profetizado; el segundo
+   juego nórdico gira en torno a evitarlo o provocarlo.
+
+### La historia por arcos
+
+**Saga griega** (orden de la historia: *Sons of Sparta* → *Ascension* →
+*Chains of Olympus* → *God of War* → *Ghost of Sparta* → *II* → *III*) ✅:
+- *Sons of Sparta*: Kratos y su hermano **Deimos**, niños en el
+  entrenamiento espartano ⚠️.
+- **Ares** engaña a Kratos, general espartano, para que mate a su esposa
+  y su hija; las cenizas de su familia se le pegan a la piel para
+  siempre (de ahí su **piel de ceniza**; el tatuaje rojo simboliza ese
+  sacrificio, según la parte de imagen). Es el «**Fantasma de Esparta**» y sirve al Olimpo
+  para librarse de las pesadillas.
+- *God of War* (2005): mata a Ares y se vuelve **Dios de la Guerra**
+  (§2, trono a las [14:15](https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855)).
+- *II* y *III*: **Zeus**, su padre, lo traiciona; Kratos se venga de todo
+  el panteón, **mata a Zeus**, destruye el Olimpo y **libera la
+  Esperanza** de la Caja de Pandora.
+
+**Saga nórdica** ✅:
+- *God of War* (2018): Kratos, viejo, vive en Midgard con **Faye** y
+  **Atreus**. Faye muere; padre e hijo van a esparcir sus cenizas desde
+  el pico más alto de los Nueve Reinos. Los persigue **Baldur, «el
+  Forastero»**, hijo de Odín. De la venganza a la paternidad.
+- *Ragnarök* (2022): Kratos y Atreus deciden si evitar o provocar el fin
+  del mundo, contra **Odín** y **Thor**. Atreus descubre que es **Loki**.
+  Muere Brok (§22).
+- *Valhalla* (2023, gratis): epílogo jugable; Kratos revive su pasado
+  griego en un más allá de prueba, como cierre.
+
+### Emblemas y símbolos
+
+- **Ω (omega)**: la marca de Kratos y del logo; el fin de los dioses
+  griegos (§6).
+- **Los glifos de los Nueve Reinos**: una runa en un círculo por reino,
+  en el mapa, el viaje y los menús ✅ (§20).
+- **Runas de los ataques rúnicos**: un símbolo por habilidad de cada
+  arma ⚠️.
+- **La mano amarilla** del Codex y de los árboles (§7).
+- **Futhark Antiguo** del juego ✅ ([wiki: Languages](https://godofwar.fandom.com/wiki/Languages)):
+  ᚠ f · ᚢ u · ᚦ th · ᚨ a · ᚱ r · ᚲ k · ᚷ g · ᚹ w · ᚺ h · ᚾ n · ᛁ i ·
+  ᛃ j · ᛇ ï · ᛈ p · ᛉ z · ᛊ s · ᛏ t · ᛒ b · ᛖ e · ᛗ m · ᛚ l · ᛝ ng ·
+  ᛟ o · ᛞ d.
+
+### Objetos icónicos ✅
+
+- **Espadas del Caos**: encadenadas a los brazos desde que sirvió a Ares;
+  son **el monstruo que fue**. Las vuelve a tomar por amor a su hijo
+  ([wiki](https://godofwar.fandom.com/wiki/Blades_of_Chaos)).
+- **Hacha Leviatán**: de hielo, forjada por los enanos, herencia de
+  Faye; es **el cambio**: ya no mata por placer
+  ([wiki](https://godofwar.fandom.com/wiki/Leviathan_Axe),
+  [CBR](https://www.cbr.com/god-of-war-ragnarok-leviathan-axe-explained/)).
+- **Lanza de Draupnir**: dorada, la primera hecha **para** Kratos; una
+  lanza es la primera arma de un espartano
+  ([wiki](https://godofwar.fandom.com/wiki/Draupnir_Spear)).
+- **La cabeza de Mimir**, el guía colgado del cinto ⚠️.
+- **La Caja de Pandora** (griega) y **las cenizas de Faye** (nórdica):
+  las dos cosas que ordenan cada saga; una es poder, la otra es duelo.
+- **El Codex** de Atreus (§7).
+
+### Vocabulario que un fan reconoce al instante
+
+- **«Boy»** / «chico» ✅ ([ScreenRant](https://screenrant.com/god-of-war-why-kratos-calls-atreus-boy/)).
+- **«El Forastero»** («The Stranger»), Baldur antes de saber quién es ✅
+  ([Source Gaming](https://sourcegaming.info/2022/12/06/big-baddies-breakdown-the-stranger-god-of-war-2018/)).
+- **Ira Espartana** (*Spartan Rage*); antes, «Rage of the Gods /
+  Titans / Sparta».
+- **Nueve Reinos, Yggdrasil, Ragnarök, Jötunn**.
+- **«Insolent whelp!»** del Kratos griego ⚠️ de memoria; en español
+  circula «¡Mortal insensato!», sin comprobar.
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas: **noche violeta del Norte**, **templo rojo de
+Grecia** y **fragua ámbar de los enanos**. Las tres con un objeto real
+que se puede hacer en Blender, un personaje con pose de §15 y un cuadro
+de diálogo del propio juego (§7). Textos cortos, en la voz de cada uno,
+sin «·», «—» ni paréntesis (regla 4 del dueño).
+
+### Concepto A · «El Codex de los Nueve Reinos» (#guia, hilo «Tus zonas») · recomendado
+
+- **El objeto y el sitio**: el **Codex de Atreus abierto** sobre el
+  **cofre tallado con nudos nórdicos bajo las raíces de Yggdrasil**, con
+  niebla violeta ([epílogo de *Ragnarök*, 1:30](https://www.dailymotion.com/video/x8qej41?t=90)).
+  - **En Blender**: un libro con tapa de **cuero con escamas cosidas,
+    correa y la mano amarilla** ([tapa](https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410));
+    páginas de papel viejo que se curvan; el cofre con Wood095 y relieve
+    de nudos (el [cofre de Sketchfab](https://sketchfab.com/3d-models/none-1baca65311744bfab9d19af31b505f27)
+    como referencia, es CC BY-NC); raíces gigantes; niebla volumétrica.
+- **Los personajes**:
+  - **Atreus**, sentado junto al cofre, **lápiz en la mano**, la otra
+    mano abierta sobre la página como quien explica (pose 3 de Atreus,
+    [0:20](https://www.dailymotion.com/video/x8ca7zx?t=20)). Ropa y
+    cara: hoja `personajes_01.jpg` #17 y #45.
+  - **Mimir**, el que habla: su **cabeza colgada del cinto de Kratos**,
+    girada hacia el libro (hoja `fondos_01.jpg` #510). De Kratos sólo se
+    ve **de la cintura para abajo y un brazo entero** apoyado en el mango
+    del Hacha (regla 7 del dueño: nada de manos sin brazo).
+- **Cómo habla**: **subtítulo del juego, sin caja**, abajo al centro:
+  «**MIMIR**» en Cinzel mayúsculas ámbar, la frase en **Cabin** blanca
+  con sombra suave. Una sola frase, como en el juego.
+- **Dónde va cada texto**:
+  - Arriba a la izquierda, en la niebla: **«TUS ZONAS»** en Cinzel
+    grande, gris plata.
+  - **Página izquierda del Codex**: un boceto a lápiz de **Yggdrasil**
+    con **nueve ramas**, cada una con un glifo de reino (§20). En ocho, a
+    lápiz, las zonas públicas: EMPIEZA AQUÍ, EL ESTUDIO, LA ACADEMIA, LA
+    SALA, EN VIVO, NOTICIAS, EL TALLER, SALAS PROPIAS. La novena rama,
+    **Asgard, dibujada con una cadena**: «STAFF».
+    - Sugerencias con sentido en el juego: EMPIEZA AQUÍ con el glifo de
+      **Midgard** (el hogar), EL ESTUDIO con el de **Svartalfheim** (los
+      enanos que trabajan), EN VIVO con el de **Muspelheim** (fuego).
+  - **Página derecha**, tres líneas a lápiz, una idea cada una:
+    - «Arriba del todo, Canales y roles.»
+    - «Marca los reinos que quieres ver.»
+    - «Lo que cierras sigue ahí. Vuelve cuando quieras.»
+  - En el margen, los nombres de las zonas **en runas de verdad** (Noto
+    Sans Runic, transliteradas con la tabla de §26), como adorno.
+  - **Subtítulo de Mimir**: «Nueve reinos, y uno con candado. Tú eliges
+    qué puertas abres.»
+- **Letras**: título y nombre en Cinzel; páginas a lápiz en MedievalSharp
+  gris grafito ⚠️ (propuesta; comprobar tildes con fontTools antes);
+  subtítulo en Cabin ✅.
+- **Para que no quede plano**:
+  - **Cámara al hombro de Atreus**, como el juego: su hombro y su piel
+    de lobo desenfocados delante, el Codex nítido.
+  - Luz violeta azul `#72739D` `#4F4665` de fondo y **un solo acento
+    cálido**: la semilla que brilla `#E46838` ilumina la página desde
+    abajo.
+  - Raíces delante y detrás, niebla entre capas, motas de nieve.
+- **Si se satura**: lámina 2 con los 14 hilos de #guia como entradas del
+  bestiario del Codex.
+
+### Concepto B · «La Caja de Pandora» (#reto-de-la-semana)
+
+- **El objeto y el sitio**: la **Caja de Pandora**, tallada con costillas
+  y cuernos, con **luz roja saliendo por la tapa entreabierta**
+  ([final de *III*, 5:20](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=320)),
+  sobre un altar de piedra al fondo de un **pasillo con alfombra roja y
+  antorchas** (hoja `fondos_01.jpg` #487 y #488).
+  - **En Blender**: caja con relieve y un material de emisión roja
+    dentro; piedra con Marble012 y Travertine009; antorchas con luz
+    naranja; alfombra con simulación de tela.
+- **El personaje**: **Kratos griego**, piel de ceniza y tatuaje rojo
+  (render de la hoja `personajes_01.jpg` #1). De pie tras la caja,
+  **una mano con el brazo entero sobre la tapa**, a punto de abrirla; la
+  otra baja, con la Espada del Caos colgando de su cadena. Mirada al
+  frente, mandíbula tensa (pose 1, [1:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90),
+  y cara de la pose 11).
+- **Cómo habla**: dos cuadros de la saga griega:
+  - **Cartela arriba**, fondo negro, **Cinzel mayúsculas azul plateado**,
+    como «THREE WEEKS EARLIER» (hoja `fondos_01.jpg` #489).
+  - **Subtítulo blanco abajo** (hoja `fondos_01.jpg` #496), en Cabin, con
+    «KRATOS» en Cinzel.
+- **Dónde va cada texto**:
+  - Cartela: **«RETO DE LA SEMANA»** y debajo, pequeño: «Una línea. Una
+    escena. Un tono.»
+  - **En la tapa de la caja**, tallado y encendido en rojo: «RETO
+    ACTIVO».
+  - **Placas de bronce** alrededor del altar, una por etiqueta: Doblaje,
+    Canto, Locución, Para empezar, Libre, Cerrado. La de **«Con trampa»**
+    brilla roja, como la caja.
+  - **Subtítulo de Kratos**: «Ábrela. Graba dentro del hilo. No hay
+    premio.»
+- **Para que no quede plano**:
+  - Delante y desenfocada, la **cadena de la Espada** cruzando el suelo
+    hacia la cámara.
+  - **Luz roja desde abajo** en la cara de Kratos (`#78130C` sobre
+    `#060101`), antorchas cálidas a los lados, el pasillo que se aleja
+    en oscuridad oliva `#23241D`.
+  - Polvo en el aire, iluminado por la caja.
+- **Ojo**: Saint Seiya (39) usa una «Pandora Box» en otro canal (§25). Si
+  se parecen demasiado, el mismo concepto funciona con Kratos **en el
+  trono de Ares** (pose 4) y las placas en los escalones.
+- **Idea extra para el reto**: «La misma frase, tres edades», con Kratos
+  joven, griego y nórdico diciendo la misma palabra (§14, «boy»).
+
+### Concepto C · «El mostrador de Brok» (#hardware)
+
+- **El objeto y el sitio**: el **mostrador de la tienda de Brok**, junto
+  a la fragua (hoja `vestuario_01.jpg` #392, luz ámbar). Sobre el yunque,
+  **un micrófono de estudio** que Brok acaba de forjar, con runas
+  grabadas en la rejilla.
+  - **En Blender**: mostrador de madera (Wood095), yunque y herramientas
+    (Metal063), el micrófono; **etiquetas de metal colgadas de cordeles**;
+    chispas con partículas.
+- **Los personajes**: **Brok**, detrás del mostrador, **los dos brazos
+  apoyados** en la madera, inclinado hacia el cliente, con mirada de
+  vendedor que no se deja engañar. **Sindri** al fondo, limpiando una
+  pieza con un trapo. Ropa y cara: las **guías oficiales de cosplay** de
+  Brok y Sindri ([PlayStation](https://www.playstation.com/en-us/god-of-war/community/cosplay/))
+  y la hoja #392 ⚠️ (no hay poses suyas con minuto, §15).
+- **Cómo habla**: **subtítulo sin caja** abajo: «**BROK**» en Cinzel,
+  frase en Cabin. Brok habla con **modismos latinos**, sin filtro pero
+  sin pasarse ⚠️ (sus frases latinas no están transcritas, §10).
+- **Dónde va cada texto**:
+  - Tallado en un **letrero de madera** sobre el mostrador:
+    «HARDWARE».
+  - **Objetos en el mostrador**, cada uno con su etiqueta: Micrófono,
+    Interfaz, Auriculares, Cámara, Tratamiento acústico.
+  - **Cuatro placas de precio** colgadas en un gancho: Menos de 50, De
+    50 a 150, De 150 a 400, Más de 400.
+  - **Tres sellos** en un tablón, marcados a martillo: «Lo tengo y lo
+    recomiendo», «No lo compres», «Alternativa barata».
+  - **Subtítulo de Brok**: «Un hilo por cacharro. Y el precio delante,
+    que aquí nadie regala nada.»
+- **Para que no quede plano**:
+  - Delante, el **borde del yunque** desenfocado, con **chispas** al
+    aire.
+  - La **fragua** detrás de Brok como única luz fuerte (acento
+    `#D96D4A`), sombras `#292424`; vapor y humo entre Brok y Sindri.
+- **Si se satura**: lámina 2 con los sellos y los rangos, dichos por
+  Sindri.
+
+### Ideas para láminas 2 y extras
+
+- **#castings o #reto**: el concurso «Inmortaliza tu voz» de 2012 (§23):
+  un fan latino que dobló dentro del juego real.
+- **#textos, lámina 2**: el hilo de ejemplo «Monólogo — hombre adulto,
+  40 segundos, tono contenido» es la voz de Kratos: su frase «Cierra tu
+  corazón…» como guion de muestra.
+- **#demos**: las voces medidas del reparto (Kratos 89 Hz, Atreus 273
+  Hz) como ejemplo de rango vocal (§8).
+
+---
+
+## 28 · Lo que no se pudo verificar
+
+Juntado de los «No encontré» de las cuatro partes, más lo que vio el
+redactor. Cada cosa dice por qué.
+
+### Bloqueos de red (todo el día)
+
+- **YouTube**: pidió iniciar sesión o dio 429, incluso sólo para
+  metadatos. Por eso: **ninguna escena en 1080p**, **sin clips oficiales
+  doblados**, **sin vistas** de fandubs, sin la charla GDC de sonido.
+  Plan B usado: Dailymotion e Internet Archive.
+- **ArtStation** y ArtStation Magazine: 403 (Cloudflare), dos intentos.
+- **TCRF**, **Game UI Database** e **Interface In Game**: reto de
+  Cloudflare.
+- **Wayback Machine** (`web.archive.org`): bloqueado por la red de la
+  sesión.
+- **TV Tropes**: 403 directo y por Wayback.
+- **TikTok**: la página carga sin datos; sin vistas ni clips.
+
+### Datos que faltan o quedan dudosos ⚠️
+
+- **Imagen**: modelos 3D libres de **sitios**; galería oficial del modo
+  foto; **fondos de pantalla oficiales**; pack CC0 de **greca griega** y
+  de **nudo nórdico** comprobado pieza a pieza; contenido de los Art
+  Blast; hex de la **piel nórdica de Kratos** y del **tatuaje rojo**;
+  hex de Freya, Mimir, Brok y Sindri; el traje «Odisea Oscura» sin medir.
+- **Vídeo**: *Ghost of Sparta* y *Ascension* sólo por tráiler (sin
+  longplay); **qué tema suena en cada escena** (sólo por el tracklist);
+  el estudio del tráiler de *Chains of Olympus*; *Sons of Sparta* sin
+  investigar a fondo.
+- **Voz**: encuesta oficial de popularidad (no existe o no se encontró);
+  reseña de doblaje de *Ragnarök*; **la muerte de Brok en vídeo**; vistas
+  de los fandubs; frases latinas de **Brok, Sindri, Atenea y Zeus** (las
+  muestras están, sin transcribir); cumpleaños (no se publican).
+- **Texto**: el archivo de **Berserker**; tildes de Gill Sans WGL, Cinzel,
+  MedievalSharp y GFS Didot **sin comprobar con fontTools** (sólo Cabin y
+  la fuente de dafont se comprobaron); páginas del cómic de Dark Horse;
+  **colores del HUD**; quién diseñó Berserker; letra de la cartela griega
+  de 2005.
+- **Caras por emoción**: faltan la **vergüenza** y el **miedo** de
+  Kratos y Atreus, la **rabia** de Atreus, y todas las de Mimir, Freya y
+  Baldur (§8).
+- **Minuto de la escena de las cenizas** (final de 2018): descrita por
+  dos fuentes, sin vídeo.
+- **Quién habla** en el minuto 4:00 del final de *III* (la parte dice «el
+  espíritu de la Esperanza»).
+- **El 0:42 de la criatura de fuego** (§5): el enlace de la parte apunta
+  al vídeo del epílogo; por la escena, debería ser el tráiler de
+  *Ascension*.
+
+### Correcciones del redactor (vistas en las imágenes que citan las partes)
+
+- **`Kratos_gospng.png` es de la era griega**, no de la nórdica (piel de
+  ceniza, tatuaje rojo, Espadas, falda con greca). Se corrigió en §16 y en
+  `referencias.json`.
+- **En la era nórdica el tatuaje sigue rojo** (captura de Steam de
+  *Ragnarök* y tráiler, 1:57). La regla «no pintar tatuaje rojo en la era
+  Ragnarök» de la parte de imagen **era un error**.
+- En la captura de *Ragnarök* Kratos lleva **las Espadas del Caos**, no
+  el Hacha Leviatán en llamas.
+- Kratos nórdico es **calvo con barba**; la parte de imagen decía «pelo
+  largo recogido».
+- *Ragnarök* salió en PC el **19-sep-2024** (Steam), no en 2025.
+- El ranking de Danbooru y la tabla de reparto de `datos-voz.md` venían
+  rotos: aquí se usan los de `partes/voz.md`.
+- En Wallhaven sólo 1 de 15 fondos era de la serie.
+
+---

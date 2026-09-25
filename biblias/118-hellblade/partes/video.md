@@ -187,25 +187,83 @@ guía de IA del punto 17: «manos cerradas = determinación/poder, manos sueltas
 <a name="lamina"></a>
 ## Lo mejor para la lámina
 
-_(pendiente)_
+1. La costa con niebla y el barco naufragado (HB2, 0:10, punto 2) resume «Orkney → Islandia» en una sola imagen; sirve de fondo para cualquier concepto de lámina.
+2. El retrato frontal con la corona dorada y la gema turquesa (HB1, 0:29) es la pose de «presentar personaje» más limpia de toda la muestra — luz cálida, sin sangre ni monstruos.
+3. La fórmula de color se repite en las dos entregas: niebla casi en gris (7-26% de saturación) + un acento muy saturado (fuego naranja o rayo/espada azul eléctrico) — es la paleta a seguir para que la lámina «se sienta Hellblade» sin copiar un fotograma.
+4. El símbolo espiral azul-blanco que brilla en la cadera de Senua durante el combate (HB1, 1:34) es el mismo icono de la interfaz del juego («foco»/parry) — un objeto pequeño y reconocible, perfecto para un detalle de lámina sin necesitar el personaje entero.
+5. El audio es tan de marca como la imagen: susurro binaural constante + «Illusion» de VNV Nation en los créditos; si la lámina o el canal tienen algún elemento de sonido, esa es la referencia.
 
 ---
 
 <a name="no-encontre"></a>
 ## No encontré
 
-_(pendiente)_
+- ⚠️ El tráiler de anuncio de **TGA 2019** (con la canción «In Maidjan» de Heilung) sólo está en YouTube con acceso completo; este servidor pide iniciar sesión para YouTube, así que no se pudo bajar ni ver fotograma a fotograma — el dato de la canción queda confirmado por texto (Louder Sound + GamesRadar), no por imagen propia. Búsquedas: «Senua's Saga Hellblade II reveal trailer TGA 2019 Heilung In Maidjan», intentos de descarga con `fotogramas.py` sobre la URL de YouTube (falló por el bloqueo).
+- ⚠️ Qué tema suena **exactamente** en el momento de la rendición final contra Hela (el clímax emocional citado en el punto 21, que no es mío) no quedó confirmado al 100%: hay dos temas candidatos, «Hela» y «Just Like Sleep» (ambos de Passarella Death Squad/García Díaz), y ninguna fuente dice cuál sonaba en qué segundo exacto del combate.
+- ⚠️ No se pudo bajar un longplay completo de Internet Archive para sacar fotogramas de **jugabilidad real** (no cinemática): el archivo «Toda la introducción» pesaba varios gigabytes y se cortó a la mitad de la descarga (se borró para no gastar disco). Se compensó con los tráileres oficiales de Steam, que sí muestran jugabilidad real intercalada con cinemáticas y sí llegan a 1080p.
+- No es un punto mío, pero de paso: no vi ningún tráiler o clip **doblado al español latino** en Dailymotion ni Internet Archive (todos los resultados de `datos-video.md` están en inglés o francés) — se lo dejo anotado al investigador de voz para el punto 8.
+- ⚠️ La wiki de Fandom (`thehellblade.fandom.com`) no tiene página de personajes por episodio para los videojuegos (no hay «capítulos» como en un anime); por eso los minutos de este documento son siempre de tráiler o vídeo, nunca de episodio.
 
 ---
 
 <a name="cumplimiento"></a>
 ## Cumplimiento de mis puntos
 
-_(pendiente)_
+| Punto | Estado | Por qué |
+|---|---|---|
+| 2 — Fotogramas de escenas icónicas, 1080p+, con minuto | ✅ | 9 fotogramas propios en 1920×1080 real (medido) de los tráileres oficiales de Steam de ambos juegos, cada uno con minuto y fuente; más 3 escenas de apoyo en baja resolución marcadas como tal |
+| 4 — Fondos y sitios: niebla, luz, paleta, texturas reales | ✅ | 9 paletas medidas con `estilo.py` sobre fotogramas propios; contexto de Islandia/Orkney con 5+ fuentes (Xbox Wire, PCGamesN, Windows Central, Gameranx, comparación fotogrametría HB1 vs HB2); texturas CC0 equivalentes de ambientcg.com |
+| 9 — Música y sonido | ✅ | compositores de los dos juegos (Andy LaPlegua, David García Díaz, Matteo Tummino, Jamie Molloy, Heilung) con fuentes cruzadas; canción de créditos confirmada; equipo de audio binaural de HB2 con nombres y roles; consultor de psicosis (Paul Fletcher) con dos fuentes; dos datos quedan ⚠️ (tema exacto de la rendición final, «Seidh» con una sola fuente) |
+| 10 — Vídeos: tráileres, escenas, análisis, tendencias | ✅ | catálogo de tráileres oficiales de Steam y Dailymotion; vídeo de making-of visto fotograma a fotograma; charla de análisis técnico (GDC 2025) citada; dos tendencias documentadas con 3-4 fuentes cada una (permadeath, cruce con Heilung) |
+| 14 — Poses de Senua analizadas (6-10, con minuto) | ✅ | 10 poses con minuto, descripción de postura/manos/mirada/gesto y para qué sirve cada una (presentar, explicar, regañar, pensar…), con un patrón de manos resumido para la guía de IA |
 
 ---
 
 <a name="bitacora"></a>
 ## Bitácora de búsqueda
 
-_(pendiente)_
+**Vídeo mirado de verdad** (obligatorio): tráiler oficial de Hellblade 1 (Steam, 1080p, 2:01,
+completo fotograma a fotograma con `fotogramas.py --cortes`); tráiler oficial de Hellblade II
+(Steam, 1080p, 2:34, ídem + ficha de `episodio.py` con transcripción Whisper en `partes/episodios.md`);
+«Hela Trailer» y «Ragnarok Trailer/dev diary» de Dailymotion (`--cortes`, se vieron las hojas
+completas). En total 9 fotogramas propios en 1920×1080 y más de 15 en baja resolución, todos
+mirados con Read antes de describirlos (no se copió ninguna descripción de reseña).
+
+**Herramientas usadas:** `fotogramas.py` (`--cortes` y `--fotograma`) sobre Steam CDN y Dailymotion;
+`episodio.py` para la ficha de los dos tráileres (añadida a `partes/episodios.md`, id `118-hellblade`);
+`estilo.py` para 9 paletas medidas; `yt-dlp -F` para comprobar la resolución real antes de citar nada
+como «1080p»; `curl` + `store.steampowered.com/api/appdetails` para encontrar el CDN de vídeo de Steam
+sin pasar por YouTube; `ambientcg.com/api/v2` para texturas CC0.
+
+**Búsquedas web** (cupo usado: 11 de ~50; español, inglés):
+1. Hellblade 2 soundtrack composer Andy LaPlegua Heilung
+2. Hellblade Senua's Sacrifice binaural audio GDC talk "voices in your head"
+3. Senua's Saga Hellblade II Orkney Iceland location scanning photogrammetry
+4. Hellblade Senua's Sacrifice ending song "Illusion" VNV Nation credits
+5. Hellblade 2 composers Matteo Tummino Jamie Molloy soundtrack
+6. Hellblade 2 Heilung soundtrack track name which scene
+7. "Senua's Saga: Hellblade II" reveal trailer "The Game Awards" 2019 Heilung "In Maidjan"
+8. Hellblade Senua's Sacrifice environment inspired Iceland Norway landscape art director interview
+9. Hellblade Senua's Sacrifice 2017 environments Iceland volcanic landscape reference "Cambridge" photogrammetry
+10. Hellblade Senua's Sacrifice sound effects onomatopoeia whispers reviewers describe
+11. Hellblade Senua's Sacrifice most emotional scene ending reaction Reddit crying
+12. Hellblade Senua's Sacrifice soundtrack track name Hela final boss surrender scene music
+13. Hellblade Senua's Sacrifice "Rot" curse hand mechanic permadeath trailer TikTok viral
+14. Hellblade Senua's Sacrifice Paul Fletcher psychosis consultant Wellcome Trust neuroscientist
+
+**Páginas leídas con WebFetch:** asoundeffect.com (equipo de audio HB2), mcvuk.com (fichaje de Andy
+LaPlegua), news.xbox.com «The Wanderers» (entornos de Islandia), gamesradar.com (Heilung en el
+tráiler, truncado por caché).
+
+**Fuentes consultadas en total en esta parte** (cuento sólo las que aportaron un dato, no las que
+salieron en los resultados sin usarse): MCV/Develop, GDC Schedule, A Sound Effect, Xbox Wire (x2),
+PCGamesN, Gameranx, Windows Central, Wikipedia (Heilung, Hellblade II), Louder Sound, GamesRadar,
+Dualshockers, Spotify, Shazam, LinkedIn (Matteo Tummino), Amazon Music/Deezer/KKBOX (créditos del
+OST), MusicBrainz (de `datos-video.md`), Internet Archive (audio de créditos), Forbes, PCGamesN
+(binaural), Medium (dos artículos), Steam Community, Digital Trends, KitGuru, ComicBook.com,
+Cambridge Independent, cambridgebrc.nihr.ac.uk, Safe In Our World, Steam store API, ambientcg.com,
+Dailymotion (6 vídeos vistos), Steam CDN (2 tráileres) = **31 fuentes** propias de este documento
+(se suman a las ~13 de `datos-video.md` para el cómputo final de 40 que hace el redactor).
+
+Sin `Sigue:` — los 5 puntos (2, 4, 9, 10, 14) están completos según ENCARGO.md; lo que falta está en
+«No encontré» con ⚠️, no es obligatorio.
