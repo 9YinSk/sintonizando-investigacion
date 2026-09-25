@@ -1,7 +1,10 @@
 # Lote H: videojuegos 117-131
 
-Sesión: https://claude.ai/code/session_016nVybip7t25E2sin3AsX4f · rama `claude/beautiful-euler-iwfkbd`
-Cuenta: cuenta R47
+Sesión: https://claude.ai/code/session_01PTjYZQejJbQf4MSwH4sQbi · rama `claude/lote-e-serie-equipo-sh35c4`
+Cuenta: cuenta A108
+(sigue desde `claude/beautiful-euler-iwfkbd`, sesión session_016nVybip7t25E2sin3AsX4f, cuenta cuenta R47,
+parada desde las 04:38. La rama se llama «lote-e» porque esta cuenta hizo antes 57 y 58 del lote E;
+ahora lleva el lote H.)
 
 ## Estado
 
@@ -12,6 +15,10 @@ Cuenta: cuenta R47
 - 120 Days Gone: texto, voz y video (Sonnet) en marcha; imagen lista.
 - 121 Tomb Raider: imagen (Sonnet) en marcha.
 - 122: recolectado con hojas; 123-127 recolectando.
+- Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
+  119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
+  120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
+  121-126: recolectando otra vez con hojas (se perdieron con el contenedor).
 
 ## Avisos para el dueño
 
