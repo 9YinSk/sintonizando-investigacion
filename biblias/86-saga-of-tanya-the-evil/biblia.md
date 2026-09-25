@@ -334,3 +334,73 @@ Es lo más importante para no caer en la burbuja blanca. En esta serie se habla 
 - **Arte del juego** (visto): Tanya en vuelo con el fusil sobre un campo ocre con humo; logo 幼女戦記 grande, «Saga of Tanya the Evil» en versalitas y el subtítulo en gótica japonesa fina; «Main visual by NUT inc.». [Imagen](https://www.4gamer.net/games/509/G050970/20201210187/TN/001.jpg), 512×288. Otro banner usa la **cruz de hierro** como gráfico ([imagen](https://www.4gamer.net/games/509/G050970/20201210187/TN/004.jpg)). ✅
 - **Menús y cajas de diálogo del juego: no los encontré.** La web oficial está caída, Wayback no cargó desde aquí y las noticias sólo traen arte. ⚠️
 - No hay juegos en Steam ni otros juegos oficiales (AniList y la wiki). ✅
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que ama** (parte de voz: Reddit r/YoujoSenki, [Studio Jake Media](https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime), [Soap Central](https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything)) ✅
+- **El campo de malentendidos**: Tanya pide la retaguardia, hace un trabajo perfecto y la mandan otra vez al frente. Un bucle de catástrofe que ella misma provoca. Es el chiste de la serie.
+- **La niña de muñeca con mente de ejecutivo**: voz dulce, pelo rubio, cálculo frío de costo-beneficio. Es gracia y horror a la vez.
+- **Antiheroína sin excusas**: razona como un gerente metido en una guerra. El fandom no la justifica: la disfruta.
+- **Tanya y Visha**: Visha confía en ella sin dudar; Tanya la aprecia y no lo admite. Las llaman «dúo madre-hija» o «la pareja de trabajo perfecta».
+- **Being X**: el debate de si es Dios de verdad, si la prueba o la castiga.
+- **La temporada 2 (2026)** despertó al fandom. La muerte de Rudersdorf en el final (cap. 12) fue lo más comentado.
+- **Tanya como jefa de recursos humanos**: los hilos la ven como una directiva de oficina. Encaja con un servidor donde se hacen castings.
+- El hilo «Which is the best scene (explain why) and funniest moment» de [r/YoujoSenki](https://www.reddit.com/r/YoujoSenki/comments/agq34h/which_is_the_best_scene_explain_why_and_funniest/) (8 votos) sirve de punto de partida. ⚠️ (pocos votos)
+
+**Qué NO hacer** (lo que a un fan le parecería falso)
+- **Tanya tierna o inocente sin trampa**. Si sonríe dulce, es fingido (hoja 2, nº 58) o es la antesala de algo terrible.
+- **Sólo comedia**: hay soldados muertos y ciudades en ruinas. El humor es negro, dentro de la guerra.
+- **Tanya creyente**: finge fe por disciplina. **Odia a Being X.**
+- **Quitar lo militar de entreguerras**: uniformes alemanes de la Primera Guerra Mundial, jerga de oficina y cuartel. Sin eso no es *Youjo Senki*.
+- **Olvidar a Visha**: Tanya sola interesa; Tanya y Visha juntas es lo que vende.
+- **Símbolos nazis**: el autor dice que su Imperio existe precisamente para que no haya un Hitler ([ANN](https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974)). Cruz de hierro y águila del Imperio, sí; esvásticas y estética de la Segunda Guerra Mundial, no. (Recomendación del redactor a partir de la cita.)
+- **Colores alegres**: la serie mide entre 19 y 31 % de saturación (punto 4).
+
+## 13 · Personajes a fondo
+
+### Tanya von Degurechaff — la protagonista y la más querida
+- **Quién es**: un oficinista japonés de élite, ateo y calculador, asesinado por un empleado al que despidió. Being X lo reencarna como niña huérfana para obligarlo a tener fe ([wiki](https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff)). ✅
+- **Rango**: de suboficial a teniente coronel. Condecoraciones: **Medalla de Asalto de las Alas de Plata**, insignia de asalto de campo e insignia de herida.
+- **Apodos**: **«Fairy 08»** (su indicativo de radio), **«White Silver»** (el que usan las tropas) y **«el Diablo del Rin»**. ✅ (manga visto + wiki)
+- **Carácter**: ve a las personas como recursos. Valora la libertad individual y odia la obediencia ciega. Es la «soldado perfecta»: disciplinada, respeta las leyes de guerra y cuida a su tropa… por cálculo, no por cariño. Piensa en términos de la Escuela de Chicago: todo tiene un precio.
+- **Lo que le importa**: un puesto seguro en la retaguardia, ascender con el mínimo riesgo y ganarle a Being X.
+- **Sus miedos**: volver a primera línea; que Being X gane.
+- **Qué transmite**: vértigo. Da risa y miedo a la vez. Ves a una niña y oyes a un jefe de personal.
+- **Cómo habla** (latino, Jocelyn Robles): en la narración, cadencia formal y pausas, como un noticiero de guerra. Enfadada, sube el tono y se vuelve cortante, sin gritar; su arma es el sarcasmo. Explicando táctica, rápido y parejo, como en una junta. En japonés, la sinopsis de AniList dice que habla «con el ceceo de una niña pequeña».
+- **Cuerpo**: siempre erguida; brazos quietos, a la espalda o cruzados. Casi no gesticula. **La cara hace todo el trabajo.**
+- **Frases suyas** (novela, en inglés): «Freedom without laws means anarchy; laws without freedom means tyranny.» (tomo 1, prólogo). ✅
+- **Dinámicas**: con **Visha**, la protege porque nadie hace mejor café; con **Zettour**, respeto de estrategas (él la usa y ella lo sabe); con **Lergen**, tensión: la llama demonio pero confía en su eficacia; con **Being X**, odio puro.
+
+**Su cara en cada emoción**
+
+| Emoción | Cómo es | Dónde verla |
+|---|---|---|
+| Éxtasis de combate | Boca entreabierta, cejas arriba, pelo al viento | [cap. 1, 0:32](https://www.dailymotion.com/video/x5tslcz?start=32) ✅ |
+| Amenaza, malicia | Sonrisa enorme de dientes, ojos hundidos que brillan, luz desde abajo | [cap. 1, 0:40](https://www.dailymotion.com/video/x5tslcz?start=40) ✅; novela tomo 8 (hoja 2, nº 68) |
+| Satisfacción fría | Sonrisa torcida de lado | [cap. 6, 0:08](https://www.dailymotion.com/video/x5bp76k?start=8) ✅ |
+| Alegría fingida | Ojos cerrados, sonrisa grande de cortesía | hoja 2, nº 58 («fake smile») ⚠️ sin minuto |
+| Inocencia fingida | Ojos azules enormes, «Let's begin!» | [cap. 5, 0:24](https://www.dailymotion.com/video/x5bp70j?start=24) ✅ |
+| Trance divino | Ojos dorados, manos en alto con el orbe | [cap. 5, 0:36](https://www.dailymotion.com/video/x5bp78t?start=36) ✅ |
+| Rabia | Boca abierta gritando, manos tensas | [película, 0:48](https://www.dailymotion.com/video/x96pfti?start=48) ✅; cap. 9 en 1080p (hoja 1, nº 27) |
+| Miedo | Sólo ante Being X: niña asustada sobre fondo oscuro | ⚠️ descrito por la parte de voz, sin fotograma |
+| Tristeza | — | ❌ no encontrada |
+| Vergüenza | — | ❌ no encontrada |
+
+### Viktoriya «Visha» Serebryakov — la segunda más querida
+- **Quién es**: maga reclutada a la fuerza. Su familia, aristócrata, huyó de la revolución de la Unión Rus. Fue de la sección 3 de Tanya y luego su **ayudante** en el batallón ([wiki](https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov), [AniList](https://anilist.co/character/121057)). ✅
+- **Aspecto**: en el anime, pelo castaño, ojos azules, piel clara, alta. En la novela, pelo corto rubio y ojos verdes. ⚠️ (la parte de voz lo lee así; la de imagen cree que la wiki se equivoca; la imagen oficial del anime la muestra castaña de ojos azules).
+- **Carácter**: alegre, esperanzada, creyente, optimista, algo infantil. Se asusta cuando Tanya se enfurece, pero **nunca pierde la confianza en ella**.
+- **Qué transmite**: calidez. Es el corazón del batallón y el contraste humano de Tanya.
+- **Arco**: de recluta asustada a la ayudante más leal y capaz.
+- **Cómo habla** (latino, Erika Langarica): aguda, amistosa, pausada. Transmite calma.
+- **Su cara**: susto cómico, ojos enormes y cejas arriba ([cap. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48)); escandalizada, boca abierta ([1:28](https://www.dailymotion.com/video/x5bp70j?start=88)); alivio y cansancio con la tropa ([2:08](https://www.dailymotion.com/video/x5bp70j?start=128)); alegre gritando «Second Lieutenant!!» (manga, hoja 2, nº 67 ⚠️). Rabia, tristeza y vergüenza: ❌ no encontradas.
+
+### Los secundarios que conviene tener a mano
+- **Hans von Zettour** (Arturo Mercado): general, jefe del Estado Mayor. Racionalista de saber enorme. Voz grave y pausada de autoridad. ✅
+- **Kurt von Rudersdorf** (Réndiz / Santos Alberto): general, jefe de Operaciones, amigo de Zettour. **Muere en el cap. 12 de la T2** creyendo que falló a su amigo. ✅
+- **Erich von Lergen** (Ferso Velázquez): oficial del Estado Mayor. Adivina lo que es Tanya y la llama demonio. ✅
+- **Matheus Johann Weiss**: segundo al mando del Batallón 203. En latino, serio y rápido: «Sí, señor.» ✅
+- **Warren Grantz**: el novato del batallón; en latino, el que grita «¡Carajo! ¡Se ha vuelto loca!». ✅
+- **Mary Sioux** (Alondra Hidalgo): maga enemiga, hija de Anson Sioux; quiere vengar a su padre. ✅
+- **Being X** (Alejandro Villeli ⚠️): dice ser el Dios de la Biblia; quiere más creyentes. En el anime aparece con formas prestadas, como un **cascanueces** (wiki, texto). ✅
+- **Adelheid von Schugel** (Armando Coria ⚠️): un ingeniero loco y con talento que inventa armas durante la guerra ([AniList](https://anilist.co/character/135047)). ⚠️ (una fuente; las partes no dicen qué inventó en concreto).
