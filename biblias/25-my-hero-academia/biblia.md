@@ -599,7 +599,13 @@ Las texturas **2D** (tramas de manga, tartán, emblemas) están en §18-b.
   subtítulo).
 - La letra del **globo del manga** en la edición inglesa de VIZ: no
   encontré qué fuente usa ⚠️.
-- **La letra de Deku** en el cuaderno: a mano, pequeña, apretada ⚠️.
+- **La letra de Deku** en el cuaderno: a mano, pequeña, apretada ⚠️. En
+  la página «ALL MIGHT» (1×01, ~19:30 de Internet Archive) escribe **en
+  mayúsculas enormes** ✅: dos tamaños, apunte diminuto y título gritado.
+- **Rótulo «PLUS ULTRA ver.»** (logo de *The «Ultra» Stage*, 767×421, en
+  la wiki) ✅ visto: letras 3D de cómic **azul, rojo y blanco**, relleno
+  con degradado, y encima en japonés «本物の英雄» («héroe de verdad»). Es
+  la mejor referencia para un título del canal en estilo héroe.
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -651,6 +657,13 @@ comprobé: les faltan á é í ó ú ñ ¿ ¡).
    siguiente** que termina con el grito (✅ en los 13 subtítulos de la T1).
 7. **Rótulos de golpe en inglés** («DETROIT SMASH») con estética de cómic
    americano ✅.
+8. **La ficha de personaje de las contraportadas** (VIZ, tomos 1 a 33):
+   mini perfil con retrato y un recuadro de texto propio ✅ (visto en
+   `hojas/vestuario_juegos_01.jpg`, #465-480). Sirve de modelo para una
+   ficha de «profesor» o de «alumno».
+9. **Cartones dibujados a mano** a rotulador para anunciar cada capítulo
+   («アニメこのあとすぐ!!») ✅ (§3.5): texto escrito a mano junto a los
+   personajes, otra forma de hablar sin globo.
 
 ### 7.2 Cómo hablan (por el subtítulo)
 
@@ -689,8 +702,11 @@ comprobé: les faltan á é í ó ú ñ ¿ ¡).
 - **Nada de burbuja blanca redonda** genérica.
 - **No meter inglés en boca de All Might** si se dice «doblaje latino»:
   en latino **todo va traducido** ✅ (§10).
-- No inventar frases «del doblaje» entre comillas: no encontré las
-  frases latinas exactas (§10.3).
+- No inventar frases «del doblaje» entre comillas. Las que **sí** están
+  oídas en clips con audio latino van en §10 (segunda pasada): úsalas
+  tal cual, p. ej. «**Puedes ser un héroe**» o «**¡Respeta, perdedor!**».
+- No traducir los alias de héroe ni los «Smash»: el doblaje los deja en
+  inglés (salvo Trece y Tigre) ✅ (§10).
 - La letra de Deku es **pequeña y ordenada**, no de garabato: es un chico
   muy aplicado.
 
@@ -728,7 +744,8 @@ de memoria ⚠️.
 ### All Might (Toshinori Yagi) — el maestro
 
 - **Dos cuerpos**: el **musculoso** (rubio con dos mechones de antena,
-  sonrisa enorme, sombras duras) y el **real**, flaco y enfermo ⚠️.
+  sonrisa enorme, sombras duras) y el **real**, flaco y enfermo ✅ (los dos
+  vistos en el episodio 1, ~13:06 y ~19:55 de Internet Archive, §2.4).
 - **Como profe**: novato, **lee de una chuleta** (1×06, 00:15:18 ✅; 1×12,
   00:07:01 ✅). Entra en clase gritando «¡Ya estoy aquí!» (1×06, 00:10:09
   ✅). Da **Formación básica de héroes**, «la materia con más créditos»
@@ -744,7 +761,8 @@ de memoria ⚠️.
 ### Katsuki Bakugo — el más querido, 1.º en votos ✅
 
 - **Aspecto**: pelo **rubio ceniza en pinchos**, ojos rojos, ceño
-  fruncido, **manos en los bolsillos**, guanteletes de granada ⚠️.
+  fruncido, **manos en los bolsillos** ⚠️, **guanteletes de granada**
+  verdes ✅ (hoja de modelo, `personajes_01.jpg` #3).
 - **Carácter**: orgulloso, agresivo, genio de la pelea y **muy buen
   estudiante** (ep. 34: se ofrece a enseñar ✅). Con el tiempo aprende a
   respetar a Deku.
@@ -764,8 +782,9 @@ de memoria ⚠️.
 ### Shoto Todoroki — 3.º en votos ✅
 
 - **Aspecto**: pelo **mitad blanco (derecha) y mitad rojo (izquierda)**,
-  **cicatriz de quemadura** alrededor del ojo izquierdo, ojos de dos colores
-  ⚠️.
+  **cicatriz de quemadura** alrededor del ojo izquierdo ✅ (hojas de modelo,
+  `personajes_01.jpg` #5-6), ojos de dos colores (etiqueta
+  `heterochromia` en Danbooru ✅).
 - **Carácter**: serio, callado, algo despistado; hijo de Endeavor. Deku le
   grita en el Festival: «**¡Es TU poder!**» (君の！力じゃないか！, 2×10
   ep. 23, 00:16:44 ✅).
@@ -823,6 +842,47 @@ de memoria ⚠️.
   **discurso de graduación** (8×11, 00:08:44 ✅).
 - **Kota**: el niño del campamento, ya **alumno de Deku** (8×11, 00:05:41
   ✅).
+
+### Segunda pasada: perfiles oficiales (*databooks*)
+
+De los perfiles de los tomos 1 y 2 y del *Ultra Analysis*, citados en la
+wiki en inglés con su tomo ✅:
+
+- **Deku**: «tímido, educado, reacciona con expresiones exageradas».
+  Horikoshi lo diseñó **a propósito para verse “plano”**.
+- **All Might**: sonríe siempre porque su mentora **Nana Shimura** le
+  enseñó que «**los que sonríen son los más fuertes**». En su forma real
+  se pone serio y evita la atención.
+- **Bakugo**: en el primer boceto iba a ser **amable**; Horikoshi lo hizo
+  desagradable porque le pareció aburrido.
+- **Todoroki**: el *Ultra Analysis* lo llama «**un idiota frío y
+  caliente**» (*cool and hot airhead*).
+- **Uraraka**: reacciones «exageradas y graciosas, se ríe y trata de
+  contenerlo»; Horikoshi la define como «**honesta**».
+- **Aizawa**: «en el fondo, **muy consentidor**» (*actually kind of
+  doting*) cuando decide cuidar de alguien. Bebe en reuniones y **se pone
+  dormilón**.
+
+### Segunda pasada: su cara en cada emoción (fotograma y minuto)
+
+| Personaje | Emoción | Minuto y enlace | Qué se ve |
+|---|---|---|---|
+| Deku | Miedo | [x7xksc8, 0:08](https://www.dailymotion.com/video/x7xksc8?t=8) | Ojos y boca muy abiertos, junto a Kota, girado hacia el peligro ✅ |
+| Deku | Rabia fuera de control | [x7xksc8, 0:56](https://www.dailymotion.com/video/x7xksc8?t=56) | Sonrisa torcida, **ojo derecho inyectado en rojo**: el «Deku berserker» ✅ |
+| Deku | Súplica, nervios | Ep. 1, ~10:55 (Internet Archive) | Puños al pecho, hombros encogidos ✅ |
+| All Might musculoso | Alivio, calidez | [x618t31, 0:12](https://www.dailymotion.com/video/x618t31?t=12) | Sonrisa enorme, pecho adelante, cerezos detrás ✅ |
+| All Might flaco | Ternura, consejo | [x7xktih, 2:43](https://www.dailymotion.com/video/x7xktih?t=163) | Silueta a contraluz del atardecer, calle con cerezos ✅ |
+| Bakugo | Rabia pura | [x7xktih, 0:17](https://www.dailymotion.com/video/x7xktih?t=17) | Primer plano cerrado, un ojo en sombra, dientes, luz amarilla a contraluz: **la cara de los memes** ✅ |
+| Todoroki niño | Rabia, esfuerzo | [x7xkvbk, 1:00](https://www.dailymotion.com/video/x7xkvbk?t=60) | Dientes apretados, cejas bajas ✅ |
+| Todoroki | Determinación | [x7xkvbk, 2:40](https://www.dailymotion.com/video/x7xkvbk?t=160) | Media cara iluminada por el fuego, ceja fruncida ✅ |
+| Todoroki | Confianza | [x6tcw9u, 0:00](https://www.dailymotion.com/video/x6tcw9u) (3×01, ep. 39) | Brazo cubierto de hielo estirado, mirada de reojo, media sonrisa ✅ |
+| Aizawa | Regañar | [x6tcw9u, 0:20](https://www.dailymotion.com/video/x6tcw9u) | **Ojos rojos brillantes**, boca en línea, cuello de la bufanda subido: «Did you say something?» ✅ |
+| Uraraka | Decisión | [x6soboa, 5:30-6:00](https://www.dailymotion.com/video/x6soboa) | Puño al pecho, ojos llorosos de determinación ✅ |
+| Rei Todoroki | Colapso | [x7xkvbk, 0:20](https://www.dailymotion.com/video/x7xkvbk?t=20) | De espaldas junto a la tetera, hombros caídos ✅ |
+
+Faltan **tristeza** y **vergüenza** con fotograma en todos ⚠️: no salieron
+en los clips cortos. Para Aizawa hay además `Shota_personality.png`
+(`personajes_01.jpg` #14): su **sonrisa forzada**, inquietante.
 
 ---
 
