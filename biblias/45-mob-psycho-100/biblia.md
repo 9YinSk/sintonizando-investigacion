@@ -566,3 +566,142 @@ antes que cualquier globo. No hay entrada de Mob Psycho 100 en
 la puede alimentar.
 
 ---
+
+## 8 · Los personajes: qué transmiten, su cara y sus dinámicas
+
+Fuentes cruzadas: ficha de la [wiki de Fandom](https://mob-psycho-100.fandom.com/wiki/Shigeo_Kageyama)
+(Personality, Notes & Trivia) + [AniList](https://anilist.co/anime/21507)
++ fotogramas propios. La voz medida con `voz.py` es la del **doblaje
+latino** (§10).
+
+### 8.1 Shigeo «Mob» Kageyama (protagonista, 14 años)
+
+- **Carácter**: callado, educado, con pocos amigos, «le cuesta leer el
+  ambiente». Reprime sus emociones desde niño, desde que hirió sin querer
+  a su hermano ✅ (wiki + AniList).
+- **Qué le importa y qué teme**: no hacer daño a quien quiere. Su regla:
+  **no usar los poderes contra la gente** ✅. Cree que sin poderes no vale
+  nada («a diferencia de mí, que no sé hacer nada sin mis poderes»).
+- **Arco**: de reprimirlo todo a aceptar que sentir rabia o tristeza no lo
+  hace un monstruo. Clímax: el arco **???%**, frente a sus emociones
+  guardadas ⚠️ (resumen de la wiki).
+- **Qué transmite**: ternura con tensión dentro. Su cara es **simple y
+  redonda** a propósito, así que cualquier grieta se nota muchísimo ⚠️
+  ([TV Tropes, YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/MobPsycho100)).
+- **Cómo se expresa**: frases cortas, voz baja y plana; cuando se rompe,
+  grita de golpe («¡Suelta a mi hermano!», Mob.ogg, 0:16). Llama a Reigen
+  «Maestro». Voz latina: 186 Hz, 23,7 semitonos de rango, 2,77 palabras/s ✅.
+- **Cuerpo**: de pie, brazos caídos, manos a los lados; mira de frente
+  con los ojos redondos sin cambiar de cara (ep. 1, 10:20).
+
+**Su cara en cada emoción** (fotogramas propios):
+
+| Emoción | Qué se ve | Dónde |
+|---|---|---|
+| Alegría y vergüenza | sonrisa, mejillas rosas, fondo de burbujas | [tráiler Hitek, 0:48](https://www.dailymotion.com/video/x4g5kft?start=48) ✅ |
+| Vergüenza | mejillas con rayas rosas en diagonal, ojos entrecerrados, sonrisa forzada («Our eyes met!») | T1 ep. 1, 15:40 ✅ |
+| Rabia contenida | cejas rectas, boca en línea, el pelo empieza a erizarse | [Mob vs. Koyama, 0:42](https://www.dailymotion.com/video/x84g6ar?start=42) ✅ |
+| Rabia que sale | boca muy abierta en ángulo, ceño, primer plano | T1 ep. 12, 5:00 ✅ |
+| Miedo | ojos muy abiertos, sangre en la boca, mira arriba: «S-Stop...» | [Mob vs. Koyama, 1:54](https://www.dailymotion.com/video/x84g6ar?start=114) ✅ |
+| Tristeza (100 % Tristeza) | cara roja, ojos cerrados, boca abierta, lágrimas y sudor | [Mob vs. Teru, 0:00](https://www.dailymotion.com/video/x4rj83n?start=0) ✅ |
+| Más allá (???%) | monocromo, pelo blanco erizado, ojos rojos, cara vacía | [Mob vs. Koyama, 2:48](https://www.dailymotion.com/video/x84g6ar?start=168) ✅ |
+| 100 % | ojos que brillan sin pupila, contorno del pelo «arañado», aura violeta | T1 ep. 3, 19:30-20:15 ✅ |
+
+### 8.2 Arataka Reigen (el mentor, **el más querido**)
+
+- **Carácter**: timador con los clientes, pero **no soporta ver sufrir a
+  nadie sin ayudar**. Siempre compuesto; no admite errores; muy listo con
+  la gente aunque **no tiene ningún poder** ✅ (wiki; AniList lo llama «la
+  brújula moral de Mob»).
+- **Qué teme**: que descubran que es un fraude. Pasa en el arco
+  **Separate Ways**: humillado en la tele y acosado por la prensa ✅
+  (wiki + TV Tropes).
+- **Qué transmite**: alivio cómico y calidez; el adulto responsable
+  aunque sea un estafador ⚠️
+  ([Collider](https://collider.com/why-we-love-mob-psycho-100-reigen-arataka/)).
+- **Cómo se expresa**: **vendedor hasta cuando da un buen consejo**.
+  Voz aguda y teatral (237 Hz, 21 semitonos, 2,86 palabras/s, la más
+  aguda de las medidas) ✅. Se presenta con nombre y apellido: «¡Así que
+  yo, Arataka Reigen, acepto el caso!» (Reigen.ogg, 0:00). Cierra
+  episodios con «anuncios» de su negocio ✅.
+- **Cómo explica**: sentado, mano abierta como enseñando un menú,
+  mirando a cámara: «Option C… All-Out Course» (T1 ep. 1, 2:40) ✅.
+- **Cómo se enfada**: primer plano cerrado, cejas bajas, boca
+  entreabierta, luz malva detrás: «Why didn't you do anything?» (T1 ep. 1,
+  23:05) ✅.
+- **Llorando o furioso de verdad** (reconciliación con Mob, Separate
+  Ways): sin fotograma propio ⚠️. TV Tropes lo describe «apretando el
+  puño, sorprendido hasta las lágrimas».
+
+### 8.3 Dimple / Ekubo (エクボ, el espíritu, 3.º más querido)
+
+- **Carácter**: «espíritu maligno de clase alta» que quería ser un dios
+  adorado. Bromista, rápido para leer a la gente ✅ (wiki + AniList).
+- **Arco**: de villano cómico a **mejor amigo de Mob**. Se sacrifica en la
+  T3 (arco Divine Tree): de lo que más hizo llorar (§22) ✅.
+- **Cómo se expresa**: voz **grave y socarrona** (116 Hz, la más grave;
+  22,3 semitonos) ✅. Llama a Mob «Shige-chan» y a Ritsu «Ricchan» sin
+  pedir permiso ✅. «Pero qué ingenuo es.» (Ekubo.ogg, 0:00).
+- **Cara**: forma falsa enorme con dientes (T1 ep. 1, 17:00); forma real
+  **pequeña, verde**, ojos como platos y boca en O (18:40); manitas
+  arriba pidiendo clemencia (19:40) ✅. Riendo en verde ácido (OP1,
+  0:26-0:28) ✅.
+- **Posee a otros**: se le reconoce por las **mejillas rojas** en la cara
+  del poseído (Mob, n.º 2; Musashi, n.º 51; el guardia, n.º 54).
+
+### 8.4 Ritsu Kageyama (el hermano menor)
+
+- **Carácter**: perfeccionista, del consejo estudiantil, buenas notas.
+  **Envidia en secreto** los poderes de Mob y lo llama admiración ✅.
+- **Momento clave**: cuando Mob lo felicita por lo listo que es, Ritsu
+  rompe a llorar; ahí se arregla lo de los dos ✅.
+- **Cómo se expresa**: la voz **más contenida y lenta** (172 Hz, 17,8
+  semitonos, 2,72 palabras/s); se disculpa corto: «Yo tengo la culpa de
+  esto. Cometí un error.» (Ritsu.ogg, 0:35) ✅.
+- **Cara**: halo de energía en el OP1 (0:30-0:34); choca con Teru sobre
+  magenta en el tráiler de Funimation (0:40) ✅.
+
+### 8.5 Teruki «Teru» Hanazawa (el rival que se hace amigo)
+
+- **Carácter**: se creía **«el protagonista de este mundo»** (Teru.ogg,
+  0:05) por ser el esper más fuerte que conocía. Tras perder con Mob se
+  vuelve menos soberbio, pero sigue seguro de sí ✅.
+- **Cómo se expresa**: la voz que más sube y baja (22,9 semitonos) y la
+  más lenta (2,38 palabras/s): **habla como si diera un discurso** ✅.
+- **Cara**: capa violeta cayendo en picado (OP1, 0:06-0:10) y mirada
+  fría (0:34-0:36) ✅; ríe con los brazos abiertos sobre la ciudad (n.º 25).
+- **Detalle de diseño**: en la T2 lleva una gaviota bordada, porque al
+  revés parece alguien con los pies hacia dentro, como su pose de
+  combate (nota de Kameda en su Twitter, citada por la wiki) ✅.
+
+### 8.6 Katsuya Serizawa (ex de Claw, el que conmueve)
+
+- Retraído e ingenuo; dependía de su jefe Toichiro Suzuki; **le aterran
+  sus poderes** y sin su **paraguas** teme perder el control ✅.
+- Entra a trabajar con Reigen y a la escuela nocturna: gana confianza ✅.
+- Su llanto: «¡¿Qué se supone que haga entonces?! Nadie entendió jamás
+  este poder con el que nací... sólo quería tener amigos» (texto de la
+  wiki, no del doblaje) ✅.
+
+### 8.7 Otros queridos, en una línea
+
+- **Musashi Gouda y el Club de Mejora Corporal** («Muscle Bros»): buenos
+  tipos de verdad, no deportistas abusones; 6.º más querido ✅ (§9).
+- **Tome Kurata**: fundó el Club de Telepatía; le encantan los
+  videojuegos y los extraterrestres; «muy parecida a Reigen» ✅.
+- **Tsubomi Takane**: el flechazo de Mob; dibujada «bonita» a propósito
+  para marcarlo ✅.
+
+### 8.8 Dinámicas (para láminas en grupo)
+
+| Pareja | Cómo es | Uso |
+|---|---|---|
+| Reigen y Mob | jefe-amigo y maestro; Reigen lo hace confiar y reír; le echa sal por encima del hombro (T1 ep. 1, 5:00) | la pareja principal |
+| Dimple y Mob | se burla de él con cariño; Mob se ríe | Dimple flotando detrás |
+| Dimple y Reigen | celos: Dimple le dice que a Mob no le importa y Reigen se deprime | discusión cómica |
+| Ritsu y Mob | admiración con culpa e inferioridad | escena seria |
+| Teru y Mob | rival que se vuelve aliado | acción |
+| Serizawa y Reigen | Serizawa lo admira y trabaja para él; sirve el té (§21) | la oficina |
+| Tsubomi y Mob | Mob se pone rojo y nervioso | gag de vergüenza |
+
+---

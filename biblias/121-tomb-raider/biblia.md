@@ -270,3 +270,124 @@ Fuente: Doblaje Wiki por su API ([ficha de Lara Croft](https://doblaje.fandom.co
 - **No hacerla disfrutar matando** en la época Survivor: mata sólo si no queda otra y le pesa (punto 13).
 - **No dibujar globos ni onomatopeyas**: no existen en los juegos (puntos 5 y 6).
 - **No ponerle un habla de barrio**: la Lara clásica tiene acento inglés de clase alta (punto 13).
+
+## 13 · Personajes a fondo
+
+### Lara Croft · la de la trilogía Survivor (2013-2018)
+
+Fuente principal: ficha «Lara Croft (Survivor Timeline)» de la wiki, secciones de personalidad y relaciones ✅.
+
+- **De niña**: introvertida y solitaria. Quería impresionar a otras niñas con **huesos que encontraba**, y ellas huían. Prefería los libros. Winston avisó a su padre de que le costaría tener amigas.
+- **Qué le importa**: las leyendas, la arqueología y la historia. Estudió en el **UCL** (University College London). Casi obsesiva con mapas y documentos: resuelve acertijos por lo que ha leído.
+- **Nunca había matado antes de Yamatai.** Se disculpa con el primer ciervo que caza. Tras matar a su primer hombre queda en shock y luego intenta evitarlo. Noquea en vez de disparar si puede; no dispara a una jauría ni a una cierva, a la que incluso ofrece sus **Jaffa Cakes**.
+- **Su mantra**: **«Just keep moving»** (sigue moviéndote). Tiene miedo de verdad (casi llora pidiendo a Roth que la rescate), pero sigue.
+- **Su arco**: empieza tímida, insegura, escondida tras una fachada distante. Después de Yamatai es más firme, fría y calculadora en el peligro; llega a insultar a enemigos y a sonreír mientras se defiende. Pero es **muy protectora**: amenaza con romperle las piernas al Dr. Taffe por herir a Sam.
+- **Miedos** (perfiles de fans, ⚠️ no oficiales, [Zimbardo](https://www.zimbardo.com/the-psychology-behind-lara-croft/)): fracasar, perder el control, que destruyan sitios históricos, culpa de superviviente. La culpa sí es canon: sueña con Alex ardiendo (abajo).
+- **Qué transmite**: alguien pequeño frente a algo enorme que no se rinde. Se siente vértigo y alivio.
+
+**Cómo se expresa:**
+- **Voz que cambia dentro del juego**: le pidieron a **Camilla Luddington** que no empezara «ultra confiada». Al principio duda y **se susurra «I can do this»** temblando junto a una hoguera. Al final su voz es **más grave**, de alguien con experiencia. La actriz contó que **perdió la voz muchas veces** por los gritos ✅ (Hollywood Reporter y Game Informer, según la parte de voz).
+- **Acento**: la Lara clásica habla con **inglés de clase alta** (RP, «el de la BBC»). Keeley Hawes y Luddington lo suavizan ⚠️ ([Tomb Raider Forums](https://www.tombraiderforums.com/showthread.php?t=193974)).
+- **Frases reales por emoción** (en inglés, del artículo oficial [«Lara's Most Iconic Lines»](https://www.tombraider.com/news/video-games/laras-most-iconic-lines-from-the-survivor-trilogy), 29-may-2024) ✅:
+  - *Decidida, al empezar* (2013): «I'd finally set out to make my mark; to find adventure. But instead, adventure found me.»
+  - *Rabia, grito de guerra* (2013): «Run, you bastards! I'm coming for you all!» (con un lanzagranadas contra los Solarii).
+  - *Sarcasmo* (2013): «Better keep your distance then.» (cuando Reyes le dice que estar cerca de ella es peligroso).
+  - *Cambio de vida* (2013, última línea): «I'm not going home.»
+  - *Negación tajante* (Rise): «It's a no f***ing way!» (cuando Ana le propone unirse a Trinity).
+  - *Segura de sí* (Rise): «You don't know how far I've come.»
+  - *Venganza* (Shadow): «F**k you Rourke! I'm coming for you.» (cuando cree muerto a Jonah).
+  - *Paz, cierre* (Shadow, última línea de la trilogía): «I'm done searching. I want to be around the living.»
+- **Su cara en cada emoción** (fotograma y minuto):
+  - **Rabia o dolor**: grita con la cara ensangrentada, cejas juntas, boca abierta · «Turning Point» **2:24**.
+  - **Miedo**: cae y se agarra a la roca, brazos arriba, boca abierta · **1:36-1:44**.
+  - **Alerta, decidida**: agachada con el arco, mirada fija · **2:32**.
+  - **Pensativa, triste**: primer plano mirando abajo, quieta · tráiler de *Shadow* **1:48**.
+  - **Cansancio**: de espaldas por una mina, hombros caídos · TR1 «The Great Pyramid» **5:00**.
+  - **Furia clásica**: ceño fruncido y dientes apretados en la portada de TR1 (`hojas/arte_oficial_01.jpg` nº2).
+  - ⚠️ **Alegría y vergüenza**: sin fotograma. Salen en cinemáticas que no se miraron.
+- ⚠️ **Cómo se ríe, cómo saluda**: no documentado en las partes.
+
+### Lara Croft · la clásica (biografías oficiales)
+- **Core Design, 1996** ([Raiding the Globe](https://www.raidingtheglobe.com/lara-croft/biography-core-design), copia de la biografía oficial) ✅: hija de **Lord Henshingly Croft**. Tutores privados, Wimbledon High School, el internado **Gordonstoun** y una escuela suiza de etiqueta. En Gordonstoun descubrió la **escalada** saltándose el netball; le prohibieron el tiro por «demasiado interés». Su ídolo de niña: el arqueólogo **Werner Von Croy**, al que vio en la portada de un National Geographic.
+- **Crystal Dynamics, 2006** (línea Legend) ✅: **condesa de 11.ª generación**, hija de Lady **Amelia** y Lord **Richard** Croft. A los nueve años sobrevivió sola **diez días en el Himalaya** tras un accidente de avión que mató a su madre. Su padre desapareció en Camboya cuando ella tenía quince. Se la acusa de «cazatesoros» sin documentar lo que encuentra.
+
+### Sam Nishimura · la mejor amiga
+- Se conocen en la universidad y son **opuestas**: Sam es la fiestera que la saca de su concha. Hija de un empresario japonés y una modelo portuguesa. «De alguna manera era como Lara: apasionada y cosmopolita, y a veces le costaba encajar» ✅ ([blog oficial](https://www.tombraider.com/news/video-games/tomb-raider-survivor-trilogy-lore-sam-nishimura), 4-sep-2024, y Fandom).
+- **Consigue el dinero** de la expedición a Yamatai para impulsar la carrera de Lara. Su familia se cree descendiente de **Himiko**, la Reina del Sol: por eso los Solarii la secuestran para meter a la reina en su cuerpo.
+- Lara lo arriesga todo por ella y luego **la aparta** para protegerla de Trinity.
+- **Qué transmite**: calor, amistad entre mujeres. El público que pide verlas juntas se identifica con ella (punto 21).
+
+### Conrad Roth · el mentor
+- Exmarine real británico, capitán del barco **Endurance** (nombre en honor a Shackleton, su héroe). Fue guía del padre de Lara. Cuando el padre se hundió en su obsesión, Roth se acercó a la niña: **convirtió en colgante el trozo de jade** que ella encontró en una excavación.
+- Tras la muerte del padre fue su tutor. Le enseñó a escalar y a sobrevivir; en Yamatai le da **su piolet y un par de pistolas**. **Muere en TR 2013 protegiéndola.** En *Shadow* ella todavía lo echa de menos ✅ ([blog oficial](https://www.tombraider.com/news/video-games/tomb-raider-survivor-trilogy-lore-conrad-roth), 20-sep-2024, y Fandom).
+
+### Jonah Maiava · el hermano mayor
+- La llama **«little bird»** (pajarito); ella le dice que suena como su padre. Nunca la presiona. Cuando la cree muerta en un alud en Siberia, la sigue buscando; torturado por Konstantin, no habla.
+
+### Alex Weiss · el técnico
+- Enamorado de Lara sin decirlo; ella lo ve «raro», «dulce» y «brillante». **Se sacrifica**: dispara a una tubería de gas para que ella escape. Lara le da un beso en la mejilla y luego sueña con él como un espectro en llamas.
+
+### Winston · el mayordomo
+- Caballero inglés mayor, modales perfectos, calma total. Ancla cómica de la mansión; casi no entra en la trama. En TR2 y TR3 sigue a Lara con una **bandeja de té** ✅ ([ficha](https://tombraider.fandom.com/wiki/Winston_(Original_Timeline))).
+
+### Jacqueline Natla · la villana clásica
+- Una de las tres gobernantes de la **Atlántida**, encerrada en una cápsula por abusar del poder. Escapa en 1945 en una prueba nuclear de Los Álamos, se hace pasar por humana y funda **Natla Technologies**. Quiere una evolución forzada hacia una raza «superior». Usa a Lara y la traiciona ✅ ([ficha](https://tombraider.fandom.com/wiki/Natla_(Original_Timeline)) y Villains Wiki).
+
+**Dinámicas para láminas en grupo**: Sam la hace reír y la saca de sí; Jonah la cuida sin agobiar; Roth la enseña; Winston es el contrapunto cómico; con Natla y Trinity se enfrenta. Casi nunca discute con los suyos: discute con los villanos.
+
+## 14 · Poses analizadas
+
+**Lara, 10 fotogramas mirados** (vídeo) y lo que hace en cada uno:
+
+| n.º | Dónde y minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| 1 | TR1 «Caves» **1:12** | de pie contra la pared, las dos pistolas hacia un hueco oscuro, mirada al frente | tensión, alerta |
+| 2 | TR1 «Caves» **1:54-2:00** | medio agachada, brazos abiertos, a punto de tirarse al agua entre lianas | explorar |
+| 3 | TR1 «Lost Valley» **1:12** | corre inclinada, un brazo al pecho, mirada al frente | acción |
+| 4 | TR1 «The Great Pyramid» **5:00** | camina de espaldas, hombros caídos, una sola luz | **pensar**, antes del final |
+| 5 | «Turning Point» **1:12-1:28** | mano abierta hacia la luz bajo el agua | pedir ayuda |
+| 6 | «Turning Point» **1:36-1:44** | cae y se agarra a la roca, boca abierta | miedo |
+| 7 | «Turning Point» **2:24** | primer plano gritando, sangre en la cara | rabia, dolor |
+| 8 | «Turning Point» **2:32** | agachada, arco con las dos manos, mirada fija | alerta, animar a seguir |
+| 9 | *Shadow*, lanzamiento **0:42** | de pie con Jonah y Domínguez ante un mural con antorchas, mirando y señalando la pared | **explicar** un hallazgo |
+| 10 | *Shadow*, lanzamiento **1:48** | primer plano mirando abajo, serio | **pensar** |
+
+**Más poses en arte oficial** (`hojas/arte_oficial_01.jpg`):
+- nº9: **tiende la mano a una reliquia dorada** → **presentar** algo, «mira lo que hay aquí».
+- nº13: **apoyada con las dos manos en unas cajas** → **explicar** sobre una mesa, un mapa o un cuaderno.
+- nº2: de frente, pistola alzada, ceño fruncido → **regañar** con la mirada (lo más cercano; ⚠️ no es una riña con nadie).
+- nº7: escalando con el brazo arriba → **animar** a subir, a seguir.
+- nº1 y nº16: arco tensado o de rodillas con el arco → decisión, «no me rindo».
+
+⚠️ **Celebrar y saludar: no hay pose.** El tono de la saga es aventura y supervivencia; en los tráileres y el *longplay* no hay victorias con los brazos en alto. Harían falta cinemáticas del juego. Sam, Jonah y Roth **no tienen poses** analizadas.
+
+## 15 · Vestuario con hex medidos
+
+Fuente: página [«Lara's Outfits»](https://tombraider.fandom.com/wiki/Lara%27s_Outfits) entera, más las **guías de cosplay oficiales** de [tombraider.com](https://www.tombraider.com/news/cosplay). Hex medidos con Pillow en los renders de `hojas/vestuario_02.jpg`.
+
+- **El traje icónico** (nº1): «tank top, shorts, socks and combat boots», el de todos los juegos hasta 2013 (la wiki). **Tank top verde menta `#82A084`**, **short marrón** `#542E0D` (luz) y `#321E0C` (sombra), botas y **guantes sin dedos negros**, **trenza** castaña, mochila, **dos pistolas** en las piernas. ✅ medido.
+- **Otros clásicos** (guías oficiales): TR1 ropa de gimnasio; TR2 **cazadora de aviador**, **traje de buceo «Sola»** (se ve en `hojas/arte_oficial_01.jpg` nº3) y **bata de la mansión**; TR3 Nevada y Antártida; *Chronicles* **mono negro**; *Underworld* la **Doppelgänger** (su doble malvada).
+- **Legend (2006)** (nº2), cita oficial: *«a sporty ensemble in earthy tones… brown nylon and spandex layered crop top with shorts, along with double hip leather holsters, a belt, black combat boots, and fingerless gloves… sleek black leather snap backpack… ponytail with an elastic brown hair tie»* ✅ ([guía de Legend](https://www.tombraider.com/news/cosplay/cosplay-guide-tomb-raider-legend)). Variantes: rosa (Ghana), Union Jack (Bolivia), negro (Croft Manor), azul (Perú).
+- **Reboot 2013** (nº3): **tank top gris ceñido**, pantalón cargo **roto y manchado de barro y sangre**, botas marrones, **colgante** al cuello. Saturación muy baja (8 %). DLC: Sure-Shot, Mountaineer, Hunter, Guerrilla, Demolition, Aviatrix ✅.
+- **Rise (2015)** (nº4): la ropa ya da ventajas en el juego. «Desert Tank Top», cita del director de arte **Brenoch Adams**: *«ribbed grey tank top with support and slim fit… lighter value pants and the leather drop bag design that sits on her hips»* ✅ (dos guías firmadas por él, [Shadowrunner](https://www.tombraider.com/news/cosplay/gear-up-guide-shadowrunner-outfit)). En la nieve lleva **abrigo rojo `#922F27`** (`hojas/fondos_interfaz_03.jpg` nº2). Más de 20 trajes (Huntress, Apex Predator, Commando, Siberian Ranger…).
+- **Shadow (2018)** (nº5): **tank top azul grisáceo `#606B7C`**, **pantalón cargo oliva `#444338`** con parche en la rodilla, guantes tácticos, botas impermeables ✅ medido. Cita oficial: *«a fitted moisture-wicking tank top, pants with reinforced knees, fingerless tactical gloves, and waterproof boots»* ([guía de Shadow](https://www.tombraider.com/news/cosplay/shadow-of-the-tomb-raider-gear-guide)). Más de 15 trajes de Paititi con nombres andinos y mayas (Robes of Puka Huk, Serpent Guard, Condor Cowl of Urqu…).
+- **Objetos que siempre lleva**: clásica → **dos pistolas**, mochila; Survivor → **arco**, **piolet**, cuerda, **colgante de jade**.
+- **La icónica que todos reconocen**: la **clásica menta y marrón con trenza**. Para el público joven, la **Survivor gris y sucia con arco**.
+
+## 16 · Paisajes y fondos de pantalla
+
+Capturas oficiales de Steam medidas con `estilo.py` (`hojas/fondos_interfaz_03.jpg`, nº1 a nº6):
+
+| n.º | Sitio | Luz | Paleta medida |
+|---|---|---|---|
+| 1 | *Rise*: templo de la selva con estatua tallada; Lara salta entre ruinas | cenital, niebla | `#4C3F2D` 24,3 % · `#68573F` 23,3 % · `#86714F` 18,9 % · dorado `#E9C392` 6,6 % |
+| 2 | *Rise*: arco de piedra nevado, ruina excavada | fría, gris | piedra `#605949` 27,1 % · nieve `#E9E3D2` 11,1 % · abrigo `#922F27` 3,9 % (el único punto cálido) |
+| 3 | *Shadow*: Paititi en fiesta, farolillos y globos | noche de fiesta | niebla `#41758C` 7,8 % · piedra rojiza `#6D4733` y `#A4703E` (30 %) |
+| 4 | *Shadow*: aldea entre árboles, pirámide al fondo | poca luz directa | `#2A2F27` 28,3 % · `#4B4F47` 18,9 % |
+| 5 | *TR 2013*: puente colgante entre ruinas, niebla, sol rasante | la más luminosa (53 %) | `#C9C5B0` 15,9 % · `#9B927C` 11,2 % · niebla `#FCFCF5` 18,7 % |
+| 6 | *Rise*: cueva con un haz de luz vertical | fría y oscura (26 %) | `#3B444B` 23,3 % · `#52606B` 11,8 % |
+
+- **Sitios con nombre**: **Paititi** (ciudad escondida en la selva peruana, *Shadow*), **Kitezh** (ciudad sumergida en un lago de Siberia, *Rise*), **Siberia** (ruinas nevadas), **Yamatai** (isla japonesa, 2013), **Croft Manor** (la mansión, en todas las continuidades). ✅
+- **Fondos de fans en alta** ([Wallhaven](https://w.wallhaven.cc/full/k9/wallhaven-k9p181.jpg)): 4500×3971, selva con eclipse de *Shadow* (96 favoritos); 3840×2160 de *Rise* (268 favoritos, el más guardado); varios de *Shadow* en 3440×1440 y 3840×2160 (en `referencias.json`). ⚠️ sin licencia explícita: sólo referencia.
+- **Fondo oficial más «postal»**: el nº5 (puente con niebla). **El más tenso**: el nº6 (cueva).
+- **Para montar sin copyright**: los HDRI CC0 «Colosseum» y «Blue Grotto» de Poly Haven (punto 3).

@@ -765,3 +765,135 @@ minuto es **de la muestra**, no de la película. ✅ salvo lo marcado.
   ([x9tkmqo](https://www.dailymotion.com/video/x9tkmqo), 0:39) no
   tiene diálogo. El clip `x9sl3s6` ya no existe.
 
+## 11 · Música y sonido (punto 9)
+
+**Es un musical.** No hay opening ni ending: hay 9 canciones propias,
+la partitura de **Marcelo Zarvos** y 3 canciones de fuera (de TWICE,
+MeloMance y Jokers, según la parte de vídeo)
+([wiki, Soundtrack](https://kpop-demon-hunters.fandom.com/wiki/KPop_Demon_Hunters_(Film)/Soundtrack);
+[Republic Records](https://shop.republicrecords.com/products/kpop-demon-hunters-soundtrack-from-the-netflix-film-digital-album)). ✅
+
+| Canción | Quién | Qué pasa y qué ambiente da |
+|---|---|---|
+| «How It's Done» | HUNTR/X | La presentación: selfie en la furgoneta, pelea entre bambalinas, trío con los puños en alto. Energía de debut |
+| «Soda Pop» | Saja Boys | Debut del grupo rival en la calle: humo magenta, dulce y pegadizo. Se vuelve viral |
+| «Golden» («Dorada») | HUNTR/X | El himno: el Honmoon se vuelve dorado, triunfo en los Idol Awards, espejo del Han Clinic |
+| «Strategy» | — | Tema de la banda sonora |
+| «Takedown» («Nocaut») | HUNTR/X; versión de TWICE | *Diss track* contra los Saja Boys. Oscuro y agresivo |
+| «Your Idol» | Saja Boys | La canción del villano, en la Namsan Tower: rompe el Honmoon |
+| «Free» | Rumi y Jinu | Dúo. **Ella sana su voz al confiar en él** |
+| «What It Sounds Like» | HUNTR/X | Clímax: Rumi rompe el trance de Gwi-Ma sobre Mira y Zoey |
+| «Love, Maybe» (사랑인가 봐) | MeloMance (ya existía) | ⚠️ suena, según vídeo, en la escena de los ojos de corazón |
+| «Path» (오솔길) | — | Tema de la banda sonora |
+| «Score Suite» | Marcelo Zarvos | La partitura |
+| «Prologue (Hunter's Mantra)», 1:36 | Celine narra | Edición *deluxe* |
+| «Jinu's Lament», 0:46 | Jinu | Edición *deluxe* |
+
+✅ (lista y escenas: wiki; ⚠️ lo marcado)
+
+- **Quién canta de verdad**: **EJAE** (Rumi), **Audrey Nuna** (Mira),
+  **Rei Ami** (Zoey)
+  ([Billboard](https://www.billboard.com/lists/huntrx-golden-kpop-demon-hunters-number-1-hot-100/)).
+  Los Saja Boys: **Andrew Choi** (Jinu), Danny Chung (Baby Saja), Kevin
+  Woo y Alan Lee
+  ([Wikipedia, Andrew Choi](https://en.wikipedia.org/wiki/Andrew_Choi)). ✅
+- Productor musical ejecutivo: **Ian Eisendrath**. Canciones con 24,
+  Teddy Park, Lindgren, Stephen Kirk, Jenna Andrews, IDO y otros. ✅
+- **Récords**: «Golden» fue nº1 del Hot 100 **8 semanas** o más, y
+  HUNTR/X el primer grupo femenino ligado al K-pop en lograrlo. El
+  álbum llegó al **nº1 del Billboard 200** y tuvo **4 canciones a la vez
+  en el top 10**, la primera banda sonora en hacerlo
+  ([Billboard 200](https://www.billboard.com/music/chart-beat/kpop-demon-hunters-soundtrack-number-one-billboard-200-1236066167/)). ✅
+- **Versiones**: *remix* de David Guetta (25-jul-2025); «Golden» de
+  The Piano Guys; banda sonora en francés; la partitura de Zarvos salió
+  aparte el 19-dic-2025
+  ([MusicBrainz](https://musicbrainz.org/release-group/094f56bf-4715-4e33-bb28-058b1ab43036)). ✅
+- **Las escenas más emotivas** suenan con «Free» y «What It Sounds
+  Like». ✅
+
+**Sonidos que todos reconocen**:
+- El **Honmoon** suena como un tañido de campana coreana cuando se
+  activa o se agrieta («Golden» 0:48, «SHINING»). ⚠️ (oído en el clip)
+- **Gwi-Ma** ruge con eco grave y distorsionado en su trono verde
+  («Golden» 0:24-0:30). ⚠️ (oído en el clip)
+- El grito de HUNTR/X: **«gaja gaja gaja»** (가자, «¡vamos!»)
+  ([wiki](https://kpop-demon-hunters.fandom.com/wiki/Korean_Cultural_References)). ✅
+- El **«HEHEHE»** de Jinu, que se hizo meme (§14). ✅
+- ⚠️ No hay entrevista del diseñador de sonido.
+
+## 12 · Vídeos y tendencias (punto 10)
+
+**YouTube pedía iniciar sesión.** Se usaron copias en Dailymotion e
+Internet Archive, con metraje real.
+
+| Vídeo | Minuto útil | Qué sirve | Estado |
+|---|---|---|---|
+| [Tráiler oficial](https://www.dailymotion.com/video/x9k1104), 2:43 | [0:24](https://www.dailymotion.com/video/x9k1104?t=24) trío con armas; [1:04](https://www.dailymotion.com/video/x9k1104?t=64) Saja Boys en fila; [1:20](https://www.dailymotion.com/video/x9k1104?t=80) Jinu; 2:24 «ONLY ON NETFLIX JUNE 20» | Poses y cartela | ✅ |
+| [Tráiler, copia de JeuxVideo.com](https://www.dailymotion.com/video/x9khghu) | 64 370 vistas | La misma pieza | ✅ |
+| Teaser de 2:30 en [Allociné](https://www.dailymotion.com/video/x9k0bd2) (237 004 vistas) y [FILMSTARTS](https://www.dailymotion.com/video/x9k0b34) (156 239) | — | El tráiler sin el logo final | ✅ |
+| [*Lyric video* «How It's Done»](https://archive.org/details/youtube-QGsevnbItdU) | 0:06, 0:54, 1:06, 2:18, 2:48 | Presentación y pelea | ✅ |
+| [*Lyric video* «Soda Pop»](https://archive.org/details/youtube-983bBbJx0Mk) | 0:12-0:48 | Debut de los Saja Boys | ✅ |
+| [*Lyric video* «Golden»](https://archive.org/details/golden-official-lyric-video-kpop-demon-hunters-sony-animation_202511) | 0:24, 0:48, 1:48, 2:12, 3:00, 3:02 | El más útil de todos | ✅ |
+| [*Lyric video* «Takedown»](https://archive.org/details/youtube-l8Dr7vzMSVE) | 0:30-1:00, 1:06, 1:48 | TWICE en el estudio; diss track | ✅ |
+| [*Scenepack* 4K de Rumi](https://www.dailymotion.com/video/x9ohwu0), 2:38 | — | Cantera de planos grandes | ⚠️ de fans |
+
+- **Panel de los directores** (Animation Is Film, Los Ángeles): la
+  escena de los **ojos de corazón** (que cambian a *six-pack* y a
+  mazorca) nació de una orden de la presidenta de Sony Animation,
+  Kristine Belson: «Let's objectify the crap out of these guys»
+  ([AOL](https://www.aol.com/articles/kpop-demon-hunters-directors-break-150000307.html)). ⚠️ (texto, no el vídeo)
+- **El director de fotografía, Gary Lee**, explica el encuadre pegado
+  a la cabeza, tipo TikTok, en un vídeo de Collider que no se pudo ver
+  (§19). ⚠️
+- **Sing-along en cines** (23-24 ago 2025): más de 1700 cines; 18 a 20
+  millones de dólares; **la primera vez que Netflix gana un fin de
+  semana de taquilla** en EE. UU.
+  ([THR, entradas agotadas](https://www.hollywoodreporter.com/movies/movie-news/kpop-demon-hunters-singalong-box-office-sells-out-1236348539/)). ✅
+- **Récord de Netflix**: la primera película en pasar de 300 millones de
+  visualizaciones; nº1 13 semanas seguidas
+  ([Netflix Tudum](https://www.netflix.com/tudum/articles/kpop-demon-hunters-most-popular-netflix-film)). ✅
+- **TikTok**: el reto de baile de «Golden», con tutoriales en espejo
+  ([@midnyt.team](https://www.tiktok.com/@midnyt.team/video/7535402512384298258));
+  el **#takedownchallenge**, que lanzó el canal oficial con TWICE
+  ([@icm_triplets](https://www.tiktok.com/@icm_triplets/video/7507677639918832927));
+  y el **#SodaPopChallenge**. ⚠️ (sin vistas comprobadas)
+- **Reddit**: «Your Idol» de los Saja Boys pasó los 300 millones de
+  vistas; el hilo lo celebra con 459 votos
+  ([r/KpopDemonhunters](https://www.reddit.com/r/KpopDemonhunters/comments/1p0cd9i/your_idol_by_saja_boys_hit_300_million_views_lets/)). ⚠️
+- ⚠️ No se vio ningún vídeo de análisis largo (bloqueo de YouTube).
+
+## 13 · Videojuegos de la franquicia (punto 11)
+
+**No hay juego de pago** (nada en Steam): es una película. ✅
+(búsqueda negativa)
+
+**Sí hay un juego oficial gratis en Roblox**: «KPop Demon Hunters», de
+**Twin Atlas** y **Makeshift** con Netflix, desde el **19-dic-2025**
+([blog de Twin Atlas](https://twinatlas.com/blog/19dec2025_KPopDemonHuntersTA);
+[ficha en Roblox](https://www.roblox.com/games/118806061296143/KPop-Demon-Hunters)). ✅
+
+- **Qué se hace**: crear tu propio *trainee* de K-pop (ropa, peinado,
+  maquillaje), recorrer un **Seúl de Roblox** con sitios de la película
+  (la **HUNTR/X Tower** se puede visitar), pelear contra demonios con
+  armas como las del film, bailar coreografías para «restaurar el
+  Honmoon» y comprar ropa, mascotas y muebles. ✅
+- **Ropa real y virtual a la vez**: el jersey de oso polar de Mira, el
+  pantalón de pijama de Rumi y la camiseta «Faded» existen como prenda
+  y como cosmético. ✅
+- **Interfaz**: letra **Builder Sans** de Roblox (§6). El inventario es
+  una **rejilla de iconos cuadrados**, esquinas redondeadas, gris oscuro
+  translúcido: `#1C1D24` y `#4F4448`, con acentos de cada prenda
+  (`#137AF3` azul, `#DD7D79` coral). El logo del juego es el de la
+  película con «NETFLIX» en rojo debajo. ✅ (capturas oficiales,
+  medidas con `estilo.py`)
+- **Las 9 capturas oficiales**: inventario, selección de personaje,
+  pelea con espada, estudio de grabación, fogata, puesto de *corndogs*,
+  fila de 5 avatares. **Ninguna tiene caja de diálogo.** ⚠️
+- **The Cutting Room Floor**: bloqueado por Cloudflare en los dos
+  intentos. ⚠️
+- **Juegos que NO son oficiales** (no usarlos de referencia): «Kpop
+  Demon Hunters Battle», «KPop Demon Hunters Playground» y «Kpop Demon:
+  Piano Game» en
+  [Google Play](https://play.google.com/store/apps/details?id=com.pg.kpop.demon.hunters.game). ⚠️
+- **Dentro de otros juegos**: Fortnite y CookieRun: Kingdom (§24). ✅
+

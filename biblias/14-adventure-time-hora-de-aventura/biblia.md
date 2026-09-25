@@ -1273,11 +1273,18 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
   productora.
 - Lo que sí hay:
   - La editorial **BOOM!** llamó a Marceline «**fan-favorite**» en la nota
-    de prensa de «Marceline and the Scream Queens» ⚠️ (lo cita
-    [Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen),
-    según el resumen de la búsqueda).
-  - «Evicted!» (su primer episodio) **disparó su popularidad** ⚠️ (misma
-    fuente).
+    de prensa de «Marceline and the Scream Queens» ✅ (lo citan
+    [Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen)
+    y la [Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Marceline),
+    leídas enteras en la segunda pasada).
+  - «Evicted!» (su primer episodio) **disparó su popularidad**, según el
+    propio **Pendleton Ward** ✅ (mismas dos fuentes).
+  - **CartoonNetwork.co.uk** la nombró **«Character of the Week»** el **24
+    de enero de 2012** ✅ (mismas dos fuentes).
+  - ***The Guardian*** la llamó **lo mejor de la serie** en una reseña del
+    DVD, «responsable de algunas de las mejores canciones» ✅ (mismas dos).
+  - **WhatCulture** (2016) la puso **n.º 4** de los mejores personajes, «el
+    personaje más cool de la serie» ⚠️ (sólo la cita de la wiki).
   - Tuvo **su propia miniserie** («Estacas», 2015) y **su propio
     especial** («Obsidian», 2020) ✅
     ([Wikipedia: Stakes](https://en.wikipedia.org/wiki/Stakes_(miniseries)),
@@ -1293,8 +1300,20 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
   - Japón: «マーセリンはアドベンチャー・タイムの人気キャラクターの一人»
     (es uno de los personajes populares) ⚠️
     ([ciatr](https://ciatr.jp/topics/74459)).
+  - **Segunda pasada, los rivales**: el crítico **Eric Thurm** (*Vulture*)
+    llamó al **Rey Helado / Simon** «el mejor personaje de Adventure Time»
+    ✅ ([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King) y la
+    [wiki](https://adventuretime.fandom.com/wiki/Ice_King)). **BMO era el
+    favorito del propio Pendleton Ward** ✅ (entrevista con Hot Topic, en su
+    [ficha](https://adventuretime.fandom.com/wiki/BMO)). **Fionna** tuvo su
+    serie propia, «Fionna & Cake» (2023-2024) ✅.
+  - Ranker sigue sin abrirse (da **401**): no hay orden del voto del
+    público ⚠️.
 - **Conclusión**: para un canal de música, **Marceline no es sólo la
-  más querida: es la única música de verdad del reparto**. Finn y Jake
+  más querida: es la única música de verdad del reparto**. El **Rey
+  Helado / Simon** es el favorito de la crítica y el que más hace llorar:
+  es el mejor secundario para una lámina 2 o para acompañarla (tocan
+  juntos en «I Remember You»). Finn y Jake
   sirven de acompañantes (beatbox y viola), y **BMO** es el secundario
   más tierno con disco propio.
 
@@ -1302,24 +1321,48 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 
 ## 10 · Doblaje latino
 
-> Doblaje Wiki y la Wiki de Hora de Aventura no abrían (ni por su API).
-> Los datos salen de **resúmenes de búsqueda** de esas páginas, cruzados
-> con noticias, TikTok y Facebook de convenciones.
+> **Segunda pasada**: la página entera de
+> [«Hora de aventura» en Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Hora_de_aventura)
+> (87 135 caracteres) **sí se leyó** por su API con `curl -A "Mozilla/5.0"`.
+> Es la fuente 1 de cada nombre; la 2 va en la tabla. En la primera
+> pasada todo salía de resúmenes de búsqueda.
 
 ### 10.1 El doblaje de la serie ✅
 
 - Estreno en Latinoamérica: **8 de agosto de 2010** (en EE. UU., 5 de
-  abril de 2010) ⚠️ (una fuente: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura) por búsqueda).
+  abril de 2010). Terminó en EE. UU. el **3 de septiembre de 2018** (283
+  episodios, 10 temporadas) y en Latinoamérica el **23 de septiembre de
+  2018** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura)
+  + [Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
 - **Estudio**: **Sensaciones Sónicas** (México) desde el principio
   **hasta la temporada 5**; desde el episodio «**El traje de Jake**»,
   **SDI Media de México** ✅
   ([Hora de Aventura Wiki: Sensaciones Sónicas](https://horadeaventura.fandom.com/es/wiki/Sensaciones_S%C3%B3nicas),
   [Milenio](https://www.milenio.com/espectaculos/television/cambio-voz-jake-perro-hora-aventura)
-  habla de SDI México).
-- **Dirección**: empezó a **principios de 2010** con **Óscar Flores**
-  (que además es el Rey Helado); desde la temporada 3 cambió varias veces:
-  Rafael Pacheco, Juan Antonio Edwards, Circe Luna, Elsa Covián y Carlos
-  Hugo Hidalgo ⚠️ (una fuente).
+  habla de SDI México). Algunos promocionales se doblaron en **Candiani
+  Dubbing Studios** ✅ (Doblaje Wiki).
+- **Dirección**, tabla exacta de Doblaje Wiki (segunda pasada) ✅:
+
+  | Director | Temporadas |
+  |---|---|
+  | **Óscar Flores** (además, el Rey Helado) | 1.ª-2.ª, 4.ª (eps. 96-101), 5.ª (desde el 131) |
+  | Rafael Pacheco | 3.ª, 8 episodios |
+  | Circe Luna | 3.ª y 4.ª, algunos |
+  | Elsa Covián | 4.ª, algunos |
+  | Carlos Hugo Hidalgo | 4.ª, algunos (retake de sonido) |
+  | Juan Antonio Edwards | 3.ª, algunos |
+  | *(sin datos en la wiki)* | 5.ª hasta el episodio 130 |
+  | **Arturo Castañeda** | **6.ª-9.ª** |
+
+  **Arturo Castañeda** es hijo de **Mario Castañeda** (la voz de Goku) y
+  Rommy Mendoza; de niño dobló a Harry Potter en *La piedra filosofal* ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arturo_Casta%C3%B1eda),
+  [Comic Fest Juárez](https://www.facebook.com/comicfestjuarez/posts/arturo-casta%C3%B1eda-doblajeactor-y-director-de-doblaje-mexicano-hijo-de-los-tambi%C3%A9n/811605114317097/)).
+  **Mario Castañeda** fue productor ejecutivo en las temporadas 5.2-6 ⚠️
+  (sólo Doblaje Wiki).
+- **Traducción**: Carlos Hugo Hidalgo (la mayoría), Janet León, Luis
+  Leonardo Suárez (del 131 en adelante), Circe Luna, David Bueno (ep. 279).
+  Grabación: Antonio Hernández ✅ (Doblaje Wiki).
 
 ### 10.2 Reparto
 
@@ -1332,14 +1375,46 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 | Marceline (una canción de la temp. 6) | Romina Marroquín Payró | ⚠️ | Doblaje Wiki (por búsqueda) |
 | **Finn** | **José Antonio Toledano**, **toda la serie** (de los pocos que no cambió) y «Misiones Secundarias» | ✅ | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura), [GeekZilla](https://geekzilla.tech/hora-de-aventura-misiones-secundarias-llega-a-hbo-max/), [The Project Arcade](https://theprojectarcade.com/hora-de-aventura-misiones-secundarias-revive-al-jake-clasico-hbo-max-revela-su-doblaje-latino/) |
 | **Jake** | **José Arenas** | ✅ | [Doblaje Wiki: Jake](https://doblaje.fandom.com/es/wiki/Jake_el_perro), [Milenio](https://www.milenio.com/espectaculos/television/cambio-voz-jake-perro-hora-aventura), [TVLaint](https://www.tvlaint.com/2026/09/jose-arenas-regresa-como-jake-en-hora.html) |
-| **Dulce Princesa** | **Karla Falcón** (temp. 1-2 y **vuelve desde la 4 a petición de los fans**) | ✅ | [Doblaje Wiki: Dulce Princesa](https://doblaje.fandom.com/es/wiki/Dulce_Princesa), [TikTok, entrevista en Festigame 2024](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352) |
-| Dulce Princesa (suplente, temp. 3 hasta el ep. 94) | Claudia Urbán | ⚠️ | Doblaje Wiki (por búsqueda) |
+| **Dulce Princesa** | **Karla Falcón** (temp. 1-2 y **vuelve en la 4.ª, ep. 96, «Rey Gusano»**, hasta el final) | ✅ | [Doblaje Wiki: Dulce Princesa](https://doblaje.fandom.com/es/wiki/Dulce_Princesa), [TikTok, entrevista en Festigame 2024](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352) |
+| Dulce Princesa (suplente, eps. 58-94, temp. 3-4) | **Claudia Urbán**, que se retiró del doblaje en noviembre de 2012 | ✅ | Doblaje Wiki, tabla de la serie y su ficha |
 | **Rey Helado** | **Óscar Flores** (toda la serie y «Misiones Secundarias») | ✅ | [Doblaje Wiki: Rey Helado](https://doblaje.fandom.com/es/wiki/Rey_Helado), noticias de «Misiones Secundarias» |
-| **BMO** | **Gustavo Melgarejo** (hasta la temp. 5, en Sensaciones Sónicas) | ⚠️ | Hora de Aventura Wiki (por búsqueda) |
+| **BMO** | **Gustavo Melgarejo** (1.ª-5.ª) → **Héctor Emmanuel Gómez** (5.2-9.ª, desde «El traje de Jake») | ✅ | Doblaje Wiki (API), [Hora de Aventura Wiki: Héctor Emmanuel Gómez](https://horadeaventura.fandom.com/es/wiki/H%C3%A9ctor_Emmanuel_G%C3%B3mez) |
+| Jake (dos loops sueltos) | Víctor Ugarte (ep. 202), Tommy Rojas (ep. 279) | ⚠️ | sólo Doblaje Wiki |
+| Rey Helado (eps. 59-60) | Rafael Pacheco | ⚠️ | sólo Doblaje Wiki |
+| **Princesa Grumosa** | **Alfonso Obregón**, casi toda la serie | ✅ | Doblaje Wiki, [Hora-de Wiki](https://hora-de.fandom.com/es/wiki/Princesa_Grumosa) |
+| Hunson Abadeer | José Luis Orozco (2.ª) → Rafael Pacheco (3.ª) → Julián Lavat (4.ª) → Enrique Cervantes (9.ª) | ⚠️ | sólo Doblaje Wiki |
+| Marceline del universo alterno («Fionna y Cake») | Ángela Villanueva (5.ª) → Isabel Martiñón (7.ª) | ⚠️ | sólo Doblaje Wiki |
 
 Voz original de Marceline: **Olivia Olson**, que **canta ella misma** sus
 canciones ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Olivia_Olson),
 [SciFiNow](https://www.scifinow.co.uk/interviews/adventure-times-olivia-olson-on-marceline-stakes-and-songs/)).
+
+Curiosidades de Doblaje Wiki ✅: **Finn y Marceline no cambiaron de voz en
+toda la serie**, algo raro (casi todos los demás sí). El final se llama en
+latino **«Ven Conmigo»**. **Canal 2** (El Salvador) y **Canal 5** (México)
+la emiten **sin las censuras** de Cartoon Network y Netflix Latinoamérica.
+
+**Por qué volvió Karla Falcón** ✅: la wiki enlaza **peticiones firmadas**
+(peticionpublica.es), un **grupo de Facebook** («Evitemos que cambien las
+voces…»), un hilo de McAnime y quejas en la wiki de la serie contra el
+cambio. **El público latino peleó por su actriz y ganó**: dato de oro para
+un servidor de doblaje (punto 22).
+
+### 10.2.b Frases reales del doblaje, oídas en audios oficiales ✅
+
+Seis muestras `.ogg` que Doblaje Wiki sube como prueba de cada actor,
+pasadas por `voz.py` (Whisper). **Son diálogo real doblado**; la wiki no
+dice de qué episodio sale cada una ⚠️, y Whisper puede fallar en una
+palabra suelta (marcada ⚠️).
+
+| Personaje | Frase | Cómo suena (medido) | Audio |
+|---|---|---|---|
+| **Marceline** (Isabel Martiñón) | «¿Vía⚠️? ¿Qué estás haciendo? No puedes estar aquí. **Ash no quiere que salga con mortales**» | aguda (295 Hz), **muy expresiva** (17,3 semitonos), ritmo normal | [ogg](https://static.wikia.nocookie.net/doblaje/images/a/a6/Isabel_Marti%C3%B1on_como_Marceline.ogg) |
+| **Finn** (José Antonio Toledano) | «Tienes razón, sólo hay una forma de salir. Uno de nosotros será sacrificado para que los otros vivan… No traten de convencerme» | media (164 Hz), muy expresiva, **rápida** (3,5 palabras/s) | [ogg](https://static.wikia.nocookie.net/doblaje/images/5/57/Jose_Toledano_-_Finn_5ta_Temporada.ogg) |
+| **Jake** (José Arenas, «tono nuevo») | «Estoy para ti, hermano. Pero, Finn, te diré algo gentilmente. Necesitas otra espada… Todo estará bien. **Vayamos de compras**» | media (214 Hz), expresiva, tranquila | [ogg](https://static.wikia.nocookie.net/doblaje/images/5/51/Jose_Arenas_-_Jake_Nuevo_Tono.ogg) |
+| **Dulce Princesa** (Karla Falcón) | «**¡Los veo en el dulce reino! ¡Esta noche!**» | **muy aguda** (397 Hz), rápida | [ogg](https://static.wikia.nocookie.net/doblaje/images/4/40/Karla_Falcon_como_la_Dulce_Princesa.ogg) |
+| **Rey Helado** (Óscar Flores) | «**¡La hora es suya, pero el día será mío!** ¡Como tú, princesa mía!» | aguda (266 Hz), muy expresiva | [ogg](https://static.wikia.nocookie.net/doblaje/images/7/7a/Oscar_Flores_como_el_Rey_Helado.ogg) |
+| **BMO** | «¡Jajajajajaja! ¡Juguemos⚠️ a policías y⚠️ ladrones!» | **muy aguda** (465 Hz), **lenta** | [ogg](https://static.wikia.nocookie.net/doblaje/images/7/70/BMO.ogg) |
 
 ### 10.3 El caso de la voz de Jake ✅
 
@@ -1365,7 +1440,11 @@ canciones ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Olivia_Olson),
 | «**Nunca me hagan eso**» (de Clavillazo) | Jake | ✅ (guía de cuadros y búsqueda 27) |
 | «**¡Ay, mamachita!**», «**¿Qué pasó, qué pasó? Vamos, ¡ay!**» | Jake | ✅ (guía de cuadros) |
 | «**Los amigos se ayudan siempre, ¡SIEMPRE!**» | Finn | ⚠️ |
-| «**¡Oh, por Glob!**» | en inglés «Oh my Glob». Según la búsqueda, en latino **a veces se cambió por «¡Oh, por Dios!»**, y «¡Oh por Glob!» quedó como muletilla de la **Princesa Grumosa** | ⚠️ (dato confuso) |
+| «**¡Oh, por Glob!**» | en inglés «Oh my Glob». Es la muletilla latina de la **Princesa Grumosa** y **sí lleva «Glob»** en latino | ✅ (Doblaje Wiki + [Hora-de Wiki](https://hora-de.fandom.com/es/wiki/Princesa_Grumosa), segunda pasada) |
+| «**Ash no quiere que salga con mortales**» | Marceline, audio oficial de Doblaje Wiki | ✅ (audio) |
+| «**¡Los veo en el dulce reino! ¡Esta noche!**» | Dulce Princesa, audio oficial | ✅ (audio) |
+| «**¡La hora es suya, pero el día será mío!**» | Rey Helado, audio oficial | ✅ (audio) |
+| «**Eso... es estúpido**» | Rey Helado, piloto subtitulado en español, [4:05](https://www.dailymotion.com/video/x84oaz2?t=245) | ⚠️ (subtítulo, no doblaje) |
 | «**Soy tu problema**», «**Canción de las papas**», «**Todo se queda**», «**¡Oh, Dulce Princesa!**» | títulos latinos de canciones | ✅ |
 | «**Marceline la Reina Vampiro**» | título latino oficial de 7×06 («Estacas», parte 1) | ✅ ([HBO Max](https://www.hbomax.com/bo/es/shows/hora-de-aventura/s7/fff09eaf-17c3-446b-be32-8a0d47e4ccf1/e6-marceline-la-reina-vampiro/73c26176-7919-4bfe-8b77-db471f43719d), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_la_Reina_Vampiro)) |
 
@@ -1378,8 +1457,10 @@ de aventura!»
 [Hora de Aventura Wiki: secuencia de apertura](https://horadeaventura.fandom.com/es/wiki/Secuencia_de_apertura)).
 
 > **No encontré** cómo dice Marceline en latino «Thanks for helping me
-> record», «I'm Marceline the Vampire Queen» ni la frase del Hoyo Musical.
-> Las frases que propongo para la lámina son **traducción mía**.
+> record», «I'm Marceline the Vampire Queen» ni la frase del Hoyo Musical
+> (YouTube pide sesión y Dailymotion no tiene clips doblados de esas
+> escenas). Las frases que propongo para la lámina son **traducción mía**,
+> salvo las de 10.2.b.
 
 ### 10.5 Lo nuevo: «Hora de aventura: Misiones Secundarias» ✅
 

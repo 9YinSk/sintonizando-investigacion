@@ -104,7 +104,8 @@ canales donde algo **se guarda, se mira y se recuerda**.
 
 **Recomendación: #🌟・destacados** (concepto A). Alternativas: **#📸・fotos**
 (B) y **#📖・textos** (C). Ninguno choca con los de 33. Los choques con
-otras series son sólo nota: 100 Mononoke (#fotos) debería quedarse con
+otras series son sólo nota: #🌟・destacados también lo proponen 29
+(Super Mario Galaxy), 37, 39, 45 y 77 (Punto 24.2); 100 Mononoke (#fotos) debería quedarse con
 «bosque que revive»; Frieren, con «**el sitio al que se vuelve**» (Punto 24).
 
 ## 1 · Resumen para quien tenga prisa
@@ -1653,3 +1654,36 @@ Funko de Himmel con corona…) y el **cosplay** están en **33 Punto 23**
   BY-SA 4.0, foto de Benlisquare**): Fern
   en Comiket 105 y SMASH 2025, Frieren en Comiket 107, Übel en Comic World
   Taiwán (6000×4000 o más) · `referencias.json` n.º 65-80 ✅ medidos.
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+Las recomendaciones de AniList (Violet Evergarden, Delicious in Dungeon,
+Mushishi, Kino's Journey, Girls' Last Tour, Maquia, Spice and Wolf…), la
+influencia que reconoce el autor (*Nemu the Corpse Carrier*) y las
+láminas vecinas de 33 (Violet Evergarden en #poemas, Wistoria, Solo
+Leveling, Vinland Saga) están en **33 Punto 24**. Aquí, con la lupa del
+**paisaje y la nostalgia**.
+
+### 24.1 Obras de paisaje y melancolía
+
+| Obra | Qué comparte | Fuente |
+|---|---|---|
+| **Yokohama Kaidashi Kikō** (よこはま買い出し紀行) | un mundo que **se apaga muy despacio**, campo exuberante, el mar que sube; una androide con una cafetería vive tardes lentas. **Mortalidad, legado e impermanencia**, un mundo que «acepta su final con elegancia». **El paralelo más directo** | [CBR](https://www.cbr.com/10-cozy-anime-that-are-surprisingly-deep/) + [MyAnimeList](https://myanimelist.net/recommendations/anime/975-52991) ✅ |
+| **Kino's Journey** | **paisaje bonito para hablar de otra cosa** (moral, tradición, sociedad) | CBR ✅ (y AniList, 33) |
+| **Studio Ghibli** (como estilo, no una película) | fondos hechos a mano, paleta suave, sin la saturación del anime actual | [FandomWire](https://fandomwire.com/frieren-beyond-journeys-end-has-the-essence-of-a-studio-ghibli-film/) + Unwinnable ✅ en la paleta |
+
+### 24.2 Láminas del servidor que miran lo mismo (para no repetir)
+
+| Biblia | Canal que propone | Qué comparte | Cómo se diferencia Frieren |
+|---|---|---|---|
+| **33 Frieren** (hermana) | #🧰・recursos (grimorios), #✍️・poemas (el diario de Himmel), #🎟️・eventos (meteoros de Era) | la misma obra | aquí **otros canales y otros objetos**: la estatua, el mapa, las páginas en blanco. El libro de Himmel sale en los dos: en 33, **mesa y ventana dorada**; aquí, **biblioteca circular con rayo frío** y **páginas en blanco** |
+| **100 La princesa Mononoke** | #🎨・arte (⭐); #📸・fotos, etiqueta «Naturaleza», como secundario | naturaleza, paisaje | Mononoke: **bosque que revive**. Frieren: **el sitio al que se vuelve** |
+| **101 Your Name: cielos y ciudades** | **#📸・fotos** (⭐, etiquetas Paisaje, Ciudad, Nocturna); también #🪪・presentaciones y #🎟️・eventos | cielos, luz, un cometa | Your Name: **cielo de ciudad y cometa**. Frieren: **mapa de un viaje a pie**, campo y ruina |
+| 23 Lilo & Stitch, 79 Demon Slayer paisajes | #📸・fotos (según la biblia 101) ⚠️ no leídas | — | sólo nota: **#fotos lo piden cinco series** |
+| 29 (Super Mario Galaxy), 37 FMA, 39 Saint Seiya, 45 Mob, 77 Wistoria | **#🌟・destacados** (el 29 como principal; los demás, alternativa) | «lo que junta estrellas»: estrellas, constelaciones, relojes, medidores | Frieren: **una estatua que se mira y no se toca**. Sólo nota: no bloquea |
+| **102 El estilo Ghibli** | sin biblia todavía ⚠️ | fondos a mano, acuarela | mirar su canal cuando exista |
+
+**Nota de canal** (no bloquea nada, regla del dueño del 25-sep): #📸・fotos
+lo piden cinco series y #🌟・destacados, seis (buscado con `grep` en
+`biblias/*/biblia.md`). Se mantiene **A · #🌟・destacados** porque la
+estatua es el símbolo de la memoria en la serie; el dueño elige.
