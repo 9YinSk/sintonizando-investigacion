@@ -17,9 +17,15 @@ fecha: 2026-09-24
 > - **Límites**: YouTube no dejó bajar vídeo (se miró por storyboards y
 >   miniaturas); la web oficial, TV Tropes y Namu Wiki dieron 403. Todo lo
 >   dudoso lleva ⚠️ y está junto en §20.
+> - **Segunda pasada** el 25-sep-2026 (repaso corto de `EQUIPO.md`): 3
+>   investigadores (imagen, voz, texto) y el redactor añadieron los
+>   **puntos 18-25** de `ENCARGO.md` y la guía para **IA de texto** (§18.7).
+>   Red abierta: wikis en inglés y español por la API, Arctic Shift,
+>   oEmbed de YouTube, ambientCG, webs japonesas de prensa y tiendas.
 
 ## Índice
 
+- Segunda pasada · qué cambió (repaso de los puntos 18-25)
 0. Frieren no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
 2. Las escenas que sirven (con minuto)
@@ -38,11 +44,71 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
+18. Guía para generar con IA (imagen y **texto**, 18.7 nuevo)
+- Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+- Punto 19 · Texturas 2D (tramas, papel, rayas y emblemas)
+- Punto 20 · Gustos y detalles de cada personaje
+- Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+- Punto 22 · Fan dubs y comunidad hispana
+- Punto 23 · Colaboraciones, figuras y cosplay
+- Punto 24 · Obras parecidas y láminas vecinas
+- Punto 25 · El mundo, la historia por arcos y sus símbolos
 19. Tres conceptos de lámina
 20. Lo que no pude verificar
 - Cumplimiento del encargo
 21. Bitácora de búsqueda
+
+## Segunda pasada · qué cambió
+
+Repaso corto del 25-sep-2026 (`EQUIPO.md`): **3 investigadores**
+(imagen, voz, texto) y un redactor. Faltaban los **puntos 18-25** de
+`ENCARGO.md` y la parte de **IA de texto** del punto 17. Lo demás no se
+reescribió.
+
+- **Nuevo**: ocho secciones, «Punto 18» a «Punto 25», entre §18 y §19.
+  - **Técnica** (Punto 18): la dirección de Saitō («lo cotidiano»), la
+    acción dibujada a mano sin CGI, la rotoscopia, el ED de la T2 a
+    **lápiz de color** y el método de Yoshioka (acuarela + 3D + retoque).
+    Recetas para Photoshop y Blender.
+  - **Texturas** (Punto 19): trama de punto del manga **mirada** en un
+    panel; las **rayas de la camisa** de Frieren medidas; el **Emblema
+    Sagrado** medido; 4 texturas CC0 de ambientCG.
+  - **Gustos** (Punto 20): tabla del **Official Fan Book** (pudín Merkur,
+    dulces, Jumbo Berry Special, tortilla Ruf). **No hay cumpleaños
+    oficiales**: campo vacío en las dos wikis.
+  - **Por qué la aman** (Punto 21): Manga Taishō 2021, 5 premios de
+    Crunchyroll, 30 millones de copias; **Stark** como el personaje con
+    el que se identifica el público; **la escena del anillo** como la
+    página más votada (encuesta de Shōgakukan y Reddit).
+  - **Comunidad hispana** (Punto 22): un fandub, **5 covers** del OP en
+    latino, el meme «Frieren hace berrinche», entrevistas a Erika Ugalde
+    y Azucena Estrada.
+  - **Colaboraciones** (Punto 23): Sweets Paradise y «社交界ver.» con
+    **ropa nueva vista**, 11 más de collabo-cafe, 13 figuras y bolsas
+    oficiales, 17 fotos de cosplay CC BY-SA.
+  - **Obras parecidas** (Punto 24) y **mundo** (Punto 25): lo que dice el
+    editor, la recomendación del autor, láminas vecinas, 5 reglas, 9
+    arcos, símbolos y vocabulario.
+  - **IA de texto** (§18.7): cómo escribir en su voz, con frases reales
+    del doblaje ordenadas por emoción.
+- **Correcciones y matices que salen del repaso**:
+  - El **Emblema Sagrado** (聖杖の証) no es sólo «de un personaje
+    religioso»: la imagen de la wiki y F9 (§15) muestran que **lo lleva
+    Frieren** (Punto 19.5).
+  - La **altura** de Stark y Himmel **no está publicada** (Punto 20).
+  - Los **gags del fandom** (Frieren en el Mimic, la hamburguesa de
+    Stark) ya son **figuras oficiales**: se pueden usar sin miedo
+    (Punto 23.2).
+- **Conceptos** (§19): se añade al final qué mejora cada uno con lo nuevo.
+- **`referencias.json`**: de 40 a **REFS_TOTAL** (ver Punto 19, 20, 21,
+  22 y 23 y la tabla).
+- **Tabla de cumplimiento**: filas de los puntos 18-25 añadidas.
+- **Bitácora**: la de los tres investigadores, en §21 («Segunda pasada»).
+- **Sigue sin resolverse** (⚠️ en su punto): la aberración cromática como
+  filtro del estudio, un emblema propio de la Asociación Continental de
+  Magia, la tela y costura de los cosplays (Wikimedia dio 429), vistas de
+  TikTok y de los covers, la música exacta de la escena del anillo y la
+  colaboración con Uniqlo/GU.
 
 ---
 
