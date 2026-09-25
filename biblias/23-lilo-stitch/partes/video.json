@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://archive.org/details/lilo-stitch-3",
+    "fuente": "Internet Archive (Disney Channel, 2004)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Vídeo de los créditos finales de Lilo & Stitch (2002): el collage de fotos de familia con Stitch colado, y la ficha técnica completa incluidas las canciones",
+    "para_que": "Confirmar minuto a minuto el álbum de fotos de los créditos y los créditos exactos de la música (punto 2, 9, 14)",
+    "licencia": "Copia de emisión de TV subida por un usuario; uso como referencia, no para redistribuir"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Tráiler oficial original de Lilo & Stitch (2002, Disney)",
+    "para_que": "Poses de Nani, Stitch y Lilo, y la cápsula con la foto de Lilo dentro (punto 2, 10, 14)",
+    "licencia": "Material promocional oficial de Disney, subido por un usuario; uso como referencia"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p",
+    "fuente": "Internet Archive",
+    "ancho": 1824,
+    "alto": 1080,
+    "que_es": "Escena real de la película: Nani sirviendo en el luau y siendo despedida, con Lilo y Stitch cenando",
+    "para_que": "Paleta medida y luz del sitio del luau, pose de Nani sirviendo (punto 4, 14)",
+    "licencia": "Fragmento de la película con copyright de Disney, subido por un usuario; uso como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9fzrlk",
+    "fuente": "Dailymotion (Sensacine)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial de Lilo & Stitch (2025) doblado en español latino",
+    "para_que": "Paleta del mar en el remake y pose de Stitch surfeando (punto 4, 10, 14)",
+    "licencia": "Material promocional oficial de Disney, republicado por un medio; uso como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9jtp6m",
+    "fuente": "Dailymotion (NoPopCorn / Disney Francia)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Featurette oficial sobre la música de Lilo & Stitch (2025), en francés",
+    "para_que": "Confirmar que el remake mantiene Elvis Presley y música hawaiana tradicional (punto 9)",
+    "licencia": "Material promocional oficial de Disney, republicado por un medio; uso como referencia"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-3",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 1:20)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Fotograma: foto de familia de los créditos con Stitch sentado fuera del marco blanco",
+    "para_que": "Referencia directa del concepto de lámina «álbum con Stitch colado» (punto 2, lo mejor para la lámina #1-2)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 1:48)",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Fotograma: cápsula de Stitch con una fotito de Lilo pegada dentro",
+    "para_que": "Objeto real pequeño para un concepto de lámina en Blender (punto 2, lo mejor para la lámina #1)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 2:12)",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Fotograma: Nani asustada al descubrir a Stitch en el dormitorio de Lilo, con lámpara de base de piña",
+    "para_que": "Pose de sorpresa/regaño de Nani y detalle de attrezzo del dormitorio (punto 4, 14)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  }
+]

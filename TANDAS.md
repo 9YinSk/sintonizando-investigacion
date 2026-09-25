@@ -1,8 +1,45 @@
 # Tandas de investigación (de 4 en 4)
 
 En una sesión nueva en la nube, con este repositorio, pega la frase de la tanda.
-La sesión hace los 4 encargos con **un ayudante por encargo, en paralelo**.
+Desde el 24 de septiembre las series se hacen **en equipo** (`EQUIPO.md` y la skill `serie-en-equipo`): 4 investigadores y un redactor por serie, 2 series a la vez; donde la frase dice «un ayudante por encargo», vale el equipo.
 Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
+
+## Segunda pasada · red completa
+
+Las biblias 01-25 se hicieron con la red de la sesión cerrada (sólo búsqueda web y GitHub): sin hojas de contacto, sin Doblaje Wiki, sin minutos de YouTube. Esta pasada las corrige y completa con la red abierta, sin rehacerlas. Las 26-30 ya tuvieron la red abierta, pero se hicieron antes de las reglas de mirar los vídeos y de la tabla «Cumplimiento del encargo»: su repaso es sobre todo eso.
+
+Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja cada ayudante). Se intercala con las tandas nuevas: unos 7 ayudantes a la vez, y cada uno se sube con `herramientas/subir.sh <id>` (o `<id> repaso`).
+
+- [x] repaso 01-one-piece
+- [x] repaso 02-attack-on-titan
+- [x] repaso 03-solo-leveling
+- [x] repaso 04-harry-potter
+- [x] repaso 05-oshi-no-ko
+- [x] repaso 06-spy-x-family
+- [x] repaso 07-pok-mon
+- [x] repaso 08-big-hero-6-grandes-h-roes
+- [x] repaso 09-mafalda
+- [x] repaso 10-k-on
+- [ ] repaso 11-chainsaw-man
+- [ ] repaso 12-kakegurui
+- [ ] repaso 13-rick-and-morty
+- [ ] repaso 14-adventure-time-hora-de-aventura
+- [ ] repaso 15-spongebob-bob-esponja
+- [ ] repaso 16-neon-genesis-evangelion
+- [ ] repaso 17-arcane
+- [ ] repaso 18-death-note
+- [x] repaso 19-doraemon
+- [x] repaso 20-dr-stone
+- [x] repaso 21-spider-man-into-across-the-spider-verse
+- [x] repaso 22-violet-evergarden
+- [ ] repaso 23-lilo-stitch
+- [ ] repaso 24-assassination-classroom
+- [ ] repaso 25-my-hero-academia
+- [ ] repaso 26-scooby-doo
+- [ ] repaso 27-cyberpunk-edgerunners
+- [ ] repaso 28-jojo-s-bizarre-adventure
+- [ ] repaso 29-por-decidir-seis-canales-sin-serie
+- [ ] repaso 30-naruto
 
 # Parte 1 · Series, películas y videojuegos
 
@@ -10,91 +47,91 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S1 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/01-one-piece.md`, `encargos/02-attack-on-titan.md`, `encargos/03-solo-leveling.md`, `encargos/04-harry-potter.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 01-one-piece
-- [ ] 02-attack-on-titan
-- [ ] 03-solo-leveling
-- [ ] 04-harry-potter
+- [x] 01-one-piece
+- [x] 02-attack-on-titan
+- [x] 03-solo-leveling
+- [x] 04-harry-potter
 
 ## Tanda S2
 
 > Haz la tanda S2 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/05-oshi-no-ko.md`, `encargos/06-spy-x-family.md`, `encargos/07-pok-mon.md`, `encargos/08-big-hero-6-grandes-h-roes.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 05-oshi-no-ko
-- [ ] 06-spy-x-family
-- [ ] 07-pok-mon
-- [ ] 08-big-hero-6-grandes-h-roes
+- [x] 05-oshi-no-ko
+- [x] 06-spy-x-family
+- [x] 07-pok-mon
+- [x] 08-big-hero-6-grandes-h-roes
 
 ## Tanda S3
 
 > Haz la tanda S3 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/09-mafalda.md`, `encargos/10-k-on.md`, `encargos/11-chainsaw-man.md`, `encargos/12-kakegurui.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 09-mafalda
-- [ ] 10-k-on
-- [ ] 11-chainsaw-man
-- [ ] 12-kakegurui
+- [x] 09-mafalda
+- [x] 10-k-on
+- [x] 11-chainsaw-man
+- [x] 12-kakegurui
 
 ## Tanda S4
 
 > Haz la tanda S4 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/13-rick-and-morty.md`, `encargos/14-adventure-time-hora-de-aventura.md`, `encargos/15-spongebob-bob-esponja.md`, `encargos/16-neon-genesis-evangelion.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 13-rick-and-morty
-- [ ] 14-adventure-time-hora-de-aventura
-- [ ] 15-spongebob-bob-esponja
-- [ ] 16-neon-genesis-evangelion
+- [x] 13-rick-and-morty
+- [x] 14-adventure-time-hora-de-aventura
+- [x] 15-spongebob-bob-esponja
+- [x] 16-neon-genesis-evangelion
 
 ## Tanda S5
 
 > Haz la tanda S5 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/17-arcane.md`, `encargos/18-death-note.md`, `encargos/19-doraemon.md`, `encargos/20-dr-stone.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 17-arcane
-- [ ] 18-death-note
-- [ ] 19-doraemon
-- [ ] 20-dr-stone
+- [x] 17-arcane
+- [x] 18-death-note
+- [x] 19-doraemon
+- [x] 20-dr-stone
 
 ## Tanda S6
 
 > Haz la tanda S6 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/21-spider-man-into-across-the-spider-verse.md`, `encargos/22-violet-evergarden.md`, `encargos/23-lilo-stitch.md`, `encargos/24-assassination-classroom.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 21-spider-man-into-across-the-spider-verse
-- [ ] 22-violet-evergarden
-- [ ] 23-lilo-stitch
-- [ ] 24-assassination-classroom
+- [x] 21-spider-man-into-across-the-spider-verse
+- [x] 22-violet-evergarden
+- [x] 23-lilo-stitch
+- [x] 24-assassination-classroom
 
 ## Tanda S7
 
 > Haz la tanda S7 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/25-my-hero-academia.md`, `encargos/26-scooby-doo.md`, `encargos/27-cyberpunk-edgerunners.md`, `encargos/28-jojo-s-bizarre-adventure.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 25-my-hero-academia
-- [ ] 26-scooby-doo
-- [ ] 27-cyberpunk-edgerunners
-- [ ] 28-jojo-s-bizarre-adventure
+- [x] 25-my-hero-academia
+- [x] 26-scooby-doo
+- [x] 27-cyberpunk-edgerunners
+- [x] 28-jojo-s-bizarre-adventure
 
 ## Tanda S8
 
 > Haz la tanda S8 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/29-por-decidir-seis-canales-sin-serie.md`, `encargos/30-naruto.md`, `encargos/31-demon-slayer-kimetsu-no-yaiba.md`, `encargos/32-jujutsu-kaisen.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 29-por-decidir-seis-canales-sin-serie
-- [ ] 30-naruto
-- [ ] 31-demon-slayer-kimetsu-no-yaiba
-- [ ] 32-jujutsu-kaisen
+- [x] 29-por-decidir-seis-canales-sin-serie
+- [x] 30-naruto
+- [x] 31-demon-slayer-kimetsu-no-yaiba
+- [x] 32-jujutsu-kaisen
 
 ## Tanda S9
 
 > Haz la tanda S9 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/33-frieren.md`, `encargos/34-haikyuu.md`, `encargos/35-one-punch-man.md`, `encargos/36-hunter-x-hunter.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 33-frieren
-- [ ] 34-haikyuu
-- [ ] 35-one-punch-man
-- [ ] 36-hunter-x-hunter
+- [x] 33-frieren
+- [x] 34-haikyuu
+- [x] 35-one-punch-man
+- [x] 36-hunter-x-hunter
 
 ## Tanda S10
 
 > Haz la tanda S10 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/37-fullmetal-alchemist-brotherhood.md`, `encargos/38-sailor-moon.md`, `encargos/39-saint-seiya-los-caballeros-del-zodiaco.md`, `encargos/40-digimon-adventure.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 37-fullmetal-alchemist-brotherhood
-- [ ] 38-sailor-moon
-- [ ] 39-saint-seiya-los-caballeros-del-zodiaco
-- [ ] 40-digimon-adventure
+- [x] 37-fullmetal-alchemist-brotherhood
+- [x] 38-sailor-moon
+- [x] 39-saint-seiya-los-caballeros-del-zodiaco
+- [x] 40-digimon-adventure
 
 ## Tanda S11
 
@@ -181,8 +218,8 @@ Marca aquí las que ya estén hechas. El mapa completo está en `MAPA.md`.
 
 > Haz la tanda S20 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/77-wistoria-wand-and-sword.md`, `encargos/78-vinland-saga.md`, `encargos/79-demon-slayer-paisajes-y-auras.md`, `encargos/80-solo-leveling-el-sistema-y-las-sombras.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 77-wistoria-wand-and-sword
-- [ ] 78-vinland-saga
+- [x] 77-wistoria-wand-and-sword
+- [x] 78-vinland-saga
 - [ ] 79-demon-slayer-paisajes-y-auras
 - [ ] 80-solo-leveling-el-sistema-y-las-sombras
 

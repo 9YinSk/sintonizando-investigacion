@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x38o16p?t=60",
+    "fuente": "Dailymotion (\"Saint Seiya : Soldiers' Soul - Gameplay PS4 - 2\")",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "HUD de combate real de Saint Seiya: Soldiers' Soul (PS4/Steam): barra de vida en degradado negro-rojo-naranja-dorado, medallón ovalado con retrato, emblema central de cuernos/alas doradas",
+    "para_que": "referencia exacta de interfaz de videojuego (Punto 6 y 11); colores medidos con estilo.py: dorado #ECBE2D, rojo oscuro #61382A/#7F5339, negro #20120B",
+    "licencia": "© Dimps / Bandai Namco; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x38o16p?t=300",
+    "fuente": "Dailymotion (\"Saint Seiya : Soldiers' Soul - Gameplay PS4 - 2\")",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Diálogo de historia en Soldiers' Soul: texto flotante sin globo ni caja, dos líneas centradas cerca del borde inferior, letra de palo seco blanca con borde oscuro fino",
+    "para_que": "referencia directa de cómo NO usar una burbuja blanca genérica: el juego oficial tampoco la usa (Punto 6)",
+    "licencia": "© Dimps / Bandai Namco; sólo referencia"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/6Ib6D_fOGc5aPfsMfVFJwPfxp9MdyWQ24Og6i3jBMcA4UZt1rnLnJ4WpMWlj51nKxeOk-KUpHv_8_Q7NQr_x=w1052-h592",
+    "fuente": "Google Play (Saint Seiya Awakening: KOTZ, ficha oficial)",
+    "ancho": 1052,
+    "alto": 592,
+    "que_es": "Captura oficial del menú de modos PVP: tarjetas grandes con nombre e icono (Jamir Championship, Saint Arena, Field of Honor) y título en mayúsculas doradas con degradado y contorno negro",
+    "para_que": "interfaz del juego móvil (Punto 11); tipografía de título medida con estilo.py: highlight #F9E09E, medio #E8C26E, borde #CD7521, contorno #090606",
+    "licencia": "© Tencent Timi Studio / Yoozoo Games / Kurumada Production; sólo referencia"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/3IDs2ZAmvZJymdmT0RUneX-YGRW95IMPKqvSNb8K-vgtU6JHmteEqtJtb8Hg4qeyF5Rmbk539bb4Lby61oITSkM=w1052-h592",
+    "fuente": "Google Play (Saint Seiya Awakening: KOTZ, ficha oficial)",
+    "ancho": 1052,
+    "alto": 592,
+    "que_es": "Captura oficial de la pantalla de equipo/roster: hasta 6 espacios numerados y cartas de personaje debajo, con los Santos Dorados al fondo",
+    "para_que": "interfaz de selección de equipo (Punto 11)",
+    "licencia": "© Tencent Timi Studio / Yoozoo Games / Kurumada Production; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/saintseiya/images/c/c1/Pegaso_8.jpg/revision/latest?cb=20131124153837&path-prefix=es",
+    "fuente": "Saint Seiya Wiki (Fandom, es)",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Pandora Box de la armadura de Pegaso: cofre metálico rectangular con el símbolo de la constelación grabado y una cadena para abrirlo",
+    "para_que": "objeto icónico y real para Blender (Punto 25): caja con relieve de constelación, bisagra y cadena",
+    "licencia": "© Masami Kurumada / Toei Animation; sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/saintseiya/images/3/35/Cosmoenergia4.jpg/revision/latest?cb=20130324234638&path-prefix=es",
+    "fuente": "Saint Seiya Wiki (Fandom, es)",
+    "ancho": 600,
+    "alto": 450,
+    "que_es": "Representación visual del Cosmos (energía interior) encendiéndose alrededor de un Santo",
+    "para_que": "referencia del efecto visual central de la franquicia (Punto 25), usado en casi todas las transformaciones",
+    "licencia": "© Masami Kurumada / Toei Animation; sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e98b4d5f45064a7994ab5cbed59b3295",
+    "fuente": "Sketchfab (autor SPARSHGUPTA)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Pegasus Seiya fully rigged character\" (34 974 caras), con esqueleto listo para posar",
+    "para_que": "modelo/rig libre para Blender (Punto 18), licencia CC Attribution",
+    "licencia": "CC Attribution (Sketchfab) — crédito a SPARSHGUPTA"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-7c0918ab9966496cb4564a8e32fccc5a",
+    "fuente": "Sketchfab (autor sacha.lujan33)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Seiya Con Texturas Sin Rig\" (42 198 caras), con las texturas de la armadura de Pegaso aplicadas",
+    "para_que": "fuente de texturas de la Cloth para Blender (Punto 18/19), licencia CC Attribution",
+    "licencia": "CC Attribution (Sketchfab) — crédito a sacha.lujan33"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel+Decorative",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Cinzel Decorative: mayúsculas ornamentales de raíz grecorromana",
+    "para_que": "letra libre recomendada para logo/título (Punto 5); comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Bangers: mayúsculas gruesas inclinadas, estilo cómic",
+    "para_que": "letra libre recomendada para gritos en globo (Punto 5); comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  }
+]

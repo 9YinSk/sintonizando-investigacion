@@ -10,6 +10,11 @@ y etiquetas reales). En `biblias/_ya_hechas/` hay tres ejemplos del nivel que se
 espera (Dragon Ball, Bocchi, Attack on Titan) y la guía de **cuadros de diálogo
 por franquicia**.
 
+> **Las biblias son generales** (decisión del dueño, 25-sep): sirven para cualquier uso, no sólo
+> para las láminas de Discord. Investiga la serie entera igual de a fondo; el canal y los
+> 3 conceptos de lámina son una propuesta más, y un choque de canal con otra serie no es un
+> problema: anótalo en una línea y sigue.
+
 ## El contexto
 
 «Sintonizando» es un servidor de Discord hispanohablante (Perú, México,
@@ -41,8 +46,10 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
 4. **Fondos y sitios**: los lugares de la serie, su luz y su paleta (hex
    aproximados), y **texturas** reales equivalentes (papel, madera, metal…).
 5. **Tipografía**: el logo, los rótulos, las letras de los globos del manga y
-   de los juegos. Para cada una, la **letra libre** más parecida (Google Fonts,
-   dafont con licencia gratuita…) y **si trae tildes, ñ, ¿ y ¡**.
+   de los juegos. **Una letra según cada uso**: logo o título, globo normal,
+   grito, pensamiento, onomatopeya, cartel del mundo, interfaz de juego y
+   subtítulos o créditos. Para cada una, la **letra libre** más parecida (Google Fonts,
+   Fontsource, dafont con licencia gratuita…) y **si trae tildes, ñ, ¿ y ¡**.
 6. **Cómo hablan y piensan en pantalla**: globos del manga, cartelas, subtítulos,
    cajas de diálogo de los videojuegos de la franquicia, interfaces, pensamientos.
    Es lo más importante: la lámina NO lleva una burbuja blanca genérica.
@@ -54,7 +61,9 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
    su API (`https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=<Serie>`;
    la web normal da 402), ANMTV, Crunchyroll/Netflix Latinoamérica. Si no hay
    doblaje latino, dilo.
-9. **Música**: openings, endings, temas de la banda sonora y qué ambiente dan.
+9. **Música y sonido**: openings, endings, temas de la banda sonora y qué ambiente dan;
+   qué tema suena en las escenas más emotivas; **efectos de sonido y
+   onomatopeyas** que todos reconocen.
 10. **Vídeos**: tráileres oficiales, escenas, análisis, tendencias de TikTok y
     YouTube sobre la serie. Con enlace y **minuto exacto** de lo que sirve.
 11. **Videojuegos de la franquicia**: su interfaz, sus menús, sus cajas de diálogo.
@@ -62,8 +71,12 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
     reconocen. Y **qué NO hacer**: lo que a un fan le parecería falso.
 13. **Descripción profunda de cada personaje** (principales y los secundarios
     más queridos): carácter, historia, miedos, qué le importa, con quién se
-    relaciona y cómo. **Cómo se expresa**: tono, muletillas, cómo se ríe, cómo se
-    enfada, cómo explica algo, cómo saluda; su lenguaje corporal.
+    relaciona y cómo. **Qué transmite** y cómo se siente verlo (la emoción que
+    deja), su arco en la historia y sus momentos clave. **Cómo se expresa**: tono,
+    muletillas, cómo se ríe, cómo se enfada, cómo explica algo, cómo saluda; su
+    lenguaje corporal; **su cara en cada emoción** (alegría, rabia, tristeza,
+    miedo, vergüenza) con fotograma y minuto. Sus **dinámicas** con los demás
+    (quién lo hace reír, con quién discute): sirven para láminas en grupo.
 14. **Poses analizadas en varias escenas**: por personaje, 6-10 fotogramas o
     ilustraciones (con capítulo y minuto o enlace) y qué hace en cada uno:
     postura, manos, mirada, gesto. Y cuál sirve para **presentar, explicar,
@@ -78,7 +91,52 @@ El dueño ha rechazado varias veces láminas por esto, con sus palabras:
     poses, fondos o escenas coherentes con la serie. Rasgos que nunca cambian,
     paleta, tipo de línea y sombreado, luz, encuadre, palabras que ayudan y
     palabras que lo estropean, y qué imágenes de las encontradas usar como
-    referencia de estilo o de pose.
+    referencia de estilo o de pose. **Y para una IA de texto**: cómo escribir sus
+    diálogos en su voz (muletillas, puntuación, gritos, onomatopeyas, cómo
+    exagera las emociones), con frases **reales** de ejemplo ordenadas por
+    emoción (alegre, enfadado, explicando, animando, triste), y el vocabulario de
+    expresiones de la serie (ojos, gotas de sudor, fondos de emoción, *chibi*)
+    para que la IA de imagen entienda cada gesto.
+18. **Estilo de dibujo y técnica, y cómo replicarlo**: tipo de línea (grosor y
+    color), sombreado (plano, degradado, tramas), filtros de la animación
+    (grano, brillo, aberración). Qué programas y técnicas usó el estudio o el
+    autor, según entrevistas y *making of* (Clip Studio, Toon Boom, 3D con
+    *toon shader*, pintura a mano…), y **cómo reproducirlo** con Photoshop y
+    Blender: pinceles, capas, ajustes del *shader*, contorno (Line Art, Freestyle
+    o Solidify), luz y render, modelos y *rigs* libres del personaje, texturas
+    encima. **Encuadres y composición** típicos: planos, ángulos y cómo se
+    enmarca cada emoción.
+19. **Texturas 2D**: tramas del manga, grano de papel, pinceladas, patrones de
+    ropa, emblemas y logos; con enlaces a pinceles o texturas libres
+    equivalentes (licencia incluida). Junto con el punto 3 (3D) y el 4
+    (texturas reales), que no falte ninguna capa.
+20. **Gustos y detalles de cada personaje**: comida, aficiones, lo que ama y lo
+    que odia, cumpleaños, altura, el objeto que siempre lleva, cómo se ve a sí
+    mismo. De fichas oficiales, *databooks* y la wiki, con fuente.
+21. **Por qué la gente la ama**: razones concretas (reseñas, Reddit, encuestas,
+    ventas, premios), con qué personaje se identifica el público y por qué. **Las
+    escenas que hacen llorar** (y las que hacen reír o gritar de emoción): capítulo
+    y minuto, qué pasa, por qué duele, qué música suena, cómo está dibujada
+    (encuadre, luz, lluvia, silencio) y cómo reaccionó la gente (comentarios con
+    más votos, vídeos de reacción).
+22. **Fan dubs y comunidad hispana**: doblajes de fans en español en YouTube y
+    TikTok (canal, enlace, escena, vistas), covers de los openings en español,
+    parodias y memes hispanos. Interesa mucho: el servidor es de doblaje.
+23. **Colaboraciones y cruces**: colaboraciones con marcas, otros juegos
+    (Fortnite, gachas…), eventos, cafés temáticos, *crossovers*. Su arte suele
+    traer poses y ropa nuevas: enlázalo. **Figuras oficiales** (su pose es una
+    referencia 3D) y **cosplay** bien hecho (materiales y volumen reales).
+24. **Obras parecidas y temas relacionados**: series de tono o estilo parecido,
+    influencias que reconoce el autor, y qué otras láminas del servidor se le
+    parecen (para no repetir ideas).
+25. **El mundo, la historia y sus símbolos**: las reglas del mundo en cinco
+    líneas; **la historia por arcos** en pocas líneas, con sus momentos clave;
+    emblemas, logos de grupos, objetos icónicos y el vocabulario propio que un
+    fan reconoce al instante.
+
+**Todo dato sirve.** Lo que no quepa en la lámina se usa después (láminas 2,
+eventos, textos del bot, doblajes). Si un punto no aplica a la obra, dilo en
+una línea y por qué.
 
 ## Lo que la lámina tiene que decir
 
@@ -132,7 +190,7 @@ siempre lo **confirmado** (dos fuentes) de lo **dudoso**.
 En `biblias/<tu-encargo>/`, sin tocar carpetas de otros encargos:
 - `biblia.md` — el dossier completo, en español, **claro para leer en el
   celular** (frases cortas, sin jerga técnica), con fuentes enlazadas.
-- `referencias.json` — lista de las 20-40 mejores referencias: `url`,
+- `referencias.json` — todas las referencias útiles (mínimo 20, sin máximo; las mejores primero): `url`,
   `fuente`, `ancho`, `alto`, `que_es`, `para_que`, `licencia`.
 - `hojas/` — como mucho **3 hojas de contacto** en JPEG de menos de 3 MB cada una.
   **No subas imágenes grandes** al repositorio: sólo sus enlaces.

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://archive.org/details/mafalda-la-serie-1972-1080p",
+    "fuente": "Internet Archive",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Los 52 cortos de 1972 (Daniel Mallo/Catú), compilados en 5 episodios de TV, con intertítulos en inglés de exportación (\"Let's meet Susan\", \"Manny and Money\")",
+    "para_que": "fuente de fotogramas de escenas icónicas (globo terráqueo, Papá exasperado, Mafalda enfadada) y de la paleta real medida",
+    "licencia": "sin licencia declarada por quien lo subió; obra con derechos de Quino/herederos, usar sólo como referencia visual"
+  },
+  {
+    "url": "https://archive.org/download/mafalda-la-serie-1972-1080p/01.%20Episodio%201%20%5B1080p%5D.mp4",
+    "fuente": "Internet Archive (archivo directo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 1 de la serie de 1972, minuto 10:00 = abrazo al globo terráqueo; minuto 25:00 = Mafalda enfurruñada junto a la cama; minuto 30:00 = primer plano enfadada; minuto 48:20 = Papá grita con las manos en la cara",
+    "para_que": "fotogramas de escenas icónicas y poses (punto 2 y 14), hex medidos (punto 4)",
+    "licencia": "misma obra que arriba; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/mafalda-la-serie-1972-1080p/04.%20Episodio%204%20%5B1080p%5D.mp4",
+    "fuente": "Internet Archive (archivo directo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 4, minuto 26:40 = Mafalda junto al globo en su soporte; minuto 40:00 = Mafalda pensativa, mano en el mentón; minuto 46:40 = Susanita llorando de perfil",
+    "para_que": "poses de pensar/explicar y cara triste de Susanita (punto 14)",
+    "licencia": "misma obra; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/mafalda-la-serie-1972-1080p/05.%20Episodio%205%20%5B1080p%5D.mp4",
+    "fuente": "Internet Archive (archivo directo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 5, minuto 33:20 = Mafalda señalando/regañando con guardapolvo verde; minuto 40:00 = Susanita tumbada llorando con monedas alrededor; minuto 13:20-26:40 = secuencia de sueño (contar ovejas)",
+    "para_que": "poses de regaño y tristeza (punto 14), escena de fantasía (punto 2)",
+    "licencia": "misma obra; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/mafalda-la-pelicula-1981",
+    "fuente": "Internet Archive",
+    "ancho": 1280,
+    "alto": 982,
+    "que_es": "Película \"Mafalda\" (1981/82, dir. Carlos D. Márquez), compilación de los cortos de 1972 en largometraje; minuto 5:00 = oficina institucional con arco decorado dorado, útil como sitio nuevo",
+    "para_que": "fondo/sitio con paleta medida (punto 4); confirma existencia de un \"tráiler\" que en realidad es la película completa (punto 10)",
+    "licencia": "sin licencia declarada; obra con derechos de Quino/herederos, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/mafalda-the-movie",
+    "fuente": "Internet Archive",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Misma película de 1981/82, rip de un DVD bootleg con subtítulos en inglés",
+    "para_que": "copia alternativa por si falla la de arriba",
+    "licencia": "CC0 declarada por quien subió el rip (dudosa: la obra original tiene derechos de Quino/herederos; el CC0 sólo puede cubrir el acto de subir el archivo)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5mwven",
+    "fuente": "Dailymotion",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "\"El Mundo de Mafalda - La Serie Animada\", corto real de 6 min donde Felipe enseña ajedrez a otro niño y Mafalda observa",
+    "para_que": "único vídeo con Felipe en movimiento encontrado en esta tanda; poses 1 y 2 de Felipe (punto 14)",
+    "licencia": "© derechohabientes de Mafalda; subida de fan, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8x3q88",
+    "fuente": "Dailymotion",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Vídeo titulado \"Mafalda | Tráiler de la película animada de 1982\" pero que dura 4510 s: es la PELÍCULA COMPLETA mal etiquetada, no un tráiler",
+    "para_que": "aviso para no citarlo como tráiler; segunda fuente de que la película circula (punto 10)",
+    "licencia": "© derechohabientes; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x96i0hg",
+    "fuente": "Dailymotion (Página 12)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "\"Quino cuenta cómo nació Mafalda\": entrevista real a Quino, 3:22",
+    "para_que": "sustituto de YouTube para el punto 12 de la biblia (entrevistas al autor)",
+    "licencia": "© Página/12; sólo referencia"
+  },
+  {
+    "url": "https://mafalda.fandom.com/es/wiki/Susanita",
+    "fuente": "Mafalda Wiki (Fandom, API wikitext)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de Susanita: confirma \"niña rubia con cabello esponjado en bucles\", usado para identificar el personaje en la Escena G (episodio 5, minuto 40:00)",
+    "para_que": "segunda fuente para la identidad de Susanita en los fotogramas de 1972",
+    "licencia": "CC BY-SA (Fandom)"
+  }
+]

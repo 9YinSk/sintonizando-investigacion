@@ -1,0 +1,353 @@
+[
+  {
+    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shin%20Seiki%20Evangelion",
+    "fuente": "GitHub (kitsunekko-mirror)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos japoneses de Netflix (Erai-raws, con nombre de quien habla) y del BD de los 26 episodios, con tiempos",
+    "para_que": "Dar el minuto exacto de cada escena y frase (§2, §15)",
+    "licencia": "Subtítulos de fans / plataforma: sólo consulta"
+  },
+  {
+    "url": "https://fontsinuse.com/uses/28760/neon-genesis-evangelion",
+    "fuente": "Fonts In Use",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis tipográfico de la serie: Matisse EB comprimida, Helvetica, Times, Chicago",
+    "para_que": "Tipografía de la cartela y de las pantallas (§6)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "http://route2015.evastore.jp/interview/01/3/",
+    "fuente": "EVA STORE / Fontworks (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista «エヴァンゲリオンが証明した、フォントのチカラ» sobre la letra de Eva",
+    "para_que": "Fuente oficial en japonés de la cartela (§6.1)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/interest/2016-11-07/replicate-evangelion-stark-episode-titles-with-special-font-package/.108496",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio de las letras oficiales EVA-Matisse Classic y Standard (Fontworks, 2016)",
+    "para_que": "Saber que la letra oficial existe y es de pago (§6.1)",
+    "licencia": "Letra comercial; no usar copias"
+  },
+  {
+    "url": "https://github.com/TheGreatGildo/nerv-ui",
+    "fuente": "GitHub (proyecto de fans)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sistema de diseño de las pantallas de NERV: hex, letras, compresión scaleX 0.78-0.85",
+    "para_que": "Paleta naranja/verde/cian/rojo y receta de cartela (§5.2, §6.2)",
+    "licencia": "MIT"
+  },
+  {
+    "url": "https://www.behance.net/gallery/96540159/Neon-Genesis-Evangelion-Screen-Graphics",
+    "fuente": "Behance (Pedro Fleming)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recreación de las pantallas y gráficos de NERV",
+    "para_que": "Referencia de estilo de pantalla y panel de la lámina 2 (§7)",
+    "licencia": "Obra de fan; sólo referencia"
+  },
+  {
+    "url": "https://medium.com/astromono/the-amazing-ui-design-of-evangelion-de1126a7a85d",
+    "fuente": "Medium (Astromono)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis del diseño de interfaz de Evangelion",
+    "para_que": "Cómo cambian los colores en emergencia (§5.2)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://gist.github.com/6b24ac6705298b2dba7a",
+    "fuente": "GitHub Gist",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Emergency hexagons from evangelion»",
+    "para_que": "Hexágonos de alerta para la lámina 2 (§7.1)",
+    "licencia": "Código de fan; ver gist"
+  },
+  {
+    "url": "https://wiki.evageeks.org/SEELE",
+    "fuente": "EvaGeeks (EvaWiki)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "SEELE y sus monolitos «SEELE 01-12 SOUND ONLY»",
+    "para_que": "Concepto B (§19)",
+    "licencia": "Wiki de fans; sólo consulta"
+  },
+  {
+    "url": "https://wiki.evageeks.org/Nerv_Logo",
+    "fuente": "EvaGeeks (EvaWiki)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El logo de NERV: hoja de higuera y frase de Browning",
+    "para_que": "Logo de la carpeta y la tarjeta (concepto A)",
+    "licencia": "Logo de Khara; sólo referencia"
+  },
+  {
+    "url": "https://www.tumblr.com/shin-seiki-evangelion/36482967167/rei-ayanami-nerv-id-card",
+    "fuente": "Tumblr (@shin-seiki-evangelion)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Imagen de la tarjeta de seguridad NERV de Rei (ep. 5)",
+    "para_que": "Diseño de la tarjeta para Blender (concepto A)",
+    "licencia": "Captura de la serie; sólo referencia"
+  },
+  {
+    "url": "https://paypayfleamarket.yahoo.co.jp/item/z62064902",
+    "fuente": "Yahoo! Flea Market (reventa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Las 5 tarjetas NERVパイロットIDカード del «EVANGELION 京都基地» (Tōei Uzumasa Eigamura)",
+    "para_que": "Tarjeta de piloto real (objeto oficial) para modelar",
+    "licencia": "Producto oficial; foto sólo referencia"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/interest/2014-04-19/shinji-tape-player-gets-a-tech-upgrade-with-new-sony-walkman-f",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Walkman F «SDAT» oficial de Sony (2014), grabado como el de Shinji",
+    "para_que": "Objeto real para el concepto C",
+    "licencia": "Producto oficial; foto sólo referencia"
+  },
+  {
+    "url": "https://www.worthpoint.com/worthopedia/retro-sony-wmd-dt1-portable-dat-1844870058",
+    "fuente": "WorthPoint",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sony WMD-DT1, el DAT portátil real del SDAT de Shinji",
+    "para_que": "Modelar el SDAT con medidas reales",
+    "licencia": "Foto de anuncio; sólo referencia"
+  },
+  {
+    "url": "https://www.artstation.com/artwork/gRq1gx",
+    "fuente": "ArtStation (Delphana Arts, Timothy Bryan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Render 3D del SDAT de Shinji",
+    "para_que": "Forma, botones y cable del SDAT (concepto C)",
+    "licencia": "Obra de fan; sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738",
+    "fuente": "Sketchfab (Cookie @cookiepop)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de tablilla con pinza",
+    "para_que": "Base de la ficha en Blender (concepto A)",
+    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82",
+    "fuente": "Sketchfab (Lordricker)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de chelo",
+    "para_que": "El chelo de Shinji (concepto C)",
+    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/sony-walkman-1985-70984e9a3bb4497da196275feb343713",
+    "fuente": "Sketchfab (milkmanfromhell)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Sony Walkman de 1985",
+    "para_que": "Base para modelar el SDAT (concepto C)",
+    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/eva-unit-01-rigged-a9c89d4df6b04818984cffd00cc5f634",
+    "fuente": "Sketchfab (TitanGoji1954)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Unidad 01 con esqueleto",
+    "para_que": "Sólo referencia de pose de la Eva",
+    "licencia": "Download Free; diseño de Khara, no usar en la lámina"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de papel",
+    "para_que": "Papel de la ficha (concepto A)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://30th.evangelion.jp/",
+    "fuente": "Web oficial del 30 aniversario",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticias, logo de Ikuto Yamashita, artículos oficiales y productos",
+    "para_que": "Arte oficial más nuevo (§3.3)",
+    "licencia": "Oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.eva-info.jp/27248",
+    "fuente": "eva-info.jp (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«貞本義行画集 EVANGELION» edición limitada, 10-nov-2026, con 4 ilustraciones nuevas",
+    "para_que": "Ilustraciones de Sadamoto (§3.2)",
+    "licencia": "Oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.evangelion.jp/news/260307-2/",
+    "fuente": "evangelion.jp (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Corto de Asuka del 30 aniversario, gratis en el YouTube de Khara desde el 8-mar-2026",
+    "para_que": "Poses y cara actuales de Asuka (§9.2)",
+    "licencia": "Oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.famitsu.com/news/202005/16198567.html",
+    "fuente": "Famitsu",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resultados del «全エヴァンゲリオン大投票» de NHK (2020): Asuka 1.ª; frase n.º 1 de Rei",
+    "para_que": "Quién es el más querido (§9)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://mantan-web.jp/article/20200517dog00m200000000c.html",
+    "fuente": "MANTANWEB",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo voto de NHK: Asuka 1.ª, frase «私が守るもの» 1.ª",
+    "para_que": "Segunda fuente del voto (§9)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://cinepremiere.com.mx/neon-genesis-evangelion-netflix-doblaje.html",
+    "fuente": "Cine Premiere",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto y estudio del doblaje latino de Netflix (Audiomaster Candiani, América Torres)",
+    "para_que": "Doblaje latino (§10)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de los doblajes latinos: Locomotion 1999, Enrique Cervantes, «amigo/amiga»",
+    "para_que": "Doblaje latino y curiosidades (§10)",
+    "licencia": "Wiki CC BY-SA; sólo consulta (API bloqueada desde aquí)"
+  },
+  {
+    "url": "https://dubdb.fandom.com/wiki/Neon_Genesis_Evangelion_(Latin_American_Spanish,_Netflix)",
+    "fuente": "Dub Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto del doblaje latino de Netflix",
+    "para_que": "Confirmar Marisol Romero y Alberto Bernal (§10)",
+    "licencia": "Wiki; sólo consulta"
+  },
+  {
+    "url": "https://www.anmtvla.com/2021/08/revelado-doblaje-colaborativo-de-la.html",
+    "fuente": "ANMTV",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doblaje colaborativo México-Argentina de las Rebuild en Prime Video",
+    "para_que": "Reparto de las Rebuild (§10)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://soranews24.com/2022/11/21/visiting-evangelions-tokyo-3-anime-locations-in-real-life-hakone%E3%80%90photos%E3%80%91/",
+    "fuente": "SoraNews24",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fotos de Hakone, el Tokio-3 real",
+    "para_que": "Luz y paisaje reales (§5, §17)",
+    "licencia": "Fotos del medio; sólo referencia"
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=691150",
+    "fuente": "Wallpaper Abyss (shirakawa mayo)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo 4K: Shinji, Rei y Asuka (3.0)",
+    "para_que": "Referencia de grupo y color",
+    "licencia": "Fan art; sólo referencia"
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=1399756",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo 4K «Asuka: Neon Skyline»",
+    "para_que": "Asuka con ciudad de noche",
+    "licencia": "Fan art; sólo referencia"
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=949384",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo 4K de Rei Ayanami",
+    "para_que": "Referencia de Rei",
+    "licencia": "Sin autor claro; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3bdjDmYc8J4",
+    "fuente": "YouTube (Netflix)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial de Netflix (2019)",
+    "para_que": "Planos oficiales en movimiento",
+    "licencia": "Oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=n6MXBsCvlHw",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Neon Genesis Evangelion (Netflix) / Doblaje Español Latino»",
+    "para_que": "Oír las voces latinas de Netflix antes de rotular una frase",
+    "licencia": "Subida de terceros; sólo consulta"
+  },
+  {
+    "url": "https://knowyourmeme.com/memes/subcultures/neon-genesis-evangelion",
+    "fuente": "Know Your Meme",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Memes de Evangelion (Congratulations, Gendowned, etc.)",
+    "para_que": "Lo que ama el fandom (§14)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://roadtovr.com/evangelion-cross-reflections-quest-3-release-2026/",
+    "fuente": "Road to VR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "EVANGELION: Δ CROSS REFLECTIONS: el jugador es un aprendiz de NERV",
+    "para_que": "Videojuegos de la franquicia (§13)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://uakira.hateblo.jp/entry/20100726",
+    "fuente": "Blog uakira (japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«市川崑のタイポグラフィ» y la «Eva mincho»: Matisse EB, Matisse UB, homenaje a Kon Ichikawa",
+    "para_que": "Origen de la cartela (§6.1)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://x.com/backgroundsbot/status/960223392547864576?lang=en",
+    "fuente": "X (Anime Background Art)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fondos de Evangelion (dirección de arte de Hiroshi Katō)",
+    "para_que": "Estilo de fondo para Blender o IA (§18)",
+    "licencia": "Capturas de la serie; sólo referencia"
+  }
+]

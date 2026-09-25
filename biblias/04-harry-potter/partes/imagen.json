@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://freesvg.org/img/deathlyhallows.png",
+    "fuente": "freesvg.org (espejo de Openclipart), tamaño medido con Pillow",
+    "ancho": 600,
+    "alto": 600,
+    "que_es": "Símbolo de las Reliquias de la Muerte (triángulo, círculo, línea), PNG transparente.",
+    "para_que": "Punto 19 (emblemas): el único símbolo del fandom con licencia realmente libre (CC0/dominio público); base para recortarlo sobre cualquier textura sin pedir permiso.",
+    "licencia": "CC0 (dominio público), lo declara la ficha de freesvg.org/Openclipart."
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/poly_wool_herringbone/poly_wool_herringbone_diff_8k.jpg",
+    "fuente": "Poly Haven, tamaño máximo confirmado por api.polyhaven.com/info/poly_wool_herringbone (medí yo el jpg de 1k, 1024×1045, para comprobar que el archivo existe)",
+    "ancho": 8216,
+    "alto": 8387,
+    "que_es": "Textura de lana-poliéster en espiga (herringbone) gris, tejido rugoso, 8K.",
+    "para_que": "Punto 19 (patrones de ropa): equivalente libre para la túnica escolar de tweed/espiga si un concepto la muestra en primer plano.",
+    "licencia": "CC0 (licencia estándar de Poly Haven, ya usada en el punto 4 de la biblia)."
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/knitted_fleece/knitted_fleece_diff_8k.jpg",
+    "fuente": "Poly Haven, tamaño máximo confirmado por api.polyhaven.com/info/knitted_fleece (medí yo el jpg de 1k, 1024×1040)",
+    "ancho": 8103,
+    "alto": 8226,
+    "que_es": "Textura de punto grueso (jersey tejido), marrón cálido, 8K.",
+    "para_que": "Punto 19 (patrones de ropa): equivalente libre para el jersey Weasley (lana gruesa, hecho a mano).",
+    "licencia": "CC0 (Poly Haven)."
+  },
+  {
+    "url": "https://opengameart.org/sites/default/files/t1.png",
+    "fuente": "OpenGameArt, «25 tartan patterns» de Luke.RUSTLTD, tamaño medido con Pillow",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Uno de 25 patrones tipo tartán generados al azar, tileable, PNG.",
+    "para_que": "Punto 19 (patrones de ropa): base para pintar la corbata o bufanda de una casa sobre los hex ya medidos en el punto 15 (no es un tartán oficial de la saga).",
+    "licencia": "CC0 (declarado en la ficha del recurso)."
+  },
+  {
+    "url": "https://contentful.harrypotter.com/usf1vwtuqyxm/14nqTmiBmd1A1bgEGbBcdV/8fefcece9b4bf11c87e599b559f0e2f4/Vans_x_HP.jpg",
+    "fuente": "harrypotter.com (Wizarding World, oficial), tamaño medido con Pillow",
+    "ancho": 920,
+    "alto": 650,
+    "que_es": "Foto promocional de la colaboración Vans×Harry Potter (2019): los 4 modelos de zapatilla por casa (Sk8-Hi Gryffindor, Era Slytherin serpiente, Authentic Ravenclaw tablero, Slip-On Hufflepuff).",
+    "para_que": "Punto 23 (colaboraciones con marcas) y punto 19 (patrones): fija de forma oficial qué patrón de tela va con cada casa (serpiente, tablero de ajedrez, rayas).",
+    "licencia": "© Warner Bros. Consumer Products / Vans. Sólo referencia, no pegar."
+  }
+]

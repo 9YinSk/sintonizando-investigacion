@@ -1,0 +1,299 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/riotxarcane_onlinegamemap.jpg",
+    "fuente": "Riot Games (RiotX Arcane) vía GitHub InFinity54/LoL_DDragon",
+    "ancho": 3000,
+    "alto": 2280,
+    "que_es": "Mapa-plano oficial de Piltóver: papel sepia #B39A84, lápiz #5B4D42, círculos de runas Hextech, notas en escritura inventada.",
+    "para_que": "Modelo exacto de los «planos Hextech» del concepto A (#proyectos): papel, trazo, runas y cajetín.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_24.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Jayce Inventor»: Jayce en un atril de latón con bocinas, puño en alto con una gema azul, martillo en vitrina.",
+    "para_que": "Pose de PRESENTAR de Jayce (concepto A) y luz del laboratorio de Piltóver.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_35.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Jayce Sobreviviente»: Jayce barbudo abrazado al martillo, mano en la cabeza.",
+    "para_que": "Pose de PENSAR o de «En pausa».",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Viktor_24.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Viktor Redentor» (T2): pelo blanco, túnica lila, bastón, mano abierta tendida.",
+    "para_que": "Pose de INVITAR; paleta lila #CC84FC de Viktor T2.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_60.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Jinx Quebrantada»: Jinx con capucha y Pow-Pow; a la izquierda un vitral de ella pintado con garabatos neón.",
+    "para_que": "Estilo del grafiti de Jinx (rosa #FC6CFC, cian #6CCCFC) y pose de REGAÑAR. Concepto B.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_37.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Jinx Enemiga»: Jinx en una calle de Zaun con farolas y niebla.",
+    "para_que": "Luz y ambiente de Zaun; pose de PRESENTAR con misterio.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_28.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Caitlyn Vigilante»: Caitlyn con el rifle entre cristales pintados por Jinx; el mono de juguete en primer plano.",
+    "para_que": "Grafiti de Jinx sobre cristal, primer plano desenfocado, niebla verde de Zaun.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_50.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Caitlyn Comandante» (T2): boina blanca, uniforme azul, rifle.",
+    "para_que": "Vestuario T2 de Caitlyn; azul #3C6CB4.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Vi_29.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Vi Suburbana»: chaqueta roja, guantelete Hextech enorme.",
+    "para_que": "Vestuario T1 de Vi; pose de REGAÑAR.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Ekko_36.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Ekko Firelight»: Ekko saltando con el bate.",
+    "para_que": "Pose de acción y ANIMAR de Ekko (concepto C).",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Heimerdinger_33.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Profesor Heimerdinger»: toca el banjo entre niños y pompas.",
+    "para_que": "Pose de CELEBRAR («Estrenado»).",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Mel_1.jpg",
+    "fuente": "Riot Games (Data Dragon) vía GitHub",
+    "ancho": 1215,
+    "alto": 717,
+    "que_es": "Splash «Arcane: Concejal Mel»: sala del Consejo con contraluz dorado de ventanal.",
+    "para_que": "Luz y arquitectura de Piltóver.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/avatars/jinx.jpg",
+    "fuente": "Riot Games (RiotX Arcane) vía GitHub",
+    "ancho": 736,
+    "alto": 736,
+    "que_es": "Retrato oficial de Jinx en estilo Arcane (hay 11: ambessa, caitlyn, ekko, heimerdinger, jayce, jinx, mel, sevika, vi, viktor, warwick).",
+    "para_que": "Caras, pelo y ropa en estilo de la serie para todos los personajes.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/wallpapers/riotxarcane_jinx.png",
+    "fuente": "Riot Games (RiotX Arcane) vía GitHub",
+    "ancho": 1440,
+    "alto": 2960,
+    "que_es": "Fondo de móvil oficial de Jinx (hay también vi, jayce y caitlyn), en estilo del JUEGO.",
+    "para_que": "Sólo pose en movimiento. La ropa es la del juego: no copiarla.",
+    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://github.com/InFinity54/LoL_DDragon",
+    "fuente": "GitHub",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Espejo de Data Dragon: splash arts, avatares, fondos y datos es_MX (títulos y habilidades en latino).",
+    "para_que": "De aquí sale todo el arte oficial de la biblia; bajar por raw.githubusercontent.com.",
+    "licencia": "Archivos de Riot Games subidos por terceros. Sólo consulta."
+  },
+  {
+    "url": "https://www.netflix.com/tudum/galleries/arcane-season-2-character-posters",
+    "fuente": "Netflix Tudum",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carteles oficiales de personaje de la temporada 2.",
+    "para_que": "Poses de la T2 (Vi y Jinx enfrentadas, Ekko).",
+    "licencia": "© Riot Games / Netflix. Sólo referencia."
+  },
+  {
+    "url": "https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes",
+    "fuente": "Netflix Tudum",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía oficial del making of de la T2 (paletas de cada magia, diseño de Ekko).",
+    "para_que": "Reglas de color y vestuario.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://80.lv/articles/riot-games-on-designing-arcane-s-piltover-zaun",
+    "fuente": "80.lv",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Arnaud-Loris Baudry sobre el diseño de Piltóver y Zaun.",
+    "para_que": "Art Déco frente a Art Nouveau; luz y materiales.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://blog.syncsketch.com/creator-stories/arcane-fortiche/",
+    "fuente": "SyncSketch (entrevista a Alexis Wanneroy, Fortiche)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cómo se animan los efectos 2D y los garabatos de Jinx (12 fps sobre 24).",
+    "para_que": "El «pensamiento» de Jinx como garabato encima de la imagen.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://www.artstation.com/artwork/3qagn2",
+    "fuente": "ArtStation (Alexia Ferry)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Arcane – Hextech Lab»: el laboratorio en 3D sobre conceptos de Arnaud-Loris Baudry.",
+    "para_que": "El sitio del concepto A.",
+    "licencia": "© la autora / Fortiche / Riot. Sólo mirar."
+  },
+  {
+    "url": "https://www.artstation.com/juliengeorgel",
+    "fuente": "ArtStation (Julien Georgel, director de arte)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Conceptos y fondos pintados de Arcane.",
+    "para_que": "Luz y paleta de los fondos.",
+    "licencia": "© el autor / Fortiche / Riot. Sólo mirar."
+  },
+  {
+    "url": "https://www.tumblr.com/art-of-arcane/770045202608111616/mariana-galiano",
+    "fuente": "Tumblr art-of-arcane",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Blog que recopila arte conceptual de Arcane con su autor (aquí, Mariana Galiano).",
+    "para_que": "Buscar más conceptos oficiales con crédito.",
+    "licencia": "Sólo mirar."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a",
+    "fuente": "Sketchfab (Frayseur)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del martillo Hextech de Jayce.",
+    "para_que": "Martillo apoyado en la mesa del concepto A.",
+    "licencia": "Descarga libre según el buscador; comprobar la licencia exacta en la página. Crédito: Frayseur."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0",
+    "fuente": "Sketchfab (Frayseur)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del guantelete Hextech (los «Atlas» de 1×04).",
+    "para_que": "Pieza sobre la mesa del laboratorio.",
+    "licencia": "CC BY según el buscador; comprobar. Crédito: Frayseur."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7",
+    "fuente": "Sketchfab (Allan-Jay Branscombe)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de la granada de Jinx.",
+    "para_que": "Objeto en primer plano del concepto B.",
+    "licencia": "CC BY según el buscador; comprobar. Crédito: Allan-Jay Branscombe."
+  },
+  {
+    "url": "https://polyhaven.com/a/painted_brick",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de ladrillo con pintura azul desconchada (hasta 16K).",
+    "para_que": "La pared de Zaun del concepto B.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/spray_paint_bottles",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de botes de espray gastados, con goterones.",
+    "para_que": "Suelo y primer plano del concepto B.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://www.leagueoflegends.com/es-mx/news/community/murales-arcane/",
+    "fuente": "League of Legends LATAM",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Murales de Arcane pintados en 2021 en Ciudad de México, Bogotá, Lima, Santiago y Buenos Aires.",
+    "para_que": "Grafiti de Arcane hecho por artistas latinos; argumento para #arte.",
+    "licencia": "Sólo consulta."
+  },
+  {
+    "url": "https://www.deviantart.com/meynirr/art/Jinx-Arcane-Neon-Graffiti-Digital-Art-1076440241",
+    "fuente": "DeviantArt (meynirr)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art: Jinx en grafiti neón.",
+    "para_que": "Cómo resuelven otros el grafiti de Jinx.",
+    "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
+  },
+  {
+    "url": "https://www.deviantart.com/yazooor/art/Arcane-Jinx-Graffiti-Neon-Street-Art-1320844834",
+    "fuente": "DeviantArt (Yazooor)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art: Jinx en grafiti callejero neón.",
+    "para_que": "Referencia de composición en pared.",
+    "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=F5tSoaJ93ac",
+    "fuente": "YouTube (vídeo oficial de «Enemy»)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Vídeo oficial de Imagine Dragons y JID animado por Fortiche.",
+    "para_que": "Estilo, luz de Zaun y poses en movimiento.",
+    "licencia": "© Riot Games / Imagine Dragons. Sólo ver."
+  },
+  {
+    "url": "https://github.com/google/fonts",
+    "fuente": "GitHub (Google Fonts)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letras libres comprobadas con tildes: Sedgwick Ave Display, Permanent Marker, Architects Daughter, Caveat, Cinzel, Federo, Special Elite.",
+    "para_que": "Grafiti de Jinx, notas de los planos y títulos de Piltóver.",
+    "licencia": "OFL / Apache 2.0"
+  },
+  {
+    "url": "https://x.com/arcaneshow/status/1585300226247647232",
+    "fuente": "X (@arcaneshow, oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«The colors of Piltover vs Zaun»: paletas oficiales de las dos ciudades.",
+    "para_que": "Comprobar los hex de §5.2 (no pude abrir la imagen).",
+    "licencia": "© Riot Games. Sólo referencia."
+  }
+]

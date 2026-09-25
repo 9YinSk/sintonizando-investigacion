@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Meguru Bachira (ojos amarillos redondos, sonrisa con colmillos)",
+    "para_que": "expresión base de Bachira en calma; comparar con su 'modo monstruo' en vídeo",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Seishirou Nagi (pelo blanco, ojos verdes, expresión seria/aburrida)",
+    "para_que": "expresión base de Nagi (punto 13)",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-oYTkJnimI3Eu.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Rin Itoshi (pelo oscuro azulado, ojos verde-azulados, mirada fría)",
+    "para_que": "expresión base de Rin (punto 13)",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x95w20s?t=12",
+    "fuente": "Dailymotion (tráiler oficial 2ª temporada, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 0:12 — Isagi Yoichi, primer plano, ojos muy abiertos, mirada intensa de concentración",
+    "para_que": "punto 13, cara de Isagi 'despertando'/concentrado, con minuto",
+    "licencia": "© titulares (Eight Bit / Crunchyroll); sólo referencia, captura propia con fotogramas.py"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x95w20s?t=47",
+    "fuente": "Dailymotion (tráiler oficial 2ª temporada, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 0:47 — Bachira Meguru en 'modo monstruo', sonrisa afilada con colmillos y ojos amarillos muy abiertos",
+    "para_que": "punto 13, cara de Bachira excitado/feroz en cancha, con minuto; confirmado comparando con su retrato oficial (mismos ojos y sonrisa)",
+    "licencia": "© titulares; sólo referencia, captura propia con fotogramas.py"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x95w20s?t=54",
+    "fuente": "Dailymotion (tráiler oficial 2ª temporada, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 0:54 — jugador de pelo oscuro y ojos azules, boca abierta, expresión de shock/sorpresa corriendo (posible Isagi, sin confirmar del todo)",
+    "para_que": "candidato a cara de sorpresa/miedo, punto 13 — marcar ⚠️ hasta que vídeo lo confirme con capítulo",
+    "licencia": "© titulares; sólo referencia, captura propia con fotogramas.py"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x95w20s?t=44",
+    "fuente": "Dailymotion (tráiler oficial 2ª temporada, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 0:44 — jugador con banda/diadema en la cabeza, ojos violeta, puños cerrados, gesto de ánimo (posible Kunigami, sin confirmar del todo)",
+    "para_que": "candidato a pose de 'animar al equipo', punto 14/13 — marcar ⚠️",
+    "licencia": "© titulares; sólo referencia, captura propia con fotogramas.py"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x95w20s?t=81",
+    "fuente": "Dailymotion (tráiler oficial 2ª temporada, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 1:21 — jugador de pelo oscuro puntiagudo, ojos verde-azulados, media sonrisa de superioridad, camiseta granate (posible Rin, sin confirmar)",
+    "para_que": "candidato a expresión de confianza/desafío, punto 13 — marcar ⚠️, identidad no confirmada",
+    "licencia": "© titulares; sólo referencia, captura propia con fotogramas.py"
+  },
+  {
+    "url": "https://archive.org/details/blue-lock-2-14-vostfr",
+    "fuente": "Internet Archive (episodio completo 2x14, VOSTFR, audio japonés) — vídeo ya bajado por el investigador de vídeo",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma minuto 8:36 — Rin Itoshi gritando de rabia contra Sae, ojos con iris giratorio verde-turquesa muy abiertos, boca abierta, líneas de tensión en la cara",
+    "para_que": "punto 13, cara de Rin en RABIA, confirmada con capítulo y minuto reales (no tráiler)",
+    "licencia": "© titulares (Eight Bit / Crunchyroll); sólo referencia, captura propia con fotogramas.py sobre el vídeo ya descargado por el investigador de vídeo"
+  },
+  {
+    "url": "https://archive.org/details/blue-lock-2-14-vostfr",
+    "fuente": "Internet Archive (episodio completo 2x14, VOSTFR, audio japonés) — vídeo ya bajado por el investigador de vídeo",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma minuto 10:46 — mismo grito de rabia de Rin Itoshi, plano más cerrado, subtítulo en pantalla dice su nombre ('Rin Itoshi!'), confirma la identidad del personaje",
+    "para_que": "punto 13, 2º fotograma de Rin en rabia, mismo capítulo, confirma identidad",
+    "licencia": "© titulares; sólo referencia, captura propia con fotogramas.py"
+  }
+]

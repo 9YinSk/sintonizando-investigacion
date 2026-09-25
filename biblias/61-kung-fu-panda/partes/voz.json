@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/4/4a/Po_kungfupanda3.ogg/revision/latest?cb=20170102050455&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Po_kungfupanda3.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Po (Omar Chaparro) en Kung Fu Panda 3: '¡La justicia está a punto de ser servida!' y la despedida a su padre.",
+    "para_que": "Fuente textual y de tono de voz para los puntos 8 y 13 (transcrita y medida con voz.py: 166 Hz, 22.9 semitonos, 3.22 palabras/s, 'muy expresiva').",
+    "licencia": "Copyright DreamWorks/Universal, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Shifu_kungfupanda3.ogg/revision/latest?cb=20170102202548&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Shifu_kungfupanda3.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Shifu (Octavio Rojas) en Kung Fu Panda 3, sobre la 'entrada dramática' y la batalla de mente antes que de puños.",
+    "para_que": "Fuente textual y de tono de voz para los puntos 8 y 13 (123 Hz, 20.8 semitonos, 3.25 palabras/s).",
+    "licencia": "Copyright DreamWorks/Universal, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/d/d7/Tigress_kungfupanda3.ogg/revision/latest?cb=20170102202629&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Tigress_kungfupanda3.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Tigresa (Erica Edwards) en Kung Fu Panda 3, avisando del ataque de Kai al Valle.",
+    "para_que": "Fuente textual y de tono de voz para los puntos 8 y 13 (180 Hz, 18.9 semitonos, 3.75 palabras/s, la más rápida de las 5 medidas).",
+    "licencia": "Copyright DreamWorks/Universal, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/7/78/Oogway_kungfupanda3.ogg/revision/latest?cb=20170103041915&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Oogway_kungfupanda3.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Oogway (Pedro D'Aguillón) en Kung Fu Panda 3: 'Paz interior... por fin te convertiste en el panda que estabas destinado a ser'.",
+    "para_que": "Fuente textual y de tono de voz para los puntos 8 y 13 (112 Hz, 14.9 semitonos, 1.21 palabras/s, la más lenta y grave de las 5 medidas).",
+    "licencia": "Copyright DreamWorks/Universal, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/2/2e/Kai_kungfupanda3.ogg/revision/latest?cb=20170103003021&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Kai_kungfupanda3.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Kai (Humberto Solórzano) en Kung Fu Panda 3, amenazando a Oogway tras 500 años en el Reino de los Espíritus.",
+    "para_que": "Fuente textual y de tono de voz para los puntos 8 y 13 (94 Hz, 27.6 semitonos, el rango más amplio de las 5 medidas).",
+    "licencia": "Copyright DreamWorks/Universal, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88nbws?start=40",
+    "fuente": "Dailymotion — canal Sensacine, tráiler oficial de Kung Fu Panda (2008)",
+    "ancho": 634,
+    "alto": 272,
+    "que_es": "Fotograma [0:40] del tráiler oficial: primer plano de Shifu con gesto de fastidio/enfado contenido (orejas caídas, boca torcida).",
+    "para_que": "Referencia de cara/emoción para el punto 13 (Shifu), medida y mirada con fotogramas.py --cortes.",
+    "licencia": "Copyright DreamWorks/Paramount; tráiler oficial redistribuido por Sensacine en Dailymotion con fines promocionales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88oh56?start=38",
+    "fuente": "Dailymotion — canal Sensacine, tráiler oficial de Kung Fu Panda 3 (2016)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Fotograma [0:38] del tráiler oficial: Po riendo a carcajadas en la fiesta de la aldea panda (alegría).",
+    "para_que": "Referencia de cara/emoción para el punto 13 (Po), medida y mirada con fotogramas.py --cortes.",
+    "licencia": "Copyright DreamWorks/20th Century Fox; tráiler oficial redistribuido por Sensacine en Dailymotion con fines promocionales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88oh56?start=28",
+    "fuente": "Dailymotion — canal Sensacine, tráiler oficial de Kung Fu Panda 3 (2016)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Fotograma [0:28] del tráiler oficial: Po corriendo hacia cámara a contraluz dorado, ojos entornados y brazos abiertos (determinación/fiereza).",
+    "para_que": "Referencia de cara/emoción para el punto 13 (Po), medida y mirada con fotogramas.py --cortes.",
+    "licencia": "Copyright DreamWorks/20th Century Fox; tráiler oficial redistribuido por Sensacine en Dailymotion con fines promocionales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88oh56?start=67",
+    "fuente": "Dailymotion — canal Sensacine, tráiler oficial de Kung Fu Panda 3 (2016)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Fotograma [1:07] del tráiler oficial: silueta de Kai contra un cielo verde de aurora, ojos turquesa brillantes, cuernos y colmillos de jade (amenaza).",
+    "para_que": "Referencia de cara/emoción para el punto 13 (General Kai, villano), medida y mirada con fotogramas.py --cortes.",
+    "licencia": "Copyright DreamWorks/20th Century Fox; tráiler oficial redistribuido por Sensacine en Dailymotion con fines promocionales."
+  },
+  {
+    "url": "https://archive.org/details/secrets-of-the-furious-five?t=1000",
+    "fuente": "Internet Archive — 'Kung Fu Panda: Secrets of the Furious Five' (corto oficial de TV, DreamWorks)",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fotograma [16:40]: la cachorra Tigresa (ojos muy abiertos, nervio y esperanza) recién acogida por un joven Shifu (mirada entornada, sonrisa leve y cansada) a la puerta del Palacio de Jade.",
+    "para_que": "Referencia de cara/emoción para el punto 13 (Tigresa y Shifu), medida y mirada con fotogramas.py --fotograma; también ilustra el origen de Tigresa en el orfanato citado en el punto 13.",
+    "licencia": "Copyright DreamWorks Animation; corto de TV oficial, copia subida a Internet Archive (24 452 descargas al 25-sep-2026), citado con fines identificativos/de estudio, no de redistribución."
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=tigress_%28kung_fu_panda%29",
+    "fuente": "Danbooru — búsqueda por tag tigress_(kung_fu_panda)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Listado de 80 dibujos de fans etiquetados como Tigresa en Danbooru (medido en vivo el 25-sep-2026 vía counts/posts.json), frente a 35 de Po, 37 de Tai Lung, 15 de Shifu y 7 de Oogway.",
+    "para_que": "Dato de popularidad de fandom para el punto 7: corrige el listado genérico y contaminado que trajo datos-voz.md, y sustenta que Tigresa es el personaje con más arte de fans medido.",
+    "licencia": "Índice público de Danbooru; los dibujos individuales tienen licencias propias de cada autor, no se referencia ninguno en concreto aquí."
+  }
+]

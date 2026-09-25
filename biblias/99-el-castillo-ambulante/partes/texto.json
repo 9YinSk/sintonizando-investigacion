@@ -1,0 +1,155 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/21/Hauro_plakat.jpg",
+  "fuente": "Fandom ghibli (Ingary)",
+  "ancho": 179,
+  "alto": 340,
+  "que_es": "Cartel de propaganda en alemán «Mut und Willenskraft» visible en el fondo de una escena",
+  "para_que": "texto real en pantalla; punto 5/6, cartel del mundo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Protests.png",
+  "fuente": "Fandom ghibli (Ingary)",
+  "ancho": 1336,
+  "alto": 706,
+  "que_es": "Protesta en Kingsbury con soldados disparando a manifestantes",
+  "para_que": "punto 25, símbolo de guerra/mundo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/eb/Returnee.jpg",
+  "fuente": "Fandom ghibli (Battleship)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Acorazado de Ingary regresando muy dañado de la guerra",
+  "para_que": "punto 18/25, máquinas de guerra, diseño pre-dreadnought francés",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/7/74/Ingary_Land.jpg",
+  "fuente": "Fandom ghibli (Ingary)",
+  "ancho": 1200,
+  "alto": 708,
+  "que_es": "Vista del país de Ingary",
+  "para_que": "punto 25, paisaje y mundo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/99/Robida_Howl.jpg",
+  "fuente": "Fandom ghibli (página de la película)",
+  "ancho": 512,
+  "alto": 718,
+  "que_es": "Obra del ilustrador francés Albert Robida, influencia declarada de Miyazaki para el castillo",
+  "para_que": "punto 18, técnica e influencias reconocidas por el autor",
+  "licencia": "© titulares del archivo Robida; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/90/Howl_Colmar.jpg",
+  "fuente": "Fandom ghibli (página de la película)",
+  "ancho": 656,
+  "alto": 440,
+  "que_es": "Miyazaki y el equipo (incl. Steve Alpert) en el viaje de investigación a Colmar, Alsacia",
+  "para_que": "punto 18, referencia real de campo para fondos",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/25/Castle_Movie.jpg",
+  "fuente": "Fandom ghibli (página de la película)",
+  "ancho": 500,
+  "alto": 422,
+  "que_es": "El castillo desglosado en piezas para animarlo (proceso Photoshop + Softimage)",
+  "para_que": "punto 18, proceso técnico de animación del castillo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg",
+  "fuente": "Fandom ghibli (Howl's Castle)",
+  "ancho": 640,
+  "alto": 346,
+  "que_es": "El castillo ambulante completo, exterior",
+  "para_que": "punto 25, el objeto-máquina central; referencia de silueta para Blender",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/f/f1/Markl_Mess.jpg",
+  "fuente": "Fandom ghibli (página de la película)",
+  "ancho": 650,
+  "alto": 349,
+  "que_es": "Comida dibujada con detalle, ejemplo del cuidado de fondo/props de Ghibli",
+  "para_que": "punto 18, nivel de detalle en objetos cotidianos",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a5fcd7379db240bea690e4fca032e322",
+  "fuente": "Sketchfab (autor: lsebko)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del castillo ambulante, fan, con licencia libre",
+  "para_que": "punto 18, geometría base para Blender (no oficial)",
+  "licencia": "CC Attribution — crédito obligatorio a lsebko"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2d651cf9dc2b4ef59ec7723a08a727bf",
+  "fuente": "Sketchfab (autor: ncd.blueberry)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Calcifer, fan, con licencia libre",
+  "para_que": "punto 18, referencia de topología/rig para Blender (no oficial)",
+  "licencia": "CC Attribution — crédito obligatorio a ncd.blueberry"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8cbdfa9c498a4d1a9e8c4995aec67d3a",
+  "fuente": "Sketchfab (autor: MagesOfMadness)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del anillo mágico de Howl, fan, con licencia libre",
+  "para_que": "punto 18/25, objeto simbólico en 3D para Blender (no oficial)",
+  "licencia": "CC Attribution — crédito obligatorio a MagesOfMadness"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Metal053C",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Material PBR de metal oxidado/remachado (CC0)",
+  "para_que": "punto 18, textura equivalente para el metal de chatarra del castillo",
+  "licencia": "CC0, uso libre sin atribución"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/UnifrakturMaguntia",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra gótica alemana OFL, con tildes/ñ/¿/¡ comprobadas con fontTools",
+  "para_que": "punto 5, cartel del mundo tipo «Mut und Willenskraft»",
+  "licencia": "OFL, gratis para cualquier uso"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/IM+Fell+English",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Serif de imprenta antigua OFL, con tildes/ñ/¿/¡ comprobadas con fontTools",
+  "para_que": "punto 5, periódicos/letreros de Market Chipping o Porthaven",
+  "licencia": "OFL, gratis para cualquier uso"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Cormorant+Garamond",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Serif francesa elegante OFL, con tildes/ñ/¿/¡ comprobadas con fontTools",
+  "para_que": "punto 5, título o subtítulos con espíritu de Colmar/Alsacia",
+  "licencia": "OFL, gratis para cualquier uso"
+ },
+ {
+  "url": "https://www.viz.com/read/film-comic/howl-s-moving-castle-film-comics/all",
+  "fuente": "VIZ Media",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Film Comic oficial (4 tomos): fotogramas reales con globos de diálogo añadidos",
+  "para_que": "punto 6, único «cuadro de diálogo» oficial tipo manga de esta película",
+  "licencia": "© VIZ Media / Studio Ghibli; sólo referencia"
+ }
+]

@@ -1,0 +1,1739 @@
+[
+  {
+    "url": "https://archive.org/details/lilo-stitch-3?t=80",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 1:20)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Fotograma: foto de familia de los créditos con Stitch sentado fuera del marco blanco",
+    "para_que": "Referencia directa del concepto de lámina «álbum con Stitch colado» (punto 2, lo mejor para la lámina #1-2)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/1b/Lilo_%26_Stitch_promo_art_2.jpg",
+    "fuente": "Disney Wiki (Fandom) · arte oficial",
+    "ancho": 3523,
+    "alto": 5000,
+    "que_es": "Key visual oficial: Lilo y Stitch de espaldas en la playa al atardecer, ella con traje de hula.",
+    "para_que": "Punto 1 (arte variado, pose viva) y punto 15 (hex medidos de Stitch y Lilo). Concepto de lámina 2.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=1330",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Lilo abrazada a su peluche verde, sentada en la cama, mirando la pared de fotos de turistas",
+    "para_que": "Cara de Lilo en tristeza (punto 13); referencia directa del objeto álbum/pared de fotos para el canal #fotos",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/photo-album-b891198a35a64b2c9c3c1a26338b1a48",
+    "fuente": "Sketchfab · mnaglak (licencia verificada por API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de un álbum de fotos.",
+    "para_que": "Punto 3: el objeto central del concepto de lámina.",
+    "licencia": "CC Attribution 4.0 (confirmada por la API de Sketchfab el 24-sep-2026)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913",
+    "fuente": "Sketchfab · rickmaolly (licencia verificada por API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de un tablero de corcho con chinchetas.",
+    "para_que": "Punto 3: tablero para las fotos, como el cuarto de Lilo.",
+    "licencia": "CC Attribution (confirmada por la API de Sketchfab el 24-sep-2026)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/canon-ae-1-program-35mm-film-camera-03b0ac7d99c44197a09640179f360f3c",
+    "fuente": "Sketchfab · Marc Sawyer / whitewashstudio (licencia verificada por API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D fotogrametría de una cámara de carrete Canon AE-1.",
+    "para_que": "Punto 3: referencia de cámara de carrete (quitar la marca antes de usar).",
+    "licencia": "CC Attribution 4.0 (confirmada por la API de Sketchfab el 24-sep-2026)"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer?t=108",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 1:48)",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Fotograma: cápsula de Stitch con una fotito de Lilo pegada dentro",
+    "para_que": "Objeto real pequeño para un concepto de lámina en Blender (punto 2, lo mejor para la lámina #1)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  },
+  {
+    "url": "https://ducktalks.com/wp-content/uploads/2024/01/0007-1.jpg",
+    "fuente": "DuckTalks (preview oficial de Dynamite Entertainment)",
+    "ancho": 1988,
+    "alto": 3057,
+    "que_es": "Página de cómic Disney's Lilo & Stitch #1 (2024, Dynamite), con bocadillos de diálogo reales",
+    "para_que": "Referencia de forma de bocadillo y letra de cómic (puntos 5 y 6)",
+    "licencia": "© Disney/Dynamite Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://ducktalks.com/wp-content/uploads/2024/01/0008-1.jpg",
+    "fuente": "DuckTalks (preview oficial de Dynamite Entertainment)",
+    "ancho": 1988,
+    "alto": 3057,
+    "que_es": "Página de cómic con la frase 'Ohana means family' y las palabras Kuleana / Mālama 'āina lettered en el globo",
+    "para_que": "Frase icónica confirmada por segunda fuente + vocabulario del mundo (puntos 6 y 25)",
+    "licencia": "© Disney/Dynamite Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7b/Pleakley_concept_art.jpg",
+    "fuente": "Disney Wiki (Fandom) · hoja de modelo",
+    "ancho": 2048,
+    "alto": 1319,
+    "que_es": "Hoja de modelo de Pleakley firmada por Chris Sanders, vistas y expresiones.",
+    "para_que": "Punto 1: proporciones y giro del personaje.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/93/LiloHulaAD.jpg",
+    "fuente": "Disney Wiki (Fandom) · arte de desarrollo",
+    "ancho": 1600,
+    "alto": 1068,
+    "que_es": "Bocetos de varias poses de Lilo bailando hula, en una sola hoja.",
+    "para_que": "Punto 1 (poses vivas) y punto 14 (poses por personaje, para el rol de vídeo).",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/09/LiloStudyAD.jpg",
+    "fuente": "Disney Wiki (Fandom) · arte de desarrollo",
+    "ancho": 1600,
+    "alto": 1058,
+    "que_es": "Estudio de poses y expresiones de Lilo.",
+    "para_que": "Punto 1: variedad de poses.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=875",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Lilo enseña a Scrump con sonrisa torcida, un ojo entornado, camino a la escuela",
+    "para_que": "Cara de Lilo en vergüenza (punto 13); pose de presentar un objeto propio",
+    "licencia": "Copyright Disney; captura propia con fotogramas.py sobre copia subida a Internet Archive, uso de investigación no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_-_Lilo_holding_Scrump.png/revision/latest?cb=20230820215155",
+    "fuente": "Fandom disney (API imageinfo)",
+    "ancho": 1806,
+    "alto": 1080,
+    "que_es": "Lilo abrazando a Scrump, la muñeca de trapo que se hizo ella misma",
+    "para_que": "Símbolo del mundo (punto 25): objeto casero hecho a mano, inspirado en muñeco vudú y Frankenstein",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=3327",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Stitch sentado de noche, leyendo El Patito Feo, orejas caídas, mano en la barbilla",
+    "para_que": "Cara de Stitch en tristeza (punto 13); la escena que el fandom más cita como la que hace llorar (punto 21)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=3331",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: página del libro El Patito Feo con el globo de texto 'I'm Lost!'",
+    "para_que": "Referencia de cuadro de diálogo/globo de cómic dentro de la propia película (cruce con punto 6, del investigador de texto)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/a/a0/Lilo_%26_Stitch_-_Nani%2C_Lilo%2C_and_Stitch_enjoying_a_big_wave.jpg",
+    "fuente": "Disney Wiki (Fandom) · fotograma de animación",
+    "ancho": 3000,
+    "alto": 1782,
+    "que_es": "Fotograma limpio (sin luz de escenario) de Nani y Lilo surfeando en traje de baño.",
+    "para_que": "Punto 15: hex medidos del traje de baño de Nani (azul/verde) y Lilo (rojo/naranja), variante distinta a su ropa icónica.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/5/56/Stitch_Development_art.png",
+    "fuente": "Disney Wiki (Fandom) · arte de concepto",
+    "ancho": 3338,
+    "alto": 2160,
+    "que_es": "Arte de desarrollo de Stitch (bocetos de diseño).",
+    "para_que": "Punto 1: proceso de diseño, línea y forma.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/stitch-626-from-lilo-and-stitch-rigged-5ae4cd66c67d42c49202f2003fe7f559",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Stitch (Experimento 626) con rig, 35 464 caras, autor werasik2aa1",
+    "para_que": "Rig libre para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/nani-from-lilo-and-stitch-8ed9ce5f0f944c7182fc150cf9d4c10b",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Nani, 2 758 caras (ligero), autor werasik2aa1",
+    "para_que": "Rig libre para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/stitch-kh3-rig-d1c674e7c0424687935d1839a2a55843",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Stitch con rig, estilo Kingdom Hearts III, 34 782 caras, autor guinavarro.al",
+    "para_que": "Rig libre alternativo para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/pleakley-lilo-stitch-3a4305debb52451a8ba5ccb8a174e7ef",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Pleakley, 260 220 caras (pesado), autor ArbitraryCanary",
+    "para_que": "Rig libre para Blender (punto 18); ojo con el punto 9 de reglas_del_dueno.md, es pesado",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=1904",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Lilo y Stitch riendo a carcajadas en el cohete de monedas 'Space Adventure'",
+    "para_que": "Cara de Lilo y de Stitch en alegría (punto 13); pose de celebrar en pareja",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=2216",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Lilo sonríe de lado mirando a Stitch, sentada en la cama junto a la caja de madera",
+    "para_que": "Cara de Lilo en ternura/afecto (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=145",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Stitch capturado en una cápsula, enseña los dientes y gruñe",
+    "para_que": "Cara de Stitch en rabia (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=1439",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: silueta de Stitch con sonrisa amenazante, recién escapado, sobre escombros con luz verde",
+    "para_que": "Cara/pose de Stitch en rabia, tono villano (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=3930",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Nani blande una rama contra Stitch, ambos con los dientes apretados",
+    "para_que": "Cara de Nani y de Stitch en rabia (punto 13); dinámica de conflicto entre ambos",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=2280",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Stitch construye en secreto una maqueta de ciudad (puente, edificios, barco) de noche",
+    "para_que": "Gesto de inteligencia oculta de Stitch, pose de 'pensar/crear' (punto 13/14)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=1717",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Jumba y Pleakley escondidos entre arbustos, ojos muy abiertos, alarmados",
+    "para_que": "Cara de Jumba y de Pleakley en miedo (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=3665",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Jumba de pie entre los escombros de la casa destrozada por Stitch, ojos como platos",
+    "para_que": "Cara de Jumba en miedo/sorpresa (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=2320",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Pleakley riendo con los brazos en alto junto a Jumba, de noche, entre instrumental de laboratorio",
+    "para_que": "Cara de Pleakley en alegría (punto 13)",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=2340",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Pleakley de perfil, sonrisa traviesa, cubierto de mosquitos que lo rodean",
+    "para_que": "Cara de Pleakley en alegría/fascinación (punto 13); confirma la manía de los mosquitos ya citada en biblia.md",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-2002_202609?t=1250",
+    "fuente": "Internet Archive (copia íntegra de Lilo & Stitch, 2002)",
+    "ancho": 1280,
+    "alto": 746,
+    "que_es": "Fotograma propio: Nani arrastra a Lilo del brazo hacia casa nada más empezar la bronca por la mordida a Mertle",
+    "para_que": "Cara de Nani en rabia (punto 13); arranque de la secuencia regaño-reconciliación",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=99",
+    "fuente": "Internet Archive (clip 1080p 'Lilo Stitch Luau Nani Loses Her Job')",
+    "ancho": 1280,
+    "alto": 758,
+    "que_es": "Fotograma propio en alta resolución: primer plano de Nani sirviendo bebidas, ceja levantada, boca torcida de fastidio",
+    "para_que": "Cara de Nani en rabia/hartazgo (punto 13), en la mejor resolución disponible",
+    "licencia": "Copyright Disney; captura propia, uso de investigación no comercial"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=48",
+    "fuente": "Internet Archive",
+    "ancho": 1824,
+    "alto": 1080,
+    "que_es": "Escena real de la película: Nani sirviendo en el luau y siendo despedida, con Lilo y Stitch cenando",
+    "para_que": "Paleta medida y luz del sitio del luau, pose de Nani sirviendo (punto 4, 14)",
+    "licencia": "Fragmento de la película con copyright de Disney, subido por un usuario; uso como referencia"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer?t=132",
+    "fuente": "Internet Archive — fotograma propio (fotogramas.py, minuto 2:12)",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Fotograma: Nani asustada al descubrir a Stitch en el dormitorio de Lilo, con lámpara de base de piña",
+    "para_que": "Pose de sorpresa/regaño de Nani y detalle de attrezzo del dormitorio (punto 4, 14)",
+    "licencia": "Fotograma propio extraído para investigación; no redistribuir el archivo de vídeo"
+  },
+  {
+    "url": "https://archive.org/details/LiloStitchTrailer?t=36",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 346,
+    "que_es": "Tráiler oficial original de Lilo & Stitch (2002, Disney)",
+    "para_que": "Poses de Nani, Stitch y Lilo, y la cápsula con la foto de Lilo dentro (punto 2, 10, 14)",
+    "licencia": "Material promocional oficial de Disney, subido por un usuario; uso como referencia"
+  },
+  {
+    "url": "https://archive.org/details/lilo-stitch-3?t=0",
+    "fuente": "Internet Archive (Disney Channel, 2004)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Vídeo de los créditos finales de Lilo & Stitch (2002): el collage de fotos de familia con Stitch colado, y la ficha técnica completa incluidas las canciones",
+    "para_que": "Confirmar minuto a minuto el álbum de fotos de los créditos y los créditos exactos de la música (punto 2, 9, 14)",
+    "licencia": "Copia de emisión de TV subida por un usuario; uso como referencia, no para redistribuir"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9fzrlk?start=104",
+    "fuente": "Dailymotion (Sensacine)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial de Lilo & Stitch (2025) doblado en español latino",
+    "para_que": "Paleta del mar en el remake y pose de Stitch surfeando (punto 4, 10, 14)",
+    "licencia": "Material promocional oficial de Disney, republicado por un medio; uso como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_Logo.png/revision/latest?cb=20160630120430",
+    "fuente": "Fandom disney (API imageinfo)",
+    "ancho": 800,
+    "alto": 310,
+    "que_es": "Logo oficial de la franquicia Lilo & Stitch, rótulo a mano rojo con contorno blanco",
+    "para_que": "Referencia tipográfica exacta del logo (punto 5)",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/stitch_gba/screenshot_12.png",
+    "fuente": "Internet Archive (stitch_gba)",
+    "ancho": 480,
+    "alto": 320,
+    "que_es": "Pantalla de título del videojuego Disney's Lilo & Stitch (Game Boy Advance, 2002)",
+    "para_que": "Variante del logo en un objeto de producto (tabla de surf) y letra PRESS START (puntos 5 y 11)",
+    "licencia": "© Disney; captura de preservación en Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://tokyopop.com/cdn/shop/products/9781427868961.jpg?v=1775858242&width=1946",
+    "fuente": "TOKYOPOP (tienda oficial)",
+    "ancho": 432,
+    "alto": 648,
+    "que_es": "Portada del manga Disney Manga: Stitch and the Samurai / Tono-sama to Stitch, vol. 1 (Hiroto Wada, 2020-2021)",
+    "para_que": "Obra parecida/relacionada en japonés (punto 24) y variante de logo (punto 5)",
+    "licencia": "© Disney/Kodansha/Tokyopop; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/66/Stitch%21_The_Movie_promo_wallpaper.jpg",
+    "fuente": "Disney Wiki (Fandom) · fondo de pantalla oficial",
+    "ancho": 3000,
+    "alto": 1535,
+    "que_es": "Fondo de pantalla promocional oficial de «Stitch! The Movie» (2003).",
+    "para_que": "Punto 16: fondo de pantalla oficial con tamaño medido.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/66/Stitch_experiments_wallpaper.jpg",
+    "fuente": "Disney Wiki (Fandom) · fondo de pantalla oficial",
+    "ancho": 1575,
+    "alto": 1093,
+    "que_es": "Fondo oficial con todos los experimentos en patrón de papel tapiz.",
+    "para_que": "Punto 16 y 19.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/5/54/Motto%21_Stitch%21_DS_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial (spin-off «Stitch!»)",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo de pantalla oficial japonés del spin-off «Stitch!» / juego de Nintendo DS.",
+    "para_que": "Punto 16: fondo oficial, estilo pictórico japonés distinto al de EE.UU.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/87/Stitch%21_DS_-_Ohana_to_Rhythm_de_Daibouken_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo de pantalla oficial japonés (juego de ritmo de Nintendo DS).",
+    "para_que": "Punto 16.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/da/Stitch%21_Good_Deed_Counter_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo de pantalla oficial japonés.",
+    "para_que": "Punto 16.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/86/Stitch_and_Angel_in_kimonos_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo oficial: Stitch y Angel en kimono.",
+    "para_que": "Punto 16: variante de vestuario japonesa.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/45/Stitch_painted_Japanese_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo oficial con pincelada de estilo pintura japonesa.",
+    "para_que": "Punto 16 y 18 (técnica).",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/a/a6/Tenugui_Stitch_wallpaper.jpg",
+    "fuente": "Disney Japón · fondo de pantalla oficial",
+    "ancho": 1280,
+    "alto": 1024,
+    "que_es": "Fondo oficial con motivo de tenugui (toalla japonesa estampada).",
+    "para_que": "Punto 16 y 19 (patrón textil).",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/29/Stitch_and_Experiments_puzzle.jpg",
+    "fuente": "Disney Wiki (Fandom) · merchandising oficial",
+    "ancho": 2137,
+    "alto": 1000,
+    "que_es": "Rompecabezas oficial con Stitch y los 100+ experimentos como patrón repetido.",
+    "para_que": "Punto 19: referencia de cómo Disney arma un patrón repetido con el elenco.",
+    "licencia": "© Disney. Sólo referencia visual, uso interno del servidor."
+  },
+  {
+    "url": "https://lorcanaplayer.com/card/stitch-covert-agent/",
+    "fuente": "Disney Lorcana (TCG) · ficha de carta",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carta oficial 'Stitch — Covert Agent' (89/204, tinta Esmeralda), arte de pose de espía.",
+    "para_que": "Punto 1 y 23: arte oficial reciente (2026), pose de espía con cámara/lupa, encaja con #fotos.",
+    "licencia": "© Disney / Ravensburger. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9jtp6m",
+    "fuente": "Dailymotion (NoPopCorn / Disney Francia)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Featurette oficial sobre la música de Lilo & Stitch (2025), en francés",
+    "para_que": "Confirmar que el remake mantiene Elvis Presley y música hawaiana tradicional (punto 9)",
+    "licencia": "Material promocional oficial de Disney, republicado por un medio; uso como referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/set-of-four-4-low-poly-cameras-275be0c563754a038c0a50f19785a8ea",
+    "fuente": "Sketchfab · JeffK/jeffkolada (licencia CORREGIDA por API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Set de 4 cámaras low-poly, estilo más ilustrado.",
+    "para_que": "Punto 3: alternativa de cámara más 'de dibujo'. Revisar uso comercial antes de pegar.",
+    "licencia": "CC BY-NC-SA (leída en la API de Sketchfab; antes se creía CC BY). No comercial: sólo para mirar volúmenes."
+  },
+  {
+    "url": "https://www.marvel.com/articles/comics/stitch-crashes-the-marvel-universe-in-new-comic-book-covers",
+    "fuente": "Marvel.com · anuncio oficial",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio oficial de las 5 portadas variante 'Stitch Crashes the Marvel Universe' (sep-2025).",
+    "para_que": "Punto 23: colaboración Disney×Marvel, con artistas y números exactos.",
+    "licencia": "© Disney / Marvel. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://d23.com/a-to-z/stitchs-great-escape/",
+    "fuente": "D23 (fan club oficial de Disney) · ficha de atracción",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial de la atracción 'Stitch's Great Escape!' (Magic Kingdom, 2004-2018).",
+    "para_que": "Punto 23: colaboración/expansión a los parques, fecha exacta.",
+    "licencia": "© Disney. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://www.disney.fandom.com/wiki/Disney_Fab_50_Character_Collection",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la colección de estatuas doradas Fab 50 (50.º aniversario de WDW), incluida la de Stitch.",
+    "para_que": "Punto 23: evento/colaboración de aniversario.",
+    "licencia": "© Disney. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://www.popshopguide.com/funko-pop-series/pop-disney/lilo-and-stitch/",
+    "fuente": "Pop Shop Guide · catálogo",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Catálogo de figuras Funko Pop de Lilo & Stitch, incluidos los crossovers (Stitch de Beast, Cheshire Cat, Simba, Pongo).",
+    "para_que": "Punto 23: figuras oficiales con pose = referencia 3D directa.",
+    "licencia": "© Disney / Funko. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://www.disneystore.com/lilo-stitch-loungefly-mini-backpack-442090260726.html",
+    "fuente": "Disney Store · producto oficial",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mochila Loungefly con el estampado del vestido rojo de Lilo repetido.",
+    "para_que": "Punto 19 y 23: estampado repetido oficial, referencia de textura (no calcar, con copyright).",
+    "licencia": "© Disney / Loungefly. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://www.crocs.com/p/stitch-tropical-5-pack/10012920.html",
+    "fuente": "Crocs.com · producto oficial",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pack de charms Jibbitz oficiales de Stitch (expresiones tropicales).",
+    "para_que": "Punto 23: colaboración de moda/accesorios.",
+    "licencia": "© Disney / Crocs. Sólo referencia, uso interno del servidor."
+  },
+  {
+    "url": "https://ambientcg.com/list?type=Material&q=fabric",
+    "fuente": "ambientcg (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bases de tela lisa fotografiadas (Fabric030, Fabric061, Fabric083…).",
+    "para_que": "Punto 19: base CC0 para pintar encima un estampado hawaiano (no trae el dibujo).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://www.worthpoint.com/worthopedia/lilo-stitch-collected-stories-films-1886596031",
+    "fuente": "Worthpoint · ficha del libro",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del artbook oficial 'Lilo & Stitch: Collected Stories From the Film's Creators' (Disney Press, 2002, 128 pp).",
+    "para_que": "Punto 1: fuente oficial documentada (antes 'no encontré').",
+    "licencia": "© Disney Press. Sólo referencia bibliográfica."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Nani_Pelekai",
+    "fuente": "Doblaje Wiki (API, ficha de actriz por personaje)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Nani Pelekai: confirma a Claudia Garzón como voz latina (2002, 6 proyectos) y a Alicia Vélez (2025, 1 proyecto)",
+    "para_que": "Fuente 1 de 2 para el doblaje latino de Nani (punto 8), corrige el nombre usado en biblia.md para 2025",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://dubdb.fandom.com/wiki/Lilo_y_Stitch_(Latin_American_Spanish)",
+    "fuente": "The Dubbing Database (dubdb.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto completo del doblaje latino de 2002, redactado de forma independiente a partir de Doblaje Wiki",
+    "para_que": "Segunda fuente para todo el reparto de 2002 (punto 8), incluidos los que biblia.md marcaba como no encontrados",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://dubdb.fandom.com/wiki/Lilo_y_Stitch_(Latin_American_Spanish,_2025)",
+    "fuente": "The Dubbing Database (dubdb.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto completo del doblaje latino de la versión de imagen real de 2025",
+    "para_que": "Segunda fuente para el reparto de 2025 (punto 8); corrige a Nani (Alicia Vélez) y Pleakley (Armando Guerrero)",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Lilo_y_Stitch_(2025)",
+    "fuente": "Doblaje Wiki (API, ficha de la película de 2025)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto oficial final del doblaje latino de 2025, con tabla actor original/actor de doblaje",
+    "para_que": "Fuente 1 de 2 (junto con The Dubbing Database) para el punto 8, 2025",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://liloandstitch.fandom.com/wiki/Stitch_(626)",
+    "fuente": "Lilo & Stitch Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Infobox de Stitch con gustos, disgustos y trivia (Patito Feo, café, pastel de coco, tortugas)",
+    "para_que": "Punto 20 (gustos) y refuerzo del punto 13 para Stitch",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://liloandstitch.fandom.com/wiki/Lilo_Pelekai",
+    "fuente": "Lilo & Stitch Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Infobox de Lilo con gustos, disgustos y trivia (cumple 7 años en la película)",
+    "para_que": "Punto 20 (gustos) para Lilo",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://liloandstitch.fandom.com/wiki/Nani_Pelekai",
+    "fuente": "Lilo & Stitch Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Infobox de Nani con gustos y disgustos (pizza, chocolate, surf)",
+    "para_que": "Punto 20 (gustos) para Nani",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://liloandstitch.fandom.com/wiki/Jumba_Jookiba",
+    "fuente": "Lilo & Stitch Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Infobox de Jumba con gustos, disgustos y trivia",
+    "para_que": "Punto 20 (gustos) para Jumba",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://liloandstitch.fandom.com/wiki/Wendy_Pleakley",
+    "fuente": "Lilo & Stitch Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Infobox de Pleakley: especie Plorgonarian, apodos, gustos, disgustos y trivia (comparación Marty McFly/Doc Brown)",
+    "para_que": "Punto 20 (gustos) y punto 7 (por qué es el secundario más querido) para Pleakley",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_(2025_film)",
+    "fuente": "Wikipedia (infobox)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cifra de taquilla mundial (1.038 millones de USD) y presupuesto (100 millones) de la versión de 2025",
+    "para_que": "Punto 7 (popularidad, dato objetivo de alcance) y punto 21 (por qué la aman, prueba de éxito masivo)",
+    "licencia": "Texto de wiki colaborativa, no es imagen"
+  },
+  {
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/disney-2025-big-winner-stitch-character-1236457944/",
+    "fuente": "The Hollywood Reporter",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el dominio de Stitch en mercancía y su cruce generacional en 2025",
+    "para_que": "Punto 7 (popularidad) y punto 21 (por qué la aman)",
+    "licencia": "Artículo de prensa, no es imagen; sólo se pudo leer el resumen del buscador (redirección de pago al fetch completo)"
+  },
+  {
+    "url": "https://www.boxofficemojo.com/article/ed2859467780",
+    "fuente": "Box Office Mojo",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña centrada en el tema de la ʻohana (familia) como motivo de conexión con el público",
+    "para_que": "Punto 21 (por qué la aman)",
+    "licencia": "Artículo de prensa, no es imagen"
+  },
+  {
+    "url": "https://culturacolectiva.com/entretenimiento/cine-series/escena-eliminada-lilo-y-stitch/",
+    "fuente": "Cultura Colectiva",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reportaje sobre la escena cortada de 2002 en la que Lilo finge un tsunami para vengarse de turistas racistas",
+    "para_que": "Punto 12 (qué NO hacer: evitar el tono de 'Hawái de postal' o la burla hacia los locales)",
+    "licencia": "Artículo de prensa, no es imagen"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kofTIv15aL4",
+    "fuente": "YouTube, canal Dotachin96",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub en español latino de Lilo & Stitch (2012), 147 762 vistas medidas con yt-dlp",
+    "para_que": "Punto 22 (fan dubs y comunidad hispana)",
+    "licencia": "Vídeo de fan, con copyright del audio original de Disney; sólo como referencia, no para usar el material"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fTEk021IYKQ",
+    "fuente": "YouTube, canal Érase Una Voz",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub de Vane Ochoa (2023), 202 vistas medidas con yt-dlp",
+    "para_que": "Punto 22 (fan dubs y comunidad hispana), ejemplo reciente",
+    "licencia": "Vídeo de fan, con copyright del audio original de Disney; sólo como referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=C53YBpJ8I_k",
+    "fuente": "YouTube, canal Lucymar",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub del meme 'está tocándome' (2020), 512 vistas medidas con yt-dlp",
+    "para_que": "Punto 22 (fan dubs y comunidad hispana), ejemplo de meme recurrente",
+    "licencia": "Vídeo de fan, con copyright del audio original de Disney; sólo como referencia"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Comic+Neue",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Comic Neue Bold, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para el globo normal de cómic (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Bangers, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para gritos/exclamaciones de cómic (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Trade+Winds",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Trade Winds, estilo cartel tiki/luau, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para carteles del mundo (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Actor",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Actor, sans condensada de aire tecnológico, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para interfaz de juego / HUD (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Quicksand",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Quicksand, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para subtítulos o créditos (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://animationobsessive.substack.com/p/the-shape-and-color-of-lilo-and-stitch",
+    "fuente": "Animation Obsessive (artículo con entrevistas de producción)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo con citas de Ric Sluiter, Byron Howard, Sue Nichols, Paul Felix y David Wang sobre la técnica de acuarela y el diseño de personajes",
+    "para_que": "Fuente principal del punto 18 (cómo se hizo y cómo replicarlo)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.awn.com/animationworld/lilo-stitch-revisited-part-i",
+    "fuente": "Animation World Network (AWN)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista de producción con Dean DeBlois sobre storyboard, composición y el rediseño del clímax tras el 11-S",
+    "para_que": "Fuente del punto 18 (encuadres y composición)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.awn.com/animationworld/lilo-toothless-and-totoro-too",
+    "fuente": "Animation World Network (AWN)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la influencia de Mi vecino Totoro (Miyazaki) en Lilo & Stitch, con cita de Dean DeBlois",
+    "para_que": "Fuente del punto 24 (obras parecidas / influencias declaradas)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Lilo_%26_Stitch_(franchise)",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de la franquicia: películas, series, juegos, cronología y datos de popularidad en Asia",
+    "para_que": "Fuente de los puntos 11 (videojuegos), 24 (obras parecidas) y 25 (arcos de la historia)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Grand_Councilwoman",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Gran Consejera y la Federación Galáctica Unida",
+    "para_que": "Vocabulario del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Scrump",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Scrump, con su inspiración de diseño (muñeco vudú, Frankenstein)",
+    "para_que": "Símbolo del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://ryukyushimpo.jp/culture/entry-3182982.html",
+    "fuente": "Ryukyu Shimpo (periódico de Okinawa, en japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el anime Stitch! y su ambientación en Okinawa (isla ficticia Izayoi, personajes de folclore)",
+    "para_que": "Fuente en japonés del punto 24 (obras parecidas)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2020-01-13/disney-character-stitch-gets-manga-set-in-feudal-japan/.155297",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia del anuncio del manga Stitch & the Samurai (Japón feudal), con datos del autor Hiroto Wada",
+    "para_que": "Fuente del punto 24 (obras parecidas, en inglés/con datos de Japón)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://github.com/alfredlu1986/movie-english-sub/blob/main/2002/Lilo.and.Stitch.2002.1080p.720p.BluRay.x264.%5BYTS.MX%5D-English.srt",
+    "fuente": "GitHub · subtítulos inglés (Blu-ray, con sonidos)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos de la película de 2002 con tiempos.",
+    "para_que": "Dar el minuto exacto de cada escena (00:22:54 la cámara). Todas las secciones.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://github.com/imkira3/imkira3Keys/blob/main/Subtitles/Lilo%20%26%20Stitch.srt",
+    "fuente": "GitHub · subtítulos inglés (OpenSubtitles)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segundo subtítulo de 2002; coincide en los minutos.",
+    "para_que": "Confirmar los minutos del primero.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=r4aor3FulOU",
+    "fuente": "YouTube · final de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El montaje final de fotos con «Burning Love».",
+    "para_que": "Cómo son las fotos del álbum. Concepto B y lámina 2.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://pinandpop.com/series/lilo-stitch-end-credits-snapshot-photos",
+    "fuente": "Pin & Pop · pins oficiales",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Serie de pins que copian las fotos de los créditos.",
+    "para_que": "Borde, encuadre y estilo de las fotos. Conceptos A y B.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/LiloAndStitch2002",
+    "fuente": "TV Tropes · momentos tiernos",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Describe la foto final: Stitch metido en la foto de familia.",
+    "para_que": "Idea de la última página del álbum. Concepto B.",
+    "licencia": "Texto de TV Tropes; sólo consulta."
+  },
+  {
+    "url": "https://www.deviantart.com/danielnewton/journal/Lilo-s-Family-Photo-Comparison-872752082",
+    "fuente": "DeviantArt · danielnewton",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Comparación de la foto de familia del final.",
+    "para_que": "Referencia de la foto clave. Concepto B.",
+    "licencia": "© del autor y Disney. Sólo mirar."
+  },
+  {
+    "url": "https://filmboards.com/board/t/Lilos-obsession-with-fat-people-1118389/",
+    "fuente": "filmboards · foro",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Describe la pared de fotos de turistas del cuarto de Lilo.",
+    "para_que": "Cómo es la pared. Concepto A.",
+    "licencia": "Texto de foro; sólo consulta."
+  },
+  {
+    "url": "https://www.cinemablend.com/new/Lilo-Stitch-Terrorize-Tourists-Deleted-Scene-33401.html",
+    "fuente": "Cinemablend",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Escena eliminada: Lilo asusta a los turistas.",
+    "para_que": "Contexto de la afición de Lilo. §2.",
+    "licencia": "Artículo de prensa; sólo consulta."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Oh5SvyCX9QE",
+    "fuente": "YouTube · Inter-Stitch-als",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Los cuatro tráileres en que Stitch se cuela en clásicos de Disney.",
+    "para_que": "La broma de «colarse en la foto». Concepto C y «Detrás de cámara».",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0EPdOPhwpUA",
+    "fuente": "YouTube · teaser de La Bella y la Bestia 4K",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Uno de los Inter-Stitch-als en alta.",
+    "para_que": "Pose de Stitch colándose. Concepto C.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.scribd.com/document/552265347/Lilo-Stitch-Style-Guide-by-Sue-Nichols-Maciorowski",
+    "fuente": "Scribd · guía de estilo de Sue Nichols",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Surfing the Sanders Style»: reglas de dibujo de la película.",
+    "para_que": "Estilo de personajes para dibujar o para la IA. §18.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://afterhoursanimationschool.tumblr.com/post/142262804364/lilo-and-stitch-model-sheets-part-2",
+    "fuente": "Tumblr · After Hours Animation School",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hojas de modelo de la película.",
+    "para_que": "Rasgos que nunca cambian. §18.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://characterdesignreferences.com/art-of-animation-5/art-of-lilo-stitch",
+    "fuente": "Character Design References",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recopilación de arte de producción.",
+    "para_que": "Concept art y paleta. §3.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.goldderby.com/film/2025/lilo-stitch-story-behind-animated-movie-original-designs-chris-sanders/",
+    "fuente": "Gold Derby · arte exclusivo de Sanders",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El primer diseño de Stitch.",
+    "para_que": "Historia del personaje. §3.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://andreasdeja.blogspot.com/2016/10/watercolor-backgrounds.html",
+    "fuente": "Blog de Andreas Deja",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sobre los fondos en acuarela.",
+    "para_que": "Estilo de fondo. §5 y §18.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.avclub.com/read-this-lilo-stitch-disney-watercolor-animation-1849681724",
+    "fuente": "AV Club",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cómo se volvió a la acuarela (Ric Sluiter).",
+    "para_que": "Estilo de fondo. §5.",
+    "licencia": "Artículo de prensa; sólo consulta."
+  },
+  {
+    "url": "https://aiptcomics.com/2024/02/23/dynamite-preview-lilo-stitch-2/",
+    "fuente": "AIPT · cómic de Dynamite n.º 2",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Portadas variantes de varios artistas.",
+    "para_que": "Poses variadas de Lilo y Stitch. §3.4.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.disney.co.jp/fc/stitch",
+    "fuente": "Disney Japón · página oficial",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fichas oficiales de personajes.",
+    "para_que": "Arte oficial limpio. §3.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/35mm-film-roll-6d8a6d290de043e898420a04072a3a1e",
+    "fuente": "Sketchfab · Alligator Alex",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carrete de 35 mm.",
+    "para_que": "Detalle junto al álbum. Concepto B.",
+    "licencia": "Descarga gratis; licencia sin ver."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/stitch-7a72d3375a284824a15201d774de4e95",
+    "fuente": "Sketchfab · BOSSNINO",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Stitch de fan en su forma «de perro».",
+    "para_que": "Girar la pose y ver volúmenes; nunca pegar.",
+    "licencia": "Modelo de fan de un personaje de Disney: sólo referencia."
+  },
+  {
+    "url": "https://polyhaven.com/a/secluded_beach",
+    "fuente": "Poly Haven · HDRI",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Luz de playa.",
+    "para_que": "Contraluz del porche. Concepto B.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/distressed_painted_planks",
+    "fuente": "Poly Haven · textura",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tablas pintadas con la pintura saltada.",
+    "para_que": "Pared y porche de la casa Pelekai. Conceptos A y B.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://www.onlyinyourstate.com/hawaii/lilo-and-stitch-town-hi",
+    "fuente": "Only In Your State",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hanapepe, el pueblo real de la película.",
+    "para_que": "Fondos y foto de «Ciudad». §5 y lámina 2.",
+    "licencia": "Artículo; fotos con © de sus autores."
+  },
+  {
+    "url": "https://www.sfgate.com/hawaii/article/lilo-stitch-tour-kauai-hawaii-17574368.php",
+    "fuente": "SFGate",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ruta por los sitios de Kauai de la película.",
+    "para_que": "Foto de «Paisaje». §5 y lámina 2.",
+    "licencia": "Artículo; fotos con © de sus autores."
+  },
+  {
+    "url": "https://www.disneylatino.com/novedades/las-7-frases-de-lilo-y-stitch-que-quedaron-en-tu-memoria",
+    "fuente": "Disney Latino",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Frases latinas oficiales, entre ellas «Ohana…» y «Es chiquita y rota, pero es buena».",
+    "para_que": "Texto de la lámina. §10.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2ZpENZiv8z8",
+    "fuente": "YouTube · clip latino de Disney",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La escena final de 2002 doblada al latino.",
+    "para_que": "Oír la frase de Stitch antes de rotularla. Concepto B.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.tiktok.com/@sdv_serviciosdevoz/video/7143761341776497925",
+    "fuente": "TikTok · SDV Servicios de Voz",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reto de doblaje con Anaís Portillo, voz latina de Lilo.",
+    "para_que": "Confirmar la voz de Lilo. §10.",
+    "licencia": "© de sus autores; sólo consulta."
+  },
+  {
+    "url": "https://abcnoticias.mx/tendencia/2025/5/21/quien-es-el-abogado-mexicano-que-hace-la-voz-de-stitch-videos-249770.html",
+    "fuente": "ABC Noticias",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Gerardo Becker, voz latina de Stitch en 2025.",
+    "para_que": "Voz de 2025. §10.",
+    "licencia": "Artículo; sólo consulta."
+  },
+  {
+    "url": "https://www.themarysue.com/put-pleakley-in-the-wig-cowards-audiences-are-frustrated-about-this-character-design-change-in-lilo-stitch/",
+    "fuente": "The Mary Sue",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Queja de los fans por Pleakley sin peluca en 2025.",
+    "para_que": "Qué NO hacer; Pleakley con peluca en el concepto C.",
+    "licencia": "Artículo; sólo consulta."
+  },
+  {
+    "url": "https://tcrf.net/Category:Lilo_&_Stitch_series",
+    "fuente": "The Cutting Room Floor",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Contenido descartado de los juegos de la franquicia.",
+    "para_que": "Videojuegos. §13.",
+    "licencia": "Texto de TCRF; sólo consulta."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d1/IASW_Lilo_%26_Stitch_Figures.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 4000,
+    "alto": 3000,
+    "que_es": "Lilo Pelekai: IASW Lilo & Stitch Figures.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/81/Lilo_%26_Stitch_Dynamite_Covers_05.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2400,
+    "alto": 3644,
+    "que_es": "Lilo Pelekai: Lilo & Stitch Dynamite Covers 05.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/e/e8/DOI_-_Lilo_%26_Stitch.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2400,
+    "alto": 3607,
+    "que_es": "Lilo Pelekai: DOI - Lilo & Stitch.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/cf/Lilo_%26_Stitch_The_Series_promo_art.png",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Lilo Pelekai: Lilo & Stitch The Series promo art.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/48/Britto_Lilo_%26_Stitch_Figurine.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2829,
+    "alto": 2829,
+    "que_es": "Lilo Pelekai: Britto Lilo & Stitch Figurine.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/11/Lilo_%26_Stitch_Figurine_Playset.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 4000,
+    "alto": 2000,
+    "que_es": "Lilo Pelekai: Lilo & Stitch Figurine Playset.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d4/Lilo_%26_Stitch_2018_Figurine_Playset.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 4000,
+    "alto": 2000,
+    "que_es": "Lilo Pelekai: Lilo & Stitch 2018 Figurine Playset.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7d/Lilo_%26_Stitch_Poster_-_Stitch%2C_Lilo_and_Nani_Surboard.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2000,
+    "alto": 3000,
+    "que_es": "Lilo Pelekai: Lilo & Stitch Poster - Stitch, Lilo and Nani Surboard.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/0e/Stitch_Live%21.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 4896,
+    "alto": 3672,
+    "que_es": "Stitch: Stitch Live!.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/10/Stitch_Encounter.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 4912,
+    "alto": 3264,
+    "que_es": "Stitch: Stitch Encounter.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/8e/Stitch_Topiary.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3648,
+    "alto": 2736,
+    "que_es": "Stitch: Stitch Topiary.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/dc/DOI_-_Jumba%2C_Stitch_%26_Pleakley.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3607,
+    "alto": 2400,
+    "que_es": "Stitch: DOI - Jumba, Stitch & Pleakley.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/3/30/Stitch%21_Disney%2B_English_thumbnail.png",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Stitch: Stitch! Disney+ English thumbnail.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b8/David_and_Nani_Through_the_Years.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3648,
+    "alto": 2736,
+    "que_es": "Nani Pelekai: David and Nani Through the Years.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/e/eb/Stitch%21_The_Movie_-_The_Pelekai_%27ohana.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nani Pelekai: Stitch! The Movie - The Pelekai 'ohana.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d9/Stitch-experiments_and_ohana.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2000,
+    "alto": 1119,
+    "que_es": "Nani Pelekai: Stitch-experiments and ohana.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/8f/Lilo_%26_Stitch_-_Nani_sticking_her_tongue_out_at_Lilo.png",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1142,
+    "que_es": "Nani Pelekai: Lilo & Stitch - Nani sticking her tongue out at Lilo.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/e/e9/Stitch%21_The_Movie_-_Pleakley_cooking_dinner_on_stove.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Nani Pelekai: Stitch! The Movie - Pleakley cooking dinner on stove.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/3/32/Stitch%21_The_Movie_-_Nani_and_David_stare_at_Stitch_as_he_causes_chaos.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Nani Pelekai: Stitch! The Movie - Nani and David stare at Stitch as he causes chaos.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d9/LiloStitchCharacters.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Nani Pelekai: LiloStitchCharacters.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b2/Lilo-stitch2-disneyscreencaps.com-5240.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Nani Pelekai: Lilo-stitch2-disneyscreencaps.com-5240.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d0/Kingdom_Hearts_utilized_logo.png",
+    "fuente": "Fandom disney",
+    "ancho": 2209,
+    "alto": 1237,
+    "que_es": "Jumba Jookiba: Kingdom Hearts utilized logo.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/1e/Stitch_Dynamite_Covers_03.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1318,
+    "alto": 2000,
+    "que_es": "Jumba Jookiba: Stitch Dynamite Covers 03.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7f/Stitch%21_The_Movie_-_Pleakley_wonders_what_they_do_now.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Jumba Jookiba: Stitch! The Movie - Pleakley wonders what they do now.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/6d/Stitch%21_The_Movie_-_Jumba_sees_Lilo_and_Stitch_have_come_back.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Jumba Jookiba: Stitch! The Movie - Jumba sees Lilo and Stitch have come back.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/74/Stitch%21_The_Movie_-_%27I%27ll_go_get_the_wig.%27.png",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Jumba Jookiba: Stitch! The Movie - 'I'll go get the wig.'.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/71/Jumba_in_Stitch%21_The_Movie.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Jumba Jookiba: Jumba in Stitch! The Movie.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b4/St._Patrick%27s_artwork_by_Mel_Matthews_1.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2000,
+    "alto": 2500,
+    "que_es": "Pleakley: St. Patrick's artwork by Mel Matthews 1.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/40/Stitch%21_The_Movie_-_Stitch_and_Pleakley_both_waving.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Pleakley: Stitch! The Movie - Stitch and Pleakley both waving.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7b/Stitch%21_The_Movie_-_Pleakley_talking_to_H%C3%A4msterviel_on_phone.png",
+    "fuente": "Fandom disney",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Pleakley: Stitch! The Movie - Pleakley talking to Hämsterviel on phone.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yq/wallhaven-yq8grx.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 1655,
+    "que_es": "Fondo de pantalla (Mauger Baptiste, digital art, artwork, illustration, CGI, interior)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por jrmnt; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/5y/wallhaven-5y7k87.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 1655,
+    "que_es": "Fondo de pantalla (CGI, women in bedroom, Mauger Baptiste, sitting, women indoors, indoors)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por jrmnt; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4ypleg.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Lilo & Stitch, dragon, Toothless (How to Train Your Dragon), How to Train Your Dragon, Stitch (Lilo & Stitch), movies)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por xAvalanchEx; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xexlo.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (The Lord of the Rings, Gandalf, Shrek, Gremlins, C-3PO, E.T.)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Defalt; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpolge.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (ArtStation, Juan Hernández, character design , digital art, CGI, Stitch (Lilo & Stitch))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqwrl3.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (ArtStation, Juan Hernández, Stitch (Lilo & Stitch), character design , digital art, CGI)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxyrod.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (ArtStation, Juan Hernández, Stitch (Lilo & Stitch), character design , digital art, CGI)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/gj/wallhaven-gjy6j7.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Lilo & Stitch, Stitch (Lilo & Stitch), blue, pixel art, pixels, cyan)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por AceAtomz; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/we/wallhaven-wez757.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 5120,
+    "alto": 2880,
+    "que_es": "Fondo de pantalla (Lilo & Stitch, movies, beach, Stitch (Lilo & Stitch), sky, clouds)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por AronDark; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/5g/wallhaven-5g28o8.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (ArtStation, Juan Hernández, Stitch (Lilo & Stitch), character design , digital art, teeth)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/0j/wallhaven-0jzj1y.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Lilo & Stitch, artwork, children, movies, animated movies, fan art)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por xAvalanchEx; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/l8/wallhaven-l857pp.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (ArtStation, Juan Hernández, Stitch (Lilo & Stitch), character design , digital art, bricks)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/e8/wallhaven-e8zwzl.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1799,
+    "que_es": "Fondo de pantalla (ArtStation, Ognjen Sporin, character design , fan art, Loki (Marvel), Stitch (Lilo & Stitch))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por anthonygelibert; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yj/wallhaven-yj9mkl.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (pixel art, pixels, Lilo & Stitch, Stitch (Lilo & Stitch), movies, Disney)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por teddykladdkak; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/nk/wallhaven-nk76eq.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (movies, Disney, Donald Duck, Mickey Mouse, Goofy, Kingdom Hearts)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por nightelf87; © su autor"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-65880617586342db903f9236c014aeab",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Stitch (Fan Art) de Bema",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-9cf9da6809894cae9377ae94b1d4256b",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Space Adventure de Fanny Ngo",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-024b3f1d804b4dea9da4534ed0add0f4",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Yuna (Fan Art) de Bema",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8886725fc8c543c5ad0872a0301cfbc9",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Smug Lilo de Fanny Ngo",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5a85d135283e4356a86bccd7a7ca6938",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Stitch de procyonlotor",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-09964de38fc04df19fb0753b35d03d55",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Lilo and Stitch's shenanigans de Fanny Ngo",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-2d4b1ccf80cd4be480bb4cc5a46e1b84",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Nani Peleaki de roachfilmopticals",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://live.staticflickr.com/121/263445261_4c2c870681_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Lilo & Stitch Litho",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC 2.0, autor Cayusa"
+  },
+  {
+    "url": "https://live.staticflickr.com/3178/5868563609_52d1cf1406_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5318/5868644975_00f2b4df63_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 683,
+    "alto": 1024,
+    "que_es": "Meeting Lilo & Stitch at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/2583/3933582786_e40d29260d_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 768,
+    "alto": 1024,
+    "que_es": "The Pin Trader's Delight (and my special Lilo & Stitch pin) from Disney's Soda…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5142/5868538435_1cc0959393_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/3009/5868926670_9ce7c20f67_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Lilo & Stitch greet us to Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5302/5868573525_bfd16116f7_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/87/263445256_9bc07da533_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Lilo & Stitch Litho",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC 2.0, autor Cayusa"
+  },
+  {
+    "url": "https://live.staticflickr.com/5269/5869129868_41b1857f4e_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/3143/5868933668_1dbd814db8_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Lilo & Stitch greet us to Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/1407/5868370109_aa949fb2c2_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Lilo & Stitch greet us to Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/3131/5868551337_216687e38e_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5270/5868555873_76d9ecb09a_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5112/5868544085_f06971c8dc_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5271/5868391029_50cc20af34_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Lilo & Stitch greet us to Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5261/5868582955_2c10506fb5_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/2876/9356455248_4252941384_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 694,
+    "alto": 1024,
+    "que_es": "San Diego Comic-Con 2013 - LILO & STITCH",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-ND 2.0, autor Howie Muzika"
+  },
+  {
+    "url": "https://live.staticflickr.com/5142/5869149554_0ffc00ba8f_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5239/5868533105_981157f023_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  },
+  {
+    "url": "https://live.staticflickr.com/5064/5869119592_b51a8f37f1_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Meeting Lilo & Stitch and the Experiments at Stitch's Hawaiian Paradise Party",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-ND 2.0, autor Castles, Capes & Clones"
+  }
+]

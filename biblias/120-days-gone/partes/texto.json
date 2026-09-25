@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/daysgone/images/9/93/Mongrel_MC.png",
+    "fuente": "Days Gone Wiki (Fandom), imageinfo de la API confirma 512×512",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Logo oficial del club de moteros Mongrels MC: un perro con un chorro de sangre saliendo de la boca, mordiendo su propia cadena; negro, blanco y rojo",
+    "para_que": "Emblema de moteros para parches, tatuajes o banderas en la lámina (punto 25); referencia directa del encargo ('moteros')",
+    "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia, no redistribuir el arte del juego"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/daysgone/images/9/92/NERO.png",
+    "fuente": "Days Gone Wiki (Fandom), imageinfo de la API confirma 1535×1535",
+    "ancho": 1535,
+    "alto": 1535,
+    "que_es": "Logo/identificador de la National Emergency Response Organization (NERO), la agencia gubernamental de emergencias",
+    "para_que": "Emblema de facción gubernamental, punto 25 (vocabulario propio: puestos NERO, HAZMAT amarillo)",
+    "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_80bbb5ea187cc422012f7a84e694f20f87a26862.1920x1080.jpg",
+    "fuente": "Steam store page oficial (Bend Studio); medido con Pillow: 1920×809 real, no 1920×1080 pese al nombre del archivo",
+    "ancho": 1920,
+    "alto": 809,
+    "que_es": "Fotograma oficial con el parche bordado «NOMAD» en la chaqueta de Deacon St. John",
+    "para_que": "Rótulo real del mundo del juego (punto 5) y letra de parche bordado western para replicar",
+    "licencia": "© Sony Interactive Entertainment; captura oficial de tienda, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_e7254729cc5f28ac6fc9622209812705b782fbb9.1920x1080.jpg",
+    "fuente": "Steam store page oficial (Bend Studio); medido con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de exploración: Deacon centrado, paisaje boscoso ocupando la mitad superior del plano",
+    "para_que": "Referencia de encuadre de exploración para el punto 18 (composición típica)",
+    "licencia": "© Sony Interactive Entertainment; captura oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_a947f551335679fbffcbe64a3ffcb939429ed533.1920x1080.jpg",
+    "fuente": "Steam store page oficial (Bend Studio); medido con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de combate/persecución en moto, cámara baja y pegada al hombro",
+    "para_que": "Referencia de encuadre de combate/persecución para el punto 18",
+    "licencia": "© Sony Interactive Entertainment; captura oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_364f3048399fcb95df5e878c708c94e934cd53d4.1920x1080.jpg",
+    "fuente": "Steam store page oficial (Bend Studio); medido con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma a contraluz (escena emotiva/de personaje), silueta suave de Deacon",
+    "para_que": "Referencia de encuadre emotivo/contraluz para el punto 18; luz de fondo para lámina de personaje",
+    "licencia": "© Sony Interactive Entertainment; captura oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_4a1a39d5559909424ed36414070477a96c91e92c.1920x1080.jpg",
+    "fuente": "Steam store page oficial (Bend Studio); medido con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de alerta de horda: Deacon corriendo con la horda desbordando el encuadre por detrás",
+    "para_que": "Referencia de encuadre de alerta/horda para el punto 18",
+    "licencia": "© Sony Interactive Entertainment; captura oficial, uso editorial/referencia"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Days-Gone07172020-100258-98058_thumb.jpg",
+    "fuente": "Game UI Database (archivo accesible directo pese a que la portada gameData.php da 403 de Cloudflare); medido con Pillow",
+    "ancho": 500,
+    "alto": 281,
+    "que_es": "Captura de interfaz con subtítulo de diálogo en barra negra semitransparente, nombre del personaje en negrita + dos puntos (pantalla BOUNTIES)",
+    "para_que": "Referencia exacta de cómo Days Gone muestra los subtítulos, punto 6 (responde a 'no una burbuja blanca rara')",
+    "licencia": "Capturas de interfaz de videojuego recopiladas por Game UI Database, uso editorial/referencia"
+  },
+  {
+    "url": "https://www.bendstudio.com/assets/site/fonts/config-bold-webfont.woff2",
+    "fuente": "bendstudio.com (CSS propio del estudio, /assets/site/css/fout.css); archivo abierto con fontTools.ttLib.TTFont",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente web real 'Config Bold', diseñada por Adam Ladd, usada por Bend Studio en su propia web corporativa; su cmap incluye á é í ó ú ñ Ñ ¿ ¡ ü",
+    "para_que": "Identidad tipográfica de marca del estudio (punto 5); pista fuerte del estilo de letra condensada del HUD",
+    "licencia": "Fuente comercial (Adam Ladd Design / Fontspring); no redistribuir, sólo referencia de estilo"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Anton",
+    "fuente": "Google Fonts; comprobado con fontTools.ttLib sobre el .ttf de fonts.gstatic.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre geométrica de trazo grueso, todo mayúsculas, con á é í ó ú ñ Ñ ¿ ¡ ü confirmados",
+    "para_que": "Sustituto libre del logo/título de Days Gone (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Oswald",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Sans condensada, con acentos completos",
+    "para_que": "Sustituto libre para las listas del menú principal del HUD (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bebas+Neue",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Sans condensada muy ajustada, para títulos pesados",
+    "para_que": "Sustituto libre para títulos de pantalla del HUD tipo 'SKILLS' (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rye",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra slab ancha de estilo western/parche bordado, con acentos completos",
+    "para_que": "Sustituto libre para el rótulo 'NOMAD' del parche de motero (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Fjalla+One",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Sans fina y alta en versales, con acentos",
+    "para_que": "Sustituto libre para cartelas de misión/subtítulos superpuestos (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Bark014",
+    "fuente": "ambientCG (API v2 full_json); vista previa 1024×1024 medida con Pillow, material descargable hasta 8K en la propia web",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de corteza de pino ('Bark014')",
+    "para_que": "Textura real equivalente para el bosque de coníferas del noroeste de Oregón (punto 18, cruce con punto 4)",
+    "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal063",
+    "fuente": "ambientCG (API v2 full_json)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de metal oxidado ('Metal063')",
+    "para_que": "Textura real equivalente para chatarra/moteros/NERO oxidado (punto 18, cruce con punto 4)",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rock064",
+    "fuente": "ambientCG (API v2 full_json)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de roca volcánica ('Rock064')",
+    "para_que": "Textura real equivalente para Belknap Crater y terreno volcánico (punto 18, cruce con punto 4)",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/daysgone/images/6/67/DaysGone-Miniguninventory.png",
+    "fuente": "Days Gone Wiki (Fandom), imageinfo de la API confirma 907×602",
+    "ancho": 907,
+    "alto": 602,
+    "que_es": "Icono de inventario del Mini-Gun, arma cortada sólo accesible por menú de depuración",
+    "para_que": "Contenido descartado/prototipo para el punto 11 (equivalente a lo que documentaría TCRF, que no tiene página de este juego)",
+    "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/daysgone/images/d/d9/Days-Gone-Rocket-Launcher.jpg",
+    "fuente": "Days Gone Wiki (Fandom), imageinfo de la API confirma 1920×1080",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "El MATADOR (lanzacohetes) en su caja de almacenaje en el campamento de Wizard Island; arma no utilizable por el jugador",
+    "para_que": "Contenido descartado/prototipo para el punto 11",
+    "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/daysgone/images/7/79/Days-Gone-Table-Glock.jpg",
+    "fuente": "Days Gone Wiki (Fandom), imageinfo de la API confirma 1920×1080",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Glock 34 (Tactical 9) inutilizable sobre una mesa de mercader, arma cortada del juego final",
+    "para_que": "Contenido descartado/prototipo para el punto 11",
+    "licencia": "© Sony Interactive Entertainment / Bend Studio; sólo referencia"
+  },
+  {
+    "url": "https://www.dafont.com/forum/read/301026/days-gone-font",
+    "fuente": "Foro de dafont.com, hilo donde el autor original de la pregunta identifica y confirma la fuente",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hilo de identificación tipográfica: el logo de Days Gone es Refrigerator Deluxe Heavy con puntos añadidos a mano",
+    "para_que": "Fuente del dato tipográfico del logo oficial (punto 5)",
+    "licencia": "Foro público, sólo referencia textual (no es una imagen para usar)"
+  }
+]

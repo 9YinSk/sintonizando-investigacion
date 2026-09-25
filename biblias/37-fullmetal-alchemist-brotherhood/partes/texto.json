@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/fma/images/4/47/Chapter1.jpg/revision/latest?cb=20180518181429",
+    "fuente": "Fullmetal Alchemist Wiki (Fandom)",
+    "ancho": 1800,
+    "alto": 1350,
+    "que_es": "Portada del capítulo 1 del manga (\"The Two Alchemists\"): Ed y Al sobre un círculo de transmutación, con el título y el icono de la cruz de Flamel",
+    "para_que": "referencia directa de cómo FMA rotula sus cuadros de diálogo/portadas: tipografía del título, icono, círculo de transmutación pintado",
+    "licencia": "© Hiromu Arakawa / Square Enix; sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/fma/images/1/1c/Pocketwatch.png/revision/latest?cb=20130929183154",
+    "fuente": "Fullmetal Alchemist Wiki (Fandom)",
+    "ancho": 1280,
+    "alto": 800,
+    "que_es": "Reloj de plata de Alquimista Estatal, con el Dragón de Amestris sobre un hexágono y corona de laureles, sobre cojín morado",
+    "para_que": "el símbolo/objeto que más se repite como \"credencial\" de los protagonistas; colores medidos: plata #ECEEF2, cojín #4C3D64",
+    "licencia": "© Studio BONES / Square Enix (fotograma de anime); sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/fma/images/e/e8/Truth.png/revision/latest?cb=20141129164933",
+    "fuente": "Fullmetal Alchemist Wiki (Fandom)",
+    "ancho": 1280,
+    "alto": 800,
+    "que_es": "La Verdad/La Puerta: silueta blanca infantil sobre fondo granulado negro y blanco",
+    "para_que": "referencia de filtro de grano y textura para escenas de La Puerta; entidad clave del punto 25",
+    "licencia": "© Studio BONES / Square Enix (fotograma de anime); sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png/revision/latest?cb=20131124145205",
+    "fuente": "Fullmetal Alchemist Wiki (Fandom)",
+    "ancho": 1143,
+    "alto": 1600,
+    "que_es": "Póster oficial de Fullmetal Alchemist: Brotherhood, todo el reparto principal",
+    "para_que": "paleta y estilo de sombreado medidos con estilo.py: línea #544D4A (no negro puro), sombreado degradado/pintado, saturación 21%, brillo 48%",
+    "licencia": "© Studio BONES / Square Enix; sólo referencia, requiere cabecera Referer: https://www.fandom.com/"
+  },
+  {
+    "url": "https://www.video-games-museum.com/en/screenshots/PSP/2/43998-menu-Fullmetal-Alchemist-Brotherhood.jpg",
+    "fuente": "The Video Games Museum",
+    "ancho": 480,
+    "alto": 272,
+    "que_es": "Captura real del menú principal de Fullmetal Alchemist: Brotherhood (PSP, 2010, Bandai Namco)",
+    "para_que": "único juego de la franquicia con interfaz vista y medida de verdad: panel granate #6B0000, icono de la cruz de Flamel, texto dorado",
+    "licencia": "© Bandai Namco / Square Enix; sólo referencia"
+  },
+  {
+    "url": "https://www.video-games-museum.com/en/screenshots/PSP/3/43998-ingame-Fullmetal-Alchemist-Brotherhood.jpg",
+    "fuente": "The Video Games Museum",
+    "ancho": 480,
+    "alto": 272,
+    "que_es": "Captura real de combate en Fullmetal Alchemist: Brotherhood (PSP)",
+    "para_que": "referencia de HUD: nombres flotantes, barra de vida horizontal, marcador de turno",
+    "licencia": "© Bandai Namco / Square Enix; sólo referencia"
+  },
+  {
+    "url": "https://www.video-games-museum.com/en/screenshots/PSP/1/43998-title-Fullmetal-Alchemist-Brotherhood.jpg",
+    "fuente": "The Video Games Museum",
+    "ancho": 480,
+    "alto": 272,
+    "que_es": "Pantalla de título de Fullmetal Alchemist: Brotherhood (PSP)",
+    "para_que": "referencia de logo/tipografía en el contexto del videojuego",
+    "licencia": "© Bandai Namco / Square Enix; sólo referencia"
+  }
+]

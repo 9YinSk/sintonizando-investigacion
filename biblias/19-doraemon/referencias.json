@@ -1,0 +1,2189 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/07/4D_Pocket.png",
+    "fuente": "Fandom, wiki de Doraemon (File:4D Pocket.png); tamaño de la API",
+    "ancho": 2151,
+    "alto": 1210,
+    "que_es": "El bolsillo 4D (media luna blanca) sobre rayos azules con destellos y la cartela roja «四次元ポケット», tal como sale en el anime al anunciar un invento (hoja objetos_01.jpg n.º 58)",
+    "para_que": "Objeto del encargo: forma del bolsillo para Blender y el «fondo de rayos» y la letra de cartela para el anuncio del concepto A",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://www.dropbox.com/s/vnho086qmwv4y0v/Wallpaper04.jpg?dl=1",
+    "fuente": "dora-world.com/contents/1399 (fondos oficiales para videollamadas, abril 2020), espejo en Dropbox; medido al bajarlo",
+    "ancho": 1280,
+    "alto": 894,
+    "que_es": "Fondo oficial de producción: cuarto de Nobita, lado del escritorio (cortina verde, estantería, mochila), sin personajes",
+    "para_que": "Base del concepto A; paleta medida #C1DBAA #D3B177 #E7EBE6",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; regalo oficial para uso personal; tapar la marca «DORAEMON Channel»"
+  },
+  {
+    "url": "https://www.dropbox.com/s/71u5znm49vhn49w/Wallpaper05.jpg?dl=1",
+    "fuente": "dora-world.com/contents/1399 (fondos oficiales para videollamadas, abril 2020), espejo en Dropbox; medido al bajarlo",
+    "ancho": 1280,
+    "alto": 894,
+    "que_es": "Fondo oficial de producción: cuarto de Nobita, lado del armario (oshiire) donde duerme Doraemon y la puerta naranja",
+    "para_que": "Segundo ángulo del cuarto; lámina 2",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; regalo oficial para uso personal; tapar la marca «DORAEMON Channel»"
+  },
+  {
+    "url": "https://www.dropbox.com/s/uk3juifiwls5geh/Wallpaper03.jpg?dl=1",
+    "fuente": "dora-world.com/contents/1399 (fondos oficiales para videollamadas, abril 2020), espejo en Dropbox; medido al bajarlo",
+    "ancho": 1280,
+    "alto": 894,
+    "que_es": "Fondo oficial de producción: el descampado con las tres tuberías, árbol y casas, de día",
+    "para_que": "Base del concepto C; cielo #E4ECF1/#67C3EE, tierra #D8D69D",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; regalo oficial para uso personal; tapar la marca «DORAEMON Channel»"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/d/d1/Doraemon_2005_Anime_Remake.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 877,
+    "alto": 1248,
+    "que_es": "Retrato oficial limpio de Doraemon, modelo 2005, sin fondo",
+    "para_que": "Pose base y colores medidos: azul #1D99C8, rojo #E02333, cascabel #FCDC2A",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/3/3e/DoraemonTimeMachine.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 2048,
+    "alto": 1632,
+    "que_es": "Cel de producción pintado a mano: Doraemon conduce un barco del tiempo con Nobita y una niña de rojo; se ve la cinta de papel (hoja personajes_01.jpg n.º 2)",
+    "para_que": "Color plano de producción (azul #0072B8); referencia de estilo para la IA",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/7/78/Voice_thickener.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Voice thickener.jpg); tamaño de la API",
+    "ancho": 1450,
+    "alto": 954,
+    "que_es": "Cartela del invento «Voice Thickener / コエカタマリン» en letra amarilla sobre rayos verdes (hoja objetos_01.jpg n.º 85)",
+    "para_que": "Guiño para un servidor de voz y doblaje (concepto A); cómo se rotula un invento",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/8/8a/Gian_ID_card.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Gian ID card.jpg); tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Gigante con una guitarra, rótulo «GIAN TAKESHI.G.» (hoja personajes_01.jpg n.º 17)",
+    "para_que": "Pose viva con instrumento: Gigante presentando una «Pista sin voz» (concepto C)",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3402n2?t=20",
+    "fuente": "Dailymotion (copia de terceros); fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Gigante da su recital en el descampado de noche: esmoquin blanco, capa roja, ojos cerrados, brazo extendido, micrófono, confeti y focos (0:20)",
+    "para_que": "Pose de presentar/celebrar de Gigante y luz del concepto C: cielo #395A81, foco #CA5E41",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k1ck8?t=40",
+    "fuente": "Dailymotion (copia de terceros); fotograma mirado",
+    "ancho": 1280,
+    "alto": 756,
+    "que_es": "Opening 1979 con doblaje latino antiguo: Doraemon vuela con el Takecopter sobre bocetos de Da Vinci y los cuatro niños lo miran (0:40)",
+    "para_que": "Doraemon enseñando un invento en el aire; pose de grupo mirando arriba; paleta sepia #8D6E41",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=180",
+    "fuente": "Internet Archive, colección «Doraemon Español (Episodios 01-300)», grabación de TV con doblaje latino; fotograma mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "«El Pueblo de Nobita» (3:00): Nobita riega con una regadera un pueblo en miniatura hecho con un invento",
+    "para_que": "Un invento en uso, «así se usa»; frases latinas textuales en 0:54, 1:19 y 1:34",
+    "licencia": "Resubida de fans en Internet Archive; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/f/f1/YWK_last_shot.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:YWK last shot.jpg); tamaño de la API",
+    "ancho": 2046,
+    "alto": 1142,
+    "que_es": "Los cinco juntos sobre fondo amarillo, Doraemon en el centro con los brazos abiertos (hoja objetos_01.jpg n.º 64)",
+    "para_que": "Pose de presentar en grupo",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/f/fe/Takeshi_%281979%29_-_3.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Takeshi (1979) - 3.png); tamaño de la API",
+    "ancho": 1400,
+    "alto": 1152,
+    "que_es": "Gigante de 1979 corriendo para despegar (serie de cinco poses con el Takecopter) (hoja objetos_01.jpg n.º 76)",
+    "para_que": "Pose de acción recortable; ver también n.º 77, 79 y 80",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/e/eb/Time_Machine_2005_Anime_Original.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Time Machine 2005 Anime Original.png); tamaño de la API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Nobita y Doraemon sentados en la máquina del tiempo dentro del túnel (hoja objetos_01.jpg n.º 73)",
+    "para_que": "El cajón y el túnel del concepto A",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/a/a4/Path-Finding.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Path-Finding.jpg); tamaño de la API",
+    "ancho": 1617,
+    "alto": 1018,
+    "que_es": "Cartela «Path-Finding Stick / ミチサキステッキ» sobre rayos morados (hoja objetos_01.jpg n.º 74)",
+    "para_que": "Cómo se rotula un invento: letra roja con borde blanco",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/0c/Obtaining_Bag.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Obtaining Bag.png); tamaño de la API",
+    "ancho": 2100,
+    "alto": 1181,
+    "que_es": "Monedero rosa acolchado con cadena sobre rayos azules (otro invento anunciado) (hoja objetos_01.jpg n.º 59)",
+    "para_que": "Fondo de rayos del momento del invento",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/0c/Takeshi_artwork_%281973%29.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Takeshi artwork (1973).png); tamaño de la API",
+    "ancho": 2033,
+    "alto": 1296,
+    "que_es": "Hoja de modelo de Gigante de 1973, a línea: 10 caras y cuerpos (hoja objetos_01.jpg n.º 57)",
+    "para_que": "Única hoja de modelo pública encontrada; proporciones y expresiones",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/6/6c/Anywhere_Door_CGI.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Anywhere Door CGI.png); tamaño de la API",
+    "ancho": 1066,
+    "alto": 1067,
+    "que_es": "La puerta a cualquier lugar en 3D en una calle (hoja objetos_01.jpg n.º 86)",
+    "para_que": "El rosa de la puerta con luz real (#F17BAF de ficha)",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://www.dropbox.com/s/qvquqzlta7m0hp6/Wallpaper01.jpg?dl=1",
+    "fuente": "dora-world.com/contents/1399 (fondos oficiales para videollamadas, abril 2020), espejo en Dropbox; medido al bajarlo",
+    "ancho": 1280,
+    "alto": 929,
+    "que_es": "Fondo oficial: el túnel del tiempo con relojes blandos rojos, verdes y amarillos",
+    "para_que": "Lo que brilla dentro del cajón abierto",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; regalo oficial para uso personal; tapar la marca «DORAEMON Channel»"
+  },
+  {
+    "url": "https://www.dropbox.com/s/n77qhby5jq9tpfz/Wallpaper02.jpg?dl=1",
+    "fuente": "dora-world.com/contents/1399 (fondos oficiales para videollamadas, abril 2020), espejo en Dropbox; medido al bajarlo",
+    "ancho": 1280,
+    "alto": 905,
+    "que_es": "Fondo oficial: el túnel del tiempo, otro ángulo",
+    "para_que": "Alternativa del túnel",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; regalo oficial para uso personal; tapar la marca «DORAEMON Channel»"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/6/62/NobitaNobi2005R.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 162,
+    "alto": 270,
+    "que_es": "Retrato oficial limpio de Nobita, modelo 2005, sin fondo",
+    "para_que": "Colores de ropa medidos (§16); pequeño, no ampliar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/7/7c/ShizukaMinamoto2005R.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 153,
+    "alto": 270,
+    "que_es": "Retrato oficial limpio de Shizuka, modelo 2005, sin fondo",
+    "para_que": "Colores de ropa medidos (§16); pequeño, no ampliar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/8/80/SuneoHonekawa2005R.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 144,
+    "alto": 270,
+    "que_es": "Retrato oficial limpio de Suneo, modelo 2005, sin fondo",
+    "para_que": "Colores de ropa medidos (§16); pequeño, no ampliar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/1/1e/TakeshiGouda2005R.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 192,
+    "alto": 270,
+    "que_es": "Retrato oficial limpio de Gigante (Takeshi Gouda), modelo 2005, sin fondo",
+    "para_que": "Colores de ropa medidos (§16); pequeño, no ampliar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/50/Doraemon_Nobita_and_Gian.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Doraemon, Nobita y Gigante abrazados en el bosque (hoja personajes_01.jpg n.º 15)",
+    "para_que": "Amistad; naranja de Gigante en escena #D78241",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/b/b7/Nobita_Gian_and_Suneo.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Nobita Gian and Suneo.jpg); tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita, Gigante y Suneo saltando de alegría sobre fondo de rayos (hoja personajes_01.jpg n.º 43)",
+    "para_que": "Pose de celebrar en grupo",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/5d/Four_together_happy.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Four together happy.jpg); tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Los cuatro niños contentos en la calle (hoja personajes_01.jpg n.º 16)",
+    "para_que": "Grupo, celebrar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/9/92/Gian_mad.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Gian mad.jpg); tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Gigante enfadado en primer plano, puño y dientes (hoja personajes_01.jpg n.º 28)",
+    "para_que": "Regañar",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/2/24/Handsome_Gian.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Handsome Gian.png); tamaño de la API",
+    "ancho": 5016,
+    "alto": 2822,
+    "que_es": "«Handsome Gian»: Gigante «guapo», meme del fandom (hoja personajes_01.jpg n.º 1)",
+    "para_que": "Meme reconocible; la cara más grande disponible",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/01/Takeshi_2005_Original.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Takeshi 2005 Original.png); tamaño de la API",
+    "ancho": 2344,
+    "alto": 1320,
+    "que_es": "Gigante, modelo 2005 limpio (hoja objetos_01.jpg n.º 56)",
+    "para_que": "Comparar con el de 1973",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/f/f4/Thedoraemonsrobotschool_anywheredoorwarning.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Thedoraemonsrobotschool anywheredoorwarning.jpg); tamaño de la API",
+    "ancho": 1440,
+    "alto": 1024,
+    "que_es": "Página de manga en inglés con la puerta a cualquier lugar (hoja objetos_01.jpg n.º 81)",
+    "para_que": "Cómo son los globos del manga (redondos, línea fina)",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/a/ae/Act_Predictor_Lens.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Act Predictor Lens.png); tamaño de la API",
+    "ancho": 1599,
+    "alto": 899,
+    "que_es": "Cartela del invento «するとレンズ» (Act Predictor Lens) (hoja objetos_01.jpg n.º 82)",
+    "para_que": "Otra cartela de invento",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/e/ea/Small_light_movie_2021.jpg",
+    "fuente": "Fandom, wiki de Doraemon (File:Small light movie 2021.jpg); tamaño de la API",
+    "ancho": 1562,
+    "alto": 1050,
+    "que_es": "La linterna pequeña (Small Light) en la película de 2021 (hoja objetos_01.jpg n.º 75)",
+    "para_que": "Objeto icónico con luz",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/c/cb/Dramitimemachine.png",
+    "fuente": "Fandom, wiki de Doraemon (File:Dramitimemachine.png); tamaño de la API",
+    "ancho": 1712,
+    "alto": 1880,
+    "que_es": "La máquina del tiempo de Dorami, con forma de tulipán naranja (hoja personajes_01.jpg n.º 3)",
+    "para_que": "Objeto de Dorami (lámina 2)",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/a/a0/Gian_manga.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño medido",
+    "ancho": 200,
+    "alto": 221,
+    "que_es": "Recorte de página de manga con Gigante: línea limpia de grosor igual, sin trama",
+    "para_que": "Estilo de línea y ausencia de tramas (Punto 18 y 19)",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x33a56v?t=30",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler en español de Stand by Me Doraemon (0:30): Nobita en 3D, cabizbajo con la mochila, choca con la puerta corredera; cuarto de día",
+    "para_que": "Luz 3D del cuarto de día: #A09B7F #B8B495 #F9F9E1",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x33a56v?t=60",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "El mismo tráiler (1:00): Doraemon y Nobita gritan abrazados sobre el tatami, de noche, un rayo de ventana",
+    "para_que": "Sorpresa conjunta; luz de noche, brillo 13%",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k1ck8?t=5",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 756,
+    "que_es": "Opening 1979 (0:05): Doraemon sale girando del túnel azul",
+    "para_que": "Paleta del túnel #0F1113 #2F4863 #3F728B",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k1ck8?t=13",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 756,
+    "que_es": "Opening 1979 con doblaje latino antiguo (0:13): se canta «Doraemon, el gato cósmico»",
+    "para_que": "Frase latina textual (Whisper); nostalgia latina",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2uugoz?t=10",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Gigante con cejas en zigzag y ojos redondos en una cabina (película sin identificar; copia con marca de canal pirata)",
+    "para_que": "Cara de miedo de Gigante",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2vhonl?t=10",
+    "fuente": "Dailymotion; fotograma sacado con fotogramas.py y mirado",
+    "ancho": 1280,
+    "alto": 960,
+    "que_es": "Ending con doblaje de España (0:10): cielo pastel y siluetas de niños; copia descolorida",
+    "para_que": "Tono del cierre; no es latino",
+    "licencia": "Vídeo de terceros en Dailymotion; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%20184%20-%20El%20indicador%20del%20desorden%20.mp4?t=180",
+    "fuente": "Internet Archive; fotograma verificado a tamaño completo",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "«Un mundo sin dinero» (archivo mal nombrado «Episodio 184»), 3:00-3:09: Nobita llora tapándose la cara y su papá lo abraza",
+    "para_que": "La única cara de tristeza vista con minuto",
+    "licencia": "Resubida de fans en Internet Archive; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=30",
+    "fuente": "Internet Archive; fotograma mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "«El Pueblo de Nobita» (0:30): Doraemon y Nobita, brazos arriba, señalan una placa en la pared; calle de día",
+    "para_que": "Pose de presentar (2D clásico); paleta de la calle #8D9679 #2B4036",
+    "licencia": "Resubida de fans en Internet Archive; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=90",
+    "fuente": "Internet Archive; fotograma mirado",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "«El Pueblo de Nobita» (1:30): el cuarto de la serie clásica, tatami verde amarillento",
+    "para_que": "Tatami medido #A7A741 #658D36",
+    "licencia": "Resubida de fans en Internet Archive; © titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.doraemon-world.com/wp-content/uploads/2025/04/25SS-Doraemon_Louvre_1200x628.jpg",
+    "fuente": "doraemon-world.com; tamaño medido",
+    "ancho": 1200,
+    "alto": 628,
+    "que_es": "Colaboración UNIQLO UT × Louvre (abril 2025): Doraemon metido en cuadros del Louvre",
+    "para_que": "Pose y ropa nuevas de colaboración; idea de «un personaje dentro de otro objeto»",
+    "licencia": "© Fujiko-Pro / UNIQLO / Musée du Louvre; sólo referencia"
+  },
+  {
+    "url": "https://www.shogakukan.co.jp/pr/tencomi/doraemon/images/cover1_1.png",
+    "fuente": "Shogakukan (catálogo oficial de Tentōmushi Comics)",
+    "ancho": 200,
+    "alto": 316,
+    "que_es": "Portada oficial del tomo 1 del manga (miniatura del catálogo)",
+    "para_que": "Portada de tomo como arte oficial variado; hay 83 portadas más en la misma página",
+    "licencia": "© Fujiko-Pro / Shogakukan, uso editorial no comercial"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/501.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 650,
+    "que_es": "Portada/banner oficial usado por AniList para la serie",
+    "para_que": "Referencia rápida de key art usado internacionalmente",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV-Asahi / Shin-ei / ADK, uso de referencia no comercial"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-7b1db542a10f40da9a250c33afb5325f",
+    "fuente": "Sketchfab (API v3, confirmado)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Doraemon por Andy (Pandabox), 355 me gusta",
+    "para_que": "Referencia de proporciones y topología para un render 3D del personaje",
+    "licencia": "CC Attribution (CC BY) — requiere crédito al autor"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-7ac2289be8be408292b29a06f8f40a71",
+    "fuente": "Sketchfab (API v3, confirmado)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D «Nobita's Room (Doraemon)» por Cre8t!ve V!be, 77 me gusta",
+    "para_que": "Medidas de referencia del cuarto: escritorio, estantería, tatami, proporción de los muebles",
+    "licencia": "CC Attribution (CC BY) — requiere crédito al autor"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-73672e27df964ebc8bc1d72a639c4896",
+    "fuente": "Sketchfab (API v3, confirmado)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D «Doraemon Lucky Cat» por Patrickart.hk, 280 me gusta",
+    "para_que": "Variante estilizada de Doraemon como referencia de pose/diseño alternativo",
+    "licencia": "CC Attribution (CC BY) — requiere crédito al autor"
+  },
+  {
+    "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+    "fuente": "Safebooru (origen: X/Twitter @totototo0507)",
+    "ancho": 2520,
+    "alto": 2520,
+    "que_es": "Fan art de Doraemon y Suneo, el mejor valorado de Safebooru para estos personajes (16 puntos)",
+    "para_que": "Referencia de encuadre y color de fan art reciente, NUNCA para pegar, sólo mirar",
+    "licencia": "Derechos del autor original (no libre); sólo referencia, citar autor y origen"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mzwl1.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3088,
+    "alto": 4667,
+    "que_es": "Fondo de pantalla de fans centrado en Shizuka Minamoto, autor «wuchen001» (Bilibili), 104 me gusta",
+    "para_que": "Referencia de fondo de pantalla de fans en muy alta resolución con el personaje secundario más querido",
+    "licencia": "Derechos del autor original (no libre); sólo referencia, citar autor y origen"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/k8/wallhaven-k8359q.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 5120,
+    "alto": 2880,
+    "que_es": "Fondo de pantalla de fans con Doraemon, Nobita y Shizuka juntos, fondo simple y brillante",
+    "para_que": "Referencia de composición de grupo en fondo de pantalla de muy alta resolución (5K)",
+    "licencia": "Derechos del autor original (no libre); sólo referencia, citar autor y origen"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/2/21/Ha.jpeg",
+    "fuente": "Doraemon Fandom Wiki",
+    "ancho": 2688,
+    "alto": 1174,
+    "que_es": "Fotograma en alta resolución de Nobita reaccionando",
+    "para_que": "Referencia de expresión y proporción de cara en alta resolución",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV-Asahi / Shin-ei / ADK, uso de referencia no comercial"
+  },
+  {
+    "url": "https://archive.org/details/episodio-737-chip-de-reservacion",
+    "fuente": "Internet Archive · colección de episodios doblados (reutilizada de partes/voz.json, no repetida)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio 01 'El Pueblo de Nobita', doblaje latino real, grabación de TV con logo de canal ecuatoriano. Fotogramas vistos en 0:30 (casa, exterior), 1:30 (tatami verde real), 3:00 y 5:00 (pueblo en miniatura, el invento en uso)",
+    "para_que": "Punto 2, 4 y 14: escena icónica real con doblaje latino, paleta real de la casa/calle y del tatami (corrige el hex 'de memoria' de la biblia), pose de Nobita usando un invento",
+    "licencia": "Resubida de fans en Internet Archive; sólo cita e investigación, no redistribuir el vídeo"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/we/wallhaven-wejgqr.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por jrmnt; © su autor",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (John Stone, digital art, artwork, illustration, digital painting, desk)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/q2/wallhaven-q2zpeq.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por rainrelaxme; © su autor",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Doraemon, indoors, tatami)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/5y/wallhaven-5ypgv9.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por ThorRagnarok; © su autor",
+    "ancho": 2400,
+    "alto": 3597,
+    "que_es": "Fondo de pantalla (Nobi Tamako (Doraemon), Doraemon, anime, anime girls, portrait display, glasses)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8yl7p.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por 恰好心动; © su autor",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (anime, simple background, minimalism, anime creatures, Doraemon)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/1q/wallhaven-1qqxpg.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por Rkomy; © su autor",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (Doraemon, manga, heart, simple background, blue background, artwork)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/lq/wallhaven-lqqxlq.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por whhitlp; © su autor",
+    "ancho": 1920,
+    "alto": 1200,
+    "que_es": "Fondo de pantalla (Doraemon, mice, toys, figurines, indoors, reflection)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzrz3q.jpg",
+    "fuente": "Wallhaven (API): tamaño y ♥ medidos; subido por Paititi; © su autor",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Doraemon, Nobita, Sunio, Shizuka Minamoto, Nobita Nobi, Takeshi Gouda)",
+    "para_que": "Fondo de pantalla de fans en alta: sólo mirar encuadre y color",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-d60a33c2a0e0487ca13115f04a65e0ee",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Doraemon (Fan Art) de Takiri Cube",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-1c6ff7650cb5467d9871bffd4030eca1",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Doraemon City de Aizen",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ceaae7c24fb2469d956ad15622f1470f",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: pubg Pochinki de Doraimon",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-61f68f52f5384161a2da26a5e4a1c174",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Suraj-doremon de Suraj Jena",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-1a54ed50a2b24d758c8e14e744a4d637",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Nobita de hito127",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-54daadccf4434f85b30f6c22bc1830e1",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Tin Airship in Nobita and the Tin Labyrinth de chemicalX",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-632414a46ea7492bbc5f3fd856f99676",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Doraemon 3D Model de ItsKrish7",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-be39bdeddc3647739ba5996a1a8a1e88",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Shizuka 3D Model For Retopology. de Asim-ali",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "Free Standard ⚠️ no es CC: comprobar antes de usar"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e05f60fed1de499eb07dae51fd2d2f70",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Suneo de dannilloboyy",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-521844bf0f7645d792312881dfaa99ba",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: 3D Movie Maker - Shizuka de dannilloboyy",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-66f9ffe107f2491b9ef780f8463b2100",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Doraemon Character 3D de ItsKrish7",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8abc15899c494f4f9e1074be465cde8a",
+    "fuente": "Sketchfab (licencia por su API)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Dekisugi de dannilloboyy",
+    "para_que": "Modelo 3D de referencia para Blender; dar crédito al autor",
+    "licencia": "CC Attribution (CC BY: nombrar al autor; el personaje es de Fujiko Pro)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/1/12/Doraemon%27s_Eyes.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 3360,
+    "alto": 1888,
+    "que_es": "Doraemon: Doraemon's Eyes.png",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/e/ee/Hey_stop.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2688,
+    "alto": 1242,
+    "que_es": "Nobita Nobi: Hey stop.png",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/3/35/Are.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2688,
+    "alto": 1242,
+    "que_es": "Nobita Nobi: Are.png",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/d/dd/Ah.png",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2688,
+    "alto": 1242,
+    "que_es": "Nobita Nobi: Ah.png",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/9/9b/Nobita_Shizuka_suneo_worried_abt_gians_cooking.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita Nobi: Nobita Shizuka suneo worried abt gians cooking.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/d/d7/Nobita_Shizuka_Suneo_worried.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita Nobi: Nobita Shizuka Suneo worried.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/a/ae/Nobita_Shizuka_Suneo_scared.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita Nobi: Nobita Shizuka Suneo scared.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/5b/Nobita_Shizuka_Doraemon_hungry_look.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita Nobi: Nobita Shizuka Doraemon hungry look.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/c/cb/Nobita_Shizuka_Doraemon_hungry_look_2.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Nobita Nobi: Nobita Shizuka Doraemon hungry look 2.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/08/Shizuka_angry.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka angry.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/59/Shizuka_and_Suneo.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka and Suneo.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/8/82/Shizuka_and_Nobita.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka and Nobita.jpg ⚠️ mal titulada en la wiki: la niña no es Shizuka (falda verde, ropa de gimnasia)",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/2/21/Shizuka_amazed_shocked.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka amazed shocked.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/d/d2/Shizuka_Suneo_scared.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka Suneo scared.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/3/3b/Shizuka_Suneo_Gian_and_Cat.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka Suneo Gian and Cat.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/f/f2/Shizuka_Nobita_and_Suneo_crash.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka Nobita and Suneo crash.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/f/f7/Shizuka_Gian_and_Suneo_mixed_up.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Shizuka Gian and Suneo mixed up.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/9/98/Sadness_Nobita_Shizuka_Suneo.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Shizuka Minamoto: Sadness Nobita Shizuka Suneo.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/b/bf/Suneo_and_Sunetsugu_1979_.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Sunetsugu 1979 .jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/9/9a/Suneo_and_Nobita.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Nobita.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/3/3a/Suneo_and_Nobita_cracking_up.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Nobita cracking up.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/5f/Suneo_and_Gian.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/02/Suneo_and_Gian_with_tongue_sticking_out.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian with tongue sticking out.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/b/bf/Suneo_and_Gian_smirking.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian smirking.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/a/ad/Suneo_and_Gian_behind_telephone_pole.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian behind telephone pole.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/5/5b/Suneo_and_Gian_amazed.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian amazed.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/0/06/Suneo_and_Gian_2015.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Gian 2015.jpg",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doraemon/images/4/45/Suneo_and_Doraemon.jpg",
+    "fuente": "Fandom, wiki de Doraemon; tamaño de la API",
+    "ancho": 2048,
+    "alto": 1536,
+    "que_es": "Suneo Honekawa: Suneo and Doraemon.jpg ⚠️ mal titulada: el niño lleva gafas, es Nobita con suéter verde menta",
+    "para_que": "Fotograma de expresión o grupo (sin minuto) para caras y poses",
+    "licencia": "© Fujiko-Pro / Shogakukan / TV Asahi / Shin-Ei / ADK; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/b93bd34056b5751707ce6881c58b7512ef44b3de/ss_b93bd34056b5751707ce6881c58b7512ef44b3de.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/428e599e2613fd92bc290a5e6b375d13b11528bf/ss_428e599e2613fd92bc290a5e6b375d13b11528bf.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/b45a258fa4f3d8ad172d3dc5ef950675180b4aa9/ss_b45a258fa4f3d8ad172d3dc5ef950675180b4aa9.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/3727bb0a8f744cb1a1702792bfb254e5b4d3f400/ss_3727bb0a8f744cb1a1702792bfb254e5b4d3f400.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/ddd367e4f4a515b638fd89621530e07949b535d6/ss_ddd367e4f4a515b638fd89621530e07949b535d6.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/24394f6d613d6316156574b3464a4731311d349b/ss_24394f6d613d6316156574b3464a4731311d349b.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Doraemon Dorayaki Shop Story",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_c6c598c4ee381645e9b419996197adfef8566596.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_967e0bc2a09178380693885be2dfc99763c141ae.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_028d542a24c76c1b6102f0a73ae099b238539d97.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_fc5cba401f848132f805214dd009b9c2bb89a058.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_860c5e7b41aadfd3da001b4d3b1bcebda38efb08.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965230/ss_033b3792f5cf9afcf88cf9004b302419bd5a7ac2.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON  STORY OF SEASONS",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_876a35d7c62230738f2a923d6c32ed6bf58c7618.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_dfd90bb385bc2754ce937ddb3a0ea19130586e85.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_25e47d1e34495b05eac0a7603143c60da6625d73.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_eb8f52e0b9a54c41fc24b83ca5ee640072791daa.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_1d64ec3cd852551f57911aa98abf04fac66db6df.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492730/ss_3a94e290f47a940e0fb678396f3745c1fdd82f80.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_2f5dc7d63368dfbed64672bebe3c7102a7ed6f32.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_c252dbb023882453d0157a576fd0d3d71c9533f4.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_6e542e84ffa14f74bd215137adfcdda1898b9f37.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_4c2a544323aaac62eb2bd043786f6223f91ef75c.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_f8dd66256719c6f95ea5656ad2f315c8b3193e7b.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062255/ss_87c6ac2143eea5f7a49a47e8ed5447a9956ba245.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Pase de temporada",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062252/ss_2f5dc7d63368dfbed64672bebe3c7102a7ed6f32.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom - Historias de invierno",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062252/ss_c252dbb023882453d0157a576fd0d3d71c9533f4.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la tienda)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de DORAEMON STORY OF SEASONS: Friends of the Great Kingdom - Historias de invierno",
+    "para_que": "Interfaz, menús y cuadro de diálogo del juego (sin abrir una a una)",
+    "licencia": "© Marvelous / Kairosoft / Fujiko-Pro; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 1023,
+    "alto": 3043,
+    "que_es": "Fan art de doraemon_(character) (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 2893,
+    "alto": 2343,
+    "que_es": "Fan art de doraemon_(character) (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27092465)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/727/8e5bf46b2047bd20aba8fbd1afb76c5a82aa8d93.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 1756,
+    "alto": 1586,
+    "que_es": "Fan art de doraemon_(character) (http://www.pixiv.net/artworks/22864882)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 2048,
+    "alto": 1593,
+    "que_es": "Fan art de doraemon_(character) (https://x.com/doremifaso64/status/2051643073260892442)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1273/46ca9f351db89ded43fbf85e19f587ef32a02ed1.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 561,
+    "alto": 600,
+    "que_es": "Fan art de doraemon_(character) (http://i1.pixiv.net/img-original/img/2015/01/31/00/42/09/48462628_p4.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/472/ef8e903879ce75ba3a5ec1e351d46eef2248c095.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 592,
+    "alto": 464,
+    "que_es": "Fan art de nobi_nobita (sin origen)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1533/e88bb564de1de145b1c257ac2771b65527c84382.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 520,
+    "alto": 650,
+    "que_es": "Fan art de nobi_nobita (http://i1.pixiv.net/img-original/img/2015/06/18/00/10/43/50950992_p0.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/139/5fef301aa63cd050606b43d78dcfcdd1710d3e02.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 1000,
+    "alto": 870,
+    "que_es": "Fan art de nobi_nobita (http://img15.pixiv.net/img/matataku-jijy/5976589.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/147/efc3e1740c93b4d55589f2dd376c45e0cfdd0563.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 537,
+    "alto": 800,
+    "que_es": "Fan art de nobi_nobita (http://ultrasatou.hp.infoseek.co.jp/312.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/501/7457609beb5a940008f8eb38fd205e38af541888.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 1280,
+    "alto": 1468,
+    "que_es": "Fan art de nobi_nobita (http://img07.pixiv.net/img/g-tetsu/14102302.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2075/25dcb27b778fe410ee77d7797966dfc865a77f9b.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 1323,
+    "alto": 1488,
+    "que_es": "Fan art de minamoto_shizuka (http://i1.pixiv.net/img-original/img/2016/06/18/00/01/29/57452132_p0.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/743/3b1acf4b5a23bb7bd0ef4a6acfd2e22df5547a00.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 663,
+    "alto": 800,
+    "que_es": "Fan art de minamoto_shizuka (http://img78.pixiv.net/img/jackdoa/24085725.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1747/31fe5965956045aa9ec70826a41ad4cab40d3a7c.png",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 650,
+    "alto": 650,
+    "que_es": "Fan art de minamoto_shizuka (https://twitter.com/poppuqn/status/750633207029125120)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1507/b7fde2b7526d45a4747914d37cd1755cffd6b408.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 433,
+    "alto": 1000,
+    "que_es": "Fan art de minamoto_shizuka (http://i3.pixiv.net/img-original/img/2015/09/10/00/06/24/52451434_p0.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/214/022a0171ce723b23bd988727b75e4302108173c8.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 400,
+    "alto": 550,
+    "que_es": "Fan art de minamoto_shizuka (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=330695)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1567/a6bde28ab269623418bd54d2295af02c207256d5.png",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 500,
+    "alto": 650,
+    "que_es": "Fan art de honekawa_suneo (https://twitter.com/poppuqn/status/662940484113862656)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/298/57c73c78f6b1fa194181111213b17656e961c78c.jpg",
+    "fuente": "Safebooru (enlaza el origen en Pixiv o X)",
+    "ancho": 4800,
+    "alto": 400,
+    "que_es": "Fan art de honekawa_suneo (http://img02.pixiv.net/img/ksuk/915643.jpg)",
+    "para_que": "Fan art: sólo encuadre y color, nunca pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://live.staticflickr.com/44/146729298_09935ccd37_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Doraemon Guitar",
+    "para_que": "Merchandising y objetos reales con luz real",
+    "licencia": "CC BY 2.0, autor Adrian F"
+  },
+  {
+    "url": "https://live.staticflickr.com/3610/3549190606_4831a59107_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 768,
+    "alto": 1024,
+    "que_es": "Doraemon Proof Shot",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-ND 2.0, autor Wootang01"
+  },
+  {
+    "url": "https://live.staticflickr.com/3568/3549175570_61b2c818f5_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Doraemon chalk",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-ND 2.0, autor Wootang01"
+  },
+  {
+    "url": "https://live.staticflickr.com/2234/3541290988_99c0ce9945_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 685,
+    "que_es": "Doraemon cupcake - ドラえもん カープ ケイキ",
+    "para_que": "Merchandising y objetos reales con luz real",
+    "licencia": "CC BY 2.0, autor Cillian Storm"
+  },
+  {
+    "url": "https://live.staticflickr.com/3428/3246877938_195c2355f6_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Doraemon Wallpaper",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-ND 2.0, autor SoQ錫濛譙"
+  },
+  {
+    "url": "https://live.staticflickr.com/13/18473088_1cfedaba5d.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 500,
+    "alto": 333,
+    "que_es": "Doraemon!",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor jakedobkin"
+  },
+  {
+    "url": "https://live.staticflickr.com/3868/14714179621_9615375684_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Doraemon",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor kirainet"
+  },
+  {
+    "url": "https://live.staticflickr.com/3299/3246068409_d74f327460_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Doraemon Wallpaper Feb. 2009",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-ND 2.0, autor SoQ錫濛譙"
+  },
+  {
+    "url": "https://live.staticflickr.com/2074/2090204763_fb74220aef_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "doraemon",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-ND 2.0, autor LiuTao"
+  },
+  {
+    "url": "https://live.staticflickr.com/4149/5004636592_9a8c5f0d4b_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 679,
+    "que_es": "DORAEMON",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor falcon_mohyan"
+  },
+  {
+    "url": "https://live.staticflickr.com/3275/2829786921_7ca2a96e59_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 768,
+    "alto": 1024,
+    "que_es": "Doraemon Vs. Yokohama Landmark Tower",
+    "para_que": "Merchandising y objetos reales con luz real",
+    "licencia": "CC BY-SA 2.0, autor DocChewbacca"
+  },
+  {
+    "url": "https://live.staticflickr.com/4001/4329433403_e920838f1b_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Doraemon Wallpaper Feb. 2010",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-ND 2.0, autor SoQ錫濛譙"
+  },
+  {
+    "url": "https://live.staticflickr.com/3021/2830617954_f1cb144984_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 762,
+    "que_es": "Doraemon, Pikachu, Anpanman, etc.",
+    "para_que": "Merchandising y objetos reales con luz real",
+    "licencia": "CC BY-SA 2.0, autor DocChewbacca"
+  },
+  {
+    "url": "https://live.staticflickr.com/2901/14727247333_ef42c052ff_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Doraemon ドラえもん",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor kirainet"
+  },
+  {
+    "url": "https://live.staticflickr.com/8022/7481089114_ee3cc73ffd.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 375,
+    "alto": 500,
+    "que_es": "DORAEMON",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor sorounge"
+  },
+  {
+    "url": "https://live.staticflickr.com/3/3891959_2af7144e82.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 500,
+    "alto": 375,
+    "que_es": "Doraemon what the...",
+    "para_que": "Merchandising y objetos reales con luz real",
+    "licencia": "CC BY-SA 2.0, autor 南宮博士"
+  },
+  {
+    "url": "https://live.staticflickr.com/5006/5259863196_119841d625_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 708,
+    "que_es": "Doraemon New Year Card",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC 2.0, autor engelene"
+  },
+  {
+    "url": "https://live.staticflickr.com/51/129120588_91382d36c1.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 500,
+    "alto": 375,
+    "que_es": "Doraemon Poster",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-ND 2.0, autor rendomthoughts"
+  },
+  {
+    "url": "https://live.staticflickr.com/3086/3160016056_96474f0a4d_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Doraemons",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC-SA 2.0, autor raemin"
+  },
+  {
+    "url": "https://live.staticflickr.com/7609/16627355497_72f5d1876d_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "GIRL ft. DORAEMON",
+    "para_que": "Merchandising y objetos reales con luz real (licencia NC/ND: sólo mirar)",
+    "licencia": "CC BY-NC 2.0, autor Hsuanya Tsai"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4304-4eXX8C1O4Pda.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Doraemon",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/4303.jpg",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Nobita Nobi",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8260-Hz17eZuElZ7U.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Shizuka Minamoto",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8261-qGxKWau5iZrf.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Suneo Honekawa",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8262-N2Lsf46EjZBf.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Takeshi Gouda",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31870-GGFedy239Ddk.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Retrato de Hidetoshi Dekisugi",
+    "para_que": "Retrato de personaje; sin medir",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/doraemon-en-la-tierra-secreta-doblaje-cubano-icaic-1985",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doblaje cubano del ICAIC (1985) de 'Doraemon en la tierra secreta', un tercer doblaje latino histórico que la biblia no tenía",
+    "para_que": "Punto 8: historia del doblaje latino, dato curioso para un servidor de doblaje",
+    "licencia": "Reubida de fans en Internet Archive; sólo cita, no redistribuir"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Doraemon_(1979)",
+    "fuente": "Doblaje Wiki (API directa, wikitext)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto latino completo del doblaje 1999-2011 (Rose Entertainment), dos etapas, por actor y rango de episodios: Doraemon (Ricardo Tejedo / Irwin Daayán en 4ª temporada), Nobita (Laura Torres, Ariadna Rivas, Rommy Mendoza), Shizuka, Suneo (Irwin Daayán), Gigante (Luis Daniel Ramírez), Dorami (María Fernanda Morales, Rebeca Gómez)",
+    "para_que": "Punto 8: doblaje latino, corrige el actor de Nobita en la 4ª temporada y confirma la voz de Dorami",
+    "licencia": "Texto de wiki bajo CC BY-SA (Fandom); datos de doblaje, no imagen"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Doraemon_(2005)",
+    "fuente": "Doblaje Wiki (API directa, wikitext)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto completo del doblaje 2014-2015 (Art Sound México, dir. Armando Coria) de la serie 2005: Doraemon (Irwin Daayán), Nobita (Laura Torres), Shizuka (Cristina Hernández), Suneo (Irwin Daayán), Gigante (Luis Daniel Ramírez), Dorami (Lupita Leal)",
+    "para_que": "Punto 8: doblaje latino actual, cierra el ⚠️ de la voz de Dorami que tenía la biblia",
+    "licencia": "Texto de wiki bajo CC BY-SA (Fandom); datos de doblaje, no imagen"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Qu%C3%A9date_conmigo,_Doraemon",
+    "fuente": "Doblaje Wiki (API directa, wikitext)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reparto y ficha técnica del doblaje Netflix de Stand by Me Doraemon (New Art Dub, dir. Irwin Daayán, traductora Jennifer Medel)",
+    "para_que": "Punto 8: confirma el reparto de la película y corrige el nombre de la traductora (Medel, no Mendel)",
+    "licencia": "Texto de wiki bajo CC BY-SA (Fandom); datos de doblaje, no imagen"
+  },
+  {
+    "url": "https://dubdb.fandom.com/wiki/Doraemon,_el_gato_c%C3%B3smico_(2005,_Latin_American_Spanish)",
+    "fuente": "The Dubbing Database (dubdb.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente del reparto 2014-2015 y del historial de emisión en Latinoamérica (Netflix, Ecuavisa, Teleamazonas, Azteca 7, CityTV, Senpai TV)",
+    "para_que": "Punto 8: segunda fuente del reparto y contexto de dónde se vio la serie en la región",
+    "licencia": "Texto de wiki bajo CC BY-SA (Fandom); datos de doblaje, no imagen"
+  },
+  {
+    "url": "https://nokikero.com/dora-character-birthday/",
+    "fuente": "nokikero.com (blog de investigación de la franquicia, en japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historia completa y con cita de revista/número de CoroCoro de los cumpleaños de los 6 personajes principales, incluida la versión abandonada de 1980 de Suneo y Shizuka y la oficial de 1993",
+    "para_que": "Punto 20: gustos y detalles; explica por qué el día exacto de Suneo/Shizuka que circula en redes no es oficial (sólo el mes)",
+    "licencia": "Blog personal, sólo cita, no reutilizar imágenes"
+  },
+  {
+    "url": "https://www.mofa.go.jp/announce/announce/2008/3/0319-3.html",
+    "fuente": "Ministerio de Asuntos Exteriores de Japón (comunicado oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio oficial del nombramiento de Doraemon como primer 'embajador anime' de Japón, marzo de 2008",
+    "para_que": "Punto 21: por qué la aman / dimensión cultural del personaje",
+    "licencia": "Comunicado gubernamental de dominio público informativo"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2008-03-14/doraemon-to-be-japan-first-anime-ambassador",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente (en inglés) del nombramiento de Doraemon como embajador anime en 2008",
+    "para_que": "Punto 21: confirma en dos fuentes el dato del embajador anime",
+    "licencia": "Artículo periodístico, sólo cita"
+  },
+  {
+    "url": "https://aramajapan.com/news/tvmovie/movies/88-4-of-stand-by-me-doraemon-moviegoers-cried-during-the-film/6358/",
+    "fuente": "ARAMA! JAPAN",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta de salida de cine: el 88,4% del público lloró viendo Stand by Me Doraemon (2014)",
+    "para_que": "Punto 21: la cifra exacta de la escena que hace llorar, para la lámina 2 o un texto del bot",
+    "licencia": "Artículo periodístico, sólo cita"
+  },
+  {
+    "url": "https://www.cinematoday.jp/page/A0004197",
+    "fuente": "Cinematoday (revista de cine japonesa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Votación pública 'ドラ泣き' (Dora-naki) sobre en qué escena de Stand by Me Doraemon lloró cada espectador",
+    "para_que": "Punto 21/12: segunda fuente de la reacción del público y el meme 'Dora-naki'",
+    "licencia": "Artículo periodístico, sólo cita"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=D_hkGW0fZ_k",
+    "fuente": "YouTube · canal Dobla2",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Parodia de doblaje de Doraemon por Dobla2 (canal argentino conocido en el gremio del doblaje), 394 565 vistas",
+    "para_que": "Punto 22: ejemplo de fandub/parodia hispana para enlazar en #recursos",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar, no descargar ni redistribuir"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OqQ9XaTgkrs",
+    "fuente": "YouTube · canal ParodiAnime (das95balas)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cortometraje parodia de Doraemon en español, 80 009 vistas",
+    "para_que": "Punto 22: ejemplo de fandub/parodia hispana",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lLZX4c8wOBQ",
+    "fuente": "YouTube · canal DobleHDMedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ending de Doraemon, el gato cósmico, con Maggie Vera, español latino, 178 732 vistas",
+    "para_que": "Punto 22: cover/ending oficial latino, música nostálgica",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eljPM34kWmE",
+    "fuente": "YouTube · canal Doraemon Latino",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ending oficial 'Nuestro Planeta' (Bokutachi Chikyuujin) en español latino, canal dedicado a Doraemon, 18 584 vistas",
+    "para_que": "Punto 22: canal de comunidad hispana dedicado a la serie",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LxnVt7tYnio",
+    "fuente": "YouTube · canal Lissette Chan",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover de Lissette Chan en español latino (según voz.md es «Yume wo Kanaete Doraemon», 7228 vistas; voz.json lo daba como «Doraemon no Uta») ⚠️",
+    "para_que": "Punto 22: cover de opening hecho por fans",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mn1G54SY7Bo",
+    "fuente": "YouTube · canal Unkos Channel",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del tema de Stand by Me Doraemon, 76 990 vistas",
+    "para_que": "Punto 22: cover musical hecho por fans hispanos",
+    "licencia": "Vídeo de YouTube de terceros; sólo enlazar"
+  },
+  {
+    "url": "https://www.japantimes.co.jp/culture/2020/02/01/general/doraemon-50th-anniversary/",
+    "fuente": "The Japan Times",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reportaje del 50º aniversario de Doraemon (2020): alcance en más de 35 países, más de 40 películas",
+    "para_que": "Punto 21: por qué la aman, dimensión internacional y de nostalgia intergeneracional",
+    "licencia": "Artículo periodístico, sólo cita"
+  },
+  {
+    "url": "https://variety.com/2015/film/festivals/film-review-stand-by-me-doraemon-1201352301",
+    "fuente": "Variety",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña de Stand by Me Doraemon (2014): 2ª película animada más taquillera de Japón ese año, 183.4 millones de dólares",
+    "para_que": "Punto 21: dato de éxito comercial ligado al impacto emocional de la película",
+    "licencia": "Artículo periodístico, sólo cita"
+  },
+  {
+    "url": "https://cgworld.jp/interview/1408-sbmd-2.html",
+    "fuente": "CGWorld.jp (revista japonesa especializada en CG, entrevista oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda parte de la entrevista de 2014 al equipo de Stand By Me Doraemon (director de arte Makoto Hanabusa, CG supervisor Kenshi Suzuki, líder BG/assets Yoshitaka Takeuchi): materiales 'goma futura'/'plástico futuro', el 'Poko' del labio, línea de contorno por textura, variantes de ojos",
+    "para_que": "Fuente principal del punto 18 (técnica y cómo replicarla): base para la guía de Blender/Photoshop",
+    "licencia": "Artículo editorial con derechos de CGWorld/Born Digital; sólo cita y enlace, no reproducir imágenes"
+  },
+  {
+    "url": "https://cgworld.jp/feature/202101-cgw269t2dora.html",
+    "fuente": "CGWorld.jp",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de 2021 sobre el flujo de trabajo de Stand By Me Doraemon 2: V-Ray, Nuke, ACES/OpenColorIO, 3ds Max 2017",
+    "para_que": "Punto 18: equivalencias V-Ray/Nuke/ACES → Cycles/compositor/Filmic-AgX de Blender",
+    "licencia": "Artículo editorial con derechos de CGWorld/Born Digital"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/1408/14/news030.html",
+    "fuente": "ITmedia PC USER (medio japonés de tecnología)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista/reportaje 2014 sobre la infraestructura de render de Stand By Me Doraemon: 3ds Max, estaciones Precision T7600, 250 servidores de render",
+    "para_que": "Segunda fuente independiente del software 3ds Max (punto 18)",
+    "licencia": "Artículo editorial con derechos de ITmedia"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Shin-Ei_Animation",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del estudio Shin-Ei Animation con lista completa de series que animó (Doraemon 1979 y 2005, Perman, Kiteretsu, Chinpui, Crayon Shin-chan)",
+    "para_que": "Puntos 18 y 24: estudio de animación y obras parecidas del mismo estudio/autor",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon_(series)",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha general de la franquicia: manga (1969-1996), anime, películas anuales desde 1980, récord de taquilla sobre Godzilla, Museo Fujiko F. Fujio (2011), embajador cultural anime, TIME Asian Hero, residencia honoraria en Kawasaki",
+    "para_que": "Punto 25: cronología, hitos culturales y legado",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje: origen en la fábrica Matsushiba (modelo MS-903), por qué es azul (le comió las orejas un ratón robot, lloró y se le lavó el amarillo), miedo a médicos y ratones, bolsillo 4D, cascabel",
+    "para_que": "Punto 25: reglas del mundo y símbolos (el cascabel, el color azul)",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Anywhere_Door",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del gadget Puerta a Cualquier Parte (どこでもドア), con color de ficha #f17baf y su historia dentro de la película de 2013",
+    "para_que": "Punto 25: vocabulario/símbolo con color oficial de la wiki",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Take-copter",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del gadget Take-Copter/Bamboo-copter (タケコプター, 'The Hopter' en el doblaje inglés), color de ficha #FFC107",
+    "para_que": "Punto 25: vocabulario/símbolo con color oficial de la wiki",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/4D_Pocket",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Bolsillo 4D (四次元ポケット): blanco liso en Doraemon, rayas rojas en el de Dorami; traducciones a varios idiomas",
+    "para_que": "Punto 25: regla central del mundo (cómo saca los inventos) y vocabulario multilingüe",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon:_Nobita%27s_Secret_Gadget_Museum",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la película de 2013 (33ª, dir. Yukiyo Teramoto, arte Makoto Dobashi): a Doraemon le roban el cascabel y sin él actúa como gato normal",
+    "para_que": "Punto 25: el cascabel como símbolo de identidad, con trama que lo demuestra",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://cute-freefont.flop.jp/tukiakari_doraemoji.html",
+    "fuente": "Blog de tipografías gratuitas japonesas (fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente japonesa gratuita 'ドラえ文字' (Dora-e-moji) inspirada en el logo de Doraemon; sólo hiragana/katakana/números, sin letras latinas",
+    "para_que": "Punto 5: referencia visual del logo japonés (NO usar para texto en español: licencia personal, sin ñ/tildes)",
+    "licencia": "Gratuita, uso personal únicamente, no comercial"
+  },
+  {
+    "url": "https://www.toonsmag.com/fujiko-fujio/",
+    "fuente": "Toons Mag (revista digital de cómic/animación)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Perfil de Fujiko F. Fujio: influencia de Osamu Tezuka (leyó Shin Takarajima), mudanza a Tokio en 1954, mentoría breve de Tezuka, ayudó a terminar Kimba the White Lion",
+    "para_que": "Punto 24: influencias reconocidas del autor",
+    "licencia": "Artículo editorial"
+  },
+  {
+    "url": "https://www.switchaboo.com/doraemon-story-of-seasons-switch-review-2/",
+    "fuente": "Switchaboo (reseña de videojuegos, Nintendo Switch)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña de Doraemon Story of Seasons: confirma el estilo acuarela en casi todo el juego, con efectos de agua trabajados",
+    "para_que": "Punto 11: confirmar (2ª fuente) el estilo visual del videojuego",
+    "licencia": "Artículo editorial"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/RETAS",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del software RETAS Studio (CELSYS), estándar de entintado/pintura digital en la animación de TV japonesa, usado por Toei Animation",
+    "para_que": "Punto 18: pista (⚠️, sin confirmar para Doraemon en concreto) sobre el software 2D del sector",
+    "licencia": "CC BY-SA (Wikipedia)"
+  },
+  {
+    "url": "https://nokikero.com/dora-gadget-jingle-origin-tidbit/",
+    "fuente": "Nokikero (blog japonés especializado en curiosidades de Doraemon)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Origen del sonido al sacar un invento: 'pikon'/'pishapisha' con Nobuyo Ōyama (1979-2005) vs. 'bikan' con Wasabi Mizuta (2005-); el 'te-re-re-tte-tere' es mito popular, no el sonido real",
+    "para_que": "Punto 6: confirmar el cambio de sonido por generación de doblaje japonés",
+    "licencia": "Blog personal, artículo editorial"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SMJkerRUG2g",
+    "fuente": "YouTube (búsqueda con yt-dlp, sin ver)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover de Lissette Chan en español latino (según voz.md, «Doraemon no Uta» de 1979, 46 460 vistas) ⚠️",
+    "para_que": "Comunidad hispana: covers de openings",
+    "licencia": "Vídeo de YouTube de terceros; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wUurnNVqJZc",
+    "fuente": "YouTube (búsqueda con yt-dlp, sin ver)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub en español latino de «Himawari no Yakusoku» (tema de Stand by Me Doraemon), SINAY PAOHLA, 20 756 vistas",
+    "para_que": "Comunidad hispana de doblaje",
+    "licencia": "Vídeo de YouTube de terceros; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=csvegcKHCIw",
+    "fuente": "YouTube (búsqueda con yt-dlp, sin ver)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Doraemon el cirujano», parodia en español, canal Norita, 734 vistas",
+    "para_que": "Producción amateur hispana",
+    "licencia": "Vídeo de YouTube de terceros; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/doraemon-traffic-safety-16mm",
+    "fuente": "Internet Archive (sin mirar)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doraemon Traffic Safety (1981), restauración de 16 mm",
+    "para_que": "Rareza para eventos o textos del bot",
+    "licencia": "Resubida en Internet Archive; © titulares"
+  },
+  {
+    "url": "https://archive.org/details/doraemon-galego_202208",
+    "fuente": "Internet Archive (sin mirar)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doraemon, o gato cósmico, en gallego",
+    "para_que": "Doblajes en lenguas cercanas",
+    "licencia": "Resubida en Internet Archive; © titulares"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/f7c47f81-3066-4f32-9ab2-669541881072",
+    "fuente": "MusicBrainz",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Disco Doraemon Sound Track History 2 (Kan Sawada, 2010)",
+    "para_que": "Banda sonora (punto 9)",
+    "licencia": "Ficha de datos abiertos"
+  },
+  {
+    "url": "https://dora-world.com/contents/1399",
+    "fuente": "Doraemon Channel (oficial, Shogakukan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "5 fondos oficiales del anime para videollamadas: cuarto de Nobita, descampado con tuberías, túnel del tiempo",
+    "para_que": "Fondo base de los conceptos A y C",
+    "licencia": "© Fujiko Pro / Shogakukan / TV Asahi / Shin-Ei; descarga gratuita para uso personal"
+  },
+  {
+    "url": "https://dora-world.com/wallpaper",
+    "fuente": "Doraemon Channel (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de fondos de pantalla oficiales",
+    "para_que": "Más fondos y paleta",
+    "licencia": "© Fujiko Pro; uso personal"
+  },
+  {
+    "url": "https://dime.jp/genre/898907/",
+    "fuente": "@DIME",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota sobre los fondos oficiales para videollamadas",
+    "para_que": "Segunda fuente de los fondos oficiales",
+    "licencia": "Artículo de prensa"
+  },
+  {
+    "url": "https://doraeiga.com/2026/",
+    "fuente": "Web oficial de la película 2026",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cartel y material de Nuevo Nobita y el castillo del diablo submarino",
+    "para_que": "Arte oficial reciente, poses de grupo en acción",
+    "licencia": "© Fujiko Pro / Shogakukan / TV Asahi / Shin-Ei"
+  },
+  {
+    "url": "https://www.netflix.com/us-es/title/80158156",
+    "fuente": "Netflix",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Quédate conmigo, Doraemon (2014), con doblaje latino",
+    "para_que": "Luz 3D del cuarto; escenas con minuto (§2.1)",
+    "licencia": "Streaming con suscripción"
+  },
+  {
+    "url": "https://www.netflix.com/us-es/title/81451264",
+    "fuente": "Netflix",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Quédate conmigo, Doraemon: 2 (2020), con doblaje latino",
+    "para_que": "Oír las voces latinas",
+    "licencia": "Streaming con suscripción"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UNMulZxlpZ8",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial latino de Quédate conmigo, Doraemon: 2",
+    "para_que": "Voces latinas de Irwin Daayán y Laura Torres",
+    "licencia": "Vídeo público; © de sus dueños"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8PCLcvDnuh0",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Comparación del efecto de sacar un invento, antes y ahora",
+    "para_que": "Ver la pose y el fondo del momento del invento",
+    "licencia": "Vídeo público; © de sus dueños"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vF-PDfmOdfo",
+    "fuente": "YouTube",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Opening latino «Doraemon, el gato cósmico» (Maggie Vera), V1",
+    "para_que": "Tono latino, «bolsillo mágico» en la letra",
+    "licencia": "Vídeo público; © de sus dueños"
+  },
+  {
+    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror",
+    "fuente": "GitHub · kitsunekko-mirror",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Subtítulos japoneses con tiempos: Stand by Me, película del museo, serie 2005-2006",
+    "para_que": "Minutos exactos de cada escena (§2, §15)",
+    "licencia": "Repositorio público de subtítulos de fans"
+  },
+  {
+    "url": "https://www.imdb.com/title/tt2768084/",
+    "fuente": "IMDb",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Nobita y el museo de los artilugios secretos (2013)",
+    "para_que": "Concepto B: el museo de inventos",
+    "licencia": "Ficha informativa"
+  },
+  {
+    "url": "https://mangamuseum.hatenablog.com/entry/doraemon",
+    "fuente": "mangamuseum (blog de fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Galería de las portadas de los 45 tomos del manga",
+    "para_que": "Elegir poses del arte original de Fujiko F. Fujio",
+    "licencia": "© Fujiko Pro / Shogakukan; sólo referencia"
+  },
+  {
+    "url": "https://shogakukan-comic.jp/book-series?cd=13325",
+    "fuente": "Shogakukan (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista oficial de tomos Tentōmushi Comics de Doraemon",
+    "para_que": "Portadas oficiales, tomo 0 y tomos a color",
+    "licencia": "© Fujiko Pro / Shogakukan"
+  },
+  {
+    "url": "https://fujiko-museum.com/hiroba.html",
+    "fuente": "Museo Fujiko F. Fujio (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La Harappa: descampado real con tuberías y puerta a cualquier lugar",
+    "para_que": "Concepto C: tuberías de verdad, luz exterior",
+    "licencia": "© del museo; fotos para referencia"
+  },
+  {
+    "url": "https://camera10.me/blog/photospot/fujiko-museum",
+    "fuente": "camera10.me (blog)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fotos de visitante de las esculturas y tuberías del museo Fujiko",
+    "para_que": "Ángulos y luz reales del descampado",
+    "licencia": "© del fotógrafo; sólo referencia"
+  },
+  {
+    "url": "https://mitsui-shopping-park.com/divercity-tokyo/shopguide/1456788.html",
+    "fuente": "DiverCity Tokyo Plaza",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tienda oficial «Doraemon Mirai Department Store»",
+    "para_que": "La tienda del futuro en la vida real (concepto A)",
+    "licencia": "Ficha comercial"
+  },
+  {
+    "url": "https://dic.pixiv.net/a/%E6%9C%AA%E6%9D%A5%E3%83%87%E3%83%91%E3%83%BC%E3%83%88",
+    "fuente": "pixiv百科事典",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Qué son los Grandes Almacenes del Futuro: catálogo, pedidos por el cajón",
+    "para_que": "Base del concepto A y de «Gratis / De pago»",
+    "licencia": "Texto de wiki de fans"
+  },
+  {
+    "url": "https://doranew.net/mirai-catalog-envelope/",
+    "fuente": "ドラニュー",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El catálogo de la tienda del futuro y el sobre del pedido",
+    "para_que": "Diseño del catálogo y del sobre en Blender",
+    "licencia": "Blog de fan; sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/models/726f19f5469a45a18396876076093997/embed",
+    "fuente": "Sketchfab · mfxmotions",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de la puerta a cualquier lugar",
+    "para_que": "Objeto de fondo o de primer plano",
+    "licencia": "Descarga gratis; licencia sin comprobar. Diseño © Fujiko Pro"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/doraemon-gadgets-small-big-light-anywhere-door-7fb20d2b56ec411ab994d508279e4f46",
+    "fuente": "Sketchfab · aryan-angra",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Linternas que encogen y agrandan, y la puerta",
+    "para_que": "Inventos pequeños para el escritorio",
+    "licencia": "Descarga gratis; licencia sin comprobar. Diseño © Fujiko Pro"
+  },
+  {
+    "url": "https://www.artstation.com/artwork/L32aWK",
+    "fuente": "ArtStation",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Casa de los Nobi rehecha en Blender (Cycles)",
+    "para_que": "Luz y materiales del cuarto en 3D",
+    "licencia": "© del artista; sólo referencia"
+  },
+  {
+    "url": "https://www.artstation.com/artwork/8wklBG",
+    "fuente": "ArtStation",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Casa de Nobita en Unreal, basada en Stand by Me",
+    "para_que": "Luz de tarde en el cuarto",
+    "licencia": "© del artista; sólo referencia"
+  },
+  {
+    "url": "https://hobby.dengeki.com/news/953237/",
+    "fuente": "Dengeki Hobby",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Figura oficial del cuarto de Nobita con el cajón abierto y el túnel dibujado",
+    "para_que": "Cómo se ve el cajón abierto",
+    "licencia": "© Bandai / Fujiko Pro; foto de prensa"
+  },
+  {
+    "url": "https://youpouch.com/2016/02/05/333606/",
+    "fuente": "youpouch",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recorrido 3D por la casa de los Nobi con planos",
+    "para_que": "Distribución de la casa y del cuarto",
+    "licencia": "Artículo de prensa"
+  },
+  {
+    "url": "https://polyhaven.com/a/tatami_mat",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de tatami",
+    "para_que": "Suelo del cuarto en Blender",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Tatami005",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR Tatami 005",
+    "para_que": "Alternativa de tatami",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/textures",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Biblioteca de texturas (madera, papel, cemento)",
+    "para_que": "Escritorio, catálogo, tuberías",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2934180/Doraemon_Dorayaki_Shop_Story/",
+    "fuente": "Steam",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doraemon Dorayaki Shop Story (Kairosoft, 2024)",
+    "para_que": "Idea de tienda con estanterías para la lámina 2",
+    "licencia": "© Kairosoft / Fujiko Pro; capturas de tienda"
+  },
+  {
+    "url": "https://interfaceingame.com/screenshots/doraemon-story-of-seasons-dialogue/",
+    "fuente": "Interface In Game",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cuadro de diálogo de Doraemon Story of Seasons",
+    "para_que": "Cómo pone el texto un juego oficial",
+    "licencia": "© Bandai Namco / Fujiko Pro; no pude abrirla"
+  },
+  {
+    "url": "https://brandpalettes.com/doraemon-color-codes/",
+    "fuente": "brandpalettes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Paleta de colores de Doraemon (de fans)",
+    "para_que": "Punto de partida para los hex",
+    "licencia": "Datos de fans, no oficiales"
+  },
+  {
+    "url": "https://news.mynavi.jp/article/20250329-doraemon_2030/",
+    "fuente": "Mynavi News",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta 2025: Dorami 2.ª por delante de Nobita",
+    "para_que": "Elegir personaje de la lámina 2",
+    "licencia": "Artículo de prensa"
+  },
+  {
+    "url": "https://doraemon.fandom.com/es/wiki/Canci%C3%B3n_de_Doraemon",
+    "fuente": "Doraenciclopedia (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Opening latino, Maggie Vera y su letra",
+    "para_que": "Frase «con su bolsillo mágico»",
+    "licencia": "CC BY-SA (texto de wiki)"
+  },
+  {
+    "url": "https://cgworld.jp/interview/1408-sbmd.html",
+    "fuente": "CGWORLD",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista sobre los personajes de Stand by Me pasados a 3D",
+    "para_que": "Staff oficial: cómo se pensó el 3D",
+    "licencia": "Artículo de prensa"
+  }
+]

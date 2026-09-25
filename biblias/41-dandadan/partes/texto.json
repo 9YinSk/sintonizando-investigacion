@@ -1,0 +1,173 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/dandadan/images/6/66/Chapter_1.png/revision/latest?cb=20210416235547",
+    "fuente": "Fandom (dandadan.fandom.com), cartela del Capítulo 1 (imageinfo por API)",
+    "ancho": 1481,
+    "alto": 1079,
+    "que_es": "El logo real 「ダンダダン」ダンダダン en la portadilla del capítulo 1: katakana enorme en rojo con cortes diagonales tipo rasgado, sobre fondo fotográfico industrial en grises",
+    "para_que": "Punto 5: referencia exacta del logo/título para elegir la letra libre (Rubik Glitch es la más cercana, comprobada con fontTools)",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de Yukinobu Tatsu/Shueisha"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dandadan/images/b/b3/Acrobatic_Silky_attacks_Momo.png/revision/latest?cb=20210813235007",
+    "fuente": "Fandom (dandadan.fandom.com), viñeta del manga",
+    "ancho": 1356,
+    "alto": 1048,
+    "que_es": "Página de acción: trama de puntos densa en la ropa del yokai, pinceladas negras gruesas para el movimiento, fragmentos afilados de escombros",
+    "para_que": "Puntos 6 y 18: referencia de línea, sombreado por trama y speed-lines para la guía de estilo Photoshop",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de Yukinobu Tatsu/Shueisha"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dandadan/images/e/eb/Acrobatic_Silky_goes_to_heaven.png/revision/latest?cb=20211227080812",
+    "fuente": "Fandom (dandadan.fandom.com), splash page del manga",
+    "ancho": 2879,
+    "alto": 2104,
+    "que_es": "Splash page casi sin línea: nube de trama de puntos dispersándose como purpurina sobre negro para representar energía/muerte sobrenatural",
+    "para_que": "Punto 18: recurso gráfico propio de la serie para lo intangible/sobrenatural (alternativa a una nube de pensamiento genérica)",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de Yukinobu Tatsu/Shueisha"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dandadan/images/6/62/Turbo_Granny%27s_farewell.png/revision/latest?cb=20240909203716",
+    "fuente": "Fandom (dandadan.fandom.com), viñeta del manga",
+    "ancho": 1013,
+    "alto": 525,
+    "que_es": "Globo de diálogo vacío (recortado sin texto): óvalo de trazo fino con colita puntiaguda hacia quien habla",
+    "para_que": "Punto 6: forma real del globo de diálogo del manga, para no usar una burbuja blanca genérica",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de Yukinobu Tatsu/Shueisha"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/okarun-dandadan-8452d63687324ec58b595dcc2b829fcc",
+    "fuente": "Sketchfab API (api.sketchfab.com/v3/search?q=dandadan&downloadable=true)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Okarun, 194 579 caras, autor bakhats110",
+    "para_que": "Punto 18: rig/modelo libre de referencia para Blender (pose y proporciones, nunca como asset final sin avisar)",
+    "licencia": "CC Attribution 4.0 (Creative Commons BY): exige crédito al autor de Sketchfab, permite uso comercial"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-6ac6c3476a1f4b8da1c7de7e98a7c83c",
+    "fuente": "Sketchfab API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Momo Ayase, autor higuys920",
+    "para_que": "Punto 18: rig/modelo libre de referencia para Blender",
+    "licencia": "CC Attribution 4.0 (Creative Commons BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-994932a4c4464439983f936d1cf5784e",
+    "fuente": "Sketchfab API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Okarun transformado por Turbo Granny, autor higuys920",
+    "para_que": "Punto 18: rig/modelo libre para la pose de transformación (roja, guiño a Ultraman)",
+    "licencia": "CC Attribution 4.0 (Creative Commons BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e59d90ffd0c0494eadc8e6a1a9a702e0",
+    "fuente": "Sketchfab API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Aira (Acrobatic Silky), autor higuys920",
+    "para_que": "Punto 18: rig/modelo libre de referencia para Blender",
+    "licencia": "CC Attribution 4.0 (Creative Commons BY)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-086349c159e34bcf9d911887fe755c73",
+    "fuente": "Sketchfab API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de un alien Serpo",
+    "para_que": "Punto 18: referencia del lado CGI/frío/geométrico que pide la dirección de arte del anime",
+    "licencia": "CC Attribution 4.0 (Creative Commons BY)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rubik+Glitch",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Rubik Glitch: letras con cortes diagonales tipo rasgado/glitch, la más cercana al logo real de Dandadan (comprobado renderizando 'DANDADAN' y comparando)",
+    "para_que": "Punto 5: letra libre para el logo/título",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Bangers: letras infladas y desiguales, cómic clásico",
+    "para_que": "Punto 5: letra libre para el globo de grito",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Caveat",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Caveat: cursiva manuscrita de trazo fino",
+    "para_que": "Punto 5: letra libre para el globo de pensamiento (y sustituto de Anime Ace cuando el texto lleva ¿ o ¡, que Anime Ace no trae)",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rampart+One",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Rampart One: japonesa gruesa de bloque, estilo onomatopeya",
+    "para_que": "Punto 5: letra libre para onomatopeyas",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Zen+Kaku+Gothic+New",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Zen Kaku Gothic New: gothic japonesa estándar de señalética",
+    "para_que": "Punto 5: letra libre para carteles/rótulos del mundo (pueblo japonés contemporáneo)",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rajdhani",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Rajdhani: sans geométrica de interfaz",
+    "para_que": "Punto 5: letra libre neutra para la interfaz gacha del crossover con Monster Strike (punto 11)",
+    "licencia": "SIL Open Font License (OFL), gratis; con tildes, ñ, ¿ y ¡ comprobado con fontTools"
+  },
+  {
+    "url": "https://www.dafont.com/anime-ace-bb.font",
+    "fuente": "dafont.com / Blambot",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Anime Ace 2.0 BB: estándar de lettering de globo de manga en el resto de la guía del equipo",
+    "para_que": "Punto 5: letra para el globo normal, con un aviso importante: NO trae ¿ ni ¡ (comprobado descargando el zip y con fontTools) aunque sí trae tildes/ñ/ü",
+    "licencia": "Gratis sólo para uso de cómic independiente/no comercial (Blambot); uso comercial mainstream requiere licencia de pago"
+  },
+  {
+    "url": "https://dandadan.fandom.com/wiki/Story_Arcs",
+    "fuente": "Fandom (dandadan.fandom.com), wikitext por API action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista completa de los 13 arcos de la historia en sus dos sagas (Kintama Hunt, Ultimate Yokai), con resumen de cada uno",
+    "para_que": "Punto 25: la historia por arcos",
+    "licencia": "Wiki de Fandom (CC BY-SA vía Fandom); contenido de referencia sobre la obra de Yukinobu Tatsu/Shueisha"
+  },
+  {
+    "url": "https://dandadan.fandom.com/wiki/Dandadan_Daizukan",
+    "fuente": "Fandom (dandadan.fandom.com), wikitext por API action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Dandadan Daizukan, el databook/enciclopedia visual oficial (agosto 2025, 230 páginas, ISBN 978-4-08-884647-7)",
+    "para_que": "Punto 25 (y referencia cruzada al punto 20 del investigador de voz): fuente oficial de datos de personaje",
+    "licencia": "Wiki de Fandom (CC BY-SA vía Fandom); el libro en sí es de Shueisha"
+  },
+  {
+    "url": "https://animeworld.info/2025/09/29/dandadan-x-monst-collaboration-begins-momo-okarun-jiji-more-join-limited-gacha-goods-also-available/",
+    "fuente": "Animeworld.info",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura de la colaboración Dandadan x Monster Strike (1-14 oct. 2025): personajes gacha, seiyuu, enemigos de misión",
+    "para_que": "Punto 11: único contenido jugable oficial ligado a la franquicia (no hay videojuego propio)",
+    "licencia": "Artículo periodístico; enlazado como fuente, no como imagen a usar"
+  }
+]

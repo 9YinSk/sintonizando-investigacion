@@ -1,0 +1,1433 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/f/f7/Reunion_%28Promotional_Poster%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1476,
+  "alto": 2080,
+  "que_es": "Key visual de Digimon Adventure tri. cap.1 \"Reunión\": Tai y Matt sobre el arma de Omegamon",
+  "para_que": "pose de acción con Digimon gigante, encuadre héroe pequeño / criatura enorme (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e3c40eec7aea44ad9bbf438612bb05ff",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D \"Digimon Adventure Tag and Crest\" (dispositivo + emblema) por TriumphantBass",
+  "para_que": "objeto real en 3D con licencia libre, directo para el \"objeto en un sitio real\" del dueño (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/2c/Crest_of_Destiny_%28Memorial_Goods%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 560,
+  "alto": 560,
+  "que_es": "Colgante metálico conmemorativo \"Crest of Destiny\" (merchandising oficial Bandai)",
+  "para_que": "objeto real para modelar en Blender, referencia de relieve dorado (puntos 1 y 25)",
+  "licencia": "© Bandai; producto oficial, sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/digimon-world-play-station-pal-gameplay-full-demostration/Digimon%20World%20PlayStation%20PAL%20Gameplay%20%28Full%20Demostration%29.mp4&t=167",
+  "fuente": "Internet Archive (vídeo de demostración de la cinta, sacado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fotograma con la caja de diálogo real de Digimon World (PS1, 1999): fondo azul-petróleo translúcido, nombre en amarillo-verde, texto blanco pixelado",
+  "para_que": "referencia principal y más citable para el punto 6 (cuadro de diálogo propio de la franquicia, sin burbuja blanca) y punto 11",
+  "licencia": "© Bandai; grabación de gameplay subida a Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/f/f2/TanemonAnalyzer.jpg/revision/latest?cb=20091229024613",
+  "fuente": "Digimon Wiki (Fandom), página Digimon Analyzer",
+  "ancho": 300,
+  "alto": 240,
+  "que_es": "Captura del primer Digimon Analyzer de Digimon Adventure (Tanemon), rejilla negra + etiqueta verde",
+  "para_que": "referencia de interfaz/cuadro de datos en pantalla para el punto 6 (cómo hablan/piensan) y 11",
+  "licencia": "© Toei Animation; captura de emisión, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/5/52/Magnaangemon.jpg/revision/latest?cb=20091229025009",
+  "fuente": "Digimon Wiki (Fandom), página Digimon Analyzer",
+  "ancho": 300,
+  "alto": 240,
+  "que_es": "Captura del segundo Digimon Analyzer (MagnaAngemon), fondo negro con ticker rojo en bucle",
+  "para_que": "referencia de interfaz upgradeada, paleta marrón/beige/rojo medida",
+  "licencia": "© Toei Animation; captura de emisión, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/4/4e/Taichi_%22Tai%22_Kamiya_%28Re-Digitize%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 438,
+  "alto": 640,
+  "que_es": "Render de Taichi para el videojuego Digimon Adventure: Re-Digitize (cuerpo completo, frente)",
+  "para_que": "arte oficial de videojuego, vestuario clásico en pose neutra (puntos 1 y 15)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/a/af/Sora_Takenouchi_%28Re-Digitize%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 438,
+  "alto": 640,
+  "que_es": "Render de Sora para Digimon Adventure: Re-Digitize",
+  "para_que": "arte oficial de videojuego, vestuario clásico (puntos 1 y 15)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1909-BFIYnrdbeLhB.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato de Yamato Ishida",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51340134422_a27633dbe9_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "Figura de Matt con Gabumon a la espalda (base «YAMATO & GABUMON»), vista de frente",
+  "para_que": "pose 3D real de la pareja del concepto A; confirma la ropa de Matt: camiseta verde sin mangas de cuello alto, vaqueros",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867700_876e88815e_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "La misma figura de Matt y Gabumon, de lado",
+  "para_que": "ángulo lateral para posar en 3D",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341597154_ffd4b69f61_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "La misma figura, tres cuartos",
+  "para_que": "ángulo para posar",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341077408_5713aa442a_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 788,
+  "alto": 1024,
+  "que_es": "La misma figura, de frente bajo",
+  "para_que": "ángulo para posar",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51340856696_7b09745464_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 787,
+  "alto": 1024,
+  "que_es": "La misma figura, de cerca",
+  "para_que": "cara de Gabumon y manos de Matt",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 344,
+  "que_es": "Retrato oficial de Gabumon",
+  "para_que": "hex de pelaje/piel medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4950-7ABdx6j3jmdE.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 344,
+  "que_es": "Retrato oficial de Agumon",
+  "para_que": "hex de vestuario/piel medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1907-ZWmX1dVGPfqn.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 348,
+  "que_es": "Retrato oficial de Taichi Yagami/Kamiya",
+  "para_que": "hex de vestuario medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2276-edQsS9qzUbm5.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato oficial de Sora Takenouchi",
+  "para_que": "hex de vestuario medido con estilo.py (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/agumon-bond-of-bravery-4c7acf3383624e90a73b9397f4ecf780",
+  "fuente": "Sketchfab (API api.sketchfab.com/v3/models/...)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Agumon con rig y 13 animaciones, 11978 caras, por drewsdigitaldesigns",
+  "para_que": "modelo/rig libre para Blender (punto 18), base para posar o animar a Agumon",
+  "licencia": "CC Attribution (CC-BY 4.0) — uso comercial permitido citando al autor"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x54%20-%20The%20Fate%20of%20Two%20Worlds%20(2).mp4?t=808",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotograma minuto 13:28: Matt con los ojos cerrados y expresión apagada, recordando a Garurumon (evolución de Gabumon) antes de despedirse",
+  "para_que": "punto 13: TRISTEZA de Matt (⚠️ sólo esta emoción confirmada por vídeo; faltan alegría/rabia/miedo/vergüenza)",
+  "licencia": "© Toei Animation/Saban; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x54%20-%20The%20Fate%20of%20Two%20Worlds%20(2).mp4?t=840",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotograma minuto 14:00 del episodio final: Tai abraza a Agumon en la playa, ambos con enorme sonrisa, antes de la despedida",
+  "para_que": "punto 13: ALEGRÍA de Tai y de Agumon (mismo fotograma, los dos personajes)",
+  "licencia": "© Toei Animation/Saban; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x54%20-%20The%20Fate%20of%20Two%20Worlds%20(2).mp4?t=868",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotograma minuto 14:28-14:48: primer plano de Sora con los ojos muy abiertos y brillantes, a punto de llorar, en el tren de la despedida",
+  "para_que": "punto 13: TRISTEZA de Sora, con minuto exacto",
+  "licencia": "© Toei Animation/Saban; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/digimon-digital-monsters-volume-1-1999-vhs",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Digimon: Digital Monsters – Volumen 1 (ítem etiquetado \"1999 VHS\"): trae una introducción de personajes (0:00-15:00, con cartelas de nombre en inglés, p. ej. \"Yamato MATT Ishida\" en 2:30) y los episodios \"And So It Begins...\" y \"The Birth of Greymon\" (audio en inglés; imagen limpia, no una captura analógica real pese al título del ítem: créditos finales de Saban en 62:00) — cada fotograma citado va con su minuto exacto dentro de este único archivo de 62:54",
+  "para_que": "punto 2 y 14 (primera digievolución de Agumon en Greymon ~38:00, poses de Tai/Agumon/Matt en varios minutos, sitios del punto 4)",
+  "licencia": "© Toei Animation / Saban / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/c/c8/Binary_Castle_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Binary Castle\": interior con pantallas turquesa colgantes y trono dorado",
+  "para_que": "fondo/sitio con luz y paleta medida (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/a/ae/Railroad_Plains_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Railroad Plains\": campo verde con vías y torres eléctricas",
+  "para_que": "fondo/sitio (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/9/90/Signpost_Forest_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Signpost Forest\": bosque oscuro con carteles clavados",
+  "para_que": "fondo/sitio, luz tenue (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/2b/Gravel_Wasteland_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Gravel Wasteland\": desierto con ruinas mecánicas y trama cruzada",
+  "para_que": "fondo/sitio de mediodía, referencia de línea de boceto + trama (puntos 16 y 19)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/bb/Fluorescent_Cave_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Fluorescent Cave\": cueva con cristales bioluminiscentes",
+  "para_que": "fondo/sitio con luz azul-violeta y puntos cálidos (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/b5/Powdery_Cliff_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 812,
+  "alto": 574,
+  "que_es": "Arte de fondo \"Powdery Cliff\": acantilado frío azul-grisáceo con niebla",
+  "para_que": "fondo/sitio (punto 16)",
+  "licencia": "© Bandai Namco (Digimon Story); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/e/e7/File_Island_%28Crusader%29_b.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1024,
+  "alto": 854,
+  "que_es": "Vista aérea de File Island completa (playa, selva, montaña, volcán)",
+  "para_que": "mapa/fondo de pantalla de la isla entera (punto 16)",
+  "licencia": "© Bandai Namco; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/9/97/Digimon_Adventure_2020_Crests.png",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 768,
+  "alto": 432,
+  "que_es": "Los 8 emblemas (Crests) en su diseño de línea de neón del reboot 2020",
+  "para_que": "paleta de acento por personaje, logo/emblema (puntos 19 y 25)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/5/59/Digimon_Adventure_Logo.png/revision/latest?cb=20141213225046",
+  "fuente": "Digimon Wiki (Fandom), API con Referer: https://www.fandom.com/",
+  "ancho": 512,
+  "alto": 195,
+  "que_es": "Logo japonés oficial de デジモンアドベンチャー con degradado amarillo-naranja y contorno azul dentado",
+  "para_que": "paleta de logo medida (#FAD30A, #EA6F0B, #1164A7) y forma de letra para el punto 5 (tipografía)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/5/5c/LOGODIGIMON.jpg/revision/latest?cb=20080227233316",
+  "fuente": "Digimon Wiki (Fandom)",
+  "ancho": 269,
+  "alto": 143,
+  "que_es": "Logo internacional en parche circular «DIGIMON DIGITAL MONSTERS» (EE. UU., 1999)",
+  "para_que": "referencia de letra condensada itálica gruesa para el wordmark en español",
+  "licencia": "© Bandai/Saban/Fox Kids; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871980/ss_c893c6fe0bab058e3365e424b92afbebeff660b5.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/871980, API appdetails)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Digimon Survive: cuadro de diálogo sin caja, texto blanco sobre la escena, nombre + línea fina",
+  "para_que": "referencia clave para el punto 6 (cuadro de diálogo sin burbuja blanca) y punto 11 (interfaz de videojuego actual)",
+  "licencia": "© Bandai Namco / Witch Craft; captura oficial de tienda, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871980/ss_9e339ca540a05de07e53037c54864ed8a42bd11e.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/871980, API appdetails)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Digimon Survive: pantalla de decisión con pastillas alargadas y flechas de dirección",
+  "para_que": "referencia de UI de elección de diálogo para el punto 6 y 11",
+  "licencia": "© Bandai Namco / Witch Craft; captura oficial de tienda, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/3c/Yamato_Ishida.ogg/revision/latest?cb=20180107235432&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de audio de Matt (Uraz Huerta) transcrita: «Tú jamás entenderás cómo me siento», «Pensé que él me quitaría a mi hermano menor»; registro agudo (307 Hz), habla rápido",
+  "para_que": "punto 8/13: voz y frases reales de Matt, tono reservado/protector",
+  "licencia": "© Intertrack/Toei; muestra de la wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/1d/Gabumon01.ogg/revision/latest?cb=20190720195959&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de audio de Gabumon (Circe Luna) transcrita: frases de lealtad a Matt («no sabría qué hacer en este Digimundo si tú no estás a mi lado»); registro muy agudo (351 Hz)",
+  "para_que": "punto 8/13/20: vínculo Gabumon-Matt, voz real (⚠️ Whisper confunde nombres propios: revisar de oído)",
+  "licencia": "© Intertrack/Toei; muestra de la wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/9a/Digimon-_Digital_Monsters.ogg/revision/latest?cb=20180102192525&path-prefix=es",
+  "fuente": "Doblaje Wiki (muestra oficial subida por la wiki)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de audio de Tai (voz de Gerardo Meza, ep.13-54) transcrita con voz.py: registro muy agudo (368 Hz), 23.7 semitonos, habla rápido (3.58 palabras/s)",
+  "para_que": "punto 8/13: cómo suena Tai realmente, con frases textuales y minuto",
+  "licencia": "© Intertrack/Toei; muestra de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/1d/Sora_Takenouchi.ogg/revision/latest?cb=20180106051258&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de audio de Sora (Circe Luna) transcrita: registro agudo (320 Hz), 28.6 semitonos (muy expresiva), velocidad normal",
+  "para_que": "punto 8/13: voz real de Sora con frases y minuto",
+  "licencia": "© Intertrack/Toei; muestra de la wiki"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/9d/Agumon01.ogg/revision/latest?cb=20190720195055&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de audio de Agumon (Uraz Huerta) transcrita: registro muy agudo (337 Hz), 26.6 semitonos",
+  "para_que": "punto 8/13: voz real de Agumon",
+  "licencia": "© Intertrack/Toei; muestra de la wiki"
+ },
+ {
+  "url": "https://www.toei-anim.co.jp/tv/dejimon/ranking/result29.html",
+  "fuente": "Toei Animation (encuesta oficial «Digimon Ranking», resultado nº29)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Encuesta oficial japonesa «¿Quién te gusta más entre los niños elegidos?» (+3000 votos): 1º Hikari 969, 2º Yamato 662, 3º Takeru 563, 4º Ken 546, 5º Taichi 366, 8º Sora",
+  "para_que": "punto 7: encuesta OFICIAL que confirma que el protagonista (Tai) no es el más popular",
+  "licencia": "sitio oficial de Toei Animation Japón"
+ },
+ {
+  "url": "https://www.toei-anim.co.jp/tv/dejimon/ranking/result30.html",
+  "fuente": "Toei Animation (encuesta oficial «Digimon Ranking», resultado nº30)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Encuesta oficial «¿Cuál Digimon compañero te gusta más?» (2267 votos): 1º Patamon 335, 5º Agumon 146, 7º Gabumon 108 (comenta que Gabumon no comparte la popularidad de Yamato)",
+  "para_que": "punto 7: popularidad oficial de los Digimon compañeros de los 5 personajes",
+  "licencia": "sitio oficial de Toei Animation Japón"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Digimon:_Digital_Monsters",
+  "fuente": "Doblaje Wiki (API action=parse, wikitext completo)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa del doblaje latino: estudio Intertrack (México), directoras Gloria Rocha (ep 1-9) y Alma Moreno (ep 10-54), tabla de reparto humanos+Digimons+villanos con episodios exactos",
+  "para_que": "punto 8: doblaje latino completo, verificado contra 2ª fuente para Tai/Matt/Sora/Agumon/Gabumon",
+  "licencia": "wiki colaborativa, contenido consultable; sin licencia de reuso de imágenes"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5zbgmg",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial de Digimon Adventure tri. capítulo 5 \"Kyōsei\" (Simbiosis), 1:20, con cartela de reparto en 1:00 (menciona explícitamente a ガブモン Gabumon y 石田ヤマト Yamato)",
+  "para_que": "punto 14 (Agumon primer plano 0:18, Matt de perfil 0:30 y gritando 0:45, pelea Tai-Matt 0:54, Gabumon 'pesadilla' 0:39)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8x2nx4",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial de reparto de Digimon Adventure tri. cap.1 \"Saikai\" (Reunión), 4:04, con cartelas de nombre en japonés de cada Digielegido (Sora 1:52-1:56, Yamato 2:00, Taichi 2:04-2:08)",
+  "para_que": "punto 14 (poses de presentación de Sora, Matt y Tai, con minuto exacto)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x3rmlro",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial de Digimon Adventure tri. capítulos 2 \"Ketsui\" (Determinación) y 3 \"Kokuhaku\" (Confesión), 2:37, con cartela de reparto en 1:48-1:56",
+  "para_que": "punto 14 (Tai alerta 0:08, Sora preocupada en interior 1:00)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x6cdxot",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 384,
+  "que_es": "Opening 1 japonés completo \"Butter-Fly\" (1:36), Digimon Adventure 1999, con cartela de créditos en 0:43 (Butter-Fly: letra/música 千綿偉功, arreglos 渡部チェル, voz 和田光司 \"Kouji Wada\"; ending I wish: letra 三浦徳子, música 白川晴久, arreglos 堀井勝美, voz 前田愛 \"Ai Maeda\")",
+  "para_que": "punto 9 (música: autoría verificada en la propia cartela oficial) y punto 14 (poses: logo, título, grupo final 1:34)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x3342x6",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 384,
+  "que_es": "Ending 1 en español latino \"Tengo la Fé\" (I wish) completo, 4:02, cantado por Marisa de Lillé según la cartela del propio vídeo (0:05)",
+  "para_que": "punto 9 (música: título y voz del doblaje latino de la ending, con minuto)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x405gc9",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "\"Agumon y Gabumon Warp digievolucionan\": edición de fans con metraje real de Digimon Adventure 02 (WarGreymon y MetalGarurumon fusionan en Omegamon), 7:08",
+  "para_que": "punto 14 (única toma limpia de Gabumon junto a Agumon en 0:45; Sora con casco en 4:45; Matt en 0:15; Tai en 5:30, todo de Adventure 02)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x16%20-%20The%20Arrival%20of%20Skullgreymon%20%5Ba.k.a.%20The%20Arrival%20of%20Scar%20Greymon%5D.mp4?t=470",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 16, min 7:50: Tai con el ceño fruncido y la mandíbula tensa antes de patear el balón",
+  "para_que": "punto 13: RABIA de Tai",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x16%20-%20The%20Arrival%20of%20Skullgreymon%20%5Ba.k.a.%20The%20Arrival%20of%20Scar%20Greymon%5D.mp4?t=1180",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 16, min 19:40: Tai abraza a Koromon con la mirada baja tras SkullGreymon",
+  "para_que": "punto 13: TRISTEZA y VERGÜENZA (culpa) de Tai; escena que hace llorar",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x16%20-%20The%20Arrival%20of%20Skullgreymon%20%5Ba.k.a.%20The%20Arrival%20of%20Scar%20Greymon%5D.mp4?t=1140",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 16, min 19:00: Koromon, apenado, sujeta la cara de Tai",
+  "para_que": "punto 13: VERGÜENZA de Agumon (como Koromon)",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x26%20-%20Sora%27s%20Crest%20of%20Love.mp4?t=656",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 26, min 10:56: Sora con la mirada baja, escondida del grupo",
+  "para_que": "punto 13: VERGÜENZA de Sora",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x26%20-%20Sora%27s%20Crest%20of%20Love.mp4?t=985",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 26, min 16:25: Sora abraza fuerte a Biyomon ante Myotismon",
+  "para_que": "punto 13: RABIA protectora de Sora",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x43%20-%20Playing%20Games.mp4?t=1125",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 43, min 18:45: Matt con el puño cerrado, encarando a Sora",
+  "para_que": "punto 13: RABIA de Matt (segunda)",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x44%20-%20Trash%20Day.mp4?t=855",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 44, min 14:15: Matt con el ceño fruncido y los dientes apretados",
+  "para_que": "punto 13: RABIA de Matt",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x44%20-%20Trash%20Day.mp4?t=880",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 44, min 14:40: Gabumon con los colmillos fuera y los ojos entrecerrados, riñe a Matt",
+  "para_que": "punto 13: RABIA de Gabumon; dinámica Matt-Gabumon",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=325",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 51, min 5:25: Matt agachado en la cueva oscura, abrazándose las rodillas",
+  "para_que": "punto 13: VERGÜENZA de Matt; escena que hace llorar",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=420",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 51, min 7:00: Matt mira de reojo, tenso, en la cueva",
+  "para_que": "punto 13: MIEDO de Matt",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=395",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 51, min 6:35: Gabumon con los ojos muy abiertos y una gota de sudor",
+  "para_que": "punto 13: MIEDO de Gabumon; gota de sudor (§18.8)",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=540",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 51, min 9:00: Matt y Gabumon abrazados (plano general)",
+  "para_que": "punto 13: ALEGRÍA de Gabumon ⚠️ (no es primer plano)",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x51%20-%20The%20Crest%20of%20Friendship.mp4?t=870",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 51, min 14:30: Sora con los ojos muy abiertos y la mirada perdida",
+  "para_que": "punto 13: MIEDO de Sora",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x01%20-%20And%20So%20It%20Begins....mp4?t=706",
+  "fuente": "Internet Archive (colección completa de Saban, metraje de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ep. 1, min 11:46: Sora en primer plano, gorro azul, sonrisa amplia al conocer a los demás",
+  "para_que": "punto 13: ALEGRÍA de Sora",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x01%20-%20And%20So%20It%20Begins....mp4?t=556",
+  "fuente": "Internet Archive (colección completa Saban, mismo metraje japonés de Toei)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotograma minuto 9:16 del episodio 1: Tai con los ojos muy abiertos, aterrado, agarrando a Koromon cuando ataca Kuwagamon",
+  "para_que": "punto 13: cara de MIEDO de Tai, con minuto exacto",
+  "licencia": "© Toei Animation/Saban; sólo referencia de estudio, no para publicar"
+ },
+ {
+  "url": "https://archive.org/download/digimon-digital-monsters-the-complete-seasons-1-4-collection-1999-2003-saban-ent/Digimon%201x01%20-%20And%20So%20It%20Begins....mp4?t=320",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotograma minuto 5:20: Koromon (forma bebé de Agumon) con los ojos aguados, asustado, en brazos de Tai",
+  "para_que": "punto 13: MIEDO de Agumon (en su forma previa, mismo personaje)",
+  "licencia": "© Toei Animation/Saban; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/d/d1/Gabumon_b.jpg",
+  "fuente": "Fandom digimon",
+  "ancho": 320,
+  "alto": 320,
+  "que_es": "Hoja de modelo oficial de Gabumon, de pie, casi idéntica a la de AniList",
+  "para_que": "punto 14 (segunda fuente para la pose de presentación de Gabumon)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/6/68/Agumon_b.jpg",
+  "fuente": "Fandom digimon",
+  "ancho": 320,
+  "alto": 320,
+  "que_es": "Agumon: Agumon b.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/b/b6/Determination_%28Promotional_Poster%29.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 1419,
+  "alto": 2000,
+  "que_es": "Key visual de tri. cap.2 \"Determinación\"",
+  "para_que": "arte oficial variado, pose de grupo en acción (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/8/8d/Digimon_Adventure_Last_Evolution_Kizuna_poster.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 636,
+  "alto": 900,
+  "que_es": "Póster de Digimon Adventure: Last Evolution Kizuna",
+  "para_que": "arte oficial de la película, diseños adultos (punto 1 y 15)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/2/27/Taichi_%22Tai%22_Kamiya_%2802_-_Summer%29_t.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 332,
+  "alto": 363,
+  "que_es": "Diseño \"verano\" de Taichi en Adventure 02",
+  "para_que": "vestuario por arco/temporada (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/digimon/images/e/ea/TaichiEpilogue2.jpg",
+  "fuente": "Fandom digimon.fandom.com",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Taichi adulto en el epílogo de Adventure 02 (traje de oficina)",
+  "para_que": "vestuario de la etapa adulta (punto 15)",
+  "licencia": "© Toei Animation; sólo referencia"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Anton",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Anton, condensada y muy gruesa; trae á/é/í/ó/ú/ñ/Ñ/¿/¡",
+  "para_que": "letra libre para el logo/título (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Bangers",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Bangers, letra de cómic dinámica; trae todos los caracteres españoles",
+  "para_que": "letra libre para gritos y onomatopeyas (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Baloo+2",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Baloo 2, redondeada amigable; trae todos los caracteres españoles",
+  "para_que": "letra libre para el globo de diálogo normal (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Press+Start+2P",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Press Start 2P, pixel font 8-16 bit; trae todos los caracteres españoles",
+  "para_que": "letra libre para interfaz de videojuego (punto 5 y 11), coincide con el estilo de Digimon World PS1",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Permanent+Marker",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Permanent Marker, imita rotulador grueso a mano; trae todos los caracteres españoles",
+  "para_que": "letra libre para carteles del Digital World / File City (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Patrick+Hand",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Patrick Hand, trazo suave a mano; trae todos los caracteres españoles",
+  "para_que": "letra libre para pensamiento (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Luckiest+Guy",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Luckiest Guy, cómic muy grueso; trae todos los caracteres españoles",
+  "para_que": "letra libre para onomatopeyas de impacto (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Nunito",
+  "fuente": "Google Fonts / Fontsource (comprobada con fontTools)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Nunito, sans-serif redondeada limpia; trae todos los caracteres españoles",
+  "para_que": "letra libre para subtítulos o créditos (punto 5)",
+  "licencia": "SIL Open Font License 1.1, libre"
+ },
+ {
+  "url": "https://archive.org/download/digimon-world-play-station-pal-gameplay-full-demostration/Digimon%20World%20PlayStation%20PAL%20Gameplay%20%28Full%20Demostration%29.mp4&t=157",
+  "fuente": "Internet Archive (vídeo de demostración de la cinta, sacado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fotograma del menú principal de Digimon World (PS1): rejilla verde estilo wireframe con opciones New/Continue/Delete/Battle Mode",
+  "para_que": "referencia de interfaz de menú digital/wireframe para el punto 11",
+  "licencia": "© Bandai; grabación de gameplay subida a Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1042550/ss_b85abb30e749ea91b3f3827b895e0cea2b063d78.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/1042550, API appdetails)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Digimon Story: Cyber Sleuth con HUD de batalla holográfico azul cian y banner de técnica",
+  "para_que": "referencia de interfaz de videojuego (punto 11), paleta azul cian medida",
+  "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530160/ss_fe455bbe5e3d876be318b7941a0e90ad75f74c9c.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/1530160, API appdetails)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Digimon World: Next Order, batalla en arena de baldosas hexagonales con barras de vida flotantes",
+  "para_que": "referencia de interfaz de videojuego (punto 11)",
+  "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_e119215706a1b0469c756c0ec2148d09777e447c.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/1984270, API appdetails)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Digimon Story: Time Stranger, HUD verde neón tipo mira/escáner",
+  "para_que": "referencia de interfaz de videojuego (punto 11)",
+  "licencia": "© Bandai Namco; captura oficial de tienda, sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a5680622539345a9a0471682e5498d40",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Agumon por AndriyVladykin",
+  "para_que": "referencia 3D con licencia libre para pose/volumen (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-94f00275d03f4eca82dcf1c88d1d688a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Greymon por McNaught Design",
+  "para_que": "referencia 3D con licencia libre para pose/volumen (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ab4b4b2df874430992709e5986415857",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de WarGreymon por hdbanks1",
+  "para_que": "referencia 3D con licencia libre, forma evolucionada de Agumon (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8c960d46fc134612ab4b286788de9d45",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Botamon de Mega_Jimjims",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fde9375d74144981b503c8474597026d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Botamon_Happy de Mega_Jimjims",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9926ba8c8bad4978b2a8b072c6094b4a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Agumon de hdbanks1",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341077183_e653baf8fb_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Peluche de Matt entre otros peluches",
+  "para_que": "merchandising, pelo de Matt en volumen",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867570_7507d8b08e_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1002,
+  "alto": 1024,
+  "que_es": "Peluche de Matt con regalos del 20.º aniversario",
+  "para_que": "merchandising del aniversario",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51341867480_6d107c2dbb_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Peluche de Matt, sobre y chapa",
+  "para_que": "merchandising",
+  "licencia": "CC BY 2.0, autor moggymawee"
+ },
+ {
+  "url": "https://live.staticflickr.com/833/39782045630_d52f89ea5d_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 735,
+  "que_es": "Tarta en forma de Etiqueta azul con el Emblema del Valor dorado («Happy Digi Day»)",
+  "para_que": "objeto real hecho por fans: forma y color de la Etiqueta",
+  "licencia": "CC BY-SA 2.0, autor Dan Lundberg"
+ },
+ {
+  "url": "https://live.staticflickr.com/751/22168147451_d39aa32dbf_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Caja de la figura S.H.Figuarts de MetalGarurumon",
+  "para_que": "figura oficial; embalaje",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95"
+ },
+ {
+  "url": "https://live.staticflickr.com/723/21971044679_ef36d4e617_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Figura S.H.Figuarts de MetalGarurumon disparando",
+  "para_que": "pose 3D de la forma Mega de Gabumon",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95"
+ },
+ {
+  "url": "https://live.staticflickr.com/625/21971044159_f1cdbfa422_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Figura S.H.Figuarts de MetalGarurumon, otro ángulo",
+  "para_que": "pose 3D",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95"
+ },
+ {
+  "url": "https://live.staticflickr.com/5721/22131748556_2757f37905_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Figura S.H.Figuarts de MetalGarurumon, de lado",
+  "para_que": "pose 3D",
+  "licencia": "CC BY-NC-SA 2.0, autor ThanhQuan_95"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48767031176_aba35f5b2f_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 736,
+  "que_es": "Cosplay de Tai (tri.) y Kari con peluches de Agumon y Gatomon",
+  "para_que": "cosplay con volumen real",
+  "licencia": "CC BY-NC-ND 2.0, autor esurientt"
+ },
+ {
+  "url": "https://live.staticflickr.com/7036/6917296453_a60bba0b20_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Cosplay de Angewomon con alas",
+  "para_que": "cosplay: alas y casco en volumen real",
+  "licencia": "CC BY-NC-ND 2.0, autor greyloch"
+ },
+ {
+  "url": "https://live.staticflickr.com/7037/6947883105_7b7717ebca_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Cosplay de Lillymon",
+  "para_que": "cosplay",
+  "licencia": "CC BY-NC-ND 2.0, autor greyloch"
+ },
+ {
+  "url": "https://live.staticflickr.com/8348/8170609984_8b1e0c6646_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 685,
+  "alto": 1024,
+  "que_es": "Cosplay de Wizardmon con capa azul en movimiento",
+  "para_que": "cosplay",
+  "licencia": "CC BY-NC 2.0, autor _casterclass"
+ },
+ {
+  "url": "https://live.staticflickr.com/3876/15127578107_a0b18d53df_b.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Foto de un fotograma de la OVA «La llegada de Koromon» (Tai y Kari niños)",
+  "para_que": "origen de Tai y Kari con Koromon",
+  "licencia": "CC BY-NC-SA 2.0, autor Nick Fuentes"
+ },
+ {
+  "url": "https://live.staticflickr.com/7244/7174205927_49d67060bb.jpg",
+  "fuente": "Openverse / Flickr (mirada por el redactor)",
+  "ancho": 379,
+  "alto": 500,
+  "que_es": "Dibujo a lápiz de Demidevimon",
+  "para_que": "secundario del arco de Myotismon",
+  "licencia": "CC BY 2.0, autor The Magic Tuba Pixie"
+ },
+ {
+  "url": "https://www.eluniversal.com.mx/espectaculos/magia-de-digimon-toca-sus-actores/",
+  "fuente": "El Universal (México)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reportaje 2020 con Gerardo Meza (Tai) y Uraz Huerta (Matt): edades al grabar, anécdota de Uraz Huerta con una fan chilena con cáncer, Circe Luna dirigiendo Kizuna",
+  "para_que": "punto 8 (2ª fuente de los actores) y punto 21 (por qué la gente la ama, testimonio real)",
+  "licencia": "artículo periodístico; cita corta"
+ },
+ {
+  "url": "https://www.levelup.com/noticias/la-aventura-digievoluciona-a-19-anos-de-la-emision-del-ultimo-episodio-de-digimon-adventure/",
+  "fuente": "LEVEL UP (medio hispano)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de la despedida final: Matt y Gabumon con la armónica, Kari y Gatomon con el silbato, Mimi corriendo tras el tren",
+  "para_que": "punto 21: la escena que más hace llorar al fandom de Adventure, con contexto de personajes",
+  "licencia": "artículo periodístico; cita corta"
+ },
+ {
+  "url": "https://x.com/ToeiAnimationLA/status/1796360947251982648",
+  "fuente": "Toei Animation Latinoamérica (cuenta oficial en X)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Felicitación oficial a Uraz Huerta como voz de Agumon (02) y Matt (Digimon Digital Monsters)",
+  "para_que": "punto 8: 2ª fuente oficial (no-wiki) del actor de Matt/Agumon",
+  "licencia": "publicación pública en X"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=23450",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Uraz Huerta con su rol de Matt/Agumon en Digimon",
+  "para_que": "punto 8: 3ª fuente cruzada del actor de Matt/Agumon",
+  "licencia": "base de datos pública"
+ },
+ {
+  "url": "https://animeargentina.net/circe-luna-doblaje/",
+  "fuente": "AnimeArgentina.net",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Biografía de Circe Luna, 27 años de carrera, dirigió el doblaje de Last Evolution Kizuna",
+  "para_que": "punto 8: 2ª fuente del actor de Sora/Gabumon",
+  "licencia": "artículo periodístico; cita corta"
+ },
+ {
+  "url": "https://digimon.fandom.com/wiki/Goggles",
+  "fuente": "DigimonWiki (Fandom, inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Las «goggles» de Tai como símbolo fijo del líder Digidestined; se volvió regla no escrita de la franquicia",
+  "para_que": "punto 12/17: rasgo que NUNCA se puede quitar a Tai sin que el fandom lo note",
+  "licencia": "wiki colaborativa"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=digimon_adventure",
+  "fuente": "Danbooru (recuento de dibujos de fans, recolectado)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ranking de personajes más dibujados: Angewomon 1246, Kari 1035, Tai 959, Gatomon 809, Agumon 770, Sora 497, Gabumon 439",
+  "para_que": "punto 7: medida de cariño del fandom distinta de encuestas oficiales",
+  "licencia": "plataforma de arte de fans; sólo conteo, no reutilizar imágenes"
+ },
+ {
+  "url": "https://www.reddit.com/r/digimon/comments/1dr90ze/which_anime_rivalry_do_you_think_is_more_iconic/",
+  "fuente": "Reddit r/digimon (vía Arctic Shift, recolectado)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo (198 votos, 100 comentarios): ¿es la rivalidad Tai/Yamato más icónica que Yugi/Kaiba?",
+  "para_que": "punto 12: qué reconoce y discute el fandom (la tensión Tai-Matt es un pilar del cariño por la serie)",
+  "licencia": "foro público"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=n_UaGJmKa_U",
+  "fuente": "YouTube (bloqueado para ver desde este servidor; catalogado por título)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cover fandub del opening «Butter-Fly» en español latino por David Delgado, «Si Tú Lo Deseas»",
+  "para_que": "punto 22: fandubs/covers hispanos del opening",
+  "licencia": "vídeo de fan; sólo referencia, no descargado"
+ },
+ {
+  "url": "https://hypland.com/collections/digimon",
+  "fuente": "Hypland (tienda oficial de la colaboración)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Catálogo activo de la colaboración de streetwear Hypland × Digimon (sudaderas, camperas, camisetas de Agumon/Greymon/Angewomon/etc.)",
+  "para_que": "colaboración de marca con arte y ropa nueva (punto 23)",
+  "licencia": "© Hypland / Bandai; producto con licencia, sólo referencia"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "\"[FREE] Manga Screentone Pack 1\" — tramas de manga gratis para Clip Studio Paint",
+  "para_que": "equivalente libre a la trama del manga oficial (punto 19)",
+  "licencia": "Gratis, uso permitido según Clip Studio Assets Store"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru / autor @totototo0507 (Twitter)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de grupo (crossover) con Taichi",
+  "para_que": "referencia de pose de grupo, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://safebooru.org/images/1323/c6b93ffec957ffcd266569934706d69e21bda7ba.jpg",
+  "fuente": "Safebooru / origen Pixiv",
+  "ancho": 2500,
+  "alto": 1642,
+  "que_es": "Fan art de Angewomon en vuelo",
+  "para_que": "referencia de pose de acción para digivolución ángel, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://safebooru.org/images/1269/d673c740663e2fbcdcec0b3a1a525c9c9e7830a8.jpg",
+  "fuente": "Safebooru / origen Pixiv @superhamasuke",
+  "ancho": 1280,
+  "alto": 1300,
+  "que_es": "Fan art de Hikari con Tailmon",
+  "para_que": "referencia de pose personaje + compañero digimon, nunca para pegar (punto 3)",
+  "licencia": "© del artista; sólo referencia, crédito obligatorio"
+ },
+ {
+  "url": "https://safebooru.org/images/655/c378c0060e39dac5cbffbcc609588f0211454395.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1000,
+  "que_es": "Fan art de yagami_taichi (http://img13.pixiv.net/img/rella/20750360.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/503/f3a7415a83ac5592045c6ac716ad6777a5d4f5bc.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1414,
+  "que_es": "Fan art de yagami_taichi (http://img44.pixiv.net/img/hajime-ill-1st/14263386.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 3043,
+  "que_es": "Fan art de yagami_taichi (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2893,
+  "alto": 2343,
+  "que_es": "Fan art de yagami_taichi (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27092465)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/566/f28a89d3c65cd36e2595c5204733f8d0ee7ea1e5.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3267,
+  "alto": 600,
+  "que_es": "Fan art de yagami_taichi (http://img44.pixiv.net/img/hajime-ill-1st/16839183.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/878/ff92c1c92e2ebf8e7ed4c5a6b34e7c25067416ce.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 723,
+  "que_es": "Fan art de agumon (http://i2.pixiv.net/img44/img/hajime-ill-1st/29158772.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4155/23ef8211864ffd88e2d27020adeec945b17efa51.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 779,
+  "que_es": "Fan art de agumon (https://twitter.com/WithTheWill/status/1632838625129033728)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1075/a68e70e42576adf921db34c17232ed820fecbb8b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1172,
+  "alto": 886,
+  "que_es": "Fan art de agumon (http://i2.pixiv.net/img42/img/temk/37457779.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/683/7a5a62310cf6e5a53e604a5a149769cd19d2658c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 2300,
+  "que_es": "Fan art de agumon (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;illust_id=20730016)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/655/c60e439be0f0c62595071041e5f2e3e82c4c67f6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fan art de agumon (http://img44.pixiv.net/img/hajime-ill-1st/20757750.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/456/a6fee1b5b529af491699296dee2572ccd3fc3252.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1694,
+  "que_es": "Fan art de agumon (http://img20.pixiv.net/img/nijiirosekai/12253862.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1033/60746bdf3cccac6e8da365d46b2a0ba9c9303db9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Fan art de gabumon (http://i2.pixiv.net/img40/img/ayamezqq/37478771.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/865/518cf893c91845a5f0f48932be71cae85636808a.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1000,
+  "que_es": "Fan art de takenouchi_sora (http://i2.pixiv.net/img30/img/dreamearth/28544789.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3054/fe465ebbec50aebc0400f259b5d1c8cbb62033d3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 826,
+  "alto": 1748,
+  "que_es": "Fan art de takenouchi_sora (https://maro05.tumblr.com/post/154787030697)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1075/ea096955496462a6ec370c1eaaa28d436f5f330c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1071,
+  "alto": 895,
+  "que_es": "Fan art de takenouchi_sora (http://i2.pixiv.net/img42/img/temk/37456629.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3196/b8f9db7dd75d01de1b563159e5b06c07cc4932ba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1270,
+  "que_es": "Fan art de angewomon (https://twitter.com/sinobali/status/1347211688966193152)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/755/c18adb63bc3520602a836a2decd445f84f61890b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Fan art de angewomon (http://img12.pixiv.net/img/nyoroko/5567677.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1445/2833dd1eb37ffb02889efd46da2f249488efcb89.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 591,
+  "alto": 886,
+  "que_es": "Fan art de angewomon (http://i1.pixiv.net/img-original/img/2015/06/11/18/10/43/50840684_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/985/7b8ab5a0dd3c5c945c393f00f4d9d545f83cbdbd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 1500,
+  "que_es": "Fan art de yagami_hikari (http://i1.pixiv.net/img35/img/puru0083/33919420.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/964/974f70f5894bde132840c639d1318204bd492147.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 720,
+  "que_es": "Fan art de tailmon (http://i1.pixiv.net/img117/img/coco6_n/32604378.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1593,
+  "que_es": "Fan art de tailmon (https://x.com/doremifaso64/status/2051643073260892442)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3867/c547182c5df74b3672bb7ed0c54ea35878253a25.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1515,
+  "que_es": "Fan art de tachikawa_mimi (https://twitter.com/Kukakooo/status/1528119165734817802)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
+  "fuente": "AniList",
+  "ancho": 460,
+  "alto": 690,
+  "que_es": "Portada oficial del anime Digimon Adventure",
+  "para_que": "arte oficial de referencia general (punto 1)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/552-xAHaRMpoco2e.jpg",
+  "fuente": "AniList",
+  "ancho": 1280,
+  "alto": 371,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1963-dOvRGlPBRIYw.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato de Hikari Yagami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2278-2pznB5TswqIk.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato de Mimi Tachikawa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1961-tH2XftpODD7y.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Takeru Takaishi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2277-4iS5JyV5uyjS.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 368,
+  "que_es": "Retrato de Koushirou Izumi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2812-UkLkIUhVyrU8.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 393,
+  "que_es": "Retrato de Jou Kido",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9950-QAOttyTh15ti.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato de Patamon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5977.jpg",
+  "fuente": "AniList",
+  "ancho": 225,
+  "alto": 319,
+  "que_es": "Retrato de Gomamon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9953-4In5NaqAYCdg.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 346,
+  "que_es": "Retrato de Tentomon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/9954.jpg",
+  "fuente": "AniList",
+  "ancho": 225,
+  "alto": 350,
+  "que_es": "Retrato de Tailmon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x93qmh2",
+  "fuente": "Dailymotion (datos-video.md)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Digimon: Digital Monsters | movie | 1999 | Official Trailer (JustWatch), 1:21",
+  "para_que": "punto 10 (tráiler oficial de la primera película, ya listado en datos-video.md)",
+  "licencia": "© Toei Animation / Saban; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/butter-fly-digimon-single",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Single original \"Butter-Fly\" de Kouji Wada (1999), subido completo en Internet Archive",
+  "para_que": "punto 9 (segunda fuente que confirma autoría/año del opening, cruzada con la cartela del propio vídeo y con Wikimon)",
+  "licencia": "© dominio del sello; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/digimon-digital-monsters-the-original-english-soundtrack",
+  "fuente": "Internet Archive (datos-video.md)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banda sonora original en inglés de la serie (colección orquestal)",
+  "para_que": "punto 9 (música incidental/ambiente, ya listada en datos-video.md)",
+  "licencia": "© Toei Animation / Saban; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version",
+  "fuente": "Internet Archive",
+  "ancho": 764,
+  "alto": 568,
+  "que_es": "Colección completa de episodios en inglés (Saban), formato original .mkv 764×568, 104 episodios listados por título exacto",
+  "para_que": "punto 2 (fuente alternativa de escenas por episodio con título/n° exactos si hace falta ampliar; no descargada entera por tamaño, ~110-210 MB por episodio)",
+  "licencia": "© Toei Animation / Saban; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x88ob2a",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Digimon Adventure tri. Tráiler VO (versión original, canal Sensacine), 4:04",
+  "para_que": "punto 10 (tráiler oficial en versión original, alternativa/duplicado de x8x2nx4 para no depender de una sola fuente)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x7xesbl",
+  "fuente": "Dailymotion (datos-video.md)",
+  "ancho": 512,
+  "alto": 384,
+  "que_es": "Digimon Adventure - Intro (Deutsch) HD (canal Moviepilot), 1:35",
+  "para_que": "referencia comparativa de otro doblaje del opening (no usado para poses, sólo para el punto 9)",
+  "licencia": "© Toei Animation / Bandai; sólo referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/discover/esta-sera-la-ultima-digievolucion-2024",
+  "fuente": "TikTok (hallado por WebSearch)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tendencia hispanohablante \"esta será la última digievolución\" (30° aniversario, 2024) y el chiste \"digievoluciono al saltar al cumplir 30 años\"",
+  "para_que": "punto 10 (tendencia de TikTok en español; no se pudo abrir el vídeo en sí, sólo la página de etiqueta)",
+  "licencia": "usuarios de TikTok; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=JOK5aPOeo2I",
+  "fuente": "YouTube (bloqueado en este servidor)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Digimon Adventure Tri. Part 1 - Official Trailer (Crunchyroll Store Australia): yt-dlp -F confirma formato 1080p real, pero la descarga del vídeo dio HTTP 403 (pide inicio de sesión) desde este servidor",
+  "para_que": "documenta por qué el punto 2 no llega a 1080p desde aquí: es evidencia del bloqueo, no una referencia para usar en la lámina",
+  "licencia": "© Toei Animation / Crunchyroll; sólo referencia"
+ },
+ {
+  "url": "https://www.dafont.com/digimon-world-ds.font",
+  "fuente": "dafont.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente fan-made «Digimon World DS» que imita el logo pixelado; FALLA la comprobación con fontTools (sin tildes/ñ/¿/¡)",
+  "para_que": "advertencia: no usar para texto en español, sólo serviría para el wordmark «DIGIMON» suelto",
+  "licencia": "100% gratis (dafont), sólo caracteres ASCII"
+ }
+]

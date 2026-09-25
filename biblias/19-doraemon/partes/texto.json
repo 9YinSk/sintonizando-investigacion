@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://cgworld.jp/interview/1408-sbmd-2.html",
+    "fuente": "CGWorld.jp (revista japonesa especializada en CG, entrevista oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda parte de la entrevista de 2014 al equipo de Stand By Me Doraemon (director de arte Makoto Hanabusa, CG supervisor Kenshi Suzuki, líder BG/assets Yoshitaka Takeuchi): materiales 'goma futura'/'plástico futuro', el 'Poko' del labio, línea de contorno por textura, variantes de ojos",
+    "para_que": "Fuente principal del punto 18 (técnica y cómo replicarla): base para la guía de Blender/Photoshop",
+    "licencia": "Artículo editorial con derechos de CGWorld/Born Digital; sólo cita y enlace, no reproducir imágenes"
+  },
+  {
+    "url": "https://cgworld.jp/feature/202101-cgw269t2dora.html",
+    "fuente": "CGWorld.jp",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de 2021 sobre el flujo de trabajo de Stand By Me Doraemon 2: V-Ray, Nuke, ACES/OpenColorIO, 3ds Max 2017",
+    "para_que": "Punto 18: equivalencias V-Ray/Nuke/ACES → Cycles/compositor/Filmic-AgX de Blender",
+    "licencia": "Artículo editorial con derechos de CGWorld/Born Digital"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/1408/14/news030.html",
+    "fuente": "ITmedia PC USER (medio japonés de tecnología)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista/reportaje 2014 sobre la infraestructura de render de Stand By Me Doraemon: 3ds Max, estaciones Precision T7600, 250 servidores de render",
+    "para_que": "Segunda fuente independiente del software 3ds Max (punto 18)",
+    "licencia": "Artículo editorial con derechos de ITmedia"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Shin-Ei_Animation",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del estudio Shin-Ei Animation con lista completa de series que animó (Doraemon 1979 y 2005, Perman, Kiteretsu, Chinpui, Crayon Shin-chan)",
+    "para_que": "Puntos 18 y 24: estudio de animación y obras parecidas del mismo estudio/autor",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon_(series)",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha general de la franquicia: manga (1969-1996), anime, películas anuales desde 1980, récord de taquilla sobre Godzilla, Museo Fujiko F. Fujio (2011), embajador cultural anime, TIME Asian Hero, residencia honoraria en Kawasaki",
+    "para_que": "Punto 25: cronología, hitos culturales y legado",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje: origen en la fábrica Matsushiba (modelo MS-903), por qué es azul (le comió las orejas un ratón robot, lloró y se le lavó el amarillo), miedo a médicos y ratones, bolsillo 4D, cascabel",
+    "para_que": "Punto 25: reglas del mundo y símbolos (el cascabel, el color azul)",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Anywhere_Door",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del gadget Puerta a Cualquier Parte (どこでもドア), con color de ficha #f17baf y su historia dentro de la película de 2013",
+    "para_que": "Punto 25: vocabulario/símbolo con color oficial de la wiki",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Take-copter",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del gadget Take-Copter/Bamboo-copter (タケコプター, 'The Hopter' en el doblaje inglés), color de ficha #FFC107",
+    "para_que": "Punto 25: vocabulario/símbolo con color oficial de la wiki",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/4D_Pocket",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Bolsillo 4D (四次元ポケット): blanco liso en Doraemon, rayas rojas en el de Dorami; traducciones a varios idiomas",
+    "para_que": "Punto 25: regla central del mundo (cómo saca los inventos) y vocabulario multilingüe",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://doraemon.fandom.com/wiki/Doraemon:_Nobita%27s_Secret_Gadget_Museum",
+    "fuente": "Doraemon Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la película de 2013 (33ª, dir. Yukiyo Teramoto, arte Makoto Dobashi): a Doraemon le roban el cascabel y sin él actúa como gato normal",
+    "para_que": "Punto 25: el cascabel como símbolo de identidad, con trama que lo demuestra",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://cute-freefont.flop.jp/tukiakari_doraemoji.html",
+    "fuente": "Blog de tipografías gratuitas japonesas (fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente japonesa gratuita 'ドラえ文字' (Dora-e-moji) inspirada en el logo de Doraemon; sólo hiragana/katakana/números, sin letras latinas",
+    "para_que": "Punto 5: referencia visual del logo japonés (NO usar para texto en español: licencia personal, sin ñ/tildes)",
+    "licencia": "Gratuita, uso personal únicamente, no comercial"
+  },
+  {
+    "url": "https://www.toonsmag.com/fujiko-fujio/",
+    "fuente": "Toons Mag (revista digital de cómic/animación)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Perfil de Fujiko F. Fujio: influencia de Osamu Tezuka (leyó Shin Takarajima), mudanza a Tokio en 1954, mentoría breve de Tezuka, ayudó a terminar Kimba the White Lion",
+    "para_que": "Punto 24: influencias reconocidas del autor",
+    "licencia": "Artículo editorial"
+  },
+  {
+    "url": "https://www.switchaboo.com/doraemon-story-of-seasons-switch-review-2/",
+    "fuente": "Switchaboo (reseña de videojuegos, Nintendo Switch)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña de Doraemon Story of Seasons: confirma el estilo acuarela en casi todo el juego, con efectos de agua trabajados",
+    "para_que": "Punto 11: confirmar (2ª fuente) el estilo visual del videojuego",
+    "licencia": "Artículo editorial"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/RETAS",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del software RETAS Studio (CELSYS), estándar de entintado/pintura digital en la animación de TV japonesa, usado por Toei Animation",
+    "para_que": "Punto 18: pista (⚠️, sin confirmar para Doraemon en concreto) sobre el software 2D del sector",
+    "licencia": "CC BY-SA (Wikipedia)"
+  },
+  {
+    "url": "https://nokikero.com/dora-gadget-jingle-origin-tidbit/",
+    "fuente": "Nokikero (blog japonés especializado en curiosidades de Doraemon)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Origen del sonido al sacar un invento: 'pikon'/'pishapisha' con Nobuyo Ōyama (1979-2005) vs. 'bikan' con Wasabi Mizuta (2005-); el 'te-re-re-tte-tere' es mito popular, no el sonido real",
+    "para_que": "Punto 6: confirmar el cambio de sonido por generación de doblaje japonés",
+    "licencia": "Blog personal, artículo editorial"
+  }
+]
