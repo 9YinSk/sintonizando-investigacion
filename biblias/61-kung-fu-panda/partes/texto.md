@@ -62,6 +62,18 @@ sus globos y onomatopeyas.
   hacia arriba sobre fondo oscuro, como los créditos de una película o el
   scroll de *Star Wars* ✅ (wikitext de `Kung Fu Panda: The Game`, sección
   Gameplay). Sin fuente identificada para ese texto ⚠️.
+- **Cartel del mundo**: el rótulo real de la fonda de Po, **«Dragon Warrior
+  Noodles & Tofu»** (antes «Golden Harvest Noodle Restaurant», renombrada en
+  honor a Po tras la primera película) ✅ (wikitext de `Noodle shop` + visto
+  en `newnoodleshop.jpg`, 1920×816): una **tabla de madera con caracteres
+  chinos tallados y pintados en rojo** (神龍大侠 — "Guerrero/Héroe Dragón" —
+  y 麵, fideos), colgada entre **dos dragones tallados** sobre el arco de
+  luna de la entrada; junto al arco hay un cartel más pequeño a juego con la
+  silueta de Po. Colores medidos con Pillow: madera del rótulo `#974C2F`,
+  caracteres rojos `#652013`, arco de piedra `#BF9256`. Esta talla en
+  madera con caracteres reales (no una fuente latina) es el «cartel del
+  mundo» más claro de toda la franquicia — mejor referencia que cualquier
+  letrero inventado.
 - **Chinese brush fonts libres, comprobadas con fontTools** (para
   onomatopeyas o detalles cortos en chino/inglés, NO para párrafos en
   español): **Long Cang**, **Ma Shan Zheng**, **Zhi Mang Xing** y **Liu
@@ -386,22 +398,34 @@ cronología oficial de la wiki) ✅:
 
 ## Lo mejor para la lámina
 
-1. **El Dragon Scroll** (pergamino reflectante rojo/verde/oro) o un
+1. **El cartel tallado de la fonda de Po** («Dragon Warrior Noodles &
+   Tofu», madera `#974C2F` con caracteres rojos `#652013` entre dos
+   dragones, visto en `newnoodleshop.jpg`) como objeto real en sitio real
+   para colgar la info del canal — cumple la regla 1 del dueño mejor que
+   cualquier letrero inventado, y es exclusivo de KFP (Shrek no tiene nada
+   parecido).
+2. **El Dragon Scroll** (pergamino reflectante rojo/verde/oro) o un
    **Sacred Scroll ilustrado con posturas** (pergamino beige con figuras en
-   secuencia y un yin-yang, visto en `sacred_scroll.jpg`) como objeto real
-   en sitio real para escribir la info del canal — cumple la regla 1 del
-   dueño y no repite el "libro que narra" que ya usó Shrek.
-2. **El logo oficial en arco** (oro `#F0C42D`/`#F6DE59` + rojo degradado
+   secuencia y un yin-yang, visto en `sacred_scroll.jpg`) como alternativa,
+   si se prefiere un objeto que se desenrolla.
+3. **El logo oficial en arco** (oro `#F0C42D`/`#F6DE59` + rojo degradado
    `#CE2125`→`#F1352C`, letras talladas en arco) para cabeceras — con
    Rampart One (con tildes/ñ/¿/¡ comprobadas) como letra libre de refuerzo
    para texto corto en mayúsculas.
-3. **Las onomatopeyas gigantes del manga japonés real** (ドガ, ガシャ,
+4. **Las onomatopeyas gigantes del manga japonés real** (ドガ, ガシャ,
    グルグル, dibujadas como parte de la viñeta) como referencia directa de
    "texto que golpea", muy alejadas de cualquier globo blanco genérico —
    vistas en `Kfpmanga-4.jpg`.
 
 ## No encontré
 
+- **Globo de "pensamiento" o "grito" con forma propia** (parte del punto 5):
+  busqué «thought bubble» en el texto completo de la wiki (`srwhat=text`) y
+  sólo salieron transcripciones de episodios sin describir la forma del
+  globo; no se confirmó una forma de globo de pensamiento distinta a la de
+  diálogo normal en ninguna fuente oficial de KFP (el manga japonés visto
+  directamente sólo mostró globos normales y una explosión tipo grito sin
+  texto claro dentro, ver `Kfpmanga-1.jpg`).
 - **Fuente exacta del logo oficial de las películas**: busqué «Kung Fu
   Panda movie logo font identify», «carved chinese temple style typeface» —
   sólo salió la réplica de fan de HackFonts, personal-use only, sin poder
@@ -477,7 +501,7 @@ cronología oficial de la wiki) ✅:
 
 | Punto | Estado | Por qué |
 |---|---|---|
-| 5 · Tipografía | ✅ | Logo oficial medido en hex + logo del cómic + manga real + narración en juego; 8 letras libres comprobadas con fontTools (tildes/ñ/¿/¡); falta la fuente exacta del logo oficial (dicho en «No encontré») |
+| 5 · Tipografía | ✅ | Logo oficial medido en hex + logo del cómic + manga real + narración en juego + cartel del mundo (tallado en madera) medido; 8 letras libres comprobadas con fontTools (tildes/ñ/¿/¡); falta la fuente exacta del logo oficial y la forma de un globo de pensamiento/grito propios (dicho en «No encontré») |
 | 6 · Cómo hablan en pantalla | ✅ | Manga japonés real visto directamente (globos, onomatopeyas), cómic occidental, Sacred Scrolls y Dragon Scroll medidos/vistos, cambio de técnica por escena en Dragon Knight; falta ver una página de cómic con globos de diálogo reales (⚠️, dicho) |
 | 11 · Videojuegos | ✅ | Lista completa de la wiki con año/estudio/plataforma; HUD de Showdown confirmado en wikitext propio; TCRF citado pero bloqueado por Cloudflare (⚠️, dicho); ninguna interfaz de diálogo con imagen propia (dicho en «No encontré») |
 | 18 · Estilo y técnica | ✅ | Ink wash + referencias de cine wuxia (Zibach), 2D subcontratado (Reel FX/Film Roman), dos estilos 2D en KFP2, cámara Go-Po y rig de 8130 controles en KFP4, con equivalencias en Blender y Photoshop; falta cita de encuadre/composición por emoción específica (dicho en «No encontré») |

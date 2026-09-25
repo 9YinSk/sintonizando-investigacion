@@ -446,7 +446,8 @@ lo confirma (entonces ✅ imagen+texto).
 | 19 · Texturas 2D | ✅ | Manga y cómic oficiales identificados, prólogo 2D confirmado, emblemas repetidos localizados, texturas CC0 enlazadas. ⚠️ en pinceles de tinta libres (no encontrados). |
 | 23 · Colaboraciones y cruces | ✅ | Parques, bebida, 2 crossovers de videojuegos con doble fuente, figuras oficiales, cosplay listado. |
 
-Sigue: nada pendiente obligatorio de mis puntos (1, 3, 15, 16, 19, 23). Si hay
-tiempo/cupo extra: mirar en detalle el video de cosplay de Tigresa (minuto
-exacto), buscar una segunda fuente para Dreamworld Australia y las figuras
-Mattel, y probar búsqueda nativa en japonés para el manga de Kadokawa.
+**Parte terminada**: lo obligatorio de los puntos 1, 3, 15, 16, 19 y 23 está
+cubierto (ver tabla arriba). Quedan sólo extras opcionales, ya anotados en
+«No encontré»: mirar el video de cosplay de Tigresa con minuto exacto,
+segunda fuente para Dreamworld Australia y las figuras Mattel, y búsqueda
+nativa en japonés del manga de Kadokawa.
