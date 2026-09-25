@@ -769,3 +769,123 @@ latinas están en **33 §12**. Lo nuevo:
   votos**) y «Background practice ft the gang» (25): la comunidad **comparte
   fondos hechos por fans** ⚠️ sólo el título.
 
+## Punto 11 · Videojuegos (no hay juego propio)
+
+⚠️ **No hay un videojuego propio de Frieren**: lo confirmó 33 §13 y lo
+volvió a comprobar la parte de texto (`site:tcrf.net Frieren`, cero
+páginas; [TCRF](https://tcrf.net) bloquea con Cloudflare, dos intentos;
+tampoco hay juegos en Steam en los datos del recolector). **No es un hueco
+de búsqueda: no hay nada que cortar porque no hay juego.** Las
+colaboraciones (Mabinogi, Monster Strike, Puzzle & Dragons) y su texto en
+pantalla están en 33 §7.3 y §13.
+
+**Nuevo: MapleStory × Frieren** (9-sep a 7-oct-2026) ·
+[Noisy Pixel](https://noisypixel.net/maplestory-frieren-beyond-journeys-end-collaboration-september-2026/)
++ [Nexon, micrositio oficial](https://www.nexon.com/maplestory/micro-site/frieren) ✅:
+
+- El evento **empieza con una estatua de bronce que aparece en «Mushroom
+  Hill»**, una zona clásica del juego, antes de que el grupo «llegue» al
+  Mundo Maple.
+- «Frieren's Spell Collection Event»: misiones y jefes para **coleccionar
+  grimorios**; «Adventure with Frieren's Companions»: Frieren y Fern
+  ayudan en combate; mascotas «Petite Luna» y trajes.
+- **Por qué importa aquí**: el **monumento conmemorativo** viaja intacto a
+  un paisaje que no es el suyo. Otro argumento para la estatua como objeto
+  central (concepto A).
+- ⚠️ No se vieron capturas de su **caja de diálogo** (el evento empezó al
+  cerrar la investigación).
+
+## Punto 12 · Lo que ama el fandom, y qué NO hacer
+
+Los memes (el mímico, «Himmel lo habría hecho», la hamburguesa, «sólo veía
+la mitad del cielo»…) y una tabla de 9 «qué no hacer» están en **33 §14**.
+Lo nuevo: cómo reacciona el fandom **al sitio**.
+
+- **«It just occurred to me that there will be another Era Meteor
+  Shower»** (r/Frieren, **131 votos, 16 comentarios**): «*the thought of
+  Frieren, Fern and Stark watching it together at the same spot Frieren
+  watched it last with Himmel made me sad…*» ·
+  [Reddit](https://www.reddit.com/r/Frieren/comments/1qcs15z/it_just_occurred_to_me_that_there_will_be_another/)
+  (leído por [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Frieren&query=meteor))
+  ✅. El fandom sigue **el calendario ficticio** de los meteoros como si
+  fuera real: **duele una escena que todavía no ha pasado**, sólo por
+  ocurrir en el mismo sitio.
+- Los dos fan arts de **@tsuicaa** sobre los meteoros (3.225 y 2.864 votos,
+  Punto 3) confirman que el **paisaje del meteoro** es un tema en sí.
+
+### 12.1 Qué NO hacer (además de la tabla de 33 §14.3)
+
+| No hacer | Por qué | Fuente |
+|---|---|---|
+| **Frieren con una cara grande de tristeza** (boca abierta, lágrimas a chorro) | su cara está pensada para «**transmitir emociones complejas con pequeñas variaciones**», «gestos mínimos», «una expresión de gato viejo» | [efrenrodher.com, análisis del *Art Works*](https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/) ✅ + la diseñadora Reiko Nagasawa (33 §8) |
+| **Subir la saturación «para dar emoción»** | la serie entristece por ser **tranquila y acogedora**, no por el dramatismo | [Espinof](https://www.espinof.com/criticas/que-frieren-beyond-journeys-end-uno-mejores-animes-ano-melancolica-reflexion-paso-tiempo-a-traves-viaje-lleno-magia) ✅ + las medidas del Punto 4 |
+| **Ruinas trágicas** (fuego, sangre, escombro caótico) | las ruinas de Frieren son **«decadencia digna, envejecida con gracia»**: musgo, piedra lavada, maleza ordenada | [Unwinnable](https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/) ⚠️ + fondos vistos (Punto 1) |
+| **Himmel sólido y a color junto a Fern y Stark** | nunca se conocieron; en memoria va **translúcido o en luz dorada** | 33 §14.3 + Flamme en Aureole (Punto 2) |
+| **Decir que un sitio real es «el» modelo oficial** | ningún estudio lo confirma: es **atmósfera** | Punto 18 ⚠️ |
+| **Usar el AMV con canción de IA** como ejemplo de la comunidad | es una canción hecha con Suno, 22 visitas | Punto 22 |
+| **Poner «Himmel lo habría hecho» como frase del doblaje** | no se ha oído en latino | Punto 8 |
+
+## Punto 13 · Los personajes: la cara en cada emoción
+
+**El retrato completo** (carácter, historia, miedos, arco, cómo hablan, se
+ríen, se enfadan y saludan, lenguaje corporal y dinámicas) de Frieren, Fern,
+Stark, Himmel y los secundarios está en **33 §8**. Aquí va lo que le
+faltaba: **la cara en cada emoción, con fotograma**, y **qué transmite cada
+uno desde la memoria**.
+
+### 13.1 Por qué la cara de Frieren es tan pequeña
+
+- El análisis del *Art Works* de Tsukasa Abe: Frieren es «**introspectiva y
+  emocionalmente contenida**», con «miradas sutiles»; muchas imágenes
+  «parecen capturar **un instante después de algo importante o justo antes
+  de que pase algo**»: «hay una **tensión emocional silenciosa**» ·
+  [efrenrodher.com](https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/)
+  ✅ con la cita de la diseñadora del anime, Reiko Nagasawa: «sus ojos
+  parecen inexpresivos, pero tienen **muchas diferencias pequeñas de
+  expresión**» (33 §8). **La contención es el estilo, no un accidente.**
+
+### 13.2 Frieren en cinco emociones (fotogramas de la wiki, 1920×1080, vistos)
+
+⚠️ La wiki da el **episodio, no el minuto**. No se inventa el minuto:
+queda para quien vea el capítulo (las caras cronometradas por 33 están en
+33 §15).
+
+| Emoción | Fotograma | Qué se ve | En la hoja |
+|---|---|---|---|
+| **Alegría** | [EP23, «delight over her findings»](https://frieren.fandom.com/wiki/File:Frieren%27s_delight_over_her_findings_EP23.png) | abraza una esfera oscura contra la mejilla, **ojos entornados**, sonrisa chica **de boca cerrada**; fuego desenfocado detrás. Ni un diente | memoria_01 n.º 17 |
+| **Rabia** (fría) | [EP7, «glares at Lügner»](https://frieren.fandom.com/wiki/File:Frieren_glares_at_L%C3%BCgner_EP7.png) | plano inclinado, **párpados a media asta**, mirada abajo, boca recta. Sin ceño fuerte | n.º 16 |
+| **Tristeza** (sin llanto a la vista) | [EP2, junto a la cuna vacía](https://frieren.fandom.com/wiki/File:Frieren_cries_over_Heiter%27s_imminent_death_EP2.png) | **cuerpo entero, de espaldas**, encorvada en un taburete; **luz de tarde en diagonal** por la ventana. La pena la cuentan la postura y la luz | n.º 15 |
+| **Miedo** (cómico) | [EP23, atrapada en el mímico](https://frieren.fandom.com/wiki/File:Frieren_gets_stuck_in_the_mimic_EP23.png) | medio cuerpo dentro del cofre, piernas y capa fuera: su único registro «grande», **y aun así sin cara** | — |
+| **Vergüenza** | [EP25, «is embarrassed»](https://frieren.fandom.com/wiki/File:Frieren_is_embarrassed_EP25.png) | se ajusta el cuello de la capa con las dos manos, **ojos casi cerrados**, boca recta un poco hacia abajo. **Sin rubor, sin gota de sudor** | n.º 18 |
+
+**Fern, el contraste**: [EP27, «Stark notices an upset Fern»](https://frieren.fandom.com/wiki/File:Stark_notices_an_upset_Fern_EP27.png)
+(memoria_01 n.º 19): **labios apretados en línea ondulada**, mirada fija a
+cámara: enfado contenido **pero legible al instante**. En una lámina de
+grupo, **Fern lleva la cara expresiva**; Frieren, no ✅ visto.
+
+### 13.3 Qué transmite cada uno desde la memoria
+
+- **Frieren**: el tiempo. Deja **una calma que duele**: la de alguien que
+  entiende tarde lo que perdió («¿por qué no intenté conocerlo más?», T1-01,
+  16:04, 33 §2). Ninguna de sus cinco caras ocurre **con Himmel presente**:
+  su gama completa se ve **después** de perderlo.
+- **Himmel**: el que se recuerda. Presumido en broma, generoso, siempre
+  ayuda. Su nombre significa **«cielo»** (Punto 20), levantó estatuas «para
+  que no te sientas sola» (Punto 8). Deja **cariño y ausencia**: en esta
+  biblia **nunca aparece en el presente**.
+- **Fern**: el presente que tira de Frieren. **Regaña con la cara**, no con
+  gritos; la trata de usted («Señora Frieren», 33 §10.4). Deja **ternura y
+  firmeza**.
+- **Stark**: el miedo valiente. Es el que **más se ríe con naturalidad** y el
+  que **más se avergüenza en público** (33 §8). Deja **calidez torpe**.
+- **Flamme**: la maestra muerta. Su visita a Aureole (Punto 2) es la escena
+  más clara de **alguien que va a ver a sus muertos**.
+
+### 13.4 Dinámicas para láminas de grupo
+
+- Fern saca a Frieren de su desconexión **con la cara**; Stark relaja el
+  grupo; Himmel sólo existe **en recuerdo** (ficha de la wiki en inglés,
+  comprobada otra vez por la parte de voz ✅).
+- Para una lámina de memoria en grupo: **Fern y Stark de frente, Frieren
+  un paso atrás y de espaldas, Himmel translúcido al fondo**.
+

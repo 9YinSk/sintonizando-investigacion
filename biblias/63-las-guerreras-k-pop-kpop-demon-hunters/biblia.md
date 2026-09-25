@@ -194,3 +194,123 @@ Si hace falta un plano grande, el *scenepack* 4K de fans en
 cantera. No usar las copias piratas de la película entera que aparecen
 en Internet Archive.
 
+## 3 · Arte oficial y hojas de contacto (punto 1)
+
+### Libros y key art
+
+- **Artbook oficial: *The Art of KPop Demon Hunters*** (Tracey
+  Miller-Zarneke; Random House Worlds con Gallery Nucleus), 142-144
+  páginas, más de 500 piezas: bocetos, estudios de personaje, arte final.
+  La **edición Platinum** salió el 8-sep-2026 con cortes holográficos
+  «Honmoon»
+  ([Penguin Random House](https://www.penguinrandomhouse.com/books/837553/the-art-of-kpop-demon-hunters-by-tracey-miller-zarneke-and-random-house-worlds/),
+  [Gallery Nucleus](https://www.gallerynucleus.com/detail/43364/)). ✅
+- **Libro oficial de pósters**: más de 35 pósters, portada con *foil*
+  ([Netflix Shop](https://www.netflix.shop/products/kpop-demon-hunters-the-official-poster-book)). ⚠️
+- **Key art y tráiler**: nota de prensa de Netflix
+  ([AWN](https://www.awn.com/news/netflix-debuts-kpop-demon-hunters-official-trailer-key-art)). ✅
+- **La wiki de Fandom** tiene 813 imágenes en las fichas de los cuatro
+  protagonistas; 478 grandes: renders 4K, retratos, hojas de vestuario
+  por traje y arte conceptual firmado. ✅
+
+### Quién dibujó qué (nombres de archivo de la wiki)
+
+| Artista | Qué hay suyo | Dónde |
+|---|---|---|
+| **Simonbaek** | *Storyboards* de escenas clave (Rumi con Celine, el Honmoon roto, la tumba de la madre), versión de instituto de las chicas, portadas de revista «Hibiscus» | hoja `concept_02`, nº 59, 68-73, 94; `personajes_01`, nº 9-10 |
+| **nachomolina** | Diseño de set y de efectos del Honmoon (Seúl de noche desde una colina) | `personajes_01`, nº 29-30 |
+| **Mingjuechen** | Arte del Honmoon | ficha de Rumi |
+| **Wendell** | Retrato de Jinu | `concept_02`, nº 60 |
+| **Amithompson** | Ilustración de Rumi | `concept_02`, nº 57 |
+| **Eunicho** | Efectos e invocación de la espada | `personajes_01`, nº 42; `vestuario_10`, nº 473 |
+
+✅ (nombres vistos en las hojas; fichas de
+[Rumi](https://kpop-demon-hunters.fandom.com/wiki/Rumi),
+[Mira](https://kpop-demon-hunters.fandom.com/wiki/Mira),
+[Zoey](https://kpop-demon-hunters.fandom.com/wiki/Zoey) y
+[Jinu](https://kpop-demon-hunters.fandom.com/wiki/Jinu)).
+
+### Las 3 hojas de `hojas/`, número a número
+
+Montadas con `investigar_serie.py` sobre la wiki. **Miradas por el
+redactor** una a una (corrige números de la parte de imagen, §28).
+
+**`personajes_01.jpg`** (nº 1-48): poses vivas y producto.
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| 1, 25, 26 | Mira y Rumi hablando en casa, en sudadera; Mira con el jersey de oso polar | Las chicas fuera del escenario |
+| 2 | La espada **Saingeom**, dos fases | Objeto |
+| 3 | **Zoey** render 4K: salto con sus *shin-kal* | Acción |
+| 4 | Rumi, traje «What It Sounds Like» | Traje de gala lila |
+| 5 | Rumi, traje «Takedown», con la espada | Traje oscuro |
+| 6 | Rumi, traje «**Free**»: **sudadera lila y vaqueros**, de la mano de alguien | Rumi casual (no es la cazadora amarilla) |
+| 7 | **Rumi** render de cazadora: espada en diagonal, pierna adelantada | Pelear |
+| 8, 23 | **Mira** render 4K y cuerpo entero con el gok-do | Pelear, presentar |
+| 11, 19, 20, 21 | Fotogramas 4K: Rumi y Jinu, Rumi y Celine | Escenas de diálogo |
+| 12 | Zoey, traje dorado | Gala |
+| 13-14 | Cajas Youtooz «Monitor Buddiez» (Jinu y Rumi; Mira y Zoey) | Figura chibi oficial |
+| 15 | Rumi con la Saingeom en batalla, neón magenta | Acción |
+| 16 | Mira retrato: top negro, falda naranja, gok-do | Presentar |
+| 17 | **Rumi retrato: cazadora amarilla**, top corto, trenza | La ropa más reconocible |
+| 18 | **Zoey retrato**: *shin-kal* en alto, top halter turquesa | Presentar, regañar |
+| 22, 24 | Jinu: traje de *Play Games With Us* y traje «Soda Pop» | Jinu de ídolo |
+| 27 | Arma de Mira (gok-do), diseño | Objeto |
+| 29-30 | Seúl de noche con silueta en una colina (nachomolina) | Fondo |
+| 31-33 | Autógrafos de Mira, Zoey (guiño) y Rumi con el logo HUNTR/X | Objeto firmado |
+| 34-36 | Youtooz «figure and pin» de Rumi, Zoey y Mira, en dorado | Figura |
+| 38 | Rumi en forma demonio, angustiada | Miedo |
+| 39-40 | Rumi y Zoey, renders de los Idol Awards | Gala |
+| 41 | Los Saja Boys en la tele | Pantalla |
+| 44-45 | Fotogramas de Sony Animation (neón; Rumi con el puño en alto) | Acción |
+| 46-48 | Merch de los Saja Boys (chapas, camiseta) | Producto |
+
+**`concept_02.jpg`** (nº 49-96): estilo, gestos y símbolos.
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| 49-53, 80-82 | Merch oficial: camisetas, pijama, pegatinas, taza, toalla | Qué no copiar (§14) |
+| 54-55 | «Climax outfits»: color explosivo, 2D pintado | Efectos del clímax |
+| 56, 74 | Rumi render normal y cuerpo entero: cazadora amarilla | Pose de pie |
+| 58, 75 | Concept de los Saja Boys: ropa de calle pastel y **hanbok negro con *gat*** | Saja Boys |
+| 60 | Retrato de Jinu (Wendell) | Jinu sonriente |
+| 61 | Traje de inspiración tradicional (MAMA) | Gala coreana |
+| 62 | Efectos de la espada, pintado encima | Luz de las armas |
+| 63-67 | Fotogramas de Rumi: con la espada de luz, tumbada con un vaso de ramyeon «RUMI» | Rumi en casa y en acción |
+| 68-73 | *Storyboards* de Simonbaek | Encuadres del estudio |
+| 76-78 | Hojas de **invocación de armas por el Honmoon** (tambor, anillo con *shin-kal*, «sprites») con notas | Cómo aparecen las armas |
+| 79 | La montaña con las caras de HUNTR/X y Saja Boys | Promo |
+| 84 | **Las tres comiendo ramyeon**, vasos con su nombre | Concepto C |
+| 85, 87, 88 | Rumi comiendo, cantando al micro, con un vaso | Rumi feliz |
+| 86, 95 | Rumi y Mira, trajes dorados | Gala |
+| 89 | Jinu con *gat*, luz magenta | Jinu demonio |
+| 93 | **Zoey con «ojos de mazorca»** (gag chibi) | Vocabulario de gestos (§18) |
+| 94 | Portadas de la revista «Hibiscus» con Mira | Objeto impreso |
+| 96 | Pintura de color: ciudad de neón de los Saja Boys | Paleta de calle |
+
+**`vestuario_10.jpg`** (nº 433-478): ropa de todos los días y caras.
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| 433 | Rumi, cazadora amarilla, media sonrisa segura | Presentar |
+| 435, 437 | Mira de incógnito: gorra, gafas, cara de desconfianza | Mira escéptica |
+| 436, 453-455, 460 | Zoey disfrazada: sombrero amarillo, camisa floral | Zoey graciosa |
+| 438 | Jinu «Your Idol»: silueta de *gat* y túnica negra | Jinu amenaza |
+| 439, 462 | Rumi en bata, con el móvil | Rumi en casa |
+| 440 | Zoey rapeando al micro | Zoey en escena |
+| 441, 443-446 | Trajes dorados; Mira con chaqueta blanca y dorada | Gala |
+| 448 | **Mira furiosa**: dientes apretados, puños | Rabia |
+| 449 | Mira con fastidio | Regañar |
+| 450-452 | Mira en bata y toalla: susto, relax, dormida en la bañera | Humor |
+| 456 | Zoey en pijama | Casa |
+| 457-459 | Zoey pícara, suplicando con las manos juntas, triste | Emociones |
+| 461 | Zoey cantando «What It Sounds Like» | Alegría |
+| 465 | Zoey deslumbrada | Asombro |
+| 466 | Zoey abrazando el disco de las **Sunlight Sisters** | Fan |
+| 470 | Mira en batalla, luz verde | Pelear |
+| 471 | Rumi demonio en la oscuridad | Miedo |
+| 474-475 | Rumi en sudadera rosa: boca abierta; con una caja | Sorpresa |
+| 476 | HUNTR/X doradas | Grupo |
+| 477 | **Rumi escribiendo la letra de «Takedown»** en un cuaderno | Concepto A |
+| 478 | **Rumi comiendo kimbap** (meme) | Concepto C |
+
