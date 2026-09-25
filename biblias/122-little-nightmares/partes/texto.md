@@ -11,7 +11,54 @@ minuto/tamaño si aplica`.
 
 ## 5. Tipografía
 
-_pendiente_
+**Antes de nada, un aviso de todo el punto 5/6**: Little Nightmares **no tiene globos de manga, gritos,
+pensamientos ni onomatopeyas dentro del juego** — se buscó explícitamente en el texto de la wiki
+(`srsearch=onomatopoeia`, `srsearch=scream bubble OR thought bubble`, en inglés) y no aparece ninguna página;
+tampoco hay ninguna captura de las miradas (`ln1_1/2.jpg`, `ln2_1/2.jpg`, `ln3_1.jpg`) con ese tipo de
+elemento. Así que de la lista de usos que pide el encargo, sólo aplican de verdad **tres**: logo/título,
+cartel del mundo (que no es texto real, ver abajo) y menú/subtítulos de interfaz; los cómics sí añaden un
+cuarto uso real, el globo de cómic occidental (ver punto 6).
+
+- **Logo/título**: la fuente más repetida en foros de identificación es **Amatic SC**, con matices — un
+  usuario del foro de dafont escribió literalmente «it is amatic sc, the developers just made some changes
+  to the font», y otro respondió «It's not Amatic. But it's similar to Amatic» · ⚠️ (una sola fuente con
+  desacuerdo interno, no confirmado por el estudio) · [dafont: Little Nightmares Fonts?](https://www.dafont.com/forum/read/377044/little-nightmares-fonts).
+  **Comprobado con fontTools** (`TTFont(...).getBestCmap()`) sobre el archivo real de Google Fonts
+  (`AmaticSC-Bold.ttf`, v28): **trae ñ, Ñ, á, é, í, ó, ú, ¿ y ¡** · ✅ (comprobación mía, no de memoria) — así
+  que si se usa como aproximación libre, funciona bien en español.
+  - Para el **arte promocional** (carteles, no el logotipo del título) otro hilo de dafont identifica
+    **Gunoc** (Graphicfresh, de pago, en Creative Market) · ⚠️ (una sola fuente) ·
+    [dafont: Little Nightmares Promotional Font](https://www.dafont.com/forum/read/470992/little-nightmares-promotional-font).
+    Gunoc no se pudo comprobar con fontTools por ser de pago sin muestra descargable; como es una letra
+    rasgada/pintada a mano, una alternativa libre parecida y con tildes sería **Permanent Marker** o
+    **Caveat** (Google Fonts, ambas OFL) — sin confirmar visualmente el parecido exacto, ⚠️.
+- **Cartel del mundo (rótulos, anuncios, paquetes dentro del juego)**: **no es una tipografía real**. Todo lo
+  escrito dentro de la Pale City (carteles, periódicos, cajas de cereal, botellas) usa **la Lengua de the
+  Nowhere**, un alfabeto inventado que parece japonés o chino a primera vista pero no traduce a ningún idioma
+  · ✅ https://littlenightmares.fandom.com/wiki/The_Language_of_The_Nowhere (ver punto 6/25). **Para
+  replicarlo no se necesita una fuente real**: se dibujan símbolos propios repetidos y reordenados, o se usa
+  una fuente japonesa/china real y se le da la vuelta/deforma para que no se lea, tal como hizo el propio
+  juego (el cartel de parada de autobús imita el esquema azul y blanco de un cartel japonés real sin ser
+  japonés de verdad).
+- **Globo de cómic (Titan Comics, 2017 y Descent to Nowhere, 2025-26)**: mirado directamente en dos páginas
+  (`RainFerryman.jpg`, `Children-Fire.png`, ver punto 6). Es una letra de cómic occidental clásica en
+  mayúsculas, de trazo irregular tipo rotulado a mano — no se identificó el nombre exacto (el crédito del
+  cómic no incluye letrista) · ⚠️. La familia libre que ya usa el equipo para este mismo tipo de letra en
+  otras franquicias del servidor es **Anime Ace 2.0 BB** (Blambot, gratis, con tildes, ver
+  `biblias/_ya_hechas/_Cuadros de dialogo por franquicia (23-sep-2026).md`) — visualmente es una aproximación
+  razonable (mayúsculas, trazo de cómic limpio) aunque el cómic real es algo más sucio/irregular.
+- **Interfaz de menú y subtítulos**: no se consiguió una captura del menú principal o de la pantalla de
+  opciones para identificar la fuente (ver punto 11, «no se consiguió capturar el menú del juego en sí») ·
+  ⚠️. Como los tres juegos numerados no usan subtítulos de diálogo (no hay diálogo hablado), esta categoría
+  sólo importa para menús y para los créditos — se recomienda, a falta de la fuente real, una sans neutra y
+  legible en español como **Nunito Sans** o **Work Sans** (Google Fonts, OFL, con tildes/ñ) para cualquier
+  texto de interfaz que la lámina necesite (por ejemplo, el nombre del canal).
+- **Tildes, ñ, ¿, ¡ comprobados con fontTools** (obligatorio del encargo): sólo se pudo comprobar
+  **Amatic SC** de forma directa (los otros candidatos —Gunoc, Anime Ace 2.0 BB, la fuente real del cómic, la
+  del menú— no tienen archivo gratuito descargable para probar con `TTFont`). Las alternativas 100% libres
+  que si hace falta cubrir el mismo hueco con una fuente ya comprobada por el equipo en otra parte de la
+  biblia son **Caveat**, **Permanent Marker**, **Nunito Sans** y **Work Sans**, las cuatro de Google Fonts
+  (todas con soporte Latin Extended, que incluye ñ y tildes de forma estándar en esa plataforma).
 
 ## 6. Cuadros de diálogo, cartelas, subtítulos e interfaces (cómo hablan y piensan en pantalla)
 
