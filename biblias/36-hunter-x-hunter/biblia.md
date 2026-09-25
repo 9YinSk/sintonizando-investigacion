@@ -1386,7 +1386,7 @@ en mayúsculas más cercana al rótulo del tráiler ⚠️ (parecido a ojo).
   rango y nombre en **Barlow Condensed**; la frase, en **Lato**.
 - **Dónde va cada texto**: ⚠️ **el inventario no trae texto** para esta sala
   de voz. Propuesta, para que el dueño decida:
-  - Carta de Killua («Lv. 1 · rango A»): «Sala de voz para jugar juntos.»
+  - Carta de Killua (arriba «Lv.1» y rango «A», como la de objetos #21): «Sala de voz para jugar juntos.»
   - Carta de Gon: «Entra, di a qué juegas y únete.»
   - El libro abierto: casillas con los juegos del momento (se cambian a mano).
 - **Que no quede plano**: una carta **muy cerca de la cámara**, desenfocada;
@@ -1465,3 +1465,151 @@ tramos dudosos; OP1 de 0:26 a 0:34 cada 1 s) ✅:
   Moreno) o Hisoka (Gerardo Reyero, con su acento francés).
 - ¿**#castings** (choca con Oshi no Ko) o **#postulaciones**?
 
+## Cumplimiento del encargo
+
+| Punto de ENCARGO.md | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas con 92 piezas: libro oficial, Blu-ray, pósters, película, Zoff, tomos de lujo, calendario, dos juegos de lucha, hojas de modelo, bocetos de Togashi (§3) |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | Tráiler, ira de Gon, Kurapika contra Uvogin, Hisoka contra Kastro y episodios 131 y 147, con minuto (§2). Pero en **720p**: el 1080p no se pudo (YouTube bloqueado). En 4K sólo fotos fijas de la wiki, sin minuto |
+| 3 · Fan art y 3D con licencia | ✅ | 4 fan arts con su origen; 8 modelos de Sketchfab con licencia y crédito (§4). Sitios en 3D: sólo el dirigible ⚠️ |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 7 sitios con paleta medida en fotogramas propios y texturas CC0 (§5). Falta metal para las cadenas ⚠️ |
+| 5 · Tipografía, una letra por uso | ⚠️ | Letra libre para cada uso, comprobada con fontTools (§6, §27). Sin página de manga: globo, grito, nube y onomatopeya son por convención de Jump. Anime Ace no trae ¿ ni ¡: se propone Comic Neue |
+| 6 · Cómo hablan en pantalla | ✅ | 8 formas propias de la serie, vistas: rótulo del tráiler, carta de Greed Island, licencia, placa, técnica gritada, kanji 「変」, narrador y caja del juego de DeNA (§7). El globo del manga, sin ver ⚠️ |
+| 7 · Personajes y popularidad | ✅ | Tres encuestas oficiales de Jump, AniList y Animate Times: Killua, y Kurapika en lo reciente (§9) |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Dos doblajes, cada nombre en dos fuentes (§10). Frases textuales con minuto sólo de **Cazador X (1999)**; del doblaje 2011 (Netflix) ninguna |
+| 9 · Música y sonido | ⚠️ | Openings y endings con episodios, OP1 y ED1 mirados enteros (§11). Compositor 2011 con una fuente; tema de las escenas tristes y efectos de sonido sin confirmar |
+| 10 · Vídeos con minuto | ✅ | 7 vídeos con minuto y enlace `?t=` (tráiler, 4 clips, OP1 y ED1), más 3 episodios minuto a minuto (§2, §12). TikTok, sin poder bajar ⚠️ |
+| 11 · Videojuegos | ⚠️ | Más de 25 juegos, *Nen × Impact* y *Greed Adventure* con dos fuentes; caja de diálogo del juego de DeNA vista en la hoja (§13). *Nen × Impact* no se pudo abrir |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | «Hiatus × Hiatus», «Gon-san», villanos queridos y 8 reglas de qué no hacer (§14) |
+| 13 · Personajes a fondo | ⚠️ | Carácter, voz, dinámicas y caras con minuto (§8). Faltan tristeza y vergüenza de casi todos |
+| 14 · Poses analizadas | ✅ | 38 poses de los 5, con minuto o número de hoja, y qué pose para qué (§15). Corregidas en §28 |
+| 15 · Vestuario con hex | ✅ | Hex medidos de los 5, un segundo traje de Killua, accesorios y cambios por arco (§16) |
+| 16 · Paisajes y fondos de pantalla | ✅ | Sitios con su luz, mapa, fotos 4K de la wiki y 3 fondos de fans con autor y tamaño (§17). Oficiales: la web no respondió ⚠️ |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos fijos, hex, línea, sombra, palabras sí y no, referencias, vocabulario de gestos y frases reales por emoción (§18) |
+| 18 · Estilo, técnica, Photoshop y Blender | ⚠️ | Estilo medido, receta de Photoshop y Blender, encuadres (§19). Sin entrevista primaria (el documental «Jump Ryuu!» no se pudo ver); *rigs* sin comprobar |
+| 19 · Texturas 2D | ✅ | Trama, pinceles, papel, tela, cuero, emblemas, alfabeto, hexágono y mapa, con enlace y licencia (§20). % de trama sin medir ⚠️ |
+| 20 · Gustos y detalles | ✅ | Databook vía wiki y AniList: 5 principales y 4 secundarios (§21) |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Ventas, razones y 6 escenas, con minuto en las de los ep. 131 y 147 (§22). Sin minuto en los ep. 37, 130 y 135; sin música ni comentarios más votados |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Fandubs, covers y actores en TikTok, pero sólo por título: sin enlace directo ni vistas (§23) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 5 colaboraciones con arte, juegos cruzados, Nendoroid y figma, 3 cosplays con licencia CC (§24). Sin cafés temáticos ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | Obras de AniList, lazo con Yu Yu Hakusho y los objetos que ya usan otras láminas (§25) |
+| 25 · Mundo, arcos y símbolos | ✅ | 5 reglas, 7 arcos, símbolos y vocabulario (§26) |
+| Tres conceptos de lámina | ✅ | #castings, #postulaciones y 🎲 Juegos, con objeto, personaje, cuadro, letra, textos y profundidad (§27) |
+| Fuentes distintas | ✅ | 51 webs enlazadas; 43 dieron datos (8 estaban caídas o bloqueadas, y se dice) |
+| Tipos de fuente | ⚠️ | Hay oficiales, japonés, wikis, arte, vídeo, código y doblaje. Faltan: un hilo de Reddit, coreano o chino, TCRF (no tiene página) y Wayback (bloqueado) |
+| Hojas de contacto | ✅ | 3 en `hojas/`, miradas y descritas número a número (§3.1) |
+| referencias.json | ✅ | 183 referencias, las mejores primero, con tamaño medido; corregidas las que estaban mal (§28) |
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y lo que hizo el redactor. Idiomas:
+**español, inglés y japonés**. ⚠️ No se buscó en coreano ni en chino (sólo
+salen de rebote: el título chino de *Knives Out* y la versión china del
+juego de DeNA en objetos #28-#31).
+
+### Redactor (25-sep-2026)
+- Leídos: `PETICIONES.md`, `EQUIPO.md`, `ENCARGO.md`, `AYUDANTE.md`,
+  `encargos/36-hunter-x-hunter.md`, `servidor/reglas_del_dueno.md`,
+  `servidor/inventario.md` (#castings, #postulaciones, 🎲 Juegos),
+  `DECISIONES.md` y las nueve partes.
+- `fotogramas.py` sobre el tráiler de VIZ
+  (https://www.dailymotion.com/video/x8hzbhf): entero cada 3 s; cada 1 s de
+  0:17 a 0:27, de 0:43 a 0:49 y de 1:14 a 1:32; cada 0,5 s de 0:54 a 0:58;
+  sueltos en 0:10, 1:04 y 1:21. Medido: **1280×720**. OP1 de Internet Archive
+  de 0:26 a 0:34 cada 1 s. Hojas miradas con Read; vídeos borrados. Así
+  salieron las correcciones de §28.
+- Letras con `fontTools`: Fontsource (https://api.fontsource.org/v1/fonts/cinzel)
+  y sus archivos en https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-400-normal.ttf :
+  Cinzel, Comic Neue, Barlow Condensed y Lato, completas ✅.
+- Tamaño real de los 17 retratos y la portada de AniList (s4.anilist.co)
+  medido con Pillow para `referencias.json`.
+
+### Investigador de imagen
+- `investigar_serie.py --wiki hunterxhunter` con Gon, Killua, Kurapika,
+  Leorio y Hisoka: 5522 imágenes indexadas, 17 hojas crudas.
+- API de Fandom (inglés): más de 25 `prop=imageinfo`; `list=search` con «key
+  visual», «collaboration cafe», «crossover», «figure MegaHouse»,
+  «background art location», «official wallpaper»; wikitext entero de
+  «List of Hunter × Hunter Collaborations» y filtrado de «…Merchandise».
+- Danbooru (https://danbooru.donmai.us/tags.json): sin etiqueta de la obra;
+  se pasó a Safebooru por personaje
+  (https://safebooru.org/index.php?page=dapi&s=post&q=index&tags=killua_zoldyck).
+- Sketchfab (https://api.sketchfab.com/v3/search?type=models&q=hunter%20x%20hunter&downloadable=true):
+  48 resultados mirados; «Heavens Arena», «Kukuroo Mountain», «Greed Island» sin sitios libres.
+- Wallhaven (https://wallhaven.cc/api/v1/search?q=Gon%20Freecss): generales
+  y por personaje.
+- Openverse (https://api.openverse.org/v1/images/?q=hunter%20x%20hunter%20cosplay):
+  240 resultados, 3 elegidos con licencia CC y foto real.
+- ambientCG (https://ambientcg.com/api/v2/full_json?type=Material&q=fabric):
+  tela, cuero, papel.
+- `estilo.py`: 5 hojas de modelo 2011 (hex y tipo de sombra).
+- Búsqueda web (inglés, 2): figuras de la Araña (casi todo tiendas) y
+  pinceles de trama libres (https://www.brusheezy.com/free/halftone).
+- Web oficial https://www.hunterxhunter.co.jp/ : **sin respuesta**.
+
+### Investigador de vídeo
+- AniList GraphQL (https://graphql.anilist.co): 1999 (id 136, 62 ep.) y 2011
+  (id 11061, 148 ep., Madhouse).
+- Fandom (inglés): ficha de la serie, lista de episodios, música (Departure!,
+  Just Awake, Hunting For Your Dream, Reason, Nagareboshi Kirari, Hyōri
+  Ittai), episodios 131 y 148, Kurapika; `list=search` con «opening theme»,
+  «sound effect», «onomatopoeia», «Rage».
+- AnimeThemes (https://api.animethemes.moe/anime?filter[name]=Hunter): **HTTP 522**, tres veces.
+- YouTube con `yt-dlp`: «Sign in to confirm you're not a bot» siempre.
+- Dailymotion (https://api.dailymotion.com/videos?search=Hunter%20x%20Hunter%20trailer%20official):
+  opening, ending, episodio 1, 131, tráiler, Hisoka contra Chrollo, Kurapika
+  contra Uvogin; cada candidato mirado, no sólo el título.
+- Internet Archive (https://archive.org/advancedsearch.php): los 6 openings y
+  los 6 endings sin créditos (BD 1280×720) y episodios sueltos (1-10, 55, 87,
+  109, 112, 116, 117, 126, 131, 137, 144, 147).
+- `fotogramas.py`: 7 vídeos enteros; `estilo.py`: 9 paletas; `episodio.py`:
+  episodios 1, 131 y 147 (`partes/episodios.md`).
+- ⚠️ No encontré el ep. 148 en 720p ni una tendencia de TikTok en Dailymotion.
+
+### Investigador de voz y personajes
+- Doblaje Wiki por su API (español):
+  https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Hunter_%C3%97_Hunter
+  (60 605 caracteres) y `page=Cazador_X` (23 801); segunda fuente
+  https://dubdb.fandom.com/wiki/Cazador_X , 3DJuegos y wdnes.
+- Hunterpedia (inglés): Gon, Killua, Kurapika, Leorio, Hisoka, Chrollo,
+  Meruem, Netero, Illumi (Trivia y Personality) y la primera encuesta oficial.
+- Búsqueda web (español e inglés, unas 17): ANMTV y el elenco de Viz;
+  Susana Moreno; encuestas de Jump; muerte de Kite y de Meruem en Reddit;
+  fandubs y covers de «Departure!»; memes del *hiatus*; ventas; «Gon-san»;
+  TikTok 2025-2026; Cazador X y Leonardo Salas; Gerardo Reyero; errores de
+  fans (fictionhorizon.com).
+- Resultados usados: https://knowyourmeme.com/memes/gon-san ,
+  https://www.cbr.com/hunter-x-hunter-character-popularity-poll-animate-times/ ,
+  https://gamerant.com/hunter-x-hunter-best-character-japan/ ,
+  https://sportskeeda.com/anime/10-hunter-x-hunter-2011-moments-brought-fans-tears ,
+  https://www.imdb.com/title/tt2856262/ .
+- Dailymotion: tráiler (63 planos con `--cortes`) y clip de Cazador X
+  (https://www.dailymotion.com/video/xcg420 , 384 s, entero con `voz.py`).
+- TV Tropes (https://tvtropes.org/pmwiki/pmwiki.php/Tearjerker/HunterXHunter):
+  **bloqueado** (Cloudflare), también en Wayback (https://web.archive.org/).
+- Descartado: un vídeo de Dailymotion que era una reacción en francés.
+
+### Investigador de texto, juegos y técnica
+- API de Fandom (inglés): Nen, Story Arcs, Phantom Troupe, Zodiacs, Hunter
+  License, Hunter Association, Greed Island, Greed Adventure, lista de
+  videojuegos, *Nen × Impact*, *Nen × Survivor*.
+- Búsqueda web (8): letra del logo; rótulos del anime; interfaz de *Nen ×
+  Impact*; entrevistas de Togashi (inglés); making of de Madhouse; su
+  espalda; **en japonés** «冨樫義博 インタビュー 制作 道具 CLIP STUDIO
+  デジタル» (llevó a https://www.oricon.co.jp/news/2080773/full/);
+  «site:tcrf.net Hunter x Hunter» (https://tcrf.net/ : **sin página**).
+- Leídos: https://www.dafont.com/forum/read/24227/hxh-font ,
+  https://screenrant.com/hunter-x-hunters-color-schemes-different-explainer/ ,
+  http://sakugadaichi.blogspot.com/2014/04/hunter-x-hunter-2011-animation-analysis.html ,
+  https://butwhytho.net/2025/07/hunter-x-hunter-nen-x-impact-review/ .
+- Manga Plus (https://mangaplus.shueisha.co.jp/) y VIZ
+  (https://www.viz.com/shonenjump): **sólo JavaScript**, sin páginas.
+- `fontTools` en local: Anton, Archivo Black, Bangers, Permanent Marker,
+  Dela Gothic One, completas ✅.
+- `Hunter_License_card.PNG` (3840×2160) bajada y mirada; rombo medido con Pillow.
+- Biblias del servidor leídas (sólo sus conceptos, con `grep`): Naruto,
+  Jujutsu Kaisen, My Hero Academia, One Piece, Demon Slayer, JoJo.
+
+### Lo que NO se encontró
+Resumido en §28.2 y en la tabla de cumplimiento. Lo **confirmado** lleva ✅
+(dos fuentes o visto por nosotros); lo **dudoso**, ⚠️ (una fuente).
