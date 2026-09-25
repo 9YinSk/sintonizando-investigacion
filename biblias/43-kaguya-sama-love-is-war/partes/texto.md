@@ -80,6 +80,17 @@ Los videojuegos oficiales reales de la franquicia:
 - Render: cámara con poca profundidad de campo salvo en tomas de "monólogo" donde conviene fondo desenfocado o de color plano puro (usar un plano de fondo con Emission sólido en vez de escena 3D completa, igual que el anime cambia a fondo plano al pensar).
 - Postproceso: nodos de compositing con grano (Node "Noise Texture" mezclado a baja opacidad sobre el render final) y viñeta suave para igualar el grano de cámara del anime.
 
+**Modelos y rigs libres del personaje** (Sketchfab, `api.sketchfab.com/v3/search?type=models&q=kaguya-sama&downloadable=true`, todos con licencia **CC Attribution**, descargables — ✅ confirmado en la respuesta de la API, con licencia explícita por modelo):
+- "Kaguya Shinomiya from Kaguya-sama: Love is War" — `https://sketchfab.com/3d-models/none-d7432156713648059a9c88aabe41b6ba`
+- "Chika Fujiwara from Kaguya-sama Love is War" — `https://sketchfab.com/3d-models/none-04270c2d606e4ef5a65cc03c5847bdda`
+- "Miko Iino" — `https://sketchfab.com/3d-models/none-161249aab3024609a213b88ae78ab00a`
+- "Chibi Kaguya 四宮かぐや" (versión chibi/SD) — `https://sketchfab.com/3d-models/none-383680f676064247b6fe2397984761e1`
+- "Kaguya-sama: Love is War Student council β ver" (grupo, varios personajes juntos) — `https://sketchfab.com/3d-models/none-287ebc7d09b945589b70eeb9c8c37e0d`
+
+Son modelos de fans, no oficiales — sirven como base de proporciones/pose para Blender (aplicarles el shader de 2 bandas descrito arriba), no para renderizar tal cual sin más trabajo. No se abrieron uno a uno para revisar poligonaje o rig de huesos por falta de tiempo (⚠️ confirmar antes de usarlos que traen esqueleto, no sólo malla estática).
+
+**Encuadres y composición típicos** (Tropedia + Sakuga Blog, cruzado en dos fuentes ✅): la serie abusa del **plano cerrado a cara completa** para los monólogos (kagenashi, ver arriba) combinado con **zooms tipo dolly y cambios bruscos de perspectiva** cuando la "batalla mental" cambia de bando (citado explícitamente en las notas de producción del episodio 2 de Sakuga Blog) — el encuadre se pega a la cara cuando el personaje empieza a perder el control de la situación. Para la comedia física (Off-Model, Tropedia) el encuadre se abre y **deforma la cabeza o la boca** del personaje exagerando el gesto, siempre en plano medio, nunca en primer plano (el exceso queda mejor "de lejos"). Para las tomas dramáticas de trasfondo (Farewell Arc, Buddha's Stone Begging Bowl Arc) el encuadre cambia a **plano general con fondo casi realista y grano pesado**, opuesto al estilo plano de color del resto — ver Art Shift arriba.
+
 Nota: no se encontró (⚠️, faltaría una entrevista de making-of dedicada al software) confirmación directa de qué programa 2D usó A-1 Pictures (Toon Boom, RETAS, Clip Studio) — búsquedas hechas en japonés e inglés sin resultado concreto para esta serie específica; A-1 Pictures como estudio trabaja históricamente con **RETAS/CLIP STUDIO PAINT** para producción 2D según fuentes generales del estudio (⚠️ no específico a Kaguya-sama, es información general del estudio, de memoria — habría que confirmarlo con una entrevista de producción dedicada que no se encontró).
 
 ### 24 · Obras parecidas y temas relacionados
@@ -99,22 +110,77 @@ Nota: no se encontró (⚠️, faltaría una entrevista de making-of dedicada al
 
 ### 25 · El mundo, la historia y sus símbolos
 
-(pendiente)
+**Las reglas del mundo, en cinco líneas** (fuente: wikitext de "Shuchi'in Academy" y "Shuchi'in Academy Student Council", leído directo de la wiki — ✅):
+1. Todo pasa en el **Instituto Shuchi'in**, colegio privado de élite en el barrio de Minato (Tokio) sólo para familias ricas y nobles, con un 99,7 percentil de examen de ingreso — fundado en el siglo XVIII por el Shogunato Edo.
+2. El poder real del colegio está en el **Consejo Estudiantil**: sólo el presidente se elige por voto, y él nombra al resto (vicepresidente, secretario, tesorero, auditor y oficial general). Ser miembro da privilegios reales: preferencia de ingreso a la Universidad Shuchi'in, becas y salas de estudio privadas.
+3. La "ley" no escrita de la serie es la que da título: **quien confiesa el amor primero, "pierde"** — queda a merced emocional del otro. Toda la trama gira en evitar ser el primero en confesar.
+4. Cada capítulo de manga y cada episodio de anime se organiza en **partes numeradas** ("batallas") con su propio título en la línea temática del personaje protagonista de esa parte (p. ej. "Miyuki Shirogane Wants Girls to Fall for Him"), no en un solo título por episodio.
+5. Hay un **Narrador** externo a la ficción (ver punto 6) que comenta la "guerra mental" como si fuera un partido deportivo — es la voz que constantemente recuerda al espectador cuáles son las reglas del juego.
+
+**La historia por arcos** (nombres confirmados en la wiki, lista de páginas `allpages`; orden aproximado por número de capítulo citado en `Timeline` — ✅ wiki primaria, ⚠️ el orden exacto de los arcos intermedios no se verificó capítulo por capítulo, sólo los extremos):
+- **Arranque** (cap. 1 en adelante): Shirogane y Kaguya se conocen como presidente y vicepresidenta del consejo (abril, primer año) — *Everyday Life Arc*, *Cell Phone Arc*.
+- **Arcos de "batalla" cotidianos** (la mayoría de la serie, sin orden estrictamente cronológico marcado en la wiki): *French Party Arc*, *Movie Theater Arc*, *Mixer Arc*, *Summer Vacation Arc*, *Sports Festival Arc*, *Fireworks Arc*, *Valentine's Day Arc*, *President's Birthday Arc*, *Home Visit Arc*, *Sick Visit Arc*, *Class Trip Arc*, *New Game Arc*, *Rap Arc*.
+- **Arcos de trasfondo/drama** (más serios, historia familiar): *Farewell Arc*, *Shirogane's Departure Arc*, *Buddha's Stone Begging Bowl Arc* (pasado de Ishigami), *The ABCs of Men and Women Arc*.
+- **Recta final**: *Chaotic Election Arc* (elección para la presidencia del consejo tras graduarse los protagonistas), *Dual Confessions Culture Festival Arc* y **Kaguya-sama Wants to be Confessed to Arc** (el arco final, nombrado igual que el título original de la serie) → cierra con *The First Kiss Never Ends Arc* (adaptado como la película de 2022) y *End of Secrets Arc*/*Reconciliation Arc*.
+- El manga terminó en 2022 (7 años y medio de serialización, según el propio Akasaka en una entrevista de despedida en Movie Walker Press, `https://press.moviewalker.jp/news/article/1116468/` — ⚠️ una sola fuente, no confirmada en segunda fuente independiente pero coincide con la fecha de fin de publicación de Wikipedia/AniList: enero 2022). Tras terminarlo, Akasaka anunció su retiro como **dibujante** (seguirá como guionista) — Wikipedia. ✅.
+
+**Símbolos y objetos icónicos**:
+- **El corazón + pulso cardíaco** del logo (ver punto 5) — es el símbolo gráfico más repetido de toda la franquicia, aparece hasta en la lámpara de la máquina pachislot oficial (punto 11).
+- **Cubari Facaccimo**: un objeto/criatura morada con un solo ojo y dos patas que **Kaguya creó por accidente** intentando hacer bombones de San Valentín con una receta robada del Club de Investigación Oculta — el ojo se mueve solo, lo que sugiere que está viva. Es un gag recurrente que el fandom cita constantemente ("el incidente Cubari Facaccimo"). Apareció primero en el capítulo 59 (14 de febrero, San Valentín) y volvió en el capítulo 195. Fuente: wikitext de la página "Cubari Facaccimo" de la wiki, con cita textual del propio diálogo de Kaguya. ✅ (página dedicada de la wiki + aparece también en la ficha de Timeline).
+- **El teléfono plegable de Kaguya**: se aferra a un teléfono plegable "desde preescolar" porque no sabe usar apps — es un objeto de personaje reconocible y un gag largo de la serie (ver arco *Cell Phone Arc*, Tropedia). ⚠️ (una fuente).
+- **Los cuatro zaibatsu / la corporación Shinomiya**: el mundo tiene una jerarquía económica real detrás del colegio — la familia de Kaguya (**Shinomiya Zaibatsu**) es uno de los "cuatro grandes zaibatsu" de Japón, con ~200 billones de yenes, bancos, trenes y coches, y control informal sobre policía y tribunales; su rival directo es la **Corporación Shijo** (fundada por una rama disidente de los Shinomiya). Fuente: wikitext de "List of Organizations". ✅.
+- **かぐや (Kaguya) como princesa de la luna**: ver punto 24 — el propio nombre "Kaguya" cita a la princesa lunar del folclore japonés, y el vestuario/tocado de gala de la familia Shinomiya (ver hojas de imagen) juega con esa estética de nobleza casi celestial.
+- **Vocabulario propio reconocible al instante por un fan**: *"guerra mental" / "頭脳戦"* (el subtítulo de la serie, se usa como meme para cualquier situación de manipulación social sutil), *"Kaguya dub"* (género de video de YouTube sobre las líneas exageradas del narrador en inglés), el propio narrador diciendo cosas como *"Remember when I said we'd get to X later? It's later!"* (muletilla reconocible, aunque es más del área de voz/doblaje — punto 8/13, no se repite aquí).
+
+**No aplica**: la serie no tiene un sistema de magia, tecnología especial ni facciones en guerra real — es un instituto contemporáneo realista; el "mundo" es social y económico (clases altas japonesas), no fantástico.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+1. **El cuadro de diálogo real de la serie no es un globo de manga: es la cartela oscura del Narrador** (texto blanco, contorno negro grueso, centrado abajo — imagen exacta: `caption_ishigami.jpg`/"I want to die, so I'm going home."). Úsalo en vez de un globo blanco genérico: es lo que el dueño pide.
+2. **El logo oficial tiene una forma fija muy reconocible** (gótica redondeada, corazón sobre 告/頭脳戦, línea de pulso) que se repite en 4+ piezas oficiales con distinto color — la letra libre más cercana es **M PLUS Rounded 1c**, y para el resto de usos (globo, grito, pensamiento, onomatopeya, cartel, interfaz, subtítulo) hay 7 fuentes libres más, todas comprobadas con fontTools para tildes/ñ/¿/¡.
+3. **El "kagenashi" (caras sin sombra) es la firma visual del director** — cualquier primer plano de personaje para la lámina se ve más fiel sin sombreado duro en la cara, sólo color plano.
+4. Objeto-símbolo con gancho de fandom: **Cubari Facaccimo**, la criatura que Kaguya creó sin querer en San Valentín — funciona como "objeto real en un sitio real" con historia divertida detrás, si se quiere algo más peculiar que el típico cuaderno del consejo estudiantil.
+5. El juego oficial de pachislot (2025) usa la misma paleta e ícono de pulso del logo en su interfaz — confirma que el corazón+pulso es el símbolo gráfico "canon" de toda la franquicia, útil para cualquier interfaz o insignia que se dibuje en la lámina.
 
 ## No encontré
 
-(pendiente)
+- ⚠️ El software 2D exacto que usó A-1 Pictures para animar la serie (Toon Boom / RETAS / Clip Studio) — búsquedas en japonés e inglés ("かぐや様は告らせたい 作画 ソフト", "Kaguya-sama animation software") sin una entrevista de producción dedicada al tema. Esto es un extra dentro del punto 18 (la técnica observada y su réplica en Photoshop/Blender sí están completas), no falta nada obligatorio.
+- ⚠️ Onomatopeyas originales en japonés propias de la serie con su forma exacta de letra — las 75 imágenes de las hojas de contacto no traían ninguna página en japonés puro con onomatopeya grande visible; sólo se pudo documentar el estándar de la edición inglesa VIZ. Extra dentro del punto 5.
+- ⚠️ El minuto exacto (capítulo y timestamp `&t=`) de la cartela "I want to die, so I'm going home." — se identificó la imagen y su estilo exacto por la wiki, pero no se localizó el clip oficial en YouTube/Dailymotion para sacar el segundo preciso (YouTube bloqueado por login en este contenedor). No es obligatorio para el punto 6 (que pide "cómo hablan y piensan en pantalla", ya con imagen y cita), pero sería un extra para el investigador de vídeo si hace fotogramas propios de esa escena.
+- No aplica al punto 25 la parte de "reglas del mundo mágico/tecnología": la serie no tiene sistema fantástico, ya está explicado por qué en la sección de arriba.
 
 ## Bitácora
 
-- Punto de partida: `partes/datos-texto.md` (AniList ficha, staff, obras parecidas/relacionadas; sección Steam vacía — recolectar.py no encontró juego en Steam).
-- Wiki confirmada: `kaguyasama-wa-kokurasetai.fandom.com` (500+ páginas listadas por `allpages`, sin página dedicada a videojuego).
-- Wikitext leído (action=parse&prop=wikitext): Shuchi'in Academy, Shuchi'in Academy Student Council, List of Organizations, Timeline, Crossovers.
-- Hojas de contacto ya bajadas por `investigar_serie.py` (`herramientas/referencias/kaguya-sama-love-is-war/hoja_01.jpg`, `hoja_02.jpg`, 75 imágenes) miradas enteras (Read) para tipografía y cuadros de diálogo.
-- Descargadas y miradas en grande: `I_probably_already_have_this_save.png` (anuncio de anime, Chapter 110 Young Jump), `Anime_Yu_Ishigami.jpg` (cartela "I want to die, so I'm going home."), `177_Preview.png` y `180_Preview.png` (páginas de manga con globos).
+**Punto de partida** (no repetido): `partes/datos-texto.md` (AniList ficha, staff, obras parecidas/relacionadas; sección Steam vacía — `recolectar.py` no encontró juego en Steam, confirmado más abajo por qué).
 
-Sigue: 5 (tipografía: fuente libre para cada uso + fontTools), 6, 11, 18, 24, 25; Lo mejor para la lámina; No encontré.
+**Wiki de Fandom** `kaguyasama-wa-kokurasetai.fandom.com` (confirmada, la sugerida en el encargo):
+- `action=query&list=allpages` (dos tandas) → mapa completo de ~500+ páginas, sin página dedicada a videojuego.
+- `action=parse&prop=wikitext` leído directo en: Shuchi'in Academy, Shuchi'in Academy Student Council, List of Organizations, Timeline, Crossovers, Cubari Facaccimo, We Want to Talk About Kaguya (redirect).
+- Hojas de contacto ya bajadas por `investigar_serie.py` (`herramientas/referencias/kaguya-sama-love-is-war/hoja_01.jpg`, `hoja_02.jpg`, 75 imágenes, `indice.json`) miradas enteras con Read.
+- 11 imágenes bajadas en grande y miradas una por una (Read) para tipografía/cuadros de diálogo/portadas: `I_probably_already_have_this_save.png`, `Season_2_Announcement_Banner.jpg`, `Anime_Yu_Ishigami.jpg`, `177_Preview.png`, `180_Preview.png`, `Werewolf.jpg`, `Chapter59-01.png`, `Screen_Shot_2019-06-30...png`, `Chapter84-01.png`, `Chapter21-01.png`, `Chapter27-01.png` (guardadas en `/tmp/claude-0/trabajo/43-kaguya-sama-love-is-war-texto/full/`).
+
+**Otras wikis**:
+- `tropedia.fandom.com` (mirror de TVTropes en Fandom, porque `tvtropes.org` da reto de Cloudflare bloqueado — anotado, no se insistió más de dos veces): wikitext completo de la página "Kaguya-sama: Love Is War" leído en 3 tandas.
+- `tvtropes.org` directo: **403/Cloudflare challenge**, descartado tras un intento.
+
+**Búsquedas web** (WebSearch, en inglés y japonés):
+1. "Kaguya-sama Love is War video game app official" (inglés)
+2. "かぐや様は告らせたい ゲーム 公式 アプリ" (japonés)
+3. "Kaguya-sama: Love is War" Steam visual novel Shueisha Games release date screenshots (inglés) → reveló que el "juego" de Steam es una estafa
+4. "パチスロ かぐや様は告らせたい 液晶 演出 実機 台" (japonés) → detalle de interfaz de la máquina
+5. Aka Akasaka interview influences inspiration manga artists favorite (inglés)
+6. 赤坂アカ かぐや様 インタビュー 影響 きっかけ 頭脳戦 (japonés)
+7. "First Kiss wa Owaranai" OR "First Kiss That Never Ends" Kaguya-sama studio animation 2022 (inglés)
+8. Kaguya-sama Love is War director Shinichi Omata interview animation style A-1 Pictures (inglés)
+9. かぐや様は告らせたい アニメ 作画 インタビュー 演出 特徴 (japonés)
+10. Kaguya-sama Love is War narrator captions "mental warfare" screen text style analysis (inglés)
+11. "Mamoru Hatakeyama" "Shinichi Omata" real name Kaguya-sama director (inglés) → confirmado en dos fuentes que es la misma persona
+12. guya.moe "Wielding emotions to create a story" Akasaka interview (inglés) → localizó la entrevista traducida real
+
+**WebFetch**: Sakuga Blog (notas de producción ep. 1-5, técnica de animación ✅), animatetimes.com (petición del autor al anime ✅), guya.cubari.moe (entrevista completa del autor ✅ — dos intentos de URL fallaron por 302/404 antes de encontrar la correcta vía búsqueda). Fallaron por 403: ddnavi.com, natalie.mu (anotado, no se insistió).
+
+**Sketchfab**: `api.sketchfab.com/v3/search?type=models&q=kaguya-sama&downloadable=true` → 6 resultados, 5 de personajes/grupo de la serie con licencia CC Attribution confirmada por la API (punto 18, modelos y rigs libres).
+
+**Fontsource/fontTools** (obligatorio del punto 5): 10 fuentes candidatas descargadas en `.ttf` desde `api.fontsource.org` y comprobadas con `fontTools.ttLib.TTFont(f).getBestCmap()` para á/é/í/ó/ú/ñ/¿/¡ — el subset `latin-ext` de Fontsource NO trae estos caracteres (son sólo extras centroeuropeos), hay que pedir el subset `latin`; las 10 los tienen. 8 elegidas para los 8 usos que pide el encargo (logo, globo, grito, pensamiento, onomatopeya, cartel, interfaz, subtítulos).
+
+No quedan puntos pendientes de este rol (5, 6, 11, 18, 24, 25 completos). Parte terminada.
