@@ -61,5 +61,23 @@
     "que_es": "Modelo 3D de Pikachu low-poly CON rig, 4500 caras",
     "para_que": "Punto 18: alternativa ligera al modelo de Eleanie si el proyecto de Blender necesita menos polígonos (lámina 2 o pose lejana)",
     "licencia": "CC BY 4.0 — crédito obligatorio a jacobjksn42, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg",
+    "fuente": "Wikimedia Commons — usado como logo internacional en el artículo de Wikipedia sobre la franquicia",
+    "ancho": 1200,
+    "alto": 440,
+    "que_es": "Logo oficial 'Pokémon' (amarillo con borde azul y sombra 3D), vectorial; medido a 1200px con estilo.py tras pasarlo a PNG con cairosvg: amarillo #FECA02, borde #3566AE, sombra #213A71",
+    "para_que": "Punto 25 (§25.3, logo/emblema) y guía de IA de la biblia: hex reales del logo, medidos, no de memoria",
+    "licencia": "Wikimedia Commons lo cataloga como logo con copyright de Nintendo/Game Freak/The Pokémon Company, uso bajo criterio de imagen no libre — sólo como referencia, nunca para pegar"
+  },
+  {
+    "url": "https://interfaceingame.com/wp-content/uploads/pokemon-lets-go-pikachu/pokemon-lets-go-pikachu-dialogue.jpg",
+    "fuente": "Interface In Game — captura real de Nintendo Switch (EXIF: manufacturer Nintendo co. ltd, 21-abr-2019)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Caja de diálogo de Pokémon Let's Go, Pikachu!: fondo blanco cálido #FDFCFA-#F3F4F1 con trama sutil, borde dorado-oliva #88893D-#C8C899, icono de Poké Ball en la esquina (medido con estilo.py)",
+    "para_que": "Punto 6/18: primera referencia real de esta caja (antes la biblia decía 'no pude abrirla'); para el cuadro de diálogo y el estilo de UI de Let's Go",
+    "licencia": "Captura de juego con copyright de Nintendo/Game Freak/The Pokémon Company, publicada por Interface In Game — sólo como referencia, nunca para pegar"
   }
 ]
