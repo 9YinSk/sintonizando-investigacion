@@ -21,3 +21,4 @@ Cuenta: cuenta A103
 | 97 | texto (2 tandas) | Sonnet | 20 | 248 mil |
 | 97 | voz | Sonnet | 17 | 237 mil |
 | 97 | video | Sonnet | 19 | 237 mil |
+| 98 | voz | Sonnet | 13 | 189 mil |
