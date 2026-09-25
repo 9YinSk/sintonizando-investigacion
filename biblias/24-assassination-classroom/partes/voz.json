@@ -196,5 +196,23 @@
     "que_es": "Fichas de personaje con cumpleaños, altura, tipo de sangre y descripción en inglés de cada uno",
     "para_que": "Punto 20: cruce de cumpleaños/altura con la wiki de la serie",
     "licencia": "Datos agregados; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/ansatsu-kyoushitsu-2x-23_20260520",
+    "fuente": "Internet Archive, ítem con los 25 episodios sueltos de T2 en mp4 (854×480); ya usado por el investigador de vídeo",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Fotogramas 2×24 (fotograma_00471.jpg, 7:51) y 2×25 (fotograma_01348.jpg 22:28, fotograma_01370.jpg 22:50) ya extraídos en el disco compartido, reaprovechados en este relanzamiento: cara de Karma (rabia/seriedad, hex pelo #372127) y de Nagisa (sonrisa serena, hex pelo #ABC6D5)",
+    "para_que": "Punto 13, relanzamiento: fotograma propio de Karma y Nagisa en los minutos exactos del Sigue anterior",
+    "licencia": "Copia de fans en Internet Archive; vídeo con copyright de Shueisha/Lantis/estudio; sólo referencia para medir color, nunca para publicar el fotograma"
+  },
+  {
+    "url": "https://archive.org/download/ansatsu-kyoushitsu-2x-23_20260520/Ansatsu%20Kyoushitsu%202x01.mp4",
+    "fuente": "Internet Archive, mismo ítem, episodio 2×01 (854×480); 12 s descargados vía ffmpeg -ss/-t/-vf fps=2 en vez del .mkv completo (250 MB)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Fotograma propio a los 14:31 (fotograma_013.jpg de la extracción): reacción cómica de vergüenza de Irina, cara entera sonrojada, hex piel #E29ECB",
+    "para_que": "Punto 13, relanzamiento: única emoción de las 4 pedidas (rabia/tristeza/miedo/vergüenza) confirmada con fotograma propio en un personaje que no sea Koro-sensei",
+    "licencia": "Copia de fans en Internet Archive; vídeo con copyright de Shueisha/Lantis/estudio; sólo referencia para medir color, nunca para publicar el fotograma"
   }
 ]

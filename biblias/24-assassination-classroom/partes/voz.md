@@ -238,6 +238,19 @@ más fuerte que «de memoria».
 - Se le describe como **«herbívoro»** (草食系, sōshoku-kei: chico
   pasivo/poco asertivo en el trato romántico), un arquetipo social
   japonés real que ayuda a entender su carácter tranquilo ✅ (Wiki).
+- **Vi con mis propios ojos, relanzamiento**: los dos fotogramas exactos
+  que pedía el «Sigue» de la tanda anterior, ep. **2×25** (Internet
+  Archive, ítem [`ansatsu-kyoushitsu-2x-23_20260520`](https://archive.org/details/ansatsu-kyoushitsu-2x-23_20260520),
+  `Ansatsu Kyoushitsu 2x25.mp4`, 854×480 — ya extraídos en el disco
+  compartido por el investigador de vídeo), **22:28** y **22:50**. En
+  los dos la cara es la misma **sonrisa lateral serena** de Nagisa ya de
+  profesor (coincide con `partes/video.md`): ⚠️ **no** es ninguna de las
+  4 emociones que pide el encargo (rabia/tristeza/miedo/vergüenza) — es
+  lo único que hay de Nagisa en primer plano en el material al que tuve
+  acceso, no hay toma suya enfadado/triste/asustado/avergonzado. Hex
+  medido con Pillow sobre `fotograma_01370.jpg` (1280×720): pelo azul
+  claro **`#ABC6D5`**, piel **`#EFEDE1`** (escena muy iluminada, tono
+  verdoso de fondo).
 
 ### Karma Akabane
 
@@ -258,6 +271,15 @@ más fuerte que «de memoria».
 - En el doblaje, cuando habla inglés con acento «sureño» de EE. UU. (en
   japonés tenía acento americano estándar) ✅ (Wiki, Trivia) — detalle
   útil si se le pone hablando inglés en una lámina.
+- **Vi con mis propios ojos, relanzamiento**: el fotograma exacto del
+  «Sigue» anterior, ep. **2×24** (mismo ítem de Internet Archive,
+  `Ansatsu Kyoushitsu 2x24.mp4`), **7:51**. Primer plano nocturno: cejas
+  bajas, boca en línea recta — **seriedad tensa**, más cerca de rabia
+  contenida que de neutralidad (misma lectura que `partes/video.md`).
+  Hex medido con Pillow sobre `fotograma_00471.jpg` (1280×720): pelo
+  rojo en sombra **`#372127`**, piel **`#71716F`** — la escena lleva una
+  gradación azulada de noche encima, por eso la piel sale gris fría y no
+  el tono cálido habitual.
 
 ### Irina Jelavić
 
@@ -269,6 +291,29 @@ más fuerte que «de memoria».
 - **Su lema**: *"Life is nudity; admire it"* (la vida es desnudez;
   admírala) ✅ (manga, Vol. 4, cap. 27).
 - Apodo de Karasuma hacia ella: **«Sweetheart»** ✅ (infobox del wiki).
+- **Vi con mis propios ojos, vergüenza confirmada (relanzamiento)**:
+  volví a bajar el ep. **2×01** (mismo ítem de Internet Archive; el
+  `.mkv` original pesa 250 MB, así que usé
+  `ffmpeg -ss 865 -i "…Ansatsu Kyoushitsu 2x01.mp4" -t 12 -vf fps=2`
+  para sacar sólo 12 s de fotogramas alrededor del minuto pedido, sin
+  bajar el episodio entero) y miré fotograma a fotograma cada 0,5 s. A
+  los **14:31** (1 s del 14:30 que pedía el Sigue) hay una reacción
+  cómica exagerada: cara **entera sonrojada de rosa**, ojos cerrados en
+  «＞‹», boca enorme y dentada gritando, manos tirándose del pelo — el
+  gesto clásico de vergüenza/mortificación del anime, no una sonrisa
+  contenida. Hex medido con Pillow: rosa de la piel sonrojada
+  **`#E29ECB`**. ✅ Primer fotograma propio real de una de las 4
+  emociones que pide el encargo (rabia/tristeza/miedo/vergüenza) en un
+  personaje que no sea Koro-sensei.
+- ⚠️ **No conseguí** la otra escena pedida por el Sigue anterior:
+  **enfado**, película animada de 2016, 00:12:04. El vídeo de esa
+  película sólo existe, que yo encontrara, como featurette corto en
+  Dailymotion (`x8o319m`/`x5ejufv`, 1:15-1:16, sin llegar a los 12 min);
+  en Internet Archive busqué `title:(Ansatsu Kyoushitsu) AND
+  mediatype:movies`, `ansatsu kyoushitsu graduation` y `365日の時間` sin
+  encontrar el largometraje completo (sólo aparece la serie de TV y la
+  película **live-action** de 2015, que es otra obra). Pendiente real,
+  no lo repito como Sigue (ver bitácora y cierre más abajo).
 
 ### Tadaomi Karasuma
 
@@ -313,14 +358,25 @@ más fuerte que «de memoria».
 - **Cumple años el mismo día que Gakushū Asano** (1 de enero) ✅.
 - Es la **segunda alumna** (tras Nagisa) en herir a Koro-sensei ✅.
 
-**Nota sobre «la cara en cada emoción» (punto 13)**: sólo pude ver de
-verdad el episodio 1 (Internet Archive, arriba). El resto de expresiones
-que pide el encargo (rabia real, tristeza, miedo, vergüenza en los
-personajes clave) están en la Temporada 2, que **no encontré en Internet
-Archive ni pude abrir en YouTube** (bloqueo de sesión); quedan con los
-minutos de subtítulo que ya tenía la biblia, sin fotograma propio. Lo dejo
-en «No encontré» más abajo para que el investigador de vídeo (que sí tiene
-`fotogramas.py` como tarea principal) lo complete si consigue la T2.
+**Nota sobre «la cara en cada emoción» (punto 13), actualizada en el
+relanzamiento**: en la tanda anterior sólo había podido ver el episodio 1
+(T1); en ésta sí conseguí T2, reaprovechando fotogramas que ya estaban en
+el disco compartido (`/tmp/.../24-assassination-classroom-video`, ítem de
+Internet Archive `ansatsu-kyoushitsu-2x-23_20260520` que ya usó el
+investigador de vídeo) y descargando 12 s nuevos del ep. 2×01 con
+`ffmpeg -ss/-t/-vf fps=2` para el minuto exacto de Irina. Resultado:
+**Karma** (2×24, 7:51, seriedad/rabia contenida) e **Irina** (2×01,
+14:31, vergüenza clara y cara sonrojada) tienen ya fotograma propio con
+hex medido — ver sus secciones arriba. **Nagisa** (2×25, 22:28 y 22:50)
+también tiene fotograma propio ya, pero la escena real es una sonrisa
+serena, no rabia/tristeza/miedo/vergüenza: no hay toma de Nagisa en una
+de esas 4 emociones en el material al que tuve acceso. Sigue sin
+conseguirse **Irina enfadada** (película animada 2016, 12:04): sólo hay
+un featurette de 1:15 en Dailymotion, ni el largometraje completo en
+Internet Archive ni en Dailymotion (detalle en la sección de Irina). Esto
+ya es la 2.ª tanda de este rol sobre este mismo punto: lo que sigue
+faltando (Nagisa en una de las 4 emociones, Irina enfadada) se deja
+marcado con ⚠️ más abajo, no como pendiente para una 3.ª tanda.
 
 ---
 
@@ -513,10 +569,20 @@ texto de arriba.
   el bloqueo de sesión de YouTube en este servidor impidió comprobar
   vistas, calidad de las voces o si el canal sigue activo.
 - **Caras en cada emoción de Nagisa, Karma e Irina con fotograma propio**
-  (rabia, tristeza, miedo, vergüenza): sólo Koro-sensei tiene fotograma
-  propio (arriba, §13), porque sólo encontré la Temporada 1 en Internet
-  Archive (episodios 1-9) y las escenas clave de esos personajes son de
-  la Temporada 2. Lo que hay son minutos de subtítulo, ya en la biblia.
+  (rabia, tristeza, miedo, vergüenza) — **resuelto en el relanzamiento
+  para Karma e Irina**: ya hay fotograma propio de **Karma**
+  (rabia/seriedad, 2×24 7:51, hex `#372127` pelo/`#71716F` piel) y de
+  **Irina** (vergüenza, 2×01 14:31, hex `#E29ECB` piel sonrojada), los
+  dos de la T2 en Internet Archive (detalle en §13 arriba, con la
+  bitácora de cómo se sacaron más abajo). ⚠️ **Sigue sin fotograma
+  propio**: **Nagisa** en una de las 4 emociones exactas (lo único
+  encontrado de él en 2×25, 22:28 y 22:50, es una sonrisa serena, no
+  rabia/tristeza/miedo/vergüenza) e **Irina enfadada** (película animada
+  de 2016, 00:12:04: sólo hay un featurette de 1:15 en Dailymotion —
+  `x8o319m`/`x5ejufv` —, ni el largometraje completo en Internet Archive
+  (búsquedas `title:(Ansatsu Kyoushitsu) AND mediatype:movies`,
+  `ansatsu kyoushitsu graduation`, `365日の時間`) ni en Dailymotion. Esto
+  ya es la 2.ª tanda de este punto; no lo dejo como Sigue para una 3.ª.
 
 ## Bitácora de búsqueda (parte de voz)
 
@@ -567,24 +633,43 @@ la hoja de contacto de los primeros 5 minutos, y `--fotograma 95 180 645`
 para las capturas grandes usadas en el hex de Koro-sensei (§13). Vídeo
 borrado tras sacar las hojas (135 MB, disco compartido).
 
+**Relanzamiento (esta tanda)**: `fotogramas.py` ya no estaba en el disco
+(scratchpad de otra sesión), así que medí los hex con un script propio
+de Pillow (recorte de una zona limpia de pelo/piel/rubor + promedio de
+píxeles, mismo principio). Dos fuentes:
+1. **Reaproveché** fotogramas que el investigador de vídeo ya había
+   sacado y dejado en `/tmp/.../24-assassination-classroom-video`
+   (`f_2x24/fotograma_00471.jpg` y `f_2x25/fotograma_01348.jpg` +
+   `fotograma_01370.jpg`), del ítem de Internet Archive
+   [`ansatsu-kyoushitsu-2x-23_20260520`](https://archive.org/details/ansatsu-kyoushitsu-2x-23_20260520)
+   (854×480, 25 episodios sueltos de T2) — resultó que los minutos que
+   pedía mi propio Sigue (2×24 7:51, 2×25 22:28 y 22:50) ya estaban
+   capturados para otro punto, exactos.
+2. **Descarga nueva, sólo lo necesario**: para Irina (2×01, 14:30) el
+   `.mkv` original pesa 250 MB, así que en vez de bajarlo entero usé
+   `ffmpeg -ss 865 -i "https://archive.org/download/ansatsu-kyoushitsu-2x-23_20260520/Ansatsu%20Kyoushitsu%202x01.mp4"
+   -t 12 -vf fps=2 f_2x01/fotograma_%03d.jpg` (854×480, derivado h.264
+   ligero) y miré los 24 fotogramas cada 0,5 s hasta encontrar la
+   reacción de vergüenza en 14:31.
+
 **Lo que falló**: YouTube pide iniciar sesión en este servidor para todo
 (no sólo streaming, también para citar vistas de un vídeo ya encontrado
 por buscador); Reddit vía Arctic Shift no tiene el subreddit de la serie;
 Doblaje Wiki con `prop=wikitext` **sí funcionó** esta vez (a diferencia de
-lo que registró el investigador de datos automático, que tuvo 403).
+lo que registró el investigador de datos automático, que tuvo 403). En
+esta tanda: la película animada de 2016 completa no apareció ni en
+Internet Archive (`advancedsearch` con `title:(Ansatsu Kyoushitsu) AND
+mediatype:movies`, `ansatsu kyoushitsu graduation`, `365日の時間`) ni en
+Dailymotion (sólo el featurette corto ya conocido, 1:15).
 
-**Sigue:** todo lo obligatorio de los puntos 7, 8, 12, 20, 21 y 22 está
-hecho, con lo que no encontré declarado arriba (no inventado). Queda **un
-solo pendiente obligatorio real** del punto 13: el encargo pide «su cara
-en cada emoción (alegría, rabia, tristeza, miedo, vergüenza) con
-fotograma y minuto» para los personajes principales, y sólo conseguí
-fotograma propio de **Koro-sensei** (2 estados, ep. 1, T1 — que es lo que
-había disponible sin YouTube). Nagisa, Karma e Irina se quedan con los
-minutos de subtítulo que ya traía la biblia (⚠️ deducidos, no vistos),
-porque sus escenas clave de emoción son de la **Temporada 2**, que no
-encontré en Internet Archive y no pude abrir en YouTube (bloqueo de
-sesión de este servidor). Si en un relanzamiento ya hay T2 disponible
-(Internet Archive, Dailymotion o YouTube desbloqueado), sacar con
-`fotogramas.py` las caras de Nagisa (2×25, 00:22:28 y 00:22:50), Karma
-(2×24, 00:07:51) e Irina (2×01, 00:14:30 vergüenza; peli 00:12:04 enfado)
-y medir el hex con Pillow, igual que aquí con Koro-sensei.
+**Cierre de esta tanda (punto 13, caras por emoción)**: hecho lo pedido
+por el Sigue anterior en la medida de lo posible — fotograma propio con
+hex medido de **Karma** (rabia/seriedad, 2×24 7:51) y de **Irina**
+(vergüenza, 2×01 14:31); el de **Nagisa** (2×25 22:28 y 22:50) se sacó
+pero no es una de las 4 emociones pedidas, es la única toma suya
+disponible. Queda **un solo pendiente real**: Irina enfadada en la
+película de 2016 (12:04), porque el vídeo completo de esa película no
+está ni en Internet Archive ni en Dailymotion con las búsquedas hechas.
+Como ya es la 2.ª tanda de este rol sobre este punto, este pendiente se
+deja marcado con ⚠️ arriba (secciones de Irina y «No encontré»), no como
+un nuevo Sigue.
