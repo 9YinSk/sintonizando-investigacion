@@ -418,10 +418,23 @@ tras años de que la tacharan de mandona.
 - **Arco de Ai Hayasaka**: una década de culpa como sirvienta de Kaguya,
   sabiendo que su último trabajo será "dejar ir" a la persona que quiere —
   citado como uno de los arcos más devastadores de la serie ✅.
+- **Música**: toda la banda sonora es de **Kei Haneoka** (créditos "音楽 羽岡佳"
+  visibles en el propio tráiler oficial de la 3ª temporada, fotograma propio
+  min. 0:20) ✅ — confirmado además por el blog especializado Kayo Kyoku Plus
+  y por el álbum del OST en Audiomack/Spotify; no encontré el nombre exacto de
+  la pista usada en la escena de los fuegos artificiales del ep. 12 (⚠️, ni la
+  wiki ni las reseñas la citan por nombre).
+- **Vídeos de reacción reales** (con título, para que el redactor los busque
+  si hace falta el conteo exacto de vistas): *"A CONFESSION?! Kaguya Sama:
+  Love is War Season 3 Episode 8 REACTION!"* y *"THE CONFESSION!! Kaguya Sama:
+  Love Is War S3 Ep 12-13 REACTION"* (ambos en YouTube) ✅ (dos vídeos
+  distintos de dos canales distintos reaccionando a la misma escena) — ⚠️ no
+  pude sacar vistas/comentarios exactos: YouTube pide sesión desde este
+  servidor para `yt-dlp --dump-json`.
 - ⚠️ No encontré (con fuente verificable de comentarios/votos reales, estilo
-  Reddit) la reacción específica del público hispano a estas escenas — lo que
-  cito arriba es de reseñas y TV Tropes en inglés/español, no de hilos con
-  votos como pedía el ejemplo del formato.
+  Reddit) la reacción específica del público **hispano** a estas escenas — lo
+  que cito arriba es de reseñas en español (Código Espagueti, El Palomitrón)
+  y de reacciones en inglés, no de hilos con conteo de votos en español.
 
 ### Punto 22 — Fan dubs y comunidad hispana
 
@@ -541,7 +554,9 @@ inglés (Kaguya-Ice, Kei, Chika, Ishigami), Dailymotion (tráilers).
   criticism»; «Kaguya-sama Love is War TV Tropes Funny moments what not to do
   fandom»; «Kaguya-sama Ishigami spin-off popularity "more popular than"
   Shirogane secondary character beloved»; «Kaguya-sama Love is War "Ensemble
-  Dark Horse" TV Tropes Ishigami Hayasaka Miko».
+  Dark Horse" TV Tropes Ishigami Hayasaka Miko»; «Kaguya-sama Love is War
+  episode 12 fireworks scene soundtrack music cue "Kei Haneoka"»; «Kaguya-sama
+  confession episode reaction video views comments most upvoted».
 - Japonés: «かぐや様は告らせたい 人気投票 結果».
 - APIs/directo (sin buscador): `doblaje.fandom.com/es/api.php action=parse`
   (wikitext completo de la ficha de la serie); `kaguyasama-wa-kokurasetai.fandom.com/api.php`
