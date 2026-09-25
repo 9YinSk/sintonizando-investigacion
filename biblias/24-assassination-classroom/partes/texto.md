@@ -472,9 +472,10 @@ sintetizado también en
 - **Tipografía**: dafont (foro), FontMeme, Yahoo!知恵袋 (pregunta sin
   responder sobre el logo japonés).
 
-Sigue: ninguno de los 6 puntos asignados (5, 6, 11, 18, 24, 25); todos
-tienen lo obligatorio de ENCARGO.md. Quedan como ⚠️/❌ opcionales (no
-bloquean): el diseñador del logo japonés, el texto completo de las
-entrevistas de Kishi/Uezu y de Matsui (bloqueadas), el programa de dibujo
+**Parte completa**: los 6 puntos asignados (5, 6, 11, 18, 24, 25) tienen lo
+obligatorio de ENCARGO.md, cada dato con su fuente. No queda «Sigue:»
+pendiente. Lo que falta es opcional (⚠️/❌, arriba en «No encontré»): el
+diseñador del logo japonés, el texto completo de las entrevistas de
+Kishi/Uezu y de Matsui (bloqueadas por los sitios), el programa de dibujo
 de Matsui, el segundo nombre de dirección de arte, y Koro-sensei en J-Stars
 Victory VS.

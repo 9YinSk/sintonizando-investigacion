@@ -1764,37 +1764,295 @@ de producción.
 
 ## Punto 19 · Texturas 2D (2.ª pasada)
 
-_(pendiente)_
+Junto con §4.4 (3D y HDRI) y §5.5 (texturas reales), para que no falte
+ninguna capa.
+
+- **Emblema de Stitch**: la estrella o triángulo dorado `#F9E03E` del
+  pecho de su traje espacial, con cinturón negro de ribete dorado. Sale
+  igual en Funko, Disney Infinity y el traje de Disney on Ice ✅ (tres
+  fuentes). Sirve de **sello o pin** en una esquina del álbum.
+- **Estampado del vestido de Lilo** (hojas blancas sobre rojo) repetido
+  como patrón: las mochilas **Loungefly** lo usan ✅
+  ([Disney Store](https://www.disneystore.com/lilo-stitch-loungefly-mini-backpack-442090260726.html),
+  [BoxLunch](https://www.boxlunch.com/brands/loungefly/lilo-stitch/)).
+  Con ©: para mirar, no para calcar. Idea: el borde de una foto tipo
+  Polaroid.
+- **Camisa hawaiana** (la de Jumba de turista): no hay textura libre ya
+  hecha. Base CC0: telas lisas `Fabric030`, `Fabric061`, `Fabric083` de
+  [ambientCG](https://ambientcg.com/list?type=Material&q=fabric), y el
+  estampado pintado a mano encima ✅ la base, ⚠️ el estampado.
+- **Tela kapa o tapa hawaiana** (el motivo de la portada de *Greatest
+  Hawaiian*, hoja 2, n.º 72): **ninguna CC0**; sólo fotos de museo sin
+  licencia de descarga ([Kapa Hawaii](https://kapaiastitchery.com/hawaiian-quilting-history/),
+  [RISD Museum](https://risdmuseum.org/exhibitions-events/exhibitions/pacific-islands-tapa-cloth)) ⚠️.
+  Son patrones culturales con dueño: dibujarlos a mano, nunca calcar.
+- **Patrón infinito de Disney**: el puzle «Stitch and Experiments»,
+  2137×1000, con Stitch y más de 100 experimentos repetidos
+  ([imagen](https://static.wikia.nocookie.net/disney/images/2/29/Stitch_and_Experiments_puzzle.jpg); hoja 2, n.º 81) y el
+  fondo «Stitch experiments wallpaper» (§17.1) ✅.
+- **Motivos japoneses oficiales**: *tenugui* y pincelada japonesa en los
+  fondos de §17.1 ✅.
+- **El cómic Dynamite no usa tramas**: color digital plano con
+  degradados suaves, sin puntos de semitono ✅ (portadas miradas). Si se
+  imita el cómic, sin trama.
+- **Grano de papel y acuarela**: capa de papel crema y granulación (Punto
+  18); sal gruesa en las rocas; roca CC0 de ambientCG.
+- **Borde de foto y cinta**: el *collage* de los créditos (fotos de
+  borde blanco pegadas en ángulo con cinta sobre azul liso, [1:20](https://archive.org/details/lilo-stitch-3?t=80)) ✅.
 
 ---
 
 ## Punto 20 · Gustos y detalles de cada personaje (2.ª pasada)
 
-_(pendiente)_
+Fuente principal: las fichas «likes/dislikes» de la
+[Lilo & Stitch Wiki](https://liloandstitch.fandom.com) (una wiki de fans:
+⚠️). Marco ✅ lo que además sale en la película con su minuto.
+
+| Personaje | Le gusta | No le gusta | Fuente |
+|---|---|---|---|
+| **Lilo** | su *ohana*, Stitch, tener amigos, **Elvis** ✅ (00:40:56), Regis Philbin, el hula, el surf, **hacer fotos a turistas** ✅ (00:22:54) | los abusones, **Mertle**, que Nani la regañe o la sobreproteja, que le griten | ⚠️/✅ [Lilo Pelekai](https://liloandstitch.fandom.com/wiki/Lilo_Pelekai) |
+| **Stitch** | divertirse, la *ohana*, sus «primos», Lilo, Angel, **comer, sobre todo pastel de coco, y el café** ✅ (Lilo le da café, 00:36:51), naves, **tortugas** (dibuja dos en los créditos; abraza una de peluche tras una pesadilla) ⚠️ | el agua, la nieve al principio, la soledad y el rechazo, Mertle | ⚠️/✅ [Stitch (626)](https://liloandstitch.fandom.com/wiki/Stitch_(626)) |
+| **Nani** | surfear ✅ (00:46:05), Lilo, su familia, **pizza** (trae pizza a Lilo, 00:21:42), el hula, el **chocolate** | la mala suerte, la desobediencia, perder a Lilo, perder el trabajo, gritarle a Lilo, los inventos de Jumba | ⚠️ [Nani Pelekai](https://liloandstitch.fandom.com/wiki/Nani_Pelekai) |
+| **Jumba** | crear experimentos «malvados», su propio genio, **«Hound Dog» de Elvis**, su madre, **bailar**; en su planeta los nutrientes se absorben por la piel y masticar le parece molesto, pero acaba cogiéndole gusto a comer | que fallen sus experimentos, que lo arresten, que le llamen «científico idiota», su ex esposa, Mertle | ⚠️ [Jumba Jookiba](https://liloandstitch.fandom.com/wiki/Jumba_Jookiba) (dato de la serie, no de 2002) |
+| **Pleakley** | la limpieza, la seguridad, **disfrazarse de mujer** ✅, coser, estudiar la Tierra, **los mosquitos** ✅ (00:38:44) | la suciedad, el peligro, los agujeros negros, que su madre le riña, **su nombre de pila, «Wendy»** | ⚠️/✅ [Wendy Pleakley](https://liloandstitch.fandom.com/wiki/Wendy_Pleakley) |
+
+- **Edad y cumpleaños**: ninguno de los cinco tiene **fecha de
+  nacimiento oficial** publicada (no hay campo en las fichas) ⚠️. Lilo
+  cumple **7** durante la película (7 velas en el montaje final) ⚠️ un
+  wiki. Nani, **18** en la primera película ⚠️ un wiki (§8).
+- **Altura**: Stitch mide **alrededor de 1 metro** (3 pies y 6 pulgadas)
+  ⚠️ una fuente, [Sideshow](https://www.sideshow.com/blog/disney-learn-about-stitch);
+  no hay ficha oficial en centímetros. Del resto, no encontré.
+- **El objeto que siempre lleva**: Lilo, su **cámara** (marca sin
+  confirmar ⚠️) y **Scrump**; Stitch, el **libro del Patito Feo** cuando
+  está triste; Pleakley, su **antena** (le sirve de oído y olfato) y la
+  peluca de disfraz; Cobra, sus gafas negras; Jumba, sus herramientas
+  (01:00:44).
+- **Cómo se ve a sí mismo**: Stitch, «perdido» (00:55:41) hasta que dice
+  «es chiquita y rota, pero es buena»; Lilo, alguien a quien todos dejan
+  (00:54:57); Jumba, «genio malvado» (00:02:37); Pleakley, guapo («I'm
+  pretty!», 00:38:40).
 
 ---
 
 ## Punto 21 · Por qué la gente la ama (2.ª pasada)
 
-_(pendiente)_
+- **La *ohana*, la familia encontrada**, es la razón que más repiten las
+  reseñas: familia no es sólo sangre, y eso llega a quien no encaja en la
+  suya ✅ ([Box Office Mojo, «'Ohana' Means Family»](https://www.boxofficemojo.com/article/ed2859467780)).
+- **Cifras de cariño**: 1.038 millones de dólares de taquilla en 2025 y
+  Stitch entre lo más vendido de Disney (más de 4.000 millones en
+  productos, §9) ✅.
+- **Con quién se identifica el público**: con **Stitch**, por sentirse
+  «raro» y no encajar; con **Lilo**, quien fue un niño solo o
+  «diferente» ⚠️ (resúmenes de foros, no una encuesta).
+- **Representación**: una familia hawaiana de verdad, rota e intentando
+  arreglarse tal cual es ✅ (hilo de Reddit citado en
+  [gonewith.substack.com](https://gonewith.substack.com/p/lilo-and-stitch-is-the-movie-2025)).
+
+### Las escenas que hacen llorar (y reír)
+
+| Escena | Minuto | Qué pasa y por qué duele | Música y cómo está hecha | Reacción |
+|---|---|---|---|---|
+| **El Patito Feo, «I'm lost»** | [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327)-55:31 (00:55:31 en subtítulo) | Stitch, que sólo destruye, se ve en un pato que no tiene grupo; está solo, de noche | **Sin música**: sólo el bosque. Plano cerrado, luz azul de luna, orejas caídas ✅ visto | es «la escena que te hizo llorar» en TikTok ✅ ([TikTok, búsqueda](https://www.tiktok.com/discover/la-escena-que-hizo-llorar-en-la-pel%C3%ADcula-de-lilo-y-stitch)) |
+| **La hamaca, «Aloha ʻOe»** | 00:52:51 | Nani le canta a Lilo sabiendo que se la pueden quitar | **a capela**, sin instrumentos | Reddit: el momento de «representación emocional» ✅ |
+| **La pared de fotos y el abrazo** | [22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330) → 22:55 | Lilo llora con el peluche ante sus fotos; Nani entra y se duermen abrazadas; «I like you better as a sister than a mom» (00:22:06) | cuarto de noche, luz morada y roja ✅ visto | ⚠️ sin comentarios medidos |
+| **«Es chiquita y rota, pero es buena»** | 01:15:00 | Stitch presenta a su familia ante la Federación | ✅ subtítulo; latino ✅ (§10.3) | frase de las listas oficiales de Disney Latino ✅ |
+| **Ríe: el cohete de monedas** | [31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904) | Lilo y Stitch a carcajadas | exterior de día ✅ visto | — |
+| **Ríe: «Blue punch buggy!»** | 01:01:38 | Lilo pega a Stitch al ver un escarabajo azul | ✅ subtítulo | meme vivo en TikTok (§14) |
+| **Ríe: Pleakley y los mosquitos** | [39:00](https://archive.org/details/lilo-stitch-2002_202609?t=2340) | «She's so beautiful» | ✅ visto | «Put Pleakley in the wig, cowards» (§8) |
+
+- **Vídeos de reacción con votos**: no se midieron ⚠️ (YouTube pedía
+  iniciar sesión y TikTok no abre desde el servidor).
 
 ---
 
 ## Punto 22 · Fan dubs y comunidad hispana (2.ª pasada)
 
-_(pendiente)_
+Título, canal, vistas y fecha **medidos con `yt-dlp -j`** (sin bajar el
+vídeo) ✅:
+
+| Fandub | Canal | Vistas | Fecha y duración |
+|---|---|---|---|
+| [«Fandub Lilo & Stitch Español Latino. Con participación especial de Saii y Yumi»](https://www.youtube.com/watch?v=kofTIv15aL4) | Dotachin96 | **147 762** | 26-jun-2012 · 9:48 |
+| [«Lilo y Stitch ¡ESTÁ TOCANDOME!»](https://www.youtube.com/watch?v=C53YBpJ8I_k) | Lucymar | 512 | 21-oct-2020 · 1:31 |
+| [«LILO Y STITCH FANDUB (Doblaje) · Vane Ochoa»](https://www.youtube.com/watch?v=fTEk021IYKQ) | Érase Una Voz | 202 | 22-may-2023 · 1:32 |
+
+- **Meme hispano recurrente**: «¡está tocándome!» (Nani le busca pulgas a
+  Stitch). La parte de voz encontró **al menos 4 versiones** de
+  distintos creadores ✅. Sirve para un evento de doblaje del servidor.
+- **Retos de doblaje con la voz oficial**: el TikTok de SDV con **Anaís
+  Portillo** (Lilo 2002) ([enlace](https://www.tiktok.com/@sdv_serviciosdevoz/video/7143761341776497925))
+  y otro con Raúl Aldana (§10.1) ✅.
+- **Covers en español** de «Hawaiian Roller Coaster Ride» y «He Mele No
+  Lilo»: varios, casi todos del estreno de 2025 ✅
+  ([ejemplo en YouTube](https://www.youtube.com/watch?v=qcMfcIHcJXk)); vistas
+  del cover sin medir (yt-dlp no devolvió datos) ⚠️.
+- **Escenas del fandub**: la de Dotachin96 dura 9:48 (varias escenas);
+  qué escena exacta dobla cada uno, sin anotar ⚠️.
+- **No encontré** parodias o memes hispanos grandes como «Ohana» o
+  «blue punch buggy» en inglés ⚠️ (puede existir; búsquedas en español e
+  inglés en la bitácora).
 
 ---
 
 ## Punto 23 · Colaboraciones y cruces (2.ª pasada)
 
-_(pendiente)_
+Su arte trae **poses y ropa nuevas**. Las imágenes vistas llevan su
+número de hoja.
+
+### Juegos y cartas
+
+- **Disney Lorcana** (cartas, Ravensburger): set precon «Lilo & Stitch»
+  (enero de 2026). Nani en tinta Ámbar; Stitch en varias, entre ellas
+  **«Stitch — Covert Agent»**, n.º 89/204, tinta Esmeralda: pose de
+  **espía** ✅ ([Lorcana Player](https://lorcanaplayer.com/card/stitch-covert-agent/),
+  [Dreamborn.ink](https://dreamborn.ink/decks/khfanjJj1HSJ3eTO0Yny)).
+  Vistas en la hoja 3: **Lilo «Galactic Hero»** (n.º 529) con traje
+  espacial y **Jumba «Renegade Scientist»** (n.º 530).
+- **Kingdom Hearts II**: Stitch invocación que lame la pantalla (§13.1)
+  ✅; manga de KH II con Stitch (hoja 3, n.º 553). La parte de imagen
+  dijo que KH III incluye «Stitch's Great Escape» de Shanghái (hoja 3,
+  n.º 535): **no se sostiene**, el n.º 535 es una foto de **Stitch
+  Encounter en Shanghai Disneyland**, no del juego. No usar ❌→ dato
+  retirado.
+- **Disney Infinity** (hoja 3, n.º 546), **Disney Heroes: Battle Mode**,
+  **Tsum Tsum 15.º aniversario** (hoja 3, n.º 547), **Dreamlight Valley**
+  ✅ (§13.1).
+- **Fortnite**: sólo una **filtración** de febrero de 2026 (Stitch como
+  acompañante, no *skin*); Epic no lo ha anunciado ⚠️
+  ([Vice](https://www.vice.com/en/article/leak-disneys-stitch-is-coming-to-fortnite-but-theres-a-catch/),
+  [esports.gg](https://esports.gg/news/fortnite/fortnite-x-disney-a-complete-list-of-all-collaboration-skins/)).
+  **No usar como hecho.**
+
+### Cómics y libros
+
+- **«Stitch Crashes the Marvel Universe»** (Marvel, septiembre de 2025):
+  Stitch invade las portadas de *Amazing Spider-Man* n.º 11 (Luciano
+  Vecchio), *Avengers* n.º 30 (Humberto Ramos), *Captain America* n.º 3
+  (Ben Su), *Fantastic Four* n.º 3 (Paco Medina) y *X-Men* n.º 22 (Phil
+  Noto) ✅ ([Marvel.com](https://www.marvel.com/articles/comics/stitch-crashes-the-marvel-universe-in-new-comic-book-covers),
+  [AIPT](https://aiptcomics.com/2025/06/26/stitch-marvel-comics/),
+  [Bleeding Cool](https://bleedingcool.com/comics/disney-stitches-stitch-to-the-covers-of-the-marvel-universe/)).
+  Vistas en la hoja 1, n.º 25 y 29-34 (también las «Holiday» de Marvel).
+- **«Stitch Crashes Disney»** (2021-2022): peluches mensuales de Stitch
+  colado en 12 clásicos ✅ ([How To Disney](https://howtodisney.com/stitch-crashes-disney-history-co1/)),
+  y los libros «Stitch Day Crashes Disney» (hoja 2, n.º 49-51). Es la
+  misma broma que los Inter-Stitch-als de 2002 (§3.1): **Stitch se cuela
+  en la foto**, el gag del canal.
+
+### Figuras oficiales (pose = referencia 3D)
+
+- **Funko Pop**: Stitch es el n.º 12 de Pop! Disney; variantes Aloha y
+  Elvis; y **Stitch disfrazado** de Bestia (n.º 1459), Gato de Cheshire
+  (1460), Simba (1461) y Pongo (1462) ✅ ([Pop Shop Guide](https://www.popshopguide.com/funko-pop-series/pop-disney/lilo-and-stitch/),
+  [Cardboard Connection](https://www.cardboardconnection.com/funko-pop-lilo-and-stitch-figures)).
+- **Britto** pop-art (hoja 1, n.º 12) y **Jim Shore «'Ohana»** tallada
+  (hoja 2, n.º 74), líneas oficiales de Enesco ✅ vistas.
+- **Tortuga de resina** «StitchSeaTurtleGK» (hoja 3, n.º 531) y figura de
+  aula «StitchLiloSchoolGK» (hoja 2, n.º 71): *garage kits* de fans, **no
+  oficiales** ⚠️, sólo pose.
+
+### Moda y accesorios
+
+- **Loungefly**: mochilas con el estampado del vestido de Lilo y línea
+  «Stitch y Scrump» ✅ (Punto 19).
+- **Crocs Jibbitz**: packs «Stitch Tropical», «Wild», «Curious», «Sweet»,
+  con caras de Stitch en distintas expresiones ✅
+  ([Crocs](https://www.crocs.com/p/stitch-tropical-5-pack/10012920.html)).
+
+### Parques, espectáculos y cafés
+
+- **Stitch's Great Escape!** (Magic Kingdom): abrió el 16-nov-2004 en el
+  sitio de *ExtraTERRORestrial Alien Encounter* (cerrada el 12-oct-2003)
+  y cerró en 2018 ✅ ([D23](https://d23.com/a-to-z/stitchs-great-escape/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Stitch%27s_Great_Escape!)); foto
+  en la hoja 3, n.º 534.
+- **Stitch Encounter** (Hong Kong, Tokio, Shanghái): Stitch habla con el
+  público en directo ✅ (hoja 1, n.º 3; hoja 3, n.º 535).
+- **Disney on Ice** con Stitch, Jumba y Pleakley (hoja 1, n.º 8-9) ✅: de
+  ahí salen los hex del traje espacial (§16.1).
+- **Fab 50**: estatua dorada de Stitch mordiendo su medallón, en
+  Tomorrowland ✅ ([MiceChat](https://www.micechat.com/322514-fab-50-character-collection-walt-disney-world/),
+  [Disney Wiki](https://disney.fandom.com/wiki/Disney_Fab_50_Character_Collection)); hoja 2, n.º 54.
+- **Desfiles**: «Dreams Come True Parade» 2008 y «DJ Stitch» (hoja 1, n.º
+  21-22); «Stars and Motor Cars» (hoja 3, n.º 532) ✅.
+- **Lilo y Jumba de parque** (hoja 3, n.º 536-540): el vestido rojo y la
+  camisa de Jumba en tela y volumen reales, la mejor referencia de
+  **cosplay oficial** ✅. Fotos con licencia libre de la fiesta «Stitch's
+  Hawaiian Paradise Party» en Flickr, **CC BY-ND 2.0** ([una de ellas](https://live.staticflickr.com/3178/5868563609_52d1cf1406_b.jpg),
+  el resto en `referencias.json`).
+- **Disney Cruise Line**: «Catch Stitch!», Stitch suelto en el barco
+  (hoja 3, n.º 559) ✅ visto.
+- **Cafés**: pop-up de **OH MY CAFE / BOX cafe&space** en Tokio (20-jun a
+  27-jul-2025) y Nagoya (10-jul a 3-ago-2025) ✅
+  ([TDR Explorer](https://tdrexplorer.com/limited-time-stitch-pop-up-cafe-launching-soon-in-tokyo-and-aichi/),
+  [Japan Web Magazine](https://jw-webmagazine.com/tips/stitch-cafe-in-japan-2025/));
+  Shanghái (Zhang Yuan, 26-jun a 19-jul); **Primark** Manchester con
+  murales ([Brand License](https://www.indianretailer.com/brandlicense/archives/news/primark-x-disney-launch-exclusive-stitch-collection-cafe-experience.n3923));
+  **MINISO** en el American Dream Mall de Nueva York, casi 200 productos
+  ([License Global](https://www.licenseglobal.com/retail-news-trends/minso-debuts-world-first-stitch-pop-up-experience-in-u-s-));
+  **Tropical Smoothie Cafe**, batido «'Ohana Breeze» (mayo de 2025)
+  ([nota de prensa](https://www.counton2.com/business/press-releases/cision/20250512CL84550/tropical-smoothie-cafe-debuts-first-ever-disney-collaboration-featuring-the-new-ohana-breeze-smoothie-inspired-by-lilo-stitch/)).
+
+### Cosplay
+
+- No encontré un tutorial **de Stitch** con materiales exactos firmado
+  por un cosplayer conocido; sólo guías genéricas de *fursuit* (pelo
+  sintético, espuma de alta densidad) ⚠️. Para volumen real: los trajes
+  de parque y de Disney on Ice de arriba.
 
 ---
 
 ## Punto 24 · Obras parecidas y temas relacionados (2.ª pasada)
 
-_(pendiente)_
+### Influencias que reconocen los autores
+
+- ***Mi vecino Totoro*** (Miyazaki, 1988): DeBlois, «*You've got these
+  fantastic elements and yet you feel like you watched a story that
+  really existed between a family*» ✅ ([AWN](https://www.awn.com/animationworld/lilo-toothless-and-totoro-too),
+  [Wikipedia](https://en.wikipedia.org/wiki/Lilo_%26_Stitch)).
+- ***E.T.***: Sanders puso a Stitch un «croac» a lo E.T. para molestar a
+  sus animadores ✅ ([Wikipedia, Stitch](https://en.wikipedia.org/wiki/Stitch_(Lilo_%26_Stitch))).
+  El paralelo de fondo (alien escondido, adoptado por un niño solo) lo
+  hace la crítica, no el director ⚠️.
+- Nutrias marinas para los gestos de Stitch (Punto 18).
+
+### La misma historia en otras culturas
+
+La franquicia es **más popular en Asia que en Occidente desde 2006** ✅
+([Disney Wiki](https://disney.fandom.com/wiki/Lilo_%26_Stitch_(franchise))):
+
+- ***Stitch!*** (anime, Madhouse, 2008-2015): isla ficticia **Izayoi**,
+  inspirada en **Okinawa**; la niña **Yuna Kamihara**; la abuela Obaa y
+  los espíritus **kijimuna** ✅ ([Ryukyu Shimpo](https://ryukyushimpo.jp/culture/entry-3182982.html),
+  [castel.jp](https://castel.jp/p/6965), [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%83%81!)).
+- ***Stitch & Ai*** (China, 2017): la niña **Wang Ai Ling** en la China
+  rural ✅ (Disney Wiki); póster en la hoja 3, n.º 551.
+- ***Tono-sama to Stitch* / *Stitch & the Samurai*** (manga, Kodansha,
+  2020; en inglés por Tokyopop, 3 tomos): Stitch en el **Japón Sengoku**
+  con el señor **Yamato** ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Stitch_%26_the_Samurai),
+  [ANN](https://www.animenewsnetwork.com/news/2020-01-13/disney-character-stitch-gets-manga-set-in-feudal-japan/.155297)).
+  Su autor, **Hiroto Wada**, murió en julio de 2021 ✅ (ANN). Páginas
+  interiores sin ver ⚠️.
+- Idea: «Stitch + niña sola + cultura local» es una fórmula que Disney
+  repite. Una lámina 2 «Stitch en Okinawa» ya tendría arte real.
+
+### Otras láminas del servidor que se le parecen
+
+- **Doraemon** (`19-doraemon`): **el más parecido**: ser no humano que
+  un niño adopta y que desordena la casa. **No** apoyar la lámina en
+  «Stitch lo rompe todo»; apoyarla en **las fotos de Lilo**, que Doraemon
+  no tiene.
+- **Big Hero 6** (`08-big-hero-6-grandes-h-roes`): Disney, familia
+  encontrada tras una pérdida, compañero no humano. **Mismo universo**:
+  el Experimento 619 sale en *Big Hero 6*. Su concepto A es una tabla de
+  dolor plastificada: no se pisa.
+- **Scooby-Doo** (`26-scooby-doo`): familia encontrada y humor; su
+  concepto A usa un **tablero de corcho** de pistas. El concepto de corcho
+  de aquí (§19) debe diferenciarse: fotos, no pistas.
+- **No hay** ninguna biblia de Hawái, fotografía o álbumes: el objeto es
+  único en el servidor ✅ (repasado el listado de `biblias/`).
 
 ---
 

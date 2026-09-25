@@ -324,3 +324,154 @@ en «No encontré» más abajo para que el investigador de vídeo (que sí tiene
 
 ---
 
+## Punto 20 · Gustos y detalles de cada personaje
+
+**Esta sección no existía en la biblia** (no hay tabla de cumpleaños,
+altura, comida, aficiones). La construyo con las fichas de personaje del
+manga citadas por la wiki oficial (equivalente a un databook: cada dato
+tiene volumen y capítulo) y AniList para cumpleaños/tipo de sangre.
+
+| Personaje | Cumpleaños | Altura | Sangre | Comida / bebida favorita | Afición / manía | Objeto que siempre lleva | Odia / le da miedo |
+|---|---|---|---|---|---|---|---|
+| **Koro-sensei** | 13 de marzo (dado, no real; Piscis) | 3 m | AB | Botan-ebi (camarón) en sushi | Dibujarse a sí mismo como pulpo; enterrarse en la caja de arena imitando una trampa de pulpo | La corbata con la luna, regalo de Aguri | Conducir (reglas de tráfico) |
+| **Nagisa** | 20 de julio (Cáncer) | 159 → 160 cm | A | — (no se documenta) | Investigar puntos débiles de Koro-sensei | Su cuaderno de apuntes | Que le llamen por su apellido si sus padres se reconcilian |
+| **Karma** | 25 de diciembre (Capricornio) | 175 → 185 cm | AB | Bebidas «～煮オ・レ» (lácteas); colecciona especias | Molestar/hostigar (su propia «afición» según el wiki) | Su cuchillo mariposa de espuma Anti-Sensei, hecho por él | — |
+| **Irina** | 10 de octubre (Libra), 20 años al inicio | 170 cm | — | — | Seducir; hablar varios idiomas | — | Que la llamen «vieja» o le recuerden la edad ⚠️ (no confirmado con fuente, de conocimiento general del personaje) |
+| **Karasuma** | 15 de agosto (Leo) | 180 cm | — | Hamburguesas o fideos instantáneos en la escuela | Ninguna declarada; le ladran los perros | — | Ser comparado favorablemente con Irina en seducción («a prueba de seducción», dice el manga en broma) |
+| **Kayano** | 9 nov. (real) / 9 enero (falso) | 143 → 157 cm | AB | Pudín | Puntuar en el karaoke | — | Que la comparen con chicas de mucho pecho (salvo Yada, su hermana Aguri e Irina) |
+| **Ritsu** | 1 de enero (Capricornio, mismo día que Gakushū Asano) | 170 cm | — | — («come» recargando energía) | Fabricar objetos de plástico especial (menos armas) | — | Ser hackeada por el Dios de la Muerte |
+
+Fuentes de la tabla: [Wiki – Korosensei](https://ansatsukyoshitsu.fandom.com/wiki/Korosensei),
+[Wiki – Nagisa](https://ansatsukyoshitsu.fandom.com/wiki/Nagisa_Shiota),
+[Wiki – Karma](https://ansatsukyoshitsu.fandom.com/wiki/Karma_Akabane),
+[Wiki – Irina](https://ansatsukyoshitsu.fandom.com/wiki/Irina_Jelavi%C4%87),
+[Wiki – Karasuma](https://ansatsukyoshitsu.fandom.com/wiki/Tadaomi_Karasuma),
+[Wiki – Kayano](https://ansatsukyoshitsu.fandom.com/wiki/Kaede_Kayano),
+[Wiki – Ritsu](https://ansatsukyoshitsu.fandom.com/wiki/Ritsu) (todas citan
+volumen/capítulo del manga o extras del tankōbon) + [AniList](https://anilist.co/anime/20755)
+para cumpleaños/altura/sangre (ya en `datos-voz.md`, cruzado aquí con la
+wiki). Cada celda con dato: ✅ dos fuentes (wiki + AniList) donde AniList
+lo tenía también; celdas sólo con wiki: ⚠️ una fuente, marcado en el
+texto de arriba.
+
+**Cómo se ve a sí mismo cada uno** (más introspectivo que la tabla):
+- Koro-sensei **se dibuja a sí mismo como un pulpo** incluso al corregir
+  exámenes y al elegir personaje en videojuegos — es literalmente su
+  autoimagen ✅ (Wiki, Trivia).
+- Kayano vive con una **identidad doble** (actriz Haruna Mase / alumna
+  infiltrada Akari Yukimura) — se ve a sí misma primero como un arma de
+  la venganza, después como «una mujer capaz» ✅ (Wiki).
+- Nagisa se sabe **el más débil físicamente** de la clase (el más bajo) y
+  por eso construye su fuerza en la observación y la paciencia, no en la
+  fuerza bruta ✅ (Wiki, ya en línea con la biblia).
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+### Ventas y premios (dato que faltaba entero en la biblia)
+
+- El manga llevaba **más de 27 millones de copias en circulación en
+  octubre de 2023** ✅ ([Wikipedia (EN), sección Reception](https://en.wikipedia.org/wiki/Assassination_Classroom),
+  cifra con cita propia) — en 2016 (fin de la serie) eran ya más de 25
+  millones.
+- Fue el **7.º manga más vendido de Japón en 2013** (4 595 820 copias), el
+  **10.º en 2014** (4 622 108) y el **4.º en 2015** (8 605 861 copias) ✅
+  ([Anime News Network](https://www.animenewsnetwork.com/encyclopedia/manga.php?id=15018);
+  cifras que también recoge Wikipedia).
+- **1.er puesto en el ranking «Kono Manga ga Sugoi! 2014» para lectores
+  masculinos** ✅ (Wikipedia EN, con cita a la fuente japonesa original).
+  Nominado al **Manga Taishō** (6.ª edición), al **Premio Cultural Osamu
+  Tezuka** (2015) y al **Eisner** a mejor edición de EE. UU. de material
+  internacional-Asia (2016) ✅.
+- En la encuesta **Manga Sōsenkyo 2021 de TV Asahi** (150 000 votantes),
+  quedó **51.º de toda la historia del manga** ✅ (Wikipedia EN).
+
+### Por qué conecta con el público (reseñas con cita textual)
+
+- *"By the end of episode 1 I was crying like a baby, and I never really
+  get that emotionally drawn into an anime"* — usuario **Kei_z**, reseña
+  10/10 en MyAnimeList ✅ ([MAL – reseñas de la 2.ª temporada](https://myanimelist.net/anime/26243/Ansatsu_Kyoushitsu_2nd_Season/reviews)).
+- *"The sound played quite a large role. It got you pumped up when
+  something was about to happen and also made you tear up at times
+  because of something horrible happening"* — usuario **KittyNom**,
+  reseña 9/10, sobre cómo la música hace el trabajo emocional ✅ (mismo
+  enlace).
+- En Reddit y foros, el motivo que más se repite es el **contraste**:
+  premisa absurda (matar a un pulpo amarillo por 10 000 millones de yenes)
+  con un mensaje real sobre **la educación y el valor de cada alumno**;
+  varios comentaristas de MyAnimeList dicen llorar en el final porque
+  «Koro-sensei pasa lista por última vez» ✅ ([hilo MAL sobre el
+  episodio final](https://myanimelist.net/forum/message/46792292?goto=topic)).
+- **No encontré un hilo activo en r/AssassinationClassroom** (el
+  subreddit no responde en Arctic Shift: `subreddit=AssassinationClassroom`
+  y variantes devuelven 0 resultados, igual que ya anotó `datos-voz.md`).
+  Es un hueco real, no falta de búsqueda: probé el nombre exacto, en
+  minúsculas, y `Ansatsukyoushitsu`.
+
+### La escena que hace llorar a todos, con música y encuadre
+
+- **Episodio 46, «Hora de la Graduación» (2×24 / cap. 176-178 del
+  manga)**: los alumnos inmovilizan los tentáculos de Koro-sensei; Nagisa
+  hace el asesinato final. La canción que suena en ese momento es el
+  **insert «Tabidachi no Uta»** (旅立ちの歌, «Canción de la partida») ✅
+  ([Wiki – Episodio 46](https://ansatsukyoshitsu.fandom.com/wiki/Episode_46),
+  infobox `insert =`). Este dato **no estaba en la biblia**, que sólo
+  citaba el minuto del pase de lista.
+  - **Cómo está construida la escena** (según la propia wiki, que lista
+    el orden exacto del llanto en pantalla, plano por plano/alumno por
+    alumno): primero llora Nagisa, luego Kataoka e Isogai juntos, luego
+    Kanzaki/Okuda/Sugino, después un grupo de cinco, luego otro grupo de
+    seis (Maehara «especialmente» marcado aparte), Ritsu, otro trío, otro
+    grupo de cinco, Kayano, Karma, y **Nagisa otra vez al cierre** ✅
+    (Wiki – Episodio 46, sección Trivia: es literalmente la lista con la
+    que la wiki documenta la escena). Es una escena de **reacciones
+    individuales encadenadas**, no un plano general de la clase llorando
+    a la vez — dato útil si se quiere recrear la composición.
+  - Koro-sensei **se desvanece en una luz brillante**, dejando sólo su
+    ropa ✅ (mismo resumen de la wiki).
+- **Episodio 47, «Hora del futuro» (2×25)**: epílogo siete años después;
+  cierra con **«Mata Kimi ni Aeru Hi»** y, por el 10.º aniversario del
+  manga, también sonó **«Spica»** como ending ✅ (infobox Episodio 47).
+- Estas dos canciones (`Tabidachi no Uta`, insert; `Mata Kimi ni Aeru Hi`,
+  ending) **no estaban nombradas en la sección de música de la biblia**:
+  paso el dato a quien edite esa sección.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+- **Fandub de escenas de práctica**, canal independiente: *«Assassination
+  Classroom: Escenas de práctica - Fandub Español Latino»* ⚠️ (un solo
+  resultado de búsqueda, [YouTube](https://www.youtube.com/watch?v=AkbT2qpyz1U);
+  **no pude abrirlo** por el bloqueo de sesión de YouTube en este
+  servidor — cito el título tal cual aparece en la búsqueda, sin ver el
+  contenido ni contar vistas).
+- **Fandub cantado del Ending 1**, con letra propia en español latino:
+  *«[FANDUB] Assassination Classroom - Ending 1 - Letra Español Latino»*
+  ⚠️ ([YouTube](https://www.youtube.com/watch?v=2PJNb3BOsZ8), mismo
+  bloqueo, sin ver ni contar vistas). Es el único **cover de tema musical
+  en español** que encontré — no hay evidencia de covers de los openings
+  («Seishun Satsubatsu-ron», «Jiriki Hongan Revolution») en español, sólo
+  en inglés (cover de SoundCloud, canal *mangomelody*) ✅ el cover en
+  inglés existe, ❌ no hay uno en español que encontrara.
+- **Memes y edits hispanos** (ya usados también en §12): TikToks de la
+  muerte de Koro-sensei en cuentas hispanohablantes (`@tuotako`,
+  `@otaku_caricaturas`), con miles de interacciones ⚠️ (cifra exacta sin
+  verificar, no pude abrir TikTok para contarla).
+- **Dailymotion no tiene fandubs ni parodias hispanas** de la serie:
+  repetí la búsqueda de `datos-voz.md` directo contra la API
+  (`api.dailymotion.com/videos?search=Assassination+Classroom+fandub+español`,
+  634 resultados totales) y **todos** son noticias/tráilers en francés de
+  medios como Tele-Loisirs o Vandal, cero fandubs ✅ confirmado que el
+  hueco es real, no un fallo de búsqueda.
+- **No encontré** (búsquedas hechas, con los términos exactos entre
+  comillas cuando aplica): canales de fandub latino con nombre propio y
+  trayectoria (tipo «Center Dub» o similar de otras series); parodias
+  hispanas tipo «línea de diálogo alternativa»; cosplay hispano con
+  fandub incluido. El bloqueo de YouTube en este servidor es la
+  limitación principal de este punto: los resultados de búsqueda
+  **existen**, pero no pude verificarlos viéndolos.
+
+---
+
