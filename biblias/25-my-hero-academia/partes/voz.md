@@ -282,11 +282,15 @@ le faltaba profundidad y fotogramas reales), añado:
 | **All Might** (flaco) | **Ternura / consejo** | «Puedes ser un héroe», callejón | [2:43](https://www.dailymotion.com/video/x7xktih?t=163) | A contraluz del atardecer, silueta, mano en el hombro de Izuku (se intuye) |
 | **Rei Todoroki** | **Angustia / colapso** | Recuerdo antes de quemar a Shoto | [0:20](https://www.dailymotion.com/video/x7xkvbk?t=20) | De espaldas junto a la tetera, pelo blanco suelto, hombros caídos |
 | **Bakugo** | **Rabia pura** | Discusión con Deku tras el Villano Limo | [0:17](https://www.dailymotion.com/video/x7xktih?t=17) | Primer plano muy cerrado, un ojo en sombra, boca abierta enseñando los dientes, luz amarilla a contraluz: **la cara de Bakugo más repetida por el fandom** en memes |
+| **Shoto Todoroki** (niño) | **Rabia / esfuerzo** | Entrenando con su don a la fuerza | [1:00](https://www.dailymotion.com/video/x7xkvbk?t=60) | Dientes apretados, cejas bajas, primer plano cerrado |
+| **Shoto Todoroki** | **Determinación** | Usa el fuego por primera vez ante Bakugo (Festival Deportivo) | [2:40](https://www.dailymotion.com/video/x7xkvbk?t=160) | Mitad de la cara iluminada por el fuego, ceja fruncida, mirada fija; dice «**Yo también quiero ser un héroe**» ([min. 2:36-2:42](https://www.dailymotion.com/video/x7xkvbk?t=156), doblaje latino, oído con `voz.py`) |
 
-(Las demás emociones que pide el punto 13 —tristeza y vergüenza en
-Uraraka, Todoroki en calma, Aizawa alegre (si es que existe)— **no las
-pude ver yo mismo** en clips reales con el cupo de esta tanda: quedan con
-la descripción «de memoria ⚠️» que ya tenía la sección 8 de la biblia.)
+(De los 6 personajes del encargo, me quedaron **Uraraka y Aizawa sin un
+fotograma nuevo mirado por mí** en esta tanda —los clips de Dailymotion
+que encontré no los muestran de cerca—; siguen con la descripción «de
+memoria ⚠️» que ya tenía la sección 8 de la biblia. Tampoco cubrí
+tristeza ni vergüenza en ningún personaje: son las emociones menos
+representadas en escenas de acción/doblaje cortas.)
 
 ## Punto 20 · Gustos y detalles de cada personaje (de fichas oficiales)
 
@@ -432,8 +436,11 @@ círculo.
   latino doblaje»; 4 vídeos procesados con `voz.py` (transcripción) y
   `fotogramas.py` (hojas de contacto, miradas con Read):
   `x618t31` (All Might, Villano Limo), `x7xktih` («Puedes ser un héroe» +
-  pelea Deku/Bakugo), `x7xksc8` (Deku vs. Muscular, ya en datos), `x7xkvbk`
-  (Rei Todoroki).
+  pelea Deku/Bakugo + cara de rabia de Bakugo), `x7xksc8` (Deku vs.
+  Muscular, ya en datos), `x7xkvbk` (Rei Todoroki + Shoto usando el fuego
+  por primera vez, con su frase «Yo también quiero ser un héroe»). Borré
+  los `video.mp4` de las 4 carpetas después de sacar las hojas (disco
+  compartido).
 - Reddit vía Arctic Shift (`arctic-shift.photon-reddit.com`), búsqueda
   «Papa All Might» en r/BokuNoHeroAcademia.
 - Buscador web (en español e inglés, cupo usado: 6 de ~50): fandub español
