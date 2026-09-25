@@ -43,9 +43,11 @@ imágenes grandes en 5 hojas de contacto que miré completas:
   163, Woody nº137/188), diseño de color alternativo de Woody por **Bud
   Luckey** (nº181, "Woody Alternate Colors Design", 990×788 — boceto de
   producción real, sirve para el punto 18/17 de paleta y para ver que el
-  diseño final se fijó tras probar variantes), fotos históricas en blanco y
-  negro de un show de *Toy Story* en hielo en Radio City / Disney World
-  (nº177-180). ⚠️ (mirada, sin copiar).
+  diseño final se fijó tras probar variantes), **arte de videojuego**: "Buzz
+  from Toy Story 2 the game.png" (nº162, 1267×919) y cajas de *Toy Story 3
+  PSP* (mencionadas también en el punto 3, Sketchfab), fotos históricas en
+  blanco y negro de un show de *Toy Story* en hielo en Radio City / Disney
+  World (nº177-180). ⚠️ (mirada, sin copiar).
 - **Hoja 5** (`hojas/merchandising_01.jpg`, nº193-211): cajas de *Toys "R"
   Us* de *Toy Story 3* con arte gráfico plano tipo cómic (nº200-204, todas
   640×960), figuras Funko POP de Buzz y Rex (nº208-209), storyboards a
@@ -132,7 +134,12 @@ material y no de la iluminación:
   iluminadas, camisa y sombrero amarillos **#F6D739**, jean azul **#1F62A1**,
   piel **#DCBA92**. Por texto e imágenes de las hojas: chaleco y chaps con
   **estampado de vaca** igual que Woody, trenza única, bandana roja, botas
-  cafés. ⚠️ (una imagen medida).
+  cafés. Comparando las hojas (apariciones en *Toy Story 2*, *3*, *4* y el
+  adelanto de *5*, hojas 1-4), su traje **no cambia de un arco a otro**: es
+  la misma "ropa icónica" en las cinco películas, a diferencia de Woody y
+  Buzz que sí ganan accesorios nuevos. ⚠️ (una imagen medida para el hex; la
+  consistencia del traje es comparación visual propia entre hojas, sin
+  fuente de texto que lo diga explícito).
 - **Rex** — sobre "TS4 Rex toy version.jpg" (1800×1800, producto limpio):
   verde oscuro del lomo **#238644**, verde claro del vientre **#6CA867**,
   azul de los ojos/placas **#0C55A2**. Es un juguete sin ropa; su "vestuario"

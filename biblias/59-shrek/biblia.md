@@ -498,3 +498,64 @@ Lista completa sacada del wikitext de [*Shrek (franchise)*](https://shrek.fandom
 - **No dibujar contorno negro de anime** ni cel-shading: Shrek es CG sin línea (punto 18).
 - **No cambiar el vestido de Fiona al transformarla**: la ropa es la misma en humana y en ogra (punto 1).
 
+## Punto 13 · Personajes a fondo
+
+Fuentes: fichas de Fandom (EN) y Doblaje Wiki, las muestras de voz (punto 8) y fotogramas propios. Recordatorio: los minutos **(DM)** son de la copia de Dailymotion de 66:03; los demás, de la copia de Archive de 90:04.
+
+### Shrek
+- **Historia.** Vive solo en su pantano porque la gente le teme. Cuando Farquaad destierra a las criaturas de cuento a su pantano, pacta: rescatar a Fiona a cambio de recuperar su casa. Se enamora, no se cree que alguien pueda quererlo y confiesa en la boda. En *Shrek para siempre* firma con Rumpelstiltskin para ser «un ogro de verdad» un día, y casi pierde a su familia.
+- **Miedo.** Que lo juzguen y lo rechacen por su aspecto. Después, perder su libertad al volverse «domesticado».
+- **Qué le importa.** Primero su pantano y su soledad; después su familia, por encima de todo.
+- **Qué transmite.** «No juzgues por las apariencias», sin sermón. Es gruñón y algo egoísta, y por eso es creíble. Da ternura verlo aprender a confiar.
+- **Cómo habla.** Voz aguda para su tamaño (262 Hz), muy expresiva pero **lenta cuando explica** (1,71 palabras/s): casi pedagógico y un poco sarcástico. Su presentación es gritar «¡Fuera de mi pantano!» ⚠️ (sin muestra de audio).
+- **Cuerpo.** Hombros caídos y paso pesado cuando está triste; se yergue y va al frente cuando protege. Para asustar enseña los dientes muy cerca de cámara: es **un acto**, sabe que asusta y lo usa.
+- **Dinámicas.** Burro lo hace reír a su pesar. Discute con Fiona por un malentendido (ella lo oye decir «monstruo» y cree que habla de ella, (DM) ~49-50). Protege a Fiona de Farquaad sin dudar.
+
+### Burro
+- **Historia.** Vendido por su dueña a un mercader de criaturas mágicas, se escapa, se pega a Shrek y no lo suelta. Encuentra el amor con la Dragona.
+- **Miedo.** **La soledad**: todo su parloteo es huir del silencio. Y las alturas.
+- **Qué le importa.** Tener amigos, aunque moleste.
+- **Qué transmite.** Calidez y risa constante. Es el «traductor emocional» de Shrek: dice en voz alta lo que Shrek no admite.
+- **Cómo habla.** Agudo (265 Hz) y **el más rápido** de los cuatro (3,0 palabras/s). Encadena preguntas sin pausa. Carcajada abierta y sonora. Muletillas del doblaje: «¿Ya llegamos?», «Pregúntame, pregúntame».
+- **Cuerpo.** Gesticula con las patas delanteras como un humano. Camina **demasiado cerca** de Shrek cuando tiene miedo.
+- **Dinámicas.** Hace reír a Shrek; amor instantáneo con la Dragona; **rivalidad cómica con el Gato** por ser el mejor amigo de Shrek.
+
+### Fiona
+- **Historia.** Hechizada de niña, encerrada en una torre esperando el amor verdadero. Descubre que su plan de cuento no encaja con la realidad. **Elige quedarse ogra para siempre**, algo rarísimo para una princesa animada en 2001.
+- **Miedo.** Que la vean como un monstruo; más tarde, perder su independencia siendo madre y princesa.
+- **Qué le importa.** Que la quieran por quien es. En *Shrek tercero* no espera rescate: lidera la rebelión.
+- **Qué transmite.** Se ríe del cuento de hadas con cariño. Da gusto verla: eructa, se defiende sola y sigue siendo tierna.
+- **Cómo habla.** Voz media (200 Hz), ritmo normal. Al principio, **castellano antiguo** («vos me habéis salvado»), que se va soltando. Pelea con calma, casi aburrida (parodia de *Matrix*).
+- **Cuerpo.** Muy erguida, «de manual», al principio; luego se sienta en el suelo y ríe con la boca abierta ((DM) 47:12, junto al fuego con Shrek).
+- **Dinámicas.** Discute con Shrek por el malentendido; complicidad de hermanos con Burro; desprecio a Farquaad desde que lo ve.
+
+### Gato con Botas
+- **Historia.** Cazarrecompensas que va a por Shrek en *Shrek 2*, pierde y se une a él. En su película (2011): huérfano criado con Humpty Dumpty, que lo traiciona, y su historia con Kitty. En *El último deseo* (2022) ha gastado **8 de sus 9 vidas** y por primera vez teme morir.
+- **Miedo.** En la trilogía, casi ninguno (ese es el chiste). En *El último deseo*: a la Muerte (un lobo cazarrecompensas), a estar solo, a no ser nadie sin su leyenda.
+- **Qué le importa.** Su honor y su leyenda; al final, Kitty y Perrito, y aprender que una vida basta.
+- **Qué transmite.** Encanto y aventura; en 2022, una historia de ansiedad tratada con un respeto que la crítica llama pionero (punto 21).
+- **Cómo habla.** Más agudo que Shrek (239 Hz) y **muy rápido** (3,51 palabras/s) cuando finge ternura para escapar: un timador con acento español. Los ojos de cachorro son **manipulación consciente**, nunca involuntaria.
+- **Cuerpo.** Reverencias exageradas, mano al pecho al jurar, la espada sale con un giro teatral. En el ataque de pánico todo cambia: se encoge, tiembla, jadea.
+- **Dinámicas.** Rival cómico de Burro; tensión romántica y profesional con Kitty; con Perrito, el mentor acaba siendo calmado por el protegido.
+
+### Los secundarios queridos
+- **Lord Farquaad.** Obsesionado con la perfección y con ser rey casándose con una princesa. Su crueldad es sobrecompensación por su estatura. Villano ridículo **y** despiadado: eso lo hace memorable. Tono cortante y nasal, siempre de mando.
+- **Dragona.** El monstruo que resulta ser lo más tierno de la escena. No habla (en el original, efectos de Frank Welker sin crédito).
+- **Jengi.** Alivio cómico pequeño en escenas tensas; llora glaseado azul.
+- **Kitty** y **Perrito**: el motor emocional de *El último deseo*. La frase de Perrito, según su ficha: «Sólo he tenido una vida, pero compartirla contigo y con Kitty la hizo especial. Quizás… una vida… sea suficiente» ⚠️ (no se comprobó que sea la línea exacta del doblaje latino).
+
+### Su cara en cada emoción
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Shrek** | ✅ (DM) 1:02:04, sonrisa amplia al ver a Fiona ogra · 55:05 riendo apoyado en un árbol | ✅ (DM) 8:24-8:28, grita y enseña los dientes a Burro | ⚠️ (DM) ~49-50 se intuye de espaldas, sin plano frontal | ⚠️ no encontrado | ⚠️ no encontrado |
+| **Burro** | ✅ (DM) 58:00, sonrisa amplia y orejas arriba · 52:59 riendo de perfil | ⚠️ no localizado (su registro es más miedo que ira) | ⚠️ no encontrado | ✅ 35:03, cara pegada a cámara, ojos enormes, luz roja del fuego de la dragona · render H3-4 | ⚠️ no encontrado |
+| **Fiona** | ✅ (DM) 47:12, risa junto al fuego · (DM) 1:02:00, serena tras transformarse · 49:56 cantando | ⚠️ no aislado | ⚠️ candidatas H1-10 y H1-11 («Fiona feels sorry for Shrek», «overhears», 3840×2080), que salen casi negras en la hoja | ✅ 44:56, boca abierta, cejas arriba, mira algo fuera de cuadro | ⚠️ no encontrado |
+| **Gato con Botas** | ✅ *Shrek 2* 1:22:30, tarjeta de créditos, lengua fuera, pose de estrella | ⚠️ *Shrek 2* 38:00 es un reto con la espada, no rabia | ⚠️ no encontrado | ⚠️ ataque de pánico de *El último deseo*, ~55:17-58:37 o ~1:02:32 según fans de Reddit; sin fotograma propio | ⚠️ no encontrado |
+| **Lord Farquaad** | ⚠️ no encontrado | ✅ (DM) 13:08, frío y satisfecho torturando a Jengi · (DM) 1:01:24, furia con la boca abierta al ver a Shrek | ⚠️ | ⚠️ | ⚠️ |
+| **Jengi** | ⚠️ | — no aplica | ✅ (DM) 13:24, llorando glaseado azul | ✅ (DM) 13:24, boca de mermelada temblando en la mesa de tortura | — |
+
+**Resultado: 10 de 30 casillas con fotograma y minuto** ✅. Se recorrió *Shrek* entera (DM) cada 60 s con 3 pasadas de 4 s, y los fotogramas de la copia de Archive. Faltan sobre todo **vergüenza** (nadie) y **tristeza**. Algunas combinaciones quizá no existen como plano propio en *Shrek* (Shrek con miedo, Farquaad alegre) ⚠️.
+
+**Dinámicas para láminas en grupo:** Shrek + Burro (el gruñón y el parlanchín, «Name a more iconic duo» en Reddit) · Burro + Gato (celos cómicos) · Shrek + Fiona (iguales, se ríen juntos) · Gato + Perrito (el que calma al valiente).
+
