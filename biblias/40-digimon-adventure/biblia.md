@@ -1543,3 +1543,138 @@ texto decía que no había lámina de Pokémon: **sí la hay** (§28).
   (el núcleo de datos de un Digimon).
 
 ---
+
+## 27 · Tres conceptos de lámina
+
+La serie **no tiene canal** (§0). Propongo tres láminas para tres
+canales distintos, **ninguno de los que ya chocan en 37, 38 y 39**. Los
+textos de los personajes son **de la lámina, no del doblaje**: van en
+su voz (§18.7), cortos, una idea cada uno, sin «·», «—» ni paréntesis.
+
+### A · #que-estas-escuchando — «La armónica de Matt» ⭐ el recomendado
+
+- **El objeto real en un sitio real.** La **armónica de Matt**, en su
+  mano, en primer plano. Se hace en **Blender**: tapas de metal
+  cromado, peines y agujeros; la luz del atardecer resbala por el metal.
+  El **nombre del canal va grabado en la tapa**, como la marca de una
+  armónica de verdad: **¿QUÉ ESTÁS ESCUCHANDO?** El grabado sigue la
+  curva y el brillo del metal.
+  ⚠️ Las partes no describen la armónica (color, marca): mirar la
+  despedida (ep. 54, IA-C, 13:00-15:00) antes de modelarla.
+- **El sitio.** El **bosque del Mundo Digital al atardecer** (IA-V1,
+  45:00): degradado rosa **#D58D98** a amarillo **#F7F7CD**, sombras
+  violeta **#8E4C67** y un **cartel de tráfico en silueta**. La
+  armónica sale en la despedida (ep. 54); el sitio es una elección de
+  composición, con la paleta medida.
+- **Quién y con qué pose.** **Matt**, el 2.º más votado en la encuesta
+  oficial (§9), sentado, **ojos cerrados** tocando (la cara del ep. 54,
+  13:28). Proporciones y ropa de 1999: la figura de Flickr (§4.2) y el
+  nº 32 de `personajes_01.jpg`. A su lado, **Gabumon** sentado,
+  escuchando (retrato de [AniList](https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png)
+  y hoja de modelo). ⚠️ No hay pose sentada de Gabumon en las partes: se
+  saca de la figura o se posa en 3D.
+- **Cómo habla.** La **caja de *Digimon World***: azul petróleo
+  translúcida **#39464B**, borde fino cian, **el nombre en una cápsula
+  amarillo verdosa** arriba a la izquierda (**Press Start 2P**), el
+  texto en blanco con **Nunito**.
+- **Dónde va cada texto** («La canción que llevas en bucle. Pega el
+  enlace y di por qué.»):
+  - Grabado en la armónica: **¿QUÉ ESTÁS ESCUCHANDO?**
+  - Caja de Matt, arriba a la izquierda: «La canción que llevo en bucle.
+    Pega aquí la tuya.»
+  - Caja de Gabumon, más pequeña, abajo a la derecha: «¿Y por qué esa?
+    Cuéntalo… yo te escucho.»
+- **Cómo no queda plano.** La armónica **delante**, un poco
+  desenfocada, con el reflejo del atardecer. El **cartel de tráfico en
+  silueta** entre los personajes y el fondo, como en el fotograma. Luz
+  **rosa de contra** que dibuja el borde del pelaje de Gabumon y el pelo
+  de Matt.
+- **Guiño opcional:** el **silbato de Kari** colgado de una rama del
+  fondo: la otra mitad del recuerdo de la despedida (§14.1).
+
+### B · 🍟 General (voz) — «La llamada desde el Mundo Digital»
+
+- **El objeto real en un sitio real.** Un **teléfono público** en
+  plena naturaleza del Mundo Digital, como el de IA-V1 (30:00). Se hace
+  en **Blender**: cabina, auricular con su cable en espiral, botones. La
+  info del canal va en la **placa de instrucciones** de la cabina, como
+  las de los teléfonos reales. ⚠️ Las partes no describen la cabina:
+  mirar el fotograma 30:00 para su forma y su color y para el sitio
+  exacto. Si no se ve, **Railroad Plains** (§5.2): campo verde con
+  torres eléctricas, otro objeto humano fuera de lugar.
+- **Quién y con qué pose.** **Tai** (el primero de los cinco en AniList
+  y en dibujos de fans, §9), con el auricular en la oreja y **apretando
+  el botón** (pose 3 de §15.1). **Agumon** asomado detrás, **ceño un
+  poco fruncido, impaciente** (pose 3 de §15.2). Ropa de 1999: nº 30 de
+  `personajes_01.jpg`.
+- **Cómo habla.** Ficha del **Digimon Analyzer**, primera versión:
+  fondo negro con **rejilla**, nombre en **letras azules sobre cápsula
+  verde #319F41** («TAI», «AGUMON») con **Baloo 2** 700, **etiqueta rosa**
+  al lado como la del nivel, que aquí dice **EN LLAMADA**. Texto en
+  **Nunito** blanco.
+- **Dónde va cada texto** (la sala no tiene descripción; va en la línea
+  de #general: «aquí se habla de lo que sea. Del oficio se habla en
+  general-doblaje»):
+  - Placa de la cabina, en **Permanent Marker**: «1. Entra. 2. Habla.
+    3. De lo que sea.»
+  - Ficha de Tai: «¡Entra y habla de lo que sea!»
+  - Ficha de Agumon: «Tai, lo del oficio va en general-doblaje.»
+- **Cómo no queda plano.** Agumon **delante**, pegado al cristal de la
+  cabina; el **cable del auricular** cruza la imagen en primer plano;
+  las **torres eléctricas** se pierden al fondo. Luz de día **pálida y
+  sobreexpuesta**, como en 1999 (#F4FDF9, §5.1).
+- **Lámina 2** si se quiere: la regla de LA SALA, con #general y
+  #que-estas-escuchando como vecinos.
+
+### C · #config-bots — «El Analyzer de los bots»
+
+- **El objeto real en un sitio real.** El **portátil de Izzy**
+  («PiBook», §8.7) abierto sobre el suelo de **Binary Castle**, el
+  castillo de las **pantallas turquesa colgando de cables** (§5.2). En
+  su pantalla, el **Digimon Analyzer**: una ficha por bot. Se hace en
+  **Blender**: portátil de los 90, pantalla emisiva, cables por el
+  suelo. ⚠️ No hay imagen del PiBook en las partes: sólo el nº 25 de
+  `personajes_01.jpg` (Koushiro adulto ante un ordenador).
+- **Quién y con qué pose.** **Agumon**, porque en el anime **son los
+  propios Digimon quienes leen los datos del Analyzer** (§7.2). Pose
+  curiosa, el ojo verde grande (pose 4 de §15.2), mirando la pantalla,
+  con la cara iluminada por ella.
+- **Cómo habla.** **El Analyzer, segunda versión** en la pantalla:
+  ticker rojo **#79231F** en bucle arriba y abajo, que aquí dice
+  «**CONFIG BOTS CONFIG BOTS…**»; el nombre de cada bot en una
+  **cápsula verde** (**Press Start 2P**); una **etiqueta rosa** con su
+  función, y tres cajas negra, naranja y plata con los datos. Lo que dice
+  Agumon, en una **caja de *Digimon World*** (#39464B, borde cian,
+  **Nunito**).
+- **Dónde va cada texto** («Checklist de bots y qué configurar en cada
+  uno.»):
+  - Ticker: «CONFIG BOTS».
+  - Una ficha por bot: **nombre**, **qué hace**, **qué configurar**,
+    **estado**.
+  - Caja de Agumon: «Lo que pasa es que cada bot tiene su ficha. Mírala
+    antes de tocar nada.»
+  - **No invento bots ni comandos**: el inventario no los lista. El
+    dueño pasa la lista y se rellenan las fichas. Si son muchos,
+    **lámina 2** con las fichas en rejilla.
+- **Cómo no queda plano.** **Pantallas colgando delante y detrás** del
+  portátil, a distintas distancias. Luz **turquesa #66E3DD** desde
+  abajo y **dorada** desde la bóveda. El brillo de la pantalla en la
+  panza clara de Agumon.
+- **Que no parezca una Pokédex** (Pokémon, 07): nada de aparato rojo;
+  pantalla negra con rejilla y cápsulas de color.
+- **Reserva pública:** **#noticias-anime** («Lo trae un bot»), con el
+  ticker rojo como titular. Choca con Bleach (29).
+
+### Las tres, en una tabla
+
+| | A | B | C |
+|---|---|---|---|
+| Canal | #que-estas-escuchando | 🍟 General (voz) | #config-bots (reserva #noticias-anime) |
+| Objeto (Blender) | armónica grabada | teléfono público con placa | portátil con el Analyzer |
+| Sitio | bosque al atardecer | campo del Mundo Digital | Binary Castle |
+| Personajes | Matt y Gabumon | Tai y Agumon | Agumon |
+| Cuadro | caja de *Digimon World* | ficha del Analyzer 1 | Analyzer 2 + caja de *Digimon World* |
+| Luz | rosa de contra | día pálido | turquesa y dorada |
+| Choca con | Demon Slayer (31), 2.ª opción | Jujutsu Kaisen (32), 2.ª opción | nadie (privado) |
+
+---
