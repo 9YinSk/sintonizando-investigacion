@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www.ghibli.jp/images/chihiro1.jpg",
+    "fuente": "ghibli.jp (fondos oficiales para videoconferencia)",
+    "ancho": 1920,
+    "alto": 1081,
+    "que_es": "Fondo de pantalla oficial: calle del balneario de noche, sin personajes",
+    "para_que": "Fondo/lámina - punto 16, textura y luz nocturna del balneario",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro011.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: torre del balneario de noche, farolillos",
+    "para_que": "Fondo - punto 16, paleta nocturna medida",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro016.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: primer plano de Yubaba",
+    "para_que": "Vestuario/cara - punto 15, hex de vestido y joyas medidos",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro014.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: grupo de susuwatari con caramelos de colores",
+    "para_que": "Espíritus - puntos 1 y 16, colores medidos",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro020.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: puente rojo del balneario de día",
+    "para_que": "Fondo - punto 16, paleta diurna medida",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro021.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Chihiro y Lin entre flores, uniformes del balneario",
+    "para_que": "Vestuario - punto 15, hex de ambos uniformes medidos",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro001.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Chihiro en el coche con ropa del mundo real",
+    "para_que": "Vestuario - punto 15, hex de camiseta y shorts medidos",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro025.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Sin Cara ofreciendo fichas de baño a Chihiro",
+    "para_que": "Vestuario/espíritu - punto 15, hex de máscara y túnica medidos",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro043.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: tren cruzando el mar al atardecer",
+    "para_que": "Fondo icónico - punto 16, paleta pastel medida",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/chihiro046.jpg",
+    "fuente": "ghibli.jp (imágenes oficiales de la película)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Haku y Chihiro llorando, primer plano nocturno",
+    "para_que": "Vestuario/cara en emoción - punto 15",
+    "licencia": "Uso libre dentro del sentido común (texto oficial de ghibli.jp)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b0/Radish_Spirit_%286%29.png/revision/latest?cb=20181226144415",
+    "fuente": "ghibli.fandom.com (wiki, vía investigar_serie.py)",
+    "ancho": 1280,
+    "alto": 688,
+    "que_es": "Fotograma: primer plano del espíritu del rábano (Otori-sama) en el balneario",
+    "para_que": "Espíritus - punto 16, hex de sombrero e interior dorado medidos",
+    "licencia": "Fair use / captura de película, atribuir a Studio Ghibli"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/45/River_Spirit.png/revision/latest?cb=20181226144426",
+    "fuente": "ghibli.fandom.com (wiki, vía investigar_serie.py)",
+    "ancho": 1280,
+    "alto": 688,
+    "que_es": "Fotograma: el espíritu del río ya purificado asciende por el gran salón",
+    "para_que": "Espíritus/fondo - punto 16, hex de columna roja y vapor medidos",
+    "licencia": "Fair use / captura de película, atribuir a Studio Ghibli"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/ec/Chihiro_4k_2.jpg",
+    "fuente": "ghibli.fandom.com (wiki, página Chihiro Ogino)",
+    "ancho": 2668,
+    "alto": 1500,
+    "que_es": "Fotograma en alta resolución de Chihiro",
+    "para_que": "Arte oficial variado - punto 1 (ya listado en datos-imagen.md)",
+    "licencia": "Fair use / captura de película, atribuir a Studio Ghibli"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e7/Miyazaki-Spirited_Away_1_c1162-poster.jpg",
+    "fuente": "ghibli.fandom.com (wiki)",
+    "ancho": 3040,
+    "alto": 1643,
+    "que_es": "Póster japonés de estreno de la película",
+    "para_que": "Arte oficial - punto 1, key visual",
+    "licencia": "Fair use / material promocional, atribuir a Studio Ghibli"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/56/Spirited_Away_Image_Album_Front.png/revision/latest?cb=20200328210529",
+    "fuente": "ghibli.fandom.com (wiki, página Spirited Away Image Album)",
+    "ancho": 1259,
+    "alto": 1259,
+    "que_es": "Portada del CD banda sonora (Image Album de Joe Hisaishi)",
+    "para_que": "Arte oficial - punto 1, portada de single/álbum",
+    "licencia": "Fair use / material promocional, atribuir a Studio Ghibli / Tokuma Japan"
+  },
+  {
+    "url": "https://images.static-bluray.com/movies/covers/184141_front.jpg",
+    "fuente": "blu-ray.com",
+    "ancho": 1193,
+    "alto": 1500,
+    "que_es": "Portada oficial del Blu-ray de GKIDS (edición EE. UU., 2017)",
+    "para_que": "Arte oficial - punto 1, portada de edición física",
+    "licencia": "Fair use / material promocional, atribuir a GKIDS / Studio Ghibli"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-9129005ff3f64bbe9700abafcf2f8cb7",
+    "fuente": "Sketchfab (modelo: Deimon)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"ABURAYA - 油屋\" (el edificio del balneario completo)",
+    "para_que": "Fondo/3D - puntos 3 y 16, referencia de ángulos de cámara del edificio",
+    "licencia": "CC BY 4.0 (Creative Commons Atribución)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-77cd22d3e16a438bb6b3561255b66e87",
+    "fuente": "Sketchfab (modelo: choowaggaa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Bathhouse\"",
+    "para_que": "Fondo/3D - punto 3, referencia alternativa del edificio",
+    "licencia": "CC BY 4.0 (Creative Commons Atribución)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8a227aeac0cb4cf69e1d7463ad8ceec0",
+    "fuente": "Sketchfab (modelo: Adrian.Carter3D)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Spirited Away - No Face\" (61 likes, el más valorado)",
+    "para_que": "Personaje/3D - punto 3, referencia de pose y proporciones de Sin Cara",
+    "licencia": "CC BY 4.0 (Creative Commons Atribución)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-fd8a0b1f65cb4b50b167641160dd6cc8",
+    "fuente": "Sketchfab (modelo: xancalavera)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Yubaba\"",
+    "para_que": "Personaje/3D - punto 3, referencia de proporciones",
+    "licencia": "CC BY 4.0 (Creative Commons Atribución)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-a4cc6fb1e2a14695a9d9a68b558c4fc0",
+    "fuente": "Sketchfab (modelo: taraturustudio)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D \"Chihiro Ogino Spirited Away\"",
+    "para_que": "Personaje/3D - punto 3, referencia de proporciones",
+    "licencia": "CC BY 4.0 (Creative Commons Atribución)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Tatami001",
+    "fuente": "ambientcg.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de estera de tatami",
+    "para_que": "Textura 2D - punto 19, suelos de la oficina de Yubaba",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=WoodFloor064",
+    "fuente": "ambientcg.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de suelo de madera oscura",
+    "para_que": "Textura 2D - punto 19, pasillos del balneario",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal047B",
+    "fuente": "ambientcg.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de metal envejecido/cobrizo",
+    "para_que": "Textura 2D - punto 19, tuberías de la sala de calderas de Kamaji",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=PaintedPlaster001",
+    "fuente": "ambientcg.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de enlucido pintado",
+    "para_que": "Textura 2D - punto 19, fachada roja del balneario",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://live.staticflickr.com/5513/12237506646_bcb8d3a4e4_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 576,
+    "que_es": "Foto de Dōgo Onsen (Matsuyama), el balneario real que inspiró el Aburaya",
+    "para_que": "Fondo/arquitectura real - punto 16, referencia de textura y forma",
+    "licencia": "CC BY 2.0"
+  },
+  {
+    "url": "https://live.staticflickr.com/2620/3736719112_c338b4794f_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Cosplay grupal de Studio Ghibli en Otakon 2009",
+    "para_que": "Cosplay/colaboraciones - punto 23, referencia de volumen y materiales reales",
+    "licencia": "CC BY 2.0"
+  },
+  {
+    "url": "https://live.staticflickr.com/5523/14030273223_f2dc76f420_b.jpg",
+    "fuente": "Openverse / Flickr",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Cosplay de personaje de El viaje de Chihiro",
+    "para_que": "Cosplay/colaboraciones - punto 23",
+    "licencia": "CC BY 2.0"
+  }
+]
