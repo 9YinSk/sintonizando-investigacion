@@ -114,7 +114,8 @@ Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Inter
 - San, 2048×1588, 4 puntos · [imagen](https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg) · autor: [hammar_dobucof](http://twitter.com/hammar_dobucof/status/1256366755401707520) ✅
 - Ashitaka, 1337×699, 6 puntos · [imagen](https://safebooru.org/images/777/be418205801ab09059db966ab584048464555621.jpg) · autor: pixiv (caramelo, id 25443130).
 - Más fan art de San (Pixiv/X/Instagram, vía Safebooru, `datos.json`): [1](https://safebooru.org/images/3925/bcff741463b7dffe52be33f92d81056606814284.jpg) · [2](https://safebooru.org/images/3562/5c98cd0ece482fabf8eb06dd495fdad727edbbfe.jpg) · [3](https://safebooru.org/images/3686/942d6fd9dd95a368015c7069a7668b5c82c43a5c.jpg) · [4](https://safebooru.org/images/4618/8a156e94fe0ff7ec0acf7c20ae6e6414189777aa.png).
-- Volumen de fan art (Danbooru, tag mixto de la obra): San 786, Ashitaka 272, Kodama 192 (`datos-voz.md`) ✅.
+- Volumen de fan art ([Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime), tag mixto de la obra): San 786, Ashitaka 272, Kodama 192 (`datos-voz.md`) ✅.
+- Ilustración de fans en alta calidad fuera de los booru: el eclipse solar sobre Irontown de Anato Finnstark en [ArtStation](https://www.artstation.com/artwork/NR65d) (2560×1176), también espejado como fondo de pantalla en [Wallhaven](https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg) ⚠️ (licencia del autor, pedir permiso antes de reutilizar).
 
 **Modelos 3D descargables, licencia CC Attribution (crédito al autor obligatorio), sacados de la API de Sketchfab:**
 
@@ -151,9 +152,9 @@ Paletas medidas con `herramientas/estilo.py` sobre fotogramas HD reales (1920×1
 ## 5. Tipografía
 
 - **Logo japonés** («もののけ姫»): diseño acreditado a Kaoru Mano y Yukari Yoshida en el staff oficial de AniList ✅; parece caligrafía a pincel hecha a mano, no una fuente comercial ⚠️ (sin confirmar con una fuente que lo diga explícitamente).
-- **Logo inglés** («PRINCESS MONONOKE», cartel Miramax): grabado tipo madera/sello. La comunidad de dafont.com identifica **Eremaeus** como similar al título de la edición FRANCESA en DVD (alternativa: Optimus Princeps) ⚠️ (identificación de aficionados, y es sobre el póster francés, no el japonés ni el original de EEUU).
+- **Logo inglés** («PRINCESS MONONOKE», cartel Miramax): grabado tipo madera/sello. La comunidad de [dafont.com](https://www.dafont.com/forum/read/467592/princess-mononoke-title) identifica **Eremaeus** como similar al título de la edición FRANCESA en DVD (alternativa: Optimus Princeps) ⚠️ (identificación de aficionados, y es sobre el póster francés, no el japonés ni el original de EEUU).
 - **Eslogan** «生きろ。» / «Live.» (Shigesato Itoi): texto grande y centrado, tipo frase-sello ✅.
-- **Edición manga/cine-cómic oficial**: «フィルムコミック もののけ姫 完全版» (Tokuma Shoten, 5 tomos) usa fotogramas reales con diálogo tipografiado encima — formato «cine-cómic», no viñetas dibujadas con globos clásicos ✅.
+- **Edición manga/cine-cómic oficial**: «フィルムコミック もののけ姫 完全版» ([Tokuma Shoten](https://www.tokuma.jp/book/b503719.html), 5 tomos; ficha de librería en [Kinokuniya](https://www.kinokuniya.co.jp/f/dsg-01-9784197700745)) usa fotogramas reales con diálogo tipografiado encima — formato «cine-cómic», no viñetas dibujadas con globos clásicos ✅.
 
 **Las 8 letras libres que pide el encargo**, comprobadas con fontTools (ñ/tildes/¿/¡ presentes en todas):
 | Uso | Fuente (Google Fonts) |
@@ -182,7 +183,7 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 
 ## 7. Personajes y popularidad
 
-| Personaje | AniList (favoritos) | MyAnimeList | ranking.net (Japón, 1-18) | Danbooru (posts) |
+| Personaje | [AniList](https://anilist.co/anime/164/characters) (favoritos) | [MyAnimeList](https://myanimelist.net/anime/164/Mononoke_Hime/characters) | [ranking.net](https://ranking.net/rankings/best-mononokehime-characters) (Japón, 1-18) | [Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime) (posts) |
 |---|---|---|---|---|
 | San | más alto del reparto | más alto | 2º | alto |
 | Ashitaka | 2º | 2º | **1º** | medio |
@@ -191,7 +192,7 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 | Dama Eboshi | — | — | alto | medio |
 | Jigo | — | — | medio | bajo |
 
-- **San gana en Occidente** (AniList y MyAnimeList); **Ashitaka gana en Japón** (ranking.net, y consistente con una encuesta de medios 2022 de ねとらぼ/Nlab, ⚠️ una fuente pero misma dirección) ✅.
+- **San gana en Occidente** (AniList y MyAnimeList); **Ashitaka gana en Japón** (ranking.net, y consistente con una encuesta de medios 2022 de [ねとらぼ/Nlab](https://nlab.itmedia.co.jp/research/articles/765102/), ⚠️ una fuente pero misma dirección) ✅.
 - **Yakul** (el elk rojo, sin ninguna línea de diálogo) es 4º en las tres fuentes que dan un top: la lealtad silenciosa pesa tanto como el diálogo para este fandom ✅.
 - ⚠️ No hay conteo de votos exacto detrás del orden de ranking.net (carga por JavaScript, el HTML estático sólo trae el orden final).
 - ❌ Studio Ghibli no publica encuestas oficiales de personajes; todo lo de arriba es de medios/fans.
@@ -206,9 +207,9 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 | Zima Entertainment | 2010, DVD | "Tokio", Ciudad de México | japonés directo | — |
 | Wild Bunch/Netflix | 2020, streaming | Sysdub, Ciudad de México | japonés directo (el más fiel) | — |
 
-- **Reparto Wild Bunch** (verificado con segunda fuente, dubdb.fandom.com, aunque ésta cita a su vez a Doblaje Wiki ⚠️): San — actriz confirmada en Doblaje Wiki; Ashitaka — Luis Leonardo Suárez; Moro — Maru Guzmán; Eboshi — Adriana Casas; Jigo — Héctor Lee ✅.
+- **Reparto Wild Bunch** (verificado con segunda fuente, https://dubdb.fandom.com, aunque ésta cita a su vez a Doblaje Wiki ⚠️): San — actriz confirmada en [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke); Ashitaka — Luis Leonardo Suárez; Moro — Maru Guzmán; Eboshi — Adriana Casas; Jigo — Héctor Lee ✅.
 - ⚠️ El actor de Ashitaka en el doblaje Buena Vista/Miramax 2001 no se identifica en ninguna fuente consultada (aparece como «¿?» incluso en Doblaje Wiki).
-- **Curiosidades documentadas**: Moro la dobla un actor HOMBRE sólo en la versión Zima, coincidiendo con lo andrógino del original japonés ✅. Jahel Morga dobla a San Y a Kaya en Zima porque comparten seiyuu japonesa ✅. Wild Bunch pronuncia mal «Lady Hii» como «Lady Ji» ⚠️. Zima tiene varios loops mudos y un error de intercambio de voces ⚠️.
+- **Curiosidades documentadas** (sección «Datos de interés» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mononoke#Datos%20de%20inter%C3%A9s)): Moro la dobla un actor HOMBRE sólo en la versión Zima, coincidiendo con lo andrógino del original japonés ✅. Jahel Morga dobla a San Y a Kaya en Zima porque comparten seiyuu japonesa ✅. Wild Bunch pronuncia mal «Lady Hii» como «Lady Ji» ⚠️. Zima tiene varios loops mudos y un error de intercambio de voces ⚠️.
 - **Voces medidas con `voz.py`** (Whisper + análisis de tono/ritmo, sobre audio oficial de Doblaje Wiki):
 
 | Personaje (doblaje) | Tono | Expresividad (semitonos) | Ritmo |
@@ -220,20 +221,20 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 | Eboshi (Wild Bunch, Adriana Casas) | 193 Hz (medio) | 14.9 | 3.18 palabras/s (rápido) |
 | Jigo (Wild Bunch, Héctor Lee) | 219 Hz (medio) | 16.0 | 2.28 palabras/s (el MÁS pausado) |
 
-- Todo medido con `herramientas/voz.py` sobre `.ogg` oficiales de Doblaje Wiki ✅.
+- Todo medido con `herramientas/voz.py` sobre `.ogg` oficiales de Doblaje Wiki ✅ — las 6 muestras usadas: [San](https://static.wikia.nocookie.net/doblaje/images/4/41/Mononokebtisan.ogg) · [San (Buena Vista)](https://static.wikia.nocookie.net/doblaje/images/8/8c/MononokeDisneySan.ogg) · [Ashitaka](https://static.wikia.nocookie.net/doblaje/images/7/74/Mononokebtiashitaka.ogg) · [Moro](https://static.wikia.nocookie.net/doblaje/images/b/b4/Mononokebtimoro.ogg) · [Eboshi](https://static.wikia.nocookie.net/doblaje/images/c/cc/Mononokebtieboshi.ogg) · [Jigo/Jikobo](https://static.wikia.nocookie.net/doblaje/images/1/1a/Mononokebtijikobo.ogg).
 
 ## 9. Música y sonido
 
 
 
-- **Compositor**: Joe Hisaishi, banda tocada por la Tokyo City Philharmonic Orchestra dirigida por Hiroshi Kumagai ✅ (Ghibli Fandom + MusicBrainz).
+- **Compositor**: Joe Hisaishi, banda tocada por la Tokyo City Philharmonic Orchestra dirigida por Hiroshi Kumagai ✅ (Ghibli Fandom + [MusicBrainz](https://musicbrainz.org/release-group/b0701a74-cce4-46f2-a392-72eadad32ef4)).
 - **Álbum original**: Tokuma Japan Communications, 2-jul-1997 (Japón); Milan Records, 12-oct-1999 (versión norteamericana) ✅.
 - **Tema principal** 「もののけ姫」 (*Mononoke Hime*), letra del propio Miyazaki, cantado por el contratenor **Yoshikazu Mera** (japonés) y por Sasha Lazard en la adaptación al inglés ✅ (Ghibli Fandom, dos páginas).
 - **«The Legend of Ashitaka»**: tema de apertura (1:39) y de cierre (5:03, créditos finales) — mismo leitmotiv en dos duraciones ✅.
 - **«Ashitaka and San»** (piano, instrumental): suena en la escena final de despedida (min ~1:56-1:58, coincide con el abrazo del punto 2) ✅. ⚠️ La wiki da dos duraciones distintas para esta pista según la página (3:12 en el índice, 4:01 en su ficha propia).
 - **Disco completo**: 33 pistas, todas de Hisaishi salvo las vocales. Cues útiles por tono: *The Demon God* y *Demon Power* (percusión grave, disonante) para los ataques de dioses poseídos por el odio; *Requiem* y variantes para escenas de muerte/duelo; *The Forest of the God* y *Kodamas* (arpa y campanas suaves) para el santuario; *Theme Song* coral con contratenor cierra sobre el bosque reverdecido. ⚠️ asociación por título/duración, no comprobada con audio sincronizado al metraje.
 - **Onomatopeya de los kodama**: suenan como «cientos de sonajeros de bebé agitados a la vez» al mover la cabeza; descrito como カタカタ (*kata-kata*, giongo de traqueteo) ✅ (PDF académico de Nottingham + guías de onomatopeya japonesa).
-- **Efectos de sonido documentados**: choque de espadas, disparo silenciado de rifle (armas de Irontown), galope, explosiones, «masa viscosa y reptante» (los tentáculos de la maldición), chapoteo de agua, graznido de halcón ✅ (soundeffects.fandom.com).
+- **Efectos de sonido documentados**: choque de espadas, disparo silenciado de rifle (armas de Irontown), galope, explosiones, «masa viscosa y reptante» (los tentáculos de la maldición), chapoteo de agua, graznido de halcón ✅ (https://soundeffects.fandom.com).
 - ❌ AnimeThemes: API caída (HTTP 522 y timeout); no aplica bien de todos modos, es película con un único tema, no serie con OP/ED por episodio.
 
 ## 10. Vídeos
