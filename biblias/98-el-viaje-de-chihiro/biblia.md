@@ -223,7 +223,7 @@ Paletas **medidas** con `herramientas/estilo.py --colores 6` sobre fotogramas of
 - **Rótulo tallado 「油屋」** (*Aburaya*) sobre la entrada. Kanji en relieve, se lee de derecha a izquierda. Madera `#B87D4B`, talla `#6A4D3F` a `#684C3B`. Fotograma [048](https://www.ghibli.jp/gallery/chihiro048.jpg). ✅ (medido + wiki Bathhouse)
 - **Bandera blanca con 油 en un círculo**, pincelada gruesa tipo *mon* (emblema). Fotograma [011](https://www.ghibli.jp/gallery/chihiro011.jpg). ✅ (se ve también en `hojas/fondos_01.jpg`, torre)
 - **Peto rojo de Boh con 坊** («niño»): rojo `#E7605A`/`#EA635F`, kanji blanco cálido `#EBECDC`, trazo redondo infantil. Fotogramas [035](https://www.ghibli.jp/gallery/chihiro035.jpg) y 048. ✅
-- En el fondo oficial de noche se leen carteles verticales a pincel (p. ej. 「生ビールあります」 en un farol) y otro con め. ✅ (mirado en `hojas/fondos_01.jpg`, primera imagen)
+- En el fondo oficial de noche hay carteles verticales escritos a pincel y un farol con un kana grande (め). ⚠️ (lo vi en `hojas/fondos_01.jpg`, primera imagen, a tamaño pequeño: no leí el texto entero)
 
 **Una letra para cada uso.** Todas libres (OFL-1.1, Google Fonts/Fontsource). La parte de texto bajó cada `.woff2` y comprobó con `fontTools` que traen **á é í ó ú ñ Ñ ¿ ¡ Á É**. ✅ todas.
 
@@ -260,4 +260,114 @@ Es película: se habla **en voz**, y el texto escrito vive **en objetos del mund
 3. **Ficha de baño de madera** colgada de un cordel: para etiquetas sueltas.
 4. **Farolillo de papel** con el texto pintado: para una sola frase grande.
 Nada de burbujas blancas redondas ni cajas con borde negro.
+
+## 7. Personajes y popularidad
+
+**Quién es el más querido: depende de qué se mida.** No mezclar «favorito» con «más dibujado».
+
+| Medida | Resultado | Fuente |
+|---|---|---|
+| Favoritos en AniList | 1.º **Haku** 2873 · 2.º Chihiro 1892 · 3.º Sin Cara 1871 · 4.º hollín 549 · 5.º Lin 342 · 6.º Kamaji 326 · Zeniba 136 · Yubaba 134 | https://anilist.co/anime/199 ✅ |
+| Dibujos de fans (Danbooru) | 1.º **Chihiro** 676 · Haku 459 · Sin Cara 285 · susuwatari 186 | https://danbooru.donmai.us/posts?tags=sen_to_chihiro_no_kamikakushi ✅ |
+| Encuesta Simeji (Japón, 10-24 años, 373 respuestas) | **Haku, 1.º «chico Ghibli favorito»** de todo Ghibli: por guapo, por su forma de dragón, por amable y por proteger a Chihiro | [CBR](https://www.cbr.com/spirited-away-haku-most-popular-ghibli-boy-gen-z/) + [Otaku Mode](https://otakumode.com/news/63849bb12c0bd100288a309f/Top-10-Ghibli-Boys-as-Picked-By-Gen-Z!) ✅ |
+| Ranking.net (5849 votantes, mejor película Ghibli) | **El viaje de Chihiro, 1.ª** con 87 puntos, por delante de *El castillo en el cielo* (85,8) y *Kiki* (84,4) | [CBR](https://www.cbr.com/studio-ghibli-spirited-away-most-popular-anime-survey/) ✅ |
+
+- Ojo: en Danbooru el personaje Ghibli más dibujado no es de esta película (Kiki, 1148). Dentro de Chihiro manda Chihiro.
+- **Conclusión:** Haku es el más querido. Chihiro es la cara de la película. **Sin Cara es el secundario que más vende**: casi empata con Chihiro en AniList y protagoniza el merchandising (punto 23).
+
+**Cada personaje en una ficha corta** (a fondo en el punto 13):
+- **Chihiro Ogino** (10 años). Protagonista. Aparece con Haku, Lin, Sin Cara, Kamaji y el hollín. Gestos: al principio se aferra a su madre, hace pucheros, se tapa la cara. Luego corre decidida, se inclina para pedir trabajo, sostiene las cosas con las dos manos. Objeto: la liga del pelo morada. ✅ (wiki + AniList)
+- **Haku** (espíritu del río Kohaku). Chico de pelo verde oscuro, corte recto, túnica blanca. También dragón blanco. Aparece y desaparece entre pétalos. Cambia de frío a protector según con quién esté. ✅
+- **Yubaba**. Bruja dueña de la casa de baños. Cabeza enorme, nariz ganchuda, joyas, uñas rojas. Puede volverse pájaro. Adora el oro y a su bebé Boh («Sweetie!»). ✅
+- **Sin Cara** (*Kaonashi*). Sombra negra con máscara blanca. Casi no habla: jadea y hace gestos. Cuando se traga a alguien, habla con su voz. Diseño basado en el gusano de seda, según Masashi Andō. ✅
+- **Lin**. Trabajadora, terca, mandona, sarcástica y buena. Soborna con salamandras asadas. Esconde y guía a Chihiro. ✅
+- **Kamaji**. Fogonero de seis brazos, con aspecto de araña. No se levanta de su puesto: estira los brazos. Trabaja con el hollín. ✅
+- **Zeniba**. Gemela de Yubaba, misma cara, carácter opuesto: cálida. Vive sola tejiendo en una cabaña. ✅
+- **Boh**. El bebé gigante de Yubaba. Se convierte en ratón. ✅
+- **Susuwatari / hollín**. Bolitas negras de ojos grandes que cargan carbón. Los mismos de *Mi vecino Totoro*. ✅
+- **Espíritu del rábano** (*Oshira-sama*): grande, blanco, sombrero rojo, no habla; sube en el ascensor con Chihiro. **Ootori-sama**: dioses pájaro como patos gigantes que se bañan en grupo. ✅ (AniList)
+- ⚠️ Las ranas jefas (Chichiyaku, Aniyaku), el capataz y el Espíritu del Río no tienen ficha de gestos: sólo su reparto de doblaje (punto 8).
+
+## 8. Doblaje latino y frases textuales
+
+**Hay TRES doblajes latinos.** Y aparte uno de España. No se mezclan. ✅ cada nombre en dos fuentes.
+
+**1. Argentina, 2003** (Primer Plano; el de los cines latinos). Fuentes: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/El_viaje_de_Chihiro) + [hugozapata.com.ar](https://www.hugozapata.com.ar/2011/12/el-viaje-de-chihiro/). ✅
+- Chihiro: **Lucila Gómez** · Haku: **Diego Brizzi** · Yubaba y Zeniba: **Ruby Gattari** · Lin: **Mariela Álvarez** · Kamaji: **Rolando Agüero** · Akio (padre) y Espíritu del Río: **Dany de Álzaga** · Sin Cara: **Ariel Abadi**.
+- Sólo en Doblaje Wiki (⚠️): Yūko (madre) Valeria Gómez · Boh Yamila Garreta · Chichiyaku Ariel Cister · Aniyaku Marcelo Armand · capataz Guillermo Gravino · Aogaeru (la rana) Hernán Chiozza · Yunas Irene Guiser · Título: Omar González · Placas: Lucila Gómez.
+- Lucila Gómez dijo que Chihiro fue «un antes y un después» en su carrera. La Nación lo llamó «el único aspecto no del todo logrado» y dijo por error que se grabó fuera. ⚠️ (Doblaje Wiki)
+
+**2. México, 2002, «El espíritu del río»** (Buena Vista/Disney, estudio Prime Dubb, sólo TV, Disney Channel feb-2006). Fuentes: Doblaje Wiki + [Lost Media Wiki](https://lostmedia.fandom.com/es/wiki/El_esp%C3%ADritu_del_r%C3%ADo_(segundo_doblaje_latino_perdido_de_El_viaje_de_Chihiro;_2002)). ✅
+- Chihiro: **Jessica Ángeles** · Haku: **Enzo Fortuny** · Yubaba y Zeniba: **Joana Brito** · Lin: **Patricia Llaca** · Kamaji: **Jaime Vega** · Akio: **Alfonso Ramírez**.
+- Sólo en Doblaje Wiki (⚠️): Yūko Simone Brook · Boh Claudia Motta · asistente Bernardo Ezeta · sapo mayor Herman López · rana Horacio Mancilla.
+- Se dobló desde el guion inglés de Disney. **Es un doblaje perdido**: no hay vídeo conocido. ⚠️ en lo del guion (sólo la wiki)
+
+**3. México, 2020, Netflix / Wild Bunch** (estudio **Sysdub**, dirección **Alan Prieto**, estreno 1-mar-2020). **Es el que suena hoy** y el del reestreno de Cinemex (Festival Mundo Ghibli 2025). Fuentes: Doblaje Wiki + [ANMTV](https://www.anmtvla.com/2025/02/mexico-el-viaje-de-chihiro-reestrena-en.html). ✅
+- Chihiro: **Varenka Carrillo** · Haku: **Alan Velázquez** · Yubaba y Zeniba: **Magda Giner** · Lin: **Jessica Ángeles** (la Chihiro de 2002) · Kamaji: **Humberto Vélez** · Akio: **Jorge Palafox** · Sin Cara: **Roberto Carrillo** y **Alan Prieto**.
+- Sólo en Doblaje Wiki (⚠️): Espíritu del Río Pedro D'Aguillón Jr. · Yūko Circe Luna · Boh Monserrat Aguilar · Chichiyaku Gerardo Reyero · Aniyaku Eduardo Tejedo · capataz Bernardo Ezeta · Aogaeru Roberto Carrillo.
+- Error conocido: la primera frase de Sin Cara debía decirla el actor de la rana que se tragó. La dijo otro, y no cuadra cuando alguien dice «conozco esa voz». ⚠️ (Doblaje Wiki)
+
+**España, 2002 (NO es latino).** Dirección Montse Miralles, 103 Todd-AO (Barcelona), Vértigo Films. Chihiro Paula Ribó · Haku Ángel de Gracia · Yubaba/Zeniba Carme Contreras · Kamaji José «Pepe» Mediavilla · Akio Jordi Boixaderas · Yūko Sílvia Vilarrasa · Lin Joël Mulachs · Boh Estela Vilches. ✅ ([eldoblaje.com](https://www.eldoblaje.com/datos/FichaPelicula.asp?id=3261) + [Generación Ghibli](https://generacionghibli.blogspot.com/2020/07/documental-sobre-el-doblaje-espanol-de.html))
+- AniList mezcla España y Latinoamérica bajo «Spanish»: no fiarse de AniList para esto.
+- Discovery Kids emitió la película el 2-dic-2017 con el doblaje **de España**. ⚠️ (Doblaje Wiki)
+
+**Frases textuales con audio** (muestras de Doblaje Wiki, doblaje 2020, pasadas por `voz.py` con Whisper; nombres revisados a oído por la parte de voz). ✅
+
+- **Yubaba**, a Chihiro: «¡Deja de balbucear de una vez! ¡No eres más que una cobarde inútil! Además, no hay lugar para humanos aquí. Esta es una casa de baños donde ocho millones de espíritus vienen a descansar. Tus padres sí que tuvieron mucho valor. Se tragaron la comida de nuestros invitados como unos cerdos. Recibieron su merecido. Y nunca volverás a ver tu mundo otra vez.» [audio](https://static.wikia.nocookie.net/doblaje/images/f/f3/CHihiroWBYubaba.ogg/revision/latest?cb=20200304022548&path-prefix=es) · voz aguda (226 Hz), muy expresiva (11,7 semitonos), 2,29 palabras/s.
+  - **La misma escena en Argentina** dice «ocho millones de **dioses**» y «tus padres fueron unos **descarados**». Voz más grave (171 Hz), aún más expresiva (18,6 semitonos). [audio](https://static.wikia.nocookie.net/doblaje/images/0/0c/EVDC-ARG-Yubaba.ogg/revision/latest?cb=20160721000319&path-prefix=es) ✅
+- **Haku**, primer encuentro: «No puedes estar en este lugar, fuera de aquí. Casi es de noche, vete antes de que oscurezca. Están encendiendo las lámparas, vamos. Los distraeré, regresa cruzando el río.» [audio](https://static.wikia.nocookie.net/doblaje/images/0/0e/ChihiroWBHaku.ogg/revision/latest?cb=20200304015348&path-prefix=es) · aguda (265 Hz), 14,3 semitonos, rápida (3,33 palabras/s).
+- **Sin Cara**, ya con la voz de la rana: «Oye, jefe, quiero comer. Muero de hambre. ¿Quién te pagará ahora? Soy un cliente. Quiero una ducha. Despierten a todos.» [audio](https://static.wikia.nocookie.net/doblaje/images/4/40/ChihiroWBSIncara1.ogg/revision/latest?cb=20200304023145&path-prefix=es) · 186 Hz, 11,4 semitonos, 2,23 palabras/s.
+- **Chihiro**, a Sin Cara: «No sé de dónde saliste, pero hay un lugar al que tengo que llegar enseguida. Deberías de regresarte a donde viniste. Estoy seguro de que no podrás ayudarme con lo que quiero.» [audio](https://static.wikia.nocookie.net/doblaje/images/3/3f/ChihiroWBChihiro.ogg/revision/latest?cb=20200304022453&path-prefix=es) · muy aguda (346 Hz), 23,1 semitonos, rápida (3,52 palabras/s). ⚠️ Whisper escribió «seguro»: oír si dice «segura».
+
+**Frases del tráiler latino** (Sensacine México, transcrito con Whisper en `partes/episodios.md`):
+- «No tomes un atajo, siempre nos perdemos.» [0:00](https://www.dailymotion.com/video/x889bq8?t=0)
+- «Váyanse antes de que oscurezca, deben cruzar el río.» [0:00-1:00](https://www.dailymotion.com/video/x889bq8?t=0)
+- «La bruja Yubaba te controla robándote tu nombre. Si lo olvidas nunca podrás regresar a tu casa.» «Tu nombre me pertenece.» [1:00](https://www.dailymotion.com/video/x889bq8?t=60)
+- «¡Está lastimado!» «Haku me ayudó antes. Ahora es mi turno de ayudarlo.» [1:00-2:00](https://www.dailymotion.com/video/x889bq8?t=60)
+- «Quiero que sepas que mi verdadero nombre es Chihiro.» [1:00-2:00](https://www.dailymotion.com/video/x889bq8?t=60)
+- ⚠️ Whisper escribió «Hakun» y «lluvaba»: son Haku y Yubaba. Oír antes de citar en una lámina. El minuto es el del bloque de la ficha (cada fila cubre un minuto).
+- ⚠️ No hay clips oficiales doblados en YouTube a la vista (pide iniciar sesión). Crunchyroll no aplica: la película está en Netflix y Max.
+
+## 9. Música y sonido
+
+- **Banda sonora:** 「千と千尋の神隠し サウンドトラック」, **Joe Hisaishi** (久石譲), Tokuma Japan Communications, 18-jul-2001. 21 pistas, unos 62 min. ✅ ([MusicBrainz](https://musicbrainz.org/release-group/dc1f9d7d-9a98-3f2c-83aa-c16dbb4a9ae1) + ficha de ghibli.jp, «音楽 久石 譲»)
+- **Tema de los créditos finales:** 「いつも何度でも」 *Itsumo Nando Demo* («Always with Me»), pista 21 (3:35). Canta **Yumi Kimura** (木村弓). Letra de **Wakako Kaku** (覚和歌子); la parte de vídeo le atribuye también la música (⚠️ comprobar en los créditos del disco quién la compuso). Miyazaki la oyó en la radio mientras hacía *La princesa Mononoke*. Suena sobre fondo azul. ✅ ([Ghibli Wiki](https://ghibli.fandom.com/wiki/Always_with_Me) + [MusicBrainz, artista](https://musicbrainz.org/artist/c6517557-a6e5-4e67-989d-87e0cf38c871) + ghibli.jp «主題歌 木村 弓»)
+  - Audio sin YouTube: [Internet Archive](https://archive.org/details/ItsumoNandoDemoSenToChihiroNoKamikakushi) (2498 descargas).
+- **Tema de apertura:** 「あの夏へ」 *Ano Natsu e* («One Summer's Day»), pista 1 (3:10). Nostálgico. ⚠️ Título y duración en MusicBrainz; que suene en los créditos iniciales sólo lo dice el fandom.
+- **La música más emotiva:** 「ふたたび」 *Reprise / Again*, pista 19 (4:53). Suena en **el vuelo de Chihiro sobre el dragón Haku**. ✅ ([Ghibli Wiki](https://ghibli.fandom.com/wiki/Reprise/Again) + Apple Music/Spotify)
+- **Pistas con nombre de escena** (título del disco): 神さま達 «Los dioses» (7) · 湯婆婆 «Yubaba» (8) · おクサレ神 «El dios podrido» (12) · カオナシ «Sin Cara» (15) · **6番目の駅 «La sexta estación»** (16, la escena del tren) · 湯婆婆狂乱 «Yubaba enloquecida» (17). ✅ (MusicBrainz)
+  - ⚠️ Las partes no coinciden en la música del tren: la de voz la llama «6 Nen Go no Chihiro»; la lista oficial del disco dice 6番目の駅. Usar el de la lista.
+- **Sonidos que todos reconocen:**
+  - **Susuwatari:** no hablan; chillidos y murmullos agudos que suben cuando se excitan o se enfadan. ✅ (Wikipedia + [Sonic Dictionary, Duke University](https://sonicdictionary.duke.edu/items/spirited-away-sootball-minion-noises.html))
+  - **Sin Cara:** jadeos y monosílabos, «a… a…», hasta que se traga a la rana y habla con su voz. ⚠️ (una fuente de fans; la mímica de voces sí está ✅ en la wiki)
+  - **Espíritu del rábano:** sus pies hacen un ruidito al andar (AniList lo describe como «adorable»). ⚠️ (una fuente)
+- **Equipo de sonido:** director de sonido Kazuhiro Wakabayashi; efectos Tooru Noguchi y Michihiro Itou. ✅ (AniList staff)
+- **Qué suena en las escenas que hacen llorar:** vuelo sobre el dragón → *Reprise*; tren → *La sexta estación*; créditos → *Itsumo Nando Demo*.
+
+## 10. Vídeos
+
+**Vistos enteros** (con hojas de fotogramas):
+- **Tráiler latino, Sensacine México**: https://www.dailymotion.com/video/x889bq8 · 2:32 · 70 planos · transcrito. Sellos sobreimpresos de «Oso de Oro» y «40 premios internacionales» ([0:00](https://www.dailymotion.com/video/x889bq8?t=0)). Cierra con «Estas vacaciones… *Spirited Away*» ([2:00](https://www.dailymotion.com/video/x889bq8?t=120)). ✅
+- **Reel «Dame 1 minuto» (Sensacine México/Cinemex, Mundo Ghibli)**: https://www.dailymotion.com/video/x9f6hg0 · 0:55 · 191 388 vistas. Una presentadora resume Totoro, Mononoke y Chihiro. Planos: Chihiro cayendo ([0:26](https://www.dailymotion.com/video/x9f6hg0?t=26)), volando con la capa roja ([0:27](https://www.dailymotion.com/video/x9f6hg0?t=27)), sola en el tren con Sin Cara ([0:43](https://www.dailymotion.com/video/x9f6hg0?t=43)), ojo de dragón ([0:44](https://www.dailymotion.com/video/x9f6hg0?t=44)). ✅
+
+**Anotados, sin ver** (YouTube pide iniciar sesión aquí):
+- Tráiler original japonés: https://www.youtube.com/watch?v=ByXuk9QqQkk ⚠️
+- Análisis en español: «El viaje de Chihiro a través del color» https://www.youtube.com/watch?v=EZz3WDzynNk · «Artista PRO analiza el arte…» https://www.youtube.com/watch?v=PTUxn8I8nPI · «Análisis y explicación…» https://www.youtube.com/watch?v=X_9LFP4Xwk0 ⚠️
+- Otros tráileres en Dailymotion: «Tráiler (2)» 1:38, 18 729 vistas https://www.dailymotion.com/video/x88nkdm · Espinof 1:27 https://www.dailymotion.com/video/x81daub · Vidaextra 1:27 https://www.dailymotion.com/video/x89chp4 ⚠️
+- Menú del DVD polaco (3:33): https://www.dailymotion.com/video/x69sd59 ⚠️ (listado por el recolector)
+
+**Tendencias:**
+- **TikTok, «la escena del tren»**: la más usada en ediciones (*filmtok*). Ejemplos: https://www.tiktok.com/@azosis_/video/7081608266148580614 y el tren hecho con Tomica https://www.tiktok.com/@_innangg_/video/7271250088490552581 ⚠️ (vistos por buscador; TikTok no abre aquí)
+- **TikTok, la escena de los cerdos**: «Pig Scene Final», «Mom and Dad Pig»… con búsqueda propia. ⚠️
+- **«Chihiro recuerda el nombre de Haku»**, muy compartida. ⚠️ (sin enlace directo)
+- **Reestreno en cines latinos, 7-ago-2025** (Cineplanet y otras). ⚠️
+- **Marzo de 2025: imágenes «estilo Ghibli» con ChatGPT-4o** y la polémica ética. ✅ (punto 12)
+- Streaming: [Netflix](https://www.netflix.com/title/60023642) y Max. ✅ (AniList)
+
+## 11. Videojuegos
+
+- **No existe videojuego oficial** de *El viaje de Chihiro*. ✅ Tres vías: Steam (nada), búsquedas en inglés y japonés (「千と千尋の神隠し ゲーム 公式」: sólo quizzes de fans), y AniList (ningún `GAME` relacionado).
+- Hay un remake de fans estilo NES, *Spirited Away: The 8-bit Videogame*, visto por [GIGAZINE](https://gigazine.net/gsc_news/en/20150501-spirited-away-8bit) (2015). ⚠️ No es oficial: no sirve como interfaz real.
+- The Cutting Room Floor no tiene entrada (es de videojuegos). ✅
+- Por eso el punto **no aplica**: no hay menús ni cajas de diálogo de juego. La «interfaz» de la película son sus carteles y el contrato (punto 6).
 
