@@ -1134,3 +1134,160 @@ lloradas** según la prensa ✅
 - ⚠️ No confirmé **qué música** suena en cada escena ni los comentarios más
   votados (TV Tropes y YouTube bloqueados). Sin minuto exacto: 37, 130 y 135.
 
+## 23 · Fan dubs y comunidad hispana
+
+Importa mucho: el servidor es de doblaje. **Lo encontrado es poco y sin
+cifras**: YouTube pidió iniciar sesión desde aquí y TikTok no deja bajar.
+
+- **Fandubs en español latino** de la amistad Gon-Killua, desde hace más de
+  diez años: «Killua y Gon- Fandub español latino HxH» (2014) y «Hunterpedia
+  de Gon y Killua | Versión Completa | Español Latino Fandub» (2020, canal
+  dedicado) ⚠️ (título y canal por búsqueda web; sin enlace directo, sin
+  vistas, sin oírlos).
+- **Covers de «Departure!» en español**: al menos cuatro (canales Iris,
+  Tricker/IG Studios y «Jeo randur», este con voces de personajes) ⚠️
+  (mismo método).
+- **Los actores oficiales hablan del proyecto**: clips de TikTok de
+  **Gerardo Reyero** (Hisoka) en las cuentas @elmundodekaito y
+  @lazonatranquila ✅ (dos cuentas, mismo dato del elenco). **Susana Moreno**
+  (Gon) contó a ANISON USA que compitieron 3 actrices y 1 actor por el papel
+  (https://www.youtube.com/watch?v=pkNcNEce7ZE) ✅.
+- **Prensa latina del estreno en Netflix** (agosto de 2023), con muestras de
+  voz: https://www.3djuegos.lat/anime/netflix-lanza-anime-hunter-x-hunter-completo-doblaje-para-latam-asi-suena-gon-hisoka-meruem-chrollo-espanol-latino
+  y https://www.wdnes.com/2023/08/conozca-al-elenco-latino-de-hunter-x.html ✅.
+- **Dos doblajes, dos generaciones**: quien creció con **Cazador X** (Colombia,
+  Gon y Killua con voz de hombre) y quien la vio en Netflix (México, con
+  voces de mujer) recuerdan voces distintas (§10) ✅. Buen tema para un reto
+  de doblaje.
+- ⚠️ **No encontré** memes ni parodias propias del fandom hispano (sólo el
+  internacional «Hiatus × Hiatus»). No digo que no existan.
+
+## 24 · Colaboraciones, figuras y cosplay
+
+Lista de la wiki (texto completo revisado):
+https://hunterxhunter.fandom.com/wiki/List_of_Hunter_%C3%97_Hunter_Collaborations
+
+| Colaboración | Cuándo | Arte (enlace, tamaño) | Estado |
+|---|---|---|---|
+| **Zoff** (ópticas, Japón): los seis de cuerpo entero con gafas | ⚠️ sin fecha | personajes #6 (3838×3496) y #7 (2660×1240) | ✅ |
+| **Monster Hunter XX** (Capcom) | 18-mar-2017 | https://static.wikia.nocookie.net/hunterxhunter/images/8/87/Monster_Hunter_XX_Collaboration_2017.png (1920×1080) | ✅ |
+| **KNIVES OUT** (荒野行動, móvil) | 1 al 15-may-2023 | https://static.wikia.nocookie.net/hunterxhunter/images/8/8a/KNIVES_OUT_HxH_Collab.png (1200×628) | ✅ |
+| **UNIQLO UT** (camisetas) | 24-nov-2024 | https://static.wikia.nocookie.net/hunterxhunter/images/8/8d/%22hxhuniqlocollab%22.png (1182×1186) | ⚠️ la web de UNIQLO da 404 |
+| **Hypland** (ropa, EE. UU.) | ⚠️ sin fecha | Gon https://static.wikia.nocookie.net/hunterxhunter/images/4/41/%22GON_BREAK_THROUGH_BLACK_BACK%22.png (877×877) · Hisoka https://static.wikia.nocookie.net/hunterxhunter/images/6/64/%22hisoka-hypland%22.png (1426×1426) | ⚠️ https://hypland.com/collections/hunter-x-hunter da 404 |
+| **Juegos cruzados**: *Jump Force*, *J-Stars Victory Vs*, *Jump Super Stars*, *Jump Ultimate Stars*, *Puzzle & Dragons*, *Monster Strike*, *Power Pros* | varios | personajes #13-#14 (*Jump Force*) | ✅ (§13) |
+
+**Figuras oficiales** (su pose es referencia 3D)
+- **Nendoroid** (Good Smile Company, 2023; Gon, Killua, Kurapika, Chrollo,
+  Hisoka, Leorio, Illumi; caras y manos intercambiables): Gon
+  https://static.wikia.nocookie.net/hunterxhunter/images/4/48/Nendoroid_gon.png
+  (580×800) · Killua https://static.wikia.nocookie.net/hunterxhunter/images/6/69/Nendoroid_killua.png (600×800) ✅
+- **Figma** (Max Factory, 2013): Gon
+  https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/Max_Factory_Figma_Gon.png
+  (1236×1278) · Killua https://static.wikia.nocookie.net/hunterxhunter/images/3/31/Max_Factory_Figma_Killua.png (1237×1291) ✅
+- Otras líneas citadas en la wiki, sin imagen propia: DX y DXF, FREEing,
+  VIBRATION STARS, Ichiban Kuji, Banpresto Grandista ⚠️.
+
+**Cosplay con licencia libre** (Flickr, vía Openverse)
+- Hisoka, Paris Manga 10, por **fabnol**, CC BY-NC-SA 2.0 (664×1000):
+  https://live.staticflickr.com/4111/5006030304_2d76c47e1f_b.jpg ⚠️
+- Kurapika, por **Diego Martin**, CC BY-NC-ND 2.0 (683×1024):
+  https://live.staticflickr.com/3015/2975409664_c51277eb45_b.jpg ⚠️
+- Gon y Killua, Lovin' Japan 2010, por **fabnol**, CC BY-NC-SA 2.0
+  (333×500): https://live.staticflickr.com/4049/4549293290_889fb34f78.jpg ⚠️
+- Sirven para ver **telas y volumen reales** (materiales, pliegues). ⚠️ No
+  las abrí en grande: elegir la mejor antes de usarla.
+
+**Teatro**: *Hunter × Hunter The Stage* (parte 2), fotos oficiales
+4096×2731 de Leorio y Hisoka ⚠️ (una fuente, Fandom).
+
+- ⚠️ **No encontré** cafés temáticos ni eventos (búsqueda «collaboration
+  cafe» en la wiki sin resultado).
+
+## 25 · Obras parecidas y láminas vecinas
+
+**Parecidas** (recomendaciones de usuarios de AniList para la serie de 1999, https://anilist.co/anime/136):
+*Yu Yu Hakusho*, *Fullmetal Alchemist*, *One Piece*, *Rurouni Kenshin*,
+*Naruto*, *Jujutsu Kaisen*, *Dragon Ball*, *My Hero Academia*, *Hell's
+Paradise*, *Demon Slayer*, *One-Punch Man*.
+- **Yu Yu Hakusho** es el vínculo más fuerte: **el mismo autor**, justo
+  antes, en la misma revista; mismo gusto por villanos con carisma ✅.
+- **Poderes con reglas** parecidos: la energía maldita de *Jujutsu Kaisen*
+  (la más cercana al Nen), los *Quirks* de *My Hero Academia*, el chakra de
+  *Naruto*.
+- **Influencia declarada**: H. R. Giger ⚠️ (§19). No encontré más.
+
+**Láminas del servidor que ya usan ideas cercanas** (leído en cada biblia) ✅
+
+| Serie | Canal | Objetos ya usados |
+|---|---|---|
+| Naruto | #reto-de-la-semana, general-doblaje | cascabeles de Kakashi, una pregunta con truco, el ramen Ichiraku |
+| Jujutsu Kaisen | ➕ Crear sala, General | un aula extra, un velo que baja, un salmón |
+| My Hero Academia | material-de-clase | cuaderno de apuntes, chuleta, pizarra |
+| One Piece | objetos del barco | cartel de «Se Busca», carta náutica, barril del juramento |
+| Demon Slayer | Aula, avisos-clases, que-estas-escuchando | calabaza que guía, escenario de época, shamisen |
+| JoJo | memes | polaroid «To Be Continued», ficha de Stand, fotograma congelado |
+| Oshi no Ko | pide **#castings** | (§0: choque) |
+| Ralph, One Punch Man | piden **🎲 Juegos** | (§0: choque) |
+
+**Cómo no repetir**
+- Lo más repetido en el servidor es **«una ficha o tarjeta sobre una mesa»**
+  y **«un cartel clavado»**. HxH ya tiene **sus propias** fichas: la
+  **Licencia de Cazador**, la **placa numerada** y la **carta de Greed
+  Island**. Usarlas tal cual, no una ficha genérica.
+- Ninguna lámina usa **«un examen con reglas»** como idea central: ése es el
+  hueco de HxH (el Examen Hunter, el hexágono del Nen).
+- No usar la **ficha de poder** en tabla (ya la tienen JoJo y otras): el
+  hexágono del Nen va como sello o adorno, no como ficha.
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas
+1. Los **Cazadores** tienen una **Licencia** que abre puertas (dinero,
+   datos, zonas prohibidas). Se gana en el **Examen Hunter**, donde muere
+   mucha gente ✅ (https://hunterxhunter.fandom.com/wiki/Hunter_License).
+2. El **Nen** (念) es el aura de cada ser vivo; pocos lo dominan y se
+   **oculta al público** ✅ (https://hunterxhunter.fandom.com/wiki/Nen).
+3. Hay **6 tipos de Nen en hexágono**: Potenciador, Transmutador,
+   Conjurador, Manipulador, Emisor y Especialista. Cada uno rinde 100 % en
+   el suyo, 80 % en los vecinos, 60 % en los siguientes y 40 % en el opuesto ✅.
+4. Manda la **Asociación Hunter**: un presidente y los **Doce Zodiacos**,
+   cada uno con el nombre de un animal. Pero la mafia y la Araña pesan
+   tanto como la ley ✅ (https://hunterxhunter.fandom.com/wiki/Zodiacs).
+5. Fuera del mapa está el **Continente Oscuro**, del que casi nadie vuelve ⚠️.
+
+### 26.2 La historia por arcos
+Siete arcos oficiales ✅ (https://hunterxhunter.fandom.com/wiki/Story_Arcs).
+1. **Examen Hunter** (tomos 1-5; anime 2011 ep. 1-20): Gon deja su isla,
+   conoce a Kurapika, Leorio y Killua; Pantano, Torre Trick, Hisoka. Clave:
+   el examen final y que los Zoldyck son asesinos.
+2. **Arena Celestial** (tomos 5-7): Gon y Killua suben sus 251 pisos;
+   **Wing** les enseña el Nen.
+3. **Yorknew** (tomos 8-13): la gran subasta; Kurapika contra la Araña por
+   los **Ojos Escarlata**. Clave: su venganza (clip Uvogin, §2.3).
+4. **Greed Island** (tomos 13-18): el videojuego-isla; entrenan con
+   **Biscuit**. Clave: dominan el Nen.
+5. **Hormigas Quimera** (tomos 18-30, el más largo): hormigas que comen
+   humanos. Clave: muere Kite y llega **la ira de Gon** (ep. 131, §22).
+6. **Elección del 13.º Presidente** (tomos 30-32): muere Netero; Killua
+   salva a Gon con su hermana **Alluka**. Clave: se separan (ep. 147).
+7. **Sucesión y Continente Oscuro** (desde el tomo 32, sin terminar): el
+   barco **Ballena Negra**; Kurapika y Leorio ya son Zodiacos.
+
+### 26.3 Símbolos y objetos que un fan reconoce
+- **Licencia de Cazador**: si se pierde, no se repone; 1 de cada 5 la
+  pierde el primer año; se revende por miles de millones de Jenny ✅
+  (objetos #1, rombo `#B4181E`).
+- **La Araña** (Brigada Fantasma): tatuaje de **araña de 12 patas con un
+  número**; para entrar hay que matar a un miembro ✅
+  (https://hunterxhunter.fandom.com/wiki/Phantom_Troupe).
+- **Greed Island**: consola **JoyStation**, libro con casillas numeradas y
+  **cartas de hechizo** ✅ (https://hunterxhunter.fandom.com/wiki/Greed_Island).
+- **Ojos Escarlata** del clan Kurta ⚠️ (una fuente para el detalle de la venta).
+- **La placa numerada** del examen (objetos #8).
+- **El alfabeto Hunter** (objetos #32) y el **signo «×»** de cada título (§6).
+- **El hexágono del Nen** (§20).
+
+**Vocabulario**: Nen, aura, Ten, Zetsu, Ren, Hatsu, **Restricción y Voto**
+(una técnica es más fuerte cuanto más grande el sacrificio), Cazador,
+Examen Hunter, Jenny, Zodiacos, la Araña, Continente Oscuro, Jajanken ✅.
+
