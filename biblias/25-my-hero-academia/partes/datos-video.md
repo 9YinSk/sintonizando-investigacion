@@ -1,10 +1,10 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · My Hero Academia
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'My Hero Academia', '--wiki', 'myheroac · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/21459_
@@ -78,8 +78,8 @@ _Fuente: https://archive.org_
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_
 
-- My Hero Academia: Soundtrack Selection 2019-2021 · Yuki Hayashi · 2022-01-26 · https://musicbrainz.org/release-group/4e16ca7b-1d31-4c53-a464-9e2f38fb740f
 - My Hero Academia: Soundtrack Selection 2021-2023 · Yuki Hayashi · 2023-03-15 · https://musicbrainz.org/release-group/d5fd9e61-d345-4239-8471-57886200ccd8
+- My Hero Academia: Soundtrack Selection 2019-2021 · Yuki Hayashi · 2022-01-26 · https://musicbrainz.org/release-group/4e16ca7b-1d31-4c53-a464-9e2f38fb740f
 - My Hero Academia: Final Season Original Soundtrack · 林ゆうき · 2025-12-14 · https://musicbrainz.org/release-group/dc486ffd-17a9-4aef-b3aa-e0ae17da64cc
 - TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック · 林ゆうき · 2020-03-25 · https://musicbrainz.org/release-group/9bcfc23e-8b5e-4dbf-8b48-4c88e74a2d32
 - TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック · 林ゆうき · 2016-07-13 · https://musicbrainz.org/release-group/c1ccdb07-0b9e-4356-907d-82371ef8439b
@@ -91,5 +91,5 @@ _Fuente: https://musicbrainz.org_
 - TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016-2018 · 林ゆうき · 2020-02-20 · https://musicbrainz.org/release-group/cf66083f-8646-447a-a457-0fe42109ffdf
 - TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック · 林ゆうき · 2024-10-16 · https://musicbrainz.org/release-group/2c15fb13-f0f6-434c-bb0f-0671217af8e5
 - 「僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング」オリジナルサウンドトラック · 林ゆうき · 2019-12-18 · https://musicbrainz.org/release-group/de20e1d7-9e8d-4074-8cc0-f8b6d4f68ead
-- TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック · 林ゆうき · 2017-09-06 · https://musicbrainz.org/release-group/97a297e9-53d2-4bb0-801e-180c1c4c962f
 - TVアニメ『僕のヒーローアカデミア』5th オリジナルサウンドトラック · 林ゆうき, Jonathan Underdown · 2021-03-31 · https://musicbrainz.org/release-group/b5b21ef4-7983-458a-8b0a-a215d6690d8b
+- TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック · 林ゆうき · 2017-09-06 · https://musicbrainz.org/release-group/97a297e9-53d2-4bb0-801e-180c1c4c962f
