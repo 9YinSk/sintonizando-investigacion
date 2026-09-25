@@ -252,8 +252,8 @@ pedía iniciar sesión). Los minutos son **de cada vídeo**, con enlace.
 
 ## 3 · Arte oficial y referencias visuales
 
-**No se pudo bajar ni ver ninguna imagen** (red cerrada). Aquí está
-**dónde está** cada cosa, para abrirla en el PC.
+Primera pasada: **no se pudo bajar ni ver ninguna imagen** (red
+cerrada). La 2.ª pasada **sí las vio** (§3.6 y «Las hojas de contacto»).
 
 ### 3.1 La campaña de 2002: los «Inter-Stitch-als»
 
@@ -314,33 +314,85 @@ pedía iniciar sesión). Los minutos son **de cada vídeo**, con enlace.
   [ficha de Disney+ (HK)](https://www.disneyplus.com/zh-hk/browse/entity-3edb5cb2-fba6-4473-bfa2-8a867e00bdeb).
 - **Japón**: [página oficial de personajes, Disney Japón](https://www.disney.co.jp/fc/stitch).
 
-### 3.5 Lo que falta ⚠️
+### 3.5 Lo que faltaba en la primera pasada
 
-- No vi pósteres ni carátulas de Blu-ray. IMP Awards no abría.
-- No encontré **fondos de pantalla oficiales** en alta con tamaño.
-- No encontré un artbook oficial «The Art of Lilo & Stitch» con
-  editorial y año seguros: sólo la recopilación de Character Design
-  References.
+- ~~No vi pósteres ni carátulas~~ → 2.ª pasada: pósteres vistos en la
+  hoja 1 (n.º 18 «There's one in every family», n.º 19 Lilo, Nani y
+  Stitch surfeando). Carátulas de Blu-ray: siguen sin mirar ⚠️.
+- ~~No encontré fondos de pantalla oficiales~~ → **7 oficiales con
+  tamaño medido** (§17).
+- ~~No encontré artbook~~ → **sí existe** (§3.6).
+
+### 3.6 Arte oficial visto de verdad (Nuevo, 2.ª pasada)
+
+Tamaños medidos con la API `imageinfo` de la wiki de Disney. Las
+imágenes de `static.wikia.nocookie.net` piden la cabecera
+`Referer: https://www.fandom.com/`.
+
+- **Artbook oficial**: *Lilo & Stitch: Collected Stories From the
+  Film's Creators*, Disney Press, 2002, 128 páginas, con el equipo
+  contando su proceso ✅ ([Worthpoint, ficha con ISBN](https://www.worthpoint.com/worthopedia/lilo-stitch-collected-stories-films-1886596031),
+  [LabyrinthBooks](https://labyrinthbooks.myshopify.com/products/chris-sanders-lilo-stitch-collected-stories-disney-art-book)).
+  No es «Disney Editions» ni se llama «The Art of…».
+- **Key visual** «Lilo & Stitch promo art 2.jpg», **3523×5000**, la
+  imagen oficial más grande de la wiki: Lilo y Stitch en la playa al
+  atardecer, ella con traje de hula ✅
+  ([imagen](https://static.wikia.nocookie.net/disney/images/1/1b/Lilo_%26_Stitch_promo_art_2.jpg); hoja 1, n.º 2).
+  Sirve de referencia de luz y color (hex en §16).
+- **Hoja de modelo de Pleakley** firmada por Chris Sanders («Lilo and
+  Stitch Rough Model Sheet»), frente, perfil y expresiones, **2048×1319**
+  ✅ ([imagen](https://static.wikia.nocookie.net/disney/images/7/7b/Pleakley_concept_art.jpg); hoja 2, n.º 63).
+  Corrección: la parte de imagen daba la ruta `/7/74/`, que da 404; la
+  buena es `/7/7b/`.
+- **Poses de hula de Lilo** en una sola hoja, «LiloHulaAD.jpg»,
+  **1600×1068**, y **estudio de Lilo**, «LiloStudyAD.jpg», **1600×1058**
+  ✅ ([hula](https://static.wikia.nocookie.net/disney/images/9/93/LiloHulaAD.jpg),
+  [estudio](https://static.wikia.nocookie.net/disney/images/0/09/LiloStudyAD.jpg)).
+  Poses vivas, justo lo que pide el dueño.
+- **Arte de desarrollo de Stitch**, **3338×2160** ✅
+  ([imagen](https://static.wikia.nocookie.net/disney/images/5/56/Stitch_Development_art.png); hoja 1, n.º 16).
+- **Stitch sentado con Scrump, el sándwich y Pato el pez**, firmado por
+  Chris Sanders, **1646×1646** (hoja 2, n.º 62, «Daveigh Chase
+  posthumo») ✅ visto.
+- **Portadas de Dynamite**: más de 15 distintas vistas en las hojas 1 y
+  2 (n.º 7, 17, 56-59, 64-69, 78-80). La n.º 17 lleva a Stitch **de
+  traje negro y gafas, de agente secreto**; la n.º 59 a Lilo con su
+  vestido rojo sobre fondo rojo; la n.º 7 a Stitch surfeando ✅ visto.
+- **Revistas Disney Adventures** con Stitch en portada: 9 números (hoja
+  1, n.º 39-47) ✅ visto. Arte de época que no estaba.
+- **Libros «Agent Stitch»** (hoja 1, n.º 26, 28, 35, 36) y **«Stitch Day
+  Crashes Disney»** (hoja 2, n.º 49-51: Stitch en portadas de Big Hero
+  6, El Rey León y Winnie the Pooh) ✅ visto.
+- **Figuras oficiales** (pose = referencia 3D): Britto pop-art (hoja 1,
+  n.º 12), Jim Shore «'Ohana» tallada estilo folk (hoja 2, n.º 74),
+  peluche de Lilo de Disney Animators' Collection (hoja 1, n.º 37),
+  playsets (hoja 1, n.º 13-14) ✅ visto. Más en «Punto 23».
+- **Fotogramas limpios**: «Nani, Lilo, and Stitch enjoying a big wave»,
+  **3000×1782** ([imagen](https://static.wikia.nocookie.net/disney/images/a/a0/Lilo_%26_Stitch_-_Nani%2C_Lilo%2C_and_Stitch_enjoying_a_big_wave.jpg); hoja 1, n.º 20) ✅.
+- **Lilo abrazando a Scrump**, **1806×1080** ✅
+  ([imagen](https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_-_Lilo_holding_Scrump.png/revision/latest?cb=20230820215155)).
+- **Logo oficial**, 800×310 ✅ ([imagen](https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_Logo.png/revision/latest?cb=20160630120430)); ver §6.
 
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
 > [!note] Licencias
-> Sketchfab y Poly Haven **no abrían** desde aquí. La licencia que pongo
-> es la que dice el resultado del buscador. **Mírala en la página antes
-> de usar el modelo** y copia el crédito exacto.
+> Primera pasada: Sketchfab y Poly Haven **no abrían**. **2.ª pasada**:
+> las licencias marcadas «API» se leyeron en la API de Sketchfab
+> (`license.label`) y son seguras; las demás siguen «según buscador» ⚠️.
+> Copia el crédito exacto: «<Modelo> by <autor>, CC BY 4.0, Sketchfab».
 
 ### 4.1 Objetos para la lámina (Sketchfab)
 
 | Modelo | Autor | Licencia (según buscador) | Para qué |
 |---|---|---|---|
-| [Canon AE-1 Program 35mm Film Camera](https://sketchfab.com/3d-models/canon-ae-1-program-35mm-film-camera-03b0ac7d99c44197a09640179f360f3c) | Marc Sawyer (@whitewashstudio) | CC Attribution, descarga gratis; hecha con fotogrametría | Cámara de carrete. **Quitar la marca.** Es réflex; la de Lilo parece compacta ⚠️ |
-| [Set of four low-poly Cameras](https://sketchfab.com/3d-models/set-of-four-4-low-poly-cameras-275be0c563754a038c0a50f19785a8ea) | JeffK (@jeffkolada) | CC Attribution | Cámaras sencillas, más «de dibujo» |
+| [Canon AE-1 Program 35mm Film Camera](https://sketchfab.com/3d-models/canon-ae-1-program-35mm-film-camera-03b0ac7d99c44197a09640179f360f3c) | Marc Sawyer (@whitewashstudio) | **CC Attribution 4.0 ✅ API**; fotogrametría, 77 532 caras | Cámara de carrete. **Quitar la marca.** Es réflex; la de Lilo parece compacta ⚠️ |
+| [Set of four low-poly Cameras](https://sketchfab.com/3d-models/set-of-four-4-low-poly-cameras-275be0c563754a038c0a50f19785a8ea) | JeffK (@jeffkolada) | **Corregido: CC BY-NC-SA ✅ API** (antes decía CC Attribution). No comercial: sólo para mirar volúmenes, o preguntar al dueño | Cámaras sencillas, más «de dibujo» |
 | [Low Poly Camera](https://sketchfab.com/3d-models/low-poly-camera-a8a59f14d82043698945590bc6779c50) | Maurice Svay | gratis, licencia sin ver ⚠️ | Alternativa |
 | [35mm Film Roll](https://sketchfab.com/3d-models/35mm-film-roll-6d8a6d290de043e898420a04072a3a1e) | Alligator Alex | gratis, licencia sin ver ⚠️ | Carrete suelto junto al álbum |
-| [Photo Album](https://sketchfab.com/3d-models/photo-album-b891198a35a64b2c9c3c1a26338b1a48) | mnaglak | CC Attribution | **El álbum** |
-| [Cork Board](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | CC Attribution | Tablero con papeles clavados |
+| [Photo Album](https://sketchfab.com/3d-models/photo-album-b891198a35a64b2c9c3c1a26338b1a48) | mnaglak | **CC Attribution 4.0 ✅ API** | **El álbum** |
+| [Cork Board](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913) | rickmaolly | **CC Attribution ✅ API** | Tablero con papeles clavados |
 | [Corkboard](https://sketchfab.com/3d-models/corkboard-1e5469eaf8b54337aacfc42a713b3a98) | Sousinho | gratis ⚠️ | Chinchetas que se mueven |
 | [Corkboard](https://sketchfab.com/3d-models/corkboard-3ceda8ed02af45d1a8b36570076193e1) | K.Shitanaga | gratis ⚠️ | Otro tablero |
 
@@ -357,13 +409,42 @@ pose y ver volúmenes.
 - [Angel (624)](https://sketchfab.com/3d-models/experiment-624-angel-from-lilo-and-stitch-71ede4ebbbfb47ef9a1241170830df32) y
   [cápsula de experimento](https://sketchfab.com/3d-models/experiment-pod-container-from-lilo-and-stitch-6e0aa3df6154430082d27a98ff09e417), Werasik2aa.
 
+**Nuevo (2.ª pasada)**: modelos con *rig* y licencia **CC Attribution
+leída en la API** (la parte de texto miró sus miniaturas, 1920×1080):
+
+| Modelo | Autor | Caras | Nota |
+|---|---|---|---|
+| [Stitch (626) Rigged](https://sketchfab.com/3d-models/stitch-626-from-lilo-and-stitch-rigged-5ae4cd66c67d42c49202f2003fe7f559) | werasik2aa1 | 35 464 | el mejor para posar a Stitch ✅ |
+| [Stitch (KH3) Rig](https://sketchfab.com/3d-models/stitch-kh3-rig-d1c674e7c0424687935d1839a2a55843) | guinavarro.al | 34 782 | estilo Kingdom Hearts III ✅ |
+| [Pleakley](https://sketchfab.com/3d-models/pleakley-lilo-stitch-3a4305debb52451a8ba5ccb8a174e7ef) | ArbitraryCanary | 260 220 | **muy pesado**: regla 9 del dueño, no saturar el PC ✅ |
+| [Nani](https://sketchfab.com/3d-models/nani-from-lilo-and-stitch-8ed9ce5f0f944c7182fc150cf9d4c10b) | werasik2aa1 | 2 758 | ligero ✅ |
+
+Más modelos de fans con **CC Attribution** según la API de Sketchfab
+(los juntó `recolectar.py`, en `partes/datos.json`; sin mirar uno a uno
+⚠️): [Space Adventure](https://sketchfab.com/3d-models/none-9cf9da6809894cae9377ae94b1d4256b)
+de Fanny Ngo (el **cohete de monedas** de la película, visto en
+[31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904)),
+[Smug Lilo](https://sketchfab.com/3d-models/none-8886725fc8c543c5ad0872a0301cfbc9)
+y [Lilo and Stitch's shenanigans](https://sketchfab.com/3d-models/none-09964de38fc04df19fb0753b35d03d55)
+de Fanny Ngo, [Stitch (Fan Art)](https://sketchfab.com/3d-models/none-65880617586342db903f9236c014aeab)
+y [Yuna (Fan Art)](https://sketchfab.com/3d-models/none-024b3f1d804b4dea9da4534ed0add0f4) de Bema,
+[Stitch](https://sketchfab.com/3d-models/none-5a85d135283e4356a86bccd7a7ca6938) de procyonlotor y
+[Nani Peleaki](https://sketchfab.com/3d-models/none-2d4b1ccf80cd4be480bb4cc5a46e1b84) de roachfilmopticals.
+
+- **No hay rig libre de Lilo ni de Jumba** con CC descargable ⚠️ (parte
+  de texto; los de Lilo de arriba no tienen licencia vista).
+
 ### 4.3 Fan art 2D (mirar, nunca pegar)
 
 - [ArtStation, Ego: Lilo & Stitch Fan Art](https://www.artstation.com/artwork/3D5eA).
 - [DeviantArt, p-yeah: Stitch](https://www.deviantart.com/p-yeah/art/Stitch-Fan-Art-Lilo-Stitch-713227266).
 - [DeviantArt, aliciamartin851: fotos del final](https://www.deviantart.com/aliciamartin851/art/Lilo-and-stitch-ending-pics-960086384).
 - [DeviantArt, danielnewton: la foto de familia comparada](https://www.deviantart.com/danielnewton/journal/Lilo-s-Family-Photo-Comparison-872752082).
-- No encontré fan art concreto de **Lilo con la cámara** ⚠️.
+- No encontré fan art concreto de **Lilo con la cámara** ⚠️. La 2.ª
+  pasada lo buscó otra vez en ArtStation y DeviantArt (inglés): el fan
+  art se centra en Stitch solo o en el abrazo final; la cámara casi
+  nunca sale.
+- **Fondos de fans en alta** (Wallhaven, con autor y tamaño): ver §17.
 
 ### 4.4 Luz y texturas libres (Poly Haven, CC0)
 
@@ -417,9 +498,11 @@ Sitios dentro de la película (de memoria ⚠️, mirar fotogramas):
   con gouache ✅ (resumen de [AV Club](https://www.avclub.com/read-this-lilo-stitch-disney-watercolor-animation-1849681724)
   y de la [historia oral](https://graduateschool.aub.ac.uk/top-news/an-oral-history-of-lilo-stitch.html)).
 - **Las rocas de lava se texturizaron con sal gorda de mar** sobre la
-  acuarela húmeda: truco de Maurice Noble ⚠️ (un solo resumen).
+  acuarela húmeda: truco de Maurice Noble ✅ (2.ª pasada: dos fuentes,
+  [Animation Obsessive](https://animationobsessive.substack.com/p/the-shape-and-color-of-lilo-and-stitch)
+  y [AV Club](https://www.avclub.com/read-this-lilo-stitch-disney-watercolor-animation-1849681724)).
 - Artículo largo sobre forma y color: [Animation Obsessive](https://animationobsessive.substack.com/p/the-shape-and-color-of-lilo-and-stitch)
-  (no abría).
+  (en la 2.ª pasada **sí abrió**: sus citas, en «Punto 18»).
 
 ### 5.3 Luz por sitio ⚠️ (de memoria, mirar fotogramas)
 
@@ -430,6 +513,15 @@ Sitios dentro de la película (de memoria ⚠️, mirar fotogramas):
 | Playa del surf | mediodía, 00:46 | sol alto, agua turquesa, espuma blanca |
 | Montaje final | día | luz limpia de foto casera, colores saturados |
 | Bosque | amanecer, 00:55 | verdes fríos, niebla |
+
+**Corregido en la 2.ª pasada, mirando vídeo** ✅:
+
+| Sitio | Hora | Luz vista | Dónde |
+|---|---|---|---|
+| **Luau** donde trabaja Nani | noche | **cálida**: antorchas, madera de cabaña quemada, bailarín de fuego (0:12-0:24); fondo casi negro azulado | [clip del luau 1080p, 0:48](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=48) |
+| **Cuarto de Lilo** | noche | **morada y roja**, no azul: edredón rojo y blanco de flores, cómoda de madera oscura, lámpara verde con base de piña, collares en un clavo | [tráiler 2002, 2:12](https://archive.org/details/LiloStitchTrailer?t=132) |
+| **Bosque del Patito Feo** | **noche**, no amanecer | luz azul de luna, plano cerrado, silencio | [película, 55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327) |
+| **Mar del surf, 2025** | día | turquesa **apagado**, grado de color más gris que el 2002; plano de dron | [tráiler latino 2025, 1:44](https://www.dailymotion.com/video/x9fzrlk?start=104) |
 
 ### 5.4 Paleta de partida ⚠️ (sin medir: propuesta)
 
@@ -452,6 +544,30 @@ empezar**; hay que **muestrearlos** en capturas reales antes de pintar.
 | Borde de foto | `#F7F3E8` | papel fotográfico, un poco amarillo |
 | Noche | `#1F2E52` | azul, nunca negro |
 
+### 5.4b Paleta medida (Nuevo, 2.ª pasada) ✅
+
+Medida con `estilo.py --colores` en fotogramas y con Pillow en arte
+oficial. El % es cuánto ocupa en el fotograma.
+
+| Qué | Hex medidos | De dónde |
+|---|---|---|
+| Luau de noche | `#234543` 17 % · `#150311` 15 % · `#8D4232` 15 % · `#662F30` 15 % · `#351930` 14 % | clip del luau, fotograma 0:48 |
+| Luau, surtido amplio | `#813B2D` 27 % · `#02042A` 26 % · `#5F3421` 10 % · `#0E0103` 9 % | clip del luau, 1:00 |
+| Cuarto de Lilo de noche | `#0C1F2A` 25 % · `#432626` 25 % · `#62414D` 16 % · `#954D2D` 13 % · `#6A1B1B` 12 % | tráiler 2002, 2:12 |
+| Mar, 2025 | `#2F6867` 38 % · `#497B7E` 16 % · `#255757` 10 % | tráiler 2025, 1:44 |
+| Stitch, pelaje con luz de atardecer | `#003D63` (sombra) → `#167DB1` (luz) | key visual «promo art 2», 3523×5000 |
+| Pelo de Lilo | `#030308` | key visual |
+| Falda de hula de Lilo | `#559B73` claro · `#146243` pliegues | key visual |
+
+- **Correcciones a la propuesta de 5.4**: la noche de interior **no es
+  azul** `#1F2E52`: es morada y roja (cuarto) o cálida de fuego (luau).
+  El mar de 2002 sigue sin medir; el de 2025 es más gris que `#2E8FA8`.
+- Estilo medido (`estilo.py`): sombreado degradado, poca línea,
+  saturación 66-74 %, brillo 29-32 % en el luau. Coincide con la
+  acuarela.
+- El azul de Stitch medido lleva la luz del atardecer del cartel: el
+  tono **plano** del cel sigue sin medir ⚠️ (§16).
+
 ### 5.5 Texturas reales equivalentes
 
 - **Papel de acuarela** grano fino (para fondos pintados a mano).
@@ -461,6 +577,13 @@ empezar**; hay que **muestrearlos** en capturas reales antes de pintar.
 - **Corcho** (tablero).
 - **Madera pintada y saltada** (casa Pelekai; Poly Haven, §4.4).
 - **Roca de lava** porosa, **arena**, **hojas de monstera**.
+- **2.ª pasada, vistas en vídeo**: madera de cabaña con vetas oscuras y
+  quemada (luau), edredón floral de tela gruesa (cuarto), **antorchas de
+  fuego real** para poner luz cálida detrás del personaje.
+- **CC0 en ambientCG**: telas lisas `Fabric030`, `Fabric061`, `Fabric083`
+  ([lista](https://ambientcg.com/list?type=Material&q=fabric)) como base
+  para pintar encima el estampado hawaiano; roca para el truco de la sal
+  ([API](https://ambientcg.com/api/v2/full_json?type=Material&q=rock)).
 
 ---
 
@@ -501,6 +624,40 @@ con fontTools: **todas traen á é í ó ú ñ ¿ ¡** ✅.
 
 Recomendación: **Lilita One** para «Fotos» y **Gochi Hand** para los
 pies de foto. Si la lámina lleva la lista de Lilo, **Short Stack**.
+
+### 6.3 Una letra por uso (Nuevo, 2.ª pasada)
+
+La parte de texto bajó cada letra de `fonts.gstatic.com` (la URL que da
+la API `css2` de Google Fonts) y abrió su cmap con `fontTools`: **las 9
+traen á é í ó ú ñ Ñ ¿ ¡** ✅ (comprobado el 24-sep-2026). Las 5
+marcadas ⭐ son nuevas.
+
+| Uso (punto 5 del encargo) | Letra libre | Diseñador | Licencia | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|---|
+| Logo o título | **Lilita One** | Juan Montoreano | OFL | ✅ |
+| Globo normal de cómic ⭐ | **[Comic Neue](https://fonts.google.com/specimen/Comic+Neue) Bold**, en mayúsculas | Craig Rozynski | OFL | ✅ |
+| Grito, exclamación ⭐ | **[Bangers](https://fonts.google.com/specimen/Bangers)** | Vernon Adams | OFL | ✅ |
+| Pensamiento (nube blanda) | **Baloo 2** | Ek Type | OFL | ✅ |
+| Onomatopeya | **Luckiest Guy** | Astigmatic | OFL | ✅ |
+| Cartel del mundo (tiki, surf, luau) ⭐ | **[Trade Winds](https://fonts.google.com/specimen/Trade+Winds)**: cartel de tiki-bar de los 50 | Sideshow | OFL | ✅ |
+| Interfaz de juego, pantallas de la Federación ⭐ | **[Actor](https://fonts.google.com/specimen/Actor)**: sans condensada «de nave» | Sorkin Type Co. | OFL | ✅ |
+| Subtítulos o créditos de vídeo ⭐ | **[Quicksand](https://fonts.google.com/specimen/Quicksand)** | Andrew Paglinawan | OFL | ✅ |
+| Pie de foto a mano | **Gochi Hand** | HT Fonts | OFL | ✅ |
+
+- **Variantes del logo vistas** ✅: en el juego de **Game Boy Advance**
+  (2002, Digital Eclipse) el rótulo rojo con blanco va **metido en una
+  tabla de surf**, con un borde verde de florecitas blancas y «Disney's»
+  arriba en letra fina ([pantalla de título, 480×320](https://archive.org/download/stitch_gba/screenshot_12.png)).
+  Sirve para un objeto físico (tabla, cartel de playa) sin copiar el
+  logo tal cual. En el manga japonés *Stitch & the Samurai* el título es
+  **pincel rojo anguloso** de cartel de samurái
+  ([portada, 432×648](https://tokyopop.com/cdn/shop/products/9781427868961.jpg?v=1775858242&width=1946)):
+  no va con #fotos.
+- **Buka Bird** sigue sin poder bajarse (no está en Google Fonts ni en
+  GitHub): tildes sin comprobar ⚠️. Para uso comercial hay que comprar
+  la licencia o pedir permiso a Ferrera.
+- Letra de los rótulos de la película (libro, lista, papel de adopción):
+  **sigue sin identificar** ⚠️.
 
 ---
 
@@ -562,7 +719,9 @@ los juegos.
 
 ### 7.5 Qué NO hacer con el texto
 
-- **Una burbuja blanca de cómic.** La película no tiene.
+- **Una burbuja blanca de cómic.** La película no tiene. (2.ª pasada:
+  si hace falta un bocadillo, que sea **el del cómic oficial**, §7.6,
+  nunca una burbuja plana de chat.)
 - **Letras tiki de souvenir** (las de bar hawaiano con bambú): son el
   Hawái de turista del que la película se ríe.
 - Poner a Stitch a explicar normas con frases largas: él dice tres
@@ -570,6 +729,46 @@ los juegos.
 - Citar «**No estoy loco, mi realidad es simplemente diferente a la
   tuya**» como frase de Lilo y Stitch: circula en listas, pero **no
   está en los subtítulos** de la película ❌.
+
+### 7.6 El bocadillo real de la franquicia (Nuevo, 2.ª pasada) ✅
+
+La parte de texto **miró 3 páginas** del cómic de **Dynamite, *Disney's
+Lilo & Stitch* n.º 1** (2024, guion de Greg Pak, dibujo de Giulia
+Giacomino), de la [preview de DuckTalks](https://ducktalks.com/2024/01/03/dynamite-comics-lilo-stitch-1-preview/)
+(1988×3057 cada página: [pág. 7](https://ducktalks.com/wp-content/uploads/2024/01/0007-1.jpg),
+[pág. 8](https://ducktalks.com/wp-content/uploads/2024/01/0008-1.jpg)).
+
+- **Bocadillo normal**: óvalo blanco, **borde negro de 3-4 px**, cola
+  recta hacia quien habla. Letra **en mayúsculas, sans redondeada y
+  gruesa** (como Comic Neue Bold). Las palabras clave, **en cursiva y
+  más gruesas** («*BLOW* up», «*responsible* older sister», «*'OHANA*»).
+  Nada de línea fina de cómic americano clásico: todo redondo, como los
+  personajes.
+- **Cartela de recuerdo o aparte**: rectángulo de esquinas redondeadas,
+  **fondo azul pálido**, misma letra (el «Look, you can't… you can't
+  just blow things up!» de Nani).
+- **Vocabulario hawaiano dentro del globo, en cursiva**: *'Ohana*,
+  *Kuleana* (responsabilidad) y *Mālama 'āina* (cuidar la tierra); el
+  significado, con dos fuentes ([Ko Olina](https://koolina.com/destination/kuleana/),
+  [NOAA](https://sanctuaries.noaa.gov/magazine/6/kuleana.html)).
+- **La frase de la franquicia, en el cómic**: «'OHANA MEANS FAMILY. AND
+  FAMILY MEANS NO ONE GETS LEFT BEHIND OR FORGOTTEN, RIGHT?» «RIGHT.»
+  (David a Nani). Película + cómic: dos fuentes independientes.
+- No vi bocadillo de pensamiento ni onomatopeyas en esas 3 páginas ⚠️
+  (sólo un número del cómic).
+- **Bocadillos vacíos para que escriban los niños**: en mayo de 2006
+  *Disney Adventures* publicó «Stitch's Movie Mix-Up», una tira con los
+  globos vacíos para que los lectores pusieran su diálogo ✅
+  ([Lilo & Stitch Wiki](https://liloandstitch.fandom.com/wiki/Comic_Zone_Volume_1:_Disney%27s_Lilo_%26_Stitch),
+  [TV Tropes, Comic Zone](https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/ComicZoneLiloAndStitch)).
+  Idea para #fotos: «escribe tú el pie de foto».
+- **Un globo dentro de la película**: la página del libro del Patito
+  Feo lleva el texto «I'm Lost!» en un globo dibujado ✅ (fotograma
+  propio de la parte de voz, [55:31](https://archive.org/details/lilo-stitch-2002_202609?t=3331)).
+  Es el único «bocadillo» que sale en pantalla, y es de un libro.
+- **Resumen para la lámina**: primero, texto escrito en objetos (pie de
+  foto, lista, sello). Si hace falta un globo: **óvalo blanco de borde
+  grueso, Comic Neue Bold en mayúsculas, palabra clave en cursiva**.
 
 ---
 
