@@ -8,14 +8,31 @@ fecha: 2026-09-24
 # Biblia · Assassination Classroom — para #avisos-clases
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada casi entera: Fandom, Doblaje
->   Wiki (también su API), la web oficial, ANMTV, pixiv, Namuwiki,
->   Sketchfab, YouTube, Twitter y **todos los servidores de imágenes**
->   daban conexión rechazada. Por eso **no se pudo correr**
->   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
->   carpeta `hojas/`, y **no vi ninguna imagen**: la paleta es aproximada.
-> - Hice **47 búsquedas web** en español, inglés, japonés, coreano y
+> - **Primera pasada** (24-sep-2026): la red estaba cerrada casi entera:
+>   Fandom, Doblaje Wiki (también su API), la web oficial, ANMTV, pixiv,
+>   Namuwiki, Sketchfab, YouTube, Twitter y **todos los servidores de
+>   imágenes** daban conexión rechazada. No se pudo correr
+>   `herramientas/investigar_serie.py` ni ver ninguna imagen.
+>   Hice **47 búsquedas web** en español, inglés, japonés, coreano y
 >   chino (lista en §21).
+> - **Segunda pasada** (25-sep-2026): **red abierta**, con el método de
+>   equipo (`EQUIPO.md`): el recolector gratuito (`recolectar.py`) y cuatro
+>   investigadores (imagen, vídeo, voz, texto). Sus notas están en
+>   `partes/`. Lo nuevo va marcado **«2.ª pasada»**. Resumen de lo que
+>   cambió justo debajo.
+> - **Qué se pudo usar ahora**: la wiki de Fandom de la serie (el
+>   subdominio bueno es **`ansatsukyoshitsu`**; el del encargo,
+>   `assassinationclassroom`, da 404), **3 hojas de contacto** en `hojas/`,
+>   la API de Doblaje Wiki (reparto completo), la API de Sketchfab
+>   (licencias), ambientCG (texturas CC0), y **vídeos mirados de verdad**:
+>   el episodio 1 y 6 episodios de la temporada 2 en Internet Archive, el
+>   PV de la T2 y el *featurette* de la película de 2016 en Dailymotion.
+>   Esos minutos van en formato `7:21` (minuto:segundo del archivo).
+> - **Colores medidos** con `estilo.py` y Pillow sobre fotogramas y arte
+>   oficial (cada tabla dice de cuál).
+> - **Lo que siguió cerrado**: YouTube pide iniciar sesión (403 al bajar:
+>   ni tráiler ni clips doblados), TikTok, pixiv, TV Tropes (Cloudflare),
+>   AnimeThemes (403). Los vídeos vistos están en **480p**, no 1080p.
 > - GitHub sí respondía. De
 >   [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 >   saqué **los subtítulos japoneses de la temporada 2** (Netflix, con el
@@ -28,8 +45,89 @@ fecha: 2026-09-24
 >   de 47). «KJ-3» es el episodio 3 del **課外授業編**. «peli» es la
 >   película de 2026. El minuto va así: 00:12:37 (es el del archivo: puede
 >   moverse uno o dos minutos según la plataforma).
-> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
->   ⚠️ **dudoso**: una sola fuente, o de memoria. ❌ **no encontrado**.
+> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto,
+>   o se vio en el fotograma. ⚠️ **dudoso**: una sola fuente, o de
+>   memoria. ❌ **no encontrado**.
+
+---
+
+## Segunda pasada · qué cambió
+
+Repaso del 25-sep-2026 con la red abierta. Sólo con lo que trajeron las
+partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md` y los
+`datos-*.md`). Nada inventado: lo que no se encontró sigue con ⚠️ o ❌.
+
+**Corregido (antes → ahora)**
+
+- **La wiki de Fandom**: `assassinationclassroom` (la del encargo) → da
+  404; la buena es **`ansatsukyoshitsu.fandom.com`** ✅ (API `siteinfo`).
+  Y el apellido de Irina lleva tilde: **«Irina Jelavić»**; sin la ć la
+  wiki no encuentra la página.
+- **La paleta**: aproximada, «NO medida» → **medida** con Pillow y
+  `estilo.py`. Koro-sensei `#FFF661` (arte del 10.º aniversario) y
+  `#FCFF6D` (fotograma del ep. 1, 1:35); su toga es gris carbón
+  `#2D2D2D`, no negro puro; el forro es rojo `#A2393C` (§16).
+- **Nagisa**: corbata «¿roja o negra?» ⚠️ → **negra** ✅ (hoja de modelo
+  de Lerche y arte del 10.º aniversario). Chaleco azul marino `#2E355C`.
+- **Karma**: uniforme abierto sin corbata «de memoria» → confirmado con
+  su hoja de modelo firmada (30-may-2014) ✅. Su bebida: «zumo de cartón»
+  → **bebidas lácteas de la serie «～煮オ・レ»** ✅ (wiki).
+- **Irina**: «vestidos ceñidos» ⚠️ → **traje sastre azul verdoso pálido
+  `#90AFBA`**, gargantilla negra, pintalabios-arma ✅ (render oficial).
+  El vestido morado con sombrero de bruja es del juego *Koro-Sensei
+  Quest!*, no del anime.
+- **Kayano enamorada de Nagisa**: ⚠️ «de memoria» → ✅ canon (infobox de
+  la wiki; caps. 142 y 144 del manga).
+- **Koro-sensei cotilla y tacaño**: ⚠️ → ✅ (wiki; manga vol. 16,
+  cap. 137: «un poco pervertido, listo, torpe, algo tacaño y terco»).
+- **Voces latinas** de Karasuma (**Juan Carlos Román**), Kayano (**María
+  García**) y Ritsu (**Leyla Rangel**): «no encontré» → ✅ dos fuentes
+  (reparto de Doblaje Wiki + página propia del actor o AniList).
+- **Padre e hijo** (Carlos Segundo y Carlos Olízar) y **madre e hija**
+  (Yanelly Sandoval y María José Moreno): ⚠️ extracto → ✅ texto literal
+  de Doblaje Wiki. Irina se grabó en **Mérida, Yucatán** (dato nuevo).
+- **Cajas de diálogo de los juegos de 3DS**: ❌ «no encontré capturas» →
+  vistas en 7 capturas de prensa: **etiqueta amarilla `#FFEA62`** con el
+  nombre, **caja crema `#F5F7E2`** y gótica negra ✅ (§7, §13).
+- **Modelos 3D de Sketchfab**: 2 de 7 con licencia comprobada → **los 7
+  CC BY**, leídos en la API ✅ (§4).
+- **Ending «欠けた月»**: una fuente → ✅ (wiki + créditos vistos en
+  2×06, 21:16).
+- **Las dos películas animadas**: el tema «始業のベル» es de la de **2016**
+  («365日の時間»), no de la de 2026 («みんなの時間», tema «Teacher»).
+- **Koro-sensei en 2×06, 0:05** (el aviso del examen): «postura
+  probable» → **visto**: traje ceremonial oscuro con cuello dorado y
+  sombrero de paja, no su toga (§2.5, §15).
+- **Pasar lista (2×24)**: «en el aula» → **de noche y al aire libre**, en
+  el monte (7:05-9:45) ✅.
+- **Una hoja de modelo mal rotulada en la wiki**: `Lerche Design Sketches
+  Karma Akabane.webp` **no es Karma**: su rótulo dice 「烏丸惟臣」;
+  probablemente es Karasuma ⚠️. No usarla para Karma.
+- **Koro-sensei en *J-Stars Victory VS***: ⚠️ de memoria → ✅ jugable
+  (Kanzenshuu y GameFAQs).
+
+**Añadido**
+
+- **3 hojas de contacto** en `hojas/` y la sección «Las hojas de
+  contacto» (qué número sirve para qué).
+- **§2.5**: 16 escenas vistas en vídeo con episodio y minuto (Internet
+  Archive y Dailymotion), y la hoja `fotogramas_01.jpg`.
+- Encuesta oficial de Jump hasta el 9.º puesto, con el reparto chicas y
+  chicos del voto (§9).
+- La campaña de temas de la reemisión del 10.º aniversario (2025-26), el
+  tema de la película 2026 y el *insert* de la muerte de Koro-sensei,
+  «旅立ちの歌» (§11).
+- Los **puntos 18 a 25** de `ENCARGO.md`, que no existían: técnica y cómo
+  replicarla, texturas 2D, gustos de cada personaje, por qué la aman
+  (ventas, premios, reseñas), fan dubs, colaboraciones (cafés 2026,
+  figuras, J-Stars), obras parecidas y el mundo por arcos (§18.1-18.8).
+- La guía para IA (§18) con **IA de texto**: frases reales por emoción.
+- La tabla **«Cumplimiento del encargo»**.
+
+**Los ⚠️**: había **99**; quedan los que se cuentan al final de la tabla
+de cumplimiento. Los que siguen: frases latinas con minuto (YouTube
+bloqueado), vídeo en 480p, fan dubs sin vistas, Irina enfadada y Nagisa
+triste o con miedo sin fotograma, emblema de la 3-E sin encontrar.
 
 ---
 

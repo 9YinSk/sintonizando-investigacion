@@ -1437,3 +1437,136 @@ cada línea dice de dónde sale.
   («I'm Just Ken»…); no encontró el subreddit, pero Arctic Shift sí respondió
   a la parte de voz.
 
+
+## Cumplimiento del encargo
+
+Juzgado con lo que de verdad dicen esta biblia y las cuatro partes.
+✅ hecho · ⚠️ a medias · ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Ventanas del Sistema (webtoon y anime), render del ejército, Igris, Beru, Tank, portadas y cartel, con tamaño medido. Algunas sólo vistas en miniatura (⚠️ en el punto). |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | Con capítulo y minuto (ep. 11, 12, tráiler), pero **ninguno llega a 1080p** (512×288 y 854×480). La escena real de Beru y el Rey Hormiga (ep. 24-25) no se vio: sólo vídeos de fans. |
+| 3 · Fan art y 3D con licencia | ⚠️ | Fan art con autor (Safebooru, Wallhaven) y 3D CC BY de Sketchfab. **No hay modelos de Beru, Tank, Kaisel ni Iron**; dos modelos son hechos con IA (sólo pose). |
+| 4 · Sitios, luz, paleta, texturas | ⚠️ | Hex medidos del portal violeta, la interfaz y la cueva; faltan texturas reales de hielo, piedra de templo y lluvia, y un fotograma sin episodio. |
+| 5 · Tipografía por uso | ⚠️ | Cinco letras libres comprobadas con fontTools (tildes, ñ, ¿, ¡). **Sin propuesta para grito ni cartel del mundo**; globo y onomatopeya sin comprobar; la letra oficial de la ventana no la nombra nadie. |
+| 6 · Cómo habla la serie | ✅ | Ventana NOTIFICATION medida en tres escenas, código de color por tipo de ventana, burbuja blanca sólo de Jinwoo. El nombre del sonido de la caja falta (⚠️). |
+| 7 · Personajes y popularidad | ✅ | AniList (favoritos) y Danbooru (dibujos): Jinwoo el más querido; Igris la sombra más querida; Beru la más citada en la comunidad hispana. No hay encuesta oficial de la editorial en las partes (⚠️). |
+| 8 · Doblaje latino | ⚠️ | Reparto de las sombras en dos fuentes (salvo Iron y Cha Hae-In, ⚠️). Frases textuales de Beru, Kargalgan y Kim Chul con muestra oficial. **Faltan frases latinas de Jinwoo con minuto** y oír si dice «Surge». |
+| 9 · Música y sonido | ⚠️ | Opening 1 y ending 1 mirados por storyboard; MV de Sawano. **Opening 2 «ReawakeR» y ending 2 «UN-APEX» no se pudieron ver** (YouTube pidió iniciar sesión). Sonido de la caja del Sistema, oído sin nombre. |
+| 10 · Vídeos con minuto | ⚠️ | Tráiler y dos clips reales mirados enteros, con minuto; tendencia «Arise» en TikTok. **No hay análisis de YouTube con minuto**; el tráiler hindi existe sin mirar. |
+| 11 · Videojuegos | ⚠️ | ARISE OVERDRIVE con 8 capturas de Steam. **Sin capturas de ARISE móvil** (Play Store «Not Found»); **cajas de diálogo del juego sin ver**; Game UI Database bloqueado (403). |
+| 12 · Fandom y qué NO hacer | ✅ | «Arise», «Mi rey», rivalidad Igris/Beru, lista de errores (burbuja blanca, Igris hablando, etiquetas de Beru mezcladas). |
+| 13 · Personajes a fondo | ⚠️ | Igris, Beru, Iron, Bellion, Kaisel, Kargalgan: carácter, cómo hablan y cómo suenan (voz.py medido). **Falta la cara de vergüenza** y fotogramas propios de Beru e Igris con minuto; Bellion no sale aún en el anime. |
+| 14 · Poses analizadas | ⚠️ | Jinwoo tiene sus poses con minuto; **Igris y Beru no llegan a 6-10 con fotograma propio**; no hay pose de celebrar con minuto. |
+| 15 · Vestuario y hex | ✅ | Jinwoo (cartel Cour 1, turnaround) y grietas de Igris `#9E7EFF` y Beru `#2CC6F2` medidos con Pillow. Algún traje sin hex propio (⚠️ en el punto). |
+| 16 · Paisajes y fondos | ⚠️ | Tres wallpapers de Wallhaven con autor y tamaño. **No hay fondos de fans de sitios vacíos** ni página oficial de descargas. |
+| 17 · Guía para IA | ✅ | Rasgos fijos, paleta, línea, palabras que ayudan y estropean, referencias por número; frases por emoción. Varias frases sólo en inglés o de secundarios (⚠️); no hay fondos de emoción propios de la serie. |
+| 18 · Estilo y técnica | ⚠️ | Quién dibuja y colorea (ELLE Corea), cómo replicar en Photoshop y Blender. Rig de los modelos sin comprobar; análisis de encuadre por emoción corto. |
+| 19 · Texturas 2D | ✅ | Holograma CC0 (OpenGameArt), círculo mágico (Clip Studio, gratis), humo (uso comercial libre), con licencia comprobada. |
+| 20 · Gustos y detalles | ⚠️ | Datos de la wiki y AniList (cumpleaños de Jinwoo, origen del nombre de Beru, Igris y Suho). **No existe databook** con comida, altura ni cumpleaños de ninguna sombra; casi todo de una fuente. |
+| 21 · Por qué la aman | ⚠️ | Razones con fuente (GameRant, CBR, AniList). **Escenas que hacen llorar sin minuto propio**; sin hilo de Reddit con votos ni vídeos de reacción. |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Dos TikTok verificados por oembed («Mi rey…»). **Sin vistas** y sin fandub de varios episodios en español. |
+| 23 · Colaboraciones, figuras, cosplay | ⚠️ | Fortnite (Igris), figura Youtooz, cosplay CC BY-NC-SA. Faltan cafés temáticos, gachas y otras marcas. |
+| 24 · Obras parecidas | ⚠️ | Género 시스템물 con dos fuentes coreanas y obras parecidas. TV Tropes bloqueado (403, sin Wayback); la comparación de peso de la ventana es lectura propia. |
+| 25 · Mundo, historia, símbolos | ✅ | Reglas, rangos, puertas, siete grados de sombra, historia por arcos. Ep. 15-20 y 22-23 poco detallados (⚠️). |
+| 3 conceptos de lámina | ✅ | A #castings, B #demos, C #autoroles, cada uno con objeto, sitio, personaje, cuadro, letra y profundidad. |
+| 40 fuentes distintas | ✅ | 42 webs distintas enlazadas (según `revisar.py`). |
+| Oficiales | ⚠️ | Crunchyroll, Aniplex y SawanoHiroyuki en YouTube, Steam, AniList, ELLE Corea. **Sin entrevistas del staff del anime** sobre la ventana ni artbook. |
+| Otros idiomas | ⚠️ | Coreano: ELLE Corea, Wikipedia coreana, thescoop.co.kr. **Japonés: una búsqueda, sin resultado útil.** |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés) y Doblaje Wiki a fondo. **TV Tropes y TCRF: 403** (Cloudflare); Wayback sin capturas útiles. |
+| Foros y comunidades | ⚠️ | Arctic Shift (Reddit) respondió poco; GameRant recoge el debate de fans. Sin hilo con votos. |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Llegados vía Safebooru y Wallhaven (con origen en Pixiv, Twitter, DeviantArt, ArtStation); no se consultaron directamente. |
+| Vídeo | ⚠️ | YouTube (storyboards), Dailymotion, Internet Archive, TikTok. Sin análisis con minuto. |
+| Código y recursos | ⚠️ | Sketchfab, OpenGameArt, Fontsource/jsDelivr, Clip Studio Assets. **No se consultó GitHub.** |
+| Doblaje latino | ✅ | Doblaje Wiki por API (397 muestras) y ANMTV/prensa vía biblia 03. Sin entrevistas en vídeo a los actores (⚠️). |
+| Hojas de contacto | ✅ | 3 JPEG propios bajo 3 MB: `sistema_01.jpg`, `sombras_02.jpg`, `vestuario_03.jpg`, descritos por número. |
+| `referencias.json` | ✅ | 127 referencias, las de las partes primero; tamaños medidos (116 con tamaño; las 11 sin tamaño son audios, letras y páginas de Sketchfab o pinceles). Se quitaron 6 de Kim Dokja (otra serie). |
+
+## Bitácora de búsqueda
+
+Juntada de las cuatro partes. Detalle completo en `partes/*.md`.
+
+### Recolector (`herramientas/recolectar.py`)
+
+- AniList, Doblaje Wiki (397 muestras de audio), Fandom, Danbooru,
+  Safebooru, Wallhaven, Openverse, Dailymotion, Internet Archive.
+- AnimeThemes: error 522 y luego se cuelga. MusicBrainz: obras ajenas.
+  Reddit: no encontró el subreddit.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **Fandom API (inglés)**: búsquedas «System window», «Army of Shadows»,
+  «Shadow Soldiers»; wikitext de `System` y `Shadows`; `System/Gallery`
+  (21 imágenes); tamaño real con `imageinfo`.
+- **Pillow**: 11 imágenes bajadas, miradas con Read y medidas (hex por
+  píxel y por filtro HSV).
+- **Sketchfab** (inglés): «Solo Leveling Igris», «Sung Jinwoo», «Solo
+  Leveling System», «shadow soldier». **Sin resultados**: Beru, Kaisel,
+  Tank, «hunter status window».
+- **Wallhaven**: «solo leveling shadow», «igris», más favoritos. **Sin
+  resultados**: «system», «dungeon», «gate», «scenery».
+- **Safebooru**: etiquetas de Kaisel, Tank, Iron. **Openverse**: «Solo
+  Leveling cosplay» (13, todos de esby.photo).
+- **WebSearch (inglés, 5)**: overlay de holograma CC0, pincel de círculo
+  mágico, pinceles de humo, Fortnite Igris (Sportskeeda, GosuGamers),
+  wallpaper oficial (sin resultado oficial), figura de Igris (Youtooz).
+- **No encontré**: 3D de Beru, Tank, Kaisel, Iron; fondos de sitios vacíos;
+  tercera fuente del arte Jinwoo+Tank.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+
+- **Fandom API**: búsquedas «opening theme song», «Shadow Army Arise»,
+  «Double Dungeon», «Cartenon Temple», «Demon Castle»; wikitext de los
+  temas musicales y de los ep. 2, 12 y 21.
+- **Dailymotion (inglés y francés)**: diez búsquedas; salen los clips reales
+  x8xqany y xb7cnoi (mirados enteros). `x9gm13k` y `x9j1zko` dieron 404.
+- **Internet Archive**: espejo del tráiler oficial, T1 doblada en latino (no
+  usada por peso), S2E11 (sólo ese episodio de la T2).
+- **YouTube (yt-dlp)**: storyboards de LEveL, request y tres MV de Sawano.
+  **Fallaron por inicio de sesión**: HØWL, tráiler de AniList, ReawakeR
+  (`C0zMWogztQs`) y UN-APEX (`KxeHOxO3A3I`).
+- **WebSearch (inglés, 1)**: tendencia «Arise» en TikTok.
+- **Herramientas**: `fotogramas.py --cortes` en 4 vídeos (91, 43, 77 y 87
+  planos); `estilo.py` en 3 fotogramas.
+- **No encontré**: opening 2 y ending 2 en vídeo; fotograma real del ep.
+  24-25; nombre del sonido del Sistema.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- Base: `datos-voz.md`; cruce con la biblia 03 (sin repetir consultas).
+- **Danbooru**: `kim_dokja` es de *Omniscient Reader's Viewpoint*: fuera.
+- **Fandom API**: Iron, Kaisel, Bellion, Shadows, Igris, Beru.
+- **AniList GraphQL**: Beru, id 159849, 1384 favoritos.
+- **Jikan/MAL**: 504 dos veces; no se insistió.
+- **voz.py** (Whisper local): 5 muestras de Doblaje Wiki (Beru ×3,
+  Kargalgan, Kim Chul).
+- **Arctic Shift**: 3 variantes en r/sololeveling, sin resultados ordenables.
+- **WebSearch (inglés, 2)**: debate Igris/Beru (GameRant, CBR); «"Beru"
+  "mi rey" doblaje latino TikTok» (dos TikTok, verificados con oembed).
+- **No encontré**: gustos o alturas oficiales de las sombras (no existen);
+  voz de Iron sombra; voz latina de Bellion (no animado); hilo de Reddit
+  con votos sobre Beru.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **Fandom API**: wikitext de System, Class_Ranks, Dungeon(s), Shadows,
+  Shadow_Authority, Guilds, Ahjin_Guild; imágenes de la ficha del Sistema.
+- **Steam** (appid 2373990): 8 capturas de ARISE OVERDRIVE.
+- **Google Play**: `com.netmarble.slarise` → «Not Found».
+- **Game UI Database, TCRF y TV Tropes**: 403 de Cloudflare; Wayback sin
+  capturas útiles de TV Tropes.
+- **Fontsource/jsDelivr**: Orbitron, Audiowide, Electrolize, Exo 2,
+  Rajdhani; glifos con fontTools. Google Fonts pidió reCAPTCHA.
+- **Japonés (1)**: «ソロレベリング システム画面 デザイン インタビュー
+  Production I.G» — sin resultados útiles.
+- **Coreano (2)**: «나 혼자만 레벨업 시스템창 디자인 인터뷰 웹툰» (ELLE
+  Corea); «시스템물 웹소설 장르 나혼자만 레벨업 정의» (Wikipedia coreana,
+  thescoop.co.kr).
+- **No encontré**: letra oficial de la ventana; capturas de ARISE móvil;
+  menús de Game UI Database/TCRF; TV Tropes.
+
+### Redactor
+
+- Sin búsquedas nuevas: sólo las partes. Midió con Pillow las 17 imágenes
+  de AniList sin tamaño para `referencias.json`.
