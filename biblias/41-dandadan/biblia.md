@@ -405,3 +405,118 @@ Town): §17.
   la tabla final. Las texturas 2D del manga sí están (§20).
 
 ---
+
+## 6 · Tipografía: una letra para cada uso
+
+Las tildes, la ñ, ¿ y ¡ se comprobaron **abriendo cada archivo con
+fontTools** (parte de texto), no de memoria.
+
+### 6.1 El logo
+
+- **No es una fuente: es rotulado a mano.** Katakana enorme
+  「ダンダダン」, **rojo sangre, con cortes diagonales** en cada trazo,
+  como rasgado. Visto en la portadilla del capítulo 1
+  ([1481×1079](https://static.wikia.nocookie.net/dandadan/images/6/66/Chapter_1.png))
+  sobre una foto industrial gris (tuberías). ✅
+- En el foro de dafont dicen que recuerda a **Babarun** (de pago),
+  pero que «probablemente es rotulado a mano» ✅
+  ([hilo 1](https://www.dafont.com/forum/read/573074/dandadan),
+  [hilo 2](https://www.dafont.com/forum/read/583537/dandadan-looking-font)).
+- Lo firma Youhei Okashita (§3.2).
+
+### 6.2 La tabla
+
+| Uso | Cómo es en la serie | Letra libre | ¿Tildes, ñ, ¿ y ¡? | Licencia |
+|---|---|---|---|---|
+| **Logo o título** | rojo, cortes diagonales | **[Rubik Glitch](https://fonts.google.com/specimen/Rubik+Glitch)** (la más cercana, comparada lado a lado) · otras: Rubik Distressed, Chokokutai | ✅ las tres | OFL |
+| **Globo normal** | óvalo fino, texto de manga | **Anime Ace 2.0 BB** ([dafont](https://www.dafont.com/anime-ace-bb.font)) | ⚠️ tildes y ñ sí; **¿ y ¡ NO** (sus 3 estilos) | gratis sólo para cómic independiente |
+| Globo normal, si hace falta ¿¡ | — | **Kalam** o **[Caveat](https://fonts.google.com/specimen/Caveat)**, o importar ¿¡ a Anime Ace | ✅ | OFL |
+| **Grito** | globo dentado | **[Bangers](https://fonts.google.com/specimen/Bangers)** | ✅ | OFL |
+| **Pensamiento** | no tiene globo propio (§7) | **Caveat** | ✅ | OFL |
+| **Onomatopeya** | katakana gruesa ⚠️ ningún panel con onomatopeya visible | **[Rampart One](https://fonts.google.com/specimen/Rampart+One)** (Dela Gothic One ya es de One Piece y JoJo en la guía) | ✅ | OFL |
+| **Cartel del mundo** | tiendas, señales de un Japón actual | **[Zen Kaku Gothic New](https://fonts.google.com/specimen/Zen+Kaku+Gothic+New)** o M PLUS 1p | ✅ | OFL |
+| **Interfaz de juego** | no hay juego propio (§13) | **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**, neutra | ✅ | OFL |
+| **Rótulos del anime** | tráiler T2: 「宇宙怪獣 出現!」 en blanco grueso | Zen Kaku Gothic New en negrita | ✅ | OFL |
+| **Subtítulos o créditos** | ⚠️ la fuente de la plataforma; créditos del tráiler en sans fina blanca sobre negro | Noto Sans JP ⚠️ de memoria, sin fuente | — | OFL |
+
+**Aviso para todo el equipo**: Anime Ace 2.0 BB **no trae ¿ ni ¡**.
+Lo comprobó la parte de texto en los archivos `animeace2_reg`, `_bld`
+e `_ital`. La guía de cuadros de diálogo del equipo no lo decía. En
+`DECISIONES.md` ya pasó lo mismo con Haikyuu.
+
+---
+
+## 7 · Cómo hablan en pantalla: el cuadro de diálogo
+
+Dandadan **no tiene caja de diálogo propia** (no hay videojuego, §13).
+Su voz visual es la del **manga de Tatsu** y el **código de color**
+del anime.
+
+### 7.1 En el manga ✅
+
+- **Globo normal**: óvalo limpio de **trazo fino**, con una **colita
+  corta y puntiaguda** hacia quien habla. Sin relleno ni sombra. Visto
+  en «Turbo Granny's farewell»
+  ([1013×525](https://static.wikia.nocookie.net/dandadan/images/6/62/Turbo_Granny%27s_farewell.png)).
+- **Acción**: trama de puntos muy densa en la ropa del yokai,
+  **pinceladas negras gruesas y curvas** para el movimiento, y
+  esquirlas afiladas alrededor del golpe
+  ([1356×1048](https://static.wikia.nocookie.net/dandadan/images/b/b3/Acrobatic_Silky_attacks_Momo.png)).
+- **Lo sobrenatural que se va**: casi sin línea. **Una nube de puntos
+  de trama que se dispersa como purpurina** sobre negro, con siluetas
+  a contraluz
+  ([2879×2104](https://static.wikia.nocookie.net/dandadan/images/e/eb/Acrobatic_Silky_goes_to_heaven.png)).
+- Los globos se ven también sobre trama en la hoja 2 (n.º 70, 73 y 84).
+
+### 7.2 En el anime: un color por bando ✅
+
+El director **Fūga Yamashiro** da **un color a cada especie** para
+que se sepa de un vistazo de qué mundo es cada cosa
+([entrevista en Mantan-Web](https://en.mantan-web.jp/e_article/20241017dog00m200033000c.html);
+confirmado por las [notas de producción de Sakuga Blog](https://blog.sakugabooru.com/2024/10/03/dandadan-production-notes-01/),
+donde Sophie Li hace los *color scripts*):
+
+- **Rojo = Turbo Granny.** Guiño a Ultraman: Okarun transformado se
+  queda «rojo» como un héroe *tokusatsu*. En el ep. 4 casi toda la
+  pantalla es roja (§2).
+- **Azul frío = los aliens Serpo.**
+- **Turquesa = los poderes psíquicos** (el cian medido del ep. 1:
+  `#94EDF4`, `#1696EB`).
+- Pistas escondidas: la **luna amarilla** es la de verdad; la **luna
+  azul pálida** es un OVNI disfrazado.
+- Y la técnica cambia por bando: **aliens en 3D (fríos,
+  geométricos)**, **yokai a mano en 2D (cálidos, orgánicos)**
+  ([ScreenRant](https://screenrant.com/dandadan-anime-episode-2-director-unique-animation-color-ghost-alien/)).
+
+### 7.3 Lo que se lee en pantalla
+
+- **Rótulos del tráiler de la T2** ([Dailymotion](https://www.dailymotion.com/video/x9puf5e)):
+  「金玉の謎」 («el misterio de la bola dorada», 0:23-0:26) y
+  「宇宙怪獣 出現!」 («¡aparece un monstruo espacial!», 0:44-0:48).
+- **Okarun piensa en voz alta**: largos monólogos interiores. En el
+  ep. 5 ensaya el saludo de la mañana: 「昨日の夜、散々練習したんだ!」
+  («¡anoche lo practiqué un montón!»,
+  [0:00](https://archive.org/details/english-sub-s-01.-e-05?t=0)) y se
+  hunde pensando que es un amigo «de reserva»
+  ([7:00](https://archive.org/details/english-sub-s-01.-e-05?t=420)).
+  Transcripción de Whisper en japonés ⚠️ (revisar palabras sueltas).
+- ⚠️ **Pensamiento**: no se encontró un globo de pensamiento propio.
+  Propuesta: usar la **nube de trama dispersa** (7.1) en vez de un
+  globo con burbujitas. Es lo que la serie usa para lo intangible.
+- ⚠️ En la wiki hay un «Miniature Communicator's HUD» (hoja 2, n.º 82):
+  una interfaz dentro de la historia. Sin investigar.
+- ⚠️ **Subtítulos** latinos: fuente estándar de Netflix y Crunchyroll,
+  no una propia.
+
+### 7.4 El cuadro para la lámina (propuesta del redactor)
+
+- **Globo del manga**: óvalo de trazo fino negro, colita corta. Fondo
+  **papel crema con una trama suave** en la sombra, nunca blanco
+  plano de programa.
+- **El color del bando va en el borde o en la trama del fondo**:
+  rojo `#C02343` si habla Turbo Granny, turquesa `#5BD5EA` si habla
+  Momo con el poder, gris carbón si habla Okarun normal.
+- Letra: Anime Ace 2.0 BB (con ¿¡ importados) o Kalam; grito en
+  Bangers; onomatopeya en Rampart One.
+
+---
