@@ -228,3 +228,192 @@ Colores medidos con `herramientas/estilo.py` sobre **fotogramas reales** (vídeo
 - Madera de vigas y escalones: [`Wood095`](https://ambientcg.com/view?id=Wood095), `Wood094`, `Wood092`.
 - Patio de piedra: `PavingStones138`.
 - Musgo sobre piedra: no hay una con ese nombre; lo más cercano, `Rock064` y `Ground037` ⚠️.
+
+## Punto 5 · Tipografía: una letra por uso
+
+**Dos logos distintos.** El de las películas (y de *TDK*) y el de los cómics de Ape Entertainment. El manga japonés usa rotulación de manga de verdad.
+
+**El logo de las películas** ✅ (medido en [el PNG oficial](https://static.wikia.nocookie.net/kungfupanda/images/7/73/Kung-Fu-Panda-Movie-Logo-psd10560.png), 1811×612, y en [el título de *TDK*](https://static.wikia.nocookie.net/kungfupanda/images/b/bc/TDK-title-card.jpg)): mayúsculas gruesas de bordes rectos y puntas afiladas, **como madera o piedra tallada**, no pincel. «KUNG FU» en arco cóncavo arriba; «PANDA» en arco convexo abajo, como un cartel de templo. Colores: **oro `#F0C42D`** en «KUNG FU»; **rojo degradado `#CE2125` → `#F1352C`** en «PANDA», con **borde oro naranja `#E66A1D`**. En *TDK* (2022) el oro es más claro, `#F6DE59`, y «PANDA» lleva escamas de dragón talladas.
+
+**El logo del cómic** ✅ ([portada](https://static.wikia.nocookie.net/kungfupanda/images/4/4a/KFPComicCover1.jpg)): mayúsculas condensadas, degradado rojo naranja, bordes rotos y gastados, sobre franjas rojas de bambú. Letra sin identificar ⚠️.
+
+**Una letra para cada uso** (todas abiertas con `fontTools` por el investigador de texto):
+
+| Uso | Cómo es en la obra | Letra libre propuesta | Tildes, ñ, ¿ y ¡ |
+|---|---|---|---|
+| **Logo o título** | Tallado, en arco, oro y rojo (arriba) | **[Rampart One](https://fontsource.org/fonts/rampart-one)** (OFL). Más angulosa y pop que el logo: sirve para contundencia, no para calcarlo | ✅ todas |
+| Réplica del logo | Fan font «Kung Fu Panda» de HackFonts (FontSpace, 2017) | **Sólo uso personal**: no es libre. No se pudo descargar ⚠️ | ⚠️ sin comprobar |
+| **Cartel del mundo** | Tabla de madera con **caracteres chinos tallados y pintados en rojo** (神龍大侠, 麵) | Los caracteres de verdad en chino; el texto en español con **Yuji Syuku** o **Yuji Boku** (OFL, aire de pincel) | ✅ todas |
+| **Pergamino y narración** | Texto blanco que sube en pantalla (juego de 2008); voz en off que narra (películas) | **Yuji Syuku** para narración; **[Noto Sans SC](https://fontsource.org/fonts/noto-sans-sc)** si hace falta mezclar chino y español | ✅ todas |
+| **Onomatopeya y grito** («SKADOOSH») | En el manga, katakana gigante dibujada dentro del dibujo (ドガ, ガシャ, グルグル) | **Long Cang**, **Ma Shan Zheng**, **Zhi Mang Xing** o **Liu Jian Mao Cao** (OFL, pincel chino) | ❌ **ninguna** trae tildes, ñ ni ¿ ¡: sólo para palabras sueltas sin acentos. Para «¡SKADOOSH!» con ¡, Rampart One |
+| **Globo normal** | Sólo en el manga: globos redondos de trazo fino con cola | No hay letra identificada ❌. Propuesta práctica: Noto Sans SC | ✅ |
+| **Pensamiento** | No se encontró una forma propia de globo de pensamiento ❌ | — | — |
+| **Interfaz de juego** | Descrita en texto, sin captura (punto 11) ❌ | Noto Sans SC como apoyo | ✅ |
+| **Subtítulos y créditos** | Letra no identificada en ninguna película ❌ | Noto Sans SC | ✅ |
+
+**Regla práctica:** el título, en Rampart One oro y rojo con los hex del logo; el texto largo, en Yuji Syuku o Noto Sans SC; el pincel chino, sólo para una palabra sin acentos.
+
+## Punto 6 · Cómo hablan en pantalla (el cuadro de Kung Fu Panda)
+
+**Resumen: Kung Fu Panda no habla en globos. Habla en pergaminos.** Ninguno de sus dos cómics oficiales tiene un globo reconocible. El objeto de texto más fuerte es un **pergamino enrollado en varas de madera**. Cumple la regla 1 del dueño («un objeto real en un sitio real») mejor que cualquier viñeta.
+
+**1. Los Sacred Scrolls (pergaminos sagrados)** ✅ ([ficha de la wiki](https://kungfupanda.fandom.com/wiki/Sacred_Scrolls) y [fotograma de *LoA*](https://static.wikia.nocookie.net/kungfupanda/images/7/75/Sacred-scroll.JPG), 1440×810, mirado)
+- **10.000 rollos** guardados en la **Cueva de los Misterios**, bajo el Palacio de Jade.
+- Enseñan técnicas **casi sin palabras**: **figuritas dibujadas en fila**, como un *flipbook* (tortugas haciendo posturas).
+- Papel beige envejecido, un **yin-yang** pintado y nubes estilizadas; se enrollan en varas de madera.
+- Hex (con la luz verde jade de la escena encima): pergamino `#BFB55B` `#C3C38C` · yin-yang `#4E4D36` `#515339`.
+
+**2. El Pergamino del Dragón** ✅ ([ficha](https://kungfupanda.fandom.com/wiki/Dragon_Scroll))
+- Pergamino **rojo y verde** en un **estuche metálico con dragones dorados**.
+- Por dentro: **una superficie dorada que refleja, en blanco**. No hay ni una palabra.
+- El mensaje: «no hay ingrediente secreto, eres tú». En H3-83 se ve a Po mirándolo, con su cara reflejada.
+
+**3. La narración de cuento** ✅ (dos fuentes)
+- En el juego *Kung Fu Panda* (2008), antes de cada nivel **Po narra y el texto sube en blanco sobre fondo oscuro**, como unos créditos ([ficha del juego](https://kungfupanda.fandom.com/wiki/Kung_Fu_Panda:_The_Game)).
+- Las películas abren con voz en off que narra (Oogway o Po).
+
+**4. El manga japonés** ✅ (dos páginas vistas: [Kfpmanga-1](https://static.wikia.nocookie.net/kungfupanda/images/8/8d/Kfpmanga-1.jpg) 800×1327 y [Kfpmanga-4](https://static.wikia.nocookie.net/kungfupanda/images/6/63/Kfpmanga-4.jpg) 800×1310)
+- Personajes **muy *chibi***: cabezas grandes, ojos de puntito. Nada que ver con el 3D de las películas.
+- **Globos redondos de trazo fino con cola**, texto vertical en columnas, **furigana** sobre los kanji difíciles (よわ sobre 弱い, あま sobre 甘く). Página 83: «まだまだっ» («¡todavía, todavía!»).
+- **Onomatopeyas katakana gigantes**, gruesas e irregulares (ドガ, ガシャ, グルグル), dibujadas dentro de la viñeta; ocupan medio cuadro.
+- Viñetas con bordes en zigzag para los golpes.
+
+**5. El cómic de Ape Entertainment** ✅ (vista una viñeta de acción sin diálogo, [«173 Assassins»](https://static.wikia.nocookie.net/kungfupanda/images/a/aa/Croc-assassins.jpg), 414×640): colores planos y vivos, **sin línea negra marcada**. No se vio ninguna página con globos ❌.
+
+**6. *The Dragon Knight* cambia de marco según el tema** ✅ ([ficha de la serie](https://kungfupanda.fandom.com/wiki/Kung_Fu_Panda:_The_Dragon_Knight), citando a *Animation Magazine*): cuando se habla de un cómic, la escena se anima **como viñetas**; cuando se habla del pasado inglés, **como una litografía británica**.
+
+**7. El cartel del mundo:** la fonda **«Dragon Warrior Noodles & Tofu»** ✅ (antes «Golden Harvest Noodle Restaurant»; se renombró en honor a Po). Tabla de madera `#974C2F` con caracteres rojos `#652013` (神龍大侠 y 麵), **entre dos dragones tallados**, sobre el arco de luna de la entrada. Al lado, un cartel pequeño a juego con la silueta de Po ([fotograma](https://static.wikia.nocookie.net/kungfupanda/images/4/47/Newnoodleshop.jpg)).
+
+**Qué cuadro usar para cada cosa:**
+- Explicar un canal paso a paso → **Sacred Scroll** con figuritas en fila.
+- Un mensaje de «el secreto eres tú» → **Pergamino del Dragón**, dorado y reflectante.
+- Un nombre o una bienvenida → **cartel tallado** de madera con letras rojas.
+- Un golpe o un grito → onomatopeya grande a pincel, integrada en el dibujo (como el manga), nunca un globo blanco.
+- **Ojo:** Shrek (59) usa «un libro de cuentos que se abre». Para no repetir, aquí el pergamino debe ser **claramente** el Sacred Scroll o el del Dragón.
+
+## Punto 7 · Personajes y popularidad
+
+**Encuesta oficial:** no existe una de DreamWorks o Nickelodeon tipo «vota tu favorito». Se buscó («Kung Fu Panda personaje favorito encuesta ranking», «official character poll vote») ⚠️. Lo que sí hay:
+
+**1. Dibujos de fans en [Danbooru](https://danbooru.donmai.us/posts?tags=tigress_%28kung_fu_panda%29)**, medido en vivo el 25-sep-2026 (`counts/posts.json`, dos veces) ✅:
+
+| Personaje | Dibujos |
+|---|---|
+| **Tigresa** | **80** |
+| Tai Lung | 37 |
+| Po | 35 |
+| Maestro Shifu | 15 |
+| Oogway | 7 |
+| Total `kung_fu_panda` | 174 |
+
+La lista de `datos-voz.md` (Hong Meiling, Link, Pikachu…) **no sirve**: es la lista general del sitio, no la de Kung Fu Panda.
+
+**2. [Reddit r/kungfupanda](https://www.reddit.com/r/kungfupanda/comments/1g8ntqc/)** ✅
+- «Who's your favorite kung fu panda character and why?»: 178 votos, 78 comentarios.
+- Ranking de los Cinco Furiosos de peor a mejor: 110 votos, 33 comentarios ([hilo](https://www.reddit.com/r/kungfupanda/comments/1mhthmv/)).
+- **«Who is your favorite character and why is it Tai Lung?»**: 103 votos, 48 comentarios ([hilo](https://www.reddit.com/r/kungfupanda/comments/1ehtenm/)).
+- Headcanon de Tai Lung (la manta morada de bebé acabó siendo su pantalón morado): **581 votos** ([hilo](https://www.reddit.com/r/kungfupanda/comments/1r29jik/)).
+- «Who is your favorite side character from KFP franchise?»: 60 votos, 18 comentarios.
+
+**3. Otros datos (una fuente cada uno) ⚠️**
+- Lista de villanos de fans (Ranker, vista sólo en el resumen de búsqueda): **Tai Lung, Lord Shen, Kai, la Camaleona**, en ese orden.
+- TV Tropes (403; sólo el resumen): «Master Chicken», el zombi de KFP3, es querido aunque casi no habla; en *LoA* se señala a «Peng».
+- Omar Chaparro ganó el premio a doblaje favorito en los **Kids' Choice Awards México** por KFP2, según El Diario (Bolivia) y El Sol de México, que no citan la gala ni el año.
+
+**Conclusión para las láminas:**
+- **Tigresa** es la secundaria más querida con datos (casi el doble de dibujos que Po). Es la apuesta si se busca «el secundario que gusta más que el principal».
+- **Tai Lung** es el villano favorito, con cariño real del fandom.
+- **Po** es la cara de la saga y, en latino, la voz de una estrella.
+
+**Quién es quién, en una línea** (wiki oficial, detalle en el punto 13):
+
+| Personaje | Qué es | Objeto | Con quién aparece |
+|---|---|---|---|
+| **Po** | Panda gigante, el Guerrero Dragón | fideos y *dumplings*; el Pergamino del Dragón | Shifu, los Cinco, el Sr. Ping, Li |
+| **Tigresa** | Tigresa, la más fuerte de los Cinco | ninguno: pelea sin armas y sin usar las garras | Po, Shifu, los Cinco |
+| **Shifu** | Panda rojo, maestro del Palacio | el bastón que le deja Oogway | Po, Tigresa, Oogway, Tai Lung |
+| **Oogway** | Tortuga de unos mil años, fundador espiritual | el **Bastón de la Sabiduría**; el Árbol del Durazno | Shifu, Po, Kai |
+| **Sr. Ping** | Ganso, padre adoptivo de Po | la fonda de fideos | Po, Li |
+| **Tai Lung** | Leopardo de las nieves, hijo adoptivo de Shifu | pantalón morado, cinturón tachonado | Shifu, Tigresa, Po |
+| **Mono, Mantis, Víbora, Grulla** | Los otros cuatro Furiosos | sombrero de Grulla; muñequeras de Mono | siempre en grupo |
+| **Lord Shen, Kai, la Camaleona** | Villanos de KFP2, KFP3 y KFP4 | cañones de Shen; amuletos de jade de Kai | — |
+| **Zhen** | Zorra ladrona, aliada nueva en KFP4 | — | Po |
+
+## Punto 8 · Doblaje latino y frases textuales
+
+**Sí hay doblaje latino**, hecho en México, en las 4 películas. Fichas leídas por la API de [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Kung_Fu_Panda) ✅. Segunda fuente de que existe y de dónde se emitió: [The Dubbing Database](https://dubdb.fandom.com), página «Kung Fu Panda», versión Latin American Spanish (Star Channel, Nickelodeon, Canal 5, Las Estrellas, Telefe, RCN, Caracol, Canal 13 Chile…) ✅.
+
+| Película | Año | Estudio | Dirección | Traducción | Grabación |
+|---|---|---|---|---|---|
+| Kung Fu Panda | 2008 | Genaud S.A. de C.V. (New Art Dub, ver nota ⚠️) | Alejandro Mayén | Miguel Eduardo Reyes | mayo 2008 |
+| Kung Fu Panda 2 | 2011 | New Art Dub | Alejandro Mayén | Miguel Eduardo Reyes | abril 2011 |
+| Kung Fu Panda 3 | 2016 | LaboPrime | Héctor Emmanuel Gómez Gil | Miguel Eduardo Reyes Aldasoro | jun-dic 2015 y ene 2016 |
+| Kung Fu Panda 4 | 2024 | Iyuno México | Xóchitl Ugarte | Miguel Eduardo Reyes | — |
+
+**Reparto** (✅ = el mismo nombre en 2 o más fichas de Doblaje Wiki, o además en prensa):
+- **Po: Omar Chaparro**, las 4 ✅ (4 fichas + El Sol de México, SDP Noticias y Milenio).
+- **Maestro Shifu: Pedro Armendáriz Jr.** (1 y 2); desde la 3, **Octavio Rojas** ✅. Armendáriz Jr. murió el 26-dic-2011, antes de grabarse la 3 ([Wikipedia](https://es.wikipedia.org/wiki/Pedro_Armend%C3%A1riz_Jr.)). En los créditos de la 1 lo acreditan por error como su padre.
+- **Tigresa: Erica Edwards**, las 4 ✅ (en la 4 sólo gestos y reacciones).
+- **Oogway: Esteban Siller** (1); **Pedro D'Aguillón Jr.** (3) ✅. No habla en la 2 ni en la 4.
+- **Tai Lung: Blas García** (1 y 4) ✅. Lo llamaron **el último día de grabación**, porque el famoso elegido no convenció al cliente ⚠️ (una fuente). En la pelea con Shifu dice «Shifu» con «ch» por error; se quedó así.
+- **Mono:** en la 1 hubo **dos versiones**: Víctor Antonio Moreno para Latinoamérica y **Bruno Pinasco sólo para Perú**; desde la 2, **Juan Alfonso Carralero** ✅.
+- **Mantis: Raúl Anaya** (las 4) ✅ · **Víbora: Liliana Barba** (1-3) ✅ · **Grulla: Moisés Iván Mora** (las 4) ✅.
+- **Sr. Ping: Ismael Castro**, las 4 ✅. En inglés, James Hong también hace las 4.
+- **Li Shan:** Arturo Casanova (2); Carlos Segundo (3 y 4) ✅.
+- **Lord Shen:** Sergio Gutiérrez Coto ⚠️ (una ficha) · **Kai:** Humberto Solórzano ✅ · **Mei Mei:** Mariana Treviño ⚠️ · **Zhen:** Verónica Toussaint ✅ (Doblaje Wiki, SDP Noticias, Milenio).
+- **La Camaleona: Aida López**, *star talent*: la primera villana de la saga con voz de famosa ✅ (Doblaje Wiki, Univision, La Prensa Gráfica).
+- **Han** (KFP4): Nicolás Frías según Doblaje Wiki; SDP Noticias dice Roberto Salguero ⚠️ sin resolver.
+- **Panda Pig** (KFP4, cameo de MrBeast): **no se dobló** («No aplica» en la ficha) ✅.
+
+**Datos de interés de la ficha de la 1** (Doblaje Wiki):
+- Po iba a ser de Rubén Trujillo, ya elegido en el *casting*; Alfredo Gabriel Basurto, que lo dobló en los tráileres, dice que era él hasta el último momento, antes de que se eligiera a un famoso ⚠️.
+- **Muchos gritos de Po, Tigresa y Tai Lung se quedaron en inglés**, en la mezcla original ⚠️.
+- En una escena se mezcla el grito latino de Po con el original (error de mezcla).
+
+**Frases textuales del doblaje, oídas** (audio oficial de las fichas de KFP3 en Doblaje Wiki, pasado por `voz.py` con Whisper y Parselmouth) ✅. El minuto es **el de la muestra**, no el de la película:
+
+| Personaje (actor) | Frase | Minuto | Cómo suena |
+|---|---|---|---|
+| **Po** (Omar Chaparro), [muestra](https://static.wikia.nocookie.net/doblaje/images/4/4a/Po_kungfupanda3.ogg/revision/latest?cb=20170102050455&path-prefix=es) | «¡La justicia está a punto de ser servida!» | 0:01 | 166 Hz (medio), 22.9 semitonos («muy expresiva»), 3.22 palabras/s (rápida) |
+| | «Oigan, jamás subestimen el poder de una entrada dramática.» | 0:04 | |
+| | «Papá… no tienes que preocuparte por volver a perderme.» | 0:17 | |
+| **Shifu** (Octavio Rojas) | «¿Entrada dramática? El Guerrero Dragón está en lo correcto. Antes de una batalla de puños, viene la batalla de mente.» | 0:00 | 123 Hz (grave), 20.8 semitonos, 3.25 palabras/s |
+| | «¿El estudiante de verdad se convirtió en el maestro?» | 0:28 | |
+| **Tigresa** (Erica Edwards) | «Kai atacó el Valle. Se apoderó de los maestros de China, incluyendo a Shifu y a los demás. Destruyó todo, Po.» | 0:00 | 180 Hz, 18.9 semitonos, **3.75 palabras/s (la más rápida)** |
+| | «Viene por ti, Po. Viene por todos los pandas.» | 0:11 | |
+| **Oogway** (Pedro D'Aguillón Jr.) | «Paz interior. Paz interior. Cosquillas en la nariz. Por fin. Paz interior. Guerrero dragón.» | 0:00 | 112 Hz, 14.9 semitonos (el más contenido), **1.21 palabras/s (lentísimo)** |
+| | «Por fin te convertiste en el panda que estabas destinado a ser.» | 0:23 | |
+| **Kai** (Humberto Solórzano) | «Maestro Oogway, pues vengo listo para una revancha. En 500 años en el Reino de los Espíritus, se aprenden algunas cosas.» | 0:00-0:06 | **94 Hz (el más grave)**, 27.6 semitonos (de susurro a grito) |
+| | «Y esta vez no vas a estar ahí para detenerme.» | 0:24 | |
+
+**Lo que falta ⚠️:**
+- **«¡Skadoosh!» en latino**: no hay muestra de la escena de KFP1 en Doblaje Wiki, y el clip doblado no se encontró (YouTube bloqueado; nada en Dailymotion ni Archive).
+- Frases de **clips oficiales doblados con minuto de película**: no se transcribieron. Hay un [tráiler doblado latino de KFP4](https://www.dailymotion.com/video/x8qj2wr) en Dailymotion (FilmAffinity, 2:30) **sin transcribir**.
+- «No hay ingrediente secreto» en latino, textual y con audio.
+
+## Punto 9 · Música y sonido
+
+**No hay openings ni endings con letra**: la música de las películas es partitura instrumental. Las excepciones son **«Kung Fu Fighting»** en los créditos de KFP1 y **«…Baby One More Time»** de Tenacious D en KFP4. El tema de *LoA* sí tiene letra.
+
+**Bandas sonoras** ([MusicBrainz](https://musicbrainz.org)) ✅:
+- **KFP1** (2008) · Hans Zimmer y John Powell · [lista de pistas](https://musicbrainz.org/release/2c87885f-f645-42cf-8466-df9155af5405). Pistas clave: **«Oogway Ascends»** (2:03), la muerte de Oogway · «Sacred Pool of Tears» (9:51) · «Po Vs Tai Lung» (2:40) · «Peach Tree of Wisdom» · «Dragon Warrior Rises».
+- **«Kung Fu Fighting»**, versión de Cee-Lo Green y Jack Black (original de Carl Douglas, 1974), pista 17: suena sobre **el resumen 2D rojo y naranja de los créditos** ✅ (pista del álbum y [clip de los créditos](https://www.dailymotion.com/video/x31ufcj?t=1), 0:00-1:33).
+- **KFP2** (2011) · Zimmer y Powell · [lista](https://musicbrainz.org/release-group/49b8b8eb-1bd6-4bf4-8c1c-ba275eedcef3). Pista 3, **«Inner Peace»**: la escena de meditación ✅.
+- **KFP3** (2016) · Hans Zimmer · [ficha](https://musicbrainz.org/release-group/4f37da74-2f3d-4e71-8837-baeff9273bdb).
+- **KFP4** (2024) · Hans Zimmer y Steve Mazzaro · [ficha](https://musicbrainz.org/release-group/0c0f2bd7-4911-4cad-bfa0-999d46c2755c). Con «…Baby One More Time» de Tenacious D.
+- ***The Dragon Knight*** (2022-23) · Kevin Lax y Robert Lydecker · [ficha](https://musicbrainz.org/release-group/3e747bc1-0566-4a62-b0f4-88d704d06ee9).
+- **Tema de *Legends of Awesomeness*** · dos subidas en Internet Archive ([tvtunes_32143](https://archive.org/details/tvtunes_32143) y [tvtunes_22288](https://archive.org/details/tvtunes_22288)) ✅. Letra: *«Hear the legends of the Kung Fu Panda! Raised in a noodle shop, never seekin' glory or fame, he climbed a mountain top and earned the Dragon Warrior name!»*. Autor: Peter Hastings; lo cantan Jeremy Zuckerman y Benjamin Wynn (The Track Team) ⚠️ (una fuente).
+- Reddit: el tema «Save Kung Fu» es tan querido que los fans notan que se reutiliza en otra escena de viaje ([hilo](https://www.reddit.com/r/kungfupanda/comments/1chj680/)) ⚠️.
+
+**Qué suena en las escenas emotivas** (oído en los clips):
+- **La muerte de Oogway:** silencio casi total y cuerdas suaves («Oogway Ascends»).
+- **La paz interior:** un solo instrumento de cuerda pulsada, y la **gota de agua** que cae.
+- **Las peleas:** percusión rápida **sincronizada con cada golpe o mordisco** ✅. [Collider](https://collider.com/kung-fu-panda-trilogy-action-animation-strengths/) habla de «diseño de sonido de inspiración musical» ⚠️.
+
+**La onomatopeya de la saga: «¡Skadoosh!»** ✅
+- Es el grito de Po al usar la **Llave del Dedo de Wuxi** contra Tai Lung. En la wiki, «Skadoosh» redirige a [Wuxi Finger Hold](https://kungfupanda.fandom.com/wiki/Wuxi_Finger_Hold).
+- El teaser de KFP4 lo **rotula en pantalla** a los 0:08, 0:23, [0:39](https://www.dailymotion.com/video/x8tjtck?t=39) y 0:47.
+- En KFP4, Panda Pig (MrBeast) sólo dice «¡Skadoosh!».
+- Cómo suena en latino: sin confirmar ⚠️ (punto 8).
+
+**Doblaje y sonido:** en KFP1 latino, muchos gritos de Po, Tigresa y Tai Lung se quedaron en inglés (punto 8) ⚠️.
