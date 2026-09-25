@@ -42,6 +42,56 @@ fecha: 2026-09-24
 >   webs de prensa por WebFetch.
 > - ✅ **confirmado**: dos fuentes, o el subtítulo con su minuto, o lo vi y
 >   lo medí en la imagen. ⚠️ **dudoso**: una sola fuente, o de memoria.
+> - **Segunda pasada (25-sep-2026, red abierta, equipo de 4 investigadores
+>   + redactor)**: YouTube seguía pidiendo «iniciar sesión», así que los
+>   vídeos se miraron por **Dailymotion** con `fotogramas.py` (6 tráileres,
+>   uno por serie, con minuto) y se transcribieron con **`voz.py`**
+>   (Whisper) los tráileres latinos de Ralph y Sing. Se usaron además las
+>   API de **Wallhaven**, **Danbooru** (`rating:g`), **Doblaje Wiki** (fichas
+>   de cada actor), **Fandom** y **Wikipedia**, y Pillow para medir hex en
+>   arte oficial. Se añadieron los puntos 11, 16, 18-25 de ENCARGO.md, que no
+>   existían, y la tabla «Cumplimiento del encargo».
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+
+| Dónde | Antes | Ahora | Fuente |
+|---|---|---|---|
+| §3.4 Bleach | la serie de 2010 la dirigió **Salvador Delgado** ⚠️ | **No**: Delgado dirigió la tanda de **2023** (eps. 230-366, Famasound); quién dirigió 2010, no lo encontré | [su ficha en Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Salvador_Delgado) + ficha de Bleach |
+| §7.2 Los Simpson | los DJ de KBBL: Agustín Sauret y Alejandro Mayén | **no hay actor fijo**: cambia por episodio (T4: Sauret y Mayén; T5: José María Iglesias o Víctor Delgado para Bill, Mario Sauret para Marty). En la lámina no se nombra a nadie | [T4](https://doblaje.fandom.com/es/wiki/Los_Simpson/4%C2%AA_temporada), [T5](https://doblaje.fandom.com/es/wiki/Los_Simpson/5%C2%AA_temporada) |
+| §1.7 Mario | música de la película: **Mahito Yokota** | Yokota es **del juego**; la película es de **Brian Tyler** con Koji Kondo ⚠️ | [Wikipedia (soundtrack)](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie_(soundtrack)) |
+| §3.6 Bleach | uniforme `#121212` a ojo | `#26272D` medido | arte oficial de Hisagi |
+| §4.6 Ralph | Vanellope `#4FC3A1` a ojo | `#5F8C73` / `#79AA8D` medidos | arte oficial |
+| §5.6 Monsters | Mike `#9BCB3C`, Sulley `#3AB4E8`, manchas `#8A4FBF`, a ojo | Mike `#5C7531`/`#87A851`, Sulley `#2C7D74`/`#559C94`, manchas `#234163`, medidos | arte de *Monsters at Work* |
+| §2.6 Phineas | Doofenshmirtz «morado» `#6A3D9A` a ojo | no hay morado en su arte oficial: bata `#FFFFFD`, camisa `#020202`, pelo `#773B16` | retrato oficial |
+| §3.7 Bleach | openings viejos y TYBW mezclados | tabla de openings y endings de TYBW por parte (1-4) | Wikipedia (cita ANN y Natalie) |
+
+**Añadido**
+
+- En cada serie, una subsección «**Segunda pasada**» con: fan art de
+  referencia, fondos de pantalla con tamaño y autor (16), videojuegos y su
+  interfaz (11), técnica y cómo replicarla en Photoshop y Blender (18),
+  texturas 2D (19), gustos (20), por qué la aman y qué hace llorar (21), fan
+  dubs hispanos (22), colaboraciones, figuras y cosplay (23), obras parecidas
+  (24) y el mundo con sus símbolos (25).
+- **Minutos exactos** en 6 tráileres de Dailymotion (antes sólo daba la
+  duración): el volante de Sing en el 0:40, la pantalla «MM» de Phineas en el
+  0:20, Ralph y Vanellope en el 2:05, etc.
+- **Frases latinas textuales con minuto**: la afirmación del villano de
+  Ralph (1:51-2:03) y el discurso de Buster Moon (0:29-0:38).
+- **Doblaje**: 7 nombres más con dos fichas (Gerardo Vásquez, Jerry
+  Velázquez, Luis Daniel Ramírez, Mario Díaz Mercado, Óscar Flores, Marcela
+  Páez, Roberto Carrillo).
+- La guía para IA (§9.3) ampliada con **IA de texto** y rasgos fijos por
+  personaje; la tabla «Cumplimiento del encargo» antes de la bitácora.
+
+**⚠️**: había **93** al empezar la segunda pasada. Se resolvieron los hex a
+ojo de Hisagi, Vanellope, Mike, Sulley y Doofenshmirtz, la pantalla del
+Mayor Monograma y la música de TYBW; se añadieron ⚠️ nuevos, honestos, en lo
+que sólo tiene una fuente (fandubs sin vistas, compositores con una sola
+fuente, técnica de Pierrot). El recuento final está en la tabla de
+cumplimiento.
 
 ---
 
@@ -312,8 +362,14 @@ remake de *Los Padrinos Mágicos* ✅ (UnoTV y SDP Noticias).
 ### 1.7 Música ⚠️ (de memoria)
 
 - El **vals del Observatorio del Cometa** (tranquilo, de caja de música) y
-  **Gusty Garden Galaxy** (orquesta épica). Compositor: **Mahito Yokota**,
-  con **Koji Kondo** ⚠️.
+  **Gusty Garden Galaxy** (orquesta épica). Compositores **del juego**:
+  **Mahito Yokota**, con **Koji Kondo** ⚠️.
+- **Corregido (segunda pasada)**: la banda sonora de **la película** (2026)
+  **no es de Yokota**: es de **Brian Tyler** (el de la película de 2023),
+  que remezcla los temas de los dos Galaxy y de Star Fox, con la
+  colaboración de **Koji Kondo** ⚠️ (una fuente:
+  [Wikipedia: The Super Mario Galaxy Movie (soundtrack)](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie_(soundtrack)),
+  que cita al sello Back Lot Music/iam8bit, 1 abr 2026).
 - El ambiente que da: calma de noche estrellada, cuento antes de dormir.
 
 **Vídeos** (encontrados con `yt-dlp`; YouTube no dejó bajar subtítulos, así
@@ -339,6 +395,76 @@ que no doy minuto dentro del vídeo, sólo su duración):
     puntas plana: la **Superestrella** de Mario tiene **ojos** y volumen;
   - mezclar el estilo de la película (3D de Illumination) con el del juego
     en la misma lámina.
+
+### 1.8 bis · Segunda pasada: vídeo, juego, técnica, cruces y mundo
+
+**Mirado en vídeo, con minuto** (Dailymotion, `fotogramas.py`):
+- [Tráiler final latino](https://www.dailymotion.com/video/xa1o2hg?t=120)
+  (2:24), **min. 2:00**: Estela de pie, brazo hacia una máquina, vestido
+  ondeando, en una nave con **luz verde y neón magenta**. Vestido medido
+  `#A4ECFA` ✅. Es la variante **de acción** de la pose #43. Si la lámina
+  sigue el estilo de **la película**, el fondo es futurista y saturado, no
+  la Biblioteca cálida del juego.
+- La frase de Bowser que se oye en el tráiler latino
+  ([x9to08e](https://www.dailymotion.com/video/x9to08e)) salió con demasiado
+  ruido en `voz.py`: **no se cita** como textual ⚠️.
+
+**Fan art de referencia (3)**: [masoq en Danbooru](https://danbooru.donmai.us/posts/11099671),
+Rosalina, 2980×2412, `rating:g` ✅. Sólo para pose y color, nunca se pega.
+
+**Fondo de pantalla (16)**: [wallhaven 2yrr3g](https://wallhaven.cc/w/2yrr3g),
+1920×1080, pixel art de Rosalina, subido por **vye18756** (128 favoritos) ✅.
+
+**Videojuego e interfaz (11)**: *Super Mario Galaxy* (Wii, 2007). HUD con
+vidas y estrellas; ventanas de diálogo de **marco redondeado azul** con el
+retrato a la izquierda ✅ ([Spriters Resource](https://www.spriters-resource.com/wii/supermariogalaxy/asset/136701/),
+[Game UI Database](https://www.gameuidatabase.com/gameData.php?id=422)). La
+letra interna del HUD se llama «**Classic HUD font**» ⚠️
+([Super Mario Wiki](https://www.mariowiki.com/List_of_internal_fonts)); el
+nombre «Pop Happiness» que sale en algún buscador es de otro juego: no usarlo.
+
+**Técnica y cómo replicarla (18)**: la película es de **Illumination
+Studios Paris** ✅ ([Illumination Wiki](https://illumination.fandom.com/wiki/The_Super_Mario_Galaxy_Movie),
+[Wikipedia en español](https://es.wikipedia.org/wiki/Super_Mario_Galaxy:_la_pel%C3%ADcula)),
+que modela en **Autodesk Maya** y compone en **Nuke**; el render es propio y
+sin nombre público ✅ ([pipeline del estudio](https://www.illuminationstudiosparis.com/pipeline/)).
+- **Blender**: Eevee con *toon shader* de nodos (rampa de color + Fresnel en
+  el borde). Contorno con **Solidify invertido**, no Freestyle: Illumination
+  no usa línea negra dura, sino oclusión ambiental marcada.
+- **Photoshop**: luces en *Color Dodge* suave; sombras en *Multiply* de un
+  solo tono, sin degradado largo.
+
+**Gustos (20)**: a Estela le importan su **libro de cuentos** y los
+Destellos, a los que llama sus hijos. Es una figura cósmica: el juego **no le
+da** cumpleaños ni comida favorita ⚠️. No inventarlos.
+
+**Colaboraciones, figura y cosplay (23)**:
+- **amiibo de Rosalina** (serie Smash Bros., 1-feb-2015), con su varita:
+  pose 3D oficial para el concepto B ✅ ([Nintendo](https://www.nintendo.com/us/store/products/amiibo-rosalina-super-smash-bros-100722/),
+  [Amiibo Wiki](https://amiibo.fandom.com/wiki/Rosalina_(Super_Smash_Bros.))).
+- **Cosplay comercial** (edición película 2026): satén cristal turquesa con
+  forro de crepé, corona, broche y pendientes de estrella ✅ ([Takerlama](https://www.takerlama.com/products/rosalina-princess-dress-cosplay-costume-the-super-mario-galaxy-movie-fancy-dress-takerlama)).
+  Sirve para ver cómo cae la tela de verdad.
+
+**Obras parecidas (24)**: secuela directa de *Super Mario Bros.: La película*
+(2023), mismo estudio; la saga pasa de **2.000 millones de dólares** ✅
+([Infobae](https://www.infobae.com/malditos-nerds/2026/04/20/super-mario-galaxy-la-pelicula-impulsa-la-saga-de-illumination-y-nintendo-mas-alla-de-los-2-mil-millones/)).
+Tono parecido: *Sonic, la película* y *Ralph el demoledor* (§4, que es de
+#noticias-gaming: no repetir el salón recreativo aquí).
+
+**El mundo en cinco líneas (25)**:
+1. Las **Superestrellas** (Power Stars) dan energía al universo.
+2. La **Gran Estrella** alimenta el Observatorio; Bowser la roba para su nave.
+3. Estela vive en el **Observatorio Cometa**, biblioteca y nave a la vez.
+4. Los **Destellos** (Lumas) son estrellas bebé; al crecer se vuelven planetas.
+5. Mario viaja de galaxia en galaxia recuperando estrellas.
+Vocabulario: Destello, Superestrella, Gran Estrella, Observatorio.
+
+**Fan dubs (22)** y **escenas que hacen llorar (21)**: no encontré fandubs
+en español de Galaxy (búsqueda «Mario Galaxy fandub español»); la película
+es de 2026 y el doblaje oficial lo tapa todo ⚠️. Escena que hace llorar,
+con fuente: no se buscó una para Galaxy en esta pasada ⚠️ (queda para su
+biblia completa).
 
 ### 1.9 Conceptos de lámina
 
@@ -553,7 +679,7 @@ Datos que gustan ✅ (Doblaje Wiki):
 | pelo de Ferb | `#31B536` | #21 ✅ |
 | azul del plano | `#1E507C` / `#416C97` | #33 ✅ |
 | líneas del plano | `#2674B5` y blanco | #33 ✅ |
-| morado de Doofenshmirtz | `#6A3D9A` | ⚠️ a ojo |
+| Doofenshmirtz: bata, camisa, pelo | `#FFFFFD` / `#020202` / `#773B16` | medido en [Doofenshmirtz_Portrait.jpg](https://static.wikia.nocookie.net/phineasandferb/images/5/5d/Doofenshmirtz_Portrait.jpg) (800×1000) ✅. El `#6A3D9A` «morado» de la primera pasada **no aparece** en ningún arte oficial ni en 3 fotogramas de tráiler: quitado |
 
 - **Texturas reales**: papel de plano (cianotipo), madera de cerca pintada,
   cinta adhesiva, chinchetas. Libres (CC0) en Poly Haven:
@@ -573,6 +699,89 @@ Datos que gustan ✅ (Doblaje Wiki):
 - Poner a Ferb hablando mucho.
 - Que el invento sea **peligroso de verdad** o triste: el tono es verano,
   sol y risa.
+
+### 2.7 bis · Segunda pasada: vídeo, juego, técnica, cruces y mundo
+
+**Mirado en vídeo, con minuto** ([tráiler oficial T5, Disney+, en
+español](https://www.dailymotion.com/video/x9ozu2m), 1:10, `fotogramas.py`):
+- **min. 0:00**: Phineas de perfil, cabeza triangular, cerca de madera
+  detrás. El diseño de perfil es igual en la temporada de 2025 ✅.
+- **min. 0:20**: la pantalla del **Mayor Monograma** con sus iniciales «MM»
+  en la esquina, verde agua con marco. Antes era ⚠️ de memoria: **ahora ✅**.
+  Pose de **presentar misión**.
+- **min. 1:00**: el gag de «¿y Perry?», todo el grupo en el patio y Perry
+  asomando por la puerta de la cerca.
+- El minuto exacto de la escena del **plano azul** no sale en los tráileres
+  cortos; los capítulos no están en Internet Archive ⚠️.
+
+**Música (9)**: compositor **Danny Jacob**; el opening «**Today Is Gonna Be
+a Great Day**» lo canta **Bowling for Soup** (nominado al Emmy) ⚠️ (una
+fuente: [Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb)).
+
+**Doblaje, nombres nuevos con dos fichas (8)** ✅: **Luis Daniel Ramírez**
+es Perry en toda la franquicia ([su ficha](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez));
+**Mario Díaz Mercado** es el Mayor Monograma ([su ficha](https://doblaje.fandom.com/es/wiki/Mario_D%C3%ADaz_Mercado)),
+también en *La ley de Milo Murphy* y *Candace contra el universo*. Erica
+Edwards (Vanessa, T5) sigue con una sola fuente ⚠️.
+
+**Fan art (3)**: [nokonorii en Danbooru](https://danbooru.donmai.us/posts/6926732),
+Phineas y Ferb juntos, 722×450, `rating:g` ✅.
+
+**Fondo de pantalla (16)**: Wallhaven no tiene **ninguno** (5 búsquedas, 0
+resultados). En Wallpaper Abyss: [Perry y Doofenshmirtz](https://wall.alphacoders.com/big.php?i=860513),
+1920×1080, subido por **Perceval21** ✅.
+
+**Videojuego (11)**: *Phineas and Ferb: Across the 2nd Dimension* (Wii, PS3,
+DS; 2011). Menú con selección de episodio e idioma y extra «Enter Code» ✅
+([Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Across_the_2nd_Dimension_(video_game)),
+[galería de la wiki](https://phineasandferb.fandom.com/wiki/Gallery:Phineas_and_Ferb:_Across_the_2nd_Dimension_(video_game))).
+
+**Técnica y cómo replicarla (18)**: 2D digital en **Toon Boom**, animado por
+**Rough Draft Studios** (Corea), **Wang Film** (Taiwán) y **Synergy/Hong
+Ying** (Shanghái) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb)).
+Dan Povenmire toma de **Tex Avery** las formas geométricas, y de **Matt
+Groening** (Los Simpson) la lección de las **siluetas reconocibles**; quería
+personajes que un niño pudiera dibujar.
+- **Photoshop**: capas de **color plano sin degradado**, recortadas con lazo
+  poligonal; contorno negro uniforme de **1-2 px**.
+- **Blender** (sólo si hace falta volumen, p. ej. la cerca o el plano):
+  **Freestyle con grosor constante** y sombreado *toon* de **2 tonos**
+  (Shader to RGB + ColorRamp de 2 paradas).
+- **Encuadre típico**: los chicos en plano medio frente a la cerca; el
+  invento, siempre enorme detrás.
+
+**Gustos (20)**: Phineas dibuja el **plano azul** cada mañana y nunca se le
+ve sin ideas ⚠️. **Doofenshmirtz** odia a su hermano **Roger** («el bueno de
+la familia») y cuenta un recuerdo de **Gimmelshtump** en cada episodio ✅
+([Phineas and Ferb Wiki](https://phineasandferb.fandom.com/wiki/Heinz_Doofenshmirtz), API).
+
+**Fan dubs y comunidad (22)** ⚠️ (título y canal; YouTube no dejó ver las
+vistas): el canal **SALMAR FANDUBS** hace parodias latinas («PHINEAS Y FERB
+(MENCIÓN A BOB ESPONJA) / FANDUB LATINO»); el canal **anthpo** subió «Todos
+los episodios de Phineas y Ferb | Español Latino (Fandub)».
+
+**Cruces (23)** ✅: dos especiales reales de Disney, **Mission Marvel**
+(16-ago-2013: Iron Man, Thor, Hulk y Spider-Man pierden sus poderes) y
+**Star Wars** (26-jul-2014) ([Wikipedia: Mission Marvel](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Mission_Marvel),
+[Wikipedia: Star Wars](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Star_Wars),
+[Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/phineas-ferb-creators-marvel-superheroes-604392/)).
+Traen **ropa nueva** (Vengadores, Jedi): buena para una lámina 2 de #eventos.
+
+**Obras parecidas (24)**: *Gravity Falls* y *El asombroso mundo de Gumball*,
+por el dibujo geométrico y la aventura de verano ⚠️ (comparación de crítica
+general, sin una fuente que junte las tres).
+
+**El mundo en cinco líneas (25)**:
+1. Verano en **Danville**: cada día, Phineas y Ferb construyen algo imposible.
+2. Candace intenta **delatarlos**; el invento desaparece justo antes.
+3. Perry, la mascota, es el **Agente P** de la **O.S.B.A.** («Organización
+   Sin un Buen Acrónimo»; en inglés O.W.C.A.) ✅ ([wiki en español](https://phineasyferb.fandom.com/es/wiki/Organizaci%C3%B3n_Sin_un_Buen_Acr%C3%B3nimo_(O.S.B.A)),
+   [wiki en inglés](https://phineasandferb.fandom.com/wiki/Organization_Without_a_Cool_Acronym)).
+4. Su jefe es el **Mayor Monograma**; su enemigo, Doofenshmirtz.
+5. Cada invento de Doofenshmirtz lleva el sufijo **«-inador»** (§2.5).
+Vocabulario: «-inador», «Ya sé qué vamos a hacer hoy», «¿Y Perry?»,
+Danville, O.S.B.A. El logo de la O.S.B.A. sirve de **sello de «evento
+secreto»** en la lámina.
 
 ### 2.8 Conceptos de lámina
 
@@ -751,7 +960,13 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 | Kenpachi | César Arias; en TYBW **José Luis Miranda** (Arias falleció en 2020) | ✅ Doblaje Wiki |
 
 - **Serie original** (2010): producción de **Macias Group**, estudio
-  **Famasound**, dirección de **Salvador Delgado** ⚠️ (una fuente).
+  **Famasound**. **Corregido en la segunda pasada**: **Salvador Delgado NO
+  dirigió la tanda de 2010**. Su propia ficha de Doblaje Wiki (sección
+  «Dirección de doblaje») sólo lo acredita en **Bleach, eps. 230-366
+  (2023, Famasound)**, la continuación que se dobló para llegar a TYBW ✅
+  ([Doblaje Wiki: Salvador Delgado](https://doblaje.fandom.com/es/wiki/Salvador_Delgado)
+  + [ficha de Bleach](https://doblaje.fandom.com/es/wiki/Bleach)). Quién
+  dirigió los eps. 1-109 de 2010: no lo encontré ⚠️.
 - ***Thousand-Year Blood War***: **Macias Group**, grabado en **MCS**,
   dirección de **Jorge Roig** (partes 1-3) ✅ ([ANMTV](https://www.anmtvla.com/2022/11/bleach-thousand-year-blood-war-estrena.html),
   [ANMTV parte 3](https://www.anmtvla.com/2025/02/bleach-thousand-year-blood-war-disney.html),
@@ -827,7 +1042,10 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 | techo de la redacción | `#406050` | #283 ✅ |
 | verde exterior (ep. 138) | `#547A44` | #282 ✅ |
 | muros del Seireitei | `#EDEAE3` | ⚠️ a ojo |
-| uniforme shinigami | `#121212` | ⚠️ a ojo |
+| uniforme shinigami (shihakusho) | `#26272D` (negro azulado, no `#121212` puro) | medido con Pillow en [Hisagi Anime Fullbody.png](https://static.wikia.nocookie.net/bleach/images/7/73/Hisagi_Anime_Fullbody.png) (1050×1500) ✅ |
+| faja (obi) de Hisagi | `#B3B1AA` | misma imagen ✅ |
+| brazalete del 9.º escuadrón | `#BBAE7F` | misma imagen ✅ |
+| tarjeta de nombre de TYBW (magenta de campaña) | `#EA006F` | [primer tráiler TYBW, min. 1:00](https://www.dailymotion.com/video/x8c7qz9) ✅ |
 | mariposa infernal | cuerpo negro, alas moradas `#5B3B8C` con borde negro | wiki ✅, hex ⚠️ |
 
 - **Texturas reales**: papel de revista satinado, papel washi, tinta sumi.
@@ -846,8 +1064,21 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 
 - Banda sonora de **Shirō Sagisu**: «**Number One**» (coros solemnes), la
   que todo fan reconoce.
-- Openings de antes: «Asterisk» (Orange Range), «Ichirin no Hana» (High and
-  Mighty Color). Opening de TYBW: «Scar» (Tatsuya Kitani).
+- Openings del **anime viejo (2004-2012)**: «Asterisk» (Orange Range),
+  «Ichirin no Hana» (High and Mighty Color) ⚠️. No mezclarlos con TYBW.
+- **TYBW, openings y endings por parte** (segunda pasada) ✅ (música de
+  **Shirō Sagisu**, el mismo del anime viejo;
+  [Wikipedia: Bleach TYBW](https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War),
+  que cita a Anime News Network y Comic Natalie):
+
+| Parte | Opening | Ending |
+|---|---|---|
+| 1 · The Blood Warfare (2022) | «Scar», Tatsuya Kitani | «Saihate», SennaRin |
+| 2 · The Separation (2023) | «Stars», w.o.d. | «Endroll», Yoh Kamiyama |
+| 3 · The Conflict (2024) | «Kotoba ni Sezu Tomo», Six Lounge | «Monochrome», Suisoh |
+| 4 · The Calamity (2026, la que se emite ahora) | «I-Bull», Jo0ji | «Rasen», 9Lana |
+
+- Si la lámina cita «el opening actual», es **«I-Bull»**, no «Scar».
 
 ### 3.8 Qué NO hacer
 
@@ -856,6 +1087,87 @@ simpática y perezosa. Contrapunto de Hitsugaya.
 - Mezclar el estilo del anime viejo (2004-2012, más colores planos) con el
   de TYBW (2022-2026, más contraste y blanco y negro) en la misma lámina.
 - Llenar el fondo: Bleach es **aire y blanco**.
+
+### 3.8 bis · Segunda pasada: vídeo, juegos, técnica, cruces y mundo
+
+**Mirado en vídeo, con minuto**: [«Primer tráiler» de TYBW,
+subtitulado](https://www.dailymotion.com/video/x8c7qz9?t=60) (2:37,
+`fotogramas.py`). Usa **tarjetas de nombre** en blanco y negro de alto
+contraste con una **franja magenta** `#EA006F` (medida en el **min. 1:00**).
+Es el color de la campaña: sirve para una variante «**noticia de última
+hora**» de la lámina, frente a la revista *Seireitei Tsūshin*.
+
+**Fan art (3)**: [tokishima_sikuka en Danbooru](https://danbooru.donmai.us/posts/5787798),
+Ichigo, 2736×4096, `rating:g` ✅.
+
+**Fondo de pantalla (16)**: [wallhaven lq3g3p](https://wallhaven.cc/w/lq3g3p),
+1920×1200, grupo (Ichigo, Rukia, Byakuya, Renji, Hitsugaya), subido por
+**sasukelric** ✅.
+
+**Videojuegos e interfaz (11)**:
+- ***Bleach: Rebirth of Souls*** (Tamsoft/Bandai Namco, 2025, PS4/PS5/Xbox/PC):
+  el que más cuida el cuadro de diálogo; la Game UI Database cataloga sus
+  pantallas de **diálogo con voz**, cinemáticas e **intros de personaje** con
+  la letra de trazo grueso de la serie ✅ ([Game UI Database](https://www.gameuidatabase.com/gameData.php?id=2357),
+  [Wikipedia](https://en.wikipedia.org/wiki/Bleach_Rebirth_of_Souls)). Es la
+  referencia de caja de texto para la lámina, no un cómic genérico.
+- ***Bleach: Brave Souls*** (móvil/Steam, gacha 3D): menú lateral de iconos y
+  cuadros de **texto blanco sobre panel oscuro semitransparente** ✅
+  ([wiki en español](https://bleach-brave-souls.fandom.com/es/wiki/Pantalla_de_Inicio),
+  [Wikipedia](https://en.wikipedia.org/wiki/Bleach:_Brave_Souls)).
+
+**Técnica y cómo replicarla (18)**: TYBW la anima **Studio Pierrot** (partes
+1-2) y su nueva marca **Pierrot Films** (partes 3-4, con más de un año de
+producción y más artistas externos) ✅ ([CBR](https://www.cbr.com/bleach-thousand-year-blood-war-season-3-studio-pierrot-brand/),
+[Animehunch](https://animehunch.com/studio-pierrot-launches-new-sub-studio-for-bleach-thousand-year-blood-war/)).
+El programa 2D exacto no es público ⚠️.
+- **Photoshop**: tinta de **grosor variable por presión** (grueso en el
+  contorno, fino en la tela) y **una sola capa de sombra dura** morada o
+  azul sobre la piel, sin degradado.
+- **Blender**: Freestyle de grosor variable, *toon shader* de 2-3 bandas y
+  un **rim light frío** para el brillo del pelo, como en los bankai.
+
+**Texturas 2D (19)**: [Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037)
+(Clip Studio Assets, gratis, licencia estándar de Clip Studio) ✅: tramas
+para la revista y cualquier viñeta.
+
+**Por qué la aman, y qué hace llorar (21)**: en TYBW, la **muerte de Bazz-B**
+(ep. 38) frente a Haschwalth, cuando confiesa que nunca se sintió su rival,
+es de lo que más ha hecho llorar al fandom ✅ ([Sportskeeda](https://www.sportskeeda.com/anime/bazz-b-s-death-bleach-thousand-year-blood-war-moves-fans-to-tears)).
+No es personaje para la lámina, pero es la razón emocional del final.
+
+**Fan dubs (22)** ⚠️ (sin vistas; YouTube bloqueado): «**soy el capitan
+hitsugaya (fandub latino)**», que usa el mismo chiste de §3.3 («Es *capitán*
+Hitsugaya»); fandubs de peleas de Ichigo («Ichigo vs Aizen», «Ichigo Libera
+su Bankai»), uno de 2020 con el fandubber **Alexis Tello**. No hay clip
+**oficial doblado** de Hisagi ni de Hitsugaya en Dailymotion ⚠️.
+
+**Cruces (23)**: **Bleach × Fortnite** (anunciado en la Jump Festa, dic.
+2025): skins de Ichigo, Rukia, Uryū y Orihime, torneo «Bleach Cup» el
+19-dic-2025, tienda desde el 20-dic ✅ ([Vandal](https://vandal.elespanol.com/noticia/1350786043/bleach-aterriza-en-fortnite-ichigo-rukia-y-mas-personajes-del-manganime-combatiran-en-el-battle-royale/),
+[LevelUp](https://www.levelup.com/noticia/fortnite-y-bleach-tendran-una-colaboracion-cuando-inicia-y-que-personajes-de-tite-kubo-llegaran-al-battle-royale/),
+[Kotaku ES](https://es.kotaku.com/fortnite-amplia-su-universo-con-un-cruce-que-muchos-pedian-llego-la-colaboracion-con-bleach-2000030547)).
+Es una **noticia real** para usar de ejemplo dentro de la lámina. Café
+temático o UNIQLO: no lo confirmé con fecha ⚠️.
+
+**Obras parecidas e influencias (24)**: Tite Kubo cita **Gegege no Kitaro**
+(lo primero que calcó de niño), **Saint Seiya** (armas vistosas) y **Dragon
+Ball** («los villanos deben ser fuertes, temibles y geniales») ✅
+([CBR](https://www.cbr.com/bleach-tite-kubo-shonen-series-bible-gegege-no-kitaro/),
+[VIZ, entrevista](https://www.viz.com/blog/posts/interview-tite-kubo-318)).
+En el servidor se le parecen Jujutsu Kaisen, Naruto y One Piece: no repetir
+sus ideas.
+
+**El mundo en cinco líneas (25)** ✅ ([Bleach Wiki en español: Gotei 13](https://bleach.fandom.com/es/wiki/Gotei_13)):
+1. La **Sociedad de Almas** guía el paso de las almas.
+2. Lo hacen los **shinigami** del **Gotei 13**, trece divisiones con capitán.
+3. Los **Hollow** son almas corrompidas que devoran otras almas.
+4. Cada shinigami lleva una **zanpakutō**; se libera en **shikai** y, sólo
+   los capitanes, en **bankai**.
+5. Ichigo, humano con poderes de shinigami, entra en ese mundo.
+Símbolo: el **rombo** con el número de la división, en la espalda del haori y
+en la fachada del cuartel; cada división tiene además su **flor**. El rombo
+sirve de **sello** en una esquina de la lámina.
 
 ### 3.9 Conceptos de lámina
 
@@ -1002,7 +1314,7 @@ pelo rubio corto, dura y seca.
 | **Vanellope** | **María Antonieta de las Nieves** («La Chilindrina») | ✅ [Milenio](https://www.milenio.com/espectaculos/cine/vanellope-voz-chilindrina-ralph-demoledor-2), [Sopitas](https://www.sopitas.com/noticias/wifi-ralph-doblaje-mexico-disney-sopitas-memo-aponte-influencers/) |
 | **Félix** | **Moisés Iván Mora** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mois%C3%A9s_Iv%C3%A1n_Mora), [Fandoblaje Wiki](https://fandoblaje.fandom.com/es/wiki/Mois%C3%A9s_Iv%C3%A1n_Mora) |
 | Calhoun | **Rebeca Patiño** | ✅ Doblaje Wiki (API) y el buscador |
-| Rey Dulce / Turbo | Roberto Carrillo | ⚠️ sólo Doblaje Wiki |
+| Rey Dulce / Turbo | Roberto Carrillo | ✅ ficha de la película + [su ficha de actor](https://doblaje.fandom.com/es/wiki/Roberto_Carrillo) (segunda pasada) |
 | Sr. Litwak | Paco Mauri | ⚠️ sólo Doblaje Wiki |
 | **Tapper** | **Mario Castañeda** (el Goku latino) | ✅ Doblaje Wiki; y él mismo dirige el doblaje (abajo) |
 | Sonic (1.ª película) | **Yamil Atala** | ⚠️ sólo Doblaje Wiki |
@@ -1062,7 +1374,9 @@ Disney **no siguió** con La Chilindrina para la secuela ✅ (Milenio).
 | pantalla de *Hero's Duty* | `#00B0D0` | #121 ✅ |
 | LED rojo de los letreros | `#E0302A` | ⚠️ a ojo |
 | rosa de *Sugar Rush* | `#FF9CC8` | ⚠️ a ojo |
-| verde de Vanellope | `#4FC3A1` | ⚠️ a ojo |
+| sudadera de Vanellope (sombra / luz) | `#5F8C73` / `#79AA8D` (no `#4FC3A1`, que era más turquesa) | medido con Pillow en [Vanellopewirdisney.png](https://static.wikia.nocookie.net/wreckitralph/images/a/ac/Vanellopewirdisney.png) (1728×3000) ✅ |
+| medias a rayas de Vanellope | `#60AF90` | misma imagen ✅ |
+| carretera arcoíris, franja verde / roja | `#51927C` / `#B27139` | [clip «Ralph vs. Turbo», min. 0:25](https://www.dailymotion.com/video/x39ewi4) ✅ (apagado por la compresión del vídeo) |
 | dorado del martillo | `#E8B530` | ⚠️ a ojo |
 
 - **Texturas reales**: vinilo de los laterales de una recreativa, rejilla de
@@ -1086,6 +1400,101 @@ Disney **no siguió** con La Chilindrina para la secuela ✅ (Milenio).
   ella lo odia).
 - Llenar la lámina de logos de juegos reales: en la película salen, pero en
   la lámina se ven como publicidad.
+
+### 4.7 bis · Segunda pasada: frases con minuto, juego, técnica, cruces y mundo
+
+**Frases del doblaje latino, textuales y con minuto (8)** ✅, del [tráiler
+oficial latino](https://www.dailymotion.com/video/x8x2a6q) transcrito con
+`voz.py` (Whisper) y revisado de oído:
+- [**1:32**](https://www.dailymotion.com/video/x8x2a6q?t=92) «Nadie cambia lo que es».
+- [**1:38**](https://www.dailymotion.com/video/x8x2a6q?t=98) Vanellope: «Todos dicen que fui una equivocación».
+- [**1:44**](https://www.dailymotion.com/video/x8x2a6q?t=104) Ralph: «No voy a dejarte aquí sola».
+- [**1:51**](https://www.dailymotion.com/video/x8x2a6q?t=111) «Terminemos recitando la afirmación del villano».
+- **1:53-1:58** «¡Soy malo! […] Y eso es bueno. [Yo nunca seré bueno] […] Y
+  eso no es malo.» (Whisper oyó «yo camáseré bueno»; la frase completa es la
+  de §4.3).
+- [**2:01-2:03**](https://www.dailymotion.com/video/x8x2a6q?t=121) «No quiero ser nadie más […] ¡Soy feliz!».
+- **Cómo suena Ralph** (`voz.py`): registro medio (**198 Hz**), muy
+  expresivo (**29,8 semitonos**), rápido (**3,08 palabras/s**). Habla
+  atropellado y con mucho vaivén: bruto por fuera, tierno por dentro.
+
+**Su cara en dos emociones (13)**, fotogramas mirados:
+- **Vergüenza aceptada**, [1:53](https://www.dailymotion.com/video/x8x2a6q?t=113):
+  sentado y encogido en el círculo del grupo de villanos, brazos cruzados
+  sobre las rodillas, hombros caídos.
+- **Confundido y dolido**, [2:01](https://www.dailymotion.com/video/x8x2a6q?t=121):
+  en la barra de Tapper, **manos abiertas hacia arriba**, cejas juntas, boca
+  entreabierta. Sirve para «explicar con angustia».
+- Alegría, rabia y miedo francos: no salen de Ralph en el tráiler ⚠️.
+
+**Poses en vídeo (14)**, [clip «Ralph vs. Turbo», Disney XD
+latino](https://www.dailymotion.com/video/x39ewi4) (4:10):
+- [**0:50**](https://www.dailymotion.com/video/x39ewi4?t=50): Ralph atraviesa
+  a puñetazos una estructura de caramelo, cuerpo inclinado: **regañar/pelear**.
+- [**2:05**](https://www.dailymotion.com/video/x39ewi4?t=125): Ralph y
+  Vanellope por la **carretera arcoíris**, ella señalando al frente:
+  **explicar o animar en pareja**.
+
+**Doblaje (8)**: **Roberto Carrillo** es el Rey Dulce/Turbo ✅ ([su ficha](https://doblaje.fandom.com/es/wiki/Roberto_Carrillo)).
+Paco Mauri (Litwak) y Yamil Atala (Sonic): sus fichas de actor **no** listan
+el papel ⚠️ (posible error de atribución; no confirmar).
+
+**Música (9)**: **Henry Jackman**; canciones de **Owl City**, **AKB48** y
+**Skrillex** ⚠️ (una fuente: [Wikipedia](https://en.wikipedia.org/wiki/Wreck-It_Ralph)).
+
+**Lo que ama el fandom (12, 21)**: «Soy malo y eso es bueno» se repite fuera
+de contexto como lema; y **La Chilindrina como Vanellope** es el dato de
+doblaje más comentado en México (Milenio, §4.4) ✅.
+
+**Gustos (20)**: Vanellope vive en un juego de **dulces**; su kart lo arma
+ella misma con dulces del juego, y el **volante** es su objeto de siempre ✅
+([Wreck-It Ralph Wiki](https://wreckitralph.fandom.com/wiki/Vanellope_von_Schweetz), API).
+
+**Fan art (3)**: [juanmao en Danbooru](https://danbooru.donmai.us/posts/3152497),
+Vanellope, 2048×1328 ✅. **Fondo de pantalla (16)**: [wallhaven 45k535](https://wallhaven.cc/w/45k535),
+3840×2160, cartel de 2012, subido por **JosephTeAu** ✅.
+
+**Videojuego e interfaz (11)**: *Wreck-It Ralph* (iOS, Disney
+Interactive/Activision, 2012), en la **Estación Central**, con tres
+minijuegos: **Fix-It Felix Jr.** (8 bits), **Hero's Duty** (HUD militar) y
+**Sugar Rush** (kart en rosa) ✅ ([Arcade Heroes](https://arcadeheroes.com/2012/10/18/taking-a-look-at-two-fantasy-arcade-titles-from-disneys-wreck-it-ralph/),
+[wiki: Sugar Rush](https://wreckitralph.fandom.com/wiki/Sugar_Rush)). Tres
+interfaces en un juego: buena idea para una lámina 2 de #noticias-gaming.
+
+**Técnica y cómo replicarla (18)**: Walt Disney Animation Studios. Ralph
+(2012) **no** usó **Hyperion**, que llegó con *Big Hero 6* (2014); la
+secuela de 2018 sí ✅ ([ACM](https://dl.acm.org/doi/fullHtml/10.1145/3182159),
+[Disney Animation](https://disneyanimation.com/technology/hyperion/)). La
+herramienta **Meander** es del corto *Paperman*, no de Ralph ⚠️.
+- **Blender**: el 8 bits de Félix con **píxeles reales** (textura pequeña,
+  interpolación *Closest*), no con filtros. Los caramelos de Sugar Rush:
+  colores saturados y un falso *subsurface* (difuso + translúcido).
+
+**Texturas 2D (19)**: packs de **pixel art CC0** en [itch.io](https://itch.io/game-assets/free/tag-cc0/tag-pixel-art)
+para los letreros LED y las recreativas ⚠️ (listado general: comprobar la
+licencia del pack elegido).
+
+**Cruces y figuras (23)**: la escena de las **princesas Disney** con
+Vanellope en *Ralph Breaks the Internet* (2018) es el cruce más citado ✅
+([Den of Geek](https://www.denofgeek.com/movies/ralph-breaks-the-internet-disney-princesses-scene/),
+[Critical Media Project](https://criticalmediaproject.org/wreck-it-ralph-2-ralph-breaks-the-internet-vanellope-meets-disney-princess/)).
+Ralph y Vanellope tuvieron **figura física** en **Disney Infinity** ✅
+([Disney Wiki](https://disney.fandom.com/wiki/Vanellope_von_Schweetz)).
+
+**Obras parecidas (24)**: «*Toy Story* rehecho para la generación de los
+videojuegos» ✅ ([TIME](https://entertainment.time.com/2012/11/01/wreck-it-ralph-toy-story-with-avatars/),
+[Movie Smackdown](http://www.moviesmackdown.com/2012/11/wreck-it-ralph-vs-toy-story/)).
+Cerca en tono: *Free Guy* (2021) y *Turbo* (DreamWorks, 2013).
+
+**El mundo en cinco líneas (25)** ✅ ([wiki: Game Central Station](https://wreckitralph.fandom.com/wiki/Game_Central_Station)):
+1. Cuando cierra **Litwak's Arcade**, los personajes de los juegos viven.
+2. Viajan por los cables hasta la **Estación Central**, que por fuera es una
+   **regleta de corriente**.
+3. Allí conviven Sonic, los fantasmas de Pac-Man, Q*bert…
+4. Perder una vida y volver a aparecer es **regenerar**.
+5. Un juego sin su personaje queda «**fuera de servicio**».
+Vocabulario: **Turbo** («usurpar un juego ajeno»), **glitch** (el «fallo» de
+Vanellope), **regenerar**, «fuera de servicio».
 
 ### 4.8 Conceptos de lámina
 
@@ -1286,9 +1695,11 @@ Infinity* ✅ (las mismas dos fuentes).
 | persiana del Piso de Sustos | `#6060A0` / `#505080` | #66 ✅ |
 | suelo del Piso de Sustos | `#404060` | #66 ✅ |
 | casco de Mike | `#5080A0` | #66 ✅ |
-| verde de Mike | `#9BCB3C` | ⚠️ a ojo |
-| azul de Sulley | `#3AB4E8` | ⚠️ a ojo |
-| manchas de Sulley | `#8A4FBF` | ⚠️ a ojo |
+| piel de Mike (sombra / luz) | `#5C7531` / `#87A851` (no `#9BCB3C`) | medido en [MikeMAW.png](https://static.wikia.nocookie.net/pixar/images/9/96/MikeMAW.png) (763×775) ✅ |
+| iris de Mike | `#375B5B` | misma imagen ✅ |
+| pelaje de Sulley (sombra / luz) | `#2C7D74` / `#559C94` (verde azulado, no `#3AB4E8`) | medido en [SulleyMAW.png](https://static.wikia.nocookie.net/pixar/images/e/e7/SulleyMAW.png) (939×1268) ✅ |
+| manchas de Sulley | `#234163` (azul-morado oscuro, no `#8A4FBF`) | misma imagen ✅ |
+| otra puerta: roja en sombra / piloto encendido | `#42030E` / `#BC010C` | [tráiler de 2001, min. 0:45](https://www.dailymotion.com/video/x889mq6) ✅ |
 | luz roja de puerta activa | `#E0402E` | ⚠️ a ojo |
 
 - **Texturas reales**: chapa pintada, linóleo, papel de formulario, metal
@@ -1488,6 +1899,8 @@ Dirección musical de *Sing*: **Gaby Cárdenas**.
 | suelo del escenario | `#603020`, luz `#F09050` | #61 ✅ |
 | terciopelo del telón, en luz | `#9E1B2F` | ⚠️ a ojo |
 | dorado de molduras | `#D4A64A` | ⚠️ a ojo |
+| moldura dorada con luz de sala | `#CE704A` | [tráiler largo, min. 2:20](https://www.dailymotion.com/video/x889jpx) ✅ (medida en fotograma) |
+| butacas en sombra | `#471A17` | mismo fotograma ✅ |
 | volante | amarillo `#F6D34A` | ⚠️ a ojo (el color, ✅) |
 
 - **Texturas reales**: terciopelo (CC0: [velour_velvet](https://polyhaven.com/a/velour_velvet)
@@ -1576,10 +1989,15 @@ público latino**, y su doblaje es parte de la historia del oficio.
   locutores son **Bill y Marty** ✅ ([Simpsons Wiki: KBBL Radio](https://simpsons.fandom.com/wiki/KBBL_Radio),
   [Bill and Marty](https://simpsons.fandom.com/wiki/Bill_and_Marty), por su
   API). **Dos locutores**, como la radio que el dueño presenta con una amiga.
-- Voces latinas de los DJ de KBBL en un episodio de la T4 («Homero el
-  hereje»): **Agustín Sauret** y **Alejandro Mayén** ⚠️ (sólo Doblaje Wiki,
-  [ficha de la 4.ª temporada](https://doblaje.fandom.com/es/wiki/Los_Simpson/4%C2%AA_temporada);
-  puede que no sean los mismos en otros episodios).
+- **Corregido (segunda pasada): los DJ de KBBL no tienen actor latino
+  fijo; cambia de episodio a episodio**, como pasa con muchos secundarios de
+  la serie clásica. En la **T4** («Homero el hereje») fueron **Agustín
+  Sauret** y **Alejandro Mayén**; en la **T5**, a Bill lo hace **José María
+  Iglesias** en un episodio y **Víctor Delgado** en otro, y a Marty **Mario
+  Sauret** ✅ ([Doblaje Wiki: T4](https://doblaje.fandom.com/es/wiki/Los_Simpson/4%C2%AA_temporada),
+  [Doblaje Wiki: T5](https://doblaje.fandom.com/es/wiki/Los_Simpson/5%C2%AA_temporada)).
+  **En la lámina de Radio 24/7 no se nombra a ningún actor** para Bill y
+  Marty: basta «voces rotativas, como en toda la serie clásica».
 - **Homero**: **Humberto Vélez** (T1-T15), **Víctor Manuel Espinoza**
   (T16-T31) y otra vez **Humberto Vélez** desde la **T32 (2021)** ✅
   ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Los_Simpson), API;
@@ -1702,7 +2120,8 @@ imitarlo con una letra.
   juego.
 - **El diseño exacto del volante de Sing** (letras, colores): sólo sé que es
   amarillo. Sacarlo de la escena.
-- **Voces latinas de Bill y Marty** (KBBL): sólo las de un episodio (T4).
+- **Voces latinas de Bill y Marty** (KBBL): no hay actor fijo; varía por
+  episodio (T4 y T5 comprobadas, segunda pasada). No se nombra a nadie.
 - **Encuestas de popularidad** de Phineas y Ferb, Ralph, Monsters y Sing:
   no hay encuestas oficiales como las de la Shōnen Jump. Uso la taquilla,
   el doblaje y los memes.
