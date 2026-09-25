@@ -1,7 +1,8 @@
 # Lote F: series nuevas 77-96
 
-Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude/sweet-wozniak-vmvzo4`
-(parte de `claude/peaceful-maxwell-fklpkp`, juntada con los lotes A, B, C, D y E).
+Sesión: https://claude.ai/code/session_01GRbSTbzn1T2CNnzzT8Trgi · rama `claude/lote-f-continuation-fsaj24`
+Cuenta: cuenta A106
+(sigue desde `claude/sweet-wozniak-vmvzo4`, sesión session_01DDNVaCpYyiQfao1M598h9e, que hizo 77 y 78 y dejó 79-81 a medias).
 
 ## Estado
 
