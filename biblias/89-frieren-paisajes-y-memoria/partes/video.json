@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/2/27/Aureole_EP4.png/revision/latest?cb=20231125070909",
+    "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Aureole EP4.png», fotograma oficial del anime, episodio 4",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Aureole (魂の眠る地, «la tierra donde duermen las almas»), el páramo de niebla dorada con columnas en ruinas y un árbol-templo dorado donde van las almas de los muertos. Paleta medida con estilo.py: niebla y piedra #F1F4E8 46%, cielo #C6F1F8 25%, verdes #C4D7C5/#A3AE64, hojas del árbol #EAEB96; saturación 16%, brillo 93%.",
+    "para_que": "Punto 4 (sitios/luz/paleta) y punto 2 (escena icónica): es EL paisaje de la memoria de la serie — Frieren viaja para reencontrarse allí con el alma de Himmel. Luz muy alta y desaturada, niebla constante: sirve de referencia para una lámina «de despedida» o «de recuerdo».",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project. Sólo referencia: no reproducir en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/8/87/Flamme%27s_prior_visit_to_Aureole_EP4.png/revision/latest?cb=20231125081914",
+    "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Flamme's prior visit to Aureole EP4.png», fotograma oficial del anime, episodio 4",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Flamme, de espaldas, ante sus antiguos compañeros dibujados como siluetas TRANSLÚCIDAS verde-amarillas (sólo contorno y sombreado plano, sin color de piel ni ropa): es el recurso visual de la serie para pintar a los muertos/el recuerdo. Paleta medida: fondo #EDF2DA/#C9E4DC, siluetas #D4E5AF/#B3C891, dorado del árbol #B98D4A.",
+    "para_que": "Punto 2 y 4: el CÓMO se pinta la memoria en Frieren — nunca en color pleno, siempre semitransparente y monocromo verde-dorado. Útil para la guía de estilo (punto 17, redactor) si quiere dibujar a un personaje «recordado».",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project. Sólo referencia: no reproducir en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/8/8e/Lake_Korridor_port_city_draft_2_by_Seiko_Yoshioka.png/revision/latest?cb=20260404213835",
+    "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Lake Korridor port city draft 2 by Seiko Yoshioka.png», borrador de la concept artist para la Temporada 2 (subido abr-2026)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Boceto de composición (grises, sin color final) de Seiko Yoshioka para el embarcadero nevado de Lake Korridor: casas de madera sobre pilotes, toldo, farol y mesa donde se sienta el grupo, nieve cayendo. Los personajes están marcados en rosa para ver el encaje.",
+    "para_que": "Punto 4: prueba directa del PROCESO de diseño de un sitio (composición antes del color), citable junto con su entrevista (§ Hallazgos 9). No sirve para medir hex (es un estudio de valores, no de color).",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project — arte de producción de Seiko Yoshioka. Sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8mkolb?t=31",
+    "fuente": "Dailymotion, copia del PV2 (tráiler 2) oficial de la Temporada 1 de TOHO animation — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "0:31 del tráiler: el grupo de Himmel cruza un puente de piedra en un bosque con luz solar filtrada entre hojas. Paleta medida: verdes de hoja #689193/#396769/#9BEAB, sombra #1F3A4C, luz #E5EEC5; sombreado degradado, saturación 39%, brillo 58%.",
+    "para_que": "Punto 2 y 4: paisaje «de viaje en grupo», luz cálida entre árboles — no está en la biblia hermana (33-frieren), que sólo describió este tráiler por storyboard, sin medir color real.",
+    "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia de color y encuadre, no descargar ni subir el clip."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8mkolb?t=41",
+    "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "0:41 del tráiler: Frieren niña-adulta caminando diminuta por un campo enorme de flores rosa-magenta, montañas verdes difuminadas al fondo, cielo celeste despejado. Paleta medida: cielo #9BD3E4/#DDF2F8, flores #D289A5, verde de árboles #87A77E; saturación 27%, brillo 85% (la más clara y suave de las 4 medidas).",
+    "para_que": "Punto 4 y 14: paisaje de gran escala con la figura muy pequeña — el recurso de «personaje diminuto ante el paisaje» que la serie usa para transmitir el paso del tiempo y la soledad del viaje.",
+    "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8mkolb?t=47",
+    "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "0:47 del tráiler: Frieren rema una barca dentro de una caverna subterránea de agua azul, con un boquete de luz blanca arriba y la piedra de su bastón brillando en cian. Paleta medida: azules de agua #60A3C3/#154B94/#2D4866, luz #C0EDF7; saturación 59% (la más saturada de las 4).",
+    "para_que": "Punto 4: sitio NUEVO no listado en la biblia hermana — una cueva-lago que no aparece en su tabla de «Sitios, luz y paleta». Luz puntual mágica en un espacio cerrado, útil para un concepto de lámina con luz interior.",
+    "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8mkolb?t=87",
+    "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "1:27 del tráiler: Frieren de pie con el bastón, sobre un montículo de tierra rodeado de flores azules gigantes (desenfocadas en primer plano), cielo dorado de atardecer con pétalos volando. Paleta medida: cielo dorado #F9F9E5/#F7F3B8, flores #39375A/#7D709A; saturación 27%, brillo 75%.",
+    "para_que": "Punto 2 y 14: pose de «presentar» integrada en un paisaje — mismo recurso de flores gigantes en primer plano que separa al personaje del fondo (profundidad).",
+    "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8qbrgb?t=10",
+    "fuente": "Dailymotion, canal «Anime Brawl Collection», fragmento del episodio 3 (T1-03, combate contra Qual) — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Frieren y Fern diminutas ante la estatua-demonio de Qual sentada en lo alto de una colina de hierba, bajo un cielo gris totalmente cubierto de nubes. Paleta medida: hierba #444C2C, cielo #B2BEC6/#9AA7B9/#CED6D2; saturación 23%, brillo 59% — la escena más desaturada y fría de todas las medidas en esta parte.",
+    "para_que": "Punto 2 y 4: escena real de EPISODIO (no tráiler), con la luz de cielo cubierto que pide el encargo 89 («melancolía»); confirma que Qual = episodio 3 (ficha de la wiki).",
+    "licencia": "Fragmento del anime oficial (Madhouse/Aniplex), recopilado por un canal de fans en Dailymotion. Sólo referencia de color y encuadre."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8qbrgb?t=120",
+    "fuente": "Dailymotion, canal «Anime Brawl Collection», fragmento del episodio 3 — fotograma propio sacado con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Plano general: Qual (silueta oscura, pelo blanco largo) de pie en la colina, Frieren y Fern muy pequeñas a la derecha junto al bosque. Paleta medida: hierba #4F5B45, cielo #A6B3BF/#BEC9C9/#D6DDD3; saturación 15% (la más gris de todas).",
+    "para_que": "Punto 14: pose de escala dramática (personajes minúsculos frente a una amenaza enorme en paisaje abierto) — sirve de contraste con las poses «de cerca» ya analizadas en la biblia hermana.",
+    "licencia": "Fragmento del anime oficial, recopilado por un canal de fans en Dailymotion. Sólo referencia."
+  }
+]

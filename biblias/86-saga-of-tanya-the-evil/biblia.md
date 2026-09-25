@@ -383,8 +383,8 @@ Es lo más importante para no caer en la burbuja blanca. En esta serie se habla 
 | Trance divino | Ojos dorados, manos en alto con el orbe | [cap. 5, 0:36](https://www.dailymotion.com/video/x5bp78t?start=36) ✅ |
 | Rabia | Boca abierta gritando, manos tensas | [película, 0:48](https://www.dailymotion.com/video/x96pfti?start=48) ✅; cap. 9 en 1080p (hoja 1, nº 27) |
 | Miedo | Sólo ante Being X: niña asustada sobre fondo oscuro | ⚠️ descrito por la parte de voz, sin fotograma |
-| Tristeza | — | ❌ no encontrada |
-| Vergüenza | — | ❌ no encontrada |
+| Tristeza | — | ⚠️ no encontrada en los clips mirados |
+| Vergüenza | — | ⚠️ no encontrada en los clips mirados |
 
 ### Viktoriya «Visha» Serebryakov — la segunda más querida
 - **Quién es**: maga reclutada a la fuerza. Su familia, aristócrata, huyó de la revolución de la Unión Rus. Fue de la sección 3 de Tanya y luego su **ayudante** en el batallón ([wiki](https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov), [AniList](https://anilist.co/character/121057)). ✅
@@ -393,7 +393,7 @@ Es lo más importante para no caer en la burbuja blanca. En esta serie se habla 
 - **Qué transmite**: calidez. Es el corazón del batallón y el contraste humano de Tanya.
 - **Arco**: de recluta asustada a la ayudante más leal y capaz.
 - **Cómo habla** (latino, Erika Langarica): aguda, amistosa, pausada. Transmite calma.
-- **Su cara**: susto cómico, ojos enormes y cejas arriba ([cap. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48)); escandalizada, boca abierta ([1:28](https://www.dailymotion.com/video/x5bp70j?start=88)); alivio y cansancio con la tropa ([2:08](https://www.dailymotion.com/video/x5bp70j?start=128)); alegre gritando «Second Lieutenant!!» (manga, hoja 2, nº 67 ⚠️). Rabia, tristeza y vergüenza: ❌ no encontradas.
+- **Su cara**: susto cómico, ojos enormes y cejas arriba ([cap. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48)); escandalizada, boca abierta ([1:28](https://www.dailymotion.com/video/x5bp70j?start=88)); alivio y cansancio con la tropa ([2:08](https://www.dailymotion.com/video/x5bp70j?start=128)); alegre gritando «Second Lieutenant!!» (manga, hoja 2, nº 67 ⚠️). Rabia, tristeza y vergüenza: ⚠️ no encontradas en los clips mirados.
 
 ### Los secundarios que conviene tener a mano
 - **Hans von Zettour** (Arturo Mercado): general, jefe del Estado Mayor. Racionalista de saber enorme. Voz grave y pausada de autoridad. ✅
@@ -404,3 +404,130 @@ Es lo más importante para no caer en la burbuja blanca. En esta serie se habla 
 - **Mary Sioux** (Alondra Hidalgo): maga enemiga, hija de Anson Sioux; quiere vengar a su padre. ✅
 - **Being X** (Alejandro Villeli ⚠️): dice ser el Dios de la Biblia; quiere más creyentes. En el anime aparece con formas prestadas, como un **cascanueces** (wiki, texto). ✅
 - **Adelheid von Schugel** (Armando Coria ⚠️): un ingeniero loco y con talento que inventa armas durante la guerra ([AniList](https://anilist.co/character/135047)). ⚠️ (una fuente; las partes no dicen qué inventó en concreto).
+
+## 14 · Poses analizadas
+
+Salen de los clips mirados con `fotogramas.py` (parte de vídeo) y de las hojas de la wiki (parte de imagen; el redactor abrió en grande los nº 28, 30, 33, 52, 56 y 64). Cada una dice para qué sirve.
+
+### Tanya — 9 poses con capítulo y minuto, y 6 más de las hojas
+
+| # | Pose | Dónde | Cuerpo, manos, mirada, gesto | Sirve para |
+|---|---|---|---|---|
+| T-1 | Vuelo triunfal | [cap. 1, 0:32](https://www.dailymotion.com/video/x5tslcz?start=32) ✅ | En el aire, inclinada unos 30° hacia atrás. Una mano en el fusil, la otra alza el orbe que brilla. Guantes negros. Mira abajo, al enemigo. Boca entreabierta, cejas arriba. | **Celebrar**, presentar un poder |
+| T-2 | Sonrisa demoníaca | [cap. 1, 0:40](https://www.dailymotion.com/video/x5tslcz?start=40) ✅ | Primer plano, mentón bajo, mirada directa a cámara. Ojos muy abiertos que brillan. Sonrisa enorme de dientes. La explosión la ilumina desde abajo. | **Regañar**, amenazar |
+| T-3 | Trance del Tipo 95 | [cap. 5, 0:36](https://www.dailymotion.com/video/x5bp78t?start=36) ✅ | De frente, erguida, brazos abiertos y un poco alzados, palmas arriba con el orbe. **Ojos dorados**, pupilas dilatadas. Entre éxtasis y terror. | Discurso épico, momento cumbre |
+| T-4 | Entrada en vuelo | [cap. 6, 0:08](https://www.dailymotion.com/video/x5bp76k?start=8) ✅ | Vista en 3/4 desde arriba, inclinada hacia delante. Una mano en el fusil, la otra suelta. Sonrisa de lado, burlona. | **Presentar**, entrada dramática |
+| T-5 | Cálculo frío | [cap. 6, 0:56](https://www.dailymotion.com/video/x5bp76k?start=56) ✅ | Plano medio, casi de frente, uniforme entero. Manos quietas o con el orbe contra el cuerpo. Ojos azules normales, sonrisa leve. | **Explicar**, pensar la táctica |
+| T-6 | Francotiradora | [cap. 6, 1:04](https://www.dailymotion.com/video/x5bp76k?start=64) ⚠️ ±2 s | Tumbada o apoyada, fusil hacia delante con las dos manos. Un ojo cerrado, el otro en la mira. | Tensión, suspense |
+| T-7 | Discurso del comandante | [película, 0:08](https://www.dailymotion.com/video/x96pfti?start=8) ✅ | Contrapicado. De pie ante el batallón, gorra de plato. Brazos pegados al cuerpo, postura de firmes. Mira por encima del espectador. «Men, I have returned.» | **Presentar**, liderazgo |
+| T-8 | ¡Gloria al Imperio! | [película, 0:48](https://www.dailymotion.com/video/x96pfti?start=48) ✅ | Torso, boca abierta gritando, manos tensas. Mirada ardiente hacia delante. | **Animar** al grupo |
+| T-9 | Ángel falso | [cap. 5, 2:24](https://www.dailymotion.com/video/x5bp70j?start=144) ⚠️ ±2 s | Primer plano con **halo dorado** detrás de la cabeza. Ojos azules, dulzura falsa. | Ironía ángel/demonio |
+| H-1 | Leyendo partes | [hoja 2, nº 56](https://static.wikia.nocookie.net/youjo-senki/images/b/ba/Tanya_Reading_Reports.png) (avance de capítulo, 1365×767) ✅ visto | Sujeta una **tablilla con pinza** a la altura del pecho. Ojos azules grandes, boca pequeña y seria. El orbe rojo con montura de latón en el pecho. | **Explicar**, revisar solicitudes |
+| H-2 | El café | [hoja 1, nº 30](https://static.wikia.nocookie.net/youjo-senki/images/9/99/Tanya45.png) (1920×1080) ✅ visto | Sentada, ojos cerrados, sonrisa tranquila, taza humeante en la mano. Al lado, una **cafetera de sifón** de cristal y un quinqué. | **Pensar**, descansar, la Tanya satisfecha |
+| H-3 | Gorra de frente | [hoja 1, nº 28](https://static.wikia.nocookie.net/youjo-senki/images/3/32/HorribleSubs-Youjo-Senki-10-1080p.mkv0044.jpg) (cap. 10, 1080p, sin minuto) ✅ visto | Cara centrada, gorra de plato con banda roja, sonrisa mínima de superioridad. Pared de metal con remaches detrás. | Presentar con autoridad |
+| H-4 | Acción de ficha | [hoja 2, nº 80](https://static.wikia.nocookie.net/youjo-senki/images/0/01/Tanya_von_Degurechaff_%28Anime%29.png) (650×963) ✅ | Cuerpo entero, apunta el fusil, faldón al viento, cara de furia. Silueta completa sin fondo. | Recorte base; **animar** |
+| H-5 | Autoridad con abrigo | [hoja 1, nº 1](https://static.wikia.nocookie.net/youjo-senki/images/1/12/Saga_of_Tanya_the_Evil_Movie_1st_Visual.jpg) (3502×4948) ✅ | De pie, abrigo largo, humo e incendio naranja detrás. | Presentar, cartel |
+| H-6 | Sonrisa falsa | [hoja 2, nº 58](https://static.wikia.nocookie.net/youjo-senki/images/a/a8/Tanya_fake_smile_Anime.png) (1365×766) ⚠️ sin minuto | Ojos cerrados, sonrisa grande de cortesía. | Saludar con falsa amabilidad |
+
+### Visha — 3 poses con minuto y 4 de las hojas
+
+| # | Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|---|
+| V-1 | Susto | [cap. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48) ✅ | Primer plano. Ojos azules enormes, cejas arriba del todo. Susto cómico. | Reacción cómica |
+| V-2 | Con el batallón | [cap. 5, 2:08](https://www.dailymotion.com/video/x5bp70j?start=128) ✅ | Plano medio, de pie en la nieve, manos delante, soldados detrás. Aliviada y cansada. | Escena de grupo, **animar** |
+| V-3 | Escandalizada | [cap. 5, 1:28](https://www.dailymotion.com/video/x5bp70j?start=88) ✅ | Plano medio, boca abierta, ojos enormes. La «voz de la razón». | Comentar lo que hace Tanya |
+| V-4 | Comiendo pan en el comedor | [hoja 1, nº 33](https://static.wikia.nocookie.net/youjo-senki/images/c/c2/HorribleSubs-Youjo-Senki-08-1080p.mkv0012.jpg) (cap. 8, 1080p, sin minuto) ✅ visto | Sentada a la mesa larga con un pan en cada mano, jarra de metal y vaso delante, soldados de espaldas. Cara seria y concentrada. | Vida de cuartel, cercanía |
+| V-5 | Ficha de acción | [hoja 2, nº 81](https://static.wikia.nocookie.net/youjo-senki/images/8/86/Viktoriya_Ivanovna_Serebryakov_%28Anime%29.png) (650×963) ✅ | Cuerpo entero, agachada con el fusil. | Recorte base |
+| V-6 | «¡Me ofrezco!» | [hoja 2, nº 62](https://static.wikia.nocookie.net/youjo-senki/images/9/93/Visha3.png) (manga, 1002×961) ⚠️ edición inglesa en miniatura | Se ofrece voluntaria para el rescate: «I volunteer!!», «Volunteering for the rescue mission!!». | **Animar**, apuntarse |
+| V-7 | «Second Lieutenant!!» | [hoja 2, nº 67](https://static.wikia.nocookie.net/youjo-senki/images/e/e7/Victoria_Manga_Ch3.png) (manga, 840×839) ⚠️ | Primer plano alegre, boca abierta, llamando a Tanya. | **Celebrar**, saludar |
+
+### Qué pose para qué
+
+- **Presentar**: T-4 (entrada en vuelo), T-7 (discurso), H-3 (gorra de frente).
+- **Explicar**: T-5 (cálculo frío) y H-1 (leyendo partes con la tablilla).
+- **Celebrar**: T-1 (vuelo triunfal) y V-7.
+- **Regañar**: T-2 (sonrisa demoníaca). Úsala poco: da miedo de verdad.
+- **Pensar**: H-2 (el café) o T-5.
+- **Animar**: T-8 (¡Gloria al Imperio!), V-2 y V-6.
+- **En pareja**: Tanya delante con T-5 o H-1, Visha detrás con V-3 (escandalizada) o con el café. Es la dinámica que más se dibuja.
+
+⚠️ Visha tiene 3 poses vistas en vídeo con minuto; las otras 4 salen de las hojas, sin minuto. No hubo más clips suyos en Dailymotion.
+
+## 15 · Vestuario con hex medidos
+
+**Lo que dice la ficha oficial** (wiki, igual en las páginas de [Tanya](https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff) y de Visha): el uniforme se parece al **M1910 Feldrock**, el del ejército alemán de la Primera Guerra Mundial. Verde oscuro con forro rojo. En combate lleva ropa más gruesa y holgada, **cuello alto forrado de piel**, guantes negros, chaleco negro con muchos bolsillos y el equipo de vuelo del Imperio. ✅
+
+### El traje icónico (el que todos reconocen)
+Uniforme verde oliva muy oscuro, **gorra de plato con banda roja**, coleta rubia con mechón suelto, guantes negros, cruz de hierro al pecho y el **orbe colgado al cuello**. Así sale en las hojas 1 nº 28 y 2 nº 56 y 80.
+
+**Colores medidos** (parte de imagen, Pillow sobre la [ficha oficial del anime](https://static.wikia.nocookie.net/youjo-senki/images/0/01/Tanya_von_Degurechaff_%28Anime%29.png), hoja 2 nº 80, una medición por color ⚠️):
+
+| Pieza | Hex | Nota |
+|---|---|---|
+| Chaqueta, zona clara | `#3D362D` | verde oliva casi negro |
+| Chaqueta, sombra | `#666555` | gris verdoso |
+| Pantalón de combate, mancha clara | `#747260` | es **manchado**, no liso |
+| Pantalón, mancha oscura | `#31322C` | |
+| Guantes y correas | `#353739` | negro |
+| Cartuchera roja con cruz negra | `#854849` | rojo apagado, del equipo de vuelo |
+| Pelo | `#DED594` a `#E2D894` | rubio ceniza |
+| Ojos | `#1D7287` (sombra) y `#86F1FF` (brillo) | azul con destello cian |
+| Culata del fusil | `#443223` | madera |
+
+**Medidos por el redactor** (Pillow, mediana de 7×7 px, sobre fotogramas de las hojas; una medición cada uno ⚠️):
+- Gorra de plato, **banda roja** `#7B111A` y copa verde `#35473A`; visera negra `#302F2F` ([cap. 10, hoja 1 nº 28](https://static.wikia.nocookie.net/youjo-senki/images/3/32/HorribleSubs-Youjo-Senki-10-1080p.mkv0044.jpg)).
+- El orbe que lleva al pecho se ve **rojo oscuro con montura de latón** en el avance de la hoja 2 nº 56 y en la hoja 1 nº 26. ⚠️ La parte de voz lo llamó «azul» (quizá por los rayos azules que dispara, cap. 5, 0:42). Para la lámina: joya roja, luz azul al disparar.
+
+### Por temporada y por arco
+- **Vida anterior** (cap. 2): el oficinista, traje gris, corbata, pelo oscuro corto ([Salaryman.png](https://static.wikia.nocookie.net/youjo-senki/images/8/8b/Salaryman.png), hoja 1 nº 29; manga hoja 2 nº 84). ✅
+- **Niña del orfanato, prueba de aptitud** (cap. 2): sin uniforme, con un **casco de sensores** gris `#A3B6B4` con luces cian `#63FFED` (medido por el redactor, [hoja 2 nº 64](https://static.wikia.nocookie.net/youjo-senki/images/8/8d/Ep02_-_First_magical_power_display.png)). ✅ visto.
+- **Temporada 1, frente del Rin**: el uniforme de combate de arriba. ✅
+- **Norden e invierno**: capucha y cuello de piel, gafas de vuelo sobre la frente (portada del tomo 6 de la novela, [hoja 1 nº 11](https://static.wikia.nocookie.net/youjo-senki/images/a/a5/Vol6clean.png), 1463×2048). ✅ visto en la hoja.
+- **Película, el Sur**: gorra, uniforme completo y **gafas de vuelo levantadas** ([película, 0:32](https://www.dailymotion.com/video/x96pfti?start=32)). ✅
+- **Temporada 2 (2026)**: en el tráiler, Tanya con el pelo casi blanco en una escena de inocencia ([tráiler T2, 0:56](https://www.dailymotion.com/video/x9uo9wg?start=56)). ⚠️ Una sola escena; no se sabe si es un flashback.
+- **Fuera de uniforme**: vestido `#46292D` y **boina roja** `#8B323C` con lazo gris oscuro `#767073`, fondo dorado `#866C3F` con rosas ([hoja 2 nº 59](https://static.wikia.nocookie.net/youjo-senki/images/e/e1/Tanya_dress_up_Anime.png), 1365×765). ⚠️ una imagen.
+- **Descanso**: camisa de uniforme sin chaqueta, tono ocre bajo la lámpara (`#845542` medido en la hoja 1 nº 30). ⚠️
+
+### Visha
+Mismo uniforme reglamentario que Tanya (no cambia por persona). **Pelo castaño cobrizo, largo**, ojos azules en el anime ([hoja 2 nº 81](https://static.wikia.nocookie.net/youjo-senki/images/8/86/Viktoriya_Ivanovna_Serebryakov_%28Anime%29.png), hoja 1 nº 33). ✅ visto. En la novela, rubia de pelo corto y ojos verdes ⚠️ (la wiki lo redacta confuso). No hay hex medido de su pelo ⚠️.
+
+### Accesorios que un fan mira
+- **Medalla de Asalto de las Alas de Plata**: la más alta del Imperio, casi siempre póstuma; Tanya la lleva viva ([wiki](https://youjo-senki.fandom.com/wiki/Silver_Wings_Assault_Medal)). ✅ Su arte propio en la wiki (anime, manga y novela) no se bajó ⚠️.
+- **Cruz de hierro** al pecho y en la cartuchera. ✅
+- **Fusil**: las magas llevan el **Mondragón M1908**; la tropa, el **Gewehr 98**; Tanya usa una **Luger P08** en la escena final ([hoja 1 nº 8](https://static.wikia.nocookie.net/youjo-senki/images/2/20/Luger_P08_-_Tanya.png), 2560×1440). ✅
+- **Materiales reales** para Blender o cosplay: lana verde oliva (chaqueta), cuero negro (correas, guantes), madera (culata), latón (hebillas, cruz, montura del orbe). En [WorldCosplay](https://worldcosplay.net/character/157607) se ve tela rígida tipo gabardina, no licra. ⚠️
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+La wiki **no tiene páginas de lugares** (la categoría «Locations» sólo trae *Turus Naval Base*; buscado con `categorymembers` y con «Rhine» y «Arene»). Los sitios salen de los fotogramas y del arte. La paleta medida de cada uno está en el punto 4.
+
+### Los sitios y su hora
+| Sitio | Hora y luz | Dónde verlo |
+|---|---|---|
+| **Frente del Rin** (trincheras, cielo cubierto) | Día nublado, luz difusa sin dirección; el fuego es el único calor | [cap. 1, 1:52](https://www.dailymotion.com/video/x5tslcz?start=112) ✅ |
+| **Montaña nevada** (entrenamiento del batallón) | Día frío, luz desde arriba, la nieve rebota azulada | [cap. 5, 2:32](https://www.dailymotion.com/video/x5bp70j?start=152) ✅ |
+| **Ciudad bombardeada** («¡Tamaya!») | **Noche**, sólo la luz del incendio; contraste negro y naranja | [cap. 5, 0:54](https://www.dailymotion.com/video/x5bp78t?start=54) y silueta de Tanya de espaldas en [1:00](https://www.dailymotion.com/video/x5bp78t?start=60) ✅ |
+| **El Sur** (desierto de la película) | **Mediodía**, sol duro, sombras marcadas; el único sitio cálido y claro | [película, 0:32](https://www.dailymotion.com/video/x96pfti?start=32) ✅ |
+| **Cielo entre nubes** (dos magos en vuelo) | Día gris plateado | [hoja 2 nº 51](https://static.wikia.nocookie.net/youjo-senki/images/4/4e/Episode1.2.png) (cap. 1, 1365×767) ✅ |
+| **Puesto de mando con radios** | Noche, **bombillas colgantes** `#FCFFE9` sobre paredes de madera oscura `#291912` (medido por el redactor) | [hoja 2 nº 52](https://static.wikia.nocookie.net/youjo-senki/images/9/96/Platoon3Members.png) (1365×767) ✅ visto |
+| **Despacho de Tanya** | Noche, **quinqué** `#FFE65A` y pared cálida `#432A1C` (medido por el redactor) | [hoja 1 nº 30](https://static.wikia.nocookie.net/youjo-senki/images/9/99/Tanya45.png) ✅ visto |
+| **Comedor del cuartel** | Luz de interior cálida, mesa de madera roja | [hoja 1 nº 33](https://static.wikia.nocookie.net/youjo-senki/images/c/c2/HorribleSubs-Youjo-Senki-08-1080p.mkv0012.jpg) (cap. 8) ✅ visto |
+| **Arene** (cap. 8) | — | ⚠️ no hay clip en Dailymotion; no se vio |
+
+### Fondos de pantalla (tamaño, autor, enlace)
+De [Wallhaven](https://wallhaven.cc), ya filtrados por el recolector. **Sólo Tanya**, sin cruces:
+- 2560×1440, ♥65 y ♥56 · serie «Neichiru», subidos por sanoboss · [gjmdgl](https://w.wallhaven.cc/full/gj/wallhaven-gjmdgl.png) y [6qpy66](https://w.wallhaven.cc/full/6q/wallhaven-6qpy66.png).
+- 2520×1080, ♥51 · subido por mbourrig, original en [pixiv 61962594](https://www.pixiv.net/en/artworks/61962594) · [yjkevk](https://w.wallhaven.cc/full/yj/wallhaven-yjkevk.jpg). En la hoja de fondos (nº 3) se ve a Tanya con la mano abierta entre **círculos mágicos cian**.
+- 1920×1080, ♥55 · subido por Kotan, autor en twitter.com/popopopopoopw · [lm2x12](https://w.wallhaven.cc/full/lm/wallhaven-lm2x12.png). Fondo crema liso, Tanya de perfil con uniforme (hoja de fondos nº 2).
+- 1920×1080, ♥57 y ♥50 · [76lepe](https://w.wallhaven.cc/full/76/wallhaven-76lepe.png) (ParanoidDollv2) y [vmjegm](https://w.wallhaven.cc/full/vm/wallhaven-vmjegm.png) (Okayama68). ⚠️ no mirados uno a uno.
+- 1920×1200, ♥53 · [8x8lm1](https://w.wallhaven.cc/full/8x/wallhaven-8x8lm1.png). ⚠️ no mirado.
+
+**Oficiales en alta**: visual de la película, 3502×4948 ([hoja 1 nº 1](https://static.wikia.nocookie.net/youjo-senki/images/1/12/Saga_of_Tanya_the_Evil_Movie_1st_Visual.jpg)); tercera visual, 2932×4332, Tanya con fusil y alas blancas detrás ([hoja 1 nº 2](https://static.wikia.nocookie.net/youjo-senki/images/3/36/Saga_of_Tanya_the_Evil_3rd_Visual.jpg)); arte a color de la novela, tomo 8, 4191×2248 ([hoja 1 nº 3](https://static.wikia.nocookie.net/youjo-senki/images/c/c3/Vol8_Color2.png)). ✅
+
+**Paisajes de fans con la luz de entreguerras** (sólo referencia):
+- Calle europea con lluvia, torre del reloj y **estandarte rojo del Imperio**; Tanya con abrigo y oficiales de espaldas. 1800×1200, de Kokoya_art ([imagen](https://safebooru.org/images/1344/94fa2e100cda808bb95309a3322e2a96abddf1e4.jpg), hoja de fondos nº 6). Grises azulados y un solo acento rojo. ⚠️ fan art.
+- Tanya y Visha saludando en un **puerto bajo asedio**, cartucheras rojas con cruz. 2480×3508, [pixiv 134420174](https://safebooru.org/images/1842/d09f5579de13c90b326b700c6269ef4f5e939d7f.png) (hoja de fondos nº 7). ⚠️ fan art.
+
+**Cruces** (Isekai Quartet), para una lámina 2 cómica: oficial de la cuenta de la serie, 4096×2542 ([7312je](https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg), origen [@isekai_quartet](https://twitter.com/isekai_quartet/status/1115641595460587520)) y 10240×6400 ([vq3pgm](https://w.wallhaven.cc/full/vq/wallhaven-vq3pgm.jpg)). ✅
+
+⚠️ No aparecieron fondos de fans en alta fuera de Wallhaven con tamaño comprobado.

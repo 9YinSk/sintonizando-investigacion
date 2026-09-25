@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/2/27/Aureole_EP4.png",
+    "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP4",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Aureole, 'la Tierra donde descansan las almas': árbol dorado en un templete, ruinas y niebla, luz sobreexpuesta",
+    "para_que": "imagen central para el concepto de 'paisajes y memoria'; paleta muy pálida y luminosa (brillo 93%, saturación 16%, medido con estilo.py)",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia, no usar directo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/4/47/Aureole_concept_art_by_Seiko_Yoshioka.png",
+    "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 1",
+    "ancho": 1427,
+    "alto": 798,
+    "que_es": "Arte conceptual de Aureole por la fondista Seiko Yoshioka, mismo sitio sin animar",
+    "para_que": "ver el proceso de diseño del lugar 'memoria' de la serie antes de la versión final",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/f/f5/Ruins_of_the_King%27s_Tomb.png",
+    "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP23",
+    "ancho": 1277,
+    "alto": 742,
+    "que_es": "Tumba real tallada en un acantilado, columnas clásicas cubiertas de vegetación",
+    "para_que": "referencia de ruina 'viva' (ocupada, verde) para contrastar con Aureole (ruina 'celestial', pastel)",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/3/3d/Rufen_Region_abandoned_fort_exterior_draft_by_Seiko_Yoshioka.png",
+    "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 2",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Draft en grises de una torre-fuerte en ruinas, puente roto, cuervos, bosque de abetos",
+    "para_que": "referencia de composición melancólica y del método de trabajo (valores en gris antes de color)",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/7/79/Bier_Region_ruins_draft_by_Seiko_Yoshioka.png",
+    "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 2",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Draft en grises de un portalón de piedra en penumbra con un personaje marcado en rosa como escala",
+    "para_que": "referencia del proceso de boceto de fondos (valor + un color plano de referencia de tamaño)",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpl8d3.jpg",
+    "fuente": "Wallhaven (subido por Owl279), origen Pixiv 116555120",
+    "ancho": 4500,
+    "alto": 3048,
+    "que_es": "Fan art: Frieren de espaldas bajo un árbol gigante dorado-violeta con mariposas y ruinas",
+    "para_que": "referencia de estilo (no de diseño oficial) del mismo lenguaje visual que Aureole; paleta medida con estilo.py",
+    "licencia": "Fan art, todos los derechos del autor — sólo referencia, enlazar y citar autor, nunca pegar"
+  },
+  {
+    "url": "https://cdn.donmai.us/original/14/cd/14cd567a57a384af93761bf06478c808.jpg",
+    "fuente": "Danbooru (tag scenery + sousou_no_frieren), origen X/Twitter @gmmarady",
+    "ancho": 3277,
+    "alto": 4096,
+    "que_es": "Fan art de paisaje puro de la serie, puntuación 20 en Danbooru",
+    "para_que": "referencia de fan art centrado en fondos, no en personajes",
+    "licencia": "Fan art, todos los derechos del autor — sólo referencia"
+  },
+  {
+    "url": "https://cdn.donmai.us/original/95/e4/95e43dd58529e9f0ffdc8bf65312c8e8.jpg",
+    "fuente": "Danbooru (tag scenery + sousou_no_frieren), origen X/Twitter @Porukana_Art",
+    "ancho": 2000,
+    "alto": 3500,
+    "que_es": "Fan art de paisaje puro de la serie, puntuación 15 en Danbooru",
+    "para_que": "referencia de fan art centrado en fondos, no en personajes",
+    "licencia": "Fan art, todos los derechos del autor — sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8f3f0a27429341149ccc442ef24ee0c0",
+    "fuente": "Sketchfab, autor bmwylam",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Himmel the Hero Pedastal' (pedestal/base de la estatua de Himmel)",
+    "para_que": "referencia 3D real del monumento de homenaje a Himmel, para modelar en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-18793206124245eb8e20fafc95b868ab",
+    "fuente": "Sketchfab, autor bmwylam",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Himmel The Hero' (la estatua completa)",
+    "para_que": "referencia 3D de la pose heroica de la estatua de Himmel",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5109b5e46e064790badecedf8f6d2ef6",
+    "fuente": "Sketchfab, autor isogl",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D genérico 'Medieval castle with village' (no oficial de la serie)",
+    "para_que": "bloquear un pueblo medieval genérico en Blender al estilo del mundo de Frieren",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-a850530905a24d97bc4aa83353aba134",
+    "fuente": "Sketchfab, autor anastasita.3d",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Low Poly Medieval Environment Pack (35+ props): casas, cercas, barriles, etc.",
+    "para_que": "props sueltos para ambientar una escena de pueblo medieval en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://ambientcg.com/a/Grass001",
+    "fuente": "ambientcg.com (API v2)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de hierba (fotogrametría)",
+    "para_que": "capa de hierba para los fondos de campo/pradera de la serie",
+    "licencia": "CC0, sin crédito obligatorio"
+  },
+  {
+    "url": "https://ambientcg.com/a/Bark014",
+    "fuente": "ambientcg.com (API v2)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de corteza de árbol",
+    "para_que": "capa de corteza para árboles grandes tipo el de Aureole o los abetos del norte",
+    "licencia": "CC0, sin crédito obligatorio"
+  },
+  {
+    "url": "https://ambientcg.com/a/Rock064",
+    "fuente": "ambientcg.com (API v2)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de piedra con musgo",
+    "para_que": "capa de piedra envejecida para ruinas (Ruins of the King's Tomb, Rufen Region)",
+    "licencia": "CC0, sin crédito obligatorio"
+  },
+  {
+    "url": "https://ambientcg.com/a/Ice002",
+    "fuente": "ambientcg.com (API v2)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de hielo/agua helada",
+    "para_que": "capa de hielo para las escenas nevadas del norte (Heiß, Kühl Region)",
+    "licencia": "CC0, sin crédito obligatorio"
+  },
+  {
+    "url": "https://x.com/frieren_ten/status/1920765692581748944",
+    "fuente": "X/Twitter, cuenta oficial @frieren_ten",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Anuncio oficial de la exposición 'アニメ 葬送のフリーレン展' en el Museo de Arte del Siglo XXI de Kanazawa (ago-sep 2025)",
+    "para_que": "prueba de que el estudio expone el arte de fondos de la serie como pieza de museo",
+    "licencia": "Cuenta oficial de la exposición — sólo referencia informativa"
+  },
+  {
+    "url": "https://www.tokyoweekender.com/event/frieren-beyond-journeys-end-anime-exhibition/",
+    "fuente": "Tokyo Weekender",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre la exposición itinerante oficial de Frieren (Ikebukuro Sunshine City)",
+    "para_que": "segunda fuente que confirma la gira de la exposición oficial de arte",
+    "licencia": "Artículo periodístico — sólo referencia informativa"
+  },
+  {
+    "url": "https://frieren.fandom.com/wiki/Official_Guide_Book",
+    "fuente": "Frieren Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del 'Official Guide Book' (Shōgakukan, jul-2024, 144 pp.): galerías de art board por episodios, entrevistas a arte y color, 'Character memories selection'",
+    "para_que": "fuente oficial más directa sobre producción de fondos y el tema de la memoria en la serie",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom) — el libro en sí es © Shōgakukan"
+  },
+  {
+    "url": "https://frieren.fandom.com/wiki/Aureole",
+    "fuente": "Frieren Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del lugar Aureole: 'la Tierra donde descansan las almas', destino final del viaje de Frieren",
+    "para_que": "contexto narrativo del sitio central para el concepto 'memoria'",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/frieren/images/f/f8/Frieren_and_Fern_watch_the_sunset_in_Warm_EP3.png",
+    "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP3",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Frieren y Fern comiendo en una terraza con vista a una ciudad costera fortificada, atardecer sobre el mar",
+    "para_que": "referencia de 'paisaje y melancolía': comida tranquila con vista, contraluz que igual deja leer la silueta de cada personaje",
+    "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+  },
+  {
+    "url": "https://jpbookstore.com/products/frieren-beyond-journeys-end-sousou-no-frieren-art-works-vol1-original-art-collection-illustration-book",
+    "fuente": "Japanese Book Store (ficha de venta)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artbook 'Frieren: Beyond Journey's End Art Works Vol. 1' (Shōgakukan, dic-2023, 128 pp.)",
+    "para_que": "artbook de ilustración oficial, distinto del Official Guide Book",
+    "licencia": "Ficha de venta — el libro es © Shōgakukan"
+  }
+]
