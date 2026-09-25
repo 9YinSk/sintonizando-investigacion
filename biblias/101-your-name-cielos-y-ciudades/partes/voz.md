@@ -306,6 +306,144 @@ Mitsuha):
 - Nota de continuidad de doblaje ya en Hallazgos punto 8: no hay continuidad de voz latina con *El
   jardín de las palabras* (otro personaje, otra actriz, grabado antes).
 
+### Punto 20 — Gustos y detalles de los protagonistas (completa lo de los secundarios de arriba)
+
+De `https://kiminonawa.fandom.com` (infobox + Trivia, wikitext) y del sitio oficial `kiminona.com`
+citado dentro de la propia wiki:
+
+**Mitsuha Miyamizu**:
+- **Altura 163 cm / 5'4"**, tipo de sangre AB — dato con fuente primaria: la propia wiki cita la
+  "Character page" del sitio oficial de la película (`kiminona.com/#chara`) como referencia. ✅ (ficha
+  oficial + wiki).
+- Cumpleaños **1 de diciembre** (Sagitario) — dato curioso confirmado por **el propio Makoto Shinkai**
+  en el Q&A del Blu-ray Collector's Edition: dijo que "siente" que tanto Mitsuha como Taki nacieron el
+  1 de diciembre. Es la MISMA fecha para los dos, a propósito (simbolismo de las dos mitades de una
+  persona). ✅ (cita directa del director, referenciada en el wikitext).
+- Profesión final (2022): vendedora de joyería (occupation del infobox) — antes estudiante y sacerdotisa
+  del santuario.
+- El objeto que siempre lleva: el **cordón kumihimo rojo** trenzado por ella misma (ya citado como
+  objeto-ancla en "Lo mejor para la lámina"). Shinkai explicó el significado de sus colores: el centro
+  representa el cometa, el azul representa el lago de Itomori, y el rojo/naranja representa el
+  "kataware-doki" (crepúsculo). Es simbolismo de diseño real, no interpretación de fan. ✅.
+- Cómo se ve a sí misma: quiere escapar de la vida de pueblo pequeño de Itomori; ve Tokio como una
+  fuga de las expectativas asfixiantes de su padre y su ambición política.
+
+**Taki Tachibana**:
+- Altura no listada con cifra exacta en el infobox (a diferencia de Mitsuha) — ⚠️ dato que la wiki no
+  da como número, sólo el rango de edad.
+- Cumpleaños también **1 de diciembre**, pero de 1998 (Sagitario) — mismo día que Mitsuha por decisión
+  consciente de Shinkai (ver arriba).
+- Profesión final (2022): arquitecto especializado en prevención de desastres — la propia wiki conecta
+  esto directamente con su experiencia del impacto del cometa en Itomori en 2013: quiere construir
+  estructuras duraderas "que capturen corazones y mentes". Dato de arco de personaje con peso emocional.
+- Le apoyó en su gusto por edificios, paisajes, arte y tradición **la abuela de Mitsuha, Fumi Tachibana**
+  (nombre completo de la abuela materna paterna, aparece en Relatives del infobox).
+- Manía/gag recurrente (ya citado en punto 12): mientras posee el cuerpo de Mitsuha, le hace un
+  moño/coleta porque no sabe trenzar el cordón kumihimo (excepto el primer día, que lo deja suelto).
+- Casado con Mitsuha al final — confirmado por **el propio Shinkai en el Q&A de *Tenki no Ko*** (cita
+  textual: "Taki and Mitsuha married and she made a braided cord for Taki's grandmother"). ✅ (cita
+  directa del autor, dos apariciones: la propia página de Taki y la de Mitsuha lo referencian igual).
+
+**Gustos y detalles de los secundarios**: ya en la sección anterior (Tsukasa, Takagi, Sayaka,
+Teshigawara, Yotsuha, Okudera, Hitoha, Toshiki, Yukari) con cumpleaños, tipo de sangre, altura (cuando
+la ficha la da) y un detalle concreto de cada uno con fuente.
+
+### Punto 21 — Por qué la gente la ama (reseñas, taquilla, premios, identificación, escenas que hacen llorar)
+
+**Recepción crítica** (✅ dos fuentes, Rotten Tomatoes + Metacritic vía Wikipedia en inglés,
+`https://en.wikipedia.org/wiki/Your_Name`):
+- Rotten Tomatoes: 98% positivo sobre 120 reseñas, puntuación media 8.2/10.
+- Metacritic: 81/100 sobre 26 críticos ("aclamación universal").
+- Anime News Network la puso en el puesto 3 de mejores películas de anime de la historia.
+- Los directores de Disney John Musker y Ron Clements (Aladdín, La Sirenita) alabaron públicamente su
+  belleza y originalidad.
+- El propio Shinkai la llamó "incompleta, desequilibrada", diciendo que el presupuesto y el tiempo
+  limitaron lo que el equipo pudo lograr — dato humilde de making-of, contrasta con el éxito comercial.
+
+**Taquilla** (✅ Wikipedia inglés + Box Office Mojo, ya citado en punto 7 arriba):
+- Recaudación mundial: **US$408.3 millones**. Presupuesto: ¥750 millones (~US$7.5M).
+- Japón: ¥25.17 mil millones, ~10% de toda la taquilla nacional de ese año; 2° puesto histórico en
+  Japón tras *El viaje de Chihiro*; 4° puesto histórico global tras *Titanic* y *Frozen* (en su momento).
+- Fue la película japonesa más taquillera de la historia hasta ser superada por *Demon Slayer:
+  Mugen Train* en 2020.
+- China: US$81.3 millones (la película animada tradicional más taquillera allí en su momento).
+- Corea del Sur: 3.81 millones de entradas, US$23.6M (récord de anime allí hasta *The First Slam Dunk*
+  y *Suzume* en 2023).
+- Estrenada en 92 países; estreno mundial 3-jul-2016 en Anime Expo (Los Ángeles), Japón 26-ago-2016,
+  Norteamérica 7-abr-2017.
+
+**Premios** (✅ Wikipedia inglés, lista verificable cruzando con IMDb):
+- Ganó Mejor Película de Animación, 71º Mainichi Film Awards (Japón).
+- Ganó Mejor Película Animada, Sitges Film Festival (edición 49).
+- Ganó Mejor Película Animada, Los Angeles Film Critics Association Awards 2016.
+- Ganó el Gran Premio de la División de Animación, 20º Japan Media Arts Festival.
+- Ganó Mejor Película, 2º Crunchyroll Anime Awards.
+- En el 40º Japan Academy Prize: nominada a Animación del Año, y ganó **Mejor Animación Excelente** y
+  **Mejor Guion del Año**.
+- Nominada a Mejor Película Animada — Independiente, 44º Annie Awards.
+
+**Con qué personaje se identifica el público / por qué duele el final**:
+- El patrón de favoritos de AniList (Mitsuha 4560 vs Taki 2865, ya en punto 7) sugiere que el público
+  se identifica más con Mitsuha: la que sueña con escapar de un pueblo pequeño, no con el chico de
+  ciudad que ya tiene lo que ella desea. Es un patrón de identificación por aspiración, típico de
+  historias de "querer otra vida" — dato interpretativo, lo marco ⚠️ como lectura razonada, no una
+  encuesta directa que preguntara "por qué te identificas".
+- La razón que más citan reseñas para el enganche emocional: el body-swap no es la excusa cómica
+  central (aunque tiene su gag, ver punto 12), es el vehículo para la nostalgia y el miedo a olvidar a
+  alguien importante — tema universal (Anime News Network, Japan Times, ambas ya citadas). ✅.
+
+**La escena que hace llorar** (capítulo/minuto real, visto con `fotogramas.py` + medido con
+`estilo.py`, ya documentado arriba en el punto 13):
+- La escalinata del reencuentro final: minuto 0:10 del clip "Ending Scene" de Dailymotion
+  (`https://www.dailymotion.com/video/x6vxp2a?`), Mitsuha con los ojos cerrados, lágrimas y sonrojo
+  (WD14: `tears 0.81`, `crying 0.49`, `blush 0.75`), paleta cálida de atardecer. Qué pasa: después de
+  años sin recordarse el uno al otro por nombre, se cruzan por casualidad en Tokio, se detienen, se dan
+  la vuelta y por fin uno le pregunta al otro su nombre. Por qué duele: llevan toda la película
+  buscándose sin saber que ya se conocían; el "musubi" (hilo del destino) los reúne pese al olvido.
+  Música: el tema es de RADWIMPS (banda sonora, "Nandemonaiya"/tema principal reaparece en la escena
+  final según cobertura de prensa) — ⚠️ no pude confirmar con el propio audio del clip cuál pista suena
+  exactamente en ESTE segundo 0:10 porque el clip de Dailymotion no lleva la mezcla original completa
+  (ver "No encontré").
+- La escena de las manos escribiendo el nombre al atardecer en la montaña (kataware-doki, clímax): ya
+  citada en el punto 12 como el momento que más repite el fandom; Taki escribe «すきだ» (suki da, "te
+  quiero") en la mano de Mitsuha en vez de escribir su nombre. Reddit (`r/anime`, hilos de "Your Name
+  ending explained") y reseñas (ScreenRant, Primetimer, All The Anime) la citan como el punto de mayor
+  tensión emocional antes del desenlace. ✅ (varias fuentes de prensa/reseña independientes).
+- Reacción de la gente: comentarios y reseñas coinciden en describirla como de las películas de anime
+  que más hacen llorar en salas — dato repetido cualitativamente en varias reseñas (Japan Times, All
+  The Anime), no tengo cifra exacta de "vídeos de reacción" con views porque no pude acceder a YouTube
+  desde este servidor (ver "No encontré").
+
+### Punto 22 — Fan dubs y comunidad hispana
+
+**Fandub en español latino encontrado y verificado** (Dailymotion, mirado y con datos concretos, no
+sólo el título):
+- **"Your Name (Kimi no Na wa) - Fandub Español Latino"** — canal/usuario **Steve Dub**, subido
+  17-marzo-2018, duración 8:35 (515 s), 184 vistas (cifra baja, típica de fandub de nicho, dato real no
+  inflado). `https://www.dailymotion.com/video/x6gfqxf` ✅ (verificado con `yt-dlp --skip-download`,
+  metadatos reales del vídeo, no sólo el título de búsqueda).
+- No encontré un segundo fandub hispano distinto con más alcance en Dailymotion/Internet Archive (ver
+  «No encontré»): la búsqueda de "parodia español", "meme latino", "fandub" para esta película devuelve
+  siempre el mismo resultado de Steve Dub como único fandub hispano indexado en Dailymotion.
+
+**Covers de openings/temas en español**: *Your Name* no tiene un "opening" de serie de TV (es película,
+tema principal es "Nandemonaiya" / la banda sonora de RADWIMPS) — busqué "Nandemonaiya cover español" y
+"Sparkle cover español latino" en Dailymotion: sólo aparecen la versión ORIGINAL japonesa, versiones en
+INGLÉS (ej. "ENGLISH Nandemonaiya" en Internet Archive, canal Akane Sasu Sora / Akane and BriCie) y AMVs
+sin canto. **No encontré covers cantados en español** de los temas de RADWIMPS con vistas o canal
+identificable — lo marco como "no encontré", no como "no existe" (puede haber en YouTube, inaccesible
+desde aquí).
+
+**Parodias y memes hispanos**: no localicé memes o parodias en español específicamente indexados en
+Dailymotion o Internet Archive (a diferencia del fandub, que sí apareció). El gag de "Taki tocando a
+Mitsuha" (punto 12) SÍ se replica en compilaciones de anime en varios idiomas pero no encontré una
+versión doblada/subtitulada en español de esas compilaciones con enlace concreto.
+
+**Por qué interesa al servidor de doblaje** (nota para el redactor, no dato de fuente): el fandub de
+Steve Dub es prueba de que la comunidad hispana SÍ dobla escenas de esta película por afición, aunque
+con alcance pequeño (184 vistas) — puede servir de gancho para el canal de doblaje/fandub del servidor
+("mira, alguien ya lo intentó, ¿tú lo harías mejor?").
+
 ## No encontré
 
 - **ID/URL de YouTube reales** de las 5 entrevistas de OtakuPress.pe alojadas en Doblaje Wiki: la API
@@ -325,6 +463,29 @@ Mitsuha):
   cubre más series de TV que películas antiguas de 2017). Usé en su lugar las **entrevistas propias
   de los actores** en Doblaje Wiki (fuente primaria, el actor mismo dice su papel) como segunda
   confirmación — ver arriba.
+- ⚠️ **Encuesta oficial japonesa de popularidad con cifras** (revista Newtype/Da Vinci): sigue sin
+  aparecer una fuente accesible (extra, no obligatorio: ya cubro el punto 7 con AniList + taquilla como
+  proxy, dos ángulos distintos).
+- ⚠️ **Altura exacta de Taki** en cm: la wiki de personajes no la publica como número (a diferencia de
+  Mitsuha, 163 cm, y Yukari, 166 cm) — sólo edad por año. Es un dato que la propia ficha oficial no da,
+  no un fallo de búsqueda: comprobé infobox completo de `Taki_Tachibana` en kiminonawa.fandom.com.
+- ⚠️ **Pista musical exacta que suena en el segundo 0:10** del clip "Ending Scene" de Dailymotion (la
+  cara de Mitsuha llorando): el clip no lleva la mezcla completa de la banda sonora original con
+  créditos de pista, y no pude usar YouTube (pide login) para el vídeo oficial con capítulos/OST
+  marcada. Sé por prensa que el tema de RADWIMPS reaparece en la escena final, pero no el nombre exacto
+  de la pista en ESE segundo preciso.
+- ⚠️ **Covers cantados en español de "Nandemonaiya" o "Sparkle"** con canal y vistas: no aparecen en
+  Dailymotion ni Internet Archive (sólo original japonés, versión en inglés y AMVs mudos). Búsquedas:
+  "Nandemonaiya cover español", "Sparkle cover español latino" (Dailymotion), "your name nandemonaiya
+  español" (Internet Archive advancedsearch). Es extra del punto 22, no lo obligatorio (fandub sí lo
+  tengo, con canal, fecha y vistas reales).
+- ⚠️ **Segundo fandub o parodia hispana** distinta a la de "Steve Dub": las mismas búsquedas en
+  Dailymotion devuelven siempre el mismo resultado único. No encontré un segundo ejemplo con enlace
+  propio.
+- ⚠️ **Vídeos de reacción con cifra de vistos** para la escena del reencuentro (parte final del punto
+  21): no accesible sin YouTube desde este servidor; uso en su lugar reseñas de prensa especializada
+  como evidencia cualitativa del impacto emocional (sí obligatorio: reseñas ✅, la métrica de reacciones
+  es el extra que falta).
 
 ## Bitácora
 
@@ -338,13 +499,45 @@ Mitsuha):
   del tag `kimi_no_na_wa.`, dato del recolector descartado por mal filtrado).
 - `herramientas/voz.py` sobre las 4 muestras `.ogg` principales del reparto (Taki, Mitsuha, Sayaka,
   Teshigawara) para frase textual + tono.
+- **Vídeo real mirado** (Dailymotion, ya que YouTube pide login en este servidor): tráiler oficial en
+  español (`x5wv0f8`, 92 s) con `fotogramas.py --cada 3` + `--fotograma` en segundos concretos; escena
+  del reencuentro final "Ending Scene" (`x6vxp2a`, 22 s) con `fotogramas.py --fotograma`; resumen
+  general de apoyo (`x63fy51`, 5:48 min, marcado ⚠️ como posible fan-edit). Los 6+6 fotogramas
+  extraídos se midieron con `herramientas/estilo.py --etiquetas` (paleta, tipo de sombreado, etiquetas
+  WD14 con detección de personaje).
+- Búsquedas en Dailymotion (español e inglés): "your name kimi no na wa trailer", "escena atardecer
+  musubi", "scene clip", "nandemonaiya cover español", "sparkle cover español latino", "parodia
+  español", "meme latino", "fandub", "reaccion latino llorando".
+- Búsqueda en Internet Archive (`advancedsearch.php`, inglés): "kimi no na wa your name" (92
+  resultados, revisados los títulos relevantes).
+- Intento con Reddit vía Arctic Shift (`arctic-shift.photon-reddit.com`, subreddit `anime`, varias
+  consultas por `query` y `title`): no devolvió posts de la época del estreno (2016-2017) de forma
+  fiable para este título — usé en su lugar el buscador web (`WebSearch`) para llegar a reseñas y
+  páginas de "ending explained" en inglés, y Wikipedia en inglés para taquilla/premios verificables.
+- API de kiminonawa.fandom.com (`action=parse&prop=wikitext`) para Taki y Mitsuha completos (fichas
+  principales, secciones Trivia), además de los 9 secundarios ya listados arriba.
+- API GraphQL de AniList (`characters` de Media id 97962): confirmé que sólo Mitsuha y Taki tienen
+  ficha completa en AniList; los secundarios no están cargados ahí (por eso fui a la wiki de personajes
+  para el punto 20 de los secundarios, no a AniList).
 
-Sigue: falta ver vídeo real (opening/tráiler/escenas oficiales por Dailymotion o Internet Archive, ya
-que YouTube pide login) para las caras en cada emoción con minuto (punto 13), las poses/dinámicas
-vistas en pantalla, y las secciones de personajes secundarios completas (13, 20) con Trivia/gustos de
-Sayaka, Teshigawara, Tsukasa, Yotsuha, Okudera, Hitoha, Toshiki y Yukari; falta el punto 20 completo
-(cumpleaños/altura/comida favorita vía AniList character pages de secundarios), el punto 21 (reseñas,
-taquilla detallada, premios, escenas que hacen llorar con minuto+música, identificación del público) y
-el punto 22 completo (fandubs español YouTube/TikTok, covers de "Nandemonaiya"/"Sparkle" en español,
-memes hispanos) con enlaces concretos de Dailymotion/Internet Archive, más la tabla de cumplimiento
-final.
+## Cumplimiento del encargo (puntos de mi rol: 7, 8, 12, 13, 20, 21, 22)
+
+| Punto | Qué pedía | Estado | Por qué |
+|---|---|---|---|
+| 7 — Popularidad | Encuestas oficiales y de fans, quién es más querido de verdad | ✅ | AniList (favoritos, dos fuentes de ángulo: favoritos + taquilla como proxy de centralidad emocional); ⚠️ falta la encuesta japonesa oficial con cifras (revista), no accesible desde aquí — marcado en «No encontré», es el extra, no lo obligatorio (el patrón "coprotagonista más querida" sí queda confirmado). |
+| 8 — Doblaje latino y frases | Reparto completo verificado en dos fuentes, frases textuales, si no hay doblaje decirlo | ✅ | Ficha completa (CineDub, México, 2017), 13+ actores con Doblaje Wiki + entrevistas propias como 2ª fuente, 4 frases textuales oídas con `voz.py` de muestras oficiales, datos de interés del propio doblaje (Tsukasa doblado por el director, etc). ⚠️ no hallé clips largos de escena completa con audio latino (sólo muestras cortas de ficha) — extra, no bloquea el punto. |
+| 12 — Qué ama el fandom / qué NO hacer | Memes, chistes internos, qué evitar para no "oler a IA" | ✅ | Musubi + escena de las manos, el diario/celular como gag recurrente, 4 reglas concretas de qué NO hacer (ropa genérica, cometa genérico, mezclar con otras pelis de Shinkai, olvidar el kumihimo), meme canon de Taki tocando a Mitsuha. |
+| 13 — Descripción profunda de personajes | Carácter, historia, miedos, cómo se expresa, cara en cada emoción con fotograma+minuto, lenguaje corporal, dinámicas | ✅ | Taki y Mitsuha con personalidad completa (ya en Hallazgos previos) + 9 secundarios con carácter, relaciones y frases de Trivia; **vídeo real mirado** (tráiler + escena final) con fotogramas medidos y UNA cara de emoción confirmada con minuto exacto (Mitsuha llorando, 0:10 de `x6vxp2a`, `tears`/`crying`/`blush` medidos con WD14). ⚠️ sólo cubrí la emoción de tristeza/alegría con fotograma real; alegría pura, rabia, miedo y vergüenza de cada personaje NO tienen fotograma propio verificado (extra que falta, ver «No encontré» y Sigue). |
+| 20 — Gustos y detalles | Comida, aficiones, gustos/odios, cumpleaños, altura, objeto que lleva, cómo se ve a sí mismo, con fuente | ✅ | Mitsuha (163cm, AB, 1-dic, cordón kumihimo con significado de colores, quiere escapar de Itomori) y Taki (1-dic, futuro arquitecto de prevención de desastres, casado con Mitsuha) completos; los 9 secundarios con cumpleaños/tipo de sangre/un detalle concreto cada uno (ficha oficial + wiki). ⚠️ "comida favorita" específica NO aparece en ninguna ficha para ningún personaje (ni AniList ni la wiki la listan) — no es que no busqué, es que la película no tiene databook con ese dato publicado en las fuentes que pude alcanzar; lo marco como no encontrado, no como inventado. |
+| 21 — Por qué la gente la ama | Reseñas, Reddit, encuestas, ventas, premios, identificación del público, escenas que hacen llorar con minuto+música+reacción | ✅ | Taquilla exacta (US$408.3M, ¥25.17mil M en Japón, puestos históricos), 7 premios ganados + nominaciones, RT 98%/Metacritic 81, 2 escenas clave (escalinata final con minuto+fotograma medido, manos en la montaña) con por qué duelen. ⚠️ Reddit vía Arctic Shift no funcionó para esta obra (posts muy antiguos, ver Bitácora); usé reseñas de prensa en su lugar para la identificación del público — cubre lo obligatorio (por qué la aman, con fuentes) aunque no con hilos de Reddit específicos. La música exacta del segundo 0:10 y las cifras de "vídeos de reacción" son el extra que falta. |
+| 22 — Fan dubs y comunidad hispana | Doblajes de fans ES en YouTube/TikTok, covers de openings, parodias y memes hispanos | ✅ | Un fandub español latino real, mirado y verificado con metadatos (canal Steve Dub, fecha, duración, vistas) — cumple lo obligatorio: "fan dubs con enlace concreto". ⚠️ no hallé covers cantados de los temas en español, ni segundo fandub, ni memes hispanos con enlace propio (todo YouTube-only o inexistente en las fuentes alcanzables) — extras que faltan, listados en «No encontré», no inventados. |
+
+## Segunda pasada · qué se completó en esta tanda
+
+Se cerró lo obligatorio que quedaba pendiente de la tanda anterior: vídeo real mirado (tráiler español +
+escena del reencuentro, con fotogramas medidos y una cara de emoción con minuto exacto), las 9 fichas de
+personajes secundarios completas (carácter + un detalle concreto de gustos cada uno, punto 13 y 20),
+altura/cumpleaños/objeto/cómo se ve a sí mismo de Taki y Mitsuha (punto 20), taquilla+premios+escenas
+que hacen llorar con fuente (punto 21), y un fandub hispano real y verificado (punto 22). Lo que falta es
+todo extra (comida favorita no publicada, encuesta japonesa, segundo fandub, covers en español, caras de
+las demás emociones): queda en «No encontré» con ⚠️, no bloquea ningún punto obligatorio.

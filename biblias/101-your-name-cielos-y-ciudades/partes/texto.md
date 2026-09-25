@@ -85,7 +85,133 @@ hex en fotograma propio, que no es obligatorio para este punto y depende de víd
 - EN: `CoMix Wave Films RETAS Photoshop After Effects software anime production pipeline` (WebSearch) — sólo genérico de la industria, no específico del estudio; no se usa como ✅.
 - Fandom (`kiminonawa.fandom.com/api.php`): `list=search` para manga, game, logo; `action=parse&prop=wikitext` en `Your Name`.
 
-Sigue: punto 25 (mundo, símbolos, arcos de la historia).
+### Punto 25 — El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ✅ (wikitext de `Your_Name` y `Miyamizu_Shrine` en
+`kiminonawa.fandom.com`, confirmado por partes también en Wikipedia ES/EN):
+1. Dos personas (Taki, en Tokio 2016; Mitsuha, en Itomori 2013) intercambian cuerpos al dormir, sin
+   saberlo al principio: cada uno vive el día del otro y olvida al despertar en el suyo.
+2. Se comunican dejándose notas: en el móvil del otro, en papel, y a veces escribiendo directo en
+   la piel (cara, mano) — ver punto 6.
+3. El pueblo de Mitsuha, Itomori, fue arrasado por un fragmento del cometa Tiamat en 2013; el
+   "cambio de cuerpos" resulta ser en realidad un salto de tres años, no un sueño simultáneo.
+4. Todo gira en torno al concepto sintoísta de **musubi** (結び): el hilo/lazo que conecta personas,
+   tiempo y memoria — encarnado en el dios guardián **Musubi-no-Kami** del santuario Miyamizu.
+5. El ritual central es el **kuchikamizake** (口噛み酒): sake fermentado con la saliva de la
+   sacerdotisa (Mitsuha), ofrenda sagrada que permite a Taki, al bebérselo, "conectar" con la vida
+   de ella y desencadenar el clímax de la historia.
+
+**La historia por arcos** (con momentos clave) ✅:
+- **Arco 1 — El intercambio** (sin que lo entiendan): Mitsuha despierta como Taki y viceversa;
+  descubren las reglas jugando y dejándose notas; ella le arregla una cita con Miki Okudera, él
+  discute con sus compañeras de clase por ella.
+- **Arco 2 — El vínculo se rompe**: los cambios se detienen de golpe; Taki no logra contactar a
+  Mitsuha; sólo entonces intenta ir a buscarla a Itomori con un dibujo hecho de memoria (no sabe ni
+  el nombre del pueblo).
+- **Arco 3 — La revelación**: en Hida descubre que Itomori fue destruido por el cometa **tres años
+  antes**; Mitsuha está en la lista de fallecidos; sus notas se borran ante sus ojos.
+- **Arco 4 — El rescate en el pasado**: bebe el kuchikamizake en el santuario y despierta en el
+  cuerpo de Mitsuha, en 2013, la noche del festival; junto a Tessie y Sayaka monta un plan de
+  evacuación saboteando el sistema eléctrico del pueblo para forzar la alarma.
+- **Arco 5 — El atardecer (kataware-doki)**: en la frontera entre las dos líneas de tiempo, Taki y
+  Mitsuha se encuentran un instante al anochecer en la cima del monte; él le escribe en la mano,
+  pero sólo llega a poner "te quiero" antes de separarse otra vez; ella, corriendo, recuerda a
+  tiempo y logra convencer a su padre alcalde de evacuar.
+- **Epílogo**: años después (ocho para ella, cinco para él), ambos son jóvenes adultos en Tokio,
+  sin recordarse conscientemente pero buscándose sin saber por qué, hasta que se cruzan en una
+  escalera y por fin se preguntan el nombre del otro (la escena que da título a la película).
+
+**Emblemas, objetos icónicos y vocabulario propio** (para que un fan lo reconozca al instante) ✅:
+- **Kumihimo** (組紐): el cordón trenzado rojo que Mitsuha lleva en el pelo; simboliza el musubi y
+  es el objeto físico que cruza el tiempo entre ambos (ella se lo lanza a Taki al final del primer
+  encuentro fallido en el tren).
+- **Kuchikamizake** (口噛み酒): explicado arriba.
+- **Cometa Tiamat**: el cometa cuyo paso cíclico (siglos) desencadena la tragedia; en la wiki se
+  documenta un impacto anterior en el año 813 (registrado en la corte de Heian-kyō como "estrella
+  huésped que se dividió en dos") que originó el propio cráter donde se formó el Lago Itomori.
+- **Gran Incendio de Mayugoro** (1813): un incendio real dentro de la ficción que destruyó los
+  archivos antiguos del santuario Miyamizu, por lo que los rituales se siguieron haciendo "de
+  memoria muscular" sin que nadie recordara ya su significado original — es la razón narrativa de
+  que Mitsuha no entienda el verdadero propósito del rito que practica. ✅ (confirmado en dos wikis
+  de Fandom independientes: `kiminonawa.fandom.com/wiki/Great_Fire_of_Mayugoro` y
+  `remixfavoriteshowandgame.fandom.com/wiki/Great_Fire_of_Mayugoro`, mismo dato).
+- **Kataware-doki** (かたわれ時): la palabra dialectal de Hida para el crepúsculo/atardecer,
+  momento "entre" el día y la noche en el que la frontera entre mundos se hace fina — es la escena
+  central de todo el clímax visual de la película.
+- **La cresta figura-de-ocho del Lago Itomori**: tras el impacto del cometa, el lago cambia de
+  forma; ese doble cráter es el paisaje icónico final del pueblo destruido/reconstruido.
+- **"Musubi"** también nombra directamente el hilo rojo del destino que el propio Shinkai cita como
+  base cultural del guion (ver punto 18, cita de la entrevista ANN 2016).
+
+**Nota de método**: los detalles de fechas exactas (813 d.C., incendio de 1813, JAXA investigando
+el cráter) proceden del wiki de fans `kiminonawa.fandom.com`, que documenta esto como parte del
+lore visto en pantalla (letreros, diálogo de Hitoha, textos del festival) más que como Wikipedia
+en inglés/español, que se queda en el resumen de trama sin esos detalles de fecha. Marco estos
+detalles de fecha como ✅ dos fuentes sólo donde los confirmé en dos wikis de Fandom independientes
+(el incendio de Mayugoro); el resto de fechas exactas del santuario (813 d.C., fundación) sólo
+tiene una fuente (`kiminonawa.fandom.com`) y se marca ⚠️.
+
+## Lo mejor para la lámina
+
+1. El objeto-símbolo más fuerte y más "Blender-able" es el **kumihimo** (cordón trenzado rojo):
+   pequeño, con textura de hilo real, y es literalmente el hilo del destino que cruza el tiempo.
+2. El "cuadro de diálogo" propio de la serie no es un globo: es **letra a mano sobre piel, papel o
+   pantalla de móvil** — la escena de "te quiero" escrito en la palma es la imagen más reconocible
+   de cómo se hablan los personajes.
+3. Tipografía de logo: **Noto Serif JP** o **Shippori Mincho** (aproximación libre a la A1 Mincho
+   real), confirmadas con tildes, ñ, ¿ y ¡ vía fontTools.
+4. Paleta de luz: nada de un solo punto de luz dramático en las escenas de atardecer — luz pareja,
+   degradados suaves, siguiendo la cita literal de Shinkai ("nothing is brighter than anything").
+5. Evitar cualquier código visual de manga de acción (onomatopeyas gigantes, globo de grito): el
+   tono es íntimo y contemplativo.
+
+## No encontré
+
+- ⚠️ Videojuego oficial de la franquicia: no existe (búsqueda negativa documentada, punto 11).
+- ⚠️ Fuente tipográfica exacta de los créditos finales y de los subtítulos oficiales en español:
+  no encontré una fuente que lo identifique; probablemente son las fuentes estándar de cada
+  plataforma de streaming, no algo propio de la producción.
+- ⚠️ Software de producción exacto de CoMix Wave Films (Photoshop, RETAS, Toon Boom...): ni la
+  entrevista de making-of de ANN ni ninguna otra fuente primaria lo confirma; sólo hay resultados
+  genéricos de la industria del anime, que no se citan como dato de este estudio en concreto.
+- ⚠️ Rotulado exacto de los globos/onomatopeyas del manga (Ranmaru Kotone, Kadokawa, 3 tomos): no
+  tuve acceso a páginas escaneadas para comprobarlo directamente.
+- ⚠️ Un análisis con fuente citable de encuadres y tipos de plano por emoción (más allá de las citas
+  ya dadas de Shinkai sobre contraste y "gap" fondo/personaje): depende de mirar fotogramas, tarea
+  del investigador de vídeo (puntos 2, 4, 9, 10, 14), no de este rol.
+- ⚠️ La cita atribuida a Shinkai en varios blogs (animepapa.com) sobre "the feeling of the world
+  changing imperceptibly around us" (supuesta entrevista con NYT): no pude confirmarla en una
+  fuente primaria; los blogs que la citan tienen versiones traducidas con errores evidentes de
+  máquina, señal de baja fiabilidad. **No la uso como dato.**
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 5. Tipografía por uso | ✅ | Logo confirmado (A1 Mincho → Noto Serif JP/Shippori Mincho, con tildes/ñ/¿/¡ comprobadas con fontTools). Créditos y subtítulos oficiales: ⚠️ sin fuente. |
+| 6. Cómo hablan y piensan en pantalla | ✅ | Mecanismo completo (móvil, papel, piel) con fuente y capturas propias de la wiki citadas; motivo del musubi enlazado. |
+| 11. Videojuegos de la franquicia | ✅ (negativo documentado) | No existe videojuego oficial; búsqueda en dos idiomas, se documenta en vez de inventar. |
+| 18. Estilo y cómo replicarlo | ✅ | Citas directas de Shinkai (BFI, ANN 2016) y del making-of del estudio (ANN 2025) sobre contraste, luz neutra, realismo de Tokio, departamentos de producción. Software concreto y encuadres: ⚠️ sin fuente, declarado. |
+| 24. Obras parecidas | ✅ | Influencias literarias declaradas por Shinkai (wiki, sección Production) + filmografía propia (Wikipedia) + recomendaciones de AniList (`datos-texto.md`). |
+| 25. Mundo, historia y símbolos | ✅ | Reglas del mundo, arcos completos, vocabulario (musubi, kumihimo, kuchikamizake, kataware-doki, cometa Tiamat, incendio de Mayugoro) con fuente. |
+
+## Bitácora (continuación)
+
+- Fandom (`kiminonawa.fandom.com/api.php`, `action=parse&prop=wikitext`): páginas `Your Name`,
+  `Your Name (Manga)`, `Miyamizu Shrine`, `Nandemonaiya (Movie Version)`; `list=search` para
+  `manga`, `game`, `logo`, `musubi`.
+  Segunda fuente de "Great Fire of Mayugoro": `remixfavoriteshowandgame.fandom.com`.
+- EN: `"Your Name" influences "5 Centimeters per Second" "Voices of a Distant Star" Shinkai filmography style comparison` (WebSearch) → Wikipedia como fuente principal de filmografía.
+- EN: `Makoto Shinkai "Your Name" making of interview animation technique CoMix Wave photorealistic backgrounds Photoshop` (WebSearch) → BFI Sight & Sound (entrevista directa) y ANN (making-of del estudio).
+- EN: `Makoto Shinkai lens flare cloud painting technique signature style analysis` (WebSearch) → sólo blogs no verificados (animepapa.com), no se citan como confirmado.
+- EN: `Makoto Shinkai New York Times interview "feeling of the world changing" sky obsession` (WebSearch) → cita no confirmable en fuente primaria, descartada.
+- EN: `how to recreate Makoto Shinkai anime style Photoshop clouds light god rays tutorial` (WebSearch) → tutoriales de terceros, usados sólo como referencia de técnica genérica, no como dato del estudio.
+- EN: `Your Name Kimi no Na wa "Great Fire of Mayugoro" OR "Musubi-no-Kami" shrine history` (WebSearch) → confirma el incendio en dos wikis de Fandom independientes.
+- EN/ES: búsquedas de videojuego oficial (2) → negativo, documentado en punto 11.
+- WebFetch directo: BFI (`bfi.org.uk`), ANN making-of (`animenewsnetwork.com/.217914`), ANN entrevista 2016 (`.110150`), fontlot.com, fontmeme.com (403).
+- Herramientas: `fontTools` (`TTFont.getBestCmap()`) sobre subsets reales bajados de Google Fonts para Noto Serif JP (tildes minúsculas, mayúsculas, ñ/Ñ, ¿, ¡ — todos presentes).
+
+Sigue: nada obligatorio pendiente. Quedan sólo extras señalados arriba en «No encontré» (software exacto del estudio, tipografía de créditos/subtítulos, análisis de encuadre por fotograma).
 
 ### Punto 24 — Obras parecidas y temas relacionados
 
