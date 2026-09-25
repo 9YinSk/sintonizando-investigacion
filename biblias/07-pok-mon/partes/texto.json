@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "fuente": "PokeAPI/sprites (GitHub) — arte oficial de los juegos",
+    "ancho": 475,
+    "alto": 475,
+    "que_es": "Pikachu, arte oficial de videojuego: línea marrón oscura #221B11 y sombreado en degradado suave (medido con estilo.py y mirado en grande)",
+    "para_que": "Punto 18: referencia real de línea y sombreado del estilo 'juego', para no usar un contorno negro plano en la lámina",
+    "licencia": "Copyright The Pokémon Company / Nintendo / Game Freak — sólo como referencia visual, nunca para pegar"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "fuente": "PokeAPI/sprites (GitHub) — arte oficial de los juegos",
+    "ancho": 475,
+    "alto": 475,
+    "que_es": "Charmander, arte oficial de videojuego: línea marrón oscura #3A2F26 y sombreado en degradado suave (medido con estilo.py)",
+    "para_que": "Punto 18: segundo ejemplo medido de línea/sombreado 'estilo juego', para comparar con el estilo cel del anime de TV",
+    "licencia": "Copyright The Pokémon Company / Nintendo / Game Freak — sólo como referencia visual, nunca para pegar"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+    "fuente": "PokeAPI/sprites (GitHub) — render 3D de Pokémon HOME",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Pikachu, render 3D oficial sin línea de tinta: el volumen lo da la luz, borde dorado #D6B748 medido, no un contorno negro",
+    "para_que": "Punto 18: referencia de cómo el propio Pokémon Company resuelve el contorno en 3D moderno, para el shader de Blender",
+    "licencia": "Copyright The Pokémon Company / Nintendo / Game Freak — sólo como referencia visual, nunca para pegar"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/35716003a1964704b1b145e6c6a05b07/thumbnails/41ed2251105e44eb86597c97b5b92053/cbee8a564f5f4688ae6216d7e2fc1335.jpeg",
+    "fuente": "Sketchfab (Eleanie) — https://sketchfab.com/3d-models/pikachu-35716003a1964704b1b145e6c6a05b07 (confirmado por la API de Sketchfab, 24-sep-2026)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Pikachu CON esqueleto/rig, 106512 caras, sombreado tipo cómic configurable por nodos",
+    "para_que": "Punto 18: base real para posar a Pikachu en Blender sin dibujar desde cero; ningún modelo de personaje estaba listado antes en la biblia",
+    "licencia": "CC BY 4.0 — crédito obligatorio a Eleanie, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/f767f1a21b924033991a7fb1fb19820d/thumbnails/3a01cf9c636a4ef9be2754cfff79e789/d95b0d65d1544d74846333ae415c41b1.jpeg",
+    "fuente": "Sketchfab (Neut2000) — https://sketchfab.com/3d-models/ash-ketchum-f767f1a21b924033991a7fb1fb19820d (confirmado por la API de Sketchfab, 24-sep-2026)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Ash Ketchum CON esqueleto/rig, 8613 caras",
+    "para_que": "Punto 18: única referencia 3D libre de Ash encontrada; la biblia sólo tenía objetos (Pokébola, laboratorio, Game Boy), no personajes",
+    "licencia": "CC BY 4.0 — crédito obligatorio a Neut2000, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/212d5d395ad14367aacac0be70922acb/thumbnails/eb9b9646c3bc4d6495f178fe85171b4c/610be34a039e4de5bb59cf00352d77ce.jpeg",
+    "fuente": "Sketchfab (lopuh22721) — https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb (confirmado por la API de Sketchfab, 24-sep-2026)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D del Profesor Oak CON esqueleto/rig, 8068 caras (la biblia ya lo listaba en §4 pero con ⚠️ sin detalle ni autor real)",
+    "para_que": "Punto 18: confirma que este modelo de Oak SÍ trae rig y licencia clara — sube de ⚠️ a ✅ para posarlo en Blender",
+    "licencia": "CC BY 4.0 — crédito obligatorio a lopuh22721 (no '3D Resource' como decía la biblia), confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/c22dab8fc3064c76a0c502d64555a74f/thumbnails/3c0ec05a5a3b41559ded3e8f6d02a3a7/21db0147ca2642a89ee73b499be5a230.jpeg",
+    "fuente": "Sketchfab (jacobjksn42) — https://sketchfab.com/3d-models/pikachu-c22dab8fc3064c76a0c502d64555a74f (confirmado por la API de Sketchfab, 24-sep-2026)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Pikachu low-poly CON rig, 4500 caras",
+    "para_que": "Punto 18: alternativa ligera al modelo de Eleanie si el proyecto de Blender necesita menos polígonos (lámina 2 o pose lejana)",
+    "licencia": "CC BY 4.0 — crédito obligatorio a jacobjksn42, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg",
+    "fuente": "Wikimedia Commons — usado como logo internacional en el artículo de Wikipedia sobre la franquicia",
+    "ancho": 1200,
+    "alto": 440,
+    "que_es": "Logo oficial 'Pokémon' (amarillo con borde azul y sombra 3D), vectorial; medido a 1200px con estilo.py tras pasarlo a PNG con cairosvg: amarillo #FECA02, borde #3566AE, sombra #213A71",
+    "para_que": "Punto 25 (§25.3, logo/emblema) y guía de IA de la biblia: hex reales del logo, medidos, no de memoria",
+    "licencia": "Wikimedia Commons lo cataloga como logo con copyright de Nintendo/Game Freak/The Pokémon Company, uso bajo criterio de imagen no libre — sólo como referencia, nunca para pegar"
+  },
+  {
+    "url": "https://interfaceingame.com/wp-content/uploads/pokemon-lets-go-pikachu/pokemon-lets-go-pikachu-dialogue.jpg",
+    "fuente": "Interface In Game — captura real de Nintendo Switch (EXIF: manufacturer Nintendo co. ltd, 21-abr-2019)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Caja de diálogo de Pokémon Let's Go, Pikachu!: fondo blanco cálido #FDFCFA-#F3F4F1 con trama sutil, borde dorado-oliva #88893D-#C8C899, icono de Poké Ball en la esquina (medido con estilo.py)",
+    "para_que": "Punto 6/18: primera referencia real de esta caja (antes la biblia decía 'no pude abrirla'); para el cuadro de diálogo y el estilo de UI de Let's Go",
+    "licencia": "Captura de juego con copyright de Nintendo/Game Freak/The Pokémon Company, publicada por Interface In Game — sólo como referencia, nunca para pegar"
+  }
+]

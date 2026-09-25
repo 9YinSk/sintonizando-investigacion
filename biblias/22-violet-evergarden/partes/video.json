@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8c9bet",
+    "fuente": "Dailymotion (canal Espinof)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Opening completo «Sincerely» (TRUE), mirado entero con fotogramas.py cada 3 s (31 fotogramas, 0:00 a 1:30)",
+    "para_que": "Punto 2 y 9: fotogramas de la secuencia de apertura, música y estructura visual del opening",
+    "licencia": "vídeo público en Dailymotion, reesubida de material oficial; usar sólo como referencia, no para descargar/publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7t0he2?t=56",
+    "fuente": "Dailymotion (canal FilmAffinity)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial subtitulado en español; fotograma en 0:56 muestra a Gilbert Bougainvillea de perfil con su nombre y actor de voz japonés en pantalla",
+    "para_que": "Punto 10 y 14: tráiler mirado completo con minutos; pose de Gilbert (no estaba en la biblia)",
+    "licencia": "vídeo público en Dailymotion, reesubida del tráiler oficial de Netflix; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube-UKU4B05fPck",
+    "fuente": "Internet Archive (espejo de YouTube)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Vídeo musical oficial (acción real) del ending «Michishirube», cantado por Minori Chihara; letra y música según la descripción del propio ítem",
+    "para_que": "Punto 9: ending mirado (no encontré la secuencia animada del anime en Dailymotion/IA); referencia de ambiente carta+campo",
+    "licencia": "mirror de YouTube en archive.org; derechos de la discográfica/Aniplex; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8qbypz?t=9",
+    "fuente": "Dailymotion (canal Wings of Silk)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Escena del ep. 11: Violet salta en paracaídas desde el avión para rescatar al soldado Aidan (confirmado por subtítulo japonés del episodio, min. 00:10:04-00:10:15)",
+    "para_que": "Punto 2 y 14: escena icónica de acción, pose de Violet en pleno salto",
+    "licencia": "vídeo público en Dailymotion, clip de la serie oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x80vbaj?t=80",
+    "fuente": "Dailymotion (canal lawrenceburgos69)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Escena del ep. 10 con subtítulo en inglés: las 50 cartas de cumpleaños que una madre moribunda deja a su hija Ann, una por año",
+    "para_que": "Punto 2 y 14: escena icónica ya citada en la biblia (00:20:26-00:22:38), ahora confirmada por fotograma con minutos del clip",
+    "licencia": "vídeo público en Dailymotion, clip de la serie oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x947zqa?t=18",
+    "fuente": "Dailymotion (canal Chopper bom)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Escena del ep. 1, subtítulos en español: Violet en el hospital, día 120, escribe su parte al Mayor Gilbert antes de saber qué es «te quiero» (confirmado con el .srt japonés original, min. 00:01:19-00:01:34)",
+    "para_que": "Punto 2 y 14: escena de origen de #poemas; pose de Violet tumbada y luego escribiendo con la mano protésica",
+    "licencia": "vídeo público en Dailymotion, clip de la serie oficial; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8c9bet?t=48",
+    "fuente": "Dailymotion (canal Espinof), fotograma medido con estilo.py y Pillow",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del opening (0:48-0:51) con el broche verde de Violet en primer plano",
+    "para_que": "Punto 4: color medido del broche (#4C8669), más verde-oliva que el estimado anterior de la biblia (#1E8A5A)",
+    "licencia": "vídeo público en Dailymotion; sólo referencia de color, no imagen para pegar"
+  },
+  {
+    "url": "https://www.reddit.com/r/VioletEvergarden/comments/1suyki6/guide_how_to_make_your_keyboard_sound_just_like/",
+    "fuente": "Reddit r/VioletEvergarden (vía Arctic Shift)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Guía de fans para configurar el sonido del teclado propio igual al de la máquina de escribir de Violet (22 puntos)",
+    "para_que": "Punto 9: el tecleo es el efecto de sonido más reconocido de la serie por el fandom",
+    "licencia": "publicación pública de Reddit; citar como fuente, no reproducir el contenido completo"
+  },
+  {
+    "url": "https://www.reddit.com/r/VioletEvergarden/comments/1ltfql7/violet_evergarden_typewriter_sounds_for_mech/",
+    "fuente": "Reddit r/VioletEvergarden (vía Arctic Shift)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Segunda guía de fans (Mechvibes) para el sonido de la máquina de escribir de Violet (24 puntos)",
+    "para_que": "Punto 9: segunda fuente que confirma el tecleo como sonido-marca de la serie",
+    "licencia": "publicación pública de Reddit; citar como fuente, no reproducir el contenido completo"
+  },
+  {
+    "url": "https://tallerabiertodeanimacionjaponesa.blogspot.com/2020/05/un-buen-augurio-lo-sonoro.html",
+    "fuente": "Taller Abierto de Animación Japonesa (blog en español)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Análisis del diseño de sonido del episodio 3: campana metálica, foley de botas, música con nivel alto y textura de «gotitas de agua»",
+    "para_que": "Punto 9: cómo se construye el ambiente sonoro además de la música (una sola fuente, sin minuto exacto)",
+    "licencia": "blog público; citar como fuente, no reproducir el texto completo"
+  },
+  {
+    "url": "https://archive.org/details/violet-evergarden-720p-complete",
+    "fuente": "Internet Archive",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Película «Eternity and the Auto Memory Doll» en 1080p (archivo de 10,6 GB); no descargado esta tanda por peso",
+    "para_que": "Punto 2: única fuente en 1080p+ localizada; pendiente para una tanda con más disco/tiempo",
+    "licencia": "subida de usuario en archive.org; comprobar derechos antes de usar más allá de referencia"
+  }
+]

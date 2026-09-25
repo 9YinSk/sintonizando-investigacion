@@ -358,5 +358,113 @@
   "que_es": "Todo de cuerpo entero, sin camisa, con el brazo derecho estirado hacia arriba y el puño izquierdo cerrado; faja blanca y pantalón ancho",
   "para_que": "Pose de Todo para presentar o saludar a lo grande (§15, pose 6)",
   "licencia": "Arte o fotograma oficial © Gege Akutami / Shueisha / JUJUTSU KAISEN Project (MAPPA), alojado en Jujutsu Kaisen Wiki (Fandom). Sólo referencia: no pegar tal cual."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/54/Yuta%27s_Jujutsu_High_ID_%28Anime%29.png",
+  "fuente": "Jujutsu Kaisen Wiki (jujutsu-kaisen.fandom.com), tamaño por la API imageinfo",
+  "ancho": 1920,
+  "alto": 803,
+  "que_es": "Carnet de estudiante de Yuta Okkotsu: se ve el emblema de la Escuela Superior de Hechicería de Tokio (remolino blanco de 4 brazos en cuadrado negro) en la esquina, y el mismo dibujo en el botón dorado del cuello de la chaqueta",
+  "para_que": "Punto 19: el emblema/logo oficial del colegio, para bordar en tela o poner como sello en la lámina",
+  "licencia": "Fotograma oficial © Gege Akutami / Shueisha / JUJUTSU KAISEN Project, alojado en Jujutsu Kaisen Wiki (Fandom). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/fortnite/images/4/4d/Jujutsu_Kaisen_Emblem_-_Wrap_-_Fortnite.png",
+  "fuente": "Fortnite Wiki (fortnite.fandom.com), tamaño por la API imageinfo",
+  "ancho": 256,
+  "alto": 256,
+  "que_es": "Asset «Jujutsu Kaisen Emblem» (wrap) de la colaboración Fortnite x Jujutsu Kaisen: el mismo remolino de 4 brazos del carnet de Yuta, en rojo sobre negro agrietado",
+  "para_que": "Punto 19 y 23: segunda fuente que confirma el diseño del emblema del colegio, y ejemplo de arte de colaboración con licencia oficial de Shueisha",
+  "licencia": "Asset oficial de Epic Games / Shueisha / JUJUTSU KAISEN Project (colaboración con licencia), alojado en Fortnite Wiki (Fandom). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Satoru_Gojo_-_Outfit_-_Fortnite.png",
+  "fuente": "Fortnite Wiki (fortnite.fandom.com), tamaño por la API imageinfo",
+  "ancho": 256,
+  "alto": 256,
+  "que_es": "Render del skin de Satoru Gojo en Fortnite (colaboración 2023): chaqueta recoloreada en morado (no el azul/negro canon), venda negra, sonrisa pícara",
+  "para_que": "Punto 23: ejemplo de crossover con videojuego, con una variación de color que conviene NO copiar como si fuera canon",
+  "licencia": "Asset oficial de Epic Games / Shueisha (colaboración con licencia), alojado en Fortnite Wiki (Fandom). Sólo referencia."
+ },
+ {
+  "url": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487560/item/usgoods_00_487560_3x4.jpg",
+  "fuente": "Uniqlo US, ficha de producto E487560-000 (imagen oficial de la tienda)",
+  "ancho": 1500,
+  "alto": 2000,
+  "que_es": "Camiseta MANGA UT Shueisha 100th (Jujutsu Kaisen), espalda: collage vertical nuevo con Yuta, Todo, Maki, Higuruma, Kusakabe, Mei Mei, Choso y Rika enfrentando a Sukuna",
+  "para_que": "Punto 23: colaboración de moda (Uniqlo UT) con arte de pose nueva, no un fotograma existente",
+  "licencia": "Producto oficial con licencia © Gege Akutami / Shueisha, foto de catálogo de Uniqlo. Sólo referencia, no pegar la ilustración impresa sin permiso."
+ },
+ {
+  "url": "https://group.hugoboss.com/fileadmin/_processed_/0/a/csm_HUGO_x_Jujutsu_Kaisen_16x9_V2_1_f3d672eb72.jpg",
+  "fuente": "Hugo Boss Group, nota de prensa oficial de la colaboración",
+  "ancho": 1200,
+  "alto": 675,
+  "que_es": "Camiseta azul de la cápsula HUGO x Jujutsu Kaisen: foto tipo carné en blanco y negro de Yuji y Megumi, rótulo «JuJuTsu Kaisen» en grafiti amarillo",
+  "para_que": "Punto 23: colaboración de moda de alta gama, ejemplo de cómo poner arte de personajes sobre una prenda con tipografía distinta al logo oficial",
+  "licencia": "© Gege Akutami / Shueisha, JUJUTSU KAISEN Project. Imagen de prensa oficial de Hugo Boss Group. Sólo referencia."
+ },
+ {
+  "url": "https://about.underarmour.com/en/stories/2025/10/under-armour-and-jujutsu-kaisen-unleash-limited-edition-heatgear/_jcr_content/_cq_featuredimage.uaimg.jpg",
+  "fuente": "Under Armour, nota de prensa oficial de la colaboración",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Camisetas de compresión HeatGear con el logo 呪術廻戦 bordado, un dragón/sombra de Megumi bordado en una manga y la mano ensangrentada de Sukuna estampada en la otra",
+  "para_que": "Punto 23: colaboración deportiva; plantilla de cómo combinar logo bordado + arte de personaje en una prenda sin que parezca parche pegado",
+  "licencia": "© GA/S, JKP (Gege Akutami/Shueisha, Jujutsu Kaisen Project). Imagen de prensa oficial de Under Armour, cortesía de Crunchyroll. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/74/Sukuna_%28Volume_29%29.png",
+  "fuente": "Jujutsu Kaisen Wiki (jujutsu-kaisen.fandom.com), tamaño por la API imageinfo; paleta medida con herramientas/estilo.py",
+  "ancho": 2598,
+  "alto": 3980,
+  "que_es": "Sukuna en su forma real (4 brazos): tatuajes en forma de corchete/gancho morado oscuro en hombros y pecho, puntos negros en los hombros, muñequeras con lunares",
+  "para_que": "Punto 19: patrón del cuerpo/tatuajes de Sukuna, con hex medidos (#010100 negro 29%, #6E3737/#9B524D piel en sombra) para replicar la textura",
+  "licencia": "Ilustración oficial de portada de tomo © Gege Akutami / Shueisha, alojada en Jujutsu Kaisen Wiki (Fandom). Sólo referencia."
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51990687193_31c8113f43_b.jpg",
+  "fuente": "Flickr (timz2011) vía Openverse, ya listada en partes/datos-imagen.md",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Cosplay de Satoru Gojo en convención (chaqueta de cuello alto, venda, peluca blanca), foto real",
+  "para_que": "Punto 23: cosplay bien hecho, con volumen y tela reales, para comparar contra las guías de materiales",
+  "licencia": "CC BY-NC-SA 2.0 (Flickr, timz2011)"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51322703318_ac0dd7ea48_b.jpg",
+  "fuente": "Flickr (esby.photo) vía Openverse, ya listada en partes/datos-imagen.md",
+  "ancho": 1024,
+  "alto": 767,
+  "que_es": "Cosplay de Megumi Fushiguro en convención (Cotignac, 2021): uniforme de la Escuela de Tokio en tela real",
+  "para_que": "Punto 23: cosplay del uniforme escolar, para ver el corte y el grosor de tela reales",
+  "licencia": "CC BY-NC-SA 2.0 (Flickr, esby.photo)"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52537756517_4762222af1_b.jpg",
+  "fuente": "Flickr (timz2011) vía Openverse, ya listada en partes/datos-imagen.md",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Cosplay de Ryomen Sukuna en convención: tatuajes pintados y peluca, foto real",
+  "para_que": "Punto 23: cosplay con maquillaje/pintura corporal real, para comparar contra la guía de materiales de Costumary",
+  "licencia": "CC BY-NC-SA 2.0 (Flickr, timz2011)"
+ },
+ {
+  "url": "https://cgworld.jp/article/C01-1a_D301_cameramap_genzu.jpg",
+  "fuente": "CGWORLD, «『劇場版 呪術廻戦 0』にみるMAPPA流・CGと作画の境界を超えた画づくり 3DBG篇» (24-sep-2026)",
+  "ancho": 1920,
+  "alto": 841,
+  "que_es": "Diagrama técnico (wireframe con textura de cuadros) del camera mapping usado por MAPPA en Jujutsu Kaisen 0: geometría 3D simplificada de un pasillo de la Escuela de Kioto, vista",
+  "para_que": "Punto 18: referencia exacta de cómo se monta el contorno/geometría base antes de proyectar el dibujo 2D encima; sirve para explicar la técnica de camera mapping en Blender (geometría simple + proyección de textura)",
+  "licencia": "Captura de un artículo técnico de CGWORLD (Born Digital); imagen de producción de MAPPA/Toho. Sólo como referencia de la técnica, no para copiar el dibujo."
+ },
+ {
+  "url": "https://cgworld.jp/article/C01-2b_D291_bijutsu.jpg",
+  "fuente": "CGWORLD, «『劇場版 呪術廻戦 0』にみるMAPPA流・CGと作画の境界を超えた画づくり 3DBG篇» (24-sep-2026)",
+  "ancho": 1783,
+  "alto": 790,
+  "que_es": "Comparativa en 4 paneles: el arte 2D pintado a mano de un corredor de la Escuela de Kioto proyectado sobre el modelo 3D con camera mapping (visto con la rejilla de calibración, con árboles, y el suelo/tejado ya texturizados)",
+  "para_que": "Punto 18: ejemplo visual paso a paso de cómo el estudio integra dibujo 2D y geometría 3D; útil para justificar en Blender el flujo modelo simple + Line Art/Freestyle + textura pintada encima",
+  "licencia": "Captura de un artículo técnico de CGWORLD (Born Digital); imagen de producción de MAPPA/Toho. Sólo como referencia de la técnica, no para copiar el dibujo."
  }
 ]

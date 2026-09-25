@@ -1,19 +1,28 @@
 # Lote A (la central): 02-05 y 31-36
 
-Sesión: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
+Sesión anterior: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
 (parte de `claude/peaceful-maxwell-fklpkp`).
 
-## Estado (01:17 UTC del 25)
+## Estado (02:05 UTC del 25, tercera cuenta)
+
+Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama `claude/lote-a-series-inxhbf`.
 
 - 02 Attack on Titan: **COMPLETA** y subida (20:52). ✅33 ⚠️6 ❌0, 218 referencias, 113 webs.
-- 03 Solo Leveling: **COMPLETA** y subida (01:17). ✅32 ⚠️5 ❌0, 148 referencias, 111 webs.
-- 04 Harry Potter: investigadores terminados; redactor en marcha.
-- 05 Oshi no Ko: imagen terminado; texto y voz en marcha.
-- 31 Demon Slayer: imagen y texto en marcha.
-- A las 21:10 del 24 se agotó el límite de uso con 5 agentes; se relanzó a la 01:11.
-- 32: datos recolectados; falta el repaso corto.
-- 33, 34, 36: datos recolectados (36 con hojas).
+- 03 Solo Leveling: **COMPLETA** y subida (01:17). ✅32 ⚠️5 ❌0, 148 referencias, 111 webs, 1760 líneas.
+- 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
+- 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
+- 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
+- 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
+- 33 Frieren: partes listas; redactor (Opus, repaso corto) en marcha.
+- 34 Haikyuu: partes listas; redactor (Opus, repaso corto) en marcha.
 - 35 One Punch Man: COMPLETA.
+- 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
+  dejó escritas §0-17). AnimeThemes sigue caído (522).
+
+Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:11 y
+`optimistic-dirac` desde las 22:43) y rehicieron 03, 04, 05 y 31. Al juntar se quedó
+03 de `cool-keller` (✅32 ⚠️5, una ⚠️ menos) y 04, 05 y 31 de `optimistic-dirac` (las
+subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 
 ## Avisos para el dueño
 
@@ -21,21 +30,46 @@ Sesión: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude
   encontrada) y el 22 (vistas de fan dubs en YouTube sin comprobar: pide iniciar
   sesión). Corregido: Levi no muere en el arco del Titán Femenina; muere su escuadrón.
 
-- 03: quedan a medias los puntos 21 (minuto de la escena del hospital, ep. 21:
-  YouTube pide iniciar sesión) y 22 (no hay fandub latino con grupo propio; vistas
-  de los covers sin leer).
-- 04: el anuncio de Fortnite × Harry Potter se mezcló con la polémica de
-  J. K. Rowling (PinkNews): ojo al usarlo en el canal.
+- 32 Jujutsu Kaisen: más querido, Gojo (4ª encuesta oficial); Megumi ganó la 2ª y
+  3ª. Cuadro de diálogo propio: título en Mincho blanca + hora/lugar + técnicas
+  verticales entre 「」. Corregidas dos afirmaciones falsas de la parte de imagen
+  (modelo de Nobara sin medir; diagramas de CGWORLD no estaban de verdad incluidos).
+
+- 31 Demon Slayer: más querido, Zenitsu (2ª encuesta oficial). Cuadro de diálogo propio:
+  cartela vertical a pincel / tablilla «その1». Corregido: Fortnite NO tiene colaboración
+  oficial (sólo rumor, no usar en láminas); el Tren Mugen son los ep. 27-33.
+
+- 05 Oshi no Ko: personaje más querido, Kana Arima (barra blanca, ep. 11, 07:41).
+  Cuadro de diálogo propio: el directo de MEM (naranja `#DCAC64`). Corregidas dos
+  alucinaciones del buscador: la serie NO ganó el Kodansha Manga Award (sólo nominada)
+  y Rie Takahashi no tiene el premio que decía una fuente. Quedan ⚠️ cumpleaños de Ai/
+  Kana/Akane/MEM y el minuto exacto del ataque a Ai (ep. 1).
+
+- 04 Harry Potter: la colaboración con Fortnite salió en plena polémica por la postura
+  de J. K. Rowling sobre las personas trans (punto 23, anotado). Snape sigue siendo el
+  más querido. Conceptos: A El Profeta en el desayuno, B Dumbledore en el atril del
+  búho, C tablón de Gryffindor con Dobby y su LEGO 76469.
+
+- 03 Solo Leveling: quedan ⚠️ el punto 20 (no hay *databook* con comidas ni alturas
+  oficiales), el 21 (minuto de la escena del hospital, ep. 21) y el 22 (vistas de los
+  6 covers latinos; oír si el doblaje dice «Surge»). Más querido: Sung Jinwoo; cuadro de
+  diálogo: la ventana del Sistema (`#112A39`, filete `#82F3FA`, rojo `#9F205C`). Láminas:
+  A mostrador de la Asociación, B tablón de corcho, C salón del trono con Igris.
 
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
 | 02 | redactor (repaso corto) | Opus | 10 | 230 mil |
+| 03 | redactor (repaso corto) | Opus | 4 | 147 mil |
+| 04 | redactor (repaso corto) | Opus | 12 | 210 mil |
+| 05 | redactor (repaso corto) | Opus | 14 | 245 mil |
+| 31 | redactor (repaso corto) | Opus | 13 | 228 mil |
+| 32 | redactor (repaso corto, 2 tandas por límite de uso) | Opus | 18 | 310 mil |
 | 03 | imagen | Sonnet | 11 | 183 mil |
 | 03 | texto | Sonnet | 13 | 205 mil |
 | 03 | voz | Sonnet | 14 | 212 mil |
-| 03 | redactor (cortado por el límite y relanzado) | Opus | ~25 + 5 | ? + 143 mil |
-| 04 | texto | Sonnet | 11 | 172 mil |
-| 04 | imagen | Sonnet | 12 | 185 mil |
-| 04 | voz (cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
+| 03 | redactor, 2ª vez en `cool-keller` (cortado y relanzado; duplicado) | Opus | ~25 + 5 | ? + 143 mil |
+| 04 | texto (`cool-keller`) | Sonnet | 11 | 172 mil |
+| 04 | imagen (`cool-keller`) | Sonnet | 12 | 185 mil |
+| 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |

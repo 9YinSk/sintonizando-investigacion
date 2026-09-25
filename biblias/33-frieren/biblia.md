@@ -17,9 +17,15 @@ fecha: 2026-09-24
 > - **Límites**: YouTube no dejó bajar vídeo (se miró por storyboards y
 >   miniaturas); la web oficial, TV Tropes y Namu Wiki dieron 403. Todo lo
 >   dudoso lleva ⚠️ y está junto en §20.
+> - **Segunda pasada** el 25-sep-2026 (repaso corto de `EQUIPO.md`): 3
+>   investigadores (imagen, voz, texto) y el redactor añadieron los
+>   **puntos 18-25** de `ENCARGO.md` y la guía para **IA de texto** (§18.7).
+>   Red abierta: wikis en inglés y español por la API, Arctic Shift,
+>   oEmbed de YouTube, ambientCG, webs japonesas de prensa y tiendas.
 
 ## Índice
 
+- Segunda pasada · qué cambió (repaso de los puntos 18-25)
 0. Frieren no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
 2. Las escenas que sirven (con minuto)
@@ -38,11 +44,72 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
+18. Guía para generar con IA (imagen y **texto**, 18.7 nuevo)
+- Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+- Punto 19 · Texturas 2D (tramas, papel, rayas y emblemas)
+- Punto 20 · Gustos y detalles de cada personaje
+- Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+- Punto 22 · Fan dubs y comunidad hispana
+- Punto 23 · Colaboraciones, figuras y cosplay
+- Punto 24 · Obras parecidas y láminas vecinas
+- Punto 25 · El mundo, la historia por arcos y sus símbolos
 19. Tres conceptos de lámina
 20. Lo que no pude verificar
 - Cumplimiento del encargo
 21. Bitácora de búsqueda
+
+## Segunda pasada · qué cambió
+
+Repaso corto del 25-sep-2026 (`EQUIPO.md`): **3 investigadores**
+(imagen, voz, texto) y un redactor. Faltaban los **puntos 18-25** de
+`ENCARGO.md` y la parte de **IA de texto** del punto 17. Lo demás no se
+reescribió.
+
+- **Nuevo**: ocho secciones, «Punto 18» a «Punto 25», entre §18 y §19.
+  - **Técnica** (Punto 18): la dirección de Saitō («lo cotidiano»), la
+    acción dibujada a mano sin CGI, la rotoscopia, el ED de la T2 a
+    **lápiz de color** y el método de Yoshioka (acuarela + 3D + retoque).
+    Recetas para Photoshop y Blender.
+  - **Texturas** (Punto 19): trama de punto del manga **mirada** en un
+    panel; las **rayas de la camisa** de Frieren medidas; el **Emblema
+    Sagrado** medido; 4 texturas CC0 de ambientCG.
+  - **Gustos** (Punto 20): tabla del **Official Fan Book** (pudín Merkur,
+    dulces, Jumbo Berry Special, tortilla Ruf). **No hay cumpleaños
+    oficiales**: campo vacío en las dos wikis.
+  - **Por qué la aman** (Punto 21): Manga Taishō 2021, 5 premios de
+    Crunchyroll, 30 millones de copias; **Stark** como el personaje con
+    el que se identifica el público; **la escena del anillo** como la
+    página más votada (encuesta de Shōgakukan y Reddit).
+  - **Comunidad hispana** (Punto 22): un fandub, **5 covers** del OP en
+    latino, el meme «Frieren hace berrinche», entrevistas a Erika Ugalde
+    y Azucena Estrada.
+  - **Colaboraciones** (Punto 23): Sweets Paradise y «社交界ver.» con
+    **ropa nueva vista**, 11 más de collabo-cafe, 13 figuras y bolsas
+    oficiales, 17 fotos de cosplay CC BY-SA.
+  - **Obras parecidas** (Punto 24) y **mundo** (Punto 25): lo que dice el
+    editor, la recomendación del autor, láminas vecinas, 5 reglas, 9
+    arcos, símbolos y vocabulario.
+  - **IA de texto** (§18.7): cómo escribir en su voz, con frases reales
+    del doblaje ordenadas por emoción.
+- **Correcciones y matices que salen del repaso**:
+  - El **Emblema Sagrado** (聖杖の証, «prueba del báculo sagrado»): la
+    imagen de la wiki y F9 (§15) muestran que **lo tiene Frieren**
+    (T1-11 ≈09:47). Qué acredita no está claro: una parte dice «insignia
+    de gran mago» y otra «de un personaje religioso» ⚠️ (Punto 19.5).
+  - La **altura** de Stark y Himmel **no está publicada** (Punto 20).
+  - Los **gags del fandom** (Frieren en el Mimic, la hamburguesa de
+    Stark) ya son **figuras oficiales**: se pueden usar sin miedo
+    (Punto 23.2).
+- **Conceptos** (§19): se añade al final qué mejora cada uno con lo nuevo.
+- **`referencias.json`**: de 40 a **REFS_TOTAL** (ver Punto 19, 20, 21,
+  22 y 23 y la tabla).
+- **Tabla de cumplimiento**: filas de los puntos 18-25 añadidas.
+- **Bitácora**: la de los tres investigadores, en §21 («Segunda pasada»).
+- **Sigue sin resolverse** (⚠️ en su punto): la aberración cromática como
+  filtro del estudio, un emblema propio de la Asociación Continental de
+  Magia, la tela y costura de los cosplays (Wikimedia dio 429), vistas de
+  TikTok y de los covers, la música exacta de la escena del anillo y la
+  colaboración con Uniqlo/GU.
 
 ---
 
@@ -1543,6 +1610,255 @@ chocar con sus condiciones de uso: lo más seguro es usar de referencia
 - **El texto**: la IA escribe letras falsas. **Todo texto va puesto a mano**
   con las letras de §6.
 - **Brillo de plástico** en piel y pelo: quitarlo; la serie es mate.
+
+### 18.7 Para una IA de texto: cómo escribir en su voz (segunda pasada)
+
+Sale de §8 (cómo habla cada uno) y §10.4 (frases del doblaje latino con
+minuto). Se le da a la IA de texto tal cual.
+
+**Reglas que valen para todos**
+- **Frases cortas.** Una idea por frase. La serie es de **silencio**: el
+  director usa el encuadre y la pausa para contar el tiempo (Punto 18).
+- **Casi sin «¡!»**. Nadie grita en calma. Frieren **nunca** grita ni se
+  ríe a carcajadas (§1, «No hacer»).
+- **Puntos suspensivos** para la duda o la pena: «pero… ¿por qué no…
+  intenté conocerlo mejor?».
+- **Onomatopeyas**: las partes no traen una lista propia de la serie ⚠️.
+  No poner «¡BOOM!» ni onomatopeyas de acción en una lámina tranquila.
+- Humor **seco**, dicho sin cambiar de cara: el chiste está en el contraste.
+
+**Cómo habla cada uno (latino)**
+- **Frieren**: tutea a todos. Plana, sin adornos, como una profesora
+  aburrida. Cuando algo le gusta: «vaya». Con los demonios, fría total.
+- **Fern**: **de usted** y «**Señora Frieren**» (nunca «Frieren-sama» en
+  latino). Regaña **sin gritar**, con frases secas. Se reconoce terca.
+- **Stark**: de colega, rápido, con **miedo a la vista** y valiente igual.
+- **Himmel**: seguro, con humor, **presumido en broma**; mira a los ojos.
+
+**Frases reales, por emoción** (doblaje latino salvo que se diga)
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| Alegre, presumido | Himmel | «Es una flor de mi país. Es muy hermosa… Bueno, no tan hermosa como yo.» | [sMMRWL0XG5E 0:08](https://www.youtube.com/watch?v=sMMRWL0XG5E&t=8) |
+| Enfadado, regañando | Fern | «De verdad es tan descuidada… diría que hasta es irresponsable.» | [aIFWMH0dhbA 0:45](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=45) |
+| Enfadado, seco | Frieren | «No toques mi cabeza.» | [wDWOKITcRzg 0:52](https://www.youtube.com/watch?v=wDWOKITcRzg&t=52) |
+| Terca | Fern | «Eso ya lo sé. Es sólo que soy muy obstinada.» | [hzcGhesobmY 0:08](https://www.youtube.com/watch?v=hzcGhesobmY&t=8) |
+| Explicando | Himmel | «La lluvia de meteoros de Era pasa una vez cada 50 años.» | [3XUKmqUDEZc 0:08](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8) |
+| Explicando | Frieren | «Sé de un lugar donde la lluvia de meteoros se puede ver más clara.» | [3XUKmqUDEZc 0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32) |
+| Animando | Frieren → Fern | «Fern, ve a decirle que te asustó y haz las paces con él.» | [hzcGhesobmY 0:40](https://www.youtube.com/watch?v=hzcGhesobmY&t=40) |
+| Animando, tierno | Himmel | «Esto es para que no te sientas sola cuando estés en un futuro lejano.» ⚠️ «futuro» mal oído | [K8XwKilGTg0 0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13) |
+| Triste | Frieren | «Viajamos juntos sólo por 10 años.» | [wDWOKITcRzg 0:22](https://www.youtube.com/watch?v=wDWOKITcRzg&t=22) |
+| Triste | Frieren | «Sabía que sus vidas son cortas, pero… ¿por qué no… intenté conocerlo mejor?» | [wDWOKITcRzg 0:33](https://www.youtube.com/watch?v=wDWOKITcRzg&t=33) |
+| Frío (con demonios) | Frieren | «Aura, suicídate.» (subtítulo, no doblaje) | T1-10 22:24 (§8) |
+
+**Lo que la estropea**: «¡Vamos, chicos!», emojis, jerga de internet,
+Frieren entusiasmada, Fern tuteando a Frieren, y la frase-meme
+«Himmel lo habría hecho» presentada como la del doblaje (no se encontró,
+§10.4).
+
+**Vocabulario de gestos para la IA de imagen** (con dónde se ve)
+- Sonrisa con **ojos cerrados en «^^»** de Frieren: *closed eyes smile*
+  (PV 2.º cour, 0:52).
+- **Puchero** y **mofletes hinchados** de Fern: *pout, puffed cheeks*
+  (§8; F5 de §15 para el de Frieren).
+- **Mirada de reojo** de Fern: *side glance*.
+- **Mano en la nuca** de Stark, nervioso: *hand on back of head*.
+- **Llanto** de Stark (una de las 3 caras de su Nendoroid, Punto 23.2):
+  *crying, tears*.
+- **Chibi** (versión pequeña y cabezona): la usan la Nendoroid de
+  Frieren y el visual de Sweets Paradise (Punto 23): *chibi*.
+- No hay gotas de sudor ni fondos de emoción propios documentados en las
+  partes ⚠️: no añadirlos.
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+Segunda pasada, del investigador de texto (`partes/texto.md`). Lo ya
+medido de línea y color está en §16, §17 y §18.1; aquí va **cómo se hizo**
+y **cómo copiarlo**.
+
+### 18.a Quién hace el estilo
+- **Madhouse**. Dirección: **Keiichirō Saitō**. Dirección de arte: Sawako
+  Takagi. Color: Harue Oono. Fotografía: Akane Fushihara. **Director de
+  acción**: Tōru Iwazawa (AniList, `partes/datos-texto.md`) ✅.
+
+### 18.b Lo que dicen el estudio y la prensa
+- **La idea de Saitō**: no le importan las peleas vistosas, sino «**cómo
+  mostrar lo cotidiano** que parece no tener importancia». Usa el
+  **encuadre y el silencio** para que se note el tiempo. Ejemplo: en el
+  ep. 22 el restaurante favorito ha cambiado y Frieren no · [Real Sound,
+  7-mar-2024](https://realsound.jp/movie/2024/03/post-1593982.html) ✅.
+- **La acción, a mano y sin CGI**: Iwazawa dibuja a mano hasta el
+  **baile de Fern y Stark** (T1-15) · [Real Sound,
+  18-ene-2024](https://realsound.jp/movie/2024/01/post-1542362_2.html) ✅.
+- **Rotoscopia** (dibujar encima de un vídeo real): los fans la ven al
+  quitarse un abrigo en T1-09 · [Togetter](https://togetter.com/li/2253157)
+  ⚠️; AniList le pone la etiqueta «Rotoscoping» (47 %). Dos fuentes, pero
+  ninguna del estudio.
+- **El ED de la T2, a lápiz de color**: Mimei Aomume lo dibujó a mano en
+  papel; «cada escena de unos segundos pidió docenas de dibujos» ·
+  [Real Sound, ene-2026](https://realsound.jp/book/2026/01/post-2282483.html)
+  y [Where Creativity Works](https://wherecreativityworks.com/the-art-of-frieren/) ✅.
+- **Los fondos de Yoshioka**: base de **acuarela sobre papel** (usa el
+  sangrado del pigmento y la pincelada); luego **modela la ciudad en 3D**,
+  pone cámaras virtuales, **imprime** y **redibuja a mano en Photoshop** ·
+  [MdN 1/2](https://www.mdn.co.jp/design/features/7151) y
+  [MdN 2/2](https://www.mdn.co.jp/design/features/7155) ✅.
+- **Sombreado plano de un solo tono**: un tutorial japonés de estilo
+  Frieren en Clip Studio: línea limpia aparte, **líneas de sombra y brillo
+  en color** (色トレス), **color base plano**, **una sola sombra** (1陰) y
+  un brillo. Pincel de línea de **5-9 px a 350 ppp**. «Lo simple deja ver
+  los errores» · [note.com/manyplay_aihara](https://note.com/manyplay_aihara/n/n515582fd677f)
+  ⚠️ (tutorial de fan, no del estudio).
+- **Aberración cromática** (borde de color como de lente): sólo la
+  comentan espectadores ⚠️. La técnica general del anime está explicada
+  por la Agencia de Cultura de Japón · [mediag.bunka.go.jp](https://mediag.bunka.go.jp/article/article-18117/)
+  (no habla de Frieren).
+- **El manga**: Tsukasa Abe **lloró dibujando el capítulo 2**, según su
+  editor (Punto 24). No encontré qué programa ni qué tramas usa ⚠️.
+
+### 18.c Cómo hacerlo en Photoshop
+1. **Línea** en capa aparte: 5-9 px a 350 ppp (2-4 px a 150 ppp). **No
+   negro puro**: marrón oscuro en la piel, gris azulado en lo blanco.
+   Capa en **Multiplicar**.
+2. **Color base plano**, sin aerógrafo. «Bloquear píxeles transparentes».
+3. **Una sola sombra**: capa en Multiplicar al 70-85 %, un tono más
+   oscuro y un poco más frío; pincel **duro**, sin difuminar.
+4. **Brillo** (Trama o Luz suave) sólo en pelo y ojos.
+5. **Fondo**: base de acuarela (pincel de acuarela con flujo bajo, o
+   papel escaneado en Multiplicar al 20-30 %) y el detalle de los
+   edificios encima con pincel duro, como Yoshioka.
+6. Opcional: **grano** fino (Ruido 2-3 %) y aberración de 1 px en rojo y
+   azul en los bordes. No confirmado del estudio ⚠️.
+
+### 18.d Cómo hacerlo en Blender
+1. **Objetos**: el bastón de Sketchfab (CC BY 4.0, §4). Personaje: un
+   maniquí libre de cabeza grande y cuerpo esbelto.
+2. **Shader**: *Diffuse BSDF* + *ColorRamp* de 2-3 paradas (sombra, luz,
+   brillo), no *Principled*. O el add-on Malt si está.
+3. **Contorno**: **Freestyle** a 1,5-2 px (se puede colorear por capas) o
+   **Solidify** invertido con material oscuro (más simple).
+4. **Fondos a lo Yoshioka**: bloques simples, cámara con el mismo
+   encuadre que un plano de la serie, render *toon* y retoque a mano.
+5. **Luz**: una luz de área grande y suave y un relleno tenue. Sombras
+   duras sólo en la acción.
+
+### 18.e Encuadres y composición
+- **Planos altos con flores o hierba delante** para dar profundidad; de
+  noche, colores **saturados contra desaturados** · [Where Creativity
+  Works](https://wherecreativityworks.com/the-art-of-frieren/) ⚠️ una
+  fuente.
+- En lo íntimo (la hoguera), **fondo simple**: manda la emoción, no el
+  detalle. Encaja con la idea de Saitō de 18.b.
+- Tiempo que pasa: **mismo sitio, otro momento** (el restaurante del
+  ep. 22). Sirve para una lámina «antes y ahora».
+
+## Punto 19 · Texturas 2D (tramas, papel, rayas y emblemas)
+
+Segunda pasada, del investigador de imagen (`partes/imagen.md`). Las
+texturas reales (madera, piedra) de Poly Haven ya están en §5.4.
+
+### 19.1 Tramas del manga (mirado en un panel real)
+- Panel del **capítulo 41** (llegada al frente norte): las montañas
+  llevan **trama de punto fino en degradado** (más densa arriba) con
+  **rayas blancas verticales** encima. La multitud va con **rayado fino y
+  denso**, casi sin trama. Algunos pechos llevan **cuadros dibujados a
+  mano** · [panel, 595×343](https://static.wikia.nocookie.net/frieren/images/7/70/Northern_Magic_Corps_CH41.png)
+  (visto ampliado ×3) ✅, y páginas de muestra de
+  [Shōgakukan](https://shogakukan-comic.jp/book?isbn=9784098508761).
+- Qué marca de trama usa Abe: **no lo encontré** ⚠️.
+- **Libre para copiarla**: [svg-halftone](https://github.com/evestera/svg-halftone)
+  (código abierto, MIT) ✅; o la web [HalftoneDots](https://halftonedots.com/halftone-pattern)
+  ⚠️ licencia sin aclarar.
+
+### 19.2 Papel
+- La **guía oficial** (§3) va sobre papel **casi blanco** (`#FDFDFD` a
+  `#FFFFFF`, medido) con un **marmolado gris** muy suave ✅.
+- **Libre**: [Paper 006 de ambientCG](https://ambientcg.com/a/Paper006),
+  papel beige con grano, **CC0** (sin crédito) · muestra 1024×1024 ✅.
+
+### 19.3 Pinceladas de acuarela
+- Los fondos son **acuarela pálida** (Yoshioka, §5.1 y Punto 18.b).
+- No encontré una textura de acuarela libre de descarga directa ⚠️
+  (Rawpixel y Freepik piden cuenta). **Plan**: pincel «Acuarela húmeda»
+  de Photoshop sobre Paper 006, o desenfoque gaussiano + papel en
+  Multiplicar.
+
+### 19.4 Patrones de ropa
+- **La camisa de rayas de Frieren**: rayas **gruesas**, del mismo ancho,
+  **blanco `#FFFFFF` y casi negro `#181818`-`#1E1E1E`**, horizontales y
+  curvadas con el cuerpo · medido en la hoja oficial (`referencias.json`
+  n.º 0) ✅ + texto de la wiki
+  («[striped black-and-white shirt](https://frieren.fandom.com/wiki/Frieren#Appearance)») ✅.
+  Se ve sólo en el cuello: fácil de olvidar.
+- **Fern, Stark y Himmel**: ropa de **color liso**; sólo se repite el
+  **ribete dorado** de Frieren y Fern (§16) ✅.
+- **Rayas libres**: [freesvg.org](https://freesvg.org/stripe-seamless-pattern)
+  ⚠️ licencia por archivo sin aclarar. Más seguro: dibujarlas (blanco y
+  negro alterno).
+
+### 19.5 Emblemas
+- **El Emblema Sagrado** (聖杖の証): **rombo de metal** con aspa, un
+  **remache** en cada punta y **dos cuernos curvos** arriba que sujetan
+  una anilla; metal gris mate con manchas oscuras · [wiki, «Holy
+  Emblem»](https://frieren.fandom.com/wiki/Holy_Emblem), imagen de
+  **1920×1080** (EP18), mirada entera ✅.
+  - Medido con `estilo.py`: metal de `#7A868E` a `#A8BECD`, sombra en
+    degradado suave, **contorno fino `#62605B`**; fondo de vidriera
+    `#A4A796`, `#D0ECED`, `#423E3C`.
+  - Frieren lo tiene en la mano en T1-11 ≈09:47 (F9, §15). Qué acredita:
+    una parte dice «insignia de gran mago», otra «de un personaje
+    religioso» ⚠️ (no coinciden).
+  - **Sirve de medalla o botón** en una lámina: objeto real, con historia.
+- La **sala del examen** tiene emblema en el atril y vidrieras
+  geométricas: `pantalla_01` n.º 8 ✅.
+- **No encontré** escudo propio de un gremio, de un país ni de la
+  Asociación Continental de Magia ⚠️ (búsquedas en la wiki con
+  `srwhat=text` y en [scrapbox.io/frieren](https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A)).
+- **Metal libre**: [Metal 034](https://ambientcg.com/a/Metal034), oro
+  liso, CC0 · 1024×1024 ✅ (cuellos, hebillas o un emblema dorado).
+
+### 19.6 Tela y cuero (complemento de §16)
+- **Lana blanca** (capa de Frieren y Fern): [Fabric 019](https://ambientcg.com/a/Fabric019), CC0 ✅.
+- **Cuero marrón** (botas, correa de Stark): [Leather 037](https://ambientcg.com/a/Leather037), CC0 ✅.
+
+**Las capas, juntas**: 3D (§4) + texturas reales (§5.4) + papel, tela,
+cuero y metal CC0 (aquí) + trama y rayas (19.1, 19.4). No falta ninguna.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Segunda pasada, del investigador de voz (`partes/voz.md`). Fuente
+principal: el **Official Fan Book** de Shōgakukan (160 págs.,
+12-ene-2024, ISBN 978-4-09-853106-6), transcrito en la
+[wiki, «Official Fan Book»](https://frieren.fandom.com/wiki/Official_Fan_Book)
+(portada 1304×2048) ✅. Edad y altura, de la ficha de cada uno. Lo que
+tiene una sola fuente lleva ⚠️.
+
+| | Frieren | Fern | Stark | Himmel |
+|---|---|---|---|---|
+| **Comida favorita** | **pudín Merkur** ⚠️ | **dulces** ⚠️ | **Jumbo Berry Special** (la hamburguesa gigante del cumpleaños, §2) ✅ | **tortilla Ruf** ⚠️ |
+| **Lo que ama** | **coleccionar grimorios** y hechizos ⚠️ | la magia: sin ella, «la han tirado a la oscuridad» (cap. 61, pág. 14) ⚠️ | — | que lo recuerden; posar para estatuas (§8) |
+| **Lo que odia** | **la cebolla** (cap. 94, pág. 6) ✅ | — | ser cobarde | — |
+| **Flor** | **flor de cerezo carámbano** en invierno (cap. 36, pág. 11) ⚠️ | motivo **mariposa** en su ropa ⚠️ | — | **loto espejo** (el anillo, Punto 21) |
+| **Edad** | más de **1000** años | 9 → 19-20 | 17 → 20 | ~26 → ~76 (tras el salto) |
+| **Altura** | **150 cm** (*companion book*) | **162 cm** (152 cm a los 16) | **no publicada** ⚠️ | **no publicada** ⚠️ |
+| **Lo que siempre lleva** | su **bastón**; grimorios que cobra como pago | **broche de mariposa**, regalo de Frieren por sus 16 | **hacha de doble filo** (de Eisen); **brazalete de plata**, regalo de Fern por sus 18 ([wiki en español](https://frieren.fandom.com/es/wiki/Stark)) ✅ | su **espada** (una réplica) y su **diario** del viaje |
+| **Cómo se ve** | «**una chica corriente**», si se quita la magia (cap. 61, pág. 11) ⚠️ | alguien que se aferra a la magia; Heiter la salvó de niña | **se desprecia por cobarde**, y pelea igual | **guapo, en broma**: se llama «hombre atractivo» ✅ (§8) |
+
+**Cumpleaños**: **no hay ninguno oficial**. El campo está **vacío** en la
+wiki en inglés y en la española, en las cuatro fichas ✅. Algunos fans usan
+el **12 de enero** (salida del Fan Book): es una fecha de libro, **no un
+cumpleaños** ⚠️. En la lámina, no poner fecha.
+
+**Secundarios queridos** (Fan Book, una fuente ⚠️):
+- **Heiter**: bebe **alcohol** «más a gusto que comer tres veces al día».
+- **Eisen**: **uvas, cuanto más agrias mejor**.
+- **Übel**: su sonido favorito, **cortar tela** (su hechizo Reelseiden).
+- **Serie**: le gustan **los magos con talento**.
+- **Sein**: le gustan **las mujeres mayores**, beber, apostar y fumar.
+- **Methode**: lo último que le gustó, un **golem escapista**.
+
+**Para la lámina**: el objeto de Frieren para una biblioteca no es sólo el
+bastón: **cobra en grimorios** y **colecciona hechizos inútiles**.
 
 ## 19 · Tres conceptos de lámina
 

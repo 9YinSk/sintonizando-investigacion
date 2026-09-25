@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=9uwA-lly6TM",
+    "fuente": "YouTube, canal ElRai (@ElRaiFanduber); metadatos medidos con yt-dlp --skip-download (sin bajar vídeo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "\"Los Jujutsu Zenin JUEGAN JUJUTSU SHENANIGANS!\": fandub cómico en español de personajes de Jujutsu Kaisen jugando un videojuego fan-made; 993.871 vistas, 15:40, subido 7-mayo-2026",
+    "para_que": "Punto 22: el fandub hispano de Jujutsu Kaisen con más vistas que encontré; referencia de qué formato de fandub engancha más al público hispano (parodia de personaje, no doblaje de escena)",
+    "licencia": "Vídeo de fan, con copyright del canal ElRai. Sólo referencia/enlace, nunca para descargar ni redistribuir."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5QyaDz3YSiU",
+    "fuente": "YouTube, canal ElRai (@ElRaiFanduber); metadatos medidos con yt-dlp --skip-download",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "\"Los Jujutsu Kaisen JUEGAN HYTALE!\": segundo fandub cómico de ElRai sobre Jujutsu Kaisen; 393.995 vistas, 11:58, subido 23-feb-2026",
+    "para_que": "Punto 22: confirma que ElRai es un canal activo con más de un vídeo de la serie, no un caso suelto",
+    "licencia": "Vídeo de fan, con copyright del canal ElRai. Sólo referencia/enlace."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JXSDUu_sVcQ",
+    "fuente": "YouTube, canal David Delgado; metadatos medidos con yt-dlp --skip-download",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cover cantado en español latino de \"Kaikai Kitan\" (opening 1 de Jujutsu Kaisen); 411.990 vistas, 3:38",
+    "para_que": "Punto 22: el cover del opening en español con más vistas de los medidos; referencia para un reto de canto en el servidor",
+    "licencia": "Cover de fan sobre una canción con derechos de Eve/Sony Music/JUJUTSU KAISEN Project. Sólo referencia/enlace."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7WxKkSlioRE",
+    "fuente": "YouTube, canal Danie Green; metadatos medidos con yt-dlp --skip-download",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Cover cantado en español latino de \"Kaikai Kitan\", con letra en pantalla; 195.811 vistas, 3:38, subido en 4K",
+    "para_que": "Punto 22: segundo cover más visto del opening en español; el único de los medidos subido en 4K",
+    "licencia": "Cover de fan. Sólo referencia/enlace."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XJverP3wvfM",
+    "fuente": "YouTube, canal EnmaDS - EnmanuelDSite; metadatos medidos con yt-dlp --skip-download",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cover completo en español latino de \"Kaikai Kitan\"; 118.586 vistas, 3:55",
+    "para_que": "Punto 22: tercer cover del opening en español, con buena cifra de vistas",
+    "licencia": "Cover de fan. Sólo referencia/enlace."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/xagbkga",
+    "fuente": "Dailymotion, canal LATAM Fandub Studios; metadatos medidos con yt-dlp --skip-download (misma herramienta que usa fotogramas.py)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "\"Compras con Nobara - Jujutsu Kaisen\": fandub de escena en español latino sobre una animación de fan (illuxxxtrandy), voces de azuphie (Nobara) y zerito_dubs (Itadori); 9.306 vistas, 1:07",
+    "para_que": "Punto 22: fandub de escena (no sólo parodia) con actores de doblaje de fans identificados por su alias, y con vistas medidas",
+    "licencia": "Fandub de fans sobre una animación de fan. Sólo referencia/enlace, nunca para descargar."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yzzGr4jH6BI",
+    "fuente": "YouTube, canal NamiDUB; metadatos medidos con yt-dlp --skip-download",
+    "ancho": null,
+    "alto": null,
+    "que_es": "\"JUJUTSU KAISEN: KUGISAKI NOBARA - Doblaje no oficial en español (castellano)\"; 263 vistas, 0:41, subido 13-ene-2022",
+    "para_que": "Punto 22: único fandub en castellano (España) que encontré para la serie, frente a la mayoría en español latino",
+    "licencia": "Fandub de fans. Sólo referencia/enlace."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jyvxDmi4flU",
+    "fuente": "YouTube, canal oficial de la banda sonora (Sony Music / distribuidor del OST de Jujutsu Kaisen T2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "\"Vague Reason (Nanami)\", pista oficial de la banda sonora de la temporada 2, con el mismo nombre que la frase que dice Nanami en el episodio de su muerte (ep. 42)",
+    "para_que": "Punto 21: la música que evoca la muerte de Nanami, para la lámina 2 o para un texto sobre esa escena",
+    "licencia": "Pista musical con copyright de Yoshimasa Terui / TOHO animation / JUJUTSU KAISEN Project. Sólo referencia/enlace, nunca para usar el audio."
+  },
+  {
+    "url": "https://jujutsu-kaisen.fandom.com/wiki/Episode_42",
+    "fuente": "Jujutsu Kaisen Wiki (Fandom), leída con la API action=parse&prop=wikitext",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha y resumen completo del episodio 42 (\"Right and Wrong\"), con la muerte de Nanami Kento a manos de Mahito, minuto a minuto del argumento",
+    "para_que": "Punto 21: fuente principal de la escena que hace llorar más citada del fandom; fecha de emisión (23-nov-2023) y capítulos de manga adaptados (120-122)",
+    "licencia": "Texto de la wiki (Fandom, licencia CC BY-SA de la comunidad); resume una obra con copyright de Gege Akutami/Shueisha."
+  },
+  {
+    "url": "https://www.cbr.com/jujutsu-kaisen-fans-writing-likes-and-dislikes/",
+    "fuente": "CBR (Comic Book Resources), artículo de Maria Remizova, 22-ene-2024",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña \"5 Issues Fans Have With the Writing (& 5 Things They Love)\": explica con citas por qué el fandom quiere la serie a pesar de sus defectos de ritmo (peleas dinámicas, personajes memorables, puntos altos emocionales)",
+    "para_que": "Punto 21: fuente de reseña (no sólo encuesta de popularidad) sobre por qué la gente la ama",
+    "licencia": "Artículo periodístico con copyright de Valnet Inc./CBR. Sólo cita y enlace."
+  },
+  {
+    "url": "https://www.cbr.com/jjk-nanami-fan-favorite/",
+    "fuente": "CBR (Comic Book Resources)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo \"Why Nanami Kento From JJK Is Such a Fan Favorite\": explica la identificación del público adulto con Nanami como ex oficinista quemado",
+    "para_que": "Punto 21: con qué personaje se identifica el público y por qué (Nanami, el sorcerer-salaryman)",
+    "licencia": "Artículo periodístico con copyright de Valnet Inc./CBR. Sólo cita y enlace."
+  },
+  {
+    "url": "https://us.oricon-group.com/news/662/",
+    "fuente": "Oricon News (oficial, ranking de ventas de Japón)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ranking anual Oricon 2021 de manga más vendido en Japón: Jujutsu Kaisen, primer puesto con 30,91 millones de copias en un año",
+    "para_que": "Punto 21: dato de ventas oficial (no de fans) sobre por qué la serie es un fenómeno",
+    "licencia": "Nota de prensa oficial de Oricon. Sólo dato y enlace."
+  },
+  {
+    "url": "https://variety.com/2024/digital/news/crunchyroll-anime-awards-2024-winners-list-jujutsu-kaisen-1235928308/",
+    "fuente": "Variety, cobertura de los 8.os Crunchyroll Anime Awards (2-mar-2024)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Listado completo de los 11 premios que ganó Jujutsu Kaisen T2 en los Crunchyroll Anime Awards 2024, incluido Anime del Año",
+    "para_que": "Punto 21: premios recientes (2024), distintos de los ya citados en la biblia (5.º y 7.º Crunchyroll Anime Awards)",
+    "licencia": "Artículo periodístico con copyright de Variety/PMC. Sólo cita y enlace."
+  },
+  {
+    "url": "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=JuJutsuKaisen&title=Nanami",
+    "fuente": "Arctic Shift (archivo público de Reddit), r/JuJutsuKaisen",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo \"If you were given a chance to hijack Gege's body and you knew what he is going to do with Nanami...\": 774 votos, 168 comentarios",
+    "para_que": "Punto 21: reacción del público (comentarios con más votos) sobre la muerte de Nanami, años después de emitida",
+    "licencia": "Contenido de usuarios de Reddit, archivado por Arctic Shift. Sólo cita y enlace."
+  }
+]

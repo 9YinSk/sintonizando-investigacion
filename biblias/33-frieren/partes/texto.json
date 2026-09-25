@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://realsound.jp/movie/2024/03/post-1593982.html",
+    "fuente": "Real Sound (映画部), «『葬送のフリーレン』が成功した“時間と感情”の描き方 斎藤圭一郎監督の演出を振り返る», 07-mar-2024",
+    "que_es": "Artículo de análisis de la dirección de Keiichirou Saitou: filosofía de encuadre, ritmo y cómo transmite el paso del tiempo.",
+    "para_que": "Punto 18 (estilo y técnica): cita textual de la filosofía de dirección, base para el 'porqué' del encuadre en la guía de IA.",
+    "licencia": "Texto editorial con derechos de Real Sound; sólo cita y enlace, no reproducir el artículo."
+  },
+  {
+    "url": "https://realsound.jp/movie/2024/01/post-1542362_2.html",
+    "fuente": "Real Sound (映画部), sobre el director de acción Tooru Iwazawa, 18-ene-2024",
+    "que_es": "Entrevista/análisis sobre la animación de acción de Iwazawa, con cita de Saitou en X sobre su trabajo.",
+    "para_que": "Punto 18: confirma escenas de acción dibujadas a mano (baile T1-15) sin CGI, con minuto ya cruzado con §2 de la biblia.",
+    "licencia": "Texto editorial con derechos de Real Sound; sólo cita y enlace."
+  },
+  {
+    "url": "https://realsound.jp/book/2026/01/post-2282483.html",
+    "fuente": "Real Sound (ブック), sobre el ED de la 2.ª temporada animado a lápiz de color por Mimei Aomume, ene-2026",
+    "que_es": "Artículo sobre la técnica de animación tradicional (lápiz de color sobre papel) del ending.",
+    "para_que": "Punto 18: ejemplo de técnica 100% analógica dentro de la producción, útil para contrastar con el resto digital.",
+    "licencia": "Texto editorial con derechos de Real Sound; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.mdn.co.jp/design/features/7151",
+    "fuente": "MdN Design, entrevista a la concept artist Seiko Yoshioka (1/2), sobre el concept art del mundo de Frieren",
+    "que_es": "Entrevista técnica: acuarela sobre papel, paleta pálida, investigación geográfica y de nombres de lugares.",
+    "para_que": "Puntos 18 y 25: técnica de fondos reproducible en Photoshop, y base de investigación del mundo.",
+    "licencia": "Texto editorial con derechos de MdN; sólo cita y enlace, no reproducir las imágenes del artículo."
+  },
+  {
+    "url": "https://www.mdn.co.jp/design/features/7155",
+    "fuente": "MdN Design, entrevista a la concept artist Seiko Yoshioka (2/2)",
+    "que_es": "Segunda parte: modelado 3D de ciudades, cámaras virtuales, retoque en Photoshop, heráldica regional, referencias históricas (Europa pre-s.XV).",
+    "para_que": "Puntos 18 (flujo 3D→Photoshop reproducible en Blender) y 25 (mundo, simbolismo territorial).",
+    "licencia": "Texto editorial con derechos de MdN; sólo cita y enlace."
+  },
+  {
+    "url": "https://note.com/manyplay_aihara/n/n515582fd677f",
+    "fuente": "note.com (manyplay_aihara), tutorial de dibujo/coloreado estilo Frieren en Clip Studio Paint",
+    "que_es": "Tutorial de fan con estructura de capas real: línea, color-trace, base plana, una capa de sombra, brillo; tamaños de pincel y dpi.",
+    "para_que": "Punto 18: base concreta y replicable para la sección 'cómo reproducirlo en Photoshop'.",
+    "licencia": "Tutorial de autor independiente en note.com; sólo cita del método, no reproducir las imágenes del tutorial."
+  },
+  {
+    "url": "https://wherecreativityworks.com/the-art-of-frieren/",
+    "fuente": "Where Creativity Works, «The Art of Frieren»",
+    "que_es": "Análisis visual de escenas concretas: contraste de saturación, iluminación de planos del cuerpo, composición con primer plano de flores.",
+    "para_que": "Punto 18: encuadres y composición típicos.",
+    "licencia": "Texto editorial de blog independiente; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.cbr.com/frieren-creator-recommends-nemu-corpse-bearer-manga/",
+    "fuente": "CBR, sobre la recomendación pública de Kanehito Yamada del manga 'Nemu the Corpse Carrier' (vía PR Times), 2026",
+    "que_es": "Nota que recoge la recomendación directa del autor de Frieren de una obra de tono parecido.",
+    "para_que": "Punto 24: única influencia/afinidad declarada directamente por el propio autor encontrada.",
+    "licencia": "Texto editorial con derechos de CBR; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.hachimonjiya.co.jp/column/entry-67.html/page/3/",
+    "fuente": "Hachimonjiya (librería japonesa), entrevista al editor de Shōnen Sunday Katsumasa Ogura sobre qué hace interesante a un manga y el caso de Frieren",
+    "que_es": "Entrevista editorial con la razón de ser de Frieren según su editor, y anécdota de Tsukasa Abe llorando al dibujar el cap. 2.",
+    "para_que": "Punto 24: por qué funciona la obra, tema relacionado con el 'porqué la gente la ama' ya cubierto en voz.md, aquí como contexto editorial.",
+    "licencia": "Texto editorial con derechos de la publicación original / Hachimonjiya; sólo cita y enlace."
+  },
+  {
+    "url": "https://gamerant.com/frieren-before-journeys-end-manga-best-arcs/",
+    "fuente": "Game Rant, «Best Arcs In Frieren: Before Journey's End Manga, Ranked»",
+    "que_es": "Tabla de los arcos del manga con rango de capítulos y resumen de cada uno.",
+    "para_que": "Punto 25: base de la tabla de arcos con capítulos de la biblia.",
+    "licencia": "Texto editorial con derechos de Game Rant; sólo cita y enlace, tabla reelaborada con palabras propias."
+  },
+  {
+    "url": "https://www.frieren.guide/magic-guide",
+    "fuente": "Frieren.guide, «Frieren Magic Guide: Mana, Suppression, and Zoltraak»",
+    "que_es": "Guía dedicada de fans sobre el sistema de magia: maná, Zoltraak, supresión de maná, rangos de la Asociación.",
+    "para_que": "Punto 25: vocabulario propio del mundo y reglas del sistema mágico en cinco líneas.",
+    "licencia": "Sitio de fans independiente; sólo cita y enlace."
+  },
+  {
+    "url": "https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3",
+    "fuente": "Wikipedia en japonés, «葬送のフリーレン»",
+    "que_es": "Artículo enciclopédico con arcos generales, sistema de magia y razas.",
+    "para_que": "Punto 25: segunda fuente para contrastar las reglas del mundo y el orden de los arcos.",
+    "licencia": "CC BY-SA (Wikipedia); texto reelaborado, no copiado literal."
+  },
+  {
+    "url": "https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A",
+    "fuente": "Scrapbox (wiki de fans en japonés), página «大陸魔法協会» (Asociación Continental de Magia)",
+    "que_es": "Datos numéricos de la Asociación: 45 magos de rango 1, ~600 de rango 5+, 2000 en total con aprendices.",
+    "para_que": "Punto 25: cifra concreta de la organización, tercera fuente para los rangos.",
+    "licencia": "Wiki colaborativa de fans; sólo cita y enlace."
+  },
+  {
+    "url": "https://togetter.com/li/2253157",
+    "fuente": "Togetter, hilo de reacciones de fans japoneses sobre el posible uso de rotoscopia en T1-09",
+    "que_es": "Recopilación de tuits de espectadores comentando la fluidez del dibujo al quitarse una chaqueta.",
+    "para_que": "Punto 18: segunda fuente (de fandom) que corrobora la etiqueta 'Rotoscoping' de AniList.",
+    "licencia": "Recopilación de tuits públicos vía Togetter; sólo cita y enlace."
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 650,
+    "que_es": "Portada oficial del anime en AniList",
+    "para_que": "Arte oficial variado (punto 1)",
+    "licencia": "Uso editorial/promocional del estudio, vía AniList"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
+    "fuente": "AniList",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "Banner oficial del anime",
+    "para_que": "Fondo ancho de referencia (punto 1)",
+    "licencia": "Uso editorial/promocional del estudio, vía AniList"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/4/48/Vinland_Saga_Key_Visual_1.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 750,
+    "alto": 1058,
+    "que_es": "Key visual oficial de temporada 1 (barco entre témpanos)",
+    "para_que": "Arte oficial variado, pose de personaje entero (punto 1)",
+    "licencia": "Material promocional oficial (Kodansha/WIT Studio)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/0/01/Vinland_Saga_Key_Visual_2.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 750,
+    "alto": 1058,
+    "que_es": "Key visual oficial de temporada 1 (grupo de Askeladd bajo lluvia de sangre)",
+    "para_que": "Arte oficial en grupo (punto 1)",
+    "licencia": "Material promocional oficial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/1/10/Vinland_Saga_S2_Key_Visual_1.png",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 750,
+    "alto": 1058,
+    "que_es": "Key visual oficial de temporada 2, por el animador Raita Kazama",
+    "para_que": "Arte oficial variado, paleta pastel de contraste (punto 1)",
+    "licencia": "Material promocional oficial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/7/7b/Vinland_Saga_S2_Key_Visual_2.png",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 750,
+    "alto": 1058,
+    "que_es": "Key visual oficial de temporada 2 (segundo)",
+    "para_que": "Arte oficial variado (punto 1)",
+    "licencia": "Material promocional oficial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/b/b1/Volume_1.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 840,
+    "alto": 1200,
+    "que_es": "Portada del tomo 1 del manga (Kodansha Afternoon KC)",
+    "para_que": "Portada de tomo, tipografía del logo (punto 1)",
+    "licencia": "Edición comercial publicada"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/f/fe/Volume_20.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1011,
+    "alto": 1440,
+    "que_es": "Portada del tomo 20 del manga",
+    "para_que": "Portada de tomo, arco tardío (punto 1)",
+    "licencia": "Edición comercial publicada"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/7/77/Volume_27.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1055,
+    "alto": 1500,
+    "que_es": "Portada del tomo 27 del manga (arco de Vinlandia, con personajes indígenas)",
+    "para_que": "Portada de tomo reciente (punto 1)",
+    "licencia": "Edición comercial publicada"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/c/cc/Chapter_001.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1607,
+    "alto": 1200,
+    "que_es": "Portada del capítulo 1 del manga",
+    "para_que": "Arte de capítulo, letra de título (punto 1)",
+    "licencia": "Publicación comercial (Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/d/d0/Afternoon_2019-08.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1080,
+    "alto": 1551,
+    "que_es": "Portada de la revista Afternoon (ago-2019), anuncio del anime",
+    "para_que": "Arte de revista, contexto de estreno (punto 1)",
+    "licencia": "Publicación comercial (Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/0/04/VinlandSagaWITAnimationWorksCover.png",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1390,
+    "alto": 1964,
+    "que_es": "Portada del artbook oficial \"Vinland Saga Animation Works\" (WIT Studio, 2020)",
+    "para_que": "Fuente central de arte oficial y diseño de personaje/fondo (punto 1)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/9/94/AnimationWorksPreview_Thorfinn.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Hoja de diseño de color oficial de Thorfinn (turnaround, traje de granjero, 12 expresiones)",
+    "para_que": "Vestuario con hex medidos, pose de cuerpo entero, expresiones (puntos 1 y 15)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/c/c7/AnimationWorksPreview_Askeladd.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Hoja de diseño de personaje oficial de Askeladd (armadura de cuero, versión herida)",
+    "para_que": "Vestuario y pose de cuerpo entero (punto 15)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/c/cb/AnimationWorksPreview_Thorfinn2.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Correcciones de dirección de animación (Takahiko Abiru) de Thorfinn adolescente en batalla",
+    "para_que": "Gestos y expresiones de furia, Arco de la Guerra (puntos 1 y 15)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/7/7c/AnimationWorksPreview_Environment.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Arte oficial de fondo: interior de casa larga vikinga, acantilado con playa, aurora boreal",
+    "para_que": "Fondos y sitios de la serie (punto 16)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/e/e0/AnimationWorksPreview_Scenery.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Turnaround técnico oficial del barco vikingo (perfil, popa, proa)",
+    "para_que": "Objeto/sitio icónico en 3D (puntos 3 y 16)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/c/c8/AnimationWorksPreview_Ship.png",
+    "fuente": "Fandom vinlandsaga (artbook Animation Works)",
+    "ancho": 1500,
+    "alto": 1059,
+    "que_es": "Página de props/objetos con brazo encadenado (fundido a blanco)",
+    "para_que": "Objetos y props icónicos (punto 1)",
+    "licencia": "Publicación comercial (WIT Studio / Kodansha)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/d/d9/Wales.png",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1584,
+    "alto": 1304,
+    "que_es": "Mapa oficial de Gales con los reinos de la época (Arco de Inglaterra)",
+    "para_que": "Fondos y sitios: geografía real de la serie (punto 16)",
+    "licencia": "Arte de producción/wiki de fans, uso editorial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/3/3f/Iceland1_v2.jpg",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1000,
+    "alto": 703,
+    "que_es": "Paisaje de fiordos nevados de Islandia",
+    "para_que": "Fondos y sitios: paleta fría, punto 16",
+    "licencia": "Fotograma/arte de producción, uso editorial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/vinlandsaga/images/a/a4/Chapter_130_Screenshot.PNG",
+    "fuente": "Fandom vinlandsaga",
+    "ancho": 1115,
+    "alto": 808,
+    "que_es": "Viñeta de manga con vista aérea de Jomsborg (fuerte circular)",
+    "para_que": "Sitio icónico y textura de trama de manga (puntos 16 y 19)",
+    "licencia": "Publicación comercial (Kodansha), uso editorial"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/6d/wallhaven-6d5zgl.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla de fans más guardado (minimalista, blanco y negro), por mushit",
+    "para_que": "Fondo de pantalla en alta resolución (punto 16)",
+    "licencia": "Wallhaven, apto para trabajo (SFW); crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/q6/wallhaven-q6oor5.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de ruinas de noche con luna, por Nemr0d",
+    "para_que": "Paleta y luz nocturna medidas (punto 16)",
+    "licencia": "Wallhaven, apto para trabajo (SFW); crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/lm/wallhaven-lmddyq.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de paisaje al amanecer, por Nemr0d",
+    "para_que": "Paleta y luz de amanecer medidas (punto 16)",
+    "licencia": "Wallhaven, apto para trabajo (SFW); crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pzgl1.png",
+    "fuente": "Wallhaven",
+    "ancho": 4096,
+    "alto": 2340,
+    "que_es": "Fondo de pantalla de Thorfinn con globo de diálogo en inglés, por theflyboy667",
+    "para_que": "Ejemplo de composición con texto sobre personaje (punto 16, referencia de layout)",
+    "licencia": "Wallhaven, apto para trabajo (SFW); crédito al autor"
+  },
+  {
+    "url": "https://safebooru.org/images/1607/9ad014051e207e675e1892a16b01552687451625.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2663,
+    "alto": 4096,
+    "que_es": "Fan art de Thorfinn en alta resolución",
+    "para_que": "Fan art de referencia de pose (punto 3), nunca para pegar",
+    "licencia": "Autor: x.com/icebuko — sólo como referencia, con crédito"
+  },
+  {
+    "url": "https://safebooru.org/images/622/261c7c12f13c956b254ffa8c6f83047219997582.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 900,
+    "alto": 558,
+    "que_es": "Fan art \"Vinland Saga Wheat\" (Einar en el campo de trigo)",
+    "para_que": "Fan art de una escena reconocida por el fandom (punto 3)",
+    "licencia": "Autor: DeviantArt karaii — sólo como referencia, con crédito"
+  },
+  {
+    "url": "https://safebooru.org/images/550/128a6882491efac98f651f809fcc759d4e88a65a.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 609,
+    "alto": 750,
+    "que_es": "Fan art de Askeladd",
+    "para_que": "Fan art de referencia de pose (punto 3)",
+    "licencia": "Autor: pixiv chicken79 — sólo como referencia, con crédito"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-10ec8a60e33b43449e835ee6e3e1d6f0",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D \"Thorfinn's Knives From Vinland Saga\", por SILVER KEY",
+    "para_que": "Referencia 3D de objeto icónico (punto 3)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8b98182fd8db45788399aa01e5129163",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D lowpoly de Askeladd, por Sebastian Bonavera",
+    "para_que": "Único modelo 3D de personaje libre encontrado (punto 3)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-3d649f8373514860b69ff6f874c0efb5",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D genérico \"Viking Longship\", por massive-graphisme",
+    "para_que": "Referencia 3D de barco vikingo (no de la serie, complementa el punto 3/16)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-eb98d1aef0fa4e01ab5584fff0c23742",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D genérico \"Viking shaman hut\", por JulienSchoots",
+    "para_que": "Referencia 3D de vivienda vikinga (punto 3/16)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de grano de papel",
+    "para_que": "Capa de textura para manga/lámina (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric081C",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de tela/lana tejida",
+    "para_que": "Patrón de ropa vikinga (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Leather037",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de cuero",
+    "para_que": "Armadura/cinturones (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes",
+    "fuente": "Brusheezy",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "34 pinceles de screentone/halftone en alta resolución para Photoshop",
+    "para_que": "Trama de manga libre equivalente (punto 19)",
+    "licencia": "Gratis, ver términos del sitio"
+  },
+  {
+    "url": "http://images.goodsmile.info/cgm/images/product/20230525/14421/115784/medium/eb50ff9ce2f5d562b420a52397b2aa63.jpg",
+    "fuente": "Good Smile Company",
+    "ancho": 250,
+    "alto": 250,
+    "que_es": "Figura oficial figma Thorfinn (nº608)",
+    "para_que": "Figura oficial, referencia 3D/pose y colaboración de merchandising (punto 23)",
+    "licencia": "Producto comercial oficial, imagen de catálogo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52593952796_33fbe2f334_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 819,
+    "alto": 1024,
+    "que_es": "Foto de cosplay de Askeladd",
+    "para_que": "Cosplay bien hecho, materiales y volumen reales (punto 23)",
+    "licencia": "CC BY-NC 2.0, autor plumvs-photo"
+  }
+]

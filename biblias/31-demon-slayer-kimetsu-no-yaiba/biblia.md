@@ -27,6 +27,52 @@ fecha: 2026-09-24
 > - **Episodios**: «T1-25» = temporada 1, ep. 25; «TM», Tren Mugen; «DR»,
 >   Distrito Rojo; «AH», Aldea de los Herreros; «EP», Entrenamiento de los
 >   Pilares; «MT» y «CI», las películas (tabla en §2).
+> - **Segunda pasada (repaso corto, 24-sep-2026)**, con la red abierta:
+>   tres investigadores (imagen, voz, texto) buscaron los puntos 18-25 de
+>   `ENCARGO.md` y el redactor los juntó en §19-26. Usaron entrevistas
+>   técnicas en japonés, la sección *Trivia* de la wiki (databook
+>   oficial), `yt-dlp` para medir vistas, las API de Sketchfab y Wikimedia
+>   Commons, y fuentes en coreano. Detalle, abajo.
+
+## Segunda pasada · qué cambió
+
+**Añadido** (puntos 18-25 de `ENCARGO.md`, que la biblia no tenía):
+
+- **§19 Estilo y técnica**: con qué trabaja ufotable (3ds Max, V-Ray,
+  PhoenixFD…), cómo reparte 2D y 3D, encuadres de combate, y cómo
+  copiarlo en Blender y Photoshop; 7 modelos con *rig* libres.
+- **§20 Texturas 2D**: el patrón de cada personaje con su nombre japonés,
+  dos SVG libres, la insignia de glicinia medida y tramas gratis.
+- **§21 Gustos**: comida, afición y cómo se ve cada uno de los 6, del
+  databook oficial.
+- **§22 Por qué la aman**: ventas, taquilla, premios, por qué en Japón y
+  Corea, las escenas que hacen llorar, reír y gritar.
+- **§23 Fan dubs**: fandubs, covers y parodias hispanas con vistas.
+- **§24 Colaboraciones**: USJ, Lawson, Uniqlo, Puzzle & Dragons, ufotable
+  Cafe, figuras y cosplay; Fortnite **no** es oficial.
+- **§25 Obras parecidas**: influencias de la autora y las 5 láminas del
+  servidor que se le parecen.
+- **§26 El mundo**: 5 reglas, 12 arcos, rangos y vocabulario.
+- **§18.6 IA de texto**: faltaba la mitad del punto 17. Ahora tiene cómo
+  habla cada uno y 18 frases reales por emoción, con minuto.
+- **§27 Conceptos**: los tres se quedan; se añade cómo renderizarlos y
+  un detalle nuevo en cada uno (glicinia, databook, cartas *hanafuda*).
+- **`referencias.json`**: de 36 a **252** entradas, todas medidas.
+
+**Corregido (antes → ahora)**:
+
+- **Voz latina de Akaza**: una fuente ⚠️ → **dos** ✅ (José Antonio
+  Toledano ganó por Akaza el Crunchyroll Anime Award 2026, §10.2).
+- **Tren Mugen**: la parte de texto decía «ep. 27-34» → **27-33** (§2, §26.2).
+- **Foto de cosplay de FanimeCon**: la URL de la parte daba **404** → la
+  buena, comprobada con el *hash* de Wikimedia (§24.3).
+- **Autor del Nezuko con *rig***: «AikoX» → AikoX, que firma «Snow» (API).
+- **Numeración**: conceptos, «no pude verificar» y bitácora pasan de 19,
+  20 y 21 a **27, 28 y 29**.
+
+**Avisos**: había **83 ⚠️**; ahora hay **155**. Se resolvió uno
+(Akaza) y los nuevos son datos de §18.6-26 con una sola fuente o sin
+confirmar, cada uno explicado. Los principales, en §28.
 
 ## Índice
 
@@ -48,11 +94,22 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
-19. Tres conceptos de lámina
-20. Lo que no pude verificar
+18. Guía para generar con IA: imagen y texto
+19. Estilo de dibujo, técnica, Blender y encuadres
+20. Texturas 2D
+21. Gustos y detalles de cada personaje
+22. Por qué la gente la ama, y las escenas que hacen llorar o gritar
+23. Fan dubs y comunidad hispana
+24. Colaboraciones, figuras y cosplay
+25. Obras parecidas y láminas vecinas
+26. El mundo, la historia por arcos y sus símbolos
+27. Tres conceptos de lámina
+28. Lo que no pude verificar
 - Cumplimiento del encargo
-21. Bitácora de búsqueda
+29. Bitácora de búsqueda
+
+(Arriba del índice, «Segunda pasada · qué cambió»: el repaso del
+24-sep-2026 que añadió las secciones 19-26.)
 
 ---
 
@@ -111,7 +168,7 @@ Aula.
 | 5 | **Activa el aviso en Canales y roles** | cómo enterarse |
 | 6 | **Lo de cada clase queda en material-de-clase** | después |
 | 7 | **¿Te quedó una duda? Pregunta en dudas** | dudas |
-| 8 | Frase del personaje, en su voz (§7 y §19) | gancho |
+| 8 | Frase del personaje, en su voz (§7 y §27) | gancho |
 
 ### Lámina 2 del Aula (si se quiere explicar cómo va una clase)
 
@@ -134,7 +191,7 @@ de voz. Es **una idea para adaptar** a cómo den la clase de verdad:
 | 2 | **La canción que llevas en bucle** | qué va aquí |
 | 3 | **Pega el enlace** | cómo |
 | 4 | **Y di por qué** | lo que se pide |
-| 5 | Frase de Zenitsu (§19, concepto C) | gancho |
+| 5 | Frase de Zenitsu (§27, concepto C) | gancho |
 
 (Cuatro textos caben de sobra: aquí **no** hace falta lámina 2.)
 
@@ -873,7 +930,7 @@ HBO Max el 29-sep-2026 (Doblaje Wiki): **justo esta semana**.
 | **Muichiro Tokito** | **Armando Corona** | Kengo Kawanishi | ✅ Doblaje Wiki + resumen de Xataka/Geekmi |
 | Obanai Iguro | Arturo Cataño | Kenichi Suzumura | ⚠️ sólo Doblaje Wiki |
 | Sanemi Shinazugawa | Galo Balcázar | Tomokazu Seki | ⚠️ sólo Doblaje Wiki |
-| Akaza | José Antonio Toledano | Akira Ishida | ⚠️ sólo Doblaje Wiki |
+| Akaza | José Antonio Toledano | Akira Ishida | ✅ Doblaje Wiki + [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/): ganó el Crunchyroll Anime Award 2026 a la mejor voz en español latino por Akaza (§22.1; segunda pasada) |
 | Doma | Alan Fernando Velázquez | Mamoru Miyano | ⚠️ sólo Doblaje Wiki |
 | Aoi Kanzaki | Miriam Aceves | Yuri Ehara | ⚠️ |
 | Sumi / Kiyo / Naho | Rosa Obdulia / **Elizabeth Infante** (la Anya latina) / Jocelyn Meneses | — | ⚠️ |
@@ -1252,9 +1309,14 @@ Fondos de pantalla **de fans** en alta: la API de Wallhaven no devolvió
 nada más con «demon slayer», «tanjiro» o «rengoku» ⚠️. No busqué en
 DeviantArt ni Pixiv.
 
+**Segunda pasada**: el recolector (`datos.json`) sí trajo **15 fondos de
+Wallhaven**, de 1920×1080 a 6344×3480 (Tanjiro con espada 3840×2160,
+Zenitsu 3840×2160, Shinobu con mariposas). Están en `referencias.json`
+con su tamaño y quien lo subió; no los miré uno a uno ⚠️.
+
 ---
 
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Guía para generar con IA: imagen (Firefly, Canva) y texto
 
 Sirve para **fondos, objetos y pruebas de pose**. Al personaje final se le
 recorta de arte oficial (y se integra con `v3/integrar.py`, regla 3 del
@@ -1309,10 +1371,730 @@ mejor `plain cotton kimono`).
 - **Algo delante**, desenfocado (una calabaza, el mástil, una mariposa).
 - Cámara **a la altura del *engawa*** (sentado), como en T1-25: así se ve
   el jardín detrás.
+- **Técnica del estudio** (segunda pasada, §19): personaje **plano**
+  (*cel* de 2-3 tonos) sobre fondo u objeto con **luz realista**. Nunca al
+  revés. Si la IA da un personaje con volumen de 3D, no sirve.
+
+### 18.6 Para una IA de texto: cómo escribir en su voz
+
+Segunda pasada. Todo sale de §7, §8, §10.4 y §14 de esta biblia. Las
+frases son **reales**, con su minuto. La traducción del japonés es de la
+biblia, salvo las marcadas «latino».
+
+**Reglas que no cambian**
+
+- **Frases cortas y rotundas**. Una idea por frase.
+- **Nada de globos**: el texto va en cartela vertical, tablilla, papel o
+  telegrama de cuervo (§7.4).
+- **Exclamaciones dobles** para Zenitsu, Inosuke y Rengoku («¡¡…!!»);
+  Shinobu y Giyu **nunca** gritan (Giyu, una vez en toda la serie).
+- **Vocabulario del doblaje latino**: «Pilar», no «Hashira»; «la
+  fortaleza infinita», no «Castillo Infinito» (§7.5).
+- **Onomatopeyas**: las de Tanjiro al explicar («¡BUON! ¡BUON!»,
+  T1-25, 00:06:54); el «Umu» de Rengoku para asentir; los «mm» de Nezuko
+  tras el bambú; la risa bajita de Shinobu («うふふ»); el «¡Caw!» del
+  cuervo.
+
+**Cómo habla cada uno** (para darle a la IA como instrucción)
+
+| Personaje | Muletillas y forma | Puntuación |
+|---|---|---|
+| **Shinobu** | empieza con «Ay, ay» (あらあら, T1-24, 00:05:12); cortesía extrema; remata con una puya dulce | puntos suspensivos y pregunta final: «lo normal es poder… ¿no puedes?» |
+| **Tanjiro** | «usted» a los mayores; se anima a sí mismo en voz alta; explica fatal | exclamaciones sueltas, onomatopeyas |
+| **Zenitsu** | quejas largas, histéricas; piropos a desconocidas; dormido, serio y breve | «¡¡…!!» y lloriqueo; dormido, punto final seco |
+| **Inosuke** | grita, no respeta a nadie, dice mal los nombres | todo en exclamación; «¡Embestida de jabalí!» |
+| **Rengoku** | muy alto; llama «joven Kamado», «el chico amarillo», «el chico cabeza de jabalí» (MT, 01:45:31) | frases de 3-5 palabras con «¡!» |
+| **Giyu** | poco, seco | punto final; nada de exclamaciones |
+| **Nezuko** | casi muda | «Mm.» o dos palabras dulces |
+| **El cuervo** | telegrama en mayúsculas | «¡ORDEN! ¡ORDEN!» |
+
+**Frases reales por emoción**
+
+| Emoción | Frase | Quién · dónde |
+|---|---|---|
+| **Alegre** | «¡Sabroso!» (latino; «¡Umai!») | Rengoku · MT 00:05:45 ✅ |
+| **Alegre** | «¡Quién lo habría dicho!» («¡Yomoya yomoya da!») | Rengoku · §8 ✅ |
+| **Enfadado** | «¡Claro que puedo! ¡No me subestimes!» | Inosuke · T1-25, 00:07:49 ✅ |
+| **Enfadado** | «¡No huyas, cobarde!» | Tanjiro · MT 01:40:24 ✅ |
+| **Enfadado** | «¡No dejes tu vida en manos de otro!» | Giyu · T1-01, 00:14:52 ✅ |
+| **Enfadado** | «¡Siéntense en seiza!» | Zenitsu, celoso · T1-24, 00:08:10 ✅ |
+| **Explicando** | «Lo normal es poder… ¿no puedes?» | Shinobu · §8 ✅ |
+| **Explicando** | «Los huesos hacen ¡BUON! ¡BUON!» | Tanjiro · T1-25, 00:06:54 ✅ |
+| **Explicando** | «Todo lo vivo suena» | Zenitsu · T1-13, 00:17:54 ✅ |
+| **Animando** | «¡Ánimo, Tanjiro, ánimo!» | Tanjiro a sí mismo · T1-12, 00:19:27 ✅ |
+| **Animando** | «Hermano, tú puedes» | Nezuko, dormida · T1-25, 00:20:54 ✅ |
+| **Animando** | «Cuento contigo» | Shinobu · T1-25, 00:19:32 ✅ |
+| **Animando** | «¡Ánimo! ¡Ánimo! ¡Ánimo!» | Sumi, Kiyo y Naho · T1-25 ✅ |
+| **Animando** | «Enciende tu corazón» | Rengoku · TM-7, 00:14:40 ✅ japonés; el latino ⚠️ (§10.4) |
+| **Triste** | «Soy el hermano mayor, puedo aguantarlo» | Tanjiro · T1-12, 00:19:27 ✅ |
+| **Triste** | «Vive con la frente en alto» | Rengoku · TM-7, 00:14:26 ✅ |
+| **Cómico** | «A mí no me odia nadie» | Giyu · T1-21, 00:12:43 ✅ |
+| **Cómico** | «¿Qué pashó, papu?» (sólo latino) | Kotetsu · AH-2 ✅ |
+
+**Vocabulario de expresiones** (para que la IA de imagen entienda el
+gesto; lo que se vio en clips y hojas)
+
+| Gesto | Cómo se ve en la serie | Dónde |
+|---|---|---|
+| **Sonrisa de Tanjiro** | ojos **cerrados del todo** | personajes n.º 9 |
+| **Mentira de Tanjiro** | la cara **se le deforma** | §8 ✅ wiki |
+| **Explicar** | fondo **blanco con viñeta**, dedo índice arriba | clip Shinobu, 0:17 |
+| **Vergüenza** | Inosuke **colorado**, fondo **amarillo con brillos** | clip Shinobu, 0:28 |
+| **Enamorada** | Mitsuri con **manos en las mejillas** y **corazones** | clip Rengoku, 0:11-0:17 |
+| **Cuchicheo** | mano en la boca, fondo amarillo | clip Rengoku, 0:19 |
+| **Chibi** | Secretos Taisho, cumpleaños, eventos: cabeza grande, «V» con los dedos | objetos n.º 5; personajes n.º 12 y 16 |
+| **Furia de Zenitsu** | venas y colorete, rayos verdes | clip de Zenko, 0:23 |
+| **Rabia de Shinobu** | sonrisa más tensa; la vena ⚠️ de memoria | §8 |
+| **Gotas de sudor** | ❌ no documentadas en las partes | — |
 
 ---
 
-## 19 · Tres conceptos de lámina
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+Segunda pasada (punto 18 de `ENCARGO.md`). Sale de `partes/texto.md`:
+entrevistas técnicas en japonés e inglés y guías de Blender.
+
+### 19.1 Con qué lo hace ufotable
+
+- **3ds Max** es el programa 3D principal, con **V-Ray** (render),
+  **PhoenixFD** (fuego y agua de las respiraciones), **tyFlow** (hilos de
+  araña, viento, cuervos), **ForestPack** (vegetación), **RailClone**
+  (estructuras repetidas del Castillo), **GrowFX**, **HairFarm** (pelo) y
+  **Pencil+** (línea 2D sobre 3D) ✅ [Autodesk AREA JAPAN, parte
+  1](https://area.autodesk.jp/case/animation/kimetsu-01/) y [parte
+  2](https://area.autodesk.jp/case/animation/kimetsu-02/) (ja).
+- También **Blender y Houdini** (con estudios externos), **EmberGen**
+  (fluidos rápidos), **After Effects** (composición) y **DaVinci
+  Resolve** (edición) ✅ [CGWORLD × NVIDIA](https://cgworld.jp/special-feature/202410-nvidia-hp-ufotable.html)
+  (ja). Hablan **Yuichi Terao** (jefe de imagen digital y director de
+  fotografía), **Takeshi Okuya** y **Reiji Amano** (artistas técnicos).
+- **Cómo se reparten 2D y 3D**: maquetas 3D previas para que los
+  dibujantes tengan la perspectiva; fondos de edificios y criaturas
+  complejas, en 3D; **los personajes principales, dibujados a mano**. Un
+  supervisor 3D está en las reuniones de dirección ✅ (Autodesk, parte 1).
+- **La Respiración del Agua** se diseñó estudiando los grabados
+  **ukiyo-e**, con muchas pruebas en 3ds Max ✅ (Autodesk, parte 1).
+- **El Castillo Infinito**: ~**30 versiones** de la estructura por escena.
+  En el ep. 26 sólo podían renderizar ~100×100 m; en los Herreros
+  (ep. 45), 2 km²; en la película, **10 veces más rápido** ✅ (Autodesk +
+  [Popverse, entrevista a Terao](https://www.thepopverse.com/movies-demon-slayer-kimetsu-no-yaiba-yuichi-terao-interview-making-the-infinity-castle-feel-infinite)).
+- **Gotouge dibuja el manga a mano**: la exposición de originales habla de
+  «直筆原画» ⚠️ ([Discover Japan](https://discoverjapan-web.com/article/74084),
+  una fuente). Mandaba los bocetos (*name*) **por fax** desde el campo y
+  los corregía **por teléfono** con su editor ✅ ([livedoor News,
+  entrevista al editor Tatsuhiko Katayama](https://news.livedoor.com/article/detail/17760339/), ja).
+- **Qué plumilla o tableta usa**: no lo encontré ⚠️.
+
+### 19.2 Línea, sombra y filtros
+
+- **Personaje**: *cel shading* plano. **Fondos y efectos**: 3D mucho más
+  **realista**, a propósito, para que contraste ✅ [Sakuga Blog](https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/).
+- **Línea que cambia de grosor con el movimiento**: la usa **Akira
+  Matsushima**, diseño de personajes y dirección de animación ✅ (Sakuga
+  Blog). En los dibujos clave, sombras marcadas con **lápiz de color**
+  (§18.1).
+- **Animadores que conviene estudiar**: **Masayuki Kunihiro** (poses
+  «sobrehumanas», anticipación larga; anima a Inosuke), **Mitsuru
+  Obunai** (dibujos muy espaciados, sensación de fuerza) y **Nozomu Abe**
+  (efectos 2D, siluetas en el impacto) ✅ (Sakuga Blog).
+- **Pinceladas de fondo**: acuarela digital, con grano en cielo y agua
+  (fondos n.º 1 y 9). Pincel libre que se le acerca: la acuarela por
+  defecto de Krita ⚠️ (propuesta del investigador, sin *making of*).
+- **Filtros** (grano, aberración, *bloom*): **no encontré** fuente que los
+  nombre ⚠️. Sólo reseñas que dicen «cinematográfico».
+
+### 19.3 Encuadres: cómo se enmarca cada emoción
+
+Del ensayo [The Visual Design of Demon Slayer's Combats](https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/)
+(jb siraudin, en) ✅ y de Sakuga Blog:
+
+- **La acción, al centro del cuadro**: el ojo no tiene que moverse.
+- **La cámara tiembla a 24 fps** sobre animación a 12 fps, y **se mueve
+  hacia donde va el golpe**.
+- **La luz avisa antes del golpe**: brillo **azul** en las espadas,
+  **morado** en los enemigos, **chispas doradas**.
+- **Fotograma de impacto**: uno de alto contraste, a veces sólo silueta.
+- **Ritmo**: preparación larga → ataque instantáneo → pausa larga. Como
+  una respiración.
+- **Ep. 19** (*storyboard* de **Toshiyuki Shirai**): el peligro se cuenta
+  con la composición, sin perder claridad ✅ (Sakuga Blog).
+- **Encuadre por emoción fuera del combate** (explicar, animar, triste):
+  no hay entrevista del estudio que lo diga ⚠️. Lo visto en pantalla, con
+  minuto, está en §15 (pose por uso) y §18.5 (encuadre de la lámina).
+
+### 19.4 Cómo replicarlo en Blender
+
+| Capa | Cómo | Fuente |
+|---|---|---|
+| **Contorno** | **Freestyle** (Render Properties → Freestyle), lo más simple; **Grease Pencil** si se quiere grosor variable como Matsushima | ✅ [StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender) + [Instructables](https://www.instructables.com/Custom-Toon-Shader-in-Blender/) |
+| **Sombra de personaje** | nodo **Shader to RGB → Color Ramp** en *Constant*: **2 paradas = anime a dos tonos**; 3 paradas, medio tono (Eevee) | ✅ [Yarsa DevBlog](https://blog.yarsalabs.com/basic-toon-shader-in-blender/) + vídeos [«New Anime Cel/Toon Shader for Blender 4.2+»](https://www.youtube.com/watch?v=uCplB3zvQks) y [«ANIME in BLENDER!»](https://www.youtube.com/watch?v=WcVwszxkUuA) |
+| **Fondo y objeto** | render **realista** (Cycles, luz de área o IES), como el V-Ray de ufotable | ✅ §19.1 |
+| **Personaje** | en **capa aparte**, con el *toon* de arriba | ✅ §19.1 |
+| **Luz** | área plana, sin sombras duras, para el personaje | ⚠️ receta de StraySpark, no del estudio |
+| **Textura encima** | grano de papel (*Paper 005*, ambientCG, CC0, §5) en *Overlay* o *Soft Light*, baja opacidad | ⚠️ receta del investigador |
+| **Orden de capas** | render de Blender → textura en *Overlay* → línea de Freestyle en *Multiply* | ⚠️ receta |
+
+**Modelos con *rig*, libres** (CC Attribution 4.0, descargables; licencia
+comprobada con la API de Sketchfab ✅; crédito obligatorio al autor):
+
+| Personaje | Autor | Caras | Enlace |
+|---|---|---|---|
+| Tanjiro | Light.k | 33.764 | [Sketchfab](https://sketchfab.com/3d-models/none-0ab5b317b7654fd29255d22182537ded) |
+| Rengoku | Light.k | 59.528 | [Sketchfab](https://sketchfab.com/3d-models/none-91a0c5978dd74ca5a0d4747c89270f99) |
+| Akaza | Light.k | 45.629 | [Sketchfab](https://sketchfab.com/3d-models/none-327741c265db45c1b92ca9f1aeb57e99) |
+| Nezuko (con *shapekeys* de expresión) | AikoX («Snow») | 122.561 | [Sketchfab](https://sketchfab.com/3d-models/none-c57b6393ddee4c86b28a26c26d7a7a8f) |
+| Tanjiro, Danza del Dios del Fuego | K- | 1.222.678 (pesado) | [Sketchfab](https://sketchfab.com/3d-models/none-dfebaddf7ec442cc8cf81f561fcb465b) |
+| Tanjiro, uniforme de la Selección Final (con `.blend`; en Sketchfab se llama «Tanjiro Constant Flux») | K- | 2.636.714 (pesado) | [Sketchfab](https://sketchfab.com/3d-models/none-50ba553d376e45e596eace02e9779c38) |
+| Teoni | Light.k | 93.745 | [Sketchfab](https://sketchfab.com/3d-models/none-302c19719a83454b8a18eb4ef30b9678) |
+
+Light.k tiene también **Inosuke, Giyu y Rui** (mismo autor, mismo
+buscador) ⚠️ sin enlace propio en las partes. **No hay Shinobu con *rig***
+entre los encontrados: para ella, recorte de arte oficial (§18). Los de
+**más de un millón de caras** (K-) pueden saturar la PC del dueño (regla
+9): mejor los de Light.k. Caras y autor, leídos en la API de Sketchfab.
+
+### 19.5 Cómo replicarlo en Photoshop (o Clip Studio)
+
+- **Línea**: pincel de tinta con **presión** y **estabilizador** activado.
+  Libres: [Manga Brush Line for Photoshop (Pearlpencil,
+  DeviantArt)](https://www.deviantart.com/pearlpencil/art/Manga-Brush-Line-for-Photoshop-268440777)
+  ✅ y [Manga Ink, 496 pinceles (Brusheezy)](https://www.brusheezy.com/free/manga-ink)
+  (licencia distinta en cada pincel ⚠️).
+- **Clip Studio**: [Manga Line Brush](https://assets.clip-studio.com/en-us/detail?id=1707223)
+  y [15 pinceles de artwithrod](https://www.deviantart.com/artwithrod/art/15-Free-Clip-Studio-Paint-Brushes-for-Manga-Style-1019425750) ✅.
+- **Sombra**: una capa de sombra **plana** en *Multiply* por encima del
+  color, sin degradado ⚠️ ([Creative Bloq](https://www.creativebloq.com/animation/create-manga-style-artworks-2118703),
+  tutorial general, no de Demon Slayer).
+- **Tramas y grano de papel**: §20.
+
+### 19.6 Lo que nunca cambia (resumen para la lámina)
+
+- Personaje = **línea limpia + 2-3 tonos planos**.
+- Fondo y efectos = **3D con luz realista** (agua, fuego, humo).
+- Nunca al revés.
+- Golpes: **temblor**, encuadre **centrado**, **luz de color** antes del
+  impacto.
+
+---
+
+## 20 · Texturas 2D
+
+Segunda pasada (punto 19). Sale de `partes/imagen.md`. Con §4 (3D) y §5.3
+(texturas reales), no falta ninguna capa.
+
+### 20.1 Los patrones de la ropa, con su nombre japonés
+
+Cada patrón, en el wikitexto de su ficha de [Kimetsu no Yaiba
+Wiki](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) y, los
+de Tanjiro y Nezuko, también en [Fun! Japan](https://www.fun-japan.jp/en/articles/14279) ✅.
+Contraste: [Tokyo Weekender](https://www.tokyoweekender.com/art_and_culture/history/wagara-japanese-patterns-and-what-they-mean/).
+
+| Personaje | Patrón | Qué significa | Hex (§16) | Versión libre |
+|---|---|---|---|---|
+| **Tanjiro** | ***ichimatsu*** (市松模様): cuadros verde y negro | nombre de un actor de kabuki del s. XVIII; prosperidad, un lazo que no se corta ✅ | `#2E957F` / `#011826` | vectores de Vecteezy, gratis con atribución, **no CC0** ⚠️. Se dibuja fácil a mano |
+| **Nezuko** | ***asanoha*** (麻の葉): hoja de cáñamo, hexágonos con rayos | ropa de bebé: el cáñamo crece rápido y protege del mal ✅ | `#EC1C56` ⚠️ | [Asanoha Kumiko Pattern.svg](https://upload.wikimedia.org/wikipedia/commons/e/e1/Asanoha_Kumiko_Pattern.svg), 512×494, **CC BY-SA 4.0** (crédito al autor de la página) |
+| **Zenitsu** | triángulos blancos (tipo ***uroko***, escama) sobre degradado amarillo-naranja, en *haori* y polainas | ✅ wiki | `#D6AE75` / `#FFE9C9` | [Uroko.svg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg), 800×831, **dominio público** |
+| **Giyu** | mitad **rombos** verde, verde oscuro, naranja y amarillo (era de Sabito) + mitad **granate liso** (era de su hermana Tsutako) | ✅ wiki | no medido ⚠️ | no encontré un patrón libre igual ⚠️ |
+| **Rengoku** | degradado blanco a amarillo con **llamas rojas** en el borde (heredado de su padre) | ✅ wiki | `#F88D22` | no es trama: es pintura |
+| **Shinobu** | polainas con **alas de mariposa**, turquesa a rosa con borde negro | ✅ wiki | `#534452` / `#ECE6E1` | no encontré versión CC0 ⚠️ |
+| **Mitsuri** | *haori* **blanco liso** (regalo de Rengoku) | ✅ wiki | ⚠️ | no hace falta |
+
+### 20.2 Emblemas
+
+| Emblema | Qué es | Imagen | Estado |
+|---|---|---|---|
+| **Insignia del Cuerpo** (鬼殺隊) | una rama de **glicinia** (藤) enroscada en el kanji «fuji». Una familia la hizo su escudo para dar las gracias al Cuerpo; desde entonces marca las **casas-refugio** que no cobran | [Demon_Slayer_Corps_Insignia.png](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/25/Demon_Slayer_Corps_Insignia.png), 559×553 medido | ✅ wiki «Wisteria» + [The Mary Sue](https://www.themarysue.com/demon-slayer-symbol-meaning-explained/) |
+| **Marca del Cazador** (痣) | mancha que despierta en combate; casi siempre única, pero la de Tanjiro, Yoriichi y Kokushibo son **llamas** | wiki «Demon Slayer Mark» | ✅ |
+| **Tsuba** de cada uno | guarda de la espada con su dibujo propio | Tanjiro 2578×1443, Zenitsu 1920×1080, Shinobu 1920×1080 (§3, `referencias.json`) | ✅ |
+| **El kanji 滅** y **惡鬼滅殺** | espalda del uniforme; hoja de la espada de los Pilares | §7.1 | ✅ |
+
+### 20.3 Tramas, papel y pinceladas
+
+- **Tramas oficiales del manga**: no se pueden bajar. Shueisha no las
+  libera ⚠️ (busqué en inglés y japonés, «鬼滅の刃 トーン素材»).
+- **Tramas libres para imitarlas** (gratis, **no CC0**: leer la licencia):
+  - [Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037),
+    de Clip Studio Assets.
+  - [Comic Manga Screentone Brushes](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/),
+    de GraphicsBunker (Photoshop y Clip Studio).
+- **Grano de papel**: *Paper 005* de ambientCG (CC0, §5.3). Sirve para el
+  papel del manga, las cartelas y el *shōji*.
+- **Pinceladas de fondo**: ufotable pinta en acuarela digital con grano
+  (fondos n.º 1 y 9). No hay pincel CC0 igual; la acuarela de Krita es lo
+  más cercano ⚠️ (§19.2).
+
+### 20.4 Para qué sirve en la lámina
+
+- La **glicinia del Cuerpo**: sello **tallado** en un objeto de madera
+  (una caja, un cartel).
+- El ***asanoha***: para forrar o grabar un objeto de Nezuko sin medir a
+  ojo.
+- El ***uroko***: el más fácil de hacer en Blender como relieve repetido
+  en la tela de Zenitsu (concepto C).
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+Segunda pasada (punto 20). Sale de `partes/voz.md`. Fuente: el **databook
+oficial** (*Kimetsu no Yaiba Official Fanbook: Kisatsutai Kenbunroku*,
+Shueisha, jul-2019, 216 pág., y el *Fanbook 2*), citado con nota en la
+sección **Trivia** de cada ficha de [Kimetsu no Yaiba
+Wiki](https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado#Trivia).
+Cumpleaños y altura, cruzados con **AniList** ✅. Portada del libro:
+[Official Fanbook](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/75/Kimetsu_no_Yaiba_Official_Fanbook.png) (1561×2465).
+
+### 21.1 La ficha de cada uno
+
+| | Cumpleaños · altura · peso | Comida favorita | Afición | Cómo se ve (o lo ven) | Estado |
+|---|---|---|---|---|---|
+| **Tanjiro** | 14 jul · 165 cm · 61 kg | **brotes de angélica** (*tara no me*): se le abren las fosas nasales aunque disimule | **limpiar** y **dar cabezazos** | no habla de sí; en el Entrenamiento de los Pilares lo apodan «**Mamá**»: cocina bien y cuida a todos | ✅ |
+| **Nezuko** | 28 dic · 153 cm · 45 kg | ***konpeitō*** (caramelitos de azúcar) | **coser**: le arregla a Giyu el *haori* tras la batalla final | siempre le gana a Tanjiro a **piedra, papel o tijera**; su peinado es el único que él sabe hacerle bien | ✅ |
+| **Zenitsu** | 3 sep · 164,5 cm · 58 kg | bolas de arroz de **salmón** (Secreto Taisho, ep. 18) | cartas ***hanafuda*** y ***sugoroku*** | se cree **inútil y cobarde**, pero escribió unas memorias de **79 tomos**, *La leyenda de Zenitsu*, donde es el héroe (y pinta feo a Giyu por celos) | ✅ databook |
+| **Inosuke** | 22 abr · 164 cm · 63 kg | **no la encontré** ⚠️ | el juego *Kotoro-Kotoro*, que le enseñó Tanjiro | se cree **el más fuerte**; acierta el nombre de Tanjiro **una de cada siete veces** | ✅ |
+| **Rengoku** | 10 may · 177 cm · 72 kg | **sopa de miso con boniato**; en caja, dorada a la parrilla con arroz de boniato | ver **Noh, kabuki y sumo** | se mide por su **deber de Pilar**: «el que nace fuerte tiene que proteger al débil» (§8) | ✅ |
+| **Shinobu** | 24 feb · 151 cm · 37 kg | ***tsukudani* de jengibre** | **contar historias de fantasmas** | sabe que **no tiene fuerza** para cortar cuellos: se ve estratega, no guerrera; lo suple con veneno | ✅ |
+
+### 21.2 Lo que aman y lo que odian
+
+- **Tanjiro**: odia la grosería y la cobardía (§8); ama a su familia.
+- **Nezuko**: ama a Tanjiro por encima de todo.
+- **Zenitsu**: **evita a las chicas** desde que, con su oído, oyó lo que
+  decían de él a sus espaldas ⚠️ (sólo el databook); ama a Nezuko a
+  primera vista.
+- **Inosuke**: odia perder; su único pasatiempo declarado es **pelear**.
+- **Rengoku**: **nunca tuvo mascota**: su padre odiaba a los animales ⚠️
+  (sólo el databook). Ama enseñar.
+- **Shinobu**: según Giyu, **no soporta los animales peludos**, pero tiene
+  un **pez de colores llamado Fugu** (como el pez globo venenoso) ⚠️
+  (sólo el databook).
+
+### 21.3 El objeto que siempre lleva
+
+| Personaje | Objeto |
+|---|---|
+| Tanjiro | la **caja de madera** con Nezuko y los **pendientes *hanafuda*** |
+| Nezuko | el **bozal de bambú** y el adorno del pelo |
+| Zenitsu | sus **cartas *hanafuda*** y el shamisen (de Zenko) |
+| Inosuke | la **cabeza de jabalí** |
+| Rengoku | la **espada de la Llama**, con 惡鬼滅殺 grabado (§7.1) |
+| Shinobu | la **espada aguijón** con veneno de glicinia |
+
+### 21.4 En la Academia Kimetsu (el instituto de broma de los tomos)
+
+Páginas extra oficiales de los tomos 2, 3 y 7 ✅ (Trivia de la wiki):
+
+- **Tanjiro** incumple siempre el uniforme por sus pendientes.
+- **Zenitsu** revisa uniformes, con miedo a los matones.
+- **Shinobu** preside el club de **Farmacología** y el de **Esgrima**
+  (ganó el campeonato).
+- **Rengoku** es **profesor de historia** y organiza batallas de
+  caballitos en clase.
+- **Nezuko** muerde **baguettes** y se las deja en la boca, como el bambú.
+- **Inosuke** sale en la tele por haberse criado entre jabalíes.
+
+### 21.5 Para la lámina
+
+- Un **dato curioso** corto en el Secreto Taisho (concepto B): «A Shinobu
+  le encantan las historias de fantasmas», «Nezuko siempre gana a piedra,
+  papel o tijera».
+- **No usar** los gustos de blogs (mangashed, lifehaki): se contradicen
+  con el databook (p. ej. «taiyaki» para Tanjiro) ⚠️.
+- **Gustos de Giyu, Tengen, Mitsuri, Kanao y Muichiro**: no los revisé ⚠️.
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar o gritar
+
+Segunda pasada (punto 21). Sale de `partes/voz.md`, con fuentes en
+español, inglés, japonés y coreano. Las encuestas y el cariño del
+público latino ya están en §9.
+
+### 22.1 Los números
+
+| Dato | Cifra | Fuente |
+|---|---|---|
+| Manga en el mundo (jul-2025, con digital) | **220 millones** (164 M en Japón); 4.º de Shueisha tras One Piece, Dragon Ball y Naruto | ✅ [Somos Kudasai](https://somoskudasai.com/noticias/demon-slayer-220-millones-copias-manga/) + [Inquirer](https://technology.inquirer.net/142563/demon-slayer-manga-tops-200-million-copies-sold-worldwide) |
+| Manga al terminar (mayo-2020) | 120 millones | ⚠️ [nippon.com (ja)](https://www.nippon.com/ja/in-depth/d00667/) |
+| *Mugen Train* en Japón (2020) | **32.400 millones de yenes**: le quitó el récord a *El viaje de Chihiro* | ⚠️ nippon.com |
+| *Castillo Infinito* en Corea del Sur | **3 millones** de espectadores en **10 días**; 58 % hombres | ⚠️ [Daum / IZE (ko)](https://v.daum.net/v/20250901095116506) |
+| Crunchyroll Anime Awards 2020 | **Anime del Año** (y 3 premios esa noche) | ✅ [Animation World Network](https://www.awn.com/news/demon-slayer-kimetsu-no-yaiba-and-mob-psycho-100-ii-take-top-crunchyroll-anime-award-honors) + Wikipedia |
+| Newtype Anime Awards 2019 | Mejor Director (Haruo Sotozaki) | ⚠️ sólo un agregador (IMDb) |
+| Crunchyroll Anime Awards 2026 | **7 premios** para *Castillo Infinito*: Película del Año, Mejor Banda Sonora (Yuki Kajiura y Go Shiina) y **Mejor Actuación de Voz en Español Latinoamericano: José Antonio Toledano, Akaza** | ✅ [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/) + [TV Azteca](https://www.tvazteca.com/azteca7/planeta-anime/crunchyroll-anime-awards-2026-que-premio-gano-demon-slayer-kimetsu-no-yaiba/) |
+| Crítica, temporada 1 | **100 %** crítica, **89 %** público | ✅ [Rotten Tomatoes](https://www.rottentomatoes.com/tv/demon_slayer_kimetsu_no_yaiba/s01) |
+| Reseñas | IGN: «*stunning swordfights… a lot of heart, and even a fair amount of humor*»; The Verge: la animación y las voces mejoran **cada episodio**, no sólo los grandes | ⚠️ citas vistas en resultados de búsqueda |
+
+### 22.2 Por qué conecta
+
+- **Japón** ⚠️ ([nippon.com](https://www.nippon.com/ja/in-depth/d00667/)):
+  llegó en plena **pandemia**, cuando la gente se preguntaba qué importa
+  de verdad. Los muertos **siguen acompañando** a los vivos: «**los
+  pensamientos se heredan**». Llegó a gente que no ve anime.
+- **Corea del Sur** ⚠️ ([Daum / IZE](https://v.daum.net/v/20250901095116506)):
+  triunfó pese a su identidad japonesa, algo delicado allí. Por los
+  **fondos realistas**, el movimiento en 3D, el sonido, el pasado triste
+  **también de los villanos** y el humor que corta la tensión.
+- **Latinoamérica**: la muerte de Rengoku y el récord de taquilla de
+  *Castillo Infinito* en México (§9.3 y §10.1) ✅.
+
+### 22.3 Con quién se identifica el público
+
+De [AnmoSugoi](https://anmosugoi.com/demon-slayer-10-personas-populares/) ⚠️ (una fuente, pero da un motivo por personaje):
+
+| Personaje | Por qué |
+|---|---|
+| **Zenitsu** | vence el miedo **justo cuando importa** |
+| **Inosuke** | de salvaje a buscar **amistad** |
+| **Mitsuri** | la rechazaban por no encajar; su fuerza rompe lo que «se espera» de una chica |
+| **Nezuko** | demonio que sigue siendo humana por dentro |
+| **Tanjiro** | empatía; la fuerza de verdad incluye **perdonar** |
+| **Giyu** | protege sin esperar órdenes |
+| **Rengoku** | nobleza y sacrificio |
+| **Muichiro** | la historia con su gemelo |
+
+En Danbooru, los cinco más dibujados son **Giyu, Shinobu, Nezuko, Mitsuri
+y Tanjiro** (`datos-voz.md`): cariño medido, no encuestado.
+
+### 22.4 Las escenas que hacen llorar
+
+**Ep. 19, «Hinokami»** (T1-19, Monte Natagumo):
+
+- **Qué pasa**: Tanjiro contra Rui. Recuerda la **danza del fuego de su
+  padre** y Nezuko usa por primera vez su **sangre que arde** para
+  salvarlo.
+- **Qué suena**: «**Kamado Tanjirō no Uta**», de Go Shiina con Nami
+  Nakagawa (§11.1), no el ending de siempre ✅ (Wikipedia en español).
+- **Por qué duele**: la autora lloró. «La animación, la dirección, la
+  música… todo es tan increíble que yo misma terminé llorando
+  desconsoladamente», dijo **Koyoharu Gotoge**; lo vio **unas 20 veces**
+  ⚠️ ([SensaCine México](https://www.sensacine.com.mx/noticias/noticia-1000160582/), una fuente, cita textual).
+- **Cómo está dibujada**: el *storyboard* es de Toshiyuki Shirai (§19.3).
+
+**La muerte de Rengoku** (*Mugen Train*), la que más hace llorar en
+Latinoamérica (§9.3):
+
+- **Minuto**: de «¡No huyas, cobarde!» (**MT 01:40:24**) a «Enciende tu
+  corazón» (**MT 01:44:51**) ✅ (§14.1 y §10.4).
+- **Qué suena**: «**Homura**», de LiSA, cierra su historia (§11.3).
+- **Ranking** de las 10 escenas más emotivas de la película ⚠️
+  ([Cultture](https://www.cultture.com/demon-slayer-mugen-train-las-10-escenas-mas-emotivas-de-la-pelicula-clasificadas)):
+  1.ª la muerte de Rengoku; 2.ª Tanjiro persigue a Akaza al amanecer;
+  3.ª el Hinokami Kagura contra Enmu; 4.ª Tanjiro rompe la pesadilla,
+  furioso por los insultos a su familia; y en 10.ª, su madre le dice a
+  Rengoku que está orgullosa de él.
+
+**Lo que dice el fandom**: en r/KimetsuNoYaiba, «¿en qué pelea
+lloraste?» (126 votos, 72 comentarios) da **Tengen contra Gyutaro,
+Tanjiro contra Rui, Shinobu contra Doma y Tanjiro y Giyu contra Akaza**
+⚠️ ([hilo](https://www.reddit.com/r/KimetsuNoYaiba/comments/1rmp5y1/which_fight_did_you_cry_at_tengen_vs_gyutaro/)).
+
+**Reacciones** a la muerte de Rengoku (medidas con `yt-dlp`):
+
+| Vídeo | Canal | Vistas | Idioma |
+|---|---|---|---|
+| [36 reacciones en mosaico](https://www.youtube.com/watch?v=FeqILNQVpps) | REACTION MASHUPS | 1.274.635 | inglés |
+| [«se EXTINGUIÓ la LLAMA! :(»](https://www.youtube.com/watch?v=AevGumyhtes) | Merce Gallardo | 403.731 | español |
+| [«[GIRLS REACT] Rengoku's Death»](https://www.youtube.com/watch?v=pmI917UuFYE) | Otaku-sen 2.0 | 351.487 | inglés |
+
+### 22.5 La que hace gritar de emoción
+
+La publicación más votada de r/KimetsuNoYaiba en «la mejor escena» (3.169
+votos, 120 comentarios, `datos-voz.md`): [«No words. No action. Just the
+serious expression from a once coward
+kid»](https://www.reddit.com/r/KimetsuNoYaiba/comments/1f2oh56/). Es
+**Zenitsu**, por primera vez **serio**, sin gritar. Para el fandom, da
+más escalofríos que cualquier golpe. Otro punto a favor de Zenitsu para
+el concepto C.
+
+### 22.6 Las que hacen reír
+
+De [ScreenRant](https://screenrant.com/funniest-demon-slayer-moments-hilarious/) ⚠️:
+
+- Inosuke **mella sus espadas nuevas a pedradas** delante del herrero.
+- Giyu **ata a Inosuke a un árbol** tras rechazar su reto.
+- Las tres esposas de Tengen le estropean su despedida «final», y
+  Nezuko **lo prende fuego** al intentar curarlo.
+- Zenitsu se entera de que Tengen tiene **tres esposas** y acaba noqueado.
+- Tanjiro reta a Giyu a un **concurso de comer** para animarlo.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+Segunda pasada (punto 22). Sale de `partes/voz.md`. Todo es **de
+aficionados**; el doblaje oficial está en §10. Vistas y «me gusta»
+medidos con `yt-dlp` ✅.
+
+### 23.1 Fandubs en YouTube
+
+| Vídeo | Canal | Vistas | Me gusta | Fecha |
+|---|---|---|---|---|
+| [«Día de Besos»](https://www.youtube.com/watch?v=6pL9T_-uZrw) (cómic dub) | Humbertory | 1.671.983 | 65.318 | 19-abr-2020 |
+| [«Tanjiro va al cielo»](https://www.youtube.com/watch?v=zG4NuOy5iBw) (cómic dub) | Humbertory | 1.458.739 | 72.432 | 23-abr-2020 |
+| [«La muerte de Genya»](https://www.youtube.com/watch?v=eTAhMWJDNww) | RodriFD | 1.093.956 | 36.440 | 4-jun-2022 |
+| [«¡GONPACHIRO KAMABOKO!»](https://www.youtube.com/watch?v=LrfgPRt7IpE) | Qchao24 | 3.970 | 82 | 2-ago-2021 |
+
+**Un fandub en grupo**: [«Kamaboko Gonpachiro», de
+TanoshiDubs](https://www.facebook.com/TanoshiDubs-585825835438840/videos/demon-slayer-kamaboko-gonpachiro-fandub-latinocr%C3%A9ditostanjiro-kiyoshi-el%C3%ADas-vega/352977596067075/)
+(Facebook), con reparto acreditado: **Elías Vega** (Tanjiro y Kiyoshi),
+**Fermín Abraham** (Zenitsu), **Alexito Sas** (Inosuke y el cuervo) ✅
+(créditos en la descripción). Vistas: Facebook no las da sin sesión ⚠️.
+
+**En TikTok**: [@soysamsedano](https://www.tiktok.com/@soysamsedano/video/7406568369912106246)
+dobla a Kanao y la escena de Shinobu con Kanao; [@haijime_0](https://www.tiktok.com/@haijime_0/video/7390162930618141957),
+la misma escena. Etiquetas: **#fandublatino #fandubespañol
+#kimetsunoyaiba**. Vistas: TikTok da 403 sin sesión ⚠️.
+
+### 23.2 Covers de openings y endings en español
+
+| Canción | Cover | Canal | Vistas |
+|---|---|---|---|
+| Gurenge (OP1) | [«GURENGE COVER ESPAÑOL»](https://www.youtube.com/watch?v=yVuJzF14amo) | ilonqueen | **7.606.133** |
+| Akeboshi (OP2) | [«FULL COVER ESPAÑOL LATINO»](https://www.youtube.com/watch?v=54c-_tTNqxo) | Danie Green | 1.216.278 |
+| Gurenge (OP1) | [«FULL COVER ESPAÑOL LATINO»](https://www.youtube.com/watch?v=V3-Nkt0-3yw) | Danie Green | 1.020.076 |
+| Zankyou Sanka (OP3) | [«COVER ESPAÑOL»](https://www.youtube.com/watch?v=i02a5eO6wFw) | Luxe KO | 720.740 |
+| Homura (*Mugen Train*) | [«FULL COVER ESPAÑOL LATINO»](https://www.youtube.com/watch?v=A9eCWmSinG4) | Danie Green | 358.940 |
+| Asa ga Kuru (OP4) | [«COVER ESPAÑOL»](https://www.youtube.com/watch?v=UVdL7iKihek) | Danie Green | 221.496 |
+| From the Edge (ED1) | [«Cover ESPAÑOL»](https://www.youtube.com/watch?v=YubFGjSW2yw) | Yara Paz | 6.106 |
+
+**Danie Green** es el canal que más openings canta en español latino:
+cuatro, todos con más de 200 mil vistas ✅.
+
+### 23.3 Parodias y memes hispanos
+
+| Qué | Canal | Dato |
+|---|---|---|
+| [«KIMETSU DEL BARRIO — PARODIA RESUMIDA»](https://www.youtube.com/watch?v=Wyh8aMGocLc) (T1) | Eddie FD | **5.550.642** vistas, 170.969 me gusta |
+| [«KIMETSU DEL BARRIO 2 — EL MUGRE TREN»](https://www.youtube.com/watch?v=XmSduNPYwWI) | Eddie FD | 1.637.922 vistas |
+| [«Si tuviera BUENOS DIÁLOGOS»](https://www.youtube.com/watch?v=YG3e6vpb5XY) (serie de 9+ redoblajes de broma) | AquamerYT | de 213.691 a 1.083.542 por vídeo |
+| [«If the Pillars Went to School»](https://www.youtube.com/watch?v=k_66ggFKqzY) | Viruz 51 | 2.683.142 vistas |
+| El meme **«Kamaboko Gonpachiro»** | YouTube, Facebook y TikTok (@yowaimo_san, @jsscmrcl_) | se repite en varias redes ⚠️ |
+
+**«Kimetsu del Barrio»** es la comedia hispana más vista que se encontró:
+más que casi cualquier clip oficial doblado de §10.4.
+
+### 23.4 Para el servidor
+
+- **Reto de doblaje**: la escena de Shinobu y Kanao ya la doblan fans en
+  TikTok; el «Kamaboko Gonpachiro» es el gag que todos conocen.
+- **Canto**: Danie Green es la referencia de covers en español.
+- **Encuesta**: «¿En qué pelea lloraste?» (§22.4).
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+Segunda pasada (punto 23). Sale de `partes/imagen.md`. Las tres
+colaboraciones de móvil de §13 (*Nichirin Battle Slash*, *Shironeko
+Project*, *Kotodaman*) siguen **sin mirar** ⚠️.
+
+### 24.1 Marcas, parques y eventos
+
+| Colaboración | Qué trae | Fecha | Fuentes |
+|---|---|---|---|
+| **Universal Studios Japan**: atracción XR del arco de los Herreros y el restaurante **Hyottoko Dining Hall** | arte nuevo de los Herreros, comida de cada Pilar, figuras a tamaño real | jul-2024 a ene-2025; anunciada otra para el Entrenamiento de los Pilares | ✅ [SoraNews24](https://soranews24.com/2024/07/24/demon-slayer-kimetsu-no-yaiba-gets-new-roller-coaster-attractions-and-food-at-universal-studios-japan/) + [Japan Web Magazine](https://jw-webmagazine.com/demon-slayer-theme-restaurant-at-universal-studios-japan/) |
+| **Lawson × USJ** | dos tiendas decoradas, productos exclusivos | desde 30-jun-2026 | ✅ [Lawson (ja)](https://www.lawson.co.jp/lab/entertainment/art/20260630_collabousj.html); [foto oficial](https://www.lawson.co.jp/lab/entertainment/art/__icsFiles/afieldfile/2026/06/29/20260630_collabo_usj_g_2.jpg), 800×450 |
+| **UNIQLO UT** | **2021**: con GU, 22-jul. **2025**: 4 camisetas (Tanjiro y Nezuko; Zenitsu con rayo; Akaza; glicinias y Pilares de espaldas), 1.500 ¥ | 2021 y 2025 | ✅ [Uniqlo 2021 (ja)](https://www.uniqlo.com/jp/ja/contents/corp/press-release/2021/07/210706_21ss_kimetsu_ut.html) + [kimetsu.com, noticia 2025](https://kimetsu.com/anime/news/?id=67677) + [Aniplex](https://www.aniplex.co.jp/news/detail/?id=67677); [camiseta](https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481120/item/goods_00_481120_3x4.jpg), 1500×2000 |
+| **Puzzle & Dragons** (GungHo) | arte nuevo: Akaza, «Giyu y Tanjiro», Doma; mazmorra «Descenso de Muzan» | 22-ago a 8-sep-2025 | ✅ [kimetsu.com](https://kimetsu.com/anime/news/?id=68473) + [pad.gungho.jp](https://pad.gungho.jp/member/collabo/kimetsu/2312/); [arte](https://pad.gungho.jp/member/collabo/kimetsu/2312/img/ogp.jpg?=231221), 1280×720 |
+| **ufotable Cafe** (el café del propio estudio) | menú y mercancía con **arte nuevo** de escenas concretas, casi todo el año. En 2026, cuatro tandas «Lazos que unen» (p. ej. la 3.ª, 9-jun a 5-jul: el trío y la Academia Kimetsu) y una de Iguro y Kanroji (4-mar) | 2026 | ✅ [ufotable Cafe](https://www.ufotable.co.jp/cafe/collaboration/kimetu/) + [Japan Web Magazine](https://jw-webmagazine.com/tips/demon-slayer-kimetsu-no-yaiba-cafe-in-japan/); fechas también en [collabo-cafe.com](https://collabo-cafe.com/events/tag/ufotable-cafe/) |
+
+**Fortnite: no hay colaboración oficial** (sep-2026). Sólo el rumor de un
+filtrador (ShiinaBR); Epic no lo ha anunciado ([GameRant](https://gamerant.com/fortnite-leak-demon-slayer-collab-release/),
+[ExitLag](https://www.exitlag.com/blog/demon-slayer-fortnite/)). **No
+ponerlo en una lámina como real.**
+
+### 24.2 Figuras oficiales (pose en 3D)
+
+| Figura | Qué trae | Fuente |
+|---|---|---|
+| **S.H.Figuarts Nezuko** (Bandai Spirits) | 5 caras, mitad inferior **sentada**, manos para ir **de la mano con Tanjiro**; 8.250 ¥, venta 10-ago-2024 | ✅ [tamashiiweb 14759](https://tamashiiweb.com/item/14759/); [foto](https://tamashiiweb.com/storage/images/products/imported/item_0000014759_vVPMEchI_02.jpg), 560×560 |
+| **S.H.Figuarts Tanjiro** | piezas para ir de la mano con Nezuko | ✅ [tamashiiweb 14758](https://tamashiiweb.com/item/14758/); [foto](https://tamashiiweb.com/storage/images/products/imported/item_0000014758_gIs5SJW4_02.jpg), 560×560 |
+| **S.H.Figuarts Rengoku** y **Shinobu** | en el catálogo | ✅ [shfiguarts.com](https://www.shfiguarts.com/category/1/355/SHFiguarts/SHFiguarts-Demon-Slayer.html) |
+| **Banpresto** (Vibration Stars, Figuarts ZERO) | premios baratos, poses de acción | ✅ catálogo de tamashiiweb |
+
+La Nezuko **sentada con el bambú** da la pose con **volumen real** del
+lazo y del *obi* a cuadros, desde varios ángulos: mejor que un fotograma
+para calcarla en 3D.
+
+### 24.3 Cosplay bien hecho
+
+- **El *haori* de Tanjiro**: tela **ligera** (algodón o mezcla) para que
+  se mueva; patrones de costura **Simplicity 5839** y **Folkwear #129**;
+  la trama a cuadros se manda a imprimir (Spoonflower) ✅
+  ([AniBladez](https://anibladez.com/blogs/news/the-ultimate-demon-slayer-cosplay-guide)).
+  Tutorial en vídeo: [How to Make Tanjiro Kamado's
+  Haori](https://www.youtube.com/watch?v=YeQJPdTqgSk) ⚠️ (leídos el
+  título y la descripción, no el vídeo).
+- **Consejos de convención**: [Popverse](https://www.thepopverse.com/demon-slayer-tanjiro-nezuko-cosplay-anime-convention-social-media).
+- **Foto con volumen real**: [Zenitsu, Tanjiro y Nezuko en FanimeCon
+  2023](https://upload.wikimedia.org/wikipedia/commons/c/ca/Cosplay_of_Zenitsu_Agatsuma%2C_Tanjiro_Kamado_and_Nezuko_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_%2853055055502%29.jpg),
+  2048×1365, **CC BY-SA 2.0**, LX-Designs. Se ve cómo cae el *haori* a
+  cuadros y el volumen del pelo de Nezuko.
+- **Más fotos con licencia CC** (`datos.json`, Openverse/Flickr): 15 de
+  **esby.ph** (Nezuko, Zenitsu, el trío; **CC BY-NC-SA 2.0**) y 2 de
+  Rengoku de **timz201** (CC BY-NC-SA 2.0), todas en `referencias.json`
+  ⚠️ (no miradas una a una).
+- **Un cruce en el mundo real**: la [locomotora de vapor «SL Kimetsu no
+  Yaiba» en la estación de Futsukaichi, 23-nov-2020](https://upload.wikimedia.org/wikipedia/commons/2/28/Steam_locomotive_Demon_Slayer_SL_Kimetsu_no_Yaiba_Futsukaichi_Station_20201123.jpg),
+  3986×2809, **CC BY-SA 3.0**, autor Rsa (Wikimedia Commons, vía
+  Openverse). Sólo el título y la foto: quién la organizó, no lo dicen las
+  partes ⚠️. Sirve de referencia real para el tren de *Mugen Train*.
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+Segunda pasada (punto 24). Sale de `partes/texto.md` y
+`partes/datos-texto.md`.
+
+### 25.1 Series de tono parecido
+
+Las que más recomiendan los usuarios de [AniList](https://anilist.co/anime/101922)
+✅ (votos): **Jujutsu Kaisen** (3.343), **Dororo** (1.945), Bleach (385),
+My Hero Academia T4 (335), Black Clover (151), Hell's Paradise (148),
+Rurouni Kenshin 2023 (107), Hunter x Hunter 2011 (103), Fullmetal
+Alchemist: Brotherhood (101), Akame ga Kill! (101), Seraph of the End
+(81), Naruto (80) e InuYasha (79).
+
+Todas son *shōnen* de técnicas con nombre y poder que crece. Por tono
+visual (ukiyo-e, época histórica, sangre estilizada), la más cercana del
+servidor es **Jujutsu Kaisen**.
+
+### 25.2 Lo que la autora reconoce como influencia
+
+| Influencia | Qué dejó | Fuente | Estado |
+|---|---|---|---|
+| **JoJo, Bleach y Naruto** | sus «tres mayores influencias», en un *twitcast* del 31-oct-2016 | [ScreenRant](https://screenrant.com/demon-slayer-jojos-bizarre-adventure-surprising-influence/) + [livedoor, el editor Katayama](https://news.livedoor.com/article/detail/17760339/) (ja) | ✅ dos de prensa; el *twitcast* original dio 403 ⚠️ |
+| **JoJo** en concreto | la **Respiración Total** recuerda a la **Onda (Hamon)** de JoJo, la energía solar que sale de respirar | livedoor: «先生は『ジョジョの奇妙な冒険』はファンだと» | ✅ |
+| **Gintama** | la autora lo adora: de ahí el **humor** que corta la tensión (chibis, Inosuke) | livedoor | ⚠️ una fuente, pero de primera mano |
+| **Hunter x Hunter** | Tanjiro como «**persona corriente**» (普通の人) entre compañeros excepcionales, idea que un colega del editor comparó con **Gon** | livedoor | ⚠️ una fuente |
+
+**Cambios de diseño que contó el editor** (livedoor ⚠️ una fuente, de
+primera mano):
+
+- **Giyu** iba en **kimono**. El editor pidió «más ambiente Taishō» y
+  salió el uniforme de **cuello mandarín**.
+- **Rengoku** no tenía **máscara de tengu**. «Le falta impacto», dijo el
+  editor; «pensé que podría usar una máscara», respondió Gotouge.
+- **Tanjiro empezó como secundario**. **Nezuko con el bambú** fue idea de
+  la autora desde el principio.
+
+### 25.3 Láminas del servidor que se le parecen (para no repetir)
+
+Comparado con la sección 0 y los conceptos de cada biblia ya hecha:
+
+| Serie | Su canal | En qué se parece | Cómo no repetir |
+|---|---|---|---|
+| **Jujutsu Kaisen** (32) | ➕ CREAR SALA («Clase extra»), 🍟 General | *shōnen* de Shueisha, técnicas con nombre, marca en el cuerpo | no hacer otra «clase extra»: aquí es **respiración física**, aguante de aire |
+| **Naruto** (30) | #reto-de-la-semana, #general-doblaje («La barra de Ichiraku») | técnicas por aliento o chakra; apodos | no repetir **barra con alguien sirviendo**: usar el **telón rojo** (concepto B) |
+| **Fullmetal Alchemist** (37) | #general-doblaje («El círculo de tiza»), 🎚️ Mesa de Trabajo, #staff | un **símbolo dibujado** como icono central | no dibujar un símbolo en el suelo: usar la **tablilla de madera** |
+| **Attack on Titan** (2) | #reglas («Reglamento del cuartel») | cuerpo militar con rangos | no poner un **reglamento en la pared**: el Aula es entrenamiento |
+| **My Hero Academia** (25) | #material-de-clase | una escuela con instructores | lámina 2 del Aula: el **horario del Entrenamiento de los Pilares** (§26.2), no un aula con pizarra |
+
+**Resultado**: los tres conceptos de §27 **no repiten** nada ya hecho.
+Ninguna lámina usa un **telón rojo de teatro**, una **tablilla vertical
+de madera** ni un **instrumento tocado de oído** (el shamisen de Zenko).
+
+### 25.4 Temas que comparte
+
+- **El duelo y la familia perdida**: con **Violet Evergarden** (22) y
+  **Frieren** (33), aunque Demon Slayer tiene mucha más acción.
+- **La respiración como técnica de combate y de vida**: ninguna otra
+  lámina del servidor la tiene. Es el ángulo más seguro.
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+Segunda pasada (punto 25). Sale de `partes/texto.md` y
+`partes/imagen.md`.
+
+### 26.1 Las reglas del mundo, en cinco líneas
+
+1. **Japón, era Taishō** (1912-1926): trenes de vapor, kimonos y algo de
+   ropa occidental ✅ ([Britannica](https://www.britannica.com/topic/Demon-Slayer) + wiki).
+2. Los **demonios** (鬼) fueron humanos, corrompidos por la sangre de
+   **Muzan Kibutsuji**. Se regeneran, comen personas y **el sol los
+   deshace** ✅ ([CBR](https://www.cbr.com/demon-slayer-nichirin-swords-explained/) + wiki).
+3. Sólo mueren del todo al sol o **decapitados con una espada Nichirin**
+   (日輪刀), forjada con **arena y mineral de hierro escarlata** de la
+   **Montaña de la Luz Solar**. La hoja **cambia de color** la primera
+   vez que la desenvaina su dueño; si no tiene nivel, queda negra ✅ (CBR
+   + [ficha «Nichirin Sword»](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword)).
+4. Los cazadores usan la **Respiración Total** (全集中の呼吸): más fuerza,
+   velocidad y percepción. Cada escuela tiene **Formas** (型) numeradas y
+   todas vienen de la **Respiración del Sol** (la del Hinokami Kagura) ✅.
+5. El **Cuerpo de Cazadores de Demonios** (鬼殺隊) **no lo reconoce el
+   gobierno** y existe «desde tiempos antiguos» ✅ ([ficha «Demon Slayer
+   Corps»](https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps)).
+
+### 26.2 La historia por arcos
+
+Fuente: [CBR, todos los arcos en orden](https://www.cbr.com/demon-slayer-arcs-chronological-order/)
+✅. Capítulos del manga según CBR; episodios con la numeración de §2.
+
+| # | Arco | Manga · anime | Qué pasa | Momento clave |
+|---|---|---|---|---|
+| 1 | **Selección Final** | cap. 1-9 · ep. 1-5 | Muzan mata a la familia; Nezuko, demonio; Tanjiro entra al Cuerpo | el entrenamiento de Urokodaki y el examen |
+| 2 | **Demonio del Pantano** | cap. 10-13 · ep. 6-7 | primera misión | primer combate de verdad |
+| 3 | **Asakusa** | cap. 14-19 · ep. 8-10 | Tanjiro ve a Muzan en Tokio; conoce a Tamayo | primer choque con el villano |
+| 4 | **Mansión del Tambor** | cap. 20-27 · ep. 11-14 | llegan **Zenitsu** e **Inosuke** | Zenitsu dormido, en serio |
+| 5 | **Monte Natagumo** | cap. 28-44 · ep. 15-21 | la familia araña; **Rui** | el **Hinokami Kagura** (ep. 19, §22.4) |
+| 6 | **Entrenamiento de recuperación** | cap. 45-53 · ep. 22-26 | se presentan los **Pilares** y **Ubuyashiki**; curación en la **Mansión Mariposa** | la primera reunión de los Pilares; la calabaza (T1-25) |
+| 7 | **Tren Mugen** | cap. 54-66 · ep. 27-33 y la película | **Rengoku** contra **Akaza** | muere el Pilar de la Llama |
+| 8 | **Distrito Rojo** | cap. 67-97 · ep. 34-44 | **Tengen** y sus tres esposas contra **Daki y Gyutaro** | primera victoria sobre una Luna Superior |
+| 9 | **Aldea de los Herreros** | cap. 98-127 · ep. 45-55 | **Nezuko resiste el sol** | giro de toda la trama |
+| 10 | **Entrenamiento de los Pilares** | cap. 128-136 · ep. 56-63 | cada Pilar entrena a los demás **en su especialidad** | el «horario de clases» (lámina 2 del Aula) |
+| 11 | **Castillo Infinito** | cap. 137-183 · película de 2025 | asalto al castillo de Muzan | el pasado triste de los villanos |
+| 12 | **Hasta el amanecer** | cap. 184-205 | batalla final contra Muzan; Tanjiro es demonio un rato y vuelve | epílogo con sus descendientes en el siglo XXI |
+
+(La parte de texto ponía el Tren Mugen en «ep. 27-34»; lo corregí a
+**27-33** con la tabla de §2: el ep. 34 ya es del Distrito Rojo.)
+
+### 26.3 Rangos y vocabulario del Cuerpo
+
+Wikitexto de la ficha «Demon Slayer Corps», sección *Positions* ✅:
+
+| Rango | Japonés | Qué es |
+|---|---|---|
+| **Oyakata** («el señor de la casa») | お館様 | el líder, siempre un **Ubuyashiki** |
+| **Pilar** | 柱 (*Hashira*) | los más fuertes; su aprendiz es el **Tsuguko** (継子) |
+| **Cazador** | 鬼狩り | el grueso del Cuerpo |
+| **Instructor** | 育手 | entrena antes de la Selección (Urokodaki) |
+| **Kakushi** | 隠 («los ocultos») | apoyo sin espada: curan, limpian y **cosen los uniformes** |
+| **Herreros** | 刀鍛冶 | forjan las espadas en su aldea escondida |
+
+**Los Doce Kizuki** (十二鬼月, «Doce Lunas Demoníacas»): los demonios más
+fuertes de Muzan. **6 Superiores** (上弦) y **6 Inferiores** (下弦), del 1
+al 6. Los Superiores llevan **el kanji del rango en un ojo y el número en
+el otro** ✅ ([ficha «Twelve Kizuki»](https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki)
++ [GamesRadar+](https://www.gamesradar.com/entertainment/anime-movies/demon-slayer-upper-moons-twelve-kizuki-ranks/)).
+
+### 26.4 Símbolos y objetos que un fan reconoce al instante
+
+- La **glicinia** del Cuerpo y las casas-refugio (§20.2).
+- El kanji **滅** en la espalda; **惡鬼滅殺** en la hoja (§7.1).
+- La **Marca del Cazador** (痣) y las ***tsuba*** de cada uno (§20.2).
+- Los **pendientes *hanafuda*** de Tanjiro: sol rojo sobre montaña (§14.2).
+- La **caja de madera** de Nezuko y su **bambú**.
+- El **cuervo mensajero** (鎹鴉) y Chuntarō (§7.1).
+- La **máscara de tengu** de Urokodaki (§8).
+
+**Palabras** (japonés, lectura, y cómo va en latino):
+
+| Japonés | Lectura | Qué es |
+|---|---|---|
+| 全集中の呼吸 | *Zenshū Chū no Kokyū* | Respiración Total (Concentración Total) |
+| 型 | *kata* | Forma («Agua, Primera Forma») |
+| 鬼殺隊 | *Kisatsutai* | Cuerpo de Cazadores de Demonios |
+| 柱 | *Hashira* | Pilar (así en latino, §7.5) |
+| 痣 | *aza* | la Marca |
+| 日輪刀 | *Nichirin tō* | espada Nichirin |
+| 鬼 | *oni* | demonio |
+
+---
+
+## 27 · Tres conceptos de lámina
 
 Los tres son **distintos**: sitio, objeto, personaje y cuadro de diálogo
 cambian. A y B son para **LA ACADEMIA** (el Aula y su lámina 2); C es para
@@ -1412,6 +2194,34 @@ cambian. A y B son para **LA ACADEMIA** (el Aula y su lámina 2); C es para
   desenfocada; chispas verdes delante de todo; luz de **farol naranja**
   (`#C68146`) de un lado y noche azul del otro; el biombo del pino al fondo.
 
+### Segunda pasada: qué mejora en los tres
+
+Los tres se quedan (ninguno repite otra lámina del servidor, §25.3). Lo
+nuevo los hace más fieles:
+
+- **Los tres, cómo se renderizan**: sitio y objeto con **luz realista**
+  en Cycles; personajes en **capa aparte**, planos, con línea de
+  Freestyle; *Paper 005* en *Overlay* encima (§19.4). Así compone
+  ufotable (§19.1).
+- **A · calabazas**: el **sello de glicinia** del Cuerpo (§20.2), pequeño,
+  en una esquina de la cartela o de la tira de papel. En la serie marca las
+  casas que **ayudan sin cobrar**: encaja con una clase abierta. Para el
+  Tanjiro del fondo, el [modelo con *rig* de
+  Light.k](https://sketchfab.com/3d-models/none-0ab5b317b7654fd29255d22182537ded)
+  (CC BY, con crédito) sirve para **probar el ángulo**; el personaje final
+  sigue siendo recorte de arte oficial (§18). Las polainas de Shinobu
+  llevan **alas de mariposa** (§20.1): no hay versión libre, se pintan.
+- **B · Secreto Taisho**: un Secreto es **un dato curioso de verdad**.
+  Una tablilla puede llevar uno del **databook** (§21.1), p. ej. «A
+  Shinobu le encantan las historias de fantasmas». Si se prefiere, las
+  cuatro tablillas siguen el **Entrenamiento de los Pilares** (§26.2):
+  cada Pilar enseña una cosa, en orden.
+- **C · Zenko**: sus **cartas *hanafuda*** (su afición, §21.1)
+  desparramadas en el tatami, en primer plano. El *haori* con el
+  **triángulo *uroko*** en relieve ([Uroko.svg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg),
+  dominio público, §20.1). Para el fandom, **Zenitsu serio** es su mejor
+  momento (§22.5): si se quiere otra cara, esa.
+
 ### ¿Cuál primero?
 
 **A**. Es el que mejor junta lo que pide el dueño: un **objeto real que se
@@ -1423,7 +2233,7 @@ canal **sin serie asignada**.
 
 ---
 
-## 20 · Lo que no pude verificar
+## 28 · Lo que no pude verificar
 
 - **Frases latinas textuales sacadas de subtítulos**: YouTube bloquea desde
   este contenedor los subtítulos y los vídeos («no soy un robot», y el
@@ -1435,18 +2245,42 @@ canal **sin serie asignada**.
   un nombre a algo del ep. 7 de los Herreros; no lo comprobé ⚠️.
 - **La caja de diálogo del modo historia** de los juegos *Hinokami*: las
   capturas oficiales vienen sin interfaz ⚠️.
-- **Obanai, Sanemi, Akaza, Doma** y otros secundarios: sus voces latinas
-  sólo están en Doblaje Wiki (una fuente) ⚠️.
+- **Obanai, Sanemi, Doma** y otros secundarios: sus voces latinas
+  sólo están en Doblaje Wiki (una fuente) ⚠️. (Akaza ya tiene dos: §22.1.)
 - **El «escuadrón Kamaboko»** como nombre de fans del trío: de memoria ⚠️.
 - **Los pendientes de Tanjiro cambiados en Asia**: de memoria ⚠️.
 - **La vena de Shinobu** cuando se enfada sonriendo: de memoria ⚠️.
 - **Globos del manga y ediciones latinas** (Panini México, Ivrea): no
   revisé páginas ⚠️.
 - **TikTok**: no se abre desde aquí; sólo títulos de búsqueda ⚠️.
-- **Pixiv y DeviantArt**: sin búsqueda propia ⚠️.
+- **Pixiv y DeviantArt**: sin búsqueda propia ⚠️. (Segunda pasada: DeviantArt
+  sólo para pinceles, §19.5; Pixiv sólo como origen de fan art de Safebooru.)
 - El minuto de los vídeos mirados por **storyboard** puede moverse ±1-2 s.
 - El **Aula** no tiene descripción en el inventario: los textos de §0 son
   una **propuesta** y hay que confirmarlos con el dueño.
+
+**Segunda pasada (puntos 18-25)**, lo que sigue sin confirmar:
+
+- **Filtros de la animación** (grano, aberración, *bloom*): ninguna
+  entrevista los nombra ⚠️ (§19.2).
+- **Plumilla o tableta de Gotouge**: no lo encontré (buscado «吾峠呼世晴
+  Gペン», «吾峠呼世晴 使用画材») ⚠️.
+- **El *twitcast* de 2016** con sus influencias: la página original dio
+  403 y su copia en Wayback se cortó dos veces; sólo por prensa ⚠️.
+- **Gintama, Hunter x Hunter y los cambios de diseño de Giyu y Rengoku**:
+  una sola entrevista (el editor, livedoor) ⚠️.
+- **Encuadres por emoción** fuera del combate: sin fuente del estudio ⚠️.
+- **Patrón libre del *haori* de Giyu** y de las **polainas de Shinobu**:
+  no encontré ninguno (Wikimedia Commons dio 429 varias veces) ⚠️.
+- **Tramas oficiales del manga**: no se pueden bajar ⚠️.
+- **Comida favorita de Inosuke** y gustos de **Giyu, Tengen, Mitsuri,
+  Kanao y Muichiro**: no revisados ⚠️.
+- **Newtype Awards 2019** (mejor director): sólo un agregador ⚠️.
+- **Vistas de los fandubs de TikTok y Facebook**: dan 403 sin sesión ⚠️.
+- **Shironeko Project, Kotodaman y Nichirin Battle Slash**: sin fecha ni
+  imagen ⚠️.
+- **Las 18 fotos CC de Flickr** (17 de cosplay y un fan art, `referencias.json`): no las
+  miré una a una ⚠️.
 
 ---
 
@@ -1469,26 +2303,34 @@ canal **sin serie asignada**.
 | 13 · Descripción profunda de cada personaje | ✅ | 12 personajes, con cómo hablan y minuto (§8) |
 | 14 · Poses analizadas (6-10 por personaje) | ✅ | Shinobu 7, Tanjiro 6, Zenitsu 6, Rengoku 8, más 6 de Mitsuri, Kanao, Aoi y Tengen (§15) |
 | 15 · Vestuario con hex | ✅ | §16 (medidos o marcados ⚠️) |
-| 16 · Paisajes y fondos de pantalla | ⚠️ | sitios con luz ✅; fondos de fans en alta casi no hay (Wallhaven dio 1) (§17) |
-| 17 · Guía para IA | ✅ | §18 |
-| 3 conceptos de lámina | ✅ | §19, con objeto, personaje, cuadro, textos y profundidad |
-| 40 fuentes distintas | ✅ | 52 en la bitácora (§21) |
-| Tipos: oficiales | ✅ | webs oficiales, CSS, manual del juego, Steam, PV de Aniplex, entrevista de ufotable en los Oscars |
-| Tipos: otros idiomas | ⚠️ | japonés (subtítulos, animatetimes, GAME Watch, webs) ✅; chino: Bilibili dio 412 ❌; coreano no ❌ |
-| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom y Doblaje Wiki ✅; TV Tropes 403 y por Wayback sólo la portada; TCRF 403 (Cloudflare) |
+| 16 · Paisajes y fondos de pantalla | ⚠️ | sitios con luz ✅; fondos de fans: en la segunda pasada, **15 de Wallhaven** en `referencias.json` (de `datos.json`, tamaño por la API, hasta 6344×3480), pero el «autor» es quien lo subió, no siempre quien lo dibujó (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | §18: imagen (18.1-18.5) y, en la segunda pasada, **texto** (18.6): reglas de voz, cómo habla cada uno, 18 frases reales por emoción con minuto y vocabulario de gestos. Gotas de sudor: no documentadas ⚠️ |
+| 18 · Estilo de dibujo, técnica y cómo replicarlo | ✅ | §19: programas de ufotable en dos entrevistas japonesas (Autodesk, CGWORLD) y Popverse; línea y sombra (Sakuga Blog); encuadres de combate (jb siraudin); Blender y Photoshop con dos fuentes; 7 modelos con *rig* CC BY. Sin fuente: filtros y plumilla de la autora ⚠️ |
+| 19 · Texturas 2D | ✅ | §20: patrones de 7 personajes con nombre japonés; 2 SVG libres (CC BY-SA y dominio público); insignia medida; tramas y pinceles gratis (no CC0). Sin patrón libre de Giyu ni de Shinobu ⚠️ |
+| 20 · Gustos y detalles de cada personaje | ⚠️ | §21: los 6 del encargo con el databook oficial (vía wiki) + AniList ✅; faltan la comida de Inosuke y los gustos de Giyu (2.º en la encuesta), Tengen, Mitsuri, Kanao y Muichiro |
+| 21 · Por qué la aman, escenas que hacen llorar, reír o gritar | ✅ | §22: ventas, taquilla y premios (los clave con dos fuentes); por qué en japonés y coreano; con quién se identifica el público; ep. 19 y muerte de Rengoku con minuto y música; reacciones medidas. Varias cifras con una fuente ⚠️ |
+| 22 · Fan dubs y comunidad hispana | ✅ | §23: 5 fandubs, 7 covers y 5 parodias o memes, con vistas medidas con `yt-dlp`; TikTok y Facebook sin vistas (403) ⚠️ |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | §24: USJ, Lawson, Uniqlo, Puzzle & Dragons y ufotable Cafe con dos fuentes y foto medida; Fortnite comprobado: **no** es oficial; S.H.Figuarts; cosplay con patrones y fotos CC. Las 3 colaboraciones de móvil, sin mirar ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | §25: 13 recomendaciones de AniList; influencias en dos fuentes; cambios de diseño (una fuente ⚠️); comparación con 5 láminas del servidor |
+| 25 · Mundo, historia y símbolos | ✅ | §26: 5 reglas, 12 arcos con capítulos y episodios (corregido el del Tren Mugen), rangos, Doce Kizuki, emblemas y vocabulario |
+| 3 conceptos de lámina | ✅ | §27, con objeto, personaje, cuadro, textos y profundidad; segunda pasada: cómo renderizarlos, sello de glicinia, dato del databook y cartas *hanafuda* |
+| 40 fuentes distintas | ✅ | **84 webs distintas** enlazadas en la biblia (`revisar.py`); antes, 35 webs y 52 fuentes en la bitácora (§29) |
+| Tipos: oficiales | ✅ | webs oficiales, CSS, manual del juego, Steam, PV de Aniplex, entrevista de ufotable en los Oscars; segunda pasada: noticias de kimetsu.com y Aniplex, ufotable Cafe, Tamashii Nations, GungHo, Lawson, Uniqlo, entrevistas técnicas (Autodesk, CGWORLD) |
+| Tipos: otros idiomas | ⚠️ | japonés (subtítulos, animatetimes, GAME Watch, webs; y en la segunda pasada Autodesk, CGWORLD, livedoor, nippon.com, Discover Japan) ✅; **coreano** ✅ en la segunda pasada (Daum / IZE); chino: Bilibili dio 412, sigue sin fuente |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki, Wikimedia Commons y Britannica ✅; TV Tropes 403 y por Wayback sólo la portada; TCRF 403 (Cloudflare); atwiki japonesa 403 y su Wayback cortado |
 | Tipos: foros y comunidades | ✅ | Reddit por Arctic Shift |
-| Tipos: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation y Reddit ✅; Pixiv y DeviantArt no |
-| Tipos: vídeo | ✅ | §12 |
-| Tipos: código y recursos | ✅ | GitHub (subtítulos, Google Fonts), Sketchfab, Poly Haven, ambientCG |
-| Tipos: doblaje latino | ✅ | Doblaje Wiki, ANMTV, SensaCine, entrevistas en YouTube (§10.5) |
+| Tipos: arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation y Reddit ✅; segunda pasada: DeviantArt (pinceles) ✅ y 33 fan arts de Safebooru con su origen (Pixiv, Twitter) en `referencias.json`; Pixiv directo, no |
+| Tipos: vídeo | ✅ | §12; y fandubs, covers y reacciones medidos (§22-23) |
+| Tipos: código y recursos | ✅ | GitHub (subtítulos, Google Fonts), Sketchfab, Poly Haven, ambientCG; segunda pasada: modelos con *rig* (API de Sketchfab), Clip Studio Assets, Brusheezy, GraphicsBunker, SVG de Wikimedia Commons |
+| Tipos: doblaje latino | ✅ | Doblaje Wiki, ANMTV, SensaCine, entrevistas en YouTube (§10.5); segunda pasada: El Financiero y TV Azteca (premio a José Antonio Toledano, Akaza) |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,98 MB, `objetos_01.jpg` 0,86 MB, `fondos_01.jpg` 0,66 MB |
-| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 36 entradas; 30 URL de imagen comprobadas (HTTP 200); 6 vídeos con `&t=` y el tamaño del fotograma medido |
+| `referencias.json` (mínimo 20, sin máximo, medidos, url = imagen) | ✅ | **252 entradas**, las mejores primero: las 36 de antes y las útiles de `partes/*.json` y `datos.json`. Todas con tamaño medido (API de la wiki, Sketchfab, Wallhaven, Steam, Openverse o Pillow). Los 25 modelos 3D van con su miniatura 1920×1080 y el enlace al modelo en `fuente`. 8 vídeos de fans (covers, fandubs, parodia y reacciones) van enteros, sin `&t=`: sirve el vídeo completo. Corregida una URL de Wikimedia que daba 404 |
 
 ---
 
-## 21 · Bitácora de búsqueda
+## 29 · Bitácora de búsqueda
 
-### 21.1 Red
+### 29.1 Red
 
 - **Funcionó**: Kimetsu no Yaiba Wiki y Doblaje Wiki (API), GitHub (clon
   parcial), Google Fonts (GitHub raw), dafont, Sketchfab, Poly Haven,
@@ -1500,7 +2342,7 @@ canal **sin serie asignada**.
   veces); fontmeme y The Cutting Room Floor (Cloudflare, 403); betterstudio (no resuelve); Bilibili
   (412); sonica.mx (429 y página vacía).
 
-### 21.2 Búsquedas web (9 del cupo de 50)
+### 29.2 Búsquedas web (9 del cupo de 50)
 
 | # | Idioma | Búsqueda | Qué dio |
 |---|---|---|---|
@@ -1514,7 +2356,7 @@ canal **sin serie asignada**.
 | 8 | en | gameuidatabase Hinokami Chronicles dialogue | nada de Game UI Database |
 | 9 | en | artstation Demon Slayer Shinobu fan art | 7 obras en ArtStation |
 
-### 21.3 Sin cupo (API, git, descargas)
+### 29.3 Sin cupo (API, git, descargas)
 
 - `investigar_serie.py` (2 pasadas: personajes y sitios).
 - Kimetsu Wiki `action=parse` de **58 páginas** (personajes, sitios,
@@ -1530,7 +2372,7 @@ canal **sin serie asignada**.
 - API de Sketchfab (17 búsquedas), Poly Haven, ambientCG, Wallhaven,
   Steam; Arctic Shift (8 consultas).
 
-### 21.4 Fuentes consultadas (52)
+### 29.4 Fuentes consultadas (52)
 
 **Oficiales (15)**: [kimetsu.com/anime](https://kimetsu.com/anime/) ·
 [kimetsu.com/anime/hashirageikohen](https://kimetsu.com/anime/hashirageikohen/) ·
@@ -1590,7 +2432,7 @@ canal **sin serie asignada**.
 [Damon Billiot](https://www.youtube.com/watch?v=lEkLJX0q6gs) ·
 [Khromaki](https://www.youtube.com/watch?v=GhFhePAHo3w).
 
-### 21.5 Lo que NO encontré
+### 29.5 Lo que NO encontré
 
 - Subtítulos latinos de clips oficiales (bloqueados).
 - La caja de diálogo del modo historia de *Hinokami*.
@@ -1598,5 +2440,105 @@ canal **sin serie asignada**.
 - Fuentes en **coreano o chino** (Bilibili dio 412; no busqué en Naver).
 - Una tercera encuesta oficial (animatetimes confirma que no hubo).
 - Fondos de pantalla de fans en alta resolución (Wallhaven sólo dio uno).
+
+---
+
+### 29.6 Segunda pasada (repaso corto, 24-sep-2026)
+
+Tres investigadores (imagen, voz, texto) y el redactor. Cada búsqueda,
+con su idioma y lo que dio, está en `partes/imagen.md`, `partes/voz.md`
+y `partes/texto.md`; aquí va el resumen.
+
+**Red directa (sin cupo)**:
+
+- Kimetsu no Yaiba Wiki, `action=parse`: *Trivia* y *Equipment* de los 6
+  personajes, fichas de Giyu, Mitsuri, Wisteria, Demon Slayer Mark, Demon
+  Slayer Corps, Nichirin Sword, Twelve Kizuki y el *Official Fanbook*.
+- API de Wikimedia Commons (con varios 429; se espaciaron las llamadas).
+- API de Sketchfab: búsquedas de *rigs* y 27 fichas de modelo (licencia,
+  caras, autor y miniatura, leídas por el redactor).
+- `yt-dlp -j` sobre 12 vídeos de fans y 5 búsquedas `ytsearch`.
+- Arctic Shift (Reddit): 3 consultas.
+- Webs oficiales con `curl`: kimetsu.com/anime/news, pad.gungho.jp,
+  lawson.co.jp, uniqlo.com, tamashiiweb.com, shfiguarts.com.
+- El redactor: Pillow para medir los 17 retratos de AniList y las vistas
+  previas de los pinceles; `md5` del nombre para validar URL de Wikimedia.
+
+**Búsquedas web (37 en total)**:
+
+| Parte | Cuántas | Idiomas | Ejemplos |
+|---|---|---|---|
+| Imagen | 10 | en, ja | «鬼滅の刃 コラボ ユニバーサルスタジオジャパン UNIQLO ローソン 2026»; «Demon Slayer Fortnite crossover skin»; «ufotable cafe 鬼滅の刃 コラボカフェ 開催 公式» |
+| Voz | 13 | es, en, ja, ko | «鬼滅の刃 なぜ人気 理由 読者 感動»; «귀멸의 칼날 한국 팬더빙 좋아하는 이유»; «tiktok fandub Demon Slayer español latino viral cover» |
+| Texto | 14 | en, ja | «CGWORLD 鬼滅の刃 ufotable 制作 インタビュー»; «吾峠呼世晴 漫画 使用画材 ペン インタビュー»; «Demon Slayer story arcs in order» |
+
+**Bloqueado**: TikTok y Facebook (403 sin sesión), Memedroid (403), CNN
+en Español (451), `w.atwiki.jp` (403; su Wayback se cortó dos veces), la
+búsqueda de repos de GitHub (proxy), sharetextures.com (sin resultados).
+
+**Fuentes nuevas** (dominios que no estaban en §29.4):
+
+- **Técnica** (ja y en): [Autodesk AREA JAPAN](https://area.autodesk.jp/case/animation/kimetsu-01/) ·
+  [CGWORLD](https://cgworld.jp/special-feature/202410-nvidia-hp-ufotable.html) ·
+  [Popverse](https://www.thepopverse.com/movies-demon-slayer-kimetsu-no-yaiba-yuichi-terao-interview-making-the-infinity-castle-feel-infinite) ·
+  [livedoor News](https://news.livedoor.com/article/detail/17760339/) ·
+  [Discover Japan](https://discoverjapan-web.com/article/74084) ·
+  [Sakuga Blog](https://blog.sakugabooru.com/2019/08/15/kimetsu-no-yaiba-the-power-of-ufotables-harmony/) ·
+  [jb siraudin](https://jbsiraudin.github.io/blog/demon-slayer-visual-grammar/).
+- **Blender y Photoshop**: [Yarsa DevBlog](https://blog.yarsalabs.com/basic-toon-shader-in-blender/) ·
+  [Instructables](https://www.instructables.com/Custom-Toon-Shader-in-Blender/) ·
+  [StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender) ·
+  [DeviantArt](https://www.deviantart.com/pearlpencil/art/Manga-Brush-Line-for-Photoshop-268440777) ·
+  [Brusheezy](https://www.brusheezy.com/free/manga-ink) ·
+  [Creative Bloq](https://www.creativebloq.com/animation/create-manga-style-artworks-2118703) ·
+  [Clip Studio Assets](https://assets.clip-studio.com/en-us/detail?id=1707223) ·
+  [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/).
+- **Patrones y emblemas**: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg) ·
+  [Fun! Japan](https://www.fun-japan.jp/en/articles/14279) ·
+  [Tokyo Weekender](https://www.tokyoweekender.com/art_and_culture/history/wagara-japanese-patterns-and-what-they-mean/) ·
+  [The Mary Sue](https://www.themarysue.com/demon-slayer-symbol-meaning-explained/).
+- **Colaboraciones y figuras**: [SoraNews24](https://soranews24.com/2024/07/24/demon-slayer-kimetsu-no-yaiba-gets-new-roller-coaster-attractions-and-food-at-universal-studios-japan/) ·
+  [Japan Web Magazine](https://jw-webmagazine.com/demon-slayer-theme-restaurant-at-universal-studios-japan/) ·
+  [Lawson](https://www.lawson.co.jp/lab/entertainment/art/20260630_collabousj.html) ·
+  [Uniqlo](https://www.uniqlo.com/jp/ja/contents/corp/press-release/2021/07/210706_21ss_kimetsu_ut.html) ·
+  [Aniplex](https://www.aniplex.co.jp/news/detail/?id=67677) ·
+  [GungHo](https://pad.gungho.jp/member/collabo/kimetsu/2312/) ·
+  [ufotable Cafe](https://www.ufotable.co.jp/cafe/collaboration/kimetu/) ·
+  [collabo-cafe.com](https://collabo-cafe.com/events/tag/ufotable-cafe/) ·
+  [GameRant](https://gamerant.com/fortnite-leak-demon-slayer-collab-release/) ·
+  [ExitLag](https://www.exitlag.com/blog/demon-slayer-fortnite/) ·
+  [Tamashii Nations](https://tamashiiweb.com/item/14759/) ·
+  [S.H.Figuarts](https://www.shfiguarts.com/category/1/355/SHFiguarts/SHFiguarts-Demon-Slayer.html) ·
+  [AniBladez](https://anibladez.com/blogs/news/the-ultimate-demon-slayer-cosplay-guide).
+- **Por qué la aman** (es, en, ja, ko): [Somos Kudasai](https://somoskudasai.com/noticias/demon-slayer-220-millones-copias-manga/) ·
+  [Inquirer](https://technology.inquirer.net/142563/demon-slayer-manga-tops-200-million-copies-sold-worldwide) ·
+  [nippon.com](https://www.nippon.com/ja/in-depth/d00667/) ·
+  [Daum / IZE](https://v.daum.net/v/20250901095116506) ·
+  [AWN](https://www.awn.com/news/demon-slayer-kimetsu-no-yaiba-and-mob-psycho-100-ii-take-top-crunchyroll-anime-award-honors) ·
+  [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2026/05/22/crunchyroll-anime-awards-2026-lista-completa-de-ganadores/) ·
+  [TV Azteca](https://www.tvazteca.com/azteca7/planeta-anime/crunchyroll-anime-awards-2026-que-premio-gano-demon-slayer-kimetsu-no-yaiba/) ·
+  [Rotten Tomatoes](https://www.rottentomatoes.com/tv/demon_slayer_kimetsu_no_yaiba/s01) ·
+  [AnmoSugoi](https://anmosugoi.com/demon-slayer-10-personas-populares/) ·
+  [Cultture](https://www.cultture.com/demon-slayer-mugen-train-las-10-escenas-mas-emotivas-de-la-pelicula-clasificadas) ·
+  [ScreenRant](https://screenrant.com/funniest-demon-slayer-moments-hilarious/).
+- **Comunidad hispana**: [Facebook, TanoshiDubs](https://www.facebook.com/TanoshiDubs-585825835438840/videos/demon-slayer-kamaboko-gonpachiro-fandub-latinocr%C3%A9ditostanjiro-kiyoshi-el%C3%ADas-vega/352977596067075/) ·
+  [TikTok, @soysamsedano](https://www.tiktok.com/@soysamsedano/video/7406568369912106246) ·
+  13 canales de YouTube (Humbertory, RodriFD, Qchao24, ilonqueen, Danie
+  Green, Luxe KO, Yara Paz, Eddie FD, AquamerYT, Viruz 51, REACTION
+  MASHUPS, Otaku-sen 2.0, Merce Gallardo), enlazados en §22-23.
+- **Mundo**: [CBR](https://www.cbr.com/demon-slayer-arcs-chronological-order/) ·
+  [GamesRadar+](https://www.gamesradar.com/entertainment/anime-movies/demon-slayer-upper-moons-twelve-kizuki-ranks/) ·
+  [Britannica](https://www.britannica.com/topic/Demon-Slayer) ·
+  [AniList](https://anilist.co/anime/101922).
+- **De `datos.json`** (en `referencias.json`): Wallhaven, Safebooru,
+  Openverse/Flickr, Steam y AniList.
+
+**Lo que NO encontré en la segunda pasada**: filtros de la animación;
+plumilla de la autora; el *twitcast* original de 2016; segunda fuente
+para lo que cuenta el editor de Gintama, HxH y los diseños; patrón libre
+de Giyu y de Shinobu; tramas oficiales; comida de Inosuke y gustos de los
+secundarios; vistas de TikTok y Facebook; fecha e imagen de las tres
+colaboraciones de móvil; encuadres por emoción fuera del combate; gotas
+de sudor como gesto de la serie. Detalle en §28.
 
 ---
