@@ -8,7 +8,16 @@ fecha: 2026-09-24
 # Biblia · Rick y Morty — para #noticias-series
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (el wiki de la serie y
+> - **Segunda pasada, 25-sep-2026, con la red abierta** (lo de abajo es
+>   la primera, del 24-sep). Se usaron: la API de Fandom (wiki de la serie
+>   y Doblaje Wiki), `investigar_serie.py` (**3 hojas de contacto** en
+>   `hojas/`, §3A), la API de Sketchfab (licencias), Arctic Shift
+>   (Reddit), Fontsource + fontTools, `yt-dlp` para metadatos y
+>   `fotogramas.py` sobre **Dailymotion e Internet Archive** (YouTube
+>   pedía iniciar sesión): 8 vídeos mirados, entre ellos el «Style
+>   Guide». Lo nuevo va marcado «segunda pasada» y está resumido justo
+>   debajo. Las notas de trabajo, en `partes/`.
+> - **Primera pasada, 24-sep**: la red de esta sesión estaba cerrada. Fandom (el wiki de la serie y
 >   Doblaje Wiki), Wikipedia, YouTube, Reddit, Arctic Shift, ANMTV,
 >   Bubbleblabber, tvwriting.co.uk, rickandmortyapi.com, la API de
 >   Sketchfab y videogaming3d daban **403** por curl o por WebFetch.
@@ -2024,3 +2033,59 @@ producción coreana. En japonés sólo una, por el anime de 2024.
 - **Cajas de diálogo** de Pocket Mortys y Virtual Rick-ality.
 - Comentarios de Blu-ray o entrevistas sobre **cómo se diseñaron los
   rótulos** del cable.
+
+### Segunda pasada (25-sep-2026, red abierta)
+
+Cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Sus
+notas completas, con cada consulta, están en `partes/imagen.md`,
+`partes/video.md`, `partes/voz.md` y `partes/texto.md`.
+
+**Red directa (sin gastar buscador)**:
+
+- **API de Fandom**, wiki de la serie (EN): wikitexto de Rick, Morty,
+  Summer, Sr. Meeseeks, Portal Gun, The Citadel, Council of Ricks,
+  Central Finite Curve, Mr. Poopybutthole, The Vindicators, Jerryboree,
+  Blips and Chitz, Death Crystal, Cronenberg World, Birdperson y el
+  transcript de «Rixty Minutes»; tamaños con `imageinfo`.
+- **API de Doblaje Wiki** (ES): «Rick y Morty», «Rick y Morty/1.ª
+  temporada», «2.ª temporada», «Rick y Morty: El anime», fichas de Carmen
+  Lugo y Ángel Balam. **Fandoblaje Wiki**: Ángel Lugo, Rebeca Aponte.
+- **`investigar_serie.py`**: 220 imágenes de la wiki en 5 hojas; las 5
+  miradas con Read, 3 subidas (§3A).
+- **API de Sketchfab**: licencias de 10 modelos, repasadas otra vez por
+  el redactor (§4).
+- **Arctic Shift** (Reddit): hilos «identify» (833 votos) y «saddest»
+  (403, 625 y 2004 votos) y sus comentarios.
+- **Dailymotion** (API de búsqueda, EN y ES) e **Internet Archive**: 8
+  vídeos mirados con `fotogramas.py` (§2.4, §12).
+- **`yt-dlp --skip-download`**: metadatos de 5 fandubs (3 respondieron).
+- **Fontsource + fontTools**: Comic Relief con tildes, ñ, ¿ y ¡.
+- **ambientCG** (API): texturas CC0 de papel y tela (§18B).
+- `curl` a Wallhaven (3 fondos medidos), a ANMTV (artículo del anime) y
+  a la ficha del «Style Guide» en adultswim.com.
+- `grep -il noticias-series encargos/*.md`: ningún choque de canal.
+
+**Buscador web** (unas 45 búsquedas entre los cuatro; EN salvo donde se
+dice): colaboraciones (Fortnite, McDonald's, MultiVersus, Funko,
+McFarlane, gag de *Los Simpson*, corto de Studio DEEN, Rickmobile en
+Dragon Con), técnica (Toon Boom, Bardel, Jeffrey Thompson, James
+McDermott, *cel shading* en Blender), obras parecidas (TVLine, *Solar
+Opposites*, «Doc and Mharti»), lore (Den of Geek), premios y audiencias
+(Emmy, Rotten Tomatoes, HBO Max), escenas tristes (Planetina, «That's
+Amorte»), fandubs y memes (**ES**), doblaje de la T9 y Arlet Matute
+(**ES**), Mr. Poopybutthole en latino (**ES**), pop-up bar temático
+(**ES**). No se buscó en japonés ni en chino en esta pasada: la serie es
+estadounidense y lo japonés (el anime, el corto de Studio DEEN) salió en
+inglés.
+
+**Lo que dio error**: YouTube («Sign in to confirm you're not a bot»,
+todos los días); `press.wbd.com` y Behance (403, sin copia en Wayback);
+yt-dlp con el espejo de Internet Archive (500: se bajó el mp4 directo);
+`api.github.com` sin autenticar.
+
+**Lo que NO encontré en la segunda pasada**: fotogramas en alta del 1×08
+y del 2×08; la transformación completa de Pepinillo Rick en vídeo (la
+promo sólo enseña el pepino); «Ants in My Eyes Johnson» y «Real Fake
+Doors» fuera de YouTube; la pantalla de combate de Pocket Mortys; una
+entrevista sobre encuadres por emoción; ficha oficial de gustos del
+reparto principal; segunda fuente para Mr. Poopybutthole en latino.
