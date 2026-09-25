@@ -28,8 +28,13 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   14 Adventure Time: los 4 investigadores murieron sin escribir nada (sólo los datos gratis seguían). Relanzados desde cero a las 19:31 UTC.
   15-18: datos y hojas recolectados; siguen pendientes sus equipos.
   guardar.sh --cada 300 relanzado a las 19:29 UTC tras el reinicio del contenedor.
+- 12 Kakegurui: **COMPLETA** (19:47, ya subida por guardar.sh). ✅27 ⚠️10 ❌0, 81 referencias, 97 webs, 150 min citados, 40 hex, 2226 líneas.
+  14: video terminado (101 minutos citados); imagen, voz y texto en marcha.
 
 ## Avisos para el dueño
+
+- **12 Kakegurui** (repaso): más querida, **Mary Saotome** (1.ª en la encuesta oficial de Gangan Joker y en una encuesta de fans japonesa; Yumeko gana en AniList y en los memes). Cuadro de diálogo propio: sin globo — la frase va en un naipe que sostiene el personaje (Bodoni Moda o Playfair Display); los gritos en Dela Gothic One rojo. Láminas: A «La caja de Mary» (piedra/papel/tijera, ep. 1), B «Lo emite el consejo» (Kirari junto al acuario `#30B5B9`), C «El tablón del ranking» (Yumeko).
+  Por confirmar de oído: la frase «賭け狂いましょう» del ep. 1 (12:39) en el doblaje — dos modelos de Whisper la transcriben distinto («¡Comencemos esta locura!» / «¿Cómo hacemos esta locura?»).
 
 - **11 Chainsaw Man** (repaso): más querida en la 3.ª encuesta oficial (2025), **Reze**; **Makima** quedó 2.ª las tres veces y es la más dibujada en Danbooru (11.069). Cuadro de diálogo propio: el subtítulo de cine de la escena de Makima y Denji, letra blanca con borde negro (Zen Kaku Gothic New Black); el cine se llama シネマ座. Las butacas son mostaza `#544A36`/`#7C6D4A` (no el rojo vino que se había propuesto). Láminas: A «Fila 7» (recomendada, Makima y Denji en el cine), B la marquesina シネマ座 con Power, C la pizarra del café Futamichi con Reze.
   Por comprobar de oído: la frase de Makima en el doblaje latino de la película, hacia el minuto 9:09 («una buena de cada diez»); las vistas de fandubs y covers en YouTube/TikTok piden iniciar sesión.
@@ -47,6 +52,8 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 12 | redactor (repaso) | Opus | 12 | 193 mil |
+| 14 | video | Sonnet | 11 | 172 mil |
 | 11 | redactor (repaso) | Opus | 13 | 269 mil |
 | 11 | texto | Sonnet | 12 | 168 mil |
 | 11 | voz | Sonnet | 12 | 198 mil |
