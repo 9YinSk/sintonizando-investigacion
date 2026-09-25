@@ -1,0 +1,382 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121514-MGI7JRluscpz.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mitsuha Miyamizu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121516-kuPVJLNsH5uE.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Taki Tachibana",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2646/ccd0c12e610fb75a070eb0391296fd19e6973414.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de tachibana_taki (http://www.pixiv.net/artworks/63465513)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2028/138c8262d73fdad5519b78b10d61e0881927692c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de tachibana_taki (http://i3.pixiv.net/img-original/img/2016/12/16/13/04/57/60397746_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3175/53a8b2b82888da86cebb3d6c408715423207402e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3050,
+  "alto": 1617,
+  "que_es": "Fan art de tachibana_taki (https://i.pximg.net/img-original/img/2020/12/18/01/41/21/86363633_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2428/458920a80171b1979493a23dca32160f9c0ec8a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4777,
+  "alto": 3230,
+  "que_es": "Fan art de tachibana_taki (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=61773133)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2421/1345fa1f3c2025336a4f83964a76199902f34c60.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1680,
+  "alto": 932,
+  "que_es": "Fan art de tachibana_taki (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=68390516)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1759/f79f0c1aced5c26bf06a7e4df6ca0a6a086b5ce9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1088,
+  "que_es": "Fan art de tachibana_taki (http://i1.pixiv.net/img-original/img/2016/09/30/23/11/27/59240220_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2646/f3e16bb1389fe85c9d7a214e08052d2a3868d386.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1753,
+  "que_es": "Fan art de miyamizu_mitsuha (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=59071113)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2389/6e21537c05190e45ddad84ece8189cd685d6d8b8.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1215,
+  "alto": 1290,
+  "que_es": "Fan art de miyamizu_mitsuha (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=59645451)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1130/2d1ff495df3d6a1866dfe958b2002d00045b067d.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 300,
+  "alto": 225,
+  "que_es": "Fan art de konpaku_youmu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4093/b1ca9c6bfceb92167188cf8488a6c29ce8f090b7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 656,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/kirai_s/status/1630533937343922176)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4/430337f3cc5c8f67ba32c687bb632968470a0f77.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de konpaku_youmu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1567/1d648ceffbf7daccbcf938df77a6ff2d1488f1e7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2537,
+  "alto": 4000,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/MireHasu/status/1982016614280380466)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7c7e0e9dc2309b0833c68e11e72d782b90f71a1c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3037,
+  "alto": 4096,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/tasotasoyan00/status/1817092557639229889)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2566/b326774b57e6f69bead70be6b2103576d44db236.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 9764,
+  "alto": 5485,
+  "que_es": "Fan art de konpaku_youmu (https://t.bilibili.com/1022684502637412354)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3987/58b510cac5b7a05d0f48b859169675f28902375f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1032,
+  "alto": 1457,
+  "que_es": "Fan art de cirno (https://i.pximg.net/img-original/img/2022/10/09/19/17/30/101799016_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1053/ddc467d725c9e8459e389c29317dc79dea6a94d2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3275,
+  "alto": 1827,
+  "que_es": "Fan art de cirno (https://i.pximg.net/img-original/img/2025/10/03/11/49/14/135816452_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1282/dd43f028ac51cb117fe9d9e2c3e1205b311cc1f9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1403,
+  "alto": 1904,
+  "que_es": "Fan art de cirno (https://bsky.app/profile/did:plc:xowcw37b4j4vtaaw2gy4fjgm/post/3l6pd3noztq2t)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4483/70579267fda9d82371a8ac901cd7a47871b6d81b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2828,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/SSo_CCute_CAT/status/1741807520279306695)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4253/feda9aedc1aa72aabb7acea0b63227a01d968de1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 1000,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2023/07/13/16/41/05/109876062_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3612/c74e595974e40d6a449fa8fcff7803116a7d84a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 3525,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/0yukiya0/status/1472834625005559810)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3257/9eddb58f7eb172dae826696b11f4d50d3a18ce3c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2789,
+  "alto": 4096,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/0yukiya0/status/1350428363605766145)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3791/5f513cb404064a326873221363ea6798859b4148.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1063,
+  "alto": 970,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2022/04/17/21/56/50/97697640_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3741/6e332f74bb4060188130066b712df83129455b1d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3000,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2022/03/15/20/22/36/96935653_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4063/53954381d69006a75e26ce8a82f7a3e52348e6cf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 922,
+  "alto": 1258,
+  "que_es": "Fan art de kaga_(kancolle) (https://i.pximg.net/img-original/img/2022/12/25/12/37/20/103895707_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4090/da81dfe5d32fbaabef69ca7019aeda153e9b7903.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 794,
+  "alto": 1123,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/kanyas31/status/1626930783117082627)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3331/e1fc12921605d3ed43b40c9bff2c0250d8425e1d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 2120,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/laco_soregashi/status/1390287801455833095)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3760/d947c69de3e95b2923120262178cf5983b3bd7a9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1648,
+  "alto": 2000,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/automatic8/status/1500411060893134848)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3058/ac79404c68332a1828ebcec9aecc52d2b5126354.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 951,
+  "alto": 1200,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/skchkko/status/1467504826569265153)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/311/59ee5d8870fef831d72bc99b41ec560e914c6d0e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1772,
+  "alto": 3840,
+  "que_es": "Fan art de shimakaze_(kancolle) (https://majinkz.moe/extras)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]
