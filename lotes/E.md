@@ -83,6 +83,19 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   - Por comprobar de oído: las frases latinas del incinerador (Dailymotion `x3mvnel`) y las de los
     Marcianitos, que nadie transcribió. 19 de las 55 webs enlazan a la portada del medio, no al artículo.
 
+- **61 Kung Fu Panda** (COMPLETA, 1147 líneas, 159 referencias, 52 webs; ✅21 ⚠️16 ❌0): más querida,
+  **Tigresa** (80 dibujos en Danbooru contra 37 de Tai Lung y 35 de Po; sin encuesta oficial). Tai Lung
+  es el villano favorito en Reddit; Po es la cara de la saga (Omar Chaparro en las 4 películas en
+  latino). Cuadro de diálogo: no hay globo, es **el pergamino** — el Sacred Scroll beige con posturas
+  dibujadas y un yin-yang, o el Pergamino del Dragón dorado que refleja a quien lo lee; también el
+  cartel tallado de la fonda. Letras: Rampart One y Yuji Syuku (tildes/ñ/¿/¡ OK). Láminas: A
+  #material-de-clase ⭐ (Shifu y Tigresa con un Sacred Scroll), B #demos o #presentaciones (Po ante el
+  Pergamino del Dragón), C #general (el Sr. Ping en la fonda).
+  - ⚠️ Punto 13 sin cerrar del todo: faltan caras propias de Tigresa, Po, Shifu, Oogway y el Sr. Ping
+    por algunas emociones (relanzado 2 veces, tope de la skill).
+  - Por comprobar de oído: «¡Skadoosh!» y «No hay ingrediente secreto» en el doblaje latino.
+  - YouTube bloqueado por login: los fotogramas quedaron en 320-1280 px, no en 1080p.
+
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
