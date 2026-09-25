@@ -58,6 +58,17 @@ La nube (sesión optimistic-turing) queda parada, sin agentes ni guardado autom�
   `--wiki`). 103 Hazbin Hotel y Helluva Boss: datos recolectados.
 - Ojo con `datos-voz.md`: en 99 y 100 el recolector trajo el reparto de otra obra con nombre parecido.
 
+### Comprobación de modelos (compu del dueño, MWAPI, 25-sep 2026)
+
+`GET /v1/models` devuelve 7 modelos: `claude-haiku-4-5-20251001`, `claude-opus-4-6`,
+`claude-opus-4-7`, `claude-opus-4-8`, `claude-opus-5`, `claude-sonnet-4-6`, `claude-sonnet-5`.
+Los 4 con «opus» en el nombre respondieron a la petición mínima y cada uno ecoó su propio
+nombre en el campo `model`. Como advierte LOCAL.md, esto es sólo comprobación de nombres
+(el revendedor pone lo que quiera), no garantía real. Elegí `claude-opus-5` (el de nombre más
+alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
+`ANTHROPIC_DEFAULT_OPUS_MODEL` y reabra `claude --continue`. La prueba real sigue siendo
+`revisar.py` dando COMPLETA.
+
 ## Avisos para el dueño
 
 - 97 Bocchi the Rock: 4 datos en que las partes no coinciden (primera guitarra de Bocchi: Les Paul o
