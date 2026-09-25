@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://archive.org/details/youtube-aCgWabJssVI?t=100",
+    "fuente": "Internet Archive (mirror del tráiler oficial de anuncio de Hello Games, YouTube aCgWabJssVI)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del tráiler de anuncio (2014): logo NO MAN'S SKY sobre planeta rojo a contraluz de atardecer",
+    "para_que": "paleta de portada de ciencia ficción retro (#630F31, #79273B) y encuadre de cierre",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube-aCgWabJssVI?t=40",
+    "fuente": "Internet Archive (mirror del tráiler oficial de anuncio)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del tráiler de anuncio: playa de hierba roja, arena clara y mar con espuma verde",
+    "para_que": "sitio/paleta de planeta costero, luz de día despejado",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89lilx?t=220",
+    "fuente": "Dailymotion (JeuxVideo.com), tráiler E3 2015",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de vuelo en cabina sobre un planeta sabana tóxica amarillo-verdoso",
+    "para_que": "paleta de planeta de colores (#CCBC54, #C1E8B3) para la lámina",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8nggcs?t=0",
+    "fuente": "Dailymotion (Vidaextra), tráiler «Echoes» (2023)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de apertura: planeta de hierba roja con setas gigantes y los nuevos aliens Autophage",
+    "para_que": "paleta de planeta alienígena (#270E1E, #A00B0A, #609FDB) y diseño de criatura nueva",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89nujz?t=16",
+    "fuente": "Dailymotion (JeuxVideo.com), tráiler «Prisms» (actualización visual)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del Viajero de pie en una cueva bioluminiscente, rótulo «Volumetric Lighting»",
+    "para_que": "pose de explorar/observar + iluminación dramática casi negra con focos de color",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89nujz?t=24",
+    "fuente": "Dailymotion (JeuxVideo.com), tráiler «Prisms»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del Viajero de espaldas en una ladera verde junto a una criatura-compañera y un robot",
+    "para_que": "pose de explorar en grupo / contemplar paisaje",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube--sK7EGiJSDk?t=80",
+    "fuente": "Internet Archive (mirror del tráiler oficial del 10.º aniversario, YouTube -sK7EGiJSDk)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma en primera persona apuntando la multiherramienta a una criatura mecánica gigante entre niebla verde",
+    "para_que": "pose de combate/atacar",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube--sK7EGiJSDk?t=112",
+    "fuente": "Internet Archive (mirror del tráiler oficial del 10.º aniversario)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cartel de cierre «NO MAN'S SKY COSMOS»: el Viajero con casco dorado flanqueado por dos aliens compañeros ante un planeta rojo",
+    "para_que": "pose de presentar/celebrar en grupo + paleta de portada (#49C0A9, #3B7872, #85514C)",
+    "licencia": "© Hello Games; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/f5/Hub_Traveler_Reference_2.jpg",
+    "fuente": "Fandom nomanssky (ya en datos.json)",
+    "ancho": 1200,
+    "alto": 675,
+    "que_es": "Primer plano de un Viajero NPC (Nogiga) a media frase, con cuadro de diálogo abierto",
+    "para_que": "pose de explicar/dialogar",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/5/57/TwoTravellers.png",
+    "fuente": "Fandom nomanssky (ya en datos.json)",
+    "ancho": 1124,
+    "alto": 1011,
+    "que_es": "Dos Viajeros NPC cara a cara; uno sostiene una tablet y gesticula",
+    "para_que": "pose de explicar/negociar entre dos personajes",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/TravellerInFreighter.jpg",
+    "fuente": "Fandom nomanssky (ya en datos.json)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Viajero caminando por el pasillo interior de un carguero",
+    "para_que": "pose de explorar interior de nave + referencia de arquitectura del carguero",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://ambientcg.com/a/Ground054",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura fotográfica de arena/tierra de playa (Ground054)",
+    "para_que": "textura real equivalente para los planetas desérticos y costeros",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/a/Rock061",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura fotográfica de roca (Rock061)",
+    "para_que": "textura real equivalente para acantilados y cuevas",
+    "licencia": "CC0"
+  }
+]

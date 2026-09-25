@@ -362,3 +362,331 @@ Muestras: [Perla.ogg](https://static.wikia.nocookie.net/doblaje/images/8/87/Perl
 - En 0:17 de Perla.ogg Whisper oyó mal un verso cantado: **no citarlo**.
 - ⚠️ **No hay clips oficiales doblados transcritos.** El clip `TIO` (doblado) se miró en fotogramas, no se transcribió.
 
+
+## Punto 9 · Música y sonido
+
+**Es una serie cantada.** Steven canta más de 38 canciones ([Trivia de Steven](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)#Trivia), ✅). Por eso se propone #🎵・canto.
+
+**El opening**
+- **«We Are the Crystal Gems»**. Música de Rebecca Sugar y Aivi & Surasshu. Versión corta de 0:36, cantada por Zach Callison (Steven). Versión larga de 2:23 con Estelle (Garnet), Michaela Dietz (Amatista) y Deedee Magno Hall (Perla) · [ficha de la canción](https://steven-universe.fandom.com/wiki/We_Are_the_Crystal_Gems) + oído en `GG` 0:00-0:36 · ✅
+- En latino es **«Somos las Gemas de Cristal»**, cantada por **Leisha Medina** (la voz de Steven). Letra del opening extendido en [Letras.com](https://www.letras.com/steven-universo/somos-las-gemas-de-cristal-opening-extendido/) · ✅
+
+**El cierre**
+- No hay un *ending* cantado distinto por capítulo, como en el anime. En el piloto los créditos van con **música instrumental** (`GG` 11:10-11:30, oído) · ✅
+- El álbum oficial trae **«Love Like You (End Credits)»**, cantada por Rebecca Sugar, como tema de créditos (pista 37) · ✅. ⚠️ No se comprobó en qué capítulos suena cantada y en cuáles instrumental.
+
+**Las canciones que más pesan**
+
+| Canción | Capítulo | Quién la canta | Qué ambiente da |
+|---|---|---|---|
+| **«Stronger Than You»** («Más Fuerte que Tú») | «Jail Break» («Escape de la Prisión»), T1-E52 · dura 2:52 | Estelle; en latino, **Rocío Mallo** | triunfo y confianza. Garnet pelea contra Jasper. El himno del fandom · [ficha](https://steven-universe.fandom.com/wiki/Stronger_Than_You) ✅ |
+| **«It's Over, Isn't It»** | «Mr. Greg» («El Señor Greg»), T3, ep. 86 · dura 2:20 | Deedee Magno Hall (Perla) | duelo y amor no correspondido. La que más hace llorar (punto 21) · [ficha](https://steven-universe.fandom.com/wiki/It%27s_Over_Isn%27t_It) ✅ |
+| **«Love Like You»** | créditos | Rebecca Sugar | ternura. En Reddit la citan como «la más icónica» ([hilo](https://www.reddit.com/r/stevenuniverse/comments/1vb7f3s/in_your_opinion_what_is_the_most_iconic_steven/), 203 votos) ⚠️ |
+| **«Soy un cometa»** | — | en latino, **Adrián Blanco** (canta por Greg) | Doblaje Wiki ⚠️ (una fuente) |
+| **«Nada nos cuesta»** · **«En Esa Costa»** | «El Señor Greg» · — | letras adaptadas por Germán Esaá y Jorge Bringas | Doblaje Wiki ⚠️ |
+
+Otras del álbum: «Giant Woman», «On the Run», «Full Disclosure», «Mr. Greg», «Here Comes a Thought» y «What's the Use of Feeling (Blue)?» · [Soundtrack: Volume 1](https://steven-universe.fandom.com/wiki/Soundtrack:_Volume_1) · ✅
+
+**Discos oficiales** ([MusicBrainz](https://musicbrainz.org/release-group/9ced52a8-db50-4e7e-b2de-17a87c936626) + wiki):
+- *Soundtrack: Volume 1* (2-jun-2017): 37 canciones. N.º 1 en iTunes y entró en la *Billboard 200* · ✅
+- *Soundtrack: Volume 2* (12-abr-2019) · [MusicBrainz](https://musicbrainz.org/release-group/0fdf4d2c-5a0c-4c27-8cee-0f06206ce18d) · ✅
+- Disco de **karaoke** (12-abr-2019) · [MusicBrainz](https://musicbrainz.org/release-group/486f567b-ddac-4093-80ae-9ed5e4a5d9da) · ⚠️ (una fuente)
+- *Steven Universe: The Movie* (2-sep-2019) y **su versión en español** (25-oct-2019) · [MusicBrainz, versión en español](https://musicbrainz.org/release-group/065a1034-b94b-4630-8613-6724ade62833) · ⚠️ (una fuente; no dice qué doblaje es). Muy útil para #canto: son canciones oficiales cantadas en español.
+- *Steven Universe Future* (23-oct-2020) y las partituras instrumentales de la T1 (29-may-2020) y la T2 (26-jun-2020) de Aivi & Surasshu · [MusicBrainz T1](https://musicbrainz.org/release-group/e0e63ef4-81df-4c2a-ae78-73a127320b1f) · ⚠️
+- Bandas sonoras de los juegos *Attack the Light* y *Save the Light*, completas en [Internet Archive](https://archive.org/details/steven-universe-attack-the-light-full-ost) · ⚠️ existen, no se escucharon.
+
+**Los instrumentos de cada uno** (Trivia de la wiki, ✅): Steven, el **ukulele** (también guitarra, bajo, batería y piano; tiene oído absoluto). Greg, la guitarra. Garnet, el **keytar** (se lo enseñó Greg). Amatista, una **batería eléctrica** «suelta y salvaje». Pose de música: **hoja n.º 145** (Greg y Steven con guitarra y bajo, llamas detrás, película).
+
+**Sonidos que todos reconocen**
+- **El «poof»**: cuando una Gema recibe mucho daño, su cuerpo se deshace en humo y queda sólo la piedra. No muere · [Gems](https://steven-universe.fandom.com/wiki/Gems) · ✅ la palabra; ⚠️ no hay página de «efectos de sonido» en la wiki (se buscó `sound effect`, `onomatopoeia`).
+- **Sacar el arma**: destello geométrico con líneas de brillo alrededor de las manos. Perla en `GG` 3:30, Garnet en `GG` 6:00-6:10 · ✅ visto. ⚠️ No se aisló el sonido.
+- **No hay onomatopeyas escritas en pantalla**: es animación de EE. UU. (ver punto 5).
+
+## Punto 10 · Vídeos y tendencias
+
+**YouTube pide iniciar sesión desde el servidor.** Todo lo que lleva ✅ se vio en Internet Archive o Dailymotion con `fotogramas.py`. Los enlaces `#t=` van al minuto.
+
+**Tráileres**
+- `TRL` Toonami de la película (2:00, visto cada 2 s): 1:36-1:48 fusión morada de cuatro brazos y León; 1:52-1:54 cartela «STEVEN UNIVERSE THE MOVIE — Monday September 2nd 6:00P» · [#t=96](https://archive.org/download/steven-universe-the-movie-toonami-trailer/Steven%20Universe%20The%20Movie%20TOONAMI%20Trailer.mp4#t=96) · ✅
+- En Dailymotion (sin mirar, ⚠️): tráiler oficial de la serie (JustWatch, 0:41) · https://www.dailymotion.com/video/x8hroiu · tráiler de la película en VO (Sensacine, 1:51) · https://www.dailymotion.com/video/x88pl5q · tráiler de *Future* (BetaSeries, 0:51) · https://www.dailymotion.com/video/x86qv4j
+- Los demás clips de Dailymotion con «Steven Universe» (0:21-0:33) son **avisos de la tele francesa**, no escenas. Descartados.
+
+**Escenas completas** (punto 2): `GG`, `STY`, `ANS`, `IOI` y `TIO`.
+
+**Análisis y ensayos**
+- «Steven Universe VS Social Norms | A Video Essay», de **Saberspark**, 14:45: cómo la serie rompe normas de género en los dibujos para niños · [Internet Archive](https://archive.org/details/youtube-oHkd2QERNy8) · ⚠️ sólo se leyó la ficha, no se vio.
+- «Steven Universe Review - Is it good or bad?», de **PhantomStrider**, 5:13 · [Internet Archive](https://archive.org/details/steven-universe-review-is-it-good-or-bad) · ⚠️ sólo la ficha.
+- Pódcast «The Secret Origin of STEVEN UNIVERSE» con **Chris McDonnell** (autor del artbook *Art & Origins*) · [Internet Archive](https://archive.org/details/98fc287479a22cb81f0e3dcd9ff72b8e) · ⚠️ sólo el título.
+
+**Tendencias de TikTok** (recopilación de fans `TT`, 4:59, vista cada 3 s) · ✅:
+
+| Minuto | Qué pasa | Para qué sirve |
+|---|---|---|
+| [2:33-2:57](https://archive.org/download/steven-universe-tik-toks/Steven%20Universe%20Tik%20Toks.mp4#t=153) | cosplay en pareja: Steven y Rose/Perla por la calle (cuenta «PorkCutlett») | ideas de cosplay |
+| 2:57-3:15 | *speedpaints* de fan art de Steven | #arte |
+| [3:18-3:33](https://archive.org/download/steven-universe-tik-toks/Steven%20Universe%20Tik%20Toks.mp4#t=198) | TikTok de «elige tu aventura»: «You meet a Jasper… Fuse with me? Yes/No», con botones de sí y no | formato de reto o de rol |
+| 3:48-4:03 | cosplay de **Spinel** bailando al aire libre | Spinel tiene mucho tirón en TikTok |
+| 4:33-4:45 | figura rosa corriendo por una acera, estilo Spinel | — |
+
+**«1 Second From Every Steven Universe Episode»** (`1S`, 2:55, visto cada 2 s): un segundo de cada capítulo, en orden. Sirve para ver qué se repite: **Steven corriendo, Garnet señalando, Perla con la lanza** · ✅
+
+**Episodios subidos a Internet Archive** (del recolector, ⚠️ sin comprobar uno a uno): el episodio 86 «Mr. Greg» · https://archive.org/details/StevenUniverseE86 (4302 descargas) · la T1 «Rose's Scabbard» y «Open Book» · https://archive.org/details/StevenUniverseS01E4546RosesScabbardOpenBook · la película · https://archive.org/details/stevenuniversethemovie_202001 . Si hace falta un minuto nuevo, se empieza por aquí.
+
+**Reacciones**: en Internet Archive hay *blind reactions* (reacciones a ciegas) de la T1 51-52, la T4 21-25 y la T5; se descartaron porque no aportan fotogramas propios.
+
+## Punto 11 · Videojuegos
+
+Tres juegos propios de Grumpyface Studios, uno de ritmo, uno de cartas y un *crossover*. No hay ficha en Steam (`datos-texto.md`).
+
+| Juego | Año y plataforma | Cómo es | Lo que sirve para una lámina |
+|---|---|---|---|
+| ***Attack the Light*** | 2015, móvil | RPG por turnos con aire de *Paper Mario*: mazmorras en cuadrícula y golpes a tiempo (tocar o deslizar en el momento justo) | la vida no se llama «HP», se llama **«harmony»** (armonía). Al llegar a 0 la Gema «se retira a su piedra». Las acciones gastan **«starpower»** (estrellas, máximo 9). El modo difícil «Diamond Mode» **esconde las estrellas** · [Fandom](https://steven-universe.fandom.com/wiki/Attack_the_Light) + [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe:_Attack_the_Light) ✅ |
+| ***Save the Light*** | 2017, PS4, Xbox One, PC, Switch | pasa a 3D, más puzles; 8 personajes jugables (uno de pago); el «vínculo» en combate desbloquea **fusiones jugables** | el guion lo escribieron **Rebecca Sugar y el equipo de la serie** (el «Crewniverse»): los diálogos del juego suenan como la serie · [Fandom](https://steven-universe.fandom.com/wiki/Save_the_Light), que cita PlayStation Blog, GameSpot y The Verge ✅ |
+| ***Unleash the Light*** | 2019, móvil | combate por turnos en una **cuadrícula con forma de diamante**: la punta de arriba golpea la fila de arriba, etc. | el **inventario es la Mochila Hamburguesa** (*Cheeseburger Backpack*). Los carteles de las colonias usan **Gem Glyph como letra real**, letra a letra · [Fandom](https://steven-universe.fandom.com/wiki/Unleash_the_Light) ✅ |
+| *Soundtrack Attack* | web de Cartoon Network | juego de ritmo gratis | ⚠️ sólo se vio el título |
+| *Beach-A-Palooza Card Battling Game* | dic. 2020, Cryptozoic, sólo mecenas de Kickstarter | juego de cartas de mesa: eliges personajes, formas una **banda** y fusionas en el escenario | encaja con #canto. Foto del producto 1655×916 · https://static.wikia.nocookie.net/steven-universe/images/9/95/SU_Beach-A-Palooza_Beauty_Shot.png · ⚠️ una fuente |
+| *Cartoon Network: Battle Crashers* | 2016, PS4, Xbox One, 3DS, Switch | *beat 'em up* de hasta 4 jugadores; Steven junto a Finn, Gumball, Mordecai y Clarence | [UPI](https://www.upi.com/Entertainment_News/2016/08/18/Cartoon-Network-Battle-Crashers-Adventure-Time-Steven-Universe-team-up-in-new-game/7091471540606/) + [Wikipedia](https://en.wikipedia.org/wiki/Cartoon_Network:_Battle_Crashers) ✅ |
+
+- *Attack the Light* **se retiró de las tiendas el 23-dic-2024**: sólo quedan capturas y vídeos · [MobileSyrup](https://mobilesyrup.com/2017/06/25/attack-light-game-ios-android/) · ⚠️ una fuente.
+- Arte de los juegos (poses con arma en alto): ver punto 1 (*Save the Light* 1280×854; *Unleash the Light* Garnet, Perla y Amatista).
+- Los juegos de lucha de otras marcas (Brawlhalla, MultiVersus) van en el punto 23.
+
+⚠️ **No se vio la caja de diálogo de ningún juego ni sus menús.** [Game UI Database](https://www.gameuidatabase.com/) pide un reto de Cloudflare y [The Cutting Room Floor](https://tcrf.net/Steven_Universe:_Save_the_Light_(Windows)) (contenido descartado de *Save the Light*) dio 403, directo y por Wayback. No se sabe si la caja lleva retrato, marco o color. **No inventarla**: si una lámina usa un juego, que use el «harmony» o la cuadrícula de diamante, que sí están descritos.
+
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que todos reconocen**
+- **«Cheeseburger Backpack»** (la Mochila Hamburguesa de Steven), T1-E3. Amatista y Perla la cantan y gritan en bucle. Es de los GIF y remixes más repetidos · [Fandom](https://steven-universe.fandom.com/wiki/Cheeseburger_Backpack_(episode)) + [The Avocado](https://the-avocado.org/2019/11/13/steven-universe-rewind-cheeseburger-backpack-together-breakfast/) · ✅
+- **«Stronger Than You»**: el himno. Se usa en *covers*, remixes y en el meme de «por eso soy tan genial» (la frase latina de Garnet, punto 8). En Internet Archive, 13 590 descargas del vídeo y 5060 del tema · ✅
+- **La boda de Rubí y Zafiro** («Reunited»): la primera boda entre dos personajes del mismo sexo en un programa infantil de Cartoon Network. Motivo de orgullo · [Wikipedia](https://en.wikipedia.org/wiki/Cartoon_Network_and_LGBTQ_representation) · ✅
+- **Los ojos de estrella de Steven** cuando algo le emociona (`STY` 0:54-0:57, y el texto de «Appearance» de la wiki) · ✅
+- **Lo que sube a lo más alto en [Reddit](https://www.reddit.com/r/stevenuniverse)** (votos, del recolector) · ⚠️ son títulos, no encuesta:
+  - «Rose burlándose de White Diamond es icónico» (1576) · «Lo vi en directo: uno de los momentos más icónicos de Cartoon Network» (1263, 96 comentarios) · «la mejor escena del final» (1090) · «ojalá esta fusión hubiera pasado» (955) · «Lapis se luce en esta escena» (883).
+  - **Lo que divide**: «No entiendo el *hype* de Spinel» (359 votos, 110 comentarios) · «Steven era mucho más molesto en las primeras temporadas» (241, 155 comentarios).
+- **Parejas del fandom** (*ships*): Perla y Rose («Pearlrose»), Lapis y Peridot («Lapidot»). Explican por qué Perla, Lapis y Peridot son las más dibujadas · ⚠️ interpretación de la parte de voz.
+
+**Qué NO hacer (un fan lo notaría al instante)**
+1. **No adelgazar** a Amatista, Garnet, Rose ni Steven. En 2018 el fandom se lanzó contra una artista por dibujar a Rose más delgada. Es el tema más vigilado · [Jezebel](https://www.jezebel.com/steven-universe-fandom-turns-on-fan-artist-mobs-her-wi-1793852421) + [The A.V. Club](https://www.avclub.com/how-steven-universe-s-fat-bodies-helped-me-draw-my-own-1845830394) · ✅
+2. **No usar un cuerpo genérico de anime.** Cada Gema es una forma: **Garnet cuadrada**, **Amatista redonda**, **Perla cono** (alta y fina). Lo decidió Rebecca Sugar siguiendo la Bauhaus (punto 18) · ✅
+3. **Garnet no hace preguntas.** No ha hecho ni una en toda la serie ([Trivia](https://steven-universe.fandom.com/wiki/Garnet#Trivia), ✅). Sus textos son afirmaciones.
+4. **Perla no come** («el proceso digestivo me da asco»); sí toma té. Amatista come de todo · ✅ (punto 20)
+5. **Una Gema no «muere» por un golpe**: hace «poof» y se regenera. Morir de verdad es **fragmentarse** (*shatter*), el gran tabú · ✅ (punto 25)
+6. **No decir que las Gemas son «mujeres»**: usan el femenino por convención (Rebecca Sugar en su [AMA de Reddit](https://www.reddit.com/r/IAmA/comments/2e4gmx/)) · ✅
+7. **No poner una burbuja blanca de cómic** (la serie no las usa, punto 6) ni **«HP»** en una interfaz (es «harmony», punto 11).
+8. **No copiar la transformación de Sailor Moon** para Steven o Spinel: ya es un préstamo reconocido (punto 24).
+9. **No mezclar el verde veneno de las naves de Homeworld** con escenas de hogar: el verde es «amenaza», lo cálido es «la Tierra» (punto 4).
+
+⚠️ No encontré una lista de memes propia del fandom hispano (se buscó «Steven Universe memes fandom hispano» y «chiste interno fandom latino»). Comparte los memes globales traducidos.
+
+## Punto 13 · Personajes a fondo
+
+Base: las secciones «Personality» y «Trivia» de la wiki, leídas enteras por la parte de voz; las voces, oídas con `voz.py`; las caras, vistas en fotogramas.
+
+### Steven Universe (Cuarzo Universe)
+- **Cómo es:** optimista, amable, abierto, de corazón blando. Ve lo mejor de todos, hasta de sus enemigos. Casi nunca guarda rencor. Prefiere negociar a pelear · [Personality](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)#Personality) ✅
+- **Qué le importa:** su familia (Greg y las Gemas), Connie, Beach City. De Greg heredó la música; de Rose, la compasión · ✅
+- **Miedos:** no cuenta sus problemas a las Gemas por miedo a cómo reaccionarán (Perla se culparía, Garnet le sermonearía, Amatista fingiría madurez), según «Prickly Pair». Las misiones le dejan trauma y ansiedad («Growing Pains») · [Trivia](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)#Trivia) ✅
+- **Arco:** de niño que no controla su poder a asumir su lado de Diamante Rosa; crisis de identidad en la T5 y en *Future* · ✅
+- **Qué transmite:** calidez y ganas de arreglarlo todo. Consuela con ejemplos pequeños y cotidianos: «incluso Jersey cambia», «ahora venden sushi» (Steven.ogg 0:00-0:13) · ✅
+- **Cómo habla:** agudo (244 Hz), **muy expresivo** (17.9 semitonos) y **rápido** (3.29 palabras/s). A veces habla de sí mismo en tercera persona · ✅
+- **Manías:** se marea con los giros, le encanta cocinar, canta de repente, toca el ukulele · ✅
+
+### Garnet
+- **Cómo es:** la líder. Práctica y directa, pero **actúa por intuición**. Calmada casi siempre (eso le viene de Zafiro). Pone paz entre Perla y Amatista. Exige respeto y regaña si no se sigue una orden · [Personality](https://steven-universe.fandom.com/wiki/Garnet#Personality) ✅
+- **Quién es de verdad:** una **fusión** de Rubí y Zafiro, planeada desde antes del piloto. Pistas: la estrella doble de su cartela y las gemas roja y azul · ✅
+- **Cómo habla:** pausada, pocas palabras, **nunca pregunta**. Voz media (190 Hz), firme y sostenida; se suelta al cantar (25.0 semitonos) · ✅
+- **Su grieta:** cuando se separa (Rubí llora, Zafiro se enfría), en «Jail Break», «Hit the Diamond», «Made of Honor» · ✅ la ficha, ⚠️ no visto en vídeo.
+- **Qué transmite:** seguridad total. Es la que dice «por eso soy tan genial» sin sonar arrogante.
+
+### Amatista
+- **Cómo es:** divertida, ruidosa, «fuera de control» (Rebecca Sugar). Come y duerme sin necesitarlo, por gusto. Desordenada y acumuladora («Maximum Capacity»). Bromista, pero **nota lo que sienten los demás** (consuela a Steven en «An Indirect Kiss») · [Personality](https://steven-universe.fandom.com/wiki/Amethyst#Personality) ✅
+- **Su herida:** nació en el Kindergarten y se siente **inferior** a Perla y Garnet. Estalla en «On the Run» y en su obsesión con Jasper («Crack the Whip», «Steven vs. Amethyst», «Beta»). Lo cierra al fusionarse con Steven en **Cuarzo Ahumado** («Earthlings») · ✅
+- **Su grito, en latino:** «¡Nunca pedí ser lo que soy! ¡Nunca pedí ser creada!» (Amatista.ogg 0:00). Voz muy aguda (449 Hz) · ✅
+- **Alter ego:** **Purple Puma**, luchadora enmascarada, para soltar el estrés de recibir órdenes · ✅
+- **Guiño hispano:** habla español: «¡No, mi torta!» en «Monster Buddies» · [Trivia](https://steven-universe.fandom.com/wiki/Amethyst#Trivia) ✅
+
+### Perla
+- **Cómo es:** perfeccionista, ordenada hasta la obsesión, sabe «de un sinfín de temas». A la vez, **muy baja autoestima**: necesita aprobación; sin un líder se ve «inútil» · [Personality](https://steven-universe.fandom.com/wiki/Pearl#Personality) ✅
+- **Por qué:** en Homeworld las Perlas son **propiedad**, no Gemas con derechos. Golpea a Peridot para demostrar que no es un objeto («Back to the Barn») · ✅
+- **Su amor:** Rose Cuarzo (luego, Diamante Rosa). No correspondido: es el motor de «It's Over, Isn't It» · ✅
+- **Cuerpo:** de **bailarina**: de puntillas, piernas rectas, piruetas al pelear. Su lanza es en realidad una *glaive* · [Trivia](https://steven-universe.fandom.com/wiki/Pearl#Trivia) ✅
+- **Cómo habla:** aguda (263 Hz), muy expresiva (20.8 semitonos), **rápida** (3.0 palabras/s). Explica largo y un poco por encima de los humanos: «…inventan historias para sentir que forman parte de algo más grande» (Perla.ogg 0:00) · ✅
+- Es «la más propensa a llorar y cantar» después de Steven (lo dice Peridot, en broma) · ✅
+
+### Su cara en cada emoción (fotograma y minuto)
+
+| Emoción | Steven | Garnet | Amatista | Perla |
+|---|---|---|---|---|
+| **Alegría** | `GG` 1:20 abraza la caja de Cookie Cat · `TIO` 0:56-1:04 relajado, ojos entornados | `GG` 10:20 manos en la cadera · `STY` 2:42 sonrisa confiada | `GG` 4:00-4:10 comiendo feliz · `TIO` 0:32-0:40 apoyada en Garnet | ⚠️ no capturada |
+| **Rabia** | hoja n.º 142 (Steven rosa, «Volleyball») · ⚠️ sin minuto | `STY` 3:09-3:15 puñetazo en vuelo | ⚠️ sólo audio (Amatista.ogg) | `GG` 10:10 lanza en alto, determinada |
+| **Tristeza** | hoja n.º 123-124 («Storm in the Room») · ⚠️ sin minuto | ⚠️ no vista | ⚠️ no vista | `IOI` 2:10 **lágrima** en la mejilla · `IOI` 2:00 mira abajo con una rosa |
+| **Miedo** | `GG` 8:20 brazos abiertos, alarma | ⚠️ no vista | ⚠️ no vista | `GG` 2:20 manos junto a la cara, ojos muy abiertos |
+| **Vergüenza / frustración** | ⚠️ no vista | ⚠️ no vista | ⚠️ no vista | `GG` 4:30 se tapa la cara, exasperada |
+| **Seriedad / mando** | — | `TIO` 1:36 primer plano, boca firme · `GG` 2:40 brazos cruzados | — | `GG` 8:00 brazos cruzados, desaprueba |
+| **Asombro** | `STY` 0:54-0:57 **ojos de estrella** | — | — | — |
+
+Enlaces: `TIO` 1:36 · https://www.dailymotion.com/video/x5ejzz4 · `IOI` 2:10 · https://www.dailymotion.com/video/x4wic92 . ⚠️ De las 20 casillas que pide el encargo (5 emociones × 4 personajes) faltan 9, y 2 de Steven van sin minuto (fotogramas de la wiki). Se miraron 8 vídeos y no salen: hay que buscarlas en capítulos que no se vieron.
+
+### Dinámicas (para láminas en grupo)
+- **Garnet separa** a Perla y Amatista cuando discuten. Discuten fuerte en «Cry for Help» y «On the Run», pero se reconcilian por Steven · ✅
+- **Amatista hace reír a Steven**: comparten humor y comida basura. **Perla lo sobreprotege y lo corrige**; Steven la saca de su perfeccionismo · ✅
+- Buen trío para una lámina: Garnet en el centro, Perla explicando, Amatista haciendo la broma.
+
+### Las secundarias más queridas
+- **Lapis Lázuli** (394 dibujos, 2.ª): pasó unos 6000 años atrapada en un espejo. Desconfía de casi todos, sobre todo de Peridot al principio, y de sí misma por lo que hizo como Malaquita (fusión dañina con Jasper). Se abre con Steven, que la liberó y curó su gema. Miedo a la responsabilidad y a repetir relaciones dañinas · [Personality](https://steven-universe.fandom.com/wiki/Lapis_Lazuli#Personality) ✅
+- **Peridot** (355, 3.ª): empieza fría y leal a Homeworld. Varada en la Tierra se vuelve nerviosa, **risas exageradas y gestos enormes**. Sin sus «potenciadores» se vuelve infantil y paranoica, se encierra en el baño de Steven, y él la calma: ahí empieza su redención · [Personality](https://steven-universe.fandom.com/wiki/Peridot#Personality) ✅
+- **Connie Maheswaran**: estudiosa, tímida al principio, gran lectora. Aprende espada con Perla. Con Steven forma a **Stevonnie** · ⚠️ no se leyó su ficha entera.
+- **Greg Universe**: exmúsico de gira, relajado y cariñoso; vive en su furgoneta. Es el lado humano de Steven · ⚠️ no se leyó su ficha entera.
+
+## Punto 14 · Poses analizadas
+
+Todas vistas con `fotogramas.py` (no de memoria) o en las hojas. `GG` = [«Gem Glow»](https://archive.org/download/steven-universe-s-01-e-01-gem-glow/Steven%20Universe%20-%20S01E01%20-%20Gem%20Glow.mkv#t=90); añade `#t=<segundos>` para ir al minuto.
+
+### Steven
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | `GG` 0:50 | se echa atrás, brazos arriba, manos abiertas, protege la caja de rosquillas | reaccionar, sorpresa |
+| 2 | `GG` 1:20 | abraza la caja de Cookie Cat contra el pecho, sonrisa enorme | **celebrar** |
+| 3 | `GG` 1:30 | señala con el índice un símbolo en la pared | **presentar**, descubrir |
+| 4 | `GG` 3:20 | se abraza a sí mismo, mira de lado, hablando con Perla | **pensar**, preguntar |
+| 5 | `GG` 5:30 | brazo extendido hacia delante, decidido | **animar** a que le sigan |
+| 6 | `GG` 8:20 | brazos abiertos, cara de alarma, de espaldas al monstruo | advertir |
+| 7 | `GG` 9:30 | sostiene dos Cookie Cats, preocupado, ofreciendo | pedir ayuda, ofrecer |
+| 8 | `STY` 0:54-0:57 | ojos de estrella, boca abierta | admirar |
+| 9 | hoja n.º 145 | toca el bajo junto a Greg, llamas detrás (película) | **música** |
+| 10 | hoja n.º 46 | sentado en el techo del vagón rojo con Amatista, atardecer («On the Run») | acompañar, contar algo tranquilo |
+
+### Garnet
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | `GG` 2:40 | de pie, brazos cruzados, seria tras las gafas | vigilar, **autoridad** |
+| 2 | `GG` 6:00-6:10 | saca los guanteletes con un destello | prepararse |
+| 3 | `GG` 9:40-10:00 | dispara un rayo junto a Perla y Amatista | pelear en equipo |
+| 4 | `GG` 10:20 | en el centro, manos en la cadera, tras la victoria | **celebrar** |
+| 5 | `STY` 0:00 | sentada, tranquila, Steven al lado | **explicar** con calma |
+| 6 | `STY` 2:42-2:45 | de pie, **chasquea los dedos**, sonrisa confiada | **presentar**, seguridad |
+| 7 | `STY` 3:09-3:15 | puñetazo en vuelo contra Jasper | enfrentar (lo más parecido a **regañar**) |
+| 8 | `ANS` 8:56-9:12 | Rubí y Zafiro se dan la mano por primera vez | **animar**, unir |
+| 9 | `ANS` 11:04-11:20 | brillan y se funden: nace Garnet | transformación |
+| 10 | hoja n.º 140 | junto a Steven de traje, de noche («Together Forever») | acompañar |
+
+### Amatista
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | `GG` 4:00-4:10 | come un Cookie Cat, feliz, con el envoltorio | **celebrar**, disfrutar |
+| 2 | `GG` 5:40 | ofrece un Cookie Cat a Steven, encorvada y relajada | compartir |
+| 3 | `GG` 6:30 | señala mientras habla con Steven en la cocina | **explicar** |
+| 4 | `GG` 8:40-8:50 | corre por el acantilado con Garnet y Perla | **animar**, actuar en equipo |
+| 5 | `GG` 10:40 | cava en la arena junto a Steven, juguetona | jugar |
+| 6 | `GG` 10:50 | agachada junto a Steven en la playa | acompañar |
+| 7 | hoja n.º 5-7 | cuerpo entero, puño cerrado, sonrisa, látigo | **presentar** con actitud · ⚠️ no se sabe si el archivo es oficial |
+| 8 | hoja n.º 143 | señala al cielo con Steven al lado («What's Your Problem») | **presentar**, mostrar algo |
+
+### Perla
+| # | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| 1 | `GG` 2:20 | manos junto a la cara, ojos muy abiertos | miedo, sorpresa |
+| 2 | `GG` 3:30 | saca la lanza con círculos de luz en las manos | **presentar** con poder |
+| 3 | `GG` 4:30 | se tapa la cara con las manos | frustración (**pensar**, agobio) |
+| 4 | `GG` 7:10-7:40 | regaña a Steven de cerca por las normas de la casa | **regañar** |
+| 5 | `GG` 8:00 | brazos cruzados, mirada de desaprobación | vigilar |
+| 6 | `GG` 10:10 | lanza en alto, brillando, decidida | pelear, decidir |
+| 7 | hoja n.º 15 | de pie, **mano abierta** hacia un lado | **explicar** |
+| 8 | hoja n.º 41 | baila de noche, brazo en alto («Log Date 7 15 2») | canto, gracia |
+| 9 | `IOI` 2:00-2:10 | mira abajo con una rosa; luego la lágrima | tristeza |
+
+### Qué pose para qué
+
+| Para… | Steven | Garnet | Amatista | Perla |
+|---|---|---|---|---|
+| presentar | 3 | **6** (chasquido) | 7 u 8 | 2 |
+| explicar | 4 | 5 | 3 | **7** (mano abierta) |
+| celebrar | **2** | 4 | 1 | — |
+| regañar | 6 (advertir) | 7 (enfrentar) | — | **4** |
+| pensar | 4 | — | — | 3 |
+| animar | **5** | 8 | 4 | — |
+| cantar | 9 | — | — | 8 |
+
+⚠️ Faltan poses vistas de Amatista regañando y de Perla y Amatista celebrando.
+
+## Punto 15 · Vestuario y hex medidos
+
+Hex medidos con Pillow en las **fichas de producción** del punto 1 (zona plana de cada prenda, sin el negro de la línea ni el fondo). No son de fan art.
+
+| Personaje | Prenda | Hex | De qué archivo |
+|---|---|---|---|
+| **Steven** | camiseta salmón | `#FF5E6D` | [With Weapon3](https://static.wikia.nocookie.net/steven-universe/images/c/c2/Steven_Universe_-_With_Weapon3.png) |
+| | estrella amarilla del pecho | `#FFDE3F` | ídem |
+| | vaqueros azules con vuelta | `#1974A2` | ídem |
+| | escudo rosa | `#FA98C9` | ídem |
+| **Garnet** | piel magenta violácea | `#A53A84` | [Garnet With Rings](https://static.wikia.nocookie.net/steven-universe/images/2/27/Garnet_With_Rings.png) |
+| | pico del pecho | `#FF5EF2` | ídem |
+| | hombreras | `#CD1AAE` | ídem |
+| | mono azul marino casi negro | `#000035` | ídem |
+| | guanteletes rojo oscuro (estrella dorada en la palma) | `#B50535` | ídem |
+| **Perla** | piel crema pálida | `#F8F4E1` | [Current Pearl Request](https://static.wikia.nocookie.net/steven-universe/images/8/8c/Current_Pearl_Request.png) |
+| | top turquesa | `#8DDACD` | ídem |
+| | estrella del top | `#E0FF87` | ídem |
+| | lazo de la cintura | `#69F4E2` | ídem |
+| | falda-short tostada | `#F9D27D` | ídem |
+| **Amatista** | piel lavanda | `#B898CC` | [Amethyst CYM Outfit](https://static.wikia.nocookie.net/steven-universe/images/4/4b/Amethyst_CYM_Outfit.png) |
+| | top de tirantes negro carbón (y estrellas del short) | `#232229` | ídem |
+| | gema del pecho | `#CF67FE` | ídem |
+| | shorts vaqueros grises | `#657188` | ídem |
+| | pelo lila pálido hasta el suelo | `#DCD3EF` | ídem |
+
+✅ los cuatro (contrastados con el texto de «Appearance» de la wiki: «salmon-pink T-shirt with a gold star», «magenta skin tone», «deep violet cube-shaped afro»).
+
+**Lo icónico (lo que todos reconocen)** · ✅ repetido en Funko Pop y en las 3 hojas:
+- **Steven:** camiseta salmón con estrella, vaqueros con vuelta y **chanclas salmón**. Gema rosa en el ombligo. Pelo castaño oscuro rizado.
+- **Garnet:** **afro cúbico** violeta oscuro, **gafas de sol** (gafas-visor), mono azul marino, guanteletes rojos. **Tres ojos**: el derecho rojo rubí, el izquierdo azul zafiro y el del centro morado. Una gema en cada palma: la de Zafiro (derecha) con faceta triangular y la de Rubí (izquierda) con faceta cuadrada · [Appearance](https://steven-universe.fandom.com/wiki/Garnet#Appearance) ✅
+- **Perla:** top turquesa, falda-short tostada, botas rosa pálido, **nariz puntiaguda**, pelo corto salmón y la **perla en la frente**. Con la lanza.
+- **Amatista:** top negro, short vaquero con estrellas, pelo largo hasta el suelo, gema en el pecho. Con el látigo.
+
+**Por temporada o arco**
+- **Steven en la película (2019):** más alto, se le ve el cuello; **camisa celeste**, sigue con vaqueros y chanclas salmón · ✅ texto de la wiki; ⚠️ hex sin medir.
+- **Steven en *Future*:** **chaqueta rosa** (hojas n.º 126-132) · ⚠️ hex sin medir.
+- **Garnet, sus guanteletes cambian 4 veces:** los del debut, los de tras regenerarse, los de latón con pinchos y los de «Change Your Mind» y la película (galería de «Abilities» de la wiki) · ✅
+- **Garnet, primera forma** («The Answer»): pelo rizado casi todo azul claro con el lado izquierdo rosa fuerte; mono partido en dos · ✅ texto de la wiki.
+- **Perla:** diseño del debut y diseño final (hoja n.º 9 y 10: cambian pelo y proporciones); uniforme de Homeworld de la Era 1, túnica blanca larga · ⚠️ sin medir.
+- **Amatista:** traje **Purple Puma** (luchadora con máscara y capa) y un traje de fiesta · ⚠️ sin medir.
+
+**Etiquetas que usan las IA de imagen** (Danbooru, rasgos más repetidos): Perla `forehead_jewel, short_hair, pointy_nose, pale_skin, pink_hair`; Garnet `afro, colored_skin, purple_skin, sunglasses, third_eye, thick_lips, gloves`; Lapis `blue_skin, blue_hair, crop_top, liquid_wings, hydrokinesis`; Peridot `green_skin, blonde_hair, triangle-shaped_hair, face_shield` · [Danbooru](https://danbooru.donmai.us/related_tag?query=garnet_(steven_universe)) · ✅
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios, con su luz y su hora** (paletas medidas en el punto 4):
+
+| Sitio | Cómo es | Luz y hora | Dónde verlo |
+|---|---|---|---|
+| **Beach City** | pueblo costero de EE. UU. (en la costa de Delmarva): paseo de tablas, muelle, letrero «BEACH CITY» en la colina, faro en el acantilado | mañana nublada, difusa, fría (azul, verde, turquesa) | [color key oficial](https://static.wikia.nocookie.net/steven-universe/images/4/4f/Beach_City_Color_Key.jpg) 1280×720 ✅ · [mapa oficial](https://static.wikia.nocookie.net/steven-universe/images/2/24/SU-Beach_City_Map.jpg) 3626×2792 ✅ |
+| **La Casa Playa** | la casa de Steven, pegada al Templo | tarde cálida por la ventana | `GG` 3:30 · hoja n.º 141 (cocina, «Volleyball») |
+| **El Templo de Cristal** | montaña con forma de mujer; dentro, pasillos de cristales triangulares | tenue, con brillos de cristal | `GG` 2:00-2:50 · hojas n.º 13-14 (la Puerta) |
+| **El Big Donut** | la tienda de rosquillas de Sadie y Lars | cálida, de vitrina | `GG` 1:00-1:50 · hoja n.º 107 · [modelo 3D CC BY](https://sketchfab.com/3d-models/none-b44b20b741ce4dbba2339fec366cc3c9) |
+| **La playa** | arena, acantilado | atardecer: cielo crema, rosa y silueta verde oscura | `GG` 10:40-11:10 |
+| **Homeworld** | el planeta de las Gemas: arquitectura geométrica gigante, naves con forma de mano, tronos | artificial, muy saturada, sin cielo | hojas n.º 102, 112 y 135 ✅ |
+| **Naves gema** | pasillos verdes con paredes como raíces | **verde veneno** | `STY` 2:48-3:24 ✅ |
+| **El Kindergarten** | cantera árida con agujeros con forma de Gema | ocre y naranja | hoja n.º 36 («Back to the Kindergarten»: Steven y Amatista abrazan a Peridot entre bloques de piedra, luz naranja) ✅ visto |
+| **El granero** | campo abierto, silos (T5) | atardecer cálido | ⚠️ no está en las 3 hojas guardadas (la parte de imagen lo citaba de otra hoja de contacto que no se subió) |
+| **Little Homeworld** | el barrio de Gemas en la Tierra de *Future*, con carteles en Gem Glyph | día claro | hoja n.º 126-128 · [fotograma 1920×1080](https://static.wikia.nocookie.net/steven-universe/images/6/6a/Little_Homeschool_259.png) |
+| **La noche con aurora** | cielo verde y amarillo sobre el mar | noche mágica | hoja n.º 120 («Reunited») |
+| **El vagón rojo** | techo de un vagón de tren, al atardecer | puesta de sol rosa | hoja n.º 46 («On the Run») |
+
+**Fondos de pantalla** (de [Wallhaven](https://wallhaven.cc/), con tamaño y autor):
+
+| Tamaño | ♥ | Qué es | Autor u origen | Enlace |
+|---|---|---|---|---|
+| 1920×1080 | 38 | **oficial de Cartoon Network** | [cartoonnetwork.com/backgrounds](https://www.cartoonnetwork.com/backgrounds/) | https://w.wallhaven.cc/full/73/wallhaven-73zzov.jpg |
+| 1920×1080 | 35 | oficial de Cartoon Network | ídem | https://w.wallhaven.cc/full/83/wallhaven-83qlxk.jpg |
+| 1920×1080 | 27 | oficial de Cartoon Network | ídem | https://w.wallhaven.cc/full/ey/wallhaven-ey5jo8.jpg |
+| 4096×2291 | 31 | paisaje pintado | **@lulusketches** · [X](https://x.com/lulusketches/status/1246255713975861248) | https://w.wallhaven.cc/full/yq/wallhaven-yq8e7l.jpg |
+| 2560×1600 | 24 | ilustración | **onemegawatt** · [Tumblr](http://onemegawatt.tumblr.com/) | https://w.wallhaven.cc/full/6q/wallhaven-6q6ew6.png |
+| 1920×1080 | 39 | cruce de series de Cartoon Network | **hbrunatv** · [DeviantArt](https://www.deviantart.com/hbrunatv/art/VDF-02-Cartoon-Network-451673335) | https://w.wallhaven.cc/full/4y/wallhaven-4yqgjd.png |
+| 1920×1080 | 40 | fantasía | ⚠️ sin origen | https://w.wallhaven.cc/full/0p/wallhaven-0pqqjp.png |
+| 1920×1080 | 38 | isla con cascada, azul | ⚠️ sin origen | https://w.wallhaven.cc/full/4o/wallhaven-4ozzl7.png |
+| 2048×1154 | 33 | *Future* | subido por grazielless, ⚠️ sin origen | https://w.wallhaven.cc/full/dg/wallhaven-dgqv8l.jpg |
+| 2048×1153 | 27 | cielo y mar de colores | subido por grazielless, ⚠️ sin origen | https://w.wallhaven.cc/full/83/wallhaven-8318g1.jpg |
+
+Los de «sin origen» sólo como referencia de ambiente: no se sabe quién los pintó.
+
+**Para reconstruir en Blender:** el Big Donut ya está modelado (CC BY, Kekê). Texturas CC0 del punto 4 (Wood095, Ground054/080, Rock064).

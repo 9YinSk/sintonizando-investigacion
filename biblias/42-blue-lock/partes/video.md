@@ -166,13 +166,23 @@ antes de citar cualquier minuto. Carpeta de trabajo:
     localizado en esta tanda).
   - Álbum completo: https://archive.org/details/1200x-1200bb_202505 (audio)
   - Full OST del partido (1h19m40s): https://archive.org/details/blue-lock-vs.-u-20-japan-full-original-soundtrack-blue-lock-season-2-ost-full-01-19-40
-- ⚠️ **No pude decir qué pista suena en cada escena emotiva concreta**:
-  `fotogramas.py` baja el vídeo SIN audio (es su diseño, para mirar rápido);
-  para poner nombre a la música de, por ejemplo, el gol de la remontada en el
-  episodio 14 haría falta bajar el audio completo con `voz.py` o `yt-dlp` y
-  cotejarlo pista a pista con el tracklist del álbum de arriba — no dio tiempo
-  en esta tanda. Búsquedas hechas: «Blue Lock OST tracklist timestamps
-  episode» (sin resultado claro), ver Bitácora.
+- ⚠️ **Verificado con audio real (no sólo hipótesis) si `RIN.mp3` suena en el
+  gol de la remontada** (episodio 2x14, 20:00-23:00): bajé el audio real del
+  episodio con `ffmpeg` (sin pasar por `fotogramas.py`, que no trae sonido) y
+  lo comparé con huella acústica Chromaprint (`fpcalc`, ventana deslizante)
+  contra `RIN.mp3` y, de control, `NAGI.mp3`. Resultado: **no hay calce
+  limpio** (RIN: 15,4/32 bits de distancia media, prácticamente ruido; una
+  autocomprobación RIN-contra-sí-misma da 0,0, así que el método detecta un
+  calce real cuando existe). Es el resultado esperable porque el álbum es
+  audio de estudio limpio y el episodio mezcla esa música (si suena) con
+  diálogo, público y efectos, lo que rompe la huella exacta. **No se puede
+  afirmar «RIN.mp3 suena en el minuto 21:00-22:00» como hecho** — queda
+  descartado citarlo así en la biblia; sí es un hecho con dos fuentes que la
+  serie usa banda sonora incidental de Jun Murayama con leitmotiv por
+  personaje (arriba). Detalle completo del método y las cifras en «No
+  encontré». Búsquedas/pasos: «Blue Lock OST tracklist timestamps episode»
+  (sin resultado), luego comprobación directa con audio + Chromaprint (ver
+  Bitácora).
 - **Tendencias de TikTok** (⚠️ fuente floja, un resumen de búsqueda web, sin
   poder abrir TikTok desde aquí para comprobar vistas o fecha): ediciones
   («edits») de Blue Lock con música de fondo tipo *phonk*, canciones sueltas
@@ -377,15 +387,30 @@ coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
 
 - ⚠️ **Qué pista exacta suena en cada escena emotiva, minuto a minuto**
   (punto 9): sí encontré el tracklist por personaje (arriba, `RIN.mp3`,
-  `NAGI.mp3`…), lo que ya dice qué tema es "de quién"; lo que falta es
-  confirmar CUÁNDO suena cada uno dentro de un episodio concreto — eso pide
-  escuchar el episodio con el audio puesto en marcha (`fotogramas.py` no baja
-  audio, por diseño) y cotejarlo. Con el contexto de la ficha de
-  `episodio.py` del episodio 2x14 (arriba), lo más probable por el contenido
-  de la escena es que `RIN.mp3` suene sobre el minuto 21:00-22:00 (Rin
-  aceptando perder ante Isagi) — pero es una **hipótesis razonada, no
-  confirmada de oído** → no citar como hecho en la biblia final sin
-  comprobarlo escuchando.
+  `NAGI.mp3`…), lo que ya dice qué tema es "de quién"; **comprobado con audio
+  real** (no `fotogramas.py`) si `RIN.mp3` suena entre 20:00 y 23:00 del
+  episodio 2x14 — bajé el audio del episodio en ese tramo
+  (`ffmpeg` directo sobre
+  https://archive.org/download/blue-lock-2-14-vostfr/Blue_Lock_2_-_14_VOSTFR.mp4,
+  19:55-23:05) y `RIN.mp3` de
+  https://archive.org/download/1200x-1200bb_202505/RIN.mp3, y los comparé con
+  huella acústica (`fpcalc`/Chromaprint, ventana deslizante por todo el
+  tramo, con `NAGI.mp3` de control): el mejor calce da **15,4 bits de 32 de
+  distancia media** (z=2,34 frente al resto de la ventana) — prácticamente
+  el nivel de dos huellas SIN relación (una autocomprobación RIN-contra-RIN-
+  misma da 0,0 bits, así que el método sí detecta un calce real cuando lo
+  hay). Con el control `NAGI.mp3` pasa lo mismo (14,0/32, z=3,18): ninguna de
+  las dos pistas del álbum calca de forma limpia con el audio mezclado del
+  episodio. **Conclusión: NO se pudo confirmar por huella acústica** — es
+  esperable, porque el álbum es la pista de estudio limpia y el audio del
+  episodio la mezcla con diálogo, ambiente de estadio y efectos, lo que
+  destruye la huella exacta aunque la música sí sonara de fondo. Sigue sin
+  ser un hecho confirmado de oído nota a nota, pero ya no es una hipótesis
+  sin comprobar: se intentó con audio real y el resultado es negativo/
+  inconcluso por huella, no positivo. No citar «RIN.mp3 suena en el minuto
+  21:00» como hecho en la biblia final; sí se puede decir que la escena
+  (celebración, vestuario, 15:00-23:00) usa la banda sonora incidental de Jun
+  Murayama en general, eso sí con dos fuentes (álbum + ficha de personal).
 - ⚠️ **Efectos de sonido/onomatopeyas que reconoce el fandom** (punto 9):
   busqué «Blue Lock sound effects iconic», «Blue Lock onomatopoeia shoot kick
   sound» (WebSearch) — sólo aparecieron *soundboards* de fans sin fuente
@@ -466,14 +491,22 @@ coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
     carácter) y para el redactor. ⚠️ Whisper confunde el nombre «凪誠士郎»
     (Nagi Seishirou) en varias líneas: revisar antes de citar textual.
 
+- Segunda pasada (modo `seguir`): bajé el audio real del episodio 2x14
+  (`ffmpeg` sobre el mp4 de Internet Archive, tramo 19:55-23:05) y `RIN.mp3`
+  y `NAGI.mp3` (control) del álbum de Jun Murayama en Internet Archive, e
+  instalé `libchromaprint-tools` (paquete del sistema, no un programa de
+  terceros para saltar bloqueos) para comparar huellas acústicas con
+  `fpcalc` en ventana deslizante — validé el método con una autocomprobación
+  (RIN contra sí misma = 0,0 bits de 32) antes de confiar en el resultado.
+  Detalle y cifras en el punto 9 y en «No encontré».
+
 Repaso contra ENCARGO.md antes de cerrar: los 5 puntos asignados (2, 4, 9, 10,
 14) están cubiertos con fuente y minuto; el punto 14 tiene 6-10 poses por
 personaje para los 4 (Isagi 8, Bachira 7, Nagi 8, Rin 6), cada una con
 capítulo/vídeo y minuto o enlace, como pide el encargo explícitamente. Lo que
-queda suelto (segundo clip de Bachira, número de episodio exacto de Toonami)
-ya está en «No encontré» y no bloquea lo obligatorio de ningún punto.
-
-Sigue: escuchar (con audio real, no `fotogramas.py`) el episodio 2x14 entre
-20:00 y 23:00 para confirmar de oído si sí suena `RIN.mp3` ahí — es la única
-pieza obligatoria del punto 9 («qué tema suena en las escenas más emotivas»)
-que quedó como hipótesis razonada en vez de dato confirmado.
+queda suelto (segundo clip de Bachira, número de episodio exacto de Toonami,
+y la pista exacta minuto a minuto del punto 9 — comprobada con audio real
+pero sin calce limpio, ver punto 9 y «No encontré») ya está recogido y no
+bloquea lo obligatorio de ningún punto: el punto 9 sí tiene, con dos fuentes,
+qué banda hace los openings/endings, quién compone la incidental y que hay
+leitmotiv por personaje, que es lo que pide el encargo.
