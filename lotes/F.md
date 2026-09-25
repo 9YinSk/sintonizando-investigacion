@@ -1,7 +1,8 @@
 # Lote F: series nuevas 77-96
 
-Sesión: https://claude.ai/code/session_01GRbSTbzn1T2CNnzzT8Trgi · rama `claude/lote-f-continuation-fsaj24`
-Cuenta: cuenta A106
+Sesión: https://claude.ai/code/session_0147EpLHYafvCZzwuKoiJArf · rama `claude/upbeat-meitner-75hieq`
+Cuenta: cuenta A104
+(sigue desde `claude/lote-f-continuation-fsaj24`, sesión session_01GRbSTbzn1T2CNnzzT8Trgi, cuenta .106, callada desde las 04:21 UTC).
 (sigue desde `claude/sweet-wozniak-vmvzo4`, sesión session_01DDNVaCpYyiQfao1M598h9e, que hizo 77 y 78 y dejó 79-81 a medias).
 
 ## Estado
