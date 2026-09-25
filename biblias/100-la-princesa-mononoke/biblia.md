@@ -84,6 +84,29 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 - Tomos de manga y globos de cómic propios: no hay (no viene de manga).
 - Arte de videojuegos oficial: no hay videojuego con licencia de Ghibli sobre esta película (a diferencia de *Ni no Kuni*, que Ghibli sólo animó). Existe *Soulframe* (Digital Extremes), inspirado libremente pero sin licencia, y un remix fan de 8-bit de CineFix: no son mercancía oficial.
 
+## 2. Fotogramas de escenas icónicas
+
+Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Internet Archive (sin descargar los 2 GB completos), mirados uno a uno. Base: `https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=<segundo>`. Película de 133 min, vista entera a intervalos por el investigador de vídeo (más de 165 fotogramas distintos revisados). ✅ salvo que se diga.
+
+| Min | Escena | Enlace |
+|---|---|---|
+| 0:04:20 | Ashitaka tensando el arco sobre un tronco, defendiendo la aldea del jabalí maldito Nago | [t=260](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=260) |
+| 0:03:00-0:06:40 | La maldición ataca la aldea: Nago cubierto de zarcillos negros, Ashitaka recibe la marca en el brazo | [t=180](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=180) |
+| 0:26:10 | San carga a Ashitaka herido a la espalda por el bosque profundo, con una mariposa en el hombro | [t=1570](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=1570) |
+| 0:53:00 | San con la cara pintada de guerra, gritando, primer plano de furia tras atacar Irontown | [t=3180](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=3180) |
+| 1:09:55 | Ashitaka tumbado en el musgo revisando su brazo maldito, bosque del dios ciervo | [t=4195](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4195) |
+| 1:10:25 | San gruñendo como loba junto a Moro, colmillos fuera, defendiendo a Ashitaka | [t=4225](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4225) |
+| 1:12:05 | Okkoto (jabalí blanco gigante) y San de pie junto a Ashitaka desmayado, con Yakul al lado | [t=4325](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4325) |
+| 1:14:40 | Puerta y murallas de Irontown (Tatara-ba) de noche | [t=4480](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4480) |
+| 1:21:00 | Moro con los colmillos al descubierto, gruñendo a la luz de la luna | [t=4860](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) |
+| 1:43:45 | San atrapada entre los tentáculos oscuros de la maldición, batalla final de los jabalíes | [t=6225](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6225) |
+| 1:54:00 | El Nightwalker (forma nocturna del Shishigami), silueta gigante traslúcida azul con kodamas alrededor | [t=6840](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6840) |
+| 1:56:00 | Ashitaka y San se abrazan por detrás, escena final de despedida | [t=6960](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) |
+| 2:07:00 | El bosque renace tras la muerte del dios ciervo: colinas verdes con troncos quemados todavía en pie | [t=7620](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7620) |
+
+- ⚠️ **No aislado por presupuesto de red**: el fotograma exacto del Shishigami de día caminando sobre el agua («cada paso hace brotar y marchitar flores»); sólo están confirmados su encuentro con San/Okkoto (1:12:05) y su forma nocturna (1:54:00).
+- Copia de trabajo en 480p usada para localizar escenas antes de sacar el fotograma en HD: `archive.org/details/so-3f-cb-vwqm-0-d`.
+
 ## 3. Fan art y 3D con licencia
 
 **Fan art mejor valorado (Safebooru). Sólo referencia de pose o estilo, nunca para pegar. Siempre con autor.**
@@ -109,29 +132,6 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 - ⚠️ «Small Shrine in the forest» (DuckbillStudio) es **CC Attribution-NonCommercial**: sólo uso no comercial, avisar antes de usarlo.
 - ❌ No encontré modelo de la fragua/horno tatara de Irontown con licencia libre (ni Sketchfab ni Poly Haven, que sólo tiene materiales).
 - Modelo 3D de San hecho por fans (licencia libre, miniatura 1920×1080): https://media.sketchfab.com/models/9f8755e5444b40c2a2f35f2ce07a8fcc/ (de `texto.json`) ✅.
-
-## 2. Fotogramas de escenas icónicas
-
-Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Internet Archive (sin descargar los 2 GB completos), mirados uno a uno. Base: `https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=<segundo>`. Película de 133 min, vista entera a intervalos por el investigador de vídeo (más de 165 fotogramas distintos revisados). ✅ salvo que se diga.
-
-| Min | Escena | Enlace |
-|---|---|---|
-| 0:04:20 | Ashitaka tensando el arco sobre un tronco, defendiendo la aldea del jabalí maldito Nago | [t=260](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=260) |
-| 0:03:00-0:06:40 | La maldición ataca la aldea: Nago cubierto de zarcillos negros, Ashitaka recibe la marca en el brazo | [t=180](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=180) |
-| 0:26:10 | San carga a Ashitaka herido a la espalda por el bosque profundo, con una mariposa en el hombro | [t=1570](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=1570) |
-| 0:53:00 | San con la cara pintada de guerra, gritando, primer plano de furia tras atacar Irontown | [t=3180](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=3180) |
-| 1:09:55 | Ashitaka tumbado en el musgo revisando su brazo maldito, bosque del dios ciervo | [t=4195](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4195) |
-| 1:10:25 | San gruñendo como loba junto a Moro, colmillos fuera, defendiendo a Ashitaka | [t=4225](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4225) |
-| 1:12:05 | Okkoto (jabalí blanco gigante) y San de pie junto a Ashitaka desmayado, con Yakul al lado | [t=4325](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4325) |
-| 1:14:40 | Puerta y murallas de Irontown (Tatara-ba) de noche | [t=4480](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4480) |
-| 1:21:00 | Moro con los colmillos al descubierto, gruñendo a la luz de la luna | [t=4860](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) |
-| 1:43:45 | San atrapada entre los tentáculos oscuros de la maldición, batalla final de los jabalíes | [t=6225](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6225) |
-| 1:54:00 | El Nightwalker (forma nocturna del Shishigami), silueta gigante traslúcida azul con kodamas alrededor | [t=6840](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6840) |
-| 1:56:00 | Ashitaka y San se abrazan por detrás, escena final de despedida | [t=6960](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) |
-| 2:07:00 | El bosque renace tras la muerte del dios ciervo: colinas verdes con troncos quemados todavía en pie | [t=7620](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7620) |
-
-- ⚠️ **No aislado por presupuesto de red**: el fotograma exacto del Shishigami de día caminando sobre el agua («cada paso hace brotar y marchitar flores»); sólo están confirmados su encuentro con San/Okkoto (1:12:05) y su forma nocturna (1:54:00).
-- Copia de trabajo en 480p usada para localizar escenas antes de sacar el fotograma en HD: `archive.org/details/so-3f-cb-vwqm-0-d`.
 
 ## 4. Fondos y sitios: luz, paleta y texturas reales
 
@@ -221,6 +221,8 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 
 - Todo medido con `herramientas/voz.py` sobre `.ogg` oficiales de Doblaje Wiki ✅.
 
+## 9. Música y sonido
+
 
 
 - **Compositor**: Joe Hisaishi, banda tocada por la Tokyo City Philharmonic Orchestra dirigida por Hiroshi Kumagai ✅ (Ghibli Fandom + MusicBrainz).
@@ -305,6 +307,8 @@ El elk rojo (アカシシ) que monta Ashitaka desde el inicio, ya aparecía en *
 
 ### La dinámica San/Ashitaka
 Fotograma del abrazo final (min 1:56:00, `t=6960`), de espaldas en la oscuridad, la marca de la maldición ya casi borrada — imagen que mejor resume su vínculo sin ser escena de romance convencional, ninguno se besa ni promete quedarse con el otro ✅. Citada como «Cooldown Hug» en la página Heartwarming de Tropedia (ver punto 21).
+
+## 14. Poses analizadas
 
 
 

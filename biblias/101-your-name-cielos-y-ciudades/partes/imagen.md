@@ -313,9 +313,4 @@ reparte CoMix Wave o Toho en su web) accesibles desde aquí — ver «No encontr
     fondo de las hojas de modelo, cuando `estilo.py` (que promedia toda la imagen) no aislaba bien la
     tela del fondo crema de la hoja.
 
-Sigue: falta completar `imagen.json` con las referencias medidas (portada real AniList 21519, póster
-latino, hojas de modelo de vestuario, wallpaper, modelos Sketchfab, texturas ambientCG, fan art
-Safebooru/Openverse ya citados arriba) y la tabla de «Cumplimiento del encargo» de esta parte contra los
-puntos 1, 3, 15, 16, 19 y 23 (las 2 hojas de contacto, `personajes_01.jpg` y `vestuario_fondos_01.jpg`,
-ya están listas en `hojas/`, ambas <3 MB).
 
