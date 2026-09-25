@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://archive.org/details/jojo-no-kimyou-na-bouken-op-1",
+    "fuente": "Internet Archive",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Opening 1 de Phantom Blood (2012), \"Sono Chi no Sadame\" — vídeo completo, 1:31",
+    "para_que": "Punto 2 y 14: fotograma 0:40 (mano de Jonathan alzada hacia la luz) como pose de 'animar'; punto 9 música",
+    "licencia": "Subido por usuario en Internet Archive; material con derechos de Warner Bros. Japan / David Production, usar sólo como referencia de estudio, no para redistribuir"
+  },
+  {
+    "url": "https://archive.org/details/jojo-no-kimyou-na-bouken-op-2",
+    "fuente": "Internet Archive",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Opening 2 de Battle Tendency (2012-13), \"BLOODY STREAM\" — vídeo completo, 1:31",
+    "para_que": "Punto 9 y 2: pendiente de mirar fotograma a fotograma en otra pasada",
+    "licencia": "Subido por usuario en Internet Archive; material con derechos de Warner Bros. Japan / David Production, usar sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3j25ta",
+    "fuente": "Dailymotion (manganimex)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Ending \"Roundabout\" (Ending 1 y 2 sincronizados) del anime de 2012, 3:04",
+    "para_que": "Punto 2, 4 y 9: mural azteca con línea roja (0:00-0:48), créditos de la canción (0:56), pose de Joseph (2:40)",
+    "licencia": "Subido por usuario en Dailymotion; material con derechos de Warner Bros. Japan / David Production y de Yes (canción), usar sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8x1bgw",
+    "fuente": "Dailymotion (Level Up)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler/gameplay de JoJo's Bizarre Adventure: All-Star Battle R (identificado por el HUD \"SECRET FACTOR +2\"), 4:11",
+    "para_que": "Punto 2, 10 y 14: pose de Jotaro (1:20), texto \"THE WORLD!\" de Dio (0:40), escenas del desierto de Steel Ball Run (0:00-0:20)",
+    "licencia": "Vídeo promocional de Bandai Namco, re-subido por el canal Level Up (LevelUp.com); usar sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5mk7ho",
+    "fuente": "Dailymotion",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Avance oficial de TV del episodio 33 de Diamond is Unbreakable (\"7月15日(木) その3\"), 0:15",
+    "para_que": "Punto 2, 4 y 14: pose de Josuke con aura violeta (0:00-0:01), cielo dorado de Morioh confirmado en vídeo",
+    "licencia": "Avance de TV de Warner Bros. Japan Anime / David Production, re-subido por usuario; usar sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x547qml",
+    "fuente": "Dailymotion",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Avance oficial de TV del episodio 36 de Diamond is Unbreakable (\"アナザーワン バイツァ・ダスト その2\"), 0:15",
+    "para_que": "Punto 2, 4 y 14: primer plano de Killer Queen con el detonador de Bites the Dust (0:04)",
+    "licencia": "Avance de TV de Warner Bros. Japan Anime / David Production, re-subido por usuario; usar sólo como referencia"
+  },
+  {
+    "url": "https://jojowiki.com/Roundabout",
+    "fuente": "JoJo Wiki (API)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la canción ending \"Roundabout\" (Yes): BPM, tonalidad, uso en Phantom Blood",
+    "para_que": "Punto 9: confirmar datos de la canción junto al vídeo mirado",
+    "licencia": "Texto de wiki de fans, CC-BY-SA (Fandom); sólo como fuente de datos, no imagen"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tZRpLrZgr6w",
+    "fuente": "YouTube (Netflix Latinoamérica)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler oficial de Steel Ball Run en YouTube (2:10); no se pudo descargar (yt-dlp se colgó)",
+    "para_que": "Punto 10: queda pendiente de minutos internos en otra pasada",
+    "licencia": "Vídeo oficial de Netflix Latinoamérica; usar sólo como referencia y enlace"
+  }
+]

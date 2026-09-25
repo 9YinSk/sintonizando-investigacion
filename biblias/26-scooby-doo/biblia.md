@@ -63,6 +63,49 @@ fecha: 2026-09-24
 >   «**Ponte en onda**» = *Be Cool, Scooby-Doo!* (2015-2018).
 >   «**¿Quién crees?**» = *Scooby-Doo and Guess Who?* (2019-2021).
 >   «**Película 2002**» y «**Película 2004**» = las de imagen real.
+> - **Segunda pasada (25-sep-2026), con la red abierta y en equipo**:
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor.
+>   Esta vez **sí se vieron vídeos en movimiento**: opening y cierre de
+>   1969 (Internet Archive y Dailymotion), tráiler oficial de 2002 y 3
+>   escenas (1969, 2002 y 1998) con `fotogramas.py`, mirando las hojas.
+>   YouTube pidió iniciar sesión: se usó **Dailymotion** e **Internet
+>   Archive** (plan B de AYUDANTE.md). Se oyó un fandub latino con
+>   `voz.py`. Se leyó **Wikipedia en inglés entera por su API** (antes daba
+>   429). Se añadieron los puntos **18 a 25** del encargo, la tabla
+>   «Cumplimiento del encargo» y la guía de IA de texto.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**
+- Música de 1969: «Ted Nichols ⚠️ (sólo la búsqueda)» → **✅ crédito en
+  pantalla** («Music Director TED NICHOLS», cierre de *¿Dónde estás?*,
+  [Dailymotion x3vi48h](https://www.dailymotion.com/video/x3vi48h), 0:09-0:52).
+- Película 2002: compositor **David Newman** ✅ en la tarjeta final del
+  tráiler ([1:44 del tráiler](https://www.dailymotion.com/video/x88nuzj?t=104)) y en MusicBrainz.
+- §12 decía «No vi las imágenes en movimiento» → **6 vídeos vistos
+  fotograma a fotograma** (§12.3).
+- Cierre de 1969: «de memoria» → confirmado mirando el vídeo: **es el
+  mismo metraje del opening** con los créditos encima.
+- Tinte azul de noche: una sola fuente (C-15) → **✅ dos fuentes**
+  (medido en el opening de 1969, §5.2).
+- Algas verdes de «Una pista para Scooby-Doo»: sólo hoja de la wiki →
+  **vistas en el episodio** ([3:12](https://www.dailymotion.com/video/x962eqg?t=192)).
+- *Dead by Daylight*: una fuente → **✅** (Shacknews + Scoobypedia).
+- Furgoneta: color «aprox., no medido» → **medida de noche** (`#383D66`,
+  `#375922`, `#632F1C`); de día sigue ⚠️.
+
+**Añadido**
+- §2.5: tres escenas vistas con minuto y enlace `&t=`.
+- §8: la cara en cada emoción, con fotograma.
+- §15: poses nuevas con minuto (pareja, grupo huyendo, explicar con libro).
+- §18: guía para IA **de texto** (frases reales por emoción).
+- Secciones nuevas de los puntos **18-25**: técnica y cómo replicarla,
+  texturas 2D, colaboraciones, gustos, por qué la aman, fan dubs,
+  obras parecidas, mundo e historia.
+- Tabla «Cumplimiento del encargo» y bitácora §21.7.
+- `referencias.json`: de 39 a más de 100 referencias.
+
+**⚠️**: había **53**; ver el recuento final en la bitácora §21.7.
 
 ---
 
@@ -312,6 +355,56 @@ Latino** (con su minuto). Los vídeos:
 > «**el caso está resuelto**» (00:21:02). Para cerrar con humor, «**vamos
 > a la fuente de sodas**».
 
+### 2.5 Escenas vistas en vídeo (segunda pasada, con `&t=`)
+
+Vistas con `fotogramas.py` y miradas fotograma a fotograma. YouTube
+pidió iniciar sesión: son copias de **Dailymotion** ✅.
+
+**A) 1969, «Una pista para Scooby-Doo» (ep. 2), parte 2 de 4**
+([Dailymotion x962eqg](https://www.dailymotion.com/video/x962eqg), TV-rip, 4:58)
+
+| Minuto | Qué se ve | Sirve para |
+|---|---|---|
+| [0:40](https://www.dailymotion.com/video/x962eqg?t=40) | Scooby llama a una puerta con el puño en alto | Anunciar, pedir ayuda |
+| [0:44](https://www.dailymotion.com/video/x962eqg?t=44) | Shaggy y Vilma con **las dos manos en la cintura**, seguros | Presentar en pareja |
+| [1:20](https://www.dailymotion.com/video/x962eqg?t=80) | Frasco con etiqueta pintada «**EAR OF A NEWT**» | Cartela a mano de la época |
+| [1:36](https://www.dailymotion.com/video/x962eqg?t=96) | Shaggy y Vilma **leen juntos** un libro grande, «WITCHCRAFT MADE EASY» | Investigar en pareja |
+| [1:44](https://www.dailymotion.com/video/x962eqg?t=104) | Shaggy con **las dos manos arriba**, boca abierta; Scooby en sus brazos | Susto |
+| [2:00](https://www.dailymotion.com/video/x962eqg?t=120) | Una anciana encapuchada acusa a Vilma con el dedo; remueve un caldero | Villana: acusar |
+| [2:36](https://www.dailymotion.com/video/x962eqg?t=156) | Scooby **prueba la sopa** del caldero, cara de asco | Gag de comida |
+| [3:12](https://www.dailymotion.com/video/x962eqg?t=192) | En la playa de noche, Scooby sale **cubierto de algas verdes** | **La pista** del episodio |
+| [4:36](https://www.dailymotion.com/video/x962eqg?t=276) | **Vilma con un libro «BIOLOGY»** examina las algas que trae Shaggy | **Explicar con pruebas**: la pose de #dudas |
+| [4:52](https://www.dailymotion.com/video/x962eqg?t=292) | Fred y Daphne caminan de espaldas por la playa | Fondo |
+
+Verde de las algas en la playa (Pillow): `#5C8F66` ✅.
+
+**B) Película 2002, «Damsel in Distress»**
+([Dailymotion x3z918e](https://www.dailymotion.com/video/x3z918e), clip oficial Fandango MOVIECLIPS, 3:07)
+
+| Minuto | Qué se ve |
+|---|---|
+| [0:00](https://www.dailymotion.com/video/x3z918e?t=0) | Un monstruo agarra a Daphne; ella sale volando por el aire |
+| [0:15](https://www.dailymotion.com/video/x3z918e?t=15) | Demonios rojos y verdes rodean al grupo |
+| [1:20](https://www.dailymotion.com/video/x3z918e?t=80) | Shaggy acorralado contra raíces: miedo y luego alivio |
+| [1:35](https://www.dailymotion.com/video/x3z918e?t=95) | Shaggy noquea a un monstruo con gas verde (gag) |
+| [2:15](https://www.dailymotion.com/video/x3z918e?t=135) | Daphne cae entre trampas hasta un pozo: la «damisela en apuros» |
+
+**C) 1998, *Scooby-Doo en la Isla del Zombi*, «The Ghost Is Here»**
+([Dailymotion x3zqdm6](https://www.dailymotion.com/video/x3zqdm6), clip oficial, 1:16)
+
+| Minuto | Qué se ve |
+|---|---|
+| [0:00](https://www.dailymotion.com/video/x3zqdm6?t=0) | Cielo rojo fuego sobre un pantano; la Máquina del Misterio entre humo |
+| [0:05](https://www.dailymotion.com/video/x3zqdm6?t=5) | Sesión de espiritismo: velas, médium con turbante, bola de cristal |
+| [0:09](https://www.dailymotion.com/video/x3zqdm6?t=9) | **Los cuatro humanos huyen en fila**, brazos arriba, gritando |
+| [0:18](https://www.dailymotion.com/video/x3zqdm6?t=18) | Cementerio con niebla azul; Shaggy grita ante un espejo |
+| [0:27](https://www.dailymotion.com/video/x3zqdm6?t=27) | Una mano de esqueleto agarra el tobillo de Daphne |
+| [0:39](https://www.dailymotion.com/video/x3zqdm6?t=39) | Graban con una cámara: visor con «**REC**» y marco en pantalla |
+
+Saturación medida con `estilo.py`: **38-64 %** aquí frente a **65-89 %**
+en el opening de 1969. La Isla del Zombi es **más oscura y apagada** ✅.
+Para #dudas conviene la paleta viva de 1969.
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
@@ -531,7 +624,22 @@ exacto: «"Título" by Autor (Sketchfab), licensed under CC BY 4.0».
   que sombrear a los personajes como en 3D**.
 - **De noche, los personajes se tiñen de azul**: la camiseta de Shaggy
   pasa de verde `#689860` a **verde azulado** `#489080` en la escena de
-  la playa (C-15, medido ✅).
+  la playa (C-15, medido ✅). **Segunda fuente** (opening de 1969,
+  [archive.org](https://archive.org/details/scooby-doo_20210808), 0:22-0:33,
+  Pillow): camisa blanca de Fred de noche `#53555B`, jersey naranja de
+  Vilma `#5E92AE`, camisa verde de Shaggy `#556172`. Los tres se van al
+  azul gris ✅.
+- **Daphne de noche** (opening, 0:21, la mano fantasma en la puerta):
+  vestido **azul marino oscuro**, pañuelo verde apagado, pelo naranja
+  quemado ✅ (visto).
+- **Playa de noche** (ep. 2, [3:12](https://www.dailymotion.com/video/x962eqg?t=192)):
+  cielo cobalto liso, agua más clara con franja de espuma; `estilo.py`
+  da `#023B67`, `#0F234C`, `#083E6C` ✅.
+- **Templo de la isla, película 2002** (tráiler y «Damsel»): luz de
+  antorchas, cálida y terrosa, `#332416`, `#582D1E`, `#86341B` ✅. Con esa
+  luz, en el grupo en fila del [tráiler, 0:28](https://www.dailymotion.com/video/x88nuzj?t=28):
+  Fred `#0E2553`, Daphne `#5B345A`, Vilma `#8D2F19`, Shaggy `#32542F`.
+  **La paleta por personaje se mantiene** aunque sean actores.
 - **El monstruo o la pista brillan**: el fantasma del capitán Cutler y
   las algas son **verde fosforito con halo** (C-15, C-47 ✅).
 
@@ -569,6 +677,8 @@ canal). «C-10» es un fotograma de luz neutra; «C-15» es de noche.
 | Cuarto de la vela (F-24) | `#695B26`, `#79753A`, `#43141B` | F-24 |
 | Malt Shop (F-8) | `#526E63`, `#779072`, `#7DD0D3` | F-8 |
 | Furgoneta azul / verde / flores | `#59A7C9` / `#6DBE45` / `#F28C28` | ⚠️ aprox. (no medí: las imágenes de la furgoneta eran de noche) |
+| Furgoneta **de noche** (medida): azul / verde / flor | `#383D66` / `#375922` / `#632F1C` | ✅ Pillow sobre [Mystery_Machine.png](https://static.wikia.nocookie.net/scoobydoo/images/0/08/Mystery_Machine.png) (1920×1080). La flor de 6 pétalos sale **7 veces** (2 puertas, rueda de repuesto, 4 tapacubos). De día sigue ⚠️ |
+| Algas de la pista (playa de noche) | `#5C8F66` | ✅ ep. 2, 3:12-4:24 |
 | Corcho del tablero | `#C79A5E` | ⚠️ referencia real, no de la serie |
 
 > [!note] Shaggy lleva pantalón granate
@@ -912,6 +1022,38 @@ es muy conocido, pero conviene mirar el fotograma).
 | **Blue Falcon** | Superhéroe de Hanna-Barbera; 33 cruces ✅ | |
 | **El profesor Pericles** | Loro villano de *Misterios S.A.*, el culpable más repetido (4) ✅ | Sólo si se usa la serie de 2010 |
 
+### La cara en cada emoción (vista en vídeo, segunda pasada)
+
+Del **tráiler oficial de 2002** ([Dailymotion x88nuzj](https://www.dailymotion.com/video/x88nuzj),
+79 fotogramas, uno por plano) y de la serie de 1969. Es imagen real con
+Scooby en CGI: sirve para la **expresión**, no para el dibujo.
+
+| Personaje | Emoción | Minuto | Cómo es la cara |
+|---|---|---|---|
+| Scooby | **Miedo** | [0:15](https://www.dailymotion.com/video/x88nuzj?t=15) | Orejas rectas arriba, ojos redondos muy abiertos, boca a medio grito, a contraluz ✅ |
+| Shaggy + Scooby | **Miedo juntos** | [0:32](https://www.dailymotion.com/video/x88nuzj?t=32) | Cejas arriba, ojos enormes, dientes; Shaggy tuerce la boca hacia abajo, Scooby orejas atrás ✅ |
+| Shaggy | **Susto** (1969) | [1:44](https://www.dailymotion.com/video/x962eqg?t=104) | Las dos manos arriba, boca abierta, Scooby en brazos ✅ |
+| Daphne | **Alegría** | [1:14](https://www.dailymotion.com/video/x88nuzj?t=74) | Sonrisa abierta, cejas relajadas, mira a cámara ✅ |
+| Shaggy | **Alegría** | [1:41](https://www.dailymotion.com/video/x88nuzj?t=101) | Sonrisa de boca cerrada, ojos entornados de gusto ✅ |
+| Fred | **Incomodidad** (lo más cerca de vergüenza) | [1:41](https://www.dailymotion.com/video/x88nuzj?t=101) | Ceja levantada, mirada de reojo, boca torcida ⚠️ |
+| Vilma | **Sorpresa incómoda** | [1:14](https://www.dailymotion.com/video/x88nuzj?t=74) | Boca abierta, ceja fruncida, mira de lado con las gafas ⚠️ |
+| Todos | **Rabia y tristeza** | — | **No salen** en tráiler ni clips cortos ⚠️: el tono de la franquicia es «miedo de risa». La tristeza real está en «Through the Curtain» (*Misterios S.A.*, ver punto 21), sin fotograma |
+
+**Dinámicas** (para láminas en grupo):
+- **Shaggy + Scooby** siempre juntos, en el miedo y en la risa: pegados
+  en 6 de los 79 planos del tráiler (0:26, 0:32, 0:53, 1:00, 1:21, 1:30) ✅.
+- **Vilma discute con Fred** por el mérito de los planes (película 2002,
+  00:05:47) ✅.
+- **Fred y Daphne**: la pareja que el fandom «shippea»; se besan en
+  *Daphne & Velma* ✅ ([Scoobypedia, Fred Jones](https://scoobydoo.fandom.com/wiki/Fred_Jones)).
+- **Quién hace reír**: Shaggy rompe la tensión; Scooby es su cómplice.
+  **Quién regaña**: Vilma, con datos.
+
+**Arcos breves**: Daphne pasa de «la peligrosa Daphne» (el apodo lo
+crearon Ruby y Spears porque tropezaba y arruinaba las trampas ✅) a
+karateka en 2002. Vilma supera su **miedo a los payasos** en *¿Qué hay de
+nuevo?* ✅ ([Scoobypedia, Velma Dinkley](https://scoobydoo.fandom.com/wiki/Velma_Dinkley)).
+
 ---
 
 ## 9 · ¿Quién es el más querido?
@@ -1083,7 +1225,10 @@ Shaggy ✅ (Doblaje Wiki y la
 |---|---|---|---|
 | **«Scooby-Doo, Where Are You!»** | Tema de 1969, de **David Mook y Ben Raleigh**. Lo canta **Larry Marks** (T1) y **George A. Robertson Jr.** (T2) | Pop de los 60, alegre con susto | ✅ Wikipedia y Animation Wiki |
 | **Las canciones de persecución** (*chase songs*) | De **Danny Janssen y Austin Roberts**, cantadas por **Roberts** (T2, La La Productions) | Pop chicle mientras huyen del monstruo | ✅ Wikipedia y Scoobypedia |
-| **Música de fondo** | Compositor **Ted Nichols** (1969-1970) | Órgano, cuerdas de miedo ⚠️ | ✅ (la búsqueda) |
+| **Música de fondo** | Compositor **Ted Nichols** (1969-1970) | Órgano, cuerdas de miedo | ✅ la búsqueda **y el crédito en pantalla** «Music Director TED NICHOLS» ([cierre de 1969](https://www.dailymotion.com/video/x3vi48h), 0:09-0:52) |
+| **El cierre de 1969** | **No hay ending propio**: es el mismo metraje del opening (la casa encantada, Scooby en la bañera de burbujas) con los créditos encima; acaba con el óvalo giratorio «Hanna-Barbera Production» | El mismo tema | ✅ visto en [Dailymotion x3vi48h](https://www.dailymotion.com/video/x3vi48h) + Wikipedia |
+| **Película 2002** | Música de **David Newman** | Orquesta de aventura | ✅ tarjeta final del [tráiler, 1:44](https://www.dailymotion.com/video/x88nuzj?t=104) + MusicBrainz |
+| **Sonido de miedo de 1998** | En *Isla del Zombi*: grillos y viento, **coro grave tipo órgano** cuando sale el fantasma ([0:07](https://www.dailymotion.com/video/x3zqdm6?t=7)) y **golpe de tambor** en cada susto (0:27, 0:42) | Terror serio | ⚠️ oído en el clip, sin ficha |
 | **Intro latina** | En el doblaje de 1969 **la canción no se dobló**: sonaba el instrumental de **Ted Nichols** (primeros episodios) o el tema de Mook y Raleigh (instrumental, o con la voz de Austin Roberts en la T2), y **Shaggy (Arturo Mercado) gritaba «¡Scooby-Doo, ¿dónde estás?!»** sobre el logo en inglés; Daphne (María Santander) tenía otro inserto. Desde 2011, Cartoon Network, Boomerang y Tooncast pasan una versión recortada del instrumental de Nichols. Las **canciones de persecución de la T2** («Love the World», «Recipe for My Love», «I Can Make You Happy», «Seven Days a Week») **quedaron mudas** en el doblaje por un error de mezcla ([intro en YouTube](https://www.youtube.com/watch?v=6Jj8sIcCsuU)) | Pop instrumental | ⚠️ sólo Doblaje Wiki (fuente detallada). La letra «Scooby Dooby Doo, ¿dónde estás? Tenemos mucho trabajo por hacer» es **una traducción de fans**, no el doblaje |
 | **«What's New, Scooby-Doo?»** | Tema de la serie de 2002, por **Simple Plan** | Pop punk | ✅ (letras.com y la búsqueda) |
 | **«Scooby Doo Pa Pa»** | De **DJ Kass**, dominicano criado en el Bronx. En 2018 se llamó «**el nuevo baile de moda**»; baile en fila en TikTok e Instagram; sigue saliendo en tendencias | Fiesta latina | ✅ [Wikipedia](https://en.wikipedia.org/wiki/DJ_Kass) y [TikTok (sonido)](https://www.tiktok.com/music/Scooby-Doo-Pa-Pa-6529585632031806464) |
@@ -1099,8 +1244,8 @@ Shaggy ✅ (Doblaje Wiki y la
 
 Duración y fecha sacadas con `yt-dlp`. Los **minutos** salen de los
 **subtítulos automáticos en español** de cada vídeo (fiables en el
-tiempo; la palabra exacta puede fallar). No vi las imágenes en
-movimiento.
+tiempo; la palabra exacta puede fallar). En la primera pasada no vi las
+imágenes en movimiento; en la segunda **sí**: ver §12.3.
 
 ### 12.1 Oficiales en latino (canal WB Kids Latino)
 
@@ -1127,7 +1272,27 @@ movimiento.
 | «Scooby Doo Pa Pa - DJ Kass (TikTok Dance Challenge)» | [YouTube](https://www.youtube.com/watch?v=3mcnibRbGTw) | La tendencia de baile |
 | TikTok | [#scoobydoo](https://www.tiktok.com/tag/scoobydoo), [«Veamos quién está detrás de la máscara»](https://www.tiktok.com/discover/scooby-doo-veamos-quien-esta-detras-de-la-mascara-scooby) | El desenmascarado como meme en latino |
 
-**Tendencias de TikTok** ⚠️ (resumen de búsqueda, sin ver los vídeos):
+### 12.3 Los seis vídeos mirados de verdad (segunda pasada)
+
+Con `fotogramas.py`; hojas miradas con Read y fotogramas sueltos en
+grande. YouTube pidió iniciar sesión, así que son Internet Archive y
+Dailymotion ✅.
+
+| Vídeo | Enlace | Duración | Lo más útil |
+|---|---|---|---|
+| **Opening 1969** | [archive.org](https://archive.org/details/scooby-doo_20210808) | 1:02 | Colores de noche medidos (0:21-0:33), §5.2 |
+| **Cierre 1969** (créditos) | [Dailymotion x3vi48h](https://www.dailymotion.com/video/x3vi48h) | 1:03 | Créditos: Hanna y Barbera, historia de **Ken Spears y Joe Ruby**, voces de **Nicole Jaffe, Casey Kasem, Don Messick, Frank Welker, John Stephenson, Stefanianna Christopherson**, música de **Ted Nichols**, sonido de Richard Olson ✅ |
+| **Tráiler película 2002** | [Dailymotion x88nuzj](https://www.dailymotion.com/video/x88nuzj) | 1:45 | Caras de cada emoción (§8); grupo en fila con antorchas ([0:28](https://www.dailymotion.com/video/x88nuzj?t=28)); tarjeta final con Raja Gosnell, James Gunn y David Newman ([1:44](https://www.dailymotion.com/video/x88nuzj?t=104)) |
+| **Escena 1969** «Una pista para Scooby-Doo» | [Dailymotion x962eqg](https://www.dailymotion.com/video/x962eqg) | 4:58 | Vilma con el libro «BIOLOGY» ([4:36](https://www.dailymotion.com/video/x962eqg?t=276)), §2.5 |
+| **Escena 2002** «Damsel in Distress» | [Dailymotion x3z918e](https://www.dailymotion.com/video/x3z918e) | 3:07 | Daphne en acción, gag de Shaggy ([1:35](https://www.dailymotion.com/video/x3z918e?t=95)) |
+| **Escena 1998** «The Ghost Is Here» | [Dailymotion x3zqdm6](https://www.dailymotion.com/video/x3zqdm6) | 1:16 | Grupo huyendo ([0:09](https://www.dailymotion.com/video/x3zqdm6?t=9)), visor «REC» ([0:39](https://www.dailymotion.com/video/x3zqdm6?t=39)) |
+
+Además, el investigador de voz miró el clip de créditos de 2002 (el
+concurso de comer picante, [Dailymotion x409bjf](https://www.dailymotion.com/video/x409bjf), 1:38): comedia
+física, sin rabia ni tristeza.
+
+**Tendencias de TikTok** ⚠️ (resumen de búsqueda, sin ver los vídeos;
+en la segunda pasada `yt-dlp` no devolvió vídeos sueltos de TikTok):
 el baile de «**Scooby Doo Pa Pa**» (vuelve cada año; en 2025, con
 **gorilas hechos con IA**), el sonido «**dooby scooby doo**», y el cruce
 **Shaggy con Billy Loomis** (*Scream*) en Halloween. Y siempre, el meme
@@ -1150,7 +1315,7 @@ Sucks**», entre otras ✅ (página de KYM leída).
 | **LEGO Dimensions** (pack de Scooby-Doo) | 2015 | Shaggy con la voz de **Arturo Mercado Jr.** en latino ⚠️ | Doblaje Wiki |
 | **MultiVersus** | 2022 y 2024 | **Vilma junta pruebas**; con el medidor lleno **resuelve el misterio** y llega **la Máquina del Misterio** a llevarse al rival (antes llegaba la policía y decía que el rival era «el viejo Jenkins»; lo cambiaron en el parche 1.02 tras las quejas). **Shaggy** juega con los poderes del meme Ultra Instinct y lanza sándwiches | ✅ PC Gamer, GameRevolution, GameSpot, CBR |
 | **Fortnite** (Capítulo 6, Temporada 4) | 2025 | Lote «**Mystery Inc.**» con el pico «**Velma's Investigation Kit**» (una **lupa** inspirada en la furgoneta) | ✅ Scoobypedia (API) |
-| **Dead by Daylight** | 2026 | Colección de aspectos de Scooby-Doo anunciada en el 10.º aniversario; fecha sin concretar | ⚠️ una fuente (Shacknews) |
+| **Dead by Daylight** | 2026 | Colección de Scooby-Doo anunciada en el 10.º aniversario; Dwight Fairfield con disfraz de Scooby; fecha sin concretar | ✅ Shacknews y [Scoobypedia](https://scoobydoo.fandom.com/wiki/Dead_by_Daylight) |
 
 **Lo que se saca para la lámina**: en todos los juegos **la pista es un
 objeto que se junta** y, con todas, **el misterio se resuelve**. No hay
@@ -1227,7 +1392,9 @@ idea** (juntar pistas hasta resolver), no el panel.
 ## 15 · Poses analizadas por personaje
 
 Los números **C-** y **G-** son imágenes de las hojas que **vi**; lo
-demás es subtítulo con minuto (la postura, de memoria ⚠️).
+demás es subtítulo con minuto (la postura, de memoria ⚠️). En la segunda
+pasada se añadieron poses **vistas en vídeo** con enlace `&t=` (filas
+marcadas «vídeo» y la tabla «De grupo y en pareja»).
 
 ### Vilma
 
@@ -1243,6 +1410,8 @@ demás es subtítulo con minuto (la postura, de memoria ⚠️).
 | 8 | Película 2002, 00:05:11 | «Yo puedo responder a eso. **Miren**» y enseña el truco | **Explicar** |
 | 9 | Vídeo *Computadoras*, 00:01:21 | «Oigan, amantes de los misterios, habla Vilma» (presenta su programa) | **Presentar** |
 | 10 | Película 2004, 01:00:32 | «Resolvíamos misterios por amor a ellos» | **Animar** |
+| 11 | vídeo, 1969 ep. 2, [4:36](https://www.dailymotion.com/video/x962eqg?t=276) | **Sostiene un libro «BIOLOGY»** y examina las algas que le trae Shaggy | **Explicar con pruebas** ✅ |
+| 12 | vídeo, 1969 ep. 2, [1:36](https://www.dailymotion.com/video/x962eqg?t=96) | Lee un libro grande con Shaggy, apoyado entre los dos | **Investigar** ✅ |
 
 ### Shaggy
 
@@ -1258,6 +1427,9 @@ demás es subtítulo con minuto (la postura, de memoria ⚠️).
 | 8 | Película 2004, 00:21:29 | «Eso **no son pistas**, Scoob» | **Regañar** con cariño |
 | 9 | Película 2004, 00:22:12 | «¡Haz **el baile de la pista**!» | **Celebrar** |
 | 10 | Cel 1stDibs | Corriendo con Scooby | Huida |
+| 11 | vídeo, 1969 ep. 2, [1:44](https://www.dailymotion.com/video/x962eqg?t=104) | **Dos manos arriba**, boca abierta, Scooby en brazos | **Susto** ✅ |
+| 12 | vídeo, 2002, [1:20](https://www.dailymotion.com/video/x3z918e?t=80) | Acorralado contra la pared: miedo y luego risa de alivio | Miedo → alivio ✅ |
+| 13 | Fortnite 2025 (render oficial) | Señala con una mano, la otra en la cadera | **Presentar** con desparpajo ✅ |
 
 ### Scooby-Doo
 
@@ -1271,6 +1443,9 @@ demás es subtítulo con minuto (la postura, de memoria ⚠️).
 | 6 | 1978, 00:21:02 | «¡**Scooby-Dooby-Doo**!» | **Celebrar** (cierre) |
 | 7 | Película 2004, 00:21:25 | Trae **un cepillo de váter** como «pista» | **La duda tonta** |
 | 8 | Película 2004, 00:22:09 | «¡Encontré **una pista**!» | **Celebrar** |
+| 9 | vídeo, 1969 ep. 2, [0:40](https://www.dailymotion.com/video/x962eqg?t=40) | **Llama a una puerta** con el puño en alto | **Anunciar**, pedir ayuda ✅ |
+| 10 | vídeo, 1969 ep. 2, [2:36](https://www.dailymotion.com/video/x962eqg?t=156) | Prueba la sopa con una cuchara, cara de asco | Humor ✅ |
+| 11 | vídeo, 2002, [0:15](https://www.dailymotion.com/video/x88nuzj?t=15) | Orejas rectas, ojos redondos, a contraluz | **Miedo** ✅ |
 
 ### Fred
 
@@ -1295,13 +1470,25 @@ demás es subtítulo con minuto (la postura, de memoria ⚠️).
 | 4 | **C-2** («Mystery Mask Mix-Up») | **Secuestrada** en un coche | «La peligrosa Daphne» |
 | 5 | 1978, 00:05:18 | «**Jeepers**, ¿vieron eso?» | Señalar |
 | 6 | 1978, 00:20:08 | **Explica** su parte del truco | Explicar |
+| 7 | vídeo, 2002, [0:00](https://www.dailymotion.com/video/x3z918e?t=0) | Sale **volando por el aire** agarrada por un monstruo | Acción ✅ |
+| 8 | vídeo, 2002, [1:14](https://www.dailymotion.com/video/x88nuzj?t=74) | Sonrisa abierta, mira a cámara | **Presentar**, alegría ✅ |
+
+### De grupo y en pareja (vídeo, segunda pasada)
+
+| Imagen o escena | Qué hacen | Sirve para |
+|---|---|---|
+| 1969 ep. 2, [0:44](https://www.dailymotion.com/video/x962eqg?t=44) | Shaggy y Vilma, **las dos manos en la cintura** | **Presentar en pareja** ✅ |
+| 1998, [0:09](https://www.dailymotion.com/video/x3zqdm6?t=9) | Los cuatro humanos **huyen en fila**, brazos arriba | **Sigue abierta** con humor ✅ |
+| 2002, [0:32](https://www.dailymotion.com/video/x88nuzj?t=32) | Shaggy y Scooby, **miedo juntos**, pegados | **Preguntar** con miedo ✅ |
+| 2002, [0:28](https://www.dailymotion.com/video/x88nuzj?t=28) | El grupo en fila con antorchas | Grupo presentando ✅ |
+| 1969 ep. 2, [4:52](https://www.dailymotion.com/video/x962eqg?t=292) | Fred y Daphne caminan de espaldas por la playa | Fondo ✅ |
 
 ### Qué pose para cada función del canal
 
 | Función | Personaje y pose |
 |---|---|
 | **Presentar** el canal | Vilma con las manos a la espalda (C-10, G-4) o Fred con la mano en el bolsillo (G-4) |
-| **Explicar** (cómo se usa) | Vilma señalando la ficha: «Yo puedo responder a eso. Miren» (2002, 00:05:11) |
+| **Explicar** (cómo se usa) | Vilma señalando la ficha: «Yo puedo responder a eso. Miren» (2002, 00:05:11), o **Vilma con el libro «BIOLOGY»** ([4:36](https://www.dailymotion.com/video/x962eqg?t=276)) |
 | **Preguntar** («pregunta sin miedo») | **Shaggy con la pista en las manos** (C-15) o Daphne en el sofá (G-4) |
 | **Pensar** | Vilma con la mano en la cadera (C-15) |
 | **Sigue abierta** | Vilma a gatas buscando las gafas (G-100) o Fred «¡Separémonos!» |
@@ -1332,6 +1519,18 @@ en §5.3.
   00:06:11 ✅).
 - **Cómics de DC** (G-4 ✅): la ropa de 1969 con color más vivo.
 - **Disfraces**: en la serie se disfrazan a menudo (C-22 ✅).
+- **La tela** (segunda pasada): los cuellos de tortuga llevan **canalé
+  grueso** en cuello, puños y bajo, liso en el cuerpo (cosplay de Vilma
+  en MegaCon 2014, [foto CC BY-NC-ND](https://live.staticflickr.com/3791/13323339174_dd2853781a_b.jpg)
+  ✅). La falda plisada tiene pliegues con volumen real.
+- **Fortnite 2025**: el pantalón de Shaggy tiene **textura de pana
+  vertical**; en 1969 era liso ([render 2048×2048](https://static.wikia.nocookie.net/fortnite/images/b/b7/Shaggy_Rogers_%28Featured%29_-_Outfit_-_Fortnite.png) ✅).
+- **Película 2002, con luz de antorcha** (medido): Fred `#0E2553`,
+  Daphne `#5B345A`, Vilma `#8D2F19`, Shaggy `#32542F` (§5.2). Cambia la
+  luz, **no** el color de cada uno.
+- **Qué lee el fandom como «Vilma»**: basta jersey naranja, falda y gafas
+  cuadradas; en un cosplay infantil los calcetines son naranjas y se
+  reconoce igual ([foto CC BY-NC](https://live.staticflickr.com/6051/6301174573_94570daa14_b.jpg) ✅).
 
 ---
 

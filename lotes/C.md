@@ -24,13 +24,17 @@ recolectados) pendientes.
   querido: Bakugo (1.º en Jump desde la 2.ª encuesta); para este canal pesa
   Aizawa. Cuadro de diálogo propio: el cuaderno de Deku («Análisis de
   héroes para el futuro», No. 13), no una burbuja.
-- **27 Cyberpunk Edgerunners: los 4 investigadores terminaron sin pendientes
-  obligatorios** (imagen, vídeo, texto y voz, esta última con 2.ª fuente
-  para 9 actores secundarios del doblaje vía aniSearch/Anime-Planet).
-  Redactor (Opus, repaso) en marcha.
-- 28 JoJo's Bizarre Adventure: repaso, 4 investigadores (Sonnet) en marcha.
-- 26, 29, 30: en cola, se lanzan según se libera hueco (máx. 5 agentes
-  vivos).
+- **27 Cyberpunk Edgerunners: COMPLETA y subida (repaso).** 2651 líneas,
+  tabla ✅31 ⚠️7 ❌0, 106 webs, 440 min, 69 hex, 231 referencias, 3 hojas.
+  Más querido: Rebecca (la añadió Trigger; favorita del guionista Rafał
+  Jaki). Cuadro de diálogo propio: el subtítulo del juego sin caja, nombre
+  en coral `#FE6962` y texto en cian `#59E6F0` (Rajdhani).
+- 28 JoJo's Bizarre Adventure: repaso, imagen/vídeo/texto terminados sin
+  pendientes obligatorios (imagen midió de verdad los hex de vestuario de
+  9 personajes; vídeo corrigió la gorra de Jotaro a negra con insignia
+  dorada, no blanca); voz en marcha.
+- **26 Scooby-Doo: redactor (Opus, repaso) en marcha.**
+- 29, 30: en cola, se lanzan según se libera hueco (máx. 5 agentes vivos).
 
 ## Avisos para el dueño (esta sesión)
 
@@ -49,6 +53,11 @@ recolectados) pendientes.
 - 25 My Hero Academia: contradicción sin decidir — 3DJuegos dice que Gina
   Sánchez dirigió el doblaje de la película 4; en Doblaje Wiki sólo
   aparece dirigiendo la serie.
+- 27 Cyberpunk Edgerunners: la lámina actual de #a-que-juegas que le gustó
+  al dueño no está en el repositorio — pásala para no repetir personaje ni
+  objeto al hacer la nueva. Quedan ⚠️ sin resolver: fotogramas sólo en
+  360p (habría que verlos en Netflix a 1080p) y las frases en latino de
+  §10.4 sólo confirmadas por subtítulo automático, no oídas.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
