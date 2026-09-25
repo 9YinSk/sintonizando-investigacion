@@ -940,3 +940,56 @@ No hay *databook* oficial de Shrek en las partes (se buscó) ⚠️. Todo sale d
 
 **Vocabulario propio:** ogro, pantano, capas, Muy Muy Lejano, Duloc, Dronkeys, el beso de amor verdadero, «Había una vez…», «final feliz», Príncipe Encantador (en la 1, Príncipe Azul).
 
+## 3 conceptos de lámina
+
+Tres ideas distintas: un **libro**, un **letrero** y un **periódico**, en tres sitios distintos (pantano al atardecer, entrada del pantano, palacio de noche) y con tres personajes al frente (Shrek con Burro, Burro solo, el Gato). Los textos del canal son los reales del inventario. Las frases de los personajes son **propuestas en su voz**, no citas; las citas reales están en el punto 17.2.
+
+### Concepto A · #📖・textos — «La página del cuento» ⭐ recomendado
+
+- **Por qué este.** Cada película empieza leyendo un libro en voz alta (0:58). El canal es de **guiones para practicar**, y la escena más famosa de Shrek (la cebolla) es un diálogo para dos voces. Es el que mejor junta la serie y el oficio del servidor.
+- **El sitio real:** el pantano de Shrek **al atardecer**, junto a la puerta de la letrina con su letrero «Home Sweet Home» (tráiler, 1:28). Paleta `#A07950`, `#E89F38`, `#705E4F`, con árboles en silueta `#232323`. Referencia: [Shrek_wolf_swamp.jpg](https://static.wikia.nocookie.net/shrek/images/b/b5/Shrek_wolf_swamp.jpg) y H1-45.
+- **El objeto real (Blender):** **el libro de cuentos abierto**, tapa de cuero gastado (Leather037) y páginas de pergamino con grano (Paper001). Las páginas se curvan hacia el lomo y **la tinta sigue la curva** (regla 1). Capitular iluminada en dorado y rojo, como la del fotograma de 0:58.
+- **Los personajes:**
+  - **Shrek**, sentado en un tocón, sujeta el libro abierto hacia el lector con las dos manos; brazos enteros a la vista (regla 7). Cara de maestro paciente, a media sonrisa: pose de «explicar» (43:54) con la ropa y la escala de H1-24.
+  - **Burro**, pegado a su hombro, **demasiado cerca** (su gesto cuando quiere atención), boca abierta a punto de hablar: pose de 52:59 y H3-1.
+- **Cómo hablan:** no hay globo. **El texto es la página del libro**, en **Bouwsma Uncial** color sepia, con capitular grande. El título va en la tapa, en la letra **«Shrek»** de Kevin Wilson, verde con borde oscuro.
+- **Dónde va cada texto:**
+  - **Tapa o cabecera de página:** «Textos».
+  - **Página izquierda, con capitular:** «Había una vez guiones para practicar: monólogos, diálogos, escenas y narraciones.»
+  - **Página derecha, arriba:** «Un hilo por guion.»
+  - **Página derecha, abajo:** «Di si se puede usar libre o hay que pedir permiso.»
+  - **Shrek (pie de página, en su voz, propuesta):** «Los guiones son como las cebollas. Tienen capas.»
+  - **Burro (un papelito metido entre las páginas, propuesta):** «Pregúntame, pregúntame. Yo hago la otra voz.»
+  - **Etiquetas:** nueve **cintas de marcapáginas** de tela que cuelgan del lomo, cada una con su nombre: Monólogo, Diálogo, Escena de anime, Comercial, Narración, Original, Libre para usar, Pide crédito, Para dos voces.
+- **Que no quede plano:** contraluz de atardecer que **atraviesa las orejas de Shrek** (el SSS del punto 18); **musgo colgante** desenfocado delante (Moss002); barro brillante en el suelo; la letrina desenfocada detrás. Burro corta el borde del cuadro y da profundidad.
+- **Lámina 2 si se satura:** el libro abierto por otra página, con las nueve etiquetas explicadas una por línea (qué es un monólogo, qué es «Pide crédito»…).
+- **Choque:** #textos también lo propone Death Note (18). No bloquea.
+
+### Concepto B · #😂・memes — «El letrero del pantano»
+
+- **El sitio real:** la entrada del pantano de día, sombra verde bajo los árboles (2:20: `#242D23`, `#303B2D`, acento `#A8B23A`), cerca de madera vieja (Wood095).
+- **El objeto real (Blender):** **un letrero de tabla clavado en un poste**, pintado a mano con **rojo goteante** y la cara de Shrek, como el «BEWARE — OGRE» de la [captura oficial de Steam](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983890/ss_566e139d1b62a989c1434dee30932bf5df3b619b.1920x1080.jpg). Pintura con relieve y goterones; vetas y clavos reales. Debajo, **una flecha de madera** que señala hacia fuera.
+- **El personaje:** **Burro**, el más querido en la lista hispana y el rey de los memes en español. Cuerpo entero, sonrisa enorme, **una pata delantera apoyada en el poste** (regla 7) y la otra señalando el letrero: H3-1 con el gesto de «animar» de 52:59. Al fondo, desenfocado, Shrek con el ceño fruncido en la puerta de la cabaña ((DM) 8:24): el chiste de siempre, Burro invadiendo su pantano.
+- **Cómo habla:** el letrero es el cuadro. Letra **Butcherman** roja goteante. **Butcherman no trae ¿**: ninguna frase empieza con pregunta.
+- **Dónde va cada texto:**
+  - **Letrero, arriba:** «Memes».
+  - **Letrero, abajo:** «El meme, sin más.»
+  - **Flecha de madera:** «Si lo doblas, a fandub-de-memes.» ⚠️ **Confirmar que ese canal existe**: no está en el inventario del 23-sep.
+  - **Burro (tablilla pequeña colgada del poste, propuesta):** «Agarré el mínimo de confianza y aquí ando.» (guiño al meme hispano del punto 12).
+- **Que no quede plano:** la flecha en primer plano, girada hacia la cámara; un charco de lodo que refleja el letrero; luz filtrada entre las hojas con manchas de sol sobre Burro; Shrek pequeño y borroso detrás.
+
+### Concepto C · #🍿・noticias-series — «El *Far Far Away Times*»
+
+- **El sitio real:** el palacio de Muy Muy Lejano **de noche, en fiesta**, con faroles: `#19140C`, `#523A26` y dorado `#9E662F` (*Shrek 2*, 1:21:43). Alfombra y estandartes rojos `#992D29` (H2-65).
+- **El objeto real (Blender):** **el periódico-pergamino con dos rodillos de madera**, desenrollado sobre una mesa del palacio, como el [*Far Far Away Times*](https://static.wikia.nocookie.net/shrek/images/1/15/Bandicam_2015-03-14_18-47-25-339.jpg). El papel se enrolla solo en los extremos.
+- **El personaje:** **el Gato con Botas**, el que cuenta historias. De pie sobre la mesa, **una bota sobre el rodillo** (regla 7), la otra pata con la **espada tocando el titular** como puntero: pose de esgrima de H3-5 y reverencia de 37:27. Cara de galán que presume.
+- **Cómo habla:** es un periódico. Cabecera en **UnifrakturMaguntia**; titular en mayúsculas gruesas de tabloide (no hay letra libre identificada para el titular: usar la cabecera o una serif gruesa del sistema ⚠️); cuerpo en columnas.
+- **Dónde va cada texto:**
+  - **Cabecera:** «Noticias de series».
+  - **Titular:** «Estrenos, temporadas y doblajes.»
+  - **Columna:** «Series y cine.»
+  - **Recuadro abajo, con una flecha:** «Para comentar, abre un hilo.»
+  - **El Gato (nota firmada al pie, propuesta):** «Palabra de caballero, señor.»
+- **Que no quede plano:** faroles dorados como luces puntuales; la capa del Gato delante del papel; el rodillo en primer plano desenfocado; el salón y la fiesta detrás con profundidad de campo.
+- **No poner en la lámina fija** la noticia de Obregón y *Shrek 5*: caduca y es delicada. Sirve para un evento o un aviso aparte.
+

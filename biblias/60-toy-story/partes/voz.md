@@ -684,3 +684,63 @@ expresión de uso diario, «Andy Tira A Woody» como formato de TikTok, «¿Ya l
 - ⚠️ Estudio de doblaje y director exactos de Toy Story 2, 4 y 5 (tabla del punto 8): la ficha de
   Doblaje Wiki de esas 3 páginas no trae esos campos en el infobox como sí trae TS1 y TS3 — se
   dejó la celda vacía en vez de adivinar.
+
+
+## Bitácora de búsqueda
+
+**Herramientas del proyecto**
+- `herramientas/recolectar.py` (ya corrido antes de empezar): `partes/datos-voz.md`.
+- API de Doblaje Wiki (`action=parse&prop=wikitext`) sobre 5 páginas: Toy Story, Toy Story 2, 3,
+  4 y 5 — reparto completo, «Sobre el doblaje»/«Sobre el reparto», curiosidades de adaptación.
+- API de Pixar Fandom (`action=query&prop=revisions`) sobre 16 páginas: Woody, Buzz Lightyear,
+  Jessie, Rex, Hamm, Mr. Potato Head, Slinky Dog, Bo Peep, Sid, Lotso, Forky, Bullseye,
+  Buttercup, Gabby Gabby — personalidad, trivia, relaciones, secciones «Toy Story 5».
+- `herramientas/voz.py` sobre 5 muestras oficiales de Doblaje Wiki (.ogg/.mp3): Woody TS1, Woody
+  TS4, Buzz TS1, Jessie TS4, Rex TS1 — frase textual + tono medido.
+- `herramientas/fotogramas.py` sobre 2 clips de Dailymotion (YouTube bloqueado en este servidor,
+  confirmado también en esta pasada): escena del incinerador (TS3, doblaje latino) y tráiler
+  oficial doblado de TS5. `video.mp4` borrado tras sacar las hojas.
+- `arctic-shift.photon-reddit.com` sobre r/toystory: búsquedas «cry», «when she loved me»,
+  «underrated», más las ya traídas por `recolectar.py` («favorite character», «best scene»,
+  «unpopular opinion», «iconic»).
+
+**Buscador web** (español salvo donde se indica; ~10 de las ~50 búsquedas del cupo)
+- «Toy Story 5 2026 estreno taquilla crítica recepción» → Infobae (×2), El Tiempo Monclova,
+  Espinof — cifras de taquilla y RT.
+- «encuesta oficial Disney Pixar personaje favorito Toy Story fans votación» → sin encuesta
+  oficial encontrada, confirma el ⚠️.
+- «ranking personajes Toy Story favoritos fans lista mejor valorado» (inglés en los resultados) →
+  ranker.com, screenrant.com, entoin.com.
+- «Carlos Segundo actor doblaje Woody fallecimiento año» → confirmó que Carlos Segundo sigue
+  vivo (no falleció, se descartó una hipótesis); reveló en cambio la muerte reciente de Carlos
+  del Campo (Slinky).
+- «Carlos Segundo reacciona muerte Carlos del Campo Slinky Woody mensaje» → El Horizonte, Info7,
+  UnoTV, Infobae, Sipse, Tribuna, KCH FM, Diario.mx — cita textual de Carlos Segundo.
+- «fandub Toy Story español latino cover Yo soy tu amigo fiel YouTube TikTok» → títulos de
+  YouTube/TikTok (vistas no verificables, YouTube bloqueado).
+- «Toy Story 3 incinerator scene holding hands minute timestamp analysis» (inglés) → PopMatters,
+  descripción detallada de la secuencia (sin minuto exacto sobre el metraje completo).
+- «"Sid Phillips" Toy Story 3 garbage man cameo easter egg» (inglés) → SlashFilm, confirma el
+  cameo de basurero.
+- «Bo Peep Toy Story 4 reinvención crítica personaje feminista reseña» → El Español, Hipertextual,
+  Tomatazos, Milenio, Slate — debate crítico real.
+- «Forky crisis existencial Toy Story 4 análisis por qué encantó» → BioBioChile, KQED, Syfy,
+  Medium/Wisecrack, La Máquina Medio.
+
+**Fuentes que fallaron** (con lo intentado)
+- YouTube (`yt-dlp`, dentro de `fotogramas.py`): confirma el aviso del encargo — pide iniciar
+  sesión desde este servidor. Se usó Dailymotion (Plan B de `AYUDANTE.md`) para los 2 clips de
+  fotogramas, con éxito ambas veces.
+- `arctic-shift.photon-reddit.com`: los parámetros `q=` e `incinerator`/`Andy%20giving`/
+  `ending%20cried` no devolvieron resultados (la API exige `query=`, no `q=`, y algunas
+  combinaciones de palabras no tuvieron hilos); se corrigió el parámetro y se probaron sinónimos
+  («cry», «when she loved me», «underrated») con éxito.
+
+**Sigue:** nada obligatorio pendiente de mis puntos (7, 8, 12, 13, 20, 21, 22) — todos tienen
+cobertura ✅ o ⚠️ razonada con las búsquedas hechas, según el detalle de cada sección. Si se
+retoma para profundizar (no obligatorio, ver «No encontré»): descargar Toy Story 1 y 3 completas
+(no solo clips) con `fotogramas.py` para completar la tabla de emociones del punto 13 (alegría,
+rabia, tristeza y vergüenza de Woody/Buzz/Jessie, y cualquier emoción de Rex) y para fijar el
+minuto exacto de la escena del incinerador y de «Cuando ella me amaba» sobre el metraje oficial;
+reintentar YouTube más tarde (esperar bloqueo, un ayudante a la vez) para verificar canal y
+vistas de los fandubs del punto 22.

@@ -252,6 +252,7 @@ concretos con fuente propia):
 | 3 | 4:20, mismo look de fiesta | de pie sobre el borde de la bañera, collares de cuentas al cuello | **presentar/lucirse** |
 | 4 | x3mvnel (incinerador) ~0:32-0:38 | asomando desde el montón de basura, manitas cortas apoyadas al frente, ojos grandes preocupados | **miedo/vulnerabilidad** (coherente con su personalidad: el dinosaurio que se asusta de todo) |
 | 5 | x89nzvp 0:11-0:24 (trailer TS1, entre los juguetes que corren a esconderse) | cuerpo agachado, cola visible entre hojas/objetos, mirada de alerta | **alertar** |
+| 6 | x89nzvp 0:31 (trailer TS1, junto a la pata de la cama) | agachado, cabeza baja, cuerpo pegado al mueble | **esconderse/quedarse quieto** (el gag central de la película: los juguetes se congelan) |
 
 ## Lo mejor para la lámina
 
@@ -273,6 +274,11 @@ concretos con fuente propia):
 
 ## No encontré
 
+- **Fotogramas a 1080p o más** (lo que pide el punto 2 literalmente): los clips de
+  Dailymotion disponibles están a 1280×720 o 1280×960 (720p), no a 1080p. Es la mejor
+  resolución que ofrecen esas fuentes sin YouTube; lo anoto como límite real de la red
+  disponible, no como algo que dejé de buscar (comprobé que Dailymotion no sirve calidad
+  mayor para estos clips concretos).
 - **Escena de apertura real de la película** (el «You've Got a Friend in Me» inicial en
   el cuarto de Andy, antes de la fiesta de cumpleaños) como clip suelto en Dailymotion o
   Internet Archive: los «opening to Toy Story» de `datos-video.md` resultaron ser
@@ -328,7 +334,7 @@ concretos con fuente propia):
   confirmadas con cita textual (rugido de Rex = T-Rex de Jurassic Park).
 - Wikipedia (`en.wikipedia.org/w/api.php`): **bloqueada por rate-limit (HTTP 429)** todo
   el rato que probé (somos varios ayudantes compartiendo IP); no insistí más de dos
-  veces seguidas, tal y como pide AYUDANTE.md, y until usé MusicBrainz y Sound Effects
+  veces seguidas, tal y como pide AYUDANTE.md, y usé MusicBrainz y Sound Effects
   Wiki en su lugar, que sí respondieron.
 - No usé el cupo de buscador web (WebSearch): todo salió de la red directa
   (Dailymotion, Internet Archive/MusicBrainz/Fandom vía `curl`), tal y como pide
@@ -344,7 +350,7 @@ concretos con fuente propia):
 | 4 · Sitios, luz y paleta | ✅ | 13 tomas con hex medidos con Pillow (`estilo.py`) sobre fotogramas reales de 6 sitios distintos (cuarto de Andy, cuarto de Sid, jardín, vertedero, campo de trigo, casa nueva) |
 | 9 · Música y sonido | ✅ | Tracklists completas de 4 BSO (TS1-4) con fuente, 3 efectos de sonido reciclados con cita textual propia, gag bilingüe «Spanish Buzz» anotado para doblaje |
 | 10 · Vídeos | ✅ | 2 trailers vistos fotograma a fotograma (TS1 inglés, TS5 español latino) con minuto exacto y texto en pantalla citado; TikTok/YouTube confirmado inaccesible, documentado en «No encontré» |
-| 14 · Poses por personaje | ✅ | Woody y Buzz con 7-8 poses reales cada uno, Jessie con 7, Rex con 5 (incluye el corto propio *Partysaurus Rex*), todas con fotograma y minuto reales, clasificadas por para qué sirven |
+| 14 · Poses por personaje | ✅ | Woody y Buzz con 7-8 poses reales cada uno, Jessie con 7, Rex con 6 (incluye el corto propio *Partysaurus Rex*), todas con fotograma y minuto reales, clasificadas por para qué sirven |
 
 Parte terminada: los 5 puntos están completos con vídeo visto de verdad (fotograma +
 minuto), no de memoria. Lo pendiente documentado en «No encontré» (apertura exacta de
