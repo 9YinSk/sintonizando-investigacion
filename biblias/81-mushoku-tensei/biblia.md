@@ -263,3 +263,143 @@ Cada hoja mide 2400×1704. Salen de `investigar_serie.py` sobre la wiki.
   Design» de la wiki, que son el mismo arte de producción ⚠️.
 
 ---
+
+## 4 · Fan art y 3D, sólo como referencia
+
+**Nunca se pega fan art**: sirve para ver poses y luz. Cita siempre autor.
+
+### Fan art (Safebooru y Wallhaven, tamaños medidos)
+- Rudeus, [4093×2894](https://safebooru.org/images/4580/0edec0efac2821aa8033e2499819f468b4257201.png),
+  de pixiv (autor sin nombre) ⚠️. Otro de 936×1204 viene de
+  @MFBooks_Edit, la **editorial**: es promo, no fan art ⚠️.
+- Roxy, [3112×4000](https://safebooru.org/images/3726/19be2414cb0917e0ec524465dd394b4b68b700e6.jpg),
+  de pixiv ⚠️.
+- Eris, 2100×3000 de @khyleri ⚠️, y 4189×2511 de un artista de
+  [Bilibili](https://safebooru.org/images/4136/118b06634a86bd5ffbd4a85273d72cf7dcf76087.jpg) (China) ⚠️.
+- Sylphiette, 1500×2250 de @SirRappa ⚠️.
+- Fondos de fans en [Wallhaven](https://w.wallhaven.cc/full/v9/wallhaven-v936d8.jpg):
+  Eris con nubes 3840×2160 (♥204); Roxy sentada sobre un mapa 8640×4860
+  (♥178, [pixiv 123786185](https://www.pixiv.net/artworks/123786185));
+  Roxy con agua 5988×4349 (♥144); Rudeus 5120×2880 (♥119); Sylphiette en
+  un campo 3840×2160 (♥101, sin autor) ✅.
+
+### Modelos 3D con licencia (Sketchfab)
+| Modelo | Autor | Licencia | Enlace |
+|---|---|---|---|
+| **Báculo de Roxy** (objeto suelto) | Josevan Danusastra | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-7f44931f68104f91a23f3cc6bc75a4de) |
+| Roxy Migurdia (con *rig*) | kam | CC BY-SA | [sketchfab](https://sketchfab.com/3d-models/none-5eed685a1ce04d6d9bd4020bd805ca8d) |
+| Roxy Migurdia | OSad | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-2ffd9eb1aa254b9494ec5d220f6bdc96) |
+| Roxy | HaiHan | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-684aa94f9e32479985d82908da342728) |
+| Sylphiette Greyrat | HaiHan | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-d4a417e18ea748e395d3b85033e6d378) |
+| Rudeus Greyrat | oimoyu | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-ccd835f6963b4a20b97315ce2e50bdd2) |
+| **Mapa del mundo en 3D** | Lugremg | CC BY | [sketchfab](https://sketchfab.com/3d-models/none-9e2d01fe35a54f9abe290ac73c723935) |
+| Eris Boreas Greyrat | youseuf98 | **Editorial: no libre** | sólo mirar |
+
+Crédito exacto para CC BY: «"<nombre del modelo>" de <autor>, CC BY 4.0,
+Sketchfab». El báculo es **CC BY**, no CC0 (la parte de imagen lo llama CC0
+en un resumen; la tabla de datos dice CC Attribution) ⚠️.
+
+No hay modelo libre de Eris ⚠️. No hay modelos en Poly Haven de la serie.
+
+---
+
+## 5 · Sitios, luz, paleta y texturas reales
+
+Todos los hex están **medidos con `estilo.py`**, en capturas de la wiki o
+en fotogramas propios del equipo.
+
+| Sitio | Imagen medida | Paleta | Luz |
+|---|---|---|---|
+| **Buena Village** (pueblo natal) | [Buena_Village.png](https://static.wikia.nocookie.net/mushokutensei/images/0/04/Buena_Village.png) | `#CED692` `#8EAB98` `#ACB86B` `#4B6730` `#213618`, línea `#7B8C42` | Mediodía cálido, campo abierto. Saturación 39 %, brillo 61 % |
+| Puente y campo (Buena) | ep. 3, 2:30 | `#5A7978` `#8AA69D` `#354A3F` `#6ACEEA` `#D3EAE2` | Verdes apagados, cielo muy claro |
+| Bosque de arces | ep. 3, 2:50 | `#39371D` `#820E1E` `#BB8858` `#A64047` `#E5C476` | Otoño, el fondo más saturado (61 %) |
+| **Trigal al atardecer** (tráiler) | [0:08](https://www.dailymotion.com/video/x8bc8ii?t=8) | `#ECAD1F` `#BE6617` `#F6EDC5` `#F2CE5B` `#76300D` | *Golden hour*, amarillo naranja, poca línea |
+| Carreta en el trigal | ep. 5, 2:50 | `#FCF3C4` `#AF591E` `#D07F7D` `#EFB89E` `#6E2B0E` `#D59138` | El atardecer más claro (brillo 80 %) |
+| **Millishion** (ciudad santa) | [MT-AN-S1-E16-PNG-19](https://static.wikia.nocookie.net/mushokutensei/images/0/0e/MT-AN-S1-E16-PNG-19.png) | `#E3E2E2` `#3A7287` `#307CC4` `#96C5E4` `#639ED2` `#BAB9C2` | Día muy claro, cúpulas doradas. Brillo 75 % |
+| **Roa** (ciudadela) | [Roa_Aerial_View.png](https://static.wikia.nocookie.net/mushokutensei/images/a/aa/Roa_Aerial_View.png) | `#DDEADE` `#ACD6E0` `#83756F` `#425F64` `#548E9B` | Mediodía, río cruzando la ciudad |
+| **Sharia** (ciudad de la universidad) | [Sharia-AN-S2-PV.png](https://static.wikia.nocookie.net/mushokutensei/images/0/0d/Sharia-AN-S2-PV.png) | `#D9DDE2` `#CBD1D8` `#B6BBC5` `#303F52` | Nieve, casi monocromo (saturación 9 %) |
+| **Castillo de Ranoa de noche** | opening T2, 0:39 | `#18243E` `#2C3B5D` `#8C93BE` `#0C1120` `#7275A0` `#465784` | Azul noche, torres encendidas por dentro |
+| Interior cálido con grupo en la mesa | opening T2, 0:51 | `#1E1412` `#452E2E` `#847469` `#63524D` `#A9988F` `#D5C8BE` | Vela, marrones cálidos |
+| Mar e isla flotante | [tráiler 0:24](https://www.dailymotion.com/video/x8bc8ii?t=24) | `#DDF8F5` `#48B0EA` `#5DC0F2` `#97D7F1` | Celeste lavado, cel plano |
+| Caravana en el desierto | [tráiler 1:08](https://www.dailymotion.com/video/x8bc8ii?t=68) | `#D1A482` `#E8E2C5` `#817B5D` `#563429` `#BB4F3A` | Tierra y arena |
+| **Mazmorra de Eris** | ep. 5, 10:10 | `#0C0F13` `#0F191E` `#070A0D` `#231B22` `#182C38` | **Brillo 12 %**: el sitio más oscuro |
+| Mural del Mundo de Seis Caras | [S3E13](https://static.wikia.nocookie.net/mushokutensei/images/f/fc/MT-AN-S3-E13-PNG-07.png) | `#4F544C` `#6B6B5F` `#878476` `#333A34` `#A7A191` `#D6CBB9` | Piedra, saturación 14 % |
+
+Opening T2 visto en [Internet Archive](https://archive.org/details/creditless-mushoku-tensei-season-2-op-opening-uhd-60-fps).
+Los episodios, en el lote de la T1 citado en §2.
+
+**Ranoa Magic Academy**: fachada gótica de piedra clara con torres
+([manga, 741×1293](https://static.wikia.nocookie.net/mushokutensei/images/4/4f/Ranoa-Magic-Academy-MT-MN-Ch54.png)) ✅.
+
+### Texturas reales equivalentes (CC0, sin atribución)
+- Papel y pergamino (libros de hechizos, cartas): [ambientCG Paper001](https://ambientcg.com/view?id=Paper001), Paper005, Paper006.
+- Madera (casas de Buena, mesas): Wood092, Wood094, Wood095.
+- Tela (túnicas y capas): Fabric061, Fabric081C.
+- Piedra clara (Sharia, Ranoa): PavingStones151, Tiles141, Rock064.
+
+---
+
+## 6 · Tipografía: una letra para cada uso
+
+Todas las letras libres de abajo se **abrieron con fontTools**: traen
+á é í ó ú ñ Ñ ¿ ¡ (lo comprobó la parte de texto con 8 fuentes de
+Google Fonts).
+
+| Uso | Cómo es en la serie | Letra libre | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|
+| **Logo o título** | Rotulado a mano con pincel, grosor irregular. «Mushoku» en negro `#060606`, «Tensei» en bronce `#A3721C` con textura, **halo blanco fino** alrededor ([portada del tomo 1, 1403×2000](https://static.wikia.nocookie.net/mushokutensei/images/5/52/Engch01.jpg)) | [Luckiest Guy](https://fonts.google.com/specimen/Luckiest+Guy) (aproximación; nadie identificó la letra: el [hilo de dafont](https://www.dafont.com/forum/read/272951/mushoku-tensei-font) sigue sin respuesta) | ✅ |
+| Logo japonés | Caligrafía de pincel grueso, 無職転生 ([1336×544](https://static.wikia.nocookie.net/mushokutensei/images/2/23/Anime_Logo_JP.png)) | Sólo como referencia de trazo | — |
+| **Nombre de quien habla** | Pestaña del juego *Quest of Memories*: blanco en serifa redondeada | [Cinzel](https://fonts.google.com/specimen/Cinzel) | ✅ |
+| **Globo o caja normal** | Blanco en serifa sobre panel oscuro (juego) | PT Serif o Source Serif 4 ⚠️ (propuesta, la letra exacta del juego no se identificó) | ⚠️ no comprobado en la parte |
+| **Grito** | No se pudo ver en el manga (páginas con texto no alojadas) ⚠️ | Luckiest Guy en mayúsculas | ✅ |
+| **Pensamiento** | En el anime **no hay nube**: lo dice otro actor (§7) | La misma serifa en *cursiva*, sin globo | — |
+| **Onomatopeya** | No encontrada en fuente dedicada ⚠️ | Luckiest Guy (trazo grueso) | ✅ |
+| **Cartel del mundo** | El mural de Seis Caras lleva **runas inventadas**, sin alfabeto real | Cinzel (piedra, monumento) o IM Fell English / Uncial Antiqua / MedievalSharp para pergamino | ✅ las cuatro |
+| **Interfaz de juego** | *Quest of Memories*: ATTACK / SKILL / ITEM / GUARD / ESCAPE en mayúsculas; la gestión del restaurante usa **sans** («MAIN GOAL») | Cinzel para menús; una sans para contadores | ✅ Cinzel |
+| **Subtítulos o créditos** | Cartela «第一話 無職転生» en fondo rojo texturado (ep. 1, 22:10). La letra exacta de los créditos no se encontró ⚠️ | Anime Ace 2.0 BB (Blambot), el estándar del equipo, con tildes según la guía de `biblias/_ya_hechas/` | ⚠️ según esa guía, no reabierta aquí |
+
+El logo internacional existe en vector en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mushoku_Tensei_international_logo_(with_colour_gradient).svg),
+sin decir la letra base ⚠️.
+
+---
+
+## 7 · Cómo hablan y piensan en pantalla: el cuadro de diálogo
+
+**El cuadro de diálogo de la franquicia es la caja del juego oficial
+[*Quest of Memories*](https://store.steampowered.com/app/2459420)**
+(LANCARSE, 2024). Es la única caja completa y con texto real que se vio
+([captura de Steam, 1920×1080](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_7399215d1844a53ee19d7f201983c909974816fc.1920x1080.jpg)).
+
+Cómo es, medido con `estilo.py`:
+1. **Pestaña del nombre**: óvalo con degradado de marrón oscuro a
+   bronce, filete dorado fino y **filigrana de hojas** en bronce pálido a
+   los lados.
+2. **Panel del texto**: traslúcido, verde oliva o marrón muy oscuro, con
+   **relieve de hojas de hiedra** de fondo. Paleta: `#1F180E` 35 %,
+   `#31291B` 21 %, `#483C2C` 20 %, `#5E5443` 17 %, `#837C71` 7 %; línea
+   `#272015`.
+3. **Texto**: blanco, en serifa redondeada (no sans).
+4. La **hiedra** es la misma del **escudo de Asura** (§26): el motivo une
+   la caja con el mundo.
+
+**Pensamientos**: en el anime, Rudeus **piensa con otra voz**. Tomokazu
+Sugita (el hombre de 34 años) dice lo que piensa; Yumi Uchiyama, lo que
+dice el niño en voz alta ([Wikipedia](https://en.wikipedia.org/wiki/Mushoku_Tensei_(TV_series))) ✅.
+En latino, Elliot Leguizamo y Rubén Quezada (§10). En una lámina: su
+pensamiento va **en cursiva, sin nube**, como el monólogo de la novela
+web de la que nace la obra ⚠️ (inferencia de la parte de texto).
+
+**Manga**: globos **ovalados de trazo fino y limpio**, sin adorno (panel
+del Palacio de Plata, tomo 8, cap. 38, con los globos vacíos) ✅ forma;
+letra interior no vista ⚠️. En la hoja `modelo_01`, n.º 230, se ven globos
+con texto inglés.
+
+**Cartelas en el anime**: el título de cada capítulo va en blanco sobre
+**rojo con textura de tela** (ep. 1, 22:10). En el doblaje latino, los
+insertos de texto **no se narran**: van con subtítulos forzados (Doblaje
+Wiki, «Datos de interés») ✅.
+
+**Qué NO hacer**: una burbuja blanca lisa de cómic. La caja canónica es
+oscura, con textura y hojas.
+
+---
