@@ -47,3 +47,4 @@ Cuenta: cuenta R47
 | 117 | redactor | Opus | 21 | 377 mil |
 | 119 | texto | Sonnet | 17 | 218 mil |
 | 119 | voz | Sonnet | 17 | 204 mil |
+| 120 | imagen | Sonnet | 12 | 181 mil |
