@@ -2216,3 +2216,132 @@ redactor. Cada cosa dice por qué.
 | referencias.json | ✅ | 133 referencias, las mejores primero, sin las de otras sagas; con las correcciones del redactor |
 
 ---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y del recolector. Idioma entre
+paréntesis. ✅ = dos fuentes o visto; ⚠️ = una fuente. Lo que no se
+encontró está en §28.
+
+### Recolector (`herramientas/recolectar.py`, 25-sep-2026, sin IA)
+
+- **Fandom** godofwar: imágenes más grandes y textos de apariencia,
+  personalidad y habilidades de Kratos y Atreus (en).
+- **Hojas de contacto** con `investigar_serie.py`: 825 imágenes, 548
+  grandes, 12 hojas.
+- **Danbooru** (etiquetas de rasgos), **Safebooru** (fan art),
+  **Wallhaven** (fondos), **Sketchfab** (3D), **Openverse** (fotos
+  libres), **Dailymotion** (clips), **Internet Archive** (longplays y
+  podcasts), **MusicBrainz** (bandas sonoras), **Steam** (capturas),
+  **Doblaje Wiki** (ficha, muestras y datos de interés, es) y **Reddit**
+  r/GodofWarRagnarok.
+- **Fallos**: AniList no aplica (es un juego). La tabla de reparto y el
+  ranking de Danbooru salieron **rotos** (mezclaban archivos de audio y
+  personajes de otras sagas); Wallhaven y Safebooru trajeron muchas
+  imágenes de otras franquicias.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **API de la wiki** (en): búsqueda de texto «collaboration»,
+  «crossover», «Mortal Kombat», «PlayStation All-Stars», «Monster
+  Hunter», «amiibo», «cosplay», «wallpaper», «Battle Royale»; categorías
+  Armor, Locations y Artbooks; wikitext de Fortnite, Kratos (Mortal
+  Kombat), Cosplay Guide, Colors y los 5 artbooks; imágenes originales de
+  armaduras, Esparta y reinos para medir.
+- **Steam** (API): capturas de 2018, *Ragnarök* y el artbook digital,
+  medidas con Pillow.
+- **Internet Archive** (en): «vance kovacs god of war», 7 concept arts,
+  uno medido (1920×2815).
+- **`estilo.py`** sobre 9 imágenes (renders, iconos, capturas).
+- **Buscador** (14 búsquedas, en; una en es): concept art de ArtStation,
+  colores de armaduras, Monster Hunter (dos veces, para confirmar que
+  **no** es colaboración), PlayStation All-Stars, Raf Grassetti, Vance
+  Kovacs, tatuaje de ceniza, nudos nórdicos CC0, NECA, fondos oficiales,
+  cosplay en goma EVA, y «God of War café evento exhibición temático»
+  (es), que llevó al 20.º aniversario.
+- **Fallos**: ArtStation y su revista, 403 (dos intentos cada una);
+  Cook & Becker, error de certificado en la imagen grande; la página del
+  aniversario de Santa Monica, vacía sin JavaScript.
+- No se buscó en japonés ni coreano: el estudio es de California.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+
+- **API de Dailymotion** (en): «God of War 2018 trailer», «God of War
+  Ascension trailer», «Kratos Atreus cinematic», «God of War Ragnarok
+  cinematica», «Ghost of Sparta trailer», «Chains of Olympus cinematic».
+- **Internet Archive** (metadatos antes de bajar): 11 ítems revisados;
+  descartados los de más de 1 GB (*Ghost of Sparta* entero, las
+  cinemáticas de 2018 de 6,4 h).
+- **API de la wiki** (en): Bear McCreary, Gerard Marino, las bandas
+  sonoras de 2018, *Ragnarök* y *Sons of Sparta*, Leviathan Axe.
+- **ambientCG** (API): Marble, Wood, Ice, Rock, Metal.
+- **`fotogramas.py`**: 13 vídeos enteros y 8 fotogramas sueltos;
+  **`estilo.py`** sobre 9 fotogramas; **`voz.py`**: el documental de
+  sonido entero (inglés, 68 líneas con minuto).
+- **Buscador** (2, en): tendencias de TikTok «boy» y «son»; entrevista a
+  Mike Niederquell (asoundeffect.com y Shacknews).
+- **Fallos**: YouTube pidió iniciar sesión siempre; TikTok carga sin
+  datos.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Doblaje Wiki por la API** (es): wikitext completo de God_of_War,
+  God_of_War_Ragnarök, God_of_War_(franquicia), God_of_War:_Ascension y
+  God_of_War_Sons_of_Sparta; la tabla de reparto se **reconstruyó** a
+  mano.
+- **`voz.py`** (Whisper, es) sobre 7 muestras oficiales: Kratos (2018 y
+  *Ragnarök*), Atreus, Baldur, Freya, Mimir y Thor, con registro,
+  semitonos y velocidad.
+- **Danbooru** (API): recuento en vivo por personaje.
+- **eldoblaje.com** (es): fichas del doblaje de España de 2018 y
+  *Ragnarök*.
+- **Reddit por Arctic Shift** (en): «Brok», «cried», con puntos reales.
+- **Buscador** (9, es y en): encuesta de popularidad; ranking de Reddit
+  (ScreenRant); fandubs en español latino; entrevistas a Idzi Dutkiewicz
+  y Susana Moreno; reseña de ANMTV de 2018 y de *Ragnarök*; meme «Dad of
+  Boy» (Know Your Meme); final de 2018 (Den of Geek, ResetEra); muerte de
+  Brok (Sportskeeda); Mimir y Puck (TheGamer, ScreenRant); ventas y
+  premios (VGC, Wikipedia, The Game Awards, GamingBolt).
+- **Fotogramas del tráiler de *Ragnarök*** (hojas de `episodio.py`) para
+  las caras.
+- **Fallos**: TV Tropes, 403 directo y por Wayback (dos intentos);
+  YouTube, 429 hasta en los metadatos; Dailymotion sin fandubs.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **Buscador** (en y es; no hizo falta japonés, coreano ni chino):
+  - Tipografía: «God of War 2018 logo font», «Ragnarok font UI
+    typeface», «Berserker font dafont», «Gill Sans free alternative
+    Cabin», «Noto Sans Runic», «GFS Didot», «God of War runes Norse
+    alphabet».
+  - Interfaz: el Codex, el cómic de Dark Horse, el árbol de habilidades,
+    el HUD de 2018.
+  - HUD histórico: orbes de 2005, cambios de *III*, *Valhalla*.
+  - TCRF: tres búsquedas sobre contenido sin usar y el prototipo.
+  - Técnica: cámara de un plano (GDC), Raf Grassetti, *making of*,
+    Digital Foundry, piel y cuero, opciones gráficas de PC.
+  - Obras parecidas: influencias de Barlog («Children of Men», «Rope»,
+    «Birdman»), juegos parecidos.
+  - Mundo: línea de tiempo, objetos y vocabulario.
+- **API de la wiki** (en): Languages, Codex, Cut_Content, Nine_Realms.
+- **fontTools**: la fuente de dafont (sin tildes, ñ ni ¿; con ¡) y
+  **Cabin** de GitHub (con todo).
+- **Hidden Palace** (prototipo de *II*), **Open3DLab** (rig), y 80.lv,
+  Variety, SVG, foro3d, ScreenRant, Source Gaming, GamesRadar, TheGamer.
+- **Fallos**: TCRF, Game UI Database e Interface In Game, reto de
+  Cloudflare; Wayback, bloqueado por la red.
+
+### Redactor
+
+- Leyó las cuatro partes, `episodios.md`, los `datos-*.md`, `datos.json`,
+  `ENCARGO.md`, `AYUDANTE.md`, `EQUIPO.md`, `PETICIONES.md`,
+  `servidor/reglas_del_dueno.md`, `servidor/inventario.md` y
+  `DECISIONES.md`.
+- Miró las 3 hojas de `hojas/` y, para resolver datos que chocaban entre
+  partes, una miniatura del render `Kratos_gospng.png` (wiki) y las dos
+  capturas de Steam ya citadas. Resultado: las correcciones de §28.
+- Miró el `canal:` de las demás biblias y los encargos para la tabla de
+  §0 y las láminas vecinas de §25.
+- Juntó `referencias.json` (133) con `partes/*.json` y lo útil de
+  `datos.json`, sin lo de otras sagas.
+- Sin búsquedas web nuevas.
