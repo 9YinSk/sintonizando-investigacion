@@ -25,7 +25,8 @@ Cuenta: cuenta A104
   murieron antes de escribir nada (84 voz, 84 vídeo, 85 imagen) o a mitad de tanda (85 texto,
   con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
 - 85 Sword Art Online (todas): **COMPLETA y subida** (13:5x UTC). ✅26 ⚠️11 ❌0, 74 referencias, 52 webs, 828 líneas.
-- 86 Saga of Tanya the Evil: lanzados imagen y texto.
+- 86 Saga of Tanya the Evil: imagen y texto completos; lanzados voz y vídeo.
+- 87 Tsukimichi: lanzados imagen y texto.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
