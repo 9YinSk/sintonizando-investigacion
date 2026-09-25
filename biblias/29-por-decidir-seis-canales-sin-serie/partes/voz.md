@@ -174,6 +174,33 @@ Hitsugaya latino» en Dailymotion, sin resultado útil.
   por su API, historia de Gimmelshtump y el hermano Roger confirmados en la
   ficha).
 
+### Punto 13 (ampliado) · La cara en cada emoción, con fotograma y minuto
+
+Saqué fotogramas del tráiler de *Ralph, el demoledor* (Dailymotion, ya usado
+arriba) con `fotogramas.py --fotograma` y los miré:
+
+- **Ralph, resignado/aceptando lo que es** — fotograma en **1:53**
+  ([&t=113](https://www.dailymotion.com/video/x8x2a6q?t=113)): sentado,
+  encogido, brazos cruzados sobre las rodillas, en el círculo del grupo de
+  apoyo de villanos («Bad-Anon»), mientras recita la frase de arriba. Cara
+  seria, hombros caídos: es su «vergüenza aceptada», no rabia.
+- **Ralph, confundido/dolido** — fotograma en **2:01**
+  ([&t=121](https://www.dailymotion.com/video/x8x2a6q?t=121)): en la barra de
+  Tapper, manos abiertas hacia arriba, cejas juntas, boca entreabierta,
+  discutiendo con Félix — la cara que pone cuando no entiende por qué nadie
+  lo deja cambiar. Sirve para «explicar con angustia».
+- **No conseguí** las otras tres emociones del punto 13 (alegría plena, rabia
+  y miedo francos) de Ralph con buena resolución en este tráiler: los
+  fotogramas en esos segundos salían de **otros personajes** (Turbo, un
+  policía de Sugar Rush), no de Ralph. Habría que sacarlas de la película
+  completa, no sólo el tráiler de 2:22 — trabajo para la biblia completa de
+  Ralph (§9.1 de la biblia ya lo prevé).
+- **El resto de personajes** (Estela, Buster, Meena, Mike, Hisagi, Phineas):
+  no me dio el tiempo de esta tanda para sacar las 5 emociones de cada uno.
+  Lo que ya hay en la biblia (p.ej. Hisagi «sonrisa con brillos» en el
+  fotograma #303, ep. 138) sirve de alegría; **faltan las otras 4 por
+  personaje** — lo dejo para la biblia completa de cada serie, no aquí.
+
 ### Punto 21 (ampliado) · Las escenas que hacen llorar, con fuente
 
 - **Monsters, Inc. — el final de la puerta rota, reconstruida astilla a
