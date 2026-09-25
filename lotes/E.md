@@ -1,8 +1,9 @@
 # Lote E: series nuevas 57-76
 
-Sesión: https://claude.ai/code/session_01PTjYZQejJbQf4MSwH4sQbi · rama `claude/lote-e-serie-equipo-sh35c4`
-Cuenta: cuenta A108
-(sigue desde `claude/sweet-cerf-x81fcs`, sesión session_01DpneLCtaxuW3zpMcPdQ1yy, que dejó 57 y 58 a medias).
+Sesión: https://claude.ai/code/session_01SdkTzSsW5n1xjqdJhRDwb6 · rama `claude/lote-e-serie-equipo-x5k96u`
+Cuenta: cuenta A105
+(sigue desde `claude/lote-e-serie-equipo-sh35c4`, sesión session_01PTjYZQejJbQf4MSwH4sQbi, cuenta .108, que hizo 57 y 58
+y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01DpneLCtaxuW3zpMcPdQ1yy).
 
 ## Estado
 
@@ -10,7 +11,10 @@ Cuenta: cuenta A108
 - 57 Coco: **COMPLETA** y subida (03:11). ✅23 ⚠️18 ❌0, 100 referencias, 58 webs, 1076 líneas.
 - 58 Encanto: **COMPLETA** y subida (03:28). ✅21 ⚠️9 ❌0, 138 referencias, 53 webs, 1849 líneas.
 - 59 Shrek: imagen lista; video, voz y texto (Sonnet) en marcha desde 03:08-03:12.
-- 60 Toy Story: imagen y video (Sonnet) en marcha desde 03:25. 61-63: datos recolectados con hojas.
+- 60 Toy Story: imagen y video (Sonnet) en marcha desde 03:25 (se cortaron sin dejar parte). 61-63: datos recolectados con hojas.
+- Cambio de cuenta (25-sep, 04:03 UTC, cuenta .105): herramientas instaladas; guardar.sh cada 300 s.
+  59: las 4 partes terminadas sin `Sigue:` obligatorio → redactor (Opus) en marcha desde 04:03.
+  60: los 4 investigadores (Sonnet) relanzados desde cero a las 04:03.
 
 ## Avisos para el dueño
 
