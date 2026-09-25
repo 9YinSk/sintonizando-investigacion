@@ -29,3 +29,4 @@ Cuenta: cuenta R47
 | 118 | texto | Sonnet | 14 | 240 mil |
 | 118 | voz | Sonnet | 14 | 209 mil |
 | 118 | video | Sonnet | 18 | 270 mil |
+| 119 | imagen | Sonnet | 14 | 220 mil |
