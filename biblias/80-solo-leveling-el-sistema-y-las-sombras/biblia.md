@@ -607,3 +607,460 @@ Las 8 capturas oficiales de [Steam](https://store.steampowered.com/api/appdetail
 - ❌ Usar como fuente el vídeo de fans en 3D (x9vvdrc) o el manhwa animado
   (x9d28g8) para decir «así es el anime».
 
+## 13 · Personajes a fondo (cómo hablan y suenan las sombras)
+
+**La regla que lo ordena todo:** cuanto más alto el grado de una sombra, más
+personalidad y más habla. «Normal to Elite Grade shadows have little to no
+personality… Knight and Elite Knight… simple emotions like anxiety and joy…
+General and Marshal Grade shadows have very developed personalities» ·
+[wiki Shadows](https://solo-leveling.fandom.com/wiki/Shadows#Personalities) · ⚠️ una fuente, pero encaja con lo que se ve.
+
+### Sung Jinwoo
+- **Carácter:** humilde, amable, educado y tranquilo en persona; poco
+  interesado en el dinero; capaz de lanzarse sin dudar a salvar a otros (fue
+  a Jeju a por los cazadores S). Sin piedad con quien toca a su familia ·
+  [wiki](https://solo-leveling.fandom.com/wiki/Sung_Jinwoo#Personality) · ✅
+- **Qué le importa:** su madre (enferma; el Elixir de Vida en el ep. 21) y su
+  hermana Jinah. Hacerse fuerte.
+- **Qué transmite:** la fantasía de poder de pasar del más débil al más
+  fuerte (biblia 03, dos fuentes) · ✅. Con las sombras, además, respeto: las
+  convence y las nombra, no sólo las manda.
+- **Arco:** cazador E → casi muere en la Doble Mazmorra → el Sistema (ep. 3)
+  → cambio de clase y **Monarca de las Sombras** (ep. 12) → Puerta Roja,
+  hospital, Jeju y el Rey Hormiga (T2).
+- **Cómo habla** (subtítulos en inglés de los clips; ⚠️ faltan en latino):
+  frases cortas, ironía bajo presión («I guess you're being chivalrous,
+  huh?», «Still no good!», ep. 11), habla solo después del esfuerzo («One
+  screwup, and I'd probably be dead», 2:39). A Igris lo convence con órdenes
+  breves y solemnes: «You are a warrior… Fight for me… Protect me, who stand
+  before you. Arise.» (ep. 12 · 19:08-20:25, biblia 03). ⚠️ No hay datos de
+  muletillas ni de su risa.
+- **Su cara en cada emoción**
+
+| Emoción | Qué hace | Dónde |
+|---|---|---|
+| Alegría | media sonrisa torcida con gota de sudor al pedir la tienda | webtoon `Shop.jpg`, hoja `sistema_01.jpg` n.º 4 · ⚠️ sin minuto |
+| Rabia / esfuerzo | dientes apretados, bloqueo en cruz | ep. 11, [x8xqany](https://www.dailymotion.com/video/x8xqany) 0:37 · ✅ |
+| Tristeza / emoción | primer plano de los ojos llorando: «You're with me now.» | ep. 12, [xb7cnoi](https://www.dailymotion.com/video/xb7cnoi) 1:27-1:41 · ✅ |
+| Miedo / dolor | ensangrentado, ojo herido en primer plano, «If I have another chance...!» | tráiler 0:41-1:02 · ✅ |
+| Sorpresa | «No one else can see this but me?!», toca la ventana | tráiler 1:11-1:13 · ✅ |
+| Alivio | sentado contra la columna, brazos caídos | ep. 11, 2:39-2:42 · ✅ |
+| Determinación | puño cerrado, venas azules, cámara muy cerca | tráiler 1:00 · ✅ |
+| Poder | ojos que brillan (violeta en la wiki; azul con grietas en el tráiler 1:32-1:45) | ✅ |
+| Vergüenza | — | ⚠️ no encontrada |
+
+### Igris: el silencio como lenguaje
+- **Quién es:** «Knight of Death», antes Sian Halat, comandante «de sangre»
+  que guardaba un trono vacío (ep. 11). Jinwoo lo extrae al tercer intento. ✅
+- **Carácter:** leal, respetuoso, caballeroso; se irrita, contenido, cuando
+  Iron se pasa. Valora la educación (discute con Bellion que Suho vaya a la
+  escuela: webtoon). Muy inteligente: ayudó a Jinwoo a estudiar ✅.
+- **Cómo «habla»:** no habla. Se arrodilla, presenta sus trofeos como un
+  informe, espada lista, cabeza inclinada al recibir la orden. Su «voz» son
+  las ventanas del Sistema. ✅
+- **Cara:** **no tiene rostro**: armadura negra angulosa, brillo violeta y el
+  penacho rojo (`Igris_Anime3.jpg`, mirada con Read). Cicatriz en el ojo
+  derecho en el anime (izquierdo en el webtoon) · wiki · ✅
+- **Qué transmite:** lealtad serena. Es «el porte tranquilo y elegante» que
+  defienden los *Knight Mains*.
+
+### Beru: la sombra que sí tiene voz
+- **Quién es:** la sombra del **Rey Hormiga** de Jeju; recibe su nombre en el
+  ep. 25 (09:56-09:59). El nombre viene del novelista **Bernard Werber**
+  (*Las hormigas*) · [wiki Beru, Trivia](https://solo-leveling.fandom.com/wiki/Beru#Trivia) · ⚠️ una fuente.
+- **Carácter:** sed de batalla, brutal con el enemigo, desdeñoso con las otras
+  sombras (les grita si fallan), **leal sin límites** y tierno fuera del
+  combate; halaga a Jinwoo en plena pelea. ✅
+- **Cómo habla:** de usted, «mi rey», anticuado por los doramas de época. En
+  reposo, grave y lento (103 Hz); en pelea sube (149 Hz) y se acelera. ✅
+- **Cara:** sin rostro: casco sin rasgos, ojos de neón, alas de luz. Al pedir
+  su nombre, reverencia total (arrodillado, cabeza baja) · ⚠️ sin fotograma
+  propio con minuto.
+- **Habla idiomas humanos** porque devoró a cazadores japoneses y absorbió
+  sus lenguas (wiki Shadows) · ⚠️
+- **Qué transmite:** lealtad teatral, efusiva; «la lealtad de Beru no tiene
+  límites» (cita de fan en GameRant).
+
+### Las demás sombras (para variar)
+- **Iron** (Kim Chul): bocazas y orgulloso; de humano, voz aguda (226 Hz) que
+  da órdenes. Pareja cómica de Igris. ⚠️
+- **Kargalgan → Colmillo**: tirano burlón con gramática rota; la voz más
+  expresiva medida (33 semitonos). ⚠️
+- **Bellion**: el más fuerte, compuesto y sin emoción. ⚠️ no animado.
+- **Kaisel**: montura, sin personalidad. **Tank**: el oso, sale en los
+  *chibi* de fans.
+
+### Dinámicas (para láminas en grupo)
+- **Jinwoo + Igris**: orden breve / reverencia silenciosa.
+- **Jinwoo + Beru**: rey y vasallo teatral; Beru adula, Jinwoo apenas contesta.
+- **Igris + Iron**: el serio y el payaso; Iron copia, Igris se irrita.
+- **Igris + Bellion**: discuten por Suho (webtoon).
+- **Jinwoo + su familia**: la madre en el hospital (REVIVER, ep. 21), Jinah.
+- **Jinwoo + Cha Hae-In**: el único cazador cuyo olor ella soporta.
+
+## 14 · Poses analizadas
+
+**Sung Jinwoo** (fotogramas propios con minuto, más arte oficial)
+
+| # | Pose | Manos, mirada, gesto | Dónde | Sirve para |
+|---|---|---|---|---|
+| 1 | Guardia baja | dagas invertidas, rodillas flexionadas | ep. 11, x8xqany 0:03 | alertar, «a punto de entrar» |
+| 2 | Bloqueo en cruz | dagas cruzadas sobre la cabeza, dientes apretados | ep. 11, 0:37 | aguantar, regañar con fuerza |
+| 3 | Arrodillado, agotado | puños ensangrentados en el suelo, cabeza baja | ep. 11, 1:54-1:55 | pensar al límite |
+| 4 | Sentado contra la columna | brazos caídos, mirada al frente | ep. 11, 2:39-2:42 | explicar en voz baja, reflexionar |
+| 5 | Puño con venas azules | puño cerrado, plano muy cerrado | tráiler 1:00 | decisión, animar |
+| 6 | Corriendo con la daga en alto | sudadera al viento | tráiler 0:23 | avanzar, atacar |
+| 7 | Brazos cruzados, algo inclinado | mira a Igris levantarse | ep. 12, xb7cnoi 1:41 | **presentar** a alguien, dar una orden |
+| 8 | Dagas cruzadas delante del pecho | piernas abiertas, mirada fija | cartel cour 1, hoja `vestuario_03.jpg` n.º 1 | presentar el canal |
+| 9 | De espaldas bajo la lluvia | manos en los bolsillos, rodeado de ventanas | webtoon `System1.jpg`, hoja `sistema_01.jpg` n.º 1 | leer, **explicar** con ventanas |
+| 10 | Toca la ventana con el dedo | sentado en la cama del hospital | tráiler 1:11-1:13 | señalar un dato |
+
+- ⚠️ No hay pose de **celebrar** con minuto. La más cercana: la media
+  sonrisa del webtoon (`Shop.jpg`).
+
+**Igris**
+- **Arrodillado** ante Jinwoo tras cada batalla: su gesto de lealtad (wiki,
+  texto; ⚠️ sin fotograma propio). Sirve para **recibir una orden** o
+  **presentar** un informe.
+- **De pie con la espada vertical delante**, mirada al frente: figura oficial
+  de [Youtooz](https://youtooz.com/products/igris) (676×1000). Sirve para
+  **presentar**. ✅
+- **Al frente del ejército**, capa y penacho al viento: `Shadow_Army_Render`
+  (hoja `sombras_02.jpg` n.º 1). Sirve para **presentar al grupo**. ✅
+- **Mirando hacia arriba**, fondo violeta: `Igris_Anime3.jpg`. Sirve para
+  **pensar** o esperar. ✅
+- **Primer plano con la espada cruzando el cuadro**: `Igris_2.jpg` (hoja
+  `sombras_02.jpg` n.º 3). Sirve para un primer plano dramático. ✅
+
+**Beru**
+- **Frontal y simétrico**, brazos abiertos, silueta enorme: key visual
+  (`sombras_02.jpg` n.º 2). Sirve para **imponer**, regañar. ✅
+- **Alas extendidas**, suspendido en la cueva: `Beru_Anime1.png`
+  (`sombras_02.jpg` n.º 4). Sirve para **celebrar** o aparecer. ✅
+- **Arrodillado, cabeza baja**, al pedir su nombre (ep. 25 · 09:04). Sirve
+  para **pedir**, jurar, animar con solemnidad. ⚠️ sin fotograma propio.
+
+⚠️ El punto pide 6-10 poses por personaje con minuto: Jinwoo las tiene;
+Igris y Beru tienen 5 y 3, casi todas de arte oficial sin minuto.
+
+## 15 · Vestuario y hex medidos
+
+Medidos con Pillow en zonas planas de arte oficial (parte de imagen).
+
+**Sung Jinwoo, sus dos looks de cazador E (T1)**
+- **Traje «Player»** (turnaround oficial, fondo transparente, el más fiable):
+  cazadora azul gris `#86A3C5` (sombra `#7697BC`), camiseta oscura
+  `#302A43`, pantalón `#4E5476`, piel `#F4D1AD`, zapatillas verde oscuro
+  `#2C413C` · 443×1594 ·
+  [turnaround](https://static.wikia.nocookie.net/solo-leveling/images/b/b9/Sung_Jinwoo_%28Player%29_Anime.png/revision/latest?cb=20250316023421)
+  · hoja `vestuario_03.jpg` n.º 2 · ✅
+- **Sudadera gris del cartel cour 1**: sudadera `#9AADBB` (sombra `#565F70`),
+  pantalón casi negro `#26273B`, piel `#F3D7B3`, pelo `#161621` · 1440×2460 ·
+  hoja `vestuario_03.jpg` n.º 1 · ✅
+- Son dos prendas distintas. Las dos son de su etapa de rango E.
+- **Después**: ropa oscura, trajes a medida y abrigos largos con capucha
+  (wiki). La gabardina negra larga con camiseta blanca se ve en el cosplay
+  (hoja `vestuario_03.jpg` n.º 3). ⚠️ **sin hex medidos aquí**: están en la
+  biblia 03.
+- **Pelo** negro con flequillo hasta los ojos. **Ojos** grises (wiki); los
+  fans los dibujan azules (etiqueta `blue_eyes` de Danbooru). Brillan violeta
+  al usar su poder. ✅
+- **Su objeto:** dos dagas curvas. En el cosplay, las «Kasaka's Venom Fang»
+  rojas, negras y doradas, con relieve. ✅
+
+**Las sombras: base casi negra y UN color de grieta**
+- **Igris**: armadura `#1D1B34`, grietas lila `#9E7EFF`, penacho rojo
+  `#901A32` (medido en `Igris_2.jpg`, filtrando el humo). Capa negra hecha
+  jirones (wiki); en el render del ejército y en la extracción asoma el rojo. ✅
+- **Beru, key visual**: armadura `#020206`, grietas cian `#2CC6F2`. ✅
+- **Beru, anime (forma alada)**: cuerpo `#1B3477`, alas `#E6FCFE`. Es otra
+  representación del mismo personaje: no mezclarlas. ✅
+- ⚠️ La wiki dice que Beru e Igris tienen un «brillo violeta claro»; en el
+  arte medido Beru es **cian**. La parte de texto proponía «ámbar oscuro» para
+  Beru: **no**, lo medido manda (cian).
+- **Patrón para cualquier sombra nueva:** armadura casi negra mate + un solo
+  color de acento en grietas finas e irregulares + humo negro alrededor. ✅
+- **Lo icónico que todos reconocen:** en Jinwoo, las dagas y la ropa oscura;
+  en Igris, el **penacho rojo**; en Beru, la silueta de insecto con alas de luz.
+
+**Otros**
+- **Cha Hae-In**: rubia, ojos violeta, uniforme rojo y blanco con espada
+  (corrección ya hecha en la biblia 03; `DECISIONES.md`). ⚠️ sin hex aquí.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios con su luz y su hora** (detalle y hex en el punto 4)
+- **Seúl de noche**: rascacielos iluminados, puente peatonal, parque. Azul
+  frío con piel y ropa cálidas (opening). ✅
+- **Azotea de noche con portal violeta** (opening). ✅
+- **Sala del trono**: interior, luz de vela dorada y rojo-rosa (ep. 11-12). ✅
+- **Hospital**: habitación donde aparece la primera ventana (tráiler 1:11);
+  también la escena de la madre (ep. 21). ⚠️ sin paleta medida.
+- **Lluvia nocturna** con cielo de tormenta (webtoon, `System1.jpg`). ✅
+- **Vacío negro**: el fondo de la ventana STATUS del anime. ✅
+- **Mazmorras** según la wiki: Doble Mazmorra / Templo de Cartenon, Castillo
+  del Demonio, Pirámide (S); Puerta Roja, gremio de Cazadores, Busan (A);
+  Insectos, Goblins (C); monte Gwanak (D); estación de Hapjeong (E) ·
+  [wiki Dungeon](https://solo-leveling.fandom.com/wiki/Dungeon) · ✅ Sólo
+  la del trono tiene paleta medida.
+
+**Fondos de pantalla** (API de [Wallhaven](https://wallhaven.cc), sólo aptos)
+- **Igris**, 3840×2160, 105 favoritos, subido por csutka ·
+  [wallhaven.cc/w/1kdglv](https://wallhaven.cc/w/1kdglv) · ✅
+- **Igris de cuerpo entero con espada**, 2048×1177, 98 favoritos, por
+  DaikoOfc · [wallhaven.cc/w/x6qqmv](https://wallhaven.cc/w/x6qqmv) · ✅
+- **El más guardado de la serie**: Jinwoo con ojos que brillan, 1920×1080,
+  175 favoritos, por MaiSakurajima · [wallhaven.cc/w/96pzzd](https://wallhaven.cc/w/96pzzd) · ✅
+- ⚠️ **No hay fondos de fans de sitios vacíos** (búsquedas «gate»,
+  «dungeon», «scenery»: cero resultados).
+- ⚠️ **No hay página oficial de descargas.** Como fondos oficiales en alta
+  valen los carteles y key visuals del punto 1 (cour 1 1440×2460, Beru
+  906×1280, Igris 2880×5184).
+- Web oficial japonesa: [sololeveling-anime.net](https://sololeveling-anime.net/)
+  (enlace de AniList). ⚠️ no revisada por las partes.
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+Hecha por el redactor con los datos de los puntos 1-16. Sirve para Firefly,
+Canva o cualquier IA de imagen, y para una IA de texto. Las IA no escriben
+bien letras: **el texto de la ventana se pone después**, en Photoshop, con
+Exo 2 y Rajdhani.
+
+### Para una IA de imagen
+
+**Rasgos que nunca cambian**
+- **Jinwoo**: pelo negro corto con flequillo hasta los ojos; ojos grises que
+  brillan (violeta o azul) al usar poder; ropa oscura o la sudadera gris de
+  la T1; **dos dagas curvas**; cara seria, nada de sonrisa amplia.
+- **Igris**: caballero con **armadura negra de pies a cabeza**, **penacho
+  rojo largo** saliendo del casco, capa negra hecha jirones, espada larga,
+  **grietas lila** que brillan. **Sin cara.** Cicatriz en el ojo derecho (anime).
+- **Beru**: hormiga humanoide enorme, exoesqueleto negro, **grietas cian**,
+  ojos de neón, garras, alas de humo o de luz. **Sin cara.**
+- **Cualquier sombra**: negro mate + un solo color de grieta + humo negro.
+- **La ventana**: panel translúcido azul casi negro con borde cian fino, o
+  marco de circuito violeta neón (STATUS). Esquinas redondeadas en
+  NOTIFICATION, rectas en STATUS.
+
+**Paleta** (medida)
+- Interfaz: `#071331`, `#08256A`, `#2A9EDA`, `#81D9EC`; logro `#02DE58`;
+  límite `#E70D41`; STATUS `#8C1BF8`, `#D259FF`, `#1B2337`.
+- Magia de sombra: `#C330E0`, grietas `#9E7EFF` (Igris) y `#2CC6F2` (Beru).
+- Ciudad de noche: `#0F0F19`, `#1A3251`, `#376590`, `#60BCD2`.
+- Sala del trono: `#F46B7D`, `#C95460`, `#973D48`.
+- Webtoon (sólo si se imita el webtoon): ámbar `#93825A`, `#A29B39` sobre `#2B3136`.
+
+**Línea, sombreado y luz**
+- **Poca línea** y **de color**, no negra (`#76343C` en la sala roja,
+  `#0B275B` en la escena azul). Sombreado **en degradado**, pintado; **sin
+  tramas** de manga.
+- Luz de noche y **contraluz**: la luz sale de la ventana, del portal o de
+  las grietas. Luz de borde de color en el personaje.
+- **Frío contra cálido**: azul y violeta dominan; el único cálido es el rojo
+  de Igris, la vela o la piel.
+- Encuadres que usa la serie: **plano muy cerrado** de un puño o un ojo; el
+  personaje **de espaldas** rodeado de ventanas; la **silueta negra** con luz
+  que se agrieta. ⚠️ No hay un estudio de encuadres con más datos.
+
+**Palabras que ayudan** (etiquetas de Danbooru, el vocabulario que entienden
+las IA de anime)
+- Jinwoo: `sung jin-woo, short black hair, hair between eyes, hoodie, black
+  pants, dagger, dual wielding, glowing eyes, dark aura, night`.
+- Igris: `knight, full armor, black armor, red plume, tattered cape,
+  longsword, glowing armor, purple glow, glowing eyes, dark aura, no face`.
+- Beru: `humanoid ant, black exoskeleton, cyan glowing cracks, glowing eyes,
+  claws, wings, dark aura, no face`.
+- Ventana: `holographic game UI window, translucent dark blue panel, thin
+  cyan border, sci-fi HUD, floating`.
+- Sombreado: `soft gradient shading, thin colored lineart, rim light,
+  cinematic night lighting, anime screencap`.
+- ⚠️ Las etiquetas de Beru en Danbooru traen `hoodie`, `black hair`, `shirt`:
+  son de Jinwoo, que sale con él en los dibujos. **No usarlas para Beru.**
+
+**Palabras que lo estropean**
+- `chibi`, `cute`, `smiling`, `pastel`, `bright colors`, `sunny`.
+- `speech bubble`, `white speech balloon` para el Sistema.
+- `face`, `eyes and mouth`, `helmet visor open` para Igris o Beru.
+- `golden UI`, `amber` en una escena del anime.
+- `thick black outline`, `screentone`, `manga halftone`.
+- `medieval knight` sin `black armor`: sale un caballero plateado con cara.
+
+**Qué imágenes dar como referencia**
+- Estilo de ventana: `Anime_System.png` (hoja `sistema_01.jpg` n.º 2) y el
+  fotograma de 2:33 del ep. 11.
+- Estilo de sombra: `Shadow_Army_Render.png` y `Beru_CV.jpg` (hoja
+  `sombras_02.jpg` n.º 1 y 2).
+- Pose de Jinwoo: cartel cour 1 (hoja `vestuario_03.jpg` n.º 1).
+- Detalle de armadura: `Igris_2.jpg` (hoja `sombras_02.jpg` n.º 3).
+- Fondo: fotogramas del opening (Seúl de noche) y de la sala del trono.
+
+### Para una IA de texto
+
+**Cómo habla cada uno**
+- **El Sistema**: impersonal, frío, en segunda persona. Cabecera en
+  MAYÚSCULAS. Nombres entre corchetes. Frases completas y cortas, con punto
+  final. Nunca bromea. Ej.: «Congratulations on becoming a Player.»,
+  «[Urgent Quest: Defeat the Enemies.]», «You may bestow a name.»
+  ⚠️ En pantalla las ventanas están en inglés; si se traducen, se guarda el
+  formato: «[Misión urgente: derrota a los enemigos.]».
+- **Jinwoo**: pocas palabras, seco, algo irónico cuando sufre. Da órdenes de
+  una palabra: **«Surge.»** Sorpresa con «?!».
+- **Beru**: de **usted**, «mi rey», tono de dorama antiguo, frases largas y
+  ceremoniosas, puntos suspensivos, juramentos («por la eternidad»). Nunca
+  tutea ni dice groserías.
+- **Igris**: **no habla**. Si hace falta texto, lo pone el Sistema o una
+  acotación: «[Igris se arrodilla.]».
+- **Kargalgan (antes de ser sombra)**: verbos en infinitivo, artículos mal
+  a propósito: «ser muertos», «las monos».
+- **Onomatopeyas**: «DING» (aparece una ventana), «SHWWP» (algo entra al
+  inventario).
+
+**Frases reales, por emoción**
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| Alegre | «Todo mi ser se encuentra lleno de júbilo.» | Beru, ep. 25, latino ✅ |
+| Alegre (logro) | «Your job has changed [necromancer] ▼ [shadow monarch]» | Sistema, ep. 12 · 0:00 ✅ |
+| Enfadado / amenaza | «Por diversión, uno a uno ser muertos, torturados y devorados.» | Kargalgan, latino ⚠️ |
+| Explicando | «Debido a mi rango, deberán seguir mis indicaciones para que salgan vivos de esta misión.» | Kim Chul, latino ⚠️ |
+| Animando | «Les prometo esto. El que esté conmigo sobrevivirá.» | Kim Chul, latino ⚠️ |
+| Animando (orden) | «You are a warrior… Fight for me… Arise.» / latino «Surge.» | Jinwoo, ep. 12 ✅ |
+| Triste / desesperado | «If I have another chance...!» | Jinwoo, tráiler ⚠️ sólo inglés |
+| Alivio | «One screwup, and I'd probably be dead.» | Jinwoo, ep. 11 · 2:39 ⚠️ sólo inglés |
+| Pidiendo | «Ahora, por favor, concédame un nombre.» | Beru, ep. 25 · 09:50 ✅ |
+| Aviso de límite | «Number of extractions possible: 1/3» | Sistema, ep. 12 · 0:52 ✅ |
+
+**Vocabulario de expresiones** (para que la IA de imagen entienda el gesto)
+- **Ojos que brillan** (`glowing eyes`): poder o emoción fuerte.
+- **Venas que brillan en azul** en el puño: decisión.
+- **Grietas de luz en zigzag** sobre negro: una sombra que nace.
+- **Humo negro** (`dark aura`) alrededor: presencia de las sombras.
+- **Gota de sudor** junto a la cara: nervio o apuro (webtoon, `Shop.jpg`).
+- **Chibi**: sólo en fan art («The daily life of shadows») y en figuras
+  (Youtooz). El anime no lo usa.
+- ⚠️ No hay datos de fondos de emoción (tramas, flores, rayas) en esta serie.
+
+## 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**Quién lo hace**
+- **Anime** (A-1 Pictures): dirección Shunsuke Nakashige; diseño de
+  personajes Tomoko Sudou; dirección de acción Yoshihiro Kanno; dirección de
+  arte Yasuhiro Okumura; color Naomi Nakano; fotografía Daichi Iseki;
+  dirección de CG Toshitaka Morioka; logo Tsubasa Ootaki; diseño original
+  Jang Sung-rak (DUBU) · [AniList, staff](https://anilist.co/anime/151807/staff) · ✅
+- **Las ventanas del Sistema son *motion graphics* aparte**, hechas por el
+  equipo de gráficos de Production I.G (Takemune Ōshiro), según la biblia 03
+  y la guía de cuadros del repositorio · ⚠️ no comprobado en esta tanda.
+- **Webtoon hoy**: tras la muerte de DUBU (2022) sigue **REDICE STUDIO**;
+  dibuja **DISCIPLES** y colorea **지쳐버린 듀공**. La entrevista resume el
+  estilo así: *«검은 그림자와 푸른 광휘가 충돌하는 찰나»*, «el instante en que
+  chocan las sombras negras y un resplandor azul» ·
+  [ELLE Corea, mayo 2026](https://www.elle.co.kr/article/1901699) · ✅
+- Más sobre técnica del anime (mezcla 2D y 3D, captura de movimiento mocopi,
+  cita del director): en la biblia 03, punto 18. ⚠️ no repetido aquí.
+
+**Cómo es**
+- **Personajes y sombras**: poca línea, de color; sombreado en degradado;
+  luz de borde de color. Las sombras llevan el mismo tratamiento que Jinwoo. ✅
+- **Ventana**: sin tinta; **luz y circuito vectorial** encima de la imagen,
+  sin sombreado 3D. ✅
+- **Webtoon**: degradados digitales, sin tramas; paneles con esquinas
+  cortadas. ✅
+- **Grietas de sombra**: líneas finas e irregulares que brillan sobre negro
+  mate. Las líneas del Sistema, en cambio, son rectas y geométricas. ✅
+
+**Replicarlo en Photoshop**
+1. Fondo en degradado oscuro (azul noche o negro violeta).
+2. Personaje con línea fina **de color**, no negra (`#0B275B` en azul).
+3. Sombras en 2-3 tonos con degradado suave; luz de borde en capa
+   **Sobreexponer color** con el color de la escena.
+4. Grietas: pincel duro de 2-4 px en el color de acento, capa en
+   Sobreexponer y **Resplandor exterior** del mismo color.
+5. Humo: pinceles de humo libres (punto 19), en negro y en el color de acento.
+6. Ventana: capa aparte encima de todo, relleno `#071331` al 70-80 %, borde
+   cian de 1-2 px, resplandor exterior cian. El texto, con Exo 2 y Rajdhani.
+7. Grano fino por encima de todo.
+
+**Replicarlo en Blender**
+- **Ventana**: un **plano** con material de **emisión** y transparencia; la
+  textura, una imagen de la UI (p. ej. el pack CC0 de OpenGameArt) o el
+  modelo [«SOLO LEVELING HOLOGRAM»](https://sketchfab.com/3d-models/solo-leveling-hologram-9d15f77f6e2941d08bc9dd7a1ecf3e73)
+  (CC BY). Bloom en Eevee. Así **ilumina de verdad** la escena y no queda
+  como un panel suelto. **No** usar Line Art ni Freestyle en la ventana.
+- **Sombras**: el modelo [Shadow Knight](https://sketchfab.com/3d-models/shadow-knight-solo-leveling-4f09d63a0ffd455b893b875bc8106620)
+  o los de Igris (CC BY). *Toon shader* de 2-3 bandas (Shader a RGB + Rampa
+  de color en «Constante»), base casi negra y **grietas con emisión** del
+  color del personaje. Luz de borde de color.
+- **Contorno**: Line Art fino y de color (o ninguno), nunca grueso y negro.
+- **Luz**: la clave sale de la ventana o del portal (luz de área cian o
+  violeta); relleno frío; un cálido pequeño (vela, rojo de Igris).
+- ⚠️ No se comprobó si los modelos de Sketchfab traen *rig*.
+
+**Encuadres y composición**
+- **Plano muy cerrado** para la decisión (puño, tráiler 1:00) o el poder
+  (ojo, tráiler 1:32-1:45).
+- **De espaldas y rodeado de ventanas** para «el Sistema me habla»
+  (`System1.jpg`).
+- **Silueta negra que se agrieta de luz** para una sombra que nace (ep. 12 ·
+  0:14-0:24).
+- ⚠️ Falta un análisis de encuadre por emoción más completo.
+
+## 19 · Texturas 2D
+
+**Cómo son en la serie**
+- **Interfaz del webtoon**: líneas finas ámbar `#A29B39` en rejilla o marco
+  con esquinas cortadas, sobre panel gris azulado `#2B3136`. Vectorial y
+  limpio, no una trama. ✅
+- **Interfaz del anime (STATUS)**: líneas de **circuito** violeta neón
+  `#8C1BF8`, finas y ramificadas como raíces, sobre negro. ✅
+- **Grietas de sombra**: líneas finas irregulares que brillan sobre armadura
+  negra mate. Son distintas de las del Sistema (rectas). ✅
+- **Humo negro** alrededor de cada soldado (`Igris_2.jpg`, `Beru_CV.jpg`,
+  el render del ejército). ✅
+- **Tramas de manga**: no se usan (webtoon a color con degradados). ✅
+- **Emblemas**: el de gremio dorado en la fachada del juego (punto 11). Los
+  emblemas de gremios están en la biblia 03. ⚠️
+
+**Equivalentes libres (licencia comprobada)**
+- **«Free UI Hologram Interface»**, OpenGameArt, autor Wenrexa, **CC0**:
+  paneles y marcos de holograma en PNG · [enlace](https://opengameart.org/content/free-ui-hologram-interface)
+  · licencia en la página ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)) · ✅
+- **«Magic Circle»**, CLIP STUDIO ASSETS, **gratis**: para el círculo de la
+  extracción de sombras y los portales · [enlace](https://assets.clip-studio.com/en-us/detail?id=2006760) · ✅
+- **«Free Smoke PS Brushes»**, MyPhotoshopBrushes, **libre para uso
+  comercial**, formato .ABR: el humo de los soldados ·
+  [enlace](https://myphotoshopbrushes.com/resources/3843/free-smoke-ps-brushes) · ✅
+- **Metal grabado** («Metal Armor Pattern 001», CC0) y **líneas de
+  velocidad** («Manga Speedlines»): encontrados por la biblia 03. ⚠️ no
+  comprobados aquí.
+
+**Las capas completas de una lámina** (3D del punto 3 + reales del punto 4 +
+2D de aquí): modelo de sombra CC BY → grietas con emisión → humo 2D →
+ventana holograma CC0 o el modelo 3D → grano.
+
+## 20 · Gustos y detalles
+
+- **No existe un *databook* oficial** con altura, peso o comida favorita. Las
+  cifras que circulan son de fans. Las fichas de Igris, Beru, Iron, Bellion y
+  Kaisel en la wiki del anime y en la del juego
+  ([solo-leveling-arise.fandom.com](https://solo-leveling-arise.fandom.com))
+  tienen vacíos esos campos. ✅ (biblia 03 con dos fuentes + revisión propia)
+
+| Personaje | Dato | Fuente |
+|---|---|---|
+| Jinwoo | 23-24 años; cumpleaños **8 de marzo** | [AniList](https://anilist.co/character/129928) ⚠️ una fuente |
+| Jinwoo | lleva siempre dos dagas; ropa oscura | wiki y arte oficial ✅ |
+| Jinwoo | a sus sombras las **nombra él** tras cada extracción, casi como una adopción | fichas de la wiki ⚠️ patrón, no regla escrita |
+| Cha Hae-In | 23 años; huele el maná; odia el olor de los cazadores salvo el de Jinwoo | [AniList](https://anilist.co/character/138789) ✅ |
+| Beru | afición: **ver doramas coreanos de época** | wiki ✅ |
+| Beru | su nombre viene de Bernard Werber, autor de *Las hormigas* | wiki ⚠️ |
+| Beru | quiere a Suho, el hijo de Jinwoo; casi llora al saber que lo olvidará | wiki ⚠️ sólo webtoon |
+| Igris | trae la cabeza de cada enemigo como trofeo o informe | wiki ✅ |
+| Igris | le importa la educación: quiere que Suho vaya a la escuela | wiki ⚠️ sólo webtoon |
+| Igris | ayudó a Jinwoo a estudiar para sus exámenes | wiki ⚠️ |
+| Iron | se pasa en combate por orgullo; odia que su «Provocación» falle | wiki ⚠️ |
+| Bellion | quiere que Suho aprenda a pelear; feliz cuando el niño lo vence | wiki ⚠️ sólo webtoon |
+| El Sistema | no tiene gustos: es un programa de Kandiaru hecho para Ashborn | wiki ⚠️ |
+
+- ⚠️ **Sin datos** de comida favorita, altura ni cumpleaños de ninguna sombra.
+
