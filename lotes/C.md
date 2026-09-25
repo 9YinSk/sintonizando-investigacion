@@ -3,8 +3,15 @@
 Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude/trusting-davinci-274hb9`
 (parte de `claude/peaceful-maxwell-fklpkp`, juntada con los lotes A y B).
 
-## Estado (22:15 UTC)
+## Estado (02:50 UTC del 25)
 
+Desde las 02:45 lo lleva la central: sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb
+· rama `claude/lote-a-series-inxhbf` (la cuenta anterior paró a las 22:59 del 24).
+
+- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz relanzada (tanda corta: caras de
+  miedo, vergüenza y rabia del punto 13); luego su redactor.
+- 24 Assassination Classroom: 4 investigadores (Sonnet) en marcha desde las 02:45.
+- 25-30: datos recolectados; faltan sus equipos.
 - **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
@@ -13,8 +20,6 @@ Sesión: https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV · rama `claude
   197 referencias, 137 webs, 134 minutos citados, 55 hex, 3 hojas.
 - **22 Violet Evergarden: COMPLETA y subida.** 2396 líneas, ✅24 ⚠️8 ❌0,
   168 referencias, 116 webs, 270 minutos citados, 34 hex, 3 hojas.
-- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz en su 2ª tanda; falta
-  el redactor.
 - Datos recolectados (gratis) para 19-30 (lote C entero).
 
 ## Avisos para el dueño
