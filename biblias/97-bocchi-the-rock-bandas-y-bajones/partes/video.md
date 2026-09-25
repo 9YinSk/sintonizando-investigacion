@@ -75,10 +75,59 @@ parece correcto aunque la fuente sea una resubida de fan):
   plana sin relleno de color (sólo contorno gris) · `&t=14` a `&t=20` · ✅
 - Hoja completa: `/tmp/.../op1/hoja_01.jpg`, `indice.json`.
 
-**Ending y resto de temas**: no encontramos vídeo del ending (ni «Distortion!!»
-ni «Karakara») en Dailymotion ni Internet Archive con contenido real (las
-búsquedas devolvieron resultados sin relación, ver Bitácora). Las letras y la
-ficha de audio oficial del ending sí están confirmadas en el punto 9. ⚠️
+**Ending 1, «Distortion!!», completo y real** — conseguido en la segunda tanda:
+AnimeThemes seguía caído (522/timeout, dos intentos más), pero
+`web.archive.org` sí había archivado el `.webm` original de AnimeThemes
+(`v.animethemes.moe/BocchiTheRock-ED1.webm`, snapshot del 2024-04-12) —
+descarga directa (no vía `fotogramas.py`, que no reconoce URLs de Wayback:
+se bajó con Python y se le pasó el archivo local), 16.9 MB, mirado entero
+cada 2 s (45 fotogramas, 0:00-1:29) ·
+https://web.archive.org/web/20240412231907id_/https://v.animethemes.moe/BocchiTheRock-ED1.webm
+· ✅ (el propio vídeo trae su carátula «『Distortion!!』結束バンド» en el
+minuto 0:46, que coincide con la portada del single en MusicBrainz y en la
+wiki):
+- **Mismo estilo de recorte de papel que el opening** (ver arriba): fondo de
+  color liso por escena (rosa→amarillo→azul→rojo→morado), Bocchi chibi de
+  cartulina tocando la guitarra, un perrito mascota de papel troquelado ·
+  ejemplos en `fotograma_00012` (rosa), `fotograma_00018` (azul), `fotograma_00020`
+  (rojo, con «Nana» rotulado a mano) · 0:12-0:20
+- **Las cuatro integrantes, un panel de color por personaja** (pantalla
+  dividida en 4 franjas verticales): Bocchi de rosa con mascarilla y ojos muy
+  abiertos, asustada, guitarra rosa · Nijika de amarillo/naranja, tapándose
+  la boca con las dos manos, avergonzada · Kita de rojo, cara llorosa,
+  guitarra rosa-roja · Ryo de azul, cara inexpresiva, bajo azul-grisáceo ·
+  paleta medida con `estilo.py`: `#FDFDFD` 48% (fondo blanco entre paneles),
+  `#EC7083` 15%, `#F6C3D5` 15%, `#F8C96F` 11%, `#97BAD3` 7%, `#46709B` 5% —
+  saturación 22%, brillo 95% (paleta pastel, muy distinta a la de los
+  episodios) · `fotograma_00044.jpg`, 0:44 · ✅
+- **Vinilo girando con Bocchi chibi tocando encima**, para los créditos
+  finales, con el logo de STARRY al lado (0:36-0:42) y los créditos técnicos
+  bilingües en fondo rosa/amarillo/azul/rojo (0:12-0:32) · ✅
+- Hoja completa: `/tmp/.../ed1_distortion/hoja_01.jpg`, fotogramas sueltos
+  en alta (`fotograma_00044.jpg`, `fotograma_00046.jpg`)
+
+**Ending 2 «Karakara», 3 «Nani ga Warui» y el ending final «Korogaru Iwa,
+Kimi ni Asa ga Furu»: no se consiguió vídeo real**, a pesar de 4 vías
+distintas probadas en la segunda tanda (ver detalle completo en «No
+encontré»): Wayback no tiene esos tres `.webm` de AnimeThemes archivados
+(sólo ED1 y ED4, y el de ED4 sólo como página con reproductor, sin el
+archivo en bruto capturado); YouTube con `yt-dlp
+--extractor-args youtube:player_client=android` sí saltó el bloqueo de
+login (algo nuevo: antes daba «Sign in to confirm you're not a bot» siempre)
+pero el vídeo real (formato 18) dio **403 Forbidden** al descargar y los
+*storyboards* (plan C, con los clientes `android` y `mweb`) llegaron
+**corruptos** (bloques verdes sólidos y manchas diagonales en vez de
+fotogramas, con dos decodificadores distintos —Pillow y ffmpeg— dando el
+mismo resultado, así que no es un problema de visor); Dailymotion con los
+títulos japoneses exactos («カラカラ», «なにが悪い», «転がる岩») sólo devolvió
+los mismos tráilers y anuncios de siempre; Bilibili bloqueó la búsqueda
+(412, control anti-bot); y la wiki de Fandom sólo tiene la carátula del
+single y el audio (`.ogg`), no capturas del vídeo. ⚠️ Lo que SÍ se confirmó
+de estos tres, en texto (dos fuentes independientes en japonés,
+lisani.jp y famitsu.com, además de la wiki): «カラカラ» (ED2, ep. 4-7) tiene
+la voz de **Ryo Yamada (CV. Saku Mizuno)**, no de Kita — letra y música de
+Ikkyu Nakajima; dirección/diseño de animación del vídeo a cargo de
+**Suzuki Haruka**.
 
 **3 escenas icónicas** (además de las de arriba), de **capturas oficiales
 1080p de la wiki** (una por episodio y hasta 4-5 alternativas, `Episode_N-n.png`,
