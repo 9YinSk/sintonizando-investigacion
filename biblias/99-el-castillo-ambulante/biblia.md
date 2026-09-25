@@ -571,7 +571,7 @@ Hex medidos con Pillow (cuantización de una zona recortada) sobre fotogramas of
   - Howl, **1920×1080**, 67 favoritos, JT42 ([imagen](https://w.wallhaven.cc/full/4g/wallhaven-4g8e2e.jpg)) ✅
   - Howl tumbado, **3840×2072**, 39 favoritos, jrmnt ([imagen](https://w.wallhaven.cc/full/jx/wallhaven-jxo8ym.jpg))
   - Howl, 1920×1080, 33 favoritos, JT42 ([imagen](https://w.wallhaven.cc/full/47/wallhaven-4735ry.jpg))
-  - ⚠️ Ninguno trae autor original: sólo quien lo subió. Más en https://wallhaven.cc.
+  - ⚠️ Ninguno trae autor original: sólo quien lo subió. Más en [Wallhaven](https://wallhaven.cc).
 
 ## 17. Guía para IA de imagen y de texto
 
@@ -648,3 +648,346 @@ Hex medidos con Pillow (cuantización de una zona recortada) sobre fotogramas of
 
 - De la versión francesa (traducidas, **no son del doblaje latino**): Howl, en su pataleta, «¿de qué sirve vivir si no soy guapo?» (46:00); Calcifer, «¡Howl, para! ¡Me voy a apagar!» (48:00). Úsalas sólo como idea de tono.
 - **Puntuación:** exclamaciones para Calcifer; puntos suaves para Howl; frases con comas y remate para Sophie. Onomatopeyas del mundo: *clanc-clanc* del castillo, chisporroteo de Calcifer.
+
+## 18. Estilo de dibujo y técnica, y cómo replicarlo
+
+**De dónde sale el mundo (influencias que reconoce el equipo)** ✅ ([wiki, Production](https://ghibli.fandom.com/wiki/Howl%27s_Moving_Castle), que cita a Cavallaro 2006 y *Hayao Miyazaki Zensho* 2006):
+- Viaje a **Colmar (Alsacia)** y al castillo de **Haut-Kœnigsbourg**; miraron trabajar a sombrereros y herreros. De ahí Market Chipping y Porthaven ([foto del viaje](https://static.wikia.nocookie.net/studio-ghibli/images/9/90/Howl_Colmar.jpg)).
+- **Albert Robida** (ilustrador francés, rival de Julio Verne): mezcla de romanticismo y máquinas del futuro ([ejemplo](https://static.wikia.nocookie.net/studio-ghibli/images/9/99/Robida_Howl.jpg)).
+- **Jean Tinguely** (esculturas de chatarra que se mueven): el castillo es chatarra, pasarelas y una boca que echa vapor.
+- Patas: probaron piernas humanas; al final **patas de ave, cuatro**, porque según Suzuki era «más práctico (y barato) de dibujar».
+
+**Cómo se hizo el castillo (las máquinas)** ✅
+- El castillo pintado se **escaneaba**, se **cortaba en piezas pequeñas** y se recomponía como mosaico en **Adobe Photoshop**.
+- Las piezas se montaban sobre un **polígono base en Softimage** (3D). El bamboleo se inspiró en **una mochila llena de cacharros colgando**: asimétrico a propósito ([piezas](https://static.wikia.nocookie.net/studio-ghibli/images/2/25/Castle_Movie.jpg)).
+
+**Programa del estudio: Toonz / OpenToonz** ✅
+- Ghibli usa una versión propia de **Toonz** desde *Mononoke* para entintar, colorear y componer; esta película está en la lista ([Wikipedia](https://en.wikipedia.org/wiki/Toonz) + [Cartoon Brew](https://www.cartoonbrew.com/tech/heres-download-opentoonz-studio-ghiblis-free-animation-software-138465.html) + [SiliconANGLE](https://siliconangle.com/2016/03/21/studio-ghibli-animation-software-platform-toonz-sees-open-source-release/)).
+- Desde 2016 es libre: **OpenToonz** ([GitHub](https://github.com/opentoonz/opentoonz)). Se puede instalar.
+
+**Color y brillo (citas del *making of*)** ✅ ([Calcifer en la wiki](https://ghibli.fandom.com/wiki/Calcifer), que cita *The Art of Howl's Moving Castle*, pp. 79-80)
+- **Michiyo Yasuda** (color) probó a Calcifer con fuego verdoso y lo quitó: teñía las caras.
+- **Atsushi Okui** (imagen digital) hizo el brillo de Calcifer con tres procesos: **suavizado, transparencia y difusión** como fuente de luz.
+- **Yôji Takeshige** (dirección de arte, con **Noboru Yoshida**): rechazaron la primera casa de Porthaven por colores «demasiado apagados».
+- **Takeshi Inamura** (animación): en el paseo por el cielo Howl es «despreocupado»; ahí cambian sus expresiones para la segunda mitad.
+- Encuadre: Miyazaki va de lo concreto a lo general; usa un «*path map*» para casar el paso del personaje con el fondo ([academia.edu](https://www.academia.edu/24505389/Hayao_Miyazaki_as_Auteur_Techniques_Technology_and_Aesthetics_in_Animation)) ⚠️.
+- Fondos: **Osamu Masuyama** y **Takashi Oomori** (AniList, staff).
+
+**Cómo replicarlo en Photoshop** (propuesta con lo de arriba)
+1. Fondo: pinta a mano con pincel de acuarela o gouache, degradados suaves; capa de papel ([Paper006](https://ambientcg.com/view?id=Paper006)) en *Multiplicar* al 10-20 %.
+2. Personaje: línea fina gris muy oscura (no `#000000`), relleno plano, **una sombra** en *Multiplicar*. Colores del punto 15.
+3. Calcifer: capa de color `#D97945`, encima *Desenfoque gaussiano* + capa en *Trama* o *Sobreexponer color* con `#F59529` para el brillo; que el resplandor tiña la piedra y las caras cercanas de naranja, nunca de verde.
+4. Recortes siempre con `v3/integrar.py` (reglas del dueño).
+
+**Cómo replicarlo en Blender** (propuesta del redactor)
+1. Base: el castillo de **lsebko**, Calcifer y Cabeza de Nabo de **ncd.blueberry**, el cuarto de Howl de **waltersnchz** (CC BY, punto 3).
+2. Contorno: **Freestyle** o **Line Art** (Grease Pencil) fino y gris oscuro, grosor variable; mejor que *Solidify*.
+3. *Shader*: *toon* de dos tonos (Shader to RGB + ColorRamp *Constant*).
+4. Metal: [Metal053C](https://ambientcg.com/view?id=Metal053C), [CorrugatedSteel009](https://ambientcg.com/view?id=CorrugatedSteel009) sobre la chatarra; patas con balanceo asimétrico.
+5. Calcifer: nodo **Emission** naranja + volumen suave o *Glare* (Fog Glow) en composición; es una **luz**: que ilumine la sala.
+6. Render: Eevee con *Bloom*; luz cálida baja dentro, cielo abierto fuera.
+
+**Encuadres típicos**
+- Plano general enorme del castillo en el campo (19:40, 1:54:20): el castillo pequeño y el cielo grande = asombro.
+- Plano medio de pareja en el aire (6:40): romance.
+- Primer plano de Calcifer de frente (21:40): presentación, humor.
+- El monstruo alado con pico y garras hacia delante (1:32:10): amenaza.
+
+## 19. Texturas 2D
+
+- **Tramas de manga:** no aplica. No hay manga (viene de una novela).
+- **Grano de papel** (el soporte de los fondos pintados a mano): [Paper006](https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Paper006.jpg), CC0, 1024×1024 ✅.
+- **Patrón de ropa:** tela a cuadros para la chaqueta de Howl, [Fabric080](https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fabric080.jpg) (o Fabric060, tartán); tela lisa [Fabric030](https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fabric030.jpg) para el vestido de Sophie. CC0 ✅.
+- **Metal del castillo:** [Metal053C](https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Metal053C.jpg) (óxido y latón), CC0 ✅.
+- **Madera:** [Planks009](https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Planks009.jpg), CC0 ✅.
+- **Emblemas:** no hay escudo de grupo repetido. El símbolo que más vuelve es la **estrella de seis puntas** del hechizo y el círculo mágico bajo los pies de Howl ⚠️ (visto en fotogramas; sin ficha oficial). La bandera de Ingary sale en un acorazado, pero no encontré su descripción.
+- **Tipos impresos del mundo:** el cartel «Mut und Willenskraft» (punto 6) sirve de patrón de cartel.
+- ⚠️ **Pinceles de Photoshop «estilo Ghibli» con licencia libre:** no los encontré; sólo hay de pago.
+- Junto con el 3D (punto 3) y las texturas reales (punto 4): capas de papel, tela, metal y madera cubiertas; falta sólo un pincel libre.
+
+## 20. Gustos y detalles
+
+Ghibli **no publica** fichas con cumpleaños, altura o grupo sanguíneo. El artbook es de bocetos y entrevistas. Se buscó en AniList, Ghibli Wiki, MyAnimeList y Doblaje Wiki: ninguno lo tiene. No se inventa.
+
+| Personaje | Edad | Lo que ama o hace | Lo que odia o teme | Objeto que siempre lleva | Cómo se ve a sí mismo |
+|---|---|---|---|---|---|
+| **Howl** | 27 en la novela; «desconocida» en la película ✅ ([MyAnimeList](https://myanimelist.net/character/507/Howl)) · nacido en 1873 según cálculo de fans ⚠️ | su imagen: se tiñe el pelo, se viste vistoso | la guerra y que el Rey lo obligue a pelear ✅ | colgante al cuello ⚠️ | obsesionado con su aspecto; un fallo lo hunde ✅ |
+| **Sophie** | 18 ✅ | coser sombreros; limpiar (limpia el castillo entero sin que se lo pidan) ✅ | — | **sombrero de paja con cinta roja** (anciana) ✅ (tráiler VOSE [0:15](https://www.dailymotion.com/video/x927qmu?t=15)) | «sencilla», nada especial ✅ |
+| **Calcifer** | — | su «comida»: leña y carbón; cuanto más come, más grande y fuerte ✅ | estar atado a la chimenea («soy el esclavo de Howl») ✅; apagarse | — | un demonio «con un gran poder» (así se presenta) |
+| **Bruja** | — | la juventud y la belleza, con magia oscura ✅ | la luz del sol: viaja en un palanquín con cortinas oscuras ✅ | sombrero negro con plumas | — |
+| **Markl** | niño | parecer mayor: barba postiza de mago ⚠️ | — | el disfraz de mago | — |
+
+- Comida de la película: **tocino y huevos** que Howl fríe sobre Calcifer (punto 12). Lettie trabaja en la pastelería Cesari's.
+- ⚠️ Cumpleaños y alturas: no los encontré en ninguna fuente.
+
+## 21. Por qué la aman y escenas que hacen llorar
+
+**Datos:**
+- **Taquilla:** unos 235 millones de dólares en el mundo (190 sólo en Japón); de las películas japonesas más taquilleras ✅ ([Wikipedia en español](https://es.wikipedia.org/wiki/El_incre%C3%ADble_castillo_vagabundo) + inglés).
+- **Premios:** nominada al **Óscar** a mejor película animada (ganó *Wallace & Gromit*); **Osella** en Venecia (técnica); **Premio del Público en Sitges** ✅ ([lista de premios](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Howl%27s_Moving_Castle)).
+- **Crítica:** 87 % en Rotten Tomatoes; Roger Ebert, «una magnífica obra maestra que es un canto a la vida»; *Sight & Sound*, entre las mejores de 2005 ⚠️ (los tres por Wikipedia).
+- Miyazaki ha dicho que es **su película favorita** de las suyas ✅ ([CBR](https://www.cbr.com/howls-moving-castle-hayao-miyazaki-film-depict-pacifism/) + [Hornet](https://hornet.com/stories/howls-moving-castle-anti-war/)).
+
+**Por qué conecta (razones concretas):**
+- **La belleza no depende del aspecto.** Sophie se libera siendo vieja; Howl encuentra sentido cuando deja de huir y de mirarse al espejo ⚠️ (reseñas varias, patrón repetido).
+- **La música:** «El carrusel de la vida» se cita como la pieza más emocionante de Ghibli ✅.
+- **Familia encontrada** (75 % en AniList): un mago, una anciana, un niño, un fuego, un perro y un espantapájaros viviendo juntos.
+- **Con quién se identifica el público:** con **Calcifer**, no con la protagonista: chispeante, fácil de reconocer, lleva el corazón de la historia y es más profundo de lo que parece ✅ (CBR + 2.º en las tres encuestas).
+
+**Escenas que hacen llorar o gritar** (minuto de la película, punto 2):
+
+| Escena | Min | Qué pasa y por qué duele | Música | Cómo está dibujada |
+|---|---|---|---|---|
+| **El chico que se tragó una estrella** | [1:46:10-1:47:10](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6370) | Sophie cruza la puerta al pasado y ve a Howl niño tragarse a Calcifer. Les grita que la busquen en el futuro. Por eso Howl, al principio, le dijo que llevaba tiempo buscándola: su amor es un **bucle en el tiempo** ([Looper](https://www.looper.com/1345713/howls-moving-castle-ending-explained/) + [análisis OU](https://sites.create.ou.edu/lexielliott/?p=98)) ✅ | pista 25 「星をのんだ少年」 ✅ | noche casi negra `#0A0A08` con estrellas teal `#1E5356`, el único fotograma plano medido |
+| **El corazón devuelto** | [1:50:10-1:51:10](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6610) | Sophie pone el corazón (la llama) en el pecho de Howl y lo revive | ⚠️ sin pista confirmada | manos que brillan azul en la cara de Sophie |
+| **Sophie destroza el castillo** | [1:38:20-1:39:20](https://archive.org/details/howl-no-ugoku-shiro_202602?t=5900) | lo rompe para salvar a Calcifer e ir a por Howl, con el pelo ya blanco | ⚠️ | humo y ruinas `#0F1A24` `#382B33` |
+| **El final en el campo en flor** | [1:54:20-1:56:00](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6860) | el castillo con alas vuela sobre el valle; Calcifer libre; Howl y Sophie se besan. «Cierra los hilos emocionales antes que los políticos» (Looper) | **«La promesa del mundo»**, cantada por Chieko Baishō ✅ | verdes `#526F40`, cielo `#0A4D65`, luz de día |
+| **El paseo por el cielo** (de gritar de emoción) | [6:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=400) | Howl la rescata caminando por el aire | pista 3 «Paseo aéreo» ⚠️ | cielo abierto, nubes, la imagen de la película |
+| **El moco verde** (de reír) | [46:00](https://archive.org/details/howl-no-ugoku-shiro_202602?t=2760) | la pataleta de Howl por su pelo | — | la baba verde llena el cuarto |
+
+- ⚠️ **Reacción de la gente:** no encontré un hilo de Reddit con votos sobre una escena de llorar (Arctic Shift sin resultados para «cry»). Lo que sí tiene votos: el desayuno (1201) y el bordado (4159), punto 12.
+
+## 22. Fan dubs y comunidad hispana
+
+| Qué | Canal | Datos | Enlace | |
+|---|---|---|---|---|
+| Fandub de «Sophie conoce a Howl» | BAT-ZUÑIGA2001 | 641 vistas, 22-ene-2024, 1:17 | https://www.youtube.com/watch?v=sQfuJRp9Pek | ✅ (`yt-dlp`) |
+| *Cover* en español latino de «Sekai no Yakusoku» (tema final) | Kelly Pong :3 | 17 487 vistas, 9-ago-2019, 4:21 | https://www.youtube.com/watch?v=yd981lnpdCM | ✅ |
+| Comparación doblaje ZIMA vs. Wild Bunch | Doblajes Español Latino | **131 048 vistas**, 23-dic-2020, 3:48 | https://www.youtube.com/watch?v=44KtNqzmYTg | ✅ |
+| Demo de doblaje de Howl (TikTok, España) | @pedroduranvoz | «es un personajazo» | https://www.tiktok.com/@pedroduranvoz/video/7334438015311367457 | ⚠️ |
+| *Cover* en flauta dulce con notas | AllisonEnlt11770067 | 13:53, 47 vistas | https://www.dailymotion.com/video/x5w940n | ⚠️ |
+
+- La comparación de doblajes es lo que más vistas tiene: al público hispano **le interesa el choque ZIMA / Wild Bunch**. Buen tema para #general-doblaje o un reto.
+- *Hashtags* activos en TikTok (sin poder abrirlos): `#castillo-vagabundo-doblaje-original`, `#el-castillo-ambulante-castellano`, `#voz-de-howl-en-español` ⚠️.
+- ⚠️ **Parodias y memes hispanos dedicados:** no los encontré (búsqueda «parodia El Castillo Ambulante español latino»). No es lo mismo que «no existen».
+
+## 23. Colaboraciones y cruces
+
+- **Parque Ghibli, Valle de las Brujas** (abierto el 16-mar-2024): **réplica del castillo a tamaño real** (4-5 pisos), se recorre por dentro y por fuera; también la sombrerería de Sophie («Hatter's Millinery»), carrusel, Máquina Voladora y Torre de los Aviadores ✅ (Anime News Network, reportaje del 3-jun-2024 ([portada](https://www.animenewsnetwork.com/); la parte no dejó el enlace completo) + [blooloop](https://blooloop.com/theme-park/news/ghibli-park-howls-moving-castle-valley-of-witches/)) · [foto 1200×600](https://blooloop.com/media-library/howl-s-moving-castle-ghibli-park.jpg?id=56472662&width=1200&height=600). Sirve de referencia 3D real del castillo.
+- **Loewe × Studio Ghibli** (2-feb-2023): tercera y última cápsula (tras Chihiro y Totoro), de Jonathan Anderson. Bolsos *Puzzle*, *Flamenco* y *Amazona* con Sophie, Howl, Calcifer, Markl, Heen, Nabo y la Bruja bordados o en piel; **vela de Calcifer** (incienso, pachulí, avellana tostada, cardamomo); fotos de Juergen Teller; *pop-up* en Selfridges con «Calcifer's Kitchen» ✅ (Fashionista, Wallpaper, PurseBlog y Dazed) · [imagen 1540×944](https://cdn.mos.cms.futurecdn.net/UQLdRs5CXHKahdwZTVVrLV-1540-80.jpg).
+- **Figura oficial:** el castillo mecánico con **patas que caminan**, en Maison Ghibli ✅ ([imagen 800×800](https://www.maison-ghibli.com/28813-large_default/figurine-mecanique-chateau-ambulant-le-chateau-ambulant.jpg)). Buena referencia de volumen para Blender.
+- **Ediciones de coleccionista:** Blu-ray SteelBook de GKIDS (12-may-2020) y edición de Target con tarjetas de arte (24-dic-2023) ✅.
+- **Cosplay:** Howl con una «llama» de Calcifer hecha a mano, joyas y pendiente verde fieles (Reddit, Jiimboart, recogido por ScreenRant) ✅ · [imagen 1200×675](https://static0.srcdn.com/wordpress/wp-content/uploads/2024/01/img_7186.jpeg). Sophie con vestido cosido a mano (CBR) ⚠️.
+- **Café temático** en Nagano (Japón), visto en redes ⚠️ (sin nombre ni dirección confirmados).
+- **Fan art de cruce:** Sophie con Kiki (bruja de *Kiki*), 3000×4000 (punto 3).
+- **No encontré:** colaboraciones con Fortnite, gachas ni comida rápida (búsquedas en inglés y japonés, 「ハウルの動く城」+「コラボ」).
+
+## 24. Obras parecidas
+
+**La trilogía de la novela («The Castle Series»)** ✅ ([Castle in the Air](https://en.wikipedia.org/wiki/Castle_in_the_Air_(novel)) + [House of Many Ways](https://en.wikipedia.org/wiki/House_of_Many_Ways) + [howlscastle.fandom.com](https://howlscastle.fandom.com/wiki/Castle_Series))
+- *Howl's Moving Castle* (1986) → *Castle in the Air* (1990, Abdullah; salen Sophie y Howl) → *House of Many Ways* (2008, salen Sophie, Howl y Calcifer). Sólo la primera tiene película.
+
+**Recomendadas por usuarios de AniList** (votos): *El viaje de Chihiro* (804), *Kiki* (319), *El castillo en el cielo* (158), *La princesa Mononoke* (150), *Nausicaä* (101), *El recuerdo de Marnie* (81), *El chico y la garza* (77), *El viento se levanta* (57), *Princess Jellyfish* (39), ***The Ancient Magus' Bride*** (37), *Porco Rosso* (33), *Suzume* (33), *Violet Evergarden* (32), *Ponyo* (32), ***Witch Hat Atelier*** (26) ✅ ([AniList](https://anilist.co/anime/431)). Las dos en negrita comparten el tono «magia doméstica, aprendiz y maestro raro».
+
+**Listas de prensa** ✅ ([CBR](https://www.cbr.com/best-anime-movies-like-howls-moving-castle/) · [Collider](https://collider.com/movies-like-howls-moving-castle/) · [SlashFilm](https://www.slashfilm.com/679249/movies-like-howls-moving-castle-that-are-definitely-worth-watching/))
+- Dentro de Ghibli: *Chihiro*, *El castillo en el cielo*, *Kiki*, *Totoro*, *Ponyo*, *Mononoke*.
+- Fuera: ***Las trillizas de Belleville*** (Francia, *steampunk* retro, dos nominaciones al Óscar) ⚠️ — la comparación menos obvia, útil para un *look* que no sea «Ghibli genérico». También *Song of the Sea* y *Okko's Inn* ⚠️.
+
+**Influencias que reconoce el equipo:** Albert Robida, Jean Tinguely y Colmar (punto 18).
+
+**Otras láminas del servidor que se parecen (para no repetir ideas):**
+- **98 El viaje de Chihiro** ya propone #🪪 presentaciones (el contrato), #🎫 soporte (la ficha de baño) y #👋 bienvenidas (el farolillo del puente). Por eso esta biblia va a otros canales.
+- 100 *Mononoke*, 101 *Your Name* y 102 *El estilo Ghibli en general* aún no tienen `biblia.md` (sólo `partes/`). Revisarlas cuando existan.
+- Una búsqueda rápida del redactor encuentra esos mismos canales en conceptos de otras biblias: #guia (24 *Assassination Classroom*, 117 *God of War*), #comandos-y-sorteos (12 *Kakegurui*) y #arte (17 *Arcane*, 118 *Hellblade*). Sin revisar a fondo. Sólo es una nota: las biblias son generales y un choque no bloquea nada.
+
+## 25. El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ ([película](https://ghibli.fandom.com/wiki/Howl%27s_Moving_Castle) + [Ingary](https://ghibli.fandom.com/wiki/Ingary) + [el castillo](https://ghibli.fandom.com/wiki/Howl%27s_Castle))
+1. **Ingary** es un reino con rey, primer ministro y ministro de defensa; tiene vapor (tranvías, coches, barcas voladoras, acorazados) y magos de corte al mando de **Suliman**.
+2. La magia funciona por **pactos**, casi siempre con demonios: das algo vital (un corazón) a cambio de poder. Romperlo puede liberar o destruir a los dos.
+3. La puerta del castillo tiene un **dial de colores junto al pomo**: cada color abre una ciudad distinta al instante.
+4. Las identidades cambian: Howl usa alias (Pendragon, Jenkins); Sophie cambia de edad; el espantapájaros es un príncipe.
+5. Ingary está en guerra con un reino vecino por un príncipe desaparecido. Las máquinas de vapor **no pueden con la magia**; la guerra acaba de golpe por un acuerdo entre ese príncipe y Suliman.
+
+**La máquina central: la puerta de colores** ✅ ([Howl's Castle](https://ghibli.fandom.com/wiki/Howl%27s_Castle) + tráiler [1:10](https://www.dailymotion.com/video/x88np44?t=70))
+
+| Color | Antes de mudarse | Después de mudarse |
+|---|---|---|
+| Verde | el Páramo | el Páramo |
+| Azul | Porthaven | Porthaven |
+| Rojo | Kingsbury | jardín secreto de Howl (rosa en la película) |
+| Amarillo | — | Market Chipping |
+| Negro | ⚠️ ver nota | ⚠️ ver nota |
+
+- ⚠️ **El negro no coincide entre partes.** `video.md` (tráiler + wiki): el negro lleva al **frente de batalla**. `texto.md`: «el portal de Howl (Gales)», pero Gales es del libro, no de la película. En la lámina, el negro = «adonde va Howl de noche», sin nombrarlo.
+
+**La historia por arcos** ✅ (sección «Plot» de la wiki, con el minuto visto en la película)
+1. **Encuentro** — Sophie conoce a Howl ([6:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=400)); la Bruja la maldice ([14:20](https://archive.org/details/howl-no-ugoku-shiro_202602?t=860)).
+2. **La maldición** — huye al Páramo, entra al castillo ([19:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1180)), pacta con Calcifer ([30:00](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1800)), conoce a Markl.
+3. **La decisión** — el Rey llama a Howl a la guerra; Sophie va a Kingsbury haciéndose pasar por su madre ([52:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=3160)).
+4. **Suliman** — la Bruja pierde su poder; Sophie rejuvenece un momento defendiendo a Howl; Suliman intenta atraparlo.
+5. **Amor en la guerra** — Howl se transforma para pelear ([1:31:50](https://archive.org/details/howl-no-ugoku-shiro_202602?t=5510)); bombardeo; Sophie destroza el castillo ([1:38:20](https://archive.org/details/howl-no-ugoku-shiro_202602?t=5900)).
+6. **El chico que se bebió las estrellas** — Sophie ve el pacto ([1:46:10](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6370)), devuelve el corazón ([1:50:10](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6610)), besa al espantapájaros, que es el príncipe, y acaba la guerra ([1:51:50](https://archive.org/details/howl-no-ugoku-shiro_202602?t=6710)).
+
+**Vocabulario y símbolos que un fan reconoce**
+- **Ingary** (por la isla sueca Ingarö) ✅ · **el Páramo** (*The Waste*) · **Market Chipping**, **Porthaven**, **Kingsbury**.
+- **Hijos de las estrellas** (星の子): estrellas fugaces vivas; Calcifer fue una ⚠️.
+- **Cabeza de Nabo** (かかしのカブ, *Kakashi no Kabu*) = el Príncipe Justin.
+- **El anillo mágico**: regalo de Howl a Sophie, brilla y la guía al castillo y al corazón de Howl ([modelo 3D](https://sketchfab.com/3d-models/none-8cbdfa9c498a4d1a9e8c4995aec67d3a)).
+- **Las botas de siete leguas** ⚠️ (sin página propia en la wiki).
+- **Los hombres mancha** de la Bruja (*blob men*).
+- **Acorazados de Ingary**, inspirados en los franceses anteriores al *dreadnought* (casco *tumblehome*, p. ej. el *Charles Martel*) ✅ ([Battleship](https://ghibli.fandom.com/wiki/Battleship) · [imagen](https://static.wikia.nocookie.net/studio-ghibli/images/e/eb/Returnee.jpg)).
+- **El cartel «Mut und Willenskraft»** y los **panfletos** (punto 6); la protesta en Kingsbury ([imagen](https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Protests.png)).
+- **Un campo de flores bajo la sombra de las máquinas de guerra**: la imagen que repite la prensa para los «campos» ✅.
+
+**La guerra, leída**
+- Miyazaki, pacifista, empezó a adaptarla durante la invasión de Irak de 2003 y metió la guerra, que no estaba en la novela ✅ (CBR + Hornet).
+- Lectura académica: Howl, objetor de conciencia; Sophie, el Artículo 9; Calcifer, las Fuerzas de Autodefensa; Suliman, EE. UU. ([ejcjs, Akimoto](https://www.japanesestudies.org.uk/ejcjs/vol14/iss2/akimoto.html)) ⚠️ interpretación, no dicho por Miyazaki.
+
+## Las 3 hojas de contacto
+
+Hechas por la parte de imagen con Pillow (fotogramas de ghibli.jp y de la wiki). Miradas por el redactor. Todas pesan menos de 300 KB.
+
+**`hojas/personajes_01.jpg`** (9)
+1. Sophie joven y Howl en el paseo por el cielo ([howl005](https://www.ghibli.jp/gallery/howl005.jpg)) — pareja, colores medidos, concepto A.
+2. Calcifer en la chimenea, con dos figuras talladas a los lados ([howl012](https://www.ghibli.jp/gallery/howl012.jpg)) — **concepto B**.
+3. La Bruja de cerca — cara y joyas.
+4. La Bruja y Sophie anciana en la escalera del palacio, con Heen ([howl030](https://www.ghibli.jp/gallery/howl030.jpg)) — vestido azul medido.
+5. Cabeza de Nabo, Markl y Heen en la colina ([howl035](https://www.ghibli.jp/gallery/howl035.jpg)) — grupo, campos.
+6. Markl de cerca, capucha azul.
+7. Howl con plumas negras abraza a Sophie de pelo plateado ([howl040](https://www.ghibli.jp/gallery/howl040.jpg)) — magia.
+8. Sophie joven cosiendo en la sombrerería ([howl001](https://www.ghibli.jp/gallery/howl001.jpg)) — **concepto C**.
+9. Rotulada «Bruja en cama castillo». ⚠️ A mi vista es **Howl en su cama y Sophie anciana al lado**, en el cuarto lleno de amuletos ([howl025](https://www.ghibli.jp/gallery/howl025.jpg)). Corregir el rótulo si se reimprime.
+
+**`hojas/fondos_01.jpg`** (9)
+1. Market Chipping, valle y montañas — pleno día.
+2. Puerto de Porthaven con banderines.
+3. El Páramo al anochecer.
+4. Reja dorada del palacio de Kingsbury.
+5. Colinas verdes y tejados rojos — **campos**.
+6. Desfile militar — máquinas de guerra.
+7. El baño del castillo, tuberías y vapor ([howl020](https://www.ghibli.jp/gallery/howl020.jpg)).
+8. Sophie de pelo blanco volando al atardecer ([howl045](https://www.ghibli.jp/gallery/howl045.jpg)).
+9. El castillo por fuera — concepto A (vista general).
+
+**`hojas/colaboraciones_01.jpg`** (5)
+1. Campaña Loewe × Ghibli 2023 (bolso naranja con Calcifer).
+2. El castillo a tamaño real del Parque Ghibli — referencia 3D.
+3. Figura mecánica oficial del castillo.
+4. Portada del Blu-ray GKIDS — Sophie **de verde**, Howl con la chaqueta rosa y azul.
+5. Cabeza de Nabo y Sophie anciana en la colina al atardecer (ghibli.jp).
+
+Banco extra (fuera del repositorio): `herramientas/referencias/el-castillo-ambulante/hoja_01.jpg` y `hoja_02.jpg`, 52 imágenes de la wiki con `indice.json`.
+
+## 3 conceptos de lámina
+
+La película no tiene canal. Propongo tres canales distintos a los de Chihiro (98). Los tres usan un **objeto real en un sitio real** que se puede hacer en Blender, y cada uno a un personaje distinto: el favorito (Howl), el secundario más querido (Calcifer) y la protagonista (Sophie). Recortes siempre con `v3/integrar.py`; textos cortos, sin «·», «—» ni paréntesis.
+
+### Concepto A · #🗺️ guia: «La puerta de colores» ⭐ recomendado
+- **Objeto y sitio.** La **puerta del castillo con el dial de colores junto al pomo** (punto 25; tráiler [1:10](https://www.dailymotion.com/video/x88np44?t=70)), vista desde dentro del castillo. Madera vieja ([Planks009](https://ambientcg.com/view?id=Planks009)), herrajes de metal oxidado ([Metal053C](https://ambientcg.com/view?id=Metal053C)), dial de latón con cinco colores pintados. Todo modelable en Blender.
+- **Por qué encaja.** El canal es «el mapa del servidor». La puerta es el mapa del castillo: giras el dial y sales a otro sitio.
+- **Personaje.** **Howl**, el favorito, de pie junto a la puerta, relajado, una mano en el dial y la chaqueta sobre los hombros. Pose H2 ([29:00](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1740)); cara y colores de `personajes_01.jpg` n.º 1 ([howl005](https://www.ghibli.jp/gallery/howl005.jpg)): chaqueta rosa `#D5818E`, pelo `#EFD49F`.
+- **Cómo habla.** Nada de burbuja: una **etiqueta de papel colgada del pomo** con su frase, en **IM Fell English**. Voz de Howl, tranquila, como «No te asustes».
+- **Dónde va cada texto.**
+  - **Chapa de latón** sobre el marco: «guia» y debajo «El mapa del servidor».
+  - Junto a cada color del dial, una **etiqueta pintada** con una etiqueta del foro: verde (el Páramo, donde empieza todo) → **Primeros pasos**; azul (Porthaven, el puerto) → **Roles y zonas**; amarillo (Market Chipping, el oficio) → **Doblaje**; rojo (Kingsbury, la magia de la corte) → **Bots y comandos**; negro (adonde va Howl de noche) → **Si te atascas**.
+  - **Normas**: grabado en la misma chapa, abajo, como regla de la casa.
+  - Etiqueta del pomo, Howl: «Gira el dial. Cada hilo responde una pregunta.» y «¿No lo encuentras? Usa el buscador. No te asustes.»
+- **Cómo no queda plano.** La luz naranja de Calcifer (`#D97945`) entra desde la izquierda y calienta la madera; la puerta está **entreabierta** y por la rendija entra luz de día de los campos (`#97AB46`, `#DDDACE`). Delante, desenfocados, el borde de la chimenea y unas hierbas colgando. Detrás de Howl, la penumbra del castillo (`#16120F`).
+- **Lámina 2** si hace falta: el dial en grande con la pregunta de cada hilo (hay 14).
+
+### Concepto B · #🤖 comandos-y-sorteos: «La chimenea de Calcifer»
+- **Objeto y sitio.** La **chimenea de piedra** del castillo con sus dos figuras talladas (`personajes_01.jpg` n.º 2), una **pila de leños** y, en el suelo, el **sombrero de paja de Sophie** lleno de papelitos. Paleta del sitio ([21:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1300)): `#16120F` `#68342D` `#89533C` `#D97945`.
+- **Por qué encaja.** «El castillo funciona gracias a mí», dice Calcifer. Los bots mueven el servidor como él mueve el castillo. Los comandos son su leña; los sorteos se sacan del sombrero.
+- **Personaje.** **Calcifer**, el secundario más querido (2.º en las tres listas). Pose C1, cara entera entre los troncos, ojos muy abiertos, de frente ([21:40](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1300); [howl012](https://www.ghibli.jp/gallery/howl012.jpg)). Llama `#EB4825` a `#F59529`, brillo suave, nunca verde.
+- **Cómo habla.** Una **hoja de papel clavada en la repisa**, algo ondulada por el calor, en **IM Fell English**. Voz de Calcifer: exclamaciones, se queja y presume.
+- **Dónde va cada texto.**
+  - Tallado en la piedra del dintel: «comandos y sorteos».
+  - Hoja de la repisa, Calcifer: «¡El servidor funciona gracias a mí! Bueno, a los bots.» y «Echa aquí los comandos. En los demás canales, no.»
+  - En los **leños**, a tiza, los comandos de cada bot. ⚠️ El inventario no dice qué comandos hay: los pone el staff.
+  - En el sombrero: «¿Sorteo? Sale del sombrero.»
+- **Cómo no queda plano.** Calcifer es la única luz: ilumina de abajo arriba la piedra y deja el resto en sombra honda. Delante, los leños y el sombrero, un poco desenfocados; detrás, las figuras talladas y el humo. Chispas pequeñas entre Calcifer y la cámara.
+- Si se quiere tono de humor: pose C3 ([28:00](https://archive.org/details/howl-no-ugoku-shiro_202602?t=1700)), Calcifer aplastado bajo la sartén con tocino y huevos.
+
+### Concepto C · #🎨 arte: «La mesa de la sombrerería»
+- **Objeto y sitio.** La **mesa de trabajo de la sombrerería Hatter** en Market Chipping ([howl001](https://www.ghibli.jp/gallery/howl001.jpg); `personajes_01.jpg` n.º 8): sombreros, cintas, flores de tela, cajas de sombrero. Paleta del sitio ([2:58](https://archive.org/details/howl-no-ugoku-shiro_202602?t=178)): `#472F22` `#60462C` `#88755F` `#A6A88B`; madera [Wood095](https://ambientcg.com/view?id=Wood095).
+- **Por qué encaja.** Sophie es artesana: cada sombrero es una pieza, y cada pieza lleva su etiqueta. Al fandom le encanta la artesanía de la película (el bordado del castillo, 4159 votos).
+- **Personaje.** **Sophie joven**, de verde (`#689288`), ajustando un sombrero con las dos manos, concentrada. Pose S1 ([2:58](https://archive.org/details/howl-no-ugoku-shiro_202602?t=178)).
+- **Cómo habla.** Un **letrero de tienda** pintado y una **nota de pedido** de papel sobre la mesa, en **IM Fell English**; el nombre del canal en el letrero con **Cormorant Garamond**. Voz de Sophie: práctica y directa.
+- **Dónde va cada texto.**
+  - Letrero de la ventana: «arte» y «Dibujo, ilustración, diseño y fanart».
+  - Nota de pedido, Sophie: «Un hilo por pieza o por serie.» y «¿Aceptas encargos? Ponle su etiqueta.»
+  - Las **10 etiquetas del foro** en etiquetas de cartón atadas con cinta a los sombreros: Dibujo, Digital, Fanart, Miniatura, Diseño, Edit o AMV, Boceto, Proceso, Terminado, Acepto encargos. Si saturan, **lámina 2**: las cajas de sombrero apiladas, una etiqueta en cada caja.
+- **Cómo no queda plano.** Luz de ventana desde la izquierda, en haces cálidos con polvo; sombreros de colores **delante y desenfocados** (como en howl001); Sophie en medio; al fondo, la pared de flores de tela.
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias · ❌ no hecho. Límites de esta obra: es una **película** (no hay capítulos, *opening* ni *ending* semanal), viene de una **novela** (no hay manga ni globos) y **no tiene videojuego**. La película sí se vio entera (copia francesa de Internet Archive). YouTube y TikTok piden iniciar sesión.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 Arte oficial variado | ✅ | 50 fotogramas oficiales de ghibli.jp (1920×1038 medidos), artbook, póster inglés, Blu-ray GKIDS, *key visual* de grupo, AniList y 52 imágenes de la wiki. No hay tomos ni juego; cartones de cuenta atrás y páginas del artbook no encontrados |
+| 2 Fotogramas de escenas icónicas | ✅ | 16 escenas con minuto y enlace `?t=` en 1920×1036, vistas en la película; 12 cruzadas con la wiki o el tráiler |
+| 3 Fan art y 3D con licencia | ✅ | 5 modelos Sketchfab CC BY con autor; fan art de Safebooru con tamaño y autor; fotos CC de Openverse. Sin Howl ni Sophie en 3D libre; Poly Haven sin nada |
+| 4 Fondos, luz, paleta y texturas | ✅ | 12 sitios con minuto, luz y paleta medida con `estilo.py`; texturas CC0 de ambientCG. ⚠️ piedra de Kingsbury sin textura |
+| 5 Tipografía | ⚠️ | Logo japonés a mano de Suzuki (una fuente); logo internacional no encontrado; 7 letras libres por uso, pero sólo 3 nombradas como comprobadas con fontTools; letra de subtítulos no encontrada |
+| 6 Cómo hablan y piensan en pantalla | ✅ | Film Comic de VIZ (dos fuentes), cartel alemán, panfletos, idioma del mundo; no hay nube de pensamiento; 3 cuadros propuestos. ⚠️ texto de los panfletos ilegible |
+| 7 Personajes y popularidad | ✅ | AniList, MyAnimeList y ranking.net en el mismo orden (Howl, Calcifer, Sophie); Danbooru; *25ans* en Japón (una fuente). Ghibli no hace encuestas oficiales |
+| 8 Doblaje latino y frases | ✅ | Dos doblajes (ZIMA 2005 y Wild Bunch 2020) con estudio y director; Sophie, Howl ZIMA, Calcifer y la Bruja ZIMA en dos fuentes; 21 frases textuales de 8 audios oficiales. ⚠️ secundarios en una fuente; no hay clips oficiales doblados con minuto de la película |
+| 9 Música y sonido | ✅ | Disco completo en MusicBrainz y Discogs, tema principal y final (tres fuentes), pista 25 en su escena. ⚠️ las otras pistas emparejadas por título; efectos de sonido de oído |
+| 10 Vídeos | ⚠️ | Película entera y tráiler español mirados con minuto; tráiler VOSE plano a plano. Tráiler japonés (YouTube) sin ver; sin vídeo-ensayos; TikTok sin abrir |
+| 11 Videojuegos | ✅ | No hay juego oficial: comprobado en Wikipedia y descartadas dos wikis de juegos inventados. Ni no Kuni, aparte |
+| 12 Lo que ama el fandom y qué no hacer | ✅ | Moco verde (tres plataformas), desayuno (1201 votos), bordado (4159 votos), debate de doblajes; 9 cosas que no hacer. TV Tropes dio 403 |
+| 13 Cada personaje a fondo | ⚠️ | Carácter, historia, miedos, voz y dinámicas de 9 personajes, con citas del equipo. Caras con minuto: Howl 5 de 5 (una dudosa), Calcifer 4 de 5, Sophie 2 de 5; faltan la rabia, la tristeza y la vergüenza de Sophie, la vergüenza de Calcifer y todas las de los secundarios |
+| 14 Poses analizadas | ✅ | Howl 8, Sophie 9, Calcifer 7, con minuto y uso (presentar, explicar, celebrar, regañar, pensar, animar). ⚠️ secundarios sin poses con minuto |
+| 15 Vestuario | ✅ | Hex medidos de Sophie joven y anciana, Howl, forma de ave, Calcifer (dos fuentes), Bruja y Markl. Corregido el vestido de Sophie joven (verde, no azul). ⚠️ chaqueta de Howl sin cuerpo entero |
+| 16 Ciudades, paisajes y fondos | ✅ | 11 sitios con luz, hora y tamaño; fotogramas oficiales en alta; 4 fondos de Wallhaven con tamaño. ⚠️ fondos de fans sin autor original |
+| 17 Guía para IA de imagen y de texto | ✅ | Rasgos fijos, paleta medida, línea, luz, encuadre, palabras que ayudan y que estropean, referencias, expresiones propias; voz de 6 personajes y 12 frases reales por emoción. ⚠️ sin frase triste textual en latino |
+| 18 Estilo y técnica, y cómo replicarlo | ✅ | Photoshop y Softimage para el castillo, Toonz/OpenToonz (tres fuentes), citas de Yasuda, Okui, Inamura y Takeshige; pasos en Photoshop y Blender con modelos y texturas libres; encuadres |
+| 19 Texturas 2D | ⚠️ | Papel, tela lisa y a cuadros, metal y madera CC0. No hay tramas (no hay manga); pinceles libres «estilo Ghibli» no encontrados; emblema sin ficha oficial |
+| 20 Gustos y detalles | ⚠️ | Edad, gustos, miedos, objetos y cómo se ven, con fuente. Cumpleaños y alturas oficiales no existen en ninguna fuente consultada |
+| 21 Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, premios, crítica, razones; 6 escenas con minuto, música y dibujo. Sin hilo con votos sobre una escena de llorar; crítica por una sola fuente |
+| 22 Fan dubs y comunidad hispana | ⚠️ | Fandub, *cover* latino, comparación de doblajes (131 048 vistas), demo en TikTok. TikTok sin abrir; parodias hispanas no encontradas |
+| 23 Colaboraciones y cruces | ✅ | Parque Ghibli (dos fuentes), Loewe (cuatro), figura mecánica oficial, ediciones de coleccionista, cosplay. ⚠️ café de Nagano con una fuente; no hay Fortnite ni gachas |
+| 24 Obras parecidas | ✅ | Trilogía de la novela (tres fuentes), 15 recomendaciones de AniList con votos, listas de prensa, influencias, biblias hermanas del servidor |
+| 25 El mundo, la historia y sus símbolos | ✅ | 5 reglas, la puerta de colores, 6 arcos con minuto, vocabulario, lectura de la guerra. ⚠️ el color negro de la puerta no coincide entre partes |
+| Tres conceptos de lámina | ✅ | A #guia (puerta de colores, Howl), B #comandos-y-sorteos (chimenea, Calcifer), C #arte (sombrerería, Sophie): objeto, sitio, pose, letra, textos y luz |
+| Mirar vídeos de verdad | ✅ | Película entera en tramos (más de 250 fotogramas), tráiler español cada 5 s, tráiler VOSE plano a plano. No hay *opening* ni *ending* sueltos (es película) |
+| Colores medidos | ✅ | Casi 100 hex distintos de fotogramas oficiales, con `estilo.py` y Pillow; 11 medidos por el redactor para el vestuario |
+| Cuarenta fuentes distintas | ✅ | Más de 55 webs distintas enlazadas en esta biblia |
+| Fuentes oficiales | ✅ | ghibli.jp, tienda GKIDS, Maison Ghibli, VIZ, Netflix, Max, citas del *making of* vía la wiki. ⚠️ ninguna entrevista leída directamente, sólo citada |
+| Fuentes en otros idiomas | ⚠️ | Japonés (blog de tipografía, Yahoo! Japón, MusicBrainz, ghibli.jp) e inglés sí. Coreano y chino no se buscaron |
+| Wikis, TV Tropes, TCRF y Wayback | ⚠️ | Ghibli Wiki, Doblaje Wiki, howlscastle.fandom. TV Tropes 403 (también por Wayback); TCRF sin página (no hay juego) |
+| Foros y comunidades | ✅ | Reddit r/ghibli por Arctic Shift, foro de Doblaje Wiki (sólo el título), Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv y X vía Safebooru, Danbooru, Wallhaven. ArtStation y DeviantArt no se buscaron |
+| Vídeo (YouTube, TikTok) | ⚠️ | Internet Archive y Dailymotion mirados; YouTube sólo metadatos; un TikTok |
+| Código y recursos | ✅ | GitHub (OpenToonz), Sketchfab, ambientCG, Google Fonts con fontTools |
+| Doblaje latino (fuentes) | ⚠️ | Doblaje Wiki por su API y sus audios, Wikipedia, escuela TENA. ANMTV buscado sin dato citable; entrevistas a actores no vistas |
+| Hojas de contacto | ✅ | 3 hojas en `hojas/`, miradas; corregido un rótulo (personajes n.º 9) |
+| referencias.json | ✅ | Todas las útiles de las partes y de `datos.json`, las mejores primero |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y `texto.md`, lo del recolector y lo que comprobó el redactor. El detalle de cada búsqueda está en su parte.
+
+**Recolector (`recolectar.py`, 25-sep-2026, gratis):** AniList (obra, staff, personajes, recomendaciones), Doblaje Wiki (⚠️ trajo la ficha de **otra película**, *El castillo maldito*; corregido por voz), Fandom (Howl, Sophie, Calcifer), Danbooru, Safebooru, Wallhaven, Sketchfab (vacío ese día), Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam (nada). Fallaron: AnimeThemes (HTTP 522) y Reddit (no encontró el subreddit).
+
+**Imagen**
+- `investigar_serie.py --wiki ghibli` con Witch of the Waste, Markl, Turnip Head, Howl's Castle, Market Chipping, The Art of Howl's Moving Castle, Porthaven, Royal Palace, The Waste → 63 imágenes, 52 grandes.
+- API de Fandom: `categorymembers` de la categoría de la película; `parse` de Sophie, Howl y la Bruja (vestuario).
+- `estilo.py` sobre 15 imágenes (ghibli.jp, wiki, AniList).
+- API de Sketchfab con `downloadable=true`; API de ambientCG («rusted metal», «old wood planks», «paper», «fabric», «plaid», «tartan»; «brass» sin resultado); Poly Haven (nada).
+- Web (inglés): Parque Ghibli, figura oficial, café temático, cosplay, Loewe, Blu-ray GKIDS; juego de PS2 (descartado). Japonés: «ghibli.jp 壁紙 ハウルの動く城 無料» → los 50 fotogramas oficiales.
+
+**Vídeo**
+- Película completa de [Internet Archive](https://archive.org/details/howl-no-ugoku-shiro_202602) con `fotogramas.py` (instalado `ffmpeg` del sistema); tráiler español de Aurum cada 5 s.
+- Inglés: wikitext de la película en la wiki (Plot, reparto, música, sonido). Japonés: las 26 pistas en MusicBrainz y Discogs.
+- APIs sin cupo: MusicBrainz, Discogs, Dailymotion, archive.org, ambientCG, Arctic Shift.
+- Fallos: AnimeThemes (522, dos veces), Wikipedia japonesa (429), VGMdb (vacío), YouTube (pide sesión).
+
+**Voz**
+- Doblaje Wiki por API: la película y Alan Prieto. Ghibli Wiki: 9 fichas. 8 audios oficiales transcritos con `voz.py`. Tráiler VOSE con `fotogramas.py --cortes` (50 planos). `yt-dlp --skip-download` para 3 vídeos de YouTube. MyAnimeList, Arctic Shift, Wayback (para TV Tropes, sin éxito).
+- Buscador (18 búsquedas): ANMTV redoblaje (es); IMDb voces (en); 「ハウルの動く城 人気投票 キャラクターランキング」 (ja); por qué la aman (en); Karina Altamirano (es); Alan Prieto (es); fandub (es); premios y taquilla (en); fandub de escena (es); parodia latina (es); ANMTV Ghibli Netflix (es); MyAnimeList (en); CBR Calcifer (en); meme del moco verde (en); reseña latina (es); «nunca he visto un corazón tan feo» (es, sin resultado); final y *Merry-Go-Round* (en); Looper (en).
+
+**Texto**
+- Inglés (~10): tipografía del logo y del póster, Toonz/OpenToonz, videojuego, Film Comic de VIZ, alegoría de la guerra, Ni no Kuni, TV Tropes/TCRF, obras parecidas.
+- Japonés (2 + 1 lectura): 「ロゴ フォント タイトル」, 「鈴木敏夫 書き文字」 → [blog de tipografía](http://iwademo.cocolog-nifty.com/blog/2006/05/post_ea88.html).
+- API de la wiki (unas 20 páginas), Sketchfab, ambientCG, Fontsource y Google Fonts con fontTools, Wikipedia (artículo entero, para descartar el juego).
+- Bloqueados: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Anime/HowlsMovingCastle) (403, también por `r.jina.ai` y por [Wayback](https://web.archive.org/)), [TCRF](https://tcrf.net/) y [MobyGames](https://www.mobygames.com/) (Cloudflare).
+
+**Redactor**
+- Miró las 3 hojas; corrigió el rótulo de `personajes_01.jpg` n.º 9.
+- Midió con Pillow 11 colores de vestuario en [howl001](https://www.ghibli.jp/gallery/howl001.jpg), [howl005](https://www.ghibli.jp/gallery/howl005.jpg) y [howl030](https://www.ghibli.jp/gallery/howl030.jpg): el vestido de Sophie joven es verde (`#689288`), no azul.
+- Marcó los choques entre partes: pelo de Howl en la pataleta (naranja o negro), color negro de la puerta, «madre» de Sophie en la pose S7, las 7 letras con sólo 3 comprobadas.
+
+**No encontrado (resumen):** encuesta oficial de Ghibli; cumpleaños y alturas; letra del logo internacional y de los subtítulos; texto de los panfletos; pinceles libres «estilo Ghibli»; textura de piedra de Kingsbury; tráiler japonés visto; vídeo-ensayos; TikTok; hilo con votos sobre una escena de llorar; parodias hispanas; frase triste textual del doblaje latino; caras de Sophie con rabia, tristeza y vergüenza; café de Nagano confirmado; fuentes en coreano y chino.
