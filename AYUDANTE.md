@@ -27,10 +27,12 @@ minuto); se ahorra así:
    en grande sólo la que vas a citar.
 5. **Escribe añadiendo**, no reescribiendo: `Edit` o `cat >> archivo <<'EOF'`.
    Reescribir un archivo largo entero cuesta cada vez.
-6. **Tandas cortas**: unas **70 acciones** por tanda. Al llegar, guarda, escribe
-   al final de tu parte una línea `Sigue: <lo que falta, en concreto>` y
-   termina. El jefe te relanza limpio (sale mucho más barato que seguir con la
-   memoria llena). Cuando acabes de verdad, borra esa línea.
+6. **Tandas cortas**: hasta unas **100 acciones** por tanda (50 si te
+   relanzan). Al llegar, guarda, escribe al final de tu parte una línea
+   `Sigue: <lo obligatorio que falta, en concreto>` y termina. El jefe te
+   relanza limpio (sale mucho más barato que seguir con la memoria llena). Si
+   no te falta nada obligatorio, **no dejes ninguna línea `Sigue:`**: sin ella
+   se entiende que terminaste (un «Sigue: nada» hace que te relancen).
 
 ## Reglas del contenedor compartido
 

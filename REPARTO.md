@@ -19,11 +19,16 @@ vive en su carpeta, así que las ramas de las cuentas se juntan sin chocar.
 Una sola cuenta por lote a la vez (si no, harían lo mismo dos veces). Cuando una
 cuenta se queda sin saldo, la siguiente sigue **el mismo lote**.
 
-## Qué pegar en cada cuenta
+## Cómo arranca un lote
 
-> Trae la rama `claude/peaceful-maxwell-fklpkp` (`git fetch origin claude/peaceful-maxwell-fklpkp && git checkout -B <tu rama> FETCH_HEAD`) y lee REPARTO.md. Eres el **lote X**. Corre `herramientas/juntar.sh` y `echo X > .lote`, instala lo de la skill serie-en-equipo y sigue con ella sólo con tu lote (`python3 herramientas/siguiente.py 5 --lote X`), en cadena. No toques ESTADO.md, DECISIONES.md, COSTOS.md ni TANDAS.md: tu estado, tus avisos para el dueño y tus costos van en `lotes/X.md`.
+**En GitHub** (lo normal, ver README): `.github/workflows/lote.yml` lanza el
+motor con la letra; el motor crea o sigue la rama `claude/lote-<l>-local`,
+corre `juntar.sh`, pone `.lote` y le da al jefe su mensaje. No hay que pegar
+nada.
 
-(cambia X por la letra). Después escribe `/model sonnet` en esa sesión.
+**En una sesión suelta** (nube o PC con la Max, sin motor): ver LOCAL.md. Antes,
+quita la letra de `.github/lotes-activos`: dos jefes en un lote hacen el
+trabajo dos veces.
 
 ## Reglas de un lote
 

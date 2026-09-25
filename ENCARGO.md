@@ -195,6 +195,7 @@ En `biblias/<tu-encargo>/`, sin tocar carpetas de otros encargos:
 - `hojas/` — como mucho **3 hojas de contacto** en JPEG de menos de 3 MB cada una.
   **No subas imágenes grandes** al repositorio: sólo sus enlaces.
 
-Al terminar, haz commit y push **de tu rama**. No toques `main` ni las carpetas
-de otros encargos. No publiques nada en Discord. No uses Gemini ni otras IA de
+Si eres investigador o redactor de un equipo (EQUIPO.md), **no uses git**: lo
+sube el jefe. Sólo una sesión que trabaje sola hace commit y push **de su
+rama**. No toques `main` ni las carpetas de otros encargos. No publiques nada en Discord. No uses Gemini ni otras IA de
 imagen para «inventar» referencias: todo tiene que tener una fuente real.

@@ -21,17 +21,22 @@ Usa `siguiente.py 5 --lote <letra>` y toca sólo tus series y `lotes/<letra>.md`
 (ahí van tu estado, tus avisos para el dueño y tus costos; ESTADO.md,
 DECISIONES.md, COSTOS.md y TANDAS.md los lleva la central).
 
-## Una vez por contenedor
+## Al empezar
 
+**En GitHub (el motor de `lote.yml`) ya está todo**: herramientas instaladas y
+`guardar.sh --cada 300` corriendo. No instales nada (ni pip, ni apt, ni sudo),
+no lo relances, no programes comprobaciones (no hay `send_later`). Si falta
+una herramienta, anótalo en `lotes/<L>.md` y sigue sin ella.
+
+**En una sesión suelta** (nube o PC, sin motor; ver LOCAL.md):
 1. `pip install -q -U "yt-dlp[default]" Pillow fontTools requests faster-whisper "scenedetect[opencv-headless]" praat-parselmouth onnxruntime`
    y `apt-get install -y -qq ffmpeg tesseract-ocr tesseract-ocr-jpn tesseract-ocr-spa`
    (si apt da 404, antes `apt-get update`).
-2. Cambia el enlace `Claude-Session:` de `herramientas/subir.sh` y
-   `herramientas/guardar.sh` por el de esta sesión.
-3. En segundo plano: `herramientas/guardar.sh --cada 300`.
-4. Programa una comprobación dentro de una hora (send_later) que diga: «Sigue
-   con la skill serie-en-equipo: relanza lo cortado y continúa». Vuelve a
-   programarla en cada comprobación.
+2. En segundo plano: `herramientas/guardar.sh --cada 300`. Si la sesión tiene
+   enlace, exporta `CLAUDE_SESSION_URL` y los commits lo llevarán.
+3. Si tienes send_later, programa una comprobación dentro de una hora que diga:
+   «Sigue con la skill serie-en-equipo: relanza lo cortado y continúa», y
+   vuelve a programarla en cada comprobación.
 
 ## En cadena (para ir rápido sin gastar más por serie)
 
@@ -45,14 +50,21 @@ arrastraría la memoria de la anterior y costaría más.
 Al empezar, y cada vez que queden menos de 3 listas, recolecta por adelantado
 en segundo plano las 5 siguientes (gratis):
 `for id in $(python3 herramientas/siguiente.py 6 | awk '$1 ~ /^[0-9]+-/{print $1}'); do python3 herramientas/recolectar.py $id --hojas; done`
+(si eres un lote, `.lote` hace que `siguiente.py` sólo dé las tuyas: no
+recolectes series de otro lote).
 
-Esta sesión (el jefe) puede ir en Sonnet (`/model sonnet`): sólo lanza, revisa
-y sube. El modelo de cada agente lo fija el `model` al lanzarlo.
+El jefe va en Sonnet (el motor ya lo fija; en una sesión suelta, `/model
+sonnet`): sólo lanza, revisa y sube. El modelo de cada agente lo fija el
+`model` al lanzarlo.
 
 ## El bucle (repítelo hasta que no quede nada o el dueño diga basta)
 
 **1. ¿Qué toca?** `python3 herramientas/siguiente.py 5`. Coge la primera que
-no esté en marcha (modo `seguir`, `repaso-corto`, `nueva` o `repaso`).
+no esté en marcha. Modos: `seguir` (relanza sólo los roles a medias o los que
+falten), `redactar` (las 4 partes están listas: lanza sólo el redactor, paso
+5; si ya hay `biblia.md`, en modo `seguir`, editando en su sitio),
+`repaso-corto`, `nueva` o `repaso`. Fíate de `siguiente.py`, que mira el
+disco: `lotes/<L>.md` o ESTADO.md pueden estar viejos.
 
 **2. Recolecta (gratis)**, si no se hizo por adelantado:
 `python3 herramientas/recolectar.py <id> --hojas`, y los capítulos clave con
@@ -60,7 +72,10 @@ no esté en marcha (modo `seguir`, `repaso-corto`, `nueva` o `repaso`).
 uno reciente; ver su ayuda). Deja sus fichas en `partes/episodios.md`.
 Mira la línea «Fallaron». Si AniList o Doblaje Wiki no encontraron la obra,
 repite con `--solo anilist doblaje_wiki --nombres "<título en inglés>" "<título latino>"`.
-En `repaso-corto` basta sin `--hojas`.
+En `repaso-corto` basta sin `--hojas`. Si ya existe `partes/datos.json`, no
+recolectes otra vez. Con un título ambiguo (79, 99, 100 y 102 trajeron el
+reparto de otra obra parecida) mira qué obra dicen haber encontrado AniList y
+Doblaje Wiki y, si no es la tuya, repite con `--nombres "<título exacto>"`.
 
 **3. Lanza los investigadores** (Agent, en segundo plano, **`model: "sonnet"`**),
 uno por rol. Roles: `imagen`, `video`, `voz`, `texto`; en `repaso-corto` sólo
@@ -68,7 +83,7 @@ uno por rol. Roles: `imagen`, `video`, `voz`, `texto`; en `repaso-corto` sólo
 
 > Eres el investigador de **<rol>** del equipo de **<id>** en /home/user/sintonizando-investigacion. Lee AYUDANTE.md (sobre todo «Ahorra sin recortar»), EQUIPO.md, ENCARGO.md y encargos/<id>.md. Haz sólo los puntos que EQUIPO.md da a tu rol, a fondo, y escribe sólo en biblias/<id>/partes/<rol>.md y partes/<rol>.json (el de imagen, también hojas/). Empieza por biblias/<id>/partes/datos-<rol>.md: no repitas esas consultas. No toques biblia.md ni uses git. Si tu parte ya existe, sigue desde su línea «Sigue:» o desde lo pendiente. Lo pesado va a /tmp/claude-0/trabajo/<id>-<rol>. Tandas de unas 70 acciones: al llegar, deja «Sigue: …» al final de tu parte y termina. YouTube pide iniciar sesión desde este servidor: usa Dailymotion, Internet Archive, AnimeThemes, las muestras de Doblaje Wiki o los storyboards (±2 s). No instales programas de terceros para saltarte bloqueos. Al terminar, contesta en 3 líneas.
 
-Añade siempre: «Una sola tanda: hasta unas 100 acciones. Antes de terminar, repasa tus puntos contra ENCARGO.md: lo **obligatorio** (lo que pide cada punto) no se deja; si no te da, deja `Sigue:` sólo con lo obligatorio que falte. Lo que sería un extra va en «No encontré» con ⚠️, no en `Sigue:`. Lee también partes/episodios.md si existe.»
+Añade siempre: «Una sola tanda: hasta unas 100 acciones. Antes de terminar, repasa tus puntos contra ENCARGO.md: lo **obligatorio** (lo que pide cada punto) no se deja; si no te da, deja `Sigue:` sólo con lo obligatorio que falte. Lo que sería un extra va en «No encontré» con ⚠️, no en `Sigue:`. Si no te falta nada obligatorio, **no escribas ninguna línea `Sigue:`** (un «Sigue: nada pendiente» cuenta como trabajo a medias y hace que te relancen); es una línea que empieza por `Sigue:`, no un título. Lee también partes/episodios.md si existe.»
 
 Añade según el modo:
 - `repaso` / `seguir`: «Es un repaso: `python3 herramientas/seccion.py <id> --rol <rol>` y `--avisos` te dan lo que ya hay; aporta lo que falta, confirma lo dudoso y ve más hondo (COMPLEMENTO.md).»
@@ -77,7 +92,8 @@ Añade según el modo:
 **4. Relanza sólo lo obligatorio.** Si una parte acaba con `Sigue:` (sólo
 lleva lo obligatorio que faltó), relanza ese rol con un mensaje corto que diga
 exactamente eso, hasta 50 acciones. Como mucho 2 tandas por rol; si aún queda
-algo, que el redactor lo marque ⚠️ en la tabla y lo diga.
+algo, que el redactor lo marque ⚠️ en la tabla y lo diga. Un corte por límite
+de uso o por fin de vuelta no cuenta como tanda: se relanza desde donde quedó.
 
 **5. Redactor** (Agent, **`model: "opus"`**) cuando no quede ningún `Sigue:`:
 
@@ -91,12 +107,29 @@ Añade según el modo:
 webs distintas enlazadas, 15 minutos, 10 hex, bitácora y conceptos) y
 `grep -n -A45 'Cumplimiento del encargo' biblias/<id>/biblia.md`. Si falta
 algo, SendMessage al investigador de ese punto (o relánzalo con el encargo
-concreto) y luego al redactor. No lances equipos nuevos para arreglos.
+concreto) y luego al redactor. No lances equipos nuevos para arreglos. No
+abras `biblia.md` ni las partes enteras: sólo `revisar.py` y el `grep` de la
+tabla; si dudas, `seccion.py <id> --indice`.
 
-**7. Sube:** `herramientas/subir.sh <id>` (en repasos, `<id> repaso`). Copia a
-`DECISIONES.md` los avisos para el dueño, pon la serie al día en `ESTADO.md`
-y anota en `COSTOS.md` una línea por agente (serie, rol, modelo, minutos y
-tokens del aviso de fin). Vuelve al paso 1.
+**7. Sube:** `herramientas/subir.sh <id>` (en repasos, `<id> repaso`). Si eres
+un lote, apunta en `lotes/<L>.md` el estado de la serie, los avisos para el
+dueño y una línea por agente (serie, rol, modelo, minutos y tokens del aviso
+de fin); `guardar.sh` lo sube cada 5 minutos. Si eres la central (sin `.lote`):
+lo mismo en `DECISIONES.md`, `ESTADO.md` y `COSTOS.md`. Vuelve al paso 1.
+
+## Límite de uso de la Max
+
+La suscripción tiene un tope cada 5 horas y otro semanal, **compartido por
+todos los lotes y sus agentes**. Al llegar, Claude Code muestra «Usage limit
+reached · continuing automatically at …» y sigue solo al recargarse: **no
+relances nada mientras tanto** (los agentes en marcha se cortan; relanzarlos en
+bucle sólo quema la recarga). Al volver, relanza una sola vez lo cortado desde
+su `Sigue:` o su parte a medias.
+
+En GitHub la vuelta dura unas 5 h 20 y luego la máquina se apaga (el mensaje de
+arranque dice la hora): en los últimos 30 minutos no lances agentes nuevos,
+cierra lo que puedas y deja `lotes/<L>.md` al día. Otra máquina sigue desde lo
+que haya en GitHub.
 
 ## Al informar al dueño
 
@@ -104,3 +137,9 @@ Frases cortas, sólo al terminar cada serie o si algo se atasca: serie,
 completa o no, personaje más querido, cuadro de diálogo, 3 láminas, costo
 medido y avisos. Las biblias son generales, no sólo para Discord: un choque de canal
 entre series no es un aviso que decidir, sólo una nota de una línea. Todo guardado y subido antes de contestar.
+
+En GitHub no hay conversación con el dueño: lo que le dirías va a «Avisos para
+el dueño» de `lotes/<L>.md`. Si te llega un «sigue» sin nada pendiente, no
+relances nada: di «sin pendientes» y espera a los agentes que estén en marcha.
+Si ya no queda ninguna serie en tu lote, escribe «LOTE <L> TERMINADO» en la
+primera línea de `lotes/<L>.md`, súbelo y para.

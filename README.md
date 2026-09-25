@@ -90,7 +90,7 @@ ramas, revisa cada dossier y lo copia a la bóveda de Obsidian
 - `ESTADO.md` — dónde va el trabajo y cómo seguir en otro contenedor; `COSTOS.md`, lo que cuesta cada serie.
 - `herramientas/recolectar.py` — junta gratis los datos de 13 fuentes para una serie.
 - `herramientas/seccion.py` — lee sólo un trozo de una biblia; `siguiente.py` — qué toca ahora.
-- `herramientas/revisar.py` — dice si una biblia está completa; `subir.sh` la sube y marca su casilla.
+- `herramientas/revisar.py` — dice si una biblia está completa; `subir.sh` la sube (la casilla de TANDAS.md la marca la central con `juntar.sh --marcar`).
 - `encargos/` — un encargo por serie (qué canal, qué objeto, qué personajes).
 - `TEMA.md`, `temas/` y `contexto/proyectos.md` — los encargos de temas y el resumen de tus proyectos.
 - `MAPA.md` — todo lo que se investiga, por bloques.

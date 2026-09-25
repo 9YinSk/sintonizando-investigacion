@@ -180,7 +180,7 @@ def paso(nombre):
 
 # ── AniList ───────────────────────────────────────────────────────────────────
 
-AL_Q = """query($s:String,$t:MediaType){Media(search:$s,type:$t,sort:SEARCH_MATCH){
+AL_Q = """query($s:String,$t:MediaType){Page(perPage:6){media(search:$s,type:$t,sort:SEARCH_MATCH){
  id siteUrl format episodes chapters seasonYear status averageScore popularity favourites
  title{romaji english native} synonyms genres tags{name rank isGeneralSpoiler isMediaSpoiler category}
  description(asHtml:false) coverImage{extraLarge} bannerImage trailer{id site}
@@ -190,7 +190,7 @@ AL_Q = """query($s:String,$t:MediaType){Media(search:$s,type:$t,sort:SEARCH_MATC
  recommendations(sort:RATING_DESC,perPage:15){nodes{rating mediaRecommendation{format averageScore title{romaji english}}}}
  characters(sort:FAVOURITES_DESC,perPage:25){edges{role
    node{id name{full native alternative} favourites gender age bloodType dateOfBirth{month day} description(asHtml:false) image{large} siteUrl}
-   ja:voiceActors(language:JAPANESE){name{full}}}}}}"""
+   ja:voiceActors(language:JAPANESE){name{full}}}}}}}"""
 
 
 @paso("anilist")
@@ -205,15 +205,25 @@ def anilist(ctx, s):
                 d = pedir("https://graphql.anilist.co", {"query": AL_Q, "variables": {"s": nombre, "t": tipo}})
             except Exception:                                           # noqa: BLE001
                 continue
-            cand = (d.get("data") or {}).get("Media")
-            if cand:
-                titulos = [cand["title"].get(k) or "" for k in ("romaji", "english", "native")] + cand["synonyms"]
-                sim = max(parecido(nombre, t) for t in titulos if t)
-                if sim >= 0.85:
-                    m = cand
-                    break
+            medias = (((d.get("data") or {}).get("Page") or {}).get("media")) or []
+            # Varias obras pueden llamarse igual (un corto «Onigiri» tiene el sinónimo
+            # «Demon Slayer»): entre las que cuadran, la más popular.
+            buenos, peor = [], None
+            for cand in medias:
+                titulos = [cand["title"].get(k) or "" for k in ("romaji", "english", "native")] + (cand.get("synonyms") or [])
+                sim = max((parecido(nombre, x) for x in titulos if x), default=0)
+                prefijo = any(x and x.lower().startswith(nombre.lower()) for x in titulos[:2])
+                if sim >= 0.85 or prefijo:
+                    buenos.append((cand.get("popularity") or 0, sim, cand))
+                elif peor is None or sim > peor[0]:
+                    peor = (sim, cand)
+            if buenos:
+                m = max(buenos, key=lambda x: x[:2])[2]
+                break
+            if peor:
+                cand = peor[1]
                 s.fallos.append(f"anilist: descarté «{cand['title'].get('english') or cand['title']['romaji']}» "
-                                f"({cand['format']}, parecido {sim:.2f} con «{nombre}»); si es la obra, usa --nombres")
+                                f"({cand['format']}, parecido {peor[0]:.2f} con «{nombre}»); si es la obra, usa --nombres")
             time.sleep(1)
         if m:
             break
@@ -353,15 +363,22 @@ def tabla_wiki(txt):
 @paso("doblaje_wiki")
 def doblaje(ctx, s):
     api = "https://doblaje.fandom.com/es/api.php"
-    titulo = None
+    # La MEJOR página entre todos los nombres, no la primera que se parezca un poco
+    # («El Castillo Ambulante» daba «El castillo maldito»; «Mononoke» la serie de 2007).
+    norm = lambda x: re.sub(r"[^a-z0-9]", "", x.lower())
+    mejor = (0.0, None)
     for nombre in ctx["nombres"]:
         r = pedir(f"{api}?action=query&list=search&format=json&srlimit=5&srsearch={q(nombre)}", web=True)
         for x in r["query"]["search"]:
-            if parecido(nombre, x["title"]) >= 0.7:
-                titulo = x["title"]
-                break
-        if titulo:
-            break
+            sim = parecido(nombre, x["title"])
+            a, b = norm(nombre), norm(x["title"])
+            if len(a) >= 6 and (a in b or b in a):
+                sim = max(sim, 0.9)
+            if sim > mejor[0]:
+                mejor = (sim, x["title"])
+    titulo = mejor[1] if mejor[0] >= 0.8 else None
+    if mejor[1] and not titulo:
+        s.fallos.append(f"doblaje_wiki: descarté «{mejor[1]}» (parecido {mejor[0]:.2f}); si es la obra, usa --nombres con el título latino exacto")
     if not titulo:
         s.fallos.append("doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)")
         return None

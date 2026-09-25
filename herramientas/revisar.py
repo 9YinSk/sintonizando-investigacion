@@ -31,7 +31,7 @@ def revisar(id, solo_falta=False):
                 continue
             celdas = [c.strip() for c in l.strip().strip("|").split("|")]
             # el estado es la celda que sólo lleva el símbolo (un ❌ dentro del «por qué» no cuenta)
-            estado = next((c for c in celdas if c.replace("️", "") in ("✅", "⚠", "❌")), "")
+            estado = next((c for c in celdas if c.replace("️", "").lstrip()[:1] in ("✅", "⚠", "❌")), "")
             if "❌" in estado: no += 1
             elif "⚠" in estado: wa += 1
             elif "✅" in estado: ok += 1
@@ -59,12 +59,12 @@ def revisar(id, solo_falta=False):
     if num <= 30 and not repaso: falta.append("segunda pasada")
     # lo que pidió el dueño, medido en el texto (ENCARGO.md, «Profundidad exigida»)
     dominios = {re.sub(r"^www\.", "", d.lower()) for d in re.findall(r"https?://([^/\s)\]>»]+)", t)}
-    minutos = len(re.findall(r"(?<![\d:])\d{1,2}:\d{2}(?![\d:])", t)) + len(re.findall(r"[?&]t=\d+", t))
+    minutos = len(re.findall(r"(?<![\d:])(?:\d{1,2}:)?\d{1,2}:\d{2}(?![\d:])", t)) + len(re.findall(r"[?&]t=\d+", t))
     hexes = len(set(h.upper() for h in re.findall(r"#[0-9A-Fa-f]{6}\b", t)))
     if len(dominios) < 40: falta.append(f"fuentes distintas ({len(dominios)} de 40)")
     if minutos < 15: falta.append(f"minutos citados ({minutos} de 15)")
     if hexes < 10: falta.append(f"colores hex medidos ({hexes} de 10)")
-    if not re.search(r"^#+ .*[Bb]itácora", t, re.M): falta.append("bitácora")
+    if not re.search(r"^#+ .*[Bb]it[áa]cora", t, re.M): falta.append("bitácora")
     if not re.search(r"^#+ .*concepto", t, re.M | re.I): falta.append("3 conceptos de lámina")
     estado = "COMPLETA" if not falta else "falta: " + ", ".join(falta)
     if solo_falta:

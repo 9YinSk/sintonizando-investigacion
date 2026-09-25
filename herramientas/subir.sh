@@ -6,6 +6,7 @@
 #   herramientas/subir.sh A01-texturas
 set -euo pipefail
 cd "$(dirname "$0")/.."
+source herramientas/comun.sh
 
 id="${1:?falta el id del encargo}"
 modo="${2:-}"
@@ -86,14 +87,10 @@ git add -- "$dir" TANDAS.md lotes 2>/dev/null || git add -- "$dir"
 if git diff --cached --quiet; then
   echo "Nada nuevo que subir en $dir"; exit 0
 fi
-git commit -q -m "$msg" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01PTjYZQejJbQf4MSwH4sQbi"
+git commit -q -m "$msg" -m "$(pie_commit)"
 
-for espera in 0 2 4 8 16; do
-  sleep "$espera"
-  if git push -q -u origin "$rama" 2>/dev/null; then
-    echo "OK: $msg · $lineas lineas · $nref referencias · $nhojas hojas · $resumen · hechas $hechas de 227 · repasos $repasos de $(grep -c -- "^- \[.\] repaso " TANDAS.md)"
-    exit 0
-  fi
-done
-echo "ERROR: el push falló 5 veces (commit hecho en local)"; exit 1
+if empujar "$rama"; then
+  echo "OK: $msg · $lineas lineas · $nref referencias · $nhojas hojas · $resumen · hechas $hechas de 227 · repasos $repasos de $(grep -c -- "^- \[.\] repaso " TANDAS.md)"
+  exit 0
+fi
+exit 1

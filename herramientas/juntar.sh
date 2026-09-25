@@ -7,7 +7,11 @@
 #   herramientas/juntar.sh --marcar
 set -uo pipefail
 cd "$(dirname "$0")/.."
+source herramientas/comun.sh
 rama="$(git rev-parse --abbrev-ref HEAD)"
+# el mismo candado que guardar.sh: que no se mezcle mientras se hace un commit
+exec 9>"${TMPDIR:-/tmp}/subir-sintonizando.lock"
+flock 9
 git fetch -q origin '+refs/heads/claude/*:refs/remotes/origin/claude/*' 2>/dev/null || git fetch -q origin
 for r in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin/claude/); do
   [[ "$r" == "origin/$rama" ]] && continue
@@ -15,7 +19,7 @@ for r in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin/clau
   if git merge -q --no-edit -m "Juntar: $r" "$r" >/dev/null 2>&1; then
     echo "juntada: $r"
   else
-    echo "CHOQUE con $r en: $(git diff --name-only --diff-filter=U | tr '\n' ' ')"; git merge --abort
+    echo "::warning::juntar.sh: CHOQUE con $r en: $(git diff --name-only --diff-filter=U | tr '\n' ' ') (esa rama queda sin juntar; hay que resolverlo a mano)"; git merge --abort
   fi
 done
 if [[ "${1:-}" == "--marcar" ]]; then
@@ -39,7 +43,7 @@ print(f"marcadas: {n}")
 PY
   python3 herramientas/juntar_lotes.py
   git add TANDAS.md ESTADO.md DECISIONES.md COSTOS.md
-  pie="$(grep -hoE '(Co-Authored-By|Claude-Session): [^"]*' herramientas/subir.sh)"
-  git diff --cached --quiet || git commit -q -m "Central: TANDAS marcadas y lotes copiados a ESTADO, DECISIONES y COSTOS" -m "$pie"
+  git diff --cached --quiet || git commit -q -m "Central: TANDAS marcadas y lotes copiados a ESTADO, DECISIONES y COSTOS" -m "$(pie_commit)"
 fi
-git push -q -u origin "$rama" 2>/dev/null && echo "subido a $rama"
+flock -u 9
+empujar "$rama" && echo "subido a $rama"

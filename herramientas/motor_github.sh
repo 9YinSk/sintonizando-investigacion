@@ -65,7 +65,7 @@ guardador=$!
 fin_vuelta=$(date -u -d "@$(( $(date +%s) + LIMITE ))" +%H:%M)
 msg="Eres el jefe del lote $L, en una máquina de GitHub Actions (Ubuntu) que va con la suscripción Max del dueño. Esta vuelta termina a las $fin_vuelta UTC (unas 5 horas); al acabar se guarda todo y otra máquina sigue desde lo que haya en GitHub. En los últimos 30 minutos no lances agentes nuevos: cierra lo que puedas y deja lotes/$L.md al día.
 1. Ya estás en la rama $rama. Corre herramientas/juntar.sh (el .lote ya dice $L).
-2. Lee REPARTO.md y lotes/$L.md y sigue con la skill serie-en-equipo sólo con tu lote (python3 herramientas/siguiente.py 5 --lote $L), en cadena, desde lo que dice lotes/$L.md. Relanza primero lo que quedó cortado (partes con «Sigue:» o a medias, redactores sin cerrar).
+2. Lee REPARTO.md y lotes/$L.md y sigue con la skill serie-en-equipo sólo con tu lote (python3 herramientas/siguiente.py 5 --lote $L), en cadena. Lo que diga siguiente.py manda (mira el disco); lotes/$L.md es orientativo y puede estar viejo. Relanza primero lo que quedó cortado: modo «seguir» = sólo los roles a medias o que falten; modo «redactar» = sólo el redactor.
 Aquí las herramientas ya están instaladas y herramientas/guardar.sh --cada 300 ya corre: no instales nada ni lo lances otra vez. No hay send_later ni enlace de sesión: sáltate esos pasos. /home/user/sintonizando-investigacion apunta a este repo.
 Límite de uso de la Max: si ves «Usage limit reached · continuing automatically at …», no hagas nada, Claude Code sigue solo cuando se recarga. Si un ayudante falla por el límite de uso, no lo relances en bucle: relánzalo una sola vez cuando el límite se haya recargado.
 Apunta en lotes/$L.md el estado, los avisos y los tokens de cada agente al cerrar cada serie. No escribas correos de cuentas en ningún archivo. No toques ESTADO.md, DECISIONES.md, COSTOS.md ni TANDAS.md. Si ya no queda ninguna serie por hacer en tu lote, escribe «LOTE $L TERMINADO» en la primera línea de lotes/$L.md, súbelo con git y para."
@@ -134,12 +134,14 @@ echo "── fin de la vuelta${fin_anticipado:+ ($fin_anticipado)}: guardo ─�
 tmux kill-session -t jefe 2>/dev/null
 kill "$guardador" 2>/dev/null
 sleep 3
+# Estado real en disco al cerrar, para quien siga (lotes/<L>.md puede ir viejo).
+[[ -f "lotes/$L.md" ]] && python3 herramientas/estado_lote.py "$L" "${fin_anticipado:-vuelta completa}"
 herramientas/guardar.sh
 grep -qs "LOTE $L TERMINADO" "lotes/$L.md" && fin_anticipado="lote terminado"
 case "$fin_anticipado" in
   "lote terminado") touch /tmp/lote-terminado ;;
-  "") # Sólo se encadena si esta vuelta trabajó de verdad, no si murió enseguida.
-      (( $(date +%s) - inicio >= 1800 )) && touch /tmp/vuelta-ok ;;
+  "") # Sólo se encadena si esta vuelta trabajó de verdad, no si el jefe murió una y otra vez.
+      (( relanzadas < 6 && $(date +%s) - inicio >= 1800 )) && touch /tmp/vuelta-ok ;;
   *)  echo "No encadeno la vuelta siguiente: $fin_anticipado." ;;
 esac
 

@@ -13,7 +13,7 @@ Misma exigencia de `ENCARGO.md`, bastante menos gasto. Lo lleva la skill
 | Paso | Quién | Modelo | Qué |
 |---|---|---|---|
 | 0 | `herramientas/recolectar.py <id> --hojas` | ninguno (gratis) | junta los datos de 13 fuentes en `partes/datos-*.md` y `datos.json`, y las hojas de contacto |
-| 1 | 4 investigadores (imagen, video, voz, texto) | **Sonnet** | parten de su `datos-<rol>.md`; leen sólo sus secciones con `seccion.py`; tandas de ~70 acciones con `Sigue:` |
+| 1 | 4 investigadores (imagen, video, voz, texto) | **Sonnet** | parten de su `datos-<rol>.md`; leen sólo sus secciones con `seccion.py`; tandas de hasta unas 100 acciones (50 si se relanza); `Sigue:` sólo si falta algo obligatorio |
 | 2 | redactor | **Opus** | escribe o edita la biblia con las partes; la calidad final es suya |
 | 3 | jefe | el de la sesión | `revisar.py`; lo que falte, al investigador de ese punto; `subir.sh` |
 
@@ -28,7 +28,7 @@ gastó unos 65 dólares en 25 minutos sin terminar.
 
 | Quién | Qué hace | Dónde escribe |
 |---|---|---|
-| **Sesión principal** (jefe) | Lanza el equipo, revisa y sube. No investiga. | `DECISIONES.md`, `TANDAS.md` (con `subir.sh`) |
+| **Sesión principal** (jefe) | Lanza el equipo, revisa y sube. No investiga. | `lotes/<L>.md` si es un lote; `DECISIONES.md`, `ESTADO.md`, `COSTOS.md` y `TANDAS.md` sólo la central |
 | **Investigador de imagen** | Puntos 1, 3, 15, 16, 19 y 23 de ENCARGO.md: arte oficial, fan art y 3D con licencia, vestuario con hex medidos, fondos de pantalla, texturas 2D, colaboraciones y su arte. Hojas de contacto con `investigar_serie.py`. | `partes/imagen.md`, `partes/imagen.json`, `hojas/` |
 | **Investigador de vídeo** | Puntos 2, 4, 9, 10 y 14: opening, ending, tráiler y escenas mirados con `fotogramas.py`; poses con capítulo y minuto; luz y paleta de los sitios medida en fotogramas; música. | `partes/video.md`, `partes/video.json` |
 | **Investigador de voz y personajes** | Puntos 7, 8, 12, 13, 20, 21 y 22: encuestas de popularidad, doblaje latino (dos fuentes por nombre), frases textuales de clips oficiales doblados, carácter y forma de hablar, gustos de cada personaje, por qué la aman, fan dubs en español, lo que ama el fandom y qué no hacer. | `partes/voz.md` |
@@ -72,8 +72,8 @@ Cada rol se parte en dos; cada uno con su archivo `partes/<rol>.md` y `.json`:
 
 ## El orden
 
-1. El jefe lanza los **4 investigadores a la vez** para una serie (como mucho 2
-   series a la vez: 8 agentes).
+1. El jefe lanza los **4 investigadores a la vez** para una serie (como mucho 5 agentes
+   vivos: 4 investigadores + 1 redactor, encadenando series).
 2. Cuando terminan los 4, lanza al **redactor**.
 3. El jefe corre `python3 herramientas/revisar.py <id>` y lee **sólo la tabla
    de cumplimiento**. Si falta algo, se lo pide por SendMessage **al

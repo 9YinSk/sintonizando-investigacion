@@ -64,5 +64,7 @@ En `investigaciones/<tu-tema>/`, sin tocar otras carpetas:
 - `recursos.json`: las herramientas y fuentes, cada una con `nombre`, `url`,
   `tipo`, `precio`, `licencia` y `para_que`.
 
-Al terminar, commit y push **de tu rama**. No toques `main` ni otras carpetas.
+Si eres parte de un equipo (EQUIPO.md), **no uses git**: lo sube el jefe. Sólo
+una sesión que trabaje sola hace commit y push **de su rama**. No toques `main`
+ni otras carpetas.
 No instales nada fuera de la sesión ni publiques nada en ningún sitio.
