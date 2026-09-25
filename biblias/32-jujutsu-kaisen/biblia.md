@@ -61,6 +61,46 @@ fecha: 2026-09-24
 - Cumplimiento del encargo
 21. Bitácora de búsqueda
 
+## Segunda pasada · qué cambió
+
+Repaso corto del 24-sep-2026 (`EQUIPO.md`): **3 investigadores**
+(imagen, voz, texto) y un redactor. Faltaban los **puntos 18-25** de
+`ENCARGO.md`; lo demás no se reescribió.
+
+- **Nuevo**: ocho secciones, «Punto 18» a «Punto 25», entre §18 y §19.
+  - **Técnica** (Punto 18): cómo mezcla MAPPA 2D y 3D, el *camera
+    mapping* de *JJK0*, y recetas para Photoshop y Blender.
+  - **Texturas** (Punto 19): el manga **no usa trama**, sino rayado a
+    mano; el **emblema de la Escuela de Tokio** (remolino de cuatro
+    brazos), en dos fuentes.
+  - **Gustos** (Punto 20): tabla de 10 personajes del *Fanbook* oficial;
+    el **reloj de Nanami**.
+  - **Por qué la aman** (Punto 21): premios, ventas y la **muerte de
+    Nanami** con minuto, música y reacción.
+  - **Comunidad hispana** (Punto 22): fandubs, 4 covers de «Kaikai
+    Kitan» y **ElRai** (casi un millón de vistas).
+  - **Colaboraciones** (Punto 23): Uniqlo, HUGO, Under Armour,
+    *Fortnite*, cafés, figuras y cosplay con licencia.
+  - **Obras parecidas** (Punto 24) y **mundo** (Punto 25): influencias
+    del autor, láminas vecinas, reglas, 9 arcos, símbolos y vocabulario.
+- **Correcciones que salen del repaso**:
+  - El haori de Sukuna es **negro liso**; el rojo con llamas de las guías
+    de cosplay no es oficial (Punto 19.2).
+  - El Gojo de *Fortnite* está **recoloreado en morado**: no sirve de
+    referencia de color (Punto 23.2).
+  - El director de la T2 es **Shōta Goshozono** (Variety); un blog pone
+    «Gotō» (Punto 18.b).
+  - El año de nacimiento de Gojo no es seguro: en una lámina, sólo el
+    día y el mes (Punto 20.1).
+- **`referencias.json`**: de 40 a **52** (emblema, carnet, Sukuna del
+  tomo 29, Uniqlo, HUGO, Under Armour, *Fortnite*, 3 fotos de cosplay y
+  2 diagramas de CGWORLD).
+- **Tabla de cumplimiento**: filas de los puntos 18-25 añadidas.
+- **Bitácora**: la de los tres investigadores, en §21.7.
+- **Sigue sin resolverse**: el programa 2D de MAPPA por nombre, el minuto
+  de la muerte de Junpei, las vistas de TikTok y la licencia de SVG Repo
+  y GraphicsBunker (⚠️ en sus puntos).
+
 ---
 
 ## 0 · Jujutsu Kaisen no tiene canal: dónde encaja mejor
@@ -2431,8 +2471,16 @@ Inumaki.
 | 15 · Vestuario con hex | ✅ | 10 personajes, colores medidos donde se pudo (§16) |
 | 16 · Paisajes y fondos de pantalla | ✅ | sitios con hora y luz; 8 fondos de fans en alta con autor y tamaño (§17) |
 | 17 · Guía para IA | ✅ | rasgos fijos, estilo, palabras que ayudan y que estropean, referencias con enlace, encuadre (§18) |
+| 18 · Estilo de dibujo y cómo replicarlo | ✅ / ⚠️ programa 2D | manga mirado en 4 páginas (sin trama, rayado a mano); MAPPA por CGWORLD (3 artículos): 2D + 3D, *camera mapping* de JJK0, Blender, Maya, 3ds Max, After Effects; cambio T1 → T2 (Real Sound + blog); recetas de Photoshop (Adobe) y Blender (ColorRamp Constant, Line Art, casco invertido, Autosmear). Sin fuente que nombre el programa 2D de MAPPA ni su grano/aberración ⚠️ (Punto 18) |
+| 19 · Texturas 2D | ✅ | tramas y pinceladas **miradas** en 4 páginas; tatuajes de Sukuna medidos con `estilo.py` (portada del tomo 29); **emblema de la Escuela de Tokio** en dos fuentes (carnet de Yuta y *Fortnite*); 6 pinceles y tramas con licencia (2 sin leer ⚠️); grano de papel impreso no encontrado ⚠️ (Punto 19) |
+| 20 · Gustos y detalles de cada personaje | ✅ | 10 personajes con cumpleaños, altura, comida, afición, estrés y objeto, del *Official Fanbook* con página (vía wiki) y AniList; el año de Gojo choca ⚠️ (Punto 20) |
+| 21 · Por qué la aman y escenas que hacen llorar | ✅ | 11 premios de 2024 (Variety + Animation Magazine), ventas de 2021 (Oricon + CBR), reseña de CBR, identificación con Nanami (2 de CBR); muerte de Nanami con minuto (13:30), música y votos de Reddit; Junpei sin minuto ⚠️; «Vague Reason» en ese instante ⚠️ (Punto 21) |
+| 22 · Fan dubs y comunidad hispana | ✅ / ⚠️ TikTok | 2 fandubs (latino y castellano), 4 covers de «Kaikai Kitan» y 2 parodias de ElRai con vistas **medidas** (`yt-dlp`, API de Dailymotion); memes de TikTok sin vistas (TikTok no se abre desde aquí) ⚠️ (Punto 22) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Uniqlo, HUGO, Under Armour (imágenes oficiales medidas), *Fortnite*, *Puzzle & Dragons*, *Monster Strike*, 4 cafés y tiendas oficiales, Good Smile e Ichiban Kuji, 3 fotos de cosplay CC BY-NC-SA; USJ, Gyukaku y Subtitle con una fuente ⚠️ (Punto 23) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | AniList + 4 de CBR + Game Rant; influencias del propio Akutami (Bleach, HxH, Evangelion, ABARA, *Kōkoku no Shugosha*) en dos fuentes; tabla de encargos en cola que se le parecen y qué no repetir (Punto 24) |
+| 25 · El mundo, la historia por arcos y sus símbolos | ✅ | 5 reglas del mundo, 9 arcos con capítulos y episodios, Tres Grandes Familias, Sukuna en el folclore (Yokai.jp + Wikipedia), 6 herramientas malditas y 8 términos con kanji (wiki por la API) (Punto 25) |
 | 3 conceptos de lámina | ✅ | §19: A y B para ➕ CREAR SALA, C para 🍟 General; objeto, personaje, cuadro, textos y profundidad |
-| 40 fuentes distintas | ✅ | 47 en la bitácora (§21.4; el 3.er ayudante añadió Wikipedia en inglés) |
+| 40 fuentes distintas | ✅ | 47 en la bitácora (§21.4; el 3.er ayudante añadió Wikipedia en inglés), y **61 nuevas** de la segunda pasada (§21.7) |
 | Tipos: oficiales | ⚠️ | tráileres y clips oficiales (en copias), Steam, web de la Jump ✅; **web oficial 403** y sin entrevistas del staff japonés leídas; sí una del director Sunghoo Park (en coreano) |
 | Tipos: otros idiomas | ✅ | japonés (subtítulos, pixiv百科, ciatr, note, eiga-manga), coreano (Xportsnews), chino (Sohu) |
 | Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (JJK, Doblaje, Dubbing Database) y su foro ✅; Wikipedia en inglés ✅; TV Tropes y TCRF 403; Wayback corta el túnel (el 3.er ayudante lo probó otra vez: «Connection reset») |
@@ -2442,7 +2490,7 @@ Inumaki.
 | Tipos: código y recursos | ✅ | kitsunekko-mirror (GitHub), generador de logos (GitHub Pages), Sketchfab, Poly Haven, ambientCG, Google Fonts, dafont |
 | Tipos: doblaje latino | ✅ | Doblaje Wiki (API y audios), Dubbing Database, **ANMTV**, Cine Premiere, Somos Kudasai, Hero Network, Chirchi, Cultura Geek, 3DJuegos LATAM |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 0,80 MB, `fondos_objetos_01.jpg` 0,70 MB, `pantalla_y_letras_01.jpg` 0,78 MB (2400×1780 cada una) |
-| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 40 entradas: 30 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 10 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe) |
+| `referencias.json` (20-40, medidos, url = imagen) | ✅ | 40 entradas: 30 imágenes de la wiki (tamaño por la API y HTTP 200 comprobado) y 10 fotogramas de vídeo con `?start=` (512×288, medido con ffprobe); la segunda pasada suma **12** (10 de `partes/imagen.json` y 2 diagramas de CGWORLD de `partes/texto.json`): **52** |
 
 ## 21 · Bitácora de búsqueda
 
@@ -2584,3 +2632,141 @@ sello de Enma, Todo de cuerpo entero). El `video.mp4` se borró.
 - **Audio o vídeo de YouTube** (403 al bajar, 24-sep, 3.er ayudante):
   sin él no pude pasar Whisper a los clips doblados de Crunchyroll.
 - **El dominio de Megumi en vídeo** (la copia de Dailymotion ya no existe).
+
+### 21.7 Segunda pasada (24-sep-2026): los tres investigadores
+
+Juntado de `partes/imagen.md`, `partes/voz.md` y `partes/texto.md`. Cada
+uno tenía su propio cupo de búsquedas web.
+
+**Imagen (puntos 19 y 23) · 17 búsquedas web**
+
+- **Sin cupo**: API de la Jujutsu Kaisen Wiki (`action=parse` en *Zenin
+  Clan*, *Tokyo Metropolitan Curse Technical College*, *Sukuna*;
+  `list=search` de «emblem OR crest OR badge» y «Nobara tracksuit»); API
+  de la Fortnite Wiki (*Category:Jujutsu Kaisen Set* e `imageinfo` de 4
+  archivos); 6 imágenes bajadas y medidas con Pillow; `estilo.py` sobre la
+  portada de Sukuna.
+- **Buscador** (en inglés, salvo 2 en japonés): Uniqlo UT · café oficial
+  · figuras Good Smile (2) · colaboraciones con apps · emblema del clan
+  Zenin (ja) · trama del manga (ja, sin resultado) · *Fortnite* ·
+  tutoriales de cosplay · pinceles de trama libres · patrón del kimono de
+  Sukuna · Modulo/Colopl (sin resultado) · insignia del uniforme · Puma
+  (sin resultado) · Ichiban Kuji · cosplay premiado (sin resultado) ·
+  pinceles de tinta libres · *kamon* libre en SVG.
+- **Bloqueado o vacío**: patterncosplay.com (dos intentos), tdrexplorer.com,
+  svgrepo.com (anti-bot, dos intentos), myfigurecollection.net (JavaScript),
+  graphicsbunker.com (sin texto de licencia).
+
+**Voz y personajes (puntos 20, 21 y 22) · 9 búsquedas web**
+
+- **Sin cupo**: API de la wiki (`action=parse&prop=wikitext`) de 10
+  personajes y de «Episode 42»; Arctic Shift sobre r/JuJutsuKaisen
+  (`title=Nanami`, `title=cried`, con reintentos por «Timeout»); API de
+  Dailymotion (covers y fandubs); `yt-dlp --skip-download --print` sobre 9
+  vídeos de YouTube (vistas y duración); un intento con TikTok (falló).
+- **Buscador** (español e inglés): premios de 2024 · ventas Oricon 2021 ·
+  reseñas (CBR, IGN, ANN) · Junpei, ep. 7, reacción · muerte de Nanami y
+  su música · BSO de la T2 · Nanami y el público oficinista · fandubs
+  latinos · covers de «Kaikai Kitan» en español · memes hispanos en TikTok.
+- **Bloqueado**: el foro de la wiki (reto de Cloudflare), TikTok con
+  `yt-dlp` («Unexpected response», dos intentos), Arctic Shift («Timeout»
+  varias veces, compartido con el equipo).
+
+**Texto, juegos y técnica (puntos 18, 24 y 25) · 14 búsquedas web**
+
+| # | Idioma | Búsqueda | Qué dio |
+|---|---|---|---|
+| 1 | en | Jujutsu Kaisen MAPPA 3DCG Shibuya animation controversy sakuga analysis | contexto, nada técnico |
+| 2 | ja | 呪術廻戦 作画 セルルック 3DCG 制作 メイキング MAPPA | **CGWORLD** (2 artículos) |
+| 3 | en | Jujutsu Kaisen Blender fan animation cel shader tutorial recreate | **80 Level** (FrameFiend) |
+| 4 | ja | 呪術廻戦 平松禎史 キャラクターデザイン インタビュー 作画 線 | Real Sound, noteapex |
+| 5 | en | Jujutsu Kaisen cinematography analysis camera angles composition | Anime Lore Hub (blog ⚠️) |
+| 6 | en | anime cel shading Photoshop tutorial flat colors multiply layer | **Adobe**, Concept Art Empire |
+| 7 | en | MAPPA animation software Toon Boom RETAS Clip Studio Paint | Wikipedia, CLIP STUDIO ASK, Dark Skies Film |
+| 8 | en | 80.lv shading anime style character model Yuta Okkotsu | el tutorial de DAL (de pago) |
+| 9 | ja | 芥見下々 インタビュー 影響を受けた漫画 好きな漫画家 | pistas a Bleach, HxH, ABARA |
+| 10 | en | Gege Akutami interview favorite manga influences | ScreenRant, FandomWire, edomonogatari |
+| 11 | en | Jujutsu Kaisen compared to Bleach Chainsaw Man tone | **CBR** (3 artículos) |
+| 12 | ja | 呪術廻戦 芥見下々 弐瓶勉 ABARA 皇国の守護者 | tv-smash (ABARA en 2.ª fuente) |
+| 13 | en | Jujutsu Kaisen manga story arcs list order | wiki (*Story Arcs*), Beebom |
+| 14 | en | "Ryomen Sukuna" folklore Hida legend | **Yokai.jp**, Wikipedia |
+
+- **Sin cupo**: wiki `action=parse` de 10 páginas (*Story Arcs*, *Cursed
+  Energy*, *Culling Game*, *Binding Vow*, *Heavenly Restriction*,
+  *Reverse Cursed Technique*, *Simple Domain*, *Cursed Tool*,
+  *Template:Cursed Tools*, *Sorcerer Clan*); 2 imágenes de CGWORLD
+  medidas con Pillow.
+- **Falló**: attackofthefanboy.com (403) y deltiasgaming.com (405); se
+  usó Beebom en su lugar.
+
+**Fuentes nuevas de la segunda pasada** (no estaban en §21.4):
+
+- **Técnica (16)**: [CGWORLD](https://cgworld.jp/article/202203-jujutsukaisen.html) (ja, 3) ·
+  [Real Sound](https://realsound.jp/movie/2023/07/post-1368255_2.html) (ja) ·
+  [noteapex](https://noteapex.conohawing.com/958/) (ja) ·
+  [作画@wiki](https://w.atwiki.jp/sakuga/pages/213.html) (ja) ·
+  [Anime Lore Hub](https://animelorehub.blogspot.com/2025/10/when-frame-speaks-louder-than-words.html) ·
+  [Adobe](https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html) ·
+  [Concept Art Empire](https://conceptartempire.com/cel-shading-tutorials/) ·
+  [CLIP STUDIO ASK](https://ask.clip-studio.com/en-us/detail?id=57247) ·
+  [CLIP STUDIO TIPS](https://tips.clip-studio.com/en-us/articles/10901) ·
+  [CLIP STUDIO ASSETS](https://assets.clip-studio.com/en-us/detail?id=2142037) ·
+  [Dark Skies Film](https://darkskiesfilm.com/what-animation-software-does-mappa-use/) ·
+  [Blender Artists](https://blenderartists.org/t/the-ultimate-cel-shading-shader/1413344) ·
+  [80 Level](https://80.lv/articles/jjk-s-sukuna-vs-mahoraga-fan-animation-in-blender) ·
+  [Sketchok](https://sketchok.com/anime/jujutsu-kaisen/yuta-okkotsu-face-drawing-tutorial-jjk-style-in-12-steps/) ·
+  [Wikipedia, RETAS](https://en.wikipedia.org/wiki/RETAS) ·
+  [Anime Cell Shader in 2 minutes](https://www.youtube.com/watch?v=LJJkCI5u7Rw) (YouTube).
+- **Texturas (4)**: [MyPhotoshopBrushes](https://myphotoshopbrushes.com/resources/3790/manga-brushes) ·
+  [Brusheezy](https://www.brusheezy.com/brushes/18074-comic-ink-brushes-by-mateo) ·
+  [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) ·
+  [SVG Repo](https://www.svgrepo.com/svg/80546/japanese-symbol-family-crest-kamon).
+- **Personajes y fandom (8)**: [AniList](https://anilist.co/anime/113415) ·
+  [Variety](https://variety.com/2024/digital/news/crunchyroll-anime-awards-2024-winners-list-jujutsu-kaisen-1235928308/) ·
+  [Animation Magazine](https://www.animationmagazine.net/2024/03/jujutsu-kaisen-and-demon-slayer-win-top-prizes-at-the-2024-crunchyroll-anime-awards/) ·
+  [Oricon](https://us.oricon-group.com/news/662/) ·
+  [CBR](https://www.cbr.com/jujutsu-kaisen-fans-writing-likes-and-dislikes/) (varios artículos) ·
+  [Epicstream](https://epicstream.com/article/jujutsu-kaisen-nanami-kento-and-his-struggles-as-a-salary-man) ·
+  [SlashFilm](https://www.slashfilm.com/1696249/jujutsu-kaisen-best-deaths-ranked/) ·
+  [Tumblr, @yuujies](https://www.tumblr.com/yuujies/734882331849097216/nanami-kento-%E4%B8%83%E6%B5%B7%E5%BB%BA%E4%BA%BA-in-jujutsu-kaisen-episode-42).
+- **Comunidad hispana (4)**: [LATAM Fandub Studios](https://www.dailymotion.com/video/xagbkga) (Dailymotion) ·
+  [David Delgado, cover](https://www.youtube.com/watch?v=JXSDUu_sVcQ) ·
+  [ElRai](https://www.youtube.com/watch?v=9uwA-lly6TM) ·
+  [TikTok, @traductordemomosbv](https://www.tiktok.com/@traductordemomosbv/video/7346331193773853958).
+- **Colaboraciones (22)**: [Uniqlo](https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487560/item/usgoods_00_487560_3x4.jpg) ·
+  [Hypebeast](https://hypebeast.com/2026/3/subtitle-jujutsu-kaisen-apparel-collection-release-info) ·
+  [SoraNews24](https://soranews24.com/2026/01/17/massive-manga-collaboration-bringing-100-years-of-shueisha-manga-to-uniqlo-t-shirts%E3%80%90photos%E3%80%91/) ·
+  [Hugo Boss](https://group.hugoboss.com/en/newsroom/news/news-detail/hugo-x-jujutsu-kaisen-a-style-curse-you-dont-want-to-break) ·
+  [Under Armour](https://about.underarmour.com/en/stories/2025/10/under-armour-and-jujutsu-kaisen-unleash-limited-edition-heatgear.html) ·
+  [Fortnite Wiki](https://fortnite.fandom.com/wiki/Category:Jujutsu_Kaisen_Set) ·
+  [esports.gg](https://esports.gg/news/fortnite/jjk-wave-2-fortnite-collaboration-all-skins-prices-and-more/) ·
+  [Dexerto](https://www.dexerto.com/fortnite/fortnite-jujutsu-kaisen-collab-release-date-skins-2232902/) ·
+  [Crunchyroll News](https://www.crunchyroll.com/news/latest/2021/9/27/jujutsu-kaisen-kicks-off-collab-with-mobile-game-puzzle-dragons) ·
+  [Pocket Gamer](https://www.pocketgamer.com/puzzle-dragons/puzzle-dragons-x-jujutsu-kaisen-collab-brings-special-dungeons-and-a-twitter-giv/) ·
+  [café oficial](https://jujutsukaisen-cafe.jp/cafe_menu/) ·
+  [JW Web Magazine](https://jw-webmagazine.com/tips/jujutsu-kaisen-x-sanrio-cafe-collaboration-in-japan-2025/) ·
+  [Sweets Paradise](https://www.sweets-paradise.jp/collaboration/jujutsukaisen2) ·
+  [AniTrendz](https://anitrendz.net/news/2021/09/02/jujutsu-kaisen-teams-up-with-lawson-for-food-and-goods/) ·
+  [Essential Japan](https://essential-japan.com/news/lawson-launches-huge-new-jujutsu-kaisen-collab-launches-this-june/) ·
+  [Prince Hotels](https://www.princehotels.co.jp/sunshine/restaurant/contents/jujutsukaisen/) ·
+  [Good Smile Company](https://www.goodsmile.info/en/jujutsukaisen) ·
+  [Toy People](https://www.toy-people.com/en/?p=109742) ·
+  [Yasuee](https://yasuee.com/news/ichiban-kuji-jujutsu-kaisen-5th-anniversary-final-yuji-yuta-gojo-figures-revealed) ·
+  [Costumary](https://www.costumary.com/templates/jujutsu-kaisen/sukuna) ·
+  [Flickr, timz2011](https://live.staticflickr.com/65535/51990687193_31c8113f43_b.jpg) ·
+  [Game Rant](https://gamerant.com/jujutsu-kaisen-gyukaku-collab/).
+- **Obras parecidas y mundo (7)**: [edomonogatari](https://edomonogatari.wordpress.com/2021/03/14/akutami-kubo/) ·
+  [Screen Rant](https://screenrant.com/jujutsu-kaisen-akutami-anime-inspiration-bleach-evangelion/) ·
+  [tv-smash](https://tv-smash.com/?p=9202) (ja) ·
+  [hatenablog](https://jgjhgjf.hatenablog.com/entry/2021/03/08/221739) (ja) ·
+  [FandomWire](https://fandomwire.com/neither-dragon-ball-nor-naruto-were-the-anime-that-inspired-gege-akutamis-magnum-opus/) ·
+  [Beebom](https://beebom.com/jujutsu-kaisen-arcs-in-order/) ·
+  [Yokai.jp](https://yokai.jp/en/yokai/ryomen-sukuna).
+
+**Lo que siguió sin encontrarse** (de las tres partes): grano de papel de
+un tomo impreso; licencias de SVG Repo y GraphicsBunker; foto del
+estampado de la sudadera de Nobara; un cosplay premiado con nombre;
+colaboración con Puma (no existe, que se sepa); minuto de la muerte de
+Junpei; qué pista suena justo en la muerte de Nanami; vistas de TikTok;
+una encuesta latina; el programa 2D de MAPPA por nombre; el desglose de
+pago de DAL.
