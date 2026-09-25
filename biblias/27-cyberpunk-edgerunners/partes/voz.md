@@ -402,3 +402,17 @@ quedan ⚠️ sin confirmar**):
 - **yt-dlp**: un intento de metadatos de un fandub de YouTube, bloqueado
   con «Sign in to confirm you're not a bot» (mismo problema que el resto
   del equipo con este servidor).
+
+Sigue: punto 8 (obligatorio, ENCARGO dice «cada nombre verificado en DOS
+fuentes») — falta la segunda fuente de los actores secundarios del
+doblaje latino (Dorio/Kerygma Flores, Pilar/Armando Guerrero,
+Falco/Edson Matus, Tanaka/Sebastián Llapur, Katsuo Tanaka/Arturo
+Castañeda, Jimmy Kurosaki/Christian Strempler, Julio/Alan Bravo,
+Profesora IA/Cony Madera, Adam Smasher/Idzi Dutkiewicz). Ya sólo quedan
+en Doblaje Wiki (una fuente). Intenté okamisamatv.com.mx (bloqueado por
+la política de red del contenedor), TV Tropes y Wayback Machine
+(Cloudflare / `connect_rejected`, dos intentos cada uno) y Anime News
+Network (aviso de seguridad al abrir la ficha de Kerygma Flores). Falta
+probar: cuentas de Instagram/X de cada actor (confirmando su propio
+papel), o reintentar Wayback Machine y okamisamatv cuando la red del
+contenedor lo permita.
