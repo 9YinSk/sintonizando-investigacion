@@ -132,8 +132,9 @@ libretas están en `partes/` (`imagen.md`, `video.md`, `voz.md`,
   Alpha Coders ya abre (§3, §17).
 - El juego **Chainsaw Man Mobile**, anunciado el 19-jun-2026 (§13).
 - **Los puntos 18-25**, nuevos: §18A a §18H.
-- La tabla **«Cumplimiento del encargo»** y `referencias.json` rehecho
-  con tamaños medidos.
+- La tabla **«Cumplimiento del encargo»** y `referencias.json` rehecho:
+  de 35 enlaces sin tamaño a **266** referencias (**142** con ancho y alto
+  medidos), las mejores primero.
 
 **Los ⚠️**
 - **Antes**: el número de la primera pasada **no quedó apuntado** (el
@@ -142,7 +143,8 @@ libretas están en `partes/` (`imagen.md`, `video.md`, `voz.md`,
   película, las licencias de Sketchfab, los hex «propuestos» del cine y
   del vestuario, la ropa de Makima en la cita, las posturas que ya se
   vieron en fotograma, los tamaños de imágenes y fondos.
-- **Quedan**: PENDIENTE_AVISOS (contados con `grep` al cerrar). Los
+- **Quedan**: **147** ⚠️ en todo el texto (contados con `grep` al cerrar;
+  incluye los de la tabla y los de las secciones nuevas 18A-18H). Los
   principales: la frase latina de Makima en el cine (no la oí), minutos y
   vistas de YouTube y TikTok (piden sesión), caras por emoción y poses de
   §15 sin fotograma, qué cine real inspiró シネマ座, el programa de dibujo
@@ -1817,12 +1819,12 @@ márcalos.» Denji, de réplica: «¡¿Y si es de las malas?!». Makima:
   carga: composición en capas ✅ (misma fuente).
 - El opening copia **plano a plano** escenas de películas reales ✅ (misma
   fuente y §11).
-- **Por emoción**, en la escena del cine (§2, §15): **alegría** en plano
-  medio frontal (Denji, 7:04); **explicar o recomendar** en plano medio
-  lateral, ella girada hacia él (Makima, 9:28); **llanto** en **primer
-  plano de perfil**, en silencio (Makima, 10:36); **soledad o final** en
-  **plano general** con las dos siluetas y la pantalla en blanco (10:43)
-  ✅ (vistos, corte EN).
+- **Por emoción**, en la escena del cine (§2, §15; vistos en el corte
+  EN) ✅: **alegría**, un encuadre que deja ver la cara y los puños al
+  pecho (Denji, 7:04); **explicar o recomendar**, ella sentada y girada
+  hacia él (Makima, 9:28); **llanto**, **de perfil**, una lágrima, en
+  silencio (Makima, 10:36); **final**, **plano general** con las dos
+  siluetas y la pantalla en blanco (10:43).
 
 ### 18A.4 Cómo reproducirlo en Photoshop y Blender
 Guía propia hecha con lo de arriba (no es cita de nadie):
@@ -2259,7 +2261,8 @@ Unluck*** (90), ***Attack on Titan*** (89), ***Tatsuki Fujimoto 17-26***
 1. Los **demonios** nacen en el **Infierno** del miedo humano a algo:
    cuanto más se teme, más fuerte es el demonio ([wiki: Devil](https://chainsaw-man.fandom.com/wiki/Devil)).
 2. Un demonio firma un **contrato** con un humano: poder a cambio de algo
-   (años de vida, un órgano, obediencia). Romperlo mata
+   (años de vida, un órgano, obediencia). Romperlo mata, salvo que el
+   contrato traiga una salida
    ([wiki: Contract](https://chainsaw-man.fandom.com/wiki/Contract)).
 3. Un **endemoniado** (*Fiend*, 魔人) es un demonio dentro de un cadáver,
    como Power; un **híbrido** es un humano fundido con un demonio, como
@@ -2308,8 +2311,8 @@ Vejez; el Demonio Muerte y el final de la obra.
 - **シネマ座**, el cine de la cita (§2, §5): el símbolo de esta lámina.
 - **Las entradas de cine y el pan con mermelada** (§14).
 - Curiosidad: en la página de Pochita, la wiki guarda una foto de una
-  **motosierra Makita** real, naranja (hoja 3, n.º 413) ⚠️ (sin
-  explicación oficial).
+  **motosierra Makita** real, naranja (hoja 3, n.º 414; [1840×1110](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Makita_Chainsaw_%283%29.jpg))
+  ⚠️ (sin explicación oficial).
 
 ### 18H.4 Vocabulario propio (para textos y para la IA)
 Demonio (*Devil*, 悪魔) · Endemoniado (*Fiend*, 魔人) · Híbrido
@@ -2479,7 +2482,51 @@ Primera pasada (24-sep), y lo que hizo con ello la segunda (25-sep):
 
 ## Cumplimiento del encargo
 
-_(se rellena en esta pasada)_
+Los 25 puntos de ENCARGO.md, «Qué investigar», y lo demás que pide.
+✅ hecho · ⚠️ a medias (y por qué) · ❌ no hecho. Revisado el 25-sep-2026,
+al cerrar la segunda pasada.
+
+| Punto | Qué pide | Estado | Dónde y por qué |
+|---|---|---|---|
+| 1 | Arte oficial, en cantidad y variado | ✅ | §3 y §3A: tomos 1-11 (menos el 3) con tamaño, versiones sin texto, revistas, cartel IMAX, *key visuals*, Jump Festa, ilustraciones de revelado. Faltan los tomos 3 y 12-24 (detalle) |
+| 2 | Fotogramas de escenas icónicas en 1080p, con capítulo y minuto | ✅ | §2 y §15: la cita del cine vista entera y sus fotogramas en 1080p reales (Internet Archive); Power (ep. 2) y Aki (ep. 7) en fotograma |
+| 3 | Fan art y 3D con licencia libre | ✅ | §4: fan art con autor (Pixiv, ArtStation, Safebooru) y 30 modelos de Sketchfab con licencia leída en su API |
+| 4 | Fondos y sitios, luz, paleta y texturas reales | ✅ | §5: シネマ座 con paleta medida, área de descanso, lugares reales, texturas de ambientCG miradas. ⚠️ sin encontrar: qué cine real inspiró la sala |
+| 5 | Tipografía por uso, letra libre con tildes, ñ, ¿ y ¡ | ✅ | §6: una letra por uso, comprobadas con fontTools |
+| 6 | Cómo hablan en pantalla (el cuadro de diálogo) | ✅ | §7: el subtítulo de cine de la propia escena. No hay juego publicado con cajas de diálogo (§13) |
+| 7 | Personajes y encuestas de popularidad | ✅ | §8 y §9: 3 encuestas oficiales con top 10 y votos, VIZ, Danbooru y AniList |
+| 8 | Doblaje latino: reparto en dos fuentes y frases textuales | ⚠️ | §10: todo el reparto con nombre, ✅ en dos fuentes; frases con episodio (Doblaje Wiki) y clips. Falta el **minuto** de las frases y la **frase latina de Makima en el cine**: YouTube pide iniciar sesión y las muestras de Doblaje Wiki no se pasaron por `voz.py` |
+| 9 | Música y sonido | ✅ | §11: opening, endings (el del ep. 1 sin animación), piezas de Ushio para la escena del cine, sonido de cada película |
+| 10 | Vídeos y tendencias con minuto exacto | ⚠️ | §12: tráiler, opening y endings mirados con minuto. Los enlaces de YouTube y los de TikTok siguen **sin verificar** (piden sesión) |
+| 11 | Videojuegos: interfaz, menús, cajas de diálogo | ✅ | §13: no hay juego publicado (dicho y por qué); *Chainsaw Man Mobile* anunciado el 19-jun-2026, sin interfaz pública aún |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14 |
+| 13 | Descripción profunda de cada personaje y su cara en cada emoción | ⚠️ | §8: carácter, historia, cómo habla, dinámicas ✅. Caras con fotograma sólo algunas (alegría de Denji 7:04, llanto de Makima 10:36, grito de Power); **faltan rabia, miedo y vergüenza** en vídeo |
+| 14 | Poses analizadas (6-10 por personaje) con minuto | ⚠️ | §15: 49 poses con minuto o enlace; las marcadas ⚠️ salen del subtítulo o del contexto y **no se vieron en fotograma** |
+| 15 | Vestuario con hex | ✅ | §16: hex medidos con Pillow en diseños oficiales y fotogramas; ropa de la cita |
+| 16 | Ciudades, paisajes y fondos de pantalla | ✅ | §17: 15 fondos de Wallhaven con tamaño y autor, Alpha Coders con tamaños; sitios con luz y hora |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos, etiquetas, paleta medida, línea, luz, encuadre, palabras que ayudan y que estropean, frases reales por emoción |
+| 18 | Estilo de dibujo y técnica, y cómo replicarlo | ✅ | §18A: manga y anime (CGWORLD: programas, *rigs*, fotografía de Itō), encuadres, guía de Photoshop y Blender, *rigs* libres. ⚠️ el programa de Fujimoto (una fuente) |
+| 19 | Texturas 2D | ✅ | §18B: rayado, trama, papel, terciopelo, grano, logo, con licencia |
+| 20 | Gustos y detalles de cada personaje | ⚠️ | §18C: alturas, manías, objetos, trivia. **No hay *databook*** encontrado: faltan **cumpleaños** y comidas favoritas de varios |
+| 21 | Por qué la gente la ama y las escenas que hacen llorar | ⚠️ | §18D: crítica, premios, ventas, identificación y la escena del cine completa (minuto, música, dibujo, actuación). Faltan **otras escenas** con minuto y los **comentarios más votados** (Arctic Shift dio *timeout*) |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | §18E: fandubs de LATAM Fandub Studios (vistas de Dailymotion ✅), 8 covers de «KICK BACK», memes y premio del doblaje. **Vistas de YouTube y TikTok sin comprobar** |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | §18F: 6 revistas, UNIQLO UT ×2, cafés, figuras de Good Smile, cosplay con nombre. Cruces con otros juegos: no encontré |
+| 24 | Obras parecidas y temas relacionados | ✅ | §18G: lo que dice Fujimoto, influencias, crítica, recomendaciones de AniList y otras láminas del servidor |
+| 25 | El mundo, la historia y sus símbolos | ✅ | §18H: reglas en cinco líneas, arcos de las dos partes, símbolos y vocabulario. ⚠️ el día exacto del final del manga |
+| Conceptos | Tres conceptos de lámina distintos | ✅ | §19: A fila de butacas (Makima y Denji), B cartelera y marquesina シネマ座 (Power), C pizarra del café (Reze) |
+| Fuentes | Mínimo 40 fuentes distintas | ✅ | 130 webs distintas enlazadas (`revisar.py`) |
+| Tipo | Oficiales (web, redes, entrevistas, *making of*) | ✅ | chainsawman.dog, X oficial, Shōnen Jump, Crank-in!, CGWORLD, Natalie, Good Smile, UNIQLO |
+| Tipo | En otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (CGWORLD, Crank-in!, Real Sound, Yahoo!知恵袋), coreano (NamuWiki) y chino (Wikipedia china, Douban) en la primera pasada. ⚠️ ningún análisis de técnica en coreano o chino |
+| Tipo | Wikis de fans, TV Tropes, The Cutting Room Floor, Wayback Machine | ⚠️ | Fandom, Doblaje Wiki, TV Tropes, VS Battles, NamuWiki ✅. TCRF no aplica (no hay juego). **Wayback Machine no se usó** en ninguna pasada |
+| Tipo | Foros y comunidades | ✅ | Reddit (hilos con votos, vía recolector), X, Yahoo!知恵袋, Letterboxd, MyAnimeList. Arctic Shift dio *timeout* |
+| Tipo | Arte (Pixiv, ArtStation…) | ✅ | Pixiv, Pixiv Enciclopedia, ArtStation, Safebooru, Danbooru, Wallhaven |
+| Tipo | Vídeo con minuto exacto | ⚠️ | Internet Archive y Dailymotion mirados con minuto ✅; YouTube y TikTok sin abrir (piden sesión) |
+| Tipo | Código y recursos (GitHub, Sketchfab, texturas) | ✅ | subtítulos en GitHub, Google Fonts, Sketchfab (API), ambientCG, Clip Studio Assets |
+| Tipo | Doblaje latino (Doblaje Wiki, ANMTV, entrevistas, créditos) | ✅ | Doblaje Wiki por su API, AniList, ANMTV, entrevistas en prensa latina |
+| Hojas | 3 hojas de contacto en `hojas/`, JPEG de menos de 3 MB | ✅ | `imagen_01` (1,1 MB), `imagen_02` (1,2 MB), `imagen_03` (0,85 MB); qué número sirve, en §3A |
+| Referencias | `referencias.json`, mínimo 20, las mejores primero | ✅ | 266 referencias, 142 con tamaño medido; primero los fotogramas del cine en 1080p |
+| Minutos y hex | 15 minutos citados, 10 colores medidos | ✅ | más de 300 minutos y 45 hex (`revisar.py`) |
+| Repaso | «Segunda pasada · qué cambió» y bitácora ampliada | ✅ | arriba del todo y §21 |
 
 ---
 
@@ -2610,11 +2657,92 @@ _(se rellena en esta pasada)_
   Informador, Récord, Diario de México.
 
 ### Lo que NO encontré
-- Un **cuadro de diálogo propio** de la franquicia (no existe: no hay
-  juego publicado y el manga usa globos corrientes).
+- Un **cuadro de diálogo propio** de la franquicia: no lo encontré (no
+  hay juego publicado; *Chainsaw Man Mobile* sólo está anunciado, §13, y
+  el manga usa globos corrientes).
 - **La frase latina de Makima** en el cine y la ropa de la cita.
 - **Qué cine real** es la sala de la cita.
 - **Subtítulos o guiones en español** de la serie o la película en GitHub.
 - **Minutos** de los planos del opening y de los vídeos de TikTok.
 - Nada en **The Cutting Room Floor** (no hay juego) ni en **Wayback
   Machine** (sin cupo).
+
+### Segunda pasada (25-sep-2026, red abierta)
+Resumen de las bitácoras de las 4 partes (el detalle, en cada
+`partes/<rol>.md`). Cada investigador tenía su cupo de ~50 búsquedas web;
+usaron pocas porque la red directa dio casi todo.
+
+**Recolector gratuito** (`recolectar.py`, 24-sep): AniList (obra, staff,
+recomendaciones, fichas), Doblaje Wiki (reparto, muestras de audio,
+«Datos de interés»), Fandom (imágenes y texto), Danbooru, Safebooru,
+Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive,
+MusicBrainz, Steam y Reddit. Falló AnimeThemes (HTTP 522).
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- API de la wiki (inglés): tamaños de tomos 1-2 y 4-11, revistas y
+  diseños del arco de Reze; wikitext del cap. 39; categoría «Chapter 39
+  Images»; búsquedas «badge OR emblem Public Safety» e «insignia pin
+  uniform» (sin resultado).
+- API de Sketchfab: licencia y autor de 30 modelos, uno por uno.
+- Alpha Coders: ahora abre (HTTP 200); tamaños y un autor del HTML.
+- 12 búsquedas web (español, inglés, japonés): revistas de moda, cafés,
+  Good Smile, UNIQLO UT, tramas de Fujimoto, 藤本タツキ クリップスタジオ,
+  pinceles de Clip Studio y Photoshop, cosplay (Vinnegal, Wiru_Son),
+  juego para móvil.
+- Colores medidos con `estilo.py` y Pillow en los 5 diseños oficiales.
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- Internet Archive: la película (`rezearc`, 100:08, 1920×1080) y los 12
+  episodios (`ep-03-cm`); usados el 1, el 2 y el 7. Fotogramas en 1080p
+  con `ffmpeg` por salto HTTP, sin bajar los 5,28 GB.
+- Dailymotion: tráiler `x8dsw0h`, visto entero.
+- `fotogramas.py` 9 veces y `estilo.py` 5 veces; vídeos borrados tras
+  sacar las hojas.
+- AnimeThemes: 522 en la API y en la CDN (descartado).
+- 2 búsquedas web (inglés): minuto del opening y el ending sin animación
+  del ep. 1.
+- Wiki: `srsearch` de «movie theater scene reference» y «シネマ座» (sin
+  resultado).
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki: wikitext completo de la serie y de la película.
+- AniList: 14 fichas de personaje (voz «Spanish» como segunda fuente).
+- Wiki en inglés: wikitext de Denji, Makima, Power, Aki, Reze, Himeno,
+  Kobeni y «Popularity Polls».
+- Wikipedia en inglés: «Critical reception», «Awards» y «8th Crunchyroll
+  Anime Awards».
+- Crank-in! (japonés): entrevista a Toya y Kusunoki (14-sep-2025).
+- 9 búsquedas web (español, inglés, japonés): premios, Emilio Treviño,
+  covers de «Kick Back», fandubs, ventas 2026, la frase de Makima,
+  楠木ともり マキマ インタビュー.
+- Arctic Shift: 2 intentos, los dos con *timeout*.
+
+**Texto y técnica** (puntos 18, 24, 25)
+- API de la wiki: `allpages`, «Public Safety Saga», «Academy Saga»,
+  «Devil», «Contract», «Fiend», «Devil Hunter», «Four Horsemen»,
+  «Pochita», «Denji»; búsquedas «story arc», «ripcord OR pull cord»,
+  «Public Safety emblem OR symbol».
+- Búsquedas web en inglés (6) y japonés (3): influencias de Fujimoto,
+  CGWORLD, *color grading*, estilo del manga, Devilman, División 4;
+  チェンソーマン 藤本タツキ 影響 映画, 藤本タツキ 作画 使用ソフト.
+- Leídos: Anime Herald, CGWORLD partes 1 y 3, Wikipedia en inglés.
+  **medium.com dio 403** (no sirvió).
+- `grep` sobre los más de 130 `encargos/` para las láminas parecidas.
+
+**Redactor**: leyó las 4 partes y los `datos-*.md` para completar;
+rehízo `referencias.json` con todo lo útil de `partes/*.json` y
+`datos.json` (266, las mejores primero); dejó fuera el fan art de otra
+serie que coló Danbooru (etiqueta de Bakugou), fotos de Flickr sin
+relación (motosierras de verdad) y un juego de Steam ajeno.
+
+**Lo que siguió sin encontrarse en la segunda pasada**
+- La frase latina de Makima en el cine (YouTube pide sesión).
+- Vistas de fandubs y covers en YouTube y TikTok.
+- Qué cine real inspiró シネマ座 y qué película homenajea la película de
+  dentro.
+- Un emblema de la Seguridad Pública (no hay escudo en la wiki).
+- Una segunda fuente para el programa de dibujo de Fujimoto.
+- Un *databook* con cumpleaños y comidas.
+- Un *crossover* con otro juego (Fortnite, Identity V, gachas).
+- Análisis de técnica en coreano o chino.
+- Wayback Machine: no se usó.

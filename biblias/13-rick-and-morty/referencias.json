@@ -1,326 +1,839 @@
 [
-  {
-    "url": "https://github.com/lucas-dclrcq/ifi-atelier-spark/tree/master/src/main/resources/data/rickandmorty",
-    "fuente": "GitHub (ifi-atelier-spark)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos en inglés de Addic7ed, con tiempos, del 1×01 al 3×06 y del 4×01.",
-    "para_que": "Base de todos los minutos de la biblia: 1×08, 2×08, 1×05, 3×03.",
-    "licencia": "Subtítulos de terceros. Sólo consulta."
-  },
-  {
-    "url": "https://github.com/alexlyzhov/sphere-neural/tree/master/10_nlp/sub",
-    "fuente": "GitHub (sphere-neural)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos en inglés de la temporada 1 (Blu-ray y HDTV) y del 2×01 al 2×06.",
-    "para_que": "Segunda versión de los minutos del 1×08 y el 1×05 (±2 s).",
-    "licencia": "Subtítulos de terceros. Sólo consulta."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/225.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Michael Thompson, presentador de «Opposite News» (2×08), con papeles en la mano, traje azul oscuro y fondo de plató.",
-    "para_que": "El noticiero de la serie: pantalla del concepto A, paleta del plató (#A0BDCF).",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/277.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Vendedor de Real Fake Doors con los brazos abiertos delante de puertas de colores (1×08).",
-    "para_que": "Pose de «¡miren esto!» y el anuncio del rótulo inferior (1×08, 00:11:18).",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/184.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Jon (Gazorpazorpfield) leyendo un periódico con la cabecera «NEWS».",
-    "para_que": "Un periódico dentro de la serie; objeto para el concepto C.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/460.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Periodista traflorkiano (2×08) con sombrero, micrófono y la mano levantada.",
-    "para_que": "Pose de «preguntar / abrir un hilo»; variante del concepto C.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/631.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Rick enseñando un objeto dorado en la palma de la mano, luz cálida.",
-    "para_que": "Pose de Rick para presentar (concepto A, con el cristal).",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/1.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Rick de frente: párpados caídos, ceja fruncida, dientes, baba, bata blanca.",
-    "para_que": "Pose de regañar y colores de Rick (pelo #AAD3E9, camisa #97D7D7).",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/2.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Morty de pie mirando arriba, preocupado, camiseta amarilla.",
-    "para_que": "Pose de pensar/dudar; Morty en los conceptos A y B.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/630.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Morty con la palma hacia arriba explicando.",
-    "para_que": "Pose de explicar.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/3.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Summer de brazos cruzados junto a la nevera, top rosa.",
-    "para_que": "Pose de regañar; Summer al fondo del concepto C.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/339.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Summer con los brazos abiertos y la boca abierta en la mesa del desayuno.",
-    "para_que": "Pose de debatir/protestar: la voz del hilo.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/242.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Sr. Meeseeks de pie, sonriendo, brazos largos colgando.",
-    "para_que": "Pose de presentarse; concepto C. Color #63C4EE.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/265.jpeg",
-    "fuente": "The Rick and Morty API",
-    "ancho": 300,
-    "alto": 300,
-    "que_es": "Pepinillo Rick en su traje de ratas, brazos arriba, gritando (3×03).",
-    "para_que": "Pose de celebrar; concepto B. Verde #659025.",
-    "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://github.com/rieger-jared/rick-and-morty-api/blob/main/internal/data/characters.json",
-    "fuente": "GitHub (rieger-jared)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "JSON con los 826 personajes de la API: número, nombre y episodios.",
-    "para_que": "Saber quién es cada fotograma (p. ej. 225 = Michael Thompson).",
-    "licencia": "Datos de fans. Sólo consulta."
-  },
-  {
-    "url": "https://github.com/nanxstats/ggsci/blob/master/R/palettes.R",
-    "fuente": "GitHub (ggsci, Nan Xiao)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Paleta «schwifty» de 12 colores inspirada en Rick y Morty.",
-    "para_que": "Segunda fuente de los hex de §5.2 (MortyYellow #FAFD7C, MeeseeksBlue #69C8EC…).",
-    "licencia": "GPL-3 (el paquete). Los colores son datos."
-  },
-  {
-    "url": "https://polyhaven.com/a/Television_01",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de tele antigua con mueble de madera, con materiales de madera, metal y vidrio.",
-    "para_que": "La tele del concepto A en Blender.",
-    "licencia": "CC0 (sin crédito obligatorio)."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1",
-    "fuente": "Sketchfab (MagunDongle)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de fans de la caja Meeseeks.",
-    "para_que": "Forma de la caja del concepto C.",
-    "licencia": "Sin comprobar (la API de Sketchfab daba 403). Sólo mirar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee",
-    "fuente": "Sketchfab (kreems)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de fans de la pistola de portales, descargable.",
-    "para_que": "Objeto en primer plano (conceptos A y B).",
-    "licencia": "«Download Free»: comprobar si es CC BY y dar crédito exacto."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/D5ZLL0",
-    "fuente": "ArtStation (Aziz Saadana)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Rick and Morty's Living Room»: el salón de los Smith en 3D semirrealista.",
-    "para_que": "Distribución del salón (sofás, tele, estantería) para el concepto A.",
-    "licencia": "Fan art. Sólo referencia, nunca pegar."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/4Nz0k1",
-    "fuente": "ArtStation (Joshua Kolkin)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "El garaje de Rick en Unreal, para realidad virtual.",
-    "para_que": "Banco de trabajo y luz del garaje para el concepto B.",
-    "licencia": "Fan art. Sólo referencia."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=8c4hAsobciA",
-    "fuente": "YouTube (Adult Swim)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Rick and Morty Style Guide» (2018): el director de arte Jeffrey Thompson explica cómo dibujarlos.",
-    "para_que": "Reglas de dibujo antes de retocar recortes o pedir fondos a una IA.",
-    "licencia": "© Adult Swim. Sólo ver."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=11OyiuqAzA4",
-    "fuente": "YouTube (Adult Swim)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Interdimensional Cable: The Weirdest Ads» (enero de 2026): Rick cambia la caja del cable de los Smith.",
-    "para_que": "Ver la caja, la tele y el salón: el objeto del concepto A.",
-    "licencia": "© Adult Swim. Sólo ver."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=P4w5GB1PyGo",
-    "fuente": "YouTube (Adult Swim)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Every In-Universe Commercial in Rick and Morty» (diciembre de 2024).",
-    "para_que": "Los rótulos inferiores de los anuncios: el cuadro de diálogo de la serie.",
-    "licencia": "© Adult Swim. Sólo ver."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=rIcoES14iU4",
-    "fuente": "YouTube (Adult Swim LA)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Caos interdimensional con Rick y Morty», clip oficial en español.",
-    "para_que": "Oír el doblaje latino y comprobar frases.",
-    "licencia": "© Adult Swim. Sólo ver."
-  },
-  {
-    "url": "https://x.com/RickandMorty/status/2046243740625347012?lang=en",
-    "fuente": "X (cuenta oficial Rick and Morty)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Arte de producción de la T9: Rick luchador, Summer olímpica, Morty cabeza de tele y fondos.",
-    "para_que": "Poses y trajes nuevos; Morty cabeza de tele para un canal de noticias.",
-    "licencia": "© Adult Swim. Sólo referencia."
-  },
-  {
-    "url": "https://deadline.com/gallery/rick-and-morty-season-9-photos-adult-swim/",
-    "fuente": "Deadline",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Primeras imágenes y póster de la temporada 9.",
-    "para_que": "Arte promocional reciente, con estilo actual.",
-    "licencia": "© Adult Swim. Sólo referencia."
-  },
-  {
-    "url": "https://press.wbd.com/us/image/adultswimrickandmortykeyart-0",
-    "fuente": "Pressroom de Warner Bros. Discovery",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Key art oficial de Rick and Morty.",
-    "para_que": "Estilo y colores oficiales del arte promocional.",
-    "licencia": "© Adult Swim. Uso de prensa."
-  },
-  {
-    "url": "https://www.darkhorse.com/Books/3006-618/The-Art-of-Rick-and-Morty-Volume-2-HC",
-    "fuente": "Dark Horse",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Artbook oficial de las temporadas 3 y 4 (216 páginas).",
-    "para_que": "Fondos, diseños y comentarios del equipo, si se consigue.",
-    "licencia": "© Adult Swim / Dark Horse."
-  },
-  {
-    "url": "https://www.itsnicethat.com/features/inside-rick-and-morty-art-director-james-mcdermotts-sketchbooks-250717",
-    "fuente": "It's Nice That",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista y cuadernos del director de arte James McDermott.",
-    "para_que": "El tono visual: lo amable mezclado con lo macabro.",
-    "licencia": "Artículo. Sólo lectura."
-  },
-  {
-    "url": "https://github.com/fmiguezo/SkillFactory-SegundoProyecto/tree/main/src/font",
-    "fuente": "GitHub (fmiguezo)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "La letra «Get Schwifty» (jonizaak), recreación del logo.",
-    "para_que": "Títulos sin tildes. Comprobado: sólo A-Z, a-z y 0-9.",
-    "licencia": "Gratis con crédito al autor (jonizaak)."
-  },
-  {
-    "url": "https://github.com/google/fonts/tree/main/ofl/creepster",
-    "fuente": "GitHub (google/fonts)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Creepster, letra de trazo irregular.",
-    "para_que": "Títulos con tildes en el espíritu del logo. Trae á é í ó ú ñ ¿ ¡.",
-    "licencia": "SIL OFL 1.1."
-  },
-  {
-    "url": "https://github.com/google/fonts/tree/main/ofl/anton",
-    "fuente": "GitHub (google/fonts)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Anton, condensada y gruesa.",
-    "para_que": "El rótulo inferior de la noticia. Trae tildes, ñ, ¿ y ¡.",
-    "licencia": "SIL OFL 1.1."
-  },
-  {
-    "url": "https://www.tiktok.com/@streammaxla/video/7271440286755130629",
-    "fuente": "TikTok (HBO Max Latinoamérica)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clip oficial «¡¡Soy un pepinillo!!» en latino.",
-    "para_que": "Frase verificada de Pepinillo Rick para el concepto B.",
-    "licencia": "© Adult Swim / HBO Max. Sólo ver."
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=1099810",
-    "fuente": "Wallpaper Abyss",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo «Rick & Morty: 4K Portal Panic».",
-    "para_que": "Luz y color de un portal (el verde que no pude medir).",
-    "licencia": "Sin comprobar. Sólo referencia."
-  },
-  {
-    "url": "https://github.com/ClumsyPandal1/PocketMortysOfflinePatch",
-    "fuente": "GitHub (ClumsyPandal1)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Parche de fans para jugar Pocket Mortys tras el cierre de sus servidores oficiales.",
-    "para_que": "Ejemplo de noticia real de la franquicia (2026).",
-    "licencia": "GPL-3.0 (el parche)."
-  }
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/9/9e/Morty_model_sheet.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), archivo con logo de Starburns Industries",
+  "ancho": 9796,
+  "alto": 4482,
+  "que_es": "Hoja de modelo oficial de Morty (turnaround completo) y turnaround de línea de Rick, con los logos de Starburns Industries y de la serie",
+  "para_que": "Punto 1: la referencia de pose y proporción más oficial que hay; también sirve para medir hex (ya usado en punto 15)",
+  "licencia": "Arte de producción de Adult Swim / Starburns Industries. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/6/68/FullBodyRick.png",
+  "fuente": "Rick and Morty Wiki (Fandom)",
+  "ancho": 696,
+  "alto": 1082,
+  "que_es": "Rick de cuerpo entero, pose de pie sosteniendo un dispositivo con un vial verde, hoja de modelo/estilo oficial",
+  "para_que": "Punto 1 y 15: pose de presentar algo en la mano; hex del pantalón medido aquí (#8E774D)",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/f/fa/Vlcsnap-2015-01-31-03h49m20s197.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Rick y Morty en el sofá azul del salón de los Smith, vistos desde la tele (hoja pickle-rick_01, n.º 186; capítulo sin identificar)",
+  "para_que": "Concepto A: punto de vista de la tele, sofá y luz del salón",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/7/7c/S3e3_rick_watching_u.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pepinillo Rick dentro de un monitor (3×03), hoja n.º 148",
+  "para_que": "Concepto A: personaje dentro de una pantalla",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/2/23/S3e3_rick_is_ready_to_go.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pepinillo Rick con el traje de ratas, brazo arriba (3×03), hoja n.º 145",
+  "para_que": "Concepto B: pose de celebrar",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/1/15/S3e3_ricks_weapon.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pepinillo Rick de frente con su arma, mirando a cámara (3×03), hoja n.º 149",
+  "para_que": "Concepto B: pose de regañar",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/b/b1/S3e3_battery_gun.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pepinillo Rick con la pistola de pilas (3×03), hoja n.º 35",
+  "para_que": "Concepto B: el Pepinillo con arma, en acción",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/e/e4/S3e3_cant_u_turn_normal.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "La familia en el garaje, con la mesa de trabajo de Rick (3×03), hoja n.º 46",
+  "para_que": "Concepto B: fondo del garaje de día",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/3/30/S3e3_who_would_do_this.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Morty en el garaje con los brazos abiertos (3×03), hoja n.º 176",
+  "para_que": "Morty explicando o sorprendido",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/f/f2/MrMeeseeks-render.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 765,
+  "alto": 1462,
+  "que_es": "Sr. Meeseeks de cuerpo entero, recortado, mano levantada (render oficial), hoja n.º 191",
+  "para_que": "Concepto C: Meeseeks para presentar, ya sin fondo",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/2/21/Meeseeks_and_Destroy_6.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1088,
+  "que_es": "Sr. Meeseeks de cerca sonriendo (1×05), hoja n.º 10",
+  "para_que": "Concepto C: la sonrisa del Meeseeks",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/3/3d/Vlcsnap-2015-01-31-04h24m07s137_%282%29.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1231,
+  "alto": 940,
+  "que_es": "Jerry y Morty en la mesa de la cocina de los Smith, hoja n.º 190",
+  "para_que": "Concepto C: la mesa de la cocina",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/f/fe/S3e3_Peter_Slavik_promo.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 2898,
+  "que_es": "Póster promocional vertical de «Pickle Rick», de Peter Slavik, hoja n.º 2",
+  "para_que": "Arte promocional con acción, para composición vertical",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/c/ce/MortyTransparent.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1259,
+  "alto": 1920,
+  "que_es": "Morty recortado, enfadado y sudando (fondo transparente), hoja n.º 4",
+  "para_que": "Pose de regañar o quejarse, ya recortada",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/5/5b/Love_Connection_Experience.png",
+  "fuente": "Rick and Morty Wiki (Fandom), vía investigar_serie.py (tamaño de la API imageinfo)",
+  "ancho": 1920,
+  "alto": 1090,
+  "que_es": "Summer, Morty y Rick en la nave mirando al frente, hoja n.º 7",
+  "para_que": "Pose de grupo de tres",
+  "licencia": "Fotograma o arte de la serie (© Adult Swim / Warner Bros. Discovery). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x3jf16p?t=8",
+  "fuente": "Dailymotion — promo oficial «Interdimensional Cable 2: Tempting Fate» (2×08)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Sala de espera del hospital-nave espacial: Beth, Rick, Morty en camilla con baba verde y una criatura alienígena; monitor médico turquesa y cielo estrellado de fondo",
+  "para_que": "Referencia directa del sitio donde arranca el episodio central del objeto del plan (el Cable Interdimensional); paleta medida: fondo #0A1640, monitor #1ABABA, sábanas #DDF0F6",
+  "licencia": "promo oficial de Adult Swim, resubida por un usuario; referencia visual, no redistribuir el archivo"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x3jf16p?t=20",
+  "fuente": "Dailymotion — promo oficial «Interdimensional Cable 2: Tempting Fate» (2×08)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Portal verde lima abriéndose en el espacio, núcleo brillante amarillo-verde",
+  "para_que": "Color de portal medido en vídeo real (no en paleta de fans): borde #324E00, medio #AFDB30, núcleo #DAF81E",
+  "licencia": "promo oficial de Adult Swim, resubida por un usuario; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8x2x8y?t=32",
+  "fuente": "Dailymotion (Tomatazos) — «Rick and Morty - Intro»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tarjeta de título «RICK AND MORTY», letra cursiva turquesa con contorno sobre fondo negro",
+  "para_que": "Color exacto de la tarjeta de título clásica: relleno #52FFEC-#56FAF3 sobre negro puro; referencia de tipografía/branding",
+  "licencia": "clip promocional/de emisión oficial de Adult Swim, resubido; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8x2x8y?t=8",
+  "fuente": "Dailymotion (Tomatazos) — «Rick and Morty - Intro»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Rick arrastra a Morty del brazo por un paisaje alienígena árido, paso urgente",
+  "para_que": "Pose de Rick para 'regañar / llevar a rastras', de la viñeta previa al título que trae cada episodio",
+  "licencia": "clip promocional/de emisión oficial de Adult Swim, resubido; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x7xeqwl?t=16",
+  "fuente": "Dailymotion (Moviepilot) — «Rick and Morty - Clip Mr. Meeseeks (English) HD»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "El Sr. Meeseeks recién salido de la caja, brazos arriba, dedos extendidos, diciendo 'Look at me!'",
+  "para_que": "Pose 'presentar' del Sr. Meeseeks confirmada en vídeo real (antes sólo de subtítulo)",
+  "licencia": "clip oficial de Adult Swim (1×05 'Meeseeks and Destroy'), resubido; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8bmk63?t=75",
+  "fuente": "Dailymotion (Promo Trailer) — «Mr. Meeseeks Helps Jerry with His Golf Swing»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Docenas de Meeseeks apretados en una sala, gritando y mordiéndose; uno con los brazos en alto y los dientes apretados",
+  "para_que": "Escena real de la que sale la frase ya citada 'Existence is pain to a Meeseeks, Jerry'; pose de grupo 'desesperar'",
+  "licencia": "clip oficial de Adult Swim (1×05 'Meeseeks and Destroy'), resubido; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8bmk63?t=50",
+  "fuente": "Dailymotion (Promo Trailer) — «Mr. Meeseeks Helps Jerry with His Golf Swing»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Un Meeseeks con visera verde de golf, confundido, se rasca la cabeza",
+  "para_que": "Variante 'deportiva' del Sr. Meeseeks, pose 'pensar / no entender'",
+  "licencia": "clip oficial de Adult Swim, resubido; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5ve1xh?t=2",
+  "fuente": "Dailymotion (HobbyConsolas) — «Rick and Morty - Promo 3x03 - Pickle Rick 3»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Morty inyecta el suero al pepino sobre el banco de trabajo del garaje/laboratorio",
+  "para_que": "Confirma en vídeo real 'On my work bench, Morty' (3×03, 00:00:20); referencia del objeto 'el pepino' antes de transformarse",
+  "licencia": "promo oficial de Adult Swim, resubida; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5ve1xh?t=21",
+  "fuente": "Dailymotion (HobbyConsolas) — «Rick and Morty - Promo 3x03 - Pickle Rick 3»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tarjeta de emisión «Rick and Morty — Next Sunday at 11:30 PM EST» con portal blanco-verde y la familia en un sofá verde claro",
+  "para_que": "Variante de la tarjeta de emisión con portal más tenue/blanco (#DEF7D7); contraste con el portal saturado de la promo IC2",
+  "licencia": "promo oficial de Adult Swim, resubida; referencia visual"
+ },
+ {
+  "url": "https://archive.org/details/turner_video_391819",
+  "fuente": "Internet Archive (subido por Turner/Adult Swim) — tráiler «tipo cine» de la temporada 1",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler con tono de cine (tarjeta de clasificación paródica, tarjeta de productora Starburns Industries, escenas de acción) y créditos completos al final (min. 1:36: Dan Harmon, Justin Roiland, Sarah Chalke, Chris Parnell, Spencer Grammer, Ryan Elder)",
+  "para_que": "Créditos con doble fuente para reparto original y compositor; poses de grupo (min. 1:12, familia armada) y de Summer asombrada (min. 1:30)",
+  "licencia": "tráiler oficial de Adult Swim/Turner, archivado en Internet Archive; referencia visual"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/xae2lba",
+  "fuente": "Dailymotion (Tomatazos) — «Rick & Morty, temporada 9 | Tráiler oficial subtitulado»",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial de la temporada 9 con subtítulos en español latino, distribuido por HBO Max; tarjeta final morada 'Nueva temporada 25 de mayo'",
+  "para_que": "Prueba de vídeo oficial reciente en español para #noticias-series; fecha de estreno T9 y variante de color de la tarjeta de título (magenta/morado)",
+  "licencia": "tráiler oficial promocionado por HBO Max, resubido por Tomatazos; referencia, no redistribuir"
+ },
+ {
+  "url": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153842702706815.jpg",
+  "fuente": "adultswim.com (ficha del vídeo, confirmada por fetch directo)",
+  "ancho": 1920,
+  "alto": 1081,
+  "que_es": "Miniatura oficial del vídeo «Rick and Morty Style Guide», con el director de arte Jeffrey Thompson explicando qué hacer y qué no al dibujar a los personajes",
+  "para_que": "Punto 1 y 18 (técnica): referencia directa del estudio sobre cómo dibujar a los personajes",
+  "licencia": "© Adult Swim / Warner Bros. Discovery. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/0/02/RickCouncilBadge.png",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 830,
+  "alto": 962,
+  "que_es": "Insignia/escudo dorado del Consejo de Ricks (la Ciudadela)",
+  "para_que": "Punto 19: emblema/logo propio de la serie, sirve de sello o textura de fondo",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/b/b8/BlipsChitzBack.png",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 263,
+  "alto": 266,
+  "que_es": "Logo del arcade galáctico Blips and Chitz",
+  "para_que": "Punto 19: logo propio de la serie, estilo interfaz de videojuego (también sirve al punto 11 de otro rol)",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/d/dc/2000px-Adult_Swim_2003_logo.svg.png",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 2000,
+  "alto": 370,
+  "que_es": "Logo oficial de Adult Swim (el bloque nocturno que emite la serie)",
+  "para_que": "Punto 19: cartela tipo «presenta», textura/sello de canal oficial",
+  "licencia": "© Adult Swim / Warner Bros. Discovery. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/ac/Story_train.png",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 774,
+  "alto": 444,
+  "que_es": "Caja del juguete Story Train (Jerry, 3x02) con su logo y arte propio",
+  "para_que": "Punto 19: referencia de «logo de juguete dentro de la serie», parecido al hueco del concepto C de la lámina",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a8/PickleRickOutfitFortnite.webp",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Arte promocional de la skin Pickle Rick en Fortnite (wave 3, marzo 2026)",
+  "para_que": "Punto 23: colaboración con Fortnite, el personaje secundario del encargo vigente en 2026",
+  "licencia": "© Epic Games / Adult Swim. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/4/43/RickPrimeFortnite.webp",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Arte promocional de la skin Rick Prime en Fortnite (wave 3, marzo 2026)",
+  "para_que": "Punto 23: colaboración con Fortnite",
+  "licencia": "© Epic Games / Adult Swim. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-88525f59bb974271a0933fc7608672c2",
+  "fuente": "Sketchfab (API, licencia confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de la Caja Meeseeks, por el usuario pythagean",
+  "para_que": "Punto 3 y objeto del concepto C de la lámina; licencia confirmada por API (antes ⚠️ sin comprobar)",
+  "licencia": "CC Attribution (Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fd20bf1ea1604d569f54227cd79dc90d",
+  "fuente": "Sketchfab (API, licencia confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de varias Cajas Meeseeks, por ClemFandango273",
+  "para_que": "Punto 3, alternativa a la Caja Meeseeks",
+  "licencia": "CC Attribution (Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c5f7b4a950de4002b448ac65c6b0207b",
+  "fuente": "Sketchfab (API, licencia confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de la pistola de portales, por Bob.Ho",
+  "para_que": "Punto 3, alternativa a la pistola de portales para el concepto de Blender",
+  "licencia": "CC Attribution (Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-93a6db7f97614fb0af7287de33027532",
+  "fuente": "Sketchfab (API, licencia confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de un plumbus, por Rifeor",
+  "para_que": "Punto 3, objeto de fondo para escenas del garaje o la cocina",
+  "licencia": "CC Attribution (Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ab19c2419c2647299ce96d027b3e7f5e",
+  "fuente": "Sketchfab (API, licencia confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de un monitor CRT de estudio real (Sony PVM-14L2), por poring",
+  "para_que": "Punto 3: alternativa con licencia clara a la tele de tubo del concepto A, más fácil de re-texturizar que un CRT genérico",
+  "licencia": "CC Attribution (Sketchfab)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yj/wallhaven-yj1z57.png",
+  "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+  "ancho": 8000,
+  "alto": 4500,
+  "que_es": "Fondo de pantalla con Rick y Morty en un auto, arcoíris, estilo acuarela colorida (Run the Jewels)",
+  "para_que": "Punto 16: fondo de pantalla en muy alta resolución, con autor (baeda) confirmado",
+  "licencia": "Fan art, subido por baeda a Wallhaven. Sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/d5/wallhaven-d51kqj.jpg",
+  "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla crossover con Firewatch, montañas y atardecer con Rick y Morty",
+  "para_que": "Punto 16: fondo de pantalla con origen en Reddit (r/rickandmorty) enlazado",
+  "licencia": "Fan art, subido por wectium a Wallhaven, origen en Reddit. Sólo referencia."
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g8/wallhaven-g8862e.jpg",
+  "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+  "ancho": 3840,
+  "alto": 2064,
+  "que_es": "Fondo de pantalla, dibujo de Rick Sanchez y Morty Smith estilo fan art digital",
+  "para_que": "Punto 16: fondo de pantalla con origen en ArtStation enlazado (HanaSama)",
+  "licencia": "Fan art, subido por HanaSama a Wallhaven, origen en ArtStation. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/e/ec/S3e3_Tommy_Scott_bgs3.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), galería del episodio 3x03 Pickle Rick",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Storyboard/boceto de fondo del hospital St. Gloopy Noops, con crédito de archivo al artista de fondos Tommy Scott",
+  "para_que": "Punto 1 y 18: muestra el paso de boceto a pintura terminada en la producción real de un episodio",
+  "licencia": "Arte de producción de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/4/49/S3e3_Corey_Booth_paints6.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), galería del episodio 3x03 Pickle Rick",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Pintura de fondo terminada (pasillo/oficina del hospital), con crédito de archivo al pintor de fondos Corey Booth",
+  "para_que": "Punto 1 y 18: fondo terminado con luz y color final, referencia directa para pintar en Photoshop",
+  "licencia": "Arte de producción de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/6/6b/Pubescent_Rick.png",
+  "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+  "ancho": 2454,
+  "alto": 1620,
+  "que_es": "Arte oficial de Rick adolescente/joven (variante del personaje)",
+  "para_que": "Punto 1: variedad de arte oficial más allá del Rick adulto habitual",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/8/89/S1e10_memory_babby_morty.png",
+  "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+  "ancho": 1920,
+  "alto": 1088,
+  "que_es": "Fotograma en 1080p de Rick con Morty bebé (1x10)",
+  "para_que": "Punto 1: fotograma en alta resolución con los dos personajes principales, dinámica abuelo-nieto",
+  "licencia": "Fotograma de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://live.staticflickr.com/1457/25988428002_52e77bfd60_b.jpg",
+  "fuente": "Openverse (Flickr), ya listada en datos-imagen.md",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Foto de cosplay de Rick and Morty en WonderCon 2016, por W10002",
+  "para_que": "Punto 23: cosplay real con licencia libre, referencia de materiales y volumen",
+  "licencia": "CC BY-SA 2.0 (Openverse/Flickr)"
+ },
+ {
+  "url": "https://live.staticflickr.com/659/22343854161_9526c15c82_b.jpg",
+  "fuente": "Openverse (Flickr), ya listada en datos-imagen.md",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "LEGO MOC (no oficial) de la nave de Rick, por Umm Who?",
+  "para_que": "Punto 23: aclara que no existe set oficial de LEGO, esto es un MOC de fan con licencia libre",
+  "licencia": "CC PDM 1.0 (dominio público, Openverse/Flickr)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a2/814700pohsL._SL1500_.jpg",
+  "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido (foto de producto de McFarlane Toys)",
+  "ancho": 1500,
+  "alto": 1500,
+  "que_es": "Foto de producto del set de construcción «Rick and Morty» de McFarlane Toys (piezas compatibles tipo Lego)",
+  "para_que": "Punto 23: figura/set de construcción oficial con licencia, referencia 3D real (no un MOC de fan)",
+  "licencia": "© McFarlane Toys / Adult Swim. Producto oficial con licencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png",
+  "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+  "ancho": 848,
+  "alto": 1080,
+  "que_es": "Retrato oficial de Rick Sanchez de cuerpo entero, pose neutra",
+  "para_que": "Punto 15: referencia base de vestuario (bata, camisa, pantalón) para comparar con las medidas de hex",
+  "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+ },
+ {
+  "url": "https://archive.org/download/rick-and-morty-style-guide/Rick%20and%20Morty%20Style%20Guide%20_%20Rick%20and%20Morty%20_%20Adult%20Swim.mp4",
+  "fuente": "Internet Archive (mirror del vídeo oficial de Adult Swim; YouTube pide iniciar sesión)",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Vídeo oficial «Rick and Morty Style Guide» (2:42 min): un artista del estudio dibuja a Rick y Morty en vivo, en Adobe Photoshop CC 2016.3.",
+  "para_que": "Punto 18 (estilo y cómo replicarlo): construcción de la cabeza, asimetría intencional de los ojos, orden de trazos (pelo de Rick antes que la cara). Minuto 0:14 se lee el software en la barra de título; 0:26-2:42 la construcción completa.",
+  "licencia": "Vídeo promocional de Adult Swim; sólo como referencia, no para reutilizar el clip."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/2/2b/Crafting_Station_interface.png/revision/latest?cb=20160927191544",
+  "fuente": "Rick and Morty Wiki (Fandom), captura oficial de Pocket Mortys",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Interfaz de crafteo de Pocket Mortys: máquina sci-fi con esfera azul, botones «ADD», pestañas Craft/Share/Recipes y una barra rosa de aviso abajo con texto.",
+  "para_que": "Punto 6 y 11: ejemplo real de «caja de texto» de videojuego de la franquicia (barra de aviso, no burbuja de cómic).",
+  "licencia": "Captura de juego con copyright de Adult Swim Games / Big Pixel Studios; uso como referencia, cabecera Referer: https://www.fandom.com/ para bajarla."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/rickandmorty/images/5/52/Salesmanrick_in_game.png/revision/latest?cb=20160529034045",
+  "fuente": "Rick and Morty Wiki (Fandom), captura oficial de Pocket Mortys",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Vista cenital (overworld) de Pocket Mortys: d-pad y botón A táctiles, personajes con contorno negro grueso, cartel de tienda rotulado a mano.",
+  "para_que": "Punto 11: interfaz de juego móvil de la franquicia, estilo del rótulo de tienda para comparar con la tipografía del punto 5.",
+  "licencia": "Captura de juego con copyright de Adult Swim Games / Big Pixel Studios; uso como referencia, cabecera Referer: https://www.fandom.com/ para bajarla."
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_6f25a5fe0e92f12f881798a2d3d131ba4c154f18.1920x1080.jpg",
+  "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: el garaje de Rick en primera persona (VR), manos del jugador, cartel amarillo «CAUTION WATCH FOR PORTALS», trampilla de portal en el suelo.",
+  "para_que": "Punto 11: interfaz de VR de la franquicia (sin HUD clásico); punto 6: texto diegético (cartel de aviso).",
+  "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_ad09661030ad427adb462929eb8b388fdb316766.1920x1080.jpg",
+  "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: mesa de trabajo con nota de papel «VOUCHER — REPLACEMENT MORTY» y un diagrama tipo plano técnico con «DETACH FROM BODY / TRAP IN BALL / VOICEBOX».",
+  "para_que": "Punto 6: el mejor ejemplo encontrado de texto «acorde a la temática, no burbuja blanca» — un plano pinchado en un corcho, con avisos en mayúscula y círculos rojos.",
+  "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_e081750eb3609fe30a116143736b2482e641ca2d.1920x1080.jpg",
+  "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: combate en VR contra criaturas alienígenas voladoras y un ovni, paisaje rosado/morado con «salchichas» gigantes de fondo.",
+  "para_que": "Punto 11: sin barra de vida ni texto flotante en combate; manos como cañones robóticos.",
+  "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+ },
+ {
+  "url": "https://github.com/lucas-dclrcq/ifi-atelier-spark/tree/master/src/main/resources/data/rickandmorty",
+  "fuente": "GitHub (ifi-atelier-spark)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos en inglés de Addic7ed, con tiempos, del 1×01 al 3×06 y del 4×01.",
+  "para_que": "Base de todos los minutos de la biblia: 1×08, 2×08, 1×05, 3×03.",
+  "licencia": "Subtítulos de terceros. Sólo consulta."
+ },
+ {
+  "url": "https://github.com/alexlyzhov/sphere-neural/tree/master/10_nlp/sub",
+  "fuente": "GitHub (sphere-neural)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos en inglés de la temporada 1 (Blu-ray y HDTV) y del 2×01 al 2×06.",
+  "para_que": "Segunda versión de los minutos del 1×08 y el 1×05 (±2 s).",
+  "licencia": "Subtítulos de terceros. Sólo consulta."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/225.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Michael Thompson, presentador de «Opposite News» (2×08), con papeles en la mano, traje azul oscuro y fondo de plató.",
+  "para_que": "El noticiero de la serie: pantalla del concepto A, paleta del plató (#A0BDCF).",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/277.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Vendedor de Real Fake Doors con los brazos abiertos delante de puertas de colores (1×08).",
+  "para_que": "Pose de «¡miren esto!» y el anuncio del rótulo inferior (1×08, 00:11:18).",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/184.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Jon (Gazorpazorpfield) leyendo un periódico con la cabecera «NEWS».",
+  "para_que": "Un periódico dentro de la serie; objeto para el concepto C.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/460.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Periodista traflorkiano (2×08) con sombrero, micrófono y la mano levantada.",
+  "para_que": "Pose de «preguntar / abrir un hilo»; variante del concepto C.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/631.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Rick enseñando un objeto dorado en la palma de la mano, luz cálida.",
+  "para_que": "Pose de Rick para presentar (concepto A, con el cristal).",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/1.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Rick de frente: párpados caídos, ceja fruncida, dientes, baba, bata blanca.",
+  "para_que": "Pose de regañar y colores de Rick (pelo #AAD3E9, camisa #97D7D7).",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/2.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Morty de pie mirando arriba, preocupado, camiseta amarilla.",
+  "para_que": "Pose de pensar/dudar; Morty en los conceptos A y B.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/630.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Morty con la palma hacia arriba explicando.",
+  "para_que": "Pose de explicar.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/3.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Summer de brazos cruzados junto a la nevera, top rosa.",
+  "para_que": "Pose de regañar; Summer al fondo del concepto C.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/339.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Summer con los brazos abiertos y la boca abierta en la mesa del desayuno.",
+  "para_que": "Pose de debatir/protestar: la voz del hilo.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/242.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Sr. Meeseeks de pie, sonriendo, brazos largos colgando.",
+  "para_que": "Pose de presentarse; concepto C. Color #63C4EE.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/afuh/rick-and-morty-api/master/images/265.jpeg",
+  "fuente": "The Rick and Morty API",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Pepinillo Rick en su traje de ratas, brazos arriba, gritando (3×03).",
+  "para_que": "Pose de celebrar; concepto B. Verde #659025.",
+  "licencia": "Fotograma de la serie (© Adult Swim) en el repositorio de The Rick and Morty API (código BSD). Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://github.com/rieger-jared/rick-and-morty-api/blob/main/internal/data/characters.json",
+  "fuente": "GitHub (rieger-jared)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "JSON con los 826 personajes de la API: número, nombre y episodios.",
+  "para_que": "Saber quién es cada fotograma (p. ej. 225 = Michael Thompson).",
+  "licencia": "Datos de fans. Sólo consulta."
+ },
+ {
+  "url": "https://github.com/nanxstats/ggsci/blob/master/R/palettes.R",
+  "fuente": "GitHub (ggsci, Nan Xiao)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Paleta «schwifty» de 12 colores inspirada en Rick y Morty.",
+  "para_que": "Segunda fuente de los hex de §5.2 (MortyYellow #FAFD7C, MeeseeksBlue #69C8EC…).",
+  "licencia": "GPL-3 (el paquete). Los colores son datos."
+ },
+ {
+  "url": "https://polyhaven.com/a/Television_01",
+  "fuente": "Poly Haven",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de tele antigua con mueble de madera, con materiales de madera, metal y vidrio.",
+  "para_que": "La tele del concepto A en Blender.",
+  "licencia": "CC0 (sin crédito obligatorio)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1",
+  "fuente": "Sketchfab (MagunDongle)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de fans de la caja Meeseeks.",
+  "para_que": "Forma de la caja del concepto C.",
+  "licencia": "Sin licencia y no descargable (API de Sketchfab, 25-sep-2026). Sólo para mirar la forma; usa la de pythagean (CC BY 4.0)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee",
+  "fuente": "Sketchfab (kreems)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de fans de la pistola de portales, descargable.",
+  "para_que": "Objeto en primer plano (conceptos A y B).",
+  "licencia": "CC BY 4.0 (API de Sketchfab, 25-sep-2026). Crédito: «Portal gun (Rick and Morty)» de kreems (Sketchfab), CC BY 4.0."
+ },
+ {
+  "url": "https://www.artstation.com/artwork/D5ZLL0",
+  "fuente": "ArtStation (Aziz Saadana)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Rick and Morty's Living Room»: el salón de los Smith en 3D semirrealista.",
+  "para_que": "Distribución del salón (sofás, tele, estantería) para el concepto A.",
+  "licencia": "Fan art. Sólo referencia, nunca pegar."
+ },
+ {
+  "url": "https://www.artstation.com/artwork/4Nz0k1",
+  "fuente": "ArtStation (Joshua Kolkin)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El garaje de Rick en Unreal, para realidad virtual.",
+  "para_que": "Banco de trabajo y luz del garaje para el concepto B.",
+  "licencia": "Fan art. Sólo referencia."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=8c4hAsobciA",
+  "fuente": "YouTube (Adult Swim)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Rick and Morty Style Guide» (2018): el director de arte Jeffrey Thompson explica cómo dibujarlos.",
+  "para_que": "Reglas de dibujo antes de retocar recortes o pedir fondos a una IA.",
+  "licencia": "© Adult Swim. Sólo ver."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=11OyiuqAzA4",
+  "fuente": "YouTube (Adult Swim)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Interdimensional Cable: The Weirdest Ads» (enero de 2026): Rick cambia la caja del cable de los Smith.",
+  "para_que": "Ver la caja, la tele y el salón: el objeto del concepto A.",
+  "licencia": "© Adult Swim. Sólo ver."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=P4w5GB1PyGo",
+  "fuente": "YouTube (Adult Swim)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Every In-Universe Commercial in Rick and Morty» (diciembre de 2024).",
+  "para_que": "Los rótulos inferiores de los anuncios: el cuadro de diálogo de la serie.",
+  "licencia": "© Adult Swim. Sólo ver."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=rIcoES14iU4",
+  "fuente": "YouTube (Adult Swim LA)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Caos interdimensional con Rick y Morty», clip oficial en español.",
+  "para_que": "Oír el doblaje latino y comprobar frases.",
+  "licencia": "© Adult Swim. Sólo ver."
+ },
+ {
+  "url": "https://x.com/RickandMorty/status/2046243740625347012?lang=en",
+  "fuente": "X (cuenta oficial Rick and Morty)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Arte de producción de la T9: Rick luchador, Summer olímpica, Morty cabeza de tele y fondos.",
+  "para_que": "Poses y trajes nuevos; Morty cabeza de tele para un canal de noticias.",
+  "licencia": "© Adult Swim. Sólo referencia."
+ },
+ {
+  "url": "https://deadline.com/gallery/rick-and-morty-season-9-photos-adult-swim/",
+  "fuente": "Deadline",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Primeras imágenes y póster de la temporada 9.",
+  "para_que": "Arte promocional reciente, con estilo actual.",
+  "licencia": "© Adult Swim. Sólo referencia."
+ },
+ {
+  "url": "https://press.wbd.com/us/image/adultswimrickandmortykeyart-0",
+  "fuente": "Pressroom de Warner Bros. Discovery",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Key art oficial de Rick and Morty.",
+  "para_que": "Estilo y colores oficiales del arte promocional.",
+  "licencia": "© Adult Swim. Uso de prensa."
+ },
+ {
+  "url": "https://www.darkhorse.com/Books/3006-618/The-Art-of-Rick-and-Morty-Volume-2-HC",
+  "fuente": "Dark Horse",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artbook oficial de las temporadas 3 y 4 (216 páginas).",
+  "para_que": "Fondos, diseños y comentarios del equipo, si se consigue.",
+  "licencia": "© Adult Swim / Dark Horse."
+ },
+ {
+  "url": "https://www.itsnicethat.com/features/inside-rick-and-morty-art-director-james-mcdermotts-sketchbooks-250717",
+  "fuente": "It's Nice That",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista y cuadernos del director de arte James McDermott.",
+  "para_que": "El tono visual: lo amable mezclado con lo macabro.",
+  "licencia": "Artículo. Sólo lectura."
+ },
+ {
+  "url": "https://github.com/fmiguezo/SkillFactory-SegundoProyecto/tree/main/src/font",
+  "fuente": "GitHub (fmiguezo)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "La letra «Get Schwifty» (jonizaak), recreación del logo.",
+  "para_que": "Títulos sin tildes. Comprobado: sólo A-Z, a-z y 0-9.",
+  "licencia": "Gratis con crédito al autor (jonizaak)."
+ },
+ {
+  "url": "https://github.com/google/fonts/tree/main/ofl/creepster",
+  "fuente": "GitHub (google/fonts)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Creepster, letra de trazo irregular.",
+  "para_que": "Títulos con tildes en el espíritu del logo. Trae á é í ó ú ñ ¿ ¡.",
+  "licencia": "SIL OFL 1.1."
+ },
+ {
+  "url": "https://github.com/google/fonts/tree/main/ofl/anton",
+  "fuente": "GitHub (google/fonts)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anton, condensada y gruesa.",
+  "para_que": "El rótulo inferior de la noticia. Trae tildes, ñ, ¿ y ¡.",
+  "licencia": "SIL OFL 1.1."
+ },
+ {
+  "url": "https://www.tiktok.com/@streammaxla/video/7271440286755130629",
+  "fuente": "TikTok (HBO Max Latinoamérica)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip oficial «¡¡Soy un pepinillo!!» en latino.",
+  "para_que": "Frase verificada de Pepinillo Rick para el concepto B.",
+  "licencia": "© Adult Swim / HBO Max. Sólo ver."
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=1099810",
+  "fuente": "Wallpaper Abyss",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo «Rick & Morty: 4K Portal Panic».",
+  "para_que": "Luz y color de un portal (el verde que no pude medir).",
+  "licencia": "Sin comprobar. Sólo referencia."
+ },
+ {
+  "url": "https://github.com/ClumsyPandal1/PocketMortysOfflinePatch",
+  "fuente": "GitHub (ClumsyPandal1)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Parche de fans para jugar Pocket Mortys tras el cierre de sus servidores oficiales.",
+  "para_que": "Ejemplo de noticia real de la franquicia (2026).",
+  "licencia": "GPL-3.0 (el parche)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/morty-rig-blender-c99a7fbd39b84428ab99ec1af4b15800",
+  "fuente": "Sketchfab (mfxmotions)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Rig de Morty para Blender, con huesos/controles listos para animar.",
+  "para_que": "Punto 18: modelo/rig libre del personaje para Blender, con licencia comprobada.",
+  "licencia": "CC Attribution (CC BY 4.0) — comprobado con la API de Sketchfab (api.sketchfab.com/v3/models/c99a7fbd39b84428ab99ec1af4b15800): uso comercial permitido citando al autor."
+ },
+ {
+  "url": "https://fontsource.org/fonts/comic-relief",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre «Comic Relief», de estilo rotulado a mano de cómic.",
+  "para_que": "Punto 5: letra libre equivalente a la rotulación de cómic (más fiel que Sniglet/Grandstander) para el globo si se usa el cómic de Oni Press como referencia.",
+  "licencia": "OFL-1.1. Comprobado con fontTools (archivo latin-400-normal.ttf): trae á é í ó ú ñ Ñ ¿ ¡ Á É."
+ }
 ]
