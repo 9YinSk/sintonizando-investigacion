@@ -282,6 +282,18 @@ Python/Pillow (`Image.getcolors`), no un único píxel al azar.
   Phatan, junto a fotogramas de la película). Precio orientativo: 24,90 USD
   (camiseta) / 29,90 USD (sudadera). ✅ (dos fuentes: hypebeast.com/2025/6 y
   soranews24.com/2025/06/04)
+- **Pop-up LOEWE × Spirited Away en Harajuku** (Tokio, ene-2022, junto al
+  lanzamiento de la cápsula): la fachada de la tienda estaba modelada como el
+  balneario, con farolillos; el interior tenía una réplica del puente rojo
+  y del vagón de tren de la película. Es la referencia 3D/arquitectónica más
+  cercana a un "set real" del balneario antes de la exposición de Singapur.
+  ✅ (dos fuentes: cbr.com/spirited-away-pop-up-shop-loewe-ghibli y
+  timeout.com/tokyo, ambas con fotos del interior)
+- **Café temático en una exposición de Studio Ghibli** (Tokio): menú con
+  platos inspirados en motivos de las películas, incluido un plato de arroz
+  con sésamo negro con forma de susuwatari, acompañado de dulces con forma
+  de estrella (las que comen los susuwatari en la película). ✅ (fuente:
+  grapeejapan.com/112804)
 - **Merchandising oficial**: **Donguri Kyowakoku** (どんぐり共和国), la cadena de
   tiendas oficial de Studio Ghibli operada por Benelic, tiene una categoría
   dedicada a "千と千尋の神隠し" en donguri-sora.com/category/CHIHIRO/. ✅
@@ -388,7 +400,8 @@ como pide `AYUDANTE.md`).
   2026", "Uniqlo UT Spirited Away Chihiro collaboration official", "Loewe
   Spirited Away collection Jonathan Anderson", "GKIDS Blu-ray cover 2017",
   "Studio Ghibli video game official", "Studio Ghibli Fortnite OR gacha
-  collaboration".
+  collaboration", "Spirited Away cafe collaboration themed pop-up official
+  Ghibli".
 - WebSearch (japonés): "千と千尋の神隠し ゲーム ゲームボーイアドバンス 2001", "スタジオジブリ
   千と千尋の神隠し コラボ グッズ フィギュア Good Smile".
 - `blu-ray.com/movies/Spirited-Away-Blu-ray/184141` — portada oficial GKIDS.
@@ -396,7 +409,7 @@ como pide `AYUDANTE.md`).
   (`action=parse&prop=wikitext`) — cita al artbook *The Art of Spirited
   Away*, página 76.
 
-Sigue: si vuelvo, medir el hex de Haku en un fotograma con luz diurna (no
-lo hay entre los 50 de ghibli.jp que revisé; probar más imágenes de la
-wiki con `Referer` correcto), y confirmar en japonés si hubo colaboración
-Good Smile Company / figuras oficiales para esta película en concreto.
+Parte terminada: los 6 puntos (1, 3, 15, 16, 19, 23) de ENCARGO.md están
+cubiertos con lo obligatorio de cada uno. Lo que quedó suelto (hex de Haku en
+luz diurna, confirmación de figuras Good Smile) es un extra y está anotado
+arriba en «No encontré», no aquí.

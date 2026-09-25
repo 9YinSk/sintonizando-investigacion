@@ -86,6 +86,16 @@ Parte de `partes/datos-voz.md` (recolectado con recolectar.py) y `partes/episodi
 
 **Momentos clave transversales (con minuto, del tráiler ya visto en `episodios.md`)**: la llegada al «parque abandonado» y el aviso de Haku de huir antes del anochecer [0:00-1:00](https://www.dailymotion.com/video/x889bq8?t=0); Yubaba explicando la regla del contrato que roba nombres [1:00](https://www.dailymotion.com/video/x889bq8?t=60); Chihiro revelando su verdadero nombre a Zeniba, clímax emocional de identidad [1:00-2:00](https://www.dailymotion.com/video/x889bq8?t=60). ✅ (visto y transcrito con episodio.py, no repetido aquí).
 
+**Caras por emoción, MIRADAS directamente en las hojas de contacto del tráiler** (`/tmp/claude-0/trabajo/98-el-viaje-de-chihiro-episodios/trailer-mx/hojas/hoja_01.jpg` y `hoja_02.jpg`, ya generadas por episodio.py; abiertas con Read para este punto — no se volvió a bajar el vídeo):
+- **Chihiro, alegría**: hoja 2, fotograma 67, [2:13](https://www.dailymotion.com/video/x889bq8?t=133) — corre sonriente entre flores rosas, brazos sueltos, sin tensión en los hombros.
+- **Chihiro, miedo/susto**: hoja 1, fotograma 31, [1:10](https://www.dailymotion.com/video/x889bq8?t=70) — manos abiertas a la altura de la cara, boca abierta, cuerpo echado hacia atrás (sobresalto); y fotograma 23, [0:53](https://www.dailymotion.com/video/x889bq8?t=53) — primer plano, ojos muy abiertos, ceño apretado, fondo rojo oscuro.
+- **Chihiro, tristeza**: hoja 2, fotograma 56, [1:53](https://www.dailymotion.com/video/x889bq8?t=113) — primer plano llorando, abrazando a una criatura pequeña contra la cara.
+- **Chihiro, vergüenza/pequeñez**: hoja 1, fotograma 33, [1:12](https://www.dailymotion.com/video/x889bq8?t=72) — de pie, diminuta frente a las puertas rojas gigantes de la casa de baños, hombros encogidos.
+- **Yubaba, rabia**: hoja 1, fotograma 36, [1:16](https://www.dailymotion.com/video/x889bq8?t=76) — primer plano, cejas muy arqueadas, ojos entrecerrados, boca tensa; y hoja 2, fotograma 59, [2:01](https://www.dailymotion.com/video/x889bq8?t=121) — primer plano similar, más intenso, maquillaje marcado.
+- **Haku, seriedad/determinación**: hoja 1, fotograma 16, [0:32](https://www.dailymotion.com/video/x889bq8?t=32) — primer plano, mirada fija y dura, cejas bajas; fotograma 17, [0:33](https://www.dailymotion.com/video/x889bq8?t=33) — sujeta la mano de Chihiro con urgencia en el puente.
+- **Sin Cara, sin expresión (a propósito)**: hoja 1, fotograma 41, [1:25](https://www.dailymotion.com/video/x889bq8?t=85) — silueta y máscara fija entre flores azules, confirma a ojo lo que dice la wiki (punto 12: no se le dibuja cara «bonita»).
+✅✅ (fotogramas del tráiler oficial, ya extraídos por episodio.py con su minuto exacto; mirados con Read para este punto, no de memoria).
+
 ### Punto 20 · Gustos y detalles de cada personaje
 
 Nota general: a diferencia de un anime de TV con databook de personajes, «El viaje de Chihiro» (película única, sin franquicia de videojuegos ni light novels) NO tiene fichas oficiales tipo «comida favorita / cumpleaños / altura» — Studio Ghibli no publicó ese tipo de datos para esta película (a diferencia, por ejemplo, de series shonen). Confirmado con búsqueda específica: ni Ghibli Wiki, ni «The Art of Spirited Away», ni las fuentes encontradas dan altura o cumpleaños oficiales de Chihiro. ✅ (búsqueda dedicada, ver Bitácora). Lo que SÍ hay, documentado en la propia película/wiki:
@@ -142,3 +152,32 @@ Nota general: a diferencia de un anime de TV con databook de personajes, «El vi
 - ⚠️ **Gestos/manías propias con nivel de detalle** para personajes secundarios menores no listados en «Personajes para empezar» (Chichiyaku, Aniyaku, el Espíritu del Río): sólo tienen ficha de reparto de doblaje (punto 8), no ficha de personalidad/gestos — es un extra, ya que el encargo pide fijarse especialmente en Chihiro, Haku, Yubaba y Sin Cara.
 
 ## Bitácora
+
+Punto de partida: `partes/datos-voz.md` (AniList, Doblaje Wiki con muestras de audio, wiki de personajes, Danbooru, Dailymotion — recolectado con `recolectar.py`, no repetido) y `partes/episodios.md` (tráiler mexicano ya transcrito plano a plano con episodio.py, 70 planos, no repetido).
+
+**Búsquedas web (WebSearch, español e inglés; cupo usado: 16 de ~50):**
+1. `"El viaje de Chihiro" doblaje latino Wild Bunch reparto ANMTV` (es) → confirma doblaje Netflix/Wild Bunch 2020, estudio Sysdub.
+2. `"El viaje de Chihiro" doblaje mexicano "Enzo Fortuny" Haku` (es) → confirma doblaje Disney/Buena Vista 2002.
+3. `eldoblaje.com "El viaje de Chihiro" reparto voces españolas Ángel de Gracia Haku` (es) → doblaje de España, director Montse Miralles.
+4. `"voz de Haku" "El viaje de Chihiro" cambio doblaje El Comercio Enzo Fortuny Alan Velázquez` (es) → artículo El Comercio Perú sobre el cambio de actor.
+5. `Studio Ghibli official survey "Spirited Away" most beloved movie landslide victory Ranking.net` (en) → encuesta pública Ranking.net.
+6. `reddit "spirited away" scene made you cry "no face" OR "kohaku river" ending` (en) → sin hilos de Reddit citables, sí ensayos.
+7. `"Chihiro Leads the Way" box office ranking Studio Ghibli nippon.com…` (en) → taquilla histórica.
+8. `fandub español latino "El viaje de Chihiro" youtube canal escena` (es) → clips y playlists de la película completa, no fandubs de humor.
+9. `"Itsumo Nando Demo" cover español OR "Siempre que" Chihiro tema final youtube` (es) → covers confirmados.
+10. `"el viaje de chihiro" fandub "voces" parodia youtube -pelicula -completa` (es) → fandub de escena y comparaciones de doblaje.
+11. `"el viaje de chihiro" tiktok tendencia meme viral 2024 2025` (es) → tendencia AI-Ghibli de marzo 2025.
+12. `"spirited away" meme fandom inside joke pig parents no face gold "don't look back"` (en) → escena de los cerdos como meme de TikTok.
+13. `Miyazaki "an insult to life itself" AI animation quote NHK` (en) → cita verificada en 6+ medios.
+14. `"Spirited Away" why people love it identify Chihiro coming of age review Rotten Tomatoes score` (en) → 97% RT, coming-of-age.
+15. `Chihiro Ogino height age birthday Ghibli character book databook OR "the art of spirited away"` (en) → confirmado que no hay dato oficial.
+16. `"Spirited Away" train scene "6 Nen Go no Chihiro" why so sad meaning essay` + `"No-Face" loneliness metaphor pandemic 2020` (en) → escena del tren confirmada en dos ensayos; metáfora de pandemia NO confirmada, descartada.
+
+**Consultas directas por API/curl (no cuentan del cupo de buscador):**
+- `ghibli.fandom.com/api.php?action=parse&prop=wikitext` para Chihiro_Ogino, Haku, Yubaba, No-Face, Lin, Kamajī, Zeniba, Boh (8 páginas completas, filtradas por sección con Python para no imprimir de más).
+- `eldoblaje.com/datos/FichaPelicula.asp?id=3261` bajado con curl y parseado con Python (regex sobre HTML) para el reparto de España.
+- `herramientas/voz.py` sobre 5 muestras de audio de Doblaje Wiki (Yubaba ×2 dobles, Haku, Sin Cara, Chihiro del doblaje 2020) — transcripción Whisper + ficha de voz (tono, semitonos, velocidad) con Praat/parselmouth.
+
+**Fuentes consultadas (resumen, ver detalle y enlaces en Hallazgos y voz.json):** Doblaje Wiki, ANMTV, lostmedia.fandom.com, eldoblaje.com, generacionghibli.blogspot.com, hugozapata.com.ar, Ghibli Wiki (8 páginas), Danbooru, AniList, CBR (×2), Rotten Tomatoes, Nippon.com, Medium, ScreenRant, IndieWire, Anime News Network, Diario Libre, YouTube (×3), Dailymotion (tráiler), lyricstranslate.com. Total: 24 fuentes de texto distintas + 5 muestras de audio propias analizadas + episodios.md (tráiler ya visto).
+
+**Parte terminada**: los 7 puntos (7, 8, 12, 13, 20, 21, 22) están cubiertos con lo obligatorio que pide ENCARGO.md. Lo que falta es extra (minutos exactos en la película completa, votos de Reddit, altura/cumpleaños oficiales, parodias hispanas con autor propio) y queda listado en «No encontré» con ⚠️, no pendiente de continuar.
