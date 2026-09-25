@@ -1046,3 +1046,122 @@ genérica) y recortes por `v3/integrar.py`.
   camino a contraluz, plumas blancas cayendo delante; luz de día fría
   (`#8CC0C2`) y campo oliva (`#5F7358`).
 
+## 28. Lo que falta y avisos
+
+**Para oír o ver en persona** (anotar serie, episodio, minuto y frase):
+- Frases del doblaje latino **con episodio y minuto** (sólo hay muestras de Doblaje Wiki sin episodio).
+- Una frase triste y una de ánimo, textuales, de Naofumi y Raphtalia.
+- Cómo dice el doblaje «Basura» y la sentencia de Malty, con minuto (hoy Crunchyroll dice «Perra/Prostituta»).
+- Minuto exacto de la escena del ep. 4 (Raphtalia y el perro de dos cabezas, «Falling Through Starlight») y de la muerte de Rifana (ep. 14-15).
+- Filo en vídeo: ep. 5 en adelante (caras y poses de la forma humana).
+
+**Datos dudosos (⚠️):**
+- Número de episodio de las escenas del archivo `tt9529546-1-1` (junta ep. 1 y 2).
+- «SIN» (T3) y «Resolution» (T4) de MADKID: ¿opening, ending o inserto? «FAITH» sin confirmar.
+- Voces latinas de los secundarios (sólo AniList).
+- Letra del logo (Sabbath Black, una fuente). Hex del rosa de la pestaña del juego sin medir.
+- Altura de Raphtalia (168 cm, una fuente); edad 17 o 18.
+- Contenido de la T4.
+
+**No encontrado** (con búsquedas hechas, no «no existe»): página de manga con
+globos; modelos 3D de sitios; *rig* libre de personajes; paisaje de Q'ten Lo;
+café temático; escudo de armas de los reinos; pinceles de trama gratis;
+influencias del autor; SFX; interior de la herrería de Erhard y el carro de
+Filo en imagen; vistas y enlaces de los fan dubs.
+
+**Correcciones del redactor sobre las partes:**
+- `raphtalia_(young)` en Danbooru es Raphtalia niña, no «Filo joven».
+- Hoja fondos, casilla 5 (Castle.jpg): es de día, no atardecer.
+- El archivo `tt9529546-1-1` son dos episodios: los minutos se citan del archivo.
+
+## 29. Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1. Arte oficial variado | ✅ | 164 imágenes oficiales con tamaño medido; 3 hojas miradas y descritas casilla a casilla (§3): key visuals T1-T5, Blu-ray, 30 tomos de manga, novela, spin-offs, vidrieras, mapa. No hay arte de caja de videojuego propio (dicho). |
+| 2. Fotogramas de escenas icónicas | ⚠️ | 4 escenas miradas fotograma a fotograma con minuto (§2), pero en **720p**, no 1080p (YouTube bloqueado). La del ep. 4, sin minuto. |
+| 3. Fan art y 3D con licencia | ✅ | Fan art con origen Pixiv/X; 8 modelos de Sketchfab CC BY con autor y crédito (1 confirmado por API, 7 por listado). Sin modelos de sitios (dicho). |
+| 4. Sitios, luz, paleta y texturas reales | ✅ | 10 sitios con hex medidos en fotogramas propios y arte de la wiki (§5); 5 texturas CC0 de ambientCG. |
+| 5. Tipografía por uso | ✅ | Logo medido `#A3182A`; 8 letras libres, una por uso, comprobadas con fontTools (ñ, ¿, ¡). Nombre de la letra del logo con una fuente (⚠️ dentro). |
+| 6. Cómo hablan en pantalla | ⚠️ | Cuadro del juego oficial mirado y medido; cartela y libro del ep. 1 con minuto. Globos del manga no vistos (sin fuente pública). |
+| 7. Personajes y popularidad | ✅ | Encuesta oficial 2019 (2 fuentes), AniList, Danbooru y Best Girl 2020 (2 fuentes) (§9). |
+| 8. Doblaje latino y frases | ⚠️ | Estudio, dirección y 3 protagonistas en 2 fuentes; frases textuales de 3 muestras oficiales, **sin episodio ni minuto**; secundarios con una fuente. |
+| 9. Música y sonido | ⚠️ | OP y ED de T1 y T2 con dos fuentes, compositor, tema de la escena emotiva y tracklist de «Dusk». SFX y onomatopeyas no aislados; «SIN» y «Resolution» con una fuente. |
+| 10. Vídeos con minuto | ✅ | 4 tráileres oficiales mirados con minuto (§12); tendencias de TikTok documentadas (no hay una sola viral, dicho). |
+| 11. Videojuegos | ✅ | *Relive The Animation* (capturas miradas y medidas), *RERISE* (2 fuentes), pachislot (1). Sin juego de consola ni TCRF (dicho). |
+| 12. Lo que ama el fandom y qué NO hacer | ✅ | Pareja, «Basura», Raph-chan, Rucolu, Filo en 3.ª persona; 6 reglas de qué no hacer (§14). La lista es síntesis del redactor (⚠️ dentro). |
+| 13. Personajes a fondo | ⚠️ | Carácter, historia, arco, habla y dinámicas de 4 principales y 6 secundarios. Caras por emoción: 6 de 15 con minuto; Filo sin ninguna. |
+| 14. Poses analizadas | ⚠️ | Naofumi 8 poses (6 con minuto), Raphtalia 8, Filo 4; cada una con para qué sirve. Faltan poses de Filo humana en vídeo. |
+| 15. Vestuario con hex | ✅ | 5 trajes y formas medidos con estilo.py (§16), traje icónico señalado. |
+| 16. Ciudades y fondos de pantalla | ⚠️ | Sitios con luz y hora; 9 fondos de fans en alta con tamaño y autor. No hay fondos oficiales para descargar; Q'ten Lo sin imagen. |
+| 17. Guía para IA de imagen y de texto | ✅ | Hecha por el redactor (§18): rasgos fijos, etiquetas, palabras que estropean, paleta, línea, luz, encuadre, referencias, voz de cada uno y frases reales por emoción. Sin frase triste real (dicho). |
+| 18. Estilo y cómo replicarlo | ✅ | Dos entrevistas del staff en japonés, CG de Orange, estilo medido, pasos para Photoshop y Blender, encuadres (§19). Sin *rig* libre (dicho). |
+| 19. Texturas 2D | ✅ | Tramas del manga miradas, gema como emblema, patrones de ropa, vidrieras; alternativa libre a pinceles de trama (GIMP). |
+| 20. Gustos y detalles | ⚠️ | Rucolu, odios, precios de Filo, Naofumi201; sin cumpleaños oficiales (confirmado). Alturas y comidas de Raphtalia y Filo sin fuente. |
+| 21. Por qué la aman | ⚠️ | Ventas (2 fuentes), premio, top de Crunchyroll, 3 escenas que hacen llorar con música; faltan minutos y comentarios con más votos. |
+| 22. Fan dubs y comunidad hispana | ⚠️ | 6 títulos de covers y fandubs, pero **sin enlace, vistas ni fecha** (YouTube bloqueado). |
+| 23. Colaboraciones, figuras y cosplay | ✅ | Chain Chronicle, BOFURI (2), Alchemist Code, Isekai Quartet; Nendoroid, Pop Up Parade, figma; cosplay premiado (2 fuentes). Café temático no encontrado. |
+| 24. Obras parecidas | ✅ | AniList con votos, temas, BOFURI, biblias del servidor para no repetir. Influencias del autor no encontradas (⚠️ dentro). |
+| 25. Mundo, historia y símbolos | ✅ | 5 reglas, arcos por temporada, símbolos y vocabulario (§26). T4 con poco detalle. |
+| Tres conceptos | ✅ | A #hardware, B #guia, C #proyectos, distintos entre sí, con objeto, pose, cuadro, textos y profundidad (§27). |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas (revisar.py). |
+| Tipos de fuente | ⚠️ | Oficiales (Steam, Good Smile, X oficial, Crunchyroll), japonés (WebNewtype, 4Gamer), wikis (Fandom, Doblaje Wiki), foros (foro de la wiki, Reddit por Arctic Shift con poco), arte (Pixiv, Safebooru, Wallhaven, DeviantArt), vídeo (Dailymotion, Internet Archive), recursos (Sketchfab, ambientCG, Google Fonts). Sin GitHub; TV Tropes 403; Wayback bloqueado; coreano o chino no buscados. |
+| Hojas de contacto | ✅ | 3 en `hojas/`, miradas y descritas (§3). |
+| referencias.json | ✅ | Todas las útiles de las partes, las mejores primero. |
+
+## 30. Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y del recolector.
+
+**Recolector** (`recolectar.py`, 24-sep, sin IA): AniList (obra, staff,
+personajes, recomendaciones), Doblaje Wiki por la API (ficha, reparto,
+muestras .ogg, datos de interés), Fandom `shield-hero` (imágenes y textos de
+Naofumi, Raphtalia y Filo), Danbooru, Safebooru, Wallhaven, Sketchfab,
+Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam. Fallaron:
+AnimeThemes (HTTP 522) y Reddit (subreddit no hallado).
+
+**Imagen** (inglés):
+- Fandom API (search, images, imageinfo, wikitext): Naofumi, Raphtalia, Filo, Anime, Legendary Shield, Legendary Weapons, Melromarc, Castle Town, Manga, Light Novel, Siltvelt, Q'ten Lo, Zeltoble; `emblem/crest/coat of arms/symbol`, `video game`, `wallpaper`, `artbook` (sin resultado útil).
+- `investigar_serie.py` sobre 7 páginas → 164 imágenes; `estilo.py` sobre 5 trajes y 4 sitios.
+- Sketchfab API (licencia de Shield of Rage); ambientCG API v2; Openverse (`cc0`, halftone).
+- Web: café temático, figuras Good Smile, cosplay premiado, BOFURI 2020, Chain Chronicle, pinceles de trama CC0.
+- Fallos: ANN (403 al primer intento, dato por el buscador), CBR (404/403), QooApp (vacío).
+
+**Vídeo** (español, inglés):
+- Fandom: páginas RISE, Kimi no Namae, The Slave Girl, The Shield Hero, Reunion, Anime; `allcategories`.
+- MusicBrainz: «artist:MADKID» (RISE 2019, Bring Back 2022).
+- Dailymotion API: OP, ED, Filo, tráileres → se miraron x8a2aga, x8o3ipu, x9ia4ma con `fotogramas.py`.
+- Internet Archive: `tt9529546-1-1` a `1-4` (T1 latino) y `tate-no-yuusha-no-nariagari-s-2-e-01`; mirados con `fotogramas.py --cada`, `--desde/--hasta` y `--fotograma`.
+- Web (inglés): OST e *insert song* del ep. 4; tracklist de «Dusk»; tendencias de TikTok 2025.
+- Fallos: YouTube 403 (sólo metadatos de VKYmpq-V3Rs), VGMdb 403 directo (dato por buscador), Wikipedia API por timeout, AnimeThemes 522.
+
+**Voz y personajes** (español, inglés):
+- Web (español): reparto en ANMTV; Jocelyn Robles; Jessica Ángeles.
+- Web (inglés): encuesta Newtype/oficial, databook, «made me cry», recepción y polémica, memes (Raph-chan, Trash), fandub español, premios y ventas, cumpleaños.
+- Fandom wikitext: Naofumi, Raphtalia, Filo, Melty, Raph-chan. AniList GraphQL (sin `dateOfBirth`).
+- `voz.py` sobre 3 muestras de Doblaje Wiki; `fotogramas.py` sobre tráileres T1 y T3 de Dailymotion.
+- Crunchyroll News (la tabla no cargó por JS; se usó el espejo de mocka2000), eldoblaje.com (España).
+- Reddit por Arctic Shift (`r/ShieldHero`, «cry»): poco útil. TV Tropes 403 (curl y WebFetch). Wayback bloqueado por la red del contenedor. Dailymotion «fandub español»: sólo otras series.
+
+**Texto, juegos y técnica** (inglés, japonés):
+- Fandom: `allpages`, «font», «emblem», «crest», Church, Legendary Weapons/Shield, Melromarc, JUSTICE Arc; `allimages` (manga 005-010).
+- Web (inglés): fuente del logo, Sabbath Black, vista previa del manga, juegos de consola, `site:tcrf.net`.
+- Web (japonés): 「盾の勇者の成り上がり 制作 インタビュー 作画 CG 阿保孝雄」 → WebNewtype; 「盾の勇者の成り上がり ゲーム」.
+- Steam API (4 capturas miradas y medidas); Google Fonts (13 letras bajadas, cmap con fontTools); Wikipedia (lista de episodios).
+- `episodio.py --ocr` sobre el fansub del ep. 1 (0:00-5:00).
+- Fallos: TV Tropes 403 (sin copia en Wayback), foro de la wiki 402 en un hilo, One Peace Books sin páginas de muestra.
+
+**Redactor:** miró las 3 hojas (y recortes de las casillas 97, 115 y 116),
+cruzó las partes y corrigió 3 datos (§28). No hizo búsquedas nuevas.
+
+**Fuentes consultadas** (más de 40 dominios): AniList, Fandom (shield-hero y
+doblaje), Danbooru, Safebooru, Pixiv, Wallhaven, DeviantArt, Sketchfab,
+ambientCG, Openverse/Flickr, Dailymotion, Internet Archive, YouTube,
+MusicBrainz, VGMdb, HMV, Anime News Network, X (@ShieldHeroEN), TikTok,
+Crunchyroll, mocka2000, Bounding Into Comics, Wikipedia, ANMTV, eldoblaje,
+TV Tropes, CBR, ComicBook, Anime Corner, ANIHK, Anime Trending, Steam,
+Google Play, 4Gamer, WebNewtype, Google Fonts, One Peace Books, MMO Culture,
+QooApp, Facebook, Good Smile, Otaku Mode.
+
+**Distinción:** ✅ confirmado con dos fuentes o visto; ⚠️ una fuente o no
+comprobado. Lo que no se encontró, en §28.

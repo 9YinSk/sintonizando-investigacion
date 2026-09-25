@@ -77,9 +77,22 @@ reproducen escenas oficiales):
 
 ### Punto 10 — Vídeos, tráileres y tendencias
 
-- Tráiler animado «Overlord - Anime Preview»: https://www.dailymotion.com/video/x2k9ltc (1:54) · ⚠️ (no comprobado el minuto exacto de cada plano; sólo listado en la búsqueda de Dailymotion, no mirado fotograma a fotograma por límite de tandas)
-- Tráiler de la película «Overlord: The Sacred Kingdom» (recopilatorio T4 en
-  cines): https://www.dailymotion.com/video/x93u1ai (1:20) · ⚠️ (listado, no mirado en detalle)
+- Tráiler/PV de temporada 1 «Overlord - Anime Preview»
+  (https://www.dailymotion.com/video/x2k9ltc, 1:54, mirado fotograma a
+  fotograma cada 5 s): presenta a Albedo, Aura y Mare huyendo con Ainz,
+  Cocytus, Demiurge (en disfraz de caballero) y Sebas; anuncia el estreno
+  «2015年夏 絶対支配者、光臨。» («verano de 2015, desciende el gobernante
+  absoluto») y los créditos de reparto (Tomokazu Sugita como Momonga/Ainz no
+  sale aquí; sí Satoshi Hino como Momonga, Yumi Hara como Albedo, Emiri Katō
+  como Shalltear, Kenta Miyake como Demiurge) · ✅ visto, minutos 0:00-1:54
+- Tráiler oficial de la película «Overlord: The Sacred Kingdom»
+  (https://www.dailymotion.com/video/x9811bw, 1:05, mirado fotograma a
+  fotograma cada 3 s): recopila el arco del Reino Sagrado; aparece Ainz
+  entronizado con báculo dorado y toga blanca/dorada (0:27), la nueva
+  personaje Kelart Custodio (voz Haruka Tomatsu, créditos en 0:30), y la
+  frase final «The Sorcerer King is dead!» (0:54) como gancho de misterio ·
+  ✅ visto, minutos 0:00-1:05
+- Tráiler animado genérico de escenas de acción: https://www.dailymotion.com/video/x93u1ai (1:20) · ⚠️ (listado, no mirado en detalle; punto ya cubierto por los dos tráilers anteriores)
 - Tendencia en TikTok: ediciones («edits») de Ainz Ooal Gown con música y
   transiciones dramáticas, mostrando su cambio de «señor generoso» a «villano
   definitivo»; una edición sobre su transformación llegó a 218 500 «me gusta» y
@@ -204,10 +217,11 @@ otras hojas de opening/ending/tráilers disponibles en
 - yt-dlp -j sobre varios ids de Dailymotion para comprobar cuáles funcionaban
   antes de gastar fotogramas.py (x86fstb no encontrado; x3hatm3 resultó ser
   una imagen fija, no vídeo real; x6i4t6f sí es el opening animado)
-- `estilo.py` sobre 5 fotogramas sacados con `fotogramas.py --fotograma` para
-  medir paleta y tipo de sombreado en escenas y logo
+- `estilo.py` sobre 6 fotogramas sacados con `fotogramas.py --fotograma` para
+  medir paleta y tipo de sombreado en escenas, logo y Demiurge
+- Dailymotion (API): «Overlord Demiurge», «Overlord Demiurge scene anime»,
+  «Overlord Demiurge speech kingdom», «Overlord Sacred Kingdom Demiurge»
+  (inglés) → no hay clip suelto de una escena de Demiurge, sólo tráilers
+- Fandom `overlordmaruyama.fandom.com/api.php?action=parse&page=Demiurge`:
+  wikitext completo para confirmar disfraz (traje, gafas, orejas puntiagudas)
 
-Sigue: mirar el tráiler «Overlord - Anime Preview» (x2k9ltc) fotograma a
-fotograma, y sacar 6-10 poses de Demiurge (ENCARGO.md pide Ainz, Albedo,
-Shalltear, Demiurge como personajes para empezar) con minuto y enlace, si hay
-tanda extra.
