@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fc/Traveller_-_Heads_2.png",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 2486,
+    "alto": 1658,
+    "que_es": "Retratos de varias 'cabezas' de las 22 especies Traveller",
+    "para_que": "Arte oficial variado del viajero, punto 1; referencia de rostros alienígenas",
+    "licencia": "arte del juego (Hello Games), uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8e/NMSAtlas.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1848,
+    "alto": 2167,
+    "que_es": "Ilustración de 'El Atlas', la entidad/deidad del juego",
+    "para_que": "Arte oficial vertical, sirve de key art para lámina en formato retrato",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/TravellerInFreighter.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Traveller de pie dentro del hangar de un carguero, con su nave",
+    "para_que": "Pose 'viva' con objeto (nave), punto 1",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://www.nomanssky.com/media/me2doobw/art-nms-1.png",
+    "fuente": "nomanssky.com (blog oficial)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Arte conceptual oficial del post 'The Art of No Man's Sky'",
+    "para_que": "Ejemplo de key art oficial pintado a mano, punto 1",
+    "licencia": "oficial de Hello Games, referencia"
+  },
+  {
+    "url": "https://archive.org/details/art-of-no-mans-sky-book-scan",
+    "fuente": "Internet Archive (escaneo del artbook oficial)",
+    "ancho": 180,
+    "alto": 116,
+    "que_es": "Portada del artbook oficial 'The Art of No Man's Sky' (Dark Horse Books, 2016, 48 páginas), escaneado completo",
+    "para_que": "Fuente principal de arte oficial variado, punto 1 (el PDF completo tiene decenas de piezas)",
+    "licencia": "copia de archivo, ver derechos de Dark Horse/Hello Games; sólo consulta"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/3/3a/NmsNext_Default_Exosuit_Starship.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Exosuit y nave por defecto (actualización NEXT), paleta medida con estilo.py",
+    "para_que": "Vestuario base del jugador con hex medidos, punto 15",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/c7/Standard_IAAF_Rifle.png",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "Multiherramienta estándar (rifle IAAF), paleta medida",
+    "para_que": "Accesorio icónico del vestuario, punto 15",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/9e/Nada_Cape.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1080,
+    "alto": 1920,
+    "que_es": "Capa/manto de Priest Entity Nada, paleta medida",
+    "para_que": "Vestuario de Traveller secundario querido, punto 15",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/63/Artemis_Front.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 468,
+    "alto": 1080,
+    "que_es": "Cuerpo completo de Artemis (Traveller tipo 'gris'), paleta medida",
+    "para_que": "Vestuario de Traveller, formato vertical para lámina, punto 15",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e9/SpecialistPolo.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Specialist Polo (Traveller Korvax), cuerpo completo",
+    "para_que": "Vestuario/diseño de personaje secundario querido, punto 15",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/5/5d/20221009190548_1.jpg",
+    "fuente": "nomanssky.fandom.com (galería general)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Paisaje de planeta boscoso verde/turquesa, paleta medida",
+    "para_que": "Fondo con hex medidos, punto 16",
+    "licencia": "captura del juego, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/5/5c/20221014115848_1.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Paisaje de planeta rojo/óxido con vegetación turquesa, paleta medida",
+    "para_que": "Fondo con hex medidos, contraste cálido/frío, punto 16",
+    "licencia": "captura del juego, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/03/20200222010737_1.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Paisaje de planeta desértico dorado al anochecer, paleta medida",
+    "para_que": "Fondo de poca luz para lámina nocturna, punto 16",
+    "licencia": "captura del juego, referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/2/2c/Corvettelanding03tweak.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Corbeta aterrizando sobre agua, paleta medida",
+    "para_que": "Fondo/nave combinados, punto 16",
+    "licencia": "captura del juego, referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/2k/wallhaven-2kzwg9.jpg",
+    "fuente": "Wallhaven (origen citado: hellogames.org)",
+    "ancho": 2280,
+    "alto": 1280,
+    "que_es": "Fondo de pantalla oficial del estudio, planeta cian, por Kuldar Leement",
+    "para_que": "Fondo de pantalla oficial en alta, punto 16",
+    "licencia": "oficial de Hello Games vía Wallhaven, ver origen"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xvdxo.jpg",
+    "fuente": "Wallhaven (origen: no-mans-sky.com)",
+    "ancho": 8250,
+    "alto": 4672,
+    "que_es": "Fondo de pantalla en muy alta resolución, arte digital rosa/turquesa",
+    "para_que": "Fondo de pantalla de fans en alta, el más grande encontrado, punto 16",
+    "licencia": "ver autor GameVogue, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/49/Alphabet.png",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1847,
+    "alto": 831,
+    "que_es": "Tabla completa del alfabeto alienígena (sustitución 1:1 del latino)",
+    "para_que": "Textura/patrón de glifos para carteles y emblemas, punto 19",
+    "licencia": "arte del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/4a/Freighter_writing.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Glifos alienígenas aplicados como rotulación en el casco de un carguero",
+    "para_que": "Ejemplo real de la textura de glifos aplicada, punto 19",
+    "licencia": "captura del juego, referencia"
+  },
+  {
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/CorrugatedSteel009.png",
+    "fuente": "ambientCG",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura de chapa metálica ondulada (Corrugated Steel 009)",
+    "para_que": "Equivalente real libre para cascos de nave o paneles de estación, punto 19",
+    "licencia": "CC0 (dominio público, ambientCG)"
+  },
+  {
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Metal063.png",
+    "fuente": "ambientCG",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura de metal desgastado (Metal 063)",
+    "para_que": "Equivalente real libre para el Exosuit o la Multiherramienta, punto 19",
+    "licencia": "CC0 (dominio público, ambientCG)"
+  },
+  {
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/SolarPanel003.png",
+    "fuente": "ambientCG",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura de panel con rejilla (Solar Panel 003)",
+    "para_que": "Referencia para 'velas' y tecnología de naves, punto 19",
+    "licencia": "CC0 (dominio público, ambientCG)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c30efda62567455d9f0644f55abc06f7",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D 'No Man's Sky Portal' por locopixel",
+    "para_que": "Modelo 3D con licencia libre de un objeto icónico, punto 3",
+    "licencia": "CC BY-NC (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ccb55b1309434d51875cbe2860d78e2f",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D 'No Man's Sky - Golden Vector' (nave) por locopixel",
+    "para_que": "Modelo 3D de nave con licencia libre, punto 3",
+    "licencia": "CC BY-NC (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-10618c9fb65b459886c591e043852692",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D 'No Man's Sky Atlas' por locopixel",
+    "para_que": "Modelo 3D del monumento Atlas, referencia de sitio, punto 3",
+    "licencia": "CC BY-NC (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-64e8761b44aa4eb99fb936887e576965",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D 'No Man's Sky Sentinel Drone' por locopixel",
+    "para_que": "Modelo 3D de un enemigo icónico, punto 3",
+    "licencia": "CC BY-NC (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-cfe751694fc94bdfae9aae3a4aaed999",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "'No Man's sky Fan art' (nave) por Rasmus.Eist",
+    "para_que": "Modelo 3D con la licencia más permisiva de la lista, punto 3",
+    "licencia": "CC Attribution (permite uso comercial con crédito)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-25e26f50065c433f8120c5257d683250",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "'NMS Starship' por cmzw",
+    "para_que": "Modelo 3D de nave con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://www.nomanssky.com/media/g2zdsn1b/No-Mans-Sky-Cross-Save-Trailer-Thumbnail.jpg",
+    "fuente": "nomanssky.com (blog oficial)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Miniatura del anuncio del crossover con Mass Effect (nave Normandy)",
+    "para_que": "Colaboración oficial, punto 23",
+    "licencia": "oficial de Hello Games, referencia"
+  },
+  {
+    "url": "https://youtooz.com/cdn/shop/files/6k6e4685p5_x500.png",
+    "fuente": "Youtooz (tienda oficial de la colección)",
+    "ancho": 402,
+    "alto": 500,
+    "que_es": "Figura/plushie oficial No Man's Sky x Youtooz (primera pieza de la colección, ago-2025)",
+    "para_que": "Figura oficial 3D como referencia de pose, punto 23",
+    "licencia": "producto con licencia oficial de Hello Games"
+  },
+  {
+    "url": "https://live.staticflickr.com/657/32249960286_ba98c61326_b.jpg",
+    "fuente": "Flickr / Openverse (blakespot)",
+    "ancho": 1024,
+    "alto": 827,
+    "que_es": "Foto de la caja física 'No Man's Sky Explorer's Edition'",
+    "para_que": "Merchandising/edición física real, punto 23",
+    "licencia": "CC BY 2.0"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/49846043101_c7470159f9_b.jpg",
+    "fuente": "Flickr / Openverse (blakespot)",
+    "ancho": 768,
+    "alto": 1024,
+    "que_es": "Foto real de un cuaderno de bitácora ('traveler's log') hecho por un fan, con temática No Man's Sky",
+    "para_que": "Merchandising/objeto real de fan hecho a mano, referencia de 'objeto en un sitio real', punto 23",
+    "licencia": "CC BY 2.0"
+  },
+  {
+    "url": "https://live.staticflickr.com/321/31644262184_6a24884310_b.jpg",
+    "fuente": "Flickr / Openverse (blakespot)",
+    "ancho": 1024,
+    "alto": 775,
+    "que_es": "Lámina enmarcada de No Man's Sky (impresión 30x20) colgada en una pared",
+    "para_que": "Ejemplo real de merchandising impreso oficial/fan, punto 23",
+    "licencia": "CC BY 2.0"
+  }
+]
