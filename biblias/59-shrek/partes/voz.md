@@ -479,8 +479,12 @@ clásicas).
 **Su cara en cada emoción — tabla con fotograma propio y minuto** (película Shrek, 2001,
 copia completa de Dailymotion `dailymotion.com/video/xalipyq`, 66:03 min; bajada, recorrida
 con `herramientas/fotogramas.py` —una hoja general cada 60 s, más 3 pasadas de zoom de 4 s
-sobre escenas candidatas— y borrada al terminar, sólo queda la hoja de contacto propia en
-`biblias/59-shrek/hojas/emociones_01.jpg`)
+sobre escenas candidatas— y borrada al terminar. La hoja de contacto propia con los 8
+fotogramas no se dejó en `hojas/` porque ese cupo (máx. 3) es del investigador de imagen y ya
+está lleno con `personajes_01/02/03.jpg`; queda en mi carpeta de trabajo,
+`/tmp/claude-0/trabajo/59-shrek-voz/hoja_final/emociones_01.jpg`, a disposición del redactor
+o de imagen si alguno la quiere sumar. Cada fotograma es reproducible con el segundo exacto
+citado abajo sobre la misma URL de Dailymotion.)
 
 | Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
 |---|---|---|---|---|---|
@@ -651,3 +655,154 @@ pasada (ver «No encontré»).
   Shrek 1-5 en español latino y español de España, y noticias de Reporte Indigo/Milenio sobre
   Obregón y Derbez — sirven como material de referencia visual, no como fandub, pero
   confirman que SÍ hay cobertura hispanohablante activa y reciente del tema doblaje.
+
+
+## Lo mejor para la lámina
+
+1. **«Los ogros somos como las cebollas, tenemos capas»** (Shrek, doblaje latino, ✅ muestra
+   oficial con audio medido) — frase más reconocible de toda la franquicia en español, perfecta
+   para un canal de doblaje: habla literalmente de "capas" de actuación/voz.
+2. La actualidad de **Alfonso Obregón dejando de ser la voz de Shrek tras 25 años** (Shrek 5,
+   2027) es un gancho de conversación real y vivo para un servidor de doblaje — nadie tiene que
+   inventar nada, está pasando ahora mismo (jun-2026 en adelante).
+3. **Antonio Banderas doblándose a sí mismo en 3 idiomas a la vez** (con Guillermo del Toro de
+   invitado en el mismo elenco) es un dato único que ningún otro personaje de esta biblioteca
+   tiene: encaja perfecto si la lámina quiere presumir de "el doblaje también es una forma de
+   arte que hasta las estrellas de Hollywood respetan".
+4. El **ataque de pánico de Gato con Botas** (El último deseo) da un ángulo emocional serio y
+   muy actual (ansiedad, salud mental) si el canal busca algo más profundo que el chiste fácil
+   — con el respaldo de reseñas y hasta testimonios de espectadores con ansiedad real.
+5. Gato con Botas y Burro (no Shrek) son quienes más "roban cámara" según encuestas de fans:
+   si la lámina quiere un personaje secundario querido, cualquiera de los dos es más seguro que
+   forzar sólo al protagonista.
+
+
+## No encontré
+
+- ⚠️ Encuesta **oficial** de DreamWorks tipo "vota tu personaje favorito de Shrek". Búsquedas:
+  «Shrek personaje favorito encuesta oficial DreamWorks», «Shrek official character poll
+  vote». Se usó como proxy el ranking de 3 fuentes de fans + el dato objetivo del spin-off de
+  Gato con Botas.
+- ⚠️ Altura y cumpleaños oficiales de Fiona, Gato con Botas, Farquaad (sí se encontraron para
+  Shrek y Burro, en la ficha inglesa de personaje). Búsqueda: «Fiona Shrek altura cumpleaños
+  oficial ficha», sin resultado más allá de descripciones generales.
+- ⚠️ *Databook* oficial de la franquicia Shrek en español con datos de personaje (estilo el
+  que sí existe para animes). No parece existir un libro así publicado; los datos de gustos
+  (punto 20) salen de las fichas de wiki y del guion, no de un libro oficial.
+- ⚠️ Confirmación oficial del actor que reemplaza a Alfonso Obregón como Shrek en Shrek 5. A
+  fecha de esta investigación (25-sep-2026) sólo hay un rumor de WikiDoblaje (el propio rumor
+  avisa de que puede ser vandalismo) apuntando a **Faisy**; ninguna fuente de prensa
+  (Milenio, El Gráfico, Excélsior) lo da por confirmado.
+- ⚠️ Vistas y canal exactos de fandubs/covers en español de "All Star" y "Bienvenidos a
+  Duloc" en YouTube: YouTube bloqueó la sesión («Sign in to confirm you're not a bot» y HTTP
+  429) tras la primera consulta que sí funcionó (el musical de Teatro Catalina). Se cita el
+  título como localizado por búsqueda web, sin inventar cifras que no se pudieron comprobar
+  con `yt-dlp`.
+- ⚠️ Testimonio con nombre propio de un espectador sobre por qué ama Shrek 1 específicamente
+  (si se retoma: buscar coberturas de aniversario 20/25 años con citas textuales).
+- ⚠️ Minuto exacto y propio (sobre un archivo descargado, no crowd-sourced) del ataque de
+  pánico de Gato con Botas en El último deseo — no se descargó esa película en esta pasada
+  (sólo Shrek 1); se documenta con el rango que dan fans en Reddit (0:55-0:58 según un
+  cronometraje, 1:02:32 según otro).
+- ⚠️ Fotogramas propios de "vergüenza" para los 4 personajes principales y de "rabia/
+  tristeza/miedo" para Fiona y Burro: se recorrió Shrek 1 completo (cada 60 s) más 3 zooms de
+  4 s sobre las escenas más prometedoras (encuentro inicial, tortura de Jengi, campamento
+  nocturno, boda) y se encontraron 8 combinaciones ✅ de las 25 posibles (5 personajes × 5
+  emociones, sin contar a Gato con Botas que no sale en esta película); las que faltan pueden
+  no existir como plano propio en esta única película, o estar en tramos no cubiertos por los
+  3 zooms — ver la tabla del punto 13 para el detalle exacto de qué falta y por qué.
+
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Qué pedía | Estado | Por qué |
+|---|---|---|---|
+| 7 | Personajes ppales/secundarios: personalidad, gestos, ropa, objetos, manías, con quién aparecen; encuestas de popularidad | ⚠️ | 8 personajes con rasgos, objetos y compañías, con dos fuentes; no hay encuesta oficial (se buscó y se documenta que no existe), se usan 3 rankings de fans + el dato objetivo del spin-off como proxy |
+| 8 | Doblaje latino, actor/estudio/director, frases textuales, dos fuentes por nombre | ✅ | Reparto de las 4 películas + 2 especiales + 2 spin-offs, cruzado entre las páginas de Doblaje Wiki y (para los 2 datos más importantes) con El Informador; 4 frases textuales transcritas y medidas con `voz.py`; incluye la actualidad de Shrek 5 (Obregón) con 8 fuentes de prensa |
+| 12 | Qué ama el fandom (memes, chistes internos) y qué NO hacer | ✅ | Memes en inglés (Shrek is love) y en español (Pregúntame, Agarro el mínimo de confianza) documentados con origen y fecha; 5 puntos concretos de «qué no hacer» |
+| 13 | Descripción profunda de cada personaje: miedo, arco, cómo se expresa, cara en cada emoción con fotograma/minuto, dinámicas | ⚠️ | Historia, miedo, arco, forma de hablar y dinámicas completos para 9 personajes; tabla de emociones con 8/25 casillas ✅ con fotograma propio sobre la película completa (Gato con Botas documentado por fuentes externas, no descargado) |
+| 20 | Gustos y detalles (comida, aficiones, cumpleaños, altura, objeto, autopercepción), con fuente | ⚠️ | Le gusta/no le gusta y autopercepción cubiertos para 6 personajes; altura/cumpleaños oficiales sólo existen para Shrek y Burro (se dice explícitamente que no se encontraron para el resto) |
+| 21 | Por qué la gente la ama: reseñas, Reddit, encuestas, ventas, premios; escenas que hacen llorar con minuto/música/reacción | ✅ | Taquilla y premios de 3 películas, análisis crítico de Fiona como ícono, y el ataque de pánico de Gato con Botas con 9 fuentes de crítica + hilos de Reddit con votos — el consenso más fuerte de todo este informe |
+| 22 | Fan dubs y comunidad hispana en YouTube/TikTok, con canal/enlace/escena/vistas; covers de openings; memes | ⚠️ | 1 musical amateur con canal/vistas/fecha confirmados; YouTube bloqueó la sesión para más (avisado por el propio encargo como riesgo conocido); memes hispanos cubiertos en el punto 12 |
+
+
+## Bitácora de búsqueda
+
+**Red directa (API, sin buscador)**
+- Doblaje Wiki API (`action=parse&prop=wikitext`) — fichas completas de Shrek 1-4, los 2 TV
+  specials y las 2 películas de Gato con Botas (8 páginas).
+- Doblaje Wiki API (`action=query&prop=imageinfo`) — URL real de 4 muestras .ogg oficiales
+  (Shrek, Burro, Fiona, Gato con Botas), transcritas con `voz.py`.
+- dubdb.fandom.com API — segunda fuente independiente para el reparto de Shrek.
+- shrek.fandom.com y shrek.fandom.com/es (API `action=parse&prop=wikitext`) — fichas de
+  Shrek, Burro, Fiona, Farquaad, Dragona, Jengi, Perrito, Kitty Patitas Suaves, Gato con
+  Botas (9 páginas).
+- Dailymotion API (`api.dailymotion.com/videos?search=`) — clips oficiales doblados, y
+  búsqueda específica de fandubs/covers/musicales en español (3 consultas: "Shrek cover
+  español", "Bienvenidos a Duloc", "Shrek fandub", "Shrek el musical latino").
+- Arctic Shift (`arctic-shift.photon-reddit.com`) — hilos de r/Shrek (ya en `datos-voz.md`) y
+  de r/pussinboots sobre el ataque de pánico y escenas que hacen llorar (4 consultas, todas
+  con resultado).
+- `herramientas/fotogramas.py` sobre la copia completa de Shrek 1 en Dailymotion
+  (`dailymotion.com/video/xalipyq`, 66:03 min): 1 pasada general (cada 60 s) + 3 zooms (cada
+  4 s, 8-15 min / 46-50 min / 58-63 min) + 9 fotogramas sueltos de alta resolución. Vídeo
+  borrado al terminar; hoja de contacto propia en mi carpeta de trabajo (no en `hojas/`, ver
+  nota del punto 13), `/tmp/claude-0/trabajo/59-shrek-voz/hoja_final/emociones_01.jpg`.
+- `herramientas/voz.py` sobre 4 muestras .ogg oficiales de Doblaje Wiki.
+- `yt-dlp --print` sobre 3 URLs de YouTube para metadatos de fandubs/covers (1 funcionó antes
+  del bloqueo de sesión).
+
+**Buscador web** (español salvo donde se indica; ~14 de las ~50 búsquedas del cupo)
+- «Shrek personaje más popular encuesta favorito fans» → 3 rankings de fans (entreteria,
+  buenaventuraenlinea, ranker.com) + Wikipedia "Shrek fandom".
+- «Puss in Boots stole the show Shrek 2 most popular character spinoff» (inglés) → confirma
+  que es el primer personaje de DreamWorks con spin-off propio.
+- «Antonio Banderas dobla a sí mismo Gato con Botas español entrevista» → doblaje wiki +
+  contraste con vídeos de TikTok (descartados, wiki mejor documentada).
+- «Guillermo del Toro voz Comandante Gato con Botas doblaje entrevista» → El Informador,
+  Cine Premiere.
+- «"Un felino temerario" Guillermo del Toro Gato con Botas Comandante Informador» → segunda
+  fuente independiente del dato de Del Toro.
+- «Shrek Oscar mejor película animada 2001 historia premio» → palomaynacho.com,
+  socialfuturo.com.
+- «"Shrek is love Shrek is life" meme origen historia» (inglés) → Know Your Meme, Daily Dot,
+  Syfy.
+- «memes Shrek Latinoamérica frases Burro "pregúntame" viral» → TikTok (varios resultados).
+- «Shrek recaudación taquilla mundial 2001 cifras crítica por qué encantó» → Cinemascomics,
+  varias notas de prensa.
+- «Puss in Boots Last Wish panic attack scene Death wolf praised mental health reaction»
+  (inglés) → 9 artículos de crítica/ensayo independientes.
+- «Shrek Fiona feminista personaje análisis por qué fans la aman princesa» → sipse.com,
+  plenitudmental.com, univa.mx.
+- «reddit r/Shrek cried scene wedding true love's kiss reaction» (inglés) → sin hilos
+  específicos citables, resuelto luego con Arctic Shift directo.
+- «Puss in Boots The Last Wish Rotten Tomatoes crítica mejor película franquicia aclamada» →
+  screenrant, comicbook.com.
+- «Shrek 2 récord taquilla película animada más exitosa 2004» → infobae, cronista, lanueva.
+- «fandub español latino Shrek "Bienvenidos a Duloc" OR "All Star" cover canal YouTube» →
+  títulos localizados, vistas no verificables (YouTube bloqueado).
+- «Shrek altura cumpleaños edad oficial ficha personaje años» → confirmó que no hay ficha
+  oficial más allá de la wiki de personaje (ya usada).
+- «Alfonso Obregón voz de Shrek entrevista actor doblaje mexicano» → Infobae, Hollywood
+  Reporter ES, El Comercio (la noticia de Shrek 5, muy relevante, no una entrevista de 2001).
+- «"Shrek 5" nueva voz actor doblaje Alfonso Obregón reemplazo nombre confirmado» → Milenio,
+  El Gráfico (rumor de Faisy, sin confirmar).
+- «entreteria.com "10 personajes de Shrek mejor clasificados" ranking lista» → confirma a
+  Burro en el puesto 1 según fans.
+
+**Fuentes que fallaron** (con lo intentado)
+- YouTube (`yt-dlp`): HTTP 429 en una URL, «Sign in to confirm you're not a bot» en otras dos,
+  incluso con `--js-runtimes node` (mismo flag que usan `voz.py`/`fotogramas.py`) — confirma
+  el aviso del encargo de que YouTube pide iniciar sesión desde este servidor. Un solo intento
+  por URL, sin insistir en bucle, tal como pide `AYUDANTE.md`.
+- Los datos de `datos-voz.md` de Doblaje Wiki para «El gato con botas (2011)» tenían el
+  título mal adivinado; se corrigió buscando en la propia wiki, la página real es «Gato con
+  botas» a secas (título original «Puss in Boots»).
+
+**Sigue:** nada obligatorio pendiente de mis puntos (7, 8, 12, 13, 20, 21, 22) — todos tienen
+al menos cobertura ✅ o ⚠️ razonada con las búsquedas hechas, según la tabla de cumplimiento.
+Si se retoma para profundizar (no obligatorio): descargar Gato con botas: El último deseo
+(2022) y Shrek 2 con `fotogramas.py` para sacar fotogramas propios de Gato con Botas (el
+ataque de pánico) y completar las casillas ⚠️ de la tabla de emociones del punto 13 (Fiona
+rabia/tristeza/miedo, Burro rabia/tristeza, Shrek tristeza/miedo/vergüenza); reintentar
+YouTube más tarde (esperar bloqueo, un ayudante a la vez) para vistas exactas de fandubs.

@@ -197,8 +197,8 @@ in Shrek» de Wikipedia en inglés (con referencias propias a Billboard, DreamWo
 
 ### Punto 14 · Poses analizadas por personaje (minuto o enlace, qué hace en cada una)
 
-Fotogramas propios (Internet Archive, citados arriba con su minuto) más el frame de duelo de Shrek 2.
-Cada uno con postura, manos, mirada y para qué sirve en una lámina.
+Fotogramas propios (Internet Archive, citados arriba con su minuto, más los de Puss en Botas de
+Shrek 2). Cada uno con postura, manos, mirada y para qué sirve en una lámina.
 
 **Shrek**
 1. *Presentar su hogar* — cierra el libro de cuentos con su manaza verde ocupando el cuadro entero,
@@ -251,11 +251,16 @@ Cada uno con postura, manos, mirada y para qué sirve en una lámina.
    38:00 · ✅
 3. *Escala cómica* — de pie muy erguido frente a Shrek agachado en guardia: la lámina puede jugar con
    ese contraste de tamaño · 38:00 · ✅
-- ⚠️ Sólo 3 poses propias (menos que los 6-10 pedidos): no encontré en Internet Archive el momento
-  exacto de su gag más famoso, los «ojitos de gato» suplicantes (sí confirmado que existe, por
-  ejemplo en la wiki y la cultura popular, pero no localicé el segundo exacto navegando el Shrek 2
-  de Archive.org en los tramos que probé: 41-46 min y 78-81 min). El compañero de imagen puede
-  completar con arte oficial/hojas de modelo de la wiki.
+4. *Acompañar/vigilar* — cabalga sobre el caballo blanco (Burro transformado por la poción) junto a
+   Shrek y Fiona, ya humanos, entrando a la fiesta del castillo; orejas y bigotes alerta · 79:10 · ✅
+5. *Presentar/celebrar (pose «heroica»)* — tarjeta de personaje de los créditos finales: una pata
+   apoyada en el borde de un tejado, la otra pierna estirada con la bota por delante, sombrero con
+   pluma amarilla, lengua asomando — la pose más «de estrella» de todo lo encontrado del personaje ·
+   1:22:30 (créditos de Shrek 2) · ✅
+- ⚠️ Quedan 5 poses (no las 6-10 pedidas): no encontré el gag más famoso de Puss, los «ojitos de gato»
+  suplicantes (sí confirmado que existe, por la wiki y la cultura popular, pero no localicé el
+  segundo exacto navegando Shrek 2 de Archive.org en los tramos que probé: 30-46 min y 78-86 min). El
+  compañero de imagen puede completar con arte oficial/hojas de modelo de la wiki.
 
 ## Lo mejor para la lámina
 
@@ -272,10 +277,10 @@ Cada uno con postura, manos, mirada y para qué sirve en una lámina.
 
 ## No encontré
 
-- ⚠️ Frame exacto de los «ojitos de gato» de Puss en Botas (gag muy famoso): probé los tramos 41-46
-  min y 78-81 min de `shrek-2-2004-full-screen_202406` sin dar con él; puede estar en otro tramo o en
-  Shrek el Tercero/Forever After. No lo marco como inexistente, sólo no until encontrado con el
-  tiempo disponible.
+- ⚠️ Frame exacto de los «ojitos de gato» de Puss en Botas (gag muy famoso): probé los tramos 30-46
+  min y 78-86 min de `shrek-2-2004-full-screen_202406` sin dar con él; puede estar en otro tramo o en
+  Shrek el Tercero/Forever After. No lo marco como inexistente, sólo no lo encontré con el
+  tiempo disponible en esta tanda.
 - ⚠️ Openings/endings estilo anime no aplican (Shrek es una franquicia de películas, no una serie con
   OP/ED): en su lugar tomé la apertura del libro y la canción de cierre («I'm a Believer») como
   equivalentes, y lo dejo dicho aquí para que quede claro por qué no hay «opening» tradicional.
@@ -306,8 +311,10 @@ Cada uno con postura, manos, mirada y para qué sirve en una lámina.
   tráiler oficial en español (15 fotogramas, visto entero).
 - `python3 herramientas/estilo.py <fotogramas>` para paleta y estilo de 7 sitios/escenas (pantano,
   fogata, calle de Duloc, torneo, puente al dragón, castillo de día, fiesta de noche).
-- `https://ambientcg.com/api/v2/full_json?type=Material&q=<Moss|Wood|Cobblestone|Bark>` (CC0) para
-  las texturas equivalentes.
+- `https://ambientcg.com/api/v2/full_json?type=Material&q=<Moss|Wood|Cobblestone|Bark|Metal>` (CC0)
+  para las texturas equivalentes.
+- `ffmpeg -af volumedetect` sobre 4 s de audio de tres momentos de Shrek 1 (turba/rugido, puente al
+  dragón, ambiente tranquilo) para tener un dato acústico real y no sólo descriptivo (punto 9).
 - Fandom, API de `shrek.fandom.com` (`action=query&list=search`, `action=parse&prop=wikitext`):
   páginas «I'm a Believer», «Hallelujah», «Rufus Wainwright», «Joan Jett», `Shrek 2/Transcript` (para
   confirmar dónde suena «Accidentally in Love»).
