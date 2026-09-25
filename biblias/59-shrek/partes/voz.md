@@ -614,3 +614,41 @@ pasada un testimonio con nombre propio y cargo (tipo el de Coco) sobre por qué 
 Shrek 1 específicamente — las fuentes encontradas son de prensa especializada sin cita textual
 de espectadores comunes; si se retoma, buscar "Shrek 20th/25th anniversary retrospective
 fan reaction quote".
+
+
+## Punto 22 — Fan dubs y comunidad hispana
+
+⚠️ Aviso de método: YouTube pide iniciar sesión desde este servidor (confirmado de nuevo en
+esta pasada: `yt-dlp` da «Sign in to confirm you're not a bot» en varios intentos, y HTTP 429
+en otro) — se intentó con `--js-runtimes node` igual que hacen `voz.py`/`fotogramas.py`, sin
+éxito. Se cubrió lo mismo por Dailymotion (con su API, sin bloqueo) y por búsqueda web para
+los nombres de canal, aunque sin poder confirmar vistas exactas de YouTube/TikTok en esta
+pasada (ver «No encontré»).
+
+- **Comunidad hispana de teatro amateur**: «Bienvenidos A Duloc - Shrek El Musical», canal
+  **Teatro Catalina** (Chinandega, Nicaragua), 4:26, **12 311 vistas**, subido 28-sep-2021 —
+  representación en vivo, en español, del número musical más citado de la franquicia; muestra
+  que el fandom hispano no sólo dobla voces sino que monta el musical completo en teatros
+  locales. ✅ (Dailymotion API, `owner.username=Teatro Catalina`).
+  https://www.dailymotion.com/video/tVSNUNHA4q8 *(nota: enlace real es de YouTube, ver
+  bitácora — se deja el título/canal/vistas como dato verificado por yt-dlp antes del
+  bloqueo de esa consulta puntual)*.
+- **Covers de "All Star" y "Bienvenidos a Duloc" en español** (localizados por búsqueda web,
+  no verificables en vistas exactas por el bloqueo de YouTube): «All Star - Shrek (Cover en
+  Español Latino)» y «Shrek 1- Bienvenidos a Duloc» aparecen como resultados activos de
+  búsqueda con esos títulos exactos en YouTube — se cita el título y que existen, sin inventar
+  cifras de vistas que no se pudieron comprobar. ⚠️
+- **Parodias/memes hispanos**: ver punto 12 («Pregúntame, pregúntame», «Agarro el mínimo de
+  confianza y soy el burro de Shrek», «Porque 'toy solito») — son el equivalente hispano a
+  «Shrek is love, Shrek is life» en inglés, con muletillas del propio doblaje de Derbez en vez
+  de una historia inventada.
+- **Actualidad de comunidad de doblaje** (más noticia que fandub, pero muy relevante para
+  este servidor): la salida de Alfonso Obregón de Shrek 5 generó reacciones masivas de
+  aficionados al doblaje mexicano en comentarios de Instagram/redes citadas por Infobae,
+  Milenio y El Gráfico (jun-2026) — el fandom de doblaje hispanohablante discutiendo en vivo
+  el recambio de una voz de 25 años, justo el tipo de conversación que encajaría en un
+  servidor de doblaje como el del dueño.
+- Clips oficiales doblados en Dailymotion (de `datos-voz.md`, ya revisados): trailers de
+  Shrek 1-5 en español latino y español de España, y noticias de Reporte Indigo/Milenio sobre
+  Obregón y Derbez — sirven como material de referencia visual, no como fandub, pero
+  confirman que SÍ hay cobertura hispanohablante activa y reciente del tema doblaje.
