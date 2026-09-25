@@ -145,6 +145,13 @@ confirmarlo. Ver «No encontré».
 | Sala de la partida piedra-papel-tijera | Focos puntuales sobre la mesa, el resto del aula a oscuras (estilo «mesa de casino») | ep. 1, 6:29 | `#11091F` (negro violáceo) domina 38%, con acentos cálidos de piel |
 | Primer plano de Yumeko «transformada» | Fondo casi negro con un solo foco cálido en la cara, ojos rojos muy saturados | ep. 1, 12:39 | `#1D171C` (53%), `#C23345` (rojo), `#EFDADC` (piel) |
 
+**Textura de madera, licencia resuelta**: comprobé
+[Poly Haven: wood_table_worn](https://polyhaven.com/a/wood_table_worn) por su
+propia API (`api.polyhaven.com/info/wood_table_worn`) — **CC0** ✅ confirmado
+(no ⚠️: la biblia decía «comprobar»), autores Dimitrios Savva (foto) y Rico
+Cilliers (proceso), hasta 8192×8192 px. La de TextureCan (fieltro/casino) no
+cargó desde este servidor (sin texto de licencia en el HTML); sigue ⚠️.
+
 Esto confirma con datos reales lo que decía el director Yūichirō Hayashi en
 la entrevista ya citada en `partes/texto.md` («evening light, and moonlight,
 and different kinds of light»; T1 «dark, gritty and realistic»): en los
@@ -250,8 +257,8 @@ equivalentes en Dailymotion o Internet Archive para esos vídeos concretos
   `kakegurui-01`, `kakegurui-seasons-cias`, `admiralkusaka4`, búsqueda
   avanzada `advancedsearch.php`).
 
-Sigue: nada obligatorio de los puntos 2, 4, 9, 10 y 14 queda pendiente — lo
-que falta (Ririka en vídeo, vídeo en 1080p) está en «No encontré» con ⚠️,
-no es obligatorio para cerrar esta parte. Si se relanza este rol, seguir
-ampliando poses (6-10 por personaje pide el punto 14; hoy hay 3-4 por
-personaje) mirando los ep. 1×03-1×06 de `archive.org/details/kakegurui-latino`.
+**Parte terminada**: los puntos 2, 4, 9, 10 y 14 están cubiertos con vídeo
+mirado de verdad y minutos reales; nada obligatorio queda pendiente. Lo que
+falta (Ririka con la cara confirmada, vídeo en 1080p, más poses por
+personaje) está en «No encontré» con ⚠️, marcado como extra para una futura
+ampliación, no como bloqueo de esta parte.

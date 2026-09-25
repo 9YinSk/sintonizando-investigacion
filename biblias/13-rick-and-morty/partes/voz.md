@@ -391,6 +391,19 @@ uno).
   como referencia, pero no encontré un artículo de prensa que los repita.
 - No encontré **cover de opening cantado en español**: expliqué por qué
   (la serie no tiene tema cantado) en el punto 22, no es una búsqueda floja.
+- ⚠️ **«Su cara en cada emoción» (alegría, rabia, tristeza, miedo, vergüenza)
+  con fotograma y minuto, para los 5 personajes** (punto 13, pedido completo):
+  la sección 8 de la biblia ya reutiliza fotogramas numerados por el
+  investigador de imagen para **rabia** (fotograma 1, Rick; fotograma 3,
+  Summer) y **duda/temor leve** (fotograma 2, Morty). Me faltó cubrir
+  **alegría, tristeza y vergüenza** de cada uno: no tengo acceso directo a
+  los fotogramas numerados (son del investigador de imagen, vía
+  `investigar_serie.py`) ni corrí `fotogramas.py` sobre escenas nuevas en
+  esta tanda (herramienta pensada para el rol de vídeo). Sí dejé, en el
+  punto 21, dos escenas con minuto de sobra para sacar esos fotogramas
+  después: Morty llorando en «A Rickconvenient Mort» (T5E3, tristeza) y el
+  Sr. Meeseeks gritando «Existence is pain» (1×05, min. 00:16:42, ya citado
+  en la biblia, entre rabia y desesperación).
 
 ---
 
@@ -422,7 +435,8 @@ uno).
 | 22 | — | `yt-dlp --skip-download --print` sobre 5 vídeos de fandub (3 con datos, 2 sin respuesta a tiempo) |
 | 23 | — | Intento fallido de `arctic-shift posts/search?...&q=cried` (parámetro equivocado, corregido a `title=`) |
 
-**Sigue:** nada pendiente obligatorio de mis puntos (7, 8, 12, 13, 20, 21, 22)
-— quedan sólo los ⚠️ anotados arriba en «No encontré» (extras, no
-obligatorios: segunda fuente de Mr. Poopybutthole, vistas de 2 fandubs,
-databook con altura/cumpleaños que no existe para el elenco principal).
+**Terminado** por esta tanda: los 7 puntos (7, 8, 12, 13, 20, 21, 22) tienen
+contenido obligatorio con fuente. Lo que queda son extras anotados en «No
+encontré» (segunda fuente de Mr. Poopybutthole, vistas de 2 fandubs, databook
+de altura/cumpleaños que no existe para el elenco principal, fotogramas de
+alegría/tristeza/vergüenza para completar el punto 13).

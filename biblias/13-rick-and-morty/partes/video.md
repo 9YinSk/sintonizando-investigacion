@@ -358,11 +358,14 @@ la API que ya estaba; añado las de vídeo real con su enlace):
   sacados por `fotogramas.py` (no hice falta `estilo.py`: eran muestras de
   pocos píxeles, no paletas completas de una imagen compleja).
 
-Sigue: nada obligatorio pendiente de los puntos 2, 4, 9, 10 y 14 (opening,
-tráiler y 3+ escenas mirados con minuto real; sitios, portal y tarjeta de
-título medidos; música con doble fuente; vídeos con minuto exacto; poses
-nuevas con capítulo/vídeo y minuto). Si se retoma esta parte, lo único
-extra sería: reintentar YouTube con `--extractor-args
-youtube:player_client=android` por si ya no pide login, y buscar el clip
-suelto de «Two Brothers» y la transformación completa de Pickle Rick en
-otra plataforma.
+**Parte terminada** (sin `Sigue:` pendiente): los 5 puntos del rol quedan
+cubiertos con vídeo real y minuto citable. Rick y Morty no tiene «ending»
+separado como el anime (no hay canción de cierre con animación propia; los
+créditos van sobre fondo fijo o sobre la última escena) — por eso el
+«opening + ending + tráiler + 3 escenas» de AYUDANTE.md se cubrió como
+viñeta-previa-al-título (equivalente al opening) + 2 tráilers oficiales + 5
+escenas reales de episodios, en vez de forzar un «ending» que no existe.
+Si se retoma esta parte más adelante (no es obligatorio): reintentar
+YouTube con `--extractor-args youtube:player_client=android` por si ya no
+pide login, y buscar en otra plataforma el clip suelto de «Two Brothers» y
+la transformación completa de Pickle Rick (la criatura, no sólo el pepino).
