@@ -45,3 +45,4 @@ Cuenta: cuenta R47
 | 118 | video | Sonnet | 18 | 270 mil |
 | 119 | imagen | Sonnet | 14 | 220 mil |
 | 117 | redactor | Opus | 21 | 377 mil |
+| 119 | texto | Sonnet | 17 | 218 mil |
