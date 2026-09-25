@@ -68,11 +68,26 @@ Parte desde `partes/datos-texto.md` (AniList: staff, obras relacionadas, temas).
   pages" (inglés) y revisé `onepeacebooks.com/jt/ShieldHeroManga.html`. **No lo encontré**, no es que
   no exista: la serie sí es manga y por lo tanto tiene bocadillos estándar (redondos para habla,
   nube para pensamiento), pero no pude verlos en una fuente pública sin comprar el tomo.
-- **Anime**: la ficha de personaje habla y pensamiento en el anime se transmiten con voz en off para
-  pensamientos (sin caja de texto en pantalla); no hay cartelas de "cuadro de texto" propias del
-  anime más allá de los créditos y el logo del título (ver punto 5). ⚠️ No pude mirar un episodio
-  completo con OCR en esta tanda (herramienta `episodio.py` no se usó por límite de tiempo); lo
-  dejo en «Sigue» si hace falta profundizar con fotogramas propios.
+- **Anime**: en los primeros 5 minutos del episodio 1 (mirados ahora con OCR, ver abajo) el pensamiento
+  interior de Naofumi se transmite con voz en off, sin caja de texto en pantalla; no hay bocadillos ni
+  globos de pensamiento propios del dibujo animado en ese tramo.
+- **Cartela de título dentro del episodio** ✅ (mirado con `herramientas/episodio.py --ocr` sobre el
+  episodio 1, fansub de Internet Archive `kusonimetatenoyuushanonariagari01360p`, minuto 0:00–5:00,
+  Whisper `tiny` + tesseract): a los **3:26** aparece, sobre fondo negro, el mismo logo rojo con
+  textura de goteo「盾の勇者の成り上がり」descrito en el punto 5 — es decir, el logo no es sólo un
+  cartel de antes/después de la serie: la propia animación lo repite como cartela de transición justo
+  después de la escena de invocación y antes del arranque de la trama. Confirma con una fuente más
+  (el fotograma real del anime, no sólo las portadas de Steam/Wikimedia) que el rojo #a3182a y el
+  trazo agrietado son el logo oficial y no un invento del arte de caja del videojuego.
+- **Prop de texto dentro de la escena (diegético)** ✅: al minuto **2:42** Naofumi hoja un libro de
+  leyendas en la biblioteca y la cámara muestra su portada con el título en inglés en mayúsculas
+  «**THE SHIELD HERO**» impreso en letra de palo ancha blanca sobre una página color crema — es el
+  único texto en inglés "de verdad" que aparece dibujado dentro de un objeto de la escena (no
+  subtítulo, no créditos), y es un buen ejemplo real de "cartela dentro de la ficción" para el punto 6
+  aparte del logo del título.
+- ⚠️ El resto del texto que se lee en pantalla en este fansub (`kusonime`) son subtítulos en indonesio
+  incrustados por el traductor aficionado, no texto del anime original — no los cuento como cartelas
+  del anime (los descarté del análisis).
 
 ## Punto 11 — Videojuegos de la franquicia
 
@@ -234,15 +249,16 @@ Calamity`, todas ✅ con el resumen de AniList como segunda fuente):
   búsquedas en japonés e inglés).
 - ⚠️ Entrevista de Aneko Yusagi sobre influencias directas de otras obras (el autor es reservado; el
   único hilo relevante del foro de la wiki dio error 402 al leerlo).
-- ⚠️ No miré un episodio completo con `episodio.py` por límite de tiempo de esta tanda (para el punto
-  6, cartelas y pensamientos en pantalla dentro del anime mismo, más allá de logo y juego).
+- ⚠️ Miré con OCR sólo los primeros 5 minutos del episodio 1 (cold open + invocación), no el episodio
+  entero, por tiempo de esta tanda; en ese tramo no hay bocadillo de pensamiento dibujado, sólo voz en
+  off — no valido que se cumpla igual el resto del episodio.
 
 ## Cumplimiento de mis puntos (5, 6, 11, 18, 24, 25)
 
 | Punto | Estado | Por qué |
 |---|---|---|
 | 5. Tipografía | ✅ | Logo medido y mirado, 8 letras libres descargadas y comprobadas con fontTools (ñ, Ñ, á, ¿, ¡), un uso por caso (logo, interfaz, globo, grito, onomatopeya, pensamiento, cartel). |
-| 6. Cómo hablan/piensan en pantalla | ⚠️ | Videojuego mirado y medido a fondo (✅); manga sin bocadillo disponible en fuente pública; anime sin OCR de episodio completo por tiempo. |
+| 6. Cómo hablan/piensan en pantalla | ⚠️ | Videojuego mirado y medido a fondo (✅); episodio 1 mirado con OCR (primeros 5 min: cartela de logo y libro «THE SHIELD HERO» dentro de la escena, ✅); manga sin bocadillo disponible en fuente pública (⚠️). |
 | 11. Videojuegos | ✅ | 3 juegos oficiales encontrados y verificados en dos fuentes cada uno (RERISE, Relive The Animation, Pachislot); interfaz y diálogo mirados en capturas oficiales de Steam. |
 | 18. Estilo y cómo replicarlo | ✅ | Entrevista real del director y el diseñador de personajes (japonés, WebNewtype), CG director confirmado (estudio Orange) con pasos concretos para Photoshop/Blender, línea y sombreado del manga vistos directamente. |
 | 24. Obras parecidas | ⚠️ | Lista de AniList + crossovers oficiales ✅; entrevista de influencias del autor no encontrada (autor reservado); TV Tropes caído. |
@@ -270,7 +286,12 @@ Calamity`, todas ✅ con el resumen de AniList como segunda fuente):
 - Wikipedia en inglés: `List_of_The_Rising_of_the_Shield_Hero_episodes` (arcos por temporada).
 - Lo pesado (imágenes descargadas, fuentes .ttf) quedó en
   `/tmp/claude-0/trabajo/82-the-rising-of-the-shield-hero-texto/` (fuera del repositorio).
+- `herramientas/episodio.py --ocr` sobre `https://archive.org/details/kusonimetatenoyuushanonariagari01360p`
+  (fansub de kusonime, episodio 1, minuto 0:00–5:00, `--modelo tiny --idioma ja`): ficha y hojas
+  quedaron en `/tmp/claude-0/trabajo/82-shieldhero-ep1/` (fuera del repositorio); vi las hojas
+  `hoja_01.jpg` y `hoja_02.jpg` con Read para separar lo que es del anime (logo a los 3:26, libro
+  «THE SHIELD HERO» a los 2:42) de lo que es subtítulo indonesio incrustado por el fansub (descartado).
 
-Sigue: mirar un episodio con `herramientas/episodio.py --ocr` para cartelas/pensamientos en pantalla
-del anime (parte obligatoria del punto 6 que falta) y, si hay tiempo, buscar una página de muestra de
-manga con bocadillo real (Kodansha/Crunchyroll Manga o vista previa de Amazon "Look Inside").
+Sigue: si hay tiempo en otra tanda, mirar el resto del episodio 1 (5:00 en adelante) u otro episodio
+con escena de invocación/pensamiento marcado, y buscar una página de muestra de manga con bocadillo
+real (Kodansha/Crunchyroll Manga o vista previa de Amazon "Look Inside").
