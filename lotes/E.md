@@ -1,9 +1,10 @@
 # Lote E: series nuevas 57-76
 
-Sesión: https://claude.ai/code/session_01SdkTzSsW5n1xjqdJhRDwb6 · rama `claude/lote-e-serie-equipo-x5k96u`
-Cuenta: cuenta A105
-(sigue desde `claude/lote-e-serie-equipo-sh35c4`, sesión session_01PTjYZQejJbQf4MSwH4sQbi, cuenta .108, que hizo 57 y 58
-y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01DpneLCtaxuW3zpMcPdQ1yy).
+Sesión: https://claude.ai/code/session_01HZxvmZum2UvemBLiHCLWha · rama `claude/serene-bardeen-9c4hg5`
+Cuenta: cuenta I50
+(sigue desde `claude/lote-e-serie-equipo-x5k96u`, sesión session_01SdkTzSsW5n1xjqdJhRDwb6, cuenta .105, que dejó 59
+con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (cuenta .108, hizo 57 y 58) y
+`claude/sweet-cerf-x81fcs`.)
 
 ## Estado
 
@@ -15,6 +16,8 @@ y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01D
 - Cambio de cuenta (25-sep, 04:03 UTC, cuenta .105): herramientas instaladas; guardar.sh cada 300 s.
   59: las 4 partes terminadas sin `Sigue:` obligatorio → redactor (Opus) en marcha desde 04:03.
   60: los 4 investigadores (Sonnet) relanzados desde cero a las 04:03.
+- Cambio de cuenta (25-sep, 06:55 UTC, cuenta cuenta I50): herramientas instaladas; guardar.sh cada 300 s.
+  59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
 
 ## Avisos para el dueño
 
@@ -54,6 +57,19 @@ y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01D
   - Fallo del recolector: busca nombres ambiguos sin apellido («Luisa», «Bruno») y cuela imágenes de
     otras series (aquí de *Elena de Ávalor* y *Sofía la Princesa*; marcadas para no usarlas).
 
+- **59 Shrek** (COMPLETA, 1113 líneas, 189 referencias, 57 webs; ✅21 ⚠️16 ❌0): no tiene canal; la biblia
+  propone #textos ⭐, #memes o #noticias-series. Más querido: **Burro** para Latinoamérica (1.º en la lista
+  hispana de Entretería, Eugenio Derbez, memes) y el **Gato con Botas** fuera (⚠️ sin encuesta oficial).
+  Cuadro de diálogo: **la página del libro de cuentos** (pergamino, Bouwsma Uncial sepia, capitular
+  iluminada); también el letrero de madera con pintura roja goteante (Butcherman, sin ¿) y el periódico
+  *Far Far Away Times* (UnifrakturMaguntia). Láminas: A #textos ⭐ «La página del cuento» (Shrek y Burro),
+  B #memes «El letrero del pantano» (Burro), C #noticias-series «El *Far Far Away Times*» (el Gato).
+  - Choques: #textos también lo propone Death Note (18); #memes manda a «fandub-de-memes», que no está en
+    el inventario del 23-sep (confirmar antes de rotular).
+  - Por comprobar: la patada de Fiona «~21:54» no cuadra con la copia; qué se dice en la fogata de 43:54
+    (la cebolla es en un campo de verduras); hay dos copias con relojes distintos (las de Dailymotion
+    van marcadas (DM)). No poner en la lámina fija la noticia de Obregón y *Shrek 5*.
+
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
@@ -61,3 +77,4 @@ y dejó 59 y 60 a medias; antes, `claude/sweet-cerf-x81fcs`, sesión session_01D
 | 57 | redactor (cierre: tabla y bitácora) | Opus | 9 | 198 mil |
 | 58 | redactor | Opus | 25 | 388 mil |
 | 59 | imagen | Sonnet | 17 | 261 mil |
+| 59 | video, voz, texto y redactor | Sonnet / Opus | — | sin medir (sesión .105; su aviso de fin se perdió) |
