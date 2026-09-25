@@ -832,7 +832,7 @@ Los covers de fans lo llaman «Si Tú Lo Deseas» (§23).
 | [Tráiler de *tri.* cap. 5 «Kyōsei»](https://www.dailymotion.com/video/x5zbgmg) | 1:20 | Agumon de cerca 0:18; Sora 0:27; Matt de perfil 0:30; Gabumon de pesadilla 0:39; Matt grita 0:45; **Tai golpea a Matt 0:54**; estreno 30-sep-2017 en pantalla, 1:03 |
 | [«Agumon y Gabumon Warp digievolucionan»](https://www.dailymotion.com/video/x405gc9) (fans, metraje de *02*) | 7:08 | Matt serio 0:15; Agumon y Gabumon alerta 0:45; ficha del Analyzer de MetalGarurumon 2:30; Sora con casco de bici 4:45 ⚠️ canal de fans |
 | [Ending latino completo](https://www.dailymotion.com/video/x3342x6) | 4:02 | cartela con la cantante 0:05; imagen fija de fans, pero el audio es el ending oficial |
-| IA-V1 y 8 episodios de IA-C | — | todo el §2 y el §8.6 |
+| IA-V1 y 7 episodios de IA-C (1, 16, 26, 43, 44, 51 y 54) | — | todo el §2 y el §8.6 |
 | [Gameplay de *Digimon World*](https://archive.org/details/digimon-world-play-station-pal-gameplay-full-demostration) | — | menú 2:37; caja de diálogo 2:47; pantalla de nombre 3:15-3:51 |
 
 ### 12.2 Otros útiles, sin mirar
@@ -1678,3 +1678,238 @@ su voz (§18.7), cortos, una idea cada uno, sin «·», «—» ni paréntesis.
 | Choca con | Demon Slayer (31), 2.ª opción | Jujutsu Kaisen (32), 2.ª opción | nadie (privado) |
 
 ---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que corregí (mirando las hojas y las fotos)
+
+| Parte | Decía | Corregido | Cómo |
+|---|---|---|---|
+| imagen | Tai: «camisa **blanca** con cuello azul marino», «goggles **naranjas**» | camisa **azul** con estrella naranja y ribetes amarillos; goggles con correa azul | nº 30 de `personajes_01.jpg`; Danbooru `blue_shirt`, `blue_headband`; el azul **#1951A9** es el color que más mide (25%) |
+| imagen | Matt: «chaleco o camisa **mostaza y azul marino**, **bufanda**» | camiseta **verde sin mangas de cuello alto**, vaqueros | nº 32 de `personajes_01.jpg` y la figura de Flickr desde 5 ángulos |
+| imagen | Sora: «gorro y **overol amarillo**, camiseta **blanca**» | **gorro azul**, **top amarillo sin mangas**, **vaqueros**, guantes rojos | nº 29; Danbooru `helmet`, `yellow_shirt`, `sleeveless_shirt`, `jeans` |
+| imagen | la página de manga es el «nº 18» | es el **nº 10** | mirando la hoja |
+| imagen | 勇気の紋章 (nº 9) es el rótulo del *Adventure* «clásico» | el archivo es de la lista de episodios de ***Digimon Adventure:* (2020)** ⚠️ | nombre del archivo |
+| imagen | epílogo: «Sora **embarazada** con delantal de floristería» | en la hoja se ve a Sora entre maniquíes con kimonos (nº 17) y con Piyomon y un niño (nº 18); lo del embarazo **no lo veo** ⚠️ | mirando la hoja |
+| vídeo | «los **8** DigiElegidos reunidos, minuto **1:30**» | son **7** (Kari llega en el arco de Myotismon) y el minuto es **11:30** (el fotograma guardado es el segundo 690) | texto de la parte y arcos (§26) |
+| voz | el vídeo x61sy9p es el «opening latino oficial» ✅ | es el **opening japonés** con la letra encima | la parte de vídeo lo miró |
+| texto | «los **9** Emblemas» | son **8** en *Adventure*: la misma lista de la parte trae 8 | §26.3 |
+| texto | «no hay láminas de Pokémon en el servidor» | **sí**: Pokémon (07) es #autoroles, con una Pokédex | `grep` en las biblias |
+| voz | Tai y Matt chocan en «el arco de los Amos Oscuros, ep. 21-22» | los Amos Oscuros son los **eps. 40-53**; la propia parte lo corrigió después | wikitext de la lista de episodios |
+
+### 28.2 Lo que sigue sin comprobar ⚠️
+
+- **Punto 13**: 5 caras sin fotograma y 1 dudosa (§8.6).
+- **Hex de la ropa de Matt**: sin medir en un fotograma de día.
+- **De qué episodio es cada muestra de audio** latina (§10.4).
+- **Título y cantante del opening latino**; quién dobló a Tai en los
+  eps. 10-12.
+- ***Databook***: comida, altura, sangre, cumpleaños (salvo Sora).
+- **Fotogramas en 1080p**: ninguno.
+- **Vistas** de covers y fandubs; **TikTok** sin vídeo ni cifras;
+  **comentarios con más votos** y **vídeos de reacción**.
+- **TCRF** y **TV Tropes** (403); la copia de Wayback se cortó.
+- Colaboraciones con una sola fuente: Animate Cafe, *Kizuna* café,
+  BEAMS, Uniqlo, la ropa mexicana.
+- La música de la despedida (sólo Doblaje Wiki).
+- La forma de la **armónica**, de la **cabina** y del **PiBook**.
+
+### 28.3 Para el dueño
+
+- **Canal**: propongo **#que-estas-escuchando** (A), **🍟 General** (B)
+  y **#config-bots** (C). Ninguno choca con 37, 38 ni 39. A y B los
+  piden Demon Slayer (31) y Jujutsu Kaisen (32) **como segunda opción**.
+- **Para ver u oír en persona** (anote episodio, minuto y frase):
+  - la **alegría de Matt** (probar el ep. 52 o el 25, «Princess
+    Karaoke»);
+  - la **rabia y la tristeza de Agumon** (ep. 2) y la **tristeza y la
+    vergüenza de Gabumon**;
+  - cómo es la **armónica** en la despedida (ep. 54) y **qué toca**;
+  - el **título del opening latino**.
+
+---
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas miradas número a número (126 imágenes): key visuals de *tri.* y *Kizuna*, renders de *Re:Digitize*, epílogo adulto, ropa de verano, Etiquetas doradas, Digivices, logos; portada, banner y retratos de AniList (§3) |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 15 escenas de 1999 y 4 de *tri.* con minuto, vistas de verdad (§2). **Ninguna en 1080p**: 640×480 como mucho; el tráiler en 1080p de YouTube dio 403 |
+| 3 · Fan art y 3D con licencia | ✅ | 8 modelos de Sketchfab con autor y licencia (la Etiqueta con su Emblema, Agumon con *rig*); 17 fotos CC de Flickr miradas (figura de Matt y Gabumon, cosplay); fan art con autor; etiquetas de Danbooru (§4) |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 5 sitios medidos en fotogramas y 6 fondos de *Digimon Story* con `estilo.py` (§5). Texturas sólo como búsqueda en ambientCG y CC0 Textures ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | 2 logos medidos; 8 usos (10 letras) con letra libre comprobada con fontTools (tildes, ñ, ¿ y ¡); la fuente de fans que falla, avisada (§6) |
+| 6 · Cómo hablan en pantalla | ✅ | Analyzer en sus dos versiones, caja de *Digimon World*, reboot 2020, *Survive* y *Cyber Sleuth*, medidos o vistos; receta y qué no hacer (§7). No hay manga propio con globos |
+| 7 · Personajes y encuestas de popularidad | ✅ | 2 encuestas oficiales de Toei, AniList y Danbooru: gana Kari; Matt supera a Tai en Japón (§9). Sin encuesta latinoamericana ⚠️ |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | ficha completa; los 5 del encargo con dos o tres fuentes; 13 frases de muestras oficiales, 2 del narrador con su episodio y 2 expresiones más (§10). Secundarios con una fuente ⚠️ |
+| 9 · Música y sonido | ✅ | opening y ending con créditos en dos fuentes; ending latino con cantante en dos fuentes; lo que suena en la despedida; efectos oídos (§11). Título del opening latino y nombres de pistas sin fuente ⚠️ |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 6 vídeos de Dailymotion, IA-V1, 7 episodios y un gameplay mirados con minuto (§12). **El único análisis no se miró** y **TikTok sin vídeo ni cifras** |
+| 11 · Videojuegos: interfaz y cajas | ✅ | *Digimon World* (PS1) visto y medido, 4 juegos de Steam con capturas medidas e idiomas (§13). TCRF bloqueado ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 6 cosas que todo fan reconoce y 8 reglas de qué no hacer (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, arco, voz medida y dinámicas de los 5 (§8). **El investigador de voz agotó sus 2 tandas: 19 de 25 caras con fotograma y minuto.** Faltan **la alegría de Matt** (buscada en los eps. 43, 44, 51 y 54), **la tristeza y la vergüenza de Gabumon** (eps. 44 y 51; su alegría queda ⚠️, plano general) y **la rabia y la tristeza de Agumon** (la pelea del ep. 1 queda tapada por un rótulo del doblaje). Tai y Sora, completos |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | Tai 9, Agumon 6, Matt 8, Gabumon 6, Sora 6, con minuto o imagen y para qué sirve cada una (§15). Gabumon casi siempre en grupo ⚠️ |
+| 15 · Vestuario con hex | ⚠️ | hex medidos de Tai, Sora, Agumon y Gabumon; ropa por época; la ropa de Tai, Matt y Sora corregida mirando las hojas (§16, §28). **Matt sin hex medido** (sólo un fotograma de noche) |
+| 16 · Ciudades, paisajes y fondos de pantalla | ⚠️ | 13 sitios con hora y luz, la Isla File entera (§17). **Sin fondo de pantalla apaisado en alta**: el de Wallhaven no es de Digimon; sólo pósters verticales |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias, cómo habla cada uno, frases reales por emoción y vocabulario visual (§18). Sin ejemplos de *chibi* ⚠️ |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Watanabe y Kakudou citados, RETAS digital, receta de Photoshop y de Blender con *rig* libre, encuadres (§19) |
+| 19 · Texturas 2D | ✅ | trama de manga libre, rejilla CC0, lápiz sobre pintura, Emblemas, estrella (§20). Sin grano de papel ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | Emblema, familia, edad, objeto, adultos; cumpleaños sólo de Sora (§21). **Sin *databook***: faltan comida, altura, sangre, lo que odian |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | 6 razones y 3 escenas con minuto, cómo están hechas y su música (§22). **Sin comentarios con más votos ni vídeos de reacción**; escenas de risa, pocas |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 3 covers, un fandub, TikTok, Digi-Rap en español, prensa de 3 países (§23). **Sin vistas** (YouTube y TikTok bloqueados), sin parodias ni memes hispanos |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Hypland con dos fuentes, 5 más con una ⚠️; 2 figuras oficiales y 2 en fotos libres; 2 cosplays reseñados y 4 en fotos; Fortnite buscado sin resultado (§24) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 8 parecidas de AniList, Tamagotchi y cómics americanos como influencia, 5 láminas vecinas comprobadas (§25). TV Tropes dio 403 y la diferencia con Pokémon tiene una sola fuente ⚠️ |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | reglas en 5 líneas, 5 arcos con su momento clave, 8 Emblemas, objetos y vocabulario (§26) |
+| Tres conceptos de lámina | ✅ | A #que-estas-escuchando (armónica, Matt y Gabumon), B 🍟 General (teléfono público, Tai y Agumon), C #config-bots (portátil con el Analyzer, Agumon), con canal propuesto; ninguno choca con 37-39 (§0, §27) |
+| 40 fuentes distintas | ✅ | más de 40 webs distintas enlazadas: wikis en 2 idiomas, Doblaje Wiki, Toei, prensa de 3 países, tiendas, bancos de arte, 3D, texturas y letras, vídeo, música, juegos |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | ✅ oficiales (Toei, Toei LA, Steam, Tamashii, Hypland), entrevistas del staff (Watanabe, Kakudou), japonés, wikis (Fandom en inglés y español, Doblaje Wiki, Wikimon), foros (Reddit, With the Will, Tumblr), arte (Danbooru, Safebooru, Pixiv), vídeo, 3D y texturas, doblaje latino. ⚠️ **Coreano sólo por un foro en inglés; chino, ninguno; GitHub, ninguno**; TV Tropes y TCRF con 403; YouTube y TikTok bloqueados |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas y descritas número a número, con lo que no hay que usar (§3) |
+| `referencias.json` | ✅ | todas las útiles de las partes y de `datos.json`, las mejores primero, con tamaños medidos (las que faltaban, medidas por el redactor) |
+| Frases del doblaje latino textuales, con vídeo y minuto | ⚠️ | 13 frases con su audio oficial y el segundo de la muestra, y 2 del narrador con su episodio (§10.4). **Sin episodio para las muestras** y sin clip oficial doblado |
+| Colores medidos, no inventados | ✅ | más de 60 hex, todos de `estilo.py` sobre fotogramas, retratos oficiales, logos, capturas de juegos o arte de fondo; los de los Emblemas, a ojo y avisados ⚠️ |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes, la del recolector y lo que
+hizo el redactor. ✅ = confirmado con dos fuentes o visto; ⚠️ = una
+fuente o por comprobar.
+
+### 29.1 Recolector (`recolectar.py`, sin IA, 24-sep-2026)
+
+- [AniList](https://anilist.co/anime/552): obra, 25 personajes con
+  favoritos, fichas, *staff* de animación, 15 obras parecidas, 23
+  relacionadas; enlaces de *streaming* ([Crunchyroll](https://www.crunchyroll.com/digimon-adventure),
+  [Hulu](http://www.hulu.com/digimon-adventure), [iQ](https://www.iq.com/album/2cvhju4mx29)).
+- [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Digimon:_Digital_Monsters):
+  ficha y «Datos de interés». **La tabla de reparto salió vacía** (la
+  rellenó a mano la parte de voz).
+- [Danbooru](https://danbooru.donmai.us/posts?tags=digimon_adventure)
+  (ranking y etiquetas), [Safebooru](https://safebooru.org) (fan art con
+  autor), [Wallhaven](https://wallhaven.cc) (1 resultado, no es de
+  Digimon), [Sketchfab](https://sketchfab.com) (10 modelos),
+  [Openverse](https://openverse.org) (20 fotos de Flickr),
+  [Dailymotion](https://www.dailymotion.com) (clips), [Internet Archive](https://archive.org)
+  (20 ítems), [MusicBrainz](https://musicbrainz.org) (discos),
+  [Steam](https://store.steampowered.com) (vacío con «Digimon
+  Adventure»), [Reddit r/digimon](https://www.reddit.com/r/digimon)
+  (títulos de hilos con votos).
+- Falló: **AnimeThemes** (HTTP 522). La wiki de Fandom dio 0 imágenes
+  por buscar páginas de desambiguación (lo arregló la parte de imagen).
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- `investigar_serie.py --wiki digimon` en 3 tandas (personajes con su
+  título exacto de la wiki en inglés; sitios y Emblemas; ropa con
+  `--min-px` más bajo): 3 juegos de hojas, mirados con Read.
+- API de Fandom (`list=search`, en inglés) para los títulos exactos
+  (`Taichi "Tai" Kamiya`, no la página de desambiguación).
+- `estilo.py` sobre 5 retratos de AniList, 6 fondos de la Isla File y
+  los Emblemas de 2020.
+- WebSearch (8): Uniqlo, café del 25.º aniversario, Pizza Hut y
+  *Kizuna* (sin resultado), figuras S.H.Figuarts, BEAMS, cosplay, trama
+  libre, textura de rejilla libre. En japonés: «デジモン フォートナイト
+  コラボ» (sin resultado).
+- `curl` directo: El Heraldo de México (200), [With the Will](https://withthewill.net)
+  (200), [Hypland](https://hypland.com/collections/digimon) (200),
+  [Clip Studio Assets](https://assets.clip-studio.com/en-us/detail?id=2142037)
+  (200). **Toy People y blog.buyee.com bloqueados por Cloudflare**: se
+  usó el resumen del buscador (⚠️).
+- Imágenes miradas en grande: las 3 hojas, Binary Castle, Gravel
+  Wasteland, «Reunión», los Emblemas de 2020.
+- No encontró: fondos de fans en alta, portada de tomo con grano de
+  papel, notas de prensa de Uniqlo y BEAMS, colaboración con Fortnite.
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- API de Dailymotion (6 consultas en español e inglés, filtradas a
+  10-15 resultados).
+- `yt-dlp -F` (sólo metadatos) en 8 vídeos de Dailymotion, 2 de YouTube
+  y 2 ítems de Internet Archive. **YouTube: la descarga dio 403** (pide
+  iniciar sesión); se probó una vez.
+- `ffmpeg` con salto rápido por HTTP Range sobre el .mp4 de 3.58 GB de
+  Internet Archive: **más de 40 fotogramas** sin bajar el archivo; los
+  mejores, otra vez en grande. Vídeos borrados al terminar.
+- `fotogramas.py --cada` sobre 6 vídeos (opening, ending latino, 3
+  tráileres de *tri.*, el de fans); `estilo.py` sobre 5 sitios.
+- WebSearch (3): autoría de «Butter-Fly» (cruzada con Wikimon y la
+  wiki); tendencias de TikTok en español e inglés.
+- AnimeThemes: 522 y *timeout* dos veces. `web.archive.org`: cortes.
+- No encontró: 1080p, `.webm` de AnimeThemes, Gabumon solo de cuerpo
+  entero en acción, nombres de pistas por escena, cifras de TikTok.
+
+### 29.4 Investigador de voz (puntos 7, 8, 12, 13, 20, 21, 22; 2 tandas, agotadas)
+
+- Doblaje Wiki, wikitext completo por `action=parse` (español): reparto
+  sacado a mano. `prop=imageinfo` para las URL de los 5 `.ogg`.
+- `voz.py` sobre las 5 muestras (Tai, Sora, Matt, Agumon, Gabumon):
+  frase, registro, semitonos y velocidad.
+- WebSearch en español e inglés: Gerardo Meza, Uraz Huerta, Circe Luna;
+  *databook* de Tai (cumpleaños, altura); escenas que hacen llorar
+  (Reddit, «made me cry»); ep. 54 y «I Wish»; memes y «goggle head»;
+  fandubs y covers de «Butter-Fly».
+- WebSearch en japonés: «デジモンアドベンチャー 人気投票 キャラクター
+  ランキング» → las dos [encuestas](https://www.toei-anim.co.jp/tv/dejimon/ranking/result29.html)
+  de Toei, leídas con `curl` decodificando Shift-JIS.
+- WebFetch: El Universal, AnimeArgentina, LEVEL UP. **TV Tropes: 403.**
+- [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=digimon&query=cry):
+  «cry» (0 válidos), «goodbye» (*timeout*).
+- Vídeo mirado: ep. 1 (5:00-14:00), ep. 54 (8:00-18:48) y la película
+  en español de Internet Archive (25:00-30:00) con `fotogramas.py`.
+  Cierre del punto 13 con un script propio de fotogramas por HTTP Range:
+  eps. 16 (7:00-20:00), 26 (0:00-20:30), 43 (10:00-19:30), 44
+  (0:00-19:40), 51 (0:00-20:00) y otra vez el ep. 1. La lista de
+  episodios, del wikitext de la wiki (la web normal da 403).
+- [Wikimon](https://wikimon.net/): ficha de Taichi sin comida ni altura.
+- No encontró: *databook*, página de memes de TV Tropes, vistas de
+  covers, memes de TikTok, reseñas sobre el impacto en Latinoamérica, 5
+  caras del punto 13.
+
+### 29.5 Investigador de texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- Wikitext de la wiki en inglés (sin gastar búsquedas): Crests,
+  Digivice, Digivolution, Digimon Adventure, Digimon Analyzer, Digimon
+  World, *V-Tamer 01*, Digital World, lista de episodios.
+- APIs: Steam (`storesearch`, `appdetails`) para 4 juegos; Sketchfab
+  (`v3/search`, `v3/models`); [Fontsource](https://api.fontsource.org/v1/fonts?subsets=latin-ext)
+  y jsDelivr para 14 `.ttf`; dafont (`search.php?q=digimon`).
+- Imágenes propias: logos JP y EN, dos capturas del Analyzer,
+  fotogramas del gameplay de *Digimon World* (`fotogramas.py --cortes`),
+  capturas 1920×1080 de Steam. Todas con `estilo.py`; letras con
+  `fontTools`.
+- WebSearch (8, en inglés salvo una en japonés): letra del logo;
+  producción de Toei y pintura digital; Kakudou; RETAS y Toonz; los
+  arcos; influencias de Hongo. «デジモンアドベンチャー 効果音 擬音語»
+  no dio nada útil.
+- Fallaron: [TCRF](https://tcrf.net/Digimon_World) (403 Cloudflare, API
+  y página), TV Tropes (curl y WebFetch), la copia de TCRF en Wayback
+  (conexión cortada), la API de Wikipedia («too many requests»).
+- Le quedaron unas 42 búsquedas sin usar.
+
+### 29.6 El redactor
+
+- Leyó `PETICIONES.md`, `EQUIPO.md`, `ENCARGO.md`, `AYUDANTE.md`, el
+  encargo, `servidor/reglas_del_dueno.md`, `servidor/inventario.md`,
+  `DECISIONES.md`, `lotes/D.md` y las cuatro partes; los `datos-*.md` y
+  los `.json` para completar.
+- **Miró las 3 hojas** número a número (y en grande los nº 19, 23, 29,
+  30 y 32 de personajes y 3, 13, 16 y 18 de objetos): de ahí salen las
+  correcciones de ropa del §28.
+- **Miró las 20 fotos de Openverse** en una hoja propia: 17 útiles
+  (figura de Matt y Gabumon, peluches, tarta del Emblema, MetalGarurumon,
+  cosplay); descartó la foto familiar y el collage de Wallhaven.
+- **Midió** el tamaño de las 17 imágenes de AniList que no lo tenían
+  (portada 460×690, banner 1280×371, retratos de 225-230 px de ancho).
+- Comprobó los canales con `grep '^canal:' biblias/*/biblia.md` y las
+  láminas vecinas (Pokémon 07, Demon Slayer 31, Jujutsu Kaisen 32).
+- No usó el buscador ni la red para datos nuevos: todo sale de las
+  partes.
+
+### 29.7 Fuentes que no se usaron, y por qué
+
+- **Terriermon** y **BlitzGreymon** de Sketchfab: no son de *Adventure*.
+- **El resto de `objetos_01.jpg`** (App Drive, Fusion Loader, Darkness
+  Loader, *Seekers*): otras series.
+- **El retrato del Narrador** de AniList: no tiene imagen propia.
+- **El vídeo «Analizador»** (x63wsqe): no es un análisis.
+- **ANMTV**, **GitHub**, **ArtStation**, **DeviantArt**, fuentes en
+  **chino**: ninguna parte las consultó.
