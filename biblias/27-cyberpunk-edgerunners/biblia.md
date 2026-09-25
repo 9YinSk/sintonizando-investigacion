@@ -110,7 +110,7 @@ fecha: 2026-09-24
 - Tabla «Cumplimiento del encargo» y bitácora de la segunda pasada.
 - `referencias.json`: de **38 a 231** referencias.
 
-**⚠️: había 62, quedan __DESPUES__.** Los que quedan son sobre todo:
+**⚠️: había 62. Se resolvieron 21 de esos; los puntos 18-25 y la tabla nuevos traen los suyos (dichos con su por qué), y el total queda en 84.** Los que quedan son sobre todo:
 minutos que no se pudieron volver a ver (YouTube pide iniciar sesión en el
 servidor), vistas de los fandubs, la lista vertical de opciones de diálogo
 del juego, el programa exacto de producción de Trigger y el amarillo exacto
@@ -2582,3 +2582,70 @@ más natural para las horas.
 - La lámina ya hecha para este canal.
 - Capturas medidas de la **interfaz de diálogo** del juego distintas de
   las de la guía de cuadros (Game UI Database bloqueada por Cloudflare).
+
+### 21.6 Segunda pasada (25-sep-2026) · las partes de los investigadores
+
+**Imagen** (`partes/imagen.md`)
+- (EN) «Cyberpunk Edgerunners x collaboration cafe figure Prime 1 Good
+  Smile», «Insert Coin jacket», «Prime 1 Studio 1/4», «best cosplay Lucy
+  EVA foam», «free CC0 screentone», «oil painting brushes», «Arasaka
+  Militech Kiroshi Trauma Team logo», «Yuto Kaneko OR Yoshiyuki Kaneko»,
+  «Edgerunners MADNESS Kadokawa Dark Horse», «fabric pattern camouflage
+  plaid» (sin resultado). (ES) «colaboración marca evento crossover», «café
+  temático Japón» (sin resultado).
+- API de Fandom (tamaños de logos y del manga W124-W126, wikitexto de
+  *David's Jacket*), API de ambientCG, visitas directas a la tienda de CD
+  PROJEKT RED, Sideshow, GraphicsBunker, Tokyo Weekender y Yaya Han.
+- No encontré: estampados de tela, café temático oficial, segunda fuente
+  de Fortnite y Atsuko; imágenes de IMDb, Good Smile e Insert Coin dieron
+  403.
+
+**Vídeo** (`partes/video.md`)
+- `fotogramas.py` sobre 7 episodios de Internet Archive (360p): ep. 1
+  (0:00-4:20), ep. 2 (19:30-21:30), ep. 3 (0:00-1:36, 4:55-8:20,
+  17:00-18:05), ep. 4 (21:20-23:16), ep. 6 (22:10-22:50), ep. 7
+  (11:10-12:10), ep. 9 (5:15-5:45); y el tráiler de Dailymotion.
+- `yt-dlp --skip-download` para capítulos de los 4 análisis (funcionó).
+- Colores medidos con Pillow en fotogramas propios.
+- API de la wiki: *Doc (Edgerunners)*, *2nd Amendment*, *NCART*.
+- Fallidos (dos intentos): AnimeThemes (522) y la API de imágenes de
+  Wikipedia (límite de peticiones).
+
+**Voz y personajes** (`partes/voz.md`)
+- Wikitexto de la wiki `cyberpunk` (David, Rebecca, Lucy, Maine, Kiwi,
+  Falco) con sus citas al *Mission Kit*.
+- ANMTV, Rotten Tomatoes (JSON de la página), PC Gamer, KnowYourMeme,
+  aniSearch (8 fichas), Anime-Planet (1).
+- Descartados: BTVA (no lista español; el resumen del buscador se lo
+  inventó), IMDb y TMDB (sin reparto latino), Fandom alternativos de
+  doblaje (fichas incompletas).
+- Bloqueados: okamisamatv.com.mx (no resuelve), TV Tropes y Wayback
+  (Cloudflare / conexión rechazada), Anime News Network (captcha), Forbes
+  (captcha), X (403), Instagram (sin texto), YouTube (pide iniciar sesión),
+  Arctic Shift en r/Edgerunners (timeout).
+- Buscador (ES y EN): fandub latino, covers en español, memes hispanos,
+  reacciones, efecto en Steam, reparto.
+
+**Texto, juegos y técnica** (`partes/texto.md`)
+- API de la wiki: *Streetslang*, *Cyberpunk: Edgerunners* (episodios),
+  *Jimmy Kurosaki*, *David's Jacket*, logos de 7 corpos y bandas.
+- fontTools sobre M PLUS Rounded 1c (google/fonts en GitHub).
+- API de Sketchfab (modelos de David, Rebecca y Lucy).
+- (EN) «animation style interview Imaishi», «chromatic aberration film
+  grain», «Retas Clip Studio», «Blender toon shader», «Photoshop cyberpunk
+  brushes», «dialogue choice menu screenshot», «site:tcrf.net Cyberpunk
+  2077».
+- AWN (entrevista de Netflix), Interface In Game; TCRF 403 y sin copia
+  en Wayback; Game UI Database tras Cloudflare.
+
+**Redactor**
+- Juntó las cuatro partes en su sitio, resolvió 21 ⚠️ de la primera
+  pasada, añadió los puntos 18-25, la guía para IA de texto y la tabla de
+  cumplimiento; `referencias.json` de 38 a 231 (partes y `datos.json` del
+  recolector: Fandom, Wallhaven, Sketchfab, Openverse, Steam, AniList,
+  Safebooru).
+
+**Siguen sin encontrarse**: fotogramas en 1080p, vistas de los fandubs,
+memes hispanos propios, el programa exacto de producción, la lista
+vertical de opciones del juego, el amarillo exacto del logo, el hilo más
+votado sobre el final, altura y cumpleaños oficiales (no hay databook).
