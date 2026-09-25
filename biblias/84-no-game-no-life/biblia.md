@@ -680,3 +680,38 @@ La serie no tiene canal. Se proponen tres, distintos entre sí. Textos del canal
 | — | Hojas de contacto | ✅ | 3 en `hojas/`, descritas arriba; las demás, fuera del repositorio. |
 | — | `referencias.json` | ✅ | Todas las útiles de las partes, las mejores primero. |
 
+## Bitácora de búsqueda
+
+**Recolector (`recolectar.py`, 24-sep)**: AniList, Doblaje Wiki (API `action=parse`), Fandom, Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse (sólo «Game of Life», descartado), Dailymotion, Internet Archive, MusicBrainz, Steam, Reddit. AnimeThemes falló (522).
+
+**Imagen**
+- Inglés (WebSearch, 5): «No Game No Life artbook key visual Blu-ray cover art official illustration Yuu Kamiya»; «… crossover figura cosplay café temático evento»; «… figure Kotobukiya Good Smile Alter Shiro Sora Jibril scale figure»; «… manga screentone brush pack texture chessboard pattern free»; «… anime color palette hex Sora hoodie Shiro dress official artbook».
+- Japonés: «ノーゲーム・ノーライフ 壁紙 公式», «ノーゲームノーライフ コスプレ 完成度», «ノーゲーム・ノーライフ カフェ コラボ».
+- API de Fandom: wikitexto de *Uchihime × No Game No Life*, *No Work No Life Desu!*, *No Work No Life 2023*, *Collaborations*, *Immanity*, *Disboard*; `imageinfo` de 6 imágenes. `investigar_serie.py`: 13 hojas, 577 imágenes grandes. `estilo.py` y Pillow sobre los 4 renders.
+
+**Vídeo**
+- `fotogramas.py` sobre Dailymotion (discurso, opening, tráiler de *Zero*) e Internet Archive (ep. 1, 6, 8 y 9 con saltos remotos); `estilo.py` para 12 paletas.
+- Inglés (WebSearch, 8): discurso de Sora, TikTok 2024-2025, opening y ending, créditos de música en MyAnimeList, efecto de sonido icónico, primera aparición de Jibril, narración de los Pactos, ending especial del ep. 12.
+- `archive.org/metadata/<id>`; AnimeThemes 522 dos veces; YouTube pedía iniciar sesión.
+
+**Voz y personajes**
+- Español: «No Game No Life ANMTV doblaje latino Leonel Arias», «No Game No Life fandub español latino tiktok cover opening».
+- Inglés: popularidad, por qué la aman (Reddit), ventas y premios, memes, TV Tropes.
+- Japonés: «"No Game No Life" 人気投票 キャラクター 白 空».
+- Doblaje Wiki (ficha y 5 fichas de actor), eldoblaje.com, wiki de la serie (9 personajes), AniList, Danbooru, zonosite, MyAnimeList, Wikipedia, Reddit por Arctic Shift (5 búsquedas), ANMTV, 2 clips de Dailymotion con `fotogramas.py` y `voz.py`, 4 muestras de audio con `voz.py`.
+- Bloqueados: TV Tropes y Fanlore (Cloudflare, también en Wayback), AnimeThemes, YouTube, Reddit directo (403).
+
+**Texto, juegos y técnica**
+- Fandom API: `siteinfo`, `allpages`, `search` (Disboard, logo, Existence Othello) y wikitexto de *Rules*, *Disboard*, *Ten Covenants*, *Ixseed*, *Race Piece*, *『 』*, *Chess*, *Existence Othello*, *Chapter 1* y los tomos 1 a 14.
+- Inglés (WebSearch, 6): logo y tipografía, globos en TV Tropes, técnica de Kamiya, entrevista de Ishizuka, TCRF, Yann Le Gall.
+- tcrf.net por `curl`; Fontsource y jsDelivr para bajar las 4 letras y comprobarlas con fontTools; `MANGA11.jpg`, `MANGA12.jpg` y 2 capturas de Steam miradas.
+
+**Redactor (25-sep)**
+- Miradas las 11 hojas. Correcciones hechas al mirar: el fotograma del ep. 6, 14:00 es **Steph**, no Jibril; el del discurso a las 3:20 es **Steph**, no Sora y Shiro; en el ep. 9, 11:40 detrás de Steph está **Jibril**, no Shiro; en el opening, detrás de los hermanos hay edificios, no un tablero. La parte de texto decía que no había doblaje latino: sí lo hay (§8). El juego de Steam probablemente no es de la franquicia (§11).
+- Sacadas del repositorio 8 hojas: `personajes_01.jpg` y `objetos_01.jpg` incluían ilustraciones con desnudos censurados, una con Shiro; las de vídeo se juntaron en `escenas_01.jpg` (montada con Pillow).
+- Revisados a ojo 9 fondos y fan arts (miniaturas de Wallhaven y Safebooru): todos aptos.
+- Medido con Pillow el color de la cartela de los Pactos (`#E8E0F8`).
+
+**Lo que NO se encontró** (resumen): minuto latino del discurso de Sora; clips oficiales doblados en YouTube; videojuego oficial; ficha en TCRF; modelos 3D libres de calidad; fondos de pantalla oficiales; cosplay documentado; cafés temáticos; *databook* de gustos; entrevista de proceso de Kamiya; influencias del autor; nombre de pistas por escena; la escena final de *Zero* en vídeo; búsquedas en coreano y chino; repositorios de GitHub.
+
+**Confirmado frente a dudoso**: todo lo marcado ✅ tiene dos fuentes o se vio u oyó; lo marcado ⚠️ tiene una sola fuente o no se pudo ver.
