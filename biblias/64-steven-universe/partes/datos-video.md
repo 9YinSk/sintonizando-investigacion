@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fandom: no encontré la página de «Amatista» · fandom: no encontré la página de «Perla» · fans_booru: HTTP Error 500: Internal Server Error
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fandom: no encontré la página de «Amatista» · fandom: no encontré la página de «Perla»
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
@@ -19,13 +19,13 @@ _Fuente: https://api.dailymotion.com_
 **«Steven Universe ending»**
 - steven universe · 1:12 · Florentcastano · 1986 vistas · https://www.dailymotion.com/video/x9ly9su
 - Steven Universe · 0:21 · Tele-Loisirs.fr · 758 vistas · https://www.dailymotion.com/video/x86uca2
-- The Steven Universe Movie · 1:30 · Teaser Trailer · 616 vistas · https://www.dailymotion.com/video/x7nx9bi
 - - Steven Universe - Pilot - · 1:56 · New All New · 483 vistas · https://www.dailymotion.com/video/x4nwoao
 - Steven Universe · 0:33 · TV-programme.com · 313 vistas · https://www.dailymotion.com/video/x9gfdj0
 - Steven Universe · 0:33 · Télé 7 Jours · 293 vistas · https://www.dailymotion.com/video/x9gf7ia
+- Steven Universe · 0:21 · TV-programme.com · 239 vistas · https://www.dailymotion.com/video/x9g1zeu
 **«Steven Universe trailer»**
-- Steven Universe | show | 2013 | Official Trailer · 0:41 · JustWatch · 4740 vistas · https://www.dailymotion.com/video/x8hroiu
-- Steven Universe: La película Tráiler VO · 1:51 · Sensacine · 4214 vistas · https://www.dailymotion.com/video/x88pl5q
+- Steven Universe | show | 2013 | Official Trailer · 0:41 · JustWatch · 4743 vistas · https://www.dailymotion.com/video/x8hroiu
+- Steven Universe: La película Tráiler VO · 1:51 · Sensacine · 4215 vistas · https://www.dailymotion.com/video/x88pl5q
 - Steven Universe Future Saison 1 - Trailer (EN) · 0:51 · BetaSeries · 2374 vistas · https://www.dailymotion.com/video/x86qv4j
 - steven universe · 1:12 · Florentcastano · 1986 vistas · https://www.dailymotion.com/video/x9ly9su
 - Steven Universe · 0:21 · Tele-Loisirs.fr · 758 vistas · https://www.dailymotion.com/video/x86uca2
@@ -33,10 +33,10 @@ _Fuente: https://api.dailymotion.com_
 **«Steven Universe escena»**
 - steven universe · 1:12 · Florentcastano · 1986 vistas · https://www.dailymotion.com/video/x9ly9su
 - Steven Universe · 0:21 · Tele-Loisirs.fr · 758 vistas · https://www.dailymotion.com/video/x86uca2
-- The Steven Universe Movie · 1:30 · Teaser Trailer · 616 vistas · https://www.dailymotion.com/video/x7nx9bi
 - - Steven Universe - Pilot - · 1:56 · New All New · 483 vistas · https://www.dailymotion.com/video/x4nwoao
 - Steven Universe · 0:33 · TV-programme.com · 313 vistas · https://www.dailymotion.com/video/x9gfdj0
 - Steven Universe · 0:33 · Télé 7 Jours · 293 vistas · https://www.dailymotion.com/video/x9gf7ia
+- Steven Universe · 0:21 · TV-programme.com · 239 vistas · https://www.dailymotion.com/video/x9g1zeu
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
@@ -67,16 +67,16 @@ _Fuente: https://musicbrainz.org_
 
 - Steven Universe (karaoke) · Steven Universe · 2019-04-12 · https://musicbrainz.org/release-group/486f567b-ddac-4093-80ae-9ed5e4a5d9da
 - Steven Universe: The Movie · Steven Universe · 2019-09-02 · https://musicbrainz.org/release-group/e841255a-fcf9-446b-b75a-b3edbfdf22c7
-- Steven Universe Soundtrack: Volume 2 · Steven Universe · 2019-04-12 · https://musicbrainz.org/release-group/0fdf4d2c-5a0c-4c27-8cee-0f06206ce18d
 - Steven Universe Soundtrack: Volume 1 · Steven Universe · 2017-06-02 · https://musicbrainz.org/release-group/9ced52a8-db50-4e7e-b2de-17a87c936626
+- Steven Universe Soundtrack: Volume 2 · Steven Universe · 2019-04-12 · https://musicbrainz.org/release-group/0fdf4d2c-5a0c-4c27-8cee-0f06206ce18d
 - Steven Universe Future (original soundtrack) · Steven Universe · 2020-10-23 · https://musicbrainz.org/release-group/61a47204-c297-4fa9-9d45-c65a59f75910
 - Universe · PDJ · 2019-05-29 · https://musicbrainz.org/release-group/20f824e6-1588-4698-a070-13d50b6c0e29
 - Universe · Doodle God · 2015-08-18 · https://musicbrainz.org/release-group/3fce36ad-a217-41dd-8ceb-434a1214a34a
 - Steven Universe: Volume 1 & 2 · aivi & surasshu, Nick DeMayo, Hellen Jo, Ben Levin, Jeff Liu, Rebecca Sugar, Stemage, Roger Hicks · 2026 · https://musicbrainz.org/release-group/a6efc643-64b2-433e-b9ca-f28a7e481cb1
 - Steven Universe: The Movie (Spanish version) · Steven Universe · 2019-10-25 · https://musicbrainz.org/release-group/065a1034-b94b-4630-8613-6724ade62833
 - Stargate Universe · Joel Goldsmith · 2010 · https://musicbrainz.org/release-group/a9147a3c-39df-4267-b212-aaa39d61ac95
-- Disco Universe · Seph Martin · 2022-11-04 · https://musicbrainz.org/release-group/773ab148-3b2e-4b1e-a5d9-dc78ded808c2
 - Dark Universe · Danny Elfman · 2025-08-22 · https://musicbrainz.org/release-group/8a9af722-c2e4-4d9c-b150-1dca77a36e56
+- Disco Universe · Seph Martin · 2022-11-04 · https://musicbrainz.org/release-group/773ab148-3b2e-4b1e-a5d9-dc78ded808c2
 - Infinite Universe · Epic Mountain · 2024-02-27 · https://musicbrainz.org/release-group/0b46c5fe-9b12-49d1-813b-b27c593ba0f2
+- Steven Universe: Season 1 (original television score) · Steven Universe, aivi & surasshu · 2020-05-29 · https://musicbrainz.org/release-group/e0e63ef4-81df-4c2a-ae78-73a127320b1f
 - Steven Universe: Season 2 (original television score) · Steven Universe, aivi & surasshu · 2020-06-26 · https://musicbrainz.org/release-group/bf6ea634-a1d1-405d-a00b-a43cb6388e1c
-- Steven Universe: Season 3 (original television score) · Steven Universe, aivi & surasshu · 2020-07-31 · https://musicbrainz.org/release-group/9b1e4cc1-759a-464c-ba9e-fd9f45ca9928
