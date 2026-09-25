@@ -1432,24 +1432,47 @@ en imagen.
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario (hex medidos en la segunda pasada)
 
-Colores aproximados, sacados de las guías de §5.3 o propuestos por mí.
+**Segunda pasada**: los colores se **midieron con Pillow y `estilo.py`**
+sobre los **diseños de personaje del arco de Reze** (arte plano de MAPPA,
+en la wiki) y sobre fotogramas de la película. Ya no salen de guías de
+fans. Los diseños:
+[Denji](https://static.wikia.nocookie.net/chainsaw-man/images/0/0a/Denji_Chainsaw_Man_Reze_Arc_anime_design.png) 694×953 ·
+[Makima](https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Makima_Reze_Arc_anime_design.png) 514×857 ·
+[Power](https://static.wikia.nocookie.net/chainsaw-man/images/c/c3/Power_Reze_Arc_anime_design.png) 529×881 ·
+[Aki](https://static.wikia.nocookie.net/chainsaw-man/images/c/cb/Aki_Reze_Arc_anime_design.png) 583×972 ·
+[Reze](https://static.wikia.nocookie.net/chainsaw-man/images/8/8a/Reze_Reze_Arc_anime_design.png) 517×862.
 
-| Personaje | Ropa icónica | Colores | Accesorios, peinado |
+| Personaje | Ropa icónica | Colores medidos | Accesorios, peinado |
 |---|---|---|---|
-| Makima | Camisa blanca, corbata negra, pantalón negro, chaqueta o gabardina negra ✅ | `#F2F0EA` / `#1E1E1E` | Trenza rosa salmón `#D3978F`, ojos con anillos `#E6C873` ✅ |
-| Denji | Traje de la Seguridad Pública: camisa blanca, corbata negra floja, pantalón negro ⚠️ | `#F2F0EA` / `#1E1E1E` | Pelo rubio `#E8B64C` (propuesto), cordón de arranque en el pecho ⚠️ |
-| Power | Ropa de casa holgada ⚠️; también el traje de la Seguridad Pública ⚠️ | `#536B7B` (gris azul) | Pelo rubio rosado `#E7D4BE`, cuernos rojos `#C3544B` ✅ |
-| Aki | Traje negro, camisa blanca ⚠️ | `#1E1E1E` | Moño alto negro, katana ⚠️ |
-| Reze | Camiseta holgada con campana y mochila; en la escuela, camisa blanca y pantalón corto ✅ | `#EDEDED` (propuesto) | Pelo morado por los hombros `#6B4A8A` (propuesto), ojos verdes `#3FA66B` (propuesto), **gargantilla negra** ✅ |
+| Makima | Camisa, corbata negra, pantalón oscuro, chaqueta o gabardina ✅ | camisa `#F0EFE6`, pantalón `#2F393A`, zapato marrón `#422313` ✅ | Trenza. Pelo: diseño plano `#CF4F48`; **en la película se ve granate `#4C201F`** (fotograma de día, 6:52); en la serie de TV, rosa salmón `#D3978F` (guía de fans). Ojos con anillos ámbar `#E6C873` ⚠️ (guía de fans) |
+| Denji | Traje de la Seguridad Pública: camisa, corbata negra floja, pantalón oscuro ✅ | camisa `#EDEDE3`; hoja de la sierra `#A8B2B8` ✅ | Pelo rubio dorado `#E1B760`, piel `#F2C89E` (fotograma 7:04) ✅; cordón de arranque en el pecho ✅ |
+| Power | Traje de la Seguridad Pública; ropa de casa holgada ⚠️ | camisa `#F0EFE7`, pantalón `#30393B` ✅ | Pelo (diseño) `#E09975`; cuernos rojos `#C3544B` ⚠️ (guía de fans); **pupilas en aspa roja y amarilla** ✅ |
+| Aki | Traje oscuro, camisa, corbata ✅ | traje `#30393B` ✅ | Pelo `#27323F` (azul casi negro), **moño alto**, katana, piercings ✅ |
+| Reze | Blusa y shorts; la primera vez, camiseta holgada con campana y mochila ✅ | blusa `#EDE9F1`, shorts `#323037` ✅ | Pelo `#3F395E` (morado azulado oscuro), ojos verdes `#3FA66B` (propuesto ⚠️), **gargantilla negra** ✅ |
 
-**Lo «icónico» que todos reconocen**: la **camisa blanca con corbata
-negra** de la Seguridad Pública (Makima, Denji, Aki), la **trenza** de
-Makima, los **cuernos** de Power y la **gargantilla** de Reze.
+**Hallazgo medido** ✅: la camisa «blanca» del uniforme **no es blanco
+puro**: sale `#EDEDE3` / `#F0EFE6` / `#F0EFE7` en tres personajes (crema
+muy pálido). El pantalón y el traje **no son negros**: `#2F393A` /
+`#30393B`, un **gris pizarra azulado**. Antes la biblia daba `#F2F0EA` /
+`#1E1E1E` (propuestos). Los tejidos del uniforme son **lisos**: sin
+cuadros, rayas ni lunares ✅ (visto en los 5 diseños).
 
-**En la cita del cine** no sé qué ropa llevan ⚠️: hay que mirarlo en la
-película o en el capítulo 39.
+**Lo «icónico» que todos reconocen**: la **camisa con corbata negra** de
+la Seguridad Pública (Makima, Denji, Aki), la **trenza** de Makima, los
+**cuernos** de Power y la **gargantilla** de Reze. La tabla de peinados y
+accesorios se comprobó mirando los 5 diseños y los fotogramas de la hoja 3
+✅.
+
+**En la cita del cine** (segunda pasada, manga cap. 39,
+[viñeta](https://static.wikia.nocookie.net/chainsaw-man/images/7/7c/Makima_during_her_date_with_Denji.png)):
+**Makima no lleva uniforme**. Lleva **cárdigan claro de botones** sobre un
+vestido, **falda o vestido oscuro por la rodilla**, **medias oscuras**,
+**zapatos planos oscuros** y un **bolso de mano pequeño** ✅ (visto; es
+blanco y negro, sin hex). **Denji**: en las viñetas de cuerpo entero no
+lleva el uniforme completo con corbata ⚠️ (una fuente); su ropa exacta no
+se ve (casi todo son primeros planos).
 
 ---
 
@@ -1464,8 +1487,31 @@ película o en el capítulo 39.
   - Café Futamichi: **tarde**, cigarras ✅.
   - Escuela y piscina: **noche** ✅.
   - Festival: **noche**, fuegos artificiales ✅.
-- **Fondos de pantalla** (sitios de fans que recopilan; autor y tamaño
-  en cada página, no los pude abrir ⚠️):
+- **Área de descanso de carretera** (ep. 2, 5:30): **atardecer**, cielo
+  malva, montañas moradas ✅ (visto).
+- **Fondos de pantalla de fans en Wallhaven** (tamaño real de su API,
+  segunda pasada) ✅:
+  - [Makima, 3840×2160](https://w.wallhaven.cc/full/gp/wallhaven-gpjyvl.png),
+    el más guardado (♥866), subido por 性感阿离, origen
+    [Pixiv 91666528](https://www.pixiv.net/en/artworks/91666528).
+  - [Makima con calavera, 3557×1949](https://w.wallhaven.cc/full/9d/wallhaven-9dm55k.jpg),
+    ♥644, origen [@shogo_matsuo](https://twitter.com/shogo_matsuo/status/1600151754838245377/photo/1).
+  - [Denji, Power y Aki con gatos y una PlayStation, 2762×1758](https://w.wallhaven.cc/full/o5/wallhaven-o5dj1p.jpg),
+    ♥502, subido por mediocreman (origen sin dato). **Escena de casa: sirve
+    para una lámina 2.**
+  - [Reze con flores, 2526×3568](https://w.wallhaven.cc/full/5g/wallhaven-5gwm39.jpg),
+    ♥437, arte de Jenmin12, origen [Pixiv 102441991](https://www.pixiv.net/artworks/102441991).
+  - [Paisaje, 5000×2167](https://w.wallhaven.cc/full/kx/wallhaven-kxz1p1.jpg)
+    (jrmnt) y [4096×2691](https://w.wallhaven.cc/full/3l/wallhaven-3l6xw6.jpg)
+    (drobbe, origen [Pixiv 104580093](https://www.pixiv.net/en/artworks/104580093)):
+    los de más resolución.
+- **Alpha Coders** (segunda pasada: la página ya abre) ✅: varios en
+  **3840×2160**, uno en **5120×2880** y otro en **3600×2400** (tamaños en
+  el HTML de la página); autor confirmado en dos: **Jesus Avila**. El
+  enlace directo de cada imagen no carga sin JavaScript ⚠️: abrirlo en el
+  PC.
+- **Otros sitios de fans** (primera pasada; autor y tamaño en cada página
+  ⚠️):
   [Alpha Coders 4K](https://alphacoders.com/chainsaw-man-4k-wallpapers),
   [Alpha Coders](https://alphacoders.com/chainsaw-man-wallpapers),
   [4K Wallpapers](https://4kwallpapers.com/chainsaw-man),
@@ -1478,35 +1524,153 @@ película o en el capítulo 39.
 ## 18 · Guía para generar con IA (Firefly, Canva)
 
 > Sólo si el dueño la quiere usar. Esta investigación **no generó ninguna
-> imagen**.
+> imagen**. Todo lo de abajo sale de las secciones de la biblia (con su
+> fuente allí). Segunda pasada: rehecha con los colores medidos, las
+> etiquetas de Danbooru y las frases reales.
 
-**Rasgos que nunca cambian**
-- Makima: trenza rosa salmón, ojos amarillos con **anillos concéntricos**,
-  camisa blanca y corbata negra, sonrisa leve, calma.
-- Denji: pelo rubio desordenado, dientes afilados, corbata floja.
-- Power: pelo largo rubio rosado, **dos cuernos rojos**, colmillos.
-- Reze: pelo morado corto por los hombros, ojos verdes, **gargantilla
-  negra**.
+### 18.1 Para una IA de imagen
 
-**Estilo**
-- Línea fina y algo irregular, como de manga de Fujimoto; **sombreado
-  plano** con pocas capas; nada de brillos «kawaii».
-- Luz **realista, de cámara**; colores **apagados pero no lavados**.
-- Encuadre de **cine**: formato ancho, franjas negras, cámara a la altura
-  de los ojos, a veces desde atrás de las butacas.
+**Rasgos que nunca cambian** (entre comillas, las etiquetas de Danbooru
+que más se repiten al dibujar a cada uno; son el vocabulario que entienden
+las IA de imagen, de `datos-imagen.md`):
+- **Makima**: trenza única, mechones a los lados, ojos ámbar con **anillos
+  concéntricos**, camisa crema metida en el pantalón, corbata negra,
+  sonrisa leve, quieta. Pelo **granate** si copia la película, rosa salmón
+  si copia la serie. «red_hair, braided_ponytail, single_braid, sidelocks,
+  ringed_eyes, yellow_eyes, white_shirt, collared_shirt, black_necktie,
+  black_pants, shirt_tucked_in, formal_clothes, closed_mouth, smile».
+- **Denji**: pelo rubio corto y despeinado, **dientes afilados**, corbata
+  floja, mangas remangadas, cordón en el pecho. «blonde_hair,
+  short_hair, sharp_teeth, white_shirt, black_necktie,
+  sleeves_rolled_up, open_mouth, tongue_out».
+- **Power**: pelo largo rubio rosado con mechón entre los ojos, **dos
+  cuernos rojos**, colmillos, **pupilas en aspa**. «long_hair,
+  red_horns, demon_horns, cross-shaped_pupils, symbol-shaped_pupils,
+  sharp_teeth, hair_between_eyes, open_mouth».
+- **Reze**: pelo morado oscuro por los hombros, ojos verdes, **gargantilla
+  negra**, blusa sin mangas con lazo al cuello. «purple_hair,
+  green_eyes, black_choker, sleeveless_shirt, neck_ribbon». **No usar**
+  «grenade_pin»: es spoiler.
 
-**Palabras que ayudan**: «1990s Tokyo», «dim movie theater», «projector
-light beam», «film grain», «muted colors», «cinematic still», «seen
-from behind the seats», «seinen manga style», «flat cel shading».
+**Paleta** (medida, §5.3 y §16):
+- Uniforme: camisa `#EDEDE3`-`#F0EFE7` (crema, no blanco), traje
+  `#2F393A`-`#30393B` (gris pizarra, no negro).
+- Pelo de Makima en la película `#4C201F`; Denji `#E1B760`; Aki `#27323F`;
+  Reze `#3F395E`.
+- Sala de シネマ座: negro `#020202`, penumbra oliva `#323124`, butacas
+  `#544A36`/`#7C6D4A` (mostaza/ámbar), piel iluminada `#C2B4A2`.
+- Película de dentro (verde azulado): `#415855`, `#7A8E87`.
+
+**Línea y sombreado** (§18A):
+- **Estilo anime** (lo más útil para el canal): línea fina, sombreado
+  plano de 2-3 tonos, colores **apagados y naturalistas**, luz de cámara,
+  **grano de película** fino, **brillo suave alrededor de las luces**,
+  desenfoque de fondo. Un tinte de color complementario por plano
+  (naranja sobre azul) que baja contraste y saturación.
+- **Estilo manga**: línea **gruesa, suelta, «sucia»**, negros sólidos a
+  pincel, **rayado cruzado** en vez de tramas; poca trama de puntos.
+
+**Luz**: en la sala, **todo oscuro menos las caras**; el haz del
+proyector, **blanco cálido con un halo verde-violeta**; la pantalla ilumina
+de frente. Fuera, tarde de verano o noche de ciudad.
+
+**Encuadre**:
+- Formato ancho, **franjas negras de cine**, cámara a la altura de los
+  ojos o **baja, como sentado** (el «plano tatami» de Ozu que usa la serie).
+- **Desde atrás de las butacas**: el público de espaldas y simple, los
+  protagonistas con detalle (así está dibujada la viñeta del cap. 39).
+- Para emoción: **primer plano de perfil** (Makima llorando, 10:36).
+
+**Palabras que ayudan**: «1997 Tokyo», «small old movie theater», «rows of
+worn mustard velvet seats», «warm projector beam with subtle chromatic
+halo», «faces lit by the screen», «seen from behind the seats»,
+«cinematic still, letterbox», «35mm film grain», «muted naturalistic
+colors», «complementary color grading», «soft glow around lights»,
+«shallow depth of field», «flat cel shading», «seinen anime», «background
+audience drawn simply».
 
 **Palabras que lo estropean**: «cute», «chibi», «pastel», «sparkles»,
-«glossy», «3D render», «neon», «gore» (en este canal), «chainsaw».
+«glossy», «3D render», «neon», «red velvet seats» (son mostaza), «pink
+hair» para la Makima de la película, «gore» y «chainsaw» (en este canal),
+«grenade» (spoiler de Reze), «anime eyes sparkling».
 
-**Imágenes de referencia** (de las que encontré): para estilo, los
-visuales oficiales de la película (§3.1, [X oficial](https://x.com/CHAINSAWMAN_PR/status/1974338691591274782));
-para la sala, los modelos de butacas de §4.2; para pose, las de §15
-(Makima n.º 6 y 7, Denji n.º 5 y 8). **No usar** fan art ni wallpapers
-de fans como referencia de estilo.
+**Qué imágenes usar de referencia** (de las encontradas):
+- **Estilo y tono de cine**: hoja 3, n.º 428 (Denji con gafas 3D y
+  Pochita en una tira de película,
+  [original](https://static.wikia.nocookie.net/chainsaw-man/images/a/a0/Reze_Arc_Countdown_Illustration_%28Masato_Nakazono%29.png)).
+- **Sala y composición**: la viñeta del cap. 39
+  ([movie date](https://static.wikia.nocookie.net/chainsaw-man/images/9/9f/Denji_and_Makima%27s_movie_date.png))
+  y el fotograma de 7:44 de la película (sala de espaldas).
+- **Color de anime**: los diseños del arco de Reze (§16) y la hoja 3,
+  n.º 393-408 (Makima) y 385-392 (Power).
+- **Pose**: §15, Makima n.º 6, 7, 11 y 12; Denji n.º 3 y 8.
+- **No usar** fan art ni wallpapers de fans como referencia de estilo.
+- Si la IA no acepta el nombre del personaje, **describir los rasgos** de
+  arriba sin el nombre.
+
+**Vocabulario de expresiones** (para que la IA entienda cada gesto):
+- La serie **casi no usa** gotas de sudor, venas de enfado ni fondos de
+  emoción: la emoción va **en la cara, con luz realista**. Es de lo que
+  más la distingue de otros shōnen.
+- Las marcas propias están en los ojos y la boca: **anillos** en los ojos
+  de Makima, **aspas** en los de Power, **dientes de sierra** en Denji y
+  Power, lengua fuera en Denji.
+- **Llanto**: Makima, una sola lágrima y boca entreabierta, en silencio;
+  Denji, mano tapando la boca, ceño fruncido.
+- **Alegría**: Denji, ojos cerrados y puños al pecho; Power, boca abierta
+  enorme y colmillos.
+- El único «chibi» oficial son ilustraciones de humor sueltas, como la de
+  Aya Yamamoto con Power y «パワー!!» en trazo suelto (hoja 2, n.º 51). No
+  es el tono de la serie.
+
+### 18.2 Para una IA de texto (sus diálogos, en su voz)
+
+**Reglas generales**
+- Frases **cortas y secas**. Mucho subtítulo de cine, poco globo.
+- El humor sale del **contraste**: algo tierno dicho con cara seria, o
+  algo brutal dicho como si nada.
+- **Makima** nunca grita ni usa signos dobles. **Denji** y **Power** sí:
+  «¡¿…?!», «¡Bieeen!», alargando vocales.
+- Groserías: el doblaje latino tiene muchas (§10), pero **no van en la
+  lámina**.
+- Onomatopeyas: en el manga, **katakana dibujadas a mano, grandes**, en las
+  peleas (hoja 1, n.º 28-43). En un canal tranquilo, sólo «**Guau**» y el
+  **ruido del proyector**.
+- Makima llama a los demás «**Denji-kun**», «**Power-chan**».
+- Power habla de sí misma como una **anciana** («ワシ», «〜じゃ»); cómo lo
+  adaptó el latino **no lo encontré** ⚠️.
+
+**Frases reales por emoción** (traducción del japonés de la película o de
+los subtítulos de Netflix, salvo las marcadas «latino»):
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| Alegre | Denji | «¡Bieeen!» | película, 6:44 |
+| Alegre | Power | «¡Pa-pa-pa-Power! ¡Ya volví!» | película, 1:38:20 |
+| Alegre | Reze | «¡Correcto! ¡Genio!» | película, 27:58 |
+| Alegre | Power | «¡Tuve una idea genial! ¡El Nobel es mío!» | ep. 7, 7:43 |
+| Enfadado o regañando | Power | «¡Inclínate ante mí, humano! ¡Mi nombre es Power!» | ep. 2, 19:16 |
+| Enfadado o regañando | Makima | «No me gustó que quisiera hacernos llorar a la fuerza.» | película, 8:08-8:32 |
+| Enfadado o regañando | Reze | «¿¡No sabes leer kanji!?» | película, 24:15 |
+| Enfadado o regañando | Denji | «Sabe a alcantarilla.» | película, 17:40 |
+| Explicando | Makima | «Hoy, desde ahora hasta las 12 de la noche, vamos de sala en sala y vemos películas sin parar.» | película, 7:16 |
+| Explicando | Makima | «Yo también encuentro una buena de cada diez. Pero esa una me ha cambiado la vida.» | película, 9:09 |
+| Explicando | Makima | «Qué lata tanto papeleo, ¿verdad?» (latino) | ep. 4 |
+| Explicando | Kobeni | «Porque aún no han depositado el aguinaldo.» (latino) | ep. 12 |
+| Animando | Makima | «¿Mañana, en tu día libre, tenemos una cita?» | película, 6:25 |
+| Animando | Reze | «¡Paró de llover! Ven al café.» | película, 15:42 |
+| Animando | Reze | «Te enseño.» | película, 32:34 |
+| Animando | Himeno | «Podemos ir al cine de vez en cuando después del trabajo.» | ep. 7, 6:22 |
+| Triste | Denji | «¡Es una escena que no importa nada…! ¡Que no me vea Makima-san!» | película, 10:05 |
+| Triste | Denji | «¿Usted cree que yo tengo corazón?» | película, 10:44 |
+| Triste | Makima | (no dice nada: llora en silencio, es la dirección) | película, 10:14-10:32 |
+| Opinando | Makima | «No tuvo gracia.» / «La música estaba bien.» / «Normalita de verdad.» | película, 7:56-8:48 |
+| Opinando | Denji | «La verdad, hasta ahora todas me parecieron meh.» | película, 9:02 |
+
+**Ejemplo de texto del canal en su voz** (propuesta, no cita): Makima,
+«Cuéntanos qué estás viendo.» / «¿Lo recomiendas?» / «Si tiene spoilers,
+márcalos.» Denji, de réplica: «¡¿Y si es de las malas?!». Makima:
+«También cuenta. Una de cada diez vale la entrada.»
 
 ---
 
