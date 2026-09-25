@@ -355,6 +355,40 @@ que termina en traición). ✅ (de las biografías del punto 13, cruzado con Red
 
 ### Punto 20 — Gustos y detalles de cada personaje
 
+**No hay «databook» oficial con altura/cumpleaños/edad exacta** de los personajes (busqué «Days Gone Deacon
+altura cumpleaños ficha personaje», «Art of Days Gone character sheet height birthday», en español e inglés):
+no es una franquicia anime con esas fichas; ni el artbook *The Art of Days Gone* (Dark Horse) ni la wiki traen
+esos datos. Lo que sí hay, de la propia wiki del juego y de sus coleccionables in-game (cartas «Horde Killer»,
+postales, listas), es esto:
+
+- **Deacon**: objeto que siempre lleva = su chaqueta «kutte» de cuero negro con los colores de los Mongrels MC
+  (punto 13); tatuajes que cuentan su historia (10.ª Div. de Montaña, «RIDE», «HARD», el nombre de Sarah en el
+  cuello). Cómo se ve a sí mismo: un exmotero sin ataduras que en el fondo necesita pertenecer a algo (ver
+  Personality, punto 13). Come lo que caza/rebusca —no hay un plato favorito documentado—. ⚠️ wiki del juego.
+- **Boozer**: bebedor, de ahí su propio apodo («Boozer» = «borrachín»); su nombre real, William, casi nunca se
+  usa (sólo Addy lo llama así). Le apasiona la vida «al límite» del club de moteros. ⚠️ wiki del juego.
+- **Sarah**: esquiadora habitual con abono de temporada en Mt. Scott Ski Resort; bióloga/investigadora de
+  formación, curiosa por naturaleza (aprendió a montar en moto por Deacon). Su anillo de boda (el «Mongrel
+  ring») es su objeto más asociado en el fandom — hay un hilo de Reddit preguntando dónde comprar una réplica
+  en Etsy. ✅ (wiki + hilo de Reddit sobre el anillo). _reddit.com/r/DaysGone/comments/nbjjt9/_
+- **Iron Mike**: arma que siempre lleva, el revólver «The Sheriff»; antes muy religioso (cristiano devoto),
+  ahora aplica su fe en el trabajo diario del campamento en vez de en el rezo formal porque arrodillarse ya le
+  cuesta físicamente. Se ve a sí mismo como protector práctico, no como predicador. ⚠️ wiki del juego.
+- **Rikki**: tatuajes de inspiración hindú en brazos y hombros; le encanta la ingeniería (mecánica y civil);
+  viste excedente militar salvo sus botas vaqueras, su toque personal. ⚠️ wiki del juego.
+- **Copeland**: aficionado a las armas y la caza desde antes del brote (se lo inculcó su padre); su afición
+  favorita ahora es su propia emisora de radio pirata, «Radio Free Oregon», donde comparte teorías y opiniones
+  sobre el mundo tras el brote. Se ve a sí mismo como el último defensor de la libertad individual frente a
+  NERO y los merodeadores. ✅ (wiki del juego + reacciones de Reddit al personaje/radio, punto 12).
+- **Skizzo**: arma que siempre lleva, el «Eliminator»; también tiene un «SSR» que casi no usa. Se ve a sí
+  mismo como un superviviente astuto y «peligroso» (se inventó un pasado de expresidiario), pero una postal de
+  su universidad demuestra que en realidad fue «chico de fraternidad»: el gusto/manía central de Skizzo es
+  mentir sobre quién fue antes del apocalipsis. ⚠️ wiki del juego.
+- **O'Brian**: no hay datos de gustos personales en la wiki más allá de que era estudiante de posgrado antes
+  del brote; su «manía»/rasgo definitorio es que intenta hacer lo correcto dentro de un sistema (NERO) que se
+  lo va arrebatando. ⚠️ wiki del juego (poca info previa al apocalipsis, es intencional: no se explica su
+  vida anterior).
+
 ### Punto 12 — Lo que el fandom ama; qué NO hacer
 
 ### Punto 21 — Por qué la gente la ama; escenas que emocionan
