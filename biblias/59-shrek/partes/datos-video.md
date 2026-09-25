@@ -1,30 +1,30 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Shrek
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Burro» · fandom: no encontré la página de «el Gato con Botas» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · animethemes: HTTP Error 522: <none>
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
 **«Shrek opening»**
 - Shrek & Shrek 2 · 0:30 · Tele-Loisirs.fr · 30287 vistas · https://www.dailymotion.com/video/x86rksj
+- Shrek · 2:22 · theoxe · 1838 vistas · https://www.dailymotion.com/video/x3zgrw
 - Opening to Shrek 2001 VHS · 7:18 · EricTV918 · 963 vistas · https://www.dailymotion.com/video/xvhido
-- Shrek · 2:06 · MonProgrammeTV · 953 vistas · https://www.dailymotion.com/video/x3lvf4d
 - Opening To Shrek The Third 2007 DVD · 7:53 · Alexanderbranwhite58 · 834 vistas · https://www.dailymotion.com/video/x3w6djn
+- Shrek the Third (Shrek 3) · 2:03 · Teaser Trailer · 826 vistas · https://www.dailymotion.com/video/x4hgwvw
 - Opening to Shrek the Third 2007 DVD · 8:07 · Brandon Bott · 739 vistas · https://www.dailymotion.com/video/xxkup9
-- Opening to Shrek Forever After: The Final Chapter 2010 DVD · 6:21 · Brandon Bott · 520 vistas · https://www.dailymotion.com/video/xxkvf1
 **«Shrek ending»**
 - Shrek & Shrek 2 · 0:30 · Tele-Loisirs.fr · 30287 vistas · https://www.dailymotion.com/video/x86rksj
 - Shrek · 2:22 · theoxe · 1838 vistas · https://www.dailymotion.com/video/x3zgrw
 - Shrek · 2:06 · MonProgrammeTV · 953 vistas · https://www.dailymotion.com/video/x3lvf4d
 - Shrek · 0:35 · Télé 7 Jours · 918 vistas · https://www.dailymotion.com/video/x9fke7k
-- shrek... · 0:31 · jak  salim · 651 vistas · https://www.dailymotion.com/video/xh9hl
 - Shrek · 0:22 · Télé 7 Jours · 353 vistas · https://www.dailymotion.com/video/x8y2rg4
+- Shrek · 0:22 · TV-programme.com · 306 vistas · https://www.dailymotion.com/video/x9gz466
 **«Shrek trailer»**
-- Shrek Trailer Original · 2:10 · adorocinema · 141368 vistas · https://www.dailymotion.com/video/x88odx5
+- Shrek Trailer Original · 2:10 · adorocinema · 141373 vistas · https://www.dailymotion.com/video/x88odx5
 - Shrek Tráiler · 1:55 · Sensacine · 79565 vistas · https://www.dailymotion.com/video/x88nk3f
 - 'Shrek 2' Tráiler · 1:18 · Espinof · 17602 vistas · https://www.dailymotion.com/video/x8jk10v
 - Shrek 2 Tráiler · 1:58 · Sensacine México · 9141 vistas · https://www.dailymotion.com/video/x8880bt
@@ -32,11 +32,11 @@ _Fuente: https://api.dailymotion.com_
 - Shrek Tercero Tráiler · 2:21 · Sensacine · 5542 vistas · https://www.dailymotion.com/video/x88nh9y
 **«Shrek escena»**
 - Shrek & Shrek 2 · 0:30 · Tele-Loisirs.fr · 30287 vistas · https://www.dailymotion.com/video/x86rksj
-- 'Shrek': primera escena con la canción 'All Star' · 2:20 · Espinof · 13105 vistas · https://www.dailymotion.com/video/x8nqwud
+- 'Shrek': primera escena con la canción 'All Star' · 2:20 · Espinof · 13106 vistas · https://www.dailymotion.com/video/x8nqwud
 - Shrek · 2:22 · theoxe · 1838 vistas · https://www.dailymotion.com/video/x3zgrw
 - Shrek · 2:06 · MonProgrammeTV · 953 vistas · https://www.dailymotion.com/video/x3lvf4d
-- Shrek · 0:35 · Télé 7 Jours · 918 vistas · https://www.dailymotion.com/video/x9fke7k
-- Shrek · 0:22 · Télé 7 Jours · 353 vistas · https://www.dailymotion.com/video/x8y2rg4
+- Shrek the Third (Shrek 3) · 2:03 · Teaser Trailer · 826 vistas · https://www.dailymotion.com/video/x4hgwvw
+- Shrek · 0:40 · Unitel Bolivia · 665 vistas · https://www.dailymotion.com/video/x8s4f5y
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_

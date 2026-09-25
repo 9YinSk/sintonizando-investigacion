@@ -1,10 +1,10 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Shrek
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Burro» · fandom: no encontré la página de «el Gato con Botas» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · animethemes: HTTP Error 522: <none>
 
 ## Shrek: las imágenes más grandes de la wiki (128 en total)
 _Fuente: https://shrek.fandom.com/wiki/Shrek_
@@ -20,6 +20,25 @@ _Fuente: https://shrek.fandom.com/wiki/Shrek_
 - 2143×3293 · Shrekprofile.png · https://static.wikia.nocookie.net/shrek/images/9/95/Shrekprofile.png
 - 3141×1893 · Shrek Donkey watch Puss.jpg · https://static.wikia.nocookie.net/shrek/images/2/20/Shrek_Donkey_watch_Puss.jpg
 
+## Donkey: las imágenes más grandes de la wiki (70 en total)
+_Fuente: https://shrek.fandom.com/wiki/Donkey_
+
+- 3840×2080 · Fiona peeking at Shrek and Donkey's conversation.jpg · https://static.wikia.nocookie.net/shrek/images/7/73/Fiona_peeking_at_Shrek_and_Donkey%27s_conversation.jpg
+- 3141×1893 · Shrek Donkey watch Puss.jpg · https://static.wikia.nocookie.net/shrek/images/2/20/Shrek_Donkey_watch_Puss.jpg
+- 3600×1530 · Shrek-donkey-shrek-forever-after-2010-CC1NA8.jpg · https://static.wikia.nocookie.net/shrek/images/a/a3/Shrek-donkey-shrek-forever-after-2010-CC1NA8.jpg
+- 3000×1808 · Shrek welcome duloc donkey.jpg · https://static.wikia.nocookie.net/shrek/images/5/5f/Shrek_welcome_duloc_donkey.jpg
+- 3000×1808 · Shrek tournament pint.jpg · https://static.wikia.nocookie.net/shrek/images/0/01/Shrek_tournament_pint.jpg
+- 3000×1808 · Shrek donkey onions.jpg · https://static.wikia.nocookie.net/shrek/images/4/4f/Shrek_donkey_onions.jpg
+- 3000×1808 · Flying donkey.jpg · https://static.wikia.nocookie.net/shrek/images/0/01/Flying_donkey.jpg
+- 3000×1808 · Donkey chair swamp waffles.jpg · https://static.wikia.nocookie.net/shrek/images/4/4c/Donkey_chair_swamp_waffles.jpg
+- 2986×1800 · Shrek group windmill render.jpg · https://static.wikia.nocookie.net/shrek/images/a/a3/Shrek_group_windmill_render.jpg
+- 2986×1800 · Sherk Donkey.jpg · https://static.wikia.nocookie.net/shrek/images/3/3a/Sherk_Donkey.jpg
+
+## Donkey · Appearance (texto de la wiki)
+_Fuente: https://shrek.fandom.com/wiki/Donkey#Appearance_
+
+Donkey is a gray donkey with brown eyes and a black mane.
+
 ## Fiona: las imágenes más grandes de la wiki (156 en total)
 _Fuente: https://shrek.fandom.com/wiki/Fiona_
 
@@ -34,14 +53,24 @@ _Fuente: https://shrek.fandom.com/wiki/Fiona_
 - 3840×2080 · Fiona feels sorry for Shrek.jpg · https://static.wikia.nocookie.net/shrek/images/c/c7/Fiona_feels_sorry_for_Shrek.jpg
 - 3840×2077 · Fiona's high note.png · https://static.wikia.nocookie.net/shrek/images/3/3b/Fiona%27s_high_note.png
 
-## Hojas de contacto (investigar_serie.py)
-_Fuente: herramientas/referencias/_
+## Puss in Boots: las imágenes más grandes de la wiki (70 en total)
+_Fuente: https://shrek.fandom.com/wiki/Puss_in_Boots_
 
-```
-· imágenes de shrek.fandom.com (2 páginas y sus galerías)…
-  256 imágenes enlazadas, 248 grandes → 6 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/shrek
+- 3158×5000 · Puss in Boots The Last Wish June Poster.jpg · https://static.wikia.nocookie.net/shrek/images/d/d3/Puss_in_Boots_The_Last_Wish_June_Poster.jpg
+- 2587×4096 · Puss in Boots the Last Wish Teaser Poster.jpg · https://static.wikia.nocookie.net/shrek/images/a/ac/Puss_in_Boots_the_Last_Wish_Teaser_Poster.jpg
+- 2703×3464 · PussInBoots2022.webp · https://static.wikia.nocookie.net/shrek/images/c/c6/PussInBoots2022.webp
+- 3807×2295 · Puss 1223.jpg · https://static.wikia.nocookie.net/shrek/images/1/12/Puss_1223.jpg
+- 3840×2160 · ImagesCAF18L2Y.jpg · https://static.wikia.nocookie.net/shrek/images/f/fc/ImagesCAF18L2Y.jpg
+- 3656×2204 · Shrek holds Puss after attack.jpg · https://static.wikia.nocookie.net/shrek/images/9/90/Shrek_holds_Puss_after_attack.jpg
+- 3840×2076 · Shrek the third cindy sleeping beuaty doris snow white donkey puss.jpg · https://static.wikia.nocookie.net/shrek/images/4/46/Shrek_the_third_cindy_sleeping_beuaty_doris_snow_white_donkey_puss.jpg
+- 2048×3492 · Puss Donkey and Shrek.jpg · https://static.wikia.nocookie.net/shrek/images/e/ea/Puss_Donkey_and_Shrek.jpg
+- 3318×2000 · Puss-in-boots-shrek-2-2004-T0K9T5.jpg · https://static.wikia.nocookie.net/shrek/images/d/d9/Puss-in-boots-shrek-2-2004-T0K9T5.jpg
+- 1770×3211 · Obesepussinboots.png · https://static.wikia.nocookie.net/shrek/images/c/c4/Obesepussinboots.png
 
-```
+## Puss in Boots · Appearance (texto de la wiki)
+_Fuente: https://shrek.fandom.com/wiki/Puss_in_Boots#Appearance_
+
+Puss is a ginger tabby cat with green eyes and a Spanish accent. Most of his puffy coat of fur is stark orange, with more reddish-brown stripes running around his back, limbs, tail, and around his head. He has lighter yellow or creamy-white fur on his paws, his counter shaded belly, the sides of his snout, his chin, his eyebrows, as well as thin light stripes underlining his eyes. He also has a noticeable courser white guard fur throughout his coat. He eyes either have distinct green irises and white sclera, or his eyes are portrayed as being fully green except the pupils, as seen in The Last Wish. The pupils of his eyes may be narrow, or huge and round when he exaggerates his cuteness. His eyelids have a noticeable dark lining, and "cat eye" style points at the outer corners of each eye. Whilst this looks seems largely natural, it is implied in The Last Wish that he enhances it with…
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
