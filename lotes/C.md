@@ -19,12 +19,18 @@ recolectados) pendientes.
   (nueva hoja de fotogramas). Más querido: Karma (1.º encuesta oficial Jump
   y AniList); Nagisa el más dibujado. Cuadro de diálogo propio: la pizarra
   casi negra con tiza de tres colores + la cara de colores de Koro-sensei.
-- 27 Cyberpunk Edgerunners: repaso en marcha. imagen y texto terminados sin
-  pendientes obligatorios; voz relanzada (2.ª tanda, sólo la 2.ª fuente de
-  actores secundarios del doblaje); vídeo en marcha.
-- 25 My Hero Academia: redactor (Opus, repaso) en marcha.
-- 26, 28, 29, 30: en cola, se lanzan según se libera hueco (máx. 5
-  agentes vivos).
+- **25 My Hero Academia: COMPLETA y subida (repaso).** 2383 líneas, tabla
+  ✅27 ⚠️10 ❌0, 103 webs, 362 min, 82 hex, 240 referencias, 3 hojas. Más
+  querido: Bakugo (1.º en Jump desde la 2.ª encuesta); para este canal pesa
+  Aizawa. Cuadro de diálogo propio: el cuaderno de Deku («Análisis de
+  héroes para el futuro», No. 13), no una burbuja.
+- **27 Cyberpunk Edgerunners: los 4 investigadores terminaron sin pendientes
+  obligatorios** (imagen, vídeo, texto y voz, esta última con 2.ª fuente
+  para 9 actores secundarios del doblaje vía aniSearch/Anime-Planet).
+  Redactor (Opus, repaso) en marcha.
+- 28 JoJo's Bizarre Adventure: repaso, 4 investigadores (Sonnet) en marcha.
+- 26, 29, 30: en cola, se lanzan según se libera hueco (máx. 5 agentes
+  vivos).
 
 ## Avisos para el dueño (esta sesión)
 
@@ -40,6 +46,9 @@ recolectados) pendientes.
   (Cyberpunk 2077, el juego, sin canal aún) — si se hace, que use
   personajes del juego (V, Johnny, Judy, Panam), no de la serie, para no
   repetir la lámina de #a-que-juegas.
+- 25 My Hero Academia: contradicción sin decidir — 3DJuegos dice que Gina
+  Sánchez dirigió el doblaje de la película 4; en Doblaje Wiki sólo
+  aparece dirigiendo la serie.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
