@@ -485,3 +485,198 @@ Vocabulario de Danbooru útil (de la parte de datos): Sora `spiked_hair, red_eye
 **Vocabulario de la serie** para que suene a ella: Disboard, los Diez Pactos, ¡Aschente!, 『　』 (Blank), Imanity, Ixseed, Pieza de Raza, Elkia, el Dios Único (Tet), Flügel, Werebeast, «juego basura» (el mundo real).
 **Puntuación**: Sora con exclamaciones y guiones de pausa en los discursos; Shiro con «…»; Steph con «¡¿…?!»; Jibril con frases largas y corteses.
 
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Quién y cómo** (créditos de AniList: https://anilist.co/anime/19815/staff) ✅
+- Estudio **MADHOUSE**. Dirección **Atsuko Ishizuka**. Diseño de personajes **Kouji Ooya** sobre los dibujos de **Yuu Kamiya** (autor e ilustrador de la novela). Dirección de arte Eiji Iwase; diseño de arte Tsukasa Ohira; diseño de color **Harue Oono**; fotografía Kenji Fujita; CG Shuuhei Yabuta; trabajos 3D Mayu Takehana.
+- **La firma técnica**: Ishizuka rompió la norma de la línea negra y usó **contornos de color**, lo que «dio muchos dolores de cabeza al equipo»; quiso llevar al anime la belleza de las ilustraciones de Kamiya, con **colores vibrantes y un sombreado poco ortodoxo** ✅ (https://www.cbr.com/no-game-no-life-director-rule-break/ + https://screenrant.com/popular-isekai-anime-no-game-no-life-breaking-the-rules-factoid/).
+- Medido con `estilo.py` en los 4 renders: **sombreado plano (cel)** en los 4; saturación 24-59 %, brillo 39-62 % ✅.
+- Vistos en los fotogramas: resplandores y destellos (*bloom*), aberración de color en los bordes, pantallas con red de datos, grabado sepia para el pasado (ep. 1, 13:00), escena en gris para la tristeza (ep. 9, 5:00) ✅.
+- No encontré una entrevista de proceso de Kamiya (programas, pinceles).
+
+**Cómo replicarlo en Photoshop**
+1. Línea: dibujar en negro y luego bloquear transparencia y **pintar la línea por zonas** (granate en piel, violeta en pelo y ropa, azul oscuro en el pelo de Shiro).
+2. Color plano por capas; sombra en una capa en **Multiplicar** con violeta o magenta saturado (nunca gris). Brillo en **Trama** o **Sobreexponer color**.
+3. Resplandor: duplicar, desenfoque gaussiano, capa en **Trama** o **Aclarar** al 30-50 %.
+4. Aberración: desplazar 1-2 px el canal rojo en los bordes, sólo en planos de magia.
+5. Recortes de personaje siempre por `v3/integrar.py` (regla del dueño).
+
+**Cómo replicarlo en Blender**
+- *Shader*: **Toon BSDF** o *Shader to RGB* + **Color Ramp** de 2-3 bandas, con la banda de sombra violeta.
+- Contorno: **Line Art** o **Freestyle** con un *Line Set* por material para que cada zona tenga su color; o **Solidify** con normales invertidas y material de emisión del color de la zona.
+- Luz: una luz principal cálida (`#F0C68E`) y un contraluz lavanda o magenta; *Bloom* en EEVEE.
+- Objetos que se modelan fácil: Pieza de Raza (vidrio con emisión), tablero (textura *Checker* morado y blanco), libros, tablet, corona.
+- *Rigs* libres de los personajes: no encontré (ver §3).
+
+**Encuadres** (vistos): primer plano con media cara en sombra para el reto (ep. 8, 14:00); plano general desde arriba para Disboard (ep. 1, 10:00); personaje de espaldas ante la multitud para el discurso (clip, 3:00); dos personajes enfrentados en diagonal para el choque (ep. 6, 5:00); grupo en fila para celebrar (`fondos_01` nº 237) ✅.
+
+## 19 · Texturas 2D
+
+- **El tablero de ajedrez** morado y blanco: suelo del castillo (`fondos_01.jpg` nº 206), base de las figuras de Kotobukiya y Phat!, arte promocional ✅. Se hace con un patrón nativo (Photoshop) o la textura *Checker* (Blender); no hace falta licencia.
+- **Tramas de manga**: tramas de puntos y rayado fino (manga de Mashiro Hiiragi). Equivalente libre: **Manga Set de Okami Chiba** (paneles, tramas lisas y con textura, sellos; gratis): https://okamichiba.gumroad.com/l/okamimangabrushset ⚠️ (genérico).
+- **Papel viejo y volutas doradas** del grabado de la Gran Guerra (ep. 1, 13:00) ✅ visto: base de papel CC0 de ambientCG.
+- **Escritura Imanity** como adorno de carteles (Le Gall, §5).
+- **Mapa del Gran Mundo** con las razas, 1920×1080: https://static.wikia.nocookie.net/no-game-no-life/images/2/2b/1st_version_Great_war_map.PNG ✅.
+- **Patrones de ropa**: la camiseta «I ♥ 人類» (texto en kanji, corazón rojo) y el cuadriculado de la red de datos de las escenas de magia (ep. 6, 11:00).
+- **Emblemas**: el logo con ⏻ y ♚ (§5); el escudo de Imanity existe en la wiki (`Imanity 2.jpg`) ⚠️ sin medir.
+- Junto a §3 (3D) y §4 (texturas reales), no falta ninguna capa, salvo pinceles hechos para esta serie (no encontré).
+
+## 20 · Gustos y detalles
+
+| Personaje | Edad y cumpleaños | Cuerpo | Lo que ama y lo que odia | Objeto | Fuente |
+|---|---|---|---|---|---|
+| Sora | 18 (19 desde el vol. 12), 7 de julio | 175 cm, 63 kg | Ama los juegos y a Shiro; odia el mundo real («juego basura») | Corona en el brazo izquierdo | AniList + wiki ✅ |
+| Shiro | 11, 12 de diciembre | — | Ama los juegos de lógica y a Sora; miedo a las serpientes, no sabe nadar | Corona; tablet (figura de Good Smile) | AniList + wiki ✅ (miedos ⚠️) |
+| Stephanie | 18, 13 de septiembre | — | Ama su reino y a su abuelo; odia que lo llamen tonto; buena repostera | — | AniList + wiki ✅ |
+| Jibril | 6407 años | — | Ama los libros y el saber; odia las trampas | Libros, «mi biblioteca» | AniList + wiki ✅ |
+| Izuna | 8 | — | Antes sólo jugaba para ganar | — | AniList ✅ |
+| Chlammy | 18 | 158 cm | Complejo con su cuerpo | — | AniList ⚠️ |
+| Fiel | 52 | — | Protege a Chlammy; odia a los enanos | — | AniList + wiki ⚠️ |
+| Miko | 50+ | — | Perdió su nombre al apostarlo al fundar su país | — | AniList ⚠️ |
+
+- Sora y Shiro **no tienen apellido**; Kamiya bromeó con que sería «Nai» («nada»), como 『　』: https://twitter.com/yuukamiya68/statuses/443532417517641729 ✅ (citado en las páginas de Sora y Shiro).
+- El apellido de Steph es **Dola**, no «Dora» ⚠️.
+- No encontré comidas favoritas ni un *databook* oficial con gustos de los secundarios (búsquedas en la wiki «likes favorite food», «birthday height»).
+
+## 21 · Por qué la gente la ama
+
+- **La premisa**: los conflictos se resuelven con juegos, no con violencia; ver ganar a dos «inútiles» con estrategias absurdamente complejas. Para los *gamers*, un mundo donde ser bueno en videojuegos importa ⚠️ (reseñas de MyAnimeList).
+- **Lo visual**: el color y la música «perfectamente integrada» ⚠️ (reseñas).
+- **Con quién se identifican**: quienes fueron NEET o *gamers* se ven en Sora y Shiro; parte del fandom prefiere a Sora por ser la mitad «humana» ⚠️ (Reddit).
+- **Ventas**: más de **6 millones** de copias (novela y manga) en 2024 (https://animecorner.me/no-game-no-life-surpasses-6-million-copies-in-circulation-releases-a-promotional-video/); el vol. 13 volvió al 2.º puesto semanal en 2026 (https://www.cbr.com/no-game-no-life-light-novel-ranking/) ✅.
+- **La escena que hace llorar**: el final de ***No Game No Life: Zero***: el discurso final de Riku Dola y el sacrificio de Riku y Schwi para darle un lugar a Imanity. «Tanta emoción en el discurso de Riku al final (sobre todo en el doblaje original)»; otro la vio 70 veces; otros lloran con el vol. 6 de la novela ✅ (dos hilos de Reddit, §12). ⚠️ No se vio la escena: no sabemos el minuto, la luz ni la música exactos. El tráiler (§4) da su paleta: rojo sangre y negro.
+- **La escena que hace gritar de emoción**: el discurso de Sora en el coliseo (clip de Tomatazos, 2:20 a 3:40): la multitud al atardecer, Sora de espaldas, el destello final ✅ visto.
+- **Las que hacen reír**: Steph perdiendo todas las apuestas; Jibril y su biblioteca; Sora hundido sin Shiro ✅.
+- Premio: Sugoi Japan Award 2014 (novela ligera) ✅.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Fandub latino completo de piedra, papel o tijera** (Sora contra Steph; la parte de voz lo situó en el cap. 3 ⚠️): **Tomodachi Fandub**, 8:59, 173 vistas: https://www.dailymotion.com/video/x6jcnbr ✅ visto y oído.
+  - Transcripción (1:00-2:00): «Si no te gusta que llamen idiota a tu idiota abuelo, entonces puedes pedirnos que muramos. Y si yo gano, harás cualquier cosa que yo diga.» · «Él creerá que caí en su trampa, pues aunque estas reglas parezcan darme toda la ventaja a mí, hay una de tres posibilidades de un empate.»
+  - Adapta casi palabra por palabra el mismo monólogo de Steph que la muestra oficial de Rae Bael (§8). Voz de Steph en el fandub: 154 Hz, 24,3 semitonos, 3,1 palabras/s (más grave que la oficial).
+  - Usa el vídeo del anime con un logo pequeño «Tomodachi Fandub» en la esquina.
+- «No Game No Life EN 7 MINUTOS [Fandub Latino]» y «【Aki-chan】No Game No Life【Fandub en Español】» (2014) ⚠️ sólo por título.
+- **Covers en español de «This Game»** ⚠️ (no escuchados): Sheccid Music (https://sheccidmusic.blogspot.com/2015/08/no-game-no-life-opening-fandub-espanol.html), Ilonka Obilinovic (https://soundcloud.com/ilonka-obilinovic/this-game-cover-espanol-no-game-no-life y https://www.tiktok.com/@.ilonka.7/video/7097711916222549253) y un cover masculino de ReidenSings.
+- **Medios hispanos**: Tomatazos (México) repostea el discurso y el opening en Dailymotion (430 y 353 vistas); ANMTV dio la noticia del doblaje latino.
+- No encontré memes hispanos concretos con cifras.
+- **Idea para el servidor**: el monólogo de Steph calculando probabilidades es un **reto de doblaje** perfecto (hay versión oficial y fandub para comparar).
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Uchihime × No Game No Life** (18-feb a 7-mar-2017), gacha de CyberAgent/Ameba: cartas y etapa con Shiro, Steph, Jibril, Izuna, Chlammy y Fiel, con **ropa y poses nuevas** ✅ (wikitexto de la wiki). Imagen del anuncio, 512×300: https://static.wikia.nocookie.net/no-game-no-life/images/4/49/Uchihime_Official_Crossover.jpg · https://no-game-no-life.fandom.com/wiki/Uchihime_%C3%97_No_Game_No_Life
+- **Cruces del autor** (*dōjinshi* *No Work No Life*): Izuna vestida de Sol Badguy de *Guilty Gear* (Comiket 90, 2016) y cosplay de Nahida y Qiqi de *Genshin Impact* (Comiket 103, 2023) ✅.
+- **Figuras oficiales** (su pose es referencia 3D):
+  - Good Smile: Shiro 1/8 con piezas intercambiables (libro, tablet, brazos y piernas) y **Nendoroid de Jibril** (alas articuladas, caras intercambiables) ✅: https://www.goodsmile.com/en/product/4229/Shiro · https://mikatan.goodsmile.info/en/2017/07/13/shiro-and-nendoroid-jibril-no-game-no-life/
+  - Kotobukiya: Shiro con base de tablero y pieza en la mano ⚠️: https://www.kotobukiya.co.jp/en/product/detail/p4934054055944/
+  - Phat! Company: Shiro 1/7 con base de tablero, trono de Imanity en miniatura y chibis de Sora, Izuna, Jibril y Steph ⚠️: https://myfigurecollection.net/item/218050
+- **Cosplay** bien hecho con autor y materiales: no encontré (búsquedas «No Game No Life cosplay Sora Shiro convention photo credit», «ノーゲームノーライフ コスプレ 完成度»). Openverse sólo dio fotos del juego de mesa «Game of Life», descartadas.
+- **Cafés temáticos y tiendas efímeras**: no encontré («No Game No Life themed cafe», «ノーゲーム・ノーライフ カフェ コラボ»).
+- **Concierto**: *No Game No Life Zero Film Concert* (2017), película con orquesta en directo ⚠️ (§1).
+
+## 24 · Obras parecidas
+
+- Recomendaciones de usuarios de AniList ✅: *Kakegurui* (220 votos), *Problem Children Are Coming From Another World* (172), *Overlord* (153), *Classroom of the Elite* (132), *Re:ZERO* (115), *Liar, Liar* (109), *Log Horizon* (80), *Gate*, *Tensei Slime*, *Gods' Games We Play*, *KONOSUBA*, *Cautious Hero*.
+- **Por qué se parecen** ⚠️ (análisis propio): ganar con la cabeza y no con la fuerza (*Kakegurui*, *Classroom of the Elite*, *Liar, Liar*); mundos con reglas escritas como los Diez Pactos (*Log Horizon*, *Overlord*, *Gods' Games We Play*); comedia isekai (*KONOSUBA*).
+- **De la misma franquicia**: *No Game No Life: Zero* (película, 2017), *Specials*, el manga y el derivado cómico *No Game No Life, Desu!* centrado en Izuna (4 tomos): https://no-game-no-life.fandom.com/wiki/No_Game_No_Life,_Desu!_Volume_1 ✅.
+- Influencias que reconozca Kamiya: no encontré.
+- **Otras láminas del servidor**: por las notas de `DECISIONES.md`, Hunter x Hunter (36) propone para 🎲 Juegos el libro de *Greed Island* y One Punch Man (35) también pide esa sala; Frieren (33) propone #recursos con grimorios. Para no repetir: aquí **nada de cartas de colección** (eso es Greed Island) y la biblioteca de Jibril se diferencia de los grimorios de Frieren por su **oscuridad ámbar con cadenas y cubos flotando** y los colores saturados de Jibril.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** (los Diez Pactos, wiki «Ten Covenants», traducción nuestra) ✅
+1. En este mundo se prohíben el asesinato, la guerra y el robo.
+2. Todo conflicto se resuelve con un juego.
+3. Cada jugador apuesta algo que ambos consideran de igual valor.
+4. Se puede apostar cualquier cosa y jugar a cualquier juego si se cumple la regla 3.
+5. El retado elige el juego y sus reglas.
+(Del 6 al 10: las apuestas se cumplen; los representantes de cada raza tienen autoridad total; hacer trampa y ser descubierto es perder; las reglas nunca cambian; y «¡juguemos todos en armonía!».) https://no-game-no-life.fandom.com/wiki/Ten_Covenants
+
+- **Disboard** (盤上の世界, «el mundo sobre el tablero»), gobernado por **Tet**, el Dios Único, que ganó tras la Gran Guerra ✅. Que el nombre mezcle *discord* y *board* es sólo una hipótesis de la wiki ⚠️.
+- **Las 16 razas (Ixseed)**, de más a menos magia: Old Deus, Phantasma, Elemental, Dragonia, Gigant, Flügel, Elf, Dwarf, Fairy, Ex-Machina, Demonia, Dhampir, Lunamana, Werebeast, Siren e **Imanity** (los humanos, la más débil) ✅.
+- **Pieza de Raza**: pieza de ajedrez translúcida y luminosa de cada raza; quien reúna las 16 puede retar a Tet ✅ (wiki «Race Piece»).
+- **『　』 (Blank)**: los hermanos, invictos en más de 280 partidas antes de llegar a Disboard ✅.
+- **Las seis reglas de Riku** («Aschento») en *Zero*, antes de los Pactos ✅.
+
+**La historia por arcos** (novela, wiki) ⚠️ los títulos de los tomos 5, 7 a 10 están incompletos en la parte:
+1. **Llegada** (vol. 1): Tet los invita («¿Te diviertes?»), caen a Disboard, conocen a Steph, ganan la corona de Imanity a Chlammy y Fiel; discurso «Somos los débiles».
+2. **Jibril y la biblioteca** (anime, ep. 6): se enfrentan a la Flügel en la Gran Biblioteca.
+3. **La Federación Oriental** (vol. 2 y 3): Izuna y Miko; en el vol. 3 uno de los hermanos «desaparece» (Shiro sola, ep. 9).
+4. Vol. 4: comedia romántica (Plum en la portada). Vol. 5: guerra y estrategia (Azril en la portada). Vol. 6: la Gran Guerra y Tet (lo que cuenta *Zero*).
+5. **Precuela *Zero***: hace unos 6000 años, Riku y Schwi acaban la Gran Guerra y nace el Dios Único.
+
+**Vocabulario que un fan reconoce**: Disboard, los Diez Pactos, **¡Aschente!**, Ixseed, Imanity, Pieza de Raza, 『　』, el Dios Único, Old Deus, Elkia, Flügel, Werebeast ✅.
+
+## Hojas de contacto
+
+Tres hojas en `hojas/` (JPEG de menos de 1 MB cada una). Las otras ocho (las de `investigar_serie.py` y las de vídeo sueltas) se movieron a `herramientas/referencias/no-game-no-life/hojas_descartadas/`, fuera de git: dos de ellas incluían ilustraciones de la novela con desnudos censurados (§12).
+
+1. **`escenas_01.jpg`** (2560×1440, 16 fotogramas de episodios 1, 6, 8 y 9, montada por el redactor). Las mejores: nº 3 (Disboard y la cartela de los Pactos), nº 2 (el texto de Tet), nº 8 (la Gran Biblioteca), nº 7 y 9 (Jibril), nº 12 y 13 (Sora), nº 10 (よしよし), nº 14 (el logo).
+2. **`fondos_01.jpg`** (48 fotogramas del anime de la wiki, nº 193 a 240). Las mejores: nº 206 (tablero morado), nº 237 (grupo en el campo), nº 202 (Sora retando), nº 212 (Jibril feliz en la biblioteca), nº 207 (cartel 絶望), nº 230 («ふぇ…»), nº 228 (grupo en sala azul), nº 225 (la caída a Disboard), nº 194 (biblioteca con Sora, Shiro y Jibril).
+3. **`video_discurso_sora_01.jpg`** (12 fotogramas del discurso, cada 20 s): nº 1 (estrado), nº 10 (Sora de espaldas ante la multitud), nº 11 (Steph emocionada), nº 4 (el coliseo).
+
+## Tres conceptos de lámina
+
+La serie no tiene canal. Se proponen tres, distintos entre sí. Textos del canal copiados de `servidor/inventario.md`. Las frases de personaje entre comillas latinas «» salen del doblaje; las marcadas como *propuesta* son nuestras, en su voz.
+
+### A · #reglas · «Los Diez Pactos del servidor» (recomendada)
+- **Por qué encaja**: el canal dice «Las normas. Al quedarte, las aceptas.» Es exactamente el juramento **¡Aschente!**: al jugar en Disboard aceptas los Pactos.
+- **Objeto real en sitio real**: una **Pieza de Raza** (rey de ajedrez de cristal que brilla, hecho en Blender con vidrio y emisión) sobre un pedestal, en la **sala del trono de Elkia** con el **suelo de tablero morado y blanco** (`fondos_01.jpg` nº 206). Al fondo, un ventanal abierto al cielo lavanda de Disboard (`escenas_01.jpg` nº 3).
+- **Personajes**: **Sora de pie y Shiro sentada en el estrado, con coronas**, alzando la mano derecha para jurar (clip del discurso, 0:00 y 3:03; `video_discurso_sora_01.jpg` nº 1). Shiro vestida con su uniforme y su capa, seria. Son el dúo 『　』: juntos, nunca uno solo.
+- **Cómo habla**: las normas van en la **cartela vertical de los Pactos**, a la derecha, cada una con su número entre corchetes (「一」「二」…), blanco lavanda `#E8E0F8` con halo magenta `#A94778`, letra mincho vertical (§5). Sora, en un **globo de cristal roto** con Bangers: *propuesta* «Al quedarte, las aceptas. ¡Aschente!».
+- **Dónde va cada texto**: título «Las normas» arriba a la izquierda en Russo One, con 『　』 como marca de agua detrás; las normas en la cartela vertical de la derecha; el globo de Sora junto a su mano alzada.
+- **Los textos de las normas no están en el inventario** ⚠️: hay que copiarlos del canal. Si son más de cinco, **lámina 2**: el resto de los Pactos en la misma cartela, como hace la serie con los Pactos 6 a 10.
+- **Para que no quede plano**: la pieza de cristal en primer plano, algo desenfocada, refracta la luz lavanda del ventanal; contraluz dorado `#F0C68E` sobre los hermanos; el tablero en perspectiva fuerte hacia el fondo; reflejo de la pieza en el suelo.
+
+### B · #a-que-juegas · «La tablet de 『　』»
+- **Por qué encaja**: el canal es «Lo que estás jugando, capturas y quién se apunta a una partida». La serie va de dos *gamers*.
+- **Objeto real en sitio real**: la **tablet de Shiro** (Blender; la lleva la figura de Good Smile, §23) sobre la **mesa redonda de madera de la terraza del jardín** de Elkia (`escenas_01.jpg` nº 5), con piezas de ajedrez y una taza de té.
+- **Personajes**: **Shiro**, la más querida, sentada y concentrada con la tablet (pose de la figura de Good Smile y del render `Shiro_Anime_HQ.png`; siempre vestida, pose de jugar). **Sora** inclinado sobre la mesa con su sonrisa de reto (`escenas_01.jpg` nº 12, ep. 8, 14:00).
+- **Cómo habla**: el **texto flotante de Tet** (azul claro con resplandor, Orbitron) sale de la pantalla: *propuesta* «¿A qué juegas?», eco del 「楽しいかい？」 del ep. 1, 8:00. Sora en globo de cristal: *propuesta* «¿Quién se apunta a una partida?». Shiro, cajita pequeña con cola y Architects Daughter, en tercera persona: *propuesta* «Shiro… ya está jugando.»
+- **Dónde va cada texto**: el nombre del canal en la pantalla de la tablet; «Lo que estás jugando» y «capturas» como dos ventanitas brillantes que flotan sobre la pantalla; la invitación a la partida en el globo de Sora.
+- **Para que no quede plano**: luz de día verde `#8ECDA2` del jardín detrás y el brillo azul de la tablet en la cara de Shiro; una pieza de ajedrez y el borde de la taza delante, desenfocados; la barandilla de la terraza en diagonal.
+
+### C · #recursos · «La Gran Biblioteca de Jibril»
+- **Por qué encaja**: el canal guarda «lo que le sirve a los demás: programas, plantillas, pistas sin voz, efectos, tutoriales. Un hilo por recurso. NADA pirata…» (el texto sigue: ⚠️ leerlo entero en Discord). Jibril vive para el conocimiento y **odia las trampas**.
+- **Objeto real en sitio real**: un **libro enorme abierto** sobre un atril (Blender: la tinta sigue la curva de las páginas) en la **Gran Biblioteca de Elkia** (`escenas_01.jpg` nº 8: torre de estanterías, cadenas, faroles ámbar).
+- **Personaje**: **Jibril**, secundaria que en Japón supera a Sora (§7), flotando junto al libro, cabeza ladeada y ceja alzada, explicando (`escenas_01.jpg` nº 7 y nº 9; render `Jibril_Anime_HQ.png`). Encuadre por su cara, su halo y el libro.
+- **Cómo habla**: globo de cristal con Bangers para su frase real «Me presentaré, Eminencia. Díganme qué puedo hacer por ustedes.» (doblaje latino). Para «NADA pirata», su amenaza tranquila en cajita con cola: *propuesta* «Hacer trampa es perder. Aquí nada pirata.» (el Pacto 8).
+- **Dónde va cada texto**: «Un hilo por recurso» escrito en la página izquierda del libro; programas, plantillas, pistas, efectos y tutoriales en la página derecha como índice; las **15 etiquetas** (Verificado, Programa, Plantilla, Pista sin voz, Efectos de sonido, Musica libre, Tutorial, Guion, Banco de voces, Gratis, De pago, Windows, Mac, Movil, Online) en los **lomos de los libros** de la estantería. Si no caben, **lámina 2**: la estantería sola con los lomos.
+- **Para que no quede plano**: un farol ámbar `#AD5B37` y una cadena cruzando por delante, desenfocados; el halo de Jibril como luz fría `#FDF7A9` contra el marrón casi negro `#1C0D0C`; cubos flotando al fondo.
+
+**Recomendación**: A. Es la idea más propia de la serie (los Pactos y el juramento) y el canal lo pide literalmente. Nota: #recursos también lo propone Frieren (33) y 🎲 Juegos lo piden Hunter x Hunter y One Punch Man; no es un problema, las biblias son generales.
+
+## Cumplimiento del encargo
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | Renders de los 4, hoja de modelo, artbook, portadas de novela y manga, póster, concierto, poses con objeto y en grupo, con tamaños medidos. |
+| 2 | Fotogramas icónicos con capítulo y minuto | ⚠️ | 16 fotogramas de los ep. 1, 6, 8 y 9 más el discurso, el opening y el tráiler de *Zero*, todos mirados. Pero en 1280×720 (no 1080p) y con el minuto del archivo de Internet Archive. |
+| 3 | Fan art y 3D con licencia | ⚠️ | Fan art con enlace y origen, revisado a ojo. 3D: sólo dos Shiro de fans en CC BY y escenarios genéricos; ningún personaje oficial libre. |
+| 4 | Sitios, luz, paleta y texturas reales | ⚠️ | 9 sitios con paleta medida en fotogramas. Las texturas reales (madera, papel, piedra) se proponen en ambientCG pero no se bajaron. |
+| 5 | Tipografía por uso, con tildes, ñ, ¿ y ¡ | ⚠️ | Logo visto y descrito, escritura Imanity con su autor, 4 letras libres comprobadas con fontTools. La mincho para la cartela vertical no se comprobó. |
+| 6 | Cuadros de diálogo propios | ✅ | Cartela vertical de los Pactos y texto de Tet vistos en el anime; globo de cristal, grito, onomatopeya y cajita en el manga; fondos de emoción con texto. |
+| 7 | Personajes y popularidad | ✅ | Encuesta japonesa (agregador, ⚠️), favoritos de AniList y dibujos de Danbooru coinciden: Shiro y Jibril por delante de Sora. |
+| 8 | Doblaje latino y frases textuales | ⚠️ | Estudio, dirección y reparto con dos fuentes (5 de ellas dentro de Doblaje Wiki). 12 frases textuales oídas de las muestras oficiales, pero sin episodio ni minuto; el discurso de Sora en latino no lo encontré. |
+| 9 | Música y sonido | ⚠️ | Opening, ending, compositores y *Zero* con dos fuentes. Sin nombre de pista por escena ni efecto de sonido identificado por nombre. |
+| 10 | Vídeos con minuto exacto | ⚠️ | Clips de Dailymotion y episodios con minuto. El tráiler oficial y el análisis de YouTube, sin ver (pedía sesión); TikTok sin cifras. |
+| 11 | Videojuegos de la franquicia | ⚠️ | No encontré juego oficial; el «No Game No LIFE» de Steam parece otro juego con el mismo nombre; la colaboración de *Uchihime* es lo más cercano. Sin ficha en TCRF. |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 『　』, Aschente, discurso, *Zero*, gags; lista clara de qué no hacer con Shiro y qué imágenes no usar. TV Tropes y Fanlore bloqueados por Cloudflare. |
+| 13 | Personajes a fondo, caras por emoción | ⚠️ | Carácter, arco, voz medida y caras vistas de Sora, Shiro, Steph y Jibril. Faltan fotogramas de rabia y miedo de casi todos. |
+| 14 | Poses analizadas (6-10 por personaje) | ⚠️ | Sora 8; Shiro 5; Steph 4; Jibril 4. Faltan episodios por mirar. |
+| 15 | Vestuario con hex | ✅ | Los 4 con hex medidos sobre los renders oficiales; ropa icónica señalada. |
+| 16 | Ciudades, paisajes y fondos de pantalla | ⚠️ | 7 sitios con su luz; 6 fondos de pantalla con tamaño y origen. No hay fondos oficiales del estudio. |
+| 17 | Guía para IA de imagen y de texto | ✅ | Rasgos fijos, paleta, línea, luz, palabras que ayudan y estropean, negativas obligatorias con Shiro, referencias, código visual de emociones y frases reales por emoción. |
+| 18 | Estilo y cómo replicarlo | ✅ | Contorno de color y saturación con entrevista de la directora (dos fuentes); pasos de Photoshop y Blender; encuadres vistos. Sin entrevista de proceso de Kamiya. |
+| 19 | Texturas 2D | ✅ | Tablero, tramas libres, papel y volutas, escritura Imanity, mapa, patrones de ropa. |
+| 20 | Gustos y detalles | ⚠️ | Edad, cumpleaños, altura y gustos de los principales. Sin comidas favoritas ni *databook* de secundarios. |
+| 21 | Por qué la aman, escenas que hacen llorar | ⚠️ | Razones, ventas, premio y la escena de *Zero* con dos hilos. Esa escena no se vio (sin minuto, luz ni música). |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | Un fandub latino visto, oído y transcrito; tres covers y dos fandubs más sólo por título; sin vistas de TikTok. |
+| 23 | Colaboraciones, figuras y cosplay | ⚠️ | *Uchihime*, cruces del autor y 3 figuras. Sin cosplay documentado ni cafés. |
+| 24 | Obras parecidas | ✅ | Recomendaciones de AniList, por qué se parecen, obras de la franquicia y cruce con otras biblias del servidor. |
+| 25 | Mundo, historia y símbolos | ✅ | Pactos, razas, Pieza de Raza, 『　』, arcos y vocabulario, del wikitexto de la wiki. |
+| — | Tres conceptos de lámina | ✅ | #reglas, #a-que-juegas y #recursos, con objeto, sitio, personaje, cuadro, textos y profundidad. |
+| — | 40 fuentes distintas | ✅ | Más de 40 webs enlazadas (ver `revisar.py`). |
+| — | Tipos de fuente de «Profundidad exigida» | ⚠️ | Oficiales, japonés, inglés, wikis, Reddit, arte, vídeo, doblaje: sí. Coreano y chino: no se buscó. GitHub: no se usó. TV Tropes y Fanlore bloqueados; TCRF sin ficha. |
+| — | Hojas de contacto | ✅ | 3 en `hojas/`, descritas arriba; las demás, fuera del repositorio. |
+| — | `referencias.json` | ✅ | Todas las útiles de las partes, las mejores primero. |
+
