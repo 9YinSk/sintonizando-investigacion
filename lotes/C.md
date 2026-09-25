@@ -14,11 +14,32 @@ Según `siguiente.py 12 --lote C`: 19-23 completas y subidas; 24 (redactor),
 25-26 (redactor, partes listas) y 27-30 (repaso completo, sólo datos
 recolectados) pendientes.
 
-- 24 Assassination Classroom: redactor (Opus, repaso) en marcha para cerrar
-  tabla de cumplimiento y las hojas que faltan.
-- 27 Cyberpunk Edgerunners: 4 investigadores (Sonnet, repaso) en marcha.
-- 25, 26, 28, 29, 30: en cola, se lanzan según se libera hueco (máx. 5
+- **24 Assassination Classroom: COMPLETA y subida (repaso).** 2241 líneas,
+  tabla ✅25 ⚠️12 ❌0, 102 webs, 240 min, 70 hex, referencias 35→157, 3 hojas
+  (nueva hoja de fotogramas). Más querido: Karma (1.º encuesta oficial Jump
+  y AniList); Nagisa el más dibujado. Cuadro de diálogo propio: la pizarra
+  casi negra con tiza de tres colores + la cara de colores de Koro-sensei.
+- 27 Cyberpunk Edgerunners: repaso en marcha. imagen y texto terminados sin
+  pendientes obligatorios; voz relanzada (2.ª tanda, sólo la 2.ª fuente de
+  actores secundarios del doblaje); vídeo en marcha.
+- 25 My Hero Academia: redactor (Opus, repaso) en marcha.
+- 26, 28, 29, 30: en cola, se lanzan según se libera hueco (máx. 5
   agentes vivos).
+
+## Avisos para el dueño (esta sesión)
+
+- 24 Assassination Classroom: en 2×24 (8:50) Koro-sensei lleva el 出席簿
+  negro, no la carpeta amarilla que decía la parte de vídeo (corregido en
+  la biblia). Faltan sin encontrar (⚠️): minuto exacto del doblaje latino
+  (YouTube pide sesión), vídeo sólo en 480p, caras de Irina enfadada y de
+  Nagisa/Karma tristes.
+- Nota de canal: 24 (la pizarra de clase) y 25 My Hero Academia también
+  es de aula (#material-de-clase) — no repetir la lámina de la pizarra
+  entre las dos.
+- 27 Cyberpunk Edgerunners: choque de universo con el encargo 114
+  (Cyberpunk 2077, el juego, sin canal aún) — si se hace, que use
+  personajes del juego (V, Johnny, Judy, Panam), no de la serie, para no
+  repetir la lámina de #a-que-juegas.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105

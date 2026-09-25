@@ -220,11 +220,29 @@ que vi en vídeo:
   frente»** (una intención que la tabla de resumen no tenía cubierta con
   Maine). ✅ (visto directamente, con minuto).
 
-No encontré, mirando los episodios que bajé (1, 2, 3, 4, 6), ningún otro
-plano nuevo y claro de Kiwi o de Maine que no estuviera ya en las hojas de
-la wiki (W25, W27, W29, W18, W33, W46, G13, W75): las escenas donde
-aparecen (furgoneta, Afterlife, el trabajo del ep. 9) están fuera de los
-episodios que pude bajar en esta tanda. Lo dejo anotado en «No encontré».
+- **Kiwi, en el Afterlife junto a Faraday** (ep. 7, 11:40, `ep7/hoja_01.jpg`
+  f11): media máscara puesta, pelo claro, de perfil, seria. Coincide con el
+  aviso «KIWI» en la pantalla de llamada a 11:25 del mismo episodio (es ella
+  quien organiza el encuentro con Faraday, dato de subtítulo ya citado en la
+  biblia). Sirve para **«presentar con cautela / vigilar»**. ⚠️ identificada
+  por el diseño (máscara + pelo claro) y por el contexto de la llamada, no
+  por su nombre dicho en ese plano exacto: aviso para que el redactor lo
+  confirme con el audio si puede.
+
+- **Kiwi, agotada tras la muerte de Maine** (ep. 9, 5:39, `ep9/hoja_01.jpg`
+  f9): pelo claro (verde menta), dormida o a punto de dormirse sentada en un
+  sofá, cara triste, David de pie mirándola (5:42). Es la escena justo
+  después de la reunión de urgencia que ya citaba la biblia (§2.2, ep. 9,
+  05:23). Sirve para **«vulnerabilidad / bajón del grupo»**, un gesto que no
+  estaba cubierto. ✅ (pelo y cara coinciden con su diseño oficial; visto
+  directamente, con minuto).
+
+Con esto **Kiwi llega a 6 poses** (dentro del 6-10 que pide el punto 14) y
+**Maine queda en 5** (uno por debajo). Busqué un sexto plano claro de Maine
+en la fiesta del Afterlife del ep. 3 (17:00-18:05, `ep3c/hoja_01.jpg`: gente
+bailando y bebiendo) pero **no pude identificarlo con seguridad** entre las
+siluetas sin que hable en ese plano exacto — mejor no adivinar (regla de
+AYUDANTE.md de no inventar). Lo dejo en «Sigue».
 
 ---
 
@@ -268,10 +286,10 @@ episodios que pude bajar en esta tanda. Lo dejo anotado en «No encontré».
 
 ## Bitácora de búsqueda (segunda pasada, vídeo)
 
-- `fotogramas.py` sobre 5 episodios completos de Internet Archive (360p):
+- `fotogramas.py` sobre 6 episodios completos de Internet Archive (360p):
   ep. 1 (0:00-4:20), ep. 2 (19:30-21:30), ep. 3 (0:00-1:36 y 4:55-8:20),
-  ep. 4 (21:20-23:16), ep. 6 (22:10-22:50). Cada `video.mp4` se borró tras
-  sacar las hojas.
+  ep. 4 (21:20-23:16), ep. 6 (22:10-22:50), ep. 7 (11:10-12:10). Cada
+  `video.mp4` se borró tras sacar las hojas.
 - `fotogramas.py` sobre el tráiler oficial VOSE de Dailymotion
   (`dailymotion.com/video/x8ct6i8`, 2:59, cada 8 s).
 - `yt-dlp --skip-download --print "%(chapters)j"` y `%(description)s` sobre
@@ -289,7 +307,7 @@ episodios que pude bajar en esta tanda. Lo dejo anotado en «No encontré».
   (`api.animethemes.moe`, HTTP 522) y la API de imagen de Wikipedia para el
   logo (rate limit).
 
-**Sigue:** confirmar en subtítulo el episodio exacto de la escena de tiro
-de David y Rebecca en 2nd Amendment (punto 4/14, hoy ⚠️ con una sola
-fuente) y, si hay presupuesto, bajar los episodios 7 y 9 para sacar 2-3
-poses más de Kiwi (punto 14, hoy con 4 en vez de 6-10).
+**Sigue:** punto 14, Maine y Kiwi siguen en 5 poses cada uno (el mínimo del
+encargo es 6-10 por personaje); bajar el episodio 9 (el trabajo grande,
+donde actúan los dos) con `fotogramas.py` para sacar 1-2 planos más de cada
+uno y cerrar el mínimo.
