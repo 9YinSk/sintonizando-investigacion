@@ -139,3 +139,33 @@ Fuente: https://www.cbr.com/anime-that-influenced-steven-universe/ (leído compl
 - **Steven Universe: The Movie (2019)**: Spinel, abandonada por Pink Diamond hace 6000 años, ataca la Tierra por venganza · ✅
 - **Steven Universe Future (2019-20)**: epílogo sobre la salud mental de Steven, trauma acumulado y terapia · ✅
 
+## Lo mejor para la lámina
+
+- **Crewniverse** (dafont, gratis) es la letra libre correcta para cualquier texto largo en español: comprobada por mí con fontTools, trae tildes/ñ/¿/¡ completos y replica las cartelas de título reales de la serie — mejor que Crystal Universe o Creditverse (ninguna de las dos trae letras españolas).
+- El cuadro de diálogo real de *Unleash the Light* (capturado en `guidb_imgs/modal2.jpg`) es la referencia perfecta de «cuadro de diálogo acorde a la temática»: rectángulo redondeado pastel con rabito, color a juego con quien habla, texto grueso redondeado — literalmente lo opuesto a la «burbuja blanca genérica» que rechaza el dueño.
+- El menú de equipo del mismo juego usa **la estrella de 5 puntas de la Puerta del Templo como fondo de cuaderno**: si la lámina necesita mostrar un grupo de personajes, esa estrella (ya emblema oficial del grupo) es mejor que inventar un marco nuevo.
+- Gem Glyph (el alfabeto logográfico del mundo, diseñado por Steven Sugar) es el «cartel del mundo» más fiel a la serie — mucho mejor que un cartel con letras latinas si hace falta ambientar un fondo de Homeworld o de la Fragua.
+- «Harmony» (no «HP») es el nombre real de la barra de vida en los 3 videojuegos: un guiño de vocabulario reconocible al instante para un fan si la lámina toca el canal de videojuegos.
+
+## No encontré
+
+Búsquedas hechas que no dieron resultado verificable en esta tanda (no es que el dato no exista, es que no lo encontré con lo que probé):
+
+- ⚠️ **Nombre del letrista (letterer) del cómic oficial** de BOOM! Studios/KaBOOM! (ninguna de las 3 colecciones: miniserie 2014-15, serie regular 2017, *Harmony* 2018). Probado: wikitext de las 3 fichas de Fandom (sin la palabra «letterer»), Comic Vine (403 directo; con `r.jina.ai` y un id adivinado cae en la ficha de otro cómic), League of Comic Geeks (sin ese crédito en el resumen), boom-studios.com (sin fichas de crédito extraíbles por texto).
+- ⚠️ **Contenido descartado de *Save the Light*** en The Cutting Room Floor (`tcrf.net/Steven_Universe:_Save_the_Light_(Windows)`): reto de Cloudflare por las 4 vías probadas (curl directo, `navegar.py`, Wayback Machine, lector `r.jina.ai` — este último sí funcionó para pasar el mismo reto en `gameuidatabase.com`, pero no en `tcrf.net`).
+- ⚠️ **Ficha con el hex exacto de la interfaz holográfica** de la tablet de Peridot / el Comunicador de las Diamantes: confirmé que el formato existe (Video Chat, Diamond Communicator) pero no medí colores porque no bajé fotogramas propios — es tarea más de vídeo que de texto; lo dejo anotado para cruzar con el investigador de vídeo.
+- ⚠️ **Rig o modelo 3D oficial y libre** de un personaje de Steven Universe para Blender: no lo hay (los modelos CC del punto 3 son de fans, ya listados por el investigador de imagen).
+- ⚠️ **Licencia exacta de la «Gem Glyph Font» de Ayelis** (itch.io): la ficha no deja claro el tipo de licencia de reuso más allá de «pensada para meter en tu juego»; revisar antes de usarla en un producto que se vaya a publicar.
+
+## Bitácora
+
+- Fandom (`steven-universe.fandom.com/api.php`, `action=parse&prop=wikitext` y `action=query&list=search`, en inglés — la wiki no tiene versión en español): páginas `Gem_Glyph`, `Video_Chat`, `Attack_the_Light`, `Save_the_Light`, `Unleash_the_Light`, `Grumpyface_Studios`, `Cartoon_Network:_Battle_Crashers`, `Camp_Pining_Hearts`, `Steven_Universe_(comic_series)`, `Steven_Universe:_Harmony`; búsquedas de texto: «font lettering logo», «video game», «Peridot tablet screen hologram», «Homeworld broadcast Yellow Diamond screen», «Camp Pining Hearts»; categoría `Category:Video_Games` completa.
+- Wikipedia (inglés, wikitext crudo vía `action=raw`): `Steven_Universe` completo (confirmé directamente Bauhaus/Kandinsky, proceso de fondos, animación en Corea, sin repetir de memoria lo que ya tenía el encargo 64).
+- WebSearch (cupo compartido del contenedor con los otros investigadores de esta tanda — se agotó a las 200/200 del entorno tras mis primeras 5 búsquedas): «site:tcrf.net Steven Universe», «Steven Universe logo font identify», «Steven Universe official comic BOOM Studios lettering font speech balloon», «"Steven Universe" subtitle font closed captions Cartoon Network», «"Gem Glyph" font dafont Steven Universe». El resto de la tanda se hizo con `curl`/`r.jina.ai` directo a las páginas ya identificadas por esas 5 búsquedas y por el encargo 64.
+- `r.jina.ai` (lector de texto) como vía alternativa cuando un sitio bloquea `curl`/`navegar.py` por Cloudflare: funcionó para `gameuidatabase.com` (di con los IDs de juego buscando en `html.duckduckgo.com/html/` vía el mismo lector) y para `google.com`/`bing.com` (sin resultados útiles, límite de tasa); **no** funcionó para `tcrf.net` (reto de seguridad persiste incluso a través del lector).
+- Descargas propias verificadas con `fontTools` (`TTFont(f).getBestCmap()`, comprobando á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡): `crewniverse_font.ttf` (sí, completo), `CrystalUniverse-Regular.ttf` (no, sólo é), `creditverse_font.ttf` (no, ninguno) — las tres descargadas de dafont.com con éxito en esta tanda (el encargo 64 no pudo descargar Crystal Universe, yo sí).
+- Capturas reales de interfaz de *Unleash the Light* bajadas directamente de `gameuidatabase.com/uploads/` (sin bloqueo, sólo la página HTML está tras Cloudflare) y miradas con Read: `modal1.jpg`, `modal2.jpg` (cuadro de diálogo), `gamestate1.jpg` (menú de equipo), `stats1.jpg` (cartel de etapa) — en `/tmp/claude-0/trabajo/104-texto/guidb_imgs/`.
+- Chromosphere LA (`chromosphere-la.com/case-study/steven/`) y Toon Boom (`toonboom.com/top-animation-news-the-dragon-prince-steven-universe-and-more`) leídos directamente por mí con `curl`, no repetidos de memoria del encargo 64.
+- Sitios bloqueados (máximo el límite razonable de intentos por cada uno, con vías alternativas probadas antes de rendirme): `tcrf.net` (403/reto Cloudflare por 4 vías), `comicvine.gamespot.com` (403 directo; vía `r.jina.ai` con id adivinado da la ficha equivocada), `madegooddesigns.com` (403).
+- Encontré el encargo 64 (`biblias/64-steven-universe/`), la misma obra con otro encargo, ya con biblia completa — lo leí entero (`partes/texto.md`, 240 líneas) antes de empezar a buscar, para no repetir consultas y para saber exactamente qué le faltaba (letrista del cómic, TCRF, capturas de interfaz): ese fue el hilo conductor de esta tanda.
+

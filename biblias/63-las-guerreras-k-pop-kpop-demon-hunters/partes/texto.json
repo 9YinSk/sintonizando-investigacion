@@ -43,5 +43,32 @@
     "que_es": "Página de portfolio con el making-of de los títulos de inicio y los créditos finales de la película",
     "para_que": "Fuente primaria para el Punto 18 (técnica de animación de logo/créditos) y el Punto 5 (autoría del logo)",
     "licencia": "página informativa del estudio, no es un archivo descargable"
+  },
+  {
+    "url": "https://tr.rbxcdn.com/180DAY-0cc9ba2a9d0479a356c3af211d75bb13/768/432/Image/Png/noFilter",
+    "fuente": "Roblox (ficha oficial del juego 'KPop Demon Hunters', Netflix x Twin Atlas x Makeshift)",
+    "ancho": 768,
+    "alto": 432,
+    "que_es": "Captura oficial del juego: pantalla de personalizacion de ropa, rejilla de iconos redondeados sobre panel gris oscuro translucido",
+    "para_que": "Interfaz de videojuego (Puntos 5, 6 y 11); hex medidos con estilo.py (#1C1D24/#4F4448 de panel)",
+    "licencia": "captura promocional oficial del juego, uso editorial/referencia"
+  },
+  {
+    "url": "https://tr.rbxcdn.com/180DAY-6170f9e11a1eaa2a56dcab3ab34889a1/768/432/Image/Png/noFilter",
+    "fuente": "Roblox (ficha oficial del juego 'KPop Demon Hunters', Netflix x Twin Atlas x Makeshift)",
+    "ancho": 768,
+    "alto": 432,
+    "que_es": "Captura oficial del juego: el trio HUNTR/X con sus armas (dagas de energia, espada, arma de asta curva) en estilo Roblox",
+    "para_que": "Punto 11 (fidelidad del juego al diseno del film); comparar con las armas ya descritas en video.md Punto 14",
+    "licencia": "captura promocional oficial del juego, uso editorial/referencia"
+  },
+  {
+    "url": "https://tr.rbxcdn.com/180DAY-43dc3f2b978a3944aa13aabef08f5e3f/768/432/Image/Png/noFilter",
+    "fuente": "Roblox (ficha oficial del juego 'KPop Demon Hunters', Netflix x Twin Atlas x Makeshift)",
+    "ancho": 768,
+    "alto": 432,
+    "que_es": "Captura oficial del juego: lockup del logo K-POP DEMON HUNTERS + NETFLIX reutilizado tal cual dentro del juego",
+    "para_que": "Punto 5 (coherencia de marca entre pelicula y videojuego)",
+    "licencia": "captura promocional oficial del juego, uso editorial/referencia"
   }
 ]

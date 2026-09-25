@@ -1517,3 +1517,83 @@ fecha salen del buscador. Sin vistas ni minuto ⚠️.
   doblaje: narrar un gol de Blue Lock «como Martinoli».
 
 ---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Colaboraciones (su arte trae poses y ropa nuevas)
+
+| Colaboración | Cuándo | Qué trae | Fuentes |
+|---|---|---|---|
+| **REMATCH** (Sloclap) | desde el **24-sep-2026** | Isagi, Bachira, Nagi y Rin jugables, modo Aura Striker, traje de entrenamiento, **carta de convocatoria** | §13 ✅ (4 fuentes) |
+| **CONCACAF** («Diamonds in the Rough») | 2025-2026 | Coleccionables, actividades y un evento en la Kodansha House de Los Ángeles | [Concacaf](https://es.concacaf.com/competitions/concacaf/news/kodansha-y-concacaf-lanzan-la-competencia-blue-lock-diamonds-in-the-rough) + [Kodansha USA](https://kodansha.us/2025/06/25/blue-lock-concacaf-collaboration/) ✅ |
+| **eFootball 2024** (Konami) | 21-mar a 11-abr-2024 | Cartas, avatares, camisetas Team White y Team Red | §13 ✅ |
+| **Sanrio** | 20-ene a 26-feb-2023 (parte de imagen); y **14 a 26-jul-2023** en la Sanrio Anime Store de Ikebukuro P'PARCO (cartel n.º 680, leído por el redactor) | Cada jugador con un personaje de Sanrio (Isagi con Hello Kitty, Nagi con Cinnamoroll…) | sanriowiki y goodsrepublic (sin enlace en la parte) + hoja ⚠️ (¿dos eventos?) |
+| **JR** (trenes) | **2-jul a 17-ago-2025** (cartel n.º 674) | Uniforme blanco de revisor con gorra, saludando; «¡Egoísmo a tope para disfrutar Osaka!» | Hoja + wiki ✅. La wiki lo llama «JR Central» y el cartel habla de Osaka ⚠️ |
+| **Treevillage Cafe** | Tokio 7.1-7.25; Osaka y Hakata 7.19-7.31 (¿2025?) | Ropa de verano, pompas de jabón, pistola de agua | Hoja n.º 673 ⚠️ |
+| Pop-up **«Surf Style Collection»** | — | Figuras *chibi* con ropa de surf | Hoja n.º 675 ⚠️ |
+| **Liverpool FC** | — | Nagi, Bachira e Isagi con la **camiseta roja de Liverpool** y cadenas | Hoja `arte_01` n.º 20, 32, 33 (nombre de archivo de la wiki «Blue Lock x Liverpool Collab») ⚠️ una fuente |
+| **Ado** y la película de imagen real | agosto de 2026 | Tema musical | Parte de imagen, sin enlace ⚠️ |
+| **Umamusume** | — | **No existe**: fan art suelto | ✅ comprobado |
+
+### 24.2 Figuras oficiales (pose en 3D real)
+
+- **Nendoroid Isagi Yoichi**, n.º 1998, Good Smile Company y Orange
+  Rouge, con caras intercambiables
+  ([AmiAmi](https://www.amiami.com/eng/detail/?gcode=FIGURE-167214)) ✅.
+- **Nendoroid Meguru Bachira**, con **balón y piña** de accesorios
+  ([Good Smile](https://www.goodsmile.com/en/product/60957)) ✅.
+- De **Nagi y Rin** no se encontró Nendoroid; puede que sólo haya
+  figuras de premio ⚠️.
+
+### 24.3 Cosplay con licencia libre
+
+- **Bachira** en Destination Tokyo 2024: peluca bicolor real, camiseta
+  blanca n.º 2 con número rosa y balón de atrezo. 1024×1024, **CC BY
+  2.0**, Isabelle + Stéphane Gallay
+  ([Flickr](https://live.staticflickr.com/65535/54161951673_8864c634a1_b.jpg)) ✅
+  mirada. Es la única foto de cosplay con licencia libre encontrada:
+  el resto de «Blue Lock» en [Openverse](https://openverse.org/) son
+  candados azules de verdad.
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Obras parecidas (recomendaciones de AniList, con votos)
+
+| Obra | Votos | En qué se parece, y en qué no |
+|---|---|---|
+| **Aoashi** | 351 | Fútbol de cantera, pero **realista y técnico**, sin auras: el contrario estilístico de Blue Lock ✅ |
+| Kuroko's Basketball | 170 | Deporte como batalla, con técnicas especiales |
+| HAIKYU!! | 140 | Deporte de instituto, pero con espíritu de equipo, no de eliminación |
+| **Tomodachi Game** | 76 | Juego de selección con reglas crueles: el motor de Kaneshiro |
+| Inazuma Eleven | 76 | Fútbol con técnicas con nombre |
+| Captain Tsubasa | 19 + 11 | El fútbol de anime clásico; el análisis de Eight Bit resume Blue Lock como «Captain Tsubasa meets Squid Game» |
+| Classroom of the Elite | 17 | Competición y manipulación |
+| One Outs | 13 | Deporte y psicología |
+| **Kakegurui** | 9 | Juego de apuestas y selección social |
+| Death Note | 9 | Duelo psicológico |
+| Slam Dunk, Eyeshield 21, Ace of the Diamond | 9-11 | Deporte clásico |
+
+- **Influencias reconocidas**: Nomura fue asistente de *Attack on
+  Titan* y de *Ahiru no Sora*. En la entrevista de
+  [Anime Corner](https://animecorner.me/interview-blue-lock-creators-muneyuki-kaneshiro-yusuke-nomura/)
+  les preguntan qué titán sería mejor delantero y los dos dicen
+  **Reiner** ✅. Kaneshiro viene de los «juegos de la muerte» (*As the
+  Gods Will*).
+
+### 25.2 Láminas vecinas del servidor (para no repetir)
+
+| Serie | Su canal | Su objeto | Cuidado |
+|---|---|---|---|
+| **Haikyuu (34)** | #reto-de-la-semana | **Marcador naranja y pizarra de tiza** | Blue Lock **no** usa pizarra ni marcador de ese estilo; el marcador de Blue Lock, si sale, es digital y colgado del estadio-jaula |
+| Oshi no Ko (05) | #castings, #en-directo | — | Coincide en #castings (propuesta A) |
+| Hunter x Hunter (36) | #castings | Placas del examen | Coincide en #castings; lo suyo son placas, lo de Blue Lock una carta |
+| Evangelion (16) | #demos | — | Coincide en #demos (B) |
+| Toy Story (60) | #demos, #castings | — | Coincide en dos |
+| Cyberpunk Edgerunners (27) | #a-que-juegas | — | Coincide en C |
+| Attack on Titan (02) | #reglas | — | Mismo linaje de dibujo (Nomura) |
+| Kakegurui (12) | #comandos-y-sorteos | — | Mismo tono de selección cruel |
+| **Captain Tsubasa (47)** | aún sin biblia | — | Mismo deporte y mismo lote: revisar cuando exista |
+
+---
