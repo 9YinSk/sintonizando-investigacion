@@ -1,1 +1,110 @@
-[]
+[
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mob_Psycho_100_logo.svg",
+  "fuente": "Wikimedia Commons (extraído y optimizado por Kuipuru/VulcanSphere de las webs oficiales)",
+  "ancho": 1200,
+  "alto": 646,
+  "que_es": "Logo oficial モブサイコ100, vectorial, magenta #C01B8B medido con Pillow, con todos los trazos cortados en diagonal",
+  "para_que": "referencia exacta del logo real para el punto 5 (tipografía del título) y para comparar con la letra libre Yukarimobile",
+  "licencia": "PD-textlogo (dominio público por no alcanzar el umbral de originalidad); aviso de marca registrada de ONE/Shogakukan/comité de producción"
+ },
+ {
+  "url": "https://www.dafont.com/yukarimobile.font",
+  "fuente": "dafont.com (fuente de Vic Fieger)",
+  "ancho": 900,
+  "alto": 300,
+  "que_es": "Letra libre Yukarimobile: mismo corte diagonal que el logo real (comprobado renderizando \"Mob Psycho 100\" con la fuente descargada); con fontTools trae á é í ó ú ñ ¿ ¡ (16 comprobadas)",
+  "para_que": "sustituto gratuito del logo/título para rótulos en español (punto 5)",
+  "licencia": "100% gratis (dafont.com, categoría Techno)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/84/Dimple_%28upper_class_evil_spirit%29.png",
+  "fuente": "wiki de Fandom (mob-psycho-100.fandom.com), escaneo del manga",
+  "ancho": 1084,
+  "alto": 1600,
+  "que_es": "Página de manga con la cartela de identificación de personaje: rectángulo blanco liso, descripción pequeña arriba (\"UPPER CLASS EVIL SPIRIT\") y nombre grande abajo (\"DIMPLE\")",
+  "para_que": "plantilla real de cartela de presentación de personaje para la lámina (punto 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1a/Reigen_Special_Technique_-_Knee_Strike.png",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 1130,
+  "alto": 940,
+  "que_es": "Panel del gag recurrente de Reigen: diagrama técnico con etiquetas de bordes irregulares unidas por líneas rectas (\"KNEE STRIKE\", \"EVIL SPIRIT\")",
+  "para_que": "referencia de cartela/infografía cómica propia de la serie (punto 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/47/Mob_100%25_Gratitude_%28Reigen_1000%25%29.jpg",
+  "fuente": "wiki de Fandom, fotograma del anime",
+  "ancho": 1060,
+  "alto": 750,
+  "que_es": "Tarjeta de título emocional 感謝/GRATITUDE con la caja de estado \"MOB 0% / REIGEN 1000%\" debajo",
+  "para_que": "referencia del único \"HUD\" de nombre+cifra de la serie, y de la tarjeta de emoción con subtítulo inglés a pincel (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7b/Dimplemusashi.png",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 1278,
+  "alto": 719,
+  "que_es": "Panel con el globo dentado (de explosión) \"RAINBOW SEAL!!!\", el grito real de la serie, con líneas de velocidad",
+  "para_que": "referencia del globo de grito/nombre de técnica para la lámina (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg",
+  "fuente": "wiki de Fandom, escaneo del manga (portada de capítulo)",
+  "ancho": 2210,
+  "alto": 1600,
+  "que_es": "Tarjeta de título emocional 怒り/ANGER a toda página, el recurso visual más reconocible de la serie",
+  "para_que": "referencia principal de la \"cartela del mundo\" de Mob Psycho para la lámina (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f1/Kindness.jpg",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 715,
+  "alto": 1013,
+  "que_es": "Tarjeta de título emocional 優しさ/KINDNESS a toda página",
+  "para_que": "segunda referencia de tarjeta emocional, para confirmar el patrón repetido (kanji + subtítulo inglés) (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/77/ClawLogo.png",
+  "fuente": "wiki de Fandom",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Logo de Claw (爪), la organización terrorista de espers liderada por Toichiro Suzuki",
+  "para_que": "emblema de grupo del mundo de la serie para el punto 25",
+  "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7e/Psychic_Battle_3.jpg",
+  "fuente": "wiki de Fandom, captura oficial del juego móvil «Mob Psycho 100: Psychic Battle» (Crunchyroll Games, 2019-2021, cerrado)",
+  "ancho": 2660,
+  "alto": 1498,
+  "que_es": "Pantalla de carga del juego: marco de \"tele\" con sello 中継 (en directo), caja blanca redondeada \"Memory\", subtítulo con contorno negro y barra de carga morada",
+  "para_que": "referencia de interfaz y caja de diálogo de videojuego oficial de la franquicia (puntos 6 y 11)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1c/Psychic_Battle_9.jpg",
+  "fuente": "wiki de Fandom, arte clave oficial del juego móvil «Psychic Battle»",
+  "ancho": 1280,
+  "alto": 1920,
+  "que_es": "Póster del juego: logo rosa \"Mobpsycho100\" + subtítulo \"Psychic Battle\", fondo amarillo con el motivo gráfico \"100%\" repetido",
+  "para_que": "referencia de cómo la interfaz de mercadeo del juego reutiliza el logo y el medidor de 0-100% de la serie (puntos 5 y 11)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://web.archive.org/web/20161005170859/https://mobpsycho100-puzzle.com/",
+  "fuente": "Wayback Machine (página oficial archivada del primer juego, «Mob Psycho 100: Psychic Puzzle», Shogakukan, 2016-2018, cerrado)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página web oficial archivada del primer juego móvil de la franquicia (puzzle de conectar 3), no es una imagen suelta",
+  "para_que": "fuente de fecha de lanzamiento y descripción del primer juego oficial (punto 11); sin medir porque es una página, no una imagen",
+  "licencia": "© Shogakukan; captura de archivo público (Wayback Machine), sólo referencia"
+ }
+]

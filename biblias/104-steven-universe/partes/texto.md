@@ -1,9 +1,9 @@
 # Parte TEXTO, JUEGOS Y TÉCNICA — Steven Universe (encargo 104)
 
 Investigador de texto (puntos 5, 6, 11, 18, 24, 25 de ENCARGO.md). Libreta de datos.
-Serie hermana: ninguna (lo dice el encargo). `datos-texto.md` venía casi vacío
-(Fandom no se buscó porque el encargo no traía `--wiki`); confirmado a mano:
-`steven-universe.fandom.com`.
+El lanzador dijo «sin hermana», pero hay un encargo previo de la misma obra
+(ver «Aviso» más abajo). `datos-texto.md` venía casi vacío (Fandom no se buscó
+porque el encargo no traía `--wiki`); confirmado a mano: `steven-universe.fandom.com`.
 
 ## Hallazgo 11 · Videojuegos de la franquicia
 
@@ -33,6 +33,9 @@ Serie hermana: ninguna (lo dice el encargo). `datos-texto.md` venía casi vacío
 - **Camp Pining Hearts** (serie ficticia dentro de la serie, que ven Peridot/Lapis/Steven): funciona como un cartel de mundo-dentro-del-mundo, con su propio logo («Camp Pining Hearts») y estética de telenovela juvenil de los 90 — sirve de referencia de «cartel» dibujado con otra letra dentro del universo · https://steven-universe.fandom.com/wiki/Camp_Pining_Hearts · ✅ (wiki + capítulo real «Log Date 7 15 2»)
 - No encontré el nombre del letrista (letterer) de los cómics oficiales de BOOM! Studios/KaBOOM! en las fichas públicas (Comic Vine devuelve 403 y, probado con un id adivinado vía `r.jina.ai`, cae en la ficha equivocada de otro cómic; League of Comic Geeks y BOOM! Studios no listan el crédito de rotulación en sus resúmenes) — el estilo del globo del cómic es el clásico americano (óvalo blanco, borde negro fino, texto en mayúsculas) pero sin confirmar la fuente exacta · ⚠️ (una sola fuente visual, sin ficha tipográfica)
 - Hay una tercera colección de cómics además de la miniserie 2014-15 y la serie regular 2017: ***Steven Universe: Harmony*** (2018, 5 números, formato especial 8"×8", guion de S.M. Vidaurri, arte de Mollie Rose, KaBOOM! Studios) — otra fuente más de «globo normal» de la franquicia si el redactor quiere variar la referencia · https://steven-universe.fandom.com/wiki/Steven_Universe:_Harmony · ✅ (wiki + nota de prensa de boom-studios.com citada dentro de la misma ficha)
+- **Grito**: en el cómic (único sitio con globos), no encontré un ejemplo de globo de grito distinto al normal (búsqueda de texto en Fandom por «shout» o «scream» + «balloon/speech» sin resultado de ficha propia) — lo más parecido en el show es puramente actuado con voz y expresión facial, no texto en pantalla · ⚠️ **no encontré un globo de grito documentado; puede no existir como recurso gráfico propio de la franquicia**
+- **Pensamiento**: la serie **no usa nubes de pensamiento**. Cuando hay que mostrar la mente de un personaje (recuerdos, sueños, terapia como en «Mindful Education»), se anima la escena entera como una secuencia propia en vez de dibujar una nube con un dibujo dentro — comprobado buscando «thought bubble» en el texto de la wiki (`list=search&srwhat=text`) sin ningún resultado de ficha propia · ⚠️ **ausencia de evidencia tras buscarlo expresamente, no until confirmarlo mirando fotogramas (tarea del investigador de vídeo)**
+- **Onomatopeya**: no encontré una onomatopeya escrita en pantalla (tipo manga, «BOOM» sobreimpreso) en ningún fotograma citado por la wiki ni en las fichas de efectos de sonido — el patrón de la serie es que el sonido es siempre audio, nunca texto grande superpuesto a la acción, a diferencia de un manga o de otros cartoons con más «cartoon violence» tipográfica (ej. Batman clásico) · búsqueda de texto «onomatopoeia», «sound effect text» en Fandom, sin ficha propia · ⚠️ **no encontré, con las búsquedas dichas; cruzar con el investigador de vídeo/voz, que sí mira escenas de acción con fotogramas**
 
 ## Aviso: hay otro encargo previo de la misma obra
 
@@ -117,6 +120,7 @@ Fuente: https://www.cbr.com/anime-that-influenced-steven-universe/ (leído compl
 - En *Unleash the Light* es la única vez que el glifo funciona como **fuente real** (sustitución letra a letra del alfabeto inglés, mayúsculas y minúsculas con signos distintos) — confirmado también con capturas reales del juego (Hallazgo 11) · ✅
 
 ### Emblemas y símbolos
+- **La estrella de 5 puntas no es sólo de la Puerta del Templo**: la wiki tiene una ficha dedicada («Gem Symbols») que confirma que **casi toda la ropa y las armas de las Crystal Gems llevan la estrella** — la camiseta de Steven, el primer traje de Perla, los recortes de Amatista, los visores de Garnet, el vestido de Rose Quartz, hasta los tatuajes de Bismuth — es el símbolo más repetido de la serie, no un detalle puntual · https://steven-universe.fandom.com/wiki/Gem_Symbols · ✅
 - **La estrella de 5 gemas** de la Puerta del Templo (rosa/Rose-Steven, crema/Pearl, morado/Amethyst, rojo/Ruby, azul/Sapphire): el emblema real del grupo, ya visto también dentro del propio videojuego *Unleash the Light* como fondo del menú de equipo (Hallazgo 11) — mejor referencia que inventar un logo nuevo para las Crystal Gems · https://steven-universe.fandom.com/wiki/Crystal_Temple · ✅ (wiki + captura propia del juego)
 - **El logo de las Diamantes**: un rombo grande dividido en 4 (Blanca arriba, Amarilla izquierda, Azul derecha, Rosa abajo); ese orden se invierte tras la reforma de Homeworld en la película · https://steven-universe.fandom.com/wiki/Gem_Glyph · ✅
 - **Cluster**: gema gigante de millones de fragmentos enterrada en el núcleo de la Tierra, visualmente manos/brazos que emergen del suelo · https://steven-universe.fandom.com/wiki/The_Cluster · ✅
@@ -129,6 +133,11 @@ Fuente: https://www.cbr.com/anime-that-influenced-steven-universe/ (leído compl
 - **Regenerate**: recuperar cuerpo nuevo tras daño grave, a veces con cambio de forma/ropa · ✅
 - **Corrupted Gem**: gema convertida en monstruo por la luz de Homeworld — el «monstruo de la semana» de las 4 primeras temporadas · ✅
 - **Off-color**: gemas «defectuosas» según Homeworld, protagonistas del grupo Off Colors en temporada 5 · ⚠️ (mención cruzada, no leí la ficha propia a fondo)
+
+### Objetos icónicos del mundo
+- **La espada y el escudo de Rose Quartz**, heredados por Steven; el escudo se manifiesta como una estrella rosa — el arma/objeto más asociado a la familia protagonista · https://steven-universe.fandom.com/wiki/Crystal_Temple · ✅
+- **León (Lion)**: el león rosa mágico de Rose Quartz guarda objetos dentro de su melena, una dimensión de bolsillo · misma fuente · ✅
+- **El Comunicador de las Diamantes**: objeto octaédrico con una faceta de color por Diamante; al girarlo y elegir un color proyecta una pantalla holográfica para hablar a distancia — es «el móvil» de Homeworld y mejor referencia que una burbuja blanca si la lámina necesita mostrar a alguien hablando a distancia · https://steven-universe.fandom.com/wiki/Diamond_Communicator · ✅ (ficha propia de la wiki, confirmada por mí)
 
 ### La historia por arcos (momentos clave)
 - **T1 (2013-15)**: Steven y las Crystal Gems protegen Beach City; arco de Lapis Lazuli trae la primera amenaza real de Homeworld (Peridot y Jasper en «Jail Break») · https://en.wikipedia.org/wiki/Steven_Universe + https://en.wikipedia.org/wiki/List_of_Steven_Universe_episodes · ✅
