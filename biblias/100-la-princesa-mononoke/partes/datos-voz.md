@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/164_
@@ -134,6 +134,16 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Mononoke#Datos%20de%20inter%C3%A9s_
 - En el segundo doblaje es interpretado por Gerardo Reyero, quien le ha dado voz en la mayoría de proyectos de la franquicia.
 - El personaje del hombre de la máscara de zorro marca el último trabajo de Gabriel Ortiz en Studio Onegai antes de su fallecimiento el 7 de diciembre de 2023.
 - En una entrevista realizada a Alejandro Bono, comentó que antes de grabar el doblaje, el cliente revisó los guiones del doblaje antes de que estos se grabaran. De igual manera, él investigó la diversa terminología del folclore de la cultura japonesa debido al contexto de la serie, para realizar de mejor manera la labor de traducción y adaptación del guion.
+
+## Ashitaka · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Ashitaka#Personality_
+
+Ashitaka is very stern and determined to achieve his goals, not allowing his setbacks to stop him from curing his curse and saving his village, or anyone in danger. He is also extremely curious in nature, wanting to discover who San truly is after witnessing her sucking venom out of one of the wolves. Despite his hard outer shell, Ashitaka is also very kind and only wishes for the best outcomes for both sides, not wishing for either side to shed blood in destructive wars, and wants peace between the forces of nature and humanity. His affinity for peace is portrayed several times throughout the movie. One example of his tendency to only fight as a last resort is his interruption of San and Eboshi's fight. Even though both are attacking him, he initially tries to convince them that hatred is blinding them, and when he's further attacked, he dispatches them in a non-lethal manner. On top…
+
+## Moro · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Moro#Personality_
+
+Moro is a very intelligent and strong wolf who would do anything to save her forest home and protect the Forest Spirit. Moro has a deep hatred for humans and dreams of the day she would finally crunch the head of Lady Eboshi. However, above all else, Moro is a very motherly and caring individual. Despite her hatred for the humans, she cares greatly for San, having taken her in after her parents abandoned her. Even though she and Ashitaka have a heated argument, she recognized his bravery and love for San when he returned even after he was told not to return to the forest twice.
 
 ## Los personajes más dibujados por los fans (Danbooru, 1109 dibujos de «mononoke_hime»)
 _Fuente: https://danbooru.donmai.us/posts?tags=mononoke_hime_

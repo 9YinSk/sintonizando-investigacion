@@ -4,12 +4,59 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/97962_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg
+
+## Taki Tachibana: las imágenes más grandes de la wiki (30 en total)
+_Fuente: https://kiminonawa.fandom.com/wiki/Taki_Tachibana_
+
+- 2067×1163 · Taki and Okudera Date.jpg · https://static.wikia.nocookie.net/kiminonawa/images/7/76/Taki_and_Okudera_Date.jpg
+- 2067×1163 · Shinta, Taki and Tsukasa.jpg · https://static.wikia.nocookie.net/kiminonawa/images/a/aa/Shinta%2C_Taki_and_Tsukasa.jpg
+- 1920×1080 · Z-Kai 3.png · https://static.wikia.nocookie.net/kiminonawa/images/d/d0/Z-Kai_3.png
+- 1920×1080 · Z-Kai 1.png · https://static.wikia.nocookie.net/kiminonawa/images/8/84/Z-Kai_1.png
+- 1920×1080 · Writing.png · https://static.wikia.nocookie.net/kiminonawa/images/3/30/Writing.png
+- 1920×1080 · Taki.jpg · https://static.wikia.nocookie.net/kiminonawa/images/6/6d/Taki.jpg
+- 1920×1080 · Taki's room.png · https://static.wikia.nocookie.net/kiminonawa/images/c/c8/Taki%27s_room.png
+- 1920×1080 · Taki's room in 2021.png · https://static.wikia.nocookie.net/kiminonawa/images/6/6c/Taki%27s_room_in_2021.png
+- 1920×1080 · Taki kun.jpg · https://static.wikia.nocookie.net/kiminonawa/images/8/84/Taki_kun.jpg
+- 1920×1080 · Mitsuha and Taki - Kataware Doki.png · https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png
+
+## Taki Tachibana · Appearance (texto de la wiki)
+_Fuente: https://kiminonawa.fandom.com/wiki/Taki_Tachibana#Appearance_
+
+Taki Tachibana is a young man of average height and build, described by Mitsuha Miyamizu in a wish as a handsome Tokyo boy. He has spiky brown hair that reaches the nape of his neck, with bangs that fall across his forehead, and dark blue eyes. A recurring detail of his appearance is the small bandages he frequently wears on his face. He is first shown with a white bandage on his left cheek. The detail suggests someone who acts on impulse and often picks up minor scrapes along the way, patching them up with whatever is on hand. His appearance visibly ages across the film's timeline, showing him grow from a boy into a young man. At 14, Taki had a smaller and lighter body. He was approximately the same height as Mitsuha during their first chance encounter in Tokyo. His middle school uniform consists of a white shirt worn with a green tie, covered by a pale yellow V-neck blazer. During…
+
+## Mitsuha Miyamizu: las imágenes más grandes de la wiki (30 en total)
+_Fuente: https://kiminonawa.fandom.com/wiki/Mitsuha_Miyamizu_
+
+- 2640×2160 · Mitsuha Miyamizu 2013.png · https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png
+- 1935×1080 · Mitsuha screaming.png · https://static.wikia.nocookie.net/kiminonawa/images/f/f2/Mitsuha_screaming.png
+- 1920×1080 · Z-Kai 2.png · https://static.wikia.nocookie.net/kiminonawa/images/4/4e/Z-Kai_2.png
+- 1920×1080 · Writing.png · https://static.wikia.nocookie.net/kiminonawa/images/3/30/Writing.png
+- 1920×1080 · Taki in Mitsuha's body.jpg · https://static.wikia.nocookie.net/kiminonawa/images/8/83/Taki_in_Mitsuha%27s_body.jpg
+- 1920×1080 · Taki and Mitsuha staircase.jpg · https://static.wikia.nocookie.net/kiminonawa/images/d/d4/Taki_and_Mitsuha_staircase.jpg
+- 1920×1080 · Takao Akizuki.png · https://static.wikia.nocookie.net/kiminonawa/images/3/32/Takao_Akizuki.png
+- 1920×1080 · Smaller pieces hit.png · https://static.wikia.nocookie.net/kiminonawa/images/4/47/Smaller_pieces_hit.png
+- 1920×1080 · Mitsuha crying.png · https://static.wikia.nocookie.net/kiminonawa/images/1/1a/Mitsuha_crying.png
+- 1920×1080 · Mitsuha and Taki - Kataware Doki.png · https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png
+
+## Mitsuha Miyamizu · Appearance (texto de la wiki)
+_Fuente: https://kiminonawa.fandom.com/wiki/Mitsuha_Miyamizu#Appearance_
+
+Mitsuha is a very beautiful teenage girl of average build and height. People around Mitsuha often say her looks resemble those of her dead mother, Futaba Miyamizu. She has brown eyes and upper-back-length black hair, which she initially wears in a traditional half-up ponytail tied with her red kumihimo braided cord. She ties the braided cord into the shape of a hairbow. This style has forehead-length bangs swept to the left and two braided sidelocks, mimicking the hairstyle of shrine maidens from ancient Japanese history. This design connects to her family's spiritual traditions before she modernizes her appearance. The red color of the kumihimo cord represents the traditional Japanese myth of the red string of fate. According to this legend, destined lovers are connected by an invisible red thread that survives time and distance. The cord is a physical expression of Musubi, the Shinto…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de kiminonawa.fandom.com (2 páginas y sus galerías)…
+  52 imágenes enlazadas, 39 grandes → 1 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/your-name-cielos-y-ciudades
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

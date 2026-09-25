@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/97962_
@@ -92,6 +92,16 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Your_Name#Datos%20de%20inter%C3%A9s_
 - Originalmente, Javier Olguín había convocado a otra persona para darle voz a Tsukasa Fujii, sin embargo, debido a que esta persona no pudo presentarse a la grabación a último momento, el mismo Javier Olguín tuvo que cubrirla y le pidió a Alondra Hidalgo que lo dirigiera en sus diálogos.
 - No hay continuidad de voz en el personaje de Yukari (quien apareció en El jardín de las palabras, doblada en Miami). Esto es debido a que Your Name fue doblada antes que El jardín de las palabras.
 - En los créditos del DVD / Blu-Ray se omitió al director de doblaje.
+
+## Taki Tachibana · Personality (texto de la wiki)
+_Fuente: https://kiminonawa.fandom.com/wiki/Taki_Tachibana#Personality_
+
+Taki Tachibana is a kind and hardworking person shaped by his daily life in Tokyo. He goes to Jingu High School and works a demanding part-time job at Il Giardino delle Parole, a fancy Italian restaurant. His social life is casual, built around easygoing hangouts with his friends. To Taki, Tsukasa Fujii is someone he can trust and an observant friend who helps him stay focused when things go wrong. He also enjoys how Tsukasa's small jokes lighten his day. He sees Shinta Takagi as a cheerful person who keeps him calm under pressure. They share a simple friendship built around their interest in architecture. His lifestyle makes him feel slightly emotionally distant from others. He is more focused on getting through the day than making new close friends. He is mostly quiet, reserved, and independent, something he developed while growing up in a single-parent household with his hardworking…
+
+## Mitsuha Miyamizu · Personality (texto de la wiki)
+_Fuente: https://kiminonawa.fandom.com/wiki/Mitsuha_Miyamizu#Personality_
+
+Mitsuha is a kind, caring, organized, and supportive girl who is also determined, sometimes persistent, sincere about her feelings, and adventurous. She is honest and does not hide her true thoughts when talking to people, especially when she is annoyed or has noticed something about them. She is tired of the close-knit lifestyle of the small, rural town of Itomori and wishes to see the world beyond it. She finds joy in the smallest details of his life when she begins switching bodies with Taki Tachibana. She is amazed by Tokyo and its city life, which serves as an escape from the suffocating expectations of her rural upbringing and her father's political ambitions. She treasures every moment spent in the city. Having grown up in the quiet town of Itomori, she finds Taki's part-time jobs tiring and stressful but adjusts quickly. She is dignified and proper, demanding that Taki behave…
 
 ## Los personajes más dibujados por los fans (Danbooru, 1543 dibujos de «kimi_no_na_wa.»)
 _Fuente: https://danbooru.donmai.us/posts?tags=kimi_no_na_wa._

@@ -309,3 +309,261 @@ arte **Yasunao Moriyasu** · diseño de color **Asuka Yokota** · CG: productor
   forma exhaustiva (YouTube pide login; el vídeo del Blu-ray en Internet
   Archive sólo cubre el OP/ED, 102 s) — **esto queda pendiente**, ver
   «Sigue:» al final.
+
+### Hallazgo visual propio: menú del Blu-ray oficial (vol. 1), mirado con fotogramas.py
+
+Vídeo real mirado (no de memoria): **Internet Archive**,
+[«Opening/Closing To Bocchi the Rock! Vol.1 2022 Blu-ray (Japanese Copy)»](https://archive.org/details/opening-closing-to-bocchi-the-rock-vol.-1-2022-blu-ray-japanese-copy)
+(1920×1080 original, 102 s — resulta ser el **menú del disco**, no el
+OP/ED en sí; igual de útil para tipografía). Extraje fotogramas con
+`fotogramas.py --cada 5` (21 fotogramas, hoja de contacto) y dos en grande a
+1280×720 con `--fotograma 55 75`, y medí color con `estilo.py`:
+
+- **0:55 — cartela de episodio, formato «ticket de concierto» inclinado**:
+  fondo magenta **`#D10249`** (26.0% de la imagen, medido con `estilo.py`) con
+  **«BOCCHI THE ROCK!»** en bloque blanco, condensado, mayúsculas, muy grueso
+  — **coincide visualmente con Anton** (ya recomendada en la tabla del punto
+  5) ✅ confirmado con imagen oficial propia, no de memoria. A la derecha,
+  franjas blancas con **«＃０３»** y el título del episodio en japonés
+  **escrito a mano con marcador** (trazo de pincel real, no tipografía
+  digital) — así se ve el patrón de «rotulador a mano para texto japonés»
+  descrito en el punto 5 en un caso real y oficial.
+- **1:15 — menú de selección de episodio, «BACK STAGE PASS»**: dos carnets
+  estilo pase de backstage, uno rosa (**`#D83D6D`**, medido) para el episodio
+  1 y uno ámbar/dorado (**`#EEAB1B`**, medido) para el episodio 2, con
+  **«BACK STAGE PASS»** en el mismo tipo de letra de bloque condensado en
+  itálica — refuerza **Anton** o una variante inclinada como letra libre para
+  rótulos de concierto/backstage. El número de episodio (`＃01`, `＃02`) y el
+  título japonés van también a mano, en marcador negro sobre recuadro blanco.
+  La portada del volumen 1 a la izquierda combina **dos familias en el mismo
+  logo**: «BOCCHI» en bloque grueso + «the Rock!» en **script cursivo fino**
+  — confirma independientemente el patrón de «cada portada mezcla letras muy
+  distintas» ya visto en instafonts.io (punto 5) ✅ dos fuentes distintas
+  llegando al mismo patrón.
+- **Estilo medido** (`estilo.py`): sombreado mixto/degradado, saturación
+  30-33%, brillo 77-80%, línea de contorno rosa/vino (`#CD457A`, `#B26F68`) en
+  vez de negro puro — coincide con la idea de «línea económica, no negro
+  puro» que dijo Kerorira sobre los personajes (arriba), extendida aquí
+  también al diseño gráfico de menús.
+- Vídeo local borrado tras sacar los fotogramas (regla del disco compartido).
+
+## Hallazgos · Punto 24 — Obras parecidas y temas relacionados
+
+- **Lista base ya reunida en `partes/datos-texto.md`** (AniList, recomendaciones
+  de usuarios, sin repetir la consulta): K-On! (1196 votos), Girls Band Cry
+  (507), Hitoribocchi no Marumaruseikatsu (402), Laid-Back Camp (240),
+  Jellyfish Can't Swim in the Night (229), WataMote (187), Nichijou (139),
+  BanG Dream! It's MyGO!!!!! (120), Sound! Euphonium (112), Comic Girls (85),
+  BanG Dream! (77) ✅ (AniList, dato ya recogido).
+- **El propio director confirma K-On! como influencia directa y consciente**,
+  no sólo parecido temático — cita textual en el «1st Bocchi Guidebook»: la
+  vio en el instituto y quiso que Bocchi the Rock quedara en el corazón de la
+  audiencia igual que K-On! 10 años después. Confirmado en **dos idiomas**:
+  inglés ([Anime News Network](https://www.animenewsnetwork.com/interview/2024-07-12/bocchi-the-rock-staff-reflect-on-growth-and-change/.213092))
+  y resumen en coreano citando la misma declaración
+  ([namu.wiki](https://namu.wiki/w/%EB%B4%87%EC%B9%98%20%EB%8D%94%20%EB%A1%9D!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98))
+  ✅.
+- **Diferencia clave con K-On! (para no repetir la lámina), según fuente
+  coreana**: K-On! es una obra de «chicas monas» con música como condimento
+  ligero (club escolar); Bocchi the Rock! trata la música y la comedia con más
+  peso real, centrada en la escena de *live house* en vez del club — fuente:
+  [namu.wiki, comparación](https://namu.wiki/w/%EC%9C%A0%EC%82%AC%ED%95%9C%20%EB%A7%8C%ED%99%94&%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98) ✅.
+- **Otras influencias/parecidos citados por Wikipedia** (misma editorial
+  Houbunsha, o influencia de diseño de personajes): **Beck** (manga de
+  músicos) y **Comic Girls** (parecido en diseño de personajes) —
+  [en.wikipedia.org/wiki/Bocchi_the_Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
+  ⚠️ una sola fuente, no repetida en una segunda.
+- **Este servidor YA tiene una lámina de K-On!** (`biblias/10-k-on/`, canal
+  **#general**, con 3 conceptos: mesa del té del club, MC de festival/Budokan
+  y tablón de la escalera) — para que el redactor NO repita esos 3 conceptos
+  en Bocchi the Rock. Datos propios, revisando el repositorio del equipo ✅.
+- **Parodias/homenajes dentro de la propia serie** (cruce entre puntos 18 y
+  24 — la serie referencia activamente otras obras, no sólo se parece a
+  ellas): Ashita no Joe (ep. 8), Dragon Ball/pose de Yamcha (ep. 9), Neon
+  Genesis Evangelion (ep. 10, ≈04:01), Minions (ep. 7, segmento «Munions»),
+  Boys Over Flowers/Hana Yori Dango (ep. 7) — mismas fuentes que el punto 18
+  ✅/⚠️ (ver tabla).
+
+## Hallazgos · Punto 25 — El mundo, la historia y sus símbolos
+
+**El mundo, en 5 líneas**: Tokio actual y real (sin fantasía). El barrio de
+**Shimokitazawa** (Setagaya) es el centro: calles de tiendas de segunda mano,
+cafés y **live houses** (salas de conciertos pequeñas, en sótano) — el destino
+de peregrinaje real de los fans ✅. La protagonista es una adolescente
+introvertida que quiere unirse a una banda de rock para dejar de estar sola.
+Confirmado con dos fuentes: [Wikipedia](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
+y `partes/datos-texto.md` (sinopsis AniList) ✅.
+
+- **STARRY**, el *live house* donde ensaya y toca Kessoku Band, está basado en
+  un local real de Shimokitazawa llamado **Shelter** — dato ya confirmado en
+  la investigación previa de esta serie (`biblias/_ya_hechas/Bocchi the
+  Rock.md` §7, con Tokyo Weekender y Voyapon como fuentes) ✅ dos fuentes
+  (no las repetí, ya estaban verificadas).
+- **Kessoku Band (結束バンド)**, el nombre de la banda, es un **juego de
+  palabras real**: «結束バンド» es literalmente el nombre japonés de una
+  **brida/precinto de cables (cable tie)** — el nombre lo puso **Ryo Yamada**
+  dentro de la ficción, y el chiste se confirma en dos sitios: el propio
+  episodio 4 (Ryo hace merchandising literal de bridas de cable para la
+  banda, `partes/datos-texto.md`→ wikitext de «Jumping Girl(s)» ya citado en
+  punto 6) y un artículo de análisis de la letra del disco debut
+  ([mikiki.tokyo.jp](https://mikiki.tokyo.jp/articles/-/33283)) ✅ dos
+  fuentes.
+- **Los nombres de los 4 miembros vienen de Asian Kung-Fu Generation**: dato
+  ya confirmado por la propia wiki (Trivia de «Eight Views», ya citado en
+  punto 18: «the band who sung the song and is the source of all Kessoku Band
+  members' names, was formed in the Kanazawa Hakkei Campus...») ✅.
+- **Objeto icónico #1 — la caja de mangos («Mango Mask»)**: confirmada en el
+  episodio 1 y en la ficha de Hitori Gotoh de la wiki (ya resuelto en la
+  investigación previa; **no es una confusión**, existe de verdad) ✅.
+- **Objeto icónico #2 — el carnet/ticket de concierto**: visto directamente
+  en el menú oficial del Blu-ray (punto 18 arriba) — el formato «ticket
+  inclinado + BACK STAGE PASS» es la identidad gráfica oficial de la propia
+  editorial del disco, sirve como vocabulario visual reconocible para
+  cualquier pieza gráfica de la serie (carteles de concierto, entradas,
+  pases) ✅ (visto yo mismo).
+- **Isosta (Issta)**: parodia de Instagram dentro del mundo de la serie, la
+  red social que usan los personajes en pantalla — confirmado en dos fuentes
+  cruzadas ya citadas en el punto 6 (wikitext + cuenta oficial de Instagram
+  real `@BTR_isosta`, que TOMA el nombre de la parodia) ✅.
+- **Historia por arcos (temporada 1, 12 episodios)**, reconstruida con la
+  lista oficial de episodios (Wikipedia ✅) y las sinopsis/tramas ya miradas
+  en la wiki de Fandom para los episodios 1, 4, 6 y 7 (arriba):
+  1. **Formación** (ep. 1-3): Bocchi, guitarrista solitaria que sólo toca sola
+     y sube vídeos como «Guitarhero», es reclutada por Nijika (baterista,
+     líder) para Kessoku Band tras faltar su guitarrista original; primer
+     concierto en STARRY dentro de la caja de mangos.
+  2. **La banda se asienta** (ep. 4-6): se suma Kita (ex-popular del insti,
+     ahora vocalista/guitarra rítmica); ensayos, primeras canciones propias,
+     merchandising casero, primeras ventas de entradas (con la espiral en
+     pixel art del ep. 6).
+  3. **Verano y crecimiento personal** (ep. 7-9): typhoon/casa de Bocchi,
+     festival escolar, encuentro con **Kikuri Hiroi** (bajista adulta,
+     borracha, de otra banda — personaje secundario muy querido) en Enoshima.
+  4. **Clímax y cierre** (ep. 10-12): tensiones y decisión de tocar en serio,
+     concierto final en STARRY, título del episodio 12 «Kimi ni Asa ga Furu»
+     (La luz de la mañana cae sobre ti) — cierre emocional de la temporada.
+  ⚠️ Reconstrucción propia a partir de fichas de episodio y sinopsis oficial
+  (bocchi.rocks/story), sin haber visto los 12 episodios completos por el
+  bloqueo de YouTube — el investigador de vídeo o quien vea los episodios
+  completos debería confirmar/ampliar esta división por arcos.
+- **Vocabulario propio que un fan reconoce al instante**: «Bocchi-chan»
+  (apodo), «Mango Mask» (マンゴー仮面), «Guitarhero» (su alias de subida de
+  vídeos), «Isosta/Issta» (red social parodia), «結束バンド» = Kessoku Band
+  (chiste de la brida de cable), «STARRY» (la sala), «Kessoku Band ZEPP
+  TOUR» / «Re:Kessoku Band» (nombres de eventos reales de la banda ficticia,
+  ya en `partes/datos-texto.md` vía la búsqueda de «collaboration» en la
+  wiki) ✅.
+
+## Lo mejor para la lámina
+
+1. El **ticket/pase de concierto inclinado, magenta `#D10249`**, con «BOCCHI
+   THE ROCK!» en bloque grueso (letra libre: Anton) y el número/título a mano
+   — visto en el menú oficial del Blu-ray vol. 1, listo para un cartel dentro
+   del canal.
+2. El **bocadillo «roto»/glitcheado** como traducción fiel de los bajones de
+   Bocchi (en vez de una burbuja blanca genérica) — con la tabla de 8 técnicas
+   distintas por episodio para variar sin repetirse.
+3. El **cable tie/Kessoku Band** como chiste visual con base real (una brida
+   de verdad) para un objeto 3D en Blender.
+4. Rig libre de **Kita** en Sketchfab (Blender 4.2.1) como referencia de
+   proporciones/pose.
+5. La frase de cierre de episodio (**ending quote**) atribuida a un personaje
+   como plantilla de cuadro de diálogo «propio de la serie».
+
+## No encontré
+
+- **Capturas de pantalla directas de la interfaz de Kirara Fantasia o
+  Kotodaman** durante la colaboración con Bocchi the Rock: confirmé que
+  ambos juegos/colaboraciones existen (con fuentes oficiales y de fans), pero
+  no pude extraer URLs de imagen servibles — Kirara Fantasia cerró en 2023 y
+  su wiki de fans dio HTTP 402 al leerla; las imágenes de Kotodaman están en
+  rutas con hash sin vista directa. ⚠️ Búsquedas hechas: «Kirara Fantasia
+  Bocchi the Rock screenshot UI» (inglés), «ことダマン ぼっち・ざ・ろっく コラボ
+  画面» (japonés). Es un extra sobre lo obligatorio del punto 11 (ya
+  confirmé qué juegos existen y cómo funcionan por texto), no lo bloqueante.
+- **El ítem de Internet Archive "Bocchi The Rock! Episode 11 secret OVA"**
+  (`archive.org/details/youtube-MWsCjdC6Siw`) resultó ser, al mirarlo con
+  `fotogramas.py`, un **AMV/音MAD hecho por fans** (remix con Blender/Krita
+  sobre clips de OTRAS obras y memes, música de DECO*27) y NO metraje oficial
+  del episodio 11 — el título en Archive.org es engañoso. Lo anoto para que
+  nadie más lo use como fuente de escenas canon.
+- **Encuadres y composición típicos por emoción** (parte del punto 18): sólo
+  confirmé un plano recurrente documentado (POV de la guitarra en directos).
+  No pude ver los 12 episodios completos porque YouTube pidió iniciar sesión
+  todo el rato de trabajo y no encontré los episodios completos (sólo
+  tráilers) en Dailymotion (comprobado con la API directa de Dailymotion,
+  `api.dailymotion.com/videos?search=...`) ni en Internet Archive (el único
+  vídeo oficial 1080p disponible es el menú del Blu-ray, no un episodio).
+  Esto es territorio del investigador de vídeo, que sí tiene puntos 2/4/9/10
+  y acceso a `episodio.py`; lo dejo anotado como pendiente real, ver
+  «Sigue:».
+- **TV Tropes, fetch directo**: da HTTP 403 (dos intentos con distinto
+  User-Agent, y el Wayback Machine no tiene copia archivada de esa URL
+  concreta) — usé el resumen que da el propio buscador web sobre esa página en
+  su lugar (con las citas ya puestas arriba), suficiente para los datos que
+  necesitaba pero sin poder citar el texto exacto línea por línea.
+- **TCRF (The Cutting Room Floor)**: no aplica — no hay videojuego propio de
+  Bocchi the Rock con contenido descartado que catalogar (confirmado: no
+  existe un juego dedicado, sólo 2 colaboraciones dentro de juegos ya
+  existentes, ver punto 11).
+- **Wayback Machine**: no hizo falta usarlo para páginas borradas — no
+  encontré ninguna página necesaria que hubiera desaparecido (todas las
+  fuentes usadas siguen activas).
+
+## Bitácora de búsqueda
+
+**Buscador web** (WebSearch), 14 búsquedas usadas de ~50:
+1. «Bocchi the Rock animation style change anxiety claymation rotoscope interview» (en)
+2. «Bocchi the Rock Keiichiro Saito director interview animation technique» (en)
+3. «ぼっち・ざ・ろっく 斎藤圭一郎 インタビュー 演出 妄想» (ja)
+4. «Bocchi the Rock font logo typeface identification» (en)
+5. «ぼっち・ざ・ろっく 4コマ 漫画 吹き出し スタイル まんがタイムきらら» (ja)
+6. «"Bocchi the Rock" manga preview pages read online official sample» (en)
+7. «Kirara Fantasia Bocchi the Rock collaboration screenshot UI» (en)
+8. «ことダマン ぼっち・ざ・ろっく コラボ 画面» (ja)
+9. «Bocchi the Rock Blender rig model free download fan» (en)
+10. «Bocchi the Rock Photoshop brush toon shader recreate style tutorial fan art» (en)
+11. «Blender anime toon shading tutorial Line Art modifier Shader to RGB cel shading guide» (en)
+12. «"Bocchi the Rock" TV Tropes "Art Shift" claymation rotoscoping site:tvtropes.org» (en)
+13. «Bocchi the Rock episode 6 pixel art dog concert tickets scene minute» (en)
+14. «Bocchi the Rock parody references episode Evangelion Perfect Blue Attack on Titan homage art style» (en)
+15. «결속밴드 이름 유래 멤버 한자» → «結束バンド 名前 由来 メンバー 漢字 一文字» (ja)
+16. «고독한 록 봇치 애니메이션 스타일 영향 유사 작품» (ko)
+17. «"Bocchi the Rock" Groove Coaster OR "Project Sekai" OR "太鼓の達人" collaboration game» (en)
+
+**Red directa** (curl/Python, sin pasar por el buscador):
+- API de Fandom `bocchi-the-rock.fandom.com/api.php` — búsqueda de texto
+  («video game», «smartphone», «collaboration») y `action=parse&prop=wikitext`
+  de 5 páginas de episodio (Jumping Girl(s), Eight Views, To Your House,
+  Lonely Rolling Bocchi, Bocchi the Rock (episode), Morning Light Falls on
+  You) — todas en inglés (la wiki está en inglés).
+- Wikipedia (`en.wikipedia.org/wiki/Bocchi_the_Rock!`,
+  `List_of_Bocchi_the_Rock!_episodes`) vía WebFetch.
+- Sakuga Blog (`blog.sakugabooru.com`), 2 artículos completos vía WebFetch.
+- `bocchi.rocks/special/zadankai/` (sitio oficial japonés) vía WebFetch.
+- Wikimedia Commons (ficha del logo SVG) vía WebFetch; descarga directa del
+  SVG dio HTTP 429 dos veces (rate limit) — no insistí más.
+- API de Sketchfab (`api.sketchfab.com/v3/models/...`) para confirmar
+  licencia y si es descargable del rig de Kita.
+- API de AnimeThemes: **HTTP 522 caído**, igual que ya avisaba
+  `datos-texto.md` — no se pudo usar en ningún momento de esta sesión.
+- API de Internet Archive (`archive.org/metadata/...`) para 3 ítems, y
+  `fotogramas.py`/`estilo.py` sobre el vídeo del menú del Blu-ray oficial
+  (21 fotogramas + 2 en grande + medición de color) y sobre el AMV de fans
+  (9 fotogramas, descartado por no ser contenido oficial).
+- API de Dailymotion (`api.dailymotion.com/videos?search=...`) para confirmar
+  que no hay episodios completos, sólo tráilers.
+- `note.com` (análisis japonés de tipografía de globos en Manga Time Kirara)
+  vía WebFetch.
+- Google Fonts (`fonts.googleapis.com/css2`), 9 fuentes descargadas y
+  comprobadas con **fontTools** (`TTFont(f).getBestCmap()`) para á é í ó ú Á
+  ñ Ñ ¿ ¡ — las 9 completas.
+- TV Tropes: 403 directo (WebFetch y curl con User-Agent de navegador); sin
+  copia en Wayback Machine para esa URL — usado el resumen del buscador en su
+  lugar, con las citas ya puestas en el texto.
+
+Sigue: ver «encuadres y composición por emoción» (punto 18) con episodios
+completos en cuanto se pueda acceder a YouTube o aparezcan en Dailymotion/
+Internet Archive — es el único hueco obligatorio que queda del punto 18; el
+resto de puntos (5, 6, 11, 24, 25) están completos con fuentes dobles donde
+fue posible.
