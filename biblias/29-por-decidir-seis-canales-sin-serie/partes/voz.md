@@ -252,6 +252,49 @@ arriba) con `fotogramas.py --fotograma` y los miré:
   otro momento, confirmarlos con vistas exactas antes de usarlos como «lo que
   ama el fandom» en la biblia final.
 
+## Lo mejor para la lámina
+
+- **Buster Moon, con minuto real**: «Todos en la ciudad tendrán una
+  oportunidad de ser estrella en vivo, en mi escenario» (0:38, [tráiler
+  latino](https://www.dailymotion.com/video/x8x2jzo?t=38)) — frase de
+  vendedor entusiasta, perfecta para el gancho de #canto.
+- **La afirmación del villano de Ralph, completa y con minuto** (1:51-2:03,
+  [tráiler](https://www.dailymotion.com/video/x8x2a6q?t=111)): sirve tal
+  cual para #noticias-gaming o para una lámina 2 de Ralph.
+- **Corrección de doblaje que hay que pasarle al redactor**: Salvador Delgado
+  NO dirigió el Bleach original de 2010 (dirigió la tanda de 2023); no poner
+  su nombre en esa frase sin arreglarla.
+- **Los DJ de KBBL (Los Simpson) no tienen actor fijo**: mejor no nombrar a
+  nadie en la lámina de Radio 24/7, decir «voces rotativas».
+- **El final de Monsters, Inc. (la puerta y el «Kitty» sin imagen)** es, con
+  fuente, la escena Pixar que más se comparte como «me hizo llorar» — un dato
+  fuerte para justificar por qué el fandom ama esta película, más allá del
+  chiste del oficio.
+
+## No encontré
+
+- **Frase textual doblada de Estela/Rosalina y de Hisagi**: sigue sin
+  aparecer un clip oficial doblado con su voz (la película de Mario es de
+  2026 y no hay clips en Dailymotion todavía más allá de tráilers sin sus
+  líneas propias; Bleach no tiene tráiler doblado con Hisagi hablando).
+  Búsquedas: Dailymotion «Super Mario Galaxy Rosalina español», «Bleach
+  Hisagi latino», «Bleach Hitsugaya doblaje latino escena» — sin resultado
+  útil. ⚠️
+- **Vistas exactas de los fandubs en español** (punto 22): YouTube pide
+  iniciar sesión desde este servidor (`yt-dlp` dio 429/«video unavailable»);
+  sólo tengo título y canal, no vistas. ⚠️
+- **Cara en las 5 emociones** (punto 13) para Estela, Buster, Meena, Mike,
+  Hisagi y Phineas: sólo hice el pase completo en Ralph (2 de 5). Es trabajo
+  de la biblia completa de cada serie, no de este documento de decisión. ⚠️
+- **Encuestas de popularidad oficiales** de Phineas y Ferb, Ralph, Monsters y
+  Sing: confirmado que no existen (Illumination, Disney y Pixar no publican
+  esas encuestas como sí hace Shōnen Jump con Bleach); la biblia ya lo decía
+  en su §9.2, lo confirmo con las mismas búsquedas sin resultado nuevo. ⚠️
+- **Gustos oficiales tipo databook** (punto 20) de Hitsugaya, Rangiku,
+  Phineas, Ferb, Candace, Ralph, Félix y Calhoun: Bleach y Disney/Pixar no
+  publican fichas tipo «databook» traducidas; lo que hay son rasgos de la
+  trama, ya anotados arriba con ⚠️ donde corresponde.
+
 ---
 
 ## Bitácora
@@ -263,3 +306,24 @@ arriba) con `fotogramas.py --fotograma` y los miré:
   Mercado, Erica Edwards, Paco Mauri, Yamil Atala, Óscar Flores, Marcela
   Páez, Salvador Delgado, Metzin R. Beyer (no existe), Agustín Sauret,
   Alejandro Mayén; búsqueda de texto «KBBL»; fichas de Los Simpson T4 y T5.
+- **Dailymotion** (API + `voz.py`/`fotogramas.py`): búsquedas «Sing Ven y
+  Canta Meena español latino», «Buster Moon español latino», «Monsters Inc
+  Mike Wazowski español latino escena», «Bleach Hisagi latino», «Super Mario
+  Galaxy la pelicula trailer latino», «Ralph el demoledor soy malo y eso es
+  bueno», «Phineas y Ferb ya se que vamos a hacer hoy latino», fandubs por
+  serie (6 búsquedas). Transcribí con Whisper (`voz.py`) el tráiler de *Sing*
+  ([x8x2jzo](https://www.dailymotion.com/video/x8x2jzo)), el de *Ralph*
+  ([x8x2a6q](https://www.dailymotion.com/video/x8x2a6q)), el de *Mario
+  Galaxy* ([x9to08e](https://www.dailymotion.com/video/x9to08e), audio poco
+  claro, no citable) y un clip suelto de Mike Wazowski
+  ([x2mx4c6](https://www.dailymotion.com/video/x2mx4c6), audio muy poco
+  claro, no citable). Saqué y **miré** 4 fotogramas del tráiler de Ralph con
+  `fotogramas.py --fotograma` para el punto 13.
+- **WebSearch** (español e inglés, 6 consultas): fandubs de Phineas y Ferb,
+  Bleach, Monsters Inc y Sing en español latino; la escena de Monsters, Inc.
+  que hace llorar (CinemaBlend); la escena de Bleach TYBW que hace llorar
+  (Sportskeeda, la muerte de Bazz-B).
+- **Arctic Shift** (Reddit): 1 intento en r/pixar, dio timeout del servicio;
+  no insistí (regla de dos intentos).
+- No usé TV Tropes, TCRF ni Wayback esta tanda: no aplican a mis puntos
+  (7, 8, 12, 13, 20, 21, 22) más de lo que ya cubrió la biblia.
