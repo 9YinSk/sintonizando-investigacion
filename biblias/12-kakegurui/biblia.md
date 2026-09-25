@@ -2002,7 +2002,66 @@ Actualizado tras la segunda pasada. Lo resuelto se tacha.
 
 ---
 
-## 21 · Bitácora de búsqueda
+## 21 · Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (falta algo que se puede conseguir) · ❌ no hecho.
+Un dato buscado a fondo y no encontrado cuenta como hecho si la búsqueda
+está en la bitácora; los datos sueltos con una sola fuente llevan su ⚠️ en
+el texto.
+
+### Los 25 puntos de «Qué investigar»
+
+| N.º | Punto | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial, en cantidad y variado | ✅ | 1051 imágenes de la wiki en 11 hojas (3 en `hojas/`), key visuals de T1 y ××, portadas de tomos, Twin y Kakkokari, BD, pachislot, pachinko, perfumes, figuras (§3, §F). Sin artbook: no existe uno de Naomura que encontrara |
+| 2 | Fotogramas de escenas icónicas, con capítulo y minuto | ⚠️ | 25 momentos mirados con minuto (§2.0) y los del subtítulo (§2.2-2.3). Pero son **853×480**, no 1080p: la copia MKV 1280×720 de Internet Archive quedó sin usar |
+| 3 | Fan art y renders 3D (referencia), 3D libre | ✅ | 7 modelos de Sketchfab con licencia leída en su API, 3 de personaje, madera CC0 de Poly Haven, fan art con autor, 20 fotos de cosplay CC (§4) |
+| 4 | Fondos y sitios, luz, paleta, texturas reales | ✅ | 6 sitios vistos en vídeo con hex medidos con `estilo.py` (§5, §17); texturas CC0 de ambientCG y Poly Haven (§5.4). El club de Cultura Tradicional, sin ver |
+| 5 | Tipografía, una letra por uso, con tildes | ✅ | 9 usos con su letra libre, comprobadas con fontTools (§6). La letra real del logo no se identificó ⚠️ |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | cartelas, subtítulos, voz en off de Suzui, carta como cuadro de diálogo, qué no hacer (§7) |
+| 7 | Personajes y encuestas de popularidad | ✅ | encuesta oficial de Gangan Joker (Mary 1.ª) + dos de fans + AniList + el autor en un podcast (§8, §9) |
+| 8 | Doblaje latino: reparto y frases | ⚠️ | 16 papeles, director y estudio; los principales con dos fuentes (ficha de la serie y del actor en Doblaje Wiki, o AniList), 3 menores con una (§10). Frases latinas oídas con Whisper (§10), pero la frase clave «¡Comencemos esta locura!» tiene una sola transcripción fiable |
+| 9 | Música y sonido | ⚠️ | opening y ending con créditos leídos en pantalla (ryo, TECHNOBOYS) (§11). No se sabe qué pista suena en las escenas fuertes, y los efectos de sonido son de oído, sin fuente |
+| 10 | Vídeos con enlace y minuto exacto | ⚠️ | tráiler y eps. 1-2 con minutos (§12.1); 11 análisis y recopilaciones de YouTube, Bilibili y TikTok sin minuto (YouTube pidió sesión) (§12.2) |
+| 11 | Videojuegos: interfaz, menús, cajas de diálogo | ⚠️ | ALL IN y Cheating Allowed descritos con fuente (§13), pero **sin capturas** de su interfaz ni de sus cajas de diálogo |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | memes («kakegurui mashou», 2026), caras, Mary «best girl», lista de errores que un fan notaría (§14) |
+| 13 | Descripción profunda de cada personaje | ⚠️ | carácter, historia, miedos, voz y dinámicas de los 4 principales y los secundarios (§8). La cara en cada emoción: 6 de 20 casillas vistas en vídeo, 4 con minuto de subtítulo (§8.1) |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Yumeko 9, Mary 10, Kirari 9, Ririka 6, Runa 3, con minuto y uso (presentar, explicar, celebrar…) (§15). Parte de los minutos son de subtítulo, no vistos |
+| 15 | Vestuario, colores, accesorios | ✅ | texto «Appearance» de la wiki, rojo medido en 5 ilustraciones oficiales (`#D6362A`), máscara blanca corregida, 5 variantes (§16) |
+| 16 | Ciudades, paisajes y fondos de pantalla | ✅ | sitios con luz y hora vistos en vídeo; 6 fondos de Wallhaven con tamaño medido y autor (§17). No hay fondos oficiales públicos |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta medida, línea y luz, vocabulario de gestos, palabras buenas y malas; frases reales por emoción para la IA de texto (§18) |
+| 18 | Estilo de dibujo y técnica, cómo replicarlo | ✅ | entrevistas a Hayashi (dos medios) y Akita (dos medios), recetas de Photoshop y Blender, rigs libres (§A). No encontré qué programas usó MAPPA; lo de las cartas en 3DCG, con una fuente ⚠️ |
+| 19 | Texturas 2D | ✅ | trama del manga vista en las hojas, papel y cartón CC0, tartán, dorso de carta (§B). Escudo del colegio: no encontrado |
+| 20 | Gustos y detalles de cada personaje | ✅ | alturas (dos fuentes), el único cumpleaños (Mary), objetos, comida y aficiones del podcast del autor (§C). No hay databook |
+| 21 | Por qué la gente la ama, escenas | ✅ | ventas 4→6,8 millones, nominación de Crunchyroll, resurgir de 2020, identificación, 4 escenas con minuto y reacción (§D). No hace llorar: se dice. La música de cada escena, sin identificar ⚠️ |
+| 22 | Fan dubs y comunidad hispana | ✅ | 4 fandubs y 6 covers con canal, vistas y fecha leídos con `yt-dlp`; memes de TikTok (sin abrir) (§E) |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | 3 cafés, karaoke, SINoALICE, exposición, pachislot, perfumes, PALE TONE, 3 figuras, cosplay CC (§F). Casi todo con una fuente (collabo-cafe) ⚠️ |
+| 24 | Obras parecidas y temas relacionados | ✅ | 9 obras de AniList, influencias dichas por la autora (Kaiji…), choque con otras láminas revisado (§G) |
+| 25 | El mundo, la historia y sus símbolos | ✅ | 5 reglas, arcos de las dos temporadas, momentos con minuto, 5 emblemas medidos, vocabulario (§H) |
+
+### El resto del encargo
+
+| Qué | Estado | Por qué |
+|---|---|---|
+| 3 conceptos de lámina | ✅ | A (la caja de Mary), B (Kirari y el acuario), C (el tablón): objeto y sitio, personaje y pose con minuto, cuadro de diálogo y letra, sitio de cada texto, profundidad, y lámina 2 (§19) |
+| 40 fuentes distintas | ✅ | 97 dominios distintos enlazados en la biblia (lo cuenta `revisar.py`) |
+| Tipo: oficiales | ✅ | web del anime (T1, ××, BD), Gangan Joker, Square Enix, G123, Avex, entrevistas a Hayashi, Akita y Kawamoto |
+| Tipo: otros idiomas | ✅ | japonés (MANTANWEB, Big Comic BROS, 4Gamer, LisAni!, Animate Times, collabo-cafe), chino (Bilibili, Zhihu), coreano (Namuwiki) |
+| Tipo: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés), Doblaje Wiki y Wikipedia sí. TV Tropes y TCRF dieron 403; Wayback no tenía la entrevista de Natalie |
+| Tipo: foros y comunidades | ⚠️ | Arctic Shift (Reddit) sólo con búsquedas de una palabra; Tumblr y X (hilo del podcast); sin Discords ni 4chan |
+| Tipo: arte | ✅ | pixiv, ArtStation, DeviantArt, Wallhaven, Safebooru, Openverse |
+| Tipo: vídeo | ⚠️ | tráiler y 2 episodios mirados de verdad; análisis de YouTube y TikTok sin mirar |
+| Tipo: código y recursos | ✅ | GitHub (subtítulos, letras, juegos de fans), Sketchfab, Poly Haven, ambientCG, CLIP STUDIO ASSETS |
+| Tipo: doblaje latino | ⚠️ | Doblaje Wiki por su API y ANMTV sí; entrevistas a los actores latinos en YouTube y créditos de Netflix, sin mirar |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1,1 MB en `hojas/`, con qué número sirve y para qué (§3.0) |
+| `referencias.json` | ✅ | 81 entradas, las mejores primero; 33 con tamaño medido (fotogramas con `#t=`, arte oficial por la API de la wiki, Wallhaven, cosplay). Las 48 sin tamaño son páginas, vídeos o modelos, no imágenes |
+
+**Avisos ⚠️ en toda la biblia: 166** (había 73 en la primera pasada).
+Casi todos son datos de una sola fuente o minutos de subtítulo sin mirar.
+
+---
+
+## 22 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
 
@@ -2098,14 +2157,70 @@ Actualizado tras la segunda pasada. Lo resuelto se tacha.
 - **Doblaje latino**: Doblaje Wiki (sólo extractos), ANMTV, Voice over
   Wiki, YouTube, TikTok.
 
+### Segunda pasada (25-sep-2026, red abierta)
+
+Cuatro investigadores y el redactor. Detalle completo en
+`partes/imagen.md`, `video.md`, `voz.md` y `texto.md`.
+
+**Red directa** (sin cupo de buscador):
+- **Fandom API** (`kakegurui.fandom.com`): wikitext de Yumeko, Mary,
+  Kirari, Ririka, Runa, Midari, Hyakkaou, Housepet, Student Council, The
+  Hundred Devouring Families, Story Arcs, Basic Vocabulary; `imageinfo`
+  para medir 12 imágenes.
+- **Doblaje Wiki API**: «Kakegurui» y las fichas de 6 actores y del
+  director. Ya no da 403.
+- `investigar_serie.py`: 11 hojas, 1051 imágenes. `estilo.py`: 9
+  fotogramas y 5 ilustraciones oficiales.
+- **Internet Archive**: eps. 1 y 2 en latino mirados con `fotogramas.py`;
+  `archive.org/metadata/kakegurui-latino` (hay MKV 1280×720 de cada
+  episodio). **Dailymotion**: tráiler x88p1dp.
+- **Redactor**: audio del ep. 1 latino (11:55-12:47) cortado con `ffmpeg`
+  y pasado por `voz.py` con Whisper small y medium (§10).
+- **Sketchfab API** (licencia de 10 modelos), **Poly Haven API**,
+  **ambientCG API**, **Wallhaven**, **Openverse**.
+- `yt-dlp --print` para 11 vídeos de YouTube (vistas y fechas de fandubs y
+  covers); TikTok lo bloqueó 3 veces.
+- `api.fxtwitter.com` para el hilo de X del podcast de Kawamoto.
+- **Wikipedia API** (ventas, Crunchyroll Awards), **Discogs API** (OST),
+  **Arctic Shift** (Reddit, sólo con una palabra).
+- WebFetch de entrevistas: easternkicks, All the Anime, MANTANWEB, Big
+  Comic BROS.NET (partes 1 y 2), CBR; collabo-cafe (7 páginas), p-town,
+  P-WORLD, pachinkovillage, g123, essential-japan.
+
+**Buscador web** (unas 30 búsquedas entre los cuatro):
+- Español: «Kakegurui opening español "Deal with the Devil" latino
+  fandub», «Kakegurui fandub español Yumeko canal youtube», «Kakegurui
+  parodia español meme doblaje TikTok», «Kakegurui opening ryo supercell»,
+  «Kakegurui acuario consejo estudiantil».
+- Inglés: «Kakegurui "why fans love" reddit», «Kakegurui manga sales
+  million copies», «"Kakegurui" "Crunchyroll Anime Awards"», «Kakegurui
+  season 2 art style more colorful Hayashi interview», «Kakegurui
+  collaboration cafe Animate», «free tartan plaid skirt pattern texture
+  CC0», «Kakegurui sound effect iconic», «NoobSubs Kakegurui 720p».
+- Japonés: «賭ケグルイ アニメ カード 3DCG 撮影 制作», «秋田学 賭ケグルイ
+  キャラクターデザイン インタビュー 顔芸», «河本ほむら "カイジ" 影響»,
+  «賭ケグルイ コラボカフェ», «賭ケグルイ 香水», «パチスロ 蛇喰夢子という女»,
+  «賭ケグルイ 壁紙 プレゼント 公式», «賭ケグルイ 効果音», «賭ケグルイ
+  オープニング ryo 作曲».
+
+**Fallaron** (dos intentos como mucho): TV Tropes y TCRF (403 y
+Cloudflare), Comic Natalie (403 directa y en Wayback), atwiki de sakuga,
+VGMdb (Cloudflare), Voice over Wiki (Cloudflare), AnimeThemes (522),
+Jikan/MAL (504), TikTok (anti-bot), YouTube (pide sesión), la copia 720p
+de `admiralkusaka4` (conexión cortada dos veces).
+
 ### Lo que NO encontré
 
 - La lista de comandos del canal (no está en el inventario).
-- Imágenes: no se pudo bajar nada; sin hojas de contacto.
-- Voces latinas de Kirari, Ririka, Midari, Sayaka y Runa; director del doblaje.
-- La frase latina de «賭け狂いましょう».
+- La frase latina de «賭け狂いましょう» **confirmada de oído**: Whisper da
+  dos versiones (§10).
 - La letra del logo.
-- Capturas de la interfaz de los dos juegos. The Cutting Room Floor: no
-  lo busqué. Wayback Machine: bloqueada.
-- Un artbook de Naomura.
-- Reddit y Arctic Shift: bloqueados.
+- Capturas de la interfaz y las cajas de diálogo de los dos juegos.
+- Qué programas usó MAPPA; una segunda fuente para las cartas en 3DCG.
+- Un artbook de Naomura; el escudo del colegio; un logo del consejo.
+- Qué pista del OST suena en cada escena fuerte; efectos de sonido con
+  fuente escrita.
+- Modelos 3D libres de Yumeko (descargable con rig), Mary y Kirari.
+- Colaboraciones fuera de Japón (no busqué en chino ni coreano).
+- Fan dubs o covers en español de *Twin* y de ××.
+- Vídeo en 1080p (lo mirado es 853×480).

@@ -283,7 +283,7 @@ del 1×06, no sirven para una lámina amable.
 | **Póster de la temporada 9** (Rick «con la cabeza muy grande») | [Deadline, galería](https://deadline.com/gallery/rick-and-morty-season-9-photos-adult-swim/) · [TheWrap](https://www.thewrap.com/creative-content/tv-shows/rick-and-morty-season-9-premiere-photos/) · [Bleeding Cool](https://bleedingcool.com/tv/rick-and-morty-and-you-thought-rick-had-a-big-head-before-season-9/) · [Cartoon Base en X](https://x.com/TheCartoonBase/status/2046986095577923870) | Primeras imágenes y póster, abril de 2026 ✅ (varias fuentes) |
 | **Arte de producción de la T9**: Rick luchador, **Summer olímpica con medalla**, **Morty con cabeza de tele** («TV Head Morty»), Jerry ejecutivo, Randy loco, Reese y Seb; y una docena de fondos (bolera, valle brillante, cabaña con ranchera) | [Rick and Morty en X](https://x.com/RickandMorty/status/2046243740625347012?lang=en) · [Bleeding Cool](https://bleedingcool.com/tv/rick-and-morty-season-9-preview-wrestler-rick-tv-head-morty-more/) | ✅ (dos fuentes). **Morty con cabeza de tele** es oro para un canal de noticias |
 | **Hoja de modelo temprana** | [Adult Swim en Facebook](https://m.facebook.com/adultswim/photos/a.10152113418021745.1073741833.67985126744/10152113418381745/) | ⚠️ |
-| **Vídeo oficial «Rick and Morty Style Guide»**: el director de arte **Jeffrey Thompson** explica lo que se hace y lo que no al dibujarlos (3 de octubre de 2018) | [adultswim.com](https://www.adultswim.com/videos/rick-and-morty/rick-and-morty-style-guide) · [YouTube 8c4hAsobciA](https://www.youtube.com/watch?v=8c4hAsobciA) | ✅ existe (dos fuentes). **Verlo antes de dibujar**: no pude abrirlo |
+| **Vídeo oficial «Rick and Morty Style Guide»**: el director de arte **Jeffrey Thompson** explica lo que se hace y lo que no al dibujarlos (3 de octubre de 2018) | [adultswim.com](https://www.adultswim.com/videos/rick-and-morty/rick-and-morty-style-guide) · [YouTube 8c4hAsobciA](https://www.youtube.com/watch?v=8c4hAsobciA) | ✅ existe (dos fuentes). **Visto en la segunda pasada** en su copia de [Internet Archive](https://archive.org/details/rick-and-morty-style-guide), 2:42: lo que enseña está en §18A |
 | Guía de estilo para Adult Swim de **Sangho Bang** | [Behance](https://www.behance.net/gallery/90220333/Rick-and-Morty-Style-Guide) | ⚠️ |
 | **The Art of Rick and Morty, vol. 2** (Dark Horse): temporadas 3 y 4, 216 páginas, con arte de Justin Roiland, **James McDermott**, **Jason Boesch**, Carlos Ortega y Andrew DeLange | [Dark Horse](https://www.darkhorse.com/Books/3006-618/The-Art-of-Rick-and-Morty-Volume-2-HC) · [Barnes & Noble](https://www.barnesandnoble.com/w/the-art-of-rick-and-morty-volume-2-jeremy-gilfor/1137831704) | ✅. Hay un vol. 1 (temporadas 1 y 2) ⚠️ de memoria |
 | Recopilación del arte | [Character Design References](https://characterdesignreferences.com/art-of-animation-9/art-of-rick-and-morty) | ⚠️ |
@@ -292,8 +292,18 @@ del 1×06, no sirven para una lámina amable.
 
 ### 3.3 Lo que falta ⚠️
 
-- **Fotogramas en 1080p** de 1×08 y 2×08: no pude bajar ninguno. Los
-  minutos de §2 dicen **dónde** parar el vídeo. Hay que sacarlos en el PC.
+- **Fotogramas en 1080p** de 1×08 y 2×08: siguen sin bajar (YouTube pide
+  iniciar sesión). Los minutos de §2 dicen **dónde** parar el vídeo. Hay
+  que sacarlos en el PC. **Segunda pasada**: sí hay ya **fotogramas de
+  1920×1080** de la wiki (sobre todo del 3×03, «Pickle Rick») en las hojas
+  de contacto (§3A), y clips de 1280×720 del 1×05, del 2×08 y de los
+  tráileres (§2.4).
+- **Segunda pasada, arte nuevo con autor**: la [hoja de modelo de
+  Morty](https://static.wikia.nocookie.net/rickandmorty/images/9/9e/Morty_model_sheet.jpg)
+  de Starburns Industries (9796×4482) y el arte de producción del 3×03
+  (Tommy Scott, Corey Booth, Justin Noel, Brianne Neumann): hojas 1 y
+  193-220 (§3A) ✅. El pressroom de WBD y el Behance de Sangho Bang siguen
+  dando 403 (dos intentos, sin copia en Wayback) ⚠️.
 - **La caja del cable**: no la he visto. Sé por el subtítulo que Rick la
   abre y le mete el cristal (0:30) y por la wiki que la vuelve a
   **conectar a la tele** ⚠️. Su forma exacta, sin comprobar.
@@ -380,13 +390,16 @@ con su lista en `indice.json`.
 | Modelo | Autor | Licencia | Para qué |
 |---|---|---|---|
 | [Television 01](https://polyhaven.com/a/Television_01) | Poly Haven | **CC0** ✅ (sin crédito obligatorio). Trae madera, metal, vidrio y desgaste | **La tele**. Es una tele antigua de mueble de madera ⚠️: compárala con la del salón de los Smith antes de usarla |
-| [CRT TV](https://sketchfab.com/3d-models/crt-tv-9ba4baa106e64319a0b540cf0af5aa9e) | Timothy Ahene | «Download Free» ⚠️: mira la licencia en la página | Tele de tubo |
-| [Small CRT TV](https://sketchfab.com/3d-models/small-crt-tv-890c6ce1f6124c02b0cad54db0fdcb52) | rhcreations | ⚠️ | Otra opción |
-| [Portal gun (Rick and Morty)](https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee) | kreems | «Download Free» ⚠️ | La pistola de portales, en primer plano |
-| [Portal Gun - Rick and Morty](https://sketchfab.com/3d-models/portal-gun-rick-and-morty-149daa9d26354c4999394773cdf9867f) | AbhijeetUnreal | «Download Free» ⚠️ | Otra pistola |
-| [Rick and Morty Meeseeks Box](https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1) | MagunDongle | ⚠️ el título no dice que se pueda bajar | **La caja Meeseeks** (concepto C) |
-| [Plumbus](https://sketchfab.com/models/ea0ca7e5d42744bb95dd32f6b5ff7f27/embed) | mskullkid | ⚠️ | Objeto de fondo |
-| [Plumbus (llavero, imprimible)](https://sketchfab.com/3d-models/plumbus-keychain-rick-and-morty-3d-printable-424de72d353049e4b6dae7ffffa5fa95) | Nima (@h3ydari96) | «Download Free» ⚠️ | Objeto de fondo |
+| [CRT TV](https://sketchfab.com/3d-models/crt-tv-9ba4baa106e64319a0b540cf0af5aa9e) | Timothy Ahene | **Free Standard** de Sketchfab ✅ (API, 25-sep): se puede bajar y usar; no es CC | Tele de tubo |
+| [Sony PVM-14L2 CRT TV](https://sketchfab.com/3d-models/none-ab19c2419c2647299ce96d027b3e7f5e) | poring | **CC BY 4.0** ✅ (API) | **Tele de tubo con licencia clara** (nueva, segunda pasada) |
+| [Small CRT TV](https://sketchfab.com/3d-models/small-crt-tv-890c6ce1f6124c02b0cad54db0fdcb52) | rhcreations | **CC BY 4.0** ✅ (API) | Otra opción |
+| [Portal gun (Rick and Morty)](https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee) | kreems | **CC BY 4.0** ✅ (API) | La pistola de portales, en primer plano |
+| [Portal Gun - Rick and Morty](https://sketchfab.com/3d-models/portal-gun-rick-and-morty-149daa9d26354c4999394773cdf9867f) | AbhijeetUnreal | **CC BY 4.0** ✅ (API) | Otra pistola |
+| [Meeseeks Box](https://sketchfab.com/3d-models/none-88525f59bb974271a0933fc7608672c2) | pythagean | **CC BY 4.0** ✅ (API) | **La caja Meeseeks** (concepto C): **usa esta** (nueva, segunda pasada) |
+| [Rick and Morty Meeseeks Box](https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1) | MagunDongle | **Sin licencia y no se puede bajar** (API) ❌ | Sólo para mirar la forma |
+| [Plumbus](https://sketchfab.com/models/ea0ca7e5d42744bb95dd32f6b5ff7f27/embed) | mskullkid | **Editorial**, no se puede bajar (API) ❌ | Sólo para mirar |
+| [Plumbus (llavero, imprimible)](https://sketchfab.com/3d-models/plumbus-keychain-rick-and-morty-3d-printable-424de72d353049e4b6dae7ffffa5fa95) | Nima (@h3ydari96) | **CC BY 4.0** ✅ (API) | Objeto de fondo |
+| [Morty Rig Blender](https://sketchfab.com/3d-models/morty-rig-blender-c99a7fbd39b84428ab99ec1af4b15800) | mfxmotions | **CC BY 4.0** ✅ (API) | **Morty con esqueleto** para posarlo en Blender |
 
 Colecciones para buscar más:
 [OblivionRazer](https://sketchfab.com/OblivionRazer/collections/rick-and-morty-a061400cdc2a454bad90869309c8b89e) ·
@@ -394,8 +407,9 @@ Colecciones para buscar más:
 
 > [!note] Crédito exacto
 > Para lo que sea CC BY, el crédito va así: «<nombre del modelo>» de
-> <autor> (Sketchfab), CC BY 4.0. **Compruébalo en la página**: la API de
-> Sketchfab estaba bloqueada y no pude leer la licencia de ninguno.
+> <autor> (Sketchfab), CC BY 4.0. En la segunda pasada (25-sep-2026) leí
+> la licencia de cada uno en la API de Sketchfab (`/v3/models/<id>`): es
+> la que dice la tabla.
 
 ### 4.2 Escenarios en 3D de fans (mirar, nunca pegar)
 
@@ -421,7 +435,7 @@ Colecciones para buscar más:
 |---|---|---|
 | **El salón de los Smith** | Paredes blancas, moqueta **tostada y verde**, **un sofá blanco y otro azul**, estantería marrón con libros y **la tele sobre un mueble** ⚠️ (una fuente: el wiki en inglés, por resumen de búsqueda). Aquí se ve el cable interdimensional (1×08) | Luz de día plana; de noche, la tele ilumina a la familia ⚠️ de memoria |
 | **El garaje de Rick** | Banco de trabajo con cacharros; ahí está Pepinillo Rick (3×03, 0:20: «On my work bench, Morty») ✅ | Luz de tubo fluorescente ⚠️ |
-| **Sala de espera del hospital** (2×08) | «Go in the waiting room, dad» (0:46) ✅. Rick conecta su aparato a la tele de la sala | Luz de hospital, fría ⚠️ |
+| **Sala de espera del hospital** (2×08) | «Go in the waiting room, dad» (0:46) ✅. Rick conecta su aparato a la tele de la sala. **Vista en vídeo** (segunda pasada): fondo azul marino con estrellas `#0A1640`, monitor médico turquesa `#1ABABA`, sábanas `#DDF0F6` ✅ ([promo, 0:08](https://www.dailymotion.com/video/x3jf16p?t=8)) | Luz fría de hospital ✅ (medida) |
 | **El plató de «Opposite News»** | Fondo **azul grisáceo** con una curva más clara ✅ (visto en el 225) | Luz de plató, plana |
 | **La tienda de Real Fake Doors** | **Pared azul muy claro** llena de **puertas de colores** ✅ (visto en el 277) | Luz de anuncio barato |
 
@@ -438,10 +452,10 @@ coinciden, el color está confirmado.
 | Camisa de Rick | `#97D7D7` | `#A6EEE6` («RickGreen») | ✅ |
 | Bata de Rick | `#E8E8E8` | — | blanco roto, nunca blanco puro |
 | Piel de Rick | `#D2C9B8` | — | grisácea, más apagada que la de Morty |
-| Pantalón de Rick | — | `#917C5D` («RickBrown») | ⚠️ una fuente |
+| Pantalón de Rick | `#8E774D` (hoja de modelo, hoja 210) | `#917C5D` («RickBrown») | ✅ (segunda pasada) |
 | Camiseta de Morty | `#FBF976` | `#FAFD7C` («MortyYellow») | ✅ |
 | Pelo de Morty | `#8F5C23` | `#82491E` («MortyBrown») | ✅ |
-| Pantalón de Morty | — | `#24325F` («MortyBlue») | ⚠️ una fuente |
+| Pantalón de Morty | `#314568` (hoja de modelo, hoja 1) | `#24325F` («MortyBlue») | ✅ (segunda pasada) |
 | Piel de Morty | `#F8C9A9` | — | melocotón |
 | Top de Summer | `#DE6DC7` | `#E762D7` («SummerPink») | ✅ |
 | Pelo de Summer | `#DB8A38` | `#E89242` («SummerOrange») | ✅ |
@@ -453,10 +467,20 @@ coinciden, el color está confirmado.
 | Traje del presentador | `#515E6E` · corbata `#918C59` | — | visto en el 225 |
 | Pared de Real Fake Doors | `#B5E4E7` | — | visto en el 277 |
 
-El **verde de portal** no lo pude medir: no tengo un fotograma con un
-portal. Las paletas de fans lo ponen en `#97CE4C` o `#88E23B` ⚠️
-([color-hex](https://www.color-hex.com/color-palette/9134),
-[ColorsWall](https://colorswall.com/palette/243091)).
+El **verde de portal**, medido en la segunda pasada con Pillow en dos
+vídeos ✅: en la [promo del 2×08, 0:20](https://www.dailymotion.com/video/x3jf16p?t=20)
+el anillo va de `#324E00` (borde) a `#AFDB30` (medio) y `#DAF81E`
+(centro): **más amarillo lima que verde puro**. En la [tarjeta de la T9,
+0:51](https://www.dailymotion.com/video/xae2lba?t=51), casi blanco:
+`#DEF7D7`. Las paletas de fans (`#97CE4C`, `#88E23B`,
+[color-hex](https://www.color-hex.com/color-palette/9134),
+[ColorsWall](https://colorswall.com/palette/243091)) salen más verdes que
+lo real. **Usa `#AFDB30`/`#DAF81E` para un portal activo.**
+
+La **tarjeta del título**: letra turquesa `#52FFEC` sobre negro
+`#000000` (tráiler T1, 1:36); en la promo de la T9, **morada** ✅.
+La **sala de los Meeseeks** (1×05) es marrón anaranjada, no el salón
+azul de los Smith: no los confundas ✅ ([vídeo, 1:10](https://www.dailymotion.com/video/x8bmk63?t=70)).
 
 ### 5.3 Texturas reales equivalentes
 
@@ -488,7 +512,7 @@ Todas las comprobé con fontTools en el archivo: ¿trae á é í ó ú ñ ¿ ¡?
 | Parecida a la de **Adult Swim** | El logo «[adult swim]» es **Helvetica Neue Condensed Bold** (desde 2003) ✅ ([Logopedia](https://logos.fandom.com/wiki/Adult_Swim), [fontinlogo](https://www.fontinlogo.com/logo/adult-swim)). Libre parecida: **Oswald** o **Bebas Neue** | OFL ✅ | **Sí** ✅ | Blanco sobre negro |
 | **Pantallita de la caja del cable** | **VT323** o **Share Tech Mono** | OFL ✅ | **Sí** ✅ | Dígitos de aparato: «CANAL 137» |
 | Gritos («¡Soy un pepinillo!») | **Bangers** o **Luckiest Guy** | OFL / Apache ✅ | **Sí** ✅ | Sólo para una palabra gritada |
-| Texto de globo (si se usa el cómic) | **Sniglet** o **Grandstander** | OFL ✅ | **Sí** ✅ | Redondas y amables. La letra real del cómic (rotulista **Crank!**) no la identifiqué ⚠️ |
+| Texto de globo (si se usa el cómic) | **Sniglet** o **Grandstander** | OFL ✅ | **Sí** ✅ | Redondas y amables. El rotulista del cómic es **Crank!** (Christopher Crank) ✅ ([Blue Juice Comics](https://bluejuicecomics.com/about/crank/), [su blog](http://crankletters.blogspot.com/p/lettering.html)); rotula a mano, **no hay archivo de su letra**. La libre más parecida a rotulado de cómic: **[Comic Relief](https://fontsource.org/fonts/comic-relief)** (OFL-1.1), con á é í ó ú ñ ¿ ¡ ✅ (fontTools, segunda pasada) |
 
 Archivos: [google/fonts](https://github.com/google/fonts) (carpetas
 `ofl/creepster`, `ofl/rubikwetpaint`, `ofl/anton`, `ofl/oswald`,
@@ -608,7 +632,9 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 - **Qué le importa**: aunque lo niega, su familia. Birdperson revela que
   «wubba lubba dub dub» significa «**I am in great pain. Please help
   me**» (1×11, 18:22) ✅: su risa es un grito de dolor.
-- **Miedo**: la soledad y perder a los suyos ⚠️ (lectura de fans).
+- **Miedo**: perder a los suyos (lectura de fans). **Con fuente**: le dan
+  miedo **los piratas** ✅ («Anatomy Park» y «Unmortricken», wiki, *Trivia*;
+  segunda pasada). Llora a escondidas por Morty en 1×10 ✅ (§18C).
 - **Cómo habla**: rápido, eructa, insulta con cariño, dice «Morty» sin
   parar (§7.2). **Cómo se ríe**: a carcajadas, con la boca muy abierta ⚠️.
   **Cómo se enfada**: párpados a media asta, ceja fruncida, dientes
@@ -666,7 +692,7 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 - **Por qué sirve**: una noticia = **una petición**. La caja se pulsa, el
   Meeseeks trae la noticia y «¡listo!». Encaja con «un hilo por noticia».
 - **Nombre en latino**: «Sr. Meeseeks» (así titula su ficha Doblaje Wiki).
-- **Voz latina**: **Ángel Lugo** ⚠️ (una fuente, ver §10).
+- **Voz latina**: **Ángel Lugo** ✅ (dos fuentes en la segunda pasada, ver §10).
 
 ### Pepinillo Rick — el meme
 
@@ -694,8 +720,8 @@ resúmenes de búsqueda; lo que describo de memoria va con ⚠️.
 |---|---|---|
 | **Michael Thompson** | **El presentador de noticias** del cable (2×08) | Fotograma 225 ✅. Está unido a su siamés Pichael: por eso «se inclina» fuera del plano |
 | **Jerry Smith** | El padre; el que sale en «Breaking news» en otra realidad (1×08, 19:09) ✅ | Voz latina **Héctor Indriago** ✅ (Doblaje Wiki y los repartos del anime) |
-| **Beth Smith** | La madre, cirujana de caballos | Voz latina: **Rebeca Aponte** y, desde la T7, **Carmen Lugo** ⚠️ (una fuente) |
-| **Mr. Poopybutthole** | Favorito de fans; sale en las escenas finales | «Ooh-wee!» ⚠️ |
+| **Beth Smith** | La madre, cirujana de caballos | Voz latina: **Rebeca Aponte** (T1-T6), **Carmen Lugo** (T7-T8) y **Arlet Matute** (T9) ✅ (dos fuentes cada una, §10) |
+| **Mr. Poopybutthole** | Favorito de fans; sale en las escenas finales | «Ooh-wee!» ✅ ([wiki](https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole)). Voz latina: Reinaldo Rojas → Nayip Rodríguez → Jaime de Abreu ⚠️ (una fuente, §10) |
 | **Evil Morty** | Favorito de fans por sus giros ✅ ([Collider](https://collider.com/best-rick-and-morty-characters-ranked/), [CBR](https://www.cbr.com/best-rick-and-morty-characters-ranked/)) | Parche en el ojo; su tema es «For the Damaged Coda» (§11) |
 | **Birdperson** | El amigo de Rick que explica el «wubba lubba» | 1×11 ✅ |
 
@@ -817,8 +843,26 @@ Ryan Elder.
 
 ## 12 · Vídeos
 
-No pude abrir YouTube (403): **no puedo dar el minuto dentro de estos
-vídeos**. Los minutos útiles están en §2, sobre el episodio.
+En la primera pasada YouTube daba 403. En la segunda (25-sep-2026)
+YouTube pedía iniciar sesión, así que **los vídeos se miraron en
+Dailymotion e Internet Archive**, con minuto (tabla de abajo y §2.4). Los
+de YouTube de esta tabla siguen **sin minuto propio**: los útiles están en
+§2, sobre el episodio.
+
+**Mirados de verdad en la segunda pasada** (`fotogramas.py`, hojas
+miradas con Read) ✅:
+
+| Vídeo | Enlace | Visto | Para qué |
+|---|---|---|---|
+| Intro: viñeta previa al título + tarjeta | [Dailymotion x8x2x8y](https://www.dailymotion.com/video/x8x2x8y) | 0:32 entero | No hay opening cantado: viñeta distinta cada vez + tarjeta (0:32) |
+| Clip del Sr. Meeseeks, 1×05 (Moviepilot) | [Dailymotion x7xeqwl](https://www.dailymotion.com/video/x7xeqwl?t=16) | 1:08 entero | Pose «Look at me!» (0:16) |
+| «Mr. Meeseeks Helps Jerry with His Golf Swing», 1×05 | [Dailymotion x8bmk63](https://www.dailymotion.com/video/x8bmk63?t=70) | 2:18 entero | La sala llena de Meeseeks (1:00-1:25) |
+| Promo «Interdimensional Cable 2: Tempting Fate», 2×08 | [Dailymotion x3jf16p](https://www.dailymotion.com/video/x3jf16p?t=8) | 0:30 entero | Sala de espera (0:08) y portal (0:20) |
+| Promo «Pickle Rick», 3×03 (HobbyConsolas) | [Dailymotion x5ve1xh](https://www.dailymotion.com/video/x5ve1xh) | 0:30 entero | El pepino en el banco (0:02) |
+| Tráiler T1 con créditos (Turner) | [Internet Archive](https://archive.org/details/turner_video_391819) | 1:45 | Grupo con armas (1:12), créditos (1:36) |
+| **Tráiler T9 subtitulado en español**, HBO Max (8-jun-2026) | [Dailymotion xae2lba](https://www.dailymotion.com/video/xae2lba?t=51) | 1:00 entero | «Hora de levantarse, hijo de perra» (0:00-0:03, subtítulo); «NUEVA TEMPORADA **25 DE MAYO**» (0:51); logo de HBO Max (0:54) |
+| «Rick and Morty Style Guide», copia del oficial | [Internet Archive](https://archive.org/details/rick-and-morty-style-guide) | 2:42 entero (66 planos) | Photoshop CC 2016.3 (0:14); cómo dibuja a Morty y a Rick (§18A) |
+
 
 | Vídeo | Enlace | Para qué |
 |---|---|---|
@@ -849,12 +893,21 @@ muchos fondos.
 
 Ver §7.4. Resumen para la lámina:
 
-- **Pocket Mortys** (2016): parodia de Pokémon. **Cerró sus servidores**;
+- **Pocket Mortys** (13-ene-2016, de **Big Pixel Studios** para Adult Swim
+  Games): parodia de Pokémon. **Cerró sus servidores**;
   los fans lo mantienen vivo con un parche de agosto de 2026 ✅. Buena noticia de
   ejemplo para el canal.
 - **Virtual Rick-ality** (2017, Owlchemy Labs): en el **garaje de Rick**.
 - **Clone Rumble** (cerrado), **MultiVersus**, **Fortnite** (apariciones).
-- No hay capturas verificadas de sus cajas de diálogo ⚠️.
+- **Segunda pasada: capturas miradas** ✅. En *Virtual Rick-ality* (6
+  capturas oficiales de Steam, 1920×1080) **no hay cajas de diálogo**: el
+  texto vive **dentro del mundo**: el cartel «SALESMAN RICK'S», una nota
+  pinchada («VOUCHER — REPLACEMENT MORTY», [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_ad09661030ad427adb462929eb8b388fdb316766.1920x1080.jpg))
+  y un **plano técnico azul** con círculos rojos («DETACH FROM BODY»,
+  «TRAP IN BALL»). En *Pocket Mortys*, una **barra rosa pálida** abajo con
+  texto negro en negrita ([crafteo, 1920×1080](https://static.wikia.nocookie.net/rickandmorty/images/2/2b/Crafting_Station_interface.png))
+  y carteles de tienda con contorno negro ([mapa, 1280×720](https://static.wikia.nocookie.net/rickandmorty/images/5/52/Salesmanrick_in_game.png)).
+  La **pantalla de combate** de Pocket Mortys sigue sin ver ⚠️.
 
 ---
 
@@ -981,6 +1034,25 @@ vídeo en ese minuto y compruébala.
 | 184 | Jon **leyendo el periódico «NEWS»** | Leer las noticias |
 | 460 | Periodista con **micrófono y la mano levantada** | **Preguntar** / abrir el debate |
 
+### Segunda pasada: poses vistas en vídeo y en las hojas ✅
+
+| Quién | Qué hace | Dónde | Sirve para |
+|---|---|---|---|
+| Rick | **Arrastra a Morty del brazo**, paso rápido | [intro, 0:08](https://www.dailymotion.com/video/x8x2x8y?t=8) | Regañar, «¡vamos!» |
+| Rick | Se levanta y **saca la pistola de portales**: «All right, that's it» | 1×08, 21:45 (transcript de la wiki) | Poner límite |
+| Rick | Primer plano cansado, **lata en la mano**, cejas caídas | [tráiler T9, 0:57](https://www.dailymotion.com/video/xae2lba?t=57) | Pensar, hastío |
+| Rick | De cuerpo entero con **el aparato del vial verde** | hoja 210 | **Presentar un invento** |
+| Morty | **Manos arriba**, asustado, ante una energía azul | [tráiler T1, 0:42](https://archive.org/details/turner_video_391819) | Miedo |
+| Morty | **Brazos abiertos** en el garaje | hoja 176 | Explicar, sorprenderse |
+| Summer | Vestido morado, **esferas de luz** alrededor, boca abierta | [tráiler T1, 1:30](https://archive.org/details/turner_video_391819) | Asombro (no triunfo) |
+| Grupo | Rick, Beth y Summer **con armas en alto** | [tráiler T1, 1:12](https://archive.org/details/turner_video_391819) | Lámina de grupo |
+| Sr. Meeseeks | Sale de la caja, **brazos arriba**, dedos abiertos | [clip 1×05, 0:16](https://www.dailymotion.com/video/x7xeqwl?t=16) | **Presentar** |
+| Sr. Meeseeks | Visera de golf, **se rasca la cabeza** | [clip golf, 0:50](https://www.dailymotion.com/video/x8bmk63?t=50) | Pensar, no entender |
+| Sr. Meeseeks | Docenas gritando, dientes apretados | [clip golf, 1:15](https://www.dailymotion.com/video/x8bmk63?t=75) | Desesperar, en grupo |
+| Pepinillo Rick | Brazo arriba con el traje de ratas | hoja 145 | **Celebrar** |
+| Pepinillo Rick | De frente con su arma, mirando a cámara | hojas 149 y 35 | **Regañar** |
+| Pepinillo Rick | Media sonrisa de listillo | hoja 147 | Presentar |
+
 ---
 
 ## 16 · Vestuario
@@ -1017,8 +1089,17 @@ Accesorio de Rick: **la pistola de portales** (verde) y la petaca ⚠️.
 
 | Fondo | Tamaño | Enlace |
 |---|---|---|
-| «Rick & Morty: 4K Portal Panic» | **3840×2160** ✅ (lo dice la página) | [Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1099810) (autor y licencia sin comprobar ⚠️) |
-| Fondos de portales, HD, 4K y 8K | varios | [Wallpapers.com](https://wallpapers.com/rick-and-morty-portal) ⚠️ |
+| «Rick and Morty, car, rainbows, Run the Jewels» | **8000×4500** ✅ (bajado y medido) | [Wallhaven](https://w.wallhaven.cc/full/yj/wallhaven-yj1z57.png), subido por baeda |
+| «Firewatch × Rick and Morty», montañas al atardecer | **3840×2160** ✅ | [Wallhaven](https://w.wallhaven.cc/full/d5/wallhaven-d51kqj.jpg), subido por wectium; origen en [Reddit](https://www.reddit.com/r/rickandmorty/comments/594jc8/) |
+| Rick y Morty, dibujo de fan | **3840×2064** ✅ | [Wallhaven](https://w.wallhaven.cc/full/g8/wallhaven-g8862e.jpg), de HanaSama; origen en [ArtStation](https://www.artstation.com/artwork/0gdRV) |
+| «Falling Out», Rick y Morty cayendo | 6300×4500 (dato de Wallhaven) | [Wallhaven](https://w.wallhaven.cc/full/j8/wallhaven-j8gqjm.jpg); autor: kcday en DeviantArt |
+| Sr. Meeseeks en la tele, cian | 3840×2160 (dato de Wallhaven) | [Wallhaven](https://w.wallhaven.cc/full/eo/wallhaven-eokvyl.png), subido por MulligaMulle |
+| «Rick & Morty: 4K Portal Panic» | **3840×2160** (lo dice la página) | [Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1099810) (autor y licencia sin comprobar ⚠️) |
+
+Segunda pasada: los tres primeros se bajaron con `curl` para medir el
+tamaño; hay 10 más en `partes/datos-imagen.md` (1920×1080 a 6144×3456,
+todos con quien los subió). Quité «Wallpapers.com»: era una página con
+imágenes, no una imagen. Todos son **de fans**: sólo como referencia.
 | Fondos oficiales de la T9 (bolera, valle, cabaña) | ? | [Rick and Morty en X](https://x.com/RickandMorty/status/2046243740625347012?lang=en) |
 
 ---
@@ -1716,8 +1797,10 @@ que doy (los de 300×300 de la API sólo sirven para elegir la pose).
   de los Smith**. Es una caja con **un botón** arriba (1×05, 2:31:
   «This is a Meeseeks Box… You press this») ✅. En Blender: caja con
   botón, **funda de cartón impresa** como la de un juguete, mesa, platos
-  del desayuno. Referencia 3D: [Meeseeks Box de MagunDongle](https://sketchfab.com/3d-models/rick-and-morty-meeseeks-box-c1480c8478c148b19ab4076bd8077be1)
-  ⚠️ (sólo para mirar la forma).
+  del desayuno. Referencia 3D: [Meeseeks Box de pythagean](https://sketchfab.com/3d-models/none-88525f59bb974271a0933fc7608672c2),
+  **CC BY 4.0** ✅ (segunda pasada, API de Sketchfab; la de MagunDongle
+  no tiene licencia: sólo para mirar la forma). Pose del Meeseeks: hoja
+  191 (recortado) y el [clip del 1×05, 0:16](https://www.dailymotion.com/video/x7xeqwl?t=16).
 - **Personajes**: **tres Sr. Meeseeks** recién salidos de la caja (pose
   del 242, sonriendo), cada uno **sujetando un objeto real**: un
   **periódico «NEWS»** (como el de Jon, ref. 184), una **claqueta** y un
@@ -1761,24 +1844,46 @@ dueño**: no los invento.
 
 ## 20 · Lo que no pude verificar
 
-- **Fotogramas en alta**: ninguno. Sólo los de 300×300 de la API.
-- **Cómo son la caja del cable y la tele de los Smith**: sin ver. Sé que
-  hay tele sobre un mueble (wiki, una fuente) y que Rick abre la caja y
-  mete el cristal (subtítulo).
-- **Frases en latino** sin fuente: «Ven a ver la televisión», «¡Mírenme!»,
-  «Muéstrenme lo que tienen», «¡Mira, Morty, me acabo de convertir en un
-  pepinillo!», «Voltea el pepinillo, Morty», y el título latino del 1×08.
-- **Voces latinas** con una sola fuente: Beth (Rebeca Aponte y Carmen
-  Lugo), Sr. Meeseeks (Ángel Lugo), el reparto del anime salvo Rick y
-  Morty, y quién dirige el doblaje.
-- **Licencias de Sketchfab**: la API estaba bloqueada; ninguna leída.
-- **El vídeo «Style Guide»**: existe, pero no pude verlo. Sus reglas de
-  dibujo, sin saber.
-- **Qué dicen los rótulos** de los programas del cable (su letra, color):
-  sin ver.
-- **La tipografía de los cómics** de Oni Press (Crank!): sin identificar.
-- **Encuesta oficial de popularidad**: no existe o no la encontré.
-- **El verde de los portales**: sin medir.
+Actualizado en la segunda pasada (25-sep-2026). Tachado = resuelto.
+
+**Sigue sin verificar** ⚠️:
+
+- **Fotogramas en 1080p del 1×08 y del 2×08**: YouTube pide iniciar
+  sesión y no encontré esos episodios en Dailymotion ni en Internet
+  Archive. Hay 1920×1080 de otros capítulos en las hojas (§3A).
+- **La caja del cable y la tele de los Smith**: sin ver de cerca.
+- **Frases en latino** sin fuente textual: «Ven a ver la televisión»
+  (sólo un vídeo de Facebook), «¡Mírenme!», «Muéstrenme lo que tienen»,
+  «¡Mira, Morty, me acabo de convertir en un pepinillo!», «Voltea el
+  pepinillo, Morty». No hay subtítulos latinos con tiempos.
+- **Voces latinas con una sola fuente**: Mr. Poopybutthole (tres
+  actores), Hombre Pájaro, el estudio exacto de cada temporada (Dvinxi,
+  AGP, IDS) y quién lee los insertos desde la T4.
+- **Qué dicen los rótulos** de los programas del cable (su letra, color).
+- **Encuesta oficial de popularidad**: no la encontré (en inglés y en
+  español).
+- **Altura, cumpleaños y comida favorita** del reparto principal: no hay
+  ficha oficial (§18C).
+- **Minuto de las escenas tristes** de 5×03 y 7×04 (§18D) y el episodio
+  de la T8 que citan los fans.
+- **Vistas** de dos fandubs (§18E); **pantalla de combate** de Pocket
+  Mortys; **licencias de BlendSwap** una por una; el **pressroom de WBD**
+  y el **Behance de Sangho Bang** (403); la **petaca de Rick** y el traje
+  de luchador de la T9 (sin imagen grande para medir).
+
+**Resuelto en la segunda pasada** ✅:
+
+- ~~Licencias de Sketchfab~~: leídas en su API (§4).
+- ~~El vídeo «Style Guide»~~: visto entero en Internet Archive (§18A).
+- ~~El verde de los portales~~: medido en dos vídeos (§5).
+- ~~La tipografía de los cómics~~: el rotulista es Crank!, que rotula a
+  mano; alternativa libre comprobada (§6).
+- ~~El director del doblaje~~: Ángel Balam, T1-T2 (§10).
+- ~~Beth y el Sr. Meeseeks con una fuente~~: ya con dos (§10).
+- ~~El reparto del anime salvo Rick y Morty~~: ANMTV + Doblaje Wiki (§10).
+- ~~Cajas de diálogo de los juegos~~: miradas; no hay cajas, hay objetos
+  con texto (§13).
+- ~~Título latino del 1×08~~: «Televisión interdimensional» (§2).
 
 ---
 
