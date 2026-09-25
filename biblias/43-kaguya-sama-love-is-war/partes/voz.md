@@ -228,10 +228,18 @@ Fuente de personalidad: wikitext completo de `kaguyasama-wa-kokurasetai.fandom.c
 (secciones `Personality` y `Trivia` de cada página — el recolector ya traía la
 de Chika e Ishigami; añado aquí Kaguya, Miyuki, Ai Hayasaka y Miko Iino
 completas). Caras y minuto: fotogramas propios de dos tráilers oficiales de
-Dailymotion (`fotogramas.py --cortes`); como no encontré ningún episodio
-completo en Dailymotion/Internet Archive (YouTube pide sesión desde este
-servidor), la cobertura de emociones por personaje está limitada a lo que
-aparece en tráiler — lo digo también en «No encontré».
+Dailymotion (`fotogramas.py --cortes`) para Kaguya, Miyuki, Chika e Ishigami.
+Para Ai Hayasaka y Miko Iino probé además un tráiler largo de 9:51
+(Dailymotion x9lifrs, 141 fotogramas con `--cortes`) y un clip de "S2 Episode
+01" (x84di3i): ninguno las enfoca de cerca con claridad (aparecen de fondo o
+en planos muy cortos) y no encontré ningún episodio completo en
+Dailymotion/Internet Archive (YouTube pide sesión desde este servidor), así
+que para esas dos cubrí el punto 13 con **arte oficial de la galería de la
+wiki** (`.../Ai Hayasaka/Image Gallery` y `.../Miko Iino/Image Gallery`, listado
+completo por `prop=images`), contrastado cara por cara contra su ficha de
+AniList para no confundir personajes — con fuente y **tamaño** (no hay minuto
+de vídeo, pero sí imagen y medida real, como pide AYUDANTE.md para arte
+oficial).
 
 #### Kaguya Shinomiya (四宮かぐや)
 - **Apodos reales, de su propia ficha**: "Princesa de Hielo" (en secundaria),
@@ -330,6 +338,24 @@ aparece en tráiler — lo digo también en «No encontré».
   voz (ver frase textual arriba).
 - **Dinámicas**: 10 años al servicio de Kaguya; sensible por no haber tenido
   nunca una cita propia (de ahí el meme "Justice for Hayasaka", punto 12).
+- **Cara en cada emoción, con fuente y tamaño** (no encontré vídeo propio con
+  minuto — YouTube pide sesión y los tráilers de Dailymotion que sí tengo no
+  la enfocan de cerca; cubro el hueco con arte oficial de la wiki, confirmado
+  contra su ficha de AniList: pelo rubio/dorado, ojos azules — lo tenía mal
+  anotado antes de mirar la imagen, no es morena):
+  - **Seriedad/neutral** — icono oficial de perfil (render del anime usado en
+    el infobox de la wiki), mirada seria de lado ✅ 713×605→**272×272**
+    (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Hayasaka_face_1.png).
+  - **Vergüenza/culpa** — panel de manga en blanco y negro, ojos cerrados,
+    cabeza gacha, rayos de tensión de fondo (título del archivo, "Haya
+    Guilt") ✅ **713×605**
+    (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Haya_Guilt.png).
+  - **Ternura/cariño hacia Kaguya** — portada a color del **capítulo 93**
+    ("Kaguya Wants to Take Him Out"), Hayasaka abraza a Kaguya por detrás con
+    una mirada suave; el propio rótulo de la portada dice "The two of them
+    were raised like sisters... Will they become more than friends?" ✅
+    **869×1300**
+    (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Chapter93-01.jpg).
 
 #### Miko Iino (伊井野ミコ) — 3ª en la encuesta de nlab, por delante de Ishigami y Shirogane
 - **Carácter**: sentido de la justicia obstinado y rígido; cree que la moral
@@ -345,6 +371,20 @@ aparece en tráiler — lo digo también en «No encontré».
 - **Dinámicas**: idolatra a Chika Fujiwara al punto de obedecerla en
   cualquier cosa; su tensión con Ishigami (lo acusa de pervertido sin razón)
   es un gag recurrente.
+- **Cara en cada emoción, con fuente y tamaño** (mismo hueco que Hayasaka:
+  sin vídeo propio con minuto, cubierto con arte oficial de la wiki,
+  confirmado contra su ficha de AniList — pelo castaño/pelirrojo, ojos rojos,
+  flequillo recto):
+  - **Miedo/vergüenza** — captura del anime en primer plano, ojos muy
+    abiertos y lágrimas asomando mientras se tapa la boca comiendo (encaja
+    con su trivia del punto 20: "come mucho y le da vergüenza") ✅
+    **855×483** (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Awh_she%27s_scared.PNG).
+  - **Alegría/halago** — panel de manga, sonrojada y sonriendo tras un
+    cumplido de Ishigami ("Ishigami's being so nice today!") ✅ **963×605**
+    (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Aww_she%27s_happy_that_ishigami_complimented_her.PNG).
+  - **Risa/complicidad** — panel de manga, ojos cerrados riendo de lado
+    ("Heh") ✅ **491×423**
+    (kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Heh.PNG).
 
 ### Punto 20 — Gustos y detalles de cada personaje
 
@@ -508,14 +548,19 @@ tras años de que la tacharan de mandona.
   YouTube bloquea `yt-dlp` con «inicia sesión» desde este servidor; sólo
   tengo título y nombre de canal de los resultados de búsqueda.
 - **Episodios completos** en Dailymotion o Internet Archive: sólo hay
-  tráilers oficiales (0:30 a 1:55); no encontré ningún episodio completo
-  fuera de YouTube, así que la cobertura de "cara en cada emoción" (punto 13)
-  está limitada a lo que sale en esos dos tráilers — cubrí bien a Kaguya,
-  Miyuki, Chika e Ishigami, pero **no conseguí fotogramas propios con
-  emoción clara de Ai Hayasaka ni de Miko Iino** (aparecen en los tráilers
-  pero de espaldas o en planos muy cortos, no identificables con confianza).
-  Es un hueco real que el redactor debería cubrir con arte oficial (punto
-  1, del investigador de imagen) si hace falta cara+emoción de esas dos.
+  tráilers oficiales (0:30 a 9:51) y un par de clips cortos; no encontré
+  ningún episodio completo fuera de YouTube. Probé también
+  `archive.org/advancedsearch.php?q=kaguya-sama` — sólo hay subtítulos sueltos
+  (`kaguya-sama_love_is_war_en-dub_subtitles`, sin vídeo) y un ítem de scans
+  de Blu-ray (`kaguya-sama-wa-kokurasetai-bd-scans-luoq`, 168 PNG de ~23 MB
+  cada uno — demasiado pesado para mirar uno a uno sin saber qué contienen,
+  no lo usé). Para Ai Hayasaka y Miko Iino, sin minuto de vídeo, cubrí "cara
+  en cada emoción" con arte oficial de la wiki (ver punto 13 arriba) en vez
+  de dejarlo en blanco.
+- **AnimeThemes** (`api.animethemes.moe`), sugerido en el encargo para openings
+  y endings con muchos personajes: la API no respondió, tiempo agotado (probé
+  2 veces, timeout de 15-25 s cada una) — no es un 403 ni un bloqueo, parece
+  el propio servicio caído o inalcanzable desde este contenedor.
 - **Reacciones con votos reales del público hispano** a las escenas que
   hacen llorar (punto 21): lo que cité son reseñas en español (Código
   Espagueti, El Palomitrón), no hilos de foro con conteo de votos como los
@@ -573,14 +618,17 @@ inglés (Kaguya-Ice, Kei, Chika, Ishigami), Dailymotion (tráilers).
   (Kaguya, Shirogane, Chika, Ishigami, Ai Hayasaka, Miko Iino, Narrador) —
   frase textual + tono/velocidad medidos, no de oído. `fotogramas.py --cortes`
   sobre el tráiler oficial de la 3ª temporada (Dailymotion x8bc80m, 68
-  fotogramas, 0:00-1:54) y el tráiler de la película (Dailymotion x8f2tz7, 23
-  fotogramas, 0:00-0:35) — miradas con Read, elegidos los que muestran cara y
-  emoción reconocible.
-
-Sigue: falta (1) buscar arte oficial o fotogramas con cara reconocible de Ai
-Hayasaka y Miko Iino para completar el punto 13 (sólo tengo cita textual y
-personalidad de ambas, no expresión facial con minuto propio — puede que el
-investigador de imagen ya tenga algo útil en sus hojas de contacto); (2) si
-aparece un episodio completo doblado en Internet Archive/Dailymotion más
-adelante, repetir `voz.py`/`fotogramas.py` sobre él para frases y caras con
-más contexto que un tráiler.
+  fotogramas, 0:00-1:54), el tráiler de la película (Dailymotion x8f2tz7, 23
+  fotogramas, 0:00-0:35), un tráiler largo de 9:51 (x9lifrs, 141 fotogramas) y
+  un clip corto (x84di3i, 33 fotogramas) — miradas con Read; de los dos
+  últimos no salió ninguna cara identificable de Hayasaka/Miko con confianza
+  (los descarté tras mirarlos, tenían otros personajes). Para esas dos,
+  imágenes de `kaguyasama-wa-kokurasetai.fandom.com` vía API
+  (`action=query&titles=<Personaje>/Image Gallery&prop=images`, listado
+  completo, y `prop=imageinfo&iiprop=url|size` con cabecera
+  `Referer: https://www.fandom.com/` para bajarlas) — 6 imágenes miradas con
+  Read y contrastadas contra AniList antes de citarlas (evité confundir a
+  Hayasaka, rubia, con Miko, castaña, algo que casi hago con un fotograma
+  ambiguo de x84di3i). `archive.org/advancedsearch.php` para episodios
+  completos (nada útil, ver «No encontré»). `api.animethemes.moe` (timeout,
+  no usable desde aquí).

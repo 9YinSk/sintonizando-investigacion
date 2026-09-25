@@ -32,7 +32,7 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 ending»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
-- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
+- Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
@@ -46,7 +46,7 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 escena»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
-- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
+- Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz

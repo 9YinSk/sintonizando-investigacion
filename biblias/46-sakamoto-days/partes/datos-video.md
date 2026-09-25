@@ -64,18 +64,18 @@ _Fuente: https://archive.org_
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_
 
-- SAKAMOTO DAYS Original Sound Track Anime original Mix Vol.1 · Yuki Hayashi · 2025-03-22 · https://musicbrainz.org/release-group/48a2b48a-6ecb-4c01-8ad4-9a670d7ab012
-- SAKAMOTO DAYS Original Sound Track Hayashi special Mix Vol.1 · Yuki Hayashi · 2025-03-22 · https://musicbrainz.org/release-group/1dd61c88-037a-44bc-9722-16fddd2e0d4e
 - SAKAMOTO DAYS Original Sound Track Hayashi special Mix Vol.2 · 林ゆうき · 2025-09-15 · https://musicbrainz.org/release-group/98fa511f-349c-4e3b-8d96-b21feea17d84
+- SAKAMOTO DAYS Original Sound Track Hayashi special Mix Vol.1 · Yuki Hayashi · 2025-03-22 · https://musicbrainz.org/release-group/1dd61c88-037a-44bc-9722-16fddd2e0d4e
+- SAKAMOTO DAYS Original Sound Track Anime original Mix Vol.1 · Yuki Hayashi · 2025-03-22 · https://musicbrainz.org/release-group/48a2b48a-6ecb-4c01-8ad4-9a670d7ab012
 - SAKAMOTO DAYS Original Sound Track Anime original Mix Vol.2 · 林ゆうき · 2025-09-15 · https://musicbrainz.org/release-group/f151d2c6-ff09-4dff-a25c-176f771a3c36
-- Seven Days · Scott Gilman · 1999 · https://musicbrainz.org/release-group/89f3ca48-0b7e-31d1-9b1c-fc5b47c2448f
 - Earth Days · Michael Giacchino · 2009-08-18 · https://musicbrainz.org/release-group/2f587244-f032-47b1-aac5-0a7785091a48
+- Seven Days · Scott Gilman · 1999 · https://musicbrainz.org/release-group/89f3ca48-0b7e-31d1-9b1c-fc5b47c2448f
 - Wonderful Days · 김원일 · 2003-06-27 · https://musicbrainz.org/release-group/22d197bd-9b4f-3873-aef8-4094d9fff955
-- Salad Days · Julian Slade · 1994 · https://musicbrainz.org/release-group/3446a3a8-f5ed-4268-9eea-607a880b33bf
 - Thirteen Days · Trevor Jones · 2000-12-01 · https://musicbrainz.org/release-group/d97d068d-4101-4439-8cca-f9ee199f7e88
+- Salad Days · Julian Slade · 1994 · https://musicbrainz.org/release-group/3446a3a8-f5ed-4268-9eea-607a880b33bf
 - Strawberry Days · Hanan Townshend · 2017-03-31 · https://musicbrainz.org/release-group/67df9aa5-c639-4e64-9c71-238be565724f
 - Spring Days · Menguy-Bérenguer · 2017-07 · https://musicbrainz.org/release-group/e29385b6-39f3-4c00-a548-7dec150a1e8b
 - Desert Days · Blanco White · 2019-10-25 · https://musicbrainz.org/release-group/15dcf2af-4060-4795-beaa-4016c2f74ec4
-- Bangalore Days · Gopi Sundar · 2014-05-30 · https://musicbrainz.org/release-group/75757121-e521-4c9f-b9f6-662476169f6c
-- 400 Days · Wojciech Golczewski · 2016-05-06 · https://musicbrainz.org/release-group/8766d3df-f9f2-497a-9a9d-aae4388dcff9
 - College Days · Gaurav Dagaonkar · 2008-01-07 · https://musicbrainz.org/release-group/48401d7b-c813-4040-a5dc-0803dc398243
+- Bangalore Days · Gopi Sundar · 2014-05-30 · https://musicbrainz.org/release-group/75757121-e521-4c9f-b9f6-662476169f6c
+- Dug Days · Andrea Datzman, Curtis Green · 2021-09-01 · https://musicbrainz.org/release-group/1caf4827-aa79-407f-bb8e-7830aea30445

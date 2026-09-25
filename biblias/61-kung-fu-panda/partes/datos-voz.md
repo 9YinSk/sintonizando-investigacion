@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: no encontré la página de «Tigresa» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/manga/90886_
@@ -90,15 +90,20 @@ _Fuente: https://kungfupanda.fandom.com/wiki/Po#Personality_
 
 ]] Po is usually easygoing, playful, and cocky like a big kid, as well as rather "fanboyish" when expressing his love for kung fu. In the first film, he is seen as a huge kung fu fan, owning posters and action figures of his favorite warriors, but is himself clumsy, portly, and having low self-confidence, only dreaming he could be a great warrior while feeling stuck in his unfulfilling life at his father's noodle shop. But when given the chance, he is all too eager to learn kung fu the hard way, enduring physical beatings and insults in hopes of changing who he is. After learning that "there is no secret ingredient", Po shows the inner strength to save the Valley of Peace by using his own skills and ingenuity and in the end becomes his own hero. Po possesses a kind and selfless nature, and is generally friendly and laid-back. He also has a strong sense of justice, and is willing to risk…
 
+## Tigress · Personality (texto de la wiki)
+_Fuente: https://kungfupanda.fandom.com/wiki/Tigress#Personality_
+
+]] Tigress is the strongest and boldest of the Furious Five. She is noted to have the typical qualities of a hero: overachieving, brave, fearless, and willing to do anything to save the day. The one exception to her willingness, however, was to believe in Po, whom she thought was a joke. But even the strongest can be wrong, and Tigress learned that destiny sometimes arrives in unexpected ways. Since the events of the first film, she has been unwaveringly loyal to Po and what he represents as the Dragon Warrior. But underneath her stoic, iron-jawed exterior is a warm compassion that others seldom see. She is generally friendly, but the least sociable of the Five, and can be very intimidating at times due to her incredibly serious and direct demeanor. In many scenes of the first film in which the other four of the Furious Five and/or Po were joking or having fun, Tigress would often…
+
 ## Shifu · Personality (texto de la wiki)
 _Fuente: https://kungfupanda.fandom.com/wiki/Shifu#Personality_
 
 training in the Jade Palace]] Master Shifu was seen as a loving father and devoted teacher to a young Tai Lung when the cub first showed up. But after Tai Lung's betrayal, he became distant, a firm and uncompromising taskmaster to his students. It wasn't until he expected to depart from his students one last time that he confessed he was proud of them all, including Tigress, who especially sought to earn his approval. Since Po's heroism in becoming the Dragon Warrior, Shifu has let go of his bitterness and attained inner peace. 's enthusiasm in Kung Fu Panda]] He also appears to have a bit of a devious side, and before befriending Po, was shown to have a cruel sense of humor. This was shown from the moment Shifu met Po, as he seemed to take delight in trying to drive the amateurish panda away, slowly turning up the heat with every challenge he gave Po and chuckling to himself at his…
 
-## Oogway · Personality (texto de la wiki)
-_Fuente: https://kungfupanda.fandom.com/wiki/Oogway#Personality_
+## Tai Lung · Personality (texto de la wiki)
+_Fuente: https://kungfupanda.fandom.com/wiki/Tai_Lung#Personality_
 
-]] Oogway was seen as a reasonable and noble master who would remain calm in serious situations, most likely due to his strong faith in others and his ability to foresee the future. Unlike his student, Shifu, he never showed any signs of fury, impatience, or outrage. However, he could be firm at times, such as when he once told Monkey to leave the town at once due to his foolish pranks. He believed in letting things happen in their time and course, instead of trying to change or control them. Oogway's attitude was usually very humble and passive, and he is seen to be compassionate, as shown when he consoled Po about his disappointing first day of training, and when he saved Monkey's life during a duel. His prophecies and advice are, like all other prophetic characters such as the Soothsayer, said in a manner that one may describe as "cryptic". He would, however, sustain a firm,…
+]] As an adult, Tai Lung was shown to be dark, dangerous, and arrogant. However, in the past when he was raised and trained by Shifu, he seemed to be a happy, energetic cub with much talent and dedication to the arts of kung fu and was viewed as a kung fu prodigy in the eyes of his loving father and master. Over the years, Tai Lung grew to into a strong and fierce warrior, having achieved much as a student, even mastering all one thousand scrolls of kung fu. However, his ultimate goal was to be the Dragon Warrior and be handed the Dragon Scroll, which he firmly believed was his destiny. However, at the moment when Shifu presented him to Oogway, the old master indicated Tai Lung was not the one, much to their shock. Expecting Shifu to speak for him on his behalf, he received an emotional blow when his master made no attempt to protest and Tai Lung saw this as an act of betrayal. It was…
 
 ## Los personajes más dibujados por los fans (Danbooru, 174 dibujos de «kung_fu_panda»)
 _Fuente: https://danbooru.donmai.us/posts?tags=kung_fu_panda_

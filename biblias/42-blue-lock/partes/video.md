@@ -95,7 +95,21 @@ De los 4 personajes que pide el encargo (Isagi, Bachira, Nagi, Rin), los dos epi
 
 ## No encontré
 
-## No encontré
+- **AnimeThemes.moe**: error 522 (caído) en los 3 intentos hechos entre `datos-video.md` y esta tanda (ES/EN, 25-sep-2026) — no se pudieron bajar los `.webm` limpios de OP/ED. Sustituido con Wikipedia+ANN+MusicBrainz (punto 9) y con los OP/ED vistos dentro de los episodios completos.
+- **YouTube en directo**: pide iniciar sesión desde este servidor (confirmado varias veces, distintos vídeos) — todo el punto 10 se resolvió con copias oficiales en Internet Archive y clips en Dailymotion, como indica AYUDANTE.md.
+- **Episodio 1 real de la temporada 1** (audio japonés o cualquier idioma): no está en Internet Archive — búsquedas `blue lock episode 1`, `blue lock 01 vostfr`, identificadores `blue-lock-1-01-vostfr`, `blue-lock-01-vostfr`, `bl-s1` (vacío), `blue-lock-s-1-part-2_202311` (vacío), `blue-lock-1-4` (resultó ser la grabación de un streamer, descartada). Detalle completo en `episodios.md`. ⚠️ No es que el episodio "no exista": simplemente no hay copia accesible en las fuentes permitidas (YouTube bloqueado).
+- **Episodio 11 T1 completo** («The Final Piece», el Direct Shot): no hay copia entera en Internet Archive (búsquedas `blue lock episode 11`, `blue-lock-*-11-vostfr`) — sólo el clip oficial reeditado de 19s (`youtube-B_o-Fty-QFc`), que sí se miró fotograma a fotograma.
+- **Sonido viral exacto de TikTok** para los AMV de Blue Lock: sin acceso directo a TikTok desde este servidor; se confirmó el patrón (mismo AMV republicado en Dailymotion con el número de episodio en el título) pero no el nombre del audio/sonido de tendencia. ⚠️
+- **Hex de la sala de vestuario de Japón U-20** (T2E09, ~9:44-11:36): visto pero no medido con `estilo.py` por falta de tiempo en la tanda anterior — sí quedó una impresión visual anotada en el punto 4. ⚠️
+- **Textura CC0 específica de "césped nocturno de estadio con reflectores"**: no aparece en ambientCG con ese nombre; se deja la genérica `Grass005/Grass001` ya citada en `imagen.md`. ⚠️
+- **Lista oficial de pistas del OST** (para confirmar los nombres `CHIGIRI.mp3`, `NAGI.mp3`, etc. citados en el punto 9): sólo se encontró la recopilación de fan en Internet Archive; no hay tracklist oficial de Kodansha/Eight Bit accesible desde este servidor para cotejar como segunda fuente. ⚠️
 
 ## Bitácora de búsqueda
+
+- Internet Archive, `advancedsearch.php?q=identifier:blue-lock*` (EN) → lista completa de items con "blue-lock" en el identificador: reveló `blue-lock-nagi` («Candado Azul Película», audio español, 90:49 min — resultó ser la película recopilatoria *Blue Lock: Episode Nagi*) y los episodios sueltos `blue-lock-2x-10-vostfr`, `blue-lock-2x-11-vostfr`, `blue-lock-2-12-vostfr`, `blue-lock-2-13-vostfr` (no vistos por falta de tiempo, quedan como fuente futura).
+- `ffprobe`/`ffmpeg` directo contra la URL de descarga de `blue-lock-nagi` (sin bajar el archivo entero) para extraer fotogramas por rango de segundos: confirmado que Internet Archive admite range requests, igual que hizo el investigador anterior con `blue-lock-1-4`.
+- Fandom `bluelock.fandom.com/api.php`, `action=query&list=search&srwhat=text` (EN) con `Bachira Team Z Team V match` → confirmó la página «Team V vs Team Z» (episodios 8-11 T1, marcador final 5-4, alineaciones completas con número de camiseta) — usada para ubicar la escena de Bachira en la película de Nagi.
+- Fandom, página «Team Z» (EN): roster general con Bachira #8; la página del partido «Team V vs Team Z» lo lista como #7 — los números de camiseta de Blue Lock cambian de partido a partido según ranking, no sirven para identificar personajes de un vistazo; se identificó a Bachira por su pelo turquesa/menta y colmillos, no por dorsal.
+- `curl` a `api.animethemes.moe/anime?filter[slug]=blue-lock` (EN), 25-sep-2026 → sin respuesta / error de conexión, tercer intento fallido, se abandona esta fuente definitivamente (AYUDANTE.md: no más de 2-3 intentos a la misma web).
+- Barrido propio con `fotogramas.py --cada 180` (barrido completo de los 90 min) y luego `--cada 60` (tramos de 15 min) sobre `blue-lock-nagi` para ubicar la parte del partido Team Z vs Team V (marcador en pantalla de "2-0" a "5-4") y buscar a Bachira y Nagi con las hojas de contacto miradas directamente (Read), no de memoria.
 
