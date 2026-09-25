@@ -42,6 +42,17 @@ contacto propias, colores medidos con `estilo.py`, 50 fotogramas oficiales de
   Palace, The Waste → 63 imágenes enlazadas, 52 grandes (≥300 000 px) en
   `herramientas/referencias/el-castillo-ambulante/` (hoja_01.jpg, hoja_02.jpg,
   `indice.json` con url y tamaño real de cada una) · ✅.
+- **Pose en grupo** (pedida explícitamente por el encargo): key visual
+  promocional oficial `Howl_and_all_characters.jpg` (1750×1000, wiki de
+  Fandom) con Howl, Sophie, Calcifer, Markl, Heen, Nabo y la Bruja del Yermo
+  todos juntos volando · ✅. **Ojo para el redactor**: en este arte
+  promocional el vestido de Sophie se ve azul marino con capa rosa, más
+  saturado que en los fotogramas de la película (cerulean #51A5C7 medido
+  arriba); son dos fuentes de color distintas (arte promocional vs.
+  fotograma), no un error mío — anotar ambas.
+- **"Portadas de tomos, singles"**: no aplica. La película no es adaptación
+  de manga (no hay tomos) y no tiene canción theme con single propio a la
+  venta (el álbum es de banda sonora, tema de texto/voz, no mío).
 - **No encontré** cartones de cuenta atrás (countdown cards): es una práctica
   de mercadotecnia más reciente (manga/streaming por capítulos); la película
   es de 2004 y no tiene ese formato de promoción. Búsquedas: "Howl's Moving
@@ -85,6 +96,12 @@ contacto propias, colores medidos con `estilo.py`, 50 fotogramas oficiales de
   ejemplo un Howl completo con el abrigo a cuadros) con licencia libre
   verificada: los que aparecen en Sketchfab sin filtro `downloadable=true`
   parecen ser de fan sin licencia clara, los descarté.
+- **Poly Haven**: revisado (`api.polyhaven.com/assets?t=models`, 521 modelos
+  en total en toda la plataforma) — es un banco de objetos reales genéricos
+  (muebles, plantas, rocas), no tiene ni tendría sentido que tuviera activos
+  de una franquicia con personajes; no hay nada de "El castillo ambulante"
+  ahí. Por eso las referencias 3D con licencia libre de esta biblia vienen
+  todas de Sketchfab.
 
 ## 15 · Vestuario (colores medidos, accesorios, peinado)
 
@@ -137,32 +154,45 @@ imagen sale cada paleta.
   vestido cerulean toda la película, salvo el sombrero de anciana; Howl no
   cambia de abrigo). Es coherente con que la película ocurre en pocas semanas
   narrativas, no por temporadas del año.
+- **Ropa "icónica" que todos reconocen** (lo pide el encargo explícitamente):
+  el vestido azul cerulean de Sophie con el sombrero de paja de anciana es la
+  silueta más repetida en fan art y merchandising (aparece en 6 de las 10
+  imágenes mejor valoradas de Safebooru); del lado de Howl, el abrigo a
+  cuadros rojo/gris con ribetes amarillos es lo primero que lo identifica
+  (aparece en el logo de casi todo el merchandising, incluida la colección
+  Loewe del punto 23) · ✅ (frecuencia contada a mano en las fuentes ya
+  citadas).
 
 ## 16 · Ciudades, paisajes y fondos de pantalla
 
 - **Market Chipping** (pueblo natal de Sophie): valle verde con montañas
-  nevadas al fondo, río y puente; imagen 1200×649 medida (`Market_Scene.jpg`,
+  nevadas al fondo, río y puente; **luz de pleno día, sol alto** (sombras
+  cortas, cielo despejado). Imagen 1200×649 medida (`Market_Scene.jpg`,
   Fandom) · ✅. Escena de multitud/mercado en `howl014` (wiki, 1920×1038).
 - **Porthaven** (ciudad portuaria bajo ataque): edificios con banderines de
-  colores, barcos de vapor, paleta medida en la escena `Howls-moving-castle...
-  -13338.jpg`: #3F424C, #6B533F, #302C32 (azul grisáceo y marrón apagado,
-  escena de atardecer/ataque) · ✅.
-- **El Yermo / The Waste**: paramo despoblado, colinas oscuras, atardecer.
-  Imagen 1024×602 medida · paleta: #2A3841, #38474F, #1A2B32 (azules y verdes
-  muy oscuros, escena nocturna) · ✅. Pedido especial del encargo ("campos"):
-  cubierto también por las colinas verdes de `Howl_Hills.jpg` (1200×661) y por
-  `howl035.jpg` (colina con flores, cielo despejado).
+  colores, barcos de vapor; **luz de atardecer/humo de bombardeo**, cielo
+  entre gris y naranja. Paleta medida en la escena `Howls-moving-castle...
+  -13338.jpg`: #3F424C, #6B533F, #302C32 (azul grisáceo y marrón apagado) · ✅.
+- **El Yermo / The Waste**: páramo despoblado, colinas oscuras; **anochecer**,
+  el cielo aún tiene una franja naranja baja en el horizonte y el resto ya es
+  azul oscuro. Imagen 1024×602 medida · paleta: #2A3841, #38474F, #1A2B32
+  (azules y verdes muy oscuros) · ✅. Pedido especial del encargo ("campos"):
+  cubierto también por las colinas verdes de `Howl_Hills.jpg` (1200×661,
+  **media tarde, sol lateral**) y por `howl035.jpg` (colina con flores,
+  **mañana, cielo despejado**).
 - **Palacio Real de Kingsbury**: puerta dorada ornamentada, estatuas doradas,
-  fachada roja con balaustradas. Imagen 915×515 medida, paleta: #4B2F2E
-  (marco rojo oscuro), #9C653C y #B6A078 (dorado/bronce), #418AC9 y #D4DDE0
-  (cielo azul claro) · ✅. Coincide con el desfile militar (`Military_Parade.jpg`,
-  1118×640: azules, rojos y dorados de los uniformes) que responde al pedido
-  del encargo de fijarse en "máquinas" (armamento/desfile bélico).
-- **El castillo por dentro** (máquinas, pedido especial del encargo): interior
-  con tuberías y engranajes visibles en `howl020.jpg` (baño con cañerías) y en
-  la imagen wiki `Howl024.jpg` (interior oscuro con mecanismos), paleta medida
-  de esta última: #232525, #212C3D, #15181C, #3F3F3E, #4C5559 (grises y azul
-  muy oscuro, metal sin pintar) · ✅.
+  fachada roja con balaustradas; **mediodía, luz frontal dura** que hace
+  brillar el dorado. Imagen 915×515 medida, paleta: #4B2F2E (marco rojo
+  oscuro), #9C653C y #B6A078 (dorado/bronce), #418AC9 y #D4DDE0 (cielo azul
+  claro) · ✅. Coincide con el desfile militar (`Military_Parade.jpg`, 1118×640:
+  azules, rojos y dorados de los uniformes, también luz de día) que responde
+  al pedido del encargo de fijarse en "máquinas" (armamento/desfile bélico).
+- **El castillo por dentro** (máquinas, pedido especial del encargo): **luz
+  cálida y baja, de vela y de la llama de Calcifer** (nunca luz de día
+  directa) con tuberías y engranajes visibles en `howl020.jpg` (baño con
+  cañerías, vapor) y en la imagen wiki `Howl024.jpg` (interior oscuro con
+  mecanismos, de noche), paleta medida de esta última: #232525, #212C3D,
+  #15181C, #3F3F3E, #4C5559 (grises y azul muy oscuro, metal sin pintar) · ✅.
 - **El castillo por fuera**: imagen de referencia 640×346 (pequeña, ⚠️ una
   sola fuente con ese tamaño) más el mucho mejor fotograma oficial
   `howl050.jpg` (1920×1038, castillo volando sobre nubes) · ✅.
@@ -195,6 +225,9 @@ imagen sale cada paleta.
     de soporte) · ✅.
   - `Fabric030` — tela lisa tileable — base para el abrigo de Howl o la capa
     de Sophie · ✅.
+  - `Fabric080` — tela a cuadros/plaid tileable — equivalente directo del
+    patrón del abrigo de Howl (rojo y gris azulado a cuadros) · ✅. Alternativa
+    con otra trama: `Fabric060` (tartán).
 - **Emblemas/logos**: no hay un escudo o logo de facción reiterado como en
   otras franquicias (a diferencia de Naruto o Attack on Titan); el símbolo
   más repetido es la estrella de seis puntas del contrato con Calcifer,
@@ -332,7 +365,14 @@ imagen sale cada paleta.
 - Fuentes que fallaron o no dieron nada nuevo: Sketchfab en `recolectar.py`
   (vacío, resuelto a mano); Reddit (no encontré subreddit específico de la
   película, no insistí más de dos intentos); "brass" en ambientCG (sin
-  resultados, usé "rusted metal" en su lugar).
+  resultados, usé "rusted metal" en su lugar); Poly Haven (`api.polyhaven.com`,
+  521 modelos en total, ninguno de la franquicia — banco genérico, no aplica).
+- Búsqueda adicional en inglés: `"Howl's Moving Castle" video game
+  PlayStation 2 Level-5 2004 Studio Ghibli` → sin juego oficial confirmado
+  (corrijo una suposición inicial mía: lo que recordaba era *Ni no Kuni*, otra
+  colaboración Ghibli-Level 5, no ésta).
+- ambientCG en inglés: "plaid" y "tartan" para el patrón del abrigo de Howl
+  (punto 19) → `Fabric080` y `Fabric060`, CC0, medidas 1024×1024.
 
 ## Cumplimiento de mis puntos (1, 3, 15, 16, 19, 23)
 

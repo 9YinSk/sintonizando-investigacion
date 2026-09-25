@@ -421,5 +421,23 @@
   "que_es": "Cosplay de Howl con Calcifer 'encendido' en las manos (u/Jiimboart)",
   "para_que": "cosplay de referencia: materiales y pose",
   "licencia": "Fan work; enlazar y citar autor, no usar directo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a5/Howl_and_all_characters.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1750,
+  "alto": 1000,
+  "que_es": "Ilustracion oficial con Howl, Sophie, Calcifer, Markl, Heen y Nabo juntos (pose de grupo)",
+  "para_que": "pose VIVA en grupo, pedida explicitamente por ENCARGO.md punto 1",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fabric080.jpg",
+  "fuente": "ambientCG",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de tela a cuadros/plaid tileable",
+  "para_que": "equivalente real del patron del abrigo de Howl (rojo y gris azulado)",
+  "licencia": "CC0 (dominio publico)"
  }
 ]

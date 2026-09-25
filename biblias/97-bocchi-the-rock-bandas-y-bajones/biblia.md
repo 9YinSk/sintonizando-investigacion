@@ -1193,11 +1193,12 @@ ella querría oír.
 - **Cómo hablan:**
   - Título: la **carta de personaje con glitch VHS** del tráiler ([x8esy25, 0:11](https://www.dailymotion.com/video/x8esy25?t=11)),
     rosa neón, marco roto. Letra **Anton**.
-  - Kita: cuadro limpio, **M PLUS Rounded 1c**.
+  - Kita: nada de globo blanco. Su frase sale como **publicación de Isosta** en la pantalla de su
+    móvil (el Instagram de mentira de la serie, §6), en **M PLUS Rounded 1c**.
   - Bocchi: cuadro **roto con glitch en los bordes** (su bajón), **Baloo 2**.
 - **Dónde va cada texto:**
   - En la carta glitch, arriba: «PRESENTACIONES».
-  - Kita, junto al móvil: «¡Es tu ficha del servidor! Así la gente te pone cara.»
+  - Kita, en la publicación de Isosta: «¡Es tu ficha del servidor! Así la gente te pone cara.»
   - Bocchi, en el cuadro roto: «Ah... ¿es opcional? Menos mal...»
   - En el pase, a rotulador: «Abre TU hilo con la plantilla fijada.» y «Lee "Cómo presentarte"».
   - La frase que falta del canal («nadie comenta…»), cuando se confirme, en el reverso del pase o en
@@ -1279,4 +1280,143 @@ Además usa el bajón en pixel art de ese mismo capítulo.
   en medio. Detrás, luces de tiendas desenfocadas y el cielo frío del anochecer contra la luz cálida de
   los escaparates. Las cuerdas del bajo, por delante, cogen un brillo. Una silueta de alguien que se
   para a mirar.
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho.
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | Hojas de modelo 4400×6500, key visuals, 8 cuenta atrás, 12 portadas de guion, 8 singles, tomos, Blu-ray, atrezo; números de hoja revisados por el redactor |
+| 2 | Fotogramas de escenas icónicas, 1080p, capítulo y minuto | ⚠️ | OP y ED1 enteros con minuto, 3 tráileres con minuto, capturas 1080p de los ep. 1-12 **sin minuto**; ED2, ED3 y final sin ver (YouTube 403, AnimeThemes caído) |
+| 3 | Fan art, 3D con licencia, figuras, cosplay | ✅ | 6 modelos de Sketchfab con licencia y autor, Nendoroid, 2 cosplays CC BY-SA; no hay modelo libre de STARRY |
+| 4 | Sitios, luz, paleta hex, texturas reales | ⚠️ | 4 sitios medidos con hex; calle y casa de Bocchi sin medir; sólo textura de papel (faltan cartón, madera, metal) |
+| 5 | Tipografía, una letra por uso, con ¿ ¡ ñ | ✅ | 9 letras libres comprobadas con fontTools; letras reales de Kirara con una sola fuente; falta una de rotulador |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | Bajón en vez de nube, carta glitch VHS, ticket y pase del Blu-ray, cartelas de color, frases de cierre (sin ver su diseño) |
+| 7 | Personajes y popularidad | ✅ | Encuesta de ねとらぼ con votos, AniList, Danbooru, ranking.net, premios; Kikuri empata el 2.º puesto |
+| 8 | Doblaje latino, dos fuentes, frases textuales con vídeo y minuto | ⚠️ | 6 voces con dos fuentes y estudio, dirección y fecha en tres; 6 frases textuales de Doblaje Wiki **sin minuto ni clip**: sólo está en Crunchyroll |
+| 9 | Música, escenas emotivas, efectos y onomatopeyas | ⚠️ | OP, 4 endings, temas de los ep. 8 y 12, discos; **efectos de sonido sin investigar** |
+| 10 | Vídeos con minuto, análisis, tendencias | ⚠️ | 5 vídeos oficiales vistos con minuto, 3 análisis; tendencias de TikTok y YouTube **sin vistas** |
+| 11 | Videojuegos: interfaz, menús, cajas | ⚠️ | No hay juego propio; 2 colaboraciones confirmadas (Kirara Fantasia, Kotodaman) pero **sin ver su interfaz** |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 8 memes con fuente, Reddit con votos, 7 reglas de qué no hacer |
+| 13 | Cada personaje a fondo, cara por emoción con minuto | ⚠️ | 6 personajes descritos; 12 caras con minuto, faltan rabia en todas y **ninguna de Kikuri ni Seika** |
+| 14 | 6-10 poses por personaje con uso | ✅ | Bocchi 10, Kita 6, Nijika 6, Ryo 6, con imagen y uso; Kikuri sin poses |
+| 15 | Vestuario con hex | ✅ | Los 4 trajes medidos en las hojas de modelo; Kikuri y Seika sin medir |
+| 16 | Ciudades y fondos de pantalla | ✅ | Sitios reales, 5 fondos hasta 7620×4160 con autor; no hay fondos oficiales |
+| 17 | Guía para IA de imagen y de texto | ✅ | Hecha por el redactor: rasgos, etiquetas, palabras que estropean, paleta, 17 frases reales por emoción; aspecto de Kikuri sin datos |
+| 18 | Estilo y cómo replicarlo en PS y Blender | ✅ | Entrevistas del staff, tabla de bajones por capítulo, pasos en Photoshop y Blender, encuadres por emoción con minuto |
+| 19 | Texturas 2D | ✅ | Tramas del manga miradas, 2 packs de trama, papel CC0, logos en SVG, pegatinas |
+| 20 | Gustos y datos | ⚠️ | Cumpleaños, altura, peso, sangre, equipo y manías; **sin comida favorita** de ninguna |
+| 21 | Por qué la aman, escenas que hacen llorar con minuto | ⚠️ | Ventas, notas, premios, Reddit; escenas de los ep. 8 y 12 **sin minuto** |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | Fandub completo con reparto, parodia venezolana oída con minuto, covers y memes; **sin vistas** de YouTube ni TikTok |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | 6 cafés, 3 juegos, musical LIVE STAGE, películas, conciertos reales; Fortnite no existe |
+| 24 | Obras parecidas y láminas que se le parecen | ✅ | AniList, influencia de K-On! en dos idiomas, láminas a no repetir |
+| 25 | Mundo, arcos y símbolos | ✅ | 5 reglas, 4 arcos (reconstruidos sin ver los 12 ep.), 16 objetos, vocabulario |
+| Conceptos | Tres láminas distintas | ✅ | A #presentaciones, B #castings, C #en-directo; objeto en Blender, sitio, pose, cuadro, letra, textos y profundidad |
+| Fuentes | Al menos 40 distintas | ✅ | 66 webs enlazadas en esta biblia |
+| Tipo | Oficiales | ✅ | bocchi.rocks, Aniplex en Dailymotion, menú del Blu-ray, anuncios de Kotodaman, entrevistas del staff |
+| Tipo | Otros idiomas | ✅ | Japonés (ねとらぼ, note.com, kotodaman.jp, mikiki, collabo-cafe), coreano (namu.wiki); chino no (Bilibili dio 412) |
+| Tipo | Wikis, TV Tropes, TCRF, Wayback | ✅ | Fandom, Doblaje Wiki, Dubbing DB, Fandub DB, namu.wiki; TV Tropes 403 (resumen del buscador); TCRF no aplica; Wayback salvó el ED1 |
+| Tipo | Foros y comunidades | ✅ | Reddit por Arctic Shift, Tumblr, X; sin 4chan ni Discord (no hizo falta) |
+| Tipo | Arte | ✅ | Danbooru, Safebooru, Pixiv, Wallhaven, Tumblr; sin ArtStation ni DeviantArt |
+| Tipo | Vídeo con minuto | ✅ | Dailymotion, Internet Archive, Wayback; YouTube bloqueado todo el tiempo |
+| Tipo | Código y recursos | ✅ | google/fonts, Sketchfab, ambientCG, Clip Studio Assets |
+| Tipo | Doblaje latino | ⚠️ | Doblaje Wiki por la API, ANMTV, SomosKudasai, Dubbing DB; **sin entrevistas a actores latinos** ni clips oficiales doblados |
+| Hojas | 3 hojas de contacto de menos de 3 MB | ✅ | arte-oficial_01, vestuario-colaboraciones_02, texturas-manga_03 (0,9-1 MB), miradas y citadas por número |
+| Referencias | referencias.json, 20 o más | ✅ | 185 referencias, las mejores primero, 140 con tamaño medido |
+
+**Para el dueño (oír o ver en persona):** cualquier frase del doblaje latino con minuto (por ejemplo
+«¿Me estás oyendo, inútil?», Bocchi ep. 6); el minuto del *stage dive* del ep. 12; si el tráiler
+«Recap» de Sensacine México lleva audio latino o japonés.
+
+**Datos que chocan entre partes** (se eligió uno, se avisa): la primera guitarra de Bocchi (Les Paul
+según su ficha, «Fender» según la parte de voz); su tipo de sangre (B en la wiki, O en AniList); en
+qué ending sale el «dedo» de Kita (3.º según KYM, 2.º según la animadora); el uniforme de Kita (crema
+en la hoja de modelo, blanco en el texto de la wiki).
+
+## Bitácora de búsqueda
+
+Juntada de las bitácoras de las cuatro partes, más el trabajo del redactor.
+
+**Recolector (`recolectar.py`, sin IA):** AniList (ficha, staff, personajes, recomendaciones),
+Doblaje Wiki, Fandom, Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse (Wikimedia y Flickr),
+Dailymotion, Internet Archive, MusicBrainz (mal dirigido a discos llamados «Rock»; se rehízo a
+mano), Steam (sin resultados), Reddit. AnimeThemes: error 522.
+
+**Imagen** (6 búsquedas web)
+- Japonés: «ぼっちざろっく コラボ カフェ 2024 2025», «bocchi.rocks 公式サイト 壁紙 wallpaper».
+- Inglés: «Bocchi the Rock figma Nendoroid figure Good Smile», «"Bocchi the Rock" collaboration
+  Fortnite OR gacha OR "Bang Dream" OR game crossover», «Bocchi the Rock official wallpaper
+  download», «free screentone brush pack CC0 manga texture Clip Studio Procreate».
+- Directo: API de Fandom (páginas de personajes, STARRY, Kessoku Band, Bocchi's Les Paul, Road to
+  Guitar Hero, exposición; `allimages`), `investigar_serie.py` rehecho con las 4 protagonistas (204
+  imágenes, 5 hojas), `estilo.py` sobre las 4 hojas de modelo, Sketchfab («STARRY live house»,
+  «guitar amplifier», «school uniform anime»), ambientCG, Clip Studio Assets, Gumroad.
+- No encontrado: fondos oficiales, figma, modelo 3D de STARRY, segunda fuente de BanG Dream! Our Notes
+  y del café de Animate.
+
+**Vídeo**
+- Dailymotion (inglés y japonés): «Bocchi the Rock episode 8 STARRY live», «episode 12 concert»,
+  «ぼっち・ざ・ろっく OP», «ぼっち・ざ・ろっく 8話», «結束バンド 青春コンプレックス», «Kessoku Band
+  Seishun Complex MV» (dio el OP), «結束バンド Distortion MV» (dio el tráiler de LIVE STAGE), «カラカラ»,
+  «なにが悪い», «転がる岩».
+- Web (inglés): «Bocchi the Rock art style changes anxiety episode claymation rotoscope»,
+  «"Bocchi the Rock" gekimeation 劇メーション episode 3 stop motion delusion», «"Bocchi the Rock"
+  TikTok trend viral sound 2023». Japonés: «ぼっちざろっく 作画 演出 妄想 画風変化 何話»,
+  «ぼっちざろっく 劇メーション 3話 妄想».
+- Directo: AnimeThemes (522 cinco veces), Wayback (ED1 salvado; ED2 y ED3 sin copia), YouTube con
+  `player_client=android` (salta el login pero la descarga da 403; storyboards corruptos), Bilibili
+  (412), MusicBrainz (Kessoku Band, 23 lanzamientos), Fandom (47 capturas 1080p, fichas de capítulo),
+  TV Tropes (403), Wikipedia (429), Internet Archive (23 ítems revisados).
+- Visto con `fotogramas.py`: PV1, teaser T2, OP1, ED1, tráiler LIVE STAGE, menú del Blu-ray, AMV
+  «Get Your Wish». `estilo.py` sobre 5 fotogramas.
+- No encontrado: vídeo de ED2, ED3 y final; capítulos 8 y 12 enteros; tendencias con cifras.
+
+**Voz y personajes**
+- Español: «ANMTV Bocchi the Rock doblaje latino elenco actores», «Bocchi the Rock manga ventas
+  millones copias Aki Hamaji», «Bocchi the Rock fandub español latino cover Seishun Complex opening»,
+  «"Bocchi the Rock" fandub completo español latino canal "Erika Ugalde" OR "Annie Rojas" OR "Leyla
+  Rangel"».
+- Japonés: «ぼっち・ざ・ろっく 人気投票 結果 キャラクター».
+- Inglés: «Bocchi the Rock Crunchyroll Anime Awards nomination Newtype ranking», «Bocchi the Rock
+  episode 12 ending emotional scene reaction crying», «Bocchi the Rock fandom inside jokes "mango box"
+  OR "guitarhero"… know your meme», «Bocchi the Rock why so popular reddit… social anxiety», «"Nigeta
+  Gita" scene episode meaning flashback Kita runaway guitar», «episode 12 finale family YouTube
+  channel secret reveal scene minute stage dive».
+- Directo: Doblaje Wiki (`action=parse`), Fandom (personalidad y trivia de 6 personajes, ep. 12),
+  ねとらぼ (encuesta 2023; la de 2024 carga por JS), ANMTV, SomosKudasai, Fandub DB, Dubbing DB, Know
+  Your Meme, Internet Archive (49 resultados), `voz.py` sobre la parodia venezolana,
+  `fotogramas.py --cortes` sobre el BAND TRAILER, Dailymotion («doblaje latino»: nada), Arctic Shift
+  (`cry`, `favorite scene`, `relate`, `meme` y comentarios del hilo de 1678 votos), TV Tropes (403).
+- No encontrado: minuto del final del ep. 12, vistas de fandubs y covers, altura de Seika, sangre de
+  Kikuri, contenido del podcast Anime Machote.
+
+**Texto, juegos y técnica** (17 búsquedas web)
+- Inglés: «Bocchi the Rock animation style change anxiety claymation rotoscope interview», «Keiichiro
+  Saito director interview animation technique», «Bocchi the Rock font logo typeface identification»,
+  «manga preview pages read online official sample», «Kirara Fantasia Bocchi the Rock collaboration
+  screenshot UI», «Blender rig model free download fan», «Photoshop brush toon shader recreate style»,
+  «Blender anime toon shading tutorial Line Art Shader to RGB», «TV Tropes "Art Shift" claymation»,
+  «episode 6 pixel art dog concert tickets scene minute», «parody references episode Evangelion…»,
+  «Groove Coaster OR "Project Sekai" OR "太鼓の達人" collaboration game».
+- Japonés: «ぼっち・ざ・ろっく 斎藤圭一郎 インタビュー 演出 妄想», «4コマ 漫画 吹き出し スタイル まんがタイム
+  きらら», «ことダマン ぼっち・ざ・ろっく コラボ 画面», «結束バンド 名前 由来 メンバー 漢字».
+- Coreano: «결속밴드 이름 유래 멤버 한자», «고독한 록 봇치 애니메이션 스타일 영향 유사 작품».
+- Directo: Fandom (fichas de 6 capítulos), Wikipedia, Sakuga Blog (2 artículos), bocchi.rocks
+  (mesa redonda del staff), Wikimedia Commons (SVG: 429), Sketchfab, Internet Archive, Dailymotion,
+  note.com, Google Fonts + fontTools (9 letras), TV Tropes (403, sin copia en Wayback).
+- Visto: menú del Blu-ray (21 fotogramas, 2 en grande, `estilo.py`), BAND TRAILER (84 planos), ficha
+  de `episodio.py` del recap, AMV «secret OVA» (descartado: es un remix de fans).
+- No encontrado: capturas de Kirara Fantasia y Kotodaman; TCRF no aplica.
+
+**Redactor**
+- Leídas todas las partes, `datos-*.md`, `datos.json`, `ENCARGO.md`, `AYUDANTE.md`, `EQUIPO.md`,
+  `PETICIONES.md`, `DECISIONES.md`, `servidor/reglas_del_dueno.md` y `servidor/inventario.md`.
+- **Miradas las 3 hojas** de `hojas/`; corregidos los números que daba la parte de imagen y añadido
+  lo que se ve (arco de Shimokitazawa #160, pedalera #177, furgoneta #148, pixel art #179).
+- Detectados y marcados 4 datos que chocan entre partes y 1 fuente dudosa (el recap «latino»).
+- `referencias.json`: 185 entradas juntadas de `partes/*.json` y `datos.json` (fuera el fan art de
+  otras series que trajo el recolector: Miku, Suika, Haruhi y la etiqueta `hitori_bocchi`); 17
+  tamaños medidos ahora con Pillow.
+- Ninguna búsqueda web nueva: todo sale de las partes.
 

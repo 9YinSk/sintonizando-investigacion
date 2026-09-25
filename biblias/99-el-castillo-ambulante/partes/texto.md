@@ -22,6 +22,8 @@ Es una libreta de datos: un dato por línea, con fuente(s) y ✅/⚠️.
 - **IM Fell English** (Google Fonts, OFL) — serif de imprenta antigua con irregularidades; para carteles, periódicos o letreros de tienda de la Europa de attrezzo de la película (Market Chipping, Porthaven).
 - **Cormorant Garamond** (Google Fonts, OFL) — serif francesa elegante; para el título o subtítulos de la lámina, en el espíritu de Colmar (Alsacia) que inspiró los fondos (ver punto 18).
 - **Sacramento** y **Yellowtail** (Google Fonts, OFL/Apache) — manuscritas; para imitar el gesto de una firma o logo caligrafiado a mano (evocando el logo real de Suzuki, sin copiarlo).
+- **Permanent Marker** (Google Fonts, Apache) — rotulador grueso; para **grito** y **onomatopeya** si se necesita imitar el rotulado añadido del Film Comic de VIZ (que usa letra tipo cómic occidental sobre el fotograma, no caligrafía japonesa).
+- **Special Elite** (Google Fonts, OFL) — de máquina de escribir; para **pensamiento** o un documento/carta dentro del mundo (el rey, informes de Suliman), ya que no hay una nube de pensamiento propia verificada en la película (ver punto 6).
 - Verificación hecha con este script (todas devolvieron «ninguno», es decir, tienen los 10 caracteres pedidos):
   `TTFont(path).getBestCmap()` comprobando á é í ó ú ñ Ñ ¿ ¡ ü en las 5 TTF descargadas de Google Fonts.
 
@@ -40,6 +42,7 @@ Es una libreta de datos: un dato por línea, con fuente(s) y ✅/⚠️.
 - **No hay subtítulos ni cartelas de traducción dentro de la versión japonesa original** (no es una serie con capítulos titulados como Evangelion o AoT): no encontré ninguna cartela de texto propia del anime salvo el cartel alemán y los panfletos.
 - Un objeto de guion con texto pero **no verificado visualmente**: el contrato mágico entre Howl y Calcifer y la maldición de la Bruja del Páramo son **habladas**, no se ven escritas en pantalla (a diferencia de, por ejemplo, un grimorio con texto legible) — búsqueda hecha, no lo encontré como texto en pantalla, así que no lo afirmo.
 - Pensamientos: no hay convención visual propia (nube, letra especial) porque la película no usa voz en off de pensamiento; se transmite por interpretación actoral, no por texto — confirmado por la ausencia de cualquier mención en el wiki a un recurso de «pensamiento en pantalla».
+- **Cajas de diálogo de videojuego**: no aplica — no existe un videojuego oficial de esta película (ver punto 11 para la comprobación completa), así que no hay una interfaz propia que describir aquí.
 
 ## Punto 11 · Videojuegos de la franquicia
 
@@ -71,6 +74,12 @@ Es una libreta de datos: un dato por línea, con fuente(s) y ✅/⚠️.
 - El **director de imagen digital Atsushi Okui** explica que Calcifer necesitó tres procesos digitales: **suavizado (softening), transparencia y difusión** como fuente de luz — la referencia técnica exacta para replicar su brillo con un *glow*/*bloom* en Photoshop o un nodo de emisión + *subsurface* en Blender ✅ (misma página, cita directa).
 - El **animador supervisor Takeshi Inamura** cuenta que Miyazaki le pidió que Howl fuera «desenfadado» en la escena en que cruza el cielo con Sophie, y que ahí entendió cómo debían cambiar las expresiones de Howl en la segunda mitad de la película — dato útil para «encuadres y qué emoción va en cada uno» ✅.
 - El **director de arte Yôji Takeshige** (supervisado por **Noboru Yoshida**) cuenta que un primer diseño de la casa de Jenkins en Porthaven se rechazó por colores «demasiado apagados, incongruentes con los personajes» — muestra el proceso real de iteración de fondos, no llegar a la primera ✅.
+
+**Encuadre y composición (para «planos, ángulos y cómo se enmarca cada emoción»)**
+- Miyazaki compone al revés que el cine occidental típico: **empieza por una imagen muy concreta y se abre hacia lo general**, en vez de ir de lo general a lo específico — análisis académico · [«Hayao Miyazaki as Auteur: Techniques, Technology and Aesthetics in Animation», academia.edu](https://www.academia.edu/24505389/Hayao_Miyazaki_as_Auteur_Techniques_Technology_and_Aesthetics_in_Animation) ⚠️ (una fuente, paper académico)
+- Técnica propia usada en esta película: el **«path map»** (mapa de trayectoria), para casar el movimiento de andar de un personaje con el desplazamiento del fondo detrás — dato técnico concreto de animación, no de composición de cámara ⚠️ (una fuente, resumen de búsqueda sobre el mismo paper).
+- El director de fotografía digital acreditado es **Atsushi Okui** (coincide con el «director de imagen digital» citado antes para Calcifer) — confirmado también en la ficha de [Film Grab](https://film-grab.com/2020/05/04/howls-moving-castle/), que además reúne 55 fotogramas reales de alta calidad de la película, útil como banco de encuadres para el rol de vídeo ✅ (dos fuentes).
+- No encontré un desglose fuente por fuente de «qué plano va con qué emoción» (eso lo cubre mejor el rol de vídeo con `fotogramas.py`, mirando la película directamente); aquí sólo dejo la lógica de composición declarada en fuentes escritas.
 
 **Sonido y atmósfera (breve, apoya el «cómo se siente» del estilo)**
 - En octubre de 2003 Ghibli mandó un equipo a Europa a grabar sonido ambiente «puro»: pisadas, carruajes de caballos sobre adoquín, cafés y calles — para el «siglo XIX imaginario» de la película ✅ (misma página wiki, sección Sound Mixing).
@@ -158,6 +167,7 @@ Fuente: [ghibli.fandom.com/wiki/Howl's_Moving_Castle](https://ghibli.fandom.com/
 - The Cutting Room Floor (TCRF): sin página para esta obra (no es un videojuego); confirmado indirectamente porque no hay videojuego que analizar.
 - El texto exacto de los panfletos de propaganda que caen sobre Porthaven y sobre los barcos: sé que existen (tres fuentes) pero no el contenido legible.
 - Confirmación con una segunda fuente de que el logo de «El castillo ambulante» es letra de Suzuki Toshio (sólo un blog, aunque cita sus propias palabras).
+- Diseño detallado de la **bandera de Ingary** (se la ve en un acorazado, `Ingary navy.png`, pero no hay página propia en el wiki que describa sus colores o forma): busqué «Flag of Ingary» directo, sin resultado.
 - Fuente sobre qué tipografía usan los subtítulos oficiales en español o inglés de los Blu-ray/streaming (GKIDS, Disney): no hay ficha técnica pública que la identifique.
 
 ## Bitácora
