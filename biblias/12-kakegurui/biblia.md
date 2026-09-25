@@ -1017,11 +1017,20 @@ leída por la API) ⚠️ una fuente:
   cuando había tres (un error del doblaje). La wiki lo pone en el ep. 4; en
   el subtítulo japonés el «蛇喰チップ» sale en 1×05, 00:06:54 ⚠️.
 
-**Frases latinas**: **no encontré** con fuente cómo dice el doblaje el
-«さあ 賭け狂いましょう». En la segunda pasada se **miraron** los eps. 1 y 2
-en latino ([Internet Archive](https://archive.org/details/kakegurui-latino)),
-pero no se transcribió el audio ⚠️: la frase cae en la escena de los
-ojos rojos, ep. 1, 12:15-12:43 en esa copia (en el subtítulo, 00:12:37). En portugués es «Vamos apostar até a loucura!» ⚠️.
+**Frases latinas, oídas** (redactor, 25-sep): saqué el audio del ep. 1
+latino de [Internet Archive](https://archive.org/download/kakegurui-latino/Kakegurui%20(Latino)%20-%2001%20%5BCrisAnime%5D.mp4#t=731)
+(minutos 11:55-12:47 de esa copia) y lo pasé por `voz.py` (Whisper):
+
+| Minuto | Yumeko, en latino (textual según Whisper) | Fiabilidad |
+|---|---|---|
+| 12:11 | «La locura es la esencia de las apuestas.» | ⚠️ un modelo (small) |
+| 12:14 | «En una sociedad capitalista, el dinero y la vida son lo mismo.» | ⚠️ un modelo |
+| 12:31 | «En ese caso, mientras más loco estés, más disfrutas apostar.» | ✅ dos modelos (small y medium) dicen lo mismo |
+| 12:39 | **«¡Comencemos esta locura!»** (= «さあ 賭け狂いましょう») | ⚠️ medium; small oyó «¿Cómo hacemos esta locura?». Confirmar de oído |
+
+Su voz en esa escena: aguda (268 Hz de media), **muy expresiva**
+(27 semitonos de rango) y rápida (3,1 palabras/s), medido por `voz.py`.
+En portugués es «Vamos apostar até a loucura!» ⚠️.
 Para el latino, mira estos vídeos con el doblaje:
 [«Las Voces de KAKEGURUI»](https://www.youtube.com/watch?v=_8F1j9vb9Aw),
 [Yumeko en latino](https://www.youtube.com/watch?v=di9Dv_XuXoQ),
@@ -1079,22 +1088,38 @@ Otros doblajes y obras:
 
 ## 12 · Vídeos
 
-| Vídeo | Qué es | Minuto útil |
-|---|---|---|
-| [Tráiler T1, sub. latino (Netflix)](https://www.youtube.com/watch?v=6Fy2WFWNYrA) | tráiler | sin verificar |
-| [Tráiler oficial, sub. español](https://www.youtube.com/watch?v=hZ27-_1lf-8) | tráiler | sin verificar |
-| [Tráiler oficial de Twin (Netflix)](https://www.youtube.com/watch?v=yihlMRSUiCo) | Mary protagonista | sin verificar |
-| [Las Voces de KAKEGURUI](https://www.youtube.com/watch?v=_8F1j9vb9Aw) | reparto latino | sin verificar |
-| [«No le importa perder, le importa sentir»](https://www.youtube.com/watch?v=qDDltVILCNY) | psicología de Yumeko, en español | sin verificar |
-| [«¿Yumeko, la mente más peligrosa?»](https://www.youtube.com/watch?v=MkZNbCG4cmo) | análisis en español | sin verificar |
-| [Resumen en 11 minutos](https://www.youtube.com/watch?v=QHRBimft-nk) | resumen en español | sin verificar |
-| [Reseña sin spoilers](https://www.youtube.com/watch?v=UU-fuuwCUSU) | reseña en español | sin verificar |
-| [Bilibili: las caras de Yumeko](https://www.bilibili.com/video/av926870921/) | recopilación de 颜艺 | sin verificar |
-| [Bilibili: «cambio de cara en un segundo»](https://www.bilibili.com/video/BV1t4411x787) | recopilación | sin verificar |
-| [TikTok: caras de Yumeko](https://www.tiktok.com/@parkozue/video/7597656119984540949) | recopilación | sin verificar |
+### 12.1 Mirados de verdad (segunda pasada), con minuto
 
-**Los minutos exactos útiles están en §2 y §15**, sacados del subtítulo de
-cada episodio. Para la escena más icónica: **1×01, 00:12:08 a 00:12:38**.
+| Vídeo | Qué es | Minutos útiles |
+|---|---|---|
+| [Tráiler oficial Netflix, sub. inglés](https://www.dailymotion.com/video/x88p1dp?start=24) (Dailymotion, 512×288) | tráiler T1 | **0:24** Mary: «Today's just not your day, huh?» · **0:36** Yumeko: «Looks like this just got pretty interesting» · **1:06** ojos en primer plano, «Now we're even» · **1:30** créditos del staff |
+| [Ep. 1, doblaje latino](https://archive.org/download/kakegurui-latino/Kakegurui%20(Latino)%20-%2001%20%5BCrisAnime%5D.mp4#t=365) (Internet Archive, 853×480) | 1×01 entero | **0:00-1:33** prólogo · **1:50-3:26** opening · **6:05-7:41** piedra, papel o tijera · **11:55-12:43** los ojos rojos · **12:39** «¡Comencemos esta locura!» (§10) · **22:40-24:19** ending |
+| [Ep. 2, doblaje latino](https://archive.org/download/kakegurui-latino/Kakegurui%20(Latino)%20-%2002%20%5BCrisAnime%5D.mp4#t=1282) (Internet Archive) | 1×02 entero | **1:00** Mary y la placa «ミケ» · **5:00** Kirari en el pasillo lavanda · **21:16-21:40** Kirari y el acuario · **21:37** el consejo reunido |
+| [Eps. 3-12 en latino](https://archive.org/details/kakegurui-latino) | resto de T1 | no mirados. Ojo: el mismo archivo trae **cada episodio también en MKV 1280×720** (leído en su API, `archive.org/metadata`): es la copia buena para capturas |
+| [Kakegurui ×× en latino](https://archive.org/details/kakegurui-xx-audio-latino) | T2 doblada | no mirado; serviría para confirmar los minutos `2×…` |
+
+Minuto a minuto, con la pose de cada fotograma, en §2.0.
+
+### 12.2 Análisis, reseñas y recopilaciones (sin mirar)
+
+YouTube pidió iniciar sesión en las dos pasadas; son vídeos de fans, sin
+copia en Dailymotion ni en Internet Archive. Quedan **sin minuto** ⚠️.
+
+| Vídeo | Qué es |
+|---|---|
+| [Tráiler T1, sub. latino (Netflix)](https://www.youtube.com/watch?v=6Fy2WFWNYrA) | tráiler |
+| [Tráiler oficial, sub. español](https://www.youtube.com/watch?v=hZ27-_1lf-8) | tráiler |
+| [Tráiler oficial de Twin (Netflix)](https://www.youtube.com/watch?v=yihlMRSUiCo) | Mary protagonista |
+| [Las Voces de KAKEGURUI](https://www.youtube.com/watch?v=_8F1j9vb9Aw) | reparto latino |
+| [«No le importa perder, le importa sentir»](https://www.youtube.com/watch?v=qDDltVILCNY) | psicología de Yumeko, en español |
+| [«¿Yumeko, la mente más peligrosa?»](https://www.youtube.com/watch?v=MkZNbCG4cmo) | análisis en español |
+| [Resumen en 11 minutos](https://www.youtube.com/watch?v=QHRBimft-nk) | resumen en español |
+| [Reseña sin spoilers](https://www.youtube.com/watch?v=UU-fuuwCUSU) | reseña en español |
+| [Bilibili: las caras de Yumeko](https://www.bilibili.com/video/av926870921/) | recopilación de 颜艺 |
+| [Bilibili: «cambio de cara en un segundo»](https://www.bilibili.com/video/BV1t4411x787) | recopilación |
+| [TikTok: caras de Yumeko](https://www.tiktok.com/@parkozue/video/7597656119984540949) | recopilación |
+
+Fan dubs y covers en español, con vistas medidas: §E.
 
 ---
 
@@ -1250,48 +1275,99 @@ confírmalo antes de calcar nada. Es lo primero que hay que hacer con red.
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario
 
-| Quién | Ropa icónica | Detalle |
+Texto «Appearance» de cada ficha de la
+[wiki](https://kakegurui.fandom.com/wiki/Yumeko_Jabami) (leída por su API)
+y colores medidos con `estilo.py` en arte oficial.
+
+| Quién | Ropa icónica | Detalle que no se puede fallar |
 |---|---|---|
-| Todos | **Uniforme de Hyakkaou**: chaqueta **roja** `#C9020F` con ribete negro, camisa blanca, corbata negra cruzada, falda a cuadros negro y gris, medias negras, mocasines marrones | [Fandom](https://kakegurui.fandom.com/wiki/Yumeko_Jabami), [color-hex](https://www.color-hex.com/color-palette/103520) |
-| Yumeko | el uniforme tal cual; **pelo negro con flequillo recto** | lo que todos reconocen |
-| Yumeko, mascota | **placa al cuello** de «Mike» (1×03 y 1×04) | 1×03, 00:20:44 |
-| Mary | uniforme y **coletas rubias con lazos negros** | [Fandom](https://kakegurui.fandom.com/wiki/Mary_Saotome) |
-| Kirari | uniforme; pelo gris claro, **labios azules** | [Fandom](https://kakegurui.fandom.com/wiki/Kirari_Momobami) |
-| Ririka | **máscara gris** de ojos almendrados y sonrisa curva | [Fandom](https://kakegurui.fandom.com/wiki/Ririka_Momobami) |
-| Midari | parche médico, vendas | [Fandom](https://kakegurui.fandom.com/wiki/Midari_Ikishima) |
-| Runa | sudadera naranja de conejo | una sola fuente |
+| Todas | **Uniforme de Hyakkaou**: blazer **rojo** con ribete negro, camisa blanca, corbata negra cruzada, falda a cuadros negro y gris, medias negras, mocasines marrones ✅ | el rojo, medido abajo |
+| Yumeko | el uniforme tal cual; pelo negro largo, **corte hime** (flequillo recto); ojos burdeos que se vuelven **rojo brillante**; uñas rojas (beige en la T1 del anime) ✅ | **anillo de plata en el pulgar izquierdo**, de la boda de sus padres ✅ (§C) |
+| Yumeko, mascota | **placa de «Mike»** al cuello | 1×03, 00:20:44; placa real en §H |
+| Mary | **coletas rubias con lazos negros**, ojos amarillo oscuro; blazer con **botones dorados**; falda **gris lisa y plisada**, no a cuadros ✅ | el pasador de Tsuzura (§C) |
+| Kirari | pelo gris claro con dos rodetes y lazos, **labios azules**, ojos celestes ✅ | los rodetes salen de **donas y cuentas budistas** ⚠️ (§C) |
+| Ririka | **máscara blanca** de teatro que distorsiona la voz; pelo platino (gris en el anime); sin labial salvo cuando se hace pasar por Kirari ✅ | máscara blanca, **no gris** (corregido) |
+| Midari | parche médico en un ojo, vendas | [Fandom](https://kakegurui.fandom.com/wiki/Midari_Ikishima) ✅ |
+| Runa | sudadera naranja con capucha de orejas | ⚠️ una fuente |
 
-La ropa es **la misma en las dos temporadas y en Twin** ⚠️ (de memoria).
-Cosplay de referencia del uniforme:
+**El rojo del blazer, medido** ✅ (`estilo.py`, 5 ilustraciones oficiales):
+
+| Imagen oficial | Rojo | Otros |
+|---|---|---|
+| «Yumeko Kirari Love.png» | `#D63D2C` | oscuros `#382234`, camisa `#DFD8DC` |
+| «Mary Saotome and Yumeko Jabami» | `#E5392C` / `#C80812` | piel `#F6E7D3`, negro `#2A1B22` |
+| «XX Rei + Kirari.jpg» (uniforme formal) | `#C05051` | grises `#544C5A` |
+| Portada de AniList (de noche) | `#AC3933` / `#832B27` | negro `#1F1718`, piel `#E4CEBC` |
+| Banner de AniList | `#922B30` | fondo `#18161E` |
+
+**Para la lámina: `#D6362A`**; oscurécelo hacia `#832B27` si la escena es
+de noche. El `#C9020F` de la paleta de un fan
+([color-hex](https://www.color-hex.com/color-palette/103520)) es más
+saturado que cualquier ilustración oficial: sólo como contraste.
+
+**Variantes** (vistas en `hojas/`):
+- **Uniforme de verano** femenino: Kirari, 1521×2160 en la wiki ⚠️.
+- **Uniforme de chico** (Ryota): blazer oscuro, en «Team, Mary, Ryota.png»
+  ([2690×1929](https://static.wikia.nocookie.net/kakegurui/images/6/60/Team%2C_Mary%2C_Ryota.png)) ⚠️.
+- **Kimono de Año Nuevo** rojo estampado de Yumeko (hoja
+  `vestuario_03.jpg`, n.º 157-159) ⚠️.
+- **Uniforme formal con pantalón** de Kirari («XX Rei + Kirari») ✅.
+- **Perfumes oficiales** con el uniforme dibujado en el frasco (1149×1500
+  cada uno) ✅ (§F).
+
+La ropa **no cambia entre temporadas**: el mismo uniforme en T1, ×× y Twin;
+lo que cambia es la luz (§A) ✅ (hojas + key visuals de las dos).
+Patrón de costura del uniforme:
 [Imaginations Costume](https://www.imaginationscostumes.com/anime-kakegurui-yumeko-jabami-cosplay-uniform/).
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-### Los sitios, con su luz ⚠️
+### Los sitios, con su luz (vistos en vídeo)
 
-| Sitio | Hora y luz (de memoria, comprobar) |
-|---|---|
-| Aula de 2.º Flor | tarde, luz cálida de ventana; pupitres juntados como mesa |
-| Sala del consejo | interior, **acuario** de fondo, luz fría azul verdosa |
-| Pasillos y escalera central | interior de mármol y madera, luz blanca |
-| Club de Cultura Tradicional | tatami y madera, luz suave |
+Fotogramas de los eps. 1 y 2 en latino (§2.0, §12), medidos con
+`estilo.py`. Detalle de cada sitio en §5.
 
-### Fondos de pantalla
+| Sitio | Hora y luz | Minuto | Paleta medida |
+|---|---|---|---|
+| Sala del consejo | interior; **acuario enorme** empotrado, luz **turquesa** que se mueve ✅ | ep. 2, 21:22-21:40 | `#30B5B9` `#76FBF8` |
+| Pasillo del consejo | noche; luz **lavanda**, columnas claras, un retrato | ep. 2, 5:00 | `#9495D1`, rojo en sombra `#550C1B` |
+| Vestíbulo y escalera | araña dorada, madera oscura, luz cálida | ep. 2, 20:55 | sin medir |
+| Aula y pasillo | día; ventana fría, contraluz azulado; caras cálidas | ep. 1, 0:12-0:18 | `#D0C1B6` `#91776F` `#43322D` |
+| Aula en partida | focos sobre la mesa, el resto a oscuras | ep. 1, 6:29 | `#11091F` (38 %) |
+| Primer plano de la locura | fondo casi negro, un foco cálido | ep. 1, 12:39 | `#1D171C` (53 %), `#C23345` |
+| Club de Cultura Tradicional | tatami y madera | — | sin ver ⚠️ |
 
-| Fondo | Tamaño | Autor |
-|---|---|---|
-| [Kirari Momobami 4K](https://wall.alphacoders.com/big.php?i=1134912) | «4K Ultra HD» según el título; medida exacta sin ver | Alpha Coders (subido por un usuario) |
-| [Yumeko minimalista 4K](https://wall.alphacoders.com/big.php?i=854420) | «4K Ultra HD» según el título | Alpha Coders |
-| [Colección 4K](https://wall.alphacoders.com/by_sub_category.php?id=269743&name=Kakegurui+Wallpapers&filter=4K+Ultra+HD) | 3840×2160 o más, según el sitio | varios |
-| [160+ fondos](https://alphacoders.com/kakegurui-wallpapers) | varios | varios |
-| [WallpaperAccess](https://wallpaperaccess.com/kakegurui) | incluye 3840×2160 según el sitio | varios |
-| [Wallpaper Cave](https://wallpapercave.com/kakegurui-wallpapers) | varios | varios |
+La regla que se repite: **un solo foco cálido sobre fondo oscuro**; el
+color entra en detalles (ojos, acuario, sangre). Es lo que pide el director
+Hayashi (§A). Otro fotograma de Kirari (ep. 6, en la wiki, 1280×720) da un
+verde oliva (`#D5DE3E` `#B0B62D`): el acuario cambia de tono según la
+escena ⚠️.
 
-Casi todos son capturas o arte oficial sin crédito: **sólo para mirar**.
+### Fondos de pantalla (tamaño medido)
+
+De [Wallhaven](https://wallhaven.cc/search?q=kakegurui), con tamaño real
+leído en su API. Arte de fans: **sólo para mirar**.
+
+| Tamaño | ♥ | Autor / origen | Enlace |
+|---|---|---|---|
+| 6752×4000 | 884 | Psychofruit ([Patreon](https://www.patreon.com/posts/yumeko-nsfw-39647346)) | [wallhaven-832511](https://w.wallhaven.cc/full/83/wallhaven-832511.jpg) |
+| 8102×2018 (dos monitores) | 183 | Dokkar ([pixiv 66560913](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66560913)) | [wallhaven-1j5ze3](https://w.wallhaven.cc/full/1j/wallhaven-1j5ze3.jpg) |
+| 6000×5050 | 111 | bubbleboba | [wallhaven-k7r6k6](https://w.wallhaven.cc/full/k7/wallhaven-k7r6k6.jpg) |
+| 2600×4000 | 87 | MostlyBlueWyatt ([X](https://x.com/MostlyBlueWyatt/status/1975312679415022067)) | [wallhaven-k8xlym](https://w.wallhaven.cc/full/k8/wallhaven-k8xlym.png) |
+| 1920×2463 | 152 | Aoi Ogata ([ArtStation](https://www.artstation.com/artwork/34XkD)) | [wallhaven-x1qzro](https://w.wallhaven.cc/full/x1/wallhaven-x1qzro.jpg) |
+| 3840×2160 | — | minimalista de Yumeko | [wallhaven-1j55g9](https://w.wallhaven.cc/full/1j/wallhaven-1j55g9.png) |
+
+**Oficiales**: la web del anime no ofrece fondos. Sólo **ALL IN** regaló
+uno para celular por X al lanzarse (2026), por campaña, sin archivo
+público ⚠️. Las colecciones de
+[Alpha Coders](https://wall.alphacoders.com/by_sub_category.php?id=269743&name=Kakegurui+Wallpapers&filter=4K+Ultra+HD),
+[WallpaperAccess](https://wallpaperaccess.com/kakegurui) y
+[Wallpaper Cave](https://wallpapercave.com/kakegurui-wallpapers) dicen
+«4K» en el título, pero **no están medidas**: mejor las de arriba.
 
 ---
 
@@ -1300,37 +1376,498 @@ Casi todos son capturas o arte oficial sin crédito: **sólo para mirar**.
 > Úsala sólo para **fondos, objetos o bocetos de pose**. El personaje final
 > se calca de un fotograma real (§15), nunca de la IA.
 
-**Rasgos que nunca cambian**
-- Yumeko: pelo **negro, largo, liso, flequillo recto**; ojos **rojos**
-  cuando juega; chaqueta **roja** con ribete negro; corbata negra cruzada.
-- Mary: **coletas rubias con lazos negros**, ojos amarillos, mismo uniforme.
-- Kirari: **pelo gris muy claro**, ojos azules, **labios azules**.
-- Ririka: **máscara gris** con ojos almendrados y sonrisa curva.
+### 18.1 Para una IA de imagen
 
-**Paleta**: rojo `#C9020F`, negros `#292329` y `#1E181C`, blanco
-`#F7F6FD`. Acentos: dorado de ficha, verde de tapete.
+**Rasgos que nunca cambian** (§16)
+- Yumeko: pelo **negro, largo, liso, corte hime**; ojos **rojos** cuando
+  juega; blazer **rojo** con ribete negro; corbata negra cruzada; anillo
+  de plata en el pulgar izquierdo.
+- Mary: **coletas rubias con lazos negros**, ojos amarillos, botones
+  dorados, falda gris lisa.
+- Kirari: **pelo gris muy claro** con dos rodetes, ojos celestes,
+  **labios azules**.
+- Ririka: **máscara blanca** de teatro, pelo platino.
 
-**Línea y sombra** ⚠️: anime de MAPPA de 2017; línea fina y limpia, sombras
-en bloque, **sombras duras en la cara** cuando la escena se pone tensa;
-brillos húmedos en ojos y labios.
+**Paleta medida**: rojo `#D6362A` (de noche `#832B27`), negro de fondo
+`#1D171C`, piel `#EFDADC`, rojo de ojos `#C23345`, turquesa de acuario
+`#30B5B9`, lavanda de pasillo `#9495D1` (§5, §16, §17).
 
-**Luz**: una fuente cálida lateral y un **contraluz rojo** o **azul de
+**Línea y sombra**: línea fina y limpia, **oscura y cálida**, no negro
+puro; sombra en bloques con el acabado suavizado por la fotografía
+(`estilo.py` lo lee como «degradado, poca línea»); **sombra dura** en la
+cara cuando la escena se tensa; dos brillos en el iris y en los labios
+(§A).
+
+**Luz**: **un solo foco cálido** y un **contraluz rojo** o **turquesa de
 acuario**. Fondo que se oscurece detrás del personaje.
 
-**Encuadre**: plano medio, mesa en primer plano, cámara un poco baja.
+**Encuadre**: plano medio, mesa en primer plano algo desenfocada, cámara
+un poco baja. Para la cara de locura, primer plano cerrado sobre fondo
+negro o de un color (§A).
 
-**Palabras que ayudan** (en inglés): «anime key visual, MAPPA style,
+**Palabras que ayudan** (en inglés): «anime key visual, MAPPA 2017 style,
 elite private academy, red school blazer with black trim, casino chips and
-playing cards on a green felt table, dramatic rim light, glowing red eyes,
-cel shading, high contrast».
+playing cards on a green felt table, single warm spotlight, dark
+background, dramatic rim light, glowing red eyes, cel shading, high
+contrast».
+
+**Vocabulario de expresiones** (para pedir cada gesto):
+- **kaogei / 顔芸** (la cara exagerada de ganar o perder): «wide manic
+  grin, glowing red eyes, flushed cheeks, hands clawed near face» — es el
+  gesto del ep. 1, 12:15-12:43.
+- **Cara normal**: «calm gentle smile, closed eyes, hands together» (ep. 1,
+  7:29). Akita cuida más la cara normal para que el kaogei golpee (§A):
+  pide las dos, nunca una intermedia.
+- **Miedo**: «tiny pupils, teary huge eyes, extreme close-up» (Mary, ep. 1,
+  12:31).
+- **Rabia**: «gritted teeth, furrowed brows, raised fist» (Mary, ep. 2,
+  1:00).
+- **Pensar**: «profile view, half-closed eyes, hand on chin» (Kirari, ep. 2,
+  21:16-21:34).
+- En los eps. 1-2 mirados **no hay** gotas de sudor cómicas ni *chibi*;
+  el humor deformado va al spin-off cómico **Kakkokari** (portadas en
+  `hojas/`) ⚠️ (visto en 2 de 24 episodios).
 
 **Palabras que lo estropean**: «chibi», «kawaii», «pastel», «3D render»,
-«photorealistic», «Las Vegas neon», «revealing», «sexy». Evita cualquier
-pose sugerente: el meme viral de 2026 lo es.
+«photorealistic», «Las Vegas neon», «revealing», «sexy», «sweat drop».
+Evita cualquier pose sugerente: el meme viral de 2026 lo es.
 
-**Referencias de estilo**: el key visual de ×× ([LisAni!](https://www.lisani.jp/0000117737/)),
-las hojas de personaje de ×× ([PASH! PLUS](https://www.pashplus.jp/anime/117240/)).
-**Referencias de pose**: los minutos de §15.
+**Referencias de estilo**: el key visual de ××
+([LisAni!](https://www.lisani.jp/0000117737/)), las hojas de personaje de
+×× ([PASH! PLUS](https://www.pashplus.jp/anime/117240/)), «Gambling-School
+Visual» (1499×2048, hoja `personajes_01.jpg` n.º 46).
+**Referencias de pose**: los minutos de §2.0 y §15.
+
+### 18.2 Para una IA de texto (cómo escribir sus diálogos)
+
+**Cómo habla cada una** (§7.2):
+- **Yumeko**: muy educada, «usted» en español; sube el ritmo con una
+  palabra repetida («さあ さあ さあ…») y estalla con **una** exclamación.
+  Nunca insulta. Explica la locura como algo lógico, en frases cortas.
+- **Mary**: dos voces. En público, dulce y falsa («あ〜ら あら» → «¡Vaya,
+  vaya!»). Enfadada, **muy grosera** y corta: «クソッ», «ナメやがって».
+- **Kirari**: dama tranquila; preguntas raras y bellas; nunca grita.
+- **Ririka** (con máscara): seca, casi militar, sin adornos.
+- **Runa**: alarga las vocales («〜»), se ríe «¡Nyahaha!».
+- **Midari**: ruda, se ríe «ウヘッ» («¡Uhé!»).
+
+**Frases reales, por emoción** (con minuto):
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| Alegre / celebrar | «¡Comencemos esta locura!» | Yumeko, latino, 1×01, 12:39 ⚠️ (§10) |
+| Alegre / celebrar | «さあ さあ さあ さあ! … 賭け狂いましょう!» | Yumeko, 1×03, 00:15:58 |
+| Alegre / gancho | «Looks like this just got pretty interesting» | Yumeko, tráiler, 0:36 |
+| Enfadada | «ボンボンのバカ娘が ナメやがって» («¡La niña rica tonta se burla de mí!») | Mary, 1×01, 00:13:19 |
+| Enfadada | «クソッ» / «ウッゼ〜» | Mary, 1×01, 00:11:19; 1×04, 00:12:34 |
+| Burla | «Today's just not your day, huh?» | Mary, tráiler, 0:24 |
+| Explicando | «La locura es la esencia de las apuestas.» | Yumeko, latino, 1×01, 12:11 ⚠️ |
+| Explicando | «En ese caso, mientras más loco estés, más disfrutas apostar.» | Yumeko, latino, 1×01, 12:31 |
+| Explicando / retar | «Si aciertas dónde están los votos, te doy estos cien» | Ririka, 2×03, 00:07:36 |
+| Animando / saludo | «みんな こんにちは〜!» («¡Hola a todos〜!») | Runa, 2×02, 00:04:34 |
+| Pensando | «月の裏側って見たことある?» («¿Has visto la cara oculta de la Luna?») | Kirari, 1×06, 00:24:09 |
+| Triste | «How did this happen, anyway?» | Mary, 1×01, 00:16:59 |
+| Triste / vergüenza | «私は… 私は…» («Yo… yo…») | Ririka sin máscara, 2×03, 00:18:05 ⚠️ |
+
+**Puntuación y exageración**: puntos suspensivos antes de estallar;
+exclamación al final, no en cada frase; la tilde de alargar («〜») sólo
+para Runa y para la dulzura falsa de Mary. Nada de emojis ni de
+«jajaja»: cada una tiene su risa.
+
+**Vocabulario del mundo** para los textos del bot (§H): *mascota*
+(«Pochi», «Mike»), *donación*, *combate oficial*, *plan de vida*,
+*consejo estudiantil*, *los 100 votos*, *all in*.
+
+---
+
+## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+### A.1 Lo que dice el equipo
+
+- **Pensar como cine de imagen real.** El director **Yuichiro Hayashi**
+  (林祐一郎) se preguntaba «si esto fuera imagen real, ¿cómo lo filmaría?».
+  Buscaba encuadres con «peso emocional, energía y tridimensionalidad» y
+  **jugar con la luz**: «luz de tarde, luz de luna, distintas luces», lo que
+  el manga en blanco y negro no puede dar ✅
+  ([easternkicks](https://www.easternkicks.com/features/yuichiro-hayashi-interview/),
+  [All the Anime](https://blog.alltheanime.com/interview-yuichiro-hayashi/)).
+- **Dos temporadas, dos filtros.** La T1 es «oscura, sucia y realista»;
+  la ×× es «más colorida, más vibrante» ✅ (easternkicks +
+  [Anime UK News](https://animeuknews.net/2019/08/interview-kakegurui-director-yuichiro-hayashi/)).
+- **La cara normal se cuida más.** El diseñador **Manabu Akita** (秋田学)
+  dibuja las caras normales «simples y monas» a propósito, para que el
+  contraste con el **顔芸** (kaogei, la cara exagerada) golpee más ✅
+  ([MANTANWEB](https://mantan-web.jp/article/20190309dog00m200005000c.html),
+  [4Gamer](https://www.4gamer.net/games/338/G033856/20170809048/)).
+- **Manos y cartas en 3DCG.** Cada temporada tiene un **director de CG**
+  (Jae-Hun Sin en la T1; Motoi Okuno en ××) ✅
+  ([AniList](https://anilist.co/anime/98314/staff)). Que las cartas y las
+  manos se animen en 3D dentro del dibujo 2D sale de un resumen de la
+  entrevista de [Comic Natalie](https://natalie.mu/comic/pp/kakegurui_anime01),
+  que da 403 directa y en Wayback ⚠️.
+- **Programas del estudio** (Clip Studio, RETAS, Toon Boom…): **no lo
+  encontré** en ninguna entrevista ⚠️ (búsquedas en japonés e inglés,
+  bitácora).
+
+### A.2 Línea, sombra y luz
+
+- **Línea** fina y limpia, **oscura y cálida**, no negro puro ✅ (`estilo.py`
+  en 6 fotogramas, §17).
+- **Sombra**: el diseño es de bloques (piel y sombra), pero la fotografía
+  lo suaviza: `estilo.py` lo lee como «degradado, poca línea» ✅. En los
+  primeros planos de tensión la sombra se vuelve **dura y angulosa**
+  (mandíbula, párpado) ⚠️ (visto en ep. 1, 12:15-12:43).
+- **Ojos**: dos brillos redondos en el iris; labios húmedos ⚠️.
+- **Luz**: un foco cálido y un **contraluz de color** (rojo cuando gana,
+  turquesa cerca del acuario) ✅ (§17 + Hayashi).
+- **Manga** (Naomura): pelo negro relleno, poca trama, rayas finas
+  radiales alrededor de los ojos en la locura; línea gruesa, sin grano de
+  papel (§B) ✅.
+
+### A.3 Encuadres y composición
+
+- **Apuesta**: plano medio, **mesa en primer término** algo desenfocada,
+  cámara un poco baja ✅ (ep. 1, 6:05-7:41).
+- **Kaogei**: primer plano muy cerrado, cámara a la altura de los ojos,
+  fondo que se apaga a negro o a un color ✅ (ep. 1, 12:39, fondo `#1D171C`
+  en el 53 % del cuadro).
+- **Consejo**: plano medio-largo, simétrico, Kirari centrada a la cabecera
+  ✅ (ep. 2, 21:37).
+- **Miedo**: los ojos llenan el plano (Mary, ep. 1, 12:31) ✅.
+
+### A.4 Cómo reproducirlo en Photoshop
+
+1. **Línea**: pincel duro de borde limpio, 2-3 px en un lienzo de 2000 px;
+   color `#2A1B22`, no negro puro. Sin textura de papel.
+2. **Sombra**: una capa en **Multiplicar** recortada sobre el color base,
+   pintada con **lazo poligonal** (formas duras). Después, desenfoque
+   gaussiano de 1-2 px sólo en esa capa: así sale el bloque suavizado.
+3. **Contraluz**: capa en **Trama** o **Aclarar**, sólo en el borde del pelo
+   y el hombro; rojo `#C23345` o turquesa `#30B5B9`.
+4. **Ojos**: dos elipses blancas y un degradado sutil en **Superponer**.
+5. **Kaogei**: exagera **sólo** boca, cejas y pupilas; el resto de la
+   cara queda como el diseño de Akita.
+6. **Grano**: ruido del 2-3 % en **Superponer** para la T1; quítalo y sube
+   algo la saturación para ××. Es una receta para llegar al mismo aspecto,
+   no el proceso del estudio ⚠️.
+
+### A.5 Cómo reproducirlo en Blender
+
+1. **Sombreado de dibujo**: `Shader to RGB` → `Color Ramp` de 2-3 bandas
+   en **Constant** → `Emission` (Eevee).
+2. **Contorno**: modificador **Solidify** con normales invertidas, material
+   negro cálido, grosor 0,01-0,02; o **Freestyle** a 1-1,5 px.
+3. **Luz**: una **key** cálida (unos 3200 K) y un **rim light** rojo o
+   turquesa detrás; sin relleno de frente, para no perder la sombra dura.
+4. **Modelos y rigs libres** (API de Sketchfab):
+   - [Runa Yomozuki con rig](https://sketchfab.com/3d-models/runa-yomozuki-kakegurui-70dafed89bcd4dd3b9f5654f90ebeef3),
+     Gustav_Johansson00, **CC BY-NC**, 40 434 caras ✅.
+   - [Kakegurui Runa](https://sketchfab.com/3d-models/kakegurui-runa-b015aaa7272c4191a543722ead37a316),
+     claener, **CC BY**, 2,46 millones de caras, sin rig ✅.
+   - [Yumeko](https://sketchfab.com/3d-models/yumeko-9834761e49a346cba73c8e1d9ab40122),
+     Yaanaa, CC BY 4.0 (el personaje sigue siendo de Square Enix: sólo
+     para posar y mirar) ✅.
+   - Mary y Kirari: **no hay** modelo libre y descargable ⚠️ (API,
+     `q=kakegurui mary`, `q=kakegurui kirari`).
+   - Mesa, fichas y cartas: §4.1.
+5. **Encima**: textura de sarga fina en Multiplicar sobre el blazer y una
+   **aberración cromática muy leve** en los bordes del contraluz rojo, para
+   el aspecto «sucio» de la T1.
+
+---
+
+## B · Texturas 2D (punto 19)
+
+| Capa | Qué se ve en la serie | Equivalente libre | Licencia |
+|---|---|---|---|
+| **Trama de manga** | poca trama; rayas radiales en los ojos de la locura (hojas `personajes_02.jpg` y `vestuario_03.jpg`, n.º 58, 63, 67, 74, 90, 130, 149, 163-164, 170-172) ✅ | [Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037), CLIP STUDIO ASSETS | gratis, de un tercero ⚠️ comprobar al bajar |
+| **Grano de papel** | el manga no lo tiene (impresión digital); úsalo sólo en el papel del objeto | [ambientCG Paper001](https://ambientcg.com/view?id=Paper001), [Paper005](https://ambientcg.com/view?id=Paper005), [Paper006](https://ambientcg.com/view?id=Paper006) | **CC0** ✅ |
+| **Cartón** | caja de cartas del consejo | [ambientCG Cardboard002](https://ambientcg.com/view?id=Cardboard002) | **CC0** ✅ |
+| **Falda a cuadros** | Yumeko: negro y gris; Mary: gris lisa | [TextureCan, Red Tartan](https://www.texturecan.com/details/595/) (recolorear), [Raw Catalog, Tartan Cloth](https://www.rawcatalog.com/asset/3450/) | libre ⚠️ comprobar al bajar |
+| **Dorso de carta** | rombos rojos y negros, visto en la base de las figuras ARTFX J (§F) ✅ | dibujarlo: patrón de rombos en Photoshop | propio |
+| **Tapete y madera** | mesa de juego | §5.4 ([Poly Haven wood_table_worn](https://polyhaven.com/a/wood_table_worn)) | **CC0** ✅ |
+| **Emblemas** | placas de mascota, clan Momobami (§H) | usar su forma como referencia y redibujar | © titulares |
+
+**Escudo del colegio**: **no lo encontré**. Busqué «emblem», «crest»,
+«badge», «insignia» en la wiki inglesa y «校章», «エンブレム», «紋章» en
+Wikipedia japonesa; ninguna describe uno ⚠️. Lo más parecido es el sello
+rojo de los papeles del consejo (§7). La baraja oficial con estampado
+metálico (賭ケグルイ 箔押しトランプ) no tiene imagen pública que encontrara
+⚠️.
+
+---
+
+## C · Gustos y detalles de cada personaje (punto 20)
+
+No hay *databook* oficial. La fuente más rica es un **podcast del propio
+autor, Homura Kawamoto, con su hermano**, traducido en un hilo de X por
+[@Shishi_Odoshii](https://x.com/Shishi_Odoshii/status/2005737101116203158)
+(29-dic-2025), leído con `api.fxtwitter.com`. Es la voz del autor, pero
+traducida por un fan: por eso lleva ⚠️. El resto, de las fichas de la
+[wiki](https://kakegurui.fandom.com/wiki/Yumeko_Jabami) y de
+[AniList](https://anilist.co/character/121889).
+
+| | Yumeko | Mary | Kirari | Ririka |
+|---|---|---|---|---|
+| **Altura** | 166 cm ✅ (wiki + AniList) | 162 cm ✅ (wiki + AniList) | 166 cm ⚠️ | 166 cm, gemela ✅ |
+| **Cumpleaños** | no revelado | **8 de marzo** ✅ (AniList + manga, cap. 21) | no revelado (el 24/8 de AniList no tiene fuente) | no revelado |
+| **Comida** | — | — | **McDonald's, donas y café**; kimchi y pulpo; casi no come carne ⚠️ | — |
+| **Afición** | apostar por la emoción, no por el dinero ✅ | — | **baloncesto** ⚠️ | — |
+| **Ama / odia** | — | odia **los abrazos**; le gusta la gente muy honesta ⚠️ | se aburre: ya sabía todo lo del colegio antes de llegar ⚠️ | — |
+| **Siempre lleva** | **anillo de plata** en el pulgar izquierdo, de la boda de sus padres ✅ | el **pasador de Tsuzura**, su amiga de *Twin* ✅ | rodetes inspirados en **donas y cuentas budistas** ⚠️ | **máscara de repuesto**; un iPhone ⚠️ |
+| **Cómo se ve** | nunca tiene monólogo interno: no sabemos qué piensa ✅ | **becada** y sin dinero; quiere «ser una ganadora de verdad» ✅ | — | sólo **la suplente** de Kirari ✅; más cercana a Mary y Yumeko que su hermana ⚠️ |
+
+**Por qué casi nadie tiene cumpleaños**: Kawamoto dice que no los fija
+«porque podrían usarse en la historia, como pasó con Mary» ⚠️. Las fichas
+de la wiki dejan vacío el campo en Yumeko, Kirari, Ririka, Midari y Runa ✅.
+
+**Secundarias**:
+- **Runa**: 130 cm, la más bajita ⚠️; su risa «にゃはは» es la única risa
+  propia de un personaje ✅.
+- **Midari**: 170 cm, la más alta ⚠️; **zurda** ⚠️; la única con peso en
+  todos los medios (manga, Twin, anime, drama) ✅.
+- **El favorito del autor** es Yumeko; el de su hermano, Sumika
+  Warakubami ⚠️. La seiyū de Yumeko, **Saori Hayami**, eligió a **Midari**:
+  «pone la misma cara que un cachorro esperando a su dueño» ✅
+  ([entertainmentstation.jp](https://entertainmentstation.jp/388789/2), vía
+  la [wiki](https://kakegurui.fandom.com/wiki/Midari_Ikishima)).
+
+---
+
+## D · Por qué la gente la ama (punto 21)
+
+### D.1 Ventas y premios
+
+- **El manga no para de crecer**: 4 millones de copias (feb-2018) → 5 (2019)
+  → 6,2 (2021) → **6,8 millones** (jun-2022) ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Kakegurui),
+  [ANN](https://www.animenewsnetwork.com/daily-briefs/2018-02-01/kakegurui-manga-has-4-million-copies-in-print/.127149)).
+- **«Deal with the Devil»** fue **nominado a mejor opening** en los 3.º
+  Crunchyroll Anime Awards (2018), contra *Darling in the Franxx* y *JoJo*;
+  no ganó ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Opening_Sequence)).
+- **Resurgir en 2020**: Megan Thee Stallion y Poppy se disfrazaron de
+  Yumeko y hablaron de la serie; trajo fans nuevos tres años después ✅
+  ([CBR](https://www.cbr.com/how-kakegurui-anime-became-popular/)).
+  En 2026, el meme «kakegurui mashou» la volvió viral otra vez (§14).
+
+### D.2 Con quién se identifica el público
+
+- **Yumeko**: parece ingenua pero pilla cualquier trampa y **disfruta el
+  juego, no el premio**. La gente se identifica con esa falta de miedo ⚠️
+  (resumen de hilos de MyAnimeList).
+- **Mary**: pierde, se humilla y vuelve. Y en *Twin* se sabe que es
+  **becada en un colegio de ricos**: su hambre de ganar tiene raíz de clase.
+  Por eso es la más votada ✅ (§9).
+- **El autor se sorprendió**: Kirari no quedó 1.ª, Mary la superó y
+  Yumeko quedó 5.ª; cree que **Ririka subiría** si se repitiera ⚠️ (podcast,
+  tuits [2/21](https://x.com/Shishi_Odoshii/status/2005734414832263348) y
+  [13/14](https://x.com/Shishi_Odoshii/status/2005737123933217025)).
+- Aquí nadie gusta por huir: gusta **plantarse y apostarlo todo**.
+
+### D.3 Las escenas: aquí no se llora, se grita
+
+Kakegurui **no es una serie que haga llorar**: hace gritar de emoción o
+reír de vergüenza ajena. Estas son las que todos recuerdan.
+
+| Escena | Minuto | Qué pasa | Cómo está hecha | Cómo reaccionó la gente |
+|---|---|---|---|---|
+| **«¡Comencemos esta locura!»** (grito) | 1×01, 00:12:08-00:12:40 (sub); 11:55-12:43 (visto, latino) | Yumeko explica por qué apostar la vida da placer y reta a Mary | un foco cálido, fondo negro `#1D171C`, ojos rojos, cámara que se acerca; cuerdas y percusión que suben | la frase es el meme de 2026 y el clip más repetido ([Know Your Meme](https://knowyourmeme.com/memes/kakegurui-masho-kakeguruimashou-trend), CBR) |
+| **Mary en el suelo** (vergüenza ajena, y algo de pena) | 1×01, 00:16:59 (sub) | la que humillaba acaba de mascota, «How did this happen, anyway?» | el aula a oscuras, Mary pequeña en el encuadre ⚠️ | el inicio del arco favorito de los fans (wiki, Screen Rant, CBR) |
+| **Mary con la placa «ミケ»** (rabia) | ep. 2, 1:00 (visto) | Mary furiosa levanta la placa con cadena | primer plano del puño | — |
+| **Ririka sin máscara** (lo más cercano a la pena) | 2×03, 00:18:05 (sub) ⚠️ | la Momobami fría se traba: «私は… 私は…» | sin ver ⚠️ | según el autor, la primera vez que se planta ante Kirari ⚠️ |
+
+**Qué música suena** en cada una: **no lo encontré** ⚠️ (el OST no trae
+minutos y VGMdb da 403). Lo oído: subidas de cuerda y percusión en cada
+apuesta (§11).
+
+---
+
+## E · Fan dubs y comunidad hispana (punto 22)
+
+Todo con título, canal, vistas y fecha leídos con `yt-dlp` (sin descargar
+el vídeo) ✅, salvo TikTok, que bloquea `yt-dlp` ⚠️.
+
+### E.1 Fan dubs en español
+
+| Qué | Canal | Vistas | Fecha |
+|---|---|---|---|
+| [Capítulo 1 (clip), fandub español](https://www.youtube.com/watch?v=ub4zVzGiD8w) | **Sakato Irumi**, con Lirin1996 y JonTenox | 94 330 | 07-mar-2018 |
+| [Live action, fandub latino](https://www.youtube.com/watch?v=6OFbbHMq7-I) | **El DMNT** | 15 398 | 19-nov-2020 |
+| [Yumeko vs Mary, fandub latino](https://www.youtube.com/watch?v=YjKNo0ajMO8) | **Sekai no Yuro FD** | 1922 | 08-jun-2021 |
+| [OVA 1, Maid Café Hyakkaou, fandub latino](https://www.youtube.com/watch?v=b9vkToczwjU) | **GoldFandubs** | 203 | 22-dic-2024 |
+
+Créditos que traen: en el cap. 1, traducción y adaptación de Lirin1996; en
+la OVA, Yumeko es *Dian_dubs*, Mary *Takiry*, Suzui *Affter!Vibes*.
+
+### E.2 Covers del opening en español
+
+| Cover | Canal | Vistas | Fecha |
+|---|---|---|---|
+| [Deal With The Devil (cover español)](https://www.youtube.com/watch?v=TbAUB9c0Lgk) | **Miree**, con Aryes Anime y Pidrosax | **634 563** | 04-dic-2020 |
+| [Opening FULL, fandub español](https://www.youtube.com/watch?v=TQKT8qLqt8E) | **Hana** | 202 072 | 03-sep-2017 |
+| [Opening, fandub español](https://www.youtube.com/watch?v=2LMGHGeasfw) | **Hana** | 21 564 | 06-jul-2017 |
+| [OP, fandub latino](https://www.youtube.com/watch?v=50RHkSSOTs0) | **Skargu** | 8233 | 20-jul-2017 |
+| [Opening, fandub latino](https://www.youtube.com/watch?v=lSfFW6GQOvw) | **Val** | 2703 | 08-may-2018 |
+| [Cover español](https://soundcloud.com/user-652528345/kakegurui-opening-deal-with) | bestendista (SoundCloud) | 135 | — |
+
+El de **Miree** sale en diciembre de 2020, justo con el resurgir que cuenta
+CBR (§D).
+
+### E.3 Parodias y memes (TikTok, sin poder abrirlos) ⚠️
+
+- [@kazumaldito](https://www.tiktok.com/@kazumaldito/video/7490415201846660358):
+  «kakegurui mashou» en japonés contra el doblaje; unos **288 mil me gusta**
+  según el buscador.
+- [@marhinafrances](https://www.tiktok.com/@marhinafrances/video/7245344327600278810):
+  doblaje casero de Yumeko y Mary.
+- [@kodenwatch](https://www.tiktok.com/@kodenwatch/video/6986793041587703046):
+  «¿Cuál prefieres?», análisis de doblajes.
+- [@kira.bug](https://www.tiktok.com/@kira.bug/video/6917750424757931269)
+  (latino contra castellano) y el reto de
+  [@jarigrt](https://www.tiktok.com/@jarigrt/video/7344802281633746181), en §10.
+
+**No encontré** fan dubs ni covers de *Twin* ni de ×× en español: la
+comunidad hispana se quedó con la T1 y el *live action*.
+
+---
+
+## F · Colaboraciones, figuras y cosplay (punto 23)
+
+Casi todo sale de [collabo-cafe.com](https://collabo-cafe.com/) (agregador
+japonés de eventos), cruzado con otra fuente cuando la hay.
+
+| Qué | Cuándo | Qué trae | Fuente | Estado |
+|---|---|---|---|---|
+| **Karaoke no Tetsujin** × Kakegurui | 15-sep a 5-nov-2017, 7 locales de Tokio | decoración y menú temático | [collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-karatetsu/) | ⚠️ |
+| **Myoujin Cafe** × Kakegurui | 30-ago a 1-oct-2017 | menú «con mucho de apuesta», bebidas con personaje | [collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-myoujin-cafe/) | ⚠️ |
+| **Kakegurui Cafe** (Princess Cafe, 4 locales) | 27-abr a 31-may-2019 | café oficial de ××, posavasos | [collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-princess-cafe2019/) | ⚠️ |
+| **SINoALICE** × Kakegurui ×× | abr-2022 | cruce en el gacha para móvil | [ANN](https://www.animenewsnetwork.com/press-release/2022-04-26/sinoalice-has-started-a-collaboration-with-kakegurui-xx/.185026) + wiki | ✅ |
+| **Exposición 賭ケグルイ展** | desde 4-feb-2023, Tokio, Fukuoka, Osaka | páginas originales e ilustraciones a color; firma de Kawamoto | [collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-exhibition-tokyo-fukuoka-osaka-2023/) (imagen 1280×803) | ⚠️ |
+| **Pachislot «蛇喰夢子という女»** y **pachinko «eカケグルイ»** | 2023 y 2026 | arte propio: Yumeko con «さぁ» en rojo; Yumeko mordiéndose la uña | [p-town](https://p-town.dmm.com/machines/4374) + [P-WORLD](https://www.p-world.co.jp/machine/database/9844); [p-town](https://p-town.dmm.com/machines/5004) + [pachinkovillage](https://www.pachinkovillage.com/pachinko/p.php?M=7445) | ✅ |
+| **Perfumes** de Yumeko y Mary | — | el uniforme dibujado en el frasco (1149×1500) | wiki + [essential-japan](https://essential-japan.com/news/kakegurui-perfume/) | ✅ |
+| **PALE TONE** (Contents Seed) | 2024-2025 | acrílicos en acuarela pastel: Yumeko, Kirari, Mary, Ryota | [vol. 1](https://collabo-cafe.com/events/collabo/kakegurui-pale-tone-series-contents-seed-anime-store-goods2024/), [vol. 3](https://collabo-cafe.com/events/collabo/kakegurui-pale-tone-series-vol3-contents-seed-anime-store-goods2025/) | ⚠️ |
+
+**Figuras oficiales** (su pose es una referencia 3D):
+- **ARTFX J de Yumeko y de Mary** (Kotobukiya, reedición anunciada el
+  20-oct-2024): cartas volando, pelo al viento, pose de **lanzar cartas**;
+  la base lleva el dorso de carta de rombos ✅
+  ([collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-reproduction-figure-ktobukiya-anime-store-goods2024/),
+  imagen 2002×1082).
+- **Mary 1/6 de Union Creative** (anuncio 20-sep-2025, venta mar-2026):
+  uniforme, sonrisa de «ya gané», cartas cayendo, base de mesa de casino ⚠️
+  ([collabo-cafe](https://collabo-cafe.com/events/collabo/kakegurui-mary-scale-figure-union-creative-anime-store-goods2025/),
+  imagen 1200×615).
+
+**Cosplay**: 20 fotos **CC BY-NC-SA 2.0** en Openverse (Yumeko, Mary, Runa;
+683-1024 px, medidas) ✅, en §4.4. Patrón del uniforme:
+[Imaginations Costume](https://www.imaginationscostumes.com/anime-kakegurui-yumeko-jabami-cosplay-uniform/).
+Megan Thee Stallion y Poppy de Yumeko: §D.
+
+**No encontré** colaboraciones fuera de Japón (Fortnite, gachas globales
+grandes) ⚠️: no busqué en chino ni en coreano.
+
+---
+
+## G · Obras parecidas y temas relacionados (punto 24)
+
+**De tono parecido** (recomendaciones de usuarios de
+[AniList](https://anilist.co/anime/98314)): *No Game No Life*, *Classroom of
+the Elite*, *Death Parade*, *Kaiji*, *Death Note*, *Prison School*, *Akagi*,
+*Tomodachi Game*, *Talentless Nana*. Todas son **juegos psicológicos con
+mucho en juego** ✅.
+
+**Lo que reconoce el autor** (entrevista en japonés,
+[Big Comic BROS.NET](https://bigcomicbros.net/8281/)) ⚠️ una fuente, pero
+es su propia voz:
+- ***Kaiji*** de Nobuyuki Fukumoto: «¡Existe un manga así!».
+- Fuera de las apuestas: la novela *El caso de los crímenes del zodíaco*
+  (Sōji Shimada), *Satsuriku ni Itaru Yamai* (Takemaru Abiko) y la novela
+  visual *Kamaitachi no Yoru*.
+- Su regla: **«se dibuja a la persona que juega, no el juego»**. Por eso
+  manda la cara, no las reglas.
+- La escena de Sayaka acariciando la silla de la presidenta fue **idea del
+  dibujante, Tōru Naomura**.
+
+**Otras láminas del servidor** (para no repetir):
+- **Death Note** (`biblias/18-death-note/`): mismo género, pero sus
+  conceptos usan **un cuaderno** y **un televisor**; ni mesa, ni cartas, ni
+  fichas. No choca ✅.
+- **No Game No Life** (`encargos/84-no-game-no-life.md`): su biblia aún no
+  existe. Si se hace, que **no repita la mesa con cartas y fichas** como
+  objeto central (aviso para el dueño) ⚠️.
+- **Assassination Classroom**: colegio, pero sin apuestas; no choca.
+
+---
+
+## H · El mundo, la historia y sus símbolos (punto 25)
+
+### H.1 Las reglas, en cinco líneas
+
+1. En la **academia Hyakkaou** (私立百花王学園, 122 años) no mandan las notas
+   ni el deporte: **manda el que gana apostando** ✅
+   ([wiki](https://kakegurui.fandom.com/wiki/Hyakkaou_Private_Academy)).
+2. El **consejo estudiantil** cobra «donaciones», voluntarias en teoría y
+   obligatorias en la práctica, y con eso controla todo ✅.
+3. Los **últimos 100 de 3000** se vuelven **mascotas** (家畜): «Pochi» los
+   chicos y «Mike» las chicas, con placa al cuello y sin derechos. Salen
+   ganando un **combate oficial** o pagando un millón de yenes ✅
+   ([wiki](https://kakegurui.fandom.com/wiki/Housepet)).
+4. Quien no puede pagar recibe un **plan de vida** (人生計画表), un
+   cuadernillo que le dicta trabajo y boda al graduarse ✅.
+5. Detrás está el **clan Momobami** (百喰一族, «las cien familias
+   devoradoras»): ramas rivales, apellidos acabados en «-bami», cada una
+   con un negocio. Kirari lo manda desde los siete años ✅
+   ([wiki](https://kakegurui.fandom.com/wiki/The_Hundred_Devouring_Families)).
+
+### H.2 La historia por arcos
+
+Según la [wiki](https://kakegurui.fandom.com/wiki/Story_Arcs):
+
+**Temporada 1** (eps. 1-12): Yumeko llega y gana a Mary a piedra, papel o
+tijera → cae a mascota y juega póquer indio → Midari la reta a un juego de
+vida o muerte → gana a Yumemi (la ídolo) y a Kaede (el contable) → duelo
+final con Sayaka en la **Torre de las Puertas**.
+
+**Temporada 2, ××** (eps. 13-24): la guillotina de dedos → Nim Type Zero
+con dos Momobami → el juego del bien común por los votos → concurso de
+actuación con Yumemi → la subasta de cien votos (sólo del anime) → la
+elección: Ririka enmascarada y sus **100 votos**, y Kirari reelegida.
+
+El manga sigue con arcos (la guerra, el gran torneo) **sin anime** ✅.
+
+**Momentos clave, en orden**:
+- 1×01, 00:12:37: «さあ 賭け狂いましょう!», el título dicho en voz alta.
+- 1×02, 00:03:51-00:04:59: se explica el sistema de mascotas.
+- 2×03, 00:07:31: Ririka y los 100 votos.
+- 2×05, 00:07:01: Kirari dice «オールイン» (all in) dos veces.
+
+### H.3 Emblemas y objetos (medidos en la wiki)
+
+| Objeto | Qué es | Imagen | Tamaño |
+|---|---|---|---|
+| Placas de mascota | chapa con forma de pata, una de gata y otra de perro | [Kakegurui_collar.jpg](https://static.wikia.nocookie.net/kakegurui/images/c/c3/Kakegurui_collar.jpg/revision/latest?cb=20201225202413) | 749×807 ✅ |
+| Placas juntas | muchas sobre una mesa (drama) | [Housepet_tags_drama.jpg](https://static.wikia.nocookie.net/kakegurui/images/e/e3/Housepet_tags_drama.jpg/revision/latest?cb=20190714181215) | 1000×667 ✅ |
+| Sistema de mascotas (manga) | viñeta que lo explica | [Volume_1_Pet_System](https://static.wikia.nocookie.net/kakegurui/images/6/65/Volume_1_Pet_System_explanation_image.PNG/revision/latest?cb=20170630200326) | 881×343 ✅ |
+| La academia | fachada occidental | [HyakkaoAcademy.jpg](https://static.wikia.nocookie.net/kakegurui/images/7/78/HyakkaoAcademy.jpg/revision/latest?cb=20190809132405) | 669×435 ✅ |
+| Clan Momobami | árbol de las familias | [Clan.jpg](https://static.wikia.nocookie.net/kakegurui/images/a/a1/Clan.jpg/revision/latest?cb=20190206092249) | 1880×947 ✅ |
+
+El consejo **no tiene logo propio** aparte del sello rojo de sus papeles;
+no encontré un escudo de tela o metal ⚠️.
+
+### H.4 Vocabulario que un fan reconoce
+
+- **賭ケグルイ** (kakegurui): «loco por el juego»; el título mezcla kanji y
+  katakana para que se vea más agresivo ✅.
+- **家畜** (kachiku): mascota, el estatus de los últimos.
+- **ポチ / ミケ** (Pochi / Mike): sus motes de perro y gata; en inglés,
+  «Fido» y «Mittens» ✅.
+- **生徒会** (el consejo) y **公式戦** (combate oficial, el único derecho de
+  una mascota) ✅.
+- **人生計画表**: el plan de vida ✅.
+- **百喰一族**: el clan Momobami ✅.
+- **顔芸** (kaogei): la cara exagerada; la palabra que hay que usar con una
+  IA de imagen (§18) ✅.
+- **オールイン** (all in) y **los 100 votos**: la elección de ××.
 
 ---
 
@@ -1432,22 +1969,99 @@ la más bonita de luz. C es la mejor para una **lámina 2 de economía**.
 
 ## 20 · Lo que no pude verificar
 
+Actualizado tras la segunda pasada. Lo resuelto se tacha.
+
 - **La lista real de comandos** del canal: no está en el inventario.
-- **Ninguna imagen**: no hay hojas de contacto. Todo lo visual va ⚠️.
-- **Voces latinas** de Kirari, Ririka, Midari, Sayaka y Runa; el director
-  del doblaje; la frase latina de «賭け狂いましょう».
-- **El orden 2.º a 5.º** del concurso oficial de popularidad.
-- **Los colores** de cada personaje: sólo tengo la paleta del uniforme.
-- **La letra del logo**.
-- **El aspecto** del tablón, de la placa de mascota, de los rótulos de
-  título y de las interfaces de los dos juegos.
-- **El opening y el ending de ××**: un solo resumen.
-- **El acuario** de la sala del consejo: una sola fuente.
-- **Los minutos de los vídeos** de YouTube y TikTok.
+- ~~Ninguna imagen~~ → hay **11 hojas de contacto** (3 en `hojas/`, §3.0)
+  y 2 episodios y el tráiler mirados (§2.0).
+- ~~Voces latinas de Kirari, Ririka, Midari, Sayaka, Runa y el director~~
+  → resueltas con dos páginas de Doblaje Wiki cada una (§10).
+- **La frase latina de «賭け狂いましょう»**: Whisper oye «¡Comencemos esta
+  locura!» (1×01, 12:39), pero otro modelo oyó otra cosa: **falta
+  confirmarla de oído** ⚠️ (§10).
+- ~~El orden 2.º a 5.º de la encuesta~~ → lo cuenta el autor en un
+  podcast, traducido por un fan: Mary 1.ª ✅; Kirari 2.ª y Yumeko 5.ª ⚠️ (§9).
+- ~~Los colores de cada personaje~~ → medidos en arte oficial y en
+  fotogramas (§5, §16, §17).
+- **La letra del logo** ⚠️ (§6).
+- **El aspecto real del tablón** y de las interfaces de los dos juegos ⚠️
+  (§13). La placa de mascota ya tiene imagen (§H).
+- **El opening y el ending de ××**: un solo resumen ⚠️ (§11).
+- **Los minutos de los vídeos** de YouTube y TikTok: YouTube pidió sesión
+  y TikTok bloquea `yt-dlp` ⚠️ (§12.2, §E.3).
+- **Las citas de la T2 (××)**: minutos del subtítulo de la primera pasada,
+  sin volver a comprobar ⚠️. El doblaje de ×× está en Internet Archive sin
+  mirar.
+- **Vídeo en 1080p**: lo mirado es 853×480. La misma colección de Internet
+  Archive trae **MKV 1280×720** de cada episodio: es la vía para capturas.
+- **Qué música suena** en las escenas fuertes ⚠️ (§D).
+- **Manos y cartas en 3DCG**: sólo un resumen de la entrevista de Natalie ⚠️ (§A).
+- **Programas del estudio** y **escudo del colegio**: no encontrados ⚠️
+  (§A, §B).
+- **Ririka con la cara visible** en vídeo: no se vio ⚠️ (§8.1).
 
 ---
 
-## 21 · Bitácora de búsqueda
+## 21 · Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (falta algo que se puede conseguir) · ❌ no hecho.
+Un dato buscado a fondo y no encontrado cuenta como hecho si la búsqueda
+está en la bitácora; los datos sueltos con una sola fuente llevan su ⚠️ en
+el texto.
+
+### Los 25 puntos de «Qué investigar»
+
+| N.º | Punto | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial, en cantidad y variado | ✅ | 1051 imágenes de la wiki en 11 hojas (3 en `hojas/`), key visuals de T1 y ××, portadas de tomos, Twin y Kakkokari, BD, pachislot, pachinko, perfumes, figuras (§3, §F). Sin artbook: no existe uno de Naomura que encontrara |
+| 2 | Fotogramas de escenas icónicas, con capítulo y minuto | ⚠️ | 25 momentos mirados con minuto (§2.0) y los del subtítulo (§2.2-2.3). Pero son **853×480**, no 1080p: la copia MKV 1280×720 de Internet Archive quedó sin usar |
+| 3 | Fan art y renders 3D (referencia), 3D libre | ✅ | 7 modelos de Sketchfab con licencia leída en su API, 3 de personaje, madera CC0 de Poly Haven, fan art con autor, 20 fotos de cosplay CC (§4) |
+| 4 | Fondos y sitios, luz, paleta, texturas reales | ✅ | 6 sitios vistos en vídeo con hex medidos con `estilo.py` (§5, §17); texturas CC0 de ambientCG y Poly Haven (§5.4). El club de Cultura Tradicional, sin ver |
+| 5 | Tipografía, una letra por uso, con tildes | ✅ | 9 usos con su letra libre, comprobadas con fontTools (§6). La letra real del logo no se identificó ⚠️ |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | cartelas, subtítulos, voz en off de Suzui, carta como cuadro de diálogo, qué no hacer (§7) |
+| 7 | Personajes y encuestas de popularidad | ✅ | encuesta oficial de Gangan Joker (Mary 1.ª) + dos de fans + AniList + el autor en un podcast (§8, §9) |
+| 8 | Doblaje latino: reparto y frases | ⚠️ | 16 papeles, director y estudio; los principales con dos fuentes (ficha de la serie y del actor en Doblaje Wiki, o AniList), 3 menores con una (§10). Frases latinas oídas con Whisper (§10), pero la frase clave «¡Comencemos esta locura!» tiene una sola transcripción fiable |
+| 9 | Música y sonido | ⚠️ | opening y ending con créditos leídos en pantalla (ryo, TECHNOBOYS) (§11). No se sabe qué pista suena en las escenas fuertes, y los efectos de sonido son de oído, sin fuente |
+| 10 | Vídeos con enlace y minuto exacto | ⚠️ | tráiler y eps. 1-2 con minutos (§12.1); 11 análisis y recopilaciones de YouTube, Bilibili y TikTok sin minuto (YouTube pidió sesión) (§12.2) |
+| 11 | Videojuegos: interfaz, menús, cajas de diálogo | ⚠️ | ALL IN y Cheating Allowed descritos con fuente (§13), pero **sin capturas** de su interfaz ni de sus cajas de diálogo |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | memes («kakegurui mashou», 2026), caras, Mary «best girl», lista de errores que un fan notaría (§14) |
+| 13 | Descripción profunda de cada personaje | ⚠️ | carácter, historia, miedos, voz y dinámicas de los 4 principales y los secundarios (§8). La cara en cada emoción: 6 de 20 casillas vistas en vídeo, 4 con minuto de subtítulo (§8.1) |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Yumeko 9, Mary 10, Kirari 9, Ririka 6, Runa 3, con minuto y uso (presentar, explicar, celebrar…) (§15). Parte de los minutos son de subtítulo, no vistos |
+| 15 | Vestuario, colores, accesorios | ✅ | texto «Appearance» de la wiki, rojo medido en 5 ilustraciones oficiales (`#D6362A`), máscara blanca corregida, 5 variantes (§16) |
+| 16 | Ciudades, paisajes y fondos de pantalla | ✅ | sitios con luz y hora vistos en vídeo; 6 fondos de Wallhaven con tamaño medido y autor (§17). No hay fondos oficiales públicos |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta medida, línea y luz, vocabulario de gestos, palabras buenas y malas; frases reales por emoción para la IA de texto (§18) |
+| 18 | Estilo de dibujo y técnica, cómo replicarlo | ✅ | entrevistas a Hayashi (dos medios) y Akita (dos medios), recetas de Photoshop y Blender, rigs libres (§A). No encontré qué programas usó MAPPA; lo de las cartas en 3DCG, con una fuente ⚠️ |
+| 19 | Texturas 2D | ✅ | trama del manga vista en las hojas, papel y cartón CC0, tartán, dorso de carta (§B). Escudo del colegio: no encontrado |
+| 20 | Gustos y detalles de cada personaje | ✅ | alturas (dos fuentes), el único cumpleaños (Mary), objetos, comida y aficiones del podcast del autor (§C). No hay databook |
+| 21 | Por qué la gente la ama, escenas | ✅ | ventas 4→6,8 millones, nominación de Crunchyroll, resurgir de 2020, identificación, 4 escenas con minuto y reacción (§D). No hace llorar: se dice. La música de cada escena, sin identificar ⚠️ |
+| 22 | Fan dubs y comunidad hispana | ✅ | 4 fandubs y 6 covers con canal, vistas y fecha leídos con `yt-dlp`; memes de TikTok (sin abrir) (§E) |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | 3 cafés, karaoke, SINoALICE, exposición, pachislot, perfumes, PALE TONE, 3 figuras, cosplay CC (§F). Casi todo con una fuente (collabo-cafe) ⚠️ |
+| 24 | Obras parecidas y temas relacionados | ✅ | 9 obras de AniList, influencias dichas por la autora (Kaiji…), choque con otras láminas revisado (§G) |
+| 25 | El mundo, la historia y sus símbolos | ✅ | 5 reglas, arcos de las dos temporadas, momentos con minuto, 5 emblemas medidos, vocabulario (§H) |
+
+### El resto del encargo
+
+| Qué | Estado | Por qué |
+|---|---|---|
+| 3 conceptos de lámina | ✅ | A (la caja de Mary), B (Kirari y el acuario), C (el tablón): objeto y sitio, personaje y pose con minuto, cuadro de diálogo y letra, sitio de cada texto, profundidad, y lámina 2 (§19) |
+| 40 fuentes distintas | ✅ | 97 dominios distintos enlazados en la biblia (lo cuenta `revisar.py`) |
+| Tipo: oficiales | ✅ | web del anime (T1, ××, BD), Gangan Joker, Square Enix, G123, Avex, entrevistas a Hayashi, Akita y Kawamoto |
+| Tipo: otros idiomas | ✅ | japonés (MANTANWEB, Big Comic BROS, 4Gamer, LisAni!, Animate Times, collabo-cafe), chino (Bilibili, Zhihu), coreano (Namuwiki) |
+| Tipo: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés), Doblaje Wiki y Wikipedia sí. TV Tropes y TCRF dieron 403; Wayback no tenía la entrevista de Natalie |
+| Tipo: foros y comunidades | ⚠️ | Arctic Shift (Reddit) sólo con búsquedas de una palabra; Tumblr y X (hilo del podcast); sin Discords ni 4chan |
+| Tipo: arte | ✅ | pixiv, ArtStation, DeviantArt, Wallhaven, Safebooru, Openverse |
+| Tipo: vídeo | ⚠️ | tráiler y 2 episodios mirados de verdad; análisis de YouTube y TikTok sin mirar |
+| Tipo: código y recursos | ✅ | GitHub (subtítulos, letras, juegos de fans), Sketchfab, Poly Haven, ambientCG, CLIP STUDIO ASSETS |
+| Tipo: doblaje latino | ⚠️ | Doblaje Wiki por su API y ANMTV sí; entrevistas a los actores latinos en YouTube y créditos de Netflix, sin mirar |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1,1 MB en `hojas/`, con qué número sirve y para qué (§3.0) |
+| `referencias.json` | ✅ | 81 entradas, las mejores primero; 33 con tamaño medido (fotogramas con `#t=`, arte oficial por la API de la wiki, Wallhaven, cosplay). Las 48 sin tamaño son páginas, vídeos o modelos, no imágenes |
+
+**Avisos ⚠️ en toda la biblia: 166** (había 73 en la primera pasada).
+Casi todos son datos de una sola fuente o minutos de subtítulo sin mirar.
+
+---
+
+## 22 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
 
@@ -1543,14 +2157,70 @@ la más bonita de luz. C es la mejor para una **lámina 2 de economía**.
 - **Doblaje latino**: Doblaje Wiki (sólo extractos), ANMTV, Voice over
   Wiki, YouTube, TikTok.
 
+### Segunda pasada (25-sep-2026, red abierta)
+
+Cuatro investigadores y el redactor. Detalle completo en
+`partes/imagen.md`, `video.md`, `voz.md` y `texto.md`.
+
+**Red directa** (sin cupo de buscador):
+- **Fandom API** (`kakegurui.fandom.com`): wikitext de Yumeko, Mary,
+  Kirari, Ririka, Runa, Midari, Hyakkaou, Housepet, Student Council, The
+  Hundred Devouring Families, Story Arcs, Basic Vocabulary; `imageinfo`
+  para medir 12 imágenes.
+- **Doblaje Wiki API**: «Kakegurui» y las fichas de 6 actores y del
+  director. Ya no da 403.
+- `investigar_serie.py`: 11 hojas, 1051 imágenes. `estilo.py`: 9
+  fotogramas y 5 ilustraciones oficiales.
+- **Internet Archive**: eps. 1 y 2 en latino mirados con `fotogramas.py`;
+  `archive.org/metadata/kakegurui-latino` (hay MKV 1280×720 de cada
+  episodio). **Dailymotion**: tráiler x88p1dp.
+- **Redactor**: audio del ep. 1 latino (11:55-12:47) cortado con `ffmpeg`
+  y pasado por `voz.py` con Whisper small y medium (§10).
+- **Sketchfab API** (licencia de 10 modelos), **Poly Haven API**,
+  **ambientCG API**, **Wallhaven**, **Openverse**.
+- `yt-dlp --print` para 11 vídeos de YouTube (vistas y fechas de fandubs y
+  covers); TikTok lo bloqueó 3 veces.
+- `api.fxtwitter.com` para el hilo de X del podcast de Kawamoto.
+- **Wikipedia API** (ventas, Crunchyroll Awards), **Discogs API** (OST),
+  **Arctic Shift** (Reddit, sólo con una palabra).
+- WebFetch de entrevistas: easternkicks, All the Anime, MANTANWEB, Big
+  Comic BROS.NET (partes 1 y 2), CBR; collabo-cafe (7 páginas), p-town,
+  P-WORLD, pachinkovillage, g123, essential-japan.
+
+**Buscador web** (unas 30 búsquedas entre los cuatro):
+- Español: «Kakegurui opening español "Deal with the Devil" latino
+  fandub», «Kakegurui fandub español Yumeko canal youtube», «Kakegurui
+  parodia español meme doblaje TikTok», «Kakegurui opening ryo supercell»,
+  «Kakegurui acuario consejo estudiantil».
+- Inglés: «Kakegurui "why fans love" reddit», «Kakegurui manga sales
+  million copies», «"Kakegurui" "Crunchyroll Anime Awards"», «Kakegurui
+  season 2 art style more colorful Hayashi interview», «Kakegurui
+  collaboration cafe Animate», «free tartan plaid skirt pattern texture
+  CC0», «Kakegurui sound effect iconic», «NoobSubs Kakegurui 720p».
+- Japonés: «賭ケグルイ アニメ カード 3DCG 撮影 制作», «秋田学 賭ケグルイ
+  キャラクターデザイン インタビュー 顔芸», «河本ほむら "カイジ" 影響»,
+  «賭ケグルイ コラボカフェ», «賭ケグルイ 香水», «パチスロ 蛇喰夢子という女»,
+  «賭ケグルイ 壁紙 プレゼント 公式», «賭ケグルイ 効果音», «賭ケグルイ
+  オープニング ryo 作曲».
+
+**Fallaron** (dos intentos como mucho): TV Tropes y TCRF (403 y
+Cloudflare), Comic Natalie (403 directa y en Wayback), atwiki de sakuga,
+VGMdb (Cloudflare), Voice over Wiki (Cloudflare), AnimeThemes (522),
+Jikan/MAL (504), TikTok (anti-bot), YouTube (pide sesión), la copia 720p
+de `admiralkusaka4` (conexión cortada dos veces).
+
 ### Lo que NO encontré
 
 - La lista de comandos del canal (no está en el inventario).
-- Imágenes: no se pudo bajar nada; sin hojas de contacto.
-- Voces latinas de Kirari, Ririka, Midari, Sayaka y Runa; director del doblaje.
-- La frase latina de «賭け狂いましょう».
+- La frase latina de «賭け狂いましょう» **confirmada de oído**: Whisper da
+  dos versiones (§10).
 - La letra del logo.
-- Capturas de la interfaz de los dos juegos. The Cutting Room Floor: no
-  lo busqué. Wayback Machine: bloqueada.
-- Un artbook de Naomura.
-- Reddit y Arctic Shift: bloqueados.
+- Capturas de la interfaz y las cajas de diálogo de los dos juegos.
+- Qué programas usó MAPPA; una segunda fuente para las cartas en 3DCG.
+- Un artbook de Naomura; el escudo del colegio; un logo del consejo.
+- Qué pista del OST suena en cada escena fuerte; efectos de sonido con
+  fuente escrita.
+- Modelos 3D libres de Yumeko (descargable con rig), Mary y Kirari.
+- Colaboraciones fuera de Japón (no busqué en chino ni coreano).
+- Fan dubs o covers en español de *Twin* y de ××.
+- Vídeo en 1080p (lo mirado es 853×480).
