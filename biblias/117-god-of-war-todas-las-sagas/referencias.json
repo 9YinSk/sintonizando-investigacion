@@ -1,0 +1,1199 @@
+[
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/1593500)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Steam, God of War (2018): Kratos nórdico (calvo, barba, piel morena) con el Hacha Leviatán junto a un árbol con la mano amarilla pintada, niebla de Midgard",
+  "para_que": "Estilo nórdico, pose de presentar (§15 Kratos #12), paleta medida #9DA7AF #413A38 (§5), concepto A",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg",
+  "fuente": "Steam (store.steampowered.com/app/2322010)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial de Steam, God of War Ragnarök: Kratos con las Espadas del Caos al rojo contra draugr helados, ruinas con niebla turquesa (corregido por el redactor: no es el Hacha)",
+  "para_que": "Tatuaje rojo nórdico visible en el hombro (§16), paleta #BEDED9 #D96D4A (§5), pose de acción",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/6/65/Kratos_gospng.png",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 4096,
+  "alto": 5358,
+  "que_es": "Render oficial de Kratos de la ERA GRIEGA (corregido por el redactor, visto: piel de ceniza, tatuaje rojo, falda roja con greca, Espadas del Caos); hoja personajes_01 #1",
+  "para_que": "Referencia del Kratos griego para el concepto B; hex medidos #9E8E80 #341409 #4D2618 (§16)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio (material promocional, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/b/bb/Atreus_Promo_Render_GoWR.jpeg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4032,
+  "alto": 5040,
+  "que_es": "Render promocional oficial de Atreus en God of War Ragnarök (póster «Sunny Suljic · ATREUS»), hoja personajes_01 #15",
+  "para_que": "Cara, ropa y arco de Atreus adolescente (§16, §18)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/9/95/Atreus_Concept_Art_by_Dela_Longfish.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3000,
+  "alto": 4782,
+  "que_es": "Concept art oficial de Atreus de pie en la niebla, por Dela Longfish; hoja personajes_01 #17",
+  "para_que": "Referencia de estilo pintado y pose de Atreus (§18, concepto A)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 2481,
+  "alto": 3508,
+  "que_es": "Render oficial de Atreus con arco sobre fondo verde (Túnica de la Esperanza); hoja personajes_01 #41",
+  "para_que": "Vestuario de Atreus con hex medidos #A79284 #48382E #904628 (§16)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio (material promocional, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/8/87/Gow-atreus-journal.jpeg/revision/latest?cb=20221111102410",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+  "ancho": 900,
+  "alto": 1100,
+  "que_es": "Tapa del Codex/diario de Atreus: cuero con escamas cosidas, correa y una huella de mano amarilla pintada encima",
+  "para_que": "El objeto del concepto A: tapa del Codex (cuero con escamas, correa, mano amarilla) para modelar en Blender (§7, §27)",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/5/53/Runes_shown_in_Atreus%27_journal.png/revision/latest?cb=20230204194657",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+  "ancho": 1370,
+  "alto": 1468,
+  "que_es": "Página del Codex de Atreus con el alfabeto rúnico (Futhark Antiguo) dibujado a mano a lápiz, con adornos decorativos arriba y abajo",
+  "para_que": "Punto 5.3 (escritura del mundo) y 6.2 (el Codex como cuadro de diálogo/interfaz propia); mirada directamente y confirmada: coincide con la tabla de runas de la wiki",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/5/58/Gow-atreus-journal-concept.jpeg/revision/latest?cb=20221111102530",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), archivo del artículo \"Codex\"",
+  "ancho": 1100,
+  "alto": 930,
+  "que_es": "Arte conceptual del Codex de Atreus (boceto de diseño previo al modelo final)",
+  "para_que": "Punto 18 (proceso de concept art del estudio, referencia visual del objeto)",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8ca7zx?t=20",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Cinemática «Padre e Hijo» de God of War Ragnarök, 0:20: Kratos camina por la nieve con la mano en el hombro de Atreus",
+  "para_que": "Pose de animar y guiar (§15 Kratos #6, Atreus #3)",
+  "licencia": "Vídeo promocional de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=320",
+  "fuente": "Internet Archive (lparchive.org, Let's Play Archive)",
+  "ancho": 532,
+  "alto": 300,
+  "que_es": "Final de God of War III, 5:20: primer plano de la Caja de Pandora, tallada con costillas y cuernos, roja sobre negro",
+  "para_que": "Objeto del concepto B; paleta #060101 #78130C (§5)",
+  "licencia": "Grabación de juego subida por un usuario (lparchive.org); referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qej41?t=90",
+  "fuente": "Dailymotion (GamesRadar)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Epílogo de Ragnarök («Secret Ending», GamesRadar), 1:30: cofre tallado con nudos nórdicos bajo raíces de Yggdrasil, niebla violeta",
+  "para_que": "Sitio del concepto A; paleta #72739D #E46838 (§5); fogata en 2:24",
+  "licencia": "Vídeo editorial de GamesRadar sobre contenido oficial; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8kowmz?t=96",
+  "fuente": "Dailymotion (re-subida)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler de God of War (2018), 1:36: Kratos sujeta la cara de Atreus en combate; 0:24 Atreus apunta con el arco; 1:00 el túmulo",
+  "para_que": "Poses de regañar y proteger (§15)",
+  "licencia": "Vídeo promocional de Sony Interactive Entertainment; uso como referencia, no para reeditar"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x92n352?t=240",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Visión de Kratos joven y el oso Björn (Ragnarök), 4:00: Kratos agachado explica a Atreus con la mano en su hombro",
+  "para_que": "Pose de explicar (§15 Kratos #8); paleta del bosque nevado 3:40 y 4:20",
+  "licencia": "Captura de escena de juego oficial re-subida; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8do3jy?t=117",
+  "fuente": "Dailymotion (MGG Brasil, re-subida)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler de God of War Ragnarök (3:01), 1:57: primer plano de Kratos con pintura de guerra roja; 2:36 saludo de antebrazo; 0:52 Atreus con el arco",
+  "para_que": "Cara de rabia de Kratos y tatuaje rojo en la era nórdica (§8, §15); diálogo transcrito en partes/episodios.md",
+  "licencia": "Vídeo promocional de Sony Interactive Entertainment; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/LP_God_of_War/godofwar_26.ogv?t=855",
+  "fuente": "Internet Archive (lparchive.org, Let's Play Archive)",
+  "ancho": 540,
+  "alto": 300,
+  "que_es": "Longplay de God of War (2005), final, 14:15: Kratos sentado en el trono de Ares con capa roja; 10:30 acantilado; 18:00 créditos de música",
+  "para_que": "Pose de celebrar (§15 Kratos #4); alternativa del concepto B",
+  "licencia": "Grabación de juego subida por un usuario (lparchive.org); referencia únicamente"
+ },
+ {
+  "url": "https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90",
+  "fuente": "Internet Archive (lparchive.org, Let's Play Archive)",
+  "ancho": 540,
+  "alto": 300,
+  "que_es": "Longplay de God of War (2005), parte 1, 1:30: Kratos en la cubierta con las Espadas del Caos; pasillo de Atenas",
+  "para_que": "Pose de presentar (§15 Kratos #1); paleta #23241D (§5)",
+  "licencia": "Grabación de juego subida por un usuario (lparchive.org); referencia únicamente"
+ },
+ {
+  "url": "https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=105",
+  "fuente": "Internet Archive (lparchive.org, Let's Play Archive)",
+  "ancho": 540,
+  "alto": 300,
+  "que_es": "Longplay de God of War II, parte 1, 1:45: el Coloso de Rodas ataca el puerto de noche; 0:35 trono; 8:10 traición de Zeus",
+  "para_que": "Escena icónica griega y paleta nocturna #B2BAD4 (§2, §5)",
+  "licencia": "Grabación de juego subida por un usuario (lparchive.org); referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/xv3hg7?t=42",
+  "fuente": "Dailymotion (Sony Computer Entertainment)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler «Ares God» de God of War: Ascension, 0:42: Kratos joven en un coliseo contra criaturas de fuego; 0:21 rostro en llamas de Ares",
+  "para_que": "Escena y paleta de fuego de Ascension (§2, §5)",
+  "licencia": "Vídeo promocional de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5mefjv?t=16",
+  "fuente": "Dailymotion",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler de God of War: Ghost of Sparta, 0:16: Kratos en un trono en llamas; 1:20 ruinas bajo el agua",
+  "para_que": "Escena griega (§2)",
+  "licencia": "Vídeo promocional de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4pow1?t=10",
+  "fuente": "Dailymotion (Britix / PSPGEN.COM)",
+  "ancho": 480,
+  "alto": 272,
+  "que_es": "Tráiler «Coming 2008» de Chains of Olympus, 0:10: Kratos a caballo contra un ejército persa",
+  "para_que": "Escena griega (§2)",
+  "licencia": "Vídeo promocional de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x75bv9a?t=249",
+  "fuente": "Dailymotion (Gamekult, re-subida de un mini-documental oficial de Sony)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Documental oficial «The Sound of God of War», 4:09: el «whoosh» del Hacha Leviatán; 1:18 la voz de Jörmungandr; 5:57 «boy» → «son»",
+  "para_que": "Efectos de sonido con minuto (§11)",
+  "licencia": "Vídeo promocional/making-of de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8bb7lu?t=0",
+  "fuente": "Dailymotion (GamePro)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler de God of War Collection (PS3), 2:05",
+  "para_que": "Saga griega en vídeo (§12)",
+  "licencia": "Vídeo promocional de Sony; referencia únicamente"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/3e/Kratos_GOD4.ogg/revision/latest?cb=20250219180611&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Kratos en el doblaje latino de God of War (2018), voz de Idzi Dutkiewicz",
+  "para_que": "Citar la frase icónica y el tono de voz de Kratos (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/9c/GoWRAG_Kratos.ogg/revision/latest?cb=20250220163841&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War_Ragnarök)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Kratos en el doblaje latino de God of War Ragnarök (2022)",
+  "para_que": "Comparar el tono más cálido de Kratos en Ragnarök frente a 2018 (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/c/c9/GOW4_Mimir.ogg/revision/latest?cb=20250219180607&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Mimir en el doblaje latino de God of War (2018), voz de Sergio Gutiérrez Coto",
+  "para_que": "Citar el ritmo de contador de historias de Mimir (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/7/78/Atreus_Loki_GOD4.ogg/revision/latest?cb=20250219180541&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Atreus en el doblaje latino de God of War (2018), voz de Susana Moreno",
+  "para_que": "Citar el registro agudo y monótono de Atreus (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/5/57/GOW4_Freya.ogg/revision/latest?cb=20250219180604&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Freya en el doblaje latino de God of War (2018), voz de Annie Rojas",
+  "para_que": "Citar el tono de maestra/narradora de Freya (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/38/GoWRAG_Thor.ogg/revision/latest?cb=20250220163914&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War_Ragnarök)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Thor en el doblaje latino de God of War Ragnarök (2022), voz de Raúl Solo",
+  "para_que": "Citar la frase «Eres un destructor, como yo» (punto 8, 21)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/9a/GOW4_Baldur.ogg/revision/latest?cb=20250219180601&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Baldur en el doblaje latino de God of War (2018), voz de Enrique Cervantes",
+  "para_que": "Citar el tono lento y muy expresivo de Baldur (punto 8, 13)",
+  "licencia": "Muestra con fines de identificación bajo Doblaje Wiki (uso referencial, no libre)"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/God_of_War_Ragnar%C3%B6k",
+  "fuente": "Doblaje Wiki",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de doblaje latino de God of War Ragnarök (2022): reparto, estudio, dirección, datos de interés y errores",
+  "para_que": "Base de la tabla de reparto y curiosidades del punto 8",
+  "licencia": "Contenido de wiki bajo CC-BY-SA (Fandom)"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/God_of_War:_Ascension",
+  "fuente": "Doblaje Wiki",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del primer doblaje latino de la saga (2013, Argentina) y del concurso de fans «Inmortaliza tu voz»",
+  "para_que": "Confirmar que la trilogía griega original no tuvo doblaje latino, y el dato del concurso de fans (punto 8, 22)",
+  "licencia": "Contenido de wiki bajo CC-BY-SA (Fandom)"
+ },
+ {
+  "url": "https://www.anmtvla.com/2018/04/critica-doblaje-latino-de-god-of-war.html",
+  "fuente": "ANMTV (Cristóbal Sepúlveda, 26-abr-2018)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Reseña crítica en español del doblaje latino de God of War (2018), actor por actor",
+  "para_que": "Segunda fuente independiente para los nombres del reparto y opinión de prensa hispana (punto 8)",
+  "licencia": "Artículo periodístico, sólo cita/enlace"
+ },
+ {
+  "url": "https://www.eldoblaje.com/datos/FichaPelicula.asp?id=52382",
+  "fuente": "eldoblaje.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del doblaje de ESPAÑA de God of War (2018): reparto y director",
+  "para_que": "Distinguir el doblaje de España del latino, como pide el encargo (punto 8)",
+  "licencia": "Base de datos pública, sólo cita/enlace"
+ },
+ {
+  "url": "https://www.eldoblaje.com/datos/FichaPelicula.asp?id=67681",
+  "fuente": "eldoblaje.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del doblaje de ESPAÑA de God of War Ragnarök: reparto y director",
+  "para_que": "Distinguir el doblaje de España del latino, como pide el encargo (punto 8)",
+  "licencia": "Base de datos pública, sólo cita/enlace"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/God_of_War",
+  "fuente": "Doblaje Wiki",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de doblaje latino de God of War (2018): reparto, estudio, dirección, datos de interés",
+  "para_que": "Base de la tabla de reparto y curiosidades del punto 8",
+  "licencia": "Contenido de wiki bajo CC-BY-SA (Fandom)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/7/76/Brok_GOD4.ogg/revision/latest?cb=20250219180543&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Brok en el doblaje latino de God of War (2018), voz de Beto Castillo; sin transcribir",
+  "para_que": "Frases de Brok para el concepto C (§10, §27)",
+  "licencia": "Audio del doblaje latino (© Sony / Pink Noise); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/GOW4_Sindri.ogg/revision/latest?cb=20250219180609&path-prefix=es",
+  "fuente": "Doblaje Wiki (God_of_War)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio oficial (.ogg) de Sindri en el doblaje latino de God of War (2018), voz de Enzo Fortuny; sin transcribir",
+  "para_que": "Frases de Sindri para el concepto C (§10)",
+  "licencia": "Audio del doblaje latino (© Sony / Pink Noise); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/8/82/Kratosbetpng.png",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5358,
+  "que_es": "Render oficial de Kratos griego en acción con las Espadas del Caos; hoja personajes_01 #2",
+  "para_que": "Pose de acción de la era griega",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/1/1b/Kratos%27_Male_Concept_Drawings.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art oficial a tinta de Kratos: Kratos' Male Concept Drawings.jpg",
+  "para_que": "Cómo dibuja el estudio: línea suelta y manchas negras (§3, §19)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/3/32/Kratos%27_Concept_Drawing_6.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art oficial a tinta de Kratos: Kratos' Concept Drawing 6.jpg",
+  "para_que": "Cómo dibuja el estudio: línea suelta y manchas negras (§3, §19)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/5/5c/Kratos%27_Concept_Drawing_5.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art oficial a tinta de Kratos: Kratos' Concept Drawing 5.jpg",
+  "para_que": "Cómo dibuja el estudio: línea suelta y manchas negras (§3, §19)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/d/d9/Kratos%27_Concept_Drawing_13.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art oficial a tinta de Kratos: Kratos' Concept Drawing 13.jpg",
+  "para_que": "Cómo dibuja el estudio: línea suelta y manchas negras (§3, §19)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/0/0b/Kratos%27_Concept_Drawing_10.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art oficial a tinta de Kratos: Kratos' Concept Drawing 10.jpg",
+  "para_que": "Cómo dibuja el estudio: línea suelta y manchas negras (§3, §19)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/1/11/F_Kratos_9.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art en gris de una versión femenina de Kratos: F Kratos 9.jpg",
+  "para_que": "Proceso de diseño (§3)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/8/85/F_Kratos_8.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art en gris de una versión femenina de Kratos: F Kratos 8.jpg",
+  "para_que": "Proceso de diseño (§3)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/b/bd/F_Kratos_7.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 4096,
+  "alto": 5240,
+  "que_es": "Concept art en gris de una versión femenina de Kratos: F Kratos 7.jpg",
+  "para_que": "Proceso de diseño (§3)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/5/5d/Surviving_Fimbulwinter_3.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Imagen 4K de la página de Atreus en la wiki: Surviving Fimbulwinter 3.jpg (origen oficial sin confirmar)",
+  "para_que": "Posible fondo de pantalla (§17)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/8/8a/Surviving_Fimbulwinter_2.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Imagen 4K de la página de Atreus en la wiki: Surviving Fimbulwinter 2.jpg (origen oficial sin confirmar)",
+  "para_que": "Posible fondo de pantalla (§17)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio; sólo referencia, no libre"
+ },
+ {
+  "url": "https://archive.org/details/early-odin-concept-art-by-vance-kovacs",
+  "fuente": "Internet Archive (subido por el artista)",
+  "ancho": 1920,
+  "alto": 2815,
+  "que_es": "Concept art temprano de Odin para God of War Ragnarök, por Vance Kovacs (Senior Concept Artist, Santa Monica Studio)",
+  "para_que": "Arte oficial/de producción variado (punto 1)",
+  "licencia": "Subido por el propio artista a Internet Archive; verificar términos antes de reutilizar la imagen en sí"
+ },
+ {
+  "url": "https://archive.org/details/early-thor-concept-art-for-the-videogame-god-of-war-ragnarok-by-vance-kovacs",
+  "fuente": "Internet Archive (subido por el artista)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Concept art temprano de Thor para God of War Ragnarök, por Vance Kovacs",
+  "para_que": "Arte oficial/de producción variado (punto 1)",
+  "licencia": "Subido por el propio artista a Internet Archive; verificar términos antes de reutilizar la imagen en sí"
+ },
+ {
+  "url": "https://www.cookandbecker.com/en/artwork/3360/ragnarok-god-of-war-ragnarok-sie-santa-monica-studio.html",
+  "fuente": "Cook & Becker (distribuidor autorizado de arte oficial)",
+  "ancho": 1600,
+  "alto": 900,
+  "que_es": "Lámina de arte oficial «Ragnarök», escena de batalla, God of War Ragnarök",
+  "para_que": "Arte oficial de campaña con licencia comercial (punto 1)",
+  "licencia": "© SIE Santa Monica Studio, venta autorizada por Cook & Becker (sólo referencia, no reproducir)"
+ },
+ {
+  "url": "https://secure.cdn.us.playstation.com/god-of-war/cosplay/god-of-war-cosplay-guide.pdf",
+  "fuente": "PlayStation / SIE Santa Monica Studio (PDF oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Guía oficial de cosplay de God of War (2018), 37 páginas: patrones reales de Kratos, Atreus, Freya y Baldur",
+  "para_que": "Vestuario exacto con materiales reales (punto 15) y colaboraciones/cosplay oficial (punto 23)",
+  "licencia": "© Sony Interactive Entertainment (descarga gratuita oficial, PDF sin DRM)"
+ },
+ {
+  "url": "https://www.playstation.com/en-us/god-of-war/community/cosplay/",
+  "fuente": "PlayStation.com (página oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Sección oficial de cosplay de God of War con tutoriales de cosplayers reales (Kratos, Atreus, Freya, Angrboda, Thor y más)",
+  "para_que": "Colaboraciones/comunidad y cosplay bien hecho, con materiales reales (punto 23)",
+  "licencia": "© Sony Interactive Entertainment (página oficial, sólo enlace de referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/2/21/GOW-AresSet.png",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 640,
+  "alto": 1026,
+  "que_es": "Icono de inventario, Armadura de Ares (God of War 2018)",
+  "para_que": "Colores de cuero de la armadura (punto 15); fondo lila del icono NO es color de prenda",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio (icono del juego, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/a/ad/Ragnarok_Armor-Berserker.png",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 562,
+  "alto": 821,
+  "que_es": "Icono de inventario, Set Berserker (God of War Ragnarök)",
+  "para_que": "Colores de armadura nórdica tardía (punto 15)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio (icono del juego, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/4/4d/Tunic_of_Hope.png",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 468,
+  "alto": 930,
+  "que_es": "Icono de inventario, Túnica de la Esperanza de Atreus",
+  "para_que": "Comparación de color icono-vs-render real (punto 15, con la salvedad anotada)",
+  "licencia": "© Sony Interactive Entertainment / Santa Monica Studio (icono del juego, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/9/91/Sparta_1.jpg",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 987,
+  "alto": 567,
+  "que_es": "Arte/captura de Esparta, God of War original (2005)",
+  "para_que": "Paleta cálida mediterránea medida (punto 16), contraste con la paleta fría nórdica",
+  "licencia": "© Sony Interactive Entertainment (material del juego, sólo referencia)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/8/80/RuneMidgard.webp/revision/latest?cb=20221221200607",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+  "ancho": 614,
+  "alto": 614,
+  "que_es": "Glifo/runa que representa el reino de Midgard (donde viven Kratos y Atreus) en el mapa e interfaz del juego",
+  "para_que": "Punto 25.3 (emblemas de los Nueve Reinos)",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/4/42/RuneAsgard.webp/revision/latest?cb=20221221200453",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+  "ancho": 614,
+  "alto": 614,
+  "que_es": "Glifo/runa que representa el reino de Asgard en el mapa e interfaz del juego",
+  "para_que": "Punto 25.3 (emblemas de los Nueve Reinos)",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/a/af/RuneAlfheim.webp/revision/latest?cb=20221221200508",
+  "fuente": "Wiki de Fandom godofwar (API imageinfo), artículo \"Nine Realms\"",
+  "ancho": 614,
+  "alto": 614,
+  "que_es": "Glifo/runa que representa el reino de Alfheim en el mapa e interfaz del juego",
+  "para_que": "Punto 25.3 (emblemas de los Nueve Reinos): cada reino tiene su propio símbolo circular, el \"logo de facción/lugar\" más reconocible del juego",
+  "licencia": "© Santa Monica Studio / Sony Interactive Entertainment; sólo referencia, no libre"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_f1bff24d3967a21d303d95e11ed892e3d9113057.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_3670ba72c7e3e9c3c3225547ef2c1053504e62b8.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_93a3ca63aa2cd8c675bbb6430324ee3f2d44b845.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1bd99270dcbd4ff9fe9c94b0d9c8ffc50ebb42c7.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_0858b868ea51d53f73bd805ba7382f027dd33dca.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_05f27139b15c5410d07cd59b7b52adbdf73e13da.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_974a7b998c0c14da7fe52a342cf36c98850a57ac.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_78350297511e81f287b4bc361935efbc3016f6db.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7cbcd6847cac4d2d42f496954d0df715c6af0b3a.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_c6240e5611e6aa1c2219dbf778f79b2b5244d912.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_d0873c1101c5567439ce6c6a3f159fadaf129a02.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_01699f658651e4eee4d1c751cf019c714de0586f.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_49355a0558d0c65b1df8243ecacfa24bfe798ade.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_22259a9323094ca8b400be3b531c4bfb4d20e52d.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_95767d534cd821e4028f3f00efc4b869206f646b.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974330/ss_33a912593033aa40288e5b30f3d6c5819b69315e.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Actualización de la Edición Digital Deluxe de God of War Ragnarök (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974310/ss_3e910403c5f01a127a744c5d7d023745b3b7b6ee.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök Soundtrack (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974340/ss_95767d534cd821e4028f3f00efc4b869206f646b.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de God of War Ragnarök - Digital Artbook (captura oficial 1920×1080)",
+  "para_que": "Arte oficial en 1080p: poses, sitios y luz (§3)",
+  "licencia": "© Sony Interactive Entertainment (captura promocional de tienda, sólo referencia)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ad37e8d6a2e44f8691bf2f2ab5bdbfa9",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de Kratos (God of War III) con rig y textura, por S4int0fSSG",
+  "para_que": "Modelo posable en Blender para poses de referencia (punto 3)",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dc80c2582d3446aab1cff9f4055e04ec",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable de Kratos completo, por Julio César",
+  "para_que": "Modelo 3D con licencia libre como referencia de pose/anatomía (punto 3)",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-19bff2ed58a141adb4656434e848704b",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D: kratos from god of war (free download) de eon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9ee22b2b334642e2bea4673dce5dd3f7",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D: Thor (God of War: Ragnarök) | FREE DOWNLOAD de GvMod",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1c23158349954342ad74bc002d01007e",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable de las Blades of Chaos, por DeLeon",
+  "para_que": "Modelo 3D con licencia libre del arma icónica (punto 3)",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-50143f73601246f2916e571df854b978",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable del Leviathan Axe, por DeLeon",
+  "para_que": "Modelo 3D con licencia libre del arma icónica nórdica (punto 3)",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-df6e4c2d61f3496aadb99337d9e164fa",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D: Nemean Cestus - God of War de Julio César",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution (citar: «título» por autor, CC BY, Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1baca65311744bfab9d19af31b505f27",
+  "fuente": "Sketchfab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D: God Of War Chest - yurim3d de yura3d",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial (citar al autor, no comercial)"
+ },
+ {
+  "url": "https://open3dlab.com/project/c48b8970-89db-44a1-8255-0ee5e14ff066/",
+  "fuente": "Open3DLab",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Kratos Multi-Rig (God of War 2018): modelo 3D de Kratos completo, con varias armaduras, el Hacha Leviatán y las Blades of Chaos, rigged, nativo de Blender (.blend)",
+  "para_que": "Punto 18.3: referencia de pose y anatomía en Blender (nunca para redistribuir ni usar en nada comercial, ver licencia)",
+  "licencia": "Creative Commons BY-NC-ND 4.0 (no comercial, sin derivados; sólo como referencia interna, no redistribuible modificado)"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Cabin",
+  "fuente": "Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Letra libre Cabin (OFL): alternativa más cercana a Gill Sans WGL, la fuente de cuerpo real de la interfaz de God of War Ragnarök",
+  "para_que": "Punto 5.2/5.5: texto de subtítulos e interfaz en una lámina — comprobada con fontTools (trae á é í ó ú ñ Ñ ¿ ¡ ü Á É)",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Runic",
+  "fuente": "Google Fonts (familia Noto)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Letra libre Noto Sans Runic (OFL): glifos rúnicos reales, cubre el Futhark Antiguo y variantes históricas",
+  "para_que": "Punto 5.3: inscripciones nórdicas del mundo (puertas, objetos, cartelas) en una lámina",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/GFS+Didot",
+  "fuente": "Google Fonts / Greek Font Society",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Letra libre GFS Didot (OFL): griego moderno y politónico (antiguo), diseño de Takis Katsoulidis sobre el Didot griego de 1805",
+  "para_que": "Punto 5.3: inscripciones griegas del mundo (saga griega) en una lámina",
+  "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Marble012",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0 de mármol para ruinas/templos griegos",
+  "para_que": "Punto 4: textura real equivalente para sitios de la saga griega",
+  "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Snow006",
+  "fuente": "ambientCG",
+  "ancho": 250,
+  "alto": 250,
+  "que_es": "Textura CC0 de nieve con relieve de pisadas",
+  "para_que": "Punto 4: textura real equivalente para los sitios nórdicos (Midgard, Jotunheim)",
+  "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Wood095",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0 de madera tallada",
+  "para_que": "Punto 4: textura real equivalente para cofres y objetos nórdicos tallados",
+  "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Metal063",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0 de metal desgastado",
+  "para_que": "Punto 4: textura real equivalente para armas (Hojas del Caos, Hacha Leviatán) y armadura",
+  "licencia": "CC0 (dominio público, sin atribución obligatoria)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Travertine009",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0: piedra de travertino gastada, tono cálido (templos griegos)",
+  "para_que": "Capa de textura real en Blender o Photoshop (§5)",
+  "licencia": "CC0 (uso libre, sin atribución)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Rock064",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0: roca (ruinas y montes nórdicos)",
+  "para_que": "Capa de textura real en Blender o Photoshop (§5)",
+  "licencia": "CC0 (uso libre, sin atribución)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Ground111",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0: suelo de tierra y piedra",
+  "para_que": "Capa de textura real en Blender o Photoshop (§5)",
+  "licencia": "CC0 (uso libre, sin atribución)"
+ },
+ {
+  "url": "https://ambientcg.com/a/CorrugatedSteel009",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura CC0: acero rayado (el Hacha)",
+  "para_que": "Capa de textura real en Blender o Photoshop (§5)",
+  "licencia": "CC0 (uso libre, sin atribución)"
+ },
+ {
+  "url": "https://safebooru.org/images/1038/d0627dbad57291ca1c0e3401387af8de4d27997a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1082,
+  "alto": 1600,
+  "que_es": "Fan art de kratos_(god_of_war) (https://www.artstation.com/artwork/Kezew9)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4/2786061511e84e6d4695147b1de1e7d308042fe9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1378,
+  "alto": 2039,
+  "que_es": "Fan art de kratos_(god_of_war) (https://twitter.com/ryosuketarou/status/1864685485144330655)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/97bd2fdb2dd693f1d26ef26226becb986b94ade1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2135,
+  "alto": 2500,
+  "que_es": "Fan art de kratos_(god_of_war) (https://maxes.artstation.com/projects/WBmGw3)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/9/2a388bbc180a2a0dd5ceddaa560993d67f524290.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 857,
+  "que_es": "Fan art de kratos_(god_of_war) (https://twitter.com/Itoscaresme/status/1865600278927376893)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/2d82fada59f4b55b3fac0b1d2cef04c66c234028.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1430,
+  "alto": 2048,
+  "que_es": "Fan art de kratos_(god_of_war) (https://twitter.com/pyro_cri/status/1594224464061149184)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/570/889cb056b6bcef519f9c5d36a2236db44ea4e289.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2496,
+  "alto": 1110,
+  "que_es": "Fan art de kratos_(god_of_war) (https://x.com/keenbiscuit/status/2062193042774450227)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/301/38a88a4fa8048b7883c8499ba7b76835ffc996e8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 833,
+  "alto": 850,
+  "que_es": "Fan art de atreus_(god_of_war) (https://x.com/_als_dk/status/2022658975536419093)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/301/87b980aac3cbc5290aed98e268b493ed461f0b68.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1352,
+  "alto": 2048,
+  "que_es": "Fan art de atreus_(god_of_war) (https://x.com/GinkgoSan/status/1608723755702030338)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/301/3e7c6706e1b99e2af86613bc22f4ea3cc24f168e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de atreus_(god_of_war) (https://x.com/frskdraws/status/1632503073229742080)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1327/9134000837ce9e4232d49887e186c5330fdb8a74.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1751,
+  "alto": 2048,
+  "que_es": "Fan art de atreus_(god_of_war) (https://x.com/BUGAK1109/status/2011428844109254870)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1073/2d7494b1106c8b18924b49e497b490b2cc64d440.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fan art de atreus_(god_of_war) (https://x.com/psycho_boi_m/status/1895215575758143813)",
+  "para_que": "Referencia de pose de fan; nunca para pegar (§4)",
+  "licencia": "Fan art: © su autor (ver el enlace de origen); sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7p/wallhaven-7p39gy.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de God of War (2018) en Wallhaven, 1920×1080, ♥575, sin autor declarado",
+  "para_que": "Único fondo de la serie en Wallhaven (§17)",
+  "licencia": "Sin licencia declarada; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/8099/8566663147_aa5c9e8c7f_b.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 694,
+  "alto": 1024,
+  "que_es": "Foto libre: MegaCon 2013 - God of War (cosplay o figura; sin mirar una por una)",
+  "para_que": "Materiales y volumen reales de cosplay (§4, §24)",
+  "licencia": "CC BY-NC-ND 2.0 (Howie Muzika)"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52514352997_8f4df1c698_b.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Foto libre: Atreus - God of War (cosplay o figura; sin mirar una por una)",
+  "para_que": "Materiales y volumen reales de cosplay (§4, §24)",
+  "licencia": "CC BY-NC-SA 2.0 (timz2011)"
+ },
+ {
+  "url": "https://live.staticflickr.com/7298/12797322963_62d389d78a_b.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Foto libre: God of war (cosplay o figura; sin mirar una por una)",
+  "para_que": "Materiales y volumen reales de cosplay (§4, §24)",
+  "licencia": "CC BY-NC-SA 2.0 (1upLego)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/a/a5/Img_20240214_230717625_by_kaitlynnnicole_dgw0r7m.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3072,
+  "alto": 4080,
+  "que_es": "Dibujo o foto de fan subido a la wiki (kaitlynnnicole): Img 20240214 230717625 by kaitlynnnicole dgw0r7m.jpg",
+  "para_que": "Referencia de fan (hoja personajes_01 #36-40); sólo referencia",
+  "licencia": "© su autor (kaitlynnnicole); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/f/f6/Img_20240214_230712675_by_kaitlynnnicole_dgw0r8s.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3072,
+  "alto": 4080,
+  "que_es": "Dibujo o foto de fan subido a la wiki (kaitlynnnicole): Img 20240214 230712675 by kaitlynnnicole dgw0r8s.jpg",
+  "para_que": "Referencia de fan (hoja personajes_01 #36-40); sólo referencia",
+  "licencia": "© su autor (kaitlynnnicole); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/a/a0/Img_20240214_230706142_by_kaitlynnnicole_dgw0r9y.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3072,
+  "alto": 4080,
+  "que_es": "Dibujo o foto de fan subido a la wiki (kaitlynnnicole): Img 20240214 230706142 by kaitlynnnicole dgw0r9y.jpg",
+  "para_que": "Referencia de fan (hoja personajes_01 #36-40); sólo referencia",
+  "licencia": "© su autor (kaitlynnnicole); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/9/9f/Img_20240214_230851955_by_kaitlynnnicole_dgw0r54.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3072,
+  "alto": 3732,
+  "que_es": "Dibujo o foto de fan subido a la wiki (kaitlynnnicole): Img 20240214 230851955 by kaitlynnnicole dgw0r54.jpg",
+  "para_que": "Referencia de fan (hoja personajes_01 #36-40); sólo referencia",
+  "licencia": "© su autor (kaitlynnnicole); sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/godofwar/images/0/0a/Img_20240214_230736061_by_kaitlynnnicole_dgw0r6l.jpg",
+  "fuente": "Fandom godofwar",
+  "ancho": 3997,
+  "alto": 2078,
+  "que_es": "Dibujo o foto de fan subido a la wiki (kaitlynnnicole): Img 20240214 230736061 by kaitlynnnicole dgw0r6l.jpg",
+  "para_que": "Referencia de fan (hoja personajes_01 #36-40); sólo referencia",
+  "licencia": "© su autor (kaitlynnnicole); sólo referencia"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/Fortnite",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la colaboración oficial Kratos x Fortnite (skin «Oathbreaker», dic. 2020)",
+  "para_que": "Colaboraciones y cruces (punto 23)",
+  "licencia": "Texto CC BY-SA de Fandom; las imágenes que enlaza son © Epic Games / Sony"
+ },
+ {
+  "url": "https://blog.playstation.com/2020/12/03/join-the-hunt-as-kratos-in-fortnite-chapter-2-season-5/",
+  "fuente": "PlayStation.Blog (oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Anuncio oficial de la colaboración Kratos x Fortnite",
+  "para_que": "Fuente primaria de la colaboración (punto 23)",
+  "licencia": "© Sony Interactive Entertainment (blog oficial, sólo enlace de referencia)"
+ },
+ {
+  "url": "https://necaonline.com/2017/07/god-of-war-7-action-figure-kratos/",
+  "fuente": "NECA (fabricante oficial de la figura)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Figura de acción oficial con licencia, Kratos (God of War 2018), 7\", 36 puntos de articulación",
+  "para_que": "Figuras oficiales como referencia 3D de pose y proporciones (punto 23)",
+  "licencia": "© NECA / Sony Interactive Entertainment (producto con licencia oficial)"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/The_Art_of_God_of_War_Ragnar%C3%B6k",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del artbook oficial The Art of God of War Ragnarök (Dark Horse, 2022, 240 págs.)",
+  "para_que": "Arte oficial en cantidad, fuente para encargar/consultar el libro (punto 1)",
+  "licencia": "Texto CC BY-SA de Fandom; el libro es © Dark Horse / Sony"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/Colors",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la wiki sobre el simbolismo de color en la serie (azul=Olimpia/mar, etc.)",
+  "para_que": "Contexto de paleta y vestuario para la guía de IA (puntos 15 y 17, dato entregado al redactor)",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://blog.es.playstation.com/2025/03/14/celebramos-el-vigesimo-aniversario-de-god-of-war-con-la-coleccion-odisea-oscura-de-god-of-war-ragnarok/",
+  "fuente": "PlayStation.Blog en español (oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Anuncio oficial del vestuario gratis «Odisea Oscura» (negro y dorado) por el 20.º aniversario de la saga, marzo 2025",
+  "para_que": "Evento/colaboración oficial reciente con vestuario nuevo (punto 23) y variante de vestuario (punto 15)",
+  "licencia": "© Sony Interactive Entertainment (blog oficial, sólo enlace de referencia)"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/Kratos_(Mortal_Kombat)",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de Kratos como personaje invitado en Mortal Kombat 9 (2011), primer crossover de la saga",
+  "para_que": "Colaboraciones y cruces (punto 23)",
+  "licencia": "Texto CC BY-SA de Fandom; el personaje es © Sony / NetherRealm"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/God_of_War_(2018)_Soundtrack",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página con el tracklist y créditos completos de la banda sonora de God of War (2018), compuesta por Bear McCreary",
+  "para_que": "Fuente de texto para el Punto 9: nombres de pistas, vocalista Eivør Pálsdóttir, premio BAFTA",
+  "licencia": "Texto CC-BY-SA (Fandom); no es imagen"
+ },
+ {
+  "url": "https://godofwar.fandom.com/wiki/God_of_War_Ragnar%C3%B6k_(Original_Soundtrack)",
+  "fuente": "God of War Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página con el tracklist y créditos completos de la banda sonora de God of War Ragnarök, compuesta por Bear McCreary con letras de Hozier",
+  "para_que": "Fuente de texto para el Punto 9",
+  "licencia": "Texto CC-BY-SA (Fandom); no es imagen"
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/dad-of-boy",
+  "fuente": "Know Your Meme",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Origen y propagación documentada (fechas y cifras de vistas/RT/likes) del meme «Dad of Boy»",
+  "para_que": "El chiste interno más reconocible del fandom, con datos concretos (punto 12)",
+  "licencia": "Artículo enciclopédico de fan, sólo cita/enlace"
+ },
+ {
+  "url": "https://screenrant.com/god-of-war-best-characters-reddit/",
+  "fuente": "ScreenRant",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ranking de personajes de God of War recopilado a partir de opiniones de Reddit",
+  "para_que": "Referencia de popularidad de personajes secundarios (punto 7, 21)",
+  "licencia": "Artículo periodístico, sólo cita/enlace"
+ },
+ {
+  "url": "https://reddit.com/r/GodofWarRagnarok/comments/1uh1fmi/how_many_people_on_this_subreddit_love_sindri_and/",
+  "fuente": "Reddit r/GodofWarRagnarok",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Hilo real (433 puntos, 62 comentarios) sobre el cariño del fandom por Brok y Sindri",
+  "para_que": "Prueba cuantitativa de popularidad de personajes secundarios (punto 7, 12)",
+  "licencia": "Contenido de usuario, sólo cita/enlace"
+ },
+ {
+  "url": "https://reddit.com/r/GodofWarRagnarok/comments/z3y5nf/i_just_completed_the_main_story_and_i_cried/",
+  "fuente": "Reddit r/GodofWarRagnarok",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Hilo real (246 puntos, 98 comentarios) de un jugador que lloró con el final de God of War (2018)",
+  "para_que": "Reacción real de la audiencia a la escena más emotiva (punto 21)",
+  "licencia": "Contenido de usuario, sólo cita/enlace"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=kratos_%28god_of_war%29",
+  "fuente": "Danbooru",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Recuento en vivo de fan art por personaje (etiqueta kratos_(god_of_war): 245 posts)",
+  "para_que": "Medida real de cariño de fandom por personaje, corrige el dato roto de datos-voz.md (punto 7)",
+  "licencia": "Índice de posts de usuarios, cada imagen con su propia licencia; sólo cita/enlace del recuento"
+ }
+]

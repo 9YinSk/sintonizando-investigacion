@@ -2179,3 +2179,40 @@ redactor. Cada cosa dice por qué.
 - En Wallhaven sólo 1 de 15 fondos era de la serie.
 
 ---
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 5 artbooks con editorial y páginas, guías oficiales de cosplay, concept de Vance Kovacs, Cook & Becker, 25 capturas de Steam en 1080p y renders de 4096 px; las 3 hojas miradas número a número (§3). Art Blast de ArtStation sólo por el buscador ⚠️ |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 15 escenas de las dos sagas con juego y minuto, miradas en 13 vídeos (§2). **Nada en 1080p**: YouTube bloqueado, Dailymotion e Internet Archive a 480-540 px. La escena de las cenizas y la muerte de Brok, sin vídeo |
+| 3 · Fan art y 3D con licencia | ✅ | 9 fan arts con origen; 8 modelos de Sketchfab con licencia y forma del crédito, rig de Open3DLab (CC BY-NC-ND), 3 fotos libres (§4). Sin sitios en 3D ⚠️ |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 11 paletas medidas con `estilo.py`, con vídeo y minuto o captura; 8 texturas CC0 de ambientCG (§5). Faltan cuero y pergamino libres ⚠️ |
+| 5 · Tipografía, una letra por uso | ⚠️ | 11 usos con letra libre (§6). **Cabin comprobada con fontTools** (tildes, ñ, ¿, ¡) y la fuente de dafont (no sirve). Cinzel, MedievalSharp y GFS Didot sin comprobar; Berserker no es pública; grito, pensamiento y onomatopeya no existen en el juego |
+| 6 · Cómo hablan en pantalla | ✅ | Subtítulo sin caja confirmado por el estudio (GDC 2023), Codex con imágenes, cartela griega vista en la hoja, cómic de Dark Horse con runas; qué cuadro usar y qué no (§7) |
+| 7 · Personajes y popularidad | ✅ | Danbooru en vivo, ranking de ScreenRant, hilos de Reddit con puntos; **el más querido es Kratos**, y Brok, Sindri y Mimir los secundarios (§9). Sin encuesta oficial ⚠️ |
+| 8 · Doblaje latino y frases textuales | ✅ | Qué juegos se doblaron y dónde; estudio y dirección con dos fuentes; 14 papeles (6 con dos fuentes, 8 ⚠️); **7 frases textuales** con muestra y minuto (§10). Sin clips oficiales doblados ⚠️ |
+| 9 · Música y sonido | ⚠️ | Compositores con dos fuentes (créditos vistos en el juego), BAFTA, Eivør, Hozier; 5 efectos de sonido con minuto del documental oficial (§11). **Qué tema suena en cada escena, sin oír** |
+| 10 · Vídeos y tendencias con minuto | ✅ | 13 vídeos mirados, tráiler de *Ragnarök* plano a plano, documental de sonido transcrito, charlas GDC (§12). TikTok sin vistas ⚠️ |
+| 11 · Videojuegos | ✅ | HUD de las 8 entregas y *Valhalla* en tabla, cambio de orbes a runas, TCRF, prototipo y contenido cortado (§13). Colores del HUD sin medir ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | «Boy» con cifras, Brok y Sindri, Mimir, el guiño a *All-Stars*, «No me simpatizas»; 10 reglas de qué no hacer, con la corrección del tatuaje (§14) |
+| 13 · Descripción profunda de cada personaje | ⚠️ | Kratos, Atreus, Mimir, Freya, Baldur, Brok y Sindri: carácter, arco, voz medida, dinámicas (§8). Caras con minuto sólo de Kratos y Atreus, y sin **vergüenza** ni **miedo** de ninguno |
+| 14 · Poses analizadas | ✅ | 21 poses con minuto o captura (Kratos 12, Atreus 9) y tabla de uso (§15). Mimir, Freya, Brok y Sindri sin poses con minuto ⚠️ |
+| 15 · Vestuario con hex | ✅ | Kratos griego, armaduras nórdicas y Atreus medidos; ropa por era vista por el redactor; guía de cosplay; «Odisea Oscura» (§16). Piel nórdica y tatuaje sin medir ⚠️ |
+| 16 · Paisajes y fondos de pantalla | ⚠️ | 14 sitios con hora y luz, los Nueve Reinos (§17). **Fondos de pantalla oficiales no encontrados**; sólo 1 de fan en Wallhaven y 2 de 4K de la wiki sin origen claro |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor (§18): rasgos fijos por era, paleta, luz, palabras que ayudan y que estropean, referencias, gestos; voz de cada personaje, 11 frases reales por emoción y vocabulario. Frase alegre textual, no hay ⚠️ |
+| 18 · Estilo y cómo replicarlo | ✅ | Programas y proceso contados por el estudio, cámara de un plano, filtros, Blender y Photoshop paso a paso, encuadres por emoción (§19) |
+| 19 · Texturas 2D | ⚠️ | Tatuaje, runas y su letra, glifos de reino, cifrados, nudos, greca, mano amarilla, cuero con escamas (§20). **Pack CC0 de greca no encontrado** y licencias de nudos sin comprobar pieza a pieza |
+| 20 · Gustos y detalles | ⚠️ | Alturas, objetos, bebida de Mimir, cómo se ven (§21). **No existen fichas de comida ni cumpleaños** en esta saga |
+| 21 · Por qué la aman y escenas que hacen llorar | ✅ | Ventas y premios con dos fuentes, la paternidad según Barlog, la escena de las cenizas con dos fuentes y reacciones de Reddit, la muerte de Brok (§22). Minuto de la escena ⚠️ |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 5 fandubs, comparativa de Vandal, 2 TikTok y el **concurso «Inmortaliza tu voz»** con dos fuentes (§23). **Vistas sin comprobar** (YouTube bloqueado) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite, Mortal Kombat 9, All-Stars, 20.º aniversario, NECA y cosplay oficial; Monster Hunter descartado (§24). Cafés, no hay ⚠️ |
+| 24 · Obras parecidas | ✅ | Influencias de Barlog, 6 obras de dos listas, y las láminas vecinas (Vinland Saga, Saint Seiya, Hellblade) (§25) |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, dos sagas por arcos, glifos, Futhark completo, objetos y vocabulario (§26) |
+| Tres conceptos de lámina | ✅ | Tres distintos (Codex en la noche violeta, Caja de Pandora en el templo rojo, mostrador de Brok en la fragua), con objeto para Blender, personaje y pose, cuadro, textos y profundidad. Canal propuesto en §0: **#guia**, hilo «Tus zonas» |
+| Cuarenta fuentes distintas | ✅ | **71 webs distintas** enlazadas (medido con `revisar.py` al cerrar) |
+| Tipos de fuente | ⚠️ | Oficiales ✅ (blogs de PlayStation, guías de cosplay, GDC, Steam, créditos del juego). Idiomas: español, inglés y francés ✅; **japonés, coreano o chino no**: es una obra occidental ⚠️. Wikis ✅ (Fandom, Doblaje Wiki, StrategyWiki); **TV Tropes, TCRF y Wayback bloqueados** ⚠️. Foros ✅ (Reddit, ResetEra, Typography.Guru, GameFAQs). Arte: Safebooru ✅, ArtStation 403 ⚠️. Vídeo ✅ (Dailymotion, Internet Archive), YouTube y TikTok ⚠️. Código y recursos ✅ (Sketchfab, Open3DLab, ambientCG, Hidden Palace, fuentes de Google en GitHub). Doblaje ✅ (Doblaje Wiki, ANMTV, eldoblaje) |
+| Hojas de contacto | ✅ | 3 en `hojas/` (personajes, vestuario y escenas, fondos; de 610 a 730 KB), miradas número a número |
+| referencias.json | ✅ | 133 referencias, las mejores primero, sin las de otras sagas; con las correcciones del redactor |
+
+---
