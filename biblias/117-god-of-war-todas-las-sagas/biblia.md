@@ -454,3 +454,52 @@ Todos **CC Attribution** salvo el cofre: se pueden usar y modificar
   real, no del juego.
 
 ---
+
+## 5 · Sitios, luz, paleta y texturas reales
+
+Colores **medidos con `estilo.py`** (Pillow, 5 colores) sobre fotogramas
+reales o capturas de Steam, no inventados.
+
+| Sitio y juego | Hex medidos | Luz (mirada) | Fuente |
+|---|---|---|---|
+| **Bosque de Midgard** con niebla al amanecer (2018) | niebla `#9DA7AF` `#C4C9CE`; troncos `#413A38` `#292424` `#131110` | Amanecer difuso, contraluz frío, sin sol directo. Único acento cálido: la **mano amarilla** pintada en el árbol | [Steam 2018, 1920×1080](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg) |
+| **Ruina nevada** con niebla turquesa (*Ragnarök*) | niebla `#BEDED9` `#A5CCC7`; sombra `#446660` `#353D36`; fuego de las Espadas `#D96D4A` | Plana y fría, sin sombras duras | [Steam Ragnarök, 1920×1080](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg) |
+| **Bosque nevado** al atardecer (visión, *Ragnarök*) | `#221E22` `#414A5A` `#526074` `#738699` | Azul gris, niebla, sin sol | [4:20](https://www.dailymotion.com/video/x92n352?t=260) |
+| El mismo bosque, más claro | `#272428` `#89A2B7` `#6A8096` | Luz difusa de nieve | [3:40](https://www.dailymotion.com/video/x92n352?t=220) |
+| **Cofre bajo Yggdrasil**, niebla (*Ragnarök*) | `#4F4665` `#72739D` `#211A26` `#A2A6CC`; semilla `#E46838` | Violeta azul brumoso; un solo punto naranja | [1:30](https://www.dailymotion.com/video/x8qej41?t=90) |
+| **Esparta y el Egeo** (arte de 2005) | `#CAAF67` `#7F6441` `#5E4C39`; sombra `#1D140E` `#0B0703` | Sol mediterráneo directo | [Sparta_1.jpg, wiki, 987×567](https://static.wikia.nocookie.net/godofwar/images/9/91/Sparta_1.jpg) |
+| **Pasillo de piedra en Atenas** (2005) | `#23241D` `#434439` `#34352B` | Verde oliva muy oscuro | [1:30](https://archive.org/download/LP_God_of_War/godofwar_01.ogv?t=90) |
+| **Puerto de Rodas de noche** (*II*), el Coloso ataca | `#6B6A66` `#484942` `#878A96` `#B2BAD4` `#E9F0F0` | Plata lunar, alto contraste, niebla marina | [3:30](https://archive.org/download/LP_God_of_War_2/gow2_01.ogv?t=210) |
+| **Final de *III***, el espíritu | `#2B3232` `#1B1C1C` `#454F4D` `#72827A` | Verde gris casi monocromo, muy tenue | [4:40](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=280) |
+| **La Caja de Pandora** (*III*) | `#060101` `#1C0806` `#3A110D` `#78130C` | Rojo sobre negro total; saturación 76 %, la más alta medida | [5:20](https://archive.org/download/LP_God_of_War_3/gow3_24.ogv?t=320) |
+| **Criatura de fuego** (*Ascension*) | `#71322C` `#491A18` `#C45D3B` `#ED986D` `#FCD8AA` | Naranja fuego, saturación 62 %: la escena más «caliente» de la saga | 0:42 ⚠️ la parte enlaza [el vídeo del epílogo](https://www.dailymotion.com/video/x8qej41?t=42), pero por la escena debería ser [el tráiler de Ascension](https://www.dailymotion.com/video/xv3hg7?t=42): comprobar |
+
+**Lo que dicen las tres épocas juntas** ✅: la saga griega usa **piedra
+caliza, oro viejo y rojo sangre**, con sol directo. La nórdica pasa a
+**azules y violetas fríos con niebla**, casi sin sol, y **un solo acento
+cálido** (fuego, runa encendida, semilla). Lo confirma también la parte
+de texto al mirar las capturas de marketing.
+
+**No usar para paleta** ⚠️: los iconos de reino de la wiki (Alfheim,
+Helheim, Muspelheim, 614×614) llevan un marco dorado de interfaz
+(`#DDBC6C`, igual en los tres) que tapa el color del paisaje.
+
+### Texturas reales libres (CC0, ambientCG, comprobadas 200 OK)
+
+Uso y modificación libres, sin atribución obligatoria.
+- Mármol y piedra de templo griego:
+  [Marble012](https://ambientcg.com/a/Marble012),
+  [Travertine009](https://ambientcg.com/a/Travertine009) (piedra gastada
+  cálida).
+- Roca de ruinas y montes nórdicos: [Rock064](https://ambientcg.com/a/Rock064),
+  [Ground111](https://ambientcg.com/a/Ground111).
+- Nieve de Midgard con pisadas: [Snow006](https://ambientcg.com/a/Snow006).
+- Madera tallada (cofres, arco de Atreus, mostrador de Brok):
+  [Wood095](https://ambientcg.com/a/Wood095).
+- Metal gastado (Espadas, Hacha, armadura):
+  [Metal063](https://ambientcg.com/a/Metal063),
+  [CorrugatedSteel009](https://ambientcg.com/a/CorrugatedSteel009).
+- Falta: **cuero** y **pergamino** buscados a propósito ⚠️ (la parte de
+  vídeo no los trajo).
+
+---
