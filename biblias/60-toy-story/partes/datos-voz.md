@@ -1,6 +1,6 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Toy Story
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -166,11 +166,11 @@ Ironically, despite being portrayed as a ferocious Tyrannosaurus Rex, Rex is gen
 _Fuente: https://danbooru.donmai.us/posts?tags=toy_story_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. pikachu · 17606 dibujos
+1. pikachu · 17607 dibujos
 2. mario · 6326 dibujos
 3. spider-man · 2840 dibujos
 4. sora_(kingdom_hearts) · 2368 dibujos
-5. batman · 1839 dibujos
+5. batman · 1840 dibujos
 6. elsa_(frozen) · 1825 dibujos
 7. kiki_(majo_no_takkyuubin) · 1148 dibujos
 8. anna_(frozen) · 1143 dibujos
@@ -193,9 +193,9 @@ _Fuente: https://api.dailymotion.com_
 **«Toy Story latino»**
 - Toy Story · 0:32 · Télé 7 Jours · 7610 vistas · https://www.dailymotion.com/video/x9g2gi8
 - Toy Story 5 - Tráiler Oficial Doblado Latino · 2:24 · FilmAffinity · 1985 vistas · https://www.dailymotion.com/video/xa0ekdy
+- Toy Story · 0:51 · Unitel Bolivia · 1671 vistas · https://www.dailymotion.com/video/x8r6xto
 - TOY STORY 3 "ESCENA DEL INCINERADOR" LATINO · 3:18 · KARAPULKRA20 · 1109 vistas · https://www.dailymotion.com/video/x3mvnel
 - Toy Story 3 - Trailer 2 Español Latino - HD · 1:40 · Tomatazos · 947 vistas · https://www.dailymotion.com/video/x8x2ak8
-- Toy Story · 2:54 · MonProgrammeTV · 618 vistas · https://www.dailymotion.com/video/x3lx6fw
 - Toy Story Español Latino MG · 1:00 · Toy Story · 599 vistas · https://www.dailymotion.com/video/x343ocg
 **«Toy Story doblaje latino»**
 - Toy Story 5 - Tráiler Oficial Doblado Latino · 2:24 · FilmAffinity · 1985 vistas · https://www.dailymotion.com/video/xa0ekdy
@@ -205,7 +205,7 @@ _Fuente: https://api.dailymotion.com_
 - VIDEO: Toy Story 3 - Trailer (Español Latino) · 1:37 · Qore · 219 vistas · https://www.dailymotion.com/video/x8x214k
 - Toy Story de Terror - Muestra de Doblaje · 3:11 · thebardock23 · 115 vistas · https://www.dailymotion.com/video/x16nywp
 **«Toy Story fandub español»**
-- Toy Story 5 - Tráiler oficial español · 2:24 · FilmAffinity · 17632 vistas · https://www.dailymotion.com/video/xa0eg9c
+- Toy Story 5 - Tráiler oficial español · 2:24 · FilmAffinity · 17634 vistas · https://www.dailymotion.com/video/xa0eg9c
 - Toy Story 4 - Tráiler en español · 1:43 · HobbyConsolas · 1341 vistas · https://www.dailymotion.com/video/x74v8f9
 - Toy Story Español Latino MG · 1:00 · Toy Story · 599 vistas · https://www.dailymotion.com/video/x343ocg
 - Toy Story 5 - Tráiler español (HD) · 2:24 · El Séptimo Arte · 481 vistas · https://www.dailymotion.com/video/xa0it3y
@@ -222,13 +222,13 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/toystory: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/toystory_
 
-**«why I love»**
-- (103 votos, 30 comentarios) (Btw I love all the movies) Why did I feel like Toy Story 5 didn't look as good as 4? Like, that's crazy right, theyve… · https://www.reddit.com/r/toystory/comments/1udiqkj/btw_i_love_all_the_movies_why_did_i_feel_like_toy/
-- (28 votos, 10 comentarios) When I was little, I had one of these Woodys where the pull string is only drawn in. Pretty stupid honestly why would… · https://www.reddit.com/r/toystory/comments/1rhyinf/when_i_was_little_i_had_one_of_these_woodys_where/
-- (6 votos, 4 comentarios) Why I Love Toy Story (1995) · https://www.reddit.com/r/toystory/comments/1m1em0t/why_i_love_toy_story_1995/
-- (2 votos, 0 comentarios) Why I love the 1999 woody doll · https://www.reddit.com/r/toystory/comments/1cjo4a9/why_i_love_the_1999_woody_doll/
-- (1 votos, 0 comentarios) Lotso is the reason why I love toy story 3 · https://www.reddit.com/r/toystory/comments/1v1tpjf/lotso_is_the_reason_why_i_love_toy_story_3/
-- (0 votos, 4 comentarios) This is why I love toy story · https://www.reddit.com/r/toystory/comments/eljlye/this_is_why_i_love_toy_story/
+**«favorite character»**
+- (252 votos, 44 comentarios) Who’s your favorite character from Toy Story 2? · https://www.reddit.com/r/toystory/comments/1myykvr/whos_your_favorite_character_from_toy_story_2/
+- (181 votos, 41 comentarios) (I'll began) Whose your favorite One time/minor character in the movies? · https://www.reddit.com/r/toystory/comments/1qni56a/ill_began_whose_your_favorite_one_timeminor/
+- (167 votos, 62 comentarios) Who’s your favorite character introduced in Toy Story 2? · https://www.reddit.com/r/toystory/comments/1s16h34/whos_your_favorite_character_introduced_in_toy/
+- (149 votos, 63 comentarios) What is you favorite minor character? · https://www.reddit.com/r/toystory/comments/1mf8ygu/what_is_you_favorite_minor_character/
+- (137 votos, 67 comentarios) What is your favorite Toy Story character? · https://www.reddit.com/r/toystory/comments/1m9d3yf/what_is_your_favorite_toy_story_character/
+- (135 votos, 23 comentarios) my favorite Toy Story side character. -“Gaddily Bob-Howdy” · https://www.reddit.com/r/toystory/comments/1kquv4h/my_favorite_toy_story_side_character_gaddily/
 **«best scene»**
 - (221 votos, 29 comentarios) This is genuinely one the best scene in toy story history · https://www.reddit.com/r/toystory/comments/1uf8kmy/this_is_genuinely_one_the_best_scene_in_toy_story/
 - (9 votos, 3 comentarios) Here's my Sheriff Woody impression. I used the scene in Kingdom Hearts 3 to try my best at a Woody impression, and I… · https://www.reddit.com/r/toystory/comments/1g5bch9/heres_my_sheriff_woody_impression_i_used_the/
@@ -240,3 +240,10 @@ _Fuente: https://www.reddit.com/r/toystory_
 - (31 votos, 69 comentarios) Unpopular opinion: Toy Story 5 needs to happen · https://www.reddit.com/r/toystory/comments/1epvxyt/unpopular_opinion_toy_story_5_needs_to_happen/
 - (23 votos, 36 comentarios) UNPOPULAR OPINION: I did not hate Toy Story 4 · https://www.reddit.com/r/toystory/comments/1gqziwt/unpopular_opinion_i_did_not_hate_toy_story_4/
 - (12 votos, 2 comentarios) Unpopular opinion · https://www.reddit.com/r/toystory/comments/16ynrl6/unpopular_opinion/
+**«iconic»**
+- (945 votos, 32 comentarios) 20-year comparison between the iconic "Jessie tipping her hat" render from 1999 and 2019. · https://www.reddit.com/r/toystory/comments/1qxgi4g/20year_comparison_between_the_iconic_jessie/
+- (88 votos, 2 comentarios) Every reference to the iconic clouds in all films. · https://www.reddit.com/r/toystory/comments/1w55kz2/every_reference_to_the_iconic_clouds_in_all_films/
+- (81 votos, 5 comentarios) Evolution of Bo in her iconic Pink Dress · https://www.reddit.com/r/toystory/comments/1i8jgst/evolution_of_bo_in_her_iconic_pink_dress/
+- (17 votos, 2 comentarios) No Cowgirls Allowed!, is the only time we see Jessie wearing Feminine clothing outside of her Iconic Cowgirl attire · https://www.reddit.com/r/toystory/comments/13xxekq/no_cowgirls_allowed_is_the_only_time_we_see/
+- (12 votos, 8 comentarios) What were your reactions when Forky did his iconic jumpscare in Toy Story 4? · https://www.reddit.com/r/toystory/comments/1u9hoez/what_were_your_reactions_when_forky_did_his/
+- (11 votos, 2 comentarios) Woody's iconic close-mouthed smile · https://www.reddit.com/r/toystory/comments/15cmslv/woodys_iconic_closemouthed_smile/
