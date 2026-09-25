@@ -11,7 +11,7 @@ ahora lleva el lote H.)
 - Arranque (25-sep-2026, 03:20 UTC): rama juntada con todas las cuentas; herramientas instaladas; guardado cada 300 s.
 - 117 God of War: **COMPLETA** y subida (04:17). ✅21 ⚠️9 ❌0, 133 referencias, 71 webs, 254 minutos, 71 hex, 2347 líneas.
 - 118 Hellblade: **COMPLETA** y subida (04:35). ✅27 ⚠️10 ❌0, 207 referencias, 78 webs, 142 minutos, 70 hex, 1930 líneas.
-- 119 A Plague Tale: 4 partes listas; redactor (Opus) en marcha desde 04:32.
+- 119 A Plague Tale: **COMPLETA** y subida (13:41). ✅22 ⚠️15 ❌0, 124 referencias, 57 webs, 129 minutos, 85 hex, 872 líneas.
 - 120 Days Gone: texto, voz y video (Sonnet) en marcha; imagen lista.
 - 121 Tomb Raider: imagen (Sonnet) en marcha.
 - 122: recolectado con hojas; 123-127 recolectando.
@@ -25,6 +25,23 @@ ahora lleva el lote H.)
   eldenring, finalfantasy) porque los encargos no la traen.
 
 ## Avisos para el dueño
+
+- **119 A Plague Tale**: más querida, Amicia (la más dibujada; su actriz, nominada en The Game Awards
+  2022); la secundaria con más cariño es Sophia (tiene juego propio, *Resonance*, 2026). No hay encuesta.
+  Cuadro de diálogo: sin globo, subtítulo de cine en versalitas entre dos líneas finas (nombre en Cinzel,
+  frase en Belleza); para textos largos, ficha del Códex en papel viejo. Láminas: A #textos «El círculo
+  de luz» ⭐ (Amicia y Hugo leen junto a una antorcha, ratas al borde de la luz), B #fotos «El herbario de
+  Hugo», C #dudas «La rueda de Béatrice» (8 frascos, uno por etiqueta del canal).
+  - Nota: #textos también lo piden Death Note, Shrek y Hellblade; #dudas, Encanto, Mushoku Tensei y
+    Scooby-Doo.
+  - No hay doblaje latino (sólo subtítulos); *Requiem* tiene doblaje de España (Sandra Villa, Marta
+    Méndez). Las frases textuales son del inglés, marcadas «traducción nuestra».
+  - Por comprobar de oído: si el perro se llama Lion o Léon; quién dice «Are you stupid or what?»
+    (Story Trailer de *Innocence*); quién dice «This world hurts. I want to hurt it back.» (tráiler de
+    *Requiem*, 1:01); la voz francesa de Hugo (Logan Hannan o Cécile Gatto).
+  - Corregido: en el logo de *Innocence* la G lleva una rata, no un cuervo (`#8C0000`); descripciones
+    corridas de 4 capturas de Steam; quitados dibujos de otras series de Danbooru. Chocan entre partes
+    (⚠️): año de nacimiento de Amicia (1333/1334), edad de Hugo (5 o 6-7), fecha de *Resonance* (26/27-ago-2026).
 
 - **118 Hellblade**: más querida, Senua, sin rival (BAFTA a mejor interpretación; no hay encuestas); el
   secundario más citado es Druth. Cuadro de diálogo: no hay globo ni caja, es un subtítulo blanco sans
@@ -76,3 +93,4 @@ ahora lleva el lote H.)
 | 120 | texto (reescrito desde cero) | Sonnet | 16 | 205 mil |
 | 121 | imagen | Sonnet | 15 | 222 mil |
 | 120 | video | Sonnet | 21 | 233 mil |
+| 119 | redactor (relanzado) | Opus | 22 | 332 mil |
