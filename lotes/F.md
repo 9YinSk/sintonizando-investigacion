@@ -163,6 +163,7 @@ Cuenta: cuenta A104
 | 83-overlord | redactor (opus, cuenta .104) | opus | 10 | 240466 |
 | 84-no-game-no-life | redactor (opus, cuenta .104) | opus | 14 | 277299 |
 | 85-sword-art-online-todas | redactor (opus, cuenta .104) | opus | 11 | 228393 |
+| 86-saga-of-tanya-the-evil | equipo completo | Sonnet + Opus | — | — |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 

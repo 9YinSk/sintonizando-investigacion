@@ -180,10 +180,114 @@ subtítulos en chino e inglés, **con tiempos**, de las temporadas 1, 2, 3,
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] No hay hojas de contacto
-> `herramientas/investigar_serie.py` no funciona desde aquí: Fandom da 403.
-> Por eso **no hay carpeta `hojas/`**. Las imágenes de abajo las vi yo
-> bajándolas de GitHub al *scratchpad* (no se suben al repositorio).
+### 3.0 Las hojas de contacto (segunda pasada) ✅ vistas
+
+Tres hojas en `hojas/`, montadas con Pillow a partir de las 321 imágenes grandes que bajó
+`investigar_serie.py` de [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Eugene_H._Krabs)
+(12 páginas y sus galerías), de la galería de *Krusty Krab Training Video*, de Steam, de
+Sketchfab y de Openverse. **Las miré todas.** Cada número enlaza el original.
+
+#### `hojas/personajes_01.jpg` · personajes, hojas de modelo y caras
+
+| N.º | Qué es (tamaño) | Para qué sirve |
+|---|---|---|
+| P1 | [Don Cangrejo, arte oficial de catálogo](https://static.wikia.nocookie.net/spongebob/images/7/7f/Eugene_Krabs.png) (3000×3000) | **presentar** con pinzas abiertas y sonrisa |
+| P2 | [Don Cangrejo con un billete de 10 millones](https://static.wikia.nocookie.net/spongebob/images/5/55/Krabs_with_money.png) (950×675) | **presentar el dinero**: billete en alto, mirada de amor |
+| P3 | [Don Cangrejo pensando en dinero (arte de libro)](https://static.wikia.nocookie.net/spongebob/images/4/4b/Mr-Krabs-thinks-of-money.jpeg) (1280×1435) | pensar en dinero (símbolos $ alrededor) |
+| P4 | [Don Cangrejo 3D de Kamp Koral](https://static.wikia.nocookie.net/spongebob/images/2/22/Kamp-Koral-Mr-Krabs.png) (1500×1500) | referencia de volumen 3D (no es la serie clásica) |
+| P5 | [Don Cangrejo abre su cartera (Mall Girl Pearl)](https://static.wikia.nocookie.net/spongebob/images/0/00/Mall_Girl_Pearl_034.png) (1920×1080) | **abrir la cartera** (su carné y billetes): gesto de «pagar» |
+| P6 | [Don Cangrejo feliz (Clams 164)](https://static.wikia.nocookie.net/spongebob/images/8/83/Clams_164.png) (1420×1080) | **celebrar**: ojos cerrados, boca abierta, pinzas arriba |
+| P7 | [Don Cangrejo con miedo (Scaredy Pants)](https://static.wikia.nocookie.net/spongebob/images/a/a0/Scaredy_Pants_109.png) (1434×1076) | **miedo**: se agarra la cara con la pinza |
+| P8 | [Don Cangrejo en la Armada](https://static.wikia.nocookie.net/spongebob/images/b/b8/MrKrabsNavyDays.png) (3913×1080) | su pasado de marinero (la Armada) |
+| P9 | [Calamardo harto, arte oficial](https://static.wikia.nocookie.net/spongebob/images/4/49/Squidward_unhappy_stock_art.png) (3500×3500) | Calamardo de pie, brazos en jarra, párpados caídos |
+| P10 | [Calamardo con clarinete](https://static.wikia.nocookie.net/spongebob/images/7/72/Squidward_with_clarinet_stock_art.png) (2009×2421) | Calamardo en su afición (clarinete) |
+| P11 | [Bob Esponja alegre, arte oficial](https://static.wikia.nocookie.net/spongebob/images/6/6b/Spongebob_happy_stock_art_1.octet-stream.png) (4429×4368) | **animar**: Bob con las manos junto a la cara |
+| P12 | [Patricio, arte oficial](https://static.wikia.nocookie.net/spongebob/images/5/5f/Patrick_stock_art_%28oil_painted%29.png) (2500×2500) | Patricio alegre, brazos abiertos |
+| P13 | [Plankton malvado, arte oficial](https://static.wikia.nocookie.net/spongebob/images/6/6b/EvilPlankton24.png) (2500×2500) | Plankton **plan malvado** |
+| P14 | [Gary](https://static.wikia.nocookie.net/spongebob/images/9/96/300px-SpongeBob_SquarePants_Gary_the_Snail_Transparent_PNG.png) (2500×2500) | Gary |
+| P15 | [Arenita](https://static.wikia.nocookie.net/spongebob/images/1/19/Sandy_arm_out_%28oil_painted%29.png) (2500×2500) | Arenita **explicando**, brazo extendido |
+| P16 | [El Narrador Francés en pantalla](https://static.wikia.nocookie.net/spongebob/images/3/34/You%27re_Going_to_Pay...Phone_142.png) (1920×1080) | **el Narrador Francés**: escafandra de latón y fondo de espiral |
+| P17 | [hoja de modelo a color de los principales (Main Model Pack)](https://static.wikia.nocookie.net/spongebob/images/f/fa/SpongeBob-Main-Characters-sheet-color.jpg) (2200×2200) | **hoja de modelo oficial a color** de los principales: proporciones |
+| P18 | [hoja oficial de colores Pantone (Bob, Arenita, Sra. Puff)](https://static.wikia.nocookie.net/spongebob/images/8/8c/SpongeBob-character-model-colors-Pantone.jpg) (800×1100) | **colores oficiales Pantone** (medidos en §16) |
+| P19 | [boceto de Hillenburg de Don Cangrejo, 1996](https://static.wikia.nocookie.net/spongebob/images/c/c6/Crabs-Stephen-Hillenburg-1996.jpg) (950×650) | boceto de Hillenburg de 1996: cómo pensó a Don Cangrejo |
+| P20 | [hoja de modelo: Patricio con lágrimas](https://static.wikia.nocookie.net/spongebob/images/f/f4/Cry_sb_mi.jpeg) (1012×777) | **tristeza**: lágrimas de manual («stock tears») |
+| P21 | [hoja de modelo: Patricio bebé](https://static.wikia.nocookie.net/spongebob/images/8/8e/Patrick_model_ggg.jpeg) (900×706) | hoja de modelo con cabecera de producción |
+| P22 | [Patricio triste (Oral Report)](https://static.wikia.nocookie.net/spongebob/images/7/7c/Oral_Report_045.png) (1420×1080) | **tristeza** de Patricio en primerísimo plano |
+| P23 | [Patricio aterrado (De-Pat-ment Store)](https://static.wikia.nocookie.net/spongebob/images/5/53/De-Pat-ment_Store_074.png) (1920×1080) | **miedo** con fondo de rayos |
+| P24 | [Bob Esponja llorando de rabia (No Weenies Allowed)](https://static.wikia.nocookie.net/spongebob/images/c/cb/No_Weenies_Allowed_135.png) (1420×1080) | **rabia** con llanto |
+
+#### `hojas/crustaceo_01.jpg` · el Crustáceo, la caja y el dinero
+
+| N.º | Qué es (tamaño) | Para qué sirve |
+|---|---|---|
+| C1 | [Don Cangrejo presenta la caja: «automated money-handling system» (03x10 00:14:11)](https://static.wikia.nocookie.net/spongebob/images/f/f8/Krusty_Krab_Training_Video_055.png) (1424×1080) | **la pose del concepto A**: Don Cangrejo apoyado en la caja, sonrisa enorme |
+| C2 | [el menú GALLEY GRUB con precios](https://static.wikia.nocookie.net/spongebob/images/5/57/Krusty_Krab_Training_Video_051.png) (1424×1080) | **el menú real con precios**: modelo para el menú en soles |
+| C3 | [Don Cangrejo con la espátula (00:14:07)](https://static.wikia.nocookie.net/spongebob/images/d/d6/Krusty_Krab_Training_Video_054.png) (1424×1080) | explicar con un objeto en la pinza |
+| C4 | [Don Cangrejo gritando (00:14:28, «standing fee»)](https://static.wikia.nocookie.net/spongebob/images/a/ae/Krusty_Krab_Training_Video_062.png) (1424×1080) | **regañar**: grito, pinza en la cadera |
+| C5 | [el botón «I Really Wish I Weren't Here Right Now» (00:15:12)](https://static.wikia.nocookie.net/spongebob/images/8/8b/Krusty_Krab_Training_Video_069.png) (1424×1080) | **el botón de Calamardo** (cuadro de texto de la serie) |
+| C6 | [Calamardo en el barquito de la caja y Bob](https://static.wikia.nocookie.net/spongebob/images/3/36/Krusty_Krab_Training_Video_066.png) (1424×1080) | Calamardo en el barquito y Bob al lado: **pareja de la caja** |
+| C7 | [rótulo de capítulo «2 THE KRUSTY KRAB TODAY»](https://static.wikia.nocookie.net/spongebob/images/7/79/Krusty_Krab_Training_Video_042.png) (1424×1080) | **rótulo de capítulo**: número, láser rojo y hamburguesa |
+| C8 | [POOP: «People Order Our Patties» en rojo sobre tela tiki](https://static.wikia.nocookie.net/spongebob/images/4/4d/Krusty_Krab_Training_Video_076.png) (1424×1080) | **letras rojas sobre tela tiki**: sigla dicha letra a letra |
+| C9 | [cartel «No Refills»](https://static.wikia.nocookie.net/spongebob/images/4/40/Krusty_Krab_Training_Video_050.png) (1424×1080) | **cartel escrito a mano** («No Refills») |
+| C10 | [cartel DAILY SPECIAL sobre el menú (Hot Crossed Nuts)](https://static.wikia.nocookie.net/spongebob/images/e/e0/Hot_Crossed_Nuts_045.png) (1920×1080) | **cartel de oferta del día** pegado con cinta bajo el menú |
+| C11 | [barquito de la caja, GALLEY GRUB y ORDER HERE (Employee of the Month)](https://static.wikia.nocookie.net/spongebob/images/6/60/Employee_of_the_Month_003.png) (1423×1080) | el conjunto: menú, ORDER HERE, barquito y caja |
+| C12 | [Calamardo en la caja (Pickles)](https://static.wikia.nocookie.net/spongebob/images/d/dc/Pickles_027.png) (1434×1076) | Calamardo apoyado en la caja |
+| C13 | [Patricio al teléfono de la caja (Big Pink Loser)](https://static.wikia.nocookie.net/spongebob/images/9/9f/Big_Pink_Loser_066.png) (1424×1080) | Patricio en la caja, al teléfono |
+| C14 | [Calamardo lee en el barquito (Training Video 120)](https://static.wikia.nocookie.net/spongebob/images/c/ca/Krusty_Krab_Training_Video_120.png) (1424×1080) | Calamardo leyendo en el barquito (desgana) |
+| C15 | [el barquito por dentro (Help Wanted)](https://static.wikia.nocookie.net/spongebob/images/d/dd/Help_Wanted_103.png) (1438×1080) | el barquito vacío: modelo para Blender |
+| C16 | [ventana de pedidos y barquito (The Original Fry Cook)](https://static.wikia.nocookie.net/spongebob/images/c/cb/The_Original_Fry_Cook_169.png) (1422×1080) | **ventana de pedidos** con ORDER HERE |
+| C17 | [Karen en la caja del Crustáceo (Single Cell Anniversary)](https://static.wikia.nocookie.net/spongebob/images/d/d2/Single_Cell_Anniversary_058.png) (1422×1080) | Karen **cobrando** en el Crustáceo |
+| C18 | [Don Cangrejo y Calamardo con monedas (Accidents Will Happen)](https://static.wikia.nocookie.net/spongebob/images/3/3d/Accidents_Will_Happen_020.png) (1433×1080) | monedas por el suelo |
+| C19 | [la oficina de Don Cangrejo, fondo oficial](https://static.wikia.nocookie.net/spongebob/images/5/52/KrustyKrabOfficeDay.png) (2071×1500) | la oficina: baúl, sillas de barril, banderas |
+| C20 | [la cocina, fondo oficial](https://static.wikia.nocookie.net/spongebob/images/2/20/KrustyKrabKitchenStock.png) (1898×1500) | la cocina |
+| C21 | [tablón de anuncios del Crustáceo](https://static.wikia.nocookie.net/spongebob/images/5/55/KKbulletinboard.jpg) (900×1000) | **tablón de anuncios**: papeles clavados, ideal para una lámina 2 |
+| C22 | [el Balde de Carnada por dentro, con «ORDERS»](https://static.wikia.nocookie.net/spongebob/images/2/29/Patty_Caper_071.png) (1440×1080) | el Balde por dentro, con el cartel «ORDERS» |
+| C23 | [el Balde de Carnada por fuera](https://static.wikia.nocookie.net/spongebob/images/5/5a/Karen_for_Spot_001.png) (1920×1080) | el Balde por fuera |
+| C24 | [el Crustáceo por fuera, fondo oficial](https://static.wikia.nocookie.net/spongebob/images/7/77/KrustyKrabStock.png) (2400×1746) | el Crustáceo por fuera, arte limpio |
+
+#### `hojas/fondos_juegos_01.jpg` · sitios, juegos, 3D y fotos libres
+
+| N.º | Qué es (tamaño) | Para qué sirve |
+|---|---|---|
+| F1 | [el Crustáceo por fuera en HD (Say Awww!)](https://static.wikia.nocookie.net/spongebob/images/3/3d/Say_Awww%21_001.png) (1920×1080) | fachada del Crustáceo para el concepto C |
+| F2 | [Casa de Calamardo, piña y roca (Man Ray Returns)](https://static.wikia.nocookie.net/spongebob/images/9/9d/Man_Ray_Returns_001.png) (1920×1080) | la calle: roca, isla de Pascua y piña |
+| F3 | [la piña de Bob con cielo de flores (Sir Urchin)](https://static.wikia.nocookie.net/spongebob/images/f/f8/Sir_Urchin_and_Snail_Fail_001.png) (1920×1080) | la piña con cielo de flores |
+| F4 | [Campos de Medusas (Jellyfish Hunter)](https://static.wikia.nocookie.net/spongebob/images/5/5f/Jellyfish_Hunter_001.png) (1416×1080) | Campos de Medusas |
+| F5 | [mapa de Fondo de Bikini (edición japonesa)](https://static.wikia.nocookie.net/spongebob/images/7/77/SpongeBob-Bikini-Bottom-town-map.jpg) (1200×650) | mapa del pueblo (edición japonesa) |
+| F6 | [mapa: Fondo de Bikini, Goo Lagoon y Campos de Medusas](https://static.wikia.nocookie.net/spongebob/images/8/88/Hide_and_Then_What_Happens_155.png) (1440×1080) | mapa de la isla |
+| F7 | [Fondo de Bikini de día (Bubbletown)](https://static.wikia.nocookie.net/spongebob/images/2/26/Bubbletown_002.png) (1920×1080) | Fondo de Bikini de día |
+| F8 | [atardecer rosa (Saving Bikini Bottom)](https://static.wikia.nocookie.net/spongebob/images/b/b8/Saving_Bikini_Bottom_The_Sandy_Cheeks_Movie_006.png) (1920×1080) | atardecer rosa: luz de despedida |
+| F9 | [captura de Titanes de la Marea](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/e2a13b7d40b6d7427c3e4670326e1e3440b7dbf3/ss_e2a13b7d40b6d7427c3e4670326e1e3440b7dbf3.1920x1080.jpg) (1920×1080) | interfaz de *Titanes de la Marea* |
+| F10 | [captura de Titanes de la Marea](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/3524a17ad945711ee30821b8bf768d4fcf597ae7/ss_3524a17ad945711ee30821b8bf768d4fcf597ae7.1920x1080.jpg) (1920×1080) | **el Crustáceo en 3D**: barquito, Don Cangrejo y el Rey Neptuno |
+| F11 | [captura de Titanes de la Marea](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/d42f2604c1328ca3de3d80946044fad1b577ce7c/ss_d42f2604c1328ca3de3d80946044fad1b577ce7c.1920x1080.jpg) (1920×1080) | efectos del juego |
+| F12 | [captura de Rehydrated](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969990/ss_7c2e060df8300baacac0d0c1e8b530953e476b3d.1920x1080.jpg) (1920×1080) | Fondo de Bikini en 3D (Rehydrated) |
+| F13 | [captura de Rehydrated](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969990/ss_ca18f3fd972845e5a2649392536b89ad18b9ff8f.1920x1080.jpg) (1920×1080) | rótulo «GOO LAGOON PIER» (juego) |
+| F14 | [captura de El juego de Patricio Estrella](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/ss_16cca5125aefac562fd007b0e0eddd8c5c990c92.1920x1080.jpg) (1920×1080) | la calle en 3D |
+| F15 | [captura de El juego de Patricio Estrella](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/ss_be7caae2be0e2a3469ed17f3cea8fea46b4fe2f1.1920x1080.jpg) (1920×1080) | parque de *El juego de Patricio* |
+| F16 | [captura de El juego de Patricio Estrella](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/ss_5bbdac469b3721c4251502be66b372a99e1d8483.1920x1080.jpg) (1920×1080) | estilo del juego de Patricio |
+| F17 | [modelo 3D «BFBBR - Krusty Krab Cash Register» de SMF Features Developed From Cheryl Hill, CC Attribution](https://media.sketchfab.com/models/cc79260fc5f44d73b8268f68dfb83a3f/thumbnails/bb2736031c204613b7fcb64e6cff6143/e9c4c1a9c4864660b699aeb57157bb53.jpeg) (1920×1080) | **caja del juego con precio «$1.00» arriba**: base de Blender |
+| F18 | [modelo 3D «Cash Register» de BumBácBonifác, CC Attribution](https://media.sketchfab.com/models/1e04d7a73a004e2380e2ee715ce7bd06/thumbnails/7c552460ee1e4fe19179d5dc3565ae24/f25afc6a7fdf49f69b0c49f8ea4bd4a7.jpeg) (1920×1080) | caja genérica (base segura, CC BY) |
+| F19 | [modelo 3D «TSCP - Krusty Krab Interior» de SMF Features Developed From Cheryl Hill, CC Attribution](https://media.sketchfab.com/models/360b06ee55de4fda975b7f58f4568045/thumbnails/27a732b4437b470f9166d887b8cc1c4b/d83be6bfa2db4162916f492ca34d65cc.jpeg) (1920×1080) | **interior del Crustáceo en 3D** (CC BY, sacado del juego) |
+| F20 | [modelo 3D «BOB ESPONJA RIGGED» de Sapx, CC Attribution](https://media.sketchfab.com/models/ba715233cda9453fb2ec47c6a641d84d/thumbnails/d953c3f296e5472e9ce9f5e28363f255/ebc2e63282ef49cebf7d15a7b19936d8.jpeg) (1920×1080) | Bob con *rig* (CC BY) |
+| F21 | [modelo 3D «Plankton» de Vin D'Alembert, CC Attribution](https://media.sketchfab.com/models/3f1a3065100c44038aa0fee5886e5818/thumbnails/6cef8a26da9d436ab2600349ceb4282f/f9ae5866b1d349b4809163f2460e4970.jpeg) (1920×1080) | Plankton 3D (CC BY) |
+| F22 | [modelo 3D «"Calamardo Fuerte Hermosura"» de Mike BlueG, CC Attribution](https://media.sketchfab.com/models/79e86cbc30a94005af544fd1e8203c53/thumbnails/0394b45e1784494abdad212066ff6949/1024x576.jpeg) (1024×576) | «Calamardo guapo» 3D (CC BY) |
+| F23 | [muñecos de Año Viejo de Bob Esponja, CC BY-NC-SA 2.0](https://live.staticflickr.com/21/33546304_68faf48f6a_b.jpg) (1024×768) | **Año Viejo** con Bob Esponja (comunidad hispana) |
+| F24 | [Bob Esponja gigantes en Port Aventura, CC BY-NC-ND 2.0](https://live.staticflickr.com/2770/4061819408_420a1d754a_b.jpg) (1024×682) | Bob Esponja en un parque temático |
+| F25 | [fan art realista de Bob y Patricio](https://live.staticflickr.com/3034/2895809356_1bd6860c3b.jpg) (500×375) | fan art realista |
+| F26 | [local real «El Crustáceo Cascarudo», CC BY-NC 2.0](https://live.staticflickr.com/2397/2181186641_6d607c46bc_b.jpg) (1024×768) | **un local real llamado «El Crustáceo Cascarudo»** |
+
+**Lo mejor de las tres**:
+- **C1** (*Krusty Krab Training Video* 055, 03x10 00:14:11): Don Cangrejo apoyado en la caja. La caja
+  está **encima de un baúl rojo con cerradura dorada**, dentro del barquito blanco. Es el objeto
+  del concepto A, visto de verdad.
+- **C2**: el menú GALLEY GRUB real, con precios y **céntimos en pequeño y arriba** (2⁰⁰, 3⁹⁹).
+- **C10**: un **cartel de oferta** («DAILY SPECIAL») pegado con cinta bajo el menú. Es la oferta
+  del día **dentro de la serie**.
+- **C5**: el botón de Calamardo en grande: círculo lila con letras moradas.
+- **P18**: la hoja oficial de colores Pantone. De ahí salen los hex de §16.
+
+> Primera pasada: las imágenes de 3.1 a 3.5 se vieron bajándolas de GitHub
+> (entonces Fandom daba 403). Siguen valiendo.
 
 ### 3.1 Portadas oficiales de videojuegos (arte promocional con poses vivas) ✅ visto
 
@@ -220,8 +324,11 @@ oficial de Nickelodeon:
 - El **«Main Model Pack»** (1999): el libro que usaba el equipo para dibujar
   igual a Bob, Patricio, Calamardo, Don Cangrejo y Arenita. Trae dibujos de
   construcción con notas debajo ✅ ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Main_Model_Pack)).
-  No pude ver las páginas ⚠️. **Es la mejor referencia de poses**: buscarla
-  en esa wiki desde otra red.
+  **Segunda pasada: ya se ve** ✅. La wiki guarda la [hoja a color de los
+  principales](https://static.wikia.nocookie.net/spongebob/images/f/fa/SpongeBob-Main-Characters-sheet-color.jpg)
+  (2200×2200, hoja P17), la [portada del pack](https://static.wikia.nocookie.net/spongebob/images/f/fd/Main_Model_Pack.jpg)
+  (1250×1000) y la [hoja de colores Pantone](https://static.wikia.nocookie.net/spongebob/images/8/8c/SpongeBob-character-model-colors-Pantone.jpg)
+  (800×1100, hoja P18). Son las mejores referencias de proporción y color.
 
 ### 3.4 Objetos de la serie, recreados en juegos (sólo referencia) ✅ visto y medido
 

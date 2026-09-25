@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x4g5kft&t=48",
+    "fuente": "Tráiler oficial «Mob Psycho 100» (Hitek, Dailymotion), fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cara de Mob sonrojado y sonriendo (fondo de burbujas), reacción tímida al hablar de Tsubomi",
+    "para_que": "referencia de la cara de alegría/vergüenza de Mob para la lámina o guía de IA (punto 13/17)",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x84g6ar&t=114",
+    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cara de Mob con miedo, ojos muy abiertos y sangre en la boca, durante la pelea contra Koyama (ep. 8)",
+    "para_que": "referencia de la cara de miedo de Mob",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x84g6ar&t=42",
+    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cara neutra de tensión de Mob (cejas rectas, boca en línea recta) justo antes de liberar poder",
+    "para_que": "referencia de la expresión «de aviso» de rabia contenida de Mob",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x84g6ar&t=168",
+    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Mob en estado ???% (monocromo, pelo blanco, ojos rojos, cara inexpresiva)",
+    "para_que": "referencia del estado de poder máximo de Mob, para escenas de acción o lámina de highlights",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8ec8b9&t=96",
+    "fuente": "Tráiler oficial 3ª temporada, sub. español (Sensacine, Dailymotion), fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Mob con la mano levantada y la mirada oculta por el flequillo, diciendo «¡Detente!»",
+    "para_que": "referencia de tensión/desesperación de Mob con subtítulo en español oficial",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x4rj83n&t=0",
+    "fuente": "Clip «Mob vs Teru Explosion» (Dailymotion, corte de fan del ep. 5 con subtítulos en inglés), fotograma propio con fotogramas.py",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cara de Mob llorando (100% Tristeza), enrojecida, ojos cerrados, boca abierta, diciendo «Voy a cambiar»",
+    "para_que": "referencia de la cara de tristeza de Mob para la lámina o guía de IA (punto 13/17)",
+    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/3/32/Mob.ogg/revision/latest?cb=20181029043436&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Muestra de audio del doblaje latino de Mob (Carlos Siller), transcrita con voz.py",
+    "para_que": "frases textuales y ficha de voz (tono/velocidad) del punto 8 y 13; no es imagen, es audio",
+    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/b/b3/Reigen.ogg/revision/latest?cb=20181029043457&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Muestra de audio del doblaje latino de Reigen (Manuel Campuzano), transcrita con voz.py",
+    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/8/81/Ekubo.ogg/revision/latest?cb=20181029043532&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Muestra de audio del doblaje latino de Dimple/Ekubo (Carlos Hernández), transcrita con voz.py",
+    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Ritsu.ogg/revision/latest?cb=20181029043616&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Muestra de audio del doblaje latino de Ritsu (Javier Olguín), transcrita con voz.py",
+    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/d/db/Teru.ogg/revision/latest?cb=20181029043632&path-prefix=es",
+    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Muestra de audio del doblaje latino de Teruki Hanazawa (José A. Toledano/Pascual Meza), transcrita con voz.py",
+    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+  }
+]
