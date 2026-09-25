@@ -84,8 +84,8 @@ reescribió.
     latino, el meme «Frieren hace berrinche», entrevistas a Erika Ugalde
     y Azucena Estrada.
   - **Colaboraciones** (Punto 23): Sweets Paradise y «社交界ver.» con
-    **ropa nueva vista**, 11 más de collabo-cafe, 13 figuras y bolsas
-    oficiales, 17 fotos de cosplay CC BY-SA.
+    **ropa nueva vista**, 10 colaboraciones más, 14 figuras y bolsas
+    oficiales, 18 fotos de cosplay CC BY-SA.
   - **Obras parecidas** (Punto 24) y **mundo** (Punto 25): lo que dice el
     editor, la recomendación del autor, láminas vecinas, 5 reglas, 9
     arcos, símbolos y vocabulario.
@@ -1887,7 +1887,7 @@ escenas hacen llorar.
   pese al miedo ([Anime News Network, reseña eps. 1-6](https://www.animenewsnetwork.com/review/frieren-beyond-journey-end/episodes-1-6/.203473))
   y Frieren **aprueba huir** en vez de avergonzarlo
   ([Crunchyroll, «How Running Away Became Frieren's Most Powerful Skill»](https://www.crunchyroll.com/news/features/2026/3/23/frieren-most-powerful-skill-running-away))
-  ✅. Resumen en [Wikipedia, «Stark (Frieren)»](https://en.wikipedia.org/wiki/Stark_(Frieren)).
+  ✅. Resumen en [Wikipedia, «Stark (Frieren)»](https://en.wikipedia.org/wiki/Stark_%28Frieren%29).
   **Sirve** para un canal de miedo escénico (grabar, cantar).
 - **Frieren, para quien perdió a alguien**: una «clase magistral sobre el
   duelo»; el tema es el **arrepentimiento lento** ·
@@ -2015,10 +2015,9 @@ entiende enero de 2027 ⚠️.
 de Stark) **ya son mercancía oficial**: se pueden usar sin miedo.
 
 ### 23.3 Cosplay bien hecho
-- **17 fotos en Wikimedia Commons** de **Benlisquare**, **CC BY-SA 4.0**:
+- **18 fotos en Wikimedia Commons** (la parte dice 17) de **Benlisquare**, **CC BY-SA 4.0**:
   Comiket 105 y 107, Comic World Taiwan-Kaohsiung 49 y SMASH 2025.
-  Cosplay de **Frieren, Fern y Übel**, de 3793×5702 a 6048×4024 px (en
-  `datos.json` salen 18). Varias
+  Cosplay de **Frieren, Fern y Übel**, de 3793×5702 a 6048×4024 px. Varias
   tomas del mismo cosplay a 10-18 mm: sesión cuidada ✅. Ejemplos:
   [Frieren, Comiket 107](https://upload.wikimedia.org/wikipedia/commons/d/d9/Frieren_cosplay_at_Comiket_107.jpg),
   [Fern, Comiket 105](https://upload.wikimedia.org/wikipedia/commons/a/a9/Fern_cosplay_at_Comiket_105.jpg).
@@ -2347,11 +2346,11 @@ justo el tiempo de cada uno.
 | 20. Gustos y detalles de cada personaje | ✅ | Punto 20: tabla de los 4 del **Official Fan Book** (vía wiki) y fichas en inglés y español; 6 secundarios. **No hay cumpleaños oficiales** (campo vacío en dos wikis). ⚠️ varios gustos con una fuente; altura de Stark y Himmel no publicada |
 | 21. Por qué la aman y escenas que hacen llorar | ✅ | Punto 21: Manga Taishō (ANN), premios de Crunchyroll, 30 millones (ANN), identificación con Stark (ANN + Crunchyroll) y con el duelo (Screen Rant, Medium, pódcast), actrices latinas (Excélsior); 3 escenas con minuto o página y reacción (encuesta Shōgakukan + Reddit 3405 votos). ⚠️ música de la escena del anillo sin encontrar; 5 de los 6 premios con una fuente |
 | 22. Fan dubs y comunidad hispana | ⚠️ | Punto 22: 1 fandub, 5 covers latinos (oEmbed), versión en Apple Music, meme «Frieren hace berrinche» en TikTok, comunidad con Erika Ugalde. **Vistas sin medir** (YouTube pidió iniciar sesión; TikTok no da la cifra); episodios doblados por fans sin crédito, no contados |
-| 23. Colaboraciones, figuras y cosplay | ✅ | Punto 23: Sweets Paradise y «社交界ver.» **vistas**, 10 más de collabo-cafe, 14 figuras y bolsas oficiales (Good Smile, Dengeki, Hobby Watch, Collider, Funko), 17 fotos de cosplay CC BY-SA. ⚠️ tela de los cosplays sin mirar (Wikimedia 429); Uniqlo/GU sin confirmar; varias con una fuente |
+| 23. Colaboraciones, figuras y cosplay | ✅ | Punto 23: Sweets Paradise y «社交界ver.» **vistas**, 10 más de collabo-cafe, 14 figuras y bolsas oficiales (Good Smile, Dengeki, Hobby Watch, Collider, Funko), 18 fotos de cosplay CC BY-SA. ⚠️ tela de los cosplays sin mirar (Wikimedia 429); Uniqlo/GU sin confirmar; varias con una fuente |
 | 24. Obras parecidas y láminas vecinas | ✅ | Punto 24: 12 obras de AniList, lo que dice el editor (Hachimonjiya), recomendación del autor (CBR), tabla de 4 biblias vecinas: **choque con Violet Evergarden en #poemas**. ⚠️ sin entrevista de Yamada sobre sus influencias |
 | 25. Mundo, historia por arcos y símbolos | ✅ | Punto 25: 5 reglas (Wikipedia ja + frieren.guide + 296.fm), 9 arcos con capítulos (Game Rant ⚠️, orden confirmado en Wikipedia ja), objetos, lluvia de estrellas y vocabulario. ⚠️ sin emblema oficial de la Asociación |
 | 3 conceptos de lámina | ✅ | §19: #🧰・recursos, #✍️・poemas, #🎟️・eventos, con objeto, sitio, pose, cuadro, letra, textos y profundidad; lámina 2 para las etiquetas. Segunda pasada: qué mejora cada uno; ⚠️ B choca con Violet Evergarden (#poemas), decide el dueño |
-| 40 fuentes distintas | ✅ | §21: **53 fuentes distintas** numeradas en la 1.ª pasada; con la segunda, **74 webs distintas enlazadas** (`revisar.py`), 40 nuevas (§21, «Segunda pasada») |
+| 40 fuentes distintas | ✅ | §21: **53 fuentes distintas** numeradas en la 1.ª pasada; con la segunda, **89 webs distintas enlazadas** (`revisar.py`), 55 nuevas (§21, «Segunda pasada») |
 | Fuentes oficiales (web, staff, artbooks, Blu-ray) | ⚠️ | guía oficial (diseñadora y director), entrevista a Seiko Yoshioka (MdN, 2 partes), Web Sunday, TOHO animation, Crunchyroll; segunda pasada: **Official Fan Book** (vía wiki), editor Ogura (Hachimonjiya), Shōgakukan, Good Smile. **Web oficial 403** otra vez; sin comentarios de Blu-ray ni artbook (FRIEREN ART WORKS sólo por su existencia) |
 | Otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (MdN, note, ORICON, Animate Times, 4Gamer, Game8, hokope, Famitsu, subtítulos; en la segunda pasada Real Sound, Hachimonjiya, Wikipedia ja, scrapbox, Togetter, 296.fm, collabo-cafe, Dengeki, Hobby Watch); inglés (wiki, KYM, Reddit); chino (GamerSky, KitaujiSub, artistas de Pixiv); coreano ⚠️ sólo por el buscador |
 | Wikis de fans, TV Tropes, TCRF, Wayback | ⚠️ | Frieren Wiki (inglés y, en la segunda pasada, **español**), scrapbox.io/frieren (japonés) y Doblaje Wiki a fondo. **TV Tropes y Namu Wiki: 403**. TCRF no aplica (no hay juego). Wayback no respondió |
@@ -2504,3 +2503,145 @@ la API de Jikan (para cifras).
   colores medidos; lo visto en tráileres, OP/ED y clips; tamaños de
   `referencias.json` (bajados y medidos, salvo los vídeos de YouTube).
 - **Dudoso (⚠️)**: todo lo listado en §20.
+
+### Segunda pasada (25-sep-2026): 3 investigadores y el redactor
+
+Juntada de las bitácoras de `partes/imagen.md`, `partes/voz.md` y
+`partes/texto.md`. Cada uno partió de su `datos-<rol>.md` (no repitió las
+consultas del recolector) y de `seccion.py --indice`.
+
+**Imagen (puntos 19 y 23)** · 13 búsquedas
+- Inglés: «Frieren manga … screentone hatching linework»; «free manga
+  screentone halftone brush pack … CC0»; «free seamless stripe pattern SVG
+  CC0»; «open source halftone dot pattern generator SVG»; «Frieren art
+  book making of interview brush pencil watercolor»; «free watercolor paper
+  texture CC0»; «Frieren official figure Good Smile Company Nendoroid POP UP
+  PARADE»; «"Frieren" Uniqlo UT collaboration»; «Frieren Funko Pop official
+  figure release»; «Frieren Loungefly bag Crunchyroll store».
+- Japonés: «葬送のフリーレン 漫画 トーン 作画 インタビュー»; «Frieren コラボ
+  カフェ 期間限定 ポップアップストア 2026»; «グッドスマイルカンパニー フェルン
+  シュタルク ヒンメル フィギュア».
+- Red directa: API de la wiki (search de «emblem», «crest», «guild mark»;
+  wikitext e imageinfo de Holy Emblem, Continental Magic Association y
+  Northern Magic Corps); API de [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper)
+  (paper, fabric, leather, glass, gold, wool, linen); API de
+  [Openverse](https://api.openverse.org/v1/images/?q=halftone%20screentone%20pattern)
+  (sin nada útil con licencia clara); descargas medidas con Pillow y
+  `estilo.py` (hoja oficial, emblema, panel del cap. 41, figura Blow Kiss,
+  visuales de Sweets Paradise y «社交界ver.», Fern 1/7, 4 texturas).
+- Falló: `frieren-anime.jp` y `natalie.mu` 403; `funko.com` 403 (se usó
+  Collider y Pop Shop Guide); `upload.wikimedia.org` 429 tres veces;
+  `publicdomainpictures.net` sin respuesta (2 intentos).
+
+**Voz (puntos 20, 21 y 22)** · 18 búsquedas
+- Inglés: Manga Taishō; Crunchyroll Anime Awards; ventas del manga;
+  «episode 28 flower field reddit cried Himmel»; «which character do you
+  relate to»; «why I love … grief slow living»; «Stark relatable coward»;
+  el artículo de Dockery en Crunchyroll; la reseña de Eisenbeis en ANN.
+- Español: «Frieren fandub español youtube capitulo 1»; «Frieren opening
+  "Yuusha" cover español latino»; «Frieren meme latino "mil añitos" OR "hace
+  berrinche" tiktok»; «Frieren fandub latino capitulo completo»; «Frieren
+  parodia … Erika Ugalde entrevista».
+- Red directa: [wiki en inglés](https://frieren.fandom.com/api.php)
+  (Frieren, Fern, Stark, Himmel, Official Fan Book y los dos *companion
+  books*); **[wiki en español](https://frieren.fandom.com/es/api.php)**
+  (fuente nueva, «Curiosidades» con la encuesta de Shōgakukan);
+  [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Frieren&title=cry)
+  con `title=` (con `query=` da error); [oEmbed de YouTube](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NxIiFvcV9ek&format=json)
+  para 9 vídeos; [API de Wikipedia](https://en.wikipedia.org/w/api.php?action=query&prop=extracts&titles=Stark_%28Frieren%29)
+  para la recepción de Stark.
+- Falló: Arctic Shift con `query=` (error) y sin pausa (*timeout*);
+  `geek.reporteindigo.com` 403 (2 intentos); `yt-dlp` pidió iniciar sesión.
+
+**Texto (puntos 18, 24 y 25)** · unas 12 búsquedas
+- Japonés: «realsound.jp 葬送のフリーレン 制作 インタビュー 斎藤圭一郎»;
+  «フリーレン アニメ 作画 ロトスコープ 撮影 高木佐和子»; «葬送のフリーレン
+  CGWORLD 撮影 色彩設計 インタビュー» ([cgworld.jp](https://cgworld.jp/),
+  sin entrevista útil); «色彩設計 大野春恵 インタビュー» (nada);
+  «撮影 伏原あかね インタビュー フィルター» (nada); «線 作画 厚塗り セル塗り
+  影»; «色トレス 線 色 アニメ塗り 影一段 フリーレン»; «色収差 撮影効果
+  グレイン» (nada estable); «山田鐘人 影響 好きな漫画 インタビュー»;
+  «大陸魔法協会 紋章 一級魔法使い バッジ».
+- Inglés: «Frieren anime art style flat shading … Madhouse»; «Frieren
+  author influences interview Kanehito Yamada»; «Frieren manga story arcs
+  list chapters»; «Frieren world rules magic system … glossary».
+- Leídas: Real Sound (3), MdN (2), Where Creativity Works, note.com,
+  Hachimonjiya, CBR, Wikipedia (ja y en), Game Rant, frieren.guide,
+  scrapbox.io, Togetter, 296.fm, mediag.bunka.go.jp.
+- Falló: `frieren.fandom.com` por WebFetch (402, Cloudflare): se usó la
+  API y Wikipedia.
+
+**Recolector** (`herramientas/recolectar.py`, en `partes/datos-*.md` y
+`datos.json`; sus datos entran ahora en `referencias.json` y en los
+Puntos 20, 23 y 24): [AniList](https://anilist.co/anime/154587),
+[Danbooru](https://danbooru.donmai.us/posts?tags=sousou_no_frieren),
+[Safebooru](https://safebooru.org/index.php?page=post&s=list&tags=sousou_no_frieren),
+[Openverse](https://openverse.org/search/image?q=frieren%20cosplay),
+[MusicBrainz](https://musicbrainz.org/search?query=Frieren&type=release),
+[Internet Archive](https://archive.org/search?query=frieren),
+[Steam](https://store.steampowered.com/search/?term=frieren) (sin juego
+propio) y la [API de Dailymotion](https://api.dailymotion.com/videos?search=frieren).
+Dónde se ve la serie (AniList): [Netflix](https://www.netflix.com/title/81726714),
+[Hulu](https://www.hulu.com/series/frieren-beyond-journeys-end-1d4725f8-06d1-43fb-a077-72143ac5502f),
+[Prime Video](https://www.primevideo.com/detail/0FCJEHY4FXTDVCLZ5NR9A0N42N) y
+[Bilibili TV](https://www.bilibili.tv/en/media/2090295).
+
+**Redactor**: miniaturas de los 6 modelos de `datos.json` por la
+[API de Sketchfab](https://api.sketchfab.com/v3/models/74eaf58ca80141fb9fa4609e062fdec6)
+(1920×1080, CC BY) y los 17 retratos de AniList medidos con Pillow;
+cabeceras de las biblias 03, 22, 77 y 78 para el Punto 24.
+
+**Fuentes nuevas de la segunda pasada** (con el recolector y las APIs de arriba: 55 webs más, **89 en total**)
+- Oficiales y prensa japonesa: [Real Sound](https://realsound.jp/movie/2024/03/post-1593982.html),
+  [Shōgakukan](https://shogakukan-comic.jp/book?isbn=9784098508761),
+  [web oficial](https://frieren-anime.jp/news/4244/) (403),
+  [Good Smile](https://www.goodsmile.com/en/product/60707),
+  [Dengeki Hobby](https://hobby.dengeki.com/news/2362750/),
+  [Hobby Watch](https://hobby.watch.impress.co.jp/docs/news/2035669.html),
+  [Natalie](https://natalie.mu/comic/news/671304) (403),
+  [Hachimonjiya](https://www.hachimonjiya.co.jp/column/entry-67.html/page/3/),
+  [Agencia de Cultura](https://mediag.bunka.go.jp/article/article-18117/),
+  [296.fm](https://296.fm/sousounohuriren-firstclassmagician/).
+- Wikis y enciclopedias: [Wikipedia ja](https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3),
+  [Wikipedia en](https://en.wikipedia.org/wiki/Frieren),
+  [scrapbox.io/frieren](https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A),
+  [frieren.guide](https://www.frieren.guide/magic-guide),
+  [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d9/Frieren_cosplay_at_Comiket_107.jpg).
+- Prensa y análisis en inglés: [Anime News Network](https://www.animenewsnetwork.com/news/2025-07-17/frieren-beyond-journey-end-manga-exceeds-30-million-copies-in-circulation-worldwide/.226759),
+  [Anime Corner](https://animecorner.me/frieren-beyond-journeys-end-voted-2024-best-anime-of-the-year-runner-up-wins-5-awards/),
+  [Crunchyroll News](https://www.crunchyroll.com/news/features/2026/3/23/frieren-most-powerful-skill-running-away),
+  [Screen Rant](https://screenrant.com/frieren-beyond-journeys-end-depression-sad-study-op-ed/),
+  [CBR](https://www.cbr.com/frieren-creator-recommends-nemu-corpse-bearer-manga/),
+  [Game Rant](https://gamerant.com/frieren-before-journeys-end-manga-best-arcs/),
+  [Collider](https://collider.com/frieren-beyond-journeys-end-figures-funko-pop-images/),
+  [Where Creativity Works](https://wherecreativityworks.com/the-art-of-frieren/),
+  [Medium](https://medium.com/@wasin.silakong/why-frieren-beyond-journeys-end-earned-my-tears-c90115ebd4bb),
+  [Discover More](https://www.discovermorepodcast.com/blog/exploring-grief-time-and-regret-a-psychological-look-at-frieren/).
+- En español: [Excélsior](https://www.excelsior.com.mx/espectaculos/mensaje-frieren-sobre-tiempo-erika-ugalde-y-azucena-estrada-explican-1),
+  [La Cosa Cine](https://www.lacosacine.com/videos/frieren-entrevista-erika-ugalde-azucena-estrada/),
+  [TikTok](https://www.tiktok.com/@liamsamano/video/7601529504183438610),
+  [Apple Music](https://music.apple.com/gb/album/frieren-opening-1-yuusha-cover-espa%C3%B1ol-single/1796372772).
+- Foros: [Togetter](https://togetter.com/li/2253157),
+  [imagen de Reddit](https://i.redd.it/cryrv7eltmzc1.jpeg).
+- Tiendas: [Funko](https://funko.com/pop-frieren-in-a-mimic/87125.html) (403),
+  [Pop Shop Guide](https://www.popshopguide.com/2025/06/18/funko-pop-frieren/),
+  [POP MART](https://www.popmart.com/us/products/5697/frieren-beyond-journey-s-end-series-figures),
+  [Amazon](https://www.amazon.com/Loungefly-September-2025-Catalog-Item/dp/B0DSQXS48Q),
+  [Merchoid](https://www.merchoid.com/loungefly-crunchyroll-frieren-beyond-journey-s-end-crossbody-bag/),
+  [Crunchyroll Store](https://store.crunchyroll.com/products/frieren-beyond-journeys-end-frieren-tote-crunchyroll-exclusive-400000043958.html).
+- Recursos libres: [ambientCG](https://ambientcg.com/a/Paper006),
+  [freesvg.org](https://freesvg.org/stripe-seamless-pattern),
+  [HalftoneDots](https://halftonedots.com/halftone-pattern),
+  [svg-halftone en GitHub](https://github.com/evestera/svg-halftone).
+
+**Lo que NO encontré en la segunda pasada** (búsquedas arriba)
+- Entrevista del estudio sobre **aberración cromática** o grano.
+- **Emblema** propio de la Asociación Continental de Magia.
+- Entrevista de **Yamada** sobre sus influencias.
+- Qué **trama** o programa usa Tsukasa Abe.
+- **Cumpleaños** oficiales (no existen en las fichas) y **altura** de
+  Stark y Himmel.
+- **Vistas** de covers, fandubs y TikToks; **música** de la escena del
+  anillo (T1-14 19:35).
+- **Tela y costura** de los cosplays (Wikimedia 429); textura de
+  **acuarela** libre; confirmación oficial de **Uniqlo/GU**.
