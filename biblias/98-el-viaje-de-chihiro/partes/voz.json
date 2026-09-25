@@ -1,1 +1,263 @@
-[]
+[
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/El_viaje_de_Chihiro",
+  "fuente": "Doblaje Wiki (Fandom, api.php?action=parse)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de doblaje: los 3 repartos latinos (Argentina 2003, México/Disney 2002, México/Wild Bunch-Netflix 2020) con muestras de audio y datos de interés",
+  "para_que": "Base del punto 8 (doblaje latino y frases icónicas) y del punto 7/13 (voz de cada personaje)",
+  "licencia": "Texto con licencia CC-BY-SA de Fandom; audios con derechos del estudio, sólo referencia"
+ },
+ {
+  "url": "https://www.anmtvla.com/2025/02/mexico-el-viaje-de-chihiro-reestrena-en.html",
+  "fuente": "ANMTV (noticias de doblaje/anime en Latinoamérica)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Confirma el doblaje de Netflix/Wild Bunch (estudio Sysdub, dirección Alan Prieto, estreno 1-mar-2020) y su reestreno en Cinemex 2025",
+  "para_que": "Segunda fuente (junto a Doblaje Wiki) del reparto vigente del doblaje latino, punto 8",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://lostmedia.fandom.com/es/wiki/El_esp%C3%ADritu_del_r%C3%ADo_(segundo_doblaje_latino_perdido_de_El_viaje_de_Chihiro;_2002)",
+  "fuente": "Wikia Lost Media (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del doblaje mexicano de Disney/Buena Vista (2002, TV, título «El espíritu del río»), documentado como medio perdido",
+  "para_que": "Segunda fuente del reparto y el estatus del segundo doblaje mexicano, punto 8",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://www.eldoblaje.com/datos/FichaPelicula.asp?id=3261",
+  "fuente": "eldoblaje.com (ficha del doblaje de España)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Reparto completo del doblaje de ESPAÑA (no latino): Paula Ribó, Ángel de Gracia, Carme Contreras, Pepe Mediavilla…, estudio Deluxe/103 Todd-AO, dir. Montse Miralles",
+  "para_que": "Confirma y separa el reparto de España del latino (punto 8), evita mezclar los nombres que AniList junta bajo «Spanish»",
+  "licencia": "Datos de doblaje, uso como referencia/cita"
+ },
+ {
+  "url": "https://generacionghibli.blogspot.com/2020/07/documental-sobre-el-doblaje-espanol-de.html",
+  "fuente": "Generación Ghibli (blog especializado)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Documental/reseña sobre el proceso del doblaje español de 2002 (dirección de Montse Miralles)",
+  "para_que": "Segunda fuente del doblaje de España, punto 8",
+  "licencia": "Derechos del blog, sólo cita"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/f/f3/CHihiroWBYubaba.ogg/revision/latest?cb=20200304022548&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio (doblaje Netflix/Wild Bunch 2020)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio de Yubaba, 8 frases seguidas incl. «ocho millones de espíritus vienen a descansar»; transcrito y medido con voz.py (226 Hz, 11.7 semitonos)",
+  "para_que": "Frase textual con fuente sonora y ficha de voz para el punto 8/13 de Yubaba",
+  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/0c/EVDC-ARG-Yubaba.ogg/revision/latest?cb=20160721000319&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio (doblaje Argentina 2003)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Misma escena de Yubaba que la muestra de 2020, pero con la adaptación argentina («ocho millones de dioses»); medido con voz.py (171 Hz, 18.6 semitonos)",
+  "para_que": "Comparación entre doblajes latinos para el punto 8, evidencia de las diferencias de adaptación",
+  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/0e/ChihiroWBHaku.ogg/revision/latest?cb=20200304015348&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio (doblaje Netflix/Wild Bunch 2020)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio de Haku avisando a Chihiro que huya antes del anochecer; transcrito y medido con voz.py (265 Hz, 14.3 semitonos, rápida)",
+  "para_que": "Frase textual y ficha de voz de Haku, puntos 8/13",
+  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/4/40/ChihiroWBSIncara1.ogg/revision/latest?cb=20200304023145&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio (doblaje Netflix/Wild Bunch 2020)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio de Sin Cara pidiendo comida con la voz robada de la Rana; medido con voz.py (186 Hz, 11.4 semitonos)",
+  "para_que": "Frase textual y ejemplo sonoro del mimetismo de Sin Cara, puntos 8/13",
+  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/3f/ChihiroWBChihiro.ogg/revision/latest?cb=20200304022453&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio (doblaje Netflix/Wild Bunch 2020)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Audio de Chihiro hablando con Sin Cara bajo la lluvia; medido con voz.py (346 Hz, 23.1 semitonos, la más aguda medida)",
+  "para_que": "Frase textual y ficha de voz de Chihiro, puntos 8/13",
+  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x889bq8",
+  "fuente": "Dailymotion, canal Sensacine México",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler oficial en español latino, 2:32 min, 70 planos ya transcritos plano a plano en partes/episodios.md",
+  "para_que": "Frases icónicas del doblaje latino con minuto exacto (punto 8) y momentos clave (punto 13)",
+  "licencia": "Derechos del distribuidor, sólo referencia"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Chihiro_Ogino",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Chihiro: apariencia, personalidad, historia, citas y trivia",
+  "para_que": "Base de los puntos 7, 13 y 20 sobre Chihiro",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Haku",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Haku: apariencia, historia, personalidad, habilidades, relaciones, citas y trivia",
+  "para_que": "Base de los puntos 7, 13 y 20 sobre Haku",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Yubaba",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Yubaba: apariencia, personalidad, habilidades, relaciones, citas y trivia",
+  "para_que": "Base de los puntos 7, 13 y 20 sobre Yubaba",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/No-Face",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Sin Cara: apariencia, personalidad, historia, habilidades y diseño (Masashi Andō)",
+  "para_que": "Base de los puntos 7, 12 y 13 sobre Sin Cara",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Lin",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa de Lin/Rin: apariencia, personalidad, trama y citas",
+  "para_que": "Base de los puntos 7 y 13 sobre Lin",
+  "licencia": "Texto CC-BY-SA de Fandom"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=sen_to_chihiro_no_kamikakushi",
+  "fuente": "Danbooru (tablero de arte de fans, con conteo por etiqueta)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ranking de personajes más dibujados por fans dentro de la etiqueta de la película (Chihiro 676, Haku 459, Sin Cara 285 obras)",
+  "para_que": "Medida de cariño del fandom por cantidad de fan art, punto 7",
+  "licencia": "Cada obra tiene licencia propia de su autor; el conteo es dato agregado del sitio"
+ },
+ {
+  "url": "https://anilist.co/anime/199",
+  "fuente": "AniList",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Favoritos de usuarios por personaje (Haku 2873, Chihiro 1892, Sin Cara 1871…)",
+  "para_que": "Encuesta de popularidad de fans, punto 7",
+  "licencia": "Datos públicos de la plataforma, sólo cita"
+ },
+ {
+  "url": "https://www.cbr.com/studio-ghibli-spirited-away-most-popular-anime-survey/",
+  "fuente": "CBR (Comic Book Resources)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cobertura de la encuesta pública de Ranking.net (5.849 votantes) que elige a «El viaje de Chihiro» la mejor película de Ghibli",
+  "para_que": "Encuesta de popularidad de la obra completa, puntos 7 y 21",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.cbr.com/spirited-away-haku-most-popular-ghibli-boy-gen-z/",
+  "fuente": "CBR (Comic Book Resources)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cobertura de la encuesta de la app Simeji (373 respuestas, 10-24 años) donde Haku es el chico Ghibli favorito de la Gen Z",
+  "para_que": "Encuesta de popularidad de personaje, punto 7",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.rottentomatoes.com/m/spirited_away",
+  "fuente": "Rotten Tomatoes",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "97% de aprobación sobre 185 reseñas, nota media 8.62/10, consenso crítico de la web",
+  "para_que": "Por qué la gente la ama con datos de crítica, punto 21",
+  "licencia": "Datos públicos de la plataforma, sólo cita"
+ },
+ {
+  "url": "https://www.nippon.com/en/japan-data/h01730/",
+  "fuente": "Nippon.com (medio japonés en inglés)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ranking de taquilla de películas de Ghibli en Japón: Chihiro 1ª con ¥31.700 millones, récord histórico de Japón por 20 años",
+  "para_que": "Dato de éxito comercial para el punto 21 (por qué la gente la ama)",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://medium.com/@simonelsmith/why-the-train-scene-from-spirited-away-makes-me-want-to-cry-5f73354bb20b",
+  "fuente": "Medium (ensayo de fan/crítico)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Análisis de la escena del tren como la más emotiva de la película, con su lectura simbólica",
+  "para_que": "Escena que hace llorar con explicación, punto 21",
+  "licencia": "Derechos del autor, sólo cita"
+ },
+ {
+  "url": "https://screenrant.com/spirited-away-train-scene-miyazaki-opus-op-ed/",
+  "fuente": "ScreenRant",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Segundo análisis independiente de la escena del tren como la obra maestra de Miyazaki",
+  "para_que": "Segunda fuente de la escena que hace llorar, punto 21",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.indiewire.com/features/general/hayao-miyazaki-artificial-intelligence-animation-insult-to-life-studio-ghibli-1201757617/",
+  "fuente": "IndieWire",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cobertura de la cita de Hayao Miyazaki llamando a la animación por IA «un insulto a la vida misma» (documental NHK, 2016)",
+  "para_que": "Argumento citable de «qué NO hacer» (no usar IA), punto 12 — conecta con la regla del dueño del servidor",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interest/2016-12-09/hayao-miyazaki-calls-ai-cg-animation-presentation-an-insult-to-life-itself/.109717",
+  "fuente": "Anime News Network",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Segunda cobertura independiente de la misma cita de Miyazaki sobre IA",
+  "para_que": "Segunda fuente de la cita de Miyazaki, punto 12",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.diariolibre.com/revista/cultura/2025/03/27/la-tendencia-viral-de-crear-memes-al-estilo-del-studio-ghibli/3049463",
+  "fuente": "Diario Libre (República Dominicana)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Cobertura en español de la tendencia viral de marzo 2025 de recrear fotos «al estilo Ghibli» con IA (ChatGPT-4o) y su polémica",
+  "para_que": "Qué NO hacer (punto 12) contado en medios hispanos, y contexto de comunidad hispana (punto 22)",
+  "licencia": "Derechos del medio, sólo cita"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=760LBALdvZ0",
+  "fuente": "YouTube (fandub de fans)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "«Chihiro se entera que Haku es un Dragón | Fandub Latino», escena redoblada por aficionados",
+  "para_que": "Fan dub hispano de una escena concreta, punto 22",
+  "licencia": "Derechos del canal de fans, sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=FRRl3j2S3vQ",
+  "fuente": "YouTube (cover de fans)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cover en español de «Itsumo Nando Demo» (tema final de la película)",
+  "para_que": "Cover hispano del tema musical, punto 22",
+  "licencia": "Derechos del canal de fans, sólo referencia"
+ }
+]
