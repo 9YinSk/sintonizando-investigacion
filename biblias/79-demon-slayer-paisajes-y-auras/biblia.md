@@ -1647,7 +1647,7 @@ en la bitácora.
 | Código y recursos | ✅ | Sketchfab, ambientCG, Openverse, Fontsource, un análisis en GitHub Pages |
 | Doblaje latino | ⚠️ | Doblaje Wiki por la API y dubdb; ANMTV en la biblia 31. **Sin entrevistas a actores ni créditos de Crunchyroll** abiertos aquí |
 | Las 3 hojas de contacto | ✅ | `auras_01` (2400×1267), `fondos_01` (2400×1508) y `colaboraciones_01` (2400×1704), JPEG de menos de 1,2 MB, explicadas casilla a casilla |
-| `referencias.json` | ✅ | Todas las útiles de las partes, las mejores primero. Sin lo de *Onigiri* ni la galería de Ruka Rengoku |
+| `referencias.json` | ✅ | **130** referencias: todas las útiles de las partes, las mejores primero (81 imágenes con tamaño medido; vídeos con `?t=`). Sin lo de *Onigiri* ni la galería de Ruka Rengoku |
 
 **Lo que el dueño debe saber**: `recolectar.py` trajo datos de otra
 serie (*Onigiri*, AniList 21612). Nada de eso se usó. Conviene corregirlo
