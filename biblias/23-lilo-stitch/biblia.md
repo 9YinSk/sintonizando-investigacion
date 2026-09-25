@@ -103,8 +103,9 @@ pasada**».
   texturas 2D, gustos, por qué la aman, fandubs, colaboraciones, obras
   parecidas y el mundo.
 - **Tabla de cumplimiento** y bitácora de la 2.ª pasada (21.6).
-- `referencias.json`: de 35 a todas las útiles de las partes, con tamaño
-  medido donde se pudo.
+- `referencias.json`: de 35 a **193** (todas las útiles de las partes y
+  de `datos.json`, sin repetidas, las mejores primero; 114 con tamaño
+  medido).
 
 ### Los ⚠️
 
