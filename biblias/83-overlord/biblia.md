@@ -615,3 +615,86 @@ Tono para todos: mundo sombrío (regla 6 del dueño). Nada de colores alegres de
 - **Dónde va cada texto**: sobre el mapa, en tinta: «Staff» y «Coordinación del equipo.»; en una nota clavada al borde: «Lo que no es moderación ni planificación.»; la Sala Staff (voz) puede ir como una puerta marcada en el mapa.
 - **Que no quede plano**: vela o lámpara dorada sobre la mesa, cabezas y manos en primer plano cortando el borde, cola plateada de Demiurge delante, fondo violeta oscuro `#292639`.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Key visuals, novela, hojas de modelo, juego, aniversario, emblema; 31 hojas miradas |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 3 escenas y el logo vistos con minuto, pero a 720p (no 1080p); faltan en vídeo las escenas tristes |
+| 3 · Fan art y 3D con licencia | ✅ | Fan art de los 4 con origen; 3D libre de Ainz, su máscara, Albedo y Shalltear. Sin 3D de Demiurge |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 5 sitios con hex medidos; texturas CC0 de piedra, metal y cuero |
+| 5 · Tipografía por uso | ⚠️ | Logo (Squealer → Pirata One, comprobada) e interfaz; faltan las letras de globo, grito, pensamiento, onomatopeya y subtítulos |
+| 6 · Cómo hablan y piensan en pantalla | ⚠️ | La doble voz de Ainz y la interfaz de los juegos; TV Tropes bloqueado y sin guía de globos del manga |
+| 7 · Popularidad | ✅ | Encuesta oficial japonesa (2 fuentes), AniList, Danbooru corregido |
+| 8 · Doblaje latino y frases | ⚠️ | Reparto con dos fuentes; sólo 4 frases latinas (narrador, ep. 1); ninguna de Albedo, Shalltear ni Demiurge |
+| 9 · Música y sonido | ⚠️ | OP y ED de las 4 temporadas, ambiente visto; sonido icónico con una fuente; sin tema de las escenas tristes |
+| 10 · Vídeos y tendencias | ✅ | PV y tráiler de la película mirados con minuto; tendencia de TikTok (una fuente) |
+| 11 · Videojuegos | ✅ | 3 juegos oficiales; interfaz de *Escape from Nazarick* vista; descartados los homónimos |
+| 12 · Fandom y qué NO hacer | ✅ | Hilos con votos, el gag del malentendido, lista de errores a evitar |
+| 13 · Personajes a fondo | ⚠️ | Carácter, voz y dinámicas de los 4; caras por emoción sólo en parte y sin minuto (faltan tristeza y miedo) |
+| 14 · Poses analizadas | ⚠️ | 18 poses con uso; Ainz 6, Albedo 5, Shalltear 4, Demiurge 3 (se piden 6-10) |
+| 15 · Vestuario con hex | ✅ | Traje base de los 4 medido; trajes de combate sólo descritos |
+| 16 · Ciudades y fondos de pantalla | ✅ | Sitios con luz y hora; 4 fondos de Wallhaven con origen; sin fondos de sólo paisaje |
+| 17 · Guía para IA de imagen y texto | ⚠️ | Rasgos, paleta, vocabulario y frases por emoción; sin frase real «triste» y casi todas en inglés |
+| 18 · Estilo y cómo replicarlo | ⚠️ | Staff, so-bin y medidas; sin *making of* del estudio; receta de Blender propuesta, no confirmada |
+| 19 · Texturas 2D | ⚠️ | Emblema oficial y tramas genéricas; sin papel, encaje ni plumas comprobados |
+| 20 · Gustos y detalles | ⚠️ | Alturas del autor; sin cumpleaños ni comidas (no hay *databook* traducido) |
+| 21 · Por qué la aman | ⚠️ | Razones con fuente y escenas tristes identificadas; sin minuto, música ni reacciones |
+| 22 · Fan dubs hispanos | ⚠️ | Un canal de fandub, playlist y memes; sin vistas ni covers |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 5 colaboraciones, 2 figuras, cosplay (una fuente) |
+| 24 · Obras parecidas | ✅ | Influencia del autor, AniList y láminas vecinas (Solo Leveling, Mushoku Tensei) |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas, naciones, arcos, estandarte, gremio y vocabulario |
+| Tres conceptos de lámina | ✅ | #reglas, #bienvenidas y #staff, distintos entre sí |
+| Fuentes distintas (mínimo 40) | ✅ | Más de 40 webs enlazadas (ver `revisar.py`) |
+| Tipos de fuente | ⚠️ | Oficiales, japonés, wikis, foros, arte, vídeo, doblaje: sí. Coreano o chino, GitHub y Wayback: no. TCRF y TV Tropes: 403 |
+| Hojas de contacto | ✅ | 3 hojas en `hojas/`, descritas casilla a casilla |
+| `referencias.json` | ✅ | 150 referencias de las partes y de `datos.json` (sin las de otras series), las mejores primero |
+
+**Lo que falta, dicho claro**:
+- Oír el doblaje latino de Albedo, Shalltear y Demiurge (las temporadas latinas de Internet Archive son la vía más a mano).
+- Ver las escenas tristes (Espada de la Oscuridad, Arche) con minuto.
+- Elegir y comprobar letras libres para globo, grito, pensamiento y onomatopeya.
+- Revisar en el PV quién dobla a quién (la parte de vídeo leyó mal dos nombres).
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y del redactor. Fecha: 24-25 de septiembre de 2026.
+
+**Recolector** (`recolectar.py`, sin IA): AniList, Doblaje Wiki (API), Fandom, Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam, Reddit. AnimeThemes falló (error 522).
+
+**Imagen** (inglés):
+- Fandom `overlordmaruyama` (API): imágenes de los 4 personajes; «Flag of Ainz Ooal Gown», «Great Tomb of Nazarick», «E-Rantel», «Throne Room», «Overlord Volume 01» y «14».
+- `investigar_serie.py` con Ainz, Albedo, Shalltear y Demiurge: 1531 imágenes, 31 hojas.
+- `estilo.py` sobre las 4 hojas de modelo, el fotograma EP01_052 y E-Rantel.
+- Buscador: colaboraciones y Fortnite; emblema; figuras de Good Smile; cosplay de Albedo; fondos de la sala del trono; tramas de manga libres.
+- ambientCG: piedra, metal y cuero. Openverse descartado (fotos sin relación con la serie).
+
+**Vídeo** (inglés y francés):
+- Dailymotion (API): «Overlord Clattanoia opening», «ending theme», «Ainz vs Gazef», «Shalltear», «official trailer», «PV season 4», «Demiurge» (4 variantes, sin escena suelta).
+- `fotogramas.py` sobre OP1, ED1, 3 escenas, PV T1 y tráiler de la película; `estilo.py` en 6 fotogramas.
+- Fandom: «opening», «Hollow Hunger». Buscador: tendencia de TikTok; lista de openings y endings.
+- YouTube: pedía iniciar sesión. AnimeThemes: 522.
+
+**Voz** (español, inglés y japonés):
+- Doblaje Wiki (API): ficha de Overlord y de Víctor Hugo Aguilar, Lupita Macedo, Azucena Martínez y César Echeverría.
+- Fandom: wikitext completo de los 4.
+- Dailymotion: «Overlord español latino escena», «temporada 4 doblaje», «Ainz español», «Nazarick español», «Ainz Ooal Gown español latino», «anime latino escena», «Albedo español latino».
+- `voz.py`: x82hn72 (útil, ep. 1) y x7tzisl (descartado: película de 2018).
+- Buscador: «Overlord encuesta popularidad personajes…» (español), «オーバーロード 人気投票 キャラクター 結果» (japonés), «why people love Overlord…», «saddest emotional scene…», «fandub español…».
+- Danbooru: recuento a mano de `albedo_(overlord)`.
+
+**Texto** (inglés y japonés):
+- Fandom (unas 18 llamadas): emblema, New World, naciones, Timeline, Story Arcs, manga, juegos.
+- Buscador (8): letra del logo, interfaz de *Mass for the Dead*, entrevista de Maruyama, estilo de so-bin, CGI de Madhouse, globos del manga, tipografía de Yen Press, «オーバーロード コミックス フォント».
+- dafont (2 hilos, bien); Parka Blogs (503); TV Tropes (403, dos vías); TCRF (403, dos vías).
+- Fontsource: 10 letras góticas con `latin-ext`; Pirata One comprobada con fontTools.
+- Steam API de *Escape from Nazarick*: 5 capturas, 2 miradas.
+
+**Redactor**:
+- Miró las 3 hojas de `hojas/` y describió sus casillas.
+- Comprobó con la API de Fandom que la masacre de Katze es la T3 ep. 12 («Massacre»), no la T1 ep. 7.
+- Cruzó el reparto latino con AniList (segunda fuente) y detectó dos nombres mal leídos en el PV.
+
+**Lo que NO se encontró** (con búsquedas hechas): frases latinas de Albedo, Shalltear y Demiurge; letras del manga y de Yen Press; 3D libre de Demiurge; fondos de sólo paisaje; tramas oficiales; cumpleaños y comidas; minutos de las escenas tristes; covers en español; Discord hispano; colaboración con Fortnite; *making of* de Madhouse; páginas de TCRF y TV Tropes.
+
+**Confirmado vs. dudoso**: lo confirmado lleva ✅ (dos fuentes, o visto o medido); lo dudoso lleva ⚠️ en cada línea.
