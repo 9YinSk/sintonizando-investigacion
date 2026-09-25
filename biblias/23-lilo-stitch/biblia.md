@@ -814,7 +814,9 @@ Giacomino), de la [preview de DuckTalks](https://ducktalks.com/2024/01/03/dynami
 - **Manías**: Elvis, el **ukelele** (00:43:40), leer el Patito Feo
   (00:40:27), el café (Lilo le llena el biberón de café, 00:36:51).
 - **Cómo se expresa**: gruñe, olfatea, se ríe a carcajadas. Cuando está
-  triste, **las orejas caen** ⚠️ (de memoria).
+  triste, **las orejas caen** ✅ (2.ª pasada, visto en
+  [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327):
+  orejas caídas, mano en la barbilla, mirada baja).
 
 ### Nani Pelekai — la hermana que hace de madre
 
@@ -884,6 +886,64 @@ Giacomino), de la [preview de DuckTalks](https://ducktalks.com/2024/01/03/dynami
   vendida en productos ⚠️ (no lo medí).
 - **Scrump** (la muñeca) y **Pudge** (el pez): objetos queridos.
 
+### 8.1 Qué transmite cada uno, y su arco (Nuevo, 2.ª pasada)
+
+- **Lilo**: pasa de estar sola y castigar a los demás **por adelantado**
+  (antes de que la dejen) a dejar entrar a Stitch y rehacer su idea de
+  familia (parte de voz). La wiki la describe como «muy
+  desobediente» y «emocionalmente sensible: llora cuando la hieren o
+  cuando le pasa algo a quien quiere» ✅ ([Disney Wiki, Personality](https://disney.fandom.com/wiki/Lilo_Pelekai#Personality)).
+  Cumple **7 años** en la película (7 velas en el montaje final) ⚠️ un
+  wiki. Miedos: que la gente se vaya, que Nani deje de quererla, que se
+  la lleve un asistente social. **Qué deja**: ternura con un punto de
+  pena; es la niña rara con la que se identifica quien fue un niño solo.
+- **Stitch**: de arma sin propósito a «hijo» que aprende qué es una
+  familia; el giro, el Patito Feo. Quien no lo quiere le llama «feo y
+  deforme»; quien lo quiere, «tierno y esponjoso» ✅ ([Disney Wiki,
+  Personality](https://disney.fandom.com/wiki/Stitch#Personality)).
+  **Qué deja**: risa por el caos y un nudo en la garganta cuando se
+  queda solo. Su registro en pantalla es rabia, alegría o melancolía;
+  **no se le ve avergonzado ni con miedo** (parte de voz: puede ser
+  propio del personaje).
+- **Nani**: «amable, madura y cariñosa», pero el estrés del trabajo y
+  de cuidar a la familia la vuelve «temperamental y sarcástica»; Jumba
+  dice que su ira da más miedo que la de Hämsterviel ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Nani_Pelekai#Personality)).
+  **Qué deja**: agotamiento y amor a la vez.
+- **Jumba**: «cómico, bocazas y entrañable» pese a lo de «malvado»; le
+  interesa más el caos que el mal ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Jumba_Jookiba#Personality)).
+- **Pleakley**: exagerado y obsesivo, entra en pánico por nada, pero
+  «no quiere mal a nadie» ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Pleakley#Personality)).
+  Especie **Plorgonarian**; Jumba le llama «Walking Noodle» (fideo
+  andante) ([Lilo & Stitch Wiki](https://liloandstitch.fandom.com/wiki/Wendy_Pleakley)).
+  Los directores pensaron a **Pleakley y Jumba como Marty McFly y Doc
+  Brown** de *Regreso al futuro* ⚠️ un wiki.
+
+### 8.2 Su cara en cada emoción, con fotograma (Nuevo, 2.ª pasada)
+
+Fotogramas propios de la parte de voz con `fotogramas.py` sobre la
+película entera de 2002 en Internet Archive (`?t=` = segundo de esa
+copia). ✅ = visto en el fotograma. ⚠️ = falta: la parte de voz lo dejó
+en su «Sigue:» y ya no se relanza (2 tandas agotadas).
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Lilo** | a carcajadas en el cohete de monedas, [31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904) ✅; ternura, sonrisa de lado mirando a Stitch, [36:56](https://archive.org/details/lilo-stitch-2002_202609?t=2216) ✅ | ⚠️ sin fotograma propio; sólo subtítulo: portazo 00:21:18, «Before I bit her» 00:22:29 | abrazada al peluche verde ante la pared de fotos, [22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330) ✅ | ⚠️ sin fotograma (la llamada a Cobra, 01:01:44, es pánico hablado); sólo la silueta del tráiler 2002, [1:24](https://archive.org/details/LiloStitchTrailer?t=84) | enseña a Scrump con sonrisa torcida y un ojo entornado, [14:35](https://archive.org/details/lilo-stitch-2002_202609?t=875) ✅ |
+| **Stitch** | a carcajadas en el cohete, [31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904) ✅ | dientes y gruñido en la cápsula, [2:25](https://archive.org/details/lilo-stitch-2002_202609?t=145) ✅; silueta sobre escombros con luz verde, [23:59](https://archive.org/details/lilo-stitch-2002_202609?t=1439) ✅ | con el Patito Feo, orejas caídas, [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327) ✅ | ⚠️ no aparece claro | ⚠️ no aparece claro |
+| **Nani** | ternura: se duerme abrazada a Lilo, 22:20-22:55 ✅ | fastidio sirviendo en el luau, [1:39](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=99) (1080p) ✅; rama en alto contra Stitch, [1:05:30](https://archive.org/details/lilo-stitch-2002_202609?t=3930) ✅; arrastra a Lilo, [20:50](https://archive.org/details/lilo-stitch-2002_202609?t=1250) ✅ | agotamiento: la misma cara del luau, a punto de perder el trabajo ✅ | ⚠️ sin fotograma (candidata: la entrevista de Cobra); el susto del tráiler, [2:12](https://archive.org/details/LiloStitchTrailer?t=132), es sorpresa | ⚠️ sin fotograma |
+| **Jumba** | ⚠️ sin fotograma | ⚠️ sin fotograma | ⚠️ sin fotograma | escondido en arbustos con Pleakley, ojos muy abiertos, [28:37](https://archive.org/details/lilo-stitch-2002_202609?t=1717) ✅; entre escombros con un trozo de madera, [1:01:05](https://archive.org/details/lilo-stitch-2002_202609?t=3665) ✅ | ⚠️ sin fotograma |
+| **Pleakley** | riendo con los brazos arriba junto a Jumba, [38:40](https://archive.org/details/lilo-stitch-2002_202609?t=2320) ✅; sonrisa traviesa cubierto de mosquitos, [39:00](https://archive.org/details/lilo-stitch-2002_202609?t=2340) ✅ | ⚠️ sin fotograma | ⚠️ sin fotograma | agachado en los arbustos, boca abierta, antena atrás, [28:37](https://archive.org/details/lilo-stitch-2002_202609?t=1717) ✅ | ⚠️ sin fotograma |
+
+- **Cuenta**: 14 de 25 casillas con fotograma propio. Faltan (⚠️, de la
+  línea «Sigue:» de `partes/voz.md`): miedo y vergüenza de Jumba y
+  Pleakley, rabia y miedo de Lilo, miedo y vergüenza de Nani, y las
+  demás de Jumba y Pleakley. Para sacarlas: volver a bajar
+  `lilo-stitch-2002_202609` con `fotogramas.py`.
+- **Dinámicas para láminas en grupo**: Lilo y Nani, **regañar → hacer
+  las paces** (20:50-23:15, arriba). Jumba y Pleakley, **el dúo cómico**
+  (se esconden juntos, 28:37; ríen juntos, 38:40). Lilo y Stitch,
+  **cómplices** (cohete, 31:44; mesa del luau leyendo, §15). Nani y
+  Stitch, **enemigos que se enseñan los dientes** (1:05:30).
+
 ---
 
 ## 9 · ¿Quién es el más querido?
@@ -903,8 +963,19 @@ el que sale en camisetas y el que la gente reconoce es Stitch.
 | Corea: la película de 2025 **fue floja** allí; el original se conoce poco | [Maxmovie](https://www.maxmovie.com/news/442952) | ⚠️ |
 | Entre los secundarios, **Pleakley** y **Gantu**: las quejas por cambiarlos en 2025 muestran el cariño | §8 | ✅ |
 
+**Nuevo (2.ª pasada)**, de la parte de voz:
+
+| Dato | Fuente | Estado |
+|---|---|---|
+| Taquilla 2025: **1.038 millones de dólares** con un presupuesto de 100 millones | [Wikipedia (dato de Box Office Mojo)](https://en.wikipedia.org/wiki/Lilo_%26_Stitch_(2025_film)), THR | ✅ |
+| Stitch como **marca-personaje** de Disney, cruce entre generaciones (quien lo vio en 2002 se lo enseña a sus hijos) | [The Walt Disney Company](https://thewaltdisneycompany.com/news/stitch-character-brand/), [THR](https://www.hollywoodreporter.com/movies/movie-news/disney-2025-big-winner-stitch-character-1236457944/) | ✅ |
+| **26 de junio, «Día de Stitch»** (6/26, por el número 626); etiqueta #626day en TikTok | [Disney Latino](https://www.disneylatino.com/novedades/dia-de-stitch-que-significa-ohana), §14 | ✅ |
+| **Pleakley, el secundario más querido por los adultos** (reacción a quitarle el vestido en 2025) | §8, The Mary Sue, Deadline | ✅ |
+
 **No encontré ninguna encuesta oficial de Disney** por personajes de la
-película.
+película (2.ª pasada: se buscó otra vez en español e inglés, «Disney
+character popularity poll», «encuesta popularidad Disney personajes»;
+sólo hay pistas indirectas: taquilla, ventas, quejas por recortes).
 
 **Qué significa para #fotos**: la cámara la lleva **Lilo** (es su
 afición en la película). Pero la foto que más gusta es **una de
@@ -915,45 +986,76 @@ no siempre hable.
 
 ## 10 · Doblaje latino
 
-> [!warning] Doblaje Wiki no abría
-> Su API y su web daban 403. Lo que sigue sale de **resúmenes del
-> buscador sobre sus páginas**, cruzados con otras fuentes. Antes de
-> rotular un nombre, hay que abrir la página en el PC.
+> [!note] 2.ª pasada: Doblaje Wiki ya abre
+> En la primera pasada su API daba 403 y todo salía de resúmenes. En la
+> 2.ª, la parte de voz leyó el wikitext por la API y lo cruzó con **The
+> Dubbing Database** ([dubdb.fandom.com](https://dubdb.fandom.com/wiki/Lilo_y_Stitch_(Latin_American_Spanish)),
+> wiki en inglés que redacta aparte su página del doblaje: cuenta como
+> segunda fuente). ✅✅ = las dos fuentes.
 
 ### 10.1 Película de 2002
 
 | Personaje | Voz latina | Estado y fuentes |
 |---|---|---|
 | **Lilo** | **Anaís Portillo** | ✅ [Doblaje Wiki: Lilo Pelekai](https://doblaje.fandom.com/es/wiki/Lilo_Pelekai), [TikTok de SDV: reto con Anaís Portillo](https://www.tiktok.com/@sdv_serviciosdevoz/video/7143761341776497925), [vídeo de Magic Treasures](https://www.facebook.com/magictreasures.cl/videos/mario-filio-y-anais-portillo-las-voces-de-doblaje-latino-de-lilo-stitch-2002-com/1426813825325701/) |
-| **Stitch** | **Raúl Aldana** | ✅ como voz de Stitch en la franquicia ([Doblaje Wiki: Raúl Aldana](https://doblaje.fandom.com/es/wiki/Ra%C3%BAl_Aldana), [TikTok de SDV: «la voz oficial: Raúl Aldana»](https://www.tiktok.com/@sdv_serviciosdevoz/video/7207515646316252422?lang=es)). **Matiz** ⚠️: según Doblaje Wiki hay **dos versiones**: la de **cine** y la del **DVD edición especial de dos discos**, y **en la del DVD** Aldana dobló las líneas de Stitch. Otro resumen dice que Aldana hizo **los ladridos de Stitch en una escena**. **No queda claro qué se oyó en cine** ⚠️: comprobarlo en Disney+. |
-| **Jumba** | **Maynardo Zavala** | ⚠️ sólo Doblaje Wiki ([su ficha](https://doblaje.fandom.com/es/wiki/Maynardo_Zavala)). Lo hizo hasta Leroy y Stitch (2006); murió en 2008 y en «¡Stitch!» lo sustituyó Armando Réndiz ⚠️ |
-| Nani, Pleakley, Cobra, David | **no encontrado** | ❌ |
-| Dirección | José Carlos Moreno | ⚠️ Doblaje Wiki: de sus últimos trabajos antes de morir, el 3 de mayo de 2002 |
-| Estudio | Doblaje Audio Traducción | ⚠️ un solo resumen |
+| **Stitch** | **Raúl Aldana** | ✅ ([Doblaje Wiki: Raúl Aldana](https://doblaje.fandom.com/es/wiki/Ra%C3%BAl_Aldana), [TikTok de SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7207515646316252422?lang=es)). **Resuelto el matiz** (Doblaje Wiki, «Datos de interés»): en esta película Aldana **sólo grabó los diálogos en español** («Hola», «Así me gusta», «Tierno y esponjoso»); **gemidos, gruñidos y balbuceos se quedaron con la voz original de Chris Sanders**. Los **ladridos** con los que Stitch sale de la perrera sí los hizo Aldana (en inglés eran de un perro real), y ese audio se usó también en el doblaje japonés ⚠️ una fuente. Las dos versiones de los tráileres con clásicos Disney (cine y DVD de dos discos) siguen igual: en la del DVD, Aldana dobló a Stitch. |
+| **Nani** | **Claudia Garzón** (canciones: Irasema Terrazas) | ✅✅ [Doblaje Wiki, Nani Pelekai](https://doblaje.fandom.com/es/wiki/Nani_Pelekai), The Dubbing Database. **Antes ❌, resuelto** |
+| **Jumba** | **Maynardo Zavala**, acreditado en pantalla como «**José Maynardo**» | ✅✅ [Doblaje Wiki, Jumba Jookiba](https://doblaje.fandom.com/es/wiki/Jumba_Jookiba), The Dubbing Database. Lo hizo hasta *Leroy y Stitch* (2006); murió en 2008 y en «¡Stitch!» lo sustituyó Armando Réndiz ⚠️ (sólo Doblaje Wiki) |
+| **Pleakley** | **Rubén Trujillo** «Trujo» | ✅✅ Doblaje Wiki, The Dubbing Database. **Antes ❌, resuelto** |
+| **Cobra Bubbles** | **Rubén Moya** (también los insertos) | ✅✅ **Antes ❌, resuelto** |
+| **David Kawena** | **Noé Velázquez Pedroza** | ✅✅ **Antes ❌, resuelto** |
+| Capitán Gantu | Gerardo Reyero | ✅✅ |
+| Gran Concejal | Patricia Martínez | ✅✅ |
+| Mertle Edmonds | Fernanda Robles | ✅✅ |
+| **Kumu Moses Puloki** (el profesor de hula) | **Mario Filio** | ✅✅ **Resuelve el misterio** de la 1.ª pasada: ésa es su voz |
+| Encargada de la perrera | Jessica Ortiz | ✅✅ |
+| Primera oficial Ombit | Cristina Hernández | ✅✅ |
+| Teniente de custodia, conductor de camión 2 | Ricardo Tejedo | ✅✅ |
+| Piloto | Yamil Atala Cabrera | ✅✅ (nuevo) |
+| Piloto femenina rosa | Karla Falcón | ✅✅ |
+| Conductor de camión | Raúl Aldana | ✅✅ |
+| Guardia intergaláctico | José Carlos Moreno | ⚠️ sólo Doblaje Wiki |
+| Dueño del restaurante · dueña de la cafetería · salvavidas | Raúl Anaya · Loretta Santini · Aurora Mijangos | ⚠️ sólo Doblaje Wiki |
+| **Estudio** | **Doblaje Audio Traducción, S.A. de C.V.** | ✅✅ Doblaje Wiki y la ficha de The Dubbing Database. **Sube de ⚠️ a ✅** |
+| **Dirección** | **Ricardo Tejedo** según la ficha de Doblaje Wiki; la 1.ª pasada decía **José Carlos Moreno** | ⚠️ **sigue en duda**. Pista: en Doblaje Wiki Moreno sale como **actor** (el guardia) y la nota dice que fue «uno de los últimos proyectos del querido actor y director» antes de morir el 3 de mayo de 2002; de ahí salió la confusión. Pero la dirección sólo la da una fuente (The Dubbing Database no la dice) y la parte de voz no pudo confirmarla (quedó en su «Sigue:») |
+| Traducción · gerente creativo | Raúl Aldana | ⚠️ sólo Doblaje Wiki |
+| Grabación | abril-mayo de 2002, en México | ⚠️ sólo Doblaje Wiki |
+| Canción «**Muero de amor por ti**» | la canta **Bandana** (Argentina); letra de Laura Rama y Walterio Pesqueira; estudio Santito, mezcla Igloo Music | ⚠️ sólo la ficha de Doblaje Wiki. **Resuelve** el «intérprete no encontrado» de la 1.ª pasada, con una fuente |
 
-Más datos sueltos ⚠️:
-- **Fernanda Robles** hizo prueba para Lilo, con la escena de la clase
-  de hula (Doblaje Wiki).
-- En latino, el pez **Pudge** se llama «**Pato el pez**» (Doblaje Wiki y
-  un [TikTok](https://www.tiktok.com/discover/doblaje-lilo-y-stitch-pato-el-pez-tu-voz)).
-- **Mario Filio** aparece junto a Anaís Portillo en el título de un
-  vídeo sobre las voces latinas de 2002; **no sé a quién dobla**.
+Más datos sueltos:
+- **Fernanda Robles** (Mertle) hizo prueba para Lilo, con la escena en
+  que llega tarde a hula por darle el sándwich a Pato el pez (Doblaje
+  Wiki, entrevista con Idzi Dutkiewicz) ⚠️ una fuente.
+- En latino, el pez **Pudge** se llama «**Pato el pez**» ✅ (Doblaje Wiki
+  y un [TikTok](https://www.tiktok.com/discover/doblaje-lilo-y-stitch-pato-el-pez-tu-voz)).
+  Y por el ajuste de labios, el sándwich es **de mermelada**, no de
+  mantequilla de maní, aunque en la imagen se ve la mantequilla ⚠️
+  (Doblaje Wiki).
+- **Disney+** cambió la escena de Lilo escondida en la **lavadora** por
+  una **caja de pizza** en una cajonera vacía; en inglés quitaron el
+  ruido metálico ⚠️ (Doblaje Wiki).
 - Vídeo que repasa el doblaje: [Draquio, «Doblaje de Lilo y Stitch»](https://www.youtube.com/watch?v=-_9cimLHdaA).
 
 ### 10.2 Película de 2025 (imagen real)
 
-Doblaje **nuevo** para México y Latinoamérica ✅ (sdpnoticias).
+Doblaje **nuevo** para México y Latinoamérica ✅ (sdpnoticias). La 2.ª
+pasada lo comprobó contra el reparto final de
+[Doblaje Wiki, Lilo y Stitch (2025)](https://doblaje.fandom.com/es/wiki/Lilo_y_Stitch_(2025))
+y [The Dubbing Database (2025)](https://dubdb.fandom.com/wiki/Lilo_y_Stitch_(Latin_American_Spanish,_2025)).
+**Dos nombres de prensa estaban mal.**
 
 | Personaje | Voz latina | Estado y fuentes |
 |---|---|---|
-| **Stitch** | **Gerardo Becker** (Ania), abogado laboralista de Huixquilucan que dobla por afición | ✅ [ABC Noticias](https://abcnoticias.mx/tendencia/2025/5/21/quien-es-el-abogado-mexicano-que-hace-la-voz-de-stitch-videos-249770.html), [MG Noticias](https://mgnoticias.mx/quien-es-el-abogado-mexicano-que-hace-la-voz-de-stitch/), [sdpnoticias](https://www.sdpnoticias.com/espectaculos/cine/quienes-son-las-voces-en-espanol-de-lilo-y-stitch-live-action-doblaje-incluye-a-estos-talentos/) |
-| **Nani** | **Karen Vallejo** | ✅ sdpnoticias, [la-lista](https://la-lista.com/entretenimiento/lilo-y-stitch-llega-a-disney-plus-fecha-de-estreno-en-streaming-y-todo-lo-que-necesitas-saber) |
-| **Jumba** | **Sergio Gutiérrez Coto** (Batman en la trilogía de Nolan) | ✅ sdpnoticias, la-lista |
-| **Pleakley** | **Arturo Castañeda** (Flash, Whis) | ✅ sdpnoticias, la-lista |
-| **Lilo** | Aurora Villegas Romero | ⚠️ un resumen ([sdpnoticias](https://www.sdpnoticias.com/espectaculos/cine/quienes-son-las-voces-en-espanol-de-lilo-y-stitch-live-action-doblaje-incluye-a-estos-talentos/) / [Nuestro Diario](https://www.nuestrodiario.com/tu-comunidad/20250519/56852566/conoce-quienes-son-las-voces-en-espanol-de-lilo--stitch)) |
-| Cobra Bubbles | Octavio Rojas | ⚠️ un resumen |
-| Gran Concejal | Rebeca Manríquez | ⚠️ un resumen |
-| David, Gantu | desconocido | según sdpnoticias |
+| **Stitch** | **Gerardo Becker Ania**, abogado laboralista de Huixquilucan que dobla por afición | ✅✅ [ABC Noticias](https://abcnoticias.mx/tendencia/2025/5/21/quien-es-el-abogado-mexicano-que-hace-la-voz-de-stitch-videos-249770.html), [MG Noticias](https://mgnoticias.mx/quien-es-el-abogado-mexicano-que-hace-la-voz-de-stitch/), Doblaje Wiki, The Dubbing Database |
+| **Nani** | **Alicia Vélez** | ✅✅ Doblaje Wiki y The Dubbing Database. **Corregido**: antes decía «Karen Vallejo» (nota de prensa de sdpnoticias y la-lista) |
+| **Jumba** | **Sergio Gutiérrez Coto** (Batman en la trilogía de Nolan) | ✅✅ |
+| **Pleakley** | **Armando Guerrero** | ✅✅ **Corregido**: antes decía «Arturo Castañeda» (nota de prensa) |
+| **Lilo** | **Aurora Villegas Romero** | ✅✅ sube de ⚠️ |
+| Cobra Bubbles | Octavio Rojas | ✅✅ sube de ⚠️ |
+| Gran Concejal | Rebeca Manríquez | ✅✅ sube de ⚠️ |
+| David Kawena | **Iván Bastidas** | ✅✅ nuevo |
+| Gantu | no sale en 2025, no hay voz | ✅ |
+| Mertle Edmonds · Tutu (la abuela) · Sra. Kekoa · Kumu Hula | Habana Zoé · Ma. Eugenia Guzmán · Yolanda Vidal · Polo Rojas | ✅✅ nuevos |
 
 ### 10.3 Frases del doblaje latino
 
@@ -965,7 +1067,7 @@ Doblaje **nuevo** para México y Latinoamérica ✅ (sdpnoticias).
 | Lilo a Stitch | «Destruyes todo lo que tocas, ¿por qué no intentas cambiar algunas cosas?» | 00:37:35 | ⚠️ la lista la da así; el inglés dice «make something» |
 | Lilo | «Elvis Presley era un buen ciudadano. Recopilé estos ejemplos para que practiques, el número uno es el baile» | 00:42:30 | ⚠️ |
 | Nani | «Lilo, a veces tratas con ganas, pero las cosas no salen como esperabas…» | 00:58:54 | ⚠️ |
-| Lilo | «¡Mi cámara está llena otra vez! ¿No son…?» | 00:22:54 | ❌ **no la encontré** |
+| Lilo | «¡Mi cámara está llena otra vez! ¿No son…?» | 00:22:54 | ⚠️ **no encontrada** en ninguna de las dos pasadas: la parte de voz la dejó en su «Sigue:» (bajar subtítulos en español de un clip oficial doblado) y ya no se relanza. Es una adaptación: no rotularla como cita |
 
 - **Ojo con «Ohana»**: circula otra versión, «…y familia significa que
   nadie se queda atrás ni se olvida». Parece la de **España** ⚠️ (no lo
@@ -975,6 +1077,9 @@ Doblaje **nuevo** para México y Latinoamérica ✅ (sdpnoticias).
   o El Tiempo; el buscador las mezcla) incluye «No estoy loco, mi
   realidad es simplemente diferente a la tuya», que **no está en la
   película** (§7.5).
+- **2.ª pasada**: la parte de voz no sumó frases latinas nuevas
+  transcritas de vídeo; confirma que las dos con ✅ siguen en pie. Los
+  clips latinos de Dailymotion son sólo tráileres de 2025.
 
 ---
 
@@ -988,19 +1093,75 @@ Doblaje **nuevo** para México y Latinoamérica ✅ (sdpnoticias).
 | **Elvis Presley** | «Heartbreak Hotel» (00:15:22), «Stuck on You» (00:30:26), «(You're the) Devil in Disguise» (00:42:22), «Hound Dog» (01:00:18) | rock de los 50, humor | ✅ subtítulos |
 | **«Burning Love»** | Montaje final de fotos (01:17:26); versión de **Wynonna** | fiesta, final feliz | ✅ subtítulo, TV Tropes |
 | **«Can't Help Falling in Love»** | Créditos (01:20:25), versión pop | romántico | ✅ subtítulo |
-| **Versiones en español** | Las ediciones latinas del disco añaden **«Muero de amor por ti»** («Can't Help Falling in Love» en español). Las europeas, **«Ardiente amor»** («Burning Love») | — | ⚠️ un resumen; **no encontré el intérprete** |
+| **Versiones en español** | Las ediciones latinas del disco añaden **«Muero de amor por ti»** («Can't Help Falling in Love» en español). Las europeas, **«Ardiente amor»** («Burning Love») | — | ⚠️ un resumen. **2.ª pasada**: según la ficha de Doblaje Wiki la canta **Bandana** (Argentina) ⚠️ una fuente (§10.1) |
 | **Música de Alan Silvestri** | La partitura; la versión completa está en [Internet Archive](https://archive.org/details/lilo-stitch-complete-soundtrack) | aventura, ternura | ✅ existencia |
 
 **Para #fotos**: el montaje final con «Burning Love» **es** un álbum de
 fotos con música. Es el ambiente de la lámina: alegre, casero, de
 familia.
 
+### 11.1 Los créditos, leídos en pantalla (Nuevo, 2.ª pasada) ✅
+
+La parte de vídeo leyó el **cartel de créditos** en el vídeo de los
+créditos finales ([Internet Archive, emisión de Disney Channel 2004](https://archive.org/details/lilo-stitch-3)),
+con `fotogramas.py --fotograma`. Una fuente, pero es el propio crédito.
+
+| Canción | Escrita por | La canta | Minuto del vídeo |
+|---|---|---|---|
+| «He Mele No Lilo» y «Hawaiian Roller Coaster Ride» | Alan Silvestri y Mark Keali'i Ho'omalu | coro infantil | [0:50](https://archive.org/details/lilo-stitch-3?t=50) |
+| «Can't Help Falling in Love» | Luigi Creatore, Hugo Peretti y George David Weiss | **A*Teens** (grupo pop sueco, Stockholm Records), producida por Mark Hammond | [4:20](https://archive.org/details/lilo-stitch-3?t=260) |
+| «Burning Love» | Dennis Linde | **Wynonna** (Curb/Universal) | [4:30](https://archive.org/details/lilo-stitch-3?t=270) |
+| «Hound Dog» · «Heartbreak Hotel» · «(You're the) Devil in Disguise» · «Blue Hawaii» · «Stuck on You» | Leiber y Stoller · Presley, Axton y Durden · Baum, Giant y Kaye · Rainger y Robin · (cortado) | **Elvis Presley** (RCA/BMG) | 4:20-4:30 |
+| «Suspicious Minds» | Mark James | (cortado en el fotograma) ⚠️ | 4:20 |
+
+- **Coro**: Kamehameha Schools Children's Chorus, dirigido por **Lynell
+  K. Bright** ✅ visto (4:30-4:40). La 1.ª pasada no tenía el director.
+- **Equipo de la partitura**: arreglos de coro de Silvestri y Ho'omalu;
+  orquestaciones de **Mark McKenzie** y **William Ross**; editor de
+  música **Ken Karman**; coordinación de grabación David Bifano ✅ visto.
+- **2025**: sigue siendo Elvis y tradición hawaiana. En el *featurette*
+  oficial de Disney Francia una cantante hawaiana vuelve a grabar
+  «Hawaiian Roller Coaster Ride» y un entrevistado dice que «no puede
+  haber Lilo y Stitch sin Elvis» ✅ visto
+  ([Dailymotion, NoPopCorn, en francés, 0:00-3:01](https://www.dailymotion.com/video/x9jtp6m)).
+  Banda sonora de 2025: **Dan Romer** ([MusicBrainz](https://musicbrainz.org/release-group/1271a043-7119-475c-b060-2c8a246c3ba3)).
+- Discos publicados (MusicBrainz): el original del 11-jun-2002, *Island
+  Favorites* (2002), *Hawaiian Album* (2006) y el promocional de Alan
+  Silvestri ([MusicBrainz](https://musicbrainz.org/release-group/5f2eaaca-e3c9-393e-bc31-83b7d60250d7)).
+- **Silencio que duele**: la escena del Patito Feo (55:27) **no lleva
+  música**, sólo el bosque; la de la hamaca, «Aloha ʻOe» **a capela**
+  (parte de voz, §Punto 21).
+
 ---
 
 ## 12 · Vídeos
 
-YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
-**de la película** (§2), que es lo seguro. Los de los vídeos, no.
+Primera pasada: YouTube no abría, **no vi ninguno**. **2.ª pasada**: los
+de §12.1 se miraron de verdad con `fotogramas.py` (Internet Archive y
+Dailymotion; YouTube pedía iniciar sesión). Los de la tabla de abajo
+siguen sin mirar ⚠️.
+
+### 12.1 Vídeos mirados de verdad (Nuevo, 2.ª pasada)
+
+| Vídeo | Qué se ve | Minutos útiles |
+|---|---|---|
+| [Tráiler original 2002](https://archive.org/details/LiloStitchTrailer) (640×346) | Cameos de clásicos Disney antes de revelar «STITCH»; cápsula con la foto de Lilo; «INDESCRIBABLE»; sombra que asusta a Lilo; cena; título «Walt Disney LILO & STITCH»; baile con un tocadiscos; Nani descubre a Stitch | [0:36](https://archive.org/details/LiloStitchTrailer?t=36) Stitch tras una malla · 1:06 playa de noche · [1:36](https://archive.org/details/LiloStitchTrailer?t=96)-1:42 cena · [1:48](https://archive.org/details/LiloStitchTrailer?t=108) cápsula · 2:00 título · [2:06](https://archive.org/details/LiloStitchTrailer?t=126) tocadiscos · [2:12](https://archive.org/details/LiloStitchTrailer?t=132) susto de Nani |
+| [Tráiler oficial 2025, doblado latino](https://www.dailymotion.com/video/x9fzrlk) (Sensacine, 512×288) | Castillo Disney, Stitch CGI mojado en casa, coche, playa, surf con dron, portal con Jumba y un agente, niña llorando junto a Stitch | 0:40 cocina · 1:04-1:20 playa, coche, carrera · [1:44](https://www.dailymotion.com/video/x9fzrlk?start=104)-1:52 surf |
+| [Créditos finales 2002](https://archive.org/details/lilo-stitch-3) (TV 2004, 854×480) | El «álbum» de fotos con Stitch colado; ficha técnica; créditos de canciones | 0:00-1:20 fotos · 0:50 y 4:20-4:40 canciones |
+| [Luau, «Nani Loses Her Job», 1080p](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p) (1824×1080) | Bailarín de fuego, Nani sirviendo, Lilo y Stitch cenando y leyendo | [0:12](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=12)-1:00 |
+| [Película 2002 entera](https://archive.org/details/lilo-stitch-2002_202609) (85 min, audio francés) | Mirada por la parte de voz: más de 25 fotogramas propios (§8.2) | ver §8.2 y §15 |
+| [*Featurette* de la música 2025](https://www.dailymotion.com/video/x9jtp6m) (francés) | Compositor, cantante hawaiana grabando | 0:00-3:01 |
+
+- **Descartado**: el «Part 1 HD» de Internet Archive (480×360, rayas de
+  VHS, sólo llega a 7:59): no sirve para confirmar nada.
+- **Sin bajar por tamaño** (por si hace falta): la película en VHS de
+  fans (`lilo-stitch-2002-fanmade-vhs`, 1,9 GB) y el especial de ABC
+  *Aloha From Hollywood* con Wynonna (`disneys-lilo-stitch-aloha-from-hollywood-2002`,
+  1,3 GB), que puede tener «Burning Love» en directo.
+- **TikTok**: no hay acceso desde el servidor; los enlaces de abajo
+  siguen sin ver ⚠️.
+
+### 12.2 Vídeos citados en la primera pasada (sin mirar)
 
 | Vídeo | Qué es | Para qué sirve |
 |---|---|---|
@@ -1036,6 +1197,34 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
 **Conclusión**: ningún juego da un cuadro de diálogo propio y famoso.
 **No lo uses** en esta lámina (ver §7.4).
 
+### 13.1 Lista completa y lo que se vio (Nuevo, 2.ª pasada)
+
+Sacada del wikitext de la ficha de franquicia
+([Disney Wiki](https://disney.fandom.com/wiki/Lilo_%26_Stitch_(franchise)))
+y cruzada con [Wikipedia](https://en.wikipedia.org/wiki/Lilo_%26_Stitch_(franchise)) ✅:
+
+| Juego | Año | Plataforma | Nota |
+|---|---|---|---|
+| *Lilo & Stitch* | 2002 | GBA | **pantalla de título vista**: logo en una tabla de surf, «PRESS START» amarillo con contorno negro, letra de bloque pixelada ([captura 480×320](https://archive.org/download/stitch_gba/screenshot_12.png)) ✅ |
+| *Lilo & Stitch Pinball* | 2002 | PC | — |
+| *Trouble in Paradise* · *Hawaiian Adventure* · *Stitch: Experiment 626* | 2002 | PS1/PC · PC · PS2 | ya arriba |
+| *Lilo & Stitch 2: Hämsterviel Havoc* | 2005 | GBA/PC | secuela |
+| *Kingdom Hearts II* | 2005 | PS2 | Stitch es **invocación** con el «Encanto de Ukulele»: no pisa el campo, **lame la pantalla** para rellenar vida y magia y para proyectiles; lleva su traje espacial rojo ✅ ([KH Wiki](https://www.khwiki.com/Stitch), [GameFAQs](https://gamefaqs.gamespot.com/ps2/915410-kingdom-hearts-ii/answers/115138-missed-stitch-summon)) |
+| *Kingdom Hearts: Birth by Sleep* | 2010 | PSP | aquí debuta **Sparky (Experimento 221)**: el primer personaje nacido en una serie de TV de Disney que llega a KH |
+| ***Motto! Stitch! DS*** | 2008 | Nintendo DS | **sólo en Japón**; nuevo |
+| *Disney Magical World* 1 y 2 | 2013/2017 | 3DS | Stitch vecino |
+| *Disney Infinity* 1 y 2.0 | 2013/2014 | varias | figura de Stitch (hoja 3, n.º 546) |
+| *Disney Heroes: Battle Mode* | 2018 | móvil | Stitch estilo chibi |
+| *Disney Dreamlight Valley* | 2022 | varias | caja de diálogo **sigue sin ver** ⚠️ |
+| *Disney Speedstorm* | 2023 | varias | Stitch piloto de carreras |
+| *Stitch Jam* | — | móvil | — |
+
+- **No se vieron capturas de juego** (sólo la pantalla de título del
+  GBA): MobyGames y TCRF dieron 403 en la 2.ª pasada ⚠️.
+- **Cruce con Big Hero 6**: el **Experimento 619 «Splodyhead»** sale en
+  *Big Hero 6* (2014) ✅ (Disney Wiki). Hay biblia de Big Hero 6 en el
+  servidor (`08-big-hero-6-grandes-h-roes`).
+
 ---
 
 ## 14 · Lo que ama el fandom, y qué NO hacer
@@ -1056,6 +1245,17 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
   ([Feminist Disney](https://feministdisney.tumblr.com/post/23475837856/in-your-critique-of-lilo-and-stitch-you-didnt),
   [filmboards](https://filmboards.com/board/t/Lilos-obsession-with-fat-people-1118389/)).
 - **El Patito Feo** y «Lost» (00:55:31): el momento que hace llorar ✅.
+- **2.ª pasada**: la **hamaca** (Nani canta «Aloha ʻOe», 00:52:51) es para
+  el fandom el momento de «representación emocional»: alguien tomó una
+  familia real, desordenada y sin filtro, y la volvió algo hermoso ✅
+  (hilo de Reddit citado en [gonewith.substack.com](https://gonewith.substack.com/p/lilo-and-stitch-is-the-movie-2025)).
+  Sirve para una pose **tranquila**, no dramática.
+- **2.ª pasada**: el fan ve a Stitch como metáfora universal, «era todos
+  los que conozco: buscando aprobación, queriendo ser amado» ⚠️ (cita de
+  segunda mano, sin el hilo original).
+- **Memes hispanos**: los fandubs del chiste «**¡está tocándome!**»
+  (Nani le busca pulgas a Stitch): al menos 4 versiones de distintos
+  creadores (Punto 22).
 
 ### 14.2 Qué NO hacer (lo que un fan notaría)
 
@@ -1079,6 +1279,21 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
 - Stitch **hablando mucho**: dice tres palabras.
 - Poner la marca de la cámara (Kodak u otra): no está confirmada, y es
   una marca real.
+- **2.ª pasada: burlarse de los turistas con saña.** Disney **cortó** la
+  escena en que Lilo les hace creer que viene un tsunami (uno le había
+  preguntado si «sabe hablar inglés») porque tocaba temas difíciles de
+  leer para niños: turismo excesivo, gentrificación, apropiación ✅
+  ([Cultura Colectiva](https://culturacolectiva.com/entretenimiento/cine-series/escena-eliminada-lilo-y-stitch/),
+  [Sensacine México](https://www.sensacine.com.mx/noticias/noticia-1000146758/)).
+  Lilo hace fotos a los turistas con cariño, no para reírse.
+- **2.ª pasada: calcar patrones hawaianos** (kapa/tapa, estampados
+  tradicionales): son patrones culturales con dueño y no hay ninguno
+  CC0 (Punto 19). Dibujarlos a mano mirando fotos de museo, nunca
+  calcar.
+- **2.ª pasada: dar por hecha a Stitch en Fortnite**: sólo es una
+  filtración (Punto 23).
+- **2.ª pasada: «Stitch desordena la casa» como idea central**: se
+  parece demasiado a Doraemon, que ya tiene biblia (Punto 24).
 
 ---
 
@@ -1148,6 +1363,41 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
 | 00:38:40 | «I'm pretty!» | Con peluca, mano en la cadera | Humor |
 | 00:38:44 | El mosquito | Quieto, mira su brazo embelesado | **Naturaleza, macro** |
 
+### 15.1 Poses vistas en vídeo (Nuevo, 2.ª pasada) ✅
+
+Éstas **sí están miradas** en el fotograma (partes de vídeo y de voz),
+con minuto y enlace de cada vídeo. Las de arriba siguen siendo de
+memoria ⚠️ salvo las que coinciden con éstas.
+
+| Personaje | Vídeo y minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| Lilo | película, [14:35](https://archive.org/details/lilo-stitch-2002_202609?t=875) | Enseña a Scrump de camino a la escuela, sonrisa torcida, un ojo entornado | **Presentar** algo suyo, con timidez |
+| Lilo | película, [22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330) | Sentada en la cama, abraza el peluche verde, mirada baja a la pared de fotos | **Pensar**, tono triste |
+| Lilo | película, [36:56](https://archive.org/details/lilo-stitch-2002_202609?t=2216) | Sonríe de lado, ceño relajado, mira a Stitch en su caja | **Animar** con cariño |
+| Lilo | luau, [0:36](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=36)-1:12 | Sentada a la mesa, libro abierto compartido con Stitch | **Explicar**, textos largos |
+| Lilo | tráiler 2002, [1:24](https://archive.org/details/LiloStitchTrailer?t=84) | Silueta contra luz azul, brazo alzado, boca abierta | Miedo, susto |
+| Stitch | tráiler 2002, [0:36](https://archive.org/details/LiloStitchTrailer?t=36) | Encogido tras una malla verde azulada, cuerpo bajo, mira a cámara | Vulnerable; «Sin editar» |
+| Stitch | tráiler 2002, [1:36](https://archive.org/details/LiloStitchTrailer?t=96)-1:42 | Sentado a la mesa con Lilo, come con cubiertos | **Pensar**, en familia |
+| Stitch | tráiler 2002, [2:06](https://archive.org/details/LiloStitchTrailer?t=126) | De pie junto a un tocadiscos verde con Lilo, los dos animados | **Celebrar**, bailar |
+| Stitch | créditos, [1:20](https://archive.org/details/lilo-stitch-3?t=80) | Sentado solo en la esquina de una foto de familia ajena, fuera del marco | **Colarse**, el gag del canal |
+| Stitch | película, [38:00](https://archive.org/details/lilo-stitch-2002_202609?t=2280) | A oscuras, construye una maqueta de ciudad | **Pensar**, crear |
+| Stitch | película, [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327) | Sentado de noche con el libro, orejas caídas, mano en la barbilla | Emoción; confirma la fila 00:55:31 de arriba |
+| Stitch | tráiler 2025, [1:44](https://www.dailymotion.com/video/x9fzrlk?start=104) | Sobre la tabla, cuerpo bajo, orejas atrás por el viento | **Celebrar**, acción (sólo 2025) |
+| Nani | luau, [0:48](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=48)-1:00 | De pie, bandeja en una mano, sirviendo; vestido verde jade de tirantes, flor en el pelo | **Presentar**, servir |
+| Nani | tráiler 2002, [2:12](https://archive.org/details/LiloStitchTrailer?t=132) | Entra corriendo, boca y ojos muy abiertos, un brazo hacia Stitch | **Regañar**, sorpresa |
+| Nani | película, [20:50](https://archive.org/details/lilo-stitch-2002_202609?t=1250) | Arrastra a Lilo del brazo hacia casa | **Regañar** (confirma 00:21:19) |
+| Jumba y Pleakley | película, [28:37](https://archive.org/details/lilo-stitch-2002_202609?t=1717) | Agachados entre arbustos, ojos muy abiertos | Espiar, miedo cómico |
+| Jumba y Pleakley | película, [38:40](https://archive.org/details/lilo-stitch-2002_202609?t=2320) | Ríen con los brazos arriba, de noche, con aparatos | **Celebrar** |
+| Pleakley | película, [39:00](https://archive.org/details/lilo-stitch-2002_202609?t=2340) | De perfil, sonrisa traviesa, lleno de mosquitos | Naturaleza, humor (confirma 00:38:44) |
+
+- **Cuál para qué**: presentar → Lilo con Scrump (14:35) o Nani con la
+  bandeja; explicar → Lilo y Stitch con el libro en el luau; celebrar →
+  el tocadiscos (2:06) o Jumba y Pleakley (38:40); regañar → Nani (2:12
+  o 20:50); pensar → Stitch con la maqueta (38:00); animar → Lilo sonriendo
+  a Stitch (36:56).
+- **Faltan en vídeo** ⚠️: la lista de Elvis (00:42), el ukelele (00:43)
+  y el Stitch-Elvis (00:44): no se encontraron clips; siguen de memoria.
+
 ---
 
 ## 16 · Vestuario
@@ -1162,6 +1412,36 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
 | **Cobra Bubbles** | Traje negro, gafas negras, pendiente ⚠️ | — | ⚠️ |
 | **David** | Bañador y camisa suelta ⚠️; bailarín de fuego en el luau ⚠️ | — | ⚠️ |
 
+### 16.1 Colores medidos y ropa vista (Nuevo, 2.ª pasada)
+
+La parte de imagen midió con Pillow (`getpixel`, puntos concretos) en
+imágenes oficiales que **miró**; la de vídeo describió la ropa vista en
+los fotogramas.
+
+| Personaje y prenda | Hex medido | De dónde | Estado |
+|---|---|---|---|
+| Stitch, pelaje (sombra → luz) | `#003D63` → `#167DB1` | key visual «promo art 2», 3523×5000 (luz de atardecer, pintado con degradado) | ✅ la familia de azul; el tono **plano** del cel sigue sin medir ⚠️ |
+| Stitch, pecho claro | `#B4FEF1` | traje de Disney on Ice («DOI - Jumba, Stitch & Pleakley.jpg», 3607×2400) | ⚠️ una fuente, luz de espectáculo |
+| Stitch, traje espacial rojo | estrella o triángulo del pecho `#F9E03E`; el rojo sale granate `#680004` con luz de escenario; cinturón negro con ribete dorado | Disney on Ice | ⚠️ para pintar, un rojo saturado entre `#CC1F1F` y `#E4241F` (**sin medir**, sólo orientación): comprobar en un fotograma |
+| Lilo, falda de hula (hojas de ti) | `#559B73` claro · `#146243` pliegues | key visual | ✅ |
+| Lilo, pelo | `#030308`, casi negro puro | key visual | ✅ |
+| Lilo, traje de baño | franjas diagonales `#7A1030` rojo y `#8F5030` naranja | fotograma limpio «Nani, Lilo, and Stitch enjoying a big wave», 3000×1782 | ✅ otra variante, no el muumuu |
+| Nani, traje de baño | franjas diagonales `#1B2C52` azul marino y `#4F7350` verde, sobre agua turquesa | mismo fotograma | ✅ otra variante, no el top coral |
+| Nani, uniforme del luau | vestido **verde jade de tirantes** y flor en el pelo (sin hex) | [clip del luau, 0:48](https://archive.org/details/lilo-stitch-luau-nani-loses-her-job-hd-1080p?t=48) | ✅ visto |
+| Pleakley, su cuerpo real (sin disfraz) | amarillo `#F8FD3E` a `#EF870E` según la luz; uniforme azul con hombrera naranja | Disney on Ice | ✅ es su traje de alienígena de un ojo, canon, distinto del disfraz de mujer |
+| Jumba | camisa **amarilla con estampado rojo** (sin hex) | vista en hoja 2, n.º 53 y 90-91 (*Stitch! The Movie*) y hoja 3, n.º 539 (personaje de parque) | ⚠️ sin medir; de la secuela y del parque, no de 2002 |
+| Cobra Bubbles | traje negro y gafas negras (sin hex) | visto en hoja 2, n.º 88 (*Stitch! The Movie*) | ⚠️ sin medir |
+| David | — | — | ⚠️ sin imagen limpia |
+
+- **Nota de método** (parte de imagen): key visual y Disney on Ice no
+  son un fotograma plano. Para hex 100 % fieles al cel, sacar un
+  fotograma de la película con `fotogramas.py` y medir ahí. Queda como
+  pendiente menor: ya hay dos fuentes de color por prenda en Stitch,
+  Lilo y Nani.
+- **El vestuario cambia por escena** ✅: Lilo lleva muumuu rojo, traje de
+  hula y bañador de franjas; Nani, top coral, uniforme verde del luau y
+  bañador de franjas.
+
 ---
 
 ## 17 · Paisajes y fondos de pantalla
@@ -1170,9 +1450,46 @@ YouTube no abría: **no vi ninguno**. Los minutos de las escenas los doy
 - **Kauai real** para fotos de fondo (hay que buscarlas con licencia
   libre): **Hanapepe** y su puente colgante; **Nā Pali** y **Kalalau**;
   **Hanalei** ✅ que existen (§5.1).
-- **Fondos de pantalla oficiales en alta: no encontré ninguno** con
-  tamaño y fuente ⚠️.
+- ~~Fondos de pantalla oficiales en alta: no encontré ninguno~~ →
+  **corregido en la 2.ª pasada**: sí hay; la red cerrada no dejaba
+  verlos.
 - Fan art: §4.3.
+
+### 17.1 Fondos oficiales (Nuevo, 2.ª pasada) ✅
+
+Tamaño real medido por la API `imageinfo` de la wiki de Disney.
+
+| Fondo | Tamaño | Qué es |
+|---|---|---|
+| [Stitch! The Movie promo wallpaper](https://static.wikia.nocookie.net/disney/images/6/66/Stitch%21_The_Movie_promo_wallpaper.jpg) | **3000×1535** | promocional oficial de *Stitch! The Movie* (2003); hoja 1, n.º 24 |
+| [Stitch experiments wallpaper](https://static.wikia.nocookie.net/disney/images/6/66/Stitch_experiments_wallpaper.jpg) | **1575×1093** | todos los experimentos como papel pintado |
+| [Motto! Stitch! DS](https://static.wikia.nocookie.net/disney/images/5/54/Motto%21_Stitch%21_DS_wallpaper.jpg) | 1280×1024 | web japonesa de Disney, juego de DS |
+| [Stitch! DS - Ohana to Rhythm de Daibouken](https://static.wikia.nocookie.net/disney/images/8/87/Stitch%21_DS_-_Ohana_to_Rhythm_de_Daibouken_wallpaper.jpg) | 1280×1024 | juego de ritmo de DS |
+| [Stitch! Good Deed Counter](https://static.wikia.nocookie.net/disney/images/d/da/Stitch%21_Good_Deed_Counter_wallpaper.jpg) | 1280×1024 | anime *Stitch!* |
+| [Stitch and Angel in kimonos](https://static.wikia.nocookie.net/disney/images/8/86/Stitch_and_Angel_in_kimonos_wallpaper.jpg) | 1280×1024 | Stitch y Angel en kimono |
+| [Stitch painted Japanese](https://static.wikia.nocookie.net/disney/images/4/45/Stitch_painted_Japanese_wallpaper.jpg) | 1280×1024 | pincelada de pintura japonesa |
+| [Tenugui Stitch](https://static.wikia.nocookie.net/disney/images/a/a6/Tenugui_Stitch_wallpaper.jpg) | 1280×1024 | motivo de *tenugui* (toalla japonesa estampada) |
+
+Los seis japoneses (2008-2015) enseñan un **estilo pictórico japonés**
+(kimono, *tenugui*, pincel) que no estaba en la biblia.
+
+### 17.2 Fondos de fans en alta (Wallhaven, con autor) ✅
+
+Tamaño y autor que da Wallhaven (juntados por `recolectar.py`). Sólo
+referencia: el © es de sus autores y de Disney.
+
+| Fondo | Tamaño | Autor u origen |
+|---|---|---|
+| [playa con Stitch](https://w.wallhaven.cc/full/we/wallhaven-wez757.jpg) | 5120×2880 | subido por AronDark, sin origen |
+| [Stitch 3D, serie de 5](https://w.wallhaven.cc/full/gp/wallhaven-gpolge.jpg) ([2](https://w.wallhaven.cc/full/vq/wallhaven-vqwrl3.jpg), [3](https://w.wallhaven.cc/full/yx/wallhaven-yxyrod.jpg), [4](https://w.wallhaven.cc/full/5g/wallhaven-5g28o8.jpg), [5](https://w.wallhaven.cc/full/l8/wallhaven-l857pp.jpg)) | 3840×2160 | **Juan Hernández**, [ArtStation](https://www.artstation.com/artwork/4NP6o4) |
+| [interior, cuarto](https://w.wallhaven.cc/full/yq/wallhaven-yq8grx.jpg) · [mujer en el cuarto](https://w.wallhaven.cc/full/5y/wallhaven-5y7k87.jpg) | 3840×1655 | **Mauger Baptiste**, [ArtStation](https://www.artstation.com/maugerbaptiste3) |
+| [Stitch y Loki](https://w.wallhaven.cc/full/e8/wallhaven-e8zwzl.jpg) | 1920×1799 | **Ognjen Sporin**, [ArtStation](https://www.artstation.com/artwork/RyJZze) |
+| [Stitch y Desdentao](https://w.wallhaven.cc/full/4y/wallhaven-4ypleg.jpg) | 1920×1080 | **tsaoshin**, [DeviantArt](https://www.deviantart.com/tsaoshin/art/Stitch-and-Toothless-453739840) |
+| [pixel art azul](https://w.wallhaven.cc/full/gj/wallhaven-gjy6j7.png) · [pixel art 2](https://w.wallhaven.cc/full/yj/wallhaven-yj9mkl.png) | 1920×1080 | AceAtomz · teddyklad, sin origen |
+
+- **Kauai real con licencia libre**: la parte de imagen pidió fotos de
+  Hanapepe a Wikimedia Commons y dio **429**; no se insistió ⚠️. Las
+  fotos de Flickr que sí hay son de parques (Punto 23).
 
 ---
 
@@ -1200,7 +1517,7 @@ Fondos **en acuarela de verdad**, con bordes de agua y papel que se ve ✅.
 - **Las manos como patas** de animal, con peso.
 - El torso con **tripa hacia arriba**, como una bolsa, sin parecer gordo.
 
-### 18.3 Rasgos que nunca cambian ⚠️ (de memoria, mirar hojas de modelo)
+### 18.3 Rasgos que nunca cambian (1.ª pasada de memoria; 2.ª pasada vistos, §18.7)
 
 - **Stitch**: azul lavanda; orejas enormes, rosas por dentro, con
   muescas; ojos negros grandes; nariz ancha azul marino; boca de lado a
@@ -1245,11 +1562,203 @@ Fondos **en acuarela de verdad**, con bordes de agua y papel que se ve ✅.
 | Pose de Lilo con cámara | fotograma 00:22:54 a 00:22:57 |
 | Pose de Stitch | fotogramas de §15; modelos 3D de §4.2 para girar |
 
+### 18.7 IA de imagen, puesta al día (Nuevo, 2.ª pasada)
+
+**Correcciones a lo de arriba**, con lo que ya se ha visto y medido:
+
+- **Rasgos fijos, ahora vistos** en las hojas y fotogramas: Stitch azul
+  con **orejas que dicen la emoción** (arriba, alerta o contento;
+  caídas, triste, [55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327));
+  Lilo con pelo casi negro `#030308` y cabeza grande y redonda; Nani con
+  su top coral o el vestido verde jade del luau; Pleakley de un ojo y
+  antena, verde lima amarillento (hoja 2, n.º 84-87); Jumba **morado**
+  (hoja 2, n.º 90-91). Cuántos ojos tiene Jumba: sin contar ⚠️.
+- **Paleta**: usa la **medida** (§5.4b y §16.1), no la propuesta de §5.4.
+  Noche de interior morada y roja (`#432626`, `#62414D`, `#6A1B1B`), no
+  azul; luau cálido de fuego (`#8D4232`, `#813B2D`).
+- **Línea y sombreado** (entrevistas del Punto 18): personaje **plano por
+  dentro**, línea de tinta con temblor, formas «chubbed up» (infladas),
+  sin esquinas ni rectas; **toda la textura en el fondo**. **Nunca blanco
+  puro**: la luz es el papel crema.
+- **Luz**: cálida de lámpara o antorcha dentro; atardecer dorado fuera;
+  luna azul para lo triste. Detrás del personaje, una fuente de luz
+  cálida (antorchas del luau) para que no quede plano.
+- **Encuadre**: decidido como en *storyboard*: miniatura primero, cámara
+  baja a la altura de Lilo.
+
+**Plantilla de *prompt*** (para fondos y objetos; los personajes, de
+arte oficial o fotograma):
+`hand-painted watercolor background, 2002 Disney hand-drawn animation,
+soft rounded shapes, no white paint, paper grain, coarse salt texture on
+lava rocks, wooden plantation house in Kauai at golden hour, a photo
+album and a film camera on a table, photo prints with white borders
+taped at angles, warm lamp light, low camera`.
+
+**Palabras que ayudan, nuevas**: `watercolor granulation`, `paper
+white as light`, `chubby rounded silhouettes`, `weighted to the ground`,
+`taped snapshots on blue background` (el *collage* de los créditos),
+`tiki torches warm light`, `droopy ears`, `lopsided smile`,
+`bared teeth`.
+**Estropean, nuevas**: `sharp angles`, `vector clean lines`,
+`white highlights`, `glossy fur` (eso es el Stitch de 2025),
+`kawaii sparkles`, `sweat drop`, `chibi`.
+
+**Vocabulario de gestos** (no es anime: no hay gotas de sudor, ni fondos
+de emoción, ni *chibi* en la película; si la IA los pone, está mal):
+
+| Emoción | Cómo se ve en esta película | Imagen de referencia |
+|---|---|---|
+| Alegría | boca muy abierta, carcajada, cuerpo echado atrás | [cohete, 31:44](https://archive.org/details/lilo-stitch-2002_202609?t=1904) |
+| Cariño | sonrisa de lado, ceño relajado | [Lilo, 36:56](https://archive.org/details/lilo-stitch-2002_202609?t=2216) |
+| Rabia | dientes enseñados, ojos entornados, gruñido | [Stitch, 2:25](https://archive.org/details/lilo-stitch-2002_202609?t=145) |
+| Tristeza | orejas caídas, mano en la barbilla, mirada baja | [Stitch, 55:27](https://archive.org/details/lilo-stitch-2002_202609?t=3327) |
+| Vergüenza | sonrisa torcida, un ojo entornado | [Lilo, 14:35](https://archive.org/details/lilo-stitch-2002_202609?t=875) |
+| Miedo | ojos como platos, boca apretada, agachado | [Jumba y Pleakley, 28:37](https://archive.org/details/lilo-stitch-2002_202609?t=1717) |
+
+**Referencias de estilo y de pose** (las mejores de `referencias.json`):
+luz y color → key visual «promo art 2» (3523×5000); proporciones →
+hoja de modelo de Pleakley (2048×1319) y arte de desarrollo de Stitch
+(3338×2160); poses de Lilo → «LiloHulaAD» y «LiloStudyAD»; color plano
+→ el fotograma «big wave» (3000×1782); el álbum → créditos a
+[1:20](https://archive.org/details/lilo-stitch-3?t=80); caras → §8.2.
+
+### 18.8 IA de texto: cómo escribir en su voz (Nuevo, 2.ª pasada)
+
+**Reglas por personaje** (de los subtítulos con minuto de §7.2 y del
+doblaje de §10):
+
+- **Lilo**: frases cortas y **muy serias**, con lógica propia; explica
+  con **listas numeradas** («Número uno…»); lo que ama lo **susurra**
+  (puntos suspensivos); se enfada con un insulto de niña y un portazo.
+  Nada de diminutivos cursis.
+- **Stitch**: **una a tres palabras**, sin artículos ni verbos («My name
+  Stitch»); ríe a carcajadas de loco; gruñe; de vez en cuando su idioma
+  («¡Meega, nala kweesta!»). En latino de 2002 sólo dice frases cortas
+  en español («Hola», «Así me gusta», «Tierno y esponjoso») ⚠️ una fuente.
+- **Nani**: órdenes secas con exclamación («Go to your room!»); cuando se
+  ablanda, **voz baja y preguntas** («We're a broken family, aren't
+  we?»). Sarcasmo cuando está cansada.
+- **Jumba**: fino y teatral, **sin artículos**, orgulloso («prefiero que
+  me llamen genio malvado»).
+- **Pleakley**: pedante y chillón, **dato de «experto en la Tierra»** y
+  pánico por nada; se maravilla con cualquier bicho.
+
+**Frases reales por emoción** (inglés con minuto de la película; las
+latinas documentadas, marcadas):
+
+| Emoción | Frases |
+|---|---|
+| **Alegre** | Lilo: «A falling star!» (00:23:10) · Stitch: «I like fluffy!» (01:00:46) · Pleakley, de un mosquito: «She's so beautiful» (00:38:48) |
+| **Enfadado** | Lilo: «Stupidhead!» (00:15:17) · Nani: «Go to your room!» (00:21:19) · Stitch: «Meega, nala kweesta!» (00:02:23) |
+| **Explicando** | Lilo: «Elvis Presley was a model citizen. I've compiled a list of his traits for you to practice. Number one is dancing.» (00:42:30-00:42:36) · «Hold it like this, and put your fingers here.» (00:43:15) · Pleakley: «Earth is a protected wildlife reserve» (00:07:23) |
+| **Animando** | Lilo: «It's all you! Knock 'em dead!» (00:44:24) · David: «There's no better cure for a sour face than a couple of boards and some choice waves» (00:45:52) · Nani: «Sometimes you try your hardest but things don't work out the way you want them to…» (00:58:54) |
+| **Triste** | Stitch: «Lost.» «I'm lost.» (00:55:31, 00:55:41) · Lilo: «I remember everyone that leaves.» (00:54:57) · Nani: «We're a broken family, aren't we?» (00:21:46) |
+| **Familia (latino ✅)** | «Ohana significa familia, y tu familia nunca te abandona ni te olvida» · Stitch: «Esta es mi familia, la encontré, estaba aquí. Es chiquita y rota, pero es buena» (§10.3) |
+
+- **Vocabulario del mundo** para que suene a la serie: *ohana*,
+  *kuleana* (responsabilidad), *mālama ʻāina* (cuidar la tierra), «626»,
+  «primos» (los otros experimentos), «Federación Galáctica», «Gran
+  Concejal», «Pato el pez» (así se llama Pudge en latino).
+- **Puntuación**: ¡! en las órdenes de Nani y en los gritos de Pleakley;
+  «…» en los susurros de Lilo; Stitch sin puntuación compleja.
+- **No inventar** frases latinas: sólo las dos con ✅ son textuales del
+  doblaje. «¡Mi cámara está llena otra vez!» es una **adaptación** ⚠️.
+
 ---
 
 ## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo (2.ª pasada)
 
-_(pendiente)_
+No existía en la 1.ª pasada. Sale de la parte de texto, con entrevistas
+de producción.
+
+### Cómo se hizo de verdad
+
+- **Fondos en acuarela, no gouache**: la primera de Disney desde *Dumbo*;
+  *La Sirenita*, *Aladdín*, *El Rey León* y *La Bella y la Bestia* se
+  pintaron en gouache opaco ✅ ([AV Club](https://www.avclub.com/read-this-lilo-stitch-disney-watercolor-animation-1849681724),
+  [Animation Obsessive](https://animationobsessive.substack.com/p/the-shape-and-color-of-lilo-and-stitch)).
+- El director de arte **Ric Sluiter** propuso la acuarela; tuvieron que
+  redescubrirla (los pigmentos y papeles de los 40 ya no existían): **7
+  meses de talleres**, pintando al aire libre casi a diario. Sólo **Peter
+  Moehrle**, de 8-9 fondistas, sabía acuarela, y enseñó al resto ✅ (AV
+  Club).
+- **Maurice Noble**, veterano de los 40-50, les dio el truco de la **sal
+  marina gruesa** sobre la pintura húmeda para las rocas de lava ✅ (AV
+  Club, Animation Obsessive).
+- **David Wang** mezclaba el pigmento con **mucha agua en un platito
+  aparte**: el pigmento grueso se posa en el papel y da grano ✅
+  (Animation Obsessive).
+- **Cita de Sluiter**: «*We didn't use any white paint, which tends to
+  kill a color, and instead we allowed the white of the paper to act as
+  a light*» ✅ (Animation Obsessive). Nada de blanco: la luz es el papel.
+- **Personajes**, otra vez Sluiter: «*soft, rounded shapes, suggestive
+  of little loaves of home-baked bread… chubbed up*»; **Byron Howard**:
+  «*no hard edges, no straight lines*»; **Sue Nichols**: cada pose es
+  **una sola forma**, «*weighted to the earth*»; **Paul Felix**: «*mood
+  and basic shapes*», sin texturas ni luces complicadas en el personaje
+  ✅ (Animation Obsessive).
+- Estudio de **Disney en Orlando (Florida)**, unos **350** animadores y
+  fondistas, entre ellos **William Silvers** y **Barry Kooser** ✅ (AV
+  Club, [Wikipedia, William Silvers](https://en.wikipedia.org/wiki/William_Silvers)).
+- ***Storyboard*** con luz y encuadre ya decididos, que pasaban «casi
+  exactamente» a pantalla; **Dean DeBlois**: «*composition and lighting
+  are vital in storytelling*» ✅ ([AWN, Revisited Part I](https://www.awn.com/animationworld/lilo-stitch-revisited-part-i)).
+- Tras el **11-S** se cambió el final: rascacielos → **cañones de
+  montaña**, avión 747 → **nave espacial** ✅ (AWN).
+- Chris Sanders miraba revistas de fauna, **nutrias marinas**, para los
+  gestos de Stitch ✅ ([AWN](https://www.awn.com/animationworld/lilo-toothless-and-totoro-too)).
+- **No encontrado** ⚠️: el nombre del programa de tinta y color digital
+  (CAPS se estaba dejando); las fuentes sólo dicen «coloreado
+  digitalmente».
+
+### Cómo replicarlo en Photoshop
+
+1. **Nunca pintes blanco puro como luz**: capa de papel crema (no
+   `#FFFFFF`) y máscaras para **revelar** el papel.
+2. Pinceles de acuarela con **bordes húmedos** (los de Kyle T. Webster
+   que trae Photoshop) para el pigmento acumulado en el borde.
+3. **El truco de la sal**: pincel granulado, o textura CC0 de roca de
+   [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=rock)
+   en Multiplicar, sólo en rocas y lava.
+4. **Grano de papel** bajo la línea, en Multiplicar o Superponer suave.
+5. **Línea de tinta con temblor**, nunca vectorial; siluetas redondas e
+   infladas, sin ángulos rectos.
+6. **Personaje plano por dentro**; el detalle, en el fondo (regla de
+   Paul Felix). Es lo que evita que parezca «hecho por IA».
+7. **Grano final** muy suave y 1-2 px de aberración cromática, para el
+   aire de copia de cine de 2002.
+8. **Recortes** de personajes: siempre por `v3/integrar.py` (regla 3 del
+   dueño).
+
+### Cómo replicarlo en Blender
+
+1. **Contorno**: Freestyle sobre formas redondas, o Solidify con normales
+   invertidas; grosor bastante uniforme y algo suave.
+2. **Sombreado**: *Shader to RGB* → *ColorRamp* de 2-3 escalones, sin
+   especular.
+3. **El fondo lleva la textura**: imágenes pintadas en acuarela como
+   textura del *set*; para la lava, *bump* con ruido Voronoi grueso
+   imitando la sal.
+4. **Rigs libres** (CC Attribution por API): Stitch 626 de werasik2aa1,
+   Stitch KH3 de guinavarro.al, Pleakley de ArbitraryCanary (260 220
+   caras: cuidado con el PC, regla 9) y Nani de werasik2aa1 (§4.2). **No
+   hay rig libre de Lilo ni de Jumba** ⚠️.
+5. **Objetos** (CC BY por API): álbum de mnaglak, corcho de rickmaolly,
+   Canon AE-1 de Marc Sawyer (§4.1).
+6. **Tutoriales** genéricos del método: [cel shader, TipTut](https://www.youtube.com/watch?v=rHeMWkfMpME),
+   [Grease Pencil, Kevandram](https://www.classcentral.com/course/youtube-blender-grease-pencil-beginner-tutorial-2d-3d-toon-shaded-scene-part-2-2-133917).
+
+### Encuadres y composición
+
+- **Todo se decide en miniatura** antes de pintar: dónde va el
+  personaje, el texto y la luz (así trabajaba el equipo de DeBlois).
+- **Personaje limpio y plano, fondo con toda la textura**: si Lilo o
+  Stitch van delante de un fondo con detalle, el personaje se queda
+  simple para no competir.
+- Cómo se enmarca cada emoción, en lo visto: **tristeza** en plano
+  cerrado, luz de luna y silencio (55:27); **alegría** en plano medio con
+  los dos personajes juntos (31:44); **susto** en plano general, con el
+  personaje entrando por un lado (tráiler, 2:12).
 
 ---
 
