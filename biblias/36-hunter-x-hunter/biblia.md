@@ -823,3 +823,314 @@ por fuente; el color general lo confirma la wiki ✅).
 - ⚠️ **No encontré** fondos oficiales descargables: la web oficial
   (hunterxhunter.co.jp) no respondió.
 
+## 18 · Guía para generar con IA: imagen y texto
+
+Para Firefly, Canva u otra IA. **Siempre con una imagen de referencia**, no
+sólo con palabras. Se usa el **anime 2011** (Madhouse) salvo que la lámina
+sea de Cazador X.
+
+### 18.1 El estilo en una frase
+Anime de 2011, **sombra plana de 2 o 3 tonos** (cel), sin degradados suaves;
+**línea de grosor normal y nunca negra pura** (verde oscuro, gris violeta o
+marrón grisáceo según el personaje, medido con `estilo.py` en las hojas de
+modelo); **colores saturados**, no la paleta apagada de 1999 ✅
+(https://screenrant.com/hunter-x-hunters-color-schemes-different-explainer/).
+Luz según el sitio (§5): Isla Ballena `#6195D9` `#95A76E`; Arena Celestial
+`#FBFAF1` `#F9E982`; bosque de las Hormigas `#552723` `#A23C2F`.
+
+### 18.2 Rasgos que nunca cambian
+
+| Personaje | Rasgos fijos (wiki, «Appearance») | Hex (§16) | Referencia |
+|---|---|---|---|
+| **Gon** | pelo negro de punta **con las puntas verdes**; ojos grandes marrón avellana; chaqueta verde con bordes rojizos, camiseta de tirantes, pantalón corto y botas verdes con cordones; **caña de pescar** | `#3F8632` `#182717` piel `#FBCDA7` | personajes #17 · caña objetos #7 |
+| **Killua** | pelo **blanco** de punta; piel muy pálida; **ojos azules** (verdes sólo en 1999); jersey oscuro de cuello alto, ropa holgada; patineta **amarilla** en 2011 | `#706684` `#323161` pelo `#ECE4FB` | personajes #18 · patineta objetos #5 |
+| **Kurapika** | pelo rubio medio; ojos **grises** en 2011 que se vuelven **escarlata** con la rabia; tabardo azul con borde rojo sobre traje blanco; zapatos chinos de punta; **cadenas en la mano derecha** | `#282B57` `#D4B15B` | personajes #20, #22 (caras) · cadenas objetos #13 |
+| **Leorio** | alto y corpulento (193 cm); pelo negro rapado de punta; ojos pequeños; traje azul oscuro, zapatos negros, **gafas pequeñas tintadas**; maletín | `#03264F` piel `#FBD0AC` | personajes #19 |
+| **Hisoka** | alto y musculoso; **estrella en la mejilla derecha, lágrima en la izquierda**; ♦ ♣ ♥ ♠ en la ropa; **uñas largas y en punta**; pelo rojo en 2011 (azul en 1999); cartas | `#C83A57` | personajes #21 · [clip Kastro 0:37](https://www.dailymotion.com/video/x816bz2?t=37) |
+
+Alturas para dibujarlos juntos: Gon 154 cm, Killua 158, Kurapika 171,
+Hisoka 187, Leorio 193 (§21).
+
+### 18.3 Palabras que ayudan y palabras que lo estropean
+
+**Ayudan** (en inglés, que las IA entienden mejor):
+`Hunter x Hunter 2011 anime style, Madhouse, cel shading, two-tone hard shadows,
+clean colored lineart, saturated colors, flat background light`.
+Por personaje: Gon `spiky black hair with green tips, green jacket with red
+trim, fishing rod`; Killua `spiky white hair, blue eyes, dark turtleneck,
+yellow skateboard`; Kurapika `blond hair, blue tabard with red hem, white
+suit, chains on right hand, glowing scarlet eyes`; Leorio `tall, dark blue
+suit, small tinted glasses, briefcase`; Hisoka `jester, star on right cheek,
+teardrop on left cheek, playing cards, long pointed nails`.
+
+**Estropean**: `3D render`, `semi-realistic`, `soft gradient`, `painterly`,
+`chibi` (⚠️ las partes no documentan un *chibi* de la serie), `speech bubble`
+(§7: nada de burbuja blanca), `blue hair` para Hisoka (es 1999), `green
+eyes` para Killua (es 1999), `adult` o `muscular` para Gon (sólo vale para su
+forma de la ira, ep. 131). Tampoco nombres de otras series del mismo estilo
+(§25): la IA mezcla.
+
+**Negativo recomendado**: `3d, realistic, gradient shading, black outlines,
+watermark, text, speech bubble, extra fingers`.
+
+### 18.4 Qué imagen usar como referencia
+- **De estilo**: las hojas de modelo de *The Last Mission* (personajes
+  #17-#21) y las hojas a color de 2011 (§3.2).
+- **De pose**: §15 (38 poses, casi todas con minuto). Las mejores: Killua con el índice
+  levantado ([clip Uvogin 0:14](https://www.dailymotion.com/video/x816c25?t=14)),
+  Gon corriendo con la caña ([OP1 0:09](https://archive.org/download/hunter-x-hunter-2011-op-1-6-creditless_202505/Hunter%20x%20Hunter%20%282011%29%20NCOP%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=9)),
+  Kurapika de tres cuartos ([tráiler 0:53](https://www.dailymotion.com/video/x8hzbhf?t=53)),
+  Hisoka sonriendo de lado ([clip Kastro 1:33](https://www.dailymotion.com/video/x816bz2?t=93)).
+- **De grupo**: los cuatro en fila ([ED1 1:18](https://archive.org/download/HUNTER-x-HUNTER-2011-ed-1-6-creditless/Hunter%20x%20Hunter%20%282011%29%20NCED%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=78)) y el visual de Zoff (personajes #6).
+- **De fondo**: fondos #2 (Yorknew, 3840×2160), #5 (Isla Ballena), #14 (mapa).
+
+**Ejemplo de encargo a la IA** (Killua explicando):
+`Killua Zoldyck from Hunter x Hunter (2011 anime), half body, three-quarter
+view, raising his index finger as if explaining, slight smirk, inside a
+dark stone tunnel with small red lamps, cel shading with two hard tones,
+dark gray-violet lineart, colors #706684 #323161 #ECE4FB, background
+slightly out of focus`. Referencia de pose: clip Uvogin 0:14; de estilo:
+personajes #18.
+
+### 18.5 Vocabulario de expresiones de la serie (para la IA de imagen)
+- **Ojos escarlata** (Kurapika): iris rojo que brilla; sólo con rabia.
+  [Tráiler 1:04](https://www.dailymotion.com/video/x8hzbhf?t=64); en el
+  [OP1 0:29](https://archive.org/download/hunter-x-hunter-2011-op-1-6-creditless_202505/Hunter%20x%20Hunter%20%282011%29%20NCOP%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=29)
+  pasa a rojo un segundo (visto por el redactor) ✅.
+- **Ojos afilados** de Killua en «modo asesino» ✅ (wiki). **Orejas y bigotes
+  de gato** cuando hace una travesura (gag) ✅.
+- **Aura**: halo de color alrededor del cuerpo. Roja y naranja en la ira de
+  Gon ([clip ep. 131, 0:21](https://www.dailymotion.com/video/x4jib2p?t=21));
+  verde en la mano de Hisoka ([clip Kastro 1:04](https://www.dailymotion.com/video/x816bz2?t=64)).
+- **Kanji de técnica** 「変」 grande sobre negro ([clip Uvogin 2:51](https://www.dailymotion.com/video/x816c25?t=171)).
+- **Sudor**: gotas reales sobre la cara (Leorio en el [tráiler 0:49](https://www.dailymotion.com/video/x8hzbhf?t=49), visto) ✅.
+  ⚠️ La gota cómica gigante no sale en lo mirado: no pedirla.
+- **Fondos de emoción**: cristales de colores (verde para Gon, morado para
+  Killua, [ED1 0:12](https://archive.org/download/HUNTER-x-HUNTER-2011-ed-1-6-creditless/Hunter%20x%20Hunter%20%282011%29%20NCED%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=12));
+  franjas rosa y morado con **alfabeto Hunter** (OP1 0:28-0:30); vacío
+  blanco (OP1 1:12).
+- **Gon adulto** («Gon-san»): pelo largo, cuerpo de hombre. Sólo para la ira
+  del ep. 131 ([0:11](https://www.dailymotion.com/video/x4jib2p?t=11)).
+
+### 18.6 Para una IA de texto: cómo hablan
+
+| Quién | Cómo escribe sus líneas |
+|---|---|
+| **Gon** | frases cortas, directas, sin ironía; pide sin rodeos; grita el nombre de su técnica: «¡Piedra… Papel… Tijera!» (Jajanken) |
+| **Killua** | irónico y seco; se queja y ayuda igual; con Gon, cariño escondido |
+| **Kurapika** | formal, casi de adulto; párrafos calmados; gritos cortos sólo cuando pierde el control |
+| **Leorio** | grita, exagera; pero sus discursos serios son los más largos del grupo |
+| **Hisoka** | burlón, siempre sonriendo, alarga las vocales; en el manga pone ❤ y ♠. En latino 2011 habla con acento francés (en texto, no escribir faltas: basta un tono lento y cortés) |
+| **Chrollo** | párrafos de filósofo; nunca grita |
+
+**Recursos de la serie**: el signo **«×»** entre palabras en los títulos
+(«Departure × And × Friends»); los nombres de técnica se anuncian en voz alta;
+lo que piensan lo cuenta **un narrador** (franja aparte, §7). ⚠️ No sé cómo
+tradujo el doblaje latino los títulos con «×»: se propone «Palabra × Y ×
+Palabra».
+
+**Frases reales, por emoción.** Las marcadas «latino» son textuales del
+doblaje (Cazador X, §10.3). Las demás salen de subtítulos en inglés o del
+audio japonés con Whisper; la traducción es del redactor: sirven para el
+**tono**, no para citarlas como doblaje.
+
+| Emoción | Frase | Quién | Fuente y minuto |
+|---|---|---|---|
+| Alegre, confiado | «Dependo de ti, Killua.» (latino) | Gon | [Cazador X 1:20](https://www.dailymotion.com/video/xcg420?t=80) ✅ |
+| Alegre, agradecido | «Si no fuera por Killua y por todos, no estaría aquí.» (でもキルアが、みんながいなかったら、俺はここにいなかった) | Gon | [ep. 147, 13:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=780) ⚠️ |
+| Enfadado, seco | «Suena muy egoísta.» (latino) | Killua | [Cazador X 1:20](https://www.dailymotion.com/video/xcg420?t=80) ✅ |
+| Enfadado, roto | «¿Cómo puedes hacer esto sin sentir ni pensar nada? ¡Respóndeme!» («How can you do these things, yet feel and think nothing at all? Answer me!») | Kurapika | [clip Uvogin 3:59](https://www.dailymotion.com/video/x816c25?t=239) ✅ |
+| Exigiendo | «Dime todo lo que sabes.» («Tell me everything you know») | Kurapika | [clip Uvogin 3:09](https://www.dailymotion.com/video/x816c25?t=189) ✅ |
+| Explicando | «Hay que estar loco para robarle a la Mafia.» («they must be nuts to steal from the Mafia») | Killua | [clip Uvogin 0:14](https://www.dailymotion.com/video/x816c25?t=14) ✅ |
+| Explicando, frío | «El arte de adivinar es para el bienestar de las personas que están vivas.» (latino) | Chrollo | [Cazador X 5:24](https://www.dailymotion.com/video/xcg420?t=324) ✅ |
+| Presentándose | «Bueno, la verdad es que mis amigos me llaman líder.» (latino) | Chrollo | [Cazador X 3:50](https://www.dailymotion.com/video/xcg420?t=230) ✅ |
+| Humor negro | «Si quieren que me encargue de asesinar a alguien, llámenme. Les daré el 30% de descuento.» (latino) | Silva | [Cazador X 2:10](https://www.dailymotion.com/video/xcg420?t=130) ✅ |
+| Retando | «Adelante, tómalo.» («Go ahead and take it.») | Hisoka | [clip Kastro 1:16](https://www.dailymotion.com/video/x816bz2?t=76) ✅ |
+| Animando | «Ya somos compañeros.» (俺たちはもう仲間だ) | Kite | [ep. 147, 14:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=840) ⚠️ |
+| Prometiendo | «La próxima vez te protejo yo, Kite.» (次は俺がカイトを守るよ) | Gon | [ep. 147, 12:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=720) ⚠️ |
+| Triste | «No pude pelear contigo. Me faltó fuerza.» (一緒に戦えなかった。力が足りなかった) | Gon | ep. 147, 12:00 ⚠️ |
+| Triste, suplicando | «Devuelve a Kite como era. Por favor.» (カイトを元に戻してよ。お願いだよ) | Gon | [ep. 131, 1:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=60) ⚠️ |
+| Frío, amenaza | «Gon, lo siento, pero tengo que matarte. Por el Rey.» | Pitou | [ep. 131, 5:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=300) ⚠️ |
+
+**Vocabulario que la IA de texto debe usar** (§26): Cazador, Examen Hunter,
+Licencia, Nen, aura, Ten, Zetsu, Ren, Hatsu, Restricción y Voto, Jenny,
+Zodiacos, Continente Oscuro, Greed Island, Jajanken. En latino 2011:
+**«Brigada Fantasma»** (no «Genei Ryodan»), **«Yorknew»** (no «Yorkshin»),
+**«Melody»** (Senritsu) ✅ (Doblaje Wiki).
+
+**Qué no escribir**: Hisoka de payaso gracioso; Gon con ironía; Kurapika
+gritando por nada; mezclar el tono luminoso del Examen con el del arco de
+las Hormigas.
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### 19.1 Cómo lo hacen
+- **Togashi piensa en blanco y negro**: el manga semanal se imprime así. El
+  color, sólo en portadas, y **sin reglas**: «I don't have any rules at all
+  when it comes to choosing colors» (*Jump Ryu* vol. 21, 2016) ✅
+  (https://screenrant.com/hunter-x-hunters-color-schemes-different-explainer/).
+  Por eso Hisoka cambia de pelo entre versiones.
+- **Herramientas**: tinta y **plumilla Kabura** (trazo grueso y parejo); el
+  color, con Mac ⚠️ (blog de fans que cita a Shonen Jump:
+  https://hunterxhunter.fandom.com/wiki/User_blog:MrGenial11/North_American_Shonen_Jump's_interview_with_Yoshihiro_Togashi).
+- **Influencia**: H. R. Giger (por *Alien*), en las Hormigas Quimera ⚠️ (misma fuente).
+- **Su espalda**: dibuja tumbado por un dolor crónico; de ahí las pausas y
+  algunos tramos con dibujo más simple ✅
+  (https://www.cbr.com/hunter-x-hunter-hiatuses-explained/ ,
+  https://comicbook.com/anime/news/hunter-x-hunter-manga-creator-health/).
+- **Documental japonés «Jump Ryuu!» (ジャンプ流!)**, 53 minutos con la voz
+  de Togashi explicando cómo crea un personaje ⚠️ no se pudo ver
+  (https://www.oricon.co.jp/news/2080773/full/).
+- **Anime 1999** (Nippon Animation, dir. Kazuhiro Furuhashi; personajes
+  Takayuki Gotou; arte Nobuto Sakamoto; color Mari Miyashita): paleta
+  **apagada**, tonos tierra, cercana a *Cowboy Bebop* ✅ (ScreenRant, AniList).
+- **Anime 2011** (Madhouse, dir. Hiroshi Kōjina; personajes Takahiro
+  Yoshimatsu): paleta **saturada**; casi todo a mano, poco CG; tramos en
+  **blanco y negro de alto contraste**; animadores clave Takahiko Abiru
+  (sombras y brillos), Hidehiko Sawada, Kazuto Nakazawa, Yoshihiro Kanno
+  ⚠️ (blog de análisis:
+  http://sakugadaichi.blogspot.com/2014/04/hunter-x-hunter-2011-animation-analysis.html).
+- **Medido en las hojas de modelo** (`estilo.py`): sombra **plana tipo cel**
+  en Gon, Killua y Leorio; **pintada con degradado** en la de Kurapika;
+  **mixta** en Hisoka; línea normal, **nunca negra pura** ✅ (visto).
+- El juego *Nen × Impact* (2025) copia ese *cel shading*: «matches the style
+  of the anime» ✅ (https://www.thegamer.com/hunter-x-hunter-nen-x-impact-review/).
+
+### 19.2 Cómo replicarlo en Photoshop
+1. **Línea** en su capa, en **color** (verde muy oscuro para Gon, gris violeta
+   para Killua), no negro. Más gruesa en la silueta, más fina dentro.
+2. **Color base plano** por zonas, con los hex de §16.
+3. **Una sombra** en capa *Multiplicar*, con **borde duro** (sin
+   difuminar). Una segunda, más oscura, sólo en los pliegues hondos.
+4. **Brillo** pequeño y duro en pelo y ojos.
+5. Para un recuerdo o un momento triste: **grano suave y viñeteado**
+   (se ve en el ep. 147) ⚠️ sin cifra medida.
+6. Recortes siempre por `v3/integrar.py` (regla 3 del dueño).
+
+### 19.3 Cómo replicarlo en Blender
+- **Material**: *Principled BSDF* → *Shader to RGB* → *ColorRamp* en modo
+  **Constant** con 2 o 3 escalones (luz, sombra, sombra dura).
+- **Contorno**: *Line Art* o *Freestyle* con grosor según la distancia, o
+  *Solidify* con normales invertidas y material oscuro; **2-3 px a 1080p**.
+  Color de línea del personaje, no negro.
+- **Luz**: tres puntos, **sombra dura**, sin oclusión suave marcada.
+- **Modelos libres** (§4.2): Hisoka y Kurapika en Sketchfab, **CC BY**,
+  con crédito exacto. ⚠️ No se comprobó si traen *rig*.
+- **Objetos para modelar** (fáciles): la placa del examen (disco), la
+  Licencia de Cazador (tarjeta), la carta de Greed Island, la caña de Gon,
+  la patineta y el yoyo de Killua (diseños en objetos #5-#7).
+
+### 19.4 Encuadres y composición
+- **Micro y macro**: primerísimo plano del ojo o la mano cuando se activa una
+  técnica, y luego plano general del aura ⚠️ (observación del equipo en los
+  ep. 131 y 147). Ejemplos: ojo de Kurapika
+  ([tráiler 1:04](https://www.dailymotion.com/video/x8hzbhf?t=64)) y el
+  bosque desde lejos ([clip ep. 131, 0:46](https://www.dailymotion.com/video/x4jib2p?t=46)).
+- **El viaje**: personajes de espaldas hacia una puerta de luz
+  ([tráiler 1:27](https://www.dailymotion.com/video/x8hzbhf?t=87)).
+- **Ficha**: retrato de frente sobre un fondo de cristales de color (ED1 0:12).
+- **Grupo**: los cuatro en fila de frente (ED1 1:18) o sentados en un tronco
+  (ED1 0:27).
+- **Impacto**: silencio y plano fijo tras el golpe (ep. 131, de 7:00 a 11:00
+  no hay diálogo transcrito) ⚠️.
+- **Rótulo**: texto blanco con serifa sobre un mapa viejo, a pantalla
+  completa ([tráiler 0:42](https://www.dailymotion.com/video/x8hzbhf?t=42)).
+
+## 20 · Texturas 2D
+
+| Capa | Qué es | Enlace | Licencia |
+|---|---|---|---|
+| Trama del manga | ⚠️ el manga impreso usa trama de puntos de Jump; la viñeta digital del cap. 2 (personajes #28) se ve **sin trama**, línea limpia. No se midió el % | personajes #28 | © (sólo mirar) |
+| Pinceles de trama | pinceles gratis de *halftone* | https://www.brusheezy.com/free/halftone ⚠️ | gratis; revisar cada uno |
+| Papel viejo | fondo del rótulo del tráiler (mapa marrón) | https://ambientcg.com/view?id=Paper001 | CC0 |
+| Tela de punto | jersey de Killua | https://ambientcg.com/view?id=Fabric061 | CC0 |
+| Cuero | maletín de Leorio, estuche de cartas | https://ambientcg.com/view?id=Leather037 | CC0 |
+| Tatuaje de la Araña | araña de 12 patas con número, en la piel (el falso de Hisoka, 1920×1080) | https://static.wikia.nocookie.net/hunterxhunter/images/5/5f/HxH2011_EP32_Hisoka%27s_fake_Spider_tattoo.png ✅ | © (referencia) |
+| Emblema de la Licencia | rombo rojo `#B4181E` sobre negro; panel en alfabeto Hunter (3840×2160) | objetos #1 · https://hunterxhunter.fandom.com/wiki/File:Hunter_License_card.PNG ✅ | © |
+| Licencia de Ging | roja, con «XX» sobre un triángulo | objetos #2 | © |
+| Hexágono del Nen | las 6 categorías (SVG limpio, 458×330) | https://static.wikia.nocookie.net/hunterxhunter/images/d/df/Nen_Types_Diagram.svg ✅ | © |
+| Alfabeto Hunter | tabla frente a los kana | objetos #32 | © (dibujarlo) |
+| Palos de la baraja | ♦ ♣ ♥ ♠ en la ropa de Hisoka | personajes #21 | — |
+| Mapa del mundo | 1908×1080 | https://static.wikia.nocookie.net/hunterxhunter/images/7/76/World_Map.png ✅ | © |
+
+- Roca, tierra quemada y suelo de madera: §5 (ambientCG, CC0).
+- ⚠️ **No encontré** metal para las cadenas de Kurapika ni una textura del
+  cristal de colores del ED1.
+
+## 21 · Gustos y detalles de cada personaje
+
+Del **databook oficial** (*Hunter's Guide: Character & World Official
+Databook*) citado página a página por la wiki, más AniList: altura, peso,
+cumpleaños y sangre en **dos fuentes** ✅ (https://anilist.co/character/30 ,
+https://hunterxhunter.fandom.com/wiki/Gon_Freecss).
+
+| | Altura · peso | Cumpleaños · sangre | Lo que le gusta | Lo que siempre lleva | Cómo se ve a sí mismo |
+|---|---|---|---|---|---|
+| **Gon** | 154 cm · 49 kg | 5 de mayo · B | **pescar**; los animales | la **caña telescópica** (también arma: golpeó a Hisoka con el flotador) | el hijo que busca a su padre |
+| **Killua** | 158 cm · 45 kg | 7 de julio · A | los dulces: **bolas de chocolate ChocoRobo-kun** (anime 1999, ep. 38) | patineta, yoyo | el que escapó de su familia; lo llaman «Kil» o «Killu» |
+| **Kurapika** | 171 cm · 59 kg | 4 de abril de 1982 · AB | — ⚠️ sin dato | las **cadenas**; dos pendientes (casi nunca se ven los dos en 2011) | el **último del clan Kurta**: su meta es recuperar los ojos robados |
+| **Leorio** | 193 cm · 85 kg | 3 de marzo (Hinamatsuri) · — | colonia **«Charsace»** (parodia de Versace, cap. 71) | el **maletín** | quiere ser médico para curar gratis |
+| **Hisoka** | 187 cm · 91 kg | 6 de junio · B | sus golosinas: su chicle **Bungee Gum** y la chuchería **Texture Surprise** dan nombre a sus técnicas | sus **cartas de póker** | busca rivales fuertes para «madurarlos» |
+
+**Secundarios queridos** (mismo databook vía wiki) ✅
+- **Chrollo**: 177 cm, 68 kg, AB. Le gustan los **libros antiguos**. Vende
+  lo que roba después de admirarlo una vez.
+- **Meruem**: nace adulto; vive 40 días. Su único gusto: jugar al **Gungi**
+  con Komugi (objetos #18).
+- **Netero**: más de 110 años. Le divierte dar misiones imposibles; hasta
+  los suyos lo llaman «retorcido».
+- **Illumi**: 185 cm, 68 kg, A. Cara sin expresión y voz alegre.
+
+**Detalles que sirven para una lámina** ✅ (wiki, Trivia)
+- Número de Licencia de Gon: **109824803287**, el único revelado en el manga.
+- Killua es el único de los cuatro con hermanos y el único que **suspendió**
+  un Examen de Cazador.
+- Leorio cumple el día en que empezó a publicarse el manga.
+- En el Examen: placa **405** Gon, **404** Kurapika, **99** Killua, **44**
+  Hisoka (§0, objetos #8).
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar o gritar
+
+### 22.1 Por qué
+- **Vende**: el manga pasó los **100 millones de copias** en 2026 (84
+  millones en mayo de 2022) ✅
+  (https://gamerant.com/hunter-x-hunter-new-sales-record-100-million/ ,
+  https://www.animeexplained.com/news/hunter-x-hunter-hits-100-million-sales-milestone/).
+- **Killua**: pasa de asesino educado para no sentir a alguien que protege a
+  Gon como a él nunca lo protegieron. El público se siente **protector** de
+  él ✅ (https://sportskeeda.com/anime/8-reasons-killua-popular-character-hunter-x-hunter).
+- **Hasta los villanos tienen arco** y ninguna trama se abandona: por eso
+  Hisoka, Chrollo, Illumi y Meruem tienen fans propios (§9) ✅.
+- **Reglas claras**: el Nen tiene categorías, límites y precios
+  («Restricción y Voto», §26).
+- **El cariño por el autor**: el fandom prefiere esperar a que Togashi se
+  lastime («Hiatus × Hiatus», §14) ✅.
+- ⚠️ No encontré premios ni una encuesta hispana.
+
+### 22.2 Las escenas, con episodio y minuto
+
+| Escena | Episodio (2011) | Minuto | Qué pasa y por qué duele | Cómo está hecha |
+|---|---|---|---|---|
+| **La cinta de Ging** | 37, «Ging × And × Gon» (1-jul-2012) | ⚠️ sin minuto | Gon oye por primera vez la voz de su padre, grabada | ✅ https://www.imdb.com/title/tt2856262/ , https://hunterxhunter.fandom.com/wiki/Episode_37_(2011) |
+| **Muerte de Kite** | 130 | ⚠️ sin minuto | Neferpitou mata al primer Cazador que admiró Gon; lo detona todo | ✅ https://hunterxhunter.fandom.com/wiki/Episode_130_(2011) |
+| **La ira de Gon** | 131, «Anger × And × Light» | [1:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=60) Gon suplica que curen a Kite · [5:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=300) Pitou: «tengo que matarte» · [14:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=840) el narrador: aunque nunca más pueda usar Nen · [17:00](https://archive.org/download/OKanimeHunterXHunter131720pUlquiorraCifer/%5BOKanime%5D%20Hunter%20x%20Hunter%20-%20131%20%5B720p%5D%5BUlquiorra%20Cifer%5D.mp4?t=1020) Killua lo ve transformado | Gon, siempre alegre, pierde el control por primera vez y **se sacrifica** sólo por rabia y culpa | bosque de noche, aura roja `#A23C2F`, luz dorada, **casi 5 minutos sin diálogo transcrito** (7:00-11:00), narrador en off ✅ (visto, §2.2) |
+| **Meruem y Komugi** | 135 | ⚠️ sin minuto | el rey que veía a los humanos como comida elige morir jugando al Gungi con la única que lo trató como igual | ✅ https://hunterxhunter.fandom.com/wiki/Episode_135_(2011) · objetos #18 · personajes #30 |
+| **Gon visita a Kite** | 147 | [12:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=720) | «No pude pelear contigo… la próxima vez te protejo yo» | ⚠️ Whisper |
+| **Gon y Killua se separan** | 147 | [17:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=1020)-[20:00](https://archive.org/download/3asqTeamHunterXHunter147720pHi10bitsDBE35235Metalghost/%5B3asq-Team%5D-Hunter-X-Hunter-147-%5B720p-Hi10bits%5D%5BDBE35235%5D_metalghost_.mp4?t=1200) | al pie del Árbol del Mundo; Killua se va con Alluka: «cuento contigo» | ⚠️ Whisper |
+
+La ira de Gon (131) y Meruem con Komugi (135) son **las dos escenas más
+lloradas** según la prensa ✅
+(https://sportskeeda.com/anime/10-hunter-x-hunter-2011-moments-brought-fans-tears).
+
+**Para gritar de emoción**
+- Los **ojos escarlata** de Kurapika y el 「変」 contra Uvogin ([clip 2:51](https://www.dailymotion.com/video/x816c25?t=171)).
+- Hisoka contra Kastro: el aura verde y la sonrisa ([clip 1:04](https://www.dailymotion.com/video/x816bz2?t=64), [1:33](https://www.dailymotion.com/video/x816bz2?t=93)).
+
+**Para reír**
+- Silva ofrece un **30 % de descuento** por matar ([Cazador X 2:10](https://www.dailymotion.com/video/xcg420?t=130)).
+- Killua con **orejas de gato** cuando hace travesuras (§8).
+- Todos creen que Leorio es un viejo; es un adolescente (wiki).
+
+- ⚠️ No confirmé **qué música** suena en cada escena ni los comentarios más
+  votados (TV Tropes y YouTube bloqueados). Sin minuto exacto: 37, 130 y 135.
+

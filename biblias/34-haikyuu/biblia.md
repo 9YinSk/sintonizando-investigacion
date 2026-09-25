@@ -2584,11 +2584,29 @@ Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
 - **Firefly y Canva**: no comprobé qué permite cada una con imágenes de
   referencia.
 
+### Segunda pasada: lo que sigue sin verificar (P18-P25)
+
+- **P18**: el programa de dibujo del manga y el del anime; un *rig*
+  libre de un personaje de Haikyuu!!; el vídeo original de Erik Shoji.
+- **P19**: la trama concreta que usa Furudate; la licencia comercial de
+  los pinceles de Gumroad y DeviantArt; el uniforme de juego de
+  Fukurōdani en la wiki; el hex de las espigas de Karasuno.
+- **P20**: el cumpleaños exacto y la altura de Bokuto; datos de Akaashi
+  y Ushijima con una sola fuente.
+- **P21**: el minuto de las escenas que hacen llorar; la música de la
+  escena de Oikawa e Iwaizumi; el episodio de la pelea de Hinata y
+  Kageyama y de la frase a Yachi; los premios, uno por uno.
+- **P22**: vistas de YouTube y TikTok (YouTube pide iniciar sesión).
+- **P23**: la imagen del key visual de la SV.LEAGUE; la nota oficial de
+  Puzzle & Dragons; las 18 fotos de bdrc sin mirar.
+- **P25**: el japonés y el capítulo de «No se puede ganar solo»; los
+  lemas de Date Tech e Itachiyama; el formato de sets de cada torneo.
+
 ## Cumplimiento del encargo
 
 ✅ hecho · ⚠️ a medias · ❌ no hecho.
 
-**Los 17 puntos de «Qué investigar»**
+**Los 25 puntos de «Qué investigar»** (18-25, de la segunda pasada)
 
 | # | Punto | Estado | Por qué |
 |---|---|---|---|
@@ -2608,7 +2626,15 @@ Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
 | 14 | Poses analizadas (6-10 por personaje) | ✅ | Hinata 8, Kageyama 6, Nishinoya 7, Oikawa 7, Bokuto 7, con su función (§15) |
 | 15 | Vestuario | ✅ | 10 trajes con hex, peinados y accesorios (§16) |
 | 16 | Paisajes y fondos de pantalla | ⚠️ | Sitios por hora del día, sí. Fondos **oficiales** no (haikyu.jp da 403); de fans, 5 de Wallhaven (§17) |
-| 17 | Guía para la IA | ✅ | Estilo, rasgos fijos, paleta, palabras que ayudan y estropean, 3 encargos listos (§18). Sin probar Firefly ni Canva |
+| 17 | Guía para la IA | ✅ | Estilo, rasgos fijos, paleta, palabras que ayudan y estropean, 3 encargos listos (§18); 18.7 añade lo de P18-P25. Sin probar Firefly ni Canva |
+| 18 | Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Línea, sombra, *cut-in* del remate y encuadres de dos fuentes (Sakuga Blog, entrevista a Liang); receta de Photoshop y Blender (P18). ⚠️ Sin programa del manga ni *rig* libre de un personaje |
+| 19 | Texturas 2D | ✅ | 5 escudos con hex medidos con Pillow, 4 patrones de ropa, tramas, papel CC0 e iconos con licencia (P19). ⚠️ Licencia comercial de dos packs sin aclarar |
+| 20 | Gustos y detalles | ✅ | *Databook* oficial vía la wiki + AniList para los 5 del encargo y 5 secundarios (P20). ⚠️ Bokuto, Akaashi y Ushijima con una sola fuente |
+| 21 | Por qué la aman y escenas que hacen llorar | ⚠️ | Ventas, premios, taquilla, razones y 4 escenas de llorar (P21). **Sin minuto** en las de llorar (YouTube bloqueado); las de gritar sí lo tienen (§2.1) |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | 1 cover medido en Dailymotion, 6 fandubs, 6 covers, 3 TikTok y los memes del doblaje (P22). **Sin vistas** de YouTube ni TikTok: no se dejan abrir |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | SV.LEAGUE, 2 cafés con arte nuevo, Nendoroid, 6 Ichiban Kuji, 3 exposiciones, cosplay con materiales (P23). ⚠️ Puzzle & Dragons sólo en un agregador |
+| 24 | Obras parecidas y láminas vecinas | ✅ | 15 series de AniList, influencias del autor en dos fuentes, choques con Naruto, My Hero Academia y Assassination Classroom; Blue Lock y Captain Tsubasa en marcha (P24). TV Tropes, 403 |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | 5 reglas, 6 arcos con capítulos y episodios, 8 estandartes (6 en dos fuentes), objetos y vocabulario (P25). ⚠️ Una cita sin capítulo |
 
 **Lo demás que pide el encargo**
 
@@ -2616,20 +2642,20 @@ Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
 |---|---|---|
 | 3 conceptos de lámina | ✅ | Marcador (A), pizarra (B), formulario (C), cada uno con canal, objeto para Blender, pose, cuadro, textos y profundidad (§19) |
 | Canal propuesto | ✅ | #reto-de-la-semana, con dos reservas; choque con Naruto avisado (§0) |
-| Mínimo 40 fuentes | ✅ | Unas 50 distintas (lista en §21) |
+| Mínimo 40 fuentes | ✅ | **73 webs distintas enlazadas** (`revisar.py`, tras la segunda pasada; antes 31). Lista en §21 |
 | Vídeos: opening, ending, tráiler y 3 escenas | ✅ | OP2, ED1, OP de T4, 2 tráileres, 5 escenas y 3 vídeos de juegos, fotograma a fotograma (§12.1) |
 | Colores medidos con Pillow | ✅ | Todos con su fotograma o imagen de origen (§5.2) |
 | Frases latinas textuales con vídeo y minuto | ⚠️ | Sí de los clips de Crunchyroll y de subidas de fan; faltan las escenas clave (§10.4) |
 | Fuentes oficiales (web, staff, artbooks) | ✅ | Entrevistas a Furudate, Mitsunaka y Hayashi en japonés; KLab; TOHO; Crunchyroll; créditos de Max (§3.5). No hay entrevista de Kishida |
-| En otros idiomas | ✅ | Japonés (6 webs), coreano (Ruliweb), chino (Niusnews). Bilibili no abrió |
+| En otros idiomas | ✅ | Japonés (6 webs; en la segunda pasada, 10 más: Volleyball Magazine, Wikipedia en japonés, SV.LEAGUE, haikyu.jp, 1kuji, collabo-cafe, Dengeki, museo de Niigata, Hankyu, Animate Café), coreano (Ruliweb), chino (Niusnews). Bilibili no abrió |
 | Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Haikyuu!! Wiki (inglés y español) y Doblaje Wiki por API, sí. **TV Tropes y TCRF dan 403**; la Wayback cortó la conexión (dos intentos cada una) |
-| Foros y comunidades | ⚠️ | Reddit (Arctic Shift), Wallhaven, meme.com. Sin Discord, 4chan ni Tumblr |
+| Foros y comunidades | ⚠️ | Reddit (Arctic Shift y un hilo de 791 votos), Wallhaven, meme.com, Memedroid, Tumblr (cosplay), Goodreads. Sin Discord ni 4chan |
 | Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Los tres, con autor; DeviantArt descartado por estar lleno de IA (§4.3) |
 | Vídeo (análisis, staff, TikTok) | ✅ | WatchMojo, TOHO, Crunchyroll, entrevistas latinas localizadas. TikTok sin minutos |
 | Código y recursos | ✅ | kitsunekko-mirror y google/fonts en GitHub, Sketchfab, Poly Haven, dafont |
 | Doblaje latino (DW, ANMTV, créditos) | ✅ | Doblaje Wiki por API, 2 artículos de ANMTV, Bubbleblabber, wiki en español, créditos de Max leídos |
 | `hojas/` (máx. 3 JPEG < 3 MB) | ✅ | 3 hojas propias: 0,5 MB, 0,6 MB y 1,0 MB, cada número descrito (§3.1) |
-| `referencias.json` (20-40, medidas) | ✅ | 37 entradas; las 24 de la wiki medidas con Pillow tras bajarlas; los vídeos con `yt-dlp -j` |
+| `referencias.json` (mínimo 20, sin máximo) | ✅ | **175 entradas**: las 37 de la primera pasada delante (medidas con Pillow o `yt-dlp -j`); luego lo nuevo de las partes (key visual del café, figuras, *databook*, escudos, uniformes, tramas y papel, 41 fotogramas de la wiki medidos por la API, fotos CC de Flickr, modelos 3D, fan art de Safebooru con su autor) y, al final, artículos, fandubs y covers. 40 sin tamaño: son páginas o vídeos sin medir |
 
 ## 21 · Bitácora de búsqueda
 
@@ -2735,3 +2761,121 @@ páginas de **TCRF y TV Tropes**, y la **letra de Panini**.
   las letras comprobadas, los tamaños de `referencias.json`.
 - ⚠️ **Dudoso** (una fuente o sin comprobar): lo marcado con ⚠️ en la
   biblia, reunido en §20.
+
+### Segunda pasada (24 y 25-sep-2026): puntos 18-25
+
+Tres investigadores en Sonnet (imagen, voz y texto; el de vídeo no hacía
+falta) y el redactor. Sus libretas completas están en `partes/`.
+
+**Búsquedas por idioma**
+
+- **Japonés**: 「Production I.G ハイキュー 演出 満仲勧 インタビュー 作画」;
+  「古舘春一 ハイキュー 作画 影響 インタビュー 線」; 「古舘春一 デジタル
+  作画 ペンタブレット 原稿 取材」 (sin resultado); 「古舘春一 好きな漫画
+  影響を受けた作品」; 「ハイキュー!! コラボ カフェ 2025」; 「ハイキュー!!
+  Vリーグ コラボ 公式パートナー」; 「ハイキュー!! コラボ ソーシャルゲーム
+  2025」; 「ハイキュー!! 一番くじ」; 「ハイキュー展 2025 原画展」; 「パズドラ
+  ハイキュー コラボ 2025」 (sólo blogs).
+- **Inglés**: *Haikyuu anime making of animation style toon shader*;
+  *Haikyuu manga screentone Clip Studio Paint Furudate*; *Haikyuu
+  Blender rig*; *Haikyuu VRoid VRChat model*; *Haikyuu story arcs
+  timeline*; *Karasuno "Fly" banner meaning*; *"freak quick" jersey
+  numbers meaning*; *"you can't win alone"*; *volleyball rules rally
+  point libero*; *free Photoshop manga screentone brush*; *why fans love
+  it identify with character*; *manga sales Oricon*; *awards Crunchyroll
+  Anime Awards*; *saddest scene reddit "made me cry"*; *Dumpster Battle
+  box office*; *Good Smile Nendoroid*; *Japan Airlines* (no lo
+  encontré); *flaticon crow*.
+- **Español**: *Haikyuu fandub español latino*; *opening español latino
+  cover*; *memes latinoamérica*; *parodia doblaje latino*; *cosplay
+  Karasuno jersey*.
+
+**Por API o descarga directa (sin buscador)**
+
+- Haikyuu!! Wiki (`api.php`): `parse` de «Arcs», «Karasuno High», las
+  fichas de 9 personajes (Trivia, Quotes), el *Complete Guidebook* y 3
+  episodios; `list=search` («freak quick», «win alone», «Ushijima
+  childhood flashback», «Oikawa Iwaizumi walk home», «"real partner"
+  Hinata Yachi»); `prop=images` e `imageinfo` de 7 institutos.
+- Sketchfab (`api.sketchfab.com/v3`): *anime boy rigged* y la licencia
+  del modelo elegido.
+- [ambientCG](https://ambientcg.com) (`api/v2`), texturas de papel.
+- Dailymotion (`api.dailymotion.com`): *Haikyuu fandub*, *opening
+  español*, *meme español*, *cover latino*, y la ficha de `x4qw5me`.
+- Reddit por [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=haikyuu&query=cried%20during):
+  «cried during», «sobbed», «relate to», «arc hit hardest», «saddest
+  scene».
+- Pillow: 13 imágenes medidas (escudos, uniformes, figuras, café).
+
+**Fuentes nuevas de la segunda pasada** (42 webs que no salían en la
+biblia; enlaces en P18-P25)
+
+- **Producción y staff**: [Sakuga Blog](https://blog.sakugabooru.com/2020/02/04/the-evolution-of-haikyuus-exceptional-production-refining-reality/) ·
+  [Wave Motion Cannon](https://wavemotioncannon.com/2016/12/22/interview-haikyuus-boya-liang/) ·
+  [Volleyball Magazine](https://vbm.link/5437/) ·
+  [AniList](https://anilist.co/anime/20464/staff) ·
+  [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%88%98%E6%98%A5%E4%B8%80) ·
+  [CBR](https://www.cbr.com/how-realistic-is-haikyuu-volleyball/).
+- **Oficiales y colaboraciones**: [haikyu.jp](https://haikyu.jp/news/4097/) ·
+  [SV.LEAGUE](https://www.svleague.jp/ja/topics/detail/23198) ·
+  [X oficial](https://x.com/haikyu_com/status/2002714408242524226) ·
+  [Good Smile Company](https://www.goodsmile.info/en/product/4644/Nendoroid+Shoyo+Hinata.html) ·
+  [1kuji.com](https://1kuji.com/characters/203) ·
+  [Animate Café](https://www.animatecafe.jp/event/ac000636) ·
+  [collabo-cafe.com](https://collabo-cafe.com/events/collabo/haikyu-box-cafe-tokyo-osaka-miyagi2025/) ·
+  [Rakuten Books](https://fan.books.rakuten.co.jp/articles/2941) ·
+  [Museo de Niigata](https://museum.nmam.jp/2025/10/07/haikyu_gomisuteba_ex/) ·
+  [Hankyu Umeda](https://website.hankyu-dept.co.jp/honten/h/gallery_haikyu/) ·
+  [10.º aniversario](https://haikyu-anime-10th-exhibition.com/) ·
+  [Dengeki Online](https://dengekionline.com/article/202408/14639) ·
+  [«挑戦者たち»](https://haikyu-challengers-ex.com/) ·
+  [hokope.com](https://hokope.com/archives/58023) (agregador).
+- **Wikis, foros y reseñas**: [Wikipedia en inglés](https://en.wikipedia.org/wiki/List_of_Haiky%C5%AB!!_episodes) ·
+  [Oricon](https://us.oricon-group.com/news/2860) ·
+  [Give It a Shot Review](https://giveitashotreview.wordpress.com/2019/08/19/unpacking-the-obsession-haikyuu/) ·
+  [ani-hub.com](https://ani-hub.com/en/entertainment/haikyu-high-school-volleyball-team-banner-list/) ·
+  [Goodreads](https://www.goodreads.com/quotes/tag/haikyuu) ·
+  [Manga Wiki](https://manga.fandom.com/wiki/Screentone) ·
+  [Tumblr, Danidere Cosplay](https://daniderecosplay.tumblr.com/post/123242897968/haikyuu-jersey-tips-links-for-patterns) ·
+  [Memedroid](https://es.memedroid.com/memes/tag/haikyuu!!!) ·
+  [Pinterest](https://cl.pinterest.com/chumchum7_982/memes-de-haikyuu/)
+  (sólo para llegar a la fuente).
+- **Arte, recursos y 3D**: [DeviantArt, enzirin](https://www.deviantart.com/enzirin/art/ART-TUTORIAL-Haikyuu-Art-Style-Old-Animation-866245874) ·
+  [Manga with Stef](https://manga-with-stef.com/free-screen-tone-collection-1) ·
+  [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) ·
+  [Gumroad, ittaimanero](https://ittaimanero.gumroad.com/l/FREESuperScreentoneSample) ·
+  [Flaticon](https://www.flaticon.com/free-icons/crow) ·
+  [Blender Studio](https://studio.blender.org/training/toon-character-workflow/) ·
+  [Creative Commons](http://creativecommons.org/licenses/by/4.0/) ·
+  [Openverse](https://openverse.org) y [Flickr](https://live.staticflickr.com/544/19339245994_5bcab61ee3_b.jpg) ·
+  [Safebooru](https://safebooru.org/images/1807/d8a642330352f32c5b9539a793919576ba5db516.png)
+  (fan art con su autor de Pixiv, en `referencias.json`) ·
+  [Danbooru](https://danbooru.donmai.us) (etiquetas, `datos-imagen.md`) ·
+  [portada de AniList](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png).
+- **Fandubs y covers**: [SoundCloud, Laharl Square](https://soundcloud.com/laharl-square/haikyuu-2-opening-im-a-believer-espanol-latino) ·
+  [SoundCloud, zamael](https://soundcloud.com/zamaelsounds/haikyuu-opening-5-hikari-are-cover-latino) ·
+  YouTube y TikTok (P22).
+- **Dónde se ve legalmente** (enlaces oficiales de AniList, en
+  `datos-video.md`; para oír las frases que faltan):
+  [Crunchyroll](http://www.crunchyroll.com/haikyu) ·
+  [Netflix](https://www.netflix.com/title/80090673) ·
+  [Prime Video](https://www.amazon.com/gp/video/detail/B07WNMBJG2/) ·
+  [iQ](https://www.iq.com/album/1m26il1p739) ·
+  [Bilibili TV](https://www.bilibili.tv/en/play/34475) · web antigua del
+  anime, [j-haikyu.com](http://www.j-haikyu.com/anime/index.html).
+  En Internet Archive hay subidas **no oficiales** (un episodio doblado
+  de T3, películas): no se usaron.
+
+**Lo que falló**: YouTube (pide iniciar sesión: sin vistas ni minutos),
+TikTok (sin sesión), TV Tropes (**403**, dos intentos), la web normal de
+Haikyuu!! Wiki (**402**: siempre por la API), la página de cada icono de
+Flaticon (403), la imagen de la SV.LEAGUE (sólo una genérica).
+
+**Lo que NO encontré**: está en §20, «Segunda pasada: lo que sigue sin
+verificar».
+
+**Correcciones del redactor al juntar las partes**: el lema 「思い出なんか
+いらん」 es de Inarizaki, no de Date Tech; el enlace de AniList de Bokuto
+era el de Ushijima; la fecha del hilo de Reddit era imposible; Blue Lock
+y Captain Tsubasa sí tienen encargo (sin biblia aún); Furudate es «el
+autor», no «la autora».
