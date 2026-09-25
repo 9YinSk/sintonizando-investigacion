@@ -1,10 +1,12 @@
 # Voz y personajes · JoJo's Bizarre Adventure (repaso, lote C)
 
-Investigador de voz. Modo **repaso**: `biblia.md` ya tiene los puntos 7, 8, 9
-(=7), 10 (=8), 14 (=12) y 8 (=13) muy trabajados (ver `seccion.py --rol voz`).
-Este archivo no repite lo que ya está ✅ ahí; añade lo que faltaba (sobre
-todo el **punto 20**, que no estaba), corrige un dato de doblaje y profundiza
-21 y 22. Formato: libreta de datos, un dato por línea.
+Investigador de voz. Modo **repaso**: `biblia.md` ya tiene muy trabajados el
+punto 7 (§9, encuestas), el 8 (§10, doblaje), el 12 (§14, fandom y qué no
+hacer) y el 13 (§8, personajes a fondo) — ver `seccion.py --rol voz`. Este
+archivo no repite lo que ya está ✅ ahí; añade lo que faltaba (sobre todo el
+**punto 20**, que no estaba en absoluto), corrige un dato de doblaje del
+punto 8 y profundiza los puntos 21 y 22. Formato: libreta de datos, un dato
+por línea.
 
 ## Hallazgos por punto
 
@@ -46,14 +48,19 @@ todo el **punto 20**, que no estaba), corrige un dato de doblaje y profundiza
   Fabián Rétiz, [ficha](https://doblaje.fandom.com/es/wiki/Fabi%C3%A1n_R%C3%A9tiz)) ⚠️ — sigue haciendo falta un sitio *fuera* de
   Doblaje Wiki para pasarlos a ✅; los busqué en SomosKudasai, Aweita (DNS
   no resolvió), Senpai (503 dos veces) y Gamerfocus sin encontrarlos.
-- Busqué una segunda fuente externa para Kars/Wamuu/Esidisi (el trío
-  Pilar Men, con memes en §2 y §14): no encontré ningún artículo o vídeo
-  que dé los tres nombres del reparto latino fuera de Doblaje Wiki; sigue
-  ⚠️. Sí lo tiene un resumen de búsqueda que cita "múltiples fuentes" para
-  Kars (Jorge Badillo), pero al pedir el HTML de las páginas que cita
-  (Aweita, Televisa, Gamerfocus, Senpai) ninguna nombra a Kars por su
-  nombre — sólo listan a los protagonistas. **No lo cuento como
-  confirmado.**
+- **Kars, Wamuu y Esidisi** (el trío Pilar Men de BT, con memes en §2 y
+  §14 — «Y Kars dejó de pensar»): **Jorge Badillo** (Kars), **Salvador
+  Reyes** (Wamuu) y **José Antonio Macías** («Pepe Toño Macías», Esidisi)
+  · Doblaje Wiki + confirmados los tres juntos en [FUNiAnime LA: elenco de Phantom Blood y Battle Tendency](https://funianime.com/conoce-al-elenco-de-jojos-bizarre-adventure-phantom-blood-y-battle-tendency/) → **pasan de ⚠️ a ✅ los tres**.
+- **Erina Pendleton** (PB): **Montserrat Aguilar** · Doblaje Wiki +
+  confirmado también en el mismo artículo de [FUNiAnime LA](https://funianime.com/conoce-al-elenco-de-jojos-bizarre-adventure-phantom-blood-y-battle-tendency/) → pasa de ⚠️ a **✅**. Ese mismo artículo confirma otra vez **Marc
+  Winslow como Dio Brando en Phantom Blood** (no Sergio Becerril), lo que
+  refuerza la corrección de arriba.
+- **Hol Horse** (SC): **Carlo Vázquez** · Doblaje Wiki + confirmado
+  también en [FUNiAnime LA: elenco de Stardust Crusaders](https://funianime.com/conoce-al-reparto-del-doblaje-latino-de-jojos-bizarre-adventure-stardust-crusaders/) → pasa de ⚠️ a **✅**. El mismo artículo da, sin segunda fuente
+  todavía, a **Jessica Ángeles** (Holly Joestar), **Magda Giner** (Enyaba)
+  y **Carla Castañeda** (Mariah) — nombres que no estaban en `biblia.md`;
+  quedan ⚠️.
 - **eldoblaje.com** (que sí lista fichas de doblaje) sólo tiene el doblaje
   de **España** de esta franquicia (Stardust Crusaders, id 58052: Hol
   Horse = Juan Miguel Díez, D'Arby = Ángel del Río/Francesc Rocamora, **no
@@ -178,16 +185,18 @@ capítulo del manga (dato oficial, un único origen editorial, así que llevan
 
 ## No encontré
 
-- **Segunda fuente externa** (fuera de Doblaje Wiki) para: Erina, Lisa
-  Lisa, Kars, Wamuu, Esidisi, Hol Horse, Terence D'Arby, Tonio Trussardi,
-  Vinegar Doppio, las voces de "Star Platinum" y "The World" como efecto
-  de sonido, Pocoloco, Sand Man y el comentarista de SBR (Speedwagon,
-  Caesar y Pucci **sí se resolvieron**, ver arriba). Búsquedas hechas
-  (español): `"<actor>" "<personaje>" doblaje latino JoJo`, `ANMTV JoJo's
-  Bizarre Adventure <parte> doblaje latino reparto`, ficha de
-  eldoblaje.com (sólo tiene España), SomosKudasai (sólo cubre PB/BT/SC
-  principales), Senpai.com.mx (503 dos veces), Aweita (DNS no resolvió).
-  Quedan ⚠️ con una sola fuente.
+- **Segunda fuente externa** (fuera de Doblaje Wiki), tras resolver
+  Speedwagon, Caesar, Pucci, Erina, Kars, Wamuu, Esidisi y Hol Horse (ver
+  arriba), sigue faltando sólo para personajes menores: **Lisa Lisa**
+  (Vianney Monroy), **Terence T. D'Arby** y **Tonio Trussardi** (ambos
+  Fabián Rétiz), **Vinegar Doppio** (Emilio Treviño/Emmanuel Bernal), las
+  voces-efecto de "Star Platinum" y "The World", **Pocoloco**, **Sand
+  Man** y el comentarista de SBR. Los busqué con `"<actor>" "<personaje>"
+  doblaje latino JoJo`, cuatro artículos de FUNiAnime LA (uno por parte),
+  ANMTV, Gamerfocus, SomosKudasai, ficha de eldoblaje.com (sólo tiene
+  España), Senpai.com.mx (503 dos veces) y Aweita (DNS no resolvió).
+  Quedan ⚠️ con una sola fuente; son roles secundarios, no de los cinco
+  del encargo ni de los secundarios más queridos (§9 de `biblia.md`).
 - **Minuto exacto** de la muerte de Caesar (BT ep. 20): no quedan
   subtítulos locales de esa parte y clonar kitsunekko-mirror entero para
   un episodio no compensaba el gasto de esta tanda.
@@ -220,6 +229,13 @@ capítulo del manga (dato oficial, un único origen editorial, así que llevan
 - **Reddit vía Arctic Shift**: `subreddit=StardustCrusaders&query=Caesar`
   → el post de terapia (165 votos); `subreddit=Animemes&query=Caesar
   Zeppeli` → resultado eliminado/archivado, no usable.
+- **FUNiAnime LA** (funianime.com) resultó ser la mejor segunda fuente
+  del doblaje latino, con un artículo dedicado por parte: los de Phantom
+  Blood+Battle Tendency, Stardust Crusaders, Diamond is Unbreakable y
+  Stone Ocean. Entre los cuatro confirmaron 8 nombres que sólo tenían
+  Doblaje Wiki: Speedwagon, Caesar, Erina, Kars, Wamuu, Esidisi, Hol
+  Horse y Pucci. Vale la pena que el redactor o el siguiente repaso los
+  use también para Golden Wind y Steel Ball Run si buscan más nombres.
 - **Webs que no sirvieron**: `eldoblaje.com` (fichas de Golden Wind y
   Stardust Crusaders son del doblaje de **España**, no del latino) — dos
   intentos, descartado como fuente para el reparto latino. `senpai.com.mx`

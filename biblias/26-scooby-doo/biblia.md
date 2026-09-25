@@ -1585,6 +1585,372 @@ en §5.3.
 
 ---
 
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+### Qué técnica usó el estudio
+
+- **1969: xerografía, no tinta a mano.** El dibujo del animador se
+  fotocopiaba directo al acetato. Por eso la línea es **fina, uniforme y
+  algo temblorosa** (C-43). El xerógrafo fue **Robert «Tiger» West**
+  (temporadas 1 y 2) ✅ ([Scoobypedia](https://scoobydoo.fandom.com/wiki/Robert_%22Tiger%22_West)
+  y [Hanna-Barbera Wiki](https://hanna-barbera.fandom.com/wiki/Robert_%22Tiger%22_West)).
+  Cómo funcionaba el proceso: [D23, «Xerox process»](https://d23.com/a-to-z/xerox-process/),
+  [Canonica](https://canonica.ai/page/Use_of_Xerography_in_Animation) ✅.
+- **Los fondos se pintaban a mano** con gouache (pintores en §3.1). Por
+  eso tienen textura y degradado, y los personajes no.
+- **La copia tiene grano de película** real: cámara sobre acetato y
+  fondo. Se nota en los fondos de noche (F-6, F-10) ✅.
+- **Desde 2010 (Warner Bros. Animation)**: el estudio trabaja con **Toon
+  Boom Harmony** ([Toon Boom](https://www.toonboom.com/products/producer),
+  [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/MediaNotes/ToonBoom))
+  ⚠️: dato del estudio, no confirmado para *Misterios S.A.* en concreto.
+- ***Scoob!* (2020)**: CGI de **Reel FX** ([Wikipedia](https://en.wikipedia.org/wiki/Scoob!))
+  con acabado **semirrealista**, no *toon shader*. Es el ejemplo de **qué
+  no hacer** en 3D ✅ (dos reseñas, §18.6).
+
+### Encuadres y composición
+
+La fórmula de guion marca los planos ([Wikipedia, «Scooby-Doo»](https://en.wikipedia.org/wiki/Scooby-Doo)) ✅:
+
+| Momento | Encuadre | En una lámina |
+|---|---|---|
+| Llegada | Plano general, la furgoneta entra en cuadro | Cabecera: dónde estamos |
+| «Separémonos» | Grupo partido: dos a un lado, dos al otro | Dos columnas: Resuelta / Sigue abierta |
+| Persecución de puertas | Plano fijo lateral, entran y salen en fila | Tira en el borde, poco texto |
+| El susto | Primer plano de Scooby o Shaggy, ojos enormes, salto | Icono de «duda nueva» |
+| El desenmascarado | Plano medio, la mano tira de la máscara, el grupo en semicírculo | Icono de «Resuelta» |
+
+Además, plano general **a la altura de los ojos** (§18.2).
+
+### Cómo reproducirlo en Photoshop
+
+- **Tres capas**, como el acetato: línea, color plano del personaje,
+  fondo pintado. El fondo lleva más textura que el personaje.
+- **Línea**: pincel duro de 2-4 px a 1080p, **gris muy oscuro o sepia**,
+  no negro puro. «Bloquear píxeles transparentes» para rellenar.
+- **Fondo**: pinceles de gouache de **Kyle T. Webster** (vienen con
+  Photoshop) o los gratis de [Brusheezy](https://www.brusheezy.com/free/gouache)
+  (licencia por pincel ⚠️). De claro a oscuro, baja opacidad.
+- **Grano**: `Filtro > Ruido > Añadir ruido`, monocromático, 3-5 %, en
+  Superponer, sólo sobre personajes. O grano real escaneado de
+  [FilmLooks](https://filmlooks.com/free-film-grain/) (gratis, uso comercial).
+- **Aberración de tele antigua**: desplazar el canal rojo 1-2 px. Sólo si
+  se quiere aire de VHS; para 1969 limpio, mejor no.
+
+### Cómo reproducirlo en Blender
+
+- **Contorno «inverted hull»**: segundo material (Emisión), *Backface
+  Culling* activado, modificador **Solidify** con *Flip Normals* y
+  *Material Index Offset* = 1; el grosor lo da *Thickness*. Funciona en
+  Eevee ✅ ([3dsecrets](https://www.3dsecrets.com/secrets/inverted-hull-toon-outline-bnpr-blender-tutorial),
+  [StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender)).
+  Alternativa: **Line Art** ([guía en GitHub](https://github.com/TehMerow/Tutorials/wiki/Line-Art-with-Blender)).
+  Freestyle es más lento.
+- **Color plano**: *Shader to RGB* → *Color Ramp* en **Constant** con
+  **dos paradas** (lo más parecido a 1969).
+- **Luz**: una luz de área grande y suave desde arriba-delante; de
+  noche, relleno **azulado** (el tinte medido en §5.2).
+- **Fondo**: pintado en Photoshop y puesto detrás de la cámara (*Film >
+  Transparent* + compositor), no modelado. Así se mantiene «personaje
+  plano, fondo pintado».
+- **Modelos libres** (Sketchfab, licencia comprobada por su API):
+  [Scooby-Doo](https://sketchfab.com/3d-models/scooby-doo-29c1fffa88794e408b5579889eb091bc)
+  de gaddiellartey2010 (2796 caras, CC BY); [Scrappy Doo v2026](https://sketchfab.com/3d-models/scrappy-doo-v2026-scooby-doo-b7e17227352142c9a271232d62a9bdad)
+  de jacobq1004 (**el único con animación**, CC BY);
+  [Daphne Blake](https://sketchfab.com/3d-models/daphne-blake-60c98889d23c46e992867af623cd130e)
+  (CC BY) y [Velma Dinkley](https://sketchfab.com/3d-models/velma-dinkley-fb8d2ee3f6604e88b7993cc6664a1d34)
+  (**CC BY-SA**: lo derivado se comparte igual) de placidone. Ninguno
+  trae el *toon shader*: se monta con la receta de arriba. Más modelos
+  (furgoneta, corcho, lupa) en §4.1.
+
+---
+
+## Punto 19 · Texturas 2D
+
+Junto con los modelos 3D (§4.1) y las texturas reales (§5.4).
+
+| Capa | Lo que tiene la serie | Equivalente libre |
+|---|---|---|
+| **Tramas** | **No hay.** Ni la serie ni el cómic usan trama de puntos: una foto de periódico dentro de una viñeta, ampliada 5×, es color plano en 2-3 grises ✅ ([la viñeta, 762×717](https://static.wikia.nocookie.net/scoobydoo/images/7/75/Dick_Dastardly_reads_the_Daily_Babbler%27s_cover_about_Bluestone_the_Great%27s_capture.png)) | No usar ninguna |
+| **Grano** | Grano de película sobre los fondos de noche (F-6, F-10) ✅; el Blu-ray lo suaviza ⚠️ (sin comprobar en un Blu-ray) | [FilmLooks](https://filmlooks.com/free-film-grain/): Super 8, 16 y 35 mm reales, gratis, uso comercial sin atribución ✅ |
+| **Pinceladas** | Fondos en gouache a mano | [Brusheezy, 11 pinceles de gouache](https://www.brusheezy.com/free/gouache): gratis para uso personal, revisar cada uno para uso comercial ⚠️ |
+| **Tejido** | **Canalé grueso** en cuello, puños y bajo de los jerséis de cuello alto ✅ (cosplay de MegaCon 2014); **pana vertical** en el pantalón de Shaggy de Fortnite ✅ | [3dtextures.me, «knitted»](https://3dtextures.me/tag/knitted/): CC0, sin costura ✅ |
+| **Emblema** | **Flor de 6 pétalos**, naranja con centro oscuro, **7 veces** en la furgoneta (2 puertas, rueda de repuesto, 4 tapacubos) ✅ ([Mystery_Machine.png](https://static.wikia.nocookie.net/scoobydoo/images/0/08/Mystery_Machine.png)) | Se dibuja en vector; colores en §5.3 |
+| **Logo del mundo** | «THE MYSTERY MACHINE» marrón naranja sobre panel verde, contorno negro fino (hoja C) ✅ | Letra en §6 |
+| **Placa** | Rombo dorado liso con «SD» en el collar de Scooby; sin patrón ✅ | — |
+| **Etiquetas pintadas** | Frasco «EAR OF A NEWT» y libros «WITCHCRAFT MADE EASY» y «BIOLOGY», rotulados a mano ([ep. 2, 1:20](https://www.dailymotion.com/video/x962eqg?t=80)) ✅ | Letra a mano (§6) |
+
+**Para la lámina**: el emblema de la flor es un patrón listo para
+decorar madera o tela en Blender; y el aviso de «sin trama» evita el
+error típico de pedir acabado de manga.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+De la ficha de cada uno en Scoobypedia, leída por la API. Casi todo es
+⚠️ (una fuente): Scooby-Doo no tiene *databooks* como un anime, y son
+datos de trivia de la wiki, no inventados.
+
+| Personaje | Gustos, familia y detalles | Fuente |
+|---|---|---|
+| **Scooby-Doo** | Nombre completo **«Scoobert Doo»** (*Un cachorro llamado Scooby-Doo*, T2). Padres **Dada-Doo** y **Mumsy-Doo**; hermanos **Ruby**, **Yabba**, **Skippy** y **Howdy-Doo**; primo **Scooby-Dum**; sobrino **Scrappy**. Roba bocados de la comida de Shaggy. De cachorro, las Scooby-galletas lo hacían **salir disparado como un cohete** | ⚠️ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Scooby-Doo) |
+| **Shaggy** | Nace de **Maynard G. Krebs**, el *beatnik* de *The Many Loves of Dobie Gillis* ✅ (Scoobypedia y Mark Evanier, [newsfromme.com](https://www.newsfromme.com/)). Fue **vegetariano** un tiempo; tiene sus propios «**Shaggy Snacks**». Come de todo y mucho | ⚠️ Scoobypedia |
+| **Vilma** | Hermana menor **Madelyn**, que dice que Vilma «nació con un libro de misterios en la mano». Trabajó en la **NASA** cuando la pandilla se separó. Le encanta el **hockey sobre hielo**. Miedo a los **payasos** (lo supera en *¿Qué hay de nuevo?*) y a perder las gafas. Se ve como la lista del grupo | ⚠️ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Velma_Dinkley) |
+| **Fred** | De niño en Coolsville era **hiperactivo y supersticioso**; el abusón **Red Herring** se metía con él. Leía la revista ***National Exaggerator*** (hombres topo, monstruos de barro). Levanta **100 kg en banca** (gag). Dice tener fiebre del heno y alergia a los gatos (chiste). Su frase «Un momento» (*Hold the phone*) la improvisó **Frank Welker** ✅ (USA Today, 3-9-2019, y Scoobypedia). Obsesión: **las trampas** | ⚠️ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Fred_Jones) |
+| **Daphne** | **Fuerza cerraduras**, conduce **moto desde los 5 años**, sabe **surfear**. De niña llevaba la recreativa de su padre; de adolescente, dúo musical con Fred, «**Blake and Jones**». Nombre de la ninfa **Dafne** de la mitología griega. Es la que más Scooby-galletas da (49 ✅, §8) | ⚠️ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Daphne_Blake) |
+
+**Objeto que siempre llevan**: Vilma, las **gafas** (y la lupa); Fred, el
+**pañuelo** y las **trampas**; Daphne, la **cinta del pelo**; Shaggy y
+Scooby, **comida** y la caja de Scooby-galletas; Scooby, el **collar
+«SD»** (§16).
+
+**Cumpleaños y altura**: no salen en lo que se leyó de las fichas ni hay
+*databook* oficial que los dé ⚠️. Queda pendiente buscarlos a propósito.
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+**Razones concretas**
+- **Con quién se identifica el público: Shaggy.** En el hilo «[Who do
+  you relate to the most?](https://www.reddit.com/r/Scoobydoo/comments/1i1onrj/who_do_you_relate_to_the_most/)»
+  (r/Scoobydoo, 34 votos) **6 de 9 comentarios** dicen Shaggy («ojalá
+  pudiera comer como Shaggy», «trato a los perros como personas») ✅
+  (Arctic Shift). Cuadra con §9: es el más memeado y casi nadie lo odia.
+- **Enseña a no creer en fantasmas.** Carl Sagan la elogió en *The
+  Demon-Haunted World* (1995) por enseñar a desconfiar de lo paranormal
+  con pruebas ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Scooby-Doo),
+  [libquotes](https://libquotes.com/carl-sagan/works/the-demon-haunted-world)).
+  Es la misma idea que un foro de dudas: se resuelve con pruebas.
+- **Premios y ventas**: *Un cachorro llamado Scooby-Doo* ganó un
+  **Daytime Emmy** ✅ (Wikipedia y [Hollywood Insider](https://www.hollywoodinsider.com/)).
+  *Misterios S.A.* es la serie mejor valorada, **8,29** de media (§14).
+  El merchandising pasó de **1000 millones de dólares en 2004** ⚠️ (sólo
+  Hollywood Insider). **No** ganó un Peabody (comprobado).
+- **Found family** en *Misterios S.A.*: cuando Fred vive escondido en la
+  furgoneta, **Daphne, Shaggy y Scooby lo meten a escondidas en casa** para
+  que coma y se asee; en «Wrath of the Krampus» hasta los villanos
+  encerrados ayudan ✅ ([TV Tropes, Heartwarming](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/ScoobyDooMysteryIncorporated)).
+
+**La escena que hace llorar**
+- **La muerte de Hot Dog Water** (Marcie Fleach, voz de Linda
+  Cardellini) en «**Through the Curtain**», *Misterios S.A.* T2, ep. 25
+  ✅ ([TV Tropes, Tear Jerker](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/ScoobyDooMysteryIncorporated)
+  y Scoobypedia). **Cómo está hecha**: la cámara **corta antes del
+  disparo**, fuera de plano, pero se oye; Scooby se da la vuelta y
+  **gimotea**; Vilma sólo dice «**...Sigan andando, Scooby**». Los fans la
+  citan como la frase más dura de la serie. Minuto y música: **sin
+  comprobar** ⚠️ (no se bajó el episodio).
+- **No sirve para #dudas** (es triste), pero prueba que la franquicia sí
+  sabe emocionar: dato para otras láminas o textos del bot.
+
+**Las que hacen reír o gritar**
+- **Shaggy noquea a un monstruo con un gas verde** ([2002, 1:35](https://www.dailymotion.com/video/x3z918e?t=95)) ✅.
+- **Scooby prueba la sopa de la bruja** y pone cara de asco ([1969, 2:36](https://www.dailymotion.com/video/x962eqg?t=156)) ✅.
+- **El desenmascarado** y «chicos entrometidos» ([00:17:24](https://www.youtube.com/watch?v=r1sQtlBZHHQ&t=1044)) ✅: el meme que todos reconocen (§14).
+- **Shaggy le roba la frase a Fred** («Separémonos…», «¡Me robó mi
+  frase!», 2004, 00:19:07) ✅.
+- **La persecución de las puertas** («Scooby-Doo Doors» en Know Your
+  Meme, §12) ✅.
+
+**Alcance hispano**: «**Scooby Doo Pa Pa**» de **DJ Kass** llegó al **#9
+de Billboard Hot Latin** (3-3-2018), primer dembow en ese Top 10 ✅
+([Billboard](https://www.billboard.com/pro/dj-kass-breaks-his-silence-scooby-doo-pa-pa/),
+Vibe). Se hizo viral con el baile de **Lele Pons e Inanna Sarkis
+disfrazadas de Daphne y Vilma**, casi **27 millones** de vistas ✅
+([Remezcla](https://remezcla.com/releases/music/dj-kass-scooby-doo-pa-pa-video-premiere/),
+Young Hollywood). Pitbull sacó remix el 27-4-2018 ✅. Con pañuelo verde y
+gafas cuadradas, el público hispano reconoce a la pandilla de un vistazo.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+| Qué | Enlace | Datos | Estado |
+|---|---|---|---|
+| **Fandub oído de verdad**: «Scooby Doo - Invitación a Horripilandia (Fandub Latino)», canal **Norbertcousins75** | [Dailymotion x3uwmjy](https://www.dailymotion.com/video/x3uwmjy) | 1:46, 254 vistas. Con `voz.py`: «¡Eso es magnífico!» ([0:04](https://www.dailymotion.com/video/x3uwmjy?t=4)), «¡Oh, Scooby, hablando de tostado!» ([0:07](https://www.dailymotion.com/video/x3uwmjy?t=7)). Voz aguda (293 Hz), **muy expresiva (22,9 semitonos)**, 2,08 palabras/s | ✅ oído |
+| «El Proyecto Scooby-Doo \| Fandub Latino» | [YouTube](https://www.youtube.com/watch?v=dowqESSl-pI) | sólo título | ⚠️ sin oír (YouTube pidió sesión) |
+| «Velma Conoce La verdad de Scooby Doo Fandub Latino» | [YouTube](https://www.youtube.com/watch?v=EDAHzmLCeII) | sólo título | ⚠️ |
+| «Scooby Doo y el misterio de Wrestlemania Trailer (Fandub Latino)» | [YouTube](https://www.youtube.com/watch?v=-aWH0uCscJU) | sólo título | ⚠️ |
+| «What's new Scooby Doo? (Fandub) Cover latino» | [YouTube](https://www.youtube.com/watch?v=T14nK92Lnc4) | cover del opening de 2002 | ⚠️ |
+| Cover «SCOOBY DOO - Intro Español latino» | [YouTube](https://www.youtube.com/watch?v=lMPiqMZQzc4) | 3-10-2022 | ⚠️ |
+| «Scooby Doo, donde estas! (Intro latino)» | [YouTube](https://www.youtube.com/watch?v=6Jj8sIcCsuU) | 2012; Shaggy grita el título (§11) | ✅ Doblaje Wiki |
+| **Canal oficial** «Scooby-Doo! en Español \| Latino America \| WB Kids» | lista oficial de Warner en YouTube (§12.1) | no es fandub: la referencia | ✅ |
+| **Meme hispano más grande**: el baile de «Scooby Doo Pa Pa» con Daphne y Vilma | ver punto 21 | 27 millones | ✅ |
+| Memes latinos del desenmascarado | [TikTok, «Veamos quién está detrás de la máscara»](https://www.tiktok.com/discover/scooby-doo-veamos-quien-esta-detras-de-la-mascara-scooby) | §12 | ⚠️ sin ver |
+
+**Aviso**: las búsquedas de Dailymotion «Scooby-Doo fandub español» dan
+siempre los mismos 6 clips genéricos: no repetirlas. Los fandubs de
+YouTube hay que oírlos con `yt-dlp` cuando YouTube deje (es por ratos).
+
+---
+
+## Punto 23 · Colaboraciones y cruces
+
+Los cruces dentro de Hanna-Barbera (Blue Falcon, *¿Quién crees?*,
+*Las nuevas películas*) ya están en §8, §2.1 y el punto 25.
+
+**Videojuegos de otros**
+
+| Colaboración | Qué trae | Arte útil | Estado |
+|---|---|---|---|
+| **Fortnite**, «Fortnitemares 2025» | Shaggy y Scooby el **12-oct-2025**; Vilma, Daphne y Fred el **19-oct-2025**; la furgoneta como **planeador**; disfraz «**Toon Shaggy**» (más plano) y versión LEGO Fortnite; mochila «**Shaggy's Super Sandwich**» | [Render de Shaggy 2048×2048](https://static.wikia.nocookie.net/fortnite/images/b/b7/Shaggy_Rogers_%28Featured%29_-_Outfit_-_Fortnite.png): señala con una mano, la otra en la cadera, pantalón de pana. [Sándwich 512×512](https://static.wikia.nocookie.net/fortnite/images/7/7e/Shaggy%27s_Super_Sandwich_%28Featured%29_-_Back_Bling_-_Fortnite.png) | ✅ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Fortnite) y [Fortnite Wiki](https://fortnite.fandom.com/wiki/Shaggy_Rogers) |
+| **MultiVersus** | **Shaggy** y **Vilma** jugables; el Cavernícola, el «Green Ghost» y el señor Jenkins como NPC; escenario «Scooby's Haunted Mansion». Voces: Matthew Lillard y Kate Micucci | [Shaggy 703×989](https://static.wikia.nocookie.net/scoobydoo/images/5/5e/Shaggy_%28MultiVersus%29.png) y [Vilma 490×980](https://static.wikia.nocookie.net/scoobydoo/images/5/5e/Velma_%28MultiVersus%29.png): puños en alto, pintura digital con sombreado suave (no es el estilo 1969) | ✅ [Scoobypedia](https://scoobydoo.fandom.com/wiki/MultiVersus) y §13 |
+| **Dead by Daylight** | Anunciada para 2026; Dwight Fairfield con disfraz de Scooby | [Banner 1227×231](https://static.wikia.nocookie.net/scoobydoo/images/7/70/DBDXScoobyDoo.png) | ✅ [Scoobypedia](https://scoobydoo.fandom.com/wiki/Dead_by_Daylight) y Shacknews |
+| **LEGO Dimensions** | Pack con la furgoneta y Shaggy en piezas | Modelos de fans CC BY en Sketchfab (§4.1) | ✅ |
+
+**Cruce con una serie ajena**: «**Scoobynatural**» (2018), ep. 13×16 de
+*Supernatural*: Sam y Dean, dibujados en 2D, entran en «A Night of
+Fright is No Delight» ✅ ([Scoobypedia](https://scoobydoo.fandom.com/wiki/Scoobynatural)).
+El [cartón de título](https://static.wikia.nocookie.net/scoobydoo/images/9/90/Scoobynatural_titlecard.png)
+y la [persecución](https://static.wikia.nocookie.net/scoobydoo/images/c/ca/Scoobynatural_chase_scene.jpg)
+enseñan a meter a alguien ajeno **con la misma línea y color plano**.
+
+**Marcas**
+- **State Farm** (2013): 3 anuncios dirigidos por **Tony Cervone**,
+  imitando *¿Dónde estás?* y «Jeepers, It's the Creeper»; Frank Welker
+  como Scooby ✅ ([Scoobypedia](https://scoobydoo.fandom.com/wiki/State_Farm_(insurance_company)),
+  con nota de Adweek). Se retiraron sin explicación ⚠️ (sólo la wiki).
+  [Fotograma 1920×1080](https://static.wikia.nocookie.net/scoobydoo/images/f/f4/State_Farm.png).
+- **Crocs**: colección oficial, Classic Clog de Scooby, Siren Clog con la
+  furgoneta y 2 packs de Jibbitz ✅ ([crocs.com](https://www.crocs.com/c/warner-brothers/scooby-doo));
+  las fotos dieron 429 ⚠️.
+- **Scooby-galletas de Del Monte**: producto real desde los 70 (punto 25) ✅.
+
+**Juegos de mesa**
+- **Monopoly Scooby-Doo, 50 aniversario** (Hasbro, 2019): caja con arte de
+  grupo ([1500×1141](https://static.wikia.nocookie.net/scoobydoo/images/3/3c/Monopolysc50.jpg)) ✅.
+- **Scooby-Doo de CMON**: cooperativo con miniaturas; «Monster Duos» trae
+  a **Dick Dastardly y Muttley** (de *Los autos locos*, otra serie de Hanna-Barbera) como villanos ([1500×1123](https://static.wikia.nocookie.net/scoobydoo/images/c/c5/Dick_Dastardly_and_Muttley_-_Monster_Duos_-_CMON_Scooby_Doo_Board_Game.png)) ✅.
+
+**Parques y eventos**
+- **Warner Bros. World Abu Dhabi**: «**Scooby-Doo: The Museum of
+  Mysteries**», atracción sin raíles dentro de un museo embrujado con las
+  máscaras de los villanos ✅ ([web oficial](https://www.wbworldabudhabi.com/en/rides/scooby-doo-the-museum-of-mysteries)
+  y prensa). Referencia para el concepto B.
+- **Cafeterías**: **no encontré** una cafetería oficial fija. Lo más
+  cercano con licencia: «**Scooby-Doo EATS**», comida congelada ⚠️ (una
+  nota de prensa). Los bares temáticos de fans no cuentan.
+
+**Figuras oficiales (pose en 3D)**
+- **BendEms**: los cinco, cuerpo entero, **G-28 Shaggy, G-29 Vilma, G-30
+  Fred, G-31 Daphne, G-32 Scooby** (hoja 2) ✅. Proporciones oficiales:
+  maniquí de pose.
+- **Funko Pop**: Shaggy (G-44), Scooby-Dum, Daphne, Fred Bat. Cabezones:
+  **no usar para proporciones**.
+- **NECA** «Scooby and Shaggy with Glow-in-Dark Ghost» (#70287, 2024) ⚠️
+  (sólo tiendas, sin ficha del fabricante).
+
+**Cosplay con volumen real (licencia libre)**
+- **Vilma, MegaCon 2014**, de Howie Muzika ([foto](https://live.staticflickr.com/3791/13323339174_dd2853781a_b.jpg),
+  689×1024, CC BY-NC-ND 2.0): canalé grueso, falda plisada con sombra,
+  lupa de utilería ✅.
+- **Vilma infantil, Long Beach 2011**, de Doug Kline ([foto](https://live.staticflickr.com/6051/6301174573_94570daa14_b.jpg),
+  768×1024, CC BY-NC 2.0) ✅.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+**De dónde sale** (lo dijo quien la encargó, Fred Silverman): de los
+seriales de radio **«I Love a Mystery»** y de la sitcom **«The Many Loves
+of Dobie Gillis»**. Fred ↔ Dobie, Daphne ↔ Thalia, Vilma ↔ Zelda, Shaggy ↔
+Maynard G. Krebs ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Scooby-Doo),
+[Decades](https://dev.decades.com/articles/jinkies-the-characters-of-scooby-doo-were-based-on-the-many-loves-of-dobie-gillis),
+[CBR](https://www.cbr.com/tv-legends-revealed-jinkies-the-mysterious-origins-of-scooby-doo/)).
+Parecido con **Los Cinco** de Enid Blyton ⚠️ (una fuente). La leyenda de
+los Five Colleges de Massachusetts **es falsa**: la desmintieron Silverman
+y Mark Evanier ✅.
+
+**Clones de la época** (misma fórmula: chicos, mascota y misterio) ✅
+([MovieWeb](https://movieweb.com/scooby-doo-ripoffs/),
+[CBR](https://www.cbr.com/scooby-doo-best-tv-cartoons-used-formula/),
+[ScreenRant](https://screenrant.com/animated-scooby-doo-ripoffs-made-by-hanna-barbera/)):
+
+| Serie | Años | En qué cambia |
+|---|---|---|
+| *Josie and the Pussycats* | 1970-71 | Son banda de verdad |
+| *The Funky Phantom* | 1971-72 | El fantasma es real y ayuda |
+| *The Amazing Chan and the Chan Clan* | 1972-73 | Familia de detectives con perro |
+| *Speed Buggy* | 1973-74 | El personaje raro es el coche |
+| *Goober and the Ghost Chasers* | 1973-74 | Los fantasmas son reales |
+| *Jabberjaw* | 1976-78 | Un tiburón baterista |
+| *Captain Caveman and the Teen Angels* | 1977-80 | Un cavernícola |
+| *Dynomutt, Dog Wonder* | 1976-77 | Perro robot superhéroe |
+
+**Lo que influyó después**
+- ***Buffy, la cazavampiros***: el grupo se llama «**la pandilla Scooby**»
+  y usan libros como Vilma; Sarah Michelle Gellar fue Daphne ✅.
+- ***Meddling Kids*** (2017), novela de Edgar Cantero: parodia ✅.
+- **«Scoobynatural»** (2018), punto 23 ✅.
+- ***Gravity Falls***: parecido de fans; **Alex Hirsch no la cita** como
+  influencia (cita *Los Simpson*) ⚠️. No usarlo como dato.
+- **Contraejemplos de tono**: *Scooby Apocalypse* (DC, 2016, monstruos
+  reales y postapocalipsis) y *Velma* (2023, §14). El fandom no los pide.
+
+**Otras biblias del servidor**: la de **Death Note** (`biblias/18-death-note/`)
+comparte investigación y deducción, pero es sombría y no tiene tablero
+de corcho ni fichas ✅ (buscado «tablero» y «pizarra»). **El tablero de
+pistas queda libre** para Scooby-Doo.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ (Wikipedia)
+1. Todo empieza con un rumor de fantasma en un sitio real de EE. UU.
+2. La pandilla llega en la Máquina del Misterio, **se separa** y busca
+   pistas; **la policía nunca resuelve el caso**.
+3. Fred monta una **trampa**; falla la mitad de las veces (§14).
+4. **El monstruo es una persona disfrazada** con motivo económico, y dice
+   «chicos entrometidos». Excepciones con monstruos reales: los cortos de
+   1980-82, *Los 13 fantasmas* (1985), *Isla del Zombi* (1998) y *La bruja
+   fantasma* (1999).
+5. Es **escéptica a propósito**: Carl Sagan la puso de ejemplo (punto 21).
+
+**La historia por arcos** ✅ (Wikipedia)
+1. **1969**: *¿Dónde estás?* se estrena el **13-sep-1969** en CBS con «What
+   a Night for a Knight»; 17 + 8 episodios. La fórmula queda fijada.
+2. **1972-73**: *Las nuevas películas*, con invitados (Batman y Robin, los
+   Harlem Globetrotters, Los Tres Chiflados).
+3. **1976-83**: *El show*; en **1979 llega Scrappy**; en 1980-82, cortos
+   sin Fred, Daphne ni Vilma y **monstruos reales**: lo más odiado.
+4. **1985-91**: *Los 13 fantasmas* y *Un cachorro llamado Scooby-Doo*,
+   donde nace **Coolsville**.
+5. **1998 en adelante**: películas para vídeo, *Isla del Zombi* y *La
+   bruja fantasma* (nacen las **Hex Girls**); casi una por año.
+6. **2002-08**: *¿Qué hay de nuevo?* (móviles e internet) y *Shaggy y
+   Scooby-Doo detectives*.
+7. **2010-13**: *Misterios S.A.*, **una sola historia larga** en
+   **Crystal Cove**, 52 episodios.
+8. **2015-21**: *Ponte en onda* y *¿Quién crees?* (invitados como Halsey,
+   Sia, Mark Hamill, Batman, Sherlock Holmes).
+9. **2021-2026**: *Velma* (2023-25, adulta, muy divisiva); en camino
+   ***Scooby-Doo: Origins*** (Netflix, imagen real, Frank Welker sigue
+   como Scooby) y ***Yokoso Scooby-Doo!***, un **anime** del estudio
+   **OLM** dirigido por **Itsuro Kawasaki**: Scooby y Shaggy de viaje por
+   Japón, anunciado por **Tubi el 18-may-2026** con Welker y Lillard ✅.
+
+**Emblemas, objetos y vocabulario**
+- Objetos: la Máquina del Misterio y su **flor** (punto 19), la placa
+  «SD», la lupa y las gafas de Vilma, la ficha «Who's Who», el periódico
+  *Daily Babbler* (§3, §7).
+- **Scooby-galletas**: Del Monte las fabrica de verdad desde los 70 ✅.
+  Se puede copiar una caja real.
+- **Las Hex Girls**: **Thorn** (voz y guitarra, Sally McKnight), **Dusk**
+  (batería) y **Luna** (teclado) ✅ (Wikipedia y Scoobypedia).
+- **Logo de «Mystery Inc.»** de 2010: no encontré ficha oficial ⚠️. Más
+  seguro el logo de 1969 (§6).
+- **Vocabulario original**: «Zoinks!», «Jinkies!», «Jeepers!», «Ruh-roh»,
+  el «like» de Shaggy, «meddling kids», «let's split up, gang». En latino,
+  §2.4.
+- **«I haven't got a Scooby»**: en el argot rimado británico,
+  «Scooby(-Doo)» rima con *clue*, así que significa **«no tengo ni
+  pista»** ✅ (Wikipedia). Guiño perfecto para #dudas.
+
+---
+
 ## 18 · Guía para generar con IA (Firefly, Canva)
 
 > [!warning] Para qué sí y para qué no
@@ -1893,10 +2259,18 @@ Con **Scooby olfateando** la fila de abajo y la lupa sobre «Del micro».
 - **TV Tropes y The Cutting Room Floor**: 403 incluso con la red
   abierta. Lo que cito de ellos sale de resúmenes de búsqueda.
 - **Encuesta oficial de popularidad**: no existe (o no la hallé).
-- **Colores de la furgoneta**: no medidos (las imágenes que tenía eran de
-  noche); van aproximados.
-- **Wikipedia**: 429 (demasiadas peticiones); cito lo que salió en la
-  búsqueda.
+- **Colores de la furgoneta**: en la segunda pasada se midieron **de
+  noche** (§5.3); **de día** siguen aproximados ⚠️, y tampoco el pañuelo
+  de Fred de cerca: ninguno de los 6 vídeos lo enseña.
+- **Wikipedia**: en la primera pasada daba 429; en la segunda **se leyó
+  entera por su API** (puntos 18, 24 y 25).
+- **Segunda pasada, lo que sigue sin comprobar**: la **cara de rabia y de
+  tristeza** con fotograma (no salen en clips cortos); el **minuto** de la
+  muerte de Hot Dog Water; los **fandubs de YouTube** por audio (YouTube
+  pidió sesión); **TikTok** en vídeo; el software exacto de *Misterios
+  S.A.*; la ficha de la figura de NECA; una segunda fuente para la
+  retirada de los anuncios de State Farm; cumpleaños y altura de la
+  pandilla; el diseño oficial del logo de «Mystery Inc.» (2010).
 - **Poly Haven y ambientCG**: bloqueados; las texturas de corcho y madera
   hay que buscarlas desde la PC.
 
