@@ -126,7 +126,7 @@ relances nada mientras tanto** (los agentes en marcha se cortan; relanzarlos en
 bucle sólo quema la recarga). Al volver, relanza una sola vez lo cortado desde
 su `Sigue:` o su parte a medias.
 
-En GitHub la vuelta dura unas 5 h 20 y luego la máquina se apaga (el mensaje de
+En GitHub la vuelta dura 5 h y luego la máquina se apaga (el mensaje de
 arranque dice la hora): en los últimos 30 minutos no lances agentes nuevos,
 cierra lo que puedas y deja `lotes/<L>.md` al día. Otra máquina sigue desde lo
 que haya en GitHub.

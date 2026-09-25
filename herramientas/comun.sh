@@ -18,7 +18,8 @@ empujar() {
     sleep "$espera"
     git push -q -u origin "$rama" 2>/dev/null && return 0
     if git fetch -q origin "$rama" 2>/dev/null; then
-      git merge -q --no-edit "origin/$rama" >/dev/null 2>&1 || true
+      # si el merge choca, se aborta: un árbol con marcadores mataría los guardados siguientes
+      git merge -q --no-edit "origin/$rama" >/dev/null 2>&1 || git merge --abort >/dev/null 2>&1 || true
     fi
   done
   local salva="$rama-salvavidas-${GITHUB_RUN_ID:-$(date +%s)}"
