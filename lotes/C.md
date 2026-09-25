@@ -1,6 +1,26 @@
 # Lote C: repasos 19-30
 
-Sesión: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
+Sesión: https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ · rama `claude/amazing-johnson-mxlnjs`
+
+## Cambio de cuenta (sesión actual)
+
+`juntar.sh` corrido (choques sólo con ramas sueltas ajenas a series 19-24 ya
+subidas, sin resolver: no son de este lote). Herramientas instaladas
+(yt-dlp, Pillow, fontTools, requests, faster-whisper, scenedetect,
+parselmouth, onnxruntime, ffmpeg, tesseract-jpn/spa). `guardar.sh --cada 300`
+en marcha.
+
+Según `siguiente.py 12 --lote C`: 19-23 completas y subidas; 24 (redactor),
+25-26 (redactor, partes listas) y 27-30 (repaso completo, sólo datos
+recolectados) pendientes.
+
+- 24 Assassination Classroom: redactor (Opus, repaso) en marcha para cerrar
+  tabla de cumplimiento y las hojas que faltan.
+- 27 Cyberpunk Edgerunners: 4 investigadores (Sonnet, repaso) en marcha.
+- 25, 26, 28, 29, 30: en cola, se lanzan según se libera hueco (máx. 5
+  agentes vivos).
+
+Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
 
 Lo lleva desde las 07:05 UTC del 25 (juntadas todas las ramas a las 07:04; choque sólo con
