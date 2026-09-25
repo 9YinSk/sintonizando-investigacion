@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://sketchfab.com/3d-models/naruto-rigged-775848d87b054a0ca7a181d32f0b79c2",
+    "fuente": "Sketchfab (API v3/models)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Naruto Uzumaki, completamente rigged (incluida la cara), 18196 caras",
+    "para_que": "Punto 18: posar a Naruto en Blender sin modelar; base para el toon shader y el contorno con Freestyle",
+    "licencia": "CC BY 4.0 (dar crédito a rithul.kamesh); diseño de personaje © Masashi Kishimoto / Shueisha / Studio Pierrot"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/naruto-uzumaki-from-naruto-shippuden-rigged-b75a418f5b61463ca5d3bea3fb62c9d7",
+    "fuente": "Sketchfab (API v3/models)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Naruto (versión Shippuden), rigged, 65674 caras (más detalle que el anterior)",
+    "para_que": "Punto 18: alternativa de mayor detalle para renders cercanos en Blender",
+    "licencia": "CC BY (dar crédito a aritrodebroy); diseño de personaje © Masashi Kishimoto / Shueisha / Studio Pierrot"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/naruto-sasuke-low-poly-rig-texture-b650b60a7bbd4f11b05a435e65116168",
+    "fuente": "Sketchfab (API v3/models)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelos 3D de Naruto y Sasuke juntos, low poly, rigged y con textura, 11992 caras",
+    "para_que": "Punto 18: escena en Blender con los dos personajes (dinámica de rivalidad) sin modelar ninguno",
+    "licencia": "CC BY (dar crédito a ronildo.facanha); diseño de personajes © Masashi Kishimoto / Shueisha / Studio Pierrot"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/low-poly-naruto-with-rig-and-running-animation-db14fc3de5b34b738e49ec3cdb83770a",
+    "fuente": "Sketchfab (API v3/models)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D low poly de Naruto con rig y animación de correr ya incluida, 9060 caras",
+    "para_que": "Punto 18: referencia de pose en movimiento (correr) lista para usar en Blender sin animar a mano",
+    "licencia": "CC BY (dar crédito a ronildo.facanha); diseño de personaje © Masashi Kishimoto / Shueisha / Studio Pierrot"
+  },
+  {
+    "url": "https://naruto.fandom.com/wiki/Akatsuki",
+    "fuente": "Narutopedia (API action=parse, sección Wardrobe/Rings)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Texto (no imagen) que explica el simbolismo de la capa de nubes rojas y los diez anillos de Akatsuki, con su kanji y dedo",
+    "para_que": "Punto 25: vocabulario de símbolos exacto (no inventar kanji) para la capa y los anillos si aparecen en la lámina",
+    "licencia": "Texto de la wiki (CC BY-SA, Fandom); los símbolos y el diseño son © Masashi Kishimoto / Shueisha"
+  },
+  {
+    "url": "https://naruto.fandom.com/wiki/Forehead_Protector",
+    "fuente": "Narutopedia (API action=parse)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Texto que confirma que la raya horizontal en la bandana significa renuncia a la aldea (no sólo 'tachado')",
+    "para_que": "Punto 6/25: dato exacto para dibujar una bandana rayada con sentido correcto",
+    "licencia": "Texto de la wiki (CC BY-SA, Fandom); el objeto es © Masashi Kishimoto / Shueisha"
+  }
+]
