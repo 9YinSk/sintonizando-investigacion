@@ -243,14 +243,18 @@ receta de Photoshop/Blender frente a las biblias de anime del equipo.
   vez de pinceles de tinta dura; para un póster tipo cartel de cine, capas
   de degradado + textura de grano fotográfico ligero imitan el acabado
   «impreso» del Far Far Away Times y del letrero de madera.
-- **Encuadres y composición**: no se encontró una entrevista específica de
-  dirección de fotografía de Shrek con detalle de planos por emoción (ver
-  «No encontré»); lo que sí es 2 fuentes ✅: el propio director Andrew
-  Adamson describió la meta del filme como **«deconstruir la idea de
-  cuento de hadas y reconstruirla como uno nuevo»**, y contó que *Shrek* se
-  hizo «como en el garaje de DreamWorks», un proyecto experimental —eso
-  explica el tono irreverente y el humor de referencias que cruza toda la
-  saga.
+- **Encuadres y composición**: el responsable de layout (planos y
+  movimiento de cámara) de *Shrek* fue **Simon J. Smith**, que ya había sido
+  el segundo *head of layout* de la historia del cine en *Antz* (1998) y
+  montó el departamento de Layout/Pre-Viz de PDI ✅ (Wikipedia, con el dato
+  cruzado en su ficha profesional). No encontré una entrevista suya (ni de
+  nadie del equipo) que detalle **qué plano o ángulo se usa para cada
+  emoción** en concreto — ver «No encontré»; lo que sí son 2 fuentes ✅: el
+  propio director Andrew Adamson describió la meta del filme como
+  **«deconstruir la idea de cuento de hadas y reconstruirla como uno
+  nuevo»**, y contó que *Shrek* se hizo «como en el garaje de DreamWorks»,
+  un proyecto experimental —eso explica el tono irreverente y el humor de
+  referencias que cruza toda la saga.
 
 ### Punto 24 · Obras parecidas y temas relacionados
 
