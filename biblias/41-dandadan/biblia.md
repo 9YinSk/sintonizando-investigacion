@@ -25,8 +25,10 @@ fecha: 2026-09-25
 >   abuela de Momo; la figura «TENITOL Momo» es **Okarun**; dos frases
 >   latinas son de Netflix, no de Crunchyroll (§28).
 > - **Punto 13 incompleto**: el investigador de voz agotó sus 2 tandas.
->   Falta la vergüenza y la tristeza de Aira despierta, y a Turbo Granny
->   le faltan alegría, tristeza, miedo y vergüenza (§8.6).
+>   Faltan la tristeza y la vergüenza de Aira despierta, el miedo de
+>   Momo, y a Turbo Granny le faltan alegría, tristeza, miedo y
+>   vergüenza. La vergüenza de Momo, que la parte no encontró, la vio el
+>   redactor en una hoja de la parte de vídeo (§8.6).
 > - ✅ = dos fuentes o visto por nosotros. ⚠️ = una sola fuente, o algo
 >   que hay que comprobar. Lo que falta está en §28 y en la tabla final.
 
@@ -2010,3 +2012,185 @@ dicen; textos cortos en la voz de la serie; y el tono de Dandadan
   (Netflix, T2).
 
 ---
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 6 key visuals oficiales (con Turbo Granny yokai y Seiko), modelo de color, logo, 3 Blu-ray, 2 tomos, encuesta ilustrada, obra de teatro, concept art, arte de 3 juegos; 3 hojas miradas número a número (§3). Sin artbook ⚠️ |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 16 momentos del ep. 1 y 10 de los eps. 2-8 con minuto, vistos de verdad, más 4 tráileres (§2). **Ninguno en 1080p con minuto**: episodios a 720p, tráileres a 512×288; los 1920×1080 de la wiki no traen minuto |
+| 3 · Fan art y 3D con licencia | ✅ | 7 modelos de Sketchfab con autor y licencia CC-BY; fan art con autor de Safebooru y Reddit; etiquetas de Danbooru; 2 fotos CC BY-SA de Taiwán sin mirar ⚠️ (§4) |
+| 4 · Fondos, luz, paleta y texturas reales | ⚠️ | 6 sitios con paleta medida con `estilo.py` y la regla cotidiano/sobrenatural; 4 sitios reales de Japón (§5). **Texturas reales (papel, tatami, madera) no se buscaron** |
+| 5 · Tipografía, una letra por uso | ✅ | logo rotulado a mano visto; 9 usos con letra libre comprobada con fontTools; **Anime Ace no trae ¿ ni ¡**, avisado (§6). Letra del opening y onomatopeya de cerca, sin encontrar ⚠️ |
+| 6 · Cómo hablan en pantalla | ⚠️ | globo del manga visto, trama para lo sobrenatural, color por bando del director con dos fuentes, títulos con la muletilla de Momo, receta y qué no hacer (§7). **Globo sólo visto vacío, sin globo de pensamiento propio y sin caja de juego** (no hay juego) |
+| 7 · Personajes y encuestas de popularidad | ✅ | encuesta oficial con votos (3 fuentes), favoritos del autor, AniList, Danbooru, Reddit (§9). Sin encuesta latinoamericana ⚠️ |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | los dos doblajes con estudio, dirección y traducción; 6 personajes con dos fuentes; 2 frases oídas con minuto y 13 de Doblaje Wiki con episodio (§10). Dos frases corregidas a Netflix |
+| 9 · Música y sonido | ✅ | 4 temas con dos fuentes, premio al opening, banda sonora de Ushio, música de 3 escenas, canciones dentro de la serie en los dos doblajes (§11). **Nombres de pistas sin saber** y efectos con una fuente ⚠️ |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 4 tráileres y 8 episodios mirados con minuto (§12). **Opening y ending sin mirar**, sin análisis en vídeo, **TikTok sin acceso** |
+| 11 · Videojuegos: interfaz y cajas | ✅ | **no hay juego propio** (Steam 0, TCRF sin página); 4 colaboraciones con fecha y fuentes (§13). Ninguna interfaz de colaboración vista ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 7 cosas que todo fan reconoce y 8 reglas de qué no hacer, con fuente (§14). Sin lista de fans de «lo que parece falso» ⚠️ |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, miedos, arco, cómo habla, cuerpo y dinámicas de Momo, Okarun, Turbo Granny, Aira y Seiko (§8). **El investigador de voz agotó sus 2 tandas**: miró los eps. 1-8 cada 15 s. **Vergüenza de Momo**: no la encontró en los eps. 1-7 (la vio después el redactor en la hoja de vídeo, ep. 5, 14:26). **Aira despierta, tristeza y vergüenza**: en el ep. 7 sólo sale inconsciente, el ep. 8 no la tiene y los 9-11 no se miraron. **Turbo Granny sin alegría, tristeza, miedo ni vergüenza**: en los eps. mirados sólo amenaza, y su *Daizukan* no describe esas caras. Faltan también el **miedo de Momo** y la alegría de Okarun con los ojos visibles. **13 de 20 caras**; ninguna inventada (§8.6) |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | Momo 9 (+2), Okarun 7 (+2), Turbo Granny 7, Aira 7, Seiko 3, con minuto o imagen y para qué sirve (§15). 3 poses de «Turbo Granny» corregidas a Seiko |
+| 15 · Vestuario con hex | ✅ | hex de Momo, Okarun, el gato de Turbo Granny y Aira sobre arte oficial; línea medida; otras ropas vistas (§16). Seiko sin hex ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 9 sitios con hora y luz; 12 fondos de Wallhaven con tamaño y autor hasta 8192×4096 (§17). Sin fondos oficiales ⚠️ |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias, voz de cada uno y frases reales por emoción, vocabulario visual (§18). Turbo Granny y Aira sin frases de alegría, ánimo o tristeza ⚠️ |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Tatsu (papel y digital), Onda, Kameda, Yamashiro; 3D para aliens y 2D para yokai; ritmo 1,25×; recetas de Photoshop y Blender; encuadres (§19). Programa de animación sin confirmar ⚠️ |
+| 19 · Texturas 2D | ✅ | trama vista, 3 recursos libres de trama, logo, medallón, talismán, damasco, caligrafía (§20). Sin grano de papel ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | gustos, odios, aficiones, lema, horas de sueño y detalles de los 4 del *Daizukan* (§21). **Sin cumpleaños ni altura** |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | audiencia, premios, identificación; la escena del ep. 7 con cómo está hecha, su música y reacciones; escenas de grito y risa con minuto (§22). **Minuto del ep. 7 aproximado y sin vídeos de reacción** |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 2 covers con vistas, clips de fans, parodia con los actores oficiales, pódcast (§23). **TikTok sin cifras** y sin fandubs largos |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 6 colaboraciones (2 con dos fuentes), 9 figuras con imagen, obra de teatro y guía de cosplay (§24). Sin café ni Fortnite ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 15 parecidas de AniList, influencias del autor y del director, 7 láminas vecinas del servidor (§25) |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | reglas en 5 líneas, 13 arcos en 2 sagas, objetos y vocabulario (§26). Nombres de arcos no oficiales ⚠️ |
+| Tres conceptos de lámina | ✅ | A 📻 RADIO EN VIVO (revista de Okarun), B #log-mod (el gato de Turbo Granny), C 🍿 Cine (Momo), con canal propuesto; ninguno choca con 37-40 (§0, §27) |
+| Canal propuesto | ✅ | 📻 RADIO EN VIVO, el único canal público que nadie pide (§0) |
+| 40 fuentes distintas | ✅ | más de 40 webs enlazadas: sitio oficial, wikis en 3 sitios de Fandom, Doblaje Wiki, prensa en inglés y español, AniList, bancos de arte, 3D, letras, vídeo, música, tiendas, Reddit |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | ✅ oficiales (sitio japonés, tráileres, tiendas), entrevistas del staff (Yamashiro, Tatsu, Góngora), japonés (sitio, Mantan-Web, transcripciones), wikis, foros (Reddit, dafont, MyAnimeList citado), arte (Pixiv, Danbooru, Safebooru, Wallhaven), vídeo, 3D, doblaje latino. ⚠️ **Coreano y chino: nada**; **GitHub: nada**; TCRF, DeviantArt, Behance y Wayback dieron 403; TV Tropes no se consultó |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas número a número, con lo que no sirve (§3) |
+| `referencias.json` | ✅ | todas las útiles de las 4 partes y de `datos.json`, las mejores primero, con tamaños medidos (los que faltaban, medidos por el redactor); la figura mal nombrada, corregida |
+| Frases del doblaje latino textuales, con vídeo y minuto | ⚠️ | 2 frases oídas con su minuto en el episodio con audio latino, más una tercera con ruido (§10.3). Las 13 de Doblaje Wiki, **sin minuto**; sin clips oficiales doblados |
+| Mirar los vídeos de verdad | ⚠️ | tráileres y 8 episodios mirados con `fotogramas.py` y `episodio.py`. **Opening y ending sin mirar** |
+| Colores medidos, no inventados | ✅ | más de 40 hex, todos de `estilo.py` sobre fotogramas o arte oficial; el de «Evil Eye», a ojo y avisado ⚠️ |
+
+---
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes, la del recolector y lo que
+hizo el redactor. ✅ = confirmado con dos fuentes o visto; ⚠️ = una
+fuente o por comprobar.
+
+### 29.1 Recolector (`recolectar.py`, sin IA, 24-sep-2026)
+
+- **AniList**: ficha, staff, 25 personajes con favoritos y voces, obras
+  parecidas, enlaces oficiales ✅.
+- **Doblaje Wiki** (API `action=parse`): ficha, «Datos de interés». La
+  tabla de repartos salió rota: la rehízo la parte de voz ✅.
+- **Fandom** (`dandadan`): 4 personajes, 141 imágenes, 2 hojas de
+  contacto ✅.
+- **Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion,
+  Internet Archive, MusicBrainz, Steam, Reddit** ✅.
+- **Fallos**: AnimeThemes (HTTP 522). Sketchfab con «DAN DA DAN» trajo
+  objetos sin relación; Safebooru repitió a Momo como Okarun; Openverse
+  y MusicBrainz trajeron cosas que se llaman «Dan».
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **API de Fandom**: categorías «Locations», «Blu-ray & DVD Volume
+  Images», «Volume 1 Images»; búsqueda de texto «volume cover», «school
+  emblem», «Occult Research Club» (inglés).
+- **Danbooru y Safebooru**: la etiqueta real de Okarun.
+- **Sketchfab** con «Dandadan» (inglés).
+- **Sitio oficial japonés** anime-dandadan.com (HTML con curl).
+- **WebSearch** (6, inglés): «Dandadan collaboration cafe event 2026»,
+  «Dandadan Fortnite OR gacha», «Dandadan Good Smile Nendoroid Pop Up
+  Parade», «Dandadan cosplay costume tutorial materials», «Dandadan
+  Uniqlo OR GU OR Ichiban Kuji», «manga screentone halftone texture
+  pack free CC0». En japonés: «画集 ダンダダン».
+- **WebFetch**: goodsmileus.com, manga-with-stef.com, graphicsbunker.com.
+- `estilo.py` sobre 8 imágenes oficiales; tamaños con Pillow en más de
+  20.
+- **No encontró**: artbook, fondos oficiales, café temático, Fortnite,
+  escudo de Kami High, Ichiban Kuji oficial.
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- **Inglés**: «Dandadan anime opening theme "Otonoke" ending song season
+  1 list», «Dandadan season 2 opening ending theme song 2025», «Dandadan
+  anime iconic sound effect running gag catchphrase "Okarun"
+  onomatopoeia», «Dandadan TikTok trend», «Dandadan meme video
+  analysis».
+- **Directo**: api.animethemes.moe (2 intentos, 522), animethemes.moe
+  (página de mantenimiento), API de dandadan.fandom.com, API de
+  soundeffects.fandom.com (tras 2 intentos con Cloudflare), Wikipedia,
+  yt-dlp sobre 3 clips de Dailymotion y 2 episodios de Internet Archive.
+- **Herramientas**: `fotogramas.py --cortes` (3 tráileres, 9 hojas),
+  `episodio.py` (eps. 1 y 5: 484 y 404 planos, Whisper en japonés),
+  `estilo.py` (5 fotogramas).
+- **No encontró**: análisis en vídeo, TikTok, lista de pistas con
+  minutos; YouTube pidió iniciar sesión.
+
+### 29.4 Investigador de voz (puntos 7, 8, 12, 13, 20, 21, 22; 2 tandas, agotadas)
+
+- **Doblaje Wiki** (wikitext completo): repartos, datos de interés,
+  créditos.
+- **Fandom**: wikitext de Momo_Ayase, Okarun, Turbo_Granny,
+  Aira_Shiratori y Popularity_Polls.
+- **WebSearch** (~14, español e inglés): «ANMTV Dandadan doblaje latino
+  Crunchyroll elenco», «Dandadan doblaje Netflix elenco Azucena Estrada
+  José Luis Piedra ANMTV», «Fernanda Gastélum Aira Dandadan doblaje»,
+  «Elizabeth Infante Aira Dandadan Crunchyroll doblaje», «List of
+  Dandadan episodes Aira Shiratori introduced», «Dandadan Crunchyroll
+  Anime Awards 2025», «Dandadan episodio 7 made me cry reddit»,
+  «Dandadan opening español latino cover fandub», «Dandadan fandub
+  español TikTok parodia», «Dandadan fandom pet peeve misconception»
+  (sin nada útil), «Dandadan review score streaming ranking Parrot
+  Analytics», «Dandadan encuesta de popularidad Tatsu color spread»,
+  «Dandadan Daizukan altura cumpleaños».
+- `fotogramas.py` sobre Internet Archive: eps. 1, 2, 5, 6, 7 (tanda 1) y
+  3, 4, 8 (tanda 2), cada 15 s, más 15 fotogramas sueltos del ep. 3; el
+  tráiler de Dailymotion `x96npto` cada 2 s.
+- `voz.py` sobre `dan-da-dan-latino-01` (segundos 0-150 y 800-920).
+- yt-dlp `--skip-download` para 3 covers (2 respondieron).
+- **No encontró**: vergüenza de Momo (eps. 1-7), tristeza y vergüenza de
+  Aira despierta, 4 caras de Turbo Granny, cumpleaños y altura, lista de
+  fans de «lo que parece falso», fandubs largos.
+
+### 29.5 Investigador de texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **Fandom** (API): Story Arcs, Kintama, Kito Family, Turbo Granny
+  (Trivia), Dandadan Daizukan; `allpages`; 6 imágenes bajadas y vistas.
+- **WebSearch** (13, inglés y español): «Dandadan video game official
+  2025», «Dandadan tipografía logo fuente title font», «Google Fonts
+  bold graffiti street font Japanese title free alternative Babarun
+  style», «Dandadan official collaboration mobile game gacha», «Dandadan
+  manga art style Yukinobu Tatsu screentone line art analysis»,
+  «Dandadan anime 3DCG aliens CGI compositing toon shader», «Science
+  SARU Dandadan animation style interview director software», «Dandadan
+  making of interview Fuuga Yamashiro animation production», «Dandadan
+  setting Sakaiminato Shigeru Mizuki Kitaro real location inspiration»,
+  «Dandadan anime "Clip Studio" OR "Toon Boom" OR "Adobe Animate"
+  production pipeline», «Dandadan anime cinematography camera
+  composition frame director interview visual», «site:tcrf.net
+  Dandadan», «Dandadan app store mobile game official Bandai Namco
+  Aniplex».
+- **WebFetch**: dafont (2), animeworld.info, fun-japan.jp, mantan-web.jp,
+  sakugabooru, gizmodo.com, comicbook.com. **403**: DeviantArt,
+  Behance, tcrf.net, Wayback Machine (y `web.archive.org` bloqueado por
+  la red del contenedor).
+- **fontTools** sobre 17 letras de Google Fonts y los 3 estilos de Anime
+  Ace 2.0 BB. **Steam API** (0 resultados). **Sketchfab API** (15
+  resultados, 5 con licencia comprobada). Render propio de «DANDADAN» en
+  4 letras.
+- **No encontró**: letra del opening, interfaz de *Monster Strike*,
+  onomatopeya de cerca, letra de subtítulos, programa de animación,
+  segunda fuente de la cena en doble página.
+
+### 29.6 El redactor
+
+- Leyó las 4 partes, `episodios.md`, los `datos-*.md`, los 5 `.json`,
+  `ENCARGO.md`, `AYUDANTE.md`, `EQUIPO.md`, `PETICIONES.md`,
+  `DECISIONES.md`, `servidor/reglas_del_dueno.md`,
+  `servidor/inventario.md` y `lotes/D.md`.
+- **Miró** las 3 hojas de `hojas/` número a número y 2 hojas de
+  fotogramas de la parte de vídeo (`ep05/hoja_06.jpg` y
+  `ep01/hoja_07.jpg`), con recortes ampliados. De ahí salen las
+  correcciones de §28.1.
+- Leyó el **wikitext de Doblaje Wiki** que dejó la parte de voz para
+  saber qué frase es de qué versión.
+- **Midió** con Pillow los 17 retratos, portada y banner de AniList que
+  el recolector dejó sin tamaño.
+- Para el canal: `grep '^canal:'` en todas las biblias, los 3 ejemplos
+  de `_ya_hechas/`, la tabla de salas de la biblia 29 y los avisos de
+  `lotes/D.md`.
+- No hizo búsquedas web nuevas: todo sale de las partes.
+
+### 29.7 Fuentes que no se usaron, y por qué
+
+- **YouTube** (tráiler oficial y clips doblados): pidió iniciar sesión.
+- **AnimeThemes**: caído (522).
+- **TikTok**: sin sesión.
+- **Crunchyroll**: no se usa (regla del dueño).
+- **TV Tropes, Tumblr, 4chan**: no se consultaron.
+- **Sitio oficial chino** ([e-muse](https://www.e-muse.com.tw/zh/animation/dan-da-dan/))
+  y búsquedas en **coreano**: no se hicieron.

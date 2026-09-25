@@ -375,11 +375,17 @@ coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
 
 ## No encontré
 
-- ⚠️ **Qué pista de la banda sonora suena en cada escena emotiva concreta**
-  (punto 9): `fotogramas.py` no baja audio; hicieron falta más minutos para
-  bajar el audio completo con `voz.py`/`yt-dlp` y cotejarlo con el tracklist
-  del álbum de Internet Archive. Búsquedas hechas (WebSearch): «Blue Lock OST
-  tracklist timestamps episode», sin resultado útil. Queda para otra tanda.
+- ⚠️ **Qué pista exacta suena en cada escena emotiva, minuto a minuto**
+  (punto 9): sí encontré el tracklist por personaje (arriba, `RIN.mp3`,
+  `NAGI.mp3`…), lo que ya dice qué tema es "de quién"; lo que falta es
+  confirmar CUÁNDO suena cada uno dentro de un episodio concreto — eso pide
+  escuchar el episodio con el audio puesto en marcha (`fotogramas.py` no baja
+  audio, por diseño) y cotejarlo. Con el contexto de la ficha de
+  `episodio.py` del episodio 2x14 (arriba), lo más probable por el contenido
+  de la escena es que `RIN.mp3` suene sobre el minuto 21:00-22:00 (Rin
+  aceptando perder ante Isagi) — pero es una **hipótesis razonada, no
+  confirmada de oído** → no citar como hecho en la biblia final sin
+  comprobarlo escuchando.
 - ⚠️ **Efectos de sonido/onomatopeyas que reconoce el fandom** (punto 9):
   busqué «Blue Lock sound effects iconic», «Blue Lock onomatopoeia shoot kick
   sound» (WebSearch) — sólo aparecieron *soundboards* de fans sin fuente
@@ -460,9 +466,14 @@ coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
     carácter) y para el redactor. ⚠️ Whisper confunde el nombre «凪誠士郎»
     (Nagi Seishirou) en varias líneas: revisar antes de citar textual.
 
-Sigue: bajar el audio (yt-dlp/voz.py) de 1-2 escenas clave del episodio 14 de
-la temporada 2 para identificar la pista de música exacta (punto 9, hoy sólo
-quedó el nombre del compositor y el álbum, sin cotejar el minuto); buscar un
-segundo clip limpio de Bachira fuera del teaser único; confirmar el número de
-episodio oficial de la grabación de Toonami usada para Rin; medir el hex del
-estadio (punto 4) si se necesita más detalle.
+Repaso contra ENCARGO.md antes de cerrar: los 5 puntos asignados (2, 4, 9, 10,
+14) están cubiertos con fuente y minuto; el punto 14 tiene 6-10 poses por
+personaje para los 4 (Isagi 8, Bachira 7, Nagi 8, Rin 6), cada una con
+capítulo/vídeo y minuto o enlace, como pide el encargo explícitamente. Lo que
+queda suelto (segundo clip de Bachira, número de episodio exacto de Toonami)
+ya está en «No encontré» y no bloquea lo obligatorio de ningún punto.
+
+Sigue: escuchar (con audio real, no `fotogramas.py`) el episodio 2x14 entre
+20:00 y 23:00 para confirmar de oído si sí suena `RIN.mp3` ahí — es la única
+pieza obligatoria del punto 9 («qué tema suena en las escenas más emotivas»)
+que quedó como hipótesis razonada en vez de dato confirmado.
