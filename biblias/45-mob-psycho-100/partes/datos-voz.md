@@ -219,7 +219,7 @@ At the beginning of the story, Dimple wanted to be a god. Specifically, he wante
 _Fuente: https://danbooru.donmai.us/posts?tags=mob_psycho_100_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146428 dibujos
+1. hatsune_miku · 146431 dibujos
 2. denji_(chainsaw_man) · 8144 dibujos
 3. anya_(spy_x_family) · 6789 dibujos
 4. tatsumaki · 4981 dibujos
@@ -260,10 +260,10 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 fandub español»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
+- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
-- Mob Psycho 100 Mob Vs Hanazawa Full Fight · 4:39 · lawrenceburgos69 · 164 vistas · https://www.dailymotion.com/video/x810m4w
 **«Mob Psycho 100 fandub latino»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
@@ -275,10 +275,9 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/Mobpsycho100: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/Mobpsycho100_
 
-**«favorite character»**
-- (937 votos, 16 comentarios) My favorite character in the series my man Regien tell me if you agree or who’s your favorite character. Oh and by the… · https://www.reddit.com/r/Mobpsycho100/comments/jfthth/my_favorite_character_in_the_series_my_man_regien/
-- (721 votos, 81 comentarios) I believe he just became my #1 favorite character, Deku has nothing on my boy Shigeo "Mob" · https://www.reddit.com/r/Mobpsycho100/comments/ou6y5s/i_believe_he_just_became_my_1_favorite_character/
-- (588 votos, 19 comentarios) Just finished S1, Reigen might be my favorite anime character of all time · https://www.reddit.com/r/Mobpsycho100/comments/1n0l427/just_finished_s1_reigen_might_be_my_favorite/
-- (487 votos, 70 comentarios) Who are y'alls favorite character, it's Reigen personally · https://www.reddit.com/r/Mobpsycho100/comments/1g72198/who_are_yalls_favorite_character_its_reigen/
-- (406 votos, 57 comentarios) Who is your favorite character? (My personal favorite is Reigen) · https://www.reddit.com/r/Mobpsycho100/comments/1giaqmz/who_is_your_favorite_character_my_personal/
-- (149 votos, 28 comentarios) Can you guys tell who my favorite character is? (broke ahh version😭🙏💸) · https://www.reddit.com/r/Mobpsycho100/comments/1h1f97k/can_you_guys_tell_who_my_favorite_character_is/
+**«best scene»**
+- (275 votos, 3 comentarios) Best scene. · https://www.reddit.com/r/Mobpsycho100/comments/fkiaey/best_scene/
+- (101 votos, 38 comentarios) Mob Psycho 100 won both best fight scene and best action scene in the crunchyroll anime awards · https://www.reddit.com/r/Mobpsycho100/comments/5na48u/mob_psycho_100_won_both_best_fight_scene_and_best/
+- (43 votos, 20 comentarios) This fight scene is too good....the best in the series in my opinion · https://www.reddit.com/r/Mobpsycho100/comments/asr7pp/this_fight_scene_is_too_goodthe_best_in_the/
+- (2 votos, 1 comentarios) So anyone found the song used for the best scene in S0201? · https://www.reddit.com/r/Mobpsycho100/comments/ae0kuj/so_anyone_found_the_song_used_for_the_best_scene/
+- (1 votos, 0 comentarios) Really liked this scene from the anime so tried my best to recreate it 😁 feedback appreciated · https://www.reddit.com/r/Mobpsycho100/comments/o6097r/really_liked_this_scene_from_the_anime_so_tried/

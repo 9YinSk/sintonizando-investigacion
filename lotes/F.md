@@ -1,7 +1,8 @@
 # Lote F: series nuevas 77-96
 
-Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude/sweet-wozniak-vmvzo4`
-(parte de `claude/peaceful-maxwell-fklpkp`, juntada con los lotes A, B, C, D y E).
+Sesión: https://claude.ai/code/session_01GRbSTbzn1T2CNnzzT8Trgi · rama `claude/lote-f-continuation-fsaj24`
+Cuenta: cuenta A106
+(sigue desde `claude/sweet-wozniak-vmvzo4`, sesión session_01DDNVaCpYyiQfao1M598h9e, que hizo 77 y 78 y dejó 79-81 a medias).
 
 ## Estado
 
@@ -12,6 +13,11 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 79 Demon Slayer: redactor cortado justo tras «Tres conceptos de lámina» — faltan tabla de cumplimiento, bitácora y referencias.json. Relanzado 23:50 UTC.
 - 80 Solo Leveling: vídeo cortado con un `Sigue:` legítimo ya escrito (fotograma del Rey Hormiga). Relanzado como relanzamiento corto.
 - 81 Mushoku Tensei: imagen cortado justo después de escribir imagen.md (dice «Parte terminada») pero SIN escribir imagen.json ni hojas/ — relanzado sólo para eso. Vídeo y voz no llegaron a escribir nada: relanzados desde cero.
+- **Sesión nueva** (25-sep-2026, 03:55 UTC, cuenta .106): herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: 79 redactor (sólo tabla, bitácora y referencias.json), 80 vídeo (el `Sigue:` y video.json, que faltaba), 81 vídeo, voz y texto desde cero (imagen ya está). 82-84 ya recolectadas; recolectando 85-86.
+- 79 Demon Slayer: **COMPLETA y subida** (04:0x UTC). ✅26 ⚠️12 ❌0, 130 referencias, 44 webs, 1820 líneas.
+- 80 Solo Leveling: las 4 partes completas; redactor lanzado.
+- 81 Mushoku Tensei: texto y voz terminados (sin Sigue:); imagen ya estaba; falta sólo vídeo (en marcha).
+- 82 The Rising of the Shield Hero: lanzados imagen, texto y voz (vídeo entra al liberarse hueco).
 
 ## Avisos para el dueño
 
@@ -68,3 +74,7 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 | 80-solo-leveling-el-sistema-y-las-sombras | texto | sonnet | 14 | 223273 |
 | 80-solo-leveling-el-sistema-y-las-sombras | imagen | sonnet | 16 | 261111 |
 | 81-mushoku-tensei | imagen (2 tandas: corte+arreglo) | sonnet | 12 | 156421 |
+| 79-demon-slayer-paisajes-y-auras | redactor (opus, relanzo) | opus | 6 | 168110 |
+| 80-solo-leveling-el-sistema-y-las-sombras | video (relanzo corto) | sonnet | 6 | 116105 |
+| 81-mushoku-tensei | texto | sonnet | 14 | 230387 |
+| 81-mushoku-tensei | voz | sonnet | 14 | 229337 |

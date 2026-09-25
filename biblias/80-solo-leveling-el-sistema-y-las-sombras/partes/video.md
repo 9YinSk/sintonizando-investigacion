@@ -156,7 +156,8 @@ en Bitácora). Sí vi dos vídeos que tocan la escena y los diferencio con cuida
   azul, onomatopeyas coreanas superpuestas) mezclada con capturas de un juego 3D — NO es la interfaz de
   la serie de TV. La cito sólo como referencia del cómic, nunca para «cómo se ve la interfaz del anime».
 - La escena real (Episodio 24, HØWL de fondo) queda confirmada por la wiki (galería de la canción, nombre
-  «Sung Jinwoo vs The Ant King») pero **sin fotograma propio del anime real** — ⚠️, lo dejo en Sigue.
+  «Sung Jinwoo vs The Ant King») pero **sin fotograma propio del anime real** — ⚠️ no encontrado, ver «No
+  encontré» (Dailymotion/Internet Archive/AnimeThemes agotados esta tanda).
 
 ### Punto 2 · Fotogramas de escenas icónicas (resumen con capítulo y minuto)
 
@@ -235,15 +236,30 @@ que quien escriba la biblia lo cruce con una imagen si aparece en las partes de 
 
 ## No encontré
 
-- ⚠️ Vídeo del opening 2 «ReawakeR» y del ending 2 «UN-APEX» propios (sólo datos de wiki, sin
-  storyboard ni fotograma propio) — YouTube bloqueaba justo en esos intentos; es extra sobre el mínimo (ya
-  cubrí un opening y un ending completos), lo anoto para quien continúe.
-- ⚠️ Fotograma real del anime (no fan-made, no manhwa) para la pelea con el Rey Hormiga / primera aparición
-  de Beru (Episodio 24-25): busqué en Dailymotion e Internet Archive (bitácora abajo) y sólo aparecieron
-  ediciones de fans o el manhwa animado. El archivo completo del episodio existe en Internet Archive
-  (`solo-leveling-s-2-e-11-1920x-1080`, ~1,9 GB) pero descargarlo/recortarlo por streaming HTTP tardaba
-  más de un minuto por fotograma (probado: 42 s un solo fotograma sobre un `.mkv` de 1,5 GB en otro ítem) —
-  no encajaba en el presupuesto de esta tanda.
+- ⚠️ **Storyboard de «ReawakeR» (opening 2) y de «UN-APEX» (ending 2)**: conseguí los ID de YouTube en la
+  wiki (`C0zMWogztQs` y `KxeHOxO3A3I`, wikitexto de `ReawakeR` y `UN-APEX`), pero los dos dieron «Sign in to
+  confirm you're not a bot» con `yt-dlp -j` (cliente por defecto y con `--extractor-args
+  youtube:player_client=android`, dos intentos cada uno, sin cookies) — ni siquiera llegué a listar el
+  storyboard, así que no pude bajar sus hojas `i.ytimg.com/sb/…` como hice con LEveL/request/las MV de
+  Sawano. Probé también Dailymotion (`Solo Leveling ReawakeR opening`, `Solo Leveling season 2 opening`,
+  `Solo Leveling UN-APEX ending`, `Solo Leveling season 2 ending`): sólo salieron covers de fans, trailers y
+  clips sueltos, ningún opening/ending oficial completo. Queda como dato de wiki (ver Punto 9), sin
+  storyboard ni fotograma propio.
+- ⚠️ **Fotograma real del anime (no fan-made, no manhwa) para la pelea con el Rey Hormiga / primera
+  aparición de Beru (Episodio 24-25)**: en esta tanda probé Dailymotion con más búsquedas (`Solo Leveling
+  episode 24`, `episode 25`, `Beru first appearance`, `Ant King fight real`) — dos resultados parecían
+  reales («Jinwoo VS Beru - 4K Fight Scene», `x9gm13k`, y «Arise, Beru!», `x9j1zko`) pero los dos daban
+  404 «this video does not exist or has been deleted» al comprobarlos (API de Dailymotion y `yt-dlp -j`),
+  es decir se borraron entre que salieron en la búsqueda y que los abrí. El resto de resultados eran vídeos
+  cortos genéricos, fan-made o el «Live Action»/manhwa ya descartados en la tanda anterior. En Internet
+  Archive busqué por identificador (`solo-leveling-s-2-e-12…`, `solo-leveling-s-2-e-13…`, comodín
+  `solo-leveling-s-2-e-*`): sólo existe el ítem de la Temporada 2 Episodio 11
+  (`solo-leveling-s-2-e-11-1920x-1080`, ítem completo ~13,2 GB) — no hay ítem para el 24-25 (S2E12-13), y
+  el de S2E11 ya se probó como demasiado lento para recortar por streaming (bitácora de la tanda anterior:
+  42 s por fotograma). AnimeThemes (`api.animethemes.moe`) lo reintenté una vez más al empezar esta tanda:
+  sigue colgándose hasta el timeout (mismo síntoma de siempre). Con las dos vías de YouTube y los intentos
+  de Dailymotion/Internet Archive/AnimeThemes agotados dentro del presupuesto de esta tanda, cierro este
+  punto como no encontrado.
 - Tráiler doblado al hindi de Crunchyroll India (Temporada 2): sólo confirmé que existe, no lo miré.
   Extra, no obligatorio (ya hay un tráiler mirado entero).
 - No encontré un nombre propio para el sonido de la caja del Sistema (tintineo que sí se oye en los tres
@@ -286,6 +302,16 @@ que quien escriba la biblia lo cruce con una imagen si aparece en las partes de 
 - Cruce de datos con `partes/texto.md` (mismo equipo, punto 5/6/11): sus colores medidos sobre
   `Anime_System.png` (imagen fija) y los míos (vídeo en movimiento) coinciden en la lógica de colores por
   tipo de ventana — going citado arriba.
+- **Relanzamiento (cierre de los dos pendientes)**: `solo-leveling.fandom.com/api.php?action=parse` sobre
+  `ReawakeR` y `UN-APEX` para sacar sus ID de YouTube (`C0zMWogztQs`, `KxeHOxO3A3I`); `yt-dlp -j` sobre los
+  dos (cliente por defecto y `player_client=android`, sin cookies, dos intentos cada uno) → «Sign in to
+  confirm you're not a bot» siempre. **api.dailymotion.com**: `Solo Leveling ReawakeR opening`, `Solo
+  Leveling season 2 opening`, `Solo Leveling UN-APEX ending`, `Solo Leveling season 2 ending`, `Solo
+  Leveling episode 24`, `Solo Leveling episode 25`, `Solo Leveling Beru first appearance`, `Solo Leveling
+  Ant King fight real` — los dos resultados con pinta de clip real (`x9gm13k`, `x9j1zko`) resultaron
+  borrados (404 al comprobarlos con la API y con `yt-dlp -j`). **archive.org** `advancedsearch.php` con
+  `identifier:solo-leveling-s-2*` → sólo existe el ítem de S2E11, ningún ítem de S2E12/13 (episodios
+  24-25). **AnimeThemes** reintentado una vez (curl con timeout de 12 s): sigue sin responder.
 
-Sigue: fotograma real del anime (episodio 24-25, Rey Hormiga/Beru) si aparece un mirror completo más
-ligero; storyboard de ReawakeR/UN-APEX si YouTube deja de bloquear.
+Cierro los dos pendientes de la tanda anterior como «No encontré» (ver esa sección) tras agotar YouTube,
+Dailymotion, Internet Archive y AnimeThemes dentro del presupuesto de esta tanda corta.

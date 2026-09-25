@@ -1,8 +1,9 @@
 # Lote D: series nuevas 37-56
 
-Sesión: https://claude.ai/code/session_017Bdo1vVTP52B1g5XVhioTn · rama `claude/ecstatic-rubin-o122ix`
+Sesión: https://claude.ai/code/session_016HuCL65kBZKca82w7q7wBB · rama `claude/gracious-rubin-uq9tb3`
 Cuenta: cuenta I43
-(sigue desde `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, que hizo 37-40).
+(sigue desde `claude/ecstatic-rubin-o122ix`, sesión session_017Bdo1vVTP52B1g5XVhioTn, que dejó 41-43 a medias;
+antes, `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, que hizo 37-40).
 
 ## Estado
 
@@ -13,6 +14,15 @@ Cuenta: cuenta I43
 - 41 Dandadan: 4 partes listas (voz agotó sus 2 tandas; punto 13 queda ⚠️). Redactor (Opus) en marcha desde 25-sep.
 - 42 Blue Lock: imagen y texto listos; video y voz (Sonnet) en marcha desde 25-sep. 43-48: recolectando de nuevo con hojas (se perdieron con el contenedor).
 - 43 Kaguya-sama: texto listo (31✅ 16⚠️, 23 refs); descubrió que el «juego de Steam» de la serie es una estafa (fan art robado), marcado para no usarlo. Imagen en marcha; video y voz cuando haya hueco.
+- Cambio de cuenta (25-sep, 04:10 UTC, sesión gracious-rubin): herramientas instaladas; guardar.sh cada 300 s.
+  41: redactor (Opus) relanzado a las 04:12 (el anterior se cortó con 220 líneas).
+  42: video (Sonnet) relanzado para terminar su parte; imagen, voz y texto listos.
+  43: video (Sonnet) nuevo y voz (Sonnet, 2.ª tanda: caras de Hayasaka e Iino) a las 04:16; imagen tras recolectar con hojas.
+  43: voz terminada (caras de Hayasaka e Iino con arte oficial, sin `Sigue:`); imagen (Sonnet) en marcha desde 04:30.
+  44: recolectado (AniList repetido con «Your Lie in April»); texto (Sonnet) en marcha desde 04:32.
+  45-46: recolectados con hojas; 47-48 sin recolectar (47 con «Oliver y Benji»).
+  04:26: el dueño paró todo. Quedan a medias: 41 redactor (biblia a medias), 42 video (le falta
+  quitar su `Sigue:`), 43 imagen y video, 44 texto. Guardado y subido; nada en marcha.
 - 47 Captain Tsubasa: la recolección automática casi no encontró nada con ese nombre — el título latino es **«Oliver y Benji»**. Hay que repetir: `python3 herramientas/recolectar.py 47-captain-tsubasa-supercampeones --nombres "Captain Tsubasa" "Oliver y Benji" --wiki captaintsubasa --personajes "Tsubasa Oozora" "Genzo Wakabayashi" "Kojiro Hyuga" --hojas`.
 
 ## Avisos para el dueño
@@ -37,3 +47,4 @@ Cuenta: cuenta I43
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 43 Kaguya-sama | voz (2.ª tanda) | Sonnet | 9 | 163 143 |
