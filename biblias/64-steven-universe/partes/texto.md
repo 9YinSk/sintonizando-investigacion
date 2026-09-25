@@ -8,11 +8,52 @@ toda la investigación de abajo es de cero.
 
 ## Punto 5 · Tipografía
 
-(pendiente)
+Steven Universe no es manga, así que no hay «letra de globo» de una editorial; en su lugar hay: el logo, las cartelas de título de cada episodio, los créditos finales, el cómic oficial de BOOM! Studios, la escritura del propio mundo (Gem Glyph, ver punto 25) y las interfaces de los videojuegos (ver punto 11).
+
+### Logo / título
+- El logo es una rotulación propia (no un tipo de letra normal): redondeada, con un brillo tipo gema · [MadeGoodDesigns: What Font Does Steven Universe Use?](https://madegooddesigns.com/steven-universe-font/) · ⚠️ (sitio de fuentes tipográficas, no de producción — describe el logo pero no cita al diseñador original)
+- **Letra libre más parecida (réplica):** **Crystal Universe**, de MaxiGamer, en DaFont — dice explícitamente que replica «the font used for the logo of the animated television show Steven Universe» · [DaFont: Crystal Universe](https://www.dafont.com/crystal-universe.font) · ⚠️ (licencia «100% Free» según la ficha; **no pude comprobar tildes/ñ/¿/¡ con fontTools**: el zip de descarga falló dos veces, 0 bytes — pendiente si alguien tiene otro acceso a dafont)
+
+### Cartelas de título de episodio (title cards)
+- **Letra libre comprobada con fontTools:** **Crewniverse**, de MaxiGamer (DaFont) — «replicates the one used for the title cards of the TV show Steven Universe, as well as the logo of the Steven Crewniverse's Tumblr» · [DaFont: Crewniverse](https://www.dafont.com/crewniverse.font) · ✅ **medido yo mismo**: descargué el `.ttf` y comprobé con `fontTools` (`TTFont(f).getBestCmap()`) que **SÍ trae á é í ó ú, Á É Í Ó Ú, ñ, Ñ, ¿, ¡ y ü** — sirve para escribir en español sin perder ningún carácter. Licencia: 100% gratis.
+
+### Créditos finales
+- **Letra libre más parecida:** **Creditverse**, de MaxiGamer (DaFont) — «replicates the one used for the end credits of the TV show Steven Universe» · [DaFont: Creditverse](https://www.dafont.com/creditverse.font) · ⚠️ **medido yo mismo con fontTools: NO trae tildes, ñ, ¿ ni ¡** (0 de los 14 caracteres probados). Si se usa para créditos en español hay que sustituir esos caracteres a mano o buscar otra alternativa; no sirve para texto largo en español sin arreglos. Licencia: 100% gratis.
+
+### Cómic oficial (BOOM! Studios) — el «globo normal» de la franquicia
+- Hay dos series de cómics oficiales: una miniserie de 2014-2015 (guion de Jeremy Sorese, arte de Coleman Engle) y una serie regular desde 2017 (guion de Melanie Gillman, arte de Katy Farina, color de Whitney Cogar) · [Fandom: Steven Universe (comic series)](https://steven-universe.fandom.com/wiki/Steven_Universe_(comic_series)) + [ComicsAlliance](https://comicsalliance.com/boom-steven-universe-ongoing-melanie-gilman-katy-farina/) · ✅
+- Una reseña de la miniserie 2014-2015 critica el diseño de sus globos de diálogo: «the layout and design for the speech bubbles in a few of the issues are extremely distracting, as they're whimsical, but difficult to focus on and look a bit awkward» — es decir, en la primera etapa los globos eran decorativos y poco legibles · fuente indirecta (resumen de búsqueda de reseñas; **no pude confirmar la reseña exacta en su página de origen**, `comicosity.com` no resolvió DNS) · ⚠️ **una sola fuente, sin poder verificar el original — no usar esta cita como definitiva sin revisar el cómic físico o su página de reseña**
+- No encontré el nombre del rotulista (letterer) de ninguna de las dos series ni en Fandom ni en las páginas de reseña que pude abrir · búsquedas: «Steven Universe comic BOOM Studios lettering font credits letterer» (inglés) y wikitext de la página del cómic (sin la palabra «letter») · ⚠️ **no encontré, con las búsquedas dichas** (no es que no exista: sólo no aparece en las fuentes que pude abrir en esta tanda)
+
+### Interfaz de videojuego y subtítulos
+- La escritura del mundo (**Gem Glyph**) funciona como fuente real y sustituible letra a letra únicamente en *Unleash the Light*, donde aparece en los carteles de las colonias — ver el punto 25 para el detalle completo del sistema de glifos y sus reglas · [Fandom: Gem Glyph](https://steven-universe.fandom.com/wiki/Gem_Glyph) · ✅
+- No encontré una fuente identificada para los menús/HUD de *Attack the Light*, *Save the Light* ni *Unleash the Light* (`gameuidatabase.com` está bloqueado por un reto de Cloudflare, ver punto 11); tampoco encontré una ficha oficial de qué tipografía usa Cartoon Network para los subtítulos/CC de la emisión · búsquedas hechas: «Steven Universe game font UI» y revisar wikitext de las tres fichas de videojuego · ⚠️ **no encontré, con las búsquedas dichas**
+
+**Fuentes de este punto:** DaFont (Crewniverse, Creditverse, Crystal Universe, con licencia y comprobación de caracteres hecha por mí con fontTools), Fandom (comic series, Gem Glyph), ComicsAlliance, MadeGoodDesigns.
+**Bloqueado:** la descarga de Crystal Universe (`dl.dafont.com`) dio 0 bytes dos veces — no pude comprobar sus caracteres.
 
 ## Punto 6 · Cómo hablan y piensan en pantalla
 
-(pendiente)
+Aviso general: Steven Universe es una serie animada, no un manga o cómic — así que **no usa globos de diálogo en pantalla** casi nunca. El «cómo hablan» de la serie es actuación (voz + gesto), no una burbuja. Los globos y cartelas de texto reales de la franquicia aparecen en el **cómic** (BOOM! Studios) y en objetos concretos del mundo. Esto es un dato importante para la lámina: **no le pongas a Steven Universe una burbuja blanca de cómic genérica**, porque la serie casi no las usa; usa objetos y pantallas del propio mundo gema.
+
+### Objetos y pantallas que hacen de «cuadro de diálogo» dentro de la ficción
+- **El Comunicador de las Diamantes (Diamond Communicator):** objeto octaédrico con una faceta de color por Diamante (blanco, amarillo, azul, rosa); al girarlo 180° y elegir un color, **proyecta una pantalla holográfica** para hablar en directo con esa Diamante — es el dispositivo de «videollamada» de la serie · [Fandom: Diamond Communicator](https://steven-universe.fandom.com/wiki/Diamond_Communicator) · ✅ (la mecánica se repite en varios episodios citados en la misma página, cruzado con el punto 25)
+- **El libro «Tale of Steven»** que lee White Diamond en la película: texto en inglés Y en Gem Glyph al mismo tiempo, uno junto al otro — el único caso confirmado donde el mundo muestra **las dos escrituras en la misma página** · [Fandom: Gem Glyph](https://steven-universe.fandom.com/wiki/Gem_Glyph) · ✅ (ver punto 25 para el detalle del glifo)
+- **Carteles con Gem Glyph** en Little Homeworld, en las columnas del Sky Arena, en la Fragua y en los carteles de las colonias de *Unleash the Light* — el «cartel del mundo» real de la franquicia no es un cartel latino con letras humanas, es logográfico · misma fuente · ✅
+- **El blog de Ronaldo Fryman, «Keep Beach City Weird»**: un blog de Tumblr real (parte del *marketing* transmedia, empezó el 19 de septiembre de 2013, antes del estreno) donde el personaje cataloga sucesos raros de Beach City; en el show se menciona cuando publica fotos desde Fish Stew Pizza — es el ejemplo más claro de «texto que un personaje escribe y que existe fuera de la pantalla también» · [Fandom: Keep Beach City Weird (blog)](https://steven-universe.fandom.com/wiki/Keep_Beach_City_Weird_(blog)) cita un tuit de Matt Burnett (guionista) sobre una entrada nunca publicada · ✅
+
+### Pensamientos
+- La serie **no usa nubes de pensamiento**: cuando hay que mostrar la mente de un personaje (recuerdos, sueños, imaginación), se anima la escena entera como una secuencia propia (ej. las visualizaciones de terapia de «Mindful Education») en vez de dibujar una nube con un dibujo dentro · deducción a partir de no encontrar ninguna mención de «thought bubble» en la wiki tras buscarlo (`srsearch=thought bubble`) · ⚠️ **no encontré una fuente que lo diga explícitamente; es ausencia de evidencia, no until confirmado con el investigador de video que sí mira fotogramas de escenas de sueño/recuerdo**
+
+### El cómic oficial: el único «globo» real de la franquicia
+- La miniserie de 2014-2015 (Jeremy Sorese/Coleman Engle) tuvo una reseña que describe sus globos como decorativos y poco legibles: «the layout and design for the speech bubbles... are extremely distracting, as they're whimsical, but difficult to focus on and look a bit awkward» · fuente indirecta, **sin poder abrir la reseña original** (`comicosity.com` no resolvió) · ⚠️ una sola fuente, sin verificar en el original
+- No pude ver una página real del cómic en esta tanda para describir la forma exacta del globo (ovalado, con rabito, etc.) — pendiente de mirar un número físico o una vista previa oficial de BOOM! Studios · búsquedas hechas: «Steven Universe comic word balloon style», wikitext de `Steven Universe (comic series)` · ⚠️ **no encontré, con las búsquedas dichas**
+
+### Videojuegos
+- Las cajas de diálogo de *Attack the Light* y *Unleash the Light* no las pude ver directamente (`gameuidatabase.com` bloqueado por Cloudflare, ver punto 11); lo que sí está confirmado por texto es que la barra de vida se llama «harmony» y no «HP», y que en *Unleash the Light* los letreros usan Gem Glyph como fuente real — ver punto 11 para el detalle completo · ⚠️ **sin capturas propias verificadas del diseño exacto de la caja de texto**
+
+**Fuentes de este punto:** Fandom (Diamond Communicator, Gem Glyph, Keep Beach City Weird), cruzado con los puntos 11 y 25 de esta misma parte.
+**No pude verificar:** el diseño exacto del globo de diálogo del cómic (sitio de reseña caído) y de las cajas de diálogo de los tres videojuegos (Game UI Database bloqueado).
 
 ## Punto 11 · Videojuegos de la franquicia
 
