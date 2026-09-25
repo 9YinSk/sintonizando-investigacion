@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Kaguya-sama: Love is War
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -24,7 +24,7 @@ _Fuente: https://api.dailymotion.com_
 **«Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen trailer»**
 **«Kaguya-sama: Love is War escena»**
 - Kaguya-Sama: Love is war Tráiler VO · 0:30 · Sensacine · 2780 vistas · https://www.dailymotion.com/video/x88pf8w
-- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1888 vistas · https://www.dailymotion.com/video/x9vqmls
+- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1889 vistas · https://www.dailymotion.com/video/x9vqmls
 - Kaguya-sama: Love is war - temporada 3 Tráiler VOSE · 1:55 · Sensacine · 1116 vistas · https://www.dailymotion.com/video/x8bc80m
 - Kaguya-sama : Love is War saison 1 Bande-annonce VO · 1:40 · Allociné · 740 vistas · https://www.dailymotion.com/video/x8a2p43
 - 'Kaguya-sama: Love Is War – The First Kiss Never Ends' - Tráiler · 0:35 · Espinof · 733 vistas · https://www.dailymotion.com/video/x8f2tz7

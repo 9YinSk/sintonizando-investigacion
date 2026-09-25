@@ -1,0 +1,353 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/48/Infinity_Castle_Trilogy_IMAX_Key_Visual.png/revision/latest?cb=20250722024327",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 2898,
+  "alto": 4096,
+  "que_es": "Key visual IMAX de la trilogía Infinity Castle",
+  "para_que": "Referencia de composición personaje+arquitectura imposible del castillo",
+  "licencia": "uso editorial/fair use, arte oficial de Ufotable/Aniplex vía wiki de fans"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c0/Mugen_Train_Key_Visual_2.jpeg/revision/latest?cb=20200410142729",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 2898,
+  "alto": 4096,
+  "que_es": "Key visual de la película Mugen Train",
+  "para_que": "Referencia de paisaje nocturno con tren y humo",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+  "fuente": "AniList (anime 21612)",
+  "ancho": 640,
+  "alto": 902,
+  "que_es": "Portada oficial de temporada",
+  "para_que": "Referencia de portada/arte clave",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/0d/Infinity_Castle_Tanjiro_Full_Body_%28Anime%29.png/revision/latest?cb=20250709052751",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 2100,
+  "alto": 2854,
+  "que_es": "Tanjiro cuerpo completo, arco Infinity Castle",
+  "para_que": "Referencia de pose y vestuario",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4c/Muichiro_Tokito_Full_Body_%28Anime%29.png/revision/latest?cb=20241010231022",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1281,
+  "alto": 1830,
+  "que_es": "Muichiro cuerpo completo",
+  "para_que": "Referencia de pose y vestuario (hex medido)",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9c/Kyojuro_Rengoku%27s_Story_Illustration.png/revision/latest?cb=20201011220104",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 773,
+  "alto": 1074,
+  "que_es": "Ilustración de Kyojuro Rengoku (Pilar de la Llama)",
+  "para_que": "Referencia de vestuario; hex del degradado de fuego del haori medido con Pillow",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9b/Kyojuro%27s_introduction.png/revision/latest?cb=20191130155010",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1273,
+  "alto": 660,
+  "que_es": "Escena de presentación de Kyojuro Rengoku",
+  "para_que": "Referencia de pose y expresión",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9c/Shinobu_body.png/revision/latest?cb=20200219234432",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 978,
+  "alto": 1074,
+  "que_es": "Shinobu Kocho cuerpo completo",
+  "para_que": "Referencia de pose y vestuario",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/99/Butterfly_Mansion_Anime.png/revision/latest?cb=20191215161736",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Vista de la Mansión Mariposa en el anime",
+  "para_que": "Fondo de sitio; paleta medida con Pillow (#32403B, #55624D, #A9E0F8)",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/66/Doors_open_to_the_Infinity_Castle.png/revision/latest?cb=20240702085831",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Puertas y pasillo del Castillo Infinito",
+  "para_que": "Fondo de sitio; paleta medida con Pillow (#673A20, #98592D, #F1CB86)",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2d/Tanjiro_admiring_the_Wisteria.png/revision/latest?cb=20190508194209",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tanjiro frente al bosque de glicinas del Monte Fujikasane",
+  "para_que": "Fondo de sitio; paleta medida con Pillow (#3B2D85, #906CE8, #C09CEB); fondo pintado por el director de arte Kazuo Ebisawa",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9a/Kimetsu_no_Yaiba_Asakusa_Arc_Key_Visual.png/revision/latest?cb=20210831024320",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1358,
+  "alto": 1920,
+  "que_es": "Key visual del arco de Asakusa, calle nocturna con linternas",
+  "para_que": "Referencia de ciudad de noche",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6o/wallhaven-6oog7q.jpg",
+  "fuente": "Wallhaven (API, origen Pixiv)",
+  "ancho": 6344,
+  "alto": 3480,
+  "que_es": "Fondo de pantalla de fans más favorito con el tag kimetsu no yaiba",
+  "para_que": "Fondo de pantalla alternativo en alta resolución",
+  "licencia": "según autor en Pixiv (fan art, sólo referencia; no redistribuible como propio)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ymwj9d.jpg",
+  "fuente": "Wallhaven (API, origen Pixiv)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de fans, 2.º más favorito",
+  "para_que": "Fondo de pantalla 1080p listo para escritorio",
+  "licencia": "según autor en Pixiv (fan art, sólo referencia)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/pk/wallhaven-pkxwwe.png",
+  "fuente": "Wallhaven (API, origen Twitter/X @zero15101991)",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla de fans",
+  "para_que": "Fondo de pantalla alternativo",
+  "licencia": "según autor (fan art, sólo referencia)"
+ },
+ {
+  "url": "https://live.staticflickr.com/4078/4863136983_d1ecfb94a5_b.jpg",
+  "fuente": "Openverse / Flickr (A.Davey)",
+  "ancho": 1024,
+  "alto": 804,
+  "que_es": "Foto de flores de glicina moradas",
+  "para_que": "Textura/referencia real para el fondo del Monte Fujikasane",
+  "licencia": "CC BY 2.0"
+ },
+ {
+  "url": "https://live.staticflickr.com/2763/4537297458_65e8a60049_b.jpg",
+  "fuente": "Openverse / Flickr (PhBasumata)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Foto de bosque de bambú",
+  "para_que": "Textura/referencia real para fondos de montaña boscosa",
+  "licencia": "CC BY-SA 2.0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Wood095",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de madera realista (varias resoluciones)",
+  "para_que": "Textura para pasillos/casas de madera (Castillo Infinito, Pueblo de Herreros)",
+  "licencia": "CC0 1.0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper006",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de papel envejecido",
+  "para_que": "Textura para linternas/cartas del Distrito de Entretenimiento",
+  "licencia": "CC0 1.0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Rock051",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de roca de montaña",
+  "para_que": "Textura para Monte Natagumo/Monte Sagiri",
+  "licencia": "CC0 1.0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/32/Water_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529110051",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 965,
+  "alto": 1365,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Water Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Water Breathing; hex medido con Pillow: #31A9E4",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/0f/Flame_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20220304074903",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 540,
+  "alto": 765,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Flame Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Flame Breathing; hex medido con Pillow: #EE521B",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/00/Thunder_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529105731",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 964,
+  "alto": 1366,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Thunder Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Thunder Breathing; hex medido con Pillow: #EEB051",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Wind_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240525054020",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1021,
+  "alto": 1366,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Wind Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Wind Breathing; hex medido con Pillow: #B3D68F",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4b/Stone_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240730125923",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1199,
+  "alto": 1701,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Stone Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Stone Breathing; hex medido con Pillow: #F4CE85",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b8/Insect_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529102712",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 966,
+  "alto": 1366,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Insect Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Insect Breathing; hex medido con Pillow: #856BA0",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d8/Mist_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529105246",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 965,
+  "alto": 1365,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Mist Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Mist Breathing; hex medido con Pillow: #9FE4E0",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/36/Love_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529102926",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 964,
+  "alto": 1363,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Love Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Love Breathing; hex medido con Pillow: #E7AFC6",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/8/87/Sound_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529105342",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 965,
+  "alto": 1365,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Sound Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Sound Breathing; hex medido con Pillow: #64DED7",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/ba/Serpent_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240525054226",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 1021,
+  "alto": 1366,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Serpent Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Serpent Breathing; hex medido con Pillow: #CBA9DE",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/48/Beast_Breathing_%28Zenshuchuten%29.png/revision/latest?cb=20240529101743",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 966,
+  "alto": 1366,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Beast Breathing, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Beast Breathing; hex medido con Pillow: #8BD6EA",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/92/Hinokami_Kagura_%28Zenshuchuten%29.png/revision/latest?cb=20240529102619",
+  "fuente": "Fandom kimetsu-no-yaiba wiki (API imageinfo)",
+  "ancho": 962,
+  "alto": 1328,
+  "que_es": "Ilustración oficial (Zenshuchuten) de Hinokami Kagura, arte promocional del juego móvil",
+  "para_que": "Referencia de color/textura del aura de Hinokami Kagura; hex medido con Pillow: #F54716",
+  "licencia": "uso editorial/fair use, arte oficial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c10d9ef5110d41f4b800cb89a5090bed",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Kyojuro Rengoku, cuerpo completo",
+  "para_que": "Referencia 3D de pose/proporciones, nunca para pegar",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2c1e043a55ec48e3a5b363a9858b84f7",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de la Nichirin Blade de Shinobu Kocho",
+  "para_que": "Referencia 3D del arma",
+  "licencia": "CC Attribution-NonCommercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cebb3ff885de42caa717f232506e73b6",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de la katana de Tanjiro",
+  "para_que": "Referencia 3D del arma",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2027a248de1b4b70985ff97e708fb50d",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de un torii japonés",
+  "para_que": "Elemento 3D libre para fondo/sitio genérico",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2f1124bd921540d7816391f79eb436ea",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de una casa de pueblo japonesa",
+  "para_que": "Elemento 3D libre para fondo tipo Pueblo de Herreros",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://safebooru.org/images/532/48c6d98e6b86791677737811225ca39041554a11.jpg",
+  "fuente": "Safebooru (API, tag kimetsu_no_yaiba+scenery)",
+  "ancho": 6317,
+  "alto": 3796,
+  "que_es": "Fan art de paisaje/escenario de la serie",
+  "para_que": "Referencia de estilo de fondo hecho por fans (mirar, no pegar)",
+  "licencia": "derechos del autor original, no especificado por la API; verificar antes de usar"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d47ac7cbf7af41d089e06fc1d453c033",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Kyojuro Rengoku versión Amanecer (Sunrise)",
+  "para_que": "Referencia 3D alternativa de pose",
+  "licencia": "CC Attribution"
+ }
+]

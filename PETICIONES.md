@@ -6,6 +6,7 @@ aquí no se cumple, la biblia no está terminada. Al lado, dónde se vigila.
 | Lo que pidió | Dónde se vigila |
 |---|---|
 | Todo es para que al final **otra sesión de Claude haga las láminas guiándose sólo por las biblias**: lo que no esté escrito, no existe | redactor; tabla de cumplimiento |
+| Las biblias son **generales**, no sólo para Discord: sirven para cualquier uso (láminas, vídeos, diseño, textos, doblaje…). El canal que proponen es sólo una idea; que dos series pidan el mismo canal **no es un problema ni bloquea nada** (25-sep) | redactor (§0 y conceptos); jefe (no lo sube como aviso que decidir) |
 | **Nada genérico ni obviado**: todo lo que pide ENCARGO.md, como lo pide, y más | los 25 puntos en la tabla (`revisar.py`) |
 | **Empaparse de verdad**: mirar vídeos y capítulos, no leer reseñas | «Mira los vídeos de verdad» (AYUDANTE.md), `episodio.py`, 15 minutos citados (`revisar.py`) |
 | **Frases del doblaje latino textuales**, con vídeo y minuto | punto 8; muestras de Doblaje Wiki con `voz.py` |
