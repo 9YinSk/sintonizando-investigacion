@@ -28,10 +28,14 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   14 Adventure Time: los 4 investigadores murieron sin escribir nada (sólo los datos gratis seguían). Relanzados desde cero a las 19:31 UTC.
   15-18: datos y hojas recolectados; siguen pendientes sus equipos.
   guardar.sh --cada 300 relanzado a las 19:29 UTC tras el reinicio del contenedor.
+- 13 Rick and Morty: **COMPLETA** y subida (19:52). ✅29 ⚠️8 ❌0, 93 referencias, 97 webs, 270 min citados, 43 hex, 2193 líneas.
 - 12 Kakegurui: **COMPLETA** (19:47, ya subida por guardar.sh). ✅27 ⚠️10 ❌0, 81 referencias, 97 webs, 150 min citados, 40 hex, 2226 líneas.
   14: video terminado (101 minutos citados); imagen, voz y texto en marcha.
 
 ## Avisos para el dueño
+
+- **13 Rick and Morty** (repaso): más querido, Rick, pero el secundario que más tira es **Pepinillo Rick** (Emmy 2018, 3.º en Ranker); el Sr. Meeseeks es el segundo gancho (el bot MEE6 de Discord lleva su nombre). Cuadro de diálogo propio: no hay globos — el rótulo de la tele, con nombre y eslogan abajo en pantalla (1×08, 11:18); en los videojuegos el texto va en objetos del mundo. Láminas: A «TV infinita» (recomendada, la tele del salón con la caja del cable), B Pepinillo Rick en el banco del garaje, C la caja Meeseeks en la mesa de la cocina (modelo 3D de pythagean, CC BY).
+  Aviso importante: el redactor tocó varias secciones que se daban por buenas (§2,3,4,5,6,8,10,12,13,15,16,17,20 y la bitácora) porque seguían con datos de la primera pasada que contradecían lo investigado (Style Guide «sin ver» cuando ya se vio, licencias «sin comprobar» ya confirmadas, un motivo falso del cambio de reparto del anime). Sin resolver: YouTube pide iniciar sesión, así que no hay fotogramas 1080p del 1×08 ni 2×08; TV Tropes y The Cutting Room Floor dan 403.
 
 - **12 Kakegurui** (repaso): más querida, **Mary Saotome** (1.ª en la encuesta oficial de Gangan Joker y en una encuesta de fans japonesa; Yumeko gana en AniList y en los memes). Cuadro de diálogo propio: sin globo — la frase va en un naipe que sostiene el personaje (Bodoni Moda o Playfair Display); los gritos en Dela Gothic One rojo. Láminas: A «La caja de Mary» (piedra/papel/tijera, ep. 1), B «Lo emite el consejo» (Kirari junto al acuario `#30B5B9`), C «El tablón del ranking» (Yumeko).
   Por confirmar de oído: la frase «賭け狂いましょう» del ep. 1 (12:39) en el doblaje — dos modelos de Whisper la transcriben distinto («¡Comencemos esta locura!» / «¿Cómo hacemos esta locura?»).
@@ -52,6 +56,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 13 | redactor (repaso) | Opus | 15 | 269 mil |
 | 12 | redactor (repaso) | Opus | 12 | 193 mil |
 | 14 | video | Sonnet | 11 | 172 mil |
 | 11 | redactor (repaso) | Opus | 13 | 269 mil |
