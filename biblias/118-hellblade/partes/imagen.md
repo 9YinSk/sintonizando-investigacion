@@ -14,7 +14,7 @@ siguen en `static.wikia.nocookie.net/hellblade-nt/`).
 ## 1 · Arte oficial, en cantidad y variado
 
 **Portadas y key art oficiales** (medidas con Pillow; fuente = wiki, que las toma de Xbox/Ninja Theory):
-- Portada *Hellblade: Senua's Sacrifice* · 720×1080 · `File:Hellblade 1 cover.png` · https://static.wikia.nocookie.net/hellblade-nt/images/7/75/Hellblade_1_cover.png · ✅ (wiki + usada como header en Steam appid 414340) · hoja `arte_01.jpg` #14 no incluida, ver hoja `personajes_01.jpg` #70.
+- Portada *Hellblade: Senua's Sacrifice* · 720×1080 · `File:Hellblade 1 cover.png` · https://static.wikia.nocookie.net/hellblade-nt/images/7/75/Hellblade_1_cover.png · ✅ (wiki + usada como header en Steam appid 414340) · hoja `personajes_01.jpg` #70.
 - Key art vertical *Senua's Saga: Hellblade II* · 2732×4096 · `File:Hellblade II.jpg` · https://static.wikia.nocookie.net/hellblade-nt/images/d/d7/Hellblade_II.jpg · ✅ (wiki + portada de senuassaga.com) · hoja `personajes_01.jpg` #1.
 - Arte *Hellblade 2 Enhanced Edition* · 1440×2160 · `File:Hellblade 2 Enhanced.png` · https://static.wikia.nocookie.net/hellblade-nt/images/6/61/Hellblade_2_Enhanced.png · ⚠️ (una fuente, wiki) · hoja `personajes_01.jpg` #5.
 - Logo rúnico *Hellblade II* (verde, triskel/runas blancas) · 647×679 · https://static.wikia.nocookie.net/hellblade-nt/images/9/95/Hellblade_2_Runic_logo.png · ✅ · hoja `fondos_01.jpg` #82.
