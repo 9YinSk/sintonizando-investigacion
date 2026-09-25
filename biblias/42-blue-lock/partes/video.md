@@ -34,7 +34,25 @@ Sigue: pendiente de completar (ver «Sigue» al final).
 
 ### Punto 2 · Fotogramas de escenas icónicas
 
+Todo visto directamente (Read de las hojas de contacto), no de reseñas. Fuente y minuto en cada una.
+
+1. **El primer Direct Shot de Isagi** — T1E11 «The Final Piece» (18-dic-2022), la escena que el propio reparto señala como la más difícil de todas (actor japonés Kazuki Ura en entrevista con FandomWire: «fue la escena más difícil de doblar»). Vista en el clip oficial reeditado de 19s (IA `youtube-B_o-Fty-QFc`, fotograma a fotograma con `--cada 1`): Isagi rompe una silueta tipo rompecabezas (metáfora de superar su límite), aparece su «monstruo interior» en silueta negra con ojos verde brillante detrás de él, primer plano de sus propios ojos muy abiertos y termina en una sonrisa confiada antes del festejo del Equipo Z · paleta medida: silueta #000101/#042504 (verde oscuro casi negro, saturación 41%, brillo 11%); primer plano de ojos #FBF7F4/#DBCFC4 (piel) con acento azul #23347A · ✅ (dos fuentes: resumen oficial del episodio en Wikipedia + entrevista del actor)
+2. **El gol decisivo de Isagi contra Japón U-20** — T2E14 «FIN» (visto entero, minuto 17:23-17:44 https://archive.org/details/blue-lock-2-14-vostfr&t=1043): primer plano del ojo de Isagi (17:23), silueta a contraluz de la patada con polvo/movimiento (17:32-17:35), su ojo se enciende en verde (17:42, mismo color que en el Direct Shot del punto 1 — es el color-firma de Isagi en ambas temporadas), el marcador final «U-20日本代表 x BLUELOCK 3-4», rueda de prensa «Voici Yoichi Isagi, le joueur qui a inscrit le but décisif» (16:53) · ✅ (visto directo, marcador y titulares en pantalla)
+3. **La volea de Isagi que empata el partido** — mismo episodio T2E14, minuto 12:53-13:23 (https://archive.org/details/blue-lock-2-14-vostfr&t=773): parada fallida del portero (mitones #802335 rojo oscuro), gol, «But!», Isagi de brazos abiertos con la camiseta «ISAGI 11» a contraluz de los reflectores del estadio (13:10), subtítulo textual «Yoichi Isagi a fait trembler les filets avec sa reprise de volée !» (Yoichi Isagi hizo temblar la red con su volea) · ✅ (visto directo, subtítulo en pantalla)
+4. **La confrontación Isagi vs. Rin en pleno partido** — T2E14, minuto 5:02-5:17: «Ça devient intéressant, Rin Itoshi» (Esto se pone interesante, Rin Itoshi) con el ojo verde de Isagi encendido, corte a la habilidad de Rin (halo turquesa) — es el cruce visual de los dos protagonistas de esta temporada, sus efectos de "despertar" en colores distintos (verde Isagi / turquesa Rin) uno al lado del otro · ✅ (visto directo)
+5. **El origen de Rin Itoshi de niño** — T2E09 (sustituto real de «capítulo 1», ver nota arriba), minutos 0:14-2:08 (https://archive.org/details/blue-lock-2x-09-vostfr&t=14): flashback completo de la infancia de Rin admirando a su hermano Sae, jugando en el patio del colegio, la vitrina de trofeos de Sae en casa («糸師冴», Itoshi Sae, campeón nacional infantil), un atardecer caminando juntos, Rin comiendo un helado que ganó, jugando con figuras de juguete (un «ranger» rojo vs. un dinosaurio verde) · frase textual: «Je peux devenir aussi fort et cool que lui?» (¿Puedo llegar a ser tan fuerte y genial como él?) · ✅ (visto directo, episodio completo)
+6. **Trailer oficial T1**: silueta roja de Ego con 300 sombras detrás («I'll be performing an experiment here to turn one of you 300 into the world's best striker», 0:43) — la puesta en escena que define visualmente al personaje en toda la campaña de marketing · https://archive.org/details/youtube-QAlsuW5EXUg&t=43 · ✅
+
 ### Punto 4 · Fondos y sitios: luz y paleta medida en fotogramas
+
+(Complementa el punto 16 de `imagen.md`, que ya cubre el edificio Blue Lock en sí; aquí van sitios y luz vistos en escena, medidos con `estilo.py` sobre fotogramas propios, no arte promocional.)
+
+- **Estadio nocturno del partido Japón U-20 vs. Blue Lock** (T2E14, visto entero): luz de reflectores muy dura, cielo negro, público en grada roja/azul totalmente desenfocado de fondo (profundidad de campo marcada) — paleta del fotograma 6:28 (jugador rival #2 en salto, https://archive.org/details/blue-lock-2-14-vostfr&t=388): `#0F0F1E` 18.6% (cielo/sombra), `#252743` 18.1%, `#45425B` 15.5% (azules grisáceos de grada desenfocada), `#4453AF` 6.1% (azul del uniforme Blue Lock), `#4A852E` 5.0% (verde césped) — sombreado degradado/pintado, saturación 36%, brillo 44% · ✅ (medido directo)
+- **Mismo estadio, tono violeta/magenta de la introducción** (T2E14, fotograma 0:20, https://archive.org/details/blue-lock-2-14-vostfr&t=20): `#0C0409` 41.4% (casi negro), `#360F25`/`#4F2B4C`/`#86517A` (violetas oscuros, 15-7%), `#D84B84` 4.1% (magenta vivo) — es la paleta de las cartelas de presentación de jugador (fondo degradado violeta-magenta, letras blancas), muy distinta del azul "marca" del edificio Blue Lock: cada segmento de la retransmisión (presentación, juego, repetición) tiene su propio color de cartela · ✅
+- **Casa de la familia Itoshi (interior, luz de tarde)** — T2E09, minuto 0:21 (https://archive.org/details/blue-lock-2x-09-vostfr&t=21): vitrina de trofeos y diplomas de Sae Itoshi de niño, luz solar direccional entrando por una ventana lateral fuera de plano, marcada línea de sombra diagonal partiendo la habitación en dos (mitad iluminada cálida, mitad en sombra fría) — paleta: `#F3F4F3` 21.5% (pared iluminada, casi blanca), `#372E2D`/`#4E4943`/`#66615A` (maderas y sombras, 12-18%), `#191515` 11.1% (sombra dura) — saturación baja (13%), brillo medio (50%): look de foto de recuerdo/nostalgia · ✅ (medido directo)
+- **Exterior, atardecer, camino a casa** — T2E09, minuto 10:13 (niño Rin con un helado, https://archive.org/details/blue-lock-2x-09-vostfr&t=613): cielo en degradado naranja-violeta, siluetas oscuras en primer plano — paleta: `#150D15` 19.4% (silueta), `#524036`/`#644D3E`/`#AD8D7A` (naranjas/tierras del cielo y piel a contraluz, 12-18%), `#802335` 8.3% (rojo apagado) — saturación 43%, brillo 35%: hora dorada clásica para escenas de nostalgia/vínculo familiar, mismo recurso que en otras series shonen · ✅
+- **Vestuario del equipo Japón U-20** (T2E09, ~9:44-11:36): interior de azulejo azul oscuro con detalles rojos (color del equipo), luz fluorescente plana, banderas y el logo de la selección en la pared — contraste directo con el vestuario/instalación Blue Lock (paneles azul marino, ya medido en `imagen.md` punto 16) · ⚠️ (impresión visual, no se sacó hex de este plano por falta de tiempo en esta tanda)
+- **Textura real equivalente**: el hormigón/azulejo de vestuario y las gradas de estadio ya están cubiertos por las texturas CC0 que citó `imagen.md` (Metal063, CorrugatedSteel009 de ambientCG); para el césped nocturno con reflectores, además de `Grass005/Grass001` ya citados, sirve cualquier textura CC0 de "night stadium turf" — no se encontró una específica en ambientCG, ⚠️
 
 ### Punto 10 · Vídeos: tráileres, escenas, análisis, tendencias TikTok/YouTube
 
@@ -48,7 +66,34 @@ Sigue: pendiente de completar (ver «Sigue» al final).
 
 ### Punto 14 · Poses analizadas por personaje
 
+De los 4 personajes que pide el encargo (Isagi, Bachira, Nagi, Rin), los dos episodios completos que se pudieron ver enteros (T2E09 y T2E14, ver nota al principio) son del arco del Mundial U-20: el **XI titular de Blue Lock en esa exhibición no incluye a Bachira ni a Nagi** en las escenas vistas (protagonizan Isagi, Rin, Shidou, Sae y rivales secundarios) — no se pudo confirmar con vídeo propio si aparecen en otro tramo del mismo episodio por falta de tiempo en esta tanda. Sus poses quedan pendientes de un tercer capítulo con Team Z (T1, arco de la primera selección) — ver «Sigue» al final. Lo de abajo es de fotogramas mirados directamente (Read), no de memoria.
+
+**Isagi Yoichi** (7 fotogramas, T1E11 y T2E14):
+1. Silueta rota tipo rompecabezas, brazos hacia adelante rompiendo una superficie — T1E11, 0:01 (clip `youtube-B_o-Fty-QFc`) — sirve para **presentar/anunciar** un cambio de nivel del personaje
+2. Su «monstruo interior» en silueta negra con ojos verde brillante apareciendo detrás de él — T1E11, 0:09 — sirve para **pensar/decidir** (momento de introspección antes de actuar)
+3. Primeros planos, ojos muy abiertos, mirada fija — T1E11, 0:14 — sirve para **animar/determinación**
+4. Sonrisa confiada de lado, luz dura — T1E11, 0:18 — sirve para **celebrar** (contenido, no explosivo)
+5. Ojo derecho iluminado en verde con patrón de remolino, primer plano — T2E14, 17:42 (https://archive.org/details/blue-lock-2-14-vostfr&t=1062) — sirve para **explicar/revelar** su nivel; es el mismo color-firma que en el punto 2 del T1E11: el verde identifica su "despertar" en las dos temporadas
+6. Patada a contraluz con polvo levantado, cuerpo entero en diagonal — T2E14, 17:35 — sirve para **actuar/ejecutar** (el remate)
+7. Brazos totalmente abiertos, cabeza hacia atrás, camiseta «ISAGI 11» a contraluz de los reflectores tras el gol — T2E14, 13:10 (https://archive.org/details/blue-lock-2-14-vostfr&t=790) — sirve para **celebrar** (la pose más "de cartel" de las siete, la más recomendable para lámina)
+
+**Rin Itoshi** (6 fotogramas, T2E09 y T2E14):
+1. De niño, puños cerrados contra la valla de la portería, cara de frustración/anhelo — T2E09, 0:16 (https://archive.org/details/blue-lock-2x-09-vostfr&t=16) — sirve para **pensar** (anhelo de igualar a su hermano)
+2. De niño, sentado dentro de la portería vacía con un balón entre las manos — T2E09, 1:38 — sirve para **pensar/soledad**
+3. Ojo derecho con halo turquesa (su "despertar", color distinto al verde de Isagi) primer plano — T2E14, 5:24 (https://archive.org/details/blue-lock-2-14-vostfr&t=324) — sirve para **explicar/revelar** nivel, igual que el punto 5 de Isagi pero en turquesa: confirma que cada personaje tiene su color de efecto propio
+4. Mirada de lado, ceño fruncido, sonrisa de desprecio hacia un rival — T2E14, 3:45 (apodo en pantalla: «Rin Itoshi... c'est donc ça, ton flow?») — sirve para **regañar/intimidar**
+5. Cara manchada de barro/sudor, ojos entrecerrados, gesto agresivo gritando — T2E14, 11:06 — sirve para **regañar** (plano de partido, tensión máxima)
+6. Postpartido, agachado en el campo, otro jugador le dice «C'était super, Rin» — T2E14, 10:48 — sirve para **saludar/reconocer** (el único momento "suave" de los seis, bueno para una lámina de bienvenida o agradecimiento)
+
+**Bachira Meguru y Seishiro Nagi**: pendiente de fotogramas propios (no aparecieron en los 2 episodios completos disponibles). Mientras tanto, para pose y color puede usarse lo ya confirmado por el investigador de imagen en `datos.json`/`imagen.md` (fichas oficiales de Fandom con ✅ de dos fuentes), pero **sin minuto de vídeo propio** — se marca ⚠️ aquí hasta que se vea un capítulo de Team Z.
+
 ## Lo mejor para la lámina
+
+1. **Isagi celebrando el gol, brazos abiertos, camiseta «ISAGI 11» a contraluz de los reflectores del estadio** (T2E14, 13:10, https://archive.org/details/blue-lock-2-14-vostfr&t=790) — la pose más "de cartel", luz dramática ya resuelta, sirve para una lámina de bienvenida o de celebración/logros del canal.
+2. **El ojo verde de Isagi encendido en primer plano** (T2E14, 17:42) junto al **ojo turquesa de Rin** (T2E14, 5:24) — mismo recurso visual (efecto de "despertar") en dos colores distintos: sirve de referencia directa para una IA de imagen que tenga que generar "modo enfocado" de cualquier personaje con su color propio.
+3. **Paleta violeta-magenta de las cartelas de presentación de jugador** (T2E14, 0:20, `#0C0409`/`#360F25`/`#D84B84`) — distinta del azul "marca" del edificio Blue Lock (`#2553A8`): útil para un fondo de "ficha de personaje" o rótulo que no repita el azul que ya usan imagen y texto en todas partes.
+
+## No encontré
 
 ## No encontré
 
