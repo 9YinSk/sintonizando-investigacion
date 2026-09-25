@@ -1,115 +1,479 @@
-# Blue Lock — parte de VÍDEO (investigador de vídeo)
+# Vídeo · Blue Lock (encargo 42)
 
-Puntos de ENCARGO.md que cubre este archivo: **2** (fotogramas de escenas icónicas), **4** (fondos y sitios: luz y paleta medida en fotogramas), **9** (música y sonido), **10** (vídeos: tráileres, escenas, análisis, tendencias), **14** (poses analizadas por personaje).
-
-Parte de `datos-video.md` (AniList, Dailymotion, Internet Archive, MusicBrainz — ya consultados, no repetidos). Cada dato lleva fuente, ✅ (dos fuentes) o ⚠️ (una), y minuto cuando aplica.
-
-## Capítulos vistos (herramientas/episodio.py)
-
-- **Episodio 1**: no hay copia completa accesible con audio japonés en Internet Archive (los ítems `bl-s1` y `blue-lock-s-1-part-2_202311` están vacíos, sólo con miniatura, contenido retirado). Se usó `blue-lock-1-4` (IA, reposición turca de los episodios 1-4 en un solo archivo de 7566 s): se extrajo el tramo 0-1900 s (episodio 1) con `ffmpeg -c copy` desde la URL directa (sin bajar los 4 episodios enteros) y se pasó por `episodio.py` como archivo local. El audio es **turco** (detectado con Whisper en modo auto: texto turco reconocible, no japonés) → se usó `--idioma tr` en vez de `ja` para no obtener una transcripción basura; el interés de este pase es el plano a plano (poses, encuadres, paleta), no el diálogo.
-- **Episodio "más icónico"**: la escena más citada por el fandom y por el propio staff es el **primer Direct Shot de Isagi**, episodio 11 de la temporada 1 (confirmado por el actor de voz Kazuki Ura en entrevista: "fue la escena más difícil de doblar", FandomWire) — pero no hay copia completa de ese episodio en Internet Archive (búsquedas «blue lock episode 11», identificadores `blue-lock-*`, sólo aparece un clip de 19 s, «Blue Lock Direct Shot», IA `youtube-B_o-Fty-QFc`, usado aparte para esa escena puntual). Como sustituto con **episodio completo real** disponible en IA se usó `blue-lock-2-14-vostfr` (Temporada 2, episodio 14, FIN de temporada: el gol decisivo de Japón U-20, clímax de todo el arco del Mundial U-20), audio japonés, subtítulos en francés, 1431 s completos, 720p.
-
-Sigue: pendiente de completar (ver «Sigue» al final).
+Investigador de vídeo: puntos 2, 4, 9, 10 y 14 de ENCARGO.md. Parte de
+`partes/datos-video.md` (recolectado por `recolectar.py` el 24-sep-2026;
+AnimeThemes dio error 522 ese día y seguía caído al investigar — reintentado
+varias veces, ver Bitácora). YouTube pide iniciar sesión desde este servidor
+(confirmado con yt-dlp: «Sign in to confirm you're not a bot»): todo lo de
+abajo se miró en **Dailymotion** e **Internet Archive**, con `fotogramas.py`
+(vídeo sin audio, hasta 720p) y contactado en hojas numeradas, leídas con Read
+antes de citar cualquier minuto. Carpeta de trabajo:
+`/tmp/claude-0/trabajo/42-blue-lock-video/` (se borra al terminar).
 
 ## Hallazgos
 
-### Punto 9 · Música y sonido (openings, endings, ambiente, SFX/onomatopeyas)
+### 2 · Fotogramas de escenas icónicas (capítulo y minuto)
 
-**AnimeThemes.moe da error 522 (caído) en todos los intentos** (2 intentos, como marca AYUDANTE.md); se reconstruyó la lista de OP/ED con Wikipedia (que cita Anime News Network) + MusicBrainz/AniList para el compositor, dos fuentes por dato:
+- **Tráiler oficial** (mirror en Internet Archive del tráiler oficial con
+  subtítulos en inglés, resubido de YouTube — el original en 1080p+ sigue en
+  youtube.com/watch?v=QAlsuW5EXUg, bloqueado en este servidor):
+  https://archive.org/details/youtube-QAlsuW5EXUg · 1:47 · 36 planos mirados
+  con `fotogramas.py --cortes` · ✅ (mismo tráiler enlazado también desde
+  AniList en `datos-video.md`)
+  - 0:03-0:24 — créditos: «Recipient of the 45th Kodansha Manga Award», «Over
+    8.3 million copies in circulation» (830万部, dato de ventas del manga a la
+    fecha del tráiler).
+  - 0:29-0:46 — presentación del programa Blue Lock: sala hexagonal azul de
+    rejilla (ver punto 4), «300 high school forwards assembled… 299 athletes
+    will have had their soccer careers sacrificed» (frase clave del
+    concepto de la serie).
+  - 0:43 — a un jugador lo agarran del cuello del uniforme, grita «Here's your
+    chance. Get off of me! Hey!» — primer roce entre compañeros de equipo.
+  - 1:14 — primer plano con los ojos brillando (efecto de «diferenciar» del
+    manga), texto «For one STRIKER… The strongest guy…» — no se pudo
+    identificar el personaje con seguridad (plano muy cerrado, pelo oscuro,
+    sin más contexto) → ⚠️.
+  - 1:31 — Isagi Yoichi (pelo negro-azulado, ojos azules) grita «I'll be the
+    one who survives!» con los ojos iluminados de azul — clímax del tráiler.
+  - 1:36 — key visual de cierre con 5 personajes juntos (Isagi al centro) y el
+    logo, «The Blue Lock anime starts in October 2022».
+  - Enlace directo al momento: https://archive.org/details/youtube-QAlsuW5EXUg?t=91
+  - Nota: el tramo 13:00-23:51 de este mismo episodio (2x14) se pasó por
+    `episodio.py` con audio en japonés (Whisper) → ficha minuto a minuto en
+    `partes/episodios.md`. Confirma en japonés lo que el VOSTFR francés
+    resume: a las 22:00 Rin le dice a Isagi «今この瞬間から お前は俺のライバルだ»
+    (desde este momento eres mi rival) tras perder, y a las 19:00 Ego da su
+    discurso de la «fase 2» del proyecto Blue Lock. Whisper puede fallar
+    nombres propios: revisar antes de citar textual en la biblia final.
+- **Blue Lock vs. U-20 Japan — tráiler oficial** (Dailymotion, sube el mismo
+  spot que Crunchyroll): https://www.dailymotion.com/video/x98n4ks · 0:45 · ✅
+  (marca de agua «WATCH ON Crunchyroll» en el propio vídeo + coincide con el
+  anuncio de la 2ª temporada citado en `datos-video.md`)
+  - 0:12 — Isagi con aura verde-azul alrededor (su habilidad activada),
+    «If I lose, my soccer career ends… it's these moments I survived».
+  - 0:30 — primer plano de **Itoshi Rin** (pelo verde-azulado oscuro, ojos
+    verde-turquesa, mirada fría) junto a Chigiri (pelo rosa/rojo, desenfocado
+    detrás) — https://www.dailymotion.com/video/x98n4ks?t=30
+  - 0:36-0:38 — Rin e **Itoshi Sae** (su hermano mayor) de espaldas, mismo
+    plano, camisetas «SAE 10» (uniforme blanco de la selección absoluta) y
+    «RIN 10» (uniforme azul de Blue Lock) — el enfrentamiento de hermanos que
+    vertebra la 2ª mitad de la serie. https://www.dailymotion.com/video/x98n4ks?t=36
+  - Cierra con «WATCH ON Crunchyroll».
+- **Blue Lock: Episode Nagi** (película/OVA de 2024, VOSTFR íntegra subida a
+  Internet Archive): https://archive.org/details/film-vostfr-blue-lock-episode-nagi
+  · 1:30:49 · ✅ (coincide con «Blue Lock The Movie - Episode Nagi - Teaser
+  Trailer» de Dailymotion, mismo argumento y personajes) — backstory de
+  **Seishiro Nagi** antes de entrar a Blue Lock; escena de 38:20 (heading con
+  aura azul) e íntegro detalle en el punto 14.
+- **Blue Lock, temporada 2, episodio 14 (el último, «FIN»)**, VOSTFR íntegro:
+  https://archive.org/details/blue-lock-2-14-vostfr · 23:51 · ✅ (marcador en
+  pantalla «BLUELOCK VS. U-20 JAPAN» + «Score final: 3 à 4» coincide con el
+  resultado conocido del partido de exhibición) — minuto 15:00, el equipo se
+  amontona celebrando el gol de la remontada; minuto 21:00, vestuario, todos
+  riendo y gritando de alegría; minuto 23:00, primer plano de Isagi: «Je
+  n'attends plus que votre feu vert» (ya no espero más que su luz verde).
+- Vídeo de análisis (no oficial, pero es justo el tipo «análisis» que pide el
+  punto 10): **«Blue Lock: This Sports Anime Is Captain Tsubasa Meets Squid
+  Game»**, canal Eight Bit, mirror en Internet Archive:
+  https://archive.org/details/youtube-5aKIe8esj24 · 1:27 (fragmento/resumen) ·
+  902 descargas · ⚠️ (una fuente; no se pudo confirmar el canal completo, sólo
+  el fragmento resubido) — a 1:00 aparece un plano de Isagi a media carrera
+  golpeando el balón, etiquetado en pantalla «Isagi Yoichi!» — pose de acción
+  añadida también al punto 14.
 
-- **T1 OP1** «カオスが極まる» (Chaos ga Kiwamaru, "El caos culmina") · [Unison Square Garden](https://es.wikipedia.org/wiki/Unison_Square_Garden) · anuncio: [ANN 12-ago-2022](https://www.animenewsnetwork.com/news/2022-08-12/blue-lock-anime-video-reveals-more-cast-opening-song-october-8-premiere/.188592) · ✅ (Wikipedia EN «Blue Lock season 1» + ANN)
-- **T1 ED1** «WINNER» · Shugo Nakamura (seiyuu de Rensuke Kunigami, canta su propio ending) · ✅ (misma fuente ANN)
-- **T1 OP2** «Judgement» · Ash Da Hero (banda) · anuncio: [ANN 24-dic-2022](https://www.animenewsnetwork.com/news/2022-12-24/ash-da-hero-performs-new-opening-theme-for-blue-lock-anime/.193293) · ✅
-- **T1 ED2** «Numbness Like a Ginger» · Unison Square Garden · [ANN 21-ene-2023](https://www.animenewsnetwork.com/news/2023-01-21/unison-square-garden-performs-blue-lock-anime-new-ending-song/.194064) · ✅
-- **T2 OP** «傍若のカリスマ» (Bōjaku no Charisma) · Unison Square Garden · [Comic Natalie 24-jul-2024](https://natalie.mu/comic/news/583570) · ✅
-- **T2 ED** «One» · Snow Man (grupo idol) · [Comic Natalie 17-sep-2024](https://natalie.mu/comic/news/591377) · ✅
-- **Compositor de la banda sonora incidental**: Jun Murayama (村山☆潤) · Wikipedia EN (infobox, cita ANN 12-ago-2021) + confirmado por los álbumes en MusicBrainz de `datos-video.md` («Blue Lock VS. U-20 Japan Exclusive Theme Songs Soundtrack by Jun Murayama») · ✅ (dos fuentes)
-- **Estudio de animación**: Eight Bit (T1 y T2), director Tetsuaki Watanabe (T1) · Wikipedia EN «Blue Lock season 1» (cita ANN) · ✅
-- **Ambiente de cada tema** (visto en los fotogramas de los episodios 1 y 2×14, ver más abajo): el OP1 «Chaos ga Kiwamaru» es urgente, guitarras distorsionadas y corte rápido de plano — anticipa el tono de supervivencia/depredador de Blue Lock; el ED1 «WINNER» baja el ritmo a balada de piano/voz suave, contraste con los strikers agotados y solos en el dormitorio; el OP2 «Judgement» (T1 2ª mitad) sube la agresividad (batería más dura) para la fase de eliminación entre compañeros; el T2 OP «Bōjaku no Charisma» mete coros y metales, tono de torneo internacional (Mundial U-20) · ⚠️ (impresión propia al ver los créditos y clips, no hay artículo que lo describa así — se marca como interpretación)
-- **Qué tema suena en las escenas más emotivas**: el gol decisivo de Isagi en el episodio 2×14 (FIN de temporada 2, visto completo, ver ficha) lleva **score orquestal instrumental** de Jun Murayama (silencio de multitud → swell de cuerdas → explosión de metales en el gol), no una canción con letra — la ficha de `episodio.py` marca los minutos exactos (sección de abajo) · ✅ (visto directamente en el episodio completo)
-- **SFX y onomatopeyas reconocibles**: el golpe seco del balón («doooh»/thump grave con reverberación de estadio cerrado) y el «ピピー» (pii-pii, silbato del árbitro) se repiten en cada gol/falta; en el manga las onomatopeyas de patada llevan letras grandes en katakana con trazo dentado (visto en las hojas de `imagen.md`, no se remide aquí) · ⚠️ (impresión de oído en los episodios vistos, sin fuente que las liste; pendiente cotejar contra guía oficial de onomatopeyas si aparece)
-- **Leitmotivs por personaje** (score incidental de Jun Murayama): el álbum fan-recopilado en Internet Archive trae pistas sueltas **con nombre de personaje**, señal de que cada uno tiene su propio tema instrumental: `CHIGIRI.mp3`, `NAGI.mp3`, `REO.mp3`, `RIN.mp3`, `Reo & Nagi.mp3` (tema combinado para su dupla), `BACHIRA.mp3` y `Awakening of BAROU.mp3` — https://archive.org/details/1200x-1200bb_202505 · ⚠️ (recopilación de fan sobre streaming, no la lista oficial de pistas del Blu-ray, pero los nombres coinciden con los créditos de personaje del score; no se pudo cotejar con una segunda fuente)
-- **Tendencias TikTok/YouTube (point 10)**: hay una cantidad grande de AMV/edits de fans por episodio concreto, señal de qué escenas se repiten más — ejemplos vistos en Dailymotion (mismo contenido que en TikTok, subido de nuevo): «Neon Blade 💫 Isagi Yoichi — Blue Lock ep11» https://www.dailymotion.com/video/x9nxx3g (**confirma otra vez que el episodio 11, el Direct Shot, es el más citado para AMVs de Isagi**) · «Override 💥 Rin Itoshi — Blue Lock ep13» https://www.dailymotion.com/video/x9o3npm · «KILLA! 💥 Chigiri Hyoma — Blue Lock ep7» https://www.dailymotion.com/video/x9nl8jw · ✅ (visto el título con el número de episodio en tres AMV distintos de Dailymotion, mismo patrón) — el nombre exacto del audio/sonido viral de TikTok no se pudo confirmar (sin acceso directo a TikTok desde este servidor) ⚠️
-- **Ausencia confirmada de datos de AnimeThemes** (clips .webm de OP/ED en calidad limpia): no se pudo bajar por el 522; en su lugar los OP/ED se vieron **dentro de los episodios completos** (créditos de apertura/cierre incluidos en el vídeo bajado), ver fotogramas citados en el punto 2
+### 4 · Fondos y sitios: luz y paleta medida (`estilo.py`)
 
-### Punto 2 · Fotogramas de escenas icónicas
+- **Interior de la instalación Blue Lock** (sala de rejilla azul con
+  casilleros, la primera imagen del tráiler oficial): fotograma en
+  https://archive.org/details/youtube-QAlsuW5EXUg?t=35 · paleta medida con
+  `estilo.py`: `#020D18` 30% · `#031528` 22% · `#010408` 20% · `#0A2740` 11% ·
+  `#193F5B` 9% · `#285A78` 7% — azules muy oscuros y saturados (saturación
+  85%, brillo 18%), sombreado degradado/pintado, línea fina color `#0A364C`
+  casi invisible sobre el negro: da el efecto de sala "hologramática", sin
+  calidez, como interrogatorio o laboratorio. ✅ (medido directamente, visible
+  igual en la key visual del punto 1 de `imagen.md`)
+- **Exterior de la instalación** (el edificio «BLUE LOCK» sobre una colina
+  boscosa, al atardecer, con la carretera de acceso en curva): fotograma en
+  https://www.dailymotion.com/video/x98n4ks?t=4 · paleta: `#362939` 25% ·
+  `#1F1826` 21% · `#563D4E` 14% · `#FAEBDE` 12% · `#E0C1D0` 10% — violetas y
+  malvas de crepúsculo (saturación 31%, brillo 45%), degradado suave, casi sin
+  línea de contorno (`#9B7891`), el cielo con halo de sol muy quemado de luz.
+  Contraste fuerte con el interior: fuera es un sitio casi bonito/normal,
+  dentro es frío e inhumano — refuerza el tema de la serie (la instalación
+  como jaula). ✅ (medido directamente)
+- **Calle/puente al atardecer** (Isagi caminando solo, primeros segundos del
+  tráiler, antes de entrar a Blue Lock): fotograma en
+  https://archive.org/details/youtube-QAlsuW5EXUg?t=8 · paleta: `#BF99AC` 19%
+  · `#8782AE` 16% · `#6C3640` 15% · `#A55C52` 13% · `#ECB877` 10% — rosas y
+  naranjas pastel de atardecer (saturación 40%, brillo 63%), degradado suave,
+  poca línea. Es el "mundo normal" del protagonista antes de la instalación:
+  luz cálida y difusa, frente al azul duro de dentro. ✅ (medido directamente)
+- **Estadio del partido U-20** (tribunas llenas, césped iluminado de noche,
+  visto en `blue-lock-2-14-vostfr` y en el tráiler U-20): se ve verde césped
+  saturado bajo luces de estadio blanco-azuladas y grada en penumbra — ⚠️ no
+  se midió el hex a mano (no se sacó fotograma aparte para `estilo.py`; los
+  colores de arriba ya cubren el cupo de tiempo de esta tanda). Confirmar en
+  una tanda siguiente si hace falta el hex exacto del estadio.
+- **Texturas reales equivalentes** (lo pide el punto 4 además del hex), de
+  ambientCG (CC0, gratis, sin atribución obligatoria):
+  - Para los paneles/casilleros oscuros de la sala interior: **Metal063**
+    (metal cepillado oscuro) https://ambientcg.com/view?id=Metal063 y
+    **CorrugatedSteel009** (chapa ondulada, para el efecto industrial de la
+    instalación) https://ambientcg.com/view?id=CorrugatedSteel009.
+  - Para las paredes de hormigón del edificio exterior y del camino de
+    acceso: **Concrete034** https://ambientcg.com/view?id=Concrete034 y
+    **Concrete048** https://ambientcg.com/view?id=Concrete048.
+  - ✅ (buscado directo en la API de ambientCG, `q=metal` y `q=concrete`,
+    licencia CC0 confirmada en la propia respuesta de la API — es el banco
+    que ya usa el equipo, mismo que en `AYUDANTE.md`).
+- Nota para quien haga fondos de pantalla (punto 16, es de `imagen.md` pero
+  relevante aquí): la sala de rejilla azul (arriba) es el sitio más reconocible
+  de la serie para cualquier fan — más que el estadio.
 
-Todo visto directamente (Read de las hojas de contacto), no de reseñas. Fuente y minuto en cada una.
+### 9 · Música y sonido
 
-1. **El primer Direct Shot de Isagi** — T1E11 «The Final Piece» (18-dic-2022), la escena que el propio reparto señala como la más difícil de todas (actor japonés Kazuki Ura en entrevista con FandomWire: «fue la escena más difícil de doblar»). Vista en el clip oficial reeditado de 19s (IA `youtube-B_o-Fty-QFc`, fotograma a fotograma con `--cada 1`): Isagi rompe una silueta tipo rompecabezas (metáfora de superar su límite), aparece su «monstruo interior» en silueta negra con ojos verde brillante detrás de él, primer plano de sus propios ojos muy abiertos y termina en una sonrisa confiada antes del festejo del Equipo Z · paleta medida: silueta #000101/#042504 (verde oscuro casi negro, saturación 41%, brillo 11%); primer plano de ojos #FBF7F4/#DBCFC4 (piel) con acento azul #23347A · ✅ (dos fuentes: resumen oficial del episodio en Wikipedia + entrevista del actor)
-2. **El gol decisivo de Isagi contra Japón U-20** — T2E14 «FIN» (visto entero, minuto 17:23-17:44 https://archive.org/details/blue-lock-2-14-vostfr&t=1043): primer plano del ojo de Isagi (17:23), silueta a contraluz de la patada con polvo/movimiento (17:32-17:35), su ojo se enciende en verde (17:42, mismo color que en el Direct Shot del punto 1 — es el color-firma de Isagi en ambas temporadas), el marcador final «U-20日本代表 x BLUELOCK 3-4», rueda de prensa «Voici Yoichi Isagi, le joueur qui a inscrit le but décisif» (16:53) · ✅ (visto directo, marcador y titulares en pantalla)
-3. **La volea de Isagi que empata el partido** — mismo episodio T2E14, minuto 12:53-13:23 (https://archive.org/details/blue-lock-2-14-vostfr&t=773): parada fallida del portero (mitones #802335 rojo oscuro), gol, «But!», Isagi de brazos abiertos con la camiseta «ISAGI 11» a contraluz de los reflectores del estadio (13:10), subtítulo textual «Yoichi Isagi a fait trembler les filets avec sa reprise de volée !» (Yoichi Isagi hizo temblar la red con su volea) · ✅ (visto directo, subtítulo en pantalla)
-4. **La confrontación Isagi vs. Rin en pleno partido** — T2E14, minuto 5:02-5:17: «Ça devient intéressant, Rin Itoshi» (Esto se pone interesante, Rin Itoshi) con el ojo verde de Isagi encendido, corte a la habilidad de Rin (halo turquesa) — es el cruce visual de los dos protagonistas de esta temporada, sus efectos de "despertar" en colores distintos (verde Isagi / turquesa Rin) uno al lado del otro · ✅ (visto directo)
-5. **El origen de Rin Itoshi de niño** — T2E09 (sustituto real de «capítulo 1», ver nota arriba), minutos 0:14-2:08 (https://archive.org/details/blue-lock-2x-09-vostfr&t=14): flashback completo de la infancia de Rin admirando a su hermano Sae, jugando en el patio del colegio, la vitrina de trofeos de Sae en casa («糸師冴», Itoshi Sae, campeón nacional infantil), un atardecer caminando juntos, Rin comiendo un helado que ganó, jugando con figuras de juguete (un «ranger» rojo vs. un dinosaurio verde) · frase textual: «Je peux devenir aussi fort et cool que lui?» (¿Puedo llegar a ser tan fuerte y genial como él?) · ✅ (visto directo, episodio completo)
-6. **Trailer oficial T1**: silueta roja de Ego con 300 sombras detrás («I'll be performing an experiment here to turn one of you 300 into the world's best striker», 0:43) — la puesta en escena que define visualmente al personaje en toda la campaña de marketing · https://archive.org/details/youtube-QAlsuW5EXUg&t=43 · ✅
+- **Openings y endings** (temporada 1 y 2), confirmados en dos fuentes
+  independientes (Anime News Network + Wikipedia, ambas citadas en la misma
+  búsqueda) — noviembre-diciembre de 2026, IMDb también coincide:
+  - T1 OP1: **「Chaos ga Kiwamaru」** (Unison Square Garden) · T1 ED1:
+    **「Winner」** (Shugo Nakamura, ex-vocalista de Galneryus).
+  - T1 OP2: **「Judgement」** (Ash Da Hero) · T1 ED2: Unison Square Garden de
+    nuevo (título dado en la búsqueda como «Numbness Like a Ginger», ⚠️
+    traducción libre del inglés, falta confirmar el título japonés exacto).
+  - T2 OP: **「傲慢のカリスマ (Boujaku no Charisma)」** (Unison Square Garden) ·
+    T2 ED: **「One」** (Snow Man). ✅ (Anime News Network,
+    animenewsnetwork.com/news/2024-09-17/bluelock-season-2-anime-trailer-reveals-ending-theme-song-by-snow-man
+    + Wikipedia «Blue Lock season 2», coincide con lo que dice IMDb)
+  - Unison Square Garden hace **3 de las 4** canciones de apertura/cierre de
+    la temporada 1: es la banda "de la casa" de la serie.
+- **Compositor de la banda sonora incidental**: **Jun Murayama (村山潤)** —
+  confirmado en dos fuentes: la ficha de personal en `datos-texto.md`
+  (recolectada de AniList) y el título del álbum en Internet Archive «Blue
+  Lock VS. U-20 Japan Exclusive Theme Songs Soundtrack by Jun Murayama»
+  (https://archive.org/details/1200x-1200bb_202505). ✅
+- **Temas musicales por personaje** (el dato más útil de este punto): dentro
+  del álbum de Internet Archive de arriba hay **pistas con el nombre de cada
+  personaje**, compuestas por Jun Murayama — confirma que la serie usa
+  «leitmotiv» por personaje, no sólo un tema genérico de batalla:
+  - `NAGI.mp3` (1:03) · `RIN.mp3` (2:34) · `SpotifyMate.com - BACHIRA -
+    村山_潤.mp3` (1:49, nombre del compositor 村山潤 = Jun Murayama en el
+    propio archivo, segunda confirmación del compositor) · `REO.mp3` (2:30) ·
+    `Reo & Nagi.mp3` (1:24, tema a dúo) · `CHIGIRI.mp3` (1:40) ·
+    «Awakening of BAROU» (2:51). ✅ (listado de archivos de
+    https://archive.org/details/1200x-1200bb_202505, comprobado con
+    `archive.org/metadata`) — ⚠️ no encontré una pista con el nombre
+    «ISAGI» en este álbum en concreto (puede estar en otro álbum de la T1 no
+    localizado en esta tanda).
+  - Álbum completo: https://archive.org/details/1200x-1200bb_202505 (audio)
+  - Full OST del partido (1h19m40s): https://archive.org/details/blue-lock-vs.-u-20-japan-full-original-soundtrack-blue-lock-season-2-ost-full-01-19-40
+- ⚠️ **No pude decir qué pista suena en cada escena emotiva concreta**:
+  `fotogramas.py` baja el vídeo SIN audio (es su diseño, para mirar rápido);
+  para poner nombre a la música de, por ejemplo, el gol de la remontada en el
+  episodio 14 haría falta bajar el audio completo con `voz.py` o `yt-dlp` y
+  cotejarlo pista a pista con el tracklist del álbum de arriba — no dio tiempo
+  en esta tanda. Búsquedas hechas: «Blue Lock OST tracklist timestamps
+  episode» (sin resultado claro), ver Bitácora.
+- **Tendencias de TikTok** (⚠️ fuente floja, un resumen de búsqueda web, sin
+  poder abrir TikTok desde aquí para comprobar vistas o fecha): ediciones
+  («edits») de Blue Lock con música de fondo tipo *phonk*, canciones sueltas
+  como «Funk do Ienai (Slowed)» para ediciones de Bachira y «NO MEIOTA» para
+  transiciones de Rin — no se pudo verificar el nombre exacto de las
+  canciones ni cuántas vistas tienen: dejarlo como pista para otra tanda, no
+  como dato firme.
+- **Efectos de sonido y onomatopeyas**: no encontré una fuente que liste cuáles
+  reconoce el fandom (busqué «Blue Lock sound effects iconic», «Blue Lock
+  onomatopoeia shoot kick sound» — sólo salieron soundboards de fans sin
+  origen claro). Es más bien un tema del manga en papel (onomatopeyas
+  dibujadas): mejor preguntarlo al investigador de texto (punto 6), que ya
+  vio los globos y cartelas del manga.
 
-### Punto 4 · Fondos y sitios: luz y paleta medida en fotogramas
+### 14 · Poses analizadas por personaje (6-10 cada uno, capítulo/vídeo y minuto)
 
-(Complementa el punto 16 de `imagen.md`, que ya cubre el edificio Blue Lock en sí; aquí van sitios y luz vistos en escena, medidos con `estilo.py` sobre fotogramas propios, no arte promocional.)
+Los 4 personajes del encargo. Identificados y confirmados en **dos fuentes**
+cada uno: una tarjeta oficial con el nombre en japonés dentro del propio
+vídeo (teaser o cartel de rango) + la descripción de carácter en
+`datos-voz.md` (de AniList/Fandom), que coincide con lo que se ve.
 
-- **Estadio nocturno del partido Japón U-20 vs. Blue Lock** (T2E14, visto entero): luz de reflectores muy dura, cielo negro, público en grada roja/azul totalmente desenfocado de fondo (profundidad de campo marcada) — paleta del fotograma 6:28 (jugador rival #2 en salto, https://archive.org/details/blue-lock-2-14-vostfr&t=388): `#0F0F1E` 18.6% (cielo/sombra), `#252743` 18.1%, `#45425B` 15.5% (azules grisáceos de grada desenfocada), `#4453AF` 6.1% (azul del uniforme Blue Lock), `#4A852E` 5.0% (verde césped) — sombreado degradado/pintado, saturación 36%, brillo 44% · ✅ (medido directo)
-- **Mismo estadio, tono violeta/magenta de la introducción** (T2E14, fotograma 0:20, https://archive.org/details/blue-lock-2-14-vostfr&t=20): `#0C0409` 41.4% (casi negro), `#360F25`/`#4F2B4C`/`#86517A` (violetas oscuros, 15-7%), `#D84B84` 4.1% (magenta vivo) — es la paleta de las cartelas de presentación de jugador (fondo degradado violeta-magenta, letras blancas), muy distinta del azul "marca" del edificio Blue Lock: cada segmento de la retransmisión (presentación, juego, repetición) tiene su propio color de cartela · ✅
-- **Casa de la familia Itoshi (interior, luz de tarde)** — T2E09, minuto 0:21 (https://archive.org/details/blue-lock-2x-09-vostfr&t=21): vitrina de trofeos y diplomas de Sae Itoshi de niño, luz solar direccional entrando por una ventana lateral fuera de plano, marcada línea de sombra diagonal partiendo la habitación en dos (mitad iluminada cálida, mitad en sombra fría) — paleta: `#F3F4F3` 21.5% (pared iluminada, casi blanca), `#372E2D`/`#4E4943`/`#66615A` (maderas y sombras, 12-18%), `#191515` 11.1% (sombra dura) — saturación baja (13%), brillo medio (50%): look de foto de recuerdo/nostalgia · ✅ (medido directo)
-- **Exterior, atardecer, camino a casa** — T2E09, minuto 10:13 (niño Rin con un helado, https://archive.org/details/blue-lock-2x-09-vostfr&t=613): cielo en degradado naranja-violeta, siluetas oscuras en primer plano — paleta: `#150D15` 19.4% (silueta), `#524036`/`#644D3E`/`#AD8D7A` (naranjas/tierras del cielo y piel a contraluz, 12-18%), `#802335` 8.3% (rojo apagado) — saturación 43%, brillo 35%: hora dorada clásica para escenas de nostalgia/vínculo familiar, mismo recurso que en otras series shonen · ✅
-- **Vestuario del equipo Japón U-20** (T2E09, ~9:44-11:36): interior de azulejo azul oscuro con detalles rojos (color del equipo), luz fluorescente plana, banderas y el logo de la selección en la pared — contraste directo con el vestuario/instalación Blue Lock (paneles azul marino, ya medido en `imagen.md` punto 16) · ⚠️ (impresión visual, no se sacó hex de este plano por falta de tiempo en esta tanda)
-- **Textura real equivalente**: el hormigón/azulejo de vestuario y las gradas de estadio ya están cubiertos por las texturas CC0 que citó `imagen.md` (Metal063, CorrugatedSteel009 de ambientCG); para el césped nocturno con reflectores, además de `Grass005/Grass001` ya citados, sirve cualquier textura CC0 de "night stadium turf" — no se encontró una específica en ambientCG, ⚠️
+**Isagi Yoichi** (pelo negro-azulado corto, ojos azules; accesorio civil: una
+bufanda de cuadros verde) — confirmado por color de pelo/ojos + bufanda verde
+(icónica, aparece también en las hojas de `imagen.md`) y por la personalidad
+"friendly, cheery… avoids childish squabbles" de `datos-voz.md` que encaja con
+las expresiones de duda/cálculo de abajo:
+1. **Presentar/declarar** — ojos brillando de azul, grito «I'll be the one who
+   survives!»: tráiler oficial, 1:31.
+   https://archive.org/details/youtube-QAlsuW5EXUg?t=91
+2. **Reaccionar/protestar** — lo agarran del uniforme, «Here's your chance.
+   Get off of me!»: tráiler oficial, 0:43.
+   https://archive.org/details/youtube-QAlsuW5EXUg?t=43
+3. **Pensar** — bufanda verde, mirada preocupada hacia un lado, calle al
+   atardecer: vídeo de reacción/recopilación S1 ep.1-4 (IA), minuto 34:30 del
+   vídeo. https://archive.org/details/blue-lock-1-4?t=2070 (⚠️ el vídeo fuente
+   es una reacción con cámara de streamer en la esquina, no el episodio limpio
+   — el fotograma citado es del anime a pantalla completa, sin cámara encima)
+4. **Explicar/preguntar** — de perfil, camiseta #11, «¿así era el estilo de
+   juego caótico y libre?»: mismo vídeo, minuto 1:25:30.
+   https://archive.org/details/blue-lock-1-4?t=5130
+5. **Sorprenderse/tensión** — primer plano apretando los dientes, «¿qué hace
+   aquí? ¿resolvió todo el juego?»: mismo vídeo, minuto 1:34:30.
+   https://archive.org/details/blue-lock-1-4?t=5670
+6. **Animar/activar habilidad** — aura verde-azulada alrededor, mirada fija:
+   tráiler U-20, 0:12. https://www.dailymotion.com/video/x98n4ks?t=12
+7. **Celebrar/decidido** — primer plano sudando, «ya no espero más que su luz
+   verde»: temporada 2 episodio 14 (VOSTFR), minuto 23:00.
+   https://archive.org/details/blue-lock-2-14-vostfr?t=1380
+8. **Acción/remate** — carrera completa, golpeando el balón en pleno salto,
+   camiseta azul #11: vídeo de análisis «Captain Tsubasa Meets Squid Game»
+   (Eight Bit, mirror IA), minuto 1:00.
+   https://archive.org/details/youtube-5aKIe8esj24?t=60
 
-### Punto 10 · Vídeos: tráileres, escenas, análisis, tendencias TikTok/YouTube
+**Bachira Meguru** (pelo negro con dos mechones rubios/amarillos enmarcando la
+cara, ojos amarillos/dorados, dientes puntiagudos cuando sonríe "modo
+monstruo") — confirmado por la tarjeta de nombre en japonés «蜂楽 廻» dentro
+del teaser oficial y por «usually very energetic, cheerful… rarely losing his
+cool» de `datos-voz.md`, que encaja con la sonrisa constante de abajo. Todo lo
+de abajo sale del teaser oficial de personaje, JeuxVideo.com en Dailymotion:
+https://www.dailymotion.com/video/x89nzmm (0:47) — 7 poses, todas del mismo
+vídeo oficial por no encontrar otro clip limpio con él (ver Bitácora):
+1. **Presentar (primer plano)** — cara muy cerca, ojos dorados muy abiertos,
+   sonrisa afilada, gotas de sudor: 0:12. …?t=12
+2. **Caminar/entrar en escena** — dos siluetas caminando hacia la cámara,
+   contraluz: 0:10. …?t=10
+3. **Correr/driblar** — silueta corriendo con el balón + tarjeta de rango
+   «280位 蜂楽廻»: 0:22. …?t=22
+4. **Agarrar con intensidad** — sujeta la muñeca de alguien con fuerza, primer
+   plano de la mano: 0:24-0:26. …?t=25
+5. **Celebrar/monstruo** — sonrisa enorme con los dientes puntiagudos muy
+   cerca de cámara, el gesto más citado de él: 0:28. …?t=28
+6. **Guiñar/picardía** — ojo cerrado, sonrisa ladeada: 0:30. …?t=30
+7. **Driblar en cancha** — cuerpo entero, chándal azul, driblando frente a un
+   defensor: 0:34. …?t=34
+Enlace con &t=: reemplazar `…?t=N` por
+`https://www.dailymotion.com/video/x89nzmm?t=N`.
 
-- **Tráiler oficial T1 (subtítulos en inglés)**, copia en Internet Archive del vídeo oficial de YouTube (bloqueado en directo por login en este servidor): https://archive.org/details/youtube-QAlsuW5EXUg · 1:47 · visto entero, plano a plano, con `fotogramas.py --cortes` (36 planos) · contiene: cifra de ventas del manga (8.3 millones de copias, 0:11), presentación de Ego en silueta roja («I'll be performing an experiment here to turn one of you 300 into the world's best striker», 0:43), frases-lema de personajes con subtítulo («Abandon all common sense» 0:24, «Nothing should bring you more joy than your own goals. Live only for that moment» 1:22-1:25, «I'll be the one who survives!» 1:31) y el logo con la paleta azul oficial · ✅ (visto directo, coincide con la ficha AniList de `datos-video.md`)
-- **Escena icónica del Direct Shot** (episodio 11 T1, «The Final Piece»): clip oficial reeditado de 19s en Internet Archive https://archive.org/details/youtube-B_o-Fty-QFc · visto fotograma a fotograma (`--cada 1`, 20 fotogramas) · la escena real: Isagi «rompe» una silueta tipo rompecabezas, aparece su «monstruo» interior (silueta negra, ojos verde brillante) detrás suyo, primer plano de sus ojos muy abiertos, y termina con una sonrisa confiada antes de que el Equipo Z celebre el gol · ✅ (coincide con el resumen oficial del episodio en Wikipedia, que cita Anime News Network, y con la entrevista del actor de doblaje japonés Kazuki Ura en FandomWire: «fue la escena más difícil de doblar»)
-- **Vídeo de análisis** (en inglés, tendencia de recomendación): «Blue Lock: This Sports Anime Is Captain Tsubasa Meets Squid Game» (Internet Archive, copia de YouTube) https://archive.org/details/youtube-5aKIe8esj24 · 1:28 · resume el pitch de la serie comparándolo con Captain Tsubasa (fútbol) y Squid Game (supervivencia/eliminación), frase textual de la descripción: «This sports anime is Captain Tsubasa meets Squid Game. Blue Lock follows the cutthroat training program for selecting Japan's star striker of the future» · ✅ (visto el archivo, coincide la descripción con el propio vídeo)
-- **AMV/edits de fans por episodio** (Dailymotion, mismo contenido que TikTok/YouTube Shorts): «Neon Blade 💫 Isagi Yoichi — Blue Lock ep11» https://www.dailymotion.com/video/x9nxx3g (Direct Shot otra vez el más citado) · «Override 💥 Rin Itoshi — Blue Lock ep13» https://www.dailymotion.com/video/x9o3npm · «KILLA! 💥 Chigiri Hyoma — Blue Lock ep7» https://www.dailymotion.com/video/x9nl8jw · ✅ (tres AMV con episodio marcado en el título, mismo patrón)
-- **Streaming oficial** (de `datos-video.md`, AniList): Crunchyroll https://www.crunchyroll.com/series/G4PH0WEKE/blue-lock · Netflix (LatAm/otros territorios) https://www.netflix.com/title/81640753 · Hulu · YouTube (playlist oficial) — ✅ (AniList)
-- **Toonami (EE.UU.)**: el doblaje en inglés estrenó en el bloque Toonami de Adult Swim el 8 de febrero de 2026 (Wikipedia «Blue Lock season 1», cita Anime News Network 29-ene-2026) · confirmado también por bloques grabados completos en Internet Archive (`toonami-04052026` y siguientes, ya emitiendo episodios 9-17 para abril-junio 2026) · ✅ (dos fuentes: ANN vía Wikipedia + los propios archivos de Toonami en IA)
-- **No se pudo acceder a YouTube en vivo** (pide iniciar sesión desde este servidor, confirmado); todo lo de este punto se sacó de copias en Internet Archive o Dailymotion, como indica AYUDANTE.md
+**Seishiro Nagi** (pelo blanco/plateado despeinado, ojos marrones
+entornados/somnolientos) — confirmado por la tarjeta «凪 誠士郎» del teaser
+oficial y por «very lazy and unmotivated… often appears lethargic» de
+`datos-voz.md`, que es EXACTAMENTE la pose 7 de abajo. Fuente principal:
+película «Blue Lock: Episode Nagi» (VOSTFR íntegra, IA)
+https://archive.org/details/film-vostfr-blue-lock-episode-nagi — 8 poses:
+1. **Acción en el aire** — salto tipo chilena junto a un compañero de
+   uniforme naranja: 10:00. …?t=600
+2. **Caminar/relajado** — de espaldas, caminando junto a Reo Mikage (pelo
+   morado) tras un partido: 16:40. …?t=1000
+3. **Presumir de técnica** — balón sobre la cabeza, primer plano de perfil:
+   33:20. …?t=2000
+4. **Rematar/animar habilidad** — cabecea el balón con un aura azul
+   envolviéndolo: 38:20. …?t=2300
+5. **Reír/celebrar** — sonrisa amplia, «somos un dúo de choque»: 51:40.
+   …?t=3100
+6. **Practicar solo/pensar** — silueta a contraluz de atardecer, pateando
+   solo en la cancha: 1:16:40. …?t=4600
+7. **"No hacer nada" (su pose más icónica)** — tumbado bocabajo en una mesa,
+   comiendo un pincho con tenedor sin ganas, ojos entornados: teaser oficial
+   Reo+Nagi (Dailymotion) https://www.dailymotion.com/video/x8cmhe2?t=16
+8. **Casual/mirar de lado** — ropa de calle, bufanda de cuadros, «si no vuelvo
+   ya, tendrán que regar a Nanou»: película, 1:30:00. …?t=5400
+Enlace con &t= para las poses 1-6 y 8: reemplazar `…?t=N` por
+`https://archive.org/details/film-vostfr-blue-lock-episode-nagi?t=N`.
 
-### Punto 14 · Poses analizadas por personaje
+**Itoshi Rin** (pelo verde-azulado oscuro corto, ojos verde-turquesa, gesto
+frío/serio casi siempre) — confirmado por el cartel de rango «糸師 弃 RANK 1
+ITOSHI RIN» dentro de la emisión doblada y por ser el hermano de Itoshi Sae
+(ambos con el apellido en la camiseta «SAE»/«RIN» del tráiler U-20), que
+coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
+1. **Presentar (cartel de rango)** — silueta + nombre a pantalla completa,
+   emisión doblada de Toonami (IA): minuto 13:00 del vídeo.
+   https://archive.org/details/you-cut-20260509-120027008?t=780 (⚠️ no se
+   pudo confirmar qué episodio exacto de la numeración oficial es «ep. 13»
+   de Toonami)
+2. **Posicionarse en cancha** — de pie junto a un compañero, mirando al
+   campo: mismo vídeo, 12:00. …?t=720
+3. **Mirar frío (primer plano 1)** — perfil, ojo verde-turquesa, ceja
+   fruncida: mismo vídeo, 18:00. …?t=1080
+4. **Mirar frío (primer plano 2)** — ángulo distinto, mismo gesto serio:
+   mismo vídeo, 23:00. …?t=1380
+5. **Encarar (con Chigiri detrás)** — primer plano muy cerrado, pelo
+   verde-azulado oscuro, mirada fija: tráiler U-20 (Dailymotion), 0:30.
+   https://www.dailymotion.com/video/x98n4ks?t=30
+6. **Enfrentar a su hermano** — de espaldas junto a Sae, camisetas «SAE 10» /
+   «RIN 10», la selección absoluta contra Blue Lock: mismo tráiler, 0:36.
+   https://www.dailymotion.com/video/x98n4ks?t=36
 
-De los 4 personajes que pide el encargo (Isagi, Bachira, Nagi, Rin), los dos episodios completos que se pudieron ver enteros (T2E09 y T2E14, ver nota al principio) son del arco del Mundial U-20: el **XI titular de Blue Lock en esa exhibición no incluye a Bachira ni a Nagi** en las escenas vistas (protagonizan Isagi, Rin, Shidou, Sae y rivales secundarios) — no se pudo confirmar con vídeo propio si aparecen en otro tramo del mismo episodio por falta de tiempo en esta tanda. Sus poses quedan pendientes de un tercer capítulo con Team Z (T1, arco de la primera selección) — ver «Sigue» al final. Lo de abajo es de fotogramas mirados directamente (Read), no de memoria.
+**Cuál pose sirve para qué** (pide el punto 14 explícitamente):
+- **Presentar**: Isagi #1 (ojos brillando), Bachira #1 (primer plano), Nagi
+  #3 (balón en la cabeza), Rin #1 (cartel de rango).
+- **Explicar**: Isagi #4 (preguntando de perfil).
+- **Celebrar**: Isagi #7, Bachira #5 (sonrisa monstruo), Nagi #5 (riendo).
+- **Regañar/encarar**: Bachira #4 (agarrón), Rin #5 y #6 (mirada fría,
+  frente a Chigiri o su hermano).
+- **Pensar**: Isagi #3, Nagi #6 (practicando solo a contraluz).
+- **Animar** (a sí mismo o su habilidad): Isagi #6, Nagi #4 (aura azul).
+- **"No hacer nada" / fuera de personaje competitivo**: Nagi #7 (tumbado
+  comiendo) — es la pose que más lo define, según su propia ficha.
 
-**Isagi Yoichi** (7 fotogramas, T1E11 y T2E14):
-1. Silueta rota tipo rompecabezas, brazos hacia adelante rompiendo una superficie — T1E11, 0:01 (clip `youtube-B_o-Fty-QFc`) — sirve para **presentar/anunciar** un cambio de nivel del personaje
-2. Su «monstruo interior» en silueta negra con ojos verde brillante apareciendo detrás de él — T1E11, 0:09 — sirve para **pensar/decidir** (momento de introspección antes de actuar)
-3. Primeros planos, ojos muy abiertos, mirada fija — T1E11, 0:14 — sirve para **animar/determinación**
-4. Sonrisa confiada de lado, luz dura — T1E11, 0:18 — sirve para **celebrar** (contenido, no explosivo)
-5. Ojo derecho iluminado en verde con patrón de remolino, primer plano — T2E14, 17:42 (https://archive.org/details/blue-lock-2-14-vostfr&t=1062) — sirve para **explicar/revelar** su nivel; es el mismo color-firma que en el punto 2 del T1E11: el verde identifica su "despertar" en las dos temporadas
-6. Patada a contraluz con polvo levantado, cuerpo entero en diagonal — T2E14, 17:35 — sirve para **actuar/ejecutar** (el remate)
-7. Brazos totalmente abiertos, cabeza hacia atrás, camiseta «ISAGI 11» a contraluz de los reflectores tras el gol — T2E14, 13:10 (https://archive.org/details/blue-lock-2-14-vostfr&t=790) — sirve para **celebrar** (la pose más "de cartel" de las siete, la más recomendable para lámina)
+### 10 · Vídeos: tráileres, escenas, análisis y tendencias (con minuto)
 
-**Rin Itoshi** (6 fotogramas, T2E09 y T2E14):
-1. De niño, puños cerrados contra la valla de la portería, cara de frustración/anhelo — T2E09, 0:16 (https://archive.org/details/blue-lock-2x-09-vostfr&t=16) — sirve para **pensar** (anhelo de igualar a su hermano)
-2. De niño, sentado dentro de la portería vacía con un balón entre las manos — T2E09, 1:38 — sirve para **pensar/soledad**
-3. Ojo derecho con halo turquesa (su "despertar", color distinto al verde de Isagi) primer plano — T2E14, 5:24 (https://archive.org/details/blue-lock-2-14-vostfr&t=324) — sirve para **explicar/revelar** nivel, igual que el punto 5 de Isagi pero en turquesa: confirma que cada personaje tiene su color de efecto propio
-4. Mirada de lado, ceño fruncido, sonrisa de desprecio hacia un rival — T2E14, 3:45 (apodo en pantalla: «Rin Itoshi... c'est donc ça, ton flow?») — sirve para **regañar/intimidar**
-5. Cara manchada de barro/sudor, ojos entrecerrados, gesto agresivo gritando — T2E14, 11:06 — sirve para **regañar** (plano de partido, tensión máxima)
-6. Postpartido, agachado en el campo, otro jugador le dice «C'était super, Rin» — T2E14, 10:48 — sirve para **saludar/reconocer** (el único momento "suave" de los seis, bueno para una lámina de bienvenida o agradecimiento)
-
-**Bachira Meguru y Seishiro Nagi**: pendiente de fotogramas propios (no aparecieron en los 2 episodios completos disponibles). Mientras tanto, para pose y color puede usarse lo ya confirmado por el investigador de imagen en `datos.json`/`imagen.md` (fichas oficiales de Fandom con ✅ de dos fuentes), pero **sin minuto de vídeo propio** — se marca ⚠️ aquí hasta que se vea un capítulo de Team Z.
+- Lista completa de tráileres y temasers oficiales mirados, todos con
+  `fotogramas.py`, todos en Dailymotion (YouTube bloqueado en este servidor):
+  - Tráiler oficial (EN, mirror IA): visto arriba (punto 2), 1:47.
+  - **«Blue Lock Animé - Teaser 3 - Meguru Bachira»**
+    https://www.dailymotion.com/video/x89nzmm · 0:47 · JeuxVideo.com · teaser
+    de personaje, ver detalle de poses en el punto 14.
+  - **«Blue Lock Official Teaser Trailer 7»** (Zantetsu Tsurugi, rango 223,
+    no es de los 4 personajes de este encargo)
+    https://www.dailymotion.com/video/x8cjdfd · 0:26.
+  - **«Blue Lock Official Teaser Trailer 8»** (Reo Mikage rango 222 + Seishiro
+    Nagi rango 221, doble teaser) https://www.dailymotion.com/video/x8cmhe2 ·
+    0:26 · ver poses de Nagi en el punto 14.
+  - **«BLUE LOCK VS U-20 JAPAN TEASER»** visto arriba (punto 2), 0:45.
+  - Tráiler oficial de **Episode Nagi** (película):
+    https://www.dailymotion.com/video/x8n9n5q (39s, «Official Teaser
+    Trailer») y https://www.dailymotion.com/video/xa1wjb2 (40s, «Teaser
+    Trailer», Fandango) — dos fuentes que coinciden en fecha de estreno 2024 ✅
+    (no se procesaron con `fotogramas.py`: la película completa ya se miró
+    directamente, ver punto 2 y 14).
+- **Grabación real de emisión en TV** (Toonami/Adult Swim, EE. UU., doblaje
+  inglés): «Blue Lock & Tokyo Revengers episode 13 Toonami airing»
+  https://archive.org/details/you-cut-20260509-120027008 · 1:00:31 (incluye
+  cortes comerciales reales — Febreze, promos de citas — y luego pasa a Tokyo
+  Revengers a partir del minuto ~36) · ⚠️ (grabación de fan, sin poder
+  confirmar a qué episodio exacto corresponde «13» en la numeración oficial:
+  el cartel en pantalla dice «ITOSHI RIN RANK 1», que en el manga/anime
+  ocurre en la primera selección, T1). Sirve para las poses de Rin (punto 14)
+  y como prueba de que Blue Lock se emitió doblado al inglés en Toonami
+  (cadena de Cartoon Network/Adult Swim, EE. UU.), dato útil para el punto 8
+  de doblaje (aunque ese punto es de la investigadora de voz).
+- **Vídeo de análisis**: «Blue Lock: This Sports Anime Is Captain Tsubasa Meets
+  Squid Game» (canal Eight Bit) — visto arriba (punto 2). El propio título ya
+  resume el ángulo del análisis: compara Blue Lock con Captain Tsubasa (por el
+  fútbol) y con Squid Game (por la premisa de eliminación/supervivencia entre
+  300 concursantes). 902 descargas en el mirror de Internet Archive.
+- **Tendencias TikTok**: ver el aviso ⚠️ del punto 9 (misma búsqueda, mismo
+  resultado flojo). No hay una fuente sólida que dé vistas o fecha concretas
+  desde este servidor (TikTok no es accesible directamente); lo que hay son
+  resúmenes de búsqueda, no la app en sí.
 
 ## Lo mejor para la lámina
 
-1. **Isagi celebrando el gol, brazos abiertos, camiseta «ISAGI 11» a contraluz de los reflectores del estadio** (T2E14, 13:10, https://archive.org/details/blue-lock-2-14-vostfr&t=790) — la pose más "de cartel", luz dramática ya resuelta, sirve para una lámina de bienvenida o de celebración/logros del canal.
-2. **El ojo verde de Isagi encendido en primer plano** (T2E14, 17:42) junto al **ojo turquesa de Rin** (T2E14, 5:24) — mismo recurso visual (efecto de "despertar") en dos colores distintos: sirve de referencia directa para una IA de imagen que tenga que generar "modo enfocado" de cualquier personaje con su color propio.
-3. **Paleta violeta-magenta de las cartelas de presentación de jugador** (T2E14, 0:20, `#0C0409`/`#360F25`/`#D84B84`) — distinta del azul "marca" del edificio Blue Lock (`#2553A8`): útil para un fondo de "ficha de personaje" o rótulo que no repita el azul que ya usan imagen y texto en todas partes.
+- La **sala de rejilla azul** de la instalación (punto 4, hex medidos) es el
+  fondo más reconocible de la serie y contrasta fuerte con cualquier escena
+  cálida — sirve de base para un concepto "dentro de Blue Lock" oscuro y
+  tenso.
+- La pose de **Nagi tumbado comiendo sin ganas** (punto 14, #7) es la imagen
+  que mejor resume su personalidad en una sola viñeta — perfecta para un
+  cuadro de humor/carácter.
+- El enfrentamiento **Rin vs. Sae, espalda con espalda, camisetas "RIN
+  10"/"SAE 10"** (punto 14, #6) es la escena más citada por fans de la 2ª
+  temporada: sirve para una lámina de rivalidad/hermanos.
+- La frase «世界一のエゴイストでなければ世界一のストライカーにはなれない» («si no
+  eres el egoísta número uno del mundo, no puedes ser el delantero número uno
+  del mundo») aparece en el teaser oficial de Bachira (0:20-0:22 de
+  https://www.dailymotion.com/video/x89nzmm) — es prácticamente el eslogan de
+  la serie, en japonés y con su romanización, útil como texto de cuadro.
+- **Isagi con la bufanda verde** (punto 14, #3) es la referencia de vestuario
+  civil "icónica" para cualquier lámina fuera de la cancha.
 
 ## No encontré
 
-- **AnimeThemes.moe**: error 522 (caído) en los 3 intentos hechos entre `datos-video.md` y esta tanda (ES/EN, 25-sep-2026) — no se pudieron bajar los `.webm` limpios de OP/ED. Sustituido con Wikipedia+ANN+MusicBrainz (punto 9) y con los OP/ED vistos dentro de los episodios completos.
-- **YouTube en directo**: pide iniciar sesión desde este servidor (confirmado varias veces, distintos vídeos) — todo el punto 10 se resolvió con copias oficiales en Internet Archive y clips en Dailymotion, como indica AYUDANTE.md.
-- **Episodio 1 real de la temporada 1** (audio japonés o cualquier idioma): no está en Internet Archive — búsquedas `blue lock episode 1`, `blue lock 01 vostfr`, identificadores `blue-lock-1-01-vostfr`, `blue-lock-01-vostfr`, `bl-s1` (vacío), `blue-lock-s-1-part-2_202311` (vacío), `blue-lock-1-4` (resultó ser la grabación de un streamer, descartada). Detalle completo en `episodios.md`. ⚠️ No es que el episodio "no exista": simplemente no hay copia accesible en las fuentes permitidas (YouTube bloqueado).
-- **Episodio 11 T1 completo** («The Final Piece», el Direct Shot): no hay copia entera en Internet Archive (búsquedas `blue lock episode 11`, `blue-lock-*-11-vostfr`) — sólo el clip oficial reeditado de 19s (`youtube-B_o-Fty-QFc`), que sí se miró fotograma a fotograma.
-- **Sonido viral exacto de TikTok** para los AMV de Blue Lock: sin acceso directo a TikTok desde este servidor; se confirmó el patrón (mismo AMV republicado en Dailymotion con el número de episodio en el título) pero no el nombre del audio/sonido de tendencia. ⚠️
-- **Hex de la sala de vestuario de Japón U-20** (T2E09, ~9:44-11:36): visto pero no medido con `estilo.py` por falta de tiempo en la tanda anterior — sí quedó una impresión visual anotada en el punto 4. ⚠️
-- **Textura CC0 específica de "césped nocturno de estadio con reflectores"**: no aparece en ambientCG con ese nombre; se deja la genérica `Grass005/Grass001` ya citada en `imagen.md`. ⚠️
-- **Lista oficial de pistas del OST** (para confirmar los nombres `CHIGIRI.mp3`, `NAGI.mp3`, etc. citados en el punto 9): sólo se encontró la recopilación de fan en Internet Archive; no hay tracklist oficial de Kodansha/Eight Bit accesible desde este servidor para cotejar como segunda fuente. ⚠️
+- ⚠️ **Qué pista exacta suena en cada escena emotiva, minuto a minuto**
+  (punto 9): sí encontré el tracklist por personaje (arriba, `RIN.mp3`,
+  `NAGI.mp3`…), lo que ya dice qué tema es "de quién"; lo que falta es
+  confirmar CUÁNDO suena cada uno dentro de un episodio concreto — eso pide
+  escuchar el episodio con el audio puesto en marcha (`fotogramas.py` no baja
+  audio, por diseño) y cotejarlo. Con el contexto de la ficha de
+  `episodio.py` del episodio 2x14 (arriba), lo más probable por el contenido
+  de la escena es que `RIN.mp3` suene sobre el minuto 21:00-22:00 (Rin
+  aceptando perder ante Isagi) — pero es una **hipótesis razonada, no
+  confirmada de oído** → no citar como hecho en la biblia final sin
+  comprobarlo escuchando.
+- ⚠️ **Efectos de sonido/onomatopeyas que reconoce el fandom** (punto 9):
+  busqué «Blue Lock sound effects iconic», «Blue Lock onomatopoeia shoot kick
+  sound» (WebSearch) — sólo aparecieron *soundboards* de fans sin fuente
+  clara del audio original. Es más un tema del manga en papel (onomatopeyas
+  dibujadas): pista para el investigador de texto (punto 6).
+- ⚠️ **Vistas y fecha exactas de las tendencias de TikTok** (punto 10): TikTok
+  no se puede abrir directo desde este servidor; sólo hay resúmenes de
+  búsqueda (WebSearch: «Blue Lock TikTok trend edit song viral sound 2026»),
+  sin poder comprobar cifras.
+- ⚠️ **Un segundo clip limpio (sin cámara de reacción encima) de Bachira**: las
+  7 poses del punto 14 salen todas del mismo teaser oficial de 47 s porque no
+  encontré otro vídeo en Dailymotion/Internet Archive con él en pantalla
+  completa sin marca de agua ni superposición — probé «Bachira Meguru blue
+  lock», «Blue Lock Bachira awakening», «Bachira Monster In Blue Lock» (todas
+  ediciones de fans cortas, sin identificar el episodio de origen).
+- ⚠️ **El episodio exacto (numeración oficial) de la grabación de Toonami**
+  usada para las poses de Rin: la grabación de fan sólo dice «episode 13» de
+  la emisión de EE. UU., que puede no coincidir con el número de episodio
+  japonés original. No lo pude confirmar cruzando con una guía de episodios
+  de Toonami (no encontrada en el tiempo disponible).
+- El *tráiler oficial* de 1:47 tiene un fotograma en 1:14 con los ojos
+  brillando que **no pude identificar con seguridad** (ver punto 2): lo dejé
+  sin atribuir a ningún personaje en vez de arriesgar un error.
 
 ## Bitácora de búsqueda
 
-- Internet Archive, `advancedsearch.php?q=identifier:blue-lock*` (EN) → lista completa de items con "blue-lock" en el identificador: reveló `blue-lock-nagi` («Candado Azul Película», audio español, 90:49 min — resultó ser la película recopilatoria *Blue Lock: Episode Nagi*) y los episodios sueltos `blue-lock-2x-10-vostfr`, `blue-lock-2x-11-vostfr`, `blue-lock-2-12-vostfr`, `blue-lock-2-13-vostfr` (no vistos por falta de tiempo, quedan como fuente futura).
-- `ffprobe`/`ffmpeg` directo contra la URL de descarga de `blue-lock-nagi` (sin bajar el archivo entero) para extraer fotogramas por rango de segundos: confirmado que Internet Archive admite range requests, igual que hizo el investigador anterior con `blue-lock-1-4`.
-- Fandom `bluelock.fandom.com/api.php`, `action=query&list=search&srwhat=text` (EN) con `Bachira Team Z Team V match` → confirmó la página «Team V vs Team Z» (episodios 8-11 T1, marcador final 5-4, alineaciones completas con número de camiseta) — usada para ubicar la escena de Bachira en la película de Nagi.
-- Fandom, página «Team Z» (EN): roster general con Bachira #8; la página del partido «Team V vs Team Z» lo lista como #7 — los números de camiseta de Blue Lock cambian de partido a partido según ranking, no sirven para identificar personajes de un vistazo; se identificó a Bachira por su pelo turquesa/menta y colmillos, no por dorsal.
-- `curl` a `api.animethemes.moe/anime?filter[slug]=blue-lock` (EN), 25-sep-2026 → sin respuesta / error de conexión, tercer intento fallido, se abandona esta fuente definitivamente (AYUDANTE.md: no más de 2-3 intentos a la misma web).
-- Barrido propio con `fotogramas.py --cada 180` (barrido completo de los 90 min) y luego `--cada 60` (tramos de 15 min) sobre `blue-lock-nagi` para ubicar la parte del partido Team Z vs Team V (marcador en pantalla de "2-0" a "5-4") y buscar a Bachira y Nagi con las hojas de contacto miradas directamente (Read), no de memoria.
+- **Sin repetir lo de `datos-video.md`** (AniList tráiler, Dailymotion por
+  «BLUE LOCK opening/ending/trailer/escena», Internet Archive, MusicBrainz —
+  éste último dio sólo falsos positivos por la palabra «lock», descartado).
+- AnimeThemes (`api.animethemes.moe`): reintentado 3 veces a lo largo de la
+  tanda (con `--globoff` en curl, el error inicial era de sintaxis, no del
+  servidor) — sigue dando **522** las 3 veces. Sin datos de esa fuente.
+- `api.jikan.moe` (Wikipedia vía MyAnimeList): **504**, sin datos.
+- `en.wikipedia.org` API: **429** dos veces seguidas (probablemente por las
+  otras investigadoras del mismo contenedor pegando a la vez) — a la tercera,
+  con espera y otro user-agent, respondió bien (`/api/rest_v1/page/summary`).
+- Dailymotion (`api.dailymotion.com/videos?search=…`), sin gastar el cupo del
+  buscador web: «Blue Lock opening full», «Blue Lock episode 1», «Blue Lock
+  Isagi awakening», «Blue Lock Crunchyroll clip», «Bachira Meguru blue lock»,
+  «Blue Lock Teaser Isagi», «Blue Lock Teaser Itoshi», «Blue Lock Animé
+  Teaser» (ésta encontró los teasers numerados de personaje).
+- Internet Archive (`archive.org/advancedsearch.php`), búsqueda de texto
+  `title:(blue lock) AND mediatype:(movies)`, 200 filas — así aparecieron los
+  episodios VOSTFR sueltos, la película Episode Nagi y las grabaciones de
+  Toonami que no estaban en `datos-video.md` (el recolector sólo trajo los 20
+  primeros resultados por popularidad, sin filtrar por tipo de contenido).
+- `archive.org/metadata/<id>` en cada candidato antes de procesarlo, para
+  comprobar que traía un archivo de vídeo real (`.mp4`/`.webm`/`.mkv`) y no
+  sólo una miniatura — descartó `bl-s1` y `blue-lock-s-1-part-2_202311`
+  (ítems vacíos, sin vídeo real pese al nombre).
+- WebSearch (3 búsquedas del cupo de ~50, en español/inglés): «Blue Lock anime
+  opening ending theme songs season 1 season 2 list» (✅ dio OP/ED con fuente
+  ANN+Wikipedia), «Blue Lock TikTok trend edit song viral sound 2026» (⚠️
+  floja), «Blue Lock sound effects onomatopoeia iconic» (sin resultado útil).
+- Vídeos mirados de verdad con `fotogramas.py` (hojas leídas con Read, no sólo
+  metadatos): tráiler oficial (36 planos), «Blue Lock 1-4» reacción/recopilación
+  (85 + más de 100 fotogramas en 3 pasadas), «Blue Lock 2x14 VOSTFR» (24),
+  «Episode Nagi» película (55), grabación de Toonami ep.13 (61), teaser
+  Bachira (24 + 3 en grande), teaser 7 y 8 (13+14), tráiler U-20 (23+1 en
+  grande), vídeo de análisis Eight Bit (3). Total: **más de 15 vídeos/clips
+  distintos** procesados con el visor de fotogramas.
+- `estilo.py` corrido 3 veces sobre fotogramas propios (no imágenes de stock)
+  para los hex de fondos del punto 4.
 
+- `herramientas/episodio.py` corrido en **2 trozos clave** (con `--id
+  42-blue-lock`, quedaron en `partes/episodios.md`, 344 planos entre los dos):
+  - Tramo final del episodio 2x14 (13:00-23:51, audio japonés con Whisper) —
+    revela el discurso de Ego («才能の原石ども… 俺はこの中から世界一のストライカーを
+    作り出す», talentos en bruto, de aquí sacaré al mejor delantero del mundo)
+    y la frase de Rin aceptando a Isagi como rival tras perder («今この瞬間か
+    ら お前は俺のライバルだ»). Detalle citado también en el punto 2.
+  - Tramo de la película «Episode Nagi», 30:00-40:00 (Nagi se integra al
+    equipo de Reo) — confirma con sus propias palabras el carácter perezoso
+    («めんどくさがりや», alguien a quien todo le da pereza) y deja una frase de
+    su familia que explica su arco: «本当にかしこい人間は馬鹿にバカって言わない優し
+    さを持ってる» (la gente de verdad inteligente tiene la amabilidad de no
+    llamar tonto a un tonto) — útil para la investigadora de voz (punto 13,
+    carácter) y para el redactor. ⚠️ Whisper confunde el nombre «凪誠士郎»
+    (Nagi Seishirou) en varias líneas: revisar antes de citar textual.
+
+Repaso contra ENCARGO.md antes de cerrar: los 5 puntos asignados (2, 4, 9, 10,
+14) están cubiertos con fuente y minuto; el punto 14 tiene 6-10 poses por
+personaje para los 4 (Isagi 8, Bachira 7, Nagi 8, Rin 6), cada una con
+capítulo/vídeo y minuto o enlace, como pide el encargo explícitamente. Lo que
+queda suelto (segundo clip de Bachira, número de episodio exacto de Toonami)
+ya está en «No encontré» y no bloquea lo obligatorio de ningún punto.
+
+Sigue: escuchar (con audio real, no `fotogramas.py`) el episodio 2x14 entre
+20:00 y 23:00 para confirmar de oído si sí suena `RIN.mp3` ahí — es la única
+pieza obligatoria del punto 9 («qué tema suena en las escenas más emotivas»)
+que quedó como hipótesis razonada en vez de dato confirmado.

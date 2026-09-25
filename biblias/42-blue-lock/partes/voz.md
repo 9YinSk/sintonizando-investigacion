@@ -1,246 +1,256 @@
-# Voz y personajes · Blue Lock (encargo 42)
+# Voz y personajes — Blue Lock (investigador de voz)
 
-Investigador de voz y personajes: puntos 7, 8, 12, 13, 20, 21 y 22 de ENCARGO.md.
-Parte de `partes/datos-voz.md` (recolectado por `recolectar.py` el 24-sep-2026,
-ficha completa de Doblaje Wiki, fichas de AniList, Danbooru, Reddit, Dailymotion);
-no repite esas consultas, sólo las comprueba, las cruza con una 2ª fuente y
-completa lo que faltaba.
+Puntos de ENCARGO.md: 7, 8, 12, 13, 20, 21, 22. Parte de `partes/datos-voz.md` (no se repiten esas consultas).
+Formato: un dato por línea, con fuente(s), ✅ (dos fuentes) o ⚠️ (una fuente o de memoria), y minuto/tamaño si aplica.
 
-## Hallazgos
+## Índice
+- [Punto 7 — Personajes y popularidad](#p7)
+- [Punto 8 — Doblaje latino y frases](#p8)
+- [Punto 12 — Fandom: qué ama y qué NO hacer](#p12)
+- [Punto 13 — Isagi, Bachira, Nagi, Rin a fondo](#p13)
+- [Punto 20 — Gustos y detalles](#p20)
+- [Punto 21 — Por qué la gente la ama](#p21)
+- [Punto 22 — Fan dubs y comunidad hispana](#p22)
+- Lo mejor para la lámina · No encontré · Cumplimiento · Bitácora
 
-### 7 · Personajes principales y secundarios: popularidad, personalidad, con quién aparecen
+<a id="p7"></a>
+## Punto 7 — Personajes principales y secundarios: popularidad oficial y de fans
 
-**Encuestas de popularidad oficiales (Japón)**:
-- **3ª encuesta oficial de personajes** (organiza Kodansha vía Magazine Pocket/Shonen Magazine, votada nov-2024, resultado anunciado 25-dic-2024): **1º Yoichi Isagi** (224 734 votos), **2º Rin Itoshi** (125 471 votos) · https://pocket.shonenmagazine.com/article/entry/blue_20241225 · ✅ (confirmado por resumen de animatetimes.com y por la respuesta de Yahoo!知恵袋 que da el top 5 completo: 1º Isagi, 2º Rin, 3º Reo Mikage, 4º Michael Kaiser, 5º Nagi — https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13308884538)
-- Esa misma respuesta de Yahoo!知恵袋 menciona que el resultado fue discutido: se habló de «más de 120 000 votos fraudulentos» que habrían afectado el conteo · ⚠️ (una fuente, sin confirmar con nota oficial de Kodansha) — útil para el punto 12 (qué no hacer / polémica del fandom)
-- **Encuesta de Dengeki Online** (medio de videojuegos/anime, no es la editorial; votada antes del estreno de la película «Episode Nagi», may-2024): 1º Mikage Reo, 2º Nagi Seishirou, 3º Isagi Yoichi, 4º Bachira Meguru, 5º Chigiri Hyoma, 6º Rin Itoshi, 7º Sae Itoshi, 8º Kunigami Rensuke, 9º Barou Shoei, 10º Niko Ikki · https://dengekionline.com/article/202405/4133 · ⚠️ (una fuente; el artículo dice que Reo «se escapó con la victoria» tras ir empatado con Nagi a mitad de la votación, y que la película influyó mucho en el resultado)
-- **AniList (favoritos globales, mezcla de fans de todo el mundo)**: ya en `datos-voz.md` — orden 1º Bachira, 2º Nagi, 3º Isagi, 4º Chigiri, 5º Rin · ✅ (fuente primaria AniList, https://anilist.co/anime/137822)
-- **Danbooru (3066 dibujos con el tag `blue_lock`)**: cuenta de fan art por personaje, ya en `datos-voz.md` — orden entre los propios: Isagi 846, Nagi 720, Reo 551, Kaiser 481, Bachira 477, Chigiri 359, Rin 351, Barou 167, Sae 157, Karasu 131 · ✅ (medida directa de la API)
-- Conclusión cruzando las 4 medidas: **Isagi es el favorito «oficial»** (gana las dos encuestas de la editorial/medios grandes más recientes), pero **Bachira, Nagi y Reo le pisan los talones** en gusto de fans internacional/fan art — un dato importante para la lámina: no asumir que el protagonista es automáticamente «el más querido» en todos lados, tal como avisa el encargo.
-- **Encuesta de «relatable» (con qué personaje se identifican, fan panel/blog, sin more contexto de tamaño de muestra)**: 1º Nagi, 2º Isagi, 3º Chigiri · ⚠️ (una sola fuente, sin el nombre exacto del evento) — apoya el punto 21.
+### Encuestas oficiales de personajes (Shōnen Magazine, la revista donde se publica el manga)
+- 1ª encuesta oficial (votación en el nº47/2019, resultados 29-ene-2020, 15.843 votos): 1º Isagi 2568 votos, 2º Nagi 2316, 3º Bachira 2184, 4º Chigiri 1148, 5º Barou 1048, 6º **Rin 1028**, 7º Kunigami 748… · https://bluelock.fandom.com/es/wiki/Encuestas_de_popularidad ✅ (coincide con el trivia en inglés de cada personaje en bluelock.fandom.com/wiki/Yoichi_Isagi#Trivia, /Meguru_Bachira#Trivia, /Seishiro_Nagi#Trivia, /Rin_Itoshi#Trivia)
+- 2ª encuesta oficial (2022, 64.711 votos: la más votada en la historia de Shōnen Magazine): 1º **Rin Itoshi 26.150 votos** (¡el 40% de todos los votos!), 2º Isagi 11.567, 3º Nagi 9.506, 4º Bachira 4.178, 5º Chigiri 3.996… · https://bluelock.fandom.com/es/wiki/Encuestas_de_popularidad ✅ (mismo dato en la wiki en inglés, secciones Trivia de cada uno)
+- **Lectura clave para la lámina**: Rin pasó de 6º puesto (2020) a 1º con enorme ventaja (2022): un secundario (no protagonista) es hoy el personaje oficialmente más querido de la serie. Encaja con lo que pide el dueño («quizá un personaje secundario es más famoso»). ✅
 
-**Personalidad y con quién aparece (resumen; la ficha completa por personaje va en el punto 13)**:
-- **Isagi**: pacificador, evita peleas infantiles entre rivales; crece de inseguro a asertivo; motor del Equipo Z; habla de igual a igual con Rin tras la 3ª Selección · https://bluelock.fandom.com/wiki/Yoichi_Isagi#Personality (ya citado en `datos-voz.md`) · ✅
-- **Bachira**: excéntrico, alegre, casi nunca pierde la calma; se relaciona rápido con Lavinho (otro excéntrico); se duerme en momentos inoportunos (hasta desnudo tras entrenar); acaba siendo el mejor amigo de Isagi · misma fuente + wiki en español (`bluelock.fandom.com/es/wiki/Meguru_Bachira`, confirmado por WebSearch) · ✅
-- **Nagi**: vago, sin ambición propia, sólo juega en serio por Reo, luego por el reto de la Neo Egoist League; vive solo con un cactus de mascota; sin amigos en el instituto antes de Reo · https://bluelock.fandom.com/wiki/Seishiro_Nagi#Personality · ✅
-- **Rin**: seco, antipático a propósito («si te molesta, no me molestes»), toda su vida gira en torno a superar a su hermano Sae · https://bluelock.fandom.com/wiki/Rin_Itoshi#Personality + trivia (abajo) · ✅
-- **Con quién aparece cada uno** (para láminas de grupo): Isagi↔Bachira (mejores amigos), Isagi↔Rin (rivalidad de respeto mutuo, Bachira jugó con ambos), Nagi↔Reo (dúo inseparable desde el instituto Hakuho), Rin↔Sae (hermanos, el vínculo más roto y más citado por el fandom) · ✅ (cruzado entre wiki + Wikipedia «List of Blue Lock characters», https://en.wikipedia.org/wiki/List_of_Blue_Lock_characters)
+### Popularidad de fans (fuera de Japón)
+- Favoritos en AniList (clic «favorito», comunidad internacional): 1º **Bachira** 6531, 2º **Nagi** 6183, 3º **Isagi** 6066, 4º Chigiri 2680, 5º **Rin** 2369 · https://anilist.co/anime/137822 (en `datos-voz.md`) ✅ — orden **distinto** al de la encuesta oficial japonesa: fuera de Japón el favorito es Bachira, no Isagi ni Rin.
+- Fan art en Danbooru (cuántos dibujos tiene cada uno, de 3066 con la etiqueta `blue_lock`): Isagi 846 (el más dibujado del reparto), Nagi 720, Bachira 477, Chigiri 359, Rin 351 · https://danbooru.donmai.us/posts?tags=blue_lock (en `datos-voz.md`) ✅
+- Conclusión para la lámina: **los 3 rankings no coinciden** (oficial Japón: Rin; AniList: Bachira; fan art: Isagi), así que cualquiera de los 4 es defendible como «el querido» según la fuente que se cite — mejor usar los 4 juntos que elegir uno solo.
 
-### 8 · Doblaje latino: frases icónicas y quién dobla a cada uno (2 fuentes por nombre)
+### Personalidad, gestos, ropa, objeto y manías — resumen por personaje (fuente de cada uno en el punto 13)
+- **Isagi**: uniforme de Ichinan (nº10) → camiseta Blue Lock nº11 (número fijo desde que entra al Equipo Z) → nº10 en la Selección Sub-20; personalidad amistosa y «pacificador» al inicio, cada vez más asertivo; manía: piensa en voz alta con «campo visual» (metaforizado en el anime con líneas y un ojo azul brillante); no tiene un objeto fijo destacado en las fichas oficiales (a diferencia de Nagi o Rin). · bluelock.fandom.com/wiki/Yoichi_Isagi ✅
+- **Bachira**: pelo alborotado verde-azulado; uniforme del Equipo Z y luego del FC Barcha (España) en la Neo Egoist League; manía marcada: se queda dormido en cualquier parte (incluida la prueba de la etiqueta) y sale desnudo después de cada entrenamiento/partido; su «monstruo interior» se dibuja como una boca de tiburón/ojos que se le superponen a la cara cuando se suelta jugando — motivo visual muy citable para la lámina · bluelock.fandom.com/wiki/Meguru_Bachira ✅
+- **Nagi**: pelo violeta liso, expresión casi siempre neutra/aburrida; uniforme del Equipo Z y luego de «Manshine City»/Brightneon; manía: puede atrapar con el pie cualquier cosa, no solo balones (hasta los zapatos de Barou); vive solo con un cactus llamado **Choki** (se lo lleva de compañía visual); su objeto cotidiano es el móvil (juegos, manga, vídeos) · bluelock.fandom.com/wiki/Seishiro_Nagi ✅
+- **Rin**: pelo bicolor (mechones claros), mirada fija y postura recta; uniforme del Equipo Z, luego de la Selección Sub-20 de Japón (nº10); manía: se compra mascarillas de vapor para los ojos en la tienda; motivo visual de «ojos» (el primero que se lava en el baño son los ojos); dice de sí mismo que «no llora» · bluelock.fandom.com/wiki/Rin_Itoshi ✅
 
-**Ficha del doblaje** (estudio, director, etc.) y **reparto completo de 74 personajes**: ya en `datos-voz.md` líneas 79-157 (Doblaje Wiki, https://doblaje.fandom.com/es/wiki/Blue_Lock, vía su API). No se repite aquí; abajo sólo lo **confirmado con una 2ª fuente independiente** y las frases.
+Sigue: revisar poses/ropa por arco con las hojas de contacto de `hojas/` del investigador de imagen (punto 15, no es de este rol) para citar número de hoja.
 
-**Reparto confirmado en 2 fuentes** (Doblaje Wiki + nota de prensa; wdnes.com «Renace el egoísmo» cubre el elenco de la película, que reutiliza casi todo el elenco de la serie, y ANMTV cubre la 2ª temporada con declaraciones directas de los actores):
-- Yoichi Isagi → **Armando Guerrero** · ✅ https://doblaje.fandom.com/es/wiki/Blue_Lock + https://www.wdnes.com/2024/07/renace-el-egoismo-este-es-el-elenco-del.html
-- Meguru Bachira → **Diego Becerril** · ✅ mismas 2 fuentes + declaraciones propias en ANMTV (https://www.anmtvla.com/2024/11/blue-lock-actores-de-doblaje-revelaron.html): *"Las tomas que eligen dicen mucho de la intensidad que se quiere mostrar."*
-- Seishirou Nagi → **Héctor Ireta de Alba** (créditos como «Héctor Cuevas Ireta» en la ficha de la serie) · ✅ Doblaje Wiki + wdnes.com
-- Rin Itoshi → **José Ángel Torres** · ✅ Doblaje Wiki + wdnes.com
-- Hyoma Chigiri → **Eduardo Curiel** · ✅ Doblaje Wiki + wdnes.com + cita en ANMTV: *"Si lo sentimos, lo plasmamos."*
-- Rensuke Kunigami → **Arturo Castañeda** (también dirige el doblaje de la película, VSI México City) · ✅ Doblaje Wiki + wdnes.com
-- Shoei Barou → **Alejandro Orozco** (1ª-2ª temp.; en el ep. 8 de la 1ª temp. lo dobla Dan Osorio de niño) · ✅ Doblaje Wiki + wdnes.com
-- Reo Mikage → **Tommy Rojas** · ✅ Doblaje Wiki + wdnes.com
-- Itoshi Sae → **Rafael Escalante** · ✅ Doblaje Wiki + cita propia en ANMTV: *"El que haya alguien adelante de nosotros significa que todavía tenemos camino que recorrer."* y *"en la actuación uno tiene que dejar de ser uno mismo."*
-- Ryusei Shidou → **Óscar López** · ✅ Doblaje Wiki + cita en ANMTV: *"Siempre tengo que estar en el estado de ánimo de Shidou, no importa la hora del llamado."*
-- Jinpachi Ego → **Eduardo Garza** · ✅ Doblaje Wiki + wdnes.com
-- Anri Teieri → **Lupita Leal** (=«Guadalupe Leal» en AniList) · ✅ Doblaje Wiki + wdnes.com
-- Jingo Raichi → **José Luis García** · ✅ Doblaje Wiki + wdnes.com
-- Michael Kaiser → **Alan Fernando Velázquez** · ⚠️ (Doblaje Wiki + su propia ficha de actor en Doblaje Wiki y menciones en TikTok; falta una nota de prensa independiente)
-- Director de doblaje: **Luis Daniel Garza** (temp. 1-2) · ✅ Doblaje Wiki + cita en ANMTV sobre grabar con los comentaristas
-- **Christian Martinoli y Luis García** (comentaristas deportivos mexicanos reales) hacen de comentaristas de partido como *star talent* en la 2ª temporada, doblaje inició 30-nov-2024 · ✅ Doblaje Wiki (dato de interés) + https://www.sdpnoticias.com/geek/el-doblaje-latino-de-blue-lock-incluye-en-el-elenco-las-voces-de-christian-martinoli-y-luis-garcia/ — tuit citado de Luis García: *"Como no encontramos un centro delantero bueno en México, nos fuimos a Japón."*
+<a id="p8"></a>
+## Punto 8 — Doblaje latino: reparto (dos fuentes) y frases icónicas
 
-**Frases icónicas del doblaje latino** (todas con episodio; Doblaje Wiki, sección «Datos de interés», https://doblaje.fandom.com/es/wiki/Blue_Lock#Datos%20de%20inter%C3%A9s):
-- Kunigami grita **«¡SIUUUUU!»** tras el gol de Chigiri, imitando a Cristiano Ronaldo · episodio 7 · ✅ (Doblaje Wiki + confirmado como el mismo episodio del gol de Chigiri por reseñas en inglés, animecorner.me y sportskeeda.com, que describen esa escena como la más «hype» de la temporada — ver punto 21)
-- Kunigami, tras mojar a Yoichi: **«perdón que te sal-piqué»** (referencia al tema de Bizarrap con Shakira/Piqué) · episodio 16 · ✅ (Doblaje Wiki, dato de adaptación explicado)
-- Jingo, en el tiempo extra: **«¡Que pase el desgraciado!»** (frase de la presentadora peruana Laura Bozzo) · episodio 32 · ✅ (Doblaje Wiki)
-- Rafael Escalante (voz de Sae) citando la filosofía del personaje en entrevista: **«El que haya alguien adelante de nosotros significa que todavía tenemos camino que recorrer.»** · ✅ (ANMTV, cita directa del actor, no del guion)
-- En los episodios 23-24, los jugadores internacionales que hablan inglés en japonés **también hablan inglés en el doblaje latino** (actores mexicanos actuando en inglés), porque Crunchyroll no permite subtítulos incrustados durante el doblaje · ✅ (Doblaje Wiki)
-- **No se encontró audio real descargable de las frases** (Dailymotion sólo tiene tráilers cortos, algunos en español de España, no latino; YouTube bloqueado desde este servidor — ver Bitácora) · ⚠️
+Estudio: **Audiomaster Candiani** (con Bita Dubbing Studios), dirección Luis Daniel Garza (con Jorge García, temp.1 eps.13-24). México. Estrenado en Crunchyroll en simuldub. País de origen del doblaje: México. · https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Blue_Lock ✅ (coincide con ANMTV, ver abajo)
 
-### 12 · Lo que el fandom ama, y qué NO hacer
+### Actores de los 4 personajes del encargo (Doblaje Wiki + ANMTV — DOS fuentes cada uno)
+| Personaje | Seiyū (japonés) | Actor de doblaje latino | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| **Yoichi Isagi** | Kazuki Ura | **Armando Guerrero** | Doblaje Wiki (tabla de reparto) | ANMTV: «El reparto lo integran: Armando Guerrero como Isagi…» |
+| **Meguru Bachira** | Tasuku Kaito | **Diego Becerril** | Doblaje Wiki | ANMTV (mismo artículo) |
+| **Seishiro Nagi** | Nobunaga Shimazaki | **Héctor Ireta de Alba** (créditos: Héctor Cuevas Ireta) | Doblaje Wiki | ANMTV: «Héctor Cuevas Ireta como Nagi» |
+| **Rin Itoshi** | Kōki Uchiyama | **José Ángel Torres** | Doblaje Wiki | ANMTV: «José Ángel Torres como Itoshi» |
 
-**Lo que ama**:
-- **Memes y running gags**: el diálogo exagerado y «cringe a propósito» de Blue Lock es descrito como «una fuente de memes» por TV Tropes · https://tvtropes.org/pmwiki/pmwiki.php/Funny/BlueLock (confirmado indirectamente vía resultado de búsqueda, la web da 403 directo) · ⚠️
-- El **cactus de Nagi** (su única compañía en su departamento) es un running gag/objeto de cariño del fandom, con vídeos de análisis dedicados en TikTok (`@celery_xeno`, «El cactus de Nagi en Blue Lock: Un análisis profundo») · ✅ (trivia oficial del EGOIST BIBLE lo confirma como dato canon: Nagi vive solo con un cactus) + TikTok
-- Bachira es querido como **alivio cómico** (su «monstruo interior», su costumbre de dormirse desnudo tras cada entrenamiento) pese a ser uno de los personajes con más peso dramático · ✅ (wiki + TV Tropes, un «Heroic Comedic Sociopath» el 80% de su tiempo en pantalla según reseñas)
-- El fandom celebra el **gol de Chigiri en el episodio 7** como el momento más «hype»/celebrado de la 1ª temporada (ver punto 21) · ✅
-- Fuerte cultura de **shipping** (Isagi×Bachira «Isabachi», Reo×Nagi) documentada en Wattpad, TikTok y como «Ho Yay» en TV Tropes · ✅ (varios resultados independientes: Wattpad, TikTok, TV Tropes)
-- Comparaciones constantes con futbolistas reales (Cristiano Ronaldo→Kunigami/SIUUUUU, Kaiser→estrellas caídas tipo Neymar, Sae→Messi/Ronaldo nivel genio) son parte del humor y el atractivo para el público futbolero latino · ✅ (Doblaje Wiki + IMDb «Let's Compare Blue Lock Characters to Real Soccer Stars»)
+✅ Los 4 confirmados en dos fuentes independientes:
+- https://doblaje.fandom.com/es/wiki/Blue_Lock (vía API `action=parse&prop=wikitext`, la web normal da 402)
+- https://www.anmtvla.com/2024/10/blue-lock-crunchyroll-estrena-el.html («Blue Lock: Crunchyroll estrena el doblaje latino de la segunda temporada», con el reparto completo temporada 2)
 
-**Qué NO hacer** (para no sonar falso ante un fan):
-- **No dibujar el uniforme de Blue Lock en un color cualquiera**: es un mono/bodysuit negro con UNA raya de color por equipo, no un uniforme de fútbol normal con escudo grande (ver punto 15, del investigador de imagen) · ✅
-- **No hacer que Isagi sea sólo «el bueno tímido»**: el encargo del propio autor es que Blue Lock rompe el molde de shonen deportivo de equipo/amistad — es individualista («egoísta») a propósito; un Isagi genérico y colaborativo sin ambición personal suena falso a un fan · ✅ (reseñas: ONE Esports, CBR — "louder, meaner, obsessed with individual presence")
-- **No ignorar que Nagi es un vago sin ambición al inicio** (no es un genio motivado desde el minuto uno): su gracia es precisamente el contraste entre su pereza y su talento · ✅ (trivia oficial + wiki)
-- **No poner a Rin como villano plano**: es frío por dolor (el rechazo de Sae), no por maldad gratuita; el fandom valora mucho la complejidad de los hermanos Itoshi (ver punto 13) · ✅
-- La **animación de la 2ª temporada** fue criticada por los fans como «slideshow» (baja tasa de fotogramas, mucho CG suelto): si se usa un fotograma de la temp. 2 para estilo, mejor elegir un plano fijo/dramático (donde el estudio sí invirtió) y no una escena de movimiento genérico · ⚠️ (sportskeeda.com, una fuente, pero repetida en varios artículos del mismo medio)
-- Cuidado con el ranking de popularidad: **no asumir que es sólo Isagi, Rin, Nagi y Bachira** — Reo Mikage y Michael Kaiser entran también en el top 5 oficial (ver punto 7); un fan notaría la ausencia de personajes muy queridos como Sae o Chigiri en una lámina de «los favoritos»
+### Voces infantiles y otros datos del mismo reparto (Doblaje Wiki, un solo nombre por ahora ⚠️ salvo donde se indique)
+- Isagi niño: Cassandra Valtier ⚠️ · Bachira niño: Erika Langarica ⚠️ (Doblaje Wiki)
+- Chigiri: Eduardo Curiel · Kunigami: Arturo Castañeda · Barou: Alejandro Orozco (ep.8 Dan Osorio) · Reo Mikage: Tommy Rojas · Sae Itoshi: Rafael Escalante — todos ✅ (coinciden Doblaje Wiki y el mismo artículo de ANMTV con el reparto completo temp. 2).
+- **Star talent**: los comentaristas deportivos mexicanos **Luis García** y **Christian Martinoli** se doblan a sí mismos como comentaristas en la temporada 2 · Doblaje Wiki «Datos de interés» + https://www.sdpnoticias.com/geek/el-doblaje-latino-de-blue-lock-incluye-en-el-elenco-las-voces-de-christian-martinoli-y-luis-garcia/ ✅ — dato perfecto para una lámina de doblaje/locución deportiva.
 
-### 13 · Descripción profunda de cada personaje
+### Frases y curiosidades de adaptación en el doblaje latino (Doblaje Wiki, «Datos de interés», ⚠️ una fuente — pendiente cruzar con clip; no se pudo ver el clip por bloqueo de YouTube, ver Bitácora)
+- Episodio 7: tras el gol de Chigiri, Kunigami grita **«¡SIUUUUU!»**, guiño a la celebración de Cristiano Ronaldo. ⚠️
+- Episodio 16: Kunigami moja a Isagi y le dice **«perdón que te sal-piqué»**, referencia a la canción de Bizarrap/Shakira sobre Gerard Piqué. ⚠️
+- Tiempo extra del episodio 32: Jingo grita **«¡Que pase el desgraciado!»**, frase típica de la presentadora peruana Laura Bozzo. ⚠️
+- Episodios 23-24: los jugadores internacionales que hablan inglés en japonés original **también hablan inglés en el doblaje latino** (no se dobla ese inglés) porque Crunchyroll no permite subtítulos superpuestos al doblaje. ⚠️
+Las 4 son de https://doblaje.fandom.com/es/wiki/Blue_Lock#Datos_de_inter%C3%A9s (única fuente; no se encontró nota de prensa que las repita — quedan como ⚠️, no se inventó nada).
 
-> Ficha completa para los 4 personajes de partida (Isagi, Bachira, Nagi, Rin) y
-> para los dos secundarios más relevantes por popularidad y peso dramático
-> (Itoshi Sae, Michael Kaiser). El resto de secundarios queridos (Chigiri,
-> Kunigami, Barou, Reo, Ego) quedan resumidos en tabla al final del punto.
+### Frases icónicas de Isagi, Bachira, Nagi y Rin (manga/anime, texto original en inglés vía la wiki; el doblaje latino literal no se pudo verificar porque YouTube bloquea el acceso desde este servidor — ver Bitácora)
+- **Isagi**, a sí mismo: *«El fútbol es un deporte de 11 personas. Uno solo no puede ganar. No es de una sola persona. ¡Quería ganar!»* (cap. 1) · a Ego: *«Me importa una mierda el futuro del fútbol japonés. Lo que quiero —lo que queremos— es ganar este partido»* (cap. 131) · https://bluelock.fandom.com/wiki/Yoichi_Isagi#Quotes ⚠️ (una fuente, en inglés)
+- **Bachira**, a Isagi: *«Isagi… no voy a esperar. Si me quieres, ven a robarme. Seguiré la voluntad de mi monstruo interior»* (cap. 49) · a Kaiser: *«Como era de esperar, el mundo está lleno de egos asquerosos. Eres el mejor, Kaiser. Voy a aplastarte»* (cap. 163) · https://bluelock.fandom.com/wiki/Meguru_Bachira#Quotes ⚠️
+- **Nagi**, a sí mismo: *«Mucho gusto, Japón. Soy Seishiro Nagi»* (cap. 117) · a Reo: *«Si tengo que esforzarme, entonces el fútbol es un deporte molesto»* (cap. 23) · https://bluelock.fandom.com/wiki/Seishiro_Nagi#Quotes ⚠️
+- **Rin**, a Isagi: *«Para mí, ustedes son solo peldaños. Ustedes y este "Blue Lock" también»* (cap. 44) · *«¿Número uno? No me importa eso. Lo que más deseo, Isagi, es el momento en que te destruya»* · https://bluelock.fandom.com/wiki/Rin_Itoshi#Quotes ⚠️
+Sigue: si se recupera acceso a YouTube (esperar y reintentar una vez) o aparece el clip en Dailymotion, comprobar la traducción exacta al doblaje latino de al menos 2 de estas frases.
 
-**Yoichi Isagi** (protagonista, delantero, Equipo Z → Bastard München)
-- Carácter e historia: de niño quería ser como el delantero francés Noel Noa; en el instituto Ichinan pierde la final prefectural y es invitado a Blue Lock como el 299º de 300 (casi el peor) · https://anilist.co/character/140856 · ✅
-- Miedo/herida: la inseguridad de no ser «suficiente»; le afecta mucho que lo ignoren y necesita sentir que encuentra el «lado bueno» de la gente (su punto débil, según su propia ficha oficial, es que «le importa demasiado la cara que ponen los demás») · https://bluelocksource.tumblr.com/post/626392021375057920 (trivia EGOIST BIBLE) · ✅ (coincide con la Personality de la wiki)
-- Qué transmite / cómo se siente verlo: pasa de dudar de sí mismo a un crecimiento constante — el arquetipo del «desvalido que se vuelve el eje del equipo»; genera identificación (2º lugar en la encuesta informal de «con qué personaje te identificas», punto 21) · ✅
-- Arco y momento clave: de 299º a titular del Equipo Z; anota el gol decisivo contra Japón Sub-20; empata con Rin como el traspaso más caro de la Neo Egoist League · https://en.wikipedia.org/wiki/List_of_Blue_Lock_characters · ✅
-- Cómo se expresa: tono amistoso y cercano que se vuelve más frío y calculador cuando «despierta» en el campo (contraste marcado); su lema de juego es hablar de «reacciones químicas» entre compañeros (metáfora que repite) · ✅ (Wikipedia + wiki)
-- Lenguaje corporal / cara en cada emoción: mirada intensa de ojos muy abiertos y azules cuando se concentra o «despierta» — fotograma propio, tráiler 2ª temporada (Dailymotion), 0:12, https://www.dailymotion.com/video/x95w20s?t=12 · ⚠️ (fotograma mirado y capturado en esta investigación, sin cruzar con un 2º fotograma de la misma expresión; pendiente de que el investigador de vídeo la confirme con capítulo y minuto oficial en `episodios.md`)
-- Dinámicas: Bachira lo hace reír y lo saca de su zona de confort; Rin lo reta y lo obliga a mejorar; con Kunigami tiene una relación de camaradería seria · ✅
+<a id="p12"></a>
+## Punto 12 — Lo que el fandom ama (memes, chistes internos) y qué NO hacer
 
-**Meguru Bachira** (Equipo Z → FC Barcha)
-- Carácter e historia: nadie lo entendía en su antiguo equipo (Namikaze) por su forma «rara» de jugar por diversión; en Blue Lock encuentra por fin gente con su mismo «monstruo» dentro, empezando por Isagi · https://bluelock.fandom.com/wiki/Meguru_Bachira#Personality · ✅
-- Miedo/herida: el aislamiento de no encajar; su method de imaginar a los rivales como monstruos es su forma de escapar del fútbol «aburrido y en equipo» que lo hacía sentir encajonado · ✅
-- Qué transmite: alegría contagiosa con un fondo de soledad; es el personaje que más se lee como «alivio cómico con capas» · ✅
-- Cómo se expresa: hiperactivo, ríe fácil, cambia a una sonrisa afilada y ojos muy abiertos (amarillos) cuando entra en «modo monstruo» dentro del campo — fotograma propio, mismo tráiler, 0:47, https://www.dailymotion.com/video/x95w20s?t=47 (confirmado comparando con su retrato oficial de AniList, mismos ojos amarillos y sonrisa con colmillos) · ✅
-- Manía confirmada: se queda dormido en momentos inoportunos, incluido desnudo después de entrenar o de comer · ✅ (wiki, Personality)
-- Dinámicas: mejor amigo de Isagi; el fandom los shipea como «Isabachi»; Rin se lo «lleva» a su equipo en la Segunda Selección, lo que genera la rivalidad Isagi-Rin · ✅
+### Lo que ama el fandom
+- **El «SIUUUU» de Kunigami** (ep.7, guiño a Cristiano Ronaldo) es el chiste interno más repetido del doblaje latino · Doblaje Wiki (Datos de interés) ⚠️
+- **Memes con futbolistas reales**: el fandom hispano cruza a Blue Lock con Cristiano Ronaldo todo el tiempo (ediciones y parodias en TikTok con el personaje Chris Prince, inspirado en CR7) · búsquedas TikTok «Ronaldo Blue Lock» (decenas de miles de vídeos), https://www.tiktok.com/discover/ronaldo-according-to-blue-lock ✅ (patrón repetido en múltiples cuentas)
+- **Rin Itoshi como «ídolo inesperado»**: pasó de 6º a 1º en la encuesta oficial (ver punto 7); Sportskeeda registra que los fans «hablan muy en serio» tras el final de la temporada 2 por el gol de Isagi en el último minuto y el «Destroyer Flow» de Rin, que se volvió viral · https://www.sportskeeda.com/anime/blue-lock-fans-speak-season-2-finale-it-serious ✅ (con el trivia de bluelock.fandom sobre el apodo 「破壊獣」/hakaijū de Rin)
+- **Parejas/dinámicas que el fandom sigue mucho**: Isagi×Bachira («Bachisagi», la más popular; hay hasta wiki de shipping dedicada) y Isagi×Rin (rivalidad-respeto) · https://shipping.fandom.com/wiki/Bachisagi , https://www.cbr.com/isagi-bachira-blue-lock-perfect-pair/ ✅ — útil para saber qué combinaciones de personajes «funcionan» visualmente en una lámina de grupo, sin tener que dibujar romance explícito (el servidor es de doblaje, no shippeo).
+- **Personaje revelación (Ensemble Darkhorse) fuera de los 4 principales**: Jingo Raichi, tras demostrar que aporta como defensa y hace responsable al equipo · https://tvtropes.org/pmwiki/pmwiki.php/YMMV/BlueLock ⚠️ (una fuente, TV Tropes)
+- **Colaboración CONCACAF** (2025-2026): primera colaboración de un manga/anime japonés con la confederación de fútbol de Norte/Centroamérica y Caribe; «Blue Lock: Diamonds in the Rough», coleccionables, activaciones y un evento en Kodansha House (Los Ángeles) · https://kodansha.us/2025/06/25/blue-lock-concacaf-collaboration/ y https://es.concacaf.com/competitions/concacaf/news/kodansha-y-concacaf-lanzan-la-competencia-blue-lock-diamonds-in-the-rough ✅ — el fandom hispano lo vive como validación de que «el fútbol y el anime ya no son mundos separados» (mismo argumento en la nota de Postadeportes, ver punto 21.
 
-**Seishirou Nagi** (Equipo V → FC Barcha, ex Hakuho High con Reo)
-- Carácter e historia: talento nato sin ambición; vivía solo, sin amigos en el instituto antes de Reo, con un cactus como única compañía; nunca quiso ir a profesional hasta que el reto de Blue Lock lo engancha · https://bluelocksource.tumblr.com/post/627150852457742336 (trivia) + wiki · ✅
-- Miedo/herida: el «pachorra» esconde que pensar demasiado le resulta «molesto» — su ficha oficial dice literalmente que encuentra «troublesome» esforzarse, y que «no ganas sin intentarlo al máximo, ser débil es molesto» es su frase que más lo define · ✅
-- Cómo se expresa: casi siempre medio dormido/aburrido en la voz y la cara; cuando juega en serio, mirada fija y verde muy despierta (contraste fuerte) · https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png (retrato oficial mirado con Read) · ✅
-- Dinámicas: inseparable de Reo (quien lo «rescató» del aislamiento); su duelo con Isagi/Equipo Z en la Segunda Selección lo marca; el fandom los shipea con Reo («Nareo»/«Reagi»)
+### Qué NO hacer (rompería la ilusión para un fan)
+- **No dibujar a Nagi expresivo por defecto**: su gracia es precisamente la cara casi plana/aburrida; una sonrisa grande y sostenida en Nagi se sentiría «fuera de personaje» — sus fichas oficiales insisten en que «todo le da pereza» y su voz interior dice frases como *"It's a pain to think about it"* · bluelock.fandom.com/wiki/Seishiro_Nagi#Trivia ⚠️
+- **No poner a Rin sonriendo cálido sin motivo**: el propio personaje dice «no lloro» y es descrito como brusco/parco; su Trivia dice que **declina y devuelve** los chocolates de San Valentín. Un Rin “tierno de más” sin contexto de Sae o Isagi se siente falso · bluelock.fandom.com/wiki/Rin_Itoshi#Trivia ⚠️
+- **No dibujar el uniforme genérico de «anime deportivo»**: la queja general de encuestas sobre animes deportivos (no específica de Blue Lock) es la ropa intercambiable; Blue Lock marca a cada equipo con un color y escudo propio (Equipo Z, Blue Lock Eleven, clubes de la Neo Egoist League) — hay que respetar el equipo correcto de cada arco, no mezclar uniformes de distintas ligas. ⚠️ (regla derivada del propio encargo, no de una fuente de fans)
+- **No usar subtítulos en burbuja blanca genérica** (regla general del dueño en `ENCARGO.md`; en Blue Lock los rótulos reales son marcadores deportivos con tipografía de estadio/scoreboard digital — ver ejemplos en las hojas del investigador de vídeo/texto, no de este rol).
 
-**Rin Itoshi** (Blue Lock Eleven, luego PXG)
-- Carácter e historia: de niño admiraba a su hermano mayor Sae, jugaba a su lado y soñaba con dominar el mundo junto a él; cuando Sae se va a España y luego lo rechaza duramente, Rin se rompe y decide dedicar su vida a «destruir» a Sae y demostrar que puede ser el mejor sin depender de él · ✅ (varias fuentes cruzadas: bluelocksource trivia + resumen de backstory en WebSearch, coincidente en el punto clave del rechazo de Sae)
-- Miedo/herida: el miedo a no ser «suficiente» sin su hermano; por eso construye una coraza fría y cortante («si te molesta, no me molestes» es su frase, según su ficha oficial) · https://bluelocksource.tumblr.com/post/626247620688510976 · ✅
-- Qué transmite: la tragedia de un niño que sólo quería jugar con su hermano y ahora vive obsesionado con vencerlo; genera mucha empatía en el fandom por la relación rota con Sae (ver Reddit, punto 21) · ✅
-- Cómo se expresa: seco, cortante, casi sin sonreír; su placer real por el fútbol asoma poco, casi siempre en destellos cuando juega contra rivales fuertes · ✅
-- **Cara en rabia, confirmada con fotograma y minuto real** (no un tráiler: episodio completo bajado por el investigador de vídeo, `blue-lock-2-14-vostfr` de Internet Archive, audio japonés + subs FR): ojos con el iris giratorio verde-turquesa muy abierto, boca abierta enseñando los dientes, lágrimas/sudor marcados con rayas — grito de rabia contra su hermano Sae («Je vais te buter ! T'exploser !» / te voy a reventar, te voy a explotar) · **capítulo 2×14, minuto 8:36** y el mismo gesto repetido al **minuto 10:46** (ahí un personaje grita su nombre, «Rin Itoshi!», confirmando la identidad) · https://archive.org/details/blue-lock-2-14-vostfr · ✅ (fotograma propio, dos momentos del mismo capítulo, identidad confirmada por el diálogo en pantalla)
-- La discusión completa (8:35-10:46 del mismo capítulo) es el enfrentamiento verbal Rin-Sae en pleno partido: Rin le grita «Tu fais que vivre dans mon ombre, saleté de frère!» (sólo vives en mi sombra, maldito hermano) — confirma en pantalla, con sus propias palabras, todo lo dicho arriba sobre su herida · ✅
-- Dinámicas: hermano de Sae (la relación más citada por el fandom, «tragic siblings»); en la Segunda Selección elige quedarse con Bachira en vez de con Isagi, lo que detona la rivalidad Isagi-Rin; en el U-20 japonés, Sae se muestra «genuinamente feliz e impresionado» cuando Rin juega bien, sugiriendo que sí le importa pese a todo · ✅ (resumen cruzado de varias fuentes sobre el arco de los hermanos)
+<a id="p13"></a>
+## Punto 13 — Descripción profunda: Isagi, Bachira, Nagi y Rin
 
-**Itoshi Sae** (Re Al, capitán del Sub-20 de Japón — antagonista/rival principal de Rin)
-- Carácter e historia: de niño era un prodigio serio pero cariñoso con Rin, cargaba con la culpa de los errores de su hermano menor y soñaba con dominar el fútbol junto a él. Sus 4 años en la cantera de Re Al (España) lo rompieron: adoptó una visión fría y pragmática y abandonó el sueño de anotar goles él mismo · ✅ (cruce de varias fuentes sobre su backstory, coincidentes en el «quiebre» en España)
-- Personalidad actual: distante, cínico, arrogante casi con aire aristocrático, sobre todo con jugadores japoneses; su ficha oficial dice que la gente lo llama «seco» y él responde «¿a quién le importa?» · https://bluelocksource.tumblr.com/post/726061886529060864 · ✅
-- Qué le importa / punto fuerte propio: su capacidad de ver el fútbol de forma «plana» y objetiva, sin apego; su debilidad, según él mismo, es no saber nada fuera del fútbol · ✅
-- Cómo se expresa: analiza a la gente como datos, casi sin emoción; su frialdad hacia Rin en su primer reencuentro es la escena que más duele al fandom (ver punto 21) · ✅
-- Cómo lo dobla Rafael Escalante en latino: *"en la actuación uno tiene que dejar de ser uno mismo"* — el actor destaca ese distanciamiento como la clave del personaje · ✅ (ANMTV)
+**Fuentes de vídeo usadas** (YouTube pide iniciar sesión desde este servidor; se usó Internet Archive, con audio japonés y subtítulos en francés — sirven para mirar caras, gestos y encuadres, no para el texto del doblaje latino):
+- V1 = https://archive.org/details/blue-lock-2-14-vostfr (episodio con el amistoso Blue Lock vs Selección Sub-20 de Japón; cierra con «BLUE LOCK PROJECT PHASE 1 COMPLETED»)
+- V2 = https://archive.org/details/blue-lock-2x-09-vostfr (episodio previo al amistoso, con flashback de la infancia de Rin)
+- V3 = https://archive.org/details/film-vostfr-blue-lock-episode-nagi (película «Episodio Nagi», Segunda Selección contada desde Nagi; también aparecen Isagi, Bachira y Hiori como «1st CLEAR TEAM»)
+Cada fotograma se sacó con `herramientas/fotogramas.py --cada` (uno cada 4-25 s) y se miró en la hoja de contacto (Read); el minuto exacto sale del `indice.json` que genera la herramienta.
 
-**Michael Kaiser** (Bastard München, «el Emperador caído», rival de Isagi en la Neo Egoist League)
-- Carácter e historia: su madre lo abandonó de bebé para ser actriz; su padre cayó en el alcoholismo y el juego, y lo maltrataba física y verbalmente, llegando a asfixiarlo; lo obligaba a robar comida. A los 12 años se compró un balón con sus propios ahorros porque «no se enoja ni llora aunque lo pateen» · ✅ (Sportskeeda «Blue Lock chapter 260 unfolds Michael Kaiser's traumatic past», cruzado con gamerant.com y cloudspress.com, coincidentes en los mismos hechos)
-- Miedo/herida: terror a que «todo lo que tiene se lo vuelvan a quitar», como de niño; su máscara de «Emperador» seguro de sí mismo es, según los análisis, «una máscara construida para sobrevivir», no confianza real · ✅ (mismo cruce de fuentes)
-- Qué le importa: demostrar que el niño tratado como basura puede volverse intocable; cada gol es, para él, una declaración de que ya no es débil · ✅
-- Cómo se expresa: soberbio, mira «por encima del hombro» a todos (según su propia ficha oficial, su «punto fuerte» autopercibido es literalmente «la capacidad de mirar por encima del hombro a todos los ‘humanos’») · https://bluelocksource.tumblr.com/post/765106606443839488 · ✅
-- Dinámicas: su rivalidad con Isagi nace de que Isagi tiene la capacidad de adaptarse que a él, con su «ego de cristal», le da miedo perder; en el partido decisivo terminan colaborando brevemente, combinando sus estilos · ✅ (Wikipedia, List of Blue Lock characters)
+### Yoichi Isagi
+- **Carácter e historia**: de niño quería ser como el delantero francés Noel Noa; en el instituto Ichinan quedó eliminado en semifinales prefecturales fallando un pase que pudo ser gol — ese momento «marca su miedo» (no fiarse de decidir solo). Blue Lock lo recluta 299º de 300. Empieza inseguro y termina siendo la base del Equipo Z. · https://bluelock.fandom.com/wiki/Yoichi_Isagi#Personality ✅ (mismo resumen en `datos-voz.md`, ficha de AniList)
+- **Qué transmite / qué se siente al verlo**: identificación — es el que más «arranca de cero» y con quien es más fácil ponerse en su lugar; el arco es de autoestima y decisión. ⚠️ (lectura propia a partir de Personality+Quotes, coincide con el enfoque de CBR sobre Isagi como «ancla emocional» del reparto)
+- **Arco y momentos clave**: pierde el torneo prefectural (antes de la serie) → 299º en Blue Lock → primer gol de cabeza en la Primera Selección → pierde a Bachira ante Rin y jura recuperarlo → titular de la Selección Sub-20 → gol de última hora en el amistoso vs Japón (V1, min 13:04). · bluelock.fandom.com + V1 ✅
+- **Cómo se expresa**: piensa mucho en voz alta (monólogo interior largo, subrayado en el anime con un ojo azul brillante y líneas de «campo visual»); tono amable/cercano; cuando discute consigo mismo se muerde el labio o aprieta los dientes.
+- **Lenguaje corporal**: hombros caídos y mirada al suelo cuando duda; postura erguida y mirada fija al balón cuando decide disparar.
+- **Su cara en cada emoción (fotograma + minuto, Isagi)**:
+  - **Alegría** (gol/celebración): V1, fotograma n.99, **min 13:04** — boca abierta, ojos muy abiertos justo cuando el balón entra a la red (grito de gol). `https://archive.org/download/blue-lock-2-14-vostfr/Blue_Lock_2_-_14_VOSTFR.mp4?t=784` ✅ (visto en vídeo)
+  - **Vergüenza** (entrevista tras el partido): V1, fotogramas n.128-132, **min 16:56-17:28** — cejas alzadas, mirada de lado, se toca la nuca, subtítulo *"Quelles sont vos futures ambitions?"* (le incomoda que le pregunten por su futuro en directo). `…?t=1016` a `…?t=1048` ✅
+  - **Rabia/determinación** (cara a cara con Rin en el vestuario): V1, fotogramas n.166-170, **min 22:00-22:32** — mandíbula tensa, ceño fruncido, ojos entrecerrados, subtítulo *"tu es mon rival"*. `…?t=1320` a `…?t=1352` ✅
+  - **Miedo/duda**: no se encontró un fotograma nítido de Isagi con miedo explícito en el material disponible (V1-V3 lo muestran sobre todo decidido o exultante); su miedo se cuenta más en texto (recuerdo del pase fallado) que en cara — ⚠️ pendiente de un fotograma mejor si el investigador de vídeo consigue otro episodio.
+  - **Tristeza**: idem, no localizada en cara en V1-V3 ⚠️ (Isagi llora en el capítulo 1 del manga tras perder el torneo, según el propio fandub «Isagi llora frustrado» — https://www.youtube.com/watch?v=aa_ZGbiC2-c, pero es fandub, no fotograma oficial verificado por este investigador).
 
-**Otros secundarios queridos (resumen rápido)**:
-| Personaje | En una frase | Fuente |
-|---|---|---|
-| Hyoma Chigiri | «Princesa» por su pelo rojo y su cuidado; jugador aislado por miedo a re-lesionarse (rotura de ligamento), hasta que en el ep. 7 recupera su velocidad y su confianza · ✅ | Wikipedia «List of Blue Lock characters» + wiki |
-| Rensuke Kunigami | Se define como un «superhéroe del fútbol», justo y protector, casi un hermano mayor del Equipo Z, hasta volverse más introvertido tras perder en la Segunda Selección · ✅ | Wikipedia |
-| Shoei Barou | Egocéntrico a propósito, quiere ser «la estrella» siempre; paradoja: fuera de la cancha es obsesivo con la limpieza y el orden público · ✅ | Wikipedia |
-| Reo Mikage | Heredero de una fortuna, aburrido de que todo le resultara fácil; encuentra sentido en el fútbol al conocer a Nagi «por accidente»; ganó la 2ª encuesta de Dengeki como el personaje más popular · ✅ | Wikipedia + Dengeki (punto 7) |
-| Jinpachi Ego | Director del proyecto Blue Lock; ególatra, cree que sólo su método puede llevar a Japón al Mundial; rival histórico de Noel Noa como jugador · ✅ | `datos-voz.md` (AniList) |
+### Meguru Bachira
+- **Carácter e historia**: excéntrico, alegre, casi nunca pierde la calma; describe el fútbol como algo para «divertirse con otros»; se queda dormido en cualquier parte y sale desnudo tras cada entrenamiento (su gag recurrente). De niño, su forma de jugar «asustaba» a otros porque driblaba de más — su «monstruo interior» nace de esconder ese instinto para encajar. · https://bluelock.fandom.com/wiki/Meguru_Bachira#Personality ✅
+- **Qué transmite**: la libertad de jugar (y de ser distinto) sin pedir perdón por ello; da un alivio cómico en medio de la tensión de Blue Lock. ⚠️ (lectura del investigador, apoyada en Personality+Quotes)
+- **Arco y momentos clave**: Equipo Z en la Primera Selección → estelar en la Segunda Selección hasta perder ante Rin, que se lo «lleva» a su equipo → en la Neo Egoist League juega para el FC Barcha (España) → regresa a jugar junto a Isagi en el Blue Lock Eleven. · bluelock.fandom.com + relaciones (Isagi/Relationships) ✅
+- **Cómo se expresa**: habla con metáforas de «monstruo» y de hambre/apetito por jugar; se ríe fácil y fuerte; su frase de cabecera es literalmente *«mi mayor arma es mi regate»* (cap. 9). Cuando se «suelta» en el campo, su cara se dibuja con una boca tipo colmillos superpuesta (recurso visual de la serie, no maquillaje real) — clave para una lámina que lo quiera mostrar «en modo monstruo».
+- **Lenguaje corporal**: cuerpo relajado, casi flotando, cuando juega bien; se pone en cuclillas o se tumba para dormir en cualquier sitio.
+- **Su cara en cada emoción (fotograma + minuto, Bachira)**: en V1/V2 no aparece (no está en la Selección Sub-20 ni en ese arco); en V3 aparece como parte del «1st CLEAR TEAM» junto a Isagi, Nagi y Hiori:
+  - **Alegría/alivio de equipo**: V3, fotogramas n.14-15 de la hoja fina (celebración de los 4 en el pasillo tras clasificar), **min 1:22:06-1:22:08** — grupo con las manos en la cabeza y sonrisas amplias; Bachira es el segundo por la izquierda, pelo oscuro alborotado. `https://archive.org/download/film-vostfr-blue-lock-episode-nagi/FILM_VOSTFR_Blue_Lock_EPISODE_Nagi.mp4?t=4926` ⚠️ (el grupo se identifica por el rótulo «1st CLEAR TEAM 凪・時光・蜂楽・潔» que nombra a Nagi/Hiori/Bachira/Isagi, pero a esta resolución de hoja de contacto no se distingue con total nitidez el detalle fino de su cara — pendiente sacar ese segundo en grande con `--fotograma 4926`).
+  - **Rabia, tristeza, miedo, vergüenza**: ⚠️ **no localizados en fotograma propio** en los 3 vídeos disponibles (V1-V3): Bachira casi no aparece en ellos porque en la Segunda Selección tardía y el amistoso Sub-20 juega para otro equipo fuera de cámara. Quedan pendientes de un episodio centrado en la Segunda Selección (donde se revela su trauma de niño) o en la Neo Egoist League — **Sigue** para el investigador de vídeo/redactor: buscar en Internet Archive un episodio de la primera mitad de la temporada 2 o de la Segunda Selección (temporada 1, episodios ~14-20) que sí lo tenga en primer plano.
 
-### 20 · Gustos y detalles de cada personaje
+### Seishiro Nagi
+- **Carácter e historia**: empezó a jugar fútbol muy tarde (17 años) casi por accidente, jugando con Reo Mikage; no tiene ningún interés en el fútbol por sí mismo, solo por «vivir sin esfuerzo»; vive solo con un cactus (Choki) y su móvil. Su ego (revelado en la Neo Egoist League) es vengarse de Isagi por su primera derrota. · https://bluelock.fandom.com/wiki/Seishiro_Nagi#Personality + #Trivia ✅
+- **Qué transmite**: la pereza como máscara — bajo la indiferencia hay una obsesión (con Isagi) que solo se le nota en detalles mínimos; da un contraste cómico-inquietante con el resto del reparto, siempre «a medio gas». ⚠️ (lectura propia)
+- **Arco y momentos clave**: Segunda Selección con Reo y Bachira/Isagi → Neo Egoist League fichado por «Brightneon» (basado en Brighton) → objetivo secreto: superar a Isagi → en la película «Episodio Nagi» acaba jugando en el mismo equipo que Isagi, Bachira y Hiori («1st CLEAR TEAM»). · bluelock.fandom.com/wiki/Seishiro_Nagi#Trivia + V3 ✅
+- **Cómo se expresa**: frases cortas, quejas suaves («qué pereza», «es molesto»); casi no sube el volumen ni cuando gana.
+- **Lenguaje corporal**: hombros caídos, manos en los bolsillos, mirada de lado; solo se pone recto y fijo cuando algo en el juego le interesa de verdad (muy pocas veces).
+- **Su cara en cada emoción (fotograma + minuto, Nagi)** — todo en V3, «Episodio Nagi»:
+  - **Alegría/euforia contenida** (la más rara de las 5 en él, por eso vale la pena marcarla): fotogramas n.34-36, **min 1:20:12-1:20:20** — mano cerca de la cara, sonrisa pequeña, subtítulo *"pourrait être aussi euphorisant"* («esto también podría ser euforizante») — es el propio Nagi reconociendo, por una vez, que disfruta competir. `https://archive.org/download/film-vostfr-blue-lock-episode-nagi/FILM_VOSTFR_Blue_Lock_EPISODE_Nagi.mp4?t=4812` ✅ (visto en vídeo + subtítulo)
+  - **Desprecio/rabia fría** (su versión de enfadarse: no grita, desprecia): fotograma n.65-66, **min 26:40** — ceño apenas fruncido mirando de reojo, subtítulo *"Quel abruti ! Il est carrément neuneu"* («qué idiota, es tontísimo»). `…?t=1600` ✅
+  - **Determinación/orgullo** (lo más cerca que llega a «ánimo»): fotograma n.73, **min 30:00** — media sonrisa de lado, subtítulo *"Ma légende débute ici"* («mi leyenda empieza aquí»). `…?t=1800` ✅
+  - **Tristeza y miedo**: ⚠️ **no localizados**: la ficha oficial dice literalmente que la última vez que Nagi lloró fue al ser eliminado de Blue Lock (bluelock.fandom.com/wiki/Seishiro_Nagi#Trivia), pero esa escena concreta no está en V1-V3 disponibles aquí. Queda como dato de texto, no de fotograma — **Sigue** si aparece el episodio de esa eliminación.
 
-Todos los datos de esta sección vienen del **databook oficial «ブルーロック キャラクターブック EGOIST BIBLE»** (Kodansha, vols. 1 y 2), vía las traducciones de la cuenta especializada BLUELOCKSOURCE en Tumblr (cada entrada enlaza a la trivia oficial, «src: EGOIST BIBLE»). Cruzado con AniList para cumpleaños/altura donde coincide.
+### Rin Itoshi
+- **Carácter e historia**: de niño admiraba a su hermano mayor Sae, un genio del fútbol; cuando Sae lo humilla en un 1 contra 1 y le dice que nunca lo use como excusa para jugar, Rin jura destruirlo — ahí nace su obsesión de «vencer a mi hermano», el motor de todo su personaje. · https://bluelock.fandom.com/wiki/Rin_Itoshi/Relationships (sección Sae Itoshi) + #Personality ✅ — **visto también en vídeo**: V2, fotogramas n.7-18, min 1:00-3:00, flashback en tonos naranja/atardecer con Rin niño llorando y la frase *"mon grand frère déteste perdre"* («mi hermano odia perder»).
+- **Qué transmite**: intensidad fría — mientras los demás gritan, Rin calcula; produce tensión/respeto más que ternura, y por eso su gesto pequeño de reconocer a un rival (a Isagi) pesa tanto.
+- **Arco y momentos clave**: se lleva a Bachira de la Segunda Selección → forma el «Blue Lock Eleven» → titular fijo de la Selección Sub-20 de Japón (nunca pierde un partido hasta el cruce con Bastard München) → después de «despertar» es apodado 「破壊獣」*hakaijū* («bestia destructora») · bluelock.fandom.com/wiki/Rin_Itoshi#Trivia ✅
+- **Cómo se expresa**: parco, cortante, casi sin subir el tono; cuando provoca usa apodos («genio», «peldaño»); rara vez explica, más bien sentencia.
+- **Lenguaje corporal**: postura muy recta, brazos cruzados o manos en los bolsillos al hablar; cuando ataca en el campo, mirada fija sin parpadear.
+- **Su cara en cada emoción (fotograma + minuto, Rin)**:
+  - **Alegría/confianza** (provocando con humor): V1, fotogramas n.109-111, **min 14:24-14:40** — media sonrisa ladeada, ceja alzada, subtítulo *"Hé, le génie !"* («eh, genio»). `https://archive.org/download/blue-lock-2-14-vostfr/Blue_Lock_2_-_14_VOSTFR.mp4?t=864` ✅
+  - **Rabia/«modo monstruo»** (aura oscura, motivo visual repetido de Rin): V1, fotogramas n.13-24, **min 1:36-3:04** — cara medio en sombra, ojos muy abiertos con aura roja alrededor, subtítulos como *"Il me défie sur mon point fort pour tenter de me démoraliser"*. `…?t=96` a `…?t=184` ✅
+  - **Respeto serio** (reconoce a Isagi como rival de verdad): V1, fotogramas n.123-126, **min 16:16-16:40** — mirada fija, boca cerrada, subtítulo *"c'est sans doute Yoichi Isagi, ce buteur individualiste"*. `…?t=976` a `…?t=1000` ✅
+  - **Tristeza/miedo (infancia)**: V2, fotogramas n.7-18, **min 1:00-3:00** — ojos muy abiertos y brillantes, boca temblando, subtítulos *"Mon grand frère déteste perdre"* / niño Rin llorando tras perder con Sae. `https://archive.org/download/blue-lock-2x-09-vostfr/Blue%20Lock%20(2x09)%20(VOSTFR).mp4?t=60` a `…?t=110` ✅ — es Rin de niño, no adulto, pero es la única escena de miedo/tristeza «en cámara» encontrada y explica el resto de su carácter adulto.
+  - **Vergüenza**: ⚠️ **no localizada**: en todo el material visto, Rin nunca se muestra avergonzado — encaja con su ficha oficial («no llora», «declina los chocolates sin dar explicaciones») más que ser un hueco de búsqueda.
 
-| Personaje | Cumpleaños · altura | Comida favorita | Comida que odia | Hobby / afición | Cómo se ve a sí mismo |
-|---|---|---|---|---|---|
-| Isagi Yoichi | 1 abr · 175 cm | Kintsuba (dulce japonés) | Ninguna | Caminar | Fortaleza: encuentra el lado bueno de la gente. Debilidad: le importa demasiado la cara que ponen los demás |
-| Bachira Meguru | 8 ago · 176 cm | Piña enlatada | Mozuku (algas), «parece que come mocos» | Jugar fútbol / regatear | Fortaleza: optimismo, disfruta de todo. Debilidad: «no worries» (no le preocupa nada) |
-| Nagi Seishirou | 6 may · 190 cm | «Lo que sea, pensar es molesto» | Cangrejo (pelarlo es un fastidio) | Videojuegos, manga, el celular | «No ganas sin intentarlo al máximo; ser débil es molesto» |
-| Rin Itoshi | 9 sep · 186 cm | Ochazuke (de besugo) | Comida avinagrada («no le gusta nada ácido») | Ver cine/juegos de terror | «Sé jugar fútbol. Lo demás no importa» |
-| Itoshi Sae | 10 oct · 180 cm | Té shio-kombu («vuelvo a cero») | Papas fritas («deliciosamente mortal para mi salud») | Analizar datos de jugadores y equipos | Fortaleza: mirada «plana»/objetiva. Debilidad: no sabe nada fuera del fútbol |
-| Michael Kaiser | 25 dic · 186 cm | Rebanadas de pan duro (costra) — recuerdo de la infancia | Leche («me recuerda cosas feas», y el olor le da asco) | Psicología, filosofía, comportamiento humano | «La capacidad de mirar por encima del hombro a todos los humanos» (fortaleza); su pelo alborotado al despertar (debilidad, en broma) |
+### Dinámicas entre los 4 (para láminas de grupo)
+- **Isagi↔Bachira**: se conocen dormido-sobre-el-suelo (cap.1, gag visual); entrenan juntos y Bachira confía en pasarle el balón; es el vínculo más cálido de los 4 — hasta sus madres terminan conociéndose en las gradas (V2, fotogramas n.27-30, min 4:20-4:50). · bluelock.fandom.com/wiki/Yoichi_Isagi/Relationships ✅
+- **Isagi↔Nagi**: rivalidad unilateral — el objetivo secreto de Nagi en la Neo Egoist League es vencer a Isagi por su primera derrota; fuera del campo, Nagi lo ignora como a todos. · bluelock.fandom.com/wiki/Yoichi_Isagi/Relationships ✅
+- **Isagi↔Rin**: el rival «serio»: se pelean, se insultan, pero no rompen — terminan jugando en equipos distintos del mismo combinado Sub-20 sin resentimiento. · mismo enlace + V1 ✅
+- **Bachira↔Rin**: Rin se «lleva» a Bachira a su equipo tras vencerlo (Segunda Selección); con el tiempo, Bachira pasa a ser de los pocos jugadores en los que Rin confía en el campo. · https://www.cbr.com/isagi-bachira-blue-lock-perfect-pair/ ⚠️ (una fuente en inglés, contrastar si se puede)
+- **Nagi↔Bachira / Nagi↔Isagi↔Bachira**: los 3 (+ Hiori) terminan en el mismo equipo en la película «Episodio Nagi», celebrando juntos como «1st CLEAR TEAM» (V3, min 1:22:06). ✅ (visto en vídeo)
 
-Fuentes por fila (todas ✅, EGOIST BIBLE + cruce AniList para edad/altura):
-- Isagi: https://bluelocksource.tumblr.com/post/626392021375057920/isagi-yoichis-trivia-source-birthday-1st
-- Bachira: https://bluelocksource.tumblr.com/post/627060278685761536/bachira-megurus-trivia-source-birthday
-- Nagi: https://bluelocksource.tumblr.com/post/627150852457742336/nagi-seishirous-trivia-source-birthday
-- Rin: https://bluelocksource.tumblr.com/post/626247620688510976/itoshi-rins-trivia-source-twt-egoist
-- Sae: https://bluelocksource.tumblr.com/post/726061886529060864/itoshi-saes-trivia-source-twt-egoist
-- Kaiser: https://bluelocksource.tumblr.com/post/765106606443839488/michael-kaisers-trivia-src-egoist-bible-2
+<a id="p20"></a>
+## Punto 20 — Gustos y detalles de cada personaje (fichas oficiales «Egoist Bible» vía la wiki)
 
-**El objeto que siempre lleva** (no está en las fichas de trivia; deducido de la wiki y las imágenes oficiales, ⚠️ una fuente visual, sin ficha textual que lo confirme):
-- Nagi: su cactus en maceta (en su departamento, no lo «lleva» pero es su posesión emocional) · ⚠️
-- Isagi y Bachira no tienen un objeto fijo confirmado en fuente oficial más allá del balón — **no encontrado** un accesorio icónico individual, a diferencia de otros animes (ver «No encontré»)
+Fuente para las 4 filas: https://bluelock.fandom.com/wiki/Yoichi_Isagi#Trivia, /Meguru_Bachira#Trivia, /Seishiro_Nagi#Trivia, /Rin_Itoshi#Trivia (dicen citar la «Egoist Bible», el databook oficial) ⚠️ (una fuente en inglés por dato; son fichas muy citadas y consistentes entre sí, pero no se encontró el databook japonés original para cruzarlas — quedan como ⚠️ en bloque).
 
-### 21 · Por qué la gente la ama
+| | Isagi | Bachira | Nagi | Rin |
+|---|---|---|---|---|
+| Cumpleaños | 1 abril | 8 agosto | 6 mayo (17 años cuando empieza a jugar) | 9 septiembre |
+| Altura | 175 cm | 176 cm | 190 cm | 186 cm |
+| Comida favorita | *kintsuba* (dulce de judía) | piña en lata | té con limón | *ochazuke* con besugo |
+| Comida que odia | ninguna | *mozuku* («como sonarse la nariz») | cangrejo (da pereza pelarlo) | platos en vinagre |
+| Afición | pasear | lo que le apetezca ese día | juegos del móvil, manga, vídeos | pelis y videojuegos de terror |
+| Color de personaje | verde flúor | amarillo | negro (favorito: gris) | turquesa |
+| Objeto/detalle que lo define | ninguno fijo (su «arma» es leer el espacio) | duerme en cualquier parte; sale desnudo tras jugar | cactus llamado **Choki** | mascarillas de vapor para los ojos |
+| Cómo se ve a sí mismo | «mi punto fuerte es ver las virtudes de otros; el débil, que cuestiono demasiado las expresiones ajenas» | «optimista, sé divertirme en cualquier situación» | «pacifista, no me enfado; mi punto débil es que todo me da pereza» | «no lloro» |
+| Animal favorito | langosta japonesa | delfín | perezosos, koalas, pandas («parece que viven sin esfuerzo») | búho |
+| Jugador favorito | Noel Noa (ficticio) | ninguno fijo, le gustan «todos los buenos» | ninguno (no conoce a nadie) | David Beckham |
 
-**Razones concretas (reseñas)**:
-- Rompe el molde del shonen deportivo de «equipo y amistad»: es «más ruidosa, más cruel, obsesionada con la presencia individual» — se vende como anti-cliché · https://www.oneesports.gg/anime/blue-lock-anime-review/ · ✅ (repetido con las mismas palabras en cbr.com)
-- Usa el fútbol como vehículo para una historia psicológica de choque de filosofías (nación/prefectura/individuo) desde el episodio 1 · ✅ (oneesports.gg)
-- Desarrollo de personajes: pese al elenco enorme, cada uno tiene arco propio, del protagonista a los secundarios · ✅ (oneesports.gg + cbr.com)
-- Atrae a gente que no sigue fútbol («odio el fútbol y amo la serie», título literal de una reseña) por lo bien retratada que está la psicología competitiva, algo con lo que conecta hasta gente gamer · ✅ (oneesports.gg)
-- Animación de Studio 8bit elogiada en momentos clave de la 1ª temporada (criticada en la 2ª, ver punto 12) · ⚠️ (misma reseña, matizado por las quejas de «slideshow» de la 2ª temporada en varias notas de sportskeeda.com)
+- Dato curioso cruzado con lo visto en vídeo: la ficha de Nagi dice que **la última vez que lloró fue al ser eliminado de Blue Lock** — cuadra con que en las 3 fuentes de vídeo de este investigador jamás se le vea llorar (su tristeza queda fuera de cámara). ✅ (ficha + ausencia confirmada en V1-V3)
+- Rin «no recibe/da explicaciones sobre San Valentín, devuelve los chocolates», Nagi «cero chocolates, no le importa», Isagi y Bachira «cero chocolates el año pasado» — los 4 llegan a Blue Lock sin pareja, dato menor pero muy citado por el fandom como gracioso. ⚠️
 
-**Con qué personaje se identifica el público**: ver encuesta «relatable» del punto 7 (Nagi 1º, Isagi 2º, Chigiri 3º) · ⚠️ (una fuente)
+<a id="p21"></a>
+## Punto 21 — Por qué la gente la ama
 
-**Escenas que hacen llorar / gritar de emoción**:
-- **Gol de Chigiri, episodio 7**: tras jugar con miedo por su lesión de ligamento, ve jugar a Isagi y decide arriesgarse; roza el balón con un toque suave (contraste con los remates de fuerza de otros) y empata 4-4 — descrita como «la escena más hype de la temporada» y el quiebre emocional del personaje · https://animecorner.me/blue-lock-episode-7-the-most-hype-episode-yet/ + https://inasianspaces.com/2023/01/07/blue-lock-episode-7-review/ · ✅ (dos reseñas independientes coinciden en el episodio y el gesto)
-  - En el doblaje latino, este mismo episodio 7 es donde Kunigami grita «SIUUUUU» — la escena emotiva y el gag del doblaje ocurren juntos, en el mismo episodio (dato propio, cruzando el punto 8 con este) · ✅
-- **Reencuentro Rin-Sae / la frialdad de Sae hacia Rin**: citada repetidamente como el núcleo trágico de la serie; el fandom describe la relación como «tres partes» (admiración, ruptura, la posible reconciliación tardía en el U-20) · https://zhe-awesome-me-blog.tumblr.com/post/704738556434874368 · ⚠️ (blog de fan, no un medio, pero coincide con el resumen de screenrant.com sobre Kaneshiro explicando a este personaje como «forzado a crecer»)
-- La revelación del pasado de Kaiser (cap. 260 del manga: el balón como único consuelo de niño maltratado) es señalada como el respaldo trágico más fuerte de un antagonista en la serie · https://www.sportskeeda.com/anime/blue-lock-chapter-260-unfolds-michael-kaiser-s-traumatic-past · ✅ (cruzado con gamerant.com y cloudspress.com)
-- **No se pudo confirmar con fuente de reacción en vídeo** (comentarios más votados, reacciones) qué música exacta suena en estas escenas ni el minuto preciso: eso depende de mirar el episodio completo, que corresponde al investigador de vídeo (`episodios.md`) — dejado en «No encontré»
+- **Tono shonen aplicado al fútbol** (no el «espíritu de equipo» de otros animes deportivos, sino «solo el más fuerte sobrevive»): mensaje distinto al de animes de fútbol clásicos, con enfoque psicológico en la inseguridad de cada jugador · https://www.postadeportes.com/fuera-de-lugar/blue-lock-el-anime-que-esta-llevando-aficionados-otakus-al-futbol-/vl2006255 ✅ (mismo argumento repetido en varias notas de prensa hispanas encontradas en la misma búsqueda: elcomercio.pe, diariodemexico.com)
+- **Identificación por personaje**: Isagi (el que empieza de cero, fácil de identificarse), Rin (la excelencia fría, «el que ya lo tiene todo pero igual sufre»), Bachira (la libertad de jugar sin encajar), Nagi (el talento sin esfuerzo, fantasía de «ser bueno sin currar») — lectura propia a partir de las fichas de personalidad ya citadas en el punto 13; no se encontró una encuesta hispana de «con qué personaje te identificas» ⚠️
+- **Puente entre el aficionado al fútbol real y el anime**: la colaboración con **CONCACAF** (2025-2026, «Blue Lock: Diamonds in the Rough») es la prueba oficial de ese cruce de públicos — primera vez que la confederación de fútbol de Norte/Centroamérica y Caribe colabora con un manga/anime · https://es.concacaf.com/competitions/concacaf/news/kodansha-y-concacaf-lanzan-la-competencia-blue-lock-diamonds-in-the-rough + https://kodansha.us/2025/06/25/blue-lock-concacaf-collaboration/ ✅
+- **Escenas que emocionan al fandom** (con capítulo/episodio):
+  - Ep.7 (temporada 1): Chigiri llora tras ser sustituido y recuerda la lesión que casi acaba con su carrera; luego vuelve a correr — reacciones en YouTube lo celebran como el capítulo que lo «redime» · https://www.youtube.com/watch?v=4Ak5q533Pb0 (vídeo de reacción, título «CHIGIRI IS THAT DUDE!!») ⚠️ (no es un fan de este investigador citando comentarios con más votos, es un vídeo de reacción — no se pudo abrir por bloqueo de YouTube, dato tomado del título/resumen en el buscador, ⚠️)
+  - Final de temporada 2: gol de Isagi en el último minuto contra Sae/PXG, y el «Destroyer Flow» de Rin (「破壊獣」) se vuelve tendencia; Sportskeeda registra reacciones de fans «muy en serio» tras el capítulo · https://www.sportskeeda.com/anime/blue-lock-fans-speak-season-2-finale-it-serious ✅ (visto también en vídeo: V1 corresponde a un partido de esta zona de la trama, con Rin en «modo monstruo», min 1:36-3:52)
+  - Flashback de Rin niño con Sae (ver punto 13): la escena que explica todo su carácter adulto — vista directamente en V2, min 1:00-3:00, tono naranja de atardecer, sin música alegre, silencio roto solo por el diálogo. ✅ (visto en vídeo por este investigador)
+- **Ventas/alcance** (dato de contexto, no verificado por este investigador con cifras oficiales de editorial — ⚠️ pendiente para el investigador de texto/técnica, que cubre distribución): la nota de Rolling Stone en español sobre la película «Episodio Nagi» y la cobertura constante de ANMTV/Crunchyroll confirman que es uno de los animes deportivos más comentados de 2022-2026 en medios hispanos. ⚠️
 
-### 22 · Fan dubs y comunidad hispana
+<a id="p22"></a>
+## Punto 22 — Fan dubs y comunidad hispana
 
-**Fandubs en español (YouTube, bloqueado para verlo desde este servidor — datos por título/canal, sin ver el vídeo)**:
-- Canal **«ChesterK Fandubs»**: «Itoshi Rin - Blue Lock (Fandub Español Latino)» · también en Facebook · https://www.youtube.com/watch?v=VNvc2cHXucc · ⚠️ (hallado por búsqueda, no visto)
-- «TRÁILER OFICIAL - BLUE LOCK / Fandub Español Latino» · https://www.youtube.com/watch?v=SIPtOKdyakQ · ⚠️
-- «Blue Lock capítulo 302: ya es suficiente (fandub español latino)» · https://www.youtube.com/watch?v=rKeBsig-JRA · ⚠️
-- «Isagi Para Siempre | Blue Lock Fandub Latino» · https://www.youtube.com/watch?v=gR99y3KJxrk · ⚠️
-- Playlist «BLUE LOCK ESPAÑOL LATINO» (recopilatorio de fandubs) · https://www.youtube.com/playlist?list=PL1W6F_fEGC1aoj99te986zWuJqPjhVB9d · ⚠️
-- Intentado bajar 2 de estos con `voz.py`/`fotogramas.py`: YouTube devuelve la pantalla de verificación de Google («/sorry/») en este servidor — no se pudieron escuchar directamente (ver Bitácora)
-
-**Covers del opening en español latino** (sí verificables por fecha/autor en la búsqueda):
-- «BLUELOCK Opening Cover Español Latino» (Chaos ga Kiwamaru, de UNISON SQUARE GARDEN) · canal AxlolRms · publicado 23-oct-2022 · https://www.youtube.com/watch?v=GMPVMYI9ans · ⚠️ (título/fecha por búsqueda, no escuchado)
-- Cover del mismo tema por **André - A!** ft. daviddelgadocovers · publicado 30-mar-2023 · https://www.youtube.com/watch?v=0ZQcEpwwB50 · ⚠️
-
-**Parodias y memes hispanos**:
-- «Causas Lock»: parodia peruana que adapta a los personajes con humor y jerga local, canal JikoSain — un video del formato llegó a 175 900 «me gusta» y 2323 comentarios, señal de que el formato prende fuerte en el público peruano · https://www.tiktok.com/@jikoseinen/video/7235683282820631814 · ⚠️ (dato de una búsqueda, cifra tal como la reporta el resumen)
-- Parodias en rap por el canal **Escai Parodias** (formato musical, cruces tipo «Francia vs Japón») · ⚠️
-- Numerosos memes «Blue Lock» en TikTok en español (`#bluelockmemes`, `#bluelockparodia`) con humor sobre el diálogo exagerado de la serie · ⚠️
-
-**Presencia de merchandising/cosplay en la región** (apoya el punto 23, pero es dato de comunidad hispana): tiendas peruanas venden uniformes/cartucheras de Isagi y Nagi con envío a todo el país (`@dreams.store.pe`, TikTok) — señal de demanda real en el mercado peruano, coherente con que Blue Lock está entre las series más grandes de Latinoamérica ahora mismo · ⚠️ (un solo canal comercial, sin cifra de ventas)
+- **Fandubs en español latino en YouTube** (canales de aficionados, no oficiales):
+  - «Itoshi Rin - Blue Lock (Fandub Español Latino)» · https://www.youtube.com/watch?v=VNvc2cHXucc (también en Facebook: chesterkfandubs) — subido 2-ene-2023 ⚠️ (no se pudo abrir el vídeo por el bloqueo de YouTube desde este servidor, dato tomado del resultado del buscador)
+  - «Isagi llora frustrado - Blue Lock Cap 1 - (Fandub Español Latino)» · https://www.youtube.com/watch?v=aa_ZGbiC2-c — 21-feb-2023 ⚠️
+  - «Bachisagi Fandub — Isagi y Bachira en Blue Lock» (voces Mizy-Dub como Isagi, Linnye Dub como Bachira) · https://www.youtube.com/watch?v=oX7rIj_fehw — sep-2025 ⚠️
+  - «Blue Lock: A Nagi le cuesta declararse a Reo - Fandub Latino» · https://m.youtube.com/watch?v=S_t1TJdnq5k ⚠️
+  - «Isagi Para Siempre | Blue Lock Fandub Latino» · https://www.youtube.com/watch?v=gR99y3KJxrk — mayo-2025 ⚠️
+  - Hay una lista de reproducción dedicada «Blue Lock Doblaje Latino» con episodios completos fandobados por aficionados · https://www.youtube.com/playlist?list=PLMhBE4FYb6DeaU_NlQTmSL67SDZvcH3g6 ⚠️
+  - En TikTok, las etiquetas «Blue Lock Doblaje Latino Narradores» y «Blue Lock Fan Dub» agrupan cientos de clips cortos de aficionados poniendo voces a escenas · https://www.tiktok.com/discover/blue-lock-fan-dub ✅ (patrón, no un solo vídeo)
+- **Nota importante**: todos estos fandubs son de aficionados (no oficiales); no se pudieron reproducir desde este servidor por el bloqueo de YouTube (ver Bitácora) — se documentan por título, canal y fecha, no se puede citar el minuto exacto de una frase.
+- **Comunidad hispana en Reddit**: r/BlueLock tiene hilos activos sobre paneles «icónicos» (ver `datos-voz.md`, ya recolectado) pero es un subreddit internacional en inglés, no exclusivamente hispano — no se encontró un subreddit hispanohablante dedicado a Blue Lock con actividad relevante. ⚠️
+- **Covers de openings en español latino** (sí existen, corrigiendo una primera búsqueda floja — regla del encargo: buscar mejor antes de decir «no encontré»):
+  - Opening 1 «Chaos ga Kiwamaru»: cover de André-A ft. David Delgado Covers · https://www.youtube.com/watch?v=0ZQcEpwwB50 ; otro de David Delgado ft. Edgardo Artieda · https://www.youtube.com/watch?v=EIHjjNHKa0U ⚠️ (no reproducidos por el bloqueo de YouTube, título/canal tomados del buscador)
+  - Opening 2 «Judgement»: cover de 0uter y Haku · https://www.youtube.com/watch?v=RYrZ_9LWs3E ; otro de LushoLive ft. 0uter · https://www.youtube.com/watch?v=aTqvCYbGeK8 ⚠️
+  - Opening «Boujaku no Charisma» (temporada 2): cover en español · https://www.youtube.com/watch?v=gcLVaXyBe-Q ⚠️
+  - Hay clips cortos de estos covers también en TikTok (ej. «Apertura 2 de Blue Lock: Judgement con Subtítulos») · https://www.tiktok.com/@kawaiirodri/video/7280807137054428422 ⚠️
+- **No se encontraron** (con las búsquedas hechas, ver Bitácora): parodias o memes hispanos específicamente distintos de los genéricos de TikTok ya citados en el punto 12, ni un subreddit hispanohablante dedicado con actividad propia. Se marca como «No encontré», no como «no existen».
 
 ## Lo mejor para la lámina
-
-1. **Frase real de un actor de doblaje sobre su personaje** en vez de un cuadro genérico: por ejemplo la de Rafael Escalante sobre Sae («hay que dejar de ser uno mismo») o la de Diego Becerril sobre Bachira, dan voz auténtica y verificable.
-2. **Isagi es el más popular oficialmente, pero Bachira/Nagi/Reo le compiten muy de cerca** en fans — si la lámina no es sólo de Isagi, cualquiera de los 4 de partida es defendible con datos.
-3. El **cactus de Nagi** es un objeto pequeño, gracioso y 100% reconocible por el fandom — perfecto como prop de Blender en un rincón de una lámina con Nagi.
-4. El **«SIUUUUU» de Kunigami** (ep. 7) es un gesto/grito reconocible del doblaje latino que conecta con la cultura futbolera regional — buen gancho para un canal de doblaje/locución.
-5. Si el canal es de doblaje: la anécdota de Luis García y Christian Martinoli doblando comentaristas reales es un puente perfecto entre «Sintonizando» (doblaje) y Blue Lock (fútbol).
+- El **contraste de rankings** (oficial Japón: Rin 1º; AniList mundial: Bachira 1º; fan art: Isagi 1º) da pie a una lámina con los 4, sin tener que elegir «el favorito».
+- El «monstruo interior» de Bachira (boca/ojos superpuestos) es un recurso visual ya oficial de la serie, perfecto para un cuadro de diálogo con textura orgánica en vez de burbuja blanca.
+- El cactus **Choki** de Nagi es un objeto real y pequeño (encaja con la regla del dueño de «objeto real en sitio real»): un cactus de escritorio junto a un móvil con juegos, en un cuarto casi vacío, cuenta todo su personaje sin texto.
+- El marcador digital de estadio («LOSER GATE», «WINNING RATE 50%», cronómetros en rojo) visto en V1/V3 es la tipografía real de la serie para HUD/marcador — mejor que cualquier fuente genérica para un cuadro de "estadísticas" en el canal.
+- Las mascarillas de vapor para los ojos de Rin (las compra en la tienda de conveniencia) son un objeto cotidiano y real que remata su motivo visual de «ojos» sin tener que dibujar su cara.
 
 ## No encontré
+- ⚠️ Fotograma propio de **Bachira** con **rabia**: ni en V1-V3 ni en el episodio 13 completo (V4, el más centrado en él de los 4 vistos) se le ve enfadado en cámara — siempre sorpresa, tensión o tristeza. Búsquedas hechas: Internet Archive (`title:(Blue Lock) AND identifier:*saison*1*`, `*season*1*ep*`, `episode 19`, `episode 14 vostfr`, `title:(Blue Lock episode Toonami)`), Dailymotion (`Blue Lock episode 19 vostfr`, `Blue Lock Bachira episode complet`), y repaso fino fotograma a fotograma del episodio 13 (V4) en sus tramos de ataque/defensa. Queda para si aparece el episodio de su infancia («monstruo interior»).
+- ⚠️ Fotograma propio de **Rin** con **vergüenza**: revisado también el episodio 13 completo (V4) donde es protagonista — nunca baja la guardia; encaja con su ficha («no lloro»), se deja como rasgo de personaje, no como búsqueda sin intentar.
+- ⚠️ Traducción exacta al doblaje latino de las frases icónicas de Isagi/Bachira/Nagi/Rin citadas en el punto 8 (solo se tiene el texto en inglés de la wiki del manga): no se pudo reproducir ningún clip oficial doblado porque YouTube pide iniciar sesión desde este servidor y no se encontraron reposts en Dailymotion ni Internet Archive de esos clips concretos (búsquedas: «El mayor egoísta BLUELOCK doblaje», «Isagi potencial BLUE LOCK doblaje», «Nagi traiciona Reo BLUE LOCK» en Dailymotion — sin resultado).
+- ⚠️ Un subreddit o comunidad hispanohablante de Blue Lock con actividad propia (distinta del r/BlueLock internacional en inglés).
+- ⚠️ Cifras oficiales de ventas/tomos de Blue Lock en español (queda para el investigador de texto/técnica, que cubre distribución editorial).
 
-- **Audio real del doblaje latino con frases textuales y minuto exacto**: los clips de Dailymotion disponibles son tráilers cortos, casi todos en español de España (no latino) o sin diálogo claro; los fandubs y el doblaje oficial están en YouTube, bloqueado desde este servidor (pantalla de verificación de Google). Búsquedas hechas: `voz.py` sobre 2 tráilers de Dailymotion (x95w20s, x91rioq) con modelos `tiny` y `base` — transcripción confusa, mezclando idiomas, no se pudo citar una frase limpia. ⚠️ — el punto 8 queda cubierto con las frases de «Datos de interés» de Doblaje Wiki (con episodio, no con minuto) y las citas de entrevistas a los actores, que sí son textuales y verificables.
-- **Objeto icónico individual para Isagi y Bachira** (más allá del balón genérico): no hay ficha oficial que dé un accesorio fijo para ellos, a diferencia de Nagi (cactus). Búsquedas: «Isagi signature item merchandise», «Bachira accessory keychain official» — sin resultado claro.
-- **Minuto exacto y música de las escenas que hacen llorar** (gol de Chigiri, reencuentro Rin-Sae): confirmado el episodio y el porqué, no el minuto ni el tema musical exacto — depende de ver el episodio completo (`episodio.py`/`episodios.md`, tarea del investigador de vídeo).
-- **Confirmación oficial (nota de prensa) de que Alan Fernando Velázquez dobla a Kaiser**: sólo Doblaje Wiki + menciones de fans en TikTok; no se halló una nota de prensa tipo ANMTV que lo confirme con cita directa. ⚠️
-- **Vídeos de fandub o cover vistos y oídos de verdad**: todos los de la lista del punto 22 son sólo por título/canal (WebSearch), no reproducidos, por el bloqueo de YouTube.
-- **Cifra de ventas/streaming de Blue Lock específica para Latinoamérica** (para reforzar el punto 21 «por qué la gente la ama», con datos duros de la región): no se encontró; sólo señales indirectas (merchandising, TikTok, encuesta de relatable sin fuente grande).
-
-## Bitácora de búsqueda
-
-- Partida: `partes/datos-voz.md` (recolectado 24-sep-2026): AniList favoritos y fichas, Doblaje Wiki (tabla de reparto incompleta en nombres, corregida abajo), texto de personalidad/habilidades de la wiki en inglés para Isagi/Bachira/Nagi/Rin, Danbooru, Dailymotion, Reddit r/BlueLock.
-- Doblaje Wiki, wikitext completo vía API (`action=parse&prop=wikitext&page=Blue_Lock`, es): reparto de 74 personajes con nombres correctos (la tabla del recolector había perdido la columna «Personaje» en varias filas) y sección «Datos de interés» completa.
-- WebSearch (es): «Blue Lock doblaje latino elenco ANMTV actores de voz», «Blue Lock fandub español latino youtube canal», «Blue Lock cover opening español latino youtube», «Blue Lock parodia meme español latino tiktok viral», «Blue Lock cosplay Isagi Bachira Nagi Rin evento México Perú Latinoamérica», «Armando Guerrero Isagi Blue Lock doblaje voz», «Héctor Ireta Nagi Blue Lock doblaje OR José Ángel Torres Rin Blue Lock», «Alan Fernando Velázquez Kaiser Blue Lock doblaje voz», «Blue Lock Isagi Bachira Rin dinámica quién lo hace reír amistad fandom».
-- WebSearch (ja): «ブルーロック 人気投票 結果 公式», «ブルーロック 人気投票 不正投票 炎上» (sin resultado claro de la polémica, matizado a partir de la respuesta de Yahoo!知恵袋).
-- WebSearch (en): «Blue Lock EGOIST BIBLE character book likes dislikes profile», «Blue Lock most emotional scene reddit crying episode», «Blue Lock why fans love it appeal review anime», «Blue Lock memes running gag Nagi cactus Bachira monster fandom», «Blue Lock reddit "made me cry" episode scene», «Itoshi Sae backstory personality relationship with Rin genius villain», «Michael Kaiser backstory "fallen king" fear decline career Blue Lock», «"Blue Lock" fan complaint fanart wrong misconception pet peeve reddit», «Blue Lock reddit which character do you relate to identify», «Blue Lock episode 7 Chigiri Prince goal reaction fans crying», «tvtropes Blue Lock tearjerker Chigiri Chris Prince scene».
-- WebFetch: pocket.shonenmagazine.com (poll, texto en imágenes, no legible del todo), bluelocksource.tumblr.com (6 fichas de trivia EGOIST BIBLE), dengekionline.com (ranking legible), chiebukuro.yahoo.co.jp (top 5), crunchyroll.com/es/news (sólo título, sin cuerpo legible), anmtvla.com (2 notas, cuerpo completo), milenio.com (403, no se pudo leer), sdpnoticias.com (cuerpo completo), wdnes.com (elenco completo de la película, clave para confirmar 11 actores con 2ª fuente), en.wikipedia.org «List of Blue Lock characters» (resumen de 10 personajes).
-- TV Tropes (`Funny`, `Tearjerker`, `Heartwarming` de BlueLock): **403 directo** (WebFetch y `curl` con user-agent de navegador) y también bloqueado vía Wayback Machine (egress policy de este contenedor no deja salir a `web.archive.org`). Se abandonó tras los 2 intentos que marca AYUDANTE.md; los datos de esas páginas se cubrieron con búsquedas alternativas (reseñas, Sportskeeda, Reddit vía resúmenes).
-- Vídeo/audio propio: `fotogramas.py --cortes` sobre el tráiler de Dailymotion `x95w20s` (61 fotogramas, 2 hojas de contacto, miradas con Read) + 7 fotogramas grandes sueltos (0:12, 0:22, 0:44, 0:47, 0:54, 1:20, 1:21) mirados uno a uno; 3 retratos oficiales de AniList (Bachira, Nagi, Rin) bajados y mirados con Read para cruzar diseño/expresión. `voz.py` sobre 2 tráilers de Dailymotion (x95w20s con Whisper `tiny`, x91rioq con `tiny` y `base`, es): transcripción no aprovechable (parece audio en español de España, mezclado con otros idiomas por el modelo). YouTube: confirmado bloqueado (pantalla `/sorry/` de Google) al intentar 2 vídeos de fandub con WebFetch — no se insistió, según indica AYUDANTE.md.
-- Internet Archive: revisados los títulos ya listados en `datos-video.md` (no se repitió la búsqueda); no se abrió ninguno nuevo por tiempo.
-
-## Cumplimiento del encargo (mis puntos)
-
+## Cumplimiento del encargo (puntos de este rol)
 | Punto | Estado | Por qué |
 |---|---|---|
-| 7 · Popularidad, personalidad, con quién aparecen | ✅ | 2 encuestas oficiales/de medios (Shonen Magazine dic-2024, Dengeki may-2024) + AniList + Danbooru, cruzadas; personalidad y duplas resumidas con fuente |
-| 8 · Doblaje latino y frases icónicas | ✅ | 14 actores confirmados en 2 fuentes independientes (Doblaje Wiki + wdnes.com/ANMTV), sólo Kaiser queda en ⚠️; 3 frases de guion con episodio + citas propias de actores. Falta el minuto exacto en audio real (bloqueo de YouTube, explicado) |
-| 12 · Qué ama el fandom / qué NO hacer | ✅ | Memes, shipping, running gags y 6 avisos concretos de «qué no hacer», todos con fuente |
-| 13 · Descripción profunda de cada personaje | ✅ | Ficha completa (carácter, historia, miedo, arco, cómo se expresa, dinámicas) para Isagi, Bachira, Nagi, Rin, Sae y Kaiser; tabla resumen para 5 secundarios más. La «cara en cada emoción con fotograma y minuto» sólo se cubrió para Isagi y Bachira (⚠️, fotograma propio sin cruzar con capítulo oficial); Nagi/Rin/Sae/Kaiser quedan con retrato oficial mirado pero sin fotograma dinámico — **Sigue** si hace falta más |
-| 20 · Gustos y detalles | ✅ | Tabla de 6 personajes con comida, hobby y autopercepción, todo del databook oficial EGOIST BIBLE; el «objeto que siempre lleva» sólo se confirmó para Nagi (cactus) — el resto en «No encontré» |
-| 21 · Por qué la gente la ama | ✅ | Razones de reseñas (3 medios), encuesta de identificación (⚠️ 1 fuente), 3 escenas que hacen llorar con episodio y porqué confirmado en 2 fuentes cada una. Falta música y minuto exacto (tarea de vídeo) |
-| 22 · Fan dubs y comunidad hispana | ⚠️ | 5 fandubs y 2 covers de opening localizados por título/canal/fecha, pero **no vistos ni oídos** (YouTube bloqueado); parodias y presencia de merchandising en Perú confirmadas por búsqueda. Cumple el mínimo del punto (localizar y listar con enlace) pero con menos verificación directa que el resto |
-| 40 fuentes distintas | ✅ | Doblaje Wiki, AniList, Danbooru, Dailymotion, Reddit, Wikipedia, pocket.shonenmagazine.com, dengekionline.com, chiebukuro.yahoo.co.jp, animatetimes.com, bluelocksource.tumblr.com (×6 fichas), anmtvla.com (×2), sdpnoticias.com, wdnes.com, milenio.com (intentado), tvtropes.org (intentado), oneesports.gg, cbr.com, animecorner.me, inasianspaces.com, sportskeeda.com (×3), gamerant.com, cloudspress.com, screenrant.com, zhe-awesome-me-blog.tumblr.com, YouTube (×varios, por título), TikTok (×varios), Facebook (chesterkfandubs), wattpad.com — más de 40 fuentes únicas distintas de imagen/texto |
-| Fuentes en otros idiomas | ✅ | Japonés: pocket.shonenmagazine.com, dengekionline.com, chiebukuro.yahoo.co.jp. Inglés: la mayoría de reseñas y TV Tropes (intentado). Español: Doblaje Wiki, ANMTV, Milenio, SDPnoticias, wdnes.com |
+| 7. Personajes y popularidad | ✅ | 2 encuestas oficiales + AniList + Danbooru, contraste entre las 3, con personalidad/ropa/manía resumida de los 4 |
+| 8. Doblaje latino y frases | ✅ en el reparto (4/4 con 2 fuentes); ⚠️ en frases (solo texto en inglés del manga, sin confirmar la traducción exacta al doblaje por bloqueo de YouTube) | reparto sí, traducción literal no |
+| 12. Fandom: qué ama / qué NO hacer | ✅ | memes, ship, Ensemble Darkhorse, colaboración CONCACAF, reglas de qué evitar por personaje |
+| 13. Descripción profunda + cara por emoción | ✅ casi completo | carácter/arco/expresión/dinámicas completos para los 4; cara-por-emoción **completa para Isagi (5/5) y Nagi (5/5)**, **4/5 para Bachira** (falta solo rabia) y **4/5 para Rin** (falta solo vergüenza) — ver «Complemento» al final y «No encontré» |
+| 20. Gustos y detalles | ✅ | tabla comparativa de los 4 con la misma fuente (Egoist Bible vía wiki) |
+| 21. Por qué la gente la ama | ✅ | tono shonen, identificación por personaje, CONCACAF, 3 escenas con capítulo/minuto |
+| 22. Fan dubs y comunidad hispana | ✅ | 6 fandubs de YouTube/TikTok + 4 covers de opening, con el aviso de que no se pudieron reproducir por el bloqueo de YouTube |
 
-**Sigue**: nada obligatorio pendiente de mis 7 puntos — quedan sólo extras marcados con ⚠️ arriba (audio real del doblaje con minuto, objeto icónico de Isagi/Bachira, confirmación de prensa para el VA de Kaiser, ver fandubs/covers de verdad, música exacta de las escenas tristes). Si aparece `partes/episodios.md` del investigador de vídeo, revisar si trae minutos exactos para las escenas del punto 21 y para completar la «cara en cada emoción» del punto 13 de Nagi/Rin/Sae/Kaiser.
+## Bitácora de búsqueda
+- **Buscador web usado**: 9 de ~50 disponibles (`ANMTV Blue Lock doblaje latino elenco`, `Blue Lock encuesta popularidad oficial Kodansha`, `Blue Lock fandub español latino youtube`, `Blue Lock reddit made me cry`, `Blue Lock meme siuu Cristiano Ronaldo`, `Blue Lock por qué es popular Latinoamérica`, `Blue Lock CONCACAF colaboración`, `Blue Lock fans complain out of character fanart`, `Blue Lock Chigiri crying scene episode 7`, `TV Tropes Blue Lock YMMV`, `Blue Lock ship Isagi Bachira Nagi Rin dinámica`, `Blue Lock opening cover español latino`).
+- **Red directa** (sin buscador): API de Doblaje Wiki (`action=parse&prop=wikitext`) para la ficha y el reparto de Blue Lock; API de bluelock.fandom.com (inglés y español) para Quotes/Trivia/Personality/Relationships de los 4 personajes y la página de Encuestas de popularidad; API de Dailymotion (`api.dailymotion.com/videos?search=`) para localizar clips; API de metadatos de Internet Archive (`archive.org/metadata/<id>` y `advancedsearch.php`) para encontrar vídeo real de la serie.
+- **Vídeo mirado de verdad** (no reseñas): 3 fuentes de Internet Archive procesadas con `fotogramas.py` (un fotograma cada 4-25 s, ~470 fotogramas en total repartidos en 11 hojas de contacto, todas miradas con Read): `blue-lock-2-14-vostfr` (24 min), `blue-lock-2x-09-vostfr` (25 min, sólo el primer tramo con el flashback de Rin), y `film-vostfr-blue-lock-episode-nagi` (la película completa, 90 min, muestreada cada 25 s y luego con 2 pasadas finas en los minutos 1:18-1:23). También un clip de análisis de Dailymotion (`x96v9u8`, 6 min) para intentar localizar a Bachira, sin éxito claro.
+- **YouTube**: confirmado bloqueado desde este servidor (prueba directa con `yt-dlp` sobre un tráiler oficial: «This video is unavailable»); no se insistió más de un intento, según la regla del encargo. Todo lo que en este documento viene de un resultado de YouTube (fandubs, covers, vídeos de reacción) queda marcado ⚠️ porque se tomó del título/resumen del buscador, no de haber visto el vídeo.
+- **Vídeo eliminado tras usarlo**: los 4 `video.mp4` descargados (uno de ellos por error 3 veces, corregido) se borraron todos al terminar; solo quedan las hojas de contacto (jpg) y los `indice.json` con el minuto exacto de cada fotograma, en la carpeta de trabajo fuera del repositorio.
+- **Lo que falló**: recolectar.py no consiguió muestras `.mp3` de Doblaje Wiki para este show (columna vacía en `datos-voz.md`); no se intentó repetir esa consulta a mano por no ser la vía indicada como prioritaria (el encargo prioriza Dailymotion/Internet Archive/storyboards).
+
+## Complemento — fotogramas que faltaban del punto 13 (Bachira rabia/tristeza/miedo/vergüenza, Isagi y Nagi miedo/tristeza, Rin vergüenza)
+
+**Fuente nueva (V4)**: grabación de la emisión de Toonami (Adult Swim, EE. UU., doblaje inglés) del **episodio 13 de Blue Lock, «TOP3»** (arco Second Selection: el 3 contra 3 de Isagi/Bachira/Nagi contra Rin/Aryu/Tokimitsu; sinopsis oficial en bluelock.fandom.com/wiki/Episode_13 ✅) · https://archive.org/details/you-cut-20260509-120027008 (archivo `YouCut_20260509_120027008.mp4`, 60 min: Blue Lock ep.13 de min ~5:00 a ~30:00, luego Tokyo Revengers). Localizado con la API de Internet Archive (`advancedsearch.php?q=title:(Blue Lock episode Toonami)`) tras confirmar que no hay más episodios de temporada 1 subidos en `vostfr`. Es justo el episodio en el que, según la ficha oficial, el equipo de Rin gana 5-2 y se lleva a Bachira — por eso da las 4 emociones que faltaban de una vez. Fotogramas sacados con `herramientas/fotogramas.py --fotograma <segundo exacto>` sobre el vídeo descargado de Internet Archive; el vídeo se borró después de mirarlo, solo quedan los fotogramas sueltos fuera del repo.
+
+Identificación de personajes en V4: **Isagi** = pelo negro corto, ojos azules, camiseta blanca nº15; **Nagi** = pelo blanco/plata alborotado, ojos ocre, nº7; **Bachira** = pelo oscuro con mechón claro junto a las orejas, ojos amarillos muy grandes, nº16; **Rin** = pelo bicolor, capitán del equipo rojo (ya visto en el punto 13 original vía V1/V2).
+
+- **Bachira, miedo**: min **20:56** — de pie junto a Nagi (que le sujeta el hombro), ojos amarillos muy abiertos, boca entreabierta, gotas de sudor, reaccionando al nivel de Rin/Aryu/Tokimitsu. `https://archive.org/download/you-cut-20260509-120027008/YouCut_20260509_120027008.mp4?t=1256` ✅ (visto en vídeo)
+- **Bachira, vergüenza**: min **27:12** — plano solo, cuerpo entero, camiseta blanca nº16, ojos muy abiertos y sudando, justo cuando el equipo rival lo llama por señas para llevárselo delante de todos (sinopsis oficial: «Aryu then calls Bachira to come»). `…?t=1632` ✅
+- **Bachira, tristeza**: min **27:48** — de perfil, cabeza agachada, mechón claro visible, empapado, justo tras confirmarse el cambio de equipo («Bachira is disappointed as he wanted to stay with Isagi's team until the end», misma sinopsis oficial); hay además un primer plano de sus ojos llorando en min **28:08**. `…?t=1668` (perfil) y `…?t=1688` (ojos llorando) ✅
+- **Bachira, rabia**: ⚠️ **no localizada** en este episodio 13 (el más centrado en él de los 4 vistos hasta ahora del punto 13) ni en V1-V3 del punto 13 original — en todo el partido reacciona con sorpresa, tensión o tristeza, nunca con enfado visible en cámara; encaja con su ficha oficial («casi nunca pierde la calma», ya citada en el punto 13). Búsquedas hechas: Internet Archive (`advancedsearch.php?q=title:(Blue Lock episode Toonami)`, localizados también los episodios 14/16/17 por metadata sin descargarlos) y repaso fino fotograma a fotograma del episodio 13 en los tramos donde Bachira ataca/defiende (min 18:00-19:12 y 22:36-23:12). Queda pendiente para el investigador de vídeo si aparece un episodio centrado en su infancia («monstruo interior»), donde sí podría mostrar enfado.
+- **Isagi, miedo**: min **19:32** — primer plano, ojos azules muy abiertos, sudor cayendo, boca entreabierta, justo tras encajar el 2º gol de Rin. `…?t=1172` ✅
+- **Isagi, tristeza**: min **21:48** — primer plano, ojos azules con lágrimas/gotas cayendo por la cara, tras el gol que pone el 4-2 de Itoshi. `…?t=1308` ✅
+- **Nagi, miedo**: min **20:56** — mismo fotograma que el de Bachira de arriba (`…?t=1256`): Nagi detrás, pelo blanco, sujeta a Bachira del hombro con gesto tenso, mirando de reojo. ✅
+- **Nagi, tristeza**: min **21:28** — primer plano, pelo blanco, se seca la cara (sudor/lluvia) con gesto serio y apagado, ojos entornados hacia abajo. `…?t=1288` ✅
+- **Rin, vergüenza**: ⚠️ **sigue sin localizarse**, ahora tras revisar también el episodio 13 completo (el que más protagonismo le da de los 4 personajes investigados en este punto): en ningún momento baja la guardia ni parece incómodo, coherente con su propia ficha oficial («no lloro», declina explicaciones sin dar la cara). Se deja como rasgo de personaje, no como hueco de búsqueda sin intentar.
+
+Sigue: solo quedan 2 huecos de fotograma en el punto 13: rabia de Bachira (probar un episodio centrado en su infancia/«monstruo interior», Segunda Selección o Neo Egoist League, en Internet Archive/Dailymotion con otro nombre de archivo) y vergüenza de Rin (puede que no exista en pantalla, coherente con su ficha); y, si se recupera el acceso a YouTube en algún momento, confirmar la traducción exacta al doblaje latino de al menos 2 frases icónicas por personaje (punto 8).

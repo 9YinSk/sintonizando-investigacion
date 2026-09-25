@@ -1,52 +1,182 @@
 [
- {
-  "url": "https://archive.org/details/youtube-QAlsuW5EXUg",
-  "fuente": "Internet Archive (copia del tráiler oficial de YouTube, subtítulos en inglés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Tráiler oficial de Blue Lock (temporada 1), con logo, siluetas de Ego, frases de personajes y datos de circulación del manga (8.3 millones de copias)",
-  "para_que": "poses de presentación en grupo, tipografía del logo, paleta azul oficial medida en el fotograma 0:40 (#2553A8/#2B56AB)",
-  "licencia": "© Kodansha / Eight Bit / TV Asahi; sólo referencia",
-  "origen": "video-42-blue-lock"
- },
- {
-  "url": "https://archive.org/details/youtube-B_o-Fty-QFc",
-  "fuente": "Internet Archive (clip oficial reeditado, 19s, «Blue Lock Direct Shot»)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "La escena del primer Direct Shot de Isagi, episodio 11 «The Final Piece» (T1) — silueta negra con ojos verdes (su «monstruo» interior) y primer plano de sus ojos abiertos de par en par",
-  "para_que": "pose de revelación/determinación (punto 14), paleta oscura medida (#000101, #042504 en la silueta; #FBF7F4/#23347A en el primer plano de ojos)",
-  "licencia": "© Kodansha / Eight Bit; sólo referencia",
-  "origen": "video-42-blue-lock"
- },
- {
-  "url": "https://archive.org/details/blue-lock-2-14-vostfr",
-  "fuente": "Internet Archive (episodio completo, VOSTFR, audio japonés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Episodio 14 de la temporada 2 (FIN): el partido decisivo de Japón U-20, el gol final",
-  "para_que": "episodio completo visto con episodio.py — fondos de estadio, luz nocturna de reflectores, poses de gol, score orquestal en el clímax",
-  "licencia": "© Kodansha / Eight Bit; sólo referencia",
-  "origen": "video-42-blue-lock"
- },
- {
-  "url": "https://archive.org/details/blue-lock-2x-09-vostfr",
-  "fuente": "Internet Archive (episodio completo, VOSTFR, audio japonés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Episodio 9 de la temporada 2 — sustituto real visto entero porque el episodio 1 de la temporada 1 no está disponible en Internet Archive",
-  "para_que": "episodio completo visto con episodio.py — poses, fondos y paleta de un tramo temprano del arco del Mundial U-20",
-  "licencia": "© Kodansha / Eight Bit; sólo referencia",
-  "origen": "video-42-blue-lock"
- },
- {
-  "url": "https://archive.org/details/1200x-1200bb_202505",
-  "fuente": "Internet Archive (recopilación de fan de pistas de streaming)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Pistas sueltas del score de Jun Murayama con nombre de personaje (CHIGIRI, NAGI, REO, RIN, BACHIRA, Awakening of BAROU)",
-  "para_que": "confirma que cada personaje principal tiene su propio leitmotiv instrumental",
-  "licencia": "© titulares; sólo referencia (recopilación no oficial)",
-  "origen": "video-42-blue-lock"
- }
+  {
+    "url": "https://archive.org/details/youtube-QAlsuW5EXUg?t=91",
+    "fuente": "Internet Archive (mirror del tráiler oficial de YouTube)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Isagi Yoichi con los ojos brillando de azul gritando 'I'll be the one who survives!', clímax del tráiler oficial",
+    "para_que": "pose de 'presentar/declarar' para Isagi, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube-QAlsuW5EXUg?t=35",
+    "fuente": "Internet Archive (mirror del tráiler oficial)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Sala interior de la instalación Blue Lock: rejilla azul de neón sobre casilleros negros",
+    "para_que": "paleta de fondo medida con estilo.py, punto 4 (#020D18, #031528, #0A2740…)",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube-QAlsuW5EXUg?t=8",
+    "fuente": "Internet Archive (mirror del tráiler oficial)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Isagi caminando solo bajo un puente al atardecer, antes de entrar a Blue Lock",
+    "para_que": "paleta de fondo cálida medida con estilo.py, punto 4 (#BF99AC, #ECB877…)",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x98n4ks?t=4",
+    "fuente": "Dailymotion (tráiler oficial Blue Lock vs. U-20 Japan)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Edificio 'BLUE LOCK' sobre una colina boscosa al atardecer, vista exterior de la instalación",
+    "para_que": "paleta de fondo exterior medida con estilo.py, punto 4 (#362939, #FAEBDE…)",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x98n4ks?t=12",
+    "fuente": "Dailymotion (tráiler oficial Blue Lock vs. U-20 Japan)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Isagi Yoichi con un aura verde-azulada rodeándolo, habilidad activada",
+    "para_que": "pose de 'animar/activar habilidad' para Isagi, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x98n4ks?t=30",
+    "fuente": "Dailymotion (tráiler oficial Blue Lock vs. U-20 Japan)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primer plano de Itoshi Rin (pelo verde-azulado, ojos turquesa) con Chigiri desenfocado detrás",
+    "para_que": "pose de 'mirar frío/encarar' para Rin, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x98n4ks?t=36",
+    "fuente": "Dailymotion (tráiler oficial Blue Lock vs. U-20 Japan)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Itoshi Rin y su hermano Itoshi Sae de espaldas, camisetas 'RIN 10' (Blue Lock) y 'SAE 10' (selección absoluta)",
+    "para_que": "pose de rivalidad de hermanos para Rin, punto 14 y 'lo mejor para la lámina'",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89nzmm?t=12",
+    "fuente": "Dailymotion (Blue Lock Animé - Teaser 3 - Meguru Bachira, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primer plano de Bachira Meguru, ojos dorados muy abiertos, sonrisa afilada",
+    "para_que": "pose de 'presentar' para Bachira, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89nzmm?t=28",
+    "fuente": "Dailymotion (Blue Lock Animé - Teaser 3 - Meguru Bachira, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Bachira Meguru con la sonrisa 'monstruo' de dientes puntiagudos en primer plano extremo",
+    "para_que": "pose de 'celebrar/monstruo' para Bachira, punto 14 e ilustración del apodo 'monster'",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89nzmm?t=34",
+    "fuente": "Dailymotion (Blue Lock Animé - Teaser 3 - Meguru Bachira, JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Bachira Meguru driblando de cuerpo entero en chándal azul frente a un defensor",
+    "para_que": "pose de acción/dribbling para Bachira, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/film-vostfr-blue-lock-episode-nagi?t=2300",
+    "fuente": "Internet Archive (Blue Lock: Episode Nagi, VOSTFR íntegra)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Seishiro Nagi cabeceando el balón envuelto en un aura azul, activando su habilidad",
+    "para_que": "pose de 'rematar/animar habilidad' para Nagi, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/film-vostfr-blue-lock-episode-nagi?t=3100",
+    "fuente": "Internet Archive (Blue Lock: Episode Nagi, VOSTFR íntegra)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Seishiro Nagi riendo con una sonrisa amplia, 'somos un dúo de choque'",
+    "para_que": "pose de 'celebrar/reír' para Nagi, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8cmhe2?t=16",
+    "fuente": "Dailymotion (Blue Lock Official Teaser Trailer 8, Reo Mikage + Seishiro Nagi)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Seishiro Nagi tumbado bocabajo sobre una mesa, comiendo un pincho con tenedor, ojos entornados de sueño",
+    "para_que": "pose 'no hacer nada', la más icónica de la personalidad de Nagi, punto 14 y 'lo mejor para la lámina'",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/you-cut-20260509-120027008?t=780",
+    "fuente": "Internet Archive (grabación de fan de la emisión doblada de Toonami/Adult Swim, EE. UU.)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cartel de presentación 'ITOSHI RIN RANK 1' a pantalla completa dentro del episodio",
+    "para_que": "pose de 'presentar' para Rin y confirmación de nombre/rango, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; emisión de TV de fan, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/youtube-5aKIe8esj24?t=60",
+    "fuente": "Internet Archive (mirror de vídeo de análisis del canal Eight Bit)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Isagi Yoichi a media carrera golpeando el balón, etiquetado en pantalla 'Isagi Yoichi!'",
+    "para_que": "pose de acción/remate para Isagi, punto 14",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; vídeo de análisis de fan, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/blue-lock-2-14-vostfr?t=900",
+    "fuente": "Internet Archive (Blue Lock T2E14 VOSTFR íntegro, el episodio final)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "El equipo de Blue Lock amontonado celebrando el gol de la remontada final, marcador 3-4",
+    "para_que": "escena icónica de celebración grupal, punto 2 y 10",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/blue-lock-1-4?t=2070",
+    "fuente": "Internet Archive (vídeo de reacción/recopilación de episodios 1-4 de la T1)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Isagi Yoichi con su bufanda verde de cuadros, mirada preocupada, ropa de calle",
+    "para_que": "referencia de vestuario civil icónico de Isagi (bufanda verde), puntos 14 y 15",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; vídeo de reacción de fan, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/1200x-1200bb_202505",
+    "fuente": "Internet Archive (álbum de audio)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Blue Lock VS. U-20 Japan Exclusive Theme Songs Soundtrack, compositor Jun Murayama",
+    "para_que": "banda sonora incidental del arco U-20, punto 9",
+    "licencia": "© Jun Murayama / Kodansha; sólo referencia, no descargar para uso comercial"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2024-09-17/bluelock-season-2-anime-trailer-reveals-ending-theme-song-by-snow-man/.215665",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia que confirma el ending de la temporada 2, 'One' de Snow Man, y el opening 'Boujaku no Charisma' de Unison Square Garden",
+    "para_que": "fuente de texto para el punto 9 (música), no es imagen",
+    "licencia": "artículo periodístico, citar con enlace"
+  },
+  {
+    "url": "https://archive.org/details/youtube-QAlsuW5EXUg",
+    "fuente": "Internet Archive (mirror del tráiler oficial en inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial completo de Blue Lock con subtítulos en inglés, 1:47",
+    "para_que": "vídeo fuente para varias poses y la escena icónica del punto 2 y 10",
+    "licencia": "© Kodansha / 8bit / Blue Lock Project; sólo referencia"
+  }
 ]
