@@ -38,6 +38,10 @@ minuto); se ahorra así:
 
 - **Sólo escribes en tu carpeta**: `biblias/<tu-encargo>/` (series) o
   `investigaciones/<tu-tema>/` (temas). Nada fuera de ella en el repositorio.
+- **Webs que bloquean a curl** (TV Tropes, Reddit, fichas con «verificación»):
+  `python3 herramientas/navegar.py <url> --selector '<css>'` las abre con un
+  navegador sin ventana y te da el texto. Las wikis de Fandom no: usa su API
+  (`api.php`). YouTube abre la página, no el vídeo.
 - **No uses git**: ni `add`, ni `commit`, ni `push`, ni `checkout`, ni `stash`.
   Lo sube la sesión principal con `herramientas/subir.sh`.
 - Lo pesado (imágenes originales, subtítulos, vídeos, clones de GitHub) va a
