@@ -29,8 +29,8 @@ _Fuente: https://api.dailymotion.com_
 **«Neon Genesis Evangelion escena»**
 - Neon Genesis Evangelion anime · 0:56 · JeuxVideo.com · 17428 vistas · https://www.dailymotion.com/video/x89nqnd
 - Neon Genesis Evangelion · 0:56 · Vidaextra · 13569 vistas · https://www.dailymotion.com/video/x8czp5s
-- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9732 vistas · https://www.dailymotion.com/video/x89lzy3
-- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5809 vistas · https://www.dailymotion.com/video/x88ph3s
+- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9733 vistas · https://www.dailymotion.com/video/x89lzy3
+- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5810 vistas · https://www.dailymotion.com/video/x88ph3s
 - Neon Genesis Evangelion Trailer DF · 0:37 · FILMSTARTS · 797 vistas · https://www.dailymotion.com/video/x88ui0b
 - Neon Genesis Evangelion - Opening · 1:31 · Xataka México · 735 vistas · https://www.dailymotion.com/video/x8ait3c
 
@@ -53,6 +53,6 @@ _Fuente: https://musicbrainz.org_
 - THE END OF EVANGELION · LOREN & MASH, ARIANNE · 1997-08-01 · https://musicbrainz.org/release-group/1778ed55-6a74-47b2-be8e-d559e1f1d736
 - NEON GENESIS EVANGELION ADDITION · Various Artists · 1996-12-21 · https://musicbrainz.org/release-group/08506fd5-36d9-387a-b3b5-fca8f9996736
 - NEON GENESIS EVANGELION: S² WORKS · 鷺巣詩郎 · 1998-12-04 · https://musicbrainz.org/release-group/34771bb7-e470-31e8-aece-ff67a927ac59
-- NEON GENESIS EVANGELION 〜THE BEST COLLECTION〜 · Various Artists · 1997 · https://musicbrainz.org/release-group/160de663-f4b1-3dcc-bf90-465b3d193896
 - EVANGELION –THE DAY OF SECOND IMPACT– · Various Artists · 2000-09-13 · https://musicbrainz.org/release-group/43ee26b5-908e-4c3c-bdce-88aecd2f3dc4
+- NEON GENESIS EVANGELION 〜THE BEST COLLECTION〜 · Various Artists · 1997 · https://musicbrainz.org/release-group/160de663-f4b1-3dcc-bf90-465b3d193896
 - EVANGELION -THE BIRTHDAY OF Rei AYANAMI- · Various Artists · 2001-03-30 · https://musicbrainz.org/release-group/07082c18-02bc-3c6d-b5fc-97102d56ea67
