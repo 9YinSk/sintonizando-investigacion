@@ -1,0 +1,209 @@
+[
+ {
+  "url": "https://www.ghibli.jp/gallery/chihiro048.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/chihiro/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "El rótulo tallado «油屋» (Aburaya) sobre la entrada, con Boh (坊) y Chihiro cruzando el puente rojo",
+  "para_que": "cartela real de la serie para el cuadro de diálogo del canal (punto 5/6); madera #B87D4B, talla #6A4D3F",
+  "licencia": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM — uso libre declarado por Ghibli \"dentro de lo razonable\""
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/chihiro011.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/chihiro/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Exterior nocturno de la casa de baños con la bandera circular del kanji 油",
+  "para_que": "emblema/sello pequeño para insignias o etiquetas del canal (punto 5/25)",
+  "licencia": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM — uso libre declarado por Ghibli \"dentro de lo razonable\""
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/chihiro035.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/chihiro/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Primer plano de Boh llorando, con el peto rojo y el kanji 坊 en blanco",
+  "para_que": "referencia de texto infantil/redondeado en pantalla (punto 5); rojo #E7605A, kanji #EBECDC",
+  "licencia": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM — uso libre declarado por Ghibli \"dentro de lo razonable\""
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/chihiro003.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/chihiro/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Calle del pueblo espiritual abandonado de día, con fachadas de colores y letreros pequeños",
+  "para_que": "referencia adicional de rótulos del mundo (punto 6/25), sin transcribir con certeza (texto pequeño)",
+  "licencia": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM — uso libre declarado por Ghibli \"dentro de lo razonable\""
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/yuji-syuku@latest/files/yuji-syuku-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Yuji Syuku (pincel fino) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "logo o título del canal (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/klee-one@latest/files/klee-one-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Klee One (escritura a mano cuidada) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "globo normal de diálogo (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/yuji-boku@latest/files/yuji-boku-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Yuji Boku (pincel grueso e irregular) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "grito (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/zen-old-mincho@latest/files/zen-old-mincho-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Zen Old Mincho (serif fino y sobrio) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "pensamiento / interior (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/hachi-maru-pop@latest/files/hachi-maru-pop-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Hachi Maru Pop (redonda y saltarina) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "onomatopeya (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/shippori-mincho-b1@latest/files/shippori-mincho-b1-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Shippori Mincho B1 (gruesa, esquinas de cincel) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "cartel del mundo, como el rótulo 油屋 (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/m-plus-rounded-1c@latest/files/m-plus-rounded-1c-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre M PLUS Rounded 1c (redondeada, tipo HUD japonés) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "interfaz de videojuego, hipotética (punto 5; no hay juego oficial, ver punto 11)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-jp@latest/files/noto-sans-jp-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Noto Sans JP (neutra, muy legible) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "subtítulos o créditos (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/yomogi@latest/files/yomogi-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Yomogi (pincel suelto, cartas/notas escritas a mano) — comprobada con fontTools: á é í ó ú ñ Ñ ¿ ¡ Á É presentes",
+  "para_que": "alternativa para notas manuscritas (punto 5, extra)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Bathhouse",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la casa de baños (Aburaya): historia, distribución por plantas, dueña",
+  "para_que": "reglas del mundo y vocabulario propio (punto 25)",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Haku",
+  "fuente": "Ghibli Wiki (Fandom), citando el Roman Album de Tokuma Shoten",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Haku / Nigihayami Kohakunushi, con su nombre real y origen como espíritu de río",
+  "para_que": "símbolo central del mundo: el robo/olvido de nombres (punto 25)",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://ghibli.fandom.com/wiki/Shikigami",
+  "fuente": "Ghibli Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de los papelitos-pájaro (shikigami) que usa Yubaba",
+  "para_que": "objeto icónico del mundo (punto 25)",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://blog.alltheanime.com/toonz-toon-shaders-and-studio-ghibli/",
+  "fuente": "All the Anime (blog especializado)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo técnico sobre el uso de Toonz y Toon Shaders (Michael Arias) en El viaje de Chihiro",
+  "para_que": "estilo de dibujo y técnica, cómo replicarlo en 3D (punto 18)",
+  "licencia": "© All the Anime; sólo como fuente, no para reproducir el texto"
+ },
+ {
+  "url": "https://xsisupport.com/tag/spirited-away/",
+  "fuente": "eX-SI (comunidad técnica de Softimage)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Detalle técnico de los 100 planos en Softimage|3D, shader de textura 2D y shaders de agua",
+  "para_que": "estilo de dibujo y técnica, cómo replicarlo (punto 18)",
+  "licencia": "© eX-SI; sólo como fuente, no para reproducir el texto"
+ },
+ {
+  "url": "https://japansociety.org/events/the-village-beyond-the-mist-with-bestselling-childrens-author-sachiko-kashiwaba/",
+  "fuente": "Japan Society",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota sobre Sachiko Kashiwaba y la influencia de su novela en Miyazaki",
+  "para_que": "obras parecidas / influencias reconocidas (punto 24)",
+  "licencia": "© Japan Society; sólo como fuente"
+ },
+ {
+  "url": "https://note.com/hatamove/n/nc1fbe1bf2674",
+  "fuente": "note.com (blog de fans, hatamove)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Explicación del nombre 油屋 (Aburaya) y de las referencias arquitectónicas reales de Miyazaki",
+  "para_que": "vocabulario propio y diseño del mundo (punto 25) — marcado ⚠️, fuente secundaria",
+  "licencia": "© autor del blog; sólo como fuente"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/walking-animation-of-chihiro-47360c43be15476ca2e22529b668c928",
+  "fuente": "Sketchfab (autor: xuanxuann11)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Chihiro con animación de caminar (7.018 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/animated-monster-kaonashi-no-face-37434fa7e31a4b90a21006820e75b59b",
+  "fuente": "Sketchfab (autor: klaimtrev)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D animado de Sin Cara / Kaonashi (156.844 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/dragon-haku-0a92ffdf9d5e476387a0a3d6042c6dcb",
+  "fuente": "Sketchfab (autor: soukosouji)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D muy detallado del Haku dragón (1.495.520 caras), fan art",
+  "para_que": "base/referencia de proporciones para Blender (punto 18) — citar autor, no es oficial",
+  "licencia": "CC Attribution (confirmado con la API de Sketchfab)"
+ }
+]

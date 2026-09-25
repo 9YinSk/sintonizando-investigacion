@@ -75,10 +75,59 @@ parece correcto aunque la fuente sea una resubida de fan):
   plana sin relleno de color (sólo contorno gris) · `&t=14` a `&t=20` · ✅
 - Hoja completa: `/tmp/.../op1/hoja_01.jpg`, `indice.json`.
 
-**Ending y resto de temas**: no encontramos vídeo del ending (ni «Distortion!!»
-ni «Karakara») en Dailymotion ni Internet Archive con contenido real (las
-búsquedas devolvieron resultados sin relación, ver Bitácora). Las letras y la
-ficha de audio oficial del ending sí están confirmadas en el punto 9. ⚠️
+**Ending 1, «Distortion!!», completo y real** — conseguido en la segunda tanda:
+AnimeThemes seguía caído (522/timeout, dos intentos más), pero
+`web.archive.org` sí había archivado el `.webm` original de AnimeThemes
+(`v.animethemes.moe/BocchiTheRock-ED1.webm`, snapshot del 2024-04-12) —
+descarga directa (no vía `fotogramas.py`, que no reconoce URLs de Wayback:
+se bajó con Python y se le pasó el archivo local), 16.9 MB, mirado entero
+cada 2 s (45 fotogramas, 0:00-1:29) ·
+https://web.archive.org/web/20240412231907id_/https://v.animethemes.moe/BocchiTheRock-ED1.webm
+· ✅ (el propio vídeo trae su carátula «『Distortion!!』結束バンド» en el
+minuto 0:46, que coincide con la portada del single en MusicBrainz y en la
+wiki):
+- **Mismo estilo de recorte de papel que el opening** (ver arriba): fondo de
+  color liso por escena (rosa→amarillo→azul→rojo→morado), Bocchi chibi de
+  cartulina tocando la guitarra, un perrito mascota de papel troquelado ·
+  ejemplos en `fotograma_00012` (rosa), `fotograma_00018` (azul), `fotograma_00020`
+  (rojo, con «Nana» rotulado a mano) · 0:12-0:20
+- **Las cuatro integrantes, un panel de color por personaja** (pantalla
+  dividida en 4 franjas verticales): Bocchi de rosa con mascarilla y ojos muy
+  abiertos, asustada, guitarra rosa · Nijika de amarillo/naranja, tapándose
+  la boca con las dos manos, avergonzada · Kita de rojo, cara llorosa,
+  guitarra rosa-roja · Ryo de azul, cara inexpresiva, bajo azul-grisáceo ·
+  paleta medida con `estilo.py`: `#FDFDFD` 48% (fondo blanco entre paneles),
+  `#EC7083` 15%, `#F6C3D5` 15%, `#F8C96F` 11%, `#97BAD3` 7%, `#46709B` 5% —
+  saturación 22%, brillo 95% (paleta pastel, muy distinta a la de los
+  episodios) · `fotograma_00044.jpg`, 0:44 · ✅
+- **Vinilo girando con Bocchi chibi tocando encima**, para los créditos
+  finales, con el logo de STARRY al lado (0:36-0:42) y los créditos técnicos
+  bilingües en fondo rosa/amarillo/azul/rojo (0:12-0:32) · ✅
+- Hoja completa: `/tmp/.../ed1_distortion/hoja_01.jpg`, fotogramas sueltos
+  en alta (`fotograma_00044.jpg`, `fotograma_00046.jpg`)
+
+**Ending 2 «Karakara», 3 «Nani ga Warui» y el ending final «Korogaru Iwa,
+Kimi ni Asa ga Furu»: no se consiguió vídeo real**, a pesar de 4 vías
+distintas probadas en la segunda tanda (ver detalle completo en «No
+encontré»): Wayback no tiene esos tres `.webm` de AnimeThemes archivados
+(sólo ED1 y ED4, y el de ED4 sólo como página con reproductor, sin el
+archivo en bruto capturado); YouTube con `yt-dlp
+--extractor-args youtube:player_client=android` sí saltó el bloqueo de
+login (algo nuevo: antes daba «Sign in to confirm you're not a bot» siempre)
+pero el vídeo real (formato 18) dio **403 Forbidden** al descargar y los
+*storyboards* (plan C, con los clientes `android` y `mweb`) llegaron
+**corruptos** (bloques verdes sólidos y manchas diagonales en vez de
+fotogramas, con dos decodificadores distintos —Pillow y ffmpeg— dando el
+mismo resultado, así que no es un problema de visor); Dailymotion con los
+títulos japoneses exactos («カラカラ», «なにが悪い», «転がる岩») sólo devolvió
+los mismos tráilers y anuncios de siempre; Bilibili bloqueó la búsqueda
+(412, control anti-bot); y la wiki de Fandom sólo tiene la carátula del
+single y el audio (`.ogg`), no capturas del vídeo. ⚠️ Lo que SÍ se confirmó
+de estos tres, en texto (dos fuentes independientes en japonés,
+lisani.jp y famitsu.com, además de la wiki): «カラカラ» (ED2, ep. 4-7) tiene
+la voz de **Ryo Yamada (CV. Saku Mizuno)**, no de Kita — letra y música de
+Ikkyu Nakajima; dirección/diseño de animación del vídeo a cargo de
+**Suzuki Haruka**.
 
 **3 escenas icónicas** (además de las de arriba), de **capturas oficiales
 1080p de la wiki** (una por episodio y hasta 4-5 alternativas, `Episode_N-n.png`,
@@ -392,20 +441,35 @@ imagen fija, tal y como permite el punto 14 del encargo.
 
 ## No encontré
 
-- ⚠️ **El ending real en vídeo** (ni «Distortion!!» ni «Karakara» ni «Nani
-  ga Warui»): busqué en Dailymotion («Bocchi the Rock ending», «結束バンド
-  Distortion MV», «結束バンド カラカラ») y en Internet Archive
-  (`title:("Bocchi the Rock")`) sin encontrar el vídeo del ending en sí,
-  sólo el opening (ver punto 2) y los tráilers. YouTube bloqueado. Es un
-  extra sobre lo obligatorio del punto 9 (que ya tiene título, duración,
-  fecha y letra confirmados en dos fuentes): la imagen en movimiento del
-  ending queda pendiente si se libera YouTube.
-- ⚠️ **AnimeThemes** (`.webm` de OP/ED sin depender de YouTube): error 522
-  las tres veces (recolectar.py + dos intentos propios, con `curl` y con
-  Python en momentos distintos, con y sin `include=`). El proxy del
-  contenedor está bien (`recentRelayFailures: []`), así que el servidor de
-  AnimeThemes está caído de verdad, no es un bloqueo de aquí. Pendiente de
-  reintentar.
+- ⚠️ **Vídeo real de los endings 2, 3 y el final** («Karakara», «Nani ga
+  Warui», «Korogaru Iwa, Kimi ni Asa ga Furu» — el ending 1 «Distortion!!»
+  SÍ se consiguió completo, ver punto 2 y 9). Probado en 4 vías distintas en
+  la segunda tanda: (1) Wayback Machine de los `.webm` de AnimeThemes — sólo
+  ED1 y ED4 están archivados, y el de ED4 sólo como página con reproductor
+  (sin el archivo en bruto: pedirlo con `id_` da un bucle de redirección,
+  probado 5 veces); ED2 y ED3 no tienen ninguna captura en Wayback (probado
+  con `/wayback/available` y variantes de nombre: `-ED2`, `-ED3`, `-ED2v2`,
+  `-NCED2`, `-NCED3`); (2) YouTube con
+  `yt-dlp --extractor-args youtube:player_client=android`: esto sí evita el
+  «Sign in to confirm you're not a bot» (novedad respecto a la primera
+  tanda), pero descargar el vídeo real da **403 Forbidden**, y los
+  *storyboards* (plan C, clientes `android` y `mweb`) llegan corruptos
+  (bloques verdes sólidos, confirmado con dos decodificadores — Pillow y
+  ffmpeg — así que es el archivo de origen, no el visor); (3) galerías de
+  la wiki de Fandom para «Karakara», «Nani ga Warui» y «Korogaru Iwa, Kimi
+  ni Asa ga Furu»: sólo tienen la carátula del single y el audio `.ogg`, sin
+  capturas de vídeo; la web oficial `bocchi.rocks/music/ed.html` tampoco
+  trae enlaces de YouTube visibles en el HTML servido; (4) Dailymotion con
+  los títulos japoneses exactos y Bilibili (bloqueado con 412, control
+  anti-bot, no se insistió más de una vez). Si se libera YouTube del todo
+  (no sólo el player API, también la descarga real) se puede completar con
+  `fotogramas.py` directo.
+- ⚠️ **AnimeThemes caído**: error 522 o timeout las **cinco** veces que se
+  probó en total (recolectar.py + 4 intentos propios en las dos tandas, con
+  `curl` y con Python, en momentos distintos). El proxy del contenedor está
+  bien (`recentRelayFailures` no lo señala como bloqueo de política), así
+  que el servidor de AnimeThemes lleva caído de verdad varias horas, no es
+  un bloqueo de aquí.
 - ⚠️ **Vídeo real del episodio 8 y 12 completos** (más allá de las capturas
   fijas oficiales de la wiki): no hay clips de escenas de episodios
   completos en Dailymotion (sólo tráilers/PVs oficiales), y los pocos
@@ -491,15 +555,15 @@ imagen fija, tal y como permite el punto 14 del encargo.
   compilación de fan). Colores medidos con `estilo.py` sobre 4 fotogramas
   (STARRY ×2, festival, entrada de STARRY).
 
-Sigue: **obligatorio pendiente** — conseguir vídeo real del ending (AYUDANTE.md
-pide mirar «el opening, un ending, un tráiler y 3 escenas icónicas»; el
-opening, el tráiler y las escenas ya están, el ending no: probado en 5
-búsquedas de Dailymotion distintas, el único archivo de Internet Archive
-con «opening/closing» resultó ser el menú del Blu-ray, no la canción, y
-AnimeThemes sigue caído). Reintentar cuando AnimeThemes vuelva
-(`https://api.animethemes.moe/anime?filter[slug]=bocchi-the-rock`) o si
-YouTube deja de pedir login. Como extra, si hay tiempo: medir con
-`estilo.py` el cuarto/pasillo de Bocchi (tráiler, `&t=6`) y sacar minuto
-exacto de más escenas de estilo cambiante en vídeo (hoy sólo confirmadas
-con capturas fijas + reseñas de texto).
+Lo obligatorio de AYUDANTE.md (opening, un ending, un tráiler, 3+ escenas
+icónicas) está completo: opening «Seishun Complex» y ending 1 «Distortion!!»
+enteros y reales, dos tráilers oficiales completos, más de 3 escenas
+icónicas con capítulo. Sin pendientes obligatorios de este rol.
+
+Sigue (extra, no obligatorio, si se reintenta esta parte): AnimeThemes para
+los `.webm` de ED2/ED3/ED4 (`https://api.animethemes.moe/anime?filter[slug]=bocchi-the-rock`,
+caído 5/5 intentos hasta ahora); YouTube directo con `fotogramas.py` si algún
+día deja de dar 403 en la descarga real (el bloqueo de login ya se salta con
+`--extractor-args youtube:player_client=android`, pero falta poder bajar el
+vídeo); medir con `estilo.py` el cuarto/pasillo de Bocchi (tráiler, `&t=6`).
 
